@@ -22,5 +22,7 @@
 
 ## Community / Social
 
-* [Untitled](community-social/untitled.md)
+* [Twitter](community-social/untitled.md)
+* [Discord](community-social/discord.md)
+* [Blog \(Medium\)](community-social/blog-medium.md)
 
