@@ -2,15 +2,19 @@
 
 * [Pancake Swap Intro](README.md)
 
-## Core Products
+## PancakeSwap Core Products <a id="core-products"></a>
 
-* [PancakeSwap Exchange](core-products/pancakeswap-exchange.md)
-* [PancakeSwap Pools](core-products/pancakeswap-pools.md)
-* [PancakeSwap Analytics](core-products/pancakeswap-analytics.md)
+* [Exchange](core-products/pancakeswap-exchange.md)
+* [Pools](core-products/pancakeswap-pools.md)
+* [Farms](core-products/farms.md)
+* [Voting](core-products/voting.md)
+* [Analytics](core-products/pancakeswap-analytics.md)
 
 ## Tokenomics
 
-* [Untitled](tokenomics/untitled.md)
+* [CAKE Basics](tokenomics/untitled.md)
+* [SYRUP](tokenomics/syrup.md)
+* [Golden SYRUP](tokenomics/golden-syrup.md)
 
 ## Guides
 

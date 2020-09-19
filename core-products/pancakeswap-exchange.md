@@ -1,4 +1,4 @@
-# PancakeSwap Exchange
+# Exchange
 
 \*\*\*\*[**Token swaps**](https://exchange.pancakeswap.finance/#/swap) on PancakeSwap are a simple way to trade one BEP-20 token for another via automated liquidity pools.
 
