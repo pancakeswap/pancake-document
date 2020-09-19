@@ -1,6 +1,6 @@
 # PancakeSwap Pools
 
-[PancakeSwap pools](https://exchange.pancakeswap.finance/#/pool) allow you to provide liquidity by adding your tokens to liquidity pools or “LPs”.
+\*\*\*\*[**PancakeSwap pools** ](https://exchange.pancakeswap.finance/#/pool)allow you to provide liquidity by adding your tokens to liquidity pools or “LPs”.
 
 When you add your token to a liquidity pool \(LP\), you will receive FLIP tokens \(PancakeSwap’s version of liquidity provider tokens\). 
 
