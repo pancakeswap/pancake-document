@@ -14,7 +14,7 @@
 
 ## Guides
 
-* [Untitled](guides/untitled.md)
+* [How to use MetaMask on PancakeSwap](guides/untitled.md)
 
 ## FAQs
 
