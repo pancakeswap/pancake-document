@@ -1,4 +1,4 @@
-# SYRUP
+# SYRUP \(Staking\)
 
 Coming soon...
 

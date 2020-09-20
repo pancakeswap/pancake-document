@@ -1,4 +1,4 @@
-# Golden SYRUP
+# Golden SYRUP \(Lottery\)
 
 Coming soon...
 
