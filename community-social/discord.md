@@ -1,4 +1,4 @@
-# Discord
+# Telegram
 
-[https://discord.gg/gQQrGqU](https://discord.gg/gQQrGqU)
+[https://t.me/PancakeSwap](https://t.me/PancakeSwap)
 
