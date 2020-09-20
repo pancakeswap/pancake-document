@@ -21,10 +21,6 @@
 * [How to use MetaMask on PancakeSwap](guides/untitled.md)
 * [How to get BEP20 tokens](guides/how-to-get-bep20-tokens.md)
 
-## FAQs
-
-* [Untitled](faqs/untitled.md)
-
 ## Community / Social
 
 * [Twitter](community-social/untitled.md)
