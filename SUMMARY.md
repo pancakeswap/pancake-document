@@ -27,3 +27,7 @@
 * [Discord](community-social/discord.md)
 * [Blog \(Medium\)](community-social/blog-medium.md)
 
+---
+
+* [Github](github.md)
+
