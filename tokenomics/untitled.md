@@ -8,7 +8,7 @@
 
 **Token:** CAKE
 
-**Contract Address:** [**https://bscscan.com/token/0x7d813C828b0d1083Bb08b38841C45304A920060b**](https://bscscan.com/token/0x7d813C828b0d1083Bb08b38841C45304A920060b)
+**Contract Address:** [**https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82**](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82)\*\*\*\*
 
 **Chain:** Binance Smart Chain \(BEP-20\)
 
