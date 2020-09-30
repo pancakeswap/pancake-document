@@ -26,5 +26,5 @@ For example:
 * The CAKE/BNB liquidity pool now has 10.017 CAKE and 10.017 BNB.
 * Each FLIP token is now worth 1.00017 CAKE + 1.00017 BNB.
 
-To make being a liqiuidity provider even more worth your while, you can also put your FLIP tokens to work whipping up some fresh yield on the [CAKE farms \(here\)](https://pancakeswap.finance/), while still earning your 0.17% trading fee reward. 
+To make being a liquidity provider even more worth your while, you can also put your FLIP tokens to work whipping up some fresh yield on the [CAKE farms \(here\)](https://pancakeswap.finance/), while still earning your 0.17% trading fee reward. 
 
