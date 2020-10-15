@@ -26,8 +26,8 @@
 
 ## Community / Social
 
-* [Twitter](community-social/untitled.md)
 * [Telegram Communities](community-social/telegram.md)
+* [Twitter](community-social/untitled.md)
 * [Blog \(Medium\)](community-social/blog-medium.md)
 
 ## Code
