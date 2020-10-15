@@ -1,4 +1,4 @@
-# Telegram
+# Telegram Communities
 
 **Official Telegram Groups:** 
 

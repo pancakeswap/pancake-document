@@ -1,4 +1,4 @@
-# SYRUP \(Staking\)
+# SYRUP
 
 **Stack your CAKE with syrup.**   
 

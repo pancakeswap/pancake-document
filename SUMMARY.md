@@ -15,9 +15,8 @@
 
 ## Tokenomics
 
-* [CAKE Basics](tokenomics/untitled.md)
-* [SYRUP \(Staking\)](tokenomics/syrup.md)
-* [Lottery](tokenomics/golden-syrup.md)
+* [CAKE](tokenomics/untitled.md)
+* [SYRUP](tokenomics/syrup.md)
 
 ## Guides
 
@@ -28,7 +27,7 @@
 ## Community / Social
 
 * [Twitter](community-social/untitled.md)
-* [Telegram](community-social/telegram.md)
+* [Telegram Communities](community-social/telegram.md)
 * [Blog \(Medium\)](community-social/blog-medium.md)
 
 ## Code
