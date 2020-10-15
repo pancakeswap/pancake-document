@@ -1,8 +1,6 @@
 # CAKE
 
-\*\*\*\*
-
-![](../.gitbook/assets/group-501.png)
+![CAKE Token](../.gitbook/assets/icon-square-512.png)
 
 \*\*\*\*
 
