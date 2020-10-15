@@ -4,7 +4,6 @@
 
 1. You STAKE your CAKE to get SYRUP
 2. Now you are earning a portion of 25% of each block reward
-
 3. Now you stake that SYRUP and start earning tokens from brand new BSC projects
 
 This is galaxy mega brain CAKE compounding.
