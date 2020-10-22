@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Pancake Swap Intro](README.md)
-* [FAQ](faq.md)
+* [GENERAL FAQ](faq.md)
+* [LOTTERY FAQ](lottery-faq.md)
 
 ## Core Products
 

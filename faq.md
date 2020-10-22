@@ -2,7 +2,7 @@
 description: Shout out to the price bot s1mer for putting these together.
 ---
 
-# FAQ
+# GENERAL FAQ
 
 ## What is SYRUP?
 
