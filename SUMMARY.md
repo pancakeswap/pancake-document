@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Pancake Swap Intro](README.md)
+* [PANCAKESWAP INTRO](README.md)
 * [GENERAL FAQ](faq.md)
 * [LOTTERY FAQ](lottery-faq.md)
 
