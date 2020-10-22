@@ -18,9 +18,9 @@ If you don’t match all 4, no need to worry. As long as you match 2 or more num
 
 **Winning Ratio:**
 
-* Match all 4 numbers in the same position = win 60% of the pot \(or split the pot if more than 1 winner\). 
-* Match 3 numbers in the same position = win or split 20% of the pot.
-* Match 2 numbers in the same position = win or split 10% of the pot.
+* Match all 4 numbers in the exact order = win 60% of the pot \(or split the pot if more than 1 winner\). 
+* Match 3 numbers in the exact order = win or split 20% of the pot.
+* Match 2 numbers in the exact order = win or split 10% of the pot.
 * Burn remaining 10% of the pot.
 
 For example, if the final 4 winning numbers are “1-9-3-2”:  
