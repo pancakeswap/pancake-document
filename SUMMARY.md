@@ -5,6 +5,7 @@
 ## Guides & FAQs <a id="guides"></a>
 
 * [How to Trade on the PancakeSwap Exchange](guides/how-to-trade-on-the-pancakeswap-exchange.md)
+* [How to Yield Farm on PancakeSwap](guides/how-to-yield-farm-on-pancakeswap.md)
 * [Binance Academy Guide](guides/binance-academy-guide.md)
 * [How to use PancakeSwap with Trust Wallet](guides/how-to-use-pancakeswap-with-trust-wallet.md)
 * [How to use MetaMask on PancakeSwap](guides/untitled.md)
