@@ -61,7 +61,7 @@
 
 ![](https://lh6.googleusercontent.com/4w7xng4U9odjKOANtRMtGvTJph1AgP-H4k-rTJK8yC3KIZQ12hjeVFMhAPnHZH9CvMTv0v1-USG6EsEqif_sMvlAthCJcTNDI9v4cXIfBEfCG19e9zYdRXB2VolP6psvHWy7Fy98)
 
-**10. Enter the amount of liquidity tokens you want to stake and click “Confirm”.**
+**10. Enter the number of liquidity tokens you want to stake and click “Confirm”.**
 
 \*\*\*\*
 
