@@ -1,6 +1,4 @@
-# SYRUP
-
-![SYRUP Token](../.gitbook/assets/icon-square-512.png)
+# SYRUP \(Staking\)
 
 **Stack your CAKE with syrup.**   
 
