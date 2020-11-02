@@ -23,11 +23,13 @@
 * [SYRUP Pool](core-products/syrup-pool.md)
 * [Analytics](core-products/pancakeswap-analytics.md)
 * [Voting](core-products/voting.md)
-* [Lottery](core-products/lottery.md)
+* [Lottery Updated](core-products/lottery-updated/README.md)
+  * [Lottery](core-products/lottery-updated/lottery.md)
 
 ## Tokenomics
 
-* [CAKE](tokenomics/untitled.md)
+* [CAKE - Updated 10/29/2020](tokenomics/cake-updated-10-29-2020/README.md)
+  * [CAKE](tokenomics/cake-updated-10-29-2020/untitled.md)
 * [SYRUP](tokenomics/syrup.md)
 
 ## Community / Social
