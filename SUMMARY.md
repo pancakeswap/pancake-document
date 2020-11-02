@@ -23,7 +23,7 @@
 * [SYRUP Pool](core-products/syrup-pool.md)
 * [Analytics](core-products/pancakeswap-analytics.md)
 * [Voting](core-products/voting.md)
-* [Lottery Updated](core-products/lottery-updated/README.md)
+* [Lottery Updated 10/29/2020](core-products/lottery-updated/README.md)
   * [Lottery](core-products/lottery-updated/lottery.md)
 
 ## Tokenomics
