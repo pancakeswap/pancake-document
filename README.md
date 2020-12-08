@@ -1,32 +1,37 @@
-# Pancake Swap Intro
+# PancakeSwap Intro
 
-PancakeSwap is an automated market maker \(“AMM”\) that allows two tokens to be exchanged on the Binance Smart Chain. It is fast, cheap, and allows anyone to participate.
+### Intro
 
-![](.gitbook/assets/masthead-twitter.png)
+PancakeSwap is a **decentralized exchange** running on Binance Smart Chain, with lots of other features that let you **earn and win tokens.** 
 
-**The Dream?**  
+It's fast, cheap, and anyone can use it. 
 
+It's also got pancakes and rabbits.
 
-Stacks of pancakes, syrup, whipped cream.   
+### Features
 
+#### ↔️ Trade
 
-Then after breakfast, PancakeSwap is aiming to be the \#1 liquidity provider on Binance Smart Chain and the home of new, innovative gamified farming mechanics, many of which we suspect will make it to other chains and beyond.   
+The [exchange](exchange/pancakeswap-exchange.md) is an automated market maker \(“AMM”\) that allows two tokens to be exchanged on the Binance Smart Chain. 
+
+#### 💸 Earn
+
+On top of that, you can earn CAKE with [yield farms](yield-farming/farms.md), earn CAKE with Staking, and earn even more tokens with [Syrup pools](syrup-pools/syrup-pool.md).
+
+#### 🎲 Win
+
+Win big with the [PancakeSwap Lottery](lottery-1.md)!
+
+![](.gitbook/assets/1500x500.jpeg)
+
+### **Why Binance Smart Chain \(BSC\)?**
+
+In very simple terms, why would we want to drive a slower car that costs more to run? We're all about gamification, so we want to maximize the feedback loop of earning, staking, and earning again: BSC's superior speed and much \(much much\) lower transaction fees let us do this.
+
+While BSC might not have the level of adoption Ethereum does at current, we believe in Binance’s ability and drive to get it mighty close in the foreseeable future.
+
+Faster. Cheaper. **Sold.**
+
+**Now get flipping!** 🐰 🥞  
 ****
-
-**Why Binance Smart Chain \(BSC\)?**  
-
-
-To be honest, it’s a no brainer. In very simple terms, why would we want to drive a slower car that costs more to run? While BSC might not have the level of adoption Ethereum does at current, we believe in Binance’s ability and drive to get it mighty close in the foreseeable future. Sure, launching on Ethereum would be the easiest thing to do and probably receive faster initial uptake, but we like a challenge and are betting on BSC’s future.   
-****
-
-Faster, cheaper. **Sold.**  
-
-
-**What makes PancakeSwap different from every other “farm”?**  
-
-
-We’re here to have fun.   
-
-
-What does that mean exactly? We’re going to be trying new things, with a focus on gamification.
 
