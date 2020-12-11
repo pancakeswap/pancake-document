@@ -30,8 +30,12 @@ Ok so it's not actually a roadmap: it's a to-do list, in no particular order, wi
 * [x] **IFO \(Initial Farm Offering\):** Raise funds for your project in CAKE-BNB LP tokens. After redeeming the LP tokens, the BNB is distributed to the project and the CAKE is burned.
 * [ ] **Lending & Borrowing:** Lend and borrow BSC and LP tokens - CAKE provides rate discount
 * [ ] **Margin Trading:** Trade BSC tokens with leverage on-chain — periodic CAKE buyback and burn
-* [ ] **NFT Ecosystem:** Mint, trade, breed, and more — all paid in CAKE
+* [ ] **NFT Ecosystem:** Mint, trade, and more — all paid in CAKE
+  * [x] First NFT round
 * [ ] **NFT-based Gamification:** Complete tasks, level up etc. to earn NFTs — use CAKE to mint
+* [ ] **Binary Options**
+* [ ] **Fixed-term Staking**
+* [ ] **Customizable User Profile**
 
 ![Comin&apos; up](.gitbook/assets/image.png)
 
