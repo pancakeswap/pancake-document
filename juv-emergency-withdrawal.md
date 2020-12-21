@@ -2,7 +2,7 @@
 
 1. Go here [https://www.bscscan.com/address/0x27bd41e77cab966a57232915292410acfd2761ac](https://www.bscscan.com/address/0x27bd41e77cab966a57232915292410acfd2761ac)
 
-2. Click Contract 
+2. Click "Contract" 
 
 ![](.gitbook/assets/screenshot-2020-12-21-at-3.58.33-pm.png)
 
