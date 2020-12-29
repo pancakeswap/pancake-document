@@ -10,6 +10,18 @@ description: Thank you for expressing your interest in contributing to PancakeSw
 * All pull requests **must** have a description of what the PR is trying to accomplish. Where applicable please provide a checklist of deliverables.
 * Keep pull requests as small as possible. Larger pull requests should be broken up into smaller chunks with a dedicated base branch. Please tag the PR's that are merging into your base branch with the `epic` tag.
 * If possible self-review your PR and add comments where additional clarification is needed
+* Before creating a new component check the [UI Kit](https://github.com/pancakeswap/pancake-uikit). If a variant of a component needs to create use the corresponding component in the UI Kit as a base. For example:
+
+```javascript
+import styled from 'styled-components'
+import { Button } from '@pancakeswap-libs/uikit'
+
+const NewButtonVariant = styled(Button)`
+  // custom styles here
+`
+```
+
+
 
 #### Forking
 
