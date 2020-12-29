@@ -48,6 +48,7 @@
 
 ## Code
 
+* [Contributing](code/contributing.md)
 * [Github](code/github.md)
 
 ---
