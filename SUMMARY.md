@@ -46,10 +46,10 @@
 * [Binance Academy Guide](guides/binance-academy-guide.md)
 * [Social Accounts & Communities](guides/telegram.md)
 
-## Code
+## Development Guide <a id="code"></a>
 
 * [Contributing](code/contributing.md)
-* [Github](code/github.md)
+* [Codebase Overview](code/codebase-overview.md)
 
 ---
 
