@@ -53,9 +53,9 @@ const NewButtonVariant = styled(Button)`
 `
 ```
 
-#### Follow the same code conventions than the team
+#### Use the tools !
 
-Most of our repo use [Typescript](https://www.typescriptlang.org/docs), [ESLint](https://eslint.org/docs/user-guide/getting-started), and [Prettier](https://prettier.io/). Make sure you are familiar with Typescript good practice, and enable an ESLint and Prettier plugin for your IDE.
+Most of our repos use [Typescript](https://www.typescriptlang.org/docs), [ESLint](https://eslint.org/docs/user-guide/getting-started), and [Prettier](https://prettier.io/). Make sure you are familiar with Typescript’s best practices, and enable an ESLint and Prettier plugin for your IDE.
 
 {% hint style="warning" %}
 Make sure your code is formatted with Prettier, and is free from any ESLint error before you submit a pull request.
@@ -87,7 +87,7 @@ _More at_ [_Angular's guidelines_](https://github.com/angular/angular/blob/22b96
 
 ### Creating your pull request 
 
-Your code is ready to be submitted for review, congratulation 🥳 
+Your code is ready to be submitted for review, congratulations🥳 
 
 * All pull requests **must** have a description of what the PR is trying to accomplish.
 * Keep pull requests **as small as possible**. Larger pull requests should be broken up into smaller chunks with a dedicated base branch. Please tag the PR's that are merging into your base branch with the `epic` tag.
