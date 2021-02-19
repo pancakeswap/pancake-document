@@ -16,9 +16,6 @@ description: Hiring requirements and job description
 * Thorough understanding of how PancakeSwap \(Exchange, Farming, Info, Voting\) works.
 * Minimum 3 years experience as a technical writer.
 * Demonstrated experience editing highly technical developer and/or product documentation
-* Be able to work autonomously.
-* The candidate should be independent enough to make important technical decisions on their own.
-* The candidate should be driven and innovative, planning the best ways to get full test coverage of the product.
 
 ### Responsibilities:
 
