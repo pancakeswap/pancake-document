@@ -25,6 +25,7 @@ If you've got a strong interest in gamification and whimsy in user experience, h
 * Experience working with \(creating, mantaining, or using\) design systems
 * Be able to work autonomously
 * Portfolio demonstrating your diret contributions to multiple projects
+* Passion for gamification in app design
 
 ### How to apply
 
