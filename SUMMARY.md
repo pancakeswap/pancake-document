@@ -51,3 +51,8 @@
 * [Contributing](code/contributing.md)
 * [Codebase Overview](code/codebase-overview.md)
 
+## Hiring
+
+* [Technical Writer](hiring/technical-writer.md)
+* [Senior QA Engineer](hiring/senior-qa-engineer.md)
+
