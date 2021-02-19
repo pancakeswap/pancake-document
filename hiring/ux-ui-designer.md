@@ -28,5 +28,5 @@ If you've got a strong interest in gamification and whimsy in user experience, h
 
 ### How to apply
 
-Email PancakeSwap@gmail.com with your portfolio.
+Email PancakeSwap@gmail.com with your portfolio and cover letter.
 
