@@ -55,4 +55,5 @@
 
 * [Technical Writer](hiring/technical-writer.md)
 * [Senior QA Engineer](hiring/senior-qa-engineer.md)
+* [UX/UI Designer](hiring/ux-ui-designer.md)
 
