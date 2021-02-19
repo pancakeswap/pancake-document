@@ -6,7 +6,7 @@ description: Hiring requirements and job description
 
 ### **General Information**
 
-* **Salary range:** $90k US Annual salary
+* **Salary range:** $110k+ US Annual salary
 * **Position:** Full-time
 * **Location:** Remote
 * **Time-zone preference:** Any
