@@ -37,7 +37,7 @@ Ok so it's not actually a roadmap: it's a to-do list, in no particular order, wi
 * [ ] **Fixed-term Staking**
 * [x] **Customizable User Profile**
 
-![Comin&apos; up](.gitbook/assets/image.png)
+![Comin&apos; up](.gitbook/assets/image%20%281%29.png)
 
 
 

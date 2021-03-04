@@ -45,6 +45,15 @@ TLDR: Basically, the more you put in, the more you will get, and you’ll get ba
 
 In the “Overflow” method, users can subscribe as much or as little as they want to the IFO, and their final allocation will be based on the amount of funds they put in as a percentage of all funds put in by other users at the time the sale ends. Users will receive back any leftover funds when they claim their tokens after the sale.
 
+{% hint style="warning" %}
+It's possible to receive no tokens at all: If you commit a very small amount of LP tokens compared to the total amount committed by others, your contribution may be such a small part of the total that you may not qualify for even a small portion of the tokens sold.  
+In such a case, you will still be able to reclaim all the CAKE-BNB LP tokens you committed.
+{% endhint %}
+
+
+
+![Three models of possible outcomes for the Overflow method.](../.gitbook/assets/image.png)
+
 ## What happens if the IFO doesn't raise all the funds targeted?
 
 The sale will proceed as normal, and all funds contributed will be spent.
