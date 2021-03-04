@@ -8,13 +8,13 @@
 
 **Token:** CAKE
 
-**Contract Address:** [https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82) 
+**Contract Address:** [https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82)
 
 **Chain:** Binance Smart Chain \(BEP-20\)
 
-**Emission rate:** 
+**Emission rate:**
 
-* **Reward per block -**  40 CAKE                                                                                                       ****
+* **Reward per block -**  40 CAKE                                                                                                       _\*\*_
 * **Daily emission \(Based on 30k blocks per day\) -**  1,200,000 CAKE per day
 
 **Distribution:**
