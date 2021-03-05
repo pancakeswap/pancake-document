@@ -98,17 +98,5 @@ You can check the analytics of PancakeSwap by click on the "Analytics" tab on th
 
 Analytics: [https://pancakeswap.info/](https://pancakeswap.info/)
 
-## Can I become who I want to be?
-
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
-
-## Can I become who I want to be?
-
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
-
-## Can I become who I want to be?
-
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
-
 
 
