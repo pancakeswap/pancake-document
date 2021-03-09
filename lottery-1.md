@@ -2,10 +2,9 @@
 
 **Specifics:**
 
-* Lottery Ticket Fee for 1 ticket: 10 CAKE 
-* Single User Lottery Entry Limit: No limit
-* Paying for one ticket \(10 CAKE\) will give users a random 4 digit combination with each digit being between 1-14, for e.g. “1-9-3-2”
-* In the UI, users can choose to enter a multiple of 10 CAKE, which will buy them multiple tickets. 
+* Lottery Ticket Fee for 1 ticket: 1 CAKE 
+* Single User Lottery Entry Limit: No overall limit, but only 50 can be bought at one time through the UI
+* Paying for one ticket will give users a random 4 digit combination with each digit being between 1-14, for e.g. “1-9-3-2”
 
 \*\*\*\*
 
@@ -28,13 +27,11 @@ Please note - in the event that no participants were able to match 3 numbers on 
 For example, if the final 4 winning numbers are “1-9-3-2”:  
 
 
-        - “1-9-3-2” = match all 4
-
-        - “1-9-2-2” = match 3
-
-        - “2-3-3-2” = match 2
-
-        - “1-2-1-2” = match 2
+* “2-3-9-1” = match 0
+* **“1-9-3-2” = match all 4**
+* “1-9-2-2” = match 3
+* “2-3-3-2” = match 2
+* “1-2-1-2” = match 2
 
 
 
@@ -58,7 +55,7 @@ An example of a lottery session starting at 5 PM is below:
 
 * You have 1 hour to buy tickets. 
 * The lottery jackpot will accumulate at the top of the page with each ticket bought.
-* Users will receive a ticket \(comprised of 4 digits\) for each 10 CAKE paid.
+* Users will receive a ticket \(comprised of 4 digits\) for each 1 CAKE paid.
 
 **Phase 2 - Lottery Draw! \(10 PM\)**
 

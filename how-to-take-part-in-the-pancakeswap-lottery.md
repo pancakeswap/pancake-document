@@ -1,6 +1,6 @@
 # How to Take Part in the PancakeSwap Lottery
 
-
+## This page is outdated, but the basic method is the same
 
 ![](https://cdn-images-1.medium.com/max/1600/0*b4-TEKDOtSCZHyfw)
 
