@@ -24,7 +24,7 @@ Before Sale:
 
 During Sale:
 
-1. While the sale is live, commit your CAKE-LP tokens to buy the IFO tokens at [https://pancakeswap.finance/ifo](https://pancakeswap.finance/ifo)
+1. While the sale is live, commit your CAKE-BNB LP tokens to buy the IFO tokens at [https://pancakeswap.finance/ifo](https://pancakeswap.finance/ifo)
 
 After Sale:
 
