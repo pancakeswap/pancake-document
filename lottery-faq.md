@@ -18,7 +18,7 @@ Yes, you will need to click the “Claim Prizes” button on the lottery page.
 
 ## How often is the lottery?
 
-Each full lottery session will run for 6 hours.
+Each full lottery session will run for 12 hours.
 
 ## Where can I see the winning ticket numbers?
 

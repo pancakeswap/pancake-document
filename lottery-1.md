@@ -20,7 +20,7 @@ If you don’t match all 4, no need to worry. As long as you match 2 or more num
 * Match all 4 numbers in the exact order = win 50% of the pot \(or split the pot if more than 1 winner\). 
 * Match 3 numbers in the exact order = win or split 20% of the pot.
 * Match 2 numbers in the exact order = win or split 10% of the pot.
-* Burn remaining 20% of the pot.
+* Burn the remaining 20% of the pot.
 
 Please note - in the event that no participants were able to match 3 numbers on any draw, the 20% allocated to winners will then be burned accordingly.
 
@@ -44,7 +44,7 @@ Each full lottery session is completed every 6 hours \(4 per day\), with the tim
 
 11 AM - 5 PM \(SGT\) 
 
-5 PM - 11 PM \(SGT\)  - **50,000 CAKE tokens are injected into this lottery draw every day.**
+5 PM - 11 PM \(SGT\)  - **20,000 CAKE tokens are injected into this lottery draw every day.**
 
 11 PM - 5 AM \(SGT\) 
 
