@@ -2,7 +2,7 @@
 description: Hiring requirements and job description
 ---
 
-# Senior QA Engineer
+# Blockchain QA Engineer
 
 ### **General Information**
 
@@ -14,7 +14,7 @@ description: Hiring requirements and job description
 ### Requirements:
 
 * Thorough understanding of how PancakeSwap \(Exchange, Farming, Info, Voting\) works.
-* Solid experience in writing automated tests for dApp frontends.
+* Experience in writing automated tests for dApp frontends.
 * Ability to create testing setup from zero.
 * Be able to work autonomously.
 * The candidate should be independent enough to make important technical decisions on their own.
