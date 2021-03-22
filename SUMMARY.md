@@ -53,6 +53,7 @@
 
 ## Hiring
 
+* [Frontend Software Engineer - JavaScript / Typescript / React](hiring/frontend-software-engineer-javascript-typescript-react.md)
 * [Solidity Engineer](hiring/solidity-engineer.md)
 * [Technical Writer](hiring/technical-writer.md)
 * [Blockchain QA Engineer](hiring/senior-qa-engineer.md)
