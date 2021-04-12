@@ -15,15 +15,15 @@
 |  | Emission/block \(CAKE\) | Emission/day \(CAKE\) |
 | :--- | ---: | ---: |
 | Emission | 40 | 1,200,000 |
-| Burned | -15 | -450,000 |
-| **Effective Emission** | **25** | **750,000** |
+| Burned | -18 | -540,000 |
+| **Effective Emission** | **22** | **660,000** |
 
 ### Distribution:
 
 | Distributed to | Reward/block\(% of emission\) | Reward/block \(total CAKE\) | Reward/day |
 | :--- | ---: | ---: | ---: |
-| Farmers | 60% | 15 | 450,000 |
-| Syrup pools | 40% | 10 | 300,000 |
+| Farmers | 54.55% | 12 | 360,000 |
+| Syrup pools | 45.45% | 10 | 300,000 |
 
 ### **Other Deflationary Mechanics:**
 
