@@ -1,59 +1,35 @@
-![masthead](https://user-images.githubusercontent.com/73102969/116112752-6f03a500-a6ea-11eb-904b-a66877eb9d77.png)
+# PancakeSwap Intro
 
-### PancakeSwap helps you make the most out of your crypto in three ways:
-### Trade, Earn, and Win.
+PancakeSwap is a **decentralized exchange** running on Binance Smart Chain, with lots of other features that let you **earn and win tokens.** 
 
-# ↔️ Trade
+It's fast, cheap, and anyone can use it. 
 
-> Instantly swap crypto tokens: no registration or account needed.
+It's also got pancakes and rabbits.
 
-### The people's choice
-PancakeSwap is the leading decentralized exchange on Binance Smart Chain, with the highest trading volumes in the market (sources: [1](https://www.coingecko.com/en/exchanges/decentralized)  [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
+### Features
 
-### Low fees
-Why pay more? PancakeSwap runs on Binance Smart Chain, a blockchain with much lower transaction costs than Ethereum or Bitcoin. Trading fees are lower than other top decentralized exchanges too, so that's a double win for you!
+#### ↔️ Trade
 
-### Decentralized
-Trade directly from your wallet app. Unlike centralized exchanges like Binance or Coinbase, PancakeSwap doesn’t hold your funds when you trade: **you have 100% ownership of your own crypto**.
+The [exchange](products/pancakeswap-exchange/) is an automated market maker \(“AMM”\) that allows two tokens to be exchanged on the Binance Smart Chain. 
 
-# 💸 Earn
+#### 💸 Earn
 
-> Earn CAKE and other tokens for free with super high interest rates.
+On top of that, you can earn CAKE with [yield farms](products/yield-farming/farms.md), earn CAKE with Staking, and earn even more tokens with [Syrup pools](products/syrup-pools/syrup-pool.md).
 
-### Earn tokens with Syrup Pools
-Stake CAKE, earn free tokens. It’s really that easy. CAKE holders right now are earning tens of millions of USD worth of free tokens each week from major projects. New projects join the party every day, so you can earn more, for even longer.
+#### 🎲 Win
 
-### Earn CAKE with Yield Farms
-Stake LP tokens, earn CAKE. You take on a little more exposure to market fluctuations than with the Syrup Pools, but can earn higher APR to offset the risk.
+Win big with the [PancakeSwap Lottery](products/lottery/lottery-1.md)!
 
-### Earn Trading Fees
-No farm? No problem. Even if your trading pair isn’t supported on the Farms page, you can still earn trading fees when you stake your tokens in Liquidity Pools (LPs).
+![](.gitbook/assets/1500x500.jpeg)
 
+### **Why Binance Smart Chain \(BSC\)?**
 
-# 🎲 Win
+In very simple terms, why would we want to drive a slower car that costs more to run? We're all about gamification, so we want to maximize the feedback loop of earning, staking, and earning again: BSC's superior speed and much \(much much\) lower transaction fees let us do this.
 
-> PancakeSwap makes making money fun.
+While BSC might not have the level of adoption Ethereum does at current, we believe in Binance’s ability and drive to get it mighty close in the foreseeable future.
 
-### Lottery
-**Millions of dollars** regularly go up for grabs on the PancakeSwap Lottery. 
-Join as many as **11,000 daily players** for your chance to win big!‌
+Faster. Cheaper. **Sold.**
 
-### NFT Collectibles
-Win collectible NFTs for participating in trading competitions and more fun & games.
+**Now get flipping!** 🐰 🥞  
+****
 
-### Predictions
-Win BNB if you can predict whether the BNB price will rise or fall.
-New rounds every 5 minutes!
-
-# Is it safe?
-See for yourself:
--   Security Audit:    
-    -   Check out [Certik’s security audit of PancakeSwap](https://www.certik.org/projects/pancakeswap)
--   Transparent:
-    -   We’re built on open-source software: our site and all our Smart Contracts are publicly visible for maximum transparency.
-    -   Our contracts are verified on BscScan so you know that what you see is what you get: [1](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E)  [2](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#code)  [3](https://bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812)  [4](https://bscscan.com/address/0x1b96b92314c44b159149f7e0303511fb2fc4774f#code)  [5](https://bscscan.com/address/0x92E8CeB7eAeD69fB6E4d9dA43F605D2610214E68)
--   Security best practices:
-    -   The chefs use multisig for all contracts.
-    -   Our contracts’ time-lock gives you peace of mind.
-
-**Sounds like fun? Then get flipping!** 🐰 🥞
