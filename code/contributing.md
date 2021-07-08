@@ -29,7 +29,7 @@ We try to maintain as much consistency as we can between each of our repository.
 
 ### Use the UIKit <a id="use-the-uikit"></a>
 
-Check the [UI Kit](https://github.com/pancakeswap/pancake-uikit) before you start doing anything. A lot of components are already created, and we don't want that you waste your time reinventing the wheel 😉
+Check the [UI Kit](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit) before you start doing anything. A lot of components are already created, and we don't want that you waste your time reinventing the wheel 😉
 
 If a variant of a component needs to be created, use the corresponding component in the UI Kit as a base. For example:
 
