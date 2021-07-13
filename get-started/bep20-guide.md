@@ -1,6 +1,6 @@
 # Get BEP20 Tokens
 
-![](../.gitbook/assets/docs-masthead-10-%20%281%29.png)
+![How to get BEP20 tokens header](../.gitbook/assets/docs-masthead-10-%20%281%29.png)
 
 The native tokens of Binance Smart Chain \(BSC\) are **BEP20**.
 
@@ -12,7 +12,7 @@ You can go a few ways about converting your tokens to BEP20, but here are the on
 
 {% tabs %}
 {% tab title="🔒 SafePal" %}
-[**SafePal** ](https://safepal.io/download) - You don't need an account, or to register etc. Execute cross-chain swaps directly from your wallet.
+[**SafePal**](https://safepal.io/download) - You don't need an account, or to register etc. Execute cross-chain swaps directly from your wallet.
 
 📖 [Here's a quick guide they made to help you out.](https://docs.safepal.io/safepal-app/cross-chain-swap-tutorial)
 {% endtab %}
@@ -29,4 +29,3 @@ You can go a few ways about converting your tokens to BEP20, but here are the on
 📖 [Here's a quick guide they made to help you out.](https://www.binance.com/en/support/faq/85a1c394ac1d489fb0bfac0ef2fceafd)
 {% endtab %}
 {% endtabs %}
-

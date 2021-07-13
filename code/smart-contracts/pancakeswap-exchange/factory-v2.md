@@ -112,4 +112,3 @@ interface IPancakeFactory {
     function setFeeToSetter(address) external;
 }
 ```
-
