@@ -4,7 +4,7 @@ The PancakeSwap bug bounty program is focused around our smart contracts, websit
 
 {% embed url="https://immunefi.com/bounty/pancakeswap/" %}
 
-**Smart Contracts and Blockchain**\*
+## Smart Contracts and Blockchain\*
 
 | Level |  |
 | :--- | :--- |
@@ -15,7 +15,7 @@ The PancakeSwap bug bounty program is focused around our smart contracts, websit
 
 \*All bug reports must include a Proof of Concept demonstrating how the vulnerability can be exploited to be eligible for a reward. This may be a smart contract itself or a transaction.
 
-**Website and Apps**
+## Website and Apps
 
 | Level |  |
 | :--- | :--- |
@@ -26,4 +26,3 @@ The PancakeSwap bug bounty program is focused around our smart contracts, websit
 \*XSS reports are restricted to those that have an impact of prompting a user to sign a transaction or a redirect.
 
 All payouts are done by the **PancakeSwap** team and are pegged to the **USD** values set here and are payable in **CAKE** or **BUSD**.
-

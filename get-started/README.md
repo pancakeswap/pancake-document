@@ -1,6 +1,6 @@
 # Get Started
 
-![](../.gitbook/assets/docs-masthead-15-%20%281%29.png)
+![Get started header](../.gitbook/assets/docs-masthead-15-%20%281%29.png)
 
 Using anything new can be a bit of a challenge. Don't worry though, we've created a range of guides to help you get comfortable with PancakeSwap!
 
@@ -29,4 +29,3 @@ Once you have a wallet set up and connected to PancakeSwap, feel free to check o
 Check the menu for more documentation on the range of PancakeSwap features and services, including more advanced guides.
 
 If you can't find what you need, feel free to visit the [PancakeSwap Telegram](https://t.me/pancakeswap) and ask for help there!
-
