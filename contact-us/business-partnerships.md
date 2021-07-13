@@ -1,8 +1,8 @@
 # Business Partnerships
 
-![Business partnerships header image](../.gitbook/assets/docs-masthead-21-%20%281%29.png)
+![](../.gitbook/assets/docs-masthead-21-%20%281%29.png)
 
-## Farms and Syrup Pools
+## Farms and Syrup Pools 
 
 Farms incentivize users to provide liquidity for your trading pair by distributing CAKE to your pair's LP Token holders.
 
@@ -27,9 +27,9 @@ Qualifying criteria for Community Farms and Core Farms/Pools are based on our in
 
 If you’ve already got an ongoing Pool and Farm, you may be able to extend the timeline via a Boost Pool. If you wish to increase the multiplier, the team will consider if if 30-day volume is increased. Contact us via your existing PancakeSwap communication channels for enquiries.
 
-## IFOs (Token Sales)
+## IFOs \(Token Sales\)
 
-"IFO" (Initial Farm Offering) is a new model of token sale pioneered by PancakeSwap. Here's how it works, in short:
+"IFO" \(Initial Farm Offering\) is a new model of token sale pioneered by PancakeSwap. Here's how it works, in short:
 
 * Users buy your token with CAKE-BNB LP tokens
 * After the sale, we distribute the BNB to you and burn the CAKE.
@@ -41,7 +41,7 @@ Learn more about [how IFOs work](../products/ifo-initial-farm-offering/).
 * Please don't email us to apply - we only respond to applications via the application form.
 * Please don't chase us for a response on your application. We have a constant backlog of quality projects reaching out to us.
 
-## Listing on the Exchange
+## Listing on the Exchange <a id="exchange"></a>
 
 ### How can I list my token on the exchange?
 
@@ -49,7 +49,7 @@ Anybody can "list" any BEP-20 network token on PancakeSwap. You don't need to co
 
 ### How can I add my token to the default list?
 
-The top 100 list is generated according to the highest volume for a specific period of time. As for the Extended list: projects hosting Farms will usually be added, and other tokens chosen by PancakeSwap core team may also be added.
+The top 100 list is generated according to the highest volume for a specific period of time. As for the Extended list: projects hosting Farms will usually be added, and other tokens chosen by PancakeSwap core team may also be added. 
 
 We don’t take applications for these lists. Users can still add your token manually by entering its contract address.
 
@@ -67,7 +67,7 @@ Check our [Troubleshooting page](../help/troubleshooting.md) for a list of commo
 
 ## Something else
 
-You can shoot us an email at pancakeswap@gmail.com if the above parts don't cover your questions really don't help you.
+You can shoot us an email at pancakeswap@gmail.com if the above parts don't cover your questions really don't help you. 
 
 Please don't try to contact us via this email for [customer support](customer-support.md), that's not what it's for and we won't respond: your best option for getting help with the product is via the [Telegram or Reddit community](telegram.md).
 

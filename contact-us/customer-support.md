@@ -2,7 +2,7 @@
 
 ![Well, the thing is...](../.gitbook/assets/docs-masthead-23-.png)
 
-## There is NO customer support for PancakeSwap
+## There is NO customer support for PancakeSwap.
 
 If you're experiencing issues,
 

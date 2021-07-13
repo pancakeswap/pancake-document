@@ -16,10 +16,12 @@ The following links will take you to the BscScan page for PancakeSwap's main sma
 Each Farm used by PancakeSwap has its own smart contract. Follow the steps below to view a Farm's smart contract.
 
 1. Go to the [PancakeSwap Farms page](https://pancakeswap.finance/farms) and click the row of the Farm you want to see the contract for.
-![CAKE-BNB farm](../../.gitbook/assets/image%20%28162%29.png)
+
+![](../../.gitbook/assets/image%20%28162%29.png)
 
 2. When the details section expands out, click the **View Contract** link on the left to open the contract in BscScan.
-![View contract on a farm expanded](../../.gitbook/assets/image%20%28167%29.png)
+
+![](../../.gitbook/assets/image%20%28167%29.png)
 
 ## IFO contracts
 
@@ -28,15 +30,20 @@ IFO contracts are unique to each new IFO. Follow the steps below to view an IFO'
 ### Current or most recent IFO
 
 Go to the [PancakeSwap IFO page](https://pancakeswap.finance/ifo) and look on the bottom right of the IFO information for a **View Contract** link.
-![Most recent IFO view contract button](../../.gitbook/assets/image%20%28100%29.png)
+
+![](../../.gitbook/assets/image%20%28100%29.png)
 
 ### Previous IFOs
 
 1. Go to the [PancakeSwap IFO page](https://pancakeswap.finance/ifo) and click the **Past IFOs** toggle at the top of the page.
-![Past IFOs tab](../../.gitbook/assets/image%20%28159%29.png)
+
+![](../../.gitbook/assets/image%20%28159%29.png)
 
 2. Find the banner of the IFO you'd like to see and click the **down arrow** button to expand it.
-![Down arrow button](../../.gitbook/assets/image%20%2864%29.png)
+
+![](../../.gitbook/assets/image%20%2864%29.png)
 
 3. Find and click the **View Contract** link on the bottom right of the expanded information.
-![View contract link for past IFOs](../../.gitbook/assets/image%20%2875%29.png)
+
+![](../../.gitbook/assets/image%20%2875%29.png)
+

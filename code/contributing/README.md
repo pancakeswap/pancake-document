@@ -4,44 +4,44 @@ description: Thank you for expressing your interest in contributing to PancakeSw
 
 # Contributing
 
-![PancakeSwap Developers Header](../../.gitbook/assets/docs-masthead-18-%20%281%29.png)
+![](../../.gitbook/assets/docs-masthead-18-%20%281%29.png)
 
-Pancake is an open-source project. If you want to contribute to the project, this section is here to guide you through your first steps with the Pancake team 🥞
+Pancake is an open-source project. If you want to contribute to the project, this section is here to guide you through your first steps with the Pancake team 🥞 
 
-Before starting any development, we highly encourage you to submit an issue on Github in order to discuss the problem, and the solution with the team. If you want to reach out to the dev team directly, [contact **@chef\_chungus**](https://t.me/chef_chungus) on Telegram ![Telegram Logo](../../.gitbook/assets/logo.svg)
+Before starting any development, we highly encourage you to submit an issue on Github in order to discuss the problem, and the solution with the team. If you want to reach out to the dev team directly, [contact **@chef\_chungus**](https://t.me/chef_chungus) on Telegram ![](../../.gitbook/assets/logo.svg) 
 
-## Setup your dev environment
+### Setup your dev environment
 
 1. Fork the repository and an [add upstream remote](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork). E.g.
 
    ```bash
-   git remote add upstream git@github.com:pancakeswap/pancake-frontend.git
+   $ git remote add upstream git@github.com:pancakeswap/pancake-frontend.git
    ```
 
 2. Make sure you have the latest version of the default branch \( `develop` or `master` \)
 
    ```bash
-   git checkout develop
-   git pull upstream develop
+   $ git checkout develop
+   $ git pull upstream develop
    ```
 
 3. Create your own branch and install dependencies
 
    ```bash
-   git checkout -b branch-name
-   yarn
+   $ git checkout -b branch-name
+   $ yarn
    ```
 
-4. Happy coding 🎉
+4. Happy coding 🎉 
 
 ### Coding rules
 
-We try to maintain as much consistency as we can between each of our repository. Your pull request has more chances to be accepted if you follow some the following rules, and write high quality code. **Let's get started** 💪
+We try to maintain as much consistency as we can between each of our repository. Your pull request has more chances to be accepted if you follow some the following rules, and write high quality code. **Let's get started** 💪 
 
 #### Use the UIKit
 
 {% hint style="warning" %}
-Check the [UI Kit](https://github.com/pancakeswap/pancake-uikit) before you start doing anything. A lot of components are already created, and we don't want that you waste your time reinventing the wheel 😉
+Check the [UI Kit](https://github.com/pancakeswap/pancake-uikit) before you start doing anything. A lot of components are already created, and we don't want that you waste your time reinventing the wheel 😉 
 {% endhint %}
 
 If a variant of a component needs to be created, use the corresponding component in the UI Kit as a base. For example:
@@ -55,7 +55,7 @@ const NewButtonVariant = styled(Button)`
 `
 ```
 
-#### Use the tools
+#### Use the tools !
 
 Most of our repos use [Typescript](https://www.typescriptlang.org/docs), [ESLint](https://eslint.org/docs/user-guide/getting-started), and [Prettier](https://prettier.io/). Make sure you are familiar with Typescript’s best practices, and enable an ESLint and Prettier plugin for your IDE.
 
@@ -69,7 +69,7 @@ Make sure your code is formatted with Prettier, and is free from any ESLint erro
 * Use [Composition over Inheritance](https://reactjs.org/docs/composition-vs-inheritance.html).
 * Keep in mind that your code will be read and maintained by several other developers. Make it as clear and easy to update as possible.
 
-### Committing
+### Committing <a id="committing"></a>
 
 Our commit messages follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) using [commitlint](https://commitlint.js.org/#/).‌
 
@@ -85,17 +85,11 @@ Our commit messages follow [Conventional Commits](https://www.conventionalcommit
 | **style** | Changes that do not affect the meaning of the code \(white-space, formatting, missing semi-colons, etc\) |
 | **test** | Adding missing tests or correcting existing tests |
 
-### Example of acceptable commit messages
-
-* feat: Prediction leaderboards
-* fix: APR calculation for manual pool
-* feat: Add new wallet
-
 _More at_ [_Angular's guidelines_](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#type)_​_
 
-### Creating your pull request
+### Creating your pull request 
 
-Your code is ready to be submitted for review, congratulations🥳
+Your code is ready to be submitted for review, congratulations🥳 
 
 * All pull requests **must** have a description of what the PR is trying to accomplish.
 * Keep pull requests **as small as possible**. Larger pull requests should be broken up into smaller chunks with a dedicated base branch. Please tag the PR's that are merging into your base branch with the `epic` tag.
@@ -105,4 +99,5 @@ Your code is ready to be submitted for review, congratulations🥳
 Create a [draft PR](https://github.blog/2019-02-14-introducing-draft-pull-requests/) as soon as possible so we can view your ongoing progress.
 {% endhint %}
 
-**Thanks your for helping us making Pancake even more awesome** ❤
+**Thanks your for helping us making Pancake even more awesome** ❤ 
+

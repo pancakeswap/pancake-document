@@ -56,7 +56,7 @@
   * [CAKE Tokenomics](tokenomics/cake/cake-tokenomics.md)
   * [Controlling CAKE supply](tokenomics/cake/controlling-cake-supply.md)
 
-## Developers
+## Developers <a id="code"></a>
 
 * [Contributing](code/contributing/README.md)
   * [Codebase Overview](code/contributing/codebase-overview.md)
@@ -74,3 +74,4 @@
   * [Senior Backend Engineer - JavaScript / TypeScript](hiring/become-a-chef/senior-backend-engineer-javascript-typescript.md)
   * [Solidity Engineer](hiring/become-a-chef/solidity-engineer.md)
   * [Blockchain QA Engineer](hiring/become-a-chef/senior-qa-engineer.md)
+
