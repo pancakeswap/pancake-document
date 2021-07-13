@@ -27,9 +27,9 @@ Qualifying criteria for Community Farms and Core Farms/Pools are based on our in
 
 If you’ve already got an ongoing Pool and Farm, you may be able to extend the timeline via a Boost Pool. If you wish to increase the multiplier, the team will consider if if 30-day volume is increased. Contact us via your existing PancakeSwap communication channels for enquiries.
 
-## IFOs (Token Sales)
+## IFOs \(Token Sales\)
 
-"IFO" (Initial Farm Offering) is a new model of token sale pioneered by PancakeSwap. Here's how it works, in short:
+"IFO" \(Initial Farm Offering\) is a new model of token sale pioneered by PancakeSwap. Here's how it works, in short:
 
 * Users buy your token with CAKE-BNB LP tokens
 * After the sale, we distribute the BNB to you and burn the CAKE.

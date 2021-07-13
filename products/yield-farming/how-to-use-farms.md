@@ -4,7 +4,7 @@ description: Yield Farming on PancakeSwap is easy!
 
 # How to Use Farms
 
-![](../../.gitbook/assets/docs-masthead%20%282%29%20%281%29.png)
+![](../../.gitbook/assets/docs-masthead%20%282%29%20%281%29%20%281%29.png)
 
 Yield Farming in Farms is a great way to earn CAKE rewards on PancakeSwap. 
 
