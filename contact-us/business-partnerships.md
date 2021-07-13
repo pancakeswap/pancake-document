@@ -1,55 +1,45 @@
----
-description: PancakeSwap(パンケーキスワップ)とのパートナー提携方法について紹介します。
----
+# Business Partnerships
 
-# パートナー提携について
+## Farms and Syrup Pools 
 
-## シロッププールとファーム
+Farms incentivize users to provide liquidity for your trading pair by distributing CAKE to your pair's LP Token holders.
 
-シロッププール：  
-プールにCAKEをステーキングしているユーザーにパートナープロジェクト・トークンを配布します。
+Syrup Pools are a way of distributing your tokens to BSC users who stake CAKE in the pool.
 
-ファーム：  
-パートナープロジェクト指定ペアのLPトークンを保有するユーザーにCAKEを配布します。このようにユーザーにインセンティブを与えることで、パートナープロジェクト・トークンの流動性向上に貢献します。
+These two products go hand-in-paw on PancakeSwap: when a project provides their tokens for a Syrup Pool, we'll also create a Farm. If you're looking to distribute tokens and incentivize liquidity, get in touch.
 
-PancakeSwapにおいて、この2つは密接な関係にあります。パートナーがシロッププールにプロジェクトトークンを提供すると、同時にファームも作成されます。
+[**Apply to run a Syrup Pool**](https://docs.google.com/forms/d/e/1FAIpQLScGdT5rrVMr4WOWr08pvcroSeuIOtEJf1sVdQGVdcAOqryigQ/viewform)\*\*\*\*
 
-もしあなたがトークンを配布しプロジェクトトークンの流動性を高めたいとお考えでしたら、ぜひご連絡ください。
+* Please don't email us to apply - we only respond to applications via the application form.
+* Please don't chase us for a response on your application. We have a constant backlog of quality projects reaching out to us.
 
-[シロッププール開設に応募する](https://docs.google.com/forms/d/e/1FAIpQLScGdT5rrVMr4WOWr08pvcroSeuIOtEJf1sVdQGVdcAOqryigQ/viewform)
+## IFOs \(Token Sales\)
 
-* メールによるご応募はご遠慮ください。 私たちは上記フォームからのご応募のみ受け付けています。
-* 応募に関する回答を求める重ねてのご連絡はご遠慮ください。 日々すばらしいプロジェクトからオファーをいただいており、私たちはそれらをひとつずつ確認しています。回答までお時間をいただく場合があることをご了承ください。
+"IFO" \(Initial Farm Offering\) is a new model of token sale pioneered by PancakeSwap. Here's how it works, in short:
 
-## IFOs \(トークンセール\)
+* Users buy your token with CAKE-BNB LP tokens
+* After the sale, we distribute the BNB to you and burn the CAKE.
 
-"IFO" \(Initial Farm Offering\) はPancakeSwapが切り拓いた新しいトークンセールモデルです。
+Learn more about how IFOs work [here](../products/ifo-initial-farm-offering/ifo-initial-farm-offering.md).
 
-* ユーザーはCAKE-BNB LPトークンを支払ってパートナープロジェクト・トークンを購入します。
-* セール終了後、私たちはBNBをパートナーに分配し、CAKEをバーンします。
+[**Apply to run an IFO**](https://docs.google.com/forms/d/e/1FAIpQLScGdT5rrVMr4WOWr08pvcroSeuIOtEJf1sVdQGVdcAOqryigQ/viewform)\*\*\*\*
 
-IFOsのより詳しい仕組みについては[こちら](https://docs.pancakeswap.finance/v/japanese/products/ifo-initial-farm-offering/ifo-initial-farm-offering)をご覧ください。
+* Please don't email us to apply - we only respond to applications via the application form.
+* Please don't chase us for a response on your application. We have a constant backlog of quality projects reaching out to us.
 
-[IFO開催に応募する](https://docs.google.com/forms/d/e/1FAIpQLScGdT5rrVMr4WOWr08pvcroSeuIOtEJf1sVdQGVdcAOqryigQ/viewform)
+## Listing on the Exchange
 
-* メールによるご応募はご遠慮ください。 私たちは上記フォームからのご応募のみ受け付けています。
-* 応募に関する回答を求める重ねてのご連絡はご遠慮ください。 日々すばらしいプロジェクトからオファーをいただいており、私たちはそれらをひとつずつ確認しています。回答までお時間をいただく場合があることをご了承ください。
+### How can I list my token on the exchange?
 
-## 取引所へのトークン上場について
+Anybody can "list" any BEP-20 network token on PancakeSwap. You don't need to contact us or ask permission. You just need to [add liquidity to a liquidity pool](../products/pancakeswap-exchange/pancakeswap-pools.md) - that's it. Traders can then trade your token by entering your token's contract address.
 
-### 取引所へのトークン上場方法
+### How can I add my token to the default list?
 
-誰でもPancakeSwap取引所にBEP-20トークンを”上場”させることができます。  
-上場方法は[流動性プールに流動性を追加する](https://docs.pancakeswap.finance/v/japanese/products/pancakeswap-exchange/pancakeswap-pools)だけです。ユーザーは取引所にトークンアドレスを直接入力することで、上場されたトークンをトレードすることができます。
+You need to launch a Syrup Pool or IFO in order to be added to the list. See above.
 
-### デフォルトリストへのトークン登録方法
+We don't accept requests to add tokens to the approved list. 
 
-トークンアドレスの直接入力なしにPancakeSwap取引所でトークンをトレードするには、トークンがデフォルトリストに登録されている必要があります。この登録はシロッププール開設またはIFO開催を通してのみ行われます。
+### How can I add my token's logo/icon?
 
-デフォルトリストへのトークン登録個別リクエストには対応していません。 
-
-### トークンへのロゴ/アイコン追加方法
-
-PancakeSwap取引所はトラストウォレットのすばらしいアイコンコレクションを参照しています。  
-トラストウォレットのロゴ/アイコン登録方法は[こちら](https://github.com/trustwallet/assets)
+PancakeSwap's exchange references Trust Wallet's excellent assets collection for icons. Please add your icon here: [https://github.com/trustwallet/assets](https://github.com/trustwallet/assets)
 

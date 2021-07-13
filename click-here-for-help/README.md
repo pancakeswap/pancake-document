@@ -1,2 +1,2 @@
-# ヘルプはこちら
+# Click Here for Help
 

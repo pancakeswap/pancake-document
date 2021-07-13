@@ -1,112 +1,107 @@
 ---
-description: よく起こりがちなエラーを紹介します。サイドバーから確認したいエラーメッセージの項目にジャンプしてください。
+description: Common error messages. Use the sidebar to jump to the error you're seeing.
 ---
 
-# トラブルシューティング
+# Troubleshooting Errors
 
-## トレード時のエラー
+## **Issues on the Exchange**
 
 ### **INSUFFICIENT\_OUTPUT\_AMOUNT**
 
 > The transaction cannot succeed due to error: PancakeRouter: INSUFFICIENT\_OUTPUT\_AMOUNT. This is probably an issue with one of the tokens you are swapping.
->
-> \(PancakeRouterで”出金量の不足”エラーが発生したため、トランザクションを成功させることができません。売買するトークンのどちらかに問題があると思われます。\)
 
-このエラーは、トークンを売買する際にスリッページの許容範囲が狭かったり、トークンの流動性が低すぎたりする場合に発生します。
+You're trying to swap tokens, but your slippage tolerance is too low or liquidity is too low.
 
 {% tabs %}
-{% tab title="解決方法" %}
-下記を試してください。
-
-1. ページを更新してリトライしてください。
-2. 一度に少額だけトレードしてみてください。
-3. スリッページの許容範囲を広げてリトライしてください。
-
-   流動性ウィンドウにある歯車アイコンから、スリッページ設定変更画面に移動できます。  
-   ![](../.gitbook/assets/image%20%28129%29.png)
-
-4. 売買時、小数点以下の数字をいくつか削ってみてください。
+{% tab title="Solution" %}
+1. Refresh your page and try again later.
+2. Try trading a smaller amount at one time.
+3. Increase your slippage tolerance:
+   1. Tap the settings icon on the liquidity page.
+   2. Increase your slippage tolerance a little and try again. ![](../.gitbook/assets/image%20%289%29%20%281%29.png)
+4. Lastly, try inputting an amount with fewer decimal places.
 {% endtab %}
 
-{% tab title="原因" %}
-**多くの場合、このエラーメッセージは売買するトークンの流動性が低い場合に発生します。**
+{% tab title="Reason" %}
+**This usually happens when trading tokens with low liquidity.**
 
-売買しようとしているトークンのいずれかが流動性プールに十分に存在していません。ほとんど取引のない小規模プロジェクトのトークンかもしれません。
+That means there isn't enough of one of the tokens you're trying to swap in the Liquidity Pool: it's probably a small-cap token that few people are trading.
 
-もしくは、売却のできない詐欺トークンを交換しようとしている可能性があります。この場合でも、PancakeSwapはこのトークンをブロックしたり、あなたに資金を返したりすることはできません。
+However, there's also the chance that you're trying to trade a scam token which cannot be sold. In this case, PancakeSwap isn't able to block a token or return funds.
 {% endtab %}
 {% endtabs %}
 
 ### **INSUFFICIENT\_A\_AMOUNT or INSUFFICIENT\_B\_AMOUNT**
 
 > Fail with error 'PancakeRouter: INSUFFICIENT\_A\_AMOUNT'  
-> \(PancakeRouterが”出金量Aの不足”エラーで失敗しました。\)  
-> または  
-> Fail with error 'PancakeRouter: INSUFFICIENT\_B\_AMOUNT'  
-> \(PancakeRouterが”出金量Bの不足”エラーで失敗しました。\)
+> or  
+> Fail with error 'PancakeRouter: INSUFFICIENT\_B\_AMOUNT'
 
-このエラーは、流動性ペアのトークンAないしトークンBの量が不足している状態で、流動性プールに流動性を追加するか、流動性プールから流動性を除去するかしようとした場合に発生します。
+You're trying to add/remove liquidity from a liquidity pool \(LP\), but there isn't enough of one of the two tokens in the pair.
 
 {% tabs %}
-{% tab title="解決方法" %}
-**ページを更新してリトライするか、しばらく時間をあけてからリトライしてください。**
+{% tab title="Solution" %}
+**Refresh your page and try again, or try again later.**
 
-それでも解決しない場合：  
-スリッページの許容範囲を広げてリトライしてください。  
-流動性ウィンドウにある歯車アイコンから、スリッページ設定変更画面に移動できます。
+Still doesn't work?
 
-![](../.gitbook/assets/image%20%28129%29.png)
+1. Tap the settings icon on the liquidity page.
+2. Increase your slippage tolerance a little and try again.
+
+![](../.gitbook/assets/image%20%289%29%20%281%29.png)
 {% endtab %}
 
-{% tab title="原因" %}
-このエラーは、流動性ペアのトークンAないしトークンBの量が不足している状態で、流動性プールに流動性を追加するか、流動性プールから流動性を除去するかしようとしたことが原因です。
+{% tab title="Reason" %}
+The error is caused by trying to add or remove liquidity for a liquidity pool \(LP\) with an insufficient amount of token A or token B \(one of the tokens in the pair\).
 
-価格の変動速度があまりに速いか、スリッページの許容範囲が狭すぎる可能性があります。
+It might be the case that prices are updating too fast when and your slippage tolerance is too low.
 
 ![](https://lh5.googleusercontent.com/T1KMtz2ILDVHljGw1iLbIv0W1KVl7qXL8zU2nLFHkUvDb5oMw9mpUzzBwWmIBz15XDsxZ5w7wsaqAwCs_pxdobz_kY_7BhcZhYtpqWuQGFs23DZq98-SVInlfsS07WzxFPLIYXHt)
+
+
 
 ![](https://lh5.googleusercontent.com/7aspaCCvDjzxbJxngqwgeq737LB3OUNcAs592QqlEkyrAOTfKsrt_FAwpEylaIJhff5ZcYlzB_r0v1JZwfj3j8Ah6jlUbRoMrAqVfTb3cwDI7B1i5HJtZSQOsTPrv7l7SaclC3BV)
 {% endtab %}
 
-{% tab title="技術オタク向け" %}
-おや、ここに来ました？本当にこの問題を解決したいんですね。  
-あなたが以下に記載された内容を完全に理解しない限り、この方法は試すことはおすすめしません。
+{% tab title="Solution for nerds" %}
+OK, so you're really determined to fix this. We really don't recommend doing this unless you know what you're doing.
 
-現在のところ、PancakeSwapのウェブサイトからこのエラーを解決するシンプルな方法はありません。スマートコントラクトに直接アクセスする必要があります。具体的には、Routerのコントラクトを介してamountAMinを少額に設定した上で流動性を追加し、次に流動性を除去します。
+There currently isn't a simple way to solve this issue from the PancakeSwap website: you'll need to interact with the contract directly. You can add liquidity directly via the Router contract, while setting amountAMin to a small amount, then withdrawing all liquidity.
 
-### **1．流動性ペアトークンのコントラクトを承認する**
+### **Approve the LP contract**
 
-操作したい流動性ペアトークンのコントラクトに向かいましょう。   
-ここでは例としてETH-WBNBペアを挙げます： [https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422](https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422)
+Head to the contract of the LP token you're trying to approve.   
+For example, here's the ETH/WBNB pair: [https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422](https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422)
 
-1. **Write Contract**を選択し、**Connect to Web3**をクリックしてウォレットを接続してください。 ![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
-2. 「**1. approve**」項目で下記を記入し、流動性ペアトークンを承認します。
-   1. spender \(address\)  あなたが操作したい流動性ペアトークンのコントラクトアドレス
-   2. value \(uint256\) 「-1」を入力してください。
+1. Select **Write Contract**, then **Connect to Web3** and connect your wallet. ![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
+2. In **section "1. approve",** approve the LP token for the router by entering
+   1. spender \(address\): enter the contract address of the LP token you're trying to interact with
+   2. value \(uint256\): -1
 
-### 2．"balanceOf"を入手する
+### Query "balanceOf"
 
-1. **Read Contract**に移動してください。
-2. 「**5. balanceOf**」項目にあなたのウォレットアドレスを入力し「**Query**」をクリックします。 ここで表示された数値をメモしてください。 これは次のステップで必要となる流動性ペアトークンの残高をuint256形式で表したものです。
+1. Switch to **Read Contract.**
+2. In **5. balanceOf**, input your wallet address and hit **Query**.
+3. Keep track of the number that's exported. It shows your balance within the LP in the uint256 format, which you'll need in the next step.
 
 ![](../.gitbook/assets/image%20%2832%29.png)
 
-### 3．流動性を追加/除去する
+### Add or Remove Liquidity
 
-Routerコントラクトに移動します： [https://bscscan.com/address/0x05ff2b0db69458a0750badebc4f9e13add608c7f\#writeContract](https://bscscan.com/address/0x05ff2b0db69458a0750badebc4f9e13add608c7f#writeContract)
+Head to the router contract: [https://bscscan.com/address/0x05ff2b0db69458a0750badebc4f9e13add608c7f\#writeContract](https://bscscan.com/address/0x05ff2b0db69458a0750badebc4f9e13add608c7f#writeContract)
 
-1. **Write Contract**を選択し、**Connect to Web3**をクリックしてウォレットを接続してください。
-2. 流動性を追加したい場合は「**addLiquidity**」項目を、流動性を除去したい場合は「**removeLiquidity**」項目で以下を記入してください。
-   1. tokenA \(address\)/tokenB \(address\)  流動性ペアトークンそれぞれのトークンアドレス
-   2. liquidity \(uint256\) ****先ほどメモした数値
-   3. amountAMin \(unit256\) / amountBMin \(unit256\) ****少量を設定します。両方1にしてみましょう。
-   4. to \(address\) ****あなたのウォレットアドレス
-   5. deadline \(unit256\)  トランザクションが実行されるより大きなエポックタイム
+1. Select **Write Contract** and **Connect to Web3** as above.
+2. Find **addLiquidity** or **removeLiquidity** \(whichever one you're trying to do\)
+3. Enter the token addresses of both of the tokens in the LP.
+4. In **liquidity \(uint256\),** enter the uint256 number which you got from "balanceOf" above.
+5. Set a low **amountAMin** or **amountBMin**: try 1 for both.
+6. Add your wallet address in **to \(address\)**.
+7. Deadline must be an epoch time greater than the time the tx is executed.
 
 ![](../.gitbook/assets/image%20%2819%29.png)
 
 {% hint style="warning" %}
-この方法は非常に高いスリッページを引き起こす恐れがあり、フロントランした場合、ユーザーはいくらかの資金を失う可能性があります。
+This can cause very high slippage, and can cause the user to lose some funds if frontrun
 {% endhint %}
 {% endtab %}
 {% endtabs %}
@@ -114,95 +109,59 @@ Routerコントラクトに移動します： [https://bscscan.com/address/0x05f
 ### PancakeRouter: EXPIRED
 
 > The transaction cannot succeed due to error: PancakeRouter: EXPIRED. This is probably an issue with one of the tokens you are swapping.
->
-> \(PancakeRouterで”期限切れ”エラーが発生したため、トランザクションを成功させることができません。売買するトークンのどちらかに問題があると思われます。\)
 
-このエラーは、トランザクションが作成された後、既定のタイムリミットまでに承認プロセスが完了しなかった場合に発生します。言い換えると、あなたは「確認」ボタンをすぐに押さなかったということです。
+Try again, but confirm \(sign and broadcast\) the transaction as soon as you generate it. 
 
-解決方法はリトライです。トランザクション作成後できるだけすぐに確認し、処理を進めてください。
+This happened because you started making a transaction, but you didn't sign and broadcast it until it was past the deadline. That means you didn't hit "Confirm" quickly enough. 
 
 ### Pancake: K
 
 > The transaction cannot succeed due to error: Pancake: K. This is probably an issue with one of the tokens you are swapping.
->
-> \(PancakeRouterで”Pancake: K”エラーが発生したため、トランザクションを成功させることができません。売買するトークンのどちらかに問題があると思われます。\)
 
-このエラーは、価格変動が大きなタイミングでトークンを売買しようとした場合に発生します。
+Refresh the page and try again, or increase slippage tolerance via the settings icon and try again.
 
-ページを更新するか、スリッページの許容範囲を広げるかした後リトライしてください。スリッページ設定変更画面に移動するには流動性ウィンドウにある歯車アイコンをクリックします。
+This probably happened because you're trying to buy or sell tokens during a big price movement. The frontend is getting outdated information \(e.g. outAmount\) from the smart contract, causing the swap to fail.
 
-### Transaction cannot succeed
 
-より少額でトレードしてみるか、スリッページの許容範囲を広げるかした後リトライしてください。これはトークンの流動性が低いことが原因です。
 
-### **Price Impact too High**
-
-より少額でトレードしてみるか、スリッページの許容範囲を広げるかした後リトライしてください。これはトークンの流動性が低いことが原因です。
-
-### estimateGas failed
-
-> This transaction would fail. Please contact support.
->
-> \(トランザクション が失敗した場合はサポートに問い合わせてください。）
-
-{% tabs %}
-{% tab title="解決方法" %}
-**あなたがトレードしようとしたトークンのプロジェクトチームに問い合わせてください。**
-
-この問題はプロジェクトチームによって解決されなくてはなりません。
-{% endtab %}
-
-{% tab title="原因" %}
-この問題は、コントラクトにV1 PancakeSwap Routerアドレスをハードコーディングしているトークンが原因です。
-
-この実装は望ましいものではありませんが、当該プロジェクトがそのようにした理由は、トークンが購入される際にいくらかの割合をLPに送るというトークノミクスによるものだと思われます。
-
-この影響を受けるプロジェクトはV2 PancakeSwap Routerとはうまくいかない可能性が高く、新規にV2 Routerアドレスを指すコントラクトとそれを用いた新トークンを発行し、既存トークン保有者を新トークンに移行させる必要があります。 このようなトークンを発行したプロジェクトには、ユーザーがV2 LPにトークンを追加できないように処置することをお勧めします。
-
-最新のRouterアドレスはこちら[https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E)
-{% endtab %}
-{% endtabs %}
-
-## **シロッププールでのエラー**
+## **Issues with Syrup Pools**
 
 ### BEP20: burn amount exceeds balance
 
 > Fail with error 'BEP20: burn amount exceeds balance'
->
-> \(”BEP20:バーン量が残高を超過”エラーによる失敗\)
 
-このエラーは、あなたのウォレットにCAKEプールからCAKEをアンステークするのに十分なSYRUPがない場合に発生します。
+You don't have enough SYRUP in your wallet to unstake from the CAKE-CAKE pool.
 
 {% tabs %}
-{% tab title="解決方法その１" %}
-アンステークしたいCAKEと同量のSYRUPを用意してください。
+{% tab title="Solution 1" %}
+**Get at least as much SYRUP as the amount of CAKE that you’re trying to unstake.**
 
-1. ExchangeでSYRUPを購入しましょう。 もしあなたがプールから100CAKEをアンステークしたいのであれば、少なくとも100SYRUPが必要です。
-2. 十分なSYRUPを確保した後、もう一度アンステークを試してください。
+1. Buy SYRUP on the exchange. If you want to unstake 100 CAKE, you need at least 100 SYRUP.
+2. Try unstaking again.
 {% endtab %}
 
-{% tab title="解決方法その２" %}
-「解決方法その１」でも解決しない場合は、コントラクトに直接アクセスして「emergencyWithdraw」を実行することでステークしたCAKEをアンステークすることができます。
+{% tab title="Solution 2" %}
+If that still fails, you can perform an “emergencyWithdraw” from the contract directly to unstake your staked tokens.
 
-1. CAKEコントラクトに移動します： [https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E\#writeContract ](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract%20)
-2. **Write Contract**を選択し、**Connect to Web3**をクリックしてウォレットを接続してください。 ![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
-3. 「**4. emergencyWithdraw**」項目に"0"を入力し、“Write”をクリックします。
+1. Go to: [https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E\#writeContract ](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract%20)
+2. Click **“Connect to Web3”** and connect your wallet. ![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
+3. In section **“4. emergencyWithdraw”**, enter "0" and click “Write”.
 
-この方法でステークしていたCAKEをアンステークすることができますが、まだ収穫していない報酬は失われます。
+This will unstake your staked tokens and lose any uncollected CAKE yield.
 
 {% hint style="warning" %}
-**まだ収穫していない報酬は失われます。**
+**This will lose any yield that you haven’t harvested yet.**
 {% endhint %}
 {% endtab %}
 
-{% tab title="原因" %}
-このエラーを防ぐためにも、**SYRUPは決して売却しないでください**。  
-CAKEプールにCAKEをステークした際に受け取るSYRUPは、プールからCAKEをアンステークするときにも必要です。
+{% tab title="Reason" %}
+To stop this happening again, **don’t sell your SYRUP.** You still need it to unstake from the “Stake CAKE Earn CAKE” pool.
 
-このエラーの原因は、あなたがSYRUPトークンを売却または譲渡したためです。  
-SYRUPは、CAKE-CAKEプールにステークするCAKEと1対1の比率で発行されます。コントラクトを実行してleaveStaking（プールからCAKEをアンステークする）機能を呼び出す際、SYRUPはCAKEと1:1の割合で燃やさる必要があります。この時SYRUPが足りなければ、プールからCAKEを外すことができません。
+This error has happened because you have sold or transferred SYRUP tokens. SYRUP is minted in a 1:1 ratio to CAKE when you stake in the CAKE-CAKE Syrup Pool. SYRUP must be burned at a 1:1 ratio to CAKE when calling leaveStaking \(unstaking your CAKE from the pool\), so if you don't have enough, you can't unstake from the pool.
 
 {% embed url="https://dashboard.tenderly.co/tx/binance/0x754e18ceea82acac256b49c2b7a81260f7f86dd5e56ee2e3cc1b6ac864c29a8e" %}
+
+
 
 ![](https://lh4.googleusercontent.com/KchAcnM6cpX2BotEGppAxPAnY4Xbona6yI6ZWg9FlUUBfPi_YO9ulM1s6htXJVXMzEwl0Uxcvdk8o4yhI7ar5g0TRpLVFjkS4YLKL7FS8Z4uFqeC37sw-TIkrPr7BCZQVpuD-5jO)
 {% endtab %}
@@ -211,79 +170,54 @@ SYRUPは、CAKE-CAKEプールにステークするCAKEと1対1の比率で発行
 ### Out of Gas error
 
 > Warning! Error encountered during contract execution \[out of gas\]
->
-> \(注意！コントラクト実行中に”ガス欠”エラーが発生しました。\)
 
-このエラーは、トランザクションを行う際のガス上限が低く過ぎる場合に発生します。
+You have set a low gas limit when trying to make a transaction.
 
 {% tabs %}
-{% tab title="解決方法" %}
-トランザクションを承認する前に、ウォレット設定にて手動でガス上限を調節してください。  
-ガス上限は使用されるガスの上限値であって、ガス代そのものではありません。 
+{% tab title="Solution" %}
+Try manually increasing the **gas limit** \(not gas price!\) in your wallet before signing the transaction. 
 
-通常、上限値は20万で充分です。
+A limit of 200000 is usually enough.
 
 ![](../.gitbook/assets/image%20%28169%29.png)
 
-上記はMetamaskの例です。  
-ガス制限の調節方法がわからない場合は、お使いのウォレットの説明書を確認してください。
+The above example is from Metamask; check your wallet's documentation if you aren't sure how to adjust the gas limit.
 {% endtab %}
 
-{% tab title="原因" %}
-お使いのウォレット（Metamask、Trust Walletなど）がガス上限を低く見積もっていたため、関数呼び出しが終了する前にガスがなくなってしまいました。ウォレットはやろうとしていたことを完了させることができず、トランザクションが失敗しました。
+{% tab title="Reason" %}
+Basically, your wallet \(Metamask, Trust Wallet, etc.\) can't finish what it's trying to do.
+
+Your wallet estimates that the gas limit is too low, so the function call runs out of gas before the function call is finished.  
 {% endtab %}
 {% endtabs %}
 
 ### BEP20: transfer amount exceeds balance
 
 > Fail with error 'BEP20: transfer amount exceeds balance'
->
-> \(”BEP20:転送量が残高を超過”エラーによる失敗\)
 
-このエラーは、あなたが報酬の少ないシロッププールからアンステークを試みた場合に発生します。
+You're trying to unstake from a Syrup Pool with low rewards in it.
 
 {% tabs %}
-{% tab title="解決方法" %}
-コントラクトに直接アクセスして「emergencyWithdraw」を実行することでステークしたトークンをアンステークすることができます。 
+{% tab title="Solution" %}
+You can perform an “emergencyWithdraw” from the contract directly to unstake your staked tokens.
 
-1. トークンをアンステークしようとしているシロッププールのコントラクトアドレスを見つけてください。このアドレスはウォレットのトランザクション履歴に記載されています。
-2. [https://bscscan.com/](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract%20) に移動し、検索バーに見つけたコントラクトアドレスを入力します
-3. **Write Contract**を選択し、**Connect to Web3**をクリックしてウォレットを接続してください。 ![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
-4. 「**4. emergencyWithdraw**」項目に"0"を入力し、“Write”をクリックします。
+1. Find the contract address of the Syrup Pool you're trying to unstake from. You can find it in your wallet's transaction log.
+2. Go to [https://bscscan.com/](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract%20) and in the search bar, enter the contract address.
+3. Select **Write Contract.**
+4. Click **“Connect to Web3”** and connect your wallet.![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
+5. In section **“4. emergencyWithdraw”,** enter "0" and click “Write”.
 
-この方法でステークしていたトークンをアンステークすることができますが、まだ収穫していない報酬は失われます。
+This will unstake your staked tokens and lose any uncollected yield.
 
 {% hint style="warning" %}
-**まだ収穫していない報酬は失われます。**
+**This will lose any yield that you haven’t harvested yet.**
 {% endhint %}
 {% endtab %}
 
-{% tab title="原因" %}
-このエラーは、古いシロッププールから報酬を取り出そうとしたときに表示されがちです。  
-アンステークする際に収穫できるだけの十分な報酬がプールに残っていません。そのため、トランザクションが失敗します。
+{% tab title="Reason" %}
+This error tends to appear when you're trying to unstake from an old Syrup Pool, but there aren't enough rewards in the pool left for you to harvest when withdrawing. This causes the transaction to fail.
 {% endtab %}
 {% endtabs %}
 
-## その他のエラー
-
-### Provider Error: No provider was found
-
-* キャッシュとCookieをクリアしてください
-* ウォレットをいったん切断し、再度接続してください
-* 利用デバイスを再起動してください
-
-### Unsupported Chain ID
-
-利用するチェーンを「Binance Smart Chain」に切り替えてください。  
-方法が不明な場合、ウォレットのガイド資料を参照してください。
-
-### SAFEMOONや類似トークン購入時のエラーについて
-
-SAFEMOONをトレードする際は、歯車アイコンからス**リッページを12％以上許容するように設定変更してください**。これは、**SAFEMOONがトランザクションごとに10％の手数料を取るため**です。
-
-* 5%の手数料 = 既存SAFEMOONホルダーへの分配
-* 5%の手数料 = LPへの追加
-
-また、SAFEMOON購入時にあなたが期待したほどの量のトークンを受け取れなかった場合はこちらを確認してみてください。  
-[How to Buy Safe Moon](https://community.trustwallet.com/t/how-to-buy-safemoon/155742).
+## \*\*\*\*
 
