@@ -18,7 +18,7 @@ You can go a few ways about converting your tokens to BEP20, but here are the on
 {% endtab %}
 
 {% tab title="🌉 Binance Bridge" %}
-[**Binance Bridge**](https://www.binance.org/en/bridge) **** - You don't need an account, or to register etc. 
+[**Binance Bridge**](https://www.binance.org/en/bridge) **** - You don't need an account, or to register etc.
 
 📖 [Here's a quick guide they made to help you out.](https://docs.binance.org/smart-chain/guides/bridge-v2.html)
 {% endtab %}
