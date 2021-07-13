@@ -22,7 +22,7 @@ Está intentando intercambiar tokens, pero su tolerancia al deslizamiento \(Slip
 2. Pruebe intercambiando montos más pequeños de a una vez.
 3. Aumente su tolerancia al deslizamiento \(Slippage\):
    1. Toque el icono de configuración en la página de liquidez.
-   2. Aumente un poco su deslizamiento \(Slippage\) e intente de nuevo. ![](../.gitbook/assets/image%20%28129%29.png)
+   2. Aumente un poco su deslizamiento \(Slippage\) e intente de nuevo. ![](../.gitbook/assets/image%20%289%29%20%281%29.png)
 4. Por último, intente ingresar una cantidad con menos valores decimales.
 {% endtab %}
 
@@ -52,7 +52,7 @@ Aún no funciona?
 1. Toque el icono de configuración en la página de liquidez.
 2. Aumente un poco su deslizamiento \(Slippage\) e intente de nuevo.
 
-![](../.gitbook/assets/image%20%28129%29.png)
+![](../.gitbook/assets/image%20%289%29%20%281%29.png)
 {% endtab %}
 
 {% tab title="Razón" %}
