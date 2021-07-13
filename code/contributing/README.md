@@ -1,12 +1,14 @@
 ---
-description: Thank you for expressing your interest in contributing to PancakeSwap !
+description: Thank you for expressing your interest in contributing to PancakeSwap!
 ---
 
 # Contributing
 
+![](../../.gitbook/assets/docs-masthead-18-%20%281%29.png)
+
 Pancake is an open-source project. If you want to contribute to the project, this section is here to guide you through your first steps with the Pancake team 🥞 
 
-Before starting any development, we highly encourage you to submit an issue on Github in order to discuss the problem, and the solution with the team. If you want to reach out to the dev team directly, contact **@chef\_chungus** on Telegram ![](../../.gitbook/assets/logo.svg) 
+Before starting any development, we highly encourage you to submit an issue on Github in order to discuss the problem, and the solution with the team. If you want to reach out to the dev team directly, [contact **@chef\_chungus**](https://t.me/chef_chungus) on Telegram ![](../../.gitbook/assets/logo.svg) 
 
 ### Setup your dev environment
 

@@ -1,7 +1,3 @@
----
-description: Hiring requirements and job description
----
-
 # Blockchain QA Engineer
 
 ### **General Information**
@@ -30,5 +26,5 @@ description: Hiring requirements and job description
 
 ### How to apply:
 
-Email PancakeSwap@gmail.com with your resume
+Email **PancakeSwapHiring@protonmail.com** with your resume
 
