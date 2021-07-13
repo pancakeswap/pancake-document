@@ -58,15 +58,15 @@
 
 ## Developers
 
-* [Contributing](developers/contributing/README.md)
-  * [Codebase Overview](developers/contributing/codebase-overview.md)
-* [Bug Bounty](developers/bug-bounty.md)
-* [Smart Contracts](developers/smart-contracts/README.md)
-  * [PancakeSwap Exchange](developers/smart-contracts/pancakeswap-exchange/README.md)
-    * [Factory v2](developers/smart-contracts/pancakeswap-exchange/factory-v2.md)
-    * [Router v2](developers/smart-contracts/pancakeswap-exchange/router-v2.md)
-  * [Main Staking/MasterChef Contract](developers/smart-contracts/main-staking-masterchef-contract.md)
-  * [Lottery v2](developers/smart-contracts/lottery-v2.md)
+* [Contributing](code/contributing/README.md)
+  * [Codebase Overview](code/contributing/codebase-overview.md)
+* [Bug Bounty](code/bug-bounty.md)
+* [Smart Contracts](code/smart-contracts/README.md)
+  * [PancakeSwap Exchange](code/smart-contracts/pancakeswap-exchange/README.md)
+    * [Factory v2](code/smart-contracts/pancakeswap-exchange/factory-v2.md)
+    * [Router v2](code/smart-contracts/pancakeswap-exchange/router-v2.md)
+  * [Main Staking/MasterChef Contract](code/smart-contracts/main-staking-masterchef-contract.md)
+  * [Lottery v2](code/smart-contracts/lottery-v2.md)
 
 ## Hiring
 
@@ -74,4 +74,3 @@
   * [Senior Backend Engineer - JavaScript / TypeScript](hiring/become-a-chef/senior-backend-engineer-javascript-typescript.md)
   * [Solidity Engineer](hiring/become-a-chef/solidity-engineer.md)
   * [Blockchain QA Engineer](hiring/become-a-chef/senior-qa-engineer.md)
-

@@ -18,15 +18,14 @@ You can go a few ways about converting your tokens to BEP20, but here are the on
 {% endtab %}
 
 {% tab title="🌉 Binance Bridge" %}
-[**Binance Bridge**](https://www.binance.org/en/bridge) _\*\*_ - You don't need an account, or to register etc.
+[**Binance Bridge**](https://www.binance.org/en/bridge) **** - You don't need an account, or to register etc.
 
 📖 [Here's a quick guide they made to help you out.](https://docs.binance.org/smart-chain/guides/bridge-v2.html)
 {% endtab %}
 
 {% tab title="💰 Binance.com" %}
-[**Binance.com**](https://github.com/pancakeswap/pancake-document/tree/afc4ca74f960dc6bcdc9b018189e0aa34c70f516/get-started/www.binance.com) _\*\*_- You can withdraw tokens as BEP20 via your Binance account \(if you have one\). Bear in mind you need an account to do so.
+[**Binance.com**](www.binance.com) ****- You can withdraw tokens as BEP20 via your Binance account \(if you have one\). Bear in mind you need an account to do so.
 
 📖 [Here's a quick guide they made to help you out.](https://www.binance.com/en/support/faq/85a1c394ac1d489fb0bfac0ef2fceafd)
 {% endtab %}
 {% endtabs %}
-

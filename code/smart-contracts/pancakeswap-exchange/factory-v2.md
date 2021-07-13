@@ -24,7 +24,7 @@ Address for `tokenA` and address for `tokenB` return address of pair contract \(
 
 `tokenA` and `tokenB` order is interchangeable.
 
-Returns `0x0000000000000000000000000000000000000000` as address where no pair exists.
+Returns  `0x0000000000000000000000000000000000000000` as address where no pair exists.
 
 ### allPairs
 
@@ -32,7 +32,7 @@ Returns `0x0000000000000000000000000000000000000000` as address where no pair ex
 
 Returns the address of the `n`th pair \(`0`-indexed\) created through the Factory contract.
 
-Returns `0x0000000000000000000000000000000000000000` where pair has not yet been created.
+Returns  `0x0000000000000000000000000000000000000000` where pair has not yet been created.
 
 Begins at `0` for first created pair.
 
@@ -84,7 +84,7 @@ Emitted whenever a `createPair` creates a new pair.
 
 `token0` will appear before `token1` in sort order.
 
-The final `uint` log value will be `1` for the first pair created, `2` for the second, etc.
+ The final `uint` log value will be `1` for the first pair created, `2` for the second, etc.
 
 ## Interface
 
@@ -112,4 +112,3 @@ interface IPancakeFactory {
     function setFeeToSetter(address) external;
 }
 ```
-

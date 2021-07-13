@@ -427,4 +427,3 @@ NewRandomGenerator(address indexed randomGenerator);
 New random number generator address is set.
 
 Emitter: `changeRandomGenerator` [go to changeRandomGenerator](lottery-v2.md#changerandomnumbergenerator)
-

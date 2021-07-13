@@ -106,4 +106,3 @@ Create a [draft PR](https://github.blog/2019-02-14-introducing-draft-pull-reques
 {% endhint %}
 
 **Thanks your for helping us making Pancake even more awesome** ❤
-
