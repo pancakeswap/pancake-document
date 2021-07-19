@@ -9,9 +9,6 @@ Stake CAKE, earn free tokens. It’s really that easy.
 
 Some special pools let you stake other tokens besides CAKE, too!
 
-[View smart contract](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e)  
-[View AutoCAKE smart contract](https://bscscan.com/address/0xa80240Eb5d7E05d3F250cF000eEc0891d00b51CC)
-
 ### **How can I use Syrup Pools?**
 
 Check [this guide](https://docs.pancakeswap.finance/get-started/syrup-pool-guide) for a step-by-step.
