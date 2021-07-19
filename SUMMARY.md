@@ -64,7 +64,8 @@
   * [PancakeSwap Exchange](code/smart-contracts/pancakeswap-exchange/README.md)
     * [Factory v2](code/smart-contracts/pancakeswap-exchange/factory-v2.md)
     * [Router v2](code/smart-contracts/pancakeswap-exchange/router-v2.md)
-  * [Main Staking/MasterChef Contract](code/smart-contracts/main-staking-masterchef-contract.md)
+  * [Main Staking/Syrup Pool/MasterChef Contract](code/smart-contracts/main-staking-masterchef-contract.md)
+  * [Auto CAKE Syrup Pool \(CakeVault\)](code/smart-contracts/cakevault.md)
   * [Lottery v2](code/smart-contracts/lottery-v2.md)
 
 ## Hiring

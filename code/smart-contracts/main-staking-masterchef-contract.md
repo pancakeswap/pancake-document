@@ -1,4 +1,4 @@
-# Main Staking/MasterChef Contract
+# Main Staking/Syrup Pool/MasterChef Contract
 
 ## Contract info
 
