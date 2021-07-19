@@ -20,26 +20,13 @@ Whenever you stake or unstake from a Syrup Pool or farm, your earned tokens get 
 
 ## **General Questions**
 
-### **What does the “End” number on my Syrup Pool refer to?**
-
-This shows the amount of blocks left until the rewards for that pool stop being distributed. Once the pool has reached that block, you should unstake your tokens, because you won’t be receiving any rewards after that.
-
-### **Where do the rewards from Syrup Pools come from?**
-
-There are currently two types of Syrup Pools
-
-1. Stake CAKE, earn CAKE
-2. Stake CAKE, earn other tokens. 
-
-The rewards for the Stake CAKE, earn CAKE Syrup Pools come from the [CAKE emissions](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics). Each block, 10 CAKE tokens are allocated as rewards for these pools.
-
-The rewards for the other Syrup Pools are provided by the project teams who sponsor a Syrup Pool.
-
 ### How is APR for Syrup Pools calculated?
 
-Syrup Pool APR = \(Annualized rewards / User funds staked in Syrup Pool\) \* 100
+> Syrup Pool APR = Annualized rewards \(USD\) / User funds staked in Syrup Pool \(USD\) \* 100
 
 As a basic example, let's take a 60-day pool with 300,000 USD worth of rewards, and 3,000,000 USD worth of CAKE staked in it.
+
+The APR fluctuates as more CAKE is staked by users, and as the price of CAKE, and the reward token, vary.
 
 <table>
   <thead>
@@ -93,7 +80,23 @@ As a basic example, let's take a 60-day pool with 300,000 USD worth of rewards, 
   </tbody>
 </table>
 
-The APR fluctuates as more CAKE is staked by users, and as the price of CAKE, and the reward token, vary.
+### **What does the “End” number on my Syrup Pool refer to?**
+
+This shows the amount of blocks left until the rewards for that pool stop being distributed. Once the pool has reached that block, you should unstake your tokens, because you won’t be receiving any rewards after that.
+
+### **Where do the rewards from Syrup Pools come from?**
+
+There are three main types of Syrup Pools.
+
+1. Stake CAKE, earn CAKE
+2. Stake CAKE, earn other tokens. 
+3. Stake other tokens, earn CAKE
+
+The rewards for the "Stake CAKE, earn CAKE" Syrup Pools come from the [CAKE emissions](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics). Each block, a number of CAKE tokens are allocated as rewards for these pools.
+
+The rewards for the "Stake CAKE, earn other tokens" type are provided by the project teams who sponsor a Syrup Pool.
+
+For the "Stake other tokens, earn CAKE" type, the PancakeSwap treasury buys back CAKE from the market to distribute as rewards. These pools are funded by PancakeSwap, not by the projects themselves.
 
 ### What’s SYRUP Token?
 
