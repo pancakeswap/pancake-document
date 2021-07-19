@@ -4,7 +4,7 @@
 
 PancakeSwap Prediction is a fun and simple decentralized prediction market.
 
-> #### Predict whether BNB's price will rise or fall – guess correctly to win!
+> ### Predict whether BNB's price will rise or fall – guess correctly to win!
 
 It's easy to take part:
 
@@ -23,10 +23,4 @@ Get started with Prediction with our guides and FAQs.
 {% page-ref page="prediction-guide.md" %}
 
 {% page-ref page="prediction-faq.md" %}
-
-
-
-
-
-
 

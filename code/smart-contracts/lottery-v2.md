@@ -394,7 +394,7 @@ LotteryOpen(
     );
 ```
 
-The Lottery is opened. `firstTicketId` is set from `currentTicketId`, 
+The Lottery is opened. `firstTicketId` is set from `currentTicketId`,
 
 Emitter: `startLottery` [go to startLottery](lottery-v2.md#startlottery)
 

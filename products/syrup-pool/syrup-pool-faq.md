@@ -35,6 +35,66 @@ The rewards for the Stake CAKE, earn CAKE Syrup Pools come from the [CAKE emissi
 
 The rewards for the other Syrup Pools are provided by the project teams who sponsor a Syrup Pool.
 
+### How is APR for Syrup Pools calculated?
+
+Syrup Pool APR = \(Annualized rewards / User funds staked in Syrup Pool\) \* 100
+
+As a basic example, let's take a 60-day pool with 300,000 USD worth of rewards, and 3,000,000 USD worth of CAKE staked in it.
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"><b>Calculation</b>
+      </th>
+      <th style="text-align:left">Amount</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Total rewards to distribute (USD value)</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">300,000 USD</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Distribution period</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">60 days</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Daily distribution</td>
+      <td style="text-align:left">300,000 / 60 =</td>
+      <td style="text-align:left">5,000 USD daily</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Annualised rewards (USD value)</b>
+      </td>
+      <td style="text-align:left">5,000 * 365 =</td>
+      <td style="text-align:left"><b>1,825,000 USD</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Value of CAKE staked by users in pool (USD value)</b>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"><b>3,000,000 USD</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>APR</b>
+      </td>
+      <td style="text-align:left">(1,825,000 / 3,000,000) * 100 =</td>
+      <td style="text-align:left">
+        <p></p>
+        <p><b>60.833% APR</b>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+The APR fluctuates as more CAKE is staked by users, and as the price of CAKE, and the reward token, vary.
+
 ### What’s SYRUP Token?
 
 PancakeSwap’s SYRUP Token is deposited in your wallet when you interact with the **Manual** “Stake CAKE, Earn CAKE” Syrup Pool. It's not staked for 

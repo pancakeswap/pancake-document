@@ -23,7 +23,7 @@ Buying multiple Lottery tickets at once gives a bulk discount on your purchase. 
 
 ## **How to win**
 
-Match numbers, **from the left side of your ticket**, to the winning numbers drawn at the end of a Lottery round. 
+Match numbers, **from the left side of your ticket**, to the winning numbers drawn at the end of a Lottery round.
 
 * Matching even just the first number will win you a small prize. 
 * Match more numbers and win a share of a larger prize pool. 
@@ -31,7 +31,7 @@ Match numbers, **from the left side of your ticket**, to the winning numbers dra
 
 ## **‌**Prize eligibility
 
-‌There are a total of six lottery balls, from 0 to 9, on each ticket. To win, your numbers need to match the drawn numbers in the same order as the lottery balls, starting from the left of the ticket. For example: 
+‌There are a total of six lottery balls, from 0 to 9, on each ticket. To win, your numbers need to match the drawn numbers in the same order as the lottery balls, starting from the left of the ticket. For example:
 
 Drawn numbers
 
@@ -41,7 +41,7 @@ Your ticket's numbers
 
 ![Your Ticket A](../../.gitbook/assets/image%20%2895%29.png)
 
-In the example above, Ticket A, five of the ticket's numbers match the same drawn numbers, in the exact same order: all except the fourth one. 
+In the example above, Ticket A, five of the ticket's numbers match the same drawn numbers, in the exact same order: all except the fourth one.
 
 However, since the fourth digit does **not** match the drawn number, only the first three digits count as matching in order. This would win a "Match first 3" prize.
 
@@ -64,6 +64,4 @@ You will only share in prizes from the highest prize bracket you are eligible fo
 See the image below for a breakdown of prizes across each bracket.
 
 ![](../../.gitbook/assets/image%20%28104%29.png)
-
-## 
 

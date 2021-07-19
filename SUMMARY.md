@@ -28,7 +28,6 @@
   * [How to Use Farms with BscScan](products/yield-farming/how-to-use-farms-with-bscscan.md)
 * [🍯 Syrup Pools](products/syrup-pool/README.md)
   * [How to Stake in Syrup Pools](products/syrup-pool/syrup-pool-guide.md)
-  * [How to Stake in Syrup Pools with BscScan](products/syrup-pool/how-to-stake-in-syrup-pools-with-bscscan.md)
   * [Auto CAKE Syrup Pool](products/syrup-pool/auto-compounding.md)
   * [Syrup Pool FAQ & Troubleshooting](products/syrup-pool/syrup-pool-faq.md)
 * [🎟 Lottery v2](products/lottery/README.md)
@@ -74,4 +73,13 @@
   * [Senior Backend Engineer - JavaScript / TypeScript](hiring/become-a-chef/senior-backend-engineer-javascript-typescript.md)
   * [Solidity Engineer](hiring/become-a-chef/solidity-engineer.md)
   * [Blockchain QA Engineer](hiring/become-a-chef/senior-qa-engineer.md)
+
+## Contract Governance <a id="governance"></a>
+
+---
+
+* [Lottery](lottery.md)
+* [Prediction](prediction.md)
+* [Farms](farms.md)
+* [Syrup Pools](syrup-pools.md)
 

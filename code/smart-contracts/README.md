@@ -19,7 +19,7 @@ Each Farm used by PancakeSwap has its own smart contract. Follow the steps below
 
 ![](../../.gitbook/assets/image%20%28162%29.png)
 
-2. When the details section expands out, click the **View Contract** link on the left to open the contract in BscScan.
+1. When the details section expands out, click the **View Contract** link on the left to open the contract in BscScan.
 
 ![](../../.gitbook/assets/image%20%28167%29.png)
 
@@ -39,11 +39,11 @@ Go to the [PancakeSwap IFO page](https://pancakeswap.finance/ifo) and look on th
 
 ![](../../.gitbook/assets/image%20%28159%29.png)
 
-2. Find the banner of the IFO you'd like to see and click the **down arrow** button to expand it.
+1. Find the banner of the IFO you'd like to see and click the **down arrow** button to expand it.
 
 ![](../../.gitbook/assets/image%20%2864%29.png)
 
-3. Find and click the **View Contract** link on the bottom right of the expanded information.
+1. Find and click the **View Contract** link on the bottom right of the expanded information.
 
 ![](../../.gitbook/assets/image%20%2875%29.png)
 

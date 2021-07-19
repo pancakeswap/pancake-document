@@ -205,7 +205,7 @@ Removes liquidity from a BEP20⇄WBNB and receives BNB, without pre-approval, vi
 | amountETHMin | `uint` | The minimum amount of BNB to remove \(slippage impact\). |
 | to | `address` | Address of LP Token recipient. |
 | deadline | `uint` | Unix timestamp deadline by which the transaction must confirm. |
-| approveMax | `bool` |  Whether or not the approval amount in the signature is for liquidity or `uint(-1)`. |
+| approveMax | `bool` | Whether or not the approval amount in the signature is for liquidity or `uint(-1)`. |
 | v | `uint8` | The v component of the permit signature. |
 | r | `bytes32` | The r component of the permit signature. |
 | s | `bytes32` | The s component of the permit signature. |
@@ -234,7 +234,7 @@ Removes liquidity from a BEP20⇄WBNB and receives BNB via permit for tokens tha
 | amountETHMin | `uint` | The minimum amount of BNB to remove \(slippage impact\). |
 | to | `address` | Address of LP Token recipient. |
 | deadline | `uint` | Unix timestamp deadline by which the transaction must confirm. |
-| approveMax | `bool` |  Whether or not the approval amount in the signature is for liquidity or `uint(-1)`. |
+| approveMax | `bool` | Whether or not the approval amount in the signature is for liquidity or `uint(-1)`. |
 | v | `uint8` | The v component of the permit signature. |
 | r | `bytes32` | The r component of the permit signature. |
 | s | `bytes32` | The s component of the permit signature. |
@@ -265,7 +265,7 @@ Removes liquidity from a BEP20⇄BEP20, without pre-approval, via permit.
 | amountETHMin | `uint` | The minimum amount of BNB to remove \(slippage impact\). |
 | to | `address` | Address of LP Token recipient. |
 | deadline | `uint` | Unix timestamp deadline by which the transaction must confirm. |
-| approveMax | `bool` |  Whether or not the approval amount in the signature is for liquidity or `uint(-1)`. |
+| approveMax | `bool` | Whether or not the approval amount in the signature is for liquidity or `uint(-1)`. |
 | v | `uint8` | The v component of the permit signature. |
 | r | `bytes32` | The r component of the permit signature. |
 | s | `bytes32` | The s component of the permit signature. |
@@ -285,7 +285,7 @@ Receive an exact amount of output tokens for as little BNB as possible.
 | :--- | :--- | :--- |
 | swapETHForExactTokens | `uint` | Payable BNB amount. |
 | amountOut | `uint` | The amount tokens to receive. |
-| path \(address\[\]\) | `address` |  An array of token addresses. `path.length` must be &gt;= 2. Pools for each consecutive pair of addresses must exist and have liquidity. |
+| path \(address\[\]\) | `address` | An array of token addresses. `path.length` must be &gt;= 2. Pools for each consecutive pair of addresses must exist and have liquidity. |
 | to | `address` | Address of recipient. |
 | deadline | `uint` | Unix timestamp deadline by which the transaction must confirm. |
 
@@ -304,7 +304,7 @@ Receive an as many output tokens as possible for an exact amount of BNB.
 | :--- | :--- | :--- |
 | swapExactETHForTokens | `uint` | Payable BNB amount. |
 | amountOutMin | `uint` | The minimum amount tokens to receive. |
-| path \(address\[\]\) | `address` |  An array of token addresses. `path.length` must be &gt;= 2. Pools for each consecutive pair of addresses must exist and have liquidity. |
+| path \(address\[\]\) | `address` | An array of token addresses. `path.length` must be &gt;= 2. Pools for each consecutive pair of addresses must exist and have liquidity. |
 | to | `address` | Address of recipient. |
 | deadline | `uint` | Unix timestamp deadline by which the transaction must confirm. |
 
@@ -325,7 +325,7 @@ Receive an as many output tokens as possible for an exact amount of BNB. Support
 | :--- | :--- | :--- |
 | swapExactETHForTokensSupportingFeeOnTransferTokens | `uint` | Payable BNB amount. |
 | amountOutMin | `uint` | The minimum amount tokens to receive. |
-| path \(address\[\]\) | `address` |  An array of token addresses. `path.length` must be &gt;= 2. Pools for each consecutive pair of addresses must exist and have liquidity. |
+| path \(address\[\]\) | `address` | An array of token addresses. `path.length` must be &gt;= 2. Pools for each consecutive pair of addresses must exist and have liquidity. |
 | to | `address` | Address of recipient. |
 | deadline | `uint` | Unix timestamp deadline by which the transaction must confirm. |
 
@@ -343,7 +343,7 @@ Receive an as much BNB as possible for an exact amount of input tokens.
 | :--- | :--- | :--- |
 | amountIn | `uint` | Payable amount of input tokens. |
 | amountOutMin | `uint` | The minimum amount tokens to receive. |
-| path \(address\[\]\) | `address` |  An array of token addresses. `path.length` must be &gt;= 2. Pools for each consecutive pair of addresses must exist and have liquidity. |
+| path \(address\[\]\) | `address` | An array of token addresses. `path.length` must be &gt;= 2. Pools for each consecutive pair of addresses must exist and have liquidity. |
 | to | `address` | Address of recipient. |
 | deadline | `uint` | Unix timestamp deadline by which the transaction must confirm. |
 
@@ -365,7 +365,7 @@ Receive an as much BNB as possible for an exact amount of tokens. Supports token
 | :--- | :--- | :--- |
 | amountIn | `uint` | Payable amount of input tokens. |
 | amountOutMin | `uint` | The minimum amount tokens to receive. |
-| path \(address\[\]\) | `address` |  An array of token addresses. `path.length` must be &gt;= 2. Pools for each consecutive pair of addresses must exist and have liquidity. |
+| path \(address\[\]\) | `address` | An array of token addresses. `path.length` must be &gt;= 2. Pools for each consecutive pair of addresses must exist and have liquidity. |
 | to | `address` | Address of recipient. |
 | deadline | `uint` | Unix timestamp deadline by which the transaction must confirm. |
 
@@ -387,7 +387,7 @@ Receive an as many output tokens as possible for an exact amount of input tokens
 | :--- | :--- | :--- |
 | amountIn | `uint` | Payable amount of input tokens. |
 | amountOutMin | `uint` | The minimum amount tokens to receive. |
-| path \(address\[\]\) | `address` |  An array of token addresses. `path.length` must be &gt;= 2. Pools for each consecutive pair of addresses must exist and have liquidity. |
+| path \(address\[\]\) | `address` | An array of token addresses. `path.length` must be &gt;= 2. Pools for each consecutive pair of addresses must exist and have liquidity. |
 | to | `address` | Address of recipient. |
 | deadline | `uint` | Unix timestamp deadline by which the transaction must confirm. |
 
@@ -409,7 +409,7 @@ Receive an as many output tokens as possible for an exact amount of input tokens
 | :--- | :--- | :--- |
 | amountIn | `uint` | Payable amount of input tokens. |
 | amountOutMin | `uint` | The minimum amount tokens to receive. |
-| path \(address\[\]\) | `address` |  An array of token addresses. `path.length` must be &gt;= 2. Pools for each consecutive pair of addresses must exist and have liquidity. |
+| path \(address\[\]\) | `address` | An array of token addresses. `path.length` must be &gt;= 2. Pools for each consecutive pair of addresses must exist and have liquidity. |
 | to | `address` | Address of recipient. |
 | deadline | `uint` | Unix timestamp deadline by which the transaction must confirm. |
 
@@ -427,7 +427,7 @@ Receive an exact amount of ETH for as few input tokens as possible.
 | :--- | :--- | :--- |
 | amountOut | `uint` | Payable amount of input tokens. |
 | amountInMax | `uint` | The minimum amount tokens to input. |
-| path \(address\[\]\) | `address` |  An array of token addresses. `path.length` must be &gt;= 2. Pools for each consecutive pair of addresses must exist and have liquidity. |
+| path \(address\[\]\) | `address` | An array of token addresses. `path.length` must be &gt;= 2. Pools for each consecutive pair of addresses must exist and have liquidity. |
 | to | `address` | Address of recipient. |
 | deadline | `uint` | Unix timestamp deadline by which the transaction must confirm. |
 
@@ -449,7 +449,7 @@ Receive an exact amount of output tokens for as few input tokens as possible.
 | :--- | :--- | :--- |
 | amountOut | `uint` | Payable amount of input tokens. |
 | amountInMax | `uint` | The minimum amount tokens to input. |
-| path \(address\[\]\) | `address` |  An array of token addresses. `path.length` must be &gt;= 2. Pools for each consecutive pair of addresses must exist and have liquidity. |
+| path \(address\[\]\) | `address` | An array of token addresses. `path.length` must be &gt;= 2. Pools for each consecutive pair of addresses must exist and have liquidity. |
 | to | `address` | Address of recipient. |
 | deadline | `uint` | Unix timestamp deadline by which the transaction must confirm. |
 

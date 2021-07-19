@@ -24,7 +24,7 @@ You're trying to swap tokens, but your slippage tolerance is too low or liquidit
 2. Try trading a smaller amount at one time.
 3. Increase your slippage tolerance:
    1. Tap the settings icon on the liquidity page.
-   2. Increase your slippage tolerance a little and try again. ![](../.gitbook/assets/image%20%289%29%20%281%29.png)
+   2. Increase your slippage tolerance a little and try again. ![](../.gitbook/assets/image%20%289%29%20%281%29%20%281%29.png)
 4. Lastly, try inputting an amount with fewer decimal places.
 {% endtab %}
 
@@ -64,8 +64,6 @@ It might be the case that prices are updating too fast when and your slippage to
 
 ![](https://lh5.googleusercontent.com/T1KMtz2ILDVHljGw1iLbIv0W1KVl7qXL8zU2nLFHkUvDb5oMw9mpUzzBwWmIBz15XDsxZ5w7wsaqAwCs_pxdobz_kY_7BhcZhYtpqWuQGFs23DZq98-SVInlfsS07WzxFPLIYXHt)
 
-
-
 ![](https://lh5.googleusercontent.com/7aspaCCvDjzxbJxngqwgeq737LB3OUNcAs592QqlEkyrAOTfKsrt_FAwpEylaIJhff5ZcYlzB_r0v1JZwfj3j8Ah6jlUbRoMrAqVfTb3cwDI7B1i5HJtZSQOsTPrv7l7SaclC3BV)
 {% endtab %}
 
@@ -76,7 +74,7 @@ There currently isn't a simple way to solve this issue from the PancakeSwap webs
 
 ### **Approve the LP contract**
 
-Head to the contract of the LP token you're trying to approve.   
+Head to the contract of the LP token you're trying to approve.  
 For example, here's the ETH/WBNB pair: [https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422](https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422)
 
 1. Select **Write Contract**, then **Connect to Web3** and connect your wallet. ![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
@@ -116,9 +114,9 @@ This can cause very high slippage, and can cause the user to lose some funds if 
 
 > The transaction cannot succeed due to error: PancakeRouter: EXPIRED. This is probably an issue with one of the tokens you are swapping.
 
-Try again, but confirm \(sign and broadcast\) the transaction as soon as you generate it. 
+Try again, but confirm \(sign and broadcast\) the transaction as soon as you generate it.
 
-This happened because you started making a transaction, but you didn't sign and broadcast it until it was past the deadline. That means you didn't hit "Confirm" quickly enough. 
+This happened because you started making a transaction, but you didn't sign and broadcast it until it was past the deadline. That means you didn't hit "Confirm" quickly enough.
 
 ### Pancake: K
 
@@ -133,7 +131,7 @@ This probably happened because you're trying to buy or sell tokens during a big 
 > The transaction cannot succeed due to error: execution reverted: Pancake: TRANSFER\_FAILED.
 
 Make sure you have 30% more tokens in your wallet than you intend to trade, or try to trade a lower amount. If you want to sell the maximum possible, try 70% or 69% instead of 100%.  
-Caused by the design of Restorative Rebase tokens like tDoge or tBTC.    
+Caused by the design of Restorative Rebase tokens like tDoge or tBTC.  
 [Understand how restorative rebase tokens work](https://btcst.medium.com/stp-8-restorative-rebase-b4fbbdfd96c).
 
 ### Transaction cannot succeed
@@ -240,9 +238,7 @@ To stop this happening again, **don’t sell your SYRUP.** You still need it to 
 
 This error has happened because you have sold or transferred SYRUP tokens. SYRUP is minted in a 1:1 ratio to CAKE when you stake in the CAKE-CAKE Syrup Pool. SYRUP must be burned at a 1:1 ratio to CAKE when calling leaveStaking \(unstaking your CAKE from the pool\), so if you don't have enough, you can't unstake from the pool.
 
-{% embed url="https://dashboard.tenderly.co/tx/binance/0x754e18ceea82acac256b49c2b7a81260f7f86dd5e56ee2e3cc1b6ac864c29a8e" %}
-
-
+{% embed url="https://dashboard.tenderly.co/tx/binance/0x754e18ceea82acac256b49c2b7a81260f7f86dd5e56ee2e3cc1b6ac864c29a8e" caption="" %}
 
 ![](https://lh4.googleusercontent.com/KchAcnM6cpX2BotEGppAxPAnY4Xbona6yI6ZWg9FlUUBfPi_YO9ulM1s6htXJVXMzEwl0Uxcvdk8o4yhI7ar5g0TRpLVFjkS4YLKL7FS8Z4uFqeC37sw-TIkrPr7BCZQVpuD-5jO)
 {% endtab %}
@@ -256,7 +252,7 @@ You have set a low gas limit when trying to make a transaction.
 
 {% tabs %}
 {% tab title="Solution" %}
-Try manually increasing the **gas limit** \(not gas price!\) in your wallet before signing the transaction. 
+Try manually increasing the **gas limit** \(not gas price!\) in your wallet before signing the transaction.
 
 A limit of 200000 is usually enough.
 
@@ -268,7 +264,7 @@ The above example is from Metamask; check your wallet's documentation if you are
 {% tab title="Reason" %}
 Basically, your wallet \(Metamask, Trust Wallet, etc.\) can't finish what it's trying to do.
 
-Your wallet estimates that the gas limit is too low, so the function call runs out of gas before the function call is finished.  
+Your wallet estimates that the gas limit is too low, so the function call runs out of gas before the function call is finished.
 {% endtab %}
 {% endtabs %}
 
@@ -294,7 +290,7 @@ This happens when you set a limit on your spend allowance when you first approve
 
 You're probably trying to unstake from a Syrup Pool with low rewards in it. Solution below.
 
-If not, you may be trying to send tokens that you don't have in your wallet \(for example, trying to send a token that is already assigned to a pending transaction\). In this case, just make sure you have the tokens you're trying to use. 
+If not, you may be trying to send tokens that you don't have in your wallet \(for example, trying to send a token that is already assigned to a pending transaction\). In this case, just make sure you have the tokens you're trying to use.
 
 {% tabs %}
 {% tab title="Solution" %}
@@ -347,7 +343,7 @@ This is because **SafeMoon taxes a 10% fee on each transaction**:
 * 5% fee = redistributed to all existing holders
 * 5% fee = used to add liquidity
 
-This is also why you might not receive as much of the token as you expect when you purchase.   
+This is also why you might not receive as much of the token as you expect when you purchase.  
 Read more on [How to Buy Safe Moon](https://community.trustwallet.com/t/how-to-buy-safemoon/155742).
 
 ### Internal JSON-RPC errors
@@ -373,6 +369,4 @@ Cause unclear. Try these steps before trying again:
 1. Increase gas limit
 2. Increase slippage
 3. Clear cache
-
-
 
