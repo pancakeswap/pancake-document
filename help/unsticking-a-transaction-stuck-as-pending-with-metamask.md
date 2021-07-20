@@ -50,11 +50,11 @@ We’re now going to find the transaction that’s stuck, and make a note of the
 
 Now we’re going to make a new transaction to replace the stuck one. We’ll customize the Nonce number, so that it’s the same as the one that you just wrote down.
 
-![](../.gitbook/assets/image%20%2844%29.png)
+![](../.gitbook/assets/image%20%2842%29.png)
 
 8. Create a new transaction to replace your stuck transaction. This time around, increase the **Transaction Fee**. Here we’ve increased it from 9 to 20. This will make it more likely for  your transaction to be added to a block.
 
-![](../.gitbook/assets/image%20%28141%29.png)
+![](../.gitbook/assets/image%20%28133%29.png)
 
 9. On the confirmation page, make sure your Gas Price is now at your new, higher amount. 
 

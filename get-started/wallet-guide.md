@@ -97,7 +97,7 @@ You can find more in-depth information about each wallet below, as well as downl
 
 {% tabs %}
 {% tab title="Trust Wallet" %}
-![](../.gitbook/assets/image%20%2870%29.png)
+![](../.gitbook/assets/image%20%2867%29.png)
 
 Trust Wallet is a popular wallet for smart devices. It supports DApps, NFT collectibles \(with Opensea.io support\), and in-wallet staking.
 
@@ -222,7 +222,7 @@ Now you have your private key ready to import your wallet into the desktop versi
 {% endtab %}
 
 {% tab title="SafePal" %}
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%2824%29.png)
 
 SafePal is available as both a software and hardware wallet. The wallet is easy to install and create, and comes ready to support BEP2 \(Binance Chain\) and BEP20 \(Binance Smart Chain\) right away.
 
@@ -334,7 +334,7 @@ MetaMask is a very popular browser-based wallet plugin that supports ERC20 \(Eth
 {% endtab %}
 
 {% tab title="Binance Wallet" %}
-![](../.gitbook/assets/image%20%28126%29.png)
+![](../.gitbook/assets/image%20%28119%29.png)
 
 Binance Wallet is a browser-plugin wallet that natively supports the Binance Chain \(BEP2\) Binance Smart Chain \(BEP20\) networks. Binance Wallet was developed by the Binance cryptocurrency exchange.
 
