@@ -26,7 +26,7 @@ Pancakeプロフィールを手に入れたら、次はCAKE-BNBペアの流動�
 
 手順1と2が完了したら、PancakeSwapの[IFOページ](https://pancakeswap.finance/ifo)に移動して「参加方法」欄を見てみてください。 
 
-![](../.gitbook/assets/image%20%28116%29.png)
+![](../.gitbook/assets/image%20%28116%29%20%281%29%20%281%29.png)
 
 画像のように手順3の「LPトークンを投資」に到達しましたか？もしそうでない場合は、再度手順を見直してください。
 
@@ -39,7 +39,7 @@ IFOは時間制限付きのイベントで、1時間だけ開催されます。
 
 [IFOページ](https://pancakeswap.finance/ifo)情報にカウントダウンがあり、末尾の**\(blocks\)**のリンクをクリックすると新しいウィンドウでBSCScanエクスプローラーが表示されます。
 
-![](../.gitbook/assets/image%20%28103%29.png)
+![](../.gitbook/assets/image%20%2894%29.png)
 
 IFOの開始時刻およびカウントダウン開始タイミングは毎回異なります。PancakeSwapの[公式ソーシャルメディアアカウント](https://docs.pancakeswap.finance/v/japanese/contact-us/telegram)をフォローして、IFOに関するニュースを逃さないようにしてくださいね！
 
