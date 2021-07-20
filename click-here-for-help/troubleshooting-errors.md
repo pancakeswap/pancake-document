@@ -1,10 +1,14 @@
 ---
 description: >-
-  Mensajes de error comunes. Use la barra lateral para saltar al error que
+  Mensajes de error comunes. Use la barra lateral➡️ para saltar al error que
   necesita ver.
 ---
 
 # Errores Frecuentes
+
+![](../.gitbook/assets/image%20%2879%29.png)
+
+A veces estamos frente a un problema que no parece tener una solución clara. Esperamos que estos tips frente a problemas frecuentes puedan ayudarte a solucionarlo.
 
 ## **Problemas en el Exchange**
 
@@ -22,7 +26,7 @@ Está intentando intercambiar tokens, pero su tolerancia al deslizamiento \(Slip
 2. Pruebe intercambiando montos más pequeños de a una vez.
 3. Aumente su tolerancia al deslizamiento \(Slippage\):
    1. Toque el icono de configuración en la página de liquidez.
-   2. Aumente un poco su deslizamiento \(Slippage\) e intente de nuevo. ![](../.gitbook/assets/image%20%289%29%20%281%29.png)
+   2. Aumente un poco su deslizamiento \(Slippage\) e intente de nuevo. ![](../.gitbook/assets/image%20%289%29%20%284%29.png)
 4. Por último, intente ingresar una cantidad con menos valores decimales.
 {% endtab %}
 
@@ -52,7 +56,7 @@ Aún no funciona?
 1. Toque el icono de configuración en la página de liquidez.
 2. Aumente un poco su deslizamiento \(Slippage\) e intente de nuevo.
 
-![](../.gitbook/assets/image%20%289%29%20%281%29.png)
+![](../.gitbook/assets/image%20%289%29%20%284%29.png)
 {% endtab %}
 
 {% tab title="Razón" %}
@@ -87,7 +91,7 @@ Dirígete al contrato del token LP que estás intentando aprobar. Por ejemplo, d
 2. En la sección **5. balanceOf**, ingresa tu dirección de la wallet y presiona **Query**.
 3. Anota el número que se exporta. Este muestra tu saldo dentro del LP en formato uint256, que necesitarás en el siguiente paso. 
 
-![](../.gitbook/assets/image%20%2832%29.png)
+![](../.gitbook/assets/image%20%2829%29.png)
 
 ### Agregar o Remover Liquidez
 
@@ -101,7 +105,7 @@ Dirígete al contrato del Router: [https://bscscan.com/address/0x05ff2b0db69458a
 6. Agrega la dirección de tu billetera en **to \(address\)**.
 7. Deadline debe ser un tiempo de epoch mayor que el tiempo en que se ejecuta el transacción. 
 
-![](../.gitbook/assets/image%20%2819%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 
 {% hint style="warning" %}
 Esto puede causar un muy alto deslizamiento \(Slippage\), y causar que el usuario pierda algunos fondos si realiza Frontrun. 
@@ -186,7 +190,7 @@ Intenta aumentar manualmente el **gas limit** \(no el gas price!\) en tu wallet,
 
 Un límite de gas \(Gas Limit\) en 200000 usualmente es suficiente
 
-![](../.gitbook/assets/image%20%28169%29.png)
+![](../.gitbook/assets/image%20%28152%29.png)
 
 El ejemplo de arriba es en Metamask; echa un vistazo a los docs de tu wallet si no estás seguro cómo ajustar el gas limit.
 {% endtab %}
@@ -228,5 +232,28 @@ Este error tiende a aparecer cuando intentas hacer Unstake de un Syrup Pool anti
 {% endtab %}
 {% endtabs %}
 
-## \*\*\*\*
+## **Otros Errores**
+
+### Provider Error: No provider was found // "No se encuentra el Proveedor"
+
+* Limpia el cache y las cookies
+* Conecta y desconecta la wallet
+* Reinicia tu dispositivo
+
+### Unsupported Chain ID / Chain ID No Soportada
+
+Cambie su red a Binance Smart Chain. Consulte la documentación de su billetera para obtener una guía si necesita ayuda.
+
+### Problemas tratando de comprar SAFEMOON y tokens similares
+
+Para tradear SAFEMOON, debes hacer clic en el icono de configuración y **establecer su tolerancia de deslizamiento \(slippage\) en 12% o más.**
+
+  
+****Esto es porque **SafeMoon cobra un 10% de fee en cada transacción**:
+
+* 5% de fee = redistribuidos a todos los holders
+* 5% de fee = usados para agregar liquidez
+
+Esta es también la razón por la que es posible que no reciba tantos tokens como espera cuando realice la compra.  
+Puede leer más en  [Cómo comprar Safemoon](https://community.trustwallet.com/t/how-to-buy-safemoon/155742) \(en inglés\)
 

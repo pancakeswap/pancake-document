@@ -1,43 +1,47 @@
 ---
-description: '"Don''t call it a roadmap"'
+description: '"No me llames Roadmap"'
 ---
 
 # Roadmap
 
-OK so it's not actually a roadmap: it's a to-do list, in no particular order, with no particular timeline. This is how we work: as fast as we can, on the things we can. Pivoting is a way of life.
 
-#### **Full Site Rework**
 
-* [x] New homepage
-* [x] Harvest all & stake all
-* [x] Personal dashboard
-* [x] Improved UX
-* [x] Faster site
-* [x] Mobile friendly
-* [x] New navigation system
+![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbKS2mFRDg91ZWCu1Fz%2F-MbKZINH3Atuv5bv2dPZ%2Fdocs%20masthead%20%2819%29.png?alt=media&token=a39e0778-1eab-43da-b421-195e3c54d70e)
+
+Bueno, esta bien, en realidad no es una hoja de ruta. Es una lista de tareas pendientes, sin ningún orden en particular y sin plazo de tiempo. Así es como trabajamos: Lo más rápido que podemos, en las cosas que podemos. Ir dando vueltas es una forma de vida.
+
+#### **Renovación Completa del Sitio**
+
+* [x] Nueva homepage
+* [x] Cosechar & Stakear todo
+* [x] Dashboard Personalizado
+* [x] Mejorar UX
+* [x] Rapidez del Sitio
+* [x] Smartphones friendly
+* [x] Nuevo Sistema de Navegación
 
 #### **CAKE Staking \(Syrup Pools\)**
 
 * [x] **CAKE Staking**
-* [x] **Core Pools**
-* [x] **Community Pools:** Host BSC community project Pools, support with 0.1-0.2x CAKE farms
+* [x] **Pools Core**
+* [x] **Pools de Comunidad:** Hostear proyectos de la BSC con 0.1-0.2x en CAKE Farms
 
-#### Other products
+#### Otros Productos
 
-* [x] **Lottery \(core feature\)**
-* [x] **Analytics \(core feature\)**
-* [x] **Voting \(core feature\)**
-* [x] **IFO \(Initial Farm Offering\):** Raise funds for your project in CAKE-BNB LP tokens. After redeeming the LP tokens, the BNB is distributed to the project and the CAKE is burned.
-* [ ] **Lending & Borrowing:** Lend and borrow BSC and LP tokens - CAKE provides rate discount
-* [ ] **Margin Trading:** Trade BSC tokens with leverage on-chain — periodic CAKE buyback and burn
-* [x] **NFT Ecosystem:** Mint, trade, and more — all paid in CAKE
+* [x] **Lotería \(Desarrollo nuevo\)**
+* [x] **Analíticas \(Característica Principal\)**
+* [x] **Votación \(Característica Principal\)**
+* [x] **IFO \(Oferta Inicial de Farming\):** Recaude fondos para su proyecto mediante tokes CAKE-BNB LP. Después de canjear los tokens LP, el BNB se distribuye al proyecto y se quema el CAKE
+* [ ] -**Prestamos**: Preste y pida prestados tokens BSC y LP: CAKE ofrece un descuento en la tasa.
+* [ ] **Margin Trading:** Tradea tokens de la BSC con apalancamiento — recompra y quema periódica de CAKE
+* [x] **Ecosistema NFT**: ¡Emisión, trading y más! Todo pagado con CAKE
   * [x] First NFT round
 * [ ] **NFT-based Gamification:** Complete tasks, level up etc. to earn NFTs — use CAKE to mint
-* [ ] **Binary Options**
-* [ ] **Fixed-term Staking**
-* [x] **Customizable User Profile**
+* [ ] **Opciones Binarias**
+* [ ] **Staking a Plazo Fijo**
+* [x] **Perfil de Usuario Personalizable**
 
-![Comin&apos; up](.gitbook/assets/image%20%281%29%20%281%29.png)
+![Comin&apos; up](.gitbook/assets/image%20%281%29%20%281%29%20%281%29%20%281%29.png)
 
 
 

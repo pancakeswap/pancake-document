@@ -1,5 +1,7 @@
 # Business Partnerships
 
+![](../.gitbook/assets/image%20%28140%29.png)
+
 ## Farms y Syrup Pools 
 
 Los Farms incentivan a los usuarios a proveer liquidez sobre tus pares de trading, distribuyendo CAKE a los poseedores de LP \(Liquidity Provider\) tokens de ese par. 
@@ -42,4 +44,8 @@ Nosotros no aceptamos solicitudes para agregar tokens a la lista aprobada.
 ### Cómo puedo añadir el logo/ícono de mi token?
 
 El exchange de PancakeSwap toma como referencia la colección de íconos de los activos que usa Trust Wallet. Por favor añada su ícono aquí: [https://github.com/trustwallet/assets](https://github.com/trustwallet/assets)
+
+## Una cosa más
+
+Puedes enviarnos un mail a pancakeswap@gmail.com si todo lo anterior no cubre tus preguntas. Por favor, no uses este correo para soporte ya que no es su finalidad: su mejor opción para obtener ayuda con el proyecto es a través de la comunidad de [Telegram](https://t.me/PancakeSwapEs).
 

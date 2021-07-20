@@ -1,16 +1,19 @@
 # Table of contents
 
 * [PancakeSwap Intro](README.md)
+* [Empezando en PancakeSwap](empezando-en-pancakeswap/README.md)
+  * [Creando una Wallet](empezando-en-pancakeswap/creando-una-wallet.md)
+  * [Tokens Bep20](empezando-en-pancakeswap/tokens-bep20.md)
+  * [Cómo Conectarse a PancakeSwap](empezando-en-pancakeswap/como-conectarse-pancakeswap.md)
+* [Ayuda](click-here-for-help/README.md)
+  * [Errores Frecuentes](click-here-for-help/troubleshooting-errors.md)
+  * [Preguntas Generales](click-here-for-help/faq.md)
+  * [Arreglar Transacciones Pendientes Trabadas](click-here-for-help/untitled.md)
+  * [Guía de Binance Academy](click-here-for-help/binance-academy-guide.md)
 * [Contacto](contact-us/README.md)
   * [Business Partnerships](contact-us/business-partnerships.md)
   * [Soporte](contact-us/customer-support.md)
   * [Redes Sociales & Comunidades](contact-us/telegram.md)
-* [Ayuda](click-here-for-help/README.md)
-  * [Errores Frecuentes](click-here-for-help/troubleshooting-errors.md)
-  * [General FAQ](click-here-for-help/faq.md)
-  * [Binance Academy Guide](click-here-for-help/binance-academy-guide/README.md)
-    * [How to use PancakeSwap with Trust Wallet](click-here-for-help/binance-academy-guide/how-to-use-pancakeswap-with-trust-wallet.md)
-  * [How to use MetaMask on PancakeSwap](click-here-for-help/untitled.md)
 * [Roadmap](roadmap.md)
 
 ## Products

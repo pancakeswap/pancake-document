@@ -2,101 +2,126 @@
 description: Shout out to the price bot s1mer for putting these together.
 ---
 
-# General FAQ
+# Preguntas Generales
 
-## What is SYRUP?
+![](../.gitbook/assets/docs-masthead-17-.png)
 
-When you stake your $CAKE, you auto-magically receive $SYRUP that will be used as proof-of-stake.
+Esta página de preguntas frecuentes generales a algunas de las preguntas más frecuentes de la comunidad de PancakeSwap.
 
-With the $SYRUP received you are able to stake for rewards in the SYRUP Pool.Can I become who I want to be?
+## Cómo puedo hacer stake de CAKE?
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+Puedes hacer Stake de tus CAKE en los Syrup Pools de PancakeSwap. Puedes visitar la [página de Syrup Pools](https://pancakeswap.finance/pools).
 
-## What happens if I sell my SYRUP?
+Puedes leer [Cómo hacer Stake en los Syrups](https://docs.pancakeswap.finance/products/syrup-pool/syrup-pool-guide). si deseas una mano para empezar a hacer rendir tus panquecitos.
 
-Please do not sell/exchange your $SYRUP.
+## Cuál es la diferencia entre Staking y Farming?
 
-If you sell your $SYRUP you won't be able to unstake your $CAKE as you need the same amount of $SYRUP to do so.
+Ambas son manera de ganar CAKE, apoyando al proyecto PancakeSwap
 
-## How can I stake CAKE?
+El Staking solo necesita agregar CAKE a los Syrup Pool para ganar CAKE u otros tokens.  
+[Aprende más de Staking en Syrup Pools.](https://docs.pancakeswap.finance/products/syrup-pool)
 
-You can stake your cake on the "Staking" page by clicking on the little "+" sign after approving the contract, choose the amount you want to stake and confirm.
+El Farming es un poco más complicado y necesita Tokens LP para ganar CAKE.  
+[Aprende más sobre Yield Farming.](https://docs.pancakeswap.finance/products/yield-farming)
 
-Staking page: [https://pancakeswap.finance/staking](https://pancakeswap.finance/staking)
+## Cómo hago Farming?
 
+Tenemos una Guía de [Yield Farming](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) si te interesa aprender.
 
+## Es PancakeSwap seguro?
 
-## What is the difference between staking and farming?
+See for yourself:
 
-STAKING: In order to stake your $CAKE you don't need anything else than... well... $CAKE.
+* Check out these PancakeSwap security audits: 
+  * [Certik’s security audit of PancakeSwap](https://www.certik.org/projects/pancakeswap) and [Certik's Shield insurance](https://shield.certik.foundation/)
+  * [Slowmist's security audit of PancakeSwap](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20%20-%20PancakeSwap.pdf)
+  * [Slowmist's Auto-CAKE Pool security audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20CakeVault.pdf)
+* Transparent:
+  * We’re built on open-source software: our site and all our Smart Contracts are publicly visible for maximum transparency. 
+  * Our contracts are verified on BscScan so you know that what you see is what you get: [1](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E) [2](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#code) [3](https://bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812) [4](https://bscscan.com/address/0x1b96b92314c44b159149f7e0303511fb2fc4774f#code) [5](https://bscscan.com/address/0x92E8CeB7eAeD69fB6E4d9dA43F605D2610214E68) 
+* Security best practices:
+  * The chefs use multisig for all contracts.
+  * Our contracts’ time-lock gives you peace of mind.
 
-FARMING: In order to farm you need to provide liquidity to one of the pools on the farming page and then stake your LP tokens.
+## Dónde puedo ver el Roadmap?
 
-Both have their own advantages and disadvantages. Which one to choose is up to your strategy.
+Puedes ver nuestra [lista de tareas, nosotros no le decimos Roadmap!](https://docs.pancakeswap.finance/roadmap)
 
-## How do I farm?
+## Cómo conecto mi wallet a la Binance Smart Chain y a PancakeSwap?
 
-In order to farm you first have to provide liquidity to one of the pools which you can find on the "Farm" page.
+Tenemos una [Guía de cómo conectar tu wallet](https://docs.pancakeswap.finance/get-started/connection-guide) cubriendo esto en detalle
 
-After providing liquidity and receiving your LP tokens then select the pool you joined from the "Farm" page, approve the contract and then click on the little "+" sign, choose the amount you want to stake and confirm.
+## Cuál es la mejor wallet para PancakeSwap?
 
-Provide liquidity: [https://exchange.pancakeswap.finance/\#/pool](https://exchange.pancakeswap.finance/#/pool) Stake your LP tokens: [https://pancakeswap.finance/farms](https://pancakeswap.finance/farms)
+Depende de tus necesidades. Tenemos una guía de [cómo seleccionar y crear una wallet](https://docs.pancakeswap.finance/get-started/wallet-guide) para que puedas ir a ver.
 
-## How do I connect my wallet to PancakeSwap?
+## Por qué mi transacción falla?
 
-In order to connect your wallet you have to click on the "Unlock Wallet" button on the top-right corner of the page. After that, look for the wallet you want to connect to PancakeSwap and click "connect". Approve the connection and you're good to go.
+Puedes ver el estado de la transacción en [https://bscscan.com/](https://bscscan.com/).
 
-## How do I set up my wallet on Binance Smart Chain?
+Nuestra [Guía de Errores Frecuentes](https://docs.pancakeswap.finance/help/troubleshooting)  tal vez tiene la solución a lo que estés buscando.
 
-Trust Wallet: When you go into the dAPP in the top-right corner you can see the different blockchains available, click on it then choose Binance Smart Chain Mainnet.
+También puedes ver nuestro apartado de [Cómo arreglar transacciones pendientes atoradas](https://docs.pancakeswap.finance/help/unsticking-a-transaction-stuck-as-pending-with-metamask).
 
-MetaMask: Create a custom RPC with the following: Network Name: BSC Mainnet New RPC URL: [https://bsc-dataseed.binance.org/](https://bsc-dataseed.binance.org/) ChainID: 56 Symbol: BNB Block Explorer URL: [https://bscscan.com/](https://bscscan.com/)
+## Cuando agregan nuevos Pools?
 
-## Why is my transaction failing?
+Nuevos Pools son agregados frecuentemente. Siempre habrá un anuncio antes del lanzamiento de nuevos Pools.
 
-Check the TX on [https://bscscan.com/](https://bscscan.com/)
+En el  [Grupo de Telegram de Anuncios](https://t.me/PancakeSwapAnuncios) para enterarte lo antes posible.
 
-If it says "burn amount exceeds balance" you forgot to unstake your $SYRUP. \(This if the transaction fails while trying to unstake $CAKE\)
+## Cómo consigo airdrops?
 
-If there is any other message it might be a problem within BSC, please try increasing the transfer fees to 20 GWEI 200,000 Gas limit.
+Cada vez que haya un airdrop oficial en PancakeSwap se anunciará junto con los requisitos.
 
-## When will you open more pools?
+Recuerde que cualquiera puede dar tokens a los usuarios de PancakeSwap, ya que cada transacción es pública en BscScan. Asegúrese de hacer su propia investigación cuando se trata de airdrops no oficiales. Para proteger sus fondos, le recomendamos que no use un contrato inteligente que no entienda de una fuente en la que no confíe.
 
-There will always be an announcement before the launch of new pools.
+## Cómo puedo reportar un bug?
 
-Join the announcements Telegram group to be the first that finds out.
+Puedes ver nuestras [recompensas por bug o potenciales bugs](https://docs.pancakeswap.finance/code/bug-bounty).
 
-Announcements Group: [https://t.me/PancakeSwapAnn](https://t.me/PancakeSwapAnn)
+## Por qué dice que no tengo BNB?
 
-## How do I get airdrops?
+Si ya transferiste BNB a tu balance en Binance Smart Chain [transferred BNB into your Binance Smart Chain-enabled wallet](https://docs.pancakeswap.finance/get-started/bep20-guide) pero sigues con este error, probablemente no estés conectado a la BSC con tu walet. Asegúrate de estar conectado a la red correcta \(BSC\).
 
-When there is any official airdrop going on it will be announced along with the requirements.
+## Cómo puedo votar?
 
-Please remember anyone can airdrop tokens to PancakeSwap users since every transaction is public on BSCScan. Do your own due diligence when it comes to non-official airdrops.
+Para obtener más información sobre la votación, puede leer nuestra sección sobre Votación, incluidas las guías de cómo hacerlo.
 
-## Why does it say I have no BNB balance?
+## Cuál es el max supply de CAKE?
 
-You're most likely not connected to Binance Smart Chain within your wallet.
+$CAKE no tiene un supply \(circulante\) máximo. El suministro circulante se gestiona a través de la quema incorporada y los eventos de quema regulares.  
+  
+Para aprender de las tokenomics de cake puedes leer esta sección [learn more about PancakeSwap's tokenomics](https://docs.pancakeswap.finance/tokenomics/cake).
 
-## How do I vote?
+## Para qué se utilizan los fondos del tesoro?
 
-You can vote on the voting page using $SYRUP.
+Los fondos del tesoro se utilizan para cubrir los gastos involucrados en la gestión de PancakeSwap. Estos gastos incluyen salarios, auditorías, premios, alojamiento, mantenimiento, recompensas, etc.
 
-Voting page: [https://voting.pancakeswap.finance/\#/cake](https://voting.pancakeswap.finance/#/cake)
+## Dónde puedo ver las analíticas del proyecto?
 
-## Do I lose SYRUP if I vote?
+Puede consultar las analíticas de PancakeSwap haciendo clic en la pestaña "**Info**" en el menú superior o haciendo clic en el siguiente enlace:
 
-You do not lose $SYRUP when you vote.
+ **Info**: [https://pancakeswap.info/](https://pancakeswap.info/)
 
-## What is the max supply of CAKE?
+## Está PancakeSwap protegida frente a flash loans?
 
-$CAKE does not have a max. supply at the time of writing.
+El vault de PancakeSwap tiene protección anti-flashloan. El token CAKE de PancakeSwap no es vulnerable a los ataques de préstamos flash. A diferencia de los tokens vulnerables, la emisión de CAKE está predefinida y no se puede ajustar en una sola transacción. La propiedad no puede transferirse fuera del contrato de MasterChef.
 
-## Where can I check the Analytics?
+Otros contratos inteligentes de PancakeSwap, como IFO y Auto-Cake Pool, también están protegidos. Evitan que otros contratos interactúen con ellos, lo que reduce el alcance de los ataques.
 
-You can check the analytics of PancakeSwap by click on the "Analytics" tab on the top menu or by clicking the link below.
+## Puedo unirme al equipo de PancakeSwap?
 
-Analytics: [https://pancakeswap.info/](https://pancakeswap.info/)
+Podés chequear la parte [Become a Chef](https://docs.pancakeswap.finance/hiring/become-a-chef) para encontrar las posiciones que estamos buscando. 
+
+Anunciamos nuevos puestos que estamos buscando en nuestras redes sociales, así que asegúrate de seguirnos para obtener toda la info más reciente.
+
+## Qué es SYRUP?
+
+SYRUP fue una parte del proceso de staking a principios de la vida de PancakeSwap. Luego se descontinuó cuando se descubrió un problema de seguridad y ya no es parte de PancakeSwap.
+
+## No puedo encontrar una respuesta a mi pregunta. ¿Dónde puedo buscarla?
+
+Si no puedes encontrar lo que estás buscando en la documentación de PancakeSwap, haga su pregunta en las redes sociales oficiales de PancakeSwap y alguien hará todo lo posible para ayudarlo.
 
 
 

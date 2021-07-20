@@ -1,6 +1,6 @@
 # 🔮 Predicción
 
-![](../.gitbook/assets/masthead%20%285%29%20%281%29.png)
+![](../.gitbook/assets/masthead%20%285%29%20%284%29%20%281%29.png)
 
 Qué es Predicción?  Es un mercado de _predicción_ descentralizado muy divertido y simple, dentro de PancakeSwap
 

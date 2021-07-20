@@ -1,18 +1,28 @@
 # Redes Sociales & Comunidades
 
+![](../.gitbook/assets/image%20%28107%29.png)
+
+Aquí vas a encontrar la lista de las comunidades y redes sociales oficiales de PancakeSwap.
+
+Desde la comunidad en Español tratamos de acercarte todas las noticias y comunidades del main a tu idioma nativo. 
+
 ### 🐦 Twitter
 
-[https://twitter.com/pancakeswap](https://twitter.com/pancakeswap)
+### [Follow @PancakeSwapES](https://twitter.com/PancakeSwapES?ref_src=twsrc%5Etfw)
+
+
 
 ### 📰 Blog \(Medium\)
 
-{% embed url="https://medium.com/@pancakeswap" %}
+{% embed url="https://pancakeswapes.medium.com" %}
 
-### 👽 Reddit
+
+
+### 👽 Reddit \(En Inglés\)
 
 {% embed url="https://reddit.com/r/pancakeswap" %}
 
-### 🤳 Instagram
+### 🤳 Instagram \(Inglés\)
 
 {% embed url="https://www.instagram.com/pancakeswap\_official/" %}
 
@@ -20,12 +30,13 @@
 
 **Grupos de Telegram Oficiales:** 
 
+* 📣 Canal de Anuncios \(Español\) \([https://t.me/PancakeSwapAnuncios](https://t.me/PancakeSwapAnuncios)\) 
+* 🇪🇸 🇦🇷 🇻🇪 Español \([https://t.me/PancakeSwapES](https://t.me/PancakeSwapES)\) 
 * 📣 Canal de Anuncios \(Inglés\) \([http://t.me/PancakeSwapAnn](http://t.me/PancakeSwapAnn)\) 
 * 🥞 Inglés \([http://t.me/pancakeswap](http://t.me/pancakeswap)\) 
 * 🇨🇳 Chino\([http://t.me/PancakeSwap\_CN](http://t.me/PancakeSwap_CN)\) 
 * 🇮🇩 Indonesia \([http://t.me/PancakeSwapIndonesia](http://t.me/PancakeSwapIndonesia)\) 
 * 🇻🇳 Việt Nam \([https://t.me/PancakeSwapVN](https://t.me/PancakeSwapVN)\) 
-* 🇪🇸 🇦🇷 🇻🇪 Español \([https://t.me/PancakeSwapES](https://t.me/PancakeSwapES)\) 
 * 🇷🇺 Ruso \([http://t.me/pancakeswap\_ru](http://t.me/pancakeswap_ru)\) 
 * 🇧🇷 🇵🇹 Portugués/Brasil Comunidad \([https://t.me/PancakeSwapPortuguese](https://t.me/PancakeSwapPortuguese)\)
 *  🇫🇷 Francés \([https://t.me/pancakeswapfr](https://t.me/pancakeswapfr)\) 
