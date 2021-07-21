@@ -12,7 +12,7 @@ PancakeSwap lets users trade without the need to go through a Centralized Exchan
 
 ### Liquidity Pools
 
-The PancakeSwap exchange can only operate when there's enough liquidity to support trades; if nobody wanted to sell you BNB for example, then it wouldn't matter how much you wanted to trade for some. 
+You can only swap tokens on PancakeSwap if there is enough liquidity for those tokens. If nobody has added much liquidity for the token or tokens you want to swap, it will be difficult, expensive, or impossible to do so.
 
 Providing liquidity will get you LP Tokens, which will earn you rewards in the form of trading fees for making sure there's always liquidity for the exchange to use.
 
