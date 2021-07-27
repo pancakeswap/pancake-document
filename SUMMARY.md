@@ -18,9 +18,11 @@
 
 ## Products
 
-* [Exchange](products/pancakeswap-exchange/README.md)
-  * [Liquidity Pools and Adding Liquidity](products/pancakeswap-exchange/pancakeswap-pools.md)
-  * [How to Trade on the PancakeSwap Exchange](products/pancakeswap-exchange/how-to-trade-on-the-pancakeswap-exchange.md)
+* [🔄Exchange](products/pancakeswap-exchange/README.md)
+  * [Swap de Tokens](products/pancakeswap-exchange/swap-trading.md)
+  * [Cómo hacer un Trade](products/pancakeswap-exchange/how-to-trade-on-the-pancakeswap-exchange.md)
+  * [Liquidez](products/pancakeswap-exchange/pools-de-liquidez.md)
+  * [Añadir/Remover Liquidez](products/pancakeswap-exchange/anadir-remover-liquidez.md)
 * [Yield Farming](products/yield-farming/README.md)
   * [How to Yield Farm on PancakeSwap](products/yield-farming/how-to-yield-farm-on-pancakeswap.md)
   * [Farms](products/yield-farming/farms.md)

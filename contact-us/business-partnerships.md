@@ -33,7 +33,7 @@ Aprendé más de cómo funcionan las IFO [aquí](../products/ifo-initial-farm-of
 
 ### Cómo puedo listar mi token en el exchange?
 
-Cualquier persona puede "listar" un token de la red BEP-20 en PancakeSwap . No necesitas pedirnos permiso a nosotros. Solamente deberás [añadir liquidez a un pool de liquidez](../products/pancakeswap-exchange/pancakeswap-pools.md) - Sólo eso. Luego, los traders pueden comerciar su token ingresando el contrato del mismo en el exchange de manera manual.
+Cualquier persona puede "listar" un token de la red BEP-20 en PancakeSwap . No necesitas pedirnos permiso a nosotros. Solamente deberás [añadir liquidez a un pool de liquidez](../products/pancakeswap-exchange/swap-trading.md) - Sólo eso. Luego, los traders pueden comerciar su token ingresando el contrato del mismo en el exchange de manera manual.
 
 ### Cómo puedo añadir mi token a la lista predeterminada?
 
