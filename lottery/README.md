@@ -328,5 +328,5 @@ Function used to set the **Operator**, **Treasury**, and **Injector** addresses.
     }
 ```
 
-For the **Owner** to update the RandomNumberGenerator contract in case we need to update the drawing logic, or update release.
+For the **Owner** to update the RandomNumberGenerator contract in case we need to update the drawing logic, or release an update.
 

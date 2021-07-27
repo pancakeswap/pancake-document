@@ -79,8 +79,13 @@
 
 ---
 
-* [Lottery](lottery.md)
+* [Lottery](lottery/README.md)
+  * [Scheduler](lottery/scheduler.md)
+  * [RandomNumberGenerator](lottery/randomnumbergenerator.md)
+  * [Lottery Contract](lottery/lottery-contract.md)
 * [Prediction](prediction.md)
 * [Farms](farms.md)
-* [Syrup Pools](syrup-pools.md)
+* [Syrup Pools](syrup-pools/README.md)
+  * [SmartChefInitializable](syrup-pools/smartchefinitializable.md)
+  * [PoolDeployer](syrup-pools/pooldeployer.md)
 
