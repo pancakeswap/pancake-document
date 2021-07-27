@@ -1,6 +1,6 @@
 # Table of contents
 
-* [PancakeSwap Intro](README.md)
+* [PancakeSwap 介绍](README.md)
 * [联系我们](contact-us/README.md)
   * [商业合作](contact-us/business-partnerships.md)
   * [客户服务](contact-us/customer-support.md)
