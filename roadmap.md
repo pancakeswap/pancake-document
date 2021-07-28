@@ -1,43 +1,47 @@
 ---
-description: '"Don''t call it a roadmap"'
+description: 「别把它称作路线图」
 ---
 
-# Roadmap
+# 路线图
 
-OK so it's not actually a roadmap: it's a to-do list, in no particular order, with no particular timeline. This is how we work: as fast as we can, on the things we can. Pivoting is a way of life.
+![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbKS2mFRDg91ZWCu1Fz%2F-MbKZINH3Atuv5bv2dPZ%2Fdocs%20masthead%20%2819%29.png?alt=media&token=a39e0778-1eab-43da-b421-195e3c54d70e)
 
-#### **Full Site Rework**
+好吧，与其说它是路线图，不如说是一个待办清单，因为内容没有特定的顺序，也没有特定的时间表。这就是我们的工作方式：以最快的速度，做我们能做的事情。随机应变是一种生活方式。
 
-* [x] New homepage
-* [x] Harvest all & stake all
-* [x] Personal dashboard
-* [x] Improved UX
-* [x] Faster site
-* [x] Mobile friendly
-* [x] New navigation system
+## **全站重整**
 
-#### **CAKE Staking \(Syrup Pools\)**
+* [x] 新的主页
+* [x] 全部收割、全部质押
+* [x] 个人控制台页面
+* [x] 更好的用户体验
+* [x] 更快的加载速度
+* [x] 移动端适配
+* [x] 新的导航栏
 
-* [x] **CAKE Staking**
-* [x] **Core Pools**
-* [x] **Community Pools:** Host BSC community project Pools, support with 0.1-0.2x CAKE farms
+## **CAKE 质押（Syrup 资金池）**
 
-#### Other products
+* [x] **CAKE 质押**
+* [x] **核心资金池**
+* [x] **社区资金池：**为币安智能链的社区项目们设计，与其搭配的还有 0.1-0.2 倍数的 CAKE 农场
+* [x] **自动复投：「**质押 ****CAKE 赚取 CAKE」的 Syrup 资金池实现收获自动复投
 
-* [x] **Lottery \(core feature\)**
-* [x] **Analytics \(core feature\)**
-* [x] **Voting \(core feature\)**
-* [x] **IFO \(Initial Farm Offering\):** Raise funds for your project in CAKE-BNB LP tokens. After redeeming the LP tokens, the BNB is distributed to the project and the CAKE is burned.
-* [ ] **Lending & Borrowing:** Lend and borrow BSC and LP tokens - CAKE provides rate discount
-* [ ] **Margin Trading:** Trade BSC tokens with leverage on-chain — periodic CAKE buyback and burn
-* [x] **NFT Ecosystem:** Mint, trade, and more — all paid in CAKE
-  * [x] First NFT round
-* [ ] **NFT-based Gamification:** Complete tasks, level up etc. to earn NFTs — use CAKE to mint
-* [ ] **Binary Options**
-* [ ] **Fixed-term Staking**
-* [x] **Customizable User Profile**
+## 其他产品
 
-![Comin&apos; up](.gitbook/assets/image%20%281%29%20%281%29%20%281%29%20%281%29.png)
+* [x] **彩票（核心功能）**
+* [x] **数据及分析（核心功能）**
+* [x] **投票（核心功能）**
+* [x] **预测市场（核心功能）**
+* [x] **IFO \(Initial Farm Offering / 首次农场发行\)：**使用用 CAKE-BNB LP 代币为您的项目筹集资金。取得 LP 代币后，BNB 被分配给项目，CAKE 将被销毁。
+* [ ] **借贷：**借出或贷入 LP 代币 - 使用 CAKE 获得利息折扣。
+* [ ] **杠杆交易：**在币安智能链上杠杆交易代币 - 定期 CAKE 回购及销毁
+* [x] **NFT 生态：**铸造，交易，以及未来更多的可能 - 使用 CAKE 支付
+* [ ] **基于 NFT 的游戏化功能：**完成任务，升级，获得 NFT - 使用 CAKE 来支付并铸造
+* [ ] **固定期限质押**
+* [x] **个性化用户资料**
+
+\*\*\*\*
+
+![&#x6765;&#x561E;~](.gitbook/assets/image%20%281%29%20%281%29%20%281%29%20%281%29.png)
 
 
 
