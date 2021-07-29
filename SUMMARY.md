@@ -1,17 +1,18 @@
 # Table of contents
 
 * [PancakeSwap 介绍](README.md)
-* [联系我们](contact-us/README.md)
-  * [商业合作](contact-us/business-partnerships.md)
-  * [客户服务](contact-us/customer-support.md)
-  * [社交媒体与社区](contact-us/telegram.md)
-* [路线图](roadmap.md)
-* [点击此处寻求帮助](click-here-for-help/README.md)
+* [入门指南](get-started.md)
+* [需要帮助？点我](click-here-for-help/README.md)
   * [故障排除指南](click-here-for-help/troubleshooting-errors.md)
   * [General FAQ](click-here-for-help/faq.md)
   * [Binance Academy Guide](click-here-for-help/binance-academy-guide/README.md)
     * [How to use PancakeSwap with Trust Wallet](click-here-for-help/binance-academy-guide/how-to-use-pancakeswap-with-trust-wallet.md)
   * [How to use MetaMask on PancakeSwap](click-here-for-help/untitled.md)
+* [联系我们](contact-us/README.md)
+  * [商业合作](contact-us/business-partnerships.md)
+  * [客户服务](contact-us/customer-support.md)
+  * [社交媒体与社区](contact-us/telegram.md)
+* [路线图](roadmap.md)
 
 ## Products
 
