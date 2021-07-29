@@ -90,34 +90,34 @@ Ahora solo debería ver los pares en los que tiene tokens LP depositados, lo que
 1. Asegúrese de que su información es correcta. Cuando esté listo, haga clic en el botón **Confirm** y confirme la acción en su billetera.
 2. Después de una breve espera, su nuevo saldo se mostrará en la sección de detalles de su par de tokens LP. Si retirado tus Tokens LP, cualquier recompensa no recolectada que hayas tenido se habrá recolectado automáticamente.
 
-## Collecting your farming rewards <a id="collecting-your-farming-rewards"></a>
+## Recolectar las Recompensas de Farming <a id="collecting-your-farming-rewards"></a>
 
-Farming will bring you CAKE rewards over time. You can collect these rewards and use them to get more LP Tokens, stake them in Syrup Pools, use them to play Lottery, or anything else you’d like.
+El Farming le traerá recompensas CAKE con el tiempo. Puedes recoger estas recompensas y usarlas para obtener más tokens LP, depositarlos en los Syrups Pools, usarlos para jugar a la lotería o cualquier otra cosa que desees.
 
-### Returning to your Farm to Harvest <a id="returning-to-your-farm-to-harvest"></a>
+### Volviendo a su Farm para cosechar recompensas <a id="returning-to-your-farm-to-harvest"></a>
 
-You can harvest your Farm and Syrup Pool rewards together from the Home page. If you'd like to collect your farming rewards only, follow along.
+Puede cosechar sus recompensas de Farms y Syrup Pools juntos desde la página de inicio. Si desea recoger sus recompensas de Farm solamente, siga adelante.
 
-To collect your rewards, you’ll need to visit your chosen Farm and collect the CAKE waiting for you.
+Para recoger sus recompensas, tendrás que visitar tu Farm elegido y recoger los CAKE que te esperan.
 
-1. Return to the Farms page [here](https://pancakeswap.finance/farms).
-2. Find the Farm you staked your LP Tokens in, and click the row to view details. You should see an estimate of your rewards under “Cake earned”.
+1. Vuelva a la página de [Farms](https://pancakeswap.finance/farms).
+2. Busca el Farm en la que depositaste tus tokens LP y haz clic en la fila para ver los detalles. Deberías ver una estimación de sus recompensas en "Cake Earned"
 
 ![](https://lh5.googleusercontent.com/nBfqNjKcuqvj-LhW76CPmV2pyGS-SwGsf1U_9top7OS7wnl24xQRzudcOgZbQvNc0P8rQetAU9_52mB9TatXqyMcdCRyMk0nRzel8BqWPGNyiTBGB8Z-c3LcHTJVXaAb5CWyD5J4)
 
-1. Click the **Harvest** button and confirm the action in your wallet. After a short wait, the CAKE will be claimed to your wallet for you to use as you like.
+1. Haga clic en el botón **Harvest** y confirme la acción en su billetera. Después de una corta espera, los CAKE serán reclamados a su billetera para que los use como desee.
 
-### How often should I harvest my rewards? <a id="how-often-should-i-harvest-my-rewards"></a>
+### Con qué frecuencia debo cosechar mis recompensas? <a id="how-often-should-i-harvest-my-rewards"></a>
 
-How often you harvest your rewards is up to you, but it does help to remember that there is a small fee involved in harvesting.
+La frecuencia con la que cosecha sus recompensas depende de usted, pero ayuda a recordar que hay una pequeña tarifa involucrada en la cosecha.
 
-You can see this fee in your wallet when confirming after clicking **Harvest**.
+Puede ver esta tarifa en su billetera al confirmar después de hacer clic en **Harvest**.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-M_yHqZ-iQ7MbYTxgAV0%2F-Ma2keRoF_mzhyD-3x64%2Fimage.png?alt=media&token=ee7bd789-7ead-468a-b286-cb2be51034fc)
 
-This shows the fee for harvesting as it appears in the MetaMask wallet. Different wallets will show the information a little differently. Consider leaving your rewards to grow for a while so you pay fees less often.
+Esto muestra la tarifa por la cosecha tal como aparece en la billetera MetaMask. Diferentes billeteras mostrarán la información de manera un poco diferente. Considere dejar que sus recompensas crezcan por un tiempo para que pague tarifas con menos frecuencia.
 
-And that's all there is to it! You may also want to look at [how to use PancakeSwap Syrup Pools](https://docs.pancakeswap.finance/get-started/syrup-pool-guide) to earn rewards.
+¡Y eso es todo lo que hay que hacer! También es posible que desee ver cómo utilizar los Syrup Pools de PancakeSwap.
 
-Happy farming!
+Feliz farming!
 
