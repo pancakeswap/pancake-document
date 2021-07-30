@@ -30,7 +30,7 @@
   * [Cómo hacer el Stake en los Syrup Pools](products/syrup-pools/como-hacer-el-stake-en-los-syrup-pools.md)
   * [Auto CAKE Syrup Pool](products/syrup-pools/auto-cake-syrup-pool.md)
   * [Syrup Pool FAQ & Errores Frecuentes](products/syrup-pools/syrup-pool.md)
-* [Lottery](products/lottery/README.md)
+* [🎟 Lottery v2](products/lottery/README.md)
   * [Lottery](products/lottery/lottery-1.md)
   * [How to Take Part in the PancakeSwap Lottery](products/lottery/how-to-take-part-in-the-pancakeswap-lottery.md)
   * [Lottery FAQ](products/lottery/lottery-faq.md)
