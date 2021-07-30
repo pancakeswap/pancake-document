@@ -1,67 +1,67 @@
 # Syrup Pool FAQ & Errores Frecuentes
 
-## Troubleshooting <a id="troubleshooting"></a>
+## Errores Frecuentes <a id="troubleshooting"></a>
 
-### **I can't find the Syrup Pool I was staking in!** <a id="i-cant-find-the-syrup-pool-i-was-staking-in"></a>
+### **No puedo encontrar el Pool en el que estaba!** <a id="i-cant-find-the-syrup-pool-i-was-staking-in"></a>
 
-You should be able to find the Syrup Pool under the “Finished” tab on the Syrup Pools page.
+Usted debe ser capaz de encontrar su Pool  en la pestaña "Finished" de la página de Syrup Pools.
 
-By selecting “Staked Only”, it will make it easier to find your assets.
+Al seleccionar "Staked Only", hará que sea más fácil encontrar sus activos.
 
-### **Why can’t I unstake my tokens from a Syrup Pool?** <a id="why-cant-i-unstake-my-tokens-from-a-syrup-pool"></a>
+### **Por qué no puedo retirar mis tokens del Syrup Pool?** <a id="why-cant-i-unstake-my-tokens-from-a-syrup-pool"></a>
 
-If you are unable to unstake from the Stake Cake, Earn CAKE pools, please check to make sure that you haven’t sold the SYRUP tokens in your wallet. This token acts as a \`proof of ownership\` over your CAKE in the Manual CAKE pool.
+Si no puedes retirar tus CAKE del Pool Manual de CAKE, verifica que no hayas vendido los tokens SYRUP de tu billetera. Este token actúa como una "prueba de propiedad" sobre su CAKE en el pool manual de CAKE.
 
-### **Why did my earned tokens go to zero after staking/unstaking?** <a id="why-did-my-earned-tokens-go-to-zero-after-staking-unstaking"></a>
+### **Por que mis tokens se fueron a cero después de hacer staking/unstaking?** <a id="why-did-my-earned-tokens-go-to-zero-after-staking-unstaking"></a>
 
-Don’t worry! They’re in your wallet already.
+No te preocupes! Ya están en tu wallet
 
-Whenever you stake or unstake from a Syrup Pool or farm, your earned tokens get harvested and sent to your wallet at the same time.
+Cada vez que depositas o retiras de un Pool o Farm, tus tokens ganados se cosechan y se envían a tu billetera al mismo tiempo.
 
-## **General Questions** <a id="general-questions"></a>
+## **Preguntas Generales** <a id="general-questions"></a>
 
-### How is APR for Syrup Pools calculated? <a id="how-is-apr-for-syrup-pools-calculated"></a>
+### Cómo se calcula el APR de los Syrup Pools? <a id="how-is-apr-for-syrup-pools-calculated"></a>
 
 > Syrup Pool APR = Annualized rewards \(USD\) / User funds staked in Syrup Pool \(USD\) \* 100
 
-As a basic example, let's take a 60-day pool with 300,000 USD worth of rewards, and 3,000,000 USD worth of CAKE staked in it.
+Como ejemplo básico, tomemos un Pool de 60 días con recompensas por valor de 300,000 USD y 3,000,000 USD de CAKE depositado en él.
 
-The APR fluctuates as more CAKE is staked by users, and as the price of CAKE, and the reward token, vary.
+El APR fluctúa a medida que los usuarios depositan más CAKE, y a medida que el precio de CAKE y el token de recompensa varían.
 
 <table>
   <thead>
     <tr>
       <th style="text-align:left">&#x200B;</th>
-      <th style="text-align:left"><b>Calculation</b>
+      <th style="text-align:left"><b>C&#xE1;lculo</b>
       </th>
-      <th style="text-align:left">Amount</th>
+      <th style="text-align:left">Cantidad</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">Total rewards to distribute (USD value)</td>
+      <td style="text-align:left">Total rewards a distribuir (valor USD)</td>
       <td style="text-align:left">&#x200B;</td>
       <td style="text-align:left">300,000 USD</td>
     </tr>
     <tr>
-      <td style="text-align:left">Distribution period</td>
+      <td style="text-align:left">Per&#xED;odo de Distribuci&#xF3;n</td>
       <td style="text-align:left">&#x200B;</td>
-      <td style="text-align:left">60 days</td>
+      <td style="text-align:left">60 d&#xED;as</td>
     </tr>
     <tr>
-      <td style="text-align:left">Daily distribution</td>
+      <td style="text-align:left">Distribuci&#xF3;n Diaria</td>
       <td style="text-align:left">300,000 / 60 =</td>
-      <td style="text-align:left">5,000 USD daily</td>
+      <td style="text-align:left">5,000 USD diarios</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Annualised rewards (USD value)</b>
+      <td style="text-align:left"><b>Rewards Anualizadas (Valor USD)</b>
       </td>
       <td style="text-align:left">5,000 * 365 =</td>
       <td style="text-align:left"><b>1,825,000 USD</b>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Value of CAKE staked by users in pool (USD value)</b>
+      <td style="text-align:left"><b>Valor de CAKE depositado en Pool por Usuarios (Valor USD)</b>
       </td>
       <td style="text-align:left">&#x200B;</td>
       <td style="text-align:left"><b>3,000,000 USD</b>
@@ -80,32 +80,32 @@ The APR fluctuates as more CAKE is staked by users, and as the price of CAKE, an
   </tbody>
 </table>
 
-### **What does the “End” number on my Syrup Pool refer to?** <a id="what-does-the-end-number-on-my-syrup-pool-refer-to"></a>
+### A qué se refiere el número "End" en mi Pool**?** <a id="what-does-the-end-number-on-my-syrup-pool-refer-to"></a>
 
-This shows the amount of blocks left until the rewards for that pool stop being distributed. Once the pool has reached that block, you should unstake your tokens, because you won’t be receiving any rewards after that.
+Esto muestra la cantidad de bloques que quedan hasta que las recompensas por ese Pool dejan de distribuirse. Una vez que el Pool haya alcanzado ese bloque, debes retirar tus tokens, porque no recibirás ninguna recompensa después de eso.
 
-### **Where do the rewards from Syrup Pools come from?** <a id="where-do-the-rewards-from-syrup-pools-come-from"></a>
+### De dónde vienen las recompensas de Syrup Pools?**?** <a id="where-do-the-rewards-from-syrup-pools-come-from"></a>
 
-There are three main types of Syrup Pools.
+Hay 3 tipos de Syrup Pools.
 
-1. Stake CAKE, earn CAKE
-2. Stake CAKE, earn other tokens.
-3. Stake other tokens, earn CAKE
+1. Stake CAKE, gana CAKE
+2. Stake CAKE, gana otros tokens.
+3. Stake otros tokens, gana CAKE
 
-The rewards for the "Stake CAKE, earn CAKE" Syrup Pools come from the [CAKE emissions](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics). Each block, a number of CAKE tokens are allocated as rewards for these pools.
+Las recompensas por los Syrup Pools "Stake CAKE, gana CAKE" provienen de las emisiones de CAKE. En cada bloque, un número de tokens CAKE se asignan como recompensas para estos Pools.
 
-The rewards for the "Stake CAKE, earn other tokens" type are provided by the project teams who sponsor a Syrup Pool.
+Las recompensas por el tipo "Stake CAKE, gana otros tokens" son proporcionadas por los equipos del proyecto que patrocinan un Syrup Pool.
 
-For the "Stake other tokens, earn CAKE" type, the PancakeSwap treasury buys back CAKE from the market to distribute as rewards. These pools are funded by PancakeSwap, not by the projects themselves.
+Para el tipo "Stake otros tokens, gana CAKE", el tesoro de PancakeSwap compra CAKE del mercado para distribuirlos como recompensas. Estos Pools son financiados por PancakeSwap, no por los proyectos en sí.
 
-### What’s SYRUP Token? <a id="whats-syrup-token"></a>
+### Qué es SYRUP Token? <a id="whats-syrup-token"></a>
 
-PancakeSwap’s SYRUP Token is deposited in your wallet when you interact with the **Manual** “Stake CAKE, Earn CAKE” Syrup Pool. It's not staked for
+El SYRUP token le es entregado cuando hace Stake dentro del CAKE Pool Manual.
 
-It’s basically an IOU that shows how much CAKE you’ve staked in the pool.
+Es básicamente un recibo que muestra cuánto CAKE has depositado en el Pool.
 
-It’ll be returned automatically when you unstake your CAKE from that pool.
+Se devolverá automáticamente cuando retires tu CAKE de ese Pool.
 
-Don’t sell your SYRUP tokens! You need to return your SYRUP to unstake your CAKE from the Manual CAKE pool. The amount of SYRUP you return must be the same as the amount of CAKE you unstake.[  
+No vendas tus SYRUP! Es necesario devolver su SYRUP para retirar tus CAKE del Pool Manual de CAKE. La cantidad de SYRUP que devuelvas debe ser la misma que la cantidad de CAKE que retires.[  
 ](https://docs.pancakeswap.finance/products/syrup-pool/auto-compounding)
 
