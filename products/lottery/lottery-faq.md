@@ -29,14 +29,14 @@ Overall this means more tickets can win a prize, but the largest prize jackpot w
 
 Each bracket's prize pool is a portion of the total CAKE in each Lottery round. 
 
-* | Bracket | Amount of total CAKE |
+* | Bracket \(numbers matched in order\) | CAKE Allocation |
   | :--- | :--- |
-  | 1 number | 1% |
-  | 2 numbers | 3% |
-  | 3 numbers | 6% |
-  | 4 numbers | 10% |
-  | 5 numbers | 20% |
-  | 6 numbers | 40% |
+  | First 1 number | 2% |
+  | First 2 numbers | 3% |
+  | First 3 numbers | 5% |
+  | First 4 numbers | 10% |
+  | First 5 numbers | 20% |
+  | First 6 numbers | 40% |
   | Burn | 20% |
 
 ## Can I swap my tickets back to CAKE?

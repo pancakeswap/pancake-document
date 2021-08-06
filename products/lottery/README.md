@@ -61,7 +61,5 @@ You will only share in prizes from the highest prize bracket you are eligible fo
 
 ‌If, however, you and three other people match three numbers in order, the 2000 CAKE would be split between the four winning tickets, meaning you would receive 500 CAKE.
 
-See the image below for a breakdown of prizes across each bracket.
-
-![](../../.gitbook/assets/image%20%28104%29.png)
+See the [Lottery FAQ for a breakdown of prizes](lottery-faq.md#how-are-prizes-broken-down-between-brackets) across each bracket.
 
