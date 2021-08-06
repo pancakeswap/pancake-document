@@ -1,44 +1,77 @@
-# Lottery FAQ
+# Lotería: FAQ
 
-## What if there are no winners?
+## Qué pasa si no hay ganadores?
 
-If no ticket is able to match all 4 numbers, 60% of the pot will be moved to the next lottery session.
+Si no hay premios ganados en una ronda no se tiran a la basura! Los premios pasan directamente a la siguiente ronda. 
 
-## Can I swap my tickets back to CAKE?
+## Mi Ticket coincide con varios números, pero no puedo reclamar ningún premio
 
-No, once purchased you will not be able to convert your ticket back to CAKE.
+Los boletos solo son elegibles para premios si coinciden los con números de izquierda a derecha. Consulte la documentación de Lotería v2 para obtener una explicación detallada.
 
-## How will I know if I have won?
+## En qué se diferencia la Lotería v2 de la Lotería v1?
 
-You can manually match your ticket numbers with the winning numbers for greater excitement. If you’re too lazy to do this, we’ve calculated your winnings automatically for you on the page!
+Lotería v2 distribuye más ampliamente los premios que Lotería v1. Le da a cada ticket una oportunidad de 1 en 10 de igualar el primer número, lo que significa que más tickets ganarán al menos un pequeño premio. También tiene 6 \(frente a 4\) números que deben coincidir secuencialmente para ganar el premio más grande.
 
-## If I win, do I need to manually claim the prize?
+En general, esto significa que más boletos pueden ganar un premio, pero el premio mayor se ganará con menos frecuencia, ¡lo que hace que haya grandes premios acumulados!
 
-Yes, you will need to click the “Claim Prizes” button on the lottery page.
+**La Lotería v2 introduce:**
 
-## How often is the lottery?
+* Tickets más baratos \(~$5 USD en CAKE por ticket\) que no oscilan con el precio de CAKE
+* Descuento por compras en cantidad
+* 6-tiered prize pool brackets with increasing prize pools as more numbers are matched Horquillas de premios acumulados de 6 niveles con un aumento de los premios acumulados a medida que se emparejan más números
+* Selección manual de números \(opcional\), así que los usuarios pueden utilizar sus números afortunados.
+* [Implementación de VRF por parte de Chainlink](https://docs.chain.link/docs/chainlink-vrf/) para una aleatoriedad verdadera y segura
+* Tarifas más bajas \(consulte más abajo en esta página para obtener más información\)
 
-Each full lottery session will run for 12 hours.
+Más información sobre las características, el modo de juego y los premios de Lottery v2
 
-## Where can I see the winning ticket numbers?
+## Cómo se dividen los premios entre categorías??
 
-The bunnies at the bottom of the page.
+El total de premios de cada categoría es una parte del CAKE total en cada ronda de la Lotería.
 
-![](../../.gitbook/assets/screenshot-2020-10-22-at-6.02.10-pm.png)
+* | Categoría | Cantidad Total de CAKE |
+  | :--- | :--- |
+  | 1 número | 1% |
+  | 2 números | 3% |
+  | 3 números | 6% |
+  | 4 números | 10% |
+  | 5 números | 20% |
+  | 6 números | 40% |
+  | Quema | 20% |
 
-## Are all ticket numbers unique?
+## Puedo cambiar mis boletos de vuelta a CAKE??
 
-There are a total of 38,416 different ticket combinations. This may be adjusted later based on the number of participants. 
+No, una vez comprado no podrás volver a convertir tu boleto a CAKE.
 
-Ticket numbers are given out randomly. As such, there is a small chance that a user receives the same 4 digits in two tickets held.
+## Si gano, ¿necesito reclamar manualmente el premio?
 
-## What if someone buys all of the number combinations?
+Sí, deberá hacer clic en el botón **Check Now** en "Are you a winner?" en la página de la Lotería.
 
-This is close to impossible as ticket numbers are given out randomly. One participant is able to acquire 2 tickets that have the same 4 digits, so they would have a very hard time acquiring all of the unique combinations. 
+![](../../.gitbook/assets/image%20%2886%29.png)
 
-## What transaction fee will I pay for buying a ticket?
+## Cada cuánto se juega la Lotería?
 
-Each ticket purchase will require a unique transaction. For example, buying 2 tickets will require participants to pay for 2 transactions. The same will apply when claiming rewards.
+Cada sesión completa de Lotería durará 12 horas.
+
+## Qué tarifa de transacción pagaré por comprar Tickets?
+
+Cada compra de tickets que realices será una transacción. Comprar un solo boleto en una compra de la Lotería costará la cantidad normal de tarifas para una transacción.
+
+Sin embargo, comprar más boletos en esa compra aumentará la tarifa. Comprar 100 boletos en lugar de 1 no multiplicará la tarifa por 100, pero puede aumentar el monto de la tarifa unas 5-6 veces \(aunque esto varía\).
+
+## Cómo funciona el descuento por comprar varios tickets?
+
+El descuento en cantidad recompensa la compra de mayores cantidades de boletos con un descuento de escala. Si solo compra 2 boletos, el descuento es insignificante, pero se sumará rápidamente a medida que aumente el número de tickets para comprar en una transacción.
+
+El descuento solo se aplica a cada transacción de hasta 100 boletos. El descuento no se traslada a la siguiente transacción o ronda siguiente.
+
+## Por qué solo puedo comprar 100 tickets?
+
+Usted puede comprar más de 100 tickets, pero sólo de a 100 en cada compra. No hay nada que le impida comprar más boletos después de sus primeros 100.
+
+## Si creo manualmente dos o más boletos con los mismos números y ganan, ¿soy elegible para premios por cada boleto?
+
+Sí, cada boleto se trata como una entrada distinta a la Lotería. Sin embargo, tenga en cuenta que los premios no serán de 1:1, ya que cada boleto ganador que tenga diluye cada parte de los premios totales del grupo.
 
 
 
