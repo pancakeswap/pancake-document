@@ -46,8 +46,8 @@
 ## Tokenomics
 
 * [CAKE](tokenomics/cake-updated-10-29-2020/README.md)
-  * [Controlling CAKE supply](tokenomics/cake-updated-10-29-2020/controlling-cake-supply/README.md)
-    * [SYRUP \(deprecated\)](tokenomics/cake-updated-10-29-2020/controlling-cake-supply/syrup.md)
+  * [CAKE Tokenomics](tokenomics/cake-updated-10-29-2020/cake-tokenomics.md)
+  * [Controlando el Circulante de CAKE](tokenomics/cake-updated-10-29-2020/controlling-cake-supply.md)
 
 ## Development Guide <a id="code"></a>
 
