@@ -42,8 +42,8 @@ Read the [Trust Wallet guide to connecting to PancakeSwap via WalletConnect](htt
 
 ## **Resources**
 
-\*\*\*\*[**Download Trust Wallet**](https://trustwallet.com/) **\*\*\(Automatically detects device\)\[**    
-Trust Wallet Setup Guide_\*\]\(_[https://www.binance.com/en/blog/421499824684901157/How-to-Set-Up-and-Use-Trust-Wallet-for-Binance-Smart-Chain\)\](https://www.binance.com/en/blog/421499824684901157/How-to-Set-Up-and-Use-Trust-Wallet-for-Binance-Smart-Chain%29\)\*\*\*
+[**Download Trust Wallet**](https://trustwallet.com/) \(Automatically detects device\)  
+[**Trust Wallet Setup Guide**](https://www.binance.com/en/blog/421499824684901157/How-to-Set-Up-and-Use-Trust-Wallet-for-Binance-Smart-Chain)
 {% endtab %}
 
 {% tab title="MetaMask" %}
@@ -88,8 +88,8 @@ To connect MetaMask to PancakeSwap follow the steps below.
 
 ## Resources
 
-\*\*\*\*[**Download MetaMask**](https://metamask.io/download.html) **\*\*\(Automatically detects device\)  
-\[**MetaMask Setup Guide_\*\]\(_[https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain\)\](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain%29\)\*\*\*
+[**Download MetaMask**](https://metamask.io/download.html) \(Automatically detects device\)  
+[**MetaMask Setup Guide**](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
 {% endtab %}
 
 {% tab title="Token Pocket" %}
