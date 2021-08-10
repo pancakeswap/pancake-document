@@ -26,8 +26,7 @@ Buying multiple Lottery tickets at once gives a bulk discount on your purchase. 
 Match numbers, **from the left side of your ticket**, to the winning numbers drawn at the end of a Lottery round.
 
 * Matching even just the first number will win you a small prize. 
-* Match more numbers and win a share of a larger prize pool. 
-* Matching the 6 numbers exactly and win a share of 40% of the total prizes raised!
+* Match more numbers to win a share of a larger prize pool.
 
 ## **‌**Prize eligibility
 

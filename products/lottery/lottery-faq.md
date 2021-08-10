@@ -73,5 +73,13 @@ You can only buy a maximum of 100 tickets in one purchase, but you can make mult
 
 Yes, each ticket is treated as a separate entry to the Lottery. Keep in mind that the prizes will not be 1:1 though, as each winning ticket you have dilutes each share of the bracket's total prizes.
 
+## Injection schedule: When is CAKE added to the lottery? 
 
+When people buy tickets, the CAKE they spend is added to the lottery pot. In addition, a total of 20,000 CAKE is also added \(injected\) to lottery pots on a regular schedule over the course of eight rounds \(four days\).
+
+This injection schedule started with round 76:
+
+![Lottery injection schedule](../../.gitbook/assets/injection-schedule.png)
+
+The cycle restarts with a new 20,000 CAKE as soon as it finishes.
 
