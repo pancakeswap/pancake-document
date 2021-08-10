@@ -10,7 +10,7 @@ Tickets are only eligible for prizes if matching numbers from left to right. See
 
 ## How is Lottery v2 different from Lottery v1?
 
-Lottery v2 more widely distributes prizes than Lottery v1. It gives each ticket a 1 in 10 chance to match the first number, which means more tickets will at least win a small prize. It also has 6 \(up from 4\) numbers that need to be matched sequentially to win the biggest prize.
+Lottery v2 distributes prizes more widely than Lottery v1. It gives each ticket a 1 in 10 chance to match the first number, which means more tickets will at least win a small prize. It also has 6 \(up from 4\) numbers that need to be matched sequentially to win the biggest prize.
 
 Overall this means more tickets can win a prize, but the largest prize jackpot will be won less frequently, making for huge top prize pools!
 
@@ -51,7 +51,7 @@ Yes, you will need to click the **Check Now** button under "Are you a winner?" o
 
 ## How often is the lottery?
 
-Each full Lottery session will run for 12 hours.
+A new Lottery round starts every 12 hours.
 
 ## What transaction fee will I pay for buying tickets?
 
@@ -61,13 +61,13 @@ However, buying more tickets in that purchase will increase the fee. Buying 100 
 
 ## How does the bulk discount work?
 
-The bulk discount rewards buying larger amounts of tickets with a scaling discount. If only buying 2 tickets, the discount is negligible, but will add up quickly as you increase the number of tickets to buy in the one transaction.
+The bulk discount rewards buying larger amounts of tickets with a scaling discount. If you're only buying 2 tickets, the discount is negligible, but will add up quickly as you increase the number of tickets to buy in the one transaction.
 
 The discount only applies to each transaction up to 100 tickets. The discount does not carry over to the next transaction or next round.
 
 ## Why can I only buy 100 tickets?
 
-You can buy more than 100 tickets, but you can only but up to 100 in each purchase. There nothing to stop you buying more tickets after your first 100.
+You can only buy a maximum of 100 tickets in one purchase, but you can make multiple purchases. There's nothing to stop you buying more tickets after your first 100.
 
 ## If I manually create two or more tickets with the same numbers and they win, am I eligible for prizes for each ticket?
 
