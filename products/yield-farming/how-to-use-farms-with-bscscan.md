@@ -16,7 +16,7 @@ To interact correctly with the farming smart contract, you’ll need the matchin
 
 2. **Control**/**command** + **F** and search for your pair by ticker \(not project name\). For example, 'CAKE-BUSD'.
 
-![](../../.gitbook/assets/image%20%2890%29.png)
+![](../../.gitbook/assets/image%20%2896%29.png)
 
 3. Write down or copy the PID number—in this case 389—somewhere you can access it easily. You'll need this later.
 
@@ -30,7 +30,7 @@ The address for the main staking contract is: **0x73feaa1eE314F8c655E354234017bE
 
 But assuming you'd like to confirm that, visit the [PancakeSwap: Main Staking Contract BscScan page](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#writeContract). You'll see the address in the top-left. Click the **pages icon** to copy this to clipboard. You'll need it soon.
 
-![](../../.gitbook/assets/image%20%28145%29.png)
+![](../../.gitbook/assets/image%20%28154%29.png)
 
 ### Open the contract for your LP Token
 
@@ -52,15 +52,15 @@ You'll need to approve the smart contract for the LP Token you wish to commit to
 
 1. First, visit the [PancakeSwap Farms page](https://pancakeswap.finance/farms) and search for your chosen pair using the "SEARCH" field in the top right. We're using CAKE-BUSD for this example.
 
-![](../../.gitbook/assets/image%20%2897%29.png)
+![](../../.gitbook/assets/image%20%28106%29.png)
 
 2. Click **Details** to expand the row to show more information.
 
-![](../../.gitbook/assets/image%20%2830%29.png)
+![](../../.gitbook/assets/image%20%2834%29.png)
 
 3. Click **View Contract** to open the smart contract on BscScan.
 
-![](../../.gitbook/assets/image%20%28149%29.png)
+![](../../.gitbook/assets/image%20%28163%29.png)
 
 ### Giving permission to the LP Token contract
 
@@ -68,7 +68,7 @@ Now that you have your LP Token's contract open on BscScan, you're going to appr
 
 1. On the LP Token's contract page, go to **Contract**, and then **Write Contract**.
 
-![](../../.gitbook/assets/image%20%28138%29.png)
+![](../../.gitbook/assets/image%20%28149%29.png)
 
 2. Click **Connect to Web3** to connect MetaMask.
 
@@ -96,27 +96,27 @@ With the Main Staking Contract now approved to spend your LP Tokens, it's time t
 
 1. Back on the [PancakeSwap: Main Staking Contract BscScan page](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#writeContract), go to **Contract**, and then **Write Contract**.
 
-![](../../.gitbook/assets/image%20%28138%29.png)
+![](../../.gitbook/assets/image%20%28149%29.png)
 
 2. Click **Connect to Web3** to connect MetaMask.
 
 3. Scroll to function 2, "deposit", and type your PID into the "\_pid" field.
 
-![](../../.gitbook/assets/image%20%2827%29.png)
+![](../../.gitbook/assets/image%20%2829%29.png)
 
 If you didn't copy down your PID earlier, you can learn how to get it in the **Finding Farm process identifier** section higher up this page.
 
 4. Underneath \_pid you'll see "\_amount". Enter the amount for the LP contract to spend that you approved earlier.
 
-![](../../.gitbook/assets/image%20%2825%29.png)
+![](../../.gitbook/assets/image%20%2827%29.png)
 
 5. Check the information and click **Write**. Confirm your action in MetaMask.
 
-![](../../.gitbook/assets/image%20%2838%29.png)
+![](../../.gitbook/assets/image%20%2841%29.png)
 
 6. You can confirm your deposit worked by clicking **View your transaction**.
 
-![](../../.gitbook/assets/image%20%28135%29.png)
+![](../../.gitbook/assets/image%20%28145%29.png)
 
 ## Withdrawing from a Pool
 
@@ -124,27 +124,27 @@ Withdrawing your LP Tokens from a Pool is very similar to making a deposit. The 
 
 1. Back on the [PancakeSwap: Main Staking Contract BscScan page](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#writeContract), go to **Contract**, and then **Write Contract**.
 
-![](../../.gitbook/assets/image%20%28138%29.png)
+![](../../.gitbook/assets/image%20%28149%29.png)
 
 2. Click **Connect to Web3** to connect MetaMask.
 
 3. Scroll all the way down to function 15, "withdraw", and type your PID into the "\_pid" field.
 
-![](../../.gitbook/assets/image%20%28136%29.png)
+![](../../.gitbook/assets/image%20%28146%29.png)
 
 If you didn't copy down your PID earlier, you can learn how to get it in the **Finding Farm process identifier** section higher up this page.
 
 4. Underneath \_pid you'll see "\_amount". Enter the amount of LP you'd like to withdraw from the Pool.
 
-![](../../.gitbook/assets/image%20%2878%29.png)
+![](../../.gitbook/assets/image%20%2883%29.png)
 
 5. Check the information and click **Write**. Confirm your action in MetaMask.
 
-![](../../.gitbook/assets/image%20%2838%29.png)
+![](../../.gitbook/assets/image%20%2841%29.png)
 
 6. You can confirm your withdrawal worked by clicking **View your transaction**.
 
-![](../../.gitbook/assets/image%20%28135%29.png)
+![](../../.gitbook/assets/image%20%28145%29.png)
 
 
 
@@ -160,7 +160,7 @@ The PancakeSwap team strongly suggests avoiding this function unless advised to 
 
 ‌1. On the [PancakeSwap: Main Staking Contract BscScan page](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#writeContract), go to **Contract**, and then **Write Contract**.
 
-![](../../.gitbook/assets/image%20%28138%29.png)
+![](../../.gitbook/assets/image%20%28149%29.png)
 
 2. Click **Connect to Web3** to connect MetaMask.
 
@@ -168,15 +168,15 @@ The PancakeSwap team strongly suggests avoiding this function unless advised to 
 
 ‌3. Scroll down to function 4, "emergencyWithdraw", and type your PID into the "\_pid" field.
 
-![](../../.gitbook/assets/image%20%2893%29.png)
+![](../../.gitbook/assets/image%20%2899%29.png)
 
 If you didn't copy down your PID earlier, you can learn how to get it in the **Finding Farm process identifier** section higher up this page.
 
 5. Check the information and click **Write**. Confirm your action in MetaMask.
 
-![](../../.gitbook/assets/image%20%2838%29.png)
+![](../../.gitbook/assets/image%20%2841%29.png)
 
 6. You can confirm your withdrawal worked by clicking **View your transaction**.
 
-![](../../.gitbook/assets/image%20%28135%29.png)
+![](../../.gitbook/assets/image%20%28145%29.png)
 
