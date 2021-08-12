@@ -17,7 +17,7 @@ These two products go hand-in-paw on PancakeSwap: when a project provides their 
 
 ### How long will it take to get a response?
 
-We aim to respond to applications within a week, but due to the large number of requests, we’re unable to respond to every single applicant. If you don’t hear back from us within two weeks of applying, try reaching out to t.me/chef\_roo on Telegram, with **the name of your project, your token ticker, and the date you applied**.
+We aim to respond to applications within a week, but due to the large number of requests, we’re unable to respond to every single applicant. If you don’t hear back from us within two weeks of applying, try reaching out to t.me/chefbugs on Telegram, with **the name of your project, your token ticker, and the date you applied**.
 
 ### What are the qualifying criteria for Community VS Core?
 
@@ -67,7 +67,7 @@ Check our [Troubleshooting page](../help/troubleshooting.md) for a list of commo
 
 ## Something else
 
-You can shoot us an email at pancakeswap@gmail.com if the above parts don't cover your questions really don't help you.
+You can shoot us an email at pancakeswap@gmail.com if the above parts don't cover your questions.
 
 Please don't try to contact us via this email for [customer support](customer-support.md), that's not what it's for and we won't respond: your best option for getting help with the product is via the [Telegram or Reddit community](telegram.md).
 
