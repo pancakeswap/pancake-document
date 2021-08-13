@@ -77,7 +77,7 @@ Yes, each ticket is treated as a separate entry to the Lottery. Keep in mind tha
 
 When people buy tickets, the CAKE they spend is added to the lottery pot. In addition, a total of 20,000 CAKE is also added \(injected\) to lottery pots on a regular schedule over the course of eight rounds \(four days\).
 
-This injection schedule started with round 76:
+This injection schedule started with round 84:
 
 ![Lottery injection schedule](../../.gitbook/assets/injection-schedule.png)
 
