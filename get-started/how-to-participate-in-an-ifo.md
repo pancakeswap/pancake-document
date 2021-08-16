@@ -39,7 +39,7 @@ IFOは時間制限付きのイベントで、1時間だけ開催されます。
 
 [IFOページ](https://pancakeswap.finance/ifo)情報にカウントダウンがあり、末尾の**\(blocks\)**のリンクをクリックすると新しいウィンドウでBSCScanエクスプローラーが表示されます。
 
-![](../.gitbook/assets/image%20%2894%29.png)
+![](../.gitbook/assets/image%20%28103%29.png)
 
 IFOの開始時刻およびカウントダウン開始タイミングは毎回異なります。PancakeSwapの[公式ソーシャルメディアアカウント](https://docs.pancakeswap.finance/v/japanese/contact-us/telegram)をフォローして、IFOに関するニュースを逃さないようにしてくださいね！
 
