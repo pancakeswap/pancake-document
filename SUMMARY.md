@@ -1,7 +1,8 @@
 # Table of contents
 
 * [PancakeSwap 介绍](README.md)
-* [入门指南](get-started.md)
+* [入门指南](get-started/README.md)
+  * [创建钱包](get-started/wallet-guide.md)
 * [需要帮助？点我](click-here-for-help/README.md)
   * [故障排除指南](click-here-for-help/troubleshooting-errors.md)
   * [General FAQ](click-here-for-help/faq.md)
