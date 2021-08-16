@@ -1,6 +1,6 @@
 # Cómo Conectarse a PancakeSwap
 
-![](../.gitbook/assets/image%20%2840%29.png)
+![](../.gitbook/assets/image%20%2840%29%20%281%29.png)
 
 ¡Tenemos una billetera y los tokens BEP20, ahora solo falta conectar la billetera con PancakeSwap y listo!   
 
@@ -12,7 +12,7 @@ Consulte los pasos a continuación para saber cómo conectar cada una de nuestra
 
 {% tabs %}
 {% tab title="Trust Wallet" %}
-![](../.gitbook/assets/image%20%2867%29.png)
+![](../.gitbook/assets/image%20%2870%29.png)
 
 Para conectar Trust Wallet, siga los pasos a continuación. Tenga en cuenta que los dispositivos Android e iOS no siguen los mismos pasos.
 
@@ -20,15 +20,15 @@ Para conectar Trust Wallet, siga los pasos a continuación. Tenga en cuenta que 
 
 1. Abra Trust Wallet y toque el botón DApps en la parte inferior de la pantalla.
 
-![](../.gitbook/assets/image%20%2892%29.png)
+![](../.gitbook/assets/image%20%2898%29.png)
 
 2. Desplácese hacia abajo hasta "Popular" y toque "PancakeSwap". También puede encontrarlo en "Exchanges".
 
-![](../.gitbook/assets/image%20%28130%29.png)
+![](../.gitbook/assets/image%20%28138%29.png)
 
 3.Se abrirá una nueva página con algo de información y el logo de PancakeSwap. Toque el botón **CONECTAR**.
 
-![](../.gitbook/assets/image%20%28110%29.png)
+![](../.gitbook/assets/image%20%28114%29.png)
 
 4. PancakeSwap se abrirá. Si ve un botón que diga **Connect** en la parte superior derecha, tócalo y luego toque **Trust Wallet** en la lista
 
@@ -60,19 +60,19 @@ To connect MetaMask to PancakeSwap follow the steps below.
 
 1. Open MetaMask and tap on the **burger icon** in the top-left.
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![](../.gitbook/assets/image%20%2824%29.png)
 
 2. Tap **Settings** in the menu.
 
-![](../.gitbook/assets/image%20%2880%29.png)
+![](../.gitbook/assets/image%20%2885%29.png)
 
 3. In the Settings menu, tap on **Network**.
 
-![](../.gitbook/assets/image%20%2841%29.png)
+![](../.gitbook/assets/image%20%2843%29.png)
 
 4. Tap on the **Add Network** button at the bottom.
 
-![](../.gitbook/assets/image%20%2877%29.png)
+![](../.gitbook/assets/image%20%2882%29.png)
 
 5. On the page that opens, type in the following details:
 
@@ -84,13 +84,13 @@ To connect MetaMask to PancakeSwap follow the steps below.
 
 6. Once you've confirmed entry of the new network, go back to the burger menu and tap **Browser**.
 
-![](../.gitbook/assets/image%20%2866%29.png)
+![](../.gitbook/assets/image%20%2869%29.png)
 
 7. Type "PancakeSwap" into the search field and start the search. The top result will be the PancakeSwap exchange. Tap to enter it.
 
 8. You wallet will ask you to connect. Tap **Connect** to connect to PancakeSwap.
 
-![](../.gitbook/assets/image%20%2863%29.png)
+![](../.gitbook/assets/image%20%2866%29.png)
 
 
 

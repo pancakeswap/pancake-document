@@ -1,6 +1,6 @@
 # Soporte
 
-![Bueno, la cosa es que...](../.gitbook/assets/image%20%2898%29.png)
+![Bueno, la cosa es que...](../.gitbook/assets/image%20%2898%29%20%281%29.png)
 
 ## No existe soporte/atención al usuario en PancakeSwap.
 

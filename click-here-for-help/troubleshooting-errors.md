@@ -91,7 +91,7 @@ Dirígete al contrato del token LP que estás intentando aprobar. Por ejemplo, d
 2. En la sección **5. balanceOf**, ingresa tu dirección de la wallet y presiona **Query**.
 3. Anota el número que se exporta. Este muestra tu saldo dentro del LP en formato uint256, que necesitarás en el siguiente paso. 
 
-![](../.gitbook/assets/image%20%2829%29.png)
+![](../.gitbook/assets/image%20%2832%29.png)
 
 ### Agregar o Remover Liquidez
 
@@ -105,7 +105,7 @@ Dirígete al contrato del Router: [https://bscscan.com/address/0x05ff2b0db69458a
 6. Agrega la dirección de tu billetera en **to \(address\)**.
 7. Deadline debe ser un tiempo de epoch mayor que el tiempo en que se ejecuta el transacción. 
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 
 {% hint style="warning" %}
 Esto puede causar un muy alto deslizamiento \(Slippage\), y causar que el usuario pierda algunos fondos si realiza Frontrun. 
@@ -190,7 +190,7 @@ Intenta aumentar manualmente el **gas limit** \(no el gas price!\) en tu wallet,
 
 Un límite de gas \(Gas Limit\) en 200000 usualmente es suficiente
 
-![](../.gitbook/assets/image%20%28152%29.png)
+![](../.gitbook/assets/image%20%28169%29.png)
 
 El ejemplo de arriba es en Metamask; echa un vistazo a los docs de tu wallet si no estás seguro cómo ajustar el gas limit.
 {% endtab %}

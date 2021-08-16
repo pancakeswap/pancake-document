@@ -101,7 +101,7 @@ A continuación, podes encontrar información mas detallada de cada billetera, a
 
 {% tabs %}
 {% tab title="Trust Wallet" %}
-![](../.gitbook/assets/image%20%2867%29.png)
+![](../.gitbook/assets/image%20%2870%29.png)
 
 **Trustwallet** es una wallet popular para los smartphones. Tiene soporte para DApps, NTFs coleccionables \(con soporte de opensea.io\) y stacking, todo en la misma billetera. 
 
@@ -221,7 +221,7 @@ Ahora tiene su clave privada lista para importar su billetera a la versión de e
 {% endtab %}
 
 {% tab title="SafePal" %}
-![](../.gitbook/assets/image%20%2824%29.png)
+![](../.gitbook/assets/image%20%2826%29.png)
 
 SafePal está disponible como billetera de software y hardware. La billetera es fácil de instalar y crear, y viene lista para admitir BEP2 \(Binance Chain\) y BEP20 \(Binance Smart Chain\) de inmediato.
 
@@ -291,7 +291,7 @@ Metamask es un complemento de navegador muy popular que admite ERC20\(Red Ethere
 {% endtab %}
 
 {% tab title="Binance Wallet" %}
-![](../.gitbook/assets/image%20%28119%29.png)
+![](../.gitbook/assets/image%20%28126%29.png)
 
 Binance Wallet es una billetera de complemento de navegador que admite de forma nativa las redes Binance Chain \(BEP2\) Binance Smart Chain \(BEP20\). Binance Wallet fue desarrollado por el exchange de criptomonedas Binance.
 
@@ -314,7 +314,7 @@ Binance Wallet es una billetera de complemento de navegador que admite de forma 
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](../.gitbook/assets/image%20%28143%29.png)
+![](../.gitbook/assets/image%20%28143%29%20%281%29.png)
 
 Token Pocket es una aplicación de gestión de criptomonedas que admite de forma nativa muchas redes de criptomonedas. También posee una aplicación de escritorio.
 
