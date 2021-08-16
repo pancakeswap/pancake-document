@@ -253,7 +253,8 @@ SafePal 有软件和硬件钱包两种形式。该钱包 App 安装便捷，设�
 * 与其他更成熟的钱包相比，在线资源较少
 
 ​[**下载 SafePal**](https://safepal.io/download) **（自动检测您的设备）**  
-[**SafePal 设置教程（英文）**](https://blog.safepal.io/binance-smart-chain-x-safepal/)
+[**SafePal 设置教程（英文）**](https://blog.safepal.io/binance-smart-chain-x-safepal/)  
+****[**SafePal 设置教程（中文）**](https://docs.safepal.io/safepal-app/how-to-create-a-safepal-software-wallet/ru-he-chuang-jian-safepal-ruan-jian-qian-bao)\*\*\*\*
 {% endtab %}
 {% endtabs %}
 
