@@ -62,7 +62,7 @@ On the IFO page, look where the event start countdown was. You will now see a co
 
 There are two sales available: Basic Sale and Unlimited Sale. It's possible to participate in both sales if you want to, but each has conditions. You will need to choose which sale you would like to participate in.
 
-![](../../.gitbook/assets/image%20%28118%29.png)
+![](../../.gitbook/assets/image%20%28124%29.png)
 
 #### **Basic Sale**
 
