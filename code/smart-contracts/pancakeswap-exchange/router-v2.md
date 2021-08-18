@@ -46,7 +46,7 @@ For explanations of the following, view the [Uniswap v2 Internal Functions docum
 
 ### getAmountsIn
 
-`function getAmountsOut(uint amountIn, address[] memory path) internal view returns (uint[] memory amounts);`
+`function getAmountsIn(uint amountOut, address[] memory path) internal view returns (uint[] memory amounts);`
 
 ### quote
 
