@@ -87,7 +87,7 @@ You should now only see the pairs you have LP Tokens in on the list, making it e
 
 1. Find the Farm you have LP Tokens in, and click the row to view details. You will see a **-** and **+** button on the right-hand side. Click **-** to remove LP Tokens, or **+** to add more LP Tokens.
 
-![](../../.gitbook/assets/image%20%28102%29%20%281%29.png)
+![](../../.gitbook/assets/image%20%28102%29%20%282%29.png)
 
 1. A window will open that looks like the one you used earlier to first stake your LP Tokens. Like last time, type the amount you would like to unstake/stake, or click **Max** to remove/add all available LP Tokens.
 

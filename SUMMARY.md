@@ -77,13 +77,11 @@
 
 ## Contract Governance <a id="governance"></a>
 
----
-
-* [Lottery](lottery/README.md)
-  * [Lottery Contract](lottery/lottery-contract.md)
-* [Prediction](prediction.md)
-* [Farms](farms.md)
-* [Syrup Pools](syrup-pools/README.md)
-  * [SmartChefInitializable](syrup-pools/smartchefinitializable.md)
-  * [PoolDeployer](syrup-pools/pooldeployer.md)
+* [Lottery](governance/lottery/README.md)
+  * [Lottery Contract](governance/lottery/lottery-contract.md)
+* [Prediction](governance/prediction.md)
+* [Farms](governance/farms.md)
+* [Syrup Pools](governance/syrup-pools/README.md)
+  * [SmartChefInitializable](governance/syrup-pools/smartchefinitializable.md)
+  * [PoolDeployer](governance/syrup-pools/pooldeployer.md)
 

@@ -47,7 +47,7 @@ Read the [Trust Wallet guide to connecting to PancakeSwap via WalletConnect](htt
 {% endtab %}
 
 {% tab title="MetaMask" %}
-![](../.gitbook/assets/image%20%2833%29%20%283%29.png)
+![](../.gitbook/assets/image%20%2833%29%20%283%29%20%284%29%20%281%29.png)
 
 To connect MetaMask to PancakeSwap follow the steps below.
 
@@ -93,7 +93,7 @@ To connect MetaMask to PancakeSwap follow the steps below.
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](../.gitbook/assets/image%20%28125%29%20%281%29.png)
+![](../.gitbook/assets/image%20%28125%29%20%283%29%20%282%29.png)
 
 Token Pocket is a cryptocurrency management app that natively supports many cryptocurrency networks. It also has a desktop application available.
 
@@ -145,7 +145,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 {% tabs %}
 {% tab title="MetaMask" %}
-![](../.gitbook/assets/image%20%2833%29%20%281%29.png)
+![](../.gitbook/assets/image%20%2833%29%20%283%29%20%284%29.png)
 
 ## Chrome and Firefox
 
@@ -169,7 +169,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 1. Visit the [PancakeSwap website](https://pancakeswap.finance/). In the top right corner you'll see the **Connect** button. Click it.
 
-![](../.gitbook/assets/image%20%28164%29%20%281%29.png)
+![](../.gitbook/assets/image%20%28164%29%20%283%29.png)
 
 1. A window will appear asking you to choose a wallet to connect to. Click **MetaMask** \(it's the top option on the list\).
 
@@ -192,7 +192,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 1. Visit the PancakeSwap website. In the top-right, click **Connect**.
 
-![](../.gitbook/assets/image%20%28164%29.png)
+![](../.gitbook/assets/image%20%28164%29%20%283%29%20%281%29.png)
 
 1. A window will appear asking you to choose a wallet to connect to. Click **Binance Chain Wallet** \(it's farther down the list\).
 
@@ -205,7 +205,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](../.gitbook/assets/image%20%28125%29.png)
+![](../.gitbook/assets/image%20%28125%29%20%283%29.png)
 
 ## Desktop Application
 
