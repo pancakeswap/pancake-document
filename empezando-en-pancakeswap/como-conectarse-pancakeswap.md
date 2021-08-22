@@ -52,7 +52,7 @@ Lea la [guía para conectarse con Trust Wallet a PancakeSwap a través de Wallet
 {% endtab %}
 
 {% tab title="MetaMask" %}
-![](../.gitbook/assets/image%20%2833%29%20%283%29%20%284%29.png)
+![](../.gitbook/assets/image%20%2833%29%20%283%29%20%284%29%20%285%29.png)
 
 To connect MetaMask to PancakeSwap follow the steps below.
 

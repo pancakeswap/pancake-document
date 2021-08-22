@@ -2,7 +2,7 @@
 
 
 
-![](.gitbook/assets/masthead-twitter-3-.png)
+![](.gitbook/assets/masthead-twitter-3-%20%281%29.png)
 
 {% hint style="success" %}
 **PancakeSwap te ayuda a sacar el máximo partido de tus criptomonedas de tres maneras:**
