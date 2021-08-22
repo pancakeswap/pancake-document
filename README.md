@@ -1,6 +1,6 @@
 # PancakeSwap 介绍
 
-![](.gitbook/assets/masthead-twitter-3-%20%281%29.png)
+![](.gitbook/assets/masthead-twitter-3-%20%281%29%20%281%29.png)
 
 {% hint style="success" %}
 #### PancakeSwap 致力为您最大化利用虚拟货币资产！

@@ -127,7 +127,7 @@ Trust Wallet 在移动设备上颇受欢迎的钱包应用。它支持 DApps，N
 {% endtab %}
 
 {% tab title="MetaMask" %}
-![](../.gitbook/assets/image%20%2833%29%20%283%29.png)
+![](../.gitbook/assets/image%20%2833%29%20%283%29%20%284%29%20%281%29.png)
 
 MetaMask 是一个基于浏览器的热门钱包插件，支持 ERC20（以太坊网络）、BEP2 和 BEP20（币安链与币安智能链）。
 
@@ -157,7 +157,7 @@ MetaMask 是一个基于浏览器的热门钱包插件，支持 ERC20（以太�
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](../.gitbook/assets/image%20%28125%29%20%281%29.png)
+![](../.gitbook/assets/image%20%28125%29%20%283%29%20%282%29.png)
 
 Token Pocket 是一个原生支持多个网络（加密货币链）的虚拟货币钱包。它同时也提供电脑端程序。
 
@@ -186,7 +186,7 @@ Token Pocket 是一个原生支持多个网络（加密货币链）的虚拟货�
 2. 页面将自动检测您的设备，点击 **Google Play** 或 **App Store** 前往相应的商店下载。苹果用户建议使用 TestFlight 下载 TokenPocket Pro ，请遵循页面指示。
 3. 安装 Token Pocket 后打开，您将会看到一个询问您是否已有钱包的选项。若您想导入现有的钱包，请选择「我有钱包」。点击「我没有钱包」创建一个新的钱包：
 
-   ![](../.gitbook/assets/mbp3-2021.08.16-103912am-cleanshot_cleanshot.png)
+   ![](../.gitbook/assets/mbp3-2021.08.16-103912am-cleanshot_cleanshot%20%281%29.png)
 
 4. 在下一个页面，在列表内选择「**币安智能链**」。
 
