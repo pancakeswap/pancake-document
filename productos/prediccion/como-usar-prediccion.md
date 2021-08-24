@@ -32,121 +32,121 @@ Si el temporizador es demasiado bajo, es posible que su predicción no se confir
 
 Cuando esté seguro de que tiene suficiente tiempo, puede colocar su predicción para la siguiente ronda.
 
-1. In the "Next" section you'll see a green **Enter UP** button and a red **Enter DOWN** button. Click **Enter UP** if you want to predict a rise in price, and click **Enter DOWN** if you want to predict a drop in price.
+1. En la sección "Next" verás un botón verde **Enter UP** y un botón rojo **Enter DOWN**. Haga clic en **Enter UP** si desea predecir un aumento en el precio y haga clic en **Enter DOWN** si desea predecir una caída en el precio.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MazU3f7baGsVWuAZcKf%2F-Mb01LvMG62NKnJs7djD%2Fimage.png?alt=media&token=9c6542a8-66d2-40db-8f30-a8867ef753e9)
 
-Each will have a different reward multiplier. The multiplier will change over time as the "Prize Pool" increases depending on people's predictions. The Prize Pool is shown just above the buttons.
+Cada uno tendrá un multiplicador de recompensa diferente. El multiplicador cambiará con el tiempo a medida que el "Prize Pool" aumente dependiendo de las predicciones de las personas. El prize pool se muestra justo encima de los botones.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MazU3f7baGsVWuAZcKf%2F-Mb05EkUoxFRW-Mditbl%2Fimage.png?alt=media&token=4cf7cbcd-a9ba-49c1-a338-6ba9a83e4e3c)
 
-We'll choose **Enter UP** for this example.
+Elegiremos **Enter UP** en este ejemplo.
 
-2. A new window will open. In the window, you'll see "Commit" to commit BNB for your prediction. Type the amount of BNB you would like to commit to your prediction for this round in the field. You can also use the bunny slider or click the percent buttons if you prefer.
+2. Se abrirá una nueva ventana. En la ventana, verá "Confirmar" para confirmar BNB para su predicción. Escriba la cantidad de BNB que desea confirmar con su predicción para esta ronda en el campo. También puede usar el control deslizante del conejito o hacer clic en los botones de porcentaje si lo prefiere.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MazU3f7baGsVWuAZcKf%2F-Mb03hWtNgoDJwKx-rG3%2Fimage.png?alt=media&token=e930ad65-d135-419b-b0fa-d271632fdd89)
 
-3. Once you've decided the amount to commit, click **Confirm** and confirm your action in your wallet.
+3. Una vez que hayas decidido la cantidad a confirmar, haz clic en Confirmar y confirma tu acción en tu billetera.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MazU3f7baGsVWuAZcKf%2F-Mb07CrGEdbDFjvJzYuS%2Fimage.png?alt=media&token=b7ac861f-89b5-45b2-8a0c-0f712245ab6d)
 
-The confirm button will fade out as your transaction confirms. This short wait is why we checked the round timer earlier to make sure we would have time to make our prediction.
+El botón de confirmación se desvanecerá a medida que se confirme la transacción. Esta corta espera es la razón por la que comprobamos el temporizador redondo antes para asegurarnos de que tendríamos tiempo para hacer nuestra predicción.
 
-4. After your transaction confirms, an "ENTERED" message will appear.
+4. Después de que su transacción se confirme, aparecerá un mensaje "ENTERED".
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MazU3f7baGsVWuAZcKf%2F-Mb082XzfxPiH_i_p5Qv%2Fimage.png?alt=media&token=fb5751fc-e30b-4f19-83f2-6aa1fd7bf3eb)
 
-There's nothing left to do now but wait for your Prediction round to go live.
+No hay nada que hacer ahora, solo esperar a que su ronda de predicción inicie para ponerse en marcha.
 
-## While your entered round is live <a id="while-your-entered-round-is-live"></a>
+## Mientras que su ronda ingresada está en vivo: <a id="while-your-entered-round-is-live"></a>
 
-A live round will last for 5 minutes. You can watch the price update during the 5 minutes if you'd like.
+ Una ronda en vivo durará 5 minutos. Puede ver la actualización de precios durante los 5 minutos si lo desea.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MazU3f7baGsVWuAZcKf%2F-Mb0AKsDaaKpkPdPRL06%2Fimage.png?alt=media&token=6a5fda83-e3b7-4f3c-991c-5679025e6d6d)
 
-You cannot change your prediction during a live round, however. You are locked into your prediction from earlier.
+Sin embargo, no puede cambiar su predicción durante una ronda en vivo. Está bloqueado en su predicción de antes.
 
-## Once your entered round finishes <a id="once-your-entered-round-finishes"></a>
+## Una vez que su ronda termine <a id="once-your-entered-round-finishes"></a>
 
-After 5 minutes as the live round, your entered round will finish. Everything is automatic, so there's nothing you need to do to end the round.
+Después de 5 minutos como la ronda en vivo, su ronda ingresada terminará. Todo es automático, por lo que no hay nada que debas hacer para terminar la ronda.
 
-### Seeing the results <a id="seeing-the-results"></a>
+### Viendo los Resultados <a id="seeing-the-results"></a>
 
-1. As the 5 minutes finish, the "LIVE" section will change to "Calculating". Calculating the results only takes a moment.
+1. A medida que finalicen los 5 minutos, la sección "LIVE" cambiará a "Calculating". El cálculo de los resultados solo toma un momento.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MazU3f7baGsVWuAZcKf%2F-Mb0AxggN8jreJQeU67L%2Fimage.png?alt=media&token=6122fc84-4e74-4538-8d82-e5323ca78aaf)
 
-2. After a short wait, the finished round will move left and say "Expired". The result of the round will display with either UP colored in green, or DOWN colored in red.
+2. Después de una breve espera, la ronda terminada se moverá a la izquierda y dirá "Caducado". El resultado de la ronda se mostrará con UP coloreado en verde o DOWN coloreado en rojo.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MazU3f7baGsVWuAZcKf%2F-Mb0C_pQ3kjjE-qs73GR%2Fimage.png?alt=media&token=f80f72b9-927c-4e3a-b83e-2257e1d531f7)
 
-3. If you've been busy and missed the results, you can scroll back a few rounds by clicking the **left arrow** on the purple bunny cards.
+3. Si ha estado ocupado y se perdió los resultados, puede desplazarse hacia atrás unas cuantas rondas haciendo clic en la **flecha izquierda** en las tarjetas de conejito púrpura.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MazU3f7baGsVWuAZcKf%2F-Mb0FlZSuDmnImZpn_zM%2Fimage.png?alt=media&token=50b1f358-660a-4243-93fc-dd5d1e450e18)
 
-### Seeing results for older rounds <a id="seeing-results-for-older-rounds"></a>
+### Ver los resultados de las rondas antiguas <a id="seeing-results-for-older-rounds"></a>
 
-If you want to see the results for rounds you've entered that are older than a few rounds, you'll need to follow the steps below to find the results.
+Si desea ver los resultados de las rondas que ha introducido que son anteriores a unas pocas rondas, deberá seguir los pasos que se indican a continuación para encontrar los resultados.
 
-1. Click on the **reversing clock icon** next to the round timer.
+1.Haga clic en el icono del reloj de marcha atrás junto al temporizador redondo.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MazU3f7baGsVWuAZcKf%2F-Mb0H7H5rWAS0jGn6qZC%2Fimage.png?alt=media&token=84b40b86-e639-4744-a307-d8fb5effd63e)
 
-2. A "History" panel will open. By default, you should see your most recent round at the top of the list. Click anywhere on the round to see more information.
+2. Se abrirá un panel de "Historial". De forma predeterminada, debería ver la ronda más reciente en la parte superior de la lista. Haga clic en cualquier lugar de la ronda para ver más información.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MazU3f7baGsVWuAZcKf%2F-Mb0KCbzbd-F76HYPktu%2Fimage.png?alt=media&token=e774b287-f441-48ef-801d-518b9e57f87d)
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MazU3f7baGsVWuAZcKf%2F-Mb0J72WWPDRWvIZsMOU%2Fimage.png?alt=media&token=6cf19f75-165b-4fc3-953c-bdf27aed86cb)
 
-### Collecting any winnings <a id="collecting-any-winnings"></a>
+### Recolectando ganancias <a id="collecting-any-winnings"></a>
 
-1. If you won your entered round, a **Collect Winnings** button will appear next to a gold trophy. Click the button.
+1. Si ganaste la ronda de entrada, aparecerá un botón **Collect Winnings** junto a un trofeo de oro. Haga clic en el botón.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MazU3f7baGsVWuAZcKf%2F-Mb0CKs3SIwawkZxRkR4%2Fimage.png?alt=media&token=7b5f2630-4769-4dbc-bae1-0ffec8804431)
 
-2. A new window will appear showing the amount of BNB you can collect with a **Confirm** button. Click the button and confirm the action in your wallet.
+2.Aparecerá una nueva ventana que muestra la cantidad de BNB que puede recopilar con un botón **Confirmar**. Haga clic en el botón y confirme la acción en su billetera.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MazU3f7baGsVWuAZcKf%2F-Mb0DHhDUjiz7Vv46sr9%2Fimage.png?alt=media&token=cf24f698-04a2-4599-9516-afc719663a29)
 
-Your BNB winnings will now be in your wallet.
+ Sus ganancias de BNB ahora estarán en su billetera.
 
-### Collecting winnings from older rounds <a id="collecting-winnings-from-older-rounds"></a>
+### Recogiendo ganancias de rondas antiguas <a id="collecting-winnings-from-older-rounds"></a>
 
-Sometimes you may be away from PancakeSwap's Prediction page for a while, or may have forgotten to collect winnings from older rounds. You can still collect winnings owed to you from older rounds at any time.
+A veces puede estar lejos de la página de predicción de PancakeSwap por un tiempo, o puede haber olvidado recoger las ganancias de las rondas más antiguas. Usted todavía puede recoger las ganancias que se le deben de rondas más antiguas en cualquier momento.
 
-1. Find more information on past rounds you've entered by clicking on the **reversing clock icon** next to the round timer.
+1. Encuentre más información sobre las rondas pasadas que ha introducido haciendo clic en el **icono del reloj de marcha** atrás junto al temporizador redondo.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MazU3f7baGsVWuAZcKf%2F-Mb0H7H5rWAS0jGn6qZC%2Fimage.png?alt=media&token=84b40b86-e639-4744-a307-d8fb5effd63e)
 
-2. A "History" panel will open. You can click "Uncollected" to view all rounds you've not collected the winnings for yet \(click a the transaction if you want to see more details\). Click the **Collect** button.
+2. Se abrirá un panel de "Historial". Puede hacer clic en "Uncollected" para ver todas las rondas para las que aún no ha recopilado las ganancias \(haga clic en la transacción si desea ver más detalles\). Haga clic en el botón Recopilar.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MazU3f7baGsVWuAZcKf%2F-Mb0OTHrQD1RJdlXalxW%2Fimage.png?alt=media&token=64eecfaf-7c3a-4482-9597-29f5785e8c12)
 
-3. A new window will appear showing the amount of BNB you can collect with a **Confirm** button. Click the button and confirm the action in your wallet.
+3. Aparecerá una nueva ventana que muestra la cantidad de BNB que puede recopilar con un botón **Confirmr**. Haga clic en el botón y confirme la acción en su billetera.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MazU3f7baGsVWuAZcKf%2F-Mb0DHhDUjiz7Vv46sr9%2Fimage.png?alt=media&token=cf24f698-04a2-4599-9516-afc719663a29)
 
-Your BNB winnings will now be in your wallet.
+Sus ganancias de BNB ahora estarán en su billetera.
 
-## Viewing historic profit and loss data <a id="viewing-historic-profit-and-loss-data"></a>
+## Visualización de datos históricos de pérdidas y ganancias <a id="viewing-historic-profit-and-loss-data"></a>
 
-If you'd like to see how you've done overall in Prediction, you can view PNL \(Profit and Loss\) data whenever you'd like.
+Si desea ver cómo le ha ido en general en Predicción, puede ver los datos de PNL \(Pérdidas y ganancias\) cuando lo desee.
 
-1. On the Prediction page, click the **reversing clock icon** next to the round timer. A "History" panel will open.
+1. En la página Predicción, haga clic en el icono de **invertir el reloj** situado junto al temporizador redondo. Se abrirá un panel de "Historial".
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MazU3f7baGsVWuAZcKf%2F-Mb0H7H5rWAS0jGn6qZC%2Fimage.png?alt=media&token=84b40b86-e639-4744-a307-d8fb5effd63e)
 
-2. On the history panel, click the **PNL** tab.
+2. En el panel historial, haga clic en la pestaña **PNL**.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MazU3f7baGsVWuAZcKf%2F-Mb0UeAlYWLhP55DQxl1%2Fimage.png?alt=media&token=09ae4560-9fd7-434a-9928-8a20aa53ad35)
 
-The tab will open with stats for your historic performance in Prediction, including your net results, average return, best round, and other information.
+La pestaña se abrirá con estadísticas para su rendimiento histórico en Predicción, incluidos sus resultados netos, rendimiento promedio, mejor ronda y otra información.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MazU3f7baGsVWuAZcKf%2F-Mb0VBvoNdRw1GPgDMPv%2Fimage.png?alt=media&token=da6e9be6-1d56-44f1-baf6-d18dbc0eba80)
 
-3. You can click the **View Reclaimed & Won** button at the bottom of the PNL tab to view those transactions on the BscScan explorer.
+3. Puede hacer clic en el botón **View Reclaimed & Won** en la parte inferior de la ficha PNL para ver esas transacciones en el explorador de BscScan.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MazU3f7baGsVWuAZcKf%2F-Mb0UzaL_Tj2DiP7Edli%2Fimage.png?alt=media&token=17368b5e-2767-407b-bc53-b2388430ced1)
 
-That's all there is to using Prediction. Good luck making the right calls!
+Eso es todo lo que hay que usar Predicción. Buena suerte haciendo las apuestas correctas!
 
