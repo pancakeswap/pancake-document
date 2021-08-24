@@ -4,31 +4,30 @@ description: Hiring requirements and job description
 
 # Blockchain QA Engineer
 
-### **General Information**
+### **Información General**
 
-* **Salary range:** $105k+ US Annual salary
-* **Position:** Full-time
-* **Location:** Remote
-* **Time-zone preference:** Any
+* **Rango Salarial:** $105k USD Anual
+* **Posición:** Full-time
+* **Locación:** Remota
+* **Preferencia Horaria:** Cualquiera
 
-### Requirements:
+### Requerimientos:
 
-* Thorough understanding of how PancakeSwap \(Exchange, Farming, Info, Voting\) works.
-* Experience in writing automated tests for dApp frontends.
-* Ability to create testing setup from zero.
-* Be able to work autonomously.
-* The candidate should be independent enough to make important technical decisions on their own.
-* The candidate should be driven and innovative, planning the best ways to get full test coverage of the product.
+* Comprensión completa de qué es PancakeSwap \(Exchange, Farming, Info, Votación\)
+* Experiencia en la escritura de pruebas automatizadas para frontends de dApps 
+* Ser capaz de trabajar de forma autónoma.
+* El candidato debe ser lo suficientemente independiente como para tomar decisiones técnicas importantes por su cuenta.
+* El candidato debe ser autodidacta e innovador, planificando las mejores maneras de obtener una cobertura completa de la prueba del producto.
 
-### Responsibilities:
+### Responsabilidades:
 
-* Setup the tools needed to enable end to end testing \(JS framework, local blockchain\)
-* Analyse our codebases and propose a test plan for each
-* Write appropriate end to end tests in order to protect the product from regressions bugs
-* Monitor newly released features and continually add tests for these
-* Consistently plan to upgrade and improve our testing infrastructure.
+*  Configurar las herramientas necesarias para habilitar las pruebas de extremo a extremo \(Framework JS, blockchain local\)
+* Analizar nuestras bases de código y proponer un plan de pruebas para cada una
+* Escribir las pruebas apropiadas de extremo a extremo para proteger el producto de los bugs de regresiones
+* Supervisar las características recién publicadas y agregar continuamente pruebas para éstas.
+* Planificar constantemente para actualizar y mejorar nuestra infraestructura de pruebas.
 
-### How to apply:
+### Cómo Aplicar
 
-Email PancakeSwap@gmail.com with your resume
+Email a PancakeSwap@gmail.com con su currículum
 

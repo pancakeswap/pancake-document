@@ -59,7 +59,5 @@
 * [Quieres ser un Chef?](contrataciones/chef/README.md)
   * [Senior Backend Engineer - JavaScript / TypeScript](contrataciones/chef/frontend-software-engineer-javascript-typescript-react.md)
   * [Solidity Engineer](contrataciones/chef/solidity-engineer.md)
-  * [Technical Writer](contrataciones/chef/technical-writer.md)
   * [Blockchain QA Engineer](contrataciones/chef/senior-qa-engineer.md)
-  * [UX/UI Designer](contrataciones/chef/ux-ui-designer.md)
 

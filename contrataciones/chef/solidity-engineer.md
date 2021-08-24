@@ -1,38 +1,37 @@
 # Solidity Engineer
 
-### **General Information**
+### **Información General**
 
-* **Salary range:** $120k - $250k+ US Annual salary
-* **Position:** Full-time
-* **Location:** Remote
-* **Time-zone preference:** Any
+* **Rango Salarial:** $120k-250k USD Anual
+* **Posición:** Full-time
+* **Locación:** Remota
+* **Preferencia Horaria:** Cualquiera
 
-### Your Responsibilities
+### Tus Responsabilidades
 
-* Build smart contracts in Solidity for the Ethereum blockchain
-* Design, scope, and estimate complex contract based on requirements given
-* Envision and develop features to help grow PancakeSwap
-* Enthusiastically collaborate with a small team to plan projects at the task level
-* Collaborate with cross functional partners on all aspects of product development
-* Identify and advocate for team-wide areas of improvement and best practices
+* Construir smart contracts en Solidity para la blockchain de Ethereum 
+* Diseño, alcance y estimación de productos/actualizaciones de frontend complejos
+* Visión y desarrollo de características para ayudar a crecer PancakeSwap.
+* Colaborar con entusiasmo con un pequeño equipo para planificar proyectos a nivel de tarea
+* Colaborar con socios multifuncionales en todos los aspectos del desarrollo de productos
+* Identificar y abogar por las áreas de mejora y mejores prácticas de todo el equipo
 
-### Skills & Qualifications
+### Skills & Cualificaciones
 
-* 5+ years of industry experience in software engineering
-* Bachelor’s and/or Master’s degree in CS or equivalent experience
-* Understands and applies Solidity patterns to solve common problems
-* Understands gas optimization the tradeoff between efficient code and readable code
-* Knows how to write migrations and deploy code to EVM-compatible networks
-* Familiar with Truffle, Waffle, and Hardhat, and the pros and cons of each framework
-  * Specifically familiar with Hardhat as this is the framework used by PancakeSwap
-* Possesses exceptional judgment, problem-solving skills, and an analytical mindset
-* Understands engineering best practices such as continuous integration
-* Ability to work in areas outside of your comfort zone and motivated by personal growth
-* Be able to work autonomously.
-* The candidate should be independent enough to make important technical decisions on their own.
-* The candidate should be driven and innovative.
+* 5 años de experiencia en la industria en ingeniería de software
+* Licenciatura y/o Maestría en CS o experiencia equivalente
+* Comprender y aplicar patrones de Solidity para resolver problemas comunes
+* Entender la optimización del gas, el equilibrio entre el código eficiente y el código legible
+* Saber cómo escribir migraciones e implementar código en redes compatibles con EVM
+* Estar familiarizado conTruffle, Waffle, y Hardhat, y sus pros y contras. Específicamente familiarizado con Hardhat, ya que este es el framework utilizado por PancakeSwap
+* Poseer un juicio excepcional, habilidades para resolver problemas y una mentalidad analítica
+* Comprender las mejores prácticas de ingeniería, como la integración continua
+* Capacidad para trabajar en áreas fuera de su zona de confort y motivado por el crecimiento personal
+* Ser capaz de trabajar de forma autónoma.
+* El candidato debe ser lo suficientemente independiente como para tomar decisiones técnicas importantes por su cuenta.
+* El candidato debe ser innovador.
 
-### How to apply:
+### Cómo Aplicar
 
-Email PancakeSwap@gmail.com with your resume
+Email a PancakeSwap@gmail.com con su currículum
 

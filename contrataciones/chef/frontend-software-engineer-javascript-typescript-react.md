@@ -1,6 +1,6 @@
 # Senior Backend Engineer - JavaScript / TypeScript
 
-### **General Information**
+### **Información General**
 
 * **Rango Salarial:** $120k-160k USD Anual
 * **Posición:** Full-time
@@ -14,6 +14,7 @@
 * Colaborar con entusiasmo con un pequeño equipo para planificar proyectos a nivel de tarea
 * Colaborar con socios multifuncionales en todos los aspectos del desarrollo de productos
 * Identificar y abogar por las áreas de mejora y mejores prácticas de todo el equipo
+* Mantener y actualizar regularmente los subgráficos
 
 ### Skills & Cualificaciones
 
