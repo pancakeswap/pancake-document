@@ -25,7 +25,7 @@ Qualifying criteria for Community Farms and Core Farms/Pools are based on our in
 
 ### Can I get a larger Farm multiplier? Or can I extend my Syrup Pool and Farm?
 
-If you’ve already got an ongoing Pool and Farm, you may be able to extend the timeline via a Boost Pool. If you wish to increase the multiplier, the team will consider if if 30-day volume is increased. Contact us via your existing PancakeSwap communication channels for enquiries.
+If you’ve already got an ongoing Pool and Farm, you may be able to extend the timeline via a Boost Pool. If you wish to increase the multiplier, the team will consider it if 30-day volume is increased. Contact us via your existing PancakeSwap communication channels for enquiries.
 
 ## IFOs \(Token Sales\)
 
