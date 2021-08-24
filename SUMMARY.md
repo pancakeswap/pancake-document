@@ -7,7 +7,7 @@
   * [Cómo Conectarse a PancakeSwap](empezando-en-pancakeswap/como-conectarse-pancakeswap.md)
 * [Ayuda](click-here-for-help/README.md)
   * [Errores Frecuentes](click-here-for-help/troubleshooting-errors.md)
-  * [Preguntas Generales](click-here-for-help/faq.md)
+  * [Preguntas Frecuentes](click-here-for-help/faq.md)
   * [Arreglar Transacciones Pendientes Trabadas](click-here-for-help/untitled.md)
   * [Guía de Binance Academy](click-here-for-help/binance-academy-guide.md)
 * [Contacto](contact-us/README.md)
@@ -30,7 +30,7 @@
   * [Cómo hacer el Stake en los Syrup Pools](productos/syrup-pools/como-hacer-el-stake-en-los-syrup-pools.md)
   * [Auto CAKE Syrup Pool](productos/syrup-pools/auto-cake-syrup-pool.md)
   * [Syrup Pool FAQ & Errores Frecuentes](productos/syrup-pools/syrup-pool.md)
-* [🎟 Lottery v2](productos/lottery/README.md)
+* [🎟 Lotería v2](productos/lottery/README.md)
   * [Cómo Jugar a la Lotería V2](productos/lottery/como-jugar-loteriav2.md)
   * [Lotería: FAQ](productos/lottery/lottery-faq.md)
 * [🔮 Predicción](productos/prediccion.md)
@@ -39,7 +39,7 @@
   * [IFO \(Initial Farm Offering\)](productos/ifo-initial-farm-offering/ifo-initial-farm-offering.md)
 * [Info](productos/info/README.md)
   * [Analytics](productos/info/pancakeswap-analytics.md)
-* [Voting](productos/voting/README.md)
+* [Votación](productos/voting/README.md)
   * [What is voting?](productos/voting/voting.md)
   * [How to vote with SafePal wallet](productos/voting/how-to-vote-with-safepal-wallet.md)
 
@@ -51,7 +51,7 @@
 
 ## Development Guide <a id="code"></a>
 
-* [Contributing](code/contributing/README.md)
+* [Contribuciones](code/contributing/README.md)
   * [Codebase Overview](code/contributing/codebase-overview.md)
 
 ## Hiring

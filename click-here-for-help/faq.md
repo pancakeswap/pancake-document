@@ -1,10 +1,6 @@
----
-description: Shout out to the price bot s1mer for putting these together.
----
+# Preguntas Frecuentes
 
-# Preguntas Generales
-
-![](../.gitbook/assets/docs-masthead-17-.png)
+![](../.gitbook/assets/preguntas-frecuentes.png)
 
 Esta página de preguntas frecuentes generales a algunas de las preguntas más frecuentes de la comunidad de PancakeSwap.
 

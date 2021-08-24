@@ -1,10 +1,8 @@
-# 🎟 Lottery v2
+# 🎟 Lotería v2
 
-![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MdUg8ahFKk9Q8jMaBBP%2F-MdUxt8CCVOUITl4uAqK%2Fdocs%20masthead%20%283%29.png?alt=media&token=386d0ebc-8033-4dd0-8445-2436be2f6a60)
+![](../../.gitbook/assets/loteria-v2.png)
 
-¡Jugar a la Lotería PancakeSwap te da la oportunidad de ganar enormes premios CAKE! Es fácil, justo, y puedes entrar tantas veces como quieras siempre y cuando tengas CAKE para comprar un boleto.
-
-​[Ver el smart contract](https://bscscan.com/address/0x5aF6D33DE2ccEC94efb1bDF8f92Bd58085432d2c)​
+​¡Jugar a la Lotería PancakeSwap te da la oportunidad de ganar enormes premios CAKE! Es fácil, justo, y puedes entrar tantas veces como quieras siempre y cuando tengas CAKE para comprar un boleto. [Ver el smart contract](https://bscscan.com/address/0x5aF6D33DE2ccEC94efb1bDF8f92Bd58085432d2c)​
 
 ## **Especificaciones:** <a id="specifics"></a>
 

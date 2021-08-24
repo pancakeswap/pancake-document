@@ -6,7 +6,7 @@ description: >-
 
 # Errores Frecuentes
 
-![](../.gitbook/assets/image%20%2879%29.png)
+![](../.gitbook/assets/problemas-frecuentes.png)
 
 A veces estamos frente a un problema que no parece tener una solución clara. Esperamos que estos tips frente a problemas frecuentes puedan ayudarte a solucionarlo.
 
