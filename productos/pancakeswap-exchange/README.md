@@ -1,6 +1,6 @@
 # 🔄Exchange
 
-![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbEhf2Oym3DwInC1RLG%2F-MbEiJUEIhXOppKXzWwH%2Fdocs%20masthead%20%2819%29.png?alt=media&token=be1e5fa9-8339-4db4-bd7a-8f376fa67935)
+![](../../.gitbook/assets/exchange.png)
 
 PancakeSwap es un Creador de Mercado Automatizado \(AMM\), y el  Exchange es el corazón de PancakeSwap. PancakeSwap es el AMM líder en la Binance Smart Chain  y, como dicen las estadísticas, ¡el exchange descentralizado \(DEX\) más popular de la historia!
 

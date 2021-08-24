@@ -11,7 +11,7 @@
   * [Arreglar Transacciones Pendientes Trabadas](click-here-for-help/untitled.md)
   * [Guía de Binance Academy](click-here-for-help/binance-academy-guide.md)
 * [Contacto](contact-us/README.md)
-  * [Business Partnerships](contact-us/business-partnerships.md)
+  * [Partnerships de Negocios](contact-us/business-partnerships.md)
   * [Soporte](contact-us/customer-support.md)
   * [Redes Sociales & Comunidades](contact-us/telegram.md)
 * [Roadmap](roadmap.md)

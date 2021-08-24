@@ -1,6 +1,6 @@
 # Ayuda
 
-![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-Mb9Zry-ZB3tPvT1CIzP%2F-Mb9nWQCJARFEUg4XCvr%2Fdocs%20masthead%20%2810%29.png?alt=media&token=3f948fee-7dc6-4a3b-9d8b-4357ef4d83c3)
+![](../.gitbook/assets/ayuda.png)
 
 Si te encuentras atascado, si algo no funciona como está destinado, o no estás seguro de si algo ha funcionado o no, esta sección de ayuda puede ser capaz de, bueno, ayudar.
 

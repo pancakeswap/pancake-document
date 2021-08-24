@@ -1,8 +1,8 @@
 # Soporte
 
-![Bueno, la cosa es que...](../.gitbook/assets/image%20%2898%29%20%281%29.png)
+![](../.gitbook/assets/at-al-cliente.png)
 
-## No existe soporte/atención al usuario en PancakeSwap.
+## No existe soporte/atención al cliente en PancakeSwap.
 
 Si estás experimentando problemas,
 

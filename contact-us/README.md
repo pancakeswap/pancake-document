@@ -1,6 +1,6 @@
 # Contacto
 
-![](../.gitbook/assets/image%20%28124%29%20%281%29.png)
+![](../.gitbook/assets/contacto.png)
 
 Hay varias opciones si necesitas ponerte en contacto con el equipo de PancakeSwap. Esta sección cubre las razones y el cómo para comunicarse con nosotros.
 
