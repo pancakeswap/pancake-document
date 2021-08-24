@@ -6,14 +6,14 @@
   * [Tokens Bep20](empezando-en-pancakeswap/tokens-bep20.md)
   * [Cómo Conectarse a PancakeSwap](empezando-en-pancakeswap/como-conectarse-pancakeswap.md)
 * [Ayuda](click-here-for-help/README.md)
-  * [Errores Frecuentes](click-here-for-help/troubleshooting-errors.md)
+  * [Errores Frecuentes](click-here-for-help/errores-frecuentes.md)
   * [Preguntas Frecuentes](click-here-for-help/faq.md)
-  * [Arreglar Transacciones Pendientes Trabadas](click-here-for-help/untitled.md)
-  * [Guía de Binance Academy](click-here-for-help/binance-academy-guide.md)
-* [Contacto](contact-us/README.md)
-  * [Partnerships de Negocios](contact-us/business-partnerships.md)
-  * [Soporte](contact-us/customer-support.md)
-  * [Redes Sociales & Comunidades](contact-us/telegram.md)
+  * [Arreglar Transacciones Pendientes Trabadas](click-here-for-help/tx-trabadas.md)
+  * [Guía de Binance Academy](click-here-for-help/binance-academy-guia.md)
+* [Contacto](contacto/README.md)
+  * [Partnerships de Negocios](contacto/partnerships.md)
+  * [Soporte](contacto/soporte.md)
+  * [Redes Sociales & Comunidades](contacto/redes.md)
 * [Roadmap](roadmap.md)
 
 ## Products <a id="productos"></a>
@@ -49,17 +49,17 @@
   * [CAKE Tokenomics](tokenomics/cake-updated-10-29-2020/cake-tokenomics.md)
   * [Controlando el Circulante de CAKE](tokenomics/cake-updated-10-29-2020/controlling-cake-supply.md)
 
-## Development Guide <a id="code"></a>
+## Guía para Desarrolladores <a id="devs"></a>
 
-* [Contribuciones](code/contributing/README.md)
-  * [Codebase Overview](code/contributing/codebase-overview.md)
+* [Contribuciones](devs/contributing/README.md)
+  * [Codebase Overview](devs/contributing/codebase-overview.md)
 
-## Hiring
+## Contrataciones
 
-* [Become a Chef](hiring/become-a-chef/README.md)
-  * [Frontend Software Engineer - JavaScript / Typescript / React](hiring/become-a-chef/frontend-software-engineer-javascript-typescript-react.md)
-  * [Solidity Engineer](hiring/become-a-chef/solidity-engineer.md)
-  * [Technical Writer](hiring/become-a-chef/technical-writer.md)
-  * [Blockchain QA Engineer](hiring/become-a-chef/senior-qa-engineer.md)
-  * [UX/UI Designer](hiring/become-a-chef/ux-ui-designer.md)
+* [Sé un Chef](contrataciones/become-a-chef/README.md)
+  * [Frontend Software Engineer - JavaScript / Typescript / React](contrataciones/become-a-chef/frontend-software-engineer-javascript-typescript-react.md)
+  * [Solidity Engineer](contrataciones/become-a-chef/solidity-engineer.md)
+  * [Technical Writer](contrataciones/become-a-chef/technical-writer.md)
+  * [Blockchain QA Engineer](contrataciones/become-a-chef/senior-qa-engineer.md)
+  * [UX/UI Designer](contrataciones/become-a-chef/ux-ui-designer.md)
 

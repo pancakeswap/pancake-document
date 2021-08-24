@@ -6,7 +6,7 @@
 
 Si estás experimentando problemas,
 
-1. Primero mira la página de [problemas frecuentes](../click-here-for-help/troubleshooting-errors.md) para encontrar tu error y ver cómo solucionarlo.
+1. Primero mira la página de [problemas frecuentes](../click-here-for-help/errores-frecuentes.md) para encontrar tu error y ver cómo solucionarlo.
 2. Si no puedes encontrar una solución a su problema, intenta consultando en el [Grupo de Telegram ](https://t.me/PancakeSwapEs)de PancakeSwap en tu idioma.
 
 {% hint style="danger" %}

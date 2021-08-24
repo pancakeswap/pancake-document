@@ -1,6 +1,6 @@
 # Empezando en PancakeSwap
 
-![](../.gitbook/assets/docs-masthead-15-%20%281%29.png)
+![](../.gitbook/assets/como-empezar.png)
 
 Cualquier cosa nueva puede ser un desafío, pero no te preocupes! Creamos unas guías para que sepas cómo arrancar y te sientas cómodo en PancakeSwap
 
