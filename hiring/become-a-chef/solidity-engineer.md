@@ -34,5 +34,5 @@
 
 ### How to apply:
 
-Email PancakeSwap@gmail.com with your resume
+Email **PancakeSwapHiring@protonmail.com** with your resume
 

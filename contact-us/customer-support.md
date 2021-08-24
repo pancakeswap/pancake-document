@@ -1,18 +1,19 @@
-# カスタマーサポート
+# Customer Support
 
-## PancakeSwap\(パンケーキスワップ\)にカスタマーサポートはありません。
+![Well, the thing is...](../.gitbook/assets/docs-masthead-23-.png)
 
-お困りの場合は
+## There is NO customer support for PancakeSwap.
 
-1. [トラブルシューティングページ](https://docs.pancakeswap.finance/v/japanese/click-here-for-help/troubleshooting-errors)で該当エラーがないか確認してください。
-2. 解決方法が見つからない場合は、PancakeSwapテレグラム[日本語コミュニティ](https://t.me/PancakeSwapJP)でお気軽にご相談ください。
+If you're experiencing issues,
+
+1. First check [the troubleshooting page](../help/troubleshooting.md) for your error code
+2. If you can't find a solution, try reaching out in your local [Telegram group](https://t.me/joinchat/T3eNhe_Cvi7rGW-_).
 
 {% hint style="danger" %}
-シェフおよびAdminがあなたにダイレクトメッセージを送ることは**絶対にありません**。  
-もしも「カスタマーサポート」や「ヘルプデスク」を名乗る人があなたに直接連絡してきた場合は、直ちに彼らをブロックし、スパムとして報告してください。
+Admins will NEVER send you a direct message. If anybody approaches you directly on e.g. Telegram pretending to represent customer support, please block them and report as spam.
 {% endhint %}
 
 {% hint style="danger" %}
-**いついかなる状況においても、ウォレットの秘密鍵やリカバリーフレーズを他の人に教えてはいけません。**あなたからそれらを聞き出そうとする人がいたら、直ちにブロックし、スパムとして報告してください。
+**NEVER, under any situation, should you ever give someone your private key or recovery phrases. Immediately block and report anyone that asks for them.**
 {% endhint %}
 
