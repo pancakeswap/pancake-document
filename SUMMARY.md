@@ -52,7 +52,7 @@
 ## Guía para Desarrolladores <a id="devs"></a>
 
 * [Contribuciones](devs/contributing/README.md)
-  * [Codebase Overview](devs/contributing/codebase-overview.md)
+  * [Descripción de Base de Código](devs/contributing/codebase-overview.md)
 
 ## Contrataciones
 
