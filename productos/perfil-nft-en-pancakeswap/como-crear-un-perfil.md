@@ -2,9 +2,9 @@
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbGTDNZ6xd3_Q-qSEP5%2F-MbJu6z0LuA7Mn4ENPgb%2Fdocs%20masthead%20%281%29.png?alt=media&token=39e9b350-2ca2-45c8-a5ae-32ba777e5db5)
 
-Create a personalized profile on PancakeSwap to share your personality with the world. Choose a cute bunny NFT for your profile picture, give yourself a unique name, and join an awesome team!
+Crea un perfil personalizado en PancakeSwap para compartir tu personalidad con el mundo. Elige un conejito lindo NFT para tu foto de perfil, darle un nombre único, y unirse a un equipo impresionante!
 
-Having your profile created will let you to share your NFT profile picture and achievements with friends, and let you join special PancakeSwap team events. **This process will cost a total of 1.5 CAKE.**
+Tener su perfil creado le permitirá compartir su foto de perfil NFT y logros con amigos, y le permitirá unirse a eventos especiales del equipo PancakeSwap. Este proceso costará un total de 1,5 CAKE.
 
 ![](https://lh6.googleusercontent.com/_lvq_wpwDw96zKVutm23VddK1SNqYt7TdAu7YYWVkTTfEggvsHNUtTBe4333NlZXCyJyOZnoWObWcWA8CyoC4Db0R-xjaQUSxmHZpuca5Hrqr-xsBbRh5aKHa3x2dVakNRtNqXi5)
 
