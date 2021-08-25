@@ -125,7 +125,7 @@ A continuación, podes encontrar información mas detallada de cada billetera, a
 {% endtab %}
 
 {% tab title="MetaMask" %}
-![](../.gitbook/assets/image%20%2833%29%20%283%29%20%284%29%20%285%29.png)
+![](../.gitbook/assets/image%20%2833%29%20%283%29%20%284%29%20%285%29%20%285%29.png)
 
 Metamask es un complemento de navegador muy popular que admite ERC20\(Red Ethereum\) y BEP2 y BEP20\(redes Binance Chain y Binance Smart Chain\)
 
@@ -149,7 +149,7 @@ Metamask es un complemento de navegador muy popular que admite ERC20\(Red Ethere
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](../.gitbook/assets/image%20%28125%29%20%283%29%20%283%29.png)
+![](../.gitbook/assets/image%20%28125%29%20%283%29%20%284%29%20%283%29.png)
 
 Token Pocket es una aplicación de gestión de criptomonedas que admite de forma nativa muchas redes de criptomonedas. También posee una aplicación de escritorio.
 
@@ -268,7 +268,7 @@ Puede encontrar información más detallada sobre cada billetera a continuación
 
 {% tabs %}
 {% tab title="MetaMask" %}
-![](../.gitbook/assets/image%20%2833%29%20%283%29%20%284%29%20%283%29.png)
+![](../.gitbook/assets/image%20%2833%29%20%283%29%20%284%29%20%285%29%20%283%29.png)
 
 Metamask es un complemento de navegador muy popular que admite ERC20\(Red Ethereum\) y BEP2 y BEP20\(redes Binance Chain y Binance Smart Chain\)
 
@@ -314,7 +314,7 @@ Binance Wallet es una billetera de complemento de navegador que admite de forma 
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](../.gitbook/assets/image%20%28125%29%20%283%29%20%284%29.png)
+![](../.gitbook/assets/image%20%28125%29%20%283%29%20%284%29%20%284%29.png)
 
 Token Pocket es una aplicación de gestión de criptomonedas que admite de forma nativa muchas redes de criptomonedas. También posee una aplicación de escritorio.
 

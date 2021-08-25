@@ -41,7 +41,7 @@ Bueno, esta bien, en realidad no es una hoja de ruta. Es una lista de tareas pen
 * [ ] **Staking a Plazo Fijo**
 * [x] **Perfil de Usuario Personalizable**
 
-![Comin&apos; up](.gitbook/assets/image%20%281%29%20%281%29%20%281%29%20%282%29%20%281%29.png)
+![Comin&apos; up](.gitbook/assets/image%20%281%29%20%281%29%20%281%29%20%282%29%20%283%29%20%281%29.png)
 
 
 
