@@ -121,7 +121,7 @@ Trust Wallet is a popular wallet for smart devices. It supports DApps, NFT colle
 {% endtab %}
 
 {% tab title="MetaMask" %}
-![](../.gitbook/assets/image%20%2833%29%20%283%29%20%284%29%20%281%29.png)
+![](../.gitbook/assets/image%20%2833%29%20%283%29%20%284%29%20%285%29%20%281%29.png)
 
 MetaMask is a very popular browser-based wallet plugin that supports ERC20 \(Ethereum network\) and BEP2 & BEP20 \(Binance Chain and Binance Smart Chain networks\).
 
@@ -147,7 +147,7 @@ MetaMask is a very popular browser-based wallet plugin that supports ERC20 \(Eth
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](../.gitbook/assets/image%20%28125%29%20%283%29%20%282%29.png)
+![](../.gitbook/assets/image%20%28125%29%20%283%29%20%284%29%20%282%29.png)
 
 Token Pocket is a cryptocurrency management app that natively supports many cryptocurrency networks. It also has a desktop application available.
 
@@ -309,7 +309,7 @@ You can find more in-depth information about each wallet below, as well as downl
 
 {% tabs %}
 {% tab title="MetaMask" %}
-![](../.gitbook/assets/image%20%2833%29%20%283%29%20%284%29.png)
+![](../.gitbook/assets/image%20%2833%29%20%283%29%20%284%29%20%285%29.png)
 
 MetaMask is a very popular browser-based wallet plugin that supports ERC20 \(Ethereum network\) by default, and BEP2 & BEP20 \(Binance Chain and Binance Smart Chain networks\) with a little work.
 
@@ -359,7 +359,7 @@ Binance Wallet is a browser-plugin wallet that natively supports the Binance Cha
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](../.gitbook/assets/image%20%28125%29%20%283%29.png)
+![](../.gitbook/assets/image%20%28125%29%20%283%29%20%284%29.png)
 
 Token Pocket is a standalone application available for both Mac OS and Win64 devices. Token Pocket allows you to manage your cryptocurrency in software independent of your browser.
 
