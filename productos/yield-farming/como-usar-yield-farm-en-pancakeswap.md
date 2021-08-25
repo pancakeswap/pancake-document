@@ -1,6 +1,6 @@
 # Cómo usar Farms
 
-![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbGTDNZ6xd3_Q-qSEP5%2F-MbJt0DdCxFs-X1IeViV%2Fdocs%20masthead.png?alt=media&token=33761932-a4bb-452c-925a-a97154a02425)
+![](../../.gitbook/assets/como-yield-farms.png)
 
 Hacer Yield Farming en Farms es una excelente manera de ganar recompensas en Cake dentro de PancakeSwap.
 

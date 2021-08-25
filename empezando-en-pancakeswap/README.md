@@ -16,15 +16,15 @@ Siga estas guías y así configurar todo para poder usar PancakeSwap, o siéntas
 
 Una vez creada la Wallet y conectada a PancakeSwap, mira todas las guías que tenemos para los nuevos usuarios.
 
-[Cómo Trade](https://docs.pancakeswap.finance/products/pancakeswap-exchange/trade-guide)ar en PancakeSwap  
-[Cómo agregar/Remover Liquidez](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide)  
-[Cómo Usar los Farms](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms)  
-[Cómo hacer Stake en los Syrup Pools](https://docs.pancakeswap.finance/products/syrup-pool/syrup-pool-guide)  
-[Cómo Jugar a la Lotería](https://docs.pancakeswap.finance/products/lottery/lottery-guide)  
-[Cómo usar Predicción](https://docs.pancakeswap.finance/products/prediction/prediction-guide)  
-[Cómo participar en una IFO](https://docs.pancakeswap.finance/products/ifo-initial-farm-offering/ifo-guide)  
-[Cómo crear un Perfil en PancakeSwap](https://docs.pancakeswap.finance/products/nft-profile-system/profile-guide)  
-[Cómo Votar](https://docs.pancakeswap.finance/products/voting/voting-guide)
+[Cómo Tradear en PancakeSwap](https://docs.pancakeswap.finance/v/espanol/productos/pancakeswap-exchange)  
+[Cómo agregar/Remover Liquidez  
+](https://docs.pancakeswap.finance/v/espanol/productos/pancakeswap-exchange/anadir-remover-liquidez)[Cómo Usar los Farms  
+](https://docs.pancakeswap.finance/v/espanol/productos/yield-farming/como-usar-yield-farm-en-pancakeswap)[Cómo hacer Stake en los Syrup Pools  
+](https://docs.pancakeswap.finance/v/espanol/productos/syrup-pools/como-hacer-el-stake-en-los-syrup-pools)[Cómo Jugar a la Lotería  
+](https://docs.pancakeswap.finance/v/espanol/productos/lottery)[Cómo usar Predicción  
+](https://docs.pancakeswap.finance/v/espanol/productos/prediccion)[Cómo participar en una IFO  
+](https://docs.pancakeswap.finance/v/espanol/productos/ifo-initial-farm-offering)[Cómo crear un Perfil en PancakeSwap  
+](https://docs.pancakeswap.finance/v/espanol/productos/perfil-nft-en-pancakeswap)[Cómo Votar](https://docs.pancakeswap.finance/v/espanol/productos/voting)
 
 Chequea el menú para obtener más documentación sobre la gama de características y servicios de PancakeSwap, incluidas guías más avanzadas.
 

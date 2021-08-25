@@ -1,6 +1,6 @@
 # Cómo hacer el Stake en los Syrup Pools
 
-![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbGTDNZ6xd3_Q-qSEP5%2F-MbJtmHsIGCa8SoViGsq%2Fdocs%20masthead%20%2815%29.png?alt=media&token=c0992701-1038-4bb8-a3c8-9f783d32ed64)
+![](../../.gitbook/assets/docs-masthead%20%283%29.png)
 
 Syrup Pools: la forma más sencilla de ganar en PancakeSwap
 

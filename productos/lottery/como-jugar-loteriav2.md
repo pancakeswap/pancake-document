@@ -1,6 +1,6 @@
 # Cómo Jugar a la Lotería V2
 
-![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbGTDNZ6xd3_Q-qSEP5%2F-MbJtwHTaP4Lo8tOFAGt%2Fdocs%20masthead%20%286%29.png?alt=media&token=c1820702-2f5c-473b-b822-798a219296ad)
+![](../../.gitbook/assets/docs-masthead%20%286%29.png)
 
 La Lotería de PancakeSwap no solo es una buena manera de hacer montones de CAKE, ¡también es muy divertida! Esta guía te guiará a través de cómo involucrarse en la Lotería.
 

@@ -1,6 +1,6 @@
 # Cómo Conectarse a PancakeSwap
 
-![](../.gitbook/assets/image%20%2840%29%20%281%29.png)
+![](../.gitbook/assets/conectar-w.png)
 
 ¡Tenemos una billetera y los tokens BEP20, ahora solo falta conectar la billetera con PancakeSwap y listo!   
 

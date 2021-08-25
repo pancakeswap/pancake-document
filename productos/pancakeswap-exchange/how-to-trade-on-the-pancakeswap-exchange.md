@@ -1,6 +1,6 @@
 # Cómo hacer un Trade
 
-![](../../.gitbook/assets/image%20%28153%29.png)
+![](../../.gitbook/assets/docs-masthead.png)
 
 Operar en PancakeSwap es muy fácil en comparación con la mayoría de los exchanges. No serás abrumado por los gráficos o palabras complicadas, y los cálculos se harán directamente para ti.
 

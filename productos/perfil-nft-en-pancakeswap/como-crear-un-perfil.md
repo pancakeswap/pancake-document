@@ -1,6 +1,6 @@
 # Cómo Crear un Perfil
 
-![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbGTDNZ6xd3_Q-qSEP5%2F-MbJu6z0LuA7Mn4ENPgb%2Fdocs%20masthead%20%281%29.png?alt=media&token=39e9b350-2ca2-45c8-a5ae-32ba777e5db5)
+![](../../.gitbook/assets/docs-masthead%20%284%29.png)
 
 Crea un perfil personalizado en PancakeSwap para compartir tu personalidad con el mundo. Elige un conejito lindo NFT para tu foto de perfil, darle un nombre único, y unirse a un equipo impresionante!
 

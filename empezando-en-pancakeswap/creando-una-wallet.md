@@ -1,10 +1,8 @@
 # Creando una Wallet
 
-![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbGTDNZ6xd3_Q-qSEP5%2F-MbJqNikjouS9bDl1rUt%2Fdocs%20masthead%20%289%29.png?alt=media&token=a86affdf-4276-4963-8f05-661aec80064a)
+![](../.gitbook/assets/wallet.png)
 
 Para comenzar en Pancakeswap, lo primero que necesitas es configurar una billetera que soporte la Binance Smart Chain \(BSC\). Las billeteras están disponibles tanto como para computadoras de escritorio como teléfonos móviles. Debes elegir una billetera que se adapte mejor a tus necesidades.
-
-
 
 {% hint style="danger" %}
 **Cuando configures una billetera, ten en cuenta lo siguiente:**
