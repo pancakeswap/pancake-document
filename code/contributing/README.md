@@ -6,9 +6,9 @@ description: Thank you for expressing your interest in contributing to PancakeSw
 
 ![](../../.gitbook/assets/docs-masthead-18-%20%281%29.png)
 
-Pancake is an open-source project. If you want to contribute to the project, this section is here to guide you through your first steps with the Pancake team 🥞
+PancakeSwap is an open-source project. If you want to contribute to the project, this section is here to guide you through your first steps with the PancakeSwap team 🥞
 
-Before starting any development, we highly encourage you to submit an issue on Github in order to discuss the problem, and the solution with the team. If you want to reach out to the dev team directly, [contact **@chef\_chungus**](https://t.me/chef_chungus) on Telegram ![](../../.gitbook/assets/logo.svg)
+Before starting any development, we highly encourage you to submit an issue on Github in order to discuss the problem, and the solution with the team. If you want to reach out to the dev team directly, [contact **@chef\_chungus**](https://t.me/chef_chungus) on Telegram.
 
 ## Setup your dev environment
 
@@ -55,9 +55,9 @@ const NewButtonVariant = styled(Button)`
 `
 ```
 
-### Use the tools !
+### Use the tools!
 
-Most of our repos use [Typescript](https://www.typescriptlang.org/docs), [ESLint](https://eslint.org/docs/user-guide/getting-started), and [Prettier](https://prettier.io/). Make sure you are familiar with Typescript’s best practices, and enable an ESLint and Prettier plugin for your IDE.
+Most of our repos use [Typescript](https://www.typescriptlang.org/docs), [ESLint](https://eslint.org/docs/user-guide/getting-started), and [Prettier](https://prettier.io/). Make sure you're familiar with Typescript’s best practices, and enable an ESLint and Prettier plugin for your IDE.
 
 {% hint style="warning" %}
 Make sure your code is formatted with Prettier, and is free from any ESLint error before you submit a pull request.
@@ -99,5 +99,5 @@ Your code is ready to be submitted for review, congratulations🥳
 Create a [draft PR](https://github.blog/2019-02-14-introducing-draft-pull-requests/) as soon as possible so we can view your ongoing progress.
 {% endhint %}
 
-**Thanks your for helping us making Pancake even more awesome** ❤
+**Thanks for helping us making PancakeSwap even more awesome** ❤
 
