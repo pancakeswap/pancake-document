@@ -6,9 +6,7 @@ Operar en PancakeSwap es muy fácil en comparación con la mayoría de los excha
 
 ### Configuración para Trading <a id="getting-set-up-to-trade"></a>
 
-You will also need to have some BEP20 tokens to trade with. You can learn how to get some [here](https://docs.pancakeswap.finance/get-started/bep20-guide).
-
-Antes de que pueda operar, necesitará una billetera compatible con Binance Smart Chain. Puedes aprender cómo conseguir una aquí \(LINK\). También necesitará tener algunos tokens BEP20 para poder tradear, eso puedes encontrarlo aquí \(LINK\)
+Antes de que pueda operar, necesitará una billetera compatible con Binance Smart Chain. Puedes aprender cómo conseguir una [aquí](https://docs.pancakeswap.finance/v/espanol/empezando-en-pancakeswap). También necesitará tener algunos tokens BEP20 para poder tradear, eso puedes encontrarlo [aquí ](https://docs.pancakeswap.finance/v/espanol/empezando-en-pancakeswap/tokens-bep20)
 
 ### Trading en el exchange de PancakeSwap <a id="trading-on-the-pancakeswap-exchange"></a>
 

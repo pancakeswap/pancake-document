@@ -20,12 +20,12 @@ Ahora tienes dos deliciosos sabores de CAKE-CAKE Pool para elegir: Auto-compound
 
 **Auto CAKE**
 
-* Stake your CAKE and forget about it! The CAKE you stake in this Syrup Pool will be automatically compounded \(reinvested\) for you, minus a small fee.
-* The “automatic” compounding function is triggered by other users who get a small bounty for triggering it.
-* Interest is displayed as APY, which includes compounding.
-* A small performance fee is subtracted from your earnings each time the pool is automatically compounded. See below.
-* An unstaking fee applies when you unstake within 3 days of manually staking. See below.
-* Does not deposit SYRUP to your wallet upon staking
+* ¡Deposita tu CAKE y olvídate de él! El CAKE que deposite en este Pool se reinvertirá automáticamente por usted, menos una pequeña tarifa.
+* La función de reinversión "automática" es activada por otros usuarios que obtienen una pequeña recompensa por activarla.
+* El interés se muestra como APY, que incluye reinversión.
+* Una pequeña tarifa de rendimiento se resta de sus ganancias cada vez que el grupo se compone automáticamente. Vea a continuación.
+* Un fee de retiro se aplica cuando retiras antes de los 3 días. Vea a continuación.
+* No deposita SYRUP en su billetera al hacer Stake
 
 ### Qué se paga por el Auto CAKE Syrup Pool? <a id="what-are-the-fees-for-the-auto-cake-syrup-pool"></a>
 

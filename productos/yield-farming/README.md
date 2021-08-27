@@ -4,9 +4,9 @@
 
 Las Yield Farms permiten a los usuarios ganar CAKE mientras apoyan a PancakeSwap depositando sus LP tokens.
 
-Check out our [How to Use Farms guide](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) to get started with farming.
+Mira nuestra guía de [Cómo usar Farms](https://docs.pancakeswap.finance/v/espanol/productos/yield-farming/como-usar-yield-farm-en-pancakeswap) para empezar.
 
-Learn [how to find Farm smart contracts](https://docs.pancakeswap.finance/products/yield-farming)​
+Aprende [cómo usar Farms desde BscScan](https://docs.pancakeswap.finance/v/espanol/productos/yield-farming/farms-bscscan)​
 
 El Yield farming puede dar mejores recompensas que los Syrup Pools, pero viene con un riesgo de **Impermanent Loss**. No es tan aterrador como parece, pero vale la pena aprender sobre el concepto antes de comenzar.
 

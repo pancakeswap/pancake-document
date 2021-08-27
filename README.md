@@ -42,7 +42,7 @@ Haciendo Stake  de LP tokens ganas CAKE.  Asumes un poco más de exposición a l
 
 ### Gana Fees de Trading
 
-No farm? No problem. Even if your trading pair isn’t supported on the Farms page, you can still earn trading fees when you stake your tokens in Liquidity Pools \(LPs\).
+¿No quieres hacer Farm? No hay problema. Incluso si su par de monedas no es compatible con la página Farms, aún puede ganar fees de trading cuando añade sus tokens en pools de liquidez \(LPs\).
 
 ## 🎲 Juegos
 

@@ -8,7 +8,7 @@ Hacer Staking en [Syrup Pools](https://docs.pancakeswap.finance/products/syrup-p
 
 Es más simple que hacer Farming con los Yield Farms de PancakeSwap, porque a diferencia de los ellos, solo necesita depositar **un token** para comenzar a ganar: generalmente CAKE.
 
-## **Getting started with Syrup Pool staking** <a id="getting-started-with-syrup-pool-staking"></a>
+## **Empezando con el Staking en Syrup Pools** <a id="getting-started-with-syrup-pool-staking"></a>
 
 1. Ir a la [página de Pools](https://pancakeswap.finance/pools).
 

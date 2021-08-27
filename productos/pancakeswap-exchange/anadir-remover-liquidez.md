@@ -10,9 +10,7 @@ A cambio de agregar liquidez, recibirás fees de trading por ese par y recibirá
 
 Para proporcionar liquidez, deberá confirmar una cantidad de cualquier par de tokens que desee. Su valor más bajo \(en USD\) de los dos tokens será el límite a la liquidez que puede proporcionar.
 
-You can easily trade for any tokens you need. Visit our [How to Trade on PancakeSwap](https://docs.pancakeswap.finance/get-started/trade-guide) guide if you need to.
-
-Puede intercambiar fácilmente por cualquier token que necesite. Visite nuestra guía Cómo operar en PancakeSwap si lo necesita.
+Puede intercambiar fácilmente por cualquier token que necesite. Visite nuestra guía [Cómo operar en PancakeSwap](https://docs.pancakeswap.finance/v/espanol/productos/pancakeswap-exchange/how-to-trade-on-the-pancakeswap-exchange) si lo necesita.
 
 En este ejemplo, agregaremos liquidez usando BNB y CAKE.
 
