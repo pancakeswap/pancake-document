@@ -59,7 +59,14 @@
 * [Contribuciones](devs/contributing/README.md)
   * [Descripción de Base de Código](devs/contributing/codebase-overview.md)
 * [Recompensa por Bugs](devs/bugs.md)
-* [Smart Contracts](devs/smartcontracts.md)
+* [Smart Contracts](devs/smartcontracts/README.md)
+  * [Lottery v2](devs/smartcontracts/lottery-v2.md)
+  * [Exchange](devs/smartcontracts/contratos-swap/README.md)
+    * [Factory v2](devs/smartcontracts/contratos-swap/factory-v2.md)
+    * [Router v2](devs/smartcontracts/contratos-swap/router-v2.md)
+  * [Main Staking/Syrup Pool/MasterChef Contract](devs/smartcontracts/main-staking-syrup-pool-masterchef-contract.md)
+  * [Prediction V2](devs/smartcontracts/prediction-v2.md)
+  * [Auto CAKE Syrup Pool \(CakeVault\)](devs/smartcontracts/auto-cake-syrup-pool-cakevault.md)
 
 ## Contrataciones
 
