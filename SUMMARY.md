@@ -58,6 +58,8 @@
 
 * [Contribuciones](devs/contributing/README.md)
   * [Descripción de Base de Código](devs/contributing/codebase-overview.md)
+* [Recompensa por Bugs](devs/bugs.md)
+* [Smart Contracts](devs/smartcontracts.md)
 
 ## Contrataciones
 
