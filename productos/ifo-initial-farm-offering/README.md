@@ -67,5 +67,5 @@ La venta se llevará a cabo con normalidad, y todos los fondos aportados se gast
 
 Inicie su proyecto con PancakeSwap, el AMM y proveedor de liquidez más utilizado de la Binance Smart Chain, para llevar su token directamente a la comunidad más activa y de rápido crecimiento en BSC.
 
-\*\*\*\*[Applica aquíaunch](https://docs.google.com/forms/d/e/1FAIpQLScGdT5rrVMr4WOWr08pvcroSeuIOtEJf1sVdQGVdcAOqryigQ/viewform)
+\*\*\*\*[Aplica aquí](https://docs.google.com/forms/d/e/1FAIpQLScGdT5rrVMr4WOWr08pvcroSeuIOtEJf1sVdQGVdcAOqryigQ/viewform)
 
