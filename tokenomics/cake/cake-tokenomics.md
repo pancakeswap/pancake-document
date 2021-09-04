@@ -12,7 +12,7 @@
 | Burned | -25 | -720,000 |
 | **Effective Emission** | **&lt;15\*** | **386,000\*** |
 
-\*Effective Emission is in fact slightly below this amount: an additional 45,000 CAKE per day is diverted from the amount allocated to the lottery, and burned. Details below.
+\*Effective Emission is in fact slightly below this amount: an additional 45,000 CAKE per day is diverted from the amount allocated to the lottery, and burned \(PID 31 - Details below\).
 
 In addition to the above, a dynamic amount of CAKE is also minted to the [Dev address](https://www.bscscan.com/address/0xd4cfec77cdc21573982ec85cf33cfde6cc677e74) at a rate of 9.09%. This means that if 100 CAKE are harvested, then 9.09 CAKE is minted in addition and sent to the Dev Address.
 
