@@ -122,9 +122,9 @@ This happened because you started making a transaction, but you didn't sign and 
 
 > The transaction cannot succeed due to error: Pancake: K. This is probably an issue with one of the tokens you are swapping.
 
-Refresh the page and try again, or increase slippage tolerance via the settings icon and try again.
+Try modifying the amount on “To” field. Therefore putting "\(estimated\)" symbol on “From”. Then initiate the swap immediately.
 
-This probably happened because you're trying to buy or sell tokens during a big price movement. The frontend is getting outdated information \(e.g. outAmount\) from the smart contract, causing the swap to fail.
+This usually happen when you are trying to swap a token with its own fee.
 
 ### Pancake: TRANSFER\_FAILED
 
@@ -133,6 +133,8 @@ This probably happened because you're trying to buy or sell tokens during a big 
 Make sure you have 30% more tokens in your wallet than you intend to trade, or try to trade a lower amount. If you want to sell the maximum possible, try 70% or 69% instead of 100%.  
 Caused by the design of Restorative Rebase tokens like tDoge or tBTC.  
 [Understand how restorative rebase tokens work](https://btcst.medium.com/stp-8-restorative-rebase-b4fbbdfd96c).
+
+Another possible cause of this issue is the malicious token issuer just suspended the trading for their token. Or they made selling action only possible for selected wallet addresses. Please always do your own research to avoid any potential fraud. If the token you are trying to swap but failed with this error code is coming from an airdrop, that is most likely a scam. Please do not perform any token approval or follow any links, your fund may be at risk if you try to do so.
 
 ### Transaction cannot succeed
 
@@ -148,13 +150,17 @@ Try trading a smaller amount, or increase slippage tolerance via the settings ic
 
 {% tabs %}
 {% tab title="Solution" %}
-**Contact the project team of the token you're trying to swap.**
+**If you got this error while removing liquidity from a BNB pair:**
 
-This issue must be resolved by the project team.
+Please select "Receive WBNB" and retry.
+
+**If you got this error while trying to swap:**
+
+Please contact the project team of the token you're trying to swap. ****This issue must be resolved by the project team.
 {% endtab %}
 
 {% tab title="Reason" %}
-**This issue is caused by tokens which have hard-coded the V1 PancakeSwap router into their contract.**
+**This issue \(while swapping\) is caused by tokens which have hard-coded the V1 PancakeSwap router into their contract.**
 
 While this practice is ill-advised at best, the reason for these projects having done this appears to be due to their tokenomics, in which each purchase sends a % of the token to LPs.
 
