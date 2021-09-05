@@ -56,7 +56,7 @@ description: 常见错误信息。 使用侧边栏快速查找您的错误代码
 1. 点击流动性页面上的设置图标。
 2. 逐步调高滑点容限，然后重试。
 
-![](../.gitbook/assets/image%20%289%29%20%284%29%20%282%29%20%284%29.png)
+   ![](../.gitbook/assets/image%20%289%29%20%284%29%20%282%29%20%284%29.png)
 {% endtab %}
 
 {% tab title="原因" %}
@@ -127,12 +127,94 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 ### Pancake: K
 
 > The transaction cannot succeed due to error: Pancake: K. This is probably an issue with one of the tokens you are swapping.
->
-> \(交易由于此错误而无法成功: Pancake: K。 这可能是因为您正在兑换的一个代币存在某些问题\)
 
-刷新页面，然后重试，或者通过设置调高滑点容限，然后重试。
+尝试更改「到」一栏的数量，让「（估计）」标志出现在「从」一栏中，然后立刻开始交易，保持该标志一直在「从」一栏。
 
-这问题的原因可能是因为您试图在价格大变动期间购买或出售代币。 前端从智能合约中获取过时的信息\(例如outAmount\)，从而导致兑换失败。
+这通常发生在含有自身交易手续费的代币上。
+
+![](../.gitbook/assets/pancake-k-error.png)
+
+### Pancake: TRANSFER\_FAILED
+
+> The transaction cannot succeed due to error: execution reverted: Pancake: TRANSFER\_FAILED.
+
+在交易前，请确保您有额外 30% 数量的代币在您的钱包内。或者，尝试交易一个较少的数额。如果您想卖出最大可能的数目，请尝试设置数量为总数的 70% 或者 69%，不要设置为 100%。这个问题导致的原因是类似 tDoge 和 tBTC 代币所实行的「实时恢复性调整」。  
+[点击此处了解弹性调整代币](https://btcst.medium.com/stp-8-restorative-rebase-b4fbbdfd96c)。
+
+另一个可能的原因是：该恶意代币的项目方暂停了所有的交易，或者设置为仅允许买入不允许卖出，或者仅允许部分地址卖出。任何人都可以发行 BEP-20 代币并在 PancakeSwap 上交易。所以，在交易任何代币前，请充分做好调查，谨防受骗上当。如果您尝试卖出但失败的代币来自于空投，这很可能是诈骗。请不要进行任何授权操作，更不要跟随任何提示跳转到第三方网站操作，您钱包内的资产将由被盗风险。
+
+### Transaction cannot succeed
+
+尝试减少交易的数量，点击设置按钮并增加滑点容差，然后重试。导致该错误的原因是流动性太少。
+
+### **Price Impact too High**
+
+尝试减少交易的数量，点击设置按钮并增加滑点容差，然后重试。导致该错误的原因是流动性太少。
+
+### estimateGas failed
+
+> This transaction would fail. Please contact support
+
+{% tabs %}
+{% tab title="解决方法" %}
+**如果您是在解除与 BNB 组合的流动性对时遇到该错误：**
+
+请选择「接收 WBNB」然后重试。
+
+**如果您是在交易时遇到该错误：**
+
+请联系您交易的代币发行方，这个问题只能由他们解决。
+{% endtab %}
+
+{% tab title="原因" %}
+**在交易时遇到该错误，是因为发行方将 V1 PancakeSwap 交易路由写死在了他们的代币合约中。**
+
+虽然这种做法非常不明智，但项目方们这样做的原因可能是因为他们的代币经济模型所需。他们的代币，通常会在交易时扣除一部分百分比，并用于添加流动性。
+
+这类受影响的项目代币不太可能会在 V2 交易路由上正常工作，他们需要创建一个新的代币合约，并指向我们的新交易路由地址，然后让现有的代币持有者迁移到新合约。
+
+我们强烈建议任何投放该类代币的项目方做好宣传，以防用户在 V2 上添加流动性。
+
+最新的[最新的交易路由地址：](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E)  
+[https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E)
+{% endtab %}
+{% endtabs %}
+
+### Cannot read property 'toHexString' of undefined
+
+> "Unknown error: "Cannot read property 'toHexString' of undefined"
+
+在交易时，上链操作出错并显示该错误代码。这类错误常见于使用 Trust 钱包的移动设备。
+
+{% tabs %}
+{% tab title="解决方法" %}
+1. 点击设置按钮，增加滑点容差并重试。
+2. 若上述方法没用，请尝试使用别的钱包软件，导入相同助记词并重试。例如 SafePal。
+{% endtab %}
+
+{% tab title="原因" %}
+**这通常发生在使用 Trust 交易代币，但滑点容差不够的情况下。**
+
+发生该问题的详细原因仍在调查中。
+{% endtab %}
+{% endtabs %}
+
+### **Execution reverted: TransferHelper: TRANSFER\_FROM\_FAILED.**
+
+> The transaction cannot succeed due to error: execution reverted: TransferHelper: TRANSFER\_FROM\_FAILED.
+
+{% tabs %}
+{% tab title="解决方法" %}
+1. 请检查您有足够的代币余额用于交易。
+2. 请确保该代币授权于交易路由地址的数量，大于您正在尝试交易的数量。若您不确定，请尝试取消、并重新授权。
+{% endtab %}
+
+{% tab title="原因" %}
+该错误的常见原因为代币授权额度不足，或者没有足够的余额用于交易。
+
+若您正在交易的代币有「弹性调整机制」，例如 tDoge 或 tBTC。请先 [点击此处](https://btcst.medium.com/stp-8-restorative-rebase-b4fbbdfd96c) 了解他们的机制。
+{% endtab %}
+{% endtabs %}
 
 ## **糖浆池相关问题**
 
@@ -142,24 +224,24 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 >
 > \(交易出现此错误导致失败: “BEP20: 销毁数量超出余额”\)
 
-您的钱包中没有足够的SYRUP代币，无法从CAKE-CAKE池中解除质押以提出CAKE。
+您的钱包中没有足够的 SYRUP 代币，无法从 CAKE-CAKE 池中解除质押以提出 CAKE。
 
 {% tabs %}
 {% tab title="解决方法\(一\)" %}
-**购买跟您想解除质押CAKE同等数量的SYRUP代币。**
+**购买跟您想解除质押 CAKE 同等数量的 SYRUP 代币。**
 
-1. 在交易所上购买SYRUP代币。如果您想对100个CAKE解除质押，您需要购买对应数量的100个SYRUP代币。
+1. 在交易所上购买 SYRUP 代币。如果您想解除质押 100 个 CAKE，您需要购买对应数量（100 个）SYRUP 代币。
 2. 再次尝试解除质押。
 {% endtab %}
 
 {% tab title="解决方法\(二\)" %}
-如果还是失败，您可以直接调用合约的“紧急提取”\(emergencyWithdraw\)以对您质押着的代币解除质押。
+如果还是失败，您可以直接调用合约的「紧急提取」\(emergencyWithdraw\) 以紧急解除质押您正在质押的代币。
 
-1. 浏览以下网址: [https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E\#writeContract ](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract%20)
-2. 点击 **“Connect to Web3”** \(连接至Web3\)以连接您的钱包。 ![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
-3. 在第4项：**“4. emergencyWithdraw”**，输入“0”，然后点击**Write**按钮。.
+1. 浏览以下网址： [https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E\#writeContract ](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract%20)
+2. 点击 **“Connect to Web3”** （连接至 Web3）以连接您的钱包。 ![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
+3. 在第 4 项：**“4. emergencyWithdraw”**，输入“0”，然后点击 **Write** 按钮。
 
-虽然紧急提取成功让您解除质押，但这也会导致您失去任何尚未收割的奖励代币\(即CAKE\)收益。
+虽然紧急提取成功让您解除质押，但这也会导致您失去任何尚未收割的奖励代币（即 CAKE）收益。
 
 {% hint style="warning" %}
 **紧急提出会导致您失去尚未收割的奖励代币。**
@@ -167,9 +249,9 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 {% endtab %}
 
 {% tab title="原因" %}
-若想防止这种情况再次发生，**请不要出售您的SYRUP代币**。 您仍然需要SYRUP代币来帮您从“质押CAKE获取CAKE”池中解除质押。
+若想防止这种情况再次发生，**请不要出售您的 SYRUP 代币**。 您仍然需要 SYRUP 代币来帮助您从「质押 CAKE 获取 CAKE」糖浆池中解除质押。
 
-发生此错误的原因是您已经出售或转让了您的SYRUP代币。 当您在CAKE-CAKE糖浆池中质押您的CAKE时，SYRUP会根据与CAKE数量“1:1”的比例铸造出来。 在调用leavesStaking\(即解除CAKE代币质押\)合约函数时，合约会销毁与CAKE数量“1:1”比例的SYRUP代币数量。因此，如果您没有足够的SYRUP代币，您就不能成功解除质押。
+发生此错误的原因是您已经出售或转账了您的 SYRUP 代币。 当您在 CAKE-CAKE 糖浆池中质押您的 CAKE 时，SYRUP 会根据 CAKE 的数量，以 “1:1” 的比例被铸造出来。在调用 leavesStaking （即解除 CAKE 质押）函数时，合约会销毁与 CAKE 数量同等的 SYRUP 代币数量。因此，如果您没有足够的 SYRUP 代币，您将不能成功解除质押。
 
 ![](https://lh4.googleusercontent.com/KchAcnM6cpX2BotEGppAxPAnY4Xbona6yI6ZWg9FlUUBfPi_YO9ulM1s6htXJVXMzEwl0Uxcvdk8o4yhI7ar5g0TRpLVFjkS4YLKL7FS8Z4uFqeC37sw-TIkrPr7BCZQVpuD-5jO)
 {% endtab %}
@@ -185,19 +267,35 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 
 {% tabs %}
 {% tab title="解决方法" %}
-在点击交易确认前，手动调高**Gas限制**\(注意不是Gas价格!\)
+在点击交易确认前，手动调高 **Gas 限制（**注意！不是 Gas 价格！）
 
-一般而言，限制设为200000就很足够了。
+一般而言，限制设为 200000 就足够了。
 
 ![](../.gitbook/assets/image%20%28169%29.png)
 
-以上的例子取自Metamask截图。 如果不确定如何设置Gas限制，请查看您钱包的文档。
+以上的例子取自 Metamask 截图。 如果不确定如何设置 Gas 限制，请查看您钱包的文档。
 {% endtab %}
 
 {% tab title="原因" %}
-基本上，您的钱包\(Metamask, Trust Wallet等\)无法完成其尝试执行的操作。
+基本上，您的钱包（Metamask, Trust Wallet等）无法使用预估的 Gas 限制，完成其尝试执行的操作。
 
-您的钱包所建议的Gas限制太低，因此在合约函数调用完成之前，矿工费已用尽。  
+您的钱包所建议的 Gas 限制太低，因此在合约函数调用完成之前，矿工费已用尽。  
+{% endtab %}
+{% endtabs %}
+
+### BEP20: transfer amount exceeds allowance
+
+> Fail with error 'BEP20: transfer amount exceeds allowance'
+
+{% tabs %}
+{% tab title="Solution" %}
+1. 使用 unrekt.net 解除您正在操作糖浆池的合约授权（您可在各糖浆池详情中找到它们的地址）
+2. 重新授权（点击「启用」）合约，不要更改默认的授权数量。
+3. 重试您正在尝试的操作。
+{% endtab %}
+
+{% tab title="Reason" %}
+该错误的原因是您在最初授权时，设置了一个过低的数量。后期操作时，操作的代币数量超过了剩余授权允许数目。
 {% endtab %}
 {% endtabs %}
 
@@ -211,15 +309,15 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 
 {% tabs %}
 {% tab title="解决方法" %}
-您可以直接调用合约的“紧急提取”\(emergencyWithdraw\)以对您质押着的代币解除质押。
+您可以直接调用合约的「紧急提取」 \(emergencyWithdraw\) 以对您质押着的代币解除质押。
 
-1. 查找您要解除质押的糖浆池的合约地址。您可以在钱包的交易记录中找到该合约地址。
-2. 浏览 [https://bscscan.com/](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract%20) 然后在搜索栏中输入合约地址。
-3. 选择 **“Write Contract”**\(写入合约\)。
-4. 点击 **"Connect to Web3"**\(连接Web3\)以便连接您的钱包。![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
-5. 在第4项：**“4. emergencyWithdraw”**，输入“0”，然后点击**Write**按钮。
+1. 查找您要解除质押的糖浆池的合约地址。您可以在各糖浆池详情中找到他们的 BscScan 页面。
+2. 点击进入，或浏览 [https://bscscan.com/](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract%20) 然后在搜索栏中输入糖浆池的合约地址。
+3. 选择 **“Write Contract”（**写入合约）。
+4. 点击 **"Connect to Web3"（**连接 Web3）以便连接您的钱包。![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
+5. 在第4项：**“4. emergencyWithdraw”**，点击 **Write** 按钮。
 
-虽然紧急提取成功让您解除质押，但这也会导致您失去任何尚未收割的奖励代币收益。
+虽然紧急提取允许您成功解除质押，但这也会导致您失去任何尚未收割的奖励代币。
 
 {% hint style="warning" %}
 **紧急提出会导致您失去尚未收割的奖励代币。**
@@ -231,5 +329,64 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 {% endtab %}
 {% endtabs %}
 
-## \*\*\*\*
+## **Other issues**
+
+## 其他错误
+
+### Provider Error
+
+> Provider Error  
+> No provider was found
+>
+> 提供商错误  
+> 未找到提供商
+
+该错误常见于：点击「浏览器钱包插件连接」，例如 MetaMask 或 Binance Chain Wallet，但您未安装插件时。
+
+{% tabs %}
+{% tab title="解决方法" %}
+安装浏览器插件，并正确连接。请查阅我们关于 [如何正确连接钱包的教程](https://docs.pancakeswap.finance/get-started/connection-guide)。
+{% endtab %}
+{% endtabs %}
+
+### Unsupported Chain ID
+
+不支持的链 ID
+
+请更换您的钱包网络（区块链）到 Binance Smart Chain （币安智能链），如果您不知道如何切换，请查阅您的钱包指南或教程。
+
+### 购买 SAFEMOON 或类似分红代币时遇到错误
+
+要交易 SAFEMOON，您必须点击设置按钮，**并设置您的滑点容差至 12% 或更高。**  
+这是因为 **SafeMoon 每一个交易都会收取 10% 的税：**
+
+* 5% 手续费 = 分红给当前所有持有者
+* 5% 手续费 = 用于添加流动性
+
+这也是为什么您在交易时可能不会收到预计数量的代币的原因。  
+阅读更多关于 [如何交易 SafeMoon](https://community.trustwallet.com/t/how-to-buy-safemoon/155742) 。
+
+### Internal JSON-RPC errors
+
+> "MetaMask - RPC Error: Internal JSON-RPC error. estimateGas failed removeLiquidityETHWithPermitSupportingFeeOnTransferTokens estimateGas failed removeLiquidityETHWithPermit "
+
+常见于使用 MetaMask 解除部分代币的流动性时，具体原因未知，请尝试用别的钱包 App 进行该操作。
+
+> Internal JSON-RPC error. { "code": -32000, "message": "insufficient funds for transfer" } - Please try again.
+
+您没有足够的 BNB 来支付交易矿工费，您的钱包需要更多 BEP-20 网络的 BNB。
+
+### Error: \[ethjs-query\]
+
+> Error: \[ethjs-query\] while formatting outputs from RPC '{"value":{"code":-32603,"data":{"code":-32000,"message":"transaction underpriced"}}}"
+
+在确认交易前，增加 Gas 限制。请查看您钱包的指南，了解如何增加 Gas 限制（注意！不是 Gas 价格）
+
+> Swap failed: Error: \[ethjs-query\] while formatting outputs from RPC '{"value":{"code":-32603,"data":{"code":-32603,"message":"handle request error"}}}'
+
+原因未知。请尝试以下步骤并重试：
+
+1. 增加 Gas 限制
+2. 增加滑点容差
+3. 清除缓存及交易记录
 

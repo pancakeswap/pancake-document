@@ -36,8 +36,6 @@
 
 ## 苹果 iOS
 
-请参会
-
 请参照以下教程使用 WalletConnect 连接 Trust Wallet：
 
 [使用教程（英语）](https://community.trustwallet.com/t/using-walletconnect-to-access-pancakeswap/212307)
