@@ -329,8 +329,6 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 {% endtab %}
 {% endtabs %}
 
-## **Other issues**
-
 ## 其他错误
 
 ### Provider Error
