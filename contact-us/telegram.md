@@ -37,6 +37,7 @@ Here you'll find a list of PancakeSwap's official Social media channels and comm
 * 🇮🇹 Italiano \([https://t.me/pancakeswap\_ita](https://t.me/pancakeswap_ita)\) 
 * 🇹🇷 Türkiye \([https://t.me/pancakeswapturkiye](https://t.me/pancakeswapturkiye)\) 
 * 🇩🇪 🇦🇹 🇨🇭 Deutsch \([https://t.me/PancakeSwap\_DE](https://t.me/PancakeSwap_DE)\)
+* 🇵🇭 Filipino \([https://t.me/Pancakeswap\_Ph](https://t.me/Pancakeswap_Ph)\)
 * 😤 Ban Appeal \([https://t.me/joinchat/C\_9mwknNuKq-cfXQ4-HMHA](https://t.me/joinchat/C_9mwknNuKq-cfXQ4-HMHA)\)
 
 {% hint style="danger" %}
