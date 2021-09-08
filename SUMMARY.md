@@ -27,12 +27,9 @@
 * [🎟 彩票 v2](products/lottery.md)
 * [🔮 预测](products/yu-ce.md)
 * [🖼 NFT 个人档案系统](products/nft-ge-ren-dang-an-xi-tong.md)
-* [IFO \(Initial Farm Offering\)](products/ifo-initial-farm-offering/README.md)
-  * [IFO \(Initial Farm Offering\)](products/ifo-initial-farm-offering/ifo-initial-farm-offering.md)
-* [Info](products/info/README.md)
-  * [Analytics](products/info/pancakeswap-analytics.md)
-* [Voting](products/voting/README.md)
-  * [What is voting?](products/voting/voting.md)
+* [🛍 IFO \(初次农场发行\)](products/ifo-initial-farm-offering.md)
+* [📈 信息站](products/info.md)
+* [🗳 投票](products/voting/README.md)
   * [How to vote with SafePal wallet](products/voting/how-to-vote-with-safepal-wallet.md)
 
 ## Tokenomics

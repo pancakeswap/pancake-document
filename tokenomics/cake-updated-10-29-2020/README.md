@@ -14,9 +14,9 @@
 
 |  | Emission/block \(CAKE\) | Emission/day \(CAKE\) |
 | :--- | ---: | ---: |
-| Emission | 40 | 1,200,000 |
-| Burned | -15 | -450,000 |
-| **Effective Emission** | **25** | **750,000** |
+| Emission | 40 | 1,152,000 |
+| Burned | -25 | -720,000 |
+| **Effective Emission** | **&lt;15** | **386,000** |
 
 ### Distribution:
 
