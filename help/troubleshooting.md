@@ -376,3 +376,39 @@ Cause unclear. Try these steps before trying again:
 2. Increase slippage
 3. Clear cache
 
+## **Issues with Profile**
+
+### Oops! We couldn't find any Pancake Collectibles in your wallet. 
+
+We're investigating the logic behind this issue. Meanwhile please try the workaround.
+
+{% tabs %}
+{% tab title="Workaround 1" %}
+1.  Go to “Collectible” page, then come back to profile page.
+2.  Retry profile creation.
+{% endtab %}
+
+{% tab title="Workaround 2" %}
+Change the environment.
+
+* Clear the cache and retry.
+* Retry on different browser. 
+* Retry on different wallet apps.
+* Retry on the different network \(switch between Wi-Fi and cellular\)
+{% endtab %}
+{% endtabs %}
+
+### Username checking kept spinning
+
+This is considered as network relevant issue.
+
+{% tabs %}
+{% tab title="Solution" %}
+1.  Delete whatever has been entered in the text field completely. 
+2.  Re-type username, then please wait for seconds.
+3.  If it doesn’t work, reload the page and retry again.
+{% endtab %}
+{% endtabs %}
+
+ 
+
