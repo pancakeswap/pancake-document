@@ -398,7 +398,7 @@ Change the environment.
 {% endtab %}
 {% endtabs %}
 
-### Username checking kept spinning
+### Checking username keeps spinning
 
 This is considered as network relevant issue.
 
