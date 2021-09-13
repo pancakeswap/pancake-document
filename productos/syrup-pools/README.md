@@ -12,9 +12,9 @@ Es realmente así de fácil. Algunos Pools especiales te permiten hacer Stake de
 
 ### **Cómo puedo usar los Syrup Pools?** <a id="how-can-i-use-syrup-pools"></a>
 
-[How to Stake in Syrup Pools/products/syrup-pool/syrup-pool-guide](https://docs.pancakeswap.finance/products/syrup-pool/syrup-pool-guide)
+[Cómo hacer stake en los Syrup Pools](https://docs.pancakeswap.finance/v/espanol/productos/syrup-pools/como-hacer-el-stake-en-los-syrup-pools)
 
-[Auto CAKE Syrup Pool/products/syrup-pool/auto-compounding](https://docs.pancakeswap.finance/products/syrup-pool/auto-compounding)
+[Auto CAKE Syrup Pool](https://docs.pancakeswap.finance/products/syrup-pool/auto-compounding)
 
 ### Syrup Pool FAQs & Problemas Generales <a id="syrup-pool-faqs-and-troubleshooting"></a>
 
@@ -24,7 +24,7 @@ Es realmente así de fácil. Algunos Pools especiales te permiten hacer Stake de
 
 Contáctanos vía el [formulario de aplicación](https://docs.pancakeswap.finance/contact-us/business-partnerships).
 
-### Syrup Pool Smart Contracts <a id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
+### Syrup Pool - Smart Contracts <a id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
 
 ​[Manual Syrup Pools](https://docs.pancakeswap.finance/code/smart-contracts/main-staking-masterchef-contract)​
 
