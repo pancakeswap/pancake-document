@@ -384,7 +384,7 @@ We're investigating the logic behind this issue. Meanwhile please try the workar
 
 {% tabs %}
 {% tab title="Workaround 1" %}
-1.  Go to “Collectible” page, then come back to profile page.
+1.  Go to “Collectible” page, then come back to profile page. If you can’t find the link, go to [https://pancakeswap.finance/collectibles](https://pancakeswap.finance/collectibles) directly.
 2.  Retry profile creation.
 {% endtab %}
 
