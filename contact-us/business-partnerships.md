@@ -10,14 +10,14 @@ Syrup Pools are a way of distributing your tokens to BSC users who stake CAKE in
 
 These two products go hand-in-paw on PancakeSwap: when a project provides their tokens for a Syrup Pool, we'll also create a Farm. If you're looking to distribute tokens and incentivize liquidity, get in touch.
 
-[Apply to run a Syrup Pool](https://docs.google.com/forms/d/e/1FAIpQLScUkwbsMWwg7L5jjGjEcmv6RsoCNhFDkV3xEpRu2KcJrr47Sw/viewform?usp=sf_link)
+[Apply to run a Farm or Syrup Pool](https://docs.google.com/forms/d/e/1FAIpQLScUkwbsMWwg7L5jjGjEcmv6RsoCNhFDkV3xEpRu2KcJrr47Sw/viewform?usp=sf_link)
 
 * Please don't email us to apply - we only respond to applications via the application form.
 * Please don't chase us for a response on your application. We have a constant backlog of quality projects reaching out to us.
 
 ### How long will it take to get a response?
 
-We aim to respond to applications within a week, but due to the large number of requests, we’re unable to respond to every single applicant. If you don’t hear back from us within two weeks of applying, try reaching out to t.me/chefbugs on Telegram, with **the name of your project, your token ticker, and the date you applied**.
+We aim to respond to applications within a week, but due to the large number of requests, we’re unable to respond to every single applicant. If you don’t hear back from us within **two weeks** of applying, try reaching out to [t.me/ChefTaro](https://t.me/ChefTaro) or [t.me/chef\_misty](https://t.me/Chef_Misty) on Telegram, with **the name of your project, your token ticker, and the date you applied**.
 
 ### What are the qualifying criteria for Community VS Core?
 
@@ -36,10 +36,14 @@ If you’ve already got an ongoing Pool and Farm, you may be able to extend the 
 
 Learn more about [how IFOs work](../products/ifo-initial-farm-offering/).
 
-[Apply to run an IFO](https://docs.google.com/forms/d/e/1FAIpQLScUkwbsMWwg7L5jjGjEcmv6RsoCNhFDkV3xEpRu2KcJrr47Sw/viewform?usp=sf_link)
+[Apply to run an IFO](https://docs.google.com/forms/d/e/1FAIpQLSf0Vmy3k0KyXtXwqxr8QLjD8Xd6KBAmkYxcBRRVTUYJVX17fA/viewform)
 
 * Please don't email us to apply - we only respond to applications via the application form.
 * Please don't chase us for a response on your application. We have a constant backlog of quality projects reaching out to us.
+
+### How long will it take to get a response?
+
+We aim to respond to applications within a week, but due to the large number of requests, we’re unable to respond to every single applicant. If you don’t hear back from us within **two weeks** of applying, try reaching out to[ t.me/ChefTaro](https://t.me/ChefTaro) or [t.me/chef\_misty](https://t.me/Chef_Misty) on Telegram, with **the name of your project, your token ticker, and the date you applied**.
 
 ## Listing on the Exchange <a id="exchange"></a>
 
