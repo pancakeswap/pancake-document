@@ -124,7 +124,7 @@ This happened because you started making a transaction, but you didn't sign and 
 
 Try modifying the amount on “To” field. Therefore putting "\(estimated\)" symbol on “From”. Then initiate the swap immediately.
 
-![](../.gitbook/assets/pancake-k-solution%20%281%29.png)
+![](../.gitbook/assets/pancake-k-solution%20%282%29.png)
 
 This usually happen when you are trying to swap a token with its own fee.
 
