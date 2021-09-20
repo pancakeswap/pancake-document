@@ -34,6 +34,6 @@
 
 ### **How to apply**
 
-Email **PancakeSwapHiring@protonmail.com** with your resume  
+Email ****[Hiring@pancakeswap.com](mailto:Hiring@pancakeswap.com) ****with your resume  
 
 
