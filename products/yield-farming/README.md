@@ -16,25 +16,35 @@ Check out this great [article about Impermanent Loss ](https://academy.binance.c
 
 ## Reward calculations
 
-Yield Farm APR calculation includes both the rewards earned through providing liquidity and rewards earned staking LP Tokens in the Farm.
+Yield Farm APR calculations include both:
 
-Previously, rewards earned by LP Token-holders generated from trading fees were not included in Farm APR calculations. APR calculations now include these rewards, and better reflect the expected APR for Farm pairs.
+* **LP rewards APR** earned through providing liquidity and;
+* **Farm base rewards APR** earned staking LP Tokens in the Farm.
 
-Below is a basic explanation of how APR is calculated.
+Why? Because when you stake your LP tokens in a farm to earn CAKE, you're still providing liquidity to the liquidity pool, so you earn LP rewards as well!
+
+![](../../.gitbook/assets/frame-1.png)
+
+So how do we calculate those figures?
+
+### Calculating Farm Base Reward APR
+
+The **Farm Base APR** is calculated according to the farm multiplier and the total amount of liquidity in the farm -- this is the amount of CAKE distributed to the farm.
+
+### Calculating LP Reward APR
+
+On top of that, farmers receive **LP rewards** for profiding liquidity. Here's an example of calculating **LP rewards**:
 
 ![](https://lh4.googleusercontent.com/rJswz2qvCNTcODcClHxqlLpanSLsfbGtVw75MMPicBN1iKTKCuEYlPuoFAqskoy24DB9JBmATWb8dk3WmY1_BFDZoS94sWTBZhZrcnG711rC8ltDXPR3gdl8D50eWq_cfiBriKcl)
 
-In the image above of the WBNB/BUSD pair, we see these values:
+In the WBNB/BUSD pair above, we see these values:
 
 **Liquidity:** $387.42M  
 **Volume 24H:** $96.97M  
 **Volume 7D:** 709.73M
 
-To calculate the APR, first we take the 24hour volume, $96,970,000, and calculate the fee-share of LP-holders, 0.17% \[**$96,970,000\*0.17/100 = $164,849\]**.
-
-Next, we estimate the yearly fees based on the 24h volume \[**$164,849\*365 = $60,169,885**\].
-
-Now we can calculate the fee APR with yearly fees divided by liquidity \[\(**$60,169,885/$387,420,000\)\*100 = 15.53%**\]
-
-With the fee APR, we can add the fee APR \(15.53%\) and the Farm staking APR \(20.08%\) to get the new total APR \[**15.53%+20.08% = 35.61%**\].
+* Calculate yearly fees
+  * Use the 24H volume to calculate the **fee share** of liquidity providers in the pool \(based on the 0.17% trading fee structure\): $96,970,000\*0.17/100 = **$164,849**
+  * Next, use that **fee share** to estimate the projected **yearly fees** earned by the pool \(based on the current 24h volume\): $164,849\*365 = **$60,169,885**
+* We can now use the yearly fees to calculate the **LP rewards APR:** That's **yearly fees** divided by **liquidity:** \($60,169,885/$387,420,000\)\*100 = **15.53% LP reward APR**
 
