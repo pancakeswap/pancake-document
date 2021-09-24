@@ -65,7 +65,7 @@ No. Once you enter a position, you can NOT change the directtion, add to, or rem
 
 ### What’s the PancakeSwap Prediction contract address?
 
-Verified contract address: [https://bscscan.com/address/0x516ffd7D1e0Ca40b1879935B2De87cb20Fc1124b](https://bscscan.com/address/0x516ffd7D1e0Ca40b1879935B2De87cb20Fc1124b)
+Verified contract address: [https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda](https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda)
 
 ### Is there a time limit before I can collect my winnings?
 
