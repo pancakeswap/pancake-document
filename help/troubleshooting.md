@@ -402,10 +402,26 @@ Change the environment.
 
 ### Checking username keeps spinning
 
-This is considered as network relevant issue.
+There are two possible causes.
+
+1. You have multiple wallets installed on the browser.
+2. Network issue.
 
 {% tabs %}
-{% tab title="Solution" %}
+{% tab title="Solution 1" %}
+Root cause: You have multiple wallets installed on the browser.  
+  
+It may make a conflict between wallets. This is out of PancakeSwap's control and we can do nothing.
+
+1. Have only single wallet installed on browser, remove the others.
+2. Reconnect the wallet and retry setting username again.
+{% endtab %}
+
+{% tab title="Solution 2" %}
+Root cause: Network is unstable.
+
+You have to retry.
+
 1.  Delete whatever has been entered in the text field completely. 
 2.  Re-type username, then please wait for seconds.
 3.  If it doesn’t work, reload the page and retry again.
