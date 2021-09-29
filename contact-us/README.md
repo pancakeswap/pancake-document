@@ -12,6 +12,8 @@
 
 ### [Apply for an IFO \(Token Sale\)](business-partnerships.md#ifos-token-sales)
 
+### [Apply for the NFT Market](nft-market-applications.md)
+
 #### 
 
 #### Help!
