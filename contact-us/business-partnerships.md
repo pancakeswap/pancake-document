@@ -19,6 +19,10 @@ These two products go hand-in-paw on PancakeSwap: when a project provides their 
 
 We aim to respond to applications within a week, but due to the large number of requests, we’re unable to respond to every single applicant. If you don’t hear back from us within **two weeks** of applying, try reaching out to [t.me/ChefTaro](https://t.me/ChefTaro) or [t.me/chef\_misty](https://t.me/Chef_Misty) on Telegram, with **the name of your project, your token ticker, and the date you applied**.
 
+### What’s the difference between a Core Farm VS Farm Auction
+
+A Core Farm is usually offered to projects who have shown excellent trading volumes on PancakeSwap and have met the standards of our internal review process, while any project can participate in a Farm Auction and win a Farm slot.
+
 ### What are the qualifying criteria for Community VS Core?
 
 Qualifying criteria for Community Farms and Core Farms/Pools are based on our internal review process. We don’t publish them externally. If you’re not eligible for a Core Farm, we may invite you to apply for a Community Farm instead.
@@ -34,7 +38,7 @@ If you’ve already got an ongoing Pool and Farm, you may be able to extend the 
 * Users buy your token with CAKE-BNB LP tokens
 * After the sale, we distribute the BNB to you and burn the CAKE.
 
-Learn more about [how IFOs work](../products/ifo-initial-farm-offering/).
+Learn more about [how IFOs work](https://medium.com/pancakeswap/initial-farm-offering-ifo-2-0-7bfbb1ae0e8).
 
 [Apply to run an IFO](https://docs.google.com/forms/d/e/1FAIpQLSf0Vmy3k0KyXtXwqxr8QLjD8Xd6KBAmkYxcBRRVTUYJVX17fA/viewform)
 
@@ -44,6 +48,10 @@ Learn more about [how IFOs work](../products/ifo-initial-farm-offering/).
 ### How long will it take to get a response?
 
 We aim to respond to applications within a week, but due to the large number of requests, we’re unable to respond to every single applicant. If you don’t hear back from us within **two weeks** of applying, try reaching out to[ t.me/ChefTaro](https://t.me/ChefTaro) or [t.me/chef\_misty](https://t.me/Chef_Misty) on Telegram, with **the name of your project, your token ticker, and the date you applied**.
+
+## NFT Market <a id="exchange"></a>
+
+[Apply to list](nft-market-applications.md#apply-for-nft-market-listing)
 
 ## Listing on the Exchange <a id="exchange"></a>
 
