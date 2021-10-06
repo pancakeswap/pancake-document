@@ -75,6 +75,7 @@
 
 * [Become a Chef](hiring/become-a-chef/README.md)
   * [Business Development Manager](hiring/become-a-chef/business-development-manager.md)
+  * [Product Lead](hiring/become-a-chef/product-lead.md)
   * [Frontend Engineer](hiring/become-a-chef/frontend-engineer.md)
   * [Senior Backend Engineer - JavaScript / TypeScript](hiring/become-a-chef/senior-backend-engineer-javascript-typescript.md)
   * [Solidity Engineer](hiring/become-a-chef/solidity-engineer.md)
