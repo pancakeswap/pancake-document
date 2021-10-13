@@ -35,6 +35,4 @@
 
 ### How to apply
 
-Email [Hiring@pancakeswap.com](mailto:Hiring@pancakeswap.com) with your resume  
-
-
+Email [Hiring@pancakeswap.com](mailto:Hiring@pancakeswap.com) with your resume\

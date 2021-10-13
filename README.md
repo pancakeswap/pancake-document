@@ -2,7 +2,7 @@
 
 
 
-![](.gitbook/assets/masthead-twitter-3-%20%281%29%20%281%29.png)
+![](<.gitbook/assets/masthead-twitter-3- (1) (1).png>)
 
 {% hint style="success" %}
 #### PancakeSwap helps you make the most out of your crypto in three ways:
@@ -16,16 +16,16 @@
 
 ### The people's choice
 
-PancakeSwap is the leading decentralized exchange on Binance Smart Chain, with the highest trading volumes in the market \(sources: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)\).
+PancakeSwap is the leading decentralized exchange on Binance Smart Chain, with the highest trading volumes in the market (sources: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
 
 ### Low fees
 
-Why pay more? PancakeSwap runs on Binance Smart Chain, a blockchain with much lower transaction costs than Ethereum or Bitcoin.   
+Why pay more? PancakeSwap runs on Binance Smart Chain, a blockchain with much lower transaction costs than Ethereum or Bitcoin. \
 Trading fees are lower than other top decentralized exchanges too, so that's a double win for you!
 
 ### Decentralized
 
-Trade directly from your wallet app.   
+Trade directly from your wallet app. \
 Unlike centralized exchanges like Binance or Coinbase, PancakeSwap doesn’t hold your funds when you trade: **you have 100% ownership of your own crypto**. 
 
 ## 💸 Earn
@@ -34,7 +34,7 @@ Unlike centralized exchanges like Binance or Coinbase, PancakeSwap doesn’t hol
 
 ### Earn tokens with Syrup Pools
 
-Stake CAKE, earn free tokens. It’s really that easy.   
+Stake CAKE, earn free tokens. It’s really that easy. \
 CAKE holders right now are earning tens of millions of USD worth of free tokens each week from major projects. New projects join the party every day, so you can earn more, for even longer.
 
 ### Earn CAKE with Yield Farms
@@ -43,7 +43,7 @@ Stake LP tokens, earn CAKE. You take on a little more exposure to market fluctua
 
 ### Earn Trading Fees
 
-No farm? No problem. Even if your trading pair isn’t supported on the Farms page, you can still earn trading fees when you stake your tokens in Liquidity Pools \(LPs\).
+No farm? No problem. Even if your trading pair isn’t supported on the Farms page, you can still earn trading fees when you stake your tokens in Liquidity Pools (LPs).
 
 ## 🎲 Win
 
@@ -51,7 +51,7 @@ No farm? No problem. Even if your trading pair isn’t supported on the Farms pa
 
 ### Lottery 
 
-**Millions of dollars** regularly go up for grabs on the PancakeSwap Lottery.   
+**Millions of dollars** regularly go up for grabs on the PancakeSwap Lottery. \
 Join as many as **11,000 daily players** for your chance to win big!
 
 ### NFT Collectibles 
@@ -60,8 +60,8 @@ Win collectible NFTs for participating in trading competitions and more fun & ga
 
 ### Prediction
 
-Win BNB if you can predict whether the BNB price will rise or fall.  
-New rounds every 5 minutes!  
+Win BNB if you can predict whether the BNB price will rise or fall.\
+New rounds every 5 minutes!\
 
 
 ## Is PancakeSwap safe?
@@ -69,7 +69,7 @@ New rounds every 5 minutes!
 See for yourself:
 
 * Check out these PancakeSwap security audits: 
-  * [Certik’s security audit of PancakeSwap](https://www.certik.org/projects/pancakeswap) and [Certik's Shield insurance](https://shield.certik.foundation/)
+  * [Certik’s security audit of PancakeSwap](https://www.certik.org/projects/pancakeswap) and [Certik's Shield insurance](https://shield.certik.foundation)
   * [Slowmist's security audit of PancakeSwap](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20%20-%20PancakeSwap.pdf)
   * [Slowmist's Auto-CAKE Pool security audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20CakeVault.pdf)
   * [Peckshield's Prediction V2 security audit](https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-PancakeSwap-PredictionV2-v1.0.pdf)
@@ -82,7 +82,6 @@ See for yourself:
 
 
 
-**Sounds like fun?  
-Then get flipping!** 🐰 🥞  
+**Sounds like fun?**\
+**Then get flipping! **🐰 🥞\
 ****
-

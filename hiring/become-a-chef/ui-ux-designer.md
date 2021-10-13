@@ -20,15 +20,13 @@ If you've got a strong interest in gamification and whimsy in user experience, h
 
 ### Requirements
 
-* Thorough understanding of how PancakeSwap's core features \(Exchange, Farming, etc.\) work.
+* Thorough understanding of how PancakeSwap's core features (Exchange, Farming, etc.) work.
 * 3+ years' professional design experience
-* Experience working with \(creating, maintaining, or using\) design systems
+* Experience working with (creating, maintaining, or using) design systems
 * Be able to work autonomously
 * Portfolio demonstrating your direct contributions to multiple projects
 * Passion for gamification in app design
 
 ### How to apply
 
-Email hiring@pancakeswap.com with your portfolio and cover letter.  
-
-
+Email hiring@pancakeswap.com with your portfolio and cover letter.\

@@ -2,12 +2,12 @@
 
 ## Contract roles: 
 
-| Role | Description |
-| :--- | :--- |
-| injectorAddress \(onlyInjector\) | Injector is the address used to fund the lottery with periodic injections |
-| operatorAddress \(onlyOperator\) | The lottery scheduler account used to run regular operations. |
-| treasuryAddress \(onlyTreasury\) | The address in which the burn is sent |
-| Owner \(onlyOwner\) | The contract owner |
+| Role                           | Description                                                               |
+| ------------------------------ | ------------------------------------------------------------------------- |
+| injectorAddress (onlyInjector) | Injector is the address used to fund the lottery with periodic injections |
+| operatorAddress (onlyOperator) | The lottery scheduler account used to run regular operations.             |
+| treasuryAddress (onlyTreasury) | The address in which the burn is sent                                     |
+| Owner (onlyOwner)              | The contract owner                                                        |
 
 ### Owner
 
@@ -27,7 +27,7 @@ Scheduler address - entirely automated and no human interaction. Not on multisig
 
 Address controlled by gnosis multisignature contract with a threshold of 3/6
 
-### Injector Address \(Currently the same as Owner\)
+### Injector Address (Currently the same as Owner)
 
 `0xaD9d97fc7BF0ac6dC68d478dcB3709454519b358`
 
@@ -246,7 +246,7 @@ For **Operator** to draw the final number using ChainLink VRF function.
 
 In the case of tokens other than CAKE mistakenly being sent to the lottery contract, this function is used to recover them and is only callable by the **Owner**
 
-\*\*\*\*
+****
 
 ### `setMinAndMaxTicketPriceInCake` - Owner
 
@@ -329,4 +329,3 @@ Function used to set the **Operator**, **Treasury**, and **Injector** addresses.
 ```
 
 For the **Owner** to update the RandomNumberGenerator contract in case we need to update the drawing logic, or release an update.
-

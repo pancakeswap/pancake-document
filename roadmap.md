@@ -4,40 +4,98 @@ description: '"Don''t call it a roadmap"'
 
 # Roadmap
 
-![](.gitbook/assets/docs-masthead-19-%20%281%29.png)
+![](<.gitbook/assets/docs-masthead-19- (1).png>)
 
-OK so it's not actually a roadmap: it's a to-do list, in no particular order, with no particular timeline. This is how we work: as fast as we can, on the things we can. Pivoting is a way of life.
+Updated Oct. 13, 2021
 
-## **Full Site Rework**
 
-* [x] New homepage
-* [x] Harvest all & stake all
-* [x] Personal dashboard
-* [x] Improved UX
-* [x] Faster site
-* [x] Mobile friendly
-* [x] New navigation system
 
-## **CAKE Staking \(Syrup Pools\)**
+### This is not a roadmap: It’s a to-do list.
 
-* [x] **CAKE Staking**
-* [x] **Core Pools**
-* [x] **Community Pools:** Host BSC community project Pools, support with 0.1-0.2x CAKE farms
-* [x] **Auto-compounding** CAKE-CAKE Syrup Pool
+Crypto moves fast, and we move fast too. 
 
-## Other products
+Pivoting is a way of life. 
 
-* [x] **Lottery \(core feature\)**
-* [x] **Analytics \(core feature\)**
-* [x] **Voting \(core feature\)**
-* [x] **Prediction Markets \(core feature\)**
-* [x] **IFO \(Initial Farm Offering\):** Raise funds for your project in CAKE-BNB LP tokens. After redeeming the LP tokens, the BNB is distributed to the project and the CAKE is burned.
-* [ ] **Lending & Borrowing:** Lend and borrow BSC and LP tokens - CAKE provides rate discount
-* [ ] **Margin Trading:** Trade BSC tokens with leverage on-chain — periodic CAKE buyback and burn
-* [x] **NFT Ecosystem:** Mint, trade, and more — all paid in CAKE
-* [ ] **NFT-based Gamification:** Complete tasks, level up etc. to earn NFTs — use CAKE to mint
-* [ ] **Fixed-term Staking**
-* [x] **Customizable User Profile**
+That means that we don’t publicly commit to specific timelines, so we can organize our development priorities based on market changes and developer resources. 
 
-![Comin&apos; up](.gitbook/assets/image%20%281%29%20%281%29%20%281%29%20%282%29%20%283%29%20%283%29.png)
+![](https://lh3.googleusercontent.com/mFDTc-GpMUbUmBCdIQ56YvNx5-v4szQcZ8wKgux2BzfviFJRCKkJHEM9n_l_xY5sZcqeRo_vlMOE754wEDpK\_81cJ21nbjNXmHq3fIBlowt5FXJm-XGGIMPsEK7e_GxUuX7vCou4=s0)
 
+{% hint style="info" %}
+Items in the Backlog/exploration phase have not been forgotten, they’re just lower priority in the immediate future than those in the other phases. 
+{% endhint %}
+
+### Trade
+
+* Pending
+  * Team Battles/Trading Competitions as a Service: allow BSC projects to sponsor trading competitions on PancakeSwap for their LPs to increase volume (and burn more CAKE) 
+  * Charts & other trading features on-site
+  * Zap (single-sided liquidity provision): Contract is done, waiting for FE resources for integration.
+* Backlog
+  * Limit orders
+  * Other major updates to the trading experience
+* Done
+  * Migration to Exchange V2 (exchange, liquidity, farms)
+  * Major performance upgrades
+  * Team Battle 1
+
+### Earn
+
+* Pending
+  * Integrated liquidity provision flows (relates to Zap in “Trade”)
+* Backlog
+  * Fixed-term Staking
+  * Multi-reward Syrup Pools
+* Done 
+  * CAKE Staking
+  * Core Pools
+  * Community Pools: Host BSC community project Pools, support with 0.1-0.2x CAKE farms
+  * Auto-compounding CAKE-CAKE Syrup Pool
+  * Syrup Pool Boosts
+  * Farm Auctions
+  * APR/APY Calculator v2
+  * Harvest all
+
+### Win
+
+* Pending
+  * UI/UX upgrades to Lottery
+* Backlog
+  * Prediction without using Scheduler
+* Done
+  * Lottery v2
+  * Prediction v0.2
+
+### NFT Ecosystem
+
+* Pending
+  * NFT Market Phase 2 - buy & sell whitelisted NFT collections
+  * Profile Points Ecosystem
+* Backlog
+  * More NFT Utility
+  * NFT-based Gamification: Complete tasks, level up etc. to earn NFTs
+  * NFT Market Phase 3 - open NFT platform
+* Done
+  * Customizable User Profile
+  * NFT drops
+  * Pancake Squad generative NFT collection
+  * NFT Market Phase 1
+
+### Site Upgrades / CAKE / Other Products
+
+* Pending
+  * Personal dashboard
+  * Portfolio
+  * Overview pages for Earn, Win
+  * Ongoing emissions reductions
+* Done
+  * Mobile-first navigation & site overhaul
+  * Analytics
+  * Voting v2
+  * IFOs v2
+* Backlog
+  * Referral System
+  * Hackathon
+  * Lending & Borrowing: Lend and borrow BSC and LP tokens - CAKE provides rate discount
+  * Margin Trading: Trade BSC tokens with leverage on-chain — periodic CAKE buyback and burn
+
+## ****

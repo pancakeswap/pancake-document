@@ -1,6 +1,6 @@
 # 🔮 Prediction
 
-![](../../.gitbook/assets/masthead%20%285%29%20%284%29%20%284%29%20%285%29%20%285%29.png)
+![](<../../.gitbook/assets/masthead (5) (4) (4) (5) (5).png>)
 
 PancakeSwap Prediction is a fun and simple decentralized prediction market.
 
@@ -14,15 +14,18 @@ It's easy to take part:
 
 Have fun!
 
-[~~View V1 smart contract~~](https://bscscan.com/address/0x516ffd7D1e0Ca40b1879935B2De87cb20Fc1124b) ~~\(deprecated\)~~
+[~~View V1 smart contract~~](https://bscscan.com/address/0x516ffd7D1e0Ca40b1879935B2De87cb20Fc1124b)~~ (deprecated)~~
 
-[**View V2 smart contract**](https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda)\*\*\*\*
+[**View V2 smart contract**](https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda)****
 
 ## PancakeSwap Prediction Guides
 
 Get started with Prediction with our guides and FAQs.
 
-{% page-ref page="prediction-guide.md" %}
+{% content-ref url="prediction-guide.md" %}
+[prediction-guide.md](prediction-guide.md)
+{% endcontent-ref %}
 
-{% page-ref page="prediction-faq.md" %}
-
+{% content-ref url="prediction-faq.md" %}
+[prediction-faq.md](prediction-faq.md)
+{% endcontent-ref %}

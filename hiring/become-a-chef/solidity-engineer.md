@@ -5,7 +5,7 @@
 * **Salary range:** $120k - $250k+ US Annual salary
 * **Position:** Full-time
 * **Location:** Remote
-* **Time-zone preference:** Any
+* **Time-zone preference: **Any
 
 ### Your Responsibilities
 
@@ -35,4 +35,3 @@
 ### How to apply:
 
 Email [Hiring@pancakeswap.com](mailto:Hiring@pancakeswap.com) with your resume
-

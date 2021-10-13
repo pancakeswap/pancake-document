@@ -9,7 +9,7 @@ This FAQ page answers some of the more commonly asked questions from the Pancake
 See for yourself:
 
 * Check out these PancakeSwap security audits: 
-  * [Certik’s security audit of PancakeSwap](https://www.certik.org/projects/pancakeswap) and [Certik's Shield insurance](https://shield.certik.foundation/)
+  * [Certik’s security audit of PancakeSwap](https://www.certik.org/projects/pancakeswap) and [Certik's Shield insurance](https://shield.certik.foundation)
   * [Slowmist's security audit of PancakeSwap](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20%20-%20PancakeSwap.pdf)
   * [Slowmist's Auto-CAKE Pool security audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20CakeVault.pdf)
   * [Peckshield's Lottery V2 Audit](https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-PancakeswapLottery-v1.0.pdf)
@@ -31,10 +31,10 @@ Read our [How to Stake in Syrup Pools guide](https://docs.pancakeswap.finance/pr
 
 Staking in Syrup Pools and farming with Yield Farming are both ways to earn more CAKE by supporting PancakeSwap.
 
-Staking only needs some CAKE to be added to a Syrup Pool to earn CAKE or other tokens.  
+Staking only needs some CAKE to be added to a Syrup Pool to earn CAKE or other tokens.\
 [Learn more about Syrup Pool staking.](https://docs.pancakeswap.finance/products/syrup-pool)
 
-Farming is more complicated and needs LP Tokens to earn CAKE.  
+Farming is more complicated and needs LP Tokens to earn CAKE.\
 [Learn more about Yield Farming.](https://docs.pancakeswap.finance/products/yield-farming)
 
 ## How do I farm?
@@ -55,7 +55,7 @@ It depends on your needs. We have an [in-depth guide to selecting and creating a
 
 ## Why is my transaction failing?
 
-You can check the status of a transaction on [https://bscscan.com/](https://bscscan.com/).
+You can check the status of a transaction on [https://bscscan.com/](https://bscscan.com).
 
 Our [Troubleshooting Errors guide](https://docs.pancakeswap.finance/help/troubleshooting) may have a solution for your problem if you're having issues.
 
@@ -87,7 +87,7 @@ Learn how to find smart contracts on our [Finding Contracts page](https://docs.p
 
 ## Why does it say I have no BNB balance?
 
-If you've already [transferred BNB into your Binance Smart Chain-enabled wallet](https://docs.pancakeswap.finance/get-started/bep20-guide) but still have this error, you're most likely not [connected to Binance Smart Chain](https://docs.pancakeswap.finance/get-started/connection-guide) within your wallet. Check your wallet's selected network and make sure you have Binance Smart Chain \(BSC\) selected.
+If you've already [transferred BNB into your Binance Smart Chain-enabled wallet](https://docs.pancakeswap.finance/get-started/bep20-guide) but still have this error, you're most likely not [connected to Binance Smart Chain](https://docs.pancakeswap.finance/get-started/connection-guide) within your wallet. Check your wallet's selected network and make sure you have Binance Smart Chain (BSC) selected.
 
 ## How do I vote?
 
@@ -95,8 +95,8 @@ To learn more about voting, you can [read our section on Voting](https://docs.pa
 
 ## What is the max supply of CAKE?
 
-$CAKE does not have a maximum supply. The circulating supply is managed through built-in burning and regular burning events.  
-  
+$CAKE does not have a maximum supply. The circulating supply is managed through built-in burning and regular burning events.\
+\
 Read this to [learn more about PancakeSwap's tokenomics](https://docs.pancakeswap.finance/tokenomics/cake).
 
 ## What are the treasury funds used for?
@@ -107,7 +107,7 @@ The treasury funds are used to cover the expenses involved in running PancakeSwa
 
 You can check the analytics of PancakeSwap by click on the "Analytics" tab on the top menu or by clicking the link below.
 
-Analytics: [https://pancakeswap.info/](https://pancakeswap.info/)
+Analytics: [https://pancakeswap.info/](https://pancakeswap.info)
 
 ## Is PancakeSwap protected from flashloan attacks?
 
@@ -128,6 +128,4 @@ SYRUP was a part of the staking process earlier in PancakeSwap's life. SYRUP was
 ## I can't find an answer for my question. Where do I find an answer?
 
 If you can't find what you're looking for in PancakeSwap's documentation, ask your question on [PancakeSwap's official social media platforms](https://docs.pancakeswap.finance/contact-us/telegram) and someone will do their best to help you out.
-
-
 

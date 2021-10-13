@@ -5,7 +5,8 @@
 * Salary range: $120k-160k US Annual salary
 * Position: Full-time
 * Location: Remote
-* Time-zone preference: Any ****
+* Time-zone preference: Any\
+  ****
 
 ### **Your Responsibilities**
 
@@ -18,7 +19,7 @@
 
 ### **Skills & Qualifications**
 
-* Solid experience with GraphQL and subgraphs \(Extremely important\)
+* Solid experience with GraphQL and subgraphs (Extremely important)
 * Ability to write structured and clean code
 * Experience with Javascript testing tools
 * Experience with Web3 and Ethereum nodes
@@ -34,6 +35,4 @@
 
 ### **How to apply**
 
-Email ****[Hiring@pancakeswap.com](mailto:Hiring@pancakeswap.com) ****with your resume  
-
-
+Email** **[Hiring@pancakeswap.com](mailto:Hiring@pancakeswap.com)** **with your resume\
