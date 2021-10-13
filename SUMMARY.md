@@ -41,11 +41,11 @@
 * [🖼 NFT Profile System](products/nft-profile-system/README.md)
   * [How to Set Up an NFT Profile](products/nft-profile-system/profile-guide.md)
   * [Teams](products/nft-profile-system/teams.md)
-* [🛍 IFO \(Initial Farm Offering\)](products/ifo-initial-farm-offering/README.md)
+* [🛍 IFO (Initial Farm Offering)](products/ifo-initial-farm-offering/README.md)
   * [How to Participate in an IFO](products/ifo-initial-farm-offering/ifo-guide.md)
   * [How to Participate in an IFO with BscScan](products/ifo-initial-farm-offering/how-to-participate-in-an-ifo-with-bscscan.md)
   * [Contract Details](products/ifo-initial-farm-offering/contract-details.md)
-* [📈 Analytics \(Info\)](products/info/README.md)
+* [📈 Analytics (Info)](products/info/README.md)
   * [Analytics](products/info/pancakeswap-analytics.md)
 * [🗳 Voting](products/voting/README.md)
   * [How to Vote](products/voting/voting-guide.md)
@@ -57,7 +57,7 @@
   * [CAKE Tokenomics](tokenomics/cake/cake-tokenomics.md)
   * [Controlling CAKE supply](tokenomics/cake/controlling-cake-supply.md)
 
-## Developers <a id="code"></a>
+## Developers <a href="code" id="code"></a>
 
 * [Contributing](code/contributing/README.md)
   * [Codebase Overview](code/contributing/codebase-overview.md)
@@ -67,13 +67,14 @@
     * [Factory v2](code/smart-contracts/pancakeswap-exchange/factory-v2.md)
     * [Router v2](code/smart-contracts/pancakeswap-exchange/router-v2.md)
   * [Main Staking/Syrup Pool/MasterChef Contract](code/smart-contracts/main-staking-masterchef-contract.md)
-  * [Auto CAKE Syrup Pool \(CakeVault\)](code/smart-contracts/cakevault.md)
+  * [Auto CAKE Syrup Pool (CakeVault)](code/smart-contracts/cakevault.md)
   * [Prediction V2](code/smart-contracts/prediction-v2.md)
   * [Lottery v2](code/smart-contracts/lottery-v2.md)
 
 ## Hiring
 
 * [Become a Chef](hiring/become-a-chef/README.md)
+  * [Social Media Marketing Manager](hiring/become-a-chef/social-media-marketing-manager.md)
   * [Business Development Manager](hiring/become-a-chef/business-development-manager.md)
   * [Product Lead](hiring/become-a-chef/product-lead.md)
   * [Frontend Engineer](hiring/become-a-chef/frontend-engineer.md)
@@ -82,7 +83,7 @@
   * [Blockchain QA Engineer](hiring/become-a-chef/senior-qa-engineer.md)
   * [UI/UX Designer](hiring/become-a-chef/ui-ux-designer.md)
 
-## Contract Governance <a id="governance"></a>
+## Contract Governance <a href="governance" id="governance"></a>
 
 * [Lottery](governance/lottery/README.md)
   * [Lottery Contract](governance/lottery/lottery-contract.md)
@@ -91,4 +92,3 @@
 * [Syrup Pools](governance/syrup-pools/README.md)
   * [SmartChefInitializable](governance/syrup-pools/smartchefinitializable.md)
   * [PoolDeployer](governance/syrup-pools/pooldeployer.md)
-
