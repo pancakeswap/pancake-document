@@ -9,7 +9,7 @@ If you've got a strong interest in gamification and whimsy in user experience, h
 * **Salary range:** Competitive, open to negotiation
 * **Position:** Full-time
 * **Location:** Remote
-* **Time-zone preference:** Any
+* **Time-zone preference: **Any
 
 ### Responsibilities
 
@@ -20,9 +20,9 @@ If you've got a strong interest in gamification and whimsy in user experience, h
 
 ### Requirements
 
-* Thorough understanding of how PancakeSwap's core features \(Exchange, Farming, etc.\) work.
+* Thorough understanding of how PancakeSwap's core features (Exchange, Farming, etc.) work.
 * 3+ years' professional design experience
-* Experience working with \(creating, mantaining, or using\) design systems
+* Experience working with (creating, mantaining, or using) design systems
 * Be able to work autonomously
 * Portfolio demonstrating your diret contributions to multiple projects
 * Passion for gamification in app design
@@ -30,4 +30,3 @@ If you've got a strong interest in gamification and whimsy in user experience, h
 ### How to apply
 
 Email PancakeSwap@gmail.com with your portfolio and cover letter.
-

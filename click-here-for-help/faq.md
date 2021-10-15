@@ -1,6 +1,6 @@
 # 常见问题解答
 
-![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbAxZIJGgk1QpS48uum%2F-MbAxk6fW4tsBsVDJVMR%2Fdocs%20masthead%20%2817%29.png?alt=media&token=a7b52851-0c4d-4249-901d-da79120f3eac)
+![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbAxZIJGgk1QpS48uum%2F-MbAxk6fW4tsBsVDJVMR%2Fdocs%20masthead%20\(17\).png?alt=media\&token=a7b52851-0c4d-4249-901d-da79120f3eac)
 
 该页面会解答一些在 PancakeSwap  社区中最常见的问题。
 
@@ -9,7 +9,7 @@
 眼见为实：
 
 * 查看这些对于 PancakeSwap 的安全审计报告：
-  * [Certik 对 PancakeSwap 的安全审计](https://www.certik.org/projects/pancakeswap) 和 [Certik 保险盾](https://shield.certik.foundation/)
+  * [Certik 对 PancakeSwap 的安全审计](https://www.certik.org/projects/pancakeswap) 和 [Certik 保险盾](https://shield.certik.foundation)
   * [慢雾 对 PancakeSwap 的安全审计](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20%20-%20PancakeSwap.pdf)
   * [慢雾 对自动蛋糕 Syrup 资金池的安全审计](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20CakeVault.pdf)
   * [派盾 对 彩票V2 合约的审计](https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-PancakeswapLottery-v1.0.pdf)
@@ -31,10 +31,10 @@
 
 无论是在糖浆池，还是在农场中质押。均是支持 PancakeSwap 发展的方式，均可为您赚取更多的 CAKE 或其他代币。
 
-糖浆池质押挖矿仅需要您质押 CAKE 到糖浆池中，即可赚取 CAKE 或其他代币。  
+糖浆池质押挖矿仅需要您质押 CAKE 到糖浆池中，即可赚取 CAKE 或其他代币。\
 [了解更多关于糖浆池质押的信息](https://docs.pancakeswap.finance/products/syrup-pool)。
 
-CAKE.农场流动性挖矿稍加复杂，并且需要 LP（流动性）凭证来赚取 CAKE。  
+CAKE.农场流动性挖矿稍加复杂，并且需要 LP（流动性）凭证来赚取 CAKE。\
 [了解更多关于农场挖矿的信息](https://docs.pancakeswap.finance/products/yield-farming)。
 
 ## 我该怎样进行农场流动性挖矿？
@@ -55,7 +55,7 @@ CAKE.农场流动性挖矿稍加复杂，并且需要 LP（流动性）凭证来
 
 ## 为什么我的交易失败了？
 
-您可以在 [https://bscscan.com/](https://bscscan.com/) 查看您的链上交易状态及失败/错误的原因。您需要复制交易 ID \(tx id\) 并在搜索栏中粘贴查看。
+您可以在 [https://bscscan.com/](https://bscscan.com) 查看您的链上交易状态及失败/错误的原因。您需要复制交易 ID (tx id) 并在搜索栏中粘贴查看。
 
 若您看到具体的错误代码，请参考 [错误排除指南](https://docs.pancakeswap.finance/help/troubleshooting)。
 
@@ -65,9 +65,9 @@ CAKE.农场流动性挖矿稍加复杂，并且需要 LP（流动性）凭证来
 
 PancakeSwap 糖浆池上新相当频繁，在上线前我们均会发布公告。
 
-请订阅 [英文电报 \(Telegram\) 公告频道](https://t.me/PancakeSwapAnn) ，第一时间获取最新资讯。
+请订阅 [英文电报 (Telegram) 公告频道](https://t.me/PancakeSwapAnn) ，第一时间获取最新资讯。
 
-## 农场年化利率 \(APR\) 的计算变了吗？
+## 农场年化利率 (APR) 的计算变了吗？
 
 在此之前，通过交易手续费赚取的流动性提供者奖励并未计算在农场年化利率中。现在，农场年化利率将包括那些奖励，以便准确地展现实际的农场年化利率。
 
@@ -87,7 +87,7 @@ PancakeSwap 糖浆池上新相当频繁，在上线前我们均会发布公告�
 
 ## 为什么钱包提醒「没有 BNB 余额」？
 
-若您已经 [向您的币安智能链 \(Binance Smart Chain\) 钱包转入了 BNB](https://docs.pancakeswap.finance/get-started/bep20-guide) 但仍然显示该错误，您很可能没有 [将您的钱包连接至币安智能链 \(Binance Smart Chain\)](https://docs.pancakeswap.finance/get-started/connection-guide) ，请检查您钱包当前所处的区块链网络，并确保已经选择币安智能链 \(Binance Smart Chain, BSC\)。
+若您已经 [向您的币安智能链 (Binance Smart Chain) 钱包转入了 BNB](https://docs.pancakeswap.finance/get-started/bep20-guide) 但仍然显示该错误，您很可能没有 [将您的钱包连接至币安智能链 (Binance Smart Chain)](https://docs.pancakeswap.finance/get-started/connection-guide) ，请检查您钱包当前所处的区块链网络，并确保已经选择币安智能链 (Binance Smart Chain, BSC)。
 
 ## 如何投票？
 
@@ -95,8 +95,8 @@ PancakeSwap 糖浆池上新相当频繁，在上线前我们均会发布公告�
 
 ## CAKE 的总量是多少？
 
-$CAKE 没有一个设定的最大总量，总流通量通过各种销毁手段得以控制。  
-  
+$CAKE 没有一个设定的最大总量，总流通量通过各种销毁手段得以控制。\
+\
 请阅读 [更多关于 PancakeSwap 的代币经济模型](https://docs.pancakeswap.finance/tokenomics/cake)。
 
 ## 储备金库内的资金一般用于什么用途？
@@ -107,11 +107,11 @@ $CAKE 没有一个设定的最大总量，总流通量通过各种销毁手段�
 
 您可以通过点击菜单栏中的「信息」，查看 PancakeSwap 及上面所有可交易代币们的数据。
 
-Info 信息站：[https://pancakeswap.info/](https://pancakeswap.info/)
+Info 信息站：[https://pancakeswap.info/](https://pancakeswap.info)
 
 ## PancakeSwap 会遭受闪电贷攻击吗？
 
-PancakeSwap 的质押池们均有抵御闪电贷的保护机制。PancakeSwap 的 CAKE 代币不受闪电贷影响。不像那些遭受攻击的代币，CAKE 代币的铸造是预先制定、无法改变的。它不会受某个单一参数或交易的影响。同时，拥有者权限无法转移至除主质押合约 \(MasterChef\) 以外地址。
+PancakeSwap 的质押池们均有抵御闪电贷的保护机制。PancakeSwap 的 CAKE 代币不受闪电贷影响。不像那些遭受攻击的代币，CAKE 代币的铸造是预先制定、无法改变的。它不会受某个单一参数或交易的影响。同时，拥有者权限无法转移至除主质押合约 (MasterChef) 以外地址。
 
 PancakeSwap 其他智能合约，例如 IFO 和自动 CAKE 糖浆池，同样受到保护。他们将阻止任何外部合约与他们进行互动，直接大幅缩小可被攻击的可能性。
 
@@ -130,4 +130,3 @@ SYRUP 代币曾经是 PancakeSwap 早期质押过程中的一部分。后来，S
 ## 上述答案没有解决我的问题，我应该在哪里寻求帮助？
 
 如果您在文档中没有找到问题的解答，请在 [PancakeSwap 官方社交频道](https://docs.pancakeswap.finance/contact-us/telegram) 中询问您的问题。社区志愿者们将尽可能地帮助您。
-

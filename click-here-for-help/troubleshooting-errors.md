@@ -6,11 +6,11 @@ description: 常见错误信息。 使用侧边栏快速查找您的错误代码
 
 ## **交易相关问题**
 
-### **INSUFFICIENT\_OUTPUT\_AMOUNT**
+### **INSUFFICIENT_OUTPUT_AMOUNT**
 
-> The transaction cannot succeed due to error: PancakeRouter: INSUFFICIENT\_OUTPUT\_AMOUNT. This is probably an issue with one of the tokens you are swapping.
+> The transaction cannot succeed due to error: PancakeRouter: INSUFFICIENT_OUTPUT_AMOUNT. This is probably an issue with one of the tokens you are swapping.
 >
-> \(交易由于此错误而无法成功：PancakeRouter：INSUFFICIENT\_OUTPUT\_AMOUNT。问题可能出自您正在兑换的其中一个代币\)
+> (交易由于此错误而无法成功：PancakeRouter：INSUFFICIENT_OUTPUT_AMOUNT。问题可能出自您正在兑换的其中一个代币)
 
 您正在尝试兑换代币，但您设置的滑点容限太低或您兑换的代币流动性太低。
 
@@ -20,7 +20,8 @@ description: 常见错误信息。 使用侧边栏快速查找您的错误代码
 2. 尝试交易较小的金额。
 3. 调高滑点容限：
    1. 点击兑换页面上的设置图标。
-   2. 逐步调高滑点容限，然后重试。 ![](../.gitbook/assets/image%20%289%29%20%284%29%20%282%29%20%284%29.png)
+   2. 逐步调高滑点容限，然后重试。\
+      ![](<../.gitbook/assets/image (9) (4) (2) (4).png>)
 4. 若还是不行，您可以尝试减少兑换金额的小数点位数。
 {% endtab %}
 
@@ -33,19 +34,19 @@ description: 常见错误信息。 使用侧边栏快速查找您的错误代码
 {% endtab %}
 {% endtabs %}
 
-### **INSUFFICIENT\_A\_AMOUNT or INSUFFICIENT\_B\_AMOUNT**
+### **INSUFFICIENT_A_AMOUNT or INSUFFICIENT_B_AMOUNT**
 
-> Fail with error 'PancakeRouter: INSUFFICIENT\_A\_AMOUNT'
+> Fail with error 'PancakeRouter: INSUFFICIENT_A_AMOUNT'
 >
-> \(交易出现此错误导致失败: "PancakeRouter: A代币不足"\)
+> (交易出现此错误导致失败: "PancakeRouter: A代币不足")
 >
 > 或
 >
-> Fail with error 'PancakeRouter: INSUFFICIENT\_B\_AMOUNT'
+> Fail with error 'PancakeRouter: INSUFFICIENT_B_AMOUNT'
 >
-> \(交易出现此错误导致失败: "PancakeRouter: B代币不足"\)
+> (交易出现此错误导致失败: "PancakeRouter: B代币不足")
 
-您正在尝试从流动性池\(LP\)添加或解除流动性，但是该交易对中的其中一个代币不足。
+您正在尝试从流动性池(LP)添加或解除流动性，但是该交易对中的其中一个代币不足。
 
 {% tabs %}
 {% tab title="解决方法" %}
@@ -54,9 +55,9 @@ description: 常见错误信息。 使用侧边栏快速查找您的错误代码
 还是不行？
 
 1. 点击流动性页面上的设置图标。
-2. 逐步调高滑点容限，然后重试。
+2.  逐步调高滑点容限，然后重试。
 
-   ![](../.gitbook/assets/image%20%289%29%20%284%29%20%282%29%20%284%29.png)
+    ![](<../.gitbook/assets/image (9) (4) (2) (4).png>)
 {% endtab %}
 
 {% tab title="原因" %}
@@ -64,7 +65,7 @@ description: 常见错误信息。 使用侧边栏快速查找您的错误代码
 
 其中一个可能的情况是，当您的滑点容限设置太低时，价格更新太快导致。
 
-![](https://lh5.googleusercontent.com/T1KMtz2ILDVHljGw1iLbIv0W1KVl7qXL8zU2nLFHkUvDb5oMw9mpUzzBwWmIBz15XDsxZ5w7wsaqAwCs_pxdobz_kY_7BhcZhYtpqWuQGFs23DZq98-SVInlfsS07WzxFPLIYXHt)
+![](https://lh5.googleusercontent.com/T1KMtz2ILDVHljGw1iLbIv0W1KVl7qXL8zU2nLFHkUvDb5oMw9mpUzzBwWmIBz15XDsxZ5w7wsaqAwCs_pxdobz_kY\_7BhcZhYtpqWuQGFs23DZq98-SVInlfsS07WzxFPLIYXHt)
 
 
 
@@ -78,35 +79,36 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 
 ### **批准并授权合约提取您的钱包里的LP代币**
 
-浏览您要授权的LP代币合约地址。   
+浏览您要授权的LP代币合约地址。 \
 以下示范例子是ETH/WBNB对：[https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422](https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422)
 
-1. 选择 “**Write Contract”** \(写入合约\)**，**然后点击 “**Connect to Web3”** \(连接至Web3\)以连接您的钱包。 ![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
-2. 在第一项**"1. approve"**，通过输入以下内容批准Router合约提取您的LP代币。输入完毕后点击 **Write** 按钮。
-   1. spender \(address\): 输入Router合约地址
-   2. value \(uint256\): -1
+1. 选择 “**Write Contract” **(写入合约)**，**然后点击 “**Connect to Web3” **(连接至Web3)以连接您的钱包。\
+   ![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
+2. 在第一项**"1. approve"**，通过输入以下内容批准Router合约提取您的LP代币。输入完毕后点击 **Write **按钮。
+   1. spender (address): 输入Router合约地址
+   2. value (uint256): -1
 
 ### 查询LP余额"balanceOf"
 
-1. 选择 **“Read Contract”** \(读取合约\)
-2. 在第五项 **"5. balanceOf"**，输入您的钱包地址然后点击 **Query** 按钮。
+1. 选择 **“Read Contract” **(读取合约)
+2. 在第五项 **"5. balanceOf"**，输入您的钱包地址然后点击 **Query **按钮。
 3. 记下显示的余额。这余额显示的格式是uint256。您的下一个步骤需要输入这余额。
 
-![](../.gitbook/assets/image%20%2832%29.png)
+![](<../.gitbook/assets/image (32).png>)
 
 ### 添加或解除流动性
 
-浏览以下Router合约网址: [https://bscscan.com/address/0x05ff2b0db69458a0750badebc4f9e13add608c7f\#writeContract](https://bscscan.com/address/0x05ff2b0db69458a0750badebc4f9e13add608c7f#writeContract)
+浏览以下Router合约网址: [https://bscscan.com/address/0x05ff2b0db69458a0750badebc4f9e13add608c7f#writeContract](https://bscscan.com/address/0x05ff2b0db69458a0750badebc4f9e13add608c7f#writeContract)
 
-1. 跟之前一样，选择 **“Write Contract”** 然后点击 **“Connect to Web3”**。
-2. 寻找 **addLiquidity** 或 **removeLiquidity** \(根据当下你想做的操作\)
+1. 跟之前一样，选择 **“Write Contract” **然后点击 **“Connect to Web3”**。
+2. 寻找 **addLiquidity** 或** removeLiquidity** (根据当下你想做的操作)
 3. 输入LP的两个代币地址，即代币A与代币B的合约地址。
-4. 在 **“liquidity \(uint256\)”** 这一栏位，输入您从之前的步骤获得的uint256格式LP余额\(即"balanceOf"\)。
+4. 在 **“liquidity (uint256)” **这一栏位，输入您从之前的步骤获得的uint256格式LP余额(即"balanceOf")。
 5. 设置低额的 **amountAMin** 或 **amountBMin**: 两个都尝试 “1” 这个值。
-6. 在 **“to \(address\)”** 这一栏位输入您的钱包地址。
-7. **Deadline** \(截止时间\)必须是大于执行此交易的纪元\(epoch\)时间。
+6. 在 **“to (address)” **这一栏位输入您的钱包地址。
+7. **Deadline** (截止时间)必须是大于执行此交易的纪元(epoch)时间。
 
-![](../.gitbook/assets/image%20%2819%29.png)
+![](<../.gitbook/assets/image (19).png>)
 
 {% hint style="warning" %}
 这可能会导致很高的滑点，并且如果被机器人抢跑，可能会导致您损失一些资金。
@@ -118,9 +120,9 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 
 > The transaction cannot succeed due to error: PancakeRouter: EXPIRED. This is probably an issue with one of the tokens you are swapping.
 >
-> \(交易由于此错误而无法成功: PancakeRouter: 逾期。 这可能是因为您正在兑换的一个代币存在某些问题\)
+> (交易由于此错误而无法成功: PancakeRouter: 逾期。 这可能是因为您正在兑换的一个代币存在某些问题)
 
-再试一次，但是在交易产生后立即确认\(即签名并往链上广播\)该交易。 
+再试一次，但是在交易产生后立即确认(即签名并往链上广播)该交易。 
 
 发生这种情况是因为您在交易产生后，没有足够快地点击“确认”按钮，而是等到期限过后才进行签名与链上广播。 
 
@@ -134,11 +136,11 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 
 ![](../.gitbook/assets/pancake-k-error.png)
 
-### Pancake: TRANSFER\_FAILED
+### Pancake: TRANSFER_FAILED
 
-> The transaction cannot succeed due to error: execution reverted: Pancake: TRANSFER\_FAILED.
+> The transaction cannot succeed due to error: execution reverted: Pancake: TRANSFER_FAILED.
 
-在交易前，请确保您有额外 30% 数量的代币在您的钱包内。或者，尝试交易一个较少的数额。如果您想卖出最大可能的数目，请尝试设置数量为总数的 70% 或者 69%，不要设置为 100%。这个问题导致的原因是类似 tDoge 和 tBTC 代币所实行的「实时恢复性调整」。  
+在交易前，请确保您有额外 30% 数量的代币在您的钱包内。或者，尝试交易一个较少的数额。如果您想卖出最大可能的数目，请尝试设置数量为总数的 70% 或者 69%，不要设置为 100%。这个问题导致的原因是类似 tDoge 和 tBTC 代币所实行的「实时恢复性调整」。\
 [点击此处了解弹性调整代币](https://btcst.medium.com/stp-8-restorative-rebase-b4fbbdfd96c)。
 
 另一个可能的原因是：该恶意代币的项目方暂停了所有的交易，或者设置为仅允许买入不允许卖出，或者仅允许部分地址卖出。任何人都可以发行 BEP-20 代币并在 PancakeSwap 上交易。所以，在交易任何代币前，请充分做好调查，谨防受骗上当。如果您尝试卖出但失败的代币来自于空投，这很可能是诈骗。请不要进行任何授权操作，更不要跟随任何提示跳转到第三方网站操作，您钱包内的资产将由被盗风险。
@@ -175,7 +177,7 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 
 我们强烈建议任何投放该类代币的项目方做好宣传，以防用户在 V2 上添加流动性。
 
-最新的[最新的交易路由地址：](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E)  
+最新的[最新的交易路由地址：](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E)\
 [https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E)
 {% endtab %}
 {% endtabs %}
@@ -199,9 +201,9 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 {% endtab %}
 {% endtabs %}
 
-### **Execution reverted: TransferHelper: TRANSFER\_FROM\_FAILED.**
+### **Execution reverted: TransferHelper: TRANSFER_FROM_FAILED.**
 
-> The transaction cannot succeed due to error: execution reverted: TransferHelper: TRANSFER\_FROM\_FAILED.
+> The transaction cannot succeed due to error: execution reverted: TransferHelper: TRANSFER_FROM_FAILED.
 
 {% tabs %}
 {% tab title="解决方法" %}
@@ -222,24 +224,26 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 
 > Fail with error 'BEP20: burn amount exceeds balance'
 >
-> \(交易出现此错误导致失败: “BEP20: 销毁数量超出余额”\)
+> (交易出现此错误导致失败: “BEP20: 销毁数量超出余额”)
 
 您的钱包中没有足够的 SYRUP 代币，无法从 CAKE-CAKE 池中解除质押以提出 CAKE。
 
 {% tabs %}
-{% tab title="解决方法\(一\)" %}
+{% tab title="解决方法(一)" %}
 **购买跟您想解除质押 CAKE 同等数量的 SYRUP 代币。**
 
 1. 在交易所上购买 SYRUP 代币。如果您想解除质押 100 个 CAKE，您需要购买对应数量（100 个）SYRUP 代币。
 2. 再次尝试解除质押。
 {% endtab %}
 
-{% tab title="解决方法\(二\)" %}
-如果还是失败，您可以直接调用合约的「紧急提取」\(emergencyWithdraw\) 以紧急解除质押您正在质押的代币。
+{% tab title="解决方法(二)" %}
+如果还是失败，您可以直接调用合约的「紧急提取」(emergencyWithdraw) 以紧急解除质押您正在质押的代币。
 
-1. 浏览以下网址： [https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E\#writeContract ](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract%20)
-2. 点击 **“Connect to Web3”** （连接至 Web3）以连接您的钱包。 ![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
-3. 在第 4 项：**“4. emergencyWithdraw”**，输入“0”，然后点击 **Write** 按钮。
+1. 浏览以下网址：\
+   [https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract ](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract)
+2. 点击 **“Connect to Web3”** （连接至 Web3）以连接您的钱包。\
+   ![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
+3. 在第 4 项：**“4. emergencyWithdraw”**，输入“0”，然后点击 **Write **按钮。
 
 虽然紧急提取成功让您解除质押，但这也会导致您失去任何尚未收割的奖励代币（即 CAKE）收益。
 
@@ -259,11 +263,11 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 
 ### Out of Gas error
 
-> Warning! Error encountered during contract execution \[out of gas\]
+> Warning! Error encountered during contract execution \[out of gas]
 >
-> \(警告！合约执行过程中遇到错误\[矿工费已用尽\]\)
+> (警告！合约执行过程中遇到错误\[矿工费已用尽])
 
-您设置的**Gas Limit**\(矿工费限制/网络费用限制\)过低。
+您设置的**Gas Limit**(矿工费限制/网络费用限制)过低。
 
 {% tabs %}
 {% tab title="解决方法" %}
@@ -271,7 +275,7 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 
 一般而言，限制设为 200000 就足够了。
 
-![](../.gitbook/assets/image%20%28169%29.png)
+![](<../.gitbook/assets/image (169).png>)
 
 以上的例子取自 Metamask 截图。 如果不确定如何设置 Gas 限制，请查看您钱包的文档。
 {% endtab %}
@@ -279,7 +283,8 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 {% tab title="原因" %}
 基本上，您的钱包（Metamask, Trust Wallet等）无法使用预估的 Gas 限制，完成其尝试执行的操作。
 
-您的钱包所建议的 Gas 限制太低，因此在合约函数调用完成之前，矿工费已用尽。  
+您的钱包所建议的 Gas 限制太低，因此在合约函数调用完成之前，矿工费已用尽。\
+
 {% endtab %}
 {% endtabs %}
 
@@ -303,19 +308,19 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 
 > Fail with error 'BEP20: transfer amount exceeds balance'
 >
-> \(交易出现此错误导致失败: “BEP20: 转出数额超出余额”\)
+> (交易出现此错误导致失败: “BEP20: 转出数额超出余额”)
 
 您正试图从奖励代币不足的糖浆池中解除质押。
 
 {% tabs %}
 {% tab title="解决方法" %}
-您可以直接调用合约的「紧急提取」 \(emergencyWithdraw\) 以对您质押着的代币解除质押。
+您可以直接调用合约的「紧急提取」 (emergencyWithdraw) 以对您质押着的代币解除质押。
 
 1. 查找您要解除质押的糖浆池的合约地址。您可以在各糖浆池详情中找到他们的 BscScan 页面。
-2. 点击进入，或浏览 [https://bscscan.com/](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract%20) 然后在搜索栏中输入糖浆池的合约地址。
+2. 点击进入，或浏览 [https://bscscan.com/](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract) 然后在搜索栏中输入糖浆池的合约地址。
 3. 选择 **“Write Contract”（**写入合约）。
-4. 点击 **"Connect to Web3"（**连接 Web3）以便连接您的钱包。![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
-5. 在第4项：**“4. emergencyWithdraw”**，点击 **Write** 按钮。
+4. 点击 **"Connect to Web3"（**连接 Web3）以便连接您的钱包。![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
+5. 在第4项：**“4. emergencyWithdraw”**，点击 **Write **按钮。
 
 虽然紧急提取允许您成功解除质押，但这也会导致您失去任何尚未收割的奖励代币。
 
@@ -333,10 +338,10 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 
 ### Provider Error
 
-> Provider Error  
+> Provider Error\
 > No provider was found
 >
-> 提供商错误  
+> 提供商错误\
 > 未找到提供商
 
 该错误常见于：点击「浏览器钱包插件连接」，例如 MetaMask 或 Binance Chain Wallet，但您未安装插件时。
@@ -355,13 +360,13 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 
 ### 购买 SAFEMOON 或类似分红代币时遇到错误
 
-要交易 SAFEMOON，您必须点击设置按钮，**并设置您的滑点容差至 12% 或更高。**  
+要交易 SAFEMOON，您必须点击设置按钮，**并设置您的滑点容差至 12% 或更高。**\
 这是因为 **SafeMoon 每一个交易都会收取 10% 的税：**
 
 * 5% 手续费 = 分红给当前所有持有者
 * 5% 手续费 = 用于添加流动性
 
-这也是为什么您在交易时可能不会收到预计数量的代币的原因。  
+这也是为什么您在交易时可能不会收到预计数量的代币的原因。\
 阅读更多关于 [如何交易 SafeMoon](https://community.trustwallet.com/t/how-to-buy-safemoon/155742) 。
 
 ### Internal JSON-RPC errors
@@ -374,17 +379,16 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 
 您没有足够的 BNB 来支付交易矿工费，您的钱包需要更多 BEP-20 网络的 BNB。
 
-### Error: \[ethjs-query\]
+### Error: \[ethjs-query]
 
-> Error: \[ethjs-query\] while formatting outputs from RPC '{"value":{"code":-32603,"data":{"code":-32000,"message":"transaction underpriced"}}}"
+> Error: \[ethjs-query] while formatting outputs from RPC '{"value":{"code":-32603,"data":{"code":-32000,"message":"transaction underpriced"}}}"
 
 在确认交易前，增加 Gas 限制。请查看您钱包的指南，了解如何增加 Gas 限制（注意！不是 Gas 价格）
 
-> Swap failed: Error: \[ethjs-query\] while formatting outputs from RPC '{"value":{"code":-32603,"data":{"code":-32603,"message":"handle request error"}}}'
+> Swap failed: Error: \[ethjs-query] while formatting outputs from RPC '{"value":{"code":-32603,"data":{"code":-32603,"message":"handle request error"}}}'
 
 原因未知。请尝试以下步骤并重试：
 
 1. 增加 Gas 限制
 2. 增加滑点容差
 3. 清除缓存及交易记录
-

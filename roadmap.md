@@ -4,7 +4,7 @@ description: 「别把它称作路线图」
 
 # 路线图
 
-![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbKS2mFRDg91ZWCu1Fz%2F-MbKZINH3Atuv5bv2dPZ%2Fdocs%20masthead%20%2819%29.png?alt=media&token=a39e0778-1eab-43da-b421-195e3c54d70e)
+![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbKS2mFRDg91ZWCu1Fz%2F-MbKZINH3Atuv5bv2dPZ%2Fdocs%20masthead%20\(19\).png?alt=media\&token=a39e0778-1eab-43da-b421-195e3c54d70e)
 
 好吧，与其说它是路线图，不如说是一个待办清单，因为内容没有特定的顺序，也没有特定的时间表。这就是我们的工作方式：以最快的速度，做我们能做的事情。随机应变是一种生活方式。
 
@@ -23,7 +23,7 @@ description: 「别把它称作路线图」
 * [x] **CAKE 质押**
 * [x] **核心资金池**
 * [x] **社区资金池：**为币安智能链的社区项目们设计，与其搭配的还有 0.1-0.2 倍数的 CAKE 农场
-* [x] **自动复投：「**质押 ****CAKE 赚取 CAKE」的 Syrup 资金池实现收获自动复投
+* [x] **自动复投：「**质押** **CAKE 赚取 CAKE」的 Syrup 资金池实现收获自动复投
 
 ## 其他产品
 
@@ -31,7 +31,7 @@ description: 「别把它称作路线图」
 * [x] **数据及分析（核心功能）**
 * [x] **投票（核心功能）**
 * [x] **预测市场（核心功能）**
-* [x] **IFO \(Initial Farm Offering / 首次农场发行\)：**使用用 CAKE-BNB LP 代币为您的项目筹集资金。取得 LP 代币后，BNB 被分配给项目，CAKE 将被销毁。
+* [x] **IFO (Initial Farm Offering / 首次农场发行)：**使用用 CAKE-BNB LP 代币为您的项目筹集资金。取得 LP 代币后，BNB 被分配给项目，CAKE 将被销毁。
 * [ ] **借贷：**借出或贷入 LP 代币 - 使用 CAKE 获得利息折扣。
 * [ ] **杠杆交易：**在币安智能链上杠杆交易代币 - 定期 CAKE 回购及销毁
 * [x] **NFT 生态：**铸造，交易，以及未来更多的可能 - 使用 CAKE 支付
@@ -39,9 +39,7 @@ description: 「别把它称作路线图」
 * [ ] **固定期限质押**
 * [x] **个性化用户资料**
 
-\*\*\*\*
+****
 
-![&#x6765;&#x561E;~](.gitbook/assets/image%20%281%29%20%281%29%20%281%29%20%282%29%20%283%29%20%281%29.png)
-
-
+![来嘞\~](<.gitbook/assets/image (1) (1) (1) (2) (3) (1).png>)
 

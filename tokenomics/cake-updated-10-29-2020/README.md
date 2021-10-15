@@ -1,39 +1,27 @@
 # CAKE
 
-![CAKE Token](../../.gitbook/assets/icon-square-512%20%281%29.png)
+![](<../../.gitbook/assets/image (173).png>)
 
-\*\*\*\*
+* **代币符号：**CAKE
+*   **合约地址：**
 
-**Ticker:** CAKE
+    ** **[https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82) 
+* **区块链： **币安智能链 Binance Smart Chain (BEP20)
 
-**Contract Address:** [https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82) 
+## 基本信息
 
-**Chain:** Binance Smart Chain \(BEP-20\)
+CAKE 是一枚在背后支撑着 PancakeSwap 整个生态系统的美味代币。
 
-### **Emission rate:**
+通过农场、糖浆池赚取，或者在彩票中赢取。又或者，[直接在交易界面购买](../../products/pancakeswap-exchange.md)。然后，探索他的使用场景和功能：
 
-|  | Emission/block \(CAKE\) | Emission/day \(CAKE\) |
-| :--- | ---: | ---: |
-| Emission | 40 | 1,152,000 |
-| Burned | -25 | -720,000 |
-| **Effective Emission** | **&lt;15** | **386,000** |
+* 在[糖浆池](../../products/syrup-pools/)中质押，免费获得其他代币。
+* 在[农场](../../products/yield-farming.md)中使用它与其他代币搭配进行流动性挖矿，获得更多的 CAKE。
+* 购买 [PancakeSwap 彩票](../../products/lottery.md)。
+* 创建你的 [PancakeSwap 个人档案](../../products/nft-ge-ren-dang-an-xi-tong.md)，并铸造 NFT
+* 在[社区治理投票](../../products/voting/)中投上您宝贵的一票
 
-### Distribution:
+这并不是全部，还有更多使用场景即将推出！
 
-| Distributed to | Reward/block\(% of emission\) | Reward/block \(total CAKE\) | Reward/day |
-| :--- | ---: | ---: | ---: |
-| Farmers | 60% | 15 | 450,000 |
-| Syrup pools | 40% | 10 | 300,000 |
+## 细节
 
-### **Other Deflationary Mechanics:**
-
-At present,
-
-* [x] **9.09%** of CAKE harvested from farms is sent to the dev address, then burned
-* [x] **20%** of CAKE spent on lottery tickets is burned
-* [x] **100% of** CAKE raised in IFOs is burned
-
-{% hint style="info" %}
-The burning process is currently manual. [View burn transactions here](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82?a=0x000000000000000000000000000000000000dead).
-{% endhint %}
-
+查看以下详细介绍，了解 CAKE 的代币经济模型如何运作

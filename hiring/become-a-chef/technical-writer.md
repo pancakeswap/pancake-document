@@ -9,11 +9,11 @@ description: Hiring requirements and job description
 * **Salary range:** $70k US Annual salary
 * **Position:** Full-time
 * **Location:** Remote
-* **Time-zone preference:** Any
+* **Time-zone preference: **Any
 
 ### Requirements:
 
-* Thorough understanding of how PancakeSwap \(Exchange, Farming, Info, Voting\) works.
+* Thorough understanding of how PancakeSwap (Exchange, Farming, Info, Voting) works.
 * Minimum 3 years experience as a technical writer.
 * Demonstrated experience editing highly technical developer and/or product documentation
 
@@ -28,4 +28,3 @@ description: Hiring requirements and job description
 ### How to apply:
 
 Email PancakeSwap@gmail.com with your resume
-

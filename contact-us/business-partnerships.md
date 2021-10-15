@@ -1,6 +1,6 @@
 # 商业合作
 
-![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbFSP32KpyXLujbE6FD%2F-MbFSUHosQioE_h8OgDb%2Fdocs%20masthead%20%2821%29.png?alt=media&token=34a44e20-171f-43d7-9c62-a85c2130a741)
+![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbFSP32KpyXLujbE6FD%2F-MbFSUHosQioE_h8OgDb%2Fdocs%20masthead%20\(21\).png?alt=media\&token=34a44e20-171f-43d7-9c62-a85c2130a741)
 
 ## 农场与糖浆池 
 
@@ -10,7 +10,7 @@
 
 农场与 Syrup 资金池在 PancakeSwap 上是相辅相成的：当您的项目为 Syrup 资金池提供代币作为奖励时，我们也会同时创建一个农场来奖励流动性提供者。如果您想分发您的代币并奖励流动性提供者，请与我们联系。
 
-[**申请糖浆池**](https://docs.google.com/forms/d/e/1FAIpQLScGdT5rrVMr4WOWr08pvcroSeuIOtEJf1sVdQGVdcAOqryigQ/viewform)\*\*\*\*
+[**申请糖浆池**](https://docs.google.com/forms/d/e/1FAIpQLScGdT5rrVMr4WOWr08pvcroSeuIOtEJf1sVdQGVdcAOqryigQ/viewform)****
 
 * 我们只对使用申请表格的项目方做出答复。通过电邮申请，将一律不予受理。
 * 我们需处理大量来自其他优质项目方源源不断发来的申请，所以请不要催促我们对您的申请做出答复。敬请谅解。
@@ -27,16 +27,16 @@
 
 如果您已经拥有一个正在进行的 Syrup 资金池和农场，您可以通过投放一个「增强 Syrup 资金池」来延长有效期。如果您希望增加农场倍数，团队将基于过去 30 天的交易量进行考虑。请通过你现有的 PancakeSwap 沟通渠道，联系我们进行咨询。
 
-## IFO \(代币销售\)
+## IFO (代币销售)
 
-“IFO” \(Initial Farm Offering 即初始农场发行\) 是 PancakeSwap 开创的代币销售新模式。简而言之，它的运作方式如下：
+“IFO” (Initial Farm Offering 即初始农场发行) 是 PancakeSwap 开创的代币销售新模式。简而言之，它的运作方式如下：
 
 * 用户使用 CAKE-BNB LP 代币购买您的项目代币。
 * 售后，我们将 BNB 分发给您并销毁 CAKE 。
 
-请在[此处]()了解有关 IFO 的更多信息。
+请在[此处](broken-reference)了解有关 IFO 的更多信息。
 
-[**申请IFO**](https://docs.google.com/forms/d/e/1FAIpQLScGdT5rrVMr4WOWr08pvcroSeuIOtEJf1sVdQGVdcAOqryigQ/viewform)\*\*\*\*
+[**申请IFO**](https://docs.google.com/forms/d/e/1FAIpQLScGdT5rrVMr4WOWr08pvcroSeuIOtEJf1sVdQGVdcAOqryigQ/viewform)****
 
 * 我们只对通过申请表格进行申请者做出答复。通过电邮申请 IFO 的项目方，将一律不予受理。
 * 我们持续收到并处理着大量来自其他优质项目方的申请，所以请不要催促我们对您的申请做出答复。敬请谅解。
@@ -45,7 +45,7 @@
 
 ### 如何让我的代币上市 PancakeSwap 交易所？
 
-任何人都可以在 PancakeSwap 交易所「上市」任何 BEP-20 区块链的代币。 您不需要与我们联系或征得许可。 您只需要在[流动性池中添加流动性]()即可。 然后，交易者可以通过输入代币的合约地址来查找并交易您的代币。
+任何人都可以在 PancakeSwap 交易所「上市」任何 BEP-20 区块链的代币。 您不需要与我们联系或征得许可。 您只需要在[流动性池中添加流动性](broken-reference)即可。 然后，交易者可以通过输入代币的合约地址来查找并交易您的代币。
 
 ### 如何添加我的代币到默认列表中？
 
@@ -70,4 +70,3 @@ PancakeSwap 交易所直接读取 Trust Wallet 代码库内的图标资料。请
 若以上内容没有解决您的疑问，请发送邮件至 pancakeswap@gmail.com 
 
 若您需要客户服务，请不要试图通过这个邮箱地址联系我们。因为它不是客服邮箱，我们将不会回应。若想在产品方面获得帮助，最佳的选择是通过 [Telegram 或 Reddit 社区](telegram.md)。
-

@@ -16,7 +16,7 @@
   * [社交媒体与社区](contact-us/telegram.md)
 * [路线图](roadmap.md)
 
-## Products
+## 产品 <a href="products" id="products"></a>
 
 * [🔄 交易](products/pancakeswap-exchange.md)
 * [🚜 流动性挖矿](products/yield-farming.md)
@@ -27,18 +27,18 @@
 * [🎟 彩票 v2](products/lottery.md)
 * [🔮 预测](products/yu-ce.md)
 * [🖼 NFT 个人档案系统](products/nft-ge-ren-dang-an-xi-tong.md)
-* [🛍 IFO \(初次农场发行\)](products/ifo-initial-farm-offering.md)
+* [🛍 IFO (初次农场发行)](products/ifo-initial-farm-offering.md)
 * [📈 信息站](products/info.md)
 * [🗳 投票](products/voting/README.md)
   * [How to vote with SafePal wallet](products/voting/how-to-vote-with-safepal-wallet.md)
 
-## Tokenomics
+## 经济模型 <a href="tokenomics" id="tokenomics"></a>
 
 * [CAKE](tokenomics/cake-updated-10-29-2020/README.md)
-  * [Controlling CAKE supply](tokenomics/cake-updated-10-29-2020/controlling-cake-supply/README.md)
-    * [SYRUP \(deprecated\)](tokenomics/cake-updated-10-29-2020/controlling-cake-supply/syrup.md)
+  * [CAKE 代币经济模型](tokenomics/cake-updated-10-29-2020/cake-dai-bi-jing-ji-mo-xing.md)
+  * [控制 CAKE 的总量](tokenomics/cake-updated-10-29-2020/kong-zhi-cake-de-zong-liang.md)
 
-## Development Guide <a id="code"></a>
+## Development Guide <a href="code" id="code"></a>
 
 * [Contributing](code/contributing/README.md)
   * [Codebase Overview](code/contributing/codebase-overview.md)
@@ -52,3 +52,6 @@
   * [Blockchain QA Engineer](hiring/become-a-chef/senior-qa-engineer.md)
   * [UX/UI Designer](hiring/become-a-chef/ux-ui-designer.md)
 
+***
+
+* [CAKE Tokenomics](cake-tokenomics.md)

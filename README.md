@@ -1,6 +1,6 @@
 # PancakeSwap 介绍
 
-![](.gitbook/assets/masthead-twitter-3-%20%281%29%20%281%29.png)
+![](<.gitbook/assets/masthead-twitter-3- (1) (1).png>)
 
 {% hint style="success" %}
 #### PancakeSwap 致力为您最大化利用虚拟货币资产！
@@ -22,7 +22,7 @@ PancakeSwap 是币安智能链上领先的去中心化交易所，交易量在�
 
 ### 去中心化
 
-直接使用您的钱包 App 开始交易。  
+直接使用您的钱包 App 开始交易。\
 不同于币安或 Coinbase 等中心化交易所，PancakeSwap 在交易时不会持有您的资金：**您对自己的加密货币有 100% 的所有权。**
 
 ## 💸 赚取利息及手续费
@@ -31,7 +31,7 @@ PancakeSwap 是币安智能链上领先的去中心化交易所，交易量在�
 
 ### 使用 Syrup 资金池赚取代币
 
-质押 CAKE，免费赚取代币。是不是很简单？  
+质押 CAKE，免费赚取代币。是不是很简单？\
 如今，CAKE 的持有人每周都能从核心项目中，赚取价值数千万美元的免费代币。每天都有新的项目不断加入，让您不仅赚得更多，而且赚得更久。
 
 ### 使用农场赚取 CAKE
@@ -48,7 +48,7 @@ PancakeSwap 是币安智能链上领先的去中心化交易所，交易量在�
 
 ### 彩票
 
-PancakeSwap ****彩票奖金池时常高达**百万美元，**每天**多达 11,000 名玩家**乐在其中。加入他们，下一个赢得大奖的或许就是您！
+PancakeSwap** **彩票奖金池时常高达**百万美元，**每天**多达 11,000 名玩家**乐在其中。加入他们，下一个赢得大奖的或许就是您！
 
 ### NFT 收藏品 
 
@@ -56,7 +56,7 @@ PancakeSwap ****彩票奖金池时常高达**百万美元，**每天**多达 11,
 
 ### 预测
 
-如果您能正确预测 BNB 的价格是上涨还是下跌，就能赢取 BNB。  
+如果您能正确预测 BNB 的价格是上涨还是下跌，就能赢取 BNB。\
 每 5 分钟就有新一轮的比赛！
 
 ## PancakeSwap 安全吗？
@@ -64,7 +64,7 @@ PancakeSwap ****彩票奖金池时常高达**百万美元，**每天**多达 11,
 眼见为实：
 
 * 查看这些对于 PancakeSwap 的安全审计报告：
-  * [Certik 对 PancakeSwap 的安全审计](https://www.certik.org/projects/pancakeswap) 和 [Certik 保险盾](https://shield.certik.foundation/)
+  * [Certik 对 PancakeSwap 的安全审计](https://www.certik.org/projects/pancakeswap) 和 [Certik 保险盾](https://shield.certik.foundation)
   * [慢雾 对 PancakeSwap 的安全审计](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20%20-%20PancakeSwap.pdf)
   * [慢雾 对自动蛋糕 Syrup 资金池的安全审计](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20CakeVault.pdf)
 * 公开透明：
@@ -76,6 +76,5 @@ PancakeSwap ****彩票奖金池时常高达**百万美元，**每天**多达 11,
 
 
 
-**听起来很有趣对吧？  
-让我们立刻开始吧！**🐰 🥞
-
+**听起来很有趣对吧？**\
+**让我们立刻开始吧！**🐰 🥞
