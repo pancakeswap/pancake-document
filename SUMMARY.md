@@ -4,6 +4,7 @@
 * [Get Started](get-started/README.md)
   * [Create a Wallet](get-started/wallet-guide.md)
   * [Get BEP20 Tokens](get-started/bep20-guide.md)
+  * [Using PancakeSwap without Centralized Exchanges](get-started/using-pancakeswap-without-centralized-exchanges.md)
   * [Connect Your Wallet to PancakeSwap](get-started/connection-guide.md)
 * [Click Here for Help](help/README.md)
   * [Troubleshooting Errors](help/troubleshooting.md)
