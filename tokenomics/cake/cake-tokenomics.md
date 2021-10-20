@@ -1,6 +1,6 @@
 # CAKE Tokenomics
 
-![](<../../.gitbook/assets/en (5).png>)
+![](<../../.gitbook/assets/en (6).png>)
 
 ## **Emission rate** <a href="emission-rate" id="emission-rate"></a>
 
@@ -9,15 +9,15 @@
 | **Metric**                                                                | **Emission/block (CAKE)** | **Emission/day (CAKE)** |
 | ------------------------------------------------------------------------- | ------------------------: | ----------------------: |
 | Emission                                                                  |                        40 |               1,152,000 |
-| Burned Weekly [(PID 138)](cake-tokenomics.md#why-is-the-cake-burn-manual) |                       -25 |                -720,000 |
-| **Effective Emission**                                                    |                 **<15\*** |           **386,000\*** |
+| Burned Weekly [(PID 138)](cake-tokenomics.md#why-is-the-cake-burn-manual) |                     -25.5 |                -734,400 |
+| **Effective Emission**                                                    |               **<14.5\*** |           **371,600\*** |
 
 \*Effective Emission is in fact slightly below this amount: an additional 45,000 CAKE per day is diverted from the amount allocated to the lottery, and burned (PID 137 - Details below).
 
 In addition to the above, a dynamic amount of CAKE is also [minted to the Dev address](https://bscscan.com/address/0xceba60280fb0ecd9a5a26a1552b90944770a4a0e#tokentxns) at a rate of 9.09%. This means that if 100 CAKE are harvested, then 9.09 CAKE is minted in addition and sent to the Dev Address.
 
 {% hint style="info" %}
-All CAKE minted to the Dev address is burned in the weekly burn and never enters circulation. 
+All CAKE minted to the Dev address is burned in the weekly burn and never enters circulation.&#x20;
 
 As such, we haven't included it in the above emission rate.
 {% endhint %}
@@ -26,10 +26,10 @@ As such, we haven't included it in the above emission rate.
 
 | Distributed to                | Reward/block (% of emission) | Reward/block (total CAKE) |           Reward/day |
 | ----------------------------- | ---------------------------: | ------------------------: | -------------------: |
-| Farms and Lottery             |                        12.5% |                         5 |     144,000 (approx) |
+| Farms and Lottery             |                       11.25% |                       4.5 |     129,600 (approx) |
 | of which diverted and burned  |                              |                           |              -45,000 |
 | Syrup Pools                   |                          25% |                        10 |     288,000 (approx) |
-| **Total Daily CAKE Emission** |                              |                           | **386,000 (approx)** |
+| **Total Daily CAKE Emission** |                              |                           | **371,600 (approx)** |
 
 ## **Other Deflationary Mechanics** <a href="other-deflationary-mechanics" id="other-deflationary-mechanics"></a>
 
@@ -60,18 +60,18 @@ To hit the ground running, PancakeSwap launched as an MVP (minimum viable produc
 These pools work similarly to the farms, where the Chefs can adjust the percentage of the 40 CAKE per block allocated to it after each CAKE emission reduction vote.
 
 {% hint style="warning" %}
-On the day of the burn, the supply shown on the homepage might suddenly jump by several million CAKE. 
+On the day of the burn, the supply shown on the homepage might suddenly jump by several million CAKE.&#x20;
 
 Don't worry -** THIS CAKE NEVER ACTUALLY ENTERS CIRCULATION:**
 {% endhint %}
 
-This apparent jump is just because of how all the CAKE that's allocated for the burn is stored during the week. 
+This apparent jump is just because of how all the CAKE that's allocated for the burn is stored during the week.&#x20;
 
-The CAKE sent to both pools PID-137 and PID-138 are harvested before completing the weekly token burns, and this makes the Total Supply shown on the site jumping by \~6M. This is because pending CAKE isn’t registered in the Total Supply until it's harvested on the burn day. Once the token burn transaction is completed, the \~6M is shown in the Burned to Date. 
+The CAKE sent to both pools PID-137 and PID-138 are harvested before completing the weekly token burns, and this makes the Total Supply shown on the site jumping by \~6M. This is because pending CAKE isn’t registered in the Total Supply until it's harvested on the burn day. Once the token burn transaction is completed, the \~6M is shown in the Burned to Date.&#x20;
 
 ## How to Confirm CAKE Supply for yourself
 
-To confirm that the circulating CAKE supply shown on the PancakeSwap homepage is correct, 
+To confirm that the circulating CAKE supply shown on the PancakeSwap homepage is correct,&#x20;
 
 1. Head to the CAKE token contract on BscScan and [see how much CAKE is held by the Burn Address.](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82#balances) That's the total amount of CAKE that's been burned (removed from circulation FOREVER, and impossible to ever retrieve).
 2. Then, subtract this burned amount from the "Total Supply" that BscScan shows.
