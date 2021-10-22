@@ -14,6 +14,5 @@ Los Administradores NUNCA te van a enviar un mensaje directo/privado. Si cualqui
 {% endhint %}
 
 {% hint style="danger" %}
-**NUNCA, bajo ninguna situación, debes darle a nadie tus claves privadas o frases de recuperación \(semillas\). Inmediatamente bloquea y reporta si alguien te lo solicita.** 
+**NUNCA, bajo ninguna situación, debes darle a nadie tus claves privadas o frases de recuperación (semillas). Inmediatamente bloquea y reporta si alguien te lo solicita. **
 {% endhint %}
-

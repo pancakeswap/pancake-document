@@ -16,7 +16,7 @@
   * [Redes Sociales & Comunidades](contacto/redes.md)
 * [Roadmap](roadmap.md)
 
-## Products <a id="productos"></a>
+## Products <a href="productos" id="productos"></a>
 
 * [🔄Exchange](productos/pancakeswap-exchange/README.md)
   * [Swap de Tokens](productos/pancakeswap-exchange/swap-trading.md)
@@ -25,7 +25,7 @@
   * [Añadir/Remover Liquidez](productos/pancakeswap-exchange/anadir-remover-liquidez.md)
 * [🚜Yield Farming](productos/yield-farming/README.md)
   * [Cómo usar Farms](productos/yield-farming/como-usar-yield-farm-en-pancakeswap.md)
-  * [Cómo usar Farms \(BscScan\)](productos/yield-farming/farms-bscscan.md)
+  * [Cómo usar Farms (BscScan)](productos/yield-farming/farms-bscscan.md)
 * [🍯 Syrup Pools](productos/syrup-pools/README.md)
   * [Cómo hacer el Stake en los Syrup Pools](productos/syrup-pools/como-hacer-el-stake-en-los-syrup-pools.md)
   * [Auto CAKE Syrup Pool](productos/syrup-pools/auto-cake-syrup-pool.md)
@@ -39,11 +39,11 @@
 * [🖼Perfil NFT en PancakeSwap](productos/perfil-nft-en-pancakeswap/README.md)
   * [Equipos](productos/perfil-nft-en-pancakeswap/equipos.md)
   * [Cómo Crear un Perfil](productos/perfil-nft-en-pancakeswap/como-crear-un-perfil.md)
-* [IFO \(Oferta Inicial de Farm\)](productos/ifo-initial-farm-offering/README.md)
+* [IFO (Oferta Inicial de Farm)](productos/ifo-initial-farm-offering/README.md)
   * [Cómo Participar en una IFO](productos/ifo-initial-farm-offering/ifo-initial-farm-offering.md)
-  * [Cómo Participar en una IFO \(BscScan\)](productos/ifo-initial-farm-offering/como-participar-en-una-ifo-bscscan.md)
+  * [Cómo Participar en una IFO (BscScan)](productos/ifo-initial-farm-offering/como-participar-en-una-ifo-bscscan.md)
   * [Detalles de Contrato](productos/ifo-initial-farm-offering/detalles-de-contrato.md)
-* [Info \(Analíticas\)](productos/info.md)
+* [Info (Analíticas)](productos/info.md)
 * [Votación](productos/voting/README.md)
   * [What is voting?](productos/voting/voting.md)
   * [How to vote with SafePal wallet](productos/voting/how-to-vote-with-safepal-wallet.md)
@@ -51,10 +51,10 @@
 ## Tokenomics
 
 * [CAKE](tokenomics/cake-updated-10-29-2020/README.md)
-  * [CAKE Tokenomics](tokenomics/cake-updated-10-29-2020/cake-tokenomics.md)
+  * [Tokenomics de CAKE](tokenomics/cake-updated-10-29-2020/cake-tokenomics.md)
   * [Controlando el Circulante de CAKE](tokenomics/cake-updated-10-29-2020/controlling-cake-supply.md)
 
-## Guía para Desarrolladores <a id="devs"></a>
+## Guía para Desarrolladores <a href="devs" id="devs"></a>
 
 * [Contribuciones](devs/contributing/README.md)
   * [Descripción de Base de Código](devs/contributing/codebase-overview.md)
@@ -66,7 +66,7 @@
     * [Router v2](devs/smartcontracts/contratos-swap/router-v2.md)
   * [Main Staking/Syrup Pool/MasterChef Contract](devs/smartcontracts/main-staking-syrup-pool-masterchef-contract.md)
   * [Prediction V2](devs/smartcontracts/prediction-v2.md)
-  * [Auto CAKE Syrup Pool \(CakeVault\)](devs/smartcontracts/auto-cake-syrup-pool-cakevault.md)
+  * [Auto CAKE Syrup Pool (CakeVault)](devs/smartcontracts/auto-cake-syrup-pool-cakevault.md)
 
 ## Contrataciones
 
@@ -74,4 +74,3 @@
   * [Senior Backend Engineer - JavaScript / TypeScript](contrataciones/chef/frontend-software-engineer-javascript-typescript-react.md)
   * [Solidity Engineer](contrataciones/chef/solidity-engineer.md)
   * [Blockchain QA Engineer](contrataciones/chef/senior-qa-engineer.md)
-

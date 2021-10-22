@@ -5,11 +5,11 @@
 * **Rango Salarial:** $120k-250k USD Anual
 * **Posición:** Full-time
 * **Locación:** Remota
-* **Preferencia Horaria:** Cualquiera
+* **Preferencia Horaria: **Cualquiera
 
 ### Tus Responsabilidades
 
-* Construir smart contracts en Solidity para la blockchain de Ethereum 
+* Construir smart contracts en Solidity para la blockchain de Ethereum&#x20;
 * Diseño, alcance y estimación de productos/actualizaciones de frontend complejos
 * Visión y desarrollo de características para ayudar a crecer PancakeSwap.
 * Colaborar con entusiasmo con un pequeño equipo para planificar proyectos a nivel de tarea
@@ -34,4 +34,3 @@
 ### Cómo Aplicar
 
 Email a PancakeSwap@gmail.com con su currículum
-
