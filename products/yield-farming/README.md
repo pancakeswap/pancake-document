@@ -33,9 +33,9 @@ The** Farm Base APR** is calculated according to the farm multiplier and the tot
 
 ### Calculating LP Reward APR
 
-On top of that, farmers receive** LP rewards** for profiding liquidity. Here's an example of calculating **LP rewards**:
+On top of that, farmers receive** LP rewards** for providing liquidity. Here's an example of calculating **LP rewards**:
 
-![](https://lh4.googleusercontent.com/rJswz2qvCNTcODcClHxqlLpanSLsfbGtVw75MMPicBN1iKTKCuEYlPuoFAqskoy24DB9JBmATWb8dk3WmY1\_BFDZoS94sWTBZhZrcnG711rC8ltDXPR3gdl8D50eWq_cfiBriKcl)
+![](https://lh4.googleusercontent.com/rJswz2qvCNTcODcClHxqlLpanSLsfbGtVw75MMPicBN1iKTKCuEYlPuoFAqskoy24DB9JBmATWb8dk3WmY1\_BFDZoS94sWTBZhZrcnG711rC8ltDXPR3gdl8D50eWq\_cfiBriKcl)
 
 In the WBNB/BUSD pair above, we see these values:
 
