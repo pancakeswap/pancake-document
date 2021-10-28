@@ -10,11 +10,11 @@ Sometimes you may find yourself facing a problem that doesn't have a clear solut
 
 ## **Issues on the Exchange**
 
-### **INSUFFICIENT_OUTPUT_AMOUNT**
+### **INSUFFICIENT\_OUTPUT\_AMOUNT**
 
-> The transaction cannot succeed due to error: PancakeRouter: INSUFFICIENT_OUTPUT_AMOUNT. This is probably an issue with one of the tokens you are swapping.
+> The transaction cannot succeed due to error: PancakeRouter: INSUFFICIENT\_OUTPUT\_AMOUNT. This is probably an issue with one of the tokens you are swapping.
 >
-> the transaction cannot succeed due to error: execution reverted: pancakerouter: insufficient_output_amount.
+> the transaction cannot succeed due to error: execution reverted: pancakerouter: insufficient\_output\_amount.
 
 You're trying to swap tokens, but your slippage tolerance is too low or liquidity is too low.
 
@@ -37,11 +37,11 @@ However, there's also the chance that you're trying to trade a scam token which 
 {% endtab %}
 {% endtabs %}
 
-### **INSUFFICIENT_A_AMOUNT or INSUFFICIENT_B_AMOUNT**
+### **INSUFFICIENT\_A\_AMOUNT or INSUFFICIENT\_B\_AMOUNT**
 
-> Fail with error 'PancakeRouter: INSUFFICIENT_A_AMOUNT'\
+> Fail with error 'PancakeRouter: INSUFFICIENT\_A\_AMOUNT'\
 > or\
-> Fail with error 'PancakeRouter: INSUFFICIENT_B_AMOUNT'
+> Fail with error 'PancakeRouter: INSUFFICIENT\_B\_AMOUNT'
 
 You're trying to add/remove liquidity from a liquidity pool (LP), but there isn't enough of one of the two tokens in the pair.
 
@@ -62,9 +62,9 @@ The error is caused by trying to add or remove liquidity for a liquidity pool (L
 
 It might be the case that prices are updating too fast when and your slippage tolerance is too low.
 
-![](https://lh5.googleusercontent.com/T1KMtz2ILDVHljGw1iLbIv0W1KVl7qXL8zU2nLFHkUvDb5oMw9mpUzzBwWmIBz15XDsxZ5w7wsaqAwCs_pxdobz_kY\_7BhcZhYtpqWuQGFs23DZq98-SVInlfsS07WzxFPLIYXHt)
+![](https://lh5.googleusercontent.com/T1KMtz2ILDVHljGw1iLbIv0W1KVl7qXL8zU2nLFHkUvDb5oMw9mpUzzBwWmIBz15XDsxZ5w7wsaqAwCs\_pxdobz\_kY\_7BhcZhYtpqWuQGFs23DZq98-SVInlfsS07WzxFPLIYXHt)
 
-![](https://lh5.googleusercontent.com/7aspaCCvDjzxbJxngqwgeq737LB3OUNcAs592QqlEkyrAOTfKsrt_FAwpEylaIJhff5ZcYlzB_r0v1JZwfj3j8Ah6jlUbRoMrAqVfTb3cwDI7B1i5HJtZSQOsTPrv7l7SaclC3BV)
+![](https://lh5.googleusercontent.com/7aspaCCvDjzxbJxngqwgeq737LB3OUNcAs592QqlEkyrAOTfKsrt\_FAwpEylaIJhff5ZcYlzB\_r0v1JZwfj3j8Ah6jlUbRoMrAqVfTb3cwDI7B1i5HJtZSQOsTPrv7l7SaclC3BV)
 {% endtab %}
 
 {% tab title="Solution for nerds" %}
@@ -77,7 +77,7 @@ There currently isn't a simple way to solve this issue from the PancakeSwap webs
 Head to the contract of the LP token you're trying to approve.\
 For example, here's the ETH/WBNB pair: [https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422](https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422)
 
-1. Select **Write Contract**, then **Connect to Web3** and connect your wallet. ![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
+1. Select **Write Contract**, then **Connect to Web3** and connect your wallet. ![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ\_VGjxJ03YPRuVQ1O5ME)
 2. In **section "1. approve",** approve the LP token for the router by entering
    1. spender (address): enter the contract address of the LP token you're trying to interact with
    2. value (uint256): -1
@@ -128,9 +128,9 @@ Try modifying the amount on “To” field. Therefore putting "(estimated)" symb
 
 This usually happen when you are trying to swap a token with its own fee.
 
-### Pancake: TRANSFER_FAILED
+### Pancake: TRANSFER\_FAILED
 
-> The transaction cannot succeed due to error: execution reverted: Pancake: TRANSFER_FAILED.
+> The transaction cannot succeed due to error: execution reverted: Pancake: TRANSFER\_FAILED.
 
 Make sure you have 30% more tokens in your wallet than you intend to trade, or try to trade a lower amount. If you want to sell the maximum possible, try 70% or 69% instead of 100%.\
 Caused by the design of Restorative Rebase tokens like tDoge or tBTC.\
@@ -193,9 +193,9 @@ The exact details of the problem are still being investigated.
 {% endtab %}
 {% endtabs %}
 
-### **Execution reverted: TransferHelper: TRANSFER_FROM_FAILED.**
+### **Execution reverted: TransferHelper: TRANSFER\_FROM\_FAILED.**
 
-> The transaction cannot succeed due to error: execution reverted: TransferHelper: TRANSFER_FROM_FAILED.
+> The transaction cannot succeed due to error: execution reverted: TransferHelper: TRANSFER\_FROM\_FAILED.
 
 When trying to swap tokens, the transaction fails and this error message is displayed. This error has been reported across platforms.
 
@@ -231,7 +231,7 @@ You don't have enough SYRUP in your wallet to unstake from the CAKE-CAKE pool.
 If that still fails, you can perform an “emergencyWithdraw” from the contract directly to unstake your staked tokens.
 
 1. Go to: [https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract ](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract)
-2. Click **“Connect to Web3”** and connect your wallet. ![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
+2. Click **“Connect to Web3”** and connect your wallet. ![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ\_VGjxJ03YPRuVQ1O5ME)
 3. In section **“4. emergencyWithdraw”**, enter "0" and click “Write”.
 
 This will unstake your staked tokens and lose any uncollected CAKE yield.
@@ -248,7 +248,7 @@ This error has happened because you have sold or transferred SYRUP tokens. SYRUP
 
 {% embed url="https://dashboard.tenderly.co/tx/binance/0x754e18ceea82acac256b49c2b7a81260f7f86dd5e56ee2e3cc1b6ac864c29a8e" %}
 
-![](https://lh4.googleusercontent.com/KchAcnM6cpX2BotEGppAxPAnY4Xbona6yI6ZWg9FlUUBfPi_YO9ulM1s6htXJVXMzEwl0Uxcvdk8o4yhI7ar5g0TRpLVFjkS4YLKL7FS8Z4uFqeC37sw-TIkrPr7BCZQVpuD-5jO)
+![](https://lh4.googleusercontent.com/KchAcnM6cpX2BotEGppAxPAnY4Xbona6yI6ZWg9FlUUBfPi\_YO9ulM1s6htXJVXMzEwl0Uxcvdk8o4yhI7ar5g0TRpLVFjkS4YLKL7FS8Z4uFqeC37sw-TIkrPr7BCZQVpuD-5jO)
 {% endtab %}
 {% endtabs %}
 
@@ -309,7 +309,7 @@ You can perform an “emergencyWithdraw” from the contract directly to unstake
 1. Find the contract address of the Syrup Pool you're trying to unstake from. You can find it in your wallet's transaction log.
 2. Go to [https://bscscan.com/](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract) and in the search bar, enter the contract address.
 3. Select **Write Contract.**
-4. Click **“Connect to Web3”** and connect your wallet.![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
+4. Click **“Connect to Web3”** and connect your wallet.![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ\_VGjxJ03YPRuVQ1O5ME)
 5. In section **“4. emergencyWithdraw”,** enter "0" and click “Write”.
 
 This will unstake your staked tokens and lose any uncollected yield.
@@ -323,6 +323,51 @@ This will unstake your staked tokens and lose any uncollected yield.
 This error tends to appear when you're trying to unstake from an old Syrup Pool, but there aren't enough rewards in the pool left for you to harvest when withdrawing. This causes the transaction to fail.
 {% endtab %}
 {% endtabs %}
+
+## **Issues with Prediction**
+
+**Can't claim winnings from a prediction round on site?**
+
+You might be able to claim your winnings directly from the contract. Follow the steps in the 3 tabs below.
+
+{% tabs %}
+{% tab title="Check if you can claim" %}
+First, check whether you should actually be able to claim from the round you played.
+
+1. [Go to **the **BscScan page of Prediction contract](https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda#writeContract), and go to the Write tab
+2. Scroll down to “4. claimable”.
+3. Type in the round id you want to check under "epoch(uint256)”.
+4. Type in your wallet address under “user(address)”.
+5. Tap “Query”
+6. If a round is claimable, it will show “true”.
+7. Note: ⬆️ If you see a round returns "false", but it shows on the website, it's probably been claimed already and the website is lagging.
+{% endtab %}
+
+{% tab title="Claim from a round" %}
+How to claim
+
+1. [Go to the** **BscScan page of Prediction contract](https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda#writeContract), and go to the Write tab
+2. Tap “🔴 Connect to Web3”
+3. Use MetaMask or WalletConnect to connect.
+4. Scroll down to “3. claim”
+5. Type in round number you want to claim in an array format. Put round numbers within \[] and separate them with “,”
+6. Tap “Write”
+7. Confirm on wallet
+{% endtab %}
+
+{% tab title="Check rounds you played" %}
+How to check the history of rounds you played
+
+1. Go to BscScan page of Prediction contract.
+2. Scroll down to “8. getUserRounds”.
+3. Type in your wallet address under “user(address)”.
+4. Set “cursor(uint256)" to 0 and “size(uint256)" to 1000.
+5. Tap “Query”
+6. Rounds you entered will show below in the first row. (after “uint256\[]:”)
+{% endtab %}
+{% endtabs %}
+
+
 
 ## **Other issues**
 
@@ -380,22 +425,22 @@ Cause unclear. Try these steps before trying again:
 
 ## **Issues with Profile**
 
-### Oops! We couldn't find any Pancake Collectibles in your wallet. 
+### Oops! We couldn't find any Pancake Collectibles in your wallet.&#x20;
 
 We're investigating the logic behind this issue. Meanwhile please try the workaround.
 
 {% tabs %}
 {% tab title="Workaround 1" %}
-1.  Go to “Collectible” page, then come back to profile page.\
+1. &#x20;Go to “Collectible” page, then come back to profile page.\
    If you can’t find the link, go to [https://pancakeswap.finance/collectibles](https://pancakeswap.finance/collectibles) directly.
-2.  Retry profile creation.
+2. &#x20;Retry profile creation.
 {% endtab %}
 
 {% tab title="Workaround 2" %}
 Change the environment.
 
 * Clear the cache and retry.
-* Retry on different browser. 
+* Retry on different browser.&#x20;
 * Retry on different wallet apps.
 * Retry on the different network (switch between Wi-Fi and cellular)
 {% endtab %}
@@ -423,10 +468,10 @@ Root cause: Network is unstable.
 
 You have to retry.
 
-1.  Delete whatever has been entered in the text field completely. 
-2.  Re-type username, then please wait for seconds.
-3.  If it doesn’t work, reload the page and retry again.
+1. &#x20;Delete whatever has been entered in the text field completely.&#x20;
+2. &#x20;Re-type username, then please wait for seconds.
+3. &#x20;If it doesn’t work, reload the page and retry again.
 {% endtab %}
 {% endtabs %}
 
- 
+&#x20;
