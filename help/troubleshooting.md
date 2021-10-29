@@ -350,7 +350,9 @@ How to claim
 2. Tap “🔴 Connect to Web3”
 3. Use MetaMask or WalletConnect to connect.
 4. Scroll down to “3. claim”
-5. Type in round number you want to claim in an array format. Put round numbers within \[] and separate them with “,”
+5.  Type in the round number you want to claim in this format, including the \[] brackets: `[12345]`&#x20;
+
+    If you want to claim from multiple rounds together, separate the rounds with a comma like this: `[12345,12346,12347]`
 6. Tap “Write”
 7. Confirm on wallet
 {% endtab %}
