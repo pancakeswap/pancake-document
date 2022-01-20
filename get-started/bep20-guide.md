@@ -1,8 +1,8 @@
 # 获取 BEP-20 代币
 
-![](<../.gitbook/assets/image (17).png>)
+![](<../.gitbook/assets/image (154).png>)
 
-币安智能链 (BSC) 上的原生代币为 **BEP-20 **标准。
+币安智能链 (BSC) 上的原生代币为 **BEP-20** 标准。
 
 想要在区块链上做任何操作，您需要支付矿工费，在币安智能链 (BSC) 上，矿工费为 BEP-20 标准的 BNB。
 

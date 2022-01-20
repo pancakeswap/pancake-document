@@ -9,7 +9,7 @@ description: Hiring requirements and job description
 * **Salary range:** $70k US Annual salary
 * **Position:** Full-time
 * **Location:** Remote
-* **Time-zone preference: **Any
+* **Time-zone preference:** Any
 
 ### Requirements:
 

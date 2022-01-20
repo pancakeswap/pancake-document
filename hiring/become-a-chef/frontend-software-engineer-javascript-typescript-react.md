@@ -5,7 +5,7 @@
 * **Salary range:** $120k-160k US Annual salary
 * **Position:** Full-time
 * **Location:** Remote
-* **Time-zone preference: **Any
+* **Time-zone preference:** Any
 
 ### Your Responsibilities
 
@@ -17,7 +17,7 @@
 
 ### Skills & Qualifications
 
-* 3-5 years of experience in building responsive/adaptive web applications with JavaScript/Typescript. 
+* 3-5 years of experience in building responsive/adaptive web applications with JavaScript/Typescript.&#x20;
 * Solid experience in React JS
 * Ability to write structured and clean code
 * Experience with Javascript testing tools

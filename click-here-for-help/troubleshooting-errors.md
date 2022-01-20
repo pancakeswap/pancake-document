@@ -6,11 +6,11 @@ description: 常见错误信息。 使用侧边栏快速查找您的错误代码
 
 ## **交易相关问题**
 
-### **INSUFFICIENT_OUTPUT_AMOUNT**
+### **INSUFFICIENT\_OUTPUT\_AMOUNT**
 
-> The transaction cannot succeed due to error: PancakeRouter: INSUFFICIENT_OUTPUT_AMOUNT. This is probably an issue with one of the tokens you are swapping.
+> The transaction cannot succeed due to error: PancakeRouter: INSUFFICIENT\_OUTPUT\_AMOUNT. This is probably an issue with one of the tokens you are swapping.
 >
-> (交易由于此错误而无法成功：PancakeRouter：INSUFFICIENT_OUTPUT_AMOUNT。问题可能出自您正在兑换的其中一个代币)
+> (交易由于此错误而无法成功：PancakeRouter：INSUFFICIENT\_OUTPUT\_AMOUNT。问题可能出自您正在兑换的其中一个代币)
 
 您正在尝试兑换代币，但您设置的滑点容限太低或您兑换的代币流动性太低。
 
@@ -21,7 +21,7 @@ description: 常见错误信息。 使用侧边栏快速查找您的错误代码
 3. 调高滑点容限：
    1. 点击兑换页面上的设置图标。
    2. 逐步调高滑点容限，然后重试。\
-      ![](<../.gitbook/assets/image (9) (4) (2) (4).png>)
+      ![](<../.gitbook/assets/image (9) (4) (2).png>)
 4. 若还是不行，您可以尝试减少兑换金额的小数点位数。
 {% endtab %}
 
@@ -34,15 +34,15 @@ description: 常见错误信息。 使用侧边栏快速查找您的错误代码
 {% endtab %}
 {% endtabs %}
 
-### **INSUFFICIENT_A_AMOUNT or INSUFFICIENT_B_AMOUNT**
+### **INSUFFICIENT\_A\_AMOUNT or INSUFFICIENT\_B\_AMOUNT**
 
-> Fail with error 'PancakeRouter: INSUFFICIENT_A_AMOUNT'
+> Fail with error 'PancakeRouter: INSUFFICIENT\_A\_AMOUNT'
 >
 > (交易出现此错误导致失败: "PancakeRouter: A代币不足")
 >
 > 或
 >
-> Fail with error 'PancakeRouter: INSUFFICIENT_B_AMOUNT'
+> Fail with error 'PancakeRouter: INSUFFICIENT\_B\_AMOUNT'
 >
 > (交易出现此错误导致失败: "PancakeRouter: B代币不足")
 
@@ -57,7 +57,7 @@ description: 常见错误信息。 使用侧边栏快速查找您的错误代码
 1. 点击流动性页面上的设置图标。
 2.  逐步调高滑点容限，然后重试。
 
-    ![](<../.gitbook/assets/image (9) (4) (2) (4).png>)
+    ![](<../.gitbook/assets/image (9) (4) (2).png>)
 {% endtab %}
 
 {% tab title="原因" %}
@@ -65,11 +65,11 @@ description: 常见错误信息。 使用侧边栏快速查找您的错误代码
 
 其中一个可能的情况是，当您的滑点容限设置太低时，价格更新太快导致。
 
-![](https://lh5.googleusercontent.com/T1KMtz2ILDVHljGw1iLbIv0W1KVl7qXL8zU2nLFHkUvDb5oMw9mpUzzBwWmIBz15XDsxZ5w7wsaqAwCs_pxdobz_kY\_7BhcZhYtpqWuQGFs23DZq98-SVInlfsS07WzxFPLIYXHt)
+![](https://lh5.googleusercontent.com/T1KMtz2ILDVHljGw1iLbIv0W1KVl7qXL8zU2nLFHkUvDb5oMw9mpUzzBwWmIBz15XDsxZ5w7wsaqAwCs\_pxdobz\_kY\_7BhcZhYtpqWuQGFs23DZq98-SVInlfsS07WzxFPLIYXHt)
 
 
 
-![](https://lh5.googleusercontent.com/7aspaCCvDjzxbJxngqwgeq737LB3OUNcAs592QqlEkyrAOTfKsrt_FAwpEylaIJhff5ZcYlzB_r0v1JZwfj3j8Ah6jlUbRoMrAqVfTb3cwDI7B1i5HJtZSQOsTPrv7l7SaclC3BV)
+![](https://lh5.googleusercontent.com/7aspaCCvDjzxbJxngqwgeq737LB3OUNcAs592QqlEkyrAOTfKsrt\_FAwpEylaIJhff5ZcYlzB\_r0v1JZwfj3j8Ah6jlUbRoMrAqVfTb3cwDI7B1i5HJtZSQOsTPrv7l7SaclC3BV)
 {% endtab %}
 
 {% tab title="给学霸的解决方法" %}
@@ -82,33 +82,33 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 浏览您要授权的LP代币合约地址。 \
 以下示范例子是ETH/WBNB对：[https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422](https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422)
 
-1. 选择 “**Write Contract” **(写入合约)**，**然后点击 “**Connect to Web3” **(连接至Web3)以连接您的钱包。\
-   ![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
-2. 在第一项**"1. approve"**，通过输入以下内容批准Router合约提取您的LP代币。输入完毕后点击 **Write **按钮。
+1. 选择 “**Write Contract”** (写入合约)**，**然后点击 “**Connect to Web3”** (连接至Web3)以连接您的钱包。\
+   ![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ\_VGjxJ03YPRuVQ1O5ME)
+2. 在第一项**"1. approve"**，通过输入以下内容批准Router合约提取您的LP代币。输入完毕后点击 **Write** 按钮。
    1. spender (address): 输入Router合约地址
    2. value (uint256): -1
 
 ### 查询LP余额"balanceOf"
 
-1. 选择 **“Read Contract” **(读取合约)
-2. 在第五项 **"5. balanceOf"**，输入您的钱包地址然后点击 **Query **按钮。
+1. 选择 **“Read Contract”** (读取合约)
+2. 在第五项 **"5. balanceOf"**，输入您的钱包地址然后点击 **Query** 按钮。
 3. 记下显示的余额。这余额显示的格式是uint256。您的下一个步骤需要输入这余额。
 
-![](<../.gitbook/assets/image (32).png>)
+![](<../.gitbook/assets/image (7).png>)
 
 ### 添加或解除流动性
 
 浏览以下Router合约网址: [https://bscscan.com/address/0x05ff2b0db69458a0750badebc4f9e13add608c7f#writeContract](https://bscscan.com/address/0x05ff2b0db69458a0750badebc4f9e13add608c7f#writeContract)
 
-1. 跟之前一样，选择 **“Write Contract” **然后点击 **“Connect to Web3”**。
-2. 寻找 **addLiquidity** 或** removeLiquidity** (根据当下你想做的操作)
+1. 跟之前一样，选择 **“Write Contract”** 然后点击 **“Connect to Web3”**。
+2. 寻找 **addLiquidity** 或 **removeLiquidity** (根据当下你想做的操作)
 3. 输入LP的两个代币地址，即代币A与代币B的合约地址。
-4. 在 **“liquidity (uint256)” **这一栏位，输入您从之前的步骤获得的uint256格式LP余额(即"balanceOf")。
+4. 在 **“liquidity (uint256)”** 这一栏位，输入您从之前的步骤获得的uint256格式LP余额(即"balanceOf")。
 5. 设置低额的 **amountAMin** 或 **amountBMin**: 两个都尝试 “1” 这个值。
-6. 在 **“to (address)” **这一栏位输入您的钱包地址。
+6. 在 **“to (address)”** 这一栏位输入您的钱包地址。
 7. **Deadline** (截止时间)必须是大于执行此交易的纪元(epoch)时间。
 
-![](<../.gitbook/assets/image (19).png>)
+![](<../.gitbook/assets/image (5).png>)
 
 {% hint style="warning" %}
 这可能会导致很高的滑点，并且如果被机器人抢跑，可能会导致您损失一些资金。
@@ -122,9 +122,9 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 >
 > (交易由于此错误而无法成功: PancakeRouter: 逾期。 这可能是因为您正在兑换的一个代币存在某些问题)
 
-再试一次，但是在交易产生后立即确认(即签名并往链上广播)该交易。 
+再试一次，但是在交易产生后立即确认(即签名并往链上广播)该交易。&#x20;
 
-发生这种情况是因为您在交易产生后，没有足够快地点击“确认”按钮，而是等到期限过后才进行签名与链上广播。 
+发生这种情况是因为您在交易产生后，没有足够快地点击“确认”按钮，而是等到期限过后才进行签名与链上广播。&#x20;
 
 ### Pancake: K
 
@@ -136,9 +136,9 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 
 ![](../.gitbook/assets/pancake-k-error.png)
 
-### Pancake: TRANSFER_FAILED
+### Pancake: TRANSFER\_FAILED
 
-> The transaction cannot succeed due to error: execution reverted: Pancake: TRANSFER_FAILED.
+> The transaction cannot succeed due to error: execution reverted: Pancake: TRANSFER\_FAILED.
 
 在交易前，请确保您有额外 30% 数量的代币在您的钱包内。或者，尝试交易一个较少的数额。如果您想卖出最大可能的数目，请尝试设置数量为总数的 70% 或者 69%，不要设置为 100%。这个问题导致的原因是类似 tDoge 和 tBTC 代币所实行的「实时恢复性调整」。\
 [点击此处了解弹性调整代币](https://btcst.medium.com/stp-8-restorative-rebase-b4fbbdfd96c)。
@@ -201,9 +201,9 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 {% endtab %}
 {% endtabs %}
 
-### **Execution reverted: TransferHelper: TRANSFER_FROM_FAILED.**
+### **Execution reverted: TransferHelper: TRANSFER\_FROM\_FAILED.**
 
-> The transaction cannot succeed due to error: execution reverted: TransferHelper: TRANSFER_FROM_FAILED.
+> The transaction cannot succeed due to error: execution reverted: TransferHelper: TRANSFER\_FROM\_FAILED.
 
 {% tabs %}
 {% tab title="解决方法" %}
@@ -242,8 +242,8 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 1. 浏览以下网址：\
    [https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract ](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract)
 2. 点击 **“Connect to Web3”** （连接至 Web3）以连接您的钱包。\
-   ![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
-3. 在第 4 项：**“4. emergencyWithdraw”**，输入“0”，然后点击 **Write **按钮。
+   ![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ\_VGjxJ03YPRuVQ1O5ME)
+3. 在第 4 项：**“4. emergencyWithdraw”**，输入“0”，然后点击 **Write** 按钮。
 
 虽然紧急提取成功让您解除质押，但这也会导致您失去任何尚未收割的奖励代币（即 CAKE）收益。
 
@@ -257,7 +257,7 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 
 发生此错误的原因是您已经出售或转账了您的 SYRUP 代币。 当您在 CAKE-CAKE 糖浆池中质押您的 CAKE 时，SYRUP 会根据 CAKE 的数量，以 “1:1” 的比例被铸造出来。在调用 leavesStaking （即解除 CAKE 质押）函数时，合约会销毁与 CAKE 数量同等的 SYRUP 代币数量。因此，如果您没有足够的 SYRUP 代币，您将不能成功解除质押。
 
-![](https://lh4.googleusercontent.com/KchAcnM6cpX2BotEGppAxPAnY4Xbona6yI6ZWg9FlUUBfPi_YO9ulM1s6htXJVXMzEwl0Uxcvdk8o4yhI7ar5g0TRpLVFjkS4YLKL7FS8Z4uFqeC37sw-TIkrPr7BCZQVpuD-5jO)
+![](https://lh4.googleusercontent.com/KchAcnM6cpX2BotEGppAxPAnY4Xbona6yI6ZWg9FlUUBfPi\_YO9ulM1s6htXJVXMzEwl0Uxcvdk8o4yhI7ar5g0TRpLVFjkS4YLKL7FS8Z4uFqeC37sw-TIkrPr7BCZQVpuD-5jO)
 {% endtab %}
 {% endtabs %}
 
@@ -275,7 +275,7 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 
 一般而言，限制设为 200000 就足够了。
 
-![](<../.gitbook/assets/image (169).png>)
+![](<../.gitbook/assets/image (2).png>)
 
 以上的例子取自 Metamask 截图。 如果不确定如何设置 Gas 限制，请查看您钱包的文档。
 {% endtab %}
@@ -319,8 +319,8 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 1. 查找您要解除质押的糖浆池的合约地址。您可以在各糖浆池详情中找到他们的 BscScan 页面。
 2. 点击进入，或浏览 [https://bscscan.com/](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract) 然后在搜索栏中输入糖浆池的合约地址。
 3. 选择 **“Write Contract”（**写入合约）。
-4. 点击 **"Connect to Web3"（**连接 Web3）以便连接您的钱包。![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
-5. 在第4项：**“4. emergencyWithdraw”**，点击 **Write **按钮。
+4. 点击 **"Connect to Web3"（**连接 Web3）以便连接您的钱包。![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ\_VGjxJ03YPRuVQ1O5ME)
+5. 在第4项：**“4. emergencyWithdraw”**，点击 **Write** 按钮。
 
 虽然紧急提取允许您成功解除质押，但这也会导致您失去任何尚未收割的奖励代币。
 

@@ -1,12 +1,12 @@
 # CAKE
 
-![](<../../.gitbook/assets/image (173).png>)
+![](<../../.gitbook/assets/image (183).png>)
 
 * **代币符号：**CAKE
 *   **合约地址：**
 
-    ** **[https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82) 
-* **区块链： **币安智能链 Binance Smart Chain (BEP20)
+    &#x20;**** [https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82)&#x20;
+* **区块链：** 币安智能链 Binance Smart Chain (BEP20)
 
 ## 基本信息
 

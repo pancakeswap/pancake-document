@@ -9,11 +9,11 @@ If you've got a strong interest in gamification and whimsy in user experience, h
 * **Salary range:** Competitive, open to negotiation
 * **Position:** Full-time
 * **Location:** Remote
-* **Time-zone preference: **Any
+* **Time-zone preference:** Any
 
 ### Responsibilities
 
-* Conceptualizing, wireframing, and user testing of new and existing features 
+* Conceptualizing, wireframing, and user testing of new and existing features&#x20;
 * Designing UI components and full interfaces for new and existing features
 * Contributing to PancakeSwap's design system, including documentation of components and interactions
 * Collaborating with developers to ensure accurate implementation

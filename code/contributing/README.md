@@ -4,9 +4,9 @@ description: Thank you for expressing your interest in contributing to PancakeSw
 
 # Contributing
 
-Pancake is an open-source project. If you want to contribute to the project, this section is here to guide you through your first steps with the Pancake team :pancakes: 
+Pancake is an open-source project. If you want to contribute to the project, this section is here to guide you through your first steps with the Pancake team :pancakes:&#x20;
 
-Before starting any development, we highly encourage you to submit an issue on Github in order to discuss the problem, and the solution with the team. If you want to reach out to the dev team directly, contact **@chef_chungus** on Telegram ![](../../.gitbook/assets/logo.svg) 
+Before starting any development, we highly encourage you to submit an issue on Github in order to discuss the problem, and the solution with the team. If you want to reach out to the dev team directly, contact **@chef\_chungus** on Telegram ![](../../.gitbook/assets/Logo.svg)&#x20;
 
 ### Setup your dev environment
 
@@ -27,16 +27,16 @@ Before starting any development, we highly encourage you to submit an issue on G
     $ git checkout -b branch-name
     $ yarn
     ```
-4. Happy coding :tada: 
+4. Happy coding :tada:&#x20;
 
 ### Coding rules
 
-We try to maintain as much consistency as we can between each of our repository. Your pull request has more chances to be accepted if you follow some the following rules, and write high quality code. **Let's get started** :muscle: 
+We try to maintain as much consistency as we can between each of our repository. Your pull request has more chances to be accepted if you follow some the following rules, and write high quality code. **Let's get started** :muscle:&#x20;
 
 #### Use the UIKit
 
 {% hint style="warning" %}
-Check the [UI Kit](https://github.com/pancakeswap/pancake-uikit) before you start doing anything. A lot of components are already created, and we don't want that you waste your time reinventing the wheel :wink: 
+Check the [UI Kit](https://github.com/pancakeswap/pancake-uikit) before you start doing anything. A lot of components are already created, and we don't want that you waste your time reinventing the wheel :wink:&#x20;
 {% endhint %}
 
 If a variant of a component needs to be created, use the corresponding component in the UI Kit as a base. For example:
@@ -60,11 +60,11 @@ Make sure your code is formatted with Prettier, and is free from any ESLint erro
 
 #### Some good practices
 
-* Keep components as small and ["dumb"](https://en.wikipedia.org/wiki/Pure_function) as possible.
+* Keep components as small and ["dumb"](https://en.wikipedia.org/wiki/Pure\_function) as possible.
 * Use [Composition over Inheritance](https://reactjs.org/docs/composition-vs-inheritance.html).
 * Keep in mind that your code will be read and maintained by several other developers. Make it as clear and easy to update as possible.
 
-### Committing <a href="committing" id="committing"></a>
+### Committing <a href="#committing" id="committing"></a>
 
 Our commit messages follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) using [commitlint](https://commitlint.js.org/#/).‌
 
@@ -80,11 +80,11 @@ Our commit messages follow [Conventional Commits](https://www.conventionalcommit
 | **style**    | Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)      |
 | **test**     | Adding missing tests or correcting existing tests                                                           |
 
-_More at _[_Angular's guidelines_](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#type)_​_
+_More at_ [_Angular's guidelines_](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#type)_​_
 
-### Creating your pull request 
+### Creating your pull request&#x20;
 
-Your code is ready to be submitted for review, congratulations:partying_face: 
+Your code is ready to be submitted for review, congratulations:partying\_face:&#x20;
 
 * All pull requests **must** have a description of what the PR is trying to accomplish.
 * Keep pull requests **as small as possible**. Larger pull requests should be broken up into smaller chunks with a dedicated base branch. Please tag the PR's that are merging into your base branch with the `epic` tag.
@@ -94,4 +94,4 @@ Your code is ready to be submitted for review, congratulations:partying_face:
 Create a [draft PR](https://github.blog/2019-02-14-introducing-draft-pull-requests/) as soon as possible so we can view your ongoing progress.
 {% endhint %}
 
-**Thanks your for helping us making Pancake even more awesome **:heart: 
+**Thanks your for helping us making Pancake even more awesome** :heart:&#x20;

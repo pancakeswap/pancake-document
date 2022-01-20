@@ -1,6 +1,6 @@
 # 🎟 彩票 v2
 
-![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MdUg8ahFKk9Q8jMaBBP%2F-MdUxt8CCVOUITl4uAqK%2Fdocs%20masthead%20%283%29.png?alt=media&token=386d0ebc-8033-4dd0-8445-2436be2f6a60)
+![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MdUg8ahFKk9Q8jMaBBP%2F-MdUxt8CCVOUITl4uAqK%2Fdocs%20masthead%20\(3\).png?alt=media\&token=386d0ebc-8033-4dd0-8445-2436be2f6a60)
 
 PancakeSwap 彩票给予您赢取巨额 CAKE 奖金的机会！它非常简单、非常公平。只要有足够的 CAKE 购彩，您可以随时参与。
 
@@ -20,7 +20,7 @@ PancakeSwap 彩票给予您赢取巨额 CAKE 奖金的机会！它非常简单�
 
 一次购买多张彩票即可获得批量折扣。您可以在一次操作中购买多达 100 张彩票。从两张开始计算折扣，数量到达 100 张时，折扣率会上升到 4.95%。
 
-![](../.gitbook/assets/image%20%2850%29.png)
+![](<../.gitbook/assets/image (146).png>)
 
 ## **如何中奖**
 
@@ -35,17 +35,17 @@ PancakeSwap 彩票给予您赢取巨额 CAKE 奖金的机会！它非常简单�
 
 **抽出号码**
 
-![&#x62BD;&#x51FA;&#x53F7;&#x7801;](../.gitbook/assets/image%20%2857%29.png)
+![抽出号码](<../.gitbook/assets/image (148).png>)
 
 **您的购彩号码**
 
-![&#x5F69;&#x7968; A](../.gitbook/assets/image%20%2895%29%20%281%29.png)
+![彩票 A](<../.gitbook/assets/image (95) (1).png>)
 
 在上面 A 彩票的例子中，除了第四个号码，其他人五个号码与开出的号码相匹配，顺序完全相同。
 
 然而，由于第四个数字与开奖号码不匹配，只有前三个数字按顺序匹配。这将赢得一个「命中前三位」的奖池。
 
-![&#x5F69;&#x7968; B](../.gitbook/assets/image%20%2851%29.png)
+![彩票 B](<../.gitbook/assets/image (149).png>)
 
 例子 B：这是一张非常不幸的彩票。尽管后五位数字是匹配的，但因为第一位数字不匹配，所以这张彩票没有命中任何奖池。
 
@@ -62,4 +62,3 @@ PancakeSwap 彩票给予您赢取巨额 CAKE 奖金的机会！它非常简单�
 但是，如果除了您以外，有另外三个人同样按顺序，匹配了三个号码。2000 CAKE 将在四张中奖彩票之间平分，这意味着您将获得 500 个 CAKE。
 
 查看 **彩票常见问题以及奖池彩金分配** 了解详情。
-

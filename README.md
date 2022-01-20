@@ -1,6 +1,6 @@
 # PancakeSwap 介绍
 
-![](<.gitbook/assets/masthead-twitter-3- (1) (1).png>)
+![](<.gitbook/assets/masthead-twitter-3- (1).png>)
 
 {% hint style="success" %}
 #### PancakeSwap 致力为您最大化利用虚拟货币资产！
@@ -48,9 +48,9 @@ PancakeSwap 是币安智能链上领先的去中心化交易所，交易量在�
 
 ### 彩票
 
-PancakeSwap** **彩票奖金池时常高达**百万美元，**每天**多达 11,000 名玩家**乐在其中。加入他们，下一个赢得大奖的或许就是您！
+PancakeSwap **** 彩票奖金池时常高达**百万美元，**每天**多达 11,000 名玩家**乐在其中。加入他们，下一个赢得大奖的或许就是您！
 
-### NFT 收藏品 
+### NFT 收藏品&#x20;
 
 通过参加交易大战或其他有趣的游戏，赢得 NFT 收藏品。
 
@@ -69,7 +69,7 @@ PancakeSwap** **彩票奖金池时常高达**百万美元，**每天**多达 11,
   * [慢雾 对自动蛋糕 Syrup 资金池的安全审计](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20CakeVault.pdf)
 * 公开透明：
   * PancakeSwap 在开源软件上构造：我们的网站和所有的智能合约都是公开的，以便最大化透明度。
-  * 我们的智能合约均已在 BscScan 上验证源码，您可以去亲自检查：[1](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E) [2](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#code) [3](https://bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812) [4](https://bscscan.com/address/0x1b96b92314c44b159149f7e0303511fb2fc4774f#code) [5](https://bscscan.com/address/0x92E8CeB7eAeD69fB6E4d9dA43F605D2610214E68) 
+  * 我们的智能合约均已在 BscScan 上验证源码，您可以去亲自检查：[1](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E) [2](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#code) [3](https://bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812) [4](https://bscscan.com/address/0x1b96b92314c44b159149f7e0303511fb2fc4774f#code) [5](https://bscscan.com/address/0x92E8CeB7eAeD69fB6E4d9dA43F605D2610214E68)&#x20;
 * 安全操作章程：
   * 对于所有智能合约的互动，大厨们均使用多签名钱包。
   * 合约均有时间锁，让您放心投资。

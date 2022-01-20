@@ -31,7 +31,7 @@
 
 手机/移动设备钱包应用允许您随时随地操作您的加密货币。钱包应用在安卓和 iOS 设备上均可使用。
 
-### 我应该选择哪个手机钱包？ <a href="which-mobile-wallet-should-i-choose" id="which-mobile-wallet-should-i-choose"></a>
+### 我应该选择哪个手机钱包？ <a href="#which-mobile-wallet-should-i-choose" id="which-mobile-wallet-should-i-choose"></a>
 
 This comparison table gives an overview of the most popular mobile wallets used with PancakeSwap.
 
@@ -54,7 +54,7 @@ This comparison table gives an overview of the most popular mobile wallets used 
 
 {% tabs %}
 {% tab title="Trust Wallet" %}
-![](<../.gitbook/assets/image (70).png>)
+![](<../.gitbook/assets/image (36).png>)
 
 Trust Wallet 在移动设备上颇受欢迎的钱包应用。它支持 DApps，NFT 收藏品（支持 Opensea.io），以及钱包内直接质押，
 
@@ -63,7 +63,7 @@ Trust Wallet 在移动设备上颇受欢迎的钱包应用。它支持 DApps，N
 * 开源代码可审计
 * 得到币安加密货币交易所的支持
 * 在几个加密货币网络之间轻松切换
-* 默认包含币安智能链网络  
+* 默认包含币安智能链网络 &#x20;
 * 含有钱包内质押选项
 * 拥有额外的功能，如：NFT 收藏品浏览、BNB 质押和钱包内的 DApp 访问。
 
@@ -79,18 +79,18 @@ Trust Wallet 在移动设备上颇受欢迎的钱包应用。它支持 DApps，N
 {% endtab %}
 
 {% tab title="MetaMask" %}
-![](<../.gitbook/assets/image (33) (3) (4) (5) (1).png>)
+![](<../.gitbook/assets/image (33) (3) (4) (5).png>)
 
 MetaMask 是一个基于浏览器的热门钱包插件，支持 ERC20（以太坊网络）、BEP2 和 BEP20（币安链与币安智能链）。
 
 ​**优点：**
 
 * 开源代码可审计
-* 适用于 BscScan 上的 web3 操作  
+* 适用于 BscScan 上的 web3 操作 &#x20;
 * 优秀的安全性和可靠性记录
-* 网上有大量的资料与操作指南 
-* 非常多小工具及自定义设置  
-* 提供使用 Transak 购买 ETH 
+* 网上有大量的资料与操作指南&#x20;
+* 非常多小工具及自定义设置 &#x20;
+* 提供使用 Transak 购买 ETH&#x20;
 * 丰富的语言支持
 * 同时提供电脑浏览器插件
 
@@ -109,7 +109,7 @@ MetaMask 是一个基于浏览器的热门钱包插件，支持 ERC20（以太�
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](<../.gitbook/assets/image (125) (3) (4) (2).png>)
+![](<../.gitbook/assets/image (125) (3) (4) (3).png>)
 
 Token Pocket 是一个原生支持多个网络（加密货币链）的虚拟货币钱包。它同时也提供电脑端程序。
 
@@ -131,19 +131,19 @@ Token Pocket 是一个原生支持多个网络（加密货币链）的虚拟货�
 
 ### **Token Pocket 手机端设置指南**
 
-1.  访问 Token Pocket 网站并点击 **手机下载 **开始下载
+1.  访问 Token Pocket 网站并点击 **手机下载** 开始下载
 
     ![](../.gitbook/assets/image.jpeg)
 2. 页面将自动检测您的设备，点击 **Google Play** 或 **App Store** 前往相应的商店下载。苹果用户建议使用 TestFlight 下载 TokenPocket Pro ，请遵循页面指示。
 3.  安装 Token Pocket 后打开，您将会看到一个询问您是否已有钱包的选项。若您想导入现有的钱包，请选择「我有钱包」。点击「我没有钱包」创建一个新的钱包：
 
-    ![](<../.gitbook/assets/mbp3-2021.08.16-103912am-cleanshot_cleanshot (1).png>)
+    ![](<../.gitbook/assets/mbp3-2021.08.16-103912am-cleanshot\_cleanshot (1) (1).png>)
 4.  在下一个页面，在列表内选择「**币安智能链**」。
 
-    ![](<../.gitbook/assets/image (1).png>)
+    ![](<../.gitbook/assets/image (153).png>)
 5.  接下来，选择顶部的「**创建钱包**」继续。
 
-    ![](../.gitbook/assets/mbp3-2021.08.16-104543am-cleanshot_cleanshot.png)
+    ![](../.gitbook/assets/MBP3-2021.08.16-104543AM-CleanShot\_CleanShot.png)
 6. 您需要设置一个保护您账号的密码。为了您的安全，请确保密码强度为「安全」。同时您可以添加一个密码提示，但请确保任何人无法用提示轻易地猜出密码。设置完后，点击「**创建钱包**」继续。
 7. 接着，钱包会提醒您备份助记词。请注意！助记词就是您的「银行卡卡号 + 密码」，任何人掌握了助记词，就可以操作您在区块链上该钱包内的**一切资产**！请务必使用多种方法妥善保管，不要透露给任何人。PancakeSwap 的社区管理员不会向您询问任何私钥或助记词。
 
@@ -162,10 +162,10 @@ Token Pocket 允许您使用电脑端或其他设备同时管理一个钱包，�
 
 1.  在底部点击「**我的**」，并选择「**钱包管理**」。
 
-    ![](../.gitbook/assets/mbp3-2021.08.16-105958am-cleanshot_cleanshot.png)
+    ![](../.gitbook/assets/MBP3-2021.08.16-105958AM-CleanShot\_CleanShot.png)
 2.  在下一页的左侧点击「**币安智能链**」，并找到您想导出私钥的钱包，点击向右箭头。
 
-    ![](../.gitbook/assets/mbp3-2021.08.16-110225am-cleanshot_cleanshot.png)
+    ![](../.gitbook/assets/MBP3-2021.08.16-110225AM-CleanShot\_CleanShot.png)
 3. 当菜单出现时，选择「**导出私钥**」，输入密码即可获得并复制您的钱包私钥。
 
 {% hint style="danger" %}
@@ -176,7 +176,7 @@ Token Pocket 允许您使用电脑端或其他设备同时管理一个钱包，�
 {% endtab %}
 
 {% tab title="SafePal" %}
-![](<../.gitbook/assets/image (26).png>)
+![](<../.gitbook/assets/image (37).png>)
 
 SafePal 有软件和硬件钱包两种形式。该钱包 App 安装便捷，设置步骤简单，并原生支持币安链 (BEP2) 和币安智能链 (BEP20)。
 
@@ -192,7 +192,7 @@ SafePal 有软件和硬件钱包两种形式。该钱包 App 安装便捷，设�
 
 **缺点：**
 
-* 代码非完全开源 
+* 代码非完全开源&#x20;
 * 某些功能尚未完善（如 DeFi）
 * 不支持通知消息提醒
 * 初始设置及钱包创建时，并不强制用户使用强安全凭证

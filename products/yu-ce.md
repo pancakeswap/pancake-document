@@ -4,7 +4,7 @@
 
 PancakeSwap 「预测」是一个简单有趣的去中心化预测市场。
 
-> ### Predict whether BNB's price will rise or fall – guess correctly to win! <a href="predict-whether-bnbs-price-will-rise-or-fall-guess-correctly-to-win" id="predict-whether-bnbs-price-will-rise-or-fall-guess-correctly-to-win"></a>
+> ### Predict whether BNB's price will rise or fall – guess correctly to win! <a href="#predict-whether-bnbs-price-will-rise-or-fall-guess-correctly-to-win" id="predict-whether-bnbs-price-will-rise-or-fall-guess-correctly-to-win"></a>
 
 参与方法非常简单：
 
@@ -14,7 +14,7 @@ PancakeSwap 「预测」是一个简单有趣的去中心化预测市场。
 
 玩得开心！
 
-~~​~~[~~查看 V1 智能合约~~](https://bscscan.com/address/0x516ffd7D1e0Ca40b1879935B2De87cb20Fc1124b)~~ (已弃用)~~
+~~​~~[~~查看 V1 智能合约~~](https://bscscan.com/address/0x516ffd7D1e0Ca40b1879935B2De87cb20Fc1124b) ~~(已弃用)~~
 
 ​[**查看 V2 智能合约**](https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda)
 

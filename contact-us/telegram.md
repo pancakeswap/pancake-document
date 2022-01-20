@@ -22,20 +22,20 @@
 
 ### 💬 电报 (Telegram)
 
-**官方电报群： **
+**官方电报群：**&#x20;
 
-* 📣 公告频道（英文）([http://t.me/PancakeSwapAnn](http://t.me/PancakeSwapAnn)) 
-* 🥞 English ([http://t.me/pancakeswap](http://t.me/pancakeswap)) 
+* 📣 公告频道（英文）([http://t.me/PancakeSwapAnn](http://t.me/PancakeSwapAnn))&#x20;
+* 🥞 English ([http://t.me/pancakeswap](http://t.me/pancakeswap))&#x20;
 * 🇯🇵 Japanese ([https://t.me/PancakeSwapJP](https://t.me/PancakeSwapJP))
-* 🇨🇳 中文 ([http://t.me/PancakeSwap_CN](http://t.me/PancakeSwap_CN)) 
-* 🇮🇩 Indonesian ([http://t.me/PancakeSwapIndonesia](http://t.me/PancakeSwapIndonesia)) 
-* 🇻🇳 Việt Nam ([https://t.me/PancakeSwapVN](https://t.me/PancakeSwapVN)) 
-* 🇪🇸 🇦🇷 🇻🇪 Español ([https://t.me/PancakeSwapES](https://t.me/PancakeSwapES)) 
-* 🇷🇺 Russian ([http://t.me/pancakeswap_ru](http://t.me/pancakeswap_ru)) 
+* 🇨🇳 中文 ([http://t.me/PancakeSwap\_CN](http://t.me/PancakeSwap\_CN))&#x20;
+* 🇮🇩 Indonesian ([http://t.me/PancakeSwapIndonesia](http://t.me/PancakeSwapIndonesia))&#x20;
+* 🇻🇳 Việt Nam ([https://t.me/PancakeSwapVN](https://t.me/PancakeSwapVN))&#x20;
+* 🇪🇸 🇦🇷 🇻🇪 Español ([https://t.me/PancakeSwapES](https://t.me/PancakeSwapES))&#x20;
+* 🇷🇺 Russian ([http://t.me/pancakeswap\_ru](http://t.me/pancakeswap\_ru))&#x20;
 * 🇧🇷 🇵🇹 Portuguese/Brazilian Community ([https://t.me/PancakeSwapPortuguese](https://t.me/PancakeSwapPortuguese))
-*  🇫🇷 French ([https://t.me/pancakeswapfr](https://t.me/pancakeswapfr)) 
-* 🇮🇹 Italiano ([https://t.me/pancakeswap_ita](https://t.me/pancakeswap_ita)) 
-* 🇹🇷 Türkiye ([https://t.me/pancakeswapturkiye](https://t.me/pancakeswapturkiye)) 
+* &#x20;🇫🇷 French ([https://t.me/pancakeswapfr](https://t.me/pancakeswapfr))&#x20;
+* 🇮🇹 Italiano ([https://t.me/pancakeswap\_ita](https://t.me/pancakeswap\_ita))&#x20;
+* 🇹🇷 Türkiye ([https://t.me/pancakeswapturkiye](https://t.me/pancakeswapturkiye))&#x20;
 * 😤 错误封禁申诉 ([https://t.me/joinchat/C\_9mwknNuKq-cfXQ4-HMHA](https://t.me/joinchat/C\_9mwknNuKq-cfXQ4-HMHA))
 
 {% hint style="danger" %}
