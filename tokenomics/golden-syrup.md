@@ -1,4 +1,3 @@
-# Golden SYRUP \(Lottery\)
+# Golden SYRUP (Lottery)
 
-![](../.gitbook/assets/screenshot-2020-09-20-at-8.14.22-pm.png)
-
+![](<../.gitbook/assets/Screenshot 2020-09-20 at 8.14.22 PM.png>)
