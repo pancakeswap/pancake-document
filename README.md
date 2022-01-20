@@ -1,35 +1,35 @@
-# PancakeSwap Intro
+# Introduçao à PancakeSwap
 
-PancakeSwap is a **decentralized exchange** running on Binance Smart Chain, with lots of other features that let you **earn and win tokens.** 
+PancakeSwap é uma **Exchange Descentralizada** rodando na Binance Smart Chain, com muitos recursos para você **render e ganhar tokens.** 
 
-It's fast, cheap, and anyone can use it. 
+É rápida, barata e todo mundo pode usar.
 
-It's also got pancakes and rabbits.
+E também tem colehos e panquecas.
 
-### Features
+### Funcionalidades
 
 #### ↔️ Trade
 
-The [exchange](products/pancakeswap-exchange/) is an automated market maker \(“AMM”\) that allows two tokens to be exchanged on the Binance Smart Chain. 
+A [exchange](products/pancakeswap-exchange/) é um Criador de Mercado Automatizado \(“AMM”\) que permite que dois tokens sejam trocados na Binance Smart Chain. 
 
-#### 💸 Earn
+#### 💸 Ganhe
 
-On top of that, you can earn CAKE with [yield farms](products/yield-farming/farms.md), earn CAKE with Staking, and earn even more tokens with [Syrup pools](products/syrup-pools/syrup-pool.md).
+Além disso, você pode ganhar CAKE com [yield farms](products/yield-farming/farms.md),ganhar CAKE com stake, e ganhar outros tokens com as [Pools de Syrup](products/syrup-pools/syrup-pool.md).
 
-#### 🎲 Win
+#### 🎲 Vença
 
-Win big with the [PancakeSwap Lottery](products/lottery/lottery-1.md)!
+Vença grandes prêmios com [Loteria da PancakeSwap](products/lottery/lottery-1.md)!
 
 ![](.gitbook/assets/1500x500.jpeg)
 
-### **Why Binance Smart Chain \(BSC\)?**
+### **Por que Binance Smart Chain \(BSC\)?**
 
-In very simple terms, why would we want to drive a slower car that costs more to run? We're all about gamification, so we want to maximize the feedback loop of earning, staking, and earning again: BSC's superior speed and much \(much much\) lower transaction fees let us do this.
+Em termos muito simples, por que iríamos querer dirigir um carro mais lento e que custa mais para rodar? Somos todos pela gameficação, então queremos maximizar o ciclo de retorno de ganhar, fazer stake e ganhar novamente: a velocidade superior da BSC e as taxas de transação muito \(muito muito\) mais baixas nos permitem fazer isso.
 
-While BSC might not have the level of adoption Ethereum does at current, we believe in Binance’s ability and drive to get it mighty close in the foreseeable future.
+Embora o BSC possa não ter o nível de adoção que o Ethereum tem atualmente, acreditamos na capacidade da Binance e nos esforçamos para atingi-lo no futuro próximo.
 
-Faster. Cheaper. **Sold.**
+Mais rápido. Mais barato. **Vendido**.
 
-**Now get flipping!** 🐰 🥞  
+**Agora comece a virar!**  🐰 🥞  
 ****
 
