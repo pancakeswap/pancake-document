@@ -10,34 +10,34 @@ Tickets are only eligible for prizes if matching numbers from left to right. See
 
 ## How is Lottery v2 different from Lottery v1?
 
-Lottery v2 distributes prizes more widely than Lottery v1. It gives each ticket a 1 in 10 chance to match the first number, which means more tickets will at least win a small prize. It also has 6 \(up from 4\) numbers that need to be matched sequentially to win the biggest prize.
+Lottery v2 distributes prizes more widely than Lottery v1. It gives each ticket a 1 in 10 chance to match the first number, which means more tickets will at least win a small prize. It also has 6 (up from 4) numbers that need to be matched sequentially to win the biggest prize.
 
 Overall this means more tickets can win a prize, but the largest prize jackpot will be won less frequently, making for huge top prize pools!
 
 **Lottery v2 introduces:**
 
-* cheaper ticket prices \(~$5 USD in CAKE per ticket\) that don't swing wildly with the price of CAKE
+* cheaper ticket prices (\~$5 USD in CAKE per ticket) that don't swing wildly with the price of CAKE
 * bulk ticket discounts
 * 6-tiered prize pool brackets with increasing prize pools as more numbers are matched
-* manual number selection \(optional\), so users can use their lucky numbers
+* manual number selection (optional), so users can use their lucky numbers
 * [Chainlink’s implementation of VRF](https://docs.chain.link/docs/chainlink-vrf/) for true, secure randomness
-* lower overall fees \(see [lower down this page](lottery-faq.md#what-transaction-fee-will-i-pay-for-buying-tickets) for more information\)
+* lower overall fees (see [lower down this page](lottery-faq.md#what-transaction-fee-will-i-pay-for-buying-tickets) for more information)
 
 [Learn more about Lottery v2 features, gameplay, and prizes](./)
 
 ## How are prizes broken down between brackets?
 
-Each bracket's prize pool is a portion of the total CAKE in each Lottery round. 
+Each bracket's prize pool is a portion of the total CAKE in each Lottery round.&#x20;
 
-* | Bracket \(numbers matched in order\) | CAKE Allocation |
-  | :--- | :--- |
-  | First 1 number | 2% |
-  | First 2 numbers | 3% |
-  | First 3 numbers | 5% |
-  | First 4 numbers | 10% |
-  | First 5 numbers | 20% |
-  | First 6 numbers | 40% |
-  | Burn | 20% |
+* | Bracket (numbers matched in order) | CAKE Allocation |
+  | ---------------------------------- | --------------- |
+  | First 1 number                     | 2%              |
+  | First 2 numbers                    | 3%              |
+  | First 3 numbers                    | 5%              |
+  | First 4 numbers                    | 10%             |
+  | First 5 numbers                    | 20%             |
+  | First 6 numbers                    | 40%             |
+  | Burn                               | 20%             |
 
 ## Can I swap my tickets back to CAKE?
 
@@ -47,7 +47,7 @@ No, once purchased you will not be able to convert your ticket back to CAKE.
 
 Yes, you will need to click the **Check Now** button under "Are you a winner?" on the Lottery page.
 
-![](../../.gitbook/assets/image%20%2886%29.png)
+![](<../../.gitbook/assets/image (150).png>)
 
 ## How often is the lottery?
 
@@ -57,7 +57,7 @@ A new Lottery round starts every 12 hours.
 
 Every ticket purchase you make will be one transaction. Purchasing a single ticket in a Lottery purchase will cost the normal amount of fees for a transaction.
 
-However, buying more tickets in that purchase will increase the fee. Buying 100 tickets rather than 1 will not multiply the fee by 100, but may increase the fee amount by 5-6 times \(though this varies\).
+However, buying more tickets in that purchase will increase the fee. Buying 100 tickets rather than 1 will not multiply the fee by 100, but may increase the fee amount by 5-6 times (though this varies).
 
 ## How does the bulk discount work?
 
@@ -73,13 +73,12 @@ You can only buy a maximum of 100 tickets in one purchase, but you can make mult
 
 Yes, each ticket is treated as a separate entry to the Lottery. Keep in mind that the prizes will not be 1:1 though, as each winning ticket you have dilutes each share of the bracket's total prizes.
 
-## Injection schedule: When is CAKE added to the lottery? 
+## Injection schedule: When is CAKE added to the lottery?&#x20;
 
-When people buy tickets, the CAKE they spend is added to the lottery pot. In addition, a total of 20,000 CAKE is also added \(injected\) to lottery pots on a regular schedule over the course of eight rounds \(four days\).
+When people buy tickets, the CAKE they spend is added to the lottery pot. In addition, a total of 20,000 CAKE is also added (injected) to lottery pots on a regular schedule over the course of eight rounds (four days).
 
 This injection schedule started with round 84:
 
-![Lottery injection schedule](../../.gitbook/assets/injection-schedule.png)
+![Lottery injection schedule](<../../.gitbook/assets/injection schedule.png>)
 
 The cycle restarts with a new 20,000 CAKE as soon as it finishes.
-

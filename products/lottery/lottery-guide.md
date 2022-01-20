@@ -1,6 +1,6 @@
 # How to Play Lottery v2
 
-![](../../.gitbook/assets/docs-masthead-6-.png)
+![](<../../.gitbook/assets/docs masthead (6) (1).png>)
 
 PancakeSwap's Lottery is not only a good way to make stacks of CAKE, it's also loads of fun! This guide will walk you through getting involved in the Lottery.
 
@@ -16,13 +16,13 @@ The Lottery has changed a little since its first iteration. Lottery v2 lets you 
 
 ‌1. Visit the[ PancakeSwap Lottery page](https://pancakeswap.finance/lottery) and look at the top of the page. You'll see the current round's prize pool shown in (estimated) US dollar value.
 
-![](https://lh5.googleusercontent.com/xjHyOYGhIW7tylzt7ZoqogZ4jlK1QfUX3kgxa_yqpQwVcr48abh3jErRc1fjF4HJISl-Kqzoa4XY1sB\_8kpOwEWIIXUJ15PIpKdrULJSzwR9L7ANpvyABtWRk7Z9jm_GzW3KXqo8)
+![](https://lh5.googleusercontent.com/xjHyOYGhIW7tylzt7ZoqogZ4jlK1QfUX3kgxa\_yqpQwVcr48abh3jErRc1fjF4HJISl-Kqzoa4XY1sB\_8kpOwEWIIXUJ15PIpKdrULJSzwR9L7ANpvyABtWRk7Z9jm\_GzW3KXqo8)
 
 This is the amount to be shared between all winners.
 
 ‌2. A little lower down the page you'll find the remaining time before the current round is drawn.
 
-![](https://lh3.googleusercontent.com/OHYLboNuQg97z1yhxOmMiIh4SDzpXbo0orf4ryNtdKGPd5eFYTunMC1p4KXuSNaiEUmNqzs0IfKBJUqptd5YeAMwwDRIwPNOJwXD_Y1ILEP801Q618GY3xZv22blxGr7WPkmgpbZ)
+![](https://lh3.googleusercontent.com/OHYLboNuQg97z1yhxOmMiIh4SDzpXbo0orf4ryNtdKGPd5eFYTunMC1p4KXuSNaiEUmNqzs0IfKBJUqptd5YeAMwwDRIwPNOJwXD\_Y1ILEP801Q618GY3xZv22blxGr7WPkmgpbZ)
 
 Remember, a lot can change in the remaining time. Many more tickets may be sold. Each sold ticket both increases the prize pool, and lowers the odds of an individual ticket winning.
 
@@ -30,7 +30,7 @@ Remember, a lot can change in the remaining time. Many more tickets may be sold.
 
 ## Buying Lottery tickets
 
-‌Buying tickets is easy. 
+‌Buying tickets is easy.&#x20;
 
 You just need a little CAKE though: each ticket costs approximately $5 USD (the exact CAKE price is set at the start of the round).
 
@@ -42,15 +42,15 @@ You can choose to either randomize your lottery ticket numbers, or to choose you
 
 1\. On the[ PancakeSwap Lottery page](https://pancakeswap.finance/lottery), click the **Buy Tickets** button at the top of the page (there's another lower on the page also).
 
-![](https://lh5.googleusercontent.com/uzvN8ZK78KrrnUo1lZsTpB-RG_WKi5R2U3ZXtmO5od1jx02mEaxaL2uEN2mSylkrbsQLDpAHdzrib4cxtO8OUsifCHgXxRUi7dSeksWY725YOnPJ9eQlkS85bNYoWIsl6PUmCSTc)
+![](https://lh5.googleusercontent.com/uzvN8ZK78KrrnUo1lZsTpB-RG\_WKi5R2U3ZXtmO5od1jx02mEaxaL2uEN2mSylkrbsQLDpAHdzrib4cxtO8OUsifCHgXxRUi7dSeksWY725YOnPJ9eQlkS85bNYoWIsl6PUmCSTc)
 
 There is a time between rounds where purchasing tickets isn't possible. Just check back after the countdown if that's the case.
 
-![](https://lh3.googleusercontent.com/JMN04H2T-oTc0FiC3L5ZMa7Xtfb0xtk58JsJ3CvQyJ8MKI6BNS5iJOCTubfO5KApRuMB\_6Un97SQmFRujLJhDNOWT97y4\_m3dzkRLD4ovcoNuaBqGhAwKhN_cTOgcEFpYPhG4c_j)
+![](https://lh3.googleusercontent.com/JMN04H2T-oTc0FiC3L5ZMa7Xtfb0xtk58JsJ3CvQyJ8MKI6BNS5iJOCTubfO5KApRuMB\_6Un97SQmFRujLJhDNOWT97y4\_m3dzkRLD4ovcoNuaBqGhAwKhN\_cTOgcEFpYPhG4c\_j)
 
 2\. A window will open letting you choose how many ticket to buy. Type how many tickets you'd like to buy into the field. You can also use the preset buttons underneath.
 
-![](<../../.gitbook/assets/image (68).png>)
+![](<../../.gitbook/assets/image (142).png>)
 
 3\. Before you continue, it's worth considering the bulk purchase discounts. The more tickets you buy, the greater the discount.
 
@@ -58,7 +58,7 @@ The discount starts at 2 tickets, and scales all the way to 100 tickets where yo
 
 4\. When you're happy with the number of tickets you want to buy, click **Confirm** and confirm your action in your wallet.
 
-![](<../../.gitbook/assets/image (61).png>)
+![](<../../.gitbook/assets/image (143).png>)
 {% endtab %}
 
 {% tab title="Manual ticket numbers" %}
@@ -70,11 +70,11 @@ The discount starts at 2 tickets, and scales all the way to 100 tickets where yo
 
 There is a time between rounds where purchasing tickets isn't possible. Just check back after the countdown if that's the case.
 
-![](https://lh6.googleusercontent.com/UwGdWEMdShE5\_MfQCn6k8zmuXFIOSNPiihIEPMJzXbZpKRl5yk-deuSDydyo00Z67G0zFhxq_pVnItoLZCKbJTpD8RjTVbDzZZc-NiTc1isn5IAGZTBcXIRl8VyMzG_xNZBE5csi)
+![](https://lh6.googleusercontent.com/UwGdWEMdShE5\_MfQCn6k8zmuXFIOSNPiihIEPMJzXbZpKRl5yk-deuSDydyo00Z67G0zFhxq\_pVnItoLZCKbJTpD8RjTVbDzZZc-NiTc1isn5IAGZTBcXIRl8VyMzG\_xNZBE5csi)
 
 2\. A window will open letting you choose how many ticket to buy. Type how many tickets you'd like to buy into the field. You can also use the preset buttons underneath.
 
-![](<../../.gitbook/assets/image (68).png>)
+![](<../../.gitbook/assets/image (142).png>)
 
 3\. Before you continue, it's worth considering the bulk purchase discounts. The more tickets you buy, the greater the discount.
 
@@ -82,21 +82,21 @@ The discount starts at 2 tickets, and scales all the way to 100 tickets where yo
 
 4\. To customize the numbers on your tickets, click the **View/Edit Numbers** button.
 
-![](<../../.gitbook/assets/image (13).png>)
+![](<../../.gitbook/assets/image (144).png>)
 
 5\. A new window will open showing your tickets. Click onto a number for any ticket to change the number in that position.
 
 You can randomize your numbers again by clicking **Randomize**, or go back if you change your mind by clicking **Go back**.
 
-![](https://lh4.googleusercontent.com/229uStQBb-Uzj-Tu9kRDXxfux4wWNjeHjPXJBULwhKbCR5UEgWnb3jzzj1-KeWeBfxfGlctR9aH_S1P_l6\_VgtrZR0Eb2AVqrJLF8oNkpoVFlpeHaOIsUij-bs12QBOwDAIJEJiU)
+![](https://lh4.googleusercontent.com/229uStQBb-Uzj-Tu9kRDXxfux4wWNjeHjPXJBULwhKbCR5UEgWnb3jzzj1-KeWeBfxfGlctR9aH\_S1P\_l6\_VgtrZR0Eb2AVqrJLF8oNkpoVFlpeHaOIsUij-bs12QBOwDAIJEJiU)
 
 You'll get a warning if you create duplicate tickets. It's possible your duplicate tickets will win. In this case your tickets will share in the prize pool for their bracket.
 
-![](https://lh3.googleusercontent.com/jqaMYUJQWpMIkzonsVvIpz_lUBzLYDSMxFZftLqdxqrzPzcwnpZio-XMw7LFCpOPOgq-tZX8yD5WfW_TATvH1jX0ZTh9WwNm75vezhfpiH5ljXTphkJgg344KdAE0JplkXw-oqjN)
+![](https://lh3.googleusercontent.com/jqaMYUJQWpMIkzonsVvIpz\_lUBzLYDSMxFZftLqdxqrzPzcwnpZio-XMw7LFCpOPOgq-tZX8yD5WfW\_TATvH1jX0ZTh9WwNm75vezhfpiH5ljXTphkJgg344KdAE0JplkXw-oqjN)
 
 6\. When you're happy with your numbers, click the **Confirm and buy** button.
 
-![](<../../.gitbook/assets/image (31).png>)
+![](<../../.gitbook/assets/image (145).png>)
 
 Confirm the action in your wallet.
 {% endtab %}
@@ -108,7 +108,7 @@ You can view your tickets after buying them before the round's numbers are drawn
 
 1\. Click **View Your Tickets** in the "Next Draw" area of the Lottery page.
 
-![](https://lh4.googleusercontent.com/GSUujMwjqv5c\_0UeeVrWmBnyeTiBVfhSiiQd8NZie8tpCC\_65c7mGPJfS0O_q72MstJUGeOZ7VWnrGIytwRHowcCGi6Cdgj5flwg06GODRs8Or\_3R-rZB1pKcP1pudwtjJBJJBDO)
+![](https://lh4.googleusercontent.com/GSUujMwjqv5c\_0UeeVrWmBnyeTiBVfhSiiQd8NZie8tpCC\_65c7mGPJfS0O\_q72MstJUGeOZ7VWnrGIytwRHowcCGi6Cdgj5flwg06GODRs8Or\_3R-rZB1pKcP1pudwtjJBJJBDO)
 
 2\. A window will open showing all of your tickets and their numbers. It'll also give you the option to buy more tickets if you'd like.
 
@@ -122,8 +122,8 @@ You can view your tickets after buying them before the round's numbers are drawn
 
 ‌You can view your winning tickets in the same way you viewed your tickets after buying them.
 
-‌1. Click** View Your Tickets** in the "Finished Rounds" area of the Lottery page.
+‌1. Click **View Your Tickets** in the "Finished Rounds" area of the Lottery page.
 
-![](https://lh3.googleusercontent.com/p3QxWcrxCcBwHrhwPU55vnAN-BmelgNwKRWse8yEQQVfehXsIOvUX_tCo1gC7LpHxL-crIMS19RxpnMxn5yBuShNwXfH7qzCSdCOtnBeXhUuecrqRvhdI97rX_CuVuWAawaor6Mi)
+![](https://lh3.googleusercontent.com/p3QxWcrxCcBwHrhwPU55vnAN-BmelgNwKRWse8yEQQVfehXsIOvUX\_tCo1gC7LpHxL-crIMS19RxpnMxn5yBuShNwXfH7qzCSdCOtnBeXhUuecrqRvhdI97rX\_CuVuWAawaor6Mi)
 
 2\. A window will open showing the winning numbers and all of your tickets and their numbers.\

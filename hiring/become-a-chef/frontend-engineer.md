@@ -2,7 +2,7 @@
 
 ### General Information
 
-* Salary range: $120k-160k US Annual salary
+* Salary range: Competitive, negotiable
 * Position: Full-time
 * Location: Remote
 * Time-zone preference: Any
@@ -34,4 +34,3 @@
 ### How to apply
 
 Email Hiring@pancakeswap.com with your resume
-

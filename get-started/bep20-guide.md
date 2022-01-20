@@ -1,8 +1,8 @@
 # Get BEP20 Tokens
 
-![](../.gitbook/assets/docs-masthead-10-%20%281%29.png)
+![](<../.gitbook/assets/docs masthead (10) (1).png>)
 
-The native tokens of Binance Smart Chain \(BSC\) are **BEP20**.
+The native tokens of Binance Smart Chain (BSC) are **BEP20**.
 
 To do most things on BSC, you will need to pay gas, which comes in the form of BEP20 BNB.
 
@@ -24,9 +24,8 @@ You can go a few ways about converting your tokens to BEP20, but here are the on
 {% endtab %}
 
 {% tab title="💰 Binance.com" %}
-[**Binance.com**](https://github.com/pancakeswap/pancake-document/tree/255db0c7af28df2f9c1209daa5cdbd774490a666/get-started/www.binance.com) _\*\*_- You can withdraw tokens as BEP20 via your Binance account \(if you have one\). Bear in mind you need an account to do so.
+[**Binance.com**](https://github.com/pancakeswap/pancake-document/tree/255db0c7af28df2f9c1209daa5cdbd774490a666/get-started/www.binance.com) _\*\*_- You can withdraw tokens as BEP20 via your Binance account (if you have one). Bear in mind you need an account to do so.
 
 📖 [Here's a quick guide they made to help you out.](https://www.binance.com/en/support/faq/85a1c394ac1d489fb0bfac0ef2fceafd)
 {% endtab %}
 {% endtabs %}
-

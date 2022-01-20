@@ -1,16 +1,16 @@
 # CAKE Tokenomics
 
-![](<../../.gitbook/assets/en (6).png>)
+![](../../.gitbook/assets/en-1129.png)
 
-## **Emission rate** <a href="emission-rate" id="emission-rate"></a>
+## **Emission rate** <a href="#emission-rate" id="emission-rate"></a>
 
 ### **Per block**
 
 | **Metric**                                                                | **Emission/block (CAKE)** | **Emission/day (CAKE)** |
 | ------------------------------------------------------------------------- | ------------------------: | ----------------------: |
 | Emission                                                                  |                        40 |               1,152,000 |
-| Burned Weekly [(PID 138)](cake-tokenomics.md#why-is-the-cake-burn-manual) |                     -25.5 |                -734,400 |
-| **Effective Emission**                                                    |               **<14.5\*** |           **371,600\*** |
+| Burned Weekly [(PID 138)](cake-tokenomics.md#why-is-the-cake-burn-manual) |                    -25.75 |                -787,600 |
+| **Effective Emission**                                                    |              **<14.25\*** |           **364,400\*** |
 
 \*Effective Emission is in fact slightly below this amount: an additional 45,000 CAKE per day is diverted from the amount allocated to the lottery, and burned (PID 137 - Details below).
 
@@ -22,16 +22,16 @@ All CAKE minted to the Dev address is burned in the weekly burn and never enters
 As such, we haven't included it in the above emission rate.
 {% endhint %}
 
-## Distribution <a href="distribution" id="distribution"></a>
+## Distribution <a href="#distribution" id="distribution"></a>
 
 | Distributed to                | Reward/block (% of emission) | Reward/block (total CAKE) |           Reward/day |
 | ----------------------------- | ---------------------------: | ------------------------: | -------------------: |
-| Farms and Lottery             |                       11.25% |                       4.5 |     129,600 (approx) |
-| of which diverted and burned  |                              |                           |              -45,000 |
+| Farms and Lottery             |                       10.62% |                      4.25 |     122,400 (approx) |
+| of which diverted and burned  |                              |                           |              -46,000 |
 | Syrup Pools                   |                          25% |                        10 |     288,000 (approx) |
-| **Total Daily CAKE Emission** |                              |                           | **371,600 (approx)** |
+| **Total Daily CAKE Emission** |                              |                           | **364,400 (approx)** |
 
-## **Other Deflationary Mechanics** <a href="other-deflationary-mechanics" id="other-deflationary-mechanics"></a>
+## **Other Deflationary Mechanics** <a href="#other-deflationary-mechanics" id="other-deflationary-mechanics"></a>
 
 {% hint style="info" %}
 The burning process is currently manual. [View burn transactions here](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82?a=0x000000000000000000000000000000000000dead).
@@ -41,7 +41,7 @@ As well as the above, CAKE is also burned in the following ways:
 
 * **0.05%** of every trade made on PancakeSwap V2
 * **100%** of CAKE sent to the Dev address
-* **100%** of CAKE raised in IFOs
+* **100%** of CAKE performance fees from IFOs
 * **100%** of CAKE spent on Profile Creation and NFT minting
 * **100%** of CAKE bid during Farm Auctions
 * **20%** of CAKE spent on lottery tickets
@@ -62,7 +62,7 @@ These pools work similarly to the farms, where the Chefs can adjust the percenta
 {% hint style="warning" %}
 On the day of the burn, the supply shown on the homepage might suddenly jump by several million CAKE.&#x20;
 
-Don't worry -** THIS CAKE NEVER ACTUALLY ENTERS CIRCULATION:**
+Don't worry - **THIS CAKE NEVER ACTUALLY ENTERS CIRCULATION:**
 {% endhint %}
 
 This apparent jump is just because of how all the CAKE that's allocated for the burn is stored during the week.&#x20;
@@ -79,4 +79,4 @@ To confirm that the circulating CAKE supply shown on the PancakeSwap homepage is
 
 
 
-#### **Read more about CAKE's deflationary mechanics on the next page.** <a href="read-more-about-cakes-deflationary-mechanics-on-the-next-page" id="read-more-about-cakes-deflationary-mechanics-on-the-next-page"></a>
+#### **Read more about CAKE's deflationary mechanics on the next page.** <a href="#read-more-about-cakes-deflationary-mechanics-on-the-next-page" id="read-more-about-cakes-deflationary-mechanics-on-the-next-page"></a>

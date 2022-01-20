@@ -1,6 +1,6 @@
 # Controlling CAKE supply
 
-![](<../../.gitbook/assets/docs-masthead-17- (1).png>)
+![](<../../.gitbook/assets/docs masthead (17) (1).png>)
 
 ## Why CAKE has no hard cap
 
@@ -10,7 +10,7 @@ Community members often point to this as a cause for concern, and while the chef
 
 > CAKE's primary function is to incentivize providing liquidity to the exchange. _Without block rewards, there would be much less incentive to provide liquidity (LP fees etc. would remain)._
 
-**So what are the other ways CAKE's supply is limited, to counter inflation? **
+**So what are the other ways CAKE's supply is limited, to counter inflation?**&#x20;
 
 ## How CAKE supply is reduced without a hard cap
 
@@ -22,5 +22,5 @@ By reducing the amount of CAKE made per block, we slow inflation. This has alrea
 
 ### Deflationary mechanisms
 
-Regular token burns ([view burn address](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82?a=0x000000000000000000000000000000000000dead)) are built into many of PancakeSwap's products (like a 10% burn of CAKE spent on lottery tickets), with more on the way. Check the** **[**CAKE Tokenomics page**](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics)** **for details on present and upcoming deflationary mechanisms.
+Regular token burns ([view burn address](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82?a=0x000000000000000000000000000000000000dead)) are built into many of PancakeSwap's products (like a 10% burn of CAKE spent on lottery tickets), with more on the way. Check the **** [**CAKE Tokenomics page**](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics) **** for details on present and upcoming deflationary mechanisms.
 

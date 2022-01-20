@@ -4,7 +4,7 @@ description: '"Don''t call it a roadmap"'
 
 # Roadmap
 
-![](<.gitbook/assets/docs-masthead-19- (1).png>)
+![](<.gitbook/assets/docs masthead (19) (1).png>)
 
 Updated Oct. 13, 2021
 
@@ -12,22 +12,22 @@ Updated Oct. 13, 2021
 
 ### This is not a roadmap: It’s a to-do list.
 
-Crypto moves fast, and we move fast too. 
+Crypto moves fast, and we move fast too.&#x20;
 
-Pivoting is a way of life. 
+Pivoting is a way of life.&#x20;
 
-That means that we don’t publicly commit to specific timelines, so we can organize our development priorities based on market changes and developer resources. 
+That means that we don’t publicly commit to specific timelines, so we can organize our development priorities based on market changes and developer resources.&#x20;
 
-![](https://lh3.googleusercontent.com/mFDTc-GpMUbUmBCdIQ56YvNx5-v4szQcZ8wKgux2BzfviFJRCKkJHEM9n_l_xY5sZcqeRo_vlMOE754wEDpK\_81cJ21nbjNXmHq3fIBlowt5FXJm-XGGIMPsEK7e_GxUuX7vCou4=s0)
+![](https://lh3.googleusercontent.com/mFDTc-GpMUbUmBCdIQ56YvNx5-v4szQcZ8wKgux2BzfviFJRCKkJHEM9n\_l\_xY5sZcqeRo\_vlMOE754wEDpK\_81cJ21nbjNXmHq3fIBlowt5FXJm-XGGIMPsEK7e\_GxUuX7vCou4=s0)
 
 {% hint style="info" %}
-Items in the Backlog/exploration phase have not been forgotten, they’re just lower priority in the immediate future than those in the other phases. 
+Items in the Backlog/exploration phase have not been forgotten, they’re just lower priority in the immediate future than those in the other phases.&#x20;
 {% endhint %}
 
 ### Trade
 
 * Pending
-  * Team Battles/Trading Competitions as a Service: allow BSC projects to sponsor trading competitions on PancakeSwap for their LPs to increase volume (and burn more CAKE) 
+  * Team Battles/Trading Competitions as a Service: allow BSC projects to sponsor trading competitions on PancakeSwap for their LPs to increase volume (and burn more CAKE)&#x20;
   * Charts & other trading features on-site
   * Zap (single-sided liquidity provision): Contract is done, waiting for FE resources for integration.
 * Backlog
@@ -45,7 +45,7 @@ Items in the Backlog/exploration phase have not been forgotten, they’re just l
 * Backlog
   * Fixed-term Staking
   * Multi-reward Syrup Pools
-* Done 
+* Done&#x20;
   * CAKE Staking
   * Core Pools
   * Community Pools: Host BSC community project Pools, support with 0.1-0.2x CAKE farms

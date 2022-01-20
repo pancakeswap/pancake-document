@@ -59,7 +59,7 @@
   * [CAKE Tokenomics](tokenomics/cake/cake-tokenomics.md)
   * [Controlling CAKE supply](tokenomics/cake/controlling-cake-supply.md)
 
-## Developers <a href="code" id="code"></a>
+## Developers <a href="#code" id="code"></a>
 
 * [Contributing](code/contributing/README.md)
   * [Codebase Overview](code/contributing/codebase-overview.md)
@@ -77,15 +77,11 @@
 
 * [Become a Chef](hiring/become-a-chef/README.md)
   * [Social Media Marketing Manager](hiring/become-a-chef/social-media-marketing-manager.md)
-  * [Business Development Manager](hiring/become-a-chef/business-development-manager.md)
   * [Product Lead](hiring/become-a-chef/product-lead.md)
   * [Frontend Engineer](hiring/become-a-chef/frontend-engineer.md)
-  * [Senior Backend Engineer - JavaScript / TypeScript](hiring/become-a-chef/senior-backend-engineer-javascript-typescript.md)
-  * [Solidity Engineer](hiring/become-a-chef/solidity-engineer.md)
   * [Blockchain QA Engineer](hiring/become-a-chef/senior-qa-engineer.md)
-  * [UI/UX Designer](hiring/become-a-chef/ui-ux-designer.md)
 
-## Contract Governance <a href="governance" id="governance"></a>
+## Contract Governance <a href="#governance" id="governance"></a>
 
 * [Lottery](governance/lottery/README.md)
   * [Lottery Contract](governance/lottery/lottery-contract.md)

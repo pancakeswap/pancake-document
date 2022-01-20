@@ -4,7 +4,7 @@ description: Common error messages. Use the sidebar ➡️to jump to the error y
 
 # Troubleshooting Errors
 
-![](<../.gitbook/assets/docs-masthead-16- (1).png>)
+![](<../.gitbook/assets/docs masthead (16).png>)
 
 Sometimes you may find yourself facing a problem that doesn't have a clear solution. These troubleshooting tips may help you solve problems you run into.
 
@@ -24,7 +24,7 @@ You're trying to swap tokens, but your slippage tolerance is too low or liquidit
 2. Try trading a smaller amount at one time.
 3. Increase your slippage tolerance:
    1. Tap the settings icon on the liquidity page.
-   2. Increase your slippage tolerance a little and try again. ![](<../.gitbook/assets/image (9) (4) (2) (5).png>)
+   2. Increase your slippage tolerance a little and try again. ![](<../.gitbook/assets/image (9) (4) (2) (4).png>)
 4. Lastly, try inputting an amount with fewer decimal places.
 {% endtab %}
 
@@ -54,7 +54,7 @@ Still doesn't work?
 1. Tap the settings icon on the liquidity page.
 2. Increase your slippage tolerance a little and try again.
 
-![](<../.gitbook/assets/image (9) (4) (2) (2).png>)
+![](<../.gitbook/assets/image (9) (4).png>)
 {% endtab %}
 
 {% tab title="Reason" %}
@@ -88,7 +88,7 @@ For example, here's the ETH/WBNB pair: [https://bscscan.com/address/0x70d8929d04
 2. In **5. balanceOf**, input your wallet address and hit **Query**.
 3. Keep track of the number that's exported. It shows your balance within the LP in the uint256 format, which you'll need in the next step.
 
-![](<../.gitbook/assets/image (32).png>)
+![](<../.gitbook/assets/image (7).png>)
 
 ### Add or Remove Liquidity
 
@@ -102,7 +102,7 @@ Head to the router contract: [https://bscscan.com/address/0x05ff2b0db69458a0750b
 6. Add your wallet address in **to (address)**.
 7. Deadline must be an epoch time greater than the time the tx is executed.
 
-![](<../.gitbook/assets/image (19).png>)
+![](<../.gitbook/assets/image (5).png>)
 
 {% hint style="warning" %}
 This can cause very high slippage, and can cause the user to lose some funds if frontrun
@@ -124,7 +124,7 @@ This happened because you started making a transaction, but you didn't sign and 
 
 Try modifying the amount on “To” field. Therefore putting "(estimated)" symbol on “From”. Then initiate the swap immediately.
 
-![](<../.gitbook/assets/pancake-k-solution (2).png>)
+![](<../.gitbook/assets/Pancake-K-Solution (2).png>)
 
 This usually happen when you are trying to swap a token with its own fee.
 
@@ -158,7 +158,7 @@ Please select "Receive WBNB" and retry.
 
 **If you got this error while trying to swap:**
 
-Please contact the project team of the token you're trying to swap.** **This issue must be resolved by the project team.
+Please contact the project team of the token you're trying to swap. **** This issue must be resolved by the project team.
 {% endtab %}
 
 {% tab title="Reason" %}
@@ -264,7 +264,7 @@ Try manually increasing the **gas limit** (not gas price!) in your wallet before
 
 A limit of 200000 is usually enough.
 
-![](<../.gitbook/assets/image (169).png>)
+![](<../.gitbook/assets/image (2).png>)
 
 The above example is from Metamask; check your wallet's documentation if you aren't sure how to adjust the gas limit.
 {% endtab %}
@@ -334,19 +334,20 @@ You might be able to claim your winnings directly from the contract. Follow the 
 {% tab title="Check if you can claim" %}
 First, check whether you should actually be able to claim from the round you played.
 
-1. [Go to **the **BscScan page of Prediction contract](https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda#writeContract), and go to the Write tab
+1. [Go to the **** BscScan page of Prediction contract](https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda#readContract), and go to the Write tab
 2. Scroll down to “4. claimable”.
 3. Type in the round id you want to check under "epoch(uint256)”.
 4. Type in your wallet address under “user(address)”.
 5. Tap “Query”
 6. If a round is claimable, it will show “true”.
-7. Note: ⬆️ If you see a round returns "false", but it shows on the website, it's probably been claimed already and the website is lagging.
+7. If the result is "false". Please repeat the above steps and try with "19. refundable".&#x20;
+8. Note: ⬆️ If you see a round returns "false" on both "4. claimable" and "19. refundable", but it shows on the website, it's probably been claimed already and the website is lagging.
 {% endtab %}
 
 {% tab title="Claim from a round" %}
 How to claim
 
-1. [Go to the** **BscScan page of Prediction contract](https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda#writeContract), and go to the Write tab
+1. [Go to the **** BscScan page of Prediction contract](https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda#writeContract), and go to the Write tab
 2. Tap “🔴 Connect to Web3”
 3. Use MetaMask or WalletConnect to connect.
 4. Scroll down to “3. claim”

@@ -2,10 +2,10 @@
 
 ### **General Information**
 
-* **Salary range:** $105k+ US Annual salary
+* **Salary range:** Competitive, negotiable
 * **Position:** Full-time
 * **Location:** Remote
-* **Time-zone preference: **Any
+* **Time-zone preference:** Any
 
 ### Requirements:
 

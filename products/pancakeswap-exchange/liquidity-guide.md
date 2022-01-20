@@ -1,6 +1,6 @@
 # How to Add/Remove Liquidity
 
-![](../../.gitbook/assets/docs-masthead-2-.png)
+![](<../../.gitbook/assets/docs masthead (2) (1).png>)
 
 "Liquidity" is central to how PancakeSwap's Exchange works. You can add liquidity for any token pair by staking both through the Liquidity page.
 
@@ -39,11 +39,11 @@ In this example, we will add liquidity using BNB and CAKE.\
 
 ![](../../.gitbook/assets/Add\_Remove\_LP\_06.png)
 
-6\. Click the **Enable CAKE **button. If you are adding liquidity against tokens other than BNB, you might need to click enable twice for each token in your pair. Your wallet will ask you to confirm the action.
+6\. Click the **Enable CAKE** button. If you are adding liquidity against tokens other than BNB, you might need to click enable twice for each token in your pair. Your wallet will ask you to confirm the action.
 
 ![](../../.gitbook/assets/Add\_Remove\_LP\_07.png)
 
-7\. The **Supply **button will then light up. Click to proceed.
+7\. The **Supply** button will then light up. Click to proceed.
 
 ![](../../.gitbook/assets/Add\_Remove\_LP\_08.png)
 
@@ -65,7 +65,7 @@ To remove liquidity.
 
 ![](../../.gitbook/assets/Add\_Remove\_LP\_10.png)
 
-3\. Click** Remove**. A new modal will appear.
+3\. Click **Remove**. A new modal will appear.
 
 ![](../../.gitbook/assets/Add\_Remove\_LP\_11.png)
 
@@ -77,7 +77,7 @@ To remove liquidity.
 
 ![](<../../.gitbook/assets/Add\_Remove\_LP\_13 (1).png>)
 
-6\. The** Remove** button will light up. Click to proceed.
+6\. The **Remove** button will light up. Click to proceed.
 
 ![](<../../.gitbook/assets/Add\_Remove\_LP\_14 (1).png>)
 

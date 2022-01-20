@@ -26,7 +26,7 @@ You may use PancakeSwap's Brand Assets when you are:
 
 * 👌 Referring to our products and services
 * 👌 Linking to our official site or products, such as "Trade our token on PancakeSwap"
-* 👌 Announcing an official partnership, but only if you have **official approval **by a qualified member of the PancakeSwap team
+* 👌 Announcing an official partnership, but only if you have **official approval** by a qualified member of the PancakeSwap team
 
 For information on other uses of our Brand Assets, please reach out at pancakeswap@gmail.com
 

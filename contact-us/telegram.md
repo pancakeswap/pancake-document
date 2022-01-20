@@ -1,6 +1,6 @@
 # Social Accounts & Communities
 
-![](../.gitbook/assets/docs-masthead-22-.png)
+![](<../.gitbook/assets/docs masthead (22).png>)
 
 Here you'll find a list of PancakeSwap's official Social media channels and communities. If English is not your first language, we have a number of non-English communities that would love to have you join them!
 
@@ -20,24 +20,31 @@ Here you'll find a list of PancakeSwap's official Social media channels and comm
 
 {% embed url="https://www.instagram.com/pancakeswap_official/" %}
 
+## 🤖Discord
+
+Newly launched on 24th Nov! The below is the only link for our discord server!
+
+[https://discord.gg/pancakeswap](https://discord.gg/pancakeswap)
+
 ## 💬 Telegram
 
 **Official Telegram Groups:**
 
-* 📣 Announcement Channel ([http://t.me/PancakeSwapAnn](http://t.me/PancakeSwapAnn)) 
-* 🥞 English ([http://t.me/pancakeswap](http://t.me/pancakeswap)) 
+* 📣 Announcement Channel ([http://t.me/PancakeSwapAnn](http://t.me/PancakeSwapAnn))&#x20;
+* 🥞 English ([http://t.me/pancakeswap](http://t.me/pancakeswap))&#x20;
 * 🇯🇵 Japanese ([https://t.me/PancakeSwapJP](https://t.me/PancakeSwapJP))
-* 🇨🇳 Chinese ([http://t.me/PancakeSwap_CN](http://t.me/PancakeSwap_CN)) 
-* 🇮🇩 Indonesian ([http://t.me/PancakeSwapIndonesia](http://t.me/PancakeSwapIndonesia)) 
-* 🇻🇳 Việt Nam ([https://t.me/PancakeSwapVN](https://t.me/PancakeSwapVN)) 
-* 🇪🇸 🇦🇷 🇻🇪 Español ([https://t.me/PancakeSwapES](https://t.me/PancakeSwapES)) 
-* 🇷🇺 Russian ([http://t.me/pancakeswap_ru](http://t.me/pancakeswap_ru)) 
+* 🇨🇳 Chinese ([http://t.me/PancakeSwap\_CN](http://t.me/PancakeSwap\_CN))&#x20;
+* 🇮🇩 Indonesian ([http://t.me/PancakeSwapIndonesia](http://t.me/PancakeSwapIndonesia))&#x20;
+* 🇻🇳 Việt Nam ([https://t.me/PancakeSwapVN](https://t.me/PancakeSwapVN))&#x20;
+* 🇪🇸 🇦🇷 🇻🇪 Español ([https://t.me/PancakeSwapES](https://t.me/PancakeSwapES))&#x20;
+* 🇷🇺 Russian ([http://t.me/pancakeswap\_ru](http://t.me/pancakeswap\_ru))&#x20;
 * 🇧🇷 🇵🇹 Portuguese/Brazilian Community ([https://t.me/PancakeSwapPortuguese](https://t.me/PancakeSwapPortuguese))
-* 🇫🇷 French ([https://t.me/pancakeswapfr](https://t.me/pancakeswapfr)) 
-* 🇮🇹 Italiano ([https://t.me/pancakeswap_ita](https://t.me/pancakeswap_ita)) 
-* 🇹🇷 Türkiye ([https://t.me/pancakeswapturkiye](https://t.me/pancakeswapturkiye)) 
-* 🇩🇪 🇦🇹 🇨🇭 Deutsch ([https://t.me/PancakeSwap_DE](https://t.me/PancakeSwap_DE))
-* 🇵🇭 Filipino ([https://t.me/Pancakeswap_Ph](https://t.me/Pancakeswap_Ph))
+* 🇫🇷 French ([https://t.me/pancakeswapfr](https://t.me/pancakeswapfr))&#x20;
+* 🇮🇹 Italiano ([https://t.me/pancakeswap\_ita](https://t.me/pancakeswap\_ita))&#x20;
+* 🇹🇷 Türkiye ([https://t.me/pancakeswapturkiye](https://t.me/pancakeswapturkiye))&#x20;
+* 🇩🇪 🇦🇹 🇨🇭 Deutsch ([https://t.me/PancakeSwap\_DE](https://t.me/PancakeSwap\_DE))
+* 🇵🇭 Filipino ([https://t.me/Pancakeswap\_Ph](https://t.me/Pancakeswap\_Ph))
+* 🇬🇪 Georgia ([https://t.me/PancakeSwapGeorgia](https://t.me/PancakeSwapGeorgia))
 * 😤 Ban Appeal ([https://t.me/joinchat/C\_9mwknNuKq-cfXQ4-HMHA](https://t.me/joinchat/C\_9mwknNuKq-cfXQ4-HMHA))
 
 {% hint style="danger" %}

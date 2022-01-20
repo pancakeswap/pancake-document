@@ -1,6 +1,6 @@
 # Business Partnerships
 
-![](<../.gitbook/assets/docs-masthead-21- (1).png>)
+![](<../.gitbook/assets/docs masthead (21).png>)
 
 ## Farms and Syrup Pools
 
@@ -49,11 +49,11 @@ Learn more about [how IFOs work](https://medium.com/pancakeswap/initial-farm-off
 
 We aim to respond to applications within a week, but due to the large number of requests, we’re unable to respond to every single applicant. If you don’t hear back from us within **two weeks** of applying, try reaching out to[ t.me/ChefTaro](https://t.me/ChefTaro) or [t.me/chef\_misty](https://t.me/Chef\_Misty) on Telegram, with **the name of your project, your token ticker, and the date you applied**.
 
-## NFT Market <a href="exchange" id="exchange"></a>
+## NFT Market <a href="#exchange" id="exchange"></a>
 
 [Apply to list](nft-market-applications.md#apply-for-nft-market-listing)
 
-## Listing on the Exchange <a href="exchange" id="exchange"></a>
+## Listing on the Exchange <a href="#exchange" id="exchange"></a>
 
 ### How can I list my token on the exchange?
 
