@@ -12,7 +12,7 @@ La comunidad a menudo señala esto como un motivo de preocupación, y aunque los
 
 ## Cómo se reduce el suministro de CAKE sin un límite?
 
-Los chefs tienen como objetivo** hacer que la deflación sea mayor que la emisión** mediante la construcción de mecanismos deflacionarios en los productos de Pancakeswap. El objetivo es que más CAKE salga de circulación que la cantidad de CAKE que se produce.
+Los chefs tienen como objetivo **hacer que la deflación sea mayor que la emisión** mediante la construcción de mecanismos deflacionarios en los productos de Pancakeswap. El objetivo es que más CAKE salga de circulación que la cantidad de CAKE que se produce.
 
 ### Reduciendo emisiones por bloque
 

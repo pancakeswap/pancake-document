@@ -1,6 +1,6 @@
 # Redes Sociales & Comunidades
 
-![](../.gitbook/assets/redes-y-comunidades.png)
+![](<../.gitbook/assets/Redes y Comunidades.png>)
 
 Aquí vas a encontrar la lista de las comunidades y redes sociales oficiales de PancakeSwap.
 
@@ -28,7 +28,7 @@ Desde la comunidad en Español tratamos de acercarte todas las noticias y comuni
 
 ### 💬 Telegram
 
-**Grupos de Telegram Oficiales: **
+**Grupos de Telegram Oficiales:**&#x20;
 
 * 📣 Canal de Anuncios (Español) ([https://t.me/PancakeSwapAnuncios](https://t.me/PancakeSwapAnuncios))&#x20;
 * 🇪🇸 🇦🇷 🇻🇪 Español ([https://t.me/PancakeSwapES](https://t.me/PancakeSwapES))&#x20;
@@ -49,5 +49,5 @@ Los Administradores NUNCA te van a enviar un mensaje directo/privado. Si cualqui
 {% endhint %}
 
 {% hint style="danger" %}
-**NUNCA, bajo ninguna situación, debes darle a nadie tus claves privadas o frases de recuperación (semillas). Inmediatamente bloquea y reporta si alguien te lo solicita. **
+**NUNCA, bajo ninguna situación, debes darle a nadie tus claves privadas o frases de recuperación (semillas). Inmediatamente bloquea y reporta si alguien te lo solicita.**&#x20;
 {% endhint %}

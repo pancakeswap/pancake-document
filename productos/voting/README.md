@@ -1,4 +1,3 @@
 # Votación
 
-![](../../.gitbook/assets/votacion.png)
-
+![](../../.gitbook/assets/Votacion.png)

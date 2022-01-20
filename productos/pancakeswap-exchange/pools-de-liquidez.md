@@ -4,9 +4,9 @@
 
 Cuando agregue su token a un Pool de Liquidez, recibirá tokens de proveedor de liquidez (LP) y compartirá los fees de trading sobre el par.
 
-## LP Tokens <a href="lp-tokens" id="lp-tokens"></a>
+## LP Tokens <a href="#lp-tokens" id="lp-tokens"></a>
 
-Por ejemplo, si depositaras **CAKE **y **BNB **en un Pool de Liquidez, recibirías tokens **LP CAKE-BNB.**
+Por ejemplo, si depositaras **CAKE** y **BNB** en un Pool de Liquidez, recibirías tokens **LP CAKE-BNB.**
 
 El número de tokens LP que recibe representa su parte del Pool de Liquidez CAKE-BNB.
 
@@ -14,7 +14,7 @@ También puede reclamar sus fondos en cualquier momento eliminando su liquidez.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MYddUj7mrAzIDJSC820%2F-MYdezVThmhitREO6z6V%2FScreenshot%202021-04-19%20at%206.27.22%20PM.png?alt=media\&token=568dc33f-6a83-436b-a956-f54aacb5ceff)
 
-## Los Proveedores de Liquidez ganan comisiones de trading <a href="liquidity-providers-earn-trading-fees" id="liquidity-providers-earn-trading-fees"></a>
+## Los Proveedores de Liquidez ganan comisiones de trading <a href="#liquidity-providers-earn-trading-fees" id="liquidity-providers-earn-trading-fees"></a>
 
 Proporcionar liquidez le da una recompensa en forma de tarifas de trading cuando las personas utilizan su fondo de liquidez (su par de monedas agregado)
 
@@ -31,7 +31,7 @@ Por ejemplo:
 
 Para hacer que ser un proveedor de liquidez valga aún más la pena, también puede poner sus tokens LP a trabajar para obtener más rendimiento en los [CAKE Farms](https://pancakeswap.finance/farms), mientras sigue ganando su recompensa en tarifas de trading del 0.17%.
 
-## Impermanent Loss <a href="impermanent-loss" id="impermanent-loss"></a>
+## Impermanent Loss <a href="#impermanent-loss" id="impermanent-loss"></a>
 
 Proporcionar liquidez no está exento de riesgos, ya que puede estar expuesto a impermanent loss.
 

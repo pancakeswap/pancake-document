@@ -52,7 +52,7 @@ A continuación, podes encontrar información mas detallada de cada billetera, a
 
 {% tabs %}
 {% tab title="Trust Wallet" %}
-![](<../.gitbook/assets/image (70).png>)
+![](<../.gitbook/assets/image (36).png>)
 
 **Trustwallet** es una wallet popular para los smartphones. Tiene soporte para DApps, NTFs coleccionables (con soporte de opensea.io) y stacking, todo en la misma billetera.&#x20;
 
@@ -71,12 +71,12 @@ A continuación, podes encontrar información mas detallada de cada billetera, a
 \- DApps limitadas\
 \- Las notificaciones de las transacciones pueden verse demoradas.
 
-[**Descarga Trust Wallet**](https://trustwallet.com)** **(Detecta automáticamente el dispositivo)[****\
+[**Descarga Trust Wallet**](https://trustwallet.com) **** (Detecta automáticamente el dispositivo)[****\
 **Trust Wallet: Guía de Configuración**](https://www.binance.com/es/blog/421499824684901157/C%C3%B3mo-configurar-y-usar-Trust-Wallet-en-Binance-Smart-Chain)****
 {% endtab %}
 
 {% tab title="MetaMask" %}
-![](<../.gitbook/assets/image (33) (3) (4) (5) (5).png>)
+![](<../.gitbook/assets/image (33) (3).png>)
 
 Metamask es un complemento de navegador muy popular que admite ERC20(Red Ethereum) y BEP2 y BEP20(redes Binance Chain y Binance Smart Chain)
 
@@ -95,12 +95,12 @@ Metamask es un complemento de navegador muy popular que admite ERC20(Red Ethereu
 \- Requiere pasos adicionales para poder utilizar la Binance Smart Chain y Pancakeswap\
 \- La configuración avanzada y la información adicional puede confundir a los principiantes
 
-[**Descarga MetaMask**](https://metamask.io/download.html)** **(Detecta automáticamente el dispositivo)\
+[**Descarga MetaMask**](https://metamask.io/download.html) **** (Detecta automáticamente el dispositivo)\
 [**MetaMask: Guía**](https://academy.binance.com/es/articles/connecting-metamask-to-binance-smart-chain)****
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](<../.gitbook/assets/image (125) (3) (4) (3).png>)
+![](<../.gitbook/assets/image (125) (3) (4).png>)
 
 Token Pocket es una aplicación de gestión de criptomonedas que admite de forma nativa muchas redes de criptomonedas. También posee una aplicación de escritorio.
 
@@ -116,7 +116,7 @@ Token Pocket es una aplicación de gestión de criptomonedas que admite de forma
 \- La traducción al inglés posee algunos problemas.\
 \- Tiene menos recursos en línea que otras billeteras.
 
-[**Descargar Token Pocket APP **](https://www.tokenpocket.pro/en/download/app) (Detecta automáticamente el dispositivo)
+[**Descargar Token Pocket APP** ](https://www.tokenpocket.pro/en/download/app) (Detecta automáticamente el dispositivo)
 
 ### **Token Pocket Mobile Setup Guide**
 
@@ -124,7 +124,7 @@ Token Pocket es una aplicación de gestión de criptomonedas que admite de forma
 
 ![](https://lh5.googleusercontent.com/fTsZdwOn3cgT7au7KaoTxY-Ib1KMEfVP9MifMszobGFJ6BTQ0iPlQLl01CYuS3vbAVPmTz9vC3Hnw1lApk1m1I1SDG2fIfi-nN3CIE4oImXU82WCcZWVhLhq2LqY79W1UuN3oefD)
 
-2\. Automáticamente reconocerá el dispositivo y te dará la opción de descargar la aplicación y luego instalarla. Oprime en **Android **o** iOS**.
+2\. Automáticamente reconocerá el dispositivo y te dará la opción de descargar la aplicación y luego instalarla. Oprime en **Android** o **iOS**.
 
 3\. Una vez que Token Pocket ha sido instalada, ábrela. Aparecerá una pantalla en donde se le pregunta si usted ya posee una billetera o si desea crear una nueva. Oprima “**No accounts, Create Now**”. \
 \
@@ -172,7 +172,7 @@ Ahora tiene su clave privada lista para importar su billetera a la versión de e
 {% endtab %}
 
 {% tab title="SafePal" %}
-![](<../.gitbook/assets/image (26).png>)
+![](<../.gitbook/assets/image (37).png>)
 
 SafePal está disponible como billetera de software y hardware. La billetera es fácil de instalar y crear, y viene lista para admitir BEP2 (Binance Chain) y BEP20 (Binance Smart Chain) de inmediato.
 
@@ -193,7 +193,7 @@ SafePal está disponible como billetera de software y hardware. La billetera es 
 \- Tiene menos recursos en línea que billeteras más establecidas
 
 ​[**Descargar SafePal**](https://safepal.io/download) (Detecta automáticamente el dispositivo)\
-[**SafePal Guía**](https://blog.safepal.io/binance-smart-chain-x-safepal/)** **(Inglés)
+[**SafePal Guía**](https://blog.safepal.io/binance-smart-chain-x-safepal/) **** (Inglés)
 {% endtab %}
 {% endtabs %}
 
@@ -219,7 +219,7 @@ Puede encontrar información más detallada sobre cada billetera a continuación
 
 {% tabs %}
 {% tab title="MetaMask" %}
-![](<../.gitbook/assets/image (33) (3) (4) (5) (3).png>)
+![](<../.gitbook/assets/image (33) (3) (4) (5) (2).png>)
 
 Metamask es un complemento de navegador muy popular que admite ERC20(Red Ethereum) y BEP2 y BEP20(redes Binance Chain y Binance Smart Chain)
 
@@ -237,12 +237,12 @@ Metamask es un complemento de navegador muy popular que admite ERC20(Red Ethereu
 \- Requiere pasos adicionales para poder utilizar la Binance Smart Chain y Pancakeswap\
 \- La configuración avanzada y la información adicional puede confundir a los principiantes
 
-[**Descarga MetaMask**](https://metamask.io/download.html)** **(Detecta automáticamente el dispositivo)\
+[**Descarga MetaMask**](https://metamask.io/download.html) **** (Detecta automáticamente el dispositivo)\
 [**MetaMask: Guía**](https://academy.binance.com/es/articles/connecting-metamask-to-binance-smart-chain)****
 {% endtab %}
 
 {% tab title="Binance Wallet" %}
-![](<../.gitbook/assets/image (126).png>)
+![](<../.gitbook/assets/image (39).png>)
 
 Binance Wallet es una billetera de complemento de navegador que admite de forma nativa las redes Binance Chain (BEP2) Binance Smart Chain (BEP20). Binance Wallet fue desarrollado por el exchange de criptomonedas Binance.
 
@@ -261,11 +261,11 @@ Binance Wallet es una billetera de complemento de navegador que admite de forma 
 \- Tiene menos recursos en línea que billeteras más establecidas
 
 [**Descargar Binance Wallet**](https://www.binance.org/en) (Detecta automáticamente el dispositivo)\
-[**Binance Wallet Guía**](https://docs.binance.org/smart-chain/wallet/binance.html)** **(inglés)
+[**Binance Wallet Guía**](https://docs.binance.org/smart-chain/wallet/binance.html) **** (inglés)
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](<../.gitbook/assets/image (125) (3) (4) (4).png>)
+![](<../.gitbook/assets/image (125) (3).png>)
 
 Token Pocket es una aplicación de gestión de criptomonedas que admite de forma nativa muchas redes de criptomonedas. También posee una aplicación de escritorio.
 
@@ -305,7 +305,7 @@ Token Pocket es un proyecto de código abierto, por lo que el código es visible
 
 ![](https://lh6.googleusercontent.com/ED7cl2\_ZGBkUvM-A7CpE\_bRNfdLQ8DcD2qmq6KaGAUIZTi\_06f7BA\_m-xBhoFzrczfTZQENsYji2Xlh\_DNh0zWpmRnuo45HKX2r8zJxrBtqXkuPgxfCd4jAIvMytHu6iT\_ZPRxmI)
 
-5\. Una vez finalizada la instalación, haga clic en **Finish **y ejecute Token Pocket.
+5\. Una vez finalizada la instalación, haga clic en **Finish** y ejecute Token Pocket.
 
 6\. Cuando se abre Token Pocket, es posible que se encuentre mirando una interfaz en chino. Puede cambiar a inglés haciendo clic en EN en la esquina inferior izquierda.
 
@@ -326,7 +326,7 @@ PRECAUCION: Tenga mucho cuidado con la forma en que maneja sus claves privadas. 
 
 ![](https://lh5.googleusercontent.com/1ZNrWBvjfL\_1joVAxKQVdXbQnGFmbyw1PXAqgAGwaH73KAkrFgJR8N\_pYBJwY\_FTyXy-y\_fRuks3Ne\_n-9xJWVEvOg9NnNMup82smXwGYnDzPqV4Wc9E\_CCE9WKPX9nAP-SoPhxM)
 
-9\. Una vez que haya ingresado su clave privada, haga clic en la red** Ethereum **por ahora.
+9\. Una vez que haya ingresado su clave privada, haga clic en la red **Ethereum** por ahora.
 
 ![](https://lh5.googleusercontent.com/g\_iZzJZAPhsBQUBgQqTvLO1HfuGnCGZDkRD3DFu4g4GPat901700Qk3aBx8Fx5AzY2PH7JYajGM4-4fXm6icPWB-8R5wQQst-W3NWJ6n0Rh\_bbPKXnXrO4h\_JEgu7wtey11EuCN-)
 

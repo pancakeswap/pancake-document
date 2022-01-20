@@ -1,12 +1,12 @@
 # Cómo usar Farms (BscScan)
 
-![](<../../.gitbook/assets/docs-masthead (7).png>)
+![](<../../.gitbook/assets/docs masthead (26).png>)
 
 Dado que requiere varios pasos, el uso de Farms con PancakeSwap puede parecer intimidante al principio. Esta guía te guiará a través del uso del contrato de Farms directamente a través de BscScan.&#x20;
 
 Entienda que el uso de BscScan para interactuar con contratos no se recomienda para principiantes. Si no te sientes seguro, te sugerimos que use la guía [Cómo usar Farms](https://docs.pancakeswap.finance/v/espanol/products/yield-farming/como-usar-yield-farm-en-pancakeswap) en su lugar.
 
-## Encontrando el idetificador de proceso del Farm <a href="finding-farm-process-identifier" id="finding-farm-process-identifier"></a>
+## Encontrando el idetificador de proceso del Farm <a href="#finding-farm-process-identifier" id="finding-farm-process-identifier"></a>
 
 Para interactuar correctamente con el contrato inteligente de Farming, necesitará el identificador de proceso coincidente (PID) para su par LP. Por ahora, la forma más fácil de localizar esto es verificar GitHub.
 
@@ -18,11 +18,11 @@ Para interactuar correctamente con el contrato inteligente de Farming, necesitar
 
 3\. Copiar el número de PID—en este caso 389—donde puedas acceder fácilmente. Lo necesitarás más adelante.
 
-## Depositando LP Tokens a través de BscScan <a href="depositing-lp-tokens-through-bscscan" id="depositing-lp-tokens-through-bscscan"></a>
+## Depositando LP Tokens a través de BscScan <a href="#depositing-lp-tokens-through-bscscan" id="depositing-lp-tokens-through-bscscan"></a>
 
 Hay algunas cosas involucradas en el depósito de tokens LP usando BscScan. Lo hemos dividido en pasos para que sea más fácil de seguir.
 
-### Obtener la dirección del contrato de Staking principal <a href="getting-the-main-staking-contract-address" id="getting-the-main-staking-contract-address"></a>
+### Obtener la dirección del contrato de Staking principal <a href="#getting-the-main-staking-contract-address" id="getting-the-main-staking-contract-address"></a>
 
 La dirección del contrato de Staking principal es: **0x73feaa1eE314F8c655E354234017bE2193C9E24E**
 
@@ -30,11 +30,11 @@ Pero suponiendo que quieras confirmarlo, visita la [página de BscScan de Pancak
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbmNofkorR92isGZtMh%2F-Mbp1nXv8BY\_GqBCaIhY%2Fimage.png?alt=media\&token=d2d5c5f1-d0f8-4a16-9d5c-670ff7054441)
 
-### Abrir el contrato de tu LP Token <a href="open-the-contract-for-your-lp-token" id="open-the-contract-for-your-lp-token"></a>
+### Abrir el contrato de tu LP Token <a href="#open-the-contract-for-your-lp-token" id="open-the-contract-for-your-lp-token"></a>
 
 Deberá aprobar el contrato inteligente para el token LP que desea depositar en un Farm antes de poder hacerlo.
 
-### Desde el código fuente <a href="from-the-source-code" id="from-the-source-code"></a>
+### Desde el código fuente <a href="#from-the-source-code" id="from-the-source-code"></a>
 
 1\. Primero abrir:  [Código de Farms de PancakeSwap en GitHub](https://github.com/pancakeswap/pancake-frontend/blob/master/src/config/constants/farms.ts).
 
@@ -46,7 +46,7 @@ Deberá aprobar el contrato inteligente para el token LP que desea depositar en 
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-McgveN\_06WzVRLK1FeR%2F-McgxJyVDFAxh9cZhEqt%2Fimage.png?alt=media\&token=0638fe99-b1d5-4be3-8fd7-c1b68ca59032)
 
-### Desde la UI <a href="from-the-ui" id="from-the-ui"></a>
+### Desde la UI <a href="#from-the-ui" id="from-the-ui"></a>
 
 1\. Primero, visite la página de [Farms ](https://pancakeswap.finance/farms)y busque su par elegido usando el campo "SEARCH" en la parte superior derecha. Estamos usando CAKE-BUSD para este ejemplo.
 
@@ -60,7 +60,7 @@ Deberá aprobar el contrato inteligente para el token LP que desea depositar en 
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbmNofkorR92isGZtMh%2F-Mboz8UGShU9TSD7lct4%2Fimage.png?alt=media\&token=d5b90a00-3fb2-4a4f-b77f-c5709b904ee5)
 
-### Dar permiso al contrato del LP Token  <a href="giving-permission-to-the-lp-token-contract" id="giving-permission-to-the-lp-token-contract"></a>
+### Dar permiso al contrato del LP Token  <a href="#giving-permission-to-the-lp-token-contract" id="giving-permission-to-the-lp-token-contract"></a>
 
 Ahora que tiene el contrato de su token LP abierto en BscScan, va a aprobar el gasto de sus tokens LP en el Farm.
 
@@ -86,7 +86,7 @@ También puedes usar `-1` como el valor para dar una aprobación de gasto ilimit
 
 6\. Clic en **Write** y aceptar la transacción en Metamask. Ahora puede confirmar tokens LP en el Farm hasta la cantidad que haya aprobado.
 
-### Depositar LP Tokens con el contrato de Main Staking Contract <a href="deposit-lp-tokens-with-the-main-staking-contract-smart-contract" id="deposit-lp-tokens-with-the-main-staking-contract-smart-contract"></a>
+### Depositar LP Tokens con el contrato de Main Staking Contract <a href="#deposit-lp-tokens-with-the-main-staking-contract-smart-contract" id="deposit-lp-tokens-with-the-main-staking-contract-smart-contract"></a>
 
 Con el Contrato de Staking Principal ahora aprobado para gastar sus Tokens LP, es hora de hacer un depósito.
 
@@ -114,7 +114,7 @@ Si no copió su PID anteriormente, puede obtener información sobre cómo obtene
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbpARe5bzCMd5XORkuR%2F-Mbt6-zveDG6pEb5on0q%2Fimage.png?alt=media\&token=28a9f6aa-25cf-4089-b111-f3486a3b88ad)
 
-## Retirando desde un Pool <a href="withdrawing-from-a-pool" id="withdrawing-from-a-pool"></a>
+## Retirando desde un Pool <a href="#withdrawing-from-a-pool" id="withdrawing-from-a-pool"></a>
 
 Retirar sus tokens LP de un pool es muy similar a hacer un depósito. La diferencia es con qué función interactuará.
 
@@ -142,7 +142,7 @@ Si no copió su PID anteriormente, puede obtener información sobre cómo obtene
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbpARe5bzCMd5XORkuR%2F-Mbt6-zveDG6pEb5on0q%2Fimage.png?alt=media\&token=28a9f6aa-25cf-4089-b111-f3486a3b88ad)
 
-## **Hacer un Retiro de Emergencia** <a href="making-an-emergency-withdrawal" id="making-an-emergency-withdrawal"></a>
+## **Hacer un Retiro de Emergencia** <a href="#making-an-emergency-withdrawal" id="making-an-emergency-withdrawal"></a>
 
 ‌El uso de la función de retiro de emergencia le permite sacar todos sus fondos de un Pool común cuando no hay otra manera de lograrlo.
 

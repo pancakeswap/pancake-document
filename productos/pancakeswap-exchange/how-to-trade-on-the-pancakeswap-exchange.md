@@ -1,14 +1,14 @@
 # Cómo hacer un Trade
 
-![](../../.gitbook/assets/docs-masthead.png)
+![](<../../.gitbook/assets/docs masthead (24).png>)
 
 Operar en PancakeSwap es muy fácil en comparación con la mayoría de los exchanges. No serás abrumado por los gráficos o palabras complicadas, y los cálculos se harán directamente para ti.
 
-### Configuración para Trading <a href="getting-set-up-to-trade" id="getting-set-up-to-trade"></a>
+### Configuración para Trading <a href="#getting-set-up-to-trade" id="getting-set-up-to-trade"></a>
 
 Antes de que pueda operar, necesitará una billetera compatible con Binance Smart Chain. Puedes aprender cómo conseguir una [aquí](https://docs.pancakeswap.finance/v/espanol/empezando-en-pancakeswap). También necesitará tener algunos tokens BEP20 para poder tradear, eso puedes encontrarlo [aquí ](https://docs.pancakeswap.finance/v/espanol/empezando-en-pancakeswap/tokens-bep20)
 
-### Trading en el exchange de PancakeSwap <a href="trading-on-the-pancakeswap-exchange" id="trading-on-the-pancakeswap-exchange"></a>
+### Trading en el exchange de PancakeSwap <a href="#trading-on-the-pancakeswap-exchange" id="trading-on-the-pancakeswap-exchange"></a>
 
 1\. Ir a la página del [exchange](https://pancakeswap.finance/swap)
 

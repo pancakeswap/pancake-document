@@ -8,7 +8,7 @@ description: Gracias por mostrar tu interés en contribuir con PancakeSwap !
 
 Pancake es un proyecto open-source. Si quieres contribuir con el proyecto, esta sección está aquí para guiarte a través de tus primeros pasos con el equipo de Pancake :pancakes:&#x20;
 
-Antes de comenzar cualquier desarrollo, le recomendamos que envíe un problema en Github para discutir el mismo y su solución con el equipo. Si desea comunicarse directamente con el equipo de desarrollo, póngase en contacto con **@chef\_chungus** en Telegram ![](../../.gitbook/assets/logo.svg)&#x20;
+Antes de comenzar cualquier desarrollo, le recomendamos que envíe un problema en Github para discutir el mismo y su solución con el equipo. Si desea comunicarse directamente con el equipo de desarrollo, póngase en contacto con **@chef\_chungus** en Telegram ![](../../.gitbook/assets/Logo.svg)&#x20;
 
 ### Configurar tu entorno de desarrollo
 
@@ -66,7 +66,7 @@ Asegúrese de que el código tiene el formato de Prettier y está libre de cualq
 * Use [Composición sobre Herencia](https://reactjs.org/docs/composition-vs-inheritance.html).
 * Tenga en cuenta que el código será leído y revisado por varios otros desarrolladores. Haz que sea lo más claro y fácil de actualizar posible.
 
-### Confirmación <a href="committing" id="committing"></a>
+### Confirmación <a href="#committing" id="committing"></a>
 
 Nuestros mensajes de confirmación siguen [Confirmaciones Convencionales  ](https://www.conventionalcommits.org/en/v1.0.0/)usando [commitlint](https://commitlint.js.org/#/).‌
 
@@ -82,13 +82,13 @@ Nuestros mensajes de confirmación siguen [Confirmaciones Convencionales  ](http
 | **style**    | Cambios que no afectan al significado del código (espacios en blanco, formato, falta de punto y coma, etc.)                 |
 | **test**     | Agregar pruebas que faltan o corregir pruebas existentes                                                                    |
 
-_Más en _[_Angular's guidelines_](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#type)_​_
+_Más en_ [_Angular's guidelines_](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#type)_​_
 
 ### Creando tu pull request&#x20;
 
 Su código está listo para ser enviado para su revisión, felicitaciones:partying\_face:&#x20;
 
-* Una pull request **debe **tener una descripción dé qué es lo que la PR está tratando de lograr.
+* Una pull request **debe** tener una descripción dé qué es lo que la PR está tratando de lograr.
 * Mantenga las pull request lo más pequeñas posible. Las pull request más grandes deben dividirse en fragmentos más pequeños con un branch base dedicado. Por favor, marque los PR que se están fusionando en su branch base con la etiqueta `epic`
 * Si es posible, autor revea su PR y **agregue comentarios** donde sea necesaria una aclaración adicional.
 
@@ -96,4 +96,4 @@ Su código está listo para ser enviado para su revisión, felicitaciones:partyi
 Crea un  [draft PR](https://github.blog/2019-02-14-introducing-draft-pull-requests/) lo antes posible así nosotros podemos ver tu proceso en curso.
 {% endhint %}
 
-**Gracias por ayudarnos a hacer Pancake aún más impresionante **:heart:&#x20;
+**Gracias por ayudarnos a hacer Pancake aún más impresionante** :heart:&#x20;

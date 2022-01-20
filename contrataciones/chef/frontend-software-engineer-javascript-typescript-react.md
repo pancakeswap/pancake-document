@@ -5,7 +5,7 @@
 * **Rango Salarial:** $120k-160k USD Anual
 * **Posición:** Full-time
 * **Locación:** Remota
-* **Preferencia Horaria: **Cualquiera
+* **Preferencia Horaria:** Cualquiera
 
 ### Tus Responsabilidades
 

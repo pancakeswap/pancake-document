@@ -9,7 +9,7 @@ description: Hiring requirements and job description
 * **Rango Salarial:** $105k USD Anual
 * **Posición:** Full-time
 * **Locación:** Remota
-* **Preferencia Horaria: **Cualquiera
+* **Preferencia Horaria:** Cualquiera
 
 ### Requerimientos:
 

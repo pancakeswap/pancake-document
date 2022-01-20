@@ -25,4 +25,4 @@ El programa de recompensas por errores de PancakeSwap se centra en nuestros cont
 
 \*Los informes XSS están restringidos a aquellos que tienen un impacto al solicitar a un usuario que firme una transacción o una redirección.
 
-Todos los pagos son realizados por el equipo de **PancakeSwap **y están vinculados a los valores en **USD **establecidos aquí y se pagan en **CAKE o BUSD**.
+Todos los pagos son realizados por el equipo de **PancakeSwap** y están vinculados a los valores en **USD** establecidos aquí y se pagan en **CAKE o BUSD**.

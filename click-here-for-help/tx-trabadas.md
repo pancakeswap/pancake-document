@@ -8,7 +8,7 @@ Si su transacción está atascada en pendiente en Metamask, y el botón "Cancela
 
 Este método funciona esencialmente sobrescribiendo la transacción atascada con otra transacción de mayor prioridad.
 
-### **1. Enable Customized Transaction Nonce** <a href="1-enable-customized-transaction-nonce" id="1-enable-customized-transaction-nonce"></a>
+### **1. Enable Customized Transaction Nonce** <a href="#1-enable-customized-transaction-nonce" id="1-enable-customized-transaction-nonce"></a>
 
 1\. Abrir el plugin de MetaMask .![](https://lh6.googleusercontent.com/fYsgD0BKjYVjrbCpbEQgMyWG\_sW-4c2Ev7wu9bVzsOWtqIzCmYqiv6Xj8G\_FY2TK5uYul3XaOY2WflfcW1W56R2KCuyW-Y5RjHH9DZDgUmATLlnOnMPn371nniPZqaaD7KAgYgMc)
 
@@ -18,9 +18,9 @@ Este método funciona esencialmente sobrescribiendo la transacción atascada con
 
 4\. En **Advanced gas controls (Controles avanzados de gas**), darle a **ON**![](https://lh5.googleusercontent.com/ePraz\_2Z8k1V62DMROjv0jbIjEcf8ATvaH-Lxe5wtoNo6oVTyRPelC1m7UVaizcNpW5bHByrbC9xv1KDZfjNnXvQ8J0ukHUHK7vK4rX5gpQVHmfyJr81wCGdeArvksNhshon1Btn)
 
-5\. En el mismo lugar, encuentra **Customize transaction nonce (Personalizar nonce de transacción**). Pasar a **ON **también
+5\. En el mismo lugar, encuentra **Customize transaction nonce (Personalizar nonce de transacción**). Pasar a **ON** también
 
-### **2. Encontrar la transacción atorada** <a href="2-find-your-stuck-transaction" id="2-find-your-stuck-transaction"></a>
+### **2. Encontrar la transacción atorada** <a href="#2-find-your-stuck-transaction" id="2-find-your-stuck-transaction"></a>
 
 Ahora vamos a encontrar la transacción que está atascada, y tomar nota de la "nonce". Ese es un tipo de identificador, que volveremos a usar más adelante.
 
@@ -32,7 +32,7 @@ Ahora vamos a encontrar la transacción que está atascada, y tomar nota de la "
 
 7\. Mira el **Nonce**, y toma nota de este número
 
-### **3. Reescribir transacción pendiente** <a href="3-overwrite-the-stuck-transaction" id="3-overwrite-the-stuck-transaction"></a>
+### **3. Reescribir transacción pendiente** <a href="#3-overwrite-the-stuck-transaction" id="3-overwrite-the-stuck-transaction"></a>
 
 Ahora vamos a hacer una nueva transacción para reemplazar la atascada. Personalizaremos el número de Nonce, para que sea el mismo que el que acabas de escribir.![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-M\_Qf9PqrqKwKENMLChq%2F-M\_QfJwbI-p6skTud7\_o%2Fimage.png?alt=media\&token=13db2345-9ad7-46a4-9937-7f26d7187749)
 

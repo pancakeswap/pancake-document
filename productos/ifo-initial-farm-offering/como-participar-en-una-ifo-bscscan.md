@@ -1,6 +1,6 @@
 # Cómo Participar en una IFO (BscScan)
 
-![](<../../.gitbook/assets/docs-masthead (8).png>)
+![](<../../.gitbook/assets/docs masthead (31).png>)
 
 Joining IFOs can be exciting and very rewarding. The [PancakeSwap website’s IFO page](https://pancakeswap.finance/ifo) is an easy way to join an IFO. But some users may prefer to interact directly with smart contracts on the BscScan website. Using BscScan will let you see a contract's code, review its analytics and events in real-time, and find other useful information.
 
@@ -8,23 +8,23 @@ Currently, only MetaMask or WalletConnect wallets can interact directly with Bsc
 
 Interacting directly with smart contracts is not something we’d recommend to beginners. If you’d like to join an IFO without the complicated steps, we have a [How to Participate in an IFO guide](https://docs.pancakeswap.finance/get-started/ifo-guide) to help you through the process using the PancakeSwap website.
 
-## Before the IFO <a href="before-the-ifo" id="before-the-ifo"></a>
+## Before the IFO <a href="#before-the-ifo" id="before-the-ifo"></a>
 
 Before you can join an IFO there are a few things you will need to do to get ready. Follow the steps below to make sure you're ready to buy when the IFO event goes live.
 
-### Create your PancakeSwap profile <a href="create-your-pancakeswap-profile" id="create-your-pancakeswap-profile"></a>
+### Create your PancakeSwap profile <a href="#create-your-pancakeswap-profile" id="create-your-pancakeswap-profile"></a>
 
 To take part in an IFO, you'll need a PancakeSwap profile. Having a profile protects the security of the IFO and makes it fair for everyone. The small cost of a profile also helps keep the total CAKE supply down by burning a little CAKE from each profile created. To create a profile, you can follow our [How to Set Up an NFT Profile guide](https://docs.pancakeswap.finance/get-started/profile-guide).
 
-### Get CAKE-BNB Liquidity Tokens <a href="get-cake-bnb-liquidity-tokens" id="get-cake-bnb-liquidity-tokens"></a>
+### Get CAKE-BNB Liquidity Tokens <a href="#get-cake-bnb-liquidity-tokens" id="get-cake-bnb-liquidity-tokens"></a>
 
 Once you have a profile, you will also need to provide liquidity to get some CAKE-BNB LP Tokens. These will be used to buy the tokens being offered in the IFO. To provide liquidity and get some CAKE-BNB LP Tokens, you can follow our [How to Add/Remove Liquidity guide](https://docs.pancakeswap.finance/get-started/liquidity-guide).
 
-## Once the IFO is live <a href="once-the-ifo-is-live" id="once-the-ifo-is-live"></a>
+## Once the IFO is live <a href="#once-the-ifo-is-live" id="once-the-ifo-is-live"></a>
 
 While an IFO is live, you will have 1 hour to participate. If you have prepared your CAKE-BNB LP Tokens it doesn’t take long at all to buy the new token.
 
-### Getting the IFO’s smart contract address <a href="getting-the-ifos-smart-contract-address" id="getting-the-ifos-smart-contract-address"></a>
+### Getting the IFO’s smart contract address <a href="#getting-the-ifos-smart-contract-address" id="getting-the-ifos-smart-contract-address"></a>
 
 You’re going to need the IFO’s smart contract address to join the IFO. You can find a link to the contract’s BscScan page on the IFO page of the [PancakeSwap website](https://pancakeswap.finance/ifo) underneath the Unlimited Sale section.
 
@@ -34,7 +34,7 @@ On the contract page, in the top-left area you’ll find the contract address. C
 
 ![](https://lh3.googleusercontent.com/ez27bQvXXBaRHcVZnrV-GHJdswGjs4AbT0l6QXkcd4f00VbQMQdvwMSaAuWt4hgPsWuaZ0j-upAxz3IDxBb0BfY\_NJAVr5mr214Ka6PKpnb726tgXZCP5eFOADD2OImI63BTWChx)
 
-### Approving the IFO contract <a href="approving-the-ifo-contract" id="approving-the-ifo-contract"></a>
+### Approving the IFO contract <a href="#approving-the-ifo-contract" id="approving-the-ifo-contract"></a>
 
 Before you’re able to spend into the IFO, you’ll need to approve the contract spending your LP Tokens.
 
@@ -56,7 +56,7 @@ Confirm the connection.
 
 6\. Click **Write** and accept the action in your MetaMask wallet. You’re now able to buy into the IFO up to the amount you’ve approved.
 
-### Buying into the IFO’s Basic Sale <a href="buying-into-the-ifos-basic-sale" id="buying-into-the-ifos-basic-sale"></a>
+### Buying into the IFO’s Basic Sale <a href="#buying-into-the-ifos-basic-sale" id="buying-into-the-ifos-basic-sale"></a>
 
 Now that you’ve approved the IFO to spend your Pancake LP Tokens, you’re ready to buy into the IFO.
 
@@ -80,7 +80,7 @@ You can also check the IFO page on PancakeSwap’s website to see your deposit.
 
 ![](https://lh6.googleusercontent.com/9tFTlSwXmoSDruTPjhe\_IH7o87YOFIdeHyafIs0aBjaZeRv9jP43xjZ7\_IMdW6q5jP2U\_eN4RxBEm00O1dKP9Pp0Me1Eb6rI6pHXxKIFtgsUpSgNvCrq24\_q4c\_xNWGYDm4wPk22)
 
-### Buying into the IFO’s Unlimited Sale <a href="buying-into-the-ifos-unlimited-sale" id="buying-into-the-ifos-unlimited-sale"></a>
+### Buying into the IFO’s Unlimited Sale <a href="#buying-into-the-ifos-unlimited-sale" id="buying-into-the-ifos-unlimited-sale"></a>
 
 1\. To buy into the Unlimited Sale, follow the same steps as in the Basic Sale until you are entering an amount into the “\_pid” field of the IFO contract.
 
@@ -92,11 +92,11 @@ You can also check the IFO page on PancakeSwap’s website to see your deposit.
 
 ![](https://lh6.googleusercontent.com/uqXq-9wHZ-v9HVsqphUVzpzR1DArrSeMx8sCKvLfOIKlWjnKIcg7UbVAX6xL4HvCiMVc6LyxslQ6bRVCBV1raapQcd0hnripO6csNJcUs2CDPtoXj5tjGtkxTccTKTmS0fZHzcpQ)
 
-## After the IFO has ended <a href="after-the-ifo-has-ended" id="after-the-ifo-has-ended"></a>
+## After the IFO has ended <a href="#after-the-ifo-has-ended" id="after-the-ifo-has-ended"></a>
 
 When the IFO has ended, you will be able to collect your new tokens. How many you will get depends on how many people participated in the IFO. Any extra LP Tokens you have committed to the IFO that aren't used to buy new tokens will be returned to you.‌
 
-### Collecting your new tokens <a href="collecting-your-new-tokens" id="collecting-your-new-tokens"></a>
+### Collecting your new tokens <a href="#collecting-your-new-tokens" id="collecting-your-new-tokens"></a>
 
 1\. To collect your new tokens, you’ll need to visit the IFO contract page on BscScan, and click **Contract**, then **Write Contract**.
 

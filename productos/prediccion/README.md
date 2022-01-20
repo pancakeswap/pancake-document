@@ -1,8 +1,8 @@
 # 🔮 Predicción
 
-![](../../.gitbook/assets/prediction.png)
+![](../../.gitbook/assets/Prediction.png)
 
-Qué es Predicción?  Es un mercado de _predicción _descentralizado muy divertido y simple, dentro de PancakeSwap
+Qué es Predicción?  Es un mercado de _predicción_ descentralizado muy divertido y simple, dentro de PancakeSwap
 
 > #### Predice si el precio de BNB va a subir o caer – acierta en tu predicción para ganar!
 

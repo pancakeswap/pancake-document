@@ -1,12 +1,12 @@
 # Añadir/Remover Liquidez
 
-![](<../../.gitbook/assets/docs-masthead (2).png>)
+![](<../../.gitbook/assets/docs masthead (25).png>)
 
 La liquidez es fundamental para el funcionamiento del Exchange PancakeSwap. Puede agregar liquidez para cualquier par de tokens a través de la página Liquidez.
 
 A cambio de agregar liquidez, recibirás fees de trading por ese par y recibirás tokens LP que puedes depositar en Farms para ganar recompensas cake.
 
-### **Agregando Liquidez** <a href="adding-liquidity" id="adding-liquidity"></a>
+### **Agregando Liquidez** <a href="#adding-liquidity" id="adding-liquidity"></a>
 
 Para proporcionar liquidez, deberá confirmar una cantidad de cualquier par de tokens que desee. Su valor más bajo (en USD) de los dos tokens será el límite a la liquidez que puede proporcionar.
 
@@ -42,7 +42,7 @@ En este ejemplo, agregaremos liquidez usando BNB y CAKE.
 
 ![](https://lh5.googleusercontent.com/wcvUd1a-8NWhODzy\_dHmLZ2OouC6DlHONRGRNUScEf9gSJeyf70aXOyQK0gFaI\_wwXjXhifeYAHTbfX5B7VoIcVGCclZidnT-8ZkCfAzBVJMGwC0\_dHiNnXIwcwSEvE\_sSzzPARO)
 
-7\. El botón **Supply **se podrá presionar. Haga clic en él
+7\. El botón **Supply** se podrá presionar. Haga clic en él
 
 ![](https://lh6.googleusercontent.com/wkQFYbPP7MQBmO-EYEUaXESs1ID5NWL9950OL9ouFyIdoR6COLtkFc9-VHirRe-RpavHjG9zrPRguZej2jmymP1lKGFprWXwkKTgyxbvDgrKKDwFfCS7GTzJTMkf1XQB7yCOhYDS)
 
@@ -54,7 +54,7 @@ En este ejemplo, agregaremos liquidez usando BNB y CAKE.
 
 Puede repetir los pasos anteriores para agregar más liquidez en cualquier momento.
 
-### **Removiendo Liquidez** <a href="removing-liquidity" id="removing-liquidity"></a>
+### **Removiendo Liquidez** <a href="#removing-liquidity" id="removing-liquidity"></a>
 
 Para remover parcial o totalmente su liquidez:
 
@@ -70,7 +70,7 @@ Para remover parcial o totalmente su liquidez:
 
 ![](https://lh5.googleusercontent.com/zjxMZAbQyLMP4mpb4f6OmRPra7VeLgHWu\_d\_N9-p9K5e0S8B1QBzyKdEaAyv1LohGLiXwKVoGcXqSDehULzOACm2ojSL9JiRwyBZ-DOLOSpzfwk5mtXrQZjhPu2wRDBg8ER\_Y3jm)
 
-4\. Utilice los botones o el control deslizante para elegir qué porcentaje quitar. Elija **MAX **para remover todo.
+4\. Utilice los botones o el control deslizante para elegir qué porcentaje quitar. Elija **MAX** para remover todo.
 
 ![](https://lh6.googleusercontent.com/nABRYZMx2P75tzoCOvA6ZnxkuU\_NsN-cjEGgX4wGfmAm5nuIEd3aP3H9\_Y\_S4gUuV7qmnaVhmorn6cg47uSvZEXWoBXY6xsijFxC5EcxacRI2MB1HU99nvCuh2m09yeWE\_6bRNvr)
 
@@ -78,7 +78,7 @@ Para remover parcial o totalmente su liquidez:
 
 ![](https://lh6.googleusercontent.com/jwal-2cBEhwaUShjbG8EGJ6gN2zMfLu7qV2kfCd9D0s0Q-B3ogcIxYecXqMAfmirjlxsyvXnI9Z5fiqZZTwDe5iAKiwSW5IclaZJe-GDmUWyzwcxTZ\_qg-QJ7B2X6wsxbzpJVT4N)
 
-6\. El botón **Remove **se podrá presionar. Haga clic en él.
+6\. El botón **Remove** se podrá presionar. Haga clic en él.
 
 ![](https://lh3.googleusercontent.com/vs0mllfFUyTOqB-a4tQ0Rx-DbrUpcG71yIBI\_CEX1Qe1xbXMnr-jkECYgW8PD6qW4P09zUtkaaddu35aneoBqrHwuDklK9QMZSnjSMnjNKs\_mcwqNNjPUuwe6XQqy-15eO62M5nV)
 

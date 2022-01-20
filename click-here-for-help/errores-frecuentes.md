@@ -6,13 +6,13 @@ description: >-
 
 # Errores Frecuentes
 
-![](../.gitbook/assets/problemas-frecuentes.png)
+![](<../.gitbook/assets/Problemas Frecuentes.png>)
 
 A veces estamos frente a un problema que no parece tener una solución clara. Esperamos que estos tips frente a problemas frecuentes puedan ayudarte a solucionarlo.
 
 ## **Problemas en el Exchange**
 
-### **INSUFFICIENT\_OUTPUT\_AMOUNT **
+### **INSUFFICIENT\_OUTPUT\_AMOUNT**&#x20;
 
 > The transaction cannot succeed due to error:  PancakeRouter: INSUFFICIENT\_OUTPUT\_AMOUNT. This is probably an issue with one of the tokens you are swapping.&#x20;
 
@@ -27,7 +27,7 @@ Está intentando intercambiar tokens, pero su tolerancia al deslizamiento (Slipp
 3. Aumente su tolerancia al deslizamiento (Slippage):
    1. Toque el icono de configuración en la página de liquidez.
    2. Aumente un poco su deslizamiento (Slippage) e intente de nuevo.\
-      ![](<../.gitbook/assets/image (9) (4) (2) (4).png>)
+      ![](<../.gitbook/assets/image (9) (4) (2).png>)
 4. Por último, intente ingresar una cantidad con menos valores decimales.
 {% endtab %}
 
@@ -40,7 +40,7 @@ Sin embargo, también existe la posibilidad que estés intentando intercambiar u
 {% endtab %}
 {% endtabs %}
 
-### **INSUFFICIENT\_A\_AMOUNT or INSUFFICIENT\_B\_AMOUNT **
+### **INSUFFICIENT\_A\_AMOUNT or INSUFFICIENT\_B\_AMOUNT**&#x20;
 
 > Fail with error 'PancakeRouter: INSUFFICIENT\_A\_AMOUNT'\
 > or\
@@ -57,7 +57,7 @@ Aún no funciona?
 1. Toque el icono de configuración en la página de liquidez.
 2. Aumente un poco su deslizamiento (Slippage) e intente de nuevo.
 
-![](<../.gitbook/assets/image (9) (4) (2) (4).png>)
+![](<../.gitbook/assets/image (9) (4) (2).png>)
 {% endtab %}
 
 {% tab title="Razón" %}
@@ -83,7 +83,7 @@ Dirígete al contrato del token LP que estás intentando aprobar. Por ejemplo, d
 
 1. Selecciona **Write Contract**, luego **Connect to Web3** y conecta tu wallet\
    ![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ\_VGjxJ03YPRuVQ1O5ME)
-2. En **la sección"1. approve", **aprueba el LP token del Router ingresando:
+2. En **la sección"1. approve",** aprueba el LP token del Router ingresando:
    1. spender (address): ingrese la dirección del contrato del token LP con el que está tratando de interactuar.
    2. value (uint256): -1
 
@@ -93,13 +93,13 @@ Dirígete al contrato del token LP que estás intentando aprobar. Por ejemplo, d
 2. En la sección **5. balanceOf**, ingresa tu dirección de la wallet y presiona **Query**.
 3. Anota el número que se exporta. Este muestra tu saldo dentro del LP en formato uint256, que necesitarás en el siguiente paso.&#x20;
 
-![](<../.gitbook/assets/image (32).png>)
+![](<../.gitbook/assets/image (7).png>)
 
 ### Agregar o Remover Liquidez
 
 Dirígete al contrato del Router: [https://bscscan.com/address/0x05ff2b0db69458a0750badebc4f9e13add608c7f#writeContract](https://bscscan.com/address/0x05ff2b0db69458a0750badebc4f9e13add608c7f#writeContract)
 
-1. Selecciona **Write Contract **y **Connect to Web3** como antes.
+1. Selecciona **Write Contract** y **Connect to Web3** como antes.
 2. Encuentra **addLiquidity** o **removeLiquidity** (lo que sea que estés tratando de hacer)
 3. Ingresa las direcciones de contrato de ambos tokens del LP.
 4. En **liquidity (uint256),** ingresa el número en formato uint256 que obtuviste de "balanceOf" anteriormente.
@@ -107,7 +107,7 @@ Dirígete al contrato del Router: [https://bscscan.com/address/0x05ff2b0db69458a
 6. Agrega la dirección de tu billetera en **to (address)**.
 7. Deadline debe ser un tiempo de epoch mayor que el tiempo en que se ejecuta el transacción.&#x20;
 
-![](<../.gitbook/assets/image (19).png>)
+![](<../.gitbook/assets/image (5).png>)
 
 {% hint style="warning" %}
 Esto puede causar un muy alto deslizamiento (Slippage), y causar que el usuario pierda algunos fondos si realiza Frontrun.&#x20;
@@ -167,7 +167,7 @@ Esto retirará tus tokens en stake pero se perderá cualquier CAKE que no se hay
 {% endtab %}
 
 {% tab title="Razón" %}
-Para que esto no vuelva a pasar, **no vendas tus SYRUP. **Los vas a retirar para retirar los CAKE del “Stake CAKE Earn CAKE” pool.
+Para que esto no vuelva a pasar, **no vendas tus SYRUP.** Los vas a retirar para retirar los CAKE del “Stake CAKE Earn CAKE” pool.
 
 Este error ha aparecido porque has vendido o transferido los SYRUP tokens. Los SYRUP son creados en un ratio 1:1 ratio con CAKE cuando los depositas en el CAKE-CAKE Syrup Pool. Los SYRUP deben ser quemados al mismo ratio 1:1 ratio con CAKE cuando llamamos a la función leaveStaking (retirar nuestras CAKE del Pool), entonces si no tienes suficientes, no podrás hacer Unstake del pool.
 
@@ -189,11 +189,11 @@ El problema es que se estableció un límite de gas bajo al intentar realizar un
 
 {% tabs %}
 {% tab title="Solución" %}
-Intenta aumentar manualmente el **gas limit **(no el gas price!) en tu wallet, antes de firmar la transacción.
+Intenta aumentar manualmente el **gas limit** (no el gas price!) en tu wallet, antes de firmar la transacción.
 
 Un límite de gas (Gas Limit) en 200000 usualmente es suficiente
 
-![](<../.gitbook/assets/image (169).png>)
+![](<../.gitbook/assets/image (2).png>)
 
 El ejemplo de arriba es en Metamask; echa un vistazo a los docs de tu wallet si no estás seguro cómo ajustar el gas limit.
 {% endtab %}
@@ -253,7 +253,7 @@ Cambie su red a Binance Smart Chain. Consulte la documentación de su billetera 
 Para tradear SAFEMOON, debes hacer clic en el icono de configuración y **establecer su tolerancia de deslizamiento (slippage) en 12% o más.**
 
 ****\
-****Esto es porque** SafeMoon cobra un 10% de fee en cada transacción**:
+****Esto es porque **SafeMoon cobra un 10% de fee en cada transacción**:
 
 * 5% de fee = redistribuidos a todos los holders
 * 5% de fee = usados para agregar liquidez

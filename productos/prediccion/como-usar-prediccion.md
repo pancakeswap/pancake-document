@@ -2,13 +2,13 @@
 
 
 
-![](../../.gitbook/assets/como-predicion.png)
+![](<../../.gitbook/assets/como predicion.png>)
 
 Jugar a la Predicción de PancakeSwap te permite poner a prueba tu previsión para ganar recompensas. Utilice su conocimiento del mercado o intuición para predecir si el precio BNB/USDT subirá o bajará en un futuro próximo. ¡Hazlo bien y te llevarás una parte de los premios de la ronda!
 
 Predicción de PancakeSwap es un nuevo producto que todavía consideramos que está en versión beta. Podemos realizar cambios en el futuro para mejorar la predicción. Como siempre, el equipo de PancakeSwap informará a los usuarios de cualquier cambio que afecte a cómo funciona el producto.
 
-## Aceptación de los términos de la versión beta <a href="accepting-terms-of-the-beta" id="accepting-terms-of-the-beta"></a>
+## Aceptación de los términos de la versión beta <a href="#accepting-terms-of-the-beta" id="accepting-terms-of-the-beta"></a>
 
 Para poder usar Predicción, deberá revisar y aceptar los términos.
 
@@ -18,11 +18,11 @@ Visite la página de [Predicción de PancakeSwap](https://pancakeswap.finance/pr
 
 Lea las condiciones y haga clic en **Continue**.
 
-## Hacer una predicción para la siguiente ronda <a href="making-a-prediction-for-the-next-round" id="making-a-prediction-for-the-next-round"></a>
+## Hacer una predicción para la siguiente ronda <a href="#making-a-prediction-for-the-next-round" id="making-a-prediction-for-the-next-round"></a>
 
 La página Predicción muestra bastante información. Las predicciones operan en rondas de 5 minutos. Haga su predicción antes de que una ronda se pone en marcha para unirse.
 
-### Chequeando el timer <a href="checking-the-timer" id="checking-the-timer"></a>
+### Chequeando el timer <a href="#checking-the-timer" id="checking-the-timer"></a>
 
 Para entrar en una ronda de Predicción, querrá comprobar cuánto tiempo queda en la ronda actual. Encontrará el temporizador en el área superior derecha.
 
@@ -30,11 +30,11 @@ Para entrar en una ronda de Predicción, querrá comprobar cuánto tiempo queda 
 
 Si el temporizador es demasiado bajo, es posible que su predicción no se confirme a tiempo, así que compruebe que todavía queda mucho tiempo antes de hacer una predicción (30 segundos deberían ser suficientes, pero dése más tiempo si está siguiendo esta guía).
 
-### Prediciendo la próxima ronda <a href="predicting-the-next-round" id="predicting-the-next-round"></a>
+### Prediciendo la próxima ronda <a href="#predicting-the-next-round" id="predicting-the-next-round"></a>
 
 Cuando esté seguro de que tiene suficiente tiempo, puede colocar su predicción para la siguiente ronda.
 
-1\. En la sección "Next" verás un botón verde **Enter UP** y un botón rojo **Enter DOWN**. Haga clic en** Enter UP** si desea predecir un aumento en el precio y haga clic en** Enter DOWN** si desea predecir una caída en el precio.
+1\. En la sección "Next" verás un botón verde **Enter UP** y un botón rojo **Enter DOWN**. Haga clic en **Enter UP** si desea predecir un aumento en el precio y haga clic en **Enter DOWN** si desea predecir una caída en el precio.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MazU3f7baGsVWuAZcKf%2F-Mb01LvMG62NKnJs7djD%2Fimage.png?alt=media\&token=9c6542a8-66d2-40db-8f30-a8867ef753e9)
 
@@ -60,7 +60,7 @@ El botón de confirmación se desvanecerá a medida que se confirme la transacci
 
 No hay nada que hacer ahora, solo esperar a que su ronda de predicción inicie para ponerse en marcha.
 
-## Mientras que su ronda ingresada está en vivo: <a href="while-your-entered-round-is-live" id="while-your-entered-round-is-live"></a>
+## Mientras que su ronda ingresada está en vivo: <a href="#while-your-entered-round-is-live" id="while-your-entered-round-is-live"></a>
 
 &#x20;Una ronda en vivo durará 5 minutos. Puede ver la actualización de precios durante los 5 minutos si lo desea.
 
@@ -68,11 +68,11 @@ No hay nada que hacer ahora, solo esperar a que su ronda de predicción inicie p
 
 Sin embargo, no puede cambiar su predicción durante una ronda en vivo. Está bloqueado en su predicción de antes.
 
-## Una vez que su ronda termine <a href="once-your-entered-round-finishes" id="once-your-entered-round-finishes"></a>
+## Una vez que su ronda termine <a href="#once-your-entered-round-finishes" id="once-your-entered-round-finishes"></a>
 
 Después de 5 minutos como la ronda en vivo, su ronda ingresada terminará. Todo es automático, por lo que no hay nada que debas hacer para terminar la ronda.
 
-### Viendo los Resultados <a href="seeing-the-results" id="seeing-the-results"></a>
+### Viendo los Resultados <a href="#seeing-the-results" id="seeing-the-results"></a>
 
 1. A medida que finalicen los 5 minutos, la sección "LIVE" cambiará a "Calculating". El cálculo de los resultados solo toma un momento.
 
@@ -86,7 +86,7 @@ Después de 5 minutos como la ronda en vivo, su ronda ingresada terminará. Todo
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MazU3f7baGsVWuAZcKf%2F-Mb0FlZSuDmnImZpn\_zM%2Fimage.png?alt=media\&token=50b1f358-660a-4243-93fc-dd5d1e450e18)
 
-### Ver los resultados de las rondas antiguas <a href="seeing-results-for-older-rounds" id="seeing-results-for-older-rounds"></a>
+### Ver los resultados de las rondas antiguas <a href="#seeing-results-for-older-rounds" id="seeing-results-for-older-rounds"></a>
 
 Si desea ver los resultados de las rondas que ha introducido que son anteriores a unas pocas rondas, deberá seguir los pasos que se indican a continuación para encontrar los resultados.
 
@@ -100,7 +100,7 @@ Si desea ver los resultados de las rondas que ha introducido que son anteriores 
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MazU3f7baGsVWuAZcKf%2F-Mb0J72WWPDRWvIZsMOU%2Fimage.png?alt=media\&token=6cf19f75-165b-4fc3-953c-bdf27aed86cb)
 
-### Recolectando ganancias <a href="collecting-any-winnings" id="collecting-any-winnings"></a>
+### Recolectando ganancias <a href="#collecting-any-winnings" id="collecting-any-winnings"></a>
 
 1\. Si ganaste la ronda de entrada, aparecerá un botón **Collect Winnings** junto a un trofeo de oro. Haga clic en el botón.
 
@@ -112,11 +112,11 @@ Si desea ver los resultados de las rondas que ha introducido que son anteriores 
 
 &#x20;Sus ganancias de BNB ahora estarán en su billetera.
 
-### Recogiendo ganancias de rondas antiguas <a href="collecting-winnings-from-older-rounds" id="collecting-winnings-from-older-rounds"></a>
+### Recogiendo ganancias de rondas antiguas <a href="#collecting-winnings-from-older-rounds" id="collecting-winnings-from-older-rounds"></a>
 
 A veces puede estar lejos de la página de predicción de PancakeSwap por un tiempo, o puede haber olvidado recoger las ganancias de las rondas más antiguas. Usted todavía puede recoger las ganancias que se le deben de rondas más antiguas en cualquier momento.
 
-1\. Encuentre más información sobre las rondas pasadas que ha introducido haciendo clic en el** icono del reloj de marcha** atrás junto al temporizador redondo.
+1\. Encuentre más información sobre las rondas pasadas que ha introducido haciendo clic en el **icono del reloj de marcha** atrás junto al temporizador redondo.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MazU3f7baGsVWuAZcKf%2F-Mb0H7H5rWAS0jGn6qZC%2Fimage.png?alt=media\&token=84b40b86-e639-4744-a307-d8fb5effd63e)
 
@@ -130,7 +130,7 @@ A veces puede estar lejos de la página de predicción de PancakeSwap por un tie
 
 Sus ganancias de BNB ahora estarán en su billetera.
 
-## Visualización de datos históricos de pérdidas y ganancias <a href="viewing-historic-profit-and-loss-data" id="viewing-historic-profit-and-loss-data"></a>
+## Visualización de datos históricos de pérdidas y ganancias <a href="#viewing-historic-profit-and-loss-data" id="viewing-historic-profit-and-loss-data"></a>
 
 Si desea ver cómo le ha ido en general en Predicción, puede ver los datos de PNL (Pérdidas y ganancias) cuando lo desee.
 

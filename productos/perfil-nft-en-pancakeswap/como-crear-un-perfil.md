@@ -1,10 +1,10 @@
 # Cómo Crear un Perfil
 
-![](<../../.gitbook/assets/docs-masthead (4).png>)
+![](<../../.gitbook/assets/docs masthead (29).png>)
 
 Crea un perfil personalizado en PancakeSwap para compartir tu personalidad con el mundo. Elige un conejito lindo NFT para tu foto de perfil, darle un nombre único, y unirse a un equipo impresionante!
 
-Tener su perfil creado le permitirá compartir su foto de perfil NFT y logros con amigos, y le permitirá unirse a eventos especiales del equipo PancakeSwap.** Este proceso costará un total de 1,5 CAKE**.
+Tener su perfil creado le permitirá compartir su foto de perfil NFT y logros con amigos, y le permitirá unirse a eventos especiales del equipo PancakeSwap. **Este proceso costará un total de 1,5 CAKE**.
 
 ![](https://lh6.googleusercontent.com/\_lvq\_wpwDw96zKVutm23VddK1SNqYt7TdAu7YYWVkTTfEggvsHNUtTBe4333NlZXCyJyOZnoWObWcWA8CyoC4Db0R-xjaQUSxmHZpuca5Hrqr-xsBbRh5aKHa3x2dVakNRtNqXi5)
 
@@ -16,7 +16,7 @@ Tener su perfil creado le permitirá compartir su foto de perfil NFT y logros co
 
 ![](https://lh6.googleusercontent.com/R6cuZyD78vXtH\_MBFIjscr-xVIVMd6NTdIHfo8I0aS45tKM5BEeDNsMFlfZrmvixo0YaLMGqU2I0CDk1I4E2Ny8DAXk9Y794Z1DyF4ZrSOGLdKku6zRH0CcAneKrm5kMclfFAMDG)
 
-3\. Haz clic en **Approve **y, a continuación, confirma la acción en tu monedero. Una vez aprobado, haga clic en Confirmar.
+3\. Haz clic en **Approve** y, a continuación, confirma la acción en tu monedero. Una vez aprobado, haga clic en Confirmar.
 
 ![](https://lh3.googleusercontent.com/00X4sXeYHa6Fzla\_LPlBVT2Dexv8OJyijPW0ulow7JyDv6o1SOM-Nm98ek1YPd0SopJuN1hJqpLKgMTxk2Dl-yhdmLlwEf52omHm2aO7J0YjDzakmYIpvN8igJV60kphLh7YCdg-)
 
@@ -46,13 +46,13 @@ Para este ejemplo elegiremos Fearsome Flippers.
 
 ![](https://lh6.googleusercontent.com/wiqoAQVE7CPY4UCfr0M0d9kCws1oNFZDePoiU8z2PKmQ2cIo6rE0gBqacHQNsN9C-2u2sDxkGZVBD9LCw6RmnZk6ShGx0jQUHuCidS6J33q0yatyf0cXG0e4iQHlUA373kwZDv1K)
 
-10\. Haga clic en el botón **Confirm **y, a continuación, confirme la acción en su billetera. Una vez confirmado, haga clic en el botón **Complete Profile.**&#x20;
+10\. Haga clic en el botón **Confirm** y, a continuación, confirme la acción en su billetera. Una vez confirmado, haga clic en el botón **Complete Profile.**&#x20;
 
 ![](https://lh3.googleusercontent.com/XIVEO4\_Nc6bnJiMRXJXwJTGCeFRp7td9n4RoHMH\_NdRaMMYXnzNMPlLTyfJRzS4v2OgTsSHScVH1uGWq8WHtnSy4Stb8Q\_CC1OSgRIDRYJ8ClLM-BcfvT4Sy7IF6rxt6Hi1hetG8)
 
 ![](https://lh5.googleusercontent.com/tWUaujM\_pgtzsn3xo5T3GDchCnOCbrWiiMoNQIdk3npNIUjKqm\_XKzTpknAC1YxkCCtBBtax1yjRMxHyNShaLLTTwXI8NDx93fZrUDtqz0edyyk-T4OljMzsmjnGuRXo5eRc\_Rph)
 
-11\. Recibirás un mensaje que dice que tu contrato de perfil te costará 0.5 CAKE. Haz clic en **Approve **y, a continuación, **confirma **la acción en tu monedero. Una vez aprobado, haga clic en el botón Confirmar. El botón Confirmar se iluminará después de la aprobación.
+11\. Recibirás un mensaje que dice que tu contrato de perfil te costará 0.5 CAKE. Haz clic en **Approve** y, a continuación, **confirma** la acción en tu monedero. Una vez aprobado, haga clic en el botón Confirmar. El botón Confirmar se iluminará después de la aprobación.
 
 ![](https://lh5.googleusercontent.com/Qzstx6YRW4sXnox\_e7VBBdYwTYr\_TSW-QHZyHkgsg1XR3Vw3cLsYfpCxa4qNQzU13aNtoQnG0-cFRttpcXMhPj7yFUeiirKodt5iK1XhqO5QQKfQCFu4i0q8wcWRYKFoU06cjN2A)
 

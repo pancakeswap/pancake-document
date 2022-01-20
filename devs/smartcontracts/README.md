@@ -2,7 +2,7 @@
 
 Esta página proporciona enlaces o ubicaciones para los contratos inteligentes de PancakeSwap.
 
-## Contratos Principales <a href="main-contracts" id="main-contracts"></a>
+## Contratos Principales <a href="#main-contracts" id="main-contracts"></a>
 
 Los siguientes enlaces lo llevarán a la página de BscScan para los principales contratos inteligentes de PancakeSwap.
 
@@ -15,7 +15,7 @@ Los siguientes enlaces lo llevarán a la página de BscScan para los principales
   * ​[Farms Contracts](https://docs.pancakeswap.finance/code/smart-contracts#farms-contracts)
   * ​[IFO Contracts](https://docs.pancakeswap.finance/code/smart-contracts#ifo-contracts)​
 
-## Farms Contratos <a href="farms-contracts" id="farms-contracts"></a>
+## Farms Contratos <a href="#farms-contracts" id="farms-contracts"></a>
 
 Cada Farm utilizada por PancakeSwap tiene su propio contrato inteligente. Siga los pasos que se indican a continuación para ver el contrato inteligente de un Farm
 
@@ -27,15 +27,15 @@ Cada Farm utilizada por PancakeSwap tiene su propio contrato inteligente. Siga l
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-McgZ8b3Jbc0UPFnXJh\_%2F-Mcgb5386aAhXZikm0u\_%2Fimage.png?alt=media\&token=9ab016e5-0cff-47e2-af57-1c39af62b362)
 
-## IFO Contratos <a href="ifo-contracts" id="ifo-contracts"></a>
+## IFO Contratos <a href="#ifo-contracts" id="ifo-contracts"></a>
 
 Los contratos IFO son únicos para cada nuevo IFO. Siga los pasos a continuación para ver el contrato inteligente de una IFO.
 
-### Actual o IFO más reciente <a href="current-or-most-recent-ifo" id="current-or-most-recent-ifo"></a>
+### Actual o IFO más reciente <a href="#current-or-most-recent-ifo" id="current-or-most-recent-ifo"></a>
 
 Vaya a la  [Página de IFO](https://pancakeswap.finance/ifo) and looky  busque en la parte inferior derecha de la información de IFO un enlace **Ver contrato**.![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-McgZ8b3Jbc0UPFnXJh\_%2F-McgkqFkMNqvcg8DHEiZ%2Fimage.png?alt=media\&token=26179324-b18e-4b52-b3e3-e4147126b072)
 
-### IFOs Anteriores <a href="previous-ifos" id="previous-ifos"></a>
+### IFOs Anteriores <a href="#previous-ifos" id="previous-ifos"></a>
 
 1. Go to the [PancakeSwap IFO page](https://pancakeswap.finance/ifo) and click the **Past IFOs** toggle at the top of the page.
 
@@ -45,6 +45,6 @@ Vaya a la  [Página de IFO](https://pancakeswap.finance/ifo) and looky  busque e
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-McgZ8b3Jbc0UPFnXJh\_%2F-McglZZB0929no3mUL1a%2Fimage.png?alt=media\&token=298daab6-0989-43f0-994b-0180d80fe29b)
 
-1. Busque y haga clic en el vínculo** Ver contrato** en la parte inferior derecha de la información expandida.
+1. Busque y haga clic en el vínculo **Ver contrato** en la parte inferior derecha de la información expandida.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-McgZ8b3Jbc0UPFnXJh\_%2F-McgluuVgNseeKWmomk9%2Fimage.png?alt=media\&token=f5b717a7-4d09-4a76-92b1-3fbb7f4f7659)

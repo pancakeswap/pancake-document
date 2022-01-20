@@ -31,9 +31,9 @@ Bueno, esta bien, en realidad no es una hoja de ruta. Es una lista de tareas pen
 * [x] **Lotería (Desarrollo nuevo)**
 * [x] **Analíticas (Característica Principal)**
 * [x] **Votación (Característica Principal)**
-* [x] **IFO (Oferta Inicial de Farming): **Recaude fondos para su proyecto mediante tokes CAKE-BNB LP. Después de canjear los tokens LP, el BNB se distribuye al proyecto y se quema el CAKE
+* [x] **IFO (Oferta Inicial de Farming):** Recaude fondos para su proyecto mediante tokes CAKE-BNB LP. Después de canjear los tokens LP, el BNB se distribuye al proyecto y se quema el CAKE
 * [ ] \-**Prestamos**: Preste y pida prestados tokens BSC y LP: CAKE ofrece un descuento en la tasa.
-* [ ] **Margin Trading: **Tradea tokens de la BSC con apalancamiento — recompra y quema periódica de CAKE
+* [ ] **Margin Trading:** Tradea tokens de la BSC con apalancamiento — recompra y quema periódica de CAKE
 * [x] **Ecosistema NFT**: ¡Emisión, trading y más! Todo pagado con CAKE
   * [x] First NFT round
 * [ ] **NFT-based Gamification:** Complete tasks, level up etc. to earn NFTs — use CAKE to mint

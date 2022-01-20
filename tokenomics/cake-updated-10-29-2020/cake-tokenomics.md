@@ -2,17 +2,15 @@
 
 ![](../../.gitbook/assets/Es.png)
 
-
-
-## **Tasa de Emisión** <a href="emission-rate" id="emission-rate"></a>
+## **Tasa de Emisión** <a href="#emission-rate" id="emission-rate"></a>
 
 ### **Por Bloque**
 
 | **Metric**                                                                  | **Emisión/Bloque (CAKE)** | **Emisión/día (CAKE)** |
 | --------------------------------------------------------------------------- | ------------------------: | ---------------------: |
 | Emisión                                                                     |                        40 |              1,152,000 |
-| Quemado Semanal [(PID 138)](cake-tokenomics.md#why-is-the-cake-burn-manual) |                     -25.5 |               -734,400 |
-| **Emisión Efectiva**                                                        |               **<14.5\*** |          **371,600\*** |
+| Quemado Semanal [(PID 138)](cake-tokenomics.md#why-is-the-cake-burn-manual) |                    -25.75 |               -787,600 |
+| **Emisión Efectiva**                                                        |              **<14.25\*** |          **364,600\*** |
 
 \*De hecho, la emisión efectiva está ligeramente por debajo de esta cantidad: un total de 45.000 CAKE por día se desvían de la cantidad asignada para la lotería, y es quemada. (PID 137 - Detalles a continuación.)
 
@@ -22,14 +20,14 @@ Además de lo anterior, también se emite una cantidad dinámica de CAKE a la [D
 **Sin embargo, todo el CAKE emitido a la Dev Address se quema en la quema semanal y nunca entra en circulación. Como tal, no lo hemos incluido en la tasa de emisión anterior.**
 {% endhint %}
 
-## Distribución <a href="distribution" id="distribution"></a>
+## Distribución <a href="#distribution" id="distribution"></a>
 
 | Distribuido a                    | Reward/bloque (% de emisión) | Reward/bloque (CAKE Total) | Reward/Día          |
 | -------------------------------- | ---------------------------- | -------------------------- | ------------------- |
-| Farms y Lotería                  | 11.25%                       | 4.5                        | 129,600 (aprox)     |
-| Desviadas y quemadas             | ​                            | ​                          | -45,000             |
+| Farms y Lotería                  | 10.62%                       | 4.25                       | 122,400 (aprox)     |
+| Desviadas y quemadas             | ​                            | ​                          | -46,000             |
 | Syrup Pools                      | 25%                          | 10                         | 288,000 (aprox)     |
-| **Emisión Diaria Total de CAKE** | ​                            | ​                          | **371,600 (aprox)** |
+| **Emisión Diaria Total de CAKE** | ​                            | ​                          | **364,400 (aprox)** |
 
 {% hint style="info" %}
 El proceso de quema es manual. [Ve las transacciones aquí](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82?a=0x000000000000000000000000000000000000dead).
@@ -54,7 +52,7 @@ Este salto aparente se debe a cómo se almacena todo el CAKE que se asigna para 
 
 El CAKE enviado a ambos grupos PID-137 y PID-138 se cosecha antes de completar las quemas semanales de tokens, y esto hace que el supply total que se muestra en el sitio salte en \~ 6M. Esto se debe a que el CAKE pendiente no se registra en el Suministro Total hasta que se cosecha el día de la quema. Una vez que se completa la transacción de quema de tokens, el \~6M se muestra en Quemado hasta la fecha.
 
-## **Otros Mecanismos Deflacionarios** <a href="other-deflationary-mechanics" id="other-deflationary-mechanics"></a>
+## **Otros Mecanismos Deflacionarios** <a href="#other-deflationary-mechanics" id="other-deflationary-mechanics"></a>
 
 En la actualidad, también se quema CAKE de las siguientes maneras:
 

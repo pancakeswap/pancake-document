@@ -1,6 +1,6 @@
 # Cómo hacer el Stake en los Syrup Pools
 
-![](<../../.gitbook/assets/docs-masthead (3).png>)
+![](<../../.gitbook/assets/docs masthead (27).png>)
 
 Syrup Pools: la forma más sencilla de ganar en PancakeSwap
 
@@ -8,7 +8,7 @@ Hacer Staking en [Syrup Pools](https://docs.pancakeswap.finance/products/syrup-p
 
 Es más simple que hacer Farming con los Yield Farms de PancakeSwap, porque a diferencia de los ellos, solo necesita depositar **un token** para comenzar a ganar: generalmente CAKE.
 
-## **Empezando con el Staking en Syrup Pools** <a href="getting-started-with-syrup-pool-staking" id="getting-started-with-syrup-pool-staking"></a>
+## **Empezando con el Staking en Syrup Pools** <a href="#getting-started-with-syrup-pool-staking" id="getting-started-with-syrup-pool-staking"></a>
 
 1\. Ir a la [página de Pools](https://pancakeswap.finance/pools).
 
@@ -46,11 +46,11 @@ Otros Syrup Pools te permiten depositar tus CAKE para ganar docenas de otros Tok
 
 9\. El botón Confirm cambiará a "**Confirming**", luego, una vez que la transacción sea exitosa, verá que su cantidad depositada cambiará y el botón cambiará nuevamente.
 
-10\. Ahora debería poder ver los detalles de su Pool. Auto CAKE mostrará una cuenta regresiva hasta que termine la tarifa de penalización. Los otros Pools mostrarán un botón **Collect **para reclamar sus recompensas de staking a su billetera.
+10\. Ahora debería poder ver los detalles de su Pool. Auto CAKE mostrará una cuenta regresiva hasta que termine la tarifa de penalización. Los otros Pools mostrarán un botón **Collect** para reclamar sus recompensas de staking a su billetera.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-M\_xca0jVy\_Z\_BxN65jZ%2F-M\_xgC8LJ8bryfoBqGdz%2Fimage.png?alt=media\&token=61b91f0b-3ac4-476d-84f7-643bc078a727)
 
-### **Agregar o Remover CAKE desde un Pool** <a href="adding-and-removing-cake-from-a-pool" id="adding-and-removing-cake-from-a-pool"></a>
+### **Agregar o Remover CAKE desde un Pool** <a href="#adding-and-removing-cake-from-a-pool" id="adding-and-removing-cake-from-a-pool"></a>
 
 Usted puede agregar fácilmente más CAKE a una Syrup Pool, o mover un poco de Cake a otro Pool más rentable. Así es como puedes mover tu CAKE depositado:
 

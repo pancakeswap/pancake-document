@@ -1,6 +1,6 @@
 # PancakeSwap Intro
 
-![](<.gitbook/assets/masthead-twitter (1).png>)
+![](<.gitbook/assets/masthead twitter (1).png>)
 
 {% hint style="success" %}
 **PancakeSwap te ayuda a sacar el máximo partido de tus criptomonedas de tres maneras:**
@@ -23,7 +23,7 @@ PancakeSwap es el exchange descentralizado líder en Binance Smart Chain, con lo
 ### Descentralización
 
 Tradear directamente desde la app de la wallet.\
-A diferencia de los exchanges centralizados como Binance o Coinbase, PancakeSwap no retiene los fondos de los usuarios cuando operan:** cada persona tiene 100% de la propiedad de sus criptos todo el tiempo.**
+A diferencia de los exchanges centralizados como Binance o Coinbase, PancakeSwap no retiene los fondos de los usuarios cuando operan: **cada persona tiene 100% de la propiedad de sus criptos todo el tiempo.**
 
 ## 💸 Ganancias
 
@@ -80,5 +80,5 @@ Puedes verlo tú mismo:
 
 
 **Suena divertido?**\
-**Entonces a cocinar Panqueques! **🐰 🥞\
+**Entonces a cocinar Panqueques!** 🐰 🥞\
 ****
