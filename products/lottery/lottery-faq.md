@@ -24,21 +24,19 @@ Each full lottery session will run for 12 hours.
 
 The bunnies at the bottom of the page.
 
-![](../../.gitbook/assets/screenshot-2020-10-22-at-6.02.10-pm.png)
+![](<../../.gitbook/assets/Screenshot 2020-10-22 at 6.02.10 PM.png>)
 
 ## Are all ticket numbers unique?
 
-There are a total of 38,416 different ticket combinations. This may be adjusted later based on the number of participants. 
+There are a total of 38,416 different ticket combinations. This may be adjusted later based on the number of participants.&#x20;
 
 Ticket numbers are given out randomly. As such, there is a small chance that a user receives the same 4 digits in two tickets held.
 
 ## What if someone buys all of the number combinations?
 
-This is close to impossible as ticket numbers are given out randomly. One participant is able to acquire 2 tickets that have the same 4 digits, so they would have a very hard time acquiring all of the unique combinations. 
+This is close to impossible as ticket numbers are given out randomly. One participant is able to acquire 2 tickets that have the same 4 digits, so they would have a very hard time acquiring all of the unique combinations.&#x20;
 
 ## What transaction fee will I pay for buying a ticket?
 
 Each ticket purchase will require a unique transaction. For example, buying 2 tickets will require participants to pay for 2 transactions. The same will apply when claiming rewards.
-
-
 

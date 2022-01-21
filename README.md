@@ -1,8 +1,8 @@
 # PancakeSwap Intro
 
-PancakeSwap is a **decentralized exchange** running on Binance Smart Chain, with lots of other features that let you **earn and win tokens.** 
+PancakeSwap is a **decentralized exchange** running on Binance Smart Chain, with lots of other features that let you **earn and win tokens.**&#x20;
 
-It's fast, cheap, and anyone can use it. 
+It's fast, cheap, and anyone can use it.&#x20;
 
 It's also got pancakes and rabbits.
 
@@ -10,7 +10,7 @@ It's also got pancakes and rabbits.
 
 #### ↔️ Trade
 
-The [exchange](products/pancakeswap-exchange/) is an automated market maker \(“AMM”\) that allows two tokens to be exchanged on the Binance Smart Chain. 
+The [exchange](products/pancakeswap-exchange/) is an automated market maker (“AMM”) that allows two tokens to be exchanged on the Binance Smart Chain.&#x20;
 
 #### 💸 Earn
 
@@ -22,14 +22,13 @@ Win big with the [PancakeSwap Lottery](products/lottery/lottery-1.md)!
 
 ![](.gitbook/assets/1500x500.jpeg)
 
-### **Why Binance Smart Chain \(BSC\)?**
+### **Why Binance Smart Chain (BSC)?**
 
-In very simple terms, why would we want to drive a slower car that costs more to run? We're all about gamification, so we want to maximize the feedback loop of earning, staking, and earning again: BSC's superior speed and much \(much much\) lower transaction fees let us do this.
+In very simple terms, why would we want to drive a slower car that costs more to run? We're all about gamification, so we want to maximize the feedback loop of earning, staking, and earning again: BSC's superior speed and much (much much) lower transaction fees let us do this.
 
 While BSC might not have the level of adoption Ethereum does at current, we believe in Binance’s ability and drive to get it mighty close in the foreseeable future.
 
 Faster. Cheaper. **Sold.**
 
-**Now get flipping!** 🐰 🥞  
+**Now get flipping!** 🐰 🥞\
 ****
-
