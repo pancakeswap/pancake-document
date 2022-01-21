@@ -12,7 +12,7 @@ All our repositories are stored on [Github](https://github.com/pancakeswap). Mos
 
 ## Github repositories
 
-* [Toolkit](https://github.com/pancakeswap/pancake-toolkit): Contains a set of packages used to build the pancake ecosystem, including the  uikit.
+* [Toolkit](https://github.com/pancakeswap/pancake-toolkit): Contains a set of packages used to build the pancake ecosystem, including the uikit.
 * [Frontend](https://github.com/pancakeswap/pancake-frontend): The main frontend. It contains all the features that are not listed below.
 * [Exchange](https://github.com/pancakeswap/pancake-swap-interface): The trading platform for Pancake.
 * [Info](https://github.com/pancakeswap/pancake-info): On chain data for Pancake.
