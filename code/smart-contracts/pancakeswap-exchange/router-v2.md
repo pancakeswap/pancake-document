@@ -12,7 +12,7 @@ For more in-depth information on the core contract logic, read the [Uniswap v2 C
 
 View [PancakeRouter.sol on GitHub](https://github.com/pancakeswap/pancake-swap-periphery/blob/master/contracts/PancakeRouter.sol).
 
-View the [PancakeSwap: Factory v2 contract on BscScan](https://bscscan.com/address/0x10ed43c718714eb63d5aa57b78b54704e256024e).
+View the [PancakeSwap: Router v2 contract on BscScan](https://bscscan.com/address/0x10ed43c718714eb63d5aa57b78b54704e256024e).
 
 ## Read functions
 
