@@ -16,7 +16,7 @@
   * [社交媒体与社区](contact-us/telegram.md)
 * [路线图](roadmap.md)
 
-## 产品 <a href="products" id="products"></a>
+## 产品 <a href="#products" id="products"></a>
 
 * [🔄 交易](products/pancakeswap-exchange.md)
 * [🚜 流动性挖矿](products/yield-farming.md)
@@ -32,25 +32,16 @@
 * [🗳 投票](products/voting/README.md)
   * [How to vote with SafePal wallet](products/voting/how-to-vote-with-safepal-wallet.md)
 
-## 经济模型 <a href="tokenomics" id="tokenomics"></a>
+## 经济模型 <a href="#tokenomics" id="tokenomics"></a>
 
 * [CAKE](tokenomics/cake-updated-10-29-2020/README.md)
   * [CAKE 代币经济模型](tokenomics/cake-updated-10-29-2020/cake-dai-bi-jing-ji-mo-xing.md)
   * [控制 CAKE 的总量](tokenomics/cake-updated-10-29-2020/kong-zhi-cake-de-zong-liang.md)
 
-## Development Guide <a href="code" id="code"></a>
+## Development Guide <a href="#code" id="code"></a>
 
 * [Contributing](code/contributing/README.md)
   * [Codebase Overview](code/contributing/codebase-overview.md)
-
-## Hiring
-
-* [Become a Chef](hiring/become-a-chef/README.md)
-  * [Frontend Software Engineer - JavaScript / Typescript / React](hiring/become-a-chef/frontend-software-engineer-javascript-typescript-react.md)
-  * [Solidity Engineer](hiring/become-a-chef/solidity-engineer.md)
-  * [Technical Writer](hiring/become-a-chef/technical-writer.md)
-  * [Blockchain QA Engineer](hiring/become-a-chef/senior-qa-engineer.md)
-  * [UX/UI Designer](hiring/become-a-chef/ux-ui-designer.md)
 
 ***
 
