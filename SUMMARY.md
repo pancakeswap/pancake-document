@@ -27,8 +27,8 @@
   * [Lottery](products/lottery/lottery-1.md)
   * [How to Take Part in the PancakeSwap Lottery](products/lottery/how-to-take-part-in-the-pancakeswap-lottery.md)
   * [Lottery FAQ](products/lottery/lottery-faq.md)
-* [IFO \(Initial Farm Offering\)](products/ifo-initial-farm-offering/README.md)
-  * [IFO \(Initial Farm Offering\)](products/ifo-initial-farm-offering/ifo-initial-farm-offering.md)
+* [IFO (Initial Farm Offering)](products/ifo-initial-farm-offering/README.md)
+  * [IFO (Initial Farm Offering)](products/ifo-initial-farm-offering/ifo-initial-farm-offering.md)
 * [Info](products/info/README.md)
   * [Analytics](products/info/pancakeswap-analytics.md)
 * [Voting](products/voting/README.md)
@@ -39,19 +39,9 @@
 
 * [CAKE](tokenomics/cake-updated-10-29-2020/README.md)
   * [Controlling CAKE supply](tokenomics/cake-updated-10-29-2020/controlling-cake-supply/README.md)
-    * [SYRUP \(deprecated\)](tokenomics/cake-updated-10-29-2020/controlling-cake-supply/syrup.md)
+    * [SYRUP (deprecated)](tokenomics/cake-updated-10-29-2020/controlling-cake-supply/syrup.md)
 
-## Development Guide <a id="code"></a>
+## Development Guide <a href="#code" id="code"></a>
 
 * [Contributing](code/contributing/README.md)
   * [Codebase Overview](code/contributing/codebase-overview.md)
-
-## Hiring
-
-* [Become a Chef](hiring/become-a-chef/README.md)
-  * [Frontend Software Engineer - JavaScript / Typescript / React](hiring/become-a-chef/frontend-software-engineer-javascript-typescript-react.md)
-  * [Solidity Engineer](hiring/become-a-chef/solidity-engineer.md)
-  * [Technical Writer](hiring/become-a-chef/technical-writer.md)
-  * [Blockchain QA Engineer](hiring/become-a-chef/senior-qa-engineer.md)
-  * [UX/UI Designer](hiring/become-a-chef/ux-ui-designer.md)
-
