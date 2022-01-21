@@ -103,7 +103,7 @@ PancakeSwap’s other smart contracts, like IFO and AutoPool, are protected as w
 
 ## Can I join the PancakeSwap team? <a href="#can-i-join-the-pancakeswap-team" id="can-i-join-the-pancakeswap-team"></a>
 
-Check the [Become a Chef](../hiring-1/become-a-chef.md) area for information on open positions we're looking to fill.
+Check the [Become a Chef](../hiring/become-a-chef.md) area for information on open positions we're looking to fill.
 
 We advertise new positions we're looking to fill on our [official social media channels](https://docs.pancakeswap.finance/contact-us/telegram), so be sure to follow us to get the latest hiring information.
 

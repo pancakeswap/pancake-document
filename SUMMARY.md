@@ -59,15 +59,6 @@
 * [Contributing](code/contributing/README.md)
   * [Codebase Overview](code/contributing/codebase-overview.md)
 
-## Hiring
-
-* [Become a Chef](hiring/become-a-chef/README.md)
-  * [Frontend Software Engineer - JavaScript / Typescript / React](hiring/become-a-chef/frontend-software-engineer-javascript-typescript-react.md)
-  * [Solidity Engineer](hiring/become-a-chef/solidity-engineer.md)
-  * [Technical Writer](hiring/become-a-chef/technical-writer.md)
-  * [Blockchain QA Engineer](hiring/become-a-chef/senior-qa-engineer.md)
-  * [UX/UI Designer](hiring/become-a-chef/ux-ui-designer.md)
-
 ***
 
 * [Click Here for Help](click-here-for-help-1.md)
@@ -99,8 +90,8 @@
 * [code](code-1/README.md)
   * [Contributing](code-1/contributing.md)
   * [Bug Bounty](code-1/bug-bounty.md)
-* [hiring](hiring-1/README.md)
-  * [Become a Chef](hiring-1/become-a-chef.md)
+* [hiring](hiring/README.md)
+  * [Become a Chef](hiring/become-a-chef.md)
 * [help](help/README.md)
   * [Troubleshooting Errors](help/troubleshooting-errors.md)
   * [General FAQ](help/general-faq.md)
