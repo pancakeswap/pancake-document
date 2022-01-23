@@ -10,7 +10,7 @@ Here you'll find a list of PancakeSwap's official Social media channels and comm
 
 ## 📰 Blog (Medium)
 
-{% embed url="https://medium.com/@pancakeswap" %}
+{% embed url="https://medium.com/pancakeswap" %}
 
 ## 👽 Reddit
 
