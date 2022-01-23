@@ -38,7 +38,7 @@ Newly launched on 24th Nov! The below is the only link for our discord server!
 * 🇻🇳 Việt Nam ([https://t.me/PancakeSwapVN](https://t.me/PancakeSwapVN))&#x20;
 * 🇪🇸 🇦🇷 🇻🇪 Español ([https://t.me/PancakeSwapES](https://t.me/PancakeSwapES))&#x20;
 * 🇷🇺 Russian ([http://t.me/pancakeswap\_ru](http://t.me/pancakeswap\_ru))&#x20;
-* 🇧🇷 🇵🇹 Portuguese/Brazilian Community ([https://t.me/PancakeSwapPortuguese](https://t.me/PancakeSwapPortuguese))
+* 🇧🇷 🇵🇹 Portuguese/Brazilian ([https://t.me/PancakeSwapPortuguese](https://t.me/PancakeSwapPortuguese))
 * 🇫🇷 French ([https://t.me/pancakeswapfr](https://t.me/pancakeswapfr))&#x20;
 * 🇮🇹 Italiano ([https://t.me/pancakeswap\_ita](https://t.me/pancakeswap\_ita))&#x20;
 * 🇹🇷 Türkiye ([https://t.me/pancakeswapturkiye](https://t.me/pancakeswapturkiye))&#x20;
