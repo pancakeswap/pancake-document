@@ -80,13 +80,3 @@
   * [Product Lead](hiring/become-a-chef/product-lead.md)
   * [Frontend Engineer](hiring/become-a-chef/frontend-engineer.md)
   * [Blockchain QA Engineer](hiring/become-a-chef/senior-qa-engineer.md)
-
-## Contract Governance <a href="#governance" id="governance"></a>
-
-* [Lottery](governance/lottery/README.md)
-  * [Lottery Contract](governance/lottery/lottery-contract.md)
-* [Prediction](governance/prediction.md)
-* [Farms](governance/farms.md)
-* [Syrup Pools](governance/syrup-pools/README.md)
-  * [SmartChefInitializable](governance/syrup-pools/smartchefinitializable.md)
-  * [PoolDeployer](governance/syrup-pools/pooldeployer.md)
