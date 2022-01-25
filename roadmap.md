@@ -22,68 +22,75 @@ That means that we don’t publicly commit to specific timelines, so we can orga
 Some items didn't make it into the "Coming Up" section due to security or confidential reason.
 {% endhint %}
 
-### Ongoing/Recurring
+### Trade
 
-* Site-wide UI/UX Upgrates
-* Regular NFT Drops
-* Regular IFOs, Pools + Farms, Farm Auctions
-* Listing More NFT Collections
+* Pending
+  * Perpetuals Trading
+  * Limit Order
+* Backlog
+  * Other major updates to the trading experience
+* Done
+  * Charts & other trading features on-site
+  * Migration to Exchange V2 (exchange, liquidity, farms)
+  * Major performance upgrades
+  * Team Battle 1
+  * Trading Comps as a Service
 
-### Coming Up in Q1
+### Earn
 
-* IFO 3.1: Private Sales & New IFO Syrup Pool
-* MasterChef v2: Ready for Future Products and New Tokenomics
-* Perpetuals Trading
-* Limit Order
-* Fixed-term Staking
-* NFT Utility
-* NFT-based Gamification
-* Hackathon
-* Lottery v3: New game types and more
-* Affiliate System
+* Pending
+  * Fixed-term Staking
+  * Farm Auctions
+* Done
+  * CAKE Staking
+  * Core Pools
+  * Community Pools: Host BSC community project Pools, support with 0.1-0.2x CAKE farms
+  * Auto-compounding CAKE-CAKE Syrup Pool
+  * Syrup Pool Boosts
+  * APR/APY Calculator v2
+  * Harvest all
 
-### Backlogs
+### Win
 
-* Overview pages for Earn, Win
+* Pending
+  * Lottery v3: New game types and more
+* Done
+  * Lottery v2
+  * Prediction v0.2
+
+### NFT Ecosystem
+
+* Pending
+  * Profile Points Ecosystem
+  * Regular NFT Drops
+  * Listing More NFT Collections
+  * More NFT Utility
+  * NFT-based Gamification: Complete tasks, level up etc. to earn NFTs
+  * NFT Market Phase 3 - open NFT platform
+* Done
+  * NFT Market Phase 2 - buy & sell whitelisted NFT collections
+  * Customizable User Profile
+  * NFT drops
+  * Pancake Squad generative NFT collection
+  * NFT Market Phase 1
+
+### Site Upgrades / CAKE / Other Products
+
+* Pending
+  * MasterChef v2: Ready for Future Products and New Tokenomics
+  * IFO 3.1: Private Sales & New IFO Syrup Pool
   * Personal dashboard
   * Portfolio
-* NFT Market Phase 3 - open NFT platform
+  * Overview pages for Earn, Win
+  * Ongoing emissions reductions
+  * Regular IFOs, Pools + Farms
+  * Referral System
+  * Hackathon
+* Done
+  * Mobile-first navigation & site overhaul
+  * Analytics
+  * Voting v2
+  * IFOs v2
+  * IFO CAKE Pool & IFO 3.0
 
-### Done
-
-#### Trade
-
-* Charts & other trading features on-site
-* Migration to Exchange V2 (exchange, liquidity, farms)
-* Major performance upgrades
-* Team Battle 1 & 2(Trading Comps as a Service)
-
-#### Earn
-
-* CAKE Staking
-* Core Pools, Farms
-* Community Pools: Host BSC community project Pools, support with 0.1-0.2x CAKE farms
-* Auto-compounding CAKE-CAKE Syrup Pool
-* Syrup Pool Boosts
-* APR/APY Calculator v2
-* Harvest all function
-
-#### Win
-
-* Lottery v2
-* Prediction v0.2
-
-#### NFT Ecosystem
-
-* NFT Market Phase 1 & 2(buy & sell whitelisted NFT collections)
-* Customizable User Profile
-* NFT drops
-* Pancake Squad generative NFT collection
-
-#### Site Upgrades / CAKE / Other Products
-
-* Mobile-first navigation & site overhaul
-* Analytics: Info site
-* Voting v2
-* IFO CAKE Pool & IFO 3.0
-
+## \*\*\*\*
