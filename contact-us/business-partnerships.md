@@ -10,14 +10,14 @@ Syrup Pools are a way of distributing your tokens to BSC users who stake CAKE in
 
 These two products go hand-in-paw on PancakeSwap: when a project provides their tokens for a Syrup Pool, we'll also create a Farm. If you're looking to distribute tokens and incentivize liquidity, get in touch.
 
-[Apply to run a Farm or Syrup Pool](https://docs.google.com/forms/d/e/1FAIpQLSfQNsAfh98SAfcqJKR3is2hdvMRdnvfd2F3Hql96vXHgIi3Bw/viewform)
+**​**[**Apply to run a Farm or Syrup Pool**](https://docs.google.com/forms/d/e/1FAIpQLSfQNsAfh98SAfcqJKR3is2hdvMRdnvfd2F3Hql96vXHgIi3Bw/viewform)**​**
 
-* Please don't email us to apply - we only respond to applications via the application form.
+* Please don't email us to apply - we only respond to applications via the application form.&#x20;
 * Please don't chase us for a response on your application. We have a constant backlog of quality projects reaching out to us.
 
 ### How long will it take to get a response?
 
-We aim to respond to applications within a week, but due to the large number of requests, we’re unable to respond to every single applicant. If you don’t hear back from us within **two weeks** of applying, try reaching out to [t.me/ChefTaro](https://t.me/ChefTaro) or [t.me/chef\_misty](https://t.me/Chef\_Misty) on Telegram, with **the name of your project, your token ticker, and the date you applied**.
+We aim to respond to applications within a week, but due to a large number of requests, we’re unable to respond to every single applicant. If you don’t hear back from us within two weeks of applying, try reaching out to[ t.me/ChefTaro](https://t.me/ChefTaro) on Telegram, with **the name of your project, your token ticker, and the date you applied.**
 
 ### What’s the difference between a Core Farm VS Farm Auction
 
@@ -29,25 +29,25 @@ Qualifying criteria for Community Farms and Core Farms/Pools are based on our in
 
 ### Can I get a larger Farm multiplier? Or can I extend my Syrup Pool and Farm?
 
-If you’ve already got an ongoing Pool and Farm, you may be able to extend the timeline via a Boost Pool. If you wish to increase the multiplier, the team will consider it if 30-day volume is increased. Contact us via your existing PancakeSwap communication channels for enquiries.
+If you’ve already got an ongoing Pool and Farm, you may be able to extend the timeline via a Boost Pool. If you wish to increase the multiplier, the team will consider it if the 30-day volume is increased. Contact us via your existing PancakeSwap communication channels for enquiries.
 
 ## IFOs (Token Sales)
 
-"IFO" (Initial Farm Offering) is a new model of token sale pioneered by PancakeSwap. Here's how it works, in short:
+"IFO" (Initial Farm Offering) is a new model of token sale pioneered by PancakeSwap. Here's how it works, in short:&#x20;
 
-* Users buy your token with CAKE-BNB LP tokens
-* After the sale, we distribute the BNB to you and burn the CAKE.
+* Users buy your token with CAKE tokens.
+* After the sale, we distribute the CAKE to you.
 
-Learn more about [how IFOs work](https://medium.com/pancakeswap/initial-farm-offering-ifo-2-0-7bfbb1ae0e8).
+Learn more about [how IFOs work.](https://medium.com/pancakeswap/initial-farm-offering-ifo-3-0-ifo-staking-pool-622d8bd356f1)
 
 [Apply to run an IFO](https://docs.google.com/forms/d/e/1FAIpQLSf0Vmy3k0KyXtXwqxr8QLjD8Xd6KBAmkYxcBRRVTUYJVX17fA/viewform)
 
-* Please don't email us to apply - we only respond to applications via the application form.
+* Please don't email us to apply - we only respond to applications via the application form.&#x20;
 * Please don't chase us for a response on your application. We have a constant backlog of quality projects reaching out to us.
 
 ### How long will it take to get a response?
 
-We aim to respond to applications within a week, but due to the large number of requests, we’re unable to respond to every single applicant. If you don’t hear back from us within **two weeks** of applying, try reaching out to[ t.me/ChefTaro](https://t.me/ChefTaro) or [t.me/chef\_misty](https://t.me/Chef\_Misty) on Telegram, with **the name of your project, your token ticker, and the date you applied**.
+We aim to respond to applications within a week, but due to a large number of requests, we’re unable to respond to every single applicant. If you don’t hear back from us within two weeks of applying, try reaching out to[ t.me/ChefTaro](https://t.me/ChefTaro) on Telegram, with **the name of your project, your token ticker, and the date you applied.**
 
 ## NFT Market <a href="#exchange" id="exchange"></a>
 
@@ -79,6 +79,6 @@ Check our [Troubleshooting page](../help/troubleshooting.md) for a list of commo
 
 ## Something else
 
-You can shoot us an email at pancakeswap@gmail.com if the above parts don't cover your questions.
+You can shoot us an email at info@pancakeswap.com if the above parts don't cover your questions.
 
 Please don't try to contact us via this email for [customer support](customer-support.md), that's not what it's for and we won't respond: your best option for getting help with the product is via the [Telegram or Reddit community](telegram.md).
