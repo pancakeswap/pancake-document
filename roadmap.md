@@ -8,20 +8,18 @@ description: '"Don''t call it a roadmap"'
 
 _Updated Jan. 21, 2022_
 
+### Finally, it's a roadmap not a to-do list.
 
+Crypto moves fast, and we move fast too.
 
-### This is not a roadmap: It’s a to-do list.
+Pivoting is a way of life.
 
-Crypto moves fast, and we move fast too.&#x20;
+That means that we don’t publicly commit to specific timelines, so we can organize our development priorities based on market changes and developer resources.
 
-Pivoting is a way of life.&#x20;
-
-That means that we don’t publicly commit to specific timelines, so we can organize our development priorities based on market changes and developer resources.&#x20;
-
-![](<.gitbook/assets/roadmap.png>)
+![](.gitbook/assets/roadmap.png)
 
 {% hint style="info" %}
-Some items didn't make it into the "Coming Up" section due to security or confidential reason.&#x20;
+Some items didn't make it into the "Coming Up" section due to security or confidential reason.
 {% endhint %}
 
 ### Trade
@@ -43,7 +41,7 @@ Some items didn't make it into the "Coming Up" section due to security or confid
 * Pending
   * Fixed-term Staking
   * Farm Auctions
-* Done&#x20;
+* Done
   * CAKE Staking
   * Core Pools
   * Community Pools: Host BSC community project Pools, support with 0.1-0.2x CAKE farms
@@ -95,4 +93,4 @@ Some items didn't make it into the "Coming Up" section due to security or confid
   * IFOs v2
   * IFO CAKE Pool & IFO 3.0
 
-## ****
+## \*\*\*\*
