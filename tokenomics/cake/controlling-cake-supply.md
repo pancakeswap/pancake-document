@@ -14,7 +14,7 @@ Community members often point to this as a cause for concern, and while the chef
 
 ## How CAKE supply is reduced without a hard cap
 
-The chefs aim to **makedeflation higher than emission** by building deflationary mechanisms into Pancakeswap's products**.** The goal is for more CAKE to leave circulation than the amount of CAKE that's produced.
+The chefs aim to **make deflation higher than emission** by building deflationary mechanisms into Pancakeswap's products**.** The goal is for more CAKE to leave circulation than the amount of CAKE that's produced.
 
 ### Reducing block emissions&#x20;
 
