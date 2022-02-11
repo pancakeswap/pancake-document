@@ -310,7 +310,7 @@ You can perform an “emergencyWithdraw” from the contract directly to unstake
 2. Go to [https://bscscan.com/](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract) and in the search bar, enter the contract address.
 3. Select **Write Contract.**
 4. Click **“Connect to Web3”** and connect your wallet.![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ\_VGjxJ03YPRuVQ1O5ME)
-5. In section **“4. emergencyWithdraw”,** enter "0" and click “Write”.
+5. In section **“3. emergencyWithdraw”,** and click “Write”.
 
 This will unstake your staked tokens and lose any uncollected yield.
 
@@ -414,11 +414,11 @@ You don't have enough BNB to pay for the transaction fees. You need more BEP-20 
 
 ### Error: \[ethjs-query]
 
-> Error: \[ethjs-query] while formatting outputs from RPC '{"value":{"code":-32603,"data":{"code":-32000,"message":"transaction underpriced"}}}"
+> Error: \[ethjs-query] while formatting outputs from RPC '{"value":{"code":-32603,"data":{"code":-32000,"message":"transaction underpriced"\}}}"
 
 Increase the gas limit for the transaction in your wallet. Check your wallet's documentation to learn how to increase gas limit.
 
-> Swap failed: Error: \[ethjs-query] while formatting outputs from RPC '{"value":{"code":-32603,"data":{"code":-32603,"message":"handle request error"}}}'
+> Swap failed: Error: \[ethjs-query] while formatting outputs from RPC '{"value":{"code":-32603,"data":{"code":-32603,"message":"handle request error"\}}}'
 
 Cause unclear. Try these steps before trying again:
 
