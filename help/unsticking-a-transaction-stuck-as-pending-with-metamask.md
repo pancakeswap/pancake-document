@@ -4,8 +4,6 @@ description: How to "unstick" any pending transactions that are stuck in your Me
 
 # Fixing Stuck Pending Transactions on MetaMask
 
-![](<../.gitbook/assets/docs masthead (12) (1).png>)
-
 If your transaction is stuck on pending in Metamask, and the “Cancel” button isn’t helping, you might need to use this method to clear your backlog.
 
 This method works by essentially overwriting the stuck transaction with another, higher-priority transaction.
@@ -14,21 +12,25 @@ This method works by essentially overwriting the stuck transaction with another,
 
 1\. Open your MetaMask plugin.
 
-![](https://lh6.googleusercontent.com/fYsgD0BKjYVjrbCpbEQgMyWG\_sW-4c2Ev7wu9bVzsOWtqIzCmYqiv6Xj8G\_FY2TK5uYul3XaOY2WflfcW1W56R2KCuyW-Y5RjHH9DZDgUmATLlnOnMPn371nniPZqaaD7KAgYgMc)
+![](../.gitbook/assets/1-1-MetaMask\_plugin.png)
+
+
 
 2\. Click on the colorful circle icon on the top-right and click **Settings** from the dropdown menu.
 
-![](https://lh3.googleusercontent.com/DpSeFrHsmPNXU73C3NB9iRANEe81rJ2XUhbxs6k7PqJSVy6IkAijeX\_TeIbUupalmD3mlE2G0C90XHJJy\_JPk-\_mswNRf4liUwR4AUhx2AWygp4yIP9kjHo1QQk\_60wEtjGkfwSk)
+![](<../.gitbook/assets/1-2-MetaMask\_settings (1).png>)
 
 3\. In the Settings menu, select **Advanced**.
 
-![](https://lh4.googleusercontent.com/F-o1qfi84wh6YNUP16b8lbyS6f8i04SYEUR2VrncMbBaoeaAjOw4Af\_oOwRUfWnhZn6NFb4O1uopoc1KNego8XelHmDDWeRRAb0oMJGE\_ZI\_xJJeqfH-bJrai0pakyxC-235E4nq)
+![](../.gitbook/assets/1-3-MetaMask\_advanced.png)
 
 4\. Scroll down until you see **Advanced gas controls**. Toggle this to ON.
 
-![](https://lh5.googleusercontent.com/ePraz\_2Z8k1V62DMROjv0jbIjEcf8ATvaH-Lxe5wtoNo6oVTyRPelC1m7UVaizcNpW5bHByrbC9xv1KDZfjNnXvQ8J0ukHUHK7vK4rX5gpQVHmfyJr81wCGdeArvksNhshon1Btn)
+![](<../.gitbook/assets/1-4-MetaMask\_gas\_control\_on (1).png>)
 
 5\. Still in Advanced settings, keep scrolling until you see **Customize transaction nonce**. Toggle this to ON.
+
+![](../.gitbook/assets/1-4-MetaMask\_gas\_control\_on.png)
 
 ### **2. Find Your Stuck Transaction**
 
