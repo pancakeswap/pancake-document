@@ -1,11 +1,5 @@
 # PancakeSwap Intro
 
-{% hint style="info" %}
-Whole docs site in under construction now.\
-**Please always refer English page**, not regional language pages as they may be oujt of sync.\
-\--- 25th Jan, Chef Nina 🦆
-{% endhint %}
-
 ![](<.gitbook/assets/masthead-twitter-3- (1).png>)
 
 {% hint style="success" %}
