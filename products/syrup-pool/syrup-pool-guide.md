@@ -16,7 +16,7 @@ It's simpler than farming with PancakeSwap's Yield Farms, because unlike the Far
 
 ![](<../../.gitbook/assets/image (18).png>)
 
-2\. Connect to your Binance Smart Chain-compatible wallet by clicking the **Connect** button (top right-hand side).
+2\. Connect to your BNB Smart Chain-compatible wallet by clicking the **Connect** button (top right-hand side).
 
 3\. Click **Unlock Wallet**.
 

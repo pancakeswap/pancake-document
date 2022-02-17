@@ -2,7 +2,7 @@
 
 ![](<../.gitbook/assets/docs masthead (10) (1).png>)
 
-The native tokens of Binance Smart Chain (BSC) are **BEP20**.
+The native tokens of BNB Smart Chain (BSC) are **BEP20**.
 
 To do most things on BSC, you will need to pay gas, which comes in the form of BEP20 BNB.
 

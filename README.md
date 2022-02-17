@@ -14,11 +14,11 @@
 
 ### The people's choice
 
-PancakeSwap is the leading decentralized exchange on Binance Smart Chain, with the highest trading volumes in the market (sources: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
+PancakeSwap is the leading decentralized exchange on BNB Smart Chain, with the highest trading volumes in the market (sources: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
 
 ### Low fees
 
-Why pay more? PancakeSwap runs on Binance Smart Chain, a blockchain with much lower transaction costs than Ethereum or Bitcoin. \
+Why pay more? PancakeSwap runs on BNB Smart Chain, a blockchain with much lower transaction costs than Ethereum or Bitcoin. \
 Trading fees are lower than other top decentralized exchanges too, so that's a double win for you!
 
 ### Decentralized

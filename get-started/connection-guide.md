@@ -71,7 +71,7 @@ To connect MetaMask to PancakeSwap follow the steps below.
 
 1. On the page that opens, type in the following details:
 
-**Network Name:** Binance Smart Chain\
+**Network Name:** BNB Smart Chain\
 **RPC Url:** [https://bsc-dataseed.binance.org](https://bsc-dataseed.binance.org)\
 **Chain ID:** 56\
 **Symbol:** BNB\
@@ -119,7 +119,7 @@ Token Pocket is a cryptocurrency management app that natively supports many cryp
 {% tab title="SafePal" %}
 ![](<../.gitbook/assets/image (37).png>)
 
-SafePal is available as both a software and hardware wallet. The wallet is easy to install and create, and comes ready to support BEP2 (Binance Chain) and BEP20 (Binance Smart Chain) right away.
+SafePal is available as both a software and hardware wallet. The wallet is easy to install and create, and comes ready to support BEP2 (Binance Chain) and BEP20 (BNB Smart Chain) right away.
 
 ## **Android and iOS**
 
@@ -155,7 +155,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 1. A window will open. Type in the details below.
 
-**Network Name:** Binance Smart Chain\
+**Network Name:** BNB Smart Chain\
 **New RPC URL:** [https://bsc-dataseed.binance.org](https://bsc-dataseed.binance.org)\
 **Chain ID:** 56\
 **Currency Symbol (optional):** BNB\
@@ -163,7 +163,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 ![](<../.gitbook/assets/image (85).png>)
 
-1. Make sure you've typed everything in correctly and click **Save**. Binance Smart Chain will now be one of your network options.
+1. Make sure you've typed everything in correctly and click **Save**. BNB Smart Chain will now be one of your network options.
 
 ![](<../.gitbook/assets/image (86).png>)
 
@@ -186,7 +186,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 ## Chrome and Firefox
 
-1. Open Binance Chain Wallet and click on the network selector at the top. The default network will be Binance Chain. Choose **Binance Smart Chain** from the list.
+1. Open Binance Chain Wallet and click on the network selector at the top. The default network will be Binance Chain. Choose **BNB Smart Chain** from the list.
 
 ![](<../.gitbook/assets/image (88).png>)
 
