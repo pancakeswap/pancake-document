@@ -2,7 +2,7 @@
 
 ![](<../.gitbook/assets/docs masthead (9).png>)
 
-To get started on PancakeSwap, the first thing you'll need is to set up a wallet that supports Binance Smart Chain (BSC). Wallets are available both on desktop computers and on smartphone devices. You'll need to choose the wallet that fits your needs best.
+To get started on PancakeSwap, the first thing you'll need is to set up a wallet that supports BNB Smart Chain (BSC). Wallets are available both on desktop computers and on smartphone devices. You'll need to choose the wallet that fits your needs best.
 
 {% hint style="danger" %}
 **When you're setting up a wallet, be sure to:**
@@ -37,7 +37,7 @@ This comparison table gives an overview of the most popular mobile wallets used 
 
 |                                                          | Trust Wallet                  | MetaMask | Token Pocket | SafePal |
 | -------------------------------------------------------- | ----------------------------- | -------- | ------------ | ------- |
-| Binance Smart Chain support                              | ✅                             | ⚠️       | ✅            | ✅       |
+| BNB Smart Chain support                              | ✅                             | ⚠️       | ✅            | ✅       |
 | Built-in DApp browser                                    | <p>✅ Android</p><p>⚠️ iOS</p> | ➖        | ✅            | ✅       |
 | Hardware wallet compatible                               | ➖                             | ✅        | ➖            | 🔶      |
 | Open source (auditability)                               | ✅                             | ✅        | ✅            | ➖       |
@@ -76,7 +76,7 @@ Trust Wallet is a popular wallet for smart devices. It supports DApps, NFT colle
 {% tab title="MetaMask" %}
 ![](<../.gitbook/assets/image (33) (3) (4) (5).png>)
 
-MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethereum network) and BEP2 & BEP20 (Binance Chain and Binance Smart Chain networks).
+MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethereum network) and BEP2 & BEP20 (Binance Chain and BNB Smart Chain networks).
 
 ​**Pros:**
 
@@ -92,7 +92,7 @@ MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethe
 **Cons:**
 
 * Longer setup time than other options &#x20;
-* Additional steps needed to use with Binance Smart Chain and PancakeSwap &#x20;
+* Additional steps needed to use with BNB Smart Chain and PancakeSwap &#x20;
 * Extra information and settings may confuse beginners
 
 [**Download MetaMask**](https://metamask.io/download.html) (Automatically detects device)\
@@ -133,7 +133,7 @@ If you do have an existing wallet to import, use the top option instead.
 
 ![](https://lh3.googleusercontent.com/FdtGOB7N7ZKROD0EIKy5roklxcqtYwq26lZ4RX\_8RxUdt-caGPAr03HNTdOtTqpD82hkBcX9umQI1VcL6n0jXky4uVy\_dFDr8pReadLE80AHXkvm4mbvZZN2vxnzeaUmHXATx3GC)
 
-1. On the next page, find **Binance Smart Chain** in the list and tap it.
+1. On the next page, find **BNB Smart Chain** in the list and tap it.
 
 ![](https://lh5.googleusercontent.com/TGpsjTq\_B1rLK-A8Cqzq9sC0IACpDZFCbpwN5\_GD4r8sCRmaqAdbswC-OmWAM7YiKATEaHTHviODFueMA6sCDSGlvNslYjGWQIrX5X8oR\_5pGPuMJ6X7\_Gz-rEoJwzmS9exEybbs)
 
@@ -145,7 +145,7 @@ If you do have an existing wallet to import, use the top option instead.
 
 And that’s it, all done!
 
-To connect to Binance Smart Chain and use PancakeSwap, you can follow the TokenPocket section of our Connect Your Wallet to PancakeSwap guide [https://docs.pancakeswap.finance/get-started/connection-guide](https://docs.pancakeswap.finance/get-started/connection-guide).
+To connect to BNB Smart Chain and use PancakeSwap, you can follow the TokenPocket section of our Connect Your Wallet to PancakeSwap guide [https://docs.pancakeswap.finance/get-started/connection-guide](https://docs.pancakeswap.finance/get-started/connection-guide).
 
 ### Getting private key from mobile to import to desktop
 
@@ -159,7 +159,7 @@ Please be extremely careful with how you handle your private keys. Giving your p
 
 ![](https://lh3.googleusercontent.com/\_DE3EO8bsI5wKZlkTeJv3zZ77LR8SVQYOwB4EXbY\_GhKzz4PSZpo3MdlvrU8sLoLyPcRQjdjOA24VPjAa\_UZdt-JaiRgPMk67uBs7JIi5gp9gV1\_wDB7fW7FQoFogTMZ\_EQJYxcQ)
 
-1. On the next page, tap the **Binance Smart Chain** entry. Be careful not to tap the address part, or you’ll only copy that to clipboard instead.
+1. On the next page, tap the **BNB Smart Chain** entry. Be careful not to tap the address part, or you’ll only copy that to clipboard instead.
 
 ![](https://lh4.googleusercontent.com/jLhXL03uhZHBKbHaPvy3ZrD1EmYCR8ECqwMxQIzTKnUtxMNntaDA8Dx4oVlXSadoFhhJqZACsYWVPfvITBEpWfkCfwntcQY3Fw5EYgGH-tmva8PZbvYbBRCy\_c5V7E1yQHvXiU0F)
 
@@ -177,7 +177,7 @@ Now you have your private key ready to import your wallet into the desktop versi
 {% tab title="SafePal" %}
 ![](<../.gitbook/assets/image (37).png>)
 
-SafePal is available as both a software and hardware wallet. The wallet is easy to install and create, and comes ready to support BEP2 (Binance Chain) and BEP20 (Binance Smart Chain) right away.
+SafePal is available as both a software and hardware wallet. The wallet is easy to install and create, and comes ready to support BEP2 (Binance Chain) and BEP20 (BNB Smart Chain) right away.
 
 **Pros:**
 
@@ -212,7 +212,7 @@ This comparison table gives an overview of the most popular desktop wallets used
 
 |                                                          | MetaMask | Binance Wallet | Token Pocket |
 | -------------------------------------------------------- | -------- | -------------- | ------------ |
-| Binance Smart Chain support                              | ⚠️       | ✅              | ⚠️           |
+| BNB Smart Chain support                              | ⚠️       | ✅              | ⚠️           |
 | Built-in DApp browser                                    | ➖        | ➖              | ✅            |
 | Hardware wallet compatible                               | ✅        | ✅              | ➖            |
 | Open source (auditability)                               | ✅        | ✅              | ✅            |
@@ -226,7 +226,7 @@ You can find more in-depth information about each wallet below, as well as downl
 {% tab title="MetaMask" %}
 ![](<../.gitbook/assets/image (33) (3) (4) (5) (4).png>)
 
-MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethereum network) by default, and BEP2 & BEP20 (Binance Chain and Binance Smart Chain networks) with a little work.
+MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethereum network) by default, and BEP2 & BEP20 (Binance Chain and BNB Smart Chain networks) with a little work.
 
 ​**Pros:**
 
@@ -241,7 +241,7 @@ MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethe
 **Cons:**
 
 * Longer setup time than other options &#x20;
-* Additional steps needed to use with Binance Smart Chain and PancakeSwap &#x20;
+* Additional steps needed to use with BNB Smart Chain and PancakeSwap &#x20;
 * Extra information and settings may confuse beginners
 
 [**Download MetaMask**](https://metamask.io/download.html) (Automatically detects browser)\
@@ -251,7 +251,7 @@ MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethe
 {% tab title="Binance Wallet" %}
 ![](<../.gitbook/assets/image (39).png>)
 
-Binance Wallet is a browser-plugin wallet that natively supports the Binance Chain (BEP2) Binance Smart Chain (BEP20) networks. Binance Wallet was developed by the Binance cryptocurrency exchange.
+Binance Wallet is a browser-plugin wallet that natively supports the Binance Chain (BEP2) BNB Smart Chain (BEP20) networks. Binance Wallet was developed by the Binance cryptocurrency exchange.
 
 ​**Pros:**
 
@@ -259,7 +259,7 @@ Binance Wallet is a browser-plugin wallet that natively supports the Binance Cha
 * Backed by the Binance cryptocurrency exchange &#x20;
 * Can be directly linked to a Binance or Gmail account &#x20;
 * A streamlined user experience &#x20;
-* Supports Binance Smart Chain by default, making using PancakeSwap easy &#x20;
+* Supports BNB Smart Chain by default, making using PancakeSwap easy &#x20;
 * Supports a large number of languages &#x20;
 * Hardware wallet compatible
 
@@ -341,7 +341,7 @@ Please be extremely careful with how you handle your private keys. Giving your p
 
 ![](https://lh5.googleusercontent.com/g\_iZzJZAPhsBQUBgQqTvLO1HfuGnCGZDkRD3DFu4g4GPat901700Qk3aBx8Fx5AzY2PH7JYajGM4-4fXm6icPWB-8R5wQQst-W3NWJ6n0Rh\_bbPKXnXrO4h\_JEgu7wtey11EuCN-)
 
-And that’s it, all done! You can follow our [Connect Your Wallet to PancakeSwap guide](https://docs.pancakeswap.finance/get-started/connection-guide) to connect to Binance Smart Chain and PancakeSwap.
+And that’s it, all done! You can follow our [Connect Your Wallet to PancakeSwap guide](https://docs.pancakeswap.finance/get-started/connection-guide) to connect to BNB Smart Chain and PancakeSwap.
 {% endtab %}
 {% endtabs %}
 

@@ -347,7 +347,7 @@ Install the official browser extension to connect, or read our guide on [how to 
 
 ### Unsupported Chain ID
 
-Switch your chain to Binance Smart Chain. Check your wallet's documentation for a guide if you need help.
+Switch your chain to BNB Smart Chain. Check your wallet's documentation for a guide if you need help.
 
 ### Issues buying SAFEMOON and similar tokens
 

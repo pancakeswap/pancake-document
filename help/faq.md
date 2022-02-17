@@ -45,7 +45,7 @@ We have a [Yield Farming guide](https://docs.pancakeswap.finance/products/yield-
 
 You can [view our to-do list here, but don't call it a roadmap](https://docs.pancakeswap.finance/roadmap).
 
-## How do I connect my wallet to Binance Smart Chain and PancakeSwap?
+## How do I connect my wallet to BNB Smart Chain and PancakeSwap?
 
 We have a [Connect Your Wallet to PancakeSwap guide](https://docs.pancakeswap.finance/get-started/connection-guide) covering this in detail.
 
@@ -87,7 +87,7 @@ Learn how to find smart contracts on our [Finding Contracts page](https://docs.p
 
 ## Why does it say I have no BNB balance?
 
-If you've already [transferred BNB into your Binance Smart Chain-enabled wallet](https://docs.pancakeswap.finance/get-started/bep20-guide) but still have this error, you're most likely not [connected to Binance Smart Chain](https://docs.pancakeswap.finance/get-started/connection-guide) within your wallet. Check your wallet's selected network and make sure you have Binance Smart Chain (BSC) selected.
+If you've already [transferred BNB into your BNB Smart Chain-enabled wallet](https://docs.pancakeswap.finance/get-started/bep20-guide) but still have this error, you're most likely not [connected to BNB Smart Chain](https://docs.pancakeswap.finance/get-started/connection-guide) within your wallet. Check your wallet's selected network and make sure you have BNB Smart Chain (BSC) selected.
 
 ## How do I vote?
 

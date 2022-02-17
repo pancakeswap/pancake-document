@@ -2,7 +2,7 @@
 
 ![](<../../.gitbook/assets/docs masthead (19).png>)
 
-PancakeSwap is an Automated Market Maker (AMM), and the Exchange is at the heart of PancakeSwap. PancakeSwap is the leading AMM on the Binance Smart Chain, and as statistics tell, the most popular Decentralized Exchange (DEX) ever!
+PancakeSwap is an Automated Market Maker (AMM), and the Exchange is at the heart of PancakeSwap. PancakeSwap is the leading AMM on the BNB Smart Chain, and as statistics tell, the most popular Decentralized Exchange (DEX) ever!
 
 The PancakeSwap Exchange offers several features that support decentralized trading:
 
