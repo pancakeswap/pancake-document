@@ -16,13 +16,13 @@ The Lottery has changed a little since its first iteration. Lottery v2 lets you 
 
 ‌1. Visit the[ PancakeSwap Lottery page](https://pancakeswap.finance/lottery) and look at the top of the page. You'll see the current round's prize pool shown in (estimated) US dollar value.
 
-![](https://lh5.googleusercontent.com/xjHyOYGhIW7tylzt7ZoqogZ4jlK1QfUX3kgxa\_yqpQwVcr48abh3jErRc1fjF4HJISl-Kqzoa4XY1sB\_8kpOwEWIIXUJ15PIpKdrULJSzwR9L7ANpvyABtWRk7Z9jm\_GzW3KXqo8)
+![](<../../.gitbook/assets/image (93).png>)
 
 This is the amount to be shared between all winners.
 
 ‌2. A little lower down the page you'll find the remaining time before the current round is drawn.
 
-![](https://lh3.googleusercontent.com/OHYLboNuQg97z1yhxOmMiIh4SDzpXbo0orf4ryNtdKGPd5eFYTunMC1p4KXuSNaiEUmNqzs0IfKBJUqptd5YeAMwwDRIwPNOJwXD\_Y1ILEP801Q618GY3xZv22blxGr7WPkmgpbZ)
+![](<../../.gitbook/assets/image (94).png>)
 
 Remember, a lot can change in the remaining time. Many more tickets may be sold. Each sold ticket both increases the prize pool, and lowers the odds of an individual ticket winning.
 
@@ -42,11 +42,11 @@ You can choose to either randomize your lottery ticket numbers, or to choose you
 
 1\. On the[ PancakeSwap Lottery page](https://pancakeswap.finance/lottery), click the **Buy Tickets** button at the top of the page (there's another lower on the page also).
 
-![](https://lh5.googleusercontent.com/uzvN8ZK78KrrnUo1lZsTpB-RG\_WKi5R2U3ZXtmO5od1jx02mEaxaL2uEN2mSylkrbsQLDpAHdzrib4cxtO8OUsifCHgXxRUi7dSeksWY725YOnPJ9eQlkS85bNYoWIsl6PUmCSTc)
+![](<../../.gitbook/assets/image (96).png>)
 
 There is a time between rounds where purchasing tickets isn't possible. Just check back after the countdown if that's the case.
 
-![](https://lh3.googleusercontent.com/JMN04H2T-oTc0FiC3L5ZMa7Xtfb0xtk58JsJ3CvQyJ8MKI6BNS5iJOCTubfO5KApRuMB\_6Un97SQmFRujLJhDNOWT97y4\_m3dzkRLD4ovcoNuaBqGhAwKhN\_cTOgcEFpYPhG4c\_j)
+![](<../../.gitbook/assets/image (97).png>)
 
 2\. A window will open letting you choose how many ticket to buy. Type how many tickets you'd like to buy into the field. You can also use the preset buttons underneath.
 
@@ -66,11 +66,11 @@ The discount starts at 2 tickets, and scales all the way to 100 tickets where yo
 
 1\. On the[ PancakeSwap Lottery page](https://pancakeswap.finance/lottery), click the **Buy Tickets** button at the top of the page (there's another lower on the page also).
 
-![](https://lh5.googleusercontent.com/I1KdHOidk7L4XS\_-UTKmJaRYqFwR35gATRLS8BtBcxuwermUHuWD7hSgOgVjze21pr2Ow-KrvcpUacoh3t3\_LR3kQMT8-JxSBbfJ0K66v7qhCzBo53uK9tXexkN5MKksGoQ\_308N)
+![](<../../.gitbook/assets/image (96).png>)
 
 There is a time between rounds where purchasing tickets isn't possible. Just check back after the countdown if that's the case.
 
-![](https://lh6.googleusercontent.com/UwGdWEMdShE5\_MfQCn6k8zmuXFIOSNPiihIEPMJzXbZpKRl5yk-deuSDydyo00Z67G0zFhxq\_pVnItoLZCKbJTpD8RjTVbDzZZc-NiTc1isn5IAGZTBcXIRl8VyMzG\_xNZBE5csi)
+![](<../../.gitbook/assets/image (97).png>)
 
 2\. A window will open letting you choose how many ticket to buy. Type how many tickets you'd like to buy into the field. You can also use the preset buttons underneath.
 
@@ -92,7 +92,7 @@ You can randomize your numbers again by clicking **Randomize**, or go back if yo
 
 You'll get a warning if you create duplicate tickets. It's possible your duplicate tickets will win. In this case your tickets will share in the prize pool for their bracket.
 
-![](https://lh3.googleusercontent.com/jqaMYUJQWpMIkzonsVvIpz\_lUBzLYDSMxFZftLqdxqrzPzcwnpZio-XMw7LFCpOPOgq-tZX8yD5WfW\_TATvH1jX0ZTh9WwNm75vezhfpiH5ljXTphkJgg344KdAE0JplkXw-oqjN)
+![](<../../.gitbook/assets/image (103).png>)
 
 6\. When you're happy with your numbers, click the **Confirm and buy** button.
 
@@ -108,11 +108,11 @@ You can view your tickets after buying them before the round's numbers are drawn
 
 1\. Click **View Your Tickets** in the "Next Draw" area of the Lottery page.
 
-![](https://lh4.googleusercontent.com/GSUujMwjqv5c\_0UeeVrWmBnyeTiBVfhSiiQd8NZie8tpCC\_65c7mGPJfS0O\_q72MstJUGeOZ7VWnrGIytwRHowcCGi6Cdgj5flwg06GODRs8Or\_3R-rZB1pKcP1pudwtjJBJJBDO)
+![](<../../.gitbook/assets/image (108).png>)
 
 2\. A window will open showing all of your tickets and their numbers. It'll also give you the option to buy more tickets if you'd like.
 
-![](https://lh3.googleusercontent.com/RSA-gQ7e8yY1t8xN8bELLaMaoBZLtSAS8ybDdeiG6Wzv1fbr9SqKheQD3S5kxYFlD9rnZX9dpzXjYTDy-rnsXkuNtrU46msafxAfdsHgsCdPxjOxBtTJN3cCNF6NWYp0Mwdk4SXR)
+![](<../../.gitbook/assets/image (109).png>)
 
 ## When the round ends and winning numbers are drawn
 
