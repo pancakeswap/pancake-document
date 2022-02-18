@@ -16,8 +16,9 @@
   * [NFT Market Applications](contact-us/nft-market-applications.md)
   * [Customer Support](contact-us/customer-support.md)
   * [Social Accounts & Communities](contact-us/telegram.md)
-* [Brand & Logos](brand.md)
+* [The kitchen team](the-kitchen-team.md)
 * [Roadmap](roadmap.md)
+* [Brand & Logos](brand.md)
 
 ## Products
 
