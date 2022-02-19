@@ -78,6 +78,7 @@
 ## Hiring
 
 * [Become a Chef](hiring/become-a-chef/README.md)
+  * [DevOps Engineer](hiring/become-a-chef/devops-engineer.md)
   * [Social Media Marketing Manager](hiring/become-a-chef/social-media-marketing-manager.md)
   * [Product Lead](hiring/become-a-chef/product-lead.md)
   * [Frontend Engineer](hiring/become-a-chef/frontend-engineer.md)
