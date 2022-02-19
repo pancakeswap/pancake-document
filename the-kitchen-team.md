@@ -1,4 +1,4 @@
-# The kitchen team
+# The Kitchen Team
 
 You can jump to the kitchen interviews article by clicking chef's name.
 
@@ -8,7 +8,7 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Cadbury - Project Manager
 
-🐰 Chef Bun - Project Manager ([Twitter](https://twitter.com/chef\_bun\_cn))
+🐰 Chef Bun - Project Manager ([Twitter](http://twitter.com/chef\_bun\_pcs))
 
 🐰 Chef Taro - Business Dev
 
