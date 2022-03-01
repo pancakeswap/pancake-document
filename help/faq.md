@@ -8,15 +8,15 @@ This FAQ page answers some of the more commonly asked questions from the Pancake
 
 See for yourself:
 
-* Check out these PancakeSwap security audits:&#x20;
+* Check out these PancakeSwap security audits:
   * [Certik’s security audit of PancakeSwap](https://www.certik.org/projects/pancakeswap) and [Certik's Shield insurance](https://shield.certik.foundation)
   * [Slowmist's security audit of PancakeSwap](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20%20-%20PancakeSwap.pdf)
   * [Slowmist's Auto-CAKE Pool security audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20CakeVault.pdf)
   * [Peckshield's Lottery V2 Audit](https://github.com/peckshield/publications/blob/master/audit\_reports/PeckShield-Audit-Report-PancakeswapLottery-v1.0.pdf)
   * [Slowmist's Lottery V2 Audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20PancakeSwap%20Lottery.pdf)
 * Transparent:
-  * We’re built on open-source software: our site and all our Smart Contracts are publicly visible for maximum transparency.&#x20;
-  * Our contracts are verified on BscScan so you know that what you see is what you get: [1](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E) [2](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#code) [3](https://bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812) [4](https://bscscan.com/address/0x1b96b92314c44b159149f7e0303511fb2fc4774f#code) [5](https://bscscan.com/address/0x92E8CeB7eAeD69fB6E4d9dA43F605D2610214E68)&#x20;
+  * We’re built on open-source software: our site and all our Smart Contracts are publicly visible for maximum transparency.
+  * Our contracts are verified on BscScan so you know that what you see is what you get: [1](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E) [2](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#code) [3](https://bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812) [4](https://bscscan.com/address/0x1b96b92314c44b159149f7e0303511fb2fc4774f#code) [5](https://bscscan.com/address/0x92E8CeB7eAeD69fB6E4d9dA43F605D2610214E68)
 * Security best practices:
   * The chefs use multisig for all contracts.
   * Our contracts’ time-lock gives you peace of mind.
@@ -83,7 +83,7 @@ Learn about our [bug bounty and potential bounty payouts](https://docs.pancakesw
 
 ## Where can I view smart contracts?
 
-Learn how to find smart contracts on our [Finding Contracts page](https://docs.pancakeswap.finance/code/smart-contracts/finding-contracts).
+Learn how to find smart contracts on our [Finding Contracts page](https://docs.pancakeswap.finance/code/smart-contracts).
 
 ## Why does it say I have no BNB balance?
 
@@ -128,4 +128,3 @@ SYRUP was a part of the staking process earlier in PancakeSwap's life. SYRUP was
 ## I can't find an answer for my question. Where do I find an answer?
 
 If you can't find what you're looking for in PancakeSwap's documentation, ask your question on [PancakeSwap's official social media platforms](https://docs.pancakeswap.finance/contact-us/telegram) and someone will do their best to help you out.
-
