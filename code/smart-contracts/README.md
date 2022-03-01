@@ -11,8 +11,9 @@ The following links will take you to the BscScan page for PancakeSwap's main sma
 * [PancakeSwap: Router v2](https://bscscan.com/address/0x10ed43c718714eb63d5aa57b78b54704e256024e)
 * [PancakeSwap: Lottery v2](https://bscscan.com/address/0x5aF6D33DE2ccEC94efb1bDF8f92Bd58085432d2c)
 * [PancakeSwap: Prediction v2](https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda)
+* [PancakeSwap: NFT Market v1](https://bscscan.com/address/0x17539cca21c7933df5c980172d22659b8c345c5a)
 * Others:
-  * [Farms Contracts](./#farms-contracts)&#x20;
+  * [Farms Contracts](./#farms-contracts)
   * [IFO Contracts](./#ifo-contracts)
 
 ## Farms contracts
