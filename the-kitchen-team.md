@@ -48,9 +48,4 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 [Chef Fran](https://medium.com/pancakeswap/kitchen-interview-chef-fran-spanish-community-manager-and-a-lovely-mate-368c72102093) - Spanish Community Manager ([Twitter](https://twitter.com/ChefFranPS))
 
-🦆 Chef Nina - Duck ([Twitter](https://twitter.com/\_ninahaus\_EN))
-
-
-
-
-
+🦆 [Chef Nina](https://medium.com/pancakeswap/kitchen-interviews-chef-nina-the-duck-d385ae875b50) - Duck ([Twitter](https://twitter.com/\_ninahaus\_EN))
