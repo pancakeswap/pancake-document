@@ -23,8 +23,7 @@ Please note: the order history table gets the data from Subgraph and can show sl
 
 ### Can I submit a limit order for tokens with fee on transfer?
 
-**No.** The tokens with a fee on transfer should not be used with limit order.\
-Proceed at your own risk.
+**No.** The tokens with a fee on transfer should not be used with limit orders. Proceed at your own risk.
 
 ### How do I set slippage while using limit orders?
 
@@ -34,11 +33,11 @@ Slippage is not relevant in limit orders. You specify input amount (e.g. 1000 CA
 
 It basically means that you're trying to swap a very small amount of tokens therefore there are not enough tokens to be accounted for the gas fee. In general, you need to increase the amount of the "input" field to get rid of this error.&#x20;
 
-### Is there an expiration date for my limit order?
+### Is there an expiration date for my limit orders?
 
 Open orders will remain open indefinitely until they get executed or being cancelled by users. A customizable expiration date feature is planned for the near future.
 
-### Why can’t I create a limit order below the market price?
+### Why can’t I create limit orders below the market price?
 
 To sell below market price, you need **Stop Limit Orders**, not limit orders. Stop Limit Orders feature is coming soon.
 
