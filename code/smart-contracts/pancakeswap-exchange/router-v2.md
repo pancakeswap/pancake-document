@@ -298,7 +298,7 @@ function swapExactETHForTokens(uint amountOutMin, address[] calldata path, addre
   returns (uint[] memory amounts);
 ```
 
-Receive an as many output tokens as possible for an exact amount of BNB.
+Receive as many output tokens as possible for an exact amount of BNB.
 
 | Name                  | Type      |                                                                                                                                      |
 | --------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------ |
