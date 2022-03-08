@@ -30,7 +30,7 @@ Remember, a lot can change in the remaining time. Many more tickets may be sold.
 
 ## Buying Lottery tickets
 
-‌Buying tickets is easy.&#x20;
+‌Buying tickets is easy.
 
 You just need a little CAKE though: each ticket costs approximately $5 USD (the exact CAKE price is set at the start of the round).
 
@@ -38,7 +38,7 @@ You can choose to either randomize your lottery ticket numbers, or to choose you
 
 {% tabs %}
 {% tab title="Randomized ticket numbers" %}
-### Randomized ticket numbers
+#### Randomized ticket numbers
 
 1\. On the[ PancakeSwap Lottery page](https://pancakeswap.finance/lottery), click the **Buy Tickets** button at the top of the page (there's another lower on the page also).
 
@@ -62,7 +62,7 @@ The discount starts at 2 tickets, and scales all the way to 100 tickets where yo
 {% endtab %}
 
 {% tab title="Manual ticket numbers" %}
-### Manual ticket numbers
+#### Manual ticket numbers
 
 1\. On the[ PancakeSwap Lottery page](https://pancakeswap.finance/lottery), click the **Buy Tickets** button at the top of the page (there's another lower on the page also).
 
@@ -126,4 +126,4 @@ You can view your tickets after buying them before the round's numbers are drawn
 
 ![](https://lh3.googleusercontent.com/p3QxWcrxCcBwHrhwPU55vnAN-BmelgNwKRWse8yEQQVfehXsIOvUX\_tCo1gC7LpHxL-crIMS19RxpnMxn5yBuShNwXfH7qzCSdCOtnBeXhUuecrqRvhdI97rX\_CuVuWAawaor6Mi)
 
-2\. A window will open showing the winning numbers and all of your tickets and their numbers.\
+2\. A window will open showing the winning numbers and all of your tickets and their numbers.\\
