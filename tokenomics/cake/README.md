@@ -1,9 +1,9 @@
 # CAKE
 
-![](<../../.gitbook/assets/docs masthead (17) (1).png>)
+![](<../../.gitbook/assets/docs-masthead-17- (1).png>)
 
 * **Ticker:** CAKE
-* **Contract Address:** [https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82)&#x20;
+* **Contract Address:** [https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82)
 * **Chain:** BNB Smart Chain (BEP20)
 
 ## The basics
@@ -33,6 +33,4 @@ Check below to discover the nuts and bolts of how CAKE works.
 [controlling-cake-supply.md](controlling-cake-supply.md)
 {% endcontent-ref %}
 
-
-
-### ****
+### \*\*\*\*

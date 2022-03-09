@@ -79,6 +79,6 @@ When people buy tickets, the CAKE they spend is added to the lottery pot. In add
 
 This injection schedule started with round 84:
 
-![Lottery injection schedule](<../../.gitbook/assets/injection schedule.png>)
+![Lottery injection schedule](../../.gitbook/assets/injection-schedule.png)
 
 The cycle restarts with a new 20,000 CAKE as soon as it finishes.

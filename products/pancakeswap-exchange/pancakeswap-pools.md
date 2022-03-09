@@ -1,6 +1,6 @@
 # Liquidity Pools
 
-![](<../../.gitbook/assets/docs masthead (4).png>)
+![](<../../.gitbook/assets/docs-masthead-4- (1).png>)
 
 When you add your token to a Liquidity Pool you will receive Liquidity Provider (LP) tokens and share in the fees.
 
@@ -12,7 +12,7 @@ The number of LP tokens you receive represents your portion of the CAKE-BNB Liqu
 
 You can also redeem your funds at any time by removing your liquidity.
 
-![](<../../.gitbook/assets/Screenshot 2021-04-19 at 6.27.22 PM.png>)
+![](../../.gitbook/assets/screenshot-2021-04-19-at-6.27.22-pm.png)
 
 ## Liquidity Providers earn trading fees
 

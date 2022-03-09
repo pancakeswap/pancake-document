@@ -1,6 +1,6 @@
 # 🚜 Yield Farming
 
-![](<../../.gitbook/assets/docs masthead (1) (2).png>)
+![](<../../.gitbook/assets/docs-masthead-1- (2).png>)
 
 Yield Farms allow users to earn CAKE while supporting PancakeSwap by staking LP Tokens.
 
@@ -23,7 +23,7 @@ Yield Farm APR calculations include both:
 
 Why? Because when you stake your LP tokens in a farm to earn CAKE, you're still providing liquidity to the liquidity pool, so you earn LP rewards as well!
 
-![](<../../.gitbook/assets/Frame 1 (2).png>)
+![](<../../.gitbook/assets/Frame 1 (3).png>)
 
 So how do we calculate those figures?
 

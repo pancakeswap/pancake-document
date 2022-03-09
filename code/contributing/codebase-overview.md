@@ -4,7 +4,7 @@ description: Find your way on Pancake Github
 
 # Codebase Overview
 
-![](<../../.gitbook/assets/docs masthead (18) (1).png>)
+![](<../../.gitbook/assets/docs-masthead-18- (1).png>)
 
 ## Introduction
 
@@ -18,6 +18,6 @@ All our repositories are stored on [Github](https://github.com/pancakeswap). Mos
 
 | Project  | Github                                                                                                   | Website                                     | Stack                                                                                   |
 | -------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------- | --------------------------------------------------------------------------------------- |
-| Toolkit  | [![](../../.gitbook/assets/GitHub-Mark-120px-plus.png)](https://github.com/pancakeswap/pancake-toolkit)  | [🔗](https://pancakeswap-uikit.netlify.app) | ![](../../.gitbook/assets/download.svg)![](../../.gitbook/assets/ts-logo-round-128.svg) |
-| Frontend | [![](../../.gitbook/assets/GitHub-Mark-120px-plus.png)](https://github.com/pancakeswap/pancake-frontend) | [🔗](https://pancakeswap.finance)           | ![](../../.gitbook/assets/download.svg)![](../../.gitbook/assets/ts-logo-round-128.svg) |
-| Voting   | [![](../../.gitbook/assets/GitHub-Mark-120px-plus.png)](https://github.com/pancakeswap/snapshot-front)   | [🔗](https://voting.pancakeswap.finance)    | ![](../../.gitbook/assets/logo.png) ![](../../.gitbook/assets/ts-logo-round-128.svg)    |
+| Toolkit  | [![](../../.gitbook/assets/github-mark-120px-plus.png)](https://github.com/pancakeswap/pancake-toolkit)  | [🔗](https://pancakeswap-uikit.netlify.app) | ![](../../.gitbook/assets/download.svg)![](../../.gitbook/assets/ts-logo-round-128.svg) |
+| Frontend | [![](../../.gitbook/assets/github-mark-120px-plus.png)](https://github.com/pancakeswap/pancake-frontend) | [🔗](https://pancakeswap.finance)           | ![](../../.gitbook/assets/download.svg)![](../../.gitbook/assets/ts-logo-round-128.svg) |
+| Voting   | [![](../../.gitbook/assets/github-mark-120px-plus.png)](https://github.com/pancakeswap/snapshot-front)   | [🔗](https://voting.pancakeswap.finance)    | ![](../../.gitbook/assets/logo.png) ![](../../.gitbook/assets/ts-logo-round-128.svg)    |

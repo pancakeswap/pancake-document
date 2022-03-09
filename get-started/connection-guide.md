@@ -1,6 +1,6 @@
 # Connect Your Wallet to PancakeSwap
 
-![](<../.gitbook/assets/docs masthead (11) (1).png>)
+![](<../.gitbook/assets/docs-masthead-11- (1).png>)
 
 You've made a wallet and gotten your BEP20 tokens, now you just need to connect your wallet with PancakeSwap and you're good to go!
 
@@ -47,7 +47,7 @@ Read the [Trust Wallet guide to connecting to PancakeSwap via WalletConnect](htt
 {% endtab %}
 
 {% tab title="MetaMask" %}
-![](<../.gitbook/assets/image (33) (3) (4) (5).png>)
+![](<../.gitbook/assets/image (33) (3) (4) (5) (1).png>)
 
 To connect MetaMask to PancakeSwap follow the steps below.
 
@@ -93,7 +93,7 @@ To connect MetaMask to PancakeSwap follow the steps below.
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](<../.gitbook/assets/image (125) (3) (4) (3).png>)
+![](<../.gitbook/assets/image (125) (3) (4) (1) (3).png>)
 
 Token Pocket is a cryptocurrency management app that natively supports many cryptocurrency networks. It also has a desktop application available.
 
@@ -117,7 +117,7 @@ Token Pocket is a cryptocurrency management app that natively supports many cryp
 {% endtab %}
 
 {% tab title="SafePal" %}
-![](<../.gitbook/assets/image (37).png>)
+![](<../.gitbook/assets/image (26) (1).png>)
 
 SafePal is available as both a software and hardware wallet. The wallet is easy to install and create, and comes ready to support BEP2 (Binance Chain) and BEP20 (BNB Smart Chain) right away.
 
@@ -145,7 +145,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 {% tabs %}
 {% tab title="MetaMask" %}
-![](<../.gitbook/assets/image (33) (3) (4) (5) (4).png>)
+![](<../.gitbook/assets/image (33) (3) (4) (5) (1) (4).png>)
 
 ### Chrome and Firefox
 
@@ -169,7 +169,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 1. Visit the [PancakeSwap website](https://pancakeswap.finance). In the top right corner you'll see the **Connect** button. Click it.
 
-![](<../.gitbook/assets/image (164) (3) (3) (2).png>)
+![](<../.gitbook/assets/image (164) (3) (3) (1) (2).png>)
 
 1. A window will appear asking you to choose a wallet to connect to. Click **MetaMask** (it's the top option on the list).
 
@@ -192,7 +192,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 1. Visit the PancakeSwap website. In the top-right, click **Connect**.
 
-![](<../.gitbook/assets/image (164) (3) (3) (1).png>)
+![](<../.gitbook/assets/image (164) (3) (3) (2).png>)
 
 1. A window will appear asking you to choose a wallet to connect to. Click **Binance Chain Wallet** (it's farther down the list).
 
@@ -205,7 +205,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](<../.gitbook/assets/image (125) (3) (4) (2).png>)
+![](<../.gitbook/assets/image (125) (3) (4) (1) (2).png>)
 
 ### Desktop Application
 

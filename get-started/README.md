@@ -1,6 +1,6 @@
 # Get Started
 
-![](<../.gitbook/assets/docs masthead (15).png>)
+![](<../.gitbook/assets/docs-masthead-15- (1).png>)
 
 Using anything new can be a bit of a challenge. Don't worry though, we've created a range of guides to help you get comfortable with PancakeSwap!
 

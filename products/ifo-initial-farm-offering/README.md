@@ -1,14 +1,14 @@
 # 🛍 IFO (Initial Farm Offering)
 
-![](<../../.gitbook/assets/docs masthead (6).png>)
+![](<../../.gitbook/assets/docs-masthead-6- (1).png>)
 
-Buy new tokens using CAKE.&#x20;
+Buy new tokens using CAKE.
 
 The project gets the CAKE, PancakeSwap burns the participation fees CAKE. **You get the tokens.**
 
 1. **You will need CAKE** to participate.
 
-Learn [how to find IFO smart contracts](broken-reference)
+Learn [how to find IFO smart contracts](broken-reference/)
 
 ## **How to participate in an IFO**
 
@@ -46,4 +46,4 @@ The sale will proceed as normal, and all funds contributed will be spent.
 
 Launch your project with PancakeSwap, BNB Smart Chain’s most-used AMM project and liquidity provider, to bring your token directly to the most active and rapidly growing community on BSC.
 
-****[Apply to launch](https://docs.google.com/forms/d/e/1FAIpQLScGdT5rrVMr4WOWr08pvcroSeuIOtEJf1sVdQGVdcAOqryigQ/viewform)
+\*\*\*\*[Apply to launch](https://docs.google.com/forms/d/e/1FAIpQLScGdT5rrVMr4WOWr08pvcroSeuIOtEJf1sVdQGVdcAOqryigQ/viewform)

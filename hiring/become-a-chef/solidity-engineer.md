@@ -2,14 +2,14 @@
 
 ### **General Information**
 
-* **Salary range:** $120k - $250k+ US Annual salary
+* **Salary range:** Competitive, negotiable
 * **Position:** Full-time
 * **Location:** Remote
-* **Time-zone preference: **Any
+* **Time-zone preference:** Any
 
 ### Your Responsibilities
 
-* Build smart contracts in Solidity for the Ethereum blockchain
+* Build smart contracts in Solidity for the Ethereum / BSC blockchain
 * Design, scope, and estimate complex contract based on requirements given
 * Envision and develop features to help grow PancakeSwap
 * Enthusiastically collaborate with a small team to plan projects at the task level
@@ -19,7 +19,6 @@
 ### Skills & Qualifications
 
 * 5+ years of industry experience in software engineering
-* Bachelor’s and/or Master’s degree in CS or equivalent experience
 * Understands and applies Solidity patterns to solve common problems
 * Understands gas optimization the tradeoff between efficient code and readable code
 * Knows how to write migrations and deploy code to EVM-compatible networks
