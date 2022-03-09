@@ -45,7 +45,7 @@ Newly launched on 24th Nov! The below is the only link for our discord server!
 * 🇩🇪 🇦🇹 🇨🇭 Deutsch ([https://t.me/PancakeSwap\_DE](https://t.me/PancakeSwap\_DE))
 * 🇵🇭 Filipino ([https://t.me/Pancakeswap\_Ph](https://t.me/Pancakeswap\_Ph))
 * 🇬🇪 Georgia ([https://t.me/PancakeSwapGeorgia](https://t.me/PancakeSwapGeorgia))
-* 😤 Ban Appeal ([https://t.me/joinchat/C\_9mwknNuKq-cfXQ4-HMHA](https://t.me/joinchat/C\_9mwknNuKq-cfXQ4-HMHA))
+* 😤 Ban Appeal ([https://t.me/pancakebanappeal](https://t.me/pancakebanappeal))
 
 {% hint style="danger" %}
 Admins will NEVER send you a direct message. If anybody approaches you directly on e.g. Telegram pretending to represent customer support, please block them and report spam.
