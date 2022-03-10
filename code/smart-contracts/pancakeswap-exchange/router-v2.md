@@ -298,7 +298,7 @@ function swapExactETHForTokens(uint amountOutMin, address[] calldata path, addre
   returns (uint[] memory amounts);
 ```
 
-Receive an as many output tokens as possible for an exact amount of BNB.
+Receive as many output tokens as possible for an exact amount of BNB.
 
 | Name                  | Type      |                                                                                                                                      |
 | --------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -319,7 +319,7 @@ function swapExactETHForTokensSupportingFeeOnTransferTokens(
 ) external payable;
 ```
 
-Receive an as many output tokens as possible for an exact amount of BNB. Supports tokens that take a fee on transfer.
+Receive as many output tokens as possible for an exact amount of BNB. Supports tokens that take a fee on transfer.
 
 | Name                                               | Type      |                                                                                                                                      |
 | -------------------------------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -337,7 +337,7 @@ function swapExactTokensForETH(uint amountIn, uint amountOutMin, address[] calld
   returns (uint[] memory amounts);
 ```
 
-Receive an as much BNB as possible for an exact amount of input tokens.
+Receive as much BNB as possible for an exact amount of input tokens.
 
 | Name              | Type      |                                                                                                                                      |
 | ----------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -359,7 +359,7 @@ function swapExactTokensForETHSupportingFeeOnTransferTokens(
 ) external;
 ```
 
-Receive an as much BNB as possible for an exact amount of tokens. Supports tokens that take a fee on transfer.
+Receive as much BNB as possible for an exact amount of tokens. Supports tokens that take a fee on transfer.
 
 | Name              | Type      |                                                                                                                                      |
 | ----------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -381,7 +381,7 @@ function swapExactTokensForTokens(
 ) external returns (uint[] memory amounts);
 ```
 
-Receive an as many output tokens as possible for an exact amount of input tokens.
+Receive as many output tokens as possible for an exact amount of input tokens.
 
 | Name              | Type      |                                                                                                                                      |
 | ----------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -403,7 +403,7 @@ function swapExactTokensForTokensSupportingFeeOnTransferTokens(
 ) external;
 ```
 
-Receive an as many output tokens as possible for an exact amount of input tokens. Supports tokens that take a fee on transfer.
+Receive as many output tokens as possible for an exact amount of input tokens. Supports tokens that take a fee on transfer.
 
 | Name              | Type      |                                                                                                                                      |
 | ----------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------ |
