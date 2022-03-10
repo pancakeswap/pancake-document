@@ -40,7 +40,7 @@ PancakeSwap uses two sources for our price feeds. They each have their own purpo
 * Used for the Lock price and End price of each prediction market round. This updates in intervals of 5 minutes.
 * Our prediction contract uses the ChainLink Oracle price feed to set the prices used to dictate whether a user has won or not.
 
-#### Binance BNB/USDT
+#### Binance BNB/USD
 
 * Used for real-time price updates on the PancakeSwap prediction market interface.
 

@@ -20,11 +20,9 @@ In the following tutorials, we are going to demonstrate moving USDT from a varie
 {% tab title="Binance Bridge (Recommanded)" %}
 Binance Bridge may be the easiest bridge to use for moving assets onto BNB Smart Chain (BSC).
 
-In the following example, we'll show you how to move USDT from **TRON** blockchain to BSC using Binance Bridge.&#x20;
+In the following example, we'll show you how to move USDT from **TRON** blockchain to BSC using Binance Bridge.
 
 The process is about the same for moving from **Ethereum** to BSC.
-
-
 
 1. Prepare your TRON wallet with USDT and some TRX for bandwidth (gas).
 2. Since Binance Bridge only supports MetaMask and Binance Chain Wallet. If you are using other wallet apps, we recommend you to import your wallet into MetaMask.
@@ -37,7 +35,7 @@ The process is about the same for moving from **Ethereum** to BSC.
 
     ![](https://lh3.googleusercontent.com/YVaOIhQLzZpKBT3yEEQnI7f3aR0sOtb2PcII\_\_\_k6\_cqNoXOZXrkI6R0HnieRflrrCmO3Cpu\_zP1LnvcIwxSCFnii3wwI9OMY4dPA12WoJD6qaLxPC9V8r3eUwTe2EhDGHKuTNd8=s0)
 7. Double check the “Destination” field is showing the correct BNB Smart Chain wallet address you’ve connected.
-8.  Click “Next”. And choose the fourth option.&#x20;
+8.  Click “Next”. And choose the fourth option.
 
     **WARNING: You can only send funds from a blockchain wallet (in this case, TRON). If your funds are under some other centralised exchange, please move them to blockchain wallet first.**
 
@@ -51,7 +49,7 @@ The process is about the same for moving from **Ethereum** to BSC.
         ![](https://lh6.googleusercontent.com/mag8YXlpq0WtvlOP7GfPNZrXWralO5l6eWPFTrv9ZiQiyTryXBjtm4GVw\_coNjnthYIm-GlP5o\_ZuIF0lzOFYXnWn4wMSvcGOnmZIfVlOtTb0c08F6xgsL-4Gs936pYHUzJYbVOg=s0)
 11. Once you complete the transaction. You should receive your fund in BNB Smart Chain wallet in a few minutes. After that, you can start using PancakeSwap to swap some tokens on BNB Smart Chain!
 
-Additionally, you can check out [this user guide](https://binance-wallet.gitbook.io/binance-bridge/guides/binance-bridge-v3) and [video tutorial](https://fast.wistia.net/embed/iframe/fhip2z4nth) from Binance.&#x20;
+Additionally, you can check out [this user guide](https://binance-wallet.gitbook.io/binance-bridge/guides/binance-bridge-v3) and [video tutorial](https://fast.wistia.net/embed/iframe/fhip2z4nth) from Binance.
 {% endtab %}
 
 {% tab title="AnySwap" %}
@@ -63,7 +61,7 @@ Let's try moving USDT from Polygon (MATIC) blockchain to BSC using AnySwap.
 4. Connect your wallet and switch your network to Polygon (MATIC) Mainnet.
 5.  Select USDT on MATIC mainnet as "From", and USDT on BSC mainnet as "To". Then type in the amount of USDT you want to transfer.
 
-    ![](<../.gitbook/assets/MBP3-2021.10.19-055554AM-Google Chrome\_AnySwap - Cross Chain Protocol.png>)
+    ![](<../.gitbook/assets/MBP3-2021.10.19-055554AM-Google Chrome\_AnySwap - Cross Chain Protocol (1).png>)
 6. Click "Approve USDT" to approve your USDT.
 7. Additionally if you want AnySwap to deposit your USDT into another BSC address. Please use the "+ Send To" button.
 8. Click "Swap" and complete your final cross-chain transactions.
@@ -87,12 +85,12 @@ Let's try using O3 Hub to moving USDT from ERC-20 blockchain to BNB Smart Chain.
     ![](<../.gitbook/assets/MBP3-2021.10.19-053358AM-Google Chrome\_O3swap.png>)
 6.  Double check the “To” field is showing the correct BNB Smart Chain wallet address you’ve connected.
 
-    ![](<../.gitbook/assets/MBP3-2021.10.19-053441AM-Google Chrome\_O3swap.png>)
-7. Make sure everything is correct. Click "Swap".&#x20;
+    ![](<../.gitbook/assets/MBP3-2021.10.19-053441AM-Google Chrome\_O3swap (1).png>)
+7. Make sure everything is correct. Click "Swap".
 8. Follow the on-screen instructions to approve your USDT, and complete the final cross-chain transaction.
 9.  The entire process will take around 10-30 minutes to complete depends on how congested the network is. You can keep track of the progress on history tab.
 
-    ![](<../.gitbook/assets/MBP3-2021.10.19-054520AM-Google Chrome\_O3swap.png>)
+    ![](<../.gitbook/assets/MBP3-2021.10.19-054520AM-Google Chrome\_O3swap (1).png>)
 10. Once finished. You should receive your funds in your BSC wallet. Now you can start using PancakeSwap to swap some tokens on BNB Smart Chain!
 
 Additionally, you can check out [this user guide](https://docs.o3swap.com/o3-swap-user-guide/hub#2.-hub-swap) from O3 Swap.

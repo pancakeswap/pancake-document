@@ -1,6 +1,6 @@
 # Controlling CAKE supply
 
-![](<../../.gitbook/assets/docs masthead (17) (1).png>)
+![](<../../.gitbook/assets/docs-masthead-17- (1).png>)
 
 ## Why CAKE has no hard cap
 

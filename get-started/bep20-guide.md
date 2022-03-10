@@ -1,6 +1,6 @@
 # Get BEP20 Tokens
 
-![](<../.gitbook/assets/docs masthead (10) (1).png>)
+![](<../.gitbook/assets/docs-masthead-10- (1).png>)
 
 The native tokens of BNB Smart Chain (BSC) are **BEP20**.
 
@@ -12,7 +12,7 @@ You can go a few ways about converting your tokens to BEP20, but here are the on
 
 {% tabs %}
 {% tab title="🔒 SafePal" %}
-[**SafePal** ](https://safepal.io/download) - You don't need an account, or to register etc. Execute cross-chain swaps directly from your wallet.
+[**SafePal** ](https://safepal.io/download)- You don't need an account, or to register etc. Execute cross-chain swaps directly from your wallet.
 
 📖 [Here's a quick guide they made to help you out.](https://docs.safepal.io/safepal-app/cross-chain-swap-tutorial)
 {% endtab %}

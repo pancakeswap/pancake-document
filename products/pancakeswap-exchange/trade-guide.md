@@ -1,6 +1,6 @@
 # How to Trade
 
-![](<../../.gitbook/assets/docs masthead (5).png>)
+![](../../.gitbook/assets/docs-masthead-5-.png)
 
 Trading on PancakeSwap is very easy compared to most exchanges. You aren't going to be overwhelmed by charts or jargon, and calculations are all handled for you.
 
@@ -41,4 +41,3 @@ When you are ready, click the **Confirm Swap** button. Your wallet will ask you 
 7\. Done! You can click **View on BscScan** to see your transaction details on the explorer.
 
 ![](<../../.gitbook/assets/image (17).png>)
-

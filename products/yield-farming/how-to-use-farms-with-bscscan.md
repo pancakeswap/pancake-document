@@ -1,6 +1,6 @@
 # How to Use Farms with BscScan
 
-![](<../../.gitbook/assets/docs-masthead-21- (2) (1).png>)
+![](<../../.gitbook/assets/docs-masthead-21- (2).png>)
 
 Since it requires several steps, using Farms with PancakeSwap can seem intimidating at first. This guide will walk you through using the Farms contract directly through BscScan.
 
@@ -82,7 +82,7 @@ Confirm the connection.
 
 5\. You’re also going to need to approve the amount of LP Tokens the contract can spend. In the value field, you’ll need to enter the amount in Wei. You can use the [BscScan Unit Converter](https://www.bscscan.com/unitconverter) to easily change your amount into Wei. Here we'll use 5 CAKE-BUSD LP Tokens.
 
-![](<../../.gitbook/assets/image (158) (1).png>)
+![](<../../.gitbook/assets/image (158).png>)
 
 {% hint style="warning" %}
 You can also use `-1` as the value to give unlimited spend approval. This does not mean you will spend everything by default, but only that a transaction of any size using this contract will be allowed by your wallet.

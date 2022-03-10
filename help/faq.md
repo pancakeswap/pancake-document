@@ -1,6 +1,6 @@
 # General FAQ
 
-![](<../.gitbook/assets/docs masthead (17).png>)
+![](../.gitbook/assets/docs-masthead-17-.png)
 
 This FAQ page answers some of the more commonly asked questions from the PancakeSwap community.
 

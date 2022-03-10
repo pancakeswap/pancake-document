@@ -27,6 +27,8 @@
   * [How to Trade](products/pancakeswap-exchange/trade-guide.md)
   * [Liquidity Pools](products/pancakeswap-exchange/pancakeswap-pools.md)
   * [How to Add/Remove Liquidity](products/pancakeswap-exchange/liquidity-guide.md)
+  * [📝Limit Orders](products/pancakeswap-exchange/limit-orders/README.md)
+    * [Limit Orders FAQ](products/pancakeswap-exchange/limit-orders/limit-orders-faq.md)
 * [🚜 Yield Farming](products/yield-farming/README.md)
   * [How to Use Farms](products/yield-farming/how-to-use-farms.md)
   * [How to Use Farms with BscScan](products/yield-farming/how-to-use-farms-with-bscscan.md)
@@ -78,6 +80,7 @@
 ## Hiring
 
 * [Become a Chef](hiring/become-a-chef/README.md)
+  * [Solidity Engineer](hiring/become-a-chef/solidity-engineer.md)
   * [DevOps Engineer](hiring/become-a-chef/devops-engineer.md)
   * [Social Media Marketing Manager](hiring/become-a-chef/social-media-marketing-manager.md)
   * [Product Lead](hiring/become-a-chef/product-lead.md)

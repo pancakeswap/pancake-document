@@ -1,6 +1,6 @@
 # How to Use Prediction
 
-![](<../../.gitbook/assets/docs masthead (4) (1).png>)
+![](../../.gitbook/assets/docs-masthead-4-.png)
 
 Playing PancakeSwap’s Prediction lets you test your foresight to earn rewards. Use your market knowledge or gut feeling to predict if the BNBUSDT price will go up or down in the near future. Get it right and you’ll collect a share of the round’s prize pool!
 

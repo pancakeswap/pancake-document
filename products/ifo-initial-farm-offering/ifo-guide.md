@@ -1,6 +1,6 @@
 # How to Participate in an IFO
 
-![](<../../.gitbook/assets/docs masthead (3) (1).png>)
+![](<../../.gitbook/assets/docs-masthead-3- (1).png>)
 
 {% hint style="danger" %}
 Warning: this page is outdated. As we will be bringing several new updates to the IFO process over the coming weeks, we won't keep this page up to date for now: please refer to the details in the IFO proposal (vote) for the specifics of the IFO you want to take part in instead.

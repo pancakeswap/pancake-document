@@ -4,7 +4,7 @@ description: Find your way on Pancake Github
 
 # Codebase Overview
 
-![](<../../.gitbook/assets/docs masthead (18) (1).png>)
+![](<../../.gitbook/assets/docs-masthead-18- (1).png>)
 
 ## Introduction
 

@@ -1,6 +1,6 @@
 # 🎟 Lottery v2
 
-![](<../../.gitbook/assets/docs masthead (3) (2).png>)
+![](<../../.gitbook/assets/docs-masthead-3- (2).png>)
 
 Playing the PancakeSwap Lottery gives you a chance to win huge CAKE prizes! It's easy, fair, and you can enter as often as you like as long as you have the CAKE to buy a ticket.
 
@@ -38,7 +38,7 @@ Drawn numbers
 
 Your ticket's numbers
 
-![Your Ticket A](<../../.gitbook/assets/image (95) (1).png>)
+![Your Ticket A](<../../.gitbook/assets/image (95) (1) (1).png>)
 
 In the example above, Ticket A, five of the ticket's numbers match the same drawn numbers, in the exact same order: all except the fourth one.
 
