@@ -35,13 +35,13 @@ Smartphone/Mobile wallets allow you to access your crypto almost anywhere. Walle
 
 This comparison table gives an overview of the most popular mobile wallets used with PancakeSwap.
 
-|                                                          | Trust Wallet                  | MetaMask | Token Pocket | SafePal |
-| -------------------------------------------------------- | ----------------------------- | -------- | ------------ | ------- |
-| BNB Smart Chain support                                  | ✅                             | ⚠️       | ✅            | ✅       |
-| Built-in DApp browser                                    | <p>✅ Android</p><p>⚠️ iOS</p> | ➖        | ✅            | ✅       |
-| Hardware wallet compatible                               | ➖                             | ✅        | ➖            | 🔶      |
-| Open source (auditability)                               | ✅                             | ✅        | ✅            | ➖       |
-| <p>Interact with BscScan</p><p>(for advanced users!)</p> | ➖                             | ✅        | ➖            | ➖       |
+|                                                          | Token Pocket | MetaMask | Coinbase Wallet | Trust Wallet                  | SafePal |
+| -------------------------------------------------------- | ------------ | -------- | --------------- | ----------------------------- | ------- |
+| BNB Smart Chain support                                  | ✅            | ⚠️       | ✅               | ✅                             | ✅       |
+| Built-in DApp browser                                    | ✅            | ➖        | ✅               | <p>✅ Android</p><p>⚠️ iOS</p> | ✅       |
+| Hardware wallet compatible                               | ➖            | ✅        | ✅               | ➖                             | 🔶      |
+| Open source (auditability)                               | ✅            | ✅        | ✅               | ✅                             | ➖       |
+| <p>Interact with BscScan</p><p>(for advanced users!)</p> | ➖            | ✅        | ➖               | ➖                             | ➖       |
 
 ⚠️ Requires some setup\
 🔶 Only supports SafePal hardware wallet
@@ -74,7 +74,7 @@ Trust Wallet is a popular wallet for smart devices. It supports DApps, NFT colle
 {% endtab %}
 
 {% tab title="MetaMask" %}
-![](<../.gitbook/assets/image (33) (3) (4) (5) (1).png>)
+![](<../.gitbook/assets/image (33) (3) (4) (5) (1) (2).png>)
 
 MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethereum network) and BEP2 & BEP20 (Binance Chain and BNB Smart Chain networks).
 
@@ -99,8 +99,31 @@ MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethe
 [**MetaMask Setup Guide**](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
 {% endtab %}
 
+{% tab title="Coinbase Wallet" %}
+Millions of users choose Coinbase Wallet to earn yield with DeFi, swap more than 5,500 assets, and hold their NFT collections. Coinbase wallet supports BEP2 & BEP20 (Binance Chain and BNB Smart Chain networks).
+
+**Highlights:**
+
+* Most downloaded mobile dapp wallet in the United States with 12M+ active Wallet users.
+* No additional steps needed to use with BNB Smart Chain and PancakeSwap.
+* Premier audience: Up to 89M+ Coinbase retail app users to onboard to Coinbase Wallet as they start to explore web3.
+* Easy to transfer assets from Coinbase retail app.
+* Fiat On-ramp: Users can now directly purchase crypto with fiat in all 86 countries where Coinbase operates, without leaving Wallet.
+* Industry leading security with secure cloud backup.
+
+
+
+[**Download Coinbase Wallet**](https://coinbase-wallet.onelink.me/q5Sx/fdb9b250) **(Automatically detects device)**
+
+[**Coinbase Wallet Setup Guide**](https://www.coinbase.com/wallet/getting-started-mobile)
+
+__
+
+_Coinbase Wallet is a self-custody wallet providing software services subject to Coinbase Wallet_ [_Terms of Service_](https://wallet.coinbase.com/terms-of-service) _and_ [_Privacy Policy_](https://wallet.coinbase.com/privacy-policy)_. Coinbase Wallet is_ [_distinct_](https://help.coinbase.com/en/wallet/getting-started/what-s-the-difference-between-coinbase-com-and-wallet) _from Coinbase.com, and private keys for Coinbase Wallet are stored directly by the user and not by Coinbase. Fees may apply. You do not need a Coinbase.com account to use Coinbase Wallet._
+{% endtab %}
+
 {% tab title="Token Pocket" %}
-![](<../.gitbook/assets/image (125) (3) (4) (1) (3).png>)
+![](<../.gitbook/assets/image (125) (3) (4) (1) (2) (3).png>)
 
 Token Pocket is a cryptocurrency management app that natively supports many cryptocurrency networks. It also has a desktop application available.
 
@@ -210,13 +233,13 @@ Desktop wallets are available on your home computer or laptop computer. Wallets 
 
 This comparison table gives an overview of the most popular desktop wallets used with PancakeSwap.
 
-|                                                          | MetaMask | Binance Wallet | Token Pocket |
-| -------------------------------------------------------- | -------- | -------------- | ------------ |
-| BNB Smart Chain support                                  | ⚠️       | ✅              | ⚠️           |
-| Built-in DApp browser                                    | ➖        | ➖              | ✅            |
-| Hardware wallet compatible                               | ✅        | ✅              | ➖            |
-| Open source (auditability)                               | ✅        | ✅              | ✅            |
-| <p>Interact with BscScan</p><p>(for advanced users!)</p> | ✅        | ➖              | ➖            |
+|                                                          | MetaMask | Binance Wallet | Coinbase Wallet | Token Pocket |
+| -------------------------------------------------------- | -------- | -------------- | --------------- | ------------ |
+| BNB Smart Chain support                                  | ⚠️       | ✅              | ✅               | ⚠️           |
+| Built-in DApp browser                                    | ➖        | ➖              | ➖               | ✅            |
+| Hardware wallet compatible                               | ✅        | ✅              | ✅               | ➖            |
+| Open source (auditability)                               | ✅        | ✅              | ✅               | ✅            |
+| <p>Interact with BscScan</p><p>(for advanced users!)</p> | ✅        | ➖              | ➖               | ➖            |
 
 ⚠️ Requires additional setup
 
@@ -224,7 +247,7 @@ You can find more in-depth information about each wallet below, as well as downl
 
 {% tabs %}
 {% tab title="MetaMask" %}
-![](<../.gitbook/assets/image (33) (3) (4) (5) (1) (4).png>)
+![](<../.gitbook/assets/image (33) (3) (4) (5) (1) (2) (4).png>)
 
 MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethereum network) by default, and BEP2 & BEP20 (Binance Chain and BNB Smart Chain networks) with a little work.
 
@@ -246,6 +269,34 @@ MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethe
 
 [**Download MetaMask**](https://metamask.io/download.html) (Automatically detects browser)\
 [**MetaMask Setup Guide**](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
+{% endtab %}
+
+{% tab title="Coinbase Wallet" %}
+Millions of users choose Coinbase Wallet to earn yield with DeFi, swap more than 5,500 assets, and hold their NFT collections. Coinbase wallet supports ERC20 (Ethereum network) and BEP2 & BEP20 (Binance Chain and BNB Smart Chain networks).
+
+**Highlights:**
+
+* 12M+ active Wallet users.
+* No additional steps needed to use with BNB Smart Chain and PancakeSwap.
+* Premier audience: Up to 89M+ Coinbase retail app users to onboard to Coinbase Wallet as they start to explore web3.
+* Easy to transfer assets from Coinbase retail app.
+* Fiat On-ramp: Users can now directly purchase crypto with fiat in all 86 countries where Coinbase operates, without leaving Wallet.
+* Industry leading security with secure cloud backup
+* Is also available on mobile devices
+
+**Note:**
+
+* Currently on Chrome Only
+
+
+
+[**Download Coinbase Wallet**](https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad?hl=en\&authuser=0)[ ](https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad?hl=en\&authuser=0)Chrome Only)
+
+[**Coinbase Wallet Setup Guide**](https://www.coinbase.com/wallet/getting-started-extension)
+
+__
+
+_Coinbase Wallet is a self-custody wallet providing software services subject to Coinbase Wallet_ [_Terms of Service_](https://wallet.coinbase.com/terms-of-service) _and_ [_Privacy Policy_](https://wallet.coinbase.com/privacy-policy)_. Coinbase Wallet is_ [_distinct_](https://help.coinbase.com/en/wallet/getting-started/what-s-the-difference-between-coinbase-com-and-wallet) _from Coinbase.com, and private keys for Coinbase Wallet are stored directly by the user and not by Coinbase. Fees may apply. You do not need a Coinbase.com account to use Coinbase Wallet._
 {% endtab %}
 
 {% tab title="Binance Wallet" %}
@@ -274,7 +325,7 @@ Binance Wallet is a browser-plugin wallet that natively supports the Binance Cha
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](<../.gitbook/assets/image (125) (3) (4) (1) (2).png>)
+![](<../.gitbook/assets/image (125) (3) (4) (1) (2) (2).png>)
 
 Token Pocket is a standalone application available for both Mac OS and Win64 devices. Token Pocket allows you to manage your cryptocurrency in software independent of your browser.
 
@@ -346,7 +397,7 @@ And that’s it, all done! You can follow our [Connect Your Wallet to PancakeSwa
 {% endtabs %}
 
 {% hint style="danger" %}
-\*\*NEVER, in any situation, should you ever give someone your private key or recovery phrase ("seed phrase"). This will give someone complete access to your crypto!
+NEVER, in any situation, should you ever give someone your private key or recovery phrase ("seed phrase"). This will give someone complete access to your crypto!
 
-The genuine PancakeSwap site and staff will never ask you to input your seed phrase.\*\*
+The genuine PancakeSwap site and staff will never ask you to input your seed phrase.
 {% endhint %}

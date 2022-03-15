@@ -27,7 +27,7 @@ Overall this means more tickets can win a prize, but the largest prize jackpot w
 
 ## How are prizes broken down between brackets?
 
-Each bracket's prize pool is a portion of the total CAKE in each Lottery round.&#x20;
+Each bracket's prize pool is a portion of the total CAKE in each Lottery round.
 
 * | Bracket (numbers matched in order) | CAKE Allocation |
   | ---------------------------------- | --------------- |
@@ -73,11 +73,10 @@ You can only buy a maximum of 100 tickets in one purchase, but you can make mult
 
 Yes, each ticket is treated as a separate entry to the Lottery. Keep in mind that the prizes will not be 1:1 though, as each winning ticket you have dilutes each share of the bracket's total prizes.
 
-## Injection schedule: When is CAKE added to the lottery?&#x20;
+## Injection schedule: When is CAKE added to the lottery?
 
 When people buy tickets, the CAKE they spend is added to the lottery pot. In addition, 10,000 CAKE is also added (injected) to the lottery pot every other round on a regular schedule over the course of seven rounds per week.
 
 This injection schedule started with round 440:
 
-![Lottery injection schedule](../../.gitbook/assets/Lottery-Schedule-Update-Feb-4.png)
-
+![Lottery injection schedule](<../../.gitbook/assets/Lottery Schedule Update Feb 4.png>)

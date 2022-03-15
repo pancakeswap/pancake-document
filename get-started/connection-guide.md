@@ -47,7 +47,7 @@ Read the [Trust Wallet guide to connecting to PancakeSwap via WalletConnect](htt
 {% endtab %}
 
 {% tab title="MetaMask" %}
-![](<../.gitbook/assets/image (33) (3) (4) (5) (1).png>)
+![](<../.gitbook/assets/image (33) (3) (4) (5) (1) (2).png>)
 
 To connect MetaMask to PancakeSwap follow the steps below.
 
@@ -92,8 +92,31 @@ To connect MetaMask to PancakeSwap follow the steps below.
 [**MetaMask Setup Guide**](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain\))
 {% endtab %}
 
+{% tab title="Coinbase Wallet" %}
+1. Open Coinbase Wallet and tap on the **settings icon** in the bottom-right.\
+   ![](../.gitbook/assets/CB-M-p1.png)\
+   ![](../.gitbook/assets/CB-M-p1\_5.png)
+2. In the Settings menu, tap on **Default Network**.\
+   ![](../.gitbook/assets/CB-M-p2.png)****
+3. Choose **Binance Smart Chain** from the list of network options.\
+   ![](../.gitbook/assets/CB-M-p3.png)
+4. Once you've selected the Binance Smart Chain network, click the **Browser Icon** at the bottom-middle of your app.\
+   ![](../.gitbook/assets/CB-M-p4.png)\
+   ![](../.gitbook/assets/CB-M-p5.png)
+5. Type "PancakeSwap.finance" into the search field and start the search.\
+   ![](../.gitbook/assets/CB-M-p6.png)
+6. Click **Connect** **Wallet** to connect to Coinbase Wallet.\
+   ![](../.gitbook/assets/CB-M-p7.png)
+
+### **Resources**
+
+#### [**Download Coinbase Wallet**](https://coinbase-wallet.onelink.me/q5Sx/fdb9b250) **(Automatically detects device)**
+
+[**Coinbase Wallet Setup Guide**](https://www.coinbase.com/wallet/getting-started-mobile)
+{% endtab %}
+
 {% tab title="Token Pocket" %}
-![](<../.gitbook/assets/image (125) (3) (4) (1) (3).png>)
+![](<../.gitbook/assets/image (125) (3) (4) (1) (2) (3).png>)
 
 Token Pocket is a cryptocurrency management app that natively supports many cryptocurrency networks. It also has a desktop application available.
 
@@ -145,7 +168,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 {% tabs %}
 {% tab title="MetaMask" %}
-![](<../.gitbook/assets/image (33) (3) (4) (5) (1) (4).png>)
+![](<../.gitbook/assets/image (33) (3) (4) (5) (1) (2) (4).png>)
 
 ### Chrome and Firefox
 
@@ -169,7 +192,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 1. Visit the [PancakeSwap website](https://pancakeswap.finance). In the top right corner you'll see the **Connect** button. Click it.
 
-![](<../.gitbook/assets/image (164) (3) (3) (1) (2).png>)
+![](<../.gitbook/assets/image (164) (3) (3) (1) (2) (2).png>)
 
 1. A window will appear asking you to choose a wallet to connect to. Click **MetaMask** (it's the top option on the list).
 
@@ -192,7 +215,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 1. Visit the PancakeSwap website. In the top-right, click **Connect**.
 
-![](<../.gitbook/assets/image (164) (3) (3) (2).png>)
+![](<../.gitbook/assets/image (164) (3) (3) (1) (2) (1).png>)
 
 1. A window will appear asking you to choose a wallet to connect to. Click **Binance Chain Wallet** (it's farther down the list).
 
@@ -204,8 +227,26 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 **Binance Wallet Setup Guide**
 {% endtab %}
 
+{% tab title="Coinbase Wallet" %}
+1. Open Coinbase Wallet and click on the **Settings** icon at the top-right. By default it will show "Ethereum Mainnet" as the Default Network.\
+   ![](../.gitbook/assets/cb-desktop-1.png)
+2. Click on **Default Network** and choose **Binance Smart Chain**\
+   ****![](../.gitbook/assets/cb-desktop-2.png)****
+3. Binance Smart Chain will now be your Default Network.
+4. Visit the[ ](https://pancakeswap.finance)[pancakeswap.finance](https://pancakeswap.finance), In the top right corner you'll see the **Connect** button. Click it.\
+   ![](../.gitbook/assets/cb-desktop-3.png)
+5. A window will appear asking you to choose a wallet to connect to. Click **Coinbase Wallet** (it's the top option on the list).\
+   ![](../.gitbook/assets/cb-desktop-4.png)
+
+### **Resources**
+
+[**Download Coinbase Wallet**](https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad?hl=en\&authuser=0)[ ](https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad?hl=en\&authuser=0)(Chrome Only)
+
+[**Coinbase Wallet Setup Guide**](https://www.coinbase.com/wallet/getting-started-extension)
+{% endtab %}
+
 {% tab title="Token Pocket" %}
-![](<../.gitbook/assets/image (125) (3) (4) (1) (2).png>)
+![](<../.gitbook/assets/image (125) (3) (4) (1) (2) (2).png>)
 
 ### Desktop Application
 
@@ -234,6 +275,8 @@ You will not be able to use both MetaMask and TokenPocket connecting through the
 **Token Pocket Desktop Setup Guide**
 {% endtab %}
 {% endtabs %}
+
+
 
 {% hint style="danger" %}
 **Remember - NEVER, under any situation, should you ever give someone your private key or recovery phrases.**

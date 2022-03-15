@@ -1,6 +1,6 @@
 # Social Accounts & Communities
 
-![](../.gitbook/assets/docs-masthead-22-.png)
+![](<../.gitbook/assets/docs masthead (22).png>)
 
 Here you'll find a list of PancakeSwap's official Social media channels and communities. If English is not your first language, we have a number of non-English communities that would love to have you join them!
 
