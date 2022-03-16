@@ -100,6 +100,8 @@ MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethe
 {% endtab %}
 
 {% tab title="Coinbase Wallet" %}
+![](<../.gitbook/assets/coinbase\_wallet\_wordmark\_blue (1).png>)
+
 Millions of users choose Coinbase Wallet to earn yield with DeFi, swap more than 5,500 assets, and hold their NFT collections. Coinbase wallet supports BEP2 & BEP20 (Binance Chain and BNB Smart Chain networks).
 
 **Highlights:**
@@ -271,7 +273,34 @@ MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethe
 [**MetaMask Setup Guide**](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
 {% endtab %}
 
+{% tab title="Binance Wallet" %}
+![](<../.gitbook/assets/image (39).png>)
+
+Binance Wallet is a browser-plugin wallet that natively supports the Binance Chain (BEP2) BNB Smart Chain (BEP20) networks. Binance Wallet was developed by the Binance cryptocurrency exchange.
+
+​**Pros:**
+
+* Open source for auditability
+* Backed by the Binance cryptocurrency exchange
+* Can be directly linked to a Binance or Gmail account
+* A streamlined user experience
+* Supports BNB Smart Chain by default, making using PancakeSwap easy
+* Supports a large number of languages
+* Hardware wallet compatible
+
+**Cons:**
+
+* Lacks some custom settings of other wallets
+* Lack of additional tools makes some actions available in other wallets impossible
+* Has fewer online resources than more established wallets
+
+[**Download Binance Wallet**](https://www.binance.org/en) (Automatically detects browser)\
+[**Binance Wallet Setup Guide**](https://docs.binance.org/smart-chain/wallet/binance.html)
+{% endtab %}
+
 {% tab title="Coinbase Wallet" %}
+![](<../.gitbook/assets/coinbase\_wallet\_wordmark\_blue (2).png>)
+
 Millions of users choose Coinbase Wallet to earn yield with DeFi, swap more than 5,500 assets, and hold their NFT collections. Coinbase wallet supports ERC20 (Ethereum network) and BEP2 & BEP20 (Binance Chain and BNB Smart Chain networks).
 
 **Highlights:**
@@ -297,31 +326,6 @@ Millions of users choose Coinbase Wallet to earn yield with DeFi, swap more than
 __
 
 _Coinbase Wallet is a self-custody wallet providing software services subject to Coinbase Wallet_ [_Terms of Service_](https://wallet.coinbase.com/terms-of-service) _and_ [_Privacy Policy_](https://wallet.coinbase.com/privacy-policy)_. Coinbase Wallet is_ [_distinct_](https://help.coinbase.com/en/wallet/getting-started/what-s-the-difference-between-coinbase-com-and-wallet) _from Coinbase.com, and private keys for Coinbase Wallet are stored directly by the user and not by Coinbase. Fees may apply. You do not need a Coinbase.com account to use Coinbase Wallet._
-{% endtab %}
-
-{% tab title="Binance Wallet" %}
-![](<../.gitbook/assets/image (39).png>)
-
-Binance Wallet is a browser-plugin wallet that natively supports the Binance Chain (BEP2) BNB Smart Chain (BEP20) networks. Binance Wallet was developed by the Binance cryptocurrency exchange.
-
-​**Pros:**
-
-* Open source for auditability
-* Backed by the Binance cryptocurrency exchange
-* Can be directly linked to a Binance or Gmail account
-* A streamlined user experience
-* Supports BNB Smart Chain by default, making using PancakeSwap easy
-* Supports a large number of languages
-* Hardware wallet compatible
-
-**Cons:**
-
-* Lacks some custom settings of other wallets
-* Lack of additional tools makes some actions available in other wallets impossible
-* Has fewer online resources than more established wallets
-
-[**Download Binance Wallet**](https://www.binance.org/en) (Automatically detects browser)\
-[**Binance Wallet Setup Guide**](https://docs.binance.org/smart-chain/wallet/binance.html)
 {% endtab %}
 
 {% tab title="Token Pocket" %}
