@@ -30,4 +30,4 @@
 
 ### How to apply
 
-* Shoot your CV to us at hiring@pancakeswap.com 🐰
+Shoot your CV to us at hiring@pancakeswap.com 🐰

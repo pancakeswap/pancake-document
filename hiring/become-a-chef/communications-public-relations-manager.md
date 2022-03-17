@@ -41,4 +41,4 @@
 
 ### How to apply:
 
-Shoot email to hiring@pancakeswap.com with your resume! 🐰
+Shoot an email to hiring@pancakeswap.com with your resume! 🐰
