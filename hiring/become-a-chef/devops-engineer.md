@@ -9,20 +9,20 @@
 
 ### Your Responsibilities
 
-* Take care of our existing cloud infrastructure
-* Investigate and resolve technical issues
-* Plan and develop new cloud-based services
-* Write extensive documentation
+* Take care of our existing cloud infrastructure.
+* Investigate and resolve technical issues.
+* Plan and develop new cloud-based services.
+* Write extensive documentation.
 
 ### Skills & Qualification
 
-* Good understanding of Go, NodeJS or Python
-* Experience with cloud platforms (AWS/GCP/Azure)
-* Experience configuring and maintaining databases (MongoDB, PostgresSQL, Redis)
-* Ability to evaluate scaling issues and take action
-* Solid experience with GraphQL
-* Experience with testing tools
-* Experience with Web3, Smart Contracts, Nodes and other crypto technologies
+* Good understanding of Go, NodeJS or Python.
+* Experience with cloud platforms (AWS/GCP/Azure).
+* Experience configuring and maintaining databases (MongoDB, PostgresSQL, Redis).
+* Ability to evaluate scaling issues and take action.
+* Solid experience with GraphQL.
+* Experience with testing tools.
+* Experience with Web3, Smart Contracts, Nodes and other crypto technologies.
 
 ### How to apply
 

@@ -18,10 +18,10 @@
 
 ### Responsibilities:
 
-* Setup the tools needed to enable end to end testing (JS framework, local blockchain)
-* Analyse our codebases and propose a test plan for each
-* Write appropriate end to end tests in order to protect the product from regressions bugs
-* Monitor newly released features and continually add tests for these
+* Setup the tools needed to enable end to end testing (JS framework, local blockchain).
+* Analyse our codebases and propose a test plan for each.
+* Write appropriate end to end tests in order to protect the product from regressions bugs.
+* Monitor newly released features and continually add tests for these.
 * Consistently plan to upgrade and improve our testing infrastructure.
 
 ### How to apply:
