@@ -14,6 +14,6 @@ We're now accepting applications for Phase 2 of the Marketplace, which was be re
 
 ## Something else
 
-You can shoot us an email at info@pancakeswap.com if the above parts don't cover your questions.
+You can shoot us an email at pancakeswap@gmail.com if the above parts don't cover your questions.
 
 Please don't try to contact us via this email for [customer support](customer-support.md), that's not what it's for and we won't respond: your best option for getting help with the product is via the [Telegram or Reddit community](telegram.md).
