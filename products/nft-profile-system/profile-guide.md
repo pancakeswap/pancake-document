@@ -31,7 +31,7 @@ For this example we’ll use Dollop.\
 ****\
 ****
 
-![](<../../.gitbook/assets/image (166) (1) (1).png>)
+![](<../../.gitbook/assets/image (166) (1) (1) (1).png>)
 
 4\. A new page will load saying “Choose collectible”. We’ll pick our Dollop we chose earlier. If you already own multiple NFTs you can choose one from a list of NFTs you own.
 

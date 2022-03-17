@@ -1,6 +1,6 @@
 # 🔮 Prediction
 
-![](<../../.gitbook/assets/masthead (5) (4) (4) (5) (1) (2) (4).png>)
+![](<../../.gitbook/assets/masthead (5) (4) (4) (5) (1) (2) (1) (4).png>)
 
 PancakeSwap Prediction is a fun and simple decentralized prediction market.
 
