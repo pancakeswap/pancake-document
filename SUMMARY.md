@@ -87,6 +87,7 @@
   * [Frontend Engineer](hiring/become-a-chef/frontend-engineer.md)
   * [Blockchain QA Engineer](hiring/become-a-chef/senior-qa-engineer.md)
   * [Communications/Public Relations Manager](hiring/become-a-chef/communications-public-relations-manager.md)
+  * [Business Development Manager](hiring/become-a-chef/business-development-manager.md)
 
 ## Contract Governance <a href="#governance" id="governance"></a>
 
