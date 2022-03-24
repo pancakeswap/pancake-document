@@ -33,7 +33,7 @@ Unlike centralized exchanges like Binance or Coinbase, PancakeSwap doesn’t hol
 ### Earn tokens with Syrup Pools
 
 Stake CAKE, earn free tokens. It’s really that easy.\
-CAKE holders right now are earning tens of millions of USD worth of free tokens each week from major projects. New projects join the party every day, so you can earn more, for even longer.
+CAKE holders right now are earning tens of millions of USD worth of free tokens each week from major projects. New projects join the party frequently, so you can earn more, for even longer.
 
 ### Earn CAKE with Yield Farms
 
