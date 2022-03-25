@@ -1,7 +1,5 @@
 # Binance Academy Guide
 
-[PreviousFixing Stuck Pending Transactions on MetaMask](fixing-stuck-pending-transactions-on-metamask.md)[NextContact Us](../contact-us-1.md)
+![](../.gitbook/assets/screenshot-2021-04-20-at-3.45.02-pm.png)
 
-![](https://avatars3.githubusercontent.com/u/71368211?v=4)
-
-Last updated 2 months ago
+[https://academy.binance.com/tutorials/a-guide-to-pancakeswap](https://academy.binance.com/tutorials/a-guide-to-pancakeswap)
