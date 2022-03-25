@@ -10,7 +10,7 @@
 
 ![](https://lh6.googleusercontent.com/ACvmc-jkAPXkIjsFMCFj7SzOuWXtBzuYBnLWnD_mu1z55XW4POrUEUnfHf_MdNFBwIJboeOplOzbnD0XfaIj5NwacErLiQCkPSfz2DTR_imCidSvJF5TwWQ0vcEtakxSWUr_ibxW)
 
-**2. Connect your Binance Smart Chain Wallet \(top-right hand corner\)**
+**2. Connect your BNB Smart Chain Wallet \(top-right hand corner\)**
 
 \*\*\*\*
 
