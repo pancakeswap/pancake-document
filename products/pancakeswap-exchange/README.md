@@ -1,14 +1,25 @@
-# Exchange
+# 🔄 Exchange
 
-\*\*\*\*[**Token swaps**](https://exchange.pancakeswap.finance/#/swap) on PancakeSwap are a simple way to trade one BEP-20 token for another via automated liquidity pools.
+![](../../.gitbook/assets/docs-masthead-19-.png)
 
-![Simple Swap UI](../../.gitbook/assets/screenshot-2020-09-17-at-10.38.29-pm.png)
+PancakeSwap is an Automated Market Maker (AMM), and the Exchange is at the heart of PancakeSwap. PancakeSwap is the leading AMM on the BNB Smart Chain, and as statistics tell, the most popular Decentralized Exchange (DEX) ever!
 
-The liquidity provided to the exchange comes from Liquidity Providers \("LPs"\) who stake their tokens in "Pools". In exchange, they get FLIP \(PancakeSwap Liquidity Provider\) tokens, which can also be staked to earn CAKE tokens in the "farm".
+The PancakeSwap Exchange offers several features that support decentralized trading:
 
-When you make a token swap \(trade\) on the exchange you will pay a **0.2% trading fee**, which is broken down as follows:
+### Swapping/Trading
 
-**0.17%** - Returned to liquidity pools in the form of a fee reward for liquidity providers.
+PancakeSwap lets users trade without the need to go through a Centralized Exchange. Everything you do on PancakeSwap is routed directly through your own wallet—no need to trust someone else with your coins!
 
-**0.03%** - Sent to the PancakeSwap Treasury.
+### Liquidity Pools
 
+You can only swap tokens on PancakeSwap if there is enough liquidity for those tokens. If nobody has added much liquidity for the token or tokens you want to swap, it will be difficult, expensive, or impossible to do so.
+
+Providing liquidity will get you LP Tokens, which will earn you rewards in the form of trading fees for making sure there's always liquidity for the exchange to use.
+
+### Yield Farming
+
+Yield farming lets users that are providing liquidity earn CAKE rewards by locking their LP tokens into a smart contract. The incentive is to balance out the risk of [impermanent loss](https://academy.binance.com/en/articles/impermanent-loss-explained) that comes along with locking in your liquidity.
+
+### Initial Farm Offerings (IFOs)
+
+An Initial Farm Offering is an event that lets users buy into a limited-time offer to purchase new tokens. The IFO price is usually very generous.
