@@ -88,13 +88,3 @@
   * [Blockchain QA Engineer](hiring/become-a-chef/senior-qa-engineer.md)
   * [Communications/Public Relations Manager](hiring/become-a-chef/communications-public-relations-manager.md)
   * [Business Development Manager](hiring/become-a-chef/business-development-manager.md)
-
-## Contract Governance <a href="#governance" id="governance"></a>
-
-* [Lottery](governance/lottery/README.md)
-  * [Lottery Contract](governance/lottery/lottery-contract.md)
-* [Prediction](governance/prediction.md)
-* [Farms](governance/farms.md)
-* [Syrup Pools](governance/syrup-pools/README.md)
-  * [SmartChefInitializable](governance/syrup-pools/smartchefinitializable.md)
-  * [PoolDeployer](governance/syrup-pools/pooldeployer.md)
