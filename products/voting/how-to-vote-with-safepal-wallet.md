@@ -1,6 +1,6 @@
 # How to Vote with SafePal Wallet
 
-![](../../.gitbook/assets/docs-masthead-8-.png)
+![](../../.gitbook/assets/how-to-voting-with-safepal-header.png)
 
 You can use the SafePal wallet to vote on open issues in PancakeSwap. Follow the steps below to cast your vote from inside the SafePal wallet.
 

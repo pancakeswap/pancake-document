@@ -1,6 +1,6 @@
 # How to Play Lottery v2
 
-![](../../.gitbook/assets/docs-masthead-6-.png)
+![](../../.gitbook/assets/how-to-lottery-header.png)
 
 PancakeSwap's Lottery is not only a good way to make stacks of CAKE, it's also loads of fun! This guide will walk you through getting involved in the Lottery.
 

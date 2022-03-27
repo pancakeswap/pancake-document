@@ -1,6 +1,6 @@
 # Token Swaps
 
-![](../../.gitbook/assets/docs-masthead-18-.png)
+![](../../.gitbook/assets/swap-trade-header.png)
 
 ****[**Token swaps**](https://exchange.pancakeswap.finance/#/swap) on PancakeSwap are a simple way to trade one BEP-20 token for another via automated liquidity pools.
 

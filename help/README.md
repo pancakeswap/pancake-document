@@ -1,6 +1,8 @@
 # Click Here for Help
 
-![](../.gitbook/assets/docs-masthead-10-.png)
+
+
+![](../.gitbook/assets/help-area-header.png)
 
 If you find yourself stuck, if something isn't working like it's meant to, or you're not sure if something has worked or not, this help section may be able to, well, help.
 

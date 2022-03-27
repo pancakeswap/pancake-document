@@ -1,6 +1,6 @@
 # 🛍 IFO (Initial Farm Offering)
 
-![](<../../.gitbook/assets/docs-masthead-6- (1).png>)
+![](../../.gitbook/assets/ifo-header.png)
 
 Buy new tokens using CAKE.
 

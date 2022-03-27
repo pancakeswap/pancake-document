@@ -1,6 +1,6 @@
 # 🚜 Yield Farming
 
-![](<../../.gitbook/assets/docs-masthead-1- (2).png>)
+![](../../.gitbook/assets/yield-farms-header.png)
 
 Yield Farms allow users to earn CAKE while supporting PancakeSwap by staking LP Tokens.
 

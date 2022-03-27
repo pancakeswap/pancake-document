@@ -1,6 +1,6 @@
 # Teams
 
-![](../../.gitbook/assets/docs-masthead-14-.png)
+![](../../.gitbook/assets/teams-header.png)
 
 Being part of a team lets you join in on team events and earn CAKE and unique rewards such as NFTs and achievements.
 

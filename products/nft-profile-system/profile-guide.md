@@ -1,6 +1,6 @@
 # How to Set Up an NFT Profile
 
-![](<../../.gitbook/assets/docs-masthead-1- (1).png>)
+![](../../.gitbook/assets/how-to-nft-profiles-header.png)
 
 Create a personalized profile on PancakeSwap to share your personality with the world. Choose a cute bunny NFT for your profile picture, give yourself a unique name, and join an awesome team!
 

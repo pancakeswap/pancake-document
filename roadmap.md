@@ -4,7 +4,7 @@ description: '"Don''t call it a roadmap"'
 
 # Roadmap
 
-![](<.gitbook/assets/docs-masthead-19- (1).png>)
+![](.gitbook/assets/roadmap-header.png)
 
 _Updated Jan. 21, 2022_
 

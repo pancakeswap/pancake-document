@@ -1,6 +1,6 @@
 # How to Participate in an IFO with BscScan
 
-![](../../.gitbook/assets/docs-masthead-16-.png)
+![](../../.gitbook/assets/how-to-enter-an-ifo-bscscan-header.png)
 
 {% hint style="danger" %}
 Warning: this page is outdated. As we will be bringing several new updates to the IFO process over the coming weeks, we won't keep this page up to date for now: please refer to the details in the IFO proposal (vote) for the specifics of the IFO you want to take part in instead.

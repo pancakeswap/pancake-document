@@ -6,6 +6,8 @@ description: >-
 
 # Using PancakeSwap without Centralized Exchanges
 
+![](../.gitbook/assets/how-to-pancakeswap-without-cex-header.png)
+
 PancakeSwap is a decentralized application. That means, unlike Binance or other centralized platforms, you don't need to register account to use it... you just need a crypto wallet. So how can you get crypto onto PancakeSwap without using a centralized exchange?
 
 In this tutorial, we're going to guide you through the process of using "cross-chain bridges" to transfer your assets into your BNB Smart Chain wallet, and start using PancakeSwap.

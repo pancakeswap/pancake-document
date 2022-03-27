@@ -1,7 +1,5 @@
 # Controlling CAKE supply
 
-![](<../../.gitbook/assets/docs-masthead-17- (1).png>)
-
 ## Why CAKE has no hard cap
 
 There's currently no hard cap on the supply of CAKE token, making it an inflationary token.

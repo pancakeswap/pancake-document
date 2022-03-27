@@ -1,5 +1,5 @@
 # How to Vote
 
-![](../../.gitbook/assets/docs-masthead-7-.png)
+![](../../.gitbook/assets/how-to-voting-header.png)
 
 Guide coming soon.

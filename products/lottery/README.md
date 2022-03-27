@@ -1,6 +1,6 @@
 # 🎟 Lottery v2
 
-![](<../../.gitbook/assets/docs-masthead-3- (2).png>)
+![](../../.gitbook/assets/lottery-v2-header.png)
 
 Playing the PancakeSwap Lottery gives you a chance to win huge CAKE prizes! It's easy, fair, and you can enter as often as you like as long as you have the CAKE to buy a ticket.
 

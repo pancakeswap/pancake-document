@@ -1,6 +1,6 @@
 # Business Partnerships
 
-![](<../.gitbook/assets/docs-masthead-21- (1).png>)
+![](../.gitbook/assets/business-partnerships-header.png)
 
 ## Farms and Syrup Pools
 

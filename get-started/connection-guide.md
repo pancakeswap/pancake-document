@@ -1,6 +1,6 @@
 # Connect Your Wallet to PancakeSwap
 
-![](<../.gitbook/assets/docs-masthead-11- (1).png>)
+![](../.gitbook/assets/how-to-connect-wallet-header.png)
 
 You've made a wallet and gotten your BEP20 tokens, now you just need to connect your wallet with PancakeSwap and you're good to go!
 

@@ -1,6 +1,6 @@
 # PancakeSwap Intro
 
-![](<.gitbook/assets/masthead-twitter-3- (1) (1).png>)
+![](.gitbook/assets/intro-header.png)
 
 {% hint style="success" %}
 **PancakeSwap helps you make the most out of your crypto in three ways:**

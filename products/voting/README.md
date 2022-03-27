@@ -1,10 +1,8 @@
 # 🗳 Voting
 
-![](../../.gitbook/assets/docs-masthead-1-.png)
+![](../../.gitbook/assets/voting-header.png)
 
 Voting gives a voice to the PancakeSwap community, letting the community have a say in how PancakeSwap develops into the future.
-
-![](../../.gitbook/assets/screenshot-2020-11-02-at-3.56.39-pm.png)
 
 Check out [PancakeSwap's native voting portal](https://voting.pancakeswap.finance/?\_gl=1\*pc8o0h\*\_ga\*MTUzNDEzNDQxMy4xNjAwNzkzNDM4\*\_ga\_334KNG3DMQ\*MTYwNDMwMTk4Ni42MC4xLjE2MDQzMDM3MDIuMA..#/) on the PancakeSwap website.
 

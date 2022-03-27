@@ -1,6 +1,6 @@
 # 🍯 Syrup Pools
 
-![Ahh, delicious](<../../.gitbook/assets/masthead (1).png>)
+![](../../.gitbook/assets/syrup-poos-header.png)
 
 ### **What are Syrup Pools?**
 

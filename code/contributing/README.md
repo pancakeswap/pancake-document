@@ -4,7 +4,7 @@ description: Thank you for expressing your interest in contributing to PancakeSw
 
 # Contributing
 
-![](<../../.gitbook/assets/docs-masthead-18- (1).png>)
+![](../../.gitbook/assets/developers-header.png)
 
 PancakeSwap is an open-source project. If you want to contribute to the project, this section is here to guide you through your first steps with the PancakeSwap team 🥞
 

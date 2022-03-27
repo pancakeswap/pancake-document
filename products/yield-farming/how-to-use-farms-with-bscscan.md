@@ -1,6 +1,6 @@
 # How to Use Farms with BscScan
 
-![](<../../.gitbook/assets/docs-masthead-21- (2).png>)
+![](../../.gitbook/assets/how-to-yield-farms-bscscan-header.png)
 
 Since it requires several steps, using Farms with PancakeSwap can seem intimidating at first. This guide will walk you through using the Farms contract directly through BscScan.
 

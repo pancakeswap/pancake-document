@@ -1,6 +1,6 @@
 # How to Add/Remove Liquidity
 
-![](../../.gitbook/assets/docs-masthead-2-.png)
+![](../../.gitbook/assets/how-to-add-remove-liquidity-header.png)
 
 "Liquidity" is central to how PancakeSwap's Exchange works. You can add liquidity for any token pair by staking both through the Liquidity page.
 
