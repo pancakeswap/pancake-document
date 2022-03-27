@@ -1,2 +1,2 @@
-# Info
+# 📈 Analytics \(Info\)
 
