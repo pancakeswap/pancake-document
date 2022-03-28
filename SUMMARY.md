@@ -76,25 +76,3 @@
   * [Auto CAKE Syrup Pool (CakeVault)](code/smart-contracts/cakevault.md)
   * [Prediction V2](code/smart-contracts/prediction-v2.md)
   * [Lottery v2](code/smart-contracts/lottery-v2.md)
-
-## Hiring
-
-* [Become a Chef](hiring/become-a-chef/README.md)
-  * [Solidity Engineer](hiring/become-a-chef/solidity-engineer.md)
-  * [DevOps Engineer](hiring/become-a-chef/devops-engineer.md)
-  * [Social Media Marketing Manager](hiring/become-a-chef/social-media-marketing-manager.md)
-  * [Product Lead](hiring/become-a-chef/product-lead.md)
-  * [Frontend Engineer](hiring/become-a-chef/frontend-engineer.md)
-  * [Blockchain QA Engineer](hiring/become-a-chef/senior-qa-engineer.md)
-  * [Communications/Public Relations Manager](hiring/become-a-chef/communications-public-relations-manager.md)
-  * [Business Development Manager](hiring/become-a-chef/business-development-manager.md)
-
-## Contract Governance <a href="#governance" id="governance"></a>
-
-* [Lottery](governance/lottery/README.md)
-  * [Lottery Contract](governance/lottery/lottery-contract.md)
-* [Prediction](governance/prediction.md)
-* [Farms](governance/farms.md)
-* [Syrup Pools](governance/syrup-pools/README.md)
-  * [SmartChefInitializable](governance/syrup-pools/smartchefinitializable.md)
-  * [PoolDeployer](governance/syrup-pools/pooldeployer.md)
