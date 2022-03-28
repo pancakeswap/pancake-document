@@ -8,7 +8,7 @@
 
 ![Image for post](https://miro.medium.com/max/512/0*roteFKZKRqO-IWYU)
 
-2. Unlock your Binance Smart Chain Wallet \(top right-hand side\).
+2. Unlock your BNB Smart Chain Wallet \(top right-hand side\).
 
 
 

@@ -4,40 +4,86 @@ description: '"Don''t call it a roadmap"'
 
 # Roadmap
 
-OK so it's not actually a roadmap: it's a to-do list, in no particular order, with no particular timeline. This is how we work: as fast as we can, on the things we can. Pivoting is a way of life.
+![](.gitbook/assets/roadmap-header.png)
 
-#### **Full Site Rework**
+_Updated Jan. 21, 2022_
 
-* [x] New homepage
-* [x] Harvest all & stake all
-* [x] Personal dashboard
-* [x] Improved UX
-* [x] Faster site
-* [x] Mobile friendly
-* [x] New navigation system
+### Finally, it's a roadmap not a to-do list.
 
-#### **CAKE Staking \(Syrup Pools\)**
+Crypto moves fast, and we move fast too.
 
-* [x] **CAKE Staking**
-* [x] **Core Pools**
-* [x] **Community Pools:** Host BSC community project Pools, support with 0.1-0.2x CAKE farms
+Pivoting is a way of life.
 
-#### Other products
+That means that we don’t publicly commit to specific timelines, so we can organize our development priorities based on market changes and developer resources.
 
-* [x] **Lottery \(core feature\)**
-* [x] **Analytics \(core feature\)**
-* [x] **Voting \(core feature\)**
-* [x] **IFO \(Initial Farm Offering\):** Raise funds for your project in CAKE-BNB LP tokens. After redeeming the LP tokens, the BNB is distributed to the project and the CAKE is burned.
-* [ ] **Lending & Borrowing:** Lend and borrow BSC and LP tokens - CAKE provides rate discount
-* [ ] **Margin Trading:** Trade BSC tokens with leverage on-chain — periodic CAKE buyback and burn
-* [x] **NFT Ecosystem:** Mint, trade, and more — all paid in CAKE
-  * [x] First NFT round
-* [ ] **NFT-based Gamification:** Complete tasks, level up etc. to earn NFTs — use CAKE to mint
-* [ ] **Binary Options**
-* [ ] **Fixed-term Staking**
-* [x] **Customizable User Profile**
+![](.gitbook/assets/roadmap.png)
 
-![Comin&apos; up](.gitbook/assets/image%20%281%29.png)
+{% hint style="info" %}
+Some items didn't make it into the "Coming Up" section due to security or confidential reason.
+{% endhint %}
 
+### Ongoing/Recurring
 
+* Site-wide UI/UX Upgrates
+* Regular NFT Drops
+* Regular IFOs, Pools + Farms, Farm Auctions
+* Listing More NFT Collections
+
+### Coming Up in Q1
+
+* IFO 3.1: Private Sales & New IFO Syrup Pool
+* MasterChef v2: Ready for Future Products and New Tokenomics
+* Perpetuals Trading
+* Limit Order
+* Fixed-term Staking
+* NFT Utility
+* NFT-based Gamification
+* Hackathon
+* Lottery v3: New game types and more
+* Affiliate System
+
+### Backlogs
+
+* Overview pages for Earn, Win
+  * Personal dashboard
+  * Portfolio
+* NFT Market Phase 3 - open NFT platform
+
+### Done
+
+#### Trade
+
+* Charts & other trading features on-site
+* Migration to Exchange V2 (exchange, liquidity, farms)
+* Major performance upgrades
+* Team Battle 1 & 2(Trading Comps as a Service)
+
+#### Earn
+
+* CAKE Staking
+* Core Pools, Farms
+* Community Pools: Host BSC community project Pools, support with 0.1-0.2x CAKE farms
+* Auto-compounding CAKE-CAKE Syrup Pool
+* Syrup Pool Boosts
+* APR/APY Calculator v2
+* Harvest all function
+
+#### Win
+
+* Lottery v2
+* Prediction v0.2
+
+#### NFT Ecosystem
+
+* NFT Market Phase 1 & 2(buy & sell whitelisted NFT collections)
+* Customizable User Profile
+* NFT drops
+* Pancake Squad generative NFT collection
+
+#### Site Upgrades / CAKE / Other Products
+
+* Mobile-first navigation & site overhaul
+* Analytics: Info site
+* Voting v2
+* IFO CAKE Pool & IFO 3.0
 
