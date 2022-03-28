@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/how-to-porediction-header.png)
 
-Playing PancakeSwap’s Prediction lets you test your foresight to earn rewards. Use your market knowledge or gut feeling to predict if the BNBUSDT price will go up or down in the near future. Get it right and you’ll collect a share of the round’s prize pool!
+Playing PancakeSwap’s Prediction lets you test your foresight to earn rewards. Use your market knowledge or gut feeling to predict if the BNBUSD price will go up or down in the near future. Get it right and you’ll collect a share of the round’s prize pool!
 
 {% hint style="warning" %}
 PancakeSwap’s Prediction is a new product that we still consider to be in beta. We may make changes in the future to improve Prediction. As always, the PancakeSwap team will inform users of any changes that will impact how the product works.
