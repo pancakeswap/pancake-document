@@ -1,2 +1,0 @@
-# Yield Farming
-
