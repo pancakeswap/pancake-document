@@ -1,2 +1,0 @@
-# Click Here for Help
-
