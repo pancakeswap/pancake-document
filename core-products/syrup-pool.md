@@ -14,7 +14,7 @@ Sounds… “sweet”, right? 😏
 
 **SYRUP Pool: where sweet, new tokens meet the PancakeSwap community!**
 
-Syrup Pool allows BNB Smart Chain projects to bootstrap adoption by distributing a portion of their tokens to SYRUP token holders.
+Syrup Pool allows Binance Smart Chain projects to bootstrap adoption by distributing a portion of their tokens to SYRUP token holders.
 
 Syrup Pool will be split into two sections: Core and Community.
 

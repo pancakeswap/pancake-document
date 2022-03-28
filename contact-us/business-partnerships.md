@@ -1,84 +1,58 @@
-# Business Partnerships
+---
+description: PancakeSwap(パンケーキスワップ)とのパートナー提携方法について紹介します。
+---
 
-![](../.gitbook/assets/business-partnerships-header.png)
+# パートナー提携について
 
-## Farms and Syrup Pools
+## シロッププールとファーム
 
-Farms incentivize users to provide liquidity for your trading pair by distributing CAKE to your pair's LP Token holders.
+シロッププール：\
+プールにCAKEをステーキングしているユーザーにパートナープロジェクト・トークンを配布します。
 
-Syrup Pools are a way of distributing your tokens to BSC users who stake CAKE in the pool.
+ファーム：\
+パートナープロジェクト指定ペアのLPトークンを保有するユーザーにCAKEを配布します。このようにユーザーにインセンティブを与えることで、パートナープロジェクト・トークンの流動性向上に貢献します。
 
-These two products go hand-in-paw on PancakeSwap: when a project provides their tokens for a Syrup Pool, we'll also create a Farm. If you're looking to distribute tokens and incentivize liquidity, get in touch.
+PancakeSwapにおいて、この2つは密接な関係にあります。パートナーがシロッププールにプロジェクトトークンを提供すると、同時にファームも作成されます。
 
-**​**[**Apply to run a Farm or Syrup Pool**](https://docs.google.com/forms/d/e/1FAIpQLSfQNsAfh98SAfcqJKR3is2hdvMRdnvfd2F3Hql96vXHgIi3Bw/viewform)**​**
+もしあなたがトークンを配布しプロジェクトトークンの流動性を高めたいとお考えでしたら、ぜひご連絡ください。
 
-* Please don't email us to apply - we only respond to applications via the application form.&#x20;
-* Please don't chase us for a response on your application. We have a constant backlog of quality projects reaching out to us.
+[シロッププール開設に応募する](https://docs.google.com/forms/d/e/1FAIpQLScGdT5rrVMr4WOWr08pvcroSeuIOtEJf1sVdQGVdcAOqryigQ/viewform)
 
-### How long will it take to get a response?
+* メールによるご応募はご遠慮ください。\
+  私たちは上記フォームからのご応募のみ受け付けています。
+* 応募に関する回答を求める重ねてのご連絡はご遠慮ください。\
+  日々すばらしいプロジェクトからオファーをいただいており、私たちはそれらをひとつずつ確認しています。回答までお時間をいただく場合があることをご了承ください。
 
-We aim to respond to applications within a week, but due to a large number of requests, we’re unable to respond to every single applicant. If you don’t hear back from us within two weeks of applying, try reaching out to[ t.me/ChefTaro](https://t.me/ChefTaro) on Telegram, with **the name of your project, your token ticker, and the date you applied.**
+## IFOs (トークンセール)
 
-### What’s the difference between a Core Farm VS Farm Auction
+"IFO" (Initial Farm Offering) はPancakeSwapが切り拓いた新しいトークンセールモデルです。
 
-A Core Farm is usually offered to projects who have shown excellent trading volumes on PancakeSwap and have met the standards of our internal review process, while any project can participate in a Farm Auction and win a Farm slot.
+* ユーザーはCAKE-BNB LPトークンを支払ってパートナープロジェクト・トークンを購入します。
+* セール終了後、私たちはBNBをパートナーに分配し、CAKEをバーンします。
 
-### What are the qualifying criteria for Community VS Core?
+IFOsのより詳しい仕組みについては[こちら](https://docs.pancakeswap.finance/v/japanese/products/ifo-initial-farm-offering/ifo-initial-farm-offering)をご覧ください。
 
-Qualifying criteria for Community Farms and Core Farms/Pools are based on our internal review process. We don’t publish them externally. If you’re not eligible for a Core Farm, we may invite you to apply for a Community Farm instead.
+[IFO開催に応募する](https://docs.google.com/forms/d/e/1FAIpQLScGdT5rrVMr4WOWr08pvcroSeuIOtEJf1sVdQGVdcAOqryigQ/viewform)
 
-### Can I get a larger Farm multiplier? Or can I extend my Syrup Pool and Farm?
+* メールによるご応募はご遠慮ください。\
+  私たちは上記フォームからのご応募のみ受け付けています。
+* 応募に関する回答を求める重ねてのご連絡はご遠慮ください。\
+  日々すばらしいプロジェクトからオファーをいただいており、私たちはそれらをひとつずつ確認しています。回答までお時間をいただく場合があることをご了承ください。
 
-If you’ve already got an ongoing Pool and Farm, you may be able to extend the timeline via a Boost Pool. If you wish to increase the multiplier, the team will consider it if the 30-day volume is increased. Contact us via your existing PancakeSwap communication channels for enquiries.
+## 取引所へのトークン上場について
 
-## IFOs (Token Sales)
+### 取引所へのトークン上場方法
 
-"IFO" (Initial Farm Offering) is a new model of token sale pioneered by PancakeSwap. Here's how it works, in short:&#x20;
+誰でもPancakeSwap取引所にBEP-20トークンを”上場”させることができます。\
+上場方法は[流動性プールに流動性を追加する](https://docs.pancakeswap.finance/v/japanese/products/pancakeswap-exchange/pancakeswap-pools)だけです。ユーザーは取引所にトークンアドレスを直接入力することで、上場されたトークンをトレードすることができます。
 
-* Users buy your token with CAKE tokens.
-* After the sale, we distribute the CAKE to you.
+### デフォルトリストへのトークン登録方法
 
-Learn more about [how IFOs work.](https://medium.com/pancakeswap/initial-farm-offering-ifo-3-0-ifo-staking-pool-622d8bd356f1)
+トークンアドレスの直接入力なしにPancakeSwap取引所でトークンをトレードするには、トークンがデフォルトリストに登録されている必要があります。この登録はシロッププール開設またはIFO開催を通してのみ行われます。
 
-[Apply to run an IFO](https://docs.google.com/forms/d/e/1FAIpQLSf0Vmy3k0KyXtXwqxr8QLjD8Xd6KBAmkYxcBRRVTUYJVX17fA/viewform)
+デフォルトリストへのトークン登録個別リクエストには対応していません。&#x20;
 
-* Please don't email us to apply - we only respond to applications via the application form.&#x20;
-* Please don't chase us for a response on your application. We have a constant backlog of quality projects reaching out to us.
+### トークンへのロゴ/アイコン追加方法
 
-### How long will it take to get a response?
-
-We aim to respond to applications within a week, but due to a large number of requests, we’re unable to respond to every single applicant. If you don’t hear back from us within two weeks of applying, try reaching out to[ t.me/ChefTaro](https://t.me/ChefTaro) on Telegram, with **the name of your project, your token ticker, and the date you applied.**
-
-## NFT Market <a href="#exchange" id="exchange"></a>
-
-[Apply to list](nft-market-applications.md#apply-for-nft-market-listing)
-
-## Listing on the Exchange <a href="#exchange" id="exchange"></a>
-
-### How can I list my token on the exchange?
-
-Anybody can "list" any BEP-20 network token on PancakeSwap. You don't need to contact us or ask permission. You just need to [add liquidity to a liquidity pool](../products/pancakeswap-exchange/pancakeswap-pools.md) - that's it. Traders can then trade your token by entering your token's contract address.
-
-### How can I add my token to the default list?
-
-The top 100 list is generated according to the highest volume for a specific period of time. As for the Extended list: projects hosting Farms will usually be added, and other tokens chosen by PancakeSwap core team may also be added.
-
-We don’t take applications for these lists. Users can still add your token manually by entering its contract address.
-
-### How can I add my token's logo/icon?
-
-Please add your icon to Trust Wallet’s assets repo, which PancakeSwap references: [https://github.com/trustwallet/assets](https://github.com/trustwallet/assets)
-
-### Someone made a fake copy of my token! Can you block it?
-
-Due to PancakeSwap’s nature as an AMM-based DEX, we’re not able to prevent the trading of any BEP-20 token. We recommend ensuring that your token contract is clearly visible and verifiable on your site, and educating your users about how to safely trade your token.
-
-### People get an error when trading my token. What can I do?
-
-Check our [Troubleshooting page](../help/troubleshooting.md) for a list of common errors on the exchange, and how to solve them.
-
-## Something else
-
-You can shoot us an email at info@pancakeswap.com if the above parts don't cover your questions.
-
-Please don't try to contact us via this email for [customer support](customer-support.md), that's not what it's for and we won't respond: your best option for getting help with the product is via the [Telegram or Reddit community](telegram.md).
+PancakeSwap取引所はトラストウォレットのすばらしいアイコンコレクションを参照しています。\
+トラストウォレットのロゴ/アイコン登録方法は[こちら](https://github.com/trustwallet/assets)
