@@ -11,7 +11,7 @@ Follow steps 1 through 3 on our [How to Stake in Syrup Pools](products/syrup-poo
 
 ![New Cake Pool](../../.gitbook/assets/cake-pool-enabled1-small.png)
 
-6\. For Flexible Staking simply press **Flexible**, enter the amount of CAKE you wish to stake, click **Confirm** and confirm the transaction in your wallet.
+6\. For Flexible Staking simply press **Flexible**, which will present a new window, enter the amount of CAKE you wish to stake, click **Confirm** and confirm the transaction in your wallet.
 
 ![Flexible Staking Deposit](../../.gitbook/assets/cake-pool-flex-deposit.png)
  
