@@ -1,6 +1,6 @@
 # New CAKE Syrup Pool
 
-### Stake CAKE, earn CAKE!
+## Stake CAKE, earn CAKE!
 
 PancakeSwap now offers one CAKE Syrup Pool with two staking options: flexible staking or fixed-term staking. Note that the Auto CAKE, IFO CAKE, and Manual CAKE pools will be retired upon launch of the new CAKE Syrup Pool with flexible and fixed-term staking. Keep reading on to learn more!
 
@@ -10,15 +10,13 @@ PancakeSwap now offers one CAKE Syrup Pool with two staking options: flexible st
 
 With both, you can simply stake your CAKE tokens to earn more CAKE tokens with no deposit fees. Both staking options auto-compound CAKE rewards for you. Flexible staking allows users to stake CAKE and earn rewards with the ability to unstake whenever they please. Fixed-term staking offers users the opportunity to maximize their yield and earn even more CAKE by locking their staked CAKE for a period of time they choose, earning a linearly boosted APY compared to flexible staking.
 
-Flexible staking and fixed-term staking are both part of the same pool to allow users easy migration between the two staking options. Because of this, you can only choose on staking option at a time.
-
-More details about the differences below:
+Flexible staking and fixed-term staking are both part of the same pool to allow users easy migration between the two staking options. **Because of this, you can only choose on staking option at a time.** More details about the differences below.
 
 ### Flexible Staking
 
 Stake your CAKE and forget about it! The CAKE you stake in this Syrup Pool will be automatically compounded (reinvested) for you, minus a small fee (same as old Auto CAKE Syrup Pool).
 
-**Unstaking fee**&#x20;
+**Unstaking fee**
 
 * **0.1%  if you unstake (withdraw) within 72 hours.**
 * Only applies within 3 days of manually staking.
@@ -31,15 +29,13 @@ Stake your CAKE and forget about it! The CAKE you stake in this Syrup Pool will 
 * **2%, subtracted automatically from each yield harvest**.
 * For example, if the harvest was 1 CAKE, then 0.02 CAKE would be subtracted as the performance fee.
 
-
-The CAKE collected via the unstaking fee and performance fee is **burned every week** as part of the regular CAKE token burns.&#x20;
+The CAKE collected via the unstaking fee and performance fee is **burned every week** as part of the regular CAKE token burns.
 
 This is a good thing for CAKE holders because it reduces the overall amount of CAKE tokens in existence, which helps reduce inflation.
 
-
 ### Fixed-Term Staking
 
-Stake your CAKE for a fixed amount of time to maximize yields and receive additional benefits! The staked CAKE will be automatically compounded during the entire lock duration. 
+Stake your CAKE for a fixed amount of time to maximize yields and receive additional benefits! The staked CAKE will be automatically compounded during the entire lock duration.
 
 * No performance fees
 * The longer you lock, the higher the boost applied on the yield!
@@ -47,21 +43,36 @@ Stake your CAKE for a fixed amount of time to maximize yields and receive additi
 * Once staked in fixed-term staking, you cannot withdraw until the end of your lock duration
 * IFO CAKE credit (the maximum amount of CAKE they can commit during an IFO) will be determined from fixed-term staking pool
 
-Chefs are cooking up additional benefits in the kitchen for Q2! 
+Chefs are cooking up additional benefits in the kitchen for Q2!
 
-## What happens at the end of the lock duration? What is "After Burning"?
+## FAQ
+
+### What the lock duration can we choose?
+
+You can choose from 1-52 weeks. What do you prefer?
+
+### Can I harvest the rewards even in the locked period?
+
+No. You can harvest the rewards only when the locked duration is ended. This is based on the yield/return we are providing as well as the technical implementations.
+
+### Can I use the both Flexible Staking CAKE pool and Fixed Term Staking CAKE pool at the same time?
+
+No. As it's mentioned in the above "What’s the difference" section, the both options are part of the same, single pool. We have multiple solutions coming in the future, but for now you can choose only one of them.
+
+### What happens at the end of the lock duration? What is "After Burning"?
 
 When your fixed-term staking period ends and your CAKE unlocks, you have 7 days to complete one of two options:
 
-1\. Lock your CAKE to begin a new fixed-term staking period, or 
-2\. Convert your staked CAKE to flexible staking (no 72 hour withdraw fee).
+* Lock your CAKE to begin a new fixed-term staking period\
+  or
+* Convert your staked CAKE to flexible staking (no 72 hour withdraw fee).
 
-![](https://github.com/ChefXander/pancake-document/blob/en/.gitbook/assets/cake-pool-lock-end.png)
+![](../../.gitbook/assets/cake-pool-lock-end.png)
 
 During this 7 day period, you will still earn CAKE at the same APY as your lock period.
 
-After 7 days if you have not done one of the two options, your staked CAKE will enter what is called "After Burning". In "After Burning" you will still earn CAKE but a portion of your rewards will be sent to burn at a linearly decreasing APR over 90 days, where your APR will be 0% after 90 days.  
+After 7 days if you have not done one of the two options, your staked CAKE will enter what is called "After Burning". In "After Burning" you will still earn CAKE but a portion of your rewards will be sent to burn at a linearly decreasing APR over 90 days, where your APR will be 0% after 90 days.
 
 The “After Burning” state will last for 90 days until all the CAKE rewards are burnt. So, to avoid missing out on CAKE rewards, at the end of your lock staking period, we recommend starting a new fixed-term staking period or converting your CAKE to flexible staking.
 
-![](https://github.com/ChefXander/pancake-document/blob/en/.gitbook/assets/cake-pool-lock-burn.png)
+![](<../../.gitbook/assets/cake-pool-lock-burn (1).png>)
