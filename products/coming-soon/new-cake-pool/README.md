@@ -47,17 +47,17 @@ Chefs are cooking up additional benefits in the kitchen for Q2!
 
 ## FAQ
 
-### What the lock duration can we choose?
+### What lock duration can we choose?
 
 You can choose from 1-52 weeks. What do you prefer?
 
-### Can I harvest the rewards even in the locked period?
+### Can I harvest the rewards during the locked period?
 
 No. You can harvest the rewards only when the locked duration is ended. This is based on the yield/return we are providing as well as the technical implementations.
 
-### Can I use the both Flexible Staking CAKE pool and Fixed Term Staking CAKE pool at the same time?
+### Can I use both Flexible Staking CAKE pool and Fixed Term Staking CAKE pool at the same time?
 
-No. As it's mentioned in the above "What’s the difference" section, the both options are part of the same, single pool. We have multiple solutions coming in the future, but for now you can choose only one of them.
+No. As it is mentioned above in the "What’s the difference" section, both options are part of the same, single pool. We have multiple solutions coming in the future, but for now you can choose only one of them.
 
 ### What happens at the end of the lock duration? What is "After Burning"?
 
