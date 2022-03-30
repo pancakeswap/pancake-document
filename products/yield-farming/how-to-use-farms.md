@@ -45,7 +45,7 @@ Now that you've found a Farm to stake in, you will need to add liquidity to get 
 1. Click on the row of the Farm you've chosen from the list. It will open to show more details.
 2. On the left, you'll see some links. Click the **Get (your pair) LP** link.
 
-![](<../../.gitbook/assets/image (35).png>)
+![](<../../.gitbook/assets/image (153) (1).png>)
 
 This will open the Add Liquidity page for your Farm's pair. We have a [guide to adding liquidity](https://docs.pancakeswap.finance/get-started/liquidity-guide) you can follow to get your LP Tokens.
 
@@ -87,7 +87,7 @@ You should now only see the pairs you have LP Tokens in on the list, making it e
 
 1. Find the Farm you have LP Tokens in, and click the row to view details. You will see a **-** and **+** button on the right-hand side. Click **-** to remove LP Tokens, or **+** to add more LP Tokens.
 
-![](<../../.gitbook/assets/image (102) (2) (2) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (102) (2) (2) (1) (1).png>)
 
 1. A window will open that looks like the one you used earlier to first stake your LP Tokens. Like last time, type the amount you would like to unstake/stake, or click **Max** to remove/add all available LP Tokens.
 

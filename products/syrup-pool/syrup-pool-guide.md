@@ -14,21 +14,21 @@ It's simpler than farming with PancakeSwap's Yield Farms because unlike the Farm
 
 1\. Go to the Pools page [here](https://pancakeswap.finance/pools).
 
-![](<../../.gitbook/assets/1-how-to-stake-in-syrup-pool (3).png>)
+![](<../../.gitbook/assets/1-how-to-stake-in-syrup-pool (1) (1) (2).png>)
 
 2\. Connect to your BNB Smart Chain-compatible wallet by clicking the **Connect** button (top right-hand side).
 
-![](<../../.gitbook/assets/2-how-to-stake-in-syrup-pool (1).png>)
+![](<../../.gitbook/assets/2-how-to-stake-in-syrup-pool (1) (1).png>)
 
 
 
 3\. Choose your wallet and connect.
 
-![](../../.gitbook/assets/3-how-to-stake-in-syrup-pool.png)
+![](../../.gitbook/assets/3-how-to-use-fixed-term-staking-option.png)
 
 4\. Choose which Syrup Pool you want to stake in.
 
-![](../../.gitbook/assets/4-how-to-stake-in-syrup-pool.png)
+![](<../../.gitbook/assets/4-how-to-stake-in-syrup-pool (1).png>)
 
 
 
@@ -54,13 +54,13 @@ Other Syrup Pools let you stake your CAKE to earn dozens of other cool tokens. M
 
 8\. Click **Confirm**. Your wallet will ask you to confirm the action.
 
-![](<../../.gitbook/assets/image (28).png>)
+![](<../../.gitbook/assets/image (22) (1).png>)
 
 9\. The Confirm button will change to "Confirming", then once the transaction is successful, you’ll see your staked amount change and the button will change again.
 
 10\. You should now be able to see details on your Syrup Pool. Auto CAKE will show a countdown until the unstaking fee ends. The other pools will show a **Collect** button to claim your staking rewards into your wallet.
 
-![](<../../.gitbook/assets/image (25).png>)
+![](<../../.gitbook/assets/image (59) (1).png>)
 
 ### **Adding and removing CAKE from a pool**
 

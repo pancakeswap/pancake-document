@@ -4,7 +4,7 @@
 
 You've now got two delicious flavors of CAKE-CAKE Syrup Pool to choose from: Auto-compounding, and Manual. Read on to learn more!
 
-![Auto CAKE & Manual CAKE Pools](<../../.gitbook/assets/auto and manual pools.png>)
+![Auto CAKE & Manual CAKE Pools](../../.gitbook/assets/auto-and-manual-pools.png)
 
 ### What’s the difference between the “Auto CAKE Pool” and the “Manual CAKE Pool”? <a href="#docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86" id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
 

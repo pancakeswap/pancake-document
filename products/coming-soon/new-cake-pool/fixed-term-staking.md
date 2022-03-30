@@ -8,27 +8,27 @@ description: >-
 
 1\. Go to the Pools page [here](https://pancakeswap.finance/pools).
 
-![](../../../.gitbook/assets/1-how-to-stake-in-syrup-pool.png)
+![](<../../../.gitbook/assets/1-how-to-stake-in-syrup-pool (1) (1).png>)
 
 2\. Connect to your BNB Smart Chain-compatible wallet by clicking the **Connect** button (top right-hand side).
 
-![](<../../../.gitbook/assets/2-how-to-stake-in-syrup-pool (1) (3).png>)
+![](<../../../.gitbook/assets/2-how-to-stake-in-syrup-pool (1) (1) (3).png>)
 
 3\. Choose your wallet and connect.
 
-![](../../../.gitbook/assets/3-how-to-use-fixed-term-staking-option.png)
+![](<../../../.gitbook/assets/3-how-to-stake-in-syrup-pool (1).png>)
 
 4\. Choose the CAKE Syrup Pool and click the **Enable** button. Your wallet will ask you to confirm the action.
 
-![Cake Pool](../../../.gitbook/assets/cake-pool-notenable.png)
+![](../../../.gitbook/assets/cake-pool-notenable.png)
 
 5\. The **Enable** button should now be replaced with **Flexible** and **Locked**. Click the button to bring up the staking menu.
 
-![New Cake Pool](../../../.gitbook/assets/cake-pool-enabled1-small.png)
+![](../../../.gitbook/assets/cake-pool-enabled1-small.png)
 
 6\. For Fixed-Term Staking simply press **Locked**, which will present you with a new window, enter the amount of CAKE you wish to stake and for how long you want to lock your CAKE for. Below that, you will find a summary of your position, including APY, lock duration, and unlock time. Double check to make sure you are okay with the lock duration and amount staked, click **Confirm** and confirm the transaction in your wallet.
 
-![Lock Pool Deposit](../../../.gitbook/assets/cake-pool-lock.png)
+![](../../../.gitbook/assets/cake-pool-lock.png)
 
 _We are still refining our UI_ _including more precise unlock_ _durations and a possible countdown_
 

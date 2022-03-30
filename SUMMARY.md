@@ -22,10 +22,6 @@
 
 ## Products
 
-* [🍳Coming Soon!](products/coming-soon/README.md)
-  * [New CAKE Syrup Pool](products/coming-soon/new-cake-pool/README.md)
-    * [How to use Flexible Staking option](products/coming-soon/new-cake-pool/flexible-staking.md)
-    * [How to use Fixed Term Staking option](products/coming-soon/new-cake-pool/fixed-term-staking.md)
 * [🔄 Exchange](products/pancakeswap-exchange/README.md)
   * [Token Swaps](products/pancakeswap-exchange/trade.md)
   * [How to Trade](products/pancakeswap-exchange/trade-guide.md)
@@ -60,6 +56,10 @@
 * [🗳 Voting](products/voting/README.md)
   * [How to Vote](products/voting/voting-guide.md)
   * [How to Vote with SafePal Wallet](products/voting/how-to-vote-with-safepal-wallet.md)
+* [🍳Coming Soon!](products/coming-soon/README.md)
+  * [New CAKE Syrup Pool](products/coming-soon/new-cake-pool/README.md)
+    * [How to use Flexible Staking option](products/coming-soon/new-cake-pool/flexible-staking.md)
+    * [How to use Fixed Term Staking option](products/coming-soon/new-cake-pool/fixed-term-staking.md)
 
 ## Tokenomics
 
