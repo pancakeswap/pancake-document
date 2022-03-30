@@ -48,3 +48,20 @@ Stake your CAKE for a fixed amount of time to maximize yields and receive additi
 * IFO CAKE credit (the maximum amount of CAKE they can commit during an IFO) will be determined from fixed-term staking pool
 
 Chefs are cooking up additional benefits in the kitchen for Q2! 
+
+## What happens at the end of the lock duration? What is "After Burning"?
+
+When your fixed-term staking period ends and your CAKE unlocks, you have 7 days to complete one of two options:
+
+1\. Lock your CAKE to begin a new fixed-term staking period, or 
+2\. Convert your staked CAKE to flexible staking (no 72 hour withdraw fee).
+
+![](https://github.com/ChefXander/pancake-document/blob/en/.gitbook/assets/cake-pool-lock-end.png)
+
+During this 7 day period, you will still earn CAKE at the same APY as your lock period.
+
+After 7 days if you have not done one of the two options, your staked CAKE will enter what is called "After Burning". In "After Burning" you will still earn CAKE but a portion of your rewards will be sent to burn at a linearly decreasing APR over 90 days, where your APR will be 0% after 90 days.  
+
+The “After Burning” state will last for 90 days until all the CAKE rewards are burnt. So, to avoid missing out on CAKE rewards, at the end of your lock staking period, we recommend starting a new fixed-term staking period or converting your CAKE to flexible staking.
+
+![](https://github.com/ChefXander/pancake-document/blob/en/.gitbook/assets/cake-pool-lock-burn.png)
