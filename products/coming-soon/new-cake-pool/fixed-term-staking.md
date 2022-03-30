@@ -14,9 +14,9 @@ description: >-
 
 ![](<../../../.gitbook/assets/2-how-to-stake-in-syrup-pool (1) (3).png>)
 
-3\. Click **Unlock Wallet**.
+3\. Choose your wallet and connect.
 
-![](<../../../.gitbook/assets/3-how-to-stake-in-syrup-pool (3).png>)
+![](../../../.gitbook/assets/3-how-to-use-fixed-term-staking-option.png)
 
 4\. Choose the CAKE Syrup Pool and click the **Enable** button. Your wallet will ask you to confirm the action.
 

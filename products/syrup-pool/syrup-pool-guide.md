@@ -8,7 +8,7 @@ description: 'Syrup Pools: the simplest way to earn on PancakeSwap'
 
 Staking in [Syrup Pools](https://docs.pancakeswap.finance/products/syrup-pool) lets you earn CAKE or other tokens while you sleep!
 
-It's simpler than farming with PancakeSwap's Yield Farms, because unlike the Farms, you only need to stake **one token** to start earning: usually CAKE.
+It's simpler than farming with PancakeSwap's Yield Farms because unlike the Farms, you only need to stake **one token** to start earning: usually CAKE.
 
 ## **Getting started with Syrup Pool staking**
 
@@ -22,9 +22,9 @@ It's simpler than farming with PancakeSwap's Yield Farms, because unlike the Far
 
 
 
-3\. Click **Unlock Wallet**.
+3\. Choose your wallet and connect.
 
-![](<../../.gitbook/assets/3-how-to-stake-in-syrup-pool (2).png>)
+![](../../.gitbook/assets/3-how-to-stake-in-syrup-pool.png)
 
 4\. Choose which Syrup Pool you want to stake in.
 
