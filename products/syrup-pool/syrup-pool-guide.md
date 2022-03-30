@@ -30,7 +30,7 @@ It's simpler than farming with PancakeSwap's Yield Farms, because unlike the Far
 
 **Manual CAKE** doesn’t automatically compound like Auto CAKE. You’ll need to harvest and compound your earnings manually.
 
-Other Syrup Pools let you stake your CAKE to earn dozens of other cool tokens. Make sure you check them out.\\
+Other Syrup Pools let you stake your CAKE to earn dozens of other cool tokens. Make sure you check them out.
 
 ***
 
@@ -48,13 +48,13 @@ Other Syrup Pools let you stake your CAKE to earn dozens of other cool tokens. M
 
 ![](<../../.gitbook/assets/image (28).png>)
 
-9\. The Confirm button will change to \*\*"\*\*Confirming", then once the transaction is successful, you’ll see your staked amount change and the button will change again.
+9\. The Confirm button will change to "Confirming", then once the transaction is successful, you’ll see your staked amount change and the button will change again.
 
 10\. You should now be able to see details on your Syrup Pool. Auto CAKE will show a countdown until the unstaking fee ends. The other pools will show a **Collect** button to claim your staking rewards into your wallet.
 
 ![](<../../.gitbook/assets/image (25).png>)
 
-### **Adding and removing CAKE from a pool** \*\*\*\*
+### **Adding and removing CAKE from a pool** 
 
 You can easily add more CAKE to a Syrup Pool, or move some CAKE to a more profitable pool. Here’s how you can move your staked CAKE.
 
