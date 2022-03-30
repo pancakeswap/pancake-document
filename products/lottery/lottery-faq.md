@@ -79,4 +79,4 @@ When people buy tickets, the CAKE they spend is added to the lottery pot. In add
 
 This injection schedule started with round 440:
 
-![Lottery injection schedule](<../../.gitbook/assets/Lottery Schedule Update Feb 4.png>)
+![Lottery injection schedule](../../.gitbook/assets/Lottery-Schedule-Update-Feb-4.png)

@@ -12,7 +12,7 @@ description: >-
 
 2\. Connect to your BNB Smart Chain-compatible wallet by clicking the **Connect** button (top right-hand side).
 
-![](<../../../.gitbook/assets/2-how-to-stake-in-syrup-pool (1).png>)
+![](<../../../.gitbook/assets/2-how-to-stake-in-syrup-pool (1) (3).png>)
 
 3\. Click **Unlock Wallet**.
 
