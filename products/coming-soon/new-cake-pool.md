@@ -6,11 +6,13 @@ PancakeSwap now offers one CAKE Syrup Pool with two staking options: flexible st
 
 ![New Cake Pool](../../.gitbook/assets/cake-pool-enabled1.png)
 
-## What’s the difference between “Flexible” and “Fixed-Term”?
+## What’s the difference between “Flexible” and “Fixed-Term” staking?
 
-**With both pools, you can simply stake your CAKE tokens to earn more CAKE tokens with no deposit fees.**&#x20;
+With both, you can simply stake your CAKE tokens to earn more CAKE tokens with no deposit fees. Both staking options auto-compound CAKE rewards for you. Flexible staking allows users to stake CAKE and earn rewards with the ability to unstake whenever they please. Fixed-term staking offers users the opportunity to maximize their yield and earn even more CAKE by locking their staked CAKE for a period of time they choose, earning a linearly boosted APY compared to flexible staking.
 
-But there are differences:
+Flexible staking and fixed-term staking are both part of the same pool to allow users easy migration between the two staking options. Because of this, you can only choose on staking option at a time.
+
+More details about the differences below:
 
 ### Flexible Staking
 
@@ -29,11 +31,11 @@ Stake your CAKE and forget about it! The CAKE you stake in this Syrup Pool will 
 * **2%, subtracted automatically from each yield harvest**.
 * For example, if the harvest was 1 CAKE, then 0.02 CAKE would be subtracted as the performance fee.
 
-{% hint style="info" %}
+
 The CAKE collected via the unstaking fee and performance fee is **burned every week** as part of the regular CAKE token burns.&#x20;
 
 This is a good thing for CAKE holders because it reduces the overall amount of CAKE tokens in existence, which helps reduce inflation.
-{% endhint %}
+
 
 ### Fixed-Term Staking
 
