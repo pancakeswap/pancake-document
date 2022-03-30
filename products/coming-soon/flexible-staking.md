@@ -17,4 +17,5 @@ Follow steps 1 through 3 on our [How to Stake in Syrup Pools](products/syrup-poo
  
 Want to convert your flexible staking to fixed-term staking to earn more CAKE? Simply click **Convert to Lock** and choose how long you want to lock your CAKE. 
 
-![Flexible Staking Convert to Fixed](../../.gitbook/assets/cake-pool-flex-convert.png)
+![Flexible Staking Convert to Fixed](../../.gitbook/assets/cake-pool-flex-convert.png) ![Flexible Staking Convert Lock](../../.gitbook/assets/cake-pool-convert-lock.png) 
+
