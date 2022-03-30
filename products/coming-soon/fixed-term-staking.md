@@ -20,17 +20,17 @@ Changed your mind during the lock staking duration? No problem. You can always e
 Please note that you can not shorten the locking period nor withdraw your CAKE prematurely. 
 
 ## Adding more CAKE to your lock
-Want to add more CAKE into the fixed-term pool? Easy. You can do that by renewing your fixed-term staking position. Simply click "Add CAKE", and choose how much CAKE you want to deposit.
+You can easily do that by renewing your fixed-term staking position. Simply click "Add CAKE", and choose how much CAKE you want to deposit.
 
-Please note that adding more CAKE to an existing lock resets your staking term based off the remaining lock duration, essentially “renewing” your fixed-term staking position. This results in lower APY because your compounding over a short period of time. 
+
+
+Please note that adding more CAKE to an existing lock resets your staking term based off the remaining lock duration, essentially “renewing” your fixed-term staking position. This results in lower APY because your compounding over a shorter period of time. 
 
 ## What happens at the end of the lock duration? What is "After Burning"?
 
-
 When your fixed-term staking period ends and your CAKE unlocks, you have 7 days to complete one of two options:
 
-Lock your CAKE to begin a new fixed-term staking period, or
-Convert your staked CAKE to flexible staking
+Lock your CAKE to begin a new fixed-term staking period, or convert your staked CAKE to flexible staking.
 
 During this 7 day period, you will still earn CAKE at the same APY as your lock period.
 
