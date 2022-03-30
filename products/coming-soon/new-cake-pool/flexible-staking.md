@@ -8,15 +8,15 @@ description: >-
 
 1\. Go to the Pools page [here](https://pancakeswap.finance/pools).
 
-![](<../../../.gitbook/assets/1-how-to-stake-in-syrup-pool (3).png>)
+![](<../../../.gitbook/assets/1-how-to-stake-in-syrup-pool (1) (1).png>)
 
 2\. Connect to your BNB Smart Chain-compatible wallet by clicking the **Connect** button (top right-hand side).
 
-![](<../../../.gitbook/assets/2-how-to-stake-in-syrup-pool (2).png>)
+![](<../../../.gitbook/assets/2-how-to-stake-in-syrup-pool (1) (1).png>)
 
 3\. Click **Unlock Wallet**.
 
-![](<../../../.gitbook/assets/3-how-to-stake-in-syrup-pool (2).png>)
+![](<../../../.gitbook/assets/3-how-to-stake-in-syrup-pool (1) (1).png>)
 
 4\. Choose the CAKE Syrup Pool and click the **Enable** button. Your wallet will ask you to confirm the action.
 

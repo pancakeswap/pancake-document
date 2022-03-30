@@ -28,11 +28,11 @@ This method works by essentially overwriting the stuck transaction with another,
 
 4\. Scroll down until you see **Advanced gas controls**. Toggle this to ON.
 
-![](../.gitbook/assets/1-4-MetaMask\_gas\_control\_on.png)
+![](<../.gitbook/assets/1-4-MetaMask\_gas\_control\_on (1).png>)
 
 5\. Still in Advanced settings, keep scrolling until you see **Customize transaction nonce**. Toggle this to ON.
 
-![](<../.gitbook/assets/1-4-MetaMask\_gas\_control\_on (1).png>)
+![](../.gitbook/assets/1-4-MetaMask\_gas\_control\_on.png)
 
 ### **2. Find Your Stuck Transaction**
 

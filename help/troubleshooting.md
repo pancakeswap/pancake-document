@@ -24,7 +24,7 @@ You're trying to swap tokens, but your slippage tolerance is too low or liquidit
 2. Try trading a smaller amount at one time.
 3. Increase your slippage tolerance:
    1. Tap the settings icon on the liquidity page.
-   2. Increase your slippage tolerance a little and try again. ![](<../.gitbook/assets/image (9) (4) (2) (1) (2) (1) (1) (3).png>)
+   2. Increase your slippage tolerance a little and try again. ![](<../.gitbook/assets/image (9) (4) (2) (1) (1) (3).png>)
 4. Lastly, try inputting an amount with fewer decimal places.
 {% endtab %}
 
@@ -54,7 +54,7 @@ Still doesn't work?
 1. Tap the settings icon on the liquidity page.
 2. Increase your slippage tolerance a little and try again.
 
-![](<../.gitbook/assets/image (9) (4) (2) (1) (2) (1) (1) (4).png>)
+![](<../.gitbook/assets/image (9) (4) (2) (1) (1) (4).png>)
 {% endtab %}
 
 {% tab title="Reason" %}
@@ -124,7 +124,7 @@ This happened because you started making a transaction, but you didn't sign and 
 
 Try modifying the amount on “To” field. Therefore putting "(estimated)" symbol on “From”. Then initiate the swap immediately.
 
-![](<../.gitbook/assets/pancake-k-solution (2).png>)
+![](<../.gitbook/assets/Pancake-K-Solution (2).png>)
 
 This usually happen when you are trying to swap a token with its own fee.
 
