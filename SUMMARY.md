@@ -22,6 +22,9 @@
 
 ## Products
 
+* [coming-soon](products/coming-soon/new-cake-pool.md)
+  * [Flexible Staking](products/coming-soon/flexible-staking.md)
+  * [Fixed Term Staking](products/coming-soon/fixed-term-staking.md)
 * [🔄 Exchange](products/pancakeswap-exchange/README.md)
   * [Token Swaps](products/pancakeswap-exchange/trade.md)
   * [How to Trade](products/pancakeswap-exchange/trade-guide.md)
