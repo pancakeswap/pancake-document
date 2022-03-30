@@ -4,7 +4,7 @@
 
 PancakeSwap now offers one CAKE Syrup Pool with two staking options: flexible staking or fixed-term staking. Note that the Auto CAKE, IFO CAKE, and Manual CAKE pools will be retired upon launch of the new CAKE Syrup Pool with flexible and fixed-term staking. Keep reading on to learn more!
 
-![New Cake Pool](../../.gitbook/assets/cake-pool-enabled1.png)
+![New Cake Pool](../../../.gitbook/assets/cake-pool-enabled1.png)
 
 ## What’s the difference between “Flexible” and “Fixed-Term” staking?
 
@@ -67,7 +67,7 @@ When your fixed-term staking period ends and your CAKE unlocks, you have 7 days 
   or
 * Convert your staked CAKE to flexible staking (no 72 hour withdraw fee).
 
-![](../../.gitbook/assets/cake-pool-lock-end.png)
+![](../../../.gitbook/assets/cake-pool-lock-end.png)
 
 During this 7 day period, you will still earn CAKE at the same APY as your lock period.
 
@@ -75,4 +75,4 @@ After 7 days if you have not done one of the two options, your staked CAKE will 
 
 The “After Burning” state will last for 90 days until all the CAKE rewards are burnt. So, to avoid missing out on CAKE rewards, at the end of your lock staking period, we recommend starting a new fixed-term staking period or converting your CAKE to flexible staking.
 
-![](<../../.gitbook/assets/cake-pool-lock-burn (1).png>)
+![](<../../../.gitbook/assets/cake-pool-lock-burn (1).png>)
