@@ -13,6 +13,9 @@ Follow steps 1 through 3 on our [How to Stake in Syrup Pools](products/syrup-poo
 6\. For Fixed-Term Staking simply press **Locked**, which will present you with a new window, enter the amount of CAKE you wish to stake and for how long you want to lock your CAKE for. Below that, you will find a summary of your position, including APY, lock duration, and unlock time. Double check to make sure you are okay with the lock duration and amount staked, click **Confirm** and confirm the transaction in your wallet.
 
 ![Lock Pool Deposit](../../.gitbook/assets/cake-pool-lock.png)
+_We are still refining our UI
+including a possible countdown 
+on the remaining lock durations_
 
 ## Extending your lock staking duration
 Changed your mind during the lock staking duration? No problem. You can always extend the time of your locked CAKE by simply clicking "Extend" and choose how much time you want to add on top of the current lock . Remember, the longer you lock, the higher your yield will be boosted. The maximum locking duration is 52 weeks.
