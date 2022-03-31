@@ -51,7 +51,9 @@ Yes, you will need to click the **Check Now** button under "Are you a winner?" o
 
 ## How often is the lottery?
 
-A new Lottery round starts every 12 hours.
+A lottery draw occurs every 12 or 36 hours. One lottery draw occurs every day alternating between 0 AM UTC and 12 PM UTC, next rounds after the 0 AM UTC rounds will be after 36 hours, next rounds after the 12 PM UTC rounds will be after 12 hours. 
+
+![Lottery injection schedule](<../../.gitbook/assets/Lottery Schedule Update Feb 4.png>)
 
 ## What transaction fee will I pay for buying tickets?
 
@@ -77,6 +79,6 @@ Yes, each ticket is treated as a separate entry to the Lottery. Keep in mind tha
 
 When people buy tickets, the CAKE they spend is added to the lottery pot. In addition, 10,000 CAKE is also added (injected) to the lottery pot every other round on a regular schedule over the course of seven rounds per week.
 
-This injection schedule started with round 440:
+This injection schedule started with round 440.
 
 ![Lottery injection schedule](<../../.gitbook/assets/Lottery Schedule Update Feb 4.png>)
