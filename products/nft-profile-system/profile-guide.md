@@ -17,7 +17,7 @@ Having your profile created will let you to share your NFT profile picture and a
 
 2\. Under “Choose your Starter!”, pick one of the available bunny NFTs you’d like for your profile picture. The NFT will cost you 1 CAKE.
 
-![](<../../.gitbook/assets/image (162).png>)
+![](<../../.gitbook/assets/image (161).png>)
 
 For this example we’ll use Dollop.\
 ****
@@ -31,7 +31,7 @@ For this example we’ll use Dollop.\
 ****\
 ****
 
-![](<../../.gitbook/assets/image (166) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (166) (1) (1) (1) (1) (1).png>)
 
 4\. A new page will load saying “Choose collectible”. We’ll pick our Dollop we chose earlier. If you already own multiple NFTs you can choose one from a list of NFTs you own.
 
@@ -65,7 +65,7 @@ If you face "username keeps spinning" issue, please check [troubleshooting](http
 
 10\. Click the **Confirm** button, then confirm the action in your wallet. Once it's confirmed, click the **Complete Profile** button.
 
-![](<../../.gitbook/assets/image (176).png>)
+![](<../../.gitbook/assets/image (177).png>)
 
 11\. You’ll receive a message saying your profile contract will cost you 0.5 CAKE. Click **Enable,** then confirm the action in your wallet. After it's approved, click the **Confirm** button.
 

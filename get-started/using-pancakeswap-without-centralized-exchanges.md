@@ -63,7 +63,7 @@ Let's try moving USDT from Polygon (MATIC) blockchain to BSC using AnySwap.
 4. Connect your wallet and switch your network to Polygon (MATIC) Mainnet.
 5.  Select USDT on MATIC mainnet as "From", and USDT on BSC mainnet as "To". Then type in the amount of USDT you want to transfer.
 
-    ![](<../.gitbook/assets/MBP3-2021.10.19-055554AM-Google Chrome\_AnySwap - Cross Chain Protocol (1).png>)
+    ![](<../.gitbook/assets/MBP3-2021.10.19-055554AM-Google Chrome\_AnySwap - Cross Chain Protocol.png>)
 6. Click "Approve USDT" to approve your USDT.
 7. Additionally if you want AnySwap to deposit your USDT into another BSC address. Please use the "+ Send To" button.
 8. Click "Swap" and complete your final cross-chain transactions.
@@ -87,12 +87,12 @@ Let's try using O3 Hub to moving USDT from ERC-20 blockchain to BNB Smart Chain.
     ![](<../.gitbook/assets/MBP3-2021.10.19-053358AM-Google Chrome\_O3swap.png>)
 6.  Double check the “To” field is showing the correct BNB Smart Chain wallet address you’ve connected.
 
-    ![](<../.gitbook/assets/MBP3-2021.10.19-053441AM-Google Chrome\_O3swap (1).png>)
+    ![](<../.gitbook/assets/MBP3-2021.10.19-053441AM-Google Chrome\_O3swap.png>)
 7. Make sure everything is correct. Click "Swap".
 8. Follow the on-screen instructions to approve your USDT, and complete the final cross-chain transaction.
 9.  The entire process will take around 10-30 minutes to complete depends on how congested the network is. You can keep track of the progress on history tab.
 
-    ![](<../.gitbook/assets/MBP3-2021.10.19-054520AM-Google Chrome\_O3swap (1).png>)
+    ![](<../.gitbook/assets/MBP3-2021.10.19-054520AM-Google Chrome\_O3swap.png>)
 10. Once finished. You should receive your funds in your BSC wallet. Now you can start using PancakeSwap to swap some tokens on BNB Smart Chain!
 
 Additionally, you can check out [this user guide](https://docs.o3swap.com/o3-swap-user-guide/hub#2.-hub-swap) from O3 Swap.

@@ -4,9 +4,7 @@
 
 PancakeSwap now offers one CAKE Syrup Pool with two staking options: flexible staking or fixed-term staking. Note that the Auto CAKE, IFO CAKE, and Manual CAKE pools will be retired upon launch of the new CAKE Syrup Pool with flexible and fixed-term staking. Keep reading on to learn more!
 
-![](../../../.gitbook/assets/cake-pool-enabled1.png)
-
-_Note that actual APY values will vary_
+![\*Note that actual APY values will vary](../../../.gitbook/assets/cake-pool-enabled1.png)
 
 ## What’s the difference between “Flexible” and “Fixed-Term” staking?
 

@@ -51,9 +51,9 @@ Yes, you will need to click the **Check Now** button under "Are you a winner?" o
 
 ## How often is the lottery?
 
-A lottery draw occurs every 12 or 36 hours. One lottery draw occurs every day alternating between 0 AM UTC and 12 PM UTC, next rounds after the 0 AM UTC rounds will be after 36 hours, next rounds after the 12 PM UTC rounds will be after 12 hours. 
+A lottery draw occurs every 12 or 36 hours. One lottery draw occurs every day alternating between 0 AM UTC and 12 PM UTC, next rounds after the 0 AM UTC rounds will be after 36 hours, next rounds after the 12 PM UTC rounds will be after 12 hours.
 
-![Lottery injection schedule](<../../.gitbook/assets/Lottery Schedule Update Feb 4.png>)
+![Lottery injection schedule](../../.gitbook/assets/Lottery-Schedule-Update-Feb-4.png)
 
 ## What transaction fee will I pay for buying tickets?
 
