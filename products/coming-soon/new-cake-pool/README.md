@@ -69,7 +69,7 @@ No. As it is mentioned above in the "What’s the difference" section, both opti
 * ❌ Harvest rewards
 * ❌ Withdraw before locked term ends
 
-**While staking CAKE in flexible staking**
+**CAKE staked in flexible staking**
 
 * ✅ Add more CAKE to flexible staking
 * ✅ Harvest rewards any time
