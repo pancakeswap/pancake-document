@@ -10,21 +10,21 @@ description: >-
 
 2\. Connect to your BNB Smart Chain-compatible wallet by clicking the **Connect** button (top right-hand side).
 
-![](<../../../.gitbook/assets/2-how-to-stake-in-syrup-pool (1) (2).png>)
+![](<../../../.gitbook/assets/2-how-to-stake-in-syrup-pool (1) (1) (2) (1).png>)
 
-3\.  Choose your wallet and connect.
+3\. Choose your wallet and connect.
 
-![](../../../.gitbook/assets/3-how-to-stake-in-syrup-pool.png)
+![](<../../../.gitbook/assets/3-how-to-stake-in-syrup-pool (2).png>)
 
 4\. Choose the CAKE Syrup Pool and click the **Enable** button. Your wallet will ask you to confirm the action.
 
-![](../../../.gitbook/assets/cake-pool-notenable.png)
+![\*Note that actual APY values will vary](../../../.gitbook/assets/cake-pool-notenable.png)
 
 _Note that actual APY values will vary_
 
 5\. The **Enable** button should now be replaced with **Flexible** and Locked. Click the button to bring up the staking menu.
 
-![](../../../.gitbook/assets/cake-pool-enabled1-small.png)
+![\*Note that actual APY values will vary](../../../.gitbook/assets/cake-pool-enabled1-small.png)
 
 _Note that actual APY values will vary_
 
