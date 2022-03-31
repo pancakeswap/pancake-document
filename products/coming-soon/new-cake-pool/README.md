@@ -77,7 +77,7 @@ No. As it is mentioned above in the "What’s the difference" section, both opti
 * ✅ Convert all staked CAKE in flexible to fixed-term staking
 * ❌ Add CAKE to fixed-term staking if you have any CAKE in flexible staking
 
-We have multiple solutions coming in the future, but for now you can choose only one of them.
+We have multiple solutions coming in the future to allow users to use both flexible staking and fixed-term staking at the same time, but for now you can choose only one of them.
 
 ### What happens at the end of the lock duration? What is "After Burning"?
 
