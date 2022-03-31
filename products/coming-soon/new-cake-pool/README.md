@@ -18,6 +18,15 @@ Flexible staking and fixed-term staking are both part of the same pool to allow 
 
 Stake your CAKE and forget about it! The CAKE you stake in this Syrup Pool will be automatically compounded (reinvested) for you, minus a small fee (same as old Auto CAKE Syrup Pool).
 
+**If you have CAKE staked in flexible staking**
+
+* ✅ Add more CAKE to flexible staking
+* ✅ Harvest rewards any time
+* ✅ Withdraw any time (fees apply for first 72 hours, see below)
+* ✅ Convert all staked CAKE in flexible to fixed-term staking
+* ❌ Add CAKE to fixed-term staking if you have any CAKE in flexible staking
+* ❌ Convert part of the staked CAKE in flexible to fixed-term staking
+
 **Unstaking fee**
 
 * **0.1%  if you unstake (withdraw) within 72 hours.**
@@ -45,6 +54,14 @@ Stake your CAKE for a fixed amount of time to maximize yields and receive additi
 * Once staked in fixed-term staking, you cannot withdraw until the end of your lock duration
 * IFO CAKE credit (the maximum amount of CAKE they can commit during an IFO) will be determined from fixed-term staking pool
 
+**If you have CAKE locked in fixed-term staking**
+
+* ✅ Add more CAKE to lock
+* ✅ Extend lock period
+* ❌ Add CAKE to flexible staking
+* ❌ Harvest rewards
+* ❌ Withdraw before locked term ends
+
 Chefs are cooking up additional benefits in the kitchen for Q2!
 
 ## FAQ
@@ -59,23 +76,7 @@ No. You can harvest the rewards only when the locked duration is ended. This is 
 
 ### Can I use both Flexible Staking CAKE pool and Fixed-Term Staking CAKE pool at the same time?
 
-No. As it is mentioned above in the "What’s the difference" section, both options are part of the same, single pool. Below is what you can and can't do when CAKE is staked in one of the two staking options (can **never** have CAKE in both fixed-term and flexbile staking):
-
-**CAKE locked in fixed-term staking**
-
-* ✅ Add more CAKE to lock
-* ✅ Extend lock period
-* ❌ Add CAKE to flexible staking
-* ❌ Harvest rewards
-* ❌ Withdraw before locked term ends
-
-**CAKE staked in flexible staking**
-
-* ✅ Add more CAKE to flexible staking
-* ✅ Harvest rewards any time
-* ✅ Withdraw any time (fees apply for first 72 hr)
-* ✅ Convert all staked CAKE in flexible to fixed-term staking
-* ❌ Add CAKE to fixed-term staking if you have any CAKE in flexible staking
+No. As it is mentioned above in the "What’s the difference" section, both options are part of the same, single pool. You currently can **never** have CAKE in both fixed-term and flexbile staking.
 
 We have multiple solutions coming in the future to allow users to use both flexible staking and fixed-term staking at the same time, but for now you can choose only one of them.
 
