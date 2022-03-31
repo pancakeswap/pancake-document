@@ -57,9 +57,27 @@ You can choose from 1-52 weeks. What do you prefer?
 
 No. You can harvest the rewards only when the locked duration is ended. This is based on the yield/return we are providing as well as the technical implementations.
 
-### Can I use both Flexible Staking CAKE pool and Fixed Term Staking CAKE pool at the same time?
+### Can I use both Flexible Staking CAKE pool and Fixed-Term Staking CAKE pool at the same time?
 
-No. As it is mentioned above in the "What’s the difference" section, both options are part of the same, single pool. We have multiple solutions coming in the future, but for now you can choose only one of them.
+No. As it is mentioned above in the "What’s the difference" section, both options are part of the same, single pool. Below is what you can and can't do when CAKE is staked in one of the two staking options (can **never** have CAKE in both fixed-term and flexbile staking):
+
+**CAKE locked in fixed-term staking**
+
+* ✅ Add more CAKE to lock
+* ✅ Extend lock period
+* ❌ Add CAKE to flexible staking
+* ❌ Harvest rewards
+* ❌ Withdraw before locked term ends
+
+**While staking CAKE in flexible staking**
+
+* ✅ Add more CAKE to flexible staking
+* ✅ Harvest rewards any time
+* ✅ Withdraw any time (fees apply for first 72 hr)
+* ✅ Convert all staked CAKE in flexible to fixed-term staking
+* ❌ Add CAKE to fixed-term staking if you have any CAKE in flexible staking
+
+We have multiple solutions coming in the future, but for now you can choose only one of them.
 
 ### What happens at the end of the lock duration? What is "After Burning"?
 
