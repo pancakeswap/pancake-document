@@ -69,6 +69,8 @@
 
 ## Developers <a href="#code" id="code"></a>
 
+* [Migration](code/migration/README.md)
+  * [MasterChef v2](code/migration/masterchef-v2.md)
 * [Contributing](code/contributing/README.md)
   * [Codebase Overview](code/contributing/codebase-overview.md)
 * [Bug Bounty](code/bug-bounty.md)
