@@ -1,0 +1,8 @@
+{
+  "plugins": ["thumbnail"],
+  "pluginsConfig": {
+    "thumbnail": {
+      "path": "https://pancakeswap.finance/images/hero.png"
+    }
+  }
+}
