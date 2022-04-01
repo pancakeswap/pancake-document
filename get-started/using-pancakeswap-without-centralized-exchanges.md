@@ -6,7 +6,7 @@ description: >-
 
 # Using PancakeSwap without Centralized Exchanges
 
-![](../.gitbook/assets/how-to-pancakeswap-without-cex-header.png)
+![](<../.gitbook/assets/how-to-pancakeswap-without-cex-header (1).png>)
 
 PancakeSwap is a decentralized application. That means, unlike Binance or other centralized platforms, you don't need to register account to use it... you just need a crypto wallet. So how can you get crypto onto PancakeSwap without using a centralized exchange?
 
