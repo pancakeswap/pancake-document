@@ -14,8 +14,6 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Taro - Business Dev
 
-🐰 Chef Misty - Business Dev
-
 🐰 Chef Pepper - Business Dev
 
 🐰 Chef Icy - Business Dev, 80% Bunny 20% Robot
