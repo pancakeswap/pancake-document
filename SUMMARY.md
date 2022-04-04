@@ -76,6 +76,7 @@
 
 * [Migration](code/migration/README.md)
   * [MasterChef v2](code/migration/masterchef-v2.md)
+  * [CAKE Syrup Pool](code/migration/cake-syrup-pool.md)
 * [Contributing](code/contributing/README.md)
   * [Codebase Overview](code/contributing/codebase-overview.md)
 * [Bug Bounty](code/bug-bounty.md)
