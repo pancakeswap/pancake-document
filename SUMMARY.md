@@ -16,13 +16,15 @@
   * [Redes Sociales & Comunidades](contacto/redes.md)
 * [Roadmap](roadmap.md)
 
-## Products <a href="productos" id="productos"></a>
+## Products <a href="#productos" id="productos"></a>
 
 * [🔄Exchange](productos/pancakeswap-exchange/README.md)
   * [Swap de Tokens](productos/pancakeswap-exchange/swap-trading.md)
   * [Cómo hacer un Trade](productos/pancakeswap-exchange/how-to-trade-on-the-pancakeswap-exchange.md)
   * [Liquidez](productos/pancakeswap-exchange/pools-de-liquidez.md)
   * [Añadir/Remover Liquidez](productos/pancakeswap-exchange/anadir-remover-liquidez.md)
+  * [Limit Orders](productos/pancakeswap-exchange/limit-orders/README.md)
+    * [Limit Orders FAQ](productos/pancakeswap-exchange/limit-orders/limit-orders-faq.md)
 * [🚜Yield Farming](productos/yield-farming/README.md)
   * [Cómo usar Farms](productos/yield-farming/como-usar-yield-farm-en-pancakeswap.md)
   * [Cómo usar Farms (BscScan)](productos/yield-farming/farms-bscscan.md)
@@ -54,7 +56,7 @@
   * [Tokenomics de CAKE](tokenomics/cake-updated-10-29-2020/cake-tokenomics.md)
   * [Controlando el Circulante de CAKE](tokenomics/cake-updated-10-29-2020/controlling-cake-supply.md)
 
-## Guía para Desarrolladores <a href="devs" id="devs"></a>
+## Guía para Desarrolladores <a href="#devs" id="devs"></a>
 
 * [Contribuciones](devs/contributing/README.md)
   * [Descripción de Base de Código](devs/contributing/codebase-overview.md)
