@@ -58,6 +58,8 @@
 
 ## Guía para Desarrolladores <a href="#devs" id="devs"></a>
 
+* [Migración](devs/migracion/README.md)
+  * [MasterChef v2](devs/migracion/masterchef-v2.md)
 * [Contribuciones](devs/contributing/README.md)
   * [Descripción de Base de Código](devs/contributing/codebase-overview.md)
 * [Recompensa por Bugs](devs/bugs.md)
