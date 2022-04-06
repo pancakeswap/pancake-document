@@ -60,6 +60,7 @@
 
 * [Migración](devs/migracion/README.md)
   * [MasterChef v2](devs/migracion/masterchef-v2.md)
+  * [CAKE Syrup Pool](devs/migracion/cake-syrup-pool.md)
 * [Contribuciones](devs/contributing/README.md)
   * [Descripción de Base de Código](devs/contributing/codebase-overview.md)
 * [Recompensa por Bugs](devs/bugs.md)
