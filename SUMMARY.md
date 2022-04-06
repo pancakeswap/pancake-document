@@ -49,6 +49,8 @@
 * [Votación](productos/voting/README.md)
   * [What is voting?](productos/voting/voting.md)
   * [How to vote with SafePal wallet](productos/voting/how-to-vote-with-safepal-wallet.md)
+* [🍳Próximamente](productos/proximamente/README.md)
+  * [Nuevo Cake Pool](productos/proximamente/nuevo-cake-pool.md)
 
 ## Tokenomics
 
