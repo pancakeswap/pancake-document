@@ -1,49 +1,49 @@
 # Cómo usar Staking Bloqueado
 
-1\. Go to the Pools page [here](https://pancakeswap.finance/pools).
 
-2\. Connect to your BNB Smart Chain-compatible wallet by clicking the **Connect** button (top right-hand side).
 
-![](broken-reference)
+1. Ir a la página de Pools [aquí](https://pancakeswap.finance/pools).
 
-3\. Choose your wallet and connect.
+2\.  Conectar tu wallet compatible con BNB Smart Chain- haciendo clic en el botón **Connect** (en la parte superior derecha).
 
-![](broken-reference)
+![](<../../../.gitbook/assets/spaces\_-MHREX7DHcljbY5IkjgJ-1972196547\_uploads\_git-blob-76fa2b75b85741a28f2ee2765447fcac5d6d3ba2\_2-how-to-stake-in-syrup-pool (1) (2) (1).png>)
 
-4\. Choose the CAKE Syrup Pool and click the **Enable** button. Your wallet will ask you to confirm the action.
 
-![\*Note that actual APY values will vary](broken-reference)
 
-_Note that actual APY values will vary_
+3\. Elige tu wallet y conecta.
 
-5\. The **Enable** button should now be replaced with **Flexible** and **Locked**. Click the button to bring up the staking menu.
+![](../../../.gitbook/assets/spaces\_-MHREX7DHcljbY5IkjgJ-1972196547\_uploads\_git-blob-548cf08efdbea00bb65c906f6daab4e0ce27eb2b\_3-how-to-stake-in-syrup-pool.png)
 
-![\*Note that actual APY values will vary](broken-reference)
+4\. Elige el CAKE Syrup Pool y haz clic al botón **Enable**. Tu wallet te solicitará confirmar la acción
 
-6\. For Fixed-Term Staking simply press **Locked**, which will present you with a new window, enter the amount of CAKE you wish to stake and for how long you want to lock your CAKE for. Below that, you will find a summary of your position, including APY, lock duration, and unlock time. Double check to make sure you are okay with the lock duration and amount staked, click **Confirm** and confirm the transaction in your wallet.
+![El APY actual puede variar](../../../.gitbook/assets/spaces\_-MHREX7DHcljbY5IkjgJ-1972196547\_uploads\_git-blob-3ac9de0c40f7320f1dd8a1f491daa3f0f99b1d09\_cake-pool-notenable.png)
 
-![](broken-reference)
+5\. El botón **Enable** ahora se reemplazará por Flexible y **Locked (Bloqueado)**. Haga clic en el botón elegido para abrir el menú de staking.
 
-_Note that actual APY values will vary_
+![](<../../../.gitbook/assets/spaces\_-MHREX7DHcljbY5IkjgJ-1972196547\_uploads\_git-blob-e2ac77c73d7cb07ddb1592a2ceaadae75f1e1fcf\_cake-pool-enabled1-small (1).png>)
 
-_We are still refining our UI_ _including more precise unlock_ _durations and a possible countdown_
+6\. Para Staking a Plazo Fijo simplemente presiona **Locked**, que se te presentará con una nueva ventana. Introduzca la cantidad de CAKE que desees depositar y por cuánto tiempo deseas bloquear tus CAKE. A continuación, encontrarás un resumen de su posición, incluyendo APY, duración de bloqueo y tiempo de desbloqueo. Chequea bien todo para asegurarte de que estás de acuerdo con la duración del bloqueo y la cantidad depositada. Haga clic en **Confirm** y confirme la transacción en su billetera.
 
-## Extending your lock staking duration
 
-Changed your mind during the lock staking duration? No problem. You can always extend the time of your locked CAKE by simply clicking "Extend" and choose how much time you want to add on top of the current lock . Remember, the longer you lock, the higher your yield will be boosted. The maximum locking duration is 52 weeks.
 
-![](broken-reference)
+![El APY actual puede variar](../../../.gitbook/assets/spaces\_-MHREX7DHcljbY5IkjgJ-1972196547\_uploads\_git-blob-849cbbcca848b95f5529980287fbe5c38052fcb6\_cake-pool-lock.png)
 
-_Note that actual APY values will vary_
+Todavía estamos refinando nuestra interfaz de usuario, incluyendo duraciones de desbloqueo más precisas y una posible cuenta regresiva.
 
-Please note that you can not shorten the locking period nor withdraw your CAKE prematurely.
+## Extendiendo el tiempo de bloqueo de tu Staking
 
-## Adding more CAKE to your lock
+Has cambiado de opinión durante la duración del staking bloqueado? No hay problema. Siempre puedes ampliar el tiempo de bloqueo haciendo clic en "Extend" (Extender) y elegir cuánto tiempo deseas añadir sobre el tiempo actual . Recuerda, cuanto más tiempo bloqueas tus CAKE, más alto será el rendimiento. La duración máxima del bloqueo es de 52 semanas.
 
-You can easily do that by renewing your fixed-term staking position. Simply click "Add CAKE", and choose how much CAKE you want to deposit.
+![El APY actual puede variar](../../../.gitbook/assets/spaces\_-MHREX7DHcljbY5IkjgJ-1972196547\_uploads\_git-blob-0b4ac3477b1fd60630754552a9fe271bc1e5555d\_cake-pool-lock-extend.png)
 
-![](broken-reference) ![](broken-reference)
+Tenga en cuenta que no puede acortar el período de bloqueo ni retirar sus CAKE prematuramente.
 
-_Note that actual APY values will vary_
+## Añadiendo más CAKE al staking
 
-Please note that adding more CAKE to an existing lock resets your staking term based off the remaining lock duration, essentially “renewing” your fixed-term staking position. This results in lower APY because your compounding over a shorter period of time.
+Puedes hacerlo fácilmente renovando tu posición de staking a plazo fijo. Simplemente haga clic en "Add CAKE" y elija cuánto CAKE deseas depositar.
+
+![](../../../.gitbook/assets/spaces\_-MHREX7DHcljbY5IkjgJ-1972196547\_uploads\_git-blob-2f50e0516fa111d088743e67e33aa395bb4cabf2\_cake-pool-lock-add-cake.png)
+
+![](<../../../.gitbook/assets/spaces\_-MHREX7DHcljbY5IkjgJ-1972196547\_uploads\_git-blob-b1dc6d4229d7ea137ffd26f342d351f0ad62ba94\_cake-pool-lock-add-cake-APY (1).png>)
+
+Ten en cuenta que al añadir más CAKE a un bloqueo existente, se restablecerá el plazo de depósito basado en la duración restante del bloqueo, básicamente “renovando” su posición de staking a plazo fijo. Esto resulta en un APY más bajo porque su composición sobre un período de tiempo más corto.
