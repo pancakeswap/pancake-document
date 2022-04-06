@@ -50,7 +50,9 @@
   * [What is voting?](productos/voting/voting.md)
   * [How to vote with SafePal wallet](productos/voting/how-to-vote-with-safepal-wallet.md)
 * [🍳Próximamente](productos/proximamente/README.md)
-  * [Nuevo Cake Pool](productos/proximamente/nuevo-cake-pool.md)
+  * [Nuevo Cake Pool](productos/proximamente/nuevo-cake-pool/README.md)
+    * [Cómo usar el Staking Flexible](productos/proximamente/nuevo-cake-pool/como-usar-el-staking-flexible.md)
+    * [Cómo usar Staking Bloqueado](productos/proximamente/nuevo-cake-pool/como-usar-staking-bloqueado.md)
 
 ## Tokenomics
 

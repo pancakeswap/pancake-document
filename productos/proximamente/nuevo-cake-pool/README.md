@@ -4,7 +4,7 @@
 
 PancakeSwap ofrecerá un CAKE Syrup Pool con dos opciones de staking: flexible o a plazo fijo. Tenga en cuenta que los pools Auto CAKE, IFO CAKE y Manual CAKE se retirarán tras el lanzamiento del nuevo CAKE Syrup Pool con depósito flexible y a plazo fijo. ¡Sigue leyendo para obtener más información!
 
-![\*El APY es ilustrativo](../../.gitbook/assets/spaces\_-MHREX7DHcljbY5IkjgJ-1972196547\_uploads\_git-blob-0171fbdc2020af82cef4220b41d02c155865cfa3\_cake-pool-enabled1.png)
+![\*El APY es ilustrativo](../../../.gitbook/assets/spaces\_-MHREX7DHcljbY5IkjgJ-1972196547\_uploads\_git-blob-0171fbdc2020af82cef4220b41d02c155865cfa3\_cake-pool-enabled1.png)
 
 ## Cuál es la diferencia entre “Flexible” y “A Plazo Fijo"?
 
@@ -91,7 +91,7 @@ o
 
 * Convertir tus CAKE depositados en staking flexible (sin tarifa de retiro de 72 horas)
 
-![](../../.gitbook/assets/cake-pool-lock-end.png)
+![](../../../.gitbook/assets/cake-pool-lock-end.png)
 
 Durante este período de 7 días, aún ganará CAKE al mismo APY que su período de bloqueo.
 
@@ -99,4 +99,4 @@ Después de 7 días si no ha realizado una de las dos opciones, su CAKE deposita
 
 El estado "After Burning" durará 90 días hasta que se quemen todas las recompensas de CAKE. Por lo tanto, para evitar perderse las recompensas de CAKE, al final de su período de depósito de bloqueo, le recomendamos que comience un nuevo período de staking a plazo fijo o convierta su CAKE en staking flexible.
 
-![](../../.gitbook/assets/cake-pool-lock-burn.png)
+![](../../../.gitbook/assets/cake-pool-lock-burn.png)
