@@ -14,7 +14,7 @@ If you are currently using PancakeSwap MasterChef ([0x73feaa1eE314F8c655E3542340
 
 #### Deposit&#x20;
 
-If you are currently using the `enterStaking(uint256 _amount)` on the current PancakeSwap MasterChef. You need to migrate to the new CAKE pool contract. Check out the related documentation here.
+If you are currently using the `enterStaking(uint256 _amount)` on the current PancakeSwap MasterChef. You need to migrate to the new CAKE pool contract. Check out the related documentation [here](cake-syrup-pool.md).
 
 The deposit function for the farm pools is unchanged.
 
@@ -28,7 +28,7 @@ Regular farm pools: the regular LP tokens farms. For example CAKE-BNB, BNB-BUSD,
 
 #### Withdraw
 
-If you are currently using the `leaveStaking(uint256 _amount)` on the current PancakeSwap MasterChef. You need to migrate to the new CAKE pool contract. Check out the related documentation here.
+If you are currently using the `leaveStaking(uint256 _amount)` on the current PancakeSwap MasterChef. You need to migrate to the new CAKE pool contract. Check out the related documentation [here](cake-syrup-pool.md).
 
 The withdraw function for the farm pools is unchanged.
 
