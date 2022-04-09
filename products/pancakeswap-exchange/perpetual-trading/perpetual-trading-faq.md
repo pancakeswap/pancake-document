@@ -6,13 +6,27 @@
 
 We expect this new feature to bring in a lot of new users, traders and volume. We want to ensure the value goes back to our CAKE token on top of offering the trading fee discount. 20% of all trading fees from users who sign up on PancakeSwap will be converted to CAKE and burnt.
 
-&#x20;**And the rest of it?**&#x20;
+**And the rest of it?**&#x20;
 
 The rest are currently reserved for the treasury for ongoing expansion and development of this feature, as well as for an insurance fund for unexpected market events. As the feature matures, we expect to increase the burn portion gradually based on community feedback and governance.
 
 ### I can’t see my funds! What happened?
 
-&#x20;Remember that you must first deposit your funds into the Futures account!
+Remember that you must first deposit your funds into the Futures account!
+
+### Are there deposit limits?
+| Assets | Limit    | Margin Value |
+| ------ | -------- | ------------ |
+| USDT   | No Limit | 99.99%       |
+| BUSD   | No Limit | 100%         |
+| CAKE   | 5000 CAKE| 90%          |
+
+### I've deposited funds and still can't see them! What happened?
+
+ApolloX is providing the [support ticket system ](https://pancakeswaphelp.zendesk.com/hc/en-us/requests/new)for our perpetual's market! If this is happening to you, click on the headset icon in the top right of the perpetuals page to place a ticket!  
+
+![Perpetuals Support Ticket](../../.gitbook/assets/ApolloXSupportTicket.png)
+
 
 ### How does ApolloX determine which user is from PCS and which user is from their own website?&#x20;
 
@@ -20,4 +34,4 @@ Based on first time if the address was signed up at PCS' domain or APX's domain,
 
 ### Are we gonna switch to showing only PCS’s volume on the frontend on the PCS’s version?
 
-&#x20;The frontend is the combined volume since the liquidity is combined and it shows the deep liquidity which also brings the tight spread
+The frontend is the combined volume since the liquidity is combined and it shows the deep liquidity which also brings the tight spread
