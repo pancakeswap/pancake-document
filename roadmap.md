@@ -16,31 +16,32 @@ Pivoting is a way of life.
 
 That means that we don’t publicly commit to specific timelines, so we can organize our development priorities based on market changes and developer resources.
 
-![](.gitbook/assets/roadmap.png)
+![](<.gitbook/assets/2022 Q2 en.png>)
 
 {% hint style="info" %}
-Some items didn't make it into the "Coming Up" section due to security or confidential reason.
+Due to considerations of security and confidentiality, some items are not included in the ‘Cooking In’ section.
 {% endhint %}
 
 ### Ongoing/Recurring
 
-* Site-wide UI/UX Upgrates
-* Regular NFT Drops
-* Regular IFOs, Pools + Farms, Farm Auctions
-* Listing More NFT Collections
-
-### Coming Up in Q1
-
-* IFO 3.1: Private Sales & New IFO Syrup Pool
-* MasterChef v2: Ready for Future Products and New Tokenomics
-* Perpetuals Trading
-* Limit Order
-* Fixed-term Staking
-* NFT Utility
-* NFT-based Gamification
+* Trading Competitions \
+  Collaborate with well-known projects loved by the community&#x20;
+* Regular IFOs, Syrup Pools + Farms
+* Farm Auctions
+* Site-Wide UI/UX Upgrades & Bug Fixes
 * Hackathon
-* Lottery v3: New game types and more
-* Affiliate System
+
+### Cooking in Q2
+
+* Fixed-Term Staking Benefits&#x20;
+  * Farm yield booster&#x20;
+  * Hodl to participate in IFOs&#x20;
+* Prediction Upgrades\
+  Multi-currency & more
+* Lottery Upgrades\
+  Lottery by staking & more&#x20;
+* Zap\
+  Provide liquidity in one click
 
 ### Backlogs
 
@@ -53,6 +54,8 @@ Some items didn't make it into the "Coming Up" section due to security or confid
 
 #### Trade
 
+* Perpetual Trading
+* Limit Orders
 * Charts & other trading features on-site
 * Migration to Exchange V2 (exchange, liquidity, farms)
 * Major performance upgrades
@@ -71,7 +74,8 @@ Some items didn't make it into the "Coming Up" section due to security or confid
 #### Win
 
 * Lottery v2
-* Prediction v0.2
+* Prediction v0.2\
+  with Chainlink Price Chart
 
 #### NFT Ecosystem
 
@@ -86,4 +90,6 @@ Some items didn't make it into the "Coming Up" section due to security or confid
 * Analytics: Info site
 * Voting v2
 * IFO CAKE Pool & IFO 3.0
+* IFO 3.1 - Private Sales with NFT Utility and IFO Syrup Pool
+* PCS Mini-Program in Binance App
 
