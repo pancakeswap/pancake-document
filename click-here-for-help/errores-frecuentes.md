@@ -82,7 +82,7 @@ Actualmente, no existe una forma sencilla de resolver este problema desde el sit
 Dirígete al contrato del token LP que estás intentando aprobar. Por ejemplo, de ejemplo está el par ETH / WBNB: [https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422](https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422)
 
 1. Selecciona **Write Contract**, luego **Connect to Web3** y conecta tu wallet\
-   ![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ\_VGjxJ03YPRuVQ1O5ME)
+   <img src="https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME" alt="" data-size="original">
 2. En **la sección"1. approve",** aprueba el LP token del Router ingresando:
    1. spender (address): ingrese la dirección del contrato del token LP con el que está tratando de interactuar.
    2. value (uint256): -1
@@ -156,7 +156,7 @@ Si sigue fallando, puedes intentar un  “emergencyWithdraw”  (Retiro de emerg
 
 1. Ir a: [https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract ](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract)
 2. Click en **“Connect to Web3”** y conecta tu wallet.\
-   ![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ\_VGjxJ03YPRuVQ1O5ME)
+   <img src="https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME" alt="" data-size="original">
 3. En la sección **“4. emergencyWithdraw”**, ingresa "0" y haz click en “Write”.
 
 Esto retirará tus tokens en stake pero se perderá cualquier CAKE que no se haya cosechado.
@@ -221,7 +221,7 @@ Puedes intentar un “emergencyWithdraw” (Retiro de emergencia) directamente d
 1. Encuentre la dirección del contrato del Syrup Pool del que está tratando de hacer Unstake. Puede encontrarlo en el registro de transacciones de su billetera.
 2. Vaya a [https://bscscan.com/](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract) y en la barra de búsqueda, ingrese la dirección del contrato.
 3. Seleccione **Write Contract.**
-4. Haga Click en **“Connect to Web3”** y conecte la wallet![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ\_VGjxJ03YPRuVQ1O5ME)
+4. Haga Click en **“Connect to Web3”** y conecte la wallet<img src="https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME" alt="" data-size="original">
 5. En la sección **“4. emergencyWithdraw”,** ingrese "0" y haga click en “Write”.
 
 Esto retirará tus tokens en stake pero se perderá cualquier recompensa que no se haya cosechado.

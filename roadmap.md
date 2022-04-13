@@ -8,38 +8,83 @@ description: '"No me llames Roadmap"'
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbKS2mFRDg91ZWCu1Fz%2F-MbKZINH3Atuv5bv2dPZ%2Fdocs%20masthead%20\(19\).png?alt=media\&token=a39e0778-1eab-43da-b421-195e3c54d70e)
 
-Bueno, esta bien, en realidad no es una hoja de ruta. Es una lista de tareas pendientes, sin ningún orden en particular y sin plazo de tiempo. Así es como trabajamos: Lo más rápido que podemos, en las cosas que podemos. Ir dando vueltas es una forma de vida.
 
-#### **Renovación Completa del Sitio**
 
-* [x] Nueva homepage
-* [x] Cosechar & Stakear todo
-* [x] Dashboard Personalizado
-* [x] Mejorar UX
-* [x] Rapidez del Sitio
-* [x] Smartphones friendly
-* [x] Nuevo Sistema de Navegación
+_Actualizado el 13 de Abril de 2022_
 
-#### **CAKE Staking (Syrup Pools)**
+### Chau To-Do List. Hola Roadmap
 
-* [x] **CAKE Staking**
-* [x] **Pools Core**
-* [x] **Pools de Comunidad:** Hostear proyectos de la BSC con 0.1-0.2x en CAKE Farms
+![](<.gitbook/assets/2022 Q2 es.png>)
 
-#### Otros Productos
+{% hint style="info" %}
+Por seguridad y confidencialidad, algunos ítems no están en la sección de “Cocinando en Q2”.
+{% endhint %}
 
-* [x] **Lotería (Desarrollo nuevo)**
-* [x] **Analíticas (Característica Principal)**
-* [x] **Votación (Característica Principal)**
-* [x] **IFO (Oferta Inicial de Farming):** Recaude fondos para su proyecto mediante tokes CAKE-BNB LP. Después de canjear los tokens LP, el BNB se distribuye al proyecto y se quema el CAKE
-* [ ] \-**Prestamos**: Preste y pida prestados tokens BSC y LP: CAKE ofrece un descuento en la tasa.
-* [ ] **Margin Trading:** Tradea tokens de la BSC con apalancamiento — recompra y quema periódica de CAKE
-* [x] **Ecosistema NFT**: ¡Emisión, trading y más! Todo pagado con CAKE
-  * [x] First NFT round
-* [ ] **NFT-based Gamification:** Complete tasks, level up etc. to earn NFTs — use CAKE to mint
-* [ ] **Opciones Binarias**
-* [ ] **Staking a Plazo Fijo**
-* [x] **Perfil de Usuario Personalizable**
+### En Desarrollo/Recurrente
 
-![Comin' up](<.gitbook/assets/image (1) (1) (1) (2) (3) (1).png>)
+* Competencias de Trading: Colaborar con proyectos conocidos y queridos por la comunidadRegular IFOs, Syrup Pools + Farms
+* Subastas de Farm
+* Actualizaciones de UI / UX en todo el sitio y correcciones de bugs
+* Hackathon
 
+### Cocinando en Q2
+
+* Staking a Plazo Fijo: Beneficios
+  * Farm booster&#x20;
+  * Hodl para participar en IFOs&#x20;
+* Predicción: Actualizaciones\
+  Multi Monedas & más
+* Lotería Actualizaciones\
+  Lotería por staking & más
+* Zap\
+  Proveer Liquidez con 1 clic
+
+### Backlogs
+
+* Páginas de información general para Earn, Win
+  * Dashboard Personal&#x20;
+  * Portfolio
+* NFT Market Fase 3 - plataforma NFT abierta
+
+### Hecho
+
+#### Trade
+
+* Trading Perpétuo
+* Órdenes Límite
+* Gráficos y otras funciones de trading en el sitio
+* Migración a Exchange V2 (exchange, liquidez, farms)
+* Actualizaciones de rendimientos principales
+* Batalla por Equipos 1 & 2(Competencias de Trading como un Servicio)
+
+#### Earn
+
+* CAKE Staking
+* Pools, Farms Core&#x20;
+* Pools de Comunidad: Hostear Pool de Proyectos de BSC, con 0.1-0.2x CAKE farms
+* Auto-compounding CAKE-CAKE Syrup Pool
+* Syrup Pool Boosts
+* APR/APY Calculadora v2
+* Función Cosecha Total
+
+#### Win
+
+* Lotería v2
+* Predicción v0.2\
+  con Gráfico de Precios de Chainlink
+
+#### Ecosistema NFT
+
+* NFT Market Fase 1 & 2(comprar & vender Colecciones NFT listadas)
+* Perfil de Usuario Personalizable
+* NFT drops
+* Colección PancakeSquad NFT
+
+#### Actualizaciones del Sitio  / CAKE / Otros Productos
+
+* Navegación mobile & revisión del sitio
+* Analytics: Sitio de Info
+* Votación v2
+* IFO CAKE Pool & IFO 3.0
+* IFO 3.1 - Ventas privadas con utilidad NFT, IFO Syrup Pool
+* PCS Mini-Program en Binance App
