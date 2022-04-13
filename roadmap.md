@@ -6,7 +6,7 @@ description: '"Don''t call it a roadmap"'
 
 ![](.gitbook/assets/roadmap-header.png)
 
-_Updated Feb. 13, 2022_
+_Updated on April. 13, 2022_
 
 ### Finally, it's a roadmap not a to-do list.
 
