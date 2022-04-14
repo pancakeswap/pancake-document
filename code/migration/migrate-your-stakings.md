@@ -21,6 +21,8 @@ You need to migrate if you are:
 
 ## How to migrate?
 
+![At the time of the migration, Chefs will deploy a step-by-step helper to walk you through the process ](../../.gitbook/assets/migration-helper-overview.png)
+
 ### 1. Look for the migration helper
 
 <img src="../../.gitbook/assets/migration-helper-steps-guide-1.png" alt="" data-size="original">
