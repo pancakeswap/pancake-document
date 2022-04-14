@@ -29,7 +29,7 @@ You need to migrate if you are:
 
 Go to [https://pancakeswap.finance](https://pancakeswap.finance), connect your wallet, and visit the **Farms** or **Pools**. You should see a migration notification at the top of the page.
 
-![](../../.gitbook/assets/migration-helper-steps-guide-2.png)
+![](<../../.gitbook/assets/migration-helper-steps-guide-2 (1).png>)
 
 Click "**Proceed**" to visit the migration helper.
 
@@ -37,11 +37,11 @@ Click "**Proceed**" to visit the migration helper.
 
 There are two steps in the migration helper. In the first step, you should see a list of three CAKE syrup pools and farms you are currently staking.
 
-![](<../../.gitbook/assets/migration-helper-steps-guide-3 (1).png>)
+![](<../../.gitbook/assets/migration-helper-steps-guide-3 (2).png>)
 
 Click "**Unstake All**" on each of the farms and pools to unstake all your assets.
 
-![](../../.gitbook/assets/migration-helper-steps-guide-4.png)
+![](<../../.gitbook/assets/migration-helper-steps-guide-4 (1).png>)
 
 After unstaking, click "**Go to Stake**" to proceed to step 2.
 
@@ -49,7 +49,7 @@ After unstaking, click "**Go to Stake**" to proceed to step 2.
 
 Here you should see the brand new CAKE syrup pool and the new farms. Before staking, you will need to enable them.
 
-![](../../.gitbook/assets/migration-helper-steps-guide-5.png)
+![](<../../.gitbook/assets/migration-helper-steps-guide-5 (1).png>)
 
 Click "**Enable**" to enable staking on each of the farms and the CAKE syrup pool. If you are using a mobile device, please click the “**v**” (downward arrow) to expand the card while looking for the "**Enable**" button.
 
@@ -57,7 +57,7 @@ After enabling, you will be able to start staking in the pool and farms.
 
 {% tabs %}
 {% tab title="CAKE Syrup Pool" %}
-![](<../../.gitbook/assets/migration-helper-steps-guide-7 (1).png>)
+![](<../../.gitbook/assets/migration-helper-steps-guide-7 (2).png>)
 
 For CAKE syrup pool. Please:
 
@@ -73,7 +73,7 @@ The locked (fixed-term) staking option will become available a few days after th
 {% endtab %}
 
 {% tab title="Farms" %}
-![](../../.gitbook/assets/migration-helper-steps-guide-8.png)
+![](<../../.gitbook/assets/migration-helper-steps-guide-8 (2).png>)
 
 For farms, please:
 
