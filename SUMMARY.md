@@ -75,6 +75,7 @@
 ## Developers <a href="#code" id="code"></a>
 
 * [Migration](code/migration/README.md)
+  * [Migrate Your Stakings](code/migration/migrate-your-stakings.md)
   * [MasterChef v2](code/migration/masterchef-v2.md)
   * [CAKE Syrup Pool](code/migration/cake-syrup-pool.md)
 * [Contributing](code/contributing/README.md)
