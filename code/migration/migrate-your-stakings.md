@@ -4,7 +4,7 @@ description: Migrate your farms and pools staking to the new PancakeSwap MasterC
 
 # Migrate Your Stakings
 
-![ICYDK: you are currently reading the "tutorial" mentioned in this banner](../../.gitbook/assets/migration-preheat.png)
+![ICYDK: you are currently reading the "tutorial" mentioned in this banner](<../../.gitbook/assets/migration pre heat.png>)
 
 In order to keep earning staking rewards, you will need to migrate your farms and pools staking to the new MasterChef. Relax, it's gonna be easy.
 
@@ -91,7 +91,7 @@ You are now staking in the new MasterChef and continue earning CAKE rewards! Cli
 
 ## Migration Timeline
 
-![](../../.gitbook/assets/en-migrationtimeline-0.png)
+![](<../../.gitbook/assets/en - migration timeline - 2.png>)
 
 Make sure to follow our [Twitter](https://twitter.com/pancakeswap/) or [Telegram](https://t.me/PancakeSwapAnn) announcement channel for detailed timing and the latest updates! Need any help? Learn more about how to reach for help [here](../../contact-us/#help).
 
