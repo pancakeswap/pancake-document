@@ -42,6 +42,7 @@
 
 * [Contributing](code/contributing/README.md)
   * [Codebase Overview](code/contributing/codebase-overview.md)
+* [迁移到 MasterChef v2](code/qian-yi-dao-masterchef-v2.md)
 
 ***
 
