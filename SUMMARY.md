@@ -63,6 +63,7 @@
 ## Guía para Desarrolladores <a href="#devs" id="devs"></a>
 
 * [Migración](devs/migracion/README.md)
+  * [Migra tus Stakings](devs/migracion/migra-tus-stakings.md)
   * [MasterChef v2](devs/migracion/masterchef-v2.md)
   * [CAKE Syrup Pool](devs/migracion/cake-syrup-pool.md)
 * [Contribuciones](devs/contributing/README.md)
