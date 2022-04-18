@@ -76,7 +76,8 @@
 
 * [Migration](code/migration/README.md)
   * [Migrate Your Stakings](code/migration/migrate-your-stakings.md)
-  * [MasterChef v2](code/migration/masterchef-v2.md)
+  * [MasterChef v2](code/migration/masterchef-v2/README.md)
+    * [List of Farms](code/migration/masterchef-v2/list-of-farms.md)
   * [CAKE Syrup Pool](code/migration/cake-syrup-pool.md)
 * [Contributing](code/contributing/README.md)
   * [Codebase Overview](code/contributing/codebase-overview.md)
