@@ -16,7 +16,7 @@ If you are currently using PancakeSwap MasterChef ([0x73feaa1eE314F8c655E3542340
 
 If you are currently using the `enterStaking(uint256 _amount)` on the current PancakeSwap MasterChef. You need to migrate to the new CAKE pool contract. Check out the related documentation [here](../cake-syrup-pool.md).
 
-The deposit function for the farm pools is unchanged.
+The deposit function for the farm pools is unchanged. However, you will need to upgrade the MasterChef address and the `pid` , check out the [list of farms](list-of-farms.md) for the list of new `pids` on MasterChef v2.
 
 #### Pool types
 
@@ -30,7 +30,7 @@ Regular farm pools: the regular LP tokens farms. For example CAKE-BNB, BNB-BUSD,
 
 If you are currently using the `leaveStaking(uint256 _amount)` on the current PancakeSwap MasterChef. You need to migrate to the new CAKE pool contract. Check out the related documentation [here](../cake-syrup-pool.md).
 
-The withdraw function for the farm pools is unchanged.
+The withdraw function for the farm pools is unchanged. However, you will need to update the MasterChef address and the `pid` , check out the [list of farms](list-of-farms.md) for the list of new `pids` on MasterChef v2.
 
 #### Staking Balance
 
@@ -38,7 +38,7 @@ Use `userInfo[_pid][_user].amount` to query the staking balance.
 
 #### Staking Token&#x20;
 
-Note that the new `PoolInfo` struct does not contain the lp token address field, you will need to use `lpToken(_pid)` to query any given pool's staking token.&#x20;
+Note that the new `PoolInfo` struct **does not** contain the lp token address field, you will need to use `lpToken(_pid)` to query any given pool's staking token.&#x20;
 
 #### Total Staking Shares/Amount
 
