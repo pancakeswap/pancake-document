@@ -12,7 +12,7 @@ The number of LP tokens you receive represents your portion of the CAKE-BNB Liqu
 
 You can also redeem your funds at any time by removing your liquidity.
 
-![](../../.gitbook/assets/screenshot-2021-04-19-at-6.27.22-pm.png)
+![](<../../.gitbook/assets/Screenshot 2021-04-19 at 6.27.22 PM.png>)
 
 ## Liquidity Providers earn trading fees
 
