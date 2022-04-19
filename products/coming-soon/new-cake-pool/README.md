@@ -94,4 +94,4 @@ After 7 days if you have not done one of the two options, your staked CAKE will 
 
 The “After Burning” state will last for 90 days until all the CAKE rewards are burnt. So, to avoid missing out on CAKE rewards, at the end of your lock staking period, we recommend starting a new fixed-term staking period or converting your CAKE to flexible staking.
 
-![](<../../../.gitbook/assets/cake-pool-lock-burn (1).png>)
+![](../../../.gitbook/assets/cake-pool-lock-burn.png)
