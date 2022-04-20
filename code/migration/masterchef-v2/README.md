@@ -79,7 +79,7 @@ You can use the following testnet environment to test the integration of your pr
   * pid4: Dummy Pool for MasterChef v2
   * pid5: CAKE-BUSD: `0xb98C30fA9f5e9cf6749B7021b4DDc0DBFe73b73e`
   * pid6: CAKE-WBNB: `0xa96818CA65B57bEc2155Ba5c81a70151f63300CD`
-* v2: `0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652`
+* v2: `0xB4A466911556e39210a6bB2FaECBB59E4eB7E43d`
   * pid3: CAKE-BUSD: `0xb98C30fA9f5e9cf6749B7021b4DDc0DBFe73b73e`
   * pid4: CAKE-WBNB: `0xa96818CA65B57bEc2155Ba5c81a70151f63300CD`
 
