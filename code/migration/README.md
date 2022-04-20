@@ -1,9 +1,9 @@
-# Migration
+# Migração
 
-Here are some useful documents for the migraiton of MasterChef v2 and CAKE staking pool.
+Aqui estão alguns documentos úteis para a migração do MasterChef v2 e da Pool de Stake de CAKE.
 
-{% content-ref url="masterchef-v2.md" %}
-[masterchef-v2.md](masterchef-v2.md)
+{% content-ref url="masterchef-v2/" %}
+[masterchef-v2](masterchef-v2/)
 {% endcontent-ref %}
 
 {% content-ref url="cake-syrup-pool.md" %}

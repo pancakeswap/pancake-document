@@ -22,7 +22,7 @@
 
 ## Products
 
-* [🔄 Exchange](products/pancakeswap-exchange/README.md)
+* [Exchange](products/pancakeswap-exchange/README.md)
   * [Token Swaps](products/pancakeswap-exchange/trade.md)
   * [How to Trade](products/pancakeswap-exchange/trade-guide.md)
   * [Liquidity Pools](products/pancakeswap-exchange/pancakeswap-pools.md)
@@ -34,14 +34,14 @@
     * [What is Perpetual Trading?](products/pancakeswap-exchange/perpetual-trading/what-is-perpetual-trading.md)
     * [How can I use it?](products/pancakeswap-exchange/perpetual-trading/how-can-i-use-it.md)
     * [Perpetual Trading FAQ](products/pancakeswap-exchange/perpetual-trading/perpetual-trading-faq.md)
-* [🚜 Yield Farming](products/yield-farming/README.md)
+* [Yield Farming](products/yield-farming/README.md)
   * [How to Use Farms](products/yield-farming/how-to-use-farms.md)
   * [How to Use Farms with BscScan](products/yield-farming/how-to-use-farms-with-bscscan.md)
 * [🍯 Syrup Pools](products/syrup-pool/README.md)
   * [How to Stake in Syrup Pools](products/syrup-pool/syrup-pool-guide.md)
   * [Auto CAKE Syrup Pool](products/syrup-pool/auto-compounding.md)
   * [Syrup Pool FAQ & Troubleshooting](products/syrup-pool/syrup-pool-faq.md)
-* [🎟 Lottery v2](products/lottery/README.md)
+* [Lottery v2](products/lottery/README.md)
   * [How to Play Lottery v2](products/lottery/lottery-guide.md)
   * [Lottery FAQ](products/lottery/lottery-faq.md)
 * [🔮 Prediction](products/prediction/README.md)
@@ -52,13 +52,13 @@
 * [🖼 NFT Profile System](products/nft-profile-system/README.md)
   * [How to Set Up an NFT Profile](products/nft-profile-system/profile-guide.md)
   * [Teams](products/nft-profile-system/teams.md)
-* [🛍 IFO (Initial Farm Offering)](products/ifo-initial-farm-offering/README.md)
+* [IFO (Initial Farm Offering)](products/ifo-initial-farm-offering/README.md)
   * [How to Participate in an IFO](products/ifo-initial-farm-offering/ifo-guide.md)
   * [How to Participate in an IFO with BscScan](products/ifo-initial-farm-offering/how-to-participate-in-an-ifo-with-bscscan.md)
   * [Contract Details](products/ifo-initial-farm-offering/contract-details.md)
-* [📈 Analytics (Info)](products/info/README.md)
+* [Analytics (Info)](products/info/README.md)
   * [Analytics](products/info/pancakeswap-analytics.md)
-* [🗳 Voting](products/voting/README.md)
+* [Voting](products/voting/README.md)
   * [How to Vote](products/voting/voting-guide.md)
   * [How to Vote with SafePal Wallet](products/voting/how-to-vote-with-safepal-wallet.md)
 * [🍳Coming Soon!](products/coming-soon/README.md)
@@ -74,8 +74,8 @@
 
 ## Developers <a href="#code" id="code"></a>
 
-* [Migration](code/migration/README.md)
-  * [Migrate Your Stakings](code/migration/migrate-your-stakings.md)
+* [Migração](code/migration/README.md)
+  * [Migre seus Stakes](code/migration/migrate-your-stakings.md)
   * [MasterChef v2](code/migration/masterchef-v2/README.md)
     * [List of Farms](code/migration/masterchef-v2/list-of-farms.md)
   * [CAKE Syrup Pool](code/migration/cake-syrup-pool.md)
