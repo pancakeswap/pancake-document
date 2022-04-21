@@ -179,7 +179,7 @@ Or, calculate and subtract the withdraw fee when estimating the amount.
 
 #### How to calculate the CAKE per block distributed to the new CAKE pool?
 
-Previously, the manual CAKE pool has a fixed 10 CAKE/block emission. After migrating to MasterChef v2 and the new CAKE pool, we are now able to adjust its emissions. So we recommend you calculate its emissions using on-chain value.
+Previously, the manual CAKE pool had a fixed 10 CAKE/block emission. After migrating to MasterChef v2 and the new CAKE pool, we can now adjust its emissions.
 
 And here's how you can calculate the CAKE per block distributed to the new CAKE pool:
 
