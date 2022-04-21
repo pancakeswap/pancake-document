@@ -177,6 +177,23 @@ cakeWithdrawn = cakeBalNew - cakeBalPrev
 
 Or, calculate and subtract the withdraw fee when estimating the amount.
 
+#### How to calculate the CAKE per block distributed to the new CAKE pool?
+
+Previously, the manual CAKE pool has a fixed 10 CAKE/block emission. After migrating to MasterChef v2 and the new CAKE pool, we are now able to adjust its emissions. So we recommend you calculate its emissions using on-chain value.
+
+And here's how you can calculate the CAKE per block distributed to the new CAKE pool:
+
+`cakePerBlockToPool = MasterChef.cakePerBlock(false) * (cakePool.allocPoint / MasterChef.totalSpecialAllocPoint)`
+
+You can query the `cakePool.allocPoint` using `MasterChef.poolInfo(0)`
+
+### **Mainnet Contract Address**
+
+**Contract name:** CakePool\
+**Contract address:** `0x45c54210128a065de780C4B0Df3d16664f7f859e`
+
+[View the PancakeSwap: Cake Pool Contract on BscScan.](https://bscscan.com/address/0x45c54210128a065de780C4B0Df3d16664f7f859e)****
+
 ### **Testnet Environment**
 
 You can use the following testnet environment to test the integration of your project with the new PancakeSwap CAKE Pool. If you have any questions, please contact our team via the existing channels, or reach out to bun@pancakeswap.com via Email.

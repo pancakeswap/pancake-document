@@ -50,6 +50,13 @@ However, In MasterChef v2, the users' share can be boosted (coming soon). Theref
 
 You can use `cakePerBlock(bool _isRegular)` to query the CAKE reward per block that goes to all the PancakeSwap farms.
 
+### Mainnet Contract Address
+
+**Contract name:** MasterChef v2\
+**Contract address:** `0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652`
+
+[View the PancakeSwap: Main Staking Contract v2 on BscScan.](https://bscscan.com/address/0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652)
+
 ### Testnet Environment
 
 You can use the following testnet environment to test the integration of your project with the new PancakeSwap MasterChef v2. If you have any questions, please contact our team via the existing channels, or reach out to bun@pancakeswap.com via Email.
