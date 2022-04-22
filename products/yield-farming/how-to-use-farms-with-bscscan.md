@@ -82,7 +82,7 @@ Confirm the connection.
 
 5\. You’re also going to need to approve the amount of LP Tokens the contract can spend. In the value field, you’ll need to enter the amount in Wei. You can use the [BscScan Unit Converter](https://www.bscscan.com/unitconverter) to easily change your amount into Wei. Here we'll use 5 CAKE-BUSD LP Tokens.
 
-![](<../../.gitbook/assets/image (158).png>)
+![](<../../.gitbook/assets/image (158) (1).png>)
 
 {% hint style="warning" %}
 You can also use `-1` as the value to give unlimited spend approval. This does not mean you will spend everything by default, but only that a transaction of any size using this contract will be allowed by your wallet.
@@ -145,6 +145,8 @@ If you didn't copy down your PID earlier, you can learn how to get it in the **F
 6\. You can confirm your withdrawal worked by clicking **View your transaction**.
 
 ![](<../../.gitbook/assets/image (122).png>)
+
+
 
 ## **Making an emergency withdrawal**
 

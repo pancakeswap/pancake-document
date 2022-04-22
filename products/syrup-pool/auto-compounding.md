@@ -4,11 +4,11 @@
 
 You've now got two delicious flavors of CAKE-CAKE Syrup Pool to choose from: Auto-compounding, and Manual. Read on to learn more!
 
-![Auto CAKE & Manual CAKE Pools](../../.gitbook/assets/auto-and-manual-pools.png)
+![Auto CAKE & Manual CAKE Pools](<../../.gitbook/assets/auto and manual pools.png>)
 
 ### What’s the difference between the “Auto CAKE Pool” and the “Manual CAKE Pool”? <a href="#docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86" id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
 
-**With both pools, you can simply stake your CAKE tokens to earn more CAKE tokens.**
+**With both pools, you can simply stake your CAKE tokens to earn more CAKE tokens.**&#x20;
 
 But there are some differences:
 
@@ -33,7 +33,7 @@ But there are some differences:
 
 * **None**
 
-**Unstaking fee**
+**Unstaking fee**&#x20;
 
 * **0.1%  if you unstake (withdraw) within 72 hours.**
 * Only applies within 3 days of manually staking.
@@ -47,7 +47,7 @@ But there are some differences:
 * For example, if the harvest was 1 CAKE, then 0.02 CAKE would be subtracted as the performance fee.
 
 {% hint style="info" %}
-The CAKE collected via the unstaking fee and performance fee is **burned every week** as part of the regular CAKE token burns.
+The CAKE collected via the unstaking fee and performance fee is **burned every week** as part of the regular CAKE token burns.&#x20;
 
 This is a good thing for CAKE holders because it reduces the overall amount of CAKE tokens in existence, which helps reduce inflation.
 {% endhint %}

@@ -1,4 +1,4 @@
-# IFO (Initial Farm Offering)
+# 🛍 IFO (Initial Farm Offering)
 
 ![](../../.gitbook/assets/ifo-header.png)
 
@@ -46,4 +46,4 @@ The sale will proceed as normal, and all funds contributed will be spent.
 
 Launch your project with PancakeSwap, BNB Smart Chain’s most-used AMM project and liquidity provider, to bring your token directly to the most active and rapidly growing community on BSC.
 
-👉 [Apply to launch now!](https://docs.google.com/forms/d/e/1FAIpQLSf0Vmy3k0KyXtXwqxr8QLjD8Xd6KBAmkYxcBRRVTUYJVX17fA/viewform)
+👉 [Apply to launch now! ](https://docs.google.com/forms/d/e/1FAIpQLSf0Vmy3k0KyXtXwqxr8QLjD8Xd6KBAmkYxcBRRVTUYJVX17fA/viewform)

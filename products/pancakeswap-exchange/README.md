@@ -1,4 +1,4 @@
-# Exchange
+# 🔄 Exchange
 
 ![](../../.gitbook/assets/pancakeswap-exchange-header.png)
 

@@ -8,15 +8,15 @@ When you add your token to a Liquidity Pool you will receive Liquidity Provider 
 
 As an example, if you deposited **CAKE** and **BNB** into a Liquidity Pool, you'd receive **CAKE-BNB LP** tokens.
 
-The number of LP tokens you receive represents your portion of the CAKE-BNB Liquidity Pool.
+The number of LP tokens you receive represents your portion of the CAKE-BNB Liquidity Pool.&#x20;
 
 You can also redeem your funds at any time by removing your liquidity.
 
-![](../../.gitbook/assets/screenshot-2021-04-19-at-6.27.22-pm.png)
+![](<../../.gitbook/assets/Screenshot 2021-04-19 at 6.27.22 PM.png>)
 
 ## Liquidity Providers earn trading fees
 
-Providing liquidity gives you a reward in the form of trading fees when people use your liquidity pool.
+Providing liquidity gives you a reward in the form of trading fees when people use your liquidity pool.&#x20;
 
 Whenever someone trades on PancakeSwap, the trader pays a 0.25% fee, **of which 0.17%** is added to the Liquidity Pool of the swap pair they traded on.
 
