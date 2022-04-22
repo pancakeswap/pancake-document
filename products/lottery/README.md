@@ -1,4 +1,4 @@
-# 🎟 Lottery v2
+# Lottery v2
 
 ![](../../.gitbook/assets/lottery-v2-header.png)
 
@@ -25,7 +25,7 @@ Buying multiple Lottery tickets at once gives a bulk discount on your purchase. 
 
 Match numbers, **from the left side of your ticket**, to the winning numbers drawn at the end of a Lottery round.
 
-* Matching even just the first number will win you a small prize.&#x20;
+* Matching even just the first number will win you a small prize.
 * Match more numbers to win a share of a larger prize pool.
 
 ## **‌**Prize eligibility
@@ -38,7 +38,7 @@ Drawn numbers
 
 Your ticket's numbers
 
-![Your Ticket A](<../../.gitbook/assets/image (95) (1).png>)
+![Your Ticket A](<../../.gitbook/assets/image (95) (1) (1).png>)
 
 In the example above, Ticket A, five of the ticket's numbers match the same drawn numbers, in the exact same order: all except the fourth one.
 
