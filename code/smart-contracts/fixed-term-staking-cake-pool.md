@@ -1,4 +1,10 @@
-# Fixed-Term Staking CAKE Pool
+---
+description: >-
+  The new CAKE Syrup Pool offering fixed-term staking and flexible staking
+  options.
+---
+
+# CAKE Syrup Pool
 
 ## Contract info
 
