@@ -18,15 +18,11 @@ description: >-
 
 4\. Choose the CAKE Syrup Pool and click the **Enable** button. Your wallet will ask you to confirm the action.
 
-![\*Note that actual APY values will vary](../../../.gitbook/assets/cake-pool-notenable.png)
-
-_Note that actual APY values will vary_
+![Note that actual APY values will vary](../../../.gitbook/assets/cake-pool-notenable.png)
 
 5\. The **Enable** button should now be replaced with **Flexible** and Locked. Click the button to bring up the staking menu.
 
-![\*Note that actual APY values will vary](../../../.gitbook/assets/cake-pool-enabled1-small.png)
-
-_Note that actual APY values will vary_
+![Note that actual APY values will vary](../../../.gitbook/assets/cake-pool-enabled1-small.png)
 
 6\. For Flexible Staking simply press **Flexible**, which will present a new window, enter the amount of CAKE you wish to stake, click **Confirm** and confirm the transaction in your wallet.
 
