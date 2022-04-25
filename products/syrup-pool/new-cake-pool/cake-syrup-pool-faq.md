@@ -39,6 +39,10 @@ No. As mentioned above in the "What’s the difference" section, both options ar
 
 We have multiple solutions coming in the future to allow users to use both flexible staking and fixed-term staking at the same time, but for now, you can choose only one of them.
 
+### Is there a fee for converting Flexible Staked CAKE to Fixed-Term Staked CAKE?
+
+No. There are no additional fees for moving CAKE from flexible staking to fixed-term staking, only network fees.
+
 ### What happens at the end of the lock duration? What is "After Burning"?
 
 When your fixed-term staking period ends, and your CAKE unlocks, you have 7 days to complete one of two options:
