@@ -8,7 +8,7 @@ PancakeSwap now offers one CAKE Syrup Pool with two staking options: flexible st
 
 ## What’s the difference between “Flexible” and “Fixed-Term” staking?
 
-With both, you can simply stake your CAKE tokens to earn more CAKE tokens with no deposit fees. Both staking options auto-compound CAKE rewards for you. Flexible staking allows users to stake CAKE and earn rewards with the ability to unstake whenever they please. Fixed-term staking offers users the opportunity to maximize their yield and earn even more CAKE by locking their staked CAKE for a period of time they choose, earning a linearly boosted APY compared to flexible staking.
+With both, you can simply stake your CAKE tokens to earn more CAKE tokens with no deposit fees—both staking options auto-compound CAKE rewards for you. Flexible staking allows users to stake CAKE and earn rewards with the ability to unstake whenever they please. Fixed-term staking allows users to maximise their yield and earn even more CAKE by locking their staked CAKE for a period of time they choose, earning a linearly boosted APY compared to flexible staking.
 
 Flexible staking and fixed-term staking are both part of the same pool to allow users easy migration between the two staking options. **Because of this, you can only choose one staking option at a time.** More details about the differences are below.
 
@@ -74,19 +74,13 @@ No. You can harvest the rewards only when the locked duration is ended. This is 
 
 ### Can I extend the lock duration?
 
-Yes. Extending the lock duration adds more time to your **initial lock duration**. \
-\
+Yes. Extending the lock duration adds more time to your **initial lock duration**. When choosing to extend your lock duration, note:
+
 New extended lock duration = initial lock duration + added duration
 
-Let's say you lock your CAKE for 10 weeks in fixed-term staking. 10 weeks = initial lock duration.
+### Can the Fixed-Term Staking CAKE pool APY change after I lock my CAKE?
 
-9 weeks later (1 week until your lock ends), you wish to extend your lock duration by 5 weeks. 5 weeks = added duration
-
-Your new extended lock duration will be equal to 15 weeks from the current date (10 weeks + 5 weeks).
-
-### Is the Fixed-Term Staking CAKE pool APY fixed or variable?
-
-The APY is variable, just like the previous CAKE pools. The fixed-term staking CAKE pool APY is fixed and dependent on:
+Yes, the fixed-term staking CAKE pool APY is variable, just like the old CAKE pools. The fixed-term staking CAKE pool APY is fixed and dependent on:
 
 * Total CAKE staked in the CAKE pool (the sum of both Flexible + Fixed-Term Staking)
 * A yield boost (similar to a multiplier) calculated from a user's initial lock duration.&#x20;
