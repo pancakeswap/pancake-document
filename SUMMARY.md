@@ -37,7 +37,7 @@
 * [🚜 Yield Farming](products/yield-farming/README.md)
   * [How to Use Farms](products/yield-farming/how-to-use-farms.md)
   * [How to Use Farms with BscScan](products/yield-farming/how-to-use-farms-with-bscscan.md)
-* [🍯 Syrup Pools](products/syrup-pool/README.md)
+* [🍯 Syrup Pools - Stake CAKE](products/syrup-pool/README.md)
   * [New CAKE Syrup Pool](products/coming-soon/new-cake-pool/README.md)
     * [How to use the Flexible Staking option](products/coming-soon/new-cake-pool/flexible-staking.md)
     * [How to use the Fixed-Term Staking option](products/coming-soon/new-cake-pool/fixed-term-staking.md)
