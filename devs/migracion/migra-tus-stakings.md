@@ -59,7 +59,7 @@ Después de habilitar, podrá comenzar a hacer staking en farms y pool.&#x20;
 {% tab title="CAKE Syrup Pool" %}
 
 
-![](<../../.gitbook/assets/image (182).png>)
+![](<../../.gitbook/assets/image (182) (1).png>)
 
 Para el CAKE syrup pool. Por favor haga lo siguiente:
 
@@ -75,7 +75,7 @@ La opción de staking bloqueado (a plazo fijo) estará disponible unos días des
 {% endtab %}
 
 {% tab title="Farms" %}
-![](<../../.gitbook/assets/image (181).png>)
+![](<../../.gitbook/assets/image (181) (1).png>)
 
 Para farms, por favor haga:
 

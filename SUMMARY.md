@@ -53,6 +53,7 @@
   * [Nuevo Cake Pool](productos/proximamente/nuevo-cake-pool/README.md)
     * [Cómo usar el Staking Flexible](productos/proximamente/nuevo-cake-pool/como-usar-el-staking-flexible.md)
     * [Cómo usar Staking Bloqueado](productos/proximamente/nuevo-cake-pool/como-usar-staking-bloqueado.md)
+    * [Cake Syrup Pool FAQ](productos/proximamente/nuevo-cake-pool/cake-syrup-pool-faq.md)
 
 ## Tokenomics
 
