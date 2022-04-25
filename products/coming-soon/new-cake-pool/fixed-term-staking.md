@@ -18,17 +18,17 @@ description: >-
 
 4\. Choose the CAKE Syrup Pool and click the **Enable** button. Your wallet will ask you to confirm the action.
 
-![Note that actual APY values will vary](../../../.gitbook/assets/cake-pool-notenable.png)
+![Note that actual APY values will vary](../../../.gitbook/assets/3-how-to-stake-in-fixed-pool.png)
 
 5\. The **Enable** button should now be replaced with **Flexible** and **Locked**. Click the button to bring up the staking menu.
 
-![Note that actual APY values will vary](../../../.gitbook/assets/cake-pool-enabled1-small.png)
+![Note that actual APY values will vary](../../../.gitbook/assets/4-how-to-stake-in-fixed-pool.png)
 
 6\. For Fixed-Term Staking simply press **Locked**, which will present you with a new window, enter the amount of CAKE you wish to stake and for how long you want to lock your CAKE for.
 
 Below that, you will find a summary of your position, including APY, lock duration, and unlock date and time. Double-check to make sure you are okay with the lock duration and amount staked, click **Confirm** and confirm the transaction in your wallet.
 
-![Note that actual APY values will vary](<../../../.gitbook/assets/5-how-to-stake-in-fixed-pool (1).png>)
+![Note that actual APY values will vary](../../../.gitbook/assets/5-how-to-stake-in-fixed-pool.png)
 
 Please note that we are still refining our UI including more precise unlock durations and a possible countdown.
 
@@ -47,7 +47,7 @@ On 18th June 2022 (6 weeks later, 4 weeks until the user's CAKE unlocks), the us
 
 1\. Navigate to the CAKE Syrup Pool and click **Extend**.&#x20;
 
-![Note that actual APY values will vary](<../../../.gitbook/assets/6-how-to-stake-in-fixed-pool (1).png>)
+![Note that actual APY values will vary](../../../.gitbook/assets/6-how-to-stake-in-fixed-pool.png)
 
 2\. Select the duration you would like to add (5 weeks in this example).\
 \
