@@ -15,8 +15,8 @@ Some special pools let you stake other tokens besides CAKE, too!
 [syrup-pool-guide.md](syrup-pool-guide.md)
 {% endcontent-ref %}
 
-{% content-ref url="auto-compounding.md" %}
-[auto-compounding.md](auto-compounding.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ### Syrup Pool FAQs & Troubleshooting
