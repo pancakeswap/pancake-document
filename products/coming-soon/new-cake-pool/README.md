@@ -72,6 +72,18 @@ You can choose from 1-52 weeks. What do you prefer?
 
 No. You can harvest the rewards only when the locked duration is ended. This is based on the yield/return we are providing as well as the technical implementations.
 
+### Can I extend the lock duration?
+
+Yes. Extending the lock duration adds more time to your **initial lock duration**. \
+\
+New extended lock duration = initial lock duration + added duration
+
+Let's say you lock your CAKE for 10 weeks in fixed-term staking. 10 weeks = initial lock duration.
+
+9 weeks later (1 week until your lock ends), you wish to extend your lock duration by 5 weeks. 5 weeks = added duration
+
+Your new extended lock duration will be equal to 15 weeks from the current date (10 weeks + 5 weeks).
+
 ### Is the Fixed-Term Staking CAKE pool APY fixed or variable?
 
 The APY is variable, just like the previous CAKE pools. The fixed-term staking CAKE pool APY is fixed and dependent on:
@@ -79,7 +91,7 @@ The APY is variable, just like the previous CAKE pools. The fixed-term staking C
 * Total CAKE staked in the CAKE pool (the sum of both Flexible + Fixed-Term Staking)
 * A yield boost (similar to a multiplier) calculated from a user's initial lock duration.&#x20;
 
-For example, if you lock your CAKE for 52 weeks, your yield boost will be higher than if you lock your CAKE for 26 weeks. The yield boost increases linearly the longer you lock your CAKE.
+For example, if you lock your CAKE for 52 weeks, your yield boost will be larger than if you lock your CAKE for 26 weeks. The yield boost increases linearly the longer you lock your CAKE.
 
 ### Can I use both the Flexible Staking CAKE pool and the Fixed-Term Staking CAKE pool at the same time?
 
