@@ -24,7 +24,7 @@ description: >-
 
 ![Note that actual APY values will vary](../../../.gitbook/assets/cake-pool-enabled1-small.png)
 
-6\. For Fixed-Term Staking simply press **Locked**, which will present you with a new window, enter the amount of CAKE you wish to stake and for how long you want to lock your CAKE for.&#x20;
+6\. For Fixed-Term Staking simply press **Locked**, which will present you with a new window, enter the amount of CAKE you wish to stake and for how long you want to lock your CAKE for.
 
 Below that, you will find a summary of your position, including APY, lock duration, and unlock date and time. Double-check to make sure you are okay with the lock duration and amount staked, click **Confirm** and confirm the transaction in your wallet.
 
@@ -34,27 +34,28 @@ Please note that we are still refining our UI including more precise unlock dura
 
 ## Extending your lock staking duration
 
-Changed your mind during the lock staking duration? No problem. You can always extend the time of your locked CAKE by simply clicking "Extend" and choose how much time you want to add on top of the **initial lock duration**. Remember, the longer you lock, the higher your yield will be boosted. The maximum locking duration is 52 weeks.&#x20;
+Changed your mind during the lock staking duration? No problem. You can always extend the time of your locked CAKE by simply clicking "Extend" and choose how much time you want to add on top of the **initial lock duration**. Remember, the longer you lock, the higher your yield will be boosted. The maximum locking duration is 52 weeks.
 
 A user's new extended lock duration = initial lock duration + added duration\
 \
-**Example:** \
-****\
-****A user staked **** 1,438.45 CAKE in fixed-term staking with an initial lock duration of 10 weeks on 7th May 2022.&#x20;
+**Example:**\
+
+
+A user staked 1,438.45 CAKE in fixed-term staking with an initial lock duration of 10 weeks on 7th May 2022.
 
 On 18th June 2022 (6 weeks later, 4 weeks until the user's CAKE unlocks), the user decides they want to add 5 weeks to their lock duration.
 
-1. Navigate to the CAKE Syrup Pool and click **Extend**.
+1\. Navigate to the CAKE Syrup Pool and click **Extend**.&#x20;
 
 ![Note that actual APY values will vary](<../../../.gitbook/assets/6-how-to-stake-in-fixed-pool (1).png>)
-2. Select the duration you would like to add (5 weeks in this example). \
-   \
-   Note that your new lock duration will be equal your initial lock duration of 10 weeks plus the added 5 weeks, totally a new lock duration of 15 weeks.
 
+2\. Select the duration you would like to add (5 weeks in this example).\
+\
+Note that your new lock duration will equal your initial lock duration of 10 weeks plus the added 5 weeks, totally a new lock duration of 15 weeks.
 
 ![Note that actual APY values will vary](../../../.gitbook/assets/7-how-to-stake-in-fixed-pool.png)
 
-3. Double-check to make sure you are okay with the new extended lock duration and click **Confirm**.
+3\. Double-check to make sure you are okay with the new extended lock duration and click **Confirm**.
 
 Please note that you can not shorten the locking period nor withdraw your CAKE prematurely.
 
@@ -64,7 +65,7 @@ You can easily do that by renewing your fixed-term staking position. Simply clic
 
 ![Note that actual APY values will vary](../../../.gitbook/assets/8-how-to-stake-in-fixed-pool.png)
 
-Please note that adding more CAKE to an existing lock resets your staking term based off the remaining lock duration, essentially “renewing” your fixed-term staking position. This results in lower yield boost because your locked duration is renewed to 4 weeks. \
+Please note that adding more CAKE to an existing lock resets your staking term based off the remaining lock duration, essentially “renewing” your fixed-term staking position. This results in lower yield boost because your locked duration is renewed to 4 weeks.\
 \
 Users can check the box next to "Renew and extend your lock to keep similar benefits." to maintain a similar yield boost setting the lock duration equal to the initial lock duration (in this example, 10 weeks).
 

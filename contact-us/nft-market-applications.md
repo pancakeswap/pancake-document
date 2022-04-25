@@ -2,7 +2,7 @@
 
 ## Apply for NFT Market Listing
 
-![](../.gitbook/assets/nft-masthead.png)
+![](<../.gitbook/assets/nft masthead.png>)
 
 In phase 2 of the NFT Market, collection owners will be able to list their collections so that NFT holders may buy and sell them.
 

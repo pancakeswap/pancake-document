@@ -4,17 +4,17 @@ description: >-
   option.
 ---
 
-# How to use Flexible Staking option
+# How to use the Flexible Staking option
 
 1\. Go to the Pools page [here](https://pancakeswap.finance/pools).
 
 2\. Connect to your BNB Smart Chain-compatible wallet by clicking the **Connect** button (top right-hand side).
 
-![](<../../../.gitbook/assets/2-how-to-stake-in-syrup-pool (1) (1) (1) (1) (4).png>)
+![](<../../../.gitbook/assets/2-how-to-stake-in-syrup-pool (1) (1) (1) (1) (1) (4).png>)
 
 3\. Choose your wallet and connect.
 
-![](<../../../.gitbook/assets/3-how-to-stake-in-syrup-pool (1) (1) (1).png>)
+![](<../../../.gitbook/assets/3-how-to-stake-in-syrup-pool (1) (1) (2).png>)
 
 4\. Choose the CAKE Syrup Pool and click the **Enable** button. Your wallet will ask you to confirm the action.
 
