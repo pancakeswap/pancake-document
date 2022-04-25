@@ -36,7 +36,7 @@ You have now locked your CAKE in the fixed-term staking pool! Please note that w
 
 ## Extending your lock staking duration
 
-Changed your mind during the lock staking duration? No problem. You can always extend the time of your locked CAKE by simply clicking "Extend" and choose how much time you want to add on top of the current lock . Remember, the longer you lock, the higher your yield will be boosted. The maximum locking duration is 52 weeks.
+Changed your mind during the lock staking duration? No problem. You can always extend the time of your locked CAKE by simply clicking "Extend" and choose how much time you want to add on top of the **initial lock duration**. Remember, the longer you lock, the higher your yield will be boosted. The maximum locking duration is 52 weeks.
 
 ![Note that actual APY values will vary](../../../.gitbook/assets/7-how-to-stake-in-fixed-pool.png)
 
