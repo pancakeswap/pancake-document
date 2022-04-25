@@ -80,7 +80,7 @@ New extended lock duration = initial lock duration + added duration
 
 ### What is the "CAKE Locked" amount?
 
-The "CAKE Locked" amount is a user's initial locked CAKE balance plus CAKE rewards to-date.&#x20;
+The "CAKE Locked" amount is a user's initial locked CAKE balance plus CAKE rewards to date.&#x20;
 
 CAKE Locked = Initial locked CAKE balance + CAKE rewards
 
