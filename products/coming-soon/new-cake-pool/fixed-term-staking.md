@@ -28,7 +28,7 @@ description: >-
 
 Below that, you will find a summary of your position, including APY, lock duration, and unlock date and time. Double-check to make sure you are okay with the lock duration and amount staked, click **Confirm** and confirm the transaction in your wallet.
 
-![Note that actual APY values will vary](../../../.gitbook/assets/5-how-to-stake-in-fixed-pool.png)
+![Note that actual APY values will vary](<../../../.gitbook/assets/5-how-to-stake-in-fixed-pool (1).png>)
 
 Please note that we are still refining our UI including more precise unlock durations and a possible countdown.
 
