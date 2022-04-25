@@ -32,8 +32,9 @@ When adding more CAKE to fixed-term staking, the "CAKE to be locked" amount is t
 
 Yes, the fixed-term staking CAKE pool APY is variable, just like the old CAKE pools. The fixed-term staking CAKE pool APY is fixed and dependent on:
 
-* Total CAKE staked in the CAKE pool (the sum of both Flexible + Fixed-Term Staking)
-* A yield boost (similar to a multiplier) calculated from a user's initial lock duration.&#x20;
+* Total CAKE staked in the CAKE pool (the sum of both Flexible + Fixed-Term Staking).
+* The average lock duration of all CAKE locked in fixed-term staking.
+* A yield boost (similar to a multiplier) calculated from a user's initial lock duration. The longer you lock your CAKE, the higher the yield boost.
 
 For example, if you lock your CAKE for 52 weeks, your yield boost will be larger than if you lock your CAKE for 26 weeks. The yield boost increases linearly the longer you lock your CAKE.
 
