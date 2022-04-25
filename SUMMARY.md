@@ -42,7 +42,7 @@
     * [How to use the Flexible Staking option](products/coming-soon/new-cake-pool/flexible-staking.md)
     * [How to use the Fixed-Term Staking option](products/coming-soon/new-cake-pool/fixed-term-staking.md)
     * [CAKE Syrup Pool FAQ](products/syrup-pool/new-cake-pool/cake-syrup-pool-faq.md)
-  * [Non-CAKE Syrup Pools](products/syrup-pool/syrup-pool-guide/README.md)
+  * [Other Syrup Pools](products/syrup-pool/syrup-pool-guide/README.md)
     * [Syrup Pool FAQ & Troubleshooting](products/syrup-pool/syrup-pool-guide/syrup-pool-faq.md)
 * [🎟 Lottery v2](products/lottery/README.md)
   * [How to Play Lottery v2](products/lottery/lottery-guide.md)

@@ -2,7 +2,7 @@
 description: 'Syrup Pools: the simplest way to earn on PancakeSwap'
 ---
 
-# Non-CAKE Syrup Pools
+# Other Syrup Pools
 
 ![](../../../.gitbook/assets/how-to-syrup-pool-staking-header.png)
 
