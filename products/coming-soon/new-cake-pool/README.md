@@ -2,7 +2,7 @@
 
 ## Stake CAKE, earn CAKE!
 
-PancakeSwap now offers one CAKE Syrup Pool with two staking options: flexible staking or fixed-term staking. Note that the Auto CAKE, IFO CAKE, and Manual CAKE pools will be retired upon launch of the new CAKE Syrup Pool with flexible and fixed-term staking. Keep reading on to learn more!
+PancakeSwap now offers one CAKE Syrup Pool with two staking options: flexible staking or fixed-term staking. Note that the Auto CAKE, IFO CAKE, and Manual CAKE pools will be retired upon the launch of the new CAKE Syrup Pool with flexible and fixed-term staking. Keep reading on to learn more!
 
 ![\*Note that actual APY values will vary](../../../.gitbook/assets/cake-pool-enabled1.png)
 
@@ -71,6 +71,15 @@ You can choose from 1-52 weeks. What do you prefer?
 ### Can I harvest the rewards during the locked period?
 
 No. You can harvest the rewards only when the locked duration is ended. This is based on the yield/return we are providing as well as the technical implementations.
+
+### Is the Fixed-Term Staking CAKE pool APY fixed or variable?
+
+The APY is variable, just like the previous CAKE pools. The fixed-term staking CAKE pool APY is fixed and dependent on:
+
+* Total CAKE staked in the CAKE pool (the sum of both Flexible + Fixed-Term Staking)
+* A yield boost (similar to a multiplier) calculated from a user's initial lock duration.&#x20;
+
+For example, if you lock your CAKE for 52 weeks, your yield boost will be higher than if you lock your CAKE for 26 weeks. The yield boost increases linearly the longer you lock your CAKE.
 
 ### Can I use both the Flexible Staking CAKE pool and the Fixed-Term Staking CAKE pool at the same time?
 
