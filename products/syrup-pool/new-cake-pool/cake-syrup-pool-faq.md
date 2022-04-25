@@ -16,6 +16,10 @@ Yes. Extending the lock duration adds more time to your **initial lock duration*
 
 New extended lock duration = initial lock duration + added duration
 
+### Can I remove my CAKE from Fixed-Term staking via contract if I change my mind?
+
+No. Your CAKE cannot be removed or withdrawn from fixed-term staking at any point in time until your lock duration ends and your CAKE is unlocked.
+
 ### What is the "CAKE Locked" amount?
 
 The "CAKE Locked" amount is a user's initial locked CAKE balance plus CAKE rewards to date.&#x20;
