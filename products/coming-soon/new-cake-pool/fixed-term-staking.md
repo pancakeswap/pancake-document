@@ -45,14 +45,16 @@ A user's new extended lock duration = initial lock duration + added duration\
 On 18th June 2022 (6 weeks later, 4 weeks until the user's CAKE unlocks), the user decides they want to add 5 weeks to their lock duration.
 
 1. Navigate to the CAKE Syrup Pool and click **Extend**.
+
+![Note that actual APY values will vary](<../../../.gitbook/assets/6-how-to-stake-in-fixed-pool (1).png>)
 2. Select the duration you would like to add (5 weeks in this example). \
    \
    Note that your new lock duration will be equal your initial lock duration of 10 weeks plus the added 5 weeks, totally a new lock duration of 15 weeks.
-3. Double-check to make sure you are okay with the new extended lock duration and click **Confirm**.
 
-![Note that actual APY values will vary](<../../../.gitbook/assets/6-how-to-stake-in-fixed-pool (1).png>)
 
 ![Note that actual APY values will vary](../../../.gitbook/assets/7-how-to-stake-in-fixed-pool.png)
+
+3. Double-check to make sure you are okay with the new extended lock duration and click **Confirm**.
 
 Please note that you can not shorten the locking period nor withdraw your CAKE prematurely.
 
