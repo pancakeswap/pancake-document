@@ -6,6 +6,13 @@
 
 You can choose from 1-52 weeks. What do you prefer?
 
+### What variables affect the new CAKE Syrup Pool APYs (Flexible and Fixed-Term Staking options)?
+
+Since flexible staking and fixed-term staking options are part of the same pool, the following variables affect APY of both:
+
+* Total CAKE staked in flexible staking and fixed-term staking (the sum of both). The more CAKE staked, the lower the APY.
+* The average lock duration of all CAKE locked in fixed-term staking. If the average lock duration increases, APY will decrease.
+
 ### Can I harvest the rewards during the locked period?
 
 No. You can harvest the rewards only when the locked duration is ended. This is based on the yield/return we are providing as well as the technical implementations.
@@ -30,7 +37,7 @@ When adding more CAKE to fixed-term staking, the "CAKE to be locked" amount is t
 
 ### Can the Fixed-Term Staking CAKE pool APY change after I lock my CAKE?
 
-Yes, the fixed-term staking CAKE pool APY is variable, just like the old CAKE pools. The fixed-term staking CAKE pool APY is fixed and dependent on:
+Yes, the fixed-term staking CAKE pool APY is variable, just like the old CAKE pools. The fixed-term staking CAKE pool APY is not fixed and is dependent on:
 
 * Total CAKE staked in the CAKE pool (the sum of both Flexible + Fixed-Term Staking).
 * The average lock duration of all CAKE locked in fixed-term staking.
