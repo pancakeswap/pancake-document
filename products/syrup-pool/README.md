@@ -23,8 +23,8 @@ Some special pools let you stake other tokens besides CAKE, too!
 [fixed-term-staking.md](../coming-soon/new-cake-pool/fixed-term-staking.md)
 {% endcontent-ref %}
 
-{% content-ref url="syrup-pool-guide.md" %}
-[syrup-pool-guide.md](syrup-pool-guide.md)
+{% content-ref url="syrup-pool-guide/" %}
+[syrup-pool-guide](syrup-pool-guide/)
 {% endcontent-ref %}
 
 ### Syrup Pool FAQs & Troubleshooting
@@ -33,8 +33,8 @@ Some special pools let you stake other tokens besides CAKE, too!
 [cake-syrup-pool-faq.md](new-cake-pool/cake-syrup-pool-faq.md)
 {% endcontent-ref %}
 
-{% content-ref url="syrup-pool-faq.md" %}
-[syrup-pool-faq.md](syrup-pool-faq.md)
+{% content-ref url="syrup-pool-guide/syrup-pool-faq.md" %}
+[syrup-pool-faq.md](syrup-pool-guide/syrup-pool-faq.md)
 {% endcontent-ref %}
 
 ### **How can I run a Syrup Pool for my project?**
