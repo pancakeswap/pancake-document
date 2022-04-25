@@ -47,7 +47,7 @@ This is a good thing for CAKE holders because it reduces the overall amount of C
 Stake your CAKE for a fixed amount of time to maximise yields and receive additional benefits! The staked CAKE will be automatically compounded during the entire lock duration.
 
 * No performance fees
-* The longer you lock, the higher the boost applied to the yield! Always offering a higher APY compared to flexible staking!
+* The longer you lock, the higher the boost applied to the yield!
 * CAKE rewards are auto-compounded and will unlock, along with your staked CAKE, when your lock duration expires
 * Once staked in fixed-term staking, you cannot withdraw until the end of your lock duration.
 * IFO CAKE credit (the maximum amount of CAKE they can commit during an IFO) will be determined from the fixed-term staking pool

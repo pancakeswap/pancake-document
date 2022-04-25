@@ -37,6 +37,14 @@ Yes, the fixed-term staking CAKE pool APY is variable, just like the old CAKE po
 
 For example, if you lock your CAKE for 52 weeks, your yield boost will be larger than if you lock your CAKE for 26 weeks. The yield boost increases linearly the longer you lock your CAKE.
 
+### Can I still participate in IFOs if my CAKE is locked in the Fixed-Term Staking pool, or will I need to buy more CAKE?
+
+TBD, more information will be provided soon.
+
+### Can I vote if my CAKE is locked in the Fixed-Term Staking pool?
+
+TBD, more information will be provided soon.
+
 ### Can I use both the Flexible Staking CAKE pool and the Fixed-Term Staking CAKE pool at the same time?
 
 No. As mentioned above in the "What’s the difference" section, both options are part of the same, single pool. You currently can **never** have CAKE in both fixed-term and flexible staking.
