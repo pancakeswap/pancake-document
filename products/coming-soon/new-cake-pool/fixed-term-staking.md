@@ -62,10 +62,24 @@ Please note that you can not shorten the locking period nor withdraw your CAKE p
 
 You can easily do that by renewing your fixed-term staking position. Simply click "Add CAKE" and choose how much CAKE you want to deposit.
 
+Please note that adding more CAKE to an existing lock resets your staking term based on the remaining lock duration, essentially “renewing” your fixed-term staking position. This results in a lower yield boost because your new lock duration is lower than your initial lock duration.
+
+**Example:**
+
+A user staked 1,438.45 CAKE in fixed-term staking with an initial lock duration of 10 weeks on 7th May 2022.\
+\
+On 18th June 2022 (6 weeks later, 4 weeks until the user's CAKE unlocks), the user decides they want to add 100 CAKE to locked balance.
+
+1\. Navigate to the CAKE Syrup Pool and click **Add CAKE**.&#x20;
+
+![Note that actual APY values will vary](../../../.gitbook/assets/6-how-to-stake-in-fixed-pool.png)
+
+2\. Select the amount of CAKE you would like to add to your locked balance (for this example, we are adding 100 CAKE which is our max wallet balance). Note that your yield boost is lower than the initial yield boost because it is calculated using a 4 week lock duration instead of the initial 10 week lock duration.
+
 ![Note that actual APY values will vary](../../../.gitbook/assets/8-how-to-stake-in-fixed-pool.png)
 
-Please note that adding more CAKE to an existing lock resets your staking term based on the remaining lock duration, essentially “renewing” your fixed-term staking position. This results in a lower yield boost because your locked duration is renewed to 4 weeks.\
-\
-Users can check the box next to "Renew and extend your lock to keep similar benefits." to maintain a similar yield boost setting the lock duration equal to the initial lock duration (in this example, 10 weeks).
+2.1. Alternatively, users can check the box next to "Renew and extend your lock to keep similar benefits." to maintain a similar yield boost setting the lock duration equal to the initial lock duration (in this example, 10 weeks).
 
 ![Note that actual APY values will vary](../../../.gitbook/assets/9-how-to-stake-in-fixed-pool.png)
+
+3\. Double-check to make sure you are okay with the added CAKE amount and the lock duration and click **Confirm**.
