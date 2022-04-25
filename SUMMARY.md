@@ -38,9 +38,10 @@
   * [How to Use Farms](products/yield-farming/how-to-use-farms.md)
   * [How to Use Farms with BscScan](products/yield-farming/how-to-use-farms-with-bscscan.md)
 * [🍯 Syrup Pools](products/syrup-pool/README.md)
-  * [New CAKE Syrup Pool](products/syrup-pool/new-cake-pool/README.md)
-    * [How to use the Flexible Staking option](products/syrup-pool/new-cake-pool/flexible-staking.md)
-    * [How to use the Fixed-Term Staking option](products/syrup-pool/new-cake-pool/fixed-term-staking.md)
+  * [New CAKE Syrup Pool](products/coming-soon/new-cake-pool/README.md)
+    * [How to use the Flexible Staking option](products/coming-soon/new-cake-pool/flexible-staking.md)
+    * [How to use the Fixed-Term Staking option](products/coming-soon/new-cake-pool/fixed-term-staking.md)
+    * [CAKE Syrup Pool FAQ](products/syrup-pool/new-cake-pool/cake-syrup-pool-faq.md)
   * [How to Stake in Syrup Pools](products/syrup-pool/syrup-pool-guide.md)
   * [Auto CAKE Syrup Pool](products/syrup-pool/auto-compounding.md)
   * [Syrup Pool FAQ & Troubleshooting](products/syrup-pool/syrup-pool-faq.md)
@@ -64,7 +65,7 @@
 * [🗳 Voting](products/voting/README.md)
   * [How to Vote](products/voting/voting-guide.md)
   * [How to Vote with SafePal Wallet](products/voting/how-to-vote-with-safepal-wallet.md)
-* [🍳Coming Soon!](products/coming-soon.md)
+* [🍳Coming Soon!](products/coming-soon/README.md)
 
 ## Tokenomics
 
