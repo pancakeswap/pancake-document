@@ -51,7 +51,7 @@ On 18th June 2022 (6 weeks later, 4 weeks until the user's CAKE unlocks), the us
 
 2\. Select the duration you would like to add (5 weeks in this example).\
 \
-Note that your new lock duration will equal your initial lock duration of 10 weeks plus the added 5 weeks, totally a new lock duration of 15 weeks.
+Note that your new lock duration will equal your initial lock duration of 10 weeks plus the added 5 weeks for a new lock duration of 15 weeks.
 
 ![Note that actual APY values will vary](../../../.gitbook/assets/7-how-to-stake-in-fixed-pool.png)
 
@@ -61,11 +61,11 @@ Please note that you can not shorten the locking period nor withdraw your CAKE p
 
 ## Adding more CAKE to your lock
 
-You can easily do that by renewing your fixed-term staking position. Simply click "Add CAKE", and choose how much CAKE you want to deposit.
+You can easily do that by renewing your fixed-term staking position. Simply click "Add CAKE" and choose how much CAKE you want to deposit.
 
 ![Note that actual APY values will vary](../../../.gitbook/assets/8-how-to-stake-in-fixed-pool.png)
 
-Please note that adding more CAKE to an existing lock resets your staking term based off the remaining lock duration, essentially “renewing” your fixed-term staking position. This results in lower yield boost because your locked duration is renewed to 4 weeks.\
+Please note that adding more CAKE to an existing lock resets your staking term based on the remaining lock duration, essentially “renewing” your fixed-term staking position. This results in a lower yield boost because your locked duration is renewed to 4 weeks.\
 \
 Users can check the box next to "Renew and extend your lock to keep similar benefits." to maintain a similar yield boost setting the lock duration equal to the initial lock duration (in this example, 10 weeks).
 
