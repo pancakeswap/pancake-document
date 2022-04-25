@@ -1,4 +1,4 @@
-# 🍯 Syrup Pools
+# 🍯 Syrup Pools - Stake CAKE
 
 ![](../../.gitbook/assets/syrup-poos-header.png)
 
@@ -43,9 +43,7 @@ Reach out via [the application form](https://docs.pancakeswap.finance/contact-us
 
 ### Syrup Pool Smart Contracts <a href="#docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86" id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
 
-[All Manual Syrup Pools](../../code/smart-contracts/main-staking-masterchef-contract.md)
-
-[Auto CAKE Syrup Pool](../../code/smart-contracts/cakevault.md)
+[CAKE Syrup Pool](../../code/smart-contracts/fixed-term-staking-cake-pool.md)
 
 ### &#x20;<a href="#docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86" id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
 
