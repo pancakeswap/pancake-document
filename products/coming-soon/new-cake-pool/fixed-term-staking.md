@@ -4,7 +4,7 @@ description: >-
   option.
 ---
 
-# How to use Fixed Term Staking option
+# How to use Fixed-Term Staking option
 
 1\. Go to the Pools page [here](https://pancakeswap.finance/pools).
 
@@ -28,9 +28,9 @@ _Note that actual APY values will vary_
 
 6\. For Fixed-Term Staking simply press **Locked**, which will present you with a new window, enter the amount of CAKE you wish to stake and for how long you want to lock your CAKE for. Below that, you will find a summary of your position, including APY, lock duration, and unlock time. Double-check to make sure you are okay with the lock duration and amount staked, click **Confirm** and confirm the transaction in your wallet.
 
-![Note that actual APY values will vary](../../../.gitbook/assets/5-how-to-stake-in-fixed-pool.png) ![](../../../.gitbook/assets/7-how-to-stake-in-fixed-pool.png)
+![Note that actual APY values will vary](../../../.gitbook/assets/5-how-to-stake-in-fixed-pool.png)
 
-We are still refining our UI including more precise unlock durations and a possible countdown.
+You have now locked your CAKE in the fixed-term staking pool! Please note that we are still refining our UI including more precise unlock durations and a possible countdown.
 
 ![Note that actual APY values will vary](../../../.gitbook/assets/6-how-to-stake-in-fixed-pool.png)
 
