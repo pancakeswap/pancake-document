@@ -36,10 +36,9 @@ Please note that we are still refining our UI including more precise unlock dura
 
 Changed your mind during the lock staking duration? No problem. You can always extend the time of your locked CAKE by simply clicking "Extend" and choose how much time you want to add on top of the **initial lock duration**. Remember, the longer you lock, the higher your yield will be boosted. The maximum locking duration is 52 weeks.
 
-A user's new extended lock duration = initial lock duration + added duration\
-\
-**Example:**\
+A user's new extended lock duration = initial lock duration + added duration
 
+**Example:**
 
 A user staked 1,438.45 CAKE in fixed-term staking with an initial lock duration of 10 weeks on 7th May 2022.
 
