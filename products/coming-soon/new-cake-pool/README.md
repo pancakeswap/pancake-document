@@ -78,6 +78,14 @@ Yes. Extending the lock duration adds more time to your **initial lock duration*
 
 New extended lock duration = initial lock duration + added duration
 
+### What is the "CAKE Locked" amount?
+
+The "CAKE Locked" amount is a user's initial locked CAKE balance plus CAKE rewards to-date.&#x20;
+
+CAKE Locked = Initial locked CAKE balance + CAKE rewards
+
+When adding more CAKE to fixed-term staking, the "CAKE to be locked" amount is the user's initial locked CAKE balance, CAKE rewards to date, and the CAKE being added.
+
 ### Can the Fixed-Term Staking CAKE pool APY change after I lock my CAKE?
 
 Yes, the fixed-term staking CAKE pool APY is variable, just like the old CAKE pools. The fixed-term staking CAKE pool APY is fixed and dependent on:
