@@ -32,10 +32,6 @@ _Note that actual APY values will vary_
 
 ![](../../../.gitbook/assets/cake-pool-flex-deposit.png)
 
-_Note that actual APY values will vary_
-
 Want to convert your flexible staking to fixed-term staking to earn more CAKE? Simply click **Convert to Lock** and choose how long you want to lock your CAKE.
 
-![](../../../.gitbook/assets/cake-pool-flex-convert.png) ![](../../../.gitbook/assets/cake-pool-convert-lock.png)
-
-_Note that actual APY values will vary_
+![Note that actual APY values will vary](../../../.gitbook/assets/cake-pool-flex-convert.png) ![](../../../.gitbook/assets/cake-pool-convert-lock.png)
