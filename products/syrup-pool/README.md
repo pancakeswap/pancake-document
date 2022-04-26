@@ -1,41 +1,46 @@
-# 🍯 Syrup Pools
+# 🍯 Pools de Syrup - Stake de CAKE
 
 ![](../../.gitbook/assets/syrup-poos-header.png)
 
-### **What are Syrup Pools?**
+### **O que são Pools de Syrup?**
 
-Syrup Pools are the simplest way to earn free tokens on PancakeSwap.\
-Stake CAKE, earn free tokens. It’s really that easy.
+Pools de Syrup são o jeito mais simples para ganhar tokens grátis na PancakeSwap.\
+Faça Stake de CAKE, ganhe tokens grátis. Isso é realmente muito fácil.
 
-Some special pools let you stake other tokens besides CAKE, too!
+Algumas pools especiais permitem que você faça stake de outros tokens além de CAKE também!
 
-### **How can I use Syrup Pools?**
+### **Como posso usar as Pools de Syrup?**
 
-{% content-ref url="syrup-pool-guide.md" %}
-[syrup-pool-guide.md](syrup-pool-guide.md)
+{% content-ref url="nova-pool-de-syrup-de-cake/" %}
+[nova-pool-de-syrup-de-cake](nova-pool-de-syrup-de-cake/)
 {% endcontent-ref %}
 
-{% content-ref url="auto-compounding.md" %}
-[auto-compounding.md](auto-compounding.md)
+{% content-ref url="nova-pool-de-syrup-de-cake/como-usar-a-opcao-de-stake-flexivel.md" %}
+[como-usar-a-opcao-de-stake-flexivel.md](nova-pool-de-syrup-de-cake/como-usar-a-opcao-de-stake-flexivel.md)
 {% endcontent-ref %}
 
-### Syrup Pool FAQs & Troubleshooting
-
-{% content-ref url="syrup-pool-faq.md" %}
-[syrup-pool-faq.md](syrup-pool-faq.md)
+{% content-ref url="nova-pool-de-syrup-de-cake/como-usar-a-opcao-de-stake-com-prazo-fixo.md" %}
+[como-usar-a-opcao-de-stake-com-prazo-fixo.md](nova-pool-de-syrup-de-cake/como-usar-a-opcao-de-stake-com-prazo-fixo.md)
 {% endcontent-ref %}
 
-### **How can I run a Syrup Pool for my project?**
+{% content-ref url="outras-pools-de-syrup/" %}
+[outras-pools-de-syrup](outras-pools-de-syrup/)
+{% endcontent-ref %}
 
-Reach out via [the application form](https://docs.pancakeswap.finance/contact-us/business-partnerships).
+### Soluções de Problemas e FAQs da Pool de Syrup&#x20;
 
-### Syrup Pool Smart Contracts <a href="#docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86" id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
+{% content-ref url="outras-pools-de-syrup/syrup-pool-faq.md" %}
+[syrup-pool-faq.md](outras-pools-de-syrup/syrup-pool-faq.md)
+{% endcontent-ref %}
+
+### **Como eu posso colocar meu projeto na Pool de Syrup?**
+
+Entre em contato conosco através do [formulário de aplicações](https://docs.pancakeswap.finance/contact-us/business-partnerships).
+
+### Contratos Inteligentes da Pool de Syrup <a href="#docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86" id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
 
 [All Manual Syrup Pools](../../code/smart-contracts/main-staking-masterchef-contract.md)
 
 [Auto CAKE Syrup Pool](../../code/smart-contracts/cakevault.md)
 
 ### &#x20;<a href="#docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86" id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
-
-
-
