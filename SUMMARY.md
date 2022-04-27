@@ -29,8 +29,10 @@
   * [Cómo usar Farms](productos/yield-farming/como-usar-yield-farm-en-pancakeswap.md)
   * [Cómo usar Farms (BscScan)](productos/yield-farming/farms-bscscan.md)
 * [🍯 Syrup Pools](productos/syrup-pools/README.md)
-  * [Cómo hacer el Stake en los Syrup Pools](productos/syrup-pools/como-hacer-el-stake-en-los-syrup-pools.md)
-  * [Auto CAKE Syrup Pool](productos/syrup-pools/auto-cake-syrup-pool.md)
+  * [Nuevo Cake Pool](productos/syrup-pools/nuevo-cake-pool/README.md)
+    * [Cómo usar el Staking Flexible](productos/syrup-pools/nuevo-cake-pool/como-usar-el-staking-flexible.md)
+    * [Cómo usar Staking Bloqueado](productos/syrup-pools/nuevo-cake-pool/como-usar-staking-bloqueado.md)
+    * [Cake Syrup Pool FAQ](productos/syrup-pools/nuevo-cake-pool/cake-syrup-pool-faq.md)
   * [Syrup Pool FAQ & Errores Frecuentes](productos/syrup-pools/syrup-pool.md)
 * [🎟 Lotería v2](productos/lottery/README.md)
   * [Cómo Jugar a la Lotería V2](productos/lottery/como-jugar-loteriav2.md)
@@ -49,11 +51,7 @@
 * [Votación](productos/voting/README.md)
   * [What is voting?](productos/voting/voting.md)
   * [How to vote with SafePal wallet](productos/voting/how-to-vote-with-safepal-wallet.md)
-* [🍳Próximamente](productos/proximamente/README.md)
-  * [Nuevo Cake Pool](productos/proximamente/nuevo-cake-pool/README.md)
-    * [Cómo usar el Staking Flexible](productos/proximamente/nuevo-cake-pool/como-usar-el-staking-flexible.md)
-    * [Cómo usar Staking Bloqueado](productos/proximamente/nuevo-cake-pool/como-usar-staking-bloqueado.md)
-    * [Cake Syrup Pool FAQ](productos/proximamente/nuevo-cake-pool/cake-syrup-pool-faq.md)
+* [🍳Próximamente](productos/proximamente.md)
 
 ## Tokenomics
 

@@ -70,7 +70,7 @@ Para el CAKE syrup pool. Por favor haga lo siguiente:
 
 
 {% hint style="info" %}
-La opción de staking bloqueado (a plazo fijo) estará disponible unos días después de la migración. Podrá convertir su posición de staking flexible a una bloqueado. Para obtener más información sobre el nuevo CAKE Pool con staking a plazo fijo, consulte este [documento](../../productos/proximamente/nuevo-cake-pool/#staking-a-plazo-fijo).
+La opción de staking bloqueado (a plazo fijo) estará disponible unos días después de la migración. Podrá convertir su posición de staking flexible a una bloqueado. Para obtener más información sobre el nuevo CAKE Pool con staking a plazo fijo, consulte este [documento](../../productos/syrup-pools/nuevo-cake-pool/#staking-a-plazo-fijo).
 {% endhint %}
 {% endtab %}
 
