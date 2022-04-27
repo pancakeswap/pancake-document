@@ -60,7 +60,7 @@ Observe que você não pode encurtar o período de bloqueio nem retirar seu CAKE
 
 Você pode fazer isso facilmente aumentar sua posição de stake de prazo fixo. Basta clicar em "Adicionar CAKE" e escolher quanto CAKE você deseja depositar.&#x20;
 
-Observe que adicionar mais CAKE a um bloqueio existente redefine seu prazo de staking com base na duração restante do bloqueio, essencialmente "renovando" sua posição de stake de prazo fixo. Isso resulta em um aumento de rendimento menor porque a duração do novo bloqueio é menor do que a duração do bloqueio inicial.&#x20;
+Observe que adicionar mais CAKE a um bloqueio existente redefine seu prazo de staking com base na duração restante do bloqueio, essencialmente "renovando" sua posição de stake de prazo fixo. Isso resulta em um multitplicador de rendimento menor porque a duração do novo bloqueio é menor do que a duração do bloqueio inicial.&#x20;
 
 **Exemplo:**
 
@@ -72,11 +72,11 @@ Em 18 de junho de 2022 (6 semanas depois, 4 semanas até que o CAKE do usuário 
 
 ![Observe que o APY vai variar](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2Fh2vVooAZR5kTTZaCcaBu%2F6-how-to-stake-in-fixed-pool.png?alt=media\&token=bfa4459c-a11b-40bd-845c-b97443659a7e)
 
-2\. Selecione a quantidade de CAKE que você gostaria de adicionar ao seu saldo bloqueado (para este exemplo, estamos adicionando 100 CAKE que é o saldo máximo da carteira). Observe que seu aumento de rendimento é menor do que o aumento de rendimento inicial porque é calculado usando uma duração de bloqueio de 4 semanas em vez da duração de bloqueio inicial de 10 semanas.
+2\. Selecione a quantidade de CAKE que você gostaria de adicionar ao seu saldo bloqueado (para este exemplo, estamos adicionando 100 CAKE que é o saldo máximo da carteira). Observe que seu multiplicador de rendimento é menor do que o multiplicador de rendimento inicial porque é calculado usando uma duração de bloqueio de 4 semanas em vez da duração de bloqueio inicial de 10 semanas.
 
 ![Observe que o APY vai variar](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2FVkTwZRA3zK8TcTn1OymX%2F8-how-to-stake-in-fixed-pool.png?alt=media\&token=e7c9ca12-b597-4127-9de4-3ff955b598f3)
 
-2.1. Como alternativa, os usuários podem marcar a caixa ao lado de "Renovar e estender seu bloqueio mantendo benefícios semelhantes", para manter um aumento de rendimento semelhante, definindo a duração do bloqueio igual à duração inicial do bloqueio (neste exemplo, 10 semanas).
+2.1. Como alternativa, os usuários podem marcar a caixa ao lado de "Renovar e estender seu bloqueio mantendo benefícios semelhantes", para manter um multiplicador de rendimento semelhante, definindo a duração do bloqueio igual à duração inicial do bloqueio (neste exemplo, 10 semanas).
 
 ![Observe que o APY vai variar](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2FAmbXvvZUaOdwe9pBePeo%2F9-how-to-stake-in-fixed-pool.png?alt=media\&token=d9d0d1e8-f740-4ed9-8f81-3a756e323b23)
 

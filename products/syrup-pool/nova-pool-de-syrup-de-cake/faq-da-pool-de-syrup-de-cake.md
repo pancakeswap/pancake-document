@@ -37,13 +37,13 @@ Ao adicionar mais CAKE ao staking de prazo fixo, o valor do "CAKE a ser bloquead
 
 ### O APY do stake de Prazo Fixo de CAKE pode mudar depois que eu bloquear meu CAKE?
 
-Sim, o APY da pool de stake de prazo fixo da CAKE é variável, assim como as pools de CAKE antigas. O APY da pool de stake de prazo fixo da CAKEnão é fixo e depende de:
+Sim, o APY da pool de stake de prazo fixo da CAKE é variável, assim como as pools de CAKE antigas. O APY da pool de stake de prazo fixo da CAKE não é fixo e depende de:
 
 * Total de CAKE em stake na pool de CAKE (a soma de Stake Flexível + Prazo Fixo).
 * A duração média do bloqueio de todos os CAKE bloqueados em staking de prazo fixo.
-* Um aumento de rendimento (semelhante a um multiplicador) calculado a partir da duração inicial do bloqueio de um usuário. Quanto mais tempo você bloquear seu CAKE, maior será o aumento de rendimento.
+* Um ampliador de rendimento (semelhante a um multiplicador) calculado a partir da duração inicial do bloqueio de um usuário. Quanto mais tempo você bloquear seu CAKE, maior será o multiplicador de rendimento.
 
-Por exemplo, se você bloquear seu CAKE por 52 semanas, o tamanho do seu rendimento será maior do que se você bloquear seu CAKE por 26 semanas. O tamanho de rendimento aumenta linearmente quanto mais tempo você trava seu CAKE.
+Por exemplo, se você bloquear seu CAKE por 52 semanas, o multiplicador do seu rendimento será maior do que se você bloquear seu CAKE por 26 semanas. O multiplicador de rendimento aumenta linearmente quanto mais tempo você trava seu CAKE.
 
 ### Eu posso ainda participar de IFOs se meu CAKE estiver bloqueado no stake de prazo fixo, ou eu preciso comprar mais CAKE?
 
@@ -59,7 +59,7 @@ Não. Conforme mencionado acima na seção "Qual é a diferença", ambas as opç
 
 Temos várias soluções no futuro para permitir que os usuários usem stake flexível e stake de prazo fixo ao mesmo tempo, mas, por enquanto, você pode escolher apenas uma delas.
 
-### Existe uma taxa para converter CAKE do stakee Flexível para o Stakee de Prazo Fixo?
+### Existe uma taxa para converter CAKE do stake Flexível para o Stakee de Prazo Fixo?
 
 Não. Não existe taxas adicionais para mover o CAKE do stake flexível para o stake de prazo fixo, só a taxa da rede.
 

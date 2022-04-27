@@ -2,9 +2,7 @@
 
 A PancakeSwap agora oferece uma Pool de Syrup de CAKE com duas opções de stake: stake flexível ou stake de prazo fixo. Observe que as pools Auto de  CAKE, IFO CAKE e Manual CAKE foram retirados após o lançamento da nova Pool de Syrup de CAKE com stake flexível e de prazo fixo. Continue lendo para saber mais!
 
-![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2Fgit-blob-0171fbdc2020af82cef4220b41d02c155865cfa3%2Fcake-pool-enabled1.png?alt=media)
-
-\*Observe que os valores reais de APY vão variar
+![Observe que os valores reais de APY vão variar](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2Fgit-blob-0171fbdc2020af82cef4220b41d02c155865cfa3%2Fcake-pool-enabled1.png?alt=media)
 
 ## Qual a diferença entre stake “Flexível” e “Prazo Fixo”?
 
