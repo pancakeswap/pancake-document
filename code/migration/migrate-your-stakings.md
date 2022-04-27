@@ -23,15 +23,9 @@ You need to migrate if you are:
 
 ![At the time of the migration, Chefs will deploy a step-by-step helper to walk you through the process ](../../.gitbook/assets/migration-helper-overview.png)
 
-### 1. Look for the migration helper
+### 1. Navigate to the migration helper
 
-<img src="../../.gitbook/assets/migration-helper-steps-guide-1.png" alt="" data-size="original">
-
-Go to [https://pancakeswap.finance](https://pancakeswap.finance), connect your wallet, and visit the **Farms** or **Pools**. You should see a migration notification at the top of the page.
-
-![](<../../.gitbook/assets/migration-helper-steps-guide-2 (1).png>)
-
-Click "**Proceed**" to visit the migration helper.
+Go to [https://pancakeswap.finance/migration](https://pancakeswap.finance/migration), and connect your wallet.
 
 ### 2. Unstake from the old farms
 
