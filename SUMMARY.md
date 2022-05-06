@@ -71,6 +71,8 @@
 * [CAKE](tokenomics/cake/README.md)
   * [CAKE Tokenomics](tokenomics/cake/cake-tokenomics.md)
   * [Controlling CAKE supply](tokenomics/cake/controlling-cake-supply.md)
+  * [Controlling CAKE supply v1](tokenomics/cake/cake-tokenomics-v1-controlling-cake-supply.md)
+  * [CAKE Tokenomics v1](tokenomics/cake/cake-tokenomics-v1.md)
 
 ## Developers <a href="#code" id="code"></a>
 
@@ -102,6 +104,12 @@
   * [Blockchain QA Engineer](hiring/become-a-chef/senior-qa-engineer.md)
   * [Communications/Public Relations Manager](hiring/become-a-chef/communications-public-relations-manager.md)
   * [Business Development Manager](hiring/become-a-chef/business-development-manager.md)
+
+## Reference
+
+* [Old Tokenomics](reference/old-tokenomics/README.md)
+  * [CAKE Tokenomics v1](reference/old-tokenomics/cake-tokenomics-v1.md)
+  * [Controlling CAKE supply v1](reference/old-tokenomics/cake-tokenomics-v1-controlling-cake-supply.md)
 
 ## Contract Governance <a href="#governance" id="governance"></a>
 
