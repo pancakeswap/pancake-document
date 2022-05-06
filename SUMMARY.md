@@ -71,8 +71,6 @@
 * [CAKE](tokenomics/cake/README.md)
   * [CAKE Tokenomics](tokenomics/cake/cake-tokenomics.md)
   * [Controlling CAKE supply](tokenomics/cake/controlling-cake-supply.md)
-  * [Controlling CAKE supply v1](tokenomics/cake/cake-tokenomics-v1-controlling-cake-supply.md)
-  * [CAKE Tokenomics v1](tokenomics/cake/cake-tokenomics-v1.md)
 
 ## Developers <a href="#code" id="code"></a>
 
