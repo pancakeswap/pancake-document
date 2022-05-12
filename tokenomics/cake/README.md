@@ -2,6 +2,11 @@
 
 ![](../../.gitbook/assets/tokenomics-header.png)
 
+{% hint style="info" %}
+Tokenomics section is under construction to update it to v2.\
+12th May - Chef Nina 🦆
+{% endhint %}
+
 * **Ticker:** CAKE
 * **Contract Address:** [https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82)
 * **Chain:** BNB Smart Chain (BEP20)
