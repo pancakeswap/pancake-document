@@ -95,6 +95,7 @@
 ## Hiring
 
 * [Become a Chef](hiring/become-a-chef/README.md)
+  * [Community Manager - PTBR](hiring/become-a-chef/community-manager-ptbr.md)
   * [Solidity Engineer](hiring/become-a-chef/solidity-engineer.md)
   * [DevOps Engineer](hiring/become-a-chef/devops-engineer.md)
   * [Social Media Marketing Manager](hiring/become-a-chef/social-media-marketing-manager.md)
