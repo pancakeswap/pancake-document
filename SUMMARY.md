@@ -95,14 +95,14 @@
 ## Hiring
 
 * [Become a Chef](hiring/become-a-chef/README.md)
-  * [Community Manager - PTBR](hiring/become-a-chef/community-manager-ptbr.md)
+  * [Frontend Engineer](hiring/become-a-chef/frontend-engineer.md)
   * [Solidity Engineer](hiring/become-a-chef/solidity-engineer.md)
   * [DevOps Engineer](hiring/become-a-chef/devops-engineer.md)
-  * [Social Media Marketing Manager](hiring/become-a-chef/social-media-marketing-manager.md)
-  * [Frontend Engineer](hiring/become-a-chef/frontend-engineer.md)
   * [Blockchain QA Engineer](hiring/become-a-chef/senior-qa-engineer.md)
-  * [Communications/Public Relations Manager](hiring/become-a-chef/communications-public-relations-manager.md)
   * [Business Development Manager](hiring/become-a-chef/business-development-manager.md)
+  * [Communications/Public Relations Manager](hiring/become-a-chef/communications-public-relations-manager.md)
+  * [Social Media Marketing Manager](hiring/become-a-chef/social-media-marketing-manager.md)
+  * [Community Manager - PTBR](hiring/become-a-chef/community-manager-ptbr.md)
 
 ## Reference
 
