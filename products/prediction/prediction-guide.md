@@ -14,7 +14,7 @@ Before you can use Prediction, you’ll need to review and accept the terms.
 
 Visit the [PancakeSwap Prediction page](https://pancakeswap.finance/prediction). You will see a “Welcome!” window explaining that the Prediction product is still in beta.
 
-![](https://lh4.googleusercontent.com/GA0nTC9\_fGjLP2Bt0u7f1VV9Dj4BCHAmqlLSwwQPWTQzDOcKu1ZBqjVzYQOIalerZUac\_oBk2FYggw1-JpuTIQ4XPga7ZfUVPXOOikEySeYi4O-xr1O4XQFOVw8zilyRCfGkuXeO)
+![](../../.gitbook/assets/1-how-to-use-predictions.png)
 
 Read and accept the conditions then click **Continue**.
 
