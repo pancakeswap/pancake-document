@@ -1,16 +1,20 @@
-# NFT Market Applications
+# NFT Marketplace Applications
 
-## Apply for NFT Market Listing
+## Apply for NFT Marketplace Listing
 
-![](<../.gitbook/assets/nft masthead.png>)
+![](../.gitbook/assets/nft-masthead.png)
 
-In phase 2 of the NFT Market, collection owners will be able to list their collections so that NFT holders may buy and sell them.
+In phase 2 of the NFT Marketplace, collection owners will be able to list their collections so that NFT holders may buy and sell them.
 
 NFT collection creators can earn creator royalties on trades on PancakeSwap, as well as getting visibility for their project on the most prominent NFT marketplace on BNB Smart Chain.
 
 We're now accepting applications for Phase 2 of the Marketplace, which was be released in Q4 2021.
 
 [Apply for Listing on PancakeSwap NFT Market](https://docs.google.com/forms/d/e/1FAIpQLSdLjOEiJT4s8No2QT2TKknuUSlVMndARFgng4MDJMsoFQjR-A/viewform)
+
+### How long will it take to get a response?
+
+We aim to respond to applications within a week, but due to a large number of requests, we’re unable to respond to every single applicant. If you don’t hear back from us within two weeks of applying, try reaching out to[ t.me/ChefTaro](https://t.me/ChefTaro) on Telegram, with **the name of your project and application details.**
 
 ## Something else
 

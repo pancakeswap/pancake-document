@@ -38,7 +38,7 @@ Drawn numbers
 
 Your ticket's numbers
 
-![Your Ticket A](<../../.gitbook/assets/image (95) (1).png>)
+![Your Ticket A](<../../.gitbook/assets/image (95) (1) (1).png>)
 
 In the example above, Ticket A, five of the ticket's numbers match the same drawn numbers, in the exact same order: all except the fourth one.
 

@@ -49,7 +49,7 @@ Learn more about [how IFOs work.](https://medium.com/pancakeswap/initial-farm-of
 
 We aim to respond to applications within a week, but due to a large number of requests, we’re unable to respond to every single applicant. If you don’t hear back from us within two weeks of applying, try reaching out to[ t.me/ChefTaro](https://t.me/ChefTaro) on Telegram, with **the name of your project, your token ticker, and the date you applied.**
 
-## NFT Market <a href="#exchange" id="exchange"></a>
+## NFT Marketplace <a href="#exchange" id="exchange"></a>
 
 [Apply to list](nft-market-applications.md#apply-for-nft-market-listing)
 

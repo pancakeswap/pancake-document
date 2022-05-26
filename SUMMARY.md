@@ -13,7 +13,7 @@
   * [Binance Academy Guide](help/binance-academy-guide.md)
 * [Contact Us](contact-us/README.md)
   * [Business Partnerships](contact-us/business-partnerships.md)
-  * [NFT Market Applications](contact-us/nft-market-applications.md)
+  * [NFT Marketplace Applications](contact-us/nft-market-applications.md)
   * [Customer Support](contact-us/customer-support.md)
   * [Social Accounts & Communities](contact-us/telegram.md)
 * [The Kitchen Team](the-kitchen-team.md)
