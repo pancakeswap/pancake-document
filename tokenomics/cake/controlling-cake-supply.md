@@ -1,16 +1,10 @@
 # Controlling CAKE supply
 
-## Why CAKE has no hard cap
+## Does CAKE have a hard cap?
 
-There's currently no hard cap on the supply of CAKE token, making it an inflationary token.
+Yes, CAKE now has a hard cap of 750M as outlined in our litepaper [https://v2litepaper.pancakeswap.finance/](https://v2litepaper.pancakeswap.finance/)
 
-Community members often point to this as a cause for concern, and while the chefs certainly understand the wish for a hard cap, there's a big reason we don't expect to set one in the near future:
-
-> CAKE's primary function is to incentivize providing liquidity to the exchange. _Without block rewards, there would be much less incentive to provide liquidity (LP fees etc. would remain)._
-
-**So what are the other ways CAKE's supply is limited, to counter inflation?**
-
-## How CAKE supply is reduced without a hard cap
+## How CAKE supply is reduced
 
 The chefs aim to **make deflation higher than emission** by building deflationary mechanisms into PancakeSwap's products. The goal is for more CAKE to leave circulation than the amount of CAKE that's produced.
 
