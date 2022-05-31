@@ -45,6 +45,7 @@ Newly launched on 24th Nov! The below is the only link for our discord server!
 * 🇩🇪 🇦🇹 🇨🇭 Deutsch ([https://t.me/PancakeSwap\_DE](https://t.me/PancakeSwap\_DE))
 * 🇵🇭 Filipino ([https://t.me/Pancakeswap\_Ph](https://t.me/Pancakeswap\_Ph))
 * 🇬🇪 Georgia ([https://t.me/PancakeSwapGeorgia](https://t.me/PancakeSwapGeorgia))
+* 🇮🇳 India ([https://t.me/PancakeSwapINDIA](https://t.me/PancakeSwapINDIA))
 * 😤 Ban Appeal ([https://t.me/pancakebanappeal](https://t.me/pancakebanappeal))
 
 {% hint style="danger" %}
