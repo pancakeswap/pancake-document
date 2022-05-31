@@ -30,8 +30,6 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Yogi- Frontend Dev
 
-🐰 Chef Pickle - Solidity Dev
-
 🐕 Chef Snoopy - Solidity Dev
 
 🐰 Chef Cupcake - Solidity Dev
@@ -39,6 +37,8 @@ You can jump to the kitchen interviews article by clicking chef's name.
 🐰 Chef Huan - Solidity Dev
 
 🐰 Chef Rabbid - Solidity Dev
+
+🐰 Chef Tooty - Full Stack Engineer
 
 🐰 [Chef Cecy](https://medium.com/pancakeswap/kitchen-interviews-chef-cecy-the-magical-3d-artist-making-fluffy-bunnies-e1eda53742f3) - 3D Artist ([Twitter](https://twitter.com/Cecymeade))
 
@@ -49,3 +49,5 @@ You can jump to the kitchen interviews article by clicking chef's name.
 🐰 [Chef Fran](https://medium.com/pancakeswap/kitchen-interview-chef-fran-spanish-community-manager-and-a-lovely-mate-368c72102093) - Spanish Community Manager ([Twitter](https://twitter.com/ChefFranPS))
 
 🦆 [Chef Nina](https://medium.com/pancakeswap/kitchen-interviews-chef-nina-the-duck-d385ae875b50) - Duck ([Twitter](https://twitter.com/\_ninahaus\_EN))
+
+🐰 Chef Xander - Social Media Manager
