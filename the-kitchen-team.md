@@ -10,7 +10,7 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Cadbury - Project Manager
 
-🐰 Chef Bun - Project Manager ([Twitter](http://twitter.com/chef\_bun\_pcs))
+🐰 Chef Bun - Project Manager, 不是饺子 ([Twitter](http://twitter.com/chef\_bun\_pcs))
 
 🐰 Chef Taro - Business Dev
 
@@ -20,11 +20,7 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Lime - Ops/Data analytics Dev
 
-🐕 [Chef Cheems](https://medium.com/pancakeswap/kitchen-interview-chef-cheems-the-lottery-obsessed-doggie-1a083fb5d172) - Dev and Lottery Lead ([Twitter](https://twitter.com/CheemsChef))
-
 🐰 Chef Jojo - Frontend Dev ([Twitter](https://twitter.com/0xchefjojo))
-
-🐰 Chef Philip - Frontend Dev
 
 🐰 Chef Momota - Frontend Dev
 
@@ -47,7 +43,3 @@ You can jump to the kitchen interviews article by clicking chef's name.
 🐰 Chef Salade - UI/UX designer
 
 🐰 [Chef Fran](https://medium.com/pancakeswap/kitchen-interview-chef-fran-spanish-community-manager-and-a-lovely-mate-368c72102093) - Spanish Community Manager ([Twitter](https://twitter.com/ChefFranPS))
-
-🦆 [Chef Nina](https://medium.com/pancakeswap/kitchen-interviews-chef-nina-the-duck-d385ae875b50) - Duck ([Twitter](https://twitter.com/\_ninahaus\_EN))
-
-🐰 Chef Xander - Social Media Manager
