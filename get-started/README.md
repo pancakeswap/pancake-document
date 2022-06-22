@@ -1,31 +1,31 @@
-# Get Started
+# Início
 
 ![](../.gitbook/assets/get-started-header.png)
 
-Using anything new can be a bit of a challenge. Don't worry though, we've created a range of guides to help you get comfortable with PancakeSwap!
+Usar qualquer coisa nova pode ser um pouco desafiador. Não se preocupe, criamos uma variedade de guias para ajudá-lo a se sentir confortável com a PancakeSwap!&#x20;
 
-## Setting up PancakeSwap
+## Configurando tudo para PancakeSwap
 
-Follow these guides to get everything set up to use PancakeSwap, or feel free to jump to the guide you need if you've been doing okay but lost your way.
+Siga estes guias para configurar tudo para usar a PancakeSwap ou sinta-se à vontade para pular para o guia de que precisa se estiver indo bem, mas sem perder seu caminho.
 
-[Create a Wallet](https://docs.pancakeswap.finance/get-started/wallet-guide)\
-[Get BEP20 Tokens](https://docs.pancakeswap.finance/get-started/bep20-guide)\
-[Connect Your Wallet to PancakeSwap](https://docs.pancakeswap.finance/get-started/connection-guide)
+[Crie uma Carteira](wallet-guide.md)\
+[Obtenha tokens BEP20](bep20-guide.md)\
+[Conecte Sua Carteira na PancakeSwap](connection-guide.md)
 
-## Guides for using PancakeSwap features
+## Guias para usar os recursos da PancakeSwap
 
-Once you have a wallet set up and connected to PancakeSwap, feel free to check our other how to guides below.
+Depois de configurar uma carteira e conectar-se a PancakeSwap, sinta-se à vontade para verificar nossos outros guias e tutoriais abaixo.
 
-[How to Trade](https://docs.pancakeswap.finance/products/pancakeswap-exchange/trade-guide)\
-[How to Add/Remove Liquidity](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide)\
-[How to Use Farms](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms)\
-[How to Stake in Syrup Pools](https://docs.pancakeswap.finance/products/syrup-pool/syrup-pool-guide)\
-[How to Play the Lottery](https://docs.pancakeswap.finance/products/lottery/lottery-guide)\
-[How to Use Prediction](https://docs.pancakeswap.finance/products/prediction/prediction-guide)\
-[How to Participate in an IFO](https://docs.pancakeswap.finance/products/ifo-initial-farm-offering/ifo-guide)\
-[How to Set Up an NFT Profile](https://docs.pancakeswap.finance/products/nft-profile-system/profile-guide)\
-[How to Vote](https://docs.pancakeswap.finance/products/voting/voting-guide)
+[Como fazer Trade](../products/pancakeswap-exchange/trade-guide.md)\
+[Como adicionar/remover Liquidez](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide)\
+[Como usar os Farms](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms)\
+[Como fazer Stake nas Pools de Syrup](https://docs.pancakeswap.finance/products/syrup-pool/syrup-pool-guide)\
+[Como jogar na Loteria](https://docs.pancakeswap.finance/products/lottery/lottery-guide)\
+[Como usar a Previsão](https://docs.pancakeswap.finance/products/prediction/prediction-guide)\
+[Como participar de uma IFO](https://docs.pancakeswap.finance/products/ifo-initial-farm-offering/ifo-guide)\
+[Como configurar seu perfil de NFT](https://docs.pancakeswap.finance/products/nft-profile-system/profile-guide)\
+[Como votar](https://docs.pancakeswap.finance/products/voting/voting-guide)
 
-Check the menu for more documentation on the range of PancakeSwap features and services, including more advanced guides.
+Verifique o menu para obter mais informações sobre a variedade de recursos e serviços da PancakeSwap, incluindo tutoriais mais avançados.
 
-If you can't find what you need, feel free to visit the [PancakeSwap Telegram](../contact-us/telegram.md) and ask for help there!
+Se você não encontrar o que precisa, sinta-se à vontade para visitar [os grupos de Telegram da PancakeSwap ](../contact-us/telegram.md)e peça por ajuda lá!

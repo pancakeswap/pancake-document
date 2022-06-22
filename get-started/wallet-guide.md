@@ -1,403 +1,374 @@
-# Create a Wallet
+# Crie uma Carteira
 
 ![](../.gitbook/assets/how-to-make-a-crypto-wallet-header.png)
 
-To get started on PancakeSwap, the first thing you'll need is to set up a wallet that supports BNB Smart Chain (BSC). Wallets are available both on desktop computers and on smartphone devices. You'll need to choose the wallet that fits your needs best.
+Para começar a usar o PancakeSwap, a primeira coisa que você precisa é configurar uma carteira com suporte a BNB Smart Chain (BSC). As carteiras estão disponíveis em computadores desktop e em dispositivos de smartphone. Você precisará escolher a carteira que melhor se adapta às suas necessidades.
 
 {% hint style="danger" %}
-**When you're setting up a wallet, be sure to:**
+Quando você estiver configurando uma carteira, certifique-se de**:**
 
-* ✅ **Download and install only the latest version from an official source.**
-* ✅ **Follow the setup guide carefully.**
-* ✅ **Safely back up your recovery phrases.**
-* ❌ **NEVER share your recovery phrases with anyone, under any circumstances.**
-* ❌ **NEVER input your recovery phrase to a website or app, other than your wallet app.**
+* ✅ **Baixar e instalar só a versão mais recente de uma fonte oficial.**
+* ✅ **Siga o guia de instalação cuidadosamente.**
+* **✅ Faça backup com segurança de suas frases de recuperação.**
+* ❌ **NUNCA compartilhe suas frases de recuperação com ninguém, sob nenhuma circunstância**
+* ❌ **NUNCA insira sua frase de recuperação em um site ou aplicativo que não seja seu aplicativo de carteira.**
 {% endhint %}
 
-## Smartphone/Mobile or Desktop wallet?
+## Carteira no Smartphone ou Computador?
 
-Mobile device wallets and desktop-based wallets have different strengths and weaknesses. Consider which fits your needs better to help decide which type of wallet to use.
+As carteiras de celulares e baseadas em desktop têm diferentes pontos fortes e fracos. Considere qual se adapta melhor às suas necessidades para ajudar a decidir qual tipo de carteira usar.
 
-|                                   | Mobile | Desktop |
-| --------------------------------- | ------ | ------- |
-| Use anywhere                      | ✅      | ➖       |
-| Easy to use                       | ✅      | ➖       |
-| More secure                       | ➖      | ✅       |
-| Accessibility friendly            | ➖      | ✅       |
-| Damage/loss/theft resistant       | ➖      | ✅       |
-| Power/connection outage resistant | ✅      | ➖       |
+|                                             | Mobile | Desktop |
+| ------------------------------------------- | ------ | ------- |
+| Use em qualquerlugar                        | ✅      | ➖       |
+| Facil de usar                               | ✅      | ➖       |
+| Mais segurança                              | ➖      | ✅       |
+| Acessibilidade amigável                     | ➖      | ✅       |
+| Resistência a Dano/Perda/Roubo              | ➖      | ✅       |
+| Resistente a interrupção de energia/conexão | ✅      | ➖       |
 
-## **Smartphone/Mobile wallets**
+## **Carteiras de Smartphone/Mobile**
 
-Smartphone/Mobile wallets allow you to access your crypto almost anywhere. Wallets are available on both Android and iOS devices.
+As carteiras para smartphones/móveis permitem que você acesse suas criptomoedas em praticamente qualquer lugar. As carteiras estão disponíveis em dispositivos Android e iOS.
 
-### Which mobile wallet should I choose?
+### Qual carteira de celular eu poderia escolher?
 
-This comparison table gives an overview of the most popular mobile wallets used with PancakeSwap.
+Esta tabela de comparação fornece uma visão geral das carteiras de celular mais populares usadas com a PancakeSwap.
 
-|                                                          | Token Pocket | MetaMask | Coinbase Wallet | Trust Wallet                  | SafePal |
-| -------------------------------------------------------- | ------------ | -------- | --------------- | ----------------------------- | ------- |
-| BNB Smart Chain support                                  | ✅            | ⚠️       | ✅               | ✅                             | ✅       |
-| Built-in DApp browser                                    | ✅            | ➖        | ✅               | <p>✅ Android</p><p>⚠️ iOS</p> | ✅       |
-| Hardware wallet compatible                               | ➖            | ✅        | ✅               | ➖                             | 🔶      |
-| Open source (auditability)                               | ✅            | ✅        | ✅               | ✅                             | ➖       |
-| <p>Interact with BscScan</p><p>(for advanced users!)</p> | ➖            | ✅        | ➖               | ➖                             | ➖       |
+|                                                               | Token Pocket | MetaMask | Coinbase Wallet | Trust Wallet                  | SafePal |
+| ------------------------------------------------------------- | ------------ | -------- | --------------- | ----------------------------- | ------- |
+| Suporte à BNB Smart Chain                                     | ✅            | ⚠️       | ✅               | ✅                             | ✅       |
+| Navegador de nativo                                           | ✅            | ➖        | ✅               | <p>✅ Android</p><p>⚠️ iOS</p> | ✅       |
+| Compatível com carteira de Hardware                           | ➖            | ✅        | ✅               | ➖                             | 🔶      |
+| Código aberto (auditabilidade)                                | ✅            | ✅        | ✅               | ✅                             | ➖       |
+| <p>Interage como BscScan</p><p>(para usuários avançados!)</p> | ➖            | ✅        | ➖               | ➖                             | ➖       |
 
-⚠️ Requires some setup\
-🔶 Only supports SafePal hardware wallet
+⚠️ Requer alguma configuração\
+🔶 Só suporta carteira de Hardware da SafePal
 
-You can find more in-depth information about each wallet below, as well as download links and installation guides.
+Você pode encontrar informações mais detalhadas sobre cada carteira abaixo, bem como links de download e guias de instalação.
 
 {% tabs %}
 {% tab title="Trust Wallet" %}
 ![](<../.gitbook/assets/image (36).png>)
 
-Trust Wallet is a popular wallet for smart devices. It supports DApps, NFT collectibles (with Opensea.io support), and in-wallet staking.
+Trust Wallet é uma carteira popular para smartphone. Ele suporta DApps, NFTs colecionáveis (com suporte Opensea.io) e stake na carteira.
 
 **Pros:**
 
-* Open source for auditability
-* Backed by the Binance cryptocurrency exchange
-* Easily switch between several crypto networks
-* Includes networks by default
-* Includes in-wallet staking options
-* Has additional features such as NFT collection, BNB staking, and DApp access within the wallet
+* Código aberto para auditabilidade
+* Apoiado pela exchange de criptomoedas Binance
+* Alterne facilmente entre várias redes cripto
+* Inclui redes por padrão
+* Inclui opções de stake na carteira
+* Possui recursos adicionais, como coleção de NFT, stake de BNB e acesso no DApp por dentro da carteira
 
-**Cons:**
+**Contras:**
 
-* Language tied to phone settings
-* Limited DApps
-* Transaction notifications can be delayed
+* Idioma vinculado às configurações do telefone
+* DApps limitados
+* As notificações de transações podem ser atrasadas
 
-[**Download Trust Wallet**](https://trustwallet.com) (Automatically detects device)\
-[**Trust Wallet Setup Guide**](https://www.binance.com/en/blog/421499824684901157/How-to-Set-Up-and-Use-Trust-Wallet-for-Binance-Smart-Chain)
+[**Download Trust Wallet**](https://trustwallet.com) (Dispositivo detectado Automaticamente)\
+[**Guia de Instalação da Trust Wallet**](https://www.binance.com/en/blog/421499824684901157/How-to-Set-Up-and-Use-Trust-Wallet-for-Binance-Smart-Chain)****
 {% endtab %}
 
 {% tab title="MetaMask" %}
 ![](<../.gitbook/assets/image (33) (3) (4) (5) (1) (1) (1) (1) (1) (1) (1).png>)
 
-MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethereum network) and BEP2 & BEP20 (Binance Chain and BNB Smart Chain networks).
+MetaMask é uma carteira de plugin baseada em navegador muito popular que suporta ERC20 (rede Ethereum) e BEP2 e BEP20 (redes Binance Chain e BNB Smart Chain).
 
 ​**Pros:**
 
-* Open source for auditability
-* WEB3 capable on BscScan
-* A strong history of security and reliability
-* A large amount of how-to guides and resources online
-* Many tools and custom settings
-* Offers ETH purchases with Transak
-* Supports a very large number of languages
-* Is also available a browser plugin for desktop devices
+* Código aberto para auditabilidade
+* Compatível com WEB3 na BscScan
+* Um forte histórico de segurança e confiabilidade
+* Uma grande quantidade de tutoriais e recursos online
+* Muitas ferramentas e configurações personalizadas
+* Oferece compras de ETH com a Transak
+* Suporta um grande número de idiomas
+* Também está disponível um plugin de navegador para dispositivos desktop
 
-**Cons:**
+**Contras:**
 
-* Longer setup time than other options
-* Additional steps needed to use with BNB Smart Chain and PancakeSwap
-* Extra information and settings may confuse beginners
+* Tempo mais longo de configuração do que outras opções
+* Etapas adicionais necessárias para usar com BNB Smart Chain e PancakeSwap
+* Informações e configurações extras podem confundir os iniciantes
 
-[**Download MetaMask**](https://metamask.io/download.html) (Automatically detects device)\
-[**MetaMask Setup Guide**](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
+[**Download MetaMask**](https://metamask.io/download.html) (Dispositivo Detectado Automaticamente)\
+[**Guia de Instalação da MetaMask**](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)****
 {% endtab %}
 
 {% tab title="Coinbase Wallet" %}
 ![](<../.gitbook/assets/coinbase\_wallet\_wordmark\_blue (1) (1) (1) (1) (1) (3).png>)
 
-Millions of users choose Coinbase Wallet to earn yield with DeFi, swap more than 5,500 assets, and hold their NFT collections. Coinbase wallet supports BEP2 & BEP20 (Binance Chain and BNB Smart Chain networks).
+Milhões de usuários escolhem a CarCoinbase Wallet para obter rendimento com DeFi, trocar mais de 5.500 ativos e manter suas coleções de NFT. A carteira da Coinbase suporta BEP2 e BEP20 (redes Binance Chain e BNB Smart Chain).
 
-**Highlights:**
+**Destaques:**
 
-* Most downloaded mobile dapp wallet in the United States with 12M+ active Wallet users.
-* No additional steps needed to use with BNB Smart Chain and PancakeSwap.
-* Premier audience: Up to 89M+ Coinbase retail app users to onboard to Coinbase Wallet as they start to explore web3.
-* Easy to transfer assets from Coinbase retail app.
-* Fiat On-ramp: Users can now directly purchase crypto with fiat in all 86 countries where Coinbase operates, without leaving Wallet.
-* Industry leading security with secure cloud backup.
+* Carteira de dapp de celular mais baixada nos Estados Unidos com mais de 12 milhões de usuários ativos.
+* Nenhuma etapa adicional é necessária para usar com a BNB Smart Chain e PancakeSwap.
+* Público Principal: até 89 milhões de usuários do varejo que usam o aplicativos da Coinbase que passam a ntegrar a carteira Coinbase à medida que começam a explorar a web3.
+* Fácil de transferir ativos do app de varejo da Coinbase.
+* Fiat On-ramp: Os usuários agora podem comprar criptomoedas diretamente com fiat em todos os 86 países onde a Coinbase opera, sem sair da Wallet.
+* Segurança líder do setor com backup em nuvem segura.
 
-[**Download Coinbase Wallet**](https://coinbase-wallet.onelink.me/q5Sx/fdb9b250) **(Automatically detects device)**
+[**Download Coinbase Wallet**](https://coinbase-wallet.onelink.me/q5Sx/fdb9b250) **(**Dispositivo Detectado Automaticamente**)**
 
-[**Coinbase Wallet Setup Guide**](https://www.coinbase.com/wallet/getting-started-mobile)
+&#x20;[**Guia de instalação da Coinbase Wallet**](https://www.coinbase.com/wallet/getting-started-mobile) ****&#x20;
 
 \_\_
 
-_Coinbase Wallet is a self-custody wallet providing software services subject to Coinbase Wallet_ [_Terms of Service_](https://wallet.coinbase.com/terms-of-service) _and_ [_Privacy Policy_](https://wallet.coinbase.com/privacy-policy)_. Coinbase Wallet is_ [_distinct_](https://help.coinbase.com/en/wallet/getting-started/what-s-the-difference-between-coinbase-com-and-wallet) _from Coinbase.com, and private keys for Coinbase Wallet are stored directly by the user and not by Coinbase. Fees may apply. You do not need a Coinbase.com account to use Coinbase Wallet._
+_A Coinbase Wallet é uma carteira de auto-custódia que fornece serviços de software sujeitos aos_ [_Termos de Serviço_](https://wallet.coinbase.com/terms-of-service) _e_ [_Política de Privacidade_](https://wallet.coinbase.com/privacy-policy) _da Coinbase Wallet. A Coinbase Wallet é_ [_diferente_](https://help.coinbase.com/en/wallet/getting-started/what-s-the-difference-between-coinbase-com-and-wallet) _da Coinbase.com, e as chaves privadas da Coinbase Wallet são armazenadas diretamente pelo usuário e não pela Coinbase. Taxas podem ser aplicadas. Você não precisa de uma conta Coinbase.com para usar a Carteira Coinbase._
 {% endtab %}
 
 {% tab title="Token Pocket" %}
 ![](<../.gitbook/assets/image (125) (3) (4) (1) (1) (1) (1) (1) (1).png>)
 
-Token Pocket is a cryptocurrency management app that natively supports many cryptocurrency networks. It also has a desktop application available.
+O Token Pocket é um aplicativo de gerenciamento de criptomoedas que oferece suporte nativo a muitas redes de criptomoedas. Ele também tem um aplicativo de desktop disponível.
 
 ​**Pros:**
 
-* Open source for auditability
-* Allows users to easily switch between many crypto networks
-* Supports many networks by default
-* A less cramped user experience than browser plugin wallets
-* Is also available as desktop software devices
+* Código aberto para auditabilidade
+* Permite que os usuários alternem facilmente entre muitas redes cripto
+* Suporta muitas redes por padrão
+* Uma experiência de usuário menos estreita do que as carteiras de plug-in do navegador
+* Também está disponível como software para desktop
 
-**Cons:**
+**Contras:**
 
-* Only supports Chinese and English languages
-* Has some issues with the English translation
-* Has fewer online resources than more established wallets
+* Só suporte os idiomas Inglês e Chinês
+* Tem alguns problemas com a tradução em inglês
+* Tem menos recursos online do que carteiras mais estabelecidas
 
-[**Download Token Pocket App**](https://www.tokenpocket.pro/en/download/app) (Automatically detects device)
+[**Download Token Pocket App**](https://www.tokenpocket.pro/en/download/app) (Dispositivo detectado automaticamente)
 
-**Token Pocket Mobile Setup Guide**
+**Guia de Instalação da Token Pocket para celular**
 
-1. Visit the Token Pocket website and tap **Mobile**.
+1. Visite o site da Token Pocket e clique em **Mobile**.
 
 ![](https://lh5.googleusercontent.com/fTsZdwOn3cgT7au7KaoTxY-Ib1KMEfVP9MifMszobGFJ6BTQ0iPlQLl01CYuS3vbAVPmTz9vC3Hnw1lApk1m1I1SDG2fIfi-nN3CIE4oImXU82WCcZWVhLhq2LqY79W1UuN3oefD)
 
-1. Your device will be automatically detected. Tap the **Google Play** or **App Store** button and install the Token Pocket app.
-2. Once Token Pocket is installed, open it. You’ll be met by a screen asking whether you have an existing wallet or would like to create a new one. Tap **No accounts, Create Now**.
+1. Seu dispositivo será detectado automaticamente. Toque no botão Google Play ou App Store e instale o aplicativo Token Pocket.
+2. Depois que o Token Pocket estiver instalado, abra-o. Você será recebido por uma tela perguntando se você tem uma carteira existente ou gostaria de criar uma nova. Toque em No accounts, Create Now.
 
-If you do have an existing wallet to import, use the top option instead.
+Se você tiver uma carteira existente para importar, use esta opção ao invés da acima.
 
 ![](https://lh3.googleusercontent.com/FdtGOB7N7ZKROD0EIKy5roklxcqtYwq26lZ4RX\_8RxUdt-caGPAr03HNTdOtTqpD82hkBcX9umQI1VcL6n0jXky4uVy\_dFDr8pReadLE80AHXkvm4mbvZZN2vxnzeaUmHXATx3GC)
 
-1. On the next page, find **BNB Smart Chain** in the list and tap it.
+1. Na próxima página, encontre a **BNB Smart Chain** na lista e toque nele.
 
 ![](https://lh5.googleusercontent.com/TGpsjTq\_B1rLK-A8Cqzq9sC0IACpDZFCbpwN5\_GD4r8sCRmaqAdbswC-OmWAM7YiKATEaHTHviODFueMA6sCDSGlvNslYjGWQIrX5X8oR\_5pGPuMJ6X7\_Gz-rEoJwzmS9exEybbs)
 
-1. Next, on the “Create way” page, tap **Create Wallet**.
-
-![](https://lh4.googleusercontent.com/AvN\_ssg1eWtArzqvT0oaxWGC-GR6lfG6GjzhIbvIpYO6b2om9ZYtNa5GWlU7KW31cKjPqFmSsx8zSjvT\_Bxw2zAqvVSMylbQWCCXYwnJOVM5jOxg9u7lt6\_Yy5AySM72HSS99v0n)
-
-1. You’ll be asked to enter a password. For your security, make sure your password is judged as “Strong”. You can also add a hint, but make sure it’s something only you will understand. When you’re ready, tap **Create Wallet**.
-
-And that’s it, all done!
-
-To connect to BNB Smart Chain and use PancakeSwap, you can follow the TokenPocket section of our Connect Your Wallet to PancakeSwap guide [https://docs.pancakeswap.finance/get-started/connection-guide](https://docs.pancakeswap.finance/get-started/connection-guide).
-
-**Getting private key from mobile to import to desktop**
-
-Token Pocket lets you use both a desktop and mobile wallet. This section will cover how to get your private key from your mobile wallet to import into your desktop wallet.
-
-{% hint style="warning" %}
-Please be extremely careful with how you handle your private keys. Giving your private keys to someone will give them full access to your coins! Token Pocket is an open source project and will use your private key to import your wallet. Even so, only use your private key with applications you trust and can verify are legitimate!
-{% endhint %}
-
-1. Tap the **Me** tab on the bottom ribbon and tap **Manage Wallets**.
-
-![](https://lh3.googleusercontent.com/\_DE3EO8bsI5wKZlkTeJv3zZ77LR8SVQYOwB4EXbY\_GhKzz4PSZpo3MdlvrU8sLoLyPcRQjdjOA24VPjAa\_UZdt-JaiRgPMk67uBs7JIi5gp9gV1\_wDB7fW7FQoFogTMZ\_EQJYxcQ)
-
-1. On the next page, tap the **BNB Smart Chain** entry. Be careful not to tap the address part, or you’ll only copy that to clipboard instead.
+1. Em seguida, na página “Create Way”, toque em **Criar Carteira**.
 
 ![](https://lh4.googleusercontent.com/jLhXL03uhZHBKbHaPvy3ZrD1EmYCR8ECqwMxQIzTKnUtxMNntaDA8Dx4oVlXSadoFhhJqZACsYWVPfvITBEpWfkCfwntcQY3Fw5EYgGH-tmva8PZbvYbBRCy\_c5V7E1yQHvXiU0F)
 
-1. When the menu appears, find and tap the **Export Private Key** option. Type in your password to get your private key.
+1. Quando o menu aparecer, localize e toque na opção Exportar chave privada. Digite sua senha para obter sua chave privada.
 
 {% hint style="danger" %}
-\*\*NEVER, in any situation, should you ever give someone your private key or recovery phrase ("seed phrase"). This will give someone complete access to your crypto!
+\*\*NUNCA, em qualquer situação, você deve dar a alguém sua chave privada ou frase de recuperação ("Palavras-Chaves"). Isso dará a alguém acesso completo às suas criptomoedas!&#x20;
 
-The genuine PancakeSwap site and staff will never ask you to input your seed phrase.\*\*
+O site e a equipe genuínas da PancakeSwap nunca pedirão que você insira suas palavras chaves.\*\*
 {% endhint %}
 
-Now you have your private key ready to import your wallet into the desktop version of Token Pocket.
+Agora você tem sua chave privada pronta para importar sua carteira para a versão desktop da Token Pocket.
 {% endtab %}
 
 {% tab title="SafePal" %}
 ![](<../.gitbook/assets/image (26) (1).png>)
 
-SafePal is available as both a software and hardware wallet. The wallet is easy to install and create, and comes ready to support BEP2 (Binance Chain) and BEP20 (BNB Smart Chain) right away.
+SafePal está disponível como carteira de software e hardware. A carteira é fácil de instalar e criar, e vem pronta para suportar BEP2 (Binance Chain) e BEP20 (BNB Smart Chain) imediatamente.
 
-**Pros:**
+**Prós:**
 
-* Easily switch between several crypto networks
-* Offers 25% fee discount paying with BNB (requires login)
-* Has the option for Google Authenticator built in
-* Supports a large number of languages
-* Setup process is very simple
-* Is available as both a software and hardware wallet (work together)
-* Supports NFTs on both the BSC and ETH networks
+* Alterne facilmente entre várias redes cripto
+* Oferece 25% de desconto na taxa pagando com BNB (requer login)&#x20;
+* Tem opção para o Google Authenticator integrado&#x20;
+* Suporta um grande número de idiomas&#x20;
+* O processo de configuração é muito simples&#x20;
+* Está disponível como carteira de software e hardware (trabalha em conjunto)&#x20;
+* Suporta NFTs nas redes BSC e ETH
 
-**Cons:**
+**Contras:**
 
-* Isn't fully open source
-* Has some features that are not yet ready for use (such as DeFi)
-* Does not give user notifications
-* Does not enforce strong security during initial setup and wallet creation
-* Has fewer online resources than more established wallets
+* Não é totalmente de código aberto&#x20;
+* Possui alguns recursos que ainda não estão prontos para uso (como DeFi)&#x20;
+* Não dá notificações ao usuário&#x20;
+* Não impõe uma segurança forte durante a configuração inicial e a criação da carteira
+* Tem menos recursos online do que carteiras mais estabelecidas
 
-​[**Download SafePal**](https://safepal.io/download) (Automatically detects device)\
-[**SafePal Setup Guide**](https://blog.safepal.io/binance-smart-chain-x-safepal/)
+​[**Download SafePal**](https://safepal.io/download) (Dispositivo Detectado Automaticamente)\
+[**Guia de Instalação da SafePal**](https://blog.safepal.io/binance-smart-chain-x-safepal/)****
 {% endtab %}
 {% endtabs %}
 
-## **Desktop/Web Browser wallets**
+## **Carteiras de Desktop/Web Browser**
 
-Desktop wallets are available on your home computer or laptop computer. Wallets on your computer can run as standalone applications, or as web browser plugins for popular browsers like Chrome and Firefox.
+As carteiras de desktop estão disponíveis em seu computador Desktop ou laptop. As carteiras em seu computador podem ser executadas como aplicativos independentes ou como plug-ins de navegador da Web para navegadores populares como Chrome e Firefox.
 
-### Which desktop wallet should I choose?
+### Qual carteira de computador eu deveria escolher?
 
-This comparison table gives an overview of the most popular desktop wallets used with PancakeSwap.
+Esta tabela de comparação fornece uma visão geral das carteiras de desktop mais populares usadas com a PancakeSwap.
 
-|                                                          | MetaMask | Binance Wallet | Coinbase Wallet | Token Pocket |
-| -------------------------------------------------------- | -------- | -------------- | --------------- | ------------ |
-| BNB Smart Chain support                                  | ⚠️       | ✅              | ✅               | ⚠️           |
-| Built-in DApp browser                                    | ➖        | ➖              | ➖               | ✅            |
-| Hardware wallet compatible                               | ✅        | ✅              | ✅               | ➖            |
-| Open source (auditability)                               | ✅        | ✅              | ✅               | ✅            |
-| <p>Interact with BscScan</p><p>(for advanced users!)</p> | ✅        | ➖              | ➖               | ➖            |
+|                                                               | MetaMask | Binance Wallet | Coinbase Wallet | Token Pocket |
+| ------------------------------------------------------------- | -------- | -------------- | --------------- | ------------ |
+| Suporte à BNB Smart Chain                                     | ⚠️       | ✅              | ✅               | ⚠️           |
+| DApp embutido no navegador                                    | ➖        | ➖              | ➖               | ✅            |
+| Compatível com carteira de Hardware                           | ✅        | ✅              | ✅               | ➖            |
+| Código aberto (auditabilidade)                                | ✅        | ✅              | ✅               | ✅            |
+| <p>Interação com BscScan</p><p>(para usuários avançados!)</p> | ✅        | ➖              | ➖               | ➖            |
 
-⚠️ Requires additional setup
+⚠️ Requer configuração adicional
 
-You can find more in-depth information about each wallet below, as well as download links and installation guides.
+Você pode encontrar informações mais detalhadas sobre cada carteira abaixo, bem como links para download e guias de instalação.
 
 {% tabs %}
 {% tab title="MetaMask" %}
 ![](<../.gitbook/assets/image (33) (3) (4) (5) (1) (1) (1) (1) (1) (1).png>)
 
-MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethereum network) by default, and BEP2 & BEP20 (Binance Chain and BNB Smart Chain networks) with a little work.
+MetaMask é um plugin de carteira baseado em navegador muito popular que suporta ERC20 (rede Ethereum) por padrão e BEP2 e BEP20 (redes Binance Chain e BNB Smart Chain) com um pouco de trabalho.
 
 ​**Pros:**
 
-* Open source for auditability
-* WEB3 capable on BscScan
-* A strong history of security and reliability
-* A large amount of how-to guides and resources online
-* Many tools and custom settings
-* Supports a very large number of languages
-* Is also available on mobile devices
+* Código aberto para auditabilidade
+* Compatível com WEB3 na BscScan
+* Um forte histórico de segurança e confiabilidade
+* Uma grande quantidade de tutoriais e recursos online
+* Muitas ferramentas e configurações personalizadas
+* Oferece compras de ETH com a Transak
+* Suporta um grande número de idiomas
+* Também disponível em dispositivos móveis
 
-**Cons:**
+**Contras:**
 
-* Longer setup time than other options
-* Additional steps needed to use with BNB Smart Chain and PancakeSwap
-* Extra information and settings may confuse beginners
+* Tempo mais longo de configuração do que outras opções
+* Etapas adicionais necessárias para usar com BNB Smart Chain e PancakeSwap
+* Informações e configurações extras podem confundir os iniciantes
 
-[**Download MetaMask**](https://metamask.io/download.html) (Automatically detects browser)\
-[**MetaMask Setup Guide**](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
+[**Download MetaMask**](https://metamask.io/download.html) (Browser detectado automaticamente)\
+[**Guia de Instalação da MetaMask**](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
 {% endtab %}
 
 {% tab title="Binance Wallet" %}
 ![](<../.gitbook/assets/image (39).png>)
 
-Binance Wallet is a browser-plugin wallet that natively supports the Binance Chain (BEP2) BNB Smart Chain (BEP20) networks. Binance Wallet was developed by the Binance cryptocurrency exchange.
+A Binance Wallet é uma carteira de plug-in de navegador que suporta nativamente as redes Binance Chain (BEP2) BNB Smart Chain (BEP20). A Binance Wallet foi desenvolvida pela exchange de criptomoedas Binance.
 
 ​**Pros:**
 
-* Open source for auditability
-* Backed by the Binance cryptocurrency exchange
-* Can be directly linked to a Binance or Gmail account
-* A streamlined user experience
-* Supports BNB Smart Chain by default, making using PancakeSwap easy
-* Supports a large number of languages
-* Hardware wallet compatible
+* Código aberto para auditabilidade
+* Apoiado pela corretora de cripto Binance&#x20;
+* Pode ser diretamente conectado a Binance ou conta Gmail
+* Um experiência de usuário simplificada&#x20;
+* Suporte à BNB Smart Chain por padrão, tornar o uso da PancakeSwap bem fácil
+* Suporte à um grande número de idiomas
+* Compatível com Carteira de Hardware
 
 **Cons:**
 
-* Lacks some custom settings of other wallets
-* Lack of additional tools makes some actions available in other wallets impossible
-* Has fewer online resources than more established wallets
+* Falta algumas configurações personalizadas de outras carteiras
+* A falta de ferramentas adicionais impossibilita algumas ações disponíveis em outras carteiras
+* Tem menos recursos online do que carteiras mais estabelecidas
 
-[**Download Binance Wallet**](https://www.binance.org/en) (Automatically detects browser)\
-[**Binance Wallet Setup Guide**](https://docs.binance.org/smart-chain/wallet/binance.html)
+[**Download Binance Wallet**](https://www.binance.org/en) (Browser detectado automaticamente)\
+[**Guia de instalação da Binance Wallet**](https://docs.binance.org/smart-chain/wallet/binance.html)
 {% endtab %}
 
 {% tab title="Coinbase Wallet" %}
 ![](<../.gitbook/assets/coinbase\_wallet\_wordmark\_blue (1) (1) (1) (1) (1) (1).png>)
 
-Millions of users choose Coinbase Wallet to earn yield with DeFi, swap more than 5,500 assets, and hold their NFT collections. Coinbase wallet supports ERC20 (Ethereum network) and BEP2 & BEP20 (Binance Chain and BNB Smart Chain networks).
+Milhões de usuários escolhem a Coinbase Wallet para obter rendimento com DeFi, trocar mais de 5.500 ativos e manter suas coleções de NFT. A carteira Coinbase suporta ERC20 (rede Ethereum) e BEP2 e BEP20 (redes Binance Chain e BNB Smart Chain).
 
-**Highlights:**
+**Destaques:**
 
-* 12M+ active Wallet users.
-* No additional steps needed to use with BNB Smart Chain and PancakeSwap.
-* Premier audience: Up to 89M+ Coinbase retail app users to onboard to Coinbase Wallet as they start to explore web3.
-* Easy to transfer assets from Coinbase retail app.
-* Fiat On-ramp: Users can now directly purchase crypto with fiat in all 86 countries where Coinbase operates, without leaving Wallet.
-* Industry leading security with secure cloud backup
-* Is also available on mobile devices
+* 12M+ de usuários da Carteira.
+* Sem passos adicionais necessários para usar com a BNB Smart Chain e PancakeSwap.
+* Público Alvo: Até 89M+ de usuários do varejo da Coinbase usam a Coinbase Wallet para começar a explorar a web3.
+* Fácil de transferir ativos do app de varejo da Coinbase.
+* Fiat On-ramp: Os usuários agora podem comprar criptomoedas diretamente com fiat em todos os 86 países onde a Coinbase opera, sem sair da Wallet.
+* Segurança líder do setor com backup em nuvem segura.
+* Também disponível em dispositivos móveis
 
 **Note:**
 
-* Currently on Chrome Only
+* Atualmente apenas no Chrome
 
-[**Download Coinbase Wallet**](https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad?hl=en\&authuser=0)[ ](https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad?hl=en\&authuser=0)Chrome Only)
+[**Download Coinbase Wallet**](https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad?hl=en\&authuser=0)[ ](https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad?hl=en\&authuser=0)apenas para o Chrome)
 
-[**Coinbase Wallet Setup Guide**](https://www.coinbase.com/wallet/getting-started-extension)
+[**Guia de instalação da Coinbase Wallet**](https://www.coinbase.com/wallet/getting-started-extension)
 
-\_\_
+\_\_\
+\
+****_Coinbase Wallet é uma carteira de auto-custódia que fornece serviços de software sujeitos aos_ [_Termos de Serviço_](https://wallet.coinbase.com/terms-of-service) _e_ [_Política de Privacidade_](https://wallet.coinbase.com/privacy-policy) _da Coinbase Wallet. A Coinbase Wallet é_ [_diferente_](https://help.coinbase.com/en/wallet/getting-started/what-s-the-difference-between-coinbase-com-and-wallet) _da Coinbase.com, e as chaves privadas da Coinbase Wallet são armazenadas diretamente pelo usuário e não pela Coinbase. Taxas podem ser aplicadas. Você não precisa de uma conta Coinbase.com para usar a Carteira Coinbase_\
 
-_Coinbase Wallet is a self-custody wallet providing software services subject to Coinbase Wallet_ [_Terms of Service_](https://wallet.coinbase.com/terms-of-service) _and_ [_Privacy Policy_](https://wallet.coinbase.com/privacy-policy)_. Coinbase Wallet is_ [_distinct_](https://help.coinbase.com/en/wallet/getting-started/what-s-the-difference-between-coinbase-com-and-wallet) _from Coinbase.com, and private keys for Coinbase Wallet are stored directly by the user and not by Coinbase. Fees may apply. You do not need a Coinbase.com account to use Coinbase Wallet._
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](<../.gitbook/assets/image (125) (3) (4) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (125) (3) (4) (1) (1) (1) (1) (1) (1).png>)
 
-Token Pocket is a standalone application available for both Mac OS and Win64 devices. Token Pocket allows you to manage your cryptocurrency in software independent of your browser.
+O Token Pocket é um aplicativo independente disponível para dispositivos Mac OS e Win64. O Token Pocket permite que você gerencie sua criptomoeda em um software independente do seu navegador.
 
 ​**Pros:**
 
-* Open source for auditability
-* Independent of your browser and any of its permissions
-* Allows users to easily switch between many crypto networks
-* Supports many networks by default
-* A less cramped user experience than browser plugin wallets
-* Is also available on mobile devices
+* Código aberto para auditabilidade
+* Independente do seu navegador e de qualquer uma de suas permissões
+* Permite que os usuários alternem facilmente entre muitas redes cripto
+* Suporta muitas redes por padrão
+* Uma experiência de usuário menos estreita do que as carteiras de plug-in do navegador
+* Também está disponível para dispositivos móveis
 
-**Cons:**
+**Contras:**
 
-* Asks users to enter their private key as part of desktop setup process
-* Only supports Chinese and English languages
-* Has some issues with the English translation
-* Has fewer online resources than more established wallets
+* Solicita que os usuários insiram sua chave privada como parte do processo de configuração
+* Só suporte os idiomas Inglês e Chinês
+* Tem alguns problemas com a tradução em inglês
+* Tem menos recursos online do que carteiras mais estabelecidas
 
-[**Download Token Pocket Desktop Wallet**](https://www.tokenpocket.pro/en/download/pc) (MacOS or Win64)
+[**Download Token Pocket Desktop Wallet**](https://www.tokenpocket.pro/en/download/pc) (MacOS ou Win64)
 
-**Token Pocket Desktop Setup Guide**
+**Guia de Instalação da Token Pocket**\
+****A versão desktop do Token Pocket solicitará que você importe uma chave privada. Certifique-se de que conhece e compreende a importância de uma chave privada antes de prosseguir. O Token Pocket é um projeto de código aberto, portanto, o código é visível publicamente e geralmente considerado seguro. Mesmo assim, suas chaves privadas são de sua responsabilidade, portanto, use-as apenas com aplicativos em que você confia e pode verificar.
 
-The desktop version of Token Pocket will ask you to import a private key. Please make sure you’re familiar with and understand the importance of a private key before you proceed.
+1. Visite o site do Token Pocket no seu PC e clique no botão **Desktop**.
 
-Token Pocket is an open source project, so the code is publicly visible and generally considered safe. Even so, your private keys are your responsibility, so only use them with applications you trust and can verify.
+![](https://lh5.googleusercontent.com/fTsZdwOn3cgT7au7KaoTxY-Ib1KMEfVP9MifMszobGFJ6BTQ0iPlQLl01CYuS3vbAVPmTz9vC3Hnw1lApk1m1I1SDG2fIfi-nN3CIE4oImXU82WCcZWVhLhq2LqY79W1UuN3oefD)
 
-1. Visit the Token Pocket website on your PC and click the **Desktop** button.
+1. Na página seguinte, clique no botão do seu sistema operacional e aguarde o término do download. Este guia usa o Windows, mas o processo é basicamente o mesmo no Mac OS.&#x20;
 
-![](https://lh3.googleusercontent.com/8BvpBrdR19cHhjJq0\_xOFQwpTDLaYUxqLAM03JPFzBPz93SHl3n84Dw\_kICcfOR80iVZFS1QfYsexEUMNnchMLGSH11lHKMqBQWAJUZy7yd0LM6jaFrwRGt5EluBRo\_uDqJBqbg2)
+![](https://lh3.googleusercontent.com/FdtGOB7N7ZKROD0EIKy5roklxcqtYwq26lZ4RX\_8RxUdt-caGPAr03HNTdOtTqpD82hkBcX9umQI1VcL6n0jXky4uVy\_dFDr8pReadLE80AHXkvm4mbvZZN2vxnzeaUmHXATx3GC)
 
-1. On the next page, click the button for your operating system and wait for your download to finish. This guide uses Windows, but the process is largely the same on Mac OS.
+1. Execute o arquivo de instalação. Ele solicitará que você escolha entre tornar o Token Pocket disponível para todos que usam o computador ou apenas para o usuário atual. Para sua segurança, recomendamos apenas o usuário atual.
 
-![](https://lh3.googleusercontent.com/SrYkM-cFg\_tO3RcTlYv2Rq4pViUzRSw5el\_JR8SnQYDmvVYupjJveTUXHr8QPeo30Ooc4EHBKEuYjxM1JbtirRHitGJtZ-2ET\_Xk5a5DRbhqwyJToToii-s6Ch195p5o3Eo4Ajnm)
+![](https://lh5.googleusercontent.com/TGpsjTq\_B1rLK-A8Cqzq9sC0IACpDZFCbpwN5\_GD4r8sCRmaqAdbswC-OmWAM7YiKATEaHTHviODFueMA6sCDSGlvNslYjGWQIrX5X8oR\_5pGPuMJ6X7\_Gz-rEoJwzmS9exEybbs)
 
-1. Run the installation file. It will ask you to choose between making Token Pocket available to everyone using the computer, or just the current user. For your security, we recommend current user only.
+1. Insira uma pasta de destino para instalar e clique em **Instalar**.
 
-![](https://lh3.googleusercontent.com/EnmEle5PcVenTxE7jEtEHhQxeXwKjhzlOkZH67ByFLAIo4RMife2u4n36uDDGjTB8h64KxS0wmlI8FKAbxB6KvjvhD-WgCqdKpyUP1YM4tmxqTzjLGPuqDmf5ABTyY\_5-wG7ppgG)
+![](https://lh4.googleusercontent.com/jLhXL03uhZHBKbHaPvy3ZrD1EmYCR8ECqwMxQIzTKnUtxMNntaDA8Dx4oVlXSadoFhhJqZACsYWVPfvITBEpWfkCfwntcQY3Fw5EYgGH-tmva8PZbvYbBRCy\_c5V7E1yQHvXiU0F)
 
-1. Enter a destination folder to install to and click **Install**.
+1. Quando a instalação estiver concluída, clique em Concluir e execute o Token Pocket.&#x20;
+2. Quando o Token Pocket abre, você pode se deparar com uma interface chinesa. Você pode mudar para inglês clicando em EN no canto inferior esquerdo.
 
-![](https://lh6.googleusercontent.com/ED7cl2\_ZGBkUvM-A7CpE\_bRNfdLQ8DcD2qmq6KaGAUIZTi\_06f7BA\_m-xBhoFzrczfTZQENsYji2Xlh\_DNh0zWpmRnuo45HKX2r8zJxrBtqXkuPgxfCd4jAIvMytHu6iT\_ZPRxmI)
 
-1. Once the installation is finished, click **Finish** and run Token Pocket.
-2. When Token Pocket opens, you may find yourself looking at a Chinese interface. You can change to English by clicking EN in the bottom-left corner.
 
-![](https://lh6.googleusercontent.com/V3VS6TaN0rJtfqjzCo5QEtS1ywJn\_bmmB2hKWLbUGRy\_-Pk83kGfu9feB35VAi4TC7BHKTqkApDagBuWP7XS3tVNzhcMPmANGqLlsOecumQpMMisvUBiABqi05351e7cNUgktWsO)
+1. O Token Pocket solicitará que você crie uma senha. Certifique-se de usar algo difícil de adivinhar; quanto maior a senha, mais segura. Quando terminar, clique em Confirmar.
 
-1. Token Pocket will be asking you to create a password. Make sure you use something that’s hard to guess; the longer the password is, the more secure. When you’re done, click **Confirm**.
 
-![](https://lh5.googleusercontent.com/GQqBU7OEK7BQuJc4NiOHEqt3kjO-B6jM6AAv3PFD6DoYuXywuOz6365Z5rPmNtkigWSg3f1\_zzvoHfWAUvqIpEKaAajkDxVwlaWAljIW1ZGdgSwqECVa2CwgtS\_vOOcX8faW19gB)
 
-1. On the next page, Token Pocket will be asking you to import a private key. This may be intimidating, but Token Pocket will work as an interface for your existing wallet. You’ll need to get your private from whatever existing wallet you want to use.
+1. Na próxima página, o Token Pocket solicitará que você importe uma chave privada. Isso pode ser intimidante, mas o Token Pocket funcionará como uma interface para sua carteira existente. Você precisará obter sua chave privada de qualquer carteira existente que deseja usar.
 
-Here is a [guide for getting your private key from MetaMask](https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key). To import your private key from the mobile version of Token Pocket, see the Mobile Token Pocket tab higher up this page. If you use another wallet and don’t know how to get your private key, you’ll need to find a guide.
+Aqui está um [guia para obter sua chave privada da MetaMask](https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key). Para importar sua chave privada da versão móvel do Token Pocket, consulte a guia Mobile Token Pocket mais acima nesta página. Se você usa outra carteira e não sabe como obter sua chave privada, precisará encontrar um guia.
 
 {% hint style="warning" %}
-Please be extremely careful with how you handle your private keys. Giving your private keys to someone will give them full access to your coins! Token Pocket is an open source project and will use your private key to import your wallet. Even so, only use your private key with applications you trust and can verify are legitimate!
+Por favor, seja extremamente cuidadoso com a forma como você lida com suas chaves privadas. Dar suas chaves privadas a alguém dará acesso total às suas moedas! O Token Pocket é um projeto de código aberto e usará sua chave privada para importar sua carteira. Mesmo assim, use sua chave privada apenas com aplicativos em que você confia e pode verificar se são legítimos!
 {% endhint %}
 
-![](https://lh5.googleusercontent.com/1ZNrWBvjfL\_1joVAxKQVdXbQnGFmbyw1PXAqgAGwaH73KAkrFgJR8N\_pYBJwY\_FTyXy-y\_fRuks3Ne\_n-9xJWVEvOg9NnNMup82smXwGYnDzPqV4Wc9E\_CCE9WKPX9nAP-SoPhxM)
+1. Depois de inserir sua chave privada, clique na rede Ethereum por enquanto. Não foi possível carregar a imagem.
 
-1. Once you’ve entered your private key, click the **Ethereum** network for now.
-
-![](https://lh5.googleusercontent.com/g\_iZzJZAPhsBQUBgQqTvLO1HfuGnCGZDkRD3DFu4g4GPat901700Qk3aBx8Fx5AzY2PH7JYajGM4-4fXm6icPWB-8R5wQQst-W3NWJ6n0Rh\_bbPKXnXrO4h\_JEgu7wtey11EuCN-)
-
-And that’s it, all done! You can follow our [Connect Your Wallet to PancakeSwap guide](https://docs.pancakeswap.finance/get-started/connection-guide) to connect to BNB Smart Chain and PancakeSwap.
+E pronto, tudo pronto! Você pode seguir nosso guia [Conecte sua carteira ao PancakeSwap](https://docs.pancakeswap.finance/v/portuguese-brazilian/get-started/connection-guide) para se conectar na BNB Smart Chain e à PancakeSwap.
 {% endtab %}
 {% endtabs %}
 
 {% hint style="danger" %}
-NEVER, in any situation, should you ever give someone your private key or recovery phrase ("seed phrase"). This will give someone complete access to your crypto!
-
-The genuine PancakeSwap site and staff will never ask you to input your seed phrase.
+NUNCA, em situação nenhuma, você deve dar a alguém sua chave privada ou frase de recuperação ("frase inicial"). Isso dará a alguém acesso completo às suas criptomoedas! O site e a equipe genuínas da PancakeSwap nunca pedirão que você insira sua frase inicial.
 {% endhint %}
