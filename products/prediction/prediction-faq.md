@@ -29,7 +29,7 @@ The treasury fee is currently set at 3%: this may be subject to changes, which w
 
 ### **What are the fees?**
 
-3% of each round's total pot will go to the treasury, which will be used to buyback and burn CAKE every Monday.
+3% of each round's total pot will go to the treasury, which will be used to buyback and burn CAKE burn every Monday.
 
 ### What are you using for your price feed?
 
@@ -37,12 +37,14 @@ PancakeSwap uses two sources for our price feeds. They each have their own purpo
 
 #### ChainLink Oracle
 
-* Used for the Lock price and End price of each prediction market round. This updates in intervals of 5 minutes.
+* Used for the Lock price and End price of each prediction market round. This updates in intervals of 1 minute.
 * Our prediction contract uses the ChainLink Oracle price feed to set the prices used to dictate whether a user has won or not.
+* Used for the "Chainlink" chart on the interface.
 
-#### Binance BNB/USD
+#### Binance
 
-* Used for real-time price updates on the PancakeSwap prediction market interface.
+* Used for real-time price updates on the PancakeSwap prediction market interface.&#x20;
+* Used for the "TradingView" chart on the interface.
 
 Since we’re using two different price feeds, the real-time price updates from Binance and the ChainLink Oracle price may differ by a small amount. However, they shouldn’t vary significantly.
 

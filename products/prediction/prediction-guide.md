@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/how-to-porediction-header.png)
 
-Playing PancakeSwap’s Prediction lets you test your foresight to earn rewards. Use your market knowledge or gut feeling to predict if the BNBUSD price will go up or down in the near future. Get it right and you’ll collect a share of the round’s prize pool!
+Playing PancakeSwap’s Prediction lets you test your foresight to earn rewards. Use your market knowledge or gut feeling to predict if the BNBUSD or CAKEUSD price will go up or down in the near future. Get it right and you’ll collect a share of the round’s prize pool!
 
 {% hint style="warning" %}
 PancakeSwap’s Prediction is a new product that we still consider to be in beta. We may make changes in the future to improve Prediction. As always, the PancakeSwap team will inform users of any changes that will impact how the product works.
@@ -17,6 +17,14 @@ Visit the [PancakeSwap Prediction page](https://pancakeswap.finance/prediction).
 ![](../../.gitbook/assets/1-how-to-use-predictions.png)
 
 Read and accept the conditions then click **Continue**.
+
+## Switch between two prediction markets
+
+![](<../../.gitbook/assets/MBP4-2022.06.27-114859-Google Chrome-Prediction  PancakeSwap - $3.405.gif>)
+
+PancakeSwap offers two separate prediction markets for every player to choose from. You can play based on the CAKE USD price, betting with CAKE. Alternatively, you can play based on BNB USD price, betting with BNB.
+
+To switch between two prediction markets, simply click or tap the currency switcher on the top left corner.
 
 ## Making a prediction for the next round
 
@@ -44,7 +52,9 @@ Each will have a different reward multiplier. The multiplier will change over ti
 
 We'll choose **Enter UP** for this example.
 
-2\. A new window will open. In the window, you'll see "Commit" to commit BNB for your prediction. Type the amount of BNB you would like to commit to your prediction for this round in the field. You can also use the bunny slider or click the percent buttons if you prefer.
+2\. A new window will open. In the window, you'll see "Commit" to commit BNB or CAKE for your prediction. Type the number of tokens you would like to commit to your prediction for this round in the field. You can also use the bunny slider or click the percent buttons if you prefer.
+
+If you are playing CAKE USD prediction market, at the first game, you will have to click "Enable" to enable the smart contract.
 
 ![](<../../.gitbook/assets/image (44).png>)
 
@@ -62,7 +72,7 @@ There's nothing left to do now but wait for your Prediction round to go live.
 
 ## While your entered round is live
 
-A live round will last for 5 minutes. You can watch the price update during the 5 minutes if you'd like.
+A live round will last for 5 minutes. You can watch the price update during the 5 minutes if you'd like.&#x20;
 
 ![](<../../.gitbook/assets/image (48).png>)
 
@@ -106,15 +116,15 @@ If you want to see the results for rounds you've entered that are older than a f
 
 ![](<../../.gitbook/assets/image (50).png>)
 
-2\. A new window will appear showing the amount of BNB you can collect with a **Confirm** button. Click the button and confirm the action in your wallet.
+2\. A new window will appear showing the amount of winnings you can collect with a **Confirm** button. Click the button and confirm the action in your wallet.
 
 ![](<../../.gitbook/assets/image (52).png>)
 
-Your BNB winnings will now be in your wallet.
+Your token winnings will now be in your wallet.
 
 ### Collecting winnings from older rounds
 
-Sometimes you may be away from PancakeSwap's Prediction page for a while, or may have forgotten to collect winnings from older rounds. You can still collect winnings owed to you from older rounds at any time.
+Sometimes you may be away from PancakeSwap's Prediction page for a while or may have forgotten to collect winnings from older rounds. You can still collect winnings owed to you from older rounds at any time.
 
 1\. Find more information on past rounds you've entered by clicking on the **reversing clock icon** next to the round timer.
 
@@ -124,11 +134,11 @@ Sometimes you may be away from PancakeSwap's Prediction page for a while, or may
 
 ![](<../../.gitbook/assets/image (61).png>)
 
-3\. A new window will appear showing the amount of BNB you can collect with a **Confirm** button. Click the button and confirm the action in your wallet.
+3\. A new window will appear showing the amount of winnings you can collect with a **Confirm** button. Click the button and confirm the action in your wallet.
 
 ![](<../../.gitbook/assets/image (52).png>)
 
-Your BNB winnings will now be in your wallet.
+Your winnings will now be in your wallet.
 
 ## Viewing historic profit and loss data
 
