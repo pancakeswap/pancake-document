@@ -64,7 +64,7 @@ PancakeSwap **** 彩票奖金池时常高达**百万美元，**每天**多达 11
 眼见为实：
 
 * 查看这些对于 PancakeSwap 的安全审计报告：
-  * [Certik 对 PancakeSwap 的安全审计](https://www.certik.org/projects/pancakeswap) 和 [Certik 保险盾](https://shield.certik.foundation)
+  * [Certik 对 PancakeSwap 的安全审计](https://www.certik.org/projects/pancakeswap) 和 [Certik 保险盾](https://shield.certik.foundation/)
   * [慢雾 对 PancakeSwap 的安全审计](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20%20-%20PancakeSwap.pdf)
   * [慢雾 对自动蛋糕 Syrup 资金池的安全审计](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20CakeVault.pdf)
 * 公开透明：

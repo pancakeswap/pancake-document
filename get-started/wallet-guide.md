@@ -73,7 +73,7 @@ Trust Wallet 在移动设备上颇受欢迎的钱包应用。它支持 DApps，N
 * 有限的 DApps 支持
 * 交易通知可能会延迟
 
-[**下载 Trust Wallet**](https://trustwallet.com) **（自动检测您的设备）**
+[**下载 Trust Wallet**](https://trustwallet.com/) **（自动检测您的设备）**
 
 ****[**Trust Wallet 设置指南**](https://www.binance.com/cn/blog/421499824684901157/How-to-Set-Up-and-Use-Trust-Wallet-for-Binance-Smart-Chain)****
 {% endtab %}
@@ -133,7 +133,7 @@ Token Pocket 是一个原生支持多个网络（加密货币链）的虚拟货�
 
 1.  访问 Token Pocket 网站并点击 **手机下载** 开始下载
 
-    ![](../.gitbook/assets/image.jpeg)
+    <img src="../.gitbook/assets/image.jpeg" alt="" data-size="original">
 2. 页面将自动检测您的设备，点击 **Google Play** 或 **App Store** 前往相应的商店下载。苹果用户建议使用 TestFlight 下载 TokenPocket Pro ，请遵循页面指示。
 3.  安装 Token Pocket 后打开，您将会看到一个询问您是否已有钱包的选项。若您想导入现有的钱包，请选择「我有钱包」。点击「我没有钱包」创建一个新的钱包：
 

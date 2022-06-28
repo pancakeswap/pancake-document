@@ -9,14 +9,14 @@
 眼见为实：
 
 * 查看这些对于 PancakeSwap 的安全审计报告：
-  * [Certik 对 PancakeSwap 的安全审计](https://www.certik.org/projects/pancakeswap) 和 [Certik 保险盾](https://shield.certik.foundation)
+  * [Certik 对 PancakeSwap 的安全审计](https://www.certik.org/projects/pancakeswap) 和 [Certik 保险盾](https://shield.certik.foundation/)
   * [慢雾 对 PancakeSwap 的安全审计](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20%20-%20PancakeSwap.pdf)
   * [慢雾 对自动蛋糕 Syrup 资金池的安全审计](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20CakeVault.pdf)
-  * [派盾 对 彩票V2 合约的审计](https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-PancakeswapLottery-v1.0.pdf)
+  * [派盾 对 彩票V2 合约的审计](https://github.com/peckshield/publications/blob/master/audit\_reports/PeckShield-Audit-Report-PancakeswapLottery-v1.0.pdf)
   * [慢雾 对 彩票V2 合约的审计](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20PancakeSwap%20Lottery.pdf)
 * 公开透明：
   * PancakeSwap 在开源软件上构造：我们的网站和所有的智能合约都是公开的，以便最大化透明度。
-  * 我们的智能合约均已在 BscScan 上验证源码，您可以去亲自检查：[1](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E) [2](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#code) [3](https://bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812) [4](https://bscscan.com/address/0x1b96b92314c44b159149f7e0303511fb2fc4774f#code) [5](https://bscscan.com/address/0x92E8CeB7eAeD69fB6E4d9dA43F605D2610214E68) 
+  * 我们的智能合约均已在 BscScan 上验证源码，您可以去亲自检查：[1](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E) [2](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#code) [3](https://bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812) [4](https://bscscan.com/address/0x1b96b92314c44b159149f7e0303511fb2fc4774f#code) [5](https://bscscan.com/address/0x92E8CeB7eAeD69fB6E4d9dA43F605D2610214E68)&#x20;
 * 安全操作章程：
   * 对于所有智能合约的互动，大厨们均使用多签名钱包。
   * 合约均有时间锁，让您放心投资。
@@ -55,7 +55,7 @@ CAKE.农场流动性挖矿稍加复杂，并且需要 LP（流动性）凭证来
 
 ## 为什么我的交易失败了？
 
-您可以在 [https://bscscan.com/](https://bscscan.com) 查看您的链上交易状态及失败/错误的原因。您需要复制交易 ID (tx id) 并在搜索栏中粘贴查看。
+您可以在 [https://bscscan.com/](https://bscscan.com/) 查看您的链上交易状态及失败/错误的原因。您需要复制交易 ID (tx id) 并在搜索栏中粘贴查看。
 
 若您看到具体的错误代码，请参考 [错误排除指南](https://docs.pancakeswap.finance/help/troubleshooting)。
 
@@ -107,7 +107,7 @@ $CAKE 没有一个设定的最大总量，总流通量通过各种销毁手段�
 
 您可以通过点击菜单栏中的「信息」，查看 PancakeSwap 及上面所有可交易代币们的数据。
 
-Info 信息站：[https://pancakeswap.info/](https://pancakeswap.info)
+Info 信息站：[https://pancakeswap.info/](https://pancakeswap.info/)
 
 ## PancakeSwap 会遭受闪电贷攻击吗？
 

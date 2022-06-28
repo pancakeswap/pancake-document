@@ -52,7 +52,7 @@ const NewButtonVariant = styled(Button)`
 
 #### Use the tools !
 
-Most of our repos use [Typescript](https://www.typescriptlang.org/docs), [ESLint](https://eslint.org/docs/user-guide/getting-started), and [Prettier](https://prettier.io). Make sure you are familiar with Typescript’s best practices, and enable an ESLint and Prettier plugin for your IDE.
+Most of our repos use [Typescript](https://www.typescriptlang.org/docs), [ESLint](https://eslint.org/docs/user-guide/getting-started), and [Prettier](https://prettier.io/). Make sure you are familiar with Typescript’s best practices, and enable an ESLint and Prettier plugin for your IDE.
 
 {% hint style="warning" %}
 Make sure your code is formatted with Prettier, and is free from any ESLint error before you submit a pull request.

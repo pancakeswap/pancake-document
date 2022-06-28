@@ -34,9 +34,9 @@
 
 ## 经济模型 <a href="#tokenomics" id="tokenomics"></a>
 
-* [CAKE](tokenomics/cake-updated-10-29-2020/README.md)
-  * [CAKE 代币经济模型](tokenomics/cake-updated-10-29-2020/cake-dai-bi-jing-ji-mo-xing.md)
-  * [控制 CAKE 的总量](tokenomics/cake-updated-10-29-2020/kong-zhi-cake-de-zong-liang.md)
+* [CAKE](tokenomics/cake/README.md)
+  * [CAKE 代币经济模型](tokenomics/cake/cake-dai-bi-jing-ji-mo-xing.md)
+  * [控制 CAKE 的总量](tokenomics/cake/kong-zhi-cake-de-zong-liang.md)
 
 ## Development Guide <a href="#code" id="code"></a>
 

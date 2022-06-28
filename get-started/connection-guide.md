@@ -98,10 +98,10 @@
 🎥 [如何添加币安智能链 (BSC)](https://t.me/PancakeSwap\_CN/143416)\
 若您有任何疑问，欢迎加入上面消息所在的 PancakeSwap 官方中文电报群组，寻求帮助！
 
-1. 成功添加网络后，您即可访问 [PancakeSwap 主页](https://pancakeswap.finance)，点击右上角「连接钱包 / Connect Wallet」图标，并选择 MetaMask 。
+1. 成功添加网络后，您即可访问 [PancakeSwap 主页](https://pancakeswap.finance/)，点击右上角「连接钱包 / Connect Wallet」图标，并选择 MetaMask 。
 2.  MetaMask 将弹出窗口请求确认，请点击「下一步」，然后点击「连接」。
 
-    ![](<../.gitbook/assets/MBP3-2021.08.16-092305PM-Chromium\_MetaMask Notification.png>)
+    <img src="../.gitbook/assets/MBP3-2021.08.16-092305PM-Chromium_MetaMask Notification.png" alt="" data-size="original">
 {% endtab %}
 
 {% tab title="币安钱包" %}
@@ -111,7 +111,7 @@
 2.  在顶部的网络选项中，选择「币安智能链」
 
     ![](../.gitbook/assets/MBP3-2021.08.16-093043PM-Chromium\_.png)
-3.  访问 [PancakeSwap 主页](https://pancakeswap.finance) ，点击右上角的「连接钱包 / Connect Wallet」，选择「更多 / More」，并选择 "Binance Chain"。
+3.  访问 [PancakeSwap 主页](https://pancakeswap.finance/) ，点击右上角的「连接钱包 / Connect Wallet」，选择「更多 / More」，并选择 "Binance Chain"。
 
     ![](<../.gitbook/assets/MBP3-2021.08.16-093605PM-Chromium\_收藏品  PancakeSwap - $22.285.png>)
 4. 钱包将弹出界面要求确认，请点击「连接」。

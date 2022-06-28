@@ -27,7 +27,7 @@ description: 迁移并质押到新的 PancakeSwap MasterChef
 
 ![​](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2F9wOiTUoXPpiziOEmZpQd%2Fmigration-helper-steps-guide-1.png?alt=media\&token=63b6665d-138d-4836-b405-e05b20e455db)
 
-前往 [https://pancakeswap.finance](https://pancakeswap.finance)，连接钱包，并前往**农场**或**糖浆池**页面。此时，你应该会看到一个迁移提示。
+前往 [https://pancakeswap.finance](https://pancakeswap.finance/)，连接钱包，并前往**农场**或**糖浆池**页面。此时，你应该会看到一个迁移提示。
 
 ![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2FROWbF1rqT1bXk883dzfO%2Fmigration-helper-steps-guide-2.png?alt=media\&token=a89beb0c-4cc1-4503-a9c4-92c42678981d)
 
