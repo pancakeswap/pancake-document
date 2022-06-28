@@ -49,7 +49,7 @@ As well as the above, CAKE is also burned in the following ways:
 * **45,000** CAKE per day (historically assigned to the lottery)
 * **3%** of every BNB Prediction markets round is used to buy CAKE for burning
 * **3%** of every CAKE Prediction markets round
-* **2%** of every yield harvest in the Auto CAKE Pool
+* **2%** of every yield harvest from all the flexible staking positions in CAKE pool
 * **2%** of every NFT sale on the NFT Market is used to buy CAKE for burning
 
 ## Why is the CAKE burn manual?
