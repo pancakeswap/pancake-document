@@ -1,4 +1,4 @@
-# Lottery v2
+# 🎟 Lottery v2
 
 ![](../../.gitbook/assets/lottery-v2-header.png)
 

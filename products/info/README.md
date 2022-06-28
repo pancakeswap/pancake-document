@@ -1,2 +1,2 @@
-# Analytics (Info)
+# 📈 Analytics (Info)
 

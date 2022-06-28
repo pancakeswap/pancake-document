@@ -1,4 +1,4 @@
-# Yield Farming
+# 🚜 Yield Farming
 
 ![](../../.gitbook/assets/yield-farms-header.png)
 

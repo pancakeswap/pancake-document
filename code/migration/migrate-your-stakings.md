@@ -66,7 +66,7 @@ Para Pool de Syrup de CAKE. Por favor:
 3. Clique "**Confirm**".
 
 {% hint style="info" %}
-A opção de stake bloqueado (prazo fixo) ficará disponível alguns dias após a migração. Você poderá converter sua posição de stake flexível para bloqueada. Para saber mais sobre a nova Pool de Syrup de CAKE com stake de prazo fixo, confira [esse doc](../../products/coming-soon/new-cake-pool/).
+A opção de stake bloqueado (prazo fixo) ficará disponível alguns dias após a migração. Você poderá converter sua posição de stake flexível para bloqueada. Para saber mais sobre a nova Pool de Syrup de CAKE com stake de prazo fixo, confira [esse doc](broken-reference).
 {% endhint %}
 {% endtab %}
 

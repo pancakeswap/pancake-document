@@ -65,9 +65,7 @@
   * [How to Vote](products/voting/voting-guide.md)
   * [How to Vote with SafePal Wallet](products/voting/how-to-vote-with-safepal-wallet.md)
 * [🍳Coming Soon!](products/coming-soon/README.md)
-  * [New CAKE Syrup Pool](products/coming-soon/new-cake-pool/README.md)
-    * [How to use Flexible Staking option](products/coming-soon/new-cake-pool/flexible-staking.md)
-    * [How to use Fixed Term Staking option](products/coming-soon/new-cake-pool/fixed-term-staking.md)
+  * [Zap](products/coming-soon/zap.md)
 
 ## Tokenomics
 

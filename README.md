@@ -65,7 +65,7 @@ Novas rodadas a cada 5 minutos!
 Veja por você mesmo:
 
 * Cheque essaas auditorias de segurança da PancakeSwap:
-  * [Auditoria de segurança da PancakeSwapela Certik](https://www.certik.com/projects/pancakeswap) e [Shield insurance da Certik](https://shield.certik.foundation)
+  * [Auditoria de segurança da PancakeSwapela Certik](https://www.certik.com/projects/pancakeswap) e [Shield insurance da Certik](https://shield.certik.foundation/)
   * [Auditoria de segurança da PancakeSwapela pela Slowmist](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20%20-%20PancakeSwap.pdf)
   * [Auditoria de segurança do pool Auto-CAKE pela Slowmist](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20CakeVault.pdf)
   * [Auditoria de segurança do Prediction V2 pela Peckshield](https://github.com/peckshield/publications/blob/master/audit\_reports/PeckShield-Audit-Report-PancakeSwap-PredictionV2-v1.0.pdf)

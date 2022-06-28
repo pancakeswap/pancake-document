@@ -1,4 +1,4 @@
-# IFO (Initial Farm Offering)
+# 🛍 IFO (Initial Farm Offering)
 
 ![](../../.gitbook/assets/ifo-header.png)
 
