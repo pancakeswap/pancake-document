@@ -29,7 +29,7 @@ Tenemos una Guía de [Yield Farming](https://docs.pancakeswap.finance/products/y
 See for yourself:
 
 * Check out these PancakeSwap security audits:&#x20;
-  * [Certik’s security audit of PancakeSwap](https://www.certik.org/projects/pancakeswap) and [Certik's Shield insurance](https://shield.certik.foundation)
+  * [Certik’s security audit of PancakeSwap](https://www.certik.org/projects/pancakeswap) and [Certik's Shield insurance](https://shield.certik.foundation/)
   * [Slowmist's security audit of PancakeSwap](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20%20-%20PancakeSwap.pdf)
   * [Slowmist's Auto-CAKE Pool security audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20CakeVault.pdf)
 * Transparent:
@@ -53,7 +53,7 @@ Depende de tus necesidades. Tenemos una guía de [cómo seleccionar y crear una 
 
 ## Por qué mi transacción falla?
 
-Puedes ver el estado de la transacción en [https://bscscan.com/](https://bscscan.com).
+Puedes ver el estado de la transacción en [https://bscscan.com/](https://bscscan.com/).
 
 Nuestra [Guía de Errores Frecuentes](https://docs.pancakeswap.finance/help/troubleshooting)  tal vez tiene la solución a lo que estés buscando.
 
@@ -97,7 +97,7 @@ Los fondos del tesoro se utilizan para cubrir los gastos involucrados en la gest
 
 Puede consultar las analíticas de PancakeSwap haciendo clic en la pestaña "**Info**" en el menú superior o haciendo clic en el siguiente enlace:
 
-&#x20;**Info**: [https://pancakeswap.info/](https://pancakeswap.info)
+&#x20;**Info**: [https://pancakeswap.info/](https://pancakeswap.info/)
 
 ## Está PancakeSwap protegida frente a flash loans?
 

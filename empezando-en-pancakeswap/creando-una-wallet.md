@@ -71,7 +71,7 @@ A continuación, podes encontrar información mas detallada de cada billetera, a
 \- DApps limitadas\
 \- Las notificaciones de las transacciones pueden verse demoradas.
 
-[**Descarga Trust Wallet**](https://trustwallet.com) **** (Detecta automáticamente el dispositivo)[****\
+[**Descarga Trust Wallet**](https://trustwallet.com/) **** (Detecta automáticamente el dispositivo)[****\
 **Trust Wallet: Guía de Configuración**](https://www.binance.com/es/blog/421499824684901157/C%C3%B3mo-configurar-y-usar-Trust-Wallet-en-Binance-Smart-Chain)****
 {% endtab %}
 

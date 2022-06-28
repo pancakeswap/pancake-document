@@ -27,7 +27,7 @@ En el momento de la migración, los Chefs implementarán un ayudante paso a paso
 
 ### 1. Ir al Ayudante de Migración <a href="#1.-look-for-the-migration-helper" id="1.-look-for-the-migration-helper"></a>
 
-Ir a [https://pancakeswap.finance](https://pancakeswap.finance), conectar tu wallet, y visitar  los **Farms** o **Pools**. Deberías ver una notificación de migración en la parte superior de la página.​​Clic en "**Proceed**" para ingresar al auxiliar de migración.
+Ir a [https://pancakeswap.finance](https://pancakeswap.finance/), conectar tu wallet, y visitar  los **Farms** o **Pools**. Deberías ver una notificación de migración en la parte superior de la página.​​Clic en "**Proceed**" para ingresar al auxiliar de migración.
 
 ![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2FROWbF1rqT1bXk883dzfO%2Fmigration-helper-steps-guide-2.png?alt=media\&token=a89beb0c-4cc1-4503-a9c4-92c42678981d)
 

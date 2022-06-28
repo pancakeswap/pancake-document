@@ -46,7 +46,7 @@ Lea la [guía para conectarse con Trust Wallet a PancakeSwap a través de Wallet
 
 ## **Recursos**
 
-[**Descargar Trust Wallet**](https://trustwallet.com) **** (Detecta automáticamente el dispositivo)[ ](https://www.binance.com/en/blog/421499824684901157/How-to-Set-Up-and-Use-Trust-Wallet-for-Binance-Smart-Chain)
+[**Descargar Trust Wallet**](https://trustwallet.com/) **** (Detecta automáticamente el dispositivo)[ ](https://www.binance.com/en/blog/421499824684901157/How-to-Set-Up-and-Use-Trust-Wallet-for-Binance-Smart-Chain)
 
 [**Guia de configuracion de Trust Wallet**](https://www.binance.com/es/blog/421499824684901157/C%C3%B3mo-configurar-y-usar-Trust-Wallet-en-Binance-Smart-Chain)\
 

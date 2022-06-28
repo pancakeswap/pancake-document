@@ -67,7 +67,7 @@ Nuevas rondas cada 5 minutos!\
 Puedes verlo tú mismo:
 
 * Auditorías de PancakeSwap:&#x20;
-  * [Auditoría por Certik ](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20%20-%20PancakeSwap.pdf)y su [Shield insurance](https://shield.certik.foundation)
+  * [Auditoría por Certik ](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20%20-%20PancakeSwap.pdf)y su [Shield insurance](https://shield.certik.foundation/)
   * [Auditoría por Slowmist ](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20%20-%20PancakeSwap.pdf)
   * [Auto-CAKE Pool por Slowmist](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20CakeVault.pdf)
 * Transparencia:
