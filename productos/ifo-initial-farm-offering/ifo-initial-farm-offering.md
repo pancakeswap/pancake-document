@@ -118,7 +118,7 @@ Confirma la acción con tu billetera. Ahora tendrás tus nuevos tokens. ¡Felici
 
 **IFO con vesting**
 
-![](<../../.gitbook/assets/image (172).png>)
+![](<../../.gitbook/assets/image (173).png>)
 
 Once the IFO sale is finished. A vesting interface will be presented in the IFO sale section. You can find all the useful information about the entire vesting schedule. Including but not limited to:&#x20;
 
