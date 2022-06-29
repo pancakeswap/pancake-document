@@ -57,7 +57,7 @@
   * [Teams](products/nft-profile-system/teams.md)
 * [🛍 IFO (Initial Farm Offering)](products/ifo-initial-farm-offering/README.md)
   * [How to Participate in an IFO](products/ifo-initial-farm-offering/ifo-guide.md)
-  * [How to Participate in an IFO with BscScan](products/ifo-initial-farm-offering/how-to-participate-in-an-ifo-with-bscscan.md)
+  * [iCAKE](products/ifo-initial-farm-offering/icake.md)
   * [Contract Details](products/ifo-initial-farm-offering/contract-details.md)
 * [📈 Analytics (Info)](products/info/README.md)
   * [Analytics](products/info/pancakeswap-analytics.md)
