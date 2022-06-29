@@ -4,7 +4,11 @@ description: Buy new tokens with a brand new token sale model
 
 # Cómo Participar en una IFO
 
-![](<../../.gitbook/assets/docs masthead (30).png>)
+![](<../../.gitbook/assets/docs-masthead (5).png>)
+
+**Advertencia**: esta página está desactualizada. Como traeremos varias actualizaciones nuevas al proceso de IFO en las próximas semanas, no mantendremos esta página actualizada por ahora: consulte los detalles en la propuesta (votación) de IFO para conocer los detalles de la IFO en la que desea participar.
+
+
 
 Un IFO en PancakeSwap es una oferta inicial de farm. Las IFO le permiten obtener acceso anticipado a los nuevos tokens de PancakeSwap tan pronto como se agregan. Al ser uno de los primeros en tener un nuevo token, ¡puedes beneficiarte de recompensas más altas!&#x20;
 
@@ -26,8 +30,6 @@ Una vez que tenga un perfil, también deberá proporcionar liquidez para obtener
 
 Una vez que haya seguido los pasos anteriores, vuelva a la página de IFO. Desplácese hacia abajo hasta la sección en color "Cómo participar". Debería ver su progreso en el paso 3, Confirmar tokens LP, como en la imagen de arriba. Si por alguna razón no está en el paso 3, vuelva a las guías vinculadas más arriba en esta página.
 
-![](https://lh5.googleusercontent.com/7Bh78UrDgqLpgsIjtAuX8UFkd8aG7-J3gsp36xGsCG0kPrkYckmy6UgTKQZfUJEkIMccixBdrhVUVmv2kJfnVGq9Vljb\_AXetLk89YzBIiSBPSGaIA-v2vRImzvNrFOnJWQWle-S)
-
 Y eso es todo ; ¡Ahora está listo para participar en un IFO cuando se publique!&#x20;
 
 ### Cuando comenzará una IFO <a href="#knowing-when-an-ifo-will-start" id="knowing-when-an-ifo-will-start"></a>
@@ -37,8 +39,6 @@ El IFO es un evento de tiempo limitado, que solo dura una hora. ¡Querrá compro
 #### Consulta la página de IFO <a href="#check-the-ifo-page" id="check-the-ifo-page"></a>
 
 Las IFO tendrán una cuenta regresiva en la parte superior de la página de IFO.
-
-![](https://lh6.googleusercontent.com/gbg5QJX2n0vruK18hFXp8VlRn-klDr2MwXPFQ6olVP\_Fk\_Ri95\_yIDj6AGoawS0K81D9-ixB0yqeU91zqZD--6pvb-Jas-Pzn4-fhrlhB\_Pru\_8qKFbg6SMGjnhQQajgWyzsvSBU)
 
 El enlace (**bloques**) abrirá el explorador BscScan en una nueva ventana en el bloque inicial.&#x20;
 
@@ -76,17 +76,11 @@ Puede comprar tokens de ambas ventas, pero la Venta Básica es limitada. Si solo
 
 1\. Aportemos algunos LP Tokens a la Venta Básica. Haga clic en el botón **Confirmar tokens LP en Venta básica**. Aparecerá una ventana.
 
-![](https://lh6.googleusercontent.com/RsQaoFoDpcE1YJgCp4KXRYG5zea1XRm-7pPqQpxA97i7D\_sn\_lmDfJB8WeH4fkH\_2Gs76mnJq2xKVfuQKGaDZGLIXTxru8wYP2Yykmc1V4S8QCZGnZ9-FpudtcD2Jt1kMTsd7g2h)
-
 2\. En la nueva ventana, ingrese su cantidad de LP Tokens en el campo.
-
-![](https://lh5.googleusercontent.com/yzrcq53uIbk2EoVqXXDyAWlVAp998\_IAhCCQMlxi0fh8dI15hBcJNls2oO4SckaPtmmaNFatWJm4f9BOUH-fhIf6KsaQv3h32nqPmAroVBEY3SedB0WVTep9B88Za\_Ez6ZVRu6eK)
 
 &#x20;Recuerde, la Venta Básica tiene un límite de alrededor de $ 100 USD. Se le devolverán todos los tokens LP que no pueda gastar en tokens nuevos, por lo que no tendrá que preocuparse por perder ningún token.
 
 3\. Haga clic en el botón **Confirmar** y confirme la acción con su billetera. Una vez que haya aportado sus LP Tokens, la sección de Venta Básica mostrará su monto aportado en "Sus LP Tokens comprometidos".
-
-![](https://lh5.googleusercontent.com/LL-9EVpUQlDIbIrZzwmgfYpRHpq1AolDhML9rZGSafBhM\_7GfV-sw9ZQqL4Tn4j6JIyTGxkU-K7S2Z23WItu\_GafnSZHb3fI9hzlwGKTS17aLOZdrU5iHfXvedBzaI-Q8weHSF6Q)
 
 Puede agregar más tokens LP en cualquier momento durante el evento IFO siempre que no haya alcanzado el máximo. Si es así, verá "Máximo comprometido" en el botón atenuado.&#x20;
 
@@ -96,11 +90,7 @@ Si no desea comprometer más LP Tokens al IFO, puede pasar a la siguiente secci�
 
 1\. Para usar sus tokens LP en la venta ilimitada, haga clic en el botón Confirmar tokens LP en Venta ilimitada. Aparecerá una ventana.
 
-![](https://lh6.googleusercontent.com/RsQaoFoDpcE1YJgCp4KXRYG5zea1XRm-7pPqQpxA97i7D\_sn\_lmDfJB8WeH4fkH\_2Gs76mnJq2xKVfuQKGaDZGLIXTxru8wYP2Yykmc1V4S8QCZGnZ9-FpudtcD2Jt1kMTsd7g2h)
-
 2\. En la nueva ventana, ingrese su cantidad de LP Tokens en el campo.
-
-![](https://lh6.googleusercontent.com/LFn-zETI5pwPko-YmsaAK8nH7U3YGhFJXuiDONWeUh6lw0cCH1xPf6wOSbxy-dzd0DEjz-AtxcnzXyuft8U9RdbgXzNNlAfYaoNvl4XqaTr2d8JoPLUaijKkjdSQvQEYMiYSmqhD)
 
 
 
@@ -108,21 +98,38 @@ Si no desea comprometer más LP Tokens al IFO, puede pasar a la siguiente secci�
 
 3\. Haga clic en el botón Confirmar y confirme la acción con su billetera. Una vez que se hayan comprometido sus tokens LP, la sección Venta ilimitada mostrará su monto comprometido en "Sus tokens LP comprometidos". Puede agregar más tokens LP en cualquier momento durante el evento IFO siempre que tenga los fondos. Tenga en cuenta que hay una tarifa por la Venta ilimitada, que se enumera junto a "Tarifa adicional".
 
-![](https://lh3.googleusercontent.com/1k5gjysitCJPDNFXFYJXrFHVGHIEPvfVrSe\_Aa0JuRx3D6txXJgjJFO9-or6E-1yeXacfclpGpiUm8ckDcm2ETWGpOTqtK8tT95rVT0UHlvcoYB54Gwapp3mRkz6yg69vg25qWwx)
-
 Puede agregar más tokens LP en cualquier momento durante el evento IFO, siempre y cuando tenga los fondos. Tenga en cuenta que hay una tarifa por la Venta Ilimitada, que aparece junto a "Fee adicional".
 
 ## Luego de que IFO termina <a href="#after-the-ifo-has-ended" id="after-the-ifo-has-ended"></a>
 
 Cuando finalice el IFO, podrá recoger sus nuevos tokens. La cantidad que obtendrá depende de cuántas personas participaron en el IFO. Se le devolverán todos los tokens LP adicionales que haya comprometido con el IFO que no se hayan utilizado para comprar tokens nuevos.
 
+### Token Vesting
+
+If an IFO has token vesting, the details and rules of the vesting will be elaborated in the vote proposal. Be sure to check and get familiar with the vesting schedule before committing to an IFO. You can also click this button in the detail section of an IFO sale to check the proposal directly.
+
 ### **Recolectando tus nuevos tokens** <a href="#collecting-your-new-tokens" id="collecting-your-new-tokens"></a>
+
+**IFO sin vesting de tokens**
 
 Recoger tus nuevos tokens es increíblemente fácil. Simplemente regrese a la página de IFO una vez que finalice el evento de IFO y haga clic en el botón Reclamar tokens debajo de Venta básica y, si lo ha usado, también en Venta ilimitada.
 
-![](https://lh6.googleusercontent.com/c97z4DkFT3i2Orj-5gg0mX7IV7OLdPuaXIJi85iMCeLKT0VJM0mF8i8X6Ux4sEOSE3WRCJfeQsNPadIbYDcxC5EUCYlurZHXtfONBi0NHIa1falU7d8FkEap-1AgyfI1T6ouxlKQ)
-
 Confirma la acción con tu billetera. Ahora tendrás tus nuevos tokens. ¡Felicidades!
+
+**IFO con vesting**
+
+![](<../../.gitbook/assets/image (172).png>)
+
+Once the IFO sale is finished. A vesting interface will be presented in the IFO sale section. You can find all the useful information about the entire vesting schedule. Including but not limited to:&#x20;
+
+* The total amount of purchased token.&#x20;
+* The number of tokens has already been released.&#x20;
+* The number of tokens available to claim.&#x20;
+* When the release schedule is finished.&#x20;
+
+You can click the **Claim** button to claim any tokens available at the moment.
+
+Throughout the entire vesting schedule, you can come back to the IFO page at any time and claim any available tokens.&#x20;
 
 ### Usando tus nuevos tokens en Farms <a href="#using-your-new-tokens-in-farms" id="using-your-new-tokens-in-farms"></a>
 

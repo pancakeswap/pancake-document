@@ -1,6 +1,6 @@
 # Cómo Participar en una IFO (BscScan)
 
-![](<../../.gitbook/assets/docs masthead (31).png>)
+![](<../../.gitbook/assets/docs-masthead (8).png>)
 
 Joining IFOs can be exciting and very rewarding. The [PancakeSwap website’s IFO page](https://pancakeswap.finance/ifo) is an easy way to join an IFO. But some users may prefer to interact directly with smart contracts on the BscScan website. Using BscScan will let you see a contract's code, review its analytics and events in real-time, and find other useful information.
 

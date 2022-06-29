@@ -1,6 +1,6 @@
 # Equipos
 
-![](../../.gitbook/assets/Equipos.png)
+![](../../.gitbook/assets/equipos.png)
 
 Ser parte de un equipo te permite unirte a eventos de equipo y ganar CAKE y recompensas únicas como NFT y logros.&#x20;
 

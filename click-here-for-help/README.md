@@ -1,6 +1,6 @@
 # Ayuda
 
-![](../.gitbook/assets/Ayuda.png)
+![](../.gitbook/assets/ayuda.png)
 
 Si te encuentras atascado, si algo no funciona como está destinado, o no estás seguro de si algo ha funcionado o no, esta sección de ayuda puede ser capaz de, bueno, ayudar.
 

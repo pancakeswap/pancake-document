@@ -2,7 +2,7 @@
 
 
 
-![](<../../.gitbook/assets/como predicion.png>)
+![](../../.gitbook/assets/como-predicion.png)
 
 Jugar a la Predicción de PancakeSwap te permite poner a prueba tu previsión para ganar recompensas. Utilice su conocimiento del mercado o intuición para predecir si el precio BNB/USDT subirá o bajará en un futuro próximo. ¡Hazlo bien y te llevarás una parte de los premios de la ronda!
 

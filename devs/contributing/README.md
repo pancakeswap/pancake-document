@@ -8,7 +8,7 @@ description: Gracias por mostrar tu interés en contribuir con PancakeSwap !
 
 Pancake es un proyecto open-source. Si quieres contribuir con el proyecto, esta sección está aquí para guiarte a través de tus primeros pasos con el equipo de Pancake :pancakes:&#x20;
 
-Antes de comenzar cualquier desarrollo, le recomendamos que envíe un problema en Github para discutir el mismo y su solución con el equipo. Si desea comunicarse directamente con el equipo de desarrollo, póngase en contacto con **@chef\_chungus** en Telegram <img src="../../.gitbook/assets/Logo.svg" alt="" data-size="line">&#x20;
+Antes de comenzar cualquier desarrollo, le recomendamos que envíe un problema en Github para discutir el mismo y su solución con el equipo. Si desea comunicarse directamente con el equipo de desarrollo, póngase en contacto con **@chef\_chungus** en Telegram <img src="../../.gitbook/assets/logo.svg" alt="" data-size="line">&#x20;
 
 ### Configurar tu entorno de desarrollo
 

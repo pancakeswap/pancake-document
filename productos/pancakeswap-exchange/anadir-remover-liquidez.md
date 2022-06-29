@@ -1,6 +1,6 @@
 # Añadir/Remover Liquidez
 
-![](<../../.gitbook/assets/docs masthead (25).png>)
+![](<../../.gitbook/assets/docs-masthead (2).png>)
 
 La liquidez es fundamental para el funcionamiento del Exchange PancakeSwap. Puede agregar liquidez para cualquier par de tokens a través de la página Liquidez.
 

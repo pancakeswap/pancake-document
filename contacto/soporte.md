@@ -1,6 +1,6 @@
 # Soporte
 
-![](<../.gitbook/assets/At al Cliente.png>)
+![](../.gitbook/assets/at-al-cliente.png)
 
 ## No existe soporte/atención al cliente en PancakeSwap.
 

@@ -6,7 +6,7 @@ description: >-
 
 # Errores Frecuentes
 
-![](<../.gitbook/assets/Problemas Frecuentes.png>)
+![](../.gitbook/assets/problemas-frecuentes.png)
 
 A veces estamos frente a un problema que no parece tener una solución clara. Esperamos que estos tips frente a problemas frecuentes puedan ayudarte a solucionarlo.
 
@@ -27,7 +27,7 @@ Está intentando intercambiar tokens, pero su tolerancia al deslizamiento (Slipp
 3. Aumente su tolerancia al deslizamiento (Slippage):
    1. Toque el icono de configuración en la página de liquidez.
    2. Aumente un poco su deslizamiento (Slippage) e intente de nuevo.\
-      ![](<../.gitbook/assets/image (9) (4) (2).png>)
+      ![](<../.gitbook/assets/image (9) (4) (2) (4).png>)
 4. Por último, intente ingresar una cantidad con menos valores decimales.
 {% endtab %}
 
@@ -57,7 +57,7 @@ Aún no funciona?
 1. Toque el icono de configuración en la página de liquidez.
 2. Aumente un poco su deslizamiento (Slippage) e intente de nuevo.
 
-![](<../.gitbook/assets/image (9) (4) (2).png>)
+![](<../.gitbook/assets/image (9) (4) (2) (4).png>)
 {% endtab %}
 
 {% tab title="Razón" %}
@@ -93,7 +93,7 @@ Dirígete al contrato del token LP que estás intentando aprobar. Por ejemplo, d
 2. En la sección **5. balanceOf**, ingresa tu dirección de la wallet y presiona **Query**.
 3. Anota el número que se exporta. Este muestra tu saldo dentro del LP en formato uint256, que necesitarás en el siguiente paso.&#x20;
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (32).png>)
 
 ### Agregar o Remover Liquidez
 
@@ -107,7 +107,7 @@ Dirígete al contrato del Router: [https://bscscan.com/address/0x05ff2b0db69458a
 6. Agrega la dirección de tu billetera en **to (address)**.
 7. Deadline debe ser un tiempo de epoch mayor que el tiempo en que se ejecuta el transacción.&#x20;
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (19).png>)
 
 {% hint style="warning" %}
 Esto puede causar un muy alto deslizamiento (Slippage), y causar que el usuario pierda algunos fondos si realiza Frontrun.&#x20;
@@ -193,7 +193,7 @@ Intenta aumentar manualmente el **gas limit** (no el gas price!) en tu wallet, a
 
 Un límite de gas (Gas Limit) en 200000 usualmente es suficiente
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (169).png>)
 
 El ejemplo de arriba es en Metamask; echa un vistazo a los docs de tu wallet si no estás seguro cómo ajustar el gas limit.
 {% endtab %}

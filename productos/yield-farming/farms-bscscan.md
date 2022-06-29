@@ -1,6 +1,6 @@
 # Cómo usar Farms (BscScan)
 
-![](<../../.gitbook/assets/docs masthead (26).png>)
+![](<../../.gitbook/assets/docs-masthead (7).png>)
 
 Dado que requiere varios pasos, el uso de Farms con PancakeSwap puede parecer intimidante al principio. Esta guía te guiará a través del uso del contrato de Farms directamente a través de BscScan.&#x20;
 

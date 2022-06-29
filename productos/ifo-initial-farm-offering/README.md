@@ -2,7 +2,7 @@
 
 
 
-![](../../.gitbook/assets/Ifo.png)
+![](../../.gitbook/assets/ifo.png)
 
 Compra nuevos tokens usando CAKE tokens.&#x20;
 

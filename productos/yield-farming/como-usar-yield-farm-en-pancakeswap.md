@@ -1,6 +1,6 @@
 # Cómo usar Farms
 
-![](<../../.gitbook/assets/Como yield farms (1).png>)
+![](../../.gitbook/assets/como-yield-farms.png)
 
 Hacer Yield Farming en Farms es una excelente manera de ganar recompensas en Cake dentro de PancakeSwap.
 
