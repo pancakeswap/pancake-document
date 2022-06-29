@@ -7,8 +7,10 @@ Buy new tokens using CAKE.
 The project gets the CAKE, PancakeSwap burns the participation fees CAKE. **You get the tokens.**
 
 1. **You will need CAKE** to participate.
+2. **You will need iCAKE** to participate in Public Sales.
+3. **You will need to meet certain requirements** to participate in Private Sales.
 
-Learn [how to find IFO smart contracts](broken-reference/)
+Learn [how to participate in IFO](ifo-guide.md).
 
 ## **How to participate in an IFO**
 
@@ -16,7 +18,9 @@ Visit [https://pancakeswap.finance/ifo](https://pancakeswap.finance/ifo) to find
 
 Before Sale:
 
-1. [Buy CAKE](https://exchange.pancakeswap.finance/?\_gl=1\*1bc8owa\*\_ga\*ODA4ODE5MjM4LjE2MDUxNTI3NTE.\*\_ga\_334KNG3DMQ\*MTYwNTQ4OTEwNy4yNi4xLjE2MDU0ODkxMjcuMA..#/swap) tokens
+1. [Complete your PancakeSwap profile setup](../nft-profile-system/profile-guide.md).
+2. [Buy CAKE](https://exchange.pancakeswap.finance/?\_gl=1\*1bc8owa\*\_ga\*ODA4ODE5MjM4LjE2MDUxNTI3NTE.\*\_ga\_334KNG3DMQ\*MTYwNTQ4OTEwNy4yNi4xLjE2MDU0ODkxMjcuMA..#/swap) tokens
+3. [Lock CAKE in the CAKE syrup pool](../coming-soon/new-cake-pool/fixed-term-staking.md) to get iCAKE.
 
 During Sale:
 
