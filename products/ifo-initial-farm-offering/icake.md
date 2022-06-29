@@ -33,13 +33,27 @@ For example, if the threshold is 20 weeks:&#x20;
 | ---------------- | -------------------------------------------------------------- | -------------------------------------------------------------------- |
 | **iCAKE Amount** | Equals your Locked CAKE Amount                                 | Equals your Locked CAKE Amount x (Your Staking Duration / Threshold) |
 
-****![](../../.gitbook/assets/image2.png)****
-
-You can preview the number of iCAKE when adjusting or initializing your fixed-staking positions.
-
 ### How to check the number of iCAKE I have?
 
 ![](../../.gitbook/assets/image3.png)
 
 You can check the number of iCAKE you have in the IFO page [here](https://pancakeswap.finance/ifo).
 
+### **How to increase the number of iCAKE I have?**
+
+You can increase the number of iCAKE you have by:
+
+* Adding more CAKE to your fixed-term staking position in the CAKE syrup pool.
+* Extend your fixed-term staking durations if your current durations is shorter than the threshold.
+
+****![](../../.gitbook/assets/image2.png)****
+
+You can preview the number of iCAKE generated from your staking position when adjusting or initializing the fixed-staking.
+
+### What is the threshold for iCAKE calculations?
+
+Between each IFOs, the kitchen will optimize the threshold based on the average staking duration of the fixed-term staking CAKE pool. The adjustment will be published on all social channels.
+
+![](<../../.gitbook/assets/image (134).png>)
+
+You can check the current threshold for iCAKE calculations by hovering or tapping the underlined iCAKE text in the CAKE syrup pool window.
