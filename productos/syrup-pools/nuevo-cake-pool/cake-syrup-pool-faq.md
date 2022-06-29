@@ -75,7 +75,7 @@ o
 
 * Convertir los CAKE depositados en staking flexible (sin tarifa de retiro de 72 horas)
 
-![](<../../../.gitbook/assets/image (182).png>)
+![](<../../../.gitbook/assets/image (182) (1).png>)
 
 Durante estos 7 días, aún ganará CAKE con el mismo APY que su período de bloqueo.
 
