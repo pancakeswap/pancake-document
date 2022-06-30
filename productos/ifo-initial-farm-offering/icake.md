@@ -37,7 +37,7 @@ Por ejemplo, si el umbral es de 20 semanas:
 
 ### Cómo puedo ver cuántos iCAKE tengo?
 
-![](<../../.gitbook/assets/image (172).png>)
+![](<../../.gitbook/assets/image (172) (1).png>)
 
 Puedes consultar la cantidad de iCAKE que tienes en [la página IFO](https://pancakeswap.finance/ifo)
 
