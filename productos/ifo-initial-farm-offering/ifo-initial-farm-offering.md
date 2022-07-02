@@ -100,7 +100,7 @@ Puede agregar más CAKE en cualquier momento durante el evento IFO siempre que n
 
 Si no desea comprometer más CAKE a la IFO, puedes pasar a la siguiente sección, Recolectar tus nuevos tokens.
 
-### Aportar Tokens LP para la venta Privada <a href="#committing-lp-tokens-to-the-unlimited-sale" id="committing-lp-tokens-to-the-unlimited-sale"></a>
+### Aportar Tokens para la venta Privada <a href="#committing-lp-tokens-to-the-unlimited-sale" id="committing-lp-tokens-to-the-unlimited-sale"></a>
 
 ![](<../../.gitbook/assets/image (172).png>)
 
