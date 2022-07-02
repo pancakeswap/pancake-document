@@ -46,7 +46,6 @@
 * [IFO (Oferta Inicial de Farm)](productos/ifo-initial-farm-offering/README.md)
   * [Cómo Participar en una IFO](productos/ifo-initial-farm-offering/ifo-initial-farm-offering.md)
   * [iCAKE](productos/ifo-initial-farm-offering/icake.md)
-  * [Cómo Participar en una IFO (BscScan)](productos/ifo-initial-farm-offering/como-participar-en-una-ifo-bscscan.md)
   * [Detalles de Contrato](productos/ifo-initial-farm-offering/detalles-de-contrato.md)
 * [Info (Analíticas)](productos/info.md)
 * [Votación](productos/voting/README.md)
