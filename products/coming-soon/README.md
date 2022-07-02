@@ -1,3 +1,7 @@
 # 🍳Coming Soon!
 
-* [New CAKE Syrup Pool](https://docs.pancakeswap.finance/products/coming-soon/new-cake-pool)
+Aqui estão os artigos dessa seção:
+
+{% content-ref url="zap.md" %}
+[zap.md](zap.md)
+{% endcontent-ref %}
