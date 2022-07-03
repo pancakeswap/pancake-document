@@ -1,3 +1,3 @@
 # Detalhes do Contrato
 
-Each IFO will have a different smart contract for the particular IFO event. You can find the IFO's smart contract link on the [PancakeSwap IFO page](https://pancakeswap.finance/ifo). The link will take you to IFO's contract page on BscScan.
+Cada IFO terá um contrato inteligente diferente para o evento IFO específico. Você pode encontrar o link de contrato inteligente do IFO no [PancakeSwap IFO page](https://pancakeswap.finance/ifo). O link o levará à página de contrato da IFO na BscScan.
