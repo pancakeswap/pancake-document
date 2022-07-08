@@ -4,13 +4,25 @@
 
 ![](../.gitbook/assets/nft-masthead.png)
 
-In phase 2 of the NFT Marketplace, collection owners will be able to list their collections so that NFT holders may buy and sell them.
-
 NFT collection creators can earn creator royalties on trades on PancakeSwap, as well as getting visibility for their project on the most prominent NFT marketplace on BNB Smart Chain.
 
-We're now accepting applications for Phase 2 of the Marketplace, which was be released in Q4 2021.
-
 [Apply for Listing on PancakeSwap NFT Market](https://docs.google.com/forms/d/e/1FAIpQLSdLjOEiJT4s8No2QT2TKknuUSlVMndARFgng4MDJMsoFQjR-A/viewform)
+
+### **Basic requirements for NFT**
+
+Technical:
+
+* Follows BEP-721 standards
+* 100% minted
+* Metadata must be hosted on IPFS or a similar decentralised platform
+
+Business:
+
+* Has established an active community
+* Has a working website with detailed information regarding the collections
+* Has active social channels
+
+In addition to these requirements, the BD team will be asking further due diligence questions and projects will be assessed on a case-by-case basis.
 
 ### How long will it take to get a response?
 
