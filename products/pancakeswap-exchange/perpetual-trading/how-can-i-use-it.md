@@ -4,11 +4,11 @@
 
 Using this functionality is really easy (the difficult thing is to trade well). We will only have to follow a series of steps so that our experience is complete
 
-### Go to Perpetual Trading page
+### Go to Perpetual Trading page&#x20;
 
-You can enter from the [site](https://pancakeswap.finance), in the Trade → Perpetual section, or through this [link](https://perp.pancakeswap.finance/en/futures/BTCUSDT)
+You can enter from the [site](https://pancakeswap.finance), in the Trade → Perpetual section, or through this [link  ](https://perp.pancakeswap.finance/en/futures/BTCUSDT)
 
-### Deposit funds
+### Deposit funds&#x20;
 
 You need to deposit funds into the Futures account first, in the box on the bottom right of the screen
 
@@ -24,7 +24,7 @@ As mentioned, using CAKE for fees gives you a 5% discount! So, why not?
 
 > Note: The trading fees are 0.02% of the notional value for makers and 0.07% for the taker. CAKE will be the default payment option for trading fees, followed by APX (ApolloX’s token) and USDT. Any users who are paying the trading fees in CAKE will enjoy a 5% discount on trading fees.
 
-### Choose the pair to trade
+### Choose the pair to trade&#x20;
 
 You can select a tradable pair by clicking on the arrow next to the pair, at the top of the page.
 
@@ -36,7 +36,7 @@ More tradable pairs will come soon!
 
 ### Analyze the chart and decide your trading strategy
 
-It’s trading time!! Let’s get serious. You can analyze the chart your way, with all the tools available
+&#x20;It’s trading time!! Let’s get serious. You can analyze the chart your way, with all the tools available
 
 ![](https://lh4.googleusercontent.com/\_xJvQoCSOdq6AqB-KEMiAYtXwUp\_ZS3DwNcC-x0jzNnBWTDLdKhRXwREPGwhC7fyirLJ10iKnhUPey-v1EkFDynQmqgNGuySYTpPmDx0A2bl7Pk0uZ8fBEGFPfBuwXBcWcIG2JFO)
 
@@ -48,7 +48,9 @@ Here is a guide to get started in the world of chart analysis:
 * [Candlestick charts](https://academy.binance.com/en/articles/a-beginners-guide-to-candlestick-charts)
 * [Trend Lines Explained](https://academy.binance.com/en/articles/trend-lines-explained)
 
-### Make your position
+
+
+### Make your position&#x20;
 
 Then, in the upper right part you have the board to position your order.
 
@@ -62,35 +64,40 @@ _Not in an specific order_
 
 ![](https://lh4.googleusercontent.com/tplKHXPvrTQXPkNL9BSjVsIBAqfVDWyfh0mU0HDYDRXf4KRUEyu5xzDivGkzfw7JNsEUpQWXvPt8q1Wn26yeX21-DrhhwMTtMpFvFLyTKUxSOteAugTrlTgwvKro0zOluqFmELJQ)
 
-2\. The x of the leverage
+&#x20; 2\. The x of the leverage
 
 ![](https://lh5.googleusercontent.com/ikaG0tpWYcynBZbEOmoR1XLYZzaFXwHwD6MCrlqDCLGDOa3LA1KQh4Gp8uv\_BAPNo8z3r1bLe\_DzEGjNyI22ja\_oIOF9A4vfdLEpsoAxcKj5rboH9Ip2eLkBZUfBPZJpXwL\_KJ0s)
 
 Disclaimer: Remember that a high level of leverage carries a very high risk, use it wisely.
 
-\_\_ 3. Type or Order
+&#x20;   __    3. Type or Order
 
 ![](https://lh3.googleusercontent.com/If2SXl-FUCTuy0eNJkmF0ONspdYPeIWFBXvyLkH6Hc0B1CwAzd9EP5rMQGSjr23hK9sDDUmL0rSN9R28AL9\_-x\_f0jsFdfrn7WFOjEcqfPaxerPjGSq1iIpxz6tcN\_A839ASRF3B)
 
-4\. Place a price for your order.
+&#x20;  4\. Place a price for your order.
 
 ![](https://lh4.googleusercontent.com/J8rbXc\_DhROHaZRoVCBELwIIraVg\_uL2V-8bn2Ci2sm80jEmbS6q4CMuJ-Njv3Dx2L\_OeoS-PTh-haPuW4uYsKIxQdWQdFttyFrTPFHp19u1nVz\_V0MM6QsQdmKiyUD-imRSryU1)
 
 Note: You can use “Last” to fill in with the current last price.
 
-5\. Set the order’s size
+&#x20;  5\. Set the order’s size
 
 ![](https://lh5.googleusercontent.com/OBtTNov5\_h4-yWaOl17W8yZt2hnThsSiTF\_ydyJdlrDEOi2mZAHRoIik0-9-bzGRFfbBAJ3QvzC7x4G65fHjrKeLAYNMsvTszr\_7N8GIRdBV8P23FtD3eteEt-u3HPWutUWpFwu0)
 
 You can also choose the reference currency to see your position
 
-> Note: there are a few more options to consider, but you can see that within the [trading glossary](https://app.gitbook.com/o/-MHRKTpKSfYQBsO7YgOo/s/-MHREX7DHcljbY5IkjgJ-1972196547/\~/changes/kV67VeywrXQ7vYfX5se0/products/pancakeswap-exchange/perpetual-trading/glossary) \\
+
+
+> Note: there are a few more options to consider, but you can see that within the [trading glossary](https://app.gitbook.com/o/-MHRKTpKSfYQBsO7YgOo/s/-MHREX7DHcljbY5IkjgJ-1972196547/\~/changes/kV67VeywrXQ7vYfX5se0/products/pancakeswap-exchange/perpetual-trading/glossary) \
+>
+
+
 
 ### Send your order
 
 When all the parameters have been set, you can send the order by clicking on long, if it is a long order, or short, if it is a short order.
 
-![](<../../../.gitbook/assets/image (59) (2).png>)
+![](<../../../.gitbook/assets/image (59).png>)
 
 ### Checking your position
 
