@@ -6,7 +6,7 @@ description: '"Don''t call it a roadmap"'
 
 ![](.gitbook/assets/roadmap-header.png)
 
-_Updated on April. 13, 2022_
+_Updated on July. 15, 2022_
 
 ### Finally, it's a roadmap not a to-do list.
 
@@ -16,7 +16,7 @@ Pivoting is a way of life.
 
 That means that we don’t publicly commit to specific timelines, so we can organize our development priorities based on market changes and developer resources.
 
-![](<.gitbook/assets/2022 Q2 en.png>)
+![](<.gitbook/assets/2022 Q3.png>)
 
 {% hint style="info" %}
 Due to considerations of security and confidentiality, some items are not included in the ‘Cooking In’ section.
@@ -24,36 +24,37 @@ Due to considerations of security and confidentiality, some items are not includ
 
 ### Ongoing/Recurring
 
-* Trading Competitions \
-  Collaborate with well-known projects loved by the community&#x20;
-* Regular IFOs, Syrup Pools + Farms
+* Regular IFOs
+* Regular new Farms and Syrup Pools \
+  Some are now Syrup pool only
 * Farm Auctions
-* Site-Wide UI/UX Upgrades & Bug Fixes
-* Hackathon
+* UI/UX, Performance Upgrades & Bug Fixes
 
-### Cooking in Q2
+### Cooking in Q3
 
 * Fixed-Term Staking Benefits&#x20;
-  * Farm yield booster&#x20;
-  * Hodl to participate in IFOs&#x20;
-* Prediction Upgrades\
-  Multi-currency & more
+  * Farm yield booster
+  * Weighted voting power
 * Lottery Upgrades\
   Lottery by staking & more&#x20;
-* Zap\
-  Provide liquidity in one click
+* Multichain\
+  Exploring the possibilities of hopping further while flipping more CAKE
+* Stablecoin Swap\
+  A better swap experience, optimized for stablecoins
 
 ### Backlogs
 
-* Overview pages for Earn, Win
-  * Personal dashboard
-  * Portfolio
-* NFT Market Phase 3 - open NFT platform
+* NFT Gamifications\
+  Potential collaborations with other top projects on BNB Chain
+* NFT Market \
+  Phase 3 - open NFT platform\
+  Other improvements and upgrades
 
 ### Done
 
 #### Trade
 
+* Zap - Provide liquidity in one click
 * Perpetual Trading
 * Limit Orders
 * Charts & other trading features on-site
@@ -63,7 +64,11 @@ Due to considerations of security and confidentiality, some items are not includ
 
 #### Earn
 
-* CAKE Staking
+* CAKE Staking\
+  with CAKE Side Pool - Flexible CAKE staking on the side of locked staking
+* Fixed-Term Staking Benefits&#x20;
+  * iCAKE, IFO benefits&#x20;
+  * Events with well-known projects
 * Core Pools, Farms
 * Community Pools: Host BSC community project Pools, support with 0.1-0.2x CAKE farms
 * Auto-compounding CAKE-CAKE Syrup Pool
@@ -75,7 +80,8 @@ Due to considerations of security and confidentiality, some items are not includ
 
 * Lottery v2
 * Prediction v0.2\
-  with Chainlink Price Chart
+  Duo currency with BNB and CAKE\
+  with Chainlink Price Chart and Chainlink Keepers
 
 #### NFT Ecosystem
 
