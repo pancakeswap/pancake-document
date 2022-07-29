@@ -1,14 +1,16 @@
 ---
-description: Common error messages. Use the sidebar ➡️to jump to the error you're seeing.
+description: >-
+  Mensagens comuns de erros. Use a barra lateral ➡️ para pular para o erro que
+  você está buscando.
 ---
 
-# Troubleshooting Errors
+# Soluções de Erros e Problemas
 
 ![](../.gitbook/assets/troubleshooting-header.png)
 
-Sometimes you may find yourself facing a problem that doesn't have a clear solution. These troubleshooting tips may help you solve problems you run into.
+Às vezes, você pode se deparar com um problema que não tem uma solução clara. Essas dicas de solução de problemas podem ajudá-lo a resolver os problemas que você encontrou.
 
-## **Issues on the Exchange**
+## **Problemas na Exchange**
 
 ### **INSUFFICIENT\_OUTPUT\_AMOUNT**
 
@@ -16,24 +18,28 @@ Sometimes you may find yourself facing a problem that doesn't have a clear solut
 >
 > the transaction cannot succeed due to error: execution reverted: pancakerouter: insufficient\_output\_amount.
 
-You're trying to swap tokens, but your slippage tolerance is too low or liquidity is too low.
+> A transação não pode ser bem-sucedida devido ao erro: PancakeRouter: INSUFFICIENT\_OUTPUT\_AMOUNT. Este é provavelmente um problema com um dos tokens que você está fazendo swap.&#x20;
+>
+> a transação não pode ser bem-sucedida devido a um erro: execução revertida: pancakerouter: insuficiente\_output\_amount.
+
+Você está tentando fazer swap de tokens, mas sua slippage tolerance (tolerância de deslizamento) é muito baixa ou a liquidez é muito baixa.
 
 {% tabs %}
-{% tab title="Solution" %}
-1. Refresh your page and try again later.
-2. Try trading a smaller amount at one time.
-3. Increase your slippage tolerance:
-   1. Tap the settings icon on the liquidity page.
-   2. Increase your slippage tolerance a little and try again. ![](<../.gitbook/assets/image (9) (4) (2) (1) (1) (1) (1) (1) (1).png>)
-4. Lastly, try inputting an amount with fewer decimal places.
+{% tab title="Solução" %}
+1. Atualize sua página e tente de novo mais tarde.
+2. Tente negociar uma quantidade menor de uma vez só.
+3. Aumente seu slippage tolerance:
+   1. Clique no ícone de configurações na página de liquidez.
+   2. Aumente seu slippage tolerance um pouco e tente de novo. ![](<../.gitbook/assets/image (9) (4) (2) (1) (1) (1) (1) (1) (1).png>)
+4. Por último, tente diminuir o numero de casas decimais.
 {% endtab %}
 
-{% tab title="Reason" %}
-**This usually happens when trading tokens with low liquidity.**
+{% tab title="Razão" %}
+**Isso geralmente acontece ao negociar tokens com baixa liquidez.**
 
-That means there isn't enough of one of the tokens you're trying to swap in the Liquidity Pool: it's probably a small-cap token that few people are trading.
+Isso significa que não há o suficiente de um dos tokens que você está tentando fazer swap na Pool de Liquidez: provavelmente é um token de pequena capitalização que poucas pessoas estão negociando.
 
-However, there's also the chance that you're trying to trade a scam token which cannot be sold. In this case, PancakeSwap isn't able to block a token or return funds.
+No entanto, também há a chance de você estar tentando negociar um token fraudulento que não pode ser vendido. Nesse caso, a PancakeSwap não pode bloquear um token ou devolver fundos.
 {% endtab %}
 {% endtabs %}
 
@@ -43,69 +49,68 @@ However, there's also the chance that you're trying to trade a scam token which 
 > or\
 > Fail with error 'PancakeRouter: INSUFFICIENT\_B\_AMOUNT'
 
-You're trying to add/remove liquidity from a liquidity pool (LP), but there isn't enough of one of the two tokens in the pair.
+Você está tentando adicionar/remover liquidez de uma pool de liquidez (LP), mas não há um dos dois tokens suficientes no par.
 
 {% tabs %}
-{% tab title="Solution" %}
-**Refresh your page and try again, or try again later.**
+{% tab title="Solução" %}
+**Atualize sua página e tente de novo, ou tente de novo depois.**
 
-Still doesn't work?
+Não funcionou mesmo assim?
 
-1. Tap the settings icon on the liquidity page.
-2. Increase your slippage tolerance a little and try again.
+1. Clique no ícone de configurações na página de liquidez.
+2. Aumente seu slippage tolerance um pouco e tente de novo.
 
 ![](<../.gitbook/assets/image (9) (4) (2) (1) (1) (1) (1) (1) (1) (1).png>)
 {% endtab %}
 
-{% tab title="Reason" %}
-The error is caused by trying to add or remove liquidity for a liquidity pool (LP) with an insufficient amount of token A or token B (one of the tokens in the pair).
+{% tab title="Razão" %}
+O erro é causado ao tentar adicionar ou remover liquidez para uma pool de liquidez (LP) com uma quantidade insuficiente de token A ou token B (um dos tokens do par).&#x20;
 
-It might be the case that prices are updating too fast when and your slippage tolerance is too low.
+Pode ser que os preços sejam atualizados muito rápido quando e sua slippage esteja muito baixa.
 
 ![](https://lh5.googleusercontent.com/T1KMtz2ILDVHljGw1iLbIv0W1KVl7qXL8zU2nLFHkUvDb5oMw9mpUzzBwWmIBz15XDsxZ5w7wsaqAwCs\_pxdobz\_kY\_7BhcZhYtpqWuQGFs23DZq98-SVInlfsS07WzxFPLIYXHt)
 
 ![](https://lh5.googleusercontent.com/7aspaCCvDjzxbJxngqwgeq737LB3OUNcAs592QqlEkyrAOTfKsrt\_FAwpEylaIJhff5ZcYlzB\_r0v1JZwfj3j8Ah6jlUbRoMrAqVfTb3cwDI7B1i5HJtZSQOsTPrv7l7SaclC3BV)
 {% endtab %}
 
-{% tab title="Solution for nerds" %}
-OK, so you're really determined to fix this. We really don't recommend doing this unless you know what you're doing.
+{% tab title="Solução para Nerds" %}
+OK, então você está realmente determinado a consertar isso. Nós realmente não recomendamos fazer isso a menos que você saiba o que está fazendo.&#x20;
 
-There currently isn't a simple way to solve this issue from the PancakeSwap website: you'll need to interact with the contract directly. You can add liquidity directly via the Router contract, while setting amountAMin to a small amount, then withdrawing all liquidity.
+Atualmente, não há uma maneira simples de resolver esse problema no site da PancakeSwap: você precisará interagir diretamente com o contrato. Você pode adicionar liquidez diretamente por meio do contrato do router, ao definir amountAMin para um valor pequeno e, em seguida, sacar toda a liquidez.
 
-**Approve the LP contract**
+**Aprove o contrato do LP**
 
-Head to the contract of the LP token you're trying to approve.\
-For example, here's the ETH/WBNB pair: [https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422](https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422)
+Vá para o contrato do token LP que você está tentando aprovar. Por exemplo, aqui está o par ETH/WBNB: [https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422](https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422)
 
-1. Select **Write Contract**, then **Connect to Web3** and connect your wallet. ![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ\_VGjxJ03YPRuVQ1O5ME)
-2. In **section "1. approve",** approve the LP token for the router by entering
-   1. spender (address): enter the contract address of the LP token you're trying to interact with
+1. Selecione **Write Contract**, então clique em **Connect to Web3** e conecte sua carteira. ![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ\_VGjxJ03YPRuVQ1O5ME)
+2. Na **seção "1. approve",** aprove o LP token pelo router for the router inserindo
+   1. spender (address): entre o endereço do contrato do LP token que você está tentando interagir
    2. value (uint256): -1
 
 **Query "balanceOf"**
 
-1. Switch to **Read Contract.**
-2. In **5. balanceOf**, input your wallet address and hit **Query**.
-3. Keep track of the number that's exported. It shows your balance within the LP in the uint256 format, which you'll need in the next step.
+1. Mude para **Read Contract.**
+2. No **5. balanceOf**, coloque seu endereço de carteira e clique **Query**.
+3. Acompanhe o número que é exportado. Ele mostra seu saldo no LP no formato uint256, que você precisará na próxima etapa.
 
 ![](<../.gitbook/assets/image (7).png>)
 
-**Add or Remove Liquidity**
+**Adicione ou Remova Liquidez**
 
-Head to the router contract: [https://bscscan.com/address/0x05ff2b0db69458a0750badebc4f9e13add608c7f#writeContract](https://bscscan.com/address/0x05ff2b0db69458a0750badebc4f9e13add608c7f#writeContract)
+Vá para o contrato do router: [https://bscscan.com/address/0x05ff2b0db69458a0750badebc4f9e13add608c7f#writeContract](https://bscscan.com/address/0x05ff2b0db69458a0750badebc4f9e13add608c7f#writeContract)
 
-1. Select **Write Contract** and **Connect to Web3** as above.
-2. Find **addLiquidity** or **removeLiquidity** (whichever one you're trying to do)
-3. Enter the token addresses of both of the tokens in the LP.
-4. In **liquidity (uint256),** enter the uint256 number which you got from "balanceOf" above.
-5. Set a low **amountAMin** or **amountBMin**: try 1 for both.
-6. Add your wallet address in **to (address)**.
-7. Deadline must be an epoch time greater than the time the tx is executed.
+1. Selecione **Write Contract** e **Connect to Web3** como acima.
+2. Encontre **addLiquidity** ou **removeLiquidity** (qualquer um que você está tentando fazer)
+3. Entre com o endereço do token de ambos tokens no LP.
+4. No **liquidity (uint256),** entre o número uint256 que você tem de "balanceOf" acima.
+5. Defina um baixo **amountAMin** ou **amountBMin**: tente 1 para ambos.
+6. Adicione o endereço de sua carteira em **to (address)**.
+7. Deadline deve ser um tempo de época maior que o tempo em que a tx é executada.
 
 ![](<../.gitbook/assets/image (5).png>)
 
 {% hint style="warning" %}
-This can cause very high slippage, and can cause the user to lose some funds if frontrun
+Isso pode causar uma slippage(derrapagem) muito alta, e pode causar a perda de alguns fundo do usuários caso sofra frontrun
 {% endhint %}
 {% endtab %}
 {% endtabs %}
@@ -114,63 +119,73 @@ This can cause very high slippage, and can cause the user to lose some funds if 
 
 > The transaction cannot succeed due to error: PancakeRouter: EXPIRED. This is probably an issue with one of the tokens you are swapping.
 
-Try again, but confirm (sign and broadcast) the transaction as soon as you generate it.
+> A transação não pode ser bem-sucedida devido ao erro: PancakeRouter: EXPIRED. \
+> Este é provavelmente um problema com um dos tokens que você está negociando.
 
-This happened because you started making a transaction, but you didn't sign and broadcast it until it was past the deadline. That means you didn't hit "Confirm" quickly enough.
+Tente novamente, mas confirme (assine e transmita) a transação assim que você a gerar.&#x20;
+
+Isso aconteceu porque você começou a fazer uma transação, mas não a assinou e transmitiu até o prazo final. Isso significa que você não clicou em "Confirmar" com rapidez suficiente.
 
 ### Pancake: K
 
 > The transaction cannot succeed due to error: Pancake: K. This is probably an issue with one of the tokens you are swapping.
 
-Try modifying the amount on “To” field. Therefore putting "(estimated)" symbol on “From”. Then initiate the swap immediately.
+> A transação não pode ser bem-sucedida devido a um erro: Pancake: K. Este é provavelmente um problema com um dos tokens que você está negociando.
+
+Tente modificar a quantidade no campo “To”. Portanto, colocando o símbolo "(estimado)" em "From". Em seguida, inicie o swap imediatamente.
 
 ![](<../.gitbook/assets/pancake-k-solution (2).png>)
 
-This usually happen when you are trying to swap a token with its own fee.
+Isso geralmente acontece quando você está tentando trocar um token com taxa própria.
 
 ### Pancake: TRANSFER\_FAILED
 
 > The transaction cannot succeed due to error: execution reverted: Pancake: TRANSFER\_FAILED.
 
-Make sure you have 30% more tokens in your wallet than you intend to trade, or try to trade a lower amount. If you want to sell the maximum possible, try 70% or 69% instead of 100%.\
-Caused by the design of Restorative Rebase tokens like tDoge or tBTC.\
-[Understand how restorative rebase tokens work](https://btcst.medium.com/stp-8-restorative-rebase-b4fbbdfd96c).
+> A transação não pode ser bem-sucedida devido a um erro: execução revertida: Pancake: TRANSFER\_FAILED.
 
-Another possible cause of this issue is the malicious token issuer just suspended the trading for their token. Or they made selling action only possible for selected wallet addresses. Please always do your own research to avoid any potential fraud. If the token you are trying to swap but failed with this error code is coming from an airdrop, that is most likely a scam. Please do not perform any token approval or follow any links, your fund may be at risk if you try to do so.
+Certifique-se de ter 30% mais tokens em sua carteira do que pretende negociar ou tente negociar uma quantidade menor. Se você quiser vender o máximo possível, tente 70% ou 69% em vez de 100%. \
+Pode ser causado pelo design de tokens Restorative Rebase como tDoge ou tBTC.[ \
+Entenda como funciona restorative rebase tokens](https://btcst.medium.com/stp-8-restorative-rebase-b4fbbdfd96c).
 
-### Transaction cannot succeed
+Outra possível causa desse problema é que o emissor do token malicioso acabou de suspender a negociação de seu token. Ou eles tornaram a ação de venda possível apenas para endereços de carteira selecionadas. Por favor, sempre faça sua própria pesquisa para evitar qualquer fraude em potencial. Se o token que você está tentando trocar e falhou com esse código de erro, vem de um airdrop, provavelmente é um golpe. Por favor, não execute nenhuma aprovação de token, nem clique ou siga nenhum link, seus fundos podem estar em risco se você tentar fazê-lo.
 
-Try trading a smaller amount, or increase slippage tolerance via the settings icon and try again. This is caused by low liquidity.
+### Transaction cannot succeed (Transação não pode se suceder)
 
-### **Price Impact too High**
+Tente negociar uma quantidade menor ou aumente a tolerância de derrapagem através do ícone de configurações e tente novamente. Isso é causado pela baixa liquidez.
 
-Try trading a smaller amount, or increase slippage tolerance via the settings icon and try again. This is caused by low liquidity.
+### **Price Impact too High (Impacto do preço muito alto)**
 
-### estimateGas failed
+Tente negociar uma quantidade menor ou aumente a tolerância de derrapagem através do ícone de configurações e tente novamente. Isso é causado pela baixa liquidez.
 
-> This transaction would fail. Please contact support
+### estimateGas failed (falhou)
+
+> This transaction would fail. Please contact support\
+> \
+> Essa transação falharia. Por favor contacte  o suporte
 
 {% tabs %}
-{% tab title="Solution" %}
-**If you got this error while removing liquidity from a BNB pair:**
+{% tab title="Solução" %}
+**Se você recebeu este erro ao remover a liquidez de um par de BNB:**&#x20;
 
-Please select "Receive WBNB" and retry.
+Selecione "Receber WBNB" e tente novamente.&#x20;
 
-**If you got this error while trying to swap:**
+**Se você recebeu este erro ao tentar fazer swap:**&#x20;
 
-Please contact the project team of the token you're trying to swap. \*\*\*\* This issue must be resolved by the project team.
+Entre em contato com a equipe do projeto do token que você está tentando trocar. \*\*\*\* Este problema deve ser resolvido pela equipe do projeto.
 {% endtab %}
 
-{% tab title="Reason" %}
-**This issue (while swapping) is caused by tokens which have hard-coded the V1 PancakeSwap router into their contract.**
+{% tab title="Razão" %}
+Esse problema (durante o swap) é causado por tokens que codificaram o router V1 da PancakeSwap em seu contrato.&#x20;
 
-While this practice is ill-advised at best, the reason for these projects having done this appears to be due to their tokenomics, in which each purchase sends a % of the token to LPs.
+Embora essa prática seja, na melhor das hipóteses, desaconselhada, a razão para esses projetos terem feito isso parece ser devido à seu tokenomics, na qual cada compra envia uma % do token para os LPs.&#x20;
 
-The projects affected will likely not work with the V2 router: they will most likely need to create new versions of their tokens pointing to our new router address, and migrate any existing token holders to their new token.
+Os projetos afetados provavelmente não funcionarão com o router V2: eles provavelmente precisarão criar novas versões de seus tokens apontando para nosso novo endereço de rouoter e migrar quaisquer holders de token existentes para seu novo token.&#x20;
 
-We recommend that any projects which created such tokens should also make efforts to prevent their users from adding them to V2 LP.
+Recomendamos que todos os projetos que criaram esses tokens também se esforcem para impedir que seus usuários os adicionem ao LP V2.&#x20;
 
-The up-to-date router address is [https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E)
+O endereço do router atualizado é\
+[https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E)
 {% endtab %}
 {% endtabs %}
 
@@ -178,18 +193,20 @@ The up-to-date router address is [https://bscscan.com/address/0x10ED43C718714eb6
 
 > "Unknown error: "Cannot read property 'toHexString' of undefined"
 
-When trying to swap tokens, the transaction fails and this error message is displayed. This error has been reported on mobile devices using Trust Wallet.
+> "Erro desconhecido: "Não é possível ler a propriedade 'toHexString' de indefinido"
+
+Ao tentar fazer swap de tokens, a transação falha e esta mensagem de erro é exibida. Este erro foi relatado em dispositivos móveis usando a Trust Wallet.
 
 {% tabs %}
-{% tab title="Solution" %}
-1. Attempt the transaction again with increased slippage allowance.
-2. If 1. does not resolve your problem, consider using another wallet such as SafePal for your transaction.
+{% tab title="Solução" %}
+1. Tenta fazer a transação novamente aumentando o slippage.
+2. Se 1. não resolver seu problema, considere usar outra carteira como SafePal para sua transação.
 {% endtab %}
 
-{% tab title="Reason" %}
-**This usually happens when trading tokens with insufficient slippage allowance on Trust Wallet.**
+{% tab title="Razão" %}
+**Isso  geralmente acontece ao negociar tokens com pouca slippage na Trust Wallet.**
 
-The exact details of the problem are still being investigated.
+O detalhe exato do problema ainda está sendo investigado.
 {% endtab %}
 {% endtabs %}
 
@@ -197,48 +214,53 @@ The exact details of the problem are still being investigated.
 
 > The transaction cannot succeed due to error: execution reverted: TransferHelper: TRANSFER\_FROM\_FAILED.
 
-When trying to swap tokens, the transaction fails and this error message is displayed. This error has been reported across platforms.
+> A transação não pode ser bem-sucedida devido ao erro: execução revertida: TransferHelper: TRANSFER\_FROM\_FAILED.
+
+Ao tentar trocar os tokens, a transação falha e esta mensagem de erro é exibida. Este erro foi relatado em todas as plataformas.
 
 {% tabs %}
-{% tab title="Solution" %}
-1. Check to make sure you have sufficient funds available.
-2. Ensure you have given the contract allowance to spend the amount of funds you're attempting to trade with.
+{% tab title="Solução" %}
+1. Verifique se você tem fundos disponíveis suficientes.
+2. Assegure de dar permissão ao contrato para gastar a quantidade de fundos que você está tentando negociar.
 {% endtab %}
 
-{% tab title="Reason" %}
-This error happens when trading tokens with insufficient allowance, or when a wallet has insufficient funds.\
-If you're trading tokens with Restorative Rebase like tau assets tDoge or tBTC, make sure you understand how they work first with this [guide to Rebase tokens](https://btcst.medium.com/stp-8-restorative-rebase-b4fbbdfd96c).
+{% tab title="Razão" %}
+Este erro ocorre ao negociar tokens com permissão insuficiente ou quando uma carteira tem fundos insuficientes.&#x20;
+
+Se você estiver negociando tokens com Restorative Rebase como ativos tau tDoge ou tBTC, certifique-se de entender como eles funcionam primeiro com este [guia de Rebase tokens](https://btcst.medium.com/stp-8-restorative-rebase-b4fbbdfd96c).
 {% endtab %}
 {% endtabs %}
 
-## **Issues with Syrup Pools**
+## **Problemas com Pools de Syrup**
 
 ### BEP20: burn amount exceeds balance
 
 > Fail with error 'BEP20: burn amount exceeds balance'
 
-You don't have enough SYRUP in your wallet to unstake from the CAKE-CAKE pool.
+> Falha com erro 'BEP20: quantidade queimada excede saldo'
 
-**Get at least as much SYRUP as the amount of CAKE that you’re trying to unstake.**
+Você não tem SYRUP suficiente em sua carteira para sacar da pool CAKE-CAKE.&#x20;
 
-1. Buy SYRUP on the exchange. If you want to unstake 100 CAKE, you need at least 100 SYRUP.
-2. Try unstaking again.
+Obtenha pelo menos tanto SYRUP quanto a quantidade de CAKE que você está tentando sacar.&#x20;
 
-If that still fails, you can perform an “emergencyWithdraw” from the contract directly to unstake your staked tokens.
+1. Compre SYRUP na exchange. Se você quiser retirar do stake 100 CAKE, precisará de pelo menos 100 SYRUP.&#x20;
+2. Tente sacar novamente.&#x20;
 
-1. Go to: [https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract)
-2. Click **“Connect to Web3”** and connect your wallet. ![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ\_VGjxJ03YPRuVQ1O5ME)
-3. In section **“4. emergencyWithdraw”**, enter "0" and click “Write”.
+Se isso ainda falhar, você pode realizar um “emergencyWithdraw” diretamente do contrato para sacar seus tokens em stake.
 
-This will unstake your staked tokens and lose any uncollected CAKE yield.
+1. Vá para: [https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract)
+2. Clique em **“Connect to Web3”** e conecte sua carteira. ![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ\_VGjxJ03YPRuVQ1O5ME)
+3. Na seção **“4. emergencyWithdraw”**, entre "0" e clique “Write”.
+
+Isso retirará seus tokens do stake e você perderá qualquer rendimento de CAKE não coletado.
 
 {% hint style="warning" %}
-**This will lose any yield that you haven’t harvested yet.**
+**Isso faz com que você perca algum rendimento que você não tenha  sacado antes.**
 {% endhint %}
 
-To stop this happening again, **don’t sell your SYRUP.** You still need it to unstake from the “Stake CAKE Earn CAKE” pool.
+Para impedir que isso aconteça novamente, não venda seu SYRUP. Você precisa dele para sacar o stake da pool “Stake CAKE Earn CAKE”.&#x20;
 
-This error has happened because you have sold or transferred SYRUP tokens. SYRUP is minted in a 1:1 ratio to CAKE when you stake in the CAKE-CAKE Syrup Pool. SYRUP must be burned at a 1:1 ratio to CAKE when calling leaveStaking (unstaking your CAKE from the pool), so if you don't have enough, you can't unstake from the pool.
+Este erro ocorreu porque você vendeu ou transferiu tokens SYRUP. SYRUP é cunhado em uma proporção de 1:1 para CAKE quando você faz stake na Pool de Syrup CAKE-CAKE. O SYRUP deve ser queimado na proporção de 1:1 para CAKE ao chamar leaveStaking (retirar seu CAKE do pool), portanto, se você não tiver o suficiente, não poderá sacar da pool.
 
 {% embed url="https://dashboard.tenderly.co/tx/binance/0x754e18ceea82acac256b49c2b7a81260f7f86dd5e56ee2e3cc1b6ac864c29a8e" %}
 <img src="https://lh4.googleusercontent.com/KchAcnM6cpX2BotEGppAxPAnY4Xbona6yI6ZWg9FlUUBfPi_YO9ulM1s6htXJVXMzEwl0Uxcvdk8o4yhI7ar5g0TRpLVFjkS4YLKL7FS8Z4uFqeC37sw-TIkrPr7BCZQVpuD-5jO" alt="" data-size="original">
@@ -248,23 +270,25 @@ This error has happened because you have sold or transferred SYRUP tokens. SYRUP
 
 > Warning! Error encountered during contract execution \[out of gas]
 
-You have set a low gas limit when trying to make a transaction.
+> Aviso! Erro encontrado durante a execução do contrato \[sem gás]
+
+Você definiu um limite de gás baixo ao tentar fazer uma transação.
 
 {% tabs %}
-{% tab title="Solution" %}
-Try manually increasing the **gas limit** (not gas price!) in your wallet before signing the transaction.
+{% tab title="Solução" %}
+Tente aumentar manualmente o limite do gás (não o preço do gás!) em sua carteira antes de assinar a transação.&#x20;
 
-A limit of 200000 is usually enough.
+Um limite de 200.000 geralmente é suficiente.
 
 ![](<../.gitbook/assets/image (2).png>)
 
-The above example is from Metamask; check your wallet's documentation if you aren't sure how to adjust the gas limit.
+O exemplo acima é da Metamask; verifique a documentação da sua carteira se não tiver certeza de como ajustar o limite de gás.
 {% endtab %}
 
-{% tab title="Reason" %}
-Basically, your wallet (Metamask, Trust Wallet, etc.) can't finish what it's trying to do.
+{% tab title="Razão" %}
+Basicamente, sua carteira (Metamask, Trust Wallet, etc.) não consegue terminar o que está tentando fazer.&#x20;
 
-Your wallet estimates that the gas limit is too low, so the function call runs out of gas before the function call is finished.
+Sua carteira estima que o limite de gás é muito baixo, então a chamada da função fica sem gás antes que a chamada de função seja concluída.
 {% endtab %}
 {% endtabs %}
 
@@ -272,15 +296,17 @@ Your wallet estimates that the gas limit is too low, so the function call runs o
 
 > Fail with error 'BEP20: transfer amount exceeds allowance'
 
+> Falha com erro 'BEP20: valor da transferência excede o permitido'
+
 {% tabs %}
-{% tab title="Solution" %}
-1. Use Unrekt.net to revoke approval for the smart contract you're trying to interact with
-2. Approve the contract again, without setting a limit on spend allowance
-3. Try interacting with the contract again.
+{% tab title="Solução" %}
+1. Use o Unrekt.net para revogar a aprovação do contrato inteligente com o qual você está tentando interagir
+2. Aprove o contrato novamente, sem definir um limite para gastos&#x20;
+3. Tente interagir com o contrato novamente.
 {% endtab %}
 
 {% tab title="Reason" %}
-This happens when you set a limit on your spend allowance when you first approved the contract, then try to swap more than the limit.
+Isso acontece quando você define um limite para o seu limite de gastos ao aprovar o contrato pela primeira vez e, em seguida, tenta trocar mais do que o limite.
 {% endtab %}
 {% endtabs %}
 
@@ -288,143 +314,150 @@ This happens when you set a limit on your spend allowance when you first approve
 
 > Fail with error 'BEP20: transfer amount exceeds balance'
 
-You're probably trying to unstake from a Syrup Pool with low rewards in it. Solution below.
+> Falha com erro 'BEP20: valor da transferência excede o permitido'
 
-If not, you may be trying to send tokens that you don't have in your wallet (for example, trying to send a token that is already assigned to a pending transaction). In this case, just make sure you have the tokens you're trying to use.
+Você provavelmente está tentando retirar do stake de uma Pool de Syrup com baixas recompensas. Solução abaixo.&#x20;
+
+Se não, então você pode estar tentando enviar tokens que não possui em sua carteira (por exemplo, tentando enviar um token que já está atribuído a uma transação pendente). Nesse caso, apenas certifique-se de ter os tokens que está tentando usar.
 
 {% tabs %}
-{% tab title="Solution" %}
-Firstly,[ let the team know](../contact-us/telegram.md) which pool you're trying to unstake from, so they can top up the rewards. If you're in a hurry to unstake and you don't mind losing your pending yield, try an emergencyWithdraw:
+{% tab title="Solução" %}
+Primeiramente,[ ](../contact-us/telegram.md)[conte ao time](https://docs.pancakeswap.finance/v/portuguese-brazilian/contact-us/telegram) qual pool você está tentando sacar o stake, para que eles possam completar as recompensas. Se você está com pressa para retirar o stake e não se importa em perder seu rendimento pendente, tente um saque de emergência:
 
-You can perform an “emergencyWithdraw” from the contract directly to unstake your staked tokens.
+Você pode realizar um “emergencyWithdraw” do contrato diretamente para sacar seus tokens em stake.
 
-1. Find the contract address of the Syrup Pool you're trying to unstake from. You can find it in your wallet's transaction log.
-2. Go to [https://bscscan.com/](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract) and in the search bar, enter the contract address.
-3. Select **Write Contract.**
-4. Click **“Connect to Web3”** and connect your wallet.![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ\_VGjxJ03YPRuVQ1O5ME)
-5. In section **“3. emergencyWithdraw”,** and click “Write”.
+1. Encontre o endereço de contrato da Pool de Syrup que você está tentando retirar do stake. Você pode encontrar isso no log de transações da sua carteira.
+2. Vá para [https://bscscan.com/](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract) e na barra de busca, entre com o endereço do contrato.
+3. Selecione **Write Contract.**
+4. Clique **“Connect to Web3”** e conecte sua carteira.![](https://lh6.googleusercontent.com/-\_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk\_1dTHkPuCmE50vpNNZxEqoM5nPmE\_12k3-8Q8YYoRYqJ\_VGjxJ03YPRuVQ1O5ME)
+5. Na seção **“3. emergencyWithdraw”,** e clique “Write”.
 
-This will unstake your staked tokens and lose any uncollected yield.
+Isso vai retirar seus tokens do stake e vai perder algum rendimento não coletado.
 
 {% hint style="warning" %}
-**This will lose any yield that you haven’t harvested yet.**
+**Isso fará com que você perca algum rendimento que você não sacou antes.**
 {% endhint %}
 {% endtab %}
 
-{% tab title="Reason" %}
+{% tab title="Razão" %}
 This error tends to appear when you're trying to unstake from an old Syrup Pool, but there aren't enough rewards in the pool left for you to harvest when withdrawing. This causes the transaction to fail.
 {% endtab %}
 {% endtabs %}
 
-## **Issues with Prediction**
+## **Problemas com Prediction**
 
-Check [prediction-troubleshooting.md](../products/prediction/prediction-troubleshooting.md "mention")
+Verifique [prediction-troubleshooting.md](../products/prediction/prediction-troubleshooting.md "mention")
 
-## **Other issues**
+## **Outros problemas**
 
 ### Provider Error
 
 > Provider Error\
 > No provider was found
 
-This happens when you try to connect via a browser extension like MetaMask or Binance Chain Wallet, but you haven’t installed the extension.
+> Erro do provedor \
+> Nenhum provedor foi encontrado
+
+Isso acontece quando você tenta se conectar por meio de uma extensão do navegador como MetaMask ou Binance Chain Wallet, mas não instalou a extensão.
 
 {% tabs %}
-{% tab title="Solution" %}
-Install the official browser extension to connect, or read our guide on [how to connect a wallet to PancakeSwap](https://docs.pancakeswap.finance/get-started/connection-guide).
+{% tab title="Solução" %}
+Instale a extensão oficial do navegador para conectar ou leia nosso guia sobre [como conectar uma carteira na PancakeSwap.](https://docs.pancakeswap.finance/v/portuguese-brazilian/get-started/connection-guide)
 {% endtab %}
 {% endtabs %}
 
 ### Unsupported Chain ID
 
-Switch your chain to BNB Smart Chain. Check your wallet's documentation for a guide if you need help.
+Mude sua chain para BNB Smart Chain. Verifique a documentação da sua carteira para obter um guia se precisar de ajuda.
 
 ### Already processing eth\_requestAccounts. Please wait.
 
-Make sure you are signed in to your wallet app and it's connected to BNB Smart Chain.
+Verifique se você está conectado ao seu aplicativo de carteira e conectado à BNB Smart Chain.
 
-### Issues buying SAFEMOON and similar tokens
+### Problemas comprando SAFEMOON e tokens similar
 
-To trade SAFEMOON, you must click on the settings icon and **set your slippage tolerance to 12% or more.**\
-This is because **SafeMoon taxes a 10% fee on each transaction**:
+Para negociar SAFEMOON, você deve clicar no ícone de configurações e **definir sua tolerância de derrapagem para 12% ou mais.**\
+Isso ocorre porque o **SafeMoon cobra uma taxa de 10% em cada transação**:
 
-* 5% fee = redistributed to all existing holders
-* 5% fee = used to add liquidity
+* 5% de taxa = redistribuído para todos os holderrs existentes
+* 5% de taxa = usado para adicionar liquidez
 
-This is also why you might not receive as much of the token as you expect when you purchase.\
-Read more on [How to Buy Safe Moon](https://community.trustwallet.com/t/how-to-buy-safemoon/155742).
+É também por isso que você pode não receber tanto do token quanto espera ao comprar.\
+Leia mais em [Como comprar Safe Moon](https://community.trustwallet.com/t/how-to-buy-safemoon/155742).
 
 ### Internal JSON-RPC errors
 
 > "MetaMask - RPC Error: Internal JSON-RPC error. estimateGas failed removeLiquidityETHWithPermitSupportingFeeOnTransferTokens estimateGas failed removeLiquidityETHWithPermit "
 
-Happens when trying to remove liquidity on some tokens via Metamask. Root cause is still unknown. Try using an alternative wallet.
+Acontece ao tentar remover a liquidez de alguns tokens via Metamask. A causa raiz ainda é desconhecida. Tente usar uma carteira alternativa.
 
 > Internal JSON-RPC error. { "code": -32000, "message": "insufficient funds for transfer" } - Please try again.
 
-You don't have enough BNB to pay for the transaction fees. You need more BEP-20 network BNB in your wallet.
+Você não tem BNB suficiente para pagar as taxas de transação. Você precisa de mais BNB da rede BEP-20 em sua carteira.
 
 ### Error: \[ethjs-query]
 
 > Error: \[ethjs-query] while formatting outputs from RPC '{"value":{"code":-32603,"data":{"code":-32000,"message":"transaction underpriced"\}}}"
 
-Increase the gas limit for the transaction in your wallet. Check your wallet's documentation to learn how to increase gas limit.
+Aumente o limite de gás para a transação em sua carteira. Verifique a documentação da sua carteira para saber como aumentar o limite de gás.
 
 > Swap failed: Error: \[ethjs-query] while formatting outputs from RPC '{"value":{"code":-32603,"data":{"code":-32603,"message":"handle request error"\}}}'
 
-Cause unclear. Try these steps before trying again:
+Causa pouco clara. Tente estas etapas antes de tentar novamente:
 
-1. Increase gas limit
-2. Increase slippage
-3. Clear cache
+1. Aumente o limite de gás
+2. Aumente o slippage
+3. Limpe o cache
 
-## **Issues with Profile**
+## **Problmas com Perfil**
 
 ### Oops! We couldn't find any Pancake Collectibles in your wallet.
 
-We're investigating the logic behind this issue. Meanwhile please try the workaround.
+(Ops! Não encontramos nenhum Colecionável da Pancake em sua carteira.)
+
+Estamos investigando a lógica por trás desse problema. Enquanto isso, tente a solução alternativa.
 
 {% tabs %}
-{% tab title="Workaround 1" %}
-1. Go to “Collectible” page, then come back to profile page.\
-   If you can’t find the link, go to [https://pancakeswap.finance/collectibles](https://pancakeswap.finance/collectibles) directly.
-2. Retry profile creation.
+{% tab title="Solução 1" %}
+1. Vá para a página “Collectible”, então vá de volta para página de perfil.\
+   Se você não pode encontrar o link, vá diretamente para [https://pancakeswap.finance/collectibles](https://pancakeswap.finance/collectibles).
+2. Tente novamente a criar o perfil.
 {% endtab %}
 
-{% tab title="Workaround 2" %}
-Change the environment.
+{% tab title="Solução 2" %}
+Mude o ambiente.
 
-* Clear the cache and retry.
-* Retry on different browser.
-* Retry on different wallet apps.
-* Retry on the different network (switch between Wi-Fi and cellular)
+* Limpe o cache e tente novamente.
+* Tente novamente em um navegador diferente.
+* Tente novamente com aplicativos de carteira diferentes.
+* Tetne novamente mudando rede de internet (troque entre Wi-Fi e celular)
 {% endtab %}
 {% endtabs %}
 
-### Checking username keeps spinning
+### Verificando username continua rodando
 
-There are two possible causes.
+Existem duas possíveis causas.
 
-1. You have multiple wallets installed on the browser.
-2. Network issue.
+1. Você tem muitas carteiras instaladas no navegador.
+2. Problema na rede.
 
 {% tabs %}
-{% tab title="Solution 1" %}
-Root cause: You have multiple wallets installed on the browser.\
-\
-It may make a conflict between wallets. This is out of PancakeSwap's control and we can do nothing.
+{% tab title="Solução 1" %}
+Causa Raiz: Você tem várias carteiras instaladas no navegador.
 
-1. Have only single wallet installed on browser, remove the others.
-2. Reconnect the wallet and retry setting username again.
+Pode causar um conflito entre carteiras. Isso está fora do controle da PancakeSwap e não podemos fazer nada.&#x20;
+
+1. Tenha apenas uma única carteira instalada no navegador, remova as outras.&#x20;
+2. Reconecte a carteira e tente definir o nome de usuário novamente.
 {% endtab %}
 
-{% tab title="Solution 2" %}
-Root cause: Network is unstable.
+{% tab title="Solução 2" %}
+Causa Raiz: Rede está instável.
 
-You have to retry.
+Tente novamente.
 
-1. Delete whatever has been entered in the text field completely.
-2. Re-type username, then please wait for seconds.
-3. If it doesn’t work, reload the page and retry again.
+1. Exclua completamente o que foi inserido no campo de texto.
+2. Digite novamente o nome de usuário e aguarde alguns segundos.&#x20;
+3. Se não funcionar, recarregue a página e tente novamente.
 {% endtab %}
 {% endtabs %}

@@ -50,7 +50,7 @@
 * [🔮 Prediction](products/prediction/README.md)
   * [How to Use Prediction](products/prediction/prediction-guide.md)
   * [Prediction FAQ](products/prediction/prediction-faq.md)
-  * [Prediction Troubleshooting](products/prediction/prediction-troubleshooting.md)
+  * [Soluções de Problemas no Prediction](products/prediction/prediction-troubleshooting.md)
 * [🖼 NFT Market](products/nft-market.md)
 * [🖼 NFT Profile System](products/nft-profile-system/README.md)
   * [How to Set Up an NFT Profile](products/nft-profile-system/profile-guide.md)
