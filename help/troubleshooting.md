@@ -256,7 +256,7 @@ Try manually increasing the **gas limit** (not gas price!) in your wallet before
 
 A limit of 200000 is usually enough.
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 The above example is from Metamask; check your wallet's documentation if you aren't sure how to adjust the gas limit.
 {% endtab %}

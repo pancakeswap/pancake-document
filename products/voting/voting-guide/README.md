@@ -51,13 +51,13 @@ In this window, you can double-check the following items:
 
 If you are not sure about how the voting power is calculated, click on the ">" to bring up the detailed breakdown.
 
-![](../../../.gitbook/assets/how-to-vote-5.png)
+![](<../../../.gitbook/assets/how-to-vote-5 (2).png>)
 
 Please note that only CAKE held in the following places will contribute to the total number of voting power:
 
 1. In wallet
 2. Flexible CAKE Staking (both in CAKE pool and side pool)
-3. Fixed Term CAKE Staking (boosted by vCAKE!)
+3. Fixed Term CAKE Staking (boosted by [vCAKE](../vcake.md)!)
 4. Other Syrup Pools (provided by other projects)
 5. CAKE/BNB LP&#x20;
 
