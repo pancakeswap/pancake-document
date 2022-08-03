@@ -8,4 +8,4 @@ Check out [PancakeSwap's native voting portal](https://voting.pancakeswap.financ
 
 **Core** - proposals posted by the PancakeSwap team. The results will be actioned.
 
-**Community** - proposals posted by the PancakeSwap community. These are used to propose ideas and show the communities point of view. The PancakeSwap team reviews every community vote and will often move any with strong community support up to the CORE proposal level.
+**Community** - proposals posted by the PancakeSwap community. These are used to propose ideas and show the communities point of view. The PancakeSwap team reviews every community vote and will often cherry-pick any great ideas and designs with strong community support up to the coming product releases and/or core voting proposal level.
