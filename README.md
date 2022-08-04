@@ -61,6 +61,10 @@ Win collectible NFTs for participating in trading competitions and more fun & ga
 Win BNB if you can predict whether the BNB price will rise or fall.\
 New rounds every 5 minutes!
 
+### Pottery
+
+Win a bigger yield on your CAKE deposit, a combination of CAKE lock-staking and lottery!
+
 ## Is PancakeSwap safe?
 
 See for yourself:
