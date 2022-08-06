@@ -90,7 +90,7 @@ You can also choose the reference currency to see your position
 
 When all the parameters have been set, you can send the order by clicking on long, if it is a long order, or short, if it is a short order.
 
-![](<../../../.gitbook/assets/image (59) (2).png>)
+![](<../../../.gitbook/assets/image (59).png>)
 
 ### Checking your position
 

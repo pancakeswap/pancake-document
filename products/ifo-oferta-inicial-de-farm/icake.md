@@ -42,7 +42,7 @@ Você pode aumentar o número de iCAKE que você tem:&#x20;
 * Adicionando mais CAKE à sua posição de stake de prazo fixo na pool de syrup de CAKE.&#x20;
 * Estenda sua duração de stake de prazo fixo se sua duração atual forem menores que o exigido.
 
-![](<../../.gitbook/assets/image (59).png>)
+![](<../../.gitbook/assets/image (59) (2).png>)
 
 Você pode visualizar o número de iCAKE gerado a partir de sua posição de stake ao ajustar ou inicializar o stake de prazo fixo.
 
