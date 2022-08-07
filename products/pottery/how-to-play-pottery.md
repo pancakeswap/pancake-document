@@ -38,7 +38,7 @@ After each draw on Friday at around noon UTC, you can view the results and winne
 
 ![](https://lh3.googleusercontent.com/ClT6Dx6rJlfFmzmyxwCGwIUsDv-DuhzVAWN5Qt0sOulj2\_zDrMJHDJvQqr6vS0t6IO090pstOi0BJTKADDVj7C\_kspWM\_f-M83EGERNiEvON-GTl\_nvXANGH5etDbnBmieRSZ66G8krr8GUWc2s5SDw)
 
-Based on the drawn date, find the corresponding round for the cohort you would like to check – on each Friday, there could be more than one draw since there are different cohorts, make sure you’re checking the right draw for the cohort you’re looking for. Please read to learn more about [the cohort structure here](https://docs.google.com/document/d/1tPRr7GLkeyhBRSxGT1aNsT1ODX-a\_kBEzSocbf-cvaM/edit#bookmark=id.4aesxnym3l6m).
+Based on the drawn date, find the corresponding round for the cohort you would like to check – on each Friday, there could be more than one draw since there are different cohorts, make sure you’re checking the right draw for the cohort you’re looking for. Please read to learn more about [the cohort structure here](https://docs.pancakeswap.finance/products/pottery#pottery-cohort).
 
 ## Claiming the prize
 
