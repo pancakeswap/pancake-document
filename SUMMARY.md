@@ -27,7 +27,6 @@
   * [糖浆池常见问题解答与排错指南](products/syrup-pools/untitled.md)
 * [🎟 彩票 v2](products/lottery.md)
 * [🔮 预测](products/yu-ce.md)
-* [🍯 糖浆彩票 Pottery](products/tang-jiang-cai-piao-pottery.md)
 * [🖼 NFT 个人档案系统](products/nft-ge-ren-dang-an-xi-tong.md)
 * [🛍 IFO (初次农场发行)](products/ifo-initial-farm-offering.md)
 * [📈 信息站](products/info.md)
