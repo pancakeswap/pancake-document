@@ -40,6 +40,7 @@
 * [🔮 Predicción](productos/prediccion/README.md)
   * [Cómo Usar Predicción?](productos/prediccion/como-usar-prediccion.md)
   * [Errores y Preguntas Frecuentas](productos/prediccion/errores-y-preguntas-frecuentas.md)
+* [🍯 Pottery](productos/pottery.md)
 * [🖼Perfil NFT en PancakeSwap](productos/perfil-nft-en-pancakeswap/README.md)
   * [Equipos](productos/perfil-nft-en-pancakeswap/equipos.md)
   * [Cómo Crear un Perfil](productos/perfil-nft-en-pancakeswap/como-crear-un-perfil.md)
