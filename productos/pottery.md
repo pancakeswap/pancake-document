@@ -6,11 +6,21 @@ Pottery combina el Stake Bloqueado de CAKE con la lotería para darle la oportun
 
 ## Instrucciones:
 
-Deposita CAKE en la sección de POTTERY con un mínimo de 1 CAKE. El depósito cierra el primer lunes de cada mes para cada serie de POTTERY diferente (23:59 UTC de ese lunes) y está abierto desde el viernes anterior alrededor de las 10:00 UTC, a menos que haya arreglos especiales que se anunciarán con anticipación (la primer Pottery cerrará el 8 de agosto de 2022 a las 23:59 UTC) Durante la etapa beta del producto, hay un límite para el depósito total de CAKE para cada serie (el límite máximo de depósito es de 600 000 CAKE) El CAKE depositado se dirigirá al Pool de Stake bloqueado y se bloqueará durante diez (10) semanas. El 80% de las recompensas totales del Pool de Stake se enviarán al Pool de Pottery para el sorteo, el 20 % se reservará para su retiro. Para cada serie de POTTERY (una por mes), habrá diez (10) sorteos en total, uno por semana, cada viernes (al mediodía UTC) al depositar, produciendo ocho (8) ganadores por semana. Cada wallet puede ganar más de uno de los ocho premios para ganadores. cada semana Cuanto mayor sea su depósito en relación con el fondo general, mayor será la posibilidad de ganar, los ganadores pueden reclamar su premio a continuación de cada sorteo. Cada seriede POTTERY tiene su sorteo por separado. Solo después de 10 semanas a partir de la fecha de bloqueo de la seriede POTTERY, puedes retirar tus CAKE POTTERY utiliza la implementación de VRF de Chainlink para una aleatoriedad verdadera y segura
+* Deposita CAKE en la sección de POTTERY con un mínimo de 1 CAKE.&#x20;
+* El depósito cierra el primer lunes de cada mes para cada serie de POTTERY diferente (23:59 UTC de ese lunes) y está abierto desde el viernes anterior alrededor de las 10:00 UTC, a menos que haya arreglos especiales que se anunciarán con anticipación (la primer Pottery cerrará el 8 de agosto de 2022 a las 23:59 UTC)&#x20;
+* Durante la etapa beta del producto, hay un límite para el depósito total de CAKE para cada serie (el límite máximo de depósito es de 600 000 CAKE)&#x20;
+* Los CAKE depositados se dirigirán al Pool de Stake bloqueado y se bloqueará durante diez (10) semanas. El 80% de las recompensas totales del Pool de Stake se enviarán al Pool de Pottery para el sorteo, el 20 % se reservará para su retiro.&#x20;
+* Para cada serie de POTTERY (una por mes), habrá diez (10) sorteos en total, uno por semana, cada viernes (al mediodía UTC) al depositar, produciendo ocho (8) ganadores por semana. Cada wallet puede ganar más de uno de los ocho premios para ganadores. cada semana&#x20;
+* Cuanto mayor sea su depósito en relación con el fondo general, mayor será la posibilidad de ganar, los ganadores pueden reclamar su premio a continuación de cada sorteo.&#x20;
+* Cada serie de POTTERY tiene su sorteo por separado.&#x20;
+* Solo después de 10 semanas a partir de la fecha de bloqueo de la serie de POTTERY, puedes retirar tus CAKE&#x20;
+* POTTERY utiliza la implementación de VRF de Chainlink para una aleatoriedad verdadera y segura
 
-SERIES DE POTTERY (POTTERY COHORT)
+## SERIES DE POTTERY (POTTERY COHORT)
 
 El primer lunes de cada mes, se abrirá una serie de POTTERY para que deposites CAKE y participes en ella durante las próximas 10 semanas. Este arreglo combina el depósito para dirigirlo al Pool de Stake bloqueado, de modo que el contrato de la serie de Pottery pueda coordinar las recompensas de Stake del depósito del Stake bloqueado. Cada fecha de depósito y bloqueo será una serie separada, una para cada mes, por ejemplo: todos los depósitos del 5 de septiembre de 2022 estarán en una serie, todos los depósitos del 3 de octubre de 2022 estarán en otra serie. Si bien los sorteos pueden ocurrir simultáneamente para diferentes series , los premios acumulados para cada serie están separados para ser justos.
+
+![](https://lh4.googleusercontent.com/8uGcM0vvN9g2O6YIQRotgIx24YhQxFQ4Q09orn0\_vmZvtkRErhoy0ly4daJu4B1tiqDWZA7xEa-miUXyVpxqBJ6CaCUeCfrGrQTrWDqrDO8shVBgACcfA62utARylSb-zJLoOFXox\_OoXZo6XT3Ez4brUQtnvutK)
 
 (Solo con fines ilustrativos, la fecha de bloqueo de la serie real para la primera POTTERY se fijó para el 8 de agosto de 2022)
 
