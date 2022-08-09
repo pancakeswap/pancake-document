@@ -64,4 +64,4 @@ El ocho por ciento (8%) del premio acumulado que se distribuye cada semana se co
 
 ## ¿Listo para participar?
 
-Si tienes clara la estructura del producto, los riesgos y las tarifas, consulte esta página sobre cómo participar desde la interfaz de usuario web de PancakeSwap y otras preguntas frecuentes sobre Pottery.
+Si tienes clara la estructura del producto, los riesgos y las tarifas, consulte [esta página](como-usar-pottery.md) sobre cómo participar desde la interfaz de usuario web de PancakeSwap y otras [preguntas frecuentes](preguntas-frecuentes.md) sobre Pottery.
