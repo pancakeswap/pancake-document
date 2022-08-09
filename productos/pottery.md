@@ -16,7 +16,7 @@ Pottery combina el Stake Bloqueado de CAKE con la lotería para darle la oportun
 * Solo después de 10 semanas a partir de la fecha de bloqueo de la serie de POTTERY, puedes retirar tus CAKE&#x20;
 * POTTERY utiliza la implementación de VRF de Chainlink para una aleatoriedad verdadera y segura
 
-## SERIES DE POTTERY (POTTERY COHORT)
+## Series de Pottery (Pottery Cohort)
 
 El primer lunes de cada mes, se abrirá una serie de POTTERY para que deposites CAKE y participes en ella durante las próximas 10 semanas. Este arreglo combina el depósito para dirigirlo al Pool de Stake bloqueado, de modo que el contrato de la serie de Pottery pueda coordinar las recompensas de Stake del depósito del Stake bloqueado. Cada fecha de depósito y bloqueo será una serie separada, una para cada mes, por ejemplo: todos los depósitos del 5 de septiembre de 2022 estarán en una serie, todos los depósitos del 3 de octubre de 2022 estarán en otra serie. Si bien los sorteos pueden ocurrir simultáneamente para diferentes series , los premios acumulados para cada serie están separados para ser justos.
 
@@ -58,7 +58,7 @@ Se le garantizará recuperar el 100% de lo que depositó en 10 semanas. Sin emba
 
 Participe en función de su preferencia de riesgo. Una vez que se deposita CAKE, no hay nada que nadie pueda hacer para ayudarlo a retirar anticipadamente.
 
-## FEES (Tarifas)
+## Fees (Tarifas)
 
 El ocho por ciento (8%) del premio acumulado que se distribuye cada semana se cobrará como tarifa de quema. Nuestro objetivo es revisar y ajustar la estructura de tarifas en consecuencia después de la etapa beta del producto.
 
