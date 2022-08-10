@@ -42,7 +42,7 @@
   * [Errores y Preguntas Frecuentas](productos/prediccion/errores-y-preguntas-frecuentas.md)
 * [🍯 Pottery](productos/pottery/README.md)
   * [Cómo usar Pottery?](productos/pottery/como-usar-pottery.md)
-  * [Preguntas Frecuentes](productos/pottery/preguntas-frecuentes.md)
+  * [Pottery: FAQ](productos/pottery/pottery-faq.md)
 * [🖼Perfil NFT en PancakeSwap](productos/perfil-nft-en-pancakeswap/README.md)
   * [Equipos](productos/perfil-nft-en-pancakeswap/equipos.md)
   * [Cómo Crear un Perfil](productos/perfil-nft-en-pancakeswap/como-crear-un-perfil.md)
