@@ -54,4 +54,4 @@ Hay un depósito mínimo de 1 CAKE. En la etapa beta del producto, también habr
 
 ## ¿Dónde puedo enviar comentarios sobre este producto?
 
-¡No dude en comunicarse con nosotros en [Telegram ](https://app.gitbook.com/o/-MHRKTpKSfYQBsO7YgOo/s/-MHREX7DHcljbY5IkjgJ-987003710/)o [Discord ](https://discord.gg/pancakeswap)si aún no está seguro sobre el formato o si tiene algún comentario para que lo mejoremos aún más!
+¡No dude en comunicarse con nosotros en [Telegram ](https://t.me/PancakeSwapES)o [Discord ](https://discord.gg/pancakeswap)si aún no está seguro sobre el formato o si tiene algún comentario para que lo mejoremos aún más!
