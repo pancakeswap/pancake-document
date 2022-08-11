@@ -10,3 +10,10 @@ bCAKE - Farm Boosters, is an automatic generated boost multiplier that allows yo
 
 Learn more about bCAKE and how to use it to boost your farming yields:
 
+{% content-ref url="how-to-use-bcake.md" %}
+[how-to-use-bcake.md](how-to-use-bcake.md)
+{% endcontent-ref %}
+
+{% content-ref url="faq.md" %}
+[faq.md](faq.md)
+{% endcontent-ref %}
