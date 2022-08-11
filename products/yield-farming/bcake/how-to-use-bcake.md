@@ -2,7 +2,7 @@
 
 ![](../../../.gitbook/assets/how-to-use-bCAKE.png)
 
-Similar to iCAKE and vCAKE, bCAKE is also a benefit for users who lock their CAKE in the fixed-term CAKE staking pool. The boost multiplier is calculated based on how much CAKE you stake, how long you are staking them for, as well as how many LP tokens you are staking in the farm that you want to boost.
+Similar to iCAKE and vCAKE, bCAKE is also a benefit designed for users who lock their CAKE in the fixed-term CAKE staking pool. The boost multiplier is calculated based on how much CAKE you stake, how long you are staking them for, as well as how many LP tokens you are staking in the farm that you want to boost.
 
 ## Preparations
 
@@ -20,7 +20,7 @@ To learn more about how to do fixed-term CAKE staking, read [here](../../coming-
 
 To enable farm boosters, you must complete a one-time setup process. To proceed, simply click "Enable" and confirm the transaction from your wallet.
 
-### Migration your stakings
+### Migrate your stakings
 
 {% hint style="info" %}
 If you are not currently staking in the farm you want to activate bCAKE, you can skip this step and start by staking LP tokens in the farm.
@@ -38,7 +38,7 @@ Click "Migrate" and follow the step-by-step guide to complete the migrations. Yo
 
 ![](../../../.gitbook/assets/bCAKE-pending-activation.png)
 
-Once ready, you should see the available boost multiplier and the boosted APR for the farm you are currently staking. To learn more about how bCAKE multiplier is calculated, read [here](faq.md#how-are-the-bcake-multipliers-calculated).
+Once ready, you should see the available boost multiplier and the boosted APR for the farm you are currently staking. To learn more about how the bCAKE multiplier is calculated, read [here](faq.md#how-are-the-bcake-multipliers-calculated).
 
 To activate the boost, click the "Boost" button, and confirm the transaction from your wallet.
 
@@ -48,9 +48,9 @@ Please note that any user actions to the farms or CAKE staking pool will automat
 Learn more [here](faq.md#why-do-my-multipliers-change-even-after-activation).
 {% endhint %}
 
-### ![](../../../.gitbook/assets/bCAKE-farm-number-limit.png)
+### ![](<../../../.gitbook/assets/bCAKE-farm-number-limit (1).png>)
 
-There is a limit to the number of farms are able to boost simultaneously. To check the number of remaining boosters, refer to the panel on top.
+There is a limit to the number of farms that are able to boost simultaneously. To check the number of remaining boosters, refer to the panel on top.
 
 You will need to unset an active booster in order to activate boosters on other farms.
 
@@ -58,5 +58,7 @@ You will need to unset an active booster in order to activate boosters on other 
 
 ![](../../../.gitbook/assets/bCAKE-pending-unset.png)
 
-To unset a booster, simply click the "Unset" button, and confirm the transaction from your wallet.
+To unset a farm booster, simply click the "Unset" button, and confirm the transaction from your wallet.
+
+Please note upon unsetting, CAKE earned will be harvested to the farm booster contract and will be automatically sent to your wallet upon the next harvest, deposit or withdrawal. Learn more [here](faq.md#where-are-my-cake-rewards-after-activating-or-unsetting-the-booster).
 
