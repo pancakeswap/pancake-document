@@ -10,11 +10,15 @@
 | ---------------------- | ------------------------: | ----------------------: |
 | Emission               |                        40 |               1,152,000 |
 | Burned Weekly          |                   \~28.85 |               \~830,800 |
-| **Effective Emission** |              **<11.16\*** |         **\~321,200\*** |
+| **Effective Emission** |             **\~11.16\*** |         **\~321,200\*** |
+
+{% hint style="info" %}
+On August 11, 2022, Chefs implemented some configuration upgrades to take full advantage of MasterChef v2. It eliminates the 45,000 CAKE daily burn for the legacy lottery injections. Those burns will now be handled by MasterChef v2 directly along with the usual weekly CAKE burn. Therefore, the effective emissions are now even lower.
+{% endhint %}
 
 In addition to the above, a dynamic amount of CAKE is also [minted to the Dev address](https://bscscan.com/address/0xceba60280fb0ecd9a5a26a1552b90944770a4a0e#tokentxns) at a rate of 9.09%. This means that if 100 CAKE are harvested, then 9.09 CAKE is minted in addition and sent to the Dev Address.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 All CAKE minted to the Dev address is burned in the weekly burn and never enters circulation.&#x20;
 
 As such, we haven't included it in the above emission rate.
