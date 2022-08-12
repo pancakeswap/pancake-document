@@ -48,7 +48,7 @@ Please note that any user actions to the farms or CAKE staking pool will automat
 Learn more [here](faq.md#why-do-my-multipliers-change-even-after-activation).
 {% endhint %}
 
-### ![](<../../../.gitbook/assets/bCAKE-farm-number-limit (1).png>)
+### ![](../../../.gitbook/assets/bCAKE-farm-number-limit.png)
 
 There is a limit to the number of farms that are able to boost simultaneously. To check the number of remaining boosters, refer to the panel on top.
 
