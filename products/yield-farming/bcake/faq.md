@@ -69,7 +69,8 @@ To check the number of extra rewards in the farm booster contract, hover or long
 
 ### Why I'm not able to boost a farm
 
-1. Farm booster is only available for selected farms. More farms will be made available in the future. For now, look for the "Boosted" tag on the UI.![](<../../../.gitbook/assets/bCAKE-boost-tag (1).png>)
+1. Farm booster is only available for selected farms. More farms will be made available in the future. For now, look for the "Boosted" tag on the UI.\
+   ![](<../../../.gitbook/assets/bCAKE-boost-tag (1).png>)
 2. There is a limit to the number of farms that are able to boost simultaneously. To check the number of remaining boosters, refer to the panel on top. \
    ![](<../../../.gitbook/assets/bCAKE-farm-number-limit (1).png>)\
    You will need to unset an active booster in order to activate boosters on other farms.
