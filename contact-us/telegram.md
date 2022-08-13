@@ -22,7 +22,7 @@
 
 ### 🤖Discord
 
-Newly launched on 24th Nov! The below is the only link for our discord server!
+官方Discord伺服器于2021年11月24日上线啦！下方是唯一官方链接！
 
 [https://discord.gg/pancakeswap](https://discord.gg/pancakeswap)
 
