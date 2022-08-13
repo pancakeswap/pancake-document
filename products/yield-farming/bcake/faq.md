@@ -92,3 +92,11 @@ Simply put:
 
 [Learn more about how the bCAKE boost multipliers are calculated](faq.md#how-are-the-bcake-multipliers-calculated).
 
+### Where are the extra boosted CAKE rewards coming from?
+
+**Relax, no extra emissions are allocated in order to make bCAKE possible.**
+
+Similar to fixed-term CAKE staking. bCAKE boosts individual users' share against the others.
+
+Even though the baseline APR may drop after the deployment of bCAKE. Chefs believe it is a good tradeoff as it not only benefits loyal CAKE lovers by boosting their farming yield, but also creates more demand for CAKE and serves as a great incentive for CAKE staking.
+
