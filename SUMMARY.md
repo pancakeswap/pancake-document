@@ -18,7 +18,7 @@
 
 ## 产品 <a href="#products" id="products"></a>
 
-* [🔄 交易](products/pancakeswap-exchange/README.md)
+* [🔄 交易](products/pancakeswap-exchange.md)
   * [💹 限價單交易](products/pancakeswap-exchange/xian-jia-dan-jiao-yi.md)
 * [🚜 流动性挖矿](products/yield-farming.md)
 * [🍯 糖浆池](products/syrup-pools/README.md)

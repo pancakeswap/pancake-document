@@ -20,6 +20,12 @@
 
 {% embed url="https://www.instagram.com/pancakeswap_official/" %}
 
+### 🤖Discord
+
+Newly launched on 24th Nov! The below is the only link for our discord server!
+
+[https://discord.gg/pancakeswap](https://discord.gg/pancakeswap)
+
 ### 💬 电报 (Telegram)
 
 **官方电报群：**&#x20;
@@ -32,11 +38,15 @@
 * 🇻🇳 Việt Nam ([https://t.me/PancakeSwapVN](https://t.me/PancakeSwapVN))&#x20;
 * 🇪🇸 🇦🇷 🇻🇪 Español ([https://t.me/PancakeSwapES](https://t.me/PancakeSwapES))&#x20;
 * 🇷🇺 Russian ([http://t.me/pancakeswap\_ru](http://t.me/pancakeswap\_ru))&#x20;
-* 🇧🇷 🇵🇹 Portuguese/Brazilian Community ([https://t.me/PancakeSwapPortuguese](https://t.me/PancakeSwapPortuguese))
+* 🇧🇷 🇵🇹 Portuguese/Brazilian ([https://t.me/PancakeSwapPortuguese](https://t.me/PancakeSwapPortuguese))
 * &#x20;🇫🇷 French ([https://t.me/pancakeswapfr](https://t.me/pancakeswapfr))&#x20;
 * 🇮🇹 Italiano ([https://t.me/pancakeswap\_ita](https://t.me/pancakeswap\_ita))&#x20;
 * 🇹🇷 Türkiye ([https://t.me/pancakeswapturkiye](https://t.me/pancakeswapturkiye))&#x20;
-* 😤 错误封禁申诉 ([https://t.me/joinchat/C\_9mwknNuKq-cfXQ4-HMHA](https://t.me/joinchat/C\_9mwknNuKq-cfXQ4-HMHA))
+* 🇩🇪 🇦🇹 🇨🇭 Deutsch ([https://t.me/PancakeSwap\_DE](https://t.me/PancakeSwap\_DE))
+* 🇵🇭 Filipino ([https://t.me/Pancakeswap\_Ph](https://t.me/Pancakeswap\_Ph))
+* 🇬🇪 Georgia ([https://t.me/PancakeSwapGeorgia](https://t.me/PancakeSwapGeorgia))
+* 🇮🇳 India ([https://t.me/PancakeSwapINDIA](https://t.me/PancakeSwapINDIA))
+* 😤 错误封禁申诉社群 ([https://t.me/joinchat/C\_9mwknNuKq-cfXQ4-HMHA](https://t.me/joinchat/C\_9mwknNuKq-cfXQ4-HMHA))
 
 {% hint style="danger" %}
 管理员**绝对不会**主动跟您私聊。如果有人假扮成客服直接与您联系，请立即点击封禁并将其举报为垃圾信息。
