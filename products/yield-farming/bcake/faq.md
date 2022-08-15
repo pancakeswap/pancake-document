@@ -100,9 +100,9 @@ Similar to fixed-term CAKE staking. bCAKE boosts individual users' share against
 
 Even though the baseline APR may drop after the deployment of bCAKE. Chefs believe it is a good tradeoff as it not only benefits loyal CAKE lovers by boosting their farming yield, but also creates more demand for CAKE and serves as a great incentive for CAKE staking.
 
-### Is bCAKE safe?
+### Is bCAKE audited?
 
-Yes, bCAKE has been audited by both internal and external auditors.&#x20;
+bCAKE has been audited by both internal and external auditors.&#x20;
 
 Check out PeckSheild's audit report [here](https://github.com/peckshield/publications/tree/master/audit\_reports/PeckShield-Audit-Report-PancakeSwap-FarmBooster-v1.0.pdf).
 

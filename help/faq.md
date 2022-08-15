@@ -95,9 +95,7 @@ To learn more about voting, you can [read our section on Voting](https://docs.pa
 
 ## What is the max supply of CAKE?
 
-$CAKE does not have a maximum supply. The circulating supply is managed through built-in burning and regular burning events.\
-\
-Read this to [learn more about PancakeSwap's tokenomics](https://docs.pancakeswap.finance/tokenomics/cake).
+Yes, CAKE now has a hard cap of 750M as outlined in our litepaper [https://v2litepaper.pancakeswap.finance/](https://v2litepaper.pancakeswap.finance/)
 
 ## What are the treasury funds used for?
 
