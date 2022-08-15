@@ -18,7 +18,7 @@ The deposit for each Pottery cohort is open once a month. The deposit closes and
 
 ![](https://lh4.googleusercontent.com/FZDvRS3D6RaeIwLiWAjfeMXZHN3ZBvjRvg-174b\_cWds816Ixyq4rw7ZgFrxgOVtPcbaZVjt4AyiNUjxt5tNl9TgmHUIsqgrCWGB1WlAd4GmZoUsrGy5prFalV87rgTLHrtkalVN0HkS7EfsUlyhPqg)
 
-– which means the deposit is currently closed until the next monthly first Monday. If the deposit is open, you will see this instead:
+– which means the deposit is currently closed until the Friday before the next monthly first Monday. If the deposit is open, you will see this instead:
 
 ![](https://lh5.googleusercontent.com/\_TqVUlNGtnGvGz\_wysnq-KmewS\_CjmUJ0jMHwzRMLx47Rmq-x868M0q-iBXCqynotDqz3mxnUZovExx4bUb8BBv3W6OXl4u4pJWFmOz\_\_IYASvQ\_hgmccB3GPaL1oz4TutJr3PTwdz\_2NoVzmnpkcD0)
 

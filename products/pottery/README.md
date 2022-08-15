@@ -18,7 +18,7 @@ Pottery combines CAKE lock-staking with lottery elements to give you a chance to
 
 ## Pottery Cohort&#x20;
 
-On the first Monday of each month, a Pottery cohort will be open for you to deposit CAKE and participate in it for the next 10 weeks. This arrangement combines the deposit to direct to the locked staking pool, such that the Pottery contract of the cohort is able to coordinate the staking rewards of the deposit from the locked staking pool.
+On the Friday before the first Monday of each month, a Pottery cohort will be open for you to deposit CAKE and participate in it for the next 10 weeks. This arrangement combines the deposit to direct to the locked staking pool, such that the Pottery contract of the cohort is able to coordinate the staking rewards of the deposit from the locked staking pool.
 
 Each deposit and lock date will be a separate cohort – one for each month – e.g. all deposits on Sep 5 2022 will be in one cohort, all deposits on Oct 3 2022 will be in another cohort.
 
@@ -27,6 +27,10 @@ While draws may happen concurrently for different cohorts, the prize pools for e
 ![(For illustration purposes only, actual cohort lock date for the first Pottery has been set to Aug 8 2022)](https://lh5.googleusercontent.com/KamNAZK7s2N454cI\_cvnjHJpuAH8HfgWlmEXZevzDVW\_uxiw\_pymKZCp97L9hSjcGGzjjQeGuSt7oOIOXECq\_xoU47zEC4rhJp2IA37ROeUOUSqXKgqKjNqcJnHOopC8mi5IeqR9UAprhNF5zM4PLjc)
 
 For example, there are 2 separate draws on Sep 9 2022, one for the Aug 1 cohort as the sixth weekly draw and another for the Sep 5 cohort as the first weekly draw. If the Aug 1 cohort has a total of 100,000 CAKE deposited and the Sep 5 cohort has a total of 300,000 CAKE deposited, the weekly prize for the Aug 1 cohort will only come from the staking rewards of those 100,000 CAKE, while the weekly prize for the Sep 5 cohort will only come from the staking rewards of those 300,000 CAKE. If you only deposited CAKE in the Aug 1 cohort, you have a chance to win the weekly prize on Sep 9 based on the staking rewards of 100,000 CAKE. If you deposited CAKE in both the Aug 1 and Sep 5 cohort, you have a chance to win both weekly prizes on Sep 9.
+
+#### Why do we need the cohort system? Why do we not just lump them all together?
+
+Since Pottery is interacting with the fixed-term staking of CAKE, any deposit can only be withdrawn after the lock duration. If we want to lump all deposits together, while we can add more deposit after the initial lock and also lock them for 10 weeks, the initial depositors will not be able to withdraw on time.
 
 ## **Prize Funding & Staking Rewards Allocation**
 

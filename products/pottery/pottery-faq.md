@@ -54,6 +54,16 @@ This arrangement combines the deposit to direct to the locked staking pool, such
 
 There is a minimum deposit of 1 CAKE. At the beta stage of the product, there will also be a maximum deposit cap for each cohort which you can view in the Deposit panel when you are making the deposit. This is to make sure everything on the operation side including the borrowing from treasury, locked staking and drawing runs smoothly. While the maximum you can deposit is the maximum deposit cap of that cohort (if no one else has deposited any CAKE), you would win all the prizes, however, that also means the final return that you will get is the same as putting your CAKE into the locked staking pool for 10 weeks, but you will also be paying the Pottery fees.
 
+## Why do we need the cohort system? Why do we not just lump them all together?
+
+Since Pottery is interacting with the fixed-term staking of CAKE, any deposit can only be withdrawn after the lock duration. If we want to lump all deposits together, while we can add more deposit after the initial lock and also lock them for 10 weeks (from the time of new deposit), the initial depositors will not be able to withdraw on time.
+
+## What is SHARE token?
+
+SHARE tokens are generated and distributed when you deposit in the pottery. It represents and serves as a credential of your share against the deposit pool.
+
+Upon withdrawal, SHARE token will be transferred back to the pottery contract and burned.
+
 ## Where can I provide feedback for this product?
 
 Please feel free to reach out to us on [Telegram](https://t.me/pancakeswap) or [Discord](https://discord.gg/pancakeswap) if you're still unsure about the format or if you have any feedback for us to improve this further!
