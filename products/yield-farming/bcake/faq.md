@@ -100,6 +100,30 @@ Similar to fixed-term CAKE staking. bCAKE boosts individual users' share against
 
 Even though the baseline APR may drop after the deployment of bCAKE. Chefs believe it is a good tradeoff as it not only benefits loyal CAKE lovers by boosting their farming yield, but also creates more demand for CAKE and serves as a great incentive for CAKE staking.
 
+### Why the gas usage is high when enabling farm booster for the first time?
+
+To enable bCAKE - farm booster, users must set up a proxy wallet address, which requires deploying a new contract. This process is relatively gas heavy. (around $2\~5 based on the BNB price and the condition of the blockchain)
+
+However, the setup process is one-time-only for each wallet address. You only need to perform it once.
+
+### Why the multiplier I receive is low?&#x20;
+
+bCAKE - farm booster works in a way by evaluating both your fixed-term CAKE staking position and your liquidity farming position. Simply put:
+
+> If users want to boost more LP tokens in farm, they will need to lock more CAKE for longer durations in pool.
+
+This design ensures the benefits are not only offered to large holders, but to any user who has a sizable CAKE staking position when compared to the farming position.&#x20;
+
+Learn more about how the multiplier is calculated [here](faq.md#how-are-the-bcake-multipliers-calculated).
+
+### Why only CAKE/BUSD? Why only 1 farm?
+
+Since bCAKE involves updating one of PancakeSwap's core products, which is liquidity farming. Chefs want to take a slower and more steady approach to the launch.&#x20;
+
+Therefore, in the initial product release phase. Many of the parameters are very conservative. Including the number of farms users can boost, which farm users can boost, as well as the difficulty parameter in receiving the boost multiplier.
+
+After the initial release phase, Chefs will adjust the parameters based on the community feedback.
+
 ### Is bCAKE audited?
 
 bCAKE has been audited by both internal and external auditors.&#x20;
