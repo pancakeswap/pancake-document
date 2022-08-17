@@ -26,7 +26,7 @@ In addition to these requirements, the BD team will be asking further due dilige
 
 ### How long will it take to get a response?
 
-We aim to respond to applications within a week, but due to a large number of requests, we’re unable to respond to every single applicant. If you don’t hear back from us within two weeks of applying, try reaching out to[ t.me/ChefTaro](https://t.me/ChefTaro) on Telegram, with **the name of your project and application details.**
+We aim to respond to applications within a week, but due to a large number of requests, we’re unable to respond to every single applicant. If you don’t hear back from us within two weeks of applying, try reaching out to [@PancakeSwapBD](https://t.me/PancakeSwapBD) on Telegram, with **the name of your project and application details.**
 
 ## Something else
 
