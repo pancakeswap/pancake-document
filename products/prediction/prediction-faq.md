@@ -37,7 +37,7 @@ PancakeSwap uses two sources for our price feeds. They each have their own purpo
 
 #### ChainLink Oracle
 
-* Used for the Lock price and End price of each prediction market round. This updates in intervals of 1 minute.
+* Used for the Lock price and End price of each prediction market round. This updates in intervals of 20 seconds.
 * Our prediction contract uses the ChainLink Oracle price feed to set the prices used to dictate whether a user has won or not.
 * Used for the "Chainlink" chart on the interface.
 
