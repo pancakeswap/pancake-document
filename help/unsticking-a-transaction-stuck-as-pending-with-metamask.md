@@ -2,7 +2,7 @@
 description: How to "unstick" any pending transactions that are stuck in your MetaMask
 ---
 
-# Fixing Stuck Pending Transactions on MetaMask
+# Corrigindo transações presas na MetaMask
 
 ![](../.gitbook/assets/how-to-fix-a-stuck-transaction-header.png)
 
@@ -52,11 +52,11 @@ We’re now going to find the transaction that’s stuck, and make a note of the
 
 Now we’re going to make a new transaction to replace the stuck one. We’ll customize the Nonce number, so that it’s the same as the one that you just wrote down.
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (9) (1).png>)
 
 8\. Create a new transaction to replace your stuck transaction. This time around, increase the **Transaction Fee**. Here we’ve increased it from 9 to 20. This will make it more likely for your transaction to be added to a block.
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (10) (1).png>)
 
 9\. On the confirmation page, make sure your Gas Price is now at your new, higher amount.
 

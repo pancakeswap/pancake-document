@@ -93,7 +93,7 @@ Vá para o contrato do token LP que você está tentando aprovar. Por exemplo, a
 2. No **5. balanceOf**, coloque seu endereço de carteira e clique **Query**.
 3. Acompanhe o número que é exportado. Ele mostra seu saldo no LP no formato uint256, que você precisará na próxima etapa.
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (1).png>)
 
 **Adicione ou Remova Liquidez**
 
@@ -107,7 +107,7 @@ Vá para o contrato do router: [https://bscscan.com/address/0x05ff2b0db69458a075
 6. Adicione o endereço de sua carteira em **to (address)**.
 7. Deadline deve ser um tempo de época maior que o tempo em que a tx é executada.
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 {% hint style="warning" %}
 Isso pode causar uma slippage(derrapagem) muito alta, e pode causar a perda de alguns fundo do usuários caso sofra frontrun
@@ -280,7 +280,7 @@ Tente aumentar manualmente o limite do gás (não o preço do gás!) em sua cart
 
 Um limite de 200.000 geralmente é suficiente.
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 O exemplo acima é da Metamask; verifique a documentação da sua carteira se não tiver certeza de como ajustar o limite de gás.
 {% endtab %}

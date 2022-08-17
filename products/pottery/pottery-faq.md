@@ -1,59 +1,57 @@
 # Pottery FAQ
 
-### &#x20;<a href="#why-do-we-need-pottery-when-we-already-have-the-lottery-v2" id="why-do-we-need-pottery-when-we-already-have-the-lottery-v2"></a>
+## Por que precisamos de Pottery quando já temos a Loteria v2?&#x20;
 
-Pottery is a completely different product compared to Lottery v2. It is a combination of the locked CAKE pool and the lottery function utilizing the Chainlink's implementation of VRF for true, secure randomness. By participating in Pottery, you will not lose any of the CAKE you deposited, you are only risking the staking rewards of the CAKE you deposited. This product is designed for CAKErs who are more risk-averse but still would like to participate in a product of this nature. It’s an easy, fun and safe way to get a chance to win some CAKE. Learn more about [the product structure here](https://docs.pancakeswap.finance/products/pottery).
+O Pottery é um produto completamente diferente da Loteria v2. É uma combinação da pool de CAKE bloqueado e da função de loteria utilizando a implementação do VRF da Chainlink para aleatoriedade verdadeira e segura. Ao participar do Pottery, você não perderá nenhum CAKE que depositou, estará apenas arriscando as recompensas do stake de CAKE que depositou. Este produto foi desenvolvido para CAKErs que são mais avessos ao risco, mas ainda assim gostariam de participar de um produto dessa natureza. É uma maneira fácil, divertida e segura de ter a chance de ganhar algum CAKE. Saiba mais sobre a estrutura do produto [aqui](https://docs.pancakeswap.finance/v/portuguese-brazilian/products/pottery).
 
-### &#x20;<a href="#is-pottery-replacing-the-original-lottery-v2" id="is-pottery-replacing-the-original-lottery-v2"></a>
+## O Pottery está substituindo a Loteria v2 original? <a href="#is-pottery-replacing-the-original-lottery-v2" id="is-pottery-replacing-the-original-lottery-v2"></a>
 
-Pottery is not replacing the original Lottery v2. These two products are operated and run separately. You can participate in both!
+O POttery não está substituindo a Loteria original v2. Esses dois produtos são operados e executados separadamente. Você pode participar de ambos!
 
-### &#x20;<a href="#how-does-pottery-help-pancakeswap-and-cake" id="how-does-pottery-help-pancakeswap-and-cake"></a>
+## Como o Pottery ajuda a PancakeSwap e CAKE?
 
-Eight percent (8%) of the prize pot distributed each week will be charged as fees for burning, which accrues value to CAKE. We aim to review and adjust the fee structure accordingly after the beta stage of the product.
+Oito por cento (8%) do pote de prêmios distribuído a cada semana será cobrado como taxa para a queima, que agrega valor ao CAKE. Nosso objetivo é revisar e ajustar a estrutura de taxas de acordo com a fase beta do produto.
 
-### &#x20;<a href="#what-is-the-beta-stage-of-pottery-for" id="what-is-the-beta-stage-of-pottery-for"></a>
+## Para que serve o estágio beta do Pottery?
 
-Because of the operations of this new product such as borrowing from treasury, cohort management and drawing. The product will start off in the beta stage with a capped total deposit for each Pottery to make sure everything runs smoothly. Once we pass the beta stage, we may review and adjust different parameters based on operations and community feedback such as the fees, the frequency of each cohort, lock period, etc.
+Por conta das operações deste novo produto como empréstimos de tesouraria, gestão de grupos e saques. O produto começará na fase beta com um depósito total limitado para cada Pottery para garantir que tudo corra bem. Assim que passarmos do estágio beta, poderemos revisar e ajustar diferentes parâmetros com base nas operações e no feedback da comunidade, como taxas, frequência de cada grupo, período de bloqueio etc.
 
-### &#x20;<a href="#why-does-it-have-to-lock-my-cake-for-10-weeks" id="why-does-it-have-to-lock-my-cake-for-10-weeks"></a>
+## Por que tem que bloquear meu CAKE por 10 semanas?
 
-If the Pottery can just use the flexible staking pool, its product structure would be much simpler - similar to products like PoolTogether and Moonpot. However, the current yield from the flexible staking pool is not sufficient for us to produce a meaningful prize pool for drawing. Hence, the decision is to lock the CAKE for a moderate duration to balance the rewards that can be used to fund the prize pool. With more operations and community feedback, we may review and adjust the lock duration down the road.
+Se a Cerâmica pudesse usar apenas o staking pool flexível, sua estrutura de produto seria muito mais simples - semelhante a produtos como PoolTogether e Moonpot. No entanto, o rendimento atual do staking pool flexível não é suficiente para produzirmos um prêmio significativo para sorteio. Portanto, a decisão é bloquear o CAKE por um período moderado para equilibrar as recompensas que podem ser usadas para financiar o prêmio. Com mais operações e feedback da comunidade, podemos revisar e ajustar a duração do bloqueio no futuro.
 
-### &#x20;<a href="#why-cant-i-withdraw" id="why-cant-i-withdraw"></a>
+## Por que eu não posso sacar?
 
-Please note that the withdrawal button will light up and be available only after 10 weeks of the lock date. The date for withdrawal is based on 10 weeks after the lock date and time – 23:59 UTC on the first Monday of each month.
+Observe que o botão de saque acenderá e estará disponível somente após 10 semanas da data de bloqueio. A data de retirada é baseada em 10 semanas após a data e hora de bloqueio – 23:59 UTC na primeira segunda-feira de cada mês.
 
-### &#x20;<a href="#why-cant-i-view-my-deposit" id="why-cant-i-view-my-deposit"></a>
+## Por que eu não consigo ver meu depósito?
 
-There might occasionally be some delay because of the Subgraph reading, there will be a signal when there are delays – usually it should show the correct amount if you check again in 15 minutes.
+Ocasionalmente, pode haver algum atraso devido à leitura do subgraph, haverá um sinal quando houver atrasos - geralmente deve mostrar o valor correto se você verificar novamente em 15 minutos.
 
-### &#x20;<a href="#how-do-i-know-if-i-have-won-in-the-weekly-draw" id="how-do-i-know-if-i-have-won-in-the-weekly-draw"></a>
+## Como eu sei se eu venci o sorteio semanal?
 
-After each draw on Friday at around noon UTC, you can view the results and winners in the Finished Rounds panel. Another way to check if you have won in any weekly draws is to check in the Claim panel to see if there is any prize to be claimed. Check out [this page on how to participate](https://docs.pancakeswap.finance/products/pottery/how-to-play-pottery)!
+Após cada sorteio na sexta-feira por volta do meio-dia UTC, você pode ver os resultados e os vencedores no painel Rodadas Concluídas. Outra maneira de verificar se você ganhou em algum sorteio semanal é verificar no painel de Reivindicações para ver se há algum prêmio a ser reivindicado. Confira [nesta página como participar](https://docs.pancakeswap.finance/v/portuguese-brazilian/products/pottery/how-to-play-pottery)!
 
-### &#x20;<a href="#what-is-the-funding-source-of-the-prize" id="what-is-the-funding-source-of-the-prize"></a>
+## Qual é a fonte de financiamento do prêmio?
 
-The prize pools are funded by the staking rewards of the deposits. However, since the staking rewards of the CAKE locked staking pool are only distributed after the lock duration – 10 weeks in this case, for better product experience and to facilitate the weekly draws right after the deposit date, the contract is borrowing 80% of the estimated total staking rewards from the cohort from the CAKE treasury based on the APY at the time of locking. The borrowed CAKE is used for the payout for each weekly draw. Learn more about [the product structure here](https://docs.pancakeswap.finance/products/pottery)!
+Os prêmios são financiados pelas recompensas de stake dos depósitos. No entanto, como as recompensas de stake da pool de CAKE são distribuídas apenas após a duração do bloqueio - 10 semanas neste caso, para melhor experiência do produto e para facilitar os sorteios semanais logo após a data do depósito, o contrato está tomando emprestado 80% do valor recompensas totais estimadas do stake do grupo do tesouro de CAKE com base no APY no momento do bloqueio. O CAKE emprestado é usado para o pagamento de cada sorteio semanal. Saiba mais sobre a [estrutura do produto aqui](https://docs.pancakeswap.finance/v/portuguese-brazilian/products/pottery)!
 
-### &#x20;<a href="#if-i-win-do-i-need-to-manually-claim-the-prize" id="if-i-win-do-i-need-to-manually-claim-the-prize"></a>
+## Se eu ganhar, preciso reivindicar o prêmio manualmente?
 
-Yes, you will need to click the Claim button under the Claim panel on the Pottery page.
+Sim, você precisará clicar no botão Claim/Reivindicar no painel Claim/Reivindicar na página do Pottery.
 
-### &#x20;<a href="#how-often-is-the-pottery" id="how-often-is-the-pottery"></a>
+## Com que frequência é o Pottery?
 
-Each Pottery cohort is open for deposit on the Friday before at around 10:00 UTC and closes on the first Monday of each month at 23:59 UTC, unless any special arrangement and notice in advance. Each cohort will have 10 weekly draws on 10 subsequent Fridays at noon UTC.
+Cada grupo de Pottery está aberta para depósito na sexta-feira anterior por volta das 10:00 UTC e fecha na primeira segunda-feira de cada mês às 23:59 UTC, a menos que haja um acordo especial e aviso prévio. Cada grupo terá 10 sorteios semanais em 10 sextas-feiras subsequentes ao meio-dia UTC. O primeiro Pottery abrirá o depósito em 5 de agosto de 2022 e será bloqueado em 8 de agosto de 2022 às 23:59 UTC.
 
-The first Pottery will open deposit on Aug 5 2022 and lock on Aug 8 2022 at 23:59 UTC.
+## Por que o depósito do Pottery só abre uma vez ao mês?
 
-### &#x20;<a href="#why-does-the-pottery-deposit-only-open-once-a-month" id="why-does-the-pottery-deposit-only-open-once-a-month"></a>
+Esse arranjo combina o depósito para direcionar a pool de stake bloqueado, de modo que o contrato do grupo do Pottery seja capaz de coordenar as recompensas do depósito da pool de stake. Com mais operações e feedback da comunidade, podemos revisar e ajustar a frequência no futuro.
 
-This arrangement combines the deposit to direct to the locked staking pool, such that the Pottery contract of the cohort is able to coordinate the staking rewards of the deposit from the locked staking pool. With more operations and community feedback, we may review and adjust the frequency down the road.
+## Qual é o limite para depositar?
 
-### &#x20;<a href="#what-is-the-limit-for-depositing" id="what-is-the-limit-for-depositing"></a>
+Há um depósito mínimo de 1 CAKE. No estágio beta do produto, também haverá um limite máximo de depósito para cada coorte que você pode visualizar no painel Depósito ao fazer o depósito. Isso é para garantir que tudo no lado da operação, incluindo o empréstimo do tesouro, as apostas bloqueadas e o saque, funcione sem problemas. Embora o máximo que você pode depositar seja o limite máximo de depósito dessa coorte (se ninguém mais depositou nenhum BOLO), você ganharia todos os prêmios, no entanto, isso também significa que o retorno final que você obterá é o mesmo que colocar seu CAKE no staking pool por 10 semanas, mas você também pagará as taxas de Pottery.
 
-There is a minimum deposit of 1 CAKE. At the beta stage of the product, there will also be a maximum deposit cap for each cohort which you can view in the Deposit panel when you are making the deposit. This is to make sure everything on the operation side including the borrowing from treasury, locked staking and drawing runs smoothly. While the maximum you can deposit is the maximum deposit cap of that cohort (if no one else has deposited any CAKE), you would win all the prizes, however, that also means the final return that you will get is the same as putting your CAKE into the locked staking pool for 10 weeks, but you will also be paying the Pottery fees.
+## Onde posso dar feedback para este produto?
 
-### &#x20;<a href="#where-can-i-provide-feedback-for-this-product" id="where-can-i-provide-feedback-for-this-product"></a>
-
-Please feel free to reach out to us on [Telegram](https://t.me/pancakeswap) or [Discord](https://discord.gg/pancakeswap) if you're still unsure about the format or if you have any feedback for us to improve this further!
+Sinta-se à vontade para entrar em contato conosco no [Telegram](https://t.me/PancakeSwapPortuguese) ou [Discord](https://discord.gg/pancakeswap) se ainda não tiver certeza sobre o formato ou se tiver algum feedback para melhorarmos ainda mais!
