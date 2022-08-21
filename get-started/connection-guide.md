@@ -85,6 +85,38 @@
     ![](../.gitbook/assets/MBP3-2021.08.16-125400PM-CleanShot\_CleanShot.png)
 4. 点击右上角的「连接钱包 / Connect Wallet」按钮，选择 "MetaMask" 即可。
 {% endtab %}
+
+{% tab title="Coinbase wallet" %}
+![](../.gitbook/assets/coinbase\_wallet\_wordmark\_blue.png)
+
+1. 打开Coinbase 钱包并点击右下角的设置图标
+
+![](<../.gitbook/assets/image (51).png>)
+
+2\. 在设置菜单中，点击默认网络。
+
+![](<../.gitbook/assets/image (44).png>)
+
+3\. 在网络选项列表中选择Binance Smart Chain。
+
+![](<../.gitbook/assets/image (33).png>)
+
+4\. 选择币安智能链网络后，点击应用底部中间的浏览器图标。
+
+
+
+![](<../.gitbook/assets/image (45).png>)
+
+![](<../.gitbook/assets/image (34).png>)
+
+5\. 在搜索框输入“PancakeSwap.finance" 并开始搜索。
+
+![](<../.gitbook/assets/image (21).png>)
+
+6\. 单机**连接钱包**以链接到Coinbase钱包。
+
+![](<../.gitbook/assets/image (13).png>)
+{% endtab %}
 {% endtabs %}
 
 ## **电脑钱包**
@@ -141,4 +173,28 @@
 您无法在同一浏览器上同时使用 MetaMask 和 TokenPocket ，若您要在电脑上使用 TokenPocket ，请确保您浏览器没有安装 MetaMask 插件。
 {% endhint %}
 {% endtab %}
+
+{% tab title="Coinbase Wallet" %}
+![](../.gitbook/assets/coinbase\_wallet\_wordmark\_blue.png)
+
+1. 打开Coinbase钱包，然后单机右上角的设置图标。默认情况下，它将显示“以太坊主网” 作为默认网络。
+
+![](<../.gitbook/assets/image (38).png>)
+
+2.点击默认网络并选择币安智能链。
+
+![](<../.gitbook/assets/image (37).png>)
+
+3\. Binance Smart Chain现在将成为您的默认网络。
+
+4\. 访问pancakeswap.finance, 在右上角你会看到Connect 按钮，点击它。
+
+![](<../.gitbook/assets/image (35).png>)
+
+5\. 将出现一个窗口，要求您选择连接的钱包，单机Coinbase 钱包（它在弹出列表的第一个）
+{% endtab %}
 {% endtabs %}
+
+{% hint style="danger" %}
+**请记住-在任何情况下您都不应该向他人提供您的私钥或者助记词。**
+{% endhint %}

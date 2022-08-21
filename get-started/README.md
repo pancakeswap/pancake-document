@@ -1,6 +1,6 @@
 # 入门指南
 
-![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbAMObsweNRS-pDqIid%2F-MbAOS6qTp_O-x9ZkROg%2Fdocs%20masthead%20%2815%29.png?alt=media&token=77a0592a-82b8-4cf9-92ab-998f40719f77)
+![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbAMObsweNRS-pDqIid%2F-MbAOS6qTp\_O-x9ZkROg%2Fdocs%20masthead%20\(15\).png?alt=media\&token=77a0592a-82b8-4cf9-92ab-998f40719f77)
 
 尝试新事物总是那么的富有挑战。别担心，我们制作了一系列教程，助您快速入门 PancakeSwap。
 
@@ -8,25 +8,32 @@
 
 开始使用 PancakeSwap 前，请先按照以下指南设置。若您已经熟练使用但仍有疑问，可点击跳转至相关教程重新了解。
 
-[创建钱包](https://docs.pancakeswap.finance/get-started/wallet-guide)  
-[获得 BEP20 代币](https://docs.pancakeswap.finance/get-started/bep20-guide)  
-[把您的钱包连接至 PancakeSwap](https://docs.pancakeswap.finance/get-started/connection-guide)
+[创建钱包](wallet-guide.md)\
+[获得 BEP20 代币](bep20-guide.md)\
+[把您的钱包连接至 PancakeSwap](connection-guide.md)
 
 ## 使用指南
 
 正确设置并连接好钱包后，您可以参考下面的手把手指南，开始学习使用 PancakeSwap 。
 
-[代币交易](https://docs.pancakeswap.finance/products/pancakeswap-exchange/trade-guide)  
-[添加/移除流动性](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide)  
-[农场](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms)  
-[Syrup 资金池](https://docs.pancakeswap.finance/products/syrup-pool/syrup-pool-guide)  
-[彩票](https://docs.pancakeswap.finance/products/lottery/lottery-guide)  
-[预测市场](https://docs.pancakeswap.finance/products/prediction/prediction-guide)  
-[参加 IFO 预售](https://docs.pancakeswap.finance/products/ifo-initial-farm-offering/ifo-guide)  
-[购买头像 NFT 及设置个人资料](https://docs.pancakeswap.finance/products/nft-profile-system/profile-guide)  
-[参加社区投票](https://docs.pancakeswap.finance/products/voting/voting-guide)
+[如何交易代币](../products/pancakeswap-exchange/ru-he-jin-hang-jiao-yi.md)
 
-Check the menu for more documentation on the range of PancakeSwap features and services, including more advanced guides.
+[如何增加/移除流动性](../products/pancakeswap-exchange/ru-he-tian-jia-yi-chu-liu-dong-xing.md)
 
-If you can't find what you need, feel free to visit the [PancakeSwap Telegram](https://t.me/pancakeswap) and ask for help there!
+[如何使用农场](../products/yield-farming/)
 
+[如何在糖浆池质押](../products/syrup-pools/)
+
+[如何玩转彩票](../products/lottery/)
+
+[如何使用预测功能](../products/yu-ce/)
+
+[如何参与IFO](../products/ifo-initial-farm-offering.md)
+
+[如何设置个人资料NFT头像](../products/nft-ge-ren-dang-an-xi-tong.md)
+
+[如何投票](../products/voting/)
+
+查看以上菜单以获取有关 PancakeSwap 功能和服务的更多文档，包括更高级的指南。
+
+如果您找不您需要的东西，请随时访问[ PancakeSwap中文电报群组](https://t.me/PancakeSwap\_CN)并在那里寻求帮助！

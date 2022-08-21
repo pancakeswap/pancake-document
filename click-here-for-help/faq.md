@@ -25,47 +25,47 @@
 
 您可以在糖浆池中质押 CAKE 并赚取 CAKE 或其他代币，访问 [糖浆池页面](https://pancakeswap.finance/pools)。
 
-详情请查看我们的 [如何在糖浆池中质押指南](https://docs.pancakeswap.finance/products/syrup-pool/syrup-pool-guide) 。
+详情请查看我们的 [如何在糖浆池中质押指南](../products/syrup-pools/ru-he-zai-tang-jiang-chi-nei-zhi-ya.md) 。
 
 ## 糖浆池质押挖矿和农场流动性挖矿有什么区别？
 
 无论是在糖浆池，还是在农场中质押。均是支持 PancakeSwap 发展的方式，均可为您赚取更多的 CAKE 或其他代币。
 
 糖浆池质押挖矿仅需要您质押 CAKE 到糖浆池中，即可赚取 CAKE 或其他代币。\
-[了解更多关于糖浆池质押的信息](https://docs.pancakeswap.finance/products/syrup-pool)。
+[了解更多关于糖浆池质押的信息](../products/syrup-pools/)。
 
 CAKE.农场流动性挖矿稍加复杂，并且需要 LP（流动性）凭证来赚取 CAKE。\
-[了解更多关于农场挖矿的信息](https://docs.pancakeswap.finance/products/yield-farming)。
+[了解更多关于农场挖矿的信息](../products/yield-farming/)。
 
 ## 我该怎样进行农场流动性挖矿？
 
-请查看我们的 [农场挖矿指南](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) 了解更多信息。
+请查看我们的 [农场挖矿指南 ](../products/yield-farming/ru-he-shi-yong-nong-chang.md)了解更多信息。
 
 ## 我在哪里可以找到 PancakeSwap 的发展路线图？
 
-请查看 [我们的代办事项列表](https://docs.pancakeswap.finance/roadmap)，但我们不将其称作「路线图」。
+请查看[我们的代办事项列表](../roadmap.md)，但我们不将其称作「路线图」。
 
 ## 我该怎样连接我的钱包到币安智能链和 PancakeSwap？
 
-请查看 [钱包连接指南](https://docs.pancakeswap.finance/get-started/connection-guide)。
+请查看 [钱包连接指南](../get-started/connection-guide.md)。
 
 ## 使用哪个钱包最好？
 
-请根据您的个人需要，查看 [钱包选择及创建指南](https://docs.pancakeswap.finance/get-started/wallet-guide)，挑选一个您中意的钱包 App。
+请根据您的个人需要，查看 [钱包选择及创建指南](../get-started/wallet-guide.md)，挑选一个您中意的钱包 App。
 
 ## 为什么我的交易失败了？
 
 您可以在 [https://bscscan.com/](https://bscscan.com/) 查看您的链上交易状态及失败/错误的原因。您需要复制交易 ID (tx id) 并在搜索栏中粘贴查看。
 
-若您看到具体的错误代码，请参考 [错误排除指南](https://docs.pancakeswap.finance/help/troubleshooting)。
+若您看到具体的错误代码，请参考[故障排除指南](troubleshooting-errors.md)。
 
-如果您的交易卡住了，请查看 [如何修复交易卡住或一直等待上链](https://docs.pancakeswap.finance/help/unsticking-a-transaction-stuck-as-pending-with-metamask)。
+如果您的交易卡住了，请查看 [如何修复交易卡住或一直等待上链。](ru-he-xiu-fu-metamask-shang-ka-zhu-de-jiao-yi.md)
 
 ## 什么时候有更多新的糖浆池？
 
 PancakeSwap 糖浆池上新相当频繁，在上线前我们均会发布公告。
 
-请订阅 [英文电报 (Telegram) 公告频道](https://t.me/PancakeSwapAnn) ，第一时间获取最新资讯。
+请订阅[中文电报 (Telegram) 公告频道 ](https://t.me/PancakeSwap\_CN)，第一时间获取最新资讯。
 
 ## 农场年化利率 (APR) 的计算变了吗？
 
@@ -79,7 +79,7 @@ PancakeSwap 糖浆池上新相当频繁，在上线前我们均会发布公告�
 
 ## 怎样反馈 bug ？
 
-请了解我们的 [bug 反馈奖励，以及奖励金额](https://docs.pancakeswap.finance/code/bug-bounty)。
+请了解我们的 [bug 反馈奖励，以及奖励金额](../code/bug-shang-jin.md)。
 
 ## 怎样查看 PancakeSwap 的智能合约？
 
@@ -87,17 +87,17 @@ PancakeSwap 糖浆池上新相当频繁，在上线前我们均会发布公告�
 
 ## 为什么钱包提醒「没有 BNB 余额」？
 
-若您已经 [向您的币安智能链 (Binance Smart Chain) 钱包转入了 BNB](https://docs.pancakeswap.finance/get-started/bep20-guide) 但仍然显示该错误，您很可能没有 [将您的钱包连接至币安智能链 (Binance Smart Chain)](https://docs.pancakeswap.finance/get-started/connection-guide) ，请检查您钱包当前所处的区块链网络，并确保已经选择币安智能链 (Binance Smart Chain, BSC)。
+若您已经 [向您的币安智能链 (Binance Smart Chain) 钱包转入了 BNB](../get-started/bep20-guide.md) 但仍然显示该错误，您很可能没有[ 将您的钱包连接至币安智能链 (Binance Smart Chain)](../get-started/connection-guide.md) ，请检查您钱包当前所处的区块链网络，并确保已经选择币安智能链 (Binance Smart Chain, BSC)。
 
 ## 如何投票？
 
-请查看 [如何投票](https://docs.pancakeswap.finance/products/voting) 了解更多。
+请查看 [如何投票](../products/voting/) 了解更多。
 
 ## CAKE 的总量是多少？
 
-$CAKE 没有一个设定的最大总量，总流通量通过各种销毁手段得以控制。\
+$CAKE 目前最大供应量也就是硬顶为7.5亿，总流通量通过各种销毁手段得以控制。\
 \
-请阅读 [更多关于 PancakeSwap 的代币经济模型](https://docs.pancakeswap.finance/tokenomics/cake)。
+请阅读 更多关于[ PancakeSwap 的代币经济模型](../tokenomics/cake/cake-dai-bi-jing-ji-mo-xing.md)。
 
 ## 储备金库内的资金一般用于什么用途？
 
@@ -119,9 +119,9 @@ PancakeSwap 其他智能合约，例如 IFO 和自动 CAKE 糖浆池，同样受
 
 请查看
 
-请查看 [成为大厨](https://docs.pancakeswap.finance/hiring/become-a-chef) 页面，了解我们正在招聘的职位。
+请查看[ 成为大厨 ](../zhao-pin-xin-xi/cheng-wei-yi-ming-chu-shi/)页面，了解我们正在招聘的职位。
 
-同时，我们会在 [官方社交频道](https://docs.pancakeswap.finance/contact-us/telegram) 公布任何新的招聘信息，请务必关注它们，以便第一时间收到相关信息。
+同时，我们会在[官方社交频道](../contact-us/telegram.md)公布任何新的招聘信息，请务必关注它们，以便第一时间收到相关信息。
 
 ## 什么是 SYRUP （糖浆）代币？
 

@@ -6,6 +6,7 @@
 
 开始使用 PancakeSwap 前，您首先需要创建一个支持币安智能链（BSC）的钱包。钱包在电脑和手机上都可以使用。请选择最适合您的钱包应用。
 
+{% hint style="danger" %}
 **在设置钱包时，请务必注意**：
 
 * ✅ **从可信的官方渠道下载并安装最新版本的钱包应用。**
@@ -13,6 +14,7 @@
 * ✅ **妥善备份用于恢复钱包的助记词或私钥**
 * ❌ **在任何情况下都不要：向任何人透露您的恢复助记词或私钥！**
 * ❌ **在任何情况下都不要：在任何网站上输入您的恢复助记词或私钥！**
+{% endhint %}
 
 ## 我应该使用手机端钱包还是电脑端钱包？
 
@@ -33,17 +35,15 @@
 
 ### 我应该选择哪个手机钱包？ <a href="#which-mobile-wallet-should-i-choose" id="which-mobile-wallet-should-i-choose"></a>
 
-This comparison table gives an overview of the most popular mobile wallets used with PancakeSwap.
-
 以下表格列出时下热门的钱包应用以及他们的概况：
 
-| ​                                     | Trust Wallet             | MetaMask | Token Pocket | SafePal |
-| ------------------------------------- | ------------------------ | -------- | ------------ | ------- |
-| 币安智能链支持                               | ✅                        | ⚠️       | ✅            | ✅       |
-| 内置 DApp 浏览器                           | <p>✅ 安卓</p><p>⚠️ iOS</p> | ➖        | ✅            | ✅       |
-| 兼容硬件钱包                                | ➖                        | ✅        | ➖            | 🔶      |
-| 开源（可审计性）                              | ✅                        | ✅        | ✅            | ➖       |
-| <p>可在 BscScan 上使用</p><p>(适用于高级用户)</p> | ➖                        | ✅        | ➖            | ➖       |
+| 钱包名称                                  | Trust Wallet             | MetaMask | Token Pocket    | Coinbase Wallet | SafePal |
+| ------------------------------------- | ------------------------ | -------- | --------------- | --------------- | ------- |
+| 币安智能链支持                               | ✅                        | ⚠️       | ✅               | ✅               | ✅       |
+| 内置 DApp 浏览器                           | <p>✅ 安卓</p><p>⚠️ iOS</p> | ➖        | <p>✅</p><p></p> | ✅               | ✅       |
+| 兼容硬件钱包                                | ➖                        | ✅        | ➖               | ✅               | 🔶      |
+| 开源（可审计性）                              | ✅                        | ✅        | ✅               | ✅               | ➖       |
+| <p>可在 BscScan 上使用</p><p>(适用于高级用户)</p> | ➖                        | ✅        | ➖               | ➖               | ➖       |
 
 ⚠️ 需要额外设置 \
 🔶 仅支持 SafePal 硬件钱包
@@ -54,7 +54,7 @@ This comparison table gives an overview of the most popular mobile wallets used 
 
 {% tabs %}
 {% tab title="Trust Wallet" %}
-![](<../.gitbook/assets/image (36).png>)
+![](<../.gitbook/assets/image (36) (1).png>)
 
 Trust Wallet 在移动设备上颇受欢迎的钱包应用。它支持 DApps，NFT 收藏品（支持 Opensea.io），以及钱包内直接质押，
 
@@ -106,6 +106,33 @@ MetaMask 是一个基于浏览器的热门钱包插件，支持 ERC20（以太�
 
 ****\
 ****
+{% endtab %}
+
+{% tab title="Coinbase Wallet" %}
+
+
+![](../.gitbook/assets/coinbase\_wallet\_wordmark\_blue.png)
+
+数百万用户选择 Coinbase 钱包通过 DeFi 赚取收益，交换超过 5,500 种资产，并持有他们的 NFT 收藏。 Coinbase 钱包支持 BEP2 和 BEP20（币安链和 BNB 智能链网络）。&#x20;
+
+**强调：**&#x20;
+
+* 美国下载量最大的移动 dapp 钱包，拥有 1200 万以上的活跃钱包用户。
+* 使用 BNB Smart Chain 和 PancakeSwap 无需额外步骤。
+* &#x20;主要受众：多达 8900 万+ Coinbase 零售应用程序用户在开始探索 web3 时加入 Coinbase 钱包。
+* 轻松从 Coinbase 零售应用转移资产。
+* 法币入口：用户现在可以在 Coinbase 运营的所有 86 个国家/地区使用法币直接购买加密货币，而无需离开 Wallet。
+* 行业领先的安全性和安全的云备份
+
+&#x20;
+
+**下载Coinbase 钱包（自动检测您的设备）**
+
+**Coinbase钱包设置指南**
+
+
+
+Coinbase 钱包是一个自托管钱包，提供受 Coinbase 钱包服务条款和隐私政策约束的软件服务。 Coinbase Wallet 与 Coinbase.com 不同，Coinbase Wallet 的私钥由用户直接存储
 {% endtab %}
 
 {% tab title="Token Pocket" %}
@@ -176,7 +203,7 @@ Token Pocket 允许您使用电脑端或其他设备同时管理一个钱包，�
 {% endtab %}
 
 {% tab title="SafePal" %}
-![](<../.gitbook/assets/image (37).png>)
+![](<../.gitbook/assets/image (37) (1).png>)
 
 SafePal 有软件和硬件钱包两种形式。该钱包 App 安装便捷，设置步骤简单，并原生支持币安链 (BEP2) 和币安智能链 (BEP20)。
 
@@ -204,5 +231,152 @@ SafePal 有软件和硬件钱包两种形式。该钱包 App 安装便捷，设�
 {% endtab %}
 {% endtabs %}
 
-## ****
+## **桌面/ 网络浏览器钱包**
+
+桌面钱包可在您的家用电脑或笔记本电脑上使用。 您计算机上的钱包可以作为独立应用程序运行，也可以作为 Chrome 和 Firefox 等流行浏览器的网络浏览器插件运行。
+
+### 我应该选择哪个桌面钱包？
+
+以下表格列出时下热门的钱包应用以及他们的概况：
+
+|                                      |    |   |   |    |   |   |
+| ------------------------------------ | -- | - | - | -- | - | - |
+| 币安智能链支持                              | ⚠️ | ✅ | ✅ | ⚠️ |   |   |
+| 内置DApp浏览器                            | ➖  | ➖ | ➖ | ✅  |   |   |
+| 硬件钱包兼容                               | ✅  | ✅ | ✅ | ➖  |   |   |
+| 开源（可审计性）                             | ✅  | ✅ | ✅ | ✅  |   |   |
+| <p>可在BSCScan 上使用</p><p>（适用于高级用户）</p> | ✅  | ➖ | ➖ | ➖  |   |   |
+
+⚠️ 需要额外设置&#x20;
+
+您可以在下面找到有关每个钱包的更详细的信息以及下载链接和安装指南
+
+{% tabs %}
+{% tab title="MetaMask" %}
+![](<../.gitbook/assets/image (1) (2).png>)
+
+MetaMask 是一个非常流行的基于浏览器的钱包插件，默认支持 ERC20（以太坊网络），以及 BEP2 & BEP20（Binance Chain 和 BNB 智能链网络)。&#x20;
+
+**优点：**&#x20;
+
+* 可审计性的开源 BscScan&#x20;
+* 支持 WEB3 强大的安全性和可靠性历史&#x20;
+* 大量的操作指南和在线资源&#x20;
+* 许多工具和自定义设置&#x20;
+* 支持非常多的语言&#x20;
+* 也可在移动设备上使用&#x20;
+
+**缺点：**&#x20;
+
+* 比其他选项更长的设置时间
+* 使用 BNB Smart Chain 和 PancakeSwap 需要额外的设置步骤
+* 额外的信息和设置可能会让初学者感到困惑
+
+[Download MetaMask](https://metamask.io/download/)（自动检测浏览器）
+
+[MetaMaks 设置指南](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
+{% endtab %}
+
+{% tab title="Binance Wallet" %}
+![](<../.gitbook/assets/image (20).png>)
+
+Binance Wallet （币安钱包）是一个浏览器插件钱包，原生支持 Binance Chain (BEP2) BNB Smart Chain (BEP20) 网络。 币安钱包由币安加密货币交易所开发。&#x20;
+
+优点：
+
+* 可审计性的开源
+* 由币安加密货币交易所支持
+* 可以直接链接到 Binance 或 Gmail 帐户
+* &#x20;简化的用户体验
+* 默认支持BNB智能链，轻松使用PancakeSwap
+* 支持大量语言
+* 硬件钱包兼容&#x20;
+
+**缺点：**
+
+* &#x20;缺少其他钱包的一些自定义设置
+* &#x20;缺乏额外的工具使得其他钱包无法进行某些操作
+* 与更成熟的钱包相比，在线资源更少&#x20;
+
+&#x20;[下载币安钱包](https://www.bnbchain.org/en)（自动检测浏览器）&#x20;
+
+&#x20;[币安钱包设置指南](https://docs.bnbchain.org/docs/bnbIntro)
+{% endtab %}
+
+{% tab title="Coinbase  Wallet" %}
+![](../.gitbook/assets/coinbase\_wallet\_wordmark\_blue.png)
+
+数百万用户选择 Coinbase 钱包通过 DeFi 赚取收益，交换超过 5,500 种资产，并持有他们的 NFT 收藏。 Coinbase 钱包支持 ERC20（以太坊网络）和 BEP2 & BEP20（币安链和 BNB 智能链网络）。&#x20;
+
+**亮点：**
+
+* 12M+ 活跃的钱包用户
+* 使用 BNB Smart Chain 和 PancakeSwap 无需额外步骤
+* &#x20;主要受众：多达 8900 万+ Coinbase 零售应用程序用户在开始探索 web3 时加入 Coinbase 钱包
+* 轻松从 Coinbase 零售应用转移资产
+* 法币入口：用户现在可以在 Coinbase 运营的所有 86 个国家/地区使用法币直接购买加密货币，而无需离开 Wallet
+* 具有安全云备份的行业领先安全性&#x20;
+* 也可在移动设备上使用
+
+&#x20;**注意：**&#x20;
+
+目前仅在 Chrome 上
+
+
+
+[下载 Coinbase 钱包](https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad?hl=en\&authuser=0) （只在Chrome可用）&#x20;
+
+[Coinbase 钱包设置指南](https://www.coinbase.com/wallet/getting-started-extension)
+{% endtab %}
+
+{% tab title="Token Pocket" %}
+![](<../.gitbook/assets/image (2) (1).png>)
+
+Token Pocket 是适用于 Mac OS 和 Win64 设备的独立应用程序。 Token Pocket 允许您在独立于浏览器的软件中管理您的加密货币。&#x20;
+
+**优点：**&#x20;
+
+* 可审计性的开源
+* 独立于您的浏览器及其任何权限
+* 允许用户在多个加密网络之间轻松切换
+* 默认支持多种网络&#x20;
+* 与浏览器插件钱包相比，用户体验不那么拥挤
+* 也可在移动设备上使用
+
+&#x20;**缺点：**&#x20;
+
+* 要求用户在桌面设置过程中输入他们的私钥
+* 只支持中英文两种语言
+* 英文翻译有些问题
+* 与更成熟的钱包相比，在线资源更少
+
+&#x20; &#x20;
+
+[下载 Token Pocket 桌面钱包](https://www.tokenpocket.pro/en/download/pc)（MacOS 或 Win64）&#x20;
+
+**Token Pocket 桌面设置指南**
+
+桌面版 Token Pocket 会要求您导入私钥。 在继续之前，请确保您熟悉并了解私钥的重要性。 Token Pocket 是一个开源项目，因此代码是公开可见的，通常被认为是安全的。 即便如此，您的私钥是您的责任，因此请仅将它们用于您信任并可以验证的应用程序。&#x20;
+
+1. 在您的 PC 上访问 Token Pocket 网站，然后单击桌面按钮。
+2. 在下一页上，单击您的操作系统的按钮，然后等待下载完成。 本指南使用 Windows，但过程在 Mac OS 上基本相同。
+3. 运行安装文件。 它会要求您选择让使用计算机的每个人都可以使用 Token Pocket，还是只让当前用户使用。 为了您的安全，我们只推荐当前用户。
+4. 输入要安装到的目标文件夹，然后单击安装。
+5. 安装完成后，单击完成并运行 Token Pocket。
+6. 当 Token Pocket 打开时，您可能会发现自己正在查看中文界面。 您可以通过单击左下角的 EN 更改为英文。
+7. Token Pocket 将要求您创建密码。 确保使用难以猜到的密码； 密码越长，越安全。 完成后，单击确认。
+8. 在下一页，Token Pocket 将要求您导入私钥。 这可能令人生畏，但 Token Pocket 将作为您现有钱包的接口。 您需要从您想要使用的任何现有钱包中获取您的私钥。
+
+这是从[ MetaMask 获取私钥的指南](https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key)。 要从移动版 Token Pocket 导入您的私钥，请参阅本页上方的 Mobile Token Pocket 选项卡。 如果您使用另一个钱包并且不知道如何获取您的私钥，则需要查找指南。
+
+！！！请非常小心处理私钥的方式。 将您的私钥提供给某人将使他们能够完全访问您的代币！ Token Pocket 是一个开源项目，将使用您的私钥导入您的钱包。 即使这样，也只能将您的私钥用于您信任并可以验证是否合法的应用程序！
+
+1. 输入私钥后，现在单击以太坊网络。
+2. 就是这样，一切都完成了！ 您可以按照我们的将您的钱包连接到 [PancakeSwap 指南连接](connection-guide.md)到 BNB 智能链和 PancakeSwap。
+{% endtab %}
+{% endtabs %}
+
+{% hint style="danger" %}
+&#x20;**在任何情况下，您都不应该将您的私钥或者助记词提供给他人。 这将使某人能够完全授权访问使用您的加密货币！ 真正的 PancakeSwap 网站和工作人员绝不会要求您输入助记词。**
+{% endhint %}
 

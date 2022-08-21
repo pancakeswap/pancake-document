@@ -13,14 +13,26 @@ description: 如何在 MetaMask 上「清理」卡住的交易
 ### **1. 启用「**自定义交易 nonce**」**  <a href="#1-enable-customized-transaction-nonce" id="1-enable-customized-transaction-nonce"></a>
 
 1. 打开您的 MetaMask 插件。\
-   ![](https://lh6.googleusercontent.com/fYsgD0BKjYVjrbCpbEQgMyWG\_sW-4c2Ev7wu9bVzsOWtqIzCmYqiv6Xj8G\_FY2TK5uYul3XaOY2WflfcW1W56R2KCuyW-Y5RjHH9DZDgUmATLlnOnMPn371nniPZqaaD7KAgYgMc)
-2. 点击右上角彩色头像，并在菜单中点击**设置**。\
-   ![](https://lh3.googleusercontent.com/DpSeFrHsmPNXU73C3NB9iRANEe81rJ2XUhbxs6k7PqJSVy6IkAijeX\_TeIbUupalmD3mlE2G0C90XHJJy\_JPk-\_mswNRf4liUwR4AUhx2AWygp4yIP9kjHo1QQk\_60wEtjGkfwSk)
-3. 在菜单中，选择**高级**\
-   ****.![](https://lh4.googleusercontent.com/F-o1qfi84wh6YNUP16b8lbyS6f8i04SYEUR2VrncMbBaoeaAjOw4Af\_oOwRUfWnhZn6NFb4O1uopoc1KNego8XelHmDDWeRRAb0oMJGE\_ZI\_xJJeqfH-bJrai0pakyxC-235E4nq)
-4. 滚动至 **高级燃料控制**，点击启用它。\
-   ![](https://lh5.googleusercontent.com/ePraz\_2Z8k1V62DMROjv0jbIjEcf8ATvaH-Lxe5wtoNo6oVTyRPelC1m7UVaizcNpW5bHByrbC9xv1KDZfjNnXvQ8J0ukHUHK7vK4rX5gpQVHmfyJr81wCGdeArvksNhshon1Btn)
-5. 不要离开，继续往下滚动，直至 **自定义交易 nonce** ，点击启用它。
+
+
+![](<../.gitbook/assets/image (4).png>)
+
+2\. 点击右上角彩色头像，并在菜单中点击**设置**。
+
+![](<../.gitbook/assets/image (40).png>)\
+
+
+3\. 在菜单中，选择**高级**\
+****![](<../.gitbook/assets/image (10).png>)****
+
+4\. 滚动至 **高级燃料控制**，点击启用它。\
+
+
+![](<../.gitbook/assets/image (31).png>)
+
+5\. 不要离开，继续往下滚动，直至 **自定义燃料控制** ，点击启用它。
+
+![](<../.gitbook/assets/image (46).png>)
 
 ### **2. 找到卡住的交易** <a href="#2-find-your-stuck-transaction" id="2-find-your-stuck-transaction"></a>
 
