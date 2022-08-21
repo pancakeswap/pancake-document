@@ -4,7 +4,7 @@ description: 常见错误信息。 使用侧边栏快速查找您的错误代码
 
 # 故障排除指南
 
-![](<../.gitbook/assets/troubleshooting-header (1).png>)
+![](../.gitbook/assets/troubleshooting-header.png)
 
 有时您可能会发现自己面临一个没有明确解决方案的问题。 这些故障排除技巧可以帮助您解决遇到的问题。
 
@@ -112,7 +112,7 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 6. 在 **“to (address)”** 这一栏位输入您的钱包地址。
 7. **Deadline** (截止时间)必须是大于执行此交易的纪元(epoch)时间。
 
-![](<../.gitbook/assets/image (5) (2).png>)
+![](<../.gitbook/assets/image (5).png>)
 
 {% hint style="warning" %}
 这可能会导致很高的滑点，并且如果被机器人抢跑，可能会导致您损失一些资金。
@@ -293,16 +293,16 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 
 > Fail with error 'BEP20: transfer amount exceeds allowance'
 >
->
+> (交易出现此错误导致失败: “BEP20: 转出数额超出上限”)
 
 {% tabs %}
-{% tab title="Solution" %}
+{% tab title="解决方法" %}
 1. 使用 unrekt.net 解除您正在操作糖浆池的合约授权（您可在各糖浆池详情中找到它们的地址）
 2. 重新授权（点击「启用」）合约，不要更改默认的授权数量。
 3. 重试您正在尝试的操作。
 {% endtab %}
 
-{% tab title="Reason" %}
+{% tab title="原因" %}
 该错误的原因是您在最初授权时，设置了一个过低的数量。后期操作时，操作的代币数量超过了剩余授权允许数目。
 {% endtab %}
 {% endtabs %}
@@ -408,9 +408,9 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 
 ## 个人资料问题
 
-### 哎呀！ 我们在您的钱包中找不到任何煎饼收藏品。
+### 哎呀！ 我們無法在您的錢包中找到任何 Pancake 收藏品。
 
-&#x20;我们正在调查这个问题背后的逻辑，同事请尝试一下解决办法
+&#x20;我们正在调查这个问题背后的逻辑，同时请尝试以下解决办法：
 
 {% tabs %}
 {% tab title="解决方法1" %}

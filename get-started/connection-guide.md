@@ -79,7 +79,7 @@
     ![](../.gitbook/assets/MBP3-2021.08.16-125215PM-CleanShot\_CleanShot.png)
 2.  在 "DeFi" 下找到 PancakeSwap，点击打开。
 
-    ![](<../.gitbook/assets/image (155).png>)
+    ![](<../.gitbook/assets/image (155) (1).png>)
 3.  一个警告窗口将弹出，点击「确认」继续。
 
     ![](../.gitbook/assets/MBP3-2021.08.16-125400PM-CleanShot\_CleanShot.png)
@@ -91,31 +91,31 @@
 
 1. 打开Coinbase 钱包并点击右下角的设置图标
 
-![](<../.gitbook/assets/image (51).png>)
+![](<../.gitbook/assets/image (190).png>)
 
 2\. 在设置菜单中，点击默认网络。
 
-![](<../.gitbook/assets/image (44).png>)
+![](<../.gitbook/assets/image (204).png>)
 
 3\. 在网络选项列表中选择Binance Smart Chain。
 
-![](<../.gitbook/assets/image (33).png>)
+![](<../.gitbook/assets/image (189).png>)
 
 4\. 选择币安智能链网络后，点击应用底部中间的浏览器图标。
 
 
 
-![](<../.gitbook/assets/image (45).png>)
+![](<../.gitbook/assets/image (122).png>)
 
-![](<../.gitbook/assets/image (34).png>)
+![](<../.gitbook/assets/image (197).png>)
 
 5\. 在搜索框输入“PancakeSwap.finance" 并开始搜索。
 
-![](<../.gitbook/assets/image (21).png>)
+![](<../.gitbook/assets/image (206).png>)
 
 6\. 单机**连接钱包**以链接到Coinbase钱包。
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (202).png>)
 {% endtab %}
 {% endtabs %}
 
@@ -179,17 +179,17 @@
 
 1. 打开Coinbase钱包，然后单机右上角的设置图标。默认情况下，它将显示“以太坊主网” 作为默认网络。
 
-![](<../.gitbook/assets/image (38).png>)
+![](<../.gitbook/assets/image (35).png>)
 
 2.点击默认网络并选择币安智能链。
 
-![](<../.gitbook/assets/image (37).png>)
+![](<../.gitbook/assets/image (193).png>)
 
 3\. Binance Smart Chain现在将成为您的默认网络。
 
 4\. 访问pancakeswap.finance, 在右上角你会看到Connect 按钮，点击它。
 
-![](<../.gitbook/assets/image (35).png>)
+![](<../.gitbook/assets/image (110).png>)
 
 5\. 将出现一个窗口，要求您选择连接的钱包，单机Coinbase 钱包（它在弹出列表的第一个）
 {% endtab %}

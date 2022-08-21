@@ -54,7 +54,7 @@
 
 {% tabs %}
 {% tab title="Trust Wallet" %}
-![](<../.gitbook/assets/image (36) (1).png>)
+![](<../.gitbook/assets/image (36).png>)
 
 Trust Wallet 在移动设备上颇受欢迎的钱包应用。它支持 DApps，NFT 收藏品（支持 Opensea.io），以及钱包内直接质押，
 
@@ -203,7 +203,7 @@ Token Pocket 允许您使用电脑端或其他设备同时管理一个钱包，�
 {% endtab %}
 
 {% tab title="SafePal" %}
-![](<../.gitbook/assets/image (37) (1).png>)
+![](<../.gitbook/assets/image (37).png>)
 
 SafePal 有软件和硬件钱包两种形式。该钱包 App 安装便捷，设置步骤简单，并原生支持币安链 (BEP2) 和币安智能链 (BEP20)。
 
@@ -278,7 +278,7 @@ MetaMask 是一个非常流行的基于浏览器的钱包插件，默认支持 E
 {% endtab %}
 
 {% tab title="Binance Wallet" %}
-![](<../.gitbook/assets/image (20).png>)
+![](<../.gitbook/assets/image (56).png>)
 
 Binance Wallet （币安钱包）是一个浏览器插件钱包，原生支持 Binance Chain (BEP2) BNB Smart Chain (BEP20) 网络。 币安钱包由币安加密货币交易所开发。&#x20;
 

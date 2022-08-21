@@ -20,13 +20,13 @@
 
 [如何增加/移除流动性](../products/pancakeswap-exchange/ru-he-tian-jia-yi-chu-liu-dong-xing.md)
 
-[如何使用农场](../products/yield-farming/)
+[如何使用农场](../products/yield-farming.md)
 
 [如何在糖浆池质押](../products/syrup-pools/)
 
-[如何玩转彩票](../products/lottery/)
+[如何玩转彩票](../products/lottery.md)
 
-[如何使用预测功能](../products/yu-ce/)
+[如何使用预测功能](../products/yu-ce.md)
 
 [如何参与IFO](../products/ifo-initial-farm-offering.md)
 

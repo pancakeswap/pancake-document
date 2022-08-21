@@ -15,24 +15,24 @@ description: 如何在 MetaMask 上「清理」卡住的交易
 1. 打开您的 MetaMask 插件。\
 
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (187).png>)
 
 2\. 点击右上角彩色头像，并在菜单中点击**设置**。
 
-![](<../.gitbook/assets/image (40).png>)\
+![](<../.gitbook/assets/image (102).png>)\
 
 
 3\. 在菜单中，选择**高级**\
-****![](<../.gitbook/assets/image (10).png>)****
+****![](<../.gitbook/assets/image (199).png>)****
 
 4\. 滚动至 **高级燃料控制**，点击启用它。\
 
 
-![](<../.gitbook/assets/image (31).png>)
+![](<../.gitbook/assets/image (188).png>)
 
 5\. 不要离开，继续往下滚动，直至 **自定义燃料控制** ，点击启用它。
 
-![](<../.gitbook/assets/image (46).png>)
+![](<../.gitbook/assets/image (158).png>)
 
 ### **2. 找到卡住的交易** <a href="#2-find-your-stuck-transaction" id="2-find-your-stuck-transaction"></a>
 

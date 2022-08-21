@@ -12,7 +12,7 @@ description: 关于品牌和标志的指导方针及可下载的资产，包含P
 
 PancakeSwap 图标下载位于本页底部，但请务必先阅读这些指南。
 
-&#x20;尽管 PancakeSwap 在开源许可下分发其部分技术，**但 PancakeSwap 和 CAKE 品牌不是在相同的许可下分发的。**&#x20;
+&#x20;尽管 PancakeSwap 在开源许可下分享其部分技术，**但 PancakeSwap 和 CAKE 品牌不是在相同的许可下分享的。**&#x20;
 
 以下 PancakeSwap “品牌资产”是受版权保护的材料，您只能根据以下详细政策使用它们：
 
@@ -58,7 +58,7 @@ PancakeSwap 图标下载位于本页底部，但请务必先阅读这些指南�
 
 ## PancakeSwap 图标下载
 
-![](<.gitbook/assets/image (48).png>)
+![](<.gitbook/assets/image (194).png>)
 
 阅读完以上所有内容后，请下载下面的 PancakeSwap 和 CAKE 图标。
 

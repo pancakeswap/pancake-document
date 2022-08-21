@@ -15,8 +15,8 @@ CAKE 是一枚在背后支撑着 PancakeSwap 整个生态系统的美味代币�
 通过农场、糖浆池赚取，或者在彩票中赢取。又或者，[直接在交易界面购买](../../products/pancakeswap-exchange.md)。然后，探索他的使用场景和功能：
 
 * 在[糖浆池](../../products/syrup-pools/)中质押，免费获得其他代币。
-* 在[农场](../../products/yield-farming/)中使用它与其他代币搭配进行流动性挖矿，获得更多的 CAKE。
-* 购买 [PancakeSwap 彩票](../../products/lottery/)。
+* 在[农场](../../products/yield-farming.md)中使用它与其他代币搭配进行流动性挖矿，获得更多的 CAKE。
+* 购买 [PancakeSwap 彩票](../../products/lottery.md)。
 * 创建你的 [PancakeSwap 个人档案](../../products/nft-ge-ren-dang-an-xi-tong.md)，并铸造 NFT
 * 在[社区治理投票](../../products/voting/)中投上您宝贵的一票
 

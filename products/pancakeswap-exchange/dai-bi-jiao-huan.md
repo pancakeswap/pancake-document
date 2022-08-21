@@ -4,7 +4,7 @@
 
 PancakeSwap 上的代币交换是一种通过自动流动性池将一个 BEP-20 代币换成另一个代币的简单方法。
 
-![](<../../.gitbook/assets/Screenshot 2021-04-19 at 6.11.54 PM.png>)
+![](<../../.gitbook/assets/Screenshot 2021-04-19 at 6.11.54 PM (1).png>)
 
 当您在PancakeSwap交易所进行代币互换（交易）时，您将支付 0.25% 的交易费，具体分配如下：&#x20;
 

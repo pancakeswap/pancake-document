@@ -35,7 +35,7 @@
 [了解更多关于糖浆池质押的信息](../products/syrup-pools/)。
 
 CAKE.农场流动性挖矿稍加复杂，并且需要 LP（流动性）凭证来赚取 CAKE。\
-[了解更多关于农场挖矿的信息](../products/yield-farming/)。
+[了解更多关于农场挖矿的信息](../products/yield-farming.md)。
 
 ## 我该怎样进行农场流动性挖矿？
 
@@ -96,7 +96,6 @@ PancakeSwap 糖浆池上新相当频繁，在上线前我们均会发布公告�
 ## CAKE 的总量是多少？
 
 $CAKE 目前最大供应量也就是硬顶为7.5亿，总流通量通过各种销毁手段得以控制。\
-\
 请阅读 更多关于[ PancakeSwap 的代币经济模型](../tokenomics/cake/cake-dai-bi-jing-ji-mo-xing.md)。
 
 ## 储备金库内的资金一般用于什么用途？

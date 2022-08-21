@@ -28,11 +28,11 @@ Binance Bridge 可能是将资产转移到 BNB 智能链 (BSC) 上的最简单�
 4. 连接您的 MetaMask 或 BNB 智能链钱包。
 5. &#x20;选择TRX网络为“From”，BNB智能链网络为“To”。 然后输入您要转账的 USDT 金额。
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (155).png>)
 
 6\. 此外，在将您的 USDT 从 TRON 转移到 BSC 的过程中，您可以要求 Binance Bridge 为您交换一些 BNB。 当您刚接触 BNB 智能链并使用新钱包并需要一些 BNB 用于手续费时，这尤其有用。
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (87).png>)
 
 7\. 仔细检查“Destination”字段是否显示您已连接的正确 BNB 智能链钱包地址。
 
@@ -40,7 +40,7 @@ Binance Bridge 可能是将资产转移到 BNB 智能链 (BSC) 上的最简单�
 
 &#x20;**警告：您只能从区块链钱包（在本例中为 TRON）发送资金。 如果您的资金在其他一些中心化交易所，请先将它们转移到区块链钱包**。
 
-![](<../.gitbook/assets/image (18).png>)
+![](<../.gitbook/assets/image (195).png>)
 
 9\. 确保一切正确，单击“下一步”。&#x20;
 
@@ -50,7 +50,7 @@ Binance Bridge 可能是将资产转移到 BNB 智能链 (BSC) 上的最简单�
 2. 一次性完成。&#x20;
 3. 在期限内完成。 （如下所示为倒计时）
 
-![](<../.gitbook/assets/image (19).png>)
+![](<../.gitbook/assets/image (192).png>)
 
 11\. 一旦完成交易，您的BNB 智能链钱包应该在几分钟内收到资金。 之后，您就可以开始使用 PancakeSwap 在 BNB Smart Chain 上兑换一些代币了！&#x20;
 
@@ -66,7 +66,7 @@ Binance Bridge 可能是将资产转移到 BNB 智能链 (BSC) 上的最简单�
 4. 连接您的钱包并将您的网络切换到 Polygon (MATIC) 主网。&#x20;
 5. 选择 MATIC 主网上的 USDT 为“From”，选择 BSC 主网上的 USDT 为“To”。 然后输入您要转账的 USDT 金额。
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (135).png>)
 
 6\. 点击“批准 USDT”以批准您的 USDT。&#x20;
 
@@ -87,17 +87,17 @@ Binance Bridge 可能是将资产转移到 BNB 智能链 (BSC) 上的最简单�
 3. &#x20;由于 O3 Hub 仅支持 MetaMask 和 O3 Wallet。 如果您正在使用其他钱包应用程序，我们建议您将钱包导入 MetaMask。&#x20;
 4. 导航到 https://o3swap.com/hub 为 ETH 和 BSC 连接您的 MetaMask 或 O3 钱包。 并将您在 MetaMask 中的网络切换到以太坊主网。
 
-![](<../.gitbook/assets/image (14).png>)
+![](<../.gitbook/assets/image (55).png>)
 
 
 
 5\. 选择 ERC-20 USDT 作为“You pay”，选择 BEP-20 USDT 作为“You will receive”。 然后输入您要转账的 USDT 金额。
 
-![](<../.gitbook/assets/image (32).png>)
+![](<../.gitbook/assets/image (167).png>)
 
 6\. 仔细检查“To”字段是否显示您已连接的正确 BNB 智能链钱包地址。
 
-![](<../.gitbook/assets/image (22).png>)
+![](<../.gitbook/assets/image (186).png>)
 
 7\. 确保一切正确。 点击“Swap”。&#x20;
 
@@ -105,7 +105,7 @@ Binance Bridge 可能是将资产转移到 BNB 智能链 (BSC) 上的最简单�
 
 9\. 整个过程大约需要 10-30 分钟才能完成，具体取决于网络的拥堵程度。 您可以在历史记录选项卡上跟踪进度。
 
-![](<../.gitbook/assets/image (12).png>)
+![](<../.gitbook/assets/image (207).png>)
 
 10\. 一旦完成。 您应该在您的 BSC 钱包中收到您的资金。 现在你可以开始使用 PancakeSwap 在 BNB 智能链上交换一些代币了！
 

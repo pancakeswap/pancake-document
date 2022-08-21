@@ -13,7 +13,7 @@
 1. 跳转到[交易页面](https://pancakeswap.finance/swap#/swap)
 2. 通过点击**解锁钱包**解锁宁的BNB智能链兼容钱包（您也可以在右上角**连接**）。如果您还没有将您的钱包连接到PancakeSwap, 您可以查看[这里的指南](../../get-started/connection-guide.md)
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (205).png>)
 
 &#x20;3\. 从“From”部分的下拉菜单中选择您需要交易的代币。默认设置为BNB。
 
@@ -39,4 +39,4 @@
 
 7\. 完成了！你可以点击“View on BscScan” 在浏览器上查看这笔交易的细节。
 
-![](<../../.gitbook/assets/image (6) (2).png>)
+![](<../../.gitbook/assets/image (6).png>)

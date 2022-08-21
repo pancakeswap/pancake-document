@@ -12,7 +12,7 @@
 
 您还可以随时通过移除流动性来赎回您的资金。
 
-![](<../../.gitbook/assets/Screenshot 2021-04-19 at 6.27.22 PM.png>)
+![](<../../.gitbook/assets/Screenshot 2021-04-19 at 6.27.22 PM (2).png>)
 
 ## 流动性提供者赚取交易手续费
 

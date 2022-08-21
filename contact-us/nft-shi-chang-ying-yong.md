@@ -2,7 +2,7 @@
 
 ## 申请NFT市场上市
 
-![](<../.gitbook/assets/nft masthead.png>)
+![](<../.gitbook/assets/nft masthead (1).png>)
 
 NFT 收藏创建者可以在 PancakeSwap 上的交易中赚取创作者版税，并在 BNB 智能链上最著名的 NFT 市场上获得他们的项目的知名度。&#x20;
 
