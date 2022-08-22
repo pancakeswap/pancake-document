@@ -6,12 +6,12 @@
 
 ### 交易前的准备
 
-在进行交易前，您需要准备一个兼容BNB智能链的钱包。您可以[点击这里](../../get-started/wallet-guide.md)学习如何获取。您还需要准备一些BEP20代币进行交易。您可以[点击这里](../../get-started/bep20-guide.md)学习如何获取。
+在进行交易前，您需要准备一个兼容BNB智能链的钱包。您可以[点击这里](../../get-started/wallet-guide.md)学习如何取得。您还需要准备一些BEP20代币来进行交易。您可以[点击这里](../../get-started/bep20-guide.md)学习如何开始。
 
 ### 如何在PancakeSwap交易所交易
 
 1. 跳转到[交易页面](https://pancakeswap.finance/swap#/swap)
-2. 通过点击**解锁钱包**解锁宁的BNB智能链兼容钱包（您也可以在右上角**连接**）。如果您还没有将您的钱包连接到PancakeSwap, 您可以查看[这里的指南](../../get-started/connection-guide.md)
+2. 通过点击**解锁钱包**解锁您的BNB智能链兼容钱包（可以透过右上角的**连接**）。如果您还没有将您的钱包连接到PancakeSwap, 您可以查看[这里的指南](../../get-started/connection-guide.md)
 
 ![](<../../.gitbook/assets/image (205).png>)
 
