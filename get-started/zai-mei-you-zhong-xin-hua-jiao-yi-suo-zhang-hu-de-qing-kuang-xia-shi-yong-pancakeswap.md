@@ -54,7 +54,7 @@ Binance Bridge 可能是将资产转移到 BNB 智能链 (BSC) 上的最简单�
 
 11\. 一旦完成交易，您的BNB 智能链钱包应该在几分钟内收到资金。 之后，您就可以开始使用 PancakeSwap 在 BNB Smart Chain 上兑换一些代币了！&#x20;
 
-此外，您可以查看 Binance 的用户指南和[视频教程](https://fast.wistia.net/embed/iframe/fhip2z4nth)。
+此外，您可以查看 Binance 的[用户指南](https://binance-wallet.gitbook.io/binance-chain-wallet/bmw-guides-and-faq/defi/how-to-convert-bep20-tokens-to-erc20-on-binance-wallet)和[视频教程](https://fast.wistia.net/embed/iframe/fhip2z4nth)。
 {% endtab %}
 
 {% tab title="AnySwap" %}
