@@ -51,7 +51,7 @@ The process is about the same for moving from **Ethereum** to BSC.
         <img src="https://lh6.googleusercontent.com/mag8YXlpq0WtvlOP7GfPNZrXWralO5l6eWPFTrv9ZiQiyTryXBjtm4GVw_coNjnthYIm-GlP5o_ZuIF0lzOFYXnWn4wMSvcGOnmZIfVlOtTb0c08F6xgsL-4Gs936pYHUzJYbVOg=s0" alt="" data-size="original">
 11. Once you complete the transaction. You should receive your fund in BNB Smart Chain wallet in a few minutes. After that, you can start using PancakeSwap to swap some tokens on BNB Smart Chain!
 
-Additionally, you can check out [this user guide](https://binance-wallet.gitbook.io/binance-bridge/guides/binance-bridge-v3) and [video tutorial](https://fast.wistia.net/embed/iframe/fhip2z4nth) from Binance.
+Additionally, you can check out [this user guide](https://binance-wallet.gitbook.io/binance-chain-wallet/bmw-guides-and-faq/defi/how-to-convert-bep20-tokens-to-erc20-on-binance-wallet) and [video tutorial](https://fast.wistia.net/embed/iframe/fhip2z4nth) from Binance.
 {% endtab %}
 
 {% tab title="AnySwap" %}
