@@ -14,11 +14,11 @@ Before you can trade, you will need a BNB Smart Chain-compatible wallet. You can
 
 2\. Unlock your BNB Smart Chain-compatible wallet by clicking **Unlock Wallet** (you can also **Connect** in the top right-hand corner). If you haven't yet connected your wallet to PancakeSwap, you can view the guide to [here](https://docs.pancakeswap.finance/get-started/connection-guide).
 
-![](<../../.gitbook/assets/image (12) (1).png>)
+![](<../../.gitbook/assets/image (12).png>)
 
 3\. Choose the token you want to trade from the dropdown menu in the "From" section. The default setting is BNB.
 
-![](<../../.gitbook/assets/image (13) (1).png>)
+![](<../../.gitbook/assets/image (13).png>)
 
 Whichever token you choose, you will need to make sure you have some to trade with. Your balance is shown above the token dropdown menu.
 
@@ -30,11 +30,11 @@ Your "From" currency amount will be estimated automatically. You can also type y
 
 5\. Check the details, and click the **Swap** button.
 
-![](<../../.gitbook/assets/image (15) (1).png>)
+![](<../../.gitbook/assets/image (15).png>)
 
 6\. A window with more details will appear. Check the details are correct.
 
-![](<../../.gitbook/assets/image (16) (1).png>)
+![](<../../.gitbook/assets/image (16).png>)
 
 When you are ready, click the **Confirm Swap** button. Your wallet will ask you to confirm the action.
 

@@ -107,7 +107,7 @@ Vá para o contrato do router: [https://bscscan.com/address/0x05ff2b0db69458a075
 6. Adicione o endereço de sua carteira em **to (address)**.
 7. Deadline deve ser um tempo de época maior que o tempo em que a tx é executada.
 
-![](<../.gitbook/assets/image (5) (1).png>)
+![](<../.gitbook/assets/image (5) (1) (1).png>)
 
 {% hint style="warning" %}
 Isso pode causar uma slippage(derrapagem) muito alta, e pode causar a perda de alguns fundo do usuários caso sofra frontrun
@@ -346,7 +346,7 @@ This error tends to appear when you're trying to unstake from an old Syrup Pool,
 
 ## **Problemas com Prediction**
 
-Verifique [prediction-troubleshooting.md](../products/prediction/prediction-troubleshooting.md "mention")
+Verifique [prediction-troubleshooting.md](../produtos/prediction/prediction-troubleshooting.md "mention")
 
 ## **Outros problemas**
 

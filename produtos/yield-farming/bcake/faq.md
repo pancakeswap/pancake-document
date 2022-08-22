@@ -23,9 +23,9 @@ O multiplicador é calculado usando o seguinte método:
 
 Seguem alguns exemplos do cálculo:
 
-![](<../../../.gitbook/assets/image (3).png>)
+![](<../../../.gitbook/assets/image (3) (1).png>)
 
-![](../../../.gitbook/assets/image.png)
+![](<../../../.gitbook/assets/image (11).png>)
 
 {% hint style="info" %}
 Resumo
@@ -51,7 +51,7 @@ Para garantir a justiça e evitar possíveis abusos e trapaças usando dados des
 
 ### Onde estão minhas recompensas de CAKE depois de ativar ou desativar o impulsionamento/Booster?
 
-![](<../../../.gitbook/assets/image (16).png>)
+![](<../../../.gitbook/assets/image (16) (1).png>)
 
 Ao farmar com bCAKE - Farm Boosters, algumas de suas recompensas de CAKE colhidas podem ser armazenadas temporariamente no contrato do farm booster. Sempre que isso acontecer, você verá uma linha pontilhada abaixo do seu "CAKE EARNED", indicando que, além do número mostrado, você tem mais recompensas de CAKE no contrato de impulsionamento de farm.&#x20;
 
@@ -59,7 +59,7 @@ Ao farmar com bCAKE - Farm Boosters, algumas de suas recompensas de CAKE colhida
 
 Para colhê-los logo agora, basta clicar no botão "Harvest/Colheita".
 
-![](<../../../.gitbook/assets/image (4).png>)
+![](<../../../.gitbook/assets/image (4) (2).png>)
 
 Para verificar o número de recompensas extras no contrato de impulsionamento de farm, passe o mouse ou pressione e segure o número com a linha pontilhada.
 
@@ -67,9 +67,9 @@ Para verificar o número de recompensas extras no contrato de impulsionamento de
 
 1. O impulsionamento de farm está disponível apenas para farms selecionadas. Mais farms serão disponibilizadas no futuro. Por enquanto, procure a tag "Boosted" na interface do usuário\
    \
-   ![](<../../../.gitbook/assets/image (1).png>)
+   ![](<../../../.gitbook/assets/image (1) (2).png>)
 2. Há um limite para o número de farms que podem aumentar simultaneamente. Para verificar o número de impulsionamentos restantes, consulte o painel na parte superior. \
-   ![](<../../../.gitbook/assets/image (12).png>)\
+   ![](<../../../.gitbook/assets/image (12) (1).png>)\
    \
    Você precisará desativar um impulsionamento ativo para ativar o impulsionamento em outras farms.
 3. Certifique-se de ter concluído a configuração uma vez.

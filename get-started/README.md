@@ -16,7 +16,7 @@ Siga estes guias para configurar tudo para usar a PancakeSwap ou sinta-se à von
 
 Depois de configurar uma carteira e conectar-se a PancakeSwap, sinta-se à vontade para verificar nossos outros guias e tutoriais abaixo.
 
-[Como fazer Trade](../products/pancakeswap-exchange/trade-guide.md)\
+[Como fazer Trade](../produtos/pancakeswap-exchange/trade-guide.md)\
 [Como adicionar/remover Liquidez](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide)\
 [Como usar os Farms](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms)\
 [Como fazer Stake nas Pools de Syrup](https://docs.pancakeswap.finance/products/syrup-pool/syrup-pool-guide)\
