@@ -46,7 +46,7 @@ And that’s it; you’re now ready to participate in an IFO when it goes live!
 
 ### **Knowing when an IFO will start**
 
-The IFO is a limited-time event, only lasting one hour. You'll want to check the time to make sure you don’t miss out!
+The IFO is a limited-time event; it usually only lasts one or two hours. You'll want to check the proposal in detail for the IFO timeframe to ensure you don’t miss out!
 
 #### Check the IFO page
 
