@@ -4,13 +4,13 @@
 
 使用 CAKE购买新的代币。
 
-项目方得到 CAKE，PancakeSwap 销毁参与IFO的 CAKE。**您得到新的IFO代币。**
+项目方得到 CAKE，PancakeSwap 销毁做为参加费的 CAKE。**您得到新的IFO代币。**
 
 1. **您需要 CAKE**来参加 IFO。
 2. **您需要iCAKE**才能参与公开销售。
-3. **您需要满足某些要求**才能参与私人销售。
+3. **您需要满足某些要求**才能参与私有销售。
 
-学习[如何参加IFO](ru-he-can-jia-ifo.md)
+学习[如何参加IFO](ifo-initial-farm-offering/ru-he-can-jia-ifo.md)
 
 ## **如何参加 IFO**
 
@@ -18,9 +18,9 @@
 
 **开售前**
 
-1. 完成您的[PancakeSwap个人资料设置](../nft-ge-ren-dang-an-xi-tong.md)
+1. 完成您的[PancakeSwap个人资料设置](nft-ge-ren-dang-an-xi-tong/)
 2. [购买CAKE](https://pancakeswap.finance/swap#/swap)代币
-3. 将CAKE质押[在定期质押糖浆池](../syrup-pools/ru-he-shi-yong-ding-qi-zhi-ya-tang-jiang-chi.md)即可获得iCAKE
+3. 将CAKE质押[在定期质押糖浆池](syrup-pools/ru-he-shi-yong-ding-qi-zhi-ya-tang-jiang-chi.md)即可获得iCAKE
 
 **开售后：**
 
@@ -29,13 +29,13 @@
 **完售后：**
 
 1. 销售结束后，您可以回到 IFO 页面领取您购得的代币。
-2. 完成！如果出现[超售](./#overflow) ，您需要回到 IFO 页面手动领取剩余没有用到的 CAKE代币。
+2. 完成！如果出现[超额认购](ifo-initial-farm-offering.md#overflow)，您可以在 IFO 页面手动领取剩余没有用到的 CAKE代币。
 
-## **什么是「超售溢出」销售方法？** <a href="#overflow" id="overflow"></a>
+## **什么是「超额认购」销售方法？** <a href="#overflow" id="overflow"></a>
 
-简单来说：您投入得更多，您将获得更多。在完售后，您可以领取任何没有成功使用并支付的 CAKE 代币。
+简单来说：您投入得更多，获得更多。在销售结束后，您可以取回没有用掉的CAKE代币。
 
-在「超售溢出」方法中，用户可以根据自己实际情况投入CAKE代币参与 IFO。最终获得的代币数量，将取决于他们投入资金量，占整个 IFO 投入资金量中的份额。用户在销售结束后，认领购得的代币时，将同时领回任何剩余的资金（CAKE代币）。
+在「超额认购」方法中，用户可以根据自己实际情况投入CAKE代币参与 IFO。最终获得的代币数量，将取决于他们投入资金量，占整个 IFO 投入资金量中的份额。用户在销售结束后，认领购得的代币时，将同时领回全部剩余资金（CAKE代币）。
 
 {% hint style="warning" %}
 若您投入的CAKE数量仅占总数非常小的一部分，您可能最终会买不到任何的 IFO 代币。因为您的投入数相对于总量来说非常小，以至于在计算时，您没有资格获得任何代币。
@@ -43,11 +43,11 @@
 在这种情况下，您仍可以在完售后，认领未消费的 CAKE 代币。
 {% endhint %}
 
-## 如果 IFO 募集目标没有达到，会怎么样？
+## 如果 IFO 资金募集目标没有达到，会怎么样？
 
-销售及后续工作将如期进行，所有募集得的资金都会被消耗。
+销售及后续工作将如期进行，所有投入的资金将全数用于认购IFO代币。
 
-## 如何为我的项目开设 IFO？
+## 我是项目方，如何申请IFO？
 
 与 PancakeSwap，币安智能链上最受欢迎的自动做市及流动性提供平台，一起为您的项目打新。为您的项目直接接入全 BSC 最活跃、发展最快的用户群体。
 

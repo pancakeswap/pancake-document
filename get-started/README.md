@@ -28,9 +28,9 @@
 
 [如何使用预测功能](../products/yu-ce.md)
 
-[如何参与IFO](../products/ifo-initial-farm-offering/)
+[如何参与IFO](../products/ifo-initial-farm-offering.md)
 
-[如何设置个人资料NFT头像](../products/nft-ge-ren-dang-an-xi-tong.md)
+[如何设置个人资料NFT头像](../products/nft-ge-ren-dang-an-xi-tong/)
 
 [如何投票](../products/voting/)
 

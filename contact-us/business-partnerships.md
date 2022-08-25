@@ -34,7 +34,7 @@
 * 用户使用 CAKE代币购买您的项目代币。
 * IFO结束后，我们将 CAKE分发给您。
 
-请在[此处](../products/ifo-initial-farm-offering/)了解有关 IFO 的更多信息。
+请在[此处](../products/ifo-initial-farm-offering.md)了解有关 IFO 的更多信息。
 
 [**申请IFO**](https://docs.google.com/forms/d/e/1FAIpQLScGdT5rrVMr4WOWr08pvcroSeuIOtEJf1sVdQGVdcAOqryigQ/viewform)****
 

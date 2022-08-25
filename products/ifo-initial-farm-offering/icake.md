@@ -6,9 +6,9 @@ description: CAKE定期质押和IFO分配
 
 ### 什么是iCAKE？
 
-iCAKE类似于之前IFO CAKE质押池中的"IFO 积分“，该池在主厨合约v2迁移期间中停用。此次更新后，iCAKE将确定PancakSwap IFO公开发售中的CAKE提交上限。举个例子，如果您拥有200个iCAKE, 您可以在以后即将到来的IFO公开发售中提交最多200个CAKE。
+iCAKE类似于之前IFO CAKE质押池中的"IFO 积分“，该池在主厨合约v2迁移期间中停用。此次更新后，iCAKE决定了PancakSwap IFO公开发售中，每个地址能提交的CAKE数量上限。举个例子，如果您拥有200个iCAKE, 您可以在以后即将到来的IFO公开发售中提交最多200个CAKE。
 
-iCAKE不是一个新的代币，他是PancakeSwap IFO系统中使用的一个数值度量。
+**iCAKE不是一个新的代币，他是PancakeSwap IFO系统中使用的一个数值度量。**
 
 ### iCAKE是怎么计算的？
 
@@ -16,11 +16,11 @@ iCAKE不是一个新的代币，他是PancakeSwap IFO系统中使用的一个数
 
 &#x20;iCAKE 的计算方式基于所有 iCAKE 用户的质押持续时间阈值。&#x20;
 
-如果您的质押时长超过阈值，则您拥有的 iCAKE 数量等于您质押位置的 CAKE 数量。&#x20;
+如果您的质押时长超过阈值，则您拥有的 iCAKE 数量等于您质押的 CAKE 数量。&#x20;
 
 如果您的质押时长低于阈值，您拥有的 iCAKE 数量将线性减少和调整。&#x20;
 
-如果您的质押结束，那么您的iCAKE数量将为0。
+如果您的质押期结束，那么您的iCAKE数量将为0。
 
 举例说明，如果阈值为20周：
 
@@ -54,6 +54,6 @@ iCAKE不是一个新的代币，他是PancakeSwap IFO系统中使用的一个数
 
 在每两个IFO之间厨房会根据定期质押CAKE糖浆池的平均质押时长来优化阈值。调整将会在所有社交媒体渠道上公布。
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 您可以通过悬停或点击蛋糕糖浆池窗口中带下划线的iCAKE文本来检查iCAKE计算的当前阈值。
