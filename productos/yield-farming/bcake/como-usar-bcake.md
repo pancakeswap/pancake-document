@@ -1,6 +1,6 @@
 # Cómo usar bCAKE
 
-![Cómo usar bCAKE para potenciar las Farms](<../../../.gitbook/assets/image (4).png>)
+![Cómo usar bCAKE para potenciar las Farms](<../../../.gitbook/assets/image (4) (2).png>)
 
 Al igual que iCAKE y vCAKE, bCAKE también es un beneficio diseñado para usuarios que bloquean su CAKE en el pool a plazo fijo. El multiplicador potenciador (Boost) se calcula en función de la cantidad de CAKE que deposita, durante cuánto tiempo los está depositando, así como la cantidad de tokens LP que está depositando en la farm que desea potenciar.&#x20;
 
@@ -32,11 +32,11 @@ Si ha estado haciendo staking en la granja y desea activar Farm Booster, tambié
 
 Haga clic en "Migrate" y siga la guía paso a paso para completar las migraciones. Sus recompensas de CAKE se recolectarán automáticamente y se enviarán a su billetera.
 
-![](<../../../.gitbook/assets/image (3).png>)
+![](<../../../.gitbook/assets/image (3) (1).png>)
 
 ## Activar Boosters
 
-![](../../../.gitbook/assets/image.png)
+![](<../../../.gitbook/assets/image (1).png>)
 
 Una vez que hecho eso, debería ver el multiplicador de boost disponible y el APR aumentado para la farm que está depositando actualmente. Para obtener más información sobre cómo se calcula el multiplicador bCAKE, lea [aquí](faq.md).&#x20;
 
