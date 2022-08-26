@@ -1,16 +1,16 @@
 # Factory v2
 
 {% hint style="warning" %}
-PancakeSwap is based on Uniswap v2. Read the [Uniswap v2 documentation](https://uniswap.org/docs/v2/).  
+PancakeSwap is based on Uniswap v2. Read the [Uniswap v2 documentation](https://uniswap.org/docs/v2/).\
 For more in-depth information on the core contract logic, read the [Uniswap v2 Core whitepaper](https://uniswap.org/whitepaper.pdf).
 {% endhint %}
 
 ## Contract info
 
-**Contract name:** PancakeFactory  
+**Contract name:** PancakeFactory\
 **Contract address:** 0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73
 
-View [PancakeFactory.sol on GitHub](https://github.com/pancakeswap/pancake-swap-core/blob/master/contracts/PancakeFactory.sol).
+View [PancakeFactory.sol on GitHub](https://github.com/pancakeswap/pancake-contracts/blob/master/projects/exchange-protocol/contracts/PancakeFactory.sol).
 
 View the [PancakeSwap: Factory v2 contract on BscScan](https://bscscan.com/address/0xca143ce32fe78f1f7019d7d551a6402fc5350c73).
 
@@ -20,7 +20,7 @@ View the [PancakeSwap: Factory v2 contract on BscScan](https://bscscan.com/addre
 
 `function getPair(address tokenA, address tokenB) external view returns (address pair);`
 
-Address for `tokenA` and address for `tokenB` return address of pair contract \(where one exists\).
+Address for `tokenA` and address for `tokenB` return address of pair contract (where one exists).
 
 `tokenA` and `tokenB` order is interchangeable.
 
@@ -30,7 +30,7 @@ Returns `0x0000000000000000000000000000000000000000` as address where no pair ex
 
 `function allPairs(uint) external view returns (address pair);`
 
-Returns the address of the `n`th pair \(`0`-indexed\) created through the Factory contract.
+Returns the address of the `n`th pair (`0`-indexed) created through the Factory contract.
 
 Returns `0x0000000000000000000000000000000000000000` where pair has not yet been created.
 
@@ -58,13 +58,13 @@ The address with permission to set the feeTo address.
 
 ### createPair
 
-function createPair\(address tokenA, address tokenB\) external returns \(address pair\);
+function createPair(address tokenA, address tokenB) external returns (address pair);
 
 Creates a pair for `tokenA` and `tokenB` where a pair doesn't already exist.
 
 `tokenA` and `tokenB` order is interchangeable.
 
-Emits `PairCreated` \(see Events\).
+Emits `PairCreated` (see Events).
 
 ### setFeeTo
 
@@ -88,11 +88,11 @@ The final `uint` log value will be `1` for the first pair created, `2` for the s
 
 ## Interface
 
-```text
+```
 import '@uniswap/v2-core/contracts/interfaces/IPancakeFactory.sol';
 ```
 
-```text
+```
 pragma solidity =0.5.16;
 
 
@@ -112,4 +112,3 @@ interface IPancakeFactory {
     function setFeeToSetter(address) external;
 }
 ```
-
