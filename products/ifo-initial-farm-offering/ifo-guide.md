@@ -98,7 +98,7 @@ In the “Overflow” method, users can subscribe as much as they want to the IF
 
 2\. In the new window, choose the amount of CAKE you want to commit in the field.
 
-Remember, you can only commit the amount of CAKE equal to the number of iCAKE you have. And any CAKE you cannot spend on new tokens will be returned to you, so you don’t need to worry about losing any tokens.
+Remember, you can only commit up to to the number of iCAKE you have. And any CAKE you cannot spend on new tokens will be returned to you, so you don’t need to worry about losing any tokens.
 
 3\. Click the **Confirm** button and confirm the action with your wallet. Once your CAKE are committed, the Public Sale section will show your committed amount.
 
