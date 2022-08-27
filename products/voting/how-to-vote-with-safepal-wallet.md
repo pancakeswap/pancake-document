@@ -1,3 +1,7 @@
+---
+description: 翻译中，请暂时先使用英文版。
+---
+
 # How to vote with SafePal wallet
 
 First, open your SafePal wallet and select the dApp browser icon in the menu down the bottom.
