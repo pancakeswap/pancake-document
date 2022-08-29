@@ -85,6 +85,11 @@ IFO 是限时活动； 它通常只持续两个小时。 您需要详细检查 I
 
 要参与新的私有销售，参与者需要至少满足 IFO 销售方式界面上提出的要求之一。 每个参与者将能够提交任何数量的 CAKE，不超过私有销售的最大提交限额，该限额将与 IFO 投票提案一起发布。 私有销售不收取任何参加费。&#x20;
 
+目前的要求为：需将Pancake Squad NFT 设为个人资料的头像。
+
+* 如何购买NFT：[Pancake Sqaud NFT 市场](https://pancakeswap.finance/nfts/collections/0x0a8901b0E25DEb55A87524f0cC164E9644020EBA)
+* 如何设置个人资料尚未翻译完成，请先阅读[英文版](https://docs.pancakeswap.finance/products/nft-profile-system/profile-guide)或前往[telegram官方中文群组](https://t.me/PancakeSwap\_CN)询问。
+
 「超额认购」倍数多寡将决定您最终获得的 IFO 代币数量。
 
 **「超额认购」销售方式**
