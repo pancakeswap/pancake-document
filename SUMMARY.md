@@ -12,7 +12,7 @@
   * [Corrigindo transações presas na MetaMask](help/unsticking-a-transaction-stuck-as-pending-with-metamask.md)
   * [Tutorial da Binance Academy](help/binance-academy-guide.md)
 * [Fale Conosco](contact-us/README.md)
-  * [Business Partnerships](contact-us/business-partnerships.md)
+  * [Parcerias de Negócios](contact-us/business-partnerships.md)
   * [NFT Market Applications](contact-us/nft-market-applications.md)
   * [Customer Support](contact-us/customer-support.md)
   * [Social Accounts & Communities](contact-us/telegram.md)

@@ -1,22 +1,21 @@
-# Contact Us
+# Fale Conosco
 
 ![](../.gitbook/assets/contact-us-header.png)
 
-#### Business Contacts
+#### Contatos para Business
 
-### [List a Token](business-partnerships.md#exchange)
+### [Liste um Token](business-partnerships.md#exchange)
 
-### [Apply for Yield Farm or Syrup Pool](business-partnerships.md#farms-and-syrup-pools)
+### [Inscreva-se para uma Pool de Syrup ou Yield Farm](business-partnerships.md#farms-and-syrup-pools)
 
-### [Apply for an IFO (Token Sale)](business-partnerships.md#ifos-token-sales)
+### [Inscreva-se para um IFO (Venda de Token)](business-partnerships.md#ifos-token-sales)
 
-### [Apply for the NFT Market](nft-market-applications.md)
+### [Inscreva-se para o Mercado de NFT](nft-market-applications.md)
 
 ####
 
-#### Help!
+#### Ajuda!
 
-### [Customer Support](customer-support.md#there-is-no-customer-support-for-pancakeswap)
+### [Suporte ao Cliente](customer-support.md#there-is-no-customer-support-for-pancakeswap)
 
-### [Social Communities](telegram.md)
-
+### [Comunidades nas redes sociais](telegram.md)
