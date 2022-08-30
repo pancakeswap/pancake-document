@@ -1,8 +1,8 @@
-# Social Accounts & Communities
+# Redes Sociais & Comunidades
 
 ![](../.gitbook/assets/socials-communities-header.png)
 
-Here you'll find a list of PancakeSwap's official Social media channels and communities. If English is not your first language, we have a number of non-English communities that would love to have you join them!
+Aqui você encontrará uma lista dos canais e comunidades oficiais de redes sociais da PancakeSwap. Se o inglês não é sua primeira língua, temos várias comunidades não inglesas que adorariam que você se juntasse a elas!
 
 ## 🐦 Twitter
 
@@ -22,35 +22,35 @@ Here you'll find a list of PancakeSwap's official Social media channels and comm
 
 ## 🤖Discord
 
-Newly launched on 24th Nov! The below is the only link for our discord server!
+Recém-lançado em 24 de novembro! O link abaixo é o único para o nosso servidor no Discord!
 
 [https://discord.gg/pancakeswap](https://discord.gg/pancakeswap)
 
 ## 💬 Telegram
 
-**Official Telegram Groups:**
+**Grupos Oficiais de Telegram:**
 
-* 📣 Announcement Channel ([http://t.me/PancakeSwapAnn](http://t.me/PancakeSwapAnn))
-* 🥞 English ([http://t.me/pancakeswap](http://t.me/pancakeswap))
-* 🇯🇵 Japanese ([https://t.me/PancakeSwapJP](https://t.me/PancakeSwapJP))
-* 🇨🇳 Chinese ([http://t.me/PancakeSwap\_CN](http://t.me/PancakeSwap\_CN))
-* 🇮🇩 Indonesian ([http://t.me/PancakeSwapIndonesia](http://t.me/PancakeSwapIndonesia))
-* 🇻🇳 Việt Nam ([https://t.me/PancakeSwapVN](https://t.me/PancakeSwapVN))
-* 🇪🇸 🇦🇷 🇻🇪 Español ([https://t.me/PancakeSwapES](https://t.me/PancakeSwapES))
-* 🇷🇺 Russian ([http://t.me/pancakeswap\_ru](http://t.me/pancakeswap\_ru))
-* 🇧🇷 🇵🇹 Portuguese/Brazilian ([https://t.me/PancakeSwapPortuguese](https://t.me/PancakeSwapPortuguese))
-* 🇫🇷 French ([https://t.me/pancakeswapfr](https://t.me/pancakeswapfr))
+* 📣 Canal de Anúncios (inglês) ([http://t.me/PancakeSwapAnn](http://t.me/PancakeSwapAnn))
+* 🥞 Inglês ([http://t.me/pancakeswap](http://t.me/pancakeswap))
+* 🇯🇵 Japonês ([https://t.me/PancakeSwapJP](https://t.me/PancakeSwapJP))
+* 🇨🇳 Chinês ([http://t.me/PancakeSwap\_CN](http://t.me/PancakeSwap\_CN))
+* 🇮🇩 Indonésio ([http://t.me/PancakeSwapIndonesia](http://t.me/PancakeSwapIndonesia))
+* 🇻🇳 Vietnamita ([https://t.me/PancakeSwapVN](https://t.me/PancakeSwapVN))
+* 🇪🇸 🇦🇷 🇻🇪 Espanhol ([https://t.me/PancakeSwapES](https://t.me/PancakeSwapES))
+* 🇷🇺 Russo ([http://t.me/pancakeswap\_ru](http://t.me/pancakeswap\_ru))
+* 🇧🇷 🇵🇹 Português/Brasileiro ([https://t.me/PancakeSwapPortuguese](https://t.me/PancakeSwapPortuguese))
+* 🇫🇷 Francês ([https://t.me/pancakeswapfr](https://t.me/pancakeswapfr))
 * 🇮🇹 Italiano ([https://t.me/pancakeswap\_ita](https://t.me/pancakeswap\_ita))
-* 🇹🇷 Türkiye ([https://t.me/pancakeswapturkiye](https://t.me/pancakeswapturkiye))
-* 🇩🇪 🇦🇹 🇨🇭 Deutsch ([https://t.me/PancakeSwap\_DE](https://t.me/PancakeSwap\_DE))
+* 🇹🇷 Turco ([https://t.me/pancakeswapturkiye](https://t.me/pancakeswapturkiye))
+* 🇩🇪 🇦🇹 🇨🇭 Alemão ([https://t.me/PancakeSwap\_DE](https://t.me/PancakeSwap\_DE))
 * 🇵🇭 Filipino ([https://t.me/Pancakeswap\_Ph](https://t.me/Pancakeswap\_Ph))
-* 🇬🇪 Georgia ([https://t.me/PancakeSwapGeorgia](https://t.me/PancakeSwapGeorgia))
-* 😤 Ban Appeal ([https://t.me/pancakebanappeal](https://t.me/pancakebanappeal))
+* 🇬🇪 Georgiano ([https://t.me/PancakeSwapGeorgia](https://t.me/PancakeSwapGeorgia))
+* 😤 Apelação de Banimento ([https://t.me/pancakebanappeal](https://t.me/pancakebanappeal))
 
 {% hint style="danger" %}
-Admins will NEVER send you a direct message. If anybody approaches you directly on e.g. Telegram pretending to represent customer support, please block them and report spam.
+Os administradores NUNCA enviarão uma mensagem privada direta para você. Se alguém se aproximar de você diretamente, por exemplo no Telegram, fingindo representar o suporte ao cliente, bloqueie-os e denuncie spam.
 {% endhint %}
 
 {% hint style="danger" %}
-**NEVER, under any situation, should you ever give someone your private key or recovery phrases. Immediately block and report anyone that asks for them.**
+**NUNCA, em nenhuma situação, você deve dar a alguém sua chave privada ou frase de recuperação. Bloqueie e denuncie imediatamente qualquer pessoa que peça por eles.**
 {% endhint %}

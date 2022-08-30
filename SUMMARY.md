@@ -14,9 +14,9 @@
 * [Fale Conosco](contact-us/README.md)
   * [Parcerias de Negócios](contact-us/business-partnerships.md)
   * [Inscrições para o Mercado de NFT](contact-us/nft-market-applications.md)
-  * [Customer Support](contact-us/customer-support.md)
-  * [Social Accounts & Communities](contact-us/telegram.md)
-* [The Kitchen Team](the-kitchen-team.md)
+  * [Suporte ao Cliente](contact-us/customer-support.md)
+  * [Redes Sociais & Comunidades](contact-us/telegram.md)
+* [A Equipe da Cozinha](the-kitchen-team.md)
 * [Roadmap](roadmap.md)
 * [Brand & Logos](brand.md)
 

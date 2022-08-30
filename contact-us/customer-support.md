@@ -1,18 +1,18 @@
-# Customer Support
+# Suporte ao Cliente
 
 ![](../.gitbook/assets/customer-support-header.png)
 
-## There is NO customer support for PancakeSwap.
+## NÃO existe suporte ao cliente na PancakeSwap.
 
-If you're experiencing issues,
+Se você estiver enfrentando problemas,
 
-1. First check [the troubleshooting page](../help/troubleshooting.md) for your error code
-2. If you can't find a solution, try reaching out in your local [Telegram group](telegram.md).
+1. Primeiro verifique [a página de solução de problemas](../help/troubleshooting.md) para encontrar seu erro
+2. Se você não conseguiu encontrar uma solução, tente atráves dos nossos grupos locais no [Telegram](telegram.md).
 
 {% hint style="danger" %}
-Admins will NEVER send you a direct message. If anybody approaches you directly on e.g. Telegram pretending to represent customer support, please block them and report as spam.
+Os administradores NUNCA enviarão uma mensagem direta no privado para você. Se alguém se aproximar de você diretamente, por exemplo, no Telegram fingindo representar o suporte ao cliente, bloqueie-os e denuncie como spam.
 {% endhint %}
 
 {% hint style="danger" %}
-**NEVER, under any situation, should you ever give someone your private key or recovery phrases. Immediately block and report anyone that asks for them.**
+**NUNCA, em nenhuma situação, você deve dar a alguém sua chave privada ou frase de recuperação. Bloqueie e denuncie imediatamente qualquer pessoa que peça por isso.**
 {% endhint %}
