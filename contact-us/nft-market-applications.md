@@ -1,19 +1,35 @@
-# NFT Market Applications
+# Inscrições para o Mercado de NFT
 
-## Apply for NFT Market Listing
+## Inscreva-se para listagem no Mercado de NFT
 
 ![](../.gitbook/assets/nft-masthead.png)
 
-In phase 2 of the NFT Market, collection owners will be able to list their collections so that NFT holders may buy and sell them.
+Os criadores de coleções NFT podem ganhar royalties de criadores em negociações na PancakeSwap, além de obter visibilidade para seu projeto no mercado de NFT mais proeminente na BNB Smart Chain.
 
-NFT collection creators can earn creator royalties on trades on PancakeSwap, as well as getting visibility for their project on the most prominent NFT marketplace on BNB Smart Chain.
+[Inscreva-se para listar no Mercado de NFT da PancakeSwap](https://docs.google.com/forms/d/e/1FAIpQLSdLjOEiJT4s8No2QT2TKknuUSlVMndARFgng4MDJMsoFQjR-A/viewform)
 
-We're now accepting applications for Phase 2 of the Marketplace, which was be released in Q4 2021.
+### Requisitos básicos para NFT&#x20;
 
-[Apply for Listing on PancakeSwap NFT Market](https://docs.google.com/forms/d/e/1FAIpQLSdLjOEiJT4s8No2QT2TKknuUSlVMndARFgng4MDJMsoFQjR-A/viewform)
+Técnico:&#x20;
 
-## Something else
+* Seguir o padrão BEP-721&#x20;
+* 100% mintado&#x20;
+* Os metadados devem ser hospedados no IPFS ou em uma plataforma descentralizada semelhante&#x20;
 
-You can shoot us an email at info@pancakeswap.com if the above parts don't cover your questions.
+Business:&#x20;
 
-Please don't try to contact us via this email for [customer support](customer-support.md), that's not what it's for and we won't respond: your best option for getting help with the product is via the [Telegram or Reddit community](telegram.md).
+* Estabeleceu uma comunidade ativa&#x20;
+* Tem um site em funcionamento com informações detalhadas sobre as coleções&#x20;
+* Tem redes sociais ativas&#x20;
+
+Além desses requisitos, a equipe de BD fará mais perguntas de due diligence e os projetos serão avaliados caso a caso.
+
+### Quanto tempo levará para obter uma resposta?&#x20;
+
+Nosso objetivo é responder às inscrições em uma semana, mas devido a um grande número de solicitações, não podemos responder a todos os candidatos. Se você não receber uma resposta nossa dentro de duas semanas após a inscrição, tente entrar em contato com @PancakeSwapBD no Telegram, com **o nome do seu projeto e os detalhes da inscrição.**
+
+## Alguma coisa mais
+
+Você pode nos enviar um e-mail para info@pancakeswap.com se as partes acima não cobrirem suas dúvidas.&#x20;
+
+Por favor, não tente entrar em [contato conosco](https://docs.pancakeswap.finance/v/portuguese-brazilian/contact-us/customer-support) através deste e-mail para suporte ao cliente, não é para isso e não responderemos: sua melhor opção para obter ajuda com o produto é através da comunidade [Telegram ou Reddit](https://docs.pancakeswap.finance/v/portuguese-brazilian/contact-us/telegram).

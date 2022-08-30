@@ -13,7 +13,7 @@
   * [Tutorial da Binance Academy](help/binance-academy-guide.md)
 * [Fale Conosco](contact-us/README.md)
   * [Parcerias de Negócios](contact-us/business-partnerships.md)
-  * [NFT Market Applications](contact-us/nft-market-applications.md)
+  * [Inscrições para o Mercado de NFT](contact-us/nft-market-applications.md)
   * [Customer Support](contact-us/customer-support.md)
   * [Social Accounts & Communities](contact-us/telegram.md)
 * [The Kitchen Team](the-kitchen-team.md)
