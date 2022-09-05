@@ -6,90 +6,94 @@ description: '"Don''t call it a roadmap"'
 
 ![](.gitbook/assets/roadmap-header.png)
 
-_Updated on April. 13, 2022_
+_Atualizado em 15 de Julho, 2022_
 
-### Finally, it's a roadmap not a to-do list.
+### Finalmente, isso é um roadmap e não uma lista de tarefas.
 
-Crypto moves fast, and we move fast too.
+Cripto se move rápido, e nós nos movemos rápido também.&#x20;
 
-Pivoting is a way of life.
+Pivotar é um modo de vida.&#x20;
 
-That means that we don’t publicly commit to specific timelines, so we can organize our development priorities based on market changes and developer resources.
+Isso significa que não nos comprometemos publicamente com cronogramas específicos, para que possamos organizar nossas prioridades de desenvolvimento com base nas mudanças do mercado e nos recursos do desenvolvedor.
 
-![](<.gitbook/assets/2022 Q2 en.png>)
+<figure><img src=".gitbook/assets/2022 Q3.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Due to considerations of security and confidentiality, some items are not included in the ‘Cooking In’ section.
+Devido a considerações de segurança e confidencialidade, alguns itens não estão incluídos na seção 'Cozinhar/Cooking'.
 {% endhint %}
 
 ### Ongoing/Recurring
 
-* Trading Competitions \
-  Collaborate with well-known projects loved by the community&#x20;
-* Regular IFOs, Syrup Pools + Farms
-* Farm Auctions
-* Site-Wide UI/UX Upgrades & Bug Fixes
-* Hackathon
+* IFOs Regularmente
+* Novos Farms e Pools de Syrup regularmente \
+  Agora alguns são apenas Pool de Syrup
+* Leilões de Farm
+* Conserto de Bug, Upgrade de performance e UI/UX
 
-### Cooking in Q2
+### Cozinhando no Q3
 
-* Fixed-Term Staking Benefits&#x20;
-  * Farm yield booster&#x20;
-  * Hodl to participate in IFOs&#x20;
-* Prediction Upgrades\
-  Multi-currency & more
-* Lottery Upgrades\
-  Lottery by staking & more&#x20;
-* Zap\
-  Provide liquidity in one click
+* Benefícios do Stake de Prazo Fixo&#x20;
+  * Booster de yield Farm
+  * Poder de voto ponderado
+* Atualizações da Loteria\
+  Loteria por stake e mais&#x20;
+* Multichain\
+  Explorando as possibilidades de pular mais longe enquanto vira mais CAKE
+* Stablecoin Swap\
+  Uma melhor experiência de swap, otimizada para stablecoins
 
 ### Backlogs
 
-* Overview pages for Earn, Win
-  * Personal dashboard
-  * Portfolio
-* NFT Market Phase 3 - open NFT platform
+* Gameficação de NFT\
+  Potencial colaborações com outros projetos top da BNB Chain
+* Mercado de NFT \
+  Fase 3 - plataforma aberta de NFT\
+  Outras melhorias e upgrades
 
-### Done
+### Feito
 
 #### Trade
 
+* Zap - Fornecer liquidez em um clique
 * Perpetual Trading
-* Limit Orders
-* Charts & other trading features on-site
-* Migration to Exchange V2 (exchange, liquidity, farms)
-* Major performance upgrades
-* Team Battle 1 & 2(Trading Comps as a Service)
+* Ordens Limite
+* Gráficos & outros recurso de trade no site
+* Migração para a Exchange V2 (exchange, liquidez, farms)
+* Principais upgrades de desempenho
+* Batalha de Equipes 1 & 2(Competição de Trade como Serviço)
 
-#### Earn
+#### Ganhe
 
-* CAKE Staking
-* Core Pools, Farms
-* Community Pools: Host BSC community project Pools, support with 0.1-0.2x CAKE farms
-* Auto-compounding CAKE-CAKE Syrup Pool
-* Syrup Pool Boosts
-* APR/APY Calculator v2
-* Harvest all function
+* Stake de CAKE \
+  com Side Pool de CAKE - Stake Flexível de CAKE do lado do stake bloqueado
+* Benefícios do Stake de Prazo Fixo&#x20;
+  * iCAKE, Benefícios do IFO&#x20;
+  * Eventos com projetos bem conhecidos
+* Pools do Core, Farms
+* Pools da Comunidade: Hospede uma Pool de um projeto de comunidade na BSC, apoio com farms de 0.1-0.2x CAKE
+* Pool de Syrup com reinvestimento automático CAKE-CAKE&#x20;
+* Boosts na Pool de Syrup
+* Calculadora de APR/APY v2
+* Função Coletar tudo
 
-#### Win
+#### Vença
 
-* Lottery v2
-* Prediction v0.2\
-  with Chainlink Price Chart
+* Loteria v2
+* Previsão v0.2\
+  com Gráfico de Preços da Chainlink e Chainlink Keepers
 
 #### NFT Ecosystem
 
-* NFT Market Phase 1 & 2(buy & sell whitelisted NFT collections)
-* Customizable User Profile
-* NFT drops
-* Pancake Squad generative NFT collection
+* Fase 1 e 2 do Mercado de NFT(Compra e Venda de coleções de NFT listadas)
+* Perfil de usuário customizável
+* Distribuição de NFTs
+* Coleção de NFT generativos Pancake Squad
 
-#### Site Upgrades / CAKE / Other Products
+#### Upgrades do Site / CAKE / Other Products
 
-* Mobile-first navigation & site overhaul
-* Analytics: Info site
-* Voting v2
-* IFO CAKE Pool & IFO 3.0
-* IFO 3.1 - Private Sales with NFT Utility and IFO Syrup Pool
-* PCS Mini-Program in Binance App
-
+* Navegação Mobile-first & revisão do site
+* Analíticos: site de info
+* Votação v2
+* Pool de IFO de CAKE & IFO 3.0
+* IFO 3.1 - Vendas Privada com Utilidade do NFT e Pool de Syrup de IFO
+* Mini-Programa da PCS no App da Binance&#x20;

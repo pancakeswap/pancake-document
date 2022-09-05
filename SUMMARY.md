@@ -18,7 +18,7 @@
   * [Redes Sociais & Comunidades](contact-us/telegram.md)
 * [A Equipe da Cozinha](the-kitchen-team.md)
 * [Roadmap](roadmap.md)
-* [Brand & Logos](brand.md)
+* [Marca & Logos](brand.md)
 
 ## Produtos
 
