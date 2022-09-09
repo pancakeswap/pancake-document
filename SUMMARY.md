@@ -23,7 +23,7 @@
 ## Produtos
 
 * [🔄 Exchange](produtos/pancakeswap-exchange/README.md)
-  * [Token Swaps](produtos/pancakeswap-exchange/trade.md)
+  * [Swap de Tokens](produtos/pancakeswap-exchange/trade.md)
   * [Como Fazer Trade](produtos/pancakeswap-exchange/trade-guide.md)
   * [Liquidity Pools](produtos/pancakeswap-exchange/pancakeswap-pools.md)
   * [Como Adicionar/Remover Liquidez](produtos/pancakeswap-exchange/liquidity-guide.md)
