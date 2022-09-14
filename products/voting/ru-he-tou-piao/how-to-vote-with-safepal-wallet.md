@@ -8,7 +8,7 @@
 
 ![](../../../.gitbook/assets/Safepal-1.PNG)
 
-2\. 在地址栏中输入投票页面的网址。 如果您不知道要投票的提案的直接链接，您可以访问[PancakeSwap的投票界面](https://pancakeswap.finance/voting)并从那里找到相应的提案投票。
+2\. 在地址栏中输入投票页面的网址。 如果您不知道欲投票提案的网址，您可以访问[PancakeSwap的投票界面](https://pancakeswap.finance/voting)并从那里找到相应的提案投票。
 
 ![](../../../.gitbook/assets/Safepal-2.PNG)
 
