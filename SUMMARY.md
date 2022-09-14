@@ -62,7 +62,9 @@
   * [合约详情](products/ifo-initial-farm-offering/he-yue-xiang-qing.md)
 * [📈 信息站](products/info.md)
 * [🗳 投票](products/voting/README.md)
-  * [How to vote with SafePal wallet](products/voting/how-to-vote-with-safepal-wallet.md)
+  * [如何投票](products/voting/ru-he-tou-piao/README.md)
+    * [如何使用SafePal钱包进行投票](products/voting/ru-he-tou-piao/how-to-vote-with-safepal-wallet.md)
+  * [vCAKE](products/voting/vcake.md)
 * [🌐 PancakeSwap迷你小程序](products/pancakeswap-mi-ni-xiao-cheng-xu.md)
 * [🍳 即将到来！](products/ji-jiang-dao-lai.md)
 
