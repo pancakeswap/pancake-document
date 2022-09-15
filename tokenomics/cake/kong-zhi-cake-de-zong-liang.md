@@ -5,7 +5,7 @@
 ## CAKE 有总量限制吗？
 
 是的，CAKE 现在有一个 7.5亿 的硬性总量上限，请查看我们的 v2 白皮书：\
-[https://v2litepaper.pancakeswap.finance/](https://v2litepaper.pancakeswap.finance/)
+[https://v2litepaper-cn.pancakeswap.finance](https://v2litepaper-cn.pancakeswap.finance)
 
 ## 如何减少 CAKE 供应量
 
