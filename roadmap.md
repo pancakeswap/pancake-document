@@ -10,47 +10,47 @@ description: '"No me llames Roadmap"'
 
 
 
-_Actualizado el 13 de Abril de 2022_
+_Actualizado el 15 de Julio de 2022_
 
 ### Chau To-Do List. Hola Roadmap
 
-![](<.gitbook/assets/2022 Q2 es.png>)
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Por seguridad y confidencialidad, algunos ítems no están en la sección de “Cocinando en Q2”.
+Por seguridad y confidencialidad, algunos ítems no están en la sección de “Cocinando”.
 {% endhint %}
 
 ### En Desarrollo/Recurrente
 
-* Competencias de Trading: Colaborar con proyectos conocidos y queridos por la comunidadRegular IFOs, Syrup Pools + Farms
+* Nuevas IFOs
+* Nuevos Syrup Pools + Farms, y algunos sólo Syrup Pools
 * Subastas de Farm
 * Actualizaciones de UI / UX en todo el sitio y correcciones de bugs
-* Hackathon
 
-### Cocinando en Q2
+### Cocinando en Q3
 
 * Staking a Plazo Fijo: Beneficios
   * Farm booster&#x20;
-  * Hodl para participar en IFOs&#x20;
-* Predicción: Actualizaciones\
-  Multi Monedas & más
+  * Poder de voto proporcional&#x20;
+* Multichain\
+  Explorar las posibilidades de pegar saltos más allá, mientras seguimos cocinando CAKES
 * Lotería Actualizaciones\
   Lotería por staking & más
-* Zap\
-  Proveer Liquidez con 1 clic
+* Stablecoin Swap\
+  Una mejor experiencia al realizar intercambios, optimizada para monedas estables.&#x20;
 
 ### Backlogs
 
-* Páginas de información general para Earn, Win
-  * Dashboard Personal&#x20;
-  * Portfolio
+* Gamificación NFT\
+  Potencial colaboración con otros proyectos top de la BNBChain
 * NFT Market Fase 3 - plataforma NFT abierta
 
 ### Hecho
 
 #### Trade
 
-* Trading Perpétuo
+* Zap - Agregar liquidez con un solo click
+* Trading Perpetuo
 * Órdenes Límite
 * Gráficos y otras funciones de trading en el sitio
 * Migración a Exchange V2 (exchange, liquidez, farms)
@@ -59,7 +59,11 @@ Por seguridad y confidencialidad, algunos ítems no están en la sección de “
 
 #### Earn
 
-* CAKE Staking
+* CAKE Staking\
+  Con la posibilidad de tener pool bloqueado y flexible simultáneamente
+* Beneficios para el pool bloqueado\
+  . iCAKE, bCAKE, vCAKE\
+  . Eventos con proyectos conocidos
 * Pools, Farms Core&#x20;
 * Pools de Comunidad: Hostear Pool de Proyectos de BSC, con 0.1-0.2x CAKE farms
 * Auto-compounding CAKE-CAKE Syrup Pool
@@ -71,6 +75,7 @@ Por seguridad y confidencialidad, algunos ítems no están en la sección de “
 
 * Lotería v2
 * Predicción v0.2\
+  con doble opción CAKE o BNB\
   con Gráfico de Precios de Chainlink
 
 #### Ecosistema NFT

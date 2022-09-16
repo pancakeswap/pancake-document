@@ -25,7 +25,7 @@ El multiplicador se calcula utilizando el siguiente método:&#x20;
 
 Estos son algunos ejemplos del cálculo:
 
-![](../../../.gitbook/assets/image.png)
+![](<../../../.gitbook/assets/image (55).png>)
 
 ![](<../../../.gitbook/assets/image (12).png>)
 
