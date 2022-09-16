@@ -9,10 +9,12 @@
 | **Metric**                                                                  | **Emisión/Bloque (CAKE)** | **Emisión/día (CAKE)** |
 | --------------------------------------------------------------------------- | ------------------------: | ---------------------: |
 | Emisión                                                                     |                        40 |              1,152,000 |
-| Quemado Semanal [(PID 138)](cake-tokenomics.md#why-is-the-cake-burn-manual) |                    -26.50 |               -756,000 |
-| **Emisión Efectiva**                                                        |              **<13.75\*** |          **350,000\*** |
+| Quemado Semanal [(PID 138)](cake-tokenomics.md#why-is-the-cake-burn-manual) |                   \~28.85 |              \~830,800 |
+| **Emisión Efectiva**                                                        |             **\~11.16\*** |        **\~321,200\*** |
 
-\*De hecho, la emisión efectiva está ligeramente por debajo de esta cantidad: un total de 45.000 CAKE por día se desvían de la cantidad asignada para la lotería, y es quemada. (PID 137 - Detalles a continuación.)
+{% hint style="info" %}
+El 11 de Agosto, 2022, los Chefs implementaron algunas actualizaciones para poder exprimir al máximo las ventajas del MasterChef v2. Eliminaron la necesidad de quemar por separado 45,000 CAKE perteneciente a las inyecciones de lotería. Esa tarea es ahora manejada directamente por el MasterChef v2 en las quemas semanales de CAKE. Gracias a esto, la emisión efectiva es aún menor.
+{% endhint %}
 
 Además de lo anterior, también se emite una cantidad dinámica de CAKE a la [Dev Address](https://www.bscscan.com/address/0xd4cfec77cdc21573982ec85cf33cfde6cc677e74) a una tasa de 9.09%. Esto significa que si se cosechan 100 CAKE, entonces 9.09 CAKE se emiten además y se envían a la Dev Address
 
@@ -22,12 +24,12 @@ Además de lo anterior, también se emite una cantidad dinámica de CAKE a la [D
 
 ## Distribución <a href="#distribution" id="distribution"></a>
 
-| Distribuido a                    | Reward/bloque (% de emisión) | Reward/bloque (CAKE Total) | Reward/Día          |
-| -------------------------------- | ---------------------------- | -------------------------- | ------------------- |
-| Farms y Lotería                  | 9.37%                        | 3.75                       | 108,000 (aprox)     |
-| Desviadas y quemadas             | ​                            | ​                          | -46,000             |
-| Syrup Pools                      | 25%                          | 10                         | 288,000 (aprox)     |
-| **Emisión Diaria Total de CAKE** | ​                            | ​                          | **350,000 (aprox)** |
+| Distribuido                      | Reward/bloque (% de emisión) | Reward/bloque (CAKE Total) | Reward/Día           |
+| -------------------------------- | ---------------------------- | -------------------------- | -------------------- |
+| Farms                            | \~5.03%                      | \~2.0138                   | 58,000 (approx)      |
+| Lotería                          | \~0.35%                      | \~0.1389                   | 4,000 (approx)       |
+| Syrup Pools                      | \~22.5%                      | \~9                        | 259,200 (approx)     |
+| **Emisión Diaria Total de CAKE** | ​                            | ​                          | **321,200 (approx)** |
 
 {% hint style="info" %}
 El proceso de quema es manual. [Ve las transacciones aquí](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82?a=0x000000000000000000000000000000000000dead).
@@ -58,11 +60,12 @@ En la actualidad, también se quema CAKE de las siguientes maneras:
 
 * **0.0575%** de cada trade en PancakeSwap V2
 * **100%** de CAKE enviada a la Dev address
-* **100%** de CAKE obtenida en IFOs
+* **100%** de CAKE obtenida de performance fees en IFOs
 * **100%** de CAKE gastada en creación de Perfiles y NFTs emitidos
 * **100%** of CAKE obtenida en las Subastas de Farm
 * **20%** de CAKE gastada en Tickets de Lotería
-* **45,000** CAKE por día (históricamente asignadas a la lotería) (_Las CAKE para esto son generadas a través de un Farm - PID 31)_
+* **20%** de las ganancias de Perpetual Trading
+* **45,000** CAKE por día (históricamente asignadas a la lotería) &#x20;
 * **3%** de cada ronda Predicción con BNB se utiliza para comprar CAKE y quemar
 * **3%** de cada ronda de Predicción con CAKE
 * **2%** de cada cosecha en el Pool de CAKE Flexible
