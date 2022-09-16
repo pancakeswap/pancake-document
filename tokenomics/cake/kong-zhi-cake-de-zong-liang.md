@@ -17,4 +17,4 @@
 
 ### 通缩机制
 
-PancakeSwap 内的每一个产品中，都内置了代币销毁机制（[查看燃烧地址](kong-zhi-cake-de-zong-liang.md#reducing-block-emissions)）（比如，购买彩票的 CAKE 中，有 20% 被销毁）。当然，还有更多。请查看 [CAKE 代币经济模型](cake-dai-bi-jing-ji-mo-xing.md)页面，了解现有和即将到来的通缩机制。
+PancakeSwap 内的每一个产品中，都内置了代币销毁机制（[查看燃烧地址](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82?a=0x000000000000000000000000000000000000dead)）（比如，购买彩票的 CAKE 中，有 20% 被销毁）。当然，还有更多。请查看 [CAKE 代币经济模型](cake-dai-bi-jing-ji-mo-xing.md)页面，了解现有和即将到来的通缩机制。
