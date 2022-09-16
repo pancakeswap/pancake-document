@@ -59,7 +59,11 @@ Gana NFTs coleccionables por participar en competiciones de trading y muchos má
 ### Predicción
 
 Gana BNB si puedes predecir si el precio de BNB subirá o bajará.\
-Nuevas rondas cada 5 minutos!\
+Nuevas rondas cada 5 minutos!
+
+### Pottery
+
+Gana mucho más con tus CAKE depositados, una combinación de bloqueo de CAKES (plazo fijo) con Lotería!\
 
 
 ## Es seguro PancakeSwap?
