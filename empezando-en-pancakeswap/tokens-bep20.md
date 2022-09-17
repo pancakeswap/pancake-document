@@ -2,7 +2,7 @@
 
 ![](../.gitbook/assets/bep20.png)
 
-Los tokens nativos de Binance Smart Chain (BSC) son BEP20. Para hacer la mayoría de las cosas en BSC, deberás pagar el gas, que será en BNB BEP20.&#x20;
+Los tokens nativos de BNB Smart Chain (BSC) son BEP20. Para hacer la mayoría de las cosas en BSC, deberás pagar el gas, que será en BNB BEP20.&#x20;
 
 También necesitarás la versión BEP20 de cualquier token que desees intercambiar, depositar, farmear, etc. en BSC.&#x20;
 
