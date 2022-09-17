@@ -19,8 +19,8 @@ Estos dos productos van de la mano en PancakeSwap: cuando un proyecto provee sus
 
 "IFO" (Oferta Inicial de Farming)  es un nuevo modelo de venta de tokens iniciado por PancakeSwap.  En resumen, así funciona,:
 
-* Los usuarios compran tu token con CAKE-BNB LP tokens.
-* Después de la venta, nosotros distribuimos los BNB a ustedes y quemamos las CAKE.
+* Los usuarios compran tu token con CAKE.
+* Después de la venta, una parte de los CAKE son quemados.
 
 Aprendé más de cómo funcionan las IFO [aquí](../productos/ifo-initial-farm-offering/ifo-initial-farm-offering.md).
 
