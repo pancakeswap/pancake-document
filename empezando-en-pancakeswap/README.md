@@ -20,8 +20,9 @@ Una vez creada la Wallet y conectada a PancakeSwap, mira todas las guías que te
 [Cómo agregar/Remover Liquidez\
 ](https://docs.pancakeswap.finance/v/espanol/productos/pancakeswap-exchange/anadir-remover-liquidez)[Cómo Usar los Farms\
 ](https://docs.pancakeswap.finance/v/espanol/productos/yield-farming/como-usar-yield-farm-en-pancakeswap)[Cómo hacer Stake en los Syrup Pools\
-](https://docs.pancakeswap.finance/v/espanol/productos/syrup-pools/como-hacer-el-stake-en-los-syrup-pools)[Cómo Jugar a la Lotería\
-](https://docs.pancakeswap.finance/v/espanol/productos/lottery)[Cómo usar Predicción\
+](https://docs.pancakeswap.finance/v/espanol/productos/syrup-pools/como-hacer-el-stake-en-los-syrup-pools)[Cómo Jugar a la Lotería](../productos/lottery/)\
+[Cómo usar Pottery](../productos/pottery/)\
+[Cómo usar Predicción\
 ](https://docs.pancakeswap.finance/v/espanol/productos/prediccion)[Cómo participar en una IFO\
 ](https://docs.pancakeswap.finance/v/espanol/productos/ifo-initial-farm-offering)[Cómo crear un Perfil en PancakeSwap\
 ](https://docs.pancakeswap.finance/v/espanol/productos/perfil-nft-en-pancakeswap)[Cómo Votar](https://docs.pancakeswap.finance/v/espanol/productos/voting)
