@@ -10,7 +10,7 @@ Hemos dividido el tema de ayuda en secciones para ayudarte a encontrar lo que bu
 
 ### Errores Frecuentes <a href="#troubleshooting-errors" id="troubleshooting-errors"></a>
 
-La página Errores Frecuentes tiene una colección de errores con los que los usuarios pueden encontrarse al usar PancakeSwap. Muestra cada problema con una posible solución  y una razón que explica el por qué ocurrió el problema.
+La página Errores Frecuentes tiene una colección de errores con los que los usuarios pueden encontrarse al usar PancakeSwap. Muestra cada problema con una posible solución  y una razón que explica el porqué ocurrió el problema.
 
 ### Preguntas Frecuentes generales <a href="#general-faq" id="general-faq"></a>
 
