@@ -246,7 +246,7 @@ Este error tiende a aparecer cuando intentas hacer Unstake de un Syrup Pool anti
 
 ### Unsupported Chain ID / Chain ID No Soportada
 
-Cambie su red a Binance Smart Chain. Consulte la documentación de su billetera para obtener una guía si necesita ayuda.
+Cambie su red a BNB Smart Chain. Consulte la documentación de su billetera para obtener una guía si necesita ayuda.
 
 ### Problemas tratando de comprar SAFEMOON y tokens similares
 
