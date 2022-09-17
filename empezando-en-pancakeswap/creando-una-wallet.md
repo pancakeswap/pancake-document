@@ -2,7 +2,7 @@
 
 ![](../.gitbook/assets/wallet.png)
 
-Para comenzar en Pancakeswap, lo primero que necesitas es configurar una billetera que soporte la Binance Smart Chain (BSC). Las billeteras están disponibles tanto como para computadoras de escritorio como teléfonos móviles. Debes elegir una billetera que se adapte mejor a tus necesidades.
+Para comenzar en Pancakeswap, lo primero que necesitas es configurar una billetera que soporte la BNB Smart Chain (BSC). Las billeteras están disponibles tanto como para computadoras de escritorio como teléfonos móviles. Debes elegir una billetera que se adapte mejor a tus necesidades.
 
 {% hint style="danger" %}
 **Cuando configures una billetera, ten en cuenta lo siguiente:**
@@ -39,7 +39,7 @@ A continuación, podes encontrar información mas detallada de cada billetera, a
 
 |                                                                | Trust Wallet                  | MetaMask | Token Pocket | SafePal |
 | -------------------------------------------------------------- | ----------------------------- | -------- | ------------ | ------- |
-| Soporte a Binance Smart Chain                                  | ✅                             | ⚠️       | ✅            | ✅       |
+| Soporte a BNB Smart Chain                                      | ✅                             | ⚠️       | ✅            | ✅       |
 | Navegador DApp incorporado                                     | <p>✅ Android</p><p>⚠️ iOS</p> | ➖        | ✅            | ✅       |
 | Compatible Hardware wallet                                     | ➖                             | ✅        | ➖            | 🔶      |
 | Open source                                                    | ✅                             | ✅        | ✅            | ➖       |
