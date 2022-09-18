@@ -25,7 +25,7 @@
 * [🔄 Exchange](produtos/pancakeswap-exchange/README.md)
   * [Swap de Tokens](produtos/pancakeswap-exchange/trade.md)
   * [Como Fazer Trade](produtos/pancakeswap-exchange/trade-guide.md)
-  * [Liquidity Pools](produtos/pancakeswap-exchange/pancakeswap-pools.md)
+  * [Pools de Liquidez](produtos/pancakeswap-exchange/pancakeswap-pools.md)
   * [Como Adicionar/Remover Liquidez](produtos/pancakeswap-exchange/liquidity-guide.md)
   * [📝Limit Orders](produtos/pancakeswap-exchange/limit-orders/README.md)
     * [Limit Orders FAQ](produtos/pancakeswap-exchange/limit-orders/limit-orders-faq.md)
