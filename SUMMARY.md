@@ -29,7 +29,7 @@
   * [Como Adicionar/Remover Liquidez](produtos/pancakeswap-exchange/liquidity-guide.md)
   * [📝Limit Orders](produtos/pancakeswap-exchange/limit-orders/README.md)
     * [Limit Orders FAQ](produtos/pancakeswap-exchange/limit-orders/limit-orders-faq.md)
-  * [Perpetual Trading](produtos/pancakeswap-exchange/perpetual-trading/README.md)
+  * [Trade de Perpétuos](produtos/pancakeswap-exchange/perpetual-trading/README.md)
     * [Perpetuals Glossary](produtos/pancakeswap-exchange/perpetual-trading/perpetuals-glossary.md)
     * [What is Perpetual Trading?](produtos/pancakeswap-exchange/perpetual-trading/what-is-perpetual-trading.md)
     * [How can I use it?](produtos/pancakeswap-exchange/perpetual-trading/how-can-i-use-it.md)

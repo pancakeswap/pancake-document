@@ -1,7 +1,9 @@
-# Perpetual Trading
+# Trade de Perpétuos
 
 ![](../../../.gitbook/assets/1\_c\_lNyENIc\_iE3Z1Hrr8Hag.png)
 
-The bunnies have rubbed their paws and worked very hard in conjunction with ApolloX to bring this new feature to PancakeSwap. Trade your favorite pairs in a decentralized way on the site! Without intermediaries, easy, fast, safe and within reach of your legs, well, hands.
+Os coelhinhos esfregaram as patas e trabalharam muito em conjunto com a ApolloX para trazer esse novo recurso à PancakeSwap.&#x20;
 
-Oh, and before we forget, this new feature helps the weekly burning of CAKE 🔥
+Faça trade de seus pares favoritos de forma descentralizada no site! Sem intermediários, fácil, rápido, seguro e ao alcance de suas pernas, enfim, mãos.&#x20;
+
+Ah, e antes que a gente esqueça, esse novo recurso ajuda na queima semanal do CAKE 🔥
