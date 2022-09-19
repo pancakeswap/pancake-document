@@ -9,7 +9,7 @@
 | **Metric**             | **Emission/block (CAKE)** | **Emission/day (CAKE)** |
 | ---------------------- | ------------------------: | ----------------------: |
 | Emission               |                        40 |               1,152,000 |
-| Burned Weekly          |                   \~28.85 |               \~830,800 |
+| Burned Weekly          |                   \~28.84 |               \~830,800 |
 | **Effective Emission** |             **\~11.16\*** |         **\~321,200\*** |
 
 {% hint style="info" %}
