@@ -74,10 +74,10 @@ When your fixed-term staking period ends, and your CAKE unlocks, you have 7 days
 
 ![](../../../.gitbook/assets/cake-pool-lock-end.png)
 
-During these 7 days, you will still earn CAKE at the same APY as your lock period.
+During these 7 days, you will still earn CAKE.
 
-After 7 days, if you have not done one of the two options, your staked CAKE will enter what is called "After Burning". In "After Burning", you will still earn CAKE, but a portion of your rewards will be sent to burn at a linearly decreasing APR over 90 days, where your APR will be 0% after 90 days.
+After 7 days, if you have not done one of the two options, your staked CAKE will enter what is called "After Burning". With "After Burning", your CAKE rewards will start to be sent to burn. The % of CAKE rewards being sent to burn will linearly increase in the 90 days "After Burning" period until it reaches 100%, which means all the CAKE rewards are burnt.
 
-The “After Burning” state will last for 90 days until all the CAKE rewards are burnt. So, to avoid missing out on CAKE rewards, we recommend starting a new fixed-term staking period or converting your CAKE to flexible staking at the end of your lock staking period.
+So, to avoid missing out on CAKE rewards, we recommend starting a new fixed-term staking period or converting your CAKE to flexible staking at the end of your lock staking period.
 
 ![](<../../../.gitbook/assets/cake-pool-lock-burn (1).png>)
