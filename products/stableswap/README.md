@@ -14,7 +14,7 @@ When you make a token swap (trade) on the StableSwap you will pay a fee of 0.04%
 
 At launch, the Kitchen will be rolling out StableSwap pairs gradually to test and improve the product further. The first pair to be launched will be **HAY-BUSD**.
 
-[**HAY**](https://helio.money/) **** from Helio Protocol is a fully decentralized algorithmic stablecoin based on BNB collateral. The reasons the HAY-BUSD pair is selected as the first are:
+[**HAY**](https://helio.money/) **** from Helio Protocol is a fully decentralized, BNB overcollateralized [destablecoin](https://docs.helio.money/). The reasons the HAY-BUSD pair is selected as the first are:
 
 * Be one of the first major trading venues for HAY to absorb volume overtime
 * As HAY only recently launched (mid-Aug 2022) compared to other stablecoins, the volume and operational impact from liquidity transfer is more manageable to launch on the StableSwap product

@@ -68,7 +68,7 @@ There will be a 24-hour window starting from StableSwap launch, and before the C
 
 ![](https://lh5.googleusercontent.com/cB4cqAFzpEhnBDCrecAc\_oks\_2xu7gBc\_6BuRupnDNvrOe9MrW\_WF11NGRzu490KZ\_R26ZPRwwmAyRGr2Q14nLORFxzBVV4w98dC1jJvv7I-yfMdsxpNHF9uHxAGwOtFAz6GsyYlJUG2CdxK5\_7BfnhWDnO9U7IfR0b3i0Hfke33sOqQ5axWdHxscQ)
 
-4 - Stake your HAY-BUSD Stable LP in the [farms page](https://pancakeswap.finance/farms) – look for the card with the Stable LP label
+4 - Stake your HAY-BUSD Stable LP in the [farms page](https://pancakeswap.finance/farms) when it's launched on Sep 23 – look for the card with the Stable LP label
 
 ![](https://lh6.googleusercontent.com/wWGXLFRQFMesilP4pMEUieR-qezbiCdTVhT7geBJuDwIIcC4hqwzgOjEIvRkViBVj-j4hmc9K5fB6vhuHJk8ZyrQfYBRqK1e2yGkiJZhlH5J4PDJu-xT6us-x9dVbodhAW5mm8qZ5yb8HkRrZy1bRz4SKc26jm1lMpTiV3S6tT1WyDtHL8Yj13rp8w)
 
