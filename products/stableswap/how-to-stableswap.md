@@ -14,6 +14,8 @@ Trading on the StableSwap is very similar to using the existing PancakeSwap AMM.
 
 3 - Choose the token pairs you would like to trade. At launch, only one pair (HAY-BUSD) will be added, more stable pairs will be added gradually
 
+![](<../../.gitbook/assets/Screenshot 2022-09-22 at 7.13.54 PM.png>)
+
 4 - From this step on, the swap process is the same as the normal PancakeSwap! Please check the guide [here](https://docs.pancakeswap.finance/products/pancakeswap-exchange/trade-guide) from step 4 onwards
 
 ## **Adding & Removing Liquidity**
@@ -28,7 +30,7 @@ There are a few differences for StableSwap liquidity:
 
 2 - The supply of the two assets can be imbalanced at the stage of supplying, and there will be a confirmation page to show the ratio of your supply.
 
-![](https://lh6.googleusercontent.com/LKn2WBM8xDYgLOgThwPs8yis\_pTL1MWSCJGE7pWEpf8dxdskorWCjlky0IOESyT4S8QnjTRVVY0zefXu0i\_WCYq-Ow3Fn5wNpuAM\_Kzg4dfBpSY5aadPb5shnDYkbD8jcSrXT963vyiQYO3EYAeoBIF\_3oTfFBs7UVL\_rY0uHrrYVBvjkot7aTA3Cg)
+![](<../../.gitbook/assets/Screenshot 2022-09-22 at 7.15.56 PM.png>)
 
 3 - You would receive a Stable-LP token as the receipt of the liquidity provision, for future withdrawal and removal.
 
@@ -36,7 +38,7 @@ There are a few differences for StableSwap liquidity:
 
 4 - However, PLEASE NOTE that when you remove the liquidity, you will always get 50%/50% in the assets no matter the ratio when you added the supply. As a simplified example, if you supplied 199 HAY and 1 BUSD, when you remove the liquidity you will receive 100 HAY and 100 BUSD assuming 0 slippage and stable 1:1 prices.
 
-![](https://lh4.googleusercontent.com/BDOFWMNRXttbnJcjLc0pzsJt7IAHFVOZN0FMub6YOk0\_wweXifXRUQ4921GVuWASHkHfwtZGCKT1yqvURmuJajJoAhchlgbXEZ4r97DjjaBvPHBz9hyq\_VFo1S0EBaU08oz-F1k2CIz9iDeWm2UUblFRB4TZ89B45vzMwheJrsDs86Em9eUfMCgZpA)
+![](<../../.gitbook/assets/Screenshot 2022-09-22 at 7.16.55 PM.png>)
 
 ## **Migrate your HAY-BUSD Farm Staking**
 
