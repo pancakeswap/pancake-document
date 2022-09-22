@@ -1,47 +1,46 @@
-# Limit Orders FAQ
+# Perguntas Frequentes sobre Ordens Limite
 
 {% hint style="info" %}
-Use the sidebar to quickly find the answers to your questions!
+Use a barra lateral para encontrar rapidamente as respostas para suas perguntas!
 {% endhint %}
 
-## General Questions
+## Questões Gerais
 
-### Why was my order not executed?
+### Por que minha ordem não foi executada?
 
-Limit orders are executed when they reach their desired price, however, due to gas fluctuations, the actual execution price might vary from the price you specified on the interface. Usually, the execution price and the desired price should be almost identical, however, if you submitted a particularly small order (\~<1000$) the execution price might be slightly higher to account for fees.&#x20;
+As ordens limite são executadas quando atingem o preço desejado, no entanto, devido às flutuações do gás, o preço real de execução pode variar do preço especificado na interface. Normalmente, o preço de execução e o preço desejado devem ser quase idênticos, no entanto, se você enviou uma ordem particularmente pequeno (\~<1000$), o preço de execução pode ser um pouco maior para levar em conta as taxas.
 
-Therefore your order may not be executed because:
+Portanto, sua ordem não pode ser executada porque:
 
-* It wasn’t possible to fill the whole order at the desired price and amount due to price impact.
-* One of the tokens in the limit order has fee on transfer (see below).
+* Não foi possível preencher toda a ordem com o preço e a quantidade desejados devido ao impacto no preço(price impact).
+* Um dos tokens na ordem limite tem taxa de transferência (veja abaixo).
 
-**Before submitting an order, please consult the UI denoting the real execution price.**
+**Antes de enviar uma ordem, consulte a interface do usuário que indica o preço real de execução.**
 
 {% hint style="info" %}
-Please note: the order history table gets the data from Subgraph and can show slightly delayed information.
+Observe: a tabela de histórico de pedidos obtém os dados do Subgraph e pode mostrar informações ligeiramente atrasadas.
 {% endhint %}
 
-### Can I submit a limit order for tokens with fee on transfer?
+### Posso submeter uma ordem limite para tokens com taxa na transferência?
 
-**No.** The tokens with a fee on transfer should not be used with limit orders. Proceed at your own risk.
+**NÃO.** Os tokens com taxa de transferência não devem ser usados com ordens limite. Prossiga por sua conta e risco. Você poderá perder seus tokens se fizer isso.
 
-### How do I set slippage while using limit orders?
+### Como defino o slippage enquanto uso ordem limites?
 
-Slippage is not relevant in limit orders. You specify input amount (e.g. 1000 CAKE) and output amount (e.g. 20 BNB), Limit orders guarantee that you will receive no less than the specified output amount (20 BNB) for your input amount (1000 CAKE) if the price for the pair reaches the desired price. **Note that tokens with fee on transfer should not be used with limit orders** (read above)
+A derrapagem(slippage) não é relevante em ordens limite. Você especifica o valor de entrada (por exemplo, 1000 CAKE) e o valor de saída (por exemplo, 20 BNB). A ordem limite garante que você não vai receber nada menos que a quantidade especificada no valor de saída (20 BNB) para o valor de entrada(1000 CAKE) se o preço do par alcançar o preço desejado. **Observe que os tokens com taxa de transferência não devem ser usados com ordens limite** (leia acima)
 
-### The real execution price shows "never executes". What's this?
+### O preço real de execução mostra "nunca executa" (never executes). O que é isso?
 
-It basically means that you're trying to swap a very small amount of tokens therefore there are not enough tokens to be accounted for the gas fee. In general, you need to increase the amount of the "input" field to get rid of this error.&#x20;
+Basicamente isso significa que você está tentando trocar uma quantidade muito pequena de tokens, portanto, não há tokens suficientes para contabilizar a taxa de gás. Em geral, você precisa aumentar a quantidade no campo de entrada dos tokens para se livrar desse erro.
 
-### Is there an expiration date for my limit orders?
+### Existe uma data de expiração para minhas ordens limite?
 
-Open orders will remain open indefinitely until they get executed or being cancelled by users. A customizable expiration date feature is planned for the near future.
+Ordens abertas permanecerão abertas indefinidamente até serem executadas ou canceladas pelos usuários. Um recurso de data de expiração personalizável está planejado para um futuro próximo.
 
-### Why can’t I create limit orders below the market price?
+### Por que não posso criar ordens limites abaixo do preço do mercado?
 
-To sell below market price, you need **Stop Limit Orders**, not limit orders. Stop Limit Orders feature is coming soon.
+Para vender abaixo do preço de mercado, você precisa de O**rdens Stop Limite**, não ordens limite. O recurso Ordens Stop Limit será lançado em breve.
 
-### I made an order and it is not shown in the order table or stuck at “pending” status.
+### Fiz um pedido e ele não aparece na tabela de pedidos ou trava no status “pendente”.
 
-The order history comes from the subgraph and therefore might show slightly delayed information. Usually, delays are no longer than a couple of minutes at worst. Please refer to the subgraph indicator at the bottom right corner of the order history table.
-
+O histórico de pedidos vem do subgraph e, portanto, pode mostrar informações um pouco atrasadas. Normalmente, os atrasos não são superiores a alguns minutos, na pior das hipóteses. Consulte o indicador de subgraph no canto inferior direito da tabela de histórico de pedidos.

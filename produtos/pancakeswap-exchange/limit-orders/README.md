@@ -1,5 +1,5 @@
-# 📝Limit Orders
+# 📝Ordens Limite
 
-![](../../../.gitbook/assets/limit\_orders\_header.png)
+<figure><img src="../../../.gitbook/assets/limit_orders_header.png" alt=""><figcaption></figcaption></figure>
 
-Limit orders allow you to get your swaps at desired prices by leaving instructions to fill buy or sell orders at specific prices. The trade will only be executed if the price on PancakeSwap reaches your limit price (or better).
+As ordens limite permitem que você obtenha seus swaps a preços desejados, deixando instruções para preencher ordens de compra ou venda a preços específicos. A negociação só será executada se o preço na PancakeSwap atingir o seu preço limite (ou melhor).

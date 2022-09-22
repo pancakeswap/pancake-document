@@ -24,7 +24,7 @@ Seja qual for o token que você escolher, você precisará se certificar de ter 
 
 4\. Escolha o token com o qual deseja negociar na seção "To/Para" como está na imagem. Em seguida, digite um valor da moeda que quer receber em "To/Para" clicando dentro da caixa.
 
-![](<../../.gitbook/assets/image (14).png>)
+![](<../../.gitbook/assets/image (14) (1).png>)
 
 O valor da moeda em "From/De" será estimado automaticamente. Você também pode digitar o valor em "From/De" e ter a estimativa do valor em "To/Para" automaticamente, se desejar.&#x20;
 
@@ -34,7 +34,7 @@ O valor da moeda em "From/De" será estimado automaticamente. Você também pode
 
 6\. Aparecerá uma janela com mais detalhes. Verifique se os detalhes estão corretos.
 
-![](<../../.gitbook/assets/image (16).png>)
+![](<../../.gitbook/assets/image (16) (2).png>)
 
 Quando estiver pronto, clique no botão **Confirm Swap**. Sua carteira pedirá que você confirme a ação.&#x20;
 
