@@ -72,5 +72,5 @@ There will be a 24-hour window starting from StableSwap launch, and before the C
 
 ## Timeline:
 
-* StableSwap launch and HAY-BUSD liquidity provision enabled: **Sep 22 2022 10:00 UTC**
-* Farm migration (CAKE rewards redirect to from HAY-BUSD LP Farm to HAY-BUSD Stable LP Farm)**: Sep 23 2022 10:00 UTC**
+* StableSwap launch and HAY-BUSD liquidity provision enabled: **Sep 22 2022 11:00 UTC**
+* Farm migration (CAKE rewards redirect to from HAY-BUSD LP Farm to HAY-BUSD Stable LP Farm)**: Sep 23 2022 11:00 UTC**
