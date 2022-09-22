@@ -47,6 +47,8 @@
     * [CAKE Syrup Pool FAQ](products/syrup-pool/new-cake-pool/cake-syrup-pool-faq.md)
   * [Other Syrup Pools](products/syrup-pool/syrup-pool-guide/README.md)
     * [Syrup Pool FAQ & Troubleshooting](products/syrup-pool/syrup-pool-guide/syrup-pool-faq.md)
+* [🔄 StableSwap](products/stableswap/README.md)
+  * [How to StableSwap](products/stableswap/how-to-stableswap.md)
 * [🎟 Lottery v2](products/lottery/README.md)
   * [How to Play Lottery v2](products/lottery/lottery-guide.md)
   * [Lottery FAQ](products/lottery/lottery-faq.md)
