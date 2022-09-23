@@ -16,7 +16,7 @@
 
 <figure><img src="../../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
-4\. 从这一步开始，交换过程与正常的 PancakeSwap 相同！ 请从第 4 步开始查看[此处的指南](../pancakeswap-exchange/ru-he-jin-hang-jiao-yi.md)
+4\. 从这一步开始，交换步骤与 Pancakeswap 上普通的代币兑换相同！ 请从第 4 步开始查看[此处的指南](../pancakeswap-exchange/ru-he-jin-hang-jiao-yi.md)
 
 
 
@@ -36,11 +36,11 @@ StableSwap 的流动性有一些不同之处：
 
 <figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
 
-3\. 您将收到一个 Stable-LP 代币作为流动性凭证，以供将来提取和移除。
+3\. 您将收到一个 Stable-LP 代币作为流动性凭证，以供将来提取和移除您的流动性。
 
 <figure><img src="../../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
 
-4\. 但是，请注意，当您移除流动性时，无论您添加供应时的比率如何，您始终会获得资产的 50%/50%。 举个简单的例子，如果您提供了 199 HAY 和 1 BUSD，当您移除流动性时，假设 0 滑点和稳定的 1:1 价格，您将收到 100 HAY 和 100 BUSD。
+4\. 但是，请注意，当您移除流动性时，无论您添加供应时的比率如何，您始终会获得资产的 50%/50%。 举个简单的例子，如果您提供了 199 HAY 和 1 BUSD，当您移除流动性时，假设滑点为 0 和价格稳定在 1:1 ，您将收到 100 HAY 和 100 BUSD。
 
 <figure><img src="../../.gitbook/assets/7.png" alt=""><figcaption></figcaption></figure>
 
@@ -48,13 +48,13 @@ StableSwap 的流动性有一些不同之处：
 
 ## 迁移您的 HAY-BUSD 农场质押&#x20;
 
-在 StableSwap 启动之前，HAY-BUSD 流动性和 LP 农场已经在 PancakeSwap 的正常 v2 AMM 交换中可用。但是，由于我们将 HAY-BUSD 作为我们 StableSwap 上的第一个交易对推出，因此大多数想要交易该代币对的人最终可能会转向 StableSwap，而不是继续使用 v2 AMM 兑换，原因如下：&#x20;
+在 StableSwap 推出之前，HAY-BUSD 流动性和 LP 农场已经在 PancakeSwap 的普通 AMM v2 兑换中启用了。但是，由于我们将 HAY-BUSD 作为我们 StableSwap 上的第一个交易对推出，大多数想要交易该代币对的人最终可能会转向 StableSwap，而不是继续使用 AMM v2 兑换，原因如下：&#x20;
 
-* 您可以使用（与普通AMM）相同的交易步骤更有效地进行交换&#x20;
+* 您可以用（与普通 AMM ）相同的交易步骤，兑换更有效率地
 * 使用 StableSwap 功能，交易滑点低于仅使用恒定乘积公式的普通 AMM&#x20;
 * 与普通 AMM 相比，交易费用较低&#x20;
 
-请注意：如果您目前没有使用 HAY-BUSD LP 进行农场质押，则无需进行任何迁移。&#x20;
+**请注意：如果您目前没有在 HAY-BUSD LP 的农场进行质押，则无需进行迁移。**&#x20;
 
 **为什么农场质押的LP需要要迁移？**&#x20;
 
@@ -70,15 +70,15 @@ StableSwap 的流动性有一些不同之处：
 
 &#x20;2.在[流动性页面](https://pancakeswap.finance/liquidity)移除您的 HAY-BUSD LP 的流动性&#x20;
 
-&#x20;3\. 再次为 HAY-BUSD 添加流动性（这次您应该到StableSwap部分添加，您可以看到上方显示stableLP）
+&#x20;3\. 再次为 HAY-BUSD 添加流动性（这次您应该到 StableSwap 部分添加，您可以看到上方显示 stable LP）
 
 <figure><img src="../../.gitbook/assets/3 (2).png" alt=""><figcaption></figcaption></figure>
 
-4\. 重新质押您的HAY-BUSD LP  到[农场页面](https://pancakeswap.finance/farms)（等到9月23日新农场发射后，请根据stable LP标签查找相应的农场）
+4\. 重新质押您的HAY-BUSD LP  到[农场页面](https://pancakeswap.finance/farms)（等到9月23日新农场发射后，请根据stable LP 标签查找相应的农场）
 
 <figure><img src="../../.gitbook/assets/8.png" alt=""><figcaption></figcaption></figure>
 
 ## 时间线：
 
 * StableSwap 启动和 HAY-BUSD 流动性供应启用：2022 年 9 月 22 日 11:00 UTC&#x20;
-* 农场迁移（CAKE 奖励从 HAY-BUSD LP Farm 重新定向到 HAY-BUSD Stable LP Farm）：2022 年 9 月 23 日 11:00 UTC
+* 农场迁移（CAKE 奖励从 HAY-BUSD LP Farm 重新定向到 HAY-BUSD Stable LP 农场）：2022 年 9 月 23 日 11:00 UTC
