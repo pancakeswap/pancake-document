@@ -50,7 +50,7 @@ Before the StableSwap is launched, HAY-BUSD liquidity and LP farm is already ava
 
 **PLEASE NOTE: If you’re currently not farming with HAY-BUSD LP, you don’t have to do any migration.**
 
-**Why does the farmWhy does the farm staking need to be migrated? staking need to be migrated?**
+**Why does the farm staking need to be migrated?**&#x20;
 
 Since most trading activities of HAY-BUSD will be on the StableSwap using the Stable LP going forward, CAKE incentives should be directed to reward the Stable LP stakers for encouraging them to provide the liquidity. There would be less activity for the original HAY-BUSD LP (with the v2 AMM).
 
