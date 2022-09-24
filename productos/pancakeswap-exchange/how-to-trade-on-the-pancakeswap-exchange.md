@@ -6,13 +6,13 @@ Operar en PancakeSwap es muy fácil en comparación con la mayoría de los excha
 
 ### Configuración para Trading <a href="#getting-set-up-to-trade" id="getting-set-up-to-trade"></a>
 
-Antes de que pueda operar, necesitará una billetera compatible con Binance Smart Chain. Puedes aprender cómo conseguir una [aquí](https://docs.pancakeswap.finance/v/espanol/empezando-en-pancakeswap). También necesitará tener algunos tokens BEP20 para poder tradear, eso puedes encontrarlo [aquí ](https://docs.pancakeswap.finance/v/espanol/empezando-en-pancakeswap/tokens-bep20)
+Antes de que pueda operar, necesitará una billetera compatible con BNB Smart Chain. Puedes aprender cómo conseguir una [aquí](https://docs.pancakeswap.finance/v/espanol/empezando-en-pancakeswap). También necesitará tener algunos tokens BEP20 para poder tradear, eso puedes encontrarlo [aquí](https://docs.pancakeswap.finance/v/espanol/empezando-en-pancakeswap/tokens-bep20).
 
 ### Trading en el exchange de PancakeSwap <a href="#trading-on-the-pancakeswap-exchange" id="trading-on-the-pancakeswap-exchange"></a>
 
-1\. Ir a la página del [exchange](https://pancakeswap.finance/swap)
+1\. Ir a la página del [exchange](https://pancakeswap.finance/swap).
 
-2\. Desbloquee su billetera compatible con Binance Smart Chain haciendo clic en **Unlock Wallet** (también puede conectarse en la esquina superior derecha). Si aún no ha conectado su billetera a PancakeSwap, puede ver la guía aquí. (LINK)
+2\. Desbloquee su billetera compatible con BNB Smart Chain haciendo clic en **Unlock Wallet** (también puede conectarse en la esquina superior derecha). Si aún no ha conectado su billetera a PancakeSwap, puede ver la guía [aquí](../../empezando-en-pancakeswap/como-conectarse-pancakeswap.md).
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-M\_x-4n1tMKitW-VGfmY%2F-M\_xTw4wFN4vQcWbR3y0%2Fimage.png?alt=media\&token=5611427b-88d9-4026-9702-bd6eae84faad)
 
@@ -38,7 +38,7 @@ Su monto en moneda "From" (Desde) se estimará automáticamente. También puede 
 
 Cuando esté listo, haga clic en el botón **Confirmar** **Swap**. Su billetera le pedirá que confirme la acción.
 
-7\. Listo! Puedes hacer click en **View on BscScan** para ver los detalles de la transacción en el explorador.
+7\. Listo! Puedes hacer clic en **View on BscScan** para ver los detalles de la transacción en el explorador.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-M\_x-4n1tMKitW-VGfmY%2F-M\_xb2cdrJGgJYhOQMf6%2Fimage.png?alt=media\&token=4f22356d-ae4d-4975-a4ac-76c3c550d8d8)
 
