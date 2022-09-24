@@ -16,14 +16,14 @@ También puede reclamar sus fondos en cualquier momento eliminando su liquidez.
 
 ## Los Proveedores de Liquidez ganan comisiones de trading <a href="#liquidity-providers-earn-trading-fees" id="liquidity-providers-earn-trading-fees"></a>
 
-Proporcionar liquidez le da una recompensa en forma de tarifas de trading cuando las personas utilizan su fondo de liquidez (su par de monedas agregado)
+Proporcionar liquidez le da una recompensa en forma de tarifas de trading cuando las personas utilizan su fondo de liquidez (su par de monedas agregado).
 
 Cada vez que alguien opera en PancakeSwap, el operador paga una tarifa del 0.25%, **de la cual el 0.17%** se agrega al Fondo de Liquidez del par de swaps en el que operaron.
 
 Por ejemplo:
 
 * Hay 10 tokens LP que representan 10 cake y 10 tokens BNB.
-* 1 LP token = 1 CAKE + 1 BNB
+* 1 LP token = 1 CAKE + 1 BNB.
 * Alguien intercambia10 CAKE por 10 BNB.
 * Otra persona intercambia 10 BNB por 10 CAKE.
 * El pool de liquidez CAKE/BNB ahora tiene 10.017 CAKE y 10.017 BNB.

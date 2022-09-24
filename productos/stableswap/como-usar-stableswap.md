@@ -30,11 +30,11 @@ Hay algunas diferencias para la liquidez de StableSwap:
 
 2 - La aporte de liquidez de los dos activos puede hacerse de forma desigual, y habrá una página de confirmación para mostrar la proporción de su liquidez.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (3).png" alt=""><figcaption></figcaption></figure>
 
 3 - Recibirás un token Stable-LP como recibo de la provisión de liquidez para cuando quieras retirar tu liquidez.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (4).png" alt=""><figcaption></figcaption></figure>
 
 4 - Sin embargo, TENGA EN CUENTA que cuando retire la liquidez, siempre obtendrá 50%/50% en los activos sin importar la proporción cuando agregó la liquidez. Como ejemplo simplificado: si suministró 199 HAY y 1 BUSD, cuando retire la liquidez recibirá 100 HAY y 100 BUSD asumiendo 0 deslizamientos y precios estables de 1:1.
 
@@ -60,17 +60,17 @@ Habrá una ventana de 24 horas a partir del lanzamiento de StableSwap, y antes d
 
 1 - Retire los HAY-BUSD LP desde la [página de farms](https://pancakeswap.finance/farms)
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 2 - Remueva la liquidez de su HAY-BUSD LP en la [página de liquidez](https://pancakeswap.finance/liquidity)
 
 3 - Agregue liquidez nuevamente para HAY-BUSD (esta vez deberías ver que estás agregando a LP estable durante el proceso)
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 4 - Deposite su LP estable HAY-BUSD en la [página de Farms](https://pancakeswap.finance/farms) cuando se lance el 23 de septiembre: busque el Farm con la etiqueta LP estable
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Timeline:**
 
