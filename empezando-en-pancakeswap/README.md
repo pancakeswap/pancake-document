@@ -2,7 +2,7 @@
 
 ![](../.gitbook/assets/como-empezar.png)
 
-Cualquier cosa nueva puede ser un desafío, pero no te preocupes! Creamos unas guías para que sepas cómo arrancar y te sientas cómodo en PancakeSwap
+Cualquier cosa nueva puede ser un desafío, pero no te preocupes! Creamos unas guías para que sepas cómo arrancar y te sientas cómodo en PancakeSwap.
 
 ## Configuración de PancakeSwap
 
@@ -20,7 +20,7 @@ Una vez creada la Wallet y conectada a PancakeSwap, mira todas las guías que te
 [Cómo agregar/Remover Liquidez\
 ](https://docs.pancakeswap.finance/v/espanol/productos/pancakeswap-exchange/anadir-remover-liquidez)[Cómo Usar los Farms\
 ](https://docs.pancakeswap.finance/v/espanol/productos/yield-farming/como-usar-yield-farm-en-pancakeswap)[Cómo hacer Stake en los Syrup Pools\
-](https://docs.pancakeswap.finance/v/espanol/productos/syrup-pools/como-hacer-el-stake-en-los-syrup-pools)[Cómo Jugar a la Lotería](../productos/lottery/)\
+](../productos/syrup-pools/#how-can-i-use-syrup-pools)[Cómo Jugar a la Lotería](../productos/lottery/)\
 [Cómo usar Pottery](../productos/pottery/)\
 [Cómo usar Predicción\
 ](https://docs.pancakeswap.finance/v/espanol/productos/prediccion)[Cómo participar en una IFO\
@@ -29,4 +29,4 @@ Una vez creada la Wallet y conectada a PancakeSwap, mira todas las guías que te
 
 Chequea el menú para obtener más documentación sobre la gama de características y servicios de PancakeSwap, incluidas guías más avanzadas.
 
-Si no puedes encontrar lo que estás buscando aquí, te invitamos al [Grupo Oficial de Telegram en Español](https://t.me/PancakeSwapEs) para que despejes todas tus dudas y te unas a la comunidad de los conejos y los panqueques
+Si no puedes encontrar lo que estás buscando aquí, te invitamos al [Grupo Oficial de Telegram en Español](https://t.me/PancakeSwapEs) para que despejes todas tus dudas y te unas a la comunidad de los conejos y los panqueques.
