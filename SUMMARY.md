@@ -37,6 +37,7 @@
     * [Cómo usar Staking Bloqueado](productos/syrup-pools/nuevo-cake-pool/como-usar-staking-bloqueado.md)
     * [Cake Syrup Pool FAQ](productos/syrup-pools/nuevo-cake-pool/cake-syrup-pool-faq.md)
   * [Syrup Pool FAQ & Errores Frecuentes](productos/syrup-pools/syrup-pool.md)
+* [StableSwap](productos/stableswap.md)
 * [🎟 Lotería v2](productos/lottery/README.md)
   * [Cómo Jugar a la Lotería V2](productos/lottery/como-jugar-loteriav2.md)
   * [Lotería: FAQ](productos/lottery/lottery-faq.md)
