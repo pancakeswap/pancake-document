@@ -2,19 +2,19 @@
 
 ![](../../.gitbook/assets/exchange.png)
 
-PancakeSwap es un Creador de Mercado Automatizado (AMM), y el  Exchange es el corazón de PancakeSwap. PancakeSwap es el AMM líder en la Binance Smart Chain  y, como dicen las estadísticas, ¡el exchange descentralizado (DEX) más popular de la historia!
+PancakeSwap es un Creador de Mercado Automatizado (AMM), y el  Exchange es el corazón de PancakeSwap. PancakeSwap es el AMM líder en la BNB Smart Chain  y, como dicen las estadísticas, ¡el exchange descentralizado (DEX) más popular de la historia!
 
 El Exchange de PancakeSwap ofrece varias características:
 
 ### Swapping/Trading <a href="#swapping-trading" id="swapping-trading"></a>
 
-PancakeSwap permite a los usuarios operar sin la necesidad de pasar por un exchange centralizado. Todo lo que haces en PancakeSwap se enruta directamente a través de tu propia billetera, ¡no hay necesidad de confiar en otra persona tus criptomonedas!
+PancakeSwap permite a los usuarios operar sin la necesidad de pasar por un exchange centralizado. Todo lo que haces en PancakeSwap se enruta directamente a través de tu propia billetera, ¡no hay necesidad de confiar a otra persona tus criptomonedas!
 
 ### Liquidity Pools (Pools de Liquidez) <a href="#liquidity-pools" id="liquidity-pools"></a>
 
 Solo puede intercambiar tokens en PancakeSwap si hay suficiente liquidez para esos tokens. Si nadie ha agregado mucha liquidez para el token o tokens que desea intercambiar, será difícil, costoso o imposible hacerlo.
 
-Proporcionar liquidez le dará tokens LP, que le ganarán recompensas en forma de fees de trading para asegurarse de que siempre haya liquidez para que el intercambio la use
+Proporcionar liquidez le dará tokens LP, que le ganarán recompensas en forma de fees de trading para asegurarse de que siempre haya liquidez para que el intercambio la use.
 
 ### Yield Farming <a href="#yield-farming" id="yield-farming"></a>
 
