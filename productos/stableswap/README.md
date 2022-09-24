@@ -1,4 +1,4 @@
-# StableSwap
+# 🔄 StableSwap
 
 StableSwap en PancakeSwap es una función para negociar pares estables con un deslizamiento más bajo basado en una función de deslizamiento de curva invariable. Está diseñado para intercambiar activos específicos que tienen un precio cercano, como monedas estables en USD (p. ej., HAY, BUSD y USDT) o tokens de participación de liquidez (p. ej., stkBNB y aBNBc).
 

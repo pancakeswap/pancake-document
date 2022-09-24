@@ -24,26 +24,28 @@ El Farming es un poco más complicado y necesita Tokens LP para ganar CAKE.\
 
 Tenemos una Guía de [Yield Farming](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) si te interesa aprender.
 
-## Es PancakeSwap seguro?
+##
 
-See for yourself:
+## Es seguro PancakeSwap?
 
-* Check out these PancakeSwap security audits:&#x20;
-  * [Certik’s security audit of PancakeSwap](https://www.certik.org/projects/pancakeswap) and [Certik's Shield insurance](https://shield.certik.foundation/)
-  * [Slowmist's security audit of PancakeSwap](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20%20-%20PancakeSwap.pdf)
-  * [Slowmist's Auto-CAKE Pool security audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20CakeVault.pdf)
-* Transparent:
-  * We’re built on open-source software: our site and all our Smart Contracts are publicly visible for maximum transparency.&#x20;
-  * Our contracts are verified on BscScan so you know that what you see is what you get: [1](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E) [2](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#code) [3](https://bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812) [4](https://bscscan.com/address/0x1b96b92314c44b159149f7e0303511fb2fc4774f#code) [5](https://bscscan.com/address/0x92E8CeB7eAeD69fB6E4d9dA43F605D2610214E68)&#x20;
-* Security best practices:
-  * The chefs use multisig for all contracts.
-  * Our contracts’ time-lock gives you peace of mind.
+Puedes verlo tú mismo:
+
+* Auditorías de PancakeSwap:&#x20;
+  * [Auditoría por Certik ](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20%20-%20PancakeSwap.pdf)y su [Shield insurance](https://shield.certik.foundation/)
+  * [Auditoría por Slowmist ](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20%20-%20PancakeSwap.pdf)
+  * [Auto-CAKE Pool por Slowmist](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20CakeVault.pdf)
+* Transparencia:
+  * Estamos basados en software de código abierto: nuestro sitio y todos nuestros Contratos Inteligentes son visibles públicamente para obtener la máxima transparencia.
+  * Nuestros contratos están verificados en BscScan. Lo que puedes ver es lo que es [1](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E) [2](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#code) [3](https://bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812) [4](https://bscscan.com/address/0x1b96b92314c44b159149f7e0303511fb2fc4774f#code) [5](https://bscscan.com/address/0x92E8CeB7eAeD69fB6E4d9dA43F605D2610214E68)&#x20;
+* Mejores Prácticas de Seguridad:
+  * Los chefs utilizan multisig para todos los contratos.
+  * El Timelock de nuestros contratos buscan brindar tranquilidad
 
 ## Dónde puedo ver el Roadmap?
 
 Puedes ver nuestra [lista de tareas, nosotros no le decimos Roadmap!](https://docs.pancakeswap.finance/roadmap)
 
-## Cómo conecto mi wallet a la Binance Smart Chain y a PancakeSwap?
+## Cómo conecto mi wallet a la BNB Smart Chain y a PancakeSwap?
 
 Tenemos una [Guía de cómo conectar tu wallet](https://docs.pancakeswap.finance/get-started/connection-guide) cubriendo esto en detalle
 
@@ -59,7 +61,7 @@ Nuestra [Guía de Errores Frecuentes](https://docs.pancakeswap.finance/help/trou
 
 También puedes ver nuestro apartado de [Cómo arreglar transacciones pendientes atoradas](https://docs.pancakeswap.finance/help/unsticking-a-transaction-stuck-as-pending-with-metamask).
 
-## Cuando agregan nuevos Pools?
+## Cuándo agregan nuevos Pools?
 
 Nuevos Pools son agregados frecuentemente. Siempre habrá un anuncio antes del lanzamiento de nuevos Pools.
 
@@ -77,7 +79,7 @@ Puedes ver nuestras [recompensas por bug o potenciales bugs](https://docs.pancak
 
 ## Por qué dice que no tengo BNB?
 
-Si ya transferiste BNB a tu balance en Binance Smart Chain [transferred BNB into your Binance Smart Chain-enabled wallet](https://docs.pancakeswap.finance/get-started/bep20-guide) pero sigues con este error, probablemente no estés conectado a la BSC con tu walet. Asegúrate de estar conectado a la red correcta (BSC).
+Si ya transferiste BNB a tu balance en BNB Smart Chain [transferred BNB into your Binance Smart Chain-enabled wallet](https://docs.pancakeswap.finance/get-started/bep20-guide) pero sigues con este error, probablemente no estés conectado a la BSC con tu walet. Asegúrate de estar conectado a la red correcta (BSC).
 
 ## Cómo puedo votar?
 
@@ -85,7 +87,7 @@ Para obtener más información sobre la votación, puede leer nuestra sección s
 
 ## Cuál es el max supply de CAKE?
 
-$CAKE no tiene un supply (circulante) máximo. El suministro circulante se gestiona a través de la quema incorporada y los eventos de quema regulares.\
+El max supply (máximo circulante) de $CAKE es de 750M. El suministro circulante se gestiona a través de la quema incorporada y los eventos de quema regulares.\
 \
 Para aprender de las tokenomics de cake puedes leer esta sección [learn more about PancakeSwap's tokenomics](https://docs.pancakeswap.finance/tokenomics/cake).
 
@@ -101,9 +103,9 @@ Puede consultar las analíticas de PancakeSwap haciendo clic en la pestaña "**I
 
 ## Está PancakeSwap protegida frente a flash loans?
 
-El vault de PancakeSwap tiene protección anti-flashloan. El token CAKE de PancakeSwap no es vulnerable a los ataques de préstamos flash. A diferencia de los tokens vulnerables, la emisión de CAKE está predefinida y no se puede ajustar en una sola transacción. La propiedad no puede transferirse fuera del contrato de MasterChef.
+El vault de PancakeSwap tiene protección anti-flashloan. El token CAKE de PancakeSwap no es vulnerable a los ataques de préstamos flash. A diferencia de los tokens vulnerables, la emisión de CAKE está predefinida y no se puede ajustar en una sola transacción. La propiedad no puede transferirse fuera del contrato de MasterChefV2.
 
-Otros contratos inteligentes de PancakeSwap, como IFO y Auto-Cake Pool, también están protegidos. Evitan que otros contratos interactúen con ellos, lo que reduce el alcance de los ataques.
+Otros contratos inteligentes de PancakeSwap, como IFO y los Cake Pools, también están protegidos. Evitan que otros contratos interactúen con ellos, lo que reduce el alcance de los ataques.
 
 ## Puedo unirme al equipo de PancakeSwap?
 

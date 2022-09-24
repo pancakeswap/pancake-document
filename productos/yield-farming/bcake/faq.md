@@ -57,7 +57,7 @@ Por lo tanto, cualquiera puede llamar a la función `refresh(address _user, uint
 
 **¿Dónde están mis recompensas de CAKE después de activar o desactivar el potenciador?**
 
-![](<../../../.gitbook/assets/image (4).png>)
+![](<../../../.gitbook/assets/image (4) (3).png>)
 
 Mientras farmea con bCAKE - Farm Boosters, algunas de sus recompensas de CAKE cosechadas pueden almacenarse temporalmente en el contrato de Farm Boosters. Cada vez que esto suceda, verá una línea de puntos debajo de sus "CAKE EARNED" (CAKE ganados), lo que indica que, además del número que se muestra, tiene más recompensas de CAKE en el contrato de Farm Boosters.&#x20;
 
@@ -65,7 +65,7 @@ Mientras farmea con bCAKE - Farm Boosters, algunas de sus recompensas de CAKE co
 
 Para cosecharlos ahora mismo, simplemente haga clic en el botón "Harvest"(Cosechar).
 
-![](<../../../.gitbook/assets/image (3).png>)
+![](<../../../.gitbook/assets/image (3) (1).png>)
 
 Para verificar la cantidad de recompensas adicionales en el contrato de Farm Boosters, desplace el cursor o mantenga presionado el número con la línea de puntos.&#x20;
 
