@@ -8,7 +8,7 @@ description: CAKE定期质押和IFO分配
 
 iCAKE 类似于之前IFO CAKE质押池中的"IFO 积分“，该池在主厨合约v2迁移期间中停用。此次更新后，iCAKE 决定了PancakSwap IFO公开发售中每个地址能提交的 CAKE数量上限。举个例子，如果您的 iCAKE 数值为 200，您可以在即将到来的 IFO 公开销售中提交最高 200 个CAKE 代币。
 
-**iCAKE不是一个新的代币，他是PancakeSwap IFO系统中使用的一个数值度量。**
+**iCAKE不是一个新的代币，他是PancakeSwap IFO系统中使用的一个度量。**
 
 ### iCAKE是怎么计算的？
 
