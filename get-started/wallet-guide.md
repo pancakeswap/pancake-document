@@ -126,13 +126,13 @@ MetaMask 是一个基于浏览器的热门钱包插件，支持 ERC20（以太�
 
 &#x20;
 
-**下载Coinbase 钱包（自动检测您的设备）**
+****[**下载Coinbase 钱包**](https://coinbase-wallet.onelink.me/q5Sx/fdb9b250)**（自动检测您的设备）**
 
-**Coinbase钱包设置指南**
+****[**Coinbase钱包设置指南**](https://www.coinbase.com/wallet/getting-started-mobile)****
 
 
 
-Coinbase 钱包是一个自托管钱包，提供受 Coinbase 钱包服务条款和隐私政策约束的软件服务。 Coinbase Wallet 与 Coinbase.com 不同，Coinbase Wallet 的私钥由用户直接存储
+Coinbase 钱包是一个自托管钱包（_self-custody wallet）_软件，提供的服务受 Coinbase 钱包[服务条款](https://wallet.coinbase.com/terms-of-service)和[隐私政策](https://wallet.coinbase.com/privacy-policy)约束。 Coinbase Wallet 与 Coinbase.com 不同（详见此[网页](https://help.coinbase.com/en/wallet/getting-started/what-s-the-difference-between-coinbase-com-and-wallet)），Coinbase Wallet 的私钥由用户直接存储，不透投过Coinbase服务提供商。此软件可能收费。您不需要 Coinbase.com 帐户即可使用 Coinbase 钱包。
 {% endtab %}
 
 {% tab title="Token Pocket" %}
