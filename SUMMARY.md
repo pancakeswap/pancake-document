@@ -30,7 +30,7 @@
   * [📝Ordens Limite](produtos/pancakeswap-exchange/limit-orders/README.md)
     * [Perguntas Frequentes sobre Ordens Limite](produtos/pancakeswap-exchange/limit-orders/limit-orders-faq.md)
   * [Trade de Perpétuos](produtos/pancakeswap-exchange/perpetual-trading/README.md)
-    * [Perpetuals Glossary](produtos/pancakeswap-exchange/perpetual-trading/perpetuals-glossary.md)
+    * [Glossário do Perpétuos](produtos/pancakeswap-exchange/perpetual-trading/perpetuals-glossary.md)
     * [What is Perpetual Trading?](produtos/pancakeswap-exchange/perpetual-trading/what-is-perpetual-trading.md)
     * [How can I use it?](produtos/pancakeswap-exchange/perpetual-trading/how-can-i-use-it.md)
     * [Perpetual Trading FAQ](produtos/pancakeswap-exchange/perpetual-trading/perpetual-trading-faq.md)
