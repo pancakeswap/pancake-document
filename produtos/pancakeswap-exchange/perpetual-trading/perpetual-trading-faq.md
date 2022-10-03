@@ -1,36 +1,37 @@
-# Perpetual Trading FAQ
+# Perguntas Frequentes sobre o Trade de Perpétuos
 
 ![](../../../.gitbook/assets/general-faq-header.png)
 
-### What is the value contribution of this new feature to the cake holders?&#x20;
+### Qual é a contribuição em valor deste novo recurso para os holders de CAKE?
 
-We expect this new feature to bring in a lot of new users, traders and volume. We want to ensure the value goes back to our CAKE token on top of offering the trading fee discount. 20% of all trading fees from users who sign up on PancakeSwap will be converted to CAKE and burnt.
+Esperamos que esse novo recurso traga muitos novos usuários, traders e volume. Queremos garantir que o valor retorne ao nosso token CAKE, além de oferecer o desconto da taxa de negociação. 20% de todas as taxas de negociação de usuários que se inscreverem pela PancakeSwap serão convertidos em CAKE e queimados.&#x20;
 
-**And the rest of it?**&#x20;
+**E o resto?**&#x20;
 
-The rest are currently reserved for the treasury for ongoing expansion and development of this feature, as well as for an insurance fund for unexpected market events. As the feature matures, we expect to increase the burn portion gradually based on community feedback and governance.
+O restante está atualmente reservado à tesouraria para a contínua expansão e desenvolvimento desse recurso, bem como para um fundo de seguros para eventos inesperados de mercado. À medida que o recurso amadurece, esperamos aumentar a porção de queima gradualmente com base no feedback e na governança da comunidade.
 
-### I can’t see my funds! What happened?
+### Eu não posso ver meus fundos! O que aconteceu?
 
-Remember that you must first deposit your funds into the Futures account!
+Lembre-se de que você deve primeiro depositar seus fundos na conta de Futuros!
 
-### Are there deposit limits?
-| Assets | Limit    | Margin Value |
-| ------ | -------- | ------------ |
-| USDT   | No Limit | 99.99%       |
-| BUSD   | No Limit | 100%         |
-| CAKE   | 5000 CAKE| 90%          |
+### Existe limites de depósito?
 
-### I've deposited funds and still can't see them! What happened?
+| Assets | Limit      | Margin Value |
+| ------ | ---------- | ------------ |
+| USDT   | Sem Limite | 99.99%       |
+| BUSD   | Sem Limite | 100%         |
+| CAKE   | 5000 CAKE  | 90%          |
 
-ApolloX is providing the [support ticket system](https://pancakeswaphelp.zendesk.com/hc/en-us/requests/new) for our perpetual's market! If this is happening to you, click on the headset icon in the top right of the perpetuals page to place a ticket!  
+### Eu depositei fundos e ainda não consigo vê-los! O que aconteceu?
 
-![](../../../.gitbook/assets/ApolloXSupportTicket_Fix.png)
+ApolloX está fornecendo o [sistema de tickets de suporte](https://apolloxbroker.zendesk.com/hc/en-us/requests/new) para nosso mercado de perpétuos! Se isso estiver acontecendo com você, clique no ícone do fone de ouvido no canto superior direito da página de perpétuos para abrir um ticket!
 
-### How does ApolloX determine which user is from PCS and which user is from their own website?&#x20;
+![](../../../.gitbook/assets/ApolloXSupportTicket\_Fix.png)
 
-Based on first time if the address was signed up at PCS' domain or APX's domain, if the wallet address has already signed up with ApolloX, it's treated as APX's users for revenue sharing calc purposes
+### Como a ApolloX determina qual usuário é da PCS e qual usuário é do seu próprio website?
 
-### Are we gonna switch to showing only PCS’s volume on the frontend on the PCS’s version?
+Com base na primeira vez, se o endereço foi registrado no domínio do PCS ou no domínio da APX, se o endereço da carteira já tiver se registrado na ApolloX, ele é tratado como usuários do APX para fins de cálculo de compartilhamento de receita
 
-The frontend is the combined volume since the liquidity is combined and it shows the deep liquidity which also brings the tight spread
+### Vamos mudar para mostrar apenas o volume do PCS no frontend na versão da PCS?
+
+O frontend é o volume combinado, pois a liquidez é combinada e mostra a liquidez profunda que também traz o spread apertado

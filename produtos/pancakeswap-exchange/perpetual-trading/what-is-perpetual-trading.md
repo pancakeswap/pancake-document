@@ -1,17 +1,13 @@
-# What is Perpetual Trading?
+# O que é Trade de Perpétuos?
 
-Perpetuals, perpetual swaps, or perps are a special type of futures contract without an expiration date.
+Perpétuos, swaps perpétuos ou perps são um tipo especial de contrato futuro sem data de vencimento.&#x20;
 
-Futures trading allows users to enter positions on margin (leverage) using borrowed funds to optimize capital. Using leverage allows for a user to enter a position with a larger size than their account balance. For example, a user could take 10x leverage and trade 100 CAKE for the price of 10 CAKE. In this example, the initial margin would be 10 CAKE which is used to collateralize the leveraged position. .
+A negociação de futuros permite que os usuários insiram posições na margem (alavancagem) usando fundos emprestados para otimizar o capital. O uso de alavancagem permite que um usuário insira uma posição com um tamanho maior que o saldo da conta. Por exemplo, um usuário pode tirar 10x de alavancagem e negociar 100 CAKE pelo preço de 10 CAKE. Neste exemplo, a margem inicial seria 10 CAKE que é usada para garantir a posição alavancada.&#x20;
 
-In addition to leverage, futures open the possibility of trading in both directions, buying (long) and selling (short) perpetuals.. Additionally, itallows PancakeSwap to offer more assets to trade even assets not currently on BNB Smart Chain (BSC). Perpetual contracts don’t expire and allow the holder to enjoy trading price action of the underlying asset without owning it.\
+Além da alavancagem, os futuros abrem a possibilidade de negociação em ambas as direções, comprando (long) e vendendo (short) perpétuos. Os contratos perpétuos não expiram e permitem que o titular aproveite a ação do preço de negociação do ativo subjacente sem possuí-lo.
 
-
-For more general information on Perpetual Futures Contracts, please see [our Medium Article](https://medium.com/pancakeswap/launching-perpetual-trading-on-pancakeswap-a-partnership-with-apollox-b3670d4e19d4)&#x20;
-
-
+Para mais informações gerais sobre Contratos Futuros Perpétuos, consulte nosso [artigo no medium](https://medium.com/pancakeswap/lan%C3%A7amento-da-negocia%C3%A7%C3%A3o-de-perp%C3%A9tuos-na-pancakeswap-uma-parceria-com-a-apollox-e81be7566c0a).
 
 {% hint style="info" %}
-Note: In this tutorial we will explain how to use the Perpetual Trading interface in PancakeSwap. We assume that you understand what futures trading is about and know the associated risk. We recommend studying and understanding well about futures before making any trade.
+Nota: Neste tutorial, explicaremos como usar a interface Perpetual Trading no PancakeSwap. Assumimos que você entende do que se trata a negociação de futuros e conhece o risco associado. Recomendamos estudar e entender bem sobre futuros antes de fazer qualquer negociação.
 {% endhint %}
-
