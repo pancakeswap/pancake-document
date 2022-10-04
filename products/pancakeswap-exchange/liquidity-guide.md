@@ -4,7 +4,7 @@
 
 "Liquidity" is central to how PancakeSwap's Exchange works. You can add liquidity for any token pair by staking both through the Liquidity page.
 
-In return for adding liquidity, you'll receive trading fees for that pair, and receive LP Tokens you can [stake in Farms](https://docs.pancakeswap.finance/products/yield-farming/farms) to earn CAKE rewards!
+In return for adding liquidity, you'll receive trading fees for that pair, and receive LP Tokens you can stake in [Farms](https://pancakeswap.finance/farms) to earn CAKE rewards!
 
 ### **Adding liquidity**
 
