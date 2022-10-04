@@ -23,11 +23,11 @@ In this example, we will add liquidity using BNB and CAKE.\
 
 ![](../../.gitbook/assets/Add\_Remove\_LP\_02.png)
 
-3\. For the top Input, click 'Select a currency'. Then choose one of the token in the liquidity pair you want to add liquidity to. Here, we are gong to use BNB as an example.
+3\. For the top Input, click 'Select a currency'. Then choose one of the token in the liquidity pair you want to add liquidity to. Here, we are going to use BNB as an example.
 
 ![](../../.gitbook/assets/Add\_Remove\_LP\_03.png)
 
-4\. For the bottom input, click ‘Select a currency’. And choose the other token in the liquidity pair you want to add liquidity to. Here, we are gong to use CAKE as an example.
+4\. For the bottom input, click ‘Select a currency’. And choose the other token in the liquidity pair you want to add liquidity to. Here, we are going to use CAKE as an example.
 
 ![](../../.gitbook/assets/Add\_Remove\_LP\_04.png)
 
