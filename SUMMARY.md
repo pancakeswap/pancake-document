@@ -35,7 +35,7 @@
     * [Como posso usar isso?](produtos/pancakeswap-exchange/perpetual-trading/how-can-i-use-it.md)
     * [Perguntas Frequentes sobre o Trade de Perpétuos](produtos/pancakeswap-exchange/perpetual-trading/perpetual-trading-faq.md)
 * [🚜 Yield Farming](produtos/yield-farming/README.md)
-  * [How to Use Farms](produtos/yield-farming/how-to-use-farms.md)
+  * [Como Usar os Farms](produtos/yield-farming/how-to-use-farms.md)
   * [bCAKE](produtos/yield-farming/bcake/README.md)
     * [Como usar o bCAKE?](produtos/yield-farming/bcake/como-usar-o-bcake.md)
     * [FAQ](produtos/yield-farming/bcake/faq.md)
