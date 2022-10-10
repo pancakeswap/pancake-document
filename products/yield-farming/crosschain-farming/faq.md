@@ -64,6 +64,11 @@ This fee is charged in every stake transaction. In unstake transactions, this fe
 messagingFee = feeBase + message.length * feePerByte;
 ```
 
+You may find the variables in the formula with in the message bus contract:
+
+* Ethereum: `0x4066d196a423b2b3b8b054f4f40efb47a74e200c`
+* BNB Chain: `0x95714818fdd7a5454f73da9c777b3ee6ebaeea6b`
+
 **5 - The starter fund**
 
 This is not strictly a "fee".&#x20;
