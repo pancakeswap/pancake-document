@@ -12,6 +12,6 @@ Saiba mais sobre o bCAKE e como usá-lo para aumentar seus rendimentos no farm:
 [como-usar-o-bcake.md](como-usar-o-bcake.md)
 {% endcontent-ref %}
 
-{% content-ref url="faq.md" %}
-[faq.md](faq.md)
+{% content-ref url="perguntas-frequentes.md" %}
+[perguntas-frequentes.md](perguntas-frequentes.md)
 {% endcontent-ref %}
