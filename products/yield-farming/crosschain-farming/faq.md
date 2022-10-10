@@ -16,7 +16,11 @@ A small amount of native token (for example, ETH for Ethereum) is required for t
 
 ### **Why do staking and unstaking take 30 minutes to complete?**
 
-To ensure safety. All cross-chain transactions will take around 30 minutes to complete.&#x20;
+All cross-chain transactions will take around 30 minutes to complete. It is because:
+
+* Transactions have to be executed on both the farming blockchain (like Ethereum) and the BNB Chain.
+* Delivering cross-chain messages takes time.
+* To ensure safety and all the data are synced and consistent between different blockchains.
 
 ### **Where are my harvested CAKE rewards?**
 
@@ -71,3 +75,25 @@ Here is the emissions breakdown:
 | Ethereum ETH/USDC        | 0.5x       | 0.0105         |
 | Ethereum ETH/USDT        | 0.2x       | 0.0042         |
 | Ethereum WBTC/ETH        | 0.2x       | 0.0042         |
+
+### What happened during the deposit, harvest and withdrawal?
+
+PancakeSwap crosschain farming is like using a "stand-in" LP token to farm on the BNB Chain, with the same PancakeSwap MasterChef. The CAKE rewards are calculated and distributed on BNB Chain, controlled and guarded by the same MasterChef contract.
+
+#### Upon Deposit:
+
+1. Users request depositing LP tokens on farming blockchains (like Ethereum).
+2. LP tokens are being transferred to farming vault contracts.
+3. Celer message bus is utilised to deliver the "deposit" message to BNB Chain.
+4. An executor on BNB Chain mints the same amount of farming tokens as "stand-ins", and then deposits them into the farms.
+
+#### Upon Harvesting:
+
+Since CAKE rewards are calculated and distributed on BNB Chain. Users can claim their CAKE rewards with a single BNB Chain transaction without the need for cross-chain operations.
+
+#### Upon Withdrawal:
+
+1. Users request withdrawing LP tokens on farming blockchains (like Ethereum).
+2. Celer message bus is utilised to deliver the "withdraw" message to BNB Chain.
+3. An executor on BNB Chain withdraws the farming tokens from the farms, burns those tokens, transfers the earned CAKE to users, and utilises the Celer message bus to deliver the confirmation message back to the original farming blockchain.
+4. An executor on the farming blockchain confirms everything and then releases the LP tokens from the vault contracts.
