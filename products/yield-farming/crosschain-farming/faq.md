@@ -56,3 +56,18 @@ We utilise a message bus powered by Celer to route our cross-chain messages. The
 
 This fee is charged in every stake transaction. In unstake transactions, this fee is charged twice since a two-way communication between BNB Chain and other blockchains is required for safety.
 
+### Where are the emissions coming from? Why did the APY not change on the CAKE pool?
+
+_updated on Oct 10 2022_
+
+For now, Chefs have diverted 0.0189 CAKE per block from the CAKE pool to all crosschain farms.&#x20;
+
+Here is the emissions breakdown:
+
+|                          | Multiplier | CAKE per block |
+| ------------------------ | ---------- | -------------- |
+| **CAKE Pool**            | -          | **8.9811**     |
+| **All Crosschain Farms** | -          | **0.0189**     |
+| Ethereum ETH/USDC        | 0.5x       | 0.0105         |
+| Ethereum ETH/USDT        | 0.2x       | 0.0042         |
+| Ethereum WBTC/ETH        | 0.2x       | 0.0042         |
