@@ -56,7 +56,7 @@ We utilise a message bus powered by Celer to route our cross-chain messages. The
 
 This fee is charged in every stake transaction. In unstake transactions, this fee is charged twice since a two-way communication between BNB Chain and other blockchains is required for safety.
 
-### Where are the emissions coming from? Why did the APY not change on the CAKE pool?
+### Where are the emissions coming from?&#x20;
 
 _updated on Oct 10 2022_
 
