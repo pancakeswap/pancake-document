@@ -17,3 +17,5 @@ Yield farming can give better rewards than Syrup Pools, but it comes with a risk
 
 Check out this great [article about Impermanent Loss ](https://academy.binance.com/en/articles/impermanent-loss-explained)from Binance Academy to learn more.
 {% endhint %}
+
+PancakeSwap Crosschain farming is powered by the cross-chain messaging service provided by Celer Network. To learn more, visit: [https://www.celer.network/](https://www.celer.network/)

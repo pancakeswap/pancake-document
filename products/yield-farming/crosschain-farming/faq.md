@@ -60,25 +60,6 @@ We utilise a message bus powered by Celer to route our cross-chain messages. The
 
 This fee is charged in every stake transaction. In unstake transactions, this fee is charged twice since a two-way communication between BNB Chain and other blockchains is required for safety.
 
-```
-messagingFee = feeBase + message.length * feePerByte;
-```
-
-You may find the variables in the formula with in the message bus contract:
-
-* Ethereum: `0x4066d196a423b2b3b8b054f4f40efb47a74e200c`
-* BNB Chain: `0x95714818fdd7a5454f73da9c777b3ee6ebaeea6b`
-
-**5 - The starter fund**
-
-This is not strictly a "fee".&#x20;
-
-For every new user who started doing PancakeSwap cross-chain farming. In the first “stake” transaction, we will deposit 0.005 BNB into their BNB Chain wallet. The corresponding amount of native tokens on the farming chain (like ETH on Ethereum) will be charged from the deposit transaction, using the market rate provided by the price oracle.
-
-This is to help users start their BNB Chain journey with ease. We understand the painfulness of having all the harvested CAKE but not being able to explore the vivid PancakeSwap ecosystem without finding another way to acquire BNB for gas.
-
-This fee only charges once upon the first "stake" transaction.
-
 ### Where are the emissions coming from?&#x20;
 
 _updated on Oct 10 2022_
