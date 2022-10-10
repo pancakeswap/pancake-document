@@ -2,13 +2,13 @@
 
 <figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>\</p></figcaption></figure>
 
-### What should I do on PancakeSwap on Ethereum?
+### What should I do on PancakeSwap on other blockchains?
 
-Provide liquidity, trade and farm as you always have been. If you are a multichain user already, remember to provide liquidity on PancakeSwap on Ethereum as we have CAKE rewards on BNB Smart Chain for you, allowing you to earn even more CAKE without bridging those assets over!
+Provide liquidity, trade and farm as you always have been. If you are a multichain user already, remember to provide liquidity on PancakeSwap on other blockchains that we've deployed on (like Ethereum), as we have CAKE rewards on BNB Smart Chain for you, allowing you to earn even more CAKE without bridging those assets over!
 
 ### **Will there be more pairs?**
 
-Yes, but we will be deploying in steps to ensure we prioritize the safety of user funds and CAKE inflation. Do let us know in the community chats what you think should be added to PancakeSwap on Ethereum.
+Yes, but we will be deploying in steps to ensure we prioritize the safety of user funds and CAKE inflation. Do let us know in the community chats what you think should be added to PancakeSwap on other blockchains, as well as what other blockchains we should deploy PancakeSwap on.
 
 ### **Why the gas cost for staking LP tokens is high?**
 
