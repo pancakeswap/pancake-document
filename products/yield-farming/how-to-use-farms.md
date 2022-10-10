@@ -30,9 +30,7 @@ It may sound intimidating, but it's not too complicated. Let's go through step b
 
 Before you proceed, you'll want to choose a Farm that's right for you. [Visit the Farms page](https://pancakeswap.finance/farms) and you’ll see a list of available Farms.
 
-![](https://lh5.googleusercontent.com/oxanafasV3-ifV5DlpPn1enB42kOdyZPOn1VJbtGts\_MTnyaZ9CK0lqYn9CFuZyQuUUqhLr6mIvzPfLFQXN3zrk4tppm\_Y2ESkAWF29sft9gAMgweJqceauttEoJDIhv7Usp\_CqM)
-
-CAKE-BNB and BUSD-BNB are pinned to the top of the list with the default **Hot** sorting. After the pinned Farms, Hot will show other Farms in order of how new they are.
+![](<../../.gitbook/assets/image (1).png>)
 
 You can choose another sorting option if you like, such as by **APR** for the Farms with the highest reward rate currently.
 
@@ -45,9 +43,7 @@ Now that you've found a Farm to stake in, you will need to add liquidity to get 
 1. Click on the row of the Farm you've chosen from the list. It will open to show more details.
 2. On the left, you'll see some links. Click the **Get (your pair) LP** link.
 
-![](<../../.gitbook/assets/image (153) (1).png>)
-
-This will open the Add Liquidity page for your Farm's pair. We have a [guide to adding liquidity](https://docs.pancakeswap.finance/get-started/liquidity-guide) you can follow to get your LP Tokens.
+![](<../../.gitbook/assets/image (8).png>)
 
 ## Putting your LP Tokens into a farm
 
@@ -55,25 +51,37 @@ Now that you have your LP Tokens, you’re ready to start staking them in a Farm
 
 ### Putting your LP Tokens into the Farm
 
-1. Go back to the [Farms page](https://pancakeswap.finance/farms) and locate your Farm. Click anywhere on the row showing your pair. It will expand to show more details.
+1 - Go back to the [Farms page](https://pancakeswap.finance/farms) and locate your Farm. Click anywhere on the row showing your pair. It will expand to show more details.
 
-![](https://lh4.googleusercontent.com/DbdKZLxqqILLzovnQ752Ed8VFtx3dTh-tZSCfOmQ2BZG7M6hvOLXDzUOYpGFJgNeIbOXBxyryvhhAtXXTppwtOev\_lUqZWikbxLQVJy6kqDz2y3Q360YAVHdLlNkm6yfdNBYi7tQ)
+![](<../../.gitbook/assets/image (6).png>)
 
 When you’re ready, click the **Enable** button and confirm your action in your wallet.
 
-1. After a short wait, the Enable button will change to **Stake LP**. Click it and a new window will appear.
+2 - After a short wait, the Enable button will change to **Stake LP**. Click it and a new window will appear.
 
-![](https://lh4.googleusercontent.com/Mpwe28bYv8e3EcbtGRq8ni57u\_UlESPz\_nOqdTPXB-RjZ8ThcgWvUWI8nOGbOgo5d-Mvj7\_a6J\_POtIftVWCCXdDCf3RVhcpq7OYDQOuhFtSLNiupMQaaNQLmgSo1aJMWky-F9Jc)
+![](<../../.gitbook/assets/image (7).png>)
 
-Type the amount of LP Tokens you would like to farm with into the field, or just click **Max** to use all of your LP Tokens.
+3 - Type the amount of LP Tokens you would like to farm with into the field, or just click **Max** to use all of your LP Tokens.
 
-1. When you have the amount entered, the **Confirm** button will light up. Click it. Your wallet will ask you to confirm your action.
+![](<../../.gitbook/assets/image (5).png>)
 
-![](https://lh3.googleusercontent.com/s\_699JBPT7pxQXK1sO0tvkyEawbhEIZcd\_QFd8VGq9glynryO1YpNIjoa4s-nUOxiVuEU-DOTjs3NvSAn6\_jfp-ONULDJczNeubeYU8bqlWtpAhkunlG0L184CoxbaDZVZ8t16C3)
+4 - When you have the amount entered, the **Confirm** button will light up. Click it. Your wallet will ask you to confirm your action.
 
-1. After a short wait, the window will close, and you will see your new staked LP Token balance in the details.
+5 - After a short wait, the window will close, and you will see your new staked LP Token balance in the details.
 
-![](https://lh3.googleusercontent.com/LatVJszaNP2RwYTf-mNod7AmYa5-y1FafJTnY2I4Nk5tnfR\_7d2b44gwRJqMUGSQy8IKS0TAxmUL0LvUQ7urvBNrsPGc-UWay3WRVDeRCQf\_vIM15j\_FTdXfXb6u4b1S57jExq7F)
+![](<../../.gitbook/assets/image (135).png>)
+
+{% hint style="info" %}
+When you are farming on a different blockchain other than the BNB chain. You will need to wait approximately 30 minutes for the cross-chain transactions to confirm.
+
+![](../../.gitbook/assets/crosschain-farm-wait.png)
+
+To track the progress of a crosschain farming transaction. Click the circular icon on the side of your staked balance, or check out the "Recent Transaction" section in the top right-hand corner.
+{% endhint %}
+
+{% hint style="warning" %}
+When you are farming on a different blockchain other than the BNB chain for the first time. A small amount of native token (for example, ETH for Ethereum) is required for the first-time setup. So the first transaction will be slightly costly.
+{% endhint %}
 
 ## Adding or removing LP Tokens from a Farm
 
@@ -106,12 +114,21 @@ You can harvest your Farm and Syrup Pool rewards together from the Home page. If
 
 To collect your rewards, you’ll need to visit your chosen Farm and collect the CAKE waiting for you.
 
-1. Return to the Farms page [here](https://pancakeswap.finance/farms).
-2. Find the Farm you staked your LP Tokens in, and click the row to view details. You should see an estimate of your rewards under “Cake earned”.
+1 - Return to the Farms page [here](https://pancakeswap.finance/farms).
 
-![](https://lh5.googleusercontent.com/nBfqNjKcuqvj-LhW76CPmV2pyGS-SwGsf1U\_9top7OS7wnl24xQRzudcOgZbQvNc0P8rQetAU9\_52mB9TatXqyMcdCRyMk0nRzel8BqWPGNyiTBGB8Z-c3LcHTJVXaAb5CWyD5J4)
+2 - Find the Farm you staked your LP Tokens in, and click the row to view details. You should see an estimate of your rewards under “CAKE earned”.
 
-1. Click the **Harvest** button and confirm the action in your wallet. After a short wait, the CAKE will be claimed to your wallet for you to use as you like.
+![](<../../.gitbook/assets/image (138).png>)
+
+3 - Click the **Harvest** button and confirm the action in your wallet. After a short wait, the CAKE will be claimed to your wallet for you to use as you like.
+
+{% hint style="info" %}
+When you are farming on a different blockchain other than the BNB chain. You will need to always switch to BNB Smart Chain to harvest your farming rewards.
+
+If your wallet doesn't support chain switching. Staking or unstaking LP tokens will always harvest your CAKE. Please note the harvested CAKE will be distributed on BNB Smart Chain.
+
+![](<../../.gitbook/assets/image (136).png>)
+{% endhint %}
 
 ### How often should I harvest my rewards?
 

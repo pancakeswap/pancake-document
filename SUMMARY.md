@@ -36,10 +36,11 @@
     * [Perpetual Trading FAQ](products/pancakeswap-exchange/perpetual-trading/perpetual-trading-faq.md)
 * [🚜 Yield Farming](products/yield-farming/README.md)
   * [How to Use Farms](products/yield-farming/how-to-use-farms.md)
+  * [Crosschain Farming](products/yield-farming/crosschain-farming/README.md)
+    * [FAQ](products/yield-farming/crosschain-farming/faq.md)
   * [bCAKE](products/yield-farming/bcake/README.md)
     * [How to use bCAKE?](products/yield-farming/bcake/how-to-use-bcake.md)
     * [FAQ](products/yield-farming/bcake/faq.md)
-  * [How to Use Farms with BscScan](products/yield-farming/how-to-use-farms-with-bscscan.md)
 * [🍯 Syrup Pools - Stake CAKE](products/syrup-pool/README.md)
   * [New CAKE Syrup Pool](products/coming-soon/new-cake-pool/README.md)
     * [How to use the Flexible Staking option](products/coming-soon/new-cake-pool/flexible-staking.md)
@@ -122,6 +123,7 @@
 * [Old Tokenomics](reference/old-tokenomics/README.md)
   * [CAKE Tokenomics v1](reference/old-tokenomics/cake-tokenomics-v1.md)
   * [Controlling CAKE supply v1](reference/old-tokenomics/cake-tokenomics-v1-controlling-cake-supply.md)
+* [How to Use Farms with BscScan](reference/how-to-use-farms-with-bscscan.md)
 
 ## Contract Governance <a href="#governance" id="governance"></a>
 

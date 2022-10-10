@@ -88,7 +88,7 @@ For example, here's the ETH/WBNB pair: [https://bscscan.com/address/0x70d8929d04
 2. In **5. balanceOf**, input your wallet address and hit **Query**.
 3. Keep track of the number that's exported. It shows your balance within the LP in the uint256 format, which you'll need in the next step.
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (1).png>)
 
 #### Add or Remove Liquidity
 
@@ -102,7 +102,7 @@ Head to the router contract: [https://bscscan.com/address/0x05ff2b0db69458a0750b
 6. Add your wallet address in **to (address)**.
 7. Deadline must be an epoch time greater than the time the tx is executed.
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 {% hint style="warning" %}
 This can cause very high slippage, and can cause the user to lose some funds if frontrun
@@ -241,8 +241,6 @@ To stop this happening again, **don’t sell your SYRUP.** You still need it to 
 This error has happened because you have sold or transferred SYRUP tokens. SYRUP is minted in a 1:1 ratio to CAKE when you stake in the CAKE-CAKE Syrup Pool. SYRUP must be burned at a 1:1 ratio to CAKE when calling leaveStaking (unstaking your CAKE from the pool), so if you don't have enough, you can't unstake from the pool.
 
 {% embed url="https://dashboard.tenderly.co/tx/binance/0x754e18ceea82acac256b49c2b7a81260f7f86dd5e56ee2e3cc1b6ac864c29a8e" %}
-<img src="https://lh4.googleusercontent.com/KchAcnM6cpX2BotEGppAxPAnY4Xbona6yI6ZWg9FlUUBfPi_YO9ulM1s6htXJVXMzEwl0Uxcvdk8o4yhI7ar5g0TRpLVFjkS4YLKL7FS8Z4uFqeC37sw-TIkrPr7BCZQVpuD-5jO" alt="" data-size="original">
-{% endembed %}
 
 ### Out of Gas error
 
@@ -256,7 +254,7 @@ Try manually increasing the **gas limit** (not gas price!) in your wallet before
 
 A limit of 200000 is usually enough.
 
-![](<../.gitbook/assets/image (2) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1).png>)
 
 The above example is from Metamask; check your wallet's documentation if you aren't sure how to adjust the gas limit.
 {% endtab %}
