@@ -36,6 +36,8 @@
     * [永续合约交易常见问题](products/pancakeswap-exchange/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-jiao-yi-chang-jian-wen-ti.md)
 * [🚜 农场](products/yield-farming.md)
   * [如何使用农场](products/yield-farming/ru-he-shi-yong-nong-chang.md)
+  * [跨链农场](products/yield-farming/kua-lian-nong-chang/README.md)
+    * [FAQ](products/yield-farming/kua-lian-nong-chang/faq.md)
   * [bCAKE](products/yield-farming/bcake.md)
   * [如何通过BscScan使用农场](products/yield-farming/ru-he-tong-guo-bscscan-shi-yong-nong-chang.md)
 * [🍯 糖浆池](products/syrup-pools/README.md)
