@@ -6,7 +6,7 @@ description: '"Don''t call it a roadmap"'
 
 ![](.gitbook/assets/roadmap-header.png)
 
-_Atualizado em 15 de Julho, 2022_
+_Atualizado em 11 de Outubro, 2022_
 
 ### Finalmente, isso é um roadmap e não uma lista de tarefas.
 
@@ -16,7 +16,7 @@ Pivotar é um modo de vida.&#x20;
 
 Isso significa que não nos comprometemos publicamente com cronogramas específicos, para que possamos organizar nossas prioridades de desenvolvimento com base nas mudanças do mercado e nos recursos do desenvolvedor.
 
-<figure><img src=".gitbook/assets/2022 Q3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2022 Q4.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Devido a considerações de segurança e confidencialidade, alguns itens não estão incluídos na seção 'Cozinhar/Cooking'.
@@ -25,22 +25,18 @@ Devido a considerações de segurança e confidencialidade, alguns itens não es
 ### Ongoing/Recurring
 
 * IFOs Regularmente
-* Novos Farms e Pools de Syrup regularmente \
-  Agora alguns são apenas Pool de Syrup
-* Leilões de Farm
+* Novos Farms e Pools de Syrup regularmente&#x20;
+* Leilões de Farm\
+  [Recentemente Atualizados para um novo formato](https://medium.com/pancakeswap/reinventando-a-receita-novas-atualiza%C3%A7%C3%B5es-para-os-leil%C3%B5es-de-farm-da-pancakeswap-4ef34b7e96ff)
 * Conserto de Bug, Upgrade de performance e UI/UX
 
-### Cozinhando no Q3
+### Cozinhando no Q4
 
-* Benefícios do Stake de Prazo Fixo&#x20;
-  * Booster de yield Farm
-  * Poder de voto ponderado
-* Atualizações da Loteria\
-  Loteria por stake e mais&#x20;
 * Multichain\
-  Explorando as possibilidades de pular mais longe enquanto vira mais CAKE
-* Stablecoin Swap\
-  Uma melhor experiência de swap, otimizada para stablecoins
+  PancakeSwap está expandindo para mais blockchains
+* Upgrade do Produto de Trading
+  * Novo router de swap para melhorar a eficiência do capital e experiência de trade
+  * Integração de Market-Maker
 
 ### Backlogs
 
@@ -54,33 +50,44 @@ Devido a considerações de segurança e confidencialidade, alguns itens não es
 
 #### Trade
 
+* Stablecoin Swap
 * Zap - Fornecer liquidez em um clique
 * Perpetual Trading
 * Ordens Limite
 * Gráficos & outros recurso de trade no site
 * Migração para a Exchange V2 (exchange, liquidez, farms)
-* Principais upgrades de desempenho
-* Batalha de Equipes 1 & 2(Competição de Trade como Serviço)
+* Bridge da PancakeSwap
+* Scaneamento de riscos dos tokens
+* Multichain Swap e Liquidez
 
 #### Ganhe
 
-* Stake de CAKE \
-  com Side Pool de CAKE - Stake Flexível de CAKE do lado do stake bloqueado
+* Stake de CAKE&#x20;
+  * Stake de termo fixo
+  * Side Pool de CAKE - Stake Flexível de CAKE do lado do stake bloqueado
 * Benefícios do Stake de Prazo Fixo&#x20;
   * iCAKE, Benefícios do IFO&#x20;
+  * vCAKE, poder de votação ponderado
+  * bCAKE, booster de yield farm
   * Eventos com projetos bem conhecidos
-* Pools do Core, Farms
-* Pools da Comunidade: Hospede uma Pool de um projeto de comunidade na BSC, apoio com farms de 0.1-0.2x CAKE
+* Farms
+* Farms Crosschain
+* Pools de Syrup
+* Pools de Syrup Boost de Farms
 * Pool de Syrup com reinvestimento automático CAKE-CAKE&#x20;
-* Boosts na Pool de Syrup
-* Calculadora de APR/APY v2
+* Calculadora de APR/APY v3
 * Função Coletar tudo
 
 #### Vença
 
 * Loteria v2
 * Previsão v0.2\
+  Atualment com BNB e CAKE\
   com Gráfico de Preços da Chainlink e Chainlink Keepers
+* Batalha de Equipe (Competição de Trade como Serviço)
+* Pottery\
+  Loteria pelo staking\
+  Novo grupo de Pottery todo mês
 
 #### NFT Ecosystem
 
@@ -93,7 +100,10 @@ Devido a considerações de segurança e confidencialidade, alguns itens não es
 
 * Navegação Mobile-first & revisão do site
 * Analíticos: site de info
-* Votação v2
 * Pool de IFO de CAKE & IFO 3.0
-* IFO 3.1 - Vendas Privada com Utilidade do NFT e Pool de Syrup de IFO
+* IFO
+  * Vendas Privada com Utilidade do NFT&#x20;
+  * cIFO, Vendas Privadas com utilidade de ponto dos perfis da PancakeSwap
+  * Vesting de tokens
+  * Integração com iCAKE
 * Mini-Programa da PCS no App da Binance&#x20;
