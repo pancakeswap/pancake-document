@@ -65,7 +65,7 @@ Mientras farmea con bCAKE - Farm Boosters, algunas de sus recompensas de CAKE co
 
 Para cosecharlos ahora mismo, simplemente haga clic en el botón "Harvest"(Cosechar).
 
-![](<../../../.gitbook/assets/image (3) (1).png>)
+![](<../../../.gitbook/assets/image (3) (1) (1).png>)
 
 Para verificar la cantidad de recompensas adicionales en el contrato de Farm Boosters, desplace el cursor o mantenga presionado el número con la línea de puntos.&#x20;
 

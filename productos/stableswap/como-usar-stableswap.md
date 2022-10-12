@@ -26,7 +26,7 @@ Hay algunas diferencias para la liquidez de StableSwap:
 
 &#x20;1 - Cuando selecciona los pares de activos que están habilitados para StableSwap (por ejemplo, HAY-BUSD), la interfaz le indicará que está proporcionando un "LP estable"
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 2 - La aporte de liquidez de los dos activos puede hacerse de forma desigual, y habrá una página de confirmación para mostrar la proporción de su liquidez.
 

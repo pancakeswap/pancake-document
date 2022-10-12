@@ -14,7 +14,7 @@ _Actualizado el 15 de Julio de 2022_
 
 ### Chau To-Do List. Hola Roadmap
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Por seguridad y confidencialidad, algunos ítems no están en la sección de “Cocinando”.
@@ -22,22 +22,18 @@ Por seguridad y confidencialidad, algunos ítems no están en la sección de “
 
 ### En Desarrollo/Recurrente
 
-* Nuevas IFOs
+* Nuevas IFOs y cIFOs
 * Nuevos Syrup Pools + Farms, y algunos sólo Syrup Pools
 * Subastas de Farm
 * Actualizaciones de UI / UX en todo el sitio y correcciones de bugs
 
-### Cocinando en Q3
+### Cocinando en Q4
 
-* Staking a Plazo Fijo: Beneficios
-  * Farm booster&#x20;
-  * Poder de voto proporcional&#x20;
 * Multichain\
-  Explorar las posibilidades de pegar saltos más allá, mientras seguimos cocinando CAKES
-* Lotería Actualizaciones\
-  Lotería por staking & más
-* Stablecoin Swap\
-  Una mejor experiencia al realizar intercambios, optimizada para monedas estables.&#x20;
+  PancakeSwap se está expandiendo hacia otras redes.
+* Actualización de los productos de Trading
+  * Nuevo router del swap, para mejorar la eficiencia del capital y la experiencia del trade
+  * Integración de Market-Maker
 
 ### Backlogs
 
@@ -49,13 +45,15 @@ Por seguridad y confidencialidad, algunos ítems no están en la sección de “
 
 #### Trade
 
+* Stablecoin Swap (estables)
 * Zap - Agregar liquidez con un solo click
 * Trading Perpetuo
 * Órdenes Límite
 * Gráficos y otras funciones de trading en el sitio
 * Migración a Exchange V2 (exchange, liquidez, farms)
-* Actualizaciones de rendimientos principales
-* Batalla por Equipos 1 & 2(Competencias de Trading como un Servicio)
+* Pancake Bridge
+* Scan Risk - Scanner de riesgo potencial de los tokens
+* Swap y liquidez Multichain
 
 #### Earn
 
@@ -66,9 +64,10 @@ Por seguridad y confidencialidad, algunos ítems no están en la sección de “
   . Eventos con proyectos conocidos
 * Pools, Farms Core&#x20;
 * Pools de Comunidad: Hostear Pool de Proyectos de BSC, con 0.1-0.2x CAKE farms
+* Farm en otras redes
 * Auto-compounding CAKE-CAKE Syrup Pool
-* Syrup Pool Boosts
-* APR/APY Calculadora v2
+* Syrup Pool Farm Boosts
+* APR/APY Calculadora v3
 * Función Cosecha Total
 
 #### Win
@@ -77,6 +76,8 @@ Por seguridad y confidencialidad, algunos ítems no están en la sección de “
 * Predicción v0.2\
   con doble opción CAKE o BNB\
   con Gráfico de Precios de Chainlink
+* Team Battle (Competencia de Trading)
+* Pottery (Lotería por staking) - Una nueva serie cada mes
 
 #### Ecosistema NFT
 
@@ -91,5 +92,7 @@ Por seguridad y confidencialidad, algunos ítems no están en la sección de “
 * Analytics: Sitio de Info
 * Votación v2
 * IFO CAKE Pool & IFO 3.0
-* IFO 3.1 - Ventas privadas con utilidad NFT, IFO Syrup Pool
+* IFO\
+  \- Ventas privadas con utilidad NFT, IFO Syrup Pool\
+  \- cIFO. Venta privada con perfil de PCS y utilidad de puntos.
 * PCS Mini-Program en Binance App
