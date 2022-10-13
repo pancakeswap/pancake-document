@@ -1,6 +1,8 @@
-# The Kitchen Team
+# The Zyon Team
 
-![](.gitbook/assets/the-kitchen-team-header.png)
+{% hint style="danger" %}
+**Page under construction**!&#x20;
+{% endhint %}
 
 You can jump to the kitchen interviews article by clicking chef's name.
 
