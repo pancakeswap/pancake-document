@@ -12,6 +12,7 @@
   * [Guía de Binance Academy](click-here-for-help/binance-academy-guia.md)
 * [Contacto](contacto/README.md)
   * [Partnerships de Negocios](contacto/partnerships.md)
+  * [NFT Marketplace](contacto/nft-marketplace.md)
   * [Soporte](contacto/soporte.md)
   * [Redes Sociales & Comunidades](contacto/redes.md)
 * [Roadmap](roadmap.md)

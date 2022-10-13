@@ -24,7 +24,7 @@ En este ejemplo, agregaremos liquidez usando BNB y CAKE.
 
 3\. Para la entrada superior, seleccione BNB (para nuestro ejemplo).
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 4\. Para la entrada inferior, haga clic en 'Select a currency' y elija CAKE.
 
