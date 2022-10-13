@@ -15,6 +15,7 @@
   * [NFT Marketplace](contacto/nft-marketplace.md)
   * [Soporte](contacto/soporte.md)
   * [Redes Sociales & Comunidades](contacto/redes.md)
+* [El Equipo de La Cocina](el-equipo-de-la-cocina.md)
 * [Roadmap](roadmap.md)
 
 ## Products <a href="#productos" id="productos"></a>
