@@ -17,6 +17,7 @@
   * [Redes Sociales & Comunidades](contacto/redes.md)
 * [El Equipo de La Cocina](el-equipo-de-la-cocina.md)
 * [Roadmap](roadmap.md)
+* [Marca y logos](marca-y-logos.md)
 
 ## Products <a href="#productos" id="productos"></a>
 
