@@ -28,7 +28,7 @@ En este ejemplo, agregaremos liquidez usando BNB y CAKE.
 
 4\. Para la entrada inferior, haga clic en 'Select a currency' y elija CAKE.
 
-<figure><img src="../../.gitbook/assets/image (2) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 5\. Ingrese una cantidad en uno de los tokens en "Input". El otro calculará automáticamente.
 
@@ -44,7 +44,7 @@ En este ejemplo, agregaremos liquidez usando BNB y CAKE.
 
 7\. El botón **Supply** se podrá presionar. Haga clic en él
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (4).png" alt=""><figcaption></figcaption></figure>
 
 8\. Aparecerá una ventana que indica cuánto recibirá. Clic en **Confirm Supply**. Su billetera le pedirá que confirme la acción.
 
