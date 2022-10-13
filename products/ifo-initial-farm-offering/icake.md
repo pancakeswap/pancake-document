@@ -54,6 +54,6 @@ iCAKE 类似于之前IFO CAKE质押池中的"IFO 积分“，该池在主厨合�
 
 在每两个IFO之间，厨房会根据**定期质押CAKE糖浆池的平均质押时长**来优化**阈值**。调整将会在**所有社交媒体渠道**上公布。
 
-<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption><p>图片仅供参考，实际「阈值」周数可于当期IFO界面查看。</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>图片仅供参考，实际「阈值」周数可于当期IFO界面查看。</p></figcaption></figure>
 
 您可以通过悬停或点击蛋糕糖浆池窗口中带下划线的iCAKE文本，来检查当前**阈值**。

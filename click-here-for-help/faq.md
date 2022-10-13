@@ -25,7 +25,7 @@
 
 您可以在糖浆池中质押 CAKE 并赚取 CAKE 或其他代币，访问 [糖浆池页面](https://pancakeswap.finance/pools)。
 
-详情请查看我们的 [如何在糖浆池中质押指南](../products/syrup-pools/ru-he-zai-tang-jiang-chi-nei-zhi-ya.md) 。
+详情请查看我们的 [如何在糖浆池中质押指南](../products/syrup-pools/ru-he-zai-tang-jiang-chi-nei-zhi-ya/) 。
 
 ## 糖浆池质押挖矿和农场流动性挖矿有什么区别？
 

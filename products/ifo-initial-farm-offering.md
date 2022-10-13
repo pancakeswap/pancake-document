@@ -20,7 +20,7 @@
 
 1. 完成您的[PancakeSwap个人资料设置](nft-ge-ren-dang-an-xi-tong/)
 2. [购买CAKE](https://pancakeswap.finance/swap#/swap)代币
-3. 将CAKE质押[在定期质押糖浆池](syrup-pools/ru-he-shi-yong-ding-qi-zhi-ya-tang-jiang-chi.md)即可获得iCAKE
+3. 将CAKE质押[在定期质押糖浆池](syrup-pools/xin-ban-cake-tang-jiang-chi/ru-he-shi-yong-suo-cang-zhi-ya-tang-jiang-chi.md)即可获得iCAKE
 
 **开售后：**
 

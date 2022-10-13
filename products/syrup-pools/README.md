@@ -1,27 +1,39 @@
-# 🍯 糖浆池
+# 🍯 糖浆池-质押 CAKE
 
 ![啊，美味](<../../.gitbook/assets/image (157).png>)
 
 ### **什么是糖浆池？** <a href="#what-are-syrup-pools" id="what-are-syrup-pools"></a>
 
-糖浆池是在 PancakeSwap 上赚取免费代币最简单的方法。质押 CAKE，赚取免费代币！就是这么简单。
+使用糖浆池是在 PancakeSwap 上免费赚取代币最简单的方法。质押 CAKE，免费获得代币！就是这么简单。
 
 另外，还有一些特殊的糖浆池，让你质押除了 CAKE 之外的其他代币！
 
-### **我该如何使用糖浆池？** <a href="#how-can-i-use-syrup-pools" id="how-can-i-use-syrup-pools"></a>
+### **我该如何使用糖浆池** <a href="#how-can-i-use-syrup-pools" id="how-can-i-use-syrup-pools"></a>
 
-{% content-ref url="ru-he-zai-tang-jiang-chi-nei-zhi-ya.md" %}
-[ru-he-zai-tang-jiang-chi-nei-zhi-ya.md](ru-he-zai-tang-jiang-chi-nei-zhi-ya.md)
+{% content-ref url="xin-ban-cake-tang-jiang-chi/" %}
+[xin-ban-cake-tang-jiang-chi](xin-ban-cake-tang-jiang-chi/)
 {% endcontent-ref %}
 
-{% content-ref url="zi-dong-cake-tang-jiang-chi.md" %}
-[zi-dong-cake-tang-jiang-chi.md](zi-dong-cake-tang-jiang-chi.md)
+{% content-ref url="xin-ban-cake-tang-jiang-chi/ru-he-shi-yong-ling-huo-zhi-ya-tang-jiang-chi.md" %}
+[ru-he-shi-yong-ling-huo-zhi-ya-tang-jiang-chi.md](xin-ban-cake-tang-jiang-chi/ru-he-shi-yong-ling-huo-zhi-ya-tang-jiang-chi.md)
+{% endcontent-ref %}
+
+{% content-ref url="xin-ban-cake-tang-jiang-chi/ru-he-shi-yong-suo-cang-zhi-ya-tang-jiang-chi.md" %}
+[ru-he-shi-yong-suo-cang-zhi-ya-tang-jiang-chi.md](xin-ban-cake-tang-jiang-chi/ru-he-shi-yong-suo-cang-zhi-ya-tang-jiang-chi.md)
+{% endcontent-ref %}
+
+{% content-ref url="ru-he-zai-tang-jiang-chi-nei-zhi-ya/" %}
+[ru-he-zai-tang-jiang-chi-nei-zhi-ya](ru-he-zai-tang-jiang-chi-nei-zhi-ya/)
 {% endcontent-ref %}
 
 ### 糖浆池常见问题解答与排错指南 <a href="#syrup-pool-faqs-and-troubleshooting" id="syrup-pool-faqs-and-troubleshooting"></a>
 
-{% content-ref url="untitled.md" %}
-[untitled.md](untitled.md)
+{% content-ref url="xin-ban-cake-tang-jiang-chi/dan-gao-tang-jiang-chi-chang-jian-wen-ti-jie-da.md" %}
+[dan-gao-tang-jiang-chi-chang-jian-wen-ti-jie-da.md](xin-ban-cake-tang-jiang-chi/dan-gao-tang-jiang-chi-chang-jian-wen-ti-jie-da.md)
+{% endcontent-ref %}
+
+{% content-ref url="ru-he-zai-tang-jiang-chi-nei-zhi-ya/untitled.md" %}
+[untitled.md](ru-he-zai-tang-jiang-chi-nei-zhi-ya/untitled.md)
 {% endcontent-ref %}
 
 ### **如何帮我的项目申请一个糖浆池？** <a href="#how-can-i-run-a-syrup-pool-for-my-project" id="how-can-i-run-a-syrup-pool-for-my-project"></a>
@@ -30,6 +42,4 @@
 
 ### 糖浆池智能合约 <a href="#docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86" id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
 
-​[全部手动糖浆池](https://docs.pancakeswap.finance/code/smart-contracts/main-staking-masterchef-contract)
-
-​[自动 CAKE 糖浆池](https://docs.pancakeswap.finance/code/smart-contracts/cakevault)
+[CAKE糖浆池](https://app.gitbook.com/s/-MHREX7DHcljbY5IkjgJ-1972196547/code/smart-contracts/fixed-term-staking-cake-pool)
