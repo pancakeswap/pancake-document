@@ -19,7 +19,7 @@ You can use a variety of different cross-chain bridges to transfer tokens from E
 In the following tutorials, we are going to demonstrate moving USDT from a variety of different blockchains to BNB Smart Chain, using three different cross-chain bridges.
 
 {% tabs %}
-{% tab title="Binance Bridge (Recommanded)" %}
+{% tab title="Binance Bridge (Recommended)" %}
 Binance Bridge may be the easiest bridge to use for moving assets onto BNB Smart Chain (BSC).
 
 In the following example, we'll show you how to move USDT from **TRON** blockchain to BSC using Binance Bridge.
