@@ -51,7 +51,7 @@ Deposita tus CAKE por un tiempo fijo para maximizar los rendimientos y recibir b
 * Más bloqueas tus CAKE, más es el boost!
 * Las recompensas de CAKE se reinvierten automáticamente y se desbloquearán, junto con su CAKE depositado, cuando expire la duración de su bloqueo
 * Una vez depositado, no se pueden retirar los CAKE hasta la finalización del bloqueo
-* El crédito IFO CAKE (la cantidad máxima de CAKE que se puede comprometer durante un IFO) se determinará a partir del pool de staking a plazo fijo
+* Los iCAKE (la cantidad máxima de CAKE que se puede comprometer durante un IFO) se determinarán a partir del pool de staking a plazo fijo. [Aprenda más sobre iCAKE aquí.](../../ifo-initial-farm-offering/icake.md)
 
 **Si tienes CAKE en el Staking a Plazo Fijo**
 
@@ -61,7 +61,7 @@ Deposita tus CAKE por un tiempo fijo para maximizar los rendimientos y recibir b
 * ❌ Cosechar recompensas
 * ❌ Retirar antes de que termine el período
 
-Los chefs están cocinando beneficios adicionales en la cocina para Q2!
+Los chefs están cocinando beneficios adicionales en la cocina para Q4!
 
 ## FAQ
 
