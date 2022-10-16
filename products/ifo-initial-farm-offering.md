@@ -2,15 +2,13 @@
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-Mb9x441YfL2wBkVRPTE%2F-Mb9xWj28M1Jkide1spw%2Fdocs%20masthead%20\(6\).png?alt=media\&token=dde633b3-a156-45e6-b763-63533fc4a355)
 
-使用 CAKE购买新的代币。
+使用 CAKE 购买新的代币。
 
-项目方得到 CAKE，PancakeSwap 销毁做为参加费的 CAKE。**您得到新的IFO代币。**
+项目方得到 CAKE，PancakeSwap 销毁作为超募手续费（又被称作参加费）的 CAKE 。**您得到新的 IFO 代币。**
 
-1. **您需要 CAKE**来参加 IFO。
-2. **您需要iCAKE**才能参与公开销售。
-3. **您需要满足某些要求**才能参与私有销售。
-
-学习[如何参加IFO](ifo-initial-farm-offering/ru-he-can-jia-ifo.md)
+1. &#x20;**您需要 CAKE** 来参加 IFO。
+2. **您需要 iCAKE** 才能参与公开销售。
+3. **您需要满足 IFO 页面卡片上之要求** 才能参与私有销售。
 
 ## **如何参加 IFO**
 
@@ -18,18 +16,18 @@
 
 **开售前**
 
-1. 完成您的[PancakeSwap个人资料设置](nft-ge-ren-dang-an-xi-tong/)
-2. [购买CAKE](https://pancakeswap.finance/swap#/swap)代币
+1. 完成您的 PancakeSwap 个人资料设置
+2. [购买 CAKE 代币](https://pancakeswap.finance/swap#/swap)
 3. 将CAKE质押[在定期质押糖浆池](syrup-pools/xin-ban-cake-tang-jiang-chi/ru-he-shi-yong-suo-cang-zhi-ya-tang-jiang-chi.md)即可获得iCAKE
 
 **开售后：**
 
-1. 销售开始后，访问 [https://pancakeswap.finance/ifo](https://pancakeswap.finance/ifo) 并投入您的 CAKE代币，来购买 IFO 项目代币
+1. 销售开始后，访问 [https://pancakeswap.finance/ifo](https://pancakeswap.finance/ifo) 并投入您的 CAK 代币来购买 IFO 项目代的代币。
 
 **完售后：**
 
 1. 销售结束后，您可以回到 IFO 页面领取您购得的代币。
-2. 完成！如果出现[超额认购](ifo-initial-farm-offering.md#overflow)，您可以在 IFO 页面手动领取剩余没有用到的 CAKE代币。
+2. 完成！如果出现[超额认购](ifo-initial-farm-offering.md#overflow)，您可以在 IFO 页面手动领取剩余没有使用到的 CAKE 代币。
 
 ## **什么是「超额认购」？** <a href="#overflow" id="overflow"></a>
 
