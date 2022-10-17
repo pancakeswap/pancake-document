@@ -17,21 +17,19 @@ Apalancamiento es un mecanismo del trading. Los traders pueden usarlo para aumen
 Es la garantía (en valores) que pones para tus posiciones apalancadas. Tiene dos modalidades de uso:
 
 * Cross Margin (Cruzado): Todas las posiciones utilizando la misma moneda como margen, comparten el mismo balance de margen cruzado. En el caso de una liquidación, la totalidad de su balance de la moneda de margen, incluyendo las demás posiciones abiertas, podría perderse.
-* Isolated Margin (Aislado): Manage your risk on individual positions by restricting the amount of margin allocated to each. If the margin ratio of a position reached 100%, the position will be liquidated. Margin can be added or removed to positions using this mode.
+* Isolated Margin (Aislado): Controla el riesgo de sus posiciones individualmente restringiendo la cantidad de margen asignado a cada una. Siel porcentaje de margen de una posición alcanza el 100%, sólo esa posición será liquidada. en esta modalidad, puede agregarse o quitarse margen sin cerrar la posición.
 
-**Margin Ratio**: Margin Ratio = Maintenance Margin / Margin Balance. Your positions will be liquidated once Margin Ratio reaches 100%.
+**Margin Ratio (% de margen)**: Margin Ratio = Margen de mantenimiento / Balance del margen. Sus posiciones serán liquidadas una vez que se alcance el 100%.
 
-**Maintenance Ratio**: The minimum amount of margin balance required to keep your open positions.
+**Maintenance Ratio (Margen de mantenimiento)**: La cantidad mínima de balance necesario para mantener la posición abierta.
 
-**Margin Balance** = Wallet Balance + Unrealized PNL. Your positions will be liquidated once Margin Balance <= Maintenance Margin.
+**Margin Balance (Balance)** = Balance en wallet + PNL no realizado. Su posición será liquidada cuando el Balance de margen sea <= que el de mantenimiento.
 
-**Deposit**: Deposit your funds into your futures account
+**Deposit**: Deposita sus fondos en su cuenta de futuros.
 
-**Withdraw**: Withdraw your funds from your futures account to your wallet
+**Withdraw**: Retira sus fondos de la cuenta de futuros a su wallet.
 
-**Balance**: Wallet Balance = Total Net Transfer + Total Realized Profit + Total Net Funding Fee - Total Commission.
-
-**Unrealized PNL**: Unrealized profit and loss on this position calculated based on Mark Price, and return on equity percentage.
+**Unrealized PNL (No realizado)**: Ganancias o pérdidas no realizadas de la posición, calculadas en base al Precio de Marca.
 
 * Single Asset Mode: Supports USDⓈ-M Futures trading by only using the single margin asset of the symbol. PNL of the same margin asset positions can be offset. Supports Cross Margin Mode and Isolated Margin Mode.
 * Multi-Assets Mode: USDⓈ-M Futures trading across multiple margin assets. PNL can be offset among the different margin asset positions. Only supports Cross Margin Mode.
