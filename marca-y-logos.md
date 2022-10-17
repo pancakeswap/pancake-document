@@ -55,7 +55,7 @@ Diviértase creando una marca única que sea claramente suya: si su producto es 
 
 ## Descargas del logo de PancakeSwap
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (5).png" alt=""><figcaption></figcaption></figure>
 
 Una vez que haya leído todo lo anterior, descargue los logotipos PancakeSwap y CAKE a continuación.&#x20;
 

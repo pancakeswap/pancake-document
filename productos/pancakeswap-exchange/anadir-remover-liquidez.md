@@ -70,7 +70,7 @@ Para remover parcial o totalmente su liquidez:
 
 4\. Utilice los botones o el control deslizante para elegir qué porcentaje quitar. Elija **MAX** para remover todo.
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (5).png" alt=""><figcaption></figcaption></figure>
 
 5\. Clic en **Enable**. Su billetera le pedirá que confirme la acción.
 

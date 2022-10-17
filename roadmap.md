@@ -14,7 +14,7 @@ _Actualizado el 15 de Julio de 2022_
 
 ### Chau To-Do List. Hola Roadmap
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Por seguridad y confidencialidad, algunos ítems no están en la sección de “Cocinando”.

@@ -8,12 +8,16 @@ Perpetuos, perpetual swaps, o perps son un tipo especial de contratos de futuros
 
 ### Apalancamiento
 
-Apalancamiento es un mecanismo del trading. Traders can use it to increase their exposure to the market by allowing them to pay less than the full amount of the investment. In simple words, you borrow money to leverage your investment.
+Apalancamiento es un mecanismo del trading. Los traders pueden usarlo para aumentar su exposición al mercado, permitiéndoles pagar menos que el importe total de la inversión. En resumen, pides dinero prestado para apalancar tu inversión.
 
-is the guarantee you put for your leveraged positions. It has two Modes to use it:
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-* Cross Margin Mode: All cross positions under the same margin asset share the same asset cross margin balance. In the event of liquidation, your assets full margin balance along with any remaining open positions under the asset may be forfeited.
-* Isolated Margin Mode: Manage your risk on individual positions by restricting the amount of margin allocated to each. If the margin ratio of a position reached 100%, the position will be liquidated. Margin can be added or removed to positions using this mode.
+### Margen
+
+Es la garantía (en valores) que pones para tus posiciones apalancadas. Tiene dos modalidades de uso:
+
+* Cross Margin (Cruzado): Todas las posiciones utilizando la misma moneda como margen, comparten el mismo balance de margen cruzado. En el caso de una liquidación, la totalidad de su balance de la moneda de margen, incluyendo las demás posiciones abiertas, podría perderse.
+* Isolated Margin (Aislado): Manage your risk on individual positions by restricting the amount of margin allocated to each. If the margin ratio of a position reached 100%, the position will be liquidated. Margin can be added or removed to positions using this mode.
 
 **Margin Ratio**: Margin Ratio = Maintenance Margin / Margin Balance. Your positions will be liquidated once Margin Ratio reaches 100%.
 
