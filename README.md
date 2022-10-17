@@ -14,11 +14,11 @@
 
 ### La Elección de la Gente
 
-PancakeSwap es el exchange descentralizado líder en Binance Smart Chain, con los volúmenes de trading más altos del mercado (fuentes: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
+PancakeSwap es el exchange descentralizado líder en BNB Smart Chain, con los volúmenes de trading más altos del mercado (fuentes: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
 
 ### Bajos Fees
 
-¿Por qué pagar de más? PancakeSwap se ejecuta en Binance Smart Chain, una blockchain con costos de transacción mucho más bajos que Ethereum o Bitcoin. Las tarifas de trading también son más bajas que otros exchanges descentralziados, ¡así que eso es una doble victoria para todos!
+¿Por qué pagar de más? PancakeSwap se ejecuta en BNB Smart Chain, una blockchain con costos de transacción mucho más bajos que Ethereum o Bitcoin. Las tarifas de trading también son más bajas que otros exchanges descentralizados, ¡así que eso es una doble victoria para todos!
 
 ### Descentralización
 
@@ -38,7 +38,7 @@ Los holders de CAKE en este momento están ganando decenas de millones de dólar
 
 ### Gana CAKE con las Yield Farms
 
-Haciendo Stake  de LP tokens ganas CAKE.  Asumes un poco más de exposición a las fluctuaciones del mercado que con los Syrup Pools, pero puedes ganar rendimientos más altos para compensar el riesgo.
+Haciendo Stake de LP tokens ganas CAKE. Asumes un poco más de exposición a las fluctuaciones del mercado que con los Syrup Pools, pero puedes ganar rendimientos más altos para compensar el riesgo.
 
 ### Gana Fees de Trading
 
@@ -58,7 +58,7 @@ Gana NFTs coleccionables por participar en competiciones de trading y muchos má
 
 ### Predicción
 
-Gana BNB si puedes predecir si el precio de BNB subirá o bajará.\
+Gana BNB o CAKE si puedes predecir si el precio de BNB o CAKE subirá o bajará.\
 Nuevas rondas cada 5 minutos!
 
 ### Pottery
