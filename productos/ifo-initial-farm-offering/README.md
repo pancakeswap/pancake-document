@@ -6,7 +6,7 @@
 
 Compra nuevos tokens usando CAKE tokens.&#x20;
 
-El proyecto se queda cos los CAKE, PancakeSwap quema los fees de participación. **Y tú te quedas con los tokens**
+El proyecto se queda con los CAKE, PancakeSwap quema los fees de participación. **Y tú te quedas con los tokens**
 
 1. **Necesitarás CAKE** para participar.
 
@@ -35,7 +35,7 @@ En el método “Overflow”, los usuarios pueden invertir tanto o tan poco como
 
 {% hint style="warning" %}
 Es posible no recibir tokens en absoluto: si compromete una cantidad muy pequeña de tokens LP en comparación con la cantidad total comprometida por otros, su contribución puede ser una parte tan pequeña del total que es posible que no califique ni siquiera para una pequeña parte de los tokens vendidos. \
-En tal caso, aún podrá reclamar todos los tokens LP de CAKE-BNB que comprometió.
+En tal caso, aún podrá reclamar todos los CAKE que comprometió.
 {% endhint %}
 
 
@@ -46,6 +46,6 @@ La venta se llevará a cabo con normalidad, y todos los fondos aportados se gast
 
 ## Quieres lanzar tu propia IFO?
 
-Inicie su proyecto con PancakeSwap, el AMM y proveedor de liquidez más utilizado de la Binance Smart Chain, para llevar su token directamente a la comunidad más activa y de rápido crecimiento en BSC.
+Inicie su proyecto con PancakeSwap, el AMM y proveedor de liquidez más utilizado de la BNB Smart Chain, para llevar su token directamente a la comunidad más activa y de rápido crecimiento en BSC.
 
 ****[Aplica aquí](https://docs.google.com/forms/d/e/1FAIpQLScGdT5rrVMr4WOWr08pvcroSeuIOtEJf1sVdQGVdcAOqryigQ/viewform)
