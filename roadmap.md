@@ -4,7 +4,9 @@ description: '"Don''t call it a roadmap"'
 
 # Roadmap
 
-![](.gitbook/assets/roadmap-header.png)
+{% hint style="danger" %}
+**Page under construction**!&#x20;
+{% endhint %}
 
 _Updated on October 11, 2022_
 
@@ -25,7 +27,7 @@ Due to considerations of security and confidentiality, some items are not includ
 ### Ongoing/Recurring
 
 * Regular IFOs and cIFOs
-* Regular new Farms and Syrup Pools&#x20;
+* Regular new Farms and Syrup Pools
 * Farm Auctions\
   [Recently upgraded to a new format](https://medium.com/pancakeswap/reinventing-recipe-new-updates-to-pancakeswap-farm-auctions-2ade3a0283b3?source=collection\_home---4------3-----------------------)
 * UI/UX, Bug Fixes, Product Upgrades
@@ -42,7 +44,7 @@ Due to considerations of security and confidentiality, some items are not includ
 
 * NFT Gamifications\
   Potential collaborations with other top projects on BNB Chain
-* NFT Market \
+* NFT Market\
   Phase 3 - open NFT platform\
   Other improvements and upgrades
 
@@ -65,7 +67,7 @@ Due to considerations of security and confidentiality, some items are not includ
 * CAKE Staking
   * Fixed-term Staking
   * CAKE Side Pool - Flexible CAKE staking on the side of locked staking
-* Fixed-Term Staking Benefits&#x20;
+* Fixed-Term Staking Benefits
   * iCAKE, IFO benefits
   * vCAKE, weighted voting power
   * bCAKE, farm yield booster
@@ -107,4 +109,3 @@ Due to considerations of security and confidentiality, some items are not includ
   * Token vesting
   * iCAKE integration
 * PCS Mini-Program in Binance App
-

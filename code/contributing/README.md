@@ -4,7 +4,9 @@ description: Thank you for expressing your interest in contributing to PancakeSw
 
 # Contributing
 
-![](../../.gitbook/assets/developers-header.png)
+{% hint style="danger" %}
+**Page under construction**!&#x20;
+{% endhint %}
 
 PancakeSwap is an open-source project. If you want to contribute to the project, this section is here to guide you through your first steps with the PancakeSwap team 🥞
 
@@ -89,7 +91,7 @@ Create a [draft PR](https://github.blog/2019-02-14-introducing-draft-pull-reques
 
 Our Pull Request Title follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) using [commitlint](https://commitlint.js.org/#/).‌
 
-_More at_ [_Angular's guidelines_](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#type)__
+_More at_ [_Angular's guidelines_](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#type)\_\_
 
 | Type         | Description                                                                                                 |
 | ------------ | ----------------------------------------------------------------------------------------------------------- |

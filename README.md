@@ -1,11 +1,7 @@
-# PancakeSwap Intro
+# Zyon Intro
 
-![](.gitbook/assets/intro-header.png)
-
-{% hint style="success" %}
-**PancakeSwap helps you make the most out of your crypto in three ways:**
-
-**Trade, Earn, and Win.**
+{% hint style="danger" %}
+**Page under construction**!&#x20;
 {% endhint %}
 
 ## ↔️ Trade
