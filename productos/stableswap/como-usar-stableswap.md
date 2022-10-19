@@ -26,7 +26,7 @@ Hay algunas diferencias para la liquidez de StableSwap:
 
 &#x20;1 - Cuando selecciona los pares de activos que están habilitados para StableSwap (por ejemplo, HAY-BUSD), la interfaz le indicará que está proporcionando un "LP estable"
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 2 - La aporte de liquidez de los dos activos puede hacerse de forma desigual, y habrá una página de confirmación para mostrar la proporción de su liquidez.
 
@@ -60,7 +60,7 @@ Habrá una ventana de 24 horas a partir del lanzamiento de StableSwap, y antes d
 
 1 - Retire los HAY-BUSD LP desde la [página de farms](https://pancakeswap.finance/farms)
 
-<figure><img src="../../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 2 - Remueva la liquidez de su HAY-BUSD LP en la [página de liquidez](https://pancakeswap.finance/liquidity)
 

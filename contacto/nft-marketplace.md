@@ -2,7 +2,7 @@
 
 ## Solicite la inclusión de su colección en el mercado de NFT
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Los creadores de colecciones de NFT pueden ganar regalías sobre las transacciones en PancakeSwap, así como obtener visibilidad para su proyecto en el mercado de NFT más destacado de la BNB Smart Chain.
 
