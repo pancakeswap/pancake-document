@@ -64,7 +64,7 @@ La cuenta regresiva y los anuncios te darán mucho tiempo para prepararte.
 
 ## **Una vez que la IFO está en vivo** <a href="#once-the-ifo-is-live" id="once-the-ifo-is-live"></a>
 
-Mientras la IFO esté en vivo, tendrás 1 hora para participar. Si has preparado tus CAKE, no tardarás mucho en comprar el nuevo token.
+Mientras la IFO esté en vivo, tendrás 2 horas para participar. Si has preparado tus CAKE, no tardarás mucho en comprar el nuevo token.
 
 ### Observa el transcurso de la IFO <a href="#checking-the-ifo-is-live" id="checking-the-ifo-is-live"></a>
 
