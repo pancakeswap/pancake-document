@@ -79,4 +79,4 @@ For more information about our launchpads (“Initial Farm Offering, or IFO”),
 
 At every step of the process, the team is here to help – we understand that for founders and their teams, the IFO or TGE Launch is extremely critical, and we leave nothing to chance.
 
-![](.gitbook/assets/image2.png)
+<figure><img src=".gitbook/assets/image2.png" alt=""><figcaption></figcaption></figure>
