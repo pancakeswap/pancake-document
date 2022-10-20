@@ -30,7 +30,7 @@
     * [Limit Orders FAQ](productos/pancakeswap-exchange/limit-orders/limit-orders-faq.md)
   * [Trading Perpetuo](productos/pancakeswap-exchange/trading-perpetuo/README.md)
     * [Glosario](productos/pancakeswap-exchange/trading-perpetuo/glosario.md)
-    * [What is Perpetual Trading?](productos/pancakeswap-exchange/trading-perpetuo/what-is-perpetual-trading.md)
+    * [Qué es Trading Perpetuo?](productos/pancakeswap-exchange/trading-perpetuo/que-es-trading-perpetuo.md)
     * [Perpetual Trading FAQ](productos/pancakeswap-exchange/trading-perpetuo/perpetual-trading-faq.md)
     * [How can I use it?](productos/pancakeswap-exchange/trading-perpetuo/how-can-i-use-it.md)
 * [🚜Yield Farming](productos/yield-farming/README.md)
