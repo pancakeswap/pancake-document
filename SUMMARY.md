@@ -11,6 +11,7 @@
   * [General FAQ](help/faq.md)
   * [Fixing Stuck Pending Transactions on MetaMask](help/unsticking-a-transaction-stuck-as-pending-with-metamask.md)
   * [Binance Academy Guide](help/binance-academy-guide.md)
+* [Aptos Deployment](aptos-deployment.md)
 * [Contact Us](contact-us/README.md)
   * [Business Partnerships](contact-us/business-partnerships.md)
   * [NFT Marketplace Applications](contact-us/nft-market-applications.md)

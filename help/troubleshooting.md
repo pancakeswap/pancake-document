@@ -211,6 +211,14 @@ If you're trading tokens with Restorative Rebase like tau assets tDoge or tBTC, 
 {% endtab %}
 {% endtabs %}
 
+## **Issues with Farms**
+
+### Fail with error 'ds-math-sub-underflow'
+
+You've run out of allowance of your LP token allowance to the MasterChef contract.
+
+**Use token approval manager like unrekt or BscScan to**&#x20;
+
 ## **Issues with Syrup Pools**
 
 ### BEP20: burn amount exceeds balance

@@ -46,7 +46,7 @@ You can increase the number of iCAKE you have by:
 * Adding more CAKE to your fixed-term staking position in the CAKE syrup pool.
 * Extend your fixed-term staking durations if your current durations is shorter than the threshold.
 
-****![](../../.gitbook/assets/image2.png)****
+****![](<../../.gitbook/assets/image2 (2).png>)****
 
 You can preview the number of iCAKE generated from your staking position when adjusting or initializing the fixed-staking.
 
