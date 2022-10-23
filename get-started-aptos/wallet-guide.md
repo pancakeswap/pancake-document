@@ -52,7 +52,7 @@ You can find more in-depth information about each wallet below, as well as downl
 
 {% tabs %}
 {% tab title="Blocto" %}
-****![](<../.gitbook/assets/image (12).png>)****
+****![](<../.gitbook/assets/image (37).png>)****
 
 Blocto offers a user-friendly solution and an all-in-one package for using Dapps and managing your assets.
 
@@ -83,7 +83,7 @@ Blocto offers a user-friendly solution and an all-in-one package for using Dapps
 
 2 - Click the plus button, then choose "APT - Aptos"
 
-![](../.gitbook/assets/blocto-setup-guide-mobile-3.png)![](../.gitbook/assets/blocto-setup-guide-mobile-4.png)
+![](../.gitbook/assets/blocto-setup-guide-mobile-3.png)![](<../.gitbook/assets/blocto-setup-guide-mobile-4 (2).png>)
 
 
 
@@ -113,7 +113,7 @@ You can find more in-depth information about each wallet below, as well as downl
 
 {% tabs %}
 {% tab title="Petra" %}
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 Petra wallet is an extension that lets you explore Aptos in your browser.
 
@@ -136,7 +136,7 @@ Petra wallet is an extension that lets you explore Aptos in your browser.
 {% endtab %}
 
 {% tab title="Martian" %}
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 Martian is an Aptos Chain wallet that allows you to store, send, receive tokens and manage & mint NFTs. Its mobile version is coming soon.
 
@@ -168,7 +168,7 @@ Pontem Wallet is an Aptos Chain wallet that allows you to store, send, receive t
 {% endtab %}
 
 {% tab title="Fewcha" %}
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -186,7 +186,7 @@ Pontem Wallet is an Aptos Chain wallet that allows you to store, send, receive t
 {% endtab %}
 
 {% tab title="Blocto" %}
-****![](<../.gitbook/assets/image (12).png>)****
+****![](<../.gitbook/assets/image (37).png>)****
 
 Blocto offers a user-friendly solution and an all-in-one package for using Dapps and managing your assets.
 
@@ -209,7 +209,7 @@ Blocto offers a user-friendly solution and an all-in-one package for using Dapps
 
 1 - After selecting "Blocto" in the wallet connection window, you should be presented with a sign-in window. Type in your Email address and click "Register". If you have previously setup a Blocto account, please type in the Email address and click "sign in".
 
-![](<../.gitbook/assets/blocto-setup-desktop-1 (1).png>)
+![](../.gitbook/assets/blocto-setup-desktop-1.png)
 
 
 
