@@ -65,8 +65,7 @@
   * [Detalles de Contrato](productos/ifo-initial-farm-offering/detalles-de-contrato.md)
 * [Info (Analíticas)](productos/info.md)
 * [Votación](productos/voting/README.md)
-  * [What is voting?](productos/voting/voting.md)
-  * [How to vote with SafePal wallet](productos/voting/how-to-vote-with-safepal-wallet.md)
+  * [Qué se vota?](productos/voting/voting.md)
 * [🍳Próximamente](productos/proximamente/README.md)
   * [Zap](productos/proximamente/zap.md)
 
