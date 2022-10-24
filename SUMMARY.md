@@ -63,7 +63,7 @@
 * [🖼 NFT 个人档案系统](products/nft-ge-ren-dang-an-xi-tong/README.md)
   * [How to Set Up an NFT Profile](products/nft-ge-ren-dang-an-xi-tong/how-to-set-up-an-nft-profile.md)
 * [🛍 IFO (初次农场发行)](products/ifo-initial-farm-offering.md)
-  * [如何参加IFO](products/ifo-initial-farm-offering/ru-he-can-jia-ifo.md)
+  * [如何参与 IFO](products/ifo-initial-farm-offering/ru-he-can-yu-ifo.md)
   * [iCAKE](products/ifo-initial-farm-offering/icake.md)
   * [合约详情](products/ifo-initial-farm-offering/he-yue-xiang-qing.md)
 * [📈 信息站](products/info.md)
