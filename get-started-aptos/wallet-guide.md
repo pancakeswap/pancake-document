@@ -33,66 +33,6 @@ Mobile device wallets and desktop-based wallets have different strengths and wea
 | Damage/loss/theft resistant       | ➖      | ✅       |
 | Power/connection outage resistant | ✅      | ➖       |
 
-## **Smartphone/Mobile wallets**
-
-Smartphone/Mobile wallets allow you to access your crypto almost anywhere. Wallets are available on both Android and iOS devices.
-
-### Which mobile wallet should I choose?
-
-This comparison table gives an overview of the most popular mobile wallets used with PancakeSwap.
-
-|                            | Blocto |
-| -------------------------- | ------ |
-| Aptos Chain support        | ✅      |
-| Built-in DApp browser      | ✅      |
-| Hardware wallet compatible | ➖      |
-| Open source (auditability) | ➖      |
-
-You can find more in-depth information about each wallet below, as well as download links and installation guides.
-
-{% tabs %}
-{% tab title="Blocto" %}
-****![](<../.gitbook/assets/image (37).png>)****
-
-Blocto offers a user-friendly solution and an all-in-one package for using Dapps and managing your assets.
-
-**Highlights:**
-
-* Supports both BNB Chain and Aptos Chain and other major crypto networks out-of-the-box.&#x20;
-* Easy to set up.
-* Supports both iOS and Android.
-* Email login.
-* Smart contract wallet eliminates the need for managing your own private key and also provides advanced features like account recovery
-* The initial setup gas fee for the smart contract wallet is covered
-
-**Note:**
-
-* **Requires Email address to get started**
-* Custodial model
-* A bit complicated if you want to export your private key and manage it or use it in other wallets. [Tutorial](https://portto.zendesk.com/hc/en-us/articles/4411564072217-Can-I-export-my-private-key-from-Blocto-and-use-it-in-Metamask-Phantom-Trust-Wallet-).
-
-****[**Download Blocto Wallet**](https://portto.com/download)
-
-### **Blocto Wallet Setup Guide**
-
-1 - Set up by entering your Email address. Then enter the one-time password received by Email.
-
-****![](../.gitbook/assets/blocto-setup-guide-mobile-1.png)****![](../.gitbook/assets/blocto-setup-guide-mobile-2.png)****
-
-
-
-2 - Click the plus button, then choose "APT - Aptos"
-
-![](../.gitbook/assets/blocto-setup-guide-mobile-3.png)![](<../.gitbook/assets/blocto-setup-guide-mobile-4 (2).png>)
-
-
-
-3 - Done! You can now deposit APT into the Aptos wallet and start using PancakeSwap on Aptos by going to the "Discover" page!
-
-![](../.gitbook/assets/blocto-setup-guide-mobile-6.png)![](../.gitbook/assets/blocto-setup-guide-mobile-7.png)
-{% endtab %}
-{% endtabs %}
-
 ## **Desktop/Web Browser wallets**
 
 Desktop wallets are available on your home computer or laptop computer. Wallets on your computer can run as standalone applications, or as web browser plugins for popular browsers like Chrome and Firefox.
@@ -228,6 +168,68 @@ Blocto offers a user-friendly solution and an all-in-one package for using Dapps
 4 - Done! Please note that you will need to fund your Aptos address with APT to start using PancakeSwap on Aptos. If you want to access the same account on other devices, simply sign in using the same Email address.
 {% endtab %}
 {% endtabs %}
+
+## **Smartphone/Mobile wallets**
+
+Smartphone/Mobile wallets allow you to access your crypto almost anywhere. Wallets are available on both Android and iOS devices.
+
+### Which mobile wallet should I choose?
+
+This comparison table gives an overview of the most popular mobile wallets used with PancakeSwap.
+
+|                            | Blocto |
+| -------------------------- | ------ |
+| Aptos Chain support        | ✅      |
+| Built-in DApp browser      | ✅      |
+| Hardware wallet compatible | ➖      |
+| Open source (auditability) | ➖      |
+
+You can find more in-depth information about each wallet below, as well as download links and installation guides.
+
+{% tabs %}
+{% tab title="Blocto" %}
+****![](<../.gitbook/assets/image (37).png>)****
+
+Blocto offers a user-friendly solution and an all-in-one package for using Dapps and managing your assets.
+
+**Highlights:**
+
+* Supports both BNB Chain and Aptos Chain and other major crypto networks out-of-the-box.&#x20;
+* Easy to set up.
+* Supports both iOS and Android.
+* Email login.
+* Smart contract wallet eliminates the need for managing your own private key and also provides advanced features like account recovery
+* The initial setup gas fee for the smart contract wallet is covered
+
+**Note:**
+
+* **Requires Email address to get started**
+* Custodial model
+* A bit complicated if you want to export your private key and manage it or use it in other wallets. [Tutorial](https://portto.zendesk.com/hc/en-us/articles/4411564072217-Can-I-export-my-private-key-from-Blocto-and-use-it-in-Metamask-Phantom-Trust-Wallet-).
+
+****[**Download Blocto Wallet**](https://portto.com/download)
+
+### **Blocto Wallet Setup Guide**
+
+1 - Set up by entering your Email address. Then enter the one-time password received by Email.
+
+****![](../.gitbook/assets/blocto-setup-guide-mobile-1.png)****![](../.gitbook/assets/blocto-setup-guide-mobile-2.png)****
+
+
+
+2 - Click the plus button, then choose "APT - Aptos"
+
+![](../.gitbook/assets/blocto-setup-guide-mobile-3.png)![](<../.gitbook/assets/blocto-setup-guide-mobile-4 (2).png>)
+
+
+
+3 - Done! You can now deposit APT into the Aptos wallet and start using PancakeSwap on Aptos by going to the "Discover" page!
+
+![](../.gitbook/assets/blocto-setup-guide-mobile-6.png)![](../.gitbook/assets/blocto-setup-guide-mobile-7.png)
+{% endtab %}
+{% endtabs %}
+
+****
 
 {% hint style="danger" %}
 NEVER, in any situation, should you ever give someone your private key or recovery phrase ("seed phrase"). This will give someone complete access to your crypto!
