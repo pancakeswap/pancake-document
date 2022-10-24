@@ -66,6 +66,7 @@
 * [Info (Analíticas)](productos/info.md)
 * [Votación](productos/voting/README.md)
   * [Qué se vota?](productos/voting/voting.md)
+  * [vCAKE docs PCS](productos/voting/vcake-docs-pcs.md)
 * [🍳Próximamente](productos/proximamente/README.md)
   * [Zap](productos/proximamente/zap.md)
 
