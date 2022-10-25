@@ -6,7 +6,7 @@ description: PancakeSwap is planning to come to Aptos!
 
 <figure><img src=".gitbook/assets/Aptos (1).png" alt=""><figcaption></figcaption></figure>
 
-While we are waiting for the vote proposal to conclude, we’d like to start speaking with Aptos Project teams, and potentially introduce you to one of crypto’s largest, most engaged, and active DApp (with over 3M Monthly Active Users)!
+We are deploying on Aptos and would like to start speaking with Aptos Project teams,  potentially introducing you to one of crypto’s largest, most engaged, and active DApp (with over 3M Monthly Active Users)!
 
 Since our start, PancakeSwap (PCS) has thrived in the Retail DeFi landscape, establishing ourselves as the leading DEX, with multiple industry-leading products –  liquidity pools; launchpads; prediction and perpetual products; NFT marketplaces – and of course, the best community 😉.
 
