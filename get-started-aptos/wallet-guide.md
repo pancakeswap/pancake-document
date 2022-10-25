@@ -110,9 +110,11 @@ Pontem Wallet is an Aptos Chain wallet that allows you to store, send, receive t
 {% tab title="Fewcha" %}
 <figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+Currently, Fewcha wallet has an issue with importing private keys. Recommend trying out other wallets for now.
+{% endhint %}
 
-
-Pontem Wallet is an Aptos Chain wallet that allows you to store, send, receive tokens, and connect to dApps on the Aptos ecosystem.
+Fewcha Wallet is an Aptos Chain wallet that allows you to store, send, receive tokens, and connect to dApps on the Aptos ecosystem.
 
 **Highlights:**
 
