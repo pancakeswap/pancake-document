@@ -22,8 +22,7 @@ Aptos 链的原生代币是 **Aptos Coin (APT)**。&#x20;
 [Aptos 跨链桥](https://theaptosbridge.com/bridge)
 
 * Aptos 跨链桥允许您将主流代币和稳定币跨链到 Aptos&#x20;
-* 支持 “发送链支付 gas” - 若 Aptos 链上钱包里无 Aptos 代币 (APT)，将自动由发送链的 gas 中转换少量的 APT ，帮您开始在 Aptos 链上的旅程\
-  注：若您的代币尚未在 Aptos 链上注册（registration），您需要支付少量的 gas 注册代币。
+* 支持 “发送链支付 gas” - 若 Aptos 链上钱包里无 Aptos 代币 (APT)，将自动由发送链的 gas 中转换少量的 APT ，帮您开始在 Aptos 链上的旅程
 * ⚠️ 注意：您的资产将在跨链时被自动包装（wrapped）。（标记为 “LayerZero”） \
   在您将代币跨链之前，请务必检查代币列表（token list），确认您正在交易的代币包装版本（wrpped version）是否正确。\
 
