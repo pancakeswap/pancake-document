@@ -2,7 +2,7 @@
 
 <figure><img src="../../../.gitbook/assets/general-faq-header.png" alt=""><figcaption></figcaption></figure>
 
-### 这个新功能对蛋糕持有者的价值贡献是什么？&#x20;
+### 这新功能对 CAKE 持有者的价值贡献是什么？&#x20;
 
 我们预计这一新功能将带来大量新用户、交易者和交易量。 除了提供交易费用折扣外，我们还希望确保价值返回到我们的 CAKE 代币。PancakeSwap 永续合约用户的所有交易费用的 20% 将转成 CAKE 并烧毁。&#x20;
 
@@ -16,19 +16,19 @@
 
 ### 交易手续费是多少？ <a href="#6c14" id="6c14"></a>
 
-默认使用 CAKE 来支付交易手续费，其次是 APX (ApolloX 的代币) 和USDT。
+默认使用 CAKE 来支付交易手续费，其次是 APX（ApolloX 的代币）和 USDT。
 
 交易手续费以合约总价值为基础：&#x20;
 
-* 挂单 (maker) 0.02%
-* 吃单 (taker) 0.07%
+* 挂单（maker）0.02%
+* 吃单（taker）0.07%
 
 使用 CAKE 来支付交易手续费，将在此之上享受 5% 的折扣。即费率是：
 
-* 挂单(maker) 0.019%
-* 吃单(taker) 0.0665%。
+* 挂单（maker）0.019%
+* 吃单（taker）0.0665%。
 
-所以，请记得先将 CAKE 存入你的 PancakeSwap 永续合约交易账户，用于支付交易手续费，并享受折扣！
+所以，请记得先将 CAKE 存入你的 PancakeSwap 永续合约交易账户，用于支付交易手续费并享受折扣！
 
 ### 存入金额有限制吗?
 
@@ -48,22 +48,22 @@
 
 <figure><img src="../../../.gitbook/assets/提交工单.png" alt=""><figcaption></figcaption></figure>
 
-## 提现未到帐，发生了什么？
+### 提现未到帐，发生了什么？
 
-一般情况下，ApolloX平台会在30-60分钟内生成提交上链。
+一般情况下，ApolloX 平台会在 30-60 分钟内生成提交上链。
 
-链上拥堵时，您的提现申请有可能需要花费较多的时间处理。
+链上拥堵时，您的提现申请可能需要花费较多时间处理。
 
-若6小时后在您的链上钱包仍然没有到帐，请单击「耳机图标」提交客服「[工单](https://apolloxbroker.zendesk.com/hc/en-us/requests/new)」，并附上：「资金流水」中「**该笔转账的截图**」，提交供应商方处理，注意，没有截图的工单处理优先级很低。
+若 6 小时后您的链上钱包仍然没有到帐，请单击 “耳机图标” 提交客服 “[工单](https://apolloxbroker.zendesk.com/hc/en-us/requests/new)，并附上： “资金流水” 中 “**该笔转账的截图**” ，提交供应商方处理，注意，没有截图的工单处理优先级很低。
 
-若您在支付gas那关点击了拒绝，请等待ApolloX方退回款项，期间前端有可能看不到您的该笔提现资产，如有任何疑问，请提交客服[工单](https://apolloxbroker.zendesk.com/hc/en-us/requests/new)。
+若您在支付 gas 那步骤点击了拒绝，请等待 ApolloX 方退回款项，期间前端有可能看不到您的该笔提现资产，如有任何疑问，请提交客服[工单](https://apolloxbroker.zendesk.com/hc/en-us/requests/new)。
 
 <figure><img src="../../../.gitbook/assets/截圖 2022-10-10 下午7.58.06.png" alt=""><figcaption><p>资产提现之画面提醒</p></figcaption></figure>
 
 ### ApolloX 如何确定哪些用户来自 PCS，哪些用户来自他们自己的网站？
 
-以首次注册的是PCS域名还是APX域名为基础判定，若钱包地址已注册ApolloX，则视为APX用户进行收益分享计算。&#x20;
+以首次注册的是PCS域名还是APX域名为基础判定，若钱包地址已注册 ApolloX，则视为APX用户进行收益分享计算。&#x20;
 
-### 请问我们未来能看到PCS永续合约介面只显示来自PCS的交易量吗？&#x20;
+### 请问我们未来能看到 PCS 永续合约介面只显示来自 PCS 的交易量吗？&#x20;
 
-在前端介面目前显示的交易量为来自ApolloX与来自PCS的交易量总和，因交易深度是叠加，前端这样的显示设计能提供使用者更准确的交易深度资讯，并加深双方平台的合作关系。
+在前端介面目前显示的交易量为来自 ApolloX 与来自 PCS 的交易量总和，因交易深度是叠加，前端这样的显示设计能提供使用者更准确的交易深度资讯，并加深双方平台的合作关系。

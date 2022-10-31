@@ -255,7 +255,7 @@ SafePal 有软件和硬件钱包两种形式。该钱包 App 安装便捷，设�
 
 {% tabs %}
 {% tab title="MetaMask" %}
-![](<../.gitbook/assets/image (1) (2) (1).png>)
+![](<../.gitbook/assets/image (1) (2).png>)
 
 MetaMask 是一个非常流行的基于浏览器的钱包插件，默认支持 ERC20（以太坊网络），以及 BEP2 & BEP20（Binance Chain 和 BNB 智能链网络)。&#x20;
 
