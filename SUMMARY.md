@@ -15,6 +15,7 @@
   * [常见问题解答](click-here-for-help/faq.md)
   * [如何修复 MetaMask 上卡住的交易](click-here-for-help/ru-he-xiu-fu-metamask-shang-ka-zhu-de-jiao-yi.md)
   * [来自币安学院的指南](click-here-for-help/binance-academy-guide.md)
+* [Aptos 部署计划](aptos-bu-shu-ji-hua.md)
 * [联系我们](contact-us/README.md)
   * [商业合作](contact-us/business-partnerships.md)
   * [NFT市场应用](contact-us/nft-shi-chang-ying-yong.md)
