@@ -32,7 +32,7 @@ Aptos 链的原生代币是 **Aptos Coin (APT)**。&#x20;
 [cBridge ](https://cbridge.celer.network/)
 
 * cBridge 允许您将主流代币和稳定币跨链到 Aptos&#x20;
-* ⚠️ 注意：现在资产在跨链时将被自动包装（wrapped）。（标记为“Celer”） \
+* ⚠️ 注意：现在资产在跨链时将被自动包装（wrapped）。（标记为 “Celer”） \
   在跨链您的代币之前，请务必仔细检查代币列表以查看您正在交易的代币的包装版本（wrpped version）。
 {% endtab %}
 {% endtabs %}
