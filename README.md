@@ -40,7 +40,7 @@ PancakeSwap 是币安智能链上领先的去中心化交易所，交易量在�
 
 ### 赚取交易手续费
 
-您感兴趣的代币对没有农场？没问题。即使交易对没有开设农场，当您把代币押在流动性池（LPs）时，您仍然可以赚得交易手续费。
+您感兴趣的代币对没有农场？别担心。即使交易对没有开设农场，当您把代币押在流动性池（LPs）时，您仍然可以赚得交易手续费。
 
 ## 🎲 赢得奖金与收藏品
 
@@ -68,22 +68,27 @@ PancakeSwap **** 彩票奖金池时常高达**百万美元，**每天**多达 11
 眼见为实：
 
 * 查看这些对于 PancakeSwap 的安全审计报告：
-  * [Certik 对 PancakeSwap 的安全审计](https://www.certik.org/projects/pancakeswap) 和 [Certik 保险盾](https://shield.certik.foundation/)
-  * [慢雾 对 PancakeSwap 的安全审计](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20%20-%20PancakeSwap.pdf)
-  * [慢雾 对自动蛋糕 Syrup 资金池的安全审计](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20CakeVault.pdf)
-  * [派盾对Peckshield 预测 V2 的安全审计](https://github.com/peckshield/publications/blob/master/audit\_reports/PeckShield-Audit-Report-PancakeSwap-PredictionV2-v1.0.pdf)
-  * [派盾对Peckshield 新CAKE 池的安全审计](https://github.com/peckshield/publications/blob/master/audit\_reports/PeckShield-Audit-Report-PancakeSwap-CakePool-v1.0.pdf)
-  * [慢雾对 新CAKE池 的安全审计](https://github.com/slowmist/Knowledge-Base/blob/master/open-report-V2/smart-contract/SlowMist%20Audit%20Report%20-%20Pancakeswap-CakePool\_en-us.pdf)
-  * [派盾对 Peckshied 新主厨合约的安全审计](https://github.com/peckshield/publications/blob/master/audit\_reports/PeckShield-Audit-Report-PancakeSwap-MasterChefV2-v1.0.pdf)
-  * [慢雾对新主厨合约的安全审计](https://github.com/slowmist/Knowledge-Base/blob/master/open-report-V2/smart-contract/SlowMist%20Audit%20Report%20-%20MasterChef%20v2\_en-us.pdf)
+  * [Certik 对 PancakeSwap 的安全审计](https://www.certik.org/projects/pancakeswap) 和 [Certik Shield 保险服务](https://shield.certik.foundation/)
+  * [慢雾对 PancakeSwap 的安全审计](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20%20-%20PancakeSwap.pdf)
+  * [慢雾对 StableSwap 的安全审计](https://github.com/slowmist/Knowledge-Base/blob/master/open-report-V2/smart-contract/SlowMist%20Audit%20Report%20-%20PancakeSwap%20Stable%20Swap\_en-us.pdf)
+  * [慢雾对自动 Cake 糖浆池的安全审计](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20CakeVault.pdf)
+  * [派盾对预测 V2 的安全审计](https://github.com/peckshield/publications/blob/master/audit\_reports/PeckShield-Audit-Report-PancakeSwap-PredictionV2-v1.0.pdf)
+  * [慢雾对彩票 V2 的安全审计](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20PancakeSwap%20Lottery.pdf)
+  * [派盾对彩票 V2 的安全审计](https://github.com/peckshield/publications/blob/master/audit\_reports/PeckShield-Audit-Report-PancakeswapLottery-v1.0.pdf)
+  * [派盾对新版 CAKE 池的安全审计](https://github.com/peckshield/publications/tree/master/audit\_reports/PeckShield-Audit-Report-PancakeSwap-CakePool-v1.0.pdf)
+  * [慢雾对新版 CAKE 池的安全审计](https://github.com/slowmist/Knowledge-Base/blob/master/open-report-V2/smart-contract/SlowMist%20Audit%20Report%20-%20Pancakeswap-CakePool\_en-us.pdf)
+  * [派盾对主厨合约 V2 的安全审计](https://github.com/peckshield/publications/blob/master/audit\_reports/PeckShield-Audit-Report-PancakeSwap-MasterChefV2-v1.0.pdf)
+  * [慢雾对主厨合约 V2 的安全审计](https://github.com/slowmist/Knowledge-Base/blob/master/open-report-V2/smart-contract/SlowMist%20Audit%20Report%20-%20MasterChef%20v2\_en-us.pdf)
+  * [派盾对农场助推器的安全审计](https://github.com/peckshield/publications/blob/master/audit\_reports/PeckShield-Audit-Report-PancakeSwap-FarmBooster-v1.0.pdf)
+  * [慢雾对跨链农场的安全审计](https://github.com/slowmist/Knowledge-Base/blob/master/open-report-V2/smart-contract/SlowMist%20Audit%20Report%20-%20PancakeSwap%20-%20CrossChain\_en-us.pdf)
+  * [派盾对跨链农场的安全审计](https://github.com/peckshield/publications/blob/master/audit\_reports/PeckShield-Audit-Report-PancakeSwap-CrossFarming-v1.0.pdf)
+  * [BlockSec 对跨链农场的安全审计](https://github.com/blocksecteam/audit-reports/blob/main/solidity/blocksec\_pancakeswap\_cross\_farming\_v1.0\_signed.pdf)
 * 公开透明：
   * PancakeSwap 在开源软件上构造：我们的网站和所有的智能合约都是公开的，以便最大化透明度。
   * 我们的智能合约均已在 BscScan 上验证源码，您可以去亲自检查：[1](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E) [2](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#code) [3](https://bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812) [4](https://bscscan.com/address/0x1b96b92314c44b159149f7e0303511fb2fc4774f#code) [5](https://bscscan.com/address/0x92E8CeB7eAeD69fB6E4d9dA43F605D2610214E68)&#x20;
 * 安全操作章程：
-  * 对于所有智能合约的互动，大厨们均使用多签名钱包。
+  * 对于所有智能合约的互动，大厨们均使用多签钱包。
   * 合约均有时间锁，让您放心投资。
-
-
 
 **听起来很有趣对吧？**\
 **让我们立刻开始吧！**🐰 🥞
