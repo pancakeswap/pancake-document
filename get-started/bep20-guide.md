@@ -1,5 +1,7 @@
 # 获取 BEP-20 代币
 
+
+
 ![](<../.gitbook/assets/image (154).png>)
 
 币安智能链 (BSC) 上的原生代币为 **BEP-20** 标准。
@@ -11,15 +13,20 @@
 同时，您可以考虑使用下列几种方法，将您的代币转换为 BEP-20 标准：
 
 {% tabs %}
-{% tab title=" 🌉 币安跨链桥" %}
-[**币安跨链桥**](https://www.binance.org/en/bridge) - 无需注册账号，即可在币安智能链、币安链、以太坊、TRX 及 OMNI 网络间轻松转移资产。
+{% tab title=" 🥞🌉 Pancake 跨链桥" %}
+<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
-📖 [使用指南（英文）](https://binance-wallet.gitbook.io/binance-bridge/v/cn/guides/binance-bridge-v2)\
-🎥 [教程视频（中文）](https://fast.wistia.net/embed/iframe/d3wxsmtwoh)
+****[**PancakeSwap 跨链桥**](http://bridge.pancakeswap.finance/) **** —— 原生资产跨链桥，由 Stargate 提供支持。
+
+这座跨链桥让您可以无缝地将您的稳定币转移到 BNB 链上，参与活跃的 PancakeSwap 社区和体验 BNB 链上的庞大生态！
+
+📖 [学习如何使用（中文）](https://medium.com/pancakeswap/%E9%9A%86%E9%87%8D%E4%BB%8B%E7%BB%8D-pancakeswap-bridge-%E7%94%B1-stargate-%E6%8F%90%E4%BE%9B%E6%8A%80%E6%9C%AF%E6%94%AF%E6%8C%81%E7%9A%84%E5%8E%9F%E7%94%9F%E8%B5%84%E4%BA%A7%E8%B7%A8%E9%93%BE%E6%A1%A5-95441c3bc67e)
 {% endtab %}
 
 {% tab title="💰 币安官网 Binance.com" %}
-[**Binance.com**](https://github.com/pancakeswap/pancake-document/tree/255db0c7af28df2f9c1209daa5cdbd774490a666/get-started/www.binance.com) - 您可以在提现代币时选择 BEP-20 标准，以将他们提现到币安智能链 (BSC) 。请注意，您需要先注册一个币安账号。
+&#x20;[**Binance.com**](https://www.binance.com/zh-CN)&#x20;
+
+您可以通过您的币安账户（如果您有的话）跨链，在提现代币时选择 BEP-20 标准。请注意，您需要先注册一个币安账号。
 
 📖 [使用指南（中文）](https://www.binance.com/zh-CN/support/faq/85a1c394ac1d489fb0bfac0ef2fceafd)
 {% endtab %}

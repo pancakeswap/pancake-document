@@ -17,44 +17,14 @@ PancakeSwap 是一个去中心化的应用程序。 这意味着，与 Binance �
 在以下教程中，我们将使用三种不同的跨链桥来演示将 USDT 从各种不同的区块链转移到 BNB 智能链。
 
 {% tabs %}
-{% tab title="币安跨链桥（推荐）" %}
-Binance Bridge 可能是将资产转移到 BNB 智能链 (BSC) 上的最简单的跨链桥。&#x20;
+{% tab title="🥞🌉Pancakeswap 跨链桥" %}
+<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
-在以下示例中，我们将向您展示如何使用 Binance Bridge 将 USDT 从 TRON 区块链转移到 BSC。 转移过程和从以太坊迁移到 BSC 的过程大致相同。
+[**PancakeSwap 跨链桥**](http://bridge.pancakeswap.finance/) **** —— 原生资产跨链桥，由 Stargate 提供支持。
 
-1. 准备你的 TRON 钱包和USDT 以及一些 TRX 来以获取带宽（燃料）。&#x20;
-2. 由于 Binance Bridge 仅支持 MetaMask 和 Binance Chain Wallet。 如果您正在使用其他钱包应用程序，我们建议您将钱包导入 MetaMask。&#x20;
-3. 导航到 https://www.binance.org/en/bridge&#x20;
-4. 连接您的 MetaMask 或 BNB 智能链钱包。
-5. &#x20;选择TRX网络为“From”，BNB智能链网络为“To”。 然后输入您要转账的 USDT 金额。
+这座跨链桥让您可以无缝地将您的稳定币转移到 BNB 链上，参与活跃的 PancakeSwap 社区，和体验 BNB 链上的庞大生态！
 
-![](<../.gitbook/assets/image (155).png>)
-
-6\. 此外，在将您的 USDT 从 TRON 转移到 BSC 的过程中，您可以要求 Binance Bridge 为您交换一些 BNB。 当您刚接触 BNB 智能链并使用新钱包并需要一些 BNB 用于手续费时，这尤其有用。
-
-![](<../.gitbook/assets/image (87).png>)
-
-7\. 仔细检查“Destination”字段是否显示您已连接的正确 BNB 智能链钱包地址。
-
-8\. 点击下一步”。 并选择第四个选项。
-
-&#x20;**警告：您只能从区块链钱包（在本例中为 TRON）发送资金。 如果您的资金在其他一些中心化交易所，请先将它们转移到区块链钱包**。
-
-![](<../.gitbook/assets/image (195).png>)
-
-9\. 确保一切正确，单击“下一步”。&#x20;
-
-10\. 最后，请按照屏幕上的说明，使用您的区块链钱包（在本例中为 TRON 钱包）并将资金发送到给定的地址。 请确保：&#x20;
-
-1. 地址是正确的。&#x20;
-2. 一次性完成。&#x20;
-3. 在期限内完成。 （如下所示为倒计时）
-
-![](<../.gitbook/assets/image (192).png>)
-
-11\. 一旦完成交易，您的BNB 智能链钱包应该在几分钟内收到资金。 之后，您就可以开始使用 PancakeSwap 在 BNB Smart Chain 上兑换一些代币了！&#x20;
-
-此外，您可以查看 Binance 的[用户指南](https://binance-wallet.gitbook.io/binance-chain-wallet/bmw-guides-and-faq/defi/how-to-convert-bep20-tokens-to-erc20-on-binance-wallet)和[视频教程](https://fast.wistia.net/embed/iframe/fhip2z4nth)。
+📖 [学习如何使用（中文）](https://medium.com/pancakeswap/%E9%9A%86%E9%87%8D%E4%BB%8B%E7%BB%8D-pancakeswap-bridge-%E7%94%B1-stargate-%E6%8F%90%E4%BE%9B%E6%8A%80%E6%9C%AF%E6%94%AF%E6%8C%81%E7%9A%84%E5%8E%9F%E7%94%9F%E8%B5%84%E4%BA%A7%E8%B7%A8%E9%93%BE%E6%A1%A5-95441c3bc67e)
 {% endtab %}
 
 {% tab title="AnySwap" %}
