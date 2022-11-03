@@ -1,4 +1,4 @@
-# Community Manager - PTBR
+# Community Manager
 
 ### General Information&#x20;
 
@@ -32,7 +32,6 @@
 * Ideally, have an existing track record of contributions to PancakeSwap (made a video, wrote an article, helped the people in the community etc.).&#x20;
 * Excellent communication skill is a must.
 * Always keen on learning new tools/trends. Crypto space runs super fast, and you have to hop quickly.&#x20;
-* Have an iron heart to work with a duck. This isn’t a joke.&#x20;
 * BYO frying pan and spatula. Pancake batter is available upon request.
 
 **How to apply**

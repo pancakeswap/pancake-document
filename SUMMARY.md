@@ -129,7 +129,7 @@
   * [Business Development Manager](hiring/become-a-chef/business-development-manager.md)
   * [Communications/Public Relations Manager](hiring/become-a-chef/communications-public-relations-manager.md)
   * [Social Media Marketing Manager](hiring/become-a-chef/social-media-marketing-manager.md)
-  * [Community Manager - PTBR](hiring/become-a-chef/community-manager-ptbr.md)
+  * [Community Manager](hiring/become-a-chef/community-manager-ptbr.md)
 
 ## Reference
 
