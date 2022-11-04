@@ -16,22 +16,22 @@ description: PancakeSwap 计划来到 Aptos 链！
 
 精巧易用，越简单越安全！
 
-平台 TVL 近 30 亿美元，为此我们乐于快速变化，负重前行。凭借在加密市场两年的经验，从牛到熊，从 Defi Summer（到 Aptos Autumn?），我们不间断地为我们的社区提供 Defi 服务。
+平台 TVL 近 30 亿美元，为此我们乐于快速成长，负重前行。凭借在加密市场两年的经验，从牛到熊，从 Defi Summer（到 Aptos Autumn?），不间断地为我们的社区提供 Defi 服务。
 
-我们与合作项目的合作伙伴关系不仅限于流动性挖矿计划（ “糖浆池和农场” ），我们真正认识到了社区对加密生态的影响——因我们有专门的加密原生社区经理们和社区管理团队，帮助我们了解我们服务的多个社区中众多不同的声音与动态。并且我们会定期举办活动，在这些活动中我们看到了社区的高参与度和可观的用户流量。这些活动包括但不限于AMA、奖品挑战赛等等！
+我们与合作项目的伙伴关系不仅限于流动性挖矿计划（ “糖浆池和农场” ），我们真正认识到了社区对加密生态的影响——因有专门的加密原生社区经理们和社区管理团队，帮助了解我们服务的多个社区中众多不同的声音与动态。并且我们会定期举办活动，在这些活动中看到了社区的高参与度和可观的用户流量。这些活动包括但不限于AMA、奖品挑战赛等等！
 
-### 听起来很棒 - 那么我们应该如何取得联系？&#x20;
+### 听起来很棒 - 那么应该如何与厨房取得联系？&#x20;
 
-我们将分阶段在 Aptos 上发布。
+厨房将分阶段在 Aptos 上发布。
 
-1. 在我们的第一阶段，我们将开办流动性挖矿计划（“糖浆池和农场”）——会很快上线，有兴趣的项目请在[此处](https://docs.google.com/forms/d/e/1FAIpQLSceljMty-AKliByIMX6d1Kqtn88hMnzXnp\_DRBEQ7XptwiOGw/viewform)申请。&#x20;
-2. 在我们的第二阶段，我们将引入新币发行产品（“初次农场发行，或称作 IFO”）。这部分计划于 2022 年 11 月中下旬上线，目前我们正在整理一份候补名单，IFO 申请表请点击[此处](https://docs.google.com/forms/d/e/1FAIpQLSf9gWv9L8U0PGYgl-ymeX1qgXncBSlJ1HV5gB6ZeW7e4ekV\_w/viewform)。
+1. 在第一阶段，将开办流动性挖矿计划（“糖浆池和农场”）——会很快上线，有兴趣的项目请在[此处](https://docs.google.com/forms/d/e/1FAIpQLSceljMty-AKliByIMX6d1Kqtn88hMnzXnp\_DRBEQ7XptwiOGw/viewform)申请。&#x20;
+2. 在第二阶段，将引入新币发行产品（“初次农场发行，或称作 IFO”）。这部分计划于 2022 年 11 月中下旬上线，目前我们正在整理一份候补名单，IFO 申请表请点击[此处](https://docs.google.com/forms/d/e/1FAIpQLSf9gWv9L8U0PGYgl-ymeX1qgXncBSlJ1HV5gB6ZeW7e4ekV\_w/viewform)。
 
-想要了解有关我们的流动性挖矿计划（“糖浆池和农场”）的更多信息，请查看此 PDF：
+想要了解有关厨房的流动性挖矿计划（“糖浆池和农场”）的更多信息，请查看此 PDF：
 
 {% file src=".gitbook/assets/PancakeSwap Aptos Syrup Pools & Farms.pdf" %}
 
-想要了解有关我们的新币发行产品（“初次农场发行或 称作 IFO”）的更多信息，请查看此 PDF：
+想要了解有关厨房的新币发行产品（“初次农场发行或 称作 IFO”）的更多信息，请查看此 PDF：
 
 {% file src=".gitbook/assets/PancakeSwap Aptos IFOs.pdf" %}
 
@@ -44,7 +44,7 @@ description: PancakeSwap 计划来到 Aptos 链！
    * 厨房会根据表格中提供的信息调研，我们需要详细了解一些信息要点（请知悉，它们不是毫无意义的问题，因 PancakeSwap 非常重视用户的安全，我们也只想介绍有趣的项目给我们的社区）。
    * 团队通过了尽职调查——恭喜！
 3. 营销准备
-   * 我们会要求提供一些设计素材、项目信息，并创建一个可爱的宣传横幅（请查看下面的 STEPN 示例）和一篇 Meidum [文章](https://pancakeswap.finance/voting/proposal/QmTPyGYpg7Y4dEc9jLB9kwBrLe5kmnDSLfmk3GcFqPpdqs)（这里我们添加一个提案链接，但由于我们不会在初始 Aptos 部署中启动我们的投票机制，我们将先使用 Medium）&#x20;
+   * 厨房会要求提供一些设计素材、项目信息，并创建一个可爱的宣传横幅（请查看下面的 STEPN 示例）和一篇 Meidum [文章](https://pancakeswap.finance/voting/proposal/QmTPyGYpg7Y4dEc9jLB9kwBrLe5kmnDSLfmk3GcFqPpdqs)（这里我们添加一个提案链接，但由于我们不会在初始 Aptos 部署中启动我们的投票机制，我们将先使用 Medium）&#x20;
    * **请注意，在正式发布之前，PancakeSwap 或项目团队不应泄露双方合作的消息。**
 4. 发布
    * 我们正式发布糖浆池/农场，并且会通过我们的社区管理团队，监控、整理和交流社区提出的任何反馈。
@@ -64,7 +64,7 @@ description: PancakeSwap 计划来到 Aptos 链！
    * 对于我们的 “IFO申请”，与我们的糖浆池/农场申请相比，我们将会有更多的双向沟通：我们很乐于分享我们在代币经济学、产品、进入市场 (GTM) 策略等方面的知识以及目前经验总结。
    * 团队通过了尽职调查——恭喜！
 3. 营销准备
-   * 我们将要求一些设计素材，项目信息，并创建一个可爱的横幅（请查看下面的 Wombat Exchange 示例）和一篇 Medium [文章](https://pancakeswap.finance/voting/proposal/bafkreieqv7mbzmumyftstt6l32x6okfzq4syrea7k5zbqgohhcekcvbduu?chainId=56)（这里我们添加一个提案链接，但由于我们不会在初始 Aptos 部署中启动我们的投票机制，我们将先使用 Medium）。&#x20;
+   * 厨房将要求一些设计素材，项目信息，并创建一个可爱的横幅（请查看下面的 Wombat Exchange 示例）和一篇 Medium [文章](https://pancakeswap.finance/voting/proposal/bafkreieqv7mbzmumyftstt6l32x6okfzq4syrea7k5zbqgohhcekcvbduu?chainId=56)（这里我们添加一个提案链接，但由于我们不会在初始 Aptos 部署中启动我们的投票机制，我们将先使用 Medium）。&#x20;
    * 同时我们还将开始为之后的 AMA 搜集并整理问题&#x20;
    * **请注意，在发布之前，PancakeSwap 或项目团队不应泄露双方合作的消息。**
 4. [AMA](https://twitter.com/PancakeSwap/status/1562648945721212929) (一般在 IFO 前一天举行)
