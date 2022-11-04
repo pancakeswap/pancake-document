@@ -12,7 +12,7 @@ description: PancakeSwap 计划来到 Aptos 链！
 
 此页面可作为面对项目团队的快速Q\&A，帮助您了解我们 - 但如果您仍有任何未解答的疑惑，请咨询**Chef Icy**，我们的**业务发展主管**，透过 **Twitter (**[**https://twitter.com/PancakeIcy**](https://twitter.com/PancakeIcy)**) 或 TG**。
 
-### 所有 DeFi 事物的一站式体验
+### DeFi 事物的一站式体验
 
 精巧易用，越简单越安全！
 
