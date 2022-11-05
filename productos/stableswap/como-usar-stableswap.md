@@ -38,7 +38,7 @@ Hay algunas diferencias para la liquidez de StableSwap:
 
 4 - Sin embargo, TENGA EN CUENTA que cuando retire la liquidez, siempre obtendrá 50%/50% en los activos sin importar la proporción cuando agregó la liquidez. Como ejemplo simplificado: si suministró 199 HAY y 1 BUSD, cuando retire la liquidez recibirá 100 HAY y 100 BUSD asumiendo 0 deslizamientos y precios estables de 1:1.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Migre su Farm Staking HAY-BUSD**
 

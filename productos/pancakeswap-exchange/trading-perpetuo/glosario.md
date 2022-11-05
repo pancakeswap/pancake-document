@@ -10,7 +10,7 @@ Perpetuos, perpetual swaps, o perps son un tipo especial de contratos de futuros
 
 Apalancamiento es un mecanismo del trading. Los traders pueden usarlo para aumentar su exposición al mercado, permitiéndoles pagar menos que el importe total de la inversión. En resumen, pides dinero prestado para apalancar tu inversión.
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Margen
 
@@ -66,7 +66,7 @@ Nota: Si hay posiciones abiertas u órdenes abiertas en Futuros USDⓈ-M, no se 
 
 **Solo publicación**: el modo de solo publicación significa que los traders solo pueden realizar una orden si ésta iría al libro de órdenes como una orden Maker. Se rechazará una orden que se publicaría como una orden de tomador (Taker). No se pueden colocar Órdenes de Mercado y no se ejecutarán Órdenes. Las órdenes en espera pueden cancelarse en el modo de solo publicación.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 **Reduce Only:** Las órdenes de "Sólo reducir" sólo podrán reducir su posición, no incrementarla.
 
