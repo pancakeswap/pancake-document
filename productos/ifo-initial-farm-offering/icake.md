@@ -6,13 +6,13 @@ description: Staking de CAKE a plazo fijo y asignaciones de IFO
 
 ### Qué es **iCAKE?**
 
-CAKE es similar a los "créditos IFO" del pool anterior de IFO CAKE, que se retiró durante la migración de MasterChef v2. A partir de esta actualización, iCAKE determinará el límite máximo de compromiso de CAKE en las ventas públicas de IFO en PancakeSwap. Por ejemplo, si tiene 200 iCAKE, podrá comprometer 200 CAKE en cualquier próxima venta pública de IFO.&#x20;
+iCAKE es similar a los "créditos IFO" del pool anterior de IFO CAKE, que se retiró durante la migración de MasterChef v2. A partir de esta actualización, iCAKE determinará el límite máximo de compromiso de CAKE en las ventas públicas de IFO en PancakeSwap. Por ejemplo, si tiene 200 iCAKE, podrá comprometer 200 CAKE en cualquier próxima venta pública de IFO.&#x20;
 
 **iCAKE NO es un token nuevo, es una cálculo numérico utilizado por el sistema PancakeSwap IFO.**
 
 ### Cómo se calcula iCAKE?
 
-La cantidad de iCAKE que tiene se basa en la cantidad de CAKE depositados en el pool de CAKE a plazo fijo y el periodo total de su posición de staking a plazo fijo actual.
+La cantidad de iCAKE que tiene se basa en la cantidad de CAKE depositados en el pool de CAKE a plazo fijo y el período total de su posición de staking a plazo fijo actual.
 
 iCAKE funciona en función de un umbral de duración de participación para todos los usuarios de iCAKE.&#x20;
 
