@@ -16,8 +16,8 @@
 
 ### Conecta con Aptos Mainnet
 
-Aptos has multiple networks, including multiple devnets and testnets. But to use PancakeSwap on Aptos Chain, please be sure your wallet is connected to **Aptos Mainnet**.
+Aptos tiene múltiples redes, incluyendo múltiples devnets y testnets. Pero para usar PancakeSwap en la red de Aptos, por favor asegurate de que tu wallet esté conectada a la **Aptos Mainnet**.
 
+Así puedes hacerlo:
 
-
-![](<../.gitbook/assets/image (6).png>)
+![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2FCszMaKSs3h4WcbCv9vQZ%2Faptos-network-switching-petra.gif?alt=media\&token=f871bdf0-81ff-4f93-aa26-b67f988f209c)
