@@ -1,6 +1,6 @@
 # Obtenha Tokens BEP20
 
-![](../.gitbook/assets/how-to-get-bep20-tokens-header.png)
+![](<../.gitbook/assets/how-to-get-bep20-tokens-header (1).png>)
 
 Os tokens nativos da BNB Smart Chain (BSC) são BEP20.&#x20;
 

@@ -1,63 +1,63 @@
-# 🎟 Lottery v2
+# 🎟 Loteria v2
 
 ![](../../.gitbook/assets/lottery-v2-header.png)
 
-Playing the PancakeSwap Lottery gives you a chance to win huge CAKE prizes! It's easy, fair, and you can enter as often as you like as long as you have the CAKE to buy a ticket.
+Jogar na Loteria PancakeSwap dá a você a chance de ganhar grandes prêmios em CAKE! É fácil, justo e você pode entrar quantas vezes quiser, desde que tenha CAKE para comprar o bilhete.
 
-[View smart contract](https://bscscan.com/address/0x5aF6D33DE2ccEC94efb1bDF8f92Bd58085432d2c)
+[Veja o Smart Contract](https://bscscan.com/address/0x5aF6D33DE2ccEC94efb1bDF8f92Bd58085432d2c)
 
-## **Specifics:**
+## **Especificações:**
 
-* Lottery ticket cost for 1 ticket: \~$5 USD in CAKE.
-* Individual user Lottery entry limit: No overall limit, but only 100 tickets can be bought at a time.
-* Paying for one ticket will give users a random 6-digit combination with each digit being between 0-9, for e.g. “1-9-3-2-0-4”. Match numbers from the left to win prizes—the more numbers that match, the bigger the prize pool you'll share in.
-* Lottery uses Chainlink's implementation of VRF for true, secure randomness.
+* Preço de 1 bilhete da Loteira: \~$5 USD em CAKE.
+* Limite de entrada de usuário individual na loteria: Não há limite geral, mas apenas 100 bilhetes podem ser comprados por vez.
+* Pagar por um bilhete dará aos usuários uma combinação aleatória de 6 dígitos com cada dígito entre 0-9, por exemplo. “1-9-3-2-0-4”. Os números devem corresponder da esquerda para direita para ganhar prêmios — quanto mais números corresponderem, maior será o prêmio total que você compartilhará.
+* Lottery usa a implementação de VRF da Chainlink para aleatoriedade verdadeira e segura.
 
-## Ticket costs and bulk purchase discount
+## Custos do Bilhete e Desconto na compra no atacado
 
-Lottery ticket prices are set at the start of the new lottery round, and target $5 USD (may vary slightly with sudden price fluctuations).
+Os preços dos bilhetes de loteria são definidos no início da nova rodada de loteria e têm como meta $5 USD (podem variar um pouco com flutuações repentinas de preços).&#x20;
 
-Buying multiple Lottery tickets at once gives a bulk discount on your purchase. You can buy as many as 100 tickets in one purchase, with the discount starting small at 2 tickets, and scaling up to 4.95% at 100 tickets.
+A compra de vários bilhetes de loteria de uma só vez oferece um desconto de atacado na sua compra. Você pode comprar até 100 ingressos em uma compra, com o desconto começando pequeno em 2 ingressos e aumentando até 4,95% em 100 ingressos..
 
 ![](<../../.gitbook/assets/image (146).png>)
 
-## **How to win**
+## **Como ganhar**
 
-Match numbers, **from the left side of your ticket**, to the winning numbers drawn at the end of a Lottery round.
+Os números devem corresponder, **em ordem a partir do lado esquerdo do seu bilhete**, com os números vencedores sorteados no final de uma rodada de loteria.
 
-* Matching even just the first number will win you a small prize.
-* Match more numbers to win a share of a larger prize pool.
+* Acertar até mesmo o primeiro número lhe dará um pequeno prêmio.
+* Acerte mais números para ganhar uma parte de um prêmio maior.
 
-## **‌**Prize eligibility
+## **Qualificação para o ‌**Prêmio
 
-‌There are a total of six lottery balls, from 0 to 9, on each ticket. To win, your numbers need to match the drawn numbers in the same order as the lottery balls, starting from the left of the ticket. For example:
+‌‌Há um total de seis bolas de loteria, de 0 a 9, em cada bilhete. Para ganhar, seus números precisam corresponder aos números sorteados na mesma ordem das bolas de loteria, começando da esquerda do bilhete. Por exemplo:&#x20;
 
-Drawn numbers
+Números sorteados
 
 ![Drawn Numbers](<../../.gitbook/assets/image (148).png>)
 
-Your ticket's numbers
+Os números do seu bilhete
 
 ![Your Ticket A](<../../.gitbook/assets/image (95) (1) (1).png>)
 
-In the example above, Ticket A, five of the ticket's numbers match the same drawn numbers, in the exact same order: all except the fourth one.
+No exemplo acima, Bilhete A, cinco dos números do bilhete correspondem aos mesmos números sorteados, exatamente na mesma ordem: todos, exceto o quarto.&#x20;
 
-However, since the fourth digit does **not** match the drawn number, only the first three digits count as matching in order. This would win a "Match first 3" prize.
+No entanto, como o quarto dígito não corresponde ao número sorteado, apenas os três primeiros dígitos contam como correspondência na ordem. Isso ganharia um prêmio por ter acertado os 3 primeiros, "Match first 3".
 
 ![Your Ticket B](<../../.gitbook/assets/image (149).png>)
 
-Example Ticket B. Here's an unlucky one. Even though the last five digits match, the first digit doesn't match, so this ticket doesn't win anything at all.
+Exemplo de Bilhete B. Aqui está um azarado. Mesmo que os últimos cinco dígitos correspondam, o primeiro dígito não corresponde, então este bilhete não ganha nada.&#x20;
 
-You will only share in prizes from the highest prize bracket you are eligible for. A ticket matching the first three numbers will only be eligible for prizes from the match-three bracket, and not for the match-one or match-two brackets.
+Você só compartilhará os prêmios da faixa de prêmios mais alta para a qual é elegível. Um bilhete que corresponda aos três primeiros números só será elegível para prêmios de ter acertado 3, e não para os prêmios de um ou dois.&#x20;
 
-**Remember: The digits must match in order, starting from left to right.**
+**Lembre-se: Os dígitos devem corresponder em ordem, começando da esquerda para a direita.**
 
-## Prize sharing across prize brackets
+## Divisão dos prêmios por faixas de prêmios
 
-‌After a round is drawn, and tickets with matching numbers are determined, the prizes are awarded. The amount won by each ticket will depend on how many other tickets won in the same prize bracket.
+‌‌Depois que uma rodada é sorteada e os bilhetes com números correspondentes são determinados, os prêmios são concedidos. O valor ganho por cada bilhete dependerá de quantos outros bilhetes ganharam na mesma faixa de prêmios. ‌
 
-‌For example, if you have the only ticket that matched three numbers in order, and the predetermined share of the prize pool for your bracket was 2000 CAKE, you'll receive the full 2000 CAKE.
+Por exemplo, se você tiver o único bilhete que acertou três números em ordem e a parte predeterminada do prêmio total para sua faixa foi de 2.000 CAKE, você receberá o 2.000 CAKE todos. ‌
 
-‌If, however, you and three other people match three numbers in order, the 2000 CAKE would be split between the four winning tickets, meaning you would receive 500 CAKE.
+Se, no entanto, você e três outras pessoas acertarem três números em ordem, os 2000 CAKE será dividido entre os quatro bilhetes vencedores, o que significa que você receberá 500 CAKE.&#x20;
 
-See the [Lottery FAQ for a breakdown of prizes](lottery-faq.md#how-are-prizes-broken-down-between-brackets) across each bracket.
+Veja as [Perguntas Frequentes sobre a Loteria](lottery-faq.md) para ver os prêmios em cada faixa.

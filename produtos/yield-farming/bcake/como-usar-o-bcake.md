@@ -54,7 +54,7 @@ Você precisará desativar um impulsionamento ativo para ativar outro impulsiona
 
 ## Desativar Impulsionamentos <a href="#unset-boosters" id="unset-boosters"></a>
 
-![](<../../../.gitbook/assets/image (18) (1).png>)
+![](<../../../.gitbook/assets/image (18) (1) (1).png>)
 
 Para cancelar um impulsionamento de farm, basta clicar no botão "Unset/Desativar" e confirmar a transação na sua carteira.
 

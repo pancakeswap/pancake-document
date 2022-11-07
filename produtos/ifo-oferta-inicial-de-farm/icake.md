@@ -46,11 +46,11 @@ Você pode aumentar o número de iCAKE que você tem:&#x20;
 
 Você pode visualizar o número de iCAKE gerado a partir de sua posição de stake ao ajustar ou inicializar o stake de prazo fixo.
 
-### Qual é o ponto de entrada para os cálculos de iCAKE?&#x20;
+### Qual é o limiar para os cálculos de iCAKE?&#x20;
 
-Entre cada IFOs, a cozinha otimizará o ponoto de entrada com base na duração média de stake da pool de CAKE de staking de prazo fixo. O reajuste será publicado em todas as redes sociais.
+Entre cada IFOs, a cozinha otimizará o limiar com base na duração média de stake da pool de CAKE de staking de prazo fixo. O reajuste será publicado em todas as redes sociais.
 
 ![](<../../.gitbook/assets/image (35).png>)
 
-Você pode verificar o ponto de entrada atual para cálculos de iCAKE passando o mouse ou tocando no texto iCAKE sublinhado na janela do pool de syrup CAKE.
+Você pode verificar o limiar atual para cálculos de iCAKE passando o mouse ou tocando no texto iCAKE sublinhado na janela do pool de syrup CAKE.
 
