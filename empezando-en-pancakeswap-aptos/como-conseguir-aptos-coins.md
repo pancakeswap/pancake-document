@@ -1,10 +1,10 @@
-# Get Aptos Coins
+# Cómo conseguir Aptos Coins
 
-The native token of Aptos Chain is **Aptos Coin (APT)**.
+El token nativo de la red Aptos es **Aptos Coin (APT)**.
 
-To do most things on Aptos Chain, you will need to pay gas, which comes in the form of APT.
+Para operar en la red de Aptos, necesitarás pagar el gas, que se hace con APT.
 
-You will also need the tokens you want to trade or stake on Aptos Chain. There are a few ways to bring your assets to Aptos Chain, but here are the ones we recommend:
+También necesitarás que los tokens que vayas a tradear o poner en stake, estén en la red de Aptos. Hat varias maneras de llevar tus tokens a la red de Aptos, pero acá están las que recomendamos:
 
 {% tabs %}
 {% tab title="Binance.com" %}
