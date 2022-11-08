@@ -10,6 +10,7 @@
   * [Create a Wallet](get-started-aptos/wallet-guide.md)
   * [Get Aptos Coins](get-started-aptos/aptos-coin-guide.md)
   * [Connect Your Wallet to PancakeSwap](get-started-aptos/connection-guide.md)
+  * [Aptos FAQ](get-started-aptos/aptos-faq.md)
 * [Click Here for Help](help/README.md)
   * [Troubleshooting Errors](help/troubleshooting.md)
   * [General FAQ](help/faq.md)

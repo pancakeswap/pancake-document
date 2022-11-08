@@ -53,7 +53,7 @@ You can find more in-depth information about each wallet below, as well as downl
 
 {% tabs %}
 {% tab title="Petra" %}
-<figure><img src="../.gitbook/assets/image (38) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 Petra wallet is an extension that lets you explore Aptos in your browser.
 
@@ -76,7 +76,7 @@ Petra wallet is an extension that lets you explore Aptos in your browser.
 {% endtab %}
 
 {% tab title="Martian" %}
-<figure><img src="../.gitbook/assets/image (36) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 Martian is an Aptos Chain wallet that allows you to store, send, receive tokens and manage & mint NFTs. Its mobile version is coming soon.
 
@@ -108,7 +108,7 @@ Pontem Wallet is an Aptos Chain wallet that allows you to store, send, receive t
 {% endtab %}
 
 {% tab title="Fewcha" %}
-<figure><img src="../.gitbook/assets/image (39) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Currently, Fewcha wallet has an issue with importing private keys. Recommend trying out other wallets for now.
@@ -128,7 +128,7 @@ Fewcha Wallet is an Aptos Chain wallet that allows you to store, send, receive t
 {% endtab %}
 
 {% tab title="Blocto" %}
-****![](<../.gitbook/assets/image (37) (1).png>)****
+****![](<../.gitbook/assets/image (37).png>)****
 
 Blocto offers a user-friendly solution and an all-in-one package for using Dapps and managing your assets.
 
@@ -190,7 +190,7 @@ You can find more in-depth information about each wallet below, as well as downl
 
 {% tabs %}
 {% tab title="Blocto" %}
-****![](<../.gitbook/assets/image (37) (1).png>)****
+****![](<../.gitbook/assets/image (37).png>)****
 
 Blocto offers a user-friendly solution and an all-in-one package for using Dapps and managing your assets.
 
