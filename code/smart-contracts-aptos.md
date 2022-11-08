@@ -14,4 +14,12 @@ description: >-
 
 `0xc7efb4076dbe143cbcd98cfaaa929ecfc8f299203dfff63b95ccb6bfe19850fa`
 
-[https://github.com/pancakeswap/pancake-contracts-move](https://github.com/pancakeswap/pancake-contracts-move)
+{% embed url="https://github.com/pancakeswap/pancake-contracts-move" %}
+
+## Audits
+
+[Slowmist's PancakeSwap Aptos DEX security audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report-V2/smart-contract/SlowMist%20Audit%20Report%20-%20PancakeSwap\_MOVE\_en-us.pdf)
+
+OtterSec's PancakeSwap Aptos DEX security audit:
+
+{% file src="../.gitbook/assets/OtterSec Audit  Report - PancakeSwap Swap - Move.pdf" %}
