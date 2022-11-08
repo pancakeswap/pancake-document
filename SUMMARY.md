@@ -104,4 +104,3 @@
     * [公关经理](zhao-pin-xin-xi/cheng-wei-yi-ming-chu-shi/gong-guan-jing-li.md)
     * [社交媒体营销经理](zhao-pin-xin-xi/cheng-wei-yi-ming-chu-shi/she-jiao-mei-ti-ying-xiao-jing-li.md)
     * [社区经理-PTBR](zhao-pin-xin-xi/cheng-wei-yi-ming-chu-shi/she-qu-jing-li-ptbr.md)
-* [CAKE Tokenomics](cake-tokenomics.md)
