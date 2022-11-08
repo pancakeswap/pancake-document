@@ -30,7 +30,7 @@ It may sound intimidating, but it's not too complicated. Let's go through step b
 
 Before you proceed, you'll want to choose a Farm that's right for you. [Visit the Farms page](https://pancakeswap.finance/farms) and you’ll see a list of available Farms.
 
-![](<../../.gitbook/assets/image (1) (1).png>)
+![](<../../.gitbook/assets/image (1).png>)
 
 You can choose another sorting option if you like, such as by **APR** for the Farms with the highest reward rate currently.
 

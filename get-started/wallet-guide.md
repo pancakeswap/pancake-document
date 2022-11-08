@@ -50,7 +50,7 @@ You can find more in-depth information about each wallet below, as well as downl
 
 {% tabs %}
 {% tab title="Trust Wallet" %}
-![](<../.gitbook/assets/image (36) (1).png>)
+![](<../.gitbook/assets/image (36).png>)
 
 Trust Wallet is a popular wallet for smart devices. It supports DApps, NFT collectibles (with Opensea.io support), and in-wallet staking.
 
@@ -274,7 +274,7 @@ MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethe
 {% endtab %}
 
 {% tab title="Binance Wallet" %}
-![](<../.gitbook/assets/image (39) (1).png>)
+![](<../.gitbook/assets/image (39).png>)
 
 Binance Wallet is a browser-plugin wallet that natively supports the Binance Chain (BEP2) BNB Smart Chain (BEP20) networks. Binance Wallet was developed by the Binance cryptocurrency exchange.
 
