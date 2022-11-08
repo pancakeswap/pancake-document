@@ -16,7 +16,7 @@ Check out [our wallet guide](wallet-guide.md) to download and set up your wallet
 
 This is likely due to bad network connections to blockchain nodes. Refresh the page, and check your network connection.
 
-If the error persists, it means the pair of coins you are trying to swap has sufficient liquidity for the amount you are trying to swap. The liquidity for major coins will slowly and steadily be improved over time, and the liquidity issue will likely be solved when our Aptos Farms are deployed. (SOON!)
+If the error persists, it means the pair of coins you are trying to swap has insufficient liquidity for the amount you are trying to swap. The liquidity for major coins will slowly and steadily be improved over time, and the liquidity issue will likely be solved when our Aptos Farms are deployed. (SOON!)
 
 ### I couldn't find the coin I wanted to swap
 
