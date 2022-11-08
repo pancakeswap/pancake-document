@@ -1,6 +1,6 @@
 # Get Aptos Coins
 
-![](../.gitbook/assets/how-to-get-bep20-tokens-header.png)
+![](../.gitbook/assets/how-to-get-aptos-coins-header.png)
 
 The native token of Aptos Chain is **Aptos Coin (APT)**.
 
