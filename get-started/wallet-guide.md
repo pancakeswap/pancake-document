@@ -35,44 +35,19 @@ Smartphone/Mobile wallets allow you to access your crypto almost anywhere. Walle
 
 This comparison table gives an overview of the most popular mobile wallets used with PancakeSwap.
 
-|                                                          | Token Pocket | MetaMask | Coinbase Wallet | Trust Wallet                  | SafePal |
-| -------------------------------------------------------- | ------------ | -------- | --------------- | ----------------------------- | ------- |
-| BNB Smart Chain support                                  | ✅            | ⚠️       | ✅               | ✅                             | ✅       |
-| Built-in DApp browser                                    | ✅            | ➖        | ✅               | <p>✅ Android</p><p>⚠️ iOS</p> | ✅       |
-| Hardware wallet compatible                               | ➖            | ✅        | ✅               | ➖                             | 🔶      |
-| Open source (auditability)                               | ✅            | ✅        | ✅               | ✅                             | ➖       |
-| <p>Interact with BscScan</p><p>(for advanced users!)</p> | ➖            | ✅        | ➖               | ➖                             | ➖       |
+|                                                                   | MetaMask | Coinbase Wallet | SafePal                    | Trust Wallet                  | Token Pocket |
+| ----------------------------------------------------------------- | -------- | --------------- | -------------------------- | ----------------------------- | ------------ |
+| BNB Smart Chain support                                           | ⚠️       | ✅               | ✅                          | ✅                             | ✅            |
+| Built-in DApp browser                                             | ➖        | ✅               | ✅                          | <p>✅ Android</p><p>⚠️ iOS</p> | ✅            |
+| Hardware wallet compatible                                        | ✅        | ✅               | <p>✅<br>(Only SafePal)</p> | ➖                             | ➖            |
+| Open source (auditability)                                        | ✅        | ✅               | ➖                          | ✅                             | ✅            |
+| <p>Interact with BscScan Directly</p><p>(for advanced users!)</p> | ✅        | ➖               | ➖                          | ➖                             | ➖            |
 
-⚠️ Requires some setup\
-🔶 Only supports SafePal hardware wallet
+⚠️ Requires some setup
 
 You can find more in-depth information about each wallet below, as well as download links and installation guides.
 
 {% tabs %}
-{% tab title="Trust Wallet" %}
-![](<../.gitbook/assets/image (36) (1).png>)
-
-Trust Wallet is a popular wallet for smart devices. It supports DApps, NFT collectibles (with Opensea.io support), and in-wallet staking.
-
-**Pros:**
-
-* Open source for auditability
-* Backed by the Binance cryptocurrency exchange
-* Easily switch between several crypto networks
-* Includes networks by default
-* Includes in-wallet staking options
-* Has additional features such as NFT collection, BNB staking, and DApp access within the wallet
-
-**Cons:**
-
-* Language tied to phone settings
-* Limited DApps
-* Transaction notifications can be delayed
-
-[**Download Trust Wallet**](https://trustwallet.com) (Automatically detects device)\
-[**Trust Wallet Setup Guide**](https://www.binance.com/en/blog/421499824684901157/How-to-Set-Up-and-Use-Trust-Wallet-for-Binance-Smart-Chain)
-{% endtab %}
-
 {% tab title="MetaMask" %}
 ![](<../.gitbook/assets/image (33) (3) (4) (5) (1) (1) (1) (1) (1) (1) (1).png>)
 
@@ -122,6 +97,52 @@ Millions of users choose Coinbase Wallet to earn yield with DeFi, swap more than
 __
 
 _Coinbase Wallet is a self-custody wallet providing software services subject to Coinbase Wallet_ [_Terms of Service_](https://wallet.coinbase.com/terms-of-service) _and_ [_Privacy Policy_](https://wallet.coinbase.com/privacy-policy)_. Coinbase Wallet is_ [_distinct_](https://help.coinbase.com/en/wallet/getting-started/what-s-the-difference-between-coinbase-com-and-wallet) _from Coinbase.com, and private keys for Coinbase Wallet are stored directly by the user and not by Coinbase. Fees may apply. You do not need a Coinbase.com account to use Coinbase Wallet._
+{% endtab %}
+
+{% tab title="SafePal" %}
+![SafePal is available as both a software and hardware wallet. The wallet is easy to install and create, and comes ready to support BEP2 (BNB Beacon Chain) and BEP20 (BNB Smart Chain) right away.](../.gitbook/assets/sfp\_new\_logo.webp)
+
+**Pros:**
+
+* Easily switch between several crypto networks
+* Has the option for Google Authenticator built in
+* Supports a large number of languages
+* Setup process is very simple
+* Is available as both a software and hardware wallet (work together)
+* Supports NFTs on both the BSC and ETH networks
+
+**Cons:**
+
+* Isn't fully open source
+* Does not give user notifications
+* Does not enforce strong security during initial setup and wallet creation
+
+​[**Download SafePal**](https://safepal.io/download) (Automatically detects device)\
+[**SafePal Setup Guide**](https://blog.safepal.io/binance-smart-chain-x-safepal/)
+{% endtab %}
+
+{% tab title="Trust Wallet" %}
+![](<../.gitbook/assets/image (36) (1).png>)
+
+Trust Wallet is a popular wallet for smart devices. It supports DApps, NFT collectibles (with Opensea.io support), and in-wallet staking.
+
+**Pros:**
+
+* Open source for auditability
+* Backed by the Binance cryptocurrency exchange
+* Easily switch between several crypto networks
+* Includes networks by default
+* Includes in-wallet staking options
+* Has additional features such as NFT collection, BNB staking, and DApp access within the wallet
+
+**Cons:**
+
+* Language tied to phone settings
+* Limited DApps
+* Transaction notifications can be delayed
+
+[**Download Trust Wallet**](https://trustwallet.com) (Automatically detects device)\
+[**Trust Wallet Setup Guide**](https://www.binance.com/en/blog/421499824684901157/How-to-Set-Up-and-Use-Trust-Wallet-for-Binance-Smart-Chain)
 {% endtab %}
 
 {% tab title="Token Pocket" %}
@@ -198,33 +219,6 @@ The genuine PancakeSwap site and staff will never ask you to input your seed phr
 
 Now you have your private key ready to import your wallet into the desktop version of Token Pocket.
 {% endtab %}
-
-{% tab title="SafePal" %}
-![](<../.gitbook/assets/image (26) (1).png>)
-
-SafePal is available as both a software and hardware wallet. The wallet is easy to install and create, and comes ready to support BEP2 (Binance Chain) and BEP20 (BNB Smart Chain) right away.
-
-**Pros:**
-
-* Easily switch between several crypto networks
-* Offers 25% fee discount paying with BNB (requires login)
-* Has the option for Google Authenticator built in
-* Supports a large number of languages
-* Setup process is very simple
-* Is available as both a software and hardware wallet (work together)
-* Supports NFTs on both the BSC and ETH networks
-
-**Cons:**
-
-* Isn't fully open source
-* Has some features that are not yet ready for use (such as DeFi)
-* Does not give user notifications
-* Does not enforce strong security during initial setup and wallet creation
-* Has fewer online resources than more established wallets
-
-​[**Download SafePal**](https://safepal.io/download) (Automatically detects device)\
-[**SafePal Setup Guide**](https://blog.safepal.io/binance-smart-chain-x-safepal/)
-{% endtab %}
 {% endtabs %}
 
 ## **Desktop/Web Browser wallets**
@@ -235,13 +229,13 @@ Desktop wallets are available on your home computer or laptop computer. Wallets 
 
 This comparison table gives an overview of the most popular desktop wallets used with PancakeSwap.
 
-|                                                          | MetaMask | Binance Wallet | Coinbase Wallet | Token Pocket |
-| -------------------------------------------------------- | -------- | -------------- | --------------- | ------------ |
-| BNB Smart Chain support                                  | ⚠️       | ✅              | ✅               | ⚠️           |
-| Built-in DApp browser                                    | ➖        | ➖              | ➖               | ✅            |
-| Hardware wallet compatible                               | ✅        | ✅              | ✅               | ➖            |
-| Open source (auditability)                               | ✅        | ✅              | ✅               | ✅            |
-| <p>Interact with BscScan</p><p>(for advanced users!)</p> | ✅        | ➖              | ➖               | ➖            |
+|                                                                   | MetaMask | Binance Wallet | Coinbase Wallet | Token Pocket |
+| ----------------------------------------------------------------- | -------- | -------------- | --------------- | ------------ |
+| BNB Smart Chain support                                           | ⚠️       | ✅              | ✅               | ⚠️           |
+| Built-in DApp browser                                             | ➖        | ➖              | ➖               | ✅            |
+| Hardware wallet compatible                                        | ✅        | ✅              | ✅               | ➖            |
+| Open source (auditability)                                        | ✅        | ✅              | ✅               | ✅            |
+| <p>Interact with BscScan Directly</p><p>(for advanced users!)</p> | ✅        | ➖              | ➖               | ➖            |
 
 ⚠️ Requires additional setup
 
