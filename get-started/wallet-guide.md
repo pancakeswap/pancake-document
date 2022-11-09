@@ -35,13 +35,13 @@ Smartphone/Mobile wallets allow you to access your crypto almost anywhere. Walle
 
 This comparison table gives an overview of the most popular mobile wallets used with PancakeSwap.
 
-|                                                                   | MetaMask | Coinbase Wallet | SafePal                    | Trust Wallet                  | Token Pocket |
-| ----------------------------------------------------------------- | -------- | --------------- | -------------------------- | ----------------------------- | ------------ |
-| BNB Smart Chain support                                           | ⚠️       | ✅               | ✅                          | ✅                             | ✅            |
-| Built-in DApp browser                                             | ➖        | ✅               | ✅                          | <p>✅ Android</p><p>⚠️ iOS</p> | ✅            |
-| Hardware wallet compatible                                        | ✅        | ✅               | <p>✅<br>(Only SafePal)</p> | ➖                             | ➖            |
-| Open source (auditability)                                        | ✅        | ✅               | ➖                          | ✅                             | ✅            |
-| <p>Interact with BscScan Directly</p><p>(for advanced users!)</p> | ✅        | ➖               | ➖                          | ➖                             | ➖            |
+|                                                                   | MetaMask | Coinbase Wallet | SafePal                    | Trust Wallet | Token Pocket |
+| ----------------------------------------------------------------- | -------- | --------------- | -------------------------- | ------------ | ------------ |
+| BNB Smart Chain support                                           | ⚠️       | ✅               | ✅                          | ✅            | ✅            |
+| Built-in DApp browser                                             | ➖        | ✅               | ✅                          | ✅            | ✅            |
+| Hardware wallet compatible                                        | ✅        | ✅               | <p>✅<br>(Only SafePal)</p> | ➖            | ➖            |
+| Open source (auditability)                                        | ✅        | ✅               | ➖                          | ✅            | ✅            |
+| <p>Interact with BscScan Directly</p><p>(for advanced users!)</p> | ✅        | ➖               | ➖                          | ➖            | ➖            |
 
 ⚠️ Requires some setup
 

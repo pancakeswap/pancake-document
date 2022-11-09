@@ -1,7 +1,7 @@
 # Table of contents
 
 * [PancakeSwap Intro](README.md)
-* [Get Started](get-started/README.md)
+* [Get Started (BSC)](get-started/README.md)
   * [Create a Wallet](get-started/wallet-guide.md)
   * [Get BEP20 Tokens](get-started/bep20-guide.md)
   * [Using PancakeSwap without Centralized Exchanges](get-started/using-pancakeswap-without-centralized-exchanges.md)

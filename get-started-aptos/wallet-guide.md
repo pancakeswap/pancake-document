@@ -41,12 +41,12 @@ Smartphone/Mobile wallets allow you to access your crypto almost anywhere. Walle
 
 This comparison table gives an overview of the most popular mobile wallets used with PancakeSwap.
 
-|                            | SafePal                        | Blocto |
-| -------------------------- | ------------------------------ | ------ |
-| Aptos Chain support        | ✅                              | ✅      |
-| Built-in DApp browser      | ✅                              | ✅      |
-| Hardware wallet compatible | <p>✅ </p><p>(Only SafePal)</p> | ➖      |
-| Open source (auditability) | ➖                              | ➖      |
+|                            | SafePal                        | Trust Wallet | Blocto |
+| -------------------------- | ------------------------------ | ------------ | ------ |
+| Aptos Chain support        | ✅                              | ✅            | ✅      |
+| Built-in DApp browser      | ✅                              | ✅ (iOS only) | ✅      |
+| Hardware wallet compatible | <p>✅ </p><p>(Only SafePal)</p> | ➖            | ➖      |
+| Open source (auditability) | ➖                              | ✅            | ➖      |
 
 You can find more in-depth information about each wallet below, as well as download links and installation guides.
 
@@ -70,6 +70,31 @@ You can find more in-depth information about each wallet below, as well as downl
 
 ​[**Download SafePal**](https://safepal.io/download) (Automatically detects device) \
 [**SafePal Setup Guide for Aptos**](https://safepalsupport.zendesk.com/hc/en-us/articles/10061372532891-How-to-add-send-Aptos-mainnet-coin-APT-with-SafePal-Software-Wallet)****
+{% endtab %}
+
+{% tab title="Trust Wallet" %}
+​
+
+<figure><img src="https://files.gitbook.com/v0/b/gitbook-legacy-files/o/assets%2F-MHREX7DHcljbY5IkjgJ%2F-Maajz3RNBhCbi_iel09%2F-MaaqWJXQio1awWtJiub%2Fimage.png?alt=media&#x26;token=63e7a2d9-8a05-49ac-b3dd-063f87f3a8b6" alt=""><figcaption></figcaption></figure>
+
+Trust Wallet is a popular wallet for smart devices. It supports DApps, NFT collectibles (with Opensea.io support), and in-wallet staking.
+
+**Pros:**
+
+* Open source for auditability
+* Backed by the Binance cryptocurrency exchange
+* Easily switch between several crypto networks
+* Includes Aptos networks by default
+
+**Cons:**
+
+* Currently only iOS version supports Aptos
+* Language tied to phone settings
+* Limited DApps
+* Transaction notifications can be delayed
+
+[**Download Trust Wallet**](https://trustwallet.com) (Automatically detects device)\
+[**Trust Wallet Setup Guide for Aptos**](https://community.trustwallet.com/t/trust-wallet-adds-native-support-for-aptos-apt/575701)****
 {% endtab %}
 
 {% tab title="Blocto" %}
