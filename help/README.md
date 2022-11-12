@@ -25,3 +25,13 @@ There are also a number of guides in the help topic that will walk you through t
 ## Seeking support
 
 PancakeSwap doesn't have a dedicated support service. Instead, if you find yourself with a problem that has no answer here, you can ask for help on [PancakeSwap's Telegram channel](https://t.me/pancakeswap). For your safety, make sure you read the notice about scams if it's your first time on our Telegram.
+
+
+
+{% hint style="warning" %}
+**Looking for v1 Exchange?**
+
+[https://v1exchange.pancakeswap.finance/#/swap](https://v1exchange.pancakeswap.finance/#/swap)
+
+⚠️ PancakeSwap V1 Exchange was deprecated on May 2021. Go to the [V2 Exchange](https://pancakeswap.finance/swap?chainId=56) instead for better prices on most pairs.
+{% endhint %}

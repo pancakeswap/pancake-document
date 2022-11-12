@@ -23,11 +23,3 @@ Yield farming lets users that are providing liquidity earn CAKE rewards by locki
 ### Initial Farm Offerings (IFOs)
 
 An Initial Farm Offering is an event that lets users buy into a limited-time offer to purchase new tokens. The IFO price is usually very generous.
-
-{% hint style="info" %}
-**Looking for v1 Exchange?**
-
-[https://v1exchange.pancakeswap.finance/#/swap](https://v1exchange.pancakeswap.finance/#/swap)
-
-⚠️ PancakeSwap V1 Exchange was deprecated on May 2021. Go to the [V2 Exchange](https://pancakeswap.finance/swap?chainId=56) instead for better prices on most pairs.
-{% endhint %}
