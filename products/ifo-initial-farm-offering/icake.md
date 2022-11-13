@@ -48,7 +48,7 @@ iCAKE 类似于之前 IFO CAKE质押池中的"IFO 积分“，该池在 主厨�
 * 在 CAKE 定期锁仓糖浆池中，增加您质押的 CAKE 数量
 * 延长您的锁仓时间（如果您目前的总锁仓时间短于当前的阈值）
 
-<figure><img src="../../.gitbook/assets/image2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image2 (2).png" alt=""><figcaption></figcaption></figure>
 
 在您调整或初始投入锁仓质押时，锁仓界面将显示您当下的 iCAKE 数值以供预览。
 

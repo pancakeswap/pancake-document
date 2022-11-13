@@ -4,4 +4,4 @@
 
 <figure><img src="../.gitbook/assets/NFT.png" alt=""><figcaption></figcaption></figure>
 
-[申请NFT市场上市](../contact-us/nft-shi-chang-ying-yong.md)
+[申请在 NFT 市场上架我的项目](../contact-us/nft-shi-chang-ying-yong.md)
