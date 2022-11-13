@@ -22,11 +22,11 @@ description: 糖浆池：在 PancakeSwap 上免费赚取代币最简单的方法
 
 &#x20;  3.选择您的钱包并连接。
 
-<figure><img src="../../../.gitbook/assets/3 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
 
 &#x20; 4.选择一个您希望质押的糖浆池。
 
-<figure><img src="../../../.gitbook/assets/4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
 
 **CAKE 新版糖浆池**分为灵活质押和锁仓质押两种方式，详情请阅读[此处](../xin-ban-cake-tang-jiang-chi/)。
 
@@ -42,7 +42,7 @@ description: 糖浆池：在 PancakeSwap 上免费赚取代币最简单的方法
 
 &#x20; 7.输入您要质押的数量，或直接拖动兔子滑块来选择。
 
-<figure><img src="../../../.gitbook/assets/6 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
 
 &#x20; 8.点击**确认，**并在钱包弹出的消息中确认。
 

@@ -28,13 +28,13 @@ StableSwap 的流动性有一些不同之处：
 
 &#x20;1.当您选择启用了 StableSwap 的资产对时（例如 HAY-BUSD），前端会提示您提供“Stable LP”
 
-<figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
 &#x20;2\. 两种资产的供应数量可能在供应阶段是不平衡的，会有一个确认页面显示您的供应比例。
 
-<figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 (1).png" alt=""><figcaption></figcaption></figure>
 
 3\. 您将收到一个 Stable-LP 代币作为流动性凭证，以供将来提取和移除您的流动性。
 
@@ -66,13 +66,13 @@ StableSwap 的流动性有一些不同之处：
 
 &#x20;1\. 从[农场页面](https://pancakeswap.finance/farms)取消质押HAY-BUSD  LP&#x20;
 
-<figure><img src="../../.gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6 (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;2.在[流动性页面](https://pancakeswap.finance/liquidity)移除您的 HAY-BUSD LP 的流动性&#x20;
 
 &#x20;3\. 再次为 HAY-BUSD 添加流动性（这次您应该到 StableSwap 部分添加，您可以看到上方显示 stable LP）
 
-<figure><img src="../../.gitbook/assets/3 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 4\. 重新质押您的HAY-BUSD LP  到[农场页面](https://pancakeswap.finance/farms)（等到9月23日新农场发射后，请根据stable LP 标签查找相应的农场）
 
