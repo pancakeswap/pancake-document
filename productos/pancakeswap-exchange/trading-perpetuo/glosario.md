@@ -46,7 +46,7 @@ Es la garantía (en valores) que pones para tus posiciones apalancadas. Tiene do
 Nota: Si hay posiciones abiertas u órdenes abiertas en Futuros USDⓈ-M, no se puede activar el Modo de Activos Múltiples. El Modo de Activos Múltiples solo se aplica a Futuros USDⓈ-M. Antes de activar el modo de activos múltiples, lea la guía en detalle para administrar mejor el riesgo de la cuenta de futuros USDⓈ-M en consecuencia cuando utilice el modo de activos múltiples.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Órdenes
 

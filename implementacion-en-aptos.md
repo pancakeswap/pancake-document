@@ -10,9 +10,28 @@ description: ¡PancakeSwap está planeando desplegarse en Aptos!
 
 Desde nuestros inicios, PancakeSwap (PCS) ha prosperado en el terreno retail (minorista) de DeFi, estableciéndose como el DEX líder, con múltiples productos líderes en la industria: pools de liquidez; plataformas de lanzamiento (launchpads); predicciones (opciones binarias) y productos perpetuos (futuros); Mercados NFT – y por supuesto, la mejor comunidad 😉.&#x20;
 
-Esta página sirve como un rápido FAQ (preguntas más frecuentes) para que los equipos de proyectos descubran un poco más sobre nosotros, pero si tiene alguna otra pregunta, comuníquese con Chef Icy, BD Lider, en Twitter (https://twitter.com/PancakeIcy) o TG.&#x20;
+Esta página sirve como un rápido FAQ (preguntas más frecuentes) para que los equipos de proyectos descubran un poco más sobre nosotros, pero si tiene alguna otra pregunta, comuníquese con Chef Icy, BD Lider, en Twitter ([https://twitter.com/PancakeIcy](https://twitter.com/PancakeIcy)) o TG.&#x20;
 
-La elección de la gente para todo lo relacionado con DeFi ¡Lo simple es sexy, y también lo es la seguridad! Con casi $3 mil millones en TVL, nos gusta movernos rápidamente y hacerlo de manera responsable. Con dos años de experiencia en los criptomercados, desde el bull hasta el bear, desde el verano DeFi (¿hasta el otoño de Aptos?), hemos estado entregando DeFi a nuestra comunidad. Nuestras asociaciones con proyectos también van más allá de los programas de minería de liquidez ("Syrup Pools y Farms"), y realmente reconocen el impacto de la comunidad en las criptos. Nuestro equipo dedicado de CMs y Admins nos ayuda a mantener el pulso en las diversas comunidades a las que servimos, y regularmente organizamos eventos que ven un alto compromiso y flujo de usuarios a los proyectos: ¡AMAs, desafíos con premiaciones y muchos más! Está bien, ahora, ¿Cómo nos ponemos en contacto? Estamos desplegando en Aptos en fases escalonadas. Para nuestra primera fase, organizaremos programas de minería de liquidez ("Syrup Pools y Farms") – esto se pondrá en marcha pronto, por lo que los proyectos interesados deben aplicar aquí. Para nuestra segunda fase, presentaremos plataformas de lanzamiento ("Oferta Inicial de Farm, o IFO"). Esto está programado para entrar en funcionamiento a mediados o finales de noviembre de 2022, y actualmente estamos recopilando una lista de espera aquí. Para obtener más información sobre nuestros programas de minería de liquidez ("Syrup Pools y Farms"), consulte este PDF: .PDF Para obtener más información sobre nuestras plataformas de lanzamiento ("Oferta inicial de Farm o IFO"), consulte este PDF: .PDF
+### La elección de la gente para todo lo relacionado con DeFi&#x20;
+
+¡Lo simple es sexy, y también lo es la seguridad!&#x20;
+
+Con casi $3 mil millones en TVL, nos gusta movernos rápidamente y hacerlo de manera responsable. Con dos años de experiencia en los criptomercados, desde el bull hasta el bear, desde el verano DeFi (¿hasta el otoño de Aptos?), hemos estado entregando DeFi a nuestra comunidad.&#x20;
+
+Nuestras asociaciones con proyectos también van más allá de los programas de minería de liquidez ("Syrup Pools y Farms"), y realmente reconocen el impacto de la comunidad en las criptos. Nuestro equipo dedicado de CMs y Admins nos ayuda a mantener el pulso en las diversas comunidades a las que servimos, y regularmente organizamos eventos que ven un alto compromiso y flujo de usuarios a los proyectos: ¡AMAs, desafíos con premiaciones y muchos más!&#x20;
+
+### Está bien, compro, ¿Cómo nos ponemos en contacto?&#x20;
+
+Estamos desplegando en Aptos en fases escalonadas.&#x20;
+
+1. Para nuestra primera fase, organizaremos programas de minería de liquidez ("Syrup Pools y Farms") – esto se pondrá en marcha pronto, por lo que los proyectos interesados deben aplicar aquí.&#x20;
+2. Para nuestra segunda fase, presentaremos plataformas de lanzamiento ("Oferta Inicial de Farm, o IFO"). Esto está programado para entrar en funcionamiento a mediados o finales de noviembre de 2022, y actualmente estamos recopilando una lista de espera aquí.&#x20;
+
+Para obtener más información sobre nuestros programas de minería de liquidez ("Syrup Pools y Farms"), consulte este PDF:
+
+
+
+Para obtener más información sobre nuestras plataformas de lanzamiento ("Oferta inicial de Farm o IFO"), consulte este PDF:
 
 Un ejemplo del proceso para el Syrup Pool/Farm Alcance inicial Tenemos una charla encantadora (donde podemos compartir datos, estadísticas de usuarios y memes) y su equipo decide iniciar el proceso de solicitud, ¡vamos! Aplicar a través de este formulario. Debida diligencia Usando la información del formulario, aclararemos algunos puntos (no te preocupes, no son preguntas sin sentido, pero nos tomamos en serio la seguridad del usuario en PancakeSwap, y también queremos presentar solo proyectos interesantes a nuestra comunidad). El equipo aprueba la debida diligencia: ¡felicidades! Preparación del marketing Solicitamos algún diseño del activo, información del proyecto y creamos un banner encantador (ejemplo de STEPN a continuación) y una publicación en medium (hemos vinculado un enlace de propuesta, pero como no lanzaremos nuestro mecanismo de votación en el despliegue inicial de Aptos, usaremos Medium). Tenga en cuenta que antes del lanzamiento, PancakeSwap o los equipos del proyecto no deben comunicar las noticias de la colaboración. Lanzamiento Lanzamos los pools/farms, y a través de nuestro equipo de administradores de la comunidad, supervisaremos, recopilaremos y comunicaremos cualquier comentario generado por la comunidad. También publicaremos algunos eventos sociales en nuestro Twitter y Telegram. Post-lanzamiento Continuaremos en contacto y trabajaremos juntos siempre que sea posible.
 
