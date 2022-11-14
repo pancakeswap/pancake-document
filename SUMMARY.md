@@ -14,6 +14,7 @@
   * [Preguntas Frecuentes](click-here-for-help/faq.md)
   * [Arreglar Transacciones Pendientes Trabadas](click-here-for-help/tx-trabadas.md)
   * [Guía de Binance Academy](click-here-for-help/binance-academy-guia.md)
+* [Implementación en Aptos](implementacion-en-aptos.md)
 * [Contacto](contacto/README.md)
   * [Partnerships de Negocios](contacto/partnerships.md)
   * [NFT Marketplace](contacto/nft-marketplace.md)
