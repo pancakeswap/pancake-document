@@ -1,13 +1,17 @@
 # Empezando en PancakeSwap (Aptos)
 
-Using anything new can be a bit of a challenge. Don't worry though, we've created a range of guides to help you get comfortable with PancakeSwap!
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-### &#x20;<a href="#setting-up-pancakeswap" id="setting-up-pancakeswap"></a>
+Empezar a usar algo nuevo puede resultar un poco desafiante. Pero no te preocupes, hemos creado una serie de guías para ayudar a que te sientas cómodo con PancakeSwap!
 
-Follow these guides to get everything set up to use PancakeSwap, or feel free to jump to the guide you need if you've been doing okay but lost your way.
+### Seteando PancakeSwap <a href="#setting-up-pancakeswap" id="setting-up-pancakeswap"></a>
 
-​[Create an Aptos Wallet](<../.gitbook/assets/wallet guide>) [Get Aptos Coin and Bring Assets to Aptos Chain](<../.gitbook/assets/aptos coin guide>) [Connect Your Wallet to PancakeSwap](<../.gitbook/assets/connection guide>)​
+Sigue estas guías para dejar todo listo para usar PancakeSwap, o simplemente consulta la guía que necesites si vas bien pero olvidaste algo.
+
+​[Crea una wallet en Aptos\
+](crea-una-wallet.md)[Consigue tus tokens en la red de Aptos](como-conseguir-aptos-coins.md) \
+[Conecta tu wallet a PancakeSwap](conecta-tu-wallet-a-pancakeswap.md)​
 
 ​
 
-If you can't find what you need, feel free to visit the PancakeSwap Telegram and ask for help there!
+Si no puedes encontrar lo que necesitas, no dudes en visitar nuestro [Telegram en Español](https://t.me/PancakeSwapES) y pedir ayuda allí!

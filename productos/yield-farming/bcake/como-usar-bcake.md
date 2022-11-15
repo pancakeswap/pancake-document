@@ -36,7 +36,7 @@ Haga clic en "Migrate" y siga la guía paso a paso para completar las migracione
 
 ## Activar Boosters
 
-![](<../../../.gitbook/assets/image (1) (2).png>)
+![](<../../../.gitbook/assets/image (1) (2) (2).png>)
 
 Una vez que hecho eso, debería ver el multiplicador de boost disponible y el APR aumentado para la farm que está depositando actualmente. Para obtener más información sobre cómo se calcula el multiplicador bCAKE, lea [aquí](faq.md).&#x20;
 
