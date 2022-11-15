@@ -64,9 +64,7 @@ Para obtener más información sobre nuestras plataformas de lanzamiento ("Ofert
 
 ### Un ejemplo del proceso para la IFO&#x20;
 
-. Alcance&#x20;
-
-1. Inicial&#x20;
+1. Alcance Inicial&#x20;
 
 * Tenemos una charla encantadora (donde podemos compartir datos, estadísticas de usuario y macro, como el resto de CT) y su equipo decide iniciar el proceso, ¡vamos!&#x20;
 * Aplicar a través de [este formulario](https://docs.google.com/forms/d/e/1FAIpQLSf9gWv9L8U0PGYgl-ymeX1qgXncBSlJ1HV5gB6ZeW7e4ekV\_w/viewform).&#x20;
