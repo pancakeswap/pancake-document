@@ -70,7 +70,7 @@ Nota: Si hay posiciones abiertas u órdenes abiertas en Futuros USDⓈ-M, no se 
 
 **Reduce Only:** Las órdenes de "Sólo reducir" sólo podrán reducir su posición, no incrementarla.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (3).png" alt=""><figcaption></figcaption></figure>
 
 **Instrucciones TIF (Time in Force)** son las que especifican cuánto tiempo estará activa una orden hasta que sea ejecutada o se venza. puede seleccionar una de las siguientes opciones para instrucciones TIF:
 

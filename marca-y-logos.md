@@ -4,7 +4,7 @@ description: Directrices y activos descargables como el logotipo SVG de PancakeS
 
 # Marca y logos
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (5).png" alt=""><figcaption></figcaption></figure>
 
 [👇 Saltar a la descarga de Logos](marca-y-logos.md#descargas-del-logotipo-de-pancakeswap)
 

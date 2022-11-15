@@ -48,8 +48,54 @@ Para obtener más información sobre nuestras plataformas de lanzamiento ("Ofert
 
 3\. Preparación del marketing&#x20;
 
-* Solicitamos algún diseño del activo, información del proyecto y creamos un banner encantador (ejemplo de STEPN a continuación) y una publicación en medium (hemos vinculado un enlace de propuesta, pero como no lanzaremos nuestro mecanismo de votación en el despliegue inicial de Aptos, usaremos Medium). Tenga en cuenta que antes del lanzamiento, PancakeSwap o los equipos del proyecto no deben comunicar las noticias de la colaboración.&#x20;
-* Lanzamiento Lanzamos los pools/farms, y a través de nuestro equipo de administradores de la comunidad, supervisaremos, recopilaremos y comunicaremos cualquier comentario generado por la comunidad. También publicaremos algunos eventos sociales en nuestro Twitter y Telegram.&#x20;
-* Post-lanzamiento Continuaremos en contacto y trabajaremos juntos siempre que sea posible.
+* Solicitamos algún diseño del activo, información del proyecto y creamos un banner encantador (ejemplo de STEPN a continuación) y una publicación en [medium](https://pancakeswap.finance/voting/proposal/QmTPyGYpg7Y4dEc9jLB9kwBrLe5kmnDSLfmk3GcFqPpdqs) (hemos vinculado un enlace de propuesta, pero como no lanzaremos nuestro mecanismo de votación en el despliegue inicial de Aptos, usaremos Medium).&#x20;
+* **Tenga en cuenta que antes del lanzamiento, PancakeSwap o los equipos del proyecto no deben comunicar las noticias de la colaboración.**&#x20;
 
-Un ejemplo del proceso para la IFO Alcance inicial Tenemos una charla encantadora (donde podemos compartir datos, estadísticas de usuario y macro, como el resto de CT) y su equipo decide iniciar el proceso, ¡vamos! Aplicar a través de este formulario. Debida diligencia Usando la información del formulario, aclararemos algunos puntos (no te preocupes, no son preguntas sin sentido, pero nos tomamos en serio la seguridad del usuario en PancakeSwap, y también queremos presentar solo proyectos interesantes a nuestra comunidad). Para nuestras IFOs, en comparación con nuestros Syrup Pools/Farms, hay un poco más de ida y vuelta: nos complace compartir nuestro conocimiento de las mejores prácticas con respecto a tokenomics, productos, estrategia de comercialización (GTM), etc. El equipo aprueba la debida diligencia: ¡felicidades! Preparación de marketing Pediremos algunos diseños del activo, información del proyecto y crearemos un banner encantador (ejemplo de Wombat Exchange a continuación) y una publicación en medium (hemos vinculado un enlace de propuesta, pero como no lanzaremos nuestro mecanismo de votación en el despliegue inicial de Aptos, usaremos Medium). También comenzaremos a recolectar preguntas para el AMA. Tenga en cuenta que antes del lanzamiento, PancakeSwap o los equipos del proyecto no deben comunicar las noticias de la colaboración. AMA (generalmente 1 día antes del IFO) Una sesión interactiva con nuestra comunidad para aclarar cualquier duda y generar ✨buenas vibras✨ Lanzamiento del IFO Lanzaremos el IFO y, a través de nuestro equipo de administradores de la comunidad, supervisaremos, recopilaremos y comunicaremos cualquier comentario generado por la comunidad. También publicaremos algunos eventos sociales en nuestro Twitter y Telegram Post-lanzamiento ¡Continuaremos en contacto y trabajaremos juntos siempre que sea posible! Por ejemplo, en la asociación Wombat post-IFO utilizando PancakeSwap Bridge la pueden ver acá. En cada paso del proceso, el equipo está aquí para ayudar: entendemos que, para los fundadores y sus equipos, el lanzamiento de una IFO o TGE es extremadamente crítico, y no dejamos nada al azar.
+4\. Lanzamiento&#x20;
+
+* Lanzamos los pools/farms, y a través de nuestro equipo de administradores de la comunidad, supervisaremos, recopilaremos y comunicaremos cualquier comentario generado por la comunidad.&#x20;
+* También publicaremos algunos eventos sociales en nuestro [Twitter](https://twitter.com/pancakeswap/status/1501537445401481217) y Telegram.&#x20;
+
+5\. Post-lanzamiento&#x20;
+
+* Continuaremos en contacto y trabajaremos juntos siempre que sea posible.
+
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+### Un ejemplo del proceso para la IFO&#x20;
+
+. Alcance&#x20;
+
+1. Inicial&#x20;
+
+* Tenemos una charla encantadora (donde podemos compartir datos, estadísticas de usuario y macro, como el resto de CT) y su equipo decide iniciar el proceso, ¡vamos!&#x20;
+* Aplicar a través de [este formulario](https://docs.google.com/forms/d/e/1FAIpQLSf9gWv9L8U0PGYgl-ymeX1qgXncBSlJ1HV5gB6ZeW7e4ekV\_w/viewform).&#x20;
+
+2\. Debida diligencia&#x20;
+
+* Usando la información del formulario, aclararemos algunos puntos (no te preocupes, no son preguntas sin sentido, pero nos tomamos en serio la seguridad del usuario en PancakeSwap, y también queremos presentar solo proyectos interesantes a nuestra comunidad).&#x20;
+* Para nuestras IFOs, en comparación con nuestros Syrup Pools/Farms, hay un poco más de ida y vuelta: nos complace compartir nuestro conocimiento de las mejores prácticas con respecto a tokenomics, productos, estrategia de comercialización (GTM), etc.&#x20;
+* El equipo aprueba la debida diligencia: ¡felicidades!&#x20;
+
+3\. Preparación de marketing&#x20;
+
+* Pediremos algunos diseños del activo, información del proyecto y crearemos un banner encantador (ejemplo de Wombat Exchange a continuación) y una publicación en [medium](https://pancakeswap.finance/voting/proposal/bafkreieqv7mbzmumyftstt6l32x6okfzq4syrea7k5zbqgohhcekcvbduu?chainId=56) (hemos vinculado un enlace de propuesta, pero como no lanzaremos nuestro mecanismo de votación en el despliegue inicial de Aptos, usaremos Medium).&#x20;
+* También comenzaremos a recolectar preguntas para el **AMA**.&#x20;
+* **Tenga en cuenta que antes del lanzamiento, PancakeSwap o los equipos del proyecto no deben comunicar las noticias de la colaboración.**&#x20;
+
+4\. [AMA](https://twitter.com/PancakeSwap/status/1562648945721212929) (generalmente 1 día antes del IFO)&#x20;
+
+* Una sesión interactiva con nuestra comunidad para aclarar cualquier duda y generar ✨buenas vibras✨&#x20;
+
+5\. Lanzamiento del IFO&#x20;
+
+* Lanzaremos el IFO y, a través de nuestro equipo de administradores de la comunidad, supervisaremos, recopilaremos y comunicaremos cualquier comentario generado por la comunidad.&#x20;
+* También publicaremos algunos eventos sociales en nuestro [Twitter](https://twitter.com/pancakeswap/status/1564616363871678484) y Telegram&#x20;
+
+6\. Post-lanzamiento&#x20;
+
+* ¡Continuaremos en contacto y trabajaremos juntos siempre que sea posible! Por ejemplo, en la asociación Wombat post-IFO utilizando PancakeSwap Bridge la pueden ver [acá](https://twitter.com/PancakeSwap/status/1566694245213556737).&#x20;
+
+En cada paso del proceso, el equipo está aquí para ayudar: entendemos que, para los fundadores y sus equipos, el lanzamiento de una IFO o TGE es extremadamente crítico, y no dejamos nada al azar.
+
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
