@@ -9,6 +9,7 @@
   * [Crea una Wallet](empezando-en-pancakeswap-aptos/crea-una-wallet.md)
   * [Cómo conseguir Aptos Coins](empezando-en-pancakeswap-aptos/como-conseguir-aptos-coins.md)
   * [Conecta tu Wallet a PancakeSwap](empezando-en-pancakeswap-aptos/conecta-tu-wallet-a-pancakeswap.md)
+  * [Aptos FAQ (preguntas más frecuentes)](empezando-en-pancakeswap-aptos/aptos-faq-preguntas-mas-frecuentes.md)
 * [Ayuda](click-here-for-help/README.md)
   * [Errores Frecuentes](click-here-for-help/errores-frecuentes.md)
   * [Preguntas Frecuentes](click-here-for-help/faq.md)
