@@ -1,6 +1,6 @@
 # Cómo usar StableSwap
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## **Operando con StableSwap**
 
@@ -14,7 +14,7 @@ Operar en StableSwap es muy similar a usar el PancakeSwap AMM existente. Antes d
 
 3 - Elija los pares de tokens que le gustaría intercambiar. En el lanzamiento, solo se agregará un par (HAY-BUSD). Gradualmente se agregarán más pares de estables.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 4 - A partir de este paso, el proceso de intercambio es el mismo que el PancakeSwap normal. Consulte la guía [aquí](https://docs.pancakeswap.finance/v/espanol/productos/pancakeswap-exchange/how-to-trade-on-the-pancakeswap-exchange) desde el paso 4 en adelante.
 

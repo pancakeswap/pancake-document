@@ -1,16 +1,20 @@
 # Crea una Wallet
 
-To get started on your PancakeSwap journey on Aptos, the first thing you'll need is to set up a wallet that supports Aptos Chain. Wallets are available both on desktop computers and on smartphone devices. You'll need to choose the wallet that fits your needs best.
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-**When you're setting up a wallet, be sure to:**
+Para comenzar tu historia de PancakeSwap en Aptos, lo primero que necesitarás es una wallet que soporte la red de Aptos. Hay wallets disponibles tanto para PC como para teléfonos móviles. Deberás elegir la wallet que mejor se adapte a tus necesidades.
 
-* ✅ **Download and install only the latest version from an official source.**
-* ✅ **Follow the setup guide carefully.**
-* ✅ **Safely back up your recovery phrases.**
-* ❌ **NEVER share your recovery phrases with anyone, under any circumstances.**
-* ❌ **NEVER input your recovery phrase to a website or app, other than your wallet app.**
+{% hint style="danger" %}
+**Cuando estés seteando una wallet, asegúrate de:**
 
-### &#x20;<a href="#smartphone-mobile-or-desktop-wallet" id="smartphone-mobile-or-desktop-wallet"></a>
+* ✅ **Descargar e instalar sólo la última versión desde un sitio oficial.**
+* ✅ **Sigue cuidadosamente las guías de instalación.**
+* ✅ **No olvides de anotar y conservar tus frases de recuperación.**
+* ❌ **NUNCA compartas tu frase de recuperación con nadie, bajo ninguna circunstancia.**
+* ❌ **NUNCA ingreses tu frase de recuperación en un sitio web o app, que no sea la app de tu wallet.**
+{% endhint %}
+
+## Smartphone/Mobile or Desktop wallet?
 
 At the time of writing, there are a limited number of mobile wallets with Aptos support. Chefs will include more wallets in the tutorial when they are available.
 
