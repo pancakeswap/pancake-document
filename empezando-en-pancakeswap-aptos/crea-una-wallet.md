@@ -24,14 +24,14 @@ Al momento de publicar este artículo, existe un número limitado de wallets par
 
 Las wallets para dispositivos móviles y las de PC (desktop) tienen diferentes pros y contras. Considera cuál se ajusta mejor a tus necesidades para decidir qué tipo usar.    &#x20;
 
-| Text                              | Mobile | Desktop |
-| --------------------------------- | ------ | ------- |
-| Use anywhere                      | ✅      | ➖       |
-| Easy to use                       | ✅      | ➖       |
-| More secure                       | ➖      | ✅       |
-| Accessibility friendly            | ➖      | ✅       |
-| Damage/loss/theft resistant       | ➖      | ✅       |
-| Power/connection outage resistant | ✅      | ➖       |
+| Característica                          | Móvil | Desktop |
+| --------------------------------------- | ----- | ------- |
+| Portabilidad                            | ✅     | ➖       |
+| Fácil de usar                           | ✅     | ➖       |
+| Mayor seguridad                         | ➖     | ✅       |
+| Accesibilidad                           | ➖     | ✅       |
+| Resistente a daños/pérdidas/robos       | ➖     | ✅       |
+| Resistente a cortes de conexión/energía | ✅     | ➖       |
 
 ### &#x20;<a href="#desktop-web-browser-wallets" id="desktop-web-browser-wallets"></a>
 
