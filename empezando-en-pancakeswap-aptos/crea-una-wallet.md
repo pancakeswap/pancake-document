@@ -48,7 +48,7 @@ Esta tabla comparativa nos da un pantallazo de las wallets para móvil más popu
 | Hardware wallet compatible     | <p>✅ </p><p>(Sólo SafePal)</p> | ➖            | ➖      |
 | Código abierto (auditabilidad) | ➖                              | ✅            | ➖      |
 
-You can find more in-depth information about each wallet below, as well as download links and installation guides.
+Puedes encontrar más info sobre cada wallet a continuación, como así también los links para descarga y sus guías de instalación.
 
 {% tabs %}
 {% tab title="SafePal" %}
@@ -139,23 +139,23 @@ Blocto offers a user-friendly solution and an all-in-one package for using Dapps
 {% endtab %}
 {% endtabs %}
 
-## **Desktop/Web Browser wallets**
+## **Desktop/Web Browser wallets (PC)**
 
-Desktop wallets are available on your home computer or laptop computer. Wallets on your computer can run as standalone applications, or as web browser plugins for popular browsers like Chrome and Firefox.
+Las Desktop wallets están disponibles para tus PC de escritorio o laptops. Pueden ejecutarse como aplicaciones de escritorio o como plugins del browser en los más usados, como Chrome o Firefox.
 
-#### &#x20;<a href="#which-desktop-wallet-should-i-choose" id="which-desktop-wallet-should-i-choose"></a>
+### Qué desktop wallet debería elegir?
 
-This comparison table gives an overview of the most popular desktop wallets used with PancakeSwap on Aptos
+Esta tabla comparativa nos da un pantallazo de las desktop wallets más populares usadas en PancakeSwap para Aptos.
 
-| Text                       | Petra | Martian | Pontem | Fewcha | Blocto |
-| -------------------------- | ----- | ------- | ------ | ------ | ------ |
-| Aptos Chain support        | ✅     | ✅       | ✅      | ✅      | ✅      |
-| Hardware wallet compatible | ➖     | ➖       | ➖      | ➖      | ➖      |
-| Open source (auditability) | ✅     | ❓       | ✅      | ❓      | ❓      |
+| Wallet                         | Petra | Martian | Pontem | Fewcha | Blocto |
+| ------------------------------ | ----- | ------- | ------ | ------ | ------ |
+| Soporta Aptos Chain            | ✅     | ✅       | ✅      | ✅      | ✅      |
+| Hardware wallet compatible     | ➖     | ➖       | ➖      | ➖      | ➖      |
+| Código abierto (auditabilidad) | ✅     | ❓       | ✅      | ❓      | ❓      |
 
-_❓ - as of writing, we are unsure about the status of this information_
+_❓ - al momento, no contamos con la certeza de estos datos_
 
-You can find more in-depth information about each wallet below, as well as download links and installation guides.
+Puedes encontrar más info sobre cada wallet a continuación, como así también los links para descarga y sus guías de instalación.
 
 Petra wallet is an extension that lets you explore Aptos in your browser.
 
@@ -190,50 +190,8 @@ Blocto offers a user-friendly solution and an all-in-one package for using Dapps
 * **Requires Email address to get started**
 * A bit complicated if you want to export your private key and manage it or use it in other wallets. [Tutorial](https://portto.zendesk.com/hc/en-us/articles/4411564072217-Can-I-export-my-private-key-from-Blocto-and-use-it-in-Metamask-Phantom-Trust-Wallet-).
 
-#### &#x20;<a href="#blocto-wallet-setup-guide" id="blocto-wallet-setup-guide"></a>
+{% hint style="danger" %}
+NUNCA, bajo ninguna circunstancia, debes dar jamás tus claves privadas o frase de recuperación (semilla). Eso le daría a alguien el completo acceso a tus cripto!
 
-1 - After selecting "Blocto" in the wallet connection window, you should be presented with a sign-in window. Type in your Email address and click "Register". If you have previously setup a Blocto account, please type in the Email address and click "sign in".
-
-2 - Then enter the one-time password received by Email.
-
-3 - Click "Create Aptos wallet". Then click "Confirm" to connect.
-
-4 - Done! Please note that you will need to fund your Aptos address with APT to start using PancakeSwap on Aptos. If you want to access the same account on other devices, simply sign in using the same Email address.
-
-### &#x20;<a href="#smartphone-mobile-wallets" id="smartphone-mobile-wallets"></a>
-
-Smartphone/Mobile wallets allow you to access your crypto almost anywhere. Wallets are available on both Android and iOS devices.
-
-#### &#x20;<a href="#which-mobile-wallet-should-i-choose" id="which-mobile-wallet-should-i-choose"></a>
-
-This comparison table gives an overview of the most popular mobile wallets used with PancakeSwap.
-
-| Text                       | Blocto |
-| -------------------------- | ------ |
-| Aptos Chain support        | ✅      |
-| Built-in DApp browser      | ✅      |
-| Hardware wallet compatible | ➖      |
-| Open source (auditability) | ➖      |
-
-You can find more in-depth information about each wallet below, as well as download links and installation guides.
-
-Blocto offers a user-friendly solution and an all-in-one package for using Dapps and managing your assets.
-
-* Supports both BNB Chain and Aptos Chain and other major crypto networks out-of-the-box.
-* Supports both iOS and Android.
-* Smart contract wallet eliminates the need for managing your own private key and also provides advanced features like account recovery
-* The initial setup gas fee for the smart contract wallet is covered
-* **Requires Email address to get started**
-* A bit complicated if you want to export your private key and manage it or use it in other wallets. [Tutorial](https://portto.zendesk.com/hc/en-us/articles/4411564072217-Can-I-export-my-private-key-from-Blocto-and-use-it-in-Metamask-Phantom-Trust-Wallet-).
-
-#### &#x20;<a href="#blocto-wallet-setup-guide-1" id="blocto-wallet-setup-guide-1"></a>
-
-1 - Set up by entering your Email address. Then enter the one-time password received by Email.
-
-2 - Click the plus button, then choose "APT - Aptos"
-
-3 - Done! You can now deposit APT into the Aptos wallet and start using PancakeSwap on Aptos by going to the "Discover" page!
-
-NEVER, in any situation, should you ever give someone your private key or recovery phrase ("seed phrase"). This will give someone complete access to your crypto!
-
-The genuine PancakeSwap site and staff will never ask you to input your seed phrase.
+Ni el sitio oficial de PancakeSwap ni su staff jamás te pedirá que ingrese tu frase semilla.
+{% endhint %}
