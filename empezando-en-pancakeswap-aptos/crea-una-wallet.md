@@ -14,11 +14,15 @@ Para comenzar tu historia de PancakeSwap en Aptos, lo primero que necesitarás e
 * ❌ **NUNCA ingreses tu frase de recuperación en un sitio web o app, que no sea la app de tu wallet.**
 {% endhint %}
 
-## Smartphone/Mobile or Desktop wallet?
+## Smartphone/Móvil o Desktop wallet (PC)?
 
-At the time of writing, there are a limited number of mobile wallets with Aptos support. Chefs will include more wallets in the tutorial when they are available.
+{% hint style="danger" %}
+Al momento de publicar este artículo, existe un número limitado de wallets para móvil que soporten Aptos. Los Chefs incluirán más wallets en el tutorial cuando estén disponibles.
 
-Mobile device wallets and desktop-based wallets have different strengths and weaknesses. Consider which fits your needs better to help decide which type of wallet to use.
+**Recomendamos usar desktop wallets hasta que las wallets para móvil estén disponibles.**
+{% endhint %}
+
+Las wallets para dispositivos móviles y las de PC (desktop) tienen diferentes pros y contras. Considera cuál se ajusta mejor a tus necesidades para decidir qué tipo usar.    &#x20;
 
 | Text                              | Mobile | Desktop |
 | --------------------------------- | ------ | ------- |
