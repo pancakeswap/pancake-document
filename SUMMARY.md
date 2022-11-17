@@ -1,7 +1,7 @@
 # Table of contents
 
 * [PancakeSwap 介绍](README.md)
-* [入门指南](get-started/README.md)
+* [入门指南（BSC）](get-started/README.md)
   * [创建钱包](get-started/wallet-guide.md)
   * [获取 BEP-20 代币](get-started/bep20-guide.md)
   * [在没有中心化交易所账户的情况下使用PancakeSwap](get-started/zai-mei-you-zhong-xin-hua-jiao-yi-suo-zhang-hu-de-qing-kuang-xia-shi-yong-pancakeswap.md)

@@ -53,7 +53,7 @@
 
 {% tabs %}
 {% tab title="Petra" %}
-<figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Petra 钱包是一个扩展程序，可让您在浏览器中探索 Aptos。
 
@@ -181,16 +181,62 @@ Blocto 提供了一个对用户友好的解决方案和一个多合一的集合�
 
 下表概述了 Aptos 上与能使用 PancakeSwap 的目前最流行的手机钱包。
 
-|             | Blocto |
-| ----------- | ------ |
-| 支持 Aptos 链  | ✅      |
-| 内置 DApp 浏览器 | ✅      |
-| 硬件钱包兼容      | ➖      |
-| 合约开源（可审计）   | ➖      |
+|             | SafePal      | Trust Wallet | Blocto |
+| ----------- | ------------ | ------------ | ------ |
+| 支持 Aptos 链  | ✅            | ✅            | ✅      |
+| 内置 DApp 浏览器 | ✅            | ✅（仅限 iOS）    | ✅      |
+| 硬件钱包兼容      | ✅（仅限SafePal） | ➖            | ➖      |
+| 合约开源（可审计）   | ➖            | ✅            | ➖      |
 
 您可以在下面找到有关每个钱包的更详细信息，以及下载链接和安装指南。
 
 {% tabs %}
+{% tab title="SafePal" %}
+<figure><img src="../.gitbook/assets/safepal.webp" alt=""><figcaption><p>SafePal 有软件和硬件钱包两种形式。该钱包 App 安装便捷，设置步骤简单，安装后可立即支持 Aptos、BEP2（BNB 信标链）、BEP20（BNB 智能链）。 </p></figcaption></figure>
+
+**优点：**
+
+* 在几个加密货币网络之间轻松切换
+* 内置谷歌认证器
+* 丰富的语言支持
+* 设置步骤简单快捷
+* 同时提用软件和硬件钱包（协同使用）
+* 支持币安智能链和以太坊上的 NFT 收藏品展示及管理&#x20;
+
+**缺点：**
+
+* 代码非完全开源&#x20;
+* 不支持通知消息提醒
+* 初始设置及钱包创建时，并不强制用户使用强安全性的设置
+
+​[**下载 SafePal**](https://safepal.io/download) **（自动检测您的设备）**\
+[**SafePal 钱包 Aptos 链设置教程**](https://safepalsupport.zendesk.com/hc/en-us/articles/10061372532891-How-to-add-send-Aptos-mainnet-coin-APT-with-SafePal-Software-Wallet)
+{% endtab %}
+
+{% tab title="Trust Wallet" %}
+<figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
+
+Trust Wallet 是在移动设备上颇受欢迎的钱包应用。它支持 DApps，NFT 收藏品（支持 Opensea.io），以及钱包内直接质押。
+
+**优点：**
+
+* 开源代码可审计
+* 得到币安加密货币交易所的支持
+* 在几个加密货币网络之间轻松切换
+* 默认包含 Aptos 网络
+
+**缺点：**
+
+* 目前只有 iOS 版本支持 Aptos 链
+* 语言与手机设置语言绑定，无法更改
+* 有限的 DApps 支持
+* 交易通知可能会延迟
+
+[**下载 Trust Wallet**](https://trustwallet.com/) **（自动检测您的设备）**
+
+****[**Trust Wallet Aptos链设置指南**](https://community.trustwallet.com/t/trust-wallet-adds-native-support-for-aptos-apt/575701)****
+{% endtab %}
+
 {% tab title="Blocto" %}
 <figure><img src="../.gitbook/assets/image (3) (3).png" alt=""><figcaption></figcaption></figure>
 
