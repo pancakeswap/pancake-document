@@ -263,8 +263,6 @@ Para impedir que isso aconteça novamente, não venda seu SYRUP. Você precisa d
 Este erro ocorreu porque você vendeu ou transferiu tokens SYRUP. SYRUP é cunhado em uma proporção de 1:1 para CAKE quando você faz stake na Pool de Syrup CAKE-CAKE. O SYRUP deve ser queimado na proporção de 1:1 para CAKE ao chamar leaveStaking (retirar seu CAKE do pool), portanto, se você não tiver o suficiente, não poderá sacar da pool.
 
 {% embed url="https://dashboard.tenderly.co/tx/binance/0x754e18ceea82acac256b49c2b7a81260f7f86dd5e56ee2e3cc1b6ac864c29a8e" %}
-<img src="https://lh4.googleusercontent.com/KchAcnM6cpX2BotEGppAxPAnY4Xbona6yI6ZWg9FlUUBfPi_YO9ulM1s6htXJVXMzEwl0Uxcvdk8o4yhI7ar5g0TRpLVFjkS4YLKL7FS8Z4uFqeC37sw-TIkrPr7BCZQVpuD-5jO" alt="" data-size="original">
-{% endembed %}
 
 ### Out of Gas error
 
@@ -280,7 +278,7 @@ Tente aumentar manualmente o limite do gás (não o preço do gás!) em sua cart
 
 Um limite de 200.000 geralmente é suficiente.
 
-![](<../.gitbook/assets/image (2) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1).png>)
 
 O exemplo acima é da Metamask; verifique a documentação da sua carteira se não tiver certeza de como ajustar o limite de gás.
 {% endtab %}

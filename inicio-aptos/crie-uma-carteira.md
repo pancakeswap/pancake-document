@@ -1,6 +1,6 @@
 # Crie uma Carteira
 
-<figure><img src="../.gitbook/assets/how-to-make-a-crypto-wallet-header (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/how-to-make-a-crypto-wallet-header.png" alt=""><figcaption></figcaption></figure>
 
 Para começar sua jornada com a PancakeSwap na Aptos, a primeira coisa que você precisa é configurar uma carteira que suporte a Aptos Chain. As carteiras estão disponíveis em computadores desktop e em dispositivos de smartphone. Você precisará escolher a carteira que melhor se adapta às suas necessidades.
 
@@ -53,7 +53,7 @@ Você pode encontrar informações mais detalhadas sobre cada carteira abaixo, b
 
 {% tabs %}
 {% tab title="Petra" %}
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 A carteira Petra é uma extensão que permite explorar a Aptos no seu navegador.&#x20;
 
@@ -76,7 +76,7 @@ A carteira Petra é uma extensão que permite explorar a Aptos no seu navegador.
 {% endtab %}
 
 {% tab title="Martian" %}
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (5).png" alt=""><figcaption></figcaption></figure>
 
 Martian é uma carteira na Aptos Chain que permite armazenar, enviar, receber tokens e gerenciar e mintar NFTs. Sua versão móvel está chegando em breve.
 
@@ -108,7 +108,7 @@ A Pontem Wallet é uma carteira na Aptos Chain que permite armazenar, enviar, re
 {% endtab %}
 
 {% tab title="Fewcha" %}
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Atualmente, a carteira Fewcha tem um problema com a importação de chaves privadas. Recomendo experimentar outras carteiras por enquanto.
@@ -128,7 +128,7 @@ A Fewcha Wallet é uma carteira na Aptos Chain que permite armazenar, enviar, re
 {% endtab %}
 
 {% tab title="Blocto" %}
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (3).png" alt=""><figcaption></figcaption></figure>
 
 Blocto oferece uma solução amigável e um pacote completo para usar Dapps e gerenciar seus ativos.&#x20;
 
@@ -186,7 +186,7 @@ Você pode encontrar informações mais detalhadas sobre cada carteira abaixo, b
 
 {% tabs %}
 {% tab title="Blocto" %}
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (3).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -213,21 +213,21 @@ Blocto oferece uma solução amigável e um pacote completo para usar Dapps e ge
 
 1 - Configure inserindo seu endereço de e-mail. Em seguida, digite a senha de uso único recebida por e-mail.
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (20).png>)
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (10).png>)
 
 2 - Clique no botão de adição e escolha "APT - Aptos"
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (3).png>)
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (4).png>)
 
 3 - Pronto! Agora você pode depositar o APT na carteira Aptos e começar a usar **a** PancakeSwap na Aptos acessando a página "Descobrir"!
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (15).png>)
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (12).png>)
 {% endtab %}
 {% endtabs %}
 

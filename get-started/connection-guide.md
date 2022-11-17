@@ -2,7 +2,7 @@
 
 
 
-![](../.gitbook/assets/how-to-connect-wallet-header.png)
+![](<../.gitbook/assets/how-to-connect-wallet-header (1).png>)
 
 Você fez uma carteira e obteve seus tokens BEP20, agora você só precisa conectar sua carteira na PancakeSwap e pronto!&#x20;
 

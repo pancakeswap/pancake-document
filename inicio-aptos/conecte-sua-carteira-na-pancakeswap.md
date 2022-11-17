@@ -1,15 +1,39 @@
 # Conecte Sua Carteira na PancakeSwap
 
-1.  1\.
+<figure><img src="../.gitbook/assets/how-to-connect-wallet-header.png" alt=""><figcaption></figcaption></figure>
 
-    Click "Connect Wallet" on the top-righthand corner.
-2.  2\.
+### Conecte sua carteira
 
-    For most of the browser extension wallets, simple select their icon, and follow the instruction in the pop-up window.
-3.  3\.
+<figure><img src="../.gitbook/assets/wallet-connection-aptos.png" alt=""><figcaption></figcaption></figure>
 
-    For Blocto, please use your Email address to register or sign in. To learn more, please check out [here](broken-reference).
+1. Clique em "Connect Wallet" no canto superior direito.
+2. Para a maioria das carteiras de extensão do navegador, basta selecionar o ícone e seguir as instruções na janela pop-up.
+3. Para Blocto, use seu endereço de e-mail para se registrar ou entrar. Para saber mais, confira [aqui](broken-reference).
 
-**Remember - NEVER, under any situation, should you ever give someone your private key or recovery phrases.**
+{% hint style="danger" %}
+**Lembre-se - NUNCA, em qualquer situação, você deve dar a alguém sua chave privada ou frases de recuperação.**
+{% endhint %}
 
-Aptos has multiple networks, including multiple devnets and testnets. But to use PancakeSwap on Aptos Chain, please be sure your wallet is connected to **Aptos Mainnet**.
+### Conecte-se à Mainnet da Aptos
+
+Aptos tem várias redes, incluindo vários devnets e testnets. Mas para usar a PancakeSwap na Aptos Chain, certifique-se de que sua carteira esteja conectada à **Aptos Mainnet**.
+
+Veja como:
+
+{% tabs %}
+{% tab title="Petra" %}
+<figure><img src="../.gitbook/assets/aptos-network-switching-petra.gif" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Martian" %}
+<figure><img src="../.gitbook/assets/aptos-network-switching-martian.gif" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Pontem" %}
+<figure><img src="../.gitbook/assets/aptos-network-switching-pontem.gif" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Fewcha" %}
+<figure><img src="../.gitbook/assets/aptos-network-switching-fewcha.gif" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}

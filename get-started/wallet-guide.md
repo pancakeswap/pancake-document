@@ -1,6 +1,6 @@
 # Crie uma Carteira
 
-![](../.gitbook/assets/how-to-make-a-crypto-wallet-header.png)
+![](<../.gitbook/assets/how-to-make-a-crypto-wallet-header (1).png>)
 
 Para começar a usar o PancakeSwap, a primeira coisa que você precisa é configurar uma carteira com suporte a BNB Smart Chain (BSC). As carteiras estão disponíveis em computadores desktop e em dispositivos de smartphone. Você precisará escolher a carteira que melhor se adapta às suas necessidades.
 

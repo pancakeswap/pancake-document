@@ -14,11 +14,11 @@ Antes de poder negociar, você precisará de uma carteira compatível com a BNB 
 
 2\. Desbloqueie sua carteira compatível com BNB Smart Chain clicando em **Desbloquear carteira** (você também pode conectar no canto superior direito). Se você ainda não conectou sua carteira à PancakeSwap, você pode ver o tutorial [aqui](https://docs.pancakeswap.finance/get-started/connection-guide).
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (12) (2).png>)
 
 3\. Escolha o token que você deseja negociar no menu suspenso na seção "De/From". A configuração padrão é BNB.
 
-![](<../../.gitbook/assets/image (13).png>)
+![](<../../.gitbook/assets/image (13) (2).png>)
 
 Seja qual for o token que você escolher, você precisará se certificar de ter algum token para negociar. Seu saldo é mostrado acima do menu suspenso do token.&#x20;
 
@@ -30,7 +30,7 @@ O valor da moeda em "From/De" será estimado automaticamente. Você também pode
 
 5\. Verifique os detalhes e clique no botão **Swap**.
 
-![](<../../.gitbook/assets/image (15).png>)
+![](<../../.gitbook/assets/image (15) (2).png>)
 
 6\. Aparecerá uma janela com mais detalhes. Verifique se os detalhes estão corretos.
 

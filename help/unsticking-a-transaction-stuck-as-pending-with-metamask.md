@@ -58,7 +58,7 @@ Agora vamos fazer uma nova transação para substituir a travada. Vamos personal
 
 8\. Crie uma nova transação para substituir sua transação travada. Desta vez, aumente a **Taxa da Transação**. Aqui, aumentamos de 9 para 20. Isso aumentará a probabilidade de sua transação ser adicionada a um bloco.
 
-![](<../.gitbook/assets/image (10) (1).png>)
+![](<../.gitbook/assets/image (10) (1) (1).png>)
 
 9\. Na página de confirmação, certifique-se de que o preço do gás está agora no valor novo e mais alto.&#x20;
 
