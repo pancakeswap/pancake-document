@@ -216,21 +216,51 @@ Pontem Wallet is an Aptos Chain wallet that allows you to store, send, receive t
 {% tab title="Fewcha" %}
 <figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-Currently, Fewcha wallet has an issue with importing private keys. Recommend trying out other wallets for now.
-{% endhint %}
-
-Fewcha Wallet is an Aptos Chain wallet that allows you to store, send, receive tokens, and connect to dApps on the Aptos ecosystem.
+Fewcha is a trusted crypto wallet optimized for Aptos and SUI ecosystem that unlocks a universe of applications in the web3.
 
 **Highlights:**
 
-* Mobile version coming soon
-* Easy to use
-* Supports multiple accounts
-* Built-in NFT support
-* Supports Aptos testnet
+* Support Aptos and Sui Blockchain
+* First wallet to support pure blockchain using Move language
+* Friendly UX/UI
+* Simple, elegant and easy to use
+* In-app Swapper
+* In-app Stake
+* Multiple languages
+* EBCI Protocol - a protocol that prevents multiple pop-ups when interacting with dApp, it’ll help users manage what dApp they are signing for a transaction.
+* Support Hardware Wallet Connection (Keystone Wallet)
+
+****
 
 ****[**Download FewCha Wallet**](https://fewcha.app/)****
+
+****
+
+### **Fewcha wallet setup guide**
+
+****
+
+1\. **** Once Fewcha Wallet extension finishes downloading, a welcome tab will appear. Here you can select “Create a new wallet” (or “Use an existing wallet” if you’ve already had one.)
+
+<figure><img src="https://lh5.googleusercontent.com/xzkPxptL1JdM_IcX3jEH8J1JpEC9uWabA5QUJzKBRIqszgGeOUh67QuQx7Y6BCzv1UIXshZuxrCCgZe6wYhxCZ4JbjcbtYIdP_zO9A6VDiQgypsbr2wlvqUjhioyPsRDVOYTBJv_smcjhODx3zHnqrTvxiJzWMhZa3e4TvG3lfAqFtE6-47N08s" alt=""><figcaption></figcaption></figure>
+
+2\. **** Select your default blockchain. Create a password that’s hard to predict yet easy to remember. Make sure you have read and agreed to the Terms of Service and Privacy Policy. Then click “Continue”.
+
+3\. For the Recovery Phrase, please write it down or copy to save it somewhere that you can remember.
+
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+> * Safely backup your recovery phrases. If you lose your recovery phrase, you may lose access to your wallet and the crypto within it forever.&#x20;
+> * **NEVER** share your recovery phrases with anyone, under any circumstances.
+> * **NEVER** input your recovery phrase to a website or app, other than your wallet app**.**
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+4\. Click Finish to complete this setup process. And done! Once your wallet is created, you can access it at any time by clicking on the Fewcha Wallet icon on the extension bar.&#x20;
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+To start using PancakeSwap on Aptos, you will also need to have some $APT tokens to pay gas fees. You can learn how to get some here.
 {% endtab %}
 
 {% tab title="Blocto" %}
