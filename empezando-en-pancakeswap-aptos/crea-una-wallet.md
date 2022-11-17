@@ -77,32 +77,32 @@ Puedes encontrar más info sobre cada wallet a continuación, como así también
 
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-legacy-files/o/assets%2F-MHREX7DHcljbY5IkjgJ%2F-Maajz3RNBhCbi_iel09%2F-MaaqWJXQio1awWtJiub%2Fimage.png?alt=media&#x26;token=63e7a2d9-8a05-49ac-b3dd-063f87f3a8b6" alt=""><figcaption></figcaption></figure>
 
-Trust Wallet is a popular wallet for smart devices. It supports DApps, NFT collectibles (with Opensea.io support), and in-wallet staking.
+Trust Wallet es una wallet popular para dispositivos móviles. Soporta DApps, coleccionables NFT (con soporte de Opensea.io), y staking dentro de la misma wallet.
 
 **Pros:**
 
-* Open source for auditability
-* Backed by the Binance cryptocurrency exchange
-* Easily switch between several crypto networks
-* Includes Aptos networks by default
+* Código abierto para auditabilidad.
+* Respaldada por el exchange cripto de Binance.
+* Fácil de cambiar de una red a otra, entre varias opciones.
+* Incluye Aptos network por defecto.
 
-**Cons:**
+**Contras:**
 
-* Currently only iOS version supports Aptos
-* Language tied to phone settings
-* Limited DApps
-* Transaction notifications can be delayed
+* Actualmente solo la versión de iOS soporta Aptos
+* El idioma está ligado a la configuración del dispositivo
+* DApps limitadas
+* Las notificaciones de transacciones pueden demorar
 
-[**Download Trust Wallet**](https://trustwallet.com) (Automatically detects device)\
-[**Trust Wallet Setup Guide for Aptos**](https://community.trustwallet.com/t/trust-wallet-adds-native-support-for-aptos-apt/575701)****
+[**Descarga Trust Wallet**](https://trustwallet.com) (Detecta automáticamente el dispositivo)\
+[**Guía de instalación de Trust Wallet para Aptos**](https://community.trustwallet.com/t/trust-wallet-adds-native-support-for-aptos-apt/575701)****
 {% endtab %}
 
 {% tab title="Blocto" %}
-****![](broken-reference)****
+****![](../.gitbook/assets/image.png)****
 
-Blocto offers a user-friendly solution and an all-in-one package for using Dapps and managing your assets.
+Blocto ofrece una solución amigable para el usuario y un paquete todo en uno para usar DApps y manejar sus activos.
 
-**Highlights:**
+**Características:**
 
 * Supports both BNB Chain and Aptos Chain and other major crypto networks out-of-the-box.&#x20;
 * Easy to set up.
