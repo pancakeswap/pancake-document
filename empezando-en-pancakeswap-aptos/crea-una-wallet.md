@@ -19,7 +19,7 @@ Para comenzar tu historia de PancakeSwap en Aptos, lo primero que necesitarás e
 {% hint style="danger" %}
 Al momento de publicar este artículo, existe un número limitado de wallets para móvil que soporten Aptos. Los Chefs incluirán más wallets en el tutorial cuando estén disponibles.
 
-**Recomendamos usar desktop wallets hasta que las wallets para móvil estén disponibles.**
+**Recomendamos usar** [**desktop wallets**](crea-una-wallet.md#desktop-web-browser-wallets-pc) **hasta que las wallets para móvil estén disponibles.**
 {% endhint %}
 
 Las wallets para dispositivos móviles y las de PC (desktop) tienen diferentes pros y contras. Considera cuál se ajusta mejor a tus necesidades para decidir qué tipo usar.    &#x20;
@@ -52,24 +52,24 @@ Puedes encontrar más info sobre cada wallet a continuación, como así también
 
 {% tabs %}
 {% tab title="SafePal" %}
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2FZuCcaLK4UtU3jCU0MDaz%2F7cccc2d2-c9db-4d38-8641-5a94cfa6083d_4x.png.webp?alt=media&#x26;token=4091057f-c068-482f-8cf5-e24f856b971d" alt=""><figcaption><p>SafePal is available as both a software and hardware wallet. The wallet is easy to install and create, and comes ready to support Aptos, BEP2 (BNB Beacon Chain)<strong>,</strong> BEP20 (BNB Smart Chain) right away.</p></figcaption></figure>
+<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2FZuCcaLK4UtU3jCU0MDaz%2F7cccc2d2-c9db-4d38-8641-5a94cfa6083d_4x.png.webp?alt=media&#x26;token=4091057f-c068-482f-8cf5-e24f856b971d" alt=""><figcaption><p>SafePal se encuentra disponible tanto en software como en hardware wallet. Esta wallet es fácol de instalar y crear, y ya viene lista para soportar Aptos, Bep2 (BNB Beacon Chain)y Bep20 (BNB Smart Chain).</p></figcaption></figure>
 
 ​**Pros:**
 
-* Easily switch between several crypto networks
-* Has the option for Google Authenticator built in
-* Supports a large number of languages
-* Setup process is very simple
-* Is available as both a software and hardware wallet (work together)
+* Fácil de cambiar de una red a otra, entre varias opciones.
+* Tiene incorporada la opción para Google Authenticator.
+* Soporta una gran cantidad de idiomas.
+* El proceso de instalación y configuración es muy simple.
+* Está disponible como wallet instalable y como hardware wallet (funcionan en conjunto).
 
-**Cons:**
+**Contras:**
 
-* Isn't fully open source
-* Does not give user notifications
-* Does not enforce strong security during initial setup and wallet creation
+* No es totalmente de código abierto.
+* No ofrece notificaciones para el usuario.
+* No aplica demasiada seguridad durante la instalación inicial y creación de la wallet.
 
-​[**Download SafePal**](https://safepal.io/download) (Automatically detects device) \
-[**SafePal Setup Guide for Aptos**](https://safepalsupport.zendesk.com/hc/en-us/articles/10061372532891-How-to-add-send-Aptos-mainnet-coin-APT-with-SafePal-Software-Wallet)****
+​[**Descarga SafePal**](https://safepal.io/download) (Detecta automáticamente el dispositivo) \
+[**Guía de instalación de SafePal para Aptos**](https://safepalsupport.zendesk.com/hc/en-us/articles/10061372532891-How-to-add-send-Aptos-mainnet-coin-APT-with-SafePal-Software-Wallet)****
 {% endtab %}
 
 {% tab title="Trust Wallet" %}
