@@ -22,4 +22,12 @@
 
 ## 寻求帮助
 
-PancakeSwap 没有专门的「客服」。如果您发现自己遇到的问题在这里无法得到解决，请在 PancakeSwap 的电报 [(Telegram) 群组](https://t.me/PancakeSwap\_CN)内寻求帮助。如果您是第一次使用电报 (Telegram)，为了您的资金财产安全，入群发言之前，请先阅读相关防诈骗须知，注意不要相信任何私聊及私聊告知的操作。\
+PancakeSwap 没有专门的「客服」。如果您发现自己遇到的问题在这里无法得到解决，请在 PancakeSwap 的电报 [(Telegram) 群组](https://t.me/PancakeSwap\_CN)内寻求帮助。如果您是第一次使用电报 (Telegram)，为了您的资金财产安全，入群发言之前，请先阅读相关防诈骗须知，注意不要相信任何私聊及私聊告知的操作。
+
+{% hint style="info" %}
+想要寻找 v1 兑换页面？
+
+[https://v1exchange.pancakeswap.finance/#/swap ](https://v1exchange.pancakeswap.finance/#/swap)
+
+⚠️ PancakeSwap V1 兑换版本已于 2021 年 5 月弃用。请转至 [V2 兑换](https://pancakeswap.finance/swap?chainId=56)，以获得大多数交易对更好的价格。
+{% endhint %}
