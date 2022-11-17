@@ -278,7 +278,7 @@ Tente aumentar manualmente o limite do gás (não o preço do gás!) em sua cart
 
 Um limite de 200.000 geralmente é suficiente.
 
-![](<../.gitbook/assets/image (2) (1) (1).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 O exemplo acima é da Metamask; verifique a documentação da sua carteira se não tiver certeza de como ajustar o limite de gás.
 {% endtab %}

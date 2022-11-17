@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introdução à PancakeSwap](README.md)
-* [Início](get-started/README.md)
+* [Início (BSC)](get-started/README.md)
   * [Crie uma Carteira](get-started/wallet-guide.md)
   * [Obtenha Tokens BEP20](get-started/bep20-guide.md)
   * [Usando PancakeSwap sem Corretoras Centralizadas](get-started/using-pancakeswap-without-centralized-exchanges.md)
@@ -58,10 +58,10 @@
 * [🎟 Loteria v2](produtos/lottery/README.md)
   * [Como Jogar a Loteria v2](produtos/lottery/lottery-guide.md)
   * [Perguntas Frequentes da Loteria](produtos/lottery/lottery-faq.md)
-* [🔮 Prediction](produtos/prediction/README.md)
-  * [How to Use Prediction](produtos/prediction/prediction-guide.md)
-  * [Prediction FAQ](produtos/prediction/prediction-faq.md)
-  * [Soluções de Problemas no Prediction](produtos/prediction/prediction-troubleshooting.md)
+* [🔮 Previsão](produtos/prediction/README.md)
+  * [Como Usar a Previsão](produtos/prediction/prediction-guide.md)
+  * [Perguntas Frequente Da Previsão](produtos/prediction/prediction-faq.md)
+  * [Soluções de Problemas na Previsão](produtos/prediction/prediction-troubleshooting.md)
 * [🍯 Pottery](produtos/pottery/README.md)
   * [Como jogar Pottery](produtos/pottery/como-jogar-pottery.md)
   * [Pottery FAQ](produtos/pottery/pottery-faq.md)

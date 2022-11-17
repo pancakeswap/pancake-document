@@ -1,129 +1,129 @@
-# How to Play Lottery v2
+# Como Jogar a Loteria v2
 
 ![](../../.gitbook/assets/how-to-lottery-header.png)
 
-PancakeSwap's Lottery is not only a good way to make stacks of CAKE, it's also loads of fun! This guide will walk you through getting involved in the Lottery.
+A Loteria da PancakeSwap não é apenas uma boa maneira de empilhar mais CAKE, também é muito divertida! Este guia irá orientá-lo sobre como se envolver na loteria.
 
 {% hint style="info" %}
-The Lottery has changed a little since its first iteration. Lottery v2 lets you win more often, have some control over your tickets, and has more potential for huge CAKE jackpots to get your mouth watering. Learn more about [PancakeSwap Lottery v2 here](https://docs.pancakeswap.finance/products/lottery).
+A Loteria mudou um pouco desde sua primeira aparição. Loteria v2 permite que você ganhe com mais frequência, tenha algum controle sobre seus bilhetes e tem mais potencial para grandes jackpots de CAKE para dar água na boca. Saiba mais sobre a [Loteria da PancakeSwap v2 aqui](https://docs.pancakeswap.finance/products/lottery).
 {% endhint %}
 
-## Deciding if you'd like to enter a round
+## Decidindo se você gostaria de entrar na rodada
 
-‌Not all Lottery rounds are equal. When a lottery jackpot isn't won, the next round's prize pool will increase; the longer it's been since someone has won the jackpot, the larger the Lottery prize pool will be.
+‌Nem todas as rodadas de loteria são iguais. Quando um jackpot da loteria não é ganho, a premiação da próxima rodada aumentará; quanto mais tempo se passou desde que alguém ganhou o jackpot, maior será o prêmio da Loteria. ‌
 
-‌The longer a round is open, the more people can buy a ticket. Each ticket sold increases the prize pool further. Here's how to check the current round's prize pool and remaining time.
+Quanto mais tempo uma rodada estiver aberta, mais pessoas poderão comprar um bilhete. Cada bilhete vendido aumenta ainda mais a premiação. Veja como verificar a premiação da rodada atual e o tempo restante.
 
-‌1. Visit the[ PancakeSwap Lottery page](https://pancakeswap.finance/lottery) and look at the top of the page. You'll see the current round's prize pool shown in (estimated) US dollar value.
+‌1. Visite a[ Página da Loteria da PancakeSwap](https://pancakeswap.finance/lottery) e observe o topo da página. Você verá a pool do prêmio da rodada atual sendo mostrado em valores em doláres (estimado).
 
 ![](<../../.gitbook/assets/image (93).png>)
 
-This is the amount to be shared between all winners.
+Essa é a quantidade a ser compartilhada entre todos os vencedores.
 
-‌2. A little lower down the page you'll find the remaining time before the current round is drawn.
+‌2. Um pouco mais abaixo na página você encontrará o tempo restante antes do sorteio da atual rodada.
 
 ![](<../../.gitbook/assets/image (94).png>)
 
-Remember, a lot can change in the remaining time. Many more tickets may be sold. Each sold ticket both increases the prize pool, and lowers the odds of an individual ticket winning.
+Lembre-se, muita coisa pode mudar no tempo que resta. Muito bilhetes mais podem ser vendidos. Cada bilhete vendido aumenta a premiação e diminui as chances de um bilhete individual ganhar. ‌
 
-‌If you're unsure, you can always wait until later into the round to decide with more information. Just don't wait too long and miss out!
+Se você não tiver certeza, pode sempre esperar até mais tarde na rodada para decidir com mais informações. Só não espere muito para não ficar de fora!
 
-## Buying Lottery tickets
+## Comprando bilhetes da Loteria
 
-‌Buying tickets is easy.
+‌Comprar bilhetes é fácil.
 
-You just need a little CAKE though: each ticket costs approximately $5 USD (the exact CAKE price is set at the start of the round).
+Você só precisa de um pouco de CAKE: cada bilhete custa aproximadamente $5 USD (o preço exato do CAKE é definido no início da rodada).&#x20;
 
-You can choose to either randomize your lottery ticket numbers, or to choose your ticket numbers manually. Choose between the randomized numbers and manual numbers tabs below for a guide to each method.
+Você pode optar por randomizar seus números de bilhete de loteria ou escolher manualmente seus números de bilhete. Escolha entre as guias de números aleatórios e números manuais abaixo para obter um guia para cada método.
 
 {% tabs %}
-{% tab title="Randomized ticket numbers" %}
-#### Randomized ticket numbers
+{% tab title="Números de Bilhetes Aleatórios" %}
+**Números de Bilhetes Aleatórios**
 
-1\. On the[ PancakeSwap Lottery page](https://pancakeswap.finance/lottery), click the **Buy Tickets** button at the top of the page (there's another lower on the page also).
+1\. Na[ Página da Loteria da PancakeSwap](https://pancakeswap.finance/lottery), clique no botão **Buy Tickets (Comprar Bilhetes)** no topo da página (há outro mais baixo na página também).
 
 ![](<../../.gitbook/assets/image (96).png>)
 
-There is a time between rounds where purchasing tickets isn't possible. Just check back after the countdown if that's the case.
+Há um tempo entre as rodadas em que não é possível comprar bilhetes. Basta verificar novamente após a contagem regressiva, se for o caso.
 
 ![](<../../.gitbook/assets/image (97).png>)
 
-2\. A window will open letting you choose how many ticket to buy. Type how many tickets you'd like to buy into the field. You can also use the preset buttons underneath.
+2\. Uma janela se abrirá permitindo que você escolha quantos bilhetes comprar. Digite quantos bilhetes você gostaria de comprar no campo. Você também pode usar os botões predefinidos abaixo.
 
 ![](<../../.gitbook/assets/image (142).png>)
 
-3\. Before you continue, it's worth considering the bulk purchase discounts. The more tickets you buy, the greater the discount.
+3\. Antes de continuar, vale a pena considerar os descontos de compra no atacado. Quanto mais bilhetes você comprar, maior será o desconto.&#x20;
 
-The discount starts at 2 tickets, and scales all the way to 100 tickets where you will save almost 5% on your purchase (4.95%).
+O desconto começa com 2 ingressos e vai até 100 ingressos, onde você economizará quase 5% na compra (4,95%).&#x20;
 
-4\. When you're happy with the number of tickets you want to buy, click **Confirm** and confirm your action in your wallet.
+4\. Quando estiver satisfeito com o número de bilhetes que deseja comprar, clique em Confirmar e confirme sua ação em sua carteira.
 
 ![](<../../.gitbook/assets/image (143).png>)
 {% endtab %}
 
 {% tab title="Manual ticket numbers" %}
-#### Manual ticket numbers
+**Númereos de Bilhetes manualmente**
 
-1\. On the[ PancakeSwap Lottery page](https://pancakeswap.finance/lottery), click the **Buy Tickets** button at the top of the page (there's another lower on the page also).
+1\. Na[ Página da Loteria da PancakeSwap](https://pancakeswap.finance/lottery), clique no botão **Buy Tickets (Comprar Bilhetes)** no topo da página (há outro mais baixo na página também)..
 
 ![](<../../.gitbook/assets/image (96).png>)
 
-There is a time between rounds where purchasing tickets isn't possible. Just check back after the countdown if that's the case.
+Há um tempo entre as rodadas em que não é possível comprar bilhetes. Basta verificar novamente após a contagem regressiva, se for o caso.
 
 ![](<../../.gitbook/assets/image (97).png>)
 
-2\. A window will open letting you choose how many ticket to buy. Type how many tickets you'd like to buy into the field. You can also use the preset buttons underneath.
+2\. Uma janela se abrirá permitindo que você escolha quantos bilhetes comprar. Digite quantos bilhetes você gostaria de comprar no campo. Você também pode usar os botões predefinidos abaixo.
 
 ![](<../../.gitbook/assets/image (142).png>)
 
-3\. Before you continue, it's worth considering the bulk purchase discounts. The more tickets you buy, the greater the discount.
+3\. Antes de continuar, vale a pena considerar os descontos de compra no atacado. Quanto mais bilhetes você comprar, maior será o desconto.&#x20;
 
-The discount starts at 2 tickets, and scales all the way to 100 tickets where you will save almost 5% on your purchase.
+O desconto começa com 2 ingressos e vai até 100 ingressos, onde você economizará quase 5% na compra.&#x20;
 
-4\. To customize the numbers on your tickets, click the **View/Edit Numbers** button.
+1. Para personalizar os números em seus bilhetes, clique no botão **Visualizar/Editar Números**.
 
 ![](<../../.gitbook/assets/image (144).png>)
 
-5\. A new window will open showing your tickets. Click onto a number for any ticket to change the number in that position.
+5\. Uma nova janela se abrirá mostrando seus bilhetes. Clique em um número em qualquer bilhete para alterar o número nessa posição.
 
-You can randomize your numbers again by clicking **Randomize**, or go back if you change your mind by clicking **Go back**.
+Você pode randomizar seus números novamente clicando em Randomizar ou voltar se mudar de ideia clicando em Voltar.
 
 ![](https://lh4.googleusercontent.com/229uStQBb-Uzj-Tu9kRDXxfux4wWNjeHjPXJBULwhKbCR5UEgWnb3jzzj1-KeWeBfxfGlctR9aH\_S1P\_l6\_VgtrZR0Eb2AVqrJLF8oNkpoVFlpeHaOIsUij-bs12QBOwDAIJEJiU)
 
-You'll get a warning if you create duplicate tickets. It's possible your duplicate tickets will win. In this case your tickets will share in the prize pool for their bracket.
+Você receberá um aviso se criar bilhetes duplicados. É possível que seus bilhetes duplicados ganhem. Nesse caso, seus bilhetes serão divididos na premiação de sua chave.
 
 ![](<../../.gitbook/assets/image (103).png>)
 
-6\. When you're happy with your numbers, click the **Confirm and buy** button.
+6\. Quando estiver satisfeito com seus números, clique no botão **Confirmar e comprar**.
 
 ![](<../../.gitbook/assets/image (145).png>)
 
-Confirm the action in your wallet.
+Confirme a ação em sua carteira..
 {% endtab %}
 {% endtabs %}
 
-## Viewing your tickets after buying
+## Vendo seus bilhetes depois de compar
 
-You can view your tickets after buying them before the round's numbers are drawn.
+Você pode ver seus bilhetes depois de comprá-los antes que os números da rodada sejam sorteados.
 
-1\. Click **View Your Tickets** in the "Next Draw" area of the Lottery page.
+1\. Clique em **View Your Tickets(Veja seus bilhetes)** na área "Next Draw" da página da loteria.
 
 ![](<../../.gitbook/assets/image (108).png>)
 
-2\. A window will open showing all of your tickets and their numbers. It'll also give you the option to buy more tickets if you'd like.
+2\. Uma janela será aberta mostrando todos os seus bilhetes e seus números. Também lhe dará a opção de comprar mais bilhetes, se desejar.
 
 ![](<../../.gitbook/assets/image (109).png>)
 
-## When the round ends and winning numbers are drawn
+## Quando a rodada termina e os números vencedores são sorteados
 
-‌When the round has ended and the winning numbers are available, you can check your tickets to see if you won.
+‌‌Quando a rodada terminar e os números vencedores estiverem disponíveis, você pode verificar seus bilhetes para ver se ganhou.
 
-### ‌View your winning tickets
+### ‌Veja seus bilheres premiados
 
-‌You can view your winning tickets in the same way you viewed your tickets after buying them.
+‌Você pode ver seus bilhetes premiados da mesma forma que os viu depois de comprá-los. ‌
 
-‌1. Click **View Your Tickets** in the "Finished Rounds" area of the Lottery page.
+1\. Clique em **View Your Tickets(Ver seus bilhetes)** na área "Rodadas concluídas" da página da Loteria.
 
 ![](https://lh3.googleusercontent.com/p3QxWcrxCcBwHrhwPU55vnAN-BmelgNwKRWse8yEQQVfehXsIOvUX\_tCo1gC7LpHxL-crIMS19RxpnMxn5yBuShNwXfH7qzCSdCOtnBeXhUuecrqRvhdI97rX\_CuVuWAawaor6Mi)
 
-2\. A window will open showing the winning numbers and all of your tickets and their numbers.\\
+2\. Uma janela será aberta mostrando os números vencedores e todos os seus bilhetes e seus números.\\

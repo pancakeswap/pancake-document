@@ -20,7 +20,7 @@ O depósito para cada grupo de Pottery é aberto uma vez por mês. O depósito f
 
 – o que significa que o depósito está atualmente fechado até a próxima primeira segunda-feira mensal. Se o depósito estiver aberto, você verá isso:&#x20;
 
-![](<../../.gitbook/assets/image (4) (3).png>)
+![](<../../.gitbook/assets/image (4).png>)
 
 – Nesse caso, você pode depositar seu CAKE para participar do Pottery se o APY, o valor total bloqueado e as chances de ganhar forem aceitáveis para você. Antes de depositar, certifique-se de entender completamente os riscos de participar! Todos os depósitos serão bloqueados por 10 semanas sem retirada antecipada em nenhuma circunstância. Por favor, saiba mais sobre [os riscos e taxas aqui](https://docs.pancakeswap.finance/v/portuguese-brazilian/products/pottery).
 
@@ -36,7 +36,7 @@ Ocasionalmente, pode haver algum atraso devido à leitura do subgraph, haverá u
 
 Após cada sorteio na sexta-feira por volta do meio-dia UTC, você pode ver os resultados e os vencedores no painel Rodadas Concluídas:
 
-![](<../../.gitbook/assets/image (2) (3) (1).png>)
+![](<../../.gitbook/assets/image (2) (3).png>)
 
 Com base na data do sorteio, encontre a rodada correspondente para o grupo que você gostaria de verificar - em cada sexta-feira, pode haver mais de um sorteio, pois existem grupos diferentes, verifique se você está visualizando o sorteio certo para o grupo que você está procurando. Por favor, leia para saber mais sobre a estrutura de grupo[ aqui](https://docs.pancakeswap.finance/v/portuguese-brazilian/products/pottery).
 

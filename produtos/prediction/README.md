@@ -1,26 +1,28 @@
-# 🔮 Prediction
+# 🔮 Previsão
 
 ![](../../.gitbook/assets/prediction-header.png)
 
-PancakeSwap Prediction is a fun and simple decentralized prediction market.
+A Previsão da PancakeSwap é um mercado de previsão descentralizado divertido e simples.
 
-> #### Predict whether BNB's price will rise or fall – guess correctly to win!
+> #### Preveja se o preço do BNB vai subir ou descer – adivinhe corretamente para ganhar!
 
-It's easy to take part:
+É fácil participar:&#x20;
 
-* Predict if the price of BNBUSD will be higher or lower than it was when the “LIVE” phase starts.
-* If you enter an “UP” position, and the BNBUSD “Closed Price” is higher than the “Locked Price” at the end of the 5 minute LIVE phase, you WIN! And if it’s lower, you lose.
-* If you enter a “DOWN” position, and the BNBUSD “Closed Price” is higher than the “Locked Price” at the end of the 5 minute LIVE phase, you LOSE! If it’s lower, you win.
+* Preveja se o preço de BNBUSD ou CAKEBUSD será maior ou menor quando a fase “LIVE” começa.&#x20;
+* Se você entrar em uma posição “PARA CIMA” e o “Preço Fechado” for maior que o “Preço Bloquado” no final da fase AO VIVO de 5 minutos, você GANHA! E se for menor, você perde.&#x20;
+* Se você entrar em uma posição “PARA BAIXO” e o “Preço Fechado” for maior que o “Preço Bloqueado” no final da fase NO AR de 5 minutos, você PERDE! Se for menor, você ganha.&#x20;
 
-Have fun!
+Divirta-se!
 
-[~~View V1 smart contract~~](https://bscscan.com/address/0x516ffd7D1e0Ca40b1879935B2De87cb20Fc1124b) ~~(deprecated)~~
+[~~Veja V1 smart contract~~](https://bscscan.com/address/0x516ffd7D1e0Ca40b1879935B2De87cb20Fc1124b) ~~(descontinuado)~~
 
-[**View V2 smart contract**](https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda)\*\*\*\*
+[**Veja o Smart Contract de BNB V2**](https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda)****
 
-## PancakeSwap Prediction Guides
+****[**Veja o Smart Contract de CAKE V2**](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07)
 
-Get started with Prediction with our guides and FAQs.
+## Guias para a Previsão da PancakeSwap
+
+Comece a usar a Previsão com nossos guias e perguntas frequentes.
 
 {% content-ref url="prediction-guide.md" %}
 [prediction-guide.md](prediction-guide.md)

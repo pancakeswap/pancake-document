@@ -1,6 +1,6 @@
 # Conecte Sua Carteira na PancakeSwap
 
-<figure><img src="../.gitbook/assets/how-to-connect-wallet-header.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/how-to-connect-wallet-header (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Conecte sua carteira
 
