@@ -159,7 +159,7 @@ Puedes encontrar más info sobre cada wallet a continuación, como así también
 
 {% tabs %}
 {% tab title="Petra" %}
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 Petra wallet es una extensión que te permite explorar Aptos desde tu browser.
 
@@ -182,7 +182,7 @@ Petra wallet es una extensión que te permite explorar Aptos desde tu browser.
 {% endtab %}
 
 {% tab title="Martian" %}
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Martian es una wallet para Aptos Chain que te permite almacenar, enviar, recibir tokens y administrar y mintear NFTs. Su versión para dispositivos móviles estará disponible pronto.
 
@@ -214,29 +214,29 @@ Pontem Wallet es una wallet para Aptos Chain que te permite almacenar, enviar, r
 {% endtab %}
 
 {% tab title="Fewcha" %}
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
+Fewcha es una wallet cripto confiable, optimizada para el ecosistema de Aptos y SUI, que abre un universo de aplicaciones en la web3.
 
-Fewcha is a trusted crypto wallet optimized for Aptos and SUI ecosystem that unlocks a universe of applications in the web3.
+**Características:**
 
-**Highlights:**
-
-* Support Aptos and Sui Blockchain
-* First wallet to support pure blockchain using Move language
-* Friendly UX/UI
-* Simple, elegant and easy to use
-* In-app Swapper
-* In-app Stake
-* Multiple languages
-* EBCI Protocol - a protocol that prevents multiple pop-ups when interacting with dApp, it’ll help users manage what dApp they are signing for a transaction.
-* Support Hardware Wallet Connection (Keystone Wallet)
-
-****
-
-****[**Download FewCha Wallet**](https://fewcha.app/)****
+* Soporta las blockchain de Aptos y Sui.
+* La primera wallet en soportar la blockchain usando el lenguaje Move.
+* UX/UI amigable
+* Simple, elegante and fácil de usar
+* Swapper incorporado
+* Stake incorporado
+* Multiples idiomas
+* EBCI Protocol - un protocolo que previene múltiples pop-ups cuando interactúa con una dApp, esto ayuda al usuario a administrar con qué dApps está trabajando y cuál firmar la transacción.
+* Soporta Hardware Wallet Connection (Keystone Wallet)
 
 ****
 
-### **Fewcha wallet setup guide**
+[**Descarga FewCha Wallet**](https://fewcha.app/)****
+
+****
+
+### **Fewcha wallet - Guía de configuración**
 
 ****
 
