@@ -10,7 +10,7 @@ Perpetuos, perpetual swaps, o perps son un tipo especial de contratos de futuros
 
 Apalancamiento es un mecanismo del trading. Los traders pueden usarlo para aumentar su exposición al mercado, permitiéndoles pagar menos que el importe total de la inversión. En resumen, pides dinero prestado para apalancar tu inversión.
 
-<figure><img src="../../../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Margen
 

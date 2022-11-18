@@ -129,7 +129,7 @@ Blocto ofrece una solución amigable para el usuario y un paquete todo en uno pa
 
 2 - Clic en el botón "más" (+), luego elija "APT - Aptos"
 
-![](<../.gitbook/assets/image (4).png>)![](<../.gitbook/assets/image (4) (8).png>)
+![](<../.gitbook/assets/image (4) (2).png>)![](<../.gitbook/assets/image (4) (8).png>)
 
 
 
@@ -182,19 +182,19 @@ Petra wallet es una extensión que te permite explorar Aptos desde tu browser.
 {% endtab %}
 
 {% tab title="Martian" %}
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-Martian is an Aptos Chain wallet that allows you to store, send, receive tokens and manage & mint NFTs. Its mobile version is coming soon.
+Martian es una wallet para Aptos Chain que te permite almacenar, enviar, recibir tokens y administrar y mintear NFTs. Su versión para dispositivos móviles estará disponible pronto.
 
-**Highlights:**
+**Características:**
 
-* Mobile version coming soon
-* Easy to use
-* Supports multiple accounts
-* Built-in NFT support
-* Supports Aptos testnet
+* Versión para móviles proximamente.
+* Fácil de usar
+* Soporta múltiples cuentas.
+* Soporte para NFTs incorporado.
+* Soporta Aptos testnet
 
-****[**Download Martian Wallet**](https://martianwallet.xyz/)****
+****[**Descarga Martian Wallet**](https://martianwallet.xyz/)****
 {% endtab %}
 
 {% tab title="Pontem" %}
