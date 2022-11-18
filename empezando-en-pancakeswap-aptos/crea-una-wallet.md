@@ -123,7 +123,7 @@ Blocto ofrece una solución amigable para el usuario y un paquete todo en uno pa
 
 1 - Configuración ingresando tu dirección de Email. Luego ingrese la clave por única vez, recibida en su Email.
 
-****![](<../.gitbook/assets/image (7) (2).png>)****![](<../.gitbook/assets/image (1).png>)****
+****![](<../.gitbook/assets/image (7) (2).png>)****![](<../.gitbook/assets/image (1) (2).png>)****
 
 
 
@@ -135,7 +135,7 @@ Blocto ofrece una solución amigable para el usuario y un paquete todo en uno pa
 
 3 - Listo! Ya puedes depositar APT en la wallet Aptos y comenzar a usar PancakeSwap en Aptos yendo a la página "Discover"!
 
-![](<../.gitbook/assets/image (6).png>)![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (6) (3).png>)![](<../.gitbook/assets/image (7).png>)
 {% endtab %}
 {% endtabs %}
 
@@ -240,25 +240,25 @@ Fewcha es una wallet cripto confiable, optimizada para el ecosistema de Aptos y 
 
 ****
 
-1\. **** Once Fewcha Wallet extension finishes downloading, a welcome tab will appear. Here you can select “Create a new wallet” (or “Use an existing wallet” if you’ve already had one.)
+1\. **** Una vez que la extensión de Fewcha Wallet termine de descargarse, aparecerá una etiqueta de bienvenida. Allí puedes seleccionar "Crear una nueva wallet" (o "usar una wallet existente" si ya tienes una).
 
 <figure><img src="https://lh5.googleusercontent.com/xzkPxptL1JdM_IcX3jEH8J1JpEC9uWabA5QUJzKBRIqszgGeOUh67QuQx7Y6BCzv1UIXshZuxrCCgZe6wYhxCZ4JbjcbtYIdP_zO9A6VDiQgypsbr2wlvqUjhioyPsRDVOYTBJv_smcjhODx3zHnqrTvxiJzWMhZa3e4TvG3lfAqFtE6-47N08s" alt=""><figcaption></figcaption></figure>
 
-2\. **** Select your default blockchain. Create a password that’s hard to predict yet easy to remember. Make sure you have read and agreed to the Terms of Service and Privacy Policy. Then click “Continue”.
+2\. **** Selecciona tu red por defecto. Crea una password que sea difícil de deducir, pero fácil de recordar. Asegúrate de haber leído y aceptar los Términos y Condiciones y la Política de Privacidad. Luego clic en "Continuar".
 
-3\. For the Recovery Phrase, please write it down or copy to save it somewhere that you can remember.
+3\. Para la frase de recuperación, escríbela y guárdala en un lugar seguro.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-> * Safely backup your recovery phrases. If you lose your recovery phrase, you may lose access to your wallet and the crypto within it forever.&#x20;
-> * **NEVER** share your recovery phrases with anyone, under any circumstances.
-> * **NEVER** input your recovery phrase to a website or app, other than your wallet app**.**
+> * Guarda tu frase de recuperación en un lugar seguro. Si la pierdes, perderás el acceso a tu wallet y a las cripto en ella para siempre.
+> * **NUNCA** compartas tu frase de recuperación con nadie, bajo ninguna circunstancia.
+> * **NUNCA** ingreses tu frase de recuperación en un sitio web o app que no sea la de tu wallet.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 4\. Click Finish to complete this setup process. And done! Once your wallet is created, you can access it at any time by clicking on the Fewcha Wallet icon on the extension bar.&#x20;
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 To start using PancakeSwap on Aptos, you will also need to have some $APT tokens to pay gas fees. You can learn how to get some here.
 {% endtab %}
