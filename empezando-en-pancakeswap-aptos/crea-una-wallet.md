@@ -198,23 +198,23 @@ Martian es una wallet para Aptos Chain que te permite almacenar, enviar, recibir
 {% endtab %}
 
 {% tab title="Pontem" %}
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
+Pontem Wallet es una wallet para Aptos Chain que te permite almacenar, enviar, recibir tokens, y conectar con dApps al ecosistema de Aptos.
 
-Pontem Wallet is an Aptos Chain wallet that allows you to store, send, receive tokens, and connect to dApps on the Aptos ecosystem.
+**Características:**
 
-**Highlights:**
+* Próximamente versión para móviles
+* Fácil de usar
+* Soporta múltiples cuentas
+* Soporte para NFTs incorporado
+* Soporta Aptos testnet
 
-* Mobile version coming soon
-* Easy to use
-* Supports multiple accounts
-* Built-in NFT support
-* Supports Aptos testnet
-
-****[**Download Pontem Wallet**](https://pontem.network/pontem-wallet)****
+****[**Descarga Pontem Wallet**](https://pontem.network/pontem-wallet)****
 {% endtab %}
 
 {% tab title="Fewcha" %}
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+
 
 Fewcha is a trusted crypto wallet optimized for Aptos and SUI ecosystem that unlocks a universe of applications in the web3.
 
@@ -306,6 +306,8 @@ Blocto offers a user-friendly solution and an all-in-one package for using Dapps
 4 - Done! Please note that you will need to fund your Aptos address with APT to start using PancakeSwap on Aptos. If you want to access the same account on other devices, simply sign in using the same Email address.
 {% endtab %}
 {% endtabs %}
+
+
 
 {% hint style="danger" %}
 NUNCA, bajo ninguna circunstancia, debes dar jamás tus claves privadas o frase de recuperación (semilla). Eso le daría a alguien el completo acceso a tus cripto!

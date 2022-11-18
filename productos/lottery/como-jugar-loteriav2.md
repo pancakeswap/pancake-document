@@ -82,7 +82,7 @@ El descuento comienza en 2 boletos, y escala hasta los 100 tickets, donde se aho
 
 4\. Para personalizar los números de los tickets, clic en el botón **View/Edit Numbers**.
 
-![](<../../.gitbook/assets/image (13).png>)
+![](<../../.gitbook/assets/image (13) (1).png>)
 
 5\. Se abrirá una nueva ventana que muestra sus tickets. Haga clic en un número de cualquier ticket para cambiar el número en esa posición.
 
