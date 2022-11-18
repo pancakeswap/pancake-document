@@ -98,7 +98,7 @@ Trust Wallet es una wallet popular para dispositivos móviles. Soporta DApps, co
 {% endtab %}
 
 {% tab title="Blocto" %}
-****![](../.gitbook/assets/image.png)****
+****![](<../.gitbook/assets/image (12).png>)****
 
 Blocto ofrece una solución amigable para el usuario y un paquete todo en uno para usar DApps y manejar sus activos.
 
@@ -121,9 +121,9 @@ Blocto ofrece una solución amigable para el usuario y un paquete todo en uno pa
 
 ### **Guía de configuración de Blocto Wallet**
 
-1 - Set up by entering your Email address. Then enter the one-time password received by Email.
+1 - Configuración ingresando tu dirección de Email. Luego ingrese la clave por única vez, recibida en su Email.
 
-****![](broken-reference)****![](broken-reference)****
+****![](<../.gitbook/assets/image (7).png>)****![](../.gitbook/assets/image.png)****
 
 
 

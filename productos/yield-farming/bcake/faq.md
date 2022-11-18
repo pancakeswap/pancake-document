@@ -27,7 +27,7 @@ Estos son algunos ejemplos del cálculo:
 
 ![](<../../../.gitbook/assets/image (55).png>)
 
-![](<../../../.gitbook/assets/image (12).png>)
+![](<../../../.gitbook/assets/image (12) (2).png>)
 
 {% hint style="info" %}
 **TL;DR (Resumen nivel: Conejo degen)**
