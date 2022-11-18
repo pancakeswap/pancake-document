@@ -123,19 +123,19 @@ Blocto ofrece una solución amigable para el usuario y un paquete todo en uno pa
 
 1 - Configuración ingresando tu dirección de Email. Luego ingrese la clave por única vez, recibida en su Email.
 
-****![](<../.gitbook/assets/image (7).png>)****![](../.gitbook/assets/image.png)****
+****![](<../.gitbook/assets/image (7) (2).png>)****![](<../.gitbook/assets/image (1).png>)****
 
 
 
-2 - Click the plus button, then choose "APT - Aptos"
+2 - Clic en el botón "más" (+), luego elija "APT - Aptos"
 
-![](broken-reference)![](broken-reference)
+![](../.gitbook/assets/image.png)![](<../.gitbook/assets/image (4).png>)
 
 
 
-3 - Done! You can now deposit APT into the Aptos wallet and start using PancakeSwap on Aptos by going to the "Discover" page!
+3 - Listo! Ya puedes depositar APT en la wallet Aptos y comenzar a usar PancakeSwap en Aptos yendo a la página "Discover"!
 
-![](broken-reference)![](broken-reference)
+![](<../.gitbook/assets/image (6).png>)![](<../.gitbook/assets/image (7).png>)
 {% endtab %}
 {% endtabs %}
 
