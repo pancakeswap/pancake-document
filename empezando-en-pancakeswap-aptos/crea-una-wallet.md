@@ -104,22 +104,22 @@ Blocto ofrece una solución amigable para el usuario y un paquete todo en uno pa
 
 **Características:**
 
-* Supports both BNB Chain and Aptos Chain and other major crypto networks out-of-the-box.&#x20;
-* Easy to set up.
-* Supports both iOS and Android.
-* Email login.
-* Smart contract wallet eliminates the need for managing your own private key and also provides advanced features like account recovery
-* The initial setup gas fee for the smart contract wallet is covered
+* Soporta por defecto tanto BNB Chain como Aptos Chain y otras redes principales.&#x20;
+* Fácil de configurar.
+* Soporta tanto iOS como Android.
+* Login con Email.
+* La wallet con Smart Contract elimina la necesidad de administrar tu propia clave privada e incorpora funciones avanzadas como recuperación de cuenta.
+* El fee para el SC de la configuración inicial está cubierto (gratis).
 
-**Note:**
+**Nota:**
 
-* **Requires Email address to get started**
-* Custodial model
-* A bit complicated if you want to export your private key and manage it or use it in other wallets. [Tutorial](https://portto.zendesk.com/hc/en-us/articles/4411564072217-Can-I-export-my-private-key-from-Blocto-and-use-it-in-Metamask-Phantom-Trust-Wallet-).
+* **Requiere dirección de Email para comenzar.**
+* Es del tipo Custodial wallet
+* Es algo complicado si quieres exportar tus claves privadas y administrarlas o usarlas en otras wallets. [Tutorial](https://portto.zendesk.com/hc/en-us/articles/4411564072217-Can-I-export-my-private-key-from-Blocto-and-use-it-in-Metamask-Phantom-Trust-Wallet-).
 
-****[**Download Blocto Wallet**](https://portto.com/download)
+****[**Descarga Blocto Wallet**](https://portto.com/download)
 
-### **Blocto Wallet Setup Guide**
+### **Guía de configuración de Blocto Wallet**
 
 1 - Set up by entering your Email address. Then enter the one-time password received by Email.
 
