@@ -198,7 +198,7 @@ Martian es una wallet para Aptos Chain que te permite almacenar, enviar, recibir
 {% endtab %}
 
 {% tab title="Pontem" %}
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+
 
 Pontem Wallet is an Aptos Chain wallet that allows you to store, send, receive tokens, and connect to dApps on the Aptos ecosystem.
 
