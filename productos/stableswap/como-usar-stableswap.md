@@ -66,7 +66,7 @@ Habrá una ventana de 24 horas a partir del lanzamiento de StableSwap, y antes d
 
 3 - Agregue liquidez nuevamente para HAY-BUSD (esta vez deberías ver que estás agregando a LP estable durante el proceso)
 
-<figure><img src="../../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 4 - Deposite su LP estable HAY-BUSD en la [página de Farms](https://pancakeswap.finance/farms) cuando se lance el 23 de septiembre: busque el Farm con la etiqueta LP estable
 

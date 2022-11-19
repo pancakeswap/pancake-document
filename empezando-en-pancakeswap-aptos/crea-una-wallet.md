@@ -135,7 +135,7 @@ Blocto ofrece una solución amigable para el usuario y un paquete todo en uno pa
 
 3 - Listo! Ya puedes depositar APT en la wallet Aptos y comenzar a usar PancakeSwap en Aptos yendo a la página "Discover"!
 
-![](<../.gitbook/assets/image (6) (3).png>)![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (6) (3).png>)![](<../.gitbook/assets/image (7) (3).png>)
 {% endtab %}
 {% endtabs %}
 
@@ -248,13 +248,13 @@ Fewcha es una wallet cripto confiable, optimizada para el ecosistema de Aptos y 
 
 3\. Para la frase de recuperación, escríbela y guárdala en un lugar seguro.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (4).png" alt=""><figcaption></figcaption></figure>
 
 > * Guarda tu frase de recuperación en un lugar seguro. Si la pierdes, perderás el acceso a tu wallet y a las cripto en ella para siempre.
 > * **NUNCA** compartas tu frase de recuperación con nadie, bajo ninguna circunstancia.
 > * **NUNCA** ingreses tu frase de recuperación en un sitio web o app que no sea la de tu wallet.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 4\. Clic en Finish para completar el proceso de configuración. Y listo! Una vez creada la wallet, puedes acceder a ella en cualquier momento haciendo clic en el ícono de Fewcha Wallet en la barra de extensiones.&#x20;
 
@@ -264,46 +264,48 @@ Para empezar a usar PancakeSwap en Aptos, también necesitarás algo de $APT par
 {% endtab %}
 
 {% tab title="Blocto" %}
-****![](broken-reference)****
+****![](<../.gitbook/assets/image (7).png>)****
 
-Blocto offers a user-friendly solution and an all-in-one package for using Dapps and managing your assets.
 
-**Highlights:**
 
-* Supports both BNB Chain and Aptos Chain and other major crypto networks out-of-the-box.&#x20;
-* No app or extension is required for using on desktop.
-* Supports both desktop and mobile.
-* Email login.
-* Smart contract wallet eliminates the need for managing your own private key and also provides advanced features like account recovery
-* The initial setup gas fee for the smart contract wallet is covered
+Blocto ofrece una solución amigable para el usuario y un paquete todo en uno para usar DApps y manejar sus activos.
 
-**Note:**
+**Características:**
 
-* **Requires Email address to get started**
-* Custodial model
-* A bit complicated if you want to export your private key and manage it or use it in other wallets. [Tutorial](https://portto.zendesk.com/hc/en-us/articles/4411564072217-Can-I-export-my-private-key-from-Blocto-and-use-it-in-Metamask-Phantom-Trust-Wallet-).
+* Soporta por defecto tanto BNB Chain como Aptos Chain y otras redes principales.&#x20;
+* No requiere app ni extensión para desktop.
+* Soporta tanto desktop como móviles.
+* Login con Email.
+* La wallet con Smart Contract elimina la necesidad de administrar tu propia clave privada e incorpora funciones avanzadas como recuperación de cuenta.
+* El fee para el SC de la configuración inicial está cubierto (gratis).
+
+**Nota:**
+
+* **Requiere dirección de Email para comenzar.**
+* Es del tipo Custodial wallet
+* Es algo complicado si quieres exportar tus claves privadas y administrarlas o usarlas en otras wallets. [Tutorial](https://portto.zendesk.com/hc/en-us/articles/4411564072217-Can-I-export-my-private-key-from-Blocto-and-use-it-in-Metamask-Phantom-Trust-Wallet-).
 
 ### **Blocto wallet setup guide**
 
-1 - After selecting "Blocto" in the wallet connection window, you should be presented with a sign-in window. Type in your Email address and click "Register". If you have previously setup a Blocto account, please type in the Email address and click "sign in".
+1 - Luego de seleccionar "Blocto" en la ventana de conección de wallet, aparecerá una ventana para registrarse. Ingresa tu Email y haz clic en "Register". Si ya tienes registrada tu cuenta de Blocto, haz clic en "sign in" luego de ingresar tu Email.
 
-![](broken-reference)
-
-
-
-2 - Then enter the one-time password received by Email.
-
-![](broken-reference)
+![](<../.gitbook/assets/image (6).png>)
 
 
 
-3 - Click "Create Aptos wallet". Then click "Confirm" to connect.
+2 - Luego ingresa la clave de un solo uso recibida en tu Email.
 
-![](broken-reference)![](broken-reference)
+![](../.gitbook/assets/image.png)
 
 
 
-4 - Done! Please note that you will need to fund your Aptos address with APT to start using PancakeSwap on Aptos. If you want to access the same account on other devices, simply sign in using the same Email address.
+3 - Clic en "Create Aptos wallet". Luego clic en "Confirm" para conectar.
+
+![](<../.gitbook/assets/image (1).png>)![](<../.gitbook/assets/image (10).png>)
+
+
+
+4 - Listo! También necesitarás fondear tu wallet de Aptos con $APT para comenzar a usar PancakeSwap en Aptos. Si quieres acceder a tu misma cuenta desde otros dispositivos, simplemente ingresa con la misma dirección de Email.
 {% endtab %}
 {% endtabs %}
 
