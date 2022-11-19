@@ -20,4 +20,20 @@ Aptos tiene múltiples redes, incluyendo múltiples devnets y testnets. Pero par
 
 Así puedes hacerlo:
 
-![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2FCszMaKSs3h4WcbCv9vQZ%2Faptos-network-switching-petra.gif?alt=media\&token=f871bdf0-81ff-4f93-aa26-b67f988f209c)
+{% tabs %}
+{% tab title="Petra" %}
+<figure><img src="https://1397868517-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2FCszMaKSs3h4WcbCv9vQZ%2Faptos-network-switching-petra.gif?alt=media&#x26;token=f871bdf0-81ff-4f93-aa26-b67f988f209c" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Martian" %}
+<figure><img src="https://1397868517-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2FgNCvCQSYv5OqQcUdXlOs%2Faptos-network-switching-martian.gif?alt=media&#x26;token=9e832b8a-f6c1-48b8-b661-0e5caf7c7b97" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Pontem" %}
+<figure><img src="https://1397868517-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2FU77SR8R4g5EIqSgADMIv%2Faptos-network-switching-pontem.gif?alt=media&#x26;token=6dc1f7b1-8c1b-488e-a6c0-92d1d66a1fc4" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Fewcha" %}
+<figure><img src="https://1397868517-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2Fwh3JETrmFGye4gkprykj%2Faptos-network-switching-fewcha.gif?alt=media&#x26;token=7cdf8ce0-b8c7-44c4-953b-0a6ebaf03828" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}

@@ -295,13 +295,13 @@ Blocto ofrece una solución amigable para el usuario y un paquete todo en uno pa
 
 2 - Luego ingresa la clave de un solo uso recibida en tu Email.
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
 
 
 3 - Clic en "Create Aptos wallet". Luego clic en "Confirm" para conectar.
 
-![](<../.gitbook/assets/image (1).png>)![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (1) (4).png>)![](<../.gitbook/assets/image (10).png>)
 
 
 

@@ -1,6 +1,6 @@
 # El Equipo de La Cocina
 
-<figure><img src=".gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Pueden chequear las entrevistas de La Cocina, cliqueando en el nombre de cada Chef.
 
