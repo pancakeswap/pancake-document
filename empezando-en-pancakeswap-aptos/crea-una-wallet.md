@@ -256,11 +256,11 @@ Fewcha es una wallet cripto confiable, optimizada para el ecosistema de Aptos y 
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-4\. Click Finish to complete this setup process. And done! Once your wallet is created, you can access it at any time by clicking on the Fewcha Wallet icon on the extension bar.&#x20;
+4\. Clic en Finish para completar el proceso de configuración. Y listo! Una vez creada la wallet, puedes acceder a ella en cualquier momento haciendo clic en el ícono de Fewcha Wallet en la barra de extensiones.&#x20;
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-To start using PancakeSwap on Aptos, you will also need to have some $APT tokens to pay gas fees. You can learn how to get some here.
+Para empezar a usar PancakeSwap en Aptos, también necesitarás algo de $APT para los fees. Puedes aprender como conseguirlos [aquí](como-conseguir-aptos-coins.md).
 {% endtab %}
 
 {% tab title="Blocto" %}
