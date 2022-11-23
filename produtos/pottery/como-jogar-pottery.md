@@ -16,11 +16,11 @@ Um novo grupo de Pottery é criado na primeira segunda-feira de cada mês. Cada 
 
 O depósito para cada grupo de Pottery é aberto uma vez por mês. O depósito fecha e tranca o CAKE na primeira segunda-feira do mês às 23:59 UTC e abre na sexta-feira anterior por volta das 10:00 UTC. Isso é para combinar todos os depósitos e direcioná-los para o stake bloqueado de uma só vez para gerenciamento e alocação eficientes de recompensas de stake. Para o resto do tempo, você verá isso:&#x20;
 
-![](<../../.gitbook/assets/image (3) (2).png>)
+![](<../../.gitbook/assets/image (3) (2) (1).png>)
 
 – o que significa que o depósito está atualmente fechado até a próxima primeira segunda-feira mensal. Se o depósito estiver aberto, você verá isso:&#x20;
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (2).png>)
 
 – Nesse caso, você pode depositar seu CAKE para participar do Pottery se o APY, o valor total bloqueado e as chances de ganhar forem aceitáveis para você. Antes de depositar, certifique-se de entender completamente os riscos de participar! Todos os depósitos serão bloqueados por 10 semanas sem retirada antecipada em nenhuma circunstância. Por favor, saiba mais sobre [os riscos e taxas aqui](https://docs.pancakeswap.finance/v/portuguese-brazilian/products/pottery).
 

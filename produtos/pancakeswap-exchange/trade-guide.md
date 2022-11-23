@@ -18,7 +18,7 @@ Antes de poder negociar, você precisará de uma carteira compatível com a BNB 
 
 3\. Escolha o token que você deseja negociar no menu suspenso na seção "De/From". A configuração padrão é BNB.
 
-![](<../../.gitbook/assets/image (13) (2).png>)
+![](<../../.gitbook/assets/image (13) (1).png>)
 
 Seja qual for o token que você escolher, você precisará se certificar de ter algum token para negociar. Seu saldo é mostrado acima do menu suspenso do token.&#x20;
 
@@ -40,7 +40,7 @@ Quando estiver pronto, clique no botão **Confirm Swap**. Sua carteira pedirá q
 
 7\. Pronto! Você pode clicar em **Exibir no BscScan** para ver os detalhes da transação no explorer da blockchain.
 
-![](<../../.gitbook/assets/image (17).png>)
+![](<../../.gitbook/assets/image (17) (1).png>)
 
 ## Como é que a minha transação não vai passar?
 

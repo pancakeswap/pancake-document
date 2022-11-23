@@ -259,7 +259,7 @@ SafePal está disponível tanto como carteira de software quanto em hardware. A 
 1. Quando você abrir o aplicativo, a página dos DApps deve ser a página padrão (se não, clique na página dos DApps).
 2. Rolea página um pouco pra baixo para você ver a lista de redes para escolher. Clique **BSC/BNBChain**.
 
-![](<../.gitbook/assets/image (90).png>)
+![](<../.gitbook/assets/image (90) (1).png>)
 
 1. Na lista de DApps da BSC, você vai encontra o link da PancakeSwap. Clique no link da **PancakeSwap**.
 

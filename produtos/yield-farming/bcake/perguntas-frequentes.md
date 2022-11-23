@@ -59,7 +59,7 @@ Ao farmar com bCAKE - Farm Boosters, algumas de suas recompensas de CAKE colhida
 
 Para colhê-los logo agora, basta clicar no botão "Harvest/Colheita".
 
-![](<../../../.gitbook/assets/image (4) (2).png>)
+![](<../../../.gitbook/assets/image (4) (2) (1).png>)
 
 Para verificar o número de recompensas extras no contrato de impulsionamento de farm, passe o mouse ou pressione e segure o número com a linha pontilhada.
 

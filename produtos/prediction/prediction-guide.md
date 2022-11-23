@@ -1,157 +1,163 @@
-# How to Use Prediction
+# Como Usar a Previsão
 
 ![](../../.gitbook/assets/how-to-porediction-header.png)
 
-Playing PancakeSwap’s Prediction lets you test your foresight to earn rewards. Use your market knowledge or gut feeling to predict if the BNBUSD price will go up or down in the near future. Get it right and you’ll collect a share of the round’s prize pool!
+Jogar a previsão da PancakeSwap permite que você teste sua capacidade de prever para ganhar recompensas. Use seu conhecimento de mercado ou intuição para prever se o preço do BNBUSD ou CAKEUSD aumentará ou diminuirá em um futuro próximo. Acerte e você receberá uma parte da premiação da rodada!
 
 {% hint style="warning" %}
-PancakeSwap’s Prediction is a new product that we still consider to be in beta. We may make changes in the future to improve Prediction. As always, the PancakeSwap team will inform users of any changes that will impact how the product works.
+A Previsão da PancakeSwap é um novo produto que ainda consideramos estar em beta. Podemos fazer alterações no futuro para melhorar a previsão. Como sempre, a equipe PancakeSwap informará os usuários sobre quaisquer alterações que afetem o funcionamento do produto.
 {% endhint %}
 
-## Accepting terms of the beta
+## Aceitando os termos do beta
 
-Before you can use Prediction, you’ll need to review and accept the terms.
+Antes de poder usar o Prediction, você precisará revisar e aceitar os termos.
 
-Visit the [PancakeSwap Prediction page](https://pancakeswap.finance/prediction). You will see a “Welcome!” window explaining that the Prediction product is still in beta.
+Visite a [página da Previsão da PancakeSwap](https://pancakeswap.finance/prediction). Você verá uma janela de “Boas Vindas!” explicando que o produto Previsão está ainda em beta.
 
-![](https://lh4.googleusercontent.com/GA0nTC9\_fGjLP2Bt0u7f1VV9Dj4BCHAmqlLSwwQPWTQzDOcKu1ZBqjVzYQOIalerZUac\_oBk2FYggw1-JpuTIQ4XPga7ZfUVPXOOikEySeYi4O-xr1O4XQFOVw8zilyRCfGkuXeO)
+<figure><img src="../../.gitbook/assets/1-how-to-use-predictions.png" alt=""><figcaption></figcaption></figure>
 
-Read and accept the conditions then click **Continue**.
+Leia e Aceite as condições então clique em **Continue**.
 
-## Making a prediction for the next round
+## Alterne entre os dois mercados de previsão
 
-The Prediction page shows quite a bit of information. Predictions operate in 5 minute rounds. Make your prediction before a round goes live to join in.
+<figure><img src="../../.gitbook/assets/MBP4-2022.06.27-114859-Google Chrome-Prediction  PancakeSwap - $3.405.gif" alt=""><figcaption></figcaption></figure>
 
-### Checking the timer
+A PancakeSwap oferece dois mercados de previsão separados para cada jogador escolher. Você pode jogar com base no preço do CAKE USD, apostando com o CAKE. Alternativamente, você pode jogar com base no preço BNB USD, apostando com BNB.
 
-To enter a round of Prediction, you'll want to check how long is left in the current round. You'll find the timer in the top-right area.
+## Fazendo uma previsão para a próxima rodada
+
+A página de Previsão mostra um pouco de informação. As previsões operam em rodadas de 5 minutos. Caso queira participar, faça sua previsão antes que uma rodada comece.
+
+### Verificando o cronômetro
+
+Para entrar em uma rodada da Previsão, você deve verificar quanto tempo resta da rodada atual. Você encontrará o cronômetro na área superior direita.
 
 ![](<../../.gitbook/assets/image (41).png>)
 
-If the timer is too low your prediction may not confirm in time, so check there's still plenty of time left before you make a prediction (30 seconds should be plenty, but give yourself more time if you're following along with this guide).
+Se o cronômetro estiver muito baixo, sua previsão pode não ser concluída a tempo, portanto, verifique se ainda há algum tempo antes de fazer uma previsão (30 segundos devem ser suficientes, mas dê a si mesmo mais tempo se estiver seguindo este guia).
 
-### Predicting the next round
+### Prevendo a próxima rodada
 
-When you're sure you have enough time, you can place your prediction for the next round.
+Quando tiver certeza de que tem tempo suficiente, você pode fazer sua previsão para a próxima rodada.
 
-1\. In the "Next" section you'll see a green **Enter UP** button and a red **Enter DOWN** button. Click **Enter UP** if you want to predict a rise in price, and click **Enter DOWN** if you want to predict a drop in price.
+1. Na seção "Next", você verá um botão verde **PARA CIMA (Enter UP)** e um botão vermelho **PARA BAIXO (Enter DOWN)**. Clique em Enter UP se quiser prever um aumento no preço e clique em Enter DOWN se quiser prever uma queda no preço.
 
-![](<../../.gitbook/assets/image (43).png>)
+![](<../../.gitbook/assets/image (43) (1).png>)
 
-Each will have a different reward multiplier. The multiplier will change over time as the "Prize Pool" increases depending on people's predictions. The Prize Pool is shown just above the buttons.
+Cada um terá um multiplicador de recompensa diferente. O multiplicador mudará com o tempo conforme a "Pool do Prêmio" aumenta dependendo das previsões das pessoas. A premiação é mostrada logo acima dos botões.
 
 ![](<../../.gitbook/assets/image (45).png>)
 
-We'll choose **Enter UP** for this example.
+Escolheremos **PARA CIMA (Enter UP)** para este exemplo.&#x20;
 
-2\. A new window will open. In the window, you'll see "Commit" to commit BNB for your prediction. Type the amount of BNB you would like to commit to your prediction for this round in the field. You can also use the bunny slider or click the percent buttons if you prefer.
+2\. Uma nova janela será aberta. Na janela, você verá "Commit" para colocar o BNB para sua previsão. Digite a quantidade de BNB que você gostaria de comprometer com sua previsão para esta rodada. Você também pode usar o controle deslizante de coelho ou clicar nos botões de porcentagem, se preferir.
+
+Se você estiver jogando no mercado de previsão CAKE USD, pela primeira vez no jogo, você terá que clicar em "Habilitar" para habilitar o contrato inteligente.
 
 ![](<../../.gitbook/assets/image (44).png>)
 
-3\. Once you've decided the amount to commit, click **Confirm** and confirm your action in your wallet.
+1. Depois de decidir o valor a comprometer, clique em Confirmar e confirme sua ação em sua carteira.
 
 ![](<../../.gitbook/assets/image (46).png>)
 
-The confirm button will fade out as your transaction confirms. This short wait is why we checked the round timer earlier to make sure we would have time to make our prediction.
+O botão de confirmação desaparecerá à medida que sua transação for confirmada. Essa curta espera é o motivo pelo qual verificamos o cronômetro da rodada mais cedo para garantir que teríamos tempo para fazer nossa previsão.&#x20;
 
-4\. After your transaction confirms, an "ENTERED" message will appear.
+4\. Após a confirmação de sua transação, uma mensagem "ENTERED" aparecerá.
 
 ![](<../../.gitbook/assets/image (47).png>)
 
-There's nothing left to do now but wait for your Prediction round to go live.
+Não há mais nada a fazer agora, a não ser esperar que sua rodada de previsões vá ao ar.
 
-## While your entered round is live
+## Enquanto a rodada que você entrou estiver ativa
 
-A live round will last for 5 minutes. You can watch the price update during the 5 minutes if you'd like.
+Uma rodada ao vivo dura 5 minutos. Você pode assistir à atualização de preços durante os 5 minutos, se desejar.
 
 ![](<../../.gitbook/assets/image (48).png>)
 
-You cannot change your prediction during a live round, however. You are locked into your prediction from earlier.
+No entanto, você não pode alterar sua previsão durante uma rodada. Você está preso à sua previsão anterior.
 
-## Once your entered round finishes
+1. Quando os 5 minutos terminarem, a seção "AO VIVO" mudará para "Calculando". Calcular os resultados leva apenas um momento.
 
-After 5 minutes as the live round, your entered round will finish. Everything is automatic, so there's nothing you need to do to end the round.
+## Uma vez que sua rodada terminar&#x20;
 
-### Seeing the results
+Após 5 minutos como rodada ativa, a rodada que você participou terminará. Tudo é automático, então não há nada que você precise fazer para terminar a rodada.&#x20;
 
-1\. As the 5 minutes finish, the "LIVE" section will change to "Calculating". Calculating the results only takes a moment.
+### Vendo os resultados
+
+1. Quando os 5 minutos terminarem, a seção "LIVE" mudará para "Calculando". Calcular os resultados leva apenas um momento.
 
 ![](<../../.gitbook/assets/image (49).png>)
 
-2\. After a short wait, the finished round will move left and say "Expired". The result of the round will display with either UP colored in green, or DOWN colored in red.
+2\. Após uma breve espera, a rodada finalizada se moverá para a esquerda e dirá "Expirou". O resultado da rodada será exibido com UP colorido em verde ou DOWN colorido em vermelho.
 
 ![](<../../.gitbook/assets/image (51).png>)
 
-3\. If you've been busy and missed the results, you can scroll back a few rounds by clicking the **left arrow** on the purple bunny cards.
+3\. Se você esteve ocupado e perdeu os resultados, pode voltar algumas rodadas clicando na seta para a esquerda nos cartões roxos de coelho.
 
-![](<../../.gitbook/assets/image (53).png>)
+![](<../../.gitbook/assets/image (53) (1).png>)
 
-### Seeing results for older rounds
+### Vendo os resultados de rodadas antigas
 
-If you want to see the results for rounds you've entered that are older than a few rounds, you'll need to follow the steps below to find the results.
+Se quiser ver os resultados das rodadas antigas que você entrou, você precisará seguir as etapas abaixo para encontrar os resultados.
 
-1\. Click on the **reversing clock icon** next to the round timer.
+1\. Clique no **ícone de relógio reverso** próximo do cronômetro da rodada.
 
 ![](<../../.gitbook/assets/image (54).png>)
 
-2\. A "History" panel will open. By default, you should see your most recent round at the top of the list. Click anywhere on the round to see more information.
+2\. Um painel "Histórico" será aberto. Por padrão, você deve ver sua rodada mais recente no topo da lista. Clique em qualquer lugar na rodada para ver mais informações.
 
 ![](<../../.gitbook/assets/image (56).png>)
 
 ![](<../../.gitbook/assets/image (57).png>)
 
-### Collecting any winnings
+### Coletando quaisquer ganhos
 
-1\. If you won your entered round, a **Collect Winnings** button will appear next to a gold trophy. Click the button.
+1\. Se você ganhou a rodada que entrou, um botão **Coletar Ganhos** (Collect Winnings) aparecerá ao lado de um troféu de ouro. Clique no botão.
 
 ![](<../../.gitbook/assets/image (50).png>)
 
-2\. A new window will appear showing the amount of BNB you can collect with a **Confirm** button. Click the button and confirm the action in your wallet.
+2\. Uma nova janela aparecerá mostrando a quantidade de BNB que você pode coletar com um botão **Confirmar**. Clique no botão e confirme a ação em sua carteira.
 
 ![](<../../.gitbook/assets/image (52).png>)
 
-Your BNB winnings will now be in your wallet.
+Seus ganhos em BNB agora estarão em sua carteira.
 
-### Collecting winnings from older rounds
+### Coletando ganhos de rodadas antigas
 
-Sometimes you may be away from PancakeSwap's Prediction page for a while, or may have forgotten to collect winnings from older rounds. You can still collect winnings owed to you from older rounds at any time.
+Às vezes, você pode ficar longe da página da Previsão da PancakeSwap por um tempo ou pode ter se esquecido de coletar os ganhos de rodadas anteriores. Você ainda pode coletar seus ganhos em rodadas antigas a qualquer momento.
 
-1\. Find more information on past rounds you've entered by clicking on the **reversing clock icon** next to the round timer.
+1\. Encontre mais informações sobre as rodadas anteriores que você inseriu clicando no **ícone do relógio reverso** ao lado do cronômetro da rodada.
 
 ![](<../../.gitbook/assets/image (54).png>)
 
-2\. A "History" panel will open. You can click "Uncollected" to view all rounds you've not collected the winnings for yet (click a the transaction if you want to see more details). Click the **Collect** button.
+2\. Um painel "Histórico" será aberto. Você pode clicar em "Não coletado (Uncollected)" para ver todas as rodadas para as quais ainda não coletou os ganhos (clique na transação se quiser ver mais detalhes). Clique no botão **Coletar**.
 
 ![](<../../.gitbook/assets/image (61).png>)
 
-3\. A new window will appear showing the amount of BNB you can collect with a **Confirm** button. Click the button and confirm the action in your wallet.
+3\. Uma nova janela aparecerá mostrando a quantidade de BNB que você pode coletar com um botão **Confirmar**. Clique no botão e confirme a ação em sua carteira.
 
 ![](<../../.gitbook/assets/image (52).png>)
 
-Your BNB winnings will now be in your wallet.
+Seus ganhos em BNB agora estarão em sua carteira.
 
-## Viewing historic profit and loss data
+## Vendo dados históricos de lucro e perdas
 
-If you'd like to see how you've done overall in Prediction, you can view PNL (Profit and Loss) data whenever you'd like.
+Se você gostaria de ver como você se saiu na Previsão, você pode ver os dados PNL (Lucros e Perdas) sempre que quiser.
 
-1\. On the Prediction page, click the **reversing clock icon** next to the round timer. A "History" panel will open.
+1\. Na página Previsão, clique no **ícone do relógio reverso** ao lado do cronômetro da rodada. Um painel "Histórico" será aberto.
 
 ![](<../../.gitbook/assets/image (54).png>)
 
-2\. On the history panel, click the **PNL** tab.
+2\. No painel de histórico, clique na aba PNL.
 
 ![](<../../.gitbook/assets/image (62).png>)
 
-The tab will open with stats for your historic performance in Prediction, including your net results, average return, best round, and other information.
+A aba será aberta com estatísticas de seu desempenho histórico na Previsão, incluindo seus resultados líquidos, retorno médio, melhor rodada e outras informações.
 
 ![](<../../.gitbook/assets/image (64).png>)
 
-3\. You can click the **View Reclaimed & Won** button at the bottom of the PNL tab to view those transactions on the BscScan explorer.
+3\. Você pode clicar no botão **View Reclaimed & Won** na parte inferior da aba PNL para visualizar essas transações no BscScan explorer.
 
 ![](<../../.gitbook/assets/image (63).png>)
 
-That's all there is to using Prediction. Good luck making the right calls!
-
-
-
-&#x20;
+Isso é tudo que existe para ser usado na Previsão. Boa sorte fazendo as operações certas!
