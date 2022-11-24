@@ -27,7 +27,7 @@ Es la garantía (en valores) que pones para tus posiciones apalancadas. Tiene do
 
 **Margin Balance (Balance)** = Balance en wallet + PNL no realizado. Su posición será liquidada cuando el Balance de margen sea <= que el de mantenimiento.
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (7).png" alt=""><figcaption></figcaption></figure>
 
 ### Activos
 

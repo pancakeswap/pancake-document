@@ -1,6 +1,6 @@
 # Crea una Wallet
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (3).png" alt=""><figcaption></figcaption></figure>
 
 Para comenzar tu historia de PancakeSwap en Aptos, lo primero que necesitarás es una wallet que soporte la red de Aptos. Hay wallets disponibles tanto para PC como para teléfonos móviles. Deberás elegir la wallet que mejor se adapte a tus necesidades.
 
@@ -129,7 +129,7 @@ Blocto ofrece una solución amigable para el usuario y un paquete todo en uno pa
 
 2 - Clic en el botón "más" (+), luego elija "APT - Aptos"
 
-![](<../.gitbook/assets/image (4) (2).png>)![](<../.gitbook/assets/image (4) (8).png>)
+![](<../.gitbook/assets/image (4) (2) (3).png>)![](<../.gitbook/assets/image (4) (8).png>)
 
 
 
@@ -159,7 +159,7 @@ Puedes encontrar más info sobre cada wallet a continuación, como así también
 
 {% tabs %}
 {% tab title="Petra" %}
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 Petra wallet es una extensión que te permite explorar Aptos desde tu browser.
 
@@ -258,13 +258,13 @@ Fewcha es una wallet cripto confiable, optimizada para el ecosistema de Aptos y 
 
 4\. Clic en Finish para completar el proceso de configuración. Y listo! Una vez creada la wallet, puedes acceder a ella en cualquier momento haciendo clic en el ícono de Fewcha Wallet en la barra de extensiones.&#x20;
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 Para empezar a usar PancakeSwap en Aptos, también necesitarás algo de $APT para los fees. Puedes aprender como conseguirlos [aquí](como-conseguir-aptos-coins.md).
 {% endtab %}
 
 {% tab title="Blocto" %}
-****![](<../.gitbook/assets/image (7).png>)****
+****![](<../.gitbook/assets/image (7) (4).png>)****
 
 
 
@@ -289,19 +289,19 @@ Blocto ofrece una solución amigable para el usuario y un paquete todo en uno pa
 
 1 - Luego de seleccionar "Blocto" en la ventana de conección de wallet, aparecerá una ventana para registrarse. Ingresa tu Email y haz clic en "Register". Si ya tienes registrada tu cuenta de Blocto, haz clic en "sign in" luego de ingresar tu Email.
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6) (2).png>)
 
 
 
 2 - Luego ingresa la clave de un solo uso recibida en tu Email.
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 
 
 3 - Clic en "Create Aptos wallet". Luego clic en "Confirm" para conectar.
 
-![](<../.gitbook/assets/image (1) (4).png>)![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (1) (4).png>)![](<../.gitbook/assets/image (10) (3).png>)
 
 
 

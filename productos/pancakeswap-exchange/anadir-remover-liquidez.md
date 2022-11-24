@@ -24,7 +24,7 @@ En este ejemplo, agregaremos liquidez usando BNB y CAKE.
 
 3\. Para la entrada superior, seleccione BNB (para nuestro ejemplo).
 
-<figure><img src="../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 4\. Para la entrada inferior, haga clic en 'Select a currency' y elija CAKE.
 
@@ -32,7 +32,7 @@ En este ejemplo, agregaremos liquidez usando BNB y CAKE.
 
 5\. Ingrese una cantidad en uno de los tokens en "Input". El otro calculará automáticamente.
 
-<figure><img src="../../.gitbook/assets/image (178).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (178) (1).png" alt=""><figcaption></figcaption></figure>
 
 (Si su saldo es demasiado bajo en un par, ingrese una cantidad menor.)
 

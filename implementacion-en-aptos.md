@@ -4,7 +4,7 @@ description: ¡PancakeSwap está planeando desplegarse en Aptos!
 
 # Implementación en Aptos
 
-<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (11) (4).png" alt=""><figcaption></figcaption></figure>
 
 ¡Estamos desplegando sobre Aptos y nos gustaría comenzar a hablar con los equipos de proyectos en Aptos, potencialmente para presentarles una de las DApp más grandes, comprometidas y activas del mundo cripto (con más de 3 millones de usuarios activos mensuales)!&#x20;
 
@@ -96,4 +96,4 @@ Para obtener más información sobre nuestras plataformas de lanzamiento ("Ofert
 
 En cada paso del proceso, el equipo está aquí para ayudar: entendemos que, para los fundadores y sus equipos, el lanzamiento de una IFO o TGE es extremadamente crítico, y no dejamos nada al azar.
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
