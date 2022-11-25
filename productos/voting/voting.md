@@ -8,7 +8,7 @@ Visite el sitio de votaciones de PancakeSwap aquí: [https://voting.pancakeswap.
 
 **Core** - propuestas publicadas por el equipo de PancakeSwap. El resultado de la votación será llevado a cabo.
 
-**Community** - propuestas publicadas por cualquier miembro de la comunidad de PancakeSwap. Son para proponer ideas y mostrar a la comunidad alguna opinión o punto de vista. El equipo de PCS revisa cada votaciín de la comunidad y eventualmente, lo eleva a una votación CORE.
+**Community** - propuestas publicadas por cualquier miembro de la comunidad de PancakeSwap. Son para proponer ideas y mostrar a la comunidad alguna opinión o punto de vista. El equipo de PCS revisa cada votación de la comunidad y eventualmente, lo eleva a una votación CORE.
 
 
 
