@@ -30,6 +30,8 @@
 * [🔄 Exchange](produtos/pancakeswap-exchange/README.md)
   * [Swap de Tokens](produtos/pancakeswap-exchange/trade.md)
   * [Como Fazer Trade](produtos/pancakeswap-exchange/trade-guide.md)
+  * [Smart Router](produtos/pancakeswap-exchange/smart-router/README.md)
+    * [How to trade using Smart Router](produtos/pancakeswap-exchange/smart-router/how-to-trade-using-smart-router.md)
   * [Pools de Liquidez](produtos/pancakeswap-exchange/pancakeswap-pools.md)
   * [Como Adicionar/Remover Liquidez](produtos/pancakeswap-exchange/liquidity-guide.md)
   * [📝Ordens Limite](produtos/pancakeswap-exchange/limit-orders/README.md)
