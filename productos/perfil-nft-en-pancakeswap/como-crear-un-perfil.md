@@ -24,7 +24,7 @@ Para este ejemplo usaremos Dollop.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 4\. Se cargará una nueva página diciendo "Choose collectible". Elegiremos nuestro Dollop que elegimos anteriormente. Si ya posee varios NFT, puede elegir uno de una lista de NFT que posea.
 
@@ -34,7 +34,7 @@ Para este ejemplo usaremos Dollop.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 6\. En la página siguiente se le pedirá que se una a un equipo. ¡Unirse a un equipo le permite competir en eventos especiales para ganar recompensas especiales y limitadas! Elija uno en “Join a Team”. Para este ejemplo elegiremos Fearsome Flippers.
 
@@ -58,7 +58,7 @@ Para este ejemplo usaremos Dollop.&#x20;
 
 11\. Recibirás un mensaje que dice que tu contrato de perfil te costará 0.5 CAKE. Haz clic en **Approve** y, a continuación, **confirma** la acción en tu monedero. Una vez aprobado, haga clic en el botón Confirmar. El botón Confirmar se iluminará después de la aprobación.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (6).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
 

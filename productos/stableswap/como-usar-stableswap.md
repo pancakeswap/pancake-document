@@ -10,7 +10,7 @@ Operar en StableSwap es muy similar a usar el PancakeSwap AMM existente. Antes d
 
 2 - Haga clic en la pestaña "StableSwap"
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 3 - Elija los pares de tokens que le gustaría intercambiar. En el lanzamiento, solo se agregará un par (HAY-BUSD). Gradualmente se agregarán más pares de estables.
 
