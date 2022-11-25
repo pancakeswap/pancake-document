@@ -13,7 +13,8 @@ You will also need the tokens you want to trade or stake on Aptos Chain. There a
 [**Binance.com**](https://github.com/pancakeswap/pancake-document/tree/255db0c7af28df2f9c1209daa5cdbd774490a666/get-started/www.binance.com)
 
 * You can withdraw Aptos Coin (APT) on Aptos Chain via your Binance account.&#x20;
-* **Note: you need an account to do so.**
+* **⚠️ Currently only Aptos Coin (APT) is supported. To bridge other assets, check out other available bridging options above.**
+* **⚠️ You need an account to do so.**
 
 📖 [Here's a quick guide they made to help you out.](https://www.binance.com/en/support/faq/85a1c394ac1d489fb0bfac0ef2fceafd)
 {% endtab %}

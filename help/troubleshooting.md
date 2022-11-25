@@ -88,7 +88,7 @@ For example, here's the ETH/WBNB pair: [https://bscscan.com/address/0x70d8929d04
 2. In **5. balanceOf**, input your wallet address and hit **Query**.
 3. Keep track of the number that's exported. It shows your balance within the LP in the uint256 format, which you'll need in the next step.
 
-![](<../.gitbook/assets/image (7) (1).png>)
+![](<../.gitbook/assets/image (7) (1) (1).png>)
 
 #### Add or Remove Liquidity
 
@@ -262,7 +262,7 @@ Try manually increasing the **gas limit** (not gas price!) in your wallet before
 
 A limit of 200000 is usually enough.
 
-![](<../.gitbook/assets/image (2) (1) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1) (1).png>)
 
 The above example is from Metamask; check your wallet's documentation if you aren't sure how to adjust the gas limit.
 {% endtab %}

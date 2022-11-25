@@ -31,6 +31,8 @@
 * [🔄 Exchange](products/pancakeswap-exchange/README.md)
   * [Token Swaps](products/pancakeswap-exchange/trade.md)
   * [How to Trade](products/pancakeswap-exchange/trade-guide.md)
+  * [Smart Router](products/pancakeswap-exchange/smart-router/README.md)
+    * [How to trade using Smart Router](products/pancakeswap-exchange/smart-router/how-to-trade-using-smart-router.md)
   * [Liquidity Pools](products/pancakeswap-exchange/pancakeswap-pools.md)
   * [How to Add/Remove Liquidity](products/pancakeswap-exchange/liquidity-guide.md)
   * [📝Limit Orders](products/pancakeswap-exchange/limit-orders/README.md)
