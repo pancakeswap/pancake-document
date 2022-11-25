@@ -22,8 +22,8 @@ Deposita tus CAKE y olvídate de ellos! El CAKE que deposite en este Syrup Pool 
 * ✅ Cosechar las recompensas cuando quieras
 * ✅ Retirar cuando quieras (hay fees en las primeras 72hs, ver abajo)
 * ✅ Convertir todo lo depositado en staking flexible a staking a plazo fijo
-* ❌ Añadir CAKE a Staking a Plazo Fijo si tienes CAKE en staking flexible
-* ❌ Convertir parte del CAKE depositado en staking flexible a plazo fijo
+* ✅ Añadir CAKE a Staking a Plazo Fijo si tienes CAKE en staking flexible
+* ✅ Convertir parte del CAKE depositado en staking flexible a plazo fijo
 
 **Unstaking fee (o fee de retiro)**
 
@@ -51,13 +51,13 @@ Deposita tus CAKE por un tiempo fijo para maximizar los rendimientos y recibir b
 * Más bloqueas tus CAKE, más es el boost!
 * Las recompensas de CAKE se reinvierten automáticamente y se desbloquearán, junto con su CAKE depositado, cuando expire la duración de su bloqueo
 * Una vez depositado, no se pueden retirar los CAKE hasta la finalización del bloqueo
-* Los iCAKE (la cantidad máxima de CAKE que se puede comprometer durante un IFO) se determinarán a partir del pool de staking a plazo fijo. [Aprenda más sobre iCAKE aquí.](../../ifo-initial-farm-offering/icake.md)
+* Los iCAKE (la cantidad máxima de CAKE que se puede comprometer durante un IFO) se determinarán a partir del pool de staking a plazo fijo (como así también serán determinados los [vCAKE](https://docs.pancakeswap.finance/v/espanol/productos/voting/vcake) y [bCAKE](https://docs.pancakeswap.finance/v/espanol/productos/yield-farming/bcake)). [Aprenda más sobre iCAKE aquí.](../../ifo-initial-farm-offering/icake.md)
 
 **Si tienes CAKE en el Staking a Plazo Fijo**
 
 * ✅ Añadir más CAKE bloqueada
 * ✅ Extender el período de bloqueo
-* ❌ Agregar CAKE a staking flexible
+* ✅ Agregar CAKE a staking flexible
 * ❌ Cosechar recompensas
 * ❌ Retirar antes de que termine el período
 
