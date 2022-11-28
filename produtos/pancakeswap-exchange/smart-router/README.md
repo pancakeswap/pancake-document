@@ -1,13 +1,19 @@
 # Smart Router
 
-PancakeSwap Smart Router is a routing algorithm that links the AMM and stableswap to provide better liquidity and pricing. It uses a smart order routing algorithm that executes trades across multiple pools to find the best price for traders. For more information on StableSwap click here.
+<figure><img src="../../../.gitbook/assets/Smart Router.png" alt=""><figcaption></figcaption></figure>
 
-The Kitchen will gradually roll out StableSwap pairs to further test and improve the product.
+PancakeSwap Smart Router é um algoritmo de roteamento que liga o AMM e o stableswap para fornecer melhor liquidez e preços. Ele usa um algoritmo inteligente de roteamento de ordens que executa negociações em várias pools para encontrar o melhor preço para os traders. Para obter mais informações sobre o StableSwap, [clique aqui](https://docs.pancakeswap.finance/v/portuguese-brazilian/produtos/stableswap).&#x20;
 
-### Why should I use the Smart Router for my AMM swaps? <a href="#why-should-i-use-the-smart-router-for-my-amm-swaps" id="why-should-i-use-the-smart-router-for-my-amm-swaps"></a>
+A cozinha lançará gradualmente os pares de StableSwap para testar e melhorar o produto.&#x20;
 
-* Swap your stablecoins or other pairs with similar asset prices more efficiently with the same trade steps.
-* With the StableSwap function, the trading slippage is lower than normal AMM.
-* The StableSwap trading fees are lower compared to the normal AMM.
-* Split routes for more efficient trades. Eg. Router sends 50% of pair to a different route to save fees depending on the trade size and liquidity.
-* Include MM-linked pools for route calculation.
+## Por que devo usar o Smart Router para meus swaps de AMM?&#x20;
+
+* Faça swap de suas stablecoins ou outros pares com preços de ativos semelhantes de forma mais eficiente com as mesmas etapas de negociação.&#x20;
+* Com a função StableSwap, a derrapagem de negociação é menor do que o AMM normal.&#x20;
+* As taxas de negociação do StableSwap são mais baixas em comparação com o AMM normal.&#x20;
+
+## Ainda cozinhando
+
+* Melhorar interface do usuário na saída.&#x20;
+* Rotas divididas para negociações mais eficientes. Por exemplo. O roteador envia 50% do par para uma rota diferente para economizar taxas, dependendo do tamanho da negociação e da liquidez.&#x20;
+* Incluir pools vinculadas a MM para cálculo de rota.
