@@ -42,7 +42,7 @@ Listo, acabas de emitir tu voto con éxito.&#x20;
 {% tab title="Comprobar el poder de voto" %}
 Antes de emitir su voto, verá una ventana de "Confirm Vote".
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 En esta ventana, puede volver a comprobar los siguientes elementos:
 
@@ -51,7 +51,7 @@ En esta ventana, puede volver a comprobar los siguientes elementos:
 
 Si no estás seguro sobre cómo se calcula el poder de voto, haz clic sobre ‘>’ para mostrar el desglose detallado.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 Tenga en cuenta que solo los CAKE en los siguientes lugares contribuirán al poder de voto total:&#x20;
 
@@ -66,12 +66,12 @@ Los CAKE en otros lugares no contribuyen al poder de voto.
 {% tab title="Comprobar el bloque del snapshot" %}
 #### Comprobar el bloque del snapshot
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 El poder de voto se calcula en función de un snapshot (instantánea) tomada en el bloque del snapshot. Por lo tanto, comprar o depositar más CAKE después de que se publique la propuesta no aumenta el poder de voto para esa propuesta en particular.&#x20;
 
 Si desea saber la hora exacta del bloque del snapshot. Simplemente haga clic en el número de bloque y busque el “Timestamp” en la página de BscScan.
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
