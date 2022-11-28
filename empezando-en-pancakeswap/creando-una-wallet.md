@@ -172,7 +172,7 @@ Ahora tiene su clave privada lista para importar su billetera a la versión de e
 {% endtab %}
 
 {% tab title="SafePal" %}
-![](<../.gitbook/assets/image (26).png>)
+![](<../.gitbook/assets/image (26) (1).png>)
 
 SafePal está disponible como billetera de software y hardware. La billetera es fácil de instalar y crear, y viene lista para admitir BEP2 (Binance Chain) y BEP20 (Binance Smart Chain) de inmediato.
 

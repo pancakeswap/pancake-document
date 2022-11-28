@@ -52,13 +52,13 @@ A determinar, develaremos más info sobre esto pronto.
 
 ### Puedo votar si mis CAKE están en el Staking a Plazo Fijo?
 
-A determinar, develaremos más info sobre esto pronto
+Claro! Y con el voto potenciado por los [vCAKE](https://docs.pancakeswap.finance/v/espanol/productos/voting/vcake).
 
 ### Puedo usar ambos Pools, Flexible y a Plazo Fijo, a la vez?
 
-No. Como se mencionó anteriormente en la sección "¿Cuál es la diferencia?", ambas opciones son parte del mismo pool único. Actualmente, nunca puede tener CAKE tanto en staking flexible como a plazo fijo.&#x20;
+Sí. Ya puedes elegir cuánto bloquear, y cuánto dejar en flexible.
 
-Tenemos múltiples soluciones en el futuro para permitir que los usuarios utilicen staking flexible y staking a plazo fijo al mismo tiempo, pero por ahora, solo puede elegir una de ellas.
+También puedes pasar algo o todo del flexible al bloqueado, para aumentarlo.
 
 ### Hay algún fee por convertir CAKES depositadas en Staking Flexible a Bloqueado?
 

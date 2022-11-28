@@ -20,7 +20,7 @@ Para conectar Trust Wallet, siga los pasos a continuación. Tenga en cuenta que 
 
 1\. Abra Trust Wallet y toque el botón DApps en la parte inferior de la pantalla.
 
-![](<../.gitbook/assets/image (98).png>)
+![](<../.gitbook/assets/image (98) (2).png>)
 
 2\. Desplácese hacia abajo hasta "Popular" y toque "PancakeSwap". También puede encontrarlo en "Exchanges".
 
