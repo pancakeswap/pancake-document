@@ -37,44 +37,19 @@
 
 以下表格列出时下热门的钱包应用以及他们的概况：
 
-| 钱包名称                                  | Trust Wallet             | MetaMask | Token Pocket    | Coinbase Wallet | SafePal |
-| ------------------------------------- | ------------------------ | -------- | --------------- | --------------- | ------- |
-| 币安智能链支持                               | ✅                        | ⚠️       | ✅               | ✅               | ✅       |
-| 内置 DApp 浏览器                           | <p>✅ 安卓</p><p>⚠️ iOS</p> | ➖        | <p>✅</p><p></p> | ✅               | ✅       |
-| 兼容硬件钱包                                | ➖                        | ✅        | ➖               | ✅               | 🔶      |
-| 开源（可审计性）                              | ✅                        | ✅        | ✅               | ✅               | ➖       |
-| <p>可在 BscScan 上使用</p><p>(适用于高级用户)</p> | ➖                        | ✅        | ➖               | ➖               | ➖       |
+| 钱包名称                                  | Trust Wallet | MetaMask | Token Pocket    | Coinbase Wallet | SafePal       |
+| ------------------------------------- | ------------ | -------- | --------------- | --------------- | ------------- |
+| 币安智能链支持                               | ✅            | ⚠️       | ✅               | ✅               | ✅             |
+| 内置 DApp 浏览器                           | ✅            | ➖        | <p>✅</p><p></p> | ✅               | ✅             |
+| 兼容硬件钱包                                | ➖            | ✅        | ➖               | ✅               | ✅ (仅限SafePal） |
+| 开源（可审计性）                              | ✅            | ✅        | ✅               | ✅               | ➖             |
+| <p>可在 BscScan 上使用</p><p>(适用于高级用户)</p> | ➖            | ✅        | ➖               | ➖               | ➖             |
 
 ⚠️ 需要额外设置
 
 您可以在下方找到关于每个钱包的详细信息、下载链接和安装指南：
 
 {% tabs %}
-{% tab title="Trust Wallet" %}
-![](<../.gitbook/assets/image (36).png>)
-
-Trust Wallet 在移动设备上颇受欢迎的钱包应用。它支持 DApps，NFT 收藏品（支持 Opensea.io），以及钱包内直接质押，
-
-**优点：**
-
-* 开源代码可审计
-* 得到币安加密货币交易所的支持
-* 在几个加密货币网络之间轻松切换
-* 默认包含币安智能链网络 &#x20;
-* 含有钱包内质押选项
-* 拥有额外的功能，如：NFT 收藏品浏览、BNB 质押和钱包内的 DApp 访问。
-
-**缺点：**
-
-* 语言与手机设置语言绑定，无法更改
-* 有限的 DApps 支持
-* 交易通知可能会延迟
-
-[**下载 Trust Wallet**](https://trustwallet.com/) **（自动检测您的设备）**
-
-****[**Trust Wallet 设置指南**](https://www.binance.com/cn/blog/421499824684901157/How-to-Set-Up-and-Use-Trust-Wallet-for-Binance-Smart-Chain)****
-{% endtab %}
-
 {% tab title="MetaMask" %}
 ![](<../.gitbook/assets/image (33) (3) (4) (5).png>)
 
@@ -110,12 +85,12 @@ MetaMask 是一个基于浏览器的热门钱包插件，支持 ERC20（以太�
 
 ![](../.gitbook/assets/coinbase\_wallet\_wordmark\_blue.png)
 
-数百万用户选择 Coinbase 钱包通过 DeFi 赚取收益，交换超过 5,500 种资产，并持有他们的 NFT 收藏。 Coinbase 钱包支持 BEP2 和 BEP20（币安链和 BNB 智能链网络）。&#x20;
+数百万用户选择 Coinbase 钱包通过 DeFi 赚取收益，交换超过 5,500 种资产，并持有他们的 NFT 收藏。Coinbase 钱包支持 BEP2 和 BEP20（币安链和 BNB 智能链网络）。&#x20;
 
 **强调：**&#x20;
 
 * 美国下载量最大的移动 dapp 钱包，拥有 1200 万以上的活跃钱包用户。
-* 使用 BNB Smart Chain 和 PancakeSwap 无需额外步骤。
+* 使用 BNB Smart Chain 和 PancakeSwap 无需额外设置步骤。
 * &#x20;主要受众：多达 8900 万+ Coinbase 零售应用程序用户在开始探索 web3 时加入 Coinbase 钱包。
 * 轻松从 Coinbase 零售应用转移资产。
 * 法币入口：用户现在可以在 Coinbase 运营的所有 86 个国家/地区使用法币直接购买加密货币，而无需离开 Wallet。
@@ -129,7 +104,56 @@ MetaMask 是一个基于浏览器的热门钱包插件，支持 ERC20（以太�
 
 
 
-Coinbase 钱包是一个自托管钱包（_self-custody wallet）_软件，提供的服务受 Coinbase 钱包[服务条款](https://wallet.coinbase.com/terms-of-service)和[隐私政策](https://wallet.coinbase.com/privacy-policy)约束。 Coinbase Wallet 与 Coinbase.com 不同（详见此[网页](https://help.coinbase.com/en/wallet/getting-started/what-s-the-difference-between-coinbase-com-and-wallet)），Coinbase Wallet 的私钥由用户直接存储，不透投过Coinbase服务提供商。此软件可能收费。您不需要 Coinbase.com 帐户即可使用 Coinbase 钱包。
+Coinbase 钱包是一个自托管钱包（_self-custody wallet）_软件，提供的服务受 Coinbase 钱包[服务条款](https://wallet.coinbase.com/terms-of-service)和[隐私政策](https://wallet.coinbase.com/privacy-policy)约束。 Coinbase Wallet 与 Coinbase.com 不同（详见此[网页](https://help.coinbase.com/en/wallet/getting-started/what-s-the-difference-between-coinbase-com-and-wallet)），Coinbase Wallet 的私钥由用户直接存储，不透投过Coinbase服务提供商。此软件可能收费。您不需要拥有 Coinbase.com 帐户即可使用 Coinbase 钱包。
+{% endtab %}
+
+{% tab title="SafePal" %}
+<figure><img src="../.gitbook/assets/safepal.webp" alt=""><figcaption></figcaption></figure>
+
+SafePal 有软件和硬件钱包两种形式。该钱包 App 安装便捷，设置步骤简单，并原生支持币安链 (BEP2) 和币安智能链 (BEP20)。
+
+**优点：**
+
+* 在几个加密货币网络之间轻松切换
+* 内置谷歌认证器
+* 丰富的语言支持
+* 设置步骤简单快捷
+* 可同时使用软件和硬件钱包（协同使用）
+* 支持币安智能链和以太坊上的 NFT 收藏品展示及管理
+
+**缺点：**
+
+* 代码非完全开源&#x20;
+* 不支持通知消息提醒
+* 初始设置及钱包创建时，并不强制用户使用强安全性的设置
+
+​[**下载 SafePal**](https://safepal.io/download) **（自动检测您的设备）**\
+****[**SafePal 设置教程（中文）**](https://docs.safepal.io/safepal-app/how-to-create-a-safepal-software-wallet/ru-he-chuang-jian-safepal-ruan-jian-qian-bao)****
+{% endtab %}
+
+{% tab title="Trust Wallet" %}
+![](<../.gitbook/assets/image (36).png>)
+
+Trust Wallet 在移动设备上颇受欢迎的钱包应用。它支持 DApps，NFT 收藏品（支持 Opensea.io），以及钱包内直接质押，
+
+**优点：**
+
+* 开源代码可审计
+* 得到币安加密货币交易所的支持
+* 在几个加密货币网络之间轻松切换
+* 默认包含币安智能链网络 &#x20;
+* 含有钱包内质押选项
+* 拥有额外的功能，如：NFT 收藏品浏览、BNB 质押和钱包内的 DApp 访问。
+
+**缺点：**
+
+* 语言与手机设置语言绑定，无法更改
+* 有限的 DApps 支持
+* 交易通知可能会延迟
+
+[**下载 Trust Wallet**](https://trustwallet.com/) **（自动检测您的设备）**
+
+****[**Trust Wallet 设置指南**](https://www.binance.com/cn/blog/421499824684901157/How-to-Set-Up-and-Use-Trust-Wallet-for-Binance-Smart-Chain)****
 {% endtab %}
 
 {% tab title="Token Pocket" %}
@@ -199,30 +223,6 @@ Token Pocket 允许您使用电脑端或其他设备同时管理一个钱包，�
 
 
 {% endhint %}
-{% endtab %}
-
-{% tab title="SafePal" %}
-<figure><img src="../.gitbook/assets/safepal.webp" alt=""><figcaption></figcaption></figure>
-
-SafePal 有软件和硬件钱包两种形式。该钱包 App 安装便捷，设置步骤简单，并原生支持币安链 (BEP2) 和币安智能链 (BEP20)。
-
-**优点：**
-
-* 在几个加密货币网络之间轻松切换
-* 内置谷歌认证器
-* 丰富的语言支持
-* 设置步骤简单快捷
-* 同时提用软件和硬件钱包（协同使用）
-* 支持币安智能链和以太坊上的 NFT 收藏品展示及管理
-
-**缺点：**
-
-* 代码非完全开源&#x20;
-* 不支持通知消息提醒
-* 初始设置及钱包创建时，并不强制用户使用强安全性的设置
-
-​[**下载 SafePal**](https://safepal.io/download) **（自动检测您的设备）**\
-****[**SafePal 设置教程（中文）**](https://docs.safepal.io/safepal-app/how-to-create-a-safepal-software-wallet/ru-he-chuang-jian-safepal-ruan-jian-qian-bao)****
 {% endtab %}
 {% endtabs %}
 
