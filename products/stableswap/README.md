@@ -14,8 +14,6 @@ When you conduct a Swap (trade) on the StableSwap you will pay lower trading fee
 
 Fees for pairs are broken down in the table below:
 
-
-
 | Stablepair | Trading Fees | LP Rewards | CAKE Buyback | PancakeSwap Treasury |
 | ---------- | ------------ | ---------- | ------------ | -------------------- |
 | USDT-BUSD  | 0.15%        | 0.075%     | 0.06%        | 0.015%               |
@@ -25,7 +23,7 @@ Fees for pairs are broken down in the table below:
 
 The Kitchen will gradually roll out StableSwap pairs and revise the fees to test and improve the product further.
 
-## Why should I use the StableSwap instead of the normal AMM Swap?&#x20;
+## Why should I use the StableSwap instead of the normal AMM Swap?
 
 * Swap your stablecoins or other pairs with similar asset prices more efficiently with the same trade steps&#x20;
 * With the StableSwap function, the trading slippage is lower than normal AMM&#x20;
@@ -41,3 +39,19 @@ The Kitchen will gradually roll out StableSwap pairs and revise the fees to test
 
 * USDC-BUSD, USDT-BUSD, USDC-USDT liquidity provision enabled: **Nov 30 2022 11:00 UTC**
 * Farm migration (CAKE rewards redirect from USDC-BUSD, USDT-BUSD, USDC-USDT LP Farm to USDC-BUSD, USDT-BUSD, USDC-USDT Stable LP Farm): **Dec 1 2022 11:00 UTC**
+
+## FAQ on Stablepool Launch 30 Nov
+
+What happened to the new Stablepools?
+
+* We have encountered a minor issue with the fee parameter&#x20;
+* This has resulted in an inability to remove liquidity at 50%/50%
+
+Key Updates:
+
+* Your funds are safe
+* We have reverted the FE and rolled it back to the previous version before the new pools
+* Fees will be rebated to every active LP provider in the pool
+* In the meantime, the chefs are working on a fix. Once it's deployed, you will be able to manage your stable LP
+
+We will continue to provide updates here as soon as we can
