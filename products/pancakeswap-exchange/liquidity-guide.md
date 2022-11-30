@@ -85,4 +85,4 @@ To remove liquidity.
 
 ![](<../../.gitbook/assets/Add\_Remove\_LP\_15 (1).png>)
 
-8\. After the transaction is confirmed. You will receive two of the tokens from your pair. And if you haven't remove all of your liquidity, your remaining liquidity value will be updated on "My Liquidity" page.\
+8\. After the transaction is confirmed. You will receive two of the tokens from your pair. And if you haven't removed all of your liquidity, your remaining liquidity value will be updated on "My Liquidity" page.\
