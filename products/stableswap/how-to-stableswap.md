@@ -6,7 +6,7 @@
 
 Trading on the StableSwap is very similar to using the existing PancakeSwap AMM. Before we start, it also requires a BNB Smart Chain-compatible wallet and BNB for gas fees. Please check our [wallet guide](https://docs.pancakeswap.finance/get-started/wallet-guide) for more details.
 
-1 - Go to the Swap page here
+1 - Go to the Swap page [here](https://pancakeswap.finance/swap)
 
 2 - Choose the token pairs you would like to trade.&#x20;
 
@@ -40,10 +40,10 @@ There are a few differences for StableSwap liquidity:
 
 Before the launch of StableSwap pools, the following liquidity pairs and LP Farms are already available on PancakeSwap in normal V2 AMM swap:
 
-* HAY-BUSD&#x20;
-* USDT-BUSD&#x20;
-* USDC-BUSD&#x20;
-* USDC-USDT
+* **HAY-BUSD**&#x20;
+* **USDT-BUSD**&#x20;
+* **USDC-BUSD**&#x20;
+* **USDC-USDT**
 
 The launch of trading pairs on StableSwap, will likely result in:
 
@@ -65,13 +65,13 @@ There will be a **24-hour window** starting from StableSwap pool launch, and bef
 
 <figure><img src="https://lh6.googleusercontent.com/7d4gCf4tKDt45xtcC3-0HJWdi3SO-1-vTf0dZzzTg75taCWNhHpye1OQOEeMd8LM2UuKAWgmY6wRuG1Iw7vaH80nkK9j91L0_xI3u1AD1LAosAW2mEsxilvl49EowEBy9mjWH3BGgFzLsMqWxUYzuRtOPbkBhI9epVYXlLaoRCNRPEoCSTfTTzQqfw" alt=""><figcaption></figcaption></figure>
 
-2 - Remove liquidity of your LP at the [liquidity page](https://pancakeswap.finance/liquidity)
+2 - Remove liquidity of your LP at the [Liquidity Page.](https://pancakeswap.finance/liquidity)
 
-3 - Add liquidity again (this time you should see that you’re adding to Stable LP during the process)
+3 - Add liquidity again (this time you should see that you’re adding to Stable LP during the process).
 
 ![](https://lh5.googleusercontent.com/cB4cqAFzpEhnBDCrecAc\_oks\_2xu7gBc\_6BuRupnDNvrOe9MrW\_WF11NGRzu490KZ\_R26ZPRwwmAyRGr2Q14nLORFxzBVV4w98dC1jJvv7I-yfMdsxpNHF9uHxAGwOtFAz6GsyYlJUG2CdxK5\_7BfnhWDnO9U7IfR0b3i0Hfke33sOqQ5axWdHxscQ)
 
-4 - Stake your Stable LP in the [farms page](https://pancakeswap.finance/farms) – look for the card with the Stable LP label
+4 - Stake your Stable LP in the [Farms Page](https://pancakeswap.finance/farms) – look for the card with the Stable LP label.
 
 ![](https://lh6.googleusercontent.com/wWGXLFRQFMesilP4pMEUieR-qezbiCdTVhT7geBJuDwIIcC4hqwzgOjEIvRkViBVj-j4hmc9K5fB6vhuHJk8ZyrQfYBRqK1e2yGkiJZhlH5J4PDJu-xT6us-x9dVbodhAW5mm8qZ5yb8HkRrZy1bRz4SKc26jm1lMpTiV3S6tT1WyDtHL8Yj13rp8w)
 
