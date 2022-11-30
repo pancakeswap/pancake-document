@@ -44,8 +44,8 @@ The Kitchen will gradually roll out StableSwap pairs and revise the fees to test
 
 What happened to the new Stablepools?
 
-* We have encountered a minor issue with the fee parameter&#x20;
-* This has resulted in an inability to remove liquidity at 50%/50%
+* We have encountered a minor issue with the fee parameter
+* This has resulted in an inability to remove liquidity at 50%/50% due to higher admin fees
 
 Key Updates:
 
@@ -54,4 +54,4 @@ Key Updates:
 * Fees will be rebated to every active LP provider in the pool
 * In the meantime, the chefs are working on a fix. Once it's deployed, you will be able to manage your stable LP
 
-We will continue to provide updates here as soon as we can
+We will continue to provide updates here as soon as we can.
