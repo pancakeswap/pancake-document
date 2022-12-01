@@ -41,7 +41,7 @@
     * [Qué es Trading Perpetuo?](productos/pancakeswap-exchange/trading-perpetuo/que-es-trading-perpetuo.md)
     * [Perpetual Trading FAQ](productos/pancakeswap-exchange/trading-perpetuo/perpetual-trading-faq.md)
     * [How can I use it?](productos/pancakeswap-exchange/trading-perpetuo/how-can-i-use-it.md)
-* [🚜Yield Farming](productos/yield-farming/README.md)
+* [🚜 Yield Farming](productos/yield-farming/README.md)
   * [Cómo usar Farms](productos/yield-farming/como-usar-yield-farm-en-pancakeswap.md)
   * [bCAKE](productos/yield-farming/bcake/README.md)
     * [Cómo usar bCAKE](productos/yield-farming/bcake/como-usar-bcake.md)
