@@ -10,7 +10,7 @@ Tener su perfil creado le permitirá compartir su foto de perfil NFT y logros co
 
 1\. Visita **Your Profile** debajo de **Teams & Profile** [aquí](https://pancakeswap.finance/profile).
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (2).png" alt=""><figcaption></figcaption></figure>
 
 2\. En "¡Choose your Starter!", elige uno de los NFT de conejito disponibles que quieras para tu foto de perfil. El NFT te costará 1 CAKE .&#x20;
 
@@ -18,13 +18,13 @@ Tener su perfil creado le permitirá compartir su foto de perfil NFT y logros co
 
 Para este ejemplo usaremos Dollop.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\. Haz clic en **Approve** y, a continuación, confirma la acción en tu monedero. Una vez aprobado, haga clic en Confirmar.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 4\. Se cargará una nueva página diciendo "Choose collectible". Elegiremos nuestro Dollop que elegimos anteriormente. Si ya posee varios NFT, puede elegir uno de una lista de NFT que posea.
 
@@ -34,7 +34,7 @@ Para este ejemplo usaremos Dollop.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 6\. En la página siguiente se le pedirá que se una a un equipo. ¡Unirse a un equipo le permite competir en eventos especiales para ganar recompensas especiales y limitadas! Elija uno en “Join a Team”. Para este ejemplo elegiremos Fearsome Flippers.
 
@@ -48,7 +48,7 @@ Para este ejemplo usaremos Dollop.&#x20;
 
 9\. Lea la advertencia en rojo y haga clic en el botón "Entiendo..." casilla de verificación.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
 
 10\. Haga clic en el botón **Confirm** y, a continuación, confirme la acción en su billetera. Una vez confirmado, haga clic en el botón **Complete Profile.**&#x20;
 
@@ -64,7 +64,7 @@ Para este ejemplo usaremos Dollop.&#x20;
 
 12\. Después de una breve espera, aparecerá su nuevo perfil. ¡Se ve bien!
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Usted puede notar que su nombre está oculto. Para ver su nombre, haga clic en el icono de ojo a la derecha de las estrellas.
 

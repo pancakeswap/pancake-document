@@ -26,7 +26,7 @@ Para habilitar Farm Boosters, debe completar un proceso de configuración único
 Si actualmente no está depositando en la farm que desea activar bCAKE, puede omitir este paso y depositar tokens LP en la farm directamente.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (8) (2).png>)
+![](<../../../.gitbook/assets/image (8) (2) (1).png>)
 
 Si ha estado haciendo staking en la granja y desea activar Farm Booster, también se requiere una migración de staking por única vez.&#x20;
 

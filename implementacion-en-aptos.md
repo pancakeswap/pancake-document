@@ -60,7 +60,7 @@ Para obtener más información sobre nuestras plataformas de lanzamiento ("Ofert
 
 * Continuaremos en contacto y trabajaremos juntos siempre que sea posible.
 
-<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Un ejemplo del proceso para la IFO&#x20;
 

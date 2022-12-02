@@ -123,7 +123,7 @@ Blocto ofrece una solución amigable para el usuario y un paquete todo en uno pa
 
 1 - Configuración ingresando tu dirección de Email. Luego ingrese la clave por única vez, recibida en su Email.
 
-****![](<../.gitbook/assets/image (7) (2).png>)****![](<../.gitbook/assets/image (1) (2).png>)****
+****![](<../.gitbook/assets/image (7) (2) (1).png>)****![](<../.gitbook/assets/image (1) (2) (3).png>)****
 
 
 
@@ -182,7 +182,7 @@ Petra wallet es una extensión que te permite explorar Aptos desde tu browser.
 {% endtab %}
 
 {% tab title="Martian" %}
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Martian es una wallet para Aptos Chain que te permite almacenar, enviar, recibir tokens y administrar y mintear NFTs. Su versión para dispositivos móviles estará disponible pronto.
 
