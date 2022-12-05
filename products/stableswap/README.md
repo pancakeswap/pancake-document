@@ -12,6 +12,8 @@ When you conduct a Swap (trade) on the StableSwap you will pay lower trading fee
 * 40% to CAKE buyback and burn&#x20;
 * 10% to the PancakeSwap Treasury
 
+## Stableswap Fees
+
 Fees for pairs are broken down in the table below:
 
 | Stablepair | Trading Fees | LP Rewards | CAKE Buyback | PancakeSwap Treasury |
