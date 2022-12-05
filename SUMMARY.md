@@ -50,7 +50,7 @@
     * [How to use bCAKE?](products/yield-farming/bcake/how-to-use-bcake.md)
     * [FAQ](products/yield-farming/bcake/faq.md)
 * [🍯 Syrup Pools - Stake CAKE](products/syrup-pool/README.md)
-  * [New CAKE Syrup Pool](products/coming-soon/new-cake-pool/README.md)
+  * [CAKE Syrup Pool](products/coming-soon/new-cake-pool/README.md)
     * [How to use the Flexible Staking option](products/coming-soon/new-cake-pool/flexible-staking.md)
     * [How to use the Fixed-Term Staking option](products/coming-soon/new-cake-pool/fixed-term-staking.md)
     * [CAKE Syrup Pool FAQ](products/syrup-pool/new-cake-pool/cake-syrup-pool-faq.md)

@@ -1,20 +1,20 @@
-# New CAKE Syrup Pool
+# CAKE Syrup Pool
 
 ## Stake CAKE, earn CAKE!
 
 PancakeSwap now offers one CAKE Syrup Pool with two staking options: flexible staking or fixed-term staking. Note that the Auto CAKE, IFO CAKE, and Manual CAKE pools will be retired upon the launch of the new CAKE Syrup Pool with flexible and fixed-term staking. Keep reading on to learn more!
 
-![\*Note that actual APY values will vary](../../../.gitbook/assets/cake-pool-enabled1.png)
+![\*Note that actual values will vary](<../../../.gitbook/assets/Stake - before enable (1).png>)
 
 ## What’s the difference between “Flexible” and “Fixed-Term” staking?
 
-With both, you can simply stake your CAKE tokens to earn more CAKE tokens with no deposit fees—both staking options auto-compound CAKE rewards for you. Flexible staking allows users to stake CAKE and earn rewards with the ability to unstake whenever they please. Fixed-term staking allows users to maximise their yield and earn even more CAKE by locking their staked CAKE for a period of time they choose, earning a linearly boosted APY compared to flexible staking.
+With both, you can simply stake your CAKE tokens to earn more CAKE tokens with no deposit fees. Flexible staking allows users to stake CAKE and earn rewards with the ability to unstake whenever they please. Fixed-term staking allows users to maximise their yield and earn even more CAKE by locking their staked CAKE for a period of time they choose, earning a linearly boosted yield compared to flexible staking.
 
-Flexible staking and fixed-term staking are both part of the same pool to allow users easy migration between the two staking options. **Because of this, you can only choose one staking option at a time.** More details about the differences are below.
+Flexible staking and fixed-term staking are both part of the same pool to allow users easy migration between the two staking options. However, when you do fixed-term staking, there is an option to perform flexible CAKE staking on the side.
 
 ### Flexible Staking
 
-Stake your CAKE and forget about it! The CAKE you stake in this Syrup Pool will be automatically compounded (reinvested) for you, minus a small fee (same as the old Auto CAKE Syrup Pool).
+Stake your CAKE and forget about it! CAKE rewards will be automatically distributed and included in your staking balance, minus a small fee (same as the old Auto CAKE Syrup Pool).
 
 **If you have CAKE staked in flexible staking**
 
@@ -44,20 +44,27 @@ This is a good thing for CAKE holders because it reduces the overall amount of C
 
 ### Fixed-Term Staking
 
-Stake your CAKE for a fixed amount of time to maximise yields and receive additional benefits! The staked CAKE will be automatically compounded during the entire lock duration.
+Stake your CAKE for a fixed amount of time to maximise yields and receive additional benefits! CAKE rewards will be locked along with the staked CAKE until the staking duration ends.
 
 * No performance fees
-* The longer you lock, the higher the boost applied to the yield! Always offering a higher APY compared to flexible staking!
-* CAKE rewards are auto-compounded and will unlock, along with your staked CAKE, when your lock duration expires
+* The longer you lock, the higher the boost applied to the yield! Always offering a higher yield compared to flexible staking!
+* CAKE rewards will unlock, along with your staked CAKE, when your lock duration expires
 * Once staked in fixed-term staking, you cannot withdraw until the end of your lock duration.
-* IFO CAKE credit (the maximum amount of CAKE they can commit during an IFO) will be determined from the fixed-term staking pool
+* 🎁 Enjoy benefits such as:
+  * 🗳️ Boosted voting power: [vCAKE](../../voting/vcake.md)
+  * 🚜 Boosted farm yields: [bCAKE](../../yield-farming/bcake/)
+  * 🛍️ IFO public sale entry: [iCAKE](../../ifo-initial-farm-offering/icake.md)
+  * ✨ Priority access or special events
+  * and so much more in our ongoing multichain expansion!
 
 **If you have CAKE locked in fixed-term staking**
 
 * ✅ Add more CAKE to lock
-* ✅ Extend lock period
-* ❌ Add CAKE to flexible staking
+* ✅ Extend the lock period
+* ✅ Perform flexible staking on the side
 * ❌ Harvest rewards
-* ❌ Withdraw before locked term ends
+* ❌ Withdraw before the lock ends
 
-Chefs are cooking up additional benefits in the kitchen for Q2!
+
+
+_\*page updated on: 2022-12-05_

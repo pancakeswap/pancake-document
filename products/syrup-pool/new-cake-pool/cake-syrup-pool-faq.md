@@ -6,13 +6,13 @@
 
 You can choose from 1-52 weeks. What do you prefer?
 
-### What variables affect the new CAKE Syrup Pool APYs (Flexible and Fixed-Term Staking options)?
+### What variables affect the new CAKE Syrup Pool yield %s (Flexible and Fixed-Term Staking options)?
 
-Since flexible staking and fixed-term staking options are part of the same pool, the following variables affect the APY of both:
+Since flexible staking and fixed-term staking options are part of the same pool, the following variables affect the yield% (APR/APY) of both:
 
-* Total CAKE staked in flexible staking and fixed-term staking (the sum of both). The more CAKE staked, the lower the APY.
+* Total CAKE staked in flexible staking and fixed-term staking (the sum of both). The more CAKE staked, the lower the APR/APY.
 * Total locked CAKE in fixed-term staking. The more CAKE locked means more yield boosts, resulting in fewer CAKE rewards for others (especially flexible staking).
-* The average lock duration of all CAKE locked in fixed-term staking. If the average lock duration increases, APY will decrease.
+* The average lock duration of all CAKE locked in fixed-term staking. If the average lock duration increases, APR/APY will decrease.
 
 ### Can I harvest the rewards during the locked period?
 
@@ -36,9 +36,9 @@ CAKE Locked = Initial locked CAKE balance + CAKE rewards
 
 When adding more CAKE to fixed-term staking, the "CAKE to be locked" amount is the user's initial locked CAKE balance, CAKE rewards to date, and the CAKE being added.
 
-### Can the Fixed-Term Staking CAKE pool APY change after I lock my CAKE?
+### Can the Fixed-Term Staking CAKE pool APR change after I lock my CAKE?
 
-Yes, the fixed-term staking CAKE pool APY is variable, just like the old CAKE pools. The fixed-term staking CAKE pool APY is not fixed and is dependent on:
+Yes, the fixed-term staking CAKE pool APR is variable, just like the old CAKE pools. The fixed-term staking CAKE pool APR is not fixed and is dependent on:
 
 * Total CAKE staked in the CAKE pool (the sum of both Flexible + Fixed-Term Staking).
 * The average lock duration of all CAKE locked in fixed-term staking.
@@ -48,21 +48,19 @@ For example, if you lock your CAKE for 52 weeks, your yield boost will be larger
 
 ### Can I still participate in IFOs if my CAKE is locked in the Fixed-Term Staking pool, or will I need to buy more CAKE?
 
-TBD, more information will be provided soon.
+No, a separate amount of CAKE is needed. However, locked-staking provides entry for IFO public sales. Check out [iCAKE](../../ifo-initial-farm-offering/icake.md).
 
 ### Can I vote if my CAKE is locked in the Fixed-Term Staking pool?
 
-TBD, more information will be provided soon.
+Yes! Check out [vCAKE](../../voting/vcake.md).
 
 ### Can I use both the Flexible Staking CAKE pool and the Fixed-Term Staking CAKE pool at the same time?
 
-No. As mentioned above in the "What’s the difference" section, both options are part of the same, single pool. You currently can **never** have CAKE in both fixed-term and flexible staking.
-
-We have multiple solutions coming in the future to allow users to use both flexible staking and fixed-term staking at the same time, but for now, you can choose only one of them.
+Yes, when you are doing fixed-term CAKE staking. A flexible CAKE staking side-pool will automatically appear for you to choose from.
 
 ### Is there a fee for converting Flexible Staked CAKE to Fixed-Term Staked CAKE?
 
-No. There are no additional fees for moving CAKE from flexible staking to fixed-term staking, only network fees.
+No. There are no additional fees for moving CAKE from flexible staking to fixed-term staking, only gas fees.
 
 ### What happens at the end of the lock duration? What is "After Burning"?
 
@@ -72,7 +70,7 @@ When your fixed-term staking period ends, and your CAKE unlocks, you have 7 days
   or
 * Convert your staked CAKE to flexible staking (no 72-hour withdrawal fee).
 
-![](../../../.gitbook/assets/cake-pool-lock-end.png)
+![](<../../../.gitbook/assets/Locked - lock ended - before after burning.png>)
 
 During these 7 days, you will still earn CAKE.
 
@@ -80,4 +78,4 @@ After 7 days, if you have not done one of the two options, your staked CAKE will
 
 So, to avoid missing out on CAKE rewards, we recommend starting a new fixed-term staking period or converting your CAKE to flexible staking at the end of your lock staking period.
 
-![](<../../../.gitbook/assets/cake-pool-lock-burn (1).png>)
+![](<../../../.gitbook/assets/Locked - lock ended - after burning started.png>)
