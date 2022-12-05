@@ -45,13 +45,18 @@ Esto es algo bueno para los holders de CAKE porque reduce la cantidad total de t
 
 ### Staking a Plazo Fijo
 
-Deposita tus CAKE por un tiempo fijo para maximizar los rendimientos y recibir beneficios adicionales! El CAKE depositado se reinvertirá automáticamente durante toda la duración del bloqueo.
+Deposita tus CAKE por un tiempo fijo para maximizar los rendimientos y recibir beneficios adicionales! Las recompensas en CAKE permanecerán bloqueadas junto al CAKE depositado hasta la finalización del periodo de bloqueo.
 
 * Sin performance fees
 * Más bloqueas tus CAKE, más es el boost!
-* Las recompensas de CAKE se reinvierten automáticamente y se desbloquearán, junto con su CAKE depositado, cuando expire la duración de su bloqueo
+* Las recompensas de CAKE se desbloquearán, junto con su CAKE depositado, cuando expire la duración de su bloqueo
 * Una vez depositado, no se pueden retirar los CAKE hasta la finalización del bloqueo
-* Los iCAKE (la cantidad máxima de CAKE que se puede comprometer durante un IFO) se determinarán a partir del pool de staking a plazo fijo (como así también serán determinados los [vCAKE](https://docs.pancakeswap.finance/v/espanol/productos/voting/vcake) y [bCAKE](https://docs.pancakeswap.finance/v/espanol/productos/yield-farming/bcake)). [Aprenda más sobre iCAKE aquí.](../../ifo-initial-farm-offering/icake.md)
+* 🎁 Disfrute de todos estos beneficios:
+  * 🗳️ Boost para su voting power: [vCAKE](https://docs.pancakeswap.finance/v/espanol/productos/voting/vcake)
+  * 🚜 Boost para sus farms: [bCAKE](https://docs.pancakeswap.finance/v/espanol/productos/yield-farming/bcake)
+  * 🛍️ IFO public sale entry: [iCAKE](../../ifo-initial-farm-offering/icake.md)
+  * ✨ Acceso prioritario y/o eventos especiales
+  * y muchísimo más en nuestraexpansión multichain!
 
 **Si tienes CAKE en el Staking a Plazo Fijo**
 
