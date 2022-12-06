@@ -47,6 +47,7 @@
     * [Cómo usar bCAKE](productos/yield-farming/bcake/como-usar-bcake.md)
     * [FAQ](productos/yield-farming/bcake/faq.md)
   * [Cómo usar Farms (BscScan)](productos/yield-farming/farms-bscscan.md)
+  * [Crosschain Farming](productos/yield-farming/crosschain-farming.md)
 * [🍯 Syrup Pools](productos/syrup-pools/README.md)
   * [Nuevo Cake Pool](productos/syrup-pools/nuevo-cake-pool/README.md)
     * [Cómo usar el Staking Flexible](productos/syrup-pools/nuevo-cake-pool/como-usar-el-staking-flexible.md)
