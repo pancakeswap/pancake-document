@@ -1,6 +1,6 @@
 # ¿Cómo votar con la billetera de SafePal?
 
-![](<../../../.gitbook/assets/0 (3)>)
+![](../../../.gitbook/assets/0)
 
 Puede usar la billetera de SafePal para votar en cualquier propuesta abierta en PancakeSwap. Siga los pasos a continuación para emitir su voto desde la billetera de SafePal.
 

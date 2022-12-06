@@ -1,6 +1,6 @@
 # 🚜 Yield Farming
 
-![](<../../.gitbook/assets/0 (2)>)
+![](<../../.gitbook/assets/0 (2) (1)>)
 
 Las Yield Farms permiten a los usuarios ganar CAKE mientras apoyan a PancakeSwap depositando sus LP tokens.
 

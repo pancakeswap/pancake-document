@@ -6,7 +6,7 @@ description: >-
 
 # Crosschain Farming
 
-![](../../.gitbook/assets/0)
+![](<../../../.gitbook/assets/0 (3)>)
 
 Con la implementación multicadena, PancakeSwap está llevando la icónica experiencia del yield farming de los farms a otras blockchains. El yield farms permite a los usuarios ganar CAKE mientras apoyan a PancakeSwap dejando en staking tokens LP.
 
