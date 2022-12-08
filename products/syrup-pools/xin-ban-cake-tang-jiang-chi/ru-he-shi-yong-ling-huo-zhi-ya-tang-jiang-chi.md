@@ -19,6 +19,6 @@
 
 想要将您的灵活质押转换为锁仓质押以赚取更多 CAKE？ 只需单击转换为锁仓并选择要锁仓 CAKE 的时长即可。
 
-<figure><img src="../../../.gitbook/assets/转换为锁定1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/转换为锁定1.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/转换为锁定2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/转换为锁定APR.jpg" alt=""><figcaption></figcaption></figure>

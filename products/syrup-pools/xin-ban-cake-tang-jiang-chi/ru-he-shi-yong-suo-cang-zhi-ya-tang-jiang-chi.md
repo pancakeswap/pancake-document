@@ -14,7 +14,7 @@
 
 <figure><img src="../../../.gitbook/assets/启用.png" alt=""><figcaption></figcaption></figure>
 
-5.**启用**按钮现在应该替换为**灵活**和**锁定**。 单击按钮以调出质押菜单。
+5.**启用**按钮现在应该替换为**灵活**和**锁定**。单击按钮以调出质押菜单。
 
 <figure><img src="../../../.gitbook/assets/Stake - before enable.png" alt=""><figcaption></figcaption></figure>
 
@@ -42,7 +42,7 @@
 
 2.选择您要增加的持续时长（本例中为 5 周）。
 
-<figure><img src="../../../.gitbook/assets/延长2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/延长2APR.jpg" alt=""><figcaption></figcaption></figure>
 
 请注意，您新的锁仓持续时间 6 周将等于 1 周的初始锁仓持续时间，加上增加的 5 周新锁仓时间。也就是，您现在锁仓到期时间为 2022 年 6 月 12 日。
 
@@ -68,10 +68,10 @@
 
 &#x20;2.选择您想添加到锁定余额中的 CAKE 数量（在本例中，我们添加 10 CAKE）。 请注意，您的收益提升倍数（boost 倍数）低于初始收益提升倍数，因为它是使用 6 天锁仓持续时间而不是初始 1 周锁仓持续时间计算的。&#x20;
 
-<figure><img src="../../../.gitbook/assets/添加锁定CAKE.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/添加锁定CAKE APR.jpg" alt=""><figcaption></figcaption></figure>
 
-2.1. 或者，用户可以选中“续订并延长您的锁仓以保留类似的收益率”旁边的框。 为了保持类似的收益率提升倍数，将锁仓持续时间设置为等于初始锁仓持续时间（在本例中为 1周）。
+2.1. 或者，用户可以选中“更新并延长您的锁定以继续类似福利”旁边的框。为了保持类似的收益率提升倍数，将锁仓持续时间设置为等于初始锁仓持续时间（在本例中为 1周）。
 
-<figure><img src="../../../.gitbook/assets/增加并延长.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/增加并延长APR.jpg" alt=""><figcaption></figcaption></figure>
 
 3\. 仔细检查以确保您增加的 CAKE 数量和锁仓持续时间没有问题，然后单击**确认**。
