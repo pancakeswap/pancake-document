@@ -10,6 +10,8 @@ This FAQ page answers some of the more commonly asked questions from the Pancake
 
 Check out [our bridging guide](aptos-coin-guide.md) for various bridging solutions.
 
+If you want to bridge CAKE token, check out our [CAKE bridging guide](cake-bridging-guide.md).
+
 ### Which wallet I can use for Aptos Chain?
 
 Check out [our wallet guide](wallet-guide.md) to download and set up your wallet for Aptos.
