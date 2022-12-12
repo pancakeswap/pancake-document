@@ -42,7 +42,7 @@ PancakeSwap IFO has not yet been deployed on Aptos. (SOON!) Keep staking your CA
 
 This is only a UI displaying issue. **For CAKE bridging, the waiting time is around 3-10 mins.** Chefs are now working with the LayerZero team to fix this displaying issue.
 
-Please note that for other assets, outbound transfers from Aptos are subject to 1M block confirmations, estimated to last \~4 days. Timing may change due to fluctuations in blocktimes.
+Please note that for assets other than CAKE, outbound transfers from Aptos are subject to 1M block confirmations, estimated to last \~4 days. Timing may change due to fluctuations in blocktimes.
 
 ### Why the button shows "X CAKE Exceeded"?
 
@@ -55,6 +55,8 @@ Chefs will adjust this limit dynamically based on the demands.
 Bridging transactions will take up to 30 mins to be processed. Please wait and try searching your tx by entering its hash/id in [LayerZero Scan](https://layerzeroscan.com/).
 
 If the bridging transaction is still showing pending after 60 mins. Please contact our admins via our [social channels/groups](../contact-us/telegram.md) for [help](../help/).
+
+Please note that for assets other than CAKE, outbound transfers from Aptos are subject to 1M block confirmations, estimated to last \~4 days. Timing may change due to fluctuations in blocktimes.
 
 ### I have never received my CAKE
 
