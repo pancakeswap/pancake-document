@@ -46,6 +46,12 @@ This is only a UI displaying issue. **For CAKE bridging, the waiting time is aro
 
 Please note that for assets other than CAKE, outbound transfers from Aptos are subject to 1M block confirmations, estimated to last \~4 days. Timing may change due to fluctuations in blocktimes.
 
+### Can I use mobile wallets to bridge CAKE? Can I use wallets other than MetaMask?
+
+As of writing, PancakeSwap Aptos Bridge only supports MetaMask (and any MetaMask-compatible wallets) on the Desktop browser. More wallet support will be added very soon.
+
+To avoid copy-and-pasting private keys or seed phrases between your devices. We recommend creating a set of fresh wallets on Desktop wallet extensions for bridging.
+
 ### Why the button shows "X CAKE Exceeded"?
 
 For safety, there is a daily capacity limit of how much CAKE can be bridged between BSC and Aptos. Please try again with a lower amount of CAKE. Or try again at a later time.
