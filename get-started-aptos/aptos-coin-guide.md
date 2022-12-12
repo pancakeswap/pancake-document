@@ -39,4 +39,8 @@ You will also need the tokens you want to trade or stake on Aptos Chain. There a
 
 📖 [Here's a quick guide they made to help you out.](https://www.binance.com/en/support/faq/85a1c394ac1d489fb0bfac0ef2fceafd)
 {% endtab %}
+
+{% tab title="🥞 CAKE Bridging" %}
+To Bridge CAKE token between Aptos and BNB Smart chain, use [PancakeSwap Aptos Bridge](https://bridge.pancakeswap.finance/aptos). Check out the [guide](cake-bridging-guide.md) to learn how to use it.
+{% endtab %}
 {% endtabs %}
