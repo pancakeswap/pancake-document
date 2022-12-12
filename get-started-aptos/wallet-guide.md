@@ -98,7 +98,7 @@ Trust Wallet is a popular wallet for smart devices. It supports DApps, NFT colle
 {% endtab %}
 
 {% tab title="Blocto" %}
-****![](<../.gitbook/assets/image (37).png>)****
+****![](<../.gitbook/assets/image (37) (2).png>)****
 
 Blocto offers a user-friendly solution and an all-in-one package for using Dapps and managing your assets.
 
@@ -264,7 +264,7 @@ To start using PancakeSwap on Aptos, you will also need to have some $APT tokens
 {% endtab %}
 
 {% tab title="Blocto" %}
-****![](<../.gitbook/assets/image (37).png>)****
+****![](<../.gitbook/assets/image (37) (2).png>)****
 
 Blocto offers a user-friendly solution and an all-in-one package for using Dapps and managing your assets.
 
