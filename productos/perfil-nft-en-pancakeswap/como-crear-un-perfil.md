@@ -22,7 +22,7 @@ Para este ejemplo usaremos Dollop.&#x20;
 
 3\. Haz clic en **Approve** y, a continuación, confirma la acción en tu monedero. Una vez aprobado, haga clic en Confirmar.
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 

@@ -47,6 +47,10 @@ Nosotros no aceptamos solicitudes para agregar tokens a la lista aprobada.&#x20;
 
 El exchange de PancakeSwap toma como referencia la colección de íconos de los activos que usa Trust Wallet. Por favor añada su ícono aquí: [https://github.com/trustwallet/assets](https://github.com/trustwallet/assets)
 
+### ¿Por qué algunas estadísticas de mis tokens no se muestran en la página de información?
+
+Los tokens deben tener al menos 10 BNB de liquidez en uno de los siguientes pares de tokens citados para que la página de información comience a indexar sus pares, lo que actualizará el token subyacente. Los pares deben incluir uno de los siguientes: WBNB, BUSD, USDT, USDC, BTCB o ETH
+
 ## Una cosa más
 
 Puedes enviarnos un mail a pancakeswap@gmail.com si todo lo anterior no cubre tus preguntas. Por favor, no uses este correo para soporte ya que no es su finalidad: su mejor opción para obtener ayuda con el proyecto es a través de la comunidad de [Telegram](https://t.me/PancakeSwapEs).

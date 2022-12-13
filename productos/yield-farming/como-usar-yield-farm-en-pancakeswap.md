@@ -115,7 +115,7 @@ Para recoger sus recompensas, tendrás que visitar tu Farm elegido y recoger los
 
 1. Vuelva a la página de [Farms](https://pancakeswap.finance/farms).
 2. Busca el Farm en la que depositaste tus tokens LP y haz clic en la fila para ver los detalles. Deberías ver una estimación de sus recompensas en "Cake Earned"\
-   ![](<../../.gitbook/assets/image (6).png>)
+   ![](<../../.gitbook/assets/image (6) (1).png>)
 3. Haga clic en el botón **Harvest** y confirme la acción en su billetera. Después de una corta espera, los CAKE serán reclamados a su billetera para que los use como desee.
 
 {% hint style="info" %}
