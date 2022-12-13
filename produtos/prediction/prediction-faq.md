@@ -1,92 +1,92 @@
-# Prediction FAQ
+# Perguntas Frequente Da Previsão
 
 {% hint style="info" %}
-Use the sidebar to quickly find the answers to your questions!
+Use a barra lateral para encontrar rapidamente as respostas para suas perguntas!
 {% endhint %}
 
-## General Questions
+## Questões Gerais
 
-### What’s the PancakeSwap Prediction contract address?
+### Qual é o endereço do contrato da Previsão da PancakeSwap?
 
-Verified contract address: [https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda](https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda)
+Endereço do Contrato Verificado: [https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda](https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda)
 
-### Is there a time limit before I can collect my winnings?
+### Existe um limite de tempo antes que eu possa coletar meus ganhos?&#x20;
 
-No, you’ll be able to collect your winnings at any time in the future.
+Não, você poderá coletar seus ganhos a qualquer momento no futuro.&#x20;
 
-### How is the payout calculated?
+### Como é calculado o pagamento?&#x20;
 
-* Payout Ratio for UP Pool = Total Value of Both Pools ÷ Value of UP Pool
-* Payout Ratio for DOWN Pool = Total Value of Both Pools ÷ Value of DOWN Pool
+* Taxa de pagamento para pool UP = Valor total de ambos as pools ÷ Valor da pool UP&#x20;
+* Taxa de pagamento para pool DOWN = Valor total de ambos as pools ÷ Valor da pool DOWN&#x20;
 
-For example, if there’s 15 BNB in the DOWN side of a round, and the overall prize pool is 150BNB, the DOWN payout ratio will be (150/15)=10x.
+Por exemplo, se houver 15 BNB no lado DOWN de uma rodada e a premiação geral for de 150 BNB, a taxa de pagamento DOWN será (150/15) = 10x.&#x20;
 
-* Payout Amount = Payout Ratio × Position × (1 - Treasury Fee)
+* Valor do Pagamento = Taxa de Pagamento × Posição × (1 - Taxa do Tesouro)&#x20;
 
-In the above case, if the round ends on a DOWN result, if you committed 2 BNB to a DOWN position, you’d get a payout of (2\*10) × (1-0.03) = 19.4 BNB. Your profit would be 17.4 BNB (19.4 - 2).
+No caso acima, se a rodada terminar com um resultado DOWN, se você comprometer 2 BNB para uma posição DOWN, receberá um pagamento de (2\*10) × (1-0,03) = 19,4 BNB. Seu lucro seria de 17,4 BNB (19,4 - 2).&#x20;
 
-The treasury fee is currently set at 3%: this may be subject to changes, which would be announced on PancakeSwap’s official communication channels. Treasury fees are used to buy back and burn CAKE tokens.
+A taxa do tesouro está atualmente fixada em 3%: isso pode estar sujeito a alterações, que seriam anunciadas nos canais de comunicação oficiais da PancakeSwap. As taxas do Tesouro são usadas para recomprar e queimar tokens CAKE.
 
-### **What are the fees?**
+### **O que são as taxas?**
 
-3% of each round's total pot will go to the treasury, which will be used to buyback and burn CAKE every Monday.
+3% do pote total de cada rodada irá para o tesouro, que será usado para recomprar e queimar CAKE na queima de todas as segundas-feiras.
 
-### What are you using for your price feed?
+### O que está sendo usado como fonte do preço?
 
-PancakeSwap uses two sources for our price feeds. They each have their own purpose within the prediction market:
+O PancakeSwap usa duas fontes para nossas fontes de preços. Cada um deles tem seu próprio propósito dentro do mercado de previsão:&#x20;
 
-#### ChainLink Oracle
+### Oráculo da ChainLink&#x20;
 
-* Used for the Lock price and End price of each prediction market round. This updates in intervals of 5 minutes.
-* Our prediction contract uses the ChainLink Oracle price feed to set the prices used to dictate whether a user has won or not.
+* Usado para o preço de bloqueio e o preço final de cada rodada do mercado de previsão. Isso atualiza em intervalos de 20 segundos.
+* Nosso contrato de previsão usa o feed de preçosdo Oráculo da ChainLink para definir os preços usados para determinar se um usuário ganhou ou não.
+* Usado para o gráfico "Chainlink" na interface.&#x20;
 
-#### Binance BNB/USD
+### Binance&#x20;
 
-* Used for real-time price updates on the PancakeSwap prediction market interface.
+* Usado para atualizações de preços em tempo real na interface de mercado de previsão da PancakeSwap.&#x20;
+* Usado para o gráfico "TradingView" na interface.&#x20;
 
-Since we’re using two different price feeds, the real-time price updates from Binance and the ChainLink Oracle price may differ by a small amount. However, they shouldn’t vary significantly.
+Como estamos usando dois feeds de preços diferentes, as atualizações de preços em tempo real da Binance e o preço do Oráculo da ChainLink podem diferir um pouco. No entanto, eles não devem variar significativamente
 
-### The round's result changed after the round ended! Why?
+### O resultado da rodada mudou após o término da rodada! Por quê?&#x20;
 
-Sometimes, after a round closes, the final result may be different from the last result shown while the round was live. If you watch a round end on "DOWN", it may appear to flip to "UP" a few seconds later.
+Às vezes, após o encerramento de uma rodada, o resultado final pode ser diferente do último resultado exibido durante a rodada. Se você assistir a uma rodada terminanda em "DOWN", pode parecer virar para "UP" alguns segundos depois.&#x20;
 
-This is because we use the ChainLink Oracle price feed to determine the final outcome of a round. The period between the end of one round and the start of the next is 30 seconds, but the Oracle refreshes every 20 seconds. It's possible that during this short period, the Oracle might send an update while the transaction to trigger the next round is being minted. This can appear to "flip" the outcome of the previous round.
+Isso ocorre porque usamos o feed de preços do Oráculo da ChainLink para determinar o resultado final de uma rodada. O período entre o final de uma rodada e o início da próxima é de 30 segundos, mas o Oráculo é atualizado a cada 20 segundos. É possível que, durante esse curto período, o Oracáculo envie uma atualização enquanto a transação para acionar a próxima rodada está sendo cunhada. Isso pode parecer "inverter" o resultado da rodada anterior.
 
-## About Positions
+## Sobre as Posições
 
-### **What happens if no one enters an opposing position?**
+### O que acontece se ninguém entrar em uma posição oposta?&#x20;
 
-If only one side of a round has positions entered into it, then that side loses, the losing funds will be sent to the treasury.&#x20;
+Se apenas um lado de uma rodada tiver posições inseridas, esse lado perde, os fundos perdedores serão enviados ao tesouro. Por exemplo: o usuário A insere uma posição PARA CIMA, ninguém mais insere uma posição PARA BAIXO. O usuário A perde e não há posições opostas para as quais os ganhos sejam pagos. Os fundos são enviados para o tesouro.
 
-For example: User A enters an UP position, no one else enters a DOWN position. User A loses, and there are no opposing positions for the winnings to be paid out to. Funds are sent to treasury.
+### O que acontece se o preço bloqueado e o preço fechado forem exatamente iguais?
 
-### **What happens if the Locked Price and Closed Price are the exact same?**
+Na raríssima ocorrência de o preço bloqueado ser exatamente o mesmo que o preço fechado, ninguém ganha e todos os fundos inseridos nas posições serão enviadas ao tesouro para serem usados nas recompras de CAKE para queimar.&#x20;
 
-In the very rare occurrence that the Locked Price is exactly the same as the Closed Price, no one wins, and all funds entered into positions will be sent to the treasury to be used for CAKE buybacks to burn.
+### Posso alterar ou remover minha posição?&#x20;
 
-### **Can I change or remove my position?**
+Não. Depois de inserir uma posição, você NÃO pode alterar a direção, adicionar ou remover sua posição. Está bloqueado, portanto, certifique-se de que está 100% satisfeito com a direção da sua posição antes de confirmar.
 
-No. Once you enter a position, you can NOT change the direction, add to, or remove your position. It's locked in, so make sure you're 100% happy with your position direction before confirming.&#x20;
+## Pausas do Mercado
 
-## Market Pauses
+### O que significa quando os mercados estão em pausa?&#x20;
 
-### What does it mean when markets are paused?
+Os mercados são pausados quando existem condições que afetam a confiabilidade do contrato. Os mercados em pausa significam que nenhuma aposta será realizada em nenhuma rodada.&#x20;
 
-Markets are paused when there are conditions which affect the reliability of the contract. Markets being paused means that no bets will be taking place for any rounds.
+### O que faz com que o mercado de previsão da PancakeSwap pare?&#x20;
 
-### What causes PancakeSwap Prediction market to pause?
+O mercado de previsão será interrompido nas seguintes condições:&#x20;
 
-The prediction market will pause under the following conditions:
+* O contrato de previsão não conseguiu obter o preço do oráculo ChainLink devido ao oráculo não ter postado o preço no momento em que a rodada terminou.&#x20;
+* O contrato de previsão não conseguiu executar uma ação (encerrar uma rodada ou obter um preço do oráculo) porque o tx ficou presa na mempool por mais de 15 blocos.&#x20;
 
-1. The prediction contract has been unable to obtain the price from the ChainLink oracle due to the oracle not having posted the price at the time the round has ended.
-2. The prediction contract has been unable to execute an action (ending a round or getting a price from the oracle) due to the tx being stuck in the mempool for longer than 15 blocks.
+### Quando os mercados serão retomados após uma pausa?&#x20;
 
-### When will the markets resume after being paused?
+Os mercados serão retomados quando um administrador (um dos chefs) reiniciar manualmente o mercado.&#x20;
 
-The markets will resume when an admin (one of the chefs) manually resumes the market.
+### O que acontece com minha posição se o mercado parar?&#x20;
 
-### What happens to my position if the market pauses?
+Se os mercados pausarem enquanto você tiver uma posição ativa, seus fundos estarão disponíveis para serem recuperados, da mesma forma que você normalmente reivindicaria seus ganhos.&#x20;
 
-If the markets pause while you have a live position, your funds will be available to reclaim, the same way as you would normally claim your winnings.
-
-To reclaim funds, you’ll need to pay some gas fees. We can’t compensate you for the gas fees, so please bear this small risk in mind before participating.
+Para recuperar fundos, você precisará pagar algumas taxas de gás. Não podemos compensá-lo pelas taxas de gás, portanto, tenha em mente esse pequeno risco antes de participar.

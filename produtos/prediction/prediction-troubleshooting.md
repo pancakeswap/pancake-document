@@ -1,66 +1,62 @@
-# Prediction Troubleshooting
+# Soluções de Problemas na Previsão
 
 {% hint style="info" %}
-Use the sidebar to quickly find the answers to your questions!
+Use a barra lateral para encontrar rapidamente as respostas para suas perguntas!
 {% endhint %}
 
-### Why can’t I see my winnings in my wallet?
+### Por que não consigo ver meus ganhos em minha carteira?
 
-When you collect winnings, they might not appear in your wallet’s transaction logs as usual.\
-This is because they use a different type of transaction: Internal transactions.\
-Enter your wallet address on BscScan, then check the “Internal Txns” tab to confirm that they’ve arrived.\
+Quando você coleta ganhos, eles podem não aparecer nos registros de transações da sua carteira como de costume. Isso ocorre porque eles usam um tipo diferente de transação: transações internas. Digite o endereço da sua carteira no BscScan e verifique a guia "Internal Txns" para confirmar que eles chegaram.\
 ![](https://lh5.googleusercontent.com/9NoIvK-oztyEaizCfgrj-poPIP\_uWeFDYsa0\_nxN3sKUiIwFdACy\_BemrtRLJn-ZkyW3LprfRn4s9lL24BOGb-I-t1vHoh5wkuTx7bObHQl5sS7xPmuZEOTVPUXr7LPNAfPfqr12)
 
-### Why aren't the results of my round showing?
+### Por que os resultados da minha rodada não estão aparecendo?&#x20;
 
-There’s a 15 block buffer on each round, which can cause delays of up to 45 seconds after the end of a round.\
-This buffer is to accommodate for the fact that we may not be able to reliably fetch a price and end a round immediately: various blockchain factors affect the speed in which transactions get confirmed on the network.
+Há um buffer de 15 blocos em cada rodada, o que pode causar atrasos de até 45 segundos após o final de uma rodada. Esse buffer é para acomodar o fato de que podemos não ser capazes de buscar um preço de forma confiável e terminar uma rodada imediatamente: vários fatores da blockchain afetam a velocidade na qual as transações são confirmadas na rede.&#x20;
 
-### I can’t collect my winnings!
+### Não consigo coletar meus ganhos!&#x20;
 
-Make sure you have enough BNB in your wallet to pay for gas fees. You’ll need a little BNB to trigger the smart contract.
+Certifique-se de ter BNB suficiente em sua carteira para pagar as taxas de gás. Você precisará de um pouco de BNB para acionar o contrato inteligente.&#x20;
 
-### **I can't claim winnings from a prediction round on site.**
+### Não posso reivindicar ganhos de uma rodada de previsão no site.&#x20;
 
-You might be able to claim your winnings directly from the contract. Follow the steps in the 3 tabs below.
+Você pode reivindicar seus ganhos diretamente do contrato. Siga as etapas nas 3 guias abaixo.
 
 {% tabs %}
-{% tab title="Check rounds you played" %}
-How to check the history of rounds you played
+{% tab title="Verifique as rodadas jogadas" %}
+Como verificar o histórico de rodadas que você jogou&#x20;
 
-1. Go to BscScan page of Prediction contract.
-2. Scroll down to “8. getUserRounds”.
-3. Type in your wallet address under “user(address)”.
-4. Set “cursor(uint256)" to 0 and “size(uint256)" to 1000.
-5. Tap “Query”
-6. Rounds you entered will show below in the first row. (after “uint256\[]:”)
+1. Vá para a página BscScan do contrato de previsão.&#x20;
+2. Role para baixo até “8. getUserRounds”.&#x20;
+3. Digite o endereço da sua carteira em "user(address)".&#x20;
+4. Defina "cursor(uint256)" como 0 e "size(uint256)" como 1000.&#x20;
+5. Toque em “Query”&#x20;
+6. As rodadas que você inseriu serão exibidas abaixo na primeira linha. (após “uint256\[]:”)
 {% endtab %}
 
-{% tab title="Check if you can claim" %}
-First, check whether you should actually be able to claim from the round you played.
+{% tab title="Verifique se você pode reivindicar" %}
+Primeiro, verifique se você realmente pode reivindicar a rodada que jogou.
 
-1. [Go to the **** BscScan page of Prediction contract](https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda#readContract), and go to the Write tab
-2. Scroll down to “4. claimable”.
-3. Type in the round id you want to check under "epoch(uint256)”.
-4. Type in your wallet address under “user(address)”.
-5. Tap “Query”
-6. If a round is claimable, it will show “true”.
-7. If the result is "false". Please repeat the above steps and try with "19. refundable".&#x20;
-8. Note: ⬆️ If you see a round returns "false" on both "4. claimable" and "19. refundable", but it shows on the website, it's probably been claimed already and the website is lagging.
+1. [Vá para página da BscScan do contrato do Prediction](https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda#readContract), e vá para a aba Write
+2. Role para baixo até “4. claimable”.
+3. Digite o ID da rodada que você deseja verificar "epoch(uint256)”.
+4. Digite o endereço da sua carteira em “user(address)”.
+5. Tecle em “Query”
+6. Se uma rodada for reivindicada, ela mostrará “true”.
+7. Se o resultado é "false". Por favor, repita os passos acima e tente com "19. refundable".
+8. Observe: ⬆️ Se você vir uma rodada retornando "false" em ambos "4. claimable" e "19. refundable", mas aparece no site, provavelmente já foi reivindicado e o site está atrasado.
 {% endtab %}
 
-{% tab title="Claim from a round" %}
-How to claim
+{% tab title="Reivindicar uma rodada" %}
+Como reivindicar
 
-1. [Go to the **** BscScan page of Prediction contract](https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda#writeContract), and go to the Write tab
-2. Tap “🔴 Connect to Web3”
-3. Use MetaMask or WalletConnect to connect.
-4. Scroll down to “3. claim”
-5.  Type in the round number you want to claim in this format, including the \[] brackets: `[12345]`&#x20;
+1. [Vá para a página da BscScan do contrato do Prediction](https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda#writeContract), e vá para a aba Write
+2. Tecle em  “🔴 Connect to Web3”
+3. Use MetaMask ou WalletConnect para conectar.
+4. Role para baixo até “3. claim”
+5.  Digite o número redondo que deseja reivindicar neste formato, incluindo o \[] brackets: `[12345]`
 
-    If you want to claim from multiple rounds together, separate the rounds with a comma like this: `[12345,12346,12347]`
-6. Tap “Write”
-7. Confirm on wallet
+    Se você quiser reivindicar várias rodadas juntas, separe as rodadas com uma vírgula como esta: `[12345,12346,12347]`
+6. Tecle em “Write”
+7. Confirme na carteira
 {% endtab %}
 {% endtabs %}
-

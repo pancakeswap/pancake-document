@@ -42,7 +42,7 @@ Quando tiver certeza de que tem tempo suficiente, você pode fazer sua previsão
 
 1. Na seção "Next", você verá um botão verde **PARA CIMA (Enter UP)** e um botão vermelho **PARA BAIXO (Enter DOWN)**. Clique em Enter UP se quiser prever um aumento no preço e clique em Enter DOWN se quiser prever uma queda no preço.
 
-![](<../../.gitbook/assets/image (43) (1).png>)
+![](<../../.gitbook/assets/image (43).png>)
 
 Cada um terá um multiplicador de recompensa diferente. O multiplicador mudará com o tempo conforme a "Pool do Prêmio" aumenta dependendo das previsões das pessoas. A premiação é mostrada logo acima dos botões.
 
@@ -94,7 +94,7 @@ Após 5 minutos como rodada ativa, a rodada que você participou terminará. Tud
 
 3\. Se você esteve ocupado e perdeu os resultados, pode voltar algumas rodadas clicando na seta para a esquerda nos cartões roxos de coelho.
 
-![](<../../.gitbook/assets/image (53) (1).png>)
+![](<../../.gitbook/assets/image (53).png>)
 
 ### Vendo os resultados de rodadas antigas
 

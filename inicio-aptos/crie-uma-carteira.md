@@ -53,7 +53,7 @@ Você pode encontrar informações mais detalhadas sobre cada carteira abaixo, b
 
 {% tabs %}
 {% tab title="Petra" %}
-<figure><img src="../.gitbook/assets/image (13) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 A carteira Petra é uma extensão que permite explorar a Aptos no seu navegador.&#x20;
 
@@ -76,7 +76,7 @@ A carteira Petra é uma extensão que permite explorar a Aptos no seu navegador.
 {% endtab %}
 
 {% tab title="Martian" %}
-<figure><img src="../.gitbook/assets/image (1) (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Martian é uma carteira na Aptos Chain que permite armazenar, enviar, receber tokens e gerenciar e mintar NFTs. Sua versão móvel está chegando em breve.
 
@@ -213,21 +213,21 @@ Blocto oferece uma solução amigável e um pacote completo para usar Dapps e ge
 
 1 - Configure inserindo seu endereço de e-mail. Em seguida, digite a senha de uso único recebida por e-mail.
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (2).png>)
 
-![](<../.gitbook/assets/image (53).png>)
+![](<../.gitbook/assets/image (26).png>)
 
 2 - Clique no botão de adição e escolha "APT - Aptos"
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (5) (4).png>)
 
-![](<../.gitbook/assets/image (90).png>)
+![](<../.gitbook/assets/image (31).png>)
 
 3 - Pronto! Agora você pode depositar o APT na carteira Aptos e começar a usar **a** PancakeSwap na Aptos acessando a página "Descobrir"!
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (13).png>)
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (9).png>)
 {% endtab %}
 {% endtabs %}
 

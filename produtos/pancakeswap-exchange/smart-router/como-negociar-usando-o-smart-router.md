@@ -10,7 +10,7 @@ Antes de começar, requer uma carteira compatível com BNB Chain e BNB para taxa
 2. Escolha os pares de tokens que você gostaria de negociar. No lançamento, apenas entrada exata é aceita para o Smart Router devido a problemas de derrapagem.
 3. Insira o valor dos tokens que deseja negociar. Marque a caixa “**Usar StableSwap para melhores taxas**”.
 
-![](<../../../.gitbook/assets/image (28).png>)
+![](<../../../.gitbook/assets/image (28) (1).png>)
 
 4\. Verifique a nova rota usando o ícone no campo de rota na linha inferior. Está tudo pronto! O passo seuinte do swap é o mesmo de sempre. Se é a primeira vez que negocia, consulte o tutorial [aqui](https://docs.pancakeswap.finance/v/portuguese-brazilian/produtos/pancakeswap-exchange/trade-guide).
 
@@ -20,5 +20,5 @@ Desativar o roteador inteligente roteia todas as negociações por meio de camin
 
 1. Clique no ícone de **Configurações** no canto superior direito do menu do swap.
 2. **Desative o Smart Router** no pop-up que aparece.\
-   ![](<../../../.gitbook/assets/image (13).png>)
+   ![](<../../../.gitbook/assets/image (13) (3).png>)
 3. Feche a página de configurações

@@ -117,7 +117,7 @@ Para coletar suas recompensas, você precisará visitar o Farm escolhido e colet
 
 Isso depende de você, mas lembre-se que há uma pequena taxa envolvida na colheita. Você pode ver essa taxa em sua carteira ao confirmar depois de clicar em Coletar (Harvest).
 
-![](<../../.gitbook/assets/image (31).png>)
+![](<../../.gitbook/assets/image (31) (1).png>)
 
 Isso mostra a taxa de coleta conforme aparece na carteira MetaMask. Carteiras diferentes mostrarão as informações de maneira um pouco diferente. Considere deixar suas recompensas crescerem por um tempo para que você pague taxas com menos frequência.&#x20;
 

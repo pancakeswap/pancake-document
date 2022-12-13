@@ -10,7 +10,7 @@ A negociação no StableSwap é muito semelhante ao uso do PancakeSwap AMM exist
 
 2 - Clique na aba “StableSwap”
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (14).png>)
 
 3 - Escolha os pares de tokens que você gostaria de negociar. No lançamento, apenas um par (HAY-BUSD) será adicionado, pares de mais stables serão adicionados gradualmente
 
@@ -38,7 +38,7 @@ Existem algumas diferenças para a liquidez do StableSwap:&#x20;
 
 4 - No entanto, OBSERVE que ao remover a liquidez, você sempre obterá 50%/50% dos ativos, independentemente da proporção de quando você adicionou. Como exemplo simplificado, se você forneceu 199 HAY e 1 BUSD, ao remover a liquidez, você receberá 100 HAY e 100 BUSD assumindo 0 de slippage/derrapagem e preços estáveis de 1:1.
 
-![](<../../.gitbook/assets/image (3) (2).png>)
+![](<../../.gitbook/assets/image (3).png>)
 
 ## Migre seu Stake de Farm HAY-BUSD&#x20;
 
@@ -66,7 +66,7 @@ Haverá uma janela de 24 horas a partir do lançamento do StableSwap e antes que
 
 3 - Adicione liquidez novamente para HAY-BUSD (desta vez você deve ver que está adicionando no Stable LP durante o processo)
 
-![](<../../.gitbook/assets/image (2) (1).png>)
+![](<../../.gitbook/assets/image (2) (5).png>)
 
 4 - Coloque seu LP de Stable de HAY-BUSD na [página de farms](https://pancakeswap.finance/farms) - procure o card com o rótulo Stable LP
 
