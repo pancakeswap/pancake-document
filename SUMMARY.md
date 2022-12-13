@@ -123,6 +123,7 @@
   * [Farm Booster (bCAKE)](code/smart-contracts/farm-booster-bcake.md)
   * [IFO Commit Limit (iCAKE)](code/smart-contracts/ifo-commit-limit-icake.md)
   * [Cross Chain Farming](code/smart-contracts/cross-chain-farming.md)
+  * [Cross Chain CAKE Bridging](code/smart-contracts/cross-chain-cake-bridging.md)
 * [Smart Contracts (Aptos)](code/smart-contracts-aptos.md)
 
 ## Hiring
