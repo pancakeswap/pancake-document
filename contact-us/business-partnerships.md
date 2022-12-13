@@ -77,6 +77,12 @@ Due to PancakeSwap’s nature as an AMM-based DEX, we’re not able to prevent t
 
 Check our [Troubleshooting page](../help/troubleshooting.md) for a list of common errors on the exchange, and how to solve them.
 
+### Why some statistics of my tokens are not shown on Info page?
+
+Tokens need to have at least 10 BNB of liquidity in one of the following quoted token pairs for Info page to start indexing your pairs which will update the underlying token.
+
+Pairs must include one of the following: WBNB, BUSD, USDT, USDC, BTCB or ETH
+
 ## Something else
 
 You can shoot us an email at info@pancakeswap.com if the above parts don't cover your questions.
