@@ -10,7 +10,7 @@
 
 请查看我们的[跨链指南](huo-qu-aptos-dai-bi.md)，了解各种跨链解决方案。&#x20;
 
-如果您想要跨链 CAKE 代币，请查看 [CAKE 跨链指南](cake-kua-lian-zhi-nan.md)以获取更多讯息。
+如果您想要跨链 CAKE 代币，请查看 [CAKE 跨链指南](broken-reference)以获取更多讯息。
 
 ### 我应该在Aptos链上使用哪个钱包？&#x20;
 
@@ -70,7 +70,7 @@ PancakeSwap IFO 尚未在 Aptos 上部署。（即将到来！）请继续质押
 
 跨链交易将需要 30 分钟的时间来处理。请耐心等待，您可以在 [LayerZero scan](https://layerzeroscan.com/) 中输入交易的哈希值/ID 来搜索。&#x20;
 
-当第一次将 CAKE 跨链到 Aptos 时，您必须手动领取您的 CAKE。请确保您已经启用了 "Gas on destination （目的地支付 gas）" ，并且您的 Aptos 地址有足够的 APT 用于支付 gas。请查看此[指南](cake-kua-lian-zhi-nan.md)，了解跨链的详细步骤。&#x20;
+当第一次将 CAKE 跨链到 Aptos 时，您必须手动领取您的 CAKE。请确保您已经启用了 "Gas on destination （目的地支付 gas）" ，并且您的 Aptos 地址有足够的 APT 用于支付 gas。请查看此[指南](broken-reference)，了解跨链的详细步骤。&#x20;
 
 将 CAKE 跨链到 BNB智能链时，针对部分钱包，您需要手动添加 CAKE 代币合约地址到钱包，才能够检查其余额。
 
