@@ -9,6 +9,7 @@
 * [入门指南(Aptos)](ru-men-zhi-nan-aptos/README.md)
   * [创建钱包](ru-men-zhi-nan-aptos/chuang-jian-qian-bao.md)
   * [获取 Aptos 代币](ru-men-zhi-nan-aptos/huo-qu-aptos-dai-bi.md)
+  * [CAKE 跨链指南](ru-men-zhi-nan-aptos/cake-kua-lian-zhi-nan.md)
   * [连接钱包](ru-men-zhi-nan-aptos/lian-jie-qian-bao.md)
   * [Aptos 常见问题解答](ru-men-zhi-nan-aptos/aptos-chang-jian-wen-ti-jie-da.md)
 * [需要帮助？点我](click-here-for-help/README.md)
