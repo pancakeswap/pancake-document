@@ -13,7 +13,11 @@ To do most things on Aptos Chain, you will need to pay gas, which comes in the f
 You will also need the tokens you want to trade or stake on Aptos Chain. There are a few ways to bring your assets to Aptos Chain, but here are the ones we recommend:
 
 {% tabs %}
-{% tab title="🌉 LayerZero" %}
+{% tab title="🥞 CAKE Bridging" %}
+To Bridge CAKE token between Aptos and BNB Smart chain, use [PancakeSwap Aptos Bridge](https://bridge.pancakeswap.finance/aptos). Check out the [guide](cake-bridging-guide.md) to learn how to use it.
+{% endtab %}
+
+{% tab title="🌉 lz-LayerZero" %}
 ****[**Aptos Bridge - LayerZero**](https://theaptosbridge.com/bridge)****
 
 * The Aptos Bridge allows you to bridge mainstream tokens and stablecoins to Aptos
@@ -28,7 +32,7 @@ Use LayerZero bridge to bridge assets with prefix of **lz**. For example: lzUSDC
 {% endhint %}
 {% endtab %}
 
-{% tab title="🌉 cBridge" %}
+{% tab title="🌉 ce-cBridge" %}
 ****[**cBridge**](https://cbridge.celer.network/1/12360001/)****
 
 * The cBridge allows you to bridge mainstream tokens and stablecoins to Aptos
@@ -44,7 +48,7 @@ Use cBridge to bridge assets with prefix of **ce**. For example: ceUSDC, ceBNB, 
 {% endhint %}
 {% endtab %}
 
-{% tab title="🌉 Wormhole" %}
+{% tab title="🌉 wh-Wormhole" %}
 ****[**Wormhole - Portal Token Bridge**](https://www.portalbridge.com/#/transfer)****
 
 * The Portal Token Bridge allows you to bridge mainstream tokens and stablecoins to Aptos
@@ -58,10 +62,6 @@ Use cBridge to bridge assets with prefix of **ce**. For example: ceUSDC, ceBNB, 
 {% hint style="info" %}
 Use Wormhole bridge to bridge assets with prefix of **wh**. For example: whUSDC, whBUSD, etc...
 {% endhint %}
-{% endtab %}
-
-{% tab title="🥞 CAKE Bridging" %}
-To Bridge CAKE token between Aptos and BNB Smart chain, use [PancakeSwap Aptos Bridge](https://bridge.pancakeswap.finance/aptos). Check out the [guide](cake-bridging-guide.md) to learn how to use it.
 {% endtab %}
 
 {% tab title="💰 Binance.com" %}
