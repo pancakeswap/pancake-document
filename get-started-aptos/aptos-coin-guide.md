@@ -13,13 +13,19 @@ To do most things on Aptos Chain, you will need to pay gas, which comes in the f
 You will also need the tokens you want to trade or stake on Aptos Chain. There are a few ways to bring your assets to Aptos Chain, but here are the ones we recommend:
 
 {% tabs %}
-{% tab title="🌉 Aptos Bridge" %}
+{% tab title="🌉 LayerZero" %}
 ****[**Aptos Bridge - LayerZero**](https://theaptosbridge.com/bridge)****
 
 * The Aptos Bridge allows you to bridge mainstream tokens and stablecoins to Aptos
 * Supports "gas on destination" - receive a tiny amount of Aptos Coin (APT) for gas to kickstart your Aptos chain adventure
 * **⚠️ Note: for now assets are wrapped when bridged.** **(marked as "LayerZero")**\
   ****Before bridging your tokens, be sure to double-check the token list to see which wrapped version of the tokens you are trading.
+
+
+
+{% hint style="info" %}
+Use LayerZero bridge to bridge assets with prefix of **lz**. For example: lzUSDC, lzUSDT, etc...
+{% endhint %}
 {% endtab %}
 
 {% tab title="🌉 cBridge" %}
@@ -30,6 +36,12 @@ You will also need the tokens you want to trade or stake on Aptos Chain. There a
   ****Before bridging your tokens, be sure to double-check the token list to see which wrapped version of the tokens you are trading.
 
 **📖** [**cBridge Tutorial Provided by Celer**](https://cbridge-docs.celer.network/tutorial/cross-chain-transfer)****
+
+
+
+{% hint style="info" %}
+Use cBridge to bridge assets with prefix of **ce**. For example: ceUSDC, ceBNB, etc...
+{% endhint %}
 {% endtab %}
 
 {% tab title="🌉 Wormhole" %}
@@ -40,6 +52,12 @@ You will also need the tokens you want to trade or stake on Aptos Chain. There a
   ****Before bridging your tokens, be sure to double-check the token list to see which wrapped version of the tokens you are trading.
 
 ****[**📖 Tutorial provided by Wormhole**](https://docs.wormhole.com/wormhole/video-tutorial-how-to-use-portal)****
+
+
+
+{% hint style="info" %}
+Use Wormhole bridge to bridge assets with prefix of **wh**. For example: whUSDC, whBUSD, etc...
+{% endhint %}
 {% endtab %}
 
 {% tab title="🥞 CAKE Bridging" %}
