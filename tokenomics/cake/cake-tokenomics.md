@@ -26,13 +26,13 @@ As such, we haven't included it in the above emission rate.
 
 ## Distribution <a href="#distribution" id="distribution"></a>
 
-| Distributed to                | Reward/block (% of emission) | Reward/block (total CAKE) |           Reward/day |
-| ----------------------------- | ---------------------------: | ------------------------: | -------------------: |
-| Farms (BSC+ETH)               |                      \~5.08% |                  \~2.0328 |      58,544 (approx) |
-| Farms (Aptos)                 |                      \~0.19% |                  \~0.0790 |       2,275 (approx) |
-| Lottery                       |                      \~0.35% |                  \~0.1389 |       4,000 (approx) |
-| CAKE Syrup Pool               |                     \~22.25% |                  \~8.9021 |     256,380 (approx) |
-| **Total Daily CAKE Emission** |                              |                           | **321,200 (approx)** |
+| Distributed to                | <p>Reward/block</p><p>(% of emission)</p> | <p>Reward/block</p><p>(total CAKE)</p> |           Reward/day |
+| ----------------------------- | ----------------------------------------: | -------------------------------------: | -------------------: |
+| Farms (BSC+ETH)               |                                   \~5.08% |                               \~2.0328 |      58,544 (approx) |
+| Farms (Aptos)                 |                                   \~0.19% |                               \~0.0790 |       2,275 (approx) |
+| Lottery                       |                                   \~0.35% |                               \~0.1389 |       4,000 (approx) |
+| CAKE Syrup Pool               |                                  \~22.25% |                               \~8.9021 |     256,380 (approx) |
+| **Total Daily CAKE Emission** |                                           |                                        | **321,200 (approx)** |
 
 ## **Other Deflationary Mechanics** <a href="#other-deflationary-mechanics" id="other-deflationary-mechanics"></a>
 
@@ -42,7 +42,7 @@ The burning process is currently manual. [View burn transactions here](https://b
 
 As well as the above, CAKE is also burned in the following ways:
 
-* **0.0575%** of every trade made on PancakeSwap V2:
+* **0.0575%** of every trade made on PancakeSwap V2 across:
   * BNB Smart Chain
   * Ethereum
   * Aptos
