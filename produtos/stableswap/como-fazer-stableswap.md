@@ -26,11 +26,11 @@ Existem algumas diferenças para a liquidez do StableSwap:&#x20;
 
 1 - Quando você seleciona os pares de ativos que estão habilitados para StableSwap (por exemplo, HAY-BUSD), o frontend solicitará que você forneça “LP de Stable”
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (7) (1).png>)
 
 2 - O fornecimento dos dois ativos pode estar desequilibrado na fase de fornecimento, existindo uma página de confirmação para mostrar a proporção do seu fornecimento.
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (10) (4).png>)
 
 3 - Você receberia um token Stable-LP como recibo do fornecimento de liquidez, para futuro saque e remoção.
 

@@ -53,7 +53,7 @@ Você pode encontrar informações mais detalhadas sobre cada carteira abaixo, b
 
 {% tabs %}
 {% tab title="Petra" %}
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 A carteira Petra é uma extensão que permite explorar a Aptos no seu navegador.&#x20;
 
@@ -108,7 +108,7 @@ A Pontem Wallet é uma carteira na Aptos Chain que permite armazenar, enviar, re
 {% endtab %}
 
 {% tab title="Fewcha" %}
-<figure><img src="../.gitbook/assets/image (2) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Atualmente, a carteira Fewcha tem um problema com a importação de chaves privadas. Recomendo experimentar outras carteiras por enquanto.
@@ -213,7 +213,7 @@ Blocto oferece uma solução amigável e um pacote completo para usar Dapps e ge
 
 1 - Configure inserindo seu endereço de e-mail. Em seguida, digite a senha de uso único recebida por e-mail.
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (4).png>)
 
 ![](<../.gitbook/assets/image (26).png>)
 
@@ -225,9 +225,9 @@ Blocto oferece uma solução amigável e um pacote completo para usar Dapps e ge
 
 3 - Pronto! Agora você pode depositar o APT na carteira Aptos e começar a usar **a** PancakeSwap na Aptos acessando a página "Descobrir"!
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (13) (4).png>)
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (9) (1).png>)
 {% endtab %}
 {% endtabs %}
 

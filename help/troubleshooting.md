@@ -93,7 +93,7 @@ Vá para o contrato do token LP que você está tentando aprovar. Por exemplo, a
 2. No **5. balanceOf**, coloque seu endereço de carteira e clique **Query**.
 3. Acompanhe o número que é exportado. Ele mostra seu saldo no LP no formato uint256, que você precisará na próxima etapa.
 
-![](<../.gitbook/assets/image (7) (1).png>)
+![](<../.gitbook/assets/image (7) (1) (1).png>)
 
 **Adicione ou Remova Liquidez**
 

@@ -30,7 +30,7 @@ Se você já estiver fazendo stake no farm que deseja ativar o booster de farm, 
 
 Clique em "Migrate/Migrar" e siga o guia passo a passo para concluir as migrações. Suas recompensas de CAKE serão colhidas automaticamente e enviadas para sua carteira.
 
-### ![](<../../../.gitbook/assets/image (9) (1).png>) <a href="#activate-boosters" id="activate-boosters"></a>
+### ![](<../../../.gitbook/assets/image (9) (1) (2).png>) <a href="#activate-boosters" id="activate-boosters"></a>
 
 ## Ative o Impulsionamento
 
