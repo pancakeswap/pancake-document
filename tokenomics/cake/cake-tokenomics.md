@@ -1,6 +1,6 @@
 # CAKE Tokenomics
 
-![](../../.gitbook/assets/220811-en.png)
+![](../../.gitbook/assets/221219-en.png)
 
 ## **Emission rate** <a href="#emission-rate" id="emission-rate"></a>
 
@@ -28,9 +28,10 @@ As such, we haven't included it in the above emission rate.
 
 | Distributed to                | Reward/block (% of emission) | Reward/block (total CAKE) |           Reward/day |
 | ----------------------------- | ---------------------------: | ------------------------: | -------------------: |
-| Farms                         |                      \~5.03% |                  \~2.0138 |      58,000 (approx) |
+| Farms (BSC+ETH)               |                      \~5.08% |                  \~2.0328 |      58,544 (approx) |
+| Farms (Aptos)                 |                      \~0.19% |                  \~0.0790 |       2,275 (approx) |
 | Lottery                       |                      \~0.35% |                  \~0.1389 |       4,000 (approx) |
-| CAKE Syrup Pool               |                      \~22.5% |                       \~9 |     259,200 (approx) |
+| CAKE Syrup Pool               |                     \~22.25% |                  \~8.9021 |     256,380 (approx) |
 | **Total Daily CAKE Emission** |                              |                           | **321,200 (approx)** |
 
 ## **Other Deflationary Mechanics** <a href="#other-deflationary-mechanics" id="other-deflationary-mechanics"></a>
@@ -41,14 +42,18 @@ The burning process is currently manual. [View burn transactions here](https://b
 
 As well as the above, CAKE is also burned in the following ways:
 
-* **0.0575%** of every trade made on PancakeSwap V2
+* **0.0575%** of every trade made on PancakeSwap V2:
+  * BNB Smart Chain
+  * Ethereum
+  * Aptos
+* **0.016%\~0.06%** of every trade made on PancakeSwap StableSwap
 * **100%** of CAKE sent to the Dev address
 * **100%** of CAKE performance fees from IFOs
 * **100%** of CAKE spent on Profile Creation and NFT minting
 * **100%** of CAKE bid during Farm Auctions
 * **20%** of CAKE spent on lottery tickets
 * **20%** of all profits from Perpetual Trading
-* **45,000** CAKE per day (historically assigned to the lottery)
+* **8%** of the Pottery prize pot distributed each week
 * **3%** of every BNB Prediction markets round is used to buy CAKE for burning
 * **3%** of every CAKE Prediction markets round
 * **2%** of every yield harvest from all the flexible staking positions in CAKE pool
