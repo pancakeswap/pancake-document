@@ -8,17 +8,21 @@ Você pode pular para os artigos de entrevistas com os chefes clicando no nome d
 
 🐰 [Chef Snowball](https://medium.com/pancakeswap/kitchen-interviews-chef-snowball-the-big-fluffy-boss-guiding-the-fellow-bunnies-afa8dfeca887) -  Chefe Princial
 
-🐰 Chef Cadbury - Gerente de Projeto
+🐰 Chef Mochi - Gerente de Produto
 
-🐰 Chef Bun - Gerente de Projeto, 不是饺子 ([Twitter](http://twitter.com/chef\_bun\_pcs))
+🐰 Chef Cadbury - Gerente de Produto
 
-🐰 Chef Taro - Dev de Negócios
+🐰 Chef Bun - Gerente de Produto, 不是饺子 ([Twitter](http://twitter.com/chef\_bun\_pcs))
 
 🐰 Chef Pepper - Dev de Negócios
 
 🐰 Chef Icy - Business Dev, 80% Coelho 20% Robô
 
 🐰 Chef Lime - Dev de análise de Data/Ops&#x20;
+
+🐰 Chef Mustard - Ops
+
+🐰 Chef Kiwi - Analista de Dados
 
 🐰 Chef Jojo - Dev de Frontend ([Twitter](https://twitter.com/0xchefjojo))
 
@@ -34,6 +38,8 @@ Você pode pular para os artigos de entrevistas com os chefes clicando no nome d
 
 🐰 Chef Rabbid - Dev de Solidity
 
+🐰 Chef Ruby - QA
+
 🐰 [Chef Cecy](https://medium.com/pancakeswap/kitchen-interviews-chef-cecy-the-magical-3d-artist-making-fluffy-bunnies-e1eda53742f3) - Artista 3D ([Twitter](https://twitter.com/Cecymeade))
 
 🐰 Chef Yuna - Designer de UI/UX ([Twitter](https://twitter.com/chefyuna))
@@ -41,3 +47,5 @@ Você pode pular para os artigos de entrevistas com os chefes clicando no nome d
 🐰 Chef Salade - Designer de UI/UX
 
 🐰 [Chef Fran](https://medium.com/pancakeswap/kitchen-interview-chef-fran-spanish-community-manager-and-a-lovely-mate-368c72102093) - Gerente da Comunidade Espanhola ([Twitter](https://twitter.com/ChefFranPS))
+
+🐰 Chef Oreo - Gerente de Comunidade

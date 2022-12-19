@@ -11,7 +11,7 @@
   * [Obter Aptos Coins](inicio-aptos/obter-aptos-coins.md)
   * [Tutorial para fazer bridge de CAKE](inicio-aptos/tutorial-para-fazer-bridge-de-cake.md)
   * [Conecte Sua Carteira na PancakeSwap](inicio-aptos/conecte-sua-carteira-na-pancakeswap.md)
-  * [Aptos FAQ](inicio-aptos/aptos-faq.md)
+  * [Perguntas Frequentes sobre Aptos](inicio-aptos/perguntas-frequentes-sobre-aptos.md)
 * [Clique Aqui para Ajuda](help/README.md)
   * [Soluções de Erros e Problemas](help/troubleshooting.md)
   * [Perguntas Frequentes](help/faq.md)
