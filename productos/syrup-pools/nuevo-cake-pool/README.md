@@ -54,9 +54,9 @@ Deposita tus CAKE por un tiempo fijo para maximizar los rendimientos y recibir b
 * 🎁 Disfrute de todos estos beneficios:
   * 🗳️ Boost para su voting power: [vCAKE](https://docs.pancakeswap.finance/v/espanol/productos/voting/vcake)
   * 🚜 Boost para sus farms: [bCAKE](https://docs.pancakeswap.finance/v/espanol/productos/yield-farming/bcake)
-  * 🛍️ IFO public sale entry: [iCAKE](../../ifo-initial-farm-offering/icake.md)
+  * 🛍️ Acceso a las IFO públicas: [iCAKE](../../ifo-initial-farm-offering/icake.md)
   * ✨ Acceso prioritario y/o eventos especiales
-  * y muchísimo más en nuestraexpansión multichain!
+  * y muchísimo más en nuestra expansión multichain!
 
 **Si tienes CAKE en el Staking a Plazo Fijo**
 
@@ -80,10 +80,7 @@ No. Puedes cosechar las recompensas solo cuando finalice la duración del bloque
 
 ### Puedo usar el staking flexible y a plazo fijo al mismo tiempo?
 
-No. Como se mencionó anteriormente en la sección "Cuál es la diferencia", ambas opciones son parte del mismo pool único. No podrás tener CAKE tanto en el staking a plazo fijo como en el flexbile.
-
-\
-Tenemos múltiples soluciones que vendrán en el futuro para permitir a los usuarios utilizar tanto el staking flexible como a plazo fijo al mismo tiempo, pero por ahora puede elegir solo una de ellos.
+Si, actualmente puedes depositar en uno u otro indistintamente, incluso pasar del flexible a plazo fijo.
 
 ### Qué sucede al final de la duración del bloqueo? ¿Qué es "After Burning"?
 
@@ -98,7 +95,7 @@ o
 
 ![](../../../.gitbook/assets/cake-pool-lock-end.png)
 
-Durante este período de 7 días, aún ganará CAKE al mismo APY que su período de bloqueo.
+Durante este período de 7 días, aún ganará CAKE al mismo APR que su período de bloqueo.
 
 Después de 7 días si no ha realizado una de las dos opciones, su CAKE depositado ingresará lo que se llama "After Burning". En "After Burning" aún ganará CAKE, pero una parte de sus recompensas se enviará a quemar a un APR linealmente decreciente durante 90 días, donde su APR será del 0% después de 90 días.
 
