@@ -30,7 +30,7 @@ Los depósitos se agrupan en series mensuales para un arreglo más eficiente de 
 
 El 80% de las recompensas de Stake se destinarán a financiar el fondo de premios de 10 sorteos semanales y el 20% restante se reservará como recompensas de Stake cuando retire su depósito de CAKE después de 10 semanas.&#x20;
 
-Sin embargo, dado que las recompensas de Stake del Pool bloqueado de CAKE solo se distribuyen después de la duración del bloqueo, 10 semanas en este caso, para una mejor experiencia del producto y para facilitar los sorteos semanales inmediatamente después de la fecha de depósito, el contrato toma prestado el 80% de la Recompensas de Stake totales estimadas de la serie de la tesorería de CAKE en función del APY en el momento del bloqueo. El CAKE prestado se utiliza para el pago de cada sorteo semanal.&#x20;
+Sin embargo, dado que las recompensas de Stake del Pool bloqueado de CAKE solo se distribuyen después de la duración del bloqueo, 10 semanas en este caso, para una mejor experiencia del producto y para facilitar los sorteos semanales inmediatamente después de la fecha de depósito, el contrato toma prestado el 80% de la Recompensas de Stake totales estimadas de la serie de la tesorería de CAKE en función del APR en el momento del bloqueo. El CAKE prestado se utiliza para el pago de cada sorteo semanal.&#x20;
 
 Al final de las 10 semanas, cuando las recompensas del Syrup Pool se distribuyan, primero se reembolsará la tesorería de CAKE, luego el resto se devolverá a la bóveda para que los usuarios lo retiren junto con su depósito inicial en la serie.
 
@@ -38,9 +38,9 @@ Al final de las 10 semanas, cuando las recompensas del Syrup Pool se distribuyan
 
 Por ejemplo, si la serie de Pottery el 1 de agosto de 2022 atrajo 100.000 depósitos de CAKE en total, el rendimiento estimado para 10 semanas de Stake bloqueado es de alrededor de 3674 CAKE. El contrato tomará prestado el 80%, o alrededor de 2940 CAKE, para el pozo de premios de 10 sorteos semanales, es decir, 294 CAKE en premios totales para cada sorteo semanal antes de las tarifas.&#x20;
 
-Es importante tener en cuenta que las recompensas y el APY al final de la duración del depósito pueden cambiar durante la duración de 10 semanas en función de otros depósitos y sus períodos de bloqueo en el Pool de CAKE bloqueado. Puede haber una pequeña desviación de los porcentajes especificados (+/- 10%).&#x20;
+Es importante tener en cuenta que las recompensas y el APR al final de la duración del depósito pueden cambiar durante la duración de 10 semanas en función de otros depósitos y sus períodos de bloqueo en el Pool de CAKE bloqueado. Puede haber una pequeña desviación de los porcentajes especificados (+/- 10%).&#x20;
 
-Todas las recompensas de Stake netas de tarifas se devolverán a los depositantes a través de premios o recompensas. Si el APY real es más bajo que el APY estimado en el momento del bloqueo, significa que se distribuyen más recompensas a los depositantes durante los sorteos semanales y menos para la porción de recompensas de Stake. Si el APY real es más alto que el APY estimado en el momento del bloqueo, se distribuyen menos recompensas a través de los sorteos semanales y se reservan más para las recompensas de Stake disponibles para retiro. En última instancia, el valor resultante es el mismo.
+Todas las recompensas de Stake netas de tarifas se devolverán a los depositantes a través de premios o recompensas. Si el APR real es más bajo que el APR estimado en el momento del bloqueo, significa que se distribuyen más recompensas a los depositantes durante los sorteos semanales y menos para la porción de recompensas de Stake. Si el APR real es más alto que el APR estimado en el momento del bloqueo, se distribuyen menos recompensas a través de los sorteos semanales y se reservan más para las recompensas de Stake disponibles para retiro. En última instancia, el valor resultante es el mismo.
 
 ## Cómo ganar: cálculo de probabilidades
 
