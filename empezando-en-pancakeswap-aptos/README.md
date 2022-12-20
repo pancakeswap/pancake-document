@@ -9,7 +9,7 @@ Empezar a usar algo nuevo puede resultar un poco desafiante. Pero no te preocupe
 Sigue estas guías para dejar todo listo para usar PancakeSwap, o simplemente consulta la guía que necesites si vas bien pero olvidaste algo.
 
 ​[Crea una wallet en Aptos\
-](crea-una-wallet.md)[Consigue tus tokens en la red de Aptos](como-conseguir-aptos-coins.md) \
+](crea-una-wallet.md)[Consigue tus tokens en la red de Aptos](broken-reference) \
 [Conecta tu wallet a PancakeSwap](conecta-tu-wallet-a-pancakeswap.md)​
 
 ​

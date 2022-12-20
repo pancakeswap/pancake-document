@@ -6,7 +6,7 @@ Esta página de FAQ responde a algunas de las preguntas más frecuentes de la co
 
 ### ¿Cómo pasar de BSC (BnB Smart Chain) a Aptos?&#x20;
 
-Revise nuestra [guía sobre los puentes de Aptos](como-conseguir-aptos-coins.md) para varias soluciones.
+Revise nuestra [guía sobre los puentes de Aptos](broken-reference) para varias soluciones.
 
 ### ¿Qué billeteras puedo usar para Aptos Chain?&#x20;
 
