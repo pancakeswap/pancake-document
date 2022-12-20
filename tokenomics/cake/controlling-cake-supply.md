@@ -10,8 +10,8 @@ The chefs aim to **make deflation higher than emission** by building deflationar
 
 ### Reducing block emissions
 
-By reducing the amount of CAKE made per block, we slow inflation. This has already been done once: Since the [first reduction in block emissions](https://voting.pancakeswap.finance/#/pancake/proposal/QmWSQZsqakCMQ1bmcoEsKzStdtdFHL6cohSjnMV9ira1EC), we've already effectively reduced the number of CAKE entering circulation from 40 CAKE per block to 12.75. But we don't want to do this too frequently, too early, we want to still incentivize people to provide liquidity.
+By reducing the amount of CAKE made per block, we slow inflation. This has already been done once: Since the [first reduction in block emissions](https://pancakeswap.finance/voting/proposal/bafkreide2rtzqmwezritljamjswp63si4gpt2i7fo7sxf7p64sjinhhoy4), we've already effectively reduced the number of CAKE entering circulation from 40 CAKE per block to 11.16. But we don't want to do this too frequently, too early, we want to still incentivize people to provide liquidity.
 
 ### Deflationary mechanisms
 
-Regular token burns ([view burn address](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82?a=0x000000000000000000000000000000000000dead)) are built into many of PancakeSwap's products (like a 10% burn of CAKE spent on lottery tickets), with more on the way. Check the [**CAKE Tokenomics page**](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics) for details on present and upcoming deflationary mechanisms.
+Regular token burns ([view burn address](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82?a=0x000000000000000000000000000000000000dead)) are built into many of PancakeSwap's products (like a 20% burn of CAKE spent on lottery tickets), with more on the way. Check the [**CAKE Tokenomics page**](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics) for details on present and upcoming deflationary mechanisms.
