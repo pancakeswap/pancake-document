@@ -44,7 +44,7 @@ This comparison table gives an overview of the most popular mobile wallets used 
 |                            | SafePal                        | Trust Wallet | Blocto |
 | -------------------------- | ------------------------------ | ------------ | ------ |
 | Aptos Chain support        | ✅                              | ✅            | ✅      |
-| Built-in DApp browser      | ✅                              | ✅ (iOS only) | ✅      |
+| Built-in DApp browser      | ✅                              | ✅            | ✅      |
 | Hardware wallet compatible | <p>✅ </p><p>(Only SafePal)</p> | ➖            | ➖      |
 | Open source (auditability) | ➖                              | ✅            | ➖      |
 
@@ -88,8 +88,6 @@ Trust Wallet is a popular wallet for smart devices. It supports DApps, NFT colle
 
 **Cons:**
 
-* Currently only iOS version supports Aptos
-* Language tied to phone settings
 * Limited DApps
 * Transaction notifications can be delayed
 
