@@ -14,8 +14,8 @@ Puede usar la billetera de SafePal para votar en cualquier propuesta abierta en 
 
 1. Haga clic en el botón de conectar billetera en la parte superior de su pantalla (vea la imagen).
 
-![](../../../.gitbook/assets/3)
+![](<../../../.gitbook/assets/3 (1)>)
 
 1. Haga clic en “**Injected**” como billetera. Su billetera ahora estará conectada y ahora puede votar en cualquiera de las propuestas de PancakeSwap.
 
-![](../../../.gitbook/assets/4)
+![](<../../../.gitbook/assets/4 (1)>)

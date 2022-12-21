@@ -1,6 +1,6 @@
 # FAQ Crosschain farming
 
-![](<../../../.gitbook/assets/0 (2)>)
+![](<../../../.gitbook/assets/0 (2) (2)>)
 
 ### **¿Qué puedo hacer en PancakeSwap en otras blockchains?** <a href="#_vp4dabm1sni3" id="_vp4dabm1sni3"></a>
 
