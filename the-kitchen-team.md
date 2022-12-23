@@ -16,7 +16,7 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Pepper - Business Dev
 
-🐰 Chef Icy - Business Dev, 80% Bunny 20% Robot
+🐰 Chef Icy - Business Dev, 80% Bunny 20% Robot ([Twitter](https://twitter.com/PancakeIcy))
 
 🐰 Chef Lime - Ops/Data Analytics Dev
 
