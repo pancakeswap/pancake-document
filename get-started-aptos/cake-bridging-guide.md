@@ -56,9 +56,14 @@ Altering this option might cause bridging to fail.
 
 
 
-7 - Click "Transfer" and approve the transactions from your wallet popup.
+7 - Click "Transfer" to initiate the bridging transaction and confirm via the wallet confirmation pop up.
 
-Please note that multiple wallet confirmations will pop if you are bridging CAKE for the first time. The first confirmation was to enable CAKE on the bridge.
+Please note that depending on the condition on your BNB Smart Chain wallet and Aptos wallet. You may need to approve **multiple** wallet confirmations. For example if you are bridging CAKE to Aptos for the first time, you will need to:
+
+* Approve CAKE spending on the bridging contract (coming from your BNB Smart Chain wallet)
+* Register CAKE (coming from your Aptos wallet)
+
+For more detail please check out [this breakdown](cake-bridging-guide.md#bridging-cake-to-aptos-for-the-first-time).
 
 
 
