@@ -45,6 +45,8 @@
     * [Perguntas Frequentes sobre o Trade de Perpétuos](produtos/pancakeswap-exchange/perpetual-trading/perpetual-trading-faq.md)
 * [🚜 Yield Farming](produtos/yield-farming/README.md)
   * [Como Usar os Farms](produtos/yield-farming/how-to-use-farms.md)
+  * [Farmando na Aptos](produtos/yield-farming/farmando-na-aptos/README.md)
+    * [FAQ](produtos/yield-farming/farmando-na-aptos/faq.md)
   * [Farm Crosschain](produtos/yield-farming/farm-crosschain/README.md)
     * [Perguntas Frequentes](produtos/yield-farming/farm-crosschain/perguntas-frequentes.md)
   * [bCAKE](produtos/yield-farming/bcake/README.md)
