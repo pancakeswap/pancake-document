@@ -46,7 +46,7 @@
 * [🚜 Yield Farming](produtos/yield-farming/README.md)
   * [Como Usar os Farms](produtos/yield-farming/how-to-use-farms.md)
   * [Farmando na Aptos](produtos/yield-farming/farmando-na-aptos/README.md)
-    * [FAQ](produtos/yield-farming/farmando-na-aptos/faq.md)
+    * [Perguntas Frequentes](produtos/yield-farming/farmando-na-aptos/perguntas-frequentes.md)
   * [Farm Crosschain](produtos/yield-farming/farm-crosschain/README.md)
     * [Perguntas Frequentes](produtos/yield-farming/farm-crosschain/perguntas-frequentes.md)
   * [bCAKE](produtos/yield-farming/bcake/README.md)

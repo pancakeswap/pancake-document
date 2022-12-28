@@ -30,7 +30,7 @@ O valor da moeda em "From/De" será estimado automaticamente. Você também pode
 
 5\. Verifique os detalhes e clique no botão **Swap**.
 
-![](<../../.gitbook/assets/image (15).png>)
+![](<../../.gitbook/assets/image (15) (2).png>)
 
 6\. Aparecerá uma janela com mais detalhes. Verifique se os detalhes estão corretos.
 
@@ -40,7 +40,7 @@ Quando estiver pronto, clique no botão **Confirm Swap**. Sua carteira pedirá q
 
 7\. Pronto! Você pode clicar em **Exibir no BscScan** para ver os detalhes da transação no explorer da blockchain.
 
-![](<../../.gitbook/assets/image (17).png>)
+![](<../../.gitbook/assets/image (17) (1).png>)
 
 ## Como é que a minha transação não vai passar?
 

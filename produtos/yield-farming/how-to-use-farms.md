@@ -8,7 +8,7 @@ description: Yield Farming na PancakeSwap é fácil!
 
 O Yield Farm nos Farms é uma ótima maneira de ganhar recompensas de CAKE na PancakeSwap.&#x20;
 
-Ao contrário das Pools de Syrup, os Farms exigem que você faça stake de dois tokens para obter Tokens LP, que você faz stake no Farm para ganhar recompensas. Isso permite que você ganhe CAKE enquanto mantém uma posição em seus outros tokens!!
+Ao contrário das Pools de Syrup, os Farms exigem que você faça stake de **dois tokens** para obter Tokens LP, que você faz stake no Farm para ganhar recompensas. Isso permite que você ganhe CAKE enquanto mantém uma posição em seus outros tokens!!
 
 {% hint style="warning" %}
 Yield Farm pode dar melhores recompensas do que as Pools de Syrup, mas vem com o risco de **Perda Impermanente(Impermanent Loss)**. Não é tão assustador quanto parece, mas vale a pena aprender sobre o conceito antes de começar.&#x20;
@@ -18,9 +18,9 @@ Confira este ótimo [artigo sobre Perda Impermanente da Binance Academy](https:/
 
 ## Preparando-se
 
-A agricultura de rendimento dá um pouco de trabalho para ser configurada.&#x20;
+O farm de rendimento(yield farm) dá um pouco de trabalho para ser configurada.&#x20;
 
-Você vai precisar de alguns "LP Tokens" para entrar em uma Fazenda. As fazendas só podem aceitar seu próprio Token LP exato; por exemplo, a Fazenda CAKE-BNB só aceitará Tokens LP CAKE-BNB.&#x20;
+Você vai precisar de alguns "LP Tokens" para entrar em uma Fazenda. Os Farms só podem aceitar seu próprio Token LP exato; por exemplo, o farm CAKE-BNB só aceitará Tokens LP CAKE-BNB.&#x20;
 
 Para obter o LP Token exato, você precisará fornecer liquidez para esse par de negociação. Portanto, para obter os Tokens LP CAKE-BNB, primeiro você terá que fornecer liquidez para o par CAKE-BNB.&#x20;
 
@@ -30,11 +30,9 @@ Pode parecer intimidante, mas não é muito complicado. Vamos passo a passo.
 
 Antes de prosseguir, você deve escolher um Farm certo para você. [Visite a página dos Farms](https://pancakeswap.finance/farms) e você verá a lista dos Farms disponíveis.
 
-![](https://lh5.googleusercontent.com/oxanafasV3-ifV5DlpPn1enB42kOdyZPOn1VJbtGts\_MTnyaZ9CK0lqYn9CFuZyQuUUqhLr6mIvzPfLFQXN3zrk4tppm\_Y2ESkAWF29sft9gAMgweJqceauttEoJDIhv7Usp\_CqM)
+![](<../../.gitbook/assets/image (24).png>)
 
-CAKE-BNB e BUSD-BNB são fixados no topo da lista com a classificação padrão **Hot**. Após as farms fixadas, o Hot mostrará outras Farms em ordem de quão novas elas são.&#x20;
-
-Você pode escolher outra opção de classificação, se desejar, como por APR para os Farms com a maior taxa de recompensa atualmente.
+Você pode escolher outra opção de classificação, se desejar, como por **APR** para os Farms com a maior taxa de recompensa atualmente.
 
 Quando você encontrar um Farm que gostaria de usar, anote o par de negociação, por exemplo, BNB-CAKE caso precise mais tarde.
 
@@ -45,9 +43,7 @@ Agora que você encontrou um Farm para fazer stake, precisará adicionar liquide
 1. Clique na linha do Farm  que você escolheu na lista. Ele será aberto para mostrar mais detalhes.
 2. À esquerda, você verá alguns links. Clique no link Obter (seu par) LP (**Get (your pair) LP)**.
 
-![](<../../.gitbook/assets/image (153) (1).png>)
-
-Isso abrirá a página Adicionar Liquidez para o par do seu Farm. Temos um [Guia para Adicionar Liquidez](https://docs.pancakeswap.finance/v/portuguese-brazilian/produtos/pancakeswap-exchange/liquidity-guide) que você pode seguir para obter seus LP Tokens.
+![](<../../.gitbook/assets/image (9).png>)
 
 ## Colocando seus LP Tokens no farm
 
@@ -55,46 +51,59 @@ Agora que você tem seus LP Tokens, você está pronto para começar a fazer sta
 
 ### Colocando seus LP Tokens no Farm
 
-1. Vá para a [página dos Farms](https://pancakeswap.finance/farms)  e localizar seu Farm. Clique em qualquer lugar na linha que mostra seu par. Ele será expandido para mostrar mais detalhes.
+1 - Vá para a [página dos Farms](https://pancakeswap.finance/farms)  e localizar seu Farm. Clique em qualquer lugar na linha que mostra seu par. Ele será expandido para mostrar mais detalhes.
 
-![](https://lh4.googleusercontent.com/DbdKZLxqqILLzovnQ752Ed8VFtx3dTh-tZSCfOmQ2BZG7M6hvOLXDzUOYpGFJgNeIbOXBxyryvhhAtXXTppwtOev\_lUqZWikbxLQVJy6kqDz2y3Q360YAVHdLlNkm6yfdNBYi7tQ)
+![](<../../.gitbook/assets/image (26).png>)
 
 Quando estiver pronto, clique no botão **Ativar (Enable)** e confirme sua ação na sua carteira.&#x20;
 
-1. Após uma breve espera, o botão **Ativar (Enable)** mudará para Stake LP. Clique nele e uma nova janela aparecerá..
+2 - Após uma breve espera, o botão **Ativar (Enable)** mudará para Stake LP. Clique nele e uma nova janela aparecerá.
 
-![](https://lh4.googleusercontent.com/Mpwe28bYv8e3EcbtGRq8ni57u\_UlESPz\_nOqdTPXB-RjZ8ThcgWvUWI8nOGbOgo5d-Mvj7\_a6J\_POtIftVWCCXdDCf3RVhcpq7OYDQOuhFtSLNiupMQaaNQLmgSo1aJMWky-F9Jc)
+![](<../../.gitbook/assets/image (19).png>)
 
-Digite a quantidade de LP Tokens com os quais você gostaria de farmar no campo ou apenas clique em **Max** para usar todos os seus LP Tokens.
+3 - Digite a quantidade de LP Tokens com os quais você gostaria de farmar no campo ou apenas clique em **Max** para usar todos os seus LP Tokens.
 
-1. Quando você tiver inserido o valor, o botão Confirmar acenderá. Clique. Sua carteira pedirá que você confirme sua ação.
+![](<../../.gitbook/assets/image (15).png>)
 
-![](https://lh3.googleusercontent.com/s\_699JBPT7pxQXK1sO0tvkyEawbhEIZcd\_QFd8VGq9glynryO1YpNIjoa4s-nUOxiVuEU-DOTjs3NvSAn6\_jfp-ONULDJczNeubeYU8bqlWtpAhkunlG0L184CoxbaDZVZ8t16C3)
+4 - Quando você tiver inserido o valor, o botão Confirmar acenderá. Clique. Sua carteira pedirá que você confirme sua ação.
 
-1. Após uma breve espera, a janela fechará e você verá seu novo saldo de LP Token em stake nos detalhes.
+5 - Após uma breve espera, a janela fechará e você verá seu novo saldo de LP Token em stake nos detalhes.
 
-![](https://lh3.googleusercontent.com/LatVJszaNP2RwYTf-mNod7AmYa5-y1FafJTnY2I4Nk5tnfR\_7d2b44gwRJqMUGSQy8IKS0TAxmUL0LvUQ7urvBNrsPGc-UWay3WRVDeRCQf\_vIM15j\_FTdXfXb6u4b1S57jExq7F)
+![](<../../.gitbook/assets/image (25).png>)
+
+{% hint style="info" %}
+Quando você está realizando farm cross-chain em uma blockchain EVM diferente da BNB Chain. Você precisará aguardar aproximadamente 30 minutos para que as transações cross chain sejam confirmadas.
+
+![](<../../.gitbook/assets/image (17).png>)
+
+Para acompanhar o progresso de uma transação de farm crosschain. Clique no ícone circular ao lado do saldo em stake ou confira a seção "Transação recente" no canto superior direito.
+{% endhint %}
+
+{% hint style="warning" %}
+Quando você está realizando um farm crosschain em uma blockchain EVM diferente da BNB Chain pela primeira vez. Uma pequena quantidade de token nativo (por exemplo, ETH para Ethereum) é necessária para a configuração inicial. Portanto, a primeira transação será um pouco cara.
+{% endhint %}
 
 ## Adicionando ou removendo LP Tokens de um Farm
 
 Você pode decidir que gostaria de adicionar mais LP Tokens a um Farm posteriormente, ou retirar alguns tokens do Farm. Você pode fazer isso facilmente sempre que quiser.
 
-1. Returno para a [página de Yield Farm](https://pancakeswap.finance/farms). No topo da página você verá um botão/chave **Staked only**. Clique na chave.
+1- Returno para a [página de Yield Farm](https://pancakeswap.finance/farms). No topo da página você verá um botão/chave **Staked only**. Clique na chave.
 
 ![](<../../.gitbook/assets/image (34).png>)
 
 Agora você deve ver na lista apenas os pares em que você tem LP Tokens, tornando mais fácil encontrar seu Farm.
 
-1. Encontre o Farm em que você tem Tokens LP e clique na linha para ver os detalhes. Você verá um botão - e + no lado direito. Clique - para remover LP Tokens ou + para adicionar mais LP Tokens
+2 - Encontre o Farm em que você tem Tokens LP e clique na linha para ver os detalhes. Você verá um botão - e + no lado direito. Clique - para remover LP Tokens ou + para adicionar mais LP Tokens
 
 ![](<../../.gitbook/assets/image (102) (2) (2) (1) (1) (1) (1) (1) (1) (1).png>)
 
-1. Uma janela será aberta parecida com a que você usou anteriormente para fazer stake dos seus LP Tokens. Como da última vez, digite o valor que você gostaria de desfazer/colocar em stake, ou clique em Máximo para remover/adicionar todos os LP Tokens disponíveis.
+3 - Uma janela será aberta parecida com a que você usou anteriormente para fazer stake dos seus LP Tokens. Como da última vez, digite o valor que você gostaria de desfazer/colocar em stake, ou clique em Máximo para remover/adicionar todos os LP Tokens disponíveis.
 
 ![](<../../.gitbook/assets/image (33).png>)
 
-1. Verifique se suas informações estão corretas. Quando estiver pronto, clique no botão **Confirmar** e confirme a ação em sua carteira.&#x20;
-2. Após uma breve espera, seu novo saldo aparecerá na seção de detalhes do seu par de Tokens LP. Se você retirou seus LP Tokens, todas as recompensas não coletadas que você tinha serão automaticamente coletadas para sua carteira.
+4 - Verifique se suas informações estão corretas. Quando estiver pronto, clique no botão **Confirmar** e confirme a ação em sua carteira.&#x20;
+
+5 - Após uma breve espera, seu novo saldo aparecerá na seção de detalhes do seu par de Tokens LP. Se você retirou seus LP Tokens, todas as recompensas não coletadas que você tinha serão automaticamente coletadas para sua carteira.
 
 ## Coletando as recompensas do seu Farm
 
@@ -106,12 +115,21 @@ Você pode coletar suas recompensas de Farm e Pool de Syrup juntos na página in
 
 Para coletar suas recompensas, você precisará visitar o Farm escolhido e coletar o CAKE que está esperando por você.
 
-1. &#x20;Retorne à página dos Farms [aqui](https://pancakeswap.finance/farms).&#x20;
-2. Encontre o Farm no qual você fez stake de seus Tokens LP e clique na linha para ver os detalhes. Você deve ver uma estimativa de suas recompensas em "CAKE ganho".
+1 -  Retorne à página dos Farms [aqui](https://pancakeswap.finance/farms).&#x20;
 
-![](https://lh5.googleusercontent.com/nBfqNjKcuqvj-LhW76CPmV2pyGS-SwGsf1U\_9top7OS7wnl24xQRzudcOgZbQvNc0P8rQetAU9\_52mB9TatXqyMcdCRyMk0nRzel8BqWPGNyiTBGB8Z-c3LcHTJVXaAb5CWyD5J4)
+2 - Encontre o Farm no qual você fez stake de seus Tokens LP e clique na linha para ver os detalhes. Você deve ver uma estimativa de suas recompensas em "CAKE ganho".
 
-1. Clique no botão **Coletar (Harvest)** e confirme a ação em sua carteira. Após uma breve espera, o CAKE será sacado para sua carteira para você usar como quiser.
+![](<../../.gitbook/assets/image (13).png>)
+
+3 - Clique no botão **Coletar (Harvest)** e confirme a ação em sua carteira. Após uma breve espera, o CAKE será sacado para sua carteira para você usar como quiser.
+
+{% hint style="info" %}
+Quando você está realizando farm crosschain em uma blockchain EVM diferente da BNB Chain. Você sempre precisará mudar para o BNB Smart Chain para colher suas recompensas de farm.&#x20;
+
+Se a sua carteira não suportar troca de chain. Fazendo stake ou removendo stake seus tokens LP vão sempre colher seu CAKE. Observe que o CAKE colhido será distribuído na BNB Smart Chain.
+
+![](<../../.gitbook/assets/image (20).png>)
+{% endhint %}
 
 ### Com qual frequência devo sacar minhas recompensas?
 
