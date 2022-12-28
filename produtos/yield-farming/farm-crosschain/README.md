@@ -17,3 +17,5 @@ O Yield Farm pode dar melhores recompensas do que as Pools de Syrup, mas vem com
 
 Confira este ótimo [artigo sobre Impermanent Loss](https://academy.binance.com/pt/articles/impermanent-loss-explained) da Binance Academy para saber mais.
 {% endhint %}
+
+O farm Crosschain da PancakeSwap é alimentada pelo serviço de mensagens cross-chain fornecido pela Celer Network. Para saber mais, visite: https://www.celer.network/

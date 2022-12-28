@@ -1,5 +1,5 @@
-# Analytics
+# Análise
 
 ![](<../../.gitbook/assets/image (156) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
-View PancakeSwap's native analytics site here: [https://pancakeswap.info](https://pancakeswap.info)
+Visite o site de análise de dados nativo da PancakeSwap aqui: [https://pancakeswap.info](https://pancakeswap.info)

@@ -30,7 +30,7 @@ O valor da moeda em "From/De" será estimado automaticamente. Você também pode
 
 5\. Verifique os detalhes e clique no botão **Swap**.
 
-![](<../../.gitbook/assets/image (15) (2).png>)
+![](<../../.gitbook/assets/image (15).png>)
 
 6\. Aparecerá uma janela com mais detalhes. Verifique se os detalhes estão corretos.
 

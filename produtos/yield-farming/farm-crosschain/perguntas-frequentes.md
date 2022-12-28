@@ -14,6 +14,8 @@ Sim, mas estaremos implantando em etapas para garantir que priorizamos a seguran
 
 Uma pequena quantidade de token nativo (por exemplo, ETH para Ethereum) é necessária para a primeira configuração. Portanto, a primeira transação será um pouco cara.
 
+Além disso, existem outras taxas (principalmente custos de gás) envolvidas no farm crosschain. Confira e[sta seção ](https://docs.pancakeswap.finance/v/portuguese-brazilian/produtos/yield-farming/farm-crosschain/perguntas-frequentes#ha-alguma-taxa-quando-faco-farm-crosschain)dedicada para saber mais.
+
 ### Por que fazer e desfazer o stake leva 30 minutos para ser concluído?
 
 Todas as transações de crosschain levarão cerca de 30 minutos para serem concluídas. É porque:&#x20;
@@ -54,11 +56,28 @@ Quando os usuários retiram tokens LP. Um executor realizará as transações fi
 
 Esta taxa é cobrada apenas em transações de saque.
 
-**4 - Taxax de mensagem Cross-chain**
+**4 - Taxa de mensagem Cross-chain**
 
 Utilizamos um barramento de mensagens alimentado pelo Celer(Celer message bus) para rotear nossas mensagens crosschain. Portanto, uma taxa de mensagens é incluída com base no comprimento de bytes da mensagem.&#x20;
 
 Esta taxa é cobrada em cada transação de stake. Em transações de desbloqueio, essa taxa é cobrada duas vezes, pois é necessária uma comunicação bidirecional entre a BNB Chain e outras blockchains por segurança.
+
+```
+messagingFee = feeBase + message.length * feePerByte;
+```
+
+Você pode encontrar as variáveis na fórmula no contrato bus da mensagem:
+
+* Ethereum: `0x4066d196a423b2b3b8b054f4f40efb47a74e200c`
+* BNB Chain: `0x95714818fdd7a5454f73da9c777b3ee6ebaeea6b`
+
+**5 - O fundo inicial**&#x20;
+
+Isso não é estritamente uma "taxa".&#x20;
+
+Para cada novo usuário que começou a fazer farm crosschain na PancakeSwap, na primeira transação de “stake”, depositaremos 0,005 BNB em sua carteira BNB Chain. A quantidade correspondente de tokens nativos na chai do farm (como ETH no Ethereum) será cobrada da transação de depósito, usando a taxa de mercado fornecida pelo oráculo de preços.&#x20;
+
+Isso é para ajudar os usuários a iniciar sua jornada na BNB Chain com facilidade. Entendemos a dor de ter todo o CAKE colhido, mas não poder explorar o vívido ecossistema da PancakeSwap sem encontrar outra maneira de adquirir BNB para gás. Esta taxa é cobrada apenas uma vez na primeira transação de "stake".
 
 ### De onde vêm as emissões?
 

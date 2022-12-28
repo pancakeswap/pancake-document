@@ -1,5 +1,5 @@
-# 🖼 NFT Profile System
+# 🖼 Sistema de Perfis de NFT
 
 ![](../../.gitbook/assets/nft-profiles-header.png)
 
-PancakeSwap supports personalized profiles for users. These profiles allow you to choose your own name, join a team, and choose from NFT profile images you've collected to use as your profile's display picture.
+PancakeSwap oferece suporte a perfis personalizados para usuários. Esses perfis permitem que você escolha seu próprio nome, junte-se a uma equipe e escolha entre as imagens de perfil em NFT que você coletou para usar como imagem de exibição do seu perfil.

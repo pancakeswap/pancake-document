@@ -8,17 +8,20 @@ O StableSwap é uma implementação do AMM da Curve Finance na PancakeSwap. Ele 
 
 Quando você faz uma troca de token (negociação) no StableSwap, você paga uma taxa de 0,04% de taxas de negociação, que é menor do que os 0,25% normais no PancakeSwap AMM normal. A atribuição de taxas é dividida da seguinte forma:
 
-* 0.02% para o LP como recompensa (50%)
-* 0.016% para recompra e queima de CAKE (40%)
-* 0.004% para o tesouro da PancakeSwap (10%)
 
-No lançamento, a Cozinha lançará os pares de StableSwap gradualmente para testar e melhorar ainda mais o produto. O primeiro par a ser lançado será **HAY-BUSD**.
 
-​[**HAY**](https://helio.money/) **** da Helio Protocol é uma stablecoin algorítmica totalmente descentralizada baseada no BNB como colateral. As razões pelas quais o par HAY-BUSD é selecionado como o primeiro são:
+* 50% para o LP como recompensa&#x20;
+* 40% para recompra e queima de CAKE
+* 10% para o tesouro da PancakeSwap&#x20;
 
-* Ser um dos primeiros grandes locais de negociação para a HAY absorver o volume extra
-* Como o HAY foi lançado recentemente (meados de agosto de 2022) em comparação com outras stablecoins, o volume e o impacto operacional da transferência de liquidez são mais gerenciáveis para o lançamento do produto StableSwap
-* Com base no progresso deste par e no feedback da comunidade, a Cozinha pode adicionar gradualmente outros pares de stable
+| Pares de Stable | Taxas do Trade | Recompensas para o LP | Recompra de CAKE | Tesouro da PancakeSwap  |
+| --------------- | -------------- | --------------------- | ---------------- | ----------------------- |
+| USDT-BUSD       | 0.15%          | 0.075%                | 0.06%            | 0.015%                  |
+| USDC-BUSD       | 0.15%          | 0.075%                | 0.06%            | 0.015%                  |
+| USDC-USDT       | 0.15%          | 0.075%                | 0.06%            | 0.015%                  |
+| HAY-BUSD        | 0.04%          | 0.02%                 | 0.016%           | 0.004%                  |
+
+A Cozinha lançará gradualmente os pares StableSwap e revisará as taxas para testar e melhorar ainda mais o produto.
 
 ## Por que devo usar o StableSwap em vez do swap AMM normal?
 
@@ -26,7 +29,7 @@ No lançamento, a Cozinha lançará os pares de StableSwap gradualmente para tes
 * Com a função StableSwap, a slippage/derrapagem de negociação é menor do que o AMM normal, que usa apenas a fórmula do produto constante
 * As taxas de negociação também são mais baixas em comparação com o AMM normal.
 
-## Quais são alguns dos recursos que a cozinha ainda está consertando e cozinhando?
+## Ainda Cozinhando
 
 * Melhores guias sobre interface do usuário em relação a StableSwap e LPs estáveis
 * Página de informações do StableSwap
@@ -34,5 +37,22 @@ No lançamento, a Cozinha lançará os pares de StableSwap gradualmente para tes
 
 ## Linha do Tempo <a href="#timeline" id="timeline"></a>
 
-* Lançamento do StableSwap e fornecimento de liquidez HAY-BUSD habilitada: 22 de setembro de 2022 11:00 UTC&#x20;
-* Migração do farm (recompensas de CAKE redirecionadas do Farm de LP de HAY-BUSD para Farm de LP de Stable de HAY-BUSD): 23 de setembro de 2022 11:00 UTC
+* USDC-BUSD, USDT-BUSD, USDC-USDT fornecimento de liquidez liberada: **Nov 30 2022 11:00 UTC**
+* Migração do Farm (Recopmensas de CAKE redirecionada dos farms de LP USDC-BUSD, USDT-BUSD, USDC-USDT para os Farms LP de Stable USDC-BUSD, USDT-BUSD, USDC-USDT): TBD
+
+## Perguntas frequentes sobre o lançamento do Stablepool em 30 de novembro&#x20;
+
+O que aconteceu com os novos Stablepools?&#x20;
+
+* Encontramos um pequeno problema com o parâmetro de taxa&#x20;
+* Isso resultou na incapacidade de remover liquidez em 50%/50% devido a taxas administrativas mais altas&#x20;
+
+Principais atualizações:&#x20;
+
+* Seus fundos estão seguros&#x20;
+* Revertemos o FE e o revertemos para a versão anterior antes das novas pools&#x20;
+* As taxas serão reembolsadas para todos os provedores de LP ativos na pool&#x20;
+* Enquanto isso, os chefs estão trabalhando em uma solução. Depois de implantado, você poderá gerenciar seu LP de stable&#x20;
+* A migração do farm será atrasada até que a correção seja implantada&#x20;
+
+Continuaremos a fornecer atualizações aqui assim que pudermos.

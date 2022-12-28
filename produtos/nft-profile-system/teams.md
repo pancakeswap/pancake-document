@@ -1,7 +1,7 @@
-# Teams
+# Equipes
 
 ![](../../.gitbook/assets/teams-header.png)
 
-Being part of a team lets you join in on team events and earn CAKE and unique rewards such as NFTs and achievements.
+Fazer parte de uma equipe permite que você participe de eventos de equipe e ganhe CAKE e recompensas exclusivas, como NFTs e conquistas.&#x20;
 
-You can choose your team as part of the Profile setup process.
+Você pode escolher sua equipe como parte do processo de configuração do seu perfil.

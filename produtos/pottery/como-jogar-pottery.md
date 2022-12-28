@@ -20,7 +20,7 @@ O depósito para cada grupo de Pottery é aberto uma vez por mês. O depósito f
 
 – o que significa que o depósito está atualmente fechado até a próxima primeira segunda-feira mensal. Se o depósito estiver aberto, você verá isso:&#x20;
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (3).png>)
 
 – Nesse caso, você pode depositar seu CAKE para participar do Pottery se o APY, o valor total bloqueado e as chances de ganhar forem aceitáveis para você. Antes de depositar, certifique-se de entender completamente os riscos de participar! Todos os depósitos serão bloqueados por 10 semanas sem retirada antecipada em nenhuma circunstância. Por favor, saiba mais sobre [os riscos e taxas aqui](https://docs.pancakeswap.finance/v/portuguese-brazilian/products/pottery).
 

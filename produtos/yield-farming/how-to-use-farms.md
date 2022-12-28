@@ -30,7 +30,7 @@ Pode parecer intimidante, mas não é muito complicado. Vamos passo a passo.
 
 Antes de prosseguir, você deve escolher um Farm certo para você. [Visite a página dos Farms](https://pancakeswap.finance/farms) e você verá a lista dos Farms disponíveis.
 
-![](<../../.gitbook/assets/image (24).png>)
+![](<../../.gitbook/assets/image (4).png>)
 
 Você pode escolher outra opção de classificação, se desejar, como por **APR** para os Farms com a maior taxa de recompensa atualmente.
 
@@ -53,28 +53,28 @@ Agora que você tem seus LP Tokens, você está pronto para começar a fazer sta
 
 1 - Vá para a [página dos Farms](https://pancakeswap.finance/farms)  e localizar seu Farm. Clique em qualquer lugar na linha que mostra seu par. Ele será expandido para mostrar mais detalhes.
 
-![](<../../.gitbook/assets/image (26).png>)
+![](<../../.gitbook/assets/image (3).png>)
 
 Quando estiver pronto, clique no botão **Ativar (Enable)** e confirme sua ação na sua carteira.&#x20;
 
 2 - Após uma breve espera, o botão **Ativar (Enable)** mudará para Stake LP. Clique nele e uma nova janela aparecerá.
 
-![](<../../.gitbook/assets/image (19).png>)
+![](<../../.gitbook/assets/image (20).png>)
 
 3 - Digite a quantidade de LP Tokens com os quais você gostaria de farmar no campo ou apenas clique em **Max** para usar todos os seus LP Tokens.
 
-![](<../../.gitbook/assets/image (15).png>)
+![](<../../.gitbook/assets/image (8).png>)
 
 4 - Quando você tiver inserido o valor, o botão Confirmar acenderá. Clique. Sua carteira pedirá que você confirme sua ação.
 
 5 - Após uma breve espera, a janela fechará e você verá seu novo saldo de LP Token em stake nos detalhes.
 
-![](<../../.gitbook/assets/image (25).png>)
+![](../../.gitbook/assets/image.png)
 
 {% hint style="info" %}
 Quando você está realizando farm cross-chain em uma blockchain EVM diferente da BNB Chain. Você precisará aguardar aproximadamente 30 minutos para que as transações cross chain sejam confirmadas.
 
-![](<../../.gitbook/assets/image (17).png>)
+![](<../../.gitbook/assets/image (19).png>)
 
 Para acompanhar o progresso de uma transação de farm crosschain. Clique no ícone circular ao lado do saldo em stake ou confira a seção "Transação recente" no canto superior direito.
 {% endhint %}
@@ -119,7 +119,7 @@ Para coletar suas recompensas, você precisará visitar o Farm escolhido e colet
 
 2 - Encontre o Farm no qual você fez stake de seus Tokens LP e clique na linha para ver os detalhes. Você deve ver uma estimativa de suas recompensas em "CAKE ganho".
 
-![](<../../.gitbook/assets/image (13).png>)
+![](<../../.gitbook/assets/image (2).png>)
 
 3 - Clique no botão **Coletar (Harvest)** e confirme a ação em sua carteira. Após uma breve espera, o CAKE será sacado para sua carteira para você usar como quiser.
 
@@ -128,7 +128,7 @@ Quando você está realizando farm crosschain em uma blockchain EVM diferente da
 
 Se a sua carteira não suportar troca de chain. Fazendo stake ou removendo stake seus tokens LP vão sempre colher seu CAKE. Observe que o CAKE colhido será distribuído na BNB Smart Chain.
 
-![](<../../.gitbook/assets/image (20).png>)
+![](<../../.gitbook/assets/image (5).png>)
 {% endhint %}
 
 ### Com qual frequência devo sacar minhas recompensas?

@@ -1,5 +1,7 @@
 # Nova Pool de Syrup de  CAKE
 
+## Faça stake de CAKE, Ganhe CAKE!
+
 A PancakeSwap agora oferece uma Pool de Syrup de CAKE com duas opções de stake: stake flexível ou stake de prazo fixo. Observe que as pools Auto de  CAKE, IFO CAKE e Manual CAKE foram retirados após o lançamento da nova Pool de Syrup de CAKE com stake flexível e de prazo fixo. Continue lendo para saber mais!
 
 ![Observe que os valores reais de APY vão variar](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2Fgit-blob-0171fbdc2020af82cef4220b41d02c155865cfa3%2Fcake-pool-enabled1.png?alt=media)
@@ -36,7 +38,7 @@ Faça stake do seu CAKE e esqueça! O CAKE que você faz stake nesta Pool de Syr
 * **2%, subtraído automaticamente de cada saque de rendimento**.
 * Por exemplo, se a colheita foi de 1 CAKE, então 0,02 CAKE seria subtraído como taxa de performance.
 
-O CAKE coletado por meio da taxa de saque e da taxa de performance é queimado toda semana como parte das queimas regulares de token CAKE.
+O CAKE coletado por meio da taxa de saque e da taxa de performance é **queimado toda semana** como parte das queimas regulares de token CAKE.
 
 Isso é bom para os holders de CAKE porque reduz a quantidade total de tokens CAKE existentes, o que ajuda a reduzir a inflação.
 
@@ -49,13 +51,19 @@ Faça stake de seu CAKE por um período fixo de tempo para maximizar os rendimen
 * As recompensas de CAKE são reinvestidas automaticamente e serão desbloqueados, juntamente com o CAKE depositado em stake, quando a duração do bloqueio expirar.
 * Uma vez feito o stake de prazo fixo, você não pode retirar até o final da duração do bloqueio.
 * O crédito de IFO CAKE (o valor máximo de CAKE que eles podem comprometer durante um IFO) será determinado a partir do stake na pool de prazo fixo&#x20;
+* 🎁 Aproveite vantagens como:
+  * 🗳️ Poder de votação aumentado: [vCAKE](https://docs.pancakeswap.finance/v/portuguese-brazilian/produtos/voting/vcake)&#x20;
+  * 🚜 Rendimentos de farms aumentados: [bCAKE](https://docs.pancakeswap.finance/v/portuguese-brazilian/produtos/yield-farming/bcake)&#x20;
+  * 🛍️ Entrada na venda pública de IFO: [iCAKE](https://docs.pancakeswap.finance/v/portuguese-brazilian/produtos/ifo-oferta-inicial-de-farm/icake)&#x20;
+  * ✨ Acesso prioritário ou eventos especiais&#x20;
+  * e muito mais em nossa contínua expansão multichain!
 
 **Se você tem CAKE bloqueado no stake de prazo fixo**
 
 * ✅ Adicionar mais CAKE
 * ✅ Estender o período de bloqueio
-* ❌ Adicionar CAKE no stake flexível
+* ✅ Faça stake flexível de CAKE na side pool
 * ❌ Sacar os rendimentos
 * ❌ Sacar antes do término do tempo de bloqueio&#x20;
 
-Os chefs estão preparando benefícios adicionais na cozinha para o segundo trimestre!
+_\*página atualiza em: 05/12/2022_

@@ -10,13 +10,9 @@ A negociação no StableSwap é muito semelhante ao uso do PancakeSwap AMM exist
 
 2 - Clique na aba “StableSwap”
 
-![](<../../.gitbook/assets/image (14).png>)
+3 - Marque a caixa “Use Stableswap para taxas mais baixas”. Nosso [Smart Router](../pancakeswap-exchange/smart-router/) gerará as melhores taxas possíveis para o Swap.
 
-3 - Escolha os pares de tokens que você gostaria de negociar. No lançamento, apenas um par (HAY-BUSD) será adicionado, pares de mais stables serão adicionados gradualmente
-
-![](<../../.gitbook/assets/image (5) (3).png>)
-
-4 - A partir deste passo, o processo de swap é o mesmo da PancakeSwap normal! Por favor, verifique o guia [aqui](https://docs.pancakeswap.finance/v/portuguese-brazilian/produtos/pancakeswap-exchange/trade-guide) a partir do passo 4 em diante
+4 - Tudo pronto! O processo seguinte do Swap é o mesmo de sempre! Se é a primeira vez que negocia, verifique o guia [aqui](../pancakeswap-exchange/trade-guide.md).
 
 ## Adicionando e removendo liquidez
 
@@ -38,25 +34,32 @@ Existem algumas diferenças para a liquidez do StableSwap:&#x20;
 
 4 - No entanto, OBSERVE que ao remover a liquidez, você sempre obterá 50%/50% dos ativos, independentemente da proporção de quando você adicionou. Como exemplo simplificado, se você forneceu 199 HAY e 1 BUSD, ao remover a liquidez, você receberá 100 HAY e 100 BUSD assumindo 0 de slippage/derrapagem e preços estáveis de 1:1.
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (3).png>)
 
-## Migre seu Stake de Farm HAY-BUSD&#x20;
+## Migre seu Stake de Farm USDT-BUSD, USDC-BUSD, USDC-USDT&#x20;
 
-Antes do lançamento do StableSwap, a liquidez HAY-BUSD e o farm de LP já estão disponíveis no PancakeSwap em seu swap AMM v2 normal. No entanto, como estamos lançando o HAY-BUSD como o primeiro par de negociação em nosso StableSwap, é provável que a maioria de vocês que gostaria de negociar este par acabe mudando para o StableSwap em vez de continuar usando o swap v2 AMM, porque:&#x20;
+Antes do lançamento das pools de StableSwap, os seguintes pares de liquidez e LP Farms já estavam disponíveis na PancakeSwap no swap V2 AMM normal:
 
-* Você pode fazer swap de forma mais eficiente com os mesmos passos de negociação&#x20;
-* Com a função StableSwap, a slippage/derrapagem de negociação é menor do que o AMM normal, que usa apenas a fórmula do produto constante&#x20;
+* **HAY-BUSD**&#x20;
+* **USDT-BUSD**&#x20;
+* **USDC-BUSD**&#x20;
+* **USDC-USDT**
+
+O lançamento de pares de negociação no StableSwap vai resultar em:
+
+* Swaps mais eficientes
+* Com a função StableSwap, a slippage/derrapagem de negociação é menor do que o AMM normal
 * As taxas de negociação são mais baixas em comparação com o AMM normal&#x20;
 
-**OBSERVAÇÃO: Se você não estiver farmando com o HAY-BUSD LP, não precisará fazer nenhuma migração.**&#x20;
+**OBSERVAÇÃO: Se você não estiver farmando os pares acima, não precisará fazer nenhuma migração.**&#x20;
 
-**Por que o farm? Por que o staking do farm precisa ser migrado? Staking precisa ser migrado?**&#x20;
+**Por que o staking do farm precisa ser migrado?**&#x20;
 
-Como a maioria das atividades de negociação do HAY-BUSD será no StableSwap usando o Stable LP daqui para frente, os incentivos de CAKE devem ser direcionados para recompensar os participantes do LP de Stable por incentivá-los a fornecer a liquidez. Haveria menos atividade para o LP HAY-BUSD original (com o v2 AMM).
+Como a maioria das atividades de negociação do USDC-BUSD, USDT-BUSD, USDC-USDT & HAY-BUSD serão no StableSwap usando o Stable LP daqui para frente, os incentivos de CAKE devem ser direcionados para recompensar os participantes do LP de Stable por incentivá-los a fornecer a liquidez. Haveria menos atividade para o LPs originais (com o v2 AMM).
 
 ## Como migrar o LP?
 
-Haverá uma janela de 24 horas a partir do lançamento do StableSwap e antes que os incentivos CAKE sejam redirecionados e o novo farm de LP Stable de HAY-BUSD seja lançado. Aqui está o que você deve fazer se estiver atualmente fazendo stake de HAY-BUSD LP no farm:&#x20;
+Haverá uma janela de 24 horas a partir do lançamento do StableSwap e antes que os incentivos CAKE sejam redirecionados e o novo farm de LP Stable de USDC-BUSD, USDT-BUSD, USDC-USDT seja lançado. Aqui está o que você deve fazer se estiver atualmente fazendo stake de USDC-BUSD, USDT-BUSD, USDC-USDT LP no farm:&#x20;
 
 1 - Faça unstake do LP de HAY-BUSD da [página dos farms](https://pancakeswap.finance/farms)
 
@@ -74,6 +77,6 @@ Haverá uma janela de 24 horas a partir do lançamento do StableSwap e antes que
 
 ## Linha do Tempo <a href="#timeline" id="timeline"></a>
 
-* Lançamento do StableSwap e fornecimento de liquidez HAY-BUSD habilitada: 22 de setembro de 2022 11:00 UTC&#x20;
-* Migração do farm (recompensas de CAKE redirecionadas do Farm de LP de HAY-BUSD para Farm de LP de Stable de HAY-BUSD): 23 de setembro de 2022 11:00 UTC
+* Fornecimento de liquidez de USDC-BUSD, USDT-BUSD, USDC-USDT liberada: **30 de** **Nov de 2022 11:00 UTC**
+* Migração do farm (recompensas de CAKE redirecionadas do Farm de LP de USDC-BUSD, USDT-BUSD, USDC-USDT para Farm de LP de Stable de USDC-BUSD, USDT-BUSD, USDC-USDT): **1 de dezembro de 2022 11:00 UTC**
 

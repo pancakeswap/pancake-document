@@ -10,15 +10,9 @@ description: >-
 
 2\. Conecte sua carteira compatível com BNB Smart Chain, cliando no botão **Connect** (canto superior direito).
 
-![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2Fgit-blob-76fa2b75b85741a28f2ee2765447fcac5d6d3ba2%2F2-how-to-stake-in-syrup-pool%20\(1\)%20\(1\)%20\(1\)%20\(2\).png?alt=media)
-
 3\. Escolha sua carteira e conecte.
 
-![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2Fgit-blob-548cf08efdbea00bb65c906f6daab4e0ce27eb2b%2F3-how-to-stake-in-syrup-pool.png?alt=media)
-
 4\. Escolha a Pool de Syrup de CAKE e clique no botão **Enable/habilitar**. sua carteira vai pedir para você confirmar a ação.
-
-![Observe que o APY vai variar](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2Fkx8CkufjZBNcWEp17Ikc%2F3-how-to-stake-in-fixed-pool.png?alt=media\&token=a1b9593e-4383-496a-8d7b-d0da6d1f160d)
 
 5\. O botão **Enable/habilitar** agora deve ser substituído por **Flexible** e Locked. Clique no botão para abrir o menu.
 
@@ -77,7 +71,5 @@ Em 18 de junho de 2022 (6 semanas depois, 4 semanas até que o CAKE do usuário 
 ![Observe que o APY vai variar](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2FVkTwZRA3zK8TcTn1OymX%2F8-how-to-stake-in-fixed-pool.png?alt=media\&token=e7c9ca12-b597-4127-9de4-3ff955b598f3)
 
 2.1. Como alternativa, os usuários podem marcar a caixa ao lado de "Renovar e estender seu bloqueio mantendo benefícios semelhantes", para manter um multiplicador de rendimento semelhante, definindo a duração do bloqueio igual à duração inicial do bloqueio (neste exemplo, 10 semanas).
-
-![Observe que o APY vai variar](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2FAmbXvvZUaOdwe9pBePeo%2F9-how-to-stake-in-fixed-pool.png?alt=media\&token=d9d0d1e8-f740-4ed9-8f81-3a756e323b23)
 
 3\. Verifique novamente para ter certeza de que está de acordo com o valor adicionado de CAKE e a duração do bloqueio e clique em **Confirmar**.
