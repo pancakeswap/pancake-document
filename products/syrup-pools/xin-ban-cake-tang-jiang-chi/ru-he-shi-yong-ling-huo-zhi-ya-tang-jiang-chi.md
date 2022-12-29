@@ -6,10 +6,10 @@
     <figure><img src="../../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 3.  选择您相应的钱包并连接。
 
-    <figure><img src="../../../.gitbook/assets/3 (3).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
 4.  选择 CAKE 糖浆池并单击**启用**按钮。 您的钱包会要求您确认操作。
 
-    <figure><img src="../../../.gitbook/assets/启用.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/启用 (2).png" alt=""><figcaption></figcaption></figure>
 5.  启用按钮现在应该已替换为**灵活**和**锁定**。单击按钮以调出质押菜单。
 
     <figure><img src="../../../.gitbook/assets/微信截图_20220919130645 (1).png" alt=""><figcaption></figcaption></figure>

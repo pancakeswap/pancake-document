@@ -6,9 +6,15 @@ description: PancakeSwap 计划来到 Aptos 链！
 
 <figure><img src=".gitbook/assets/Aptos.png" alt=""><figcaption></figcaption></figure>
 
+我们正在 Aptos 上进行部署，期待与Aptos上的项目团队开启沟通管道，向各位介绍加密货币世界中最大、最火爆、活跃度最高的DApp之一（每月活跃用户超过 300 万）！
+
 我们正在 Aptos 链上進行部署！希望与 Aptos 链上的众多项目团队开启沟通管道，在这里，向各位介绍加密货币世界中最大、最火爆以及活跃度最高的 DApp 之一（每月活跃用户超过 300 万）！
 
 自项目落地以来，PancakeSwap（PCS）在面向用户的 DeFi 领域蓬勃发展，成为了领先的去中心化交易所（DEX），拥有多种行业内领先的产品——流动性池、新币发行、预测、合约产品和 NFT 市场。当然，还有最棒的社区 😉
+
+自项目落地以来，PancakeSwap（PCS）在面向用户的 DeFi 领域蓬勃发展，成为了领先的去中心化交易所（DEX），拥有多种行业内领先的产品——流动性池、新币发行、预测、合约产品和 NFT 市场。当然，还有最棒的社区 😉
+
+此页面可作为面向项目团队的常见Q\&A，帮助您快速了解我们的平台 - 如果您仍有未解答的疑问，请联系我们的**业务发展主管（Business Development）， Chef Icy，透过 Twitter (**[https://twitter.com/PancakeIcy](https://twitter.com/PancakeIcy)**) 或 TG**。
 
 此页面可作为面对项目团队的快速Q\&A，帮助您了解我们 - 但如果您仍有任何未解答的疑惑，请咨询**Chef Icy**，我们的**业务发展主管**，透过 **Twitter (**[**https://twitter.com/PancakeIcy**](https://twitter.com/PancakeIcy)**) 或 TG**。
 
@@ -77,4 +83,4 @@ description: PancakeSwap 计划来到 Aptos 链！
 
 在以上流程的每一步，团队都会不遗余力地为您提供帮助——因为我们知道，对于创始人及其团队而言，IFO 或 TGE 的启动至关重要。
 
-<figure><img src=".gitbook/assets/image2 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image2.png" alt=""><figcaption></figcaption></figure>

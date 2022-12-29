@@ -118,7 +118,7 @@ PancakeSwap 其他智能合约，例如 IFO 和自动 CAKE 糖浆池，同样受
 
 请查看
 
-请查看[ 成为大厨 ](../zhao-pin-xin-xi/cheng-wei-yi-ming-chu-shi/)页面，了解我们正在招聘的职位。
+请查看[ 成为大厨 ](../hiring/cheng-wei-yi-ming-da-chu/)页面，了解我们正在招聘的职位。
 
 同时，我们会在[官方社交频道](../contact-us/telegram.md)公布任何新的招聘信息，请务必关注它们，以便第一时间收到相关信息。
 

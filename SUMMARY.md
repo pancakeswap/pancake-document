@@ -30,7 +30,7 @@
 ## 产品 <a href="#products" id="products"></a>
 
 * [🔄 交易](products/pancakeswap-exchange.md)
-  * [代币交换](products/pancakeswap-exchange/dai-bi-jiao-huan.md)
+  * [代币兑换](products/pancakeswap-exchange/dai-bi-dui-huan.md)
   * [如何进行交易](products/pancakeswap-exchange/ru-he-jin-hang-jiao-yi.md)
   * [流动资金池](products/pancakeswap-exchange/liu-dong-zi-jin-chi.md)
   * [如何添加/移除流动性](products/pancakeswap-exchange/ru-he-tian-jia-yi-chu-liu-dong-xing.md)
@@ -45,8 +45,9 @@
   * [如何使用农场](products/yield-farming/ru-he-shi-yong-nong-chang.md)
   * [跨链农场](products/yield-farming/kua-lian-nong-chang/README.md)
     * [FAQ](products/yield-farming/kua-lian-nong-chang/faq.md)
-  * [bCAKE](products/yield-farming/bcake.md)
-  * [如何通过BscScan使用农场](products/yield-farming/ru-he-tong-guo-bscscan-shi-yong-nong-chang.md)
+  * [bCAKE](products/yield-farming/bcake/README.md)
+    * [如何使用 bCAKE?](products/yield-farming/bcake/ru-he-shi-yong-bcake.md)
+    * [常见问题解答](products/yield-farming/bcake/chang-jian-wen-ti-jie-da.md)
 * [🍯 糖浆池-质押 CAKE](products/syrup-pools/README.md)
   * [新版 CAKE 糖浆池](products/syrup-pools/xin-ban-cake-tang-jiang-chi/README.md)
     * [如何使用灵活质押糖浆池](products/syrup-pools/xin-ban-cake-tang-jiang-chi/ru-he-shi-yong-ling-huo-zhi-ya-tang-jiang-chi.md)
@@ -70,7 +71,7 @@
 * [🖼 NFT 个人档案系统](products/nft-ge-ren-dang-an-xi-tong/README.md)
   * [How to Set Up an NFT Profile](products/nft-ge-ren-dang-an-xi-tong/how-to-set-up-an-nft-profile.md)
 * [🛍 IFO (初次农场发行)](products/ifo-initial-farm-offering.md)
-  * [如何参与 IFO](products/ifo-initial-farm-offering/ru-he-can-yu-ifo.md)
+  * [如何参与 IFO](products/ifo-initial-farm-offering/ru-he-can-jia-ifo.md)
   * [iCAKE](products/ifo-initial-farm-offering/icake.md)
   * [合约详情](products/ifo-initial-farm-offering/he-yue-xiang-qing.md)
 * [📈 信息站](products/info.md)
@@ -94,15 +95,18 @@
 * [迁移到 MasterChef v2](code/qian-yi-dao-masterchef-v2.md)
 * [Bug 赏金](code/bug-shang-jin.md)
 
-***
+## 招聘信息 <a href="#hiring" id="hiring"></a>
 
-* [招聘信息](zhao-pin-xin-xi/README.md)
-  * [成为一名厨师](zhao-pin-xin-xi/cheng-wei-yi-ming-chu-shi/README.md)
-    * [前端工程师](zhao-pin-xin-xi/cheng-wei-yi-ming-chu-shi/qian-duan-gong-cheng-shi.md)
-    * [Solidity 工程师](zhao-pin-xin-xi/cheng-wei-yi-ming-chu-shi/solidity-gong-cheng-shi.md)
-    * [开发运维工程师](zhao-pin-xin-xi/cheng-wei-yi-ming-chu-shi/kai-fa-yun-wei-gong-cheng-shi.md)
-    * [区块链QA工程师](zhao-pin-xin-xi/cheng-wei-yi-ming-chu-shi/qu-kuai-lian-qa-gong-cheng-shi.md)
-    * [商务开发经理](zhao-pin-xin-xi/cheng-wei-yi-ming-chu-shi/shang-wu-kai-fa-jing-li.md)
-    * [公关经理](zhao-pin-xin-xi/cheng-wei-yi-ming-chu-shi/gong-guan-jing-li.md)
-    * [社交媒体营销经理](zhao-pin-xin-xi/cheng-wei-yi-ming-chu-shi/she-jiao-mei-ti-ying-xiao-jing-li.md)
-    * [社区经理-PTBR](zhao-pin-xin-xi/cheng-wei-yi-ming-chu-shi/she-qu-jing-li-ptbr.md)
+* [成为一名大厨](hiring/cheng-wei-yi-ming-da-chu/README.md)
+  * [前端工程师](hiring/cheng-wei-yi-ming-da-chu/qian-duan-gong-cheng-shi.md)
+  * [Solidity 工程师](hiring/cheng-wei-yi-ming-da-chu/solidity-gong-cheng-shi.md)
+  * [开发运维工程师](hiring/cheng-wei-yi-ming-da-chu/kai-fa-yun-wei-gong-cheng-shi.md)
+  * [区块链QA工程师](hiring/cheng-wei-yi-ming-da-chu/qu-kuai-lian-qa-gong-cheng-shi.md)
+  * [商务开发经理](hiring/cheng-wei-yi-ming-da-chu/shang-wu-kai-fa-jing-li.md)
+  * [公关经理](hiring/cheng-wei-yi-ming-da-chu/gong-guan-jing-li.md)
+  * [社交媒体营销经理](hiring/cheng-wei-yi-ming-da-chu/she-jiao-mei-ti-ying-xiao-jing-li.md)
+  * [社区经理-PTBR](hiring/cheng-wei-yi-ming-da-chu/she-qu-jing-li-ptbr.md)
+
+## 参考资料
+
+* [如何通过BscScan使用农场](can-kao-zi-liao/ru-he-tong-guo-bscscan-shi-yong-nong-chang.md)

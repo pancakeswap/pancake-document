@@ -12,7 +12,7 @@
 
 您可以随时通过移除流动性来赎回您的资金。
 
-![](<../../.gitbook/assets/Screenshot 2021-04-19 at 6.27.22 PM (2).png>)
+<figure><img src="../../.gitbook/assets/钱包中的LP代币.png" alt=""><figcaption></figcaption></figure>
 
 ## 流动性提供者赚取交易手续费
 
@@ -36,6 +36,3 @@
 提供流动性并非毫无风险，您可能会面临无常损失。
 
 [“简单的来说，无常损失是在AMM 中持有代币和在钱包中持有代币的区别。”-Nate Hindman](https://blog.bancor.network/beginners-guide-to-getting-rekt-by-impermanent-loss-7c9510cb2f22)
-
-
-
