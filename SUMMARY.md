@@ -94,8 +94,8 @@
 ## Tokenomics
 
 * [CAKE](tokenomics/cake/README.md)
-  * [Controlling CAKE supply](tokenomics/cake/controlling-cake-supply.md)
-  * [CAKE Tokenomics](tokenomics/cake/cake-tokenomics.md)
+  * [Tokenomics de CAKE](tokenomics/cake/tokenomics-de-cake.md)
+  * [Controlando o fornecimento de CAKE](tokenomics/cake/controlando-o-fornecimento-de-cake.md)
 
 ## Desenvolvedores <a href="#code" id="code"></a>
 
