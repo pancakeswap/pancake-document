@@ -62,6 +62,4 @@
 
 ## 我可以在哪里提交有关此产品的反馈？
 
-如果您仍然不确定如何操作或有任何反馈有利于我们做进一步改进，请随时通过 [Telegram](https://t.me/PancakeSwap\_CN) 或[ Discord](https://discord.gg/pancakeswap) 与我们联系！
-
-翻译中，请暂时先使用[英文版](https://docs.pancakeswap.finance/products/pottery/pottery-faq)。
+如果您仍然不确定如何操作或有任何反馈有利于我们做进一步改进，请随时通过 [Telegram](https://t.me/PancakeSwap\_CN) 或[ Discord](https://discord.gg/pancakeswap) 与我们联系。

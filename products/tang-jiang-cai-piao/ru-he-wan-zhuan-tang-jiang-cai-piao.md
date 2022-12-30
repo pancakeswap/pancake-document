@@ -60,8 +60,6 @@
 
 请注意，您必须在 BNB Smart Chain 上支付 Gas 费才能提取奖励。
 
-翻译中，请暂时先使用[英文版](https://docs.pancakeswap.finance/products/pottery/how-to-play-pottery)。
-
 
 
 

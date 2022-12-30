@@ -66,5 +66,3 @@
 ### 准备好参与了吗？
 
 如果您清楚了产品结构、风险和费用 - 请参阅此页面，了解如何从 PancakeSwap 官方用户界面[参与糖浆彩票](https://app.gitbook.com/o/-MHRKTpKSfYQBsO7YgOo/s/-MHREX7DHcljbY5IkjgJ-3369173170/\~/changes/DhnYvzxHLGMTcuoqPPV8/products/tang-jiang-cai-piao/ru-he-wan-zhuan-tang-jiang-cai-piao)和其他[糖浆彩票常见问题](https://app.gitbook.com/o/-MHRKTpKSfYQBsO7YgOo/s/-MHREX7DHcljbY5IkjgJ-3369173170/\~/changes/DhnYvzxHLGMTcuoqPPV8/products/tang-jiang-cai-piao/tang-jiang-cai-piao-chang-jian-wen-ti)解答！
-
-翻译中，请暂时先使用[英文版](https://docs.pancakeswap.finance/products/lottery/lottery-guide)。
