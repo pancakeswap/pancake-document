@@ -1,6 +1,6 @@
 # CAKE Tokenomics
 
-![](../../.gitbook/assets/221219-en.png)
+![](../../.gitbook/assets/221230-en.png)
 
 ## **Emission rate** <a href="#emission-rate" id="emission-rate"></a>
 
@@ -9,8 +9,8 @@
 | **Metric**             | **Emission/block (CAKE)** | **Emission/day (CAKE)** |
 | ---------------------- | ------------------------: | ----------------------: |
 | Emission               |                        40 |               1,152,000 |
-| Burned Weekly          |                   \~28.84 |               \~830,800 |
-| **Effective Emission** |             **\~11.16\*** |         **\~321,200\*** |
+| Burned Weekly          |                    \~30.1 |               \~866,800 |
+| **Effective Emission** |               **\~9.9\*** |         **\~285,199\*** |
 
 {% hint style="info" %}
 On August 11, 2022, Chefs implemented some configuration upgrades to take full advantage of MasterChef v2. It eliminates the 45,000 CAKE daily burn for the legacy lottery injections. Those burns will now be handled by MasterChef v2 directly along with the usual weekly CAKE burn. Therefore, the effective emissions are now even lower.
@@ -28,11 +28,11 @@ As such, we haven't included it in the above emission rate.
 
 | Distributed to                | <p>Reward/block</p><p>(% of emission)</p> | <p>Reward/block</p><p>(total CAKE)</p> |           Reward/day |
 | ----------------------------- | ----------------------------------------: | -------------------------------------: | -------------------: |
-| Farms (BSC+ETH)               |                                   \~5.08% |                               \~2.0328 |      58,544 (approx) |
-| Farms (Aptos)                 |                                   \~0.19% |                               \~0.0790 |       2,275 (approx) |
+| Farms (BSC+ETH)               |                                   \~5.08% |                                 \~2.03 |      58,544 (approx) |
+| Farms (Aptos)                 |                                   \~0.19% |                                 \~0.08 |       2,275 (approx) |
 | Lottery                       |                                   \~0.35% |                               \~0.1389 |       4,000 (approx) |
-| CAKE Syrup Pool               |                                  \~22.25% |                               \~8.9021 |     256,380 (approx) |
-| **Total Daily CAKE Emission** |                                           |                                        | **321,200 (approx)** |
+| CAKE Syrup Pool               |                                  \~19.13% |                                 \~7.65 |     220,380 (approx) |
+| **Total Daily CAKE Emission** |                                           |                                        | **285,199 (approx)** |
 
 ## **Other Deflationary Mechanics** <a href="#other-deflationary-mechanics" id="other-deflationary-mechanics"></a>
 

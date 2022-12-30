@@ -72,7 +72,7 @@ When you’re ready, click the **Enable** button and confirm your action in your
 ![](<../../.gitbook/assets/image (135).png>)
 
 {% hint style="info" %}
-When you are performing crosschain farming on an EVN blockchain other than the BNB chain. You will need to wait approximately 30 minutes for the cross-chain transactions to confirm.
+When you are performing crosschain farming on an EVM blockchain other than the BNB chain. You will need to wait approximately 30 minutes for the cross-chain transactions to confirm.
 
 ![](../../.gitbook/assets/crosschain-farm-wait.png)
 
@@ -80,7 +80,7 @@ To track the progress of a crosschain farming transaction. Click the circular ic
 {% endhint %}
 
 {% hint style="warning" %}
-When you are performing crosschain farming on an EVN blockchain other than the BNB chain for the first time. A small amount of native token (for example, ETH for Ethereum) is required for the first-time setup. So the first transaction will be slightly costly.
+When you are performing crosschain farming on an EVM blockchain other than the BNB chain for the first time. A small amount of native token (for example, ETH for Ethereum) is required for the first-time setup. So the first transaction will be slightly costly.
 {% endhint %}
 
 ## Adding or removing LP Tokens from a Farm
@@ -123,7 +123,7 @@ To collect your rewards, you’ll need to visit your chosen Farm and collect the
 3 - Click the **Harvest** button and confirm the action in your wallet. After a short wait, the CAKE will be claimed to your wallet for you to use as you like.
 
 {% hint style="info" %}
-When you are performing crosschain farming on an EVN blockchain other than the BNB chain. You will need to always switch to BNB Smart Chain to harvest your farming rewards.
+When you are performing crosschain farming on an EVM blockchain other than the BNB chain. You will need to always switch to BNB Smart Chain to harvest your farming rewards.
 
 If your wallet doesn't support chain switching. Staking or unstaking LP tokens will always harvest your CAKE. Please note the harvested CAKE will be distributed on BNB Smart Chain.
 
