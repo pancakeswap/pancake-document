@@ -33,7 +33,7 @@ El **APR base del Farm** se calcula de acuerdo con el multiplicador del farm y l
 
 Los poseedores de los tokens LP reciben **recompensas de LP** por proveer liquidez. A continuación, se muestra una explicación básica de cómo se calcula la tasa:
 
-![](../../.gitbook/assets/2)
+![](<../../.gitbook/assets/2 (1)>)
 
 En la imagen de arriba del par WBNB/BUSD, vemos estos valores:
 
