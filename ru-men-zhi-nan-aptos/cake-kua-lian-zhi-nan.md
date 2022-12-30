@@ -38,7 +38,14 @@ Aptos 上的 CAKE 等同于 BNB 智能链上的 CAKE，可以始终以 1:1 的�
 
 <figure><img src="../.gitbook/assets/跨链 4.png" alt=""><figcaption><p>.</p></figcaption></figure>
 
-7 - 点击 "Transfer 转移"，在钱包弹出的窗口中批准此交易。请注意，如果您是第一次跨链 CAKE，会弹出多个钱包窗口确认。第一次确认是为了在跨链桥上启用 CAKE。
+7 - 通过点击 "Transfer (转移)" 来发起跨链交易，在钱包弹出的窗口中批准此交易。
+
+请注意，根据您的 BNB 智能链钱包和 Aptos 钱包的实际情况。您可能需要批准多个从钱包中弹出的确认。例如，如果您是第一次将 CAKE 跨链到 Aptos，您将需要：
+
+* 批准 CAKE 在跨链合约上的输出（来自您的 BNB 智能链钱包）。&#x20;
+* 注册 CAKE（来自您的 Aptos 钱包）&#x20;
+
+了解更多细节，请查看[此处细分](cake-kua-lian-zhi-nan.md#shou-ci-jiang-cake-kua-lian-dao-aptos-lian-xu-yao-zhu-yi-de)。
 
 8 - 现在只需要放松等待。CAKE 的跨链应该只需要几分钟时间。一旦跨链完成，CAKE 将被存入您的Aptos 钱包。你可以通过进度条追踪进度。
 
