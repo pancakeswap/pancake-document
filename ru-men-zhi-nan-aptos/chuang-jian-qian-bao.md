@@ -53,7 +53,7 @@
 
 {% tabs %}
 {% tab title="Petra" %}
-<figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Petra 钱包是一个扩展程序，可让您在浏览器中探索 Aptos。
 
@@ -76,7 +76,7 @@ Petra 钱包是一个扩展程序，可让您在浏览器中探索 Aptos。
 {% endtab %}
 
 {% tab title=" Martian" %}
-<figure><img src="../.gitbook/assets/image (1) (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 Martian 是一款 Aptos 链上的钱包，可让您存储、发送、接收代币以及管理和铸造 NFT。它的手机端版本即将推出。&#x20;
 
@@ -108,7 +108,7 @@ Pontem Wallet 是一款 Aptos 链上钱包，可让您存储、发送、接收�
 {% endtab %}
 
 {% tab title="Fewcha" %}
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (4).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 目前，Fewcha 钱包在导入私钥方面有一些问题。建议暂时尝试其他钱包。
@@ -214,7 +214,7 @@ Blocto 提供了一个对用户友好的解决方案和一个多合一的集合�
 {% endtab %}
 
 {% tab title="Trust Wallet" %}
-<figure><img src="../.gitbook/assets/image (4) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 Trust Wallet 是在移动设备上颇受欢迎的钱包应用。它支持 DApps，NFT 收藏品（支持 Opensea.io），以及钱包内直接质押。
 

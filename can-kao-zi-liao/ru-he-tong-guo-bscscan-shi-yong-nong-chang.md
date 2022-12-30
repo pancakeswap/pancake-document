@@ -15,7 +15,7 @@
 1. 在 GitHub 上打开 PancakeSwap 网站的 Farms 代码。&#x20;
 2. Control/command + F 并通过代码（不是项目名称）搜索您的代币对。 例如，'CAKE-BUSD'。
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -42,7 +42,7 @@
 1. 首先，在 GitHub 上打开 farms.ts。&#x20;
 2. &#x20;Control/command + F 并通过代码（不是项目名称）搜索您的代币对。 例如，“CAKE-BNB”
 
-<figure><img src="../.gitbook/assets/image (2) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 当你有了你正在寻找的LP代币对的代码时，找到“56：”之后的地址。 这将是您的合约地址。
 
@@ -116,7 +116,7 @@
 
 6.您可以通过点击**查看您的交易**来确认您的操作是否成功。
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 如何从质押池中取款
 
@@ -146,7 +146,7 @@
 
 ​6.您可以通过点击**查看您的交易**来确认您的操作是否成功。​
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 如何进行紧急提款 <a href="#cong-chi-zhong-qu-kuan" id="cong-chi-zhong-qu-kuan"></a>
 
@@ -176,4 +176,4 @@ PancakeSwap 团队强烈建议避免使用此功能，除非 PancakeSwap 团队�
 
 5.您可以通过点击**查看您的交易**来确认您的操作是否成功。​
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
