@@ -1,6 +1,6 @@
 # Trading Perpetuo FAQ (Preguntas más frecuentes)
 
-![](../../../.gitbook/assets/0)
+![](<../../../.gitbook/assets/0 (1)>)
 
 ### **¿Cuál es el valor agregado de esta nueva función para los holders de CAKE?** <a href="#_ggjaqnr5agay" id="_ggjaqnr5agay"></a>
 
