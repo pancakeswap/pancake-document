@@ -1,11 +1,11 @@
-# 🗳 Voting
+# 🗳 Votação
 
 ![](../../.gitbook/assets/voting-header.png)
 
-Voting gives a voice to the PancakeSwap community, letting the community have a say in how PancakeSwap develops into the future.
+A votação dá voz à comunidade PancakeSwap, permitindo que a comunidade opine sobre como a PancakeSwap se desenvolverá no futuro.
 
-Check out [PancakeSwap's native voting portal](https://voting.pancakeswap.finance/?\_gl=1\*pc8o0h\*\_ga\*MTUzNDEzNDQxMy4xNjAwNzkzNDM4\*\_ga\_334KNG3DMQ\*MTYwNDMwMTk4Ni42MC4xLjE2MDQzMDM3MDIuMA..#/) on the PancakeSwap website.
+Confira o [portal de votação nativo da PancakeSwap ](https://voting.pancakeswap.finance/?\_gl=1\*pc8o0h\*\_ga\*MTUzNDEzNDQxMy4xNjAwNzkzNDM4\*\_ga\_334KNG3DMQ\*MTYwNDMwMTk4Ni42MC4xLjE2MDQzMDM3MDIuMA..#/)no site da PancakeSwap.&#x20;
 
-**Core** - proposals posted by the PancakeSwap team. The results will be actioned.
+**Core** - propostas postadas pela equipe da PancakeSwap. Os resultados serão acionados.&#x20;
 
-**Community** - proposals posted by the PancakeSwap community. These are used to propose ideas and show the communities point of view. The PancakeSwap team reviews every community vote and will often move any with strong community support up to the CORE proposal level.
+**Comunidade** - propostas postadas pela comunidade PancakeSwap. Estes são usados para propor ideias e mostrar o ponto de vista da comunidade. A equipe da PancakeSwap revisa cada voto da comunidade e geralmente escolhe a dedo quaisquer grandes ideias e designs com forte apoio da comunidade para os próximos lançamentos de produtos e/ou levar como proposta de votação principal.

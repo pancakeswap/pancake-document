@@ -53,7 +53,7 @@ Agora que você tem seus LP Tokens, você está pronto para começar a fazer sta
 
 1 - Vá para a [página dos Farms](https://pancakeswap.finance/farms)  e localizar seu Farm. Clique em qualquer lugar na linha que mostra seu par. Ele será expandido para mostrar mais detalhes.
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (3).png>)
 
 Quando estiver pronto, clique no botão **Ativar (Enable)** e confirme sua ação na sua carteira.&#x20;
 
@@ -69,7 +69,7 @@ Quando estiver pronto, clique no botão **Ativar (Enable)** e confirme sua açã
 
 5 - Após uma breve espera, a janela fechará e você verá seu novo saldo de LP Token em stake nos detalhes.
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (39).png>)
 
 {% hint style="info" %}
 Quando você está realizando farm cross-chain em uma blockchain EVM diferente da BNB Chain. Você precisará aguardar aproximadamente 30 minutos para que as transações cross chain sejam confirmadas.
@@ -119,7 +119,7 @@ Para coletar suas recompensas, você precisará visitar o Farm escolhido e colet
 
 2 - Encontre o Farm no qual você fez stake de seus Tokens LP e clique na linha para ver os detalhes. Você deve ver uma estimativa de suas recompensas em "CAKE ganho".
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (3).png>)
 
 3 - Clique no botão **Coletar (Harvest)** e confirme a ação em sua carteira. Após uma breve espera, o CAKE será sacado para sua carteira para você usar como quiser.
 

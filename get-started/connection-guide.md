@@ -132,7 +132,7 @@ Token Pocket é um app de gerenciamento de criptoativos que suporta nativamente 
 
 1. Você verá abrir uma página de navegador de DApp. No "Recommended", encontre e clique no símbolo da **PancakeSwap.** Se você não pode ver PancakeSwap, você também pode pesquisar isso em "BSC".
 
-![](<../.gitbook/assets/image (79).png>)
+![](<../.gitbook/assets/image (79) (1).png>)
 
 1. Uma janela vai abrir dizendo que você vai abrir um DApp de terceiros. Clique em **I got it** e você será levado ao site da PancakeSwap conectado na sua carteira.
 
@@ -209,13 +209,13 @@ SafePal está disponível tanto como carteira de software quanto em hardware. A 
 {% endtab %}
 
 {% tab title="Binance Wallet" %}
-![](<../.gitbook/assets/image (39).png>)
+![](<../.gitbook/assets/image (39) (1).png>)
 
 #### Chrome e Firefox
 
 1. Abra a Carteira da Binance Chain e clique no menu de redes no topo. A rede padrão será Binance Chain. Escolha **BNB Smart Chain** da lista.
 
-![](<../.gitbook/assets/image (88).png>)
+![](<../.gitbook/assets/image (88) (1).png>)
 
 1. Visite o site da PancakeSwap. No canto superior direito, clique **Conecte**.
 

@@ -227,7 +227,7 @@ Blocto oferece uma solução amigável e um pacote completo para usar Dapps e ge
 
 ![](<../.gitbook/assets/image (13) (4).png>)
 
-![](<../.gitbook/assets/image (9) (1).png>)
+![](<../.gitbook/assets/image (9) (1) (2).png>)
 {% endtab %}
 {% endtabs %}
 
