@@ -45,20 +45,20 @@
 您将需要锁仓更多 CAKE ，并锁仓更长的时间。
 {% endhint %}
 
-### Why do my multipliers change even after activation?
+### 为什么我的助推倍数在激活之后也会发生改变？
 
-Please note that any user actions to the farms or CAKE staking pool will automatically update your boost multiplier based on the latest data and statistics from farms and the CAKE staking pool, including but not limited to:
+请注意，任何用户针对农场或 CAKE 锁仓质押池的操作都会影响农场及 CAKE 锁仓质押池的最新数据和统计方式从而自动更新您的助推倍数，包括但不限于。
 
-* Stake/Unstake LP tokens to/from Farm
-* Harvest CAKE rewards from Farm
-* Extend your CAKE staking duration
-* Add more CAKE into your fixed-term staking position
-* Convert your CAKE staking position to flexible
+* 将 LP 代币从农场质押/解压&#x20;
+* 从农场收割 CAKE 奖励&#x20;
+* 延长您的 CAKE 锁仓时间&#x20;
+* 将更多的 CAKE 添加到您的锁仓仓位中&#x20;
+* 将您的 CAKE 锁仓质押转换为灵活质押
 
 {% hint style="warning" %}
-Please note:&#x20;
+请注意：
 
-In order to ensure fairness and prevent potential abuse and cheating using out-of-date data. Farm booster is designed to be community governance. Therefore, anyone can call `refresh(address _user, uint256 _pid)` function on the farm booster contract (link) to refresh anyone's boost multipliers using the latest data.
+为了确保公平，防止潜在的滥用以及使用过时的数据进行欺骗。农场助推器被设计为由社区治理。因此，任何人都可以在[农场助推器合约](https://bscscan.com/address/0xe4faa3ef5a9708c894435b0f39c2b440936a3a52)上调用 refresh(address \_user, uint256 \_pid)函数，使用最新数据刷新任何人的助推倍数。
 {% endhint %}
 
 ### 激活或停止助推器后，我的 CAKE 奖励在哪里？
