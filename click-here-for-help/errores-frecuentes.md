@@ -127,11 +127,105 @@ Esto sucedió porque comenzó a realizar una transacción, pero no la firmó ni 
 
 > The transaction cannot succeed due to error: Pancake: K. This is probably an issue with one of the tokens you are swapping.
 
-Actualice la página e intente de nuevo, o aumente el deslizamiento (Slippage) a través del icono de configuración y vuelva a intentarlo.
+Intente modificar la cantidad en el campo "To". Luego de modificarlo, deberías ver el símbolo "(estimated)" en "From". A continuación, procede hacer el intercambio inmediatamente.
 
-Esto probablemente sucedió porque está tratando de comprar o vender tokens durante un gran movimiento de precios. El frontend está obteniendo información desactualizada (e.g. outAmount) de los smart contracts, causando que el swap falle.
+<figure><img src="https://lh4.googleusercontent.com/NO9ktK8MzJ3DGNvYdqJXgsQ3TKXDIYsszlUv50txmQOAaWxLN3m5s1XzvCLMsa0i6BmXFCereM4H7VbSbvffmVjfwCUP8O9xHzceB12KRDZ0Cl4PHo_ZOgjGMbJ6iEin2DdCjRLc6Grnpe_7yXWGXjdhOHlf_aIdg6FrU3lstT4eUbxHwIH6YZKDn4Mmmg" alt=""><figcaption></figcaption></figure>
+
+Esto suele suceder cuando intentas intercambiar un token con un fee interno o propio.
+
+### Pancake: TRANSFER\_FAILED
+
+> The transaction cannot succeed due to error: execution reverted: Pancake: TRANSFER\_FAILED.
+
+Asegúrese de tener un 30% más de tokens en su billetera de los que pretende intercambiar, o intente intercambiar una cantidad menor. Si quieres vender el máximo posible, prueba con el 70% o el 69% en lugar del 100%. Esto debido al diseño de los tokens con Rebase Restaurativa como tDoge o tBTC.[ Guia en ingles sobre este tema](https://btcst.medium.com/stp-8-restorative-rebase-b4fbbdfd96c).
+
+Otra posible causa de este problema es que el emisor del token malicioso acaba de suspender el comercio de su token o hicieron que la acción de venta solo fuera posible para algunas wallets seleccionadas. Por favor, siempre haga su propia investigación para evitar cualquier posible fraude. Si el token que está intentando intercambiar falló con este código de error y proviene de un airdrop, lo más probable es que sea una estafa. Por favor, no realice ninguna aprobación de contrato importante ni siga ningún enlace, sus fondos puede estar en riesgo si intenta hacerlo.
+
+### Transaction cannot succeed
+
+Intente operar una cantidad menor o aumente el slippage a través del icono de configuración e inténtelo de nuevo. Esto es causado por la baja liquidez del token.
+
+### Price Impact muy alto
+
+Intente operar una cantidad menor o aumente el slippage a través del icono de configuración e inténtelo de nuevo. Esto es causado por la baja liquidez del token.
+
+### estimateGas failed
+
+> This transaction would fail. Please contact support
+
+{% tabs %}
+{% tab title="Solución" %}
+Si recibió este error al eliminar la liquidez de un par BNB:
+
+Seleccione "Receive WBNB" y vuelva a intentarlo.
+
+Si recibió este error al intentar hacer un swap:
+
+Ponte en contacto con el equipo del proyecto del token que estás intentando intercambiar.
+
+\*\*\* Este problema debe ser resuelto por el equipo del proyecto.
+{% endtab %}
+
+{% tab title="Razón" %}
+Este problema (durante el intercambio) es causado por tokens que en su contrato han sido hard-codeados en el router V1 (version antigua) de PancakeSwap.
+
+Si bien esta práctica es desacertada en el mejor de los casos, la razón por la que estos proyectos han hecho esto parece deberse a su tokenomics, en la que cada compra envía un % del token a los LP.
+
+Es probable que los proyectos afectados no funcionen con el router V2: lo más probable es que necesiten crear nuevas versiones de sus tokens que apunten a nuestra nueva dirección del router y migrar cualquier titular de token existente a su nuevo token.
+
+Recomendamos que cualquier proyecto que haya creado dichos tokens también haga esfuerzos para evitar que sus usuarios los agreguen a un LP v2.
+
+La dirección del router actualizada es[ https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E)
+{% endtab %}
+{% endtabs %}
 
 
+
+
+
+### “Cannot read property 'toHexString' of undefined”
+
+> "Unknown error: "Cannot read property 'toHexString' of undefined”
+
+Al intentar intercambiar tokens, la transacción falla y se muestra este mensaje de error. Este error se ha informado en dispositivos móviles usando Trust Wallet.
+
+{% tabs %}
+{% tab title="Solución" %}
+1. Intente la transacción de nuevo pero aumentando el slippage.
+2. Si el paso anterior no resuelve su problema, considere usar otra billetera como SafePal.
+{% endtab %}
+
+{% tab title="Razón" %}
+Esto suele suceder cuando se intercambian tokens con un slippage insuficiente en Trust Wallet.
+
+Los detalles exactos del problema aún se están investigando.
+{% endtab %}
+{% endtabs %}
+
+### Execution reverted: TransferHelper: TRANSFER\_FROM\_FAILED.
+
+> The transaction cannot succeed due to error: execution reverted: TransferHelper: TRANSFER\_FROM\_FAILED.
+
+Al intentar intercambiar tokens, la transacción falla y se muestra este mensaje de error. Este error se ha notificado en todas las plataformas.
+
+{% tabs %}
+{% tab title="Solución" %}
+1. Verifique que tenga fondos suficientes.
+2. Asegúrese de haber aprobado el contrato del token y haber asignado o permitido una cantidad igual o mayor de fondos de los que está intentando operar.
+{% endtab %}
+
+{% tab title="Razón" %}
+Este error ocurre cuando se intercambian tokens con una asignación insuficiente cuando se aprueba el contrato, o cuando una billetera no tiene fondos suficientes. Si está intercambiando tokens con [Restorative Rebase](https://btcst.medium.com/stp-8-restorative-rebase-b4fbbdfd96c) como tDoge o tBTC, asegúrese de comprender cómo funcionan primero con esta[ guía.](https://btcst.medium.com/stp-8-restorative-rebase-b4fbbdfd96c)
+{% endtab %}
+{% endtabs %}
+
+## Problemas con los Farms
+
+### Falla con el error 'ds-math-sub-underflow'
+
+Se ha quedado sin asignación o permiso asignado en la aprobación del contrato del token LP del MasterChef.
+
+Utilice el administrador de aprobación de tokens como unrekt o BscScan para modificar la asignación y aumentarla.
 
 ## **Problemas con los Syrup Pools**
 
@@ -236,6 +330,26 @@ Este error tiende a aparecer cuando intentas hacer Unstake de un Syrup Pool anti
 {% endtab %}
 {% endtabs %}
 
+### BEP20: transfer amount exceeds allowance
+
+> Fail with error 'BEP20: transfer amount exceeds allowance’
+
+{% tabs %}
+{% tab title="Solución" %}
+1. Usa[ Unrekt.net](http://unrekt.net/) para revocar la aprobación del contrato con el que intentas interactuar.
+2. Apruebe el contrato de nuevo, sin configurar un límite de asignación de gasto.
+3. Intente interactuar con el contrato de nuevo.
+{% endtab %}
+
+{% tab title="Razón" %}
+Esto sucede cuando establece un límite en su asignación de gastos cuando aprobó el contrato por primera vez y luego intenta intercambiar más que el límite.
+{% endtab %}
+{% endtabs %}
+
+## Problemas con Predicción
+
+Revisa [Errores y preguntas frecuentes sobre Predicción](https://docs.pancakeswap.finance/v/espanol/productos/prediccion/errores-y-preguntas-frecuentas).
+
 ## **Otros Errores**
 
 ### Provider Error: No provider was found // "No se encuentra el Proveedor"
@@ -247,6 +361,10 @@ Este error tiende a aparecer cuando intentas hacer Unstake de un Syrup Pool anti
 ### Unsupported Chain ID / Chain ID No Soportada
 
 Cambie su red a BNB Smart Chain. Consulte la documentación de su billetera para obtener una guía si necesita ayuda.
+
+### “Already processing eth\_requestAccounts. Please wait”
+
+Asegúrese de haber iniciado sesión en su wallet y de estar conectado a la BNB Smart Chain.
 
 ### Problemas tratando de comprar SAFEMOON y tokens similares
 
@@ -260,3 +378,78 @@ Para tradear SAFEMOON, debes hacer clic en el icono de configuración y **establ
 
 Esta es también la razón por la que es posible que no reciba tantos tokens como espera cuando realice la compra.\
 Puede leer más en  [Cómo comprar Safemoon](https://community.trustwallet.com/t/how-to-buy-safemoon/155742) (en inglés)
+
+### Internal JSON-RPC errors
+
+> "MetaMask - RPC Error: Internal JSON-RPC error. estimateGas failed removeLiquidityETHWithPermitSupportingFeeOnTransferTokens estimateGas failed removeLiquidityETHWithPermit “
+
+Sucede cuando se intenta eliminar la liquidez en algunos tokens a través de Metamask. La causa raíz aún se desconoce. Intente usar una billetera alternativa.
+
+> Internal JSON-RPC error. { "code": -32000, "message": "insufficient funds for transfer" } - Please try again.
+
+No tiene suficiente BNB para pagar las tarifas de la transacción. Necesita más BNB BEP-20 en su billetera.
+
+### Error: \[ethjs-query]
+
+> Error: \[ethjs-query] while formatting outputs from RPC '{"value":{"code":-32603,"data":{"code":-32000,"message":"transaction underpriced"\}}}”
+
+Aumente el límite del gas para la transacción en su billetera. Consulte la documentación de su billetera para obtener información sobre cómo aumentar el límite de gas.
+
+> Swap failed: Error: \[ethjs-query] while formatting outputs from RPC '{"value":{"code":-32603,"data":{"code":-32603,"message":"handle request error"\}}}’
+
+Causa poco clara. Prueba estos pasos antes de volver a intentar:
+
+1. Incremente el gas limit.
+2. Incremente el slippage.
+3. Borra la memoria cache.
+
+### Problemas con el Perfil
+
+#### Oops! We couldn't find any Pancake Collectibles in your wallet.
+
+Estamos investigando la lógica detrás de este problema. Mientras tanto, pruebe estas soluciones alternativas.
+
+{% tabs %}
+{% tab title="Solución 1" %}
+1. Vaya a la página "Collectible", luego regrese a la página de perfil. Si no encuentras el enlace, ve a[ https://pancakeswap.finance/collectibles](https://pancakeswap.finance/collectibles) directamente.
+2. Vuelva a intentar crear el perfil.
+{% endtab %}
+
+{% tab title="Solución 2" %}
+Cambia el entorno.
+
+1. Borra la memoria cache y reintenta.
+2. Reintenta en otro navegador.
+3. Reintenta en otra wallet.
+4. Reintenta usando otra red diferente (cambia entre el Wi-Fi y red de datos móvil).
+{% endtab %}
+{% endtabs %}
+
+#### La comprobación del nombre de usuario sigue girando
+
+Hay dos posibles causas.
+
+1. Tienes varias wallets instaladas en tu navegador.
+2. Problemas con tu red, tu conexión a internet.
+
+{% tabs %}
+{% tab title="Solución 1" %}
+Causa principal: Tienes varias wallets instaladas en tu navegador.
+
+Puede haber un conflicto entre las wallets. Esto está fuera de control de PancakeSwap y no podemos hacer nada.
+
+1. Tengo solo una wallet instalada en el navegador, elimine las demás.
+2. Vuelve a conectar la wallet e intente configurar el nombre de usuario de nuevo.
+{% endtab %}
+
+{% tab title="Solución 2" %}
+Causa principal: conexión a la red inestable.
+
+Tienes que volver a intentarlo.
+
+1. Elimine completamente lo que se haya introducido en el campo de texto.
+2. Vuelva a escribir el nombre de usuario, luego espere unos segundos.
+3. Si no funciona, vuelva a cargar la página y vuelva a intentarlo.
+{% endtab %}
+{% endtabs %}
+
