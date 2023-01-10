@@ -35,6 +35,6 @@ Por ejemplo:
 
 Si estas emitiendo un voto, encontraras la cantidad de vCAKE en el desglose de “Voting Power” haciendo click en el botón “>” sobre la ventana de “Confirm Vote”.
 
-![](<../../.gitbook/assets/1 (1)>)
+![](<../../.gitbook/assets/1 (1) (2)>)
 
 Si estás haciendo una propuesta comunitaria, puedes verificar tu poder de voto haciendo click en "Check your voting power" en la parte inferior del panel “Actions”.

@@ -29,7 +29,7 @@ En la misma sección del anterior paso, elija ahora la billetera que prefiera en
 
 4\. Haga clic en la “v” en el campo superior de selección de tokens y elija “CAKE”.
 
-![](../.gitbook/assets/3)
+![](<../.gitbook/assets/3 (2)>)
 
 5\. Ingrese el número de CAKE que desea enviar a Aptos.
 
@@ -89,7 +89,7 @@ Asegúrese de que la red "Aptos" esté en el campo superior.
 
 5\. Ingrese el número de CAKE que desea enviar a la BNB Smart Chain.
 
-![](../.gitbook/assets/10)
+![](<../.gitbook/assets/10 (1)>)
 
 6\. Si su billetera de BNB Smart Chain está recién creada y no tiene ningún saldo de BNB (token de gas). Recomendamos mantener la opción "gas on destination" en su valor predeterminado. El puente depositará una pequeña cantidad de BNB en su billetera. Le ayudará a iniciar su viaje en la BNB Smart Chain y explorar el vívido ecosistema de PancakeSwap.
 

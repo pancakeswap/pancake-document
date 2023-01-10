@@ -1,6 +1,6 @@
 # Preguntas más frecuentes (FAQ)
 
-![](../../../.gitbook/assets/0)
+![](<../../../.gitbook/assets/0 (4)>)
 
 ### ¿Cómo puedo pasar mis activos a Aptos y proveer liquidez? <a href="#_3wmsrl2o6ha5" id="_3wmsrl2o6ha5"></a>
 
