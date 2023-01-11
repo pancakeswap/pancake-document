@@ -1,16 +1,16 @@
-# Guia del Puente de CAKE
+# Guía del Puente de CAKE
 
 _Envía CAKE entre la red Aptos y BNB Smart Chain_
 
 <figure><img src="../.gitbook/assets/0 (2)" alt=""><figcaption></figcaption></figure>
 
-Con nuestra expansión en múltiples cadenas y el despliegue en Aptos. CAKE es ahora un token multicadena que existe tanto en la BNB Smart Chain como en Aptos.
+Con nuestra expansión en múltiples cadenas y el despliegue en Aptos, CAKE es ahora un token multicadena que existe tanto en la BNB Smart Chain como en Aptos.
 
 CAKE en Aptos es igual a CAKE en BNB Smart Chain y siempre se puede enviar entre las dos cadenas con una relación de 1:1.
 
 Tenga en cuenta que solo hay un CAKE. No hay diferentes versiones de CAKE entre diferentes cadenas. Y el suministro total de CAKE en todas las cadenas de bloques tendrá un límite de 750 millones, de acuerdo con nuestro litepaper tokenomic v2.
 
-### Envía CAKE desde la BNB Smart Chain hacía Aptos <a href="#_l12qjvg1f2wy" id="_l12qjvg1f2wy"></a>
+### Envía CAKE desde la BNB Smart Chain hacia Aptos <a href="#_l12qjvg1f2wy" id="_l12qjvg1f2wy"></a>
 
 1. Asegúrese de que su billetera sea compatible con la BNB Smart Chain y Aptos Mainnet o que ambas billeteras estén instaladas en su navegador.\
    \
@@ -35,7 +35,7 @@ En la misma sección del anterior paso, elija ahora la billetera que prefiera en
 
 ![](../.gitbook/assets/4)
 
-6\. Si su billetera Aptos está recién creada y no tiene APT (Aptos Coin). Recomendamos mantener la opción "gas on destination" en su valor predeterminado. El puente depositará una pequeña cantidad de APT en su billetera, no solo para ayudarlo a iniciar su viaje en Aptos, sino que también necesitará APT para el gas para registrar y hacer claim de su CAKE enviado por el puente.\
+6\. Si su billetera Aptos está recién creada y no tiene APT (Aptos Coin), recomendamos mantener la opción "gas on destination" en su valor predeterminado. El puente depositará una pequeña cantidad de APT en su billetera, no solo para ayudarlo a iniciar su viaje en Aptos, sino que también necesitará APT para el gas para registrar y hacer claim de su CAKE enviado por el puente.\
 \
 Si se modifica esta opción, es posible que se produzca un error en el proceso del puente.
 
@@ -53,7 +53,7 @@ Tenga en cuenta que aparecerán múltiples confirmaciones en su billetera si est
 
 ### Enviando CAKE a Aptos por primera vez <a href="#_6w2zta58q9j8" id="_6w2zta58q9j8"></a>
 
-Enviar CAKE a las billeteras de Aptos requiere transacciones de registro y reclamo(claim). Esto se hace para mejorar la seguridad del usuario y es exclusivo de Aptos.
+Enviar CAKE a las billeteras de Aptos requiere transacciones de registro y reclamo (claim). Esto se hace para mejorar la seguridad del usuario y es exclusivo de Aptos.
 
 #### Si ya tienes APT (Aptos Coin) en su billetera <a href="#_g46q47uhhjlj" id="_g46q47uhhjlj"></a>
 
@@ -63,7 +63,7 @@ En este escenario, se le pedirá que registre CAKE en su billetera Aptos si aún
 
 Solo tendrá que reclamar (claim) su CAKE una vez finalizada la transacción. Recibirá tokens APT (para tarifas de gas) en la billetera de destino para pagar el costo del reclamo (claim) de sus activos. Estos APT son pagados por su billetera de origen y se transfiere al destino.
 
-Recuerde, estos requisitos de registro y reclamo(claim) solo se aplican cuando interactúa con un token por primera vez. Las transferencias siguientes del mismo token no requerirán estas transacciones.
+Recuerde, estos requisitos de registro y reclamo (claim) solo se aplican cuando interactúa con un token por primera vez. Las transferencias siguientes del mismo token no requerirán estas transacciones.
 
 ### Enviar CAKE desde Aptos a BNB Smart Chain <a href="#_9mpengknfi0u" id="_9mpengknfi0u"></a>
 
@@ -91,7 +91,7 @@ Asegúrese de que la red "Aptos" esté en el campo superior.
 
 ![](<../.gitbook/assets/10 (1)>)
 
-6\. Si su billetera de BNB Smart Chain está recién creada y no tiene ningún saldo de BNB (token de gas). Recomendamos mantener la opción "gas on destination" en su valor predeterminado. El puente depositará una pequeña cantidad de BNB en su billetera. Le ayudará a iniciar su viaje en la BNB Smart Chain y explorar el vívido ecosistema de PancakeSwap.
+6\. Si su billetera de BNB Smart Chain está recién creada y no tiene ningún saldo de BNB (token de gas), recomendamos mantener la opción "gas on destination" en su valor predeterminado. El puente depositará una pequeña cantidad de BNB en su billetera. Le ayudará a iniciar su viaje en la BNB Smart Chain y explorar el vívido ecosistema de PancakeSwap.
 
 7\. Haga clic en "Transfer" y apruebe las transacciones que saldrán en la ventana emergente de su billetera.
 
