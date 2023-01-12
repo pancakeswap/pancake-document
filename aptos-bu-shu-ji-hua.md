@@ -83,4 +83,4 @@ description: PancakeSwap 计划来到 Aptos 链！
 
 在以上流程的每一步，团队都会不遗余力地为您提供帮助——因为我们知道，对于创始人及其团队而言，IFO 或 TGE 的启动至关重要。
 
-<figure><img src=".gitbook/assets/image2 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image2 (3).png" alt=""><figcaption></figcaption></figure>

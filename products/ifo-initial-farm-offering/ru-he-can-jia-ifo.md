@@ -18,7 +18,7 @@ PancakeSwap 上的 IFO 是初次农场发行。参与 IFO 让您可以第一时�
 
 要参加 IFO，您需要设定好 PancakeSwap 个人资料。 拥有个人资料可以保护 IFO 的安全并使其对每个人都公平。个人资料配置的小成本还有助于通过从创建的每个个人资料文件中燃烧一点 CAKE 来降低 CAKE 的总供应量。
 
-要创建个人资料，您可以在此处按照我们的如何设置 NFT 个人资料[指南](../nft-ge-ren-dang-an-xi-tong/how-to-set-up-an-nft-profile.md)进行操作。
+要创建个人资料，您可以在此处按照我们的如何设置 NFT 个人资料[指南](../nft-ge-ren-dang-an-xi-tong/ru-he-she-zhi-nft-ge-ren-zi-liao.md)进行操作。
 
 ### 在 CAKE 定期质押糖浆池中质押您的 CAKE 以获得 iCAKE
 
@@ -39,7 +39,7 @@ PancakeSwap 上的 IFO 是初次农场发行。参与 IFO 让您可以第一时�
 
 完成上述步骤后，请返回此处的[IFO界面](https://pancakeswap.finance/ifo)，向下滚动到「如何参与」部分。
 
-<figure><img src="../../.gitbook/assets/image (1) (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 您应该看到您的进度当前处于第 3 步，提交 CAKE，如上图所示。 如果由于某种原因您没有进入第 3 步，请返回查看本页上方链接的指南。&#x20;
 
@@ -149,7 +149,7 @@ IFO 开始后，在公开销售页面能够实时看到叠加了 “超募手续
 
 ### 将 CAKE 投入到私有销售中
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. 如果您有资格参与私有销售，私有销售选项卡中的复选框将亮起。 要在私有销售中使用您的 CAKE，请单击私有销售下的投入按钮。 将出现一个窗口。
 2. 在新窗口中，在输入框中选择您要提交的 CAKE 数量。 请记住，您最多只能投入等于私有销售的最大投入限制的 CAKE 数量。  并且在购买新代币时任何投入但未被消耗的 CAKE 都将退还给您，因此您无需担心丢失任何代币。
