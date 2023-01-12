@@ -250,7 +250,7 @@ Token Pocket 允许您使用电脑端或其他设备同时管理一个钱包，�
 
 {% tabs %}
 {% tab title="MetaMask" %}
-![](<../.gitbook/assets/image (1) (2).png>)
+![](<../.gitbook/assets/image (1) (2) (1).png>)
 
 MetaMask 是一个非常流行的基于浏览器的钱包插件，默认支持 ERC20（以太坊网络），以及 BEP2 & BEP20（Binance Chain 和 BNB 智能链网络)。&#x20;
 

@@ -30,7 +30,7 @@
 ## 产品 <a href="#products" id="products"></a>
 
 * [🔄 交易](products/pancakeswap-exchange.md)
-  * [代币兑换](products/pancakeswap-exchange/dai-bi-dui-huan.md)
+  * [代币兑换](products/pancakeswap-exchange/dai-bi-jiao-huan.md)
   * [如何进行交易](products/pancakeswap-exchange/ru-he-jin-hang-jiao-yi.md)
   * [流动资金池](products/pancakeswap-exchange/liu-dong-zi-jin-chi.md)
   * [如何添加/移除流动性](products/pancakeswap-exchange/ru-he-tian-jia-yi-chu-liu-dong-xing.md)
