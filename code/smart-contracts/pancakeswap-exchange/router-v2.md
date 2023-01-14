@@ -76,7 +76,7 @@ function addLiquidity(
 
 Adds liquidity to a BEP20⇄BEP20 pool.
 
-| Name           | Type      |                                                                   |
+| Name           | Type      | Description                                                       |
 | -------------- | --------- | ----------------------------------------------------------------- |
 | tokenA         | `address` | The contract address of one token from your liquidity pair.       |
 | tokenB         | `address` | The contract address of the other token from your liquidity pair. |
@@ -453,7 +453,7 @@ Receive an exact amount of output tokens for as few input tokens as possible.
 | Name              | Type      |                                                                                                                                      |
 | ----------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | amountOut         | `uint`    | Payable amount of input tokens.                                                                                                      |
-| amountInMax       | `uint`    | The minimum amount tokens to input.                                                                                                  |
+| amountInMax       | `uint`    | The maximum amount tokens to input.                                                                                                  |
 | path (address\[]) | `address` | An array of token addresses. `path.length` must be >= 2. Pools for each consecutive pair of addresses must exist and have liquidity. |
 | to                | `address` | Address of recipient.                                                                                                                |
 | deadline          | `uint`    | Unix timestamp deadline by which the transaction must confirm.                                                                       |

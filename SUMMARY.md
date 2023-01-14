@@ -124,7 +124,14 @@
   * [IFO Commit Limit (iCAKE)](code/smart-contracts/ifo-commit-limit-icake.md)
   * [Cross Chain Farming](code/smart-contracts/cross-chain-farming.md)
   * [Cross Chain CAKE Bridging](code/smart-contracts/cross-chain-cake-bridging.md)
-* [Smart Contracts (Aptos)](code/smart-contracts-aptos.md)
+* [Smart Contracts (Aptos)](code/smart-contracts-aptos/README.md)
+  * [PancakeSwap Exchange](code/smart-contracts-aptos/pancakeswap-exchange/README.md)
+    * [v2](code/smart-contracts-aptos/pancakeswap-exchange/v2/README.md)
+      * [Swap Core V2](code/smart-contracts-aptos/pancakeswap-exchange/v2/swap-core-v2.md)
+      * [Router v2](code/smart-contracts-aptos/pancakeswap-exchange/v2/router-v2.md)
+  * [MasterChef](code/smart-contracts-aptos/masterchef.md)
+  * [Syrup Pools](code/smart-contracts-aptos/syrup-pools.md)
+  * [Utils](code/smart-contracts-aptos/utils.md)
 
 ## Hiring
 
