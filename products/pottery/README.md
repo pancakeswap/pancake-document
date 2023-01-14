@@ -10,7 +10,7 @@ Pottery combines CAKE lock-staking with lottery elements to give you a chance to
 * Deposit closes on the first Monday of each month for a different Pottery cohort (23:59 UTC on that Monday) and is open from the Friday before that at around 10:00 UTC, unless there are special arrangements which will be announced in advance (first Pottery is closing on Aug 8 2022 23:59 UTC)
 * During the beta stage of the product, there is a cap to the total CAKE deposit for each Pottery cohort (the maximum deposit cap is 600,000 CAKE)
 * CAKE deposited will be directed to the lock-staking pool and locked for ten (10) weeks 80% of the total staking rewards will be sent to the Pottery pool for drawing, 20% will be reserved for your withdrawal&#x20;
-* For each Pottery cohort (one per month), there will be ten (10) weekly draws on each Friday (at noon UTC) upon deposit producing eight (8) winners per week, each address may win more than one of the eight winner slots each week&#x20;
+* For each Pottery cohort (one per month), there will be ten (10) weekly draws on each Friday (at noon UTC) upon deposit producing eight (8) winners per week, each address may win more than one of the eight winner slots each week \*
 * The larger your deposit relative to the overall pool, the higher the chance of winning, winners can claim their prize right after each draw&#x20;
 * Each Pottery cohort conducts the draw separately&#x20;
 * Only after 10 weeks from the Pottery cohort lock date, you can withdraw your CAKE&#x20;
@@ -73,3 +73,6 @@ Eight percent (8%) of the prize pot distributed each week will be charged as fee
 ## **Ready to Participate?**
 
 If you are clear about the product structure, the risks and the fees – see this page on [how to participate](https://docs.pancakeswap.finance/products/pottery/how-to-play-pottery) from the PancakeSwap web UI and other [Pottery FAQ](https://docs.pancakeswap.finance/products/pottery/pottery-faq)!
+
+
+

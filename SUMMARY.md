@@ -71,6 +71,7 @@
 * [🍯 Pottery](products/pottery/README.md)
   * [How to Play Pottery](products/pottery/how-to-play-pottery.md)
   * [Pottery FAQ](products/pottery/pottery-faq.md)
+  * [Pottery Update](products/pottery/pottery-update.md)
 * [🖼 NFT Marketplace](products/nft-market.md)
 * [🖼 NFT Profile System](products/nft-profile-system/README.md)
   * [How to Set Up an NFT Profile](products/nft-profile-system/profile-guide.md)
