@@ -1,6 +1,6 @@
 # Pottery Update
 
-\* As of Jan 7, 2023, the PCS team encountered an issue in Pottery operations that resulted in the delay of pottery draws on the following pottery deposit dates:
+\* As of Jan 7, 2023, the PCS team encountered an issue in Pottery operations that resulted in the delay of pottery draws on the following pottery cohorts:
 
 | Pottery Deposit Date/ Draw Schedule | Nov 8, 2022 (UTC)         | Dec 6, 2022 (UTC)         | Jan 3, 2022 (UTC)        |
 | ----------------------------------- | ------------------------- | ------------------------- | ------------------------ |
@@ -15,6 +15,6 @@
 | 9th Draw                            | ~~Jan 9, 2023, 07:14AM~~  | Feb 6, 2023, 07:14AM      | Mar 4, 2023, 05:36AM     |
 | 10th Draw                           | Jan 16, 2023, 07:14AM     | Feb 13, 2023, 07:14AM     | Mar 11, 2023, 05:36AM    |
 
-Draws for future pottery cohorts (Starting from Feb 2 Pottery cohort) will revert to the Friday, 12 PM UTC draw time. For more information, please visit the [Pottery Overview](./)
+Draws for future pottery cohorts (Starting from Feb 2 Pottery cohort) will revert to the Friday, 12 PM UTC draw time. For more information, please visit the [Pottery Overview](./).
 
 \
