@@ -82,6 +82,7 @@
   * [¿Cómo votar?](productos/voting/como-votar/README.md)
     * [¿Cómo votar con la billetera de SafePal?](productos/voting/como-votar/como-votar-con-la-billetera-de-safepal.md)
   * [vCAKE](productos/voting/vcake.md)
+* [🌐 PancakeSwap Mini-Programa](productos/pancakeswap-mini-programa.md)
 * [🍳Próximamente](productos/proximamente/README.md)
   * [Zap](productos/proximamente/zap.md)
 
