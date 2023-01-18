@@ -2,7 +2,7 @@
 description: Simple liquidity provisioning with only one click
 ---
 
-# Zap
+# ⚡ Zap
 
 <img src="../../.gitbook/assets/zap-0.png" alt="" data-size="original">
 

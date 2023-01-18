@@ -36,7 +36,8 @@
     * [How to trade using Smart Router](products/pancakeswap-exchange/smart-router/how-to-trade-using-smart-router.md)
   * [Liquidity Pools](products/pancakeswap-exchange/pancakeswap-pools.md)
   * [How to Add/Remove Liquidity](products/pancakeswap-exchange/liquidity-guide.md)
-  * [📝Limit Orders](products/pancakeswap-exchange/limit-orders/README.md)
+  * [⚡ Zap](products/pancakeswap-exchange/zap.md)
+  * [📋 Limit Orders](products/pancakeswap-exchange/limit-orders/README.md)
     * [Limit Orders FAQ](products/pancakeswap-exchange/limit-orders/limit-orders-faq.md)
   * [Perpetual Trading](products/pancakeswap-exchange/perpetual-trading/README.md)
     * [Perpetuals Glossary](products/pancakeswap-exchange/perpetual-trading/perpetuals-glossary.md)
@@ -89,8 +90,7 @@
 * [🌐 PancakeSwap Mini-Program](products/pancakeswap-mini-program/README.md)
   * [How to Use PancakeSwap Mini-Program?](products/pancakeswap-mini-program/how-to-use-pancakeswap-mini-program.md)
   * [Mini-Program FAQ](products/pancakeswap-mini-program/mini-program-faq.md)
-* [🍳 Coming Soon!](products/coming-soon/README.md)
-  * [Zap](products/coming-soon/zap.md)
+* [🍳 Coming Soon!](products/coming-soon.md)
 
 ## Tokenomics
 
