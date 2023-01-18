@@ -35,21 +35,21 @@ struct MasterChef has key {
 }
 ```
 
-| Name                         |                                      |                                                |
-| ---------------------------- | ------------------------------------ | ---------------------------------------------- |
-| signer\_cap                  | `account::SingerCapability`          | The signer capability of the resource account. |
-| admin                        | `address`                            | The admin address of the module.               |
-| upkeep\_admin                | `address`                            |                                                |
-| lp\_to\_pid                  | `table_with_length::TableWithLength` |                                                |
-| lps                          | `vector`                             |                                                |
-| pool\_info                   | `vector`                             | A list of pool \_info struct.                  |
-| total\_regular\_alloc\_point | `u64`                                |                                                |
-| total\_special\_alloc\_point | `u64`                                |                                                |
-| cake\_per\_second            | `u64`                                |                                                |
-| cake\_rate\_too\_regular     | `u64`                                |                                                |
-| cake\_rate\_to\_special      | `u64`                                |                                                |
-| last\_upkeep\_timestamp      | `u64`                                |                                                |
-| end\_timestamp               | `u64`                                |                                                |
+| Name                         |                                      |                                                                                                |
+| ---------------------------- | ------------------------------------ | ---------------------------------------------------------------------------------------------- |
+| signer\_cap                  | `account::SingerCapability`          | The signer capability of the resource account.                                                 |
+| admin                        | `address`                            | The admin address of the module.                                                               |
+| upkeep\_admin                | `address`                            | The account can execute upkeep call                                                            |
+| lp\_to\_pid                  | `table_with_length::TableWithLength` | LP token type info and corresponding pool id                                                   |
+| lps                          | `vector`                             | All added Lp token type info array                                                             |
+| pool\_info                   | `vector`                             | A list of pool \_info struct.                                                                  |
+| total\_regular\_alloc\_point | `u64`                                | Sum of all regular farm alloc points                                                           |
+| total\_special\_alloc\_point | `u64`                                | Sum of all special farm alloc points                                                           |
+| cake\_per\_second            | `u64`                                | Cake reward per second for all farm pool                                                       |
+| cake\_rate\_to\_regular      | `u64`                                | The percentage of cake rewards that regular farm can earn                                      |
+| cake\_rate\_to\_special      | `u64`                                | The percentage of cake rewards that special farm can earn                                      |
+| last\_upkeep\_timestamp      | `u64`                                | The timestamp of the last upkeep execution                                                     |
+| end\_timestamp               | `u64`                                | The last time that farms can get cake reward, each upkeep operation will extend this timestamp |
 
 ### PoolUserInfo
 
@@ -97,13 +97,13 @@ struct PoolInfo has store {
 }
 ```
 
-| Name                    | Type   | Description                                  |
-| ----------------------- | ------ | -------------------------------------------- |
-| total\_amount           | `u128` | The total amount of stake token.             |
-| acc\_cake\_per\_share   | `u128` | The accumulated cake per  share in the pool. |
-| last\_reward\_timestamp | `u64`  | The latest time when reward is distributed.  |
-| alloc\_point            | `u64`  |                                              |
-| is\_regular             | `bool` |                                              |
+| Name                    | Type   | Description                                                     |
+| ----------------------- | ------ | --------------------------------------------------------------- |
+| total\_amount           | `u128` | The total amount of stake token.                                |
+| acc\_cake\_per\_share   | `u128` | The accumulated cake per  share in the pool.                    |
+| last\_reward\_timestamp | `u64`  | The latest time when reward is distributed.                     |
+| alloc\_point            | `u64`  | The pool allocated alloc point                                  |
+| is\_regular             | `bool` | True means this pool is regular farm, otherwise is special farm |
 
 ## Entry Functions
 
