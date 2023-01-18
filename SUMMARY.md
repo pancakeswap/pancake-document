@@ -65,6 +65,7 @@
 * [🍯 糖浆彩票](products/tang-jiang-cai-piao/README.md)
   * [如何玩转糖浆彩票](products/tang-jiang-cai-piao/ru-he-wan-zhuan-tang-jiang-cai-piao.md)
   * [糖浆彩票常见问题](products/tang-jiang-cai-piao/tang-jiang-cai-piao-chang-jian-wen-ti.md)
+  * [糖浆彩票抽奖延迟说明](products/tang-jiang-cai-piao/tang-jiang-cai-piao-chou-jiang-yan-chi-shuo-ming.md)
 * [🔄 稳定币兑换](products/wen-ding-bi-dui-huan/README.md)
   * [如何使用StableSwap](products/wen-ding-bi-dui-huan/ru-he-shi-yong-stableswap.md)
 * [🖼 NFT市场](products/nft-shi-chang.md)
