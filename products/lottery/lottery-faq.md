@@ -63,7 +63,7 @@ However, buying more tickets in that purchase will increase the fee. Buying 100 
 
 ## How does the bulk discount work?
 
-The bulk discount rewards buying larger amounts of tickets with a scaling discount. If you're only buying 2 tickets, the discount is negligible, but will add up quickly as you increase the number of tickets to buy in the one transaction.
+The bulk discount rewards buying larger amounts of tickets with a scaling discount. If you're only buying 2 tickets, the discount is negligible, but will add up quickly as you increase the number of tickets to buy in one transaction.
 
 The discount only applies to each transaction up to 100 tickets. The discount does not carry over to the next transaction or next round.
 
@@ -77,6 +77,4 @@ Yes, each ticket is treated as a separate entry to the Lottery. Keep in mind tha
 
 ## Injection schedule: When is CAKE added to the lottery?
 
-When people buy tickets, the CAKE they spend is added to the lottery pot. In addition, 10,000 CAKE is also added (injected) to the lottery pot every other round on a regular schedule over the course of seven rounds per week as shown above in the lottery schedule figure.
-
-This injection schedule started with round 440.
+When people buy tickets, the CAKE they spend is added to the lottery pot. In addition, 8,000 CAKE is also added (injected) to the lottery pot every other round on a regular schedule over the course of seven rounds per week as shown above in the lottery schedule figure.
