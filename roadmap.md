@@ -6,7 +6,7 @@ description: '"Don''t call it a roadmap"'
 
 ![](.gitbook/assets/roadmap-header.png)
 
-_Updated on October 11, 2022_
+_Updated on January 19, 2022_
 
 ### Finally, it's a roadmap not a to-do list.
 
@@ -16,7 +16,7 @@ Pivoting is a way of life.
 
 That means that we don’t publicly commit to specific timelines, so we can organize our development priorities based on market changes and developer resources.
 
-![](<.gitbook/assets/2022 Q4.png>)
+<figure><img src=".gitbook/assets/2023 Q1-4 (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Due to considerations of security and confidentiality, some items are not included in the ‘Cooking In’ section.
@@ -30,13 +30,25 @@ Due to considerations of security and confidentiality, some items are not includ
   [Recently upgraded to a new format](https://medium.com/pancakeswap/reinventing-recipe-new-updates-to-pancakeswap-farm-auctions-2ade3a0283b3?source=collection\_home---4------3-----------------------)
 * UI/UX, Bug Fixes, Product Upgrades
 
-### Cooking in Q4
 
-* Multichain\
-  PancakeSwap is expanding to more blockchains
-* Trading Product Upgrade
-  * New swap router to improve capital efficiency and trading experience
-  * Market-maker integration
+
+## **2023 Plans**
+
+* v3 - Swap and Liquidity Upgrade
+* Multichain Expansion
+* Affiliate and Ambassador Program
+* NFT utilities/ Platfrom Upgrades
+* Fiat integrations
+* More Defi products to come!
+
+### Cooking in Q1
+
+* v3 - Swap and Liquidity Upgrade
+* Aptos IFOs
+* Smart Router Upgrade
+* Ambssador Program
+* PancakeSwap Blog
+* Market Maker integration (coming soon)
 
 ### Backlogs
 
@@ -50,7 +62,7 @@ Due to considerations of security and confidentiality, some items are not includ
 
 #### Trade
 
-* Stablecoin Swap
+* Stablecoin Swap - more pairs added
 * Zap - Provide liquidity in one click
 * Perpetual Trading
 * Limit Orders
@@ -59,6 +71,8 @@ Due to considerations of security and confidentiality, some items are not includ
 * Pancake Bridge
 * Token Risks Scanning
 * Multichain Swap & Liquidity
+* Deployment to Aptos Chain
+* Aptos PancakeSwap Bridge
 
 #### Earn
 
@@ -77,6 +91,8 @@ Due to considerations of security and confidentiality, some items are not includ
 * Auto-compounding CAKE-CAKE Syrup Pool
 * APR/APY Calculator v3
 * Harvest all function
+* Farming on Aptos
+* Syrup Pools on Aptos
 
 #### Win
 
