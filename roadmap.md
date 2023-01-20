@@ -6,7 +6,7 @@ description: '"Don''t call it a roadmap"'
 
 ![](.gitbook/assets/roadmap-header.png)
 
-_Atualizado em 11 de Outubro, 2022_
+_Atualizado em 19 de Janeiro de 2023_
 
 ### Finalmente, isso é um roadmap e não uma lista de tarefas.
 
@@ -16,34 +16,44 @@ Pivotar é um modo de vida.&#x20;
 
 Isso significa que não nos comprometemos publicamente com cronogramas específicos, para que possamos organizar nossas prioridades de desenvolvimento com base nas mudanças do mercado e nos recursos do desenvolvedor.
 
-<figure><img src=".gitbook/assets/2022 Q4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/photo_2023-01-20_11-49-24.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Devido a considerações de segurança e confidencialidade, alguns itens não estão incluídos na seção 'Cozinhar/Cooking'.
+Devido a considerações de segurança e confidencialidade, alguns itens não estão incluídos na seção "Cozinhando no".
 {% endhint %}
 
-### Ongoing/Recurring
+### Em andamento/Recorrente
 
-* IFOs Regularmente
-* Novos Farms e Pools de Syrup regularmente&#x20;
+* IFOs e cIFOs Regularmente
+* Novos Farms e Pools de Syrup Regularmente&#x20;
 * Leilões de Farm\
   [Recentemente Atualizados para um novo formato](https://medium.com/pancakeswap/reinventando-a-receita-novas-atualiza%C3%A7%C3%B5es-para-os-leil%C3%B5es-de-farm-da-pancakeswap-4ef34b7e96ff)
-* Conserto de Bug, Upgrade de performance e UI/UX
+* UI/UX, Correções de Bugs, Upgrades de Produtos&#x20;
 
-### Cozinhando no Q4
+### Planos de 2023&#x20;
 
-* Multichain\
-  PancakeSwap está expandindo para mais blockchains
-* Upgrade do Produto de Trading
-  * Novo router de swap para melhorar a eficiência do capital e experiência de trade
-  * Integração de Market-Maker
+* v3 - Swap e Upgrade de Liquidez
+* Expansão Multichain&#x20;
+* Afiliados e Programa de Embaixador
+* Utilidades de NFT/Upgrades da Plataforma
+* Integrações de Fiat
+* Mais produtos de Defi por vir!
+
+### Cozinhando no Q1
+
+* v3 - Swap e Upgrade de Liquidez
+* IFOs na Aptos
+* Upgrade do Smart Router
+* Programa de Embaixador
+* Blog da PancakeSwap
+* Integração de Market Maker (em breve)
 
 ### Backlogs
 
 * Gameficação de NFT\
-  Potencial colaborações com outros projetos top da BNB Chain
+  Potenciais colaborações com outros projetos top na BNB Chain
 * Mercado de NFT \
-  Fase 3 - plataforma aberta de NFT\
+  Fase 3 - Plataforma Aberta de NFT\
   Outras melhorias e upgrades
 
 ### Feito
@@ -59,6 +69,8 @@ Devido a considerações de segurança e confidencialidade, alguns itens não es
 * Bridge da PancakeSwap
 * Scaneamento de riscos dos tokens
 * Multichain Swap e Liquidez
+* Implantação na Aptos Chain
+* Bridge da PancakeSwap na Aptos
 
 #### Ganhe
 
@@ -77,6 +89,8 @@ Devido a considerações de segurança e confidencialidade, alguns itens não es
 * Pool de Syrup com reinvestimento automático CAKE-CAKE&#x20;
 * Calculadora de APR/APY v3
 * Função Coletar tudo
+* Farma na Aptos
+* Pools de Syrup na Aptos
 
 #### Vença
 
@@ -94,7 +108,7 @@ Devido a considerações de segurança e confidencialidade, alguns itens não es
 * Fase 1 e 2 do Mercado de NFT(Compra e Venda de coleções de NFT listadas)
 * Perfil de usuário customizável
 * Distribuição de NFTs
-* Coleção de NFT generativos Pancake Squad
+* Coleção de NFT generativas Pancake Squad
 
 #### Upgrades do Site / CAKE / Other Products
 
