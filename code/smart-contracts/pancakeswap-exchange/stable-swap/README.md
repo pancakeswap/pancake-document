@@ -6,10 +6,6 @@ description: Fork of Curve Finance
 
 ## Contract info
 
-**Contract name:** PancakeRouter
-
-View [PancakeRouter.sol on GitHub](https://github.com/pancakeswap/pancake-smart-contracts/blob/master/projects/exchange-protocol/contracts/PancakeRouter.sol).
-
 **Binance smart chain**\
 ****Stableswap Factory Contract: 0x36bBb126e75351C0DfB651e39b38fe0BC436FFD2\
 View the [PancakeSwap: Stableswap Factory contract on BscScan.](https://bscscan.com/address/0x36bBb126e75351C0DfB651e39b38fe0BC436FFD2)

@@ -4,6 +4,6 @@
 [v2](v2/)
 {% endcontent-ref %}
 
-{% content-ref url="stable-swap.md" %}
-[stable-swap.md](stable-swap.md)
+{% content-ref url="stable-swap/" %}
+[stable-swap](stable-swap/)
 {% endcontent-ref %}
