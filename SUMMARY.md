@@ -114,6 +114,7 @@
       * [Factory v2](code/smart-contracts/pancakeswap-exchange/factory-v2.md)
       * [Router v2](code/smart-contracts/pancakeswap-exchange/router-v2.md)
     * [Stable Swap](code/smart-contracts/pancakeswap-exchange/stable-swap.md)
+    * [Smart Router](code/smart-contracts/pancakeswap-exchange/smart-router.md)
   * [MasterChef](code/smart-contracts/main-staking-masterchef-contract.md)
   * [Syrup Pools](code/smart-contracts/syrup-pools.md)
   * [CAKE Syrup Pool](code/smart-contracts/fixed-term-staking-cake-pool.md)
