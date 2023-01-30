@@ -10,9 +10,7 @@ Trading on the StableSwap is very similar to using the existing PancakeSwap AMM.
 
 2 - Choose the token pairs you would like to trade.&#x20;
 
-3 - Check the “Use Stableswap for Lower Fees” box. Our [Smart Router](../pancakeswap-exchange/smart-router/) will generate the best possible fees for the Swap.&#x20;
-
-4 - Your all set! The following Swap process is the same as usual! If it’s your first time trading please check the guide [here.](../pancakeswap-exchange/trade-guide.md)
+3 - Your all set! The following Swap process is the same as usual! If it’s your first time trading please check the guide [here.](../pancakeswap-exchange/trade-guide.md)
 
 **Adding & Removing Liquidity**
 
