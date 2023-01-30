@@ -10,8 +10,8 @@ description: >-
 
 PancakesSwap on Aptos! We have landed on Aptos and will continuously deploy more features.&#x20;
 
-{% content-ref url="../smart-contracts/pancakeswap-exchange/" %}
-[pancakeswap-exchange](../smart-contracts/pancakeswap-exchange/)
+{% content-ref url="pancakeswap-exchange/" %}
+[pancakeswap-exchange](pancakeswap-exchange/)
 {% endcontent-ref %}
 
 {% content-ref url="syrup-pools.md" %}
