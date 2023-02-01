@@ -1,6 +1,6 @@
 # CAKE Tokenomics
 
-![](../../.gitbook/assets/221230-en.png)
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ## **Emission rate** <a href="#emission-rate" id="emission-rate"></a>
 
@@ -28,10 +28,9 @@ As such, we haven't included it in the above emission rate.
 
 | Distributed to                | <p>Reward/block</p><p>(% of emission)</p> | <p>Reward/block</p><p>(total CAKE)</p> |           Reward/day |
 | ----------------------------- | ----------------------------------------: | -------------------------------------: | -------------------: |
-| Farms (BSC+ETH)               |                                   \~5.08% |                                 \~2.03 |      58,544 (approx) |
-| Farms (Aptos)                 |                                   \~0.19% |                                 \~0.08 |       2,275 (approx) |
+| Trading                       |                                   \~5.28% |                                 \~2.11 |      60,842 (approx) |
+| Staking                       |                                  \~19.13% |                                 \~7.65 |     220,357 (approx) |
 | Lottery                       |                                   \~0.35% |                               \~0.1389 |       4,000 (approx) |
-| CAKE Syrup Pool               |                                  \~19.13% |                                 \~7.65 |     220,380 (approx) |
 | **Total Daily CAKE Emission** |                                           |                                        | **285,199 (approx)** |
 
 ## **Other Deflationary Mechanics** <a href="#other-deflationary-mechanics" id="other-deflationary-mechanics"></a>
