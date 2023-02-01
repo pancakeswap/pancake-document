@@ -37,24 +37,3 @@ The Kitchen will gradually roll out StableSwap pairs and revise the fees to test
 * StableSwap information page&#x20;
 * Adding more stable trading pairs and the migration process of existing LPs
 
-## Timeline:
-
-* USDC-BUSD, USDT-BUSD, USDC-USDT liquidity provision enabled: **Nov 30 2022 11:00 UTC**
-* Farm migration (CAKE rewards redirect from USDC-BUSD, USDT-BUSD, USDC-USDT LP Farm to USDC-BUSD, USDT-BUSD, USDC-USDT Stable LP Farm): TBD
-
-## FAQ on Stablepool Launch 30 Nov
-
-What happened to the new Stablepools?
-
-* We have encountered a minor issue with the fee parameter
-* This has resulted in an inability to remove liquidity at 50%/50% due to higher admin fees
-
-Key Updates:
-
-* Your funds are safe
-* We have reverted the FE and rolled it back to the previous version before the new pools
-* Fees will be rebated to every active LP provider in the pool
-* In the meantime, the chefs are working on a fix. Once it's deployed, you will be able to manage your stable LP
-* Farm migration will be delay until fix is deployed
-
-We will continue to provide updates here as soon as we can.
