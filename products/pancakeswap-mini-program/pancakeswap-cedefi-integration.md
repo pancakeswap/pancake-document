@@ -1,6 +1,6 @@
 # ⛓ PancakeSwap CEDEFI Integration
 
-The PancakeSwap CEDEFI integration is a partnership with Binance to feature PancakeSwap and bring the decentralized finance (DeFi) experience to Binance users. With the collaboration with Binance, users can seamlessly access a full DeFi experience on PancakeSwap without ever having to leave the app. On **Binance's token search bar**, users will be able to access and trade tokens on PancakeSwap. For other ways to access PancakeSwap on Binance, please check out the [PancakeSwap Mini-Program ](https://docs.pancakeswap.finance/products/pancakeswap-mini-program/how-to-use-pancakeswap-mini-program#other-entrances-to-the-mini-program)documentation.
+The PancakeSwap CEDEFI integration is a partnership with Binance to feature PancakeSwap and bring the decentralized finance (DeFi) experience to Binance users. Collaborating with Binance, users can seamlessly access a full DeFi experience on PancakeSwap without ever having to leave the app. On **Binance's token search bar**, users can access and trade tokens on PancakeSwap. For other ways to access PancakeSwap on Binance, please check out the [PancakeSwap Mini-Program ](https://docs.pancakeswap.finance/products/pancakeswap-mini-program/how-to-use-pancakeswap-mini-program#other-entrances-to-the-mini-program)documentation.
 
 ### Why CEDEFI
 
@@ -62,4 +62,4 @@ While Binance users will be able to access all our LPs and token pairs once they
 
 ### Other CEDEFI Products
 
-While token swap is accessible on Binance search bar, our full product offering is available on the Binance App after users connect their DeFi Wallet. Users will be able to use our AMM Swap, Liquidity Pool, Farming and Syrup pool products on the app. More information can be found in the [Mini-Program Guide](how-to-use-pancakeswap-mini-program.md)[.](how-to-use-pancakeswap-mini-program.md#features-available-in-the-mini-program)
+While token swap is accessible on the Binance search bar, our full product offering is available on the Binance App after users connect their DeFi Wallet. Users will be able to use our AMM Swap, Liquidity Pool, Farming and Syrup pool products on the app. More information can be found in the [Mini-Program Guide](how-to-use-pancakeswap-mini-program.md)[.](how-to-use-pancakeswap-mini-program.md#features-available-in-the-mini-program)
