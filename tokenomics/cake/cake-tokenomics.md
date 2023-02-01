@@ -30,7 +30,7 @@ As such, we haven't included it in the above emission rate.
 | ----------------------------- | ----------------------------------------: | -------------------------------------: | -------------------: |
 | Trading                       |                                   \~5.28% |                                 \~2.11 |      60,842 (approx) |
 | Staking                       |                                  \~19.13% |                                 \~7.65 |     220,357 (approx) |
-| Lottery                       |                                   \~0.35% |                               \~0.1389 |       4,000 (approx) |
+| Other                         |                                   \~0.35% |                               \~0.1389 |       4,000 (approx) |
 | **Total Daily CAKE Emission** |                                           |                                        | **285,199 (approx)** |
 
 ## **Other Deflationary Mechanics** <a href="#other-deflationary-mechanics" id="other-deflationary-mechanics"></a>
