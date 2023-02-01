@@ -90,6 +90,7 @@
 * [🌐 PancakeSwap Mini-Program](products/pancakeswap-mini-program/README.md)
   * [How to Use PancakeSwap Mini-Program?](products/pancakeswap-mini-program/how-to-use-pancakeswap-mini-program.md)
   * [Mini-Program FAQ](products/pancakeswap-mini-program/mini-program-faq.md)
+  * [⛓ PancakeSwap CEDEFI Integration](products/pancakeswap-mini-program/pancakeswap-cedefi-integration.md)
 * [🍳 Coming Soon!](products/coming-soon.md)
 
 ## Tokenomics
