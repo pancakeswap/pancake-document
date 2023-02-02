@@ -84,6 +84,7 @@
   * [vCAKE](productos/voting/vcake.md)
 * [🌐 PancakeSwap Mini-Programa](productos/pancakeswap-mini-programa/README.md)
   * [¿Cómo usar el Mini-Programa de PancakeSwap?](productos/pancakeswap-mini-programa/como-usar-el-mini-programa-de-pancakeswap.md)
+  * [Mini-Programa - Preguntas más Frecuentes (FAQ)](productos/pancakeswap-mini-programa/mini-programa-preguntas-mas-frecuentes-faq.md)
 * [🍳Próximamente](productos/proximamente/README.md)
   * [Zap](productos/proximamente/zap.md)
 
