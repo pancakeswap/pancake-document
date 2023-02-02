@@ -6,7 +6,7 @@ El Mini-Programa de PancakeSwap en la aplicación de Binance es una colaboració
 
 El mini-programa de PancakeSwap es directamente accesible desde la aplicación móvil de Binance para que los usuarios de Binance prueben, experimenten y se enamoren de nuestra plataforma descentralizada. Junto con la billetera DeFi de Binance, los usuarios pueden crear una billetera, transferir fondos y usar PancakeSwap, ¡todo dentro de la aplicación móvil de Binance!
 
-![](<../.gitbook/assets/0 (5)>)
+![](<../../.gitbook/assets/0 (5)>)
 
 ### ¿Por qué es esto importante para PancakeSwap? <a href="#_erb8dhog3zn0" id="_erb8dhog3zn0"></a>
 
