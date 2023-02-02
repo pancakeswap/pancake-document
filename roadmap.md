@@ -1,98 +1,126 @@
 ---
-description: '"No me llames Roadmap"'
+description: “No me llames Roadmap”
 ---
 
 # Roadmap
 
+![](<.gitbook/assets/0 (1).png>)
 
+_Actualizado el 19 de enero de 2023_
 
-![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbKS2mFRDg91ZWCu1Fz%2F-MbKZINH3Atuv5bv2dPZ%2Fdocs%20masthead%20\(19\).png?alt=media\&token=a39e0778-1eab-43da-b421-195e3c54d70e)
+### Finalmente, es un roadmap, no un To-Do List <a href="#_ey0pp1bq3z3c" id="_ey0pp1bq3z3c"></a>
 
+El mundo crypto se mueve rápido y nosotros también.
 
+Mantenerse en constante cambio es un estilo de vida.
 
-_Actualizado el 15 de Julio de 2022_
+Eso significa que no nos comprometemos públicamente con plazos específicos, por lo que podemos organizar nuestras prioridades de desarrollo en función de los cambios del mercado y los recursos de los desarrolladores.
 
-### Chau To-Do List. Hola Roadmap
+![](.gitbook/assets/1.png)
 
-<figure><img src=".gitbook/assets/image (5) (6).png" alt=""><figcaption></figcaption></figure>
+❗ Por seguridad y confidencialidad, algunos ítems no están en la sección de “Cocinando”.
 
-{% hint style="info" %}
-Por seguridad y confidencialidad, algunos ítems no están en la sección de “Cocinando”.
-{% endhint %}
+### **En Desarrollo/Recurrente** <a href="#_86qsi8izsm7m" id="_86qsi8izsm7m"></a>
 
-### En Desarrollo/Recurrente
-
-* Nuevas IFOs y cIFOs
-* Nuevos Syrup Pools + Farms, y algunos sólo Syrup Pools
+* IFOs y cIFOs regulares
+* Nuevos Syrup Pools y Farms
 * Subastas de Farm
-* Actualizaciones de UI / UX en todo el sitio y correcciones de bugs
 
-### Cocinando en Q4
+[Actualizado recientemente a un nuevo formato](https://medium.com/pancakeswap/presentamos-las-subastas-de-farms-recientemente-ajustadas-1cb1213c93d9)
 
-* Multichain\
-  PancakeSwap se está expandiendo hacia otras redes.
-* Actualización de los productos de Trading
-  * Nuevo router del swap, para mejorar la eficiencia del capital y la experiencia del trade
-  * Integración de Market-Maker
+* Actualizaciones de UI / UX en todo el sitio, correcciones de bugs (errores) y actualizaciones de Productos.
 
-### Backlogs
+### **Planes para 2023** <a href="#_13xevdp297dx" id="_13xevdp297dx"></a>
 
-* Gamificación NFT\
-  Potencial colaboración con otros proyectos top de la BNBChain
-* NFT Market Fase 3 - plataforma NFT abierta
+* v3 - Swap y Liquidity actualización
+* Expansión Multichain
+* Programa de Afiliados y Embajadores
+* NFT utilidades / Actualizaciones de la Plataforma
+* Integraciones Fiat
+* ¡Más productos Defi por venir!
 
-### Hecho
+### **Cocinando en Q1** <a href="#_xj571vyorhc6" id="_xj571vyorhc6"></a>
 
-#### Trade
+* v3 - Swap y Liquidity actualización
+* IFOs en Aptos
+* Actualización del Smart Router
+* Programa de Embajadores
+* PancakeSwap Blog
+* Integración de Market Maker (próximamente)
 
-* Stablecoin Swap (estables)
-* Zap - Agregar liquidez con un solo click
-* Trading Perpetuo
-* Órdenes Límite
-* Gráficos y otras funciones de trading en el sitio
+### **Trabajos atrasados** <a href="#_fq7xnoy9higs" id="_fq7xnoy9higs"></a>
+
+* Gamificaciones NFT
+
+Posibles colaboraciones con otros proyectos importantes en BNB Chain.
+
+* Mercado NFT
+
+Fase 3 - plataforma NFT abierta
+
+Otras mejoras y actualizaciones.
+
+### **Hecho** <a href="#_38d04ctfncv3" id="_38d04ctfncv3"></a>
+
+#### **Trade** <a href="#_76cb6g5iuf8q" id="_76cb6g5iuf8q"></a>
+
+* Stablecoin Swap - más pares añadidos
+* Zap - Proporciona liquidez con un solo clic
+* Trading perpetuo
+* Órdenes Limite
+* Gráficos y otras características de trading en el sitio
 * Migración a Exchange V2 (exchange, liquidez, farms)
-* Pancake Bridge
-* Scan Risk - Scanner de riesgo potencial de los tokens
-* Swap y liquidez Multichain
+* Puente de Pancake
+* Escáner de riesgo para los tokens
+* Swap y Liquidez multichain
+* Implementación en Aptos Chain
+* Puente de PancakeSwap Aptos
 
-#### Earn
+#### **Earn** <a href="#_vjdjx9gl4xxd" id="_vjdjx9gl4xxd"></a>
 
-* CAKE Staking\
-  Con la posibilidad de tener pool bloqueado y flexible simultáneamente
-* Beneficios para el pool bloqueado\
-  . iCAKE, bCAKE, vCAKE\
-  . Eventos con proyectos conocidos
-* Pools, Farms Core&#x20;
-* Pools de Comunidad: Hostear Pool de Proyectos de BSC, con 0.1-0.2x CAKE farms
-* Farm en otras redes
-* Auto-compounding CAKE-CAKE Syrup Pool
-* Syrup Pool Farm Boosts
-* APR/APY Calculadora v3
-* Función Cosecha Total
+* CAKE staking
+  * Staking a plazo fijo
+  * Staking flexible y también puedes bloquear CAKE (a plazo fijo) en el mismo pool.
+* Beneficios por staking a plazo fijo
+  * iCAKE, beneficios en IFO
+  * vCAKE, poder de voto ponderado
+  * bCAKE, potenciador del rendimiento en farms
+  * Eventos con proyectos conocidos
+* Farms
+* Farming crosschain
+* Syrup Pools
+* Syrup Pool Farm Boosts (potenciadores)
+* Interés compuesto automático en el Syrup Pool CAKE-CAKE
+* APR/APY calculadora v3
+* Función de cosecha total
+* Farming en Aptos
+* Syrup Pools en Aptos
 
-#### Win
+#### **Win** <a href="#_u7a5ujie2tin" id="_u7a5ujie2tin"></a>
 
-* Lotería v2
-* Predicción v0.2\
-  con doble opción CAKE o BNB\
-  con Gráfico de Precios de Chainlink
+* Loteria v2
+* Predicción v0.2
+
+Con doble opción CAKE o BNB Con Gráfico de Precios de Chainlink y Chainlink Keepers
+
 * Team Battle (Competencia de Trading)
 * Pottery (Lotería por staking) - Una nueva serie cada mes
 
-#### Ecosistema NFT
+#### **NFT** <a href="#_klqhzdd276c0" id="_klqhzdd276c0"></a>
 
-* NFT Market Fase 1 & 2(comprar & vender Colecciones NFT listadas)
+* NFT Market Fase 1 & 2 (comprar & vender Colecciones NFT listadas)
 * Perfil de Usuario Personalizable
 * NFT drops
-* Colección PancakeSquad NFT
+* Colección Pancake Squad NFT
 
-#### Actualizaciones del Sitio  / CAKE / Otros Productos
+#### **Actualizaciones del Sitio / CAKE / Otros Productos** <a href="#_mjkwsc9y0xhb" id="_mjkwsc9y0xhb"></a>
 
 * Navegación mobile & revisión del sitio
 * Analytics: Sitio de Info
-* Votación v2
 * IFO CAKE Pool & IFO 3.0
-* IFO\
-  \- Ventas privadas con utilidad NFT, IFO Syrup Pool\
-  \- cIFO. Venta privada con perfil de PCS y utilidad de puntos.
-* PCS Mini-Program en Binance App
+* IFO
+  * Ventas privadas con utilidad NFT
+  * cIFO, venta privada con perfil de PCS y utilidad de puntos.
+  * Token vesting
+  * Integracion del iCAKE
+* PCS Mini-Programa en Binance App

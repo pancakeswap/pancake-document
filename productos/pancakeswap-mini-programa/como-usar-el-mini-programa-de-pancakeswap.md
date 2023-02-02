@@ -8,7 +8,7 @@ Para encontrar el Mini-Programa de PancakeSwap, simplemente puede ir a su aplica
 
 Una vez que esté en el Marketplace, puede encontrar fácilmente el Mini-programa de PancakeSwap dentro de la lista Popular o alternativamente, también puede buscarlo.
 
-![](../../.gitbook/assets/1.png)
+![](<../../.gitbook/assets/1 (1).png>)
 
 ### Configuración del Mini-Programa de PancakeSwap <a href="#_4py3ye639zdl" id="_4py3ye639zdl"></a>
 
