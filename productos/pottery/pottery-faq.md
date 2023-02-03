@@ -52,6 +52,16 @@ Este arreglo combina el depósito para dirigirlo al Pool de Stake bloqueado, de 
 
 Hay un depósito mínimo de 1 CAKE. En la etapa beta del producto, también habrá un límite máximo de depósito para cada serie que puede ver en el panel Depósito cuando realiza el depósito. Esto es para asegurarse de que toda la operación, incluidos los préstamos de tesorería, el Stake bloqueado y el sorteo, funcione sin problemas. Si bien el máximo que puede depositar es el límite máximo de depósito de esa serie (si nadie más ha depositado un CAKE), ganaría todos los premios, sin embargo, eso también significa que el rendimiento final que obtendrá es el mismo que poner su CAKE en el pool de stake bloqueado durante 10 semanas, pero además pagará las tarifas de Pottery.
 
+## ¿Por qué necesitamos el sistema de series? ¿Por qué no solo los agrupamos todos juntos?
+
+Dado que Pottery está interactuando con el Staking Bloqueado de CAKE (a Plazo fijo), cualquier depósito puede ser retirado solo después del periodo de bloqueó. Si queremos agrupar todos los depósitos juntos, mientras agregamos más deposito después del bloqueo inicial y además bloquearlos por 10 semanas (desde el momento del nuevo depósito), los depositantes iniciales no podrían retirar a tiempo.
+
+## ¿Qué es el token SHARE?
+
+Los tokens SHARE son generados y distribuidos cuando depositas en el Pottery. Representan y sirven como una credencial de tu participación y depósito en el pool.
+
+Al retirar, los tokens SHARE son transferidos de vuelta al contrato del Pottery y quemados.
+
 ## ¿Dónde puedo enviar comentarios sobre este producto?
 
 ¡No dude en comunicarse con nosotros en [Telegram ](https://t.me/PancakeSwapES)o [Discord ](https://discord.gg/pancakeswap)si aún no está seguro sobre el formato o si tiene algún comentario para que lo mejoremos aún más!
