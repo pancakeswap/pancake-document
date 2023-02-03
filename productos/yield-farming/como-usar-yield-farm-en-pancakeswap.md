@@ -61,7 +61,7 @@ Cuando esté listo, haga clic en el botón **Enable** y confirme su acción en s
 
 3 - Escriba la cantidad de tokens LP con los que desea ingresar al Farm, o simplemente haga clic en **Max** para usar todos sus tokens LP.
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (2).png>)
 
 4 - Cuando haya introducido la cantidad, el botón **Confirm** se iluminará. Haga clic en él. Su billetera le pedirá que confirme su acción.
 
@@ -72,7 +72,7 @@ Cuando esté listo, haga clic en el botón **Enable** y confirme su acción en s
 {% hint style="info" %}
 Cuando esté farmeando un una red diferente a BNB Chain, deberá esperar unos 30 minutos para que se confirmen las transacciones cross-chain.
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (2).png>)
 
 Para monitorear el progreso de una transacción cross-chain, clic en el ícono circular junto a su balance, o revise la sección de "transacciones recientes" en la esquina superior derecha.
 {% endhint %}

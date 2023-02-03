@@ -4,13 +4,13 @@
 
 PancakeSwap ofrecerá un CAKE Syrup Pool con dos opciones de staking: flexible o a plazo fijo. Tenga en cuenta que los pools Auto CAKE, IFO CAKE y Manual CAKE se retirarán tras el lanzamiento del nuevo CAKE Syrup Pool con depósito flexible y a plazo fijo. ¡Sigue leyendo para obtener más información!
 
-![\*El APY es ilustrativo](../../../.gitbook/assets/spaces\_-MHREX7DHcljbY5IkjgJ-1972196547\_uploads\_git-blob-0171fbdc2020af82cef4220b41d02c155865cfa3\_cake-pool-enabled1.png)
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## Cuál es la diferencia entre “Flexible” y “A Plazo Fijo"?
 
-Con ambos, simplemente puedes depositar tus CAKE para ganar más CAKE sin tarifas de depósito. Ambas opciones de depósito reinvierten recompensas para ti. El staking flexible permite a los usuarios depositar CAKE y ganar recompensas con la capacidad de retirar cuando lo deseen. El staking a plazo fijo ofrece a los usuarios la oportunidad de maximizar su rendimiento y ganar aún más CAKE al bloquear sus CAKE depositados durante un período de tiempo que elijan, ganando un APY potenciado linealmente en comparación con el staking flexible.
+Con ambos, simplemente puedes depositar tus CAKE para ganar más CAKE sin tarifas de depósito. El staking flexible permite a los usuarios depositar CAKE y ganar recompensas con la capacidad de retirar cuando lo deseen. El staking a plazo fijo ofrece a los usuarios la oportunidad de maximizar su rendimiento y ganar aún más CAKE al bloquear sus CAKE depositados durante un período de tiempo que elijan, ganando un APR potenciado linealmente en comparación con el staking flexible.
 
-El staking flexible y el staking a plazo fijo forman parte del mismo pool para permitir a los usuarios una fácil migración entre las dos opciones de depósito. **Debido a esto, solo puede elegir una opción de staking a la vez**. Más detalles sobre las diferencias a continuación.
+El staking flexible y el staking a plazo fijo forman parte del mismo pool para permitir a los usuarios una fácil migración entre las dos opciones de depósito, o bien, depositar en ambas simultáneamente. Más detalles sobre las diferencias a continuación.
 
 ### Staking Flexible&#x20;
 

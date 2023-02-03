@@ -48,7 +48,7 @@ Tenga en cuenta que cualquier modificación del usuario en las farms o el pool d
 Aprende más [aquí](faq.md).
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (2) (2).png>)
+![](<../../../.gitbook/assets/image (2) (2) (1).png>)
 
 Hay un límite en el número de farms que se pueden potenciar simultáneamente. Para verificar el número de boost restantes, consulte el panel en la parte superior.&#x20;
 
