@@ -116,7 +116,7 @@ This design ensures the benefits are not only offered to large holders, but to a
 
 Learn more about how the multiplier is calculated [here](faq.md#how-are-the-bcake-multipliers-calculated).
 
-### Why only CAKE/BUSD? Why only 1 farm?
+### Why there are only 3 farms that are booster-available?
 
 Since bCAKE involves updating one of PancakeSwap's core products, which is liquidity farming. Chefs want to take a slower and more steady approach to the launch.&#x20;
 
