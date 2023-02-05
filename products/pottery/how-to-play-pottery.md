@@ -22,7 +22,7 @@ The deposit for each Pottery cohort is open once a month. The deposit closes and
 
 ![](https://lh5.googleusercontent.com/\_TqVUlNGtnGvGz\_wysnq-KmewS\_CjmUJ0jMHwzRMLx47Rmq-x868M0q-iBXCqynotDqz3mxnUZovExx4bUb8BBv3W6OXl4u4pJWFmOz\_\_IYASvQ\_hgmccB3GPaL1oz4TutJr3PTwdz\_2NoVzmnpkcD0)
 
-– In this case, you can deposit your CAKE to participate in the Pottery if the APY, total value locked, and the odds of winning are acceptable to you. Before you deposit, please make sure you fully understand the risks of participating! All deposits will be locked for 10 weeks with no early withdrawal under any circumstances. Please learn more about [the risks and fees here](https://docs.pancakeswap.finance/products/pottery).
+– In this case, you can deposit your CAKE to participate in the Pottery if the APR, total value locked, and the odds of winning are acceptable to you. Before you deposit, please make sure you fully understand the risks of participating! All deposits will be locked for 10 weeks with no early withdrawal under any circumstances. Please learn more about [the risks and fees here](https://docs.pancakeswap.finance/products/pottery).
 
 ## **Viewing your deposit**
 

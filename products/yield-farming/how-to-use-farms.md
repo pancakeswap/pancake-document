@@ -59,7 +59,7 @@ When you’re ready, click the **Enable** button and confirm your action in your
 
 2 - After a short wait, the Enable button will change to **Stake LP**. Click it and a new window will appear.
 
-![](<../../.gitbook/assets/image (7) (1).png>)
+![](<../../.gitbook/assets/image (7) (1) (2).png>)
 
 3 - Type the amount of LP Tokens you would like to farm with into the field, or just click **Max** to use all of your LP Tokens.
 

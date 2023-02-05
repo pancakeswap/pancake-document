@@ -34,7 +34,7 @@ After each draw on Friday at around noon UTC, you can view the results and winne
 
 ## What is the funding source of the prize?
 
-The prize pools are funded by the staking rewards of the deposits. However, since the staking rewards of the CAKE locked staking pool are only distributed after the lock duration – 10 weeks in this case, for better product experience and to facilitate the weekly draws right after the deposit date, the contract is borrowing 80% of the estimated total staking rewards from the cohort from the CAKE treasury based on the APY at the time of locking. The borrowed CAKE is used for the payout for each weekly draw. Learn more about [the product structure here](https://docs.pancakeswap.finance/products/pottery)!
+The prize pools are funded by the staking rewards of the deposits. However, since the staking rewards of the CAKE locked staking pool are only distributed after the lock duration – 10 weeks in this case, for better product experience and to facilitate the weekly draws right after the deposit date, the contract is borrowing 80% of the estimated total staking rewards from the cohort from the CAKE treasury based on the APR at the time of locking. The borrowed CAKE is used for the payout for each weekly draw. Learn more about [the product structure here](https://docs.pancakeswap.finance/products/pottery)!
 
 ## If I win, do I need to manually claim the prize?
 

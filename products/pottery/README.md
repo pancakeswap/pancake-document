@@ -38,7 +38,7 @@ The deposits are grouped into monthly cohorts for more efficient arrangement of 
 
 80% of the staking rewards will be directed to fund the prize pool for 10 weekly draws and the rest 20% will be reserved as staking rewards when you withdraw your CAKE deposit after 10 weeks.
 
-However, since the staking rewards of the CAKE locked staking pool are only distributed after the lock duration – 10 weeks in this case, for better product experience and to facilitate the weekly draws right after the deposit date, the contract is borrowing 80% of the estimated total staking rewards from the cohort from the CAKE treasury based on the APY at the time of locking. The borrowed CAKE is used for the payout for each weekly draw.
+However, since the staking rewards of the CAKE locked staking pool are only distributed after the lock duration – 10 weeks in this case, for better product experience and to facilitate the weekly draws right after the deposit date, the contract is borrowing 80% of the estimated total staking rewards from the cohort from the CAKE treasury based on the APR at the time of locking. The borrowed CAKE is used for the payout for each weekly draw.
 
 At the end of the 10 weeks, when the rewards are distributed from the staking pool, the CAKE treasury will be repaid first, then the rest will be directed back to the vault for users to withdraw together with their initial deposit in the cohort.
 
@@ -46,9 +46,9 @@ At the end of the 10 weeks, when the rewards are distributed from the staking po
 
 For example, if the Pottery cohort on Aug 1 2022 has attracted 100,000 CAKE deposits in total, the estimated return for 10 weeks of locked staking is around 3,674 CAKE. The contract will borrow 80% of it, or around 2,940 CAKE, for the prize pool for 10 weekly draws, i.e. 294 CAKE in total prizes for each weekly draw before fees.
 
-It is important to note that the rewards and APY at the end of the duration from the deposit may change over the 10-week duration based on other deposits and their lock-periods in the locked CAKE pool, there may be a small deviance from the percentages specified (+/- 10%).
+It is important to note that the rewards and APR at the end of the duration from the deposit may change over the 10-week duration based on other deposits and their lock-periods in the locked CAKE pool, there may be a small deviance from the percentages specified (+/- 10%).
 
-All staking rewards net of fees will be returned to depositors through prize pool or rewards. If the actual APY is lower than the estimated APY at the time of locking, it means more rewards are distributed to the depositors during the weekly draws, and less for the staking rewards portion. If the actual APY is higher than the estimated APY at the time of locking, less rewards are distributed through the weekly draws and more are reserved for the staking rewards available for withdrawal. Ultimately, the expected value is the same.
+All staking rewards net of fees will be returned to depositors through prize pool or rewards. If the actual APR is lower than the estimated APR at the time of locking, it means more rewards are distributed to the depositors during the weekly draws, and less for the staking rewards portion. If the actual APR is higher than the estimated APR at the time of locking, less rewards are distributed through the weekly draws and more are reserved for the staking rewards available for withdrawal. Ultimately, the expected value is the same.
 
 ## **How to Win – Odds Calculation**
 
