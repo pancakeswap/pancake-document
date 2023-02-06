@@ -75,7 +75,7 @@ description: 在PancakeSwap上使用农场非常简单！
 {% hint style="info" %}
 当在 BNB 链之外的区块链上进行流动性挖矿时，您需要等待约 30 分钟待跨链讯息传递完毕。
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 若要查看您的进程，可以点击余额右侧的转圈图标（circular icon），或点击右上角的「最近的交易（Recent Transaction）」。
 {% endhint %}

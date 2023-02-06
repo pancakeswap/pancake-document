@@ -34,7 +34,7 @@ StableSwap 的流动性有一些不同之处：
 
 &#x20;2\. 两种资产的供应数量可能在供应阶段是不平衡的，会有一个确认页面显示您的供应比例。
 
-<figure><img src="../../.gitbook/assets/4 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
 
 3\. 您将收到一个 Stable-LP 代币作为流动性凭证，以供将来提取和移除您的流动性。
 
