@@ -6,7 +6,7 @@ The PancakeSwap Mini-Program in the Binance application is a collaboration with 
 
 The PancakeSwap Mini Program is directly accessible from the Binance mobile application for Binance users to try, experience and fall in love with our decentralized platform. Together with the Binance DeFi Wallet, users can create a wallet, transfer funds and use PancakeSwap — all within the Binance mobile application!
 
-![](https://lh6.googleusercontent.com/LFoWSjb-KYXpww\_tYmGu0C-t3M5RhmGkz4O46y7XGTuUnmA7fDXOxsVowcmmNjv0bYE3yZ9B0GJWqFmEJIeP1gFacxqwO4LOVxwKqxsvg2H-CS9a--pQIYdKjTiPIguZnZXdJmrny4da0z-MCY7PvHE)
+![](../../.gitbook/assets/mini-program-01.gif)
 
 ## Why is this important for PancakeSwap?
 

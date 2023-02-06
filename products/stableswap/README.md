@@ -18,9 +18,9 @@ Fees for pairs are broken down in the table below:
 
 | Stablepair | Trading Fees | LP Rewards | CAKE Buyback | PancakeSwap Treasury |
 | ---------- | ------------ | ---------- | ------------ | -------------------- |
-| USDT-BUSD  | 0.15%        | 0.075%     | 0.06%        | 0.015%               |
-| USDC-BUSD  | 0.15%        | 0.075%     | 0.06%        | 0.015%               |
-| USDC-USDT  | 0.15%        | 0.075%     | 0.06%        | 0.015%               |
+| USDT-BUSD  | 0.01%        | 0.005%     | 0.004%       | 0.001%               |
+| USDC-BUSD  | 0.01%        | 0.005%     | 0.004%       | 0.001%               |
+| USDC-USDT  | 0.01%        | 0.005%     | 0.004%       | 0.001%               |
 | HAY-BUSD   | 0.04%        | 0.02%      | 0.016%       | 0.004%               |
 
 The Kitchen will gradually roll out StableSwap pairs and revise the fees to test and improve the product further.

@@ -46,4 +46,4 @@ In some extreme cases including some scams, some tokens even have a block on mos
 
 We welcome all feedback and we’re always trying to improve for our community. For any feedback on the Mini-Program, other than the usual [Telegram](https://t.me/pancakeswap) or [Discord](https://discord.gg/pancakeswap), you can also submit your feedback within the Mini-Program, in the feedback button after you click on the three dots on the top-right corner.
 
-![](https://lh6.googleusercontent.com/eRIUyIBXOv6t-yGG3ywzorjKnBuFlW-SRh\_iFoEp6X6XFDjqtV6F-a\_sbm1WD892TLk-XwPWcZlJe0PBH5Ir7l5MtmCq1ExH-VMrC-yzUIJZGX3jBzzYec3R-qr67-\_TU6fIKIOMIj2-zLYN5Gd5Cec)
+<figure><img src="../../.gitbook/assets/mini-program-15.jpg" alt=""><figcaption></figcaption></figure>
