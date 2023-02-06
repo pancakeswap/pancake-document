@@ -1,6 +1,6 @@
 # CAKE 跨链指南
 
-<figure><img src="../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 随着我们在 Aptos 上的多链扩展和部署。CAKE 现在是一个多链代币，同时存在于 BNB 智能链和 Aptos上。&#x20;
 

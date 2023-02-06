@@ -81,7 +81,10 @@
   * [如何投票](products/voting/ru-he-tou-piao/README.md)
     * [如何使用SafePal钱包进行投票](products/voting/ru-he-tou-piao/how-to-vote-with-safepal-wallet.md)
   * [vCAKE](products/voting/vcake.md)
-* [🌐 PancakeSwap迷你小程序](products/pancakeswap-mi-ni-xiao-cheng-xu.md)
+* [🌐 PancakeSwap 迷你小程序](products/pancakeswap-mi-ni-xiao-cheng-xu/README.md)
+  * [如何使用 PancakeSwap 迷你小程序](products/pancakeswap-mi-ni-xiao-cheng-xu/ru-he-shi-yong-pancakeswap-mi-ni-xiao-cheng-xu.md)
+  * [迷你小程序常见问题解答](products/pancakeswap-mi-ni-xiao-cheng-xu/mi-ni-xiao-cheng-xu-chang-jian-wen-ti-jie-da.md)
+  * [⛓ PancakeSwap CEDEFI Integration](products/pancakeswap-mi-ni-xiao-cheng-xu/pancakeswap-cedefi-integration.md)
 * [🍳 即将到来！](products/ji-jiang-dao-lai.md)
 
 ## 经济模型 <a href="#tokenomics" id="tokenomics"></a>

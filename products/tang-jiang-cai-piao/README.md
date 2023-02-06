@@ -37,7 +37,7 @@
 
 在 10 周结束时，当从锁仓质押池中分发奖励时，将首先偿还借用的 CAKE 资金，然后将剩余的资金引导回金库，供用户连同他们在本组糖浆彩票中的本金一起提取。
 
-&#x20;                                               <img src="../../.gitbook/assets/image (11).png" alt="" data-size="original">
+&#x20;                                               <img src="../../.gitbook/assets/image (12).png" alt="" data-size="original">
 
 例如，如果糖浆彩票组在 2022 年 8 月 1 日总共吸引了 100,000 个 CAKE 存款，那么 10 周锁仓质押的估计回报约为2799个 CAKE。合约将借用其中的 80%，或约 2239个 CAKE，作为每周抽奖的奖池，即每周每次抽奖的总奖金为 223.9 CAKE（不计费用）。
 

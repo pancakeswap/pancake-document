@@ -46,7 +46,7 @@
 
 当你有了你正在寻找的LP代币对的代码时，找到“56：”之后的地址。 这将是您的合约地址。
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 从用户界面入手
 
@@ -166,7 +166,7 @@ PancakeSwap 团队强烈建议避免使用此功能，除非 PancakeSwap 团队�
 
 3.一直向下滚动到 fuction 4，“emergencywithdraw”，然后在“\_pid”字段中输入您的 PID。
 
-<figure><img src="../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 如果您之前没有复制您的 PID，您可以在此页面上方的"**Finding Farm process identifier"** **查找农场进程标识符**部分中了解如何获取它。
 
