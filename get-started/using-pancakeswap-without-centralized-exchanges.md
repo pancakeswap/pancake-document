@@ -19,39 +19,15 @@ Você pode usar uma variedade de diferentes bridges cross-chain para transferir 
 Nos tutoriais a seguir, vamos demonstrar como mover o USDT de uma variedade de blockchains diferentes para o BNB Smart Chain, usando três bridges cross-chain diferentes.
 
 {% tabs %}
-{% tab title="Binance Bridge (Recomendado)" %}
-A Binance Bridge pode ser a ponte mais fácil de usar para mover ativos para a BNB Smart Chain (BSC).
+{% tab title="🥞🌉Pancake Bridge (Recomendado)" %}
+****\
+****![](<../.gitbook/assets/image (5).png>)****
 
-No exemplo a seguir, mostraremos como mover o USDT da blockchain TRON para a BSC usando o Binance Bridge.
+****[**PancakeSwap Bridge** ](http://bridge.pancakeswap.finance/)— uma bridge de cross-chain de ativos nativos, alimentada pela Stargate.&#x20;
 
-O processo é quase o mesmo para mudar do Ethereum para a BSC.
+Essa ponte permite que você mova facilmente suas stablecoins para a BNB Chain e participe da animada comunidade PancakeSwap e do amplo ecossistema BNB!&#x20;
 
-1. Prepare sua carteira TRON com USDT e algum TRX para o gás da rede.
-2. Como o Binance Bridge suporta apenas MetaMask e Binance Chain Wallet. Se você estiver usando outros aplicativos de carteira, recomendamos que você importe sua carteira para o MetaMask.
-3. Navegue para [https://www.binance.org/en/bridge](https://www.binance.org/en/bridge)
-4. Conecte sua carteira MetaMask ou BNB Smart Chain.
-5.  Selecione a rede TRX como "From", e rede BNB Smart Chain como "To". Então digite a quantidade de USDT que você quer transferir.
-
-    <img src="https://lh4.googleusercontent.com/YqgaYo5CvC0kKWvcfTyNt2fUMl2MAiexQBsNwvzpUQZVQ1up2Cy8g74iIKZKZGJDb8DouL2YIuP40el5XvuvR29CKEJOUJCDht9Vss_BLgOiLuJKkB5xcRSTLuEO7XAu3XT06qNj=s0" alt="" data-size="original">
-6.  Além disso, você pode pedir à Binance Bridge para trocar alguns BNB para você no processo de mover seu USDT de TRON para BSC. Isso é particularmente útil quando você é novo na BNB Smart Chain com uma carteira nova e precisa de algum BNB para o gás.
-
-    <img src="https://lh3.googleusercontent.com/YVaOIhQLzZpKBT3yEEQnI7f3aR0sOtb2PcII___k6_cqNoXOZXrkI6R0HnieRflrrCmO3Cpu_zP1LnvcIwxSCFnii3wwI9OMY4dPA12WoJD6qaLxPC9V8r3eUwTe2EhDGHKuTNd8=s0" alt="" data-size="original">
-7. Verifique duas vezes se o campo de “Destination/Destino” está mostrando o endereço de carteira BNB Smart Chain correto que você conectou.
-8.  Clique em “Next”. E escolha a quarta opção.
-
-    **AVISO: Você só pode enviar fundos de uma carteira blockchain (neste caso, TRON). Se seus fundos estiverem em alguma outra corretora centralizada, mova-os primeiro para a carteira blockchain.**
-
-    ****<img src="https://lh6.googleusercontent.com/c8lU9osyhHcn99Y2swFt8KM-GKbEgVcZWqva4Ozz9WFTOKTjIJZ78QghotDjsgBkz0DpT6lgocYpAx_T80zxeYP7aaNuui5iZIj0ZSAcEkazCjKh6zmw_Fvl2G-ib27NzqifH6-I=s0" alt="" data-size="original">
-9. Verifique se tudo está correto, clique em “Avançar”.
-10. Por fim, siga as instruções na tela, use sua carteira blockchain (neste caso, carteira TRON) e envie fundos para o endereço fornecido. Por favor certifique-se:
-    1. O endereço está correto.
-    2. Conclua em uma única transação.
-    3.  Conclua dentro do prazo. (mostrado abaixo como contagem regressiva)
-
-        <img src="https://lh6.googleusercontent.com/mag8YXlpq0WtvlOP7GfPNZrXWralO5l6eWPFTrv9ZiQiyTryXBjtm4GVw_coNjnthYIm-GlP5o_ZuIF0lzOFYXnWn4wMSvcGOnmZIfVlOtTb0c08F6xgsL-4Gs936pYHUzJYbVOg=s0" alt="" data-size="original">
-11. Depois de concluir a transação. Você deve receber seu fundo na carteira BNB Smart Chain em alguns minutos. Depois disso, você pode começar a usar a PancakeSwap para negociar alguns tokens na BNB Smart Chain!
-
-Além disso, você pode conferir [esse guia do usuário](https://binance-wallet.gitbook.io/binance-bridge/guides/binance-bridge-v3) e o [vídeo tutorial](https://fast.wistia.net/embed/iframe/fhip2z4nth) da Binance.
+📖 [Aprenda a usar](https://medium.com/pancakeswap/lan%C3%A7amento-da-bridge-da-pancakeswap-uma-parceria-com-a-stargate-e2a38612270b)
 {% endtab %}
 
 {% tab title="AnySwap" %}

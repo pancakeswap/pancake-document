@@ -90,7 +90,7 @@ Você também pode escolher a moeda de referência para ver sua posição
 
 Quando todos os parâmetros estiverem definidos, você pode enviar o pedido clicando em long, se for uma ordem de compra, ou short, se for uma ordem de venda.
 
-![](<../../../.gitbook/assets/image (59) (3).png>)
+![](<../../../.gitbook/assets/image (59).png>)
 
 ### Checando sua posição
 

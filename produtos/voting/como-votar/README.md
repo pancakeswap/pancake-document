@@ -42,7 +42,7 @@ Pronto, você acabou de votar com sucesso.
 {% tab title="Verificando o poder de voto" %}
 Antes de votar, você verá uma janela "Confirmar Voto".
 
-![](<../../../.gitbook/assets/image (146).png>)
+![](<../../../.gitbook/assets/image (146) (1).png>)
 
 Nesta janela, você pode verificar novamente os seguintes itens:&#x20;
 
@@ -51,7 +51,7 @@ Nesta janela, você pode verificar novamente os seguintes itens:&#x20;
 
 Se você não tem certeza sobre como o poder de voto é calculado, clique em ">" para abrir o detalhamento.
 
-![](<../../../.gitbook/assets/image (79).png>)
+![](<../../../.gitbook/assets/image (79) (1).png>)
 
 Observe que apenas o CAKE nos seguintes locais contribuirá para o número total de poder de voto:&#x20;
 

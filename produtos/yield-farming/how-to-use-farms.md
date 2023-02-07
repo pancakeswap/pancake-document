@@ -30,7 +30,7 @@ Pode parecer intimidante, mas não é muito complicado. Vamos passo a passo.
 
 Antes de prosseguir, você deve escolher um Farm certo para você. [Visite a página dos Farms](https://pancakeswap.finance/farms) e você verá a lista dos Farms disponíveis.
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (1).png>)
 
 Você pode escolher outra opção de classificação, se desejar, como por **APR** para os Farms com a maior taxa de recompensa atualmente.
 
@@ -43,7 +43,7 @@ Agora que você encontrou um Farm para fazer stake, precisará adicionar liquide
 1. Clique na linha do Farm  que você escolheu na lista. Ele será aberto para mostrar mais detalhes.
 2. À esquerda, você verá alguns links. Clique no link Obter (seu par) LP (**Get (your pair) LP)**.
 
-![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (9) (1).png>)
 
 ## Colocando seus LP Tokens no farm
 
@@ -53,7 +53,7 @@ Agora que você tem seus LP Tokens, você está pronto para começar a fazer sta
 
 1 - Vá para a [página dos Farms](https://pancakeswap.finance/farms)  e localizar seu Farm. Clique em qualquer lugar na linha que mostra seu par. Ele será expandido para mostrar mais detalhes.
 
-![](<../../.gitbook/assets/image (3) (3).png>)
+![](<../../.gitbook/assets/image (3).png>)
 
 Quando estiver pronto, clique no botão **Ativar (Enable)** e confirme sua ação na sua carteira.&#x20;
 
@@ -69,7 +69,7 @@ Quando estiver pronto, clique no botão **Ativar (Enable)** e confirme sua açã
 
 5 - Após uma breve espera, a janela fechará e você verá seu novo saldo de LP Token em stake nos detalhes.
 
-![](<../../.gitbook/assets/image (39).png>)
+![](../../.gitbook/assets/image.png)
 
 {% hint style="info" %}
 Quando você está realizando farm cross-chain em uma blockchain EVM diferente da BNB Chain. Você precisará aguardar aproximadamente 30 minutos para que as transações cross chain sejam confirmadas.
@@ -128,7 +128,7 @@ Quando você está realizando farm crosschain em uma blockchain EVM diferente da
 
 Se a sua carteira não suportar troca de chain. Fazendo stake ou removendo stake seus tokens LP vão sempre colher seu CAKE. Observe que o CAKE colhido será distribuído na BNB Smart Chain.
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (6).png>)
 {% endhint %}
 
 ### Com qual frequência devo sacar minhas recompensas?

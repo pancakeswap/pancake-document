@@ -22,7 +22,7 @@ Existem algumas diferenças para a liquidez do StableSwap:&#x20;
 
 1 - Quando você seleciona os pares de ativos que estão habilitados para StableSwap (por exemplo, HAY-BUSD), o frontend solicitará que você forneça “LP de Stable”
 
-![](<../../.gitbook/assets/image (7) (1).png>)
+![](<../../.gitbook/assets/image (7) (1) (2).png>)
 
 2 - O fornecimento dos dois ativos pode estar desequilibrado na fase de fornecimento, existindo uma página de confirmação para mostrar a proporção do seu fornecimento.
 
@@ -34,7 +34,7 @@ Existem algumas diferenças para a liquidez do StableSwap:&#x20;
 
 4 - No entanto, OBSERVE que ao remover a liquidez, você sempre obterá 50%/50% dos ativos, independentemente da proporção de quando você adicionou. Como exemplo simplificado, se você forneceu 199 HAY e 1 BUSD, ao remover a liquidez, você receberá 100 HAY e 100 BUSD assumindo 0 de slippage/derrapagem e preços estáveis de 1:1.
 
-![](<../../.gitbook/assets/image (3) (4).png>)
+![](<../../.gitbook/assets/image (3) (3).png>)
 
 ## Migre seu Stake de Farm USDT-BUSD, USDC-BUSD, USDC-USDT&#x20;
 

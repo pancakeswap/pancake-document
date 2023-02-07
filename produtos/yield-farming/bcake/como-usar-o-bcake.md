@@ -24,7 +24,7 @@ Para habilitar boosters de farm, você deve concluir um processo de apovação q
 Se você não tem atualmente stake no farm que deseja ativar o bCAKE, você pode pular esta etapa e começar pelo stake de LP tokens no farm.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (11) (1).png>)
+![](<../../../.gitbook/assets/image (11) (1) (1).png>)
 
 Se você já estiver fazendo stake no farm que deseja ativar o booster de farm, precisa fazer uma migração de stake única.&#x20;
 

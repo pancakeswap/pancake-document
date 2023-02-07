@@ -1,6 +1,6 @@
 # Tokenomics de CAKE
 
-<figure><img src="../../.gitbook/assets/221230-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 ## **Taxa de Emissão** <a href="#emission-rate" id="emission-rate"></a>
 
@@ -28,10 +28,9 @@ Como tal, não o incluímos na taxa de emissão acima.
 
 | Distribuído para                   | Recompensa/bloco(% da emissão) | Recompensa/bloco(total CAKE) | Recompensa/dia      |
 | ---------------------------------- | ------------------------------ | ---------------------------- | ------------------- |
-| Farms (BSC+ETH)                    | \~5,08%                        | \~2,03                       | 58.544 (aprox)      |
-| Farms (Aptos)                      | \~0,19%                        | \~0,08                       | 2.275 (aprox)       |
-| Loteria                            | \~0,35%                        | \~0,1389                     | 4.000 (aprox)       |
-| Pool de Syrup de CAKE              | \~19,13%                       | \~7,65                       | 220.380 (aprox)     |
+| Trade(Farms)                       | \~5,28%                        | \~2,11                       | 60.842 (aprox)      |
+| Stake                              | \~19,13%                       | \~7,65                       | 220.357 (aprox)     |
+| Outros                             | \~0,35%                        | \~0,1389                     | 4.000 (aprox)       |
 | **Emissão Total Diaŕaia de CAKE**  | ​                              | ​                            | **285.199 (aprox)** |
 
 ## **Outros Mecanismos Deflacionários** <a href="#other-deflationary-mechanics" id="other-deflationary-mechanics"></a>
@@ -66,7 +65,7 @@ Para começar, a PancakeSwap foi lançada como um MVP (produto mínimo viável) 
 * Legacy Lottery Pool (PID - 137) - CAKE queimado da loteria
 * Burn Pool (PID - 138) - CAKE queimado por bloco
 
-Esses pools funcionam de forma semelhante às farms, onde os Chefs podem ajustar a porcentagem dos 40 CAKE por bloco alocados para elas após cada voto de redução de emissão de CAKE.&#x20;
+Essas pools funcionam de forma semelhante às farms, onde os Chefs podem ajustar a porcentagem dos 40 CAKE por bloco alocados para elas após cada voto de redução de emissão de CAKE.&#x20;
 
 **No entanto, em abril de 2022, a PancakeSwap migrou para um novo contrato MasterChef v2.** A proporção da queima do CAKE por bloco é finalmente controlada por um contrato dedicado. Isso permite que a queima seja muito mais precisa.
 

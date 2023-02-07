@@ -6,11 +6,11 @@ Você pode usar a carteira SafePal para votar em questões abertas na PancakeSwa
 
 1. Abra sua carteira SafePal e selecione o ícone do navegador de dApp no menu na parte inferior.
 
-![](<../../../.gitbook/assets/image (40).png>)
+![](<../../../.gitbook/assets/image (40) (2).png>)
 
 2\. Insira a URL da página de votação na barra de endereços. Se você não conhece o URL direto para a votação em que deseja votar, pode ir para a [página de votação da PancakeSwap](https://voting.pancakeswap.finance/) e encontrar a votação a partir daí.
 
-![](<../../../.gitbook/assets/image (110).png>)
+![](<../../../.gitbook/assets/image (110) (1).png>)
 
 3\. Clique no botão conectar carteira na parte superior da tela (veja a imagem).
 

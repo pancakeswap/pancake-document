@@ -19,7 +19,7 @@ Para começar sua jornada com a PancakeSwap na Aptos, a primeira coisa que você
 {% hint style="warning" %}
 No momento da redação deste artigo, há um número limitado de carteiras de celular com suporte para Aptos. Os chefs incluirão mais carteiras no tutorial quando estiverem disponíveis.
 
-**Recomendamos o uso de carteiras de desktop até que mais carteiras de celular estejam disponveis**
+**Recomendamos o uso de** [**carteiras de desktop**](crie-uma-carteira.md#carteiras-de-desktop-navegador-web) **até que mais carteiras de celular estejam disponveis**
 {% endhint %}
 
 As carteiras de dispositivos móveis e as carteiras baseadas em desktop têm diferentes pontos fortes e fracos. Considere qual se adapta melhor às suas necessidades para ajudar a decidir qual tipo de carteira usar.
@@ -32,6 +32,113 @@ As carteiras de dispositivos móveis e as carteiras baseadas em desktop têm dif
 | Accessibilidade amigvel                      | ➖       | ✅       |
 | Resistente  Dano/perda/roubo                 | ➖       | ✅       |
 | Resistente   interrupço de energia e conexão | ✅       | ➖       |
+
+### Carteiras para smartphones/celulares
+
+As carteiras para smartphones/móveis permitem que você acesse suas criptomoedas em praticamente qualquer lugar. As carteiras estão disponíveis em dispositivos Android e iOS.
+
+#### Qual carteira móvel devo escolher?
+
+Esta tabela de comparação fornece uma visão geral das carteiras para dispositivos mveis mais populares usadas com a PancakeSwap.
+
+|                                |                          |              |        |
+| ------------------------------ | ------------------------ | ------------ | ------ |
+| Text                           | SafePal                  | Trust Wallet | Blocto |
+| Suporta Aptos Chain            | ✅                        | ✅            | ✅      |
+| Navegador DApp integrado       | ✅                        | ✅            | ✅      |
+| Compatível com Hardware wallet | <p>✅<br>(Só SafePal)</p> | ➖            | ➖      |
+| Open source (auditvel)         | ➖                        | ✅            | ➖      |
+
+Você pode encontrar informações mais detalhadas sobre cada carteira abaixo, bem como links de download e guias de instalação.
+
+{% tabs %}
+{% tab title="SafePal" %}
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>O SafePal está disponível como uma carteira de software e hardware. A carteira é fácil de instalar e criar e vem pronta para suportar Aptos, BEP2 (BNB Beacon Chain), BEP20 (BNB Smart Chain) imediatamente.</p></figcaption></figure>
+
+**Prós:**
+
+* Alterne facilmente entre várias redes cripto&#x20;
+* Tem opção para o Google Authenticator integrado&#x20;
+* Suporta um grande número de idiomas&#x20;
+* O processo de configuração é muito simples&#x20;
+* Está disponível como carteira de software e hardware (trabalha em conjunto)&#x20;
+
+**Contras:**
+
+* Não é totalmente de código aberto&#x20;
+* Não dá notificações ao usuário&#x20;
+* Não impõe uma segurança forte durante a configuração inicial e a criação da carteira
+
+​[**Download SafePal**](https://safepal.io/download) (Dispositivo Detectado Automaticamente)\
+[**Guia de Instalação da SafePal para Atpos**](https://safepalsupport.zendesk.com/hc/en-us/articles/10061372532891-How-to-add-send-Aptos-mainnet-coin-APT-with-SafePal-Software-Wallet)****
+{% endtab %}
+
+{% tab title="Trust Wwallet" %}
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+Trust Wallet é uma carteira popular para smartphone. Ele suporta DApps, NFTs colecionáveis (com suporte Opensea.io) e stake na carteira.
+
+**Pros:**
+
+* Código aberto para auditabilidade
+* Apoiado pela exchange de criptomoedas Binance
+* Alterne facilmente entre várias redes cripto
+* Inclui rede Aptos por padrão
+
+**Contras:**
+
+* DApps limitados
+* As notificações de transações podem ser atrasadas
+
+[**Download Trust Wallet**](https://trustwallet.com) (Dispositivo detectado Automaticamente)\
+[**Guia de Instalação da Trust Wallet para Aptos**](https://community.trustwallet.com/t/trust-wallet-adds-native-support-for-aptos-apt/575701)****
+{% endtab %}
+
+{% tab title="Blocto" %}
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+
+
+
+Blocto oferece uma solução amigável e um pacote completo para usar Dapps e gerenciar seus ativos.&#x20;
+
+**Destaques:**&#x20;
+
+* Suporta BNB Chain e Aptos Chain e outras grandes redes de cripto prontas para uso.&#x20;
+* Fcil de configurar
+* Suporta IOS e Android.&#x20;
+* Login de E-mail.&#x20;
+* A carteira de contrato inteligente que elimina a necessidade de gerenciar sua própria chave privada e também fornece recursos avançados, como recuperação de conta&#x20;
+* A taxa de gás de configuração inicial para a carteira de contrato inteligente é coberta&#x20;
+
+**Observação:**&#x20;
+
+* **Requer endereço de e-mail para começar**&#x20;
+* Modelo custodial
+* Um pouco complicado se você quiser exportar sua chave privada e gerenciá-la ou usá-la em outras carteiras. [Tutorial](https://portto.zendesk.com/hc/en-us/articles/4411564072217-Can-I-export-my-private-key-from-Blocto-and-use-it-in-Metamask-Phantom-Trust-Wallet-).
+
+[**Download Blocto Wallet**](https://portto.com/download)
+
+### Guia de configuração da carteira Blocto&#x20;
+
+1 - Configure inserindo seu endereço de e-mail. Em seguida, digite a senha de uso único recebida por e-mail.
+
+![](<../.gitbook/assets/image (2) (4).png>)
+
+![](<../.gitbook/assets/image (26).png>)
+
+2 - Clique no botão de adição e escolha "APT - Aptos"
+
+![](<../.gitbook/assets/image (5) (4).png>)
+
+![](<../.gitbook/assets/image (31).png>)
+
+3 - Pronto! Agora você pode depositar o APT na carteira Aptos e começar a usar **a** PancakeSwap na Aptos acessando a página "Descobrir"!
+
+![](<../.gitbook/assets/image (13) (4).png>)
+
+![](<../.gitbook/assets/image (9) (1) (2).png>)
+{% endtab %}
+{% endtabs %}
 
 ### Carteiras de desktop/navegador Web
 
@@ -164,70 +271,6 @@ Blocto oferece uma solução amigável e um pacote completo para usar Dapps e ge
 <figure><img src="../.gitbook/assets/blocto-setup-desktop-4.png" alt=""><figcaption></figcaption></figure>
 
 4 - Pronto! Observe que você precisará de fundos no seu endereço Aptos com o APT para começar a usar a PancakeSwap na Aptos. Se você quiser acessar a mesma conta em outros dispositivos, basta fazer login usando o mesmo endereço de e-mail.
-{% endtab %}
-{% endtabs %}
-
-### Carteiras para smartphones/celulares
-
-As carteiras para smartphones/móveis permitem que você acesse suas criptomoedas em praticamente qualquer lugar. As carteiras estão disponíveis em dispositivos Android e iOS.
-
-#### Qual carteira móvel devo escolher?
-
-Esta tabela de comparação fornece uma visão geral das carteiras para dispositivos mveis mais populares usadas com a PancakeSwap.
-
-| Text                           | Blocto |
-| ------------------------------ | ------ |
-| Suporta Aptos Chain            | ✅      |
-| Navegador DApp integrado       | ✅      |
-| Compatível com Hardware wallet | ➖      |
-| Open source (auditvel)         | ➖      |
-
-Você pode encontrar informações mais detalhadas sobre cada carteira abaixo, bem como links de download e guias de instalação.
-
-{% tabs %}
-{% tab title="Blocto" %}
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
-
-
-
-Blocto oferece uma solução amigável e um pacote completo para usar Dapps e gerenciar seus ativos.&#x20;
-
-**Destaques:**&#x20;
-
-* Suporta BNB Chain e Aptos Chain e outras grandes redes de cripto prontas para uso.&#x20;
-* Fcil de configurar
-* Suporta IOS e Android.&#x20;
-* Login de E-mail.&#x20;
-* A carteira de contrato inteligente que elimina a necessidade de gerenciar sua própria chave privada e também fornece recursos avançados, como recuperação de conta&#x20;
-* A taxa de gás de configuração inicial para a carteira de contrato inteligente é coberta&#x20;
-
-**Observação:**&#x20;
-
-* **Requer endereço de e-mail para começar**&#x20;
-* Modelo custodial
-* Um pouco complicado se você quiser exportar sua chave privada e gerenciá-la ou usá-la em outras carteiras. [Tutorial](https://portto.zendesk.com/hc/en-us/articles/4411564072217-Can-I-export-my-private-key-from-Blocto-and-use-it-in-Metamask-Phantom-Trust-Wallet-).
-
-[**Download Blocto Wallet**](https://portto.com/download)
-
-### Guia de configuração da carteira Blocto&#x20;
-
-1 - Configure inserindo seu endereço de e-mail. Em seguida, digite a senha de uso único recebida por e-mail.
-
-![](<../.gitbook/assets/image (2) (4).png>)
-
-![](<../.gitbook/assets/image (26).png>)
-
-2 - Clique no botão de adição e escolha "APT - Aptos"
-
-![](<../.gitbook/assets/image (5) (4).png>)
-
-![](<../.gitbook/assets/image (31).png>)
-
-3 - Pronto! Agora você pode depositar o APT na carteira Aptos e começar a usar **a** PancakeSwap na Aptos acessando a página "Descobrir"!
-
-![](<../.gitbook/assets/image (13) (4).png>)
-
-![](<../.gitbook/assets/image (9) (1) (2).png>)
 {% endtab %}
 {% endtabs %}
 

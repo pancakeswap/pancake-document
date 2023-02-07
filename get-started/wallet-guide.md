@@ -251,7 +251,7 @@ MetaMask é um plugin de carteira baseado em navegador muito popular que suporta
 {% endtab %}
 
 {% tab title="Binance Wallet" %}
-![](<../.gitbook/assets/image (39) (1).png>)
+![](<../.gitbook/assets/image (39).png>)
 
 A Binance Wallet é uma carteira de plug-in de navegador que suporta nativamente as redes Binance Chain (BEP2) BNB Smart Chain (BEP20). A Binance Wallet foi desenvolvida pela exchange de criptomoedas Binance.
 

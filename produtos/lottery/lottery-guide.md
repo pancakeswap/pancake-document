@@ -92,7 +92,7 @@ Você pode randomizar seus números novamente clicando em Randomizar ou voltar s
 
 Você receberá um aviso se criar bilhetes duplicados. É possível que seus bilhetes duplicados ganhem. Nesse caso, seus bilhetes serão divididos na premiação de sua chave.
 
-![](<../../.gitbook/assets/image (103) (1).png>)
+![](<../../.gitbook/assets/image (103).png>)
 
 6\. Quando estiver satisfeito com seus números, clique no botão **Confirmar e comprar**.
 

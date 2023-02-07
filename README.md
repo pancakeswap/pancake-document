@@ -60,6 +60,10 @@ Ganhe NFTs colecionáveis ​​por participar de competições de Trade e mais 
 Ganhe BNB se puder prever se o preço do BNB subirá ou cairá.\
 Novas rodadas a cada 5 minutos!
 
+### Pottery
+
+Ganhe um rendimento maior em seu depósito CAKE, uma combinação de stake bloqueado de CAKE e loteria!
+
 ## PancakeSwap é segura?
 
 Veja por você mesmo:
@@ -73,6 +77,12 @@ Veja por você mesmo:
   * [Auditoria de segurança da nova Pool de CAKE pela SlowMist](https://github.com/slowmist/Knowledge-Base/blob/master/open-report-V2/smart-contract/SlowMist%20Audit%20Report%20-%20Pancakeswap-CakePool\_en-us.pdf)
   * [Auditoria de segurança do novo MasterChef pela Pecksheild](https://github.com/peckshield/publications/blob/master/audit\_reports/PeckShield-Audit-Report-PancakeSwap-MasterChefV2-v1.0.pdf)
   * [Auditoria de segurança do novo MasterChef pela Slowmist](https://github.com/slowmist/Knowledge-Base/blob/master/open-report-V2/smart-contract/SlowMist%20Audit%20Report%20-%20MasterChef%20v2\_en-us.pdf)
+  * [Auditoria de Segurança do Farm Booster pela Peckshield](https://github.com/peckshield/publications/tree/master/audit\_reports/PeckShield-Audit-Report-PancakeSwap-FarmBooster-v1.0.pdf)
+  * [Auditoria de Segurança do Farm Cross-chain pela Slowmist](https://github.com/slowmist/Knowledge-Base/blob/master/open-report-V2/smart-contract/SlowMist%20Audit%20Report%20-%20PancakeSwap%20-%20CrossChain\_en-us.pdf)
+  * [Auditoria de Segurança do Farm Cross-chain pela Peckshield ](https://github.com/peckshield/publications/tree/master/audit\_reports/PeckShield-Audit-Report-PancakeSwap-CrossFarming-v1.0.pdf)
+  * [Auditoria de Segurança do Farm Cross-chain pela BlockSec](https://github.com/blocksecteam/audit-reports/blob/main/solidity/blocksec\_pancakeswap\_cross\_farming\_v1.0\_signed.pdf)
+  * [Auditoria de Segurança da DEX da PancakeSwap na Aptos pela Slowmist](https://github.com/slowmist/Knowledge-Base/blob/master/open-report-V2/smart-contract/SlowMist%20Audit%20Report%20-%20PancakeSwap\_MOVE\_en-us.pdf)
+  * [Auditoria de Segurança da DEX da PancakeSwap na Aptos por OtterSec](broken-reference)
 * Transparência:
   * Somos construídos em software de código aberto: nosso site e todos os nossos contratos inteligentes são visíveis publicamente para máxima transparência.
   * Nossos contratos são verificados na BscScan então o que você vê é o que é: [1](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E) [2](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#code) [3](https://bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812) [4](https://bscscan.com/address/0x1b96b92314c44b159149f7e0303511fb2fc4774f#code) [5](https://bscscan.com/address/0x92E8CeB7eAeD69fB6E4d9dA43F605D2610214E68)

@@ -85,9 +85,9 @@
   * [Como votar](produtos/voting/como-votar/README.md)
     * [Como Votar com a Carteira SafePal](produtos/voting/como-votar/como-votar-com-a-carteira-safepal.md)
   * [vCAKE](produtos/voting/vcake.md)
-* [🌐 PancakeSwap Mini-Program](produtos/pancakeswap-mini-program/README.md)
-  * [How to Use PancakeSwap Mini-Program?](produtos/pancakeswap-mini-program/how-to-use-pancakeswap-mini-program.md)
-  * [Mini-Program FAQ](produtos/pancakeswap-mini-program/mini-program-faq.md)
+* [🌐 Mini-Programa da PancakeSwap](produtos/mini-programa-da-pancakeswap/README.md)
+  * [Como usar o Mini-Programa da PancakeSwap?](produtos/mini-programa-da-pancakeswap/como-usar-o-mini-programa-da-pancakeswap.md)
+  * [Perguntas Frequentes sobre o Mini-Programa](produtos/mini-programa-da-pancakeswap/perguntas-frequentes-sobre-o-mini-programa.md)
 * [🍳Em Breve!](produtos/coming-soon/README.md)
   * [Zap](produtos/coming-soon/zap.md)
 

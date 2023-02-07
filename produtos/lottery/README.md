@@ -19,7 +19,7 @@ Os preços dos bilhetes de loteria são definidos no início da nova rodada de l
 
 A compra de vários bilhetes de loteria de uma só vez oferece um desconto de atacado na sua compra. Você pode comprar até 100 ingressos em uma compra, com o desconto começando pequeno em 2 ingressos e aumentando até 4,95% em 100 ingressos..
 
-![](<../../.gitbook/assets/image (146) (1).png>)
+![](<../../.gitbook/assets/image (146).png>)
 
 ## **Como ganhar**
 

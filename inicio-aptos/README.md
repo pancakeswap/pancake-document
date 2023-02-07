@@ -9,7 +9,7 @@ Usar qualquer coisa nova pode ser um pouco desafiador. Não se preocupe, criamos
 Siga estes guias para configurar tudo para usar a PancakeSwap ou sinta-se à vontade para pular para o guia que precisa se já souber o que precisa siga como deseja.
 
 ​[Crie uma Carteira na Aptos](<../.gitbook/assets/wallet guide>) \
-[Obtenhar Aptos Coin e Traga seus Ativos para a Aptos Chain](<../.gitbook/assets/aptos coin guide>) \
+[Obtenha Aptos Coin e Traga seus Ativos para a Aptos Chain](<../.gitbook/assets/aptos coin guide>) \
 [Conecte Sua Carteira na PancakeSwap](<../.gitbook/assets/connection guide>)​
 
 ​
