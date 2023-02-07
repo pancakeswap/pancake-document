@@ -22,7 +22,7 @@ Estos dos productos van de la mano en PancakeSwap: cuando un proyecto provee sus
 * Los usuarios compran tu token con CAKE.
 * Después de la venta, una parte de los CAKE son quemados.
 
-Aprendé más de cómo funcionan las IFO [aquí](../productos/ifo-initial-farm-offering/ifo-initial-farm-offering.md).
+Aprendé más de cómo funcionan las IFO [aquí](../productos/ifo-oferta-inicial-de-farm/ifo-initial-farm-offering.md).
 
 [**Aplicar para una IFO**](https://docs.google.com/forms/d/e/1FAIpQLScGdT5rrVMr4WOWr08pvcroSeuIOtEJf1sVdQGVdcAOqryigQ/viewform)****
 

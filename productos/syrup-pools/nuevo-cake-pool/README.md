@@ -54,7 +54,7 @@ Deposita tus CAKE por un tiempo fijo para maximizar los rendimientos y recibir b
 * 🎁 Disfrute de todos estos beneficios:
   * 🗳️ Boost para su voting power: [vCAKE](https://docs.pancakeswap.finance/v/espanol/productos/voting/vcake)
   * 🚜 Boost para sus farms: [bCAKE](https://docs.pancakeswap.finance/v/espanol/productos/yield-farming/bcake)
-  * 🛍️ Acceso a las IFO públicas: [iCAKE](../../ifo-initial-farm-offering/icake.md)
+  * 🛍️ Acceso a las IFO públicas: [iCAKE](../../ifo-oferta-inicial-de-farm/icake.md)
   * ✨ Acceso prioritario y/o eventos especiales
   * y muchísimo más en nuestra expansión multichain!
 
