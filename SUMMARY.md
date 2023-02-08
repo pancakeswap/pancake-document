@@ -57,7 +57,7 @@
   * [Nuevo Cake Pool](productos/syrup-pools/nuevo-cake-pool/README.md)
     * [Cómo usar el Staking Flexible](productos/syrup-pools/nuevo-cake-pool/como-usar-el-staking-flexible.md)
     * [Cómo usar Staking Bloqueado](productos/syrup-pools/nuevo-cake-pool/como-usar-staking-bloqueado.md)
-    * [Cake Syrup Pool FAQ](productos/syrup-pools/nuevo-cake-pool/cake-syrup-pool-faq.md)
+    * [CAKE Syrup Pool FAQ](productos/syrup-pools/nuevo-cake-pool/cake-syrup-pool-faq.md)
   * [Syrup Pool FAQ & Errores Frecuentes](productos/syrup-pools/syrup-pool.md)
 * [🔄 StableSwap](productos/stableswap/README.md)
   * [Cómo usar StableSwap](productos/stableswap/como-usar-stableswap.md)
