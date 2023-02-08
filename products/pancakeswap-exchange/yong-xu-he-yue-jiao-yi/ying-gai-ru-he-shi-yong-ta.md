@@ -45,7 +45,7 @@ USDT、BUSD、APX 或 CAKE（有优惠！）可用作交易抵押品。
 以下是图表分析领域的入门指南：&#x20;
 
 * [如何在币安网站上使用 TradingView](https://www.binance.com/zh-CN/support/faq/8419126024404348a1c6e4039fbed3fe)
-* [K线图 ](https://academy.binance.com/zh/articles/a-beginners-guide-to-candlestick-charts)
+* [K 线图](https://academy.binance.com/zh/articles/a-beginners-guide-to-candlestick-charts)
 * [趋势线详解](https://academy.binance.com/zh/articles/trend-lines-explained)
 
 ### 做好下单前的设置
@@ -60,27 +60,27 @@ USDT、BUSD、APX 或 CAKE（有优惠！）可用作交易抵押品。
 
 _以下步骤不按特定顺序排列_
 
-1.保证金模式：逐仓或者全仓
+1. 保证金模式：逐仓或者全仓
 
 <figure><img src="../../../.gitbook/assets/保证金模式 (1).png" alt=""><figcaption></figcaption></figure>
 
-2.杠杆的倍数
+2. 杠杆的倍数
 
 <figure><img src="../../../.gitbook/assets/调整杠杆.png" alt=""><figcaption></figcaption></figure>
 
 免责声明：请记住，高倍数的杠杆会带来非常高的风险，请谨慎明智地使用它。&#x20;
 
-3.选择订单类型
+3. 选择订单类型
 
 <figure><img src="../../../.gitbook/assets/订单类型.png" alt=""><figcaption></figcaption></figure>
 
-4\. 为您的订单设定价格
+4. 为您的订单设定价格
 
 <figure><img src="../../../.gitbook/assets/订单定价.png" alt=""><figcaption></figcaption></figure>
 
 注意：您可以点击价格栏右边的“最新“” 自动填充最新的市场价格。
 
-5.设置订单大小
+5. 设置订单大小
 
 <figure><img src="../../../.gitbook/assets/设置订单大小.png" alt=""><figcaption></figcaption></figure>
 
@@ -98,14 +98,26 @@ _以下步骤不按特定顺序排列_
 
 ### 检查您的订单状态
 
-订单发送后，将显示在“当前委托”中，直到成交完毕。
+订单发送后，将显示在 “当前委托” 中，直到成交完毕。
 
 <figure><img src="../../../.gitbook/assets/下单委托.png" alt=""><figcaption></figcaption></figure>
 
 ### 实时的！
 
-当它被成交完成时，你的订单状态显示将是实时的。 您可以在订单面板“仓位”中看到它。 您也可以查看、修改或关闭它。
+当它被成交完成时，你的订单状态显示将是实时的。 您可以在订单面板 “仓位” 中看到它。 您也可以查看、修改或关闭它。
 
 <figure><img src="../../../.gitbook/assets/成交后.png" alt=""><figcaption></figcaption></figure>
+
+### 交易手续费是多少？ <a href="#6c14" id="6c14"></a>
+
+请阅读有关于 [交易手续费、资金费率收取币种](ying-gai-ru-he-shi-yong-ta.md#6c14) 的说明。
+
+### 目前支援那些链？
+
+目前支援 BNB 智能链、以太坊。在页面上方找到显示当前链的按钮如下图，点击，可以打开下拉选单，再单击目标链即可切换。
+
+<figure><img src="../../../.gitbook/assets/prepetual-swap-chainprepetual-switch chain.jpg" alt=""><figcaption><p>左图：手机版；右图：PC 版</p></figcaption></figure>
+
+
 
 祝您交易顺利！
