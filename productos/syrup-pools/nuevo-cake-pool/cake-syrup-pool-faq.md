@@ -83,4 +83,4 @@ Pasados los 7 días, si no has hecho ninguna de las dos opciones, tu CAKE deposi
 
 Para evitar perder las recompensas de los CAKE, recomendamos comenzar un nuevo período de staking a plazo fijo o convertir sus CAKE a staking flexible al final de su período de bloqueo.
 
-![](<../../../.gitbook/assets/1 (1).png>)
+![](<../../../.gitbook/assets/1 (1) (2).png>)

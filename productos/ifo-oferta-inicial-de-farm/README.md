@@ -1,6 +1,6 @@
 # IFO (Oferta Inicial de Farm)
 
-![](<../../.gitbook/assets/0 (3).png>)
+![](<../../.gitbook/assets/0 (3) (1).png>)
 
 Compra nuevos tokens usando CAKE.
 

@@ -18,7 +18,7 @@ Después de leerlos, asegúrese de desplazarse hasta la parte inferior para hace
 
 ![](../../.gitbook/assets/2.png)
 
-![](../../.gitbook/assets/3.png)
+![](<../../.gitbook/assets/3 (1).png>)
 
 ### Configuración de la wallet DeFi de Binance <a href="#_qdq10t2po33" id="_qdq10t2po33"></a>
 
@@ -28,15 +28,15 @@ La wallet DeFi de Binance es una billetera Web3 descentralizada sin custodia den
 
 Para configurarlo, puede hacer clic en “Connect Wallet” en la página de inicio de PancakeSwap, alternativamente, puede ir a la pestaña “Wallet” en la aplicación y hacer clic en “DeFi Wallet” para configurarlo.
 
-![](../../.gitbook/assets/4.png)
+![](<../../.gitbook/assets/4 (1).png>)
 
-![](../../.gitbook/assets/5.png)
+![](<../../.gitbook/assets/5 (1).png>)
 
 El proceso de configuración está diseñado y simplificado para usuarios de CEX. Los usuarios pueden crear una nueva billetera DeFi con un botón o importar su billetera existente con sus frases semilla. Una vez que se crea una nueva billetera, puede encontrar la opción de hacer una copia de seguridad de sus frases de recuperación, ¡asegúrese de hacerlo!
 
 ![](../../.gitbook/assets/6.png)
 
-![](../../.gitbook/assets/7.png)
+![](<../../.gitbook/assets/7 (1).png>)
 
 ![](../../.gitbook/assets/8.png)
 

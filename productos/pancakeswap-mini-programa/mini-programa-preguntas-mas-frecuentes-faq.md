@@ -44,4 +44,4 @@ Antes de intercambiar tokens, asegúrese de haber visitado su sitio web para com
 
 Damos la bienvenida a todos los comentarios y siempre estamos tratando de mejorar para nuestra comunidad. Para cualquier comentario sobre el Mini-Programa, te invitamos a hacerlo en nuestro[ Telegram](https://t.me/PancakeSwapES) o[ Discord](https://discord.gg/pancakeswap), también pueden enviar sus comentarios dentro del Mini-Programa, en el botón de feedback después de hacer clic en los tres puntos en la esquina superior derecha.
 
-![](../../.gitbook/assets/0.png)
+![](<../../.gitbook/assets/0 (3).png>)
