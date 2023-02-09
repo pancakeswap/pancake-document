@@ -1,7 +1,5 @@
 # Cómo usar StableSwap
 
-### **Cómo usar StableSwap** <a href="#_x879f3f7s6j5" id="_x879f3f7s6j5"></a>
-
 ![](../../.gitbook/assets/0.png)
 
 ### **Operando en el StableSwap** <a href="#_tisnq4dp6n4k" id="_tisnq4dp6n4k"></a>
@@ -22,7 +20,7 @@ Hay algunas diferencias para la liquidez del StableSwap:
 
 ![](../../.gitbook/assets/1.png)
 
-1. El aporte de liquidez de los dos activos puede hacerse de forma desigual, y habrá una página de confirmación para mostrar la proporción de su liquidez.
+2. El aporte de liquidez de los dos activos puede hacerse de forma desigual, y habrá una página de confirmación para mostrar la proporción de su liquidez.
 
 ![](<../../.gitbook/assets/2 (1).png>)
 
