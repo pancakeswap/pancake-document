@@ -78,7 +78,6 @@
   * [Cómo Participar en una IFO](productos/ifo-oferta-inicial-de-farm/ifo-initial-farm-offering.md)
   * [iCAKE](productos/ifo-oferta-inicial-de-farm/icake.md)
   * [Detalles de Contrato](productos/ifo-oferta-inicial-de-farm/detalles-de-contrato.md)
-* [IFO (Oferta Inicial de Farm)](productos/ifo-initial-farm-offering.md)
 * [Info (Analíticas)](productos/info.md)
 * [Votación](productos/voting/README.md)
   * [Qué se vota?](productos/voting/voting.md)
