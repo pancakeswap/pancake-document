@@ -26,9 +26,9 @@ Note: Currently, the Zap feature is in beta. Please note that It does not suppor
 
 ### Zap In (Add Liquidity) <a href="#h.xp3to7fwu7s6" id="h.xp3to7fwu7s6"></a>
 
-Visit the [Liquidity page](https://www.google.com/url?q=https://pancakeswap.finance/liquidity\&sa=D\&source=editors\&ust=1656322371440119\&usg=AOvVaw2VaY8U4dIbBSuWStNyOgok), and choose “Add Liquidity”.
+Visit the [Liquidity page](https://pancakeswap.finance/liquidity), and choose “Add Liquidity”.
 
-Pick the trading pair you want to provide liquidity to by selecting two input tokens, checkout [Liquidity guide](https://www.google.com/url?q=https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide\&sa=D\&source=editors\&ust=1656322371440606\&usg=AOvVaw3F7VpDtyG1aV8GnmzzfMIs) to learn more.
+Pick the trading pair you want to provide liquidity to by selecting two input tokens, checkout [Liquidity guide](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide) to learn more.
 
 ![](<../../.gitbook/assets/zap-1 (2).png>)
 
@@ -77,7 +77,7 @@ You will see:
 
 Zap also enables you to receive one single token in the trading pair when removing liquidity.
 
-1. Visit the[ ](https://www.google.com/url?q=https://exchange.pancakeswap.finance/%23/pool\&sa=D\&source=editors\&ust=1656322371442758\&usg=AOvVaw2ZJPj\_97-YuUMQjQbYbfN4)[Liquidity page](https://www.google.com/url?q=https://exchange.pancakeswap.finance/%23/pool\&sa=D\&source=editors\&ust=1656322371442948\&usg=AOvVaw39k9SD0FIdLv9GzmEv10Xz).
+1. Visit the[ ](https://www.google.com/url?q=https://exchange.pancakeswap.finance/%23/pool\&sa=D\&source=editors\&ust=1656322371442758\&usg=AOvVaw2ZJPj\_97-YuUMQjQbYbfN4)[Liquidity page](https://pancakeswap.finance/swap#/pool).
 2. Click on the pair you want to remove liquidity under “Your Liquidity".
 3. Click “Remove”. A new pop-up will appear.
 
