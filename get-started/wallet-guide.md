@@ -229,13 +229,13 @@ Desktop wallets are available on your home computer or laptop computer. Wallets 
 
 This comparison table gives an overview of the most popular desktop wallets used with PancakeSwap.
 
-|                                                                   | MetaMask | Binance Wallet | Coinbase Wallet | Token Pocket |
-| ----------------------------------------------------------------- | -------- | -------------- | --------------- | ------------ |
-| BNB Smart Chain support                                           | ⚠️       | ✅              | ✅               | ⚠️           |
-| Built-in DApp browser                                             | ➖        | ➖              | ➖               | ✅            |
-| Hardware wallet compatible                                        | ✅        | ✅              | ✅               | ➖            |
-| Open source (auditability)                                        | ✅        | ✅              | ✅               | ✅            |
-| <p>Interact with BscScan Directly</p><p>(for advanced users!)</p> | ✅        | ➖              | ➖               | ➖            |
+|                                                                   | MetaMask | Trust Wallet | Binance Wallet | Coinbase Wallet | Token Pocket |
+| ----------------------------------------------------------------- | -------- | ------------ | -------------- | --------------- | ------------ |
+| BNB Smart Chain support                                           | ⚠️       | ✅            | ✅              | ✅               | ⚠️           |
+| Built-in DApp browser                                             | ➖        | ✅            | ➖              | ➖               | ✅            |
+| Hardware wallet compatible                                        | ✅        | ✅ (Beta)     | ✅              | ✅               | ➖            |
+| Open source (auditability)                                        | ✅        | ✅            | ✅              | ✅               | ✅            |
+| <p>Interact with BscScan Directly</p><p>(for advanced users!)</p> | ✅        | ✅            | ➖              | ➖               | ➖            |
 
 ⚠️ Requires additional setup
 
