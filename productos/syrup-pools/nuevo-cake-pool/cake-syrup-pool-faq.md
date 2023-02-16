@@ -75,7 +75,7 @@ Cuando finaliza tu período de staking a plazo fijo y se desbloquean tus CAKE, t
 * Bloquear tus CAKE para comenzar un nuevo período de staking a plazo fijo
 * Convertir tus CAKE depositados en staking flexible (sin la tarifa de retiro de 72 horas)
 
-![](<../../../.gitbook/assets/0 (2).png>)
+![](<../../../.gitbook/assets/0 (2) (2).png>)
 
 Durante estos 7 días, aún ganará CAKE.
 
@@ -83,4 +83,4 @@ Pasados los 7 días, si no has hecho ninguna de las dos opciones, tu CAKE deposi
 
 Para evitar perder las recompensas de los CAKE, recomendamos comenzar un nuevo período de staking a plazo fijo o convertir sus CAKE a staking flexible al final de su período de bloqueo.
 
-![](<../../../.gitbook/assets/1 (1) (2).png>)
+![](<../../../.gitbook/assets/1 (1) (2) (1).png>)

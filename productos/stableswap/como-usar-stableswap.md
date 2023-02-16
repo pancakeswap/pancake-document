@@ -1,6 +1,6 @@
 # Cómo usar StableSwap
 
-![](../../.gitbook/assets/0.png)
+![](<../../.gitbook/assets/0 (2).png>)
 
 ### **Operando en el StableSwap** <a href="#_tisnq4dp6n4k" id="_tisnq4dp6n4k"></a>
 
@@ -18,7 +18,7 @@ Hay algunas diferencias para la liquidez del StableSwap:
 
 1. Cuando selecciona los pares de activos que están habilitados para StableSwap (por ejemplo, HAY-BUSD), la interfaz le indicará que está proporcionando un "Stable LP”
 
-![](../../.gitbook/assets/1.png)
+![](<../../.gitbook/assets/1 (1).png>)
 
 2. El aporte de liquidez de los dos activos puede hacerse de forma desigual, y habrá una página de confirmación para mostrar la proporción de su liquidez.
 

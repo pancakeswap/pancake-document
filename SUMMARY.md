@@ -92,7 +92,7 @@
 ## Tokenomics
 
 * [CAKE](tokenomics/cake-updated-10-29-2020/README.md)
-  * [Tokenomics de CAKE](tokenomics/cake-updated-10-29-2020/cake-tokenomics.md)
+  * [Tokenomics de CAKE](tokenomics/cake-updated-10-29-2020/tokenomics-de-cake.md)
   * [Controlando el Circulante de CAKE](tokenomics/cake-updated-10-29-2020/controlling-cake-supply.md)
 
 ## Guía para Desarrolladores <a href="#devs" id="devs"></a>

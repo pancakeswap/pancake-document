@@ -16,7 +16,7 @@ Antes de ingresar al Mini-Programa de PancakeSwap, hay un descargo de responsabi
 
 Después de leerlos, asegúrese de desplazarse hasta la parte inferior para hacer clic en "I understand" para comenzar.
 
-![](../../.gitbook/assets/2.png)
+![](<../../.gitbook/assets/2 (2).png>)
 
 ![](<../../.gitbook/assets/3 (1).png>)
 

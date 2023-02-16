@@ -16,7 +16,7 @@ Mantenerse en constante cambio es un estilo de vida.
 
 Eso significa que no nos comprometemos públicamente con plazos específicos, por lo que podemos organizar nuestras prioridades de desarrollo en función de los cambios del mercado y los recursos de los desarrolladores.
 
-![](<.gitbook/assets/1 (1).png>)
+![](<.gitbook/assets/1 (1) (2).png>)
 
 ❗ Por seguridad y confidencialidad, algunos ítems no están en la sección de “Cocinando”.
 
