@@ -52,10 +52,6 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Paddington - Smart Contract Dev
 
-🐰 Chef Cooper - Smart Contract Engineer
-
-🐰 Chef Rabbid - Smart Contract Engineer
-
 🐰 [Chef Cecy](https://medium.com/pancakeswap/kitchen-interviews-chef-cecy-the-magical-3d-artist-making-fluffy-bunnies-e1eda53742f3) - 3D Artist ([Twitter](https://twitter.com/Cecymeade))
 
 🐰 Chef Yuna - UI/UX designer ([Twitter](https://twitter.com/chefyuna))
