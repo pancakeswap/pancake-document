@@ -26,7 +26,7 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Kiwi - Data Analytics
 
-🐰 Chef Seawood - Data Analytics
+🐰 Chef Seaweed - Data Analytics
 
 🐰 Chef Jojo - Frontend Dev ([Twitter](https://twitter.com/0xchefjojo))
 
@@ -51,6 +51,8 @@ You can jump to the kitchen interviews article by clicking chef's name.
 🐰 Chef Omelette - Smart Contract Dev
 
 🐰 Chef Paddington - Smart Contract Dev
+
+🐰 Chef Rei - Security
 
 🐰 [Chef Cecy](https://medium.com/pancakeswap/kitchen-interviews-chef-cecy-the-magical-3d-artist-making-fluffy-bunnies-e1eda53742f3) - 3D Artist ([Twitter](https://twitter.com/Cecymeade))
 
