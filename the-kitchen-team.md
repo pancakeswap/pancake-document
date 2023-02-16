@@ -14,7 +14,7 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Bamboo - Product Manager
 
-🐰 Chef Pepper - Business Dev
+🐰 Chef Pepper - Business Dev ([Twitter](https://twitter.com/RealChefPepper))
 
 🐰 Chef Icy - Business Dev, 80% Bunny 20% Robot ([Twitter](https://twitter.com/PancakeIcy))
 
