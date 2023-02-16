@@ -74,7 +74,7 @@ Você pode encontrar informações mais detalhadas sobre cada carteira abaixo, b
 {% endtab %}
 
 {% tab title="Trust Wwallet" %}
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (4).png" alt=""><figcaption></figcaption></figure>
 
 Trust Wallet é uma carteira popular para smartphone. Ele suporta DApps, NFTs colecionáveis (com suporte Opensea.io) e stake na carteira.
 
@@ -122,7 +122,7 @@ Blocto oferece uma solução amigável e um pacote completo para usar Dapps e ge
 
 1 - Configure inserindo seu endereço de e-mail. Em seguida, digite a senha de uso único recebida por e-mail.
 
-![](<../.gitbook/assets/image (2) (4).png>)
+![](<../.gitbook/assets/image (2) (4) (2).png>)
 
 ![](<../.gitbook/assets/image (26).png>)
 
@@ -183,7 +183,7 @@ A carteira Petra é uma extensão que permite explorar a Aptos no seu navegador.
 {% endtab %}
 
 {% tab title="Martian" %}
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Martian é uma carteira na Aptos Chain que permite armazenar, enviar, receber tokens e gerenciar e mintar NFTs. Sua versão móvel está chegando em breve.
 

@@ -36,6 +36,8 @@
     * [Como negociar usando o Smart Router](produtos/pancakeswap-exchange/smart-router/como-negociar-usando-o-smart-router.md)
   * [Pools de Liquidez](produtos/pancakeswap-exchange/pancakeswap-pools.md)
   * [Como Adicionar/Remover Liquidez](produtos/pancakeswap-exchange/liquidity-guide.md)
+  * [Integração com Market Maker](produtos/pancakeswap-exchange/integracao-com-market-maker.md)
+  * [Zap](produtos/pancakeswap-exchange/zap.md)
   * [📝Ordens Limite](produtos/pancakeswap-exchange/limit-orders/README.md)
     * [Perguntas Frequentes sobre Ordens Limite](produtos/pancakeswap-exchange/limit-orders/limit-orders-faq.md)
   * [Trade de Perpétuos](produtos/pancakeswap-exchange/perpetual-trading/README.md)
@@ -88,8 +90,7 @@
 * [🌐 Mini-Programa da PancakeSwap](produtos/mini-programa-da-pancakeswap/README.md)
   * [Como usar o Mini-Programa da PancakeSwap?](produtos/mini-programa-da-pancakeswap/como-usar-o-mini-programa-da-pancakeswap.md)
   * [Perguntas Frequentes sobre o Mini-Programa](produtos/mini-programa-da-pancakeswap/perguntas-frequentes-sobre-o-mini-programa.md)
-* [🍳Em Breve!](produtos/coming-soon/README.md)
-  * [Zap](produtos/coming-soon/zap.md)
+* [🍳Em Breve!](produtos/coming-soon.md)
 
 ## Tokenomics
 
@@ -105,7 +106,7 @@
     * [List dos Farms](code/migration/masterchef-v2/list-of-farms.md)
   * [Pool de Syrup de CAKE](code/migration/cake-syrup-pool.md)
 * [Contribuindo](code/contributing/README.md)
-  * [Codebase Overview](code/contributing/codebase-overview.md)
+  * [Visão Geral do Código Base](code/contributing/codebase-overview.md)
 * [Bug Bounty](code/bug-bounty.md)
 * [Smart Contracts](code/smart-contracts/README.md)
   * [PancakeSwap Exchange](code/smart-contracts/pancakeswap-exchange/README.md)

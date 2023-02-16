@@ -16,7 +16,7 @@ Um novo grupo de Pottery é criado na primeira segunda-feira de cada mês. Cada 
 
 O depósito para cada grupo de Pottery é aberto uma vez por mês. O depósito fecha e tranca o CAKE na primeira segunda-feira do mês às 23:59 UTC e abre na sexta-feira anterior por volta das 10:00 UTC. Isso é para combinar todos os depósitos e direcioná-los para o stake bloqueado de uma só vez para gerenciamento e alocação eficientes de recompensas de stake. Para o resto do tempo, você verá isso:&#x20;
 
-![](<../../.gitbook/assets/image (3) (2).png>)
+![](<../../.gitbook/assets/image (3) (2) (1).png>)
 
 – o que significa que o depósito está atualmente fechado até a próxima primeira segunda-feira mensal. Se o depósito estiver aberto, você verá isso:&#x20;
 

@@ -1,25 +1,33 @@
 ---
-description: Find your way on Pancake Github
+description: Encontre o seu caminho no Github da Pancake
 ---
 
-# Codebase Overview
+# Visão Geral do Código Base
 
-## Introduction
+## Introdução
 
-All our repositories are stored on [Github](https://github.com/pancakeswap). Most of them are public, and you can freely submit an issue or a pull request. Make sure you read this whole guide, and the guidelines specific to each repository before.
+Todos os nossos repositórios são armazenados no [Github](https://github.com/pancakeswap). A maioria deles é pública e você pode enviar livremente um problema ou um pull request. Certifique-se de ler todo este guia e as diretrizes específicas para cada repositório antes.
 
-## Github repositories
+## Repositório do Github
 
-* Toolkit: Contains a set of packages used to build the PancakeSwap ecosystem, including the token list.
-* Frontend: The main frontend. It contains all the features that are not listed below.
-* Smart Contract: All the smart contracts that is deployed on BSC.
-* Subgraph: GraphQL endpoint to query the events and entities.
-* SDK: Tools used to interact with the PancakeSwap protocol in js.
+* Front-end: O front-end principal. Ele contém todos os recursos que não estão listados abaixo.&#x20;
+  * [sdk](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/swap-sdk) - Um SDK para criar aplicativos em cima da Pancakeswap&#x20;
+  * [aptos-swap-sdk](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/aptos-swap-sdk) - versão Aptos do SDK do Swap&#x20;
+  * [swap-sdk-core](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/swap-sdk-core)  - Código do SDK compartilhado  do Swap
+  * [wagmi](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/wagmi)  - Extensão para [wagmi](https://github.com/wagmi-dev/wagmi), incluindo bsc  chain e conector de carteira binance&#x20;
+  * [awgmi](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/awgmi) - conecte-se à Aptos com hooks semelhantes do wagmi React. Incluindo adaptadores de carteira.
+* Contrato Inteligente: Todos os contratos inteligentes implantados na BSC e ETH.&#x20;
+* Contrato Inteligente: Toda a versão Move de contratos inteligentes implantados na Aptos.&#x20;
+*   Subgraph: Endpoint do GraphQL para consultar os eventos e entidades.
 
-| Project        | Github                                                                                                                                                                                                                                    | Stack                                                                                                                                                                                                                                                                    | Website                                            |
-| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------- |
-| Toolkit        | [https://github.com/pancakeswap/pancake-frontend/tree/master/packages/uikit](https://github.com/pancakeswap/pancake-frontend/tree/master/packages/uikit)                                                                                  | <img src="../../.gitbook/assets/download.svg" alt="" data-size="line"><img src="../../.gitbook/assets/ts-logo-round-128.svg" alt="" data-size="line">                                                                                                                    | [🔗Netlify](https://pancakeswap-uikit.netlify.app) |
-| Frontend       | [<img src="../../.gitbook/assets/github-mark-120px-plus.png" alt="" data-size="line">](https://github.com/pancakeswap/pancake-frontend)[https://github.com/pancakeswap/pancake-frontend](https://github.com/pancakeswap/pancake-frontend) | <img src="../../.gitbook/assets/download.svg" alt="" data-size="line"><img src="../../.gitbook/assets/ts-logo-round-128.svg" alt="" data-size="line">                                                                                                                    | [🔗PancakeSwap](https://pancakeswap.finance)       |
-| Smart Contract | [https://github.com/pancakeswap/pancake-smart-contracts](https://github.com/pancakeswap/pancake-smart-contracts)                                                                                                                          | <img src="https://ludu-assets.s3.amazonaws.com/lesson-icons/26/OS6xpcvmIL6y0G3ZQW99" alt="" data-size="line"><img src="https://hardhat.org/apple-touch-icon.png" alt="" data-size="line"><img src="../../.gitbook/assets/ts-logo-round-128.svg" alt="" data-size="line"> |                                                    |
-| Subgraph       | [https://github.com/pancakeswap/pancake-subgraph](https://github.com/pancakeswap/pancake-subgraph)                                                                                                                                        | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" alt="" data-size="line">                                                                                                                               |                                                    |
-| SDK            | [https://github.com/pancakeswap/pancake-swap-sdk](https://github.com/pancakeswap/pancake-swap-sdk)                                                                                                                                        | <img src="../../.gitbook/assets/ts-logo-round-128.svg" alt="" data-size="line">                                                                                                                                                                                          |                                                    |
+
+
+
+
+| Projeto             | Github                                                                                                                                                                    | Stack                                                                                                                                                                                                                                                                    | Website                                            |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------- |
+| Frontend Monorepo   | <img src="../../.gitbook/assets/image (3).png" alt="" data-size="line">[https://github.com/pancakeswap/pancake-frontend](https://github.com/pancakeswap/pancake-frontend) | <img src="../../.gitbook/assets/download.svg" alt="" data-size="line"><img src="../../.gitbook/assets/ts-logo-round-128.svg" alt="" data-size="line">                                                                                                                    | [🔗Netlify](https://pancakeswap-uikit.netlify.app) |
+| Smart Contract      | [https://github.com/pancakeswap/pancake-smart-contracts](https://github.com/pancakeswap/pancake-smart-contracts)                                                          | <img src="https://ludu-assets.s3.amazonaws.com/lesson-icons/26/OS6xpcvmIL6y0G3ZQW99" alt="" data-size="line"><img src="https://hardhat.org/apple-touch-icon.png" alt="" data-size="line"><img src="../../.gitbook/assets/ts-logo-round-128.svg" alt="" data-size="line"> |                                                    |
+| Smart Contract Move | [https://github.com/pancakeswap/pancake-contracts-move](https://github.com/pancakeswap/pancake-contracts-move)                                                            |                                                                                                                                                                                                                                                                          |                                                    |
+| Subgraph            | [https://github.com/pancakeswap/pancake-subgraph](https://github.com/pancakeswap/pancake-subgraph)                                                                        | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" alt="" data-size="line">                                                                                                                               |                                                    |
+
