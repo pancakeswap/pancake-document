@@ -34,7 +34,7 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Yogi- Frontend Dev
 
-🐰 Chef Jackson - Frontend Dev (Twitter)
+🐰 Chef Jackson - Frontend Dev ([Twitter](https://twitter.com/0xchefjackson))
 
 🐰 Chef Philip - Frontend Dev
 
