@@ -145,11 +145,6 @@
   * [Frontend Engineer](hiring/become-a-chef/frontend-engineer.md)
   * [Solidity Engineer](hiring/become-a-chef/solidity-engineer.md)
   * [DevOps Engineer](hiring/become-a-chef/devops-engineer.md)
-  * [Blockchain QA Engineer](hiring/become-a-chef/senior-qa-engineer.md)
-  * [Business Development Manager](hiring/become-a-chef/business-development-manager.md)
-  * [Communications/Public Relations Manager](hiring/become-a-chef/communications-public-relations-manager.md)
-  * [Social Media Marketing Manager](hiring/become-a-chef/social-media-marketing-manager.md)
-  * [Community Manager](hiring/become-a-chef/community-manager-ptbr.md)
 
 ## Reference
 
