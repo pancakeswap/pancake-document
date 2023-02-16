@@ -36,6 +36,8 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Jackson - Frontend Dev
 
+🐰 Chef Philip - Frontend Dev
+
 🐕 Chef Snoopy - Solidity Dev
 
 🐰 Chef Cupcake - Solidity Dev
