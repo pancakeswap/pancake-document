@@ -25,7 +25,7 @@
   * [Social Accounts & Communities](contact-us/telegram.md)
 * [Ambassador Program](ambassador-program/README.md)
   * [👥Community Moderation Page](ambassador-program/community-moderation-page.md)
-  * [🌎Community Translation Paper](ambassador-program/community-translation-paper.md)
+  * [🌎Community Translation Page](ambassador-program/community-translation-page.md)
   * [❓ FAQs Page](ambassador-program/faqs-page.md)
 * [The Kitchen Team](the-kitchen-team.md)
 * [Roadmap](roadmap.md)
