@@ -6,8 +6,6 @@ description: PancakeSwap 计划来到 Aptos 链！
 
 <figure><img src=".gitbook/assets/Aptos.png" alt=""><figcaption></figcaption></figure>
 
-我们正在 Aptos 上进行部署，期待与Aptos上的项目团队开启沟通管道，向各位介绍加密货币世界中最大、最火爆、活跃度最高的DApp之一（每月活跃用户超过 300 万）！
-
 我们正在 Aptos 链上進行部署！希望与 Aptos 链上的众多项目团队开启沟通管道，在这里，向各位介绍加密货币世界中最大、最火爆以及活跃度最高的 DApp 之一（每月活跃用户超过 300 万）！
 
 自项目落地以来，PancakeSwap（PCS）在面向用户的 DeFi 领域蓬勃发展，成为了领先的去中心化交易所（DEX），拥有多种行业内领先的产品——流动性池、新币发行、预测、合约产品和 NFT 市场。当然，还有最棒的社区 😉
