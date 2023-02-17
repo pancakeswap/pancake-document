@@ -1,4 +1,4 @@
-# 🌎Community Translation Paper
+# 🌎Community Translation Page
 
 This document aims to establish clear and concise guidelines on what PancakeSwap expects from the ambassadors who apply to become a translator.&#x20;
 

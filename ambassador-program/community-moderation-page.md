@@ -32,6 +32,7 @@ Currently we have 13 official communities on Telegram, namely:
 * Indonesian
 * French
 * Italian
+* Georgian
 * Japanese
 * Dach
 
