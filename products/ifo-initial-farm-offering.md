@@ -18,7 +18,7 @@
 
 1. 完成您的 PancakeSwap 个人资料设置
 2. [购买 CAKE 代币](https://pancakeswap.finance/swap#/swap)
-3. 将 CAKE 质押[在定期质押糖浆池](syrup-pools/xin-ban-cake-tang-jiang-chi/ru-he-shi-yong-suo-cang-zhi-ya-tang-jiang-chi.md)即可获得 iCAKE 数值
+3. 将 CAKE 质押[在定期质押糖浆池](syrup-pools/cake-tang-jiang-chi/ru-he-shi-yong-suo-cang-zhi-ya-tang-jiang-chi.md)即可获得 iCAKE 数值
 
 **开售后：**
 

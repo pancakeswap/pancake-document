@@ -60,4 +60,4 @@ PancakeSwap 彩票让您有机会赢取巨额 CAKE 奖金！它非常简单和�
 
 但是，如果除了您以外，有另外三个人同样按顺序，成功匹配了三个号码。2000 CAKE 将在四张中奖彩票之间平分，这意味着您将获得 500 个 CAKE。
 
-查看[彩票常见问题](lottery/cai-piao-chang-jian-wen-ti.md)以了解更多详情。
+查看[彩票常见问题](lottery/cai-piao-faq.md)以了解更多详情。

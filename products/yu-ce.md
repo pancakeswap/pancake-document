@@ -28,6 +28,6 @@ PancakeSwap “预测”是一个简单有趣的去中心化预测市场。
 [ru-he-shi-yong-yu-ce-gong-neng.md](yu-ce/ru-he-shi-yong-yu-ce-gong-neng.md)
 {% endcontent-ref %}
 
-{% content-ref url="yu-ce/yu-ce-gong-neng-chang-jian-wen-ti-jie-da.md" %}
-[yu-ce-gong-neng-chang-jian-wen-ti-jie-da.md](yu-ce/yu-ce-gong-neng-chang-jian-wen-ti-jie-da.md)
+{% content-ref url="yu-ce/yu-ce-gong-neng-faq.md" %}
+[yu-ce-gong-neng-faq.md](yu-ce/yu-ce-gong-neng-faq.md)
 {% endcontent-ref %}

@@ -4,7 +4,7 @@ description: 迁移并质押到新的 PancakeSwap MasterChef
 
 # 迁移到 MasterChef v2
 
-![是的，你正在阅读的就是「迁移教程」](<../.gitbook/assets/migration pre heat cn.png>)
+![是的，你正在阅读的就是「迁移教程」](<../../.gitbook/assets/migration pre heat cn.png>)
 
 为了继续赚取质押奖励，你需要将你农场和糖浆池的质押，迁移到新的 MasterChef。放轻松，这很容易。
 
@@ -91,7 +91,7 @@ description: 迁移并质押到新的 PancakeSwap MasterChef
 
 ## 迁移时间线 <a href="#migration-timeline" id="migration-timeline"></a>
 
-![](<../.gitbook/assets/cn-migration timeline-3.png>)
+![](<../../.gitbook/assets/cn-migration timeline-3.png>)
 
 请务必在 [Twitter](https://twitter.com/pancakeswap/) 或 [Telegram](https://t.me/PancakeSwapAnnCN) 公告频道上关注我们，以便了解最新的更新，以及具体执行时间。
 

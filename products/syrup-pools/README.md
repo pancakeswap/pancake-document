@@ -10,16 +10,16 @@
 
 ### **我该如何使用糖浆池** <a href="#how-can-i-use-syrup-pools" id="how-can-i-use-syrup-pools"></a>
 
-{% content-ref url="xin-ban-cake-tang-jiang-chi/" %}
-[xin-ban-cake-tang-jiang-chi](xin-ban-cake-tang-jiang-chi/)
+{% content-ref url="cake-tang-jiang-chi/" %}
+[cake-tang-jiang-chi](cake-tang-jiang-chi/)
 {% endcontent-ref %}
 
-{% content-ref url="xin-ban-cake-tang-jiang-chi/ru-he-shi-yong-ling-huo-zhi-ya-tang-jiang-chi.md" %}
-[ru-he-shi-yong-ling-huo-zhi-ya-tang-jiang-chi.md](xin-ban-cake-tang-jiang-chi/ru-he-shi-yong-ling-huo-zhi-ya-tang-jiang-chi.md)
+{% content-ref url="cake-tang-jiang-chi/ru-he-shi-yong-ling-huo-zhi-ya-tang-jiang-chi.md" %}
+[ru-he-shi-yong-ling-huo-zhi-ya-tang-jiang-chi.md](cake-tang-jiang-chi/ru-he-shi-yong-ling-huo-zhi-ya-tang-jiang-chi.md)
 {% endcontent-ref %}
 
-{% content-ref url="xin-ban-cake-tang-jiang-chi/ru-he-shi-yong-suo-cang-zhi-ya-tang-jiang-chi.md" %}
-[ru-he-shi-yong-suo-cang-zhi-ya-tang-jiang-chi.md](xin-ban-cake-tang-jiang-chi/ru-he-shi-yong-suo-cang-zhi-ya-tang-jiang-chi.md)
+{% content-ref url="cake-tang-jiang-chi/ru-he-shi-yong-suo-cang-zhi-ya-tang-jiang-chi.md" %}
+[ru-he-shi-yong-suo-cang-zhi-ya-tang-jiang-chi.md](cake-tang-jiang-chi/ru-he-shi-yong-suo-cang-zhi-ya-tang-jiang-chi.md)
 {% endcontent-ref %}
 
 {% content-ref url="ru-he-zai-tang-jiang-chi-nei-zhi-ya/" %}
@@ -28,8 +28,8 @@
 
 ### 糖浆池常见问题解答与排错指南 <a href="#syrup-pool-faqs-and-troubleshooting" id="syrup-pool-faqs-and-troubleshooting"></a>
 
-{% content-ref url="xin-ban-cake-tang-jiang-chi/dan-gao-tang-jiang-chi-chang-jian-wen-ti-jie-da.md" %}
-[dan-gao-tang-jiang-chi-chang-jian-wen-ti-jie-da.md](xin-ban-cake-tang-jiang-chi/dan-gao-tang-jiang-chi-chang-jian-wen-ti-jie-da.md)
+{% content-ref url="cake-tang-jiang-chi/cake-tang-jiang-chi-faq.md" %}
+[cake-tang-jiang-chi-faq.md](cake-tang-jiang-chi/cake-tang-jiang-chi-faq.md)
 {% endcontent-ref %}
 
 {% content-ref url="ru-he-zai-tang-jiang-chi-nei-zhi-ya/untitled.md" %}

@@ -28,7 +28,7 @@ description: 糖浆池：在 PancakeSwap 上免费赚取代币最简单的方法
 
 <figure><img src="../../../.gitbook/assets/4 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-**CAKE 新版糖浆池**分为灵活质押和锁仓质押两种方式，详情请阅读[此处](../xin-ban-cake-tang-jiang-chi/)。
+**CAKE 新版糖浆池**分为灵活质押和锁仓质押两种方式，详情请阅读[此处](../cake-tang-jiang-chi/)。
 
 其他糖浆池通过让您质押 CAKE ，来赚取一系列非常有意思的其他项目代币。请务必了解他们。
 

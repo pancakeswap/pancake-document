@@ -32,6 +32,6 @@ CAKE 是一枚在背后支撑着 PancakeSwap 整个生态系统的美味代币�
 [cake-dai-bi-jing-ji-mo-xing.md](cake-dai-bi-jing-ji-mo-xing.md)
 {% endcontent-ref %}
 
-{% content-ref url="kong-zhi-cake-de-zong-liang.md" %}
-[kong-zhi-cake-de-zong-liang.md](kong-zhi-cake-de-zong-liang.md)
+{% content-ref url="cake-de-zong-liang-shang-xian.md" %}
+[cake-de-zong-liang-shang-xian.md](cake-de-zong-liang-shang-xian.md)
 {% endcontent-ref %}

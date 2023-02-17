@@ -12,7 +12,7 @@
 
 如果您尚未在 CAKE 锁仓质押池中锁定任何 CAKE，请单击 “**前往糖浆池（Go to Pool）**” 并按照说明进行 CAKE 锁仓质押。
 
-了解有关如何进行 CAKE 锁仓质押的更多信息，请阅读[此处](../../syrup-pools/xin-ban-cake-tang-jiang-chi/ru-he-shi-yong-suo-cang-zhi-ya-tang-jiang-chi.md)。
+了解有关如何进行 CAKE 锁仓质押的更多信息，请阅读[此处](../../syrup-pools/cake-tang-jiang-chi/ru-he-shi-yong-suo-cang-zhi-ya-tang-jiang-chi.md)。
 
 ### 启用农场收益助推器
 

@@ -1,4 +1,4 @@
-# 彩票常见问题
+# 彩票 FAQ
 
 ## 如果没有中奖者？&#x20;
 
@@ -19,7 +19,7 @@
 * 6 个分级奖池：匹配的号码越多，奖池越大&#x20;
 * 手动选择彩票号码（可选），因此用户可以使用他们的幸运数字&#x20;
 * 使用 [Chainlink VRF （随机数生成器）](https://docs.chain.link/docs/vrf/v2/introduction/)确保开奖数字为安全可信的随机数字。
-* 降低了总费用（有关更多信息，请参阅[本页下方](cai-piao-chang-jian-wen-ti.md#gou-mai-cai-piao-xu-yao-zhi-fu-shen-me-jiao-yi-fei-ma)）&#x20;
+* 降低了总费用（有关更多信息，请参阅[本页下方](cai-piao-faq.md#gou-mai-cai-piao-xu-yao-zhi-fu-shen-me-jiao-yi-fei-ma)）&#x20;
 
 了解有关[彩票 v2 功能、玩法和奖金的更多信息](../lottery.md)
 
