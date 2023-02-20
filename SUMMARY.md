@@ -119,11 +119,6 @@
   * [前端工程师](hiring/cheng-wei-yi-ming-da-chu/qian-duan-gong-cheng-shi.md)
   * [Solidity 工程师](hiring/cheng-wei-yi-ming-da-chu/solidity-gong-cheng-shi.md)
   * [开发运维工程师](hiring/cheng-wei-yi-ming-da-chu/kai-fa-yun-wei-gong-cheng-shi.md)
-  * [区块链QA工程师](hiring/cheng-wei-yi-ming-da-chu/qu-kuai-lian-qa-gong-cheng-shi.md)
-  * [商务开发经理](hiring/cheng-wei-yi-ming-da-chu/shang-wu-kai-fa-jing-li.md)
-  * [公关经理](hiring/cheng-wei-yi-ming-da-chu/gong-guan-jing-li.md)
-  * [社交媒体营销经理](hiring/cheng-wei-yi-ming-da-chu/she-jiao-mei-ti-ying-xiao-jing-li.md)
-  * [社区经理-PTBR](hiring/cheng-wei-yi-ming-da-chu/she-qu-jing-li-ptbr.md)
 
 ## 参考资料
 
