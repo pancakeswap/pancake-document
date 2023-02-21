@@ -1,6 +1,6 @@
 # CAKE 代币经济模型
 
-<figure><img src="../../.gitbook/assets/230220-cn.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/photo_2023-02-21_10-47-02.jpg" alt=""><figcaption></figcaption></figure>
 
 ## **铸造速度** <a href="#emission-rate" id="emission-rate"></a>
 
