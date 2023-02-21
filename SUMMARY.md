@@ -25,7 +25,7 @@
   * [社交媒体与社区](contact-us/telegram.md)
 * [大使计划](da-shi-ji-hua/README.md)
   * [👥 社区 MOD](da-shi-ji-hua/she-qu-mod.md)
-  * [🌎 社区翻译者](da-shi-ji-hua/she-qu-fan-yi-zhe.md)
+  * [🌏 社区翻译者](da-shi-ji-hua/she-qu-fan-yi-zhe.md)
   * [❓ FAQs](da-shi-ji-hua/faqs.md)
 * [厨房团队](chu-fang-tuan-dui.md)
 * [路线图](roadmap.md)
@@ -34,6 +34,7 @@
 ## 产品 <a href="#products" id="products"></a>
 
 * [🔄 交易](products/pancakeswap-exchange.md)
+  * [Zap- 一键添加流动性](products/pancakeswap-exchange/zap-yi-jian-tian-jia-liu-dong-xing.md)
   * [代币兑换](products/pancakeswap-exchange/dai-bi-jiao-huan.md)
   * [如何进行交易](products/pancakeswap-exchange/ru-he-jin-hang-jiao-yi.md)
   * [Smart Router](products/pancakeswap-exchange/smart-router/README.md)
@@ -76,8 +77,8 @@
   * [预测功能故障排除](products/yu-ce/yu-ce-gong-neng-gu-zhang-pai-chu.md)
 * [🍯 糖浆彩票](products/tang-jiang-cai-piao/README.md)
   * [如何玩转糖浆彩票](products/tang-jiang-cai-piao/ru-he-wan-zhuan-tang-jiang-cai-piao.md)
-  * [糖浆彩票 FAQ](products/tang-jiang-cai-piao/tang-jiang-cai-piao-faq.md)
   * [糖浆彩票抽奖延迟说明](products/tang-jiang-cai-piao/tang-jiang-cai-piao-chou-jiang-yan-chi-shuo-ming.md)
+  * [糖浆彩票 FAQ](products/tang-jiang-cai-piao/tang-jiang-cai-piao-faq.md)
 * [🖼 NFT市场](products/nft-shi-chang.md)
 * [🖼 NFT 个人资料系统](products/nft-ge-ren-dang-an-xi-tong/README.md)
   * [如何设置 NFT 个人资料？](products/nft-ge-ren-dang-an-xi-tong/ru-he-she-zhi-nft-ge-ren-zi-liao.md)
