@@ -42,7 +42,7 @@ PancakeSwap IFO has not yet been deployed on Aptos. (SOON!) Keep staking your CA
 
 ### Why do the pop-up and the progress bar show a huge waiting time?
 
-Please note that for assets other than CAKE, outbound transfers from Aptos are subject to 1M block confirmations, estimated to last \~4 days. Timing may change due to fluctuations in blocktimes.
+Please note that for assets other than CAKE, outbound transfers from Aptos are subject to 500.000 block confirmations, estimated to last \~2 days. Timing may change due to fluctuations in blocktimes.
 
 **For CAKE bridging, the waiting time should be around 3-10 mins.**
 
