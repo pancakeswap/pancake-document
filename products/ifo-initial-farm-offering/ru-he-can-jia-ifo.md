@@ -10,7 +10,7 @@ PancakeSwap 上的 IFO 是初次农场发行。参与 IFO 让您可以第一时�
 
 &#x20;IFO 在非常有限的时间内进行。 因此在活动之前做好准备，以确保您可以参与！
 
-## 在IFO之前应该做好的准备
+## 在 IFO 之前应该做好的准备
 
 在您参加 IFO 之前，您需要做一些准备工作。 按照以下步骤，确保您在 IFO 活动期间能够购买代币。
 
@@ -20,12 +20,11 @@ PancakeSwap 上的 IFO 是初次农场发行。参与 IFO 让您可以第一时�
 
 要创建个人资料，您可以在此处按照我们的如何设置 NFT 个人资料[指南](../nft-ge-ren-dang-an-xi-tong/ru-he-she-zhi-nft-ge-ren-zi-liao.md)进行操作。
 
-### 在 CAKE 定期质押糖浆池中质押您的 CAKE 以获得 iCAKE
+### 在 CAKE 定期质押糖浆池中质押 CAKE 以获得 iCAKE
 
-如果您打算参与公开销售，就必需有 iCAKE 额度。\
-您的 iCAKE 额度决定了您在 PancakeSwap IFO 公开销售中能投入的最大 CAKE 数量。 例如，如果您有 200 个 iCAKE，您将能够在任何即将到来的 IFO 公开销售中投入 200 个 CAKE。 您的 iCAKE 数值是根据您在 CAKE 定期质押池中质押的 CAKE 数量，和您当前定期质押仓位的总质押时长，计算得出的。&#x20;
+您的 iCAKE 数值决定了您在 PancakeSwap IFO 公开销售中能投入的最大 CAKE 数量。 例如，如果您有 200 个 iCAKE 数值，您将能够在任何即将到来的 IFO 公开销售中投入 200 个 CAKE。 您的 iCAKE 数值是根据您在 CAKE 定期质押池中质押的 CAKE 数量，和您当前定期质押仓位的总质押时长，计算得出的。&#x20;
 
-要获得 iCAKE，请转到此处的[ IFO 页面](https://pancakeswap.finance/ifo)。 找到 CAKE 定期质押糖浆池，然后点击 “Stake CAKE” 下的“Locked” 继续。&#x20;
+要获得 iCAKE，请转到此处的[ IFO 页面](https://pancakeswap.finance/ifo)。 找到 CAKE 定期质押糖浆池，然后点击 “Stake CAKE” 下的 “Locked” 继续。&#x20;
 
 要了解有关 iCAKE 以及如何计算 iCAKE 的更多信息，请查看此处的[文档](icake.md)。
 
@@ -37,7 +36,7 @@ PancakeSwap 上的 IFO 是初次农场发行。参与 IFO 让您可以第一时�
 
 ### 查看您的进度
 
-完成上述步骤后，请返回此处的[IFO界面](https://pancakeswap.finance/ifo)，向下滚动到「如何参与」部分。
+完成上述步骤后，请返回此处的[IFO界面](https://pancakeswap.finance/ifo)，向下滚动到 “如何参与” 部分。
 
 <figure><img src="../../.gitbook/assets/image (1) (6).png" alt=""><figcaption></figcaption></figure>
 
@@ -47,7 +46,7 @@ PancakeSwap 上的 IFO 是初次农场发行。参与 IFO 让您可以第一时�
 
 ### 了解IFO开始的具体时间
 
-IFO 是限时活动； 它通常只持续两个小时。 您需要详细检查 IFO 时间表的提案，以确保您不会错过！&#x20;
+IFO 是限时活动；它通常只持续两个小时。您需要详细检查 IFO 时间表的提案，以确保您不会错过！&#x20;
 
 **检查 IFO 页面**
 
@@ -86,9 +85,9 @@ IFO 是限时活动； 它通常只持续两个小时。 您需要详细检查 I
 
 **公开销售（Public Sale）**
 
-在公开销售中，每个参与者能够投入的 CAKE 最大数额为改地址的 iCAKE 数量。 如果您通过公开发售购买代币，您将需要支付少量费用。 如需了解更多有关参与费用的信息，请参阅 IFO 提案（投票）中的详细信息，了解您想参与的 IFO 的具体情况。
+在公开销售中，每个参与者能够投入的 CAKE 最大数额为该地址的 iCAKE 数值。 如果您通过公开发售购买代币，您将需要支付少量费用。 如需了解更多有关参与费用的信息，请参阅 IFO 提案（投票）中的详细信息，了解您想参与的 IFO 的具体情况。
 
-&#x20;「超额认购」销售方式将决定您最终获得的 IFO 代币数量。
+&#x20;“超额认购” 销售方式将决定您最终获得的 IFO 代币数量。
 
 **私有销售（Private Sale）**
 
@@ -96,10 +95,9 @@ IFO 是限时活动； 它通常只持续两个小时。 您需要详细检查 I
 
 私有销售不收取超募手续费。&#x20;
 
-目前的要求为：需将Pancake Squad NFT 设为个人资料的头像。
+目前的要求为：需将 Pancake Squad NFT 设为个人资料的头像。
 
 * 如何购买 NFT：[Pancake Sqaud NFT 市场](https://pancakeswap.finance/nfts/collections/0x0a8901b0E25DEb55A87524f0cC164E9644020EBA)
-* 如何设置个人资料尚未翻译完成，请先阅读[英文版](https://docs.pancakeswap.finance/products/nft-profile-system/profile-guide)或前往 [telegram官方中文群组](https://t.me/PancakeSwap\_CN) 询问。
 
 {% hint style="info" %}
 注意：请勿在 IFO 开始后变更您的个人资料头像。一旦您变更了，您将无法领取初始释放代币以及未使用的 CAKE 。
@@ -143,7 +141,7 @@ IFO 开始后，在公开销售页面能够实时看到叠加了 “超募手续
 2. 在新窗口中，在对应输入框中选择您要投入的 CAKE 数量。 请记住，您最多只能投入与您拥有的 iCAKE 数量相等的 CAKE 数量 。 并且在购买新代币时任何投入但未被消耗的 CAKE 都将退还给您，因此您无需担心丢失任何代币。
 3. 单击 “confirm” 确认按钮并使用您的钱包确认操作。 一旦您的 CAKE 被投入，公开销售部分将显示您投入的金额。&#x20;
 
-只要您没有达到最大限额，您可以在 IFO 活动持续期间随时添加更多 CAKE。 如果您还有可投入的额度，您将在褪色按钮上看到“Max Committed”。在“Additional fee”额外费用旁边，会列出公开销售所收取的参加费用。&#x20;
+只要您没有达到最大限额，您可以在 IFO 活动持续期间随时添加更多 CAKE。 如果您还有可投入的额度，您将在褪色按钮上看到 “Max Committed”。在 “Additional fee” 额外费用旁边，会列出公开销售所收取的参加费用。&#x20;
 
 如果您不想在本次 IFO 投入更多 CAKE，您可以直接跳到下一部分：收集您的新代币。
 
@@ -188,9 +186,9 @@ IFO 结束后，您将能够收集您的新代币。 您将获得多少代币取
 
 现在您已经有了闪亮的新**代币**，您可以让它们为您工作！&#x20;
 
-您可以为您的代币添加流动性以接收 LP 代币。 您可以通过LP 代币收取每次代币对的交易费用。 在[此处](../pancakeswap-exchange/ru-he-tian-jia-yi-chu-liu-dong-xing.md)阅读有关添加流动性的信息。&#x20;
+您可以为您的代币添加流动性以获得 LP 代币。 您可以通过 LP 代币获得代币对的交易手续费用。在[此处](../pancakeswap-exchange/ru-he-tian-jia-yi-chu-liu-dong-xing.md)阅读有关添加流动性的信息。&#x20;
 
-如果您为新代币增加了流动性，您还可以使用新的 LP 代币质押在农场并获得更多奖励！ 在[此处](../yield-farming.md)阅读有关农场的信息。
+您为新代币增加了流动性，您还可以使用新的 LP 代币质押在农场并获得更多奖励！ 在[此处](../yield-farming.md)阅读有关农场的信息。
 
 ### 糖浆池
 
