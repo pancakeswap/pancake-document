@@ -64,7 +64,7 @@ Bridging transactions will take up to 30 mins to be processed. Please wait and t
 
 If the bridging transaction is still showing pending after 60 mins. Please contact our admins via our [social channels/groups](../contact-us/telegram.md) for [help](../help/).
 
-Please note that for assets other than CAKE, outbound transfers from Aptos are subject to 1M block confirmations, estimated to last \~4 days. Timing may change due to fluctuations in blocktimes.
+Please note that for assets other than CAKE, outbound transfers from Aptos are subject to 500k block confirmations, estimated to last \~2 days. Timing may change due to fluctuations in blocktimes.
 
 ### I have never received my CAKE
 
