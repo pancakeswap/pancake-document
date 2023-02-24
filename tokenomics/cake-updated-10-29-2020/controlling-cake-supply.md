@@ -2,7 +2,7 @@
 
 ## CAKE tiene límite de emisión?
 
-Si, CAKE ahora tiene un límite de emisión de 750M tal y como se indica en nuestro litepaper [https://v2litepaper.pancakeswap.finance/](https://v2litepaper.pancakeswap.finance/)
+Si, CAKE ahora tiene un límite de emisión de 750M tal y como se indica en nuestro litepaper [https://v2litepaper.pancakeswap.finance/](http://v2litepaper-es.pancakeswap.finance/)
 
 ## Cómo se reduce el suministro de CAKE sin un límite?
 
