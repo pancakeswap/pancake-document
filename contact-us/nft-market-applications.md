@@ -13,7 +13,6 @@ NFT collection creators can earn creator royalties on trades on PancakeSwap, as 
 Technical:
 
 * Follows BEP-721 standards
-* 100% minted
 * Metadata must be hosted on IPFS or a similar decentralised platform
 
 Business:
