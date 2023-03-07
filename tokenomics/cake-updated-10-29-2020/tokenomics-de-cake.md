@@ -1,6 +1,6 @@
 # Tokenomics de CAKE
 
-![](../../.gitbook/assets/0.png)
+![](<../../.gitbook/assets/0 (1).png>)
 
 ## **Tasa de Emisión** <a href="#_yrv8c4jk627i" id="_yrv8c4jk627i"></a>
 
@@ -22,7 +22,7 @@ Como tal, no lo hemos incluido en la tasa de emisión anterior.
 
 ## **Distribución** <a href="#_if9wweb9lg40" id="_if9wweb9lg40"></a>
 
-![](../../.gitbook/assets/2.png)
+![](<../../.gitbook/assets/2 (3).png>)
 
 ## **Otros Mecanismos Deflacionarios** <a href="#_g0fdb9yy2r2k" id="_g0fdb9yy2r2k"></a>
 

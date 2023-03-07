@@ -4,7 +4,7 @@ description: “No me llames Roadmap”
 
 # Roadmap
 
-![](<.gitbook/assets/0 (1).png>)
+![](<.gitbook/assets/0 (1) (1).png>)
 
 _Actualizado el 19 de enero de 2023_
 
