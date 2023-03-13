@@ -14,6 +14,10 @@ PancakesSwap on Aptos! We have landed on Aptos and will continuously deploy more
 [pancakeswap-exchange](pancakeswap-exchange/)
 {% endcontent-ref %}
 
+{% content-ref url="masterchef.md" %}
+[masterchef.md](masterchef.md)
+{% endcontent-ref %}
+
 {% content-ref url="syrup-pools.md" %}
 [syrup-pools.md](syrup-pools.md)
 {% endcontent-ref %}
@@ -22,5 +26,9 @@ PancakesSwap on Aptos! We have landed on Aptos and will continuously deploy more
 
 {% embed url="https://github.com/pancakeswap/pancake-contracts-move" %}
 
+## Audit
 
+OtterSec's PancakeSwap CAKE OFT audit:
+
+{% file src="../../.gitbook/assets/PancakeSwap-OFT-Audit-OtterSec.pdf" %}
 

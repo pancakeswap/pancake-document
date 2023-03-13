@@ -36,5 +36,3 @@ Check below to discover the nuts and bolts of how CAKE works.
 {% content-ref url="controlling-cake-supply.md" %}
 [controlling-cake-supply.md](controlling-cake-supply.md)
 {% endcontent-ref %}
-
-### \*\*\*\*
