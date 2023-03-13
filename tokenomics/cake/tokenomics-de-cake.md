@@ -1,6 +1,6 @@
 # Tokenomics de CAKE
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/230220-en.png" alt=""><figcaption></figcaption></figure>
 
 ## **Taxa de Emissão** <a href="#emission-rate" id="emission-rate"></a>
 
@@ -28,8 +28,8 @@ Como tal, não o incluímos na taxa de emissão acima.
 
 | Distribuído para                   | Recompensa/bloco(% da emissão) | Recompensa/bloco(total CAKE) | Recompensa/dia      |
 | ---------------------------------- | ------------------------------ | ---------------------------- | ------------------- |
-| Trade(Farms)                       | \~5,28%                        | \~2,11                       | 60.842 (aprox)      |
-| Stake                              | \~19,13%                       | \~7,65                       | 220.357 (aprox)     |
+| Trade(Farms)                       | \~7,78%                        | \~3,11                       | 86.642 (aprox)      |
+| Stake                              | \~16,63%                       | \~6,55                       | 191.557 (aprox)     |
 | Outros                             | \~0,35%                        | \~0,1389                     | 4.000 (aprox)       |
 | **Emissão Total Diaŕaia de CAKE**  | ​                              | ​                            | **285.199 (aprox)** |
 
