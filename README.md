@@ -1,5 +1,7 @@
 # PancakeSwap 介绍
 
+
+
 ![](<.gitbook/assets/masthead-twitter-3- (1).png>)
 
 {% hint style="success" %}
@@ -83,6 +85,9 @@ PancakeSwap **** 彩票奖金池时常高达**百万美元，**每天**多达 11
   * [慢雾对跨链农场的安全审计](https://github.com/slowmist/Knowledge-Base/blob/master/open-report-V2/smart-contract/SlowMist%20Audit%20Report%20-%20PancakeSwap%20-%20CrossChain\_en-us.pdf)
   * [派盾对跨链农场的安全审计](https://github.com/peckshield/publications/blob/master/audit\_reports/PeckShield-Audit-Report-PancakeSwap-CrossFarming-v1.0.pdf)
   * [BlockSec 对跨链农场的安全审计](https://github.com/blocksecteam/audit-reports/blob/main/solidity/blocksec\_pancakeswap\_cross\_farming\_v1.0\_signed.pdf)
+  * [慢雾对 PancakeSwap Aptos DEX 的安全审计](https://github.com/slowmist/Knowledge-Base/blob/master/open-report-V2/smart-contract/SlowMist%20Audit%20Report%20-%20PancakeSwap\_MOVE\_en-us.pdf)
+  * [otterSec 对 PancakeSwap Aptos DEX 的安全审计](https://app.gitbook.com/s/-MHREX7DHcljbY5IkjgJ-1972196547/code/smart-contracts-aptos#audits)
+  * [otterSec 对 PancakeSwap CAKE OFT 的安全审计](https://app.gitbook.com/s/-MHREX7DHcljbY5IkjgJ-1972196547/code/smart-contracts-aptos#audit)
 * 公开透明：
   * PancakeSwap 在开源软件上构造：我们的网站和所有的智能合约都是公开的，以便最大化透明度。
   * 我们的智能合约均已在 BscScan 上验证源码，您可以去亲自检查：[1](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E) [2](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#code) [3](https://bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812) [4](https://bscscan.com/address/0x1b96b92314c44b159149f7e0303511fb2fc4774f#code) [5](https://bscscan.com/address/0x92E8CeB7eAeD69fB6E4d9dA43F605D2610214E68)&#x20;
