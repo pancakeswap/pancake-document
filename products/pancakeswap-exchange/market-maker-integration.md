@@ -43,7 +43,7 @@ The following assets are currently supported and may increase/decrease depending
 
 **On Binance Smart Chain:**&#x20;
 
-* **Majors:** BNB, ETH, BTCB, ETH
+* **Majors:** BNB, ETH, BTCB
 
 Please note that unlike AMMs, market makers will not be able to trade at any amount and the amounts they are willing to execute will depend on their own liquidity. It is not unusual that sometimes very large orders cannot be totally fulfilled. We advise users to please review the quotes carefully to ensure that each trade reflects the price and quantity according to their needs.&#x20;
 
