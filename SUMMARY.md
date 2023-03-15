@@ -141,6 +141,7 @@
       * [Router v2](code/smart-contracts-aptos/pancakeswap-exchange/v2/router-v2.md)
   * [MasterChef](code/smart-contracts-aptos/masterchef.md)
   * [Syrup Pools](code/smart-contracts-aptos/syrup-pools.md)
+  * [IFO](code/smart-contracts-aptos/ifo.md)
   * [Utils](code/smart-contracts-aptos/utils.md)
 
 ## Hiring

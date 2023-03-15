@@ -212,3 +212,7 @@ public fun pool_length():u64
 | `u64` | The total number of pools. |
 
 ## Audit
+
+OtterSec's PancakeSwap Aptos MasterChef security audit:
+
+{% file src="../../.gitbook/assets/PancakeSwap_aptos_masterchef_audit.pdf" %}
