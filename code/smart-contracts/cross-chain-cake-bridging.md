@@ -84,3 +84,7 @@ const adapterParams = utils.solidityPack(
 * [GUI - CAKE - Aptos PancakeBridge](https://bridge.pancakeswap.finance/aptos)
 * [LayerZeroScan - track your crosschain txs](https://layerzeroscan.com/)
 * [LayerZero Docs](https://layerzero.gitbook.io/docs/)
+
+## Audits
+
+[OtterSec's PancakeSwap CAKE OFT (Bridging) security audit](../smart-contracts-aptos/#audit)
