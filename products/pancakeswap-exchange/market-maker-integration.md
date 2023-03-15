@@ -4,7 +4,7 @@
 
 ### Market Maker Integration on Ethereum
 
-PancakeSwap is integrated with market makers on Ethereum to help traders execute trades at a lower cost.
+PancakeSwap is integrated with market makers on Ethereum and Binance Smart Chain to help traders execute trades at a lower cost.
 
 In addition to the AMM, trades on PancakeSwap can now be routed to designated white-listed market makers if they offer trade execution that is better than the AMM’s current prices. This routing is done automatically by a [Smart Router](smart-router/) so that trades are only routed to market makers when they are actively quoting better prices. Where the AMM is more competitive, traders will be routed to the AMMs for execution.
 
@@ -12,7 +12,7 @@ There are 2 scenarios in which market makers operate on PancakeSwap.
 
 **Scenario 1: Existing AMM liquidity pools**
 
-If Ethereum PancakeSwap already has liquidity for a given token (e.g. WETH/USDC) in the AMM, PancakeSwap will ask market makers for a quote on the same trade. PancakeSwap’s smart router will then route the trade request to the AMM or the market makers depending on which source of liquidity is giving the best price at any given time.
+If PancakeSwap already has liquidity for a given token (e.g. WETH/USDC) in the AMM, PancakeSwap will ask market makers for a quote on the same trade. PancakeSwap’s smart router will then route the trade request to the AMM or the market makers depending on which source of liquidity is giving the best price at any given time.
 
 **Scenario 2: No existing AMM liquidity pools**
 
@@ -22,21 +22,28 @@ In such a scenario, the smart router will automatically route the trade to the m
 
 <figure><img src="https://lh6.googleusercontent.com/FKgYOPK6ykAbonNz4naPupdPg4W5XocmUJOEYeH7MsmY-0TrkSepYB2qir4PGlfgY6CKTS0nOq5XIXzm3dO9wGr-9pvXz1NXLSGMg3Ff9IlqIokcHiNDsB9eaoy3l395TL-O71480hetL-iRq1ILhUw" alt=""><figcaption></figcaption></figure>
 
-PancakeSwap does not charge traders any fees executed through us and which are executed by the market makers. However, PancakeSwap receives **0.05% trading fees** from whitelisted market makers for volumes executed by them. PancakeSwap receives a reduced **0.01% trading fee** if the trades executed are between stablecoin pairs. \
+PancakeSwap does not charge traders any fees executed through us and which are executed by the market makers. However, PancakeSwap receives **0.05%** **trading fees (0.0375% on BSC)** from whitelisted market makers for volumes executed by them. PancakeSwap receives a reduced **0.01%** **trading fee** if the trades executed are between stablecoin pairs. Please refer to the fee breakdown below:\
 
 
-| Trades                         | Trading Fees | PCS fee from MM | Cake Burn | Pancakeswap Treasury |
-| ------------------------------ | ------------ | --------------- | --------- | :------------------: |
-| Non-stablecoin (e.g. ETH/USDC) | N/A          | 0.05%           | 0.017%    |        0.033%        |
-| Stablecoin to Stablecoin       | N/A          | 0.01%           | 0.003%    |        0.007%        |
+| Trades                                     | Trading Fees | PCS fee from MM | Cake Burn | Pancakeswap Treasury |
+| ------------------------------------------ | ------------ | --------------- | --------- | :------------------: |
+| Non-stablecoin on Ethereum (e.g. ETH/USDC) | N/A          | 0.05%           | 0.017%    |        0.033%        |
+| Non-stablecoin on BSC (e.g. BNB/USDT)      | N/A          | 0.0375%         | 0.013%    |        0.025%        |
+| Stablecoin to Stablecoin on Ethereum       | N/A          | 0.01%           | 0.003%    |        0.007%        |
 
 #### Assets currently supported&#x20;
 
 The following assets are currently supported and may increase/decrease depending on the market maker(s):
 
+**On Ethereum**
+
 * **Majors:** WETH, WBTC&#x20;
 * **Stablecoins:** USDT, USDC, DAI, BUSD
-* **Other popular ERC-20 assets:** MATIC, SAND, DYDX, CRV, MANA, SUSHI, FTM, LINK, APE, CVX, STG, LDO, AAVE, MKR, UNI
+* **Other popular ERC-20 assets:** MATIC, SAND, DYDX, CRV, MANA, SUSHI, FTM, LINK, APE, CVX, STG, LDO, AAVE, MKR, UNI, SNX
+
+**On Binance Smart Chain:**&#x20;
+
+* **Majors:** BNB, ETH, BTCB, ETH
 
 Please note that unlike AMMs, market makers will not be able to trade at any amount and the amounts they are willing to execute will depend on their own liquidity. It is not unusual that sometimes very large orders cannot be totally fulfilled. We advise users to please review the quotes carefully to ensure that each trade reflects the price and quantity according to their needs.&#x20;
 
@@ -46,9 +53,9 @@ Market makers are not expected to quote 24-7. There are some instances (e.g. key
 
 #### FAQs&#x20;
 
-**Q.** Will the market makers be integrated on BSC and Aptos?&#x20;
+**Q.** Will the market makers be integrated on Aptos?&#x20;
 
-**Ans:** Possibly, we are only launching market makers integration on Ethereum for now to boost the liquidity for a better user experience. We will continue to monitor other chains.
+**Ans:** Possibly, we are only launching market makers integration on Ethereum and Binance Smart Chain for now to boost the liquidity for a better user experience. We will continue to monitor other chains.
 
 **Q.** How will PancakeSwap generate revenue if it does not charge users a fee?&#x20;
 
