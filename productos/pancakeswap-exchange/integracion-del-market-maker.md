@@ -26,7 +26,7 @@ En algunos casos, el smart router automáticamente enrutara el intercambio a los
 
 PancakeSwap no cobran ningún fee a los traders por intercambios hechos a traves de nosotros y que son ejecutados por los market makers. Sin embargo, PancakeSwap recibe **0.05%** de fees por intercambio de los market makers incluidos en la whitelist por los volúmenes ejecutados por ellos. PancakeSwap recibe un fee reducido por intercambio de **0,01%** si las transacciones ejecutadas son entre pares de stablescoin.
 
-![](../../.gitbook/assets/2.png)
+![](<../../.gitbook/assets/2 (1).png>)
 
 ### Activos admitidos actualmente <a href="#_g5920d183iph" id="_g5920d183iph"></a>
 

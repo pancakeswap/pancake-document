@@ -22,11 +22,11 @@ Hay algunas diferencias para la liquidez del StableSwap:
 
 2. El aporte de liquidez de los dos activos puede hacerse de forma desigual, y habrá una página de confirmación para mostrar la proporción de su liquidez.
 
-![](<../../.gitbook/assets/2 (1).png>)
+![](<../../.gitbook/assets/2 (1) (1).png>)
 
 1. Recibirás un token Stable-LP como recibo de la provisión de liquidez para cuando quieras retirarla y removerla.
 
-![](../../.gitbook/assets/3.png)
+![](<../../.gitbook/assets/3 (2).png>)
 
 1. Sin embargo, **TENGA EN CUENTA** que cuando retire la liquidez, siempre obtendrá 50%/50% en los activos sin importar la proporción cuando agregó la liquidez. Un ejemplo más sencillo: si suministró 199 HAY y 1 BUSD, cuando retire la liquidez recibirá 100 HAY y 100 BUSD asumiendo 0 deslizamientos y precios estables 1:1.
 
@@ -59,7 +59,7 @@ Habrá una **ventana de 5 horas** a partir del lanzamiento del Farm StableSwap a
 
 1 - Retire los LP v2 desde la[ página de farms](https://pancakeswap.finance/farms)
 
-![](../../.gitbook/assets/5.png)
+![](<../../.gitbook/assets/5 (2).png>)
 
 2 - Remueva la liquidez de su LP en la[ página de liquidez](https://pancakeswap.finance/liquidity)
 

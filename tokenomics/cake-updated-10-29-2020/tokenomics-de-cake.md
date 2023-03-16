@@ -1,10 +1,10 @@
 # Tokenomics de CAKE
 
-![](<../../.gitbook/assets/0 (1).png>)
+![](<../../.gitbook/assets/0 (1) (2).png>)
 
 ## **Tasa de Emisión** <a href="#_yrv8c4jk627i" id="_yrv8c4jk627i"></a>
 
-![](../../.gitbook/assets/1.png)
+![](<../../.gitbook/assets/1 (3).png>)
 
 {% hint style="info" %}
 El 11 de agosto de 2022, los Chefs implementaron algunas actualizaciones para poder exprimir al máximo las ventajas del MasterChef v2. Eliminaron la necesidad de quemar por separado 45,000 CAKE perteneciente a las inyecciones de lotería. Esa tarea es ahora manejada directamente por el MasterChef v2 en las quemas semanales de CAKE. Gracias a esto, la emisión efectiva es aún menor.
