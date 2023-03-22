@@ -35,7 +35,9 @@ It basically means that you're trying to swap a very small amount of tokens ther
 
 ### Is there an expiration date for my limit orders?
 
-Open orders will remain open indefinitely until they get executed or being cancelled by users. A customizable expiration date feature is planned for the near future.
+Open orders have an expiration date of 90 days. After your order is expired it might never be executed. Please cancel your order once expired.&#x20;
+
+A customizable expiration date feature is planned for the near future.
 
 ### Why can’t I create limit orders below the market price?
 
