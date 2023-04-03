@@ -16,7 +16,7 @@ Si bien la mayoría de los usuarios en el mercado de DeFi ya deberían haber oí
 
 2. Si el token se puede intercambiar en PancakeSwap, aparecerá en la sección Aplicaciones de terceros.
 
-![](../../.gitbook/assets/1.png)
+![](<../../.gitbook/assets/1 (1).png>)
 
 3. Revise los Términos y condiciones, a continuación, toque OK.
 
