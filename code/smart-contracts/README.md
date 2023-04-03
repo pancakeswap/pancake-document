@@ -1,10 +1,16 @@
-# Smart Contracts
+---
+description: >-
+  Esta página fornece links ou localização para os contratos inteligentes da
+  PancakeSwap.
+---
 
-This page provides links or locations for PancakeSwap's smart contracts.
+# Smart Contracts BSC
 
-## Main contracts
 
-The following links will take you to the BscScan page for PancakeSwap's main smart contracts.
+
+## Contratos Principais
+
+Os links a seguir o levarão à página da BscScan dos principais contratos inteligentes da PancakeSwap.
 
 * [PancakeSwap: Main Staking Contract/MasterChef](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e)
 * [PancakeSwap: Factory v2](https://bscscan.com/address/0xca143ce32fe78f1f7019d7d551a6402fc5350c73)
@@ -12,42 +18,42 @@ The following links will take you to the BscScan page for PancakeSwap's main sma
 * [PancakeSwap: Lottery v2](https://bscscan.com/address/0x5aF6D33DE2ccEC94efb1bDF8f92Bd58085432d2c)
 * [PancakeSwap: Prediction v2](https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda)
 * [PancakeSwap: NFT Market v1](https://bscscan.com/address/0x17539cca21c7933df5c980172d22659b8c345c5a)
-* Others:
+* Outros:
   * [Farms Contracts](./#farms-contracts)
   * [IFO Contracts](./#ifo-contracts)
 
-## Farms contracts
+## Contratos dos Farms
 
-Each Farm used by PancakeSwap has its own smart contract. Follow the steps below to view a Farm's smart contract.
+Cada Farm usado pela PancakeSwap tem seu próprio contrato inteligente. Siga as etapas abaixo para visualizar o contrato inteligente de um farm.
 
-1. Go to the [PancakeSwap Farms page](https://pancakeswap.finance/farms) and click the row of the Farm you want to see the contract for.
+1. Vá para a [Página dos Farms da PancakeSwap ](https://pancakeswap.finance/farms)e clique  click the row of the Farm you want to see the contract for.
 
 ![](<../../.gitbook/assets/image (126).png>)
 
-1. When the details section expands out, click the **View Contract** link on the left to open the contract in BscScan.
+2. Quando a seção de detalhes se expandir, clique no link **Exibir contrato** à esquerda para abrir o contrato na BscScan.
 
 ![](<../../.gitbook/assets/image (127).png>)
 
-## IFO contracts
+## Contratos de IFO
 
-IFO contracts are unique to each new IFO. Follow the steps below to view an IFO's smart contract.
+Os contratos do IFO são exclusivos para cada novo IFO. Siga as etapas abaixo para visualizar o contrato inteligente de um IFO.
 
-### Current or most recent IFO
+### IFO atual ou mais recente
 
-Go to the [PancakeSwap IFO page](https://pancakeswap.finance/ifo) and look on the bottom right of the IFO information for a **View Contract** link.
+Vá para a [Página de IFO da PancakeSwap](https://pancakeswap.finance/ifo) e procure no canto inferior direito das informações do IFO no link **Visualizar Contrato**.
 
 ![](<../../.gitbook/assets/image (128).png>)
 
-### Previous IFOs
+### IFOs Anteriores
 
-1. Go to the [PancakeSwap IFO page](https://pancakeswap.finance/ifo) and click the **Past IFOs** toggle at the top of the page.
+1. Vá para a [Página de IFO da PancakeSwap](https://pancakeswap.finance/ifo) e clique no ícone de alternar para **IFOs Anteriores** no topo da página.
 
 ![](<../../.gitbook/assets/image (129).png>)
 
-1. Find the banner of the IFO you'd like to see and click the **down arrow** button to expand it.
+2. Encontre o banner do IFO que você gostaria de ver e clique no botão de seta para baixo para expandi-lo.
 
 ![](<../../.gitbook/assets/image (130).png>)
 
-1. Find and click the **View Contract** link on the bottom right of the expanded information.
+3. Localize e clique no link **Exibir contrato** no canto inferior direito das informações expandidas.
 
 ![](<../../.gitbook/assets/image (131).png>)

@@ -1,29 +1,26 @@
-# Bug Bounty
+# Recompensa por Bug
 
-The PancakeSwap bug bounty program is focused around our smart contracts, websites, and apps with a primary interest in the prevention of loss of user funds, either by direct draining of locked funds or social engineering attacks by redirecting users or forcing them to sign a transaction.
+O programa de recompensas por bug da PancakeSwap é focado em nossos contratos inteligentes, sites e aplicativos com interesse primário na prevenção da perda de fundos do usuário, seja por drenagem direta de fundos bloqueados ou ataques de engenharia social, redirecionando usuários ou forçando-os a assinar uma transação .
 
-{% embed url="https://immunefi.com/bounty/pancakeswap/" caption="" %}
+{% embed url="https://immunefi.com/bounty/pancakeswap/" %}
 
-**Smart Contracts and Blockchain**\*
+**Smart Contracts e Blockchain**\*
 
-| Level |  |
-| :--- | :--- |
-| Critical | up to USD $1,000,000 |
-| High | USD $40,000 |
-| Medium | USD $5,000 |
-| Low | USD $1,000 |
+| Level   |                    |
+| ------- | ------------------ |
+| Crítico | até USD $1.000.000 |
+| Alto    | USD $40.000        |
+| Médio   | USD $5.000         |
+| Baixo   | USD $1.000         |
 
-\*All bug reports must include a Proof of Concept demonstrating how the vulnerability can be exploited to be eligible for a reward. This may be a smart contract itself or a transaction.
+\*Todos os relatórios de erros devem incluir uma Prova de Conceito demonstrando como a vulnerabilidade pode ser explorada para se qualificar para uma recompensa. Isso pode ser um contrato inteligente em si ou uma transação.
 
-**Website and Apps**
+**Website e Apps**
 
-| Level |  |
-| :--- | :--- |
-| Critical\* | USD $7,500 |
-| High | USD $4,000 |
-| Medium | USD $1,500 |
+| Nível     |            |
+| --------- | ---------- |
+| Crítico\* | USD $7,500 |
+| Alto      | USD $4,000 |
+| Médio     | USD $1,500 |
 
-\*XSS reports are restricted to those that have an impact of prompting a user to sign a transaction or a redirect.
-
-All payouts are done by the **PancakeSwap** team and are pegged to the **USD** values set here and are payable in **CAKE** or **BUSD**.
-
+\*Os relatórios XSS são restritos àqueles que têm o impacto de solicitar que um usuário assine uma transação ou um redirecionamento. Todos os pagamentos são feitos pela equipe PancakeSwap e estão atrelados aos valores em USD definidos aqui e são pagos em **CAKE** ou **BUSD**.
