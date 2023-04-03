@@ -14,7 +14,9 @@ You can easily trade for any tokens you need. Visit our [How to Trade on Pancake
 
 In this example, we will add V3 liquidity using ETH and USDC.
 
-1 - Visit the [Liquidity page](https://exchange.pancakeswap.finance/#/pool).
+
+
+1 - Visit the [Liquidity](https://pancakeswap.finance/liquidity) page.
 
 <figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
@@ -87,7 +89,7 @@ In this example, we will add V3 liquidity using ETH and USDC.
 
 To remove liquidity.
 
-1 - Visit the [Liquidity page](https://exchange.pancakeswap.finance/#/pool)**.**
+1 - Visit the [Liquidity](https://pancakeswap.finance/liquidity) page**.**
 
 <figure><img src="../../.gitbook/assets/image (25) (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -125,7 +127,7 @@ In this example, we will add V2 liquidity using BNB and CAKE.
 Please note that the example is only for illustrative purposes, CAKE/BNB trading pair has been migrated to V3. Please always provide V3 liquidity unless one of the underlying tokens does not support Exchange V3. Or the majority of the liquidity for the token pair has not been migrated.
 {% endhint %}
 
-1. Visit the [Liquidity page](https://exchange.pancakeswap.finance/#/pool).
+1. Visit the [Liquidity](https://pancakeswap.finance/liquidity) page.
 2. Click the “Add Liquidity” button.
 3. Using the top left Input, choose the two tokens in the trading pair you want to add liquidity. Here, we are going to use BNB and CAKE as an example.
 4. The interface will default to adding V3 liquidity with a few exceptions:

@@ -94,5 +94,4 @@ The old Exchange V2 will be running in parallel with the new Exchange V3. So, so
 
 Providing liquidity is not without risk, as you may be exposed to impermanent loss.
 
-\
 [“Simply put, impermanent loss is the difference between holding tokens in an AMM and holding them in your wallet.” - Nate Hindman](https://blog.bancor.network/beginners-guide-to-getting-rekt-by-impermanent-loss-7c9510cb2f22)

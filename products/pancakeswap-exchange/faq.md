@@ -146,7 +146,6 @@ Automatic APR calculation for every PancakeSwap v3 liquidity position which calc
 On top of that, we are also offering an easy-to-use ROI calculator for all PancakeSwap liquidity providers.
 
 * You may find the calculator button on every APR display. Simply click and open the ROI calculator panel.
-* To learn more about how to use the ROI calculator, read [this](https://www.notion.so/v3-Mkt-Material-to-Prep-From-Bun-Side-9a7fec2b50dd40d28ded19d4bd0129ff).
 
 
 

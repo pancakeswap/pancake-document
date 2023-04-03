@@ -10,7 +10,7 @@ Before you can trade, you will need a wallet that is compatible with BNB Chain o
 
 Alternatively, you can learn how to get an Aptos-compatible wallet [here](https://docs.pancakeswap.finance/get-started-aptos/wallet-guide), and how to get some Aptos coins to swap within [here](https://docs.pancakeswap.finance/get-started-aptos/aptos-coin-guide).
 
-### Trading on the PancakeSwap exchange
+## Trading on the PancakeSwap exchange
 
 1 - Go to the exchange page [here](https://pancakeswap.finance/swap).
 
@@ -24,7 +24,7 @@ Alternatively, you can learn how to get an Aptos-compatible wallet [here](https:
 
 3 - Choose the token you want to trade from the dropdown menu in the upper section. Whichever token you choose, you will need to make sure you have a sufficient amount of them in your wallet to trade with. Your balance is shown above the token dropdown menu.
 
-![](<../../.gitbook/assets/image (18).png>)
+![](<../../.gitbook/assets/image (18) (2).png>)
 
 
 
@@ -56,7 +56,7 @@ If you are trading a token for the first time, you may need first to click "Enab
 
 ![](<../../.gitbook/assets/image (1) (2).png>)
 
-## **What is Smart Router, and how to use it?**
+## **What is Smart Router V3, and how to use it?**
 
 PancakeSwap Smart Router is a routing algorithm that links V3, V2, StableSwap (BNB Chain), and the AMM and market makers (BNB Chain & Ethereum), to always provide liquidity and pricing. On default, it executes trades across multiple pools to find the best price for traders.
 

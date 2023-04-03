@@ -10,7 +10,7 @@ You will be able to unstake from V2 farms at any time.
 
 You will be able to remove liquidity from V2 at any time.
 
-However, Chefs will slowly migrate the CAKE reward emissions from those selected V2 farms to their corresponding V3 farms. To continue earning CAKE rewards. We would recommend that you complete the migrations as early as possible.
+However, Chefs will gradually migrate the CAKE reward emissions from those selected V2 farms to their corresponding V3 farms. To continue earning CAKE rewards. We would recommend that you complete the migrations as early as possible.
 
 For more news and updates on the migration timeline, please [follow our social channels on Twitter or Telegram announcement.](../../contact-us/telegram.md)
 
@@ -38,6 +38,6 @@ You can remove V2 liquidity by going to the “Liquidity” page and looking for
 
 For adding your liquidity to V3 and staking LP positions to V3, follow the standard V3 steps.&#x20;
 
-For a detailed tutorial on how to add liquidity in V3, read here.&#x20;
+For a detailed tutorial on how to add liquidity in V3, read [here](../../products/pancakeswap-exchange/liquidity-guide.md).&#x20;
 
-For a tutorial on how to farm in V3, read here.
+For a tutorial on how to farm in V3, read [here](../../products/yield-farming/how-to-use-farms.md).

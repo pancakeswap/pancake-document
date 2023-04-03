@@ -52,7 +52,7 @@ Chefs will adjust this limit dynamically based on the demands.
 
 Bridging transactions will take up to 30 mins to be processed. Please wait and try searching your tx by entering its hash/id in [LayerZero Scan](https://layerzeroscan.com/).
 
-If the bridging transaction is still showing pending after 60 mins. Please contact our admins via our [social channels/groups](notion://www.notion.so/contact-us/telegram) for [help](notion://www.notion.so/help).
+If the bridging transaction is still showing pending after 60 mins. Please contact our admins via [our social channels/groups](../../contact-us/telegram.md) for [help](../../help/).
 
 
 
@@ -60,11 +60,11 @@ If the bridging transaction is still showing pending after 60 mins. Please conta
 
 Bridging transactions will take up to 30 mins to be processed. Please wait and try searching your tx by entering its hash/id in [LayerZero Scan](https://layerzeroscan.com/).
 
-When bridging CAKE to Aptos for the first time, you may need to claim your CAKE manually. Please ensure you have enabled "Gas on destination", or your Aptos address had enough APT for gas. Check out the [guide](notion://www.notion.so/get-started-aptos/cake-bridging-guide) for detailed steps to bridge to Aptos.
+When bridging CAKE to Aptos for the first time, you may need to claim your CAKE manually. Please ensure you have enabled "Gas on destination", or your Aptos address had enough APT for gas. Check out the [guide for detailed steps to bridge to Aptos](aptos.md).
 
 When bridging CAKE to BNB Chain or Ethereum, for some wallets, you will need to manually add the CAKE token address to your wallet to check its balance.
 
-If you haven't received your CAKE after 60 mins. Please contact our admins via our [social channels/groups](notion://www.notion.so/contact-us/telegram) for [help](notion://www.notion.so/help).
+If you haven't received your CAKE after 60 mins. Please contact our admins via our [social channels/groups](../../contact-us/telegram.md) for [help](../../help/).
 
 
 

@@ -6,6 +6,8 @@ description: >-
 
 # How to migrate
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 In April 2023, PancakeSwap announced V3 for Exchange and Farms. Some farming pairs will need to be migrated to keep earning staking rewards. Relax, like last time, it should be smooth.
 
 ### But wait! Do I need to migrate? <a href="#4b9e0260-9dee-493b-b0ad-6bdba084cea6" id="4b9e0260-9dee-493b-b0ad-6bdba084cea6"></a>
@@ -79,7 +81,7 @@ Even though some other project tokens are also migrating to V3, they will not ap
 
 **Step 3 - Get ready for V3**
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 No action is needed. Simply read and make sure you are familiar with how V3 works and how to provide liquidity in V3.
 
@@ -95,9 +97,9 @@ Click “Add Liquidity”. Your previously removed V2 liquidity will show up in 
 
 If you don’t see the pair you want to add, click “Add Other Pairs” instead and choose the two tokens manually.
 
-For a more detailed tutorial on how to provide liquidity in V3, read here.
+For a more detailed tutorial on how to provide liquidity in V3, read [here](../../products/pancakeswap-exchange/liquidity-guide.md).
 
-If you have questions while providing liquidity in V3, check here for FAQ.
+If you have questions while providing liquidity in V3, check here for [FAQ](../../products/pancakeswap-exchange/faq.md).
 
 {% hint style="warning" %}
 Please be aware that in Exchange V3, only active (in-range) liquidity positions will earn trading fee rewards.
@@ -115,9 +117,9 @@ In this step, you will stake your freshly added V3 liquidity positions to the ne
 
 Click each of the “Stake” buttons on the position to stake them into farms. Your wallet will ask for confirmation.
 
-For a more detailed tutorial on how to farm in V3, read here.
+For a more detailed tutorial on how to farm in V3, read [here](../../products/yield-farming/how-to-use-farms.md#farm-v3).
 
-If you have questions while staking liquidity in V3 farms, check here for FAQ.
+If you have questions while staking liquidity in V3 farms, check here for [FAQ](../../products/yield-farming/faq.md).
 
 {% hint style="warning" %}
 Please be aware that in Farm V3, only active (in-range) liquidity positions will earn CAKE rewards.
