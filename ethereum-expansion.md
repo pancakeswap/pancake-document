@@ -2,7 +2,7 @@
 description: gm eth!
 ---
 
-# Ethereum Deployment
+# Ethereum Expansion
 
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -19,25 +19,21 @@ While this page serves as a quick FAQ for Project Teams to find out a bit more a
 
 Simple is sexy, and so is safety!
 
-With more than $2.5B in TVL, we like to move quickly, and do so responsibly. Having more than two years of experience in the crypto markets, from bull to bear, we have been effectively delivering DeFi to our community. Don’t just trust us, please verify (link to audits [here](https://docs.pancakeswap.finance/audits)).
-
-\
+With more than $2.5B in TVL, we like to move quickly, and do so responsibly. Having more than two years of experience in the crypto markets, from bull to bear, we have been effectively delivering DeFi to our community. Don’t just trust us, please verify (link to audits [here](https://docs.pancakeswap.finance/audits)).\
 With the introduction of PancakeSwap v3, we are introducing an improved Swap experience which would greatly increase capital efficiency for liquidity providers, while still allowing retail users to navigate our platform with ease.
 
 For builders, we have kept the contracts similar to Uniswap v3 (and 1:1 identical for core contracts). For more technical information, please check out our [technical guide](https://docs.pancakeswap.finance/code/smart-contracts/pancakeswap-exchange/v3).
 
 Beyond just liquidity mining programs (“Syrup Pools and Farms”) and community engagement activities (AMAs, prize challenges, etc.) that you are already familiar with, we have been constantly innovating on our core products. We are now the best trading venue for many blue-chip tokens on Ethereum after introducing [market-maker linked pools](https://medium.com/pancakeswap/introducing-market-maker-integration-on-ethereum-pancakeswap-trade-and-share-10-000-usdc-in-724df104716) to our platform. Check it out [here](https://twitter.com/PancakeSwap/status/1629740209427415042).
 
-
-
 ### Interested? Let’s build together <a href="#h.1jf6b5kxx1rc" id="h.1jf6b5kxx1rc"></a>
 
-We are launching on Ethereum in tiered phases.
+We are expanding on Ethereum in tiered phases.
 
-1. For our first phase, we will be hosting liquidity mining programs (“Syrup Pools and Farms”) – Farms are already live and Syrup Pools will go live soon, interested projects please apply [here](https://forms.gle/aQwmYLpebskQmA3Y6).
-2. 2\. For our second phase, we will be introducing token launchpad offerings (“Initial Farm Offering, or IFO”). This is scheduled to go live in mid-to-late May 2023, and we are currently collating a waitlist [here](https://forms.gle/rYL33d6QZKPzUL7e7).
+1. For our first phase, we will be hosting liquidity mining programs (“Syrup Pools and Farms”) – Farms are already live and Syrup Pools will go live soon; interested projects please apply [here](https://forms.gle/aQwmYLpebskQmA3Y6).
+2. For our second phase, we will be introducing token launchpad offerings (“Initial Farm Offering, or IFO”). This is scheduled to go live in mid-to-late May 2023, and we are currently collating a waitlist [here](https://forms.gle/rYL33d6QZKPzUL7e7).
 
-For more information about our liquidity mining programs (“Syrup Pools and Farms”) please view this PDF:
+For more information about our liquidity mining programs (“Syrup Pools and Farms”), please view this PDF:
 
 {% file src=".gitbook/assets/PancakeSwap Ethereum Syrup Pools & Farms.pdf" %}
 
