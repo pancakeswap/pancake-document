@@ -46,7 +46,7 @@
   * [How to Add/Remove Liquidity](products/pancakeswap-exchange/liquidity-guide.md)
   * [Market Maker Integration](products/pancakeswap-exchange/market-maker-integration.md)
   * [Smart Router (V2)](products/pancakeswap-exchange/smart-router-v2/README.md)
-    * [How to trade using Smart Router](products/pancakeswap-exchange/smart-router/how-to-trade-using-smart-router.md)
+    * [How to trade using Smart Router](products/pancakeswap-exchange/smart-router-v2/how-to-trade-using-smart-router.md)
   * [⚡ Zap (V2)](products/pancakeswap-exchange/zap-v2.md)
   * [📋 Limit Orders (V2)](products/pancakeswap-exchange/limit-orders/README.md)
     * [Limit Orders FAQ](products/pancakeswap-exchange/limit-orders/limit-orders-faq.md)

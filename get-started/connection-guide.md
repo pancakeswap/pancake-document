@@ -207,7 +207,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 {% endtab %}
 
 {% tab title="Binance Wallet" %}
-![](<../.gitbook/assets/image (39) (1).png>)
+![](<../.gitbook/assets/image (39) (1) (1).png>)
 
 ### Chrome and Firefox
 

@@ -24,7 +24,7 @@ Alternatively, you can learn how to get an Aptos-compatible wallet [here](https:
 
 3 - Choose the token you want to trade from the dropdown menu in the upper section. Whichever token you choose, you will need to make sure you have a sufficient amount of them in your wallet to trade with. Your balance is shown above the token dropdown menu.
 
-![](<../../.gitbook/assets/image (18) (1).png>)
+![](<../../.gitbook/assets/image (18).png>)
 
 
 
@@ -42,13 +42,13 @@ Whichever section you input your amount, the amount in the other section will be
 
 If you are trading a token for the first time, you may need first to click "Enable XXX (your token)" to approve.
 
-![](<../../.gitbook/assets/image (12) (1).png>)
+![](<../../.gitbook/assets/image (12) (2).png>)
 
 
 
 7 - A window with more details will appear. Check the details are correct. When you are ready, click the **Confirm Swap** button. Your wallet will ask you to confirm the action.
 
-![](<../../.gitbook/assets/image (28) (1).png>)
+![](<../../.gitbook/assets/image (28) (2).png>)
 
 
 

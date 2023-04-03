@@ -1,6 +1,6 @@
 # Fees and Routes
 
-<figure><img src="../../.gitbook/assets/image (50) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
 In Exchange V3, on default, PancakeSwap Smart Router will utilize liquidity from V3, V2, StableSwap (BNB Chain), and the AMM and market makers (BNB Chain & Ethereum), to execute trades and find the best price for traders.
 
@@ -8,7 +8,7 @@ However, users are always able to customize their trade by choosing which liquid
 
 ### **Check the fee rate and fee amount that is currently applied**
 
-****![](<../../.gitbook/assets/image (42) (1).png>)****
+****![](<../../.gitbook/assets/image (42).png>)****
 
 To check how much trading will be charged on your current swap, check out the “Fee” section in the swap detail section.
 
@@ -16,7 +16,7 @@ To check how much trading will be charged on your current swap, check out the �
 
 To check which type of pool and the fee tier your trade is currently routed through, check out the “Route” section.
 
-![](<../../.gitbook/assets/image (27) (1).png>)
+![](<../../.gitbook/assets/image (27).png>)
 
 To learn more detail, click the magnifier icon to bring out the full trading route displays.
 
@@ -35,7 +35,7 @@ By default, all of the liquidity sources are enabled and Smart Router will take 
 
 Please note that the router will NOT route trades between AMM liquidity pools and MM market makers. When your trade is executed by MM market makers, it will not go through any AMM liquidity pools.
 
-![](<../../.gitbook/assets/image (26) (1).png>)
+![](<../../.gitbook/assets/image (26).png>)
 
 You can click the “Reset” button on the top right-hand corner to reset the configurations to default.
 
@@ -43,7 +43,7 @@ You can click the “Reset” button on the top right-hand corner to reset the c
 
 ### **Customize routing preferences**
 
-****![](<../../.gitbook/assets/image (9).png>)****
+****![](<../../.gitbook/assets/image (9) (3).png>)****
 
 At the bottom of the “Customize Routing” interface, you can customize your routing preferences by enabling or disabling multihops and split routing.
 

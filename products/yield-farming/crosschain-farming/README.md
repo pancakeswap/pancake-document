@@ -4,7 +4,7 @@ description: Receive the same juicy CAKE rewards by farming on other blockchains
 
 # Crosschain Farming
 
-<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (2).png" alt=""><figcaption></figcaption></figure>
 
 With the multichain deployment, PancakeSwap is now bringing the iconic yield farming experience from PancakeSwap farms to users on other blockchains. Yield Farms allow users to earn CAKE while supporting PancakeSwap by staking LP Tokens.
 

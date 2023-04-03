@@ -180,7 +180,7 @@ Petra wallet is an extension that lets you explore Aptos in your browser.
 {% endtab %}
 
 {% tab title="Martian" %}
-<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (36) (2).png" alt=""><figcaption></figcaption></figure>
 
 Martian is an Aptos Chain wallet that allows you to store, send, receive tokens and manage & mint NFTs. Its mobile version is coming soon.
 
@@ -212,7 +212,7 @@ Pontem Wallet is an Aptos Chain wallet that allows you to store, send, receive t
 {% endtab %}
 
 {% tab title="Fewcha" %}
-<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (39) (1).png" alt=""><figcaption></figcaption></figure>
 
 Fewcha is a trusted crypto wallet optimized for Aptos and SUI ecosystem that unlocks a universe of applications in the web3.
 
@@ -256,7 +256,7 @@ Fewcha is a trusted crypto wallet optimized for Aptos and SUI ecosystem that unl
 
 4\. Click Finish to complete this setup process. And done! Once your wallet is created, you can access it at any time by clicking on the Fewcha Wallet icon on the extension bar.&#x20;
 
-<figure><img src="../.gitbook/assets/image (2) (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 To start using PancakeSwap on Aptos, you will also need to have some $APT tokens to pay gas fees. You can learn how to get some here.
 {% endtab %}

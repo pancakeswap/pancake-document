@@ -1,6 +1,6 @@
 # FAQ
 
-<figure><img src="../../.gitbook/assets/image (32) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 **Can I use mobile wallets to bridge CAKE? Can I use wallets other than MetaMask?**
 

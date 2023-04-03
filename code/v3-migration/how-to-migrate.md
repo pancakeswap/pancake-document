@@ -43,7 +43,7 @@ The list will likely grow eventually. The easiest way to check the updated list 
 
 ### How to migrate <a href="#c7d7b407-268c-460c-a4f1-be1b771db5e7" id="c7d7b407-268c-460c-a4f1-be1b771db5e7"></a>
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Look for the V3 migration banner on the Liquidity or Farm page. Then click “Proceed” to enter the migration helper page.
 
@@ -79,7 +79,7 @@ Even though some other project tokens are also migrating to V3, they will not ap
 
 **Step 3 - Get ready for V3**
 
-<figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 No action is needed. Simply read and make sure you are familiar with how V3 works and how to provide liquidity in V3.
 
@@ -87,7 +87,7 @@ No action is needed. Simply read and make sure you are familiar with how V3 work
 
 **Step 4 - Add V3 liquidity**
 
-****![](<../../.gitbook/assets/image (19) (1).png>)****
+****![](<../../.gitbook/assets/image (19).png>)****
 
 In this step, you will add your liquidity to the new Exchange V3.
 
