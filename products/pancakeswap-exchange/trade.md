@@ -2,16 +2,22 @@
 
 ![](../../.gitbook/assets/swap-trade-header.png)
 
-****[**Token swaps**](https://exchange.pancakeswap.finance/#/swap) on PancakeSwap are a simple way to trade one BEP-20 token for another via automated liquidity pools, and also with market makers when trading ERC-20 tokens on Ethereum.
+[**Token swaps**](https://pancakeswap.finance/swap) **** on PancakeSwap are a simple way to trade one token for another via automated liquidity pools on BNB Smart Chain, Ethereum and Aptos, and also with market makers when trading tokens on BNB Smart Chain and Ethereum.
 
-![](../../.gitbook/assets/screenshot-2021-04-19-at-6.11.54-pm.png)
+![](<../../.gitbook/assets/image (41).png>)
 
-When you make a token swap (trade) on the exchange you will pay a **0.25% trading fee**, which is broken down as follows:
+When you make a token swap (trade) on the [BNB Smart Chain](https://pancakeswap.finance/swap?chain=bsc) or [Ethereum](https://pancakeswap.finance/swap?chain=eth) PancakeSwap Exchange, you will pay trading fees according to the type of liquidity pool your trade is being routed through. You may check the route details by clicking the magnifier icon on the “Route” section.
 
-**0.17%** - Returned to Liquidity Pools in the form of a fee reward for liquidity providers.
+For Exchange V3 liquidity pools, there are currently four different fee tiers: 0.01%, 0.05%, 0.25%, and 0.1%.
 
-**0.0225%** - Sent to the PancakeSwap Treasury.
+For StableSwap liquidity pools, the fee rate depends on the individual pool configurations. Please check the “Fee” section for more detail.
 
-**0.0575%** - Sent towards CAKE buyback and burn.
+For Exchange V2 liquidity pools, a fixed 0.25% trading fee is applied, which is broken down as follows:
 
-The fee is reduced if you are trading a pair available through our BNB Chain [stableswap](https://docs.pancakeswap.finance/products/stableswap) or our [market maker integration](market-maker-integration.md) on Ethereum.
+* **0.17%** - Returned to Liquidity Pools in the form of a fee reward for liquidity providers.
+* **0.0225%** - Sent to the PancakeSwap Treasury.
+* **0.0575%** - Sent towards CAKE buyback and burn.
+
+![](<../../.gitbook/assets/image (37).png>)
+
+Please note that on [Aptos](https://aptos.pancakeswap.finance/swap), only PancakeSwap Exchange V2 is deployed, therefore all the token swaps on Aptos will have a fixed 0.25% trading fee with the same breakdown as mentioned above.

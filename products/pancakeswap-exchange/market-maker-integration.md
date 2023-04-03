@@ -6,7 +6,7 @@
 
 PancakeSwap is integrated with market makers on Ethereum and Binance Smart Chain to help traders execute trades at a lower cost.
 
-In addition to the AMM, trades on PancakeSwap can now be routed to designated white-listed market makers if they offer trade execution that is better than the AMM’s current prices. This routing is done automatically by a [Smart Router](smart-router/) so that trades are only routed to market makers when they are actively quoting better prices. Where the AMM is more competitive, traders will be routed to the AMMs for execution.
+In addition to the AMM, trades on PancakeSwap can now be routed to designated white-listed market makers if they offer trade execution that is better than the AMM’s current prices. This routing is done automatically by a [Smart Router](smart-router-v2/) so that trades are only routed to market makers when they are actively quoting better prices. Where the AMM is more competitive, traders will be routed to the AMMs for execution.
 
 There are 2 scenarios in which market makers operate on PancakeSwap.
 

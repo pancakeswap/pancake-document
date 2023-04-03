@@ -96,7 +96,7 @@ Trust Wallet is a popular wallet for smart devices. It supports DApps, NFT colle
 {% endtab %}
 
 {% tab title="Blocto" %}
-****![](<../.gitbook/assets/image (37) (2).png>)****
+****![](<../.gitbook/assets/image (37) (2) (1).png>)****
 
 Blocto offers a user-friendly solution and an all-in-one package for using Dapps and managing your assets.
 
@@ -212,7 +212,7 @@ Pontem Wallet is an Aptos Chain wallet that allows you to store, send, receive t
 {% endtab %}
 
 {% tab title="Fewcha" %}
-<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (39) (2).png" alt=""><figcaption></figcaption></figure>
 
 Fewcha is a trusted crypto wallet optimized for Aptos and SUI ecosystem that unlocks a universe of applications in the web3.
 
@@ -262,7 +262,7 @@ To start using PancakeSwap on Aptos, you will also need to have some $APT tokens
 {% endtab %}
 
 {% tab title="Blocto" %}
-****![](<../.gitbook/assets/image (37) (2).png>)****
+****![](<../.gitbook/assets/image (37) (2) (1).png>)****
 
 Blocto offers a user-friendly solution and an all-in-one package for using Dapps and managing your assets.
 

@@ -4,7 +4,7 @@ description: Bridge CAKE between Aptos and BNB Smart Chain
 
 # CAKE Bridging Guide
 
-<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (37) (2).png" alt=""><figcaption></figcaption></figure>
 
 With our multichain expansion and deployment on Aptos. CAKE is now a multichain token that exists both on BNB Smart Chain and Aptos.&#x20;
 
