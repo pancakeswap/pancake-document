@@ -1,5 +1,5 @@
 ---
-description: PancakeSwap is planning to come to Aptos!
+description: PancakeSwap is now on Aptos!
 ---
 
 # Aptos Deployment

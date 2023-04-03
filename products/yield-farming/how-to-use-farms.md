@@ -83,7 +83,7 @@ You can repeat the above steps to quickly stake multiple positions with differen
 
 In Farm V3, you can stake multiple positions on the same farm. Each staked position will earn CAKE and need to be harvested separately.
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 To harvest CAKE rewards from a staked position, simply return to the Farm page, and locate the farm and position you want to harvest. You can use the “Staked Only” toggle to quickly filter the farms you are currently staking.
 
@@ -143,7 +143,7 @@ It may sound intimidating, but it's not too complicated. Let's go through step b
 
 Before you proceed, you'll want to choose a Farm that's right for you. [Visit the Farms page](https://pancakeswap.finance/farms) and you’ll see a list of available Farms.
 
-![](<../../.gitbook/assets/image (1) (1) (2).png>)
+![](<../../.gitbook/assets/image (1) (1) (2) (1).png>)
 
 You can choose another sorting option if you like, such as by **APR** for the Farms with the highest reward rate currently.
 

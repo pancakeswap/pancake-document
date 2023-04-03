@@ -65,7 +65,7 @@ When all the listed farms are unstaked, click “Next Steps” to proceed.
 
 **Step 2 - Remove liquidity from Exchange V2 or StableSwap**
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 In step 2, the helper will list all the liquidity positions that can be migrated to V3 with CAKE yield farming.
 

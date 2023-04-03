@@ -252,11 +252,11 @@ Fewcha is a trusted crypto wallet optimized for Aptos and SUI ecosystem that unl
 > * **NEVER** share your recovery phrases with anyone, under any circumstances.
 > * **NEVER** input your recovery phrase to a website or app, other than your wallet app**.**
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 4\. Click Finish to complete this setup process. And done! Once your wallet is created, you can access it at any time by clicking on the Fewcha Wallet icon on the extension bar.&#x20;
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 To start using PancakeSwap on Aptos, you will also need to have some $APT tokens to pay gas fees. You can learn how to get some here.
 {% endtab %}
