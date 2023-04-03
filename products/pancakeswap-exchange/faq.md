@@ -13,6 +13,8 @@
 * Backwards compatible - v3 Exchange will also utilise the legacy v2 and stable swap liquidity pairs to always provide the best trading route
 * Built-in limit order - Pro users can utilise the new customisable price range in liquidity provisioning to effectively create a limit order which will convert all the tokens to the desired one when the price hits the target
 
+
+
 ### **How come my transaction won't go through?**
 
 PancakeSwap is a DeFi application such that it interacts with the wallet to complete on-chain transactions for swapping, creating LPs, staking in farms and pools, etc.
@@ -49,6 +51,8 @@ In Swap v3, your trade might be broken into multiple routes to execute your trad
 
 To view more detail of how your trade is routed, tap the “v” button on the “Route” section to expand and view the details.
 
+Learn more in [here](fees-and-routes.md#customize-routing-preferences).
+
 
 
 ### How to customise or disable certain liquidity sources?
@@ -60,6 +64,10 @@ When viewing a trading route, click the “Customize Routing” button. Or click
 Within the “Customize Routing” pop up, you are able to choose which liquidity source you want to utilise. Or disable multihops completely.
 
 Note: disabling multihops could lead to increased slippage or worse trading rate on specific trading pairs. Proceed with caution.
+
+Learn more in [here](fees-and-routes.md#customize-liquidity-sources).
+
+
 
 ## Liquidity
 
@@ -75,15 +83,23 @@ When selecting a token pair, the “Add Liquidity” interface will automaticall
 
 
 
+### Why two of my deposit tokens are not equal in USD value?
+
+In Exchange V3, underlying assets in a liquidity position will not always have an equal value in USD. It will depend on the price range settings of a position and the current price of the pair.
+
+In fact. If your position goes out of range, all tokens will be converted to one single asset. Plus, you can provide liquidity to a price range that does not cover the current price and deposit one single asset only. Continue reading to learn more ⬇️
+
+
+
 ### What happens if my liquidity position goes out of range?
 
 You will not earn any trading fee rewards if the current price goes out of the price range defined in your position.
 
-We recommend removing liquidity and reconfiguring an active position to continue earning trading fee rewards.
-
 On top of that, all tokens will be converted to one single asset depending on the direction of the price condition.
 
 For example, if a position of CAKE/BUSD is configured with a price range of 3 BUSD per CAKE to 5 BUSD per CAKE. And all assets in the position will be converted to BUSD if the CAKE price is higher or equal to 5 BUSD per CAKE, and vice versa.
+
+Please not that if the price moves back in the range, you will start receiving trading fee rewards again. No additional actions are required.
 
 
 

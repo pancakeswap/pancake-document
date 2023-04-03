@@ -2,9 +2,11 @@
 
 ### What happens if my liquidity position goes out of range while staking in the Farm?
 
-You will not earn any CAKE rewards if the current price goes out of the price range defined in your position.
+In V3, only active (in-range) liquidity positions will earn CAKE from farms.
 
-We recommend unstaking, removing liquidity and reconfiguring an active position to continue earning.
+The position will stop receiving CAKE rewards when the price goes out of the range.
+
+If the price moves back in range, the position will start receiving CAKE rewards again. No additional actions are required from stakers.
 
 
 
