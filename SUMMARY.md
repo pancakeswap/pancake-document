@@ -1,6 +1,7 @@
 # Table of contents
 
 * [PancakeSwap Intro](README.md)
+* [Audits](audits.md)
 * [Get Started (BSC)](get-started/README.md)
   * [Create a Wallet](get-started/wallet-guide.md)
   * [Get BEP20 Tokens](get-started/bep20-guide.md)
