@@ -4,7 +4,7 @@ description: Bridge CAKE between Ethereum, Aptos and BNB Chain
 
 # 🌉 CAKE Bridging
 
-<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (49) (1).png" alt=""><figcaption></figcaption></figure>
 
 With our multichain expansion and deployment on Ethereum and Aptos. CAKE is now a multichain token that is native on BNB Chain, but also available on Ethereum and Aptos.
 

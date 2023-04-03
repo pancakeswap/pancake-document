@@ -24,7 +24,7 @@ Click "Connect" and choose your preferred wallet under the "EVM" section. Then c
 
 If you do not need to bridge CAKE to Aptos, you don’t need to connect your wallet under “Aptos” section.
 
-![](<../../.gitbook/assets/image (56).png>)
+![](<../../.gitbook/assets/image (56) (1).png>)
 
 
 
@@ -34,7 +34,7 @@ If you do not need to bridge CAKE to Aptos, you don’t need to connect your wal
 
 4 - Click the "v" in the “Network” part of the lower token selection field and choose "Ethereum".
 
-![](<../../.gitbook/assets/image (59).png>)
+![](<../../.gitbook/assets/image (59) (3).png>)
 
 
 
@@ -44,11 +44,11 @@ If you do not need to bridge CAKE to Aptos, you don’t need to connect your wal
 
 6 - **If your Ethereum address is already utilized with an ETH balance, you can turn off the “gas on destination” to save some BNB.**
 
-****![](<../../.gitbook/assets/image (58).png>)****
+****![](<../../.gitbook/assets/image (58) (1).png>)****
 
 Otherwise, if your Ethereum address is never utilized and has no ETH balance, we recommend keeping the "gas on destination" option at its default. Or you can choose an ETH amount you want to receive.
 
-![](<../../.gitbook/assets/image (62).png>)
+![](<../../.gitbook/assets/image (62) (1).png>)
 
 The bridge will deposit the set amount of ETH to your destination address to kickstart your journey on Ethereum. The corresponding amount in BNB will be charged with the market rate.
 
@@ -78,7 +78,7 @@ Click "Connect" and choose your preferred wallet under the "EVM" section. Then c
 
 If you do not need to bridge CAKE to Aptos, you don’t need to connect your wallet under “Aptos” section.
 
-![](<../../.gitbook/assets/image (43).png>)
+![](<../../.gitbook/assets/image (43) (1).png>)
 
 
 
@@ -88,7 +88,7 @@ If you do not need to bridge CAKE to Aptos, you don’t need to connect your wal
 
 4 - Click the "v" in the “Network” part of the lower token selection field and choose "BNB Chain".
 
-![](<../../.gitbook/assets/image (31).png>)
+![](<../../.gitbook/assets/image (31) (1).png>)
 
 
 

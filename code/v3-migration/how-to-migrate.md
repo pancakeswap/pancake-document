@@ -79,7 +79,7 @@ Even though some other project tokens are also migrating to V3, they will not ap
 
 **Step 3 - Get ready for V3**
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
 No action is needed. Simply read and make sure you are familiar with how V3 works and how to provide liquidity in V3.
 
@@ -87,7 +87,7 @@ No action is needed. Simply read and make sure you are familiar with how V3 work
 
 **Step 4 - Add V3 liquidity**
 
-****![](<../../.gitbook/assets/image (19).png>)****
+****![](<../../.gitbook/assets/image (19) (1).png>)****
 
 In this step, you will add your liquidity to the new Exchange V3.
 

@@ -30,7 +30,7 @@ It may sound intimidating, but it's not too complicated. Let's go through step b
 
 Before you proceed, you'll want to choose a Farm that's right for you. [Visit the Farms page](https://pancakeswap.finance/farms) and you’ll see a list of available Farms.
 
-![](<../../.gitbook/assets/image (1) (1) (2).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 You can choose another sorting option if you like, such as by **APR** for the Farms with the highest reward rate currently.
 
@@ -43,7 +43,7 @@ Now that you've found a Farm to stake in, you will need to add liquidity to get 
 1. Click on the row of the Farm you've chosen from the list. It will open to show more details.
 2. On the left, you'll see some links. Click the **Get (your pair) LP** link.
 
-![](<../../.gitbook/assets/image (8) (2).png>)
+![](<../../.gitbook/assets/image (8).png>)
 
 ## Putting your LP Tokens into a farm
 
@@ -59,11 +59,11 @@ When you’re ready, click the **Enable** button and confirm your action in your
 
 2 - After a short wait, the Enable button will change to **Stake LP**. Click it and a new window will appear.
 
-![](<../../.gitbook/assets/image (7) (1) (2).png>)
+![](<../../.gitbook/assets/image (7) (1).png>)
 
 3 - Type the amount of LP Tokens you would like to farm with into the field, or just click **Max** to use all of your LP Tokens.
 
-![](<../../.gitbook/assets/image (5) (1).png>)
+![](<../../.gitbook/assets/image (5) (2).png>)
 
 4 - When you have the amount entered, the **Confirm** button will light up. Click it. Your wallet will ask you to confirm your action.
 
@@ -136,7 +136,7 @@ How often you harvest your rewards is up to you, but it does help to remember th
 
 You can see this fee in your wallet when confirming after clicking **Harvest**.
 
-![](<../../.gitbook/assets/image (31) (1).png>)
+![](<../../.gitbook/assets/image (31).png>)
 
 This shows the fee for harvesting as it appears in the MetaMask wallet. Different wallets will show the information a little differently. Consider leaving your rewards to grow for a while so you pay fees less often.
 

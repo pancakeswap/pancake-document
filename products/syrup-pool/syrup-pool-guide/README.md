@@ -68,16 +68,16 @@ You can easily add more CAKE to a Syrup Pool, or move some CAKE to a more profit
 
 1\. Click the **-** to take some CAKE out of a pool, or the **+** to add more to the pool.
 
-![](<../../../.gitbook/assets/image (26) (1).png>)
+![](<../../../.gitbook/assets/image (26).png>)
 
 Please note that unstaking from the Auto CAKE pool has a fee of 0.1% if you unstake within 72 hours.
 
 2\. A window will open. If you clicked the **+**, choose the amount you would like to add to the pool. If you clicked the **-**, choose the amount to take out of the pool.
 
-![](<../../../.gitbook/assets/image (27) (1).png>)
+![](<../../../.gitbook/assets/image (27).png>)
 
 3\. Click **Confirm**.
 
 4\. After a little wait, you'll be able to see your new amount of staked tokens.
 
-![](<../../../.gitbook/assets/image (29) (1).png>)
+![](<../../../.gitbook/assets/image (29).png>)

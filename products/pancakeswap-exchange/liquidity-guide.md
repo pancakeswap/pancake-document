@@ -16,7 +16,7 @@ In this example, we will add V3 liquidity using ETH and USDC.
 
 1 - Visit the [Liquidity page](https://exchange.pancakeswap.finance/#/pool).
 
-<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (30) (1).png" alt=""><figcaption></figcaption></figure>
 
 2 - Click the “Add Liquidity” button.
 
@@ -34,7 +34,7 @@ In this example, we will add V3 liquidity using ETH and USDC.
 
 5 - You can confirm the version as well as the fee tier of the liquidity pool you are providing by looking for the “V3 LP - x% fee tier” displays.
 
-![](<../../.gitbook/assets/image (47).png>)
+![](<../../.gitbook/assets/image (47) (1).png>)
 
 * If you want to customize the fee tier, click “More”, and choose the desired fee tier.
 * Please note that it is always advisable to provide liquidity to the most popular fee tier.
@@ -53,19 +53,19 @@ In this example, we will add V3 liquidity using ETH and USDC.
 
 7 - Enter an amount on one of the tokens under “Deposit Amount”. The other should be calculated and filled automatically. If one of the tokens does not have enough balance. You will see an error and the button is greyed out. Please enter a lower amount to proceed or use the “MAX” button to fill in the maximum available value.
 
-![](<../../.gitbook/assets/image (55).png>)
+![](<../../.gitbook/assets/image (55) (1).png>)
 
 
 
 8 - Click the “Enable USDC” **** button. If you are adding liquidity against tokens other than ETH, you might need to click enable twice for each token in your pair. Your wallet will ask you to confirm the action.
 
-![](<../../.gitbook/assets/image (45).png>)
+![](<../../.gitbook/assets/image (45) (2).png>)
 
 
 
 9 - The “Add” **** button will then light up. Click to proceed.
 
-![](<../../.gitbook/assets/image (39).png>)
+![](<../../.gitbook/assets/image (39) (2).png>)
 
 
 
@@ -81,7 +81,7 @@ In this example, we will add V3 liquidity using ETH and USDC.
 
 12 - Soon after, you will see your new liquidity position on the “My Liquidity” page. And you will be able to check its detail by clicking on the position.
 
-<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### **Remove liquidity**
 
@@ -89,7 +89,7 @@ To remove liquidity.
 
 1 - Visit the [Liquidity page](https://exchange.pancakeswap.finance/#/pool)**.**
 
-<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
