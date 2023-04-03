@@ -34,7 +34,7 @@ Clique em "Migrate/Migrar" e siga o guia passo a passo para concluir as migraç�
 
 ## Ative o Impulsionamento
 
-![](<../../../.gitbook/assets/image (2) (2).png>)
+![](<../../../.gitbook/assets/image (2) (2) (1).png>)
 
 Quando estiver pronto, você verá o multiplicador de impulsionamento disponível e o APR aumentado para o farm que está em stake no momento. Para saber mais sobre como o multiplicador bCAKE é calculado, leia [aqui](https://docs.pancakeswap.finance/v/portuguese-brazilian/products/yield-farming/bcake/faq).&#x20;
 

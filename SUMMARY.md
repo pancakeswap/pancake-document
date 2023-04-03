@@ -23,6 +23,10 @@
   * [Inscrições para o Mercado de NFT](contact-us/nft-market-applications.md)
   * [Suporte ao Cliente](contact-us/customer-support.md)
   * [Redes Sociais & Comunidades](contact-us/telegram.md)
+* [Programa de Embaixadores](programa-de-embaixadores/README.md)
+  * [👥 Página da Moderação da Comunidade](programa-de-embaixadores/pagina-da-moderacao-da-comunidade.md)
+  * [🌎Página da Tradução da Comunidade](programa-de-embaixadores/pagina-da-traducao-da-comunidade.md)
+  * [❓ Página das Perguntas Frequentes](programa-de-embaixadores/pagina-das-perguntas-frequentes.md)
 * [A Equipe da Cozinha](the-kitchen-team.md)
 * [Roadmap](roadmap.md)
 * [Marca & Logos](brand.md)
@@ -100,7 +104,10 @@
 
 ## Desenvolvedores <a href="#code" id="code"></a>
 
-* [Migração](code/migration/README.md)
+* [3⃣ Migração V3](code/migracao-v3/README.md)
+  * [Como migrar](code/migracao-v3/como-migrar.md)
+  * [FAQ](code/migracao-v3/faq.md)
+* [2⃣ Migração V2](code/migration/README.md)
   * [Migre seus Stakes](code/migration/migrate-your-stakings.md)
   * [MasterChef v2](code/migration/masterchef-v2/README.md)
     * [List dos Farms](code/migration/masterchef-v2/list-of-farms.md)
