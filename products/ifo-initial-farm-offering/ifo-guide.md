@@ -108,7 +108,7 @@ If you don’t want to commit more CAKE to the IFO, you can skip ahead to the ne
 
 ### **Committing CAKE to the Private Sale**
 
-![](<../../.gitbook/assets/image (59).png>)
+![](<../../.gitbook/assets/image (59) (3).png>)
 
 1\. The checkbox in the Private Sale card will light up if you are eligible to participate in the Private Sale. To use your CAKE in the Private Sale, click the **Commit** button under Private Sale. A window will appear.
 

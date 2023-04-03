@@ -40,45 +40,7 @@ PancakeSwap IFO has not yet been deployed on Aptos. (SOON!) Keep staking your CA
 
 ## CAKE Bridging
 
-### Why do the pop-up and the progress bar show a huge waiting time?
-
-Please note that for assets other than CAKE, outbound transfers from Aptos are subject to 500.000 block confirmations, estimated to last \~2 days. Timing may change due to fluctuations in blocktimes.
-
-**For CAKE bridging, the waiting time should be around 3-10 mins.**
-
-### Can I use mobile wallets to bridge CAKE? Can I use wallets other than MetaMask?
-
-As of writing, PancakeSwap Aptos Bridge only supports MetaMask (and any MetaMask-compatible wallets) on the Desktop browser. More wallet support will be added very soon.
-
-To avoid copy-and-pasting private keys or seed phrases between your devices. We recommend creating a set of fresh wallets on Desktop wallet extensions for bridging.
-
-### Why the button shows "X CAKE Exceeded"?
-
-For safety, there is a daily capacity limit of how much CAKE can be bridged between BSC and Aptos. Please try again with a lower amount of CAKE. Or try again at a later time.
-
-Chefs will adjust this limit dynamically based on the demands.
-
-### What if the transaction is stuck at "pending"?&#x20;
-
-Bridging transactions will take up to 30 mins to be processed. Please wait and try searching your tx by entering its hash/id in [LayerZero Scan](https://layerzeroscan.com/).
-
-If the bridging transaction is still showing pending after 60 mins. Please contact our admins via our [social channels/groups](../contact-us/telegram.md) for [help](../help/).
-
-Please note that for assets other than CAKE, outbound transfers from Aptos are subject to 500k block confirmations, estimated to last \~2 days. Timing may change due to fluctuations in blocktimes.
-
-### I have never received my CAKE
-
-Bridging transactions will take up to 30 mins to be processed. Please wait and try searching your tx by entering its hash/id in [LayerZero Scan](https://layerzeroscan.com/).
-
-When bridging CAKE to Aptos for the first time, you must claim your CAKE manually. Please make sure you have enabled "Gas on destination", or your Aptos address had enough APT for gas. Check out the [guide](cake-bridging-guide.md) for detailed steps to bridge.
-
-When bridging CAKE to BNB Smart Chain, for some wallets, you will need to manually add the CAKE token address to your wallet to check its balance.
-
-If you haven't received your CAKE after 60 mins. Please contact our admins via our [social channels/groups](../contact-us/telegram.md) for [help](../help/).
-
-### Why I can not bridge less than 0.00000001 CAKE?
-
-Aptos Coins have a maximum decimal of 8. This applies to the CAKE token on Aptos. So when you are bridging CAKE to Aptos, txs with an amount less than 0.00000001 will be rejected.&#x20;
-
-If you are bridging an amount of CAKE with a decimal that is larger than 8, any amount less than 0.00000001 will be rounded, ignored and not bridged. The remaining amount will be left in your BNB Smart Chain wallet.
+{% hint style="info" %}
+This document has been migrated [here](../products/cake-bridging/faq.md)
+{% endhint %}
 

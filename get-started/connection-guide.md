@@ -142,7 +142,7 @@ Token Pocket is a cryptocurrency management app that natively supports many cryp
 {% endtab %}
 
 {% tab title="SafePal" %}
-![](<../.gitbook/assets/image (26) (1).png>)
+![](<../.gitbook/assets/image (26) (1) (1).png>)
 
 SafePal is available as both a software and hardware wallet. The wallet is easy to install and create, and comes ready to support BEP2 (Binance Chain) and BEP20 (BNB Smart Chain) right away.
 
@@ -207,7 +207,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 {% endtab %}
 
 {% tab title="Binance Wallet" %}
-![](<../.gitbook/assets/image (39) (1).png>)
+![](<../.gitbook/assets/image (39) (1) (1).png>)
 
 ### Chrome and Firefox
 

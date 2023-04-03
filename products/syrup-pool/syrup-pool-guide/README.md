@@ -46,11 +46,11 @@ Other Syrup Pools let you stake your CAKE to earn dozens of other cool tokens. M
 
 6\. The Enable button should now be replaced with **Stake**. Click the button to bring up the staking menu.
 
-![](<../../../.gitbook/assets/image (22) (2).png>)
+![](<../../../.gitbook/assets/image (22).png>)
 
 7\. Type in an amount or slide the rabbit to choose how much CAKE you want to stake.
 
-![](<../../../.gitbook/assets/image (23).png>)
+![](<../../../.gitbook/assets/image (23) (1).png>)
 
 8\. Click **Confirm**. Your wallet will ask you to confirm the action.
 
@@ -68,7 +68,7 @@ You can easily add more CAKE to a Syrup Pool, or move some CAKE to a more profit
 
 1\. Click the **-** to take some CAKE out of a pool, or the **+** to add more to the pool.
 
-![](<../../../.gitbook/assets/image (26) (2).png>)
+![](<../../../.gitbook/assets/image (26) (1).png>)
 
 Please note that unstaking from the Auto CAKE pool has a fee of 0.1% if you unstake within 72 hours.
 
@@ -80,4 +80,4 @@ Please note that unstaking from the Auto CAKE pool has a fee of 0.1% if you unst
 
 4\. After a little wait, you'll be able to see your new amount of staked tokens.
 
-![](<../../../.gitbook/assets/image (29).png>)
+![](<../../../.gitbook/assets/image (29) (1).png>)

@@ -69,6 +69,10 @@
   * [Other Syrup Pools](products/syrup-pool/syrup-pool-guide/README.md)
     * [Syrup Pool FAQ & Troubleshooting](products/syrup-pool/syrup-pool-guide/syrup-pool-faq.md)
   * [Page 1](products/syrup-pool/page-1.md)
+* [🌉 CAKE Bridging](products/cake-bridging/README.md)
+  * [Between EVMs](products/cake-bridging/evms.md)
+  * [Between EVM and Aptos](products/cake-bridging/aptos.md)
+  * [FAQ](products/cake-bridging/faq.md)
 * [🎟 Lottery v2](products/lottery/README.md)
   * [How to Play Lottery v2](products/lottery/lottery-guide.md)
   * [Lottery FAQ](products/lottery/lottery-faq.md)
@@ -108,7 +112,10 @@
 
 ## Developers <a href="#code" id="code"></a>
 
-* [Migration](code/migration/README.md)
+* [3⃣ V3 Migration](code/v3-migration/README.md)
+  * [How to migrate](code/v3-migration/how-to-migrate.md)
+  * [FAQ](code/v3-migration/faq.md)
+* [2⃣ V2 Migration](code/migration/README.md)
   * [Migrate Your Stakings](code/migration/migrate-your-stakings.md)
   * [MasterChef v2](code/migration/masterchef-v2/README.md)
     * [List of Farms](code/migration/masterchef-v2/list-of-farms.md)

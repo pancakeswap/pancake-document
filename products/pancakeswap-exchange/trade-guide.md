@@ -18,13 +18,13 @@ Alternatively, you can learn how to get an Aptos-compatible wallet [here](https:
 
 2 - Unlock your wallet by clicking Connect **Wallet** (you can also **Connect** in the top right-hand corner). If you haven't yet connected your wallet to PancakeSwap, you can view the guide [here](https://docs.pancakeswap.finance/get-started/connection-guide).
 
-![](<../../.gitbook/assets/image (24).png>)
+![](<../../.gitbook/assets/image (15).png>)
 
 
 
 3 - Choose the token you want to trade from the dropdown menu in the upper section. Whichever token you choose, you will need to make sure you have a sufficient amount of them in your wallet to trade with. Your balance is shown above the token dropdown menu.
 
-![](<../../.gitbook/assets/image (52).png>)
+![](<../../.gitbook/assets/image (18).png>)
 
 
 
@@ -42,19 +42,19 @@ Whichever section you input your amount, the amount in the other section will be
 
 If you are trading a token for the first time, you may need first to click "Enable XXX (your token)" to approve.
 
-![](<../../.gitbook/assets/image (27).png>)
+![](<../../.gitbook/assets/image (12).png>)
 
 
 
 7 - A window with more details will appear. Check the details are correct. When you are ready, click the **Confirm Swap** button. Your wallet will ask you to confirm the action.
 
-![](<../../.gitbook/assets/image (54).png>)
+![](<../../.gitbook/assets/image (28).png>)
 
 
 
 8 - Done! You can check your transaction on blockchain explorer by clicking the link shown above.
 
-![](<../../.gitbook/assets/image (22).png>)
+![](<../../.gitbook/assets/image (1).png>)
 
 ## **What is Smart Router, and how to use it?**
 
