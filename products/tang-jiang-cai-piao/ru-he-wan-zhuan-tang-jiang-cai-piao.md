@@ -1,6 +1,6 @@
 # 如何玩转糖浆彩票
 
-<figure><img src="../../.gitbook/assets/how-to-pottery (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/how-to-pottery.png" alt=""><figcaption></figcaption></figure>
 
 ​对比仅仅将 CAKE 锁定和质押在质押池中，PancakeSwap 的糖浆彩票是另一种增加您 CAKE 数量的可选替代方式，本指南将引导您了解如何在 PancakeSwap 官网界面中导航并参与糖浆彩票。
 
@@ -16,7 +16,7 @@
 
 每个糖浆彩票组的存入每月开放一次。存款在每月的第一个星期一 23:59 UTC 关闭并锁定蛋糕，并从之前的星期五 10:00 UTC 开始。这是为了将所有存款合并起来，一次将它们转移到锁定质押糖浆池，以实现高效的质押奖励管理和分配。在除此以外的时间里，你会看到：​
 
-<figure><img src="../../.gitbook/assets/质押停止 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/质押停止.png" alt=""><figcaption></figcaption></figure>
 
 – 这意味着存款操作目前关闭到下一个月第一个星期一之前的星期五。如果存款已开放，您将看到以下内容：​
 
@@ -36,7 +36,7 @@
 
 在UTC时间周五中午左右的每次抽奖之后，您可以在已完成的界面中查看抽奖结果和获奖者：
 
-<figure><img src="../../.gitbook/assets/抽奖结果 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/抽奖结果.png" alt=""><figcaption></figcaption></figure>
 
 ​​根据抽奖日期，找到您想要查看的糖浆彩票组的对应轮次 - 每个星期五，可能会有不止一次抽奖，因为有不同的糖浆彩票组，请确保您查看的是您参与的糖浆彩票组抽奖。请在此处阅读以了解有关[糖浆彩票组](./#tang-jiang-cai-piao-zu)构造的更多信息。
 

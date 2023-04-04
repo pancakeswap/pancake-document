@@ -106,8 +106,11 @@
 
 ## Development Guide <a href="#code" id="code"></a>
 
-* [迁移](code/qian-yi/README.md)
-  * [迁移到 MasterChef v2](code/qian-yi/qian-yi-dao-masterchef-v2.md)
+* [2⃣ V2 迁移](code/v2-qian-yi/README.md)
+  * [迁移到 MasterChef v2](code/v2-qian-yi/qian-yi-dao-masterchef-v2.md)
+  * [MasterChef v2](code/v2-qian-yi/masterchef-v2/README.md)
+    * [农场列表](code/v2-qian-yi/masterchef-v2/nong-chang-lie-biao.md)
+  * [CAKE 糖浆池](code/v2-qian-yi/cake-tang-jiang-chi.md)
 * [Contributing](code/contributing/README.md)
   * [Codebase Overview](code/contributing/codebase-overview.md)
 * [Bug 赏金](code/bug-shang-jin.md)

@@ -14,19 +14,19 @@ description: 糖浆池：在 PancakeSwap 上免费赚取代币最简单的方法
 
 1. [ 点击此处](https://pancakeswap.finance/pools)，前往糖浆池页面。
 
-<figure><img src="../../../.gitbook/assets/1 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;  2.通过右上角的「连接钱包」按钮，连接您的BNB智能链兼容钱包。
 
-<figure><img src="../../../.gitbook/assets/2 (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2 (2).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;  3.选择您的钱包并连接。
 
-<figure><img src="../../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/3 (3).png" alt=""><figcaption></figcaption></figure>
 
 &#x20; 4.选择一个您希望质押的糖浆池。
 
-<figure><img src="../../../.gitbook/assets/4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/4 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **CAKE 新版糖浆池**分为灵活质押和锁仓质押两种方式，详情请阅读[此处](../cake-tang-jiang-chi/)。
 
