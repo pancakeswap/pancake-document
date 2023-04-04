@@ -29,7 +29,8 @@
 ## Products <a href="#productos" id="productos"></a>
 
 * [🔄Exchange](productos/pancakeswap-exchange/README.md)
-  * [Swap de Tokens](productos/pancakeswap-exchange/swap-trading.md)
+  * [Swap de Tokens OLD](productos/pancakeswap-exchange/swap-trading.md)
+  * [Swap de Tokens](productos/pancakeswap-exchange/swap-de-tokens.md)
   * [Cómo hacer un Trade](productos/pancakeswap-exchange/how-to-trade-on-the-pancakeswap-exchange.md)
   * [Smart Router](productos/pancakeswap-exchange/smart-router/README.md)
     * [Cómo comerciar usando Smart Router](productos/pancakeswap-exchange/smart-router/como-comerciar-usando-smart-router.md)

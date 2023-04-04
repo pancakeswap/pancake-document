@@ -16,7 +16,7 @@ Si realiza un intercambio de tokens (swap) en StableSwap, pagará tarifas (fees)
 
 Las tarifas (fees) para los pares se desglosan en la siguiente tabla:
 
-![](../.gitbook/assets/1.png)
+![](<../.gitbook/assets/1 (6).png>)
 
 La cocina implementará gradualmente los pares de StableSwap y revisará las tarifas para probar y mejorar aún más el producto.
 

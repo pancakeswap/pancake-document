@@ -20,7 +20,7 @@ Si bien la mayoría de los usuarios en el mercado de DeFi ya deberían haber oí
 
 3. Revise los Términos y condiciones, a continuación, toque OK.
 
-![](../../.gitbook/assets/2.png)
+![](<../../.gitbook/assets/2 (1).png>)
 
 4. Ahora se mostrará la página “Import Token”. Antes de marcar "I understand" y tocar "Import", asegúrese de leer la advertencia de riesgo.
 

@@ -1,6 +1,6 @@
 # Cómo usar StableSwap
 
-![](<../../.gitbook/assets/0 (2).png>)
+![](<../../.gitbook/assets/0 (2) (2).png>)
 
 ### **Operando en el StableSwap** <a href="#_tisnq4dp6n4k" id="_tisnq4dp6n4k"></a>
 
