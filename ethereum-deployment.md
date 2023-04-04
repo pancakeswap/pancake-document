@@ -19,7 +19,8 @@ While this page serves as a quick FAQ for Project Teams to find out a bit more a
 
 Simple is sexy, and so is safety!
 
-With more than $2.5B in TVL, we like to move quickly, and do so responsibly. Having more than two years of experience in the crypto markets, from bull to bear, we have been effectively delivering DeFi to our community. Don’t just trust us, please verify (link to audits [here](https://docs.pancakeswap.finance/audits)).\
+With more than $2.5B in TVL, we like to move quickly, and do so responsibly. Having more than two years of experience in the crypto markets, from bull to bear, we have been effectively delivering DeFi to our community. Don’t just trust us, please verify (link to audits [here](https://docs.pancakeswap.finance/audits)).
+
 With the introduction of PancakeSwap v3, we are introducing an improved Swap experience which would greatly increase capital efficiency for liquidity providers, while still allowing retail users to navigate our platform with ease.
 
 For builders, we have kept the contracts similar to Uniswap v3 (and 1:1 identical for core contracts). For more technical information, please check out our [technical guide](https://docs.pancakeswap.finance/code/smart-contracts/pancakeswap-exchange/v3).
