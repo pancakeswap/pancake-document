@@ -102,6 +102,7 @@
 
 * [3⃣ Migración V3](devs/migracion-v3/README.md)
   * [¿Como migrar?](devs/migracion-v3/como-migrar.md)
+  * [Preguntas más frecuentes (FAQ)](devs/migracion-v3/preguntas-mas-frecuentes-faq.md)
 * [2⃣ Migración V2](devs/migracion-v2/README.md)
   * [Migra tus Stakings](devs/migracion-v2/migra-tus-stakings.md)
   * [MasterChef v2](devs/migracion-v2/masterchef-v2.md)
