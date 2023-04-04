@@ -2,7 +2,7 @@
 
 ## Swap
 
-### What’s new in v3 Exchange?
+### What’s new in Exchange V3?
 
 * Concentrated liquidity - liquidity will be concentrated on the most actively traded price range, which means:
   * Lower trading slippage for traders
@@ -12,6 +12,19 @@
 * Non-fungible liquidity positions - Each liquidity position will have its own unique ID corresponding to its configurations (such as price range). Therefore, you will be able to create and maintain multiple positions with the same trading pair but with different configurations and liquidity amount
 * Backwards compatible - v3 Exchange will also utilise the legacy v2 and stable swap liquidity pairs to always provide the best trading route
 * Built-in limit order - Pro users can utilise the new customisable price range in liquidity provisioning to effectively create a limit order which will convert all the tokens to the desired one when the price hits the target
+
+
+
+### Can I add my own tokens to Exchange V3?
+
+Everyone can create liquidity pools by depositing liquidity on V3.
+
+However, the following tokens are currently **NOT** supported:
+
+* Fee-on-transfer tokens
+* Rebase tokens
+
+For these token, please do **NOT** add liquidity on Exchange V3. Your assets may stuck in the liquidity position.
 
 
 
@@ -135,7 +148,7 @@ In Exchange v3 you will need to claim trading fee rewards manually. You may do t
 
 
 
-### What affects LP APR and how to calculate it?
+### What affects LP APR?
 
 In Exchange v3, LP fee reward APR could vary between liquidity positions. It is based on the following factors:
 
@@ -151,17 +164,6 @@ In Exchange v3, LP fee reward APR could vary between liquidity positions. It is 
   \- if there are more users who deposit and concentrate their liquidity with the same range as you, you will earn less trading fee due to a smaller relative share against the total
 * Whether the liquidity position is active\
   \- only active liquidity positions will earn trading fee rewards
-
-Since the manual calculation is complex and time-consuming. We are offering:
-
-Automatic APR calculation for every PancakeSwap v3 liquidity position which calculates based on the live data of liquidity distributions/concentrations, historical volume data, and the configurations from the position.
-
-* You may find the APR display on the top right-hand corner of the position detail page or in the list of v3 liquidity positions.
-* Plus, when creating a new liquidity position, the APR value is calculated live, reacting with the configuration changes you just made.
-
-On top of that, we are also offering an easy-to-use ROI calculator for all PancakeSwap liquidity providers.
-
-* You may find the calculator button on every APR display. Simply click and open the ROI calculator panel.
 
 
 

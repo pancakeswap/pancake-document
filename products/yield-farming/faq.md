@@ -1,5 +1,17 @@
 # FAQ
 
+### Why are there multiple APRs?
+
+In V3, you can concentrate your assets while providing liquidity to boost your share against the total available liquidity, earning a higher % of rewards.&#x20;
+
+Therefore, depending on the position price-range settings, each liquidity position will have its own LP fee APR and its own farming APR.
+
+The global APR is calculated with the total amount of CAKE rewards in USD, divided by the total amount of assets, with in the active positions, which are currently staked in the farm. So, global farming APR is only a generic reference, and will not represent individual APRs for each positions.
+
+To view your farming APR, check out your positions listed under each farm.
+
+###
+
 ### What happens if my liquidity position goes out of range while staking in the Farm?
 
 In V3, only active (in-range) liquidity positions will earn CAKE from farms.
@@ -50,7 +62,7 @@ If you want to adjust the price range configurations of a liquidity position, yo
 
 
 
-### What affects Farming APR and how to calculate it?
+### What affects Farming APR?
 
 In Farm v3, CAKE reward APR could vary between liquidity positions. It is based on the following factors:
 
@@ -66,6 +78,26 @@ In Farm v3, CAKE reward APR could vary between liquidity positions. It is based 
   \- if there are more users who deposit and concentrate their liquidity with the same range as you, you will earn CAKE rewards due to a smaller relative share against the total
 * Whether the liquidity position is active\
   \- only active liquidity positions will earn CAKE rewards from farm
+
+
+
+### Why a 2x farm in V3 has less APR than a 1x farm in V2?
+
+First of all, when comparing APRs, you need to make sure the total staked liquidity between two farms is equal.
+
+On top of that, we now have multiple groups of farms which have their own stream of CAKE emissions. And each group of farms shares separated sets of multipliers.
+
+An individual farm will receive CAKE emissions based on:
+
+* A = Total CAKE per second/block for the farm group it belongs to
+* B = Total number of multipliers within the group it belongs to
+* C = The multiplier has
+
+`CAKE per block/second = C / B * A`
+
+The above numbers can be found in each of the [MasterChef](../../code/smart-contracts/main-staking-masterchef-contract/) contracts.
+
+
 
 ### Can I use bCAKE in v3 Farms?
 
