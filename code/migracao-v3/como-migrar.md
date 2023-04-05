@@ -44,7 +44,7 @@ Você precisa migrar se atender às seguintes condições:
 
 ## Como migrar
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 Procure o banner de migração V3 na página de Liquidez ou Farm. Em seguida, clique em “Prosseguir” para entrar na página do assistente de migração.
 

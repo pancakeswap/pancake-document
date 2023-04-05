@@ -21,7 +21,7 @@ A alavancagem é um mecanismo de negociação. Os traders podem usá-lo para aum
 
 ![](https://lh3.googleusercontent.com/zVEa2C\_uhxdfB83PnT0jPQ3lbs5hJ8IY4cOe5KgxOiypTxV0CC1mXHouC9EhR2ukRmnMIXzk71JkEwPLmXAeK0RuP0xDsqX7c6P-X-7bPdqN3Xrfzxhub2wV55\_ZKRNTy8WoCpUs)
 
-**Proporção de Margem(Margin Ratio):** Proporção **** de Margem = Margem de Manutenção / Saldo de Margem. Suas posições serão liquidadas assim que o Taxa de Proporção de Margem atingir 100%.&#x20;
+**Proporção de Margem(Margin Ratio):** Proporção de Margem = Margem de Manutenção / Saldo de Margem. Suas posições serão liquidadas assim que o Taxa de Proporção de Margem atingir 100%.&#x20;
 
 **Taxa de Manutenção**: A quantidade mínima de saldo de margem necessária para manter suas posições abertas.&#x20;
 

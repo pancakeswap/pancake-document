@@ -70,7 +70,7 @@ Trust Wallet é uma carteira popular para smartphone. Ele suporta DApps, NFTs co
 * As notificações de transações podem ser atrasadas
 
 [**Download Trust Wallet**](https://trustwallet.com) (Dispositivo detectado Automaticamente)\
-[**Guia de Instalação da Trust Wallet**](https://www.binance.com/en/blog/421499824684901157/How-to-Set-Up-and-Use-Trust-Wallet-for-Binance-Smart-Chain)****
+[**Guia de Instalação da Trust Wallet**](https://www.binance.com/en/blog/421499824684901157/How-to-Set-Up-and-Use-Trust-Wallet-for-Binance-Smart-Chain)
 {% endtab %}
 
 {% tab title="MetaMask" %}
@@ -96,7 +96,7 @@ MetaMask é uma carteira de plugin baseada em navegador muito popular que suport
 * Informações e configurações extras podem confundir os iniciantes
 
 [**Download MetaMask**](https://metamask.io/download.html) (Dispositivo Detectado Automaticamente)\
-[**Guia de Instalação da MetaMask**](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)****
+[**Guia de Instalação da MetaMask**](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
 {% endtab %}
 
 {% tab title="Coinbase Wallet" %}
@@ -115,7 +115,7 @@ Milhões de usuários escolhem a CarCoinbase Wallet para obter rendimento com De
 
 [**Download Coinbase Wallet**](https://coinbase-wallet.onelink.me/q5Sx/fdb9b250) **(**Dispositivo Detectado Automaticamente**)**
 
-&#x20;[**Guia de instalação da Coinbase Wallet**](https://www.coinbase.com/wallet/getting-started-mobile) ****&#x20;
+&#x20;[**Guia de instalação da Coinbase Wallet**](https://www.coinbase.com/wallet/getting-started-mobile)&#x20;
 
 \_\_
 
@@ -199,7 +199,7 @@ SafePal está disponível como carteira de software e hardware. A carteira é f�
 * Tem menos recursos online do que carteiras mais estabelecidas
 
 ​[**Download SafePal**](https://safepal.io/download) (Dispositivo Detectado Automaticamente)\
-[**Guia de Instalação da SafePal**](https://blog.safepal.io/binance-smart-chain-x-safepal/)****
+[**Guia de Instalação da SafePal**](https://blog.safepal.io/binance-smart-chain-x-safepal/)
 {% endtab %}
 {% endtabs %}
 
@@ -300,7 +300,7 @@ Milhões de usuários escolhem a Coinbase Wallet para obter rendimento com DeFi,
 
 \_\_\
 \
-****_Coinbase Wallet é uma carteira de auto-custódia que fornece serviços de software sujeitos aos_ [_Termos de Serviço_](https://wallet.coinbase.com/terms-of-service) _e_ [_Política de Privacidade_](https://wallet.coinbase.com/privacy-policy) _da Coinbase Wallet. A Coinbase Wallet é_ [_diferente_](https://help.coinbase.com/en/wallet/getting-started/what-s-the-difference-between-coinbase-com-and-wallet) _da Coinbase.com, e as chaves privadas da Coinbase Wallet são armazenadas diretamente pelo usuário e não pela Coinbase. Taxas podem ser aplicadas. Você não precisa de uma conta Coinbase.com para usar a Carteira Coinbase_\
+_Coinbase Wallet é uma carteira de auto-custódia que fornece serviços de software sujeitos aos_ [_Termos de Serviço_](https://wallet.coinbase.com/terms-of-service) _e_ [_Política de Privacidade_](https://wallet.coinbase.com/privacy-policy) _da Coinbase Wallet. A Coinbase Wallet é_ [_diferente_](https://help.coinbase.com/en/wallet/getting-started/what-s-the-difference-between-coinbase-com-and-wallet) _da Coinbase.com, e as chaves privadas da Coinbase Wallet são armazenadas diretamente pelo usuário e não pela Coinbase. Taxas podem ser aplicadas. Você não precisa de uma conta Coinbase.com para usar a Carteira Coinbase_\
 
 {% endtab %}
 
@@ -328,7 +328,7 @@ O Token Pocket é um aplicativo independente disponível para dispositivos Mac O
 [**Download Token Pocket Desktop Wallet**](https://www.tokenpocket.pro/en/download/pc) (MacOS ou Win64)
 
 **Guia de Instalação da Token Pocket**\
-****A versão desktop do Token Pocket solicitará que você importe uma chave privada. Certifique-se de que conhece e compreende a importância de uma chave privada antes de prosseguir. O Token Pocket é um projeto de código aberto, portanto, o código é visível publicamente e geralmente considerado seguro. Mesmo assim, suas chaves privadas são de sua responsabilidade, portanto, use-as apenas com aplicativos em que você confia e pode verificar.
+A versão desktop do Token Pocket solicitará que você importe uma chave privada. Certifique-se de que conhece e compreende a importância de uma chave privada antes de prosseguir. O Token Pocket é um projeto de código aberto, portanto, o código é visível publicamente e geralmente considerado seguro. Mesmo assim, suas chaves privadas são de sua responsabilidade, portanto, use-as apenas com aplicativos em que você confia e pode verificar.
 
 1. Visite o site do Token Pocket no seu PC e clique no botão **Desktop**.
 

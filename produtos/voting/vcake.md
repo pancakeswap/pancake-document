@@ -29,7 +29,7 @@ Por exemplo:&#x20;
 * Bob bloqueou 100 CAKE por 52 semanas; sua posição de stake será desbloqueada em 52 semanas. Ele tem `100 x 52 = 5200 vCAKE`
 * Carole bloqueou 100 CAKE por dez semanas; e sua posição de stake terminou. Ela tem `100 vCAKE`
 
-``![](<../../.gitbook/assets/image (103) (1).png>)``
+![](<../../.gitbook/assets/image (103) (1).png>)
 
 ## Como verificar o número do vCAKE?&#x20;
 

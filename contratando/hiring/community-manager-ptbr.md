@@ -32,4 +32,4 @@
 * Have an iron heart to work with a duck. This isn’t a joke.
 * BYO frying pan and spatula. Pancake batter is available upon request.
 
-Shoot your CV to us at \[email protected] 🦆 **** Please also tell us your Twitter username and Telegram username!
+Shoot your CV to us at \[email protected] 🦆 Please also tell us your Twitter username and Telegram username!

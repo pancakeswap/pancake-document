@@ -10,7 +10,7 @@ A negociação no StableSwap é muito semelhante ao uso do PancakeSwap AMM exist
 
 2 - Clique na aba “StableSwap”
 
-3 - Marque a caixa “Use Stableswap para taxas mais baixas”. Nosso [Smart Router](../pancakeswap-exchange/smart-router/) gerará as melhores taxas possíveis para o Swap.
+3 - Marque a caixa “Use Stableswap para taxas mais baixas”. Nosso [Smart Router](../pancakeswap-exchange/smart-router-v2/) gerará as melhores taxas possíveis para o Swap.
 
 4 - Tudo pronto! O processo seguinte do Swap é o mesmo de sempre! Se é a primeira vez que negocia, verifique o guia [aqui](../pancakeswap-exchange/trade-guide.md).
 

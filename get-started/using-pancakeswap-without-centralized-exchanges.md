@@ -20,10 +20,10 @@ Nos tutoriais a seguir, vamos demonstrar como mover o USDT de uma variedade de b
 
 {% tabs %}
 {% tab title="🥞🌉Pancake Bridge (Recomendado)" %}
-****\
-****![](<../.gitbook/assets/image (5).png>)****
+\
+![](<../.gitbook/assets/image (5).png>)
 
-****[**PancakeSwap Bridge** ](http://bridge.pancakeswap.finance/)— uma bridge de cross-chain de ativos nativos, alimentada pela Stargate.&#x20;
+[**PancakeSwap Bridge** ](http://bridge.pancakeswap.finance/)— uma bridge de cross-chain de ativos nativos, alimentada pela Stargate.&#x20;
 
 Essa ponte permite que você mova facilmente suas stablecoins para a BNB Chain e participe da animada comunidade PancakeSwap e do amplo ecossistema BNB!&#x20;
 

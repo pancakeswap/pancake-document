@@ -70,7 +70,7 @@ Você pode encontrar informações mais detalhadas sobre cada carteira abaixo, b
 * Não impõe uma segurança forte durante a configuração inicial e a criação da carteira
 
 ​[**Download SafePal**](https://safepal.io/download) (Dispositivo Detectado Automaticamente)\
-[**Guia de Instalação da SafePal para Atpos**](https://safepalsupport.zendesk.com/hc/en-us/articles/10061372532891-How-to-add-send-Aptos-mainnet-coin-APT-with-SafePal-Software-Wallet)****
+[**Guia de Instalação da SafePal para Atpos**](https://safepalsupport.zendesk.com/hc/en-us/articles/10061372532891-How-to-add-send-Aptos-mainnet-coin-APT-with-SafePal-Software-Wallet)
 {% endtab %}
 
 {% tab title="Trust Wwallet" %}
@@ -91,7 +91,7 @@ Trust Wallet é uma carteira popular para smartphone. Ele suporta DApps, NFTs co
 * As notificações de transações podem ser atrasadas
 
 [**Download Trust Wallet**](https://trustwallet.com) (Dispositivo detectado Automaticamente)\
-[**Guia de Instalação da Trust Wallet para Aptos**](https://community.trustwallet.com/t/trust-wallet-adds-native-support-for-aptos-apt/575701)****
+[**Guia de Instalação da Trust Wallet para Aptos**](https://community.trustwallet.com/t/trust-wallet-adds-native-support-for-aptos-apt/575701)
 {% endtab %}
 
 {% tab title="Blocto" %}
@@ -177,9 +177,9 @@ A carteira Petra é uma extensão que permite explorar a Aptos no seu navegador.
 * Somente Desktop&#x20;
 * Suporta apenas Aptos Chain
 
-[**Download Petra Wallet**](https://petra.app/)****
+[**Download Petra Wallet**](https://petra.app/)
 
-****[**Petra Wallet Setup Guide**](https://petra.app/docs/use)
+[**Petra Wallet Setup Guide**](https://petra.app/docs/use)
 {% endtab %}
 
 {% tab title="Martian" %}

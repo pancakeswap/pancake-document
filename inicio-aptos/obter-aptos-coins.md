@@ -19,7 +19,7 @@ Você também precisará dos tokens que deseja negociar ou fazer stake na Aptos 
 * A Aptos Bridge permite conectar tokens e stablecoins convencionais à Aptos&#x20;
 * Suporta "gás no destino" - receba uma pequena quantidade de Aptos Coin (APT) para gás para iniciar sua aventura na Aptos Chain
 * &#x20;**⚠️** **Note: por enquanto os ativos são wrapped quando usados na ponte. (marcado como "LayerZero")** \
-  ****Antes de fazer a ponte entre seus tokens, verifique novamente a lista de tokens para ver qual versão wrapped dos tokens você está negociando.
+  Antes de fazer a ponte entre seus tokens, verifique novamente a lista de tokens para ver qual versão wrapped dos tokens você está negociando.
 {% endtab %}
 
 {% tab title="🌉 cBridge" %}
@@ -27,17 +27,17 @@ Você também precisará dos tokens que deseja negociar ou fazer stake na Aptos 
 
 * A cBridge permite conectar tokens e stablecoins convencionais à Aptos&#x20;
 * **⚠️ Nota: por enquanto os ativos são wrapped quando em ponte. (marcado como "Celer")** \
-  ****Antes de fazer a ponte entre seus tokens, verifique novamente a lista de tokens para ver qual versão wrapped dos tokens você está negociando.
+  Antes de fazer a ponte entre seus tokens, verifique novamente a lista de tokens para ver qual versão wrapped dos tokens você está negociando.
 
 **📖** [**Tutorial da cBridge fornecido pela Celer**](https://cbridge-docs.celer.network/tutorial/cross-chain-transfer)
 {% endtab %}
 
 {% tab title="🌉 Wormhole" %}
-****[**Wormhole - Portal de Bridge de Token** ](https://www.portalbridge.com/#/transfer)
+[**Wormhole - Portal de Bridge de Token** ](https://www.portalbridge.com/#/transfer)
 
 * O Portal de Brige de Token permite conectar tokens convencionais e stablecoins à Aptos&#x20;
 * **⚠️ Observação: os ativos são encapsulados quando em ponte. (marcado como "wormhole")** \
-  ****Para o token Bridge CAKE entre Aptos e BNB Smart chain, use PancakeSwap Aptos Bridge. Confira o guia para saber como usá-lo.Para o token Bridge CAKE entre Aptos e BNB Smart chain, use PancakeSwap Aptos Bridge. Confira o guia para saber como usá-lo.Para o token Bridge CAKE entre Aptos e BNB Smart chain, use PancakeSwap Aptos Bridge. Confira o guia para saber como usá-lo.
+  Para o token Bridge CAKE entre Aptos e BNB Smart chain, use PancakeSwap Aptos Bridge. Confira o guia para saber como usá-lo.Para o token Bridge CAKE entre Aptos e BNB Smart chain, use PancakeSwap Aptos Bridge. Confira o guia para saber como usá-lo.Para o token Bridge CAKE entre Aptos e BNB Smart chain, use PancakeSwap Aptos Bridge. Confira o guia para saber como usá-lo.
 *
 * Antes de conectar seus tokens, certifique-se de verificar novamente a lista de tokens para ver qual versão agrupada dos tokens você está negociando.
 

@@ -49,4 +49,4 @@ A venda prosseguirá normalmente e todos os fundos contribuídos serão gastos.
 
 Lance seu projeto com a PancakeSwap, o projeto de AMM e provedor de liquidez mais usado da BNB Smart Chain, para levar seu token diretamente para a comunidade mais ativa e crescendo rapidamente na BSC.
 
-👉 **** [Inscreva-se para lançar agora!](https://docs.google.com/forms/d/e/1FAIpQLSf0Vmy3k0KyXtXwqxr8QLjD8Xd6KBAmkYxcBRRVTUYJVX17fA/viewform)
+👉 [Inscreva-se para lançar agora!](https://docs.google.com/forms/d/e/1FAIpQLSf0Vmy3k0KyXtXwqxr8QLjD8Xd6KBAmkYxcBRRVTUYJVX17fA/viewform)

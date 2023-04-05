@@ -14,7 +14,7 @@ Você tem algumas maneiras de converter seus tokens para BEP20, mas aqui estão 
 {% tab title="🌉 Pancake Bridge" %}
 ![](<../.gitbook/assets/image (7).png>)
 
-****[**PancakeSwap Bridge** ](http://bridge.pancakeswap.finance/)— uma bridge de cross-chain de ativos nativos, alimentada pela Stargate.&#x20;
+[**PancakeSwap Bridge** ](http://bridge.pancakeswap.finance/)— uma bridge de cross-chain de ativos nativos, alimentada pela Stargate.&#x20;
 
 Essa ponte permite que você mova facilmente suas stablecoins para a BNB Chain e participe da animada comunidade PancakeSwap e do amplo ecossistema BNB!&#x20;
 
