@@ -16,7 +16,7 @@ Mantenerse en constante cambio es un estilo de vida.
 
 Eso significa que no nos comprometemos públicamente con plazos específicos, por lo que podemos organizar nuestras prioridades de desarrollo en función de los cambios del mercado y los recursos de los desarrolladores.
 
-![](<.gitbook/assets/1 (1) (2).png>)
+![](.gitbook/assets/photo\_2023-04-05\_14-29-37.jpg)
 
 ❗ Por seguridad y confidencialidad, algunos ítems no están en la sección de “Cocinando”.
 
@@ -24,11 +24,7 @@ Eso significa que no nos comprometemos públicamente con plazos específicos, po
 
 * IFOs y cIFOs regulares
 * Nuevos Syrup Pools y Farms
-* Subastas de Farm
-
-[Actualizado recientemente a un nuevo formato](https://medium.com/pancakeswap/presentamos-las-subastas-de-farms-recientemente-ajustadas-1cb1213c93d9)
-
-* Actualizaciones de UI / UX en todo el sitio, correcciones de bugs (errores) y actualizaciones de Productos.
+* UI/UX, Corrección de errores, Actualización de productos
 
 ### **Planes para 2023** <a href="#_13xevdp297dx" id="_13xevdp297dx"></a>
 
@@ -39,14 +35,19 @@ Eso significa que no nos comprometemos públicamente con plazos específicos, po
 * Integraciones Fiat
 * ¡Más productos Defi por venir!
 
-### **Cocinando en Q1** <a href="#_xj571vyorhc6" id="_xj571vyorhc6"></a>
+### **Cocinando en Q2** <a href="#_xj571vyorhc6" id="_xj571vyorhc6"></a>
 
-* v3 - Swap y Liquidity actualización
-* IFOs en Aptos
-* Actualización del Smart Router
-* Programa de Embajadores
-* PancakeSwap Blog
-* Integración de Market Maker (próximamente)
+* v3 - Controles de posición
+* Syrup Pools en ETH
+* IFO en ETH
+* Integración de Staking simple y Liquidez
+* Expansión a nueva red
+* Nuevas utilidades para vCAKE
+* Integración de Mobox Gaming NFT
+* Tienda de Merchandising
+* Renovación del sitio web
+* Programa de Afiliados
+*
 
 ### **Trabajos atrasados** <a href="#_fq7xnoy9higs" id="_fq7xnoy9higs"></a>
 
@@ -75,6 +76,8 @@ Otras mejoras y actualizaciones.
 * Swap y Liquidez multichain
 * Implementación en Aptos Chain
 * Puente de PancakeSwap Aptos
+* Actualización Swap y Liquidez V3 en BNB Chain y ETH
+* Integración de Market Maker en ETH y BNB Chain
 
 #### **Earn** <a href="#_vjdjx9gl4xxd" id="_vjdjx9gl4xxd"></a>
 
@@ -124,3 +127,6 @@ Con doble opción CAKE o BNB Con Gráfico de Precios de Chainlink y Chainlink Ke
   * Token vesting
   * Integracion del iCAKE
 * PCS Mini-Programa en Binance App
+* Primera IFO en Aptos
+* Programa de Embajadores
+* Blog de PancakeSwap

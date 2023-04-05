@@ -92,7 +92,7 @@ PancakeSwap utiliza dos fuentes para nuestros feeds de precios. Cada uno de ello
 #### Oráculo ChainLink <a href="#chainlink-oracle" id="chainlink-oracle"></a>
 
 * Se utiliza para el precio de bloqueo y el precio final de cada ronda de mercado de predicción. Esto se actualiza en intervalos de 5 minutos.
-* &#x20;**** Nuestro contrato de Predicción utiliza el feed de precios del oráculo ChainLink para establecer los precios utilizados para definir si un usuario ha ganado o no.
+* &#x20;Nuestro contrato de Predicción utiliza el feed de precios del oráculo ChainLink para establecer los precios utilizados para definir si un usuario ha ganado o no.
 
 #### Binance BNB/USDT <a href="#binance-bnb-usdt" id="binance-bnb-usdt"></a>
 

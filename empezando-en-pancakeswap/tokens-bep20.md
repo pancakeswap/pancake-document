@@ -22,7 +22,7 @@ Existen varias maneras de convertir tus tokens a BEP20, pero estas son las que r
 {% endtab %}
 
 {% tab title=" 💰 Binance.com" %}
-[**Binance.com**](https://www.binance.com) **** - Puedes hacer los retiros de tus tokens por red BEP20 desde tu cuenta en Binance (si tienes una)&#x20;
+[**Binance.com**](https://www.binance.com) - Puedes hacer los retiros de tus tokens por red BEP20 desde tu cuenta en Binance (si tienes una)&#x20;
 
 📖 [Guía Oficial de Depósitos/Retiros de Binance en Español](https://www.binance.com/en/support/faq/85a1c394ac1d489fb0bfac0ef2fceafd)
 {% endtab %}

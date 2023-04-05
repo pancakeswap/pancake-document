@@ -28,7 +28,7 @@ En el lanzamiento, la cocina implementará pares de StableSwap gradualmente para
 
 * Mejores guías sobre la interfaz de usuario con respecto a StableSwap y LP estables
 * Página de información de StableSwap
-* Agregar pares de trading **** más estables y el proceso de migración de los LP existentes
+* Agregar pares de trading más estables y el proceso de migración de los LP existentes
 
 ## **Timeline:**
 

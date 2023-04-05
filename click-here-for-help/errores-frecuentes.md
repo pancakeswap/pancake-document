@@ -370,8 +370,8 @@ Asegúrese de haber iniciado sesión en su wallet y de estar conectado a la BNB 
 
 Para tradear SAFEMOON, debes hacer clic en el icono de configuración y **establecer su tolerancia de deslizamiento (slippage) en 12% o más.**
 
-****\
-****Esto es porque **SafeMoon cobra un 10% de fee en cada transacción**:
+\
+Esto es porque **SafeMoon cobra un 10% de fee en cada transacción**:
 
 * 5% de fee = redistribuidos a todos los holders
 * 5% de fee = usados para agregar liquidez

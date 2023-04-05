@@ -85,4 +85,3 @@ Puedes verlo tú mismo:
 
 **Suena divertido?**\
 **Entonces a cocinar Panqueques!** 🐰 🥞\
-****

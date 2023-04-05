@@ -30,8 +30,7 @@ Desea convertir su staking flexible a staking a plazo fijo para ganar más CAKE?
 
 ![](../../../.gitbook/assets/spaces\_-MHREX7DHcljbY5IkjgJ-1972196547\_uploads\_git-blob-058150892e6fd4578733f533b85033090f4c4d5c\_cake-pool-flex-convert.png)
 
-__
+
 
 ![](<../../../.gitbook/assets/spaces\_-MHREX7DHcljbY5IkjgJ-1972196547\_uploads\_git-blob-66438d88bdde7b37760c22504d682dba5abbe420\_cake-pool-convert-lock (1).png>)
 
-__

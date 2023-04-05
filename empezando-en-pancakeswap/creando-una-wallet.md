@@ -71,8 +71,8 @@ A continuación, podes encontrar información mas detallada de cada billetera, a
 \- DApps limitadas\
 \- Las notificaciones de las transacciones pueden verse demoradas.
 
-[**Descarga Trust Wallet**](https://trustwallet.com/) **** (Detecta automáticamente el dispositivo)[****\
-**Trust Wallet: Guía de Configuración**](https://www.binance.com/es/blog/421499824684901157/C%C3%B3mo-configurar-y-usar-Trust-Wallet-en-Binance-Smart-Chain)****
+[**Descarga Trust Wallet**](https://trustwallet.com/) (Detecta automáticamente el dispositivo)[\
+**Trust Wallet: Guía de Configuración**](https://www.binance.com/es/blog/421499824684901157/C%C3%B3mo-configurar-y-usar-Trust-Wallet-en-Binance-Smart-Chain)
 {% endtab %}
 
 {% tab title="MetaMask" %}
@@ -95,8 +95,8 @@ Metamask es un complemento de navegador muy popular que admite ERC20(Red Ethereu
 \- Requiere pasos adicionales para poder utilizar la Binance Smart Chain y Pancakeswap\
 \- La configuración avanzada y la información adicional puede confundir a los principiantes
 
-[**Descarga MetaMask**](https://metamask.io/download.html) **** (Detecta automáticamente el dispositivo)\
-[**MetaMask: Guía**](https://academy.binance.com/es/articles/connecting-metamask-to-binance-smart-chain)****
+[**Descarga MetaMask**](https://metamask.io/download.html) (Detecta automáticamente el dispositivo)\
+[**MetaMask: Guía**](https://academy.binance.com/es/articles/connecting-metamask-to-binance-smart-chain)
 {% endtab %}
 
 {% tab title="Token Pocket" %}
@@ -105,7 +105,7 @@ Metamask es un complemento de navegador muy popular que admite ERC20(Red Ethereu
 Token Pocket es una aplicación de gestión de criptomonedas que admite de forma nativa muchas redes de criptomonedas. También posee una aplicación de escritorio.
 
 ​**Ventajas:**\
-****- Código abierto auditable.\
+\- Código abierto auditable.\
 \- Permite a sus usuarios cambiar fácilmente entre muchas redes.\
 \- Tiene soporte a varias redes por defecto.\
 \- Posee una experiencia de usuario más sencilla que las billeteras de plugins de navegador.\
@@ -177,7 +177,7 @@ Ahora tiene su clave privada lista para importar su billetera a la versión de e
 SafePal está disponible como billetera de software y hardware. La billetera es fácil de instalar y crear, y viene lista para admitir BEP2 (Binance Chain) y BEP20 (Binance Smart Chain) de inmediato.
 
 **Ventajas:**\
-****- Cambiar fácilmente entre varias redes criptos\
+\- Cambiar fácilmente entre varias redes criptos\
 \- Ofrece un 25% de descuento en la tarifa pagando con BNB (requiere inicio de sesión)\
 \- Tiene la opción de Autenticador de Google incorporada.\
 \- Admite una gran cantidad de idiomas.\
@@ -186,14 +186,14 @@ SafePal está disponible como billetera de software y hardware. La billetera es 
 \- Admite NFT en las redes BSC y ETH.
 
 **Desventajas:**\
-****- No es completamente de código abierto\
+\- No es completamente de código abierto\
 \- Tiene algunas funciones que aún no están listas para usarse (como DeFi).\
 \- No da notificaciones a los usuarios.\
 \- No aplica una seguridad sólida durante la configuración inicial y la creación de la billetera.\
 \- Tiene menos recursos en línea que billeteras más establecidas
 
 ​[**Descargar SafePal**](https://safepal.io/download) (Detecta automáticamente el dispositivo)\
-[**SafePal Guía**](https://blog.safepal.io/binance-smart-chain-x-safepal/) **** (Inglés)
+[**SafePal Guía**](https://blog.safepal.io/binance-smart-chain-x-safepal/) (Inglés)
 {% endtab %}
 {% endtabs %}
 
@@ -237,8 +237,8 @@ Metamask es un complemento de navegador muy popular que admite ERC20(Red Ethereu
 \- Requiere pasos adicionales para poder utilizar la Binance Smart Chain y Pancakeswap\
 \- La configuración avanzada y la información adicional puede confundir a los principiantes
 
-[**Descarga MetaMask**](https://metamask.io/download.html) **** (Detecta automáticamente el dispositivo)\
-[**MetaMask: Guía**](https://academy.binance.com/es/articles/connecting-metamask-to-binance-smart-chain)****
+[**Descarga MetaMask**](https://metamask.io/download.html) (Detecta automáticamente el dispositivo)\
+[**MetaMask: Guía**](https://academy.binance.com/es/articles/connecting-metamask-to-binance-smart-chain)
 {% endtab %}
 
 {% tab title="Binance Wallet" %}
@@ -247,7 +247,7 @@ Metamask es un complemento de navegador muy popular que admite ERC20(Red Ethereu
 Binance Wallet es una billetera de complemento de navegador que admite de forma nativa las redes Binance Chain (BEP2) Binance Smart Chain (BEP20). Binance Wallet fue desarrollado por el exchange de criptomonedas Binance.
 
 ​**Ventajas:**\
-****- Código abierto auditable\
+\- Código abierto auditable\
 \- Respaldado por el Exchange Binance\
 \- Se puede vincular directamente a una cuenta de Binance o Gmail\
 \- Experiencia de usuario optimizada\
@@ -261,7 +261,7 @@ Binance Wallet es una billetera de complemento de navegador que admite de forma 
 \- Tiene menos recursos en línea que billeteras más establecidas
 
 [**Descargar Binance Wallet**](https://www.binance.org/en) (Detecta automáticamente el dispositivo)\
-[**Binance Wallet Guía**](https://docs.binance.org/smart-chain/wallet/binance.html) **** (inglés)
+[**Binance Wallet Guía**](https://docs.binance.org/smart-chain/wallet/binance.html) (inglés)
 {% endtab %}
 
 {% tab title="Token Pocket" %}
@@ -270,7 +270,7 @@ Binance Wallet es una billetera de complemento de navegador que admite de forma 
 Token Pocket es una aplicación de gestión de criptomonedas que admite de forma nativa muchas redes de criptomonedas. También posee una aplicación de escritorio.
 
 ​**Ventajas:**\
-****- Código abierto auditable.\
+\- Código abierto auditable.\
 \- Permite a sus usuarios cambiar fácilmente entre muchas redes.\
 \- Tiene soporte a varias redes por defecto.\
 \- Posee una experiencia de usuario más sencilla que las billeteras de plugins de navegador.\
@@ -336,7 +336,7 @@ PRECAUCION: Tenga mucho cuidado con la forma en que maneja sus claves privadas. 
 
 {% hint style="danger" %}
 **NUNCA, en ninguna situación, deberías darle a alguien tu clave privada o frase de recuperación ("frase semilla"). ¡Esto le dará a alguien acceso completo a tus criptos!**\
-****\
+\
 **El equipo real de PancakeSwap ni los administradores nunca te pedirán tus claves privadas ni colocar en ningún lado.**
 {% endhint %}
 

@@ -69,7 +69,7 @@ Puedes encontrar más info sobre cada wallet a continuación, como así también
 * No aplica demasiada seguridad durante la instalación inicial y creación de la wallet.
 
 ​[**Descarga SafePal**](https://safepal.io/download) (Detecta automáticamente el dispositivo) \
-[**Guía de instalación de SafePal para Aptos**](https://safepalsupport.zendesk.com/hc/en-us/articles/10061372532891-How-to-add-send-Aptos-mainnet-coin-APT-with-SafePal-Software-Wallet)****
+[**Guía de instalación de SafePal para Aptos**](https://safepalsupport.zendesk.com/hc/en-us/articles/10061372532891-How-to-add-send-Aptos-mainnet-coin-APT-with-SafePal-Software-Wallet)
 {% endtab %}
 
 {% tab title="Trust Wallet" %}
@@ -94,11 +94,11 @@ Trust Wallet es una wallet popular para dispositivos móviles. Soporta DApps, co
 * Las notificaciones de transacciones pueden demorar
 
 [**Descarga Trust Wallet**](https://trustwallet.com) (Detecta automáticamente el dispositivo)\
-[**Guía de instalación de Trust Wallet para Aptos**](https://community.trustwallet.com/t/trust-wallet-adds-native-support-for-aptos-apt/575701)****
+[**Guía de instalación de Trust Wallet para Aptos**](https://community.trustwallet.com/t/trust-wallet-adds-native-support-for-aptos-apt/575701)
 {% endtab %}
 
 {% tab title="Blocto" %}
-****![](<../.gitbook/assets/image (12).png>)****
+![](<../.gitbook/assets/image (12).png>)
 
 Blocto ofrece una solución amigable para el usuario y un paquete todo en uno para usar DApps y manejar sus activos.
 
@@ -117,13 +117,13 @@ Blocto ofrece una solución amigable para el usuario y un paquete todo en uno pa
 * Es del tipo Custodial wallet
 * Es algo complicado si quieres exportar tus claves privadas y administrarlas o usarlas en otras wallets. [Tutorial](https://portto.zendesk.com/hc/en-us/articles/4411564072217-Can-I-export-my-private-key-from-Blocto-and-use-it-in-Metamask-Phantom-Trust-Wallet-).
 
-****[**Descarga Blocto Wallet**](https://portto.com/download)
+[**Descarga Blocto Wallet**](https://portto.com/download)
 
 ### **Guía de configuración de Blocto Wallet**
 
 1 - Configuración ingresando tu dirección de Email. Luego ingrese la clave por única vez, recibida en su Email.
 
-****![](<../.gitbook/assets/image (7) (2) (1).png>)****![](<../.gitbook/assets/image (1) (2) (3).png>)****
+![](<../.gitbook/assets/image (7) (2) (1).png>)![](<../.gitbook/assets/image (1) (2) (3).png>)
 
 
 
@@ -176,9 +176,9 @@ Petra wallet es una extensión que te permite explorar Aptos desde tu browser.
 * Sólo para Desktop
 * Sólo soporta Aptos chain
 
-****[**Descarga Petra Wallet**](https://petra.app/)****
+[**Descarga Petra Wallet**](https://petra.app/)
 
-****[**Petra Wallet - Guía de Configuración**](https://petra.app/docs/use)****
+[**Petra Wallet - Guía de Configuración**](https://petra.app/docs/use)
 {% endtab %}
 
 {% tab title="Martian" %}
@@ -194,7 +194,7 @@ Martian es una wallet para Aptos Chain que te permite almacenar, enviar, recibir
 * Soporte para NFTs incorporado.
 * Soporta Aptos testnet
 
-****[**Descarga Martian Wallet**](https://martianwallet.xyz/)****
+[**Descarga Martian Wallet**](https://martianwallet.xyz/)
 {% endtab %}
 
 {% tab title="Pontem" %}
@@ -210,7 +210,7 @@ Pontem Wallet es una wallet para Aptos Chain que te permite almacenar, enviar, r
 * Soporte para NFTs incorporado
 * Soporta Aptos testnet
 
-****[**Descarga Pontem Wallet**](https://pontem.network/pontem-wallet)****
+[**Descarga Pontem Wallet**](https://pontem.network/pontem-wallet)
 {% endtab %}
 
 {% tab title="Fewcha" %}
@@ -230,21 +230,21 @@ Fewcha es una wallet cripto confiable, optimizada para el ecosistema de Aptos y 
 * EBCI Protocol - un protocolo que previene múltiples pop-ups cuando interactúa con una dApp, esto ayuda al usuario a administrar con qué dApps está trabajando y cuál firmar la transacción.
 * Soporta Hardware Wallet Connection (Keystone Wallet)
 
-****
 
-[**Descarga FewCha Wallet**](https://fewcha.app/)****
 
-****
+[**Descarga FewCha Wallet**](https://fewcha.app/)
+
+
 
 ### **Fewcha wallet - Guía de configuración**
 
-****
 
-1\. **** Una vez que la extensión de Fewcha Wallet termine de descargarse, aparecerá una etiqueta de bienvenida. Allí puedes seleccionar "Crear una nueva wallet" (o "usar una wallet existente" si ya tienes una).
+
+1\.  Una vez que la extensión de Fewcha Wallet termine de descargarse, aparecerá una etiqueta de bienvenida. Allí puedes seleccionar "Crear una nueva wallet" (o "usar una wallet existente" si ya tienes una).
 
 <figure><img src="https://lh5.googleusercontent.com/xzkPxptL1JdM_IcX3jEH8J1JpEC9uWabA5QUJzKBRIqszgGeOUh67QuQx7Y6BCzv1UIXshZuxrCCgZe6wYhxCZ4JbjcbtYIdP_zO9A6VDiQgypsbr2wlvqUjhioyPsRDVOYTBJv_smcjhODx3zHnqrTvxiJzWMhZa3e4TvG3lfAqFtE6-47N08s" alt=""><figcaption></figcaption></figure>
 
-2\. **** Selecciona tu red por defecto. Crea una password que sea difícil de deducir, pero fácil de recordar. Asegúrate de haber leído y aceptar los Términos y Condiciones y la Política de Privacidad. Luego clic en "Continuar".
+2\. Selecciona tu red por defecto. Crea una password que sea difícil de deducir, pero fácil de recordar. Asegúrate de haber leído y aceptar los Términos y Condiciones y la Política de Privacidad. Luego clic en "Continuar".
 
 3\. Para la frase de recuperación, escríbela y guárdala en un lugar seguro.
 
@@ -264,7 +264,7 @@ Para empezar a usar PancakeSwap en Aptos, también necesitarás algo de $APT par
 {% endtab %}
 
 {% tab title="Blocto" %}
-****![](<../.gitbook/assets/image (7) (4).png>)****
+![](<../.gitbook/assets/image (7) (4).png>)
 
 
 

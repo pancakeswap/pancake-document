@@ -10,7 +10,7 @@ Los Syrup Pools son una manera de distribuir tus tokens a los usuarios de la red
 
 Estos dos productos van de la mano en PancakeSwap: cuando un proyecto provee sus tokens para un Syrup Pool, nosotros además creamos un Farm. Si estás buscando distribuir tokens de tu proyecto e incentivar la liquidez,  ponte en contacto con nosotros.&#x20;
 
-[**Aplicar a un Syrup Pool**](https://docs.google.com/forms/d/e/1FAIpQLScGdT5rrVMr4WOWr08pvcroSeuIOtEJf1sVdQGVdcAOqryigQ/viewform)****
+[**Aplicar a un Syrup Pool**](https://docs.google.com/forms/d/e/1FAIpQLScGdT5rrVMr4WOWr08pvcroSeuIOtEJf1sVdQGVdcAOqryigQ/viewform)
 
 * Por favor no enviarnos un mail para aplicar - Nosotros solamente respondemos a aplicaciones hechas a través del formulario de aplicación.
 * Por favor no nos insista para una respuesta en su aplicación. Tenemos una demanda constante de buenos proyectos en lista de espera que nos llegan.
@@ -24,7 +24,7 @@ Estos dos productos van de la mano en PancakeSwap: cuando un proyecto provee sus
 
 Aprendé más de cómo funcionan las IFO [aquí](../productos/ifo-oferta-inicial-de-farm/ifo-initial-farm-offering.md).
 
-[**Aplicar para una IFO**](https://docs.google.com/forms/d/e/1FAIpQLScGdT5rrVMr4WOWr08pvcroSeuIOtEJf1sVdQGVdcAOqryigQ/viewform)****
+[**Aplicar para una IFO**](https://docs.google.com/forms/d/e/1FAIpQLScGdT5rrVMr4WOWr08pvcroSeuIOtEJf1sVdQGVdcAOqryigQ/viewform)
 
 * Por favor no enviarnos un mail para aplicar - Nosotros solamente respondemos a aplicaciones hechas a través del formulario de aplicación.
 *   Por favor no nos insista para una respuesta en su aplicación. Tenemos una demanda constante de buenos proyectos que nos llegan en lista de espera&#x20;

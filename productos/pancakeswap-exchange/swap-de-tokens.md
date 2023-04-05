@@ -2,7 +2,7 @@
 
 <figure><img src="../../.gitbook/assets/0.png" alt=""><figcaption></figcaption></figure>
 
-[El swap de tokens](https://pancakeswap.finance/swap) **** en PancakeSwap es una forma sencilla de intercambiar un token por otro a través de los pools de liquidez automatizados en BNB Smart Chain, Ethereum y Apto, también con market makers (creadores de mercado) cuando el intercambio de tokens sea en BNB Smart Chain y Ethereum.
+[El swap de tokens](https://pancakeswap.finance/swap) en PancakeSwap es una forma sencilla de intercambiar un token por otro a través de los pools de liquidez automatizados en BNB Smart Chain, Ethereum y Apto, también con market makers (creadores de mercado) cuando el intercambio de tokens sea en BNB Smart Chain y Ethereum.
 
 ![](../../.gitbook/assets/1.png)
 
