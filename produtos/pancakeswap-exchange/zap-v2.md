@@ -2,7 +2,7 @@
 description: Fornecimento de liquidez simplificada com apenas um clique
 ---
 
-# Zap
+# Zap (V2)
 
 ![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2FpNwWrQLF3y9KJ1LYb2Bq%2Fzap-0.png?alt=media\&token=669fba83-1e6a-4908-9a53-22d7ba3f59a3)
 

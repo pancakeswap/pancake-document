@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introdução à PancakeSwap](README.md)
+* [Auditorias](auditorias.md)
 * [Início (BSC)](get-started/README.md)
   * [Crie uma Carteira](get-started/wallet-guide.md)
   * [Obtenha Tokens BEP20](get-started/bep20-guide.md)
@@ -17,6 +18,7 @@
   * [Perguntas Frequentes](help/faq.md)
   * [Corrigindo transações presas na MetaMask](help/unsticking-a-transaction-stuck-as-pending-with-metamask.md)
   * [Tutorial da Binance Academy](help/binance-academy-guide.md)
+* [Expansão na Ethereum](expansao-na-ethereum.md)
 * [Implantação na Aptos](implantacao-na-aptos.md)
 * [Fale Conosco](contact-us/README.md)
   * [Parcerias de Negócios](contact-us/business-partnerships.md)
@@ -36,8 +38,10 @@
 * [🔄 Exchange](produtos/pancakeswap-exchange/README.md)
   * [Swap de Tokens](produtos/pancakeswap-exchange/trade.md)
   * [Como Fazer Trade](produtos/pancakeswap-exchange/trade-guide.md)
+  * [Taxas e Rotas](produtos/pancakeswap-exchange/taxas-e-rotas.md)
   * [Pools de Liquidez](produtos/pancakeswap-exchange/pancakeswap-pools.md)
   * [Como Adicionar/Remover Liquidez](produtos/pancakeswap-exchange/liquidity-guide.md)
+  * [Perguntas Frequentes](produtos/pancakeswap-exchange/perguntas-frequentes.md)
   * [Integração com Market Maker](produtos/pancakeswap-exchange/integracao-com-market-maker.md)
   * [Smart Router (V2)](produtos/pancakeswap-exchange/smart-router-v2/README.md)
     * [Como negociar usando o Smart Router](produtos/pancakeswap-exchange/smart-router-v2/como-negociar-usando-o-smart-router.md)

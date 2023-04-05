@@ -8,7 +8,7 @@ Na nova Exchange V3, a liquidez será administrada na forma de posições não-f
 
 ## **Posições de liquidez Não-fungíveis**
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 Na V3, os fornecedores de liquidez agora têm mais controle sobre a faixa(range) de preço que desejam para implantar sua liquidez. Portanto, ao adicionar seu token em uma pool de liquidez na V3, você criará uma nova posição de liquidez não-fungível com suas configurações exclusivas.&#x20;
 
@@ -70,7 +70,7 @@ Para tornar ainda mais valioso ser um provedor de liquidez, você também pode c
 
 ### LP Tokens
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 Por exemplo, se você deposita **CAKE** e **BNB** em uma pool de liquidez, recebe tokens **CAKE-BNB LP**.&#x20;
 

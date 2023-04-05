@@ -59,22 +59,22 @@ Quando estiver pronto, clique no botão **Ativar (Enable)** e confirme sua açã
 
 2 - Após uma breve espera, o botão **Ativar (Enable)** mudará para Stake LP. Clique nele e uma nova janela aparecerá.
 
-![](<../../.gitbook/assets/image (20).png>)
+![](<../../.gitbook/assets/image (20) (2).png>)
 
 3 - Digite a quantidade de LP Tokens com os quais você gostaria de farmar no campo ou apenas clique em **Max** para usar todos os seus LP Tokens.
 
-![](<../../.gitbook/assets/image (8) (4).png>)
+![](<../../.gitbook/assets/image (8).png>)
 
 4 - Quando você tiver inserido o valor, o botão Confirmar acenderá. Clique. Sua carteira pedirá que você confirme sua ação.
 
 5 - Após uma breve espera, a janela fechará e você verá seu novo saldo de LP Token em stake nos detalhes.
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)
 
 {% hint style="info" %}
 Quando você está realizando farm cross-chain em uma blockchain EVM diferente da BNB Chain. Você precisará aguardar aproximadamente 30 minutos para que as transações cross chain sejam confirmadas.
 
-![](<../../.gitbook/assets/image (19).png>)
+![](<../../.gitbook/assets/image (19) (2).png>)
 
 Para acompanhar o progresso de uma transação de farm crosschain. Clique no ícone circular ao lado do saldo em stake ou confira a seção "Transação recente" no canto superior direito.
 {% endhint %}

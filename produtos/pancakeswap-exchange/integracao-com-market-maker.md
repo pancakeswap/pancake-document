@@ -1,6 +1,6 @@
 # Integração com Market Maker
 
-<figure><img src="../../.gitbook/assets/image (1) (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Integração do Market Maker no Ethereum&#x20;
 
@@ -16,7 +16,7 @@ Nesse cenário, o Smart Router encaminhará automaticamente a negociação para 
 
 ### Taxas
 
-<figure><img src="../../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 A PancakeSwap não cobra dos traders quaisquer taxas executadas através de nós e que são executadas pelos formadores de mercado. No entanto, a PancakeSwap recebe **taxas de negociação de 0,05%** dos formadores de mercado da whitelist para volumes executados por eles. A PancakeSwap recebe uma **taxa de negociação reduzida de 0,01%** se as negociações executadas forem entre pares de stablecoin.
 

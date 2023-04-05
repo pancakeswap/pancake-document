@@ -20,5 +20,5 @@ Desativar o roteador inteligente roteia todas as negociações por meio de camin
 
 1. Clique no ícone de **Configurações** no canto superior direito do menu do swap.
 2. **Desative o Smart Router** no pop-up que aparece.\
-   ![](<../../../.gitbook/assets/image (13) (3).png>)
+   ![](<../../../.gitbook/assets/image (13) (3) (1).png>)
 3. Feche a página de configurações

@@ -42,7 +42,7 @@ No modal wallet connect, escolha a carteira de sua preferência na seção "Apto
 
 A alteração dessa opção pode causar falha na ponte.
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6) (5).png>)
 
 7 - Clique em "Transferir" e aprove as transações no pop-up da sua carteira.&#x20;
 
@@ -83,7 +83,7 @@ Então abra a página da [PancakeSwap Aptos Bridge](https://bridge.pancakeswap.f
 
 Clique em "Conectar" e escolha a carteira de sua preferência na seção "EVM". Em seguida, confirme e aprove no pop-up da sua carteira. (Até o momento, apenas a MetaMask é suportada. O suporte para mais carteiras estará disponível em breve)
 
-![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (11) (4).png>)
 
 3 - Então, precisamos conectar nossa carteira Aptos.&#x20;
 
@@ -99,7 +99,7 @@ Verifique se a rede "Aptos" está no campo superior.
 
 5 - Insira o número de CAKE que você deseja conectar à BNB Smart Chain.
 
-![](<../../.gitbook/assets/image (2) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (2).png>)
 
 6 - Se sua carteira BNB Smart Chain foi criada recentemente e não possui saldo de BNB (gas token). Recomendamos manter a opção "gás no destino" como padrão. A ponte depositará uma pequena quantia de BNB em sua carteira. Isso ajudará você a iniciar sua jornada na BNB Smart Chain e explorar o vívido ecossistema PancakeSwap.
 
