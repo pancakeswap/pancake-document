@@ -6,7 +6,7 @@ description: '"Don''t call it a roadmap"'
 
 ![](.gitbook/assets/roadmap-header.png)
 
-_Updated on January 19, 2023_
+_Updated on April 5, 2023_
 
 ### Finally, it's a roadmap not a to-do list.
 
@@ -16,7 +16,7 @@ Pivoting is a way of life.
 
 That means that we don’t publicly commit to specific timelines, so we can organize our development priorities based on market changes and developer resources.
 
-<figure><img src=".gitbook/assets/2023 Q1-4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/2023 Q2.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Due to considerations of security and confidentiality, some items are not included in the ‘Cooking In’ section.
@@ -26,8 +26,6 @@ Due to considerations of security and confidentiality, some items are not includ
 
 * Regular IFOs and cIFOs
 * Regular new Farms and Syrup Pools&#x20;
-* Farm Auctions\
-  [Recently upgraded to a new format](https://medium.com/pancakeswap/reinventing-recipe-new-updates-to-pancakeswap-farm-auctions-2ade3a0283b3?source=collection\_home---4------3-----------------------)
 * UI/UX, Bug Fixes, Product Upgrades
 
 
@@ -41,14 +39,19 @@ Due to considerations of security and confidentiality, some items are not includ
 * Fiat integrations
 * More Defi products to come!
 
-### Cooking in Q1
+### Cooking in Q2
 
-* v3 - Swap and Liquidity Upgrade
-* Aptos IFOs
-* Smart Router Upgrade
-* Ambssador Program
-* PancakeSwap Blog
-* Market Maker integration (coming soon)
+* v3 Position Manager
+* Ethereum Syrup Pools
+* Ethereum IFO
+* Simple Staking Integration
+* Liquid Staking Integration
+* Expansion to another chain
+* vCAKE product utilities
+* Mobox Gaming NFT Integration
+* Merchandise Store&#x20;
+* Website Revamp
+* Affiliate Program
 
 ### Backlogs
 
@@ -73,6 +76,14 @@ Due to considerations of security and confidentiality, some items are not includ
 * Multichain Swap & Liquidity
 * Deployment to Aptos Chain
 * Aptos PancakeSwap Bridge
+* v3- Swap & Liquidity Upgrade on BNB chain and Ethereum
+* Market Maker Integration on Ethereum and BNB Chain
+
+
+
+
+
+
 
 #### Earn
 
@@ -123,4 +134,9 @@ Due to considerations of security and confidentiality, some items are not includ
   * Token vesting
   * iCAKE integration
 * PCS Mini-Program in Binance App
+* The first Aptos IFO
+* Ambassador Program
+* PancakeSwap Blog
+
+
 
