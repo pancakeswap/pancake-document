@@ -14,9 +14,9 @@
 
 {% tabs %}
 {% tab title=" 🥞🌉 Pancake 跨链桥" %}
-<figure><img src="../.gitbook/assets/image (1) (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure>
 
-****[**PancakeSwap 跨链桥**](http://bridge.pancakeswap.finance/) **** —— 原生资产跨链桥，由 Stargate 提供支持。
+[**PancakeSwap 跨链桥**](http://bridge.pancakeswap.finance/) —— 原生资产跨链桥，由 Stargate 提供支持。
 
 这座跨链桥让您可以无缝地将您的稳定币转移到 BNB 链上，参与活跃的 PancakeSwap 社区和体验 BNB 链上的庞大生态！
 

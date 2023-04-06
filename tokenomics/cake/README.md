@@ -8,7 +8,7 @@
     [`0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82`](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82)
   * Aptos 主网\
     [`0x159df6b7689437016108a019fd5bef736bac692b6d4a1f10c941f6fbb9a74ca6::oft::CakeOFT`](https://tracemove.io/coin/0x159df6b7689437016108a019fd5bef736bac692b6d4a1f10c941f6fbb9a74ca6::oft::CakeOFT/PancakeSwap%20Token/Cake)
-* **简版白皮书 :** [https://v2litepaper.pancakeswap.finance/](https://v2litepaper.pancakeswap.finance/)****
+* **简版白皮书 :** [https://v2litepaper.pancakeswap.finance/](https://v2litepaper.pancakeswap.finance/)
 
 ## 基本信息
 

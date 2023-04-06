@@ -150,7 +150,7 @@
 
 ## 下载
 
-[**下载币安钱包**](https://www.binance.org/en) **** （请在弹出的页面内自行选择下载）
+[**下载币安钱包**](https://www.binance.org/en) （请在弹出的页面内自行选择下载）
 {% endtab %}
 
 {% tab title="Token Pocket" %}

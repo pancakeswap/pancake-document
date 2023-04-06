@@ -76,10 +76,10 @@ MetaMask 是一个基于浏览器的热门钱包插件，支持 ERC20（以太�
 
 [**下载 MetaMask**](https://metamask.io/download.html) **（自动检测您的设备）**
 
-****[**MetaMask 设置教程**](https://academy.binance.com/cn/articles/connecting-metamask-to-binance-smart-chain)****
+[**MetaMask 设置教程**](https://academy.binance.com/cn/articles/connecting-metamask-to-binance-smart-chain)
 
-****\
-****
+\
+
 {% endtab %}
 
 {% tab title="Coinbase Wallet" %}
@@ -100,9 +100,9 @@ MetaMask 是一个基于浏览器的热门钱包插件，支持 ERC20（以太�
 
 &#x20;
 
-****[**下载Coinbase 钱包**](https://coinbase-wallet.onelink.me/q5Sx/fdb9b250)**（自动检测您的设备）**
+[**下载Coinbase 钱包**](https://coinbase-wallet.onelink.me/q5Sx/fdb9b250)**（自动检测您的设备）**
 
-****[**Coinbase钱包设置指南**](https://www.coinbase.com/wallet/getting-started-mobile)****
+[**Coinbase钱包设置指南**](https://www.coinbase.com/wallet/getting-started-mobile)
 
 
 
@@ -130,7 +130,7 @@ SafePal 有软件和硬件钱包两种形式。该钱包 App 安装便捷，设�
 * 初始设置及钱包创建时，并不强制用户使用强安全性的设置
 
 ​[**下载 SafePal**](https://safepal.io/download) **（自动检测您的设备）**\
-****[**SafePal 设置教程（中文）**](https://docs.safepal.io/safepal-app/how-to-create-a-safepal-software-wallet/ru-he-chuang-jian-safepal-ruan-jian-qian-bao)****
+[**SafePal 设置教程（中文）**](https://docs.safepal.io/safepal-app/how-to-create-a-safepal-software-wallet/ru-he-chuang-jian-safepal-ruan-jian-qian-bao)
 {% endtab %}
 
 {% tab title="Trust Wallet" %}
@@ -155,7 +155,7 @@ Trust Wallet 在移动设备上颇受欢迎的钱包应用。它支持 DApps，N
 
 [**下载 Trust Wallet**](https://trustwallet.com/) **（自动检测您的设备）**
 
-****[**Trust Wallet 设置指南**](https://www.binance.com/cn/blog/421499824684901157/How-to-Set-Up-and-Use-Trust-Wallet-for-Binance-Smart-Chain)****
+[**Trust Wallet 设置指南**](https://www.binance.com/cn/blog/421499824684901157/How-to-Set-Up-and-Use-Trust-Wallet-for-Binance-Smart-Chain)
 {% endtab %}
 
 {% tab title="Token Pocket" %}
@@ -177,7 +177,7 @@ Token Pocket 是一个原生支持多个网络（加密货币链）的虚拟货�
 * 部分英文翻译有问题
 * 与其他更成熟的钱包相比，在线资源较少
 
-****[**下载 Token Pocket**](https://www.tokenpocket.pro) **（自动检测您的设备）**
+[**下载 Token Pocket**](https://www.tokenpocket.pro) **（自动检测您的设备）**
 
 ### **Token Pocket 手机端设置指南**
 
@@ -250,7 +250,7 @@ Token Pocket 允许您使用电脑端或其他设备同时管理一个钱包，�
 
 {% tabs %}
 {% tab title="MetaMask" %}
-![](<../.gitbook/assets/image (1) (2) (1).png>)
+![](<../.gitbook/assets/image (1) (2).png>)
 
 MetaMask 是一个非常流行的基于浏览器的钱包插件，默认支持 ERC20（以太坊网络），以及 BEP2 & BEP20（Binance Chain 和 BNB 智能链网络)。&#x20;
 
@@ -327,7 +327,7 @@ Binance Wallet （币安钱包）是一个浏览器插件钱包，原生支持 B
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](<../.gitbook/assets/image (2) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1).png>)
 
 Token Pocket 是适用于 Mac OS 和 Win64 设备的独立应用程序。 Token Pocket 允许您在独立于浏览器的软件中管理您的加密货币。&#x20;
 

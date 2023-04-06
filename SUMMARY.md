@@ -23,6 +23,11 @@
   * [NFT市场应用](contact-us/nft-shi-chang-ying-yong.md)
   * [客户服务](contact-us/customer-support.md)
   * [社交媒体与社区](contact-us/telegram.md)
+* [联盟计划](lian-meng-ji-hua/README.md)
+  * [联盟仪表板&返佣链接](lian-meng-ji-hua/lian-meng-yi-biao-ban-fan-yong-lian-jie.md)
+  * [佣金结构及支付详情](lian-meng-ji-hua/yong-jin-jie-gou-ji-zhi-fu-xiang-qing.md)
+  * [联盟计划规则和指南](lian-meng-ji-hua/lian-meng-ji-hua-gui-ze-he-zhi-nan.md)
+  * [条款及细则](lian-meng-ji-hua/tiao-kuan-ji-xi-ze.md)
 * [大使计划](da-shi-ji-hua/README.md)
   * [👥 社区管理](da-shi-ji-hua/she-qu-guan-li.md)
   * [🌎 社区翻译者](da-shi-ji-hua/she-qu-fan-yi-zhe.md)
@@ -107,7 +112,7 @@
 ## Development Guide <a href="#code" id="code"></a>
 
 * [2⃣ V2 迁移](code/v2-qian-yi/README.md)
-  * [迁移到 MasterChef v2](code/v2-qian-yi/qian-yi-dao-masterchef-v2.md)
+  * [迁移到 MasterChef v2](code/qian-yi/qian-yi-dao-masterchef-v2.md)
   * [MasterChef v2](code/v2-qian-yi/masterchef-v2/README.md)
     * [农场列表](code/v2-qian-yi/masterchef-v2/nong-chang-lie-biao.md)
   * [CAKE 糖浆池](code/v2-qian-yi/cake-tang-jiang-chi.md)

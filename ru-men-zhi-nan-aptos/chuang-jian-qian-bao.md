@@ -76,7 +76,7 @@ Petra 钱包是一个扩展程序，可让您在浏览器中探索 Aptos。
 {% endtab %}
 
 {% tab title=" Martian" %}
-<figure><img src="../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (5).png" alt=""><figcaption></figcaption></figure>
 
 Martian 是一款 Aptos 链上的钱包，可让您存储、发送、接收代币以及管理和铸造 NFT。它的手机端版本即将推出。&#x20;
 
@@ -108,7 +108,7 @@ Pontem Wallet 是一款 Aptos 链上钱包，可让您存储、发送、接收�
 {% endtab %}
 
 {% tab title="Fewcha" %}
-<figure><img src="../.gitbook/assets/image (2) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 目前，Fewcha 钱包在导入私钥方面有一些问题。建议暂时尝试其他钱包。
@@ -232,7 +232,7 @@ Trust Wallet 是在移动设备上颇受欢迎的钱包应用。它支持 DApps�
 
 [**下载 Trust Wallet**](https://trustwallet.com/) **（自动检测您的设备）**
 
-****[**Trust Wallet Aptos链设置指南**](https://community.trustwallet.com/t/trust-wallet-adds-native-support-for-aptos-apt/575701)****
+[**Trust Wallet Aptos链设置指南**](https://community.trustwallet.com/t/trust-wallet-adds-native-support-for-aptos-apt/575701)
 {% endtab %}
 
 {% tab title="Blocto" %}
@@ -257,7 +257,7 @@ Blocto 提供了一个对用户友好的解决方案和一个多合一的集合�
 * 托管型钱包
 * 如果你想导出你的私钥并管理它或在其他钱包中使用它，这有点复杂，请查看以下链接，[教程链接](https://portto.zendesk.com/hc/en-us/articles/4411564072217-Can-I-export-my-private-key-from-Blocto-and-use-it-in-Metamask-Phantom-Trust-Wallet-)。
 
-****[**下载 Blocto 钱包**](https://portto.com/download)****
+[**下载 Blocto 钱包**](https://portto.com/download)
 
 ### **Blocto 钱包设置指南**
 

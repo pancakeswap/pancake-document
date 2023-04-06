@@ -10,7 +10,7 @@
 
 农场与糖浆池在 PancakeSwap 上是相辅相成的：当您的项目为糖浆池提供代币作为奖励时，我们也会同时创建一个农场来奖励流动性提供者。如果您想分发您的代币并奖励流动性提供者，请与我们联系。
 
-[**申请糖浆池**](https://docs.google.com/forms/d/e/1FAIpQLScGdT5rrVMr4WOWr08pvcroSeuIOtEJf1sVdQGVdcAOqryigQ/viewform)****
+[**申请糖浆池**](https://docs.google.com/forms/d/e/1FAIpQLScGdT5rrVMr4WOWr08pvcroSeuIOtEJf1sVdQGVdcAOqryigQ/viewform)
 
 * 我们只对使用申请表格的项目方做出答复。通过电邮申请，将一律不予受理。
 * 我们需处理大量来自其他优质项目方源源不断发来的申请，所以请不要催促我们对您的申请做出答复。敬请谅解。
@@ -36,7 +36,7 @@
 
 请在[此处](../products/ifo-initial-farm-offering.md)了解有关 IFO 的更多信息。
 
-[**申请IFO**](https://docs.google.com/forms/d/e/1FAIpQLScGdT5rrVMr4WOWr08pvcroSeuIOtEJf1sVdQGVdcAOqryigQ/viewform)****
+[**申请IFO**](https://docs.google.com/forms/d/e/1FAIpQLScGdT5rrVMr4WOWr08pvcroSeuIOtEJf1sVdQGVdcAOqryigQ/viewform)
 
 * 我们只对通过申请表格进行申请者做出答复。通过电邮申请 IFO 的项目方，将一律不予受理。
 * 我们持续收到并处理着大量来自其他优质项目方的申请，所以请不要催促我们对您的申请做出答复。敬请谅解。
@@ -47,7 +47,7 @@
 
 ## **NFT市场**
 
-****[**申请列出您的NFT**](nft-shi-chang-ying-yong.md)****
+[**申请列出您的NFT**](nft-shi-chang-ying-yong.md)
 
 ## 上市交易所
 

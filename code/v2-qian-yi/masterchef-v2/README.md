@@ -66,7 +66,7 @@ MasterChef v2 有两种类型的池子：常规农场池和特殊农场池，您
 * $CAKE: `0xFa60D973F7642B748046464e165A65B7323b0DEE`\
   (mintable by using `mint(address _to, uint256 _amount) public`)
 * $BUSD: `0x8516Fc284AEEaa0374E66037BD2309349FF728eA`\
-  ``(可通过 `mint(uint256 amount) public`铸造)
+  (可通过 `mint(uint256 amount) public`铸造)
 * $WBNB: `0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd`
 
 #### 工厂和路由
