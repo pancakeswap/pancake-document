@@ -20,7 +20,7 @@ Como alternativa, você pode aprender como obter uma carteira compatível com Ap
 
 3\. Escolha o token que deseja negociar no menu suspenso na seção superior. Qualquer que seja o token escolhido, você precisará garantir que tenha uma quantidade suficiente deles em sua carteira para negociar. Seu saldo é mostrado acima do menu suspenso do token.
 
-![](<../../.gitbook/assets/image (16).png>)
+![](<../../.gitbook/assets/image (16) (4).png>)
 
 4 - Escolha o token com o qual deseja negociar na seção inferior, conforme acima.
 
@@ -34,7 +34,7 @@ Se você estiver negociando um token pela primeira vez, talvez seja necessário 
 
 7\. Aparecerá uma janela com mais detalhes. Verifique se os detalhes estão corretos. Quando estiver pronto, clique no botão Confirmar o swap. Sua carteira solicitará que você confirme a ação.
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (12) (3).png>)
 
 8. Feito! Você pode verificar sua transação no explorer da blockchain clicando no link mostrado abaixo.
 

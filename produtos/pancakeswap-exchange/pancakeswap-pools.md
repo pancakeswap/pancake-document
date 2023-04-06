@@ -18,7 +18,7 @@ Na V3, as taxas de negociação não serão mais compostas automaticamente na po
 
 Você pode resgatar seus fundos a qualquer momento removendo sua liquidez.
 
-## **Liquidez Ativa e  ranges de preço**
+## **Liquidez Ativa e Ranges de Preço**
 
 No V3, os provedores de liquidez podem configurar suas posições para fornecer liquidez apenas quando o preço estiver dentro de um determinado intervalo. Se o preço de negociação sair do intervalo, a posição consistirá em apenas um tipo de token no par e ficará inativa.&#x20;
 
@@ -63,8 +63,6 @@ Por exemplo, em uma pool com taxa de 0,25%:&#x20;
 ## Ganhando CAKE&#x20;
 
 Para tornar ainda mais valioso ser um provedor de liquidez, você também pode colocar suas posições de liquidez para trabalhar, gerando um novo rendimento nos [Farms de CAKE](https://pancakeswap.finance/farms), enquanto ainda ganha recompensas de taxas de negociação.
-
-##
 
 ## Exchange V2
 

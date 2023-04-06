@@ -50,7 +50,7 @@ Você pode encontrar informações mais detalhadas sobre cada carteira abaixo, b
 
 {% tabs %}
 {% tab title="Trust Wallet" %}
-![](<../.gitbook/assets/image (36).png>)
+![](<../.gitbook/assets/image (36) (1).png>)
 
 Trust Wallet é uma carteira popular para smartphone. Ele suporta DApps, NFTs colecionáveis (com suporte Opensea.io) e stake na carteira.
 

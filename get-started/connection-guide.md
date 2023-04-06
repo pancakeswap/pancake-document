@@ -12,7 +12,7 @@ Confira as etapas abaixo sobre como conectar cada uma das carteiras recomendadas
 
 {% tabs %}
 {% tab title="Trust Wallet" %}
-![](<../.gitbook/assets/image (36).png>)
+![](<../.gitbook/assets/image (36) (1).png>)
 
 Para conectar a Trust Wallet, siga as etapas abaixo. Observe que os dispositivos Android e iOS não usam as mesmas etapas!
 
@@ -57,7 +57,7 @@ Para conectar a MetaMask na PancakeSwap siga os passos abaixo.
 
 1. Abra a MetaMask e clique no ícone no canto superior esquerdo.
 
-![](<../.gitbook/assets/image (72).png>)
+![](<../.gitbook/assets/image (72) (1).png>)
 
 1. Clique em **Settings/Configurações** no menu.
 

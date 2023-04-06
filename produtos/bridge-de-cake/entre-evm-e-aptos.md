@@ -99,7 +99,7 @@ Verifique se a rede "Aptos" está no campo superior.
 
 5 - Insira o número de CAKE que você deseja conectar à BNB Smart Chain.
 
-![](<../../.gitbook/assets/image (2) (1) (2).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)
 
 6 - Se sua carteira BNB Smart Chain foi criada recentemente e não possui saldo de BNB (gas token). Recomendamos manter a opção "gás no destino" como padrão. A ponte depositará uma pequena quantia de BNB em sua carteira. Isso ajudará você a iniciar sua jornada na BNB Smart Chain e explorar o vívido ecossistema PancakeSwap.
 

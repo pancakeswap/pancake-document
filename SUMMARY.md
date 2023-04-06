@@ -44,7 +44,7 @@
   * [Perguntas Frequentes](produtos/pancakeswap-exchange/perguntas-frequentes.md)
   * [Integração com Market Maker](produtos/pancakeswap-exchange/integracao-com-market-maker.md)
   * [Smart Router (V2)](produtos/pancakeswap-exchange/smart-router-v2/README.md)
-    * [Como negociar usando o Smart Router](produtos/pancakeswap-exchange/smart-router-v2/como-negociar-usando-o-smart-router.md)
+    * [Como negociar usando o Smart Router](produtos/pancakeswap-exchange/smart-router/como-negociar-usando-o-smart-router.md)
   * [Zap (V2)](produtos/pancakeswap-exchange/zap-v2.md)
   * [📝Ordens Limite](produtos/pancakeswap-exchange/limit-orders/README.md)
     * [Perguntas Frequentes sobre Ordens Limite](produtos/pancakeswap-exchange/limit-orders/limit-orders-faq.md)
