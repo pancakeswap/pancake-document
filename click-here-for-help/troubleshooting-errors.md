@@ -112,7 +112,7 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 6. 在 **“to (address)”** 这一栏位输入您的钱包地址。
 7. **Deadline** (截止时间)必须是大于执行此交易的纪元(epoch)时间。
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (2).png>)
 
 {% hint style="warning" %}
 这可能会导致很高的滑点，并且如果被机器人抢跑，可能会导致您损失一些资金。
@@ -276,7 +276,7 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 
 一般而言，限制设为 200000 就足够了。
 
-![](<../.gitbook/assets/image (2) (1) (1) (2).png>)
+![](<../.gitbook/assets/image (2) (1) (2).png>)
 
 以上的例子取自 Metamask 截图。 如果不确定如何设置 Gas 限制，请查看您钱包的文档。
 {% endtab %}
