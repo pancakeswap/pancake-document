@@ -6,7 +6,7 @@ description: “No me llames Roadmap”
 
 ![](<.gitbook/assets/0 (1) (1).png>)
 
-_Actualizado el 19 de enero de 2023_
+_Actualizado el 5 de abril de 2023_
 
 ### Finalmente, es un roadmap, no un To-Do List <a href="#_ey0pp1bq3z3c" id="_ey0pp1bq3z3c"></a>
 
