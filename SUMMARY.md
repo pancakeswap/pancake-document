@@ -46,7 +46,7 @@
     * [How to trade using Smart Router](products/pancakeswap-exchange/smart-router/how-to-trade-using-smart-router.md)
   * [流动资金池](products/pancakeswap-exchange/liu-dong-zi-jin-chi.md)
   * [如何添加/移除流动性](products/pancakeswap-exchange/ru-he-tian-jia-yi-chu-liu-dong-xing.md)
-  * [Market Maker Integration](products/pancakeswap-exchange/market-maker-integration.md)
+  * [做市商整合](products/pancakeswap-exchange/zuo-shi-shang-zheng-he.md)
   * [💹 限價單交易](products/pancakeswap-exchange/xian-jia-dan-jiao-yi.md)
     * [如何使用限价单](products/pancakeswap-exchange/xian-jia-dan-jiao-yi/ru-he-shi-yong-xian-jia-dan.md)
     * [限价单 FAQ](products/pancakeswap-exchange/xian-jia-dan-jiao-yi/xian-jia-dan-faq.md)
