@@ -46,7 +46,7 @@
     * [How to trade using Smart Router](products/pancakeswap-exchange/smart-router/how-to-trade-using-smart-router.md)
   * [流动资金池](products/pancakeswap-exchange/liu-dong-zi-jin-chi.md)
   * [如何添加/移除流动性](products/pancakeswap-exchange/ru-he-tian-jia-yi-chu-liu-dong-xing.md)
-  * [做市商整合](products/pancakeswap-exchange/zuo-shi-shang-zheng-he.md)
+  * [做市商整合](products/pancakeswap-exchange/market-maker-integration.md)
   * [💹 限價單交易](products/pancakeswap-exchange/xian-jia-dan-jiao-yi.md)
     * [如何使用限价单](products/pancakeswap-exchange/xian-jia-dan-jiao-yi/ru-he-shi-yong-xian-jia-dan.md)
     * [限价单 FAQ](products/pancakeswap-exchange/xian-jia-dan-jiao-yi/xian-jia-dan-faq.md)
@@ -100,7 +100,7 @@
 * [🌐 PancakeSwap 迷你小程序](products/pancakeswap-mi-ni-xiao-cheng-xu/README.md)
   * [如何使用 PancakeSwap 迷你小程序](products/pancakeswap-mi-ni-xiao-cheng-xu/ru-he-shi-yong-pancakeswap-mi-ni-xiao-cheng-xu.md)
   * [迷你小程序常见问题解答](products/pancakeswap-mi-ni-xiao-cheng-xu/mi-ni-xiao-cheng-xu-chang-jian-wen-ti-jie-da.md)
-  * [⛓ PancakeSwap CEDEFI Integration](products/pancakeswap-mi-ni-xiao-cheng-xu/pancakeswap-cedefi-integration.md)
+  * [⛓ PancakeSwap CEDEFI 整合](products/pancakeswap-mi-ni-xiao-cheng-xu/pancakeswap-cedefi-zheng-he.md)
 * [🍳 即将到来！](products/ji-jiang-dao-lai.md)
 
 ## 经济模型 <a href="#tokenomics" id="tokenomics"></a>
