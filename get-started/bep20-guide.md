@@ -12,9 +12,9 @@ You can go a few ways about converting your tokens to BEP20, but here are the on
 
 {% tabs %}
 {% tab title="🥞🌉 Pancake Bridge" %}
-****![](<../.gitbook/assets/image (1) (1) (2).png>)****
+![](<../.gitbook/assets/image (1) (1) (2).png>)
 
-****[**PancakeSwap Bridge**](http://bridge.pancakeswap.finance) — a native asset cross-chain bridge, powered by Stargate.
+[**PancakeSwap Bridge**](http://bridge.pancakeswap.finance) — a native asset cross-chain bridge, powered by Stargate.
 
 This bridge allows you to seamlessly move your stablecoins over to BNB Chain, and participate in the lively PancakeSwap Community and wider BNB Ecosystem!
 

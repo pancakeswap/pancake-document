@@ -89,7 +89,7 @@ No action is needed. Simply read and make sure you are familiar with how V3 work
 
 **Step 4 - Add V3 liquidity**
 
-****![](<../../.gitbook/assets/image (19).png>)****
+![](<../../.gitbook/assets/image (19).png>)
 
 In this step, you will add your liquidity to the new Exchange V3.
 
@@ -111,7 +111,7 @@ Please be cautious while setting the price range for the liquidity position.
 
 **Step 5 - Stake in V3 farms**
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (2).png" alt=""><figcaption></figcaption></figure>
 
 In this step, you will stake your freshly added V3 liquidity positions to the new V3 farms to start earning CAKE rewards!
 

@@ -68,7 +68,7 @@ Please participate based on your risk preference, once the CAKE are deposited, t
 
 ## **Fees**
 
-Eight percent (8%) of the prize pot distributed each week will be charged as fees for burning. We aim to review and adjust the fee structure accordingly after the beta stage of the **** product.
+Eight percent (8%) of the prize pot distributed each week will be charged as fees for burning. We aim to review and adjust the fee structure accordingly after the beta stage of the product.
 
 ## **Ready to Participate?**
 

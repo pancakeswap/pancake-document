@@ -5,9 +5,9 @@
 * **Ticker:** CAKE
 * **Contract Address:**&#x20;
   * BNB Smart Chain (BEP20)\
-    [`0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82`](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82)``
+    [`0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82`](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82)
   * Ethereum (ERC-20)\
-    [`0x152649eA73beAb28c5b49B26eb48f7EAD6d4c898`](https://etherscan.io/address/0x152649eA73beAb28c5b49B26eb48f7EAD6d4c898#readContract)``
+    [`0x152649eA73beAb28c5b49B26eb48f7EAD6d4c898`](https://etherscan.io/address/0x152649eA73beAb28c5b49B26eb48f7EAD6d4c898#readContract)
   * Aptos Mainnet\
     [`0x159df6b7689437016108a019fd5bef736bac692b6d4a1f10c941f6fbb9a74ca6::oft::CakeOFT`](https://tracemove.io/coin/0x159df6b7689437016108a019fd5bef736bac692b6d4a1f10c941f6fbb9a74ca6::oft::CakeOFT/PancakeSwap%20Token/Cake)
 * **Litepaper:** [https://v2litepaper.pancakeswap.finance/](https://v2litepaper.pancakeswap.finance/)

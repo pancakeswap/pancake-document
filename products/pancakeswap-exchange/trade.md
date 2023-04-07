@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/swap-trade-header.png)
 
-[**Token swaps**](https://pancakeswap.finance/swap) **** on PancakeSwap are a simple way to trade one token for another via automated liquidity pools on BNB Smart Chain, Ethereum and Aptos, and also with market makers when trading tokens on BNB Smart Chain and Ethereum.
+[**Token swaps**](https://pancakeswap.finance/swap) on PancakeSwap are a simple way to trade one token for another via automated liquidity pools on BNB Smart Chain, Ethereum and Aptos, and also with market makers when trading tokens on BNB Smart Chain and Ethereum.
 
 ![](<../../.gitbook/assets/image (8).png>)
 

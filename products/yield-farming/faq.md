@@ -81,9 +81,21 @@ In Farm v3, CAKE reward APR could vary between liquidity positions. It is based 
 
 
 
+### Why am I seeing an "Update Positions" pop-up?
+
+![](<../../.gitbook/assets/image (16).png>)
+
+Soon after the V3 launch, Chefs implemented an update on Farms to make reward calculations more accurate and reliable. If you are seeing this pop-up, that means some of your positions will require an update.
+
+Simply click "Update All", and confirm in your wallet pop-up.
+
+Please note that Chefs are also applying this update to the historical staking data between the launch of Farm V3 and when this update is implemented. If there are any extra CAKE rewards, they will be airdropped to your wallet before 1st May 2023.
+
+
+
 ### Why a 2x farm in V3 has less APR than a 1x farm in V2?
 
-First of all, when comparing APRs, you need to make sure the total staked liquidity between two farms is equal.
+First, when comparing APRs, you need to ensure the total staked liquidity between two farms is equal.
 
 On top of that, we now have multiple groups of farms which have their own stream of CAKE emissions. And each group of farms shares separated sets of multipliers.
 

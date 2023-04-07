@@ -69,7 +69,7 @@ You can find more in-depth information about each wallet below, as well as downl
 * Does not enforce strong security during initial setup and wallet creation
 
 ​[**Download SafePal**](https://safepal.io/download) (Automatically detects device) \
-[**SafePal Setup Guide for Aptos**](https://safepalsupport.zendesk.com/hc/en-us/articles/10061372532891-How-to-add-send-Aptos-mainnet-coin-APT-with-SafePal-Software-Wallet)****
+[**SafePal Setup Guide for Aptos**](https://safepalsupport.zendesk.com/hc/en-us/articles/10061372532891-How-to-add-send-Aptos-mainnet-coin-APT-with-SafePal-Software-Wallet)
 {% endtab %}
 
 {% tab title="Trust Wallet" %}
@@ -92,11 +92,11 @@ Trust Wallet is a popular wallet for smart devices. It supports DApps, NFT colle
 * Transaction notifications can be delayed
 
 [**Download Trust Wallet**](https://trustwallet.com) (Automatically detects device)\
-[**Trust Wallet Setup Guide for Aptos**](https://community.trustwallet.com/t/trust-wallet-adds-native-support-for-aptos-apt/575701)****
+[**Trust Wallet Setup Guide for Aptos**](https://community.trustwallet.com/t/trust-wallet-adds-native-support-for-aptos-apt/575701)
 {% endtab %}
 
 {% tab title="Blocto" %}
-****![](<../.gitbook/assets/image (37) (2).png>)****
+![](<../.gitbook/assets/image (37) (2).png>)
 
 Blocto offers a user-friendly solution and an all-in-one package for using Dapps and managing your assets.
 
@@ -115,13 +115,13 @@ Blocto offers a user-friendly solution and an all-in-one package for using Dapps
 * Custodial model
 * A bit complicated if you want to export your private key and manage it or use it in other wallets. [Tutorial](https://portto.zendesk.com/hc/en-us/articles/4411564072217-Can-I-export-my-private-key-from-Blocto-and-use-it-in-Metamask-Phantom-Trust-Wallet-).
 
-****[**Download Blocto Wallet**](https://portto.com/download)
+[**Download Blocto Wallet**](https://portto.com/download)
 
 ### **Blocto Wallet Setup Guide**
 
 1 - Set up by entering your Email address. Then enter the one-time password received by Email.
 
-****![](../.gitbook/assets/blocto-setup-guide-mobile-1.png)****![](../.gitbook/assets/blocto-setup-guide-mobile-2.png)****
+![](../.gitbook/assets/blocto-setup-guide-mobile-1.png)![](../.gitbook/assets/blocto-setup-guide-mobile-2.png)
 
 
 
@@ -174,9 +174,9 @@ Petra wallet is an extension that lets you explore Aptos in your browser.
 * Desktop only
 * Only supports Aptos chains
 
-****[**Download Petra Wallet**](https://petra.app/)****
+[**Download Petra Wallet**](https://petra.app/)
 
-****[**Petra Wallet Setup Guide**](https://petra.app/docs/use)****
+[**Petra Wallet Setup Guide**](https://petra.app/docs/use)
 {% endtab %}
 
 {% tab title="Martian" %}
@@ -192,7 +192,7 @@ Martian is an Aptos Chain wallet that allows you to store, send, receive tokens 
 * Built-in NFT support
 * Supports Aptos testnet
 
-****[**Download Martian Wallet**](https://martianwallet.xyz/)****
+[**Download Martian Wallet**](https://martianwallet.xyz/)
 {% endtab %}
 
 {% tab title="Pontem" %}
@@ -208,7 +208,7 @@ Pontem Wallet is an Aptos Chain wallet that allows you to store, send, receive t
 * Built-in NFT support
 * Supports Aptos testnet
 
-****[**Download Pontem Wallet**](https://pontem.network/pontem-wallet)****
+[**Download Pontem Wallet**](https://pontem.network/pontem-wallet)
 {% endtab %}
 
 {% tab title="Fewcha" %}
@@ -228,21 +228,21 @@ Fewcha is a trusted crypto wallet optimized for Aptos and SUI ecosystem that unl
 * EBCI Protocol - a protocol that prevents multiple pop-ups when interacting with dApp, it’ll help users manage what dApp they are signing for a transaction.
 * Support Hardware Wallet Connection (Keystone Wallet)
 
-****
 
-****[**Download FewCha Wallet**](https://fewcha.app/)****
 
-****
+[**Download FewCha Wallet**](https://fewcha.app/)
+
+
 
 ### **Fewcha wallet setup guide**
 
-****
 
-1\. **** Once Fewcha Wallet extension finishes downloading, a welcome tab will appear. Here you can select “Create a new wallet” (or “Use an existing wallet” if you’ve already had one.)
+
+1\.  Once Fewcha Wallet extension finishes downloading, a welcome tab will appear. Here you can select “Create a new wallet” (or “Use an existing wallet” if you’ve already had one.)
 
 <figure><img src="https://lh5.googleusercontent.com/xzkPxptL1JdM_IcX3jEH8J1JpEC9uWabA5QUJzKBRIqszgGeOUh67QuQx7Y6BCzv1UIXshZuxrCCgZe6wYhxCZ4JbjcbtYIdP_zO9A6VDiQgypsbr2wlvqUjhioyPsRDVOYTBJv_smcjhODx3zHnqrTvxiJzWMhZa3e4TvG3lfAqFtE6-47N08s" alt=""><figcaption></figcaption></figure>
 
-2\. **** Select your default blockchain. Create a password that’s hard to predict yet easy to remember. Make sure you have read and agreed to the Terms of Service and Privacy Policy. Then click “Continue”.
+2\. Select your default blockchain. Create a password that’s hard to predict yet easy to remember. Make sure you have read and agreed to the Terms of Service and Privacy Policy. Then click “Continue”.
 
 3\. For the Recovery Phrase, please write it down or copy to save it somewhere that you can remember.
 
@@ -262,7 +262,7 @@ To start using PancakeSwap on Aptos, you will also need to have some $APT tokens
 {% endtab %}
 
 {% tab title="Blocto" %}
-****![](<../.gitbook/assets/image (37) (2).png>)****
+![](<../.gitbook/assets/image (37) (2).png>)
 
 Blocto offers a user-friendly solution and an all-in-one package for using Dapps and managing your assets.
 

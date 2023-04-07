@@ -20,7 +20,7 @@ Check out this great [article about Impermanent Loss ](https://academy.binance.c
 
 ### **Get prepared**
 
-****![](<../../.gitbook/assets/image (3).png>)****
+![](<../../.gitbook/assets/image (3).png>)
 
 You’re going to need a liquidity position to enter into a Farm with. Farms can only accept liquidity positions from their own exact trading pair with the exact fee tier of choice; for example, the CAKE-BNB 0.25% Farm will only accept CAKE-BNB liquidity positions with the 0.25% fee tier selected. It will not accept:
 
@@ -35,7 +35,7 @@ It may sound intimidating, but it's not too complicated. Let's go through it ste
 
 ### **Locate your Farm**
 
-****![](<../../.gitbook/assets/image (14).png>)****
+![](<../../.gitbook/assets/image (14).png>)
 
 Before you proceed, you'll want to choose a Farm that's right for you. [Visit the Farms page](https://pancakeswap.finance/farms) to see a list of available Farms.
 
@@ -43,7 +43,7 @@ You can choose another sorting option, such as by APR, for the Farms with the hi
 
 When you find a Farm you'd like to use, note down the trading pair and its fee rate, e.g. BNB-CAKE and 0.25%, in case you need them later.
 
-****
+
 
 ### **Provide liquidity to create a position**
 
@@ -51,7 +51,7 @@ Now that you've found a Farm to stake in, you will need to provide liquidity:
 
 1 - If you don’t have any position available, you will see a “Add Liquidity” button, simply click it to open up the “Add Liquidity” window without leaving the Farm page.
 
-****![](<../../.gitbook/assets/image (9).png>)****
+![](<../../.gitbook/assets/image (9).png>)
 
 2 - Alternatively, you can click on the row of the Farm you've chosen from the list. It will open to show more details. Or with card view, click “Details” to expand for more details. Click the “Add XXX-YYY LP” link within the detail section to add liquidity.
 
@@ -61,7 +61,7 @@ Now that you've found a Farm to stake in, you will need to provide liquidity:
 
 ### **Stake your positions into a farm**
 
-****![](<../../.gitbook/assets/image (28).png>)****
+![](<../../.gitbook/assets/image (28).png>)
 
 After finishing adding liquidity. You should see your position listed under the farm you want to use.
 
@@ -77,7 +77,7 @@ After a short wait, the window will close, and you will see your staked position
 
 You can repeat the above steps to quickly stake multiple positions with different price range configurations. Each position will earn CAKE and need to be harvested separately.
 
-****
+
 
 ### **Harvest farming rewards**
 
@@ -89,7 +89,7 @@ To harvest CAKE rewards from a staked position, simply return to the Farm page, 
 
 If you have multiple staked positions, you may click “View All” to view them in a new pop-up window.
 
-****![](<../../.gitbook/assets/image (17).png>)****
+![](<../../.gitbook/assets/image (17).png>)
 
 Click “Harvest” on the position, and your wallet will ask for confirmation. After a short wait, the CAKE rewards will be sent to your wallet.
 
@@ -99,11 +99,11 @@ Click “Harvest” on the position, and your wallet will ask for confirmation. 
 
 When staking in a farm, you can still add or remove liquidity without unstaking from the farm.
 
-****![](<../../.gitbook/assets/image (40).png>)****
+![](<../../.gitbook/assets/image (40).png>)
 
 To do so, simply return to the Farm page, and locate the farm and position you want to adjust. You can use the “Staked Only” toggle to quickly filter the farms you are currently staking.
 
-****![](<../../.gitbook/assets/image (5).png>)****
+![](<../../.gitbook/assets/image (5).png>)
 
 Click on the position title with the token pair, fee rate, position ID and the “>” arrow. You will be taken to the position detail page.
 
@@ -123,7 +123,7 @@ If you have multiple staked positions, you may click “View All” to view them
 
 Click “Unstake” on the position, and your wallet will ask for confirmation. After a short wait, your position NFT will be returned to your wallet, along with all the pending CAKE rewards.
 
-****
+
 
 ## Farm V2
 

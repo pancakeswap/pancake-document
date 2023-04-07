@@ -11,7 +11,7 @@ Having your profile created will let you to share your NFT profile picture and a
 ![](<../../.gitbook/assets/image (160).png>)
 
 1\. Visit **Your Profile** under **Teams & Profile** [here](https://pancakeswap.finance/profile).\
-****
+
 
 ![](<../../.gitbook/assets/image (159).png>)
 
@@ -20,7 +20,7 @@ Having your profile created will let you to share your NFT profile picture and a
 ![](<../../.gitbook/assets/image (162).png>)
 
 For this example we’ll use Dollop.\
-****
+
 
 ![](<../../.gitbook/assets/image (163).png>)
 
@@ -28,8 +28,8 @@ For this example we’ll use Dollop.\
 
 ![](<../../.gitbook/assets/image (165).png>)
 
-****\
-****
+\
+
 
 ![](<../../.gitbook/assets/image (166) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
@@ -40,7 +40,7 @@ If you face Oops! error, please check [troubleshooting](https://docs.pancakeswap
 ![](<../../.gitbook/assets/image (169).png>)
 
 5\. Click **Enable**, then confirm the action in your wallet. Once it's approved, click **Next Step**.\
-****
+
 
 ![](<../../.gitbook/assets/image (170).png>)
 
@@ -49,7 +49,7 @@ If you face Oops! error, please check [troubleshooting](https://docs.pancakeswap
 6\. On the next page you will be asked to join a team. Joining a team lets you compete in special events to earn special, limited rewards! Choose a team under “Join a Team”. For this example we will choose Syrup Storm.
 
 7\. Click the **Next Step** button.\
-****
+
 
 ![](<../../.gitbook/assets/image (173).png>)
 
@@ -74,7 +74,7 @@ If you face "username keeps spinning" issue, please check [troubleshooting](http
 ![](<../../.gitbook/assets/image (179).png>)
 
 12\. After a short wait your new profile will appear. Looking good!\
-****
+
 
 ![](<../../.gitbook/assets/image (180).png>)
 

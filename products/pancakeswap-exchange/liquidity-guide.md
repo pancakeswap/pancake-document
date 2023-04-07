@@ -59,13 +59,13 @@ In this example, we will add V3 liquidity using ETH and USDC.
 
 
 
-8 - Click the “Enable USDC” **** button. If you are adding liquidity against tokens other than ETH, you might need to click enable twice for each token in your pair. Your wallet will ask you to confirm the action.
+8 - Click the “Enable USDC” button. If you are adding liquidity against tokens other than ETH, you might need to click enable twice for each token in your pair. Your wallet will ask you to confirm the action.
 
 ![](<../../.gitbook/assets/image (45).png>)
 
 
 
-9 - The “Add” **** button will then light up. Click to proceed.
+9 - The “Add” button will then light up. Click to proceed.
 
 ![](<../../.gitbook/assets/image (39).png>)
 
@@ -135,8 +135,8 @@ Please note that the example is only for illustrative purposes, CAKE/BNB trading
    2. If the trading pair has an existing V2 liquidity pool, it will present a “Add V2 Liquidity” link. Simply click to switch to adding V2 liquidity.
 5. Confirm you are now adding V2 liquidity by looking for the “V2 LP - 0.25 fee tier” displays.
 6. Enter an amount on one of the tokens under “Deposit Amount”. The other should be calculated and filled automatically. If one of the tokens does not have enough balance. You will see an error and the button is greyed out. Please enter a lower amount to proceed or use the “MAX” button to fill in the maximum available value.
-7. Click the “Enable CAKE” **** button. If you are adding liquidity against tokens other than BNB, you might need to click enable twice for each token in your pair. Your wallet will ask you to confirm the action.
-8. The “Add” **** button will then light up. Click to proceed.
+7. Click the “Enable CAKE” button. If you are adding liquidity against tokens other than BNB, you might need to click enable twice for each token in your pair. Your wallet will ask you to confirm the action.
+8. The “Add” button will then light up. Click to proceed.
 9. Your wallet will ask you for confirmation. Confirm your transaction from your wallet.
 10. Soon after, you will see your LP Token balance on the liquidity page, among other liquidity positions from V3 and StableSwap.
 

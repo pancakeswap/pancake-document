@@ -94,7 +94,7 @@ Millions of users choose Coinbase Wallet to earn yield with DeFi, swap more than
 
 [**Coinbase Wallet Setup Guide**](https://www.coinbase.com/wallet/getting-started-mobile)
 
-__
+
 
 _Coinbase Wallet is a self-custody wallet providing software services subject to Coinbase Wallet_ [_Terms of Service_](https://wallet.coinbase.com/terms-of-service) _and_ [_Privacy Policy_](https://wallet.coinbase.com/privacy-policy)_. Coinbase Wallet is_ [_distinct_](https://help.coinbase.com/en/wallet/getting-started/what-s-the-difference-between-coinbase-com-and-wallet) _from Coinbase.com, and private keys for Coinbase Wallet are stored directly by the user and not by Coinbase. Fees may apply. You do not need a Coinbase.com account to use Coinbase Wallet._
 {% endtab %}
@@ -317,7 +317,7 @@ Millions of users choose Coinbase Wallet to earn yield with DeFi, swap more than
 
 [**Coinbase Wallet Setup Guide**](https://www.coinbase.com/wallet/getting-started-extension)
 
-__
+
 
 _Coinbase Wallet is a self-custody wallet providing software services subject to Coinbase Wallet_ [_Terms of Service_](https://wallet.coinbase.com/terms-of-service) _and_ [_Privacy Policy_](https://wallet.coinbase.com/privacy-policy)_. Coinbase Wallet is_ [_distinct_](https://help.coinbase.com/en/wallet/getting-started/what-s-the-difference-between-coinbase-com-and-wallet) _from Coinbase.com, and private keys for Coinbase Wallet are stored directly by the user and not by Coinbase. Fees may apply. You do not need a Coinbase.com account to use Coinbase Wallet._
 {% endtab %}

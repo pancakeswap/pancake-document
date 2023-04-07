@@ -46,7 +46,7 @@ For more information about our launchpads (“Initial Farm Offering, or IFO”),
 
 1. Initial Outreach
    * We have a lovely chat (where we can share data, user stats, and memes) and your team decides to start the application process – let’s go!
-   * Apply via this form **** [**here**](https://forms.gle/aQwmYLpebskQmA3Y6), it takes less than 8 minutes
+   * Apply via this form [**here**](https://forms.gle/aQwmYLpebskQmA3Y6), it takes less than 8 minutes
 2. Due Diligence
    * Using the information in the form, we would clarify some points (don’t worry, they’re not meaningless questions, but we take user safety seriously at PancakeSwap, and would also want to only introduce interesting projects to our community)
    * Team passes due diligence – congrats!

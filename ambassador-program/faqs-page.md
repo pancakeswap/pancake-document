@@ -18,7 +18,7 @@ There is no plan to have an ending date for the Ambassador Program, at least for
 
 Ambassadors will be rewarded for their contributions and efforts. Join the PancakeSwap family and have fun!
 
-### ****
+###
 
 ### **How is ambassador performance evaluated?**
 

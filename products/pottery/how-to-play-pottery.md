@@ -56,4 +56,3 @@ If there are, you can claim the prize by clicking the Claim button and it will b
 
 You can withdraw the prize by clicking the Withdraw button and it will be a transaction for you to approve. Please note that you will have to pay gas fee on BNB Smart Chain to withdraw the prize.
 
-****

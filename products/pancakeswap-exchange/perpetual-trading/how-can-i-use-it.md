@@ -70,7 +70,7 @@ _Not in an specific order_
 
 Disclaimer: Remember that a high level of leverage carries a very high risk, use it wisely.
 
-&#x20;   __    3. Type or Order
+&#x20;   3\. Type or Order
 
 ![](https://lh3.googleusercontent.com/If2SXl-FUCTuy0eNJkmF0ONspdYPeIWFBXvyLkH6Hc0B1CwAzd9EP5rMQGSjr23hK9sDDUmL0rSN9R28AL9\_-x\_f0jsFdfrn7WFOjEcqfPaxerPjGSq1iIpxz6tcN\_A839ASRF3B)
 

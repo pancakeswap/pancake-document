@@ -7,7 +7,7 @@ description: Fork of Curve Finance
 ## Contract info
 
 **Binance smart chain**\
-****Stableswap Factory Contract: 0x36bBb126e75351C0DfB651e39b38fe0BC436FFD2\
+Stableswap Factory Contract: 0x36bBb126e75351C0DfB651e39b38fe0BC436FFD2\
 View the [PancakeSwap: Stableswap Factory contract on BscScan.](https://bscscan.com/address/0x36bBb126e75351C0DfB651e39b38fe0BC436FFD2)
 
 **Smart Router**

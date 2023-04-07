@@ -99,7 +99,7 @@ To connect MetaMask to PancakeSwap follow the steps below.
    ![](../.gitbook/assets/CB-M-p1.png)\
    ![](../.gitbook/assets/CB-M-p1\_5.png)
 2. In the Settings menu, tap on **Default Network**.\
-   ![](../.gitbook/assets/CB-M-p2.png)****
+   ![](../.gitbook/assets/CB-M-p2.png)
 3. Choose **Binance Smart Chain** from the list of network options.\
    ![](../.gitbook/assets/CB-M-p3.png)
 4. Once you've selected the Binance Smart Chain network, click the **Browser Icon** at the bottom-middle of your app.\
@@ -235,7 +235,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 1. Open Coinbase Wallet and click on the **Settings** icon at the top-right. By default it will show "Ethereum Mainnet" as the Default Network.\
    ![](../.gitbook/assets/cb-desktop-1.png)
 2. Click on **Default Network** and choose **Binance Smart Chain**\
-   ****![](../.gitbook/assets/cb-desktop-2.png)****
+   ![](../.gitbook/assets/cb-desktop-2.png)
 3. Binance Smart Chain will now be your Default Network.
 4. Visit the[ ](https://pancakeswap.finance)[pancakeswap.finance](https://pancakeswap.finance), In the top right corner you'll see the **Connect** button. Click it.\
    ![](../.gitbook/assets/cb-desktop-3.png)

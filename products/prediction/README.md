@@ -16,9 +16,9 @@ Have fun!
 
 [~~View V1 smart contract~~](https://bscscan.com/address/0x516ffd7D1e0Ca40b1879935B2De87cb20Fc1124b) ~~(deprecated)~~
 
-[**View V2 BNB smart contract**](https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda)****
+[**View V2 BNB smart contract**](https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda)
 
-****[**View V2 CAKE smart contract**](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07)****
+[**View V2 CAKE smart contract**](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07)
 
 ## PancakeSwap Prediction Guides
 

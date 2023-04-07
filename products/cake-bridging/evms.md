@@ -44,7 +44,7 @@ If you do not need to bridge CAKE to Aptos, you don’t need to connect your wal
 
 6 - **If your Ethereum address is already utilized with an ETH balance, you can turn off the “gas on destination” to save some BNB.**
 
-****![](<../../.gitbook/assets/image (58).png>)****
+![](<../../.gitbook/assets/image (58).png>)
 
 Otherwise, if your Ethereum address is never utilized and has no ETH balance, we recommend keeping the "gas on destination" option at its default. Or you can choose an ETH amount you want to receive.
 
@@ -98,7 +98,7 @@ If you do not need to bridge CAKE to Aptos, you don’t need to connect your wal
 
 6 - **If your BNB Chain address is already utilized with a BNB balance, you can turn off the “gas on destination” to save some ETH.**
 
-****
+
 
 Otherwise, if your BNB Chain address is never utilized and has no BNB balance, we recommend keeping the "gas on destination" option at its default. Or you can choose a BNB amount you want to receive.
 
