@@ -83,7 +83,7 @@ In Farm v3, CAKE reward APR could vary between liquidity positions. It is based 
 
 ### Why am I seeing an "Update Positions" pop-up?
 
-![](<../../.gitbook/assets/image (16).png>)
+![](<../../.gitbook/assets/image (16) (1).png>)
 
 Soon after the V3 launch, Chefs implemented an update on Farms to make reward calculations more accurate and reliable. If you are seeing this pop-up, that means some of your positions will require an update.
 

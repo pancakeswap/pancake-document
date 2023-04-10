@@ -8,7 +8,7 @@ However, users are always able to customize their trade by choosing which liquid
 
 ### **Check the fee rate and fee amount that is currently applied**
 
-****![](<../../.gitbook/assets/image (42).png>)****
+![](<../../.gitbook/assets/image (42).png>)
 
 To check how much trading will be charged on your current swap, check out the “Fee” section in the swap detail section.
 
@@ -24,7 +24,7 @@ To learn more detail, click the magnifier icon to bring out the full trading rou
 
 ### **Customize liquidity sources**
 
-****![](<../../.gitbook/assets/image (23).png>)****
+![](<../../.gitbook/assets/image (23) (2).png>)
 
 At the top of the “Customize Routing” interface, you may choose which liquidity source the route shall use while routing your trade. To bring up this interface, you can:
 
@@ -43,7 +43,7 @@ You can click the “Reset” button on the top right-hand corner to reset the c
 
 ### **Customize routing preferences**
 
-****![](<../../.gitbook/assets/image (9) (3).png>)****
+![](<../../.gitbook/assets/image (9) (3).png>)
 
 At the bottom of the “Customize Routing” interface, you can customize your routing preferences by enabling or disabling multihops and split routing.
 

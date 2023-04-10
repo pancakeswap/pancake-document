@@ -168,7 +168,7 @@ Now that you have your LP Tokens, you’re ready to start staking them in a Farm
 
 1 - Go back to the [Farms page](https://pancakeswap.finance/farms) and locate your Farm. Click anywhere on the row showing your pair. It will expand to show more details.
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6) (2).png>)
 
 When you’re ready, click the **Enable** button and confirm your action in your wallet.
 

@@ -62,6 +62,7 @@
   * [How to StableSwap](products/stableswap/how-to-stableswap.md)
 * [🚜 Yield Farming](products/yield-farming/README.md)
   * [How to Use Farms](products/yield-farming/how-to-use-farms.md)
+  * [APR/ROI/IL Calculator](products/yield-farming/apr-roi-il-calculator.md)
   * [FAQ](products/yield-farming/faq.md)
   * [Farming on Aptos](products/yield-farming/farming-on-aptos/README.md)
     * [FAQ](products/yield-farming/farming-on-aptos/faq.md)
