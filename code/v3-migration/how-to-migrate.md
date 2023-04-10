@@ -53,7 +53,7 @@ Look for the V3 migration banner on the Liquidity or Farm page. Then click “Pr
 
 **Step 1 - Unstake from V2 and/or StableSwap farms**
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
 In step 1, the helper will list all the PancakeSwap V2 or StableSwap farms that require migrations.
 
@@ -81,7 +81,7 @@ Even though some other project tokens are also migrating to V3, they will not ap
 
 **Step 3 - Get ready for V3**
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 No action is needed. Simply read and make sure you are familiar with how V3 works and how to provide liquidity in V3.
 
@@ -89,7 +89,7 @@ No action is needed. Simply read and make sure you are familiar with how V3 work
 
 **Step 4 - Add V3 liquidity**
 
-![](<../../.gitbook/assets/image (19).png>)
+![](<../../.gitbook/assets/image (19) (2).png>)
 
 In this step, you will add your liquidity to the new Exchange V3.
 
@@ -111,7 +111,7 @@ Please be cautious while setting the price range for the liquidity position.
 
 **Step 5 - Stake in V3 farms**
 
-<figure><img src="../../.gitbook/assets/image (16) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 In this step, you will stake your freshly added V3 liquidity positions to the new V3 farms to start earning CAKE rewards!
 
