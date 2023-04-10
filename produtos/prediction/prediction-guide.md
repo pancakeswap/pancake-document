@@ -46,7 +46,7 @@ Quando tiver certeza de que tem tempo suficiente, você pode fazer sua previsão
 
 Cada um terá um multiplicador de recompensa diferente. O multiplicador mudará com o tempo conforme a "Pool do Prêmio" aumenta dependendo das previsões das pessoas. A premiação é mostrada logo acima dos botões.
 
-![](<../../.gitbook/assets/image (45).png>)
+![](<../../.gitbook/assets/image (45) (2).png>)
 
 Escolheremos **PARA CIMA (Enter UP)** para este exemplo.&#x20;
 
@@ -108,7 +108,7 @@ Se quiser ver os resultados das rodadas antigas que você entrou, você precisar
 
 ![](<../../.gitbook/assets/image (56).png>)
 
-![](<../../.gitbook/assets/image (57).png>)
+![](<../../.gitbook/assets/image (57) (1).png>)
 
 ### Coletando quaisquer ganhos
 

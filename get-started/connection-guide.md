@@ -24,7 +24,7 @@ Para conectar a Trust Wallet, siga as etapas abaixo. Observe que os dispositivos
 
 1. Role para baixo até "Popular" e cliqye em "PancakeSwap". Você também pode encontrá-lo em "Exchanges".
 
-![](<../.gitbook/assets/image (66).png>)
+![](<../.gitbook/assets/image (66) (1).png>)
 
 1. Uma nova página será aberta com o logotipo da PancakeSwap e algumas informações. Clique no botão **Conectar**.
 
@@ -57,7 +57,7 @@ Para conectar a MetaMask na PancakeSwap siga os passos abaixo.
 
 1. Abra a MetaMask e clique no ícone no canto superior esquerdo.
 
-![](<../.gitbook/assets/image (72) (1).png>)
+![](<../.gitbook/assets/image (72).png>)
 
 1. Clique em **Settings/Configurações** no menu.
 
@@ -144,7 +144,7 @@ Token Pocket é um app de gerenciamento de criptoativos que suporta nativamente 
 {% endtab %}
 
 {% tab title="SafePal" %}
-![](<../.gitbook/assets/image (26) (1).png>)
+![](<../.gitbook/assets/image (26) (1) (1).png>)
 
 SafePal está disponível tanto como carteira de software quanto em hardware. A carteira é facil de instalar e criar e vem pronta para suportar BEP2 (Binance Chain) e BEP20 (BNB Smart Chain) imediatamente.
 
@@ -156,7 +156,7 @@ SafePal está disponível tanto como carteira de software quanto em hardware. A 
 
 1. Você vai ver a página do navegador de DApp abrir. Em "DeFi", encontre e clique na imagem da **PancakeSwap**. Se você não puder ver PancakeSwap em DeFi, você também pode entrar isso em "BSC".
 
-![](<../.gitbook/assets/image (83).png>)
+![](<../.gitbook/assets/image (83) (1).png>)
 
 1. Uma janela vai abrir dizendo que você está abrindo um DApp de terceiros. Clique **Confirm** e você será levado para a página da PancakeSwap conectado na sua carteira.
 

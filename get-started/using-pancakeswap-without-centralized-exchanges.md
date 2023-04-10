@@ -21,7 +21,7 @@ Nos tutoriais a seguir, vamos demonstrar como mover o USDT de uma variedade de b
 {% tabs %}
 {% tab title="🥞🌉Pancake Bridge (Recomendado)" %}
 \
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (2).png>)
 
 [**PancakeSwap Bridge** ](http://bridge.pancakeswap.finance/)— uma bridge de cross-chain de ativos nativos, alimentada pela Stargate.&#x20;
 

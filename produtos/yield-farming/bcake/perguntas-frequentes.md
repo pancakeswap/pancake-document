@@ -67,7 +67,7 @@ Para verificar o número de recompensas extras no contrato de impulsionamento de
 
 1. O impulsionamento de farm está disponível apenas para farms selecionadas. Mais farms serão disponibilizadas no futuro. Por enquanto, procure a tag "Boosted" na interface do usuário\
    \
-   ![](<../../../.gitbook/assets/image (1) (2) (1).png>)
+   ![](<../../../.gitbook/assets/image (1) (2) (1) (1).png>)
 2. Há um limite para o número de farms que podem aumentar simultaneamente. Para verificar o número de impulsionamentos restantes, consulte o painel na parte superior. \
    ![](<../../../.gitbook/assets/image (12) (1).png>)\
    \

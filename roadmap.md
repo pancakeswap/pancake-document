@@ -6,7 +6,7 @@ description: '"Don''t call it a roadmap"'
 
 ![](.gitbook/assets/roadmap-header.png)
 
-_Atualizado em 19 de Janeiro de 2023_
+_Atualizado em 5 de Abril de 2023_
 
 ### Finalmente, isso é um roadmap e não uma lista de tarefas.
 
@@ -16,7 +16,7 @@ Pivotar é um modo de vida.&#x20;
 
 Isso significa que não nos comprometemos publicamente com cronogramas específicos, para que possamos organizar nossas prioridades de desenvolvimento com base nas mudanças do mercado e nos recursos do desenvolvedor.
 
-<figure><img src=".gitbook/assets/photo_2023-01-20_11-49-24.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/photo_2023-04-05_12-21-14.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Devido a considerações de segurança e confidencialidade, alguns itens não estão incluídos na seção "Cozinhando no".
@@ -26,8 +26,6 @@ Devido a considerações de segurança e confidencialidade, alguns itens não es
 
 * IFOs e cIFOs Regularmente
 * Novos Farms e Pools de Syrup Regularmente&#x20;
-* Leilões de Farm\
-  [Recentemente Atualizados para um novo formato](https://medium.com/pancakeswap/reinventando-a-receita-novas-atualiza%C3%A7%C3%B5es-para-os-leil%C3%B5es-de-farm-da-pancakeswap-4ef34b7e96ff)
 * UI/UX, Correções de Bugs, Upgrades de Produtos&#x20;
 
 ### Planos de 2023&#x20;
@@ -39,14 +37,19 @@ Devido a considerações de segurança e confidencialidade, alguns itens não es
 * Integrações de Fiat
 * Mais produtos de Defi por vir!
 
-### Cozinhando no Q1
+### Cozinhando no Q2
 
-* v3 - Swap e Upgrade de Liquidez
-* IFOs na Aptos
-* Upgrade do Smart Router
-* Programa de Embaixador
-* Blog da PancakeSwap
-* Integração de Market Maker (em breve)
+* Gerenciador de Posição v3
+* Pools de Syrup na Ethereum
+* IFO na Ethereum
+* Integração de Stake Simples
+* Integração de Stake Líquido
+* Expansão para outr chain
+* Utilidades do produto vCAKE
+* Integração NFT Mobox Gaming&#x20;
+* Loja de Merchandise
+* Renovação do Site
+* Programa de Afiliados
 
 ### Backlogs
 
@@ -60,7 +63,7 @@ Devido a considerações de segurança e confidencialidade, alguns itens não es
 
 #### Trade
 
-* Stablecoin Swap
+* Stablecoin Swap - mais pares adicionados
 * Zap - Fornecer liquidez em um clique
 * Perpetual Trading
 * Ordens Limite
@@ -71,6 +74,8 @@ Devido a considerações de segurança e confidencialidade, alguns itens não es
 * Multichain Swap e Liquidez
 * Implantação na Aptos Chain
 * Bridge da PancakeSwap na Aptos
+* v3 - Swap e Upgrade de Liquidez
+* Integração de Market Maker&#x20;
 
 #### Ganhe
 
@@ -100,7 +105,7 @@ Devido a considerações de segurança e confidencialidade, alguns itens não es
   com Gráfico de Preços da Chainlink e Chainlink Keepers
 * Batalha de Equipe (Competição de Trade como Serviço)
 * Pottery\
-  Loteria pelo staking\
+  Loteria por staking\
   Novo grupo de Pottery todo mês
 
 #### NFT Ecosystem
@@ -121,3 +126,6 @@ Devido a considerações de segurança e confidencialidade, alguns itens não es
   * Vesting de tokens
   * Integração com iCAKE
 * Mini-Programa da PCS no App da Binance&#x20;
+* Primeiro IFO na Aptos
+* Programa de Embaixador
+* Blog da PancakeSwap

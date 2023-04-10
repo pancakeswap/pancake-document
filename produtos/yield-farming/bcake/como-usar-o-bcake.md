@@ -46,7 +46,7 @@ Observe que qualquer ação do usuário nos farms ou na pool de stake de CAKE at
 Aprenda mais [aqui](https://docs.pancakeswap.finance/v/portuguese-brazilian/products/yield-farming/bcake/faq).&#x20;
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (6) (1).png>)
+![](<../../../.gitbook/assets/image (6) (1) (1).png>)
 
 Há um limite para o número de farms que você pode aumentar simultaneamente. Para verificar o número de impulsionamentos restantes, consulte o painel na parte superior.&#x20;
 

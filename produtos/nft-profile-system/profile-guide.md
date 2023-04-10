@@ -24,7 +24,7 @@ Para este exemplo, usaremos Dollop.
 
 ***
 
-![](<../../.gitbook/assets/image (163) (1).png>)
+![](<../../.gitbook/assets/image (163).png>)
 
 3\. Clique em **Aprovar** e confirme a ação em sua carteira. Depois de aprovado, clique em **Confirmar**.
 
@@ -38,7 +38,7 @@ Para este exemplo, usaremos Dollop.
 
 Se você enfrentar Ops! erro, verifique a solução de problemas [soluçãro de problemas](https://docs.pancakeswap.finance/help/troubleshooting#oops-we-couldnt-find-any-pancake-collectibles-in-your-wallet).
 
-![](<../../.gitbook/assets/image (169) (1).png>)
+![](<../../.gitbook/assets/image (169).png>)
 
 5\. Clique em **Ativar** e confirme a ação em sua carteira. Depois de aprovado, clique em **Próximo passo**.
 

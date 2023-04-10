@@ -12,7 +12,7 @@ Você tem algumas maneiras de converter seus tokens para BEP20, mas aqui estão 
 
 {% tabs %}
 {% tab title="🌉 Pancake Bridge" %}
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (1).png>)
 
 [**PancakeSwap Bridge** ](http://bridge.pancakeswap.finance/)— uma bridge de cross-chain de ativos nativos, alimentada pela Stargate.&#x20;
 

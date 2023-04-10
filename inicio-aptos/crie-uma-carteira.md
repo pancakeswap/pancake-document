@@ -95,7 +95,7 @@ Trust Wallet é uma carteira popular para smartphone. Ele suporta DApps, NFTs co
 {% endtab %}
 
 {% tab title="Blocto" %}
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -124,7 +124,7 @@ Blocto oferece uma solução amigável e um pacote completo para usar Dapps e ge
 
 ![](<../.gitbook/assets/image (2) (4) (2).png>)
 
-![](<../.gitbook/assets/image (26).png>)
+![](<../.gitbook/assets/image (26) (1).png>)
 
 2 - Clique no botão de adição e escolha "APT - Aptos"
 
@@ -160,7 +160,7 @@ Você pode encontrar informações mais detalhadas sobre cada carteira abaixo, b
 
 {% tabs %}
 {% tab title="Petra" %}
-<figure><img src="../.gitbook/assets/image (13) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (3).png" alt=""><figcaption></figcaption></figure>
 
 A carteira Petra é uma extensão que permite explorar a Aptos no seu navegador.&#x20;
 
@@ -235,7 +235,7 @@ A Fewcha Wallet é uma carteira na Aptos Chain que permite armazenar, enviar, re
 {% endtab %}
 
 {% tab title="Blocto" %}
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 Blocto oferece uma solução amigável e um pacote completo para usar Dapps e gerenciar seus ativos.&#x20;
 

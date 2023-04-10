@@ -50,7 +50,7 @@ Você pode visualizar o número de iCAKE gerado a partir de sua posição de sta
 
 Entre cada IFOs, a cozinha otimizará o limiar com base na duração média de stake da pool de CAKE de staking de prazo fixo. O reajuste será publicado em todas as redes sociais.
 
-![](<../../.gitbook/assets/image (35) (1).png>)
+![](<../../.gitbook/assets/image (35).png>)
 
 Você pode verificar o limiar atual para cálculos de iCAKE passando o mouse ou tocando no texto iCAKE sublinhado na janela do pool de syrup CAKE.
 

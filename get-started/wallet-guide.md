@@ -176,7 +176,7 @@ Agora você tem sua chave privada pronta para importar sua carteira para a vers�
 {% endtab %}
 
 {% tab title="SafePal" %}
-![](<../.gitbook/assets/image (26) (1).png>)
+![](<../.gitbook/assets/image (26) (1) (1).png>)
 
 SafePal está disponível como carteira de software e hardware. A carteira é fácil de instalar e criar, e vem pronta para suportar BEP2 (Binance Chain) e BEP20 (BNB Smart Chain) imediatamente.
 
