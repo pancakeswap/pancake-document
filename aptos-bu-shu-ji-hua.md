@@ -14,8 +14,6 @@ description: PancakeSwap 计划来到 Aptos 链！
 
 此页面可作为面向项目团队的常见Q\&A，帮助您快速了解我们的平台 - 如果您仍有未解答的疑问，请联系我们的**业务发展主管（Business Development）， Chef Icy，透过 Twitter (**[https://twitter.com/PancakeIcy](https://twitter.com/PancakeIcy)**) 或 TG**。
 
-此页面可作为面对项目团队的快速Q\&A，帮助您了解我们 - 但如果您仍有任何未解答的疑惑，请咨询**Chef Icy**，我们的**业务发展主管**，透过 **Twitter (**[**https://twitter.com/PancakeIcy**](https://twitter.com/PancakeIcy)**) 或 TG**。
-
 ### 面向用户的 DeFi 体验
 
 精巧易用，越简单越安全！
@@ -61,7 +59,7 @@ description: PancakeSwap 计划来到 Aptos 链！
 ### IFO 申请流程示例
 
 1. 初步接洽
-   * 我们进行了愉快的沟通后（共享数据、用户情况和各种宏观大方向等各种话题，聊天说地，处处囊括），贵团队决定开始申请流程——让我们开始吧！&#x20;
+   * 我们进行了愉快的沟通后（共享数据、用户情况和各种宏观大方向等各种话题，谈天说地，处处囊括），贵团队决定开始申请流程——让我们开始吧！&#x20;
    * 通过此[**表格**](https://docs.google.com/forms/d/e/1FAIpQLSf9gWv9L8U0PGYgl-ymeX1qgXncBSlJ1HV5gB6ZeW7e4ekV\_w/viewform)申请
 2. 尽职调查
    * 厨房会根据表格中提供的信息调研，我们需要详细了解一些信息要点（请知悉，它们不是毫无意义的问题，因 PancakeSwap 非常重视用户的安全，我们也只想介绍有趣的项目给我们的社区）。
@@ -81,4 +79,4 @@ description: PancakeSwap 计划来到 Aptos 链！
 
 在以上流程的每一步，团队都会不遗余力地为您提供帮助——因为我们知道，对于创始人及其团队而言，IFO 或 TGE 的启动至关重要。
 
-<figure><img src=".gitbook/assets/image2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image2 (3).png" alt=""><figcaption></figcaption></figure>
