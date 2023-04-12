@@ -6,7 +6,7 @@
 
 In the new Exchange V3, liquidity will be managed in the form of non-fungible positions. You will still earn a share in the fees while providing liquidity.
 
-When you add your token to a Liquidity Pool you will receive Liquidity Provider (LP) tokens and share in the fees.
+When you add your token to a Liquidity Pool you will receive Liquidity Provider NFT tokens and share in the fees.
 
 ### **Non-fungible liquidity positions**
 
