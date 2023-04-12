@@ -124,6 +124,7 @@
 
 * [3⃣ V3 Migration](code/v3-migration/README.md)
   * [How to migrate](code/v3-migration/how-to-migrate.md)
+  * [How v3 APR is calculated](code/v3-migration/how-v3-apr-is-calculated.md)
   * [FAQ](code/v3-migration/faq.md)
 * [2⃣ V2 Migration](code/migration/README.md)
   * [Migrate Your Stakings](code/migration/migrate-your-stakings.md)
