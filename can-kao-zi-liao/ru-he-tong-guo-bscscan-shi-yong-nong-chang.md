@@ -15,7 +15,7 @@
 1. 在 GitHub 上打开 PancakeSwap 网站的 Farms 代码。&#x20;
 2. Control/command + F 并通过代码（不是项目名称）搜索您的代币对。 例如，'CAKE-BUSD'。
 
-<figure><img src="../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -42,11 +42,11 @@
 1. 首先，在 GitHub 上打开 farms.ts。&#x20;
 2. &#x20;Control/command + F 并通过代码（不是项目名称）搜索您的代币对。 例如，“CAKE-BNB”
 
-<figure><img src="../.gitbook/assets/image (2) (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (4).png" alt=""><figcaption></figcaption></figure>
 
 当你有了你正在寻找的LP代币对的代码时，找到“56：”之后的地址。 这将是您的合约地址。
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 从用户界面入手
 
@@ -68,7 +68,7 @@
 
 1. 在LP Token的合约页面，进入Contract，然后 Write Contract。
 
-<figure><img src="../.gitbook/assets/image (4) (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (3).png" alt=""><figcaption></figcaption></figure>
 
 &#x20; 2.单击 connect to Web3 以连接 MetaMask 钱包。
 
@@ -96,7 +96,7 @@
 
 1.返回 [PancakeSwap: Main Staking Contract BscScan ](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#writeContract)页面，进入 Contract，然后 Write Contract。
 
-<figure><img src="../.gitbook/assets/image (4) (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (3).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -116,7 +116,7 @@
 
 6.您可以通过点击**查看您的交易**来确认您的操作是否成功。
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 如何从质押池中取款
 
@@ -124,7 +124,7 @@
 
 1.返回 [PancakeSwap: Main Staking Contract BscScan ](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#writeContract)页面，进入 Contract，然后 Write Contract。
 
-<figure><img src="../.gitbook/assets/image (4) (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (3).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -146,7 +146,7 @@
 
 ​6.您可以通过点击**查看您的交易**来确认您的操作是否成功。​
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 如何进行紧急提款 <a href="#cong-chi-zhong-qu-kuan" id="cong-chi-zhong-qu-kuan"></a>
 
@@ -160,13 +160,13 @@ PancakeSwap 团队强烈建议避免使用此功能，除非 PancakeSwap 团队�
 
 1.返回 [PancakeSwap: Main Staking Contract BscScan ](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#writeContract)页面，进入 Contract，然后 Write Contract。
 
-<figure><img src="../.gitbook/assets/image (4) (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (3).png" alt=""><figcaption></figcaption></figure>
 
 2.单击 **connect to Web3** 以连接 MetaMask。
 
 3.一直向下滚动到 fuction 4，“emergencywithdraw”，然后在“\_pid”字段中输入您的 PID。
 
-<figure><img src="../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 如果您之前没有复制您的 PID，您可以在此页面上方的"**Finding Farm process identifier"** **查找农场进程标识符**部分中了解如何获取它。
 
@@ -176,4 +176,4 @@ PancakeSwap 团队强烈建议避免使用此功能，除非 PancakeSwap 团队�
 
 5.您可以通过点击**查看您的交易**来确认您的操作是否成功。​
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>

@@ -1,6 +1,7 @@
 # Table of contents
 
 * [PancakeSwap 介绍](README.md)
+* [审计报告](shen-ji-bao-gao.md)
 * [入门指南 (BSC)](get-started/README.md)
   * [创建钱包](get-started/wallet-guide.md)
   * [获取 BEP-20 代币](get-started/bep20-guide.md)
@@ -59,7 +60,7 @@
     * [应该如何使用它](products/pancakeswap-exchange/yong-xu-he-yue-jiao-yi/ying-gai-ru-he-shi-yong-ta.md)
     * [永续合约常见问题](products/pancakeswap-exchange/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-chang-jian-wen-ti.md)
 * [🔄 稳定币兑换](products/wen-ding-bi-dui-huan/README.md)
-  * [如何使用稳定币兑换](products/wen-ding-bi-dui-huan/ru-he-shi-yong-wen-ding-bi-dui-huan.md)
+  * [如何使用稳定币兑换](products/wen-ding-bi-dui-huan/ru-he-shi-yong-stableswap.md)
 * [🚜 农场](products/yield-farming.md)
   * [如何使用农场](products/yield-farming/ru-he-shi-yong-nong-chang.md)
   * [在 Aptos 链上参与农场](products/yield-farming/farming-on-aptos/README.md)
@@ -115,7 +116,7 @@
 ## Development Guide <a href="#code" id="code"></a>
 
 * [2⃣ V2 迁移](code/v2-qian-yi/README.md)
-  * [迁移到 MasterChef v2](code/v2-qian-yi/qian-yi-dao-masterchef-v2.md)
+  * [迁移到 MasterChef v2](code/qian-yi/qian-yi-dao-masterchef-v2.md)
   * [MasterChef v2](code/v2-qian-yi/masterchef-v2/README.md)
     * [农场列表](code/v2-qian-yi/masterchef-v2/nong-chang-lie-biao.md)
   * [CAKE 糖浆池](code/v2-qian-yi/cake-tang-jiang-chi.md)
