@@ -57,6 +57,7 @@
   * [Como fazer StableSwap?](produtos/stableswap/como-fazer-stableswap.md)
 * [🚜 Yield Farming](produtos/yield-farming/README.md)
   * [Como Usar os Farms](produtos/yield-farming/how-to-use-farms.md)
+  * [Calculador de APR/ROI/IL](produtos/yield-farming/calculador-de-apr-roi-il.md)
   * [Perguntas Frequentes](produtos/yield-farming/perguntas-frequentes.md)
   * [Farmando na Aptos](produtos/yield-farming/farmando-na-aptos/README.md)
     * [Perguntas Frequentes](produtos/yield-farming/farmando-na-aptos/perguntas-frequentes.md)
