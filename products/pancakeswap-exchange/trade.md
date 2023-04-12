@@ -8,7 +8,7 @@
 
 When you make a token swap (trade) on the [BNB Smart Chain](https://pancakeswap.finance/swap?chain=bsc) or [Ethereum](https://pancakeswap.finance/swap?chain=eth) PancakeSwap Exchange, you will pay trading fees according to the type of liquidity pool your trade is being routed through. You may check the route details by clicking the magnifier icon on the “Route” section.
 
-For Exchange V3 liquidity pools, there are currently four different fee tiers: 0.01%, 0.05%, 0.25%, and 0.1%.
+For Exchange V3 liquidity pools, there are currently four different fee tiers: 0.01%, 0.05%, 0.25%, and 1%.
 
 For StableSwap liquidity pools, the fee rate depends on the individual pool configurations. Please check the “Fee” section for more detail.
 
