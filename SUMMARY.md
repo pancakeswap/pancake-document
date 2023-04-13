@@ -48,6 +48,7 @@
 * [🔄 StableSwap](productos/stableswap.md)
 * [🚜 Yield Farming](productos/yield-farming/README.md)
   * [Cómo usar Farms](productos/yield-farming/como-usar-yield-farm-en-pancakeswap.md)
+  * [FAQ](productos/yield-farming/faq.md)
   * [Farming en Aptos](productos/yield-farming/farming-en-aptos/README.md)
     * [Preguntas más frecuentes (FAQ)](productos/yield-farming/farming-en-aptos/preguntas-mas-frecuentes-faq.md)
   * [Crosschain Farming](productos/yield-farming/crosschain-farming/README.md)
