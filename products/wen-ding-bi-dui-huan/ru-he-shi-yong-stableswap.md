@@ -13,7 +13,7 @@
 
 3. 选择您想要交易的代币对。选择一个交易对例如（HAY-BUSD），更多稳定币对将逐步添加。
 
-<figure><img src="../../.gitbook/assets/1 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
 4\. 从这一步开始，交换步骤与 Pancakeswap 上普通的代币兑换相同！ 请从第 4 步开始查看[此处的指南](../pancakeswap-exchange/ru-he-jin-hang-jiao-yi.md)
 
@@ -27,13 +27,13 @@
 
 &#x20;1\. 当您选择启用了稳定币兑换的币对时（例如 HAY-BUSD），前端会提示您提供 “稳定币 LP”
 
-<figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (3).png" alt=""><figcaption></figcaption></figure>
 
 
 
 &#x20;2\. 两种代币的供应数量可能在供应阶段是不平衡的，会有一个确认页面显示您的供应比例。
 
-<figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 (2).png" alt=""><figcaption></figcaption></figure>
 
 3\. 您将收到 "稳定币 LP" 代币作为流动性凭证，以供将来提取和移除您的流动性。
 
