@@ -8,7 +8,7 @@
 
 3.选择您相应的钱包并连接。
 
-<figure><img src="../../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/3 (3).png" alt=""><figcaption></figcaption></figure>
 
 4.选择 CAKE 糖浆池并单击**启用**按钮。 您的钱包会要求您确认操作。
 

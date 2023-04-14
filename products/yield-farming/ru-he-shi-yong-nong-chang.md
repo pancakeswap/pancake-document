@@ -75,7 +75,7 @@ description: 在PancakeSwap上使用农场非常简单！
 {% hint style="info" %}
 当在 BNB 链之外的区块链上进行流动性挖矿时，您需要等待约 30 分钟待跨链讯息传递完毕。
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 若要查看您的进程，可以点击余额右侧的转圈图标（circular icon），或点击右上角的「最近的交易（Recent Transaction）」。
 {% endhint %}
@@ -130,7 +130,7 @@ description: 在PancakeSwap上使用农场非常简单！
 
 如果你的钱包不支持链切换。质押或取消质押 LP 代币将自动收割您的 CAKE。请注意，收割的 CAKE 将在 BNB 智能链上分发。
 
-![](<../../.gitbook/assets/image (32).png>)
+![](<../../.gitbook/assets/image (32) (1).png>)
 {% endhint %}
 
 ### 我应该多久收割一次我的奖励？
@@ -139,7 +139,7 @@ description: 在PancakeSwap上使用农场非常简单！
 
 点击 **收割** 后，确认时，您可以在钱包中看到此费用。
 
-<figure><img src="../../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 以上显示了 MetaMask 钱包中出现的收割费用。不同的钱包会以不同的方式显示信息。可以考虑让你的奖励累积一段时间，这样你支付 gas 费用的频率就会降低。&#x20;
 

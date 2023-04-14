@@ -1,6 +1,6 @@
 # 🔄 稳定币兑换
 
-<figure><img src="../../.gitbook/assets/docs masthead (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/docs masthead (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 PancakeSwap 上的 StableSwap 是一项基于不变曲线滑点函数，具有较低滑点的稳定币对交易的功能。 它旨在交换价格接近的特定资产——例如美元稳定币（例如 HAY、BUSD 和 USDT）或流动质押代币（liquid staking tokens）（例如 stkBNB 和 aBNBc）。&#x20;
 
