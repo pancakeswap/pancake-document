@@ -4,7 +4,7 @@ description: gm eth!
 
 # 以太链上的扩展
 
-<figure><img src=".gitbook/assets/image (179) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 我们已经在以太链推出了 PancakeSwap V3！我们希望与以太链上的众多项目团队开启沟通管道，在这里，向各位介绍加密货币世界中最大、最火爆以及活跃度最高的 DApp 之一（每天活跃用户超过 12 万）！
 
@@ -59,7 +59,7 @@ description: gm eth!
 5. 发布后&#x20;
    * 我们将继续保持联系，并且在任何可能的情景下携手共进！
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### IFO 申请流程示例
 
@@ -85,4 +85,4 @@ description: gm eth!
 
 在以上流程的每一步，团队都会不遗余力地为您提供帮助——因为我们知道，对于创始人及其团队而言，IFO 或 TGE 的启动至关重要。
 
-<figure><img src=".gitbook/assets/image (2) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>

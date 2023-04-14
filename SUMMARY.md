@@ -62,11 +62,11 @@
     * [应该如何使用它](products/pancakeswap-exchange/yong-xu-he-yue-jiao-yi/ying-gai-ru-he-shi-yong-ta.md)
     * [永续合约常见问题](products/pancakeswap-exchange/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-chang-jian-wen-ti.md)
 * [🔄 稳定币兑换](products/wen-ding-bi-dui-huan/README.md)
-  * [如何使用稳定币兑换](products/wen-ding-bi-dui-huan/ru-he-shi-yong-stableswap.md)
+  * [如何使用稳定币兑换](products/wen-ding-bi-dui-huan/ru-he-shi-yong-wen-ding-bi-dui-huan.md)
 * [🚜 农场](products/yield-farming.md)
   * [如何使用农场](products/yield-farming/ru-he-shi-yong-nong-chang.md)
-  * [在 Aptos 链上参与农场](products/yield-farming/zai-aptos-lian-shang-can-yu-nong-chang/README.md)
-    * [FAQ](products/yield-farming/zai-aptos-lian-shang-can-yu-nong-chang/faq.md)
+  * [在 Aptos 链上参与农场](products/yield-farming/farming-on-aptos/README.md)
+    * [FAQ](products/yield-farming/farming-on-aptos/faq.md)
   * [跨链农场](products/yield-farming/kua-lian-nong-chang/README.md)
     * [FAQ](products/yield-farming/kua-lian-nong-chang/faq.md)
   * [bCAKE](products/yield-farming/bcake/README.md)
@@ -118,7 +118,7 @@
 ## Development Guide <a href="#code" id="code"></a>
 
 * [2⃣ V2 迁移](code/v2-qian-yi/README.md)
-  * [迁移到 MasterChef v2](code/qian-yi/qian-yi-dao-masterchef-v2.md)
+  * [迁移到 MasterChef v2](code/v2-qian-yi/qian-yi-dao-masterchef-v2.md)
   * [MasterChef v2](code/v2-qian-yi/masterchef-v2/README.md)
     * [农场列表](code/v2-qian-yi/masterchef-v2/nong-chang-lie-biao.md)
   * [CAKE 糖浆池](code/v2-qian-yi/cake-tang-jiang-chi.md)
