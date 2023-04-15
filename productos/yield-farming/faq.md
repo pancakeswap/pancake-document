@@ -69,7 +69,7 @@ Si ves esta ventana emergente, significa que alguna de tus posiciones necesitan 
 
 Tenga en cuenta que los Chefs también están aplicando esta actualización a los datos históricos, por lo que si hubieran recompensas adicionales, se enviarán directamente a su wallet antes del 1 de mayo.
 
-### Por qué un farm con 2x en V3 tiene menos APR que uno con 1x en V2?
+### ¿Por qué un farm con 2x en V3 tiene menos APR que uno con 1x en V2?
 
 Primero, cuando comparamos APRs, debe asegurarse de que el total de liquidez depositada entre los dos farms sea igual.
 
@@ -87,7 +87,7 @@ Los números arriba mencionados puede encontrarlos en cada uno de los contratos 
 
 
 
-### Puedo usar bCAKE en los Farms v3?
+### ¿Puedo usar bCAKE en los Farms v3?
 
 Sí
 
