@@ -64,7 +64,7 @@ Smart Router is now the default route for PancakeSwap Exchange V3. However, user
 
 To learn more about how to customize your trade routes, [click here](fees-and-routes.md).&#x20;
 
-For more information on StableSwap, [click here](../stableswap/), and for the Market Maker integration, [click here](market-maker-integration.md).
+For more information on StableSwap, [click here](stableswap/), and for the Market Maker integration, [click here](market-maker-integration.md).
 
 ## FAQ
 
