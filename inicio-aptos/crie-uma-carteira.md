@@ -53,7 +53,7 @@ Você pode encontrar informações mais detalhadas sobre cada carteira abaixo, b
 
 {% tabs %}
 {% tab title="SafePal" %}
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>O SafePal está disponível como uma carteira de software e hardware. A carteira é fácil de instalar e criar e vem pronta para suportar Aptos, BEP2 (BNB Beacon Chain), BEP20 (BNB Smart Chain) imediatamente.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>O SafePal está disponível como uma carteira de software e hardware. A carteira é fácil de instalar e criar e vem pronta para suportar Aptos, BEP2 (BNB Beacon Chain), BEP20 (BNB Smart Chain) imediatamente.</p></figcaption></figure>
 
 **Prós:**
 
@@ -95,7 +95,7 @@ Trust Wallet é uma carteira popular para smartphone. Ele suporta DApps, NFTs co
 {% endtab %}
 
 {% tab title="Blocto" %}
-<figure><img src="../.gitbook/assets/image (3) (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -124,17 +124,17 @@ Blocto oferece uma solução amigável e um pacote completo para usar Dapps e ge
 
 ![](<../.gitbook/assets/image (2) (4) (2).png>)
 
-![](<../.gitbook/assets/image (26) (1).png>)
+![](<../.gitbook/assets/image (26).png>)
 
 2 - Clique no botão de adição e escolha "APT - Aptos"
 
 ![](<../.gitbook/assets/image (5) (4).png>)
 
-![](<../.gitbook/assets/image (31).png>)
+![](<../.gitbook/assets/image (31) (1).png>)
 
 3 - Pronto! Agora você pode depositar o APT na carteira Aptos e começar a usar **a** PancakeSwap na Aptos acessando a página "Descobrir"!
 
-![](<../.gitbook/assets/image (13) (4).png>)
+![](<../.gitbook/assets/image (13) (4) (1).png>)
 
 ![](<../.gitbook/assets/image (9) (1) (2).png>)
 {% endtab %}
@@ -235,7 +235,7 @@ A Fewcha Wallet é uma carteira na Aptos Chain que permite armazenar, enviar, re
 {% endtab %}
 
 {% tab title="Blocto" %}
-<figure><img src="../.gitbook/assets/image (3) (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Blocto oferece uma solução amigável e um pacote completo para usar Dapps e gerenciar seus ativos.&#x20;
 

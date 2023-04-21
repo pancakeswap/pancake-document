@@ -108,7 +108,7 @@ Se quiser ver os resultados das rodadas antigas que você entrou, você precisar
 
 ![](<../../.gitbook/assets/image (56).png>)
 
-![](<../../.gitbook/assets/image (57) (1).png>)
+![](<../../.gitbook/assets/image (57).png>)
 
 ### Coletando quaisquer ganhos
 
@@ -118,7 +118,7 @@ Se quiser ver os resultados das rodadas antigas que você entrou, você precisar
 
 2\. Uma nova janela aparecerá mostrando a quantidade de BNB que você pode coletar com um botão **Confirmar**. Clique no botão e confirme a ação em sua carteira.
 
-![](<../../.gitbook/assets/image (52).png>)
+![](<../../.gitbook/assets/image (52) (1).png>)
 
 Seus ganhos em BNB agora estarão em sua carteira.
 
@@ -136,7 +136,7 @@ Seus ganhos em BNB agora estarão em sua carteira.
 
 3\. Uma nova janela aparecerá mostrando a quantidade de BNB que você pode coletar com um botão **Confirmar**. Clique no botão e confirme a ação em sua carteira.
 
-![](<../../.gitbook/assets/image (52).png>)
+![](<../../.gitbook/assets/image (52) (1).png>)
 
 Seus ganhos em BNB agora estarão em sua carteira.
 
@@ -150,7 +150,7 @@ Se você gostaria de ver como você se saiu na Previsão, você pode ver os dado
 
 2\. No painel de histórico, clique na aba PNL.
 
-![](<../../.gitbook/assets/image (62).png>)
+![](<../../.gitbook/assets/image (62) (1).png>)
 
 A aba será aberta com estatísticas de seu desempenho histórico na Previsão, incluindo seus resultados líquidos, retorno médio, melhor rodada e outras informações.
 

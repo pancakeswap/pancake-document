@@ -20,7 +20,7 @@ Confira este ótimo [artigo sobre Perda Impermanente da Binance Academy](https:/
 
 ### **Prepare-se**
 
-## ![](<../../.gitbook/assets/image (26).png>)
+## ![](<../../.gitbook/assets/image (93).png>)
 
 Você vai precisar de uma posição de liquidez para entrar em um Farm. Os farms só podem aceitar posições de liquidez de seu próprio par de negociação com exatamente o mesmo nível de taxa na sua escolha; por exemplo, o Farm de CAKE-BNB 0,25%  aceitará apenas posições de liquidez CAKE-BNB com o nível de taxa de 0,25% selecionado. Não aceitará:&#x20;
 
@@ -33,7 +33,7 @@ Pode parecer intimidador, mas não é muito complicado. Vamos passar por isso pa
 
 ### **Localize seu  Farm**
 
-![](<../../.gitbook/assets/image (24).png>)
+![](<../../.gitbook/assets/image (125).png>)
 
 Antes de prosseguir, você deve escolher o Farm certo para você. Visite a [página de Farms](https://pancakeswap.finance/farms) para ver uma lista de Farms disponíveis.&#x20;
 
@@ -47,27 +47,27 @@ Agora que você encontrou u Farm para fazer stake, você precisará fornecer liq
 
 1 - Caso não tenha nenhuma posição disponível, aparecerá um botão “Adicionar Liquidez”, basta clicar nele para abrir a janela “Adicionar Liquidez” sem sair da página do Farm.
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (130).png>)
 
 2 - Alternativamente, você pode clicar no Farm da que escolheu na lista. Ele será aberto para mostrar mais detalhes. Ou com a visualização do card, clique em “Detalhes” para expandir e obter mais detalhes. Clique no link "Adicionar LP XXX-YYY" na seção de detalhes para adicionar liquidez.
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (1).png>)
 
 ### **Faça Stake de suas posições no farm**
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (9).png>)
 
 Depois de terminar de adicionar liquidez. Você deve ver sua posição listada no farm que deseja usar.&#x20;
 
 Se você tiver várias posições, clique em "Visualizar todos" para visualizá-los em uma nova janela pop-up.
 
-![](<../../.gitbook/assets/image (27).png>)
+![](<../../.gitbook/assets/image (132).png>)
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (118).png>)
 
 Clique em “Stake” na posição listada e sua carteira solicitará confirmação.
 
-![](<../../.gitbook/assets/image (20).png>)
+![](../../.gitbook/assets/image.png)
 
 Após uma breve espera, a janela fechará e você verá sua posição em stake nos detalhes.&#x20;
 
@@ -77,13 +77,13 @@ Você pode repetir as etapas acima para fazer stake rapidamente  de várias posi
 
 No Farm V3, você pode fazer stake de várias posições no mesmo farm. Cada posição em stake ganhará CAKE e precisará ser colhida separadamente.
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (127).png>)
 
 Para colher as recompensas CAKE de uma posição em stake, simplesmente retorne à página da Farm e localize o farm e a posição que deseja colher. Você pode usar a opção “Staked Only” para filtrar rapidamente os farms que você está fazendo stake no momento.&#x20;
 
 Se você tiver várias posições em stake, você pode clicar em "Visualizar tudo" para visualizá-las em uma nova janela pop-up.
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (8).png>)
 
 Clique em “Colheita” na posição e sua carteira pedirá confirmação. Após uma breve espera, as recompensas de CAKE serão enviadas para sua carteira.
 
@@ -91,11 +91,11 @@ Clique em “Colheita” na posição e sua carteira pedirá confirmação. Apó
 
 Ao fazer stake em um farm, você ainda pode adicionar ou remover liquidez sem retirar do farm.
 
-![](<../../.gitbook/assets/image (21).png>)
+![](<../../.gitbook/assets/image (110).png>)
 
 Para isso, basta retornar à página do Farm e localizar o farm e a posição que deseja ajustar. Você pode usar a opção “Staked Only” para filtrar rapidamente os farms que você está fazendo stake no momento.
 
-![](<../../.gitbook/assets/image (22).png>)
+![](<../../.gitbook/assets/image (102).png>)
 
 Clique no título da posição com o par de tokens, taxa, ID da posição e a seta “>”. Você será levado para a página de detalhes da posição.
 
@@ -129,7 +129,7 @@ Pode parecer intimidante, mas não é muito complicado. Vamos passo a passo.
 
 Antes de prosseguir, você deve escolher um Farm certo para você. [Visite a página dos Farms](https://pancakeswap.finance/farms) e você verá a lista dos Farms disponíveis.
 
-![](<../../.gitbook/assets/image (4) (1).png>)
+![](<../../.gitbook/assets/image (4) (1) (2).png>)
 
 Você pode escolher outra opção de classificação, se desejar, como por **APR** para os Farms com a maior taxa de recompensa atualmente.
 
@@ -160,7 +160,7 @@ Quando estiver pronto, clique no botão **Ativar (Enable)** e confirme sua açã
 
 3 - Digite a quantidade de LP Tokens com os quais você gostaria de farmar no campo ou apenas clique em **Max** para usar todos os seus LP Tokens.
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (8) (1).png>)
 
 4 - Quando você tiver inserido o valor, o botão Confirmar acenderá. Clique. Sua carteira pedirá que você confirme sua ação.
 
@@ -196,7 +196,7 @@ Agora você deve ver na lista apenas os pares em que você tem LP Tokens, tornan
 
 3 - Uma janela será aberta parecida com a que você usou anteriormente para fazer stake dos seus LP Tokens. Como da última vez, digite o valor que você gostaria de desfazer/colocar em stake, ou clique em Máximo para remover/adicionar todos os LP Tokens disponíveis.
 
-![](<../../.gitbook/assets/image (33) (1).png>)
+![](<../../.gitbook/assets/image (33).png>)
 
 4 - Verifique se suas informações estão corretas. Quando estiver pronto, clique no botão **Confirmar** e confirme a ação em sua carteira.&#x20;
 
@@ -232,7 +232,7 @@ Se a sua carteira não suportar troca de chain. Fazendo stake ou removendo stake
 
 Isso depende de você, mas lembre-se que há uma pequena taxa envolvida na colheita. Você pode ver essa taxa em sua carteira ao confirmar depois de clicar em Coletar (Harvest).
 
-![](<../../.gitbook/assets/image (31) (1).png>)
+![](<../../.gitbook/assets/image (31) (1) (1).png>)
 
 Isso mostra a taxa de coleta conforme aparece na carteira MetaMask. Carteiras diferentes mostrarão as informações de maneira um pouco diferente. Considere deixar suas recompensas crescerem por um tempo para que você pague taxas com menos frequência.&#x20;
 

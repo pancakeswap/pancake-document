@@ -4,7 +4,7 @@ description: Receba as mesmas recompensas suculentas de CAKE farmando em outras 
 
 # Farm Crosschain
 
-<figure><img src="../../../.gitbook/assets/image (18) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (18) (2).png" alt=""><figcaption></figcaption></figure>
 
 Com a implantação multichain, a PancakeSwap agora está trazendo a experiência icônica de yield faram nos farms da PancakeSwap para usuários em outras blockchains. Farms de rendimento permitem que os usuários ganhem CAKE enquanto apoiam a PancakeSwap fazendo stake de LP Tokens.&#x20;
 

@@ -22,13 +22,13 @@ Em seguida, abra a[ bridge de Aptos da PancakeSwap](https://bridge.pancakeswap.f
 
 Clique em "Conectar" e escolha a carteira de sua preferência na seção "EVM". Em seguida, confirme e aprove no pop-up da sua carteira. (Até o momento, apenas a MetaMask é suportada. O suporte para mais carteiras estará disponível em breve)
 
-![](<../../.gitbook/assets/image (7) (1) (1).png>)
+![](<../../.gitbook/assets/image (7) (1) (2).png>)
 
 3 - Então, precisamos conectar nossa carteira Aptos.&#x20;
 
 No modal wallet connect, escolha a carteira de sua preferência na seção "Aptos". Em seguida, confirme e aprove no pop-up da sua carteira.
 
-![](<../../.gitbook/assets/image (8) (1).png>)
+![](<../../.gitbook/assets/image (8) (1) (2).png>)
 
 4 - Clique no "v" no campo de seleção de token e escolha "CAKE".
 
@@ -95,7 +95,7 @@ No modal da conexão da carteira, escolha a carteira de sua preferência na seç
 
 Verifique se a rede "Aptos" está no campo superior.
 
-![](<../../.gitbook/assets/image (11) (1).png>)
+![](<../../.gitbook/assets/image (11) (1) (2).png>)
 
 5 - Insira o número de CAKE que você deseja conectar à BNB Smart Chain.
 

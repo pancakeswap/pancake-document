@@ -29,7 +29,7 @@ Por exemplo, se o limite for 35 semanas:
 * Sua posição atual de stake de prazo fixo tem uma duração de 7 semanas e 200 CAKE staking. Então o número de iCAKE que você tem é igual a 200 × (7 ÷ 35) = 40.
 * Sua posição atual de stake de prazo fixo tem uma duração de 10 semanas e 200 SAKES staking. Mas a posição acabou. Então o número de iCAKE que você tem é 0.
 
-![](<../../.gitbook/assets/image (102).png>)
+![](<../../.gitbook/assets/image (102) (1).png>)
 
 ### Como verificar o número de iCAKE que tenho? ![](<../../.gitbook/assets/image (134).png>)
 
@@ -50,7 +50,7 @@ Você pode visualizar o número de iCAKE gerado a partir de sua posição de sta
 
 Entre cada IFOs, a cozinha otimizará o limiar com base na duração média de stake da pool de CAKE de staking de prazo fixo. O reajuste será publicado em todas as redes sociais.
 
-![](<../../.gitbook/assets/image (35).png>)
+![](<../../.gitbook/assets/image (35) (1).png>)
 
 Você pode verificar o limiar atual para cálculos de iCAKE passando o mouse ou tocando no texto iCAKE sublinhado na janela do pool de syrup CAKE.
 

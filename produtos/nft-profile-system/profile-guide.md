@@ -54,11 +54,11 @@ Se você enfrentar Ops! erro, verifique a solução de problemas [soluçãro de 
 
 ***
 
-![](<../../.gitbook/assets/image (173).png>)
+![](<../../.gitbook/assets/image (173) (1).png>)
 
 8\. Em seguida, definiremos o nome do nosso perfil. Digite seu nome no campo “Digite seu nome…”.
 
-![](<../../.gitbook/assets/image (174).png>)
+![](<../../.gitbook/assets/image (174) (1).png>)
 
 Se você enfrentar o problema "nome de usuário continua girando", verifique a [solução de problemas](https://docs.pancakeswap.finance/help/troubleshooting#checking-username-keeps-spinning).
 

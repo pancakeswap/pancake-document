@@ -47,3 +47,5 @@ Em alguns casos extremos, incluindo alguns golpes, alguns tokens ainda bloqueiam
 ## Onde posso fornecer feedback para o Mini-Programa?&#x20;
 
 Todos os comentários são bem-vindos e estamos sempre tentando melhorar para nossa comunidade. Para qualquer feedback sobre o Miniprograma, além do habitual [Telegram](https://t.me/PancakeSwapPortuguese) ou [Discord](https://discord.gg/pancakeswap), você também pode enviar seu feedback dentro do Miniprograma, no botão de feedback após clicar nos três pontos no canto superior direito.
+
+<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>

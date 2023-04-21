@@ -68,6 +68,6 @@ Você pode pular para os artigos de entrevistas com os chefes clicando no nome d
 
 🐰 Chef Cocoa - Marketing
 
-🐰 [Chef Fran](https://medium.com/pancakeswap/kitchen-interview-chef-fran-spanish-community-manager-and-a-lovely-mate-368c72102093) - Gerente da Comunidade Espanhola ([Twitter](https://twitter.com/ChefFranPS))
+🐰 [Chef Fran](https://medium.com/pancakeswap/kitchen-interview-chef-fran-spanish-community-manager-and-a-lovely-mate-368c72102093) - Gerente da Comunidade ([Twitter](https://twitter.com/ChefFranPS))
 
 🐰 Chef Oreo - Gerente de Comunidade

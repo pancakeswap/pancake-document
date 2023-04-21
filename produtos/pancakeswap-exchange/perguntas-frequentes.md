@@ -2,7 +2,7 @@
 
 ## Swap
 
-#### O que há de novo na Exchange V3? <a href="#whats-new-in-exchange-v3" id="whats-new-in-exchange-v3"></a>
+### O que há de novo na Exchange V3? <a href="#whats-new-in-exchange-v3" id="whats-new-in-exchange-v3"></a>
 
 * Liquidez concentrada - a liquidez estará concentrada na faixa(range) de preço mais ativamente negociada, o que significa:
   * Menor derrapagem de negociação para traders
@@ -13,7 +13,7 @@
 * Compatível com versões anteriores - aExchange v3 também utilizará os pares de liquidez de swap legados v2 e stable swap para sempre fornecer a melhor rota de negociação&#x20;
 * Ordem-limite integrada - Os usuários profissionais podem utilizar a nova faixa de preço personalizável no provisionamento de liquidez para criar efetivamente uma ordem de limite que converterá todos os tokens para o desejado quando o preço atingir a meta
 
-#### Posso adicinar meu próprio token na Exchange V3? <a href="#can-i-add-my-own-tokens-to-exchange-v3" id="can-i-add-my-own-tokens-to-exchange-v3"></a>
+### Posso adicinar meu próprio token na Exchange V3? <a href="#can-i-add-my-own-tokens-to-exchange-v3" id="can-i-add-my-own-tokens-to-exchange-v3"></a>
 
 Todos podem criar pools de liquidez depositando liquidez na V3. No entanto, os seguintes tokens **NÃO** são suportados no momento:&#x20;
 
@@ -22,7 +22,7 @@ Todos podem criar pools de liquidez depositando liquidez na V3. No entanto, os s
 
 Para esses tokens, **NÃO** adicione liquidez na Exchange V3. Seus ativos podem ficar presos na posição de liquidez.
 
-#### Por que minha transação não vai?  <a href="#how-come-my-transaction-wont-go-through" id="how-come-my-transaction-wont-go-through"></a>
+### Por que minha transação não vai?  <a href="#how-come-my-transaction-wont-go-through" id="how-come-my-transaction-wont-go-through"></a>
 
 A PancakeSwap é um aplicativo DeFi que interage com a carteira para concluir transações on-chain de swap, criação de LPs, stake em farms e pools, etc.&#x20;
 
@@ -40,17 +40,17 @@ Antes de fazer swaap de quaisquer tokens, certifique-se de ter visitado o site d
 
 Em alguns casos extremos, incluindo alguns golpes, alguns tokens ainda bloqueiam a maioria ou todas as transferências onchain, ou permitem apenas a venda de determinados endereços; nesse caso, é impossível fazer swap do token com sucesso. Aprenda sobre o token que você está tentando trocar e esteja ciente de quaisquer taxas e restrições!
 
-#### A nova interface de Swap usa a liquidez da v2 ou  do StableSwap? <a href="#does-the-new-swap-interface-use-v2-or-stable-swap-liquidity" id="does-the-new-swap-interface-use-v2-or-stable-swap-liquidity"></a>
+### A nova interface de Swap usa a liquidez da v2 ou  do StableSwap? <a href="#does-the-new-swap-interface-use-v2-or-stable-swap-liquidity" id="does-the-new-swap-interface-use-v2-or-stable-swap-liquidity"></a>
 
 Sim. O novo Swap v3 usa a liquidez da PancakeSwap v3, v2 e StableSwap para obter a melhor rota de negociação.
 
-### O que é divisáo de roteamento?
+#### O que é divisão de roteamento?
 
 No Swap v3, sua negociação pode ser dividida em várias rotas para executar sua negociação com a melhor taxa.&#x20;
 
 Para ver mais detalhes de como sua negociação é roteada, toque no botão “v” na seção “Rota” para expandir e visualizar os detalhes. Saiba mais [aqui](taxas-e-rotas.md).
 
-#### Como persoonalizar ou desabilitar certas fontes de liquidez? <a href="#how-to-customise-or-disable-certain-liquidity-sources" id="how-to-customise-or-disable-certain-liquidity-sources"></a>
+#### Como personalizar ou desabilitar certas fontes de liquidez? <a href="#how-to-customise-or-disable-certain-liquidity-sources" id="how-to-customise-or-disable-certain-liquidity-sources"></a>
 
 O novo Swap v3 usa a liquidez da PancakeSwap v3, v2 e StableSwap para obter a melhor rota de negociação. No entanto, você pode personalizar ou desabilitar certas fontes de liquidez se não quiser que sua negociação passe por elas.&#x20;
 
@@ -64,7 +64,7 @@ Saiba mais [aqui](taxas-e-rotas.md).
 
 ## Liquidez
 
-#### O que são níveis de taxas e como escolher o correto? <a href="#what-are-fee-tiers-and-how-to-pick-the-correct-one" id="what-are-fee-tiers-and-how-to-pick-the-correct-one"></a>
+### O que são níveis de taxas e como escolher o correto? <a href="#what-are-fee-tiers-and-how-to-pick-the-correct-one" id="what-are-fee-tiers-and-how-to-pick-the-correct-one"></a>
 
 No Exchange v3, ao fornecer liquidez, você pode escolher entre várias taxas de negociação diferentes (0,01%, 0,05%, 0,25% e 0,1%) para o mesmo par de tokens.&#x20;
 
@@ -74,13 +74,13 @@ Não há uma resposta “correta” para qual configuração de taxa de negocia�
 
 Ao selecionar um par de tokens, a interface “Adicionar liquidez” escolherá automaticamente o nível de taxa mais popular para você.
 
-#### Por que dois dos meus tokens de depósito não são iguais em valor em USD? <a href="#why-two-of-my-deposit-tokens-are-not-equal-in-usd-value" id="why-two-of-my-deposit-tokens-are-not-equal-in-usd-value"></a>
+### Por que dois dos meus tokens de depósito não são iguais em valor em USD? <a href="#why-two-of-my-deposit-tokens-are-not-equal-in-usd-value" id="why-two-of-my-deposit-tokens-are-not-equal-in-usd-value"></a>
 
 Na Exchange V3, os ativos subjacentes em uma posição de liquidez nem sempre terão um valor igual em USD. Isso dependerá das configurações de faixa(range) de preço de uma posição e do preço atual do par.&#x20;
 
 Na verdade. Se sua posição sair do intervalo, todos os tokens serão convertidos em um único ativo. Além disso, você pode fornecer liquidez a uma faixa de preço que não cobre o preço atual e depositar apenas um único ativo. Continue lendo para saber mais ⬇️
 
-#### O que acontece se minha posição de liquidez sair da faixa(range)? <a href="#what-happens-if-my-liquidity-position-goes-out-of-range" id="what-happens-if-my-liquidity-position-goes-out-of-range"></a>
+### O que acontece se minha posição de liquidez sair da faixa(range)? <a href="#what-happens-if-my-liquidity-position-goes-out-of-range" id="what-happens-if-my-liquidity-position-goes-out-of-range"></a>
 
 Você não ganhará nenhuma recompensa de taxa de negociação se o preço atual sair da faixa de preço definida em sua posição.
 
@@ -90,7 +90,7 @@ Por exemplo, se uma posição de CAKE/BUSD for configurada com uma faixa de pre�
 
 Observe que, se o preço voltar ao intervalo, você começará a receber recompensas de taxas de negociação novamente. Nenhuma ação adicional é necessária.
 
-#### É melhor sempre fornecer liquidez em um faixa menor? <a href="#is-it-better-to-always-provide-liquidity-with-a-smaller-range" id="is-it-better-to-always-provide-liquidity-with-a-smaller-range"></a>
+### É melhor sempre fornecer liquidez em um faixa menor? <a href="#is-it-better-to-always-provide-liquidity-with-a-smaller-range" id="is-it-better-to-always-provide-liquidity-with-a-smaller-range"></a>
 
 Fornecer liquidez em uma faixa de preço menor ajudará a concentrar sua liquidez em uma faixa de preço específica, aumentando suas ações relativas novamente a liquidez total dentro da faixa de preço, potencialmente ganhando mais recompensas de taxa de negociação.&#x20;
 
@@ -100,7 +100,7 @@ No entanto, tenha em mente que apenas posições de liquidez ativas ganharão re
 
 O recurso de gerenciamento automático de posição está chegando em breve à PancakeSwap v3 com depósito de liquidez com um clique (Zap!). Fique ligado para mais detalhes.
 
-#### Qual é distribuição detalhada da taxa de negociação na Exchange v3? <a href="#what-will-be-the-trading-fee-breakdown-for-v3-exchange" id="what-will-be-the-trading-fee-breakdown-for-v3-exchange"></a>
+### Qual é distribuição detalhada da taxa de negociação na Exchange v3? <a href="#what-will-be-the-trading-fee-breakdown-for-v3-exchange" id="what-will-be-the-trading-fee-breakdown-for-v3-exchange"></a>
 
 | Text                   | 0,01% | 0,05% | 0,25% | 1%  |
 | ---------------------- | ----- | ----- | ----- | --- |
@@ -108,13 +108,13 @@ O recurso de gerenciamento automático de posição está chegando em breve à P
 | Queima de CAKE         | 10%   | 10%   | 23%   | 23% |
 | Tesouro                | 23%   | 24%   | 9%    | 9%  |
 
-#### As recompensas de taxa de LP são reinvestidas automaticamente como na Exchange v2? <a href="#are-lp-fee-rewards-automatically-compounded-like-exchange-v2" id="are-lp-fee-rewards-automatically-compounded-like-exchange-v2"></a>
+### As recompensas de taxa de LP são reinvestidas automaticamente como na Exchange v2? <a href="#are-lp-fee-rewards-automatically-compounded-like-exchange-v2" id="are-lp-fee-rewards-automatically-compounded-like-exchange-v2"></a>
 
 Não
 
 Na Exchange v3, você precisará reivindicar as recompensas de taxas de negociação manualmente. Você pode fazer isso na página de detalhes da posição. Você pode encontrar todas as suas posições de liquidez v3 na página de liquidez.
 
-#### O que afeta o APR do LP?
+### O que afeta o APR do LP?
 
 Na Exchange v3, o APR de recompensa de taxa de LP pode variar entre as posições de liquidez. É baseado nos seguintes fatores:
 
@@ -131,7 +131,7 @@ Na Exchange v3, o APR de recompensa de taxa de LP pode variar entre as posiçõe
 * Se a posição de liquidez está ativa\
   \-apenas posições de liquidez ativas ganharão recompensas de taxas de negociação
 
-#### Posso fornecer liquidez v2? <a href="#can-i-provide-v2-liquidity" id="can-i-provide-v2-liquidity"></a>
+### Posso fornecer liquidez v2? <a href="#can-i-provide-v2-liquidity" id="can-i-provide-v2-liquidity"></a>
 
 Fornecer liquidez v2 não é mais aconselhável. Recomendamos usar a liquidez v3 para aproveitar os novos recursos para melhorar a eficiência.&#x20;
 
@@ -140,6 +140,6 @@ Se você deseja prosseguir com a adição de liquidez v2:&#x20;
 * Se o par de tokens não tiver uma pool v3 ou tiver mais liquidez na v2 do que a maior pool na v3. Um “Adicionar Liquidez V2” aparecerá. Basta clicar para alternar para a adição de liquidez v2&#x20;
 * Como alternativa, use `/v2` no URL para sempre usar o fornecimento de liquidez v2
 
-#### Como gerenciar LP de stable e LP v2 legado? <a href="#how-to-manage-stable-lp-and-legacy-v2-lp" id="how-to-manage-stable-lp-and-legacy-v2-lp"></a>
+### Como gerenciar LP de stable e LP v2 legado? <a href="#how-to-manage-stable-lp-and-legacy-v2-lp" id="how-to-manage-stable-lp-and-legacy-v2-lp"></a>
 
 Você pode gerenciá-los normalmente acessando a p\[agina de [Liquidez](https://pancakeswap.finance/liquidity).

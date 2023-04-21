@@ -16,7 +16,7 @@ Quanto mais tempo uma rodada estiver aberta, mais pessoas poderão comprar um bi
 
 ‌1. Visite a[ Página da Loteria da PancakeSwap](https://pancakeswap.finance/lottery) e observe o topo da página. Você verá a pool do prêmio da rodada atual sendo mostrado em valores em doláres (estimado).
 
-![](<../../.gitbook/assets/image (93).png>)
+![](<../../.gitbook/assets/image (93) (1).png>)
 
 Essa é a quantidade a ser compartilhada entre todos os vencedores.
 

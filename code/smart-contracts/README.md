@@ -32,7 +32,7 @@ Cada Farm usado pela PancakeSwap tem seu próprio contrato inteligente. Siga as 
 
 2. Quando a seção de detalhes se expandir, clique no link **Exibir contrato** à esquerda para abrir o contrato na BscScan.
 
-![](<../../.gitbook/assets/image (127).png>)
+![](<../../.gitbook/assets/image (127) (1).png>)
 
 ## Contratos de IFO
 
@@ -52,7 +52,7 @@ Vá para a [Página de IFO da PancakeSwap](https://pancakeswap.finance/ifo) e pr
 
 2. Encontre o banner do IFO que você gostaria de ver e clique no botão de seta para baixo para expandi-lo.
 
-![](<../../.gitbook/assets/image (130).png>)
+![](<../../.gitbook/assets/image (130) (1).png>)
 
 3. Localize e clique no link **Exibir contrato** no canto inferior direito das informações expandidas.
 

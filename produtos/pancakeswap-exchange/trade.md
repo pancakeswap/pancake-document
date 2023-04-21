@@ -20,6 +20,6 @@ Para pools de liquidez da Exchange V2, é aplicada uma taxa de negociação fixa
 
 **0,0575%** - Enviado para recompra e queima de CAKE.
 
-![](<../../.gitbook/assets/image (18) (2).png>)
+![](<../../.gitbook/assets/image (18).png>)
 
 Observe que na [Aptos](https://aptos.pancakeswap.finance/swap), apenas a PancakeSwap Exchange V2 é implantada, portanto, todos os swaps de token na Aptos terão uma taxa de negociação fixa de 0,25% com o mesmo detalhamento mencionado acima.

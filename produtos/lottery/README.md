@@ -34,7 +34,7 @@ Os números devem corresponder, **em ordem a partir do lado esquerdo do seu bilh
 
 Números sorteados
 
-![Drawn Numbers](<../../.gitbook/assets/image (148).png>)
+![Drawn Numbers](<../../.gitbook/assets/image (148) (1).png>)
 
 Os números do seu bilhete
 

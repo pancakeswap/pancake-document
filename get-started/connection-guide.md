@@ -57,7 +57,7 @@ Para conectar a MetaMask na PancakeSwap siga os passos abaixo.
 
 1. Abra a MetaMask e clique no ícone no canto superior esquerdo.
 
-![](<../.gitbook/assets/image (72).png>)
+![](<../.gitbook/assets/image (72) (1).png>)
 
 1. Clique em **Settings/Configurações** no menu.
 
@@ -81,7 +81,7 @@ Para conectar a MetaMask na PancakeSwap siga os passos abaixo.
 
 1. Uma vez qye vicê tenha confirmado a entrada da nova rede, volte para o menu e clique em  **Browser**.
 
-![](<../.gitbook/assets/image (76).png>)
+![](<../.gitbook/assets/image (76) (1).png>)
 
 1. Digite "PancakeSwap" no campo de busca e comece a busca. O resultado do topo será a exchange PancakeSwap. Clique para entrar.
 2. Sua carteira vai perguntar se quer conectar. Clique **Connect** para conectar na PancakeSwap.
@@ -132,7 +132,7 @@ Token Pocket é um app de gerenciamento de criptoativos que suporta nativamente 
 
 1. Você verá abrir uma página de navegador de DApp. No "Recommended", encontre e clique no símbolo da **PancakeSwap.** Se você não pode ver PancakeSwap, você também pode pesquisar isso em "BSC".
 
-![](<../.gitbook/assets/image (79).png>)
+![](<../.gitbook/assets/image (79) (2).png>)
 
 1. Uma janela vai abrir dizendo que você vai abrir um DApp de terceiros. Clique em **I got it** e você será levado ao site da PancakeSwap conectado na sua carteira.
 
@@ -144,7 +144,7 @@ Token Pocket é um app de gerenciamento de criptoativos que suporta nativamente 
 {% endtab %}
 
 {% tab title="SafePal" %}
-![](<../.gitbook/assets/image (26) (1) (1).png>)
+![](<../.gitbook/assets/image (26) (1).png>)
 
 SafePal está disponível tanto como carteira de software quanto em hardware. A carteira é facil de instalar e criar e vem pronta para suportar BEP2 (Binance Chain) e BEP20 (BNB Smart Chain) imediatamente.
 
@@ -156,7 +156,7 @@ SafePal está disponível tanto como carteira de software quanto em hardware. A 
 
 1. Você vai ver a página do navegador de DApp abrir. Em "DeFi", encontre e clique na imagem da **PancakeSwap**. Se você não puder ver PancakeSwap em DeFi, você também pode entrar isso em "BSC".
 
-![](<../.gitbook/assets/image (83) (1).png>)
+![](<../.gitbook/assets/image (83).png>)
 
 1. Uma janela vai abrir dizendo que você está abrindo um DApp de terceiros. Clique **Confirm** e você será levado para a página da PancakeSwap conectado na sua carteira.
 

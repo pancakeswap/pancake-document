@@ -16,26 +16,26 @@ Neste exemplo, adicionaremos liquidez V3 usando ETH e USDC.
 
 1 - Visite a página de [Liquidez](https://pancakeswap.finance/liquidity).
 
-<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 2 - Clique no botão de “Adicionar Liquidez”.
 
 3 - Usando a caixa de entrada superior esquerda, escolha os dois tokens no par de negociação que você deseja adicionar liquidez. Aqui, vamos usar ETH e USDC como exemplo.
 
-## ![](<../../.gitbook/assets/image (83).png>)
+## ![](<../../.gitbook/assets/image (76).png>)
 
 4 - A interface escolherá automaticamente o nível de taxa de negociação mais popular e configurará a faixa de preço para você.
 
 5 - Você pode confirmar a versão, bem como o nível de taxa da pool de liquidez que está fornecendo, procurando nas telas “V3 LP - x% taxa nível”.
 
-![](<../../.gitbook/assets/image (32).png>)
+![](<../../.gitbook/assets/image (166).png>)
 
 * Se você quiser personalizar o nível de taxa, clique em “Mais” e escolha o nível de taxa desejado.&#x20;
 * Observe que é sempre aconselhável fornecer liquidez no nível de taxa mais popular.
 
 6 - Você pode revisar e confirmar a faixa de preço nos displays do lado direito.
 
-<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
 
 * O gráfico mostra o nível de liquidez em todas as faixas de preço (range). Você pode aumentar e diminuir o zoom usando os botões de lupa. Você pode deslocar e navegar no gráfico arrastando o eixo x inferior.&#x20;
 * Se você quiser personalizar a faixa de preço. Basta arrastar as alças, clicar nos botões + e - nos dois preços ou clicar nos dois números de preço e inseri-los manualmente.&#x20;
@@ -43,25 +43,25 @@ Neste exemplo, adicionaremos liquidez V3 usando ETH e USDC.
 
 7 - Insira um valor em um dos tokens em “Valor do Depósito”. O outro deve ser calculado e preenchido automaticamente. Se um dos tokens não tiver saldo suficiente, você verá um erro e o botão ficará acinzentado. Insira um valor menor para prosseguir ou use o botão “MAX” para preencher o valor máximo disponível.
 
-![](<../../.gitbook/assets/image (55).png>)
+![](<../../.gitbook/assets/image (174).png>)
 
 8 - Clique no botão “Habilitar USDC”. Se você estiver adicionando liquidez contra tokens que não sejam ETH, talvez seja necessário clicar em habilitar duas vezes para cada token em seu par. Sua carteira solicitará que você confirme a ação.
 
-![](<../../.gitbook/assets/image (33).png>)
+![](<../../.gitbook/assets/image (148).png>)
 
 9 - O botão “Adicionar” acenderá. Clique para prosseguir.
 
-![](<../../.gitbook/assets/image (59).png>)
+![](<../../.gitbook/assets/image (181).png>)
 
 10 - Uma nova janela pop-up aparecerá para visualizar sua posição de liquidez. Se tudo estiver correto, clique em “Adicionar” novamente para prosseguir.
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (173).png" alt=""><figcaption></figcaption></figure>
 
 11 - Sua carteira pedirá confirmação. Confirme a transação de sua carteira.
 
 12 - Logo após, você verá sua nova posição de liquidez na página “Minha Liquidez”. E você poderá conferir seus detalhes clicando na posição.
 
-<figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 
 ### **Removendo Liquidez**
 
@@ -73,11 +73,11 @@ Para remover a liquidez.
 
 2 - Clique na posição que deseja remover liquidez em “Sua Liquidez”. Você pode usar o filtro para verificar rapidamente todas as posições de liquidez V3.
 
-![](<../../.gitbook/assets/image (58).png>)
+![](<../../.gitbook/assets/image (31).png>)
 
 3 - Clique em “Remover”. Uma nova janela aparecerá.
 
-![](<../../.gitbook/assets/image (57).png>)
+![](<../../.gitbook/assets/image (16).png>)
 
 4 - Use os botões ou controle deslizante para escolher quanta liquidez deseja remover. Escolha “MAX” para remover toda a sua liquidez deste par.&#x20;
 
