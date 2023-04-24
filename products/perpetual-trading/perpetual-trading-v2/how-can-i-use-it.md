@@ -4,7 +4,7 @@ description: How to use V2 Perpetuals Trading
 
 # How can I use it?
 
-![](../../../../.gitbook/assets/how-to-pancakeswap-without-cex-header.png)
+![](../../../.gitbook/assets/how-to-pancakeswap-without-cex-header.png)
 
 Using this functionality is really easy (the difficult thing is to trade well). We will only have to follow a series of steps so that our experience is complete. For more information, please visit the [V2 Glossary](perpetuals-glossary.md).
 
@@ -16,17 +16,17 @@ You can enter from the [site](https://pancakeswap.finance), in the Trade → Per
 
 You can select a tradable pair by clicking on the arrow next to the pair, at the top of the page.
 
-<figure><img src="../../../../.gitbook/assets/Perp7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Perp7.png" alt=""><figcaption></figcaption></figure>
 
 More tradable pairs will come soon!
 
-<figure><img src="../../../../.gitbook/assets/Perp8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Perp8.png" alt=""><figcaption></figcaption></figure>
 
 ### Analyze the chart and decide your trading strategy
 
 It’s trading time!! Let’s get serious. You can analyze the chart your way, with all the tools available
 
-<figure><img src="../../../../.gitbook/assets/Perp9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Perp9.png" alt=""><figcaption></figcaption></figure>
 
 **Do you know how to do it or do you want to improve in your analysis?**
 
@@ -40,7 +40,7 @@ Here is a guide to get started in the world of chart analysis:
 
 Then, in the upper right part you have the board to position your order.
 
-<figure><img src="../../../../.gitbook/assets/Perp1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Perp1.png" alt=""><figcaption></figcaption></figure>
 
 Here you must set several parameters, like:
 
@@ -48,13 +48,13 @@ _Not in an specific order_
 
 1. Long Or Short&#x20;
 
-<figure><img src="../../../../.gitbook/assets/Perp2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Perp2.png" alt=""><figcaption></figcaption></figure>
 
 Select the trade position you would like to adopt
 
 &#x20; 2\. The x of the leverage
 
-<figure><img src="../../../../.gitbook/assets/Perp3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Perp3.png" alt=""><figcaption></figcaption></figure>
 
 Move the bunny to select the appropriate leverage position. You can also manually enter the position in the box on the left.
 
@@ -62,17 +62,17 @@ Disclaimer: Remember that a high level of leverage carries a very high risk, use
 
 &#x20;   3\. Type or Order
 
-<figure><img src="../../../../.gitbook/assets/Perp10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Perp10.png" alt=""><figcaption></figcaption></figure>
 
 &#x20;  4\. Set the order size and place a price for your order (For limit orders)
 
-![](../../../../.gitbook/assets/Perp3.png)
+![](../../../.gitbook/assets/Perp3.png)
 
 You can also choose the reference currency to see your position.
 
 5. Take Profit/Stop Loss & Slippage
 
-<figure><img src="../../../../.gitbook/assets/Perp6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Perp6.png" alt=""><figcaption></figcaption></figure>
 
 Users can set a take profit or stop loss price when opening a position.
 
@@ -86,18 +86,18 @@ Note: You can hover over each option for more information. Please refer to [Perp
 
 When all the parameters have been set, you can send the order by clicking on Open Position
 
-![](../../../../.gitbook/assets/Perp4.png)
+![](../../../.gitbook/assets/Perp4.png)
 
 ### Checking your position
 
 Once the order has been sent, it will appear in "Open Orders" until filled out.
 
-![](../../../../.gitbook/assets/Perp11.png)
+![](../../../.gitbook/assets/Perp11.png)
 
 ### Live!
 
 When it is filled, your position will be live. You can see it in the positions panel. Also you can view, edit, or close it.
 
-![](../../../../.gitbook/assets/Perp5.png)
+![](../../../.gitbook/assets/Perp5.png)
 
 Good luck with your trades!

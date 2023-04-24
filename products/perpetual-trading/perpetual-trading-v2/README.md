@@ -4,7 +4,7 @@ description: What's new in V2?
 
 # Perpetual Trading V2
 
-<figure><img src="../../../../.gitbook/assets/perpperp (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/perpperp (1).png" alt=""><figcaption></figcaption></figure>
 
 In Pancakeswap Perpetuals V2, we've streamlined our interface by **removing the order book and market depth displays**. Instead, our partners ApolloX have introduced the ALP pool, which now provides liquidity for all trading pairs, maximizing your capital usage. The ALP pool will actively participate in the market-making process for our V2 perpetual contracts. Please [visit this page](https://apollox-finance.gitbook.io/apollox-finance/welcome/trading-v2/powered-by-binance-oracle-and-chainlink) to read more on the V2 low latency oracle model.
 

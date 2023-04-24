@@ -46,7 +46,7 @@ Here is an example:
 
 Providing liquidity gives you a reward in the form of trading fees when people use your liquidity pool to complete swaps.
 
-Whenever someone trades on PancakeSwap, for each hop (swap) in each Exchange V3 liquidity pool, depending on the liquidity pool fee tier, the trader pays a fee ranging from 0.01% to 0.1%. Their fee rates and fee breakdowns are shown as follows:
+Whenever someone trades on PancakeSwap, for each hop (swap) in each Exchange V3 liquidity pool, depending on the liquidity pool fee tier, the trader pays a fee ranging from 0.01% to 1%. Their fee rates and fee breakdowns are shown as follows:
 
 |                    | 0.01% | 0.05% | 0.25% | 1%  |
 | ------------------ | ----- | ----- | ----- | --- |

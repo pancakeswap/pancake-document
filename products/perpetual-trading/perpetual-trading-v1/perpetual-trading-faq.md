@@ -1,6 +1,6 @@
 # V1 Perpetual Trading FAQ
 
-![](../../../../.gitbook/assets/general-faq-header.png)
+![](../../../.gitbook/assets/general-faq-header.png)
 
 ### What is the value contribution of this new feature to the cake holders?
 
@@ -26,7 +26,7 @@ Remember that you must first deposit your funds into the Futures account!
 
 ApolloX is providing the [support ticket system](https://apolloxbroker.zendesk.com/hc/en-us/requests/new) for our perpetual's market! If this is happening to you, click on the headset icon in the top right of the perpetuals page to place a ticket!
 
-![](../../../../.gitbook/assets/ApolloXSupportTicket\_Fix.png)
+![](../../../.gitbook/assets/ApolloXSupportTicket\_Fix.png)
 
 ### How does ApolloX determine which user is from PCS and which user is from their own website?
 

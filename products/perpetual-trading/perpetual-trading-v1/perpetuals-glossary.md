@@ -1,4 +1,4 @@
-# Glossary
+# Perpetuals V1 Glossary
 
 **Here you will find defined all the terms inherent in futures trading**
 

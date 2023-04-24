@@ -1,6 +1,6 @@
 # V2 Launch Campaign
 
-<figure><img src="../../../../.gitbook/assets/png (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/png (2).png" alt=""><figcaption></figcaption></figure>
 
 To celebrate the launch of PancakeSwap Perpertuals V2 with ApolloX, we are giving away USD 20 in CAKE each day to 25 randomly selected lucky winners for the next 10 days!\
 \

@@ -24,7 +24,7 @@ Leverage is a trading mechanism. Traders can use it to increase their exposure t
 
 Users can check the details of their opened positions, such as the opening price, by clicking on "Position" located at the bottom of the trading page. They can view details such as opening price, number of positions, latest price and forced liquidation price.
 
-<figure><img src="../../../../.gitbook/assets/Perp5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Perp5.png" alt=""><figcaption></figcaption></figure>
 
 **Position mode**
 
