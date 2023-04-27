@@ -8,7 +8,7 @@ PancakeSwap 上的 [代币兑换](https://pancakeswap.finance/swap) 为一种简
 
 当您在 [BNB 智能链](https://pancakeswap.finance/swap?chain=bsc) 或 [以太链](https://pancakeswap.finance/swap?chain=eth) 上的PancakeSwap 进行代币兑换（交易）时，您将根据您的交易经过的流动性池类型支付交易费用。您可以通过点击 "路由" 那栏的放大镜图标来检查交易路径的详细信息。&#x20;
 
-对于 V3 交易系统的流动性池，目前有四个不同的收费等级：0.01%、0.05%、0.25% 和 0.1%。&#x20;
+对于 V3 交易系统的流动性池，目前有四个不同的收费等级：0.01%、0.05%、0.25% 和 1%。&#x20;
 
 对于 StableSwap 流动性池，费率取决于各个池子的配置。请查看 “[费用](../wen-ding-bi-dui-huan/#wen-ding-bi-jiao-yi-fei-yong)” 部分以了解更多细节。
 
