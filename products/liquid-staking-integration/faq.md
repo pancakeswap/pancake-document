@@ -26,4 +26,4 @@ No. Staking rewards accrue in the WBETH token. This means that the WBETH token w
 
 #### How do I convert WBETH back to ETH?
 
-You can convert WBETH to ETH through our swap page. PancakeSwap is also working to support a conversion contract on our liquid staking page to convert WBETH back to ETH seamlessly.
+You can convert WBETH to ETH through our [swap page](https://pancakeswap.finance/swap?inputCurrency=0xa2E3356610840701BDf5611a53974510Ae27E2e1\&outputCurrency=0x2170Ed0880ac9A755fd29B2688956BD959F933F8). PancakeSwap is also working to support a conversion contract on our liquid staking page to convert WBETH back to ETH seamlessly.

@@ -86,7 +86,7 @@ Learn more in [here](fees-and-routes.md#customize-liquidity-sources).
 
 ### What are fee tiers and how to pick the correct one?
 
-In Exchange v3, when you are providing liquidity, you can choose between several different trading fees (0.01%, 0.05%, 0.25%, and 0.1%) for the same token pair.
+In Exchange v3, when you are providing liquidity, you can choose between several different trading fees (0.01%, 0.05%, 0.25%, and 1%) for the same token pair.
 
 For example, for CAKE-BNB, there might be a 0.25% pair, which means a 0.25% trading fee is in place for every trade. However, some liquidity providers might choose to provide liquidity to a CAKE-BNB trading pair with a 0.05% fee rate, offers a better quote and attract more trading volume.
 
