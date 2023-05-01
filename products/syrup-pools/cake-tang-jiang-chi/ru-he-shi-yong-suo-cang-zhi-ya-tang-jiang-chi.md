@@ -93,5 +93,3 @@
 <figure><img src="../../../.gitbook/assets/增加并延长APR.jpg" alt=""><figcaption></figcaption></figure>
 
 3\.   仔细检查以确保您增加的 CAKE 数量和锁仓持续时间没有问题，然后单击**确认**。
-
-3\. 仔细检查以确保您增加的 CAKE 数量和锁仓持续时间没有问题，然后单击**确认**。

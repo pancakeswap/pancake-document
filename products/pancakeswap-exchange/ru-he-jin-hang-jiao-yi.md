@@ -2,63 +2,58 @@
 
 ![](../../.gitbook/assets/how-to-trade-on-pancakeswap-header.png)
 
-与其他大多数交易平台相比，在PancakeSwap 上交易十分方便。网页设计时已经考量到您做交易时需要的全部计算，并且自动帮您算好了。您不需要看一堆的图标以及行话才能进行交易。
+与其他大多数交易平台相比，在PancakeSwap 上交易十分方便。您不需要看一堆的图标以及行话才能进行交易，交易路径和复杂的计算都由 PancakeSwap 智能路由为你处理。
 
 ### 交易前准备
 
-在进行交易前，您需要准备一个兼容BNB智能链的钱包。您可以[点击这里](../../get-started/wallet-guide.md)学习如何取得。您还需要准备一些BEP20代币来进行交易。您可以[点击这里](../../get-started/bep20-guide.md)学习如何开始。
+在进行交易前，您需要准备一个兼容 BNB 智能链或者以太链的钱包。您可以[点击这里](../../get-started/wallet-guide.md)学习如何准备。您还需要准备一些 BEP20 或者 ERC20 代币来进行交易。您可以[点击这里](../../get-started/bep20-guide.md)学习如何获取。
 
-### 如何在PancakeSwap交易所交易
+另外，你可以在[这里](../../ru-men-zhi-nan-aptos/chuang-jian-qian-bao.md)了解如何获得一个与 Aptos 链兼容的钱包，以及点击[这里](../../ru-men-zhi-nan-aptos/huo-qu-aptos-dai-bi.md)学习如何获得一些 Aptos 的代币并进行兑换。
+
+## 如何在PancakeSwap交易所交易
 
 1. 跳转到[交易页面](https://pancakeswap.finance/swap#/swap)
-2. 通过点击**解锁钱包**解锁您的BNB智能链兼容钱包（可以透过右上角的**连接**）。如果您还没有将您的钱包连接到PancakeSwap, 您可以查看[这里的指南](../../get-started/connection-guide.md)
+2. 通过点击右上角的**连接钱包**来连接您的钱包。如果您还不会将您的钱包连接到 PancakeSwap, 您可以查看[这里的指南](../../get-started/connection-guide.md)。
 
 <figure><img src="../../.gitbook/assets/链接钱包.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;3\. 点击代币右边的小箭头下拉菜单中选择您需要交易的代币。默认设置为BNB。
+&#x20; 3\. 点击代币右边的小箭头下拉菜单中选择您需要交易的代币。默认设置为 BNB。无论您选择哪种代币，都需要确保您手中有一些代币可用于交易。您钱包中该代币的余额数量显示在代币下拉菜单的右边。
 
 <figure><img src="../../.gitbook/assets/交易1.png" alt=""><figcaption></figcaption></figure>
 
-无论您选择哪种代币，都需要确保您手中有一些代币可用于交易。您钱包中该代币的余额数量显示在代币下拉菜单的右边。
 
-4\. 在下图的代币下拉菜单中选择您想购入的代币，接下来，通过在输入框中单击来输入您想购入的数量。
 
-<figure><img src="../../.gitbook/assets/交易2.png" alt=""><figcaption></figcaption></figure>
+4. &#x20;在下图的代币下拉菜单中选择您想购入的代币。
 
-系统将自动计算您可换得/需支付的代币数量。
+<figure><img src="../../.gitbook/assets/如何交易. png (1).png" alt=""><figcaption></figcaption></figure>
 
-5\. 检查无误后，点击 "兑换" 按钮。
+5. 接下来，在上面的输入框入一个金额，输入你想兑换的代币数量（支出金额），或者在下面的输入框输入一个金额，输入你想获得的代币数量（接收金额）。 无论你在哪一部分输入金额，另一部分的金额都会被自动估算。
+6. 检查无误后，点击 "**兑换**" 按钮。如果你是第一次交易该代币，你可能需要先点击 "**启用XXX** (你的代币)" 来授权。
 
-<figure><img src="../../.gitbook/assets/交易3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/如何交易1. png.png" alt=""><figcaption></figcaption></figure>
 
-6\. 点击"兑换"后，会显示以下带详细信息的界面，请检查信息内容是否正确。
-
-<figure><img src="../../.gitbook/assets/交易4.png" alt=""><figcaption></figcaption></figure>
+6\. 点击 "兑换" 后，会显示以下带详细信息的界面，请检查信息内容是否正确。
 
 确认无误后，点击 “确认兑换” 按钮。您的钱包会弹出支付gas 的界面，您确认支付后，兑换操作将被传送上链。
+
+<figure><img src="../../.gitbook/assets/如何交易2. png.png" alt=""><figcaption></figcaption></figure>
 
 7\. 完成了！你可以点击 “View on BscScan” 在浏览器上查看这笔交易的细节。
 
 <figure><img src="../../.gitbook/assets/交易5.png" alt=""><figcaption></figcaption></figure>
 
-## 为什么我的链上操作不成功？
+## 什么是智能路由 V3，我该如何使用它？
 
-PancakeSwap 是一个 DeFi 应用程序，它与钱包交互以完成包括交易、创建 LP、在农场和糖浆池中质押等链上操作。&#x20;
+PancakeSwap 智能路由是一种连接 V3、V2、稳定币兑换（BNB 链）、自动化做市商和做市商（BNB 链和以太链）的路由算法，通过链接以上流动性来持续不断地提供流动性和报价。在默认情况下，执行交易时它会纳入多个流动性池的流动性，来为交易者计算出最佳价格。&#x20;
 
-### Gas 费&#x20;
+智能路由现在是 PancakeSwap V3 的默认交易路由。但是用户依然可以根据自己的需求自定义路由。&#x20;
 
-首先要确保你有**足够的 BNB 来支付链上操作的 Gas 费**。通常 Gas 费用会根据链上正排队中的待处理事务（transactions) 数量而波动，如果队列中有很多笔交易排队中，可能需要花费更高的 Gas 费用才能成功上链。在 BNB 智能链上，Gas 费通常按 BNB 计费从几美分到 1 美元不等。在此处了解有关 [Gas费的更多信息](https://academy.binance.com/en/glossary/gas)。
+要了解更多关于如何自定义路由的信息，请点击[这里](jiao-yi-fei-yong-he-lu-you-she-zhi.md)。
 
-### 交易费用（Transaction Fees）&#x20;
+关于稳定币兑换的更多信息，请点击[这里](../wen-ding-bi-dui-huan/)，关于做市商整合，请点击[这里](market-maker-integration.md)。
 
-如果您的交易未成功并且显示错误，您可以修改滑点 - 您可能需要检查尝试交易的代币是否有任何**交易费用**（俗称抽税）**和交易限制**。&#x20;
+## FAQ
 
-BNB 智能链上的代币在其合约中包含**交易费用**的情况并不少见，通常这些费用会被用于销毁、资助公平启动项目的金库——例如， [APX 代币对每笔交易都发送 1% 到销毁地址](https://apollox-finance.gitbook.io/apollox-finance/welcome/apx-token-and-contract/tax)，频繁的交易意味着更多的销毁，为 APX 代币持有者增加价值。
-
-由于交易费用的存在，无论是包含（部分交易金额发送到您的地址以外的其他地方，因此输出代币价值低于您按照输入价值计算出的预期价值）还是不包含（需要自您的钱包地址进行额外转帐以发送额外的代币，因此输入代币价值大大超过估计输出价值），它都会影响您同意签署的交易的输入和输出金额。在很多情况下，因抽税的缘故，同一个交易（transaction）中输出之价值与输入之价值难以匹配。&#x20;
-
-### 交易带有交易费用（Transaction Fees）的代币
-
-在您交换任何代币之前，请确保您已访问过他们的网站以了解他们是否有交易费用机制（或着许多项目所说的抽税）。如果有，请确保您设置的滑点足以容纳交易费用——例如如果交易费为 5%，则您的滑点必须设置为至少 5% 加上正常交易滑点，具体取决于您的交易金额和代币的流动性，例如 5.5%-6%。&#x20;
-
-在一些极端情况下，包括一些骗局，一些代币甚至限制链上大部分或者全部的转账，或者只允许某些特定地址出售，在这种情况下，您将无法成功兑换代币。请务必了解您尝试兑换的代币，并注意任何可能的费用和限制条件！
+{% hint style="info" %}
+这部分内容迁移到了[这里](faq.md)。
+{% endhint %}
