@@ -14,7 +14,7 @@
 
 <figure><img src="../../.gitbook/assets/交易费用和路由2.png" alt=""><figcaption></figcaption></figure>
 
-要检查您的交易目前是通过哪种类型的资金池和费用等级，请查看 "路由 "部分。
+要检查您的交易目前是通过哪种类型的资金池和费用级别，请查看 "路由" 部分。
 
 <figure><img src="../../.gitbook/assets/交易费用和路由3.png" alt=""><figcaption></figcaption></figure>
 
