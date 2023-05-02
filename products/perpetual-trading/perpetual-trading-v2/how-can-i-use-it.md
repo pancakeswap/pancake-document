@@ -60,7 +60,7 @@ Move the bunny to select the appropriate leverage position. You can also manuall
 
 Disclaimer: Remember that a high level of leverage carries a very high risk, use it wisely.
 
-&#x20;   3\. Type or Order
+&#x20;   3\. Type of Order
 
 <figure><img src="../../../.gitbook/assets/Perp10.png" alt=""><figcaption></figcaption></figure>
 
