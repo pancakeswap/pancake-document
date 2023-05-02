@@ -1,6 +1,6 @@
 # 如何添加/移除流动性
 
-<figure><img src="../../.gitbook/assets/how-to-add-remove-liquidity-header (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/how-to-add-remove-liquidity-header.png" alt=""><figcaption></figcaption></figure>
 
 “流动性”是 PancakeSwap 去中心化交易所的运作核心。您可以在流动性页面为任意代币对添加流动性。
 
@@ -18,7 +18,7 @@
 
 1. 访问[流动性页面](https://pancakeswap.finance/liquidity)。
 
-<figure><img src="../../.gitbook/assets/流动性添加教程1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/流动性添加教程1.png" alt=""><figcaption></figcaption></figure>
 
 2 - 点击 " 增加流动性 "按钮。
 
@@ -49,7 +49,7 @@
 
 8 - 点击 "批准 USDC" 按钮。如果您添加的是非 ETH 的流动性，您可能需要点击两次 "批准” 来对两个代币都进行授权。您将需要在钱包确认此次授权操作。
 
-<figure><img src="../../.gitbook/assets/流动性添加教程5 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/流动性添加教程5.png" alt=""><figcaption></figcaption></figure>
 
 9 - 完成后，"添加" 按钮将亮起。单击以继续。
 

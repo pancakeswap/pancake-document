@@ -1,6 +1,6 @@
 # 🔄 稳定币兑换
 
-<figure><img src="../../.gitbook/assets/docs masthead (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/docs masthead (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 PancakeSwap 上的 StableSwap 是一项基于不变曲线滑点函数，具有较低滑点的稳定币对交易的功能。 它旨在交换价格接近的特定资产——例如美元稳定币（例如 HAY、BUSD 和 USDT）或流动质押代币（liquid staking tokens）（例如 stkBNB 和 aBNBc）。&#x20;
 
@@ -30,15 +30,15 @@ Liquid staking 是一种快速成长的质押替代方案，可以通过发送�
 
 厨房将逐步推出更多的稳定交易对，并修改费用明细，以进一步测试和改进产品。
 
-## 为什么我应该使用 StableSwap 而不是普通的 AMM 兑换？&#x20;
+## 为什么我应该使用稳定币兑换而不是一般的自动化做市商（AMM）兑换？&#x20;
 
-* 相同的交易步骤下，更有效率效地交换交换您的稳定币或其他价格相似的资产！
-* 使用 StableSwap 功能，交易滑点低于仅使用恒定乘积公式的普通 AMM 。
+* 相同的交易步骤下，兑换您的稳定币或其他价格相似的资产将更高效！
+* 使用稳定币兑换功能，交易滑点低于仅使用恒定乘积公式的普通 AMM 。
 * 与普通的 AMM 相比，交易费用也更低。
 
 ## 厨房目前仍在修复和烹饪那些功能？&#x20;
 
-* StableSwap 和 Stable LP的用户界面指南优化
+* StableSwap 和 Stable LP 的用户界面指南优化
 * StableSwap 信息页面&#x20;
-* 添加更多的稳定交易对，以及现有LP的迁移
+* 添加更多的稳定交易对，以及现有 LP 的迁移
 
