@@ -46,7 +46,7 @@
   * [交易费用和路由设置](products/pancakeswap-exchange/jiao-yi-fei-yong-he-lu-you-she-zhi.md)
   * [流动性资金池](products/pancakeswap-exchange/liu-dong-zi-jin-chi.md)
   * [如何添加/移除流动性](products/pancakeswap-exchange/ru-he-tian-jia-yi-chu-liu-dong-xing.md)
-  * [FAQ](products/pancakeswap-exchange/faq.md)
+  * [FAQ](products/pancakeswap-exchange/chang-jian-wen-ti-jie-da.md)
   * [做市商整合](products/pancakeswap-exchange/market-maker-integration.md)
   * [智能路由 (V2)](products/pancakeswap-exchange/zhi-neng-lu-you-v2/README.md)
     * [如何通过智能路由进行交易？](products/pancakeswap-exchange/zhi-neng-lu-you-v2/ru-he-tong-guo-zhi-neng-lu-you-jin-hang-jiao-yi.md)

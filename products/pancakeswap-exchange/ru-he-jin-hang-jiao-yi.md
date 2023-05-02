@@ -25,7 +25,7 @@
 
 4. &#x20;在下图的代币下拉菜单中选择您想购入的代币。
 
-<figure><img src="../../.gitbook/assets/如何交易. png (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/如何交易. png.png" alt=""><figcaption></figcaption></figure>
 
 5. 接下来，在上面的输入框入一个金额，输入你想兑换的代币数量（支出金额），或者在下面的输入框输入一个金额，输入你想获得的代币数量（接收金额）。 无论你在哪一部分输入金额，另一部分的金额都会被自动估算。
 6. 检查无误后，点击 "**兑换**" 按钮。如果你是第一次交易该代币，你可能需要先点击 "**启用XXX** (你的代币)" 来授权。
@@ -55,5 +55,5 @@ PancakeSwap 智能路由是一种连接 V3、V2、稳定币兑换（BNB 链）�
 ## FAQ
 
 {% hint style="info" %}
-这部分内容迁移到了[这里](faq.md)。
+这部分内容迁移到了[这里](chang-jian-wen-ti-jie-da.md)。
 {% endhint %}

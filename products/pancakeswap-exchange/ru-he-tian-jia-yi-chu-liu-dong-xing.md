@@ -1,6 +1,6 @@
 # 如何添加/移除流动性
 
-<figure><img src="../../.gitbook/assets/how-to-add-remove-liquidity-header.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/how-to-add-remove-liquidity-header (1).png" alt=""><figcaption></figcaption></figure>
 
 “流动性”是 PancakeSwap 去中心化交易所的运作核心。您可以在流动性页面为任意代币对添加流动性。
 
@@ -24,7 +24,7 @@
 
 3 - 在左上角，找到代币对输入框，选择您想添加的两个代币。此例中，我们将使用 ETH和 USDC 做为范例。
 
-<figure><img src="../../.gitbook/assets/流动性添加教程2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/流动性添加教程2 (1).png" alt=""><figcaption></figcaption></figure>
 
 4 - 选择完成后，界面将自动帮您选择目前最受欢迎的交易费用级别 (tier)，并为您预设一个价格区间。
 
@@ -49,7 +49,7 @@
 
 8 - 点击 "批准 USDC" 按钮。如果您添加的是非 ETH 的流动性，您可能需要点击两次 "批准” 来对两个代币都进行授权。您将需要在钱包确认此次授权操作。
 
-<figure><img src="../../.gitbook/assets/流动性添加教程5 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/流动性添加教程5 (1).png" alt=""><figcaption></figcaption></figure>
 
 9 - 完成后，"添加" 按钮将亮起。单击以继续。
 
