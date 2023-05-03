@@ -6,7 +6,7 @@ description: >-
 
 # ¿Como migrar?
 
-![](<../../.gitbook/assets/0 (6).png>)
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 En Abril de 2023, PancakeSwap anunció la V3 para el Exchange y Farms. Algunos pares de farming deberán migrar para seguir ganando recompensas por staking. Relájate, como la última vez, será fácil.
 

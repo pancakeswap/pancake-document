@@ -61,7 +61,7 @@ En Farm v3, el APR de recompensa de CAKE podría variar entre las distintas posi
 
 ### ¿Por qué veo una ventana emergente "Update Positions" (Actualizar Posiciones)?
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (2).png" alt=""><figcaption></figcaption></figure>
 
 Poco después del lanzamiento de v3, se realizó una actualización para que los cálculos de recompensas sean más precisos y confiables.&#x20;
 
