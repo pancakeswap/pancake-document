@@ -6,55 +6,52 @@ description: PancakeSwap is now on Aptos!
 
 <figure><img src=".gitbook/assets/Aptos (1).png" alt=""><figcaption></figcaption></figure>
 
-We are deploying on Aptos and would like to start speaking with Aptos Project teams,  potentially introducing you to one of crypto’s largest, most engaged, and active DApp (with over 3M Monthly Active Users)!
+PancakeSwap (PCS) is the premier decentralized exchange (DEX) on Aptos, and we would love to speak with Aptos Project Teams, potentially introducing you to one of crypto’s largest, most engaged, and active DApps (with over 3M Monthly Active Users)!
 
-Since our start, PancakeSwap (PCS) has thrived in the Retail DeFi landscape, establishing ourselves as the leading DEX, with multiple industry-leading products –  liquidity pools; launchpads; prediction and perpetual products; NFT marketplaces – and of course, the best community 😉.
+Since our start, PancakeSwap has thrived in the Retail DeFi landscape, establishing ourselves as the leading DEX, with multiple industry-leading products –  liquidity pools; launchpads; prediction and perpetual products; NFT marketplace – and, of course, the best community 😉.&#x20;
 
-This page serves as a quick FAQ for Project Teams to find out a bit more about us – but if you have any questions, please reach out to **Chef Icy, BD Lead, on Twitter (**[**https://twitter.com/PancakeIcy**](https://twitter.com/PancakeIcy)**) or TG.**
+This page serves as a quick FAQ for Project Teams to learn more about us – but if you have any questions, please contact us on **Telegram (https://t.me/PancakeSwapBD).**
 
 ### The people's choice for all-things DeFi <a href="#h.hgrf93wsv7a4" id="h.hgrf93wsv7a4"></a>
 
-Simple is sexy, and so is safety!
+With about $2.5B in TVL, we like to move quickly and responsibly. With more than two years of experience in the crypto markets, from bull to bear, we have been delivering DeFi to our community.&#x20;
 
-With almost $3B in TVL, we like to move **quickly**, and do so **responsibly**. With two years of experience in the crypto markets, from bull to bear, from DeFi Summer (to Aptos Autumn?), we have been delivering DeFi to our community.
+Our partnerships with projects go beyond just liquidity mining programs (“Syrup Pools and Farms”) and genuinely recognize the impact of community on crypto – our dedicated team of crypto-native CMs and Admins help us to keep a pulse on the many diverse communities we serve. We also regularly host events with high engagement and user flow to projects: AMAs, meme contests, and many more!
 
-Our partnerships with projects also goes beyond just liquidity mining programs (“Syrup Pools and Farms”), and genuinely recognises the impact of community on crypto – our dedicated team of crypto-native CMs and Admins help us to keep a pulse on the many diverse communities we serve, and we regularly host events that see high engagement and user flow to projects: AMAs, Prize Challenges, and many more!
+### Interested? Let’s build together.
 
-### Okay, I’d bite – how do we get in touch? <a href="#h.1jf6b5kxx1rc" id="h.1jf6b5kxx1rc"></a>
+We support liquidity mining programs (“Syrup Pools and Farms”) and token launchpad offerings (“Initial Farm Offering, or IFO”) on Aptos PCS.
 
-We are launching on Aptos in tiered phases.
+1. Projects interested in Syrup Pools and Farms - please apply [here](https://docs.google.com/forms/d/e/1FAIpQLSceljMty-AKliByIMX6d1Kqtn88hMnzXnp\_DRBEQ7XptwiOGw/viewform)
+2. Projects interested in IFOs - please apply [here](https://docs.google.com/forms/d/e/1FAIpQLSf9gWv9L8U0PGYgl-ymeX1qgXncBSlJ1HV5gB6ZeW7e4ekV\_w/viewform)
 
-1. For our first phase, we will be hosting liquidity mining programs (“Syrup Pools and Farms”) – this will go live soon, so interested projects please apply [here](https://docs.google.com/forms/d/e/1FAIpQLSceljMty-AKliByIMX6d1Kqtn88hMnzXnp\_DRBEQ7XptwiOGw/viewform).
-2. For our second phase, we will be introducing launchpads (“Initial Farm Offering, or IFO”). This is scheduled to go live in mid-to-late November 2022, and we are currently collating a waitlist [here](https://docs.google.com/forms/d/e/1FAIpQLSf9gWv9L8U0PGYgl-ymeX1qgXncBSlJ1HV5gB6ZeW7e4ekV\_w/viewform).
+For more information about our liquidity mining programs (“Syrup Pools and Farms”), please view this PDF:\
 
-For more information about our liquidity mining programs (“Syrup Pools and Farms”) please view this PDF:
 
-{% file src=".gitbook/assets/PancakeSwap Aptos Syrup Pools & Farms (1).pdf" %}
+{% file src=".gitbook/assets/Aptos PancakeSwap IFOs.pdf" %}
 
-For more information about our launchpads (“Initial Farm Offering, or IFO”), please view this PDF:
+For more information about our token launchpad offerings (“Initial Farm Offering, or IFO”), please view this PDF:
 
-{% file src=".gitbook/assets/PancakeSwap Aptos IFOs.pdf" %}
+{% file src=".gitbook/assets/Aptos PancakeSwap Syrup Pools & Farms.pdf" %}
 
-### An example of the Syrup Pool/Farm process <a href="#h.pmok1ja7siuu" id="h.pmok1ja7siuu"></a>
+### An example of the Syrup Pool/Farm process
 
 1. Initial Outreach
    * We have a lovely chat (where we can share data, user stats, and memes) and your team decides to start the application process – let’s go!
    * Apply via this form [**here**](https://docs.google.com/forms/d/e/1FAIpQLSceljMty-AKliByIMX6d1Kqtn88hMnzXnp\_DRBEQ7XptwiOGw/viewform)**.**
 2. Due Diligence
-   * Using the information in the form, we would clarify some points (don’t worry, they’re not meaningless questions, but we take user safety seriously at PancakeSwap, and would also want to only introduce interesting projects to our community).
+   * Using the information in the form, we would clarify some points _(don’t worry, they’re not meaningless questions, but we take user safety seriously at PancakeSwap, and would also want to only introduce interesting projects to our community)_
    * Team passes due diligence – congrats!
 3. Marketing Prep
-   * We ask for some design assets, some project info, and create both a lovely banner (STEPN Example Below) and a [medium post](https://pancakeswap.finance/voting/proposal/QmTPyGYpg7Y4dEc9jLB9kwBrLe5kmnDSLfmk3GcFqPpdqs) (we have linked a proposal link, but as we will not be launching our voting mechanism in the initial Aptos deployment, we will use Medium).
-   * **Please note that prior to launch, PancakeSwap or Project Teams should not communicate the news of the collaboration.**
+   * We ask for some design assets, some project info, and create a lovely banner (STEPN Example Below)
+   * **Please note that before launch, PancakeSwap or Project Teams should keep the collaboration news private.**
 4. Launch
-   * We launch the pools/farms, and through our team of community admins, we will monitor, collate, and communicate any feedback raised by the community.
+   * We launch the Syrup Pool/Farm, and through our team of community admins, we will monitor, collate, and communicate any feedback the community raises.
    * We will also publish some socials on our [Twitter](https://twitter.com/pancakeswap/status/1501537445401481217) and Telegram
 5. Post-Launch
-   * We would continue to stay in touch, and work together wherever possible!
+   * We will continue to stay in touch and work together wherever possible!
 
 <figure><img src=".gitbook/assets/image1.png" alt=""><figcaption></figcaption></figure>
-
-
 
 ### An example of the IFO Process <a href="#h.tpl73qb418uk" id="h.tpl73qb418uk"></a>
 
@@ -62,21 +59,22 @@ For more information about our launchpads (“Initial Farm Offering, or IFO”),
    * We have a lovely chat (where we can share data, user stats, and macro, like the rest of CT) and your team decides to start the process – let’s go!
    * Apply via this form [**here**](https://docs.google.com/forms/d/e/1FAIpQLSf9gWv9L8U0PGYgl-ymeX1qgXncBSlJ1HV5gB6ZeW7e4ekV\_w/viewform).
 2. Due Diligence
-   * Using the information in the form, we would clarify some points (don’t worry, they’re not meaningless questions, but we take user safety seriously at PancakeSwap, and would also want to only introduce interesting projects to our community).
-   * For our IFOs, compared to our Syrup Pools/Farms, there is a bit more back-and-forth: we are happy to share our knowledge of best practices with regard to tokenomics, product, Go-To-Market (GTM) Strategy, etc.
+   * Using the information in the form, we would clarify some points
+   * For our IFOs, compared to our Syrup Pools/Farms, there is a bit more back-and-forth: we are happy to share our knowledge of best practices concerning tokenomics, product, Go-To-Market (GTM) Strategy, etc.
    * Team passes due diligence – congrats!
 3. Marketing Prep
-   * We will ask for some design assets, some project info, and create both a lovely banner (Wombat Exchange Example Below) and a [medium post ](https://pancakeswap.finance/voting/proposal/bafkreieqv7mbzmumyftstt6l32x6okfzq4syrea7k5zbqgohhcekcvbduu?chainId=56)(we have linked a proposal link, but as we will not be launching our voting mechanism in the initial Aptos deployment, we will use Medium).
+   * We will ask for some design assets, some project info, and create both a lovely banner (BlueMove example below) and a [Medium post](https://medium.com/pancakeswap/bluemove-move-ifo-to-be-hosted-on-aptos-pancakeswap-25adee83d1ee)
    * We will also start collating questions for the **AMA**
-   * **Please note that prior to launch, PancakeSwap or Project Teams should not communicate the news of the collaboration.**
+   * We will typically run a week-long [marketing campaign](https://twitter.com/PancakeSwap/status/1621841046983286784), including activities like social engagement, meme competitions, airdrops, project-specific tasks, etc.
+   * **Please note that before launch, PancakeSwap or Project Teams should keep the collaboration news private.**
 4. [AMA](https://twitter.com/PancakeSwap/status/1562648945721212929) (usually 1 day before IFO)
    * An interactive session with our community to clarify any questions and establish ✨vibes✨
 5. IFO Launch
-   * We will launch the IFO, and through our team of community admins, we will monitor, collate, and communicate any feedback raised by the community.
+   * We will launch the IFO, and through our team of community admins, we will monitor, collate, and communicate any feedback the community raises.
    * We will also publish some socials on our [Twitter](https://twitter.com/pancakeswap/status/1564616363871678484) and Telegram
 6. Post-Launch
-   * We would continue to stay in touch, and work together wherever possible! E.g. On post-IFO Wombat Partnership using PancakeSwap Bridge [here](https://twitter.com/PancakeSwap/status/1566694245213556737)
+   * We will continue to stay in touch and work together wherever possible!&#x20;
 
 At every step of the process, the team is here to help – we understand that for founders and their teams, the IFO or TGE Launch is extremely critical, and we leave nothing to chance.
 
-<figure><img src=".gitbook/assets/image2 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/ifo-aptos.png" alt=""><figcaption></figcaption></figure>
