@@ -28,7 +28,7 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Jojo - Frontend Dev ([Twitter](https://twitter.com/0xchefjojo))
 
-🐰 Chef Momota - Frontend Dev
+🐰 Chef Momota - Frontend Dev ([Twitter](https://twitter.com/chefmomota))
 
 🐰 Chef Yogi- Frontend Dev
 

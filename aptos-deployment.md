@@ -6,15 +6,17 @@ description: PancakeSwap is now on Aptos!
 
 <figure><img src=".gitbook/assets/Aptos (1).png" alt=""><figcaption></figcaption></figure>
 
-PancakeSwap (PCS) is the premier decentralized exchange (DEX) on Aptos, and we would love to speak with Aptos Project Teams, potentially introducing you to one of crypto’s largest, most engaged, and active DApps (with over 3M Monthly Active Users)!
+PancakeSwap (PCS) is the premier decentralized exchange (DEX) on Aptos, and we would love to speak with Aptos Project Teams, potentially introducing you to one of crypto’s largest, most engaged, and active DApps (with over 130K Daily Active Users)!
 
-Since our start, PancakeSwap has thrived in the Retail DeFi landscape, establishing ourselves as the leading DEX, with multiple industry-leading products –  liquidity pools; launchpads; prediction and perpetual products; NFT marketplace – and, of course, the best community 😉.&#x20;
+Since our start, PancakeSwap has thrived in the Retail DeFi landscape, establishing ourselves as the leading DEX, with multiple industry-leading products – liquidity pools; launchpads; prediction and perpetual products; NFT marketplace – and, of course, the best community 😉.
 
 This page serves as a quick FAQ for Project Teams to learn more about us – but if you have any questions, please contact us on **Telegram (https://t.me/PancakeSwapBD).**
 
 ### The people's choice for all-things DeFi <a href="#h.hgrf93wsv7a4" id="h.hgrf93wsv7a4"></a>
 
-With about $2.5B in TVL, we like to move quickly and responsibly. With more than two years of experience in the crypto markets, from bull to bear, we have been delivering DeFi to our community.&#x20;
+Simple is sexy, and so is safety!&#x20;
+
+With about $2.5B in TVL, we like to move **quickly** and **responsibly**. With more than two years of experience in the crypto markets, from bull to bear, we have been delivering DeFi to our community.&#x20;
 
 Our partnerships with projects go beyond just liquidity mining programs (“Syrup Pools and Farms”) and genuinely recognize the impact of community on crypto – our dedicated team of crypto-native CMs and Admins help us to keep a pulse on the many diverse communities we serve. We also regularly host events with high engagement and user flow to projects: AMAs, meme contests, and many more!
 
@@ -28,11 +30,11 @@ We support liquidity mining programs (“Syrup Pools and Farms”) and token lau
 For more information about our liquidity mining programs (“Syrup Pools and Farms”), please view this PDF:\
 
 
-{% file src=".gitbook/assets/Aptos PancakeSwap IFOs.pdf" %}
+{% file src=".gitbook/assets/Aptos PancakeSwap Syrup Pools & Farms.pdf" %}
 
 For more information about our token launchpad offerings (“Initial Farm Offering, or IFO”), please view this PDF:
 
-{% file src=".gitbook/assets/Aptos PancakeSwap Syrup Pools & Farms.pdf" %}
+{% file src=".gitbook/assets/Aptos PancakeSwap IFOs.pdf" %}
 
 ### An example of the Syrup Pool/Farm process
 
