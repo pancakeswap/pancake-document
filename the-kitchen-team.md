@@ -6,11 +6,11 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 ### The Chefs
 
-🐰 Chef Mochi - Head Chef
+🐰 Chef Mochi - Head Chef ([Twitter](https://twitter.com/chef\_mochi/))
 
 🐰 Chef Bun - Product Manager, 不是饺子 ([Twitter](http://twitter.com/chef\_bun\_pcs))
 
-🐰 Chef Gyoza - Product Manager
+🐰 Chef Gyoza - Product Manager ([Twitter](https://twitter.com/ChefGyoza))
 
 🐰 Chef Bamboo - Product Manager
 
@@ -20,9 +20,7 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Maroon - Business Dev
 
-🐰 Chef Lime - Ops/Data Analytics Dev
-
-🐰 Chef Mustard - Ops
+🐰 Chef Mustard - Ops ([Twitter](https://twitter.com/chef\_mustard))
 
 🐰 Chef Kiwi - Data Analytics
 
@@ -66,11 +64,11 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Melody - HR
 
-🐰 Chef Brownie - Marketing
+🐰 Chef Brownie - Marketing ([Twitter](https://twitter.com/Chef\_Browniee))
 
 🐰 Chef Cocoa - Marketing
 
 🐰 [Chef Fran](https://medium.com/pancakeswap/kitchen-interview-chef-fran-spanish-community-manager-and-a-lovely-mate-368c72102093) - Community Manager ([Twitter](https://twitter.com/ChefFranPS))
 
-🐰 Chef Oreo - Community Manager
+🐰 Chef Oreo - Community Manager ([Twitter](https://twitter.com/Chef\_Oreoo))
 
