@@ -14,6 +14,8 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Bamboo - Product Manager
 
+🐰 Chef Momo - Product Manager
+
 🐰 Chef Pepper - Business Dev ([Twitter](https://twitter.com/RealChefPepper))
 
 🐰 Chef Icy - Business Dev, 80% Bunny 20% Robot ([Twitter](https://twitter.com/PancakeIcy))
@@ -60,6 +62,8 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Salade - UI/UX designer
 
+🐰 Chef Leon - Motion Graphic designer
+
 🐰 Chef Cola - HR
 
 🐰 Chef Melody - HR
@@ -67,6 +71,8 @@ You can jump to the kitchen interviews article by clicking chef's name.
 🐰 Chef Brownie - Marketing ([Twitter](https://twitter.com/Chef\_Browniee))
 
 🐰 Chef Cocoa - Marketing
+
+🐰 Chef Brie - Marketing ([Twitter](https://twitter.com/chef\_brie))
 
 🐰 [Chef Fran](https://medium.com/pancakeswap/kitchen-interview-chef-fran-spanish-community-manager-and-a-lovely-mate-368c72102093) - Community Manager ([Twitter](https://twitter.com/ChefFranPS))
 
