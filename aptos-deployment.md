@@ -1,5 +1,5 @@
 ---
-description: PancakeSwap is now on Aptos!
+description: PancakeSwap is building on Aptos!
 ---
 
 # Aptos Deployment
@@ -46,7 +46,7 @@ For more information about our token launchpad offerings (“Initial Farm Offeri
    * Team passes due diligence – congrats!
 3. Marketing Prep
    * We ask for some design assets, some project info, and create a lovely banner (STEPN Example Below)
-   * **Please note that before launch, PancakeSwap or Project Teams should keep the collaboration news private.**
+   * **Please note that before launch, PancakeSwap and Project Teams should keep the collaboration news private.**
 4. Launch
    * We launch the Syrup Pool/Farm, and through our team of community admins, we will monitor, collate, and communicate any feedback the community raises.
    * We will also publish some socials on our [Twitter](https://twitter.com/pancakeswap/status/1501537445401481217) and Telegram
@@ -65,10 +65,10 @@ For more information about our token launchpad offerings (“Initial Farm Offeri
    * For our IFOs, compared to our Syrup Pools/Farms, there is a bit more back-and-forth: we are happy to share our knowledge of best practices concerning tokenomics, product, Go-To-Market (GTM) Strategy, etc.
    * Team passes due diligence – congrats!
 3. Marketing Prep
-   * We will ask for some design assets, some project info, and create both a lovely banner (BlueMove example below) and a [Medium post](https://medium.com/pancakeswap/bluemove-move-ifo-to-be-hosted-on-aptos-pancakeswap-25adee83d1ee)
+   * We will ask for some design assets, some project info, and create both a lovely banner (BlueMove example below) and a [blog post](https://blog.pancakeswap.finance/articles/blue-move-move-ifo-to-be-hosted-on-aptos-pancake-swap).
    * We will also start collating questions for the **AMA**
    * We will typically run a week-long [marketing campaign](https://twitter.com/PancakeSwap/status/1621841046983286784), including activities like social engagement, meme competitions, airdrops, project-specific tasks, etc.
-   * **Please note that before launch, PancakeSwap or Project Teams should keep the collaboration news private.**
+   * **Please note that before launch, PancakeSwap and Project Teams should keep the collaboration news private.**
 4. [AMA](https://twitter.com/PancakeSwap/status/1562648945721212929) (usually 1 day before IFO)
    * An interactive session with our community to clarify any questions and establish ✨vibes✨
 5. IFO Launch
