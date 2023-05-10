@@ -6,7 +6,7 @@ description: Como fazer trade nos Perpétuos V2
 
 ![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2FD4gLFD83ggjjGv2RsKBL%2Fhow-to-pancakeswap-without-cex-header.png?alt=media\&token=c4e18ae5-d991-45f2-9755-57ef178a380e)
 
-Usar essa funcionalidade é muito fácil (o difícil é fazer trade bem). Teremos apenas que seguir uma série de passos para que nossa experiência seja completa. Para obter mais informações, visite o [Glossário V2](glossario-dos-perpetuos-v2.md).
+Usar essa funcionalidade é muito fácil (o difícil é fazer trade bem). Teremos apenas que seguir uma série de passos para que nossa experiência seja completa. Para obter mais informações, visite o [Glossário V2](perpetuals-v2-glossary.md).
 
 ### Vá para página do Trade de Perpétuos <a href="#go-to-perpetual-trading-page" id="go-to-perpetual-trading-page"></a>
 
@@ -80,7 +80,7 @@ Os usuários podem definir um preço de take profit ou stop loss ao abrir uma po
 * Stop Loss: A posição dos usuários será liquidada assim que atingirem o limite de perda percentual de P\&L.
 * Slippage: Usado para cancelar uma ordem de mercado automaticamente se o preço se mover muito rápido na direção da negociação antes de ser aberta. Por exemplo, se você deseja comercializar por muito tempo o preço atual, mas antes de sua negociação ser aberta, o preço subiu 1%, ele será cancelado automaticamente.
 
-Observação: você pode passar o mouse sobre cada opção para obter mais informações. Consulte o [Glossário do Perpétuos V2](glossario-dos-perpetuos-v2.md) para obter um guia detalhado.
+Observação: você pode passar o mouse sobre cada opção para obter mais informações. Consulte o [Glossário do Perpétuos V2](perpetuals-v2-glossary.md) para obter um guia detalhado.
 
 ### Envie sua ordem
 
