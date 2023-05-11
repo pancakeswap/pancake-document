@@ -64,6 +64,10 @@ No. There are no additional fees for moving CAKE from flexible staking to fixed-
 
 ### What happens at the end of the lock duration? What is "After Burning"?
 
+{% hint style="warning" %}
+**After Burning will burn the future CAKE rewards and the CAKE rewards already earned.** To avoid losing any CAKE rewards you already earned, we recommend starting a new fixed-term staking period or converting your CAKE to flexible staking at the end of your lock staking period.
+{% endhint %}
+
 When your fixed-term staking period ends, and your CAKE unlocks, you have 7 days to complete one of two options:
 
 * Lock your CAKE to begin a new fixed-term staking period\
@@ -74,8 +78,20 @@ When your fixed-term staking period ends, and your CAKE unlocks, you have 7 days
 
 During these 7 days, you will still earn CAKE.
 
-After 7 days, if you have not done one of the two options, your staked CAKE will enter what is called "After Burning". With "After Burning", your CAKE rewards will start to be sent to burn. The % of CAKE rewards being sent to burn will linearly increase in the 90 days "After Burning" period until it reaches 100%, which means all the CAKE rewards are burnt.
+After 7 days, if you have not done one of the two options, your staked CAKE will enter what is called "After Burning". **With "After Burning", your CAKE rewards (including the rewards already earned) will start to be sent to burn.** The % of CAKE rewards being sent to burn will linearly increase in the 90 days "After Burning" period until it reaches 100%, which means all the CAKE rewards are burnt.
 
 So, to avoid missing out on CAKE rewards, we recommend starting a new fixed-term staking period or converting your CAKE to flexible staking at the end of your lock staking period.
+
+Here is an example:
+
+> John staked 100 CAKE for 52 weeks, he earned 50 CAKE during his staking period, and now the staking period has expired.&#x20;
+>
+> He then didn't perform any actions, and his position went into "After Burning" mode.
+>
+> During the 90-day After Burning period, all of the 50 CAKE he earned will be burned gradually along with any new CAKE earned.&#x20;
+>
+> After 90 days, the rewards he actually earns will become 0. However, the 100 CAKE he initially deposited will not be affected.
+>
+> Start a new fixed-term staking period or convert to flexible staking, and don't be like John.
 
 ![](<../../../.gitbook/assets/Locked - lock ended - after burning started.png>)

@@ -73,7 +73,6 @@
     * [CAKE Syrup Pool FAQ](products/syrup-pool/new-cake-pool/cake-syrup-pool-faq.md)
   * [Other Syrup Pools](products/syrup-pool/syrup-pool-guide/README.md)
     * [Syrup Pool FAQ & Troubleshooting](products/syrup-pool/syrup-pool-guide/syrup-pool-faq.md)
-  * [Page 1](products/syrup-pool/page-1.md)
 * [🌉 CAKE Bridging](products/cake-bridging/README.md)
   * [Between EVMs](products/cake-bridging/evms.md)
   * [Between EVM and Aptos](products/cake-bridging/aptos.md)
