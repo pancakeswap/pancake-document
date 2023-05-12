@@ -1,6 +1,6 @@
 # CAKE Tokenomics
 
-<figure><img src="../../.gitbook/assets/230220-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/230512-en (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Emission rate** <a href="#emission-rate" id="emission-rate"></a>
 
@@ -9,16 +9,16 @@
 | **Metric**             | **Emission/block (CAKE)** | **Emission/day (CAKE)** |
 | ---------------------- | ------------------------: | ----------------------: |
 | Emission               |                        40 |               1,152,000 |
-| Burned Weekly          |                    \~30.1 |               \~866,800 |
-| **Effective Emission** |               **\~9.9\*** |         **\~285,199\*** |
+| Burned Weekly          |                 \~34.7672 |             \~1,001,296 |
+| **Effective Emission** |            **\~5.2328\*** |         **\~150,704\*** |
 
 {% hint style="info" %}
 On August 11, 2022, Chefs implemented some configuration upgrades to take full advantage of MasterChef v2. It eliminates the 45,000 CAKE daily burn for the legacy lottery injections. Those burns will now be handled by MasterChef v2 directly along with the usual weekly CAKE burn. Therefore, the effective emissions are now even lower.
 {% endhint %}
 
+{% hint style="warning" %}
 In addition to the above, a dynamic amount of CAKE is also [minted to the Dev address](https://bscscan.com/address/0xceba60280fb0ecd9a5a26a1552b90944770a4a0e#tokentxns) at a rate of 9.09%. This means that if 100 CAKE are harvested, then 9.09 CAKE is minted in addition and sent to the Dev Address.
 
-{% hint style="warning" %}
 All CAKE minted to the Dev address is burned in the weekly burn and never enters circulation.&#x20;
 
 As such, we haven't included it in the above emission rate.
@@ -28,10 +28,10 @@ As such, we haven't included it in the above emission rate.
 
 | Distributed to                | <p>Reward/block</p><p>(% of emission)</p> | <p>Reward/block</p><p>(total CAKE)</p> |           Reward/day |
 | ----------------------------- | ----------------------------------------: | -------------------------------------: | -------------------: |
-| Trading                       |                                   \~7.78% |                                 \~3.11 |      89,642 (approx) |
-| Staking                       |                                  \~16.63% |                                 \~6.65 |     191,557 (approx) |
+| Trading                       |                                   \~5.23% |                               \~2.0939 |      60,304 (approx) |
+| Staking                       |                                    \~7.5% |                                    \~3 |      86,400 (approx) |
 | Other                         |                                   \~0.35% |                               \~0.1389 |       4,000 (approx) |
-| **Total Daily CAKE Emission** |                                           |                                        | **285,199 (approx)** |
+| **Total Daily CAKE Emission** |                                           |                                        | **150,704 (approx)** |
 
 ## **Other Deflationary Mechanics** <a href="#other-deflationary-mechanics" id="other-deflationary-mechanics"></a>
 
@@ -41,15 +41,18 @@ The burning process is currently manual. [View burn transactions here](https://b
 
 As well as the above, CAKE is also burned in the following ways:
 
-* **0.0575%** of every trade made on PancakeSwap V2 across:
-  * BNB Smart Chain
+* **0.001\~0.23%** of every trade made on V3 across:
+  * BNB Chain
+  * Ethereum
+* **0.0575%** of every trade made on V2 across:
+  * BNB Chain
   * Ethereum
   * Aptos
-* **0.016%\~0.06%** of every trade made on PancakeSwap StableSwap
+* **0.004%\~0.016%** of every trade made on StableSwap
 * **100%** of CAKE sent to the Dev address
 * **100%** of CAKE performance fees from IFOs
 * **100%** of CAKE spent on Profile Creation and NFT minting
-* **100%** of CAKE bid during Farm Auctions
+* **100%** of CAKE bid by winners during Farm Auctions
 * **20%** of CAKE spent on lottery tickets
 * **20%** of all profits from Perpetual Trading
 * **8%** of the Pottery prize pot distributed each week
