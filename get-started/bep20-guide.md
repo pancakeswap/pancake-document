@@ -14,7 +14,11 @@
 
 {% tabs %}
 {% tab title=" 🥞🌉 Pancake 跨链桥" %}
+<div align="center">
+
 <figure><img src="../.gitbook/assets/image (1) (5).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 [**PancakeSwap 跨链桥**](http://bridge.pancakeswap.finance/) —— 原生资产跨链桥，由 Stargate 提供支持。
 

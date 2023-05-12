@@ -2,14 +2,14 @@
 
 以下是此章节的所有文章：
 
-{% content-ref url="yong-xu-he-yue-v1-shu-yu-biao.md" %}
-[yong-xu-he-yue-v1-shu-yu-biao.md](yong-xu-he-yue-v1-shu-yu-biao.md)
+{% content-ref url="../../pancakeswap-exchange/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-shu-yu-biao.md" %}
+[yong-xu-he-yue-shu-yu-biao.md](../../pancakeswap-exchange/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-shu-yu-biao.md)
 {% endcontent-ref %}
 
-{% content-ref url="wo-ying-gai-ru-he-shi-yong-ta.md" %}
-[wo-ying-gai-ru-he-shi-yong-ta.md](wo-ying-gai-ru-he-shi-yong-ta.md)
+{% content-ref url="../../pancakeswap-exchange/yong-xu-he-yue-jiao-yi/ying-gai-ru-he-shi-yong-ta.md" %}
+[ying-gai-ru-he-shi-yong-ta.md](../../pancakeswap-exchange/yong-xu-he-yue-jiao-yi/ying-gai-ru-he-shi-yong-ta.md)
 {% endcontent-ref %}
 
-{% content-ref url="yong-xu-he-yue-v1-chang-jian-wen-ti.md" %}
-[yong-xu-he-yue-v1-chang-jian-wen-ti.md](yong-xu-he-yue-v1-chang-jian-wen-ti.md)
+{% content-ref url="../../pancakeswap-exchange/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-chang-jian-wen-ti.md" %}
+[yong-xu-he-yue-chang-jian-wen-ti.md](../../pancakeswap-exchange/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-chang-jian-wen-ti.md)
 {% endcontent-ref %}

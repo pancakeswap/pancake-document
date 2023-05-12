@@ -24,20 +24,32 @@
 
 3 - 在左上角，找到代币对输入框，选择您想添加的两个代币。此例中，我们将使用 ETH和 USDC 做为范例。
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/流动性添加教程2 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 4 - 选择完成后，界面将自动帮您选择目前最受欢迎的交易费用级别 (tier)，并为您预设一个价格区间。
 
 5 - 您可以通过查看 "V3 LP - x% 费用级别" 下的显示窗，来确认您所提供的流动性池的版本以及费用级别。
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/流动性添加教程 2.5.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 * 如果您想自定义费用级别，请点击 "More"，并选择所需的费用级别。&#x20;
 * 请注意，建议在最受欢迎的费用级别提供流动性。
 
 6 - 您可以在右侧显示的价格区间进行调整和确认。
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/流动性添加教程3.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 * 该图表显示了所有价格区间的流动性深度。您可以使用放大镜按钮进行放大和缩小。还可以通过拖动底部的 X 轴来平移并浏览图表。&#x20;
 * 如果您想自定义价格区间，可以通过拖动光标，或是点击最低和最高价格下面的+和-按钮，或者点击两个价格数字并手动输入。&#x20;
@@ -45,25 +57,45 @@
 
 7 - 找到 "入金金额"，在其中一个代币输入框输入金额后，另一个将自动计算和填入数量。如果其中一个代币没有足够的余额，按钮将变成灰色。您可以输入一个较低的金额，或者使用 "MAX" 按钮来填入最大金额。
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/流动性添加教程4.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 8 - 点击 "批准 USDC" 按钮。如果您添加的是非 ETH 的流动性，您可能需要点击两次 "批准” 来对两个代币都进行授权。您将需要在钱包确认此次授权操作。
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/流动性添加教程5.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 9 - 完成后，"添加" 按钮将亮起。单击以继续。
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/流动性添加教程6.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 10 - 将会弹出一个新的窗口，供您预览您的流动性仓位详情。确认一切无误后，再次点击 "添加" 以继续。
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/流动性添加教程7.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 11 - 您需要在钱包中确认操作，点击确认。
 
 12 - 之后您会在 "我的流动性(My liquidity)" 页面看到添加后的流动性仓位，你可以通过点击仓位来查看细节。
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/流动性添加教程8.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ### 移除流动性&#x20;
 
@@ -75,11 +107,19 @@
 
 2 - 在 "您的流动性资金 (Your Liquidity)" 中，点击想移除的流动性。您可以使用筛选功能来快速筛出您所有的 V3 流动性仓位。
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/流动性移除教程2 (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 3 - 点击 "移除 (Remove)" 后，将出现一个新的窗口。
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/流动性移除教程3.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 4 - 使用按钮或滑块来选择您想移除的流动性的数量。您可以点击 "MAX" 来快速移除您在这个交易对中的所有流动性。
 

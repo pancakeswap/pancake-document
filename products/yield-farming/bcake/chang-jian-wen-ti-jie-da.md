@@ -63,7 +63,11 @@
 
 ### 激活或停止助推器后，我的 CAKE 奖励在哪里？
 
+<div align="center">
+
 <figure><img src="../../../.gitbook/assets/bCAKE-has-pending-balance.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 在使用 bCAKE - 农场助推器进行耕种时，您收获的一些 CAKE 奖励会暂时存储在农场助推器合约中。当发生这种情况时，您会在 “CAKE EARNED (CAKE 已赚取）” 下方看到一条虚线，表示除了显示的数字之外，您在农场助推器合约中还有更多的 CAKE 奖励。
 

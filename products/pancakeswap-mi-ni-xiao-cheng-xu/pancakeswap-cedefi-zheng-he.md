@@ -12,27 +12,51 @@ PancakeSwap 是第一个整合和支持使用币安 DeFi 钱包的 DeFi 项目�
 
 1. 在 Binance 应用程序中，进入市场选项卡，搜索您要交易的代币。
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/CEDEFI 1.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 2. 如果该代币可以在 PancakeSwap 上进行交易，它将出现在第三方应用程序部分。
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/CEDEFI 2.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 3. 请查看使用条款然后点击**好的**。
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/CEDEFI 3.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 4. 将显示导入代币页面。在勾选 "I understand (我明白)" 并点击 "Import (导入)" 之前，请务必阅读风险警告。
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/CEDEFI 4.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 5. 在兑换页面中选择代币并输入你想要兑换的数量。
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/CEDEFI 5.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 6. 接下来，你需要连接你的 DeFi 钱包，如果没有可以创建一个新的钱包；请查看[如何使用 Binance DeFi 钱包指南](ru-he-shi-yong-pancakeswap-mi-ni-xiao-cheng-xu.md#she-zhi-bi-an-defi-qian-bao)，以了解更详细的操作步骤。钱包连接成功后，你就可以完成你的交易。
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/CEDEFI 6.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 关于如何设置和使用 CEDEFI 整合的更多信息，请查看[迷你小程序教程页面](ru-he-shi-yong-pancakeswap-mi-ni-xiao-cheng-xu.md)。
 

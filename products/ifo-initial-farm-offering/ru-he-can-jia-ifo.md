@@ -38,7 +38,7 @@ PancakeSwap 上的 IFO 是初次农场发行。参与 IFO 让您可以第一时�
 
 完成上述步骤后，请返回此处的 [IFO 界面](https://pancakeswap.finance/ifo)，向下滚动到 “如何参与” 部分。
 
-<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 您应该看到您的进度当前处于第 3 步，提交 CAKE，如上图所示。 如果由于某种原因您没有进入第 3 步，请返回查看本页上方链接的指南。&#x20;
 

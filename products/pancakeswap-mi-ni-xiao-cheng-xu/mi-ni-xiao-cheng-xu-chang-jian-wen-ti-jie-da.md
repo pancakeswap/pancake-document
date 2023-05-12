@@ -50,4 +50,8 @@ BNB 智能链上的代币在其合约中包含**交易费用**的情况并不少
 
 我们欢迎任何的反馈与建议，我们一直在努力为我们的社区进行改进。对于关于小程序的任何反馈与建议，除了常规的 [Telegram](https://t.me/PancakeSwap\_CN) 或 [Discord ](https://discord.com/invite/pancakeswap)之外，您也可以在小程序中提交您的反馈，您可以通过点击右上角的三个点之后显示的 “**Feedback**” 按钮进行反馈。
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/min 小程序15.png" alt=""><figcaption></figcaption></figure>
+
+</div>

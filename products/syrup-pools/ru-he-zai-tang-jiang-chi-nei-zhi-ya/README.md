@@ -63,7 +63,7 @@ description: 糖浆池：在 PancakeSwap 上免费赚取代币最简单的方法
    **请注意：**若您质押的是 CAKE 灵活质押糖浆池，在质押操作后的 72 小时内提取，需要收取 0.1% 的手续费。
 2. 页面会弹出一个窗口，若您点击的是 **+** （加号），请在窗口中选择您要添加的 CAKE 数量。若您点击的是 **-** （减号） ，则选择您要提取的 CAKE 数量。
 
-<div>
+<div align="left">
 
 <figure><img src="../../../.gitbook/assets/+.png" alt=""><figcaption></figcaption></figure>
 

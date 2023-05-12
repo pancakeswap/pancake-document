@@ -8,21 +8,37 @@
 
 ### 查看目前适用的交易费率和费用金额
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/交易费用和路由1.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 要检查您当前的交易将被收取多少费用，请查看交易细节部分的 "交易费用 "部分。
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/交易费用和路由2.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 要检查您的交易目前是通过哪种类型的资金池和费用级别，请查看 "路由" 部分。
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/交易费用和路由3.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 要了解更多细节，请点击放大镜图标，显示完整的交易路径。
 
 ### 自定义流动性来源
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/交易费用和路由4.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 在 "自定义路由 "界面的上方，您可以选择路由交易时调用的流动性来源。您可以通过以下途径调出设置界面：
 
@@ -33,13 +49,21 @@
 
 请注意，路由不会打通自动做市商 (AMM) 流动性池和做市商 (MM) 的流动性池。当您的交易由 MM 执行时，它将不会经过任何 AMM 流动性池。
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/交易费用和路由6.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 你可以点击路由设置界面右上角的 "重置 "按钮，将路由配置重置为默认。
 
 ### 自定义路由偏好
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/交易费用和路由5.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 在 "自定义路由 "界面的下方，你可以通过启用或禁用多跳和拆分路由，来定制你的兑换路径。&#x20;
 

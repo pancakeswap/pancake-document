@@ -8,7 +8,7 @@
 
 ### 我如何将赚取的 CAKE 跨链回 BNB 智能链？&#x20;
 
-请查看[ CAKE 跨链指南](../../../ru-men-zhi-nan-aptos/cake-kua-lian-zhi-nan.md)。&#x20;
+请查看[ CAKE 跨链指南](../../cake-kua-lian-1/evm-lian-yu-aptos-zhi-jian-kua-lian.md)。&#x20;
 
 如果你想跨链其他资产，请查看[获取 Aptos 代币](../../../ru-men-zhi-nan-aptos/huo-qu-aptos-dai-bi.md)的指南。你还会发现各种跨链方案对大多数热门的资产都支持双向跨链。
 
@@ -32,4 +32,4 @@ Aptos 上的 CAKE 等同于 BNB 智能链上的 CAKE，可以一直以 1:1 的�
 
 请注意，CAKE 只有一个。不同链之间不存在不同版本的 CAKE。根据我们的 v2 版代币经济简版白皮书 ，所有区块链上的 CAKE 总供应量将被限制在 7.5 亿。&#x20;
 
-如果你要将你的 CAKE 跨链到 BNB 智能链，请查看 [CAKE 跨链指南](../../../ru-men-zhi-nan-aptos/cake-kua-lian-zhi-nan.md)。
+如果你要将你的 CAKE 跨链到 BNB 智能链，请查看 [CAKE 跨链指南](../../cake-kua-lian-1/evm-lian-yu-aptos-zhi-jian-kua-lian.md)。

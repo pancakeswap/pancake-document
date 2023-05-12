@@ -69,11 +69,19 @@ description: 常见错误信息。 使用侧边栏快速查找您的错误代码
 
 其中一个可能的情况是，当您的滑点容限设置太低时，价格更新太快导致。
 
-![](https://lh5.googleusercontent.com/T1KMtz2ILDVHljGw1iLbIv0W1KVl7qXL8zU2nLFHkUvDb5oMw9mpUzzBwWmIBz15XDsxZ5w7wsaqAwCs\_pxdobz\_kY\_7BhcZhYtpqWuQGFs23DZq98-SVInlfsS07WzxFPLIYXHt)
+<div align="left">
+
+<img src="https://lh5.googleusercontent.com/T1KMtz2ILDVHljGw1iLbIv0W1KVl7qXL8zU2nLFHkUvDb5oMw9mpUzzBwWmIBz15XDsxZ5w7wsaqAwCs_pxdobz_kY_7BhcZhYtpqWuQGFs23DZq98-SVInlfsS07WzxFPLIYXHt" alt="">
+
+</div>
 
 
 
-![](https://lh5.googleusercontent.com/7aspaCCvDjzxbJxngqwgeq737LB3OUNcAs592QqlEkyrAOTfKsrt\_FAwpEylaIJhff5ZcYlzB\_r0v1JZwfj3j8Ah6jlUbRoMrAqVfTb3cwDI7B1i5HJtZSQOsTPrv7l7SaclC3BV)
+<div align="left">
+
+<img src="https://lh5.googleusercontent.com/7aspaCCvDjzxbJxngqwgeq737LB3OUNcAs592QqlEkyrAOTfKsrt_FAwpEylaIJhff5ZcYlzB_r0v1JZwfj3j8Ah6jlUbRoMrAqVfTb3cwDI7B1i5HJtZSQOsTPrv7l7SaclC3BV" alt="">
+
+</div>
 {% endtab %}
 
 {% tab title="给学霸的解决方法" %}
@@ -112,7 +120,7 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 6. 在 **“to (address)”** 这一栏位输入您的钱包地址。
 7. **Deadline** (截止时间)必须是大于执行此交易的纪元(epoch)时间。
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (2).png>)
 
 {% hint style="warning" %}
 这可能会导致很高的滑点，并且如果被机器人抢跑，可能会导致您损失一些资金。
@@ -276,7 +284,11 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 
 一般而言，限制设为 200000 就足够了。
 
-![](<../.gitbook/assets/image (2) (1) (1) (2).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (2) (1) (1) (2).png" alt="">
+
+</div>
 
 以上的例子取自 Metamask 截图。 如果不确定如何设置 Gas 限制，请查看您钱包的文档。
 {% endtab %}

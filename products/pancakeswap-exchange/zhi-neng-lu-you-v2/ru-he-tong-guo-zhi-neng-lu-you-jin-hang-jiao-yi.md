@@ -10,7 +10,11 @@
 2. 选择您想交易的代币对。在发布此功能时，由于滑点问题，通过智能路由的交易输入代币框内只接受输入整数。
 3. 输入你想交易的代币的数量。勾选 "**使用 StableSwap 可以获得更划算的费用** "方框。
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/Smart Router 1.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 4. 在底部一行，点击路由字段右侧的放大镜图标，以查看检查新的交易路径。好了一切就绪！之后的兑换流程和平时的兑换一样。如果你是第一次使用兑换功能，请查看这里的[指南](../ru-he-jin-hang-jiao-yi.md)。
 
@@ -25,6 +29,10 @@
 1. 点击兑换页面右上方的**齿轮图标**打开设置界面。&#x20;
 2. 在弹出的窗口中对应字段 (Smart Router) ，点击右边按钮以**禁用智能路由**。
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/Smart Router 3 EN original.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 3. 关闭设置页面。

@@ -41,7 +41,11 @@
 {% tab title="检查您的可用投票权" %}
 在正式投票之前，您将看到一个“确认投票”窗口。
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/how-to-vote-4.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 在此窗口中，您可以仔细检查以下项目：
 
@@ -50,7 +54,11 @@
 
 如果您不确定可用投票权是如何计算的，请单击“>”以显示详细的内容。
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/how-to-vote-5.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 请注意，只有存放在以下地方的CAKE 才会计入投票权：
 
@@ -66,12 +74,20 @@
 {% tab title="检查快照的区块时间" %}
 #### 检查快照的区块时间
 
+<div align="left">
+
 <figure><img src="../../../.gitbook/assets/how-to-vote-3.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 可用投票权的计算是基于快照区块时间的。 因此，在提案发布后购买或存入更多 CAKE 不会增加您对此提案的投票权。&#x20;
 
 如果您想知道快照区块的确切时间。 只需单击区块号并在 BscScan 页面上查找相应的时间戳。
 
+<div align="center">
+
 <figure><img src="../../../.gitbook/assets/how-to-vote-7.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 {% endtab %}
 {% endtabs %}
