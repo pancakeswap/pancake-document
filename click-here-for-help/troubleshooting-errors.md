@@ -120,7 +120,7 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 6. 在 **“to (address)”** 这一栏位输入您的钱包地址。
 7. **Deadline** (截止时间)必须是大于执行此交易的纪元(epoch)时间。
 
-![](<../.gitbook/assets/image (5) (2).png>)
+![](<../.gitbook/assets/image (5).png>)
 
 {% hint style="warning" %}
 这可能会导致很高的滑点，并且如果被机器人抢跑，可能会导致您损失一些资金。

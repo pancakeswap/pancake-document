@@ -43,7 +43,7 @@ Aptos 链的原生代币是 **Aptos Coin (APT)**。&#x20;
 {% tab title="🥞CAKE 跨链" %}
 想要在 Aptos 和 BNB 智能链之间跨链 CAKE 代币，请使用[ PancakeSwap Aptos 跨链桥](https://bridge.pancakeswap.finance/aptos)。
 
-请查看[此指南](../products/cake-kua-lian-1/evm-lian-yu-aptos-zhi-jian-kua-lian.md)以了解如何使用它。
+请查看[此指南](<cake-kua-lian-zhi-nan (1).md>)以了解如何使用它。
 {% endtab %}
 
 {% tab title="💰币安网" %}

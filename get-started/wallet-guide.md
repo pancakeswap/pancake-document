@@ -134,7 +134,7 @@ SafePal 有软件和硬件钱包两种形式。该钱包 App 安装便捷，设�
 {% endtab %}
 
 {% tab title="Trust Wallet" %}
-![](<../.gitbook/assets/image (36).png>)
+![](<../.gitbook/assets/image (36) (1).png>)
 
 Trust Wallet 在移动设备上颇受欢迎的钱包应用。它支持 DApps，NFT 收藏品（支持 Opensea.io），以及钱包内直接质押，
 

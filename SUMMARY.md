@@ -96,7 +96,7 @@
     * [永续合约 V1 常见问题](products/pancakeswap-exchange/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-chang-jian-wen-ti.md)
 * [🌉 CAKE 跨链](products/cake-kua-lian-1/README.md)
   * [EVM 链之间跨链](products/cake-kua-lian-1/evm-lian-zhi-jian-kua-lian.md)
-  * [EVM 链与 Aptos 之间跨链](products/cake-kua-lian-1/evm-lian-yu-aptos-zhi-jian-kua-lian.md)
+  * [EVM 链与 Aptos 之间跨链](<ru-men-zhi-nan-aptos/cake-kua-lian-zhi-nan (1).md>)
   * [FAQ](products/cake-kua-lian-1/faq.md)
 * [🎟 彩票 v2](products/lottery.md)
   * [如何玩转彩票v2](products/lottery/ru-he-wan-zhuan-cai-piao-v2.md)
