@@ -1,6 +1,6 @@
 # Tokenomics de CAKE
 
-<figure><img src="../../.gitbook/assets/230220-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 ## **Taxa de Emissão** <a href="#emission-rate" id="emission-rate"></a>
 
@@ -9,16 +9,16 @@
 | **Métrica**         | **Emissão/bloco (CAKE)** | **Emissão/dia (CAKE)** |
 | ------------------- | ------------------------ | ---------------------- |
 | Emissão             | 40                       | 1.152.000              |
-| Queima Semanal      | \~30,1                   | \~866.800              |
-| **Emissão Efetiva** | **\~9,9\***              | **\~285.199\***        |
+| Queima Semanal      | \~34,7672                | \~1.001.296            |
+| **Emissão Efetiva** | **\~5,2328\***           | **\~150.704\***        |
 
 {% hint style="info" %}
 Em 11 de agosto de 2022, os Chefs implementaram algumas atualizações de configuração para aproveitar ao máximo o MasterChef v2. Ele elimina a queima diária de 45.000 CAKE para as injeções de loteria legacy. Essas queimas agora serão tratadas pelo MasterChef v2 diretamente junto com a queima semanal habitual do CAKE. Portanto, as emissões efetivas agora são ainda menores.
 {% endhint %}
 
-Além do acima, uma quantidade dinâmica de CAKE também é [cunhada no endereço Dev ](https://bscscan.com/address/0xceba60280fb0ecd9a5a26a1552b90944770a4a0e#tokentxns)a uma taxa de 9,09%. Isso significa que, se 100 CAKE forem colhidos, 9,09 CAKE serão cunhados e enviados para o endereço do desenvolvedor.
-
 {% hint style="warning" %}
+Além do dito acima, uma quantidade dinâmica de CAKE também é [cunhada no endereço Dev ](https://bscscan.com/address/0xceba60280fb0ecd9a5a26a1552b90944770a4a0e#tokentxns)a uma taxa de 9,09%. Isso significa que, se 100 CAKE forem colhidos, 9,09 CAKE serão cunhados e enviados para o endereço do desenvolvedor.
+
 Todo CAKE cunhado no endereço Dev é queimado na queima semanal e nunca entra em circulação.&#x20;
 
 Como tal, não o incluímos na taxa de emissão acima.
@@ -28,10 +28,10 @@ Como tal, não o incluímos na taxa de emissão acima.
 
 | Distribuído para                   | Recompensa/bloco(% da emissão) | Recompensa/bloco(total CAKE) | Recompensa/dia      |
 | ---------------------------------- | ------------------------------ | ---------------------------- | ------------------- |
-| Trade(Farms)                       | \~7,78%                        | \~3,11                       | 86.642 (aprox)      |
-| Stake                              | \~16,63%                       | \~6,55                       | 191.557 (aprox)     |
+| Trade(Farms)                       | \~5,23%                        | \~2,0939                     | 60.304 (aprox)      |
+| Stake                              | \~7,5%                         | \~3                          | 86.400 (aprox)      |
 | Outros                             | \~0,35%                        | \~0,1389                     | 4.000 (aprox)       |
-| **Emissão Total Diaŕaia de CAKE**  | ​                              | ​                            | **285.199 (aprox)** |
+| **Emissão Total Diaŕaia de CAKE**  | ​                              | ​                            | **150.704 (aprox)** |
 
 ## **Outros Mecanismos Deflacionários** <a href="#other-deflationary-mechanics" id="other-deflationary-mechanics"></a>
 
@@ -41,11 +41,14 @@ O processo de queima é atualmente manual. [Veja as transações de queima aqui]
 
 Além do acima, o CAKE também é queimado das seguintes maneiras:
 
-* 0,0575% de cada negociação feita na PancakeSwap V2 na:&#x20;
+* **0,001\~0,23%** de todo trade feito através do V3 na:
+  * BNB Chain
+  * Ethereum
+* 0,0575% de todo trade feito através da V2 na:&#x20;
   * BNB Smart Chain&#x20;
   * Ethereum&#x20;
   * Aptos&#x20;
-* 0,016%\~0,06% de todas as negociações feitas no StableSwap da PancakeSwap&#x20;
+* 0,004%\~0,016% de todas as negociações feitas no StableSwap da PancakeSwap&#x20;
 * 100% do CAKE enviado para o endereço do Dev&#x20;
 * 100% das taxas de performance em CAKE das IFOs&#x20;
 * 100% do CAKE gasto na criação de perfil e cunhagem de NFT&#x20;

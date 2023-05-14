@@ -72,10 +72,22 @@ Quando seu período de stake de prazo fixo termina e seu CAKE é desbloqueado, v
 
 ![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2F6h4oQWJdTFziWwwEMFkY%2Fcake-pool-lock-end.png?alt=media\&token=0d799ba6-0544-48ae-a320-69563cdca064)
 
-Durante esses 7 dias, você ainda ganhará CAKE no mesmo APY do seu período de bloqueio.
+Durante esses 7 dias, você ainda ganhará CAKE.
 
-Após 7 dias, se você não tiver feito uma das duas opções, seu CAKE em stake entrará no que se chama de "After Burning/Depois da Queima". Com "After Burning", suas recompensas de CAKE, serão enviadas pra queima. A % das recompensas de CAKE enviadas pra queima será aumenta linearmente ao longo de um período de 90 dias, o que significa que todas suas recompensas de CAKE ganhas ao longo dos 7 dias serão queimadas.
+Após 7 dias, se você não tiver feito uma das duas opções, seu CAKE em stake entrará no que se chama de "After Burning/Queima posterior". **Com "After Burning", suas recompensas de CAKE (incluindo as recompensas já ganhadas) vão começar a ser enviadas para queima**. A % das recompensas de CAKE enviadas pra queima será aumenta linearmente ao longo de um período de 90 dias, o que significa que todas suas recompensas de CAKE ganhas serão queimadas.
 
 Portanto, para evitar perder as recompensas de CAKE, recomendamos iniciar um novo período de stake de prazo fixo ou converter seu CAKE em stake flexível no final do período de stake bloqueado.
+
+Aqui está um exemplo:
+
+> John fez stake de 100 CAKE por 52 semanas, ganhou 50 CAKE durante seu período de stake e agora o período de stake acabou.&#x20;
+>
+> Ele então não realizou nenhuma ação e sua posição foi para o modo "Queima posterior/After Burn".&#x20;
+>
+> Durante o período de 90 dias após a queima, todos os 50 CAKE que ele ganhou serão queimados gradualmente junto com qualquer novo CAKE ganho.&#x20;
+>
+> Após 90 dias, as recompensas que ele realmente ganhará será 0. No entanto, os 100 CAKE que ele depositou inicialmente não serão afetados.&#x20;
+>
+> Inicie um novo período de staking de prazo fixo ou converta para staking flexível e não seja como John.
 
 ![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2FSov3mDReLzedqxYe5UeZ%2Fcake-pool-lock-burn.png?alt=media\&token=3e2587bb-9861-4c4f-9848-48f48464189d)
