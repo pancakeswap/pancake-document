@@ -2,7 +2,7 @@
 
 ![](../.gitbook/assets/contact-us-header.png)
 
-#### Business Contacts
+## Business Contacts
 
 ### [List a Token](business-partnerships.md#exchange)
 
@@ -12,9 +12,7 @@
 
 ### [Apply for the NFT Market](nft-market-applications.md)
 
-####
-
-#### Help!
+## Help!
 
 ### [Customer Support](customer-support.md#there-is-no-customer-support-for-pancakeswap)
 

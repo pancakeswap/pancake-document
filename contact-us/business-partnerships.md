@@ -75,7 +75,7 @@ Due to PancakeSwap’s nature as an AMM-based DEX, we’re not able to prevent t
 
 ### People get an error when trading my token. What can I do?
 
-Check our [Troubleshooting page](../help/troubleshooting.md) for a list of common errors on the exchange, and how to solve them.
+Check our [Troubleshooting page](../readme/help/troubleshooting.md) for a list of common errors on the exchange, and how to solve them.
 
 ### Why some statistics of my tokens are not shown on Info page?
 

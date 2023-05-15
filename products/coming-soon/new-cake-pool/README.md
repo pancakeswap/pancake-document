@@ -51,7 +51,7 @@ Stake your CAKE for a fixed amount of time to maximise yields and receive additi
 * CAKE rewards will unlock, along with your staked CAKE, when your lock duration expires
 * Once staked in fixed-term staking, you cannot withdraw until the end of your lock duration.
 * 🎁 Enjoy benefits such as:
-  * 🗳️ Boosted voting power: [vCAKE](../../voting/vcake.md)
+  * 🗳️ Boosted voting power: [vCAKE](../../../governance-and-tokenomics/voting/vcake.md)
   * 🚜 Boosted farm yields: [bCAKE](../../yield-farming/bcake/)
   * 🛍️ IFO public sale entry: [iCAKE](../../ifo-initial-farm-offering/icake.md)
   * ✨ Priority access or special events

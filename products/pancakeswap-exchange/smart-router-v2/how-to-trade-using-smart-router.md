@@ -4,7 +4,7 @@
 
 Smart Router is disabled by default on the swap page. It is similar to using the existing PancakeSwap AMM.
 
-Before starting, it requires a **BNB Chain-compatible wallet and BNB for gas fees.** Please check our [wallet guide](../../../get-started/wallet-guide.md) for more details.
+Before starting, it requires a **BNB Chain-compatible wallet and BNB for gas fees.** Please check our [wallet guide](../../../readme/get-started/wallet-guide.md) for more details.
 
 1. Go to the swap page [here.](https://pancakeswap.finance/swap#/swap)
 2. Choose the token pairs you would like to trade. At launch, only exact input is accepted for Smart Router due to slippage concerns.&#x20;

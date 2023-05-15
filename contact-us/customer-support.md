@@ -6,7 +6,7 @@
 
 If you're experiencing issues,
 
-1. First check [the troubleshooting page](../help/troubleshooting.md) for your error code
+1. First check [the troubleshooting page](../readme/help/troubleshooting.md) for your error code
 2. If you can't find a solution, try reaching out in your local [Telegram group](telegram.md).
 
 {% hint style="danger" %}

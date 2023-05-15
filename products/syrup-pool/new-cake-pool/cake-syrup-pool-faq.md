@@ -52,7 +52,7 @@ No, a separate amount of CAKE is needed. However, locked-staking provides entry 
 
 ### Can I vote if my CAKE is locked in the Fixed-Term Staking pool?
 
-Yes! Check out [vCAKE](../../voting/vcake.md).
+Yes! Check out [vCAKE](../../../governance-and-tokenomics/voting/vcake.md).
 
 ### Can I use both the Flexible Staking CAKE pool and the Fixed-Term Staking CAKE pool at the same time?
 
