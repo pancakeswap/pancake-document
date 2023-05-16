@@ -1,6 +1,4 @@
-# 控制 CAKE 的总量
-
-![](<../../.gitbook/assets/image (185).png>)
+# CAKE 的总量上限
 
 ## CAKE 有总量限制吗？
 
