@@ -20,7 +20,7 @@ description: 在PancakeSwap上使用农场非常简单！
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (35).png" alt="" width="347"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22).png" alt="" width="347"><figcaption></figcaption></figure>
 
 </div>
 
@@ -35,7 +35,7 @@ description: 在PancakeSwap上使用农场非常简单！
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -67,17 +67,17 @@ description: 在PancakeSwap上使用农场非常简单！
 
 ### 将你的流动性仓位质押到农场
 
-![](<../../.gitbook/assets/image (146).png>)
+![](<../../.gitbook/assets/image (34).png>)
 
 完成流动性添加后。你可以看到你的仓位将在你想使用的农场下列出。&#x20;
 
 如果你有多个仓位，你可以点击 "查看全部"，并在新的弹出窗口中查看它们。
 
-![](<../../.gitbook/assets/image (128).png>)![](<../../.gitbook/assets/image (208).png>)
+![](<../../.gitbook/assets/image (29).png>)![](<../../.gitbook/assets/image (38).png>)
 
 在列出的仓位上点击 "质押"，你的钱包弹出提示供你确认。
 
-![](<../../.gitbook/assets/image (36).png>)
+![](<../../.gitbook/assets/image (25).png>)
 
 短暂的等待后，窗口将关闭，你将在详情中看到你的质押仓位细节。
 
@@ -97,7 +97,7 @@ description: 在PancakeSwap上使用农场非常简单！
 
 如果你有多个已经质押仓位，你可以点击 "查看全部"，并在新的弹出窗口中查看它们。
 
-![](<../../.gitbook/assets/image (212).png>)
+![](<../../.gitbook/assets/image (58).png>)
 
 点击对应流动性仓位旁边的 "收割"，之后你的钱包弹出提示供你确认。等待区块确认后，CAKE 奖励将被发送到你的钱包。
 
@@ -113,7 +113,7 @@ description: 在PancakeSwap上使用农场非常简单！
 
 你只需回到农场页面，找到你想调整的农场和对应仓位。你可以使用 "仅限已质押 "的功能键来快速筛选你当前质押的农场。&#x20;
 
-![](<../../.gitbook/assets/image (114).png>)
+![](<../../.gitbook/assets/image (26).png>)
 
 点击带有代币对、费率、仓位 ID 等信息和">"箭头的仓位标题。你将可以看到对应仓位的详细信息页面。 只需通过 "增加 "或 "移除 "按钮来调整所质押仓位的流动性设置。&#x20;
 
@@ -188,7 +188,7 @@ description: 在PancakeSwap上使用农场非常简单！
 {% hint style="info" %}
 当你在 BNB 链以外的 EVM 区块链上质押挖矿时。你需要等待约 30 分钟待跨链讯息传递完毕。
 
-![](<../../.gitbook/assets/image (3) (1) (2).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 若要查看你的进程，可以点击余额右侧的转圈图标（circular icon），或点击右上角的「最近的交易（Recent Transaction）」。
 {% endhint %}
