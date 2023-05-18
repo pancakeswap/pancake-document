@@ -26,7 +26,7 @@ To connect Trust Wallet follow the steps below. Note that Android and iOS device
 
 1. A new page will open with the PancakeSwap logo and some information. Tap the **Connect** button.
 
-![](<../../.gitbook/assets/image (67).png>)
+![](<../../.gitbook/assets/image (67) (1).png>)
 
 1. PancakeSwap will open up. If you see a **Connect** button in the top-right tap that and tap **Trust Wallet** from the list.
 
@@ -55,7 +55,7 @@ To connect MetaMask to PancakeSwap follow the steps below.
 
 1. Open MetaMask and tap on the **burger icon** in the top-left.
 
-![](<../../.gitbook/assets/image (72).png>)
+![](<../../.gitbook/assets/image (72) (1).png>)
 
 1. Tap **Settings** in the menu.
 

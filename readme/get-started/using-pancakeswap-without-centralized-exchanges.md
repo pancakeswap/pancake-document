@@ -20,7 +20,7 @@ In the following tutorials, we are going to demonstrate moving USDT from a varie
 
 {% tabs %}
 {% tab title="🥞🌉 Pancake Bridge (recommanded)" %}
-![](<../../.gitbook/assets/image (29).png>)
+![](<../../.gitbook/assets/image (29) (2).png>)
 
 [**PancakeSwap Bridge**](http://bridge.pancakeswap.finance) — a native asset cross-chain bridge, powered by Stargate.
 

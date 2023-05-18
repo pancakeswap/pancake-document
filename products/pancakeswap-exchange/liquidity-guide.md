@@ -45,7 +45,7 @@ In this example, we will add V3 liquidity using ETH and USDC.
 
 6 - You can review and confirm the price range on the right-hand side displays.
 
-![](<../../.gitbook/assets/image (34).png>)
+![](<../../.gitbook/assets/image (34) (2).png>)
 
 * The chart shows the level of liquidity across all the price ranges. You can zoom in and out using the magnifier buttons. You can pan and navigate the chart by dragging the bottom x-axis.
 * If you want to customize the price range. Simply drag the handles, click the + and - buttons on the two prices, or click the two price numbers and enter them manually.
@@ -67,7 +67,7 @@ In this example, we will add V3 liquidity using ETH and USDC.
 
 9 - The “Add” button will then light up. Click to proceed.
 
-![](<../../.gitbook/assets/image (39).png>)
+![](<../../.gitbook/assets/image (39) (2).png>)
 
 
 

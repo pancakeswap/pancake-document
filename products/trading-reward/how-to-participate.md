@@ -19,7 +19,7 @@ To check if there is an ongoing campaign. You can:
     <figure><img src="../../.gitbook/assets/rebate-homepage.png" alt=""><figcaption></figcaption></figure>
 *   Look for the 💝 icon from the “Hot Token” list on the [Swap page](https://pancakeswap.finance/swap). Or use the filter to check pairs with trading rewards.
 
-    <figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 * Check out our [social media channels](../../ecosystem-and-partnerships/contact-us/telegram.md).
 
 ## Check if your address is eligible <a href="#ced8a6c5-803a-4a60-80d0-44e823571d84" id="ced8a6c5-803a-4a60-80d0-44e823571d84"></a>
@@ -33,7 +33,7 @@ To participate in a trading reward campaign. Your address must meet the followin
 
 The easiest way to check if your address is eligible is to visit the [Trading Reward page](https://pancakeswap.finance/trading-reward) and connect your wallet. The page will guide you through the process to make your address eligible to earn CAKE from trades.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 For example, you will be presented with the above screen if you do not have an active fixed-term CAKE staking position. Simply follow the guide to start locking CAKE.
 
@@ -52,7 +52,7 @@ Each campaign may have different eligible pairs. To check which pairs are eligib
 
 ## Check the number of your rewards <a href="#7d7c7391-5454-4fa7-8928-c79885a00875" id="7d7c7391-5454-4fa7-8928-c79885a00875"></a>
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (34).png>)
 
 You may check the following numbers on the [Trading Reward page](https://pancakeswap.finance/trading-reward):
 
@@ -60,17 +60,17 @@ You may check the following numbers on the [Trading Reward page](https://pancake
 * The maximum amount of CAKE you can earn from the campaign - determined by the amount of your locked CAKE (only visible when you are exceeding the limit)
 * Your trading volume across all the eligible pairs
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
 Additionally, you may check the “Rewards Breakdown” section for a detailed view of each pair you traded
 
 ## Claim your rewards <a href="#5a0d1633-dba9-46c0-919c-77fee912f986" id="5a0d1633-dba9-46c0-919c-77fee912f986"></a>
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (29).png>)
 
 When a campaign is finished, you may need to wait up to 72 hours while data is being tallied and rewards are being injected.
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (39).png>)
 
 The “Claim All” button will light up when rewards are available for claiming. Simply click and claim your rewards.
 

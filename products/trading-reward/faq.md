@@ -29,7 +29,7 @@ If your trades are routed through pairs with a low fee tier, for example, 0.01%,
 
 ### Why is it telling me I have additional rewards that can not be claimed?
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (69).png>)
 
 The amount of CAKE locked in the position will determine the maximum amount of rewards you can earn from the campaign. Check out the footnote from the “Max Reward Cap” section.
 

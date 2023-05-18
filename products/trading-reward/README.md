@@ -12,3 +12,6 @@ Check out the following tutorial to learn more:
 
 Got any questions? Check out the following FAQ:
 
+{% content-ref url="faq.md" %}
+[faq.md](faq.md)
+{% endcontent-ref %}
