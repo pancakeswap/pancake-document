@@ -1,4 +1,4 @@
-# 📋 Limit Orders
+# Limit Orders (V2)
 
 ![](../../../.gitbook/assets/limit\_orders\_header.png)
 
