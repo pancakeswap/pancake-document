@@ -20,7 +20,7 @@ Para saber mais detalhes, clique no ícone da lupa para mostrar as exibições c
 
 ### **Personalizar fontes de liquidez**
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6) (6).png>)
 
 Na parte superior da interface em “Personalizar roteamento”, você pode escolher qual fonte de liquidez a rota usará ao rotear sua negociação. Para abrir esta interface, você pode:&#x20;
 

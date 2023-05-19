@@ -6,7 +6,7 @@
 
 Se você estiver enfrentando problemas,
 
-1. Primeiro verifique [a página de solução de problemas](../help/troubleshooting.md) para encontrar seu erro
+1. Primeiro verifique [a página de solução de problemas](../readme/help/troubleshooting.md) para encontrar seu erro
 2. Se você não conseguiu encontrar uma solução, tente atráves dos nossos grupos locais no [Telegram](telegram.md).
 
 {% hint style="danger" %}
