@@ -103,6 +103,8 @@
     * [🖼 NFT Profile System](products/nft-market/nft-profile-system/README.md)
       * [How to Set Up an NFT Profile](products/nft-market/nft-profile-system/profile-guide.md)
       * [Teams](products/nft-market/nft-profile-system/teams.md)
+  * [🎮 Pancake Protectors](products/pancake-protectors/README.md)
+    * [FAQ](products/pancake-protectors/faq.md)
   * [🌐 PancakeSwap Mini-Program](products/pancakeswap-mini-program/README.md)
     * [How to Use PancakeSwap Mini-Program?](products/pancakeswap-mini-program/how-to-use-pancakeswap-mini-program.md)
     * [Mini-Program FAQ](products/pancakeswap-mini-program/mini-program-faq.md)
