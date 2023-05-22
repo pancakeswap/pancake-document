@@ -6,7 +6,7 @@
 
 ## APR 自动计算和显示
 
-<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 当您提供流动资金时，自动 APR 显示会对你的配置变化做出反应，并根据你的设置计算 APR。&#x20;
 
@@ -31,11 +31,11 @@
 * "添加流动资金（Add Liquidity）" 页面--显示 LP 费用 APR&#x20;
 * 现有流动资金仓位的详情页--显示 LP 费用 APR
 
-![](<../../.gitbook/assets/image (24).png>)
+![](<../../.gitbook/assets/image (20).png>)
 
 * 农场页面，每个质押中的仓位内--显示与 LP 费用加上 CAKE 奖励的总和 APR
 
-![](<../../.gitbook/assets/image (31).png>)
+![](<../../.gitbook/assets/image (33).png>)
 
 ## 重新设计后的 ROI 计算器
 

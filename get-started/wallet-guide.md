@@ -134,7 +134,7 @@ SafePal 有软件和硬件钱包两种形式。该钱包 App 安装便捷，设�
 {% endtab %}
 
 {% tab title="Trust Wallet" %}
-![](<../.gitbook/assets/image (36).png>)
+![](<../.gitbook/assets/image (36) (1).png>)
 
 Trust Wallet 在移动设备上颇受欢迎的钱包应用。它支持 DApps，NFT 收藏品（支持 Opensea.io），以及钱包内直接质押，
 
@@ -190,7 +190,7 @@ Token Pocket 是一个原生支持多个网络（加密货币链）的虚拟货�
     ![](<../.gitbook/assets/mbp3-2021.08.16-103912am-cleanshot\_cleanshot (1) (1).png>)
 4.  在下一个页面，在列表内选择「**币安智能链**」。
 
-    ![](<../.gitbook/assets/image (153).png>)
+    ![](<../.gitbook/assets/image (153) (1).png>)
 5.  接下来，选择顶部的「**创建钱包**」继续。
 
     ![](../.gitbook/assets/MBP3-2021.08.16-104543AM-CleanShot\_CleanShot.png)

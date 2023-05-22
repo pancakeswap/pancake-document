@@ -2,7 +2,7 @@
 
 
 
-![](<../.gitbook/assets/image (154).png>)
+![](<../.gitbook/assets/image (154) (1).png>)
 
 币安智能链 (BSC) 上的原生代币为 **BEP-20** 标准。
 
