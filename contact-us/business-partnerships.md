@@ -34,7 +34,7 @@
 * 用户使用 CAKE代币购买您的项目代币。
 * IFO结束后，我们将 CAKE分发给您。
 
-请在[此处](../products/ifo-initial-farm-offering.md)了解有关 IFO 的更多信息。
+请在[此处](../chan-pin/ifo-initial-farm-offering/)了解有关 IFO 的更多信息。
 
 [**申请IFO**](https://docs.google.com/forms/d/e/1FAIpQLScGdT5rrVMr4WOWr08pvcroSeuIOtEJf1sVdQGVdcAOqryigQ/viewform)
 
@@ -47,13 +47,13 @@
 
 ## **NFT市场**
 
-[**申请列出您的NFT**](nft-shi-chang-ying-yong.md)
+[**申请列出您的NFT**](../sheng-tai-xi-tong-he-zuo-huo-ban-guan-xi/contact-us/nft-shi-chang-ying-yong.md)
 
 ## 上市交易所
 
 ### 如何让我的代币上市 PancakeSwap 交易所？
 
-任何人都可以在 PancakeSwap 交易所「上市」任何 BEP-20 区块链的代币。 您不需要与我们联系或征得许可。 您只需要在[流动性池中添加流动性](../products/pancakeswap-exchange/ru-he-tian-jia-yi-chu-liu-dong-xing.md)即可。 然后，交易者可以通过输入代币的合约地址来查找并交易您的代币。
+任何人都可以在 PancakeSwap 交易所「上市」任何 BEP-20 区块链的代币。 您不需要与我们联系或征得许可。 您只需要在[流动性池中添加流动性](../chan-pin/pancakeswap-exchange/ru-he-tian-jia-yi-chu-liu-dong-xing.md)即可。 然后，交易者可以通过输入代币的合约地址来查找并交易您的代币。
 
 ### 如何添加我的代币到默认列表中？
 
@@ -71,10 +71,10 @@ PancakeSwap 交易所直接读取 Trust Wallet 代码库内的图标资料。请
 
 ### 用户在交易我的代币时遇到错误，怎么办？
 
-请在 [故障排除页面](../click-here-for-help/troubleshooting-errors.md) 上查看常见错误列表与解决方法。
+请在 [故障排除页面](../master/click-here-for-help/troubleshooting-errors.md) 上查看常见错误列表与解决方法。
 
 ## 其他
 
 若以上内容没有解决您的疑问，请发送邮件至  info@pancakeswap.com。
 
-若您需要客户服务，请不要试图通过这个邮箱地址联系我们。因为它不是客服邮箱，我们将不会回应。若想在产品方面获得帮助，最佳的选择是通过 [Telegram 或 Reddit 社区](telegram.md)。
+若您需要客户服务，请不要试图通过这个邮箱地址联系我们。因为它不是客服邮箱，我们将不会回应。若想在产品方面获得帮助，最佳的选择是通过 [Telegram 或 Reddit 社区](../sheng-tai-xi-tong-he-zuo-huo-ban-guan-xi/contact-us/telegram.md)。

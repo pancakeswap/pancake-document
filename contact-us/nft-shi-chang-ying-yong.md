@@ -33,4 +33,4 @@ NFT 收藏创建者可以在 PancakeSwap 上的交易中赚取创作者版税，
 
 如果上述部分未涵盖您的问题，您可以发送电子邮件至 info@pancakeswap.com。&#x20;
 
-请不要尝试通过此电子邮件与我们联系以获得[客户支持](customer-support.md)，这不是正确的方式，我们不会回复：获得产品帮助的最佳选择是通过 [Telegram 或 Reddit 社区](telegram.md)。
+请不要尝试通过此电子邮件与我们联系以获得[客户支持](../sheng-tai-xi-tong-he-zuo-huo-ban-guan-xi/contact-us/customer-support.md)，这不是正确的方式，我们不会回复：获得产品帮助的最佳选择是通过 [Telegram 或 Reddit 社区](../sheng-tai-xi-tong-he-zuo-huo-ban-guan-xi/contact-us/telegram.md)。

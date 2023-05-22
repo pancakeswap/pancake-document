@@ -69,7 +69,7 @@ PancakeSwap 彩票奖金池时常高达**百万美元，**每天**多达 11,000 
 
 眼见为实：
 
-在 [这里](shen-ji-bao-gao.md) 查看这些对于 PancakeSwap 的安全审计报告
+在 [这里](master/shen-ji-bao-gao.md) 查看这些对于 PancakeSwap 的安全审计报告
 
 公开透明：
 
