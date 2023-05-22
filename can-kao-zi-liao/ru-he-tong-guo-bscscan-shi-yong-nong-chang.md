@@ -5,7 +5,7 @@
 由于它需要几个步骤，因此通过 Bscscan 调用农场合约乍一看似乎令人生畏。本指南将引导您直接通过 BscScan 调用农场合约。
 
 {% hint style="warning" %}
-请理解，我们不建议初学者使用 BscScan 与合约交互。如果您没有信心，我们建议您改用学习[如何使用农场指南](../chan-pin/yield-farming/ru-he-shi-yong-nong-chang.md)。
+请理解，我们不建议初学者使用 BscScan 与合约交互。如果您没有信心，我们建议您改用学习[如何使用农场指南](../products/yield-farming/ru-he-shi-yong-nong-chang.md)。
 {% endhint %}
 
 ## 查找农场进程标识符
