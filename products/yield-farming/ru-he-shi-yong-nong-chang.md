@@ -20,7 +20,7 @@ description: 在PancakeSwap上使用农场非常简单！
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt="" width="347"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt="" width="347"><figcaption></figcaption></figure>
 
 </div>
 
@@ -35,7 +35,7 @@ description: 在PancakeSwap上使用农场非常简单！
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -67,17 +67,17 @@ description: 在PancakeSwap上使用农场非常简单！
 
 ### 将你的流动性仓位质押到农场
 
-![](<../../.gitbook/assets/image (27).png>)
+![](<../../.gitbook/assets/image (11).png>)
 
 完成流动性添加后。你可以看到你的仓位将在你想使用的农场下列出。&#x20;
 
 如果你有多个仓位，你可以点击 "查看全部"，并在新的弹出窗口中查看它们。
 
-![](<../../.gitbook/assets/image (24).png>)![](<../../.gitbook/assets/image (29).png>)
+![](<../../.gitbook/assets/image (9).png>)![](<../../.gitbook/assets/image (12).png>)
 
 在列出的仓位上点击 "质押"，你的钱包弹出提示供你确认。
 
-![](<../../.gitbook/assets/image (18).png>)
+![](<../../.gitbook/assets/image (6).png>)
 
 短暂的等待后，窗口将关闭，你将在详情中看到你的质押仓位细节。
 
@@ -97,7 +97,7 @@ description: 在PancakeSwap上使用农场非常简单！
 
 如果你有多个已经质押仓位，你可以点击 "查看全部"，并在新的弹出窗口中查看它们。
 
-![](<../../.gitbook/assets/image (39).png>)
+![](<../../.gitbook/assets/image (14).png>)
 
 点击对应流动性仓位旁边的 "收割"，之后你的钱包弹出提示供你确认。等待区块确认后，CAKE 奖励将被发送到你的钱包。
 
@@ -113,7 +113,7 @@ description: 在PancakeSwap上使用农场非常简单！
 
 你只需回到农场页面，找到你想调整的农场和对应仓位。你可以使用 "仅限已质押" 的功能键来快速筛选你当前质押的农场。&#x20;
 
-![](<../../.gitbook/assets/image (22).png>)
+![](<../../.gitbook/assets/image (7).png>)
 
 点击带有代币对、费率、仓位 ID 等信息和 ">" 箭头的仓位标题。你将可以看到对应仓位的详细信息页面。 只需通过 "添加" 或 "移除" 按钮来调整所质押仓位的流动性设置。&#x20;
 

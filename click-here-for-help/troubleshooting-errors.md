@@ -106,7 +106,7 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 2. 在第五项 **"5. balanceOf"**，输入您的钱包地址然后点击 **Query** 按钮。
 3. 记下显示的余额。这余额显示的格式是uint256。您的下一个步骤需要输入这余额。
 
-![](<../.gitbook/assets/image (7) (1).png>)
+![](<../.gitbook/assets/image (7) (2).png>)
 
 ### 添加或解除流动性
 

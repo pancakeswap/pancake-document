@@ -4,7 +4,7 @@ description: gm eth!
 
 # 以太链上的扩展
 
-<figure><img src=".gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 我们已经在以太链推出了 PancakeSwap V3！我们希望与以太链上的众多项目团队开启沟通管道，在这里，向各位介绍加密货币世界中最大、最火爆以及活跃度最高的 DApp 之一（每天活跃用户超过 12 万）！
 
@@ -23,7 +23,7 @@ description: gm eth!
 
 随着 PancakeSwap v3的推出，我们正在引入经过优化的兑换体验，这将大大提高流动性提供者的资本效率，同时用户们依然可以方便地使用我们的平台。&#x20;
 
-对于建设者来说，我们保留了与 Uniswap v3 相似的合约 （核心合约，1:1 相同）。更多有关技术的信息，请查我们的[技术指南](https://docs.pancakeswap.finance/code/smart-contracts/pancakeswap-exchange/v3)。
+对于建设者来说，我们保留了与 Uniswap v3 相似的合约 （核心合约 1:1 相同）。更多有关技术的信息，请查我们的[技术指南](https://docs.pancakeswap.finance/code/smart-contracts/pancakeswap-exchange/v3)。
 
 除了你已经熟悉的流动性挖矿项目（"糖浆池和农场"）和社区参与活动（AMA，奖品挑战赛等）之外，我们一直在核心产品上不断创新。在为我们的平台引入[做市商资金池](https://medium.com/pancakeswap/introducing-market-maker-integration-on-ethereum-pancakeswap-trade-and-share-10-000-usdc-in-724df104716)后，我们现在是以太坊上许多主流代币的最佳交易场所。请查看[这里](https://twitter.com/PancakeSwap/status/1629740209427415042)。
 
@@ -36,11 +36,11 @@ description: gm eth!
 
 想要了解有关厨房的流动性挖矿计划（“糖浆池和农场”）的更多信息，请查看此 PDF：
 
-{% file src=".gitbook/assets/PancakeSwap Ethereum Syrup Pools & Farms.pdf" %}
+{% file src=".gitbook/assets/Ethereum PancakeSwap Syrup Pools & Farms .pdf" %}
 
 想要了解有关厨房的新币发行产品（“初次农场发行或 称作 IFO”）的更多信息，请查看此 PDF：
 
-{% file src=".gitbook/assets/Ethereum PancakeSwap IFOs.pdf" %}
+{% file src=".gitbook/assets/Ethereum PancakeSwap IFOs .pdf" %}
 
 ### 糖浆池/农场申请流程示例&#x20;
 
@@ -72,7 +72,7 @@ description: gm eth!
    * 团队通过了尽职调查——恭喜！
 3. 营销准备
    * 厨房将要求一些设计素材，项目信息，并创建一个可爱的横幅（请查看下面的 Wombat Exchange 示例）和一篇 Medium [文章](https://pancakeswap.finance/voting/proposal/bafkreieqv7mbzmumyftstt6l32x6okfzq4syrea7k5zbqgohhcekcvbduu?chainId=56)（这里我们添加一个提案链接，但由于我们不会在初始 以太链部署中启动我们的投票机制，我们将先使用 Medium）。&#x20;
-   * 同时我们还将开始为之后的 AMA 搜集并整理问题&#x20;
+   * 同时我们还将开始为之后的 **AMA** 搜集并整理问题&#x20;
    * 我们通常会开展为期一周的[营销活动](https://twitter.com/PancakeSwap/status/1562802361705578502)，其中可以包括以下活动：社交媒体互动，meme 设计竞赛、空投、特定项目任务等。
    * **请注意，在发布之前，PancakeSwap 或项目团队不应泄露双方合作的消息。**
 4. [AMA](https://twitter.com/PancakeSwap/status/1562648945721212929) (一般在 IFO 前一天举行)
