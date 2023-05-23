@@ -24,7 +24,11 @@ Puede sonar intimidante, pero no es demasiado complicado. Vamos a ir paso a paso
 
 Antes de continuar, querrá elegir un Farm adecuado para usted. [Visite la página de Farms](https://pancakeswap.finance/farms) y verá una lista de Farms disponibles.
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 CAKE-BNB y BUSD-BNB están anclados a la parte superior de la lista con la clasificación **Hot (**predeterminada). Después de los Farms anclados, Hot mostrará otros Farms en orden de qué tan nuevos son.
 
@@ -121,7 +125,7 @@ Para recoger sus recompensas, tendrás que visitar tu Farm elegido y recoger los
 {% hint style="info" %}
 Cuando esté farmeando un una red diferente a BNB Chain, deberá cambiar siempre a BNB Smart Chain para cosechar sus recompensas.
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 {% endhint %}
 
 ### Con qué frecuencia debo cosechar mis recompensas? <a href="#how-often-should-i-harvest-my-rewards" id="how-often-should-i-harvest-my-rewards"></a>

@@ -12,7 +12,11 @@ Si bien la mayoría de los usuarios en el mercado de DeFi ya deberían haber oí
 
 1. En la aplicación Binance, vaya a la pestaña Mercados y busque el token que desea intercambiar
 
-![](<../../.gitbook/assets/0 (1).png>)
+<div align="center">
+
+<img src="../../.gitbook/assets/0 (1).png" alt="">
+
+</div>
 
 2. Si el token se puede intercambiar en PancakeSwap, aparecerá en la sección Aplicaciones de terceros.
 

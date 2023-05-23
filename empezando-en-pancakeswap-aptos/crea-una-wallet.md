@@ -295,7 +295,7 @@ Blocto ofrece una solución amigable para el usuario y un paquete todo en uno pa
 
 2 - Luego ingresa la clave de un solo uso recibida en tu Email.
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1).png>)
 
 
 

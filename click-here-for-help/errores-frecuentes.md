@@ -65,11 +65,19 @@ Este error es causado al tratar de agregar o remover liquidez de un Pool de Liqu
 
 Puede darse el caso de que los precios se actualicen demasiado rápido y su tolerancia al deslizamiento (Slippage) sea demasiado baja.
 
-![](https://lh5.googleusercontent.com/T1KMtz2ILDVHljGw1iLbIv0W1KVl7qXL8zU2nLFHkUvDb5oMw9mpUzzBwWmIBz15XDsxZ5w7wsaqAwCs\_pxdobz\_kY\_7BhcZhYtpqWuQGFs23DZq98-SVInlfsS07WzxFPLIYXHt)
+<div align="left">
+
+<img src="https://lh5.googleusercontent.com/T1KMtz2ILDVHljGw1iLbIv0W1KVl7qXL8zU2nLFHkUvDb5oMw9mpUzzBwWmIBz15XDsxZ5w7wsaqAwCs_pxdobz_kY_7BhcZhYtpqWuQGFs23DZq98-SVInlfsS07WzxFPLIYXHt" alt="">
+
+</div>
 
 
 
-![](https://lh5.googleusercontent.com/7aspaCCvDjzxbJxngqwgeq737LB3OUNcAs592QqlEkyrAOTfKsrt\_FAwpEylaIJhff5ZcYlzB\_r0v1JZwfj3j8Ah6jlUbRoMrAqVfTb3cwDI7B1i5HJtZSQOsTPrv7l7SaclC3BV)
+<div align="left">
+
+<img src="https://lh5.googleusercontent.com/7aspaCCvDjzxbJxngqwgeq737LB3OUNcAs592QqlEkyrAOTfKsrt_FAwpEylaIJhff5ZcYlzB_r0v1JZwfj3j8Ah6jlUbRoMrAqVfTb3cwDI7B1i5HJtZSQOsTPrv7l7SaclC3BV" alt="">
+
+</div>
 {% endtab %}
 
 {% tab title="Solución para nerds" %}
@@ -287,7 +295,11 @@ Intenta aumentar manualmente el **gas limit** (no el gas price!) en tu wallet, a
 
 Un límite de gas (Gas Limit) en 200000 usualmente es suficiente
 
-![](<../.gitbook/assets/image (169).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (169).png" alt="">
+
+</div>
 
 El ejemplo de arriba es en Metamask; echa un vistazo a los docs de tu wallet si no estás seguro cómo ajustar el gas limit.
 {% endtab %}
