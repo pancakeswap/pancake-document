@@ -2,36 +2,28 @@
 
 ![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2FDrWlCzkUFhwcrYSsPCMP%2Ffaq-tradingreward.png?alt=media\&token=43950a84-f04f-4dd8-b8a0-81d870d32479)
 
-#### Why my traded volume was not tracked? <a href="#why-my-traded-volume-was-not-tracked" id="why-my-traded-volume-was-not-tracked"></a>
+#### ¿Por qué mi volumen negociado no fue rastreado?
 
-* Volume numbers take time to update and are subject to SubGraph delays. Please check back in a later time
-*   Your trade must be routed through the **exact** trading pair being highlighted on the
+* Los números de volumen tardan en actualizarse y están sujetos a retrasos de SubGraph. Vuelva a consultar más tarde&#x20;
+* Su operación debe enrutarse a través del par comercial exacto que se resalta en el Página [Trading Reward](https://pancakeswap.finance/trading-reward#rewards-breakdown), incluido el nivel de fees. Verificar [este tutorial](https://docs.pancakeswap.finance/products/pancakeswap-exchange/fees-and-routes#check-the-fee-rate-and-fee-amount-that-is-currently-applied) para saber cómo ver sus rutas de trading
+* Solo los pares comerciales V3 son elegibles para este programa&#x20;
+* Utilice la misma dirección de billetera elegible para el programa de recompensa de trading, tanto en Ethereum como en BNB Chain&#x20;
+* Si su volumen de negociación dentro de un par es demasiado pequeño, es posible que no sea elegible para reclamar ninguna recompensa.&#x20;
+* El uso de aggregators de operaciones de terceros puede dar lugar a que las operaciones se enruten a través de otros proveedores de liquidez y no se rastreen.&#x20;
 
-    [Trading Reward page](https://pancakeswap.finance/trading-reward#rewards-breakdown)
+#### Mi dirección fue elegible para la campaña anterior. ¿Por qué no es elegible para la última?&#x20;
 
-    , including the fee tier. Check out
+Cada campaña tiene sus propios requisitos de elegibilidad, como el tiempo de desbloqueo de la posición de stake de CAKE.&#x20;
 
-    [this tutorial](https://docs.pancakeswap.finance/products/pancakeswap-exchange/fees-and-routes#check-the-fee-rate-and-fee-amount-that-is-currently-applied)
+Es posible que deba ampliar su posición de participación. Simplemente siga las instrucciones en la página.&#x20;
 
-    for how to view your trading routes
-* Only V3 trading pairs are eligible for this program
-* Please use the same wallet address eligible for the trading reward program on both Ethereum and BNB Chain
-* If your trading volume within a pair is too small, you may not be eligible to claim any rewards
-* Using third-party trading aggregators may result in trades being routed through other liquidity providers and not being tracked
+#### ¿Por qué cambié mucho pero solo recibí una cantidad muy pequeña de recompensas?
 
-#### My address was eligible for the previous campaign. Why is it not eligible for the latest one? <a href="#my-address-was-eligible-for-the-previous-campaign.-why-is-it-not-eligible-for-the-latest-one" id="my-address-was-eligible-for-the-previous-campaign.-why-is-it-not-eligible-for-the-latest-one"></a>
+El monto de la recompensa de trading se basa en los fees de trading pagados en esas operaciones.&#x20;
 
-Each campaign has its own eligibility requirements, like the unlock time of the CAKE staking position.
+Si sus operaciones se enrutan a través de pares con un nivel de fee bajo, por ejemplo, 0,01%, está pagando un fee muy pequeño por su operación. Por lo tanto, el número de recompensas será menor en consecuencia.&#x20;
 
-You may need to extend your staking position. Simply follow the instructions on the page.
-
-#### Why I traded a lot but only received a very small amount of rewards <a href="#why-i-traded-a-lot-but-only-received-a-very-small-amount-of-rewards" id="why-i-traded-a-lot-but-only-received-a-very-small-amount-of-rewards"></a>
-
-The amount of the trading reward is based on the trading fee paid in those trades.
-
-If your trades are routed through pairs with a low fee tier, for example, 0.01%, you are paying a very small fee for your trade. Therefore the number of rewards will become lower accordingly.
-
-#### Why is it telling me I have additional rewards that can not be claimed? <a href="#why-is-it-telling-me-i-have-additional-rewards-that-can-not-be-claimed" id="why-is-it-telling-me-i-have-additional-rewards-that-can-not-be-claimed"></a>
+#### ¿Por qué me dice que tengo recompensas adicionales que no se pueden reclamar?
 
 ​
 
@@ -39,6 +31,6 @@ If your trades are routed through pairs with a low fee tier, for example, 0.01%,
 
 ​
 
-The amount of CAKE locked in the position will determine the maximum amount of rewards you can earn from the campaign. Check out the footnote from the “Max Reward Cap” section.
+La cantidad de CAKE bloqueado en la posición determinará la cantidad máxima de recompensas que puede obtener de la campaña. Consulte la nota al pie de página de la sección "Límite máximo de recompensa".&#x20;
 
-While a campaign is active, you can add more CAKE to the lock and raise this cap at any time.
+Mientras una campaña está activa, puede agregar más CAKE al bloqueo y aumentar este límite en cualquier momento.

@@ -66,7 +66,7 @@ Los CAKE en otros lugares no contribuyen al poder de voto.
 {% tab title="Comprobar el bloque del snapshot" %}
 #### Comprobar el bloque del snapshot
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (4).png" alt=""><figcaption></figcaption></figure>
 
 El poder de voto se calcula en función de un snapshot (instantánea) tomada en el bloque del snapshot. Por lo tanto, comprar o depositar más CAKE después de que se publique la propuesta no aumenta el poder de voto para esa propuesta en particular.&#x20;
 
