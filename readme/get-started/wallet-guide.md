@@ -35,13 +35,7 @@ Smartphone/Mobile wallets allow you to access your crypto almost anywhere. Walle
 
 This comparison table gives an overview of the most popular mobile wallets used with PancakeSwap.
 
-|                                                                   | MetaMask | Coinbase Wallet | SafePal                    | Trust Wallet | Token Pocket |
-| ----------------------------------------------------------------- | -------- | --------------- | -------------------------- | ------------ | ------------ |
-| BNB Smart Chain support                                           | ⚠️       | ✅               | ✅                          | ✅            | ✅            |
-| Built-in DApp browser                                             | ➖        | ✅               | ✅                          | ✅            | ✅            |
-| Hardware wallet compatible                                        | ✅        | ✅               | <p>✅<br>(Only SafePal)</p> | ➖            | ➖            |
-| Open source (auditability)                                        | ✅        | ✅               | ➖                          | ✅            | ✅            |
-| <p>Interact with BscScan Directly</p><p>(for advanced users!)</p> | ✅        | ➖               | ➖                          | ➖            | ➖            |
+<table><thead><tr><th width="151"></th><th width="114">MetaMask</th><th width="109">Coinbase Wallet</th><th width="145">SafePal</th><th width="115">Trust Wallet</th><th width="98">Token Pocket</th></tr></thead><tbody><tr><td>BNB Smart Chain support</td><td>⚠️</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Built-in DApp browser</td><td>➖</td><td>✅</td><td>✅</td><td>✅ </td><td>✅</td></tr><tr><td>Hardware wallet compatible</td><td>✅</td><td>✅</td><td>✅<br>(Only SafePal)</td><td>➖</td><td>➖</td></tr><tr><td>Open source (auditability)</td><td>✅</td><td>✅</td><td>➖</td><td>✅</td><td>✅</td></tr><tr><td><p>Interact with BscScan Directly</p><p>(for advanced users!)</p></td><td>✅</td><td>➖</td><td>➖</td><td>➖</td><td>➖</td></tr></tbody></table>
 
 ⚠️ Requires some setup
 
@@ -229,13 +223,7 @@ Desktop wallets are available on your home computer or laptop computer. Wallets 
 
 This comparison table gives an overview of the most popular desktop wallets used with PancakeSwap.
 
-|                                                                   | MetaMask | Trust Wallet | Binance Wallet | Coinbase Wallet | Token Pocket |
-| ----------------------------------------------------------------- | -------- | ------------ | -------------- | --------------- | ------------ |
-| BNB Smart Chain support                                           | ⚠️       | ✅            | ✅              | ✅               | ⚠️           |
-| Built-in DApp browser                                             | ➖        | ✅            | ➖              | ➖               | ✅            |
-| Hardware wallet compatible                                        | ✅        | ✅ (Beta)     | ✅              | ✅               | ➖            |
-| Open source (auditability)                                        | ✅        | ✅            | ✅              | ✅               | ✅            |
-| <p>Interact with BscScan Directly</p><p>(for advanced users!)</p> | ✅        | ✅            | ➖              | ➖               | ➖            |
+<table><thead><tr><th width="187"></th><th width="116">MetaMask</th><th width="108">Trust Wallet</th><th width="107">Binance Wallet</th><th width="116">Coinbase Wallet</th><th width="150">Token Pocket</th></tr></thead><tbody><tr><td>BNB Smart Chain support</td><td>⚠️</td><td>✅</td><td>✅</td><td>✅</td><td>⚠️</td></tr><tr><td>Built-in DApp browser</td><td>➖</td><td>✅</td><td>➖</td><td>➖</td><td>✅</td></tr><tr><td>Hardware wallet compatible</td><td>✅</td><td>✅ (Beta)</td><td>✅</td><td>✅</td><td>➖</td></tr><tr><td>Open source (auditability)</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td><p>Interact with BscScan Directly</p><p>(for advanced users!)</p></td><td>✅</td><td>✅</td><td>➖</td><td>➖</td><td>➖</td></tr></tbody></table>
 
 ⚠️ Requires additional setup
 

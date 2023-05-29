@@ -34,12 +34,7 @@ struct SmartChefMetadata has key {
 }
 ```
 
-| Name                | Type                       | Description                                    |
-| ------------------- | -------------------------- | ---------------------------------------------- |
-| signer\_cap         | `account::SignerCapablity` | The signer capability of the resource account. |
-| admin               | `address`                  | The admin address of the module.               |
-| uid                 | `u64`                      | The latest id of the latest pool.              |
-| create\_pool\_event | `EventHandle`              | The event emit when a new pool is created      |
+<table><thead><tr><th>Name</th><th width="274.3333333333333">Type</th><th>Description</th></tr></thead><tbody><tr><td>signer_cap</td><td><code>account::SignerCapablity</code></td><td>The signer capability of the resource account.</td></tr><tr><td>admin</td><td><code>address</code></td><td>The admin address of the module.</td></tr><tr><td>uid</td><td><code>u64</code></td><td>The latest id of the latest pool.</td></tr><tr><td>create_pool_event</td><td><code>EventHandle</code></td><td>The event emit when a new pool is created</td></tr></tbody></table>
 
 ### PoolInfo
 
@@ -65,23 +60,7 @@ struct PoolInfo<phantom StakeToken, phantom RewardToken, phantom UID> has key {
 }
 ```
 
-| Name                                   | Type          | Description                                                                  |
-| -------------------------------------- | ------------- | ---------------------------------------------------------------------------- |
-| total\_staked\_token                   | `coin::Coin`  | The total amount of staked token in the pool.                                |
-| total\_reward\_token                   | `coin::Coin`  | The total amount of reward token in the pool.                                |
-| reward\_per\_second                    | `u64`         | The reward emitting out per second.                                          |
-| start\_timestamp                       | `u64`         | The start time in seconds.                                                   |
-| end\_timestamp                         | `u64`         | The end time in seconds.                                                     |
-| last\_reward\_timestamp                | `u64`         | The latest time that reward was distributed.                                 |
-| seconds\_for\_user\_limit              | `u64`         | The time that user limit will apply after the start time.                    |
-| pool\_limit\_per\_user                 | `u64`         | The amount of token allow to be stake within the seconds\_for\_user\_limit.  |
-| acc\_token\_per\_share                 | `u128`        | The accumulative token per share.                                            |
-| precision\_factor                      | `u128`        | The precision factor used for calculation.                                   |
-| emergency\_withdraw\_reward\_event     | `EventHandle` | The event emit when the reward is withdrawn.                                 |
-| stop\_reward\_event                    | `EventHandle` | The event emit when the admin stop reward.                                   |
-| new\_pool\_limit\_event                | `EventHandle` | The event emit when the admin update the new pool limit.                     |
-| new\_reward\_per\_second\_event        | `EventHandle` | The event emit when the admin update the reward per second of the pool.      |
-| new\_start\_and\_end\_timestamp\_event | `EventHandle` | The event emit when the admin update the start or end timestamp of the pool. |
+<table><thead><tr><th width="334.3333333333333">Name</th><th width="159">Type</th><th>Description</th></tr></thead><tbody><tr><td>total_staked_token</td><td><code>coin::Coin</code></td><td>The total amount of staked token in the pool.</td></tr><tr><td>total_reward_token</td><td><code>coin::Coin</code></td><td>The total amount of reward token in the pool.</td></tr><tr><td>reward_per_second</td><td><code>u64</code></td><td>The reward emitting out per second.</td></tr><tr><td>start_timestamp</td><td><code>u64</code></td><td>The start time in seconds.</td></tr><tr><td>end_timestamp</td><td><code>u64</code></td><td>The end time in seconds.</td></tr><tr><td>last_reward_timestamp</td><td><code>u64</code></td><td>The latest time that reward was distributed.</td></tr><tr><td>seconds_for_user_limit</td><td><code>u64</code></td><td>The time that user limit will apply after the start time.</td></tr><tr><td>pool_limit_per_user</td><td><code>u64</code></td><td>The amount of token allow to be stake within the seconds_for_user_limit.</td></tr><tr><td>acc_token_per_share</td><td><code>u128</code></td><td>The accumulative token per share.</td></tr><tr><td>precision_factor</td><td><code>u128</code></td><td>The precision factor used for calculation.</td></tr><tr><td>emergency_withdraw_reward_event</td><td><code>EventHandle</code></td><td>The event emit when the reward is withdrawn.</td></tr><tr><td>stop_reward_event</td><td><code>EventHandle</code></td><td>The event emit when the admin stop reward.</td></tr><tr><td>new_pool_limit_event</td><td><code>EventHandle</code></td><td>The event emit when the admin update the new pool limit.</td></tr><tr><td>new_reward_per_second_event</td><td><code>EventHandle</code></td><td>The event emit when the admin update the reward per second of the pool.</td></tr><tr><td>new_start_and_end_timestamp_event</td><td><code>EventHandle</code></td><td>The event emit when the admin update the start or end timestamp of the pool.</td></tr></tbody></table>
 
 ## Entry Functions
 

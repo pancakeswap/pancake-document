@@ -4,10 +4,7 @@
 
 Our commission structure is as follows:
 
-| Product                                  | PancakeSwap V2 | PancakeSwap V3 | PancakeSwap Stableswap | PancakeSwap Perpetuals                       |
-| ---------------------------------------- | -------------- | -------------- | ---------------------- | -------------------------------------------- |
-| Commission Rate (Based on trading fees)  | 3%\*           | 3%\*           | 3%\*                   | 20%\*\*                                      |
-| Profit Sharing with users (Customizable) | Up to 100%     | Up to 100%     | Up to 100%             | Users get 20% of commissions fixed**\*\*\*** |
+<table><thead><tr><th width="198">Product</th><th width="142">PancakeSwap V2</th><th width="140">PancakeSwap V3</th><th width="146">PancakeSwap Stableswap</th><th>PancakeSwap Perpetuals</th></tr></thead><tbody><tr><td>Commission Rate (Based on trading fees)</td><td>3%*</td><td>3%*</td><td>3%*</td><td>20%**</td></tr><tr><td>Profit Sharing with users (Customizable)</td><td>Up to 100%</td><td>Up to 100%</td><td>Up to 100%</td><td>Users get 20% of commissions fixed<strong>***</strong></td></tr></tbody></table>
 
 **\*** To be eligible for commissions, the swap trades must have a token pair that:
 

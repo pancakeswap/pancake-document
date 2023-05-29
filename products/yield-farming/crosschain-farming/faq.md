@@ -89,13 +89,7 @@ For now, Chefs have diverted 0.0189 CAKE per block from the CAKE pool to all cro
 
 Here is the emissions breakdown:
 
-|                          | Multiplier | CAKE per block |
-| ------------------------ | ---------- | -------------- |
-| **CAKE Pool**            | -          | **8.9811**     |
-| **All Crosschain Farms** | -          | **0.0189**     |
-| Ethereum ETH/USDC        | 0.5x       | 0.0105         |
-| Ethereum ETH/USDT        | 0.2x       | 0.0042         |
-| Ethereum WBTC/ETH        | 0.2x       | 0.0042         |
+<table><thead><tr><th width="249"></th><th>Multiplier</th><th>CAKE per block</th></tr></thead><tbody><tr><td><strong>CAKE Pool</strong></td><td>-</td><td><strong>8.9811</strong></td></tr><tr><td><strong>All Crosschain Farms</strong></td><td>-</td><td><strong>0.0189</strong></td></tr><tr><td>Ethereum ETH/USDC</td><td>0.5x</td><td>0.0105</td></tr><tr><td>Ethereum ETH/USDT</td><td>0.2x</td><td>0.0042</td></tr><tr><td>Ethereum WBTC/ETH</td><td>0.2x</td><td>0.0042</td></tr></tbody></table>
 
 ### What happened during the deposit, harvest and withdrawal?
 

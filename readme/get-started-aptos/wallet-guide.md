@@ -41,12 +41,7 @@ Smartphone/Mobile wallets allow you to access your crypto almost anywhere. Walle
 
 This comparison table gives an overview of the most popular mobile wallets used with PancakeSwap.
 
-|                            | SafePal                        | Trust Wallet | Blocto |
-| -------------------------- | ------------------------------ | ------------ | ------ |
-| Aptos Chain support        | ✅                              | ✅            | ✅      |
-| Built-in DApp browser      | ✅                              | ✅            | ✅      |
-| Hardware wallet compatible | <p>✅ </p><p>(Only SafePal)</p> | ➖            | ➖      |
-| Open source (auditability) | ➖                              | ✅            | ➖      |
+<table><thead><tr><th width="283.4285714285714"></th><th width="148">SafePal</th><th>Trust Wallet</th><th>Blocto</th></tr></thead><tbody><tr><td>Aptos Chain support</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Built-in DApp browser</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Hardware wallet compatible</td><td><p>✅ </p><p>(Only SafePal)</p></td><td>➖</td><td>➖</td></tr><tr><td>Open source (auditability)</td><td>➖</td><td>✅</td><td>➖</td></tr></tbody></table>
 
 You can find more in-depth information about each wallet below, as well as download links and installation guides.
 
@@ -145,11 +140,7 @@ Desktop wallets are available on your home computer or laptop computer. Wallets 
 
 This comparison table gives an overview of the most popular desktop wallets used with PancakeSwap on Aptos
 
-|                            | Petra | Martian | Pontem | Fewcha | Blocto |
-| -------------------------- | ----- | ------- | ------ | ------ | ------ |
-| Aptos Chain support        | ✅     | ✅       | ✅      | ✅      | ✅      |
-| Hardware wallet compatible | ➖     | ➖       | ➖      | ➖      | ➖      |
-| Open source (auditability) | ✅     | ❓       | ✅      | ❓      | ❓      |
+<table><thead><tr><th width="187"></th><th width="79">Petra</th><th width="97">Martian</th><th width="92">Pontem</th><th width="109">Fewcha</th><th width="94">Blocto</th></tr></thead><tbody><tr><td>Aptos Chain support</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Hardware wallet compatible</td><td>➖</td><td>➖</td><td>➖</td><td>➖</td><td>➖</td></tr><tr><td>Open source (auditability)</td><td>✅</td><td>❓</td><td>✅</td><td>❓</td><td>❓</td></tr></tbody></table>
 
 _❓ - as of writing, we are unsure about the status of this information_
 

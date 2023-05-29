@@ -16,13 +16,7 @@ When you conduct a Swap (trade) on the StableSwap you will pay lower trading fee
 
 Fees for pairs are broken down in the table below:
 
-| Stablepair   | Trading Fees | LP Rewards | CAKE Buyback | PancakeSwap Treasury |
-| ------------ | ------------ | ---------- | ------------ | -------------------- |
-| USDT-BUSD    | 0.01%        | 0.005%     | 0.004%       | 0.001%               |
-| USDC-BUSD    | 0.01%        | 0.005%     | 0.004%       | 0.001%               |
-| USDC-USDT    | 0.01%        | 0.005%     | 0.004%       | 0.001%               |
-| HAY-BUSD     | 0.04%        | 0.02%      | 0.016%       | 0.004%               |
-| axlUSDC-USDT | 0.04%        | 0.02%      | 0.016%       | 0.004%               |
+<table><thead><tr><th width="150">Stablepair</th><th width="132">Trading Fees</th><th width="118.33333333333331">LP Rewards</th><th width="124">CAKE Buyback</th><th>PancakeSwap Treasury</th></tr></thead><tbody><tr><td>USDT-BUSD</td><td>0.01%</td><td>0.005%</td><td>0.004%</td><td>0.001%</td></tr><tr><td>USDC-BUSD</td><td>0.01%</td><td>0.005%</td><td>0.004%</td><td>0.001%</td></tr><tr><td>USDC-USDT</td><td>0.01%</td><td>0.005%</td><td>0.004%</td><td>0.001%</td></tr><tr><td>HAY-BUSD</td><td>0.04%</td><td>0.02%</td><td>0.016%</td><td>0.004%</td></tr><tr><td>axlUSDC-USDT</td><td>0.04%</td><td>0.02%</td><td>0.016%</td><td>0.004%</td></tr></tbody></table>
 
 The Kitchen will gradually roll out StableSwap pairs and revise the fees to test and improve the product further.
 

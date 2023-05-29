@@ -35,21 +35,7 @@ struct MasterChef has key {
 }
 ```
 
-| Name                         |                                      |                                                                                                 |
-| ---------------------------- | ------------------------------------ | ----------------------------------------------------------------------------------------------- |
-| signer\_cap                  | `account::SingerCapability`          | The signer capability of the resource account.                                                  |
-| admin                        | `address`                            | The admin address of the module.                                                                |
-| upkeep\_admin                | `address`                            | The account that execute upkeep call.                                                           |
-| lp\_to\_pid                  | `table_with_length::TableWithLength` | LP token type info and corresponding pool id.                                                   |
-| lps                          | `vector`                             | All added LP token type info array.                                                             |
-| pool\_info                   | `vector`                             | A list of pool \_info struct.                                                                   |
-| total\_regular\_alloc\_point | `u64`                                | Sum of all regular farm allocate points.                                                        |
-| total\_special\_alloc\_point | `u64`                                | Sum of all special farm allocate points.                                                        |
-| cake\_per\_second            | `u64`                                | Cake reward per second for all farm pools.                                                      |
-| cake\_rate\_to\_regular      | `u64`                                | The percentage of cake rewards that regular farm can earn                                       |
-| cake\_rate\_to\_special      | `u64`                                | The percentage of cake rewards that special farm can earn.                                      |
-| last\_upkeep\_timestamp      | `u64`                                | The timestamp of the last upkeep execution.                                                     |
-| end\_timestamp               | `u64`                                | The last time that farms can get cake reward, each upkeep operation will extend this timestamp. |
+<table><thead><tr><th width="232">Name</th><th width="284.3333333333333"></th><th></th></tr></thead><tbody><tr><td>signer_cap</td><td><code>account::SingerCapability</code></td><td>The signer capability of the resource account.</td></tr><tr><td>admin</td><td><code>address</code></td><td>The admin address of the module.</td></tr><tr><td>upkeep_admin</td><td><code>address</code></td><td>The account that execute upkeep call.</td></tr><tr><td>lp_to_pid</td><td><code>table_with_length::TableWithLength</code></td><td>LP token type info and corresponding pool id.</td></tr><tr><td>lps</td><td><code>vector</code></td><td>All added LP token type info array.</td></tr><tr><td>pool_info</td><td><code>vector</code></td><td>A list of pool _info struct.</td></tr><tr><td>total_regular_alloc_point</td><td><code>u64</code></td><td>Sum of all regular farm allocate points.</td></tr><tr><td>total_special_alloc_point</td><td><code>u64</code></td><td>Sum of all special farm allocate points.</td></tr><tr><td>cake_per_second</td><td><code>u64</code></td><td>Cake reward per second for all farm pools.</td></tr><tr><td>cake_rate_to_regular</td><td><code>u64</code></td><td>The percentage of cake rewards that regular farm can earn</td></tr><tr><td>cake_rate_to_special</td><td><code>u64</code></td><td>The percentage of cake rewards that special farm can earn.</td></tr><tr><td>last_upkeep_timestamp</td><td><code>u64</code></td><td>The timestamp of the last upkeep execution.</td></tr><tr><td>end_timestamp</td><td><code>u64</code></td><td>The last time that farms can get cake reward, each upkeep operation will extend this timestamp.</td></tr></tbody></table>
 
 ### PoolUserInfo
 

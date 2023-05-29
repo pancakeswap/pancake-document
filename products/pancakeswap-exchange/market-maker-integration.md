@@ -25,11 +25,7 @@ In such a scenario, the smart router will automatically route the trade to the m
 PancakeSwap does not charge traders any fees executed through us and which are executed by the market makers. However, PancakeSwap receives **0.05%** **trading fees (0.0375% on BSC)** from whitelisted market makers for volumes executed by them. PancakeSwap receives a reduced **0.01%** **trading fee** if the trades executed are between stablecoin pairs. Please refer to the fee breakdown below:\
 
 
-| Trades                                     | Trading Fees | PCS fee from MM | Cake Burn | Pancakeswap Treasury |
-| ------------------------------------------ | ------------ | --------------- | --------- | :------------------: |
-| Non-stablecoin on Ethereum (e.g. ETH/USDC) | N/A          | 0.05%           | 0.017%    |        0.033%        |
-| Non-stablecoin on BSC (e.g. BNB/USDT)      | N/A          | 0.0375%         | 0.013%    |        0.025%        |
-| Stablecoin to Stablecoin on Ethereum       | N/A          | 0.01%           | 0.003%    |        0.007%        |
+<table><thead><tr><th width="178">Trades</th><th width="138">Trading Fees</th><th width="182">PCS fee from MM</th><th width="147">Cake Burn</th><th align="center">Pancakeswap Treasury</th></tr></thead><tbody><tr><td>Non-stablecoin on Ethereum (e.g. ETH/USDC)</td><td>N/A</td><td>0.05%</td><td>0.017%</td><td align="center">0.033%</td></tr><tr><td>Non-stablecoin on BSC (e.g. BNB/USDT)</td><td>N/A</td><td>0.0375%</td><td>0.013% </td><td align="center">0.025%</td></tr><tr><td>Stablecoin to Stablecoin on Ethereum</td><td>N/A</td><td>0.01%</td><td>0.003%</td><td align="center">0.007%</td></tr></tbody></table>
 
 #### Assets currently supported&#x20;
 
