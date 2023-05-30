@@ -66,15 +66,19 @@ Ganhe um rendimento maior em seu depósito CAKE, uma combinação de stake bloqu
 
 ## PancakeSwap é segura?
 
-Veja por você mesmo:
+### Veja por você mesmo:
 
-* Cheque as auditorias de segurança da PancakeSwap [aqui](readme/auditorias.md).
-* Transparência:
-  * Somos construídos em software de código aberto: nosso site e todos os nossos contratos inteligentes são visíveis publicamente para máxima transparência.
-  * Nossos contratos são verificados na BscScan então o que você vê é o que é: [1](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E) [2](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#code) [3](https://bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812) [4](https://bscscan.com/address/0x1b96b92314c44b159149f7e0303511fb2fc4774f#code) [5](https://bscscan.com/address/0x92E8CeB7eAeD69fB6E4d9dA43F605D2610214E68)
-* Melhores práticas de segurança:
-  * Os chefs usam multisig para todos os contratos.
-  * O timelock dos nossos contratos dão tranquilidade para você.
+* Cheque as auditorias de segurança da PancakeSwap [aqui](auditorias.md).
+
+### Transparência:
+
+* Somos construídos em software de código aberto: nosso site e todos os nossos contratos inteligentes são visíveis publicamente para máxima transparência.
+* Nossos contratos são verificados na BscScan então o que você vê é o que é: [1](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E) [2](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#code) [3](https://bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812) [4](https://bscscan.com/address/0x1b96b92314c44b159149f7e0303511fb2fc4774f#code) [5](https://bscscan.com/address/0x92E8CeB7eAeD69fB6E4d9dA43F605D2610214E68)
+
+### Melhores práticas de segurança:
+
+* Os chefs usam multisig para todos os contratos.
+* O timelock dos nossos contratos dão tranquilidade para você.
 
 **Parece divertido?**\
 **Então vamos empilhar!** 🐰 🥞

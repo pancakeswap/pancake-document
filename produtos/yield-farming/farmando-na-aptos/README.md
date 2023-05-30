@@ -14,7 +14,7 @@ Confira a [seção principal](../) para saber mais sobre a yield farm.&#x20;
 
 Projetamos a experiência do produto para ser consistente em diferentes blockchains. Portanto, se você é um usuário sazonal do Farm na BSC, você se sentirá em casa ao fazer farm na Aptos. Se você é novo na farm de liquidez, confira nosso tutorial [Como usar farms](../how-to-use-farms.md) para começar.&#x20;
 
-Para saber mais sobre como fazer a ponte entre seus ativos e CAKE entre BSC e Aptos. Confira o [tutorial de bridge de CAKE](../../../readme/inicio-aptos/tutorial-para-fazer-bridge-de-cake.md).
+Para saber mais sobre como fazer a ponte entre seus ativos e CAKE entre BSC e Aptos. Confira o [tutorial de bridge de CAKE](../../../inicio-aptos/tutorial-para-fazer-bridge-de-cake.md).
 
 {% hint style="warning" %}
 O farm de rendimento pode dar melhores recompensas do que as Pools de Syrup, mas vem com o risco de Perda Impermanente. Não é tão assustador quanto parece, mas vale a pena aprender sobre o conceito antes de começar. Confira este ótimo [artigo sobre Perda Impermanente](https://academy.binance.com/pt/articles/impermanent-loss-explained) da Binance Academy para saber mais.

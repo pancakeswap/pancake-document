@@ -46,7 +46,7 @@ O Smart Router da PancakeSwap  é um algoritmo de roteamento que liga V3, V2, St
 
 O Smart Router agora é a rota padrão para a Exchange PancakeSwap V3. No entanto, os usuários são livres para personalizá-lo de acordo com suas necessidades.&#x20;
 
-Para saber mais sobre como personalizar suas rotas de trade, [clique aqui](taxas-e-rotas.md).&#x20;
+Para saber mais sobre como personalizar suas rotas de trade, [clique aqui](taxas-e-roteamento.md).&#x20;
 
 Para obter mais informações sobre o StableSwap, [clique aqui](https://docs.pancakeswap.finance/v/portuguese-brazilian/produtos/stableswap) e para a integração do Market Maker, [clique aqui](integracao-com-market-maker.md).
 

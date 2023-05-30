@@ -1,3 +1,0 @@
-# 💧 Liquid Staking Integration
-
-Liquid staking is a method that enables users to stake while still being able to use or trade their assets through a representative token. This provides flexibility and access to the funds for other uses while still earning staking rewards. Since the Ethereum network has finished the Merge (i.e. the consensus mechanism of ETH has been upgraded to Proof of Stake), liquid staking offers users the option to stake their ETH to earn rewards. And, unlike traditional staking methods, users can still use and have the liquidity to their ETH while it is being staked. The WBETH token solves this problem.

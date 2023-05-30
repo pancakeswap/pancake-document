@@ -48,7 +48,7 @@ Sim. O novo Swap v3 usa a liquidez da PancakeSwap v3, v2 e StableSwap para obter
 
 No Swap v3, sua negociação pode ser dividida em várias rotas para executar sua negociação com a melhor taxa.&#x20;
 
-Para ver mais detalhes de como sua negociação é roteada, toque no botão “v” na seção “Rota” para expandir e visualizar os detalhes. Saiba mais [aqui](taxas-e-rotas.md).
+Para ver mais detalhes de como sua negociação é roteada, toque no botão “v” na seção “Rota” para expandir e visualizar os detalhes. Saiba mais [aqui](taxas-e-roteamento.md).
 
 #### Como personalizar ou desabilitar certas fontes de liquidez? <a href="#how-to-customise-or-disable-certain-liquidity-sources" id="how-to-customise-or-disable-certain-liquidity-sources"></a>
 
@@ -60,7 +60,7 @@ No pop-up “Personalizar roteamento”, você pode escolher qual fonte de liqui
 
 Observe: desabilitar o multihops pode levar a um aumento da derrapagem ou a uma taxa de negociação pior em pares de negociação específicos. Prossiga com cuidado.
 
-Saiba mais [aqui](taxas-e-rotas.md).
+Saiba mais [aqui](taxas-e-roteamento.md).
 
 ## Liquidez
 

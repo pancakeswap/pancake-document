@@ -1,6 +1,6 @@
 # Integração com Market Maker
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Integração do Market Maker no Ethereum&#x20;
 
@@ -20,10 +20,7 @@ Nesse cenário, o Smart Router encaminhará automaticamente a negociação para 
 
 A PancakeSwap não cobra dos traders quaisquer taxas executadas através de nós e que são executadas pelos formadores de mercado. No entanto, a PancakeSwap recebe **taxas de negociação de 0,05%** dos formadores de mercado da whitelist para volumes executados por eles. A PancakeSwap recebe uma **taxa de negociação reduzida de 0,01%** se as negociações executadas forem entre pares de stablecoin.
 
-| Trades                                 | Taxas de Trade | Taxa para PCS  do MM | Queima de Cake | Pancakeswap Treasury |
-| -------------------------------------- | -------------- | -------------------- | -------------- | :------------------: |
-| Não-stablecoin (Por exemplo, ETH/USDC) | N/A            | 0,05%                | 0,017%         |        0,033%        |
-| Stablecoin para Stablecoin             | N/A            | 0,01%                | 0,003%         |        0,007%        |
+<table><thead><tr><th width="178">Trades</th><th width="138">Taxas de Trade</th><th width="182">Taxa para PCS  do MM</th><th width="147">Queima de Cake</th><th align="center">Pancakeswap Treasury</th></tr></thead><tbody><tr><td>Não-stablecoin (Por exemplo, ETH/USDC)</td><td>N/A</td><td>0,05%</td><td>0,017%</td><td align="center">0,033%</td></tr><tr><td>Stablecoin para Stablecoin</td><td>N/A</td><td>0,01%</td><td>0,003%</td><td align="center">0,007%</td></tr></tbody></table>
 
 ### Recursos atualmente suportados&#x20;
 

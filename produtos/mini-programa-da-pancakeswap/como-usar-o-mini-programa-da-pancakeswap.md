@@ -72,7 +72,7 @@ Atualmente, quatro recursos principais foram implementados no Mini-Programa, inc
 
 **3 - Yield Farming** - permite que os usuários que fornecem liquidez ganhem recompensas CAKE ao bloquear seus tokens LP em um contrato inteligente. Isso é para equilibrar o risco de perda impermanente que acompanha o bloqueio de sua liquidez.
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (4).png" alt=""><figcaption></figcaption></figure>
 
 **4 - Pools de Syrup** – Pools de Syrup são a maneira mais simples de ganhar tokens grátis na PancakeSwap. Faça stake de CAKE, ganhe tokens grátis. É muito fácil.
 
