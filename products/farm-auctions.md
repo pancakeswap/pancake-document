@@ -1,5 +1,7 @@
 # 🧑⚖ Farm Auctions
 
+<figure><img src="../.gitbook/assets/Farm Auctions.png" alt=""><figcaption></figcaption></figure>
+
 ### Introduction
 
 #### What are Farm Auctions?
