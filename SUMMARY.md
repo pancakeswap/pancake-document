@@ -66,6 +66,7 @@
     * [How to Participate in an IFO](products/ifo-initial-farm-offering/ifo-guide.md)
     * [iCAKE](products/ifo-initial-farm-offering/icake.md)
     * [Contract Details](products/ifo-initial-farm-offering/contract-details.md)
+  * [🧑‍⚖️ Farm Auctions](products/farm-auctions.md)
   * [🌉 CAKE Bridging](products/cake-bridging/README.md)
     * [Between EVMs](products/cake-bridging/evms.md)
     * [Between EVM and Aptos](products/cake-bridging/aptos.md)
