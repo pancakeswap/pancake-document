@@ -1,4 +1,4 @@
-# 🧑‍⚖️ Farm Auctions
+# 🧑⚖ Farm Auctions
 
 ### Introduction
 
