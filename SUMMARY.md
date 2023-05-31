@@ -185,6 +185,7 @@
 * [Team](team/README.md)
   * [The Kitchen Team](team/the-kitchen-team.md)
   * [Become a Chef](team/become-a-chef/README.md)
+    * [Product Designer (UX/I)](team/become-a-chef/product-designer-ux-i.md)
     * [Business Development Manager](team/become-a-chef/business-development-manager.md)
     * [Frontend Engineer](team/become-a-chef/frontend-engineer.md)
     * [Solidity Engineer](team/become-a-chef/solidity-engineer.md)
