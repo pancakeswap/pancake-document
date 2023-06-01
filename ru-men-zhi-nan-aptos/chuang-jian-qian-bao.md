@@ -24,14 +24,7 @@
 
 手机端钱包和电脑端钱包有不同的优势和劣势。请根据您的实际需求考来决定使用哪种类型的钱包。
 
-|                | 手机端 | 电脑端 |
-| -------------- | --- | --- |
-| 随时随地使用         | ✅   | ➖   |
-| 简单易用           | ✅   | ➖   |
-| 更加安全           | ➖   | ✅   |
-| 对无障碍使用者更友好     | ➖   | ✅   |
-| 不易损坏/丢失/遭窃     | ➖   | ✅   |
-| 不易受网络连接/电力供应影响 | ✅   | ➖   |
+<table><thead><tr><th width="249"></th><th>手机端</th><th>电脑端</th></tr></thead><tbody><tr><td>随时随地使用</td><td>✅</td><td>➖</td></tr><tr><td>简单易用</td><td>✅</td><td>➖</td></tr><tr><td>更加安全</td><td>➖</td><td>✅</td></tr><tr><td>对无障碍使用者更友好</td><td>➖</td><td>✅</td></tr><tr><td>不易损坏/丢失/遭窃</td><td>➖</td><td>✅</td></tr><tr><td>不易受网络连接/电力供应影响</td><td>✅</td><td>➖</td></tr></tbody></table>
 
 ## 桌面/网络浏览器钱包&#x20;
 
@@ -41,11 +34,7 @@
 
 下表概述了 Aptos 上与能使用 PancakeSwap 的目前最流行的桌面钱包。
 
-|            | Petra | Martian | Pontem | Fewcha | Blocto |
-| ---------- | ----- | ------- | ------ | ------ | ------ |
-| 支持 Aptos 链 | ✅     | ✅       | ✅      | ✅      | ✅      |
-| 硬件钱包兼容     | ➖     | ➖       | ➖      | ➖      | ➖      |
-| 代码开源（可审计）  | ✅     | ❓       | ✅      | ❓      | ❓      |
+<table><thead><tr><th width="199"></th><th width="97">Petra</th><th>Martian</th><th>Pontem</th><th>Fewcha</th><th>Blocto</th></tr></thead><tbody><tr><td>支持 Aptos 链</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>硬件钱包兼容</td><td>➖</td><td>➖</td><td>➖</td><td>➖</td><td>➖</td></tr><tr><td>代码开源（可审计）</td><td>✅</td><td>❓</td><td>✅</td><td>❓</td><td>❓</td></tr></tbody></table>
 
 ❓ - 代表截至发教程时，我们不确定此信息的状态&#x20;
 
@@ -181,12 +170,7 @@ Blocto 提供了一个对用户友好的解决方案和一个多合一的集合�
 
 下表概述了 Aptos 上与能使用 PancakeSwap 的目前最流行的手机钱包。
 
-|             | SafePal      | Trust Wallet | Blocto |
-| ----------- | ------------ | ------------ | ------ |
-| 支持 Aptos 链  | ✅            | ✅            | ✅      |
-| 内置 DApp 浏览器 | ✅            | ✅            | ✅      |
-| 硬件钱包兼容      | ✅（仅限SafePal） | ➖            | ➖      |
-| 合约开源（可审计）   | ➖            | ✅            | ➖      |
+<table><thead><tr><th width="228"></th><th width="205">SafePal</th><th width="153">Trust Wallet</th><th width="276">Blocto</th></tr></thead><tbody><tr><td>支持 Aptos 链</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>内置 DApp 浏览器</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>硬件钱包兼容</td><td>✅（仅限SafePal）</td><td>➖</td><td>➖</td></tr><tr><td>合约开源（可审计）</td><td>➖</td><td>✅</td><td>➖</td></tr></tbody></table>
 
 您可以在下面找到有关每个钱包的更详细信息，以及下载链接和安装指南。
 

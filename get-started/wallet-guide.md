@@ -39,13 +39,7 @@
 
 以下表格列出时下热门的钱包应用以及他们的概况：
 
-| ​Text                                  | Trust Wallet | MetaMask | Token Pocket    | Coinbase Wallet | SafePal       |
-| -------------------------------------- | ------------ | -------- | --------------- | --------------- | ------------- |
-| 币安智能链支持                                | ✅            | ⚠️       | ✅               | ✅               | ✅             |
-| 内置 DApp 浏览器                            | ✅            | ➖        | <p>✅</p><p></p> | ✅               | ✅             |
-| 兼容硬件钱包                                 | ➖            | ✅        | ➖               | ✅               | ✅ (仅限SafePal） |
-| 开源（可审计性）                               | ✅            | ✅        | ✅               | ✅               | ➖             |
-| <p>可连接 BscScan 操作</p><p>(适用于进阶使用者)</p> | ➖            | ✅        | ➖               | ➖               | ➖             |
+<table><thead><tr><th width="217">​Text</th><th width="130">Trust Wallet</th><th width="115">MetaMask</th><th>Token Pocket</th><th width="108">Coinbase Wallet</th><th width="116">SafePal</th></tr></thead><tbody><tr><td>币安智能链支持</td><td>✅</td><td>⚠️</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>内置 DApp 浏览器</td><td>✅ </td><td>➖</td><td><p>✅</p><p></p></td><td>✅</td><td>✅</td></tr><tr><td>兼容硬件钱包</td><td>➖</td><td>✅</td><td>➖</td><td>✅</td><td>✅ (仅限SafePal）</td></tr><tr><td>开源（可审计性）</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>➖</td></tr><tr><td><p>可连接 BscScan 操作</p><p>(适用于进阶使用者)</p></td><td>➖</td><td>✅</td><td>➖</td><td>➖</td><td>➖</td></tr></tbody></table>
 
 ⚠️ 需要额外设置
 
@@ -236,13 +230,7 @@ Token Pocket 允许您使用电脑端或其他设备同时管理一个钱包，�
 
 以下表格列出时下热门的钱包应用以及他们的概况：
 
-| ​Text                                  | MetaMask | Trust Wallet           | Binance Wallet | Coinbase Wallet | Token Pocket |
-| -------------------------------------- | -------- | ---------------------- | -------------- | --------------- | ------------ |
-| 币安智能链支持                                | ⚠        | ✅                      | ✅              | ✅               | ⚠️           |
-| 内置 DApp 浏览器                            | ➖        | ✅                      | ➖              | ➖               | ✅            |
-| 兼容硬件钱包                                 | ✅        | <p>✅ </p><p>( 测试中）</p> | ✅              | ✅               | ➖            |
-| 开源（可审计性）                               | ✅        | ✅                      | ✅              | ✅               | ✅            |
-| <p>可连接 BscScan 操作</p><p>(适用于进阶使用者)</p> | ✅        | ✅                      | ➖              | ➖               | ➖            |
+<table><thead><tr><th width="210">​Text</th><th width="115">MetaMask</th><th width="130">Trust Wallet</th><th width="116">Binance Wallet</th><th width="108">Coinbase Wallet</th><th>Token Pocket</th></tr></thead><tbody><tr><td>币安智能链支持</td><td>⚠</td><td>✅</td><td>✅</td><td>✅</td><td>⚠️</td></tr><tr><td>内置 DApp 浏览器</td><td>➖</td><td>✅ </td><td>➖</td><td>➖</td><td>✅</td></tr><tr><td>兼容硬件钱包</td><td>✅</td><td><p>✅ </p><p>( 测试中）</p></td><td>✅ </td><td>✅</td><td>➖</td></tr><tr><td>开源（可审计性）</td><td>✅</td><td>✅</td><td>✅ </td><td>✅</td><td>✅</td></tr><tr><td><p>可连接 BscScan 操作</p><p>(适用于进阶使用者)</p></td><td>✅</td><td>✅</td><td>➖</td><td>➖</td><td>➖</td></tr></tbody></table>
 
 ⚠️ 需要额外设置&#x20;
 

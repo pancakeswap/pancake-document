@@ -20,13 +20,7 @@ Liquid staking 是一种快速成长的质押替代方案，可以通过发送�
 
 下表中列出了对应稳定币交易的费用细分：
 
-| 稳定币对         | 交易费用  | LP 奖励  | CAKE 回购 | PancakeSwap 团队金库 |
-| ------------ | ----- | ------ | ------- | ---------------- |
-| USDT-BUSD    | 0.01% | 0.005% | 0.004%  | 0.001%           |
-| USDC-BUSD    | 0.01% | 0.005% | 0.004%  | 0.001%           |
-| USDC-USDT    | 0.01% | 0.005% | 0.004%  | 0.001%           |
-| HAY-BUSD     | 0.04% | 0.02%  | 0.016%  | 0.004%           |
-| axlUSDC-USDT | 0.04% | 0.02%  | 0.016%  | 0.004%           |
+<table><thead><tr><th width="150">稳定币对</th><th width="132">交易费用</th><th width="118.33333333333331">LP 奖励</th><th width="124">CAKE 回购</th><th>PancakeSwap 团队金库</th></tr></thead><tbody><tr><td>USDT-BUSD</td><td>0.01%</td><td>0.005%</td><td>0.004%</td><td>0.001%</td></tr><tr><td>USDC-BUSD</td><td>0.01%</td><td>0.005%</td><td>0.004%</td><td>0.001%</td></tr><tr><td>USDC-USDT</td><td>0.01%</td><td>0.005%</td><td>0.004%</td><td>0.001%</td></tr><tr><td>HAY-BUSD</td><td>0.04%</td><td>0.02%</td><td>0.016%</td><td>0.004%</td></tr><tr><td>axlUSDC-USDT</td><td>0.04%</td><td>0.02%</td><td>0.016%</td><td>0.004%</td></tr></tbody></table>
 
 厨房将逐步推出更多的稳定交易对，并修改费用明细，以进一步测试和改进产品。
 
