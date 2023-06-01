@@ -1,41 +1,29 @@
 # FAQ
 
-**How does WBETH generate staking rewards?**
+#### ¿Cómo genera WBETH recompensas de staking?
 
-Liquid Staking Derivatives generate staking rewards through the Ethereum network. The Ethereum network has now finished the Merge, which means that the consensus mechanism of ETH has been upgraded to Proof-of-Stake (PoS) instead of the previous Proof-of-Work (PoW) mechanism. In the case of WBETH, Binance offers users the option to stake their ETH to earn rewards. When you stake ETH via Binance, you will get BETH (representing your staked ETH) as the reward for staking your ETH. WBETH is the 1:1 wrapped version of BETH that can be used on-chain.
+Los derivados de staking líquido generan recompensas de participación a través de la red Ethereum. La red Ethereum ahora ha finalizado la fusión, lo que significa que el mecanismo de consenso de ETH se ha actualizado a Prueba de participación (PoS) en lugar del mecanismo anterior de Prueba de trabajo (PoW). En el caso de WBETH, Binance ofrece a los usuarios la opción de depositar su ETH para ganar recompensas. Cuando deposita ETH a través de Binance, obtendrá BETH (que representa su ETH depositado) como recompensa por apostar su ETH. WBETH es la versión envuelta 1:1 de BETH que se puede usar en la red.&#x20;
 
-**What staking APR can I get from liquid staking?**
+#### ¿Qué APR de apuesta puedo obtener con el staking líquido?&#x20;
 
-For Ethereum staking rewards, the more ETH is staked, the lower the rewards are. Post-merge, the APY is hovering at around 3-5% for Ethereum validators. For WBETH, the daily APR is published by the Binance Earn team
+Para las recompensas de stake de Ethereum, cuanto más ETH hay en stake, menores son las recompensas. Después de la fusión, el APY ronda el 3-5% para los validadores de Ethereum. Para WBETH, el equipo de Binance Earn publica la APR diaria [aquí](https://www.binance.com/en/eth2).&#x20;
 
-[here.](https://www.binance.com/en/eth2)
+#### ¿Cómo puedo obtener WBETH?&#x20;
 
-​
+Para obtener WBETH, puede depositar su ETH en nuestra [página de staking líquido](https://pancakeswap.finance/liquid-staking). Este servicio está disponible tanto en BNB Chain como en Ethereum Chain.&#x20;
 
-To get WBETH, you can stake your ETH on our
+#### ¿Cuál es la diferencia entre WBETH y BETH?&#x20;
 
-[liquid staking page](https://pancakeswap.finance/liquid-staking)
+WBETH es la versión envuelta de BETH. A diferencia de BETH, WBETH se puede obtener y utilizar on-chain. Para una comparación lado a lado, visite [esta página](https://www.binance.com/en/support/announcement/binance-introduces-wrapped-beacon-eth-wbeth-on-eth-staking-a1197f34d832445db41654ad01f56b4d).&#x20;
 
-. This service is available on both BNB Chain and Ethereum Chain.
+#### ¿Cómo puedo usar WBETH?&#x20;
 
-**What is the difference between WBETH and BETH?**
+Mientras acumula recompensas de participación de ETH, puede usar WBETH para explorar otros usos en DeFi, incluidos intercambio, préstamos, farming, colateralización y más. Estén atentos para más anuncios y contenido sobre la utilidad de WBETH.&#x20;
 
-WBETH is the wrapped version of BETH. Unlike BETH, WBETH can be obtained and utilized on-chain. For a side-by-side comparison, visit this
+#### ¿Necesito reclamar recompensas de participación si estoy usando WBETH?&#x20;
 
-[page](https://www.binance.com/en/support/announcement/binance-introduces-wrapped-beacon-eth-wbeth-on-eth-staking-a1197f34d832445db41654ad01f56b4d)
+No. Las recompensas de participación se acumulan en el token WBETH. Esto significa que el token WBETH aumentará de valor sobre ETH. Podrá reclamar recompensas una vez que convierta WBETH nuevamente a ETH o cambie a otros tokens.&#x20;
 
-.
+#### ¿Cómo convierto WBETH de nuevo a ETH?&#x20;
 
-While accruing ETH staking rewards, you can use WBETH to explore other DeFi use cases including swapping, lending/borrowing, yield farming, collateralization and more. Stay tuned for more announcements and content on WBETH utility.
-
-**Do I need to claim staking rewards if I'm using WBETH?**
-
-No. Staking rewards accrue in the WBETH token. This means that the WBETH token will increase in value over ETH. You will be able to claim rewards once you convert WBETH back to ETH or swap to other tokens.
-
-**How do I convert WBETH back to ETH?**
-
-You can convert WBETH to ETH through our
-
-[swap page](https://pancakeswap.finance/swap?inputCurrency=0xa2E3356610840701BDf5611a53974510Ae27E2e1\&outputCurrency=0x2170Ed0880ac9A755fd29B2688956BD959F933F8)
-
-. PancakeSwap is also working to support a conversion contract on our liquid staking page to convert WBETH back to ETH seamlessly.
+Puede convertir WBETH a ETH a través de nuestra [página de intercambio](https://pancakeswap.finance/swap?inputCurrency=0xa2E3356610840701BDf5611a53974510Ae27E2e1\&outputCurrency=0x2170Ed0880ac9A755fd29B2688956BD959F933F8). PancakeSwap también está trabajando para respaldar un contrato de conversión en nuestra página de staking líquido para convertir WBETH nuevamente a ETH sin problemas.
