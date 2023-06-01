@@ -41,12 +41,7 @@ Las wallets de dispositivos móviles te permiten el acceso a tus cripto práctic
 
 Esta tabla comparativa nos da un pantallazo de las wallets para móvil más populares usadas en PancakeSwap.
 
-| Wallet                         | SafePal                        | Trust Wallet | Blocto |
-| ------------------------------ | ------------------------------ | ------------ | ------ |
-| Soporta Aptos Chain            | ✅                              | ✅            | ✅      |
-| Built-in DApp browser          | ✅                              | ✅ (sólo iOS) | ✅      |
-| Hardware wallet compatible     | <p>✅ </p><p>(Sólo SafePal)</p> | ➖            | ➖      |
-| Código abierto (auditabilidad) | ➖                              | ✅            | ➖      |
+<table><thead><tr><th width="283.4285714285714">Wallet</th><th width="148">SafePal</th><th>Trust Wallet</th><th>Blocto</th></tr></thead><tbody><tr><td>Soporta Aptos Chain</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Built-in DApp browser</td><td>✅</td><td>✅ (sólo iOS)</td><td>✅</td></tr><tr><td>Hardware wallet compatible</td><td><p>✅ </p><p>(Sólo SafePal)</p></td><td>➖</td><td>➖</td></tr><tr><td>Código abierto (auditabilidad)</td><td>➖</td><td>✅</td><td>➖</td></tr></tbody></table>
 
 Puedes encontrar más info sobre cada wallet a continuación, como así también los links para descarga y sus guías de instalación.
 
