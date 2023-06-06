@@ -1,6 +1,6 @@
 # Crea una Wallet
 
-<figure><img src="../.gitbook/assets/image (8) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (3).png" alt=""><figcaption></figcaption></figure>
 
 Para comenzar tu historia de PancakeSwap en Aptos, lo primero que necesitarás es una wallet que soporte la red de Aptos. Hay wallets disponibles tanto para PC como para teléfonos móviles. Deberás elegir la wallet que mejor se adapte a tus necesidades.
 
@@ -93,7 +93,7 @@ Trust Wallet es una wallet popular para dispositivos móviles. Soporta DApps, co
 {% endtab %}
 
 {% tab title="Blocto" %}
-![](<../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (12).png>)
 
 Blocto ofrece una solución amigable para el usuario y un paquete todo en uno para usar DApps y manejar sus activos.
 
@@ -118,19 +118,19 @@ Blocto ofrece una solución amigable para el usuario y un paquete todo en uno pa
 
 1 - Configuración ingresando tu dirección de Email. Luego ingrese la clave por única vez, recibida en su Email.
 
-![](<../.gitbook/assets/image (7) (2) (1).png>)![](<../.gitbook/assets/image (1) (2) (3).png>)
+![](<../../.gitbook/assets/image (7) (2) (1).png>)![](<../../.gitbook/assets/image (1) (2) (3).png>)
 
 
 
 2 - Clic en el botón "más" (+), luego elija "APT - Aptos"
 
-![](<../.gitbook/assets/image (4) (2) (3).png>)![](<../.gitbook/assets/image (4) (8).png>)
+![](<../../.gitbook/assets/image (4) (2) (3).png>)![](<../../.gitbook/assets/image (4) (8).png>)
 
 
 
 3 - Listo! Ya puedes depositar APT en la wallet Aptos y comenzar a usar PancakeSwap en Aptos yendo a la página "Discover"!
 
-![](<../.gitbook/assets/image (6) (3).png>)![](<../.gitbook/assets/image (7) (3).png>)
+![](<../../.gitbook/assets/image (6) (3).png>)![](<../../.gitbook/assets/image (7) (3).png>)
 {% endtab %}
 {% endtabs %}
 
@@ -154,7 +154,7 @@ Puedes encontrar más info sobre cada wallet a continuación, como así también
 
 {% tabs %}
 {% tab title="Petra" %}
-<figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 Petra wallet es una extensión que te permite explorar Aptos desde tu browser.
 
@@ -177,7 +177,7 @@ Petra wallet es una extensión que te permite explorar Aptos desde tu browser.
 {% endtab %}
 
 {% tab title="Martian" %}
-<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Martian es una wallet para Aptos Chain que te permite almacenar, enviar, recibir tokens y administrar y mintear NFTs. Su versión para dispositivos móviles estará disponible pronto.
 
@@ -193,7 +193,7 @@ Martian es una wallet para Aptos Chain que te permite almacenar, enviar, recibir
 {% endtab %}
 
 {% tab title="Pontem" %}
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 Pontem Wallet es una wallet para Aptos Chain que te permite almacenar, enviar, recibir tokens, y conectar con dApps al ecosistema de Aptos.
 
@@ -209,7 +209,7 @@ Pontem Wallet es una wallet para Aptos Chain que te permite almacenar, enviar, r
 {% endtab %}
 
 {% tab title="Fewcha" %}
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 Fewcha es una wallet cripto confiable, optimizada para el ecosistema de Aptos y SUI, que abre un universo de aplicaciones en la web3.
 
@@ -243,23 +243,23 @@ Fewcha es una wallet cripto confiable, optimizada para el ecosistema de Aptos y 
 
 3\. Para la frase de recuperación, escríbela y guárdala en un lugar seguro.
 
-<figure><img src="../.gitbook/assets/image (6) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (4).png" alt=""><figcaption></figcaption></figure>
 
 > * Guarda tu frase de recuperación en un lugar seguro. Si la pierdes, perderás el acceso a tu wallet y a las cripto en ella para siempre.
 > * **NUNCA** compartas tu frase de recuperación con nadie, bajo ninguna circunstancia.
 > * **NUNCA** ingreses tu frase de recuperación en un sitio web o app que no sea la de tu wallet.
 
-<figure><img src="../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 4\. Clic en Finish para completar el proceso de configuración. Y listo! Una vez creada la wallet, puedes acceder a ella en cualquier momento haciendo clic en el ícono de Fewcha Wallet en la barra de extensiones.&#x20;
 
-<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 Para empezar a usar PancakeSwap en Aptos, también necesitarás algo de $APT para los fees. Puedes aprender como conseguirlos [aquí](broken-reference).
 {% endtab %}
 
 {% tab title="Blocto" %}
-![](<../.gitbook/assets/image (7) (4).png>)
+![](<../../.gitbook/assets/image (7) (4).png>)
 
 
 
@@ -284,19 +284,19 @@ Blocto ofrece una solución amigable para el usuario y un paquete todo en uno pa
 
 1 - Luego de seleccionar "Blocto" en la ventana de conección de wallet, aparecerá una ventana para registrarse. Ingresa tu Email y haz clic en "Register". Si ya tienes registrada tu cuenta de Blocto, haz clic en "sign in" luego de ingresar tu Email.
 
-![](<../.gitbook/assets/image (6) (2).png>)
+![](<../../.gitbook/assets/image (6) (2).png>)
 
 
 
 2 - Luego ingresa la clave de un solo uso recibida en tu Email.
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 
 
 3 - Clic en "Create Aptos wallet". Luego clic en "Confirm" para conectar.
 
-![](<../.gitbook/assets/image (1) (4).png>)![](<../.gitbook/assets/image (10) (3).png>)
+![](<../../.gitbook/assets/image (1) (4).png>)![](<../../.gitbook/assets/image (10) (3).png>)
 
 
 

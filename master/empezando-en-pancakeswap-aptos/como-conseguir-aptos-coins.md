@@ -1,6 +1,6 @@
 # Cómo conseguir Aptos Coins
 
-![](<../.gitbook/assets/0 (4) (1)>)
+![](<../../.gitbook/assets/0 (4) (1)>)
 
 {% hint style="info" %}
 Está guía cubre los principales servicios de puente de Aptos para sus tokens principales. Para pasar CAKE entre Aptos y BNB Smart Chain, use el[ puente PancakeSwap Aptos](https://bridge.pancakeswap.finance/aptos).

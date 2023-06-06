@@ -4,7 +4,7 @@ description: “No me llames Roadmap”
 
 # Roadmap
 
-![](<.gitbook/assets/0 (1) (1).png>)
+![](<../.gitbook/assets/0 (1) (1).png>)
 
 _Actualizado el 5 de abril de 2023_
 
@@ -16,7 +16,7 @@ Mantenerse en constante cambio es un estilo de vida.
 
 Eso significa que no nos comprometemos públicamente con plazos específicos, por lo que podemos organizar nuestras prioridades de desarrollo en función de los cambios del mercado y los recursos de los desarrolladores.
 
-![](.gitbook/assets/photo\_2023-04-05\_14-29-37.jpg)
+![](../.gitbook/assets/photo\_2023-04-05\_14-29-37.jpg)
 
 ❗ Por seguridad y confidencialidad, algunos ítems no están en la sección de “Cocinando”.
 

@@ -12,7 +12,7 @@ Antes de que pueda operar, necesitará una billetera compatible con BNB Smart Ch
 
 1\. Ir a la página del [exchange](https://pancakeswap.finance/swap).
 
-2\. Desbloquee su billetera compatible con BNB Smart Chain haciendo clic en **Unlock Wallet** (también puede conectarse en la esquina superior derecha). Si aún no ha conectado su billetera a PancakeSwap, puede ver la guía [aquí](../../empezando-en-pancakeswap/como-conectarse-pancakeswap.md).
+2\. Desbloquee su billetera compatible con BNB Smart Chain haciendo clic en **Unlock Wallet** (también puede conectarse en la esquina superior derecha). Si aún no ha conectado su billetera a PancakeSwap, puede ver la guía [aquí](../../master/empezando-en-pancakeswap/como-conectarse-pancakeswap.md).
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-M\_x-4n1tMKitW-VGfmY%2F-M\_xTw4wFN4vQcWbR3y0%2Fimage.png?alt=media\&token=5611427b-88d9-4026-9702-bd6eae84faad)
 

@@ -1,16 +1,17 @@
 # Table of contents
 
 * [PancakeSwap Intro](README.md)
-* [Empezando en PancakeSwap](empezando-en-pancakeswap/README.md)
-  * [Creando una Wallet](empezando-en-pancakeswap/creando-una-wallet.md)
-  * [Tokens Bep20](empezando-en-pancakeswap/tokens-bep20.md)
-  * [Cómo Conectarse a PancakeSwap](empezando-en-pancakeswap/como-conectarse-pancakeswap.md)
-* [Empezando en PancakeSwap (Aptos)](empezando-en-pancakeswap-aptos/README.md)
-  * [Crea una Wallet](empezando-en-pancakeswap-aptos/crea-una-wallet.md)
-  * [Cómo conseguir Aptos Coins](empezando-en-pancakeswap-aptos/como-conseguir-aptos-coins.md)
-  * [Guía del Puente de CAKE](empezando-en-pancakeswap-aptos/guia-del-puente-de-cake.md)
-  * [Conecta tu Wallet a PancakeSwap](empezando-en-pancakeswap-aptos/conecta-tu-wallet-a-pancakeswap.md)
-  * [Aptos FAQ (preguntas más frecuentes)](empezando-en-pancakeswap-aptos/aptos-faq-preguntas-mas-frecuentes.md)
+  * [Empezando en PancakeSwap](master/empezando-en-pancakeswap/README.md)
+    * [Creando una Wallet](master/empezando-en-pancakeswap/creando-una-wallet.md)
+    * [Tokens Bep20](master/empezando-en-pancakeswap/tokens-bep20.md)
+    * [Cómo Conectarse a PancakeSwap](master/empezando-en-pancakeswap/como-conectarse-pancakeswap.md)
+  * [Empezando en PancakeSwap (Aptos)](master/empezando-en-pancakeswap-aptos/README.md)
+    * [Crea una Wallet](master/empezando-en-pancakeswap-aptos/crea-una-wallet.md)
+    * [Cómo conseguir Aptos Coins](master/empezando-en-pancakeswap-aptos/como-conseguir-aptos-coins.md)
+    * [Guía del Puente de CAKE](master/empezando-en-pancakeswap-aptos/guia-del-puente-de-cake.md)
+    * [Conecta tu Wallet a PancakeSwap](master/empezando-en-pancakeswap-aptos/conecta-tu-wallet-a-pancakeswap.md)
+    * [Aptos FAQ (preguntas más frecuentes)](master/empezando-en-pancakeswap-aptos/aptos-faq-preguntas-mas-frecuentes.md)
+  * [Roadmap](master/roadmap.md)
 * [Ayuda](click-here-for-help/README.md)
   * [Errores Frecuentes](click-here-for-help/errores-frecuentes.md)
   * [Preguntas Frecuentes](click-here-for-help/faq.md)
@@ -23,11 +24,11 @@
   * [Soporte](contacto/soporte.md)
   * [Redes Sociales & Comunidades](contacto/redes.md)
 * [El Equipo de La Cocina](el-equipo-de-la-cocina.md)
-* [Roadmap](roadmap.md)
 * [Marca y logos](marca-y-logos.md)
 
 ## Products <a href="#productos" id="productos"></a>
 
+* [Page 1](productos/page-1.md)
 * [🔄Exchange](productos/pancakeswap-exchange/README.md)
   * [Swap de Tokens OLD](productos/pancakeswap-exchange/swap-trading.md)
   * [Swap de Tokens](productos/pancakeswap-exchange/swap-de-tokens.md)
@@ -84,26 +85,25 @@
   * [Cómo usar Pottery?](productos/pottery/como-usar-pottery.md)
   * [Pottery: FAQ](productos/pottery/pottery-faq.md)
   * [Actualización de Pottery](productos/pottery/actualizacion-de-pottery.md)
-* [🖼Perfil NFT en PancakeSwap](productos/perfil-nft-en-pancakeswap/README.md)
+* [🖼 Perfil NFT en PancakeSwap](productos/perfil-nft-en-pancakeswap/README.md)
   * [Equipos](productos/perfil-nft-en-pancakeswap/equipos.md)
   * [Cómo Crear un Perfil](productos/perfil-nft-en-pancakeswap/como-crear-un-perfil.md)
-* [Info (Analíticas)](productos/info.md)
-* [Votación](productos/voting/README.md)
-  * [Qué se vota?](productos/voting/voting.md)
-  * [¿Cómo votar?](productos/voting/como-votar/README.md)
-    * [¿Cómo votar con la billetera de SafePal?](productos/voting/como-votar/como-votar-con-la-billetera-de-safepal.md)
-  * [vCAKE](productos/voting/vcake.md)
 * [🌐 PancakeSwap Mini-Programa](productos/pancakeswap-mini-programa/README.md)
   * [¿Cómo usar el Mini-Programa de PancakeSwap?](productos/pancakeswap-mini-programa/como-usar-el-mini-programa-de-pancakeswap.md)
   * [Mini-Programa - Preguntas más Frecuentes (FAQ)](productos/pancakeswap-mini-programa/mini-programa-preguntas-mas-frecuentes-faq.md)
   * [⛓ PancakeSwap CEDEFI Integration translated](productos/pancakeswap-mini-programa/pancakeswap-cedefi-integration-translated.md)
-* [🍳Próximamente](productos/proximamente.md)
+* [📈 Info (Analíticas)](productos/info.md)
 
-## Tokenomics
+## Gobernanza y Tokenomics <a href="#tokenomics" id="tokenomics"></a>
 
 * [CAKE](tokenomics/cake-updated-10-29-2020/README.md)
   * [Tokenomics de CAKE](tokenomics/cake-updated-10-29-2020/tokenomics-de-cake.md)
   * [Controlando el Circulante de CAKE](tokenomics/cake-updated-10-29-2020/controlling-cake-supply.md)
+* [Votación](tokenomics/voting/README.md)
+  * [Qué se vota?](tokenomics/voting/voting.md)
+  * [¿Cómo votar?](tokenomics/voting/como-votar/README.md)
+    * [¿Cómo votar con la billetera de SafePal?](tokenomics/voting/como-votar/como-votar-con-la-billetera-de-safepal.md)
+  * [vCAKE](tokenomics/voting/vcake.md)
 
 ## Guía para Desarrolladores <a href="#devs" id="devs"></a>
 

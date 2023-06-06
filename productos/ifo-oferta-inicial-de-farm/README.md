@@ -1,4 +1,4 @@
-# IFO (Oferta Inicial de Farm)
+# 🛍 IFO (Oferta Inicial de Farm)
 
 ![](<../../.gitbook/assets/0 (3) (1).png>)
 

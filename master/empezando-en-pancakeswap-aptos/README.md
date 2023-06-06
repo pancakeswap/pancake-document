@@ -1,6 +1,6 @@
 # Empezando en PancakeSwap (Aptos)
 
-<figure><img src="../.gitbook/assets/image (11) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (3).png" alt=""><figcaption></figcaption></figure>
 
 Empezar a usar algo nuevo puede resultar un poco desafiante. Pero no te preocupes, hemos creado una serie de guías para ayudar a que te sientas cómodo con PancakeSwap!
 

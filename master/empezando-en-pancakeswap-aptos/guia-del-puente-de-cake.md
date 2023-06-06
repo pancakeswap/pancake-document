@@ -2,7 +2,7 @@
 
 _Envía CAKE entre la red Aptos y BNB Smart Chain_
 
-<figure><img src="../.gitbook/assets/0 (2)" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/0 (2)" alt=""><figcaption></figcaption></figure>
 
 Con nuestra expansión en múltiples cadenas y el despliegue en Aptos, CAKE es ahora un token multicadena que existe tanto en la BNB Smart Chain como en Aptos.
 
@@ -19,21 +19,21 @@ Tenga en cuenta que solo hay un CAKE. No hay diferentes versiones de CAKE entre 
    \
    Haga clic en "Connect" y elija la billetera que prefiera en la sección "EVM". Luego confirme y apruebe en la ventana emergente de su billetera. (Al momento de escribir, solo se admite MetaMask. El soporte para más billeteras llegará pronto).
 
-![](<../.gitbook/assets/1 (4)>)
+![](<../../.gitbook/assets/1 (4)>)
 
 3\. Luego, necesitamos conectar nuestra billetera de Aptos.\
 \
 En la misma sección del anterior paso, elija ahora la billetera que prefiera en la sección "Aptos". Luego confirme y apruebe en la ventana emergente de su billetera.
 
-![](<../.gitbook/assets/2 (2)>)
+![](<../../.gitbook/assets/2 (2)>)
 
 4\. Haga clic en la “v” en el campo superior de selección de tokens y elija “CAKE”.
 
-![](<../.gitbook/assets/3 (2)>)
+![](<../../.gitbook/assets/3 (2)>)
 
 5\. Ingrese el número de CAKE que desea enviar a Aptos.
 
-![](../.gitbook/assets/4)
+![](../../.gitbook/assets/4)
 
 6\. Si su billetera Aptos está recién creada y no tiene APT (Aptos Coin), recomendamos mantener la opción "gas on destination" en su valor predeterminado. El puente depositará una pequeña cantidad de APT en su billetera, no solo para ayudarlo a iniciar su viaje en Aptos, sino que también necesitará APT para el gas para registrar y hacer claim de su CAKE enviado por el puente.\
 \
@@ -41,7 +41,7 @@ Si se modifica esta opción, es posible que se produzca un error en el proceso d
 
 
 
-![](../.gitbook/assets/5)
+![](../../.gitbook/assets/5)
 
 7\. Haga clic en "Transfer" y apruebe las transacciones que aparezcan en la ventana emergente de su billetera. \
 \
@@ -49,7 +49,7 @@ Tenga en cuenta que aparecerán múltiples confirmaciones en su billetera si est
 
 8\. Siéntate y relájate. Solo debería tomar unos minutos. Una vez que se complete el envío por el puente, sus CAKE se depositaran en su billetera de Aptos. Puede realizar un seguimiento del progreso mediante la barra de progreso.
 
-![](../.gitbook/assets/6)
+![](../../.gitbook/assets/6)
 
 ### Enviando CAKE a Aptos por primera vez <a href="#_6w2zta58q9j8" id="_6w2zta58q9j8"></a>
 
@@ -73,23 +73,23 @@ Recuerde, estos requisitos de registro y reclamo (claim) solo se aplican cuando 
    \
    Haga clic en "Connect" y elija la billetera que prefiera en la sección "EVM". Luego confirme y apruebe en la ventana emergente de su billetera. (Al momento de escribir, solo se admite MetaMask. El soporte para más billeteras llegará pronto)
 
-![](../.gitbook/assets/7)
+![](../../.gitbook/assets/7)
 
 3\. Luego, necesitamos conectar nuestra billetera de Aptos\
 \
 En la misma sección del anterior paso, elija ahora la billetera que prefiera en la sección "Aptos". Luego confirme y apruebe en la ventana emergente de su billetera.
 
-![](../.gitbook/assets/8)
+![](../../.gitbook/assets/8)
 
 4\. Haga clic en la "v" en el campo superior de selección de tokens y elija "CAKE". Luego haga clic en el botón de flecha doble en el centro de la página para voltear la dirección del puente.\
 \
 Asegúrese de que la red "Aptos" esté en el campo superior.
 
-![](../.gitbook/assets/9)
+![](../../.gitbook/assets/9)
 
 5\. Ingrese el número de CAKE que desea enviar a la BNB Smart Chain.
 
-![](<../.gitbook/assets/10 (1)>)
+![](<../../.gitbook/assets/10 (1)>)
 
 6\. Si su billetera de BNB Smart Chain está recién creada y no tiene ningún saldo de BNB (token de gas), recomendamos mantener la opción "gas on destination" en su valor predeterminado. El puente depositará una pequeña cantidad de BNB en su billetera. Le ayudará a iniciar su viaje en la BNB Smart Chain y explorar el vívido ecosistema de PancakeSwap.
 
