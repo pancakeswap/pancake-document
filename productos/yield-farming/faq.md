@@ -52,7 +52,7 @@ Si desea ajustar las configuraciones del rango de precios de una posición de li
 
 En Farm v3, el APR de recompensa de CAKE podría variar entre las distintas posiciones de liquidez. Se basa en los siguientes factores:&#x20;
 
-* Tasa de emisión de CAKE a los Farms (más CAKE generará un mayor rendimiento para todas las Farms). Lea más en nuestra [página de tokenomics](../../tokenomics/cake-updated-10-29-2020/tokenomics-de-cake.md)&#x20;
+* Tasa de emisión de CAKE a los Farms (más CAKE generará un mayor rendimiento para todas las Farms). Lea más en nuestra [página de tokenomics](../../gobernanza-y-tokenomics/cake-updated-10-29-2020/tokenomics-de-cake.md)&#x20;
 * Multiplicador de Farm (los farms con un multiplicador más alto obtendrán más CAKE proporcional a todas los farms. Tenga en cuenta que los farms v3 y v2 más los de stableswap están utilizando dos tipos diferentes de multiplicadores. Y los farms en Ethereum y BNB Chains también usan dos tipos diferentes de multiplicadores).&#x20;
 * El número de tokens depositados en la posición. (más token en la posición se traduce en una mayor participación relativa frente a la liquidez activa total en el pool del farm y obtiene más recompensas en CAKE)
 * El rango de precios seleccionado (un rango de precios más pequeño permite una mayor concentración por la misma cantidad de token depositado, lo que se traduce en una mayor participación relativa frente a la liquidez activa total en el pool del farm, y obtiene más recompensas en CAKE)
