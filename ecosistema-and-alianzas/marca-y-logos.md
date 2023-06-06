@@ -4,7 +4,7 @@ description: Directrices y activos descargables como el logotipo SVG de PancakeS
 
 # Marca y logos
 
-<figure><img src=".gitbook/assets/image (1) (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (5).png" alt=""><figcaption></figcaption></figure>
 
 [👇 Saltar a la descarga de Logos](marca-y-logos.md#descargas-del-logotipo-de-pancakeswap)
 
@@ -55,11 +55,11 @@ Diviértase creando una marca única que sea claramente suya: si su producto es 
 
 ## Descargas del logo de PancakeSwap
 
-<figure><img src=".gitbook/assets/image (5) (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (5).png" alt=""><figcaption></figcaption></figure>
 
 Una vez que haya leído todo lo anterior, descargue los logotipos PancakeSwap y CAKE a continuación.&#x20;
 
-{% file src=".gitbook/assets/PancakeSwap Logos.zip" %}
+{% file src="../.gitbook/assets/PancakeSwap Logos.zip" %}
 Descarga los logotipos oficiales de PancakeSwap y CAKE.&#x20;
 {% endfile %}
 

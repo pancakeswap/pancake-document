@@ -1,6 +1,6 @@
 # Preguntas Frecuentes
 
-![](../.gitbook/assets/preguntas-frecuentes.png)
+![](../../.gitbook/assets/preguntas-frecuentes.png)
 
 Esta página de preguntas frecuentes generales a algunas de las preguntas más frecuentes de la comunidad de PancakeSwap.
 
