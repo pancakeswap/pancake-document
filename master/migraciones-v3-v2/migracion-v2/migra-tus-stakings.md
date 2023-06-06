@@ -8,7 +8,7 @@ description: >-
 
 
 
-![](<../../.gitbook/assets/migration pre heat.png>)
+![](<../../../.gitbook/assets/migration pre heat.png>)
 
 En caso de que no lo sepas: Actualmente estás leyendo el tutorial mencionado en este banner para seguir ganando recompensas, tendrás que migrar tus farms y pool al nuevo MasterChef. Relax, va a ser fácil.&#x20;
 
@@ -45,7 +45,7 @@ Hay dos pasos en el ayudante de migración. En el primer paso, debes ver una lis
 
 Aquí deberías ver el nuevo CAKE Syrup Pool y los nuevos farms. Antes de depositar, deberás habilitarlos.&#x20;
 
-![](<../../.gitbook/assets/image (183) (1).png>)
+![](<../../../.gitbook/assets/image (183) (1).png>)
 
 
 
@@ -59,7 +59,7 @@ Después de habilitar, podrá comenzar a hacer staking en farms y pool.&#x20;
 {% tab title="CAKE Syrup Pool" %}
 
 
-![](<../../.gitbook/assets/image (182) (1) (1).png>)
+![](<../../../.gitbook/assets/image (182) (1) (1).png>)
 
 Para el CAKE syrup pool. Por favor haga lo siguiente:
 
@@ -70,12 +70,12 @@ Para el CAKE syrup pool. Por favor haga lo siguiente:
 
 
 {% hint style="info" %}
-La opción de staking bloqueado (a plazo fijo) estará disponible unos días después de la migración. Podrá convertir su posición de staking flexible a una bloqueado. Para obtener más información sobre el nuevo CAKE Pool con staking a plazo fijo, consulte este [documento](../../productos/syrup-pools/nuevo-cake-pool/#staking-a-plazo-fijo).
+La opción de staking bloqueado (a plazo fijo) estará disponible unos días después de la migración. Podrá convertir su posición de staking flexible a una bloqueado. Para obtener más información sobre el nuevo CAKE Pool con staking a plazo fijo, consulte este [documento](../../../productos/syrup-pools/nuevo-cake-pool/#staking-a-plazo-fijo).
 {% endhint %}
 {% endtab %}
 
 {% tab title="Farms" %}
-![](<../../.gitbook/assets/image (181) (1).png>)
+![](<../../../.gitbook/assets/image (181) (1).png>)
 
 Para farms, por favor haga:
 
@@ -95,7 +95,7 @@ Para farms, por favor haga:
 
 Síguenos en [Twitter ](https://twitter.com/PancakeSwapES)o nuestro canal de anuncios en [Telegram ](https://t.me/PancakeSwapAnuncios)para no perderte nada!&#x20;
 
-![](<../../.gitbook/assets/en - migration timeline - 1.png>)
+![](<../../../.gitbook/assets/en - migration timeline - 1.png>)
 
 ## FAQ <a href="#faq" id="faq"></a>
 
