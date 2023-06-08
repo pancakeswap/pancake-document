@@ -10,7 +10,7 @@ O APR total é combinado pelo APR da taxa de LP e APR da recompensa de CAKE
 
 Teoricamente falando, dada uma faixa de preço e usuário de liquidez prestes a adicionar, podemos estimar a taxa futura esperada de 7 dias da seguinte forma:
 
-&#x20;                    <img src="../../.gitbook/assets/image.png" alt="" data-size="original">\
+&#x20;                    <img src="../../.gitbook/assets/image (1).png" alt="" data-size="original">\
 
 
 * $$fee_{in}$$: Valor da taxa acumulado na faixa de preço especificada pelo usuário nos últimos 7 dias
@@ -50,7 +50,7 @@ APR global calculado usando a quantidade total de liquidez ativa e stake com as 
 
 APRs para posições individuais podem variar dependendo de suas configurações de faixa de preço.
 
-&#x20;                         ![](<../../.gitbook/assets/image (1).png>)
+&#x20;                         ![](<../../.gitbook/assets/image (1) (1).png>)
 
 * ​$$USD_r$$: A recompensa de CAKE ganha USD por ano na pool
 * ​$$USD_p$$: Valor total em USD na posição
