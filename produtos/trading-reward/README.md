@@ -6,13 +6,13 @@ A recompensa de trade é um programa e benefício para usuários de stake bloque
 
 Confira o tutorial a seguir para saber mais:
 
-{% content-ref url="como-participar.md" %}
-[como-participar.md](como-participar.md)
+{% content-ref url="how-to-participate.md" %}
+[how-to-participate.md](how-to-participate.md)
 {% endcontent-ref %}
 
 Tem alguma dúvida? Confira as seguintes perguntas frequentes:
 
-{% content-ref url="perguntas-frequentes.md" %}
-[perguntas-frequentes.md](perguntas-frequentes.md)
+{% content-ref url="faq.md" %}
+[faq.md](faq.md)
 {% endcontent-ref %}
 

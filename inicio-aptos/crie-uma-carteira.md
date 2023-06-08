@@ -176,7 +176,7 @@ A carteira Petra é uma extensão que permite explorar a Aptos no seu navegador.
 {% endtab %}
 
 {% tab title="Martian" %}
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 Martian é uma carteira na Aptos Chain que permite armazenar, enviar, receber tokens e gerenciar e mintar NFTs. Sua versão móvel está chegando em breve.
 
