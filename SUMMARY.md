@@ -18,6 +18,7 @@
       * [Migra tus Stakings](master/migraciones-v3-v2/migracion-v2/migra-tus-stakings.md)
       * [MasterChef v2](master/migraciones-v3-v2/migracion-v2/masterchef-v2.md)
       * [CAKE Syrup Pool](master/migraciones-v3-v2/migracion-v2/cake-syrup-pool.md)
+    * [Cómo se calcula el APR de V3](master/migraciones-v3-v2/como-se-calcula-el-apr-de-v3.md)
   * [Auditorías](master/auditorias.md)
   * [Roadmap](master/roadmap.md)
   * [Ayuda](master/click-here-for-help/README.md)
