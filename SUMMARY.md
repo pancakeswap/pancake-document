@@ -106,7 +106,7 @@
       * [如何设置 NFT 个人资料？](products/nft-ge-ren-dang-an-xi-tong/ru-he-she-zhi-nft-ge-ren-zi-liao.md)
       * [战队](products/nft-ge-ren-dang-an-xi-tong/zhan-dui.md)
   * [🎮 Pancake Protectors 游戏](chan-pin/pancake-protectors-you-xi/README.md)
-    * [常见问题解答](chan-pin/pancake-protectors-you-xi/chang-jian-wen-ti-jie-da.md)
+    * [FAQ](chan-pin/pancake-protectors-you-xi/faq.md)
   * [🌐 PancakeSwap 迷你小程序](products/pancakeswap-mi-ni-xiao-cheng-xu/README.md)
     * [如何使用 PancakeSwap 迷你小程序](products/pancakeswap-mi-ni-xiao-cheng-xu/ru-he-shi-yong-pancakeswap-mi-ni-xiao-cheng-xu.md)
     * [迷你小程序常见问题解答](products/pancakeswap-mi-ni-xiao-cheng-xu/mi-ni-xiao-cheng-xu-chang-jian-wen-ti-jie-da.md)

@@ -1,3 +1,36 @@
 # 🎮 Pancake Protectors 游戏
 
-翻译中，请先查看[英文版](https://docs.pancakeswap.finance/products/pancake-protectors)。
+<figure><img src="../../.gitbook/assets/logo (1).png" alt=""><figcaption></figcaption></figure>
+
+[Pancake Protectors](https://protectors.pancakeswap.finance/) 是一款互动式的、塔防类的游戏，它是由 BNB 链上的两个现有协议 PancakeSwap 和 Mobox 互相合作发布的游戏。
+
+玩家可以参与单人和多人游戏游戏玩法。非常好玩！&#x20;
+
+## 如何玩这个游戏？
+
+首次进入游戏时会有一个简单的教程，介绍了一般的游戏玩法和如何使用初始游戏角色。&#x20;
+
+该教程不涉及进阶的游戏玩法，进阶玩法需要玩家在游戏中自行探索并找出最佳玩法，探索也是游戏的乐趣之一。我们建议你到 PancakeSwap 的 Telegram 和 Discord 频道中，看看其他玩家正在讨论的关于游戏的内容。&#x20;
+
+### 游戏的代币经济是怎么样的？&#x20;
+
+Pancake Protectors 不是 play-to-earn 的玩赚游戏，play-to-earn 是指游戏中的一些行为会自动获得 BEP-20 代币作为奖励。与之不同的是，在这款游戏中，用户可以在游戏中花费 CAKE 来使用各种功能（例如招募 CAKE 英雄），所有消费的 CAKE 将按下列方式分配：
+
+| 类目           | 百分比   |
+| ------------ | ----- |
+| 通过赛季奖励方回馈给玩家 | 70%   |
+| CAKE 销毁      | 12.5% |
+| Mobox        | 5%    |
+| 用于未来的开发      | 12.5% |
+
+## 游戏中主要有哪些事情可以探索？&#x20;
+
+我们的建议不会涵盖所有可以在游戏中做的事情，但以下是我们建议你探索的方面：&#x20;
+
+* 赛季比赛和奖品&#x20;
+* CAKE 英雄&#x20;
+* 军团和军团系统&#x20;
+* 竞技场&#x20;
+* 小队和兔子 NFT 的整合&#x20;
+
+游戏中有许多多人游戏玩法；我们鼓励用户积极参与并享受多人游戏玩法，这样可以获得最佳的游戏体验。
