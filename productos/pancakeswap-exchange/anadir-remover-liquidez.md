@@ -1,4 +1,4 @@
-# Añadir/Remover Liquidez
+# Añadir/Remover Liquidez\*
 
 ![](<../../.gitbook/assets/docs-masthead (2).png>)
 
@@ -6,7 +6,11 @@ La liquidez es fundamental para el funcionamiento del Exchange PancakeSwap. Pued
 
 A cambio de agregar liquidez, recibirás fees de trading por ese par y recibirás tokens LP que puedes depositar en Farms para ganar recompensas cake.
 
-### **Agregando Liquidez** <a href="#adding-liquidity" id="adding-liquidity"></a>
+### **Exchange V3** <a href="#adding-liquidity" id="adding-liquidity"></a>
+
+### **Exchange V2** <a href="#adding-liquidity" id="adding-liquidity"></a>
+
+**Agregando Liquidez**
 
 Para proporcionar liquidez, deberá confirmar una cantidad de cualquier par de tokens que desee. Su valor más bajo (en USD) de los dos tokens será el límite a la liquidez que puede proporcionar.
 
@@ -54,7 +58,7 @@ En este ejemplo, agregaremos liquidez usando BNB y CAKE.
 
 Puede repetir los pasos anteriores para agregar más liquidez en cualquier momento.
 
-### **Removiendo Liquidez** <a href="#removing-liquidity" id="removing-liquidity"></a>
+#### **Removiendo Liquidez** <a href="#removing-liquidity" id="removing-liquidity"></a>
 
 Para remover parcial o totalmente su liquidez:
 

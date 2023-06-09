@@ -1,4 +1,4 @@
-# 🔄 StableSwap
+# StableSwap
 
 ![](<../../.gitbook/assets/0 (4).png>)
 

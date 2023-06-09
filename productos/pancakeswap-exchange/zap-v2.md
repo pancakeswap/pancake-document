@@ -2,7 +2,7 @@
 description: Liquidez Simple con un click
 ---
 
-# ⚡ Zap
+# Zap (V2)
 
 ### ![](<../../.gitbook/assets/image (182).png>) <a href="#h.lv839zkjvd8q" id="h.lv839zkjvd8q"></a>
 
