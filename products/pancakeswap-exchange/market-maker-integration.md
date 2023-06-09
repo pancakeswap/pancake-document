@@ -35,11 +35,12 @@ The following assets are currently supported and may increase/decrease depending
 
 * **Majors:** WETH, WBTC&#x20;
 * **Stablecoins:** USDT, USDC, DAI, BUSD
-* **Other popular ERC-20 assets:** MATIC, SAND, DYDX, CRV, MANA, SUSHI, FTM, LINK, APE, CVX, STG, LDO, AAVE, MKR, UNI, SNX
+* **Other popular ERC-20 assets:** MATIC, DYDX, CRV, LINK, APE, CVX, STG, LDO, SNX, RNDR, FET
 
 **On Binance Smart Chain:**&#x20;
 
 * **Majors:** BNB, ETH, BTCB
+* Non-native BNB tokens: ARB, OP
 
 Please note that unlike AMMs, market makers will not be able to trade at any amount and the amounts they are willing to execute will depend on their own liquidity. It is not unusual that sometimes very large orders cannot be totally fulfilled. We advise users to please review the quotes carefully to ensure that each trade reflects the price and quantity according to their needs.&#x20;
 
