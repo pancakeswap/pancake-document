@@ -4,31 +4,35 @@
 
 ​
 
-[Pancake Protectors](https://protectors.pancakeswap.finance/)
+[Pancake Protectors](https://protectors.pancakeswap.finance/) é um jogo interativo inspirado em defesa de torre que é uma colaboração entre PancakeSwap e Mobox, dois protocolos estabelecidos na BNB Chain.
 
-is an interactive, tower-defense inspired game which is a collaboration between PancakeSwap and Mobox, two established protocols on the BNB Chain.
+Os gamers podem se envolver em elementos de jogador único e multijogador. Esperamos que se divirta!
 
-Players can engage in both single-player and multiplayer elements. Hope you have fun!
+## Como Jogar o Game?
 
-At the beginning of the game, there is a simple tutorial which explains the general gameplay and how to use the starting level characters.
+No início do jogo, há um tutorial simples que explica a jogabilidade geral e como usar os personagens do nível inicial.&#x20;
 
-The tutorial does not cover advanced gameplay mechanics, as this is for players to research and find the best ways to play. We recommend you go to our community channels in PancakeSwap’s Telegram and Discord channels to see what other players are discussing.
+O tutorial não cobre a mecânica de jogo avançada, pois serve para que os jogadores pesquisem e encontrem as melhores maneiras de jogar. Recomendamos que você acesse nossos canais comunitários nos canais Telegram e Discord da PancakeSwap para ver o que os outros jogadores estão discutindo.&#x20;
 
-Pancake Protectors is not a play-to-earn style of game where actions are automatically rewarded with BEP-20 tokens. Instead, users can spend CAKE in-game for various features (e.g. recruiting CAKE Heroes), and all spent CAKE are distributed in the following manner:
+## O que são os tokenomics?
 
-| Category                                   | Percentage |
-| ------------------------------------------ | ---------- |
-| Returned to users through seasonal rewards | 70%        |
-| CAKE burn                                  | 12.5%      |
-| Mobox                                      | 5%         |
-| Future developments                        | 12.5%      |
+Pancake Protectors não é um estilo de jogo do tipo jogar para ganhar(Play to earn), onde as ações são automaticamente recompensadas com tokens BEP-20. Em vez disso, os usuários podem gastar CAKE no jogo para vários recursos (por exemplo, recrutar CAKE Heroes), e todo o CAKE gasto é distribuído da seguinte maneira:
 
-#### What are the main things to explore in the game? <a href="#what-are-the-main-things-to-explore-in-the-game" id="what-are-the-main-things-to-explore-in-the-game"></a>
+| Categoria                                                   | Porcentagem |
+| ----------------------------------------------------------- | ----------- |
+| Devolvida aos usuários por meio de recompensas da temporada | 70%         |
+| Queima de CAKE                                              | 12,5%       |
+| Mobox                                                       | 5%          |
+| Desenvolvimentos Futuros                                    | 12,5%       |
 
-Suggestions here will not cover all things that can be done in the game, but here are the aspects that we suggest you explore:
+## Quais são as principais coisas para explorar no game? <a href="#what-are-the-main-things-to-explore-in-the-game" id="what-are-the-main-things-to-explore-in-the-game"></a>
 
-* Seasonal competitions and prizes
-* Legions and the Legion system
-* Squad and Bunny NFT integration
+As sugestões aqui não cobrem todas as coisas que podem ser feitas no jogo, mas aqui estão os aspectos que sugerimos que você explore:
 
-There are many multiplayer aspects to the game; we encourage users to actively participate and enjoy the multiplayer aspects so that they can get the best experience.
+* Competições e prêmios de temporada
+* CAKE Heroes&#x20;
+* Legiões e o sistema de Legião&#x20;
+* Arena
+* Integração Squad e Bunny NFT&#x20;
+
+Existem muitos aspectos multiplayer no jogo; encorajamos os usuários a participar ativamente e aproveitar os aspectos multijogador para que possam obter a melhor experiência.

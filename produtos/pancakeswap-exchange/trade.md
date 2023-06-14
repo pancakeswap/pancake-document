@@ -4,7 +4,7 @@
 
 [**Swap de Tokens**](https://exchange.pancakeswap.finance/#/swap) na PancakeSwap são uma maneira simples de fazer trade de um token por outro por meio de pools de liquidez automatizados na BNB Smart Chain, Ethereum e Aptos, e também com formadores de mercado ao negociar tokens na BNB Smart Chain e Ethereum.
 
-![](<../../.gitbook/assets/image (1) (2).png>)
+![](<../../.gitbook/assets/image (1) (2) (1).png>)
 
 Ao fazer um swap de token (negociação) na Exchange da PancakeSwap na [BNB Smart Chain](https://pancakeswap.finance/swap?chain=bsc) ou na [Ethereum](https://pancakeswap.finance/swap?chain=eth), você pagará taxas de negociação de acordo com o tipo de pool de liquidez pelo qual sua negociação está sendo roteada. Você pode verificar os detalhes da rota clicando no ícone da lupa na seção “Rota”.
 

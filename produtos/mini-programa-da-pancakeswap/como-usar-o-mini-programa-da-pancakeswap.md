@@ -64,7 +64,7 @@ Atualmente, quatro recursos principais foram implementados no Mini-Programa, inc
 
 **1 - Swap AMM** – permite que os usuários negociem sem a necessidade de passar por uma exchange centralizada, as negociações são roteadas diretamente pela sua própria carteira. As pools de liquidez podem ser criados para todos os ativos na BNB Smart Chain, uma variedade muito maior de tokens para negociar.
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22) (3).png" alt=""><figcaption></figcaption></figure>
 
 **2 - Fornecimento de Liquidez** - fornecer liquidez lhe dará Tokens LP, que lhe renderão recompensas na forma de taxas de negociação para garantir que sempre haja liquidez para a troca acontecer.
 

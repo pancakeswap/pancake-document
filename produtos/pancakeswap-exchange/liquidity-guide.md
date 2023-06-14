@@ -77,7 +77,7 @@ Para remover a liquidez.
 
 3 - Clique em “Remover”. Uma nova janela aparecerá.
 
-![](<../../.gitbook/assets/image (16).png>)
+![](<../../.gitbook/assets/image (16) (4).png>)
 
 4 - Use os botões ou controle deslizante para escolher quanta liquidez deseja remover. Escolha “MAX” para remover toda a sua liquidez deste par.&#x20;
 

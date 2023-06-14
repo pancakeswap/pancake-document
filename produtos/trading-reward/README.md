@@ -1,6 +1,6 @@
 # 🧈 Recompensas de Trading
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 A recompensa de trade é um programa e benefício para usuários de stake bloqueado de CAKE. Usuários elegíveis com posições de staking de CAKE ativas podem reivindicar até 5% de desconto na taxa de negociação em CAKE, negociando pares PancakeSwap V3 elegíveis na rede BNB Chain e Ethereum.&#x20;
 
