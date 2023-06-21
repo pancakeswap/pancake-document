@@ -108,6 +108,7 @@
       * [Teams](products/nft-market/nft-profile-system/teams.md)
   * [🎮 Pancake Protectors](products/pancake-protectors/README.md)
     * [FAQ](products/pancake-protectors/faq.md)
+  * [💳 Buy Crypto](products/buy-crypto.md)
   * [🌐 PancakeSwap Mini-Program](products/pancakeswap-mini-program/README.md)
     * [How to Use PancakeSwap Mini-Program?](products/pancakeswap-mini-program/how-to-use-pancakeswap-mini-program.md)
     * [Mini-Program FAQ](products/pancakeswap-mini-program/mini-program-faq.md)

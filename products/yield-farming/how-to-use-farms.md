@@ -20,7 +20,7 @@ Check out this great [article about Impermanent Loss ](https://academy.binance.c
 
 ### **Get prepared**
 
-![](<../../.gitbook/assets/image (3) (1).png>)
+![](<../../.gitbook/assets/image (3) (3).png>)
 
 You’re going to need a liquidity position to enter into a Farm with. Farms can only accept liquidity positions from their own exact trading pair with the exact fee tier of choice; for example, the CAKE-BNB 0.25% Farm will only accept CAKE-BNB liquidity positions with the 0.25% fee tier selected. It will not accept:
 
@@ -103,7 +103,7 @@ When staking in a farm, you can still add or remove liquidity without unstaking 
 
 To do so, simply return to the Farm page, and locate the farm and position you want to adjust. You can use the “Staked Only” toggle to quickly filter the farms you are currently staking.
 
-![](<../../.gitbook/assets/image (5) (3).png>)
+![](<../../.gitbook/assets/image (5).png>)
 
 Click on the position title with the token pair, fee rate, position ID and the “>” arrow. You will be taken to the position detail page.
 

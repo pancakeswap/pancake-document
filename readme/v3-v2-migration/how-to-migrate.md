@@ -6,7 +6,7 @@ description: >-
 
 # How to migrate
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 In April 2023, PancakeSwap announced V3 for Exchange and Farms. Some farming pairs will need to be migrated to keep earning staking rewards. Relax, like last time, it should be smooth.
 
@@ -45,7 +45,7 @@ The list will likely grow eventually. The easiest way to check the updated list 
 
 ### How to migrate <a href="#c7d7b407-268c-460c-a4f1-be1b771db5e7" id="c7d7b407-268c-460c-a4f1-be1b771db5e7"></a>
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Look for the V3 migration banner on the Liquidity or Farm page. Then click “Proceed” to enter the migration helper page.
 
@@ -65,7 +65,7 @@ When all the listed farms are unstaked, click “Next Steps” to proceed.
 
 **Step 2 - Remove liquidity from Exchange V2 or StableSwap**
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In step 2, the helper will list all the liquidity positions that can be migrated to V3 with CAKE yield farming.
 
