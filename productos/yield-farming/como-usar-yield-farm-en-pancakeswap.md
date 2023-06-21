@@ -125,7 +125,7 @@ Para recoger sus recompensas, tendrás que visitar tu Farm elegido y recoger los
 {% hint style="info" %}
 Cuando esté farmeando un una red diferente a BNB Chain, deberá cambiar siempre a BNB Smart Chain para cosechar sus recompensas.
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (2).png>)
 {% endhint %}
 
 ### Con qué frecuencia debo cosechar mis recompensas? <a href="#how-often-should-i-harvest-my-rewards" id="how-often-should-i-harvest-my-rewards"></a>

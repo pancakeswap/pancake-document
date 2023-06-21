@@ -24,7 +24,7 @@ Para este ejemplo usaremos Dollop.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2) (4).png" alt=""><figcaption></figcaption></figure>
 
 4\. Se cargará una nueva página diciendo "Choose collectible". Elegiremos nuestro Dollop que elegimos anteriormente. Si ya posee varios NFT, puede elegir uno de una lista de NFT que posea.
 

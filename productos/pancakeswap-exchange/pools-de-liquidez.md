@@ -1,35 +1,92 @@
-# Liquidez
+# Liquidez\*
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-Mb9Zry-ZB3tPvT1CIzP%2F-Mb9ovQQQR3i7hnjxvWU%2Fdocs%20masthead%20\(4\).png?alt=media\&token=858aed46-510e-46d3-95c0-aa5a4fa5ce07)
 
-Cuando agregue su token a un Pool de Liquidez, recibirá tokens de proveedor de liquidez (LP) y compartirá los fees de trading sobre el par.
+## Exchange V3 <a href="#03e94594-5a75-4687-b260-0dc69574b953" id="03e94594-5a75-4687-b260-0dc69574b953"></a>
 
-## LP Tokens <a href="#lp-tokens" id="lp-tokens"></a>
+En el nuevo Exchange V3, la liquidez será manejada en forma de posiciones no-fungibles. Aún estará ganando su parte de los fees mientras provee liquidez.
 
-Por ejemplo, si depositaras **CAKE** y **BNB** en un Pool de Liquidez, recibirías tokens **LP CAKE-BNB.**
+Cuando agrega un token a un Pool de liquidez, recibirá un token NFT de proveedor de liquidez y participación en los fees.
 
-El número de tokens LP que recibe representa su parte del Pool de Liquidez CAKE-BNB.
+### **Posiciones de liquidez no-fungibles**
 
-También puede reclamar sus fondos en cualquier momento eliminando su liquidez.
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MYddUj7mrAzIDJSC820%2F-MYdezVThmhitREO6z6V%2FScreenshot%202021-04-19%20at%206.27.22%20PM.png?alt=media\&token=568dc33f-6a83-436b-a956-f54aacb5ceff)
+En V3, los proveedores de liquidez ahora tienen más control sobre qué rango de precios desean desplegar su liquidez. Así, cuando agregas tus tokens a un pool de liquidez en V3, crearás un nuevo token de posición de liquidez no-fungible con sus particulares configuraciones.
 
-## Los Proveedores de Liquidez ganan comisiones de trading <a href="#liquidity-providers-earn-trading-fees" id="liquidity-providers-earn-trading-fees"></a>
+Por lo tanto, en V3, las posiciones de liquidez son NFTs. Tenga en cuenta que esos NFTs son transferibles, y representan la propiedad de los activos aportados y los fee de trading ganados.
 
-Proporcionar liquidez le da una recompensa en forma de tarifas de trading cuando las personas utilizan su fondo de liquidez (su par de monedas agregado).
+En V3, los fees de trading ya no serán automáticamente agregados a la posición. Podrás reclamarlos manualmente en la página de detalles de cada posición.
 
-Cada vez que alguien opera en PancakeSwap, el operador paga una tarifa del 0.25%, **de la cual el 0.17%** se agrega al Fondo de Liquidez del par de swaps en el que operaron.
+También podrás retirar tus fondos en cualquier momento, removiendo la liquidez aportada.
 
-Por ejemplo:
+### **Liquidez activa y rango de precios**
 
-* Hay 10 tokens LP que representan 10 cake y 10 tokens BNB.
-* 1 LP token = 1 CAKE + 1 BNB.
-* Alguien intercambia10 CAKE por 10 BNB.
-* Otra persona intercambia 10 BNB por 10 CAKE.
-* El pool de liquidez CAKE/BNB ahora tiene 10.017 CAKE y 10.017 BNB.
-* Cada LP token ahora vale 1.00017 CAKE + 1.00017 BNB.
+En V3, los proveedores de liquidez pueden configurar sus posiciones para aportar liquidez solamente cuando el precio se encuentre dentro de determinado rango. Si el precio en el mercado se mueve fuera de ese rango, la posición se quedará conformada por un token solamente y el par quedará inactivo.
 
-Para hacer que ser un proveedor de liquidez valga aún más la pena, también puede poner sus tokens LP a trabajar para obtener más rendimiento en los [CAKE Farms](https://pancakeswap.finance/farms), mientras sigue ganando su recompensa en tarifas de trading del 0.17%.
+Las posiciones inactivas no participarán en los trades ni ganarán fees de trading.
+
+### **Liquidez concentrada**
+
+In V3, because of liquidity providers can concentrate their token deposits to provide liquidity only within a specific price range. With the same amount of underlying assets, V3 can support a much bigger trade.
+
+It results in a much higher relative liquidity level when compared to V2. And liquidity providers can earn more trading fees with the same amount of capital.
+
+Here is an example:
+
+> Baller and Claire both provided liquidity in CAKE/USDT pool with $1,000 USD worth of token assets. The current price of CAKE is 5 USDT.
+>
+> Similar to PancakeSwap v2, Baller provided his liquidity across the entire price range. Therefore he deposited all of his capital, 500 USDT and 100 CAKE.
+>
+> Claire utilize the new concentrated liquidity feature in PancakeSwap v3 and created a position with a price range of 2 to 12.5 USDT per CAKE. She deposited 185 USDT and 37 CAKE, worth a total of $370. She is now able to spend the remaining $630 elsewhere, like locking CAKE in the Syrup pool to enjoy high CAKE yield while receiving a series of PancakeSwap ecosystem benefits.
+>
+> As long as CAKE stays within the price range of 2 to 12.5, both Baller and Claire will receive the same amount of trading fee rewards while Claire deposited way less capital to the liquidity pool.
+
+### **Earning trading fees**
+
+Providing liquidity gives you a reward in the form of trading fees when people use your liquidity pool to complete swaps.
+
+Whenever someone trades on PancakeSwap, for each hop (swap) in each Exchange V3 liquidity pool, depending on the liquidity pool fee tier, the trader pays a fee ranging from 0.01% to 1%. Their fee rates and fee breakdowns are shown as follows:
+
+|                    | 0.01% | 0.05% | 0.25% | 1%  |
+| ------------------ | ----- | ----- | ----- | --- |
+| Liquidity Provider | 67%   | 66%   | 68%   | 68% |
+| CAKE Burn          | 10%   | 10%   | 23%   | 23% |
+| Treasury           | 23%   | 24%   | 9%    | 9%  |
+
+For example, in a 0.25% fee tier pool:
+
+* Among all the active (in-range) liquidity positions, there are a total of 10 CAKE and 10 BNB tokens.
+* Someone trades 1 CAKE for 1 BNB.
+* Someone else trades 1 BNB for 1 CAKE.
+* The liquidity providers who are in the range providing active liquidity earned a total of 0.0017 CAKE and 0.0017 BNB from the trades.
+* Positions with price ranges that are not covering the current price, therefore being inactive, will not contribute to trading or earn any fees.
+
+### **Earning CAKE**
+
+To make being a liquidity provider even more worth your while, you can also put your liquidity positions to work whipping up some fresh yield on the [CAKE Farms](https://pancakeswap.finance/farms), while still earning trading fee rewards.
+
+
+
+## Exchange V2
+
+### LP Tokens
+
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+
+As an example, if you deposited **CAKE** and **BNB** into a Liquidity Pool, you'd receive **CAKE-BNB LP** tokens.
+
+The number of LP tokens you receive represents your portion of the CAKE-BNB Liquidity Pool.
+
+You can also redeem your funds at any time by removing your liquidity.
+
+### **Earning trading fees**
+
+Whenever someone trades on PancakeSwap, for each hop (swap) in each Exchange V2 liquidity pool, the trader pays a fixed 0.25% fee, **of which 0.17%** is added back to the Liquidity Pool in a form of trading fees.
+
+### **Earning CAKE**
+
+The old Exchange V2 will be running in parallel with the new Exchange V3. So, some trading pairs will remain on PancakeSwap Exchange V2 and have their corresponding V2 Farms. Please check the tags to identify the exchange versions.
 
 ## Impermanent Loss <a href="#impermanent-loss" id="impermanent-loss"></a>
 
