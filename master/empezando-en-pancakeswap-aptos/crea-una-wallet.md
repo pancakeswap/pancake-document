@@ -118,7 +118,7 @@ Blocto ofrece una solución amigable para el usuario y un paquete todo en uno pa
 
 1 - Configuración ingresando tu dirección de Email. Luego ingrese la clave por única vez, recibida en su Email.
 
-![](<../../.gitbook/assets/image (7) (2) (1).png>)![](<../../.gitbook/assets/image (1) (2) (3).png>)
+![](<../../.gitbook/assets/image (7) (2) (1).png>)![](<../../.gitbook/assets/image (1) (2) (3) (1).png>)
 
 
 

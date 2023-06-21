@@ -1,4 +1,4 @@
-# Liquidez\*
+# Liquidez
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-Mb9Zry-ZB3tPvT1CIzP%2F-Mb9ovQQQR3i7hnjxvWU%2Fdocs%20masthead%20\(4\).png?alt=media\&token=858aed46-510e-46d3-95c0-aa5a4fa5ce07)
 
@@ -72,7 +72,7 @@ Para que ser proveedor de liquidez sea aún más atractivo, también puedes pone
 
 ### LP Tokens
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 Como ejemplo, si depositas **CAKE** y **BNB** en un pool de liquidez, recibirás tokens **CAKE-BNB LP**.
 

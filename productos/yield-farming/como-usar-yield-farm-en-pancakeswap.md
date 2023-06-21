@@ -55,7 +55,7 @@ Ahora que tienes tus tokens LP, ¡estás listo para comenzar a depositarlos en u
 
 1 - Vuelva a la página de [Farms ](https://pancakeswap.finance/farms)y localice la suya. Haz clic en cualquier parte de la fila que muestre a tu par. Se expandirá para mostrar más detalles.
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (7) (5).png>)
 
 Cuando esté listo, haga clic en el botón **Enable** y confirme su acción en su billetera.
 
