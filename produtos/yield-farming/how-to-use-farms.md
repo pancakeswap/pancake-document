@@ -51,11 +51,11 @@ Agora que você encontrou u Farm para fazer stake, você precisará fornecer liq
 
 2 - Alternativamente, você pode clicar no Farm da que escolheu na lista. Ele será aberto para mostrar mais detalhes. Ou com a visualização do card, clique em “Detalhes” para expandir e obter mais detalhes. Clique no link "Adicionar LP XXX-YYY" na seção de detalhes para adicionar liquidez.
 
-![](<../../.gitbook/assets/image (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1).png>)
 
 ### **Faça Stake de suas posições no farm**
 
-![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (9) (1).png>)
 
 Depois de terminar de adicionar liquidez. Você deve ver sua posição listada no farm que deseja usar.&#x20;
 
@@ -67,7 +67,7 @@ Se você tiver várias posições, clique em "Visualizar todos" para visualizá-
 
 Clique em “Stake” na posição listada e sua carteira solicitará confirmação.
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (2).png>)
 
 Após uma breve espera, a janela fechará e você verá sua posição em stake nos detalhes.&#x20;
 
@@ -83,7 +83,7 @@ Para colher as recompensas CAKE de uma posição em stake, simplesmente retorne 
 
 Se você tiver várias posições em stake, você pode clicar em "Visualizar tudo" para visualizá-las em uma nova janela pop-up.
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (8) (3).png>)
 
 Clique em “Colheita” na posição e sua carteira pedirá confirmação. Após uma breve espera, as recompensas de CAKE serão enviadas para sua carteira.
 
@@ -142,7 +142,7 @@ Agora que você encontrou um Farm para fazer stake, precisará adicionar liquide
 1. Clique na linha do Farm  que você escolheu na lista. Ele será aberto para mostrar mais detalhes.
 2. À esquerda, você verá alguns links. Clique no link Obter (seu par) LP (**Get (your pair) LP)**.
 
-![](<../../.gitbook/assets/image (9) (1).png>)
+![](<../../.gitbook/assets/image (9) (1) (3).png>)
 
 ## Colocando seus LP Tokens no farm
 

@@ -1,6 +1,6 @@
 # Taxas e Roteamento
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
 
 Na Exchange V3, por padrão, o  Smart Router da PancakeSwap utilizará a liquidez da V3, V2, StableSwap (BNB Chain) e dos AMM e formadores de mercado (BNB Chain & Ethereum), para executar negociações e encontrar o melhor preço para os traders.&#x20;
 
@@ -8,19 +8,19 @@ No entanto, os usuários sempre podem personalizar sua negociação, escolhendo 
 
 ### **Verifique o nível da taxa e a quantidade de taxa que está atualmente sendo aplicado**
 
-### ![](<../../.gitbook/assets/image (2) (2).png>)
+### ![](<../../.gitbook/assets/image (2) (2) (2).png>)
 
-Para verificar quanto de negociação será cobrado em seu swap atual, verifique a seção “Taxa” na seção de detalhes do swap.![](<../../.gitbook/assets/image (3).png>)
+Para verificar quanto de negociação será cobrado em seu swap atual, verifique a seção “Taxa” na seção de detalhes do swap.![](<../../.gitbook/assets/image (3) (6).png>)
 
 Para verificar por qual tipo de pool e o nível de taxa sua negociação está atualmente roteada, confira a seção "Rota".
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (7) (2).png>)
 
 Para saber mais detalhes, clique no ícone da lupa para mostrar as exibições completas da rota de trade.
 
 ### **Personalizar fontes de liquidez**
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6) (2).png>)
 
 Na parte superior da interface em “Personalizar roteamento”, você pode escolher qual fonte de liquidez a rota usará ao rotear sua negociação. Para abrir esta interface, você pode:&#x20;
 
@@ -35,7 +35,7 @@ Você pode clicar no botão “Redefinir” no canto superior direito para redef
 
 ### **Personalizar preferências de roteamento**
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (4).png>)
 
 Na parte inferior da interface “Personalizar roteamento”, você pode personalizar suas preferências de roteamento ativando ou desativando o multihops e o roteamento dividido.&#x20;
 

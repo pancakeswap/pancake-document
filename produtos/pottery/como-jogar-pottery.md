@@ -44,7 +44,7 @@ Com base na data do sorteio, encontre a rodada correspondente para o grupo que v
 
 Outra maneira de verificar se você ganhou em algum sorteio semanal é verificar no painel de Claim/Reivindicações para ver se há algum prêmio a ser reivindicado aqui:
 
-![](<../../.gitbook/assets/image (6) (2).png>)
+![](<../../.gitbook/assets/image (6) (2) (1).png>)
 
 Se houver, você pode reivindicar o prêmio clicando no botão Reivindicar e terá uma transação para você aprovar. Observe que você terá que pagar uma taxa de gás na BNB Smart Chain para reivindicar o prêmio.
 

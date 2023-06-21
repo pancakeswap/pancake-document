@@ -1,6 +1,6 @@
 # Dashboard & Link
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 O painel de afiliados é a sede do programa de afiliados. Aqui, você poderá criar e compartilhar links enquanto acompanha e resgata recompensas.&#x20;
 

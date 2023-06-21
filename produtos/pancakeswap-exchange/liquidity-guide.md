@@ -16,7 +16,7 @@ Neste exemplo, adicionaremos liquidez V3 usando ETH e USDC.
 
 1 - Visite a página de [Liquidez](https://pancakeswap.finance/liquidity).
 
-<figure><img src="../../.gitbook/assets/image (13) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 2 - Clique no botão de “Adicionar Liquidez”.
 
