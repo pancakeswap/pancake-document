@@ -52,7 +52,7 @@ Para este ejemplo usaremos Dollop.&#x20;
 
 10\. Haga clic en el botón **Confirm** y, a continuación, confirme la acción en su billetera. Una vez confirmado, haga clic en el botón **Complete Profile.**&#x20;
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (4).png" alt=""><figcaption></figcaption></figure>
 
 
 
