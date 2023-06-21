@@ -4,7 +4,7 @@ description: gm eth!
 
 # Ethereum Expansion
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 We have launched PancakeSwap v3 on Ethereum and would like to build with Ethereum Project Teams, and potentially introduce you to one of crypto’s largest, most engaged, and active DApps (with over 120k Daily Active Users)!
 
@@ -40,7 +40,7 @@ For more information about our liquidity mining programs (“Syrup Pools and Far
 
 For more information about our launchpads (“Initial Farm Offering, or IFO”), please view this PDF:
 
-{% file src="../.gitbook/assets/Ethereum PancakeSwap IFOs (1).pdf" %}
+{% file src="../.gitbook/assets/Ethereum PancakeSwap IFOs.pdf" %}
 
 ### An example of the Syrup Pool/Farm process <a href="#h.pmok1ja7siuu" id="h.pmok1ja7siuu"></a>
 
@@ -59,7 +59,7 @@ For more information about our launchpads (“Initial Farm Offering, or IFO”),
 5. Post-Launch
    * We would continue to stay in touch, and work together wherever possible!
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### An example of the IFO Process <a href="#h.tpl73qb418uk" id="h.tpl73qb418uk"></a>
 
@@ -85,4 +85,4 @@ For more information about our launchpads (“Initial Farm Offering, or IFO”),
 
 At every step of the process, the team is here to help – we understand that for founders and their teams, the IFO or TGE Launch is extremely critical, and we leave nothing to chance.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (4).png" alt=""><figcaption></figcaption></figure>

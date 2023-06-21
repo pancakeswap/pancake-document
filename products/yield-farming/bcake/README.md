@@ -1,19 +1,16 @@
+---
+description: Use bCAKE - Farm Booster to boost your V3 farming positions!
+---
+
 # bCAKE
 
-![](../../../.gitbook/assets/how-to-bCAKE.png)
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-bCAKE - Farm Boosters, is an automatic generated boost multiplier that allows you to boost your CAKE yield from selected farms up to 2x, taking full advantage of combining fixed-term CAKE staking and liquidity yield farming.
+bCAKE - Farm Booster, is an automatically generated boost multiplier that allows you to boost your CAKE yield from selected farms up to 2x, taking full advantage of combining fixed-term CAKE staking and liquidity yield farming.
 
+{% hint style="info" %}
 **bCAKE is NOT a new token and can NOT be transferred!**
-
-
+{% endhint %}
 
 Learn more about bCAKE and how to use it to boost your farming yields:
 
-{% content-ref url="how-to-use-bcake.md" %}
-[how-to-use-bcake.md](how-to-use-bcake.md)
-{% endcontent-ref %}
-
-{% content-ref url="faq.md" %}
-[faq.md](faq.md)
-{% endcontent-ref %}
