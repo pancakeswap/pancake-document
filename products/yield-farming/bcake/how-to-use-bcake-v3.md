@@ -1,6 +1,6 @@
 # How to use bCAKE V3
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 Like iCAKE and vCAKE, bCAKE is a fixed-term CAKE staking benefit designed for our loyal CAKE holders. By locking CAKE in the fixed-term CAKE staking pool, users can boost earning from selected farms up to 2x.
 

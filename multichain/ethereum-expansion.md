@@ -4,7 +4,7 @@ description: gm eth!
 
 # Ethereum Expansion
 
-<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 We have launched PancakeSwap v3 on Ethereum and would like to build with Ethereum Project Teams, and potentially introduce you to one of crypto’s largest, most engaged, and active DApps (with over 120k Daily Active Users)!
 

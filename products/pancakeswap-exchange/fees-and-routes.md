@@ -12,7 +12,7 @@ However, users are always able to customize their trade by choosing which liquid
 
 To check how much trading will be charged on your current swap, check out the “Fee” section in the swap detail section.
 
-![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (11) (2).png>)
 
 To check which type of pool and the fee tier your trade is currently routed through, check out the “Route” section.
 

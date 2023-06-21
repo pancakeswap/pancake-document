@@ -54,7 +54,7 @@ If you are trading a token for the first time, you may need first to click "Enab
 
 8 - Done! You can check your transaction on blockchain explorer by clicking the link shown above.
 
-![](<../../.gitbook/assets/image (1) (2) (1).png>)
+![](<../../.gitbook/assets/image (1) (2).png>)
 
 ## **What is Smart Router V3, and how to use it?**
 
