@@ -6,7 +6,7 @@ description: >-
 
 # How to migrate
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 In April 2023, PancakeSwap announced V3 for Exchange and Farms. Some farming pairs will need to be migrated to keep earning staking rewards. Relax, like last time, it should be smooth.
 

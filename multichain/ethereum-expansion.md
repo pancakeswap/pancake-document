@@ -59,7 +59,7 @@ For more information about our launchpads (“Initial Farm Offering, or IFO”),
 5. Post-Launch
    * We would continue to stay in touch, and work together wherever possible!
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### An example of the IFO Process <a href="#h.tpl73qb418uk" id="h.tpl73qb418uk"></a>
 

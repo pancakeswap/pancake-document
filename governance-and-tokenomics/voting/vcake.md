@@ -29,7 +29,7 @@ For example:
 * Bob locked 100 CAKE for 52 weeks; his remaining lock duration is 52 weeks. He has \`100 x 52 = 5200 vCAKE\` at that moment.
 * Carole locked 100 CAKE for 10 weeks; and after 10 weeks, her staking position ended. She has \`100 vCAKE\` at that moment.
 
-![](<../../.gitbook/assets/image (3) (2).png>)
+![](<../../.gitbook/assets/image (3) (2) (1).png>)
 
 ### How to check the vCAKE number?
 

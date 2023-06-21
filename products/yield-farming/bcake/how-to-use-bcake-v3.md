@@ -1,6 +1,6 @@
 # How to use bCAKE V3
 
-<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 Like iCAKE and vCAKE, bCAKE is a fixed-term CAKE staking benefit designed for our loyal CAKE holders. By locking CAKE in the fixed-term CAKE staking pool, users can boost earning from selected farms up to 2x.
 
@@ -10,7 +10,7 @@ The boost multiplier is calculated based on how much CAKE you lock, how long you
 
 #### **Initiate a fixed-term CAKE staking position** <a href="#3e485cf0-a9c5-408d-ab19-3ad2a7852589" id="3e485cf0-a9c5-408d-ab19-3ad2a7852589"></a>
 
-![](<../../../.gitbook/assets/image (11).png>)
+![](<../../../.gitbook/assets/image (4).png>)
 
 If you haven't locked any CAKE in the CAKE staking pool, click "Go to Pool" and follow the instructions to initiate a fixed-term staking position.
 
@@ -20,11 +20,11 @@ To learn more about how to do fixed-term CAKE staking, read [here](https://docs.
 
 You can only boost your earning from farms with bCAKE enabled. To look for those farms, check the tags section of each farm and look for the green rocket tag labelled “Boosted”.
 
-![](<../../../.gitbook/assets/image (24).png>)
+![](<../../../.gitbook/assets/image (6).png>)
 
 Alternatively, use the “Booster Available” filter within the “Farm Types” selector to quickly filter all the bCAKE-enabled farms.
 
-![](<../../../.gitbook/assets/image (9).png>)
+![](<../../../.gitbook/assets/image (3).png>)
 
 #### Stake your position
 
