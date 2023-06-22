@@ -1,6 +1,6 @@
 # 💳 Buy Crypto
 
-PancakeSwap introduces the ability to purchase your favourite tokens using a credit card, debit card or bank transfer. Integrating on-ramp services into our platform aims to provide users with a seamless and convenient way to purchase cryptocurrencies using fiat currencies. Using our on-ramp quote interface, users can choose between different providers and get the best rates in Web3.
+documentationPancakeSwap introduces the ability to purchase your favourite tokens using a credit card, debit card or bank transfer. Integrating on-ramp services into our platform aims to provide users with a seamless and convenient way to purchase cryptocurrencies using fiat currencies. Using our on-ramp quote interface, users can choose between different providers and get the best rates in Web3.
 
 ### Benefits for Users
 
@@ -55,7 +55,7 @@ To purchase crypto through our providers, different levels of evidence are requi
 
 ### Is buy crypto available where I'm located?
 
-Buy crypto is available for select regions based on provider availability. Please visit our [partner documentations](buy-crypto.md#where-can-i-find-out-more) for more information.
+Buy crypto is available for select regions based on provider availability. Please visit our partner documentation for more information.
 
 ### Where can I find out more?
 
