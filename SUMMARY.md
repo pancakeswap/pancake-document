@@ -107,6 +107,7 @@
       * [Equipes](produtos/nft-profile-system/teams.md)
   * [🎮 Pancake Protectors](produtos/pancake-protectors/README.md)
     * [Perguntas Frequentes](produtos/pancake-protectors/perguntas-frequentes.md)
+  * [💳 Compre Cripto](produtos/compre-cripto.md)
   * [🌐 Mini-Programa da PancakeSwap](produtos/mini-programa-da-pancakeswap/README.md)
     * [Como usar o Mini-Programa da PancakeSwap?](produtos/mini-programa-da-pancakeswap/como-usar-o-mini-programa-da-pancakeswap.md)
     * [Perguntas Frequentes sobre o Mini-Programa](produtos/mini-programa-da-pancakeswap/perguntas-frequentes-sobre-o-mini-programa.md)

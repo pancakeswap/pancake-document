@@ -16,7 +16,7 @@ Antes de entrar no Mini-Programa PancakeSwap, há um aviso da Binance, bem como 
 
 Depois de lê-los, role até o final para clicar em "Eu entendo" para começar!
 
-<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Configurando a Carteira Binance DeFi&#x20;
 
@@ -50,13 +50,13 @@ Há também outras entradas para o nosso Mini-Programa e estamos trabalhando com
 
 **1 - Favoritos do Marketplace** – clique nos três pontinhos no canto superior direito do Mini-Programa e marque como favorito, da próxima vez no Marketplace estará no topo!
 
-<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (52) (2).png" alt=""><figcaption></figcaption></figure>
 
 **2 - DeFi Wallet** – PancakeSwap está na página de destino da DeFi Wallet, portanto, ao acessar a DeFi Wallet a partir da guia da carteira, você também pode entrar por lá.&#x20;
 
 **3 - Barra de pesquisa** – na página inicial do aplicativo Binance, na barra de pesquisa na parte superior, você pode pesquisar determinados tokens que ainda não estão listados pela Binance, mas estão incluídos na lista da PancakeSwap, a partir daí ele o direcionará para o Mini -Programa da PancakeSwap para negociação! Neste exemplo, pesquisamos por LOOKS:
 
-<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (35) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Funcionalidades Disponíveis no Mini-Programa&#x20;
 

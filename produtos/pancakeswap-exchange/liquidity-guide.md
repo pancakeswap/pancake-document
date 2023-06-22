@@ -69,7 +69,7 @@ Para remover a liquidez.
 
 1 - Visite a página de [Liquidez](https://pancakeswap.finance/liquidity)**.**
 
-<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (45) (3).png" alt=""><figcaption></figcaption></figure>
 
 2 - Clique na posição que deseja remover liquidez em “Sua Liquidez”. Você pode usar o filtro para verificar rapidamente todas as posições de liquidez V3.
 

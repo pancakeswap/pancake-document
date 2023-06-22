@@ -90,7 +90,7 @@ Após 5 minutos como rodada ativa, a rodada que você participou terminará. Tud
 
 2\. Após uma breve espera, a rodada finalizada se moverá para a esquerda e dirá "Expirou". O resultado da rodada será exibido com UP colorido em verde ou DOWN colorido em vermelho.
 
-![](<../../.gitbook/assets/image (51).png>)
+![](<../../.gitbook/assets/image (51) (1).png>)
 
 3\. Se você esteve ocupado e perdeu os resultados, pode voltar algumas rodadas clicando na seta para a esquerda nos cartões roxos de coelho.
 

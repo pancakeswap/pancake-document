@@ -24,7 +24,7 @@ Você só pode aumentar seus ganhos nos farms com o bCAKE ativado. Para procurar
 
 Como alternativa, use o filtro “Booster Available” no seletor “Farm Types” para filtrar rapidamente todos os farms habilitados para bCAKE.
 
-![](<../../../.gitbook/assets/image (7).png>)
+![](<../../../.gitbook/assets/image (45).png>)
 
 ### Faça stake de sua posição&#x20;
 
@@ -38,7 +38,7 @@ No Farm V3 e bCAKE, o processo foi simplificado, então você não precisa mais 
 
 ### Ative o bCAKE <a href="#b3a80f22-5043-4e4b-afae-93b4abec504e" id="b3a80f22-5043-4e4b-afae-93b4abec504e"></a>
 
-![](<../../../.gitbook/assets/image (5).png>)
+![](<../../../.gitbook/assets/image (35).png>)
 
 Quando estiver pronto, você verá o multiplicador de impulso disponível para a posição de farm que está em stake no momento. Para saber mais sobre como o multiplicador bCAKE é calculado, [leia aqui](https://docs.pancakeswap.finance/v/portuguese-brazilian/produtos/yield-farming/bcake/perguntas-frequentes#por-que-meus-multiplicadores-mudam-mesmo-apos-a-ativacao).&#x20;
 
@@ -56,7 +56,7 @@ Você precisará desativar um booster ativo para ativar o bCAKE em outras posiç
 
 ### Desativando bCAKE
 
-![](<../../../.gitbook/assets/image (6).png>)
+![](<../../../.gitbook/assets/image (36).png>)
 
 Para desarmar um farm booster, basta clicar no botão "Unset" e confirmar a transação em sua carteira.
 
