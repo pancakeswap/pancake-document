@@ -25,7 +25,7 @@ On-ramp services will be available on BNB and Ethereum chains. Major cryptocurre
 
 Please note that the quote system will provide full transparency of the exchange rate, including fees, to recommend the best option.
 
-### How do I buy Crypto?
+### How do I buy crypto?
 
 1. Click on the "Buy Crypto" button on the PancakeSwap platform.
 
@@ -52,6 +52,10 @@ Please note that the quote system will provide full transparency of the exchange
 ### Do I need proof of identity?
 
 To purchase crypto through our providers, different levels of evidence are required to prove identity to our on-ramp partners. These levels will depend on the payment mode and payment amount required. Users will have to comply with provider requirements to use the buy crypto product. To learn more about this, please visit our partner documentation here. **PancakeSwap does not collect and store any financial or personal data.**
+
+### Is buy crypto available where I'm located?
+
+Buy crypto is available for select regions based on provider availability. Please visit our [partner documentations](buy-crypto.md#where-can-i-find-out-more) for more information.
 
 ### Where can I find out more?
 

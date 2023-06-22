@@ -103,7 +103,7 @@ When staking in a farm, you can still add or remove liquidity without unstaking 
 
 To do so, simply return to the Farm page, and locate the farm and position you want to adjust. You can use the “Staked Only” toggle to quickly filter the farms you are currently staking.
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (3).png>)
 
 Click on the position title with the token pair, fee rate, position ID and the “>” arrow. You will be taken to the position detail page.
 
