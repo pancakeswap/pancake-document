@@ -93,7 +93,7 @@ Trust Wallet es una wallet popular para dispositivos móviles. Soporta DApps, co
 {% endtab %}
 
 {% tab title="Blocto" %}
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (12) (3).png>)
 
 Blocto ofrece una solución amigable para el usuario y un paquete todo en uno para usar DApps y manejar sus activos.
 
@@ -193,7 +193,7 @@ Martian es una wallet para Aptos Chain que te permite almacenar, enviar, recibir
 {% endtab %}
 
 {% tab title="Pontem" %}
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (2).png" alt=""><figcaption></figcaption></figure>
 
 Pontem Wallet es una wallet para Aptos Chain que te permite almacenar, enviar, recibir tokens, y conectar con dApps al ecosistema de Aptos.
 
@@ -290,7 +290,7 @@ Blocto ofrece una solución amigable para el usuario y un paquete todo en uno pa
 
 2 - Luego ingresa la clave de un solo uso recibida en tu Email.
 
-![](<../../.gitbook/assets/image (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (4).png>)
 
 
 

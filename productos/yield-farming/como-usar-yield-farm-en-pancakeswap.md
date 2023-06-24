@@ -26,7 +26,7 @@ Antes de continuar, querrá elegir un Farm adecuado para usted. [Visite la pági
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -61,11 +61,11 @@ Cuando esté listo, haga clic en el botón **Enable** y confirme su acción en s
 
 2 - Después de una breve espera, el botón Enable cambiará a **Stake LP.** Haga clic en él y aparecerá una nueva ventana.
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (4).png>)
 
 3 - Escriba la cantidad de tokens LP con los que desea ingresar al Farm, o simplemente haga clic en **Max** para usar todos sus tokens LP.
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (4).png>)
 
 4 - Cuando haya introducido la cantidad, el botón **Confirm** se iluminará. Haga clic en él. Su billetera le pedirá que confirme su acción.
 

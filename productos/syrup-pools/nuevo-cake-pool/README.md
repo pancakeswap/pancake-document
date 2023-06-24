@@ -4,7 +4,7 @@
 
 PancakeSwap ofrecerá un CAKE Syrup Pool con dos opciones de staking: flexible o a plazo fijo. Tenga en cuenta que los pools Auto CAKE, IFO CAKE y Manual CAKE se retirarán tras el lanzamiento del nuevo CAKE Syrup Pool con depósito flexible y a plazo fijo. ¡Sigue leyendo para obtener más información!
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Cuál es la diferencia entre “Flexible” y “A Plazo Fijo"?
 

@@ -18,7 +18,7 @@ En este ejemplo, aportaremos liquidez en V3 usando ETH y USDC.
 
 1 - Visita la página [Liquidez](https://pancakeswap.finance/liquidity).
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 2 - Clic en el botón “Add Liquidity” (Agregar liquidez).
 
@@ -26,7 +26,7 @@ En este ejemplo, aportaremos liquidez en V3 usando ETH y USDC.
 
 3 - Elige los dos tokens del par de trading que quieras aportar liquidez. Aquí, usaremos ETH y USDC como ejemplo.
 
-![](<../../.gitbook/assets/image (7).png>)
+![](../../.gitbook/assets/image.png)
 
 
 
@@ -36,54 +36,54 @@ En este ejemplo, aportaremos liquidez en V3 usando ETH y USDC.
 
 5 - Puedes confirmar la versión así como el tier de fee del pool de liquidez al que estás aportando observando la indicación de “V3 LP - x% fee tier” como se ve en la siguiente imagen.
 
+![](<../../.gitbook/assets/image (1).png>)
+
+* Si quieres personalizar el tier del fee, clic en “More” (más), y elije el tier deseado.
+* Ten en cuenta que siempre es aconsejable aportar liquidez con el tier más popular.
+
+
+
+6 - Puedes revisar y confirmar el rango de precios en la ventana de a la derecha de la pantalla.
+
+![](<../../.gitbook/assets/image (12).png>)
+
+* El gráfico muestra los niveles de liquidez a través de todo el rango de precios. Puedes acercar y alejar con el zoom usando los botones correspondientes. Puedes hacer un paneo y navegar por el gráfico, arrastrando horizontalmente los ejes.
+* Si quieres personalizar el rango de precios, simplemente arrastra las barras, clic en los botones + y - en los precios, o ingresa manualmente los dos precios.
+* Aunque no es recomendable, puedes aportar liquidez en todo el rango entero, haciendo clic en el botón “Full Range” (rango completo).
+
+
+
+7 - Ingrese la cantidad de uno de los tokens bajo “Deposit Amount” (Monto de depósito). El otro valor será calculado y completado automáticamente. Si uno de los tokens no tuviera suficiente saldo, verás un error y el botón se grisará. Por favor ingresa un monto menor, o usa el botón “MAX” para ingresar el valor máximo disponible.
+
+![](<../../.gitbook/assets/image (16).png>)
+
+
+
+8 - Clic en el botón “Enable USDC”. Si estás aportando liquidez junto con algún token que no sea ETH, deberás hacer clic en enable (habilitar) dos veces por cada token en tu par. Tu wallet te pedirá que confirmes.
+
 ![](<../../.gitbook/assets/image (10).png>)
 
-* If you want to customize the fee tier, click “More”, and choose the desired fee tier.
-* Please note that it is always advisable to provide liquidity to the most popular fee tier.
+
+
+9 - El botón “Add” (agregar) se encenderá. Clic para continuar.
+
+![](<../../.gitbook/assets/image (7).png>)
 
 
 
-6 - You can review and confirm the price range on the right-hand side displays.
+10 - Una nueva ventana emergente aparecerá para que veas tu posición de liquidez. Si todo luce bien, clic "Add" (agregar) otra vez para continuar.
 
-![](broken-reference)
-
-* The chart shows the level of liquidity across all the price ranges. You can zoom in and out using the magnifier buttons. You can pan and navigate the chart by dragging the bottom x-axis.
-* If you want to customize the price range. Simply drag the handles, click the + and - buttons on the two prices, or click the two price numbers and enter them manually.
-* Although it is not advisable, you can provide your liquidity to the whole price range by clicking the “Full Range” button.
+![](<../../.gitbook/assets/image (13).png>)
 
 
 
-7 - Enter an amount on one of the tokens under “Deposit Amount”. The other should be calculated and filled automatically. If one of the tokens does not have enough balance. You will see an error and the button is greyed out. Please enter a lower amount to proceed or use the “MAX” button to fill in the maximum available value.
-
-![](broken-reference)
+11 - Tu wallet te pedirá confirmación. Confirma la transacción desde tu wallet.
 
 
 
-8 - Click the “Enable USDC” button. If you are adding liquidity against tokens other than ETH, you might need to click enable twice for each token in your pair. Your wallet will ask you to confirm the action.
+12 - Enseguida, verás tu nueva posición de liquidez en la página “My Liquidity” (mi liquidez). Y podrás acceder a los detalles al hacer clic en la posición.
 
-![](broken-reference)
-
-
-
-9 - The “Add” button will then light up. Click to proceed.
-
-![](broken-reference)
-
-
-
-10 - A new pop-up window will appear to preview your liquidity position. If everything looks good, click “Add” again to proceed.
-
-![](broken-reference)
-
-
-
-11 - Your wallet will ask you for confirmation. Confirm your transaction from your wallet.
-
-
-
-12 - Soon after, you will see your new liquidity position on the “My Liquidity” page. And you will be able to check its detail by clicking on the position.
-
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 ### **Remove liquidity**
 
@@ -155,7 +155,7 @@ En este ejemplo, agregaremos liquidez usando BNB y CAKE.
 
 7\. El botón **Supply** se podrá presionar. Haga clic en él
 
-<figure><img src="../../.gitbook/assets/image (5) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 8\. Aparecerá una ventana que indica cuánto recibirá. Clic en **Confirm Supply**. Su billetera le pedirá que confirme la acción.
 
