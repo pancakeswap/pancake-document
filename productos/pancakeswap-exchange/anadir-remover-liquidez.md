@@ -1,4 +1,4 @@
-# Añadir/Remover Liquidez\*
+# Añadir/Remover Liquidez
 
 ![](<../../.gitbook/assets/docs-masthead (2).png>)
 
@@ -18,7 +18,7 @@ En este ejemplo, aportaremos liquidez en V3 usando ETH y USDC.
 
 1 - Visita la página [Liquidez](https://pancakeswap.finance/liquidity).
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 2 - Clic en el botón “Add Liquidity” (Agregar liquidez).
 
@@ -26,7 +26,7 @@ En este ejemplo, aportaremos liquidez en V3 usando ETH y USDC.
 
 3 - Elige los dos tokens del par de trading que quieras aportar liquidez. Aquí, usaremos ETH y USDC como ejemplo.
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (7).png>)
 
 
 
@@ -36,7 +36,7 @@ En este ejemplo, aportaremos liquidez en V3 usando ETH y USDC.
 
 5 - Puedes confirmar la versión así como el tier de fee del pool de liquidez al que estás aportando observando la indicación de “V3 LP - x% fee tier” como se ve en la siguiente imagen.
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (9).png>)
 
 * Si quieres personalizar el tier del fee, clic en “More” (más), y elije el tier deseado.
 * Ten en cuenta que siempre es aconsejable aportar liquidez con el tier más popular.
@@ -45,7 +45,7 @@ En este ejemplo, aportaremos liquidez en V3 usando ETH y USDC.
 
 6 - Puedes revisar y confirmar el rango de precios en la ventana de a la derecha de la pantalla.
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (1).png>)
 
 * El gráfico muestra los niveles de liquidez a través de todo el rango de precios. Puedes acercar y alejar con el zoom usando los botones correspondientes. Puedes hacer un paneo y navegar por el gráfico, arrastrando horizontalmente los ejes.
 * Si quieres personalizar el rango de precios, simplemente arrastra las barras, clic en los botones + y - en los precios, o ingresa manualmente los dos precios.
@@ -55,25 +55,25 @@ En este ejemplo, aportaremos liquidez en V3 usando ETH y USDC.
 
 7 - Ingrese la cantidad de uno de los tokens bajo “Deposit Amount” (Monto de depósito). El otro valor será calculado y completado automáticamente. Si uno de los tokens no tuviera suficiente saldo, verás un error y el botón se grisará. Por favor ingresa un monto menor, o usa el botón “MAX” para ingresar el valor máximo disponible.
 
-![](<../../.gitbook/assets/image (16).png>)
+![](<../../.gitbook/assets/image (3).png>)
 
 
 
 8 - Clic en el botón “Enable USDC”. Si estás aportando liquidez junto con algún token que no sea ETH, deberás hacer clic en enable (habilitar) dos veces por cada token en tu par. Tu wallet te pedirá que confirmes.
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (5).png>)
 
 
 
 9 - El botón “Add” (agregar) se encenderá. Clic para continuar.
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (4).png>)
 
 
 
 10 - Una nueva ventana emergente aparecerá para que veas tu posición de liquidez. Si todo luce bien, clic "Add" (agregar) otra vez para continuar.
 
-![](<../../.gitbook/assets/image (13).png>)
+![](<../../.gitbook/assets/image (2).png>)
 
 
 
@@ -83,116 +83,79 @@ En este ejemplo, aportaremos liquidez en V3 usando ETH y USDC.
 
 12 - Enseguida, verás tu nueva posición de liquidez en la página “My Liquidity” (mi liquidez). Y podrás acceder a los detalles al hacer clic en la posición.
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-### **Remove liquidity**
+### **Remover liquidez**
 
-To remove liquidity.
+Para remover la liquidez.
 
-1 - Visit the [Liquidity](https://pancakeswap.finance/liquidity) page**.**
+1 - Visita la página [Liquidez](https://pancakeswap.finance/liquidity)**.**
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
-
-
-
-2 - Click on the position you want to remove liquidity from under “Your Liquidity". You may use the filter to quickly check all the V3 liquidity positions.
-
-![](broken-reference)
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 
 
-3 - Click “Remove”. A new window will appear.
+2 - Clic en la posición de la que quieras remover la liquidez, de la lista en “Your Liquidity" (tu liquidez). Puedes usar el filtro para revisar rápidamente todas las posiciones en V3.
 
-![](broken-reference)
+![](<../../.gitbook/assets/image (13).png>)
 
 
 
-4 - Use the buttons or slider to choose how much liquidity you want to remove. Choose “MAX” to remove all of your liquidity from this pair.
+3 - Clic en “Remove”. Aparecerá una nueva ventana.
 
-5 - Click “Remove” to proceed.
+![](<../../.gitbook/assets/image (12).png>)
 
-6 - A window will appear showing how many tokens you will receive. Click “Remove” again. Your wallet will ask you to confirm the action.
 
-7 - After the transaction is confirmed. You will receive two of the tokens from your pair. And if you haven't removed all of your liquidity, your remaining liquidity value will be updated on the liquidity page
+
+4 - Usa los botones o desliza la barra para elegir cuánta liquidez vas a remover. Elige “MAX” para remover la totalida de la liquidez del par en cuestión.
+
+5 - Clic “Remove” para continuar.
+
+6 - Aparecerá una ventana mostrando cuántos tokens recibirás.  Clic “Remove” otra vez. Tu wallet te pedirá que confirmes la acción.
+
+7 - Una vez confirmada la transacción, recibirás los dos tokens de tu par. Y si no retiraste la totalidad de la liquidez, el saldo se actualizará en la página de liquidez.
 
 ### **Exchange V2** <a href="#adding-liquidity" id="adding-liquidity"></a>
 
-**Agregando Liquidez**
+**Agregar Liquidez**
 
-Para proporcionar liquidez, deberá confirmar una cantidad de cualquier par de tokens que desee. Su valor más bajo (en USD) de los dos tokens será el límite a la liquidez que puede proporcionar.
+En este ejemplo, añadiremos liquidez V2 usando BNB y CAKE.
 
-Puede intercambiar fácilmente por cualquier token que necesite. Visite nuestra guía [Cómo operar en PancakeSwap](https://docs.pancakeswap.finance/v/espanol/productos/pancakeswap-exchange/how-to-trade-on-the-pancakeswap-exchange) si lo necesita.
+{% hint style="warning" %}
+Ten en cuenta que el ejemplo es sólo a título ilustrativo, el par CAKE/BNB ha sido migrado a V3. Siempre aporte liquidez en V3, salvo que alguno de los tokens no soporte la V3. O que la mayoría de la liquidez del par no haya sido migrada.
+{% endhint %}
 
-En este ejemplo, agregaremos liquidez usando BNB y CAKE.
+1. Visita la página [Liquidez](https://pancakeswap.finance/liquidity).
+2. Clic en el botón “Add Liquidity” (Agregar liquidez).
+3. Elige los dos tokens del par de trading que quieras aportar liquidez. Aquí, usaremos BNB y CAKE como ejemplo.
+4. La interfaz selecciona agregar liquidez en V3 por defecto, con algunas excepciones:
+   1. Si el par tiene un Farm activo en PancakeSwap V2, seteará por defecto en V2.
+   2. Si el par tiene un pool de liquidez V2 actual, presentará un link para agregar liquidez a V2. Clic en ese link para cambiar a V2.
+5. Confirma que estás aportando en V2, chequeando que se muestre “V2 LP - 0.25 fee tier”.
+6. Ingrese la cantidad de uno de los tokens bajo “Deposit Amount” (Monto de depósito). El otro valor será calculado y completado automáticamente. Si uno de los tokens no tuviera suficiente saldo, verás un error y el botón se grisará. Por favor ingresa un monto menor, o usa el botón “MAX” para ingresar el valor máximo disponible.
+7. Clic en el botón “Enable CAKE”. Si estás aportando liquidez junto con algún token que no sea BNB, deberás hacer clic en enable (habilitar) dos veces por cada token en tu par. Tu wallet te pedirá que confirmes.
+8. El botón “Add” (agregar) se encenderá. Clic para continuar.
+9. Tu wallet te pedirá confirmación. Confirma desde allí tu transacción.
+10. Enseguida, verás tu saldo de tokens LP en la página de liquidez, junto con las demás posiciones de liquidez en V3 o StableSwap.
 
-1\. Ir a la [Página de Liquidez](https://exchange.pancakeswap.finance/#/pool).
 
-<figure><img src="../../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
 
-2\. Clic en **Add Liquidity**.
+### **Remover liquidez**
 
-<figure><img src="../../.gitbook/assets/image (194).png" alt=""><figcaption></figcaption></figure>
+Para remover la liquidez.
 
-3\. Para la entrada superior, seleccione BNB (para nuestro ejemplo).
+1 - Visita la página [Liquidez](https://pancakeswap.finance/liquidity)**.**
 
-<figure><img src="../../.gitbook/assets/image (3) (2) (1).png" alt=""><figcaption></figcaption></figure>
+2 - Clic en la posición de la que quieras remover la liquidez, de la lista en “Your Liquidity" (tu liquidez). Puedes usar el filtro para revisar rápidamente todas las posiciones en V2.
 
-4\. Para la entrada inferior, haga clic en 'Select a currency' y elija CAKE.
+3 - Clic en “Remove”. Aparecerá una nueva ventana.
 
-<figure><img src="../../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
+4 - Usa los botones o desliza la barra para elegir cuánta liquidez vas a remover. Elige “MAX” para remover la totalida de la liquidez del par en cuestión.
 
-5\. Ingrese una cantidad en uno de los tokens en "Input". El otro calculará automáticamente.
+5 - Clic en "Enable" (habilitar). Tu wallet te pedirá que confirmes.
 
-<figure><img src="../../.gitbook/assets/image (178) (1).png" alt=""><figcaption></figcaption></figure>
+6 - El botón “Remove” se encenderá. Clic para continuar.
 
-(Si su saldo es demasiado bajo en un par, ingrese una cantidad menor.)
+7 - Aparecerá una ventana mostrando cuántos tokens recibirás.  Clic “Remove” otra vez. Tu wallet te pedirá que confirmes la acción.
 
-<figure><img src="../../.gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
-
-6\. Clic en botón **Approve CAKE**. Su billetera le pedirá que confirme la acción.
-
-<figure><img src="../../.gitbook/assets/image (191) (1).png" alt=""><figcaption></figcaption></figure>
-
-7\. El botón **Supply** se podrá presionar. Haga clic en él
-
-<figure><img src="../../.gitbook/assets/image (5) (4) (1).png" alt=""><figcaption></figcaption></figure>
-
-8\. Aparecerá una ventana que indica cuánto recibirá. Clic en **Confirm Supply**. Su billetera le pedirá que confirme la acción.
-
-<figure><img src="../../.gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure>
-
-9\. Después de una breve espera, verá su saldo de token LP en la parte inferior de la página.
-
-Puede repetir los pasos anteriores para agregar más liquidez en cualquier momento.
-
-#### **Removiendo Liquidez** <a href="#removing-liquidity" id="removing-liquidity"></a>
-
-Para remover parcial o totalmente su liquidez:
-
-1\. Ir a la parte de [Liquidez](https://exchange.pancakeswap.finance/#/pool)
-
-2\. Haga clic en su par, debajo de “Your Liquidity”.
-
-<figure><img src="../../.gitbook/assets/image (197).png" alt=""><figcaption></figcaption></figure>
-
-3\. Clic en **Remove**. Una nueva ventana aparecerá.
-
-<figure><img src="../../.gitbook/assets/image (198).png" alt=""><figcaption></figcaption></figure>
-
-4\. Utilice los botones o el control deslizante para elegir qué porcentaje quitar. Elija **MAX** para remover todo.
-
-<figure><img src="../../.gitbook/assets/image (4) (5).png" alt=""><figcaption></figcaption></figure>
-
-5\. Clic en **Enable**. Su billetera le pedirá que confirme la acción.
-
-<figure><img src="../../.gitbook/assets/image (180).png" alt=""><figcaption></figcaption></figure>
-
-6\. El botón **Remove** se podrá presionar. Haga clic en él.
-
-<figure><img src="../../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
-
-7\. Aparecerá una ventana que dice lo que recibirá. Haga clic en **Confirm**. Su billetera le pedirá que confirme la acción.
-
-<figure><img src="../../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
-
-8\. Después de una corta espera, verá su nuevo saldo de token LP en la parte inferior de la página.
+8 - Una vez confirmada la transacción, recibirás los dos tokens de tu par. Y si no retiraste la totalidad de la liquidez, el saldo se actualizará en la página de liquidez.

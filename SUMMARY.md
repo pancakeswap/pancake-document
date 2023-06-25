@@ -33,7 +33,7 @@
     * [Cómo hacer un Trade](productos/pancakeswap-exchange/how-to-trade-on-the-pancakeswap-exchange.md)
     * [Fees y Rutas](productos/pancakeswap-exchange/fees-y-rutas.md)
     * [Liquidez](productos/pancakeswap-exchange/pools-de-liquidez.md)
-    * [Añadir/Remover Liquidez\*](productos/pancakeswap-exchange/anadir-remover-liquidez.md)
+    * [Añadir/Remover Liquidez](productos/pancakeswap-exchange/anadir-remover-liquidez.md)
     * [FAQ()](productos/pancakeswap-exchange/faq.md)
     * [Integración del Market Maker](productos/pancakeswap-exchange/integracion-del-market-maker.md)
     * [Smart Router (V2)](productos/pancakeswap-exchange/smart-router-v2/README.md)

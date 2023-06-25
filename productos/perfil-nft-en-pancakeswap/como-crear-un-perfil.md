@@ -64,7 +64,7 @@ Para este ejemplo usaremos Dollop.&#x20;
 
 12\. Después de una breve espera, aparecerá su nuevo perfil. ¡Se ve bien!
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 Usted puede notar que su nombre está oculto. Para ver su nombre, haga clic en el icono de ojo a la derecha de las estrellas.
 

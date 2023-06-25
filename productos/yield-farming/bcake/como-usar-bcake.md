@@ -16,7 +16,7 @@ Para obtener más información sobre cómo depositar en un pool de CAKE a plazo 
 
 **Habilitar boosters (potenciadores) de farms**
 
-![Habilitar](<../../../.gitbook/assets/image (6) (1) (3).png>)
+![Habilitar](<../../../.gitbook/assets/image (6) (1) (3) (1).png>)
 
 Para habilitar Farm Boosters, debe completar un proceso de configuración único. Para continuar, simplemente haga clic en "Enable" (Habilitar) en la farm y confirme la transacción desde su billetera.&#x20;
 
@@ -32,7 +32,7 @@ Si ha estado haciendo staking en la granja y desea activar Farm Booster, tambié
 
 Haga clic en "Migrate" y siga la guía paso a paso para completar las migraciones. Sus recompensas de CAKE se recolectarán automáticamente y se enviarán a su billetera.
 
-![](<../../../.gitbook/assets/image (3) (1) (2).png>)
+![](<../../../.gitbook/assets/image (3) (1) (2) (1).png>)
 
 ## Activar Boosters
 

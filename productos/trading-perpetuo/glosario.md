@@ -10,7 +10,7 @@ Perpetuos, perpetual swaps, o perps son un tipo especial de contratos de futuros
 
 Apalancamiento es un mecanismo del trading. Los traders pueden usarlo para aumentar su exposición al mercado, permitiéndoles pagar menos que el importe total de la inversión. En resumen, pides dinero prestado para apalancar tu inversión.
 
-<figure><img src="../../../.gitbook/assets/image (4) (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Margen
 
@@ -19,7 +19,7 @@ Es la garantía (en valores) que pones para tus posiciones apalancadas. Tiene do
 * Cross Margin (Cruzado): Todas las posiciones utilizando la misma moneda como margen, comparten el mismo balance de margen cruzado. En el caso de una liquidación, la totalidad de su balance de la moneda de margen, incluyendo las demás posiciones abiertas, podría perderse.
 * Isolated Margin (Aislado): Controla el riesgo de sus posiciones individualmente restringiendo la cantidad de margen asignado a cada una. Siel porcentaje de margen de una posición alcanza el 100%, sólo esa posición será liquidada. en esta modalidad, puede agregarse o quitarse margen sin cerrar la posición.
 
-<figure><img src="../../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
 
 **Margin Ratio (% de margen)**: Margin Ratio = Margen de mantenimiento / Balance del margen. Sus posiciones serán liquidadas una vez que se alcance el 100%.
 
@@ -27,7 +27,7 @@ Es la garantía (en valores) que pones para tus posiciones apalancadas. Tiene do
 
 **Margin Balance (Balance)** = Balance en wallet + PNL no realizado. Su posición será liquidada cuando el Balance de margen sea <= que el de mantenimiento.
 
-<figure><img src="../../../.gitbook/assets/image (5) (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (7).png" alt=""><figcaption></figcaption></figure>
 
 ### Activos
 
@@ -46,7 +46,7 @@ Es la garantía (en valores) que pones para tus posiciones apalancadas. Tiene do
 Nota: Si hay posiciones abiertas u órdenes abiertas en Futuros USDⓈ-M, no se puede activar el Modo de Activos Múltiples. El Modo de Activos Múltiples solo se aplica a Futuros USDⓈ-M. Antes de activar el modo de activos múltiples, lea la guía en detalle para administrar mejor el riesgo de la cuenta de futuros USDⓈ-M en consecuencia cuando utilice el modo de activos múltiples.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Órdenes
 
@@ -66,15 +66,15 @@ Nota: Si hay posiciones abiertas u órdenes abiertas en Futuros USDⓈ-M, no se 
 
 **Solo publicación**: el modo de solo publicación significa que los traders solo pueden realizar una orden si ésta iría al libro de órdenes como una orden Maker. Se rechazará una orden que se publicaría como una orden de tomador (Taker). No se pueden colocar Órdenes de Mercado y no se ejecutarán Órdenes. Las órdenes en espera pueden cancelarse en el modo de solo publicación.
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Reduce Only:** Las órdenes de "Sólo reducir" sólo podrán reducir su posición, no incrementarla.
 
-<figure><img src="../../../.gitbook/assets/image (3) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (3).png" alt=""><figcaption></figcaption></figure>
 
 **Instrucciones TIF (Time in Force)** son las que especifican cuánto tiempo estará activa una orden hasta que sea ejecutada o se venza. puede seleccionar una de las siguientes opciones para instrucciones TIF:
 
-<figure><img src="../../../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
 
 * **GTC** (Good Till Cancel): La orden permanecerá activa hasta que se cumpla totalmente o bien sea manualmente cancelada.
 * **IOC** (Immediate Or Cancel): La orden deberá ser ejecutada inmediatamente (total o parcialmente). De no ser así, se cancela. En el caso de que se ejecute parcialmente, el remanente no ejecutado se cancelará.

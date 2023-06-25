@@ -71,7 +71,7 @@ Cuando esté listo, haga clic en el botón **Enable** y confirme su acción en s
 
 5 - Después de una breve espera, la ventana se cerrará, y verá su nuevo saldo de LP tokens depositado en los detalles.
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 {% hint style="info" %}
 Cuando esté farmeando un una red diferente a BNB Chain, deberá esperar unos 30 minutos para que se confirmen las transacciones cross-chain.
@@ -119,7 +119,7 @@ Para recoger sus recompensas, tendrás que visitar tu Farm elegido y recoger los
 
 1. Vuelva a la página de [Farms](https://pancakeswap.finance/farms).
 2. Busca el Farm en la que depositaste tus tokens LP y haz clic en la fila para ver los detalles. Deberías ver una estimación de sus recompensas en "Cake Earned"\
-   ![](<../../.gitbook/assets/image (6) (1).png>)
+   ![](<../../.gitbook/assets/image (6) (1) (3).png>)
 3. Haga clic en el botón **Harvest** y confirme la acción en su billetera. Después de una corta espera, los CAKE serán reclamados a su billetera para que los use como desee.
 
 {% hint style="info" %}
