@@ -18,7 +18,7 @@ En este ejemplo, aportaremos liquidez en V3 usando ETH y USDC.
 
 1 - Visita la página [Liquidez](https://pancakeswap.finance/liquidity).
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 2 - Clic en el botón “Add Liquidity” (Agregar liquidez).
 
@@ -26,7 +26,7 @@ En este ejemplo, aportaremos liquidez en V3 usando ETH y USDC.
 
 3 - Elige los dos tokens del par de trading que quieras aportar liquidez. Aquí, usaremos ETH y USDC como ejemplo.
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (12).png>)
 
 
 
@@ -36,7 +36,7 @@ En este ejemplo, aportaremos liquidez en V3 usando ETH y USDC.
 
 5 - Puedes confirmar la versión así como el tier de fee del pool de liquidez al que estás aportando observando la indicación de “V3 LP - x% fee tier” como se ve en la siguiente imagen.
 
-![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (13).png>)
 
 * Si quieres personalizar el tier del fee, clic en “More” (más), y elije el tier deseado.
 * Ten en cuenta que siempre es aconsejable aportar liquidez con el tier más popular.
@@ -45,7 +45,7 @@ En este ejemplo, aportaremos liquidez en V3 usando ETH y USDC.
 
 6 - Puedes revisar y confirmar el rango de precios en la ventana de a la derecha de la pantalla.
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (2).png>)
 
 * El gráfico muestra los niveles de liquidez a través de todo el rango de precios. Puedes acercar y alejar con el zoom usando los botones correspondientes. Puedes hacer un paneo y navegar por el gráfico, arrastrando horizontalmente los ejes.
 * Si quieres personalizar el rango de precios, simplemente arrastra las barras, clic en los botones + y - en los precios, o ingresa manualmente los dos precios.
@@ -55,25 +55,25 @@ En este ejemplo, aportaremos liquidez en V3 usando ETH y USDC.
 
 7 - Ingrese la cantidad de uno de los tokens bajo “Deposit Amount” (Monto de depósito). El otro valor será calculado y completado automáticamente. Si uno de los tokens no tuviera suficiente saldo, verás un error y el botón se grisará. Por favor ingresa un monto menor, o usa el botón “MAX” para ingresar el valor máximo disponible.
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (4).png>)
 
 
 
 8 - Clic en el botón “Enable USDC”. Si estás aportando liquidez junto con algún token que no sea ETH, deberás hacer clic en enable (habilitar) dos veces por cada token en tu par. Tu wallet te pedirá que confirmes.
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (7).png>)
 
 
 
 9 - El botón “Add” (agregar) se encenderá. Clic para continuar.
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (5).png>)
 
 
 
 10 - Una nueva ventana emergente aparecerá para que veas tu posición de liquidez. Si todo luce bien, clic "Add" (agregar) otra vez para continuar.
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (3).png>)
 
 
 
@@ -83,7 +83,7 @@ En este ejemplo, aportaremos liquidez en V3 usando ETH y USDC.
 
 12 - Enseguida, verás tu nueva posición de liquidez en la página “My Liquidity” (mi liquidez). Y podrás acceder a los detalles al hacer clic en la posición.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 ### **Remover liquidez**
 
@@ -91,19 +91,19 @@ Para remover la liquidez.
 
 1 - Visita la página [Liquidez](https://pancakeswap.finance/liquidity)**.**
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 
 
 2 - Clic en la posición de la que quieras remover la liquidez, de la lista en “Your Liquidity" (tu liquidez). Puedes usar el filtro para revisar rápidamente todas las posiciones en V3.
 
-![](<../../.gitbook/assets/image (13).png>)
+![](<../../.gitbook/assets/image (11).png>)
 
 
 
 3 - Clic en “Remove”. Aparecerá una nueva ventana.
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (10).png>)
 
 
 
