@@ -68,6 +68,7 @@
     * [Como participar de um IFO](produtos/ifo-oferta-inicial-de-farm/como-participar-de-um-ifo.md)
     * [iCAKE](produtos/ifo-oferta-inicial-de-farm/icake.md)
     * [Detalhes do Contrato](produtos/ifo-oferta-inicial-de-farm/detalhes-do-contrato.md)
+  * [🧑⚖ Leilões de Farm](produtos/leiloes-de-farm.md)
   * [🌉 Bridge de CAKE](produtos/bridge-de-cake/README.md)
     * [Entre EVMs](produtos/bridge-de-cake/entre-evms.md)
     * [Entre EVM e Aptos](produtos/bridge-de-cake/entre-evm-e-aptos.md)

@@ -30,23 +30,23 @@ Observe que o sistema de cotação fornecerá total transparência da taxa de c�
 
 1.  Clique no botão "Comprar Cripto" na plataforma PancakeSwap.
 
-    <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 2.  Selecione a moeda fiduciária desejada e o par de tokens no menu do pop-up.\
     &#x20;
 
-    <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 3.  Clique em "Obter Cotação"\
 
 
-    <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 4.  Selecione a cotação recomendada.\
 
 
-    <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 5.  Prossiga para seguir as etapas na tela com o fornecedor on-ramp.\
 
 
-    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 6. Sua criptomoeda deve chegar à sua carteira em minutos.
 
 ## Preciso de prova de identidade?&#x20;
