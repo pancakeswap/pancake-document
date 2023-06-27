@@ -17,7 +17,7 @@ The integration and quote system offers several key benefits for our users:
 On-ramp services will be available on BNB and Ethereum chains. Major cryptocurrencies and stablecoins will be available and outlined in the table below:\
 
 
-<table><thead><tr><th width="137">Provider</th><th width="203">Fees*</th><th>Fiat Currencies Supported</th><th>Tokens Supported**</th></tr></thead><tbody><tr><td>Mercuryo</td><td>3.95% for Debit/Credit 3.95% for Bank Transfers/SEPA (EU)</td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY, KRW, VND</td><td><p>ERC-20: ETH, USDT, DAI</p><p></p><p>BEP-20: BNB, BUSD</p></td></tr><tr><td>MoonPay</td><td><p>3.25% for Debit/Credit</p><p>1.25% for SEPA (EU) , FPS (UK)</p><p>2.95% for PIX (Brazil) 1.50% for Yellowcard (Nigeria)</p></td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY, KRW, VND</td><td><p>ERC-20: ETH, USDC, DAI </p><p></p><p>BEP-20: BNB, BUSD</p></td></tr></tbody></table>
+<table><thead><tr><th width="137">Provider</th><th width="203">Fees*</th><th>Fiat Currencies Supported</th><th>Tokens Supported**</th></tr></thead><tbody><tr><td>Mercuryo</td><td>3.95% for Debit/Credit 3.95% for Bank Transfers/SEPA (EU)</td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY, KRW, VND</td><td><p>ERC-20: ETH, USDT, USDC, DAI</p><p></p><p>BEP-20: BNB, BUSD</p></td></tr><tr><td>MoonPay</td><td><p>3.25% for Debit/Credit</p><p>1.25% for SEPA (EU) , FPS (UK)</p><p>2.95% for PIX (Brazil) 1.50% for Yellowcard (Nigeria)</p></td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY, KRW, VND</td><td><p>ERC-20: ETH, USDT, USDC,  DAI </p><p></p><p>BEP-20: BNB, BUSD</p></td></tr></tbody></table>
 
 \*Fees are subject to minimum spend and maximum- most likely above 30 USD and below 10,000 USD, depending on the token.
 
@@ -78,7 +78,7 @@ Buy crypto is available for select regions based on provider availability. Pleas
 You can visit our partner documentation here:
 
 * [Mercuryo](https://help.mercuryo.io/en/articles/6122838-on-and-off-ramps)
-* [Moonpay](https://support.moonpay.com/hc/en-gb/sections/360003486437-Buying-Cryptocurrency-)
+* [MoonPay](https://support.moonpay.com/hc/en-gb/sections/360003486437-Buying-Cryptocurrency-)
 
 ### **What's next?**
 
