@@ -17,7 +17,7 @@ The integration and quote system offers several key benefits for our users:
 On-ramp services will be available on BNB and Ethereum chains. Major cryptocurrencies and stablecoins will be available and outlined in the table below:\
 
 
-<table><thead><tr><th width="137">Provider</th><th width="203">Fees*</th><th>Fiat Currencies Supported</th><th>Tokens Supported**</th></tr></thead><tbody><tr><td>Mercuryo</td><td>3.95% for Debit/Credit 3.95% for Bank Transfers/SEPA (EU)</td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY, KRW, VND</td><td><p>ERC-20: ETH, USDT, DAI</p><p></p><p>BEP-20: BNB, BUSD</p></td></tr></tbody></table>
+<table><thead><tr><th width="137">Provider</th><th width="203">Fees*</th><th>Fiat Currencies Supported</th><th>Tokens Supported**</th></tr></thead><tbody><tr><td>Mercuryo</td><td>3.95% for Debit/Credit 3.95% for Bank Transfers/SEPA (EU)</td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY, KRW, VND</td><td><p>ERC-20: ETH, USDT, DAI</p><p></p><p>BEP-20: BNB, BUSD</p></td></tr><tr><td>MoonPay</td><td><p>3.25% for Debit/Credit</p><p>1.25% for SEPA (EU) , FPS (UK)</p><p>2.95% for PIX (Brazil) 1.50% for Yellowcard (Nigeria)</p></td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY, KRW, VND</td><td><p>ERC-20: ETH, USDC, DAI </p><p></p><p>BEP-20: BNB, BUSD</p></td></tr></tbody></table>
 
 \*Fees are subject to minimum spend and maximum- most likely above 30 USD and below 10,000 USD, depending on the token.
 
@@ -33,19 +33,35 @@ Please note that the quote system will provide full transparency of the exchange
 
 2. Select your desired fiat currency and token pair from the pop-up menu.
 
-<figure><img src="../.gitbook/assets/Onramp2.png" alt="" width="319"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Onramp 2M.png" alt="" width="285"><figcaption></figcaption></figure>
 
 3. Click on "Get Quote"
 
-<figure><img src="../.gitbook/assets/Onramp3.png" alt="" width="289"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Onramp 3M.png" alt="" width="294"><figcaption></figcaption></figure>
 
 4. Select recommended quote.&#x20;
 
-<figure><img src="../.gitbook/assets/Onramp4.png" alt="" width="291"><figcaption></figcaption></figure>
+<div>
+
+<figure><img src="../.gitbook/assets/Mercuryo Onramp 4.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Moonpay Onramp 4.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 5. Proceed to follow the on-screen steps with the on-ramp provider.
 
-<figure><img src="../.gitbook/assets/Onramp5.png" alt="" width="305"><figcaption></figcaption></figure>
+<div>
+
+<figure><img src="../.gitbook/assets/Onramp5m.png" alt="" width="303"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Moonpay Onramp 5.png" alt="" width="306"><figcaption></figcaption></figure>
+
+</div>
 
 6. Your cryptocurrency should arrive in your wallet within minutes.
 
@@ -62,6 +78,7 @@ Buy crypto is available for select regions based on provider availability. Pleas
 You can visit our partner documentation here:
 
 * [Mercuryo](https://help.mercuryo.io/en/articles/6122838-on-and-off-ramps)
+* [Moonpay](https://support.moonpay.com/hc/en-gb/sections/360003486437-Buying-Cryptocurrency-)
 
 ### **What's next?**
 
