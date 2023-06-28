@@ -6,7 +6,7 @@ To make liquidity provisioning smoother and less challenging, the new automatic 
 
 ## Automatic APR calculation and displays <a href="#12d7c8c1-d0d7-4d5e-99ea-5f5b7f5378e5" id="12d7c8c1-d0d7-4d5e-99ea-5f5b7f5378e5"></a>
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 When you are providing liquidity, the automatic APR display reacts to your configuration changes and calculates the APR based on your settings.
 
@@ -31,7 +31,7 @@ You may find this APR display under:
 * Detail page of each of the existing liquidity position - showing LP fee APR\
   ![](<../../.gitbook/assets/image (13).png>)
 * Farm page, within the position under each farm - showing combined APR with LP fee and CAKE rewards\
-  ![](<../../.gitbook/assets/image (8).png>)\
+  ![](<../../.gitbook/assets/image (8) (1).png>)\
 
 
 ## Improved ROI calculator <a href="#6f06dc46-ff61-4022-a29d-3ebe67a50607" id="6f06dc46-ff61-4022-a29d-3ebe67a50607"></a>

@@ -35,7 +35,7 @@ It may sound intimidating, but it's not too complicated. Let's go through it ste
 
 ### **Locate your Farm**
 
-![](<../../.gitbook/assets/image (14).png>)
+![](<../../.gitbook/assets/image (14) (2).png>)
 
 Before you proceed, you'll want to choose a Farm that's right for you. [Visit the Farms page](https://pancakeswap.finance/farms) to see a list of available Farms.
 
@@ -67,7 +67,7 @@ After finishing adding liquidity. You should see your position listed under the 
 
 If you have multiple positions, you may click “View All” to view them in a new pop-up window.
 
-![](<../../.gitbook/assets/image (15).png>)![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (15).png>)![](<../../.gitbook/assets/image (12) (1).png>)
 
 Click “Stake” on the position listed, and your wallet will ask for confirmation.
 
