@@ -84,7 +84,7 @@
       * [Perpetuals V2 Glossary](products/perpetual-trading/perpetual-trading-v2/perpetuals-glossary.md)
       * [Forex](products/perpetual-trading/perpetual-trading-v2/forex.md)
       * [V2 Perpetual Trading FAQ](products/perpetual-trading/perpetual-trading-v2/v2-perpetual-trading-faq.md)
-      * [V2 Launch Campaign](products/perpetual-trading/perpetual-trading-v2/v2-launch-campaign.md)
+      * [V2 Trading Rewards Program](products/perpetual-trading/perpetual-trading-v2/v2-trading-rewards-program.md)
     * [Perpetual Trading V1](products/perpetual-trading/perpetual-trading-v1/README.md)
       * [Perpetuals V1 Glossary](products/perpetual-trading/perpetual-trading-v1/perpetuals-glossary.md)
       * [How can I use it?](products/perpetual-trading/perpetual-trading-v1/how-can-i-use-it.md)
