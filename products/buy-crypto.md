@@ -1,10 +1,10 @@
 # 💳 Buy Crypto
 
-documentationPancakeSwap introduces the ability to purchase your favourite tokens using a credit card, debit card or bank transfer. Integrating on-ramp services into our platform aims to provide users with a seamless and convenient way to purchase cryptocurrencies using fiat currencies. Using our on-ramp quote interface, users can choose between different providers and get the best rates in Web3.
+PancakeSwap introduces the ability to purchase your favourite tokens using a credit card, debit card or bank transfer. Integrating on-ramp services into our platform aims to provide users with a seamless and convenient way to purchase cryptocurrencies using fiat currencies. Using our on-ramp quote interface, users can choose between different providers and get the best rates in Web3.
 
 ### Benefits for Users
 
-The integration and quote system offers several key benefits for our users:
+The on-ramp integration and quote system offers several key benefits for our users:
 
 1. Easy Purchase of Cryptocurrencies: Users can now conveniently purchase cryptocurrencies directly from our platform using their preferred fiat currency, eliminating the need for multiple transactions across different platforms.
 2. Wide Range of Supported Currencies and Regions: Our esteemed partners, including Mercuryo, support various fiat currencies, ensuring users from various regions can actively participate in the ever-expanding crypto market.
@@ -67,7 +67,7 @@ Please note that the quote system will provide full transparency of the exchange
 
 ### Do I need proof of identity?
 
-To purchase crypto through our providers, different levels of evidence are required to prove identity to our on-ramp partners. These levels will depend on the payment mode and payment amount required. Users will have to comply with provider requirements to use the buy crypto product. To learn more about this, please visit our partner documentation here. **PancakeSwap does not collect and store any financial or personal data.**
+To purchase crypto through our providers, different levels of evidence are required to prove identity to our on-ramp partners. These levels will depend on the payment mode and payment amount required. Users will have to comply with provider requirements to use the buy crypto product. To learn more about this, please visit our partner documentation. **PancakeSwap does not collect and store any financial or personal data.**
 
 ### Is buy crypto available where I'm located?
 

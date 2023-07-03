@@ -13,11 +13,11 @@ To check if there is an ongoing campaign. You can:
 * Check on the [Trading Reward page](https://pancakeswap.finance/trading-reward/top-traders) directly
 *   Check the [PancakeSwap homepage](https://pancakeswap.finance/) banner
 
-    <figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 *   Look for the 💝 icon from the “Hot Token” list on the [Swap page](https://pancakeswap.finance/swap). Or use the filter to check pairs with trading rewards.\
 
 
-    <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Start trading <a href="#5be1710d-25f3-485d-8184-91015c4dceca" id="5be1710d-25f3-485d-8184-91015c4dceca"></a>
 
@@ -32,15 +32,15 @@ Each campaign may have different eligible pairs. To check which pairs are eligib
 
 You may check the number of rewards you have accumulated on the [Trading Reward page](https://pancakeswap.finance/trading-reward/top-traders).
 
-![](<../../../.gitbook/assets/image (6).png>)
+![](<../../../.gitbook/assets/image (2).png>)
 
 Additionally, you may check the “Rewards Breakdown” section for a detailed view of each pair you traded.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 For the campaign details, such as rebate percentages, end time or # of ranks to win, check the “Current Reward Pool” section.
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ## Check your rank <a href="#d7d60391-c3fc-4acb-9dfb-5c95a09403d5" id="d7d60391-c3fc-4acb-9dfb-5c95a09403d5"></a>
 
@@ -48,7 +48,7 @@ To win a campaign and be able to claim all your accumulated rewards, you need to
 
 To check your rank and see if you are currently qualified, go to the [Trading Reward page](https://pancakeswap.finance/trading-reward/top-traders).
 
-![](<../../../.gitbook/assets/image (4).png>)
+![](<../../../.gitbook/assets/image (3).png>)
 
 If you are not ranked high enough, a popup will inform you of the minimum rank to win this campaign and the end time for the current campaign.
 
@@ -56,7 +56,7 @@ Keep trading to rank higher. And don’t forget to check back often to maintain 
 
 ## Claim your rewards <a href="#5a0d1633-dba9-46c0-919c-77fee912f986" id="5a0d1633-dba9-46c0-919c-77fee912f986"></a>
 
-![](<../../../.gitbook/assets/image (3).png>)
+![](<../../../.gitbook/assets/image (5).png>)
 
 When a campaign is finished, you may need to wait up to 72 hours while data is being tallied and rewards are being injected.
 
