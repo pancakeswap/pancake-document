@@ -70,7 +70,7 @@ These pools work similarly to the farms, where the Chefs can adjust the percenta
 {% hint style="warning" %}
 Due to MasterChef v2 occasionally harvesting the full 40 CAKE per block. The supply shown on the homepage (or some 3rd party trackers) might suddenly jump by several million CAKE.
 
-Don't worry - **EMISSION IS NOW CONTROLLED CAREFULLY BY MASTERCHEF V2. CAKE TO BURN WILL NEVER ACTUALLY ENTERS CIRCULATION!**
+Don't worry - **emission is now controlled carefully by MasterChef V2. CAKE to burn will NEVER actually enters circulation!**
 {% endhint %}
 
 ## How to Confirm CAKE Supply for yourself
