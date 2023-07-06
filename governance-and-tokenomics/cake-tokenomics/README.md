@@ -1,6 +1,6 @@
 # CAKE Tokenomics
 
-<figure><img src="../../.gitbook/assets/230608-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/230705-en (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Emission rate** <a href="#emission-rate" id="emission-rate"></a>
 
@@ -9,8 +9,8 @@
 | **Metric**             | **Emission/block (CAKE)** | **Emission/day (CAKE)** |
 | ---------------------- | ------------------------: | ----------------------: |
 | Emission               |                        40 |               1,152,000 |
-| Burned Weekly          |                 \~35.4348 |             \~1,020,520 |
-| **Effective Emission** |            **\~4.5651\*** |         **\~131,470\*** |
+| Burned Weekly          |                 \~35.4852 |             \~1,021,975 |
+| **Effective Emission** |            **\~4.5147\*** |         **\~130,024\*** |
 
 {% hint style="info" %}
 On August 11, 2022, Chefs implemented some configuration upgrades to take full advantage of MasterChef v2. It eliminates the 45,000 CAKE daily burn for the legacy lottery injections. Those burns will now be handled by MasterChef v2 directly along with the usual weekly CAKE burn. Therefore, the effective emissions are now even lower.
@@ -26,7 +26,7 @@ As such, we haven't included it in the above emission rate.
 
 ## Distribution <a href="#distribution" id="distribution"></a>
 
-<table data-header-hidden><thead><tr><th>Distributed to</th><th width="154" align="right">Reward/block (% of emission)</th><th width="158" align="right">Reward/block (total CAKE)</th><th align="right">Reward/day</th></tr></thead><tbody><tr><td>Distributed to</td><td align="right"><p>Reward/block</p><p>(% of emission)</p></td><td align="right"><p>Reward/block</p><p>(total CAKE)</p></td><td align="right">Reward/day</td></tr><tr><td>Trading</td><td align="right">~4.82%</td><td align="right">~1.9262</td><td align="right">55,470 (approx)</td></tr><tr><td>Staking</td><td align="right">~6.25%</td><td align="right">~2.5000</td><td align="right">72,000 (approx)</td></tr><tr><td>Other</td><td align="right">~0.35%</td><td align="right">~0.1389</td><td align="right">4,000 (approx)</td></tr><tr><td><strong>Total Daily CAKE Emission</strong></td><td align="right"></td><td align="right"></td><td align="right"><strong>~131,470 (approx)</strong></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th>Distributed to</th><th width="154" align="right">Reward/block (% of emission)</th><th width="158" align="right">Reward/block (total CAKE)</th><th align="right">Reward/day</th></tr></thead><tbody><tr><td>Distributed to</td><td align="right"><p>Reward/block</p><p>(% of emission)</p></td><td align="right"><p>Reward/block</p><p>(total CAKE)</p></td><td align="right">Reward/day</td></tr><tr><td>Trading</td><td align="right">~4.69%</td><td align="right">~1.8758</td><td align="right">54,024 (approx)</td></tr><tr><td>Staking</td><td align="right">~6.25%</td><td align="right">~2.5000</td><td align="right">72,000 (approx)</td></tr><tr><td>Other</td><td align="right">~0.35%</td><td align="right">~0.1389</td><td align="right">4,000 (approx)</td></tr><tr><td><strong>Total Daily CAKE Emission</strong></td><td align="right"></td><td align="right"></td><td align="right"><strong>~130,024 (approx)</strong></td></tr></tbody></table>
 
 ## **Other Deflationary Mechanics** <a href="#other-deflationary-mechanics" id="other-deflationary-mechanics"></a>
 
