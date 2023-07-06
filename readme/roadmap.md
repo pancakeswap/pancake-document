@@ -6,7 +6,7 @@ description: '"Don''t call it a roadmap"'
 
 ![](../.gitbook/assets/roadmap-header.png)
 
-_Updated on April 5, 2023_
+_Updated on July 6, 2023_
 
 ### Finally, it's a roadmap not a to-do list.
 
@@ -16,7 +16,7 @@ Pivoting is a way of life.
 
 That means that we don’t publicly commit to specific timelines, so we can organize our development priorities based on market changes and developer resources.
 
-<figure><img src="../.gitbook/assets/2023 Q2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/png-28.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Due to considerations of security and confidentiality, some items are not included in the ‘Cooking In’ section.
@@ -24,9 +24,11 @@ Due to considerations of security and confidentiality, some items are not includ
 
 ### Ongoing/Recurring
 
-* Regular IFOs and cIFOs
-* Regular new Farms and Syrup Pools&#x20;
-* UI/UX, Bug Fixes, Product Upgrades
+* Trading Reward Program
+* Regular IFOs & cIFOs
+* Regular New Farms and Syrup pools
+* UI/UX, Bug fixes, Product Upgrade&#x20;
+* Research into AMM improvements
 
 
 
@@ -39,19 +41,16 @@ Due to considerations of security and confidentiality, some items are not includ
 * Fiat integrations
 * More Defi products to come!
 
-### Cooking in Q2
+### Cooking in Q3
 
 * v3 Position Manager
-* Ethereum Syrup Pools
-* Ethereum IFO
+* Revenue Sharing Pool
+* Dynamic fee
+* vCAKE Update - Gauge Design
 * Simple Staking Integration
-* Liquid Staking Integration
-* Expansion to another chain
-* vCAKE product utilities
-* Mobox Gaming NFT Integration
-* Merchandise Store&#x20;
+* Universal Router
+* Expansion to more chains
 * Website Revamp
-* Affiliate Program
 
 ### Backlogs
 
@@ -78,8 +77,7 @@ Due to considerations of security and confidentiality, some items are not includ
 * Aptos PancakeSwap Bridge
 * v3- Swap & Liquidity Upgrade on BNB chain and Ethereum
 * Market Maker Integration on Ethereum and BNB Chain
-
-
+* Expansion to Polygon zkEVM - Swap and Liquidity
 
 
 
@@ -104,6 +102,9 @@ Due to considerations of security and confidentiality, some items are not includ
 * Harvest all function
 * Farming on Aptos
 * Syrup Pools on Aptos
+* Syrup Pools on Ethereum
+* Farm Auction
+* Liquid Staking Integration
 
 #### Win
 
@@ -122,6 +123,7 @@ Due to considerations of security and confidentiality, some items are not includ
 * Customizable User Profile
 * NFT drops
 * Pancake Squad generative NFT collection
+* Mobox Gaming NFT Integration
 
 #### Site Upgrades / CAKE / Other Products
 
@@ -137,6 +139,9 @@ Due to considerations of security and confidentiality, some items are not includ
 * The first Aptos IFO
 * Ambassador Program
 * PancakeSwap Blog
+* vCAKE Product utilities
+* Fiat on Ramp Integration with MoonPay and Mercuryo
+* Affiliate Program
 
 
 

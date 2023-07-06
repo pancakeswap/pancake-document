@@ -40,7 +40,7 @@ It's simpler than farming with PancakeSwap's Yield Farms because unlike the Farm
 
 Other Syrup Pools let you stake your CAKE to earn dozens of other cool tokens. Make sure you check them out.
 
-***
+
 
 5\. Once you choose a pool, click the **Enable** button. Your wallet will ask you to confirm the action.
 

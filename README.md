@@ -84,4 +84,3 @@ Check out these PancakeSwap security audits [here](readme/audits.md).
 **Sounds like fun?**\
 **Then get flipping!** 🐰 🥞
 
-***
