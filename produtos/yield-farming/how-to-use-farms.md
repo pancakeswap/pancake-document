@@ -216,7 +216,7 @@ Para coletar suas recompensas, você precisará visitar o Farm escolhido e colet
 
 2 - Encontre o Farm no qual você fez stake de seus Tokens LP e clique na linha para ver os detalhes. Você deve ver uma estimativa de suas recompensas em "CAKE ganho".
 
-![](<../../.gitbook/assets/image (2) (3).png>)
+![](<../../.gitbook/assets/image (2) (3) (2).png>)
 
 3 - Clique no botão **Coletar (Harvest)** e confirme a ação em sua carteira. Após uma breve espera, o CAKE será sacado para sua carteira para você usar como quiser.
 

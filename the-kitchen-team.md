@@ -6,19 +6,21 @@ Você pode pular para os artigos de entrevistas com os chefes clicando no nome d
 
 ### Os Chefs
 
-🐰 Chef Mochi  -  Chefe Princial
+🐰 Chef Mochi  -  Chefe Princial ([Twitter](https://twitter.com/chef\_mochi/))
 
 🐰 Chef Bun - Gerente de Produto, 不是饺子 ([Twitter](http://twitter.com/chef\_bun\_pcs))
 
-🐰 Chef Gyoza - Gerente de Produto
+🐰 Chef Gyoza - Gerente de Produto ([Twitter](https://twitter.com/ChefGyoza))
 
 🐰 Chef Bamboo - Gerente de Produto
 
-🐰 Chef Pepper - Dev de Negócios
+🐰 Chef Momo - Gerente de Produto
 
-🐰 Chef Icy - Dev de Negócios, 80% Coelho 20% Robô
+🐰 Chef Pepper - Dev de Negócios ([Twitter](https://twitter.com/RealChefPepper))
 
-🐰 Chef Lime - Dev de análise de Data/Ops&#x20;
+🐰 Chef Icy - Dev de Negócios, 80% Coelho 20% Robô ([Twitter](https://twitter.com/PancakeIcy))
+
+🐰 Chef Maroon - Dev de Negócios
 
 🐰 Chef Mustard - Ops
 
@@ -56,18 +58,20 @@ Você pode pular para os artigos de entrevistas com os chefes clicando no nome d
 
 🐰 [Chef Cecy](https://medium.com/pancakeswap/kitchen-interviews-chef-cecy-the-magical-3d-artist-making-fluffy-bunnies-e1eda53742f3) - Artista 3D ([Twitter](https://twitter.com/Cecymeade))
 
-🐰 Chef Yuna - Designer de UI/UX ([Twitter](https://twitter.com/chefyuna))
-
 🐰 Chef Salade - Designer de UI/UX
 
-🐰 Chef Cola - HR
+🐰 Chef Leon - Designer Gráfico de Movimento
 
-🐰 Chef Melody - HR
+🐰 Chef Cola - RH
 
-🐰 Chef Brownie - Marketing
+🐰 Chef Melody - RH
+
+🐰 Chef Brownie - Marketing ([Twitter](https://twitter.com/Chef\_Browniee))
 
 🐰 Chef Cocoa - Marketing
 
+🐰 Chef Brie - Marketing ([Twitter](https://twitter.com/chef\_brie))
+
 🐰 [Chef Fran](https://medium.com/pancakeswap/kitchen-interview-chef-fran-spanish-community-manager-and-a-lovely-mate-368c72102093) - Gerente da Comunidade ([Twitter](https://twitter.com/ChefFranPS))
 
-🐰 Chef Oreo - Gerente de Comunidade
+🐰 Chef Oreo - Gerente de Comunidade ([Twitter](https://twitter.com/Chef\_Oreoo))

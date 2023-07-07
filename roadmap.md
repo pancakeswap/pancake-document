@@ -6,7 +6,7 @@ description: '"Don''t call it a roadmap"'
 
 ![](.gitbook/assets/roadmap-header.png)
 
-_Atualizado em 5 de Abril de 2023_
+_Atualizado em 6 de Julhol de 2023_
 
 ### Finalmente, isso é um roadmap e não uma lista de tarefas.
 
@@ -16,7 +16,7 @@ Pivotar é um modo de vida.&#x20;
 
 Isso significa que não nos comprometemos publicamente com cronogramas específicos, para que possamos organizar nossas prioridades de desenvolvimento com base nas mudanças do mercado e nos recursos do desenvolvedor.
 
-<figure><img src=".gitbook/assets/photo_2023-04-05_12-21-14.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Devido a considerações de segurança e confidencialidade, alguns itens não estão incluídos na seção "Cozinhando no".
@@ -24,9 +24,11 @@ Devido a considerações de segurança e confidencialidade, alguns itens não es
 
 ### Em andamento/Recorrente
 
+* Programa de Recompensa de Trade
 * IFOs e cIFOs Regularmente
 * Novos Farms e Pools de Syrup Regularmente&#x20;
 * UI/UX, Correções de Bugs, Upgrades de Produtos&#x20;
+* Pesquisa das melhorias do AMM
 
 ### Planos de 2023&#x20;
 
@@ -37,19 +39,16 @@ Devido a considerações de segurança e confidencialidade, alguns itens não es
 * Integrações de Fiat
 * Mais produtos de Defi por vir!
 
-### Cozinhando no Q2
+### Cozinhando no Q3
 
 * Gerenciador de Posição v3
-* Pools de Syrup na Ethereum
-* IFO na Ethereum
+* Pool de Compartilhamento de Receita (Revenue Share)
+* Taxa Dinâmica
+* Atualização do vCAKE - Gauge Design&#x20;
 * Integração de Stake Simples
-* Integração de Stake Líquido
-* Expansão para outr chain
-* Utilidades do produto vCAKE
-* Integração NFT Mobox Gaming&#x20;
-* Loja de Merchandise
+* Router Universal
+* Expansão para mais chains
 * Renovação do Site
-* Programa de Afiliados
 
 ### Backlogs
 
@@ -65,7 +64,7 @@ Devido a considerações de segurança e confidencialidade, alguns itens não es
 
 * Stablecoin Swap - mais pares adicionados
 * Zap - Fornecer liquidez em um clique
-* Perpetual Trading
+* Trade de Perpétuos
 * Ordens Limite
 * Gráficos & outros recurso de trade no site
 * Migração para a Exchange V2 (exchange, liquidez, farms)
@@ -74,8 +73,9 @@ Devido a considerações de segurança e confidencialidade, alguns itens não es
 * Multichain Swap e Liquidez
 * Implantação na Aptos Chain
 * Bridge da PancakeSwap na Aptos
-* v3 - Swap e Upgrade de Liquidez
-* Integração de Market Maker&#x20;
+* v3 - Swap e Upgrade de Liquidez na BNB Chain e Ethereum
+* Integração de Market Maker na BNB CHain e Ethereum
+* Expansão para Polygon zkEVM - Swap e Liquidez
 
 #### Ganhe
 
@@ -94,8 +94,11 @@ Devido a considerações de segurança e confidencialidade, alguns itens não es
 * Pool de Syrup com reinvestimento automático CAKE-CAKE&#x20;
 * Calculadora de APR/APY v3
 * Função Coletar tudo
-* Farma na Aptos
+* Farm na Aptos
 * Pools de Syrup na Aptos
+* Pools de Syrup na Ethereum
+* Leilões de Farm
+* Integração de Liquid Staking
 
 #### Vença
 
@@ -114,6 +117,7 @@ Devido a considerações de segurança e confidencialidade, alguns itens não es
 * Perfil de usuário customizável
 * Distribuição de NFTs
 * Coleção de NFT generativas Pancake Squad
+* Integração de NFT da mObox Gaming
 
 #### Upgrades do Site / CAKE / Other Products
 
@@ -129,3 +133,6 @@ Devido a considerações de segurança e confidencialidade, alguns itens não es
 * Primeiro IFO na Aptos
 * Programa de Embaixador
 * Blog da PancakeSwap
+* Utilidade de produtos do vCAKE&#x20;
+* Fiat on Ramp Integração com MoonPay e Mercuryo
+* Programa de Afiliados

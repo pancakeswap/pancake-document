@@ -12,7 +12,7 @@ Ter seu perfil criado permitirá que você compartilhe sua foto de perfil NFT e 
 
 1\. Visite **Seu Perfil**  em **Teams & Profile** [aqui](https://pancakeswap.finance/profile).
 
-***
+
 
 ![](<../../.gitbook/assets/image (159).png>)
 
@@ -22,7 +22,7 @@ Ter seu perfil criado permitirá que você compartilhe sua foto de perfil NFT e 
 
 Para este exemplo, usaremos Dollop.
 
-***
+
 
 ![](<../../.gitbook/assets/image (163).png>)
 
@@ -30,7 +30,7 @@ Para este exemplo, usaremos Dollop.
 
 ![](<../../.gitbook/assets/image (165).png>)
 
-***
+
 
 ![](<../../.gitbook/assets/image (166) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
@@ -42,7 +42,7 @@ Se você enfrentar Ops! erro, verifique a solução de problemas [soluçãro de 
 
 5\. Clique em **Ativar** e confirme a ação em sua carteira. Depois de aprovado, clique em **Próximo passo**.
 
-***
+
 
 ![](<../../.gitbook/assets/image (170).png>)
 
@@ -52,7 +52,7 @@ Se você enfrentar Ops! erro, verifique a solução de problemas [soluçãro de 
 
 7\. Clique no botão de **Próximo Passo.**
 
-***
+
 
 ![](<../../.gitbook/assets/image (173) (1).png>)
 
@@ -78,7 +78,7 @@ Se você enfrentar o problema "nome de usuário continua girando", verifique a [
 
 12\. Após uma breve espera, seu novo perfil aparecerá. Parece bom!
 
-***
+
 
 ![](<../../.gitbook/assets/image (180).png>)
 
