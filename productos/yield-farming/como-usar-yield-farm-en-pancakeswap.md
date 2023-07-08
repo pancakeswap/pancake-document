@@ -1,4 +1,4 @@
-# Cómo usar Farms
+# Cómo usar Farms (t)
 
 ![](../../.gitbook/assets/como-yield-farms.png)
 
@@ -6,9 +6,120 @@ Hacer Yield Farming en Farms es una excelente manera de ganar recompensas en Cak
 
 A diferencia de los Syrup Pools, el Farming requiere que deposites **dos tokens** para conseguir LP Tokens, que luego colocarás en el Farm para ganar recompensas. ¡Esto te permite ganar CAKE mientras mantienes posición en tus otros tokens!
 
+{% hint style="warning" %}
 El Yield farming puede dar mejores recompensas que los Syrup Pools, pero viene con un riesgo de **Impermanent Loss**. No es tan aterrador como parece, pero vale la pena aprender sobre el concepto antes de comenzar.
 
 Echa un vistazo a este gran [artículo sobre Impermanent Loss de Binance Academy](https://academy.binance.com/es/articles/impermanent-loss-explained) para obtener más información.
+{% endhint %}
+
+## Farm V3
+
+### **Get prepared**
+
+![](broken-reference)
+
+You’re going to need a liquidity position to enter into a Farm with. Farms can only accept liquidity positions from their own exact trading pair with the exact fee tier of choice; for example, the CAKE-BNB 0.25% Farm will only accept CAKE-BNB liquidity positions with the 0.25% fee tier selected. It will not accept:
+
+* Other pairs, like CAKE-BUSD
+* Same pair but with other fee tiers: like CAKE-BNB with a 0.05% fee rate
+
+To create the exact LP position, you'll need to provide liquidity for that trading pair with the correct fee rate selected. So to get CAKE-BNB 0.25% LP positions, you'll first have to provide liquidity for the CAKE-BNB pair with the 0.25% fee tier selected.
+
+It may sound intimidating, but it's not too complicated. Let's go through it step by step.
+
+
+
+### **Locate your Farm**
+
+![](broken-reference)
+
+Before you proceed, you'll want to choose a Farm that's right for you. [Visit the Farms page](https://pancakeswap.finance/farms) to see a list of available Farms.
+
+You can choose another sorting option, such as by APR, for the Farms with the highest reward rate currently. Please note that the APRs are calculated globally for individual positions; it may vary depending on their price range settings.
+
+When you find a Farm you'd like to use, note down the trading pair and its fee rate, e.g. BNB-CAKE and 0.25%, in case you need them later.
+
+
+
+### **Provide liquidity to create a position**
+
+Now that you've found a Farm to stake in, you will need to provide liquidity:
+
+1 - If you don’t have any position available, you will see a “Add Liquidity” button, simply click it to open up the “Add Liquidity” window without leaving the Farm page.
+
+![](broken-reference)
+
+2 - Alternatively, you can click on the row of the Farm you've chosen from the list. It will open to show more details. Or with card view, click “Details” to expand for more details. Click the “Add XXX-YYY LP” link within the detail section to add liquidity.
+
+![](broken-reference)
+
+
+
+### **Stake your positions into a farm**
+
+![](broken-reference)
+
+After finishing adding liquidity. You should see your position listed under the farm you want to use.
+
+If you have multiple positions, you may click “View All” to view them in a new pop-up window.
+
+![](broken-reference)![](broken-reference)
+
+Click “Stake” on the position listed, and your wallet will ask for confirmation.
+
+![](broken-reference)
+
+After a short wait, the window will close, and you will see your staked position in the details.
+
+You can repeat the above steps to quickly stake multiple positions with different price range configurations. Each position will earn CAKE and need to be harvested separately.
+
+
+
+### **Harvest farming rewards**
+
+In Farm V3, you can stake multiple positions on the same farm. Each staked position will earn CAKE and need to be harvested separately.
+
+![](broken-reference)
+
+To harvest CAKE rewards from a staked position, simply return to the Farm page, and locate the farm and position you want to harvest. You can use the “Staked Only” toggle to quickly filter the farms you are currently staking.
+
+If you have multiple staked positions, you may click “View All” to view them in a new pop-up window.
+
+![](broken-reference)
+
+Click “Harvest” on the position, and your wallet will ask for confirmation. After a short wait, the CAKE rewards will be sent to your wallet.
+
+
+
+### **Add or remove liquidity while staking in a farm**
+
+When staking in a farm, you can still add or remove liquidity without unstaking from the farm.
+
+![](broken-reference)
+
+To do so, simply return to the Farm page, and locate the farm and position you want to adjust. You can use the “Staked Only” toggle to quickly filter the farms you are currently staking.
+
+![](broken-reference)
+
+Click on the position title with the token pair, fee rate, position ID and the “>” arrow. You will be taken to the position detail page.
+
+Simply use the “Add” or “Remove” button to adjust the liquidity in the staked position.
+
+Please note that all the unclaimed CAKE rewards will be harvested and sent to your wallet while adjusting your position.
+
+
+
+### **Unstake your positions from a farm**
+
+You can unstake a position at any time.
+
+To unstake, simply return to the Farm page, and locate the farm and position you want to unstake. You can use the “Staked Only” toggle to quickly filter the farms you are currently staking.
+
+If you have multiple staked positions, you may click “View All” to view them in a new pop-up window.
+
+Click “Unstake” on the position, and your wallet will ask for confirmation. After a short wait, your position NFT will be returned to your wallet, along with all the pending CAKE rewards.
+
+## Farm V2
 
 ## Preparación <a href="#getting-prepared" id="getting-prepared"></a>
 
@@ -26,7 +137,7 @@ Antes de continuar, querrá elegir un Farm adecuado para usted. [Visite la pági
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt="" width="362"><figcaption></figcaption></figure>
 
 </div>
 
@@ -45,7 +156,7 @@ Ahora que ha encontrado un Farm, deberás agregar liquidez para obtener tus toke
 
 Esto abrirá la página de Add Liquidity para agregar liquidez para el par elegido.&#x20;
 
-Tenemos una [guía para agregar liquidez](https://docs.pancakeswap.finance/v/espanol/products/pancakeswap-exchange/anadir-remover-liquidez) que puede seguir para obtener sus tokens LP.
+Tenemos una [guía para agregar liquidez](../pancakeswap-exchange/anadir-remover-liquidez.md) que puede seguir para obtener sus tokens LP.
 
 ## Poniendo los LP Tokens dentro de un Farm <a href="#putting-your-lp-tokens-into-a-farm" id="putting-your-lp-tokens-into-a-farm"></a>
 
