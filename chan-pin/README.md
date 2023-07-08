@@ -22,8 +22,8 @@
 [cake-kua-lian-1](../products/cake-kua-lian-1/)
 {% endcontent-ref %}
 
-{% content-ref url="liu-dong-quan-yi-zhi-ya-zheng-he/" %}
-[liu-dong-quan-yi-zhi-ya-zheng-he](liu-dong-quan-yi-zhi-ya-zheng-he/)
+{% content-ref url="../products/liu-dong-zhi-ya-zheng-he/" %}
+[liu-dong-zhi-ya-zheng-he](../products/liu-dong-zhi-ya-zheng-he/)
 {% endcontent-ref %}
 
 {% content-ref url="../products/pancakeswap-exchange/yong-xu-he-yue-jiao-yi/" %}
