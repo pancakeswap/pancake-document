@@ -14,26 +14,26 @@ Echa un vistazo a este gran [artículo sobre Impermanent Loss de Binance Academy
 
 ## Farm V3
 
-### **Get prepared**
+### **Preparación**
 
-![](broken-reference)
+![](<../../.gitbook/assets/image (1).png>)
 
-You’re going to need a liquidity position to enter into a Farm with. Farms can only accept liquidity positions from their own exact trading pair with the exact fee tier of choice; for example, the CAKE-BNB 0.25% Farm will only accept CAKE-BNB liquidity positions with the 0.25% fee tier selected. It will not accept:
+Necesitarás una posición de liquidez para colocarla en un Farm. Los Farms sólo aceptan posiciones de liquidez de su par de trading exacto, con el exacto tier de fee; por ejemplo, el Farm CAKE-BNB 0.25% sólo aceptará las posiciones de liquidez de CAKE-BNB con el tier de fee seleccionado en 0.25%. No aceptará:
 
-* Other pairs, like CAKE-BUSD
-* Same pair but with other fee tiers: like CAKE-BNB with a 0.05% fee rate
+* Otros pares, como CAKE-BUSD
+* El mismo par pero con otro tier de fee, como CAKE-BNB con un tier de 0.05%
 
-To create the exact LP position, you'll need to provide liquidity for that trading pair with the correct fee rate selected. So to get CAKE-BNB 0.25% LP positions, you'll first have to provide liquidity for the CAKE-BNB pair with the 0.25% fee tier selected.
+Para crear la posición LP exacta, necesitarás aportar liquidez de ese par de trading con el tier de fee correcto. Es decir que para tener una posición LP de CAKE-BNB 0.25%, primero deberás aportar liquidez al par CAKE-BNB seleccionando el tier de fee en 0.25%.
 
-It may sound intimidating, but it's not too complicated. Let's go through it step by step.
+Puede sonar intimidante, pero no es tan complicado. Vayamos paso a paso.
 
 
 
-### **Locate your Farm**
+### **Determinar tu Farm**
 
-![](broken-reference)
+![](<../../.gitbook/assets/image (2).png>)
 
-Before you proceed, you'll want to choose a Farm that's right for you. [Visit the Farms page](https://pancakeswap.finance/farms) to see a list of available Farms.
+Antes de proceder, deberás elegir el Farm correcto para ti. Before you proceed, you'll want to choose a Farm that's right for you. [Visit the Farms page](https://pancakeswap.finance/farms) to see a list of available Farms.
 
 You can choose another sorting option, such as by APR, for the Farms with the highest reward rate currently. Please note that the APRs are calculated globally for individual positions; it may vary depending on their price range settings.
 
@@ -236,7 +236,7 @@ Para recoger sus recompensas, tendrás que visitar tu Farm elegido y recoger los
 {% hint style="info" %}
 Cuando esté farmeando un una red diferente a BNB Chain, deberá cambiar siempre a BNB Smart Chain para cosechar sus recompensas.
 
-![](<../../.gitbook/assets/image (1) (2).png>)
+![](<../../.gitbook/assets/image (1) (2) (1).png>)
 {% endhint %}
 
 ### Con qué frecuencia debo cosechar mis recompensas? <a href="#how-often-should-i-harvest-my-rewards" id="how-often-should-i-harvest-my-rewards"></a>

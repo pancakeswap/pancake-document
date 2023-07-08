@@ -10,7 +10,7 @@ Cuando agrega un token a un Pool de liquidez, recibirá un token NFT de proveedo
 
 ### **Posiciones de liquidez no-fungibles**
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 En V3, los proveedores de liquidez ahora tienen más control sobre qué rango de precios desean desplegar su liquidez. Así, cuando agregas tus tokens a un pool de liquidez en V3, crearás un nuevo token de posición de liquidez no-fungible con sus particulares configuraciones.
 

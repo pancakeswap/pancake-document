@@ -45,7 +45,7 @@ En este ejemplo, aportaremos liquidez en V3 usando ETH y USDC.
 
 6 - Puedes revisar y confirmar el rango de precios en la ventana de a la derecha de la pantalla.
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (5).png>)
 
 * El gráfico muestra los niveles de liquidez a través de todo el rango de precios. Puedes acercar y alejar con el zoom usando los botones correspondientes. Puedes hacer un paneo y navegar por el gráfico, arrastrando horizontalmente los ejes.
 * Si quieres personalizar el rango de precios, simplemente arrastra las barras, clic en los botones + y - en los precios, o ingresa manualmente los dos precios.
