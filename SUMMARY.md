@@ -43,7 +43,6 @@
     * [🔄 稳定币兑换](products/pancakeswap-exchange/wen-ding-bi-dui-huan/README.md)
       * [如何使用稳定币兑换](products/pancakeswap-exchange/wen-ding-bi-dui-huan/ru-he-shi-yong-wen-ding-bi-dui-huan.md)
     * [💹 限價單交易 (V2)](products/pancakeswap-exchange/xian-jia-dan-jiao-yi-v2/README.md)
-      * [如何使用限价单](products/pancakeswap-exchange/xian-jia-dan-jiao-yi/ru-he-shi-yong-xian-jia-dan.md)
       * [限价单 FAQ](products/pancakeswap-exchange/xian-jia-dan-jiao-yi/xian-jia-dan-faq.md)
   * [🚜 农场](products/yield-farming.md)
     * [如何使用农场](products/yield-farming/ru-he-shi-yong-nong-chang.md)
