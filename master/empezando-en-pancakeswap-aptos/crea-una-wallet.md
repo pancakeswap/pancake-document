@@ -124,7 +124,7 @@ Blocto ofrece una solución amigable para el usuario y un paquete todo en uno pa
 
 2 - Clic en el botón "más" (+), luego elija "APT - Aptos"
 
-![](<../../.gitbook/assets/image (4) (2) (3).png>)![](<../../.gitbook/assets/image (4) (8).png>)
+![](<../../.gitbook/assets/image (4) (2) (3).png>)![](<../../.gitbook/assets/image (4) (8) (1).png>)
 
 
 

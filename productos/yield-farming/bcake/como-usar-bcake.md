@@ -8,7 +8,7 @@ Al igual que iCAKE y vCAKE, bCAKE también es un beneficio diseñado para usuari
 
 **Tener una posición en el pool de CAKE a plazo fijo**
 
-![](<../../../.gitbook/assets/image (9) (1) (2).png>)
+![](<../../../.gitbook/assets/image (9) (1) (2) (1).png>)
 
 Si no ha bloqueado ningún CAKE en el pool de CAKE, haga clic en "Go to Pool" (Ir al pool) y siga las instrucciones para iniciar una posición en el pool de plazo fijo.&#x20;
 

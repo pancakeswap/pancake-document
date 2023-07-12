@@ -55,25 +55,25 @@ En este ejemplo, aportaremos liquidez en V3 usando ETH y USDC.
 
 7 - Ingrese la cantidad de uno de los tokens bajo “Deposit Amount” (Monto de depósito). El otro valor será calculado y completado automáticamente. Si uno de los tokens no tuviera suficiente saldo, verás un error y el botón se grisará. Por favor ingresa un monto menor, o usa el botón “MAX” para ingresar el valor máximo disponible.
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (8).png>)
 
 
 
 8 - Clic en el botón “Enable USDC”. Si estás aportando liquidez junto con algún token que no sea ETH, deberás hacer clic en enable (habilitar) dos veces por cada token en tu par. Tu wallet te pedirá que confirmes.
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (7) (5).png>)
 
 
 
 9 - El botón “Add” (agregar) se encenderá. Clic para continuar.
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (8).png>)
 
 
 
 10 - Una nueva ventana emergente aparecerá para que veas tu posición de liquidez. Si todo luce bien, clic "Add" (agregar) otra vez para continuar.
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (4).png>)
 
 
 
@@ -83,7 +83,7 @@ En este ejemplo, aportaremos liquidez en V3 usando ETH y USDC.
 
 12 - Enseguida, verás tu nueva posición de liquidez en la página “My Liquidity” (mi liquidez). Y podrás acceder a los detalles al hacer clic en la posición.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Remover liquidez**
 
@@ -91,7 +91,7 @@ Para remover la liquidez.
 
 1 - Visita la página [Liquidez](https://pancakeswap.finance/liquidity)**.**
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (5).png" alt=""><figcaption></figcaption></figure>
 
 
 

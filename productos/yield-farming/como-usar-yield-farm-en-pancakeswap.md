@@ -1,4 +1,4 @@
-# Cómo usar Farms (t)
+# Cómo usar Farms
 
 ![](../../.gitbook/assets/como-yield-farms.png)
 
@@ -16,7 +16,7 @@ Echa un vistazo a este gran [artículo sobre Impermanent Loss de Binance Academy
 
 ### **Preparación**
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 Necesitarás una posición de liquidez para colocarla en un Farm. Los Farms sólo aceptan posiciones de liquidez de su par de trading exacto, con el exacto tier de fee; por ejemplo, el Farm CAKE-BNB 0.25% sólo aceptará las posiciones de liquidez de CAKE-BNB con el tier de fee seleccionado en 0.25%. No aceptará:
 
@@ -31,93 +31,93 @@ Puede sonar intimidante, pero no es tan complicado. Vayamos paso a paso.
 
 ### **Determinar tu Farm**
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)
 
-Antes de proceder, deberás elegir el Farm correcto para ti. Before you proceed, you'll want to choose a Farm that's right for you. [Visit the Farms page](https://pancakeswap.finance/farms) to see a list of available Farms.
+Antes de proceder, deberás elegir el Farm correcto para ti. Before you proceed, you'll want to choose a Farm that's right for you. [Visita la sección de Farms](https://pancakeswap.finance/farms) para ver la lista de los Farms disponibles.
 
-You can choose another sorting option, such as by APR, for the Farms with the highest reward rate currently. Please note that the APRs are calculated globally for individual positions; it may vary depending on their price range settings.
+Puedes elegir cualquier filtro para ordenar los Farms, como por APR, para ver los que tienen mejor rendimiento al momento. Ten en cuenta que los APRs se calculan de manera general para posiciones individuales; puede variar dependiendo el rango de precios que se configure.
 
-When you find a Farm you'd like to use, note down the trading pair and its fee rate, e.g. BNB-CAKE and 0.25%, in case you need them later.
-
-
-
-### **Provide liquidity to create a position**
-
-Now that you've found a Farm to stake in, you will need to provide liquidity:
-
-1 - If you don’t have any position available, you will see a “Add Liquidity” button, simply click it to open up the “Add Liquidity” window without leaving the Farm page.
-
-![](broken-reference)
-
-2 - Alternatively, you can click on the row of the Farm you've chosen from the list. It will open to show more details. Or with card view, click “Details” to expand for more details. Click the “Add XXX-YYY LP” link within the detail section to add liquidity.
-
-![](broken-reference)
+Cuando eencuentres un Farm que quieras usar, anota el par y su porcentaje de fee, por ej. BNB-CAKE y 0.25%, para recordarlo luego.
 
 
 
-### **Stake your positions into a farm**
+### **Aportar liquidez para crear una posición**
 
-![](broken-reference)
+Una vez decidido el Farm para invertir, necesitas aportar liquidez:
 
-After finishing adding liquidity. You should see your position listed under the farm you want to use.
+1 - Si no tienes una posición disponible, verás el botón “Add Liquidity” (Agregar Liquidez), simplemente haz clic para abrir la ventana para hacerlo, sin salir de la página de Farms.
 
-If you have multiple positions, you may click “View All” to view them in a new pop-up window.
+![](<../../.gitbook/assets/image (7).png>)
 
-![](broken-reference)![](broken-reference)
+2 - Otra manera de hacerlo, es con clic en la columna del Farm que elijas de la lista. Se abrirá para mostrar más detalles. O en la vista por tarjetas, clic en "Detalles" para abrir la ventana con los mismos. Luego clic en el link de “Add XXX-YYY LP” dentro de la sección detalles, para agregar liquidez.
 
-Click “Stake” on the position listed, and your wallet will ask for confirmation.
-
-![](broken-reference)
-
-After a short wait, the window will close, and you will see your staked position in the details.
-
-You can repeat the above steps to quickly stake multiple positions with different price range configurations. Each position will earn CAKE and need to be harvested separately.
+![](<../../.gitbook/assets/image (8).png>)
 
 
 
-### **Harvest farming rewards**
+### **Deposita tus posiciones en un farm**
 
-In Farm V3, you can stake multiple positions on the same farm. Each staked position will earn CAKE and need to be harvested separately.
+![](<../../.gitbook/assets/image (5).png>)
 
-![](broken-reference)
+Luego de aportar liquidez, deberías ver tu posición listada debajo del farm que quieres usar.
 
-To harvest CAKE rewards from a staked position, simply return to the Farm page, and locate the farm and position you want to harvest. You can use the “Staked Only” toggle to quickly filter the farms you are currently staking.
+Si tienes varias posiciones, puedes hacer clic en “View All” (ver todo) para verlas en una nueva ventana emergente.
 
-If you have multiple staked positions, you may click “View All” to view them in a new pop-up window.
+![](<../../.gitbook/assets/image (2).png>)![](<../../.gitbook/assets/image (9).png>)
 
-![](broken-reference)
+Clic en “Stake” en la posición listada, y tu wallet te pedirá confirmaciónon.
 
-Click “Harvest” on the position, and your wallet will ask for confirmation. After a short wait, the CAKE rewards will be sent to your wallet.
+![](<../../.gitbook/assets/image (6).png>)
 
+Un momento después, la ventana se cerrará, y verás tu posición depositada en los detalles.
 
-
-### **Add or remove liquidity while staking in a farm**
-
-When staking in a farm, you can still add or remove liquidity without unstaking from the farm.
-
-![](broken-reference)
-
-To do so, simply return to the Farm page, and locate the farm and position you want to adjust. You can use the “Staked Only” toggle to quickly filter the farms you are currently staking.
-
-![](broken-reference)
-
-Click on the position title with the token pair, fee rate, position ID and the “>” arrow. You will be taken to the position detail page.
-
-Simply use the “Add” or “Remove” button to adjust the liquidity in the staked position.
-
-Please note that all the unclaimed CAKE rewards will be harvested and sent to your wallet while adjusting your position.
+Puedes repetir los pasos mencionados para depositar múltiples posiciones rápidamente con diferentes configuraciones de rango de precios. Cada posición pagará en CAKE y debe ser cosechada de manera separada.
 
 
 
-### **Unstake your positions from a farm**
+### **Cosechar las recompensas de farming**
 
-You can unstake a position at any time.
+En Farm V3, puedes depositar varias posiciones en el mismo farm.you can stake multiple positions on the same farm. Cada posición pagará en CAKE y debe ser cosechada de manera separada.
 
-To unstake, simply return to the Farm page, and locate the farm and position you want to unstake. You can use the “Staked Only” toggle to quickly filter the farms you are currently staking.
+![](../../.gitbook/assets/image.png)
 
-If you have multiple staked positions, you may click “View All” to view them in a new pop-up window.
+Para cosechar las recompensas en CAKE de una posición depositada, simplemente regresa a la página de Farms, y encuentra el farm y posición del que quieres cosechar. Puedes usar la opción de “Staked Only” para filtrar rápidamente los farms en los que estás participando.
 
-Click “Unstake” on the position, and your wallet will ask for confirmation. After a short wait, your position NFT will be returned to your wallet, along with all the pending CAKE rewards.
+Si tienes varias posiciones depositadas, puedes hacer clic en “View All” para verlas en una nueva ventana emergente.
+
+![](<../../.gitbook/assets/image (3).png>)
+
+Clic en “Harvest” en la posición, y tu wallet te pedirá confirmación. Un momento después, las recompensas en CAKE serán enviadas a tu wallet.
+
+
+
+### **Agregar o remover liquidez que está depositada en un Farm**
+
+Aún estando depositada en un farm, puedes agregar o retirar liquidez sin necesidad de retirar la posición.
+
+![](<../../.gitbook/assets/image (1).png>)
+
+Para hacerlo, simplemente regresa a la página de Farms, y encuentra el farm y posición que quieres ajustar. Puedes usar la opción de “Staked Only” para filtrar rápidamente los farms en los que estás participando.
+
+![](<../../.gitbook/assets/image (4).png>)
+
+Haz clic en la posición con el par, % de fee, ID de posición y la flecha  “>”. Eso te llevará a la página de detalles de la posición.
+
+Simplemente usa los botones “Add” o “Remove” (Añadir o Remover) para ajustar la liquidez en la posición depositada.
+
+Ten en cuenta que todos los CAKE por reclamar serán cosechados y enviados a tu wallet al momento de ajustar una posición.
+
+
+
+### **Retiro de tus posiciones de un Farm**
+
+Puedes retirar tu posición en cualquier momento.
+
+Para hacerlo, simplemente regresa a la página de Farms, y encuentra el farm y posición que quieres retirar. Puedes usar la opción de “Staked Only” para filtrar rápidamente los farms en los que estás participando.
+
+Si tienes varias posiciones depositadas, puedes hacer clic en “View All” para verlas en una nueva ventana emergente.
+
+Haz clic en “Unstake” en la posición, y tu wallet te pedirá confirmación. Enseguida, tu NFT de la posición retornará a tu wallet, junto con todas las recopensas pendientes en CAKE.
 
 ## Farm V2
 
@@ -166,7 +166,7 @@ Ahora que tienes tus tokens LP, ¡estás listo para comenzar a depositarlos en u
 
 1 - Vuelva a la página de [Farms ](https://pancakeswap.finance/farms)y localice la suya. Haz clic en cualquier parte de la fila que muestre a tu par. Se expandirá para mostrar más detalles.
 
-![](<../../.gitbook/assets/image (7) (5).png>)
+![](<../../.gitbook/assets/image (7) (5) (1).png>)
 
 Cuando esté listo, haga clic en el botón **Enable** y confirme su acción en su billetera.
 
