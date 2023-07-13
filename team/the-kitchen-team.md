@@ -12,17 +12,17 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Gyoza - Product Manager ([Twitter](https://twitter.com/ChefGyoza))
 
-🐰 Chef Bamboo - Product Manager
-
 🐰 Chef Momo - Product Manager
-
-🐰 Chef Pepper - Business Dev ([Twitter](https://twitter.com/RealChefPepper))
 
 🐰 Chef Icy - Business Dev, 80% Bunny 20% Robot ([Twitter](https://twitter.com/PancakeIcy))
 
 🐰 Chef Maroon - Business Dev
 
+🐰 Chef Lava - Busniess Dev
+
 🐰 Chef Mustard - Ops ([Twitter](https://twitter.com/chef\_mustard))
+
+🐰 Chef Chili - Ops
 
 🐰 Chef Kiwi - Data Analytics
 
@@ -38,6 +38,10 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Philip - Frontend Dev
 
+🐰 Chef Bingbong - Frontend Dev
+
+🐰 Chef Cannoli - Backend Dev
+
 🐕 Chef Snoopy - Solidity Dev
 
 🐰 Chef Cupcake - Solidity Dev
@@ -46,19 +50,17 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Rabbid - Solidity Dev
 
-🐰 Chef Cheese - Move Dev
-
 🐰 Chef Ruby - QA
 
 🐰 Chef Omelette - Smart Contract Dev
 
 🐰 Chef Paddington - Smart Contract Dev
 
+🐰 Chef Mist - Smart Contract Dev
+
 🐰 Chef Rei - Security
 
 🐰 [Chef Cecy](https://medium.com/pancakeswap/kitchen-interviews-chef-cecy-the-magical-3d-artist-making-fluffy-bunnies-e1eda53742f3) - 3D Artist ([Twitter](https://twitter.com/Cecymeade))
-
-🐰 Chef Yuna - UI/UX designer ([Twitter](https://twitter.com/chefyuna))
 
 🐰 Chef Salade - UI/UX designer
 
