@@ -175,7 +175,7 @@ IFO 结束后，您将能够收集您的新代币。 您将获得多少代币取
 
 现在您已经有了闪亮的新**代币**，您可以让它们为您工作！&#x20;
 
-您可以为您的代币添加流动性以获得 LP 代币。 您可以通过 LP 代币获得代币对的交易手续费用。在[此处](../pancakeswap-exchange/ru-he-tian-jia-yi-chu-liu-dong-xing.md)阅读有关添加流动性的信息。&#x20;
+您可以为您的代币添加流动性以获得 LP 代币。 您可以通过 LP 代币获得代币对的交易手续费用。在[此处](../../chan-pin/pancakeswap-exchange/ru-he-tian-jia-yi-chu-liu-dong-xing-1.md)阅读有关添加流动性的信息。&#x20;
 
 您为新代币增加了流动性，您还可以使用新的 LP 代币质押在农场并获得更多奖励！ 在[此处](../yield-farming.md)阅读有关农场的信息。
 

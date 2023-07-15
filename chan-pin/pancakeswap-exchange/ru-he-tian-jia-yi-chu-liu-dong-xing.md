@@ -1,8 +1,8 @@
-# 如何添加/移除流动性
+# 如何添加&移除流动性
 
 <figure><img src="../../.gitbook/assets/how-to-add-remove-liquidity-header.png" alt=""><figcaption></figcaption></figure>
 
-“流动性”是 PancakeSwap 去中心化交易所的运作核心。您可以在流动性页面为任意代币对添加流动性。
+"流动性" 是 PancakeSwap 去中心化交易所的运作核心。您可以在流动性页面为任意代币对添加流动性。
 
 作为添加流动性的回报，您将获得该交易对的交易手续费奖励，并且获得 LP NFT 凭证或者 LP 代币，您可以在[农场](https://pancakeswap.finance/farms)中质押 LP NFT 凭证或者 LP 代币以获得 CAKE 奖励。
 
@@ -12,7 +12,7 @@
 
 添加流动性时，您需要在流动性页面存入一定的数量的代币对。您可以提供的流动性资金的多少，取决于您想要添加的两个代币中价值（以美元计）最低的一个。&#x20;
 
-在 PancakeSwap 兑换页面您可以轻易兑换您需要的任何代币。如果有需要请查看并学习我们的[如何进行交易的指南](ru-he-jin-hang-jiao-yi.md)。&#x20;
+在 PancakeSwap 兑换页面您可以轻易兑换您需要的任何代币。如果有需要请查看并学习我们的[如何进行交易的指南](../../products/pancakeswap-exchange/ru-he-jin-hang-jiao-yi.md)。&#x20;
 
 下述示例中，我们将使用 ETH 和 USDC ，在以太链的 PancakeSwap 上添加 V3 流动性。
 
