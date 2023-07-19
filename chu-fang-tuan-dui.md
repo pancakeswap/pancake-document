@@ -12,19 +12,17 @@
 
 🐰 Chef Gyoza- 产品经理([Twitter](https://twitter.com/ChefGyoza))
 
-🐰 Chef Bamboo- 产品经理
-
 🐰 Chef Momo - 产品经理
-
-🐰 Chef Pepper - 商务开发([Twitter](https://twitter.com/RealChefPepper))
 
 🐰 Chef Icy - 商务开发, 80% 兔子 20% 机器人([Twitter](https://twitter.com/PancakeIcy))
 
 🐰 Chef Maroon - 商务开发
 
-🐰 Chef Lime -运维/数据分析开发
+🐰 Chef Lava - 商务开发
 
 🐰 Chef Mustard-运维技术([Twitter](https://twitter.com/chef\_mustard))
+
+🐰 Chef Chili - 运维技术
 
 🐰 Chef Kiwi- 数据分析
 
@@ -39,6 +37,10 @@
 🐰 Chef Jackson - 前端开发 ([Twitter](https://twitter.com/0xchefjackson))
 
 🐰 Chef Philip - 前端开发
+
+🐰 Chef Bingbong -  前端开发
+
+🐰 Chef Cannoli - 后端开发
 
 🐕 Chef Snoopy - Solidity 开发
 
@@ -56,11 +58,11 @@
 
 🐰 Chef Paddington - 智能合约开发
 
+🐰 Chef Mist - 智能合约开发
+
 🐰 Chef Rei - 安全保障
 
 🐰 [Chef Cecy](https://medium.com/pancakeswap/kitchen-interviews-chef-cecy-the-magical-3d-artist-making-fluffy-bunnies-e1eda53742f3) - 3D 艺术家 ([Twitter](https://twitter.com/Cecymeade))
-
-🐰 Chef Yuna - UI/UX 设计师 ([Twitter](https://twitter.com/chefyuna))
 
 🐰 Chef Salade - UI/UX 设计师
 

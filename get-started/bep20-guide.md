@@ -16,7 +16,7 @@
 {% tab title=" 🥞🌉 Pancake 跨链桥" %}
 <div align="center">
 
-<figure><img src="../.gitbook/assets/image (1) (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (5).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
