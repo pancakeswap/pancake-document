@@ -18,7 +18,7 @@ PancakeSwap 是一个去中心化的应用程序。 这意味着，与 Binance �
 
 {% tabs %}
 {% tab title="🥞🌉Pancakeswap 跨链桥" %}
-<figure><img src="../.gitbook/assets/image (1) (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 [**PancakeSwap 跨链桥**](http://bridge.pancakeswap.finance/) —— 原生资产跨链桥，由 Stargate 提供支持。
 
