@@ -36,7 +36,7 @@ Zap 是一个简易添加流动性的方式。使用一种代币、一键即可�
 
 访问[流动性页面](https://pancakeswap.finance/liquidity)，并选择 "**增加流动性**"。
 
-选择两个输入代币来挑选你想提供流动性的交易对，查看[流动性指南](../../chan-pin/pancakeswap-exchange/ru-he-tian-jia-yi-chu-liu-dong-xing-1.md)以了解更多。
+选择两个输入代币来挑选你想提供流动性的交易对，查看[流动性指南](ru-he-tian-jia-yi-chu-liu-dong-xing.md)以了解更多。
 
 <div align="left">
 
