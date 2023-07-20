@@ -35,7 +35,7 @@ description: 在PancakeSwap上使用农场非常简单！
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (4) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

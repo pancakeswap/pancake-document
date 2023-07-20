@@ -1,6 +1,6 @@
 # FAQ
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 #### 我可以使用移动端钱包来进行 CAKE 的跨链吗？我可以使用 MetaMask 以外的钱包吗？
 
@@ -70,6 +70,6 @@
 
 #### 为什么我不能跨链数量小于 0.00000001 的 CAKE？&#x20;
 
-Aptos 上的代币最大小数点位数为8位，这也适用于 Aptos 上的 CAKE 代币。因此，当您将 CAKE 跨链到 Aptos 时，总数量小于 0.00000001 的链上交易将被拒绝。跨链到以太坊也适用此规则。
+Aptos 上的代币最大小数点位数为 8 位，这也适用于 Aptos 上的 CAKE 代币。因此，当您将 CAKE 跨链到 Aptos 时，总数量小于 0.00000001 的链上交易将被拒绝。跨链到以太坊也适用此规则。
 
 如果您跨链的 CAKE 数量的小数点位数大于 8 位，任何小于 0.00000001 部分的数量将被四舍五入，忽略不计并且不会进行跨链。未跨链的部分数量将留在您的 BNB 智能链钱包里。

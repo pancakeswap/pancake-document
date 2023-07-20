@@ -44,7 +44,7 @@
       * [如何使用稳定币兑换](chan-pin/pancakeswap-exchange/wen-ding-bi-dui-huan/ru-he-shi-yong-wen-ding-bi-dui-huan.md)
     * [💹 限價單交易 (V2)](products/pancakeswap-exchange/xian-jia-dan-jiao-yi-v2/README.md)
       * [限价单 FAQ](products/pancakeswap-exchange/xian-jia-dan-jiao-yi/xian-jia-dan-faq.md)
-    * [如何添加/移除流动性](chan-pin/pancakeswap-exchange/ru-he-tian-jia-yi-chu-liu-dong-xing-1.md)
+    * [如何添加/移除流动性](products/pancakeswap-exchange/ru-he-tian-jia-yi-chu-liu-dong-xing.md)
   * [🚜 农场](products/yield-farming.md)
     * [如何使用农场](products/yield-farming/ru-he-shi-yong-nong-chang.md)
     * [APR/ROI/IL 计算器](products/yield-farming/apr-roi-il-calculator.md)
