@@ -1,6 +1,6 @@
 # 如何使用稳定币兑换
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (5).png" alt=""><figcaption></figcaption></figure>
 
 ## 通过稳定币兑换 (StableSwap) 进行交易&#x20;
 
