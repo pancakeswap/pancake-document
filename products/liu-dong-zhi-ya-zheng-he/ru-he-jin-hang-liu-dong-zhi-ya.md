@@ -12,11 +12,11 @@ description: 在 PancakeSwap 上参与流动权益质押的分步指南：
 2. 点击 "赚取" ，打开下拉式选单，选择 “[Liquid Staking](https://pancakeswap.finance/liquid-staking)” 。&#x20;
 3. 选择权益质押对 ETH/WBETH，然后点击 "继续（Proceed）"。
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 4. 输入您要转换的 ETH 数量，并在 WBETH 栏中确认转换后的数量。提醒您：由于质押奖励持续累积，WBETH 代币的价值相对于 ETH 将会升值。
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 5. 点击 “Stake”，以授权 WBETH 代币。再次点击 “Stake” ，并于钱包中确认您的链上操作，然后，完成！您的 WBETH 代币将自动存入您的钱包。&#x20;
 

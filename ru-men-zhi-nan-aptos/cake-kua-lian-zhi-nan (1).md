@@ -1,6 +1,6 @@
 # EVM 链与 Aptos 之间跨链
 
-<figure><img src="../.gitbook/assets/image (2) (3) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 下方的指南将以 BNB 链为 EVM 链跨链的例子。同样的步骤可以通用于以太链。

@@ -24,7 +24,7 @@ PancakeSwap 在以太链和币安智能链上整合了做市商，以帮助交�
 
 由做市商执执行的交易，PancakeSwap 不会向该笔交易收取任何费用。但 PancakeSwap 会基于他们执行的交易量从白名单上的做市商那里抽取 **0.05% 的交易费用**。如果执行的交易是在稳定币对之间，PancakeSwap 会向他们收取更低的 **0.01% 的交易费**。请参考下面的费用细分：
 
-<table><thead><tr><th width="257">交易类型</th><th width="112">交易手续费</th><th width="120">PCS向做市商收取的费率</th><th width="112">Cake 销毁</th><th align="center">团队金库</th></tr></thead><tbody><tr><td>从其他区块链跨链过来的代币</td><td>N/A</td><td>0.25%</td><td>0.083%</td><td align="center">0.167%</td></tr><tr><td>非稳定币对 - 以太链<br>(例如 ETH/USDC) </td><td>N/A</td><td>0.05%</td><td>0.017%</td><td align="center">0.033%</td></tr><tr><td>非稳定币对 - BSC<br>(例如 BNB/USDT) </td><td>N/A</td><td>0.05% </td><td>0.017%</td><td align="center">0.033%</td></tr><tr><td>稳定币对之间 （以太链）</td><td>N/A</td><td>0.01%</td><td>0.003%</td><td align="center">0.007%</td></tr></tbody></table>
+<table><thead><tr><th width="178">交易类型</th><th width="138">交易手续费</th><th width="173">PCS向做市商收取的费率</th><th width="147">Cake 销毁占比</th><th align="center">团队金库占比</th></tr></thead><tbody><tr><td>其他链跨链过来的代币</td><td>N/A</td><td>0.25%</td><td>0.083%</td><td align="center">0.167%</td></tr><tr><td>非稳定币对 - 以太链<br> (例如 ETH/USDC) </td><td>N/A</td><td>0.05%</td><td>0.017%</td><td align="center">0.033%</td></tr><tr><td>非稳定币对 - BSC (例如BNB/USDT) </td><td>N/A</td><td>0.0375% </td><td>0.013%</td><td align="center">0.025%</td></tr><tr><td>稳定币对之间 - 以太链</td><td>N/A</td><td>0.01%</td><td>0.003%</td><td align="center">0.007%</td></tr></tbody></table>
 
 ### 目前支持的资产&#x20;
 
@@ -39,9 +39,9 @@ PancakeSwap 在以太链和币安智能链上整合了做市商，以帮助交�
 #### 币安智能链：
 
 * **主要资产:** BNB, ETH, BTCB
-* **非 BNB 原生资产**：ARB, OP
+* 非 BNB 链原生代币: ARB, OP
 
-请注意，与AMM不同，做市可能不会执行任何金额的交易请求，他们愿意执行的金额将取决于他们自己的流动资金量。有时非常大的订单不能完全履行，这是正常现象。我们建议用户仔细审查报价，以确保每笔交易根据他们的期望能收到对应的价格和数量。
+请注意，与 AMM 不同，做市可能不会执行任何金额的交易请求，他们愿意执行的金额将取决于他们自己的流动资金量。有时非常大的订单不能完全履行，这是正常现象。我们建议用户仔细审查报价，以确保每笔交易根据他们的期望能收到对应的价格和数量。
 
 ### 做市商休息时间&#x20;
 
