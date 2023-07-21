@@ -47,11 +47,11 @@ Una vez decidido el Farm para invertir, necesitas aportar liquidez:
 
 1 - Si no tienes una posición disponible, verás el botón “Add Liquidity” (Agregar Liquidez), simplemente haz clic para abrir la ventana para hacerlo, sin salir de la página de Farms.
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (7) (6).png>)
 
 2 - Otra manera de hacerlo, es con clic en la columna del Farm que elijas de la lista. Se abrirá para mostrar más detalles. O en la vista por tarjetas, clic en "Detalles" para abrir la ventana con los mismos. Luego clic en el link de “Add XXX-YYY LP” dentro de la sección detalles, para agregar liquidez.
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (8) (5).png>)
 
 
 
@@ -63,11 +63,11 @@ Luego de aportar liquidez, deberías ver tu posición listada debajo del farm qu
 
 Si tienes varias posiciones, puedes hacer clic en “View All” (ver todo) para verlas en una nueva ventana emergente.
 
-![](<../../.gitbook/assets/image (2).png>)![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (2).png>)![](<../../.gitbook/assets/image (9) (3).png>)
 
 Clic en “Stake” en la posición listada, y tu wallet te pedirá confirmaciónon.
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6) (6).png>)
 
 Un momento después, la ventana se cerrará, y verás tu posición depositada en los detalles.
 
