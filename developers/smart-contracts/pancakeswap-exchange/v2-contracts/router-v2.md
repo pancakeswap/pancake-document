@@ -19,6 +19,10 @@ View the [PancakeSwap: Router v2 contract on BscScan](https://bscscan.com/addres
 Contract address**:** 0xEfF92A263d31888d860bD50809A8D171709b7b1c\
 View the [PancakeSwap: Router v2 contract on Etherscan](https://etherscan.io/address/0xEfF92A263d31888d860bD50809A8D171709b7b1c).
 
+**zkEVM**\
+Contract address**:** 0x8cFe327CEc66d1C090Dd72bd0FF11d690C33a2Eb\
+View the [PancakeSwap: Router v2 contract on zkEVM](https://zkevm.polygonscan.com/address/0x8cFe327CEc66d1C090Dd72bd0FF11d690C33a2Eb#code)
+
 ## Read functions
 
 ### WETH

@@ -19,6 +19,12 @@ View the [PancakeSwap: Factory v2 contract on BscScan](https://bscscan.com/addre
 Contract address**:** 0x1097053Fd2ea711dad45caCcc45EfF7548fCB362\
 View the [PancakeSwap: Factory v2 contract on Etherscan](https://etherscan.io/address/0x1097053Fd2ea711dad45caCcc45EfF7548fCB362).
 
+**zkEVM**\
+Contract address**:** 0x02a84c1b3BBD7401a5f7fa98a384EBC70bB5749E\
+View the [PancakeSwap: Factory v2 contract on zkEVM](https://zkevm.polygonscan.com/address/0x02a84c1b3BBD7401a5f7fa98a384EBC70bB5749E)
+
+
+
 ## Read functions
 
 ### getPair

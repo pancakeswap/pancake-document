@@ -22,11 +22,13 @@ View the [PancakeSwap: Main Staking Contract on BscScan](https://bscscan.com/add
 
 **Contract name:** MasterChef v3
 
-Mainnet: BSC, Ethereum\
-**Contract address:** `0x556B9306565093C855AEA9AE92A594704c2Cd59e`
+Mainnet: \
+BSC, Ethereum:`0x556B9306565093C855AEA9AE92A594704c2Cd59e`\
+zkEVM: 0xe9c7f3196ab8c09f6616365e8873daeb207c0391
 
-Testnet: BSC testnet, Goerli\
-**Contract address:** `0x864ED564875BdDD6F421e226494a0E7c071C06f8`
+Testnet: \
+BSC testnet, Goerli:`0x864ED564875BdDD6F421e226494a0E7c071C06f8`\
+`zkEVM` testnet: 0xb66b07590B30d4E6E22e45Ddc83B06Bb018A7B44
 
 [View the PancakeSwap: Main Staking Contract v3 on BscScan.](https://bscscan.com/address/0x556B9306565093C855AEA9AE92A594704c2Cd59e)
 
@@ -35,6 +37,10 @@ Testnet: BSC testnet, Goerli\
 [View the PancakeSwap: Main Staking Contract v3 on BscScan testnet.](https://testnet.bscscan.com/address/0x864ED564875BdDD6F421e226494a0E7c071C06f8)
 
 [View the PancakeSwap: Main Staking Contract v3 on EtherScan Goerli.](https://goerli.etherscan.com/address/0x864ED564875BdDD6F421e226494a0E7c071C06f8)
+
+[View the PancakeSwap: Main Staking Contract v3 on zkEVM](https://zkevm.polygonscan.com/address/0xe9c7f3196ab8c09f6616365e8873daeb207c0391)
+
+[View the PancakeSwap: Main Staking Contract v3 on zkEVM Testnet](https://testnet-zkevm.polygonscan.com/address/0xb66b07590B30d4E6E22e45Ddc83B06Bb018A7B44)
 
 ## Audits
 

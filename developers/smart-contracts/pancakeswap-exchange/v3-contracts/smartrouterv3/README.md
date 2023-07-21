@@ -10,6 +10,10 @@ BSC testnet Address: `0x9a489505a00cE272eAa5e07Dba6491314CaE3796`
 
 Goerli Address: `0x9a489505a00cE272eAa5e07Dba6491314CaE3796`
 
+zkEVM Address: 0x678Aa4bF4E210cf2166753e054d5b7c31cc7fa86
+
+zkEVM Testnet Address: 0x365C5F0B816828936320ea143e337fbA7D1b911E
+
 {% hint style="info" %}
 ### Notice
 

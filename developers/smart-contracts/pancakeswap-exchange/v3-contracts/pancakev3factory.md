@@ -20,6 +20,10 @@ View the [PancakeSwap: Factory v3 contract on EtherScan](https://etherscan.io/ad
 
 View the [PancakeSwap: Factory v3 contract on EtherScan Goerli](https://goerli.etherscan.io/address/0x0BFbCF9fa4f9C56B0F40a671Ad40E0805A091865).
 
+View the [PancakeSwap: Factory v3 contract on zkEvm](https://zkevm.polygonscan.com/address/0x0BFbCF9fa4f9C56B0F40a671Ad40E0805A091865)&#x20;
+
+View the [PancakeSwap: Factory v3 contract on zkEvm testnet](https://testnet-zkevm.polygonscan.com/address/0x2430dbd123BC40f8Be6110065a448C1aA0619Cb1#code) &#x20;
+
 
 
 ## Solidity API
