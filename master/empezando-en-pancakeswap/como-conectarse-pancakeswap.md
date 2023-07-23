@@ -61,7 +61,7 @@ To connect MetaMask to PancakeSwap follow the steps below.
 
 1\. Open MetaMask and tap on the **burger icon** in the top-left.
 
-![](<../../.gitbook/assets/image (24).png>)
+![](<../../.gitbook/assets/image (24) (1).png>)
 
 2\. Tap **Settings** in the menu.
 

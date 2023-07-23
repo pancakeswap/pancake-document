@@ -97,13 +97,13 @@ Para remover la liquidez.
 
 2 - Clic en la posición de la que quieras remover la liquidez, de la lista en “Your Liquidity" (tu liquidez). Puedes usar el filtro para revisar rápidamente todas las posiciones en V3.
 
-![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (11) (6).png>)
 
 
 
 3 - Clic en “Remove”. Aparecerá una nueva ventana.
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (10) (4).png>)
 
 
 

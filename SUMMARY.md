@@ -90,6 +90,7 @@
   * [🖼 Perfil NFT en PancakeSwap](productos/perfil-nft-en-pancakeswap/README.md)
     * [Equipos](productos/perfil-nft-en-pancakeswap/equipos.md)
     * [Cómo Crear un Perfil](productos/perfil-nft-en-pancakeswap/como-crear-un-perfil.md)
+  * [💳 Compra cripto](productos/compra-cripto.md)
   * [🌐 PancakeSwap Mini-Programa](productos/pancakeswap-mini-programa/README.md)
     * [¿Cómo usar el Mini-Programa de PancakeSwap?](productos/pancakeswap-mini-programa/como-usar-el-mini-programa-de-pancakeswap.md)
     * [Mini-Programa - Preguntas más Frecuentes (FAQ)](productos/pancakeswap-mini-programa/mini-programa-preguntas-mas-frecuentes-faq.md)

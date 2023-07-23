@@ -72,7 +72,7 @@ Para que ser proveedor de liquidez sea aún más atractivo, también puedes pone
 
 ### LP Tokens
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (2).png" alt=""><figcaption></figcaption></figure>
 
 Como ejemplo, si depositas **CAKE** y **BNB** en un pool de liquidez, recibirás tokens **CAKE-BNB LP**.
 
