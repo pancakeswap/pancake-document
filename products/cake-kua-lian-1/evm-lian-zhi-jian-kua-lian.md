@@ -10,7 +10,7 @@
 
 1 - 确保你的钱包同时支持 BNB 链和以太链。我们建议使用 MetaMask。&#x20;
 
-然后打开 [PancakeSwap Bridge](https://bridge.pancakeswap.finance/)，上方导航栏中找到 "CAKE" 部分。
+然后打开 [PancakeSwap Bridge 跨链桥](https://bridge.pancakeswap.finance/)，上方导航栏中找到 "CAKE" 部分。
 
 2 - 首先，连接您的将钱包与跨链桥。&#x20;
 
@@ -64,7 +64,7 @@
 
 1 - 确保你的钱包同时支持 BNB 链和以太链。我们建议使用 MetaMask。&#x20;
 
-然后打开 [PancakeSwap Bridge](https://bridge.pancakeswap.finance/)，上方导航栏中导航到 "CAKE" 部分。
+然后打开 [PancakeSwap Bridge 跨链桥](https://bridge.pancakeswap.finance/)，上方导航栏中导航到 "CAKE" 部分。
 
 2 - 首先，将你的钱包连接到跨链桥。&#x20;
 

@@ -10,7 +10,7 @@
 
 1 - 确保你的钱包同时支持 BNB 智能链和 Aptos 主网。或者你需在电脑浏览器中分别安装支持这两个链的钱包插件。
 
-然后打开 [PancakeSwap CAKE 跨链桥](https://bridge.pancakeswap.finance/cake)。
+然后打开 [PancakeSwap CAKE 跨链桥](https://bridge.pancakeswap.finance/)。
 
 2 - 首先，我们需要连接我们的 BNB 智能链钱包。
 
@@ -67,7 +67,7 @@
 
 1 - 确保你的钱包同时支持 BNB 智能链和 Aptos 主网。或者你需在电脑浏览器中安装分别支持两个链的钱包插件。
 
-然后打开 [PancakeSwap CAKE 跨链桥](https://bridge.pancakeswap.finance/cake)。
+然后打开 [PancakeSwap CAKE 跨链桥](https://bridge.pancakeswap.finance/)。
 
 2 - 首先，我们需要连接我们的 BNB 智能链钱包。
 
