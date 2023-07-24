@@ -12,17 +12,17 @@ Você pode pular para os artigos de entrevistas com os chefes clicando no nome d
 
 🐰 Chef Gyoza - Gerente de Produto ([Twitter](https://twitter.com/ChefGyoza))
 
-🐰 Chef Bamboo - Gerente de Produto
-
 🐰 Chef Momo - Gerente de Produto
-
-🐰 Chef Pepper - Dev de Negócios ([Twitter](https://twitter.com/RealChefPepper))
 
 🐰 Chef Icy - Dev de Negócios, 80% Coelho 20% Robô ([Twitter](https://twitter.com/PancakeIcy))
 
 🐰 Chef Maroon - Dev de Negócios
 
-🐰 Chef Mustard - Ops
+🐰 Chef Lava - Dev de Negócios&#x20;
+
+🐰 Chef Mustard - Ops ([Twitter](https://twitter.com/chef\_mustard))
+
+🐰 Chef Chili - Ops
 
 🐰 Chef Kiwi - Analista de Dados
 
@@ -30,13 +30,17 @@ Você pode pular para os artigos de entrevistas com os chefes clicando no nome d
 
 🐰 Chef Jojo - Dev de Frontend ([Twitter](https://twitter.com/0xchefjojo))
 
-🐰 Chef Momota - Dev de Frontend
+🐰 Chef Momota - Dev de Frontend ([Twitter](https://twitter.com/chefmomota))
 
 🐰 Chef Yogi- Dev de Frontend
 
-🐰 Chef Jackson - Dev de Frontend  ([Twitter](https://twitter.com/0xchefjackson))
+🐰 Chef Jackson - Dev de Frontend ([Twitter](https://twitter.com/0xchefjackson))
 
 🐰 Chef Philip - Dev de Frontend&#x20;
+
+🐰 Chef Bingbong - Dev de Frontend
+
+🐰 Chef Cannoli - Dev de Backend
 
 🐕 Chef Snoopy - Dev de Solidity
 
@@ -44,15 +48,15 @@ Você pode pular para os artigos de entrevistas com os chefes clicando no nome d
 
 🐰 Chef Huan - Dev de Solidity
 
-🐰 Chef Rabbid - Dev de Solidity
-
-🐰 Chef Cheese - Dev de Move&#x20;
+🐰 Chef Rabbid - Dev de Solidity&#x20;
 
 🐰 Chef Ruby - QA
 
 🐰 Chef Omelette - Dev de Smart Contract&#x20;
 
 🐰 Chef Paddington - Dev de Smart Contract&#x20;
+
+🐰 Chef Mist - Dev de Smart Contract
 
 🐰 Chef Rei - Segurança
 

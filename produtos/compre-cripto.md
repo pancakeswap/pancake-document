@@ -34,7 +34,7 @@ Observe que o sistema de cotação fornecerá total transparência da taxa de c�
 2.  Selecione a moeda fiduciária desejada e o par de tokens no menu do pop-up.\
     &#x20;
 
-    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 3.  Clique em "Obter Cotação"\
 
 
@@ -42,7 +42,7 @@ Observe que o sistema de cotação fornecerá total transparência da taxa de c�
 4.  Selecione a cotação recomendada.\
 
 
-    <figure><img src="../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 5.  Prossiga para seguir as etapas na tela com o fornecedor on-ramp.\
 
 
@@ -62,6 +62,7 @@ A compra de cripto está disponível para regiões selecionadas com base na disp
 Você pode visitar a documentação do nosso parceiro aqui:
 
 * [Mercuryo](https://help.mercuryo.io/en/articles/6122838-on-and-off-ramps)
+* [MoonPay](https://support.moonpay.com/hc/en-gb/sections/360003486437-Buying-Cryptocurrency-)
 
 ## O que vem a seguir?
 

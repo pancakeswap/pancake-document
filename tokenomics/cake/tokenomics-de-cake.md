@@ -1,6 +1,6 @@
 # Tokenomics de CAKE
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Taxa de Emissão** <a href="#emission-rate" id="emission-rate"></a>
 
@@ -9,8 +9,8 @@
 | **Métrica**         | **Emissão/bloco (CAKE)** | **Emissão/dia (CAKE)** |
 | ------------------- | ------------------------ | ---------------------- |
 | Emissão             | 40                       | 1.152.000              |
-| Queima Semanal      | \~35,4348                | \~1.020.520            |
-| **Emissão Efetiva** | **\~4,5651\***           | **\~131.470\***        |
+| Queima Semanal      | \~35,4852                | \~1.021.975            |
+| **Emissão Efetiva** | **\~4,5147\***           | **\~130.024\***        |
 
 {% hint style="info" %}
 Em 11 de agosto de 2022, os Chefs implementaram algumas atualizações de configuração para aproveitar ao máximo o MasterChef v2. Ele elimina a queima diária de 45.000 CAKE para as injeções de loteria legacy. Essas queimas agora serão tratadas pelo MasterChef v2 diretamente junto com a queima semanal habitual do CAKE. Portanto, as emissões efetivas agora são ainda menores.
@@ -26,12 +26,12 @@ Como tal, não o incluímos na taxa de emissão acima.
 
 ## Distribuição <a href="#distribution" id="distribution"></a>
 
-| Distribuído para                   | Recompensa/bloco(% da emissão) | Recompensa/bloco(total CAKE) | Recompensa/dia      |
-| ---------------------------------- | ------------------------------ | ---------------------------- | ------------------- |
-| Trade(Farms)                       | \~4,82%                        | \~1,9262                     | 55.470 (aprox)      |
-| Stake                              | \~6,25%                        | \~2,5                        | 72.000 (aprox)      |
-| Outros                             | \~0,35%                        | \~0,1389                     | 4.000 (aprox)       |
-| **Emissão Total Diaŕaia de CAKE**  | ​                              | ​                            | **131.470 (aprox)** |
+| Distribuído para                  | Recompensa/bloco(% da emissão) | Recompensa/bloco(total CAKE) | Recompensa/dia        |
+| --------------------------------- | ------------------------------ | ---------------------------- | --------------------- |
+| Trade(Farms)                      | \~4,69%                        | \~1,8758                     | 54.024 (aprox)        |
+| Stake                             | \~6,25%                        | \~2,5                        | 72.000 (aprox)        |
+| Outros                            | \~0,35%                        | \~0,1389                     | 4.000 (aprox)         |
+| **Emissão Total Diária de CAKE**  | ​                              | ​                            | \~**130.024 (aprox)** |
 
 ## **Outros Mecanismos Deflacionários** <a href="#other-deflationary-mechanics" id="other-deflationary-mechanics"></a>
 

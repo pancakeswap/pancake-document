@@ -20,7 +20,7 @@ Para saber mais sobre como fazer stake de CAKE de prazo fixo, leia [aqui](https:
 
 Você só pode aumentar seus ganhos nos farms com o bCAKE ativado. Para procurar esses farms, verifique a seção de tags de cada farm e procure a tag de foguete verde rotulada como “Boosted”.
 
-![](<../../../.gitbook/assets/image (6).png>)
+![](../../../.gitbook/assets/image.png)
 
 Como alternativa, use o filtro “Booster Available” no seletor “Farm Types” para filtrar rapidamente todos os farms habilitados para bCAKE.
 

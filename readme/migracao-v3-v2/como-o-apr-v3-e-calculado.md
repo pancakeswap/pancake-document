@@ -10,7 +10,7 @@ O APR total é combinado pelo APR da taxa de LP e APR da recompensa de CAKE
 
 Teoricamente falando, dada uma faixa de preço e usuário de liquidez prestes a adicionar, podemos estimar a taxa futura esperada de 7 dias da seguinte forma:
 
-&#x20;                    <img src="../../.gitbook/assets/image (16).png" alt="" data-size="original">\
+&#x20;                    <img src="../../.gitbook/assets/image (16) (5).png" alt="" data-size="original">\
 
 
 * $$fee_{in}$$: Valor da taxa acumulado na faixa de preço especificada pelo usuário nos últimos 7 dias

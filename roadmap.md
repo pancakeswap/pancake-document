@@ -6,7 +6,7 @@ description: '"Don''t call it a roadmap"'
 
 ![](.gitbook/assets/roadmap-header.png)
 
-_Atualizado em 6 de Julhol de 2023_
+_Atualizado em 6 de Julho de 2023_
 
 ### Finalmente, isso é um roadmap e não uma lista de tarefas.
 
@@ -16,7 +16,7 @@ Pivotar é um modo de vida.&#x20;
 
 Isso significa que não nos comprometemos publicamente com cronogramas específicos, para que possamos organizar nossas prioridades de desenvolvimento com base nas mudanças do mercado e nos recursos do desenvolvedor.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Devido a considerações de segurança e confidencialidade, alguns itens não estão incluídos na seção "Cozinhando no".
