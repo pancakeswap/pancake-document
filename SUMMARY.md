@@ -178,6 +178,7 @@
     * [IFO Commit Limit (iCAKE)](developers/smart-contracts/ifo-commit-limit-icake.md)
     * [Cross Chain Farming](developers/smart-contracts/cross-chain-farming.md)
     * [Cross Chain CAKE Bridging](developers/smart-contracts/cross-chain-cake-bridging.md)
+    * [Market Maker Pool](developers/smart-contracts/market-maker-pool.md)
   * [Smart Contracts (Aptos)](developers/smart-contracts-aptos/README.md)
     * [PancakeSwap Exchange](developers/smart-contracts-aptos/pancakeswap-exchange/README.md)
       * [v2](developers/smart-contracts-aptos/pancakeswap-exchange/v2/README.md)
