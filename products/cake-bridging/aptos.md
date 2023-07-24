@@ -14,7 +14,7 @@ The following guide uses BNB Chain as an example of an EVM chain. The same proce
 
 1 - Make sure your wallet supports both BNB Smart Chain and Aptos Mainnet. Or you have both of the wallets installed in your browser.&#x20;
 
-Then open the [PancakeSwap CAKE Bridge](https://bridge.pancakeswap.finance/cake)
+Then open the [PancakeSwap CAKE Bridge](https://bridge.pancakeswap.finance/)
 
 
 
@@ -89,7 +89,7 @@ Remember, these registration and claim requirements only apply when you interact
 
 1 - Make sure your wallet supports both BNB Smart Chain and Aptos Mainnet. Or you have both of the wallets installed in your browser.&#x20;
 
-Then open the [PancakeSwap CAKE Bridge](https://bridge.pancakeswap.finance/cake)
+Then open the [PancakeSwap CAKE Bridge](https://bridge.pancakeswap.finance/)
 
 
 

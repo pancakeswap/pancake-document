@@ -14,7 +14,7 @@ The following guide uses BNB Chain and Ethereum as an example of EVM chains. The
 
 1 - Make sure your wallet supports both BNB Chain and Ethereum. We recommend using MetaMask.
 
-Then open the [PancakeSwap Bridge](https://bridge.pancakeswap.finance/cake) and navigate to the “CAKE” section.
+Then open the [PancakeSwap Bridge](https://bridge.pancakeswap.finance/) and navigate to the “CAKE” section.
 
 
 
@@ -68,7 +68,7 @@ Please note that you must approve two transactions when you try to bridge for th
 
 1 - Make sure your wallet supports both BNB Chain and Ethereum. We recommend using MetaMask.
 
-Then open the [PancakeSwap Bridge](https://bridge.pancakeswap.finance/cake) and navigate to the “CAKE” section.
+Then open the [PancakeSwap Bridge](https://bridge.pancakeswap.finance/) and navigate to the “CAKE” section.
 
 
 
