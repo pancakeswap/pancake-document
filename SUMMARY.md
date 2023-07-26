@@ -188,6 +188,8 @@
     * [Syrup Pools](developers/smart-contracts-aptos/syrup-pools.md)
     * [IFO](developers/smart-contracts-aptos/ifo.md)
     * [Utils](developers/smart-contracts-aptos/utils.md)
+  * [API](developers/api/README.md)
+    * [Subgraph](developers/api/subgraph.md)
 * [Team](team/README.md)
   * [The Kitchen Team](team/the-kitchen-team.md)
   * [Become a Chef](team/become-a-chef/README.md)
