@@ -7,17 +7,17 @@ description: Indexing data from PancakeSwap contracts
 Code: [https://github.com/pancakeswap/pancake-subgraph](https://github.com/pancakeswap/pancake-subgraph)
 
 1. [**Blocks**](https://thegraph.com/legacy-explorer/subgraph/pancakeswap/blocks): Tracks all blocks on Binance Smart Chain.
-   * BSC https://thegraph.com/legacy-explorer/subgraph/pancakeswap/blocks
-   * zkSync https://api.studio.thegraph.com/query/45376/blocks-zksync/version/latest
-   * zkSync testnet https://api.studio.thegraph.com/query/45376/blocks-zksync-testnet/version/latest
-   * Polygon zkEVM https://api.studio.thegraph.com/query/45376/polygon-zkevm-block/version/latest
+   * BSC [https://thegraph.com/legacy-explorer/subgraph/pancakeswap/blocks](https://thegraph.com/legacy-explorer/subgraph/pancakeswap/blocks)
+   * zkSync [https://api.studio.thegraph.com/query/45376/blocks-zksync/version/latest](https://thegraph.com/legacy-explorer/subgraph/pancakeswap/blocks)
+   * zkSync testnet [https://api.studio.thegraph.com/query/45376/blocks-zksync-testnet/version/latest](https://api.studio.thegraph.com/query/45376/blocks-zksync-testnet/version/latest)
+   * Polygon zkEVM [https://api.studio.thegraph.com/query/45376/polygon-zkevm-block/version/latest](https://api.studio.thegraph.com/query/45376/polygon-zkevm-block/version/latest)
 2. [**Exchange V2**](https://nodereal.io/meganode/api-marketplace/pancakeswap-graphql): Tracks all PancakeSwap V2 Exchange data with price, volume, liquidity, ...
-   * BSC https://nodereal.io/meganode/api-marketplace/pancakeswap-graphql
-   * ETH https://api.thegraph.com/subgraphs/name/pancakeswap/exhange-eth
-   * Polygon zkEVM https://api.studio.thegraph.com/query/45376/exchange-v2-polygon-zkevm/version/latest
-   * Polygon zkEVM testnet https://api.studio.thegraph.com/query/45376/exchange-v2-polygon-zkevm-test/version/latest
-   * zkSync https://api.studio.thegraph.com/query/45376/exchange-v2-zksync/version/latest
-   * zkSync testnet https://api.studio.thegraph.com/query/45376/exchange-v2-zksync-testnet/version/latest
+   * BSC [https://nodereal.io/meganode/api-marketplace/pancakeswap-graphql](https://nodereal.io/meganode/api-marketplace/pancakeswap-graphql)
+   * ETH [https://api.thegraph.com/subgraphs/name/pancakeswap/exhange-eth](https://api.thegraph.com/subgraphs/name/pancakeswap/exhange-eth)
+   * Polygon zkEVM [https://api.studio.thegraph.com/query/45376/exchange-v2-polygon-zkevm/version/latest](https://api.studio.thegraph.com/query/45376/exchange-v2-polygon-zkevm/version/latest)
+   * Polygon zkEVM testnet [https://api.studio.thegraph.com/query/45376/exchange-v2-polygon-zkevm-test/version/latest](https://api.studio.thegraph.com/query/45376/exchange-v2-polygon-zkevm-test/version/latest)
+   * zkSync [https://api.studio.thegraph.com/query/45376/exchange-v2-zksync/version/latest](https://api.studio.thegraph.com/query/45376/exchange-v2-zksync/version/latest)
+   * zkSync testnet [https://api.studio.thegraph.com/query/45376/exchange-v2-zksync-testnet/version/latest](https://api.studio.thegraph.com/query/45376/exchange-v2-zksync-testnet/version/latest)
 3. [**Farm Auctions**](https://thegraph.com/legacy-explorer/subgraph/pancakeswap/farm-auctions): Tracks all PancakeSwap Farm Auctions with auctions and bids.
 4. [**Lottery**](https://thegraph.com/legacy-explorer/subgraph/pancakeswap/lottery): Tracks all PancakeSwap Lottery with rounds, draws and tickets.
 5. [**NFT Market (v1)**](https://thegraph.com/legacy-explorer/subgraph/pancakeswap/nft-market): Tracks all PancakeSwap NFT Market for ERC-721.
@@ -31,19 +31,19 @@ Code: [https://github.com/pancakeswap/pancake-subgraph](https://github.com/panca
 13. [**Trading Competition (v1)**](https://thegraph.com/legacy-explorer/subgraph/pancakeswap/trading-competition-v1): Tracks all metrics for the Easter Battle (April 07—14, 2021).
 14. [**MasterChef (v2)**](https://thegraph.com/hosted-service/subgraph/pancakeswap/masterchef-v2): Tracks data for MasterChefV2.
 15. **MasterChef (v3)**: Tracks data for MasterChefV3.
-    * BSC https://thegraph.com/hosted-service/subgraph/pancakeswap/masterchef-v3-bsc
-    * BSC testnet https://thegraph.com/hosted-service/subgraph/pancakeswap/masterchef-v3-chapel
-    * ETH https://thegraph.com/hosted-service/subgraph/pancakeswap/masterchef-v3-eth
-    * GOR https://thegraph.com/hosted-service/subgraph/pancakeswap/masterchef-v3-goerli
-    * Polygon zkEVM https://api.studio.thegraph.com/query/45376/masterchef-v3-polygon-zkevm/version/latest
-    * Polygon zkEVM testnet https://api.studio.thegraph.com/query/45376/masterchef-v3-zkevm-testnet/version/latest
+    * BSC [https://thegraph.com/hosted-service/subgraph/pancakeswap/masterchef-v3-bsc](https://thegraph.com/hosted-service/subgraph/pancakeswap/masterchef-v3-bsc)
+    * BSC testnet [https://thegraph.com/hosted-service/subgraph/pancakeswap/masterchef-v3-chapel](https://thegraph.com/hosted-service/subgraph/pancakeswap/masterchef-v3-chapel)
+    * ETH [https://thegraph.com/hosted-service/subgraph/pancakeswap/masterchef-v3-eth](https://thegraph.com/hosted-service/subgraph/pancakeswap/masterchef-v3-eth)
+    * GOR [https://thegraph.com/hosted-service/subgraph/pancakeswap/masterchef-v3-goerli](https://thegraph.com/hosted-service/subgraph/pancakeswap/masterchef-v3-goerli)
+    * Polygon zkEVM [https://api.studio.thegraph.com/query/45376/masterchef-v3-polygon-zkevm/version/latest](https://api.studio.thegraph.com/query/45376/masterchef-v3-polygon-zkevm/version/latest)
+    * Polygon zkEVM testnet [https://api.studio.thegraph.com/query/45376/masterchef-v3-zkevm-testnet/version/latest](https://api.studio.thegraph.com/query/45376/masterchef-v3-zkevm-testnet/version/latest)
 16. **Exchange (v3)**: Tracks all PancakeSwap V3 Exchange data with price, volume, liquidity
-    * BSC https://thegraph.com/hosted-service/subgraph/pancakeswap/exchange-v3-bsc
-    * BSC testnet https://thegraph.com/hosted-service/subgraph/pancakeswap/exchange-v3-chapel
-    * ETH https://thegraph.com/hosted-service/subgraph/pancakeswap/exchange-v3-eth
-    * GOR https://thegraph.com/hosted-service/subgraph/pancakeswap/exchange-v3-goerli
-    * Polygon zkEVM https://api.studio.thegraph.com/query/45376/exchange-v3-polygon-zkevm/version/latest
-    * Polygon zkEVM testnet https://api.studio.thegraph.com/query/45376/exchange-v3-polygon-zkevm-test/version/latest
-    * zkSync https://api.studio.thegraph.com/query/45376/exchange-v3-zksync/version/latest
-    * zkSync testnet https://api.studio.thegraph.com/query/45376/exchange-v3-zksync-testnet/version/latest
+    * BSC [https://thegraph.com/hosted-service/subgraph/pancakeswap/exchange-v3-bsc](https://thegraph.com/hosted-service/subgraph/pancakeswap/exchange-v3-bsc)
+    * BSC testnet [https://thegraph.com/hosted-service/subgraph/pancakeswap/exchange-v3-chapel](https://thegraph.com/hosted-service/subgraph/pancakeswap/exchange-v3-chapel)
+    * ETH [https://thegraph.com/hosted-service/subgraph/pancakeswap/exchange-v3-eth](https://thegraph.com/hosted-service/subgraph/pancakeswap/exchange-v3-eth)
+    * GOR [https://thegraph.com/hosted-service/subgraph/pancakeswap/exchange-v3-goerli](https://thegraph.com/hosted-service/subgraph/pancakeswap/exchange-v3-goerli)
+    * Polygon zkEVM [https://api.studio.thegraph.com/query/45376/exchange-v3-polygon-zkevm/version/latest](https://api.studio.thegraph.com/query/45376/exchange-v3-polygon-zkevm/version/latest)
+    * Polygon zkEVM testnet [https://api.studio.thegraph.com/query/45376/exchange-v3-polygon-zkevm-test/version/latest](https://api.studio.thegraph.com/query/45376/exchange-v3-polygon-zkevm-test/version/latest)
+    * zkSync [https://api.studio.thegraph.com/query/45376/exchange-v3-zksync/version/latest](https://api.studio.thegraph.com/query/45376/exchange-v3-zksync/version/latest)
+    * zkSync testnet [https://api.studio.thegraph.com/query/45376/exchange-v3-zksync-testnet/version/latest](https://api.studio.thegraph.com/query/45376/exchange-v3-zksync-testnet/version/latest)
 
