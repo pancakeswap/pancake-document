@@ -24,6 +24,10 @@ View the [PancakeSwap: Factory v3 contract on zkEvm](https://zkevm.polygonscan.c
 
 View the [PancakeSwap: Factory v3 contract on zkEvm testnet](https://testnet-zkevm.polygonscan.com/address/0x2430dbd123BC40f8Be6110065a448C1aA0619Cb1#code) &#x20;
 
+View the [PancakeSwap: Factory v3 contract on zkSync](https://explorer.zksync.io/address/0x1BB72E0CbbEA93c08f535fc7856E0338D7F7a8aB)
+
+View the [PancakeSwap: Factory v3 contract on zkSync testnet](https://goerli.explorer.zksync.io/address/0x48e6Bc3f2546E63908cd09b04E2B3f78e57B6292)
+
 
 
 ## Solidity API
