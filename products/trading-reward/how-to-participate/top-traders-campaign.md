@@ -13,7 +13,7 @@ To check if there is an ongoing campaign. You can:
 * Check on the [Trading Reward page](https://pancakeswap.finance/trading-reward/top-traders) directly
 *   Check the [PancakeSwap homepage](https://pancakeswap.finance/) banner
 
-    <figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (6) (4).png" alt=""><figcaption></figcaption></figure>
 *   Look for the 💝 icon from the “Hot Token” list on the [Swap page](https://pancakeswap.finance/swap). Or use the filter to check pairs with trading rewards.\
 
 
