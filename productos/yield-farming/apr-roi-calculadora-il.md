@@ -36,7 +36,7 @@ Puedes encontrar este indicador de APR en las siguientes secciones:
 
 ## Calculadora de ROI mejorada <a href="#6f06dc46-ff61-4022-a29d-3ebe67a50607" id="6f06dc46-ff61-4022-a29d-3ebe67a50607"></a>
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (6).png" alt=""><figcaption></figcaption></figure>
 
 Whenever you see the automatic APR displays, you can click and bring up the new ROI calculator. The new ROI calculator has been redesigned with serval added features to fit the needs for V3 concentrated liquidity providing and farming.
 

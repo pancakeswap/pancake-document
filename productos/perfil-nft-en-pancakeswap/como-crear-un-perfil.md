@@ -18,7 +18,7 @@ Tener su perfil creado le permitirá compartir su foto de perfil NFT y logros co
 
 Para este ejemplo usaremos Dollop.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\. Haz clic en **Approve** y, a continuación, confirma la acción en tu monedero. Una vez aprobado, haga clic en Confirmar.
 
@@ -64,7 +64,7 @@ Para este ejemplo usaremos Dollop.&#x20;
 
 12\. Después de una breve espera, aparecerá su nuevo perfil. ¡Se ve bien!
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 Usted puede notar que su nombre está oculto. Para ver su nombre, haga clic en el icono de ojo a la derecha de las estrellas.
 

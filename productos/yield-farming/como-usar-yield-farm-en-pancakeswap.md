@@ -16,7 +16,7 @@ Echa un vistazo a este gran [artículo sobre Impermanent Loss de Binance Academy
 
 ### **Preparación**
 
-![](<../../.gitbook/assets/image (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (3).png>)
 
 Necesitarás una posición de liquidez para colocarla en un Farm. Los Farms sólo aceptan posiciones de liquidez de su par de trading exacto, con el exacto tier de fee; por ejemplo, el Farm CAKE-BNB 0.25% sólo aceptará las posiciones de liquidez de CAKE-BNB con el tier de fee seleccionado en 0.25%. No aceptará:
 
@@ -31,7 +31,7 @@ Puede sonar intimidante, pero no es tan complicado. Vayamos paso a paso.
 
 ### **Determinar tu Farm**
 
-![](<../../.gitbook/assets/image (2) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1).png>)
 
 Antes de proceder, deberás elegir el Farm correcto para ti. Before you proceed, you'll want to choose a Farm that's right for you. [Visita la sección de Farms](https://pancakeswap.finance/farms) para ver la lista de los Farms disponibles.
 
@@ -47,7 +47,7 @@ Una vez decidido el Farm para invertir, necesitas aportar liquidez:
 
 1 - Si no tienes una posición disponible, verás el botón “Add Liquidity” (Agregar Liquidez), simplemente haz clic para abrir la ventana para hacerlo, sin salir de la página de Farms.
 
-![](<../../.gitbook/assets/image (7) (6).png>)
+![](<../../.gitbook/assets/image (7) (6) (1).png>)
 
 2 - Otra manera de hacerlo, es con clic en la columna del Farm que elijas de la lista. Se abrirá para mostrar más detalles. O en la vista por tarjetas, clic en "Detalles" para abrir la ventana con los mismos. Luego clic en el link de “Add XXX-YYY LP” dentro de la sección detalles, para agregar liquidez.
 
@@ -57,17 +57,17 @@ Una vez decidido el Farm para invertir, necesitas aportar liquidez:
 
 ### **Deposita tus posiciones en un farm**
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (4).png>)
 
 Luego de aportar liquidez, deberías ver tu posición listada debajo del farm que quieres usar.
 
 Si tienes varias posiciones, puedes hacer clic en “View All” (ver todo) para verlas en una nueva ventana emergente.
 
-![](<../../.gitbook/assets/image (2).png>)![](<../../.gitbook/assets/image (9) (3).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)![](<../../.gitbook/assets/image (9) (3).png>)
 
 Clic en “Stake” en la posición listada, y tu wallet te pedirá confirmaciónon.
 
-![](<../../.gitbook/assets/image (6) (6).png>)
+![](<../../.gitbook/assets/image (6) (6) (1).png>)
 
 Un momento después, la ventana se cerrará, y verás tu posición depositada en los detalles.
 
@@ -79,13 +79,13 @@ Puedes repetir los pasos mencionados para depositar múltiples posiciones rápid
 
 En Farm V3, puedes depositar varias posiciones en el mismo farm.you can stake multiple positions on the same farm. Cada posición pagará en CAKE y debe ser cosechada de manera separada.
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (7).png>)
 
 Para cosechar las recompensas en CAKE de una posición depositada, simplemente regresa a la página de Farms, y encuentra el farm y posición del que quieres cosechar. Puedes usar la opción de “Staked Only” para filtrar rápidamente los farms en los que estás participando.
 
 Si tienes varias posiciones depositadas, puedes hacer clic en “View All” para verlas en una nueva ventana emergente.
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 Clic en “Harvest” en la posición, y tu wallet te pedirá confirmación. Un momento después, las recompensas en CAKE serán enviadas a tu wallet.
 
@@ -95,11 +95,11 @@ Clic en “Harvest” en la posición, y tu wallet te pedirá confirmación. Un 
 
 Aún estando depositada en un farm, puedes agregar o retirar liquidez sin necesidad de retirar la posición.
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 Para hacerlo, simplemente regresa a la página de Farms, y encuentra el farm y posición que quieres ajustar. Puedes usar la opción de “Staked Only” para filtrar rápidamente los farms en los que estás participando.
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (1).png>)
 
 Haz clic en la posición con el par, % de fee, ID de posición y la flecha  “>”. Eso te llevará a la página de detalles de la posición.
 
@@ -137,7 +137,7 @@ Antes de continuar, querrá elegir un Farm adecuado para usted. [Visite la pági
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (2).png" alt="" width="362"><figcaption></figcaption></figure>
 
 </div>
 
@@ -172,7 +172,7 @@ Cuando esté listo, haga clic en el botón **Enable** y confirme su acción en s
 
 2 - Después de una breve espera, el botón Enable cambiará a **Stake LP.** Haga clic en él y aparecerá una nueva ventana.
 
-![](<../../.gitbook/assets/image (5) (4).png>)
+![](<../../.gitbook/assets/image (5) (4) (1).png>)
 
 3 - Escriba la cantidad de tokens LP con los que desea ingresar al Farm, o simplemente haga clic en **Max** para usar todos sus tokens LP.
 
@@ -182,7 +182,7 @@ Cuando esté listo, haga clic en el botón **Enable** y confirme su acción en s
 
 5 - Después de una breve espera, la ventana se cerrará, y verá su nuevo saldo de LP tokens depositado en los detalles.
 
-![](<../../.gitbook/assets/image (3) (1).png>)
+![](<../../.gitbook/assets/image (3) (1) (2).png>)
 
 {% hint style="info" %}
 Cuando esté farmeando un una red diferente a BNB Chain, deberá esperar unos 30 minutos para que se confirmen las transacciones cross-chain.

@@ -42,7 +42,7 @@ Listo, acabas de emitir tu voto con éxito.&#x20;
 {% tab title="Comprobar el poder de voto" %}
 Antes de emitir su voto, verá una ventana de "Confirm Vote".
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 En esta ventana, puede volver a comprobar los siguientes elementos:
 

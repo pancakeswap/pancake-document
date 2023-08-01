@@ -96,4 +96,4 @@ Para obtener más información sobre nuestras plataformas de lanzamiento ("Ofert
 
 En cada paso del proceso, el equipo está aquí para ayudar: entendemos que, para los fundadores y sus equipos, el lanzamiento de una IFO o TGE es extremadamente crítico, y no dejamos nada al azar.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (3) (1) (2).png" alt=""><figcaption></figcaption></figure>

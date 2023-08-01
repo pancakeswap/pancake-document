@@ -33,7 +33,7 @@ Note que el sistema de cotización brindará total transparencia a la tasa de ca
    \
    <img src="../.gitbook/assets/image (10).png" alt="" data-size="original">
 2. Selecciona tu divisa y token del menú emergente.\
-   ![](<../.gitbook/assets/image (6).png>)
+   ![](<../.gitbook/assets/image (6) (6).png>)
 3. Clic en "Get Quote" (obtener cotización)\
    ![](<../.gitbook/assets/image (18).png>)
 4. Seleccione la cotización recomendada. \

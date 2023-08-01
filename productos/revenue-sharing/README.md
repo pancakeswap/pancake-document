@@ -1,3 +1,7 @@
+---
+description: Ingresos compartidos
+---
+
 # 💹 Revenue Sharing
 
 Revenue Sharing Pool (rCAKE) es un nuevo programa para los stakers de CAKE bloqueado, para recibir parte de las ganancias del protocolo semanalmente.
@@ -7,3 +11,11 @@ Revenue Sharing Pool (rCAKE) es un nuevo programa para los stakers de CAKE bloqu
 {% endhint %}
 
 Aprenda más sobre cómo rCAKE (participación de las ganancias) se calcula y cómo participar en las distribuciones semanales de las ganancias.
+
+{% content-ref url="como-participar.md" %}
+[como-participar.md](como-participar.md)
+{% endcontent-ref %}
+
+{% content-ref url="faq.md" %}
+[faq.md](faq.md)
+{% endcontent-ref %}
