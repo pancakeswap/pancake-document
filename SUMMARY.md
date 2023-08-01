@@ -61,7 +61,7 @@
       * [CAKE Syrup Pool FAQ](productos/syrup-pools/nuevo-cake-pool/cake-syrup-pool-faq.md)
     * [Syrup Pool FAQ & Errores Frecuentes](productos/syrup-pools/syrup-pool.md)
   * [🍯 Syrup Pools - Stake CAKE(\*)](productos/syrup-pools-stake-cake.md)
-  * [💹 Revenue Sharing](productos/revenue-sharing/README.md)
+  * [💹 Revenue Sharing](productos/revenue-sharing.md)
     * [Cómo participar?](productos/revenue-sharing/como-participar.md)
     * [FAQ](productos/revenue-sharing/faq.md)
   * [🛍 IFO (Oferta Inicial de Farm)](productos/ifo-oferta-inicial-de-farm/README.md)
