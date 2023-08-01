@@ -75,7 +75,7 @@ Tu participación será actualizada a partir de la próxima distribución semana
 
 Luego de transcurrida la semana calendario, y el pool llegue a la próxima distribución semanal, podrás reclamar tus recompensas del último periodo, regresando al panel de beneficios y haciendo clic en el botón de “Claim”.
 
-## 5 - Stay eligible and earn more shares <a href="#3ca775e2-6d26-4dee-94e4-e03d89b57412" id="3ca775e2-6d26-4dee-94e4-e03d89b57412"></a>
+## 5 - Mantente elegible y gana mayor participación <a href="#3ca775e2-6d26-4dee-94e4-e03d89b57412" id="3ca775e2-6d26-4dee-94e4-e03d89b57412"></a>
 
 Luego de cada distribución semanal, tu participación (también llamada rCAKE) es recalculada en base a:
 
