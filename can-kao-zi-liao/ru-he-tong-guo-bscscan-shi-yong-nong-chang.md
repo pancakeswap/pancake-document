@@ -31,7 +31,7 @@
 
 如果您想确认是否正确，请访问 PancakeSwap：[主质押合约 BscScan 页面](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#writeContract)。 您会在左上角看到地址。 单击页面图标将其复制到剪贴板。
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 为您的 LP 代币打开合约&#x20;
 
@@ -138,7 +138,7 @@
 
 4\. 在\_pid 下方，您会看到“\_amount”。 输入您想从池中提取的 LP 数量。
 
-<figure><img src="../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ​​5.检查信息，然后单击"**Write**"写入。 在 MetaMask 中确认您的操作。
 

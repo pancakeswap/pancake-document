@@ -1,6 +1,6 @@
 # bCAKE
 
-<figure><img src="../../../.gitbook/assets/how-to-bCAKE (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/bCAKE page.webp" alt=""><figcaption></figcaption></figure>
 
 bCAKE - 农场收益助推器，具备自动计算、农场收益加成双重功能，可提升指定农场的 CAKE 产量，最高至 2 倍。为一种充分利用锁仓质押 CAKE ，与农场流动性凭证质押结合的产品。
 
@@ -8,10 +8,10 @@ bCAKE - 农场收益助推器，具备自动计算、农场收益加成双重功
 
 详细了解 bCAKE 以及如何使用它来提高农场产量：
 
-{% content-ref url="ru-he-shi-yong-bcake.md" %}
-[ru-he-shi-yong-bcake.md](ru-he-shi-yong-bcake.md)
+{% content-ref url="../../../chan-pin/yield-farming/bcake/v2-yi-qi-yong/ru-he-shi-yong-bcake.md" %}
+[ru-he-shi-yong-bcake.md](../../../chan-pin/yield-farming/bcake/v2-yi-qi-yong/ru-he-shi-yong-bcake.md)
 {% endcontent-ref %}
 
-{% content-ref url="chang-jian-wen-ti-jie-da.md" %}
-[chang-jian-wen-ti-jie-da.md](chang-jian-wen-ti-jie-da.md)
+{% content-ref url="../../../chan-pin/yield-farming/bcake/faq.md" %}
+[faq.md](../../../chan-pin/yield-farming/bcake/faq.md)
 {% endcontent-ref %}
