@@ -50,16 +50,16 @@ V3 农场和 bCAKE V3 简化了流程，因此不再需要启用 bCAKE 或迁移
 
 #### 激活 bCAKE
 
-![](../../../.gitbook/assets/image.png)
+![](<../../../.gitbook/assets/image (1).png>)
 
-准备就绪后，你就可以看到当前质押的农场的可助推倍数和提升后的 APR。 要进一步了解 bCAKE 倍数的计算方法，请阅读[此处](faq.md)。&#x20;
+准备就绪后，你就可以看到当前质押的农场的可助推倍数和提升后的 APR。 要进一步了解 bCAKE 倍数的计算方法，请阅读[此处](../../../products/yield-farming/bcake/chang-jian-wen-ti-jie-da.md)。&#x20;
 
 要激活农场的助推功能，请单击 “助推（Boost）” 按钮，然后在您的钱包确认此链上操作。
 
 {% hint style="info" %}
 请注意，用户进行农场、 CAKE 锁仓调整操作后，您的倍数将自动更新，因前两者的统计及数据更新了。
 
-点击[这里](faq.md)了解更多。
+点击[这里](../../../products/yield-farming/bcake/chang-jian-wen-ti-jie-da.md)了解更多。
 {% endhint %}
 
 <div align="left">
@@ -74,6 +74,6 @@ V3 农场和 bCAKE V3 简化了流程，因此不再需要启用 bCAKE 或迁移
 
 ## 取消设置助推器
 
-<img src="../../../.gitbook/assets/image (1).png" alt="" data-size="original">
+<img src="../../../.gitbook/assets/image (2).png" alt="" data-size="original">
 
 要取消设置农场助推器，只需单击 “取消设置（Unset）” 按钮，然后在您的钱包中确认上链。&#x20;

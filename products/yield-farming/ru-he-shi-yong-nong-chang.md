@@ -35,7 +35,7 @@ description: 在PancakeSwap上使用农场非常简单！
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (4).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -73,7 +73,7 @@ description: 在PancakeSwap上使用农场非常简单！
 
 如果你有多个仓位，你可以点击 "查看全部"，并在新的弹出窗口中查看它们。
 
-![](<../../.gitbook/assets/image (154).png>)![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (154).png>)![](<../../.gitbook/assets/image (3) (2).png>)
 
 在列出的仓位上点击 "质押"，你的钱包弹出提示供你确认。
 

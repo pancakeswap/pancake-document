@@ -10,7 +10,7 @@
 
 ### 非同质化流动性仓位
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
 
 在 V3 中，流动性提供者现在可以设定他们想要提供的流动性的价格范围。因此当你把你的代币添加到 V3的流动性池中时，你将创建一个新的非同质化的流动性仓位，并且它有独特的（区间，价格等）设置。&#x20;
 

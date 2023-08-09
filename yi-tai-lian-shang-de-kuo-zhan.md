@@ -4,7 +4,7 @@ description: gm eth!
 
 # 以太链上的扩展
 
-<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 我们已经在以太链推出了 PancakeSwap V3！我们希望与以太链上的众多项目团队开启沟通管道，在这里，向各位介绍加密货币世界中最大、最火爆以及活跃度最高的 DApp 之一（每天活跃用户超过 12 万）！
 

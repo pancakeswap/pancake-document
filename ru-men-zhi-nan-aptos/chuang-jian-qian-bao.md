@@ -65,7 +65,7 @@ Petra 钱包是一个扩展程序，可让您在浏览器中探索 Aptos。
 {% endtab %}
 
 {% tab title=" Martian" %}
-<figure><img src="../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 Martian 是一款 Aptos 链上的钱包，可让您存储、发送、接收代币以及管理和铸造 NFT。它的手机端版本即将推出。&#x20;
 
@@ -117,7 +117,7 @@ Fewcha 钱包是一款 Aptos 链上钱包，可让您存储、发送、接收代
 {% endtab %}
 
 {% tab title="Blocto" %}
-<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Blocto 提供了一个对用户友好的解决方案和一个多合一的集合便于您使用 Dapps 和管理您的资产。&#x20;
 
