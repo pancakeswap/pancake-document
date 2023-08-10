@@ -300,7 +300,7 @@ If not, you may be trying to send tokens that you don't have in your wallet (for
 
 {% tabs %}
 {% tab title="Solution" %}
-Firstly,[ let the team know](../../contact-us/telegram.md) which pool you're trying to unstake from, so they can top up the rewards. If you're in a hurry to unstake and you don't mind losing your pending yield, try an emergencyWithdraw:
+Firstly,[ let the team know](../../contact-us/social-accounts-and-communities.md) which pool you're trying to unstake from, so they can top up the rewards. If you're in a hurry to unstake and you don't mind losing your pending yield, try an emergencyWithdraw:
 
 You can perform an “emergencyWithdraw” from the contract directly to unstake your staked tokens.
 

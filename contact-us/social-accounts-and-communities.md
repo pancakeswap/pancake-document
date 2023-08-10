@@ -10,7 +10,7 @@ Here you'll find a list of PancakeSwap's official Social media channels and comm
 
 ## 📰 Blog
 
-https://blog.pancakeswap.com&#x20;
+[https://blog.pancakeswap.finance/](https://blog.pancakeswap.finance/)
 
 ## 👽 Reddit
 

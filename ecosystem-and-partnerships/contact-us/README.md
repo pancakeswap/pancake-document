@@ -18,5 +18,5 @@
 
 ### [Customer Support](../../contact-us/customer-support.md#there-is-no-customer-support-for-pancakeswap)
 
-### [Social Communities](../../contact-us/telegram.md)
+### [Social Communities](../../contact-us/social-accounts-and-communities.md)
 

@@ -8,7 +8,7 @@ Participating in governance voting is easy, and it is absolutely **FREE**. You d
 
 #### Navigate to the vote proposal
 
-Whenever we publish a new proposal, we always attach the link to the voting page. So be sure to follow [our social channels](../../../contact-us/telegram.md) for the news and updates.
+Whenever we publish a new proposal, we always attach the link to the voting page. So be sure to follow [our social channels](../../../contact-us/social-accounts-and-communities.md) for the news and updates.
 
 Alternatively, you can visit [PancakeSwap's native voting portal](https://voting.pancakeswap.finance/?\_gl=1\*pc8o0h\*\_ga\*MTUzNDEzNDQxMy4xNjAwNzkzNDM4\*\_ga\_334KNG3DMQ\*MTYwNDMwMTk4Ni42MC4xLjE2MDQzMDM3MDIuMA..#/)[ ](https://pancakeswap.finance/voting)to browse the proposals in a list. If you don't see the proposal, it may be in the "soon" tab.
 

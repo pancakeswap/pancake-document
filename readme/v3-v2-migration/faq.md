@@ -12,7 +12,7 @@ You will be able to remove liquidity from V2 at any time.
 
 However, Chefs will gradually migrate the CAKE reward emissions from those selected V2 farms to their corresponding V3 farms. To continue earning CAKE rewards. We would recommend that you complete the migrations as early as possible.
 
-For more news and updates on the migration timeline, please [follow our social channels on Twitter or Telegram announcement.](../../contact-us/telegram.md)
+For more news and updates on the migration timeline, please [follow our social channels on Twitter or Telegram announcement.](../../contact-us/social-accounts-and-communities.md)
 
 ### When can I start migrating?
 

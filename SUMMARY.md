@@ -209,7 +209,7 @@
   * [Business Partnerships](contact-us/business-partnerships.md)
   * [NFT Marketplace Applications](contact-us/nft-market-applications.md)
   * [Customer Support](contact-us/customer-support.md)
-  * [Social Accounts & Communities](contact-us/telegram.md)
+  * [Social Accounts & Communities](contact-us/social-accounts-and-communities.md)
 * [Archive](archive/README.md)
   * [Old Tokenomics](archive/old-tokenomics/README.md)
     * [CAKE Tokenomics v1](archive/old-tokenomics/cake-tokenomics-v1.md)

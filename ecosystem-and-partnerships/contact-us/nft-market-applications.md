@@ -31,4 +31,4 @@ We aim to respond to applications within a week, but due to a large number of re
 
 You can shoot us an email at info@pancakeswap.com if the above parts don't cover your questions.
 
-Please don't try to contact us via this email for [customer support](../../contact-us/customer-support.md), that's not what it's for and we won't respond: your best option for getting help with the product is via the [Telegram or Reddit community](../../contact-us/telegram.md).
+Please don't try to contact us via this email for [customer support](../../contact-us/customer-support.md), that's not what it's for and we won't respond: your best option for getting help with the product is via the [Telegram or Reddit community](../../contact-us/social-accounts-and-communities.md).

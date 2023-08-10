@@ -14,4 +14,4 @@ Follow these guides to get everything set up to use PancakeSwap, or feel free to
 
 
 
-If you can't find what you need, feel free to visit the [PancakeSwap Telegram](../../contact-us/telegram.md) and ask for help there!
+If you can't find what you need, feel free to visit the [PancakeSwap Telegram](../../contact-us/social-accounts-and-communities.md) and ask for help there!

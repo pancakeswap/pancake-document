@@ -45,4 +45,14 @@ Please note that after adding CAKE or extending, shares are NOT updated in real 
 
 No, you will only need to enrol once. All subsequent CAKE staking pool operations will automatically inform the revenue sharing pool and update your shares upon the next weekly distributions.
 
-\
+### Why are the weekly injected rewards not 100% matching the volume displayed on various trackers (like the Info page)?
+
+The number of CAKE rewards injected weekly may not be 100% matching with the numbers calculated from the volume displayed on various trackers. Multiple external factors may impact the number of CAKE rewards that can be converted:
+
+* CAKE token price while the trading fee is being converted and processed
+* Underlying asset prices while the trading fee is being converted and processed
+* To save gas and operational cost. Revenues from blockchains other than BNB Chain are processed monthly. They will be injected with a one-month delay with weekly averaging.
+* Some trading pairs may have insufficient liquidity while processing the trading fee.
+* Some trading pairs may contain tokens with custom logic that prevent their fee from being processed.
+
+Chefs are working hard to apply tools and practices to ensure more trading fees generated can be processed and converted into CAKE.
