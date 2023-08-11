@@ -27,6 +27,10 @@ View the [PancakeSwap: Factory v2 contract on zkEVM](https://zkevm.polygonscan.c
 Contract address**:** 0xd03D8D566183F0086d8D09A84E1e30b58Dd5619d\
 View the [PancakeSwap: Factory v2 contract on zkSync](https://explorer.zksync.io/address/0xd03D8D566183F0086d8D09A84E1e30b58Dd5619d)
 
+**Arbitrum**\
+Contract address: 0x02a84c1b3BBD7401a5f7fa98a384EBC70bB5749E\
+View the [PancakeSwap: Factory v2 contract on Arbitrum ](https://arbiscan.io/address/0x02a84c1b3BBD7401a5f7fa98a384EBC70bB5749E)
+
 ## Read functions
 
 ### getPair
