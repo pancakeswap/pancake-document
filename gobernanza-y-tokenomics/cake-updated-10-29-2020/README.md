@@ -12,10 +12,10 @@ CAKE es el delicioso token que impulsa el ecosistema PancakeSwap.
 
 Puedes ganar CAKE en Farms y Syrup Pools, ganar en la Lotería o [comprarlo en el exchange](https://pancakeswap.finance/swap), luego puedes explorar sus casos de uso:
 
-* Hacer Stake en [Syrup Pools](../../productos/syrup-pools/) para ganar tokens gratis
+* Hacer Stake en [Syrup Pools](../../productos./syrup-pools/) para ganar tokens gratis
 * Usarlos en los [Yield Farms](broken-reference) para ganar más CAKE
-* Comprar tickets en la [Lotería de PancakeSwap](../../productos/lottery/)​
-* Crear tu [Perfil de PancakeSwap](../../productos/perfil-nft-en-pancakeswap/) y emitir NFTs
+* Comprar tickets en la [Lotería de PancakeSwap](../../productos./lottery/)​
+* Crear tu [Perfil de PancakeSwap](../../productos./perfil-nft-en-pancakeswap/) y emitir NFTs
 * ​[Votar en propuestas](https://docs.pancakeswap.finance/products/voting) relacionadas al ecosistema de PancakeSwap
 
 Pero eso no es todo- ¡hay mucho más en el horizonte para CAKE!

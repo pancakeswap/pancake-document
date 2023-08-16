@@ -22,7 +22,7 @@ Estos dos productos van de la mano en PancakeSwap: cuando un proyecto provee sus
 * Los usuarios compran tu token con CAKE.
 * Después de la venta, una parte de los CAKE son quemados.
 
-Aprendé más de cómo funcionan las IFO [aquí](../productos/ifo-oferta-inicial-de-farm/ifo-initial-farm-offering.md).
+Aprendé más de cómo funcionan las IFO [aquí](../productos./ifo-oferta-inicial-de-farm/ifo-initial-farm-offering.md).
 
 [**Aplicar para una IFO**](https://docs.google.com/forms/d/e/1FAIpQLScGdT5rrVMr4WOWr08pvcroSeuIOtEJf1sVdQGVdcAOqryigQ/viewform)
 
@@ -35,7 +35,7 @@ Aprendé más de cómo funcionan las IFO [aquí](../productos/ifo-oferta-inicial
 
 ### Cómo puedo listar mi token en el exchange?
 
-Cualquier persona puede "listar" un token de la red BEP-20 en PancakeSwap . No necesitas pedirnos permiso a nosotros. Solamente deberás [añadir liquidez a un pool de liquidez](../productos/pancakeswap-exchange/swap-trading.md) - Sólo eso. Luego, los traders pueden comerciar su token ingresando el contrato del mismo en el exchange de manera manual.
+Cualquier persona puede "listar" un token de la red BEP-20 en PancakeSwap . No necesitas pedirnos permiso a nosotros. Solamente deberás [añadir liquidez a un pool de liquidez](broken-reference) - Sólo eso. Luego, los traders pueden comerciar su token ingresando el contrato del mismo en el exchange de manera manual.
 
 ### Cómo puedo añadir mi token a la lista predeterminada?
 
