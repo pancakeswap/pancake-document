@@ -12,18 +12,19 @@ The on-ramp integration and quote system offers several key benefits for our use
 4. Secure and Compliant: Our trusted partners adhere to stringent security standards and comply with all applicable regulations, prioritizing protecting user data and ensuring that transactions are carried out in a secure environment.
 5. Transparent Fee Structure: We maintain a transparent fee structure with no hidden charges. Users will have complete visibility of the exact amount they will be charged before finalizing their purchases, ensuring a fair and informed transaction process.
 
-#### Structure and Fees
+### Structure and Fees
 
-On-ramp services will be available on BNB and Ethereum chains. Major cryptocurrencies and stablecoins will be available and outlined in the table below:\
+On-ramp services will be available on **BNB, Ethereum and Arbitrum** chains. Major cryptocurrencies and stablecoins will be available and outlined in the table below:
 
 
-<table><thead><tr><th width="137">Provider</th><th width="203">Fees*</th><th>Fiat Currencies Supported</th><th>Tokens Supported**</th></tr></thead><tbody><tr><td>Mercuryo</td><td>3.95% for Debit/Credit 3.95% for Bank Transfers/SEPA (EU)</td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY, KRW, VND</td><td><p>ERC-20: ETH, USDT, USDC, DAI</p><p></p><p>BEP-20: BNB, BUSD</p></td></tr><tr><td>MoonPay</td><td><p>3.25% for Debit/Credit</p><p>1.25% for SEPA (EU) , FPS (UK)</p><p>2.95% for PIX (Brazil) 1.50% for Yellowcard (Nigeria)</p></td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY, KRW, VND</td><td><p>ERC-20: ETH, USDT, USDC,  DAI </p><p></p><p>BEP-20: BNB, BUSD</p></td></tr></tbody></table>
 
-\*Fees are subject to minimum spend and maximum - estimated to be above 30 USD and below 10,000 USD, depending on the token.
+<table><thead><tr><th width="145">Provider</th><th>Fees*</th><th>Fiat Currencies Supported</th><th>Tokens Supported**</th></tr></thead><tbody><tr><td>Mercuryo</td><td>3.95% for Debit/Credit 3.95% for Bank Transfers/SEPA (EU)</td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY, KRW, VND</td><td><p>ERC-20: ETH, USDT, DAI</p><p></p><p>BEP-20: BNB, BUSD<br><br>ARB: ETH, USDC</p></td></tr><tr><td>Moonpay</td><td><p>2.75% for Debit/Credit</p><p>1.25% for SEPA (EU), FPS (UK)</p><p>2.95% for PIX (Brazil)</p></td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY, KRW, TWD, IDR, VND</td><td><p>ERC-20: ETH, USDT, USDC, DAI<br></p><p>BEP-20: BNB (Non-US), BUSD<br><br>ARB: ETH, USDC.e</p></td></tr></tbody></table>
 
-\*PancakeSwap charges a 1% fee on top of provider fees for all Buy Crypto transactions
+\*Fees are subject to minimum spend and maximum- most likely above 30 USD and below 10,000 USD, respectively, depending on the token
 
-\*\*Please note that the availability of particular cryptocurrencies may vary based on the user's region.
+\*Minimum of $3.99 for card payments or local currency equivalent
+
+\*\*Please note that the availability of particular cryptocurrencies may vary based on the user's region
 
 Please note that the quote system will provide full transparency of the exchange rate, including fees, to recommend the best option.
 
