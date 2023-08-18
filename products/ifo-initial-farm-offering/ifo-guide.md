@@ -52,8 +52,6 @@ The IFO is a limited-time event; it usually only lasts one or two hours. You'll 
 
 IFOs will have a countdown at the top of the IFO page.
 
-The **(blocks)** link will open the BscScan explorer in a new window at the starting block.
-
 #### Use social media
 
 There isn’t a set time before an IFO goes live for the countdown to start, so check PancakeSwap’s official social media accounts for news about upcoming IFO times.
@@ -74,11 +72,11 @@ There are two sales available: Public Sale and Private Sale. It's possible to pa
 
 #### Basic Sale
 
-In the Basic Sale, each participant will be able to commit any amount of CAKE up to the maximum commit limit for the Basic Sale, which will be published along with the IFO voting proposal. There's no fee in the Basic Sale.
+In the Basic Sale, each participant will be able to commit any amount of CAKE up to the maximum commit limit for the Basic Sale, which will be published along with the IFO voting proposal. There's no fee for the Basic Sale.
 
-There is **NO** requirement for participating in the Basic Sale. However, to ensure the IFO is fair to everyone. There will potentially be a small fee. To learn more about the participation fees, please refer to the details in the IFO proposal (vote) for the specifics of the IFO you want to take part in.
+There is **NO** requirement for participating in the Basic Sale. However, to ensure the IFO is fair to everyone. There will potentially be a small fee. To learn more about the participation fees, please refer to the details in the IFO proposal (vote) for the specifics of the IFO you want to take part.
 
-Additionally, the allocation for Basic Sale is usually small when compared to Public or Private Sales. To purchase more tokens, check out Private or Public sales.&#x20;
+Additionally, the allocation for Basic Sales is usually small compared to Public or Private Sales. To purchase more tokens, check out the other sales.
 
 The final amount of IFO tokens one will get will be determined using the “Overflow” sale method.
 
@@ -104,29 +102,25 @@ In the “Overflow” method, users can subscribe as much as they want to the IF
 
 ### **Committing CAKE to the Basic Sale**
 
-1\. Let's commit some CAKE to the Basic Sale. Click the **Commit** button under Public Sale. A window will appear.
+1. Let's commit some CAKE to the Basic Sale. Click the **Commit** button under Basic Sale. A window will appear.
+2.  In the new window, choose the amount of CAKE you want to commit in the field.
 
-2\. In the new window, choose the amount of CAKE you want to commit in the field.
+    Remember, you can only commit up to the commit limit of the Basic Sale. And any CAKE you cannot spend on new tokens will be returned to you, so you don’t need to worry about losing any tokens.
+3.  Click the **Confirm** button and confirm the action with your wallet. Once your CAKE is committed, the Basic Sale section will show your committed amount.
 
-Remember, you can only commit up to to the number of iCAKE you have. And any CAKE you cannot spend on new tokens will be returned to you, so you don’t need to worry about losing any tokens.
-
-3\. Click the **Confirm** button and confirm the action with your wallet. Once your CAKE are committed, the Public Sale section will show your committed amount.
-
-You can add more CAKE at any time during the IFO event as long as you haven’t reached the maximum limit. If you have, you will see "Max Committed" on the faded button. Keep in mind there is a fee for the Public Sale, listed next to “Additional fee”.
+    You can add more CAKE at any time during the IFO event as long as you haven’t reached the maximum limit. If you have, you will see "Max Committed" on the faded button.
+4. If there is a fee for the Basic Sale, it will be listed next to “Additional fee”.
 
 If you don’t want to commit more CAKE to the IFO, you can skip ahead to the next section, Collecting your new tokens.
 
 ### **Committing CAKE to the Public Sale**
 
-1\. Let's commit some CAKE to the Public Sale. Click the **Commit** button under Public Sale. A window will appear.
+1. Let's commit some CAKE to the Public Sale. Click the **Commit** button under Public Sale. A window will appear.
+2.  In the new window, choose the amount of CAKE you want to commit in the field.
 
-2\. In the new window, choose the amount of CAKE you want to commit in the field.
-
-Remember, you can only commit up to to the number of iCAKE you have. And any CAKE you cannot spend on new tokens will be returned to you, so you don’t need to worry about losing any tokens.
-
-3\. Click the **Confirm** button and confirm the action with your wallet. Once your CAKE are committed, the Public Sale section will show your committed amount.
-
-You can add more CAKE at any time during the IFO event as long as you haven’t reached the maximum limit. If you have, you will see "Max Committed" on the faded button. Keep in mind there is a fee for the Public Sale, listed next to “Additional fee”.
+    Remember, you can only commit up to to the number of iCAKE you have. And any CAKE you cannot spend on new tokens will be returned to you, so you don’t need to worry about losing any tokens.
+3. Click the **Confirm** button and confirm the action with your wallet. Once your CAKE are committed, the Public Sale section will show your committed amount.
+4. You can add more CAKE at any time during the IFO event as long as you haven’t reached the maximum limit. If you have, you will see "Max Committed" on the faded button. Keep in mind there is a fee for the Public Sale, listed next to “Additional fee”.
 
 If you don’t want to commit more CAKE to the IFO, you can skip ahead to the next section, Collecting your new tokens.
 
@@ -134,15 +128,12 @@ If you don’t want to commit more CAKE to the IFO, you can skip ahead to the ne
 
 ![](<../../.gitbook/assets/image (59) (3).png>)
 
-1\. The checkbox in the Private Sale card will light up if you are eligible to participate in the Private Sale. To use your CAKE in the Private Sale, click the **Commit** button under Private Sale. A window will appear.
+1. The checkbox in the Private Sale card will light up if you are eligible to participate in the Private Sale. To use your CAKE in the Private Sale, click the **Commit** button under Private Sale. A window will appear.
+2.  In the new window, choose the amount of CAKE you want to commit in the field.
 
-2\. In the new window, choose the amount of CAKE you want to commit in the field.
-
-Remember, you can only commit the amount of CAKE equal to the maximum commit limit for the Private Sale. And any CAKE you cannot spend on new tokens will be returned to you, so you don’t need to worry about losing any tokens.
-
-3\. Click the **Confirm** button and confirm the action with your wallet. Once your CAKE are committed, the Private Sale section will show your committed amount.
-
-You can add more CAKE at any time during the IFO event as long as you haven’t reached the maximum limit. If you have, you will see "Max Committed" on the faded button.&#x20;
+    Remember, you can only commit the amount of CAKE equal to the maximum commit limit for the Private Sale. And any CAKE you cannot spend on new tokens will be returned to you, so you don’t need to worry about losing any tokens.
+3. Click the **Confirm** button and confirm the action with your wallet. Once your CAKE are committed, the Private Sale section will show your committed amount.
+4. You can add more CAKE at any time during the IFO event as long as you haven’t reached the maximum limit. If you have, you will see "Max Committed" on the faded button.&#x20;
 
 ## After the IFO has ended
 
