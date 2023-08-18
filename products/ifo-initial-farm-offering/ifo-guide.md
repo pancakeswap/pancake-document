@@ -62,7 +62,7 @@ The countdown and announcements will give you plenty of time to prepare.
 
 ## **Once the IFO is live**
 
-While an IFO is live, you will have 1 hour to participate. If you have done the steps above and have CAKE tokens in your wallet, it doesn’t take long at all to buy the new token.
+While an IFO is live, you will have 1 or 2 hours to participate. (check the IFO page progress bar and timer for more details) If you have done the steps above and have CAKE tokens in your wallet, it doesn’t take long at all to buy the new token.
 
 ### Checking if the IFO is live
 
@@ -71,6 +71,16 @@ On the IFO page, look where the event start countdown was. You will now see a co
 ### **Which type of sale should I choose: Basic or Unlimited?**
 
 There are two sales available: Public Sale and Private Sale. It's possible to participate in both sales if you want to, but each has conditions. You will need to choose which sale you would like to participate in.
+
+#### Basic Sale
+
+In the Basic Sale, each participant will be able to commit any amount of CAKE up to the maximum commit limit for the Basic Sale, which will be published along with the IFO voting proposal. There's no fee in the Basic Sale.
+
+There is **NO** requirement for participating in the Basic Sale. However, to ensure the IFO is fair to everyone. There will potentially be a small fee. To learn more about the participation fees, please refer to the details in the IFO proposal (vote) for the specifics of the IFO you want to take part in.
+
+Additionally, the allocation for Basic Sale is usually small when compared to Public or Private Sales. To purchase more tokens, check out Private or Public sales.&#x20;
+
+The final amount of IFO tokens one will get will be determined using the “Overflow” sale method.
 
 #### **Public Sale**
 
@@ -86,11 +96,25 @@ Each participant will be able to commit any amount of CAKE up to the maximum com
 
 The final amount of IFO tokens one will get will be determined using the “Overflow” sale method.
 
-**Overflow Sale Method**
+### **Overflow Sale Method**
 
 Basically, the more you put in, the more you will get, and you’ll get back anything that doesn’t get spent.
 
 In the “Overflow” method, users can subscribe as much as they want to the IFO, and their final allocation will be based on the amount of funds they put in as a percentage of all funds put in by other users at the time the sale ends. Users will get back any leftover funds when they claim their tokens after the sale.
+
+### **Committing CAKE to the Basic Sale**
+
+1\. Let's commit some CAKE to the Basic Sale. Click the **Commit** button under Public Sale. A window will appear.
+
+2\. In the new window, choose the amount of CAKE you want to commit in the field.
+
+Remember, you can only commit up to to the number of iCAKE you have. And any CAKE you cannot spend on new tokens will be returned to you, so you don’t need to worry about losing any tokens.
+
+3\. Click the **Confirm** button and confirm the action with your wallet. Once your CAKE are committed, the Public Sale section will show your committed amount.
+
+You can add more CAKE at any time during the IFO event as long as you haven’t reached the maximum limit. If you have, you will see "Max Committed" on the faded button. Keep in mind there is a fee for the Public Sale, listed next to “Additional fee”.
+
+If you don’t want to commit more CAKE to the IFO, you can skip ahead to the next section, Collecting your new tokens.
 
 ### **Committing CAKE to the Public Sale**
 

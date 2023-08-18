@@ -16,20 +16,25 @@ Learn [how to participate in IFO](ifo-guide.md).
 
 Visit [https://pancakeswap.finance/ifo](https://pancakeswap.finance/ifo) to find out more about IFOs.
 
-Before Sale:
+**Before Sale:**
 
 1. [Complete your PancakeSwap profile setup](../nft-market/nft-profile-system/profile-guide.md).
 2. [Buy CAKE](https://exchange.pancakeswap.finance/?\_gl=1\*1bc8owa\*\_ga\*ODA4ODE5MjM4LjE2MDUxNTI3NTE.\*\_ga\_334KNG3DMQ\*MTYwNTQ4OTEwNy4yNi4xLjE2MDU0ODkxMjcuMA..#/swap) tokens
 3. [Lock CAKE in the CAKE syrup pool](../coming-soon/new-cake-pool/fixed-term-staking.md) to get iCAKE.
 
-During Sale:
+**During Sale:**
 
 1. While the sale is live, commit your CAKE tokens to buy the IFO tokens at [https://pancakeswap.finance/ifo](https://pancakeswap.finance/ifo)
 
-After Sale:
+**After Sale:**
 
 1. When the sale is complete, claim the IFO tokens you've bought.
 2. Done! In the case of an [overflow](https://app.gitbook.com/@pancakeswap-1/s/pancakeswap/\~/drafts/-MMK-KmBq5\_Mfs94Ul6x/core-products/ifo-initial-farm-offering#overflow) you can reclaim your remaining CAKE tokens.
+3. In the case of an IFO with token vesting, come back to the IFO page throughout the vesting period to claim the released tokens until the end of the vesting period.
+
+## How to participate in a CrossChain IFO
+
+(coming soon)
 
 ## **What is the “Overflow” sale method?** <a href="#overflow" id="overflow"></a>
 
@@ -38,7 +43,7 @@ TLDR: Basically, the more you put in, the more you will get, and you’ll get ba
 In the “Overflow” method, users can subscribe as much or as little as they want to the IFO, and their final allocation will be based on the amount of funds they put in as a percentage of all funds put in by other users at the time the sale ends. Users will receive back any leftover funds when they claim their tokens after the sale.
 
 {% hint style="warning" %}
-It's possible to receive no tokens at all: If you commit a very small amount of CAKE compared to the total amount committed by others, your contribution may be such a small part of the total that you may not qualify for even a small portion of the tokens sold.\
+**It's possible to receive no tokens at all**: If you commit a very small amount of CAKE compared to the total amount committed by others, your contribution may be such a small part of the total that you may not qualify for even a small portion of the tokens sold.\
 In such a case, you will still be able to reclaim all the CAKE tokens you committed.
 {% endhint %}
 
