@@ -33,4 +33,8 @@ Suggestions here will not cover all things that can be done in the game, but her
 * Arena
 * Squad and Bunny NFT integration
 
-There are many multiplayer aspects to the game; we encourage users to actively participate and enjoy the multiplayer aspects so that they can get the best experience.\
+There are many multiplayer aspects to the game; we encourage users to actively participate and enjoy the multiplayer aspects so that they can get the best experience.
+
+### **Update**&#x20;
+
+**Season 7: CAKE Reward Revamp:** We're redistributing the sweetness! 🎂 We will decrease the CAKE rewards for Legion War while Duel of Kings & Cross-Server Peak Arena will enjoy boosted rewards! 📈 Updated prize pool percentages and allocations for a richer gameplay experience. 🥧🏆 Please refer in-game for details
