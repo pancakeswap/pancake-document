@@ -56,7 +56,7 @@ iCAKE 类似于之前 IFO CAKE质押池中的"IFO 积分“，该池在 主厨�
 
 <div align="center">
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption><p>图片仅供参考，实际「阈值」周数可于当期IFO界面查看。</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (32) (1).png" alt=""><figcaption><p>图片仅供参考，实际「阈值」周数可于当期IFO界面查看。</p></figcaption></figure>
 
 </div>
 

@@ -35,7 +35,7 @@ description: 在PancakeSwap上使用农场非常简单！
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (4) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -97,7 +97,7 @@ description: 在PancakeSwap上使用农场非常简单！
 
 如果你有多个已经质押仓位，你可以点击 "查看全部"，并在新的弹出窗口中查看它们。
 
-![](<../../.gitbook/assets/image (6) (3).png>)
+![](<../../.gitbook/assets/image (6) (2).png>)
 
 点击对应流动性仓位旁边的 "收割"，之后你的钱包弹出提示供你确认。等待区块确认后，CAKE 奖励将被发送到你的钱包。
 
@@ -242,7 +242,7 @@ description: 在PancakeSwap上使用农场非常简单！
 当你在 BNB 链以外的 EVM 区块链上使用跨链农场时，你将需切换到 BNB 智能链来收割您的农场奖励。\
 如果你的钱包不支持多链之间的切换，操作质押或取消质押 LP 代币将自动收割你的 CAKE。请注意，收割的 CAKE 将在 BNB 智能链上分发。
 
-![](<../../.gitbook/assets/image (32) (1).png>)
+![](<../../.gitbook/assets/image (32) (1) (1).png>)
 {% endhint %}
 
 ## 我应该多久收割一次我的奖励？

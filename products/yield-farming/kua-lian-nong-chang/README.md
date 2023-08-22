@@ -4,9 +4,9 @@ description: 通过在其他区块链上耕作获得同样可口的 CAKE 奖励
 
 # 跨链农场
 
-<figure><img src="../../../.gitbook/assets/image (2) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-通过多链部署，PancakeSwap 现在将 PancakeSwap标志性的农场体验带给其他区块链上的用户。农场允许用户在通过质押 LP 代币支持 PancakeSwap 的同时赚取 CAKE。&#x20;
+通过多链部署，PancakeSwap 现在将 PancakeSwap 标志性的农场体验带给其他区块链上的用户。农场允许用户在通过质押 LP 代币支持 PancakeSwap 的同时赚取 CAKE。&#x20;
 
 查看[主章节](../../yield-farming.md)以了解有关农场的更多信息。&#x20;
 

@@ -1,14 +1,16 @@
 # 社交媒体与社区
 
+![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbFSP32KpyXLujbE6FD%2F-MbFS\_7dZYjmW5bxttCI%2Fdocs%20masthead%20\(22\).png?alt=media\&token=388670fb-9f6d-4a19-b434-ffd618be1c03)
+
 在这里您可以找到 PancakeSwap 的官方社交媒体渠道和社区列表。如果英语不是您的第一语言，我们也有许多非英语社区，期待您的加入！
 
 ### 🐦 推特
 
 [https://twitter.com/pancakeswap](https://twitter.com/pancakeswap)
 
-### 📰 博客
+### 📰 博客 (Medium)
 
-{% embed url="https://blog.pancakeswap.finance/" %}
+{% embed url="https://medium.com/@pancakeswap" %}
 
 ### 👽 Reddit
 
@@ -20,7 +22,7 @@
 
 ### 🤖Discord
 
-官方 Discord 服务器于2021 年 11 月 24 日上线啦！下方是唯一官方链接！
+官方Discord伺服器于2021年11月24日上线啦！下方是唯一官方链接！
 
 [https://discord.gg/pancakeswap](https://discord.gg/pancakeswap)
 

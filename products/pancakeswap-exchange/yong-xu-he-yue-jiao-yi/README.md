@@ -1,5 +1,5 @@
 ---
-description: 持续不断优化中！
+description: 优化进行中！
 ---
 
 # 永续合约交易
