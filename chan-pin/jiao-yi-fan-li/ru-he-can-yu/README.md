@@ -1,6 +1,6 @@
 # 如何参与
 
-<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 目前我们有两种不同的活动：
 
@@ -23,6 +23,6 @@
 [ding-ji-jiao-yi-zhe-jiao-yi-fan-li-huo-dong.md](ding-ji-jiao-yi-zhe-jiao-yi-fan-li-huo-dong.md)
 {% endcontent-ref %}
 
-{% content-ref url="cake-suo-cang-yong-hu-jiao-yi-fan-li-huo-dong.md" %}
-[cake-suo-cang-yong-hu-jiao-yi-fan-li-huo-dong.md](cake-suo-cang-yong-hu-jiao-yi-fan-li-huo-dong.md)
+{% content-ref url="../ru-he-can-yu.md" %}
+[ru-he-can-yu.md](../ru-he-can-yu.md)
 {% endcontent-ref %}

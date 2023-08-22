@@ -138,7 +138,7 @@
 
 4\. 在\_pid 下方，您会看到“\_amount”。 输入您想从池中提取的 LP 数量。
 
-<figure><img src="../.gitbook/assets/image (10) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ​​5.检查信息，然后单击"**Write**"写入。 在 MetaMask 中确认您的操作。
 

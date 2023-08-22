@@ -10,8 +10,8 @@
 [ding-ji-jiao-yi-zhe-jiao-yi-fan-li-huo-dong.md](ru-he-can-yu/ding-ji-jiao-yi-zhe-jiao-yi-fan-li-huo-dong.md)
 {% endcontent-ref %}
 
-{% content-ref url="ru-he-can-yu/cake-suo-cang-yong-hu-jiao-yi-fan-li-huo-dong.md" %}
-[cake-suo-cang-yong-hu-jiao-yi-fan-li-huo-dong.md](ru-he-can-yu/cake-suo-cang-yong-hu-jiao-yi-fan-li-huo-dong.md)
+{% content-ref url="ru-he-can-yu.md" %}
+[ru-he-can-yu.md](ru-he-can-yu.md)
 {% endcontent-ref %}
 
 {% hint style="warning" %}
@@ -20,6 +20,6 @@
 
 如果有任何问题可以查看我们的常见问题解答：
 
-{% content-ref url="jiao-yi-fan-li-faq.md" %}
-[jiao-yi-fan-li-faq.md](jiao-yi-fan-li-faq.md)
+{% content-ref url="chang-jian-wen-ti-jie-da.md" %}
+[chang-jian-wen-ti-jie-da.md](chang-jian-wen-ti-jie-da.md)
 {% endcontent-ref %}

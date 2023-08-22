@@ -9,17 +9,17 @@
 * 直接在[交易返利页面](https://pancakeswap.finance/trading-reward)上查看&#x20;
 * 查看 [PancakeSwap 首页](https://pancakeswap.finance/)上的活动横幅
 
-<figure><img src="../../../.gitbook/assets/rebate-homepage.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/rebate-homepage.png" alt=""><figcaption></figcaption></figure>
 
 * 从[兑换页面](https://pancakeswap.finance/swap?showTradingReward=true)的 "热门代币" 列表中寻找💝图标。或者使用筛选功能来查看有交易返利的代币对。
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/trading-reward1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/trading-reward1.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
-* 查看我们的[社媒渠道](<../../../contact-us/telegram (1).md>)来了解。
+* 查看我们的[社媒渠道](<../../contact-us/telegram (1).md>)来了解。
 
 ## 检查您的地址是否符合条件&#x20;
 
@@ -33,7 +33,7 @@
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/trading-reward2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/trading-reward2.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -54,7 +54,7 @@
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (19).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -64,7 +64,7 @@
 * 您能从活动中获得的最大 CAKE 金额--由您锁仓的 CAKE 金额决定（只有在您超过限额时才可见）&#x20;
 * 您在所有符合条件的代币对中的交易量
 
-<figure><img src="../../../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 此外，您可以查看 "返利明细（Rewards Breakdown）" 部分，以详细了解您交易的每一个代币对。
 
@@ -72,7 +72,7 @@
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (2) (5).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -80,7 +80,7 @@
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (3) (5).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
