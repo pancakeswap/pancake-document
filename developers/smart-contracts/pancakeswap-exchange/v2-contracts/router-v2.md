@@ -11,25 +11,14 @@ For more in-depth information on the core contract logic, read the [Uniswap v2 C
 
 View [PancakeRouter.sol on GitHub](https://github.com/pancakeswap/pancake-smart-contracts/blob/master/projects/exchange-protocol/contracts/PancakeRouter.sol).
 
-**Binance smart chain**\
-Contract address**:** 0x10ED43C718714eb63d5aA57B78B54704E256024E\
-View the [PancakeSwap: Router v2 contract on BscScan](https://bscscan.com/address/0x10ed43c718714eb63d5aa57b78b54704e256024e).
-
-**Ethereum mainnet**\
-Contract address**:** 0xEfF92A263d31888d860bD50809A8D171709b7b1c\
-View the [PancakeSwap: Router v2 contract on Etherscan](https://etherscan.io/address/0xEfF92A263d31888d860bD50809A8D171709b7b1c).
-
-**zkEVM**\
-Contract address**:** 0x8cFe327CEc66d1C090Dd72bd0FF11d690C33a2Eb\
-View the [PancakeSwap: Router v2 contract on zkEVM](https://zkevm.polygonscan.com/address/0x8cFe327CEc66d1C090Dd72bd0FF11d690C33a2Eb#code)
-
-**zkSync**\
-Contract address**:** 0x5aEaF2883FBf30f3D62471154eDa3C0c1b05942d\
-View the [PancakeSwap: Router v2 contract on zkSync](https://explorer.zksync.io/address/0x5aEaF2883FBf30f3D62471154eDa3C0c1b05942d)
-
-**Arbitrum**\
-Contract address: 0x8cFe327CEc66d1C090Dd72bd0FF11d690C33a2Eb\
-View the [PancakeSwap: Router v2 contract on Arbitrum](https://arbiscan.io/address/0x8cFe327CEc66d1C090Dd72bd0FF11d690C33a2Eb)
+| Chain    | Address                                    |
+| -------- | ------------------------------------------ |
+| BSC      | 0x10ED43C718714eb63d5aA57B78B54704E256024E |
+| ETH      | 0xEfF92A263d31888d860bD50809A8D171709b7b1c |
+| zkEVM    | 0x8cFe327CEc66d1C090Dd72bd0FF11d690C33a2Eb |
+| zkSync   | 0x5aEaF2883FBf30f3D62471154eDa3C0c1b05942d |
+| Arbitrum | 0x8cFe327CEc66d1C090Dd72bd0FF11d690C33a2Eb |
+| Linea    | 0x8cFe327CEc66d1C090Dd72bd0FF11d690C33a2Eb |
 
 ## Read functions
 

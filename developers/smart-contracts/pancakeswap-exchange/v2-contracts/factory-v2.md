@@ -11,25 +11,14 @@ For more in-depth information on the core contract logic, read the [Uniswap v2 C
 
 View [PancakeFactory.sol on GitHub](https://github.com/pancakeswap/pancake-contracts/blob/master/projects/exchange-protocol/contracts/PancakeFactory.sol).
 
-**Binance smart chain**\
-Contract address**:** 0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73\
-View the [PancakeSwap: Factory v2 contract on BscScan](https://bscscan.com/address/0xca143ce32fe78f1f7019d7d551a6402fc5350c73).
-
-**Ethereum mainnet**\
-Contract address**:** 0x1097053Fd2ea711dad45caCcc45EfF7548fCB362\
-View the [PancakeSwap: Factory v2 contract on Etherscan](https://etherscan.io/address/0x1097053Fd2ea711dad45caCcc45EfF7548fCB362).
-
-**zkEVM**\
-Contract address**:** 0x02a84c1b3BBD7401a5f7fa98a384EBC70bB5749E\
-View the [PancakeSwap: Factory v2 contract on zkEVM](https://zkevm.polygonscan.com/address/0x02a84c1b3BBD7401a5f7fa98a384EBC70bB5749E)
-
-**zkSync**\
-Contract address**:** 0xd03D8D566183F0086d8D09A84E1e30b58Dd5619d\
-View the [PancakeSwap: Factory v2 contract on zkSync](https://explorer.zksync.io/address/0xd03D8D566183F0086d8D09A84E1e30b58Dd5619d)
-
-**Arbitrum**\
-Contract address: 0x02a84c1b3BBD7401a5f7fa98a384EBC70bB5749E\
-View the [PancakeSwap: Factory v2 contract on Arbitrum ](https://arbiscan.io/address/0x02a84c1b3BBD7401a5f7fa98a384EBC70bB5749E)
+| Chain    | Address                                    |
+| -------- | ------------------------------------------ |
+| BSC      | 0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73 |
+| ETH      | 0x1097053Fd2ea711dad45caCcc45EfF7548fCB362 |
+| zkEVM    | 0x02a84c1b3BBD7401a5f7fa98a384EBC70bB5749E |
+| zkSync   | 0xd03D8D566183F0086d8D09A84E1e30b58Dd5619d |
+| Arbitrum | 0x02a84c1b3BBD7401a5f7fa98a384EBC70bB5749E |
+| Linea    | 0x02a84c1b3BBD7401a5f7fa98a384EBC70bB5749E |
 
 ## Read functions
 

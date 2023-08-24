@@ -10,23 +10,7 @@ description: >-
 
 **Contract name:** PancakeFactory
 
-Contract address: `0x0BFbCF9fa4f9C56B0F40a671Ad40E0805A091865`
-
-View the [PancakeSwap: Factory v3 contract on BscScan](https://bscscan.com/address/0x0BFbCF9fa4f9C56B0F40a671Ad40E0805A091865).
-
-View the [PancakeSwap: Factory v3 contract on BscScan](https://testnet.bscscan.com/address/0xca143ce32fe78f1f7019d7d551a6402fc5350c73) [testnet](https://bscscan.com/address/0xca143ce32fe78f1f7019d7d551a6402fc5350c73) .
-
-View the [PancakeSwap: Factory v3 contract on EtherScan](https://etherscan.io/address/0x0BFbCF9fa4f9C56B0F40a671Ad40E0805A091865).
-
-View the [PancakeSwap: Factory v3 contract on EtherScan Goerli](https://goerli.etherscan.io/address/0x0BFbCF9fa4f9C56B0F40a671Ad40E0805A091865).
-
-View the [PancakeSwap: Factory v3 contract on zkEvm](https://zkevm.polygonscan.com/address/0x0BFbCF9fa4f9C56B0F40a671Ad40E0805A091865)&#x20;
-
-View the [PancakeSwap: Factory v3 contract on zkEvm testnet](https://testnet-zkevm.polygonscan.com/address/0x2430dbd123BC40f8Be6110065a448C1aA0619Cb1#code) &#x20;
-
-View the [PancakeSwap: Factory v3 contract on zkSync](https://explorer.zksync.io/address/0x1BB72E0CbbEA93c08f535fc7856E0338D7F7a8aB)
-
-View the [PancakeSwap: Factory v3 contract on zkSync testnet](https://goerli.explorer.zksync.io/address/0x48e6Bc3f2546E63908cd09b04E2B3f78e57B6292)
+[Contract address](./#address)
 
 
 

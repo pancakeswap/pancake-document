@@ -2,21 +2,7 @@
 
 ### Contract Info
 
-BSC Address: `0x13f4EA83D0bd40E75C8222255bc855a974568Dd4`
-
-Ethereum Address: `0x13f4EA83D0bd40E75C8222255bc855a974568Dd4`
-
-BSC testnet Address: `0x9a489505a00cE272eAa5e07Dba6491314CaE3796`
-
-Goerli Address: `0x9a489505a00cE272eAa5e07Dba6491314CaE3796`
-
-zkEVM Address: 0x678Aa4bF4E210cf2166753e054d5b7c31cc7fa86
-
-zkEVM Testnet Address: 0x365C5F0B816828936320ea143e337fbA7D1b911E
-
-zkSync Address: 0xf8b59f3c3Ab33200ec80a8A58b2aA5F5D2a8944C
-
-zkSync Testnet Address: 0x4DC9186c6C5F7dd430c7b6D8D513076637902241
+[Contract address](../#address)
 
 {% hint style="info" %}
 ### Notice
