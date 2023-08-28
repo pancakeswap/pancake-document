@@ -6,9 +6,11 @@ ALP is a non-transferrable token representing that powers liquidity on PancakeSw
 
 #### Buying/Minting ALP
 
-1. Click to access the PancakeSwap ALP Dashboard page and connect your wallet
+1. Click to access the PancakeSwap ALP Pool (V2) page and connect your wallet
 2. After connecting your wallet, click **Buy ALP**. You can use any ALP pool asset to buy ALP.
 3. After confirming the information, click **Buy ALP** to complete the transaction.
+
+<figure><img src="../../../../../../.gitbook/assets/Buy ALP Module.png" alt=""><figcaption></figcaption></figure>
 
 **Staking ALP (Arbitrum)**
 
@@ -22,7 +24,7 @@ ALP is a non-transferrable token representing that powers liquidity on PancakeSw
 
 **Selling ALP**
 
-1. &#x20;Click to access the ApolloX LP Dashboard page and connect your wallet
+1. &#x20;Click to access the ALP Pool (V2) page and connect your wallet
 2. After connecting your wallet, click on **Sell ALP**.
 
 Selling ALP Conditions:
