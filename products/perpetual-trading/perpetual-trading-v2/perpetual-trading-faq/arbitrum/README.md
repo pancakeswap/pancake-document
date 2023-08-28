@@ -14,5 +14,8 @@ The new ApolloX ($ALP) Syrup Pool on Arbitrum allows users to earn a boosted yie
 
 ### What are the available tokens for Arbitrum?
 
-The new ApolloX ($ALP) Syrup Pool on Arbitrum allows users to earn a boosted yield. Users can stake $ALP tokens to earn rewards in $CAKE tokens with over 20% APY at launch. ALP syrup pool on PancakeSwap . For more details on the syrup pool, including emissions and start and end dates, please refer to the proposal [here](https://pancakeswap.finance/voting/proposal/0x52455da15b4f1ff4d324c1e7645163d6b78b2221a98a4782bff16b27de409ce9).
+Supported trading pairs on Arbitrum One are ARBUSD, XRPUSD, DOGEUSD, ETHUSD and BTCUSD. For Degen mode, ETHUSD and BTCUSD are supported. We will look to roll out more pairs in the coming weeks.
 
+### I topped up my wallet with USDC on Arbitrum; why can't I see it?
+
+It is most likely that you've topped up native USDC on Aribtrum ([0xaf88d065e77c8cC2239327C5EDb3A432268e5831](https://arbiscan.io/token/0xaf88d065e77c8cC2239327C5EDb3A432268e5831)). However, PancakeSwap Perpetuals supports Bridged USDC, USDC.e ([0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8](https://arbiscan.io/token/0xff970a61a04b1ca14834a43f5de4533ebddb5cc8)) as it has higher liquidity. You can swap USDC to USDC.e seamlessly [here](https://pancakeswap.finance/swap?chain=arb\&outputCurrency=0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8\&inputCurrency=0xaf88d065e77c8cC2239327C5EDb3A432268e5831). For more information on the difference between USDC and USDC.e, please refer to the [Circle USDC ](https://www.circle.com/blog/arbitrum-usdc-now-available)press release.
