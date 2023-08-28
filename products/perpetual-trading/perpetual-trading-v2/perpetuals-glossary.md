@@ -42,3 +42,5 @@ Users can close their positions by clicking on "Close Position".
 #### Fees and Slippage
 
 Please visit the [ApolloX V2 page](https://apollox-finance.gitbook.io/apollox-finance/welcome/trading-v2/faq/fees-and-slippage) for more information on Fees.
+
+\*For Arbitrum, opening and closing fees will start at 0.05% for the first 30days of trading starting on 28 August 2023

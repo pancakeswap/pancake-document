@@ -1,18 +1,14 @@
 ---
-description: ApolloX will launch 5th Epoch of Trading Rewards Program on V2
+description: ApolloX will launch Trading Rewards Program on V2
 ---
 
-# V2 Trading Rewards Program
-
-Dear PancakeSwap Users,
-
-In partnership with ApolloX, the 5th Trading Rewards Program will be launced on 26th June 2023. The dollar value multiplier will be updated to 0.70 during this epoch. All other parameters remain the same.
+# Trading Rewards Program
 
 ### Reward Program Overview
 
 The details are as follows:
 
-Activity period: 26th June 2023, 00:00 (UTC) - 10th July 2023, 23:59 (UTC)
+Activity period: Dates vary from cycle to cycle and for different chains
 
 Rewards Distribution Time: Each cycle is 00:00 (UTC) to 23:59 (UTC) daily. Rewards are issued on the next day at around 03:00 (UTC). Users have to claim their rewards within 30 days after the rewards are issued. If they do not, the platform will revoke the rewards.&#x20;
 
