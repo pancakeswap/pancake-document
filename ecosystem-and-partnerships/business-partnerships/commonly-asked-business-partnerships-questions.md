@@ -16,9 +16,7 @@ Qualifying criteria for Community Farms and Core Farms/Pools are based on our in
 
 If you’ve already got an ongoing Pool and Farm, you may be able to extend the timeline with additional release of tokens.\
 \
-If you wish to increase the multiplier, the team will consider it if the 30-day volume is increased. Contact us via your existing PancakeSwap communication channels for enquiries.
-
-\
+If you wish to increase the multiplier, the team will consider it if the 30-day volume is increased. Contact us via your existing PancakeSwap communication channels for enquiries.\
 
 
 ### Listing on the Exchange
@@ -49,10 +47,9 @@ Check our [Troubleshooting page](https://docs.pancakeswap.finance/readme/help/tr
 
 Tokens need to be paired with a “common” token, and have a minimum amount of liquidity denominated in the “common” token for the Info page to start indexing the token pair. The statistics of the underlying token will be shown once the token pair is indexed.&#x20;
 
-These are our liquidity requirements across the different chains:\
+These are our liquidity requirements across the different chains:
 
-
-| Chain         | Liquidity Requirement  | “Common” Tokens                                           |
+| Chain         | Liquidity Requirement  | "Common" Tokens                                           |
 | ------------- | ---------------------- | --------------------------------------------------------- |
 | BNB Chain     | 10 BNB                 | WBNB, USDT, BUSD, USDC, BTCB, WETH, CAKE                  |
 | Ethereum      | 5 ETH                  | WETH, DAI, USDC, USDT, WBTC, LINK, FEI, MATIC, AAVE, CAKE |

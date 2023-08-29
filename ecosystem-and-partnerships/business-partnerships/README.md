@@ -38,8 +38,8 @@ Here’s how we can work together:
 
 4\. We’re hosting an NFT Marketplace on BNB Chain. Find out about our listing requirements
 
-{% content-ref url="nft-market-applications.md" %}
-[nft-market-applications.md](nft-market-applications.md)
+{% content-ref url="../contact-us/nft-market-applications.md" %}
+[nft-market-applications.md](../contact-us/nft-market-applications.md)
 {% endcontent-ref %}
 
 For commonly asked business partnerships questions

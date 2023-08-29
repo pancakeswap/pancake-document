@@ -147,7 +147,7 @@
   * [💼 Business Partnerships](ecosystem-and-partnerships/business-partnerships/README.md)
     * [🥞 Syrup Pools and Farms](ecosystem-and-partnerships/business-partnerships/syrup-pools-and-farms.md)
     * [🧑🌾 Initial Farm Offerings - IFOs](ecosystem-and-partnerships/business-partnerships/initial-farm-offerings-ifos.md)
-    * [🖼 NFT Marketplace](ecosystem-and-partnerships/business-partnerships/nft-market-applications.md)
+    * [🖼 NFT Marketplace](ecosystem-and-partnerships/contact-us/nft-market-applications.md)
     * [❓ Commonly Asked Business Partnerships Questions](ecosystem-and-partnerships/business-partnerships/commonly-asked-business-partnerships-questions.md)
 * [Developers](developers/README.md)
   * [Contributing](developers/contributing/README.md)
