@@ -18,7 +18,7 @@
 
 [如何交易代币](../products/pancakeswap-exchange/ru-he-jin-hang-jiao-yi.md)
 
-[如何增加/移除流动性](../products/pancakeswap-exchange/ru-he-tian-jia-yi-chu-liu-dong-xing.md)
+[如何添加/移除流动性](../chan-pin/pancakeswap-exchange/tian-jia-yi-chu-liu-dong-xing.md)
 
 [如何使用农场](../products/yield-farming.md)
 

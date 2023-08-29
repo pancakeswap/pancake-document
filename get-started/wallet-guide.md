@@ -315,7 +315,7 @@ Binance Wallet （币安钱包）是一个浏览器插件钱包，原生支持 B
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](<../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1) (1).png>)
 
 Token Pocket 是适用于 Mac OS 和 Win64 设备的独立应用程序。 Token Pocket 允许您在独立于浏览器的软件中管理您的加密货币。&#x20;
 

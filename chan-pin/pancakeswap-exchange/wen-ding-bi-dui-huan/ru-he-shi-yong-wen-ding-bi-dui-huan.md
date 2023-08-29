@@ -12,4 +12,4 @@
 
 ## 添加&移除流动性
 
-知道如何在稳定币兑换 (StableSwap) 添加和移除流动性也是很重要的一环，他的操作步骤与一般 PancakeSwap AMM 的操作步骤非常接近。请参阅[此处的指南](../ru-he-tian-jia-yi-chu-liu-dong-xing.md)以获取更详细的说明。PancakeSwap 稳定币兑换流动性池的名称显示为 "Stable LP" 。
+知道如何在稳定币兑换 (StableSwap) 添加和移除流动性也是很重要的一环，他的操作步骤与一般 PancakeSwap AMM 的操作步骤非常接近。请参阅[此处的指南](../tian-jia-yi-chu-liu-dong-xing.md)以获取更详细的说明。PancakeSwap 稳定币兑换流动性池的名称显示为 "Stable LP" 。

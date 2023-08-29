@@ -1,6 +1,6 @@
 # 如何参与
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (225).png" alt=""><figcaption></figcaption></figure>
 
 目前我们有两种不同的活动：
 

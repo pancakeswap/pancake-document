@@ -51,7 +51,7 @@ description: FAQ
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (4).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 

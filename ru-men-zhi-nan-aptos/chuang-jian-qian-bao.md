@@ -2,7 +2,7 @@
 
 <figure><img src="../.gitbook/assets/how-to-make-a-crypto-wallet-header (1).png" alt=""><figcaption></figcaption></figure>
 
-要开始您在 Aptos 上的 PancakeSwap 之旅，您首先需要设置一个支持 Aptos 链的钱包。钱包在电脑和智能手机设备上都可以使用。请选择最适合您需求的钱包。
+要开始您在 Aptos 上的 PancakeSwap 之旅，您首先需要设置一个支持 Aptos 链的钱包。钱包在电脑和智能手机设备上都可以使用。请选择最您需求的钱包。
 
 {% hint style="danger" %}
 **在设置钱包时，请务必注意**：
@@ -19,7 +19,7 @@
 {% hint style="warning" %}
 在撰写本文时，支持 Aptos 的手机端钱包数量有限。大厨们后续将在此教程中添加更多可用的钱包。&#x20;
 
-在更多手机端钱包出来之前，我们建议您先试用电脑端钱包。
+
 {% endhint %}
 
 手机端钱包和电脑端钱包有不同的优势和劣势。请根据您的实际需求考来决定使用哪种类型的钱包。
@@ -36,13 +36,13 @@
 
 <table><thead><tr><th width="199"></th><th width="97">Petra</th><th>Martian</th><th>Pontem</th><th>Fewcha</th><th>Blocto</th></tr></thead><tbody><tr><td>支持 Aptos 链</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>硬件钱包兼容</td><td>➖</td><td>➖</td><td>➖</td><td>➖</td><td>➖</td></tr><tr><td>代码开源（可审计）</td><td>✅</td><td>❓</td><td>✅</td><td>❓</td><td>❓</td></tr></tbody></table>
 
-❓ - 代表截至发教程时，我们不确定此信息的状态&#x20;
+❓ - 代表截至教程时，我们不确定此信息的状态&#x20;
 
-您可以在下面找到有关每个钱包的更详细信息，以及下载链接和安装指南。
+您可以在下面找到有关每个钱包的更详细信息下载链接和安装指南。
 
 {% tabs %}
 {% tab title="Petra" %}
-<figure><img src="../.gitbook/assets/image (4) (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 Petra 钱包是一个扩展程序，可让您在浏览器中探索 Aptos。
 
@@ -103,25 +103,59 @@ Pontem Wallet 是一款 Aptos 链上钱包，可让您存储、发送、接收�
 目前，Fewcha 钱包在导入私钥方面有一些问题。建议暂时尝试其他钱包。
 {% endhint %}
 
-Fewcha 钱包是一款 Aptos 链上钱包，可让您存储、发送、接收代币并连接到 Aptos 生态系统中的 dApp。&#x20;
+Fewcha 钱包是一款 Aptos 链上钱包，可让您存储、发送、接收代币并连接到 Aptos 生态系统中的 web3应用程序。&#x20;
 
-亮点：
+**亮点：**
 
-* 手机版即将推出
-* 便于使用
-* 支持多个帐户
-* 内置 NFT 支持&#x20;
-* 支持 Aptos 测试网
+* Support Aptos and Sui Blockchain
+* First wallet to support pure blockchain using Move language
+* Friendly UX/UI
+* 简约、优雅、便于使用
+* In-app Swapper
+* In-app Stake
+* Multiple languages
+* EBCI Protocol - a protocol that prevents multiple pop-ups when interacting with dApp, it’ll help users manage what dApp they are signing for a transaction.
+* Support Hardware Wallet Connection (Keystone Wallet)
+
+
 
 [下载 Fewcha 钱包](https://fewcha.app/)
+
+
+
+### **Fewcha wallet setup guide**
+
+
+
+1\.  Once Fewcha Wallet extension finishes downloading, a welcome tab will appear. Here you can select “Create a new wallet” (or “Use an existing wallet” if you’ve already had one.)
+
+<figure><img src="https://lh5.googleusercontent.com/xzkPxptL1JdM_IcX3jEH8J1JpEC9uWabA5QUJzKBRIqszgGeOUh67QuQx7Y6BCzv1UIXshZuxrCCgZe6wYhxCZ4JbjcbtYIdP_zO9A6VDiQgypsbr2wlvqUjhioyPsRDVOYTBJv_smcjhODx3zHnqrTvxiJzWMhZa3e4TvG3lfAqFtE6-47N08s" alt=""><figcaption></figcaption></figure>
+
+2\. Select your default blockchain. Create a password that’s hard to predict yet easy to remember. Make sure you have read and agreed to the Terms of Service and Privacy Policy. Then click “Continue”.
+
+3\. For the Recovery Phrase, please write it down or copy to save it somewhere that you can remember.
+
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+
+> * Safely backup your recovery phrases. If you lose your recovery phrase, you may lose access to your wallet and the crypto within it forever.&#x20;
+> * **NEVER** share your recovery phrases with anyone, under any circumstances.
+> * **NEVER** input your recovery phrase to a website or app, other than your wallet app**.**
+
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+
+4\. Click Finish to complete this setup process. And done! Once your wallet is created, you can access it at any time by clicking on the Fewcha Wallet icon on the extension bar.&#x20;
+
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+
+To start using PancakeSwap on Aptos, you will also need to have some $APT tokens to pay gas fees. You can learn how to get some here.
 {% endtab %}
 
 {% tab title="Blocto" %}
-<figure><img src="../.gitbook/assets/image (3) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
-Blocto 提供了一个对用户友好的解决方案和一个多合一的集合便于您使用 Dapps 和管理您的资产。&#x20;
+Blocto offers a user-friendly solution and an all-in-one package for using Dapps and managing your assets.
 
-亮点：&#x20;
+**亮点:**
 
 * 安装后立即可以使用，同时支持 BNB 链和 Aptos 链以及其他主要加密网络
 * 在电脑上使用不需要安装应用程序或扩展程序
@@ -130,7 +164,7 @@ Blocto 提供了一个对用户友好的解决方案和一个多合一的集合�
 * 智能合约钱包无需管理自己的私钥，还提供账户恢复等高级功能&#x20;
 * 包含了智能合约钱包的初始设置的gas 费用&#x20;
 
-注意：
+**注意：**
 
 * 需要有电子邮件地址才能使用&#x20;
 * 托管型钱包
@@ -162,15 +196,15 @@ Blocto 提供了一个对用户友好的解决方案和一个多合一的集合�
 {% endtab %}
 {% endtabs %}
 
-## **手机/移动设备钱包**
+## **手机/移动端涉笔钱包**
 
-手机/移动设备钱包应用允许您随时随地操作您的加密货币。钱包应用在安卓和 iOS 设备上均可使用。
+手机/移动设备钱包应用让您能随时随地的不受地点限制地操作您的加密货币。钱包应用在安卓和 iOS 设备上均可使用。
 
 ### 我应该选择哪个手机钱包？ <a href="#which-mobile-wallet-should-i-choose" id="which-mobile-wallet-should-i-choose"></a>
 
-下表概述了 Aptos 上与能使用 PancakeSwap 的目前最流行的手机钱包。
+下表概述了能在 Aptos 上使用 PancakeSwap 的目前最流行的手机钱包。
 
-<table><thead><tr><th width="228"></th><th width="205">SafePal</th><th width="153">Trust Wallet</th><th width="276">Blocto</th></tr></thead><tbody><tr><td>支持 Aptos 链</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>内置 DApp 浏览器</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>硬件钱包兼容</td><td>✅（仅限SafePal）</td><td>➖</td><td>➖</td></tr><tr><td>合约开源（可审计）</td><td>➖</td><td>✅</td><td>➖</td></tr></tbody></table>
+<table><thead><tr><th width="228"></th><th width="179">SafePal</th><th width="175">Trust Wallet</th><th width="276">Blocto</th></tr></thead><tbody><tr><td>支持 Aptos 链</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>内置 DApp 浏览器</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>硬件钱包兼容</td><td>✅（仅限SafePal）</td><td>➖</td><td>➖</td></tr><tr><td>合约开源（可审计）</td><td>➖</td><td>✅</td><td>➖</td></tr></tbody></table>
 
 您可以在下面找到有关每个钱包的更详细信息，以及下载链接和安装指南。
 
@@ -180,12 +214,11 @@ Blocto 提供了一个对用户友好的解决方案和一个多合一的集合�
 
 **优点：**
 
-* 在几个加密货币网络之间轻松切换
+* 在数个加密网络之间轻松切换
 * 内置谷歌认证器
 * 丰富的语言支持
 * 设置步骤简单快捷
 * 可同时使用软件和硬件钱包（协同使用）
-* 支持币安智能链和以太坊上的 NFT 收藏品展示及管理&#x20;
 
 **缺点：**
 
@@ -224,20 +257,20 @@ Trust Wallet 是在移动设备上颇受欢迎的钱包应用。它支持 DApps�
 
 
 
-Blocto 提供了一个对用户友好的解决方案和一个多合一的集合便于您使用 Dapps 和管理您的资产。&#x20;
+Blocto 为使用 Dapps 和管理资产提供了一个用户友好型解决方案和一个一体化软件包。&#x20;
 
-亮点：&#x20;
+**亮点：**&#x20;
 
 * 安装后立即可以使用，同时支持 BNB 链和 Aptos 链以及其他主要加密网络
-* 在电脑上使用不需要安装应用程序或扩展程序
-* 支持电脑端和移动端
+* 设定简单
+* 支持 iOS 和 Android
 * 通过电子邮件登录&#x20;
 * 智能合约钱包无需管理自己的私钥，还提供账户恢复等高级功能&#x20;
-* 包含了智能合约钱包的初始设置的gas 费用&#x20;
+* 智能合约钱包的初始设置矿工费免费（钱包端支付）
 
-注意：
+**注意：**
 
-* 需要有电子邮件地址才能使用&#x20;
+* **需要有电子邮件地址才能使用**&#x20;
 * 托管型钱包
 * 如果你想导出你的私钥并管理它或在其他钱包中使用它，这有点复杂，请查看以下链接，[教程链接](https://portto.zendesk.com/hc/en-us/articles/4411564072217-Can-I-export-my-private-key-from-Blocto-and-use-it-in-Metamask-Phantom-Trust-Wallet-)。
 

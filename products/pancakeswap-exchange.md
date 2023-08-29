@@ -16,9 +16,9 @@ PancakeSwap 允许用户无需通过中心化交易所，即可交易代币。�
 
 提供流动性，您将获得 LP 代币（流动性凭证），它将帮您赚取交易手续费。交易手续费的奖励保证有足够的人为 PancakeSwap 提供流动性。
 
-### 流动性挖矿 <a href="#yield-farming" id="yield-farming"></a>
+### 收益农场
 
-流动性挖矿，也叫 Yield Farming 。利用它，提供流动性的用户们，可以通过质押他们的 LP 代币（流动性凭证）到智能合约，以获得 CAKE 代币奖励。这个机制主要是为了平衡提供流动性带来的[无常损失](https://academy.binance.com/en/articles/impermanent-loss-explained)。
+收益农场，又称流动性挖矿、收益耕种，原文为 Yield Farming 。利用它，提供流动性的用户们，可以通过质押他们的 LP 代币（流动性凭证）到智能合约，以获得 CAKE 代币奖励。这个机制主要是为了平衡提供流动性带来的[无常损失](https://academy.binance.com/en/articles/impermanent-loss-explained)。
 
 ### 初次农场发行 (IFOs) <a href="#initial-farm-offerings-ifos" id="initial-farm-offerings-ifos"></a>
 

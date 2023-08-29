@@ -2,13 +2,11 @@
 
 ![](../../.gitbook/assets/how-to-trade-on-pancakeswap-header.png)
 
-与其他大多数交易平台相比，在PancakeSwap 上交易十分方便。您不需要看一堆的图标以及行话才能进行交易，交易路径和复杂的计算都由 PancakeSwap 智能路由为你处理。
-
-### 交易前准备
+与其他大多数交易平台相比，在PancakeSwap 上交易十分。您不需要看一堆的图标以及行话才能进行交易，交易路径和复杂的计算都由 PancakeSwap 智能路由为你处理。
 
 在进行交易前，您需要准备一个兼容 BNB 智能链或者以太链的钱包。您可以[点击这里](../../get-started/wallet-guide.md)学习如何准备。您还需要准备一些 BEP20 或者 ERC20 代币来进行交易。您可以[点击这里](../../get-started/bep20-guide.md)学习如何获取。
 
-另外，你可以在[这里](../../ru-men-zhi-nan-aptos/chuang-jian-qian-bao.md)了解如何获得一个与 Aptos 链兼容的钱包，以及点击[这里](../../ru-men-zhi-nan-aptos/huo-qu-aptos-dai-bi.md)学习如何获得一些 Aptos 的代币并进行兑换。
+另外，你可以在[这里](../../ru-men-zhi-nan-aptos/chuang-jian-qian-bao.md)了解如何获得一个与 Aptos 链兼容的钱包，以及点击[这里](../../ru-men-zhi-nan-aptos/huo-qu-aptos-dai-bi.md)学习如何一些 Aptos 的代币并进行兑换。
 
 ## 如何在PancakeSwap交易所交易
 
@@ -28,7 +26,7 @@
 <figure><img src="../../.gitbook/assets/如何交易. png.png" alt=""><figcaption></figcaption></figure>
 
 5. 接下来，在上面的输入框入一个金额，输入你想兑换的代币数量（支出金额），或者在下面的输入框输入一个金额，输入你想获得的代币数量（接收金额）。 无论你在哪一部分输入金额，另一部分的金额都会被自动估算。
-6. 检查无误后，点击 "**兑换**" 按钮。如果你是第一次交易该代币，你可能需要先点击 "**启用XXX** (你的代币)" 来授权。
+6. 检查无误后，点击 "**兑换**" 按钮。如果你是第一次交易该代币，你可能需要先点击 "授权 XXX (你的代币)" 来授权。
 
 <figure><img src="../../.gitbook/assets/如何交易1. png.png" alt=""><figcaption></figcaption></figure>
 
