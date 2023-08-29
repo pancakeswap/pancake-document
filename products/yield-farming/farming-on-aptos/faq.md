@@ -16,7 +16,7 @@ If you are trying to bridge other assets, please check out the guide for [Get Ap
 
 Yes, but we will be deploying in steps to ensure we prioritize the safety of user funds and CAKE inflation. Do let us know in the community chats what you think should be added to PancakeSwap on Aptos.&#x20;
 
-If you are a project building on Aptos looking to incentivize the liquidity of your token, check out [this](../../../multichain/aptos-deployment.md) guide and get in touch with us!
+If you are a project building on Aptos looking to incentivize the liquidity of your token, check out [this](broken-reference) guide and get in touch with us!
 
 ### Why there isn't an "Enable" button?
 

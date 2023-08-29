@@ -4,13 +4,13 @@
 
 ## Business Contacts
 
-### [List a Token](business-partnerships.md#exchange)
+### [List a Token](broken-reference)
 
-### [Apply for Yield Farm or Syrup Pool](business-partnerships.md#farms-and-syrup-pools)
+### [Apply for Yield Farm or Syrup Pool](broken-reference)
 
-### [Apply for an IFO (Token Sale)](business-partnerships.md#ifos-token-sales)
+### [Apply for an IFO (Token Sale)](broken-reference)
 
-### [Apply for the NFT Market](nft-market-applications.md)
+### [Apply for the NFT Market](broken-reference)
 
 ## Help!
 
