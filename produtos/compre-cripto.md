@@ -34,7 +34,7 @@ Observe que o sistema de cotação fornecerá total transparência da taxa de c�
 2.  Selecione a moeda fiduciária desejada e o par de tokens no menu do pop-up.\
     &#x20;
 
-    <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (4).png" alt=""><figcaption></figcaption></figure>
 3.  Clique em "Obter Cotação"\
 
 
