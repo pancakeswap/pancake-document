@@ -17,11 +17,11 @@ layout:
 
 # Cómo participar?
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 1 - Ser elegible <a href="#8b63b3dd-b974-4e1b-9c5e-ed8eea2891ab" id="8b63b3dd-b974-4e1b-9c5e-ed8eea2891ab"></a>
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Para ser elegible, debes tener una posición de CAKE en stake bloqueado. Para aprender más sobre cómo armar una posición bloqueada de CAKE, lea [aquí](../syrup-pools/nuevo-cake-pool/como-usar-staking-bloqueado.md).&#x20;
 
@@ -34,7 +34,7 @@ Por ejemplo, para participar de la semana 1 de distribución. deberás:
 
 ## 2 - Actualiza tu posición de staking para inscribirte <a href="#5364e392-14f8-4a0a-b2cd-673d63030f6a" id="5364e392-14f8-4a0a-b2cd-673d63030f6a"></a>
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)
 
 Hay un proceso por una sola vez para todos los stakers de CAKE bloqueado para inscribirse en el programa del pool de ingresos compartidos - rCAKE. Esto debe realizarse sólo por única vez.
 

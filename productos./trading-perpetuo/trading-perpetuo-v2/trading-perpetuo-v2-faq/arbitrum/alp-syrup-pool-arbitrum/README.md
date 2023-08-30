@@ -10,25 +10,24 @@ ALP es un token intransferible que representa lo que impulsa la liquidez en Panc
 2. Luego de conectar tu wallet, clic en **Buy ALP**. Puedes usar cualquier activo del pool de ALP para comprar ALP.
 3. Luego de confirmar la información, clic en **Buy ALP** para completar la transacción.
 
-<figure><img src="../../../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 **Staking ALP (Arbitrum)**
 
-1. Click **Stake Now** on the Pancake ALP Dashboard Page, or click [here](https://pancakeswap.finance/pools?chain=arb)
+1.  Clic en **Stake Now** en la página del Dashboard de Pancake ALP, o clic [aquí](https://pancakeswap.finance/pools?chain=arb)
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+2. Seleciona el pool de CAKE-ALP
+3. **Enable** (Habilita) ALP y clic en **Stake**
+4. Selecciona la cantidad de ALP a depositar y haz clic en **confirm**
 
-2. Select the CAKE-ALP syrup pool
-3. **Enable** ALP and click **Stake**
-4. Select amount of ALP to stake and click **confirm**
+**Vender ALP**
 
-**Selling ALP**
+1. &#x20;Clic para acceder a la página del pool V2 de ALP, y conectar la wallet
+2. Luego de conectar tu wallet, clic en **Sell ALP**.
 
-1. &#x20;Click to access the ALP Pool (V2) page and connect your wallet
-2. After connecting your wallet, click on **Sell ALP**.
+Condiciones al vender ALP:
 
-Selling ALP Conditions:
-
-* &#x20;User may sell ALP 48 hours from the time of buying
-* &#x20;Amount of ALP tokens that can be sold: min\[(Value of the liquidity pool - Value of user’s positions)\*50%]/ALP Market Price. For instance, the value of the liquidity pool is 10,000,000 USDT, the value of the user's position is 5,000,000 USDT and ALP Market Price is 2 USDT, the maximum amount the ALP user can sell is 1,250,000.&#x20;
-* At the same time, the amount of assets that users receive after selling their ALP tokens cannot exceed the ALP liquidity pool. For instance, if the liquidity pool only has 1000 USDT, the maximum amount of USDT users receive will be 1000 USDT and the remaining ALPs can be sold for other cryptocurrencies.
+* &#x20;El usuario podrá vender ALP recién luego de transcurridas 48 hs desde la compra
+* Cantidad de ALP que se pueden vender: min\[(Valor del pool de liquidez - Valor de as posiciones del usuario)\*50%]/precio de mercado de ALP. Por ejemplo, si el valor de la liquidez es 10,000,000 USDT, el valor de la posición del usuario es 5,000,000 USDT y el precio de mercado de ALP es 2 USDT, la cantidad máxima de ALP que puede comprar el usuario es de 1,250,000.&#x20;
+* Al mismo tiempo, la cantidad de activos que los usuarios reciben al vender sus token ALP, no puede exceder la liquidez del pool de ALP. Por ejemplo, si el pool tiene solo 1000 USDT de liquidez, la cantidad máxima de USDT que reciben los usuarios será de 1000 USDT y los ALPs restantes podrán ser vendidos por otras monedas.
