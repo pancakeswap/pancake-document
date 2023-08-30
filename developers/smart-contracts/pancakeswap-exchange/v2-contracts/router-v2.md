@@ -19,6 +19,7 @@ View [PancakeRouter.sol on GitHub](https://github.com/pancakeswap/pancake-smart-
 | zkSync   | 0x5aEaF2883FBf30f3D62471154eDa3C0c1b05942d |
 | Arbitrum | 0x8cFe327CEc66d1C090Dd72bd0FF11d690C33a2Eb |
 | Linea    | 0x8cFe327CEc66d1C090Dd72bd0FF11d690C33a2Eb |
+| Base     | 0x8cFe327CEc66d1C090Dd72bd0FF11d690C33a2Eb |
 
 ## Read functions
 

@@ -4,6 +4,8 @@ description: Indexing data from PancakeSwap contracts
 
 # Subgraph
 
+Please refer to Github repo for the latest version
+
 Code: [https://github.com/pancakeswap/pancake-subgraph](https://github.com/pancakeswap/pancake-subgraph)
 
 1. [**Blocks**](https://thegraph.com/legacy-explorer/subgraph/pancakeswap/blocks): Tracks all blocks on Binance Smart Chain.
@@ -19,6 +21,7 @@ Code: [https://github.com/pancakeswap/pancake-subgraph](https://github.com/panca
    * zkSync [https://api.studio.thegraph.com/query/45376/exchange-v2-zksync/version/latest](https://api.studio.thegraph.com/query/45376/exchange-v2-zksync/version/latest)
    * zkSync testnet [https://api.studio.thegraph.com/query/45376/exchange-v2-zksync-testnet/version/latest](https://api.studio.thegraph.com/query/45376/exchange-v2-zksync-testnet/version/latest)
    * Linea [https://graph-query.linea.build/subgraphs/name/pancakeswap/exhange-v2](https://graph-query.linea.build/subgraphs/name/pancakeswap/exhange-v2)
+   * Base [https://api.studio.thegraph.com/query/45376/exchange-v2-base/version/latest](https://api.studio.thegraph.com/query/45376/exchange-v2-base/version/latest)
 3. [**Farm Auctions**](https://thegraph.com/legacy-explorer/subgraph/pancakeswap/farm-auctions): Tracks all PancakeSwap Farm Auctions with auctions and bids.
 4. [**Lottery**](https://thegraph.com/legacy-explorer/subgraph/pancakeswap/lottery): Tracks all PancakeSwap Lottery with rounds, draws and tickets.
 5. [**NFT Market (v1)**](https://thegraph.com/legacy-explorer/subgraph/pancakeswap/nft-market): Tracks all PancakeSwap NFT Market for ERC-721.
@@ -48,4 +51,5 @@ Code: [https://github.com/pancakeswap/pancake-subgraph](https://github.com/panca
     * zkSync [https://api.studio.thegraph.com/query/45376/exchange-v3-zksync/version/latest](https://api.studio.thegraph.com/query/45376/exchange-v3-zksync/version/latest)
     * zkSync testnet [https://api.studio.thegraph.com/query/45376/exchange-v3-zksync-testnet/version/latest](https://api.studio.thegraph.com/query/45376/exchange-v3-zksync-testnet/version/latest)
     * Linea [https://graph-query.linea.build/subgraphs/name/pancakeswap/exchange-v3-linea](https://graph-query.linea.build/subgraphs/name/pancakeswap/exchange-v3-linea)
+    * Base [https://api.studio.thegraph.com/query/45376/exchange-v3-base/version/latest](https://api.studio.thegraph.com/query/45376/exchange-v3-base/version/latest)
 

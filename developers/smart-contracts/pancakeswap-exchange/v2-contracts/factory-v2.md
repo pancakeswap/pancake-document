@@ -19,6 +19,7 @@ View [PancakeFactory.sol on GitHub](https://github.com/pancakeswap/pancake-contr
 | zkSync   | 0xd03D8D566183F0086d8D09A84E1e30b58Dd5619d |
 | Arbitrum | 0x02a84c1b3BBD7401a5f7fa98a384EBC70bB5749E |
 | Linea    | 0x02a84c1b3BBD7401a5f7fa98a384EBC70bB5749E |
+| Base     | 0x02a84c1b3BBD7401a5f7fa98a384EBC70bB5749E |
 
 ## Read functions
 
