@@ -178,6 +178,67 @@ If you want to proceed with adding v2 liquidity:
 
 
 
+### Why can’t I add liquidity to a pair I just created?
+
+Due to a bug from the legacy Exchange V2 (present in every UniSwap V2 forks), you will not be able to add liquidity to a pair using the normal PancakeSwap liquidity UI and its contract calls if a pair is:
+
+* Created by calling `createPair` on FactoryV2 without depositing initial liquidity and minting the initial LP tokens
+* Then, one of the tokens in the pair has been manually transferred into the pool contract while calling `sync`
+
+{% hint style="info" %}
+Recently, an increase amount of such attacks were spotted on PancakeSwap Exchange V2 on BNB Chain.&#x20;
+
+We strongly recommend using our UI to create the trading pair for your token by adding the initial liquidity with the pair creation.
+{% endhint %}
+
+While Chefs are working hard on a solution to resolve this issue, here is a step-by-step guide to resolve this using BscScan:
+
+#### Locate the pool address and its BscScan page
+
+\[img: the error prompt (pending)]
+
+If your pair is affected, you will see the link to the BscScan page for the trading pair/pool in the error prompt.
+
+Alternatively, you can head to Factory V2 ([Bsc](https://bscscan.com/address/0xca143ce32fe78f1f7019d7d551a6402fc5350c73#readContract)), go to “Read Contract”, “6. getPair”, enter the address of the two tokens in your trading pair, and click “Query”. You should see the pair address in the return field.
+
+#### Check which token has been deposited and transfer the other token into the pair manually
+
+![](<../../.gitbook/assets/image (181).png>)
+
+From the token balance field on BscScan, you can check which token has been deposited into the pool. Usually, it should be the paired token. (Like WBNB, USDT, etc…)
+
+Once confirmed, you must manually transfer the other asset into the pool contract. You may do that in the wallet app you prefer by entering the pool address as the receiver.
+
+You can transfer any amount but since this is effectively “donating” assets to a pool. You will be transfering your assets into a liquidity without minting liquidity tokens. So we recommend keeping this amount minimal.
+
+{% hint style="warning" %}
+IMPORTANT: Once you’ve transferred the token, you must call `sync()`immediately on the pool.
+{% endhint %}
+
+You can do so by heading to the BscScan page for the trading pair, going to “Write Contract”, “8. Sync”, and clicking the “Write” button. You will need to connect your wallet before performing the transaction.
+
+Once the transaction is confirmed, you can add the subsequent liquidity on PancakeSwap UI.
+
+#### What if I want to define the launch price?
+
+You must adjust the pool to the launch price while transferring the token and fixing the pool.
+
+The amount to transfer can be calculated using:
+
+* `tokenInside`: the token that is already transferred into the pool. Usually it should be the paired token. (Like WBNB, USDT, etc…)
+* `tokenToSend`: the token that is about to be sent to the pool. Usually it should be your project token
+* `tokenInside.price`: the USD price of tokenInside
+* `tokenToSend.price`: the USD price of tokenToSend (the launch price)
+* `pool`: the V2 pool
+
+With the following formula:
+
+`amountToSend = tokenInside.balanceOf(pool) / tokenInside.decimal() * tokenInside.price / tokenToSend.price * tokenToSend.decimal()`
+
+If the result is smaller than 0 (usually happens when the launch price is very large. You may need to first deposit more `tokenInside` into the pool)
+
+
+
 ### How to manage stable LP, and legacy v2 LP?
 
 You can manage them as usual by going to the [Liquidity](https://pancakeswap.finance/liquidity) page.
