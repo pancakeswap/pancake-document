@@ -1,6 +1,6 @@
 # 🥞 Syrup Pools and Farms
 
-For more information about our liquidity mining programs (“Syrup Pools and Farms”), please view this PDF:
+For more information about our liquidity mining programs (“[Syrup Pools](https://pancakeswap.finance/pools) and [Farms](https://pancakeswap.finance/farms)”), please view this PDF:
 
 {% file src="../../.gitbook/assets/PancakeSwap Syrup Pools & Farms One-Pager.pdf" %}
 
