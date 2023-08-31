@@ -23,7 +23,7 @@ description: 如何在 MetaMask 上「清理」卡住的交易
 
 
 3\. 在菜单中，选择**高级**\
-![](<../.gitbook/assets/image (199).png>)
+![](<../.gitbook/assets/image (199) (1).png>)
 
 4\. 滚动至 **高级燃料控制**，点击启用它。\
 

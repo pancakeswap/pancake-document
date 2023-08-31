@@ -4,11 +4,11 @@ description: 如何参与协议收入的每周分成
 
 # 如何参与？
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ## 1- 具备收入分成资格
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>An example timeline for week 1 and week 2 distribution</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>An example timeline for week 1 and week 2 distribution</p></figcaption></figure>
 
 获取收入分成的资格条件是您必持有 CAKE 锁仓仓位。如何创建 CAKE 锁仓仓位，请阅读[此处](../../products/syrup-pools/cake-tang-jiang-chi/#suo-cang-zhi-ya-gu-ding-qi-xian-zhi-ya)。&#x20;
 
@@ -23,7 +23,7 @@ description: 如何参与协议收入的每周分成
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -43,7 +43,7 @@ description: 如何参与协议收入的每周分成
 
 一旦您的锁仓仓位完成注册，CAKE 糖浆池页面会出现一个新的 "查看收益（View Benefits）" 按钮。
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (8).png>)
 
 点击按钮，将打开一页全新的锁仓 CAKE 收益面板，可以查看您通过锁仓 CAKE 获得的丰富奖励。
 
@@ -62,11 +62,11 @@ description: 如何参与协议收入的每周分成
 
 ## 4 - 领取您的奖励
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (9).png>)
 
 在您更新锁仓仓位后，您的份额数将在下周分配时间自动更新。您的奖励将根据您在收入分成池中的最新份额数 (rCAKE) 而继续累积。
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (10).png>)
 
 一个完整的阳历周过去后，收入分成池进入下一个周分配期。现在您可以回到收益面板，点击 "领取" 按钮，领取上一期的奖励。
 
