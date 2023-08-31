@@ -2,7 +2,7 @@
 
 ## 申请在 NFT 市场上架
 
-![](<../../.gitbook/assets/nft masthead (1).png>)
+![](<../.gitbook/assets/nft masthead (1).png>)
 
 在 BNB 智能链上最著名的 PancakeSwap 的 [NFT 市场](https://pancakeswap.finance/nfts?chain=bsc) 上交易您的NFT，NFT 收藏品作者创建者不止可以收取创作者版税，同时还可以为自己的项目赢得知名度。
 
@@ -33,4 +33,4 @@
 
 如果上述部分未涵盖您的问题，您可以发送电子邮件至 info@pancakeswap.com。&#x20;
 
-请不要尝试通过此电子邮件与我们联系以获得[客户支持](../../contact-us/customer-support.md)，这不是正确的方式，我们不会回复：获得相关产品帮助的最佳选择是通过 [Telegram 或 Reddit 社区](../../contact-us/telegram.md)。
+请不要尝试通过此电子邮件与我们联系以获得[客户支持](customer-support.md)，这不是正确的方式，我们不会回复：获得相关产品帮助的最佳选择是通过 [Telegram 或 Reddit 社区](telegram.md)。

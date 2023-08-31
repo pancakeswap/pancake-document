@@ -4,7 +4,7 @@
 
 <figure><img src="../.gitbook/assets/NFT.png" alt=""><figcaption></figcaption></figure>
 
-[申请在 NFT 市场上架我的项目](../sheng-tai-xi-tong-he-zuo-huo-ban-guan-xi/shang-wu-he-zuo/nft-jiao-yi-shi-chang.md)
+[申请在 NFT 市场上架我的项目](<../contact-us/nft-shi-chang-ying-yong (1).md>)
 
 如果您是NFT 迷，欢迎参观 NFT 市场。 
 

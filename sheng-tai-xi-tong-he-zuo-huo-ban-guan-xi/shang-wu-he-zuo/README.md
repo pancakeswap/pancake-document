@@ -38,8 +38,8 @@ PancakeSwap (PCS) 是领先的多链去中心化交易所 (DEX)，目前已在�
 
 4. 我们正在 BNB 链上部署了一个 NFT 市场。了解我们的上市要求。
 
-{% content-ref url="nft-jiao-yi-shi-chang.md" %}
-[nft-jiao-yi-shi-chang.md](nft-jiao-yi-shi-chang.md)
+{% content-ref url="../../contact-us/nft-shi-chang-ying-yong (1).md" %}
+[nft-shi-chang-ying-yong (1).md](<../../contact-us/nft-shi-chang-ying-yong (1).md>)
 {% endcontent-ref %}
 
 对于商务合作常见问题，请查看：
