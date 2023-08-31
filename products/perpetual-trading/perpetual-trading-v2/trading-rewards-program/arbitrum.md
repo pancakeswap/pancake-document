@@ -16,7 +16,9 @@ Activity rules: Users who trade on PancakeSwap Perpetuals V2 on Arbitrum will qu
 
 Every Thursday at 08:00:00 UTC, we calculate the trading data from last Thursday 08:00:00 UTC to this Thursday at 07:59:59 and then update the user's Tier according to the Tier rules. The Tier rules are as follows (configuration is supported):
 
-<table><thead><tr><th width="161">Tier</th><th width="249.33333333333331">Description</th><th>Weight</th></tr></thead><tbody><tr><td>Platinum</td><td>Epoch trading amount >=1M USD</td><td>2</td></tr><tr><td>Gold</td><td>Epoch trading amount >=500K USD</td><td>3</td></tr><tr><td>Diamond</td><td>Epoch trading amount >=250K USD</td><td>5</td></tr></tbody></table>
+<table><thead><tr><th width="161">Tier</th><th width="249.33333333333331">Description</th><th>Weight</th></tr></thead><tbody><tr><td>Diamond</td><td>Epoch trading amount >=1M USD</td><td>5</td></tr><tr><td>Gold</td><td>Epoch trading amount >=500K USD</td><td>3</td></tr><tr><td>Silver</td><td>Epoch trading amount >=250K USD</td><td>1</td></tr></tbody></table>
+
+**Note: The tier criteria and weights are subject to change based on pool liquidity and overall trading activity on the platform**
 
 Rewards will be distributed equally across all users who qualify for a certain tier
 
@@ -24,11 +26,11 @@ Rewards will be distributed equally across all users who qualify for a certain t
 
 At the end of each trading reward cycle, the user’s effective trading volume in that cycle will be calculated to determine the weightage and amount of USDC rewards.
 
-The formula for the number of specific rewards is: r = R\*W / sum(Wi), the parameters are as follows:
+The formula for the number of specific rewards is: r = min{R \* W/Sum(Wi), R \* 20%\}, the parameters are as follows:
 
 <table data-header-hidden><thead><tr><th width="139"></th><th></th></tr></thead><tbody><tr><td>r</td><td>Amount of USDC reward to be mined by the user for the current epoch</td></tr><tr><td>R</td><td><p>The reward of the current epoch R=(USDC value of ETH fee + USDC value of DAI fee + USDC value of BTC fee + USDC fee)*0.25, of which 1% Swap fee needs to be deducted when it comes to the settlement, for example: when the weekly ETH fee is 1 and the ETH Price is 2,000, the ETH fee for the USDC value = 1 * 2000 * 0.99</p><p></p><p>Note: Only calculating users from PancakeSwap Perpetuals V2 (Arbitrum)</p></td></tr><tr><td>W</td><td>Weight corresponding to the user's Tier level</td></tr><tr><td>Sum(Wi)</td><td>Total weight score of all users. Wi represents the weight of any user, and sum(Wi) represents sum weight scores of all users.</td></tr></tbody></table>
 
-
+* The max revenue share per user is capped at 20% of the revenue reserved for the program
 
 Terms and Conditions
 
