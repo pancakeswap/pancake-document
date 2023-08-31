@@ -35,7 +35,7 @@ description: 在PancakeSwap上使用农场非常简单！
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (4) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -97,7 +97,7 @@ description: 在PancakeSwap上使用农场非常简单！
 
 如果你有多个已经质押仓位，你可以点击 "查看全部"，并在新的弹出窗口中查看它们。
 
-![](<../../.gitbook/assets/image (6) (3).png>)
+![](<../../.gitbook/assets/image (6) (3) (1).png>)
 
 点击对应流动性仓位旁边的 "收割"，之后你的钱包弹出提示供你确认。等待区块确认后，CAKE 奖励将被发送到你的钱包。
 

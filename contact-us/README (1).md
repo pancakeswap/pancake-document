@@ -4,13 +4,13 @@
 
 ## 商业合作联系
 
-### [代币上市交易所](business-partnerships.md#ru-he-rang-wo-de-dai-bi-shang-shi-pancakeswap-jiao-yi-suo)
+### [代币上市交易所](broken-reference)
 
-### [申请农场或者糖浆池](<business-partnerships (1).md#nong-chang-yu-tang-jiang-chi>)
+### [申请农场或者糖浆池](broken-reference)
 
-### [申请 IFO (代币销售）](<business-partnerships (1).md#ifo-dai-bi-xiao-shou>)
+### [申请 IFO (代币销售）](broken-reference)
 
-### [申请 NFT 市场上市](<business-partnerships (1).md#nft-shi-chang>)
+### [申请 NFT 市场上市](broken-reference)
 
 ## 需要帮助？
 

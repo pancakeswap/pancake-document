@@ -64,7 +64,7 @@
 * 您能从活动中获得的最大 CAKE 金额--由您锁仓的 CAKE 金额决定（只有在您超过限额时才可见）&#x20;
 * 您在所有符合条件的代币对中的交易量
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 此外，您可以查看 "返利明细（Rewards Breakdown）" 部分，以详细了解您交易的每一个代币对。
 
@@ -72,7 +72,7 @@
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -80,7 +80,7 @@
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
