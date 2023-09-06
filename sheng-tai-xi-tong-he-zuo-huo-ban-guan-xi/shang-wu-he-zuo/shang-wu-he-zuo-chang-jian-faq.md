@@ -44,14 +44,16 @@ PancakeSwap 交易所直接读取 Trust Wallet 代码库内的图标资料。请
 
 ### 为什么我的代币的某些统计数据没有显示在信息页面上？&#x20;
 
-代币需要与 "通用 "代币组成交易对，并具有以 "通用" 代币计价的最低流通量，信息页面才会开始索引代币对。一旦配对代币被编入索引，就会显示相关代币的统计数据。
+代币需要与 "通用" 代币组成交易对，并具有以 "通用" 代币计价的最低流通量，信息页面才会开始索引代币对。一旦配对代币被编入索引，就会显示相关代币的统计数据。
 
 以下是我们对不同链上的流动性要求：
 
-| 区块链           | 流动性要求  |  "通用 "代币                                                  |
+| 区块链           | 流动性要求  |  "通用" 代币                                                  |
 | ------------- | ------ | --------------------------------------------------------- |
 | BNB 链         | 10 BNB | WBNB, USDT, BUSD, USDC, BTCB, WETH, CAKE                  |
 | 以太链           | 5 ETH  | WETH, DAI, USDC, USDT, WBTC, LINK, FEI, MATIC, AAVE, CAKE |
+| Base          | 1 ETH  | USDC, cbETH, rETH, DAI, crvUSD                            |
+| Arbitrum      | 目前没有要求 | USDT, USDC, USDC.e, ARB, WBTC, DAI                        |
 | Polygon zkEVM | 目前没有要求 | WETH, USDC, USDT, MATIC, DAI, WBTC                        |
 | zkSync        | 目前没有要求 | USDT, USDC, BUSD, WBTC                                    |
 | Linea         | 目前没有要求 | USDC, USDT, DAI, BUSD, WBTC                               |

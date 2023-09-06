@@ -8,7 +8,7 @@
 
 1. 初步接洽
    * 我们进行了愉快的沟通后（我们可以共享数据、用户情况和 memes），您的团队决定开始申请流程——让我们开始吧！&#x20;
-   * 通过相应表格申请 - [BNB Chain](https://docs.google.com/forms/d/e/1FAIpQLSfQNsAfh98SAfcqJKR3is2hdvMRdnvfd2F3Hql96vXHgIi3Bw/viewform),  [Ethereum](https://docs.google.com/forms/d/e/1FAIpQLSekKMXhgmWtPIbdkDIpOLSnA\_YQf3WaBWbGxMyipPyuE5Uquw/viewform), [Aptos](https://forms.gle/D77N5TThkco7fLKTA),  [Arbitrum](https://docs.google.com/forms/d/1BcLAhK2BsRHVtAX49hk5uwBDbSbvDr\_e-w\_jbKXe8u8). [Polygon zkEVM](https://docs.google.com/forms/d/1NLYTB6JQ-1xRFUsUByvKH8qqHG90-imY-96GUVkbPb4), [zkSync Era](https://docs.google.com/forms/d/1w-3T24\_ec\_2fgcuHb4XLWTcpwi2Ul636xxsEW2BGU0I), or [Linea](https://docs.google.com/forms/d/e/1FAIpQLSccG0dW8c1UxTq-yY9sEKTSwC6Ke-NwIY76rbeSQCgQvF8dSg/viewform?usp=sf\_link) (平均填写表格时间：≤8 分钟）
+   * 通过相应表格申请 - [BNB Chain](https://docs.google.com/forms/d/e/1FAIpQLSfQNsAfh98SAfcqJKR3is2hdvMRdnvfd2F3Hql96vXHgIi3Bw/viewform),  [Ethereum](https://docs.google.com/forms/d/e/1FAIpQLSekKMXhgmWtPIbdkDIpOLSnA\_YQf3WaBWbGxMyipPyuE5Uquw/viewform), [Aptos](https://forms.gle/D77N5TThkco7fLKTA),  [Arbitrum](https://docs.google.com/forms/d/1BcLAhK2BsRHVtAX49hk5uwBDbSbvDr\_e-w\_jbKXe8u8). [Polygon zkEVM](https://docs.google.com/forms/d/1NLYTB6JQ-1xRFUsUByvKH8qqHG90-imY-96GUVkbPb4), [zkSync Era](https://docs.google.com/forms/d/1w-3T24\_ec\_2fgcuHb4XLWTcpwi2Ul636xxsEW2BGU0I),  [Linea](https://docs.google.com/forms/d/e/1FAIpQLSccG0dW8c1UxTq-yY9sEKTSwC6Ke-NwIY76rbeSQCgQvF8dSg/viewform?usp=sf\_link) 或 [Base](https://docs.google.com/forms/d/e/1FAIpQLSfDD0kigru76tPBcibL3M-\_EmbMWXRn1WGd8ovqgZuNGGbBfg/viewform?usp=sf\_link) (平均填写表格时间：≤8 分钟）
 2. 尽职调查
    * 厨房会根据表格中提供的信息调研，我们需要详细了解一些信息要点（请知悉，它们不是毫无意义的问题，因 PancakeSwap 非常重视用户的安全，我们也只想介绍有趣的项目给我们的社区）。
    * 团队通过了尽职调查——恭喜！

@@ -4,7 +4,7 @@
 
 PancakeSwap (PCS) 是领先的多链去中心化交易所 (DEX)，目前已在以下区块链发布：
 
-> BNB 链、以太链、Aptos、Arbitrum One、Polygon zkEVM、zkSync Era 和 Linea。&#x20;
+> BNB 链、以太链、Aptos、Arbitrum One、Polygon zkEVM、zkSync Era、Linea 和 Base 。&#x20;
 
 我们很乐意与项目团队交流，并期望将您介绍给加密货币中最大、用户参与度最高、最活跃的 DApp（日活跃用户超过 10 万）之一！&#x20;
 
