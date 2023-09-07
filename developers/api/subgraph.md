@@ -52,4 +52,6 @@ Code: [https://github.com/pancakeswap/pancake-subgraph](https://github.com/panca
     * zkSync testnet [https://api.studio.thegraph.com/query/45376/exchange-v3-zksync-testnet/version/latest](https://api.studio.thegraph.com/query/45376/exchange-v3-zksync-testnet/version/latest)
     * Linea [https://graph-query.linea.build/subgraphs/name/pancakeswap/exchange-v3-linea](https://graph-query.linea.build/subgraphs/name/pancakeswap/exchange-v3-linea)
     * Base [https://api.studio.thegraph.com/query/45376/exchange-v3-base/version/latest](https://api.studio.thegraph.com/query/45376/exchange-v3-base/version/latest)
+17. **StableSwap**
+    * BSC [https://api.thegraph.com/subgraphs/name/pancakeswap/exchange-stableswap](https://api.thegraph.com/subgraphs/name/pancakeswap/exchange-stableswap)
 
