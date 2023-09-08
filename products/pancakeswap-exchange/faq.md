@@ -242,3 +242,11 @@ If the result is smaller than 0 (usually happens when the launch price is very l
 ### How to manage stable LP, and legacy v2 LP?
 
 You can manage them as usual by going to the [Liquidity](https://pancakeswap.finance/liquidity) page.
+
+
+
+### Why do I need to reset approval on USDT before enabling/approving?
+
+When operating on the Ethereum mainnet, the USDT token follows a different logic for managing approvals and token allowance.&#x20;
+
+Therefore, when spending allowances are too low. It requires you to reset the approval before setting a new one.
