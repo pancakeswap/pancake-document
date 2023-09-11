@@ -26,6 +26,7 @@
   * [Click Here for Help](readme/help/README.md)
     * [Troubleshooting Errors](readme/help/troubleshooting.md)
     * [General FAQ](readme/help/faq.md)
+    * [What is an Approval Transaction?](readme/help/what-is-an-approval-transaction.md)
     * [Fixing Stuck Pending Transactions on MetaMask](readme/help/unsticking-a-transaction-stuck-as-pending-with-metamask.md)
     * [Binance Academy Guide](readme/help/binance-academy-guide.md)
 * [Products](products/README.md)
