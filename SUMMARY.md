@@ -88,7 +88,7 @@
       * [我应该如何使用它？](products/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-jiao-yi-v2/wo-ying-gai-ru-he-shi-yong-ta.md)
       * [永续合约 V2 术语表](products/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-jiao-yi-v2/yong-xu-he-yue-v2-shu-yu-biao.md)
       * [外汇交易](products/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-jiao-yi-v2/wai-hui-jiao-yi.md)
-      * [永续合约 V2 常见问题](products/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-jiao-yi-v2/yong-xu-he-yue-v2-chang-jian-wen-ti.md)
+      * [永续合约 V2 FAQ](chan-pin/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-jiao-yi-v2/yong-xu-he-yue-v2-faq.md)
       * [V2 发布活动](products/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-jiao-yi-v2/v2-fa-bu-huo-dong.md)
     * [永续合约交易 V1](products/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-jiao-yi-v1/README.md)
       * [永续合约 V1 术语表](products/pancakeswap-exchange/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-shu-yu-biao.md)

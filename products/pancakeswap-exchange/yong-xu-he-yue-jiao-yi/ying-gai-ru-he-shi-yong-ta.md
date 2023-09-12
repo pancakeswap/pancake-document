@@ -110,7 +110,35 @@ _以下步骤不按特定顺序排列_
 
 ### 交易手续费、资金费率是多少？ <a href="#6c14" id="6c14"></a>
 
-请前往 [永续合约v1 FAQ](../../../chan-pin/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-jiao-yi-v1/yong-xu-he-yue-v1-faq.md) 阅读相关说明。
+默认使用 CAKE 来支付交易手续费，其次是 APX（ApolloX 的代币）和 USDT及BUSD。
+
+根据所开的合约种类收取对应币种的交易手续费（目前只有USDT 和BUSD 合约两种），在此强烈建议您用 CAKE 支付交易手续费以享受手续费优惠。
+
+交易手续费以合约总价值为基础：&#x20;
+
+* 挂单（maker）0.02%
+* 吃单（taker）0.07%
+
+使用 CAKE 来支付交易手续费，将在此之上享受 5% 的折扣。即费率是：
+
+* 挂单（maker）0.019%
+* 吃单（taker）0.0665%。
+
+所以，请记得先将 CAKE 存入你的 PancakeSwap 永续合约交易账户，用于支付交易手续费并享受折扣！
+
+{% hint style="info" %}
+请注意，想要使用 CAKE 支付手续费并享受折扣需要切换资产模式为联合保证金模式。
+
+点开合约下单界面杠杆倍数右侧功能键，选择偏好设置-资产模式-选择联合保证金模式即可。
+{% endhint %}
+
+在实际持仓永续合约过程中，还会产生**资金费率**，此费用在持仓用户之间互相支付，平台不会从中收任何手续费，详细了解资金费率请查看[**永续合约术语**](yong-xu-he-yue-shu-yu-biao.md#ding-dan-you-guan-de-shu-yu)。
+
+**以下是关于手续费及资金费率收取币种的说明：**
+
+<table><thead><tr><th width="168">合约交易对种类</th><th width="380.3333333333333">合约交易手续费收取币种</th><th>资金费率收取币种</th></tr></thead><tbody><tr><td><p></p><p>USDT 交易对</p></td><td><p>USDT </p><p>(单一保证金模式，或账户中无 CAKE 时） </p><p>CAKE</p><p>(联合保证金模式，且账户中有 CAKE 时，<strong>优先</strong>收取 CAKE，并享有折扣）</p></td><td><p></p><p>USDT </p></td></tr><tr><td><p></p><p>BUSD 交易对</p></td><td><p>BUSD</p><p>(联合保证金模式下，<strong>暂时不会</strong>收取 CAKE，也无折扣优惠）</p><p>修复中 2022/12/5 </p></td><td><p></p><p>BUSD </p></td></tr></tbody></table>
+
+您也可以前往 [这里](https://www.apollox.finance/zh-CN/futures/info/realTimeFundingRate)，查看永续合约 V1 各交易对资金费率实时数据及图表等资讯。
 
 
 
