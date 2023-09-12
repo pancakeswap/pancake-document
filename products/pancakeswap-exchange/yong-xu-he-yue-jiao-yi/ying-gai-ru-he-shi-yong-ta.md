@@ -108,9 +108,11 @@ _以下步骤不按特定顺序排列_
 
 <figure><img src="../../../.gitbook/assets/成交后.png" alt=""><figcaption></figcaption></figure>
 
-### 交易手续费是多少？ <a href="#6c14" id="6c14"></a>
+### 交易手续费、资金费率是多少？ <a href="#6c14" id="6c14"></a>
 
-请阅读有关于 [交易手续费、资金费率收取币种](ying-gai-ru-he-shi-yong-ta.md#6c14) 的说明。
+请前往 [永续合约v1 FAQ](../../../chan-pin/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-jiao-yi-v1/yong-xu-he-yue-v1-faq.md) 阅读相关说明。
+
+
 
 ### 目前支援那些链？
 

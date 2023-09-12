@@ -1,4 +1,8 @@
-# 永续合约 V1 常见问题
+---
+description: FAQ
+---
+
+# 永续合约 V1 FAQ
 
 <figure><img src="../../../.gitbook/assets/general-faq-header.png" alt=""><figcaption></figcaption></figure>
 
@@ -10,9 +14,13 @@
 
 其余部分目前留作团队金库，用于此功能的持续扩展和开发，以及用于意外市场事件的保险基金。 随着产品功能的渐趋成熟，我们有望根据社区反馈和治理逐步增加销毁比例。&#x20;
 
+
+
 ### **我看不到我的资金！ 发生了什么？**&#x20;
 
 您必须先将资金从存链上钱包打入合约账户！
+
+
 
 ### 交易手续费是多少？ <a href="#6c14" id="6c14"></a>
 
@@ -38,11 +46,15 @@
 点开合约下单界面杠杆倍数右侧功能键，选择偏好设置-资产模式-选择联合保证金模式即可。
 {% endhint %}
 
-在实际持仓永续合约过程中，还会产生**资金费率**，此费用在持仓用户之间互相支付，平台不会从中收任何手续费，详细了解资金费率请查看[**永续合约术语**](yong-xu-he-yue-shu-yu-biao.md#ding-dan-you-guan-de-shu-yu)。
+在实际持仓永续合约过程中，还会产生**资金费率**，此费用在持仓用户之间互相支付，平台不会从中收任何手续费，详细了解资金费率请查看[**永续合约术语**](../../../products/pancakeswap-exchange/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-shu-yu-biao.md#ding-dan-you-guan-de-shu-yu)。
 
 **以下是关于手续费及资金费率收取币种的说明：**
 
 <table><thead><tr><th width="168">合约交易对种类</th><th width="380.3333333333333">合约交易手续费收取的币种</th><th>资金费率收取的币种</th></tr></thead><tbody><tr><td><p></p><p>USDT 交易对</p></td><td><p>USDT </p><p>(单一保证金模式，或账户中无 CAKE 时） </p><p>CAKE</p><p>(联合保证金模式，且账户中有 CAKE 时，<strong>优先</strong>收取 CAKE，并享有折扣）</p></td><td><p></p><p>USDT </p></td></tr><tr><td><p></p><p>BUSD 交易对</p></td><td><p>BUSD</p><p>(联合保证金模式下，<strong>暂时不会</strong>收取 CAKE，也无折扣优惠）</p><p>修复中 2022/12/5 </p></td><td><p></p><p>BUSD </p></td></tr></tbody></table>
+
+您也可以前往查看 [永续合约 V1 资金费率历史图表](https://www.apollox.finance/zh-CN/futures/info/fundingFeeHistory)。
+
+
 
 ### 为什么合约无法下单？
 
@@ -61,6 +73,8 @@
 * **偏离市场价越大越不易成交**：设置的价格在市场深度池中没有匹配订单。仓位大时也可能只有部分成交。
 * **保证金审核未通过（针对于止盈止损单）**：止盈止损单中需要设置触发价和成交价（市价止盈止损单中，可以根据不同需要设置根据标记价格或最新价格触发），系统会进行两次保证金审核，分别在下单前和成交前。订单触发之后，系统会立即进行第二次保证金审核，如果当前发生了亏损或划转出了保证金，导致可用保证金不足，此时订单状态会提示已过期。
 
+
+
 ### 存入金额有限制吗?
 
 | 资产类别 | 限制       | 保证金价值  |
@@ -68,6 +82,8 @@
 | USDT | 没有限制     | 99.99% |
 | BUSD | 没有限制     | 100%   |
 | CAKE | 5000CAKE | 90%    |
+
+###
 
 ### 我已经存入资金到合约账户，但仍然看不到它们！发生了什么？&#x20;
 
@@ -79,21 +95,27 @@
 
 <figure><img src="../../../.gitbook/assets/提交工单.png" alt=""><figcaption></figcaption></figure>
 
+###
+
 ### 提现未到帐，发生了什么？
 
 一般情况下，ApolloX 平台会在 30-60 分钟内生成提交上链。
 
 链上拥堵时，您的提现申请可能需要花费较多时间处理。
 
-若 6 小时后您的链上钱包仍然没有到帐，请单击 “耳机图标” 提交客服 “[工单](https://apolloxbroker.zendesk.com/hc/en-us/requests/new)”，并附上： “资金流水” 中 “**该笔转账的截图**” ，提交供应商方处理，注意，没有截图的工单处理优先级很低。
+若 6 小时后您的链上钱包仍然没有到帐，请单击 “耳机图标” 提交客服 “[工单](https://apolloxbroker.zendesk.com/hc/en-us/requests/new)”，并附上： “资金流水” 中 “**该笔转账的截图**” ，提交提供商方处理，注意，没有截图的工单处理优先级很低。
 
 若您在支付 gas 那步骤点击了拒绝，请等待 ApolloX 方退回款项，期间前端有可能看不到您的该笔提现资产，如有任何疑问，请提交客服[工单](https://apolloxbroker.zendesk.com/hc/en-us/requests/new)。
 
 <figure><img src="../../../.gitbook/assets/截圖 2022-10-10 下午7.58.06.png" alt=""><figcaption><p>资产提现之画面提醒</p></figcaption></figure>
 
+###
+
 ### ApolloX 如何确定哪些用户来自 PCS，哪些用户来自他们自己的网站？
 
 以首次注册的是 PCS 域名还是 APX 域名为基础判定，若钱包地址已注册 ApolloX，则视为 APX 用户进行收益分享计算。&#x20;
+
+###
 
 ### 请问我们未来能看到 PCS 永续合约介面只显示来自 PCS 的交易量吗？&#x20;
 

@@ -10,6 +10,6 @@
 [ying-gai-ru-he-shi-yong-ta.md](../../pancakeswap-exchange/yong-xu-he-yue-jiao-yi/ying-gai-ru-he-shi-yong-ta.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../pancakeswap-exchange/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-chang-jian-wen-ti.md" %}
-[yong-xu-he-yue-chang-jian-wen-ti.md](../../pancakeswap-exchange/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-chang-jian-wen-ti.md)
+{% content-ref url="../../../chan-pin/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-jiao-yi-v1/yong-xu-he-yue-v1-faq.md" %}
+[yong-xu-he-yue-v1-faq.md](../../../chan-pin/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-jiao-yi-v1/yong-xu-he-yue-v1-faq.md)
 {% endcontent-ref %}

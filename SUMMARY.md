@@ -93,7 +93,7 @@
     * [永续合约交易 V1](products/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-jiao-yi-v1/README.md)
       * [永续合约 V1 术语表](products/pancakeswap-exchange/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-shu-yu-biao.md)
       * [我应该如何使用它？](products/pancakeswap-exchange/yong-xu-he-yue-jiao-yi/ying-gai-ru-he-shi-yong-ta.md)
-      * [永续合约 V1 常见问题](products/pancakeswap-exchange/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-chang-jian-wen-ti.md)
+      * [永续合约 V1 FAQ](chan-pin/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-jiao-yi-v1/yong-xu-he-yue-v1-faq.md)
   * [🧈 交易返利](chan-pin/jiao-yi-fan-li/README.md)
     * [如何参与](chan-pin/jiao-yi-fan-li/ru-he-can-yu/README.md)
       * [顶级交易者交易返利活动](chan-pin/jiao-yi-fan-li/ru-he-can-yu/ding-ji-jiao-yi-zhe-jiao-yi-fan-li-huo-dong.md)
