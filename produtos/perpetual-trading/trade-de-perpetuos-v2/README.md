@@ -21,3 +21,5 @@ Os pares de negociação na plataforma compartilham liquidez por meio da pool de
 ### Mais pares&#x20;
 
 Com os Perpétuos V2 consolidando a liquidez para todos os pares de negociação em uma pool, os usuários podem esperar mais pares de negociação de classes de ativos potencialmente diferentes no futuro. No lançamento, o V2 suportará os pares BTCUSD, ETHUSD e BNBUSD para criptomoedas e pares Forex EURUSD e GBPUSD. Mais pares serão lançados nos próximos meses.
+
+**PancakeSwap Perpetuals V2 está disponível agora na Binance Smart Chain e Arbitrum.**
