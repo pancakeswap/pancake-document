@@ -1,6 +1,6 @@
 # Tokenomics de CAKE
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
 
 ## **Taxa de Emissão** <a href="#emission-rate" id="emission-rate"></a>
 
@@ -9,8 +9,8 @@
 | **Métrica**         | **Emissão/bloco (CAKE)** | **Emissão/dia (CAKE)** |
 | ------------------- | ------------------------ | ---------------------- |
 | Emissão             | 40                       | 1.152.000              |
-| Queima Semanal      | \~35,4852                | \~1.021.975            |
-| **Emissão Efetiva** | **\~4,5147\***           | **\~130.024\***        |
+| Queima Semanal      | \~37,0721                | \~1.067.680            |
+| **Emissão Efetiva** | **\~2,9278\***           | **\~84.320\***         |
 
 {% hint style="info" %}
 Em 11 de agosto de 2022, os Chefs implementaram algumas atualizações de configuração para aproveitar ao máximo o MasterChef v2. Ele elimina a queima diária de 45.000 CAKE para as injeções de loteria legacy. Essas queimas agora serão tratadas pelo MasterChef v2 diretamente junto com a queima semanal habitual do CAKE. Portanto, as emissões efetivas agora são ainda menores.
@@ -28,8 +28,8 @@ Como tal, não o incluímos na taxa de emissão acima.
 
 | Distribuído para                  | Recompensa/bloco(% da emissão) | Recompensa/bloco(total CAKE) | Recompensa/dia        |
 | --------------------------------- | ------------------------------ | ---------------------------- | --------------------- |
-| Trade(Farms)                      | \~4,69%                        | \~1,8758                     | 54.024 (aprox)        |
-| Stake                             | \~6,25%                        | \~2,5                        | 72.000 (aprox)        |
+| Trade(Farms)                      | \~4,47%                        | \~1,7889                     | 51.520 (aprox)        |
+| Stake                             | \~2,5%                         | \~1                          | 28.800 (aprox)        |
 | Outros                            | \~0,35%                        | \~0,1389                     | 4.000 (aprox)         |
 | **Emissão Total Diária de CAKE**  | ​                              | ​                            | \~**130.024 (aprox)** |
 
@@ -44,22 +44,22 @@ Além do acima, o CAKE também é queimado das seguintes maneiras:
 * **0,001\~0,23%** de todo trade feito através do V3 na:
   * BNB Chain
   * Ethereum
-* 0,0575% de todo trade feito através da V2 na:&#x20;
+* **0,0575%** de todo trade feito através da V2 na:&#x20;
   * BNB Smart Chain&#x20;
   * Ethereum&#x20;
   * Aptos&#x20;
-* 0,004%\~0,016% de todas as negociações feitas no StableSwap da PancakeSwap&#x20;
-* 100% do CAKE enviado para o endereço do Dev&#x20;
-* 100% das taxas de performance em CAKE das IFOs&#x20;
-* 100% do CAKE gasto na criação de perfil e cunhagem de NFT&#x20;
-* 100% dos lances em CAKE durante os leilões de farms&#x20;
-* 20% do CAKE gastos em bilhetes da loteria&#x20;
-* 20% de todos os lucros do Trade de Perétuos&#x20;
-* 8% do prêmio do Pottery distribuído a cada semana&#x20;
-* 3% de cada rodada de mercados de previsão de BNB é usado para comprar CAKE para queimá-lo&#x20;
-* 3% de cada rodada de mercados de Previsão de CAKE&#x20;
-* 2% de cada colheita de todas as posições de stake flexíveis na pool de CAKE&#x20;
-* 2% de cada venda NFT no mercado NFT é usado para comprar CAKE para queimar
+* **0,004%\~0,016%** de todas as negociações feitas no StableSwap da PancakeSwap&#x20;
+* **100%** do CAKE enviado para o endereço do Dev&#x20;
+* **100%** das taxas de performance em CAKE das IFOs&#x20;
+* **100%** do CAKE gasto na criação de perfil e cunhagem de NFT&#x20;
+* **100%** dos lances em CAKE durante os leilões de farms&#x20;
+* **20%** do CAKE gastos em bilhetes da loteria&#x20;
+* **20%** de todos os lucros do Trade de Perétuos&#x20;
+* **8%** do prêmio do Pottery distribuído a cada semana&#x20;
+* **3%** de cada rodada de mercados de previsão de BNB é usado para comprar CAKE para queimá-lo&#x20;
+* **3%** de cada rodada de mercados de Previsão de CAKE&#x20;
+* **2%** de cada colheita de todas as posições de stake flexíveis na pool de CAKE&#x20;
+* **2%** de cada venda NFT no mercado NFT é usado para comprar CAKE para queimar
 
 ## Por que a queima de CAKE é manual?
 
