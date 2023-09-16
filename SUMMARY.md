@@ -32,7 +32,7 @@
   * [🔄 交易](products/pancakeswap-exchange.md)
     * [代币兑换](products/pancakeswap-exchange/dai-bi-jiao-huan.md)
     * [如何进行交易](products/pancakeswap-exchange/ru-he-jin-hang-jiao-yi.md)
-    * [交易费用和路由设置](products/pancakeswap-exchange/jiao-yi-fei-yong-he-lu-you-she-zhi.md)
+    * [交易手续费和路由设置](chan-pin/pancakeswap-exchange/jiao-yi-shou-xu-fei-he-lu-you-she-zhi.md)
     * [流动性资金池](products/pancakeswap-exchange/liu-dong-zi-jin-chi.md)
     * [添加/移除流动性](chan-pin/pancakeswap-exchange/tian-jia-yi-chu-liu-dong-xing.md)
     * [FAQ](products/pancakeswap-exchange/chang-jian-wen-ti-jie-da.md)

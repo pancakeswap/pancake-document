@@ -46,7 +46,7 @@ PancakeSwap 智能路由是一种连接 V3、V2、稳定币兑换（BNB 链）�
 
 智能路由现在是 PancakeSwap V3 的默认交易路由。但是用户依然可以根据自己的需求自定义路由。&#x20;
 
-要了解更多关于如何自定义路由的信息，请点击[这里](jiao-yi-fei-yong-he-lu-you-she-zhi.md)。
+要了解更多关于如何自定义路由的信息，请点击[这里](../../chan-pin/pancakeswap-exchange/jiao-yi-shou-xu-fei-he-lu-you-she-zhi.md)。
 
 关于稳定币兑换的更多信息，请点击[这里](wen-ding-bi-dui-huan/)，关于做市商整合，请点击[这里](market-maker-integration.md)。
 
