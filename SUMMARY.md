@@ -26,7 +26,7 @@
   * [需要帮助？点我](click-here-for-help/README.md)
     * [故障排除指南](click-here-for-help/troubleshooting-errors.md)
     * [常见问题解答](click-here-for-help/faq.md)
-    * [什么是授权操作（Approval Transaction）](master/click-here-for-help/shi-mo-shi-shou-quan-cao-zuo-approval-transaction.md)
+    * [什么是授权操作？](master/click-here-for-help/shi-mo-shi-shou-quan-cao-zuo.md)
     * [如何修复 MetaMask 上卡住的交易](click-here-for-help/ru-he-xiu-fu-metamask-shang-ka-zhu-de-jiao-yi.md)
     * [来自币安学院的指南](click-here-for-help/binance-academy-guide.md)
 * [产品](chan-pin/README.md)
