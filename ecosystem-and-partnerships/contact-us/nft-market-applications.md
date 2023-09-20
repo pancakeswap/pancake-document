@@ -6,7 +6,7 @@
 
 NFT collection creators can earn creator royalties on trades on PancakeSwap, as well as getting visibility for their project on the most prominent [NFT marketplace](https://pancakeswap.finance/nfts?chain=bsc) on BNB Smart Chain.
 
-[Apply for Listing on PancakeSwap NFT Market](https://docs.google.com/forms/d/e/1FAIpQLSdLjOEiJT4s8No2QT2TKknuUSlVMndARFgng4MDJMsoFQjR-A/viewform)
+[**Apply for Listing on PancakeSwap NFT Market**](https://docs.google.com/forms/d/e/1FAIpQLSdLjOEiJT4s8No2QT2TKknuUSlVMndARFgng4MDJMsoFQjR-A/viewform)
 
 ### **Basic requirements for NFT**
 

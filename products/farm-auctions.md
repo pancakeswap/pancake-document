@@ -13,7 +13,7 @@
 
 You may refer to this one-pager summary of our Farm Auctions product
 
-{% file src="../.gitbook/assets/Farm Auctions One Pager (1).pdf" %}
+{% file src="../.gitbook/assets/Farm Auctions One Pager.pdf" %}
 
 ### Mechanics
 
@@ -25,7 +25,7 @@ You may refer to this one-pager summary of our Farm Auctions product
 
 We typically hold Farm Auctions every three weeks. These are the steps for a project team to participate in a Farm Auction:
 
-1. Projects have to apply [here](https://docs.google.com/forms/d/e/1FAIpQLSfQNsAfh98SAfcqJKR3is2hdvMRdnvfd2F3Hql96vXHgIi3Bw/viewform) to be whitelisted for Auction bidding
+1. **Projects have to apply** [**here**](https://docs.google.com/forms/d/e/1FAIpQLSfQNsAfh98SAfcqJKR3is2hdvMRdnvfd2F3Hql96vXHgIi3Bw/viewform) **to be whitelisted for Auction bidding**
 2. We will add whitelisted project teams to a Telegram Announcement group
 3. There will be a pre-announced 1-hour window for project teams to bid using their whitelisted wallet address
 4. Participating project teams must submit a bid that is equal to or higher than the minimum initial bid
