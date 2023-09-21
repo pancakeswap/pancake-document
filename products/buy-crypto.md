@@ -14,7 +14,7 @@ The on-ramp integration and quote system offers several key benefits for our use
 
 ### Structure and Fees
 
-On-ramp services will be available on **BNB, Ethereum and Arbitrum** chains. Major cryptocurrencies and stablecoins will be available and outlined in the table below:
+On-ramp services will be available on **BNB, Ethereum, Arbitrum, Base, Linea, Polygon zkEVM and zkSync Era** chains. Major cryptocurrencies and stablecoins will be available and outlined in the table below:
 
 
 
