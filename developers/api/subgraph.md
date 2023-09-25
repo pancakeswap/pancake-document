@@ -13,6 +13,7 @@ Code: [https://github.com/pancakeswap/pancake-subgraph](https://github.com/panca
    * zkSync [https://api.studio.thegraph.com/query/45376/blocks-zksync/version/latest](https://thegraph.com/legacy-explorer/subgraph/pancakeswap/blocks)
    * zkSync testnet [https://api.studio.thegraph.com/query/45376/blocks-zksync-testnet/version/latest](https://api.studio.thegraph.com/query/45376/blocks-zksync-testnet/version/latest)
    * Polygon zkEVM [https://api.studio.thegraph.com/query/45376/polygon-zkevm-block/version/latest](https://api.studio.thegraph.com/query/45376/polygon-zkevm-block/version/latest)
+   * opBNB [https://opbnb-mainnet-graph.nodereal.io/subgraphs/name/pancakeswap/blocks](https://opbnb-mainnet-graph.nodereal.io/subgraphs/name/pancakeswap/blocks)
 2. [**Exchange V2**](https://nodereal.io/meganode/api-marketplace/pancakeswap-graphql): Tracks all PancakeSwap V2 Exchange data with price, volume, liquidity, ...
    * BSC [https://nodereal.io/meganode/api-marketplace/pancakeswap-graphql](https://nodereal.io/meganode/api-marketplace/pancakeswap-graphql)
    * ETH [https://api.thegraph.com/subgraphs/name/pancakeswap/exhange-eth](https://api.thegraph.com/subgraphs/name/pancakeswap/exhange-eth)
@@ -22,6 +23,7 @@ Code: [https://github.com/pancakeswap/pancake-subgraph](https://github.com/panca
    * zkSync testnet [https://api.studio.thegraph.com/query/45376/exchange-v2-zksync-testnet/version/latest](https://api.studio.thegraph.com/query/45376/exchange-v2-zksync-testnet/version/latest)
    * Linea [https://graph-query.linea.build/subgraphs/name/pancakeswap/exhange-v2](https://graph-query.linea.build/subgraphs/name/pancakeswap/exhange-v2)
    * Base [https://api.studio.thegraph.com/query/45376/exchange-v2-base/version/latest](https://api.studio.thegraph.com/query/45376/exchange-v2-base/version/latest)
+   * opBNB [https://opbnb-mainnet-graph.nodereal.io/subgraphs/name/pancakeswap/exchange-v2](https://opbnb-mainnet-graph.nodereal.io/subgraphs/name/pancakeswap/exchange-v2)
 3. [**Farm Auctions**](https://thegraph.com/legacy-explorer/subgraph/pancakeswap/farm-auctions): Tracks all PancakeSwap Farm Auctions with auctions and bids.
 4. [**Lottery**](https://thegraph.com/legacy-explorer/subgraph/pancakeswap/lottery): Tracks all PancakeSwap Lottery with rounds, draws and tickets.
 5. [**NFT Market (v1)**](https://thegraph.com/legacy-explorer/subgraph/pancakeswap/nft-market): Tracks all PancakeSwap NFT Market for ERC-721.
@@ -52,6 +54,7 @@ Code: [https://github.com/pancakeswap/pancake-subgraph](https://github.com/panca
     * zkSync testnet [https://api.studio.thegraph.com/query/45376/exchange-v3-zksync-testnet/version/latest](https://api.studio.thegraph.com/query/45376/exchange-v3-zksync-testnet/version/latest)
     * Linea [https://graph-query.linea.build/subgraphs/name/pancakeswap/exchange-v3-linea](https://graph-query.linea.build/subgraphs/name/pancakeswap/exchange-v3-linea)
     * Base [https://api.studio.thegraph.com/query/45376/exchange-v3-base/version/latest](https://api.studio.thegraph.com/query/45376/exchange-v3-base/version/latest)
+    * opBNB [https://opbnb-mainnet-graph.nodereal.io/subgraphs/name/pancakeswap/exchange-v3](https://opbnb-mainnet-graph.nodereal.io/subgraphs/name/pancakeswap/exchange-v3)
 17. **StableSwap**
     * BSC [https://api.thegraph.com/subgraphs/name/pancakeswap/exchange-stableswap](https://api.thegraph.com/subgraphs/name/pancakeswap/exchange-stableswap)
 
