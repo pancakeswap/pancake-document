@@ -27,7 +27,7 @@ After Oct 31 12:00hrs -> No Fee
 
 ### How are daily rewards accrued by PancakeSwap?
 
-PancakeSwap is offering Simple Staking in partnership with Binance Earn. By using PancakeSwap Simple Staking
+PancakeSwap is offering Simple Staking in partnership with Binance Earn. By using PancakeSwap Simple Staking, your funds will be managed by Binance Earn for the locked period.
 
 Assets may be used for on-chain staking in a tightly controlled manner. Binance may stake through official staking pools, or operate validators and nodes to participate in Proof-of-Stake (POS) network staking. The staking pool selection is determined via stringent risk assessment protocols. Validators and nodes operated by Binance are set up with security as the utmost priority.
 

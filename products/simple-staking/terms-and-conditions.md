@@ -1,8 +1,8 @@
 # Terms & Conditions
 
-1\. Locked Simple Staking
+1\. Simple Staking
 
-1.1 For Locked Simple Staking:
+1.1 For Simple Staking:
 
 1.1.1 Simple Staking Rewards:
 
@@ -12,7 +12,7 @@
 
 1.1.1.3 will be calculated by reference to the Simple Staking Rewards Rate on the day the Simple Staking Rewards accrues;
 
-1.1.1.5 are rounded down to decimal places which may differ depending on the Digital Currency.
+1.1.1.4 are rounded down to decimal places which may differ depending on the Digital Currency.
 
 1.1.2 the Simple Staking Rewards Rate:
 
@@ -26,6 +26,6 @@
 
 1.1.3.2 in some circumstances, including but not limited to events of extreme market volatility, network delays, a significant number of simultaneous instructions to Redeem from other PancakeSwap users, or there are any other unanticipated events that or mean that your Redemption may be delayed;
 
-1.1.3.7 PancakeSwap may specify a maximum number of Simple Staking Assets available for Redemption each day.
+1.1.3.4 PancakeSwap may specify a maximum number of Simple Staking Assets available for Redemption each day.
 
 \
