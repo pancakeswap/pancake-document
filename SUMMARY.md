@@ -80,6 +80,7 @@
   * [🤝 Simple Staking](products/simple-staking/README.md)
     * [How to start Simple Staking](products/simple-staking/how-to-start-simple-staking.md)
     * [FAQ](products/simple-staking/faq.md)
+    * [Terms & Conditions](products/simple-staking/terms-and-conditions.md)
   * [💧 Liquid Staking Integration](products/liquid-staking-integration/README.md)
     * [How To Liquid Stake](products/liquid-staking-integration/how-to-liquid-stake.md)
     * [WBETH](products/liquid-staking-integration/wbeth/README.md)
