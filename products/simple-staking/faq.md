@@ -33,7 +33,9 @@ Assets may be used for on-chain staking in a tightly controlled manner. Binance 
 
 Binance may also run promotional campaigns from time to time that are sponsored by partnered projects in order to attract more users.
 
+### How do PancakeSwap and CAKE Holders benefit from this?
 
+PancakeSwap takes a small % of APR rewards for offering the service to our users. This will be converted into CAKE and burnt. For CAKE holders, fixed-term CAKE stakers will receive boosted APRs if they have locked at least 100 CAKE.
 
 ### What's next for Simple Staking?
 
