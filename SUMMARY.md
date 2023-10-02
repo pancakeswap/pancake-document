@@ -67,6 +67,7 @@
     * [Cómo Participar en una IFO](productos./ifo-oferta-inicial-de-farm/ifo-initial-farm-offering.md)
     * [iCAKE](productos./ifo-oferta-inicial-de-farm/icake.md)
     * [Detalles de Contrato](productos./ifo-oferta-inicial-de-farm/detalles-de-contrato.md)
+  * [🤝 Staking Simple](productos./staking-simple.md)
   * [💧 Integración de Staking Líquido](productos./integracion-de-staking-liquido/README.md)
     * [Cómo hacer Staking Líquido](productos./integracion-de-staking-liquido/como-hacer-staking-liquido.md)
     * [WBETH](productos./integracion-de-staking-liquido/wbeth/README.md)
