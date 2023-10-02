@@ -16,7 +16,7 @@ Pivoting is a way of life.
 
 That means that we don’t publicly commit to specific timelines, so we can organize our development priorities based on market changes and developer resources.
 
-<figure><img src="../.gitbook/assets/png-28.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/png-108.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Due to considerations of security and confidentiality, some items are not included in the ‘Cooking In’ section.
