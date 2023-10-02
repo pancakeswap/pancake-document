@@ -4,7 +4,7 @@ description: V2 有什么新东西？
 
 # 永续合约交易 V2
 
-<figure><img src="../../../.gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 在 Pancakeswap 永续合约 V2 中，我们简化了界面，**取消了订单簿和市场深度的显示**。取而代之，我们的合作伙伴 ApolloX 引入了 ALP 池，它现在为所有交易对提供流动性，最大限度地提高您的资金使用率。ALP 池将积极参与我们永续合约 V2 的做市过程。请访问[此页面](https://apollox-finance.gitbook.io/apollox-finance/welcome/trading-on-v2/powered-by-binance-oracle-and-chainlink)，以了解有关 V2 低延迟预言机模型的更多信息。&#x20;
 

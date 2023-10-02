@@ -46,7 +46,7 @@
 
 当你有了你正在寻找的LP代币对的代码时，找到“56：”之后的地址。 这将是您的合约地址。
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 从用户界面入手
 
@@ -112,11 +112,11 @@
 
 5.检查信息，然后单击"**Write**"写入。在 MetaMask 中确认您的操作。
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 6.您可以通过点击**查看您的交易**来确认您的操作是否成功。
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 如何从质押池中取款
 
@@ -138,15 +138,15 @@
 
 4\. 在\_pid 下方，您会看到“\_amount”。 输入您想从池中提取的 LP 数量。
 
-<figure><img src="../.gitbook/assets/image (10) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ​​5.检查信息，然后单击"**Write**"写入。 在 MetaMask 中确认您的操作。
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ​6.您可以通过点击**查看您的交易**来确认您的操作是否成功。​
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 如何进行紧急提款 <a href="#cong-chi-zhong-qu-kuan" id="cong-chi-zhong-qu-kuan"></a>
 
@@ -172,8 +172,8 @@ PancakeSwap 团队强烈建议避免使用此功能，除非 PancakeSwap 团队�
 
 4.检查信息，然后单击"**Write**"写入。 在 MetaMask 中确认您的操作
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p><br></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption><p><br></p></figcaption></figure>
 
 5.您可以通过点击**查看您的交易**来确认您的操作是否成功。​
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
