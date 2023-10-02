@@ -40,7 +40,7 @@ Do note that APR is subject to changes daily. The estimated rewards shown at the
 
 Users can claim their rewards at the end of the simple staking period, which is 30, 60 or 90 days from the locked date. The user must unstake the tokens by interacting with the Simple Staking portal. Users can also claim rewards and restake their principal to restart the Simple Staking period. For users who have not claimed or unstake their funds, it will continue to accrue daily rewards at a significantly lower rate. More Information can be found in the [how-to guide](how-to-start-simple-staking.md).
 
-Tokens will not be withdrawable in the first third of the staking period (eg. First 10 out of 30D for 30D pool). Tokens will be withdrawable at a 15% penalty fee for the second third of the staking period and 2% for the last third of the staking period. For more information on the
+Tokens will not be withdrawable in the first third of the staking period (eg. First 10 out of 30D for 30D pool). Tokens will be withdrawable at a 15% penalty fee for the second third of the staking period and 2% for the last third of the staking period. For more information on withdrawal refer to the [FAQ section](faq.md)
 
 
 
