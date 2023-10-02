@@ -32,15 +32,6 @@ Due to considerations of security and confidentiality, some items are not includ
 
 
 
-## **2023 Plans**
-
-* v3 - Swap and Liquidity Upgrade
-* Multichain Expansion
-* Affiliate and Ambassador Program
-* NFT utilities/ Platfrom Upgrades
-* Fiat integrations
-* More Defi products to come!
-
 ### Cooking in Q4
 
 * v3 Position Manager
