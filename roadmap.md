@@ -6,7 +6,7 @@ description: '"Don''t call it a roadmap"'
 
 ![](.gitbook/assets/roadmap-header.png)
 
-_Atualizado em 6 de Julho de 2023_
+_Atualizado em 2 de Outubro de 2023_
 
 ### Finalmente, isso é um roadmap e não uma lista de tarefas.
 
@@ -16,7 +16,7 @@ Pivotar é um modo de vida.&#x20;
 
 Isso significa que não nos comprometemos publicamente com cronogramas específicos, para que possamos organizar nossas prioridades de desenvolvimento com base nas mudanças do mercado e nos recursos do desenvolvedor.
 
-<figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Devido a considerações de segurança e confidencialidade, alguns itens não estão incluídos na seção "Cozinhando no".
@@ -30,25 +30,15 @@ Devido a considerações de segurança e confidencialidade, alguns itens não es
 * UI/UX, Correções de Bugs, Upgrades de Produtos&#x20;
 * Pesquisa das melhorias do AMM
 
-### Planos de 2023&#x20;
-
-* v3 - Swap e Upgrade de Liquidez
-* Expansão Multichain&#x20;
-* Afiliados e Programa de Embaixador
-* Utilidades de NFT/Upgrades da Plataforma
-* Integrações de Fiat
-* Mais produtos de Defi por vir!
-
-### Cozinhando no Q3
+### Cozinhando no T4
 
 * Gerenciador de Posição v3
-* Pool de Compartilhamento de Receita (Revenue Share)
-* Taxa Dinâmica
 * Atualização do vCAKE - Gauge Design&#x20;
-* Integração de Stake Simples
 * Router Universal
-* Expansão para mais chains
-* Renovação do Site
+* Expansão de Game
+* Previsão Multichain
+* Stake Simples Multichain
+* Integração de Serviço de Notificações
 
 ### Backlogs
 
@@ -76,6 +66,12 @@ Devido a considerações de segurança e confidencialidade, alguns itens não es
 * v3 - Swap e Upgrade de Liquidez na BNB Chain e Ethereum
 * Integração de Market Maker na BNB CHain e Ethereum
 * Expansão para Polygon zkEVM - Swap e Liquidez
+* Expansão para Base - Swap e Liquidez
+* Expansão para Linea - Swap e Liquidez
+* Expansão para Arbitrum One - Swap e Liquidez
+* Expansão para zkSync Era - Swap e Liquidez
+* Expansão para opBNB - Swap e Liquidez
+* Perpétuos v2
 
 #### Ganhe
 
@@ -99,6 +95,8 @@ Devido a considerações de segurança e confidencialidade, alguns itens não es
 * Pools de Syrup na Ethereum
 * Leilões de Farm
 * Integração de Liquid Staking
+* Pool de Compartilhamento de Receita
+* Integração de Staking Simples
 
 #### Vença
 
@@ -117,7 +115,7 @@ Devido a considerações de segurança e confidencialidade, alguns itens não es
 * Perfil de usuário customizável
 * Distribuição de NFTs
 * Coleção de NFT generativas Pancake Squad
-* Integração de NFT da mObox Gaming
+* Integração de NFT da Mobox Gaming
 
 #### Upgrades do Site / CAKE / Other Products
 
@@ -136,3 +134,4 @@ Devido a considerações de segurança e confidencialidade, alguns itens não es
 * Utilidade de produtos do vCAKE&#x20;
 * Fiat on Ramp Integração com MoonPay e Mercuryo
 * Programa de Afiliados
+* Renovação do Website

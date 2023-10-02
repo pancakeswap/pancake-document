@@ -10,13 +10,13 @@ ALP é um token intransferível que representa a liquidez nos Perpétuos da V2 d
 2. Após conectar sua carteira, clique em Comprar ALP. Você pode usar qualquer ativo do pool ALP para comprar ALP.&#x20;
 3. Após confirmar as informações, clique em Comprar ALP para finalizar a transação.
 
-<figure><img src="../../../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Stake de ALP (Arbitrum)&#x20;
 
 1. Clique em "Stake Now" na página do painel de ALP da Pancake ou clique [aqui](https://pancakeswap.finance/pools?chain=arb).
 
-<figure><img src="../../../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Selecione a Pool de Syrup CAKE-ALP
 3. **Habilite** ALP e clique em **Stake**&#x20;
