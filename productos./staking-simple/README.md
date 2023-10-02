@@ -14,13 +14,15 @@ Staking simple ofrece una variedad de tokens populares para obtener rendimiento.
 
 ### Beneficios del Staking Simple
 
-**Sin Impermanent Loss:** Unlike AMMs, you won’t face impermanent loss because you’re staking only one token, not a pair.
+Aumento de la APR con la apuesta de CAKE: apostar CAKE en nuestro grupo de plazo fijo  sección de preguntas frecuentes.
 
-**Hassle-Free Staking:** No need to manage different positions or move tokens around as with other yield Farming methods.&#x20;
+**Sin Impermanent Loss:** a diferencia de lOs AMM, no enfrentará impermanent Loss, porque está depositando solo un token, no un par.
 
-**Daily Accural:** You'll earn rewards daily based on the APR rate and can claim them at the end of the staking period. The longer you commit to staking, the higher your APR.
+**Staking sin complicaciones:** no es necesario gestionar diferentes posiciones ni mover tokens como ocurre con otros métodos de Yield Farming.&#x20;
 
-**APR boost with CAKE staking:** Staking CAKE in our [fixed-term pool](https://pancakeswap.finance/pools) will boost APR rates, increasing your Simple Staking rewards. For more information on Boosted APR, please visit the [FAQ section.](broken-reference)
+**Acumulación diaria:** ganarás recompensas diariamente según la tasa APR y podrás reclamarlas al final del período de staking. Cuanto más tiempo te comprometas a depositar, mayor será tu APR.
+
+**Boost del APR con staking de CAKE:** Teniendo staking de CAKE en nuestro [pool bloqueado](https://pancakeswap.finance/pools) aumentarás las tasas de APR, aumentando tus recompensas de staking simple. Para obtener más información sobre la APR mejorada, visite la [sección de FAQ.](faq.md)
 
 ### How does Simple Staking work?
 
