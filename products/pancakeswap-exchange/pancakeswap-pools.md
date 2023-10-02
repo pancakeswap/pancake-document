@@ -48,11 +48,12 @@ Providing liquidity gives you a reward in the form of trading fees when people u
 
 Whenever someone trades on PancakeSwap, for each hop (swap) in each Exchange V3 liquidity pool, depending on the liquidity pool fee tier, the trader pays a fee ranging from 0.01% to 1%. Their fee rates and fee breakdowns are shown as follows:
 
-|                    | 0.01% | 0.05% | 0.25% | 1%  |
-| ------------------ | ----- | ----- | ----- | --- |
-| Liquidity Provider | 67%   | 66%   | 68%   | 68% |
-| CAKE Burn          | 10%   | 10%   | 23%   | 23% |
-| Treasury           | 23%   | 24%   | 9%    | 9%  |
+|                         | 0.01% | 0.05% | 0.25% | 1%  |
+| ----------------------- | ----- | ----- | ----- | --- |
+| Liquidity Provider      | 67%   | 66%   | 68%   | 68% |
+| CAKE Burn               | 10%   | 10%   | 23%   | 23% |
+| Treasury                | 18%   | 19%   | 9%    | 9%  |
+| Fixed Term CAKE Stakers | 5%    | 5%    | 0%    | 0%  |
 
 For example, in a 0.25% fee tier pool:
 
