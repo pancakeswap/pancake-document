@@ -6,7 +6,7 @@ description: '"Don''t call it a roadmap"'
 
 ![](../.gitbook/assets/roadmap-header.png)
 
-_Updated on July 6, 2023_
+_Updated on Oct 2, 2023_
 
 ### Finally, it's a roadmap not a to-do list.
 
@@ -41,16 +41,15 @@ Due to considerations of security and confidentiality, some items are not includ
 * Fiat integrations
 * More Defi products to come!
 
-### Cooking in Q3
+### Cooking in Q4
 
 * v3 Position Manager
-* Revenue Sharing Pool
-* Dynamic fee
 * vCAKE Update - Gauge Design
-* Simple Staking Integration
 * Universal Router
-* Expansion to more chains
-* Website Revamp
+* Game Expansion
+* Multichain Prediction
+* Multichain Simple Staking
+* Notification Service Integration
 
 ### Backlogs
 
@@ -78,6 +77,12 @@ Due to considerations of security and confidentiality, some items are not includ
 * v3- Swap & Liquidity Upgrade on BNB chain and Ethereum
 * Market Maker Integration on Ethereum and BNB Chain
 * Expansion to Polygon zkEVM - Swap and Liquidity
+* Expansion to Base - Swap and Liquidity
+* Expansion to Linea - Swap and Liquidity
+* Expansion to Arbitrum One - Swap and Liquidity
+* Expansion to zkSync Era - Swap and Liquidity
+* Expansion to opBNB - Swap
+* Perpetuals v2
 
 
 
@@ -105,6 +110,8 @@ Due to considerations of security and confidentiality, some items are not includ
 * Syrup Pools on Ethereum
 * Farm Auction
 * Liquid Staking Integration
+* Revenue Sharing Pool
+* Simple Staking Integration
 
 #### Win
 
@@ -142,6 +149,7 @@ Due to considerations of security and confidentiality, some items are not includ
 * vCAKE Product utilities
 * Fiat on Ramp Integration with MoonPay and Mercuryo
 * Affiliate Program
+* Website Revamp
 
 
 
