@@ -20,6 +20,7 @@ View [PancakeRouter.sol on GitHub](https://github.com/pancakeswap/pancake-smart-
 | Arbitrum | 0x8cFe327CEc66d1C090Dd72bd0FF11d690C33a2Eb |
 | Linea    | 0x8cFe327CEc66d1C090Dd72bd0FF11d690C33a2Eb |
 | Base     | 0x8cFe327CEc66d1C090Dd72bd0FF11d690C33a2Eb |
+| opBNB    | 0x8cFe327CEc66d1C090Dd72bd0FF11d690C33a2Eb |
 
 ## Read functions
 

@@ -20,6 +20,7 @@ View [PancakeFactory.sol on GitHub](https://github.com/pancakeswap/pancake-contr
 | Arbitrum | 0x02a84c1b3BBD7401a5f7fa98a384EBC70bB5749E |
 | Linea    | 0x02a84c1b3BBD7401a5f7fa98a384EBC70bB5749E |
 | Base     | 0x02a84c1b3BBD7401a5f7fa98a384EBC70bB5749E |
+| opBNB    | 0x02a84c1b3BBD7401a5f7fa98a384EBC70bB5749E |
 
 ## Read functions
 
