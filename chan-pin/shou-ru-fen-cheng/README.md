@@ -1,6 +1,6 @@
 # 💹 收入分成
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 收入分成池 (rCAKE) 是一项新计划，CAKE 锁仓用户每周可获得部分协议收入。
 

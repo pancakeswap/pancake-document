@@ -1,7 +1,5 @@
 # 永续合约 V1 术语表
 
-**在这里，您将找到合约交易中所有固有术语的含义。**
-
 ### 永续合约交易
 
 永续合约，英文称 Perpetuals，又称perpetual swaps、perps，是一种没有到期交割日（expiration date）的特殊期货合约（futures contract）。
