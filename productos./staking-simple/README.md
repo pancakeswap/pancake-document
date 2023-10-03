@@ -24,14 +24,14 @@ Aumento de la APR con la apuesta de CAKE: apostar CAKE en nuestro grupo de plazo
 
 **Boost del APR con staking de CAKE:** Teniendo staking de CAKE en nuestro [pool bloqueado](https://pancakeswap.finance/pools) aumentarás las tasas de APR, aumentando tus recompensas de staking simple. Para obtener más información sobre la APR mejorada, visite la [sección de FAQ.](faq.md)
 
-### How does Simple Staking work?
+### Cómo funciona el Staking Simple?
 
-**Simple Staking** provides a convenient and hassle-free way to stake crypto tokens and earn staking rewards. Users can earn daily rewards via staking their tokens for a locked period of 30, 60 or 90 days.&#x20;
+**El Staking** **Simple** proporciona una forma cómoda y sencilla de depositar tokens y ganar recompensas por staking. Los usuarios pueden ganar recompensas diarias depositando sus tokens durante un período bloqueado de 30, 60 o 90 días.&#x20;
 
-Your tokens will earn daily rewards based on the daily APR rate for the lock period, calculated as follows:
+Sus tokens obtendrán recompensas diarias basadas en la tasa APR diaria para el período de bloqueo, calculada de la siguiente manera:
 
 $$
-\text{Rewards} = \text{Deposited Assets} \times \frac{\text{APR}}{365} \quad \text{(rounded down to 8 decimal places)}
+\text{Recompensas} = \text{Valores Depositados} \times \frac{\text{APR}}{365} \quad \text{(redondeado hacia abajo a 8 decimales)}
 $$
 
 The staking rewards are distributed daily from 12:00 UTC on the day after the funds are deposited into the staking pool to the end of the staking period. For example, if a user stakes 1000 CAKE in the 90D pool at 30 Sep 2023 14:00 UTC, the first reward will be distributed at 1 Oct 2023 12:00 UTC, and the last reward will be distributed at 3 Feb 2024 12:00 UTC. All the daily distributed rewards can only be claimed after the end of the staking reward.
