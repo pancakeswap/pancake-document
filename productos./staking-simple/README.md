@@ -34,11 +34,15 @@ $$
 \text{Recompensas} = \text{Valores Depositados} \times \frac{\text{APR}}{365} \quad \text{(redondeado hacia abajo a 8 decimales)}
 $$
 
-The staking rewards are distributed daily from 12:00 UTC on the day after the funds are deposited into the staking pool to the end of the staking period. For example, if a user stakes 1000 CAKE in the 90D pool at 30 Sep 2023 14:00 UTC, the first reward will be distributed at 1 Oct 2023 12:00 UTC, and the last reward will be distributed at 3 Feb 2024 12:00 UTC. All the daily distributed rewards can only be claimed after the end of the staking reward.
+Las recompensas de staking se distribuyen diariamente desde las 12:00 UTC del día posterior al depósito de los fondos en el pool de staking hasta el final del período de staking. Por ejemplo, si un usuario deposita 1000 CAKE en el pool de 90D el 30 de septiembre de 2023 a las 14:00 UTC, la primera recompensa se distribuirá el 1 de octubre de 2023 a las 12:00 UTC y la última recompensa se distribuirá el 3 de febrero de 2024 a las 12:00: 00 UTC. Todas las recompensas distribuidas diariamente solo se pueden reclamar una vez finalizada la recompensa de staking.&#x20;
 
-Do note that APR is subject to changes daily. The estimated rewards shown at the start of the locked staking period may differ slightly from the actual rewards generated.
+Tenga en cuenta que la APR está sujeta a cambios diarios. Las recompensas estimadas que se muestran al inicio del período de staking bloqueado pueden diferir ligeramente de las recompensas reales generadas.&#x20;
 
-### When can I claim my rewards?
+### ¿Cuándo puedo reclamar mis recompensas?&#x20;
+
+Los usuarios pueden reclamar sus recompensas al final del período de staking simple, que es de 30, 60 o 90 días a partir de la fecha bloqueada. El usuario debe retirar el stake de los tokens interactuando con el portal Simple Stake. Los usuarios también pueden reclamar recompensas y renovar su capital para reiniciar el período de staking simple. Para los usuarios que no hayan reclamado o retirado sus fondos, seguirán acumulando recompensas diarias a una tasa significativamente menor. Puede encontrar más información en la guía práctica. Los tokens no se podrán retirar en el primer tercio del período de apuesta (por ejemplo, los primeros 10 de 30D para el grupo de 30D). Los tokens se podrán retirar con una penalización del 15% durante el segundo tercio del período de apuesta y del 2% durante el último tercio del período de apuesta. Para obtener más información sobre el retiro, consulte la sección de preguntas frecuentes.
+
+
 
 Users can claim their rewards at the end of the simple staking period, which is 30, 60 or 90 days from the locked date. The user must unstake the tokens by interacting with the Simple Staking portal. Users can also claim rewards and restake their principal to restart the Simple Staking period. For users who have not claimed or unstake their funds, it will continue to accrue daily rewards at a significantly lower rate. More Information can be found in the [how-to guide](broken-reference).
 
