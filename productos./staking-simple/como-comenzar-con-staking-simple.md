@@ -10,40 +10,33 @@ Esta es la guía paso a paso de cómo comenzar con staking simple:
 
 
     <figure><img src="../../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
-2. **Deposita tus Tokens** - Selecciona la cantidad de tokens a depositar en el pool. Ten en cuenta que hay una cantidad mínima de depósito para cada token. Y los usuarios que tengan al menos 100 CAKE en el CAKE Syrup Pool, disfrutarán de unnote that you’ll be able to enjoy the vCAKE boost.
+2. **Deposita tus Tokens** - Selecciona la cantidad de tokens a depositar en el pool. Ten en cuenta que hay una cantidad mínima de depósito para cada token. Y los usuarios que tengan al menos 100 CAKE en el CAKE Syrup Pool, disfrutarán de un boost.\
+   <img src="../../.gitbook/assets/image (209).png" alt="" data-size="original">
+3.  **Confirma y Deposita tu token** - Confirma los detalles y deposita tu token. Recibirás una notificación.\
 
-<figure><img src="broken-reference" alt="" width="277"><figcaption></figcaption></figure>
 
-3. **Confirm and Stake token** - Confirm details and stake token. You will receive a notification&#x20;
+    <figure><img src="../../.gitbook/assets/image (210).png" alt=""><figcaption></figcaption></figure>
+4.  **Gana recompensas**- Las recompensas son acumuladas diariamente. Chequea tu posicón haciendo clic en el botón info para más detalles.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+    ![](<../../.gitbook/assets/image (211).png>)
+5. **Claim/Restake/Unstake** - Al finalizar el período de staking, los usuarios pueden optar por reclamar las recompensas y retirar sus tokens del staking.
 
-4. **Earning Interest** - Interest rewards are accrued daily. Please check your position by clicking the info button for more details.
+5.1 Clic en el botón reclamar “Claim” en la posición, el cual aparecerá una vez que finalice el período de bloqueo\
+![](<../../.gitbook/assets/image (212).png>)
 
-<figure><img src="broken-reference" alt="" width="277"><figcaption></figcaption></figure>
+5.2 Seleciona reclamar recompensas y redepositar “Claim Reward and Restake” para crear una nueva posición de staking simple con la misma cantidad de tokens. De lo contrario, selecciona retirar “Unstake” para retirar tanto los tokens como las recompensas directo a tu wallet.\
+![](<../../.gitbook/assets/image (213).png>)
 
-5. **Claim/Restake/Unstake** - At the end of staking period, users can choose to claim rewards and unstake their tokens.
+5.3 Revisa los detalles, y confirma Unstake\
+![](<../../.gitbook/assets/image (214).png>)
 
-5.1 Click “Claim” button on the position, which will appear after lock period is up
+6. **Sumar Posición** - Los usuarios pueden sumar tokens mientras su posición se encuentra bloqueada. No obstante, el período de staking se reseteará al período de bloqueo específico.
 
-<figure><img src="broken-reference" alt="" width="260"><figcaption></figcaption></figure>
+6.1 Seleciona la posición de staking actual, y haz clic en el ícono “+” \
+![](<../../.gitbook/assets/image (215).png>)
 
-5.2 Select “Claim Reward and Restake” to create a new simple staking position with the same token amount. Otherwise, select “Unstake” to withdraw all rewards and tokens back to your wallet.
+6.2 Seleciona la cantidad de tokens a agregar y revisa la nueva posición de staking\
+\
+![](<../../.gitbook/assets/image (216).png>)
 
-<figure><img src="broken-reference" alt="" width="277"><figcaption></figcaption></figure>
-
-5.3 Review details and confirm Unstake
-
-<figure><img src="broken-reference" alt="" width="277"><figcaption></figcaption></figure>
-
-6. **Add Position** - Users can add position while their positions are locked. However, the staking period will reset for the specific lock period.
-
-6.1 Select the current staking position and click the “+” icon
-
-<figure><img src="broken-reference" alt="" width="260"><figcaption></figcaption></figure>
-
-6.2 Select the number of tokens to add and review the new staking position
-
-<figure><img src="broken-reference" alt="" width="277"><figcaption></figcaption></figure>
-
-7. Click confirm to complete add position
+7. Clic para confirmar y completar el agregado a la posición
