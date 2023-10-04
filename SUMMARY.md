@@ -68,7 +68,7 @@
     * [iCAKE](productos./ifo-oferta-inicial-de-farm/icake.md)
     * [Detalles de Contrato](productos./ifo-oferta-inicial-de-farm/detalles-de-contrato.md)
   * [🤝 Staking Simple](productos./staking-simple/README.md)
-    * [Page 1](productos./staking-simple/page-1.md)
+    * [Cómo comenzar con Staking Simple](productos./staking-simple/como-comenzar-con-staking-simple.md)
     * [FAQ](productos./staking-simple/faq.md)
   * [💧 Integración de Staking Líquido](productos./integracion-de-staking-liquido/README.md)
     * [Cómo hacer Staking Líquido](productos./integracion-de-staking-liquido/como-hacer-staking-liquido.md)
