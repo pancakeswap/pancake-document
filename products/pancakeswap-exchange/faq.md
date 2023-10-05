@@ -132,11 +132,12 @@ Automatic position managing feature is coming soon to PancakeSwap v3 with one-cl
 
 ### What will be the trading fee breakdown for v3 Exchange?
 
-|                    | 0.01% | 0.05% | 0.25% | 1%  |
-| ------------------ | ----- | ----- | ----- | --- |
-| Liquidity Provider | 67%   | 66%   | 68%   | 68% |
-| CAKE Burn          | 10%   | 10%   | 23%   | 23% |
-| Treasury           | 23%   | 24%   | 9%    | 9%  |
+|                         | 0.01% | 0.05% | 0.25% | 1%  |
+| ----------------------- | ----- | ----- | ----- | --- |
+| Liquidity Provider      | 67%   | 66%   | 68%   | 68% |
+| CAKE Burn               | 10%   | 10%   | 23%   | 23% |
+| Treasury                | 18%   | 19%   | 9%    | 9%  |
+| Fixed Term CAKE Stakers | 5%    | 5%    | 0%    | 0%  |
 
 
 
