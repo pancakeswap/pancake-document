@@ -1,6 +1,6 @@
 # CAKE Tokenomics
 
-<figure><img src="../../.gitbook/assets/230829-en.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
 
 ## **Emission rate** <a href="#emission-rate" id="emission-rate"></a>
 
@@ -9,8 +9,8 @@
 | **Metric**             | **Emission/block (CAKE)** | **Emission/day (CAKE)** |
 | ---------------------- | ------------------------: | ----------------------: |
 | Emission               |                        40 |               1,152,000 |
-| Burned Weekly          |                 \~37.0721 |             \~1,067,680 |
-| **Effective Emission** |            **\~2.9278\*** |          **\~84,320\*** |
+| Burned Weekly          |                 \~38.1626 |             \~1,099,085 |
+| **Effective Emission** |            **\~1.8374\*** |          **\~52,915\*** |
 
 {% hint style="info" %}
 On August 11, 2022, Chefs implemented some configuration upgrades to take full advantage of MasterChef v2. It eliminates the 45,000 CAKE daily burn for the legacy lottery injections. Those burns will now be handled by MasterChef v2 directly along with the usual weekly CAKE burn. Therefore, the effective emissions are now even lower.
@@ -26,7 +26,7 @@ As such, we haven't included it in the above emission rate.
 
 ## Distribution <a href="#distribution" id="distribution"></a>
 
-<table data-header-hidden><thead><tr><th>Distributed to</th><th width="154" align="right">Reward/block (% of emission)</th><th width="158" align="right">Reward/block (total CAKE)</th><th align="right">Reward/day</th></tr></thead><tbody><tr><td>Distributed to</td><td align="right"><p>Reward/block</p><p>(% of emission)</p></td><td align="right"><p>Reward/block</p><p>(total CAKE)</p></td><td align="right">Reward/day</td></tr><tr><td>Trading</td><td align="right">~4.47%</td><td align="right">~1.7889</td><td align="right">51,520 (approx)</td></tr><tr><td>Staking</td><td align="right">~2.5%</td><td align="right">~1</td><td align="right">28,800 (approx)</td></tr><tr><td>Other</td><td align="right">~0.35%</td><td align="right">~0.1389</td><td align="right">4,000 (approx)</td></tr><tr><td><strong>Total Daily CAKE Emission</strong></td><td align="right"></td><td align="right"></td><td align="right"><strong>~84,320 (approx)</strong></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th>Distributed to</th><th width="154" align="right">Reward/block (% of emission)</th><th width="158" align="right">Reward/block (total CAKE)</th><th align="right">Reward/day</th></tr></thead><tbody><tr><td>Distributed to</td><td align="right"><p>Reward/block</p><p>(% of emission)</p></td><td align="right"><p>Reward/block</p><p>(total CAKE)</p></td><td align="right">Reward/day</td></tr><tr><td>Trading</td><td align="right">~3.00%</td><td align="right">~1.1984</td><td align="right">34,515 (approx)</td></tr><tr><td>Staking</td><td align="right">~1.25%</td><td align="right">~0.5</td><td align="right">14,400 (approx)</td></tr><tr><td>Other</td><td align="right">~0.35%</td><td align="right">~0.1389</td><td align="right">4,000 (approx)</td></tr><tr><td><strong>Total Daily CAKE Emission</strong></td><td align="right"></td><td align="right"></td><td align="right"><strong>~52,915 (approx)</strong></td></tr></tbody></table>
 
 ## **Other Deflationary Mechanics** <a href="#other-deflationary-mechanics" id="other-deflationary-mechanics"></a>
 
@@ -36,13 +36,8 @@ The burning process is currently manual. [View burn transactions here](https://b
 
 As well as the above, CAKE is also burned in the following ways:
 
-* **0.001\~0.23%** of every trade made on V3 across:
-  * BNB Chain
-  * Ethereum
-* **0.0575%** of every trade made on V2 across:
-  * BNB Chain
-  * Ethereum
-  * Aptos
+* **0.001\~0.23%** of every trade made on Exchange V3 (on all our chain deployments less Aptos)
+* **0.0575%** of every trade made on Exchange V2 (on all our chain deployments)
 * **0.004%\~0.016%** of every trade made on StableSwap
 * **100%** of CAKE sent to the Dev address
 * **100%** of CAKE performance fees from IFOs
