@@ -39,7 +39,7 @@ PancakeSwap takes a small % of APR rewards for offering the service to our users
 
 ### What happens in the withdrawal process when "Withdrawal approval is pending"?
 
-Once withdrawal/unstake is requested, users will receive the funds in their wallet along with the principal amount. If you receive a "Withdrawal approval is pending" alert, it represents a slight delay during the withdrawal due to an administrative process in this scenario. Users will have to request unstake in a couple of hours and will receive the funds on the same day.
+Once withdrawal/unstake is requested, users will receive the funds in their wallet along with the principal amount. If you receive a "Withdrawal approval is pending" alert, it represents a slight delay during the withdrawal due to an administrative process. Users will have to request unstake in a couple of hours and will receive the funds on the same day.
 
 ### What's next for Simple Staking?
 
