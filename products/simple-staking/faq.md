@@ -37,6 +37,10 @@ Binance may also run promotional campaigns from time to time that are sponsored 
 
 PancakeSwap takes a small % of APR rewards for offering the service to our users. This will be converted into CAKE and burnt. For CAKE holders, fixed-term CAKE stakers will receive boosted APRs if they have locked at least 100 CAKE.
 
+### What happens in the withdrawal process when "Withdrawal approval is pending"?
+
+Once withdrawal/unstake is requested, users will receive the funds in their wallet along with the principal amount. If you receive a "Withdrawal approval is pending" alert, it represents a slight delay during the withdrawal due to an administrative process in this scenario. Users will have to request unstake in a couple of hours and will receive the funds on the same day.
+
 ### What's next for Simple Staking?
 
 The next plan for Simple Staking is to offer more tokens and have the product go multichain in Q4.
