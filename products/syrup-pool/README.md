@@ -39,7 +39,7 @@ Some special pools let you stake other tokens besides CAKE, too!
 
 ### **How can I run a Syrup Pool for my project?**
 
-Reach out via [the application form](https://docs.pancakeswap.finance/contact-us/business-partnerships).
+Find more information about our Syrup Pools [here](../../ecosystem-and-partnerships/business-partnerships/syrup-pools-and-farms.md) and apply using the relevant application form in the link.
 
 ### Syrup Pool Smart Contracts <a href="#docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86" id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
 
