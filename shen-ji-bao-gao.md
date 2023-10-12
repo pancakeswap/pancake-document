@@ -31,7 +31,7 @@
 * [慢雾对新版 CAKE 池的安全审计](https://github.com/slowmist/Knowledge-Base/blob/master/open-report-V2/smart-contract/SlowMist%20Audit%20Report%20-%20Pancakeswap-CakePool\_en-us.pdf) ( 2022 年 3 月)
 * [派盾对新版 CAKE 池的安全审计](https://github.com/peckshield/publications/tree/master/audit\_reports/PeckShield-Audit-Report-PancakeSwap-CakePool-v1.0.pdf)( 2022 年 4 月)
 
-#### 主厨合约 V2
+#### 主厨合约 v2
 
 * [派盾对主厨合约 V2 的安全审计](https://github.com/peckshield/publications/blob/master/audit\_reports/PeckShield-Audit-Report-PancakeSwap-MasterChefV2-v1.0.pdf) ( 2022 年 3月)
 * [慢雾对主厨合约 V2 的安全审计](https://github.com/slowmist/Knowledge-Base/blob/master/open-report-V2/smart-contract/SlowMist%20Audit%20Report%20-%20MasterChef%20v2\_en-us.pdf) ( 2022 年 3 月)
