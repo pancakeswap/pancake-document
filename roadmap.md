@@ -4,9 +4,9 @@ description: 「别把它称作路线图」
 
 # 路线图
 
-<figure><img src=".gitbook/assets/roadmap-header.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (223).png" alt=""><figcaption></figcaption></figure>
 
-更新于 2023 年 4 月 5 日。
+更新于 2023 年 10 月 2 日。
 
 ### 这是一个路线图，而不是待办事项列表
 
@@ -16,7 +16,7 @@ description: 「别把它称作路线图」
 
 这意味着我们不会公开承诺具体的时间表，因此我们可以根据市场变化和开发者资源来组织我们的开发重点。
 
-<figure><img src=".gitbook/assets/2023 Q2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (222).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 出于安全和保密的考虑，某些项目未包含在“烹饪中”部分中。
@@ -24,32 +24,21 @@ description: 「别把它称作路线图」
 
 ### 例行事项（进行中）
 
+* 交易返利计划
 * 定期举行 IFO 和 cIFO&#x20;
 * 定期上新农场和糖浆池&#x20;
 * UI/UX、性能升级和错误修复
+* 关于改进 AMM 的研究
 
-### 2023 年计划
-
-* v3 - 兑换和流动性升级&#x20;
-* 多链扩展&#x20;
-* 联盟和大使计划&#x20;
-* NFT 赋能/平台升级&#x20;
-* 法币整合&#x20;
-* 更多 Defi 产品将陆续推出
-
-### Q2 烹饪中
+### Q4 烹饪中
 
 * v3 仓位管理工具
-* 以太链糖浆池
-* 以太链 IFO
-* 简单质押整合
-* 流动质押整合&#x20;
-* 扩展到另一个区块链
-* vCAKE 产品赋能
-* Mobox Gaming NFT 整合&#x20;
-* 商品专卖店&#x20;
-* 网站更新&#x20;
-* 联盟计划
+* vCAKE 更新 - CAKE 票选激励（Gauge Design）&#x20;
+* 整合路由（Universal Router）
+* Game Expansion
+* 多链预测 &#x20;
+* 多链简单赚币
+* Notification Service Integration
 
 ### 积压的工作
 
@@ -76,6 +65,13 @@ description: 「别把它称作路线图」
 * Aptos PancakeSwap 跨链桥
 * v3- BNB 链和以太链上的兑换和流动性升级&#x20;
 * 以太链和 BNB 链上的做市商整合
+* 扩展到 Polygon zkEVM -兑换和流动性功能
+* 扩展到  Base -兑换和流动性功能
+* 扩展到  Linea - 兑换和流动性功能
+* 扩展到  Arbitrum One - 兑换和流动性功能
+* 扩展到  zkSync Era - 兑换和流动性功能
+* 扩展到  opBNB - 兑换功能
+* 永续合约 v2
 
 #### 赚取
 
@@ -96,6 +92,11 @@ description: 「别把它称作路线图」
 * 一键收取所有利润功能
 * Aptos 上的农场
 * Aptos 上的糖浆池
+* 以太链上的糖浆池
+* 农场竞拍
+* 流动权益质押整合
+* 收入分成池
+* 简单赚币整合
 
 #### 赢得
 
@@ -114,6 +115,7 @@ description: 「别把它称作路线图」
 * 可定制的用户资料&#x20;
 * NFT 空投
 * Pancake 小队生成的 NFT 收藏系列
+* Mobox 游戏 NFT 整合
 
 #### 网站升级 /CAKE / 其他产品
 
@@ -129,3 +131,7 @@ description: 「别把它称作路线图」
 * Aptos 上的第一个 IFO
 * 大使计划
 * PancakeSwap 博客
+* vCAKE 产品赋能
+* 与 MoonPay 和 Mercuryo 整合法币入金服务（on Ramp）
+* 联盟计划
+* 网站改版
