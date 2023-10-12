@@ -10,7 +10,7 @@ iCAKE 类似于之前 IFO CAKE质押池中的"IFO 积分“，该池在 主厨�
 
 举个例子，如果您的 iCAKE 数值为 200，您可以在即将到来的 IFO 公开销售中提交最高 200 个 CAKE 代币。
 
-**iCAKE 不是一个新的代币，他是PancakeSwap IFO系统中使用的一个数值度量。**
+**iCAKE 不是一个新的代币，他是 PancakeSwap IFO系统中使用的一个数值度量。**
 
 ### iCAKE 怎么计算？
 
@@ -35,7 +35,11 @@ iCAKE 类似于之前 IFO CAKE质押池中的"IFO 积分“，该池在 主厨�
 
 ### 如何查看我拥有多少个 iCAKE ?
 
-<figure><img src="../../.gitbook/assets/image3 (2).png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/image3 (2).png" alt="" width="339"><figcaption></figcaption></figure>
+
+</div>
 
 您可以在 [IFO界面](https://pancakeswap.finance/ifo) 看到您的 iCAKE 数值。
 
@@ -46,7 +50,11 @@ iCAKE 类似于之前 IFO CAKE质押池中的"IFO 积分“，该池在 主厨�
 * 在 CAKE 定期锁仓糖浆池中，增加您质押的 CAKE 数量
 * 延长您的锁仓时间（如果您目前的总锁仓时间短于当前的阈值）
 
-<figure><img src="../../.gitbook/assets/image2 (2).png" alt=""><figcaption></figcaption></figure>
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/image2 (2).png" alt="" width="369"><figcaption></figcaption></figure>
+
+</div>
 
 在您调整或初始投入锁仓质押时，锁仓界面将显示您当下的 iCAKE 数值以供预览。
 
@@ -54,9 +62,9 @@ iCAKE 类似于之前 IFO CAKE质押池中的"IFO 积分“，该池在 主厨�
 
 两个 IFO 销售活动之间的时间段中，厨房会根据**锁仓质押 CAKE 糖浆池**的**平均质押时长**来优化**阈值**。优化结果将在**所有社交媒体渠道**上公布。
 
-<div align="center">
+<div align="left">
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption><p>图片仅供参考，实际「阈值」周数可于当期IFO界面查看。</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (32).png" alt="" width="370"><figcaption><p>图片仅供参考，实际「阈值」周数可于当期IFO界面查看。</p></figcaption></figure>
 
 </div>
 

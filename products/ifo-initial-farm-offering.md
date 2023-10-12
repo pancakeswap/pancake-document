@@ -10,13 +10,15 @@
 2. **您需要 iCAKE** 才能参与公开销售。
 3. **您需要满足 IFO 页面卡片上之要求** 才能参与私有销售。
 
+在此学习[如何参加 IFO](ifo-initial-farm-offering.md#ru-he-can-jia-ifo)。
+
 ## **如何参加 IFO**
 
 请浏览 [https://pancakeswap.finance/ifo](https://pancakeswap.finance/ifo) 来了解更多关于 IFO 的信息。
 
 **开售前**
 
-1. 完成您的 PancakeSwap 个人资料设置
+1. [完成您的 PancakeSwap 个人资料设置](nft-ge-ren-dang-an-xi-tong/ru-he-she-zhi-nft-ge-ren-zi-liao.md)
 2. [购买 CAKE 代币](https://pancakeswap.finance/swap#/swap)
 3. 将 CAKE 质押[在定期质押糖浆池](syrup-pools/cake-tang-jiang-chi/ru-he-shi-yong-suo-cang-zhi-ya-tang-jiang-chi.md)即可获得 iCAKE 数值
 
@@ -28,6 +30,11 @@
 
 1. 销售结束后，您可以回到 IFO 页面领取您购得的代币。
 2. 完成！如果出现[超额认购](ifo-initial-farm-offering.md#overflow)，您可以在 IFO 页面手动领取剩余没有使用到的 CAKE 代币。
+3. 如果是有分期释放机制的 IFO，请在整个代币分期释放期间回来查看 IFO 页面领取已释放的代币，直到所有代币完全解锁。
+
+## 如何参与跨链 IFO?
+
+(更多详情即将发布）
 
 ## **什么是「超额认购」？** <a href="#overflow" id="overflow"></a>
 
@@ -37,7 +44,7 @@
 
 
 {% hint style="warning" %}
-若您投入的CAKE数量仅占总数非常小的一部分，您可能最终会买不到任何的 IFO 代币。因为您的投入数相对于总量来说非常小，以至于在计算时，您没有资格获得任何代币。
+若您投入的CAKE数量仅占总数非常小的一部分，您可能**最终会买不到任何的 IFO 代币**。因为您的投入数相对于总量来说非常小，以至于在计算时，您没有资格获得任何代币。
 
 在这种情况下，您仍可以在完售后，认领未消费的 CAKE 代币。
 {% endhint %}
