@@ -1,6 +1,6 @@
 # 💳 购买加密货币
 
-PancakeSwap 现在支持使用信用卡、借记卡（签帐卡）或银行转账购买加密货币。整合法币入金入口服务，可以协助用户方便快速流畅地使用法币购买加密货币。使用我们的法币入口报价系统，用户可以从提出报价的 Web3 服务提供商中挑选中意的提供商以及比对汇率。
+PancakeSwap 现在支持使用信用卡、借记卡（签帐卡）或银行转账购买加密货币。现整合了法币入金入口服务（on ramp services)，此服务可以协助用户方便快速流畅地使用法币购买加密货币。使用我们的法币入口报价系统，用户可以在提出报价的 Web3 服务提供商中比对，从中挑选最好的汇率。
 
 ### 给用户带来的好处
 
@@ -16,19 +16,21 @@ PancakeSwap 现在支持使用信用卡、借记卡（签帐卡）或银行转�
 
 法币入口服务将在 BNB 链和以太链上提供。主要支持的加密货币和法币在下表中列出：
 
-<table><thead><tr><th width="137">服务提供商</th><th width="203">费用*</th><th>支持的法币</th><th>支持的代币**</th></tr></thead><tbody><tr><td>Mercuryo</td><td>3.95% 借记卡/信用卡 3.95% 银行转账/SEPA （欧洲)</td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY, KRW, VND</td><td><p>ERC-20: ETH, USDT,  DAI</p><p></p><p>BEP-20: BNB, BUSD<br><br>ARB: ETH, USDC</p></td></tr><tr><td>MoonPay</td><td><p>2.75% 借记卡/信用卡</p><p>1.25% 银行转账/SEPA （欧洲)</p><p>2.95%  PIX （巴西)</p></td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY, KRW, TWD, IDR, VND</td><td><p>ERC-20: ETH, USDT, USDC,  DAI </p><p></p><p>BEP-20: BNB (非美国用户), BUSD<br><br>ARB: ETH, USDC.e</p></td></tr></tbody></table>
+<table><thead><tr><th width="137">服务提供商</th><th width="203">费用*</th><th>支持的法币</th><th>支持的代币**</th></tr></thead><tbody><tr><td>Mercuryo</td><td>3.95% 借记卡/信用卡 3.95% 银行转账/SEPA （欧洲)</td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY, KRW, VND</td><td><p>ERC-20: ETH, USDT,  DAI</p><p></p><p>BEP-20: BNB<br><br>ARB: ETH, USDC</p></td></tr><tr><td>MoonPay</td><td><p>2.75% 借记卡/信用卡</p><p>1.25% SEPA (欧洲), FPS (英国)</p><p>2.95%  PIX (巴西)</p></td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY, KRW, TWD, IDR, VND</td><td><p>ERC-20: ETH, USDT, USDC,  DAI </p><p></p><p>BEP-20: BNB (非美国用户)<br><br>ARB: ETH, USDC.e</p></td></tr><tr><td>Transak***</td><td><p>3.5% -5.5% 借记卡/信用卡/Apple Pay/Google Pay,</p><p>0.99% SEPA (欧洲), FPS (英国), Cash App (美元)</p></td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY, KRW, VND</td><td><p>ERC-20: ETH, USDT, USDC, DAI, WBTC<br></p><p>BEP-20: BNB (Non-US), USDC<br><br>ARB: ETH, ARB, USDC.e, USDC<br><br>Base: USDC, ETH<br><br>Linea: USDC, ETH<br><br>Polygon ZkEVM, ZkSync Era: ETH</p></td></tr></tbody></table>
 
 \*费用受最低和最高消费金额影响--一般落在 30 美元和 10,000 美元之间，根据购买的币种而定。
 
 \*选择刷卡付款的话，最低刷卡金额为 3.99 美金或等值当地货币。&#x20;
 
-\*\*请注意，是否能购买特定加密货币可能因用户所在地区而异。&#x20;
+\*\*请注意，是否能购买特定加密货币可能因用户所在地区而异。
+
+&#x20;\*\*\* Base、Arbitrum 和 Linea 不支持美元币种的法币入口服务。如果您欲使用该服务，请使用其他法定货币（EU, GBP）。请点击[此处](https://transak.notion.site/On-Ramp-Payment-Methods-Fees-Other-Details-b0761634feed4b338a69f4f186d906a5)查看各地区的信用卡/借记卡的手续费。
 
 请注意，报价系统将提供完全透明的兑换汇率（费用内含），以协助用户选择对自己最有利的方案。
 
 ### 如何购买加密货币？
 
-1. 点击PancakeSwap平台上的 "购买加密货币" 按钮。
+1. 点击 PancakeSwap 平台上的 "购买加密货币" 按钮。
 
 ![](<../.gitbook/assets/image (199).png>)
 
@@ -64,6 +66,7 @@ PancakeSwap 现在支持使用信用卡、借记卡（签帐卡）或银行转�
 
 * [Mercuryo](https://help.mercuryo.io/en/articles/6122838-on-and-off-ramps)
 * [MoonPay](https://support.moonpay.com/hc/en-gb/sections/360003486437-Buying-Cryptocurrency-)
+* [Transak](https://support.transak.com/en/collections/3985810-customer-help-center)
 
 ### 接下来的计划？&#x20;
 

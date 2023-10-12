@@ -2,7 +2,7 @@
 
 <figure><img src="../../../.gitbook/assets/docs masthead (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-PancakeSwap 上的 StableSwap 是一项基于不变曲线滑点函数，具有较低滑点的稳定币对交易的功能。 它设计用于交换特定资产的代币对，该代币对存在某些机制使两种资产的价格相当接近——例如美元稳定币（例如 HAY、BUSD 和 USDT）或流动权益质押代币（liquid staking tokens）（例如 stkBNB 和 aBNBc）。&#x20;
+PancakeSwap 上的 StableSwap 是一项基于不变曲线滑点函数，具有较低滑点的稳定币对交易的功能。 它设计用于交换特定资产的代币对，该代币对存在某些机制使两种资产的价格相当接近——例如美元稳定币（例如 HAY、BUSD 和 USDT）或流动权益质押的质押凭证（liquid staking tokens）（例如 stkBNB 和 aBNBc）。&#x20;
 
 稳定币兑换是 Curve Finance 的 AMM 在 PancakeSwap 上的实现。 它在恒定乘积公式 (x\*y=k) 之上添加线性不变常数和曲线 (x+y=k)，以在流动性池不是极度不平衡的情况下保持价格更加均等。 因此，由于 StableSwaps 仅限于价格逼近的资产，因此无常损失并不那么令人担忧（在极端价格脱锚情况下除外），并且滑点低于仅使用恒定乘积公式的普通 AMM。&#x20;
 
