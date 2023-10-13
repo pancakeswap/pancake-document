@@ -16,8 +16,8 @@ One key feature that sets MADBTCUSD apart from traditional cryptocurrencies is t
 
 **3. Market Availability:**
 
-Currently, MADBTCUSD Index is available in Classic Mode on BNB Chain, alongside other major markets like BTCUSD, ETHUSD. The contract offers additional benefits such as zero position open fee, PnL based position close fee and up to 250x leverage.
+Currently, MADBTCUSD Index is available in Classic Mode on BNB Chain, alongside other major markets like BTCUSD, and ETHUSD. The contract offers additional benefits such as zero position open fee, PnL based position close fee and up to 250x leverage.
 
-If you're intrigued by the concept of MADBTCUSD and want to explore the intricacies of this contract further, here’s a dedicated [FAQ](madbtcusd-faq.md) page to provide you with comprehensive methodology.
+If you're intrigued by the concept of MADBTCUSD and want to explore the intricacies of this contract further, here’s a dedicated [FAQ](madbtcusd-faq.md) page to provide you with a comprehensive methodology.
 
 _**It's important to note that due to its extreme volatility, MADBTCUSD may not be suitable for all traders, so it's essential to conduct your research and fully understand the risks involved before participating**_
