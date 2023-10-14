@@ -33,20 +33,14 @@ Los activos se pueden utilizar para depósitos on-chain de una manera estrictame
 
 Binance también puede ejecutar campañas promocionales de vez en cuando patrocinadas por proyectos asociados para atraer a más usuarios.
 
-### How do PancakeSwap and CAKE Holders benefit from this?
+### ¿Cómo se benefician PancakeSwap y los holders de CAKE de esto?
 
-PancakeSwap takes a small % of APR rewards for offering the service to our users. This will be converted into CAKE and burnt. For CAKE holders, fixed-term CAKE stakers will receive boosted APRs if they have locked at least 100 CAKE.
+PancakeSwap se lleva un pequeño porcentaje de APR de las recompensas por ofrecer el servicio a nuestros usuarios. Esto se convertirá en CAKE y se quemará. Para los holders de CAKE, los stakers de CAKE a plazo fijo recibirán APR aumentadas si han bloqueado al menos 100 CAKE.
 
-### What happens in the withdrawal process when "Withdrawal approval is pending"?
+### ¿Qué sucede en el proceso de retiro cuando "La aprobación del retiro está pendiente"?
 
-Once withdrawal/unstake is requested, users will receive the funds in their wallet along with the principal amount. If you receive a "Withdrawal approval is pending" alert, it represents a slight delay during the withdrawal due to an administrative process. Users will have to request unstake in a couple of hours and will receive the funds on the same day.
+Una vez que se solicita el retiro/unstake, los usuarios recibirán los fondos en su billetera junto con el monto principal. Si recibe una alerta de "Aprobación de retiro pendiente", representa un ligero retraso durante el retiro debido a un proceso administrativo. Los usuarios deberán solicitar el unstake en un par de horas y recibirán los fondos el mismo día.
 
-### What's next for Simple Staking?
+### ¿Qué sigue para el Stake Simple?
 
-The next plan for Simple Staking is to offer more tokens and have the product go multichain in Q4
-
-
-
-&#x20;&#x20;
-
-&#x20;  ¿Cómo se benefician PancakeSwap y CAKE Holders de esto? PancakeSwap se lleva un pequeño porcentaje de las recompensas APR por ofrecer el servicio a nuestros usuarios. Esto se convertirá en TORTA y se quemará. Para los titulares de CAKE, los apostadores de CAKE a plazo fijo recibirán APR aumentadas si han bloqueado al menos 100 CAKE. ¿Qué sucede en el proceso de retiro cuando "La aprobación del retiro está pendiente"? Una vez que se solicita el retiro/desapuesta, los usuarios recibirán los fondos en su billetera junto con el monto principal. Si recibe una alerta de "Aprobación de retiro pendiente", representa un ligero retraso durante el retiro debido a un proceso administrativo. Los usuarios deberán solicitar la cancelación de la apuesta en un par de horas y recibirán los fondos el mismo día. ¿Qué sigue para el Stake Simple? El próximo plan para Simple Stake es ofrecer más tokens y hacer que el producto se convierta en multicadena en el cuarto trimestre.
+El próximo plan para Simple Stake es ofrecer más tokens y hacer que el producto se convierta en multichain en el cuarto trimestre.
