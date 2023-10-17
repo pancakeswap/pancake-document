@@ -51,7 +51,7 @@ Agora que você encontrou u Farm para fazer stake, você precisará fornecer liq
 
 2 - Alternativamente, você pode clicar no Farm da que escolheu na lista. Ele será aberto para mostrar mais detalhes. Ou com a visualização do card, clique em “Detalhes” para expandir e obter mais detalhes. Clique no link "Adicionar LP XXX-YYY" na seção de detalhes para adicionar liquidez.
 
-![](<../../.gitbook/assets/image (1) (1) (1) (2).png>)
+![](<../../.gitbook/assets/image (1) (1) (1).png>)
 
 ### **Faça Stake de suas posições no farm**
 
