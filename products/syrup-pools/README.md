@@ -38,7 +38,7 @@
 
 ### **如何帮我的项目申请一个糖浆池？** <a href="#how-can-i-run-a-syrup-pool-for-my-project" id="how-can-i-run-a-syrup-pool-for-my-project"></a>
 
-使用 [申请表单](https://docs.pancakeswap.finance/contact-us/business-partnerships) 申请，或参见[ 商业合作](broken-reference) 页面。
+点击[此处](../../sheng-tai-xi-tong-he-zuo-huo-ban-guan-xi/shang-wu-he-zuo/tang-jiang-chi-he-nong-chang.md)了解糖浆池的更多信息，并使用链接中的相关申请表进行申请。
 
 ### 糖浆池智能合约 <a href="#docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86" id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
 
