@@ -54,7 +54,9 @@ These are our liquidity requirements across the different chains:
 | BNB Chain     | 10 BNB                 | WBNB, USDT, BUSD, USDC, BTCB, WETH, CAKE                  |
 | Ethereum      | 5 ETH                  | WETH, DAI, USDC, USDT, WBTC, LINK, FEI, MATIC, AAVE, CAKE |
 | Base          | 1 ETH                  | USDC, cbETH, rETH, DAI, crvUSD                            |
+| opBNB         | 1 BNB                  | WBNB, USDT                                                |
 | Arbitrum      | No requirement for now | USDT, USDC, USDC.e, ARB, WBTC, DAI                        |
 | Polygon zkEVM | No requirement for now | WETH, USDC, USDT, MATIC, DAI, WBTC                        |
 | zkSync        | No requirement for now | USDT, USDC, BUSD, WBTC                                    |
 | Linea         | No requirement for now | USDC, USDT, DAI, BUSD, WBTC                               |
+| Scroll        | No requirement for now | WETH, USDT, USDT, LUSD, WBTC, RETH, STETH, DAI            |
