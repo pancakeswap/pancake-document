@@ -38,23 +38,23 @@ Puedes encontrar este indicador de APR en las siguientes secciones:
 
 <figure><img src="../../.gitbook/assets/image (7) (6).png" alt=""><figcaption></figcaption></figure>
 
-Whenever you see the automatic APR displays, you can click and bring up the new ROI calculator. The new ROI calculator has been redesigned with serval added features to fit the needs for V3 concentrated liquidity providing and farming.
+Siempre que vea las pantallas de APR automática, puede hacer clic y abrir la nueva calculadora de ROI. La nueva calculadora de ROI ha sido rediseñada con funciones adicionales de servicio para satisfacer las necesidades de aporte de liquidez concentrada y farming V3.&#x20;
 
-Let’s go through each of the sections together:
+Repasemos juntos cada una de las secciones:
 
-### Deposit Amount, “Staked For” and “Compounding Every” <a href="#a398a29b-a1af-4ec3-9cc6-9e07e620c134" id="a398a29b-a1af-4ec3-9cc6-9e07e620c134"></a>
+### Monto de depósito, “Staked For” y “Compounding Every” <a href="#a398a29b-a1af-4ec3-9cc6-9e07e620c134" id="a398a29b-a1af-4ec3-9cc6-9e07e620c134"></a>
 
-These three are the basic inputs, which are also presented in the previous ROI calculator. They are there to define:
+Estos son los tres datos principales a ingresar, los cuales también fueron presentados en la calculadora anterior. Sirven para definir:
 
-1. How many assets are provided to the liquidity position, in USD.
-2. For how long those assets will be staked in the position.
-3. How often you will be compounding rewards back to the position.
+1. Cuánto es lo que está aportado en la posición, en USD.
+2. Por cuánto tiempo estará  depositado en la posición.
+3. Con qué frecuencia harás la reinversión de las recompensas.
 
 
 
 ⓵ **Deposit Amount**
 
-![](broken-reference)
+![](../../.gitbook/assets/image.png)
 
 You may manually input the amount in USD, or use the quick action buttons to quickly fill in $100, $1000 or the maximum amount allowed based on the token balance in your wallet.
 
