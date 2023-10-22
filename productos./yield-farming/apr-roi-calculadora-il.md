@@ -52,17 +52,17 @@ Estos son los tres datos principales a ingresar, los cuales también fueron pres
 
 
 
-⓵ **Deposit Amount**
+⓵ **Monto de depósito**
 
-![](../../.gitbook/assets/image.png)
+<figure><img src="../../.gitbook/assets/deposit-amount.gif" alt=""><figcaption></figcaption></figure>
 
-You may manually input the amount in USD, or use the quick action buttons to quickly fill in $100, $1000 or the maximum amount allowed based on the token balance in your wallet.
+Puedes ingresar la cantidad en USD manualmente, o usar los botones para autocompletar directamente $100, $1000 o la cantidad máxima permitida, según la cantidad disponible en tu wallet.
 
 
 
-⓶ **Stake Duration**
+⓶ **Duración del depósito**
 
-![](broken-reference)
+<figure><img src="../../.gitbook/assets/stake-durations.gif" alt=""><figcaption></figcaption></figure>
 
 You can select how long the assets are staked in the liquidity position by choosing between: 1 day, 7 days, 30 days, 1 year, and 5 years.
 

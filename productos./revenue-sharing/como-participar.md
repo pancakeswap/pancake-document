@@ -17,11 +17,11 @@ layout:
 
 # Cómo participar?
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 1 - Ser elegible <a href="#8b63b3dd-b974-4e1b-9c5e-ed8eea2891ab" id="8b63b3dd-b974-4e1b-9c5e-ed8eea2891ab"></a>
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Para ser elegible, debes tener una posición de CAKE en stake bloqueado. Para aprender más sobre cómo armar una posición bloqueada de CAKE, lea [aquí](../syrup-pools/nuevo-cake-pool/como-usar-staking-bloqueado.md).&#x20;
 
