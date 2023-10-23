@@ -95,7 +95,7 @@ Clic en “Harvest” en la posición, y tu wallet te pedirá confirmación. Un 
 
 Aún estando depositada en un farm, puedes agregar o retirar liquidez sin necesidad de retirar la posición.
 
-![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 Para hacerlo, simplemente regresa a la página de Farms, y encuentra el farm y posición que quieres ajustar. Puedes usar la opción de “Staked Only” para filtrar rápidamente los farms en los que estás participando.
 
