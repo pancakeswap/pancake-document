@@ -96,10 +96,10 @@ Puedes ver el histórico en diferentes escalas de tiempo, como, por ejemplo, cu�
 * CURRENT - precio actual
 
 {% hint style="info" %}
-The price chart is only using data from the actual V3 pair. Therefore price data before V3 deployment is not available. The four price metrics represent the currently selected timeframe and will change based on the selection.
+El gráfico de precios usa datos solamente del par real en V3. Por lo tanto, los datos de precio anteriores al lanzamiento en V3 no están disponibles. Las cuatro variables del precio son respecto a la escala de tiempo seleccionada, y varían según dicha selección.
 {% endhint %}
 
-### ⓹ Price Range <a href="#bbec6919-1404-4523-815e-063405a961f1" id="bbec6919-1404-4523-815e-063405a961f1"></a>
+### ⓹ Rango de precio <a href="#bbec6919-1404-4523-815e-063405a961f1" id="bbec6919-1404-4523-815e-063405a961f1"></a>
 
 ![](broken-reference)
 
