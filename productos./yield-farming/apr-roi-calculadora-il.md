@@ -99,20 +99,20 @@ Puedes ver el histórico en diferentes escalas de tiempo, como, por ejemplo, cu�
 El gráfico de precios usa datos solamente del par real en V3. Por lo tanto, los datos de precio anteriores al lanzamiento en V3 no están disponibles. Las cuatro variables del precio son respecto a la escala de tiempo seleccionada, y varían según dicha selección.
 {% endhint %}
 
-### ⓹ Rango de precio <a href="#bbec6919-1404-4523-815e-063405a961f1" id="bbec6919-1404-4523-815e-063405a961f1"></a>
+### ⓹ Rangos de precio <a href="#bbec6919-1404-4523-815e-063405a961f1" id="bbec6919-1404-4523-815e-063405a961f1"></a>
 
-![](broken-reference)
+<figure><img src="../../.gitbook/assets/spaces_-MHREX7DHcljbY5IkjgJ-1972196547_uploads_dkCIM5NYI1VLXsk9UEdF_price-range.webp" alt=""><figcaption></figcaption></figure>
 
-Using this section, you may check how much liquidity has been deposited to different price ranges, and come up with and set the price range you are providing liquidity to.
+Usando esta sección, podrás chequear cuánta liquidez ha sido depositada en los diferentes rangos de precio, y así decidir y crear y establecer el rango de precios al que estás proporcionando liquidez.
 
-You may find the distribution chart below the title. The larger the amount of liquidity, the higher the chart will be.
+Puedes encontrar el gráfico de distribución debajo del título. Cuanto más grande sea la cantidad de liquidez, más alto será el gráfico.
 
-You can change your price range settings by:
+Puedes cambiar tu selección de rango de precio de diferentes maneras:
 
-* Dragging the two handles on the chart to increase or describes the minimum and maximum price limit.
-* Using the space between two handles to shift the selected range.
-* Clicking the + and - button on the min and max price fields.
-* Clicking the numbers in the price fields and entering them manually.
+* Arrastrando las dos barras del gráfico para aumentar o disminuir los límites máximo y mínimo del precio.
+* Usando el espacio entre las barras para desplazar el rango seleccionado.
+* Haciendo clic en los botones de + y - en los campos de min y max del precio.
+* Haciendo clic en los números en los campos de precio e ingresándolos manualmente.
 
 If you want to navigate the distribution chart:
 
