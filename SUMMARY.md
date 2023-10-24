@@ -43,7 +43,7 @@
       * [Limit Orders FAQ](productos./pancakeswap-exchange/limit-orders-v2/limit-orders-faq.md)
   * [🚜 Yield Farming](productos./yield-farming/README.md)
     * [Cómo usar Farms](productos./yield-farming/como-usar-yield-farm-en-pancakeswap.md)
-    * [APR/ROI/Calculadora IL ()](productos./yield-farming/apr-roi-calculadora-il.md)
+    * [APR/ROI/Calculadora IL](productos./yield-farming/apr-roi-calculadora-il.md)
     * [FAQ](productos./yield-farming/faq.md)
     * [Farming en Aptos](productos./yield-farming/farming-en-aptos/README.md)
       * [Preguntas más frecuentes (FAQ)](productos./yield-farming/farming-en-aptos/preguntas-mas-frecuentes-faq.md)
