@@ -114,35 +114,35 @@ Puedes cambiar tu selección de rango de precio de diferentes maneras:
 * Haciendo clic en los botones de + y - en los campos de min y max del precio.
 * Haciendo clic en los números en los campos de precio e ingresándolos manualmente.
 
-If you want to navigate the distribution chart:
+Si quieres navegar por el gráfico de distribución:
 
-1. Use the plus and minus magnifier buttons to zoom in and out
-2. Drag the X (bottom) axis to shift left and right
+1. Usa los botones de + y - de la lupa para hacer zoom.
+2. Arrastra el eje X (inferior) para desplazarte hacia la derecha o izquierda.
 
-If you want to provide liquidity to the entire price range, click “Full Range”
+Si quieres aportar liquidez al rango de precios completo, haz clic en “Full Range”.
 
-### ⓺ Flip the price direction to view prices with different base <a href="#5c3bdfaf-bd66-4942-873d-d617eeeab53d" id="5c3bdfaf-bd66-4942-873d-d617eeeab53d"></a>
+### ⓺ Invierte la dirección del precio para verlo con base en diferente activo <a href="#5c3bdfaf-bd66-4942-873d-d617eeeab53d" id="5c3bdfaf-bd66-4942-873d-d617eeeab53d"></a>
 
-![](broken-reference)
+<figure><img src="../../.gitbook/assets/flip-directions.gif" alt=""><figcaption></figcaption></figure>
 
-For some token pairs, it is easier and more intuitive to view prices with certain base tokens. For example, for BNB/USDT pair, most people will prefer to view prices in “how many USDT per BNB” instead of the other way around.
+Para algunos pares, es más fácil e intuitivo ver los precios con determinado token como base. Por ejemplo, para el par BNB/USDT, la mayoría preferirá ver los precios de la manera "cuántos USDT por BNB" en lugar de verlo a la inversa.
 
-You can easily flip the price displays. Simply click the button following the “View prices in:” to switch the base between two tokens in the pair.
+Puedes invertir el precio base fácilmente. Simplemente haz clic en el botón a continuación de "Ver precio en:" para cambiar la base entre los dos tokens del par.
 
-### ⓻ Import and export (apply) your settings <a href="#d18cf936-315e-4432-a3a5-f65976651073" id="d18cf936-315e-4432-a3a5-f65976651073"></a>
+### ⓻ Importar y exportar (aplicar) tus preferencias <a href="#d18cf936-315e-4432-a3a5-f65976651073" id="d18cf936-315e-4432-a3a5-f65976651073"></a>
 
-![](broken-reference)
+<figure><img src="../../.gitbook/assets/apply-settings.gif" alt=""><figcaption></figcaption></figure>
 
-When you open the ROI calculator in the “Add Liquidity” window, or by viewing an existing position, the following settings will be automatically imported so you don’t need to set them again:
+Cuando abres la calculadora de ROI en la ventana de "Agregar liquidez", o chequeando una posición existente, las siguientes preferencias serán importadas automáticamente, así que no hace falta que las setees otra vez:
 
-1. The amount of assets you are depositing
-2. The price range
-3. The selected fee tier
+1. La cantidad de activos que estás depositando
+2. El rango de precios
+3. El fee tier elegido
 
-When you finish configuring in the ROI calculator, you can click “Apply Settings” to quickly apply the settings from the calculator back to the “Add Liquidity” window so you don’t need to match them manually.
+Cuando terminas de configurar la calculadora de ROI, puedes hacer clic en "Aplicar Preferencias" para aplicar directamente las preferencias seteadas en la calculadora a la ventana de "Agregar liquidez" así no tienes que hacerlo manualmente luego.
 
 ### ⓼ Calculate farming rewards and APR <a href="#584c385b-5f76-42e5-8751-8344d6bd4749" id="584c385b-5f76-42e5-8751-8344d6bd4749"></a>
 
-Farming rewards will be included in the calculations if you bring up the ROI calculator under the “Farm” page.
+Las recompensas de Farming serán incluidas en los cálculos si abres la calculadora de ROI desde la página de "Farm".
 
-You can expand the detail sections to see the rewards breakdown
+Puedes abrir la sección de detalles para ver la composición desagregada de las recompensas
