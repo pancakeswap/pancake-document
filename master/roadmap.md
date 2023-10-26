@@ -27,9 +27,6 @@ Eso significa que no nos comprometemos públicamente con plazos específicos, po
 * Nuevos Syrup Pools y Farms
 * UI/UX, Corrección de errores, Actualización de productos
 * Investigación en mejoras de AMM
-
-### **Planes para 2023** <a href="#_13xevdp297dx" id="_13xevdp297dx"></a>
-
 * v3 - Swap y Liquidity actualización
 * Expansión Multichain
 * Programa de Afiliados y Embajadores
@@ -44,14 +41,10 @@ Eso significa que no nos comprometemos públicamente con plazos específicos, po
 * Router Universal
 * Expansión de Juego
 * Predicción Multichain
-* Nuevas utilidades para vCAKE
-* Integración de Mobox Gaming NFT
-* Tienda de Merchandising
-* Renovación del sitio web
-* Programa de Afiliados
-*
+* Staking Simple Multichain
+* Integración de Servicio de Notificación
 
-### **Trabajos atrasados** <a href="#_fq7xnoy9higs" id="_fq7xnoy9higs"></a>
+### **Trabajos pendientes** <a href="#_fq7xnoy9higs" id="_fq7xnoy9higs"></a>
 
 * Gamificaciones NFT
 
@@ -80,6 +73,13 @@ Otras mejoras y actualizaciones.
 * Puente de PancakeSwap Aptos
 * Actualización Swap y Liquidez V3 en BNB Chain y ETH
 * Integración de Market Maker en ETH y BNB Chain
+* Expansión a Polygon zkEVM - Swap y Liquidez
+* Expansión a Base - Swap y Liquidez
+* Expansión to Linea - Swap y Liquidez
+* Expansión to Arbitrum One - Swap y Liquidez
+* Expansión to zkSync Era - Swap y Liquidez
+* Expansión to opBNB - Swap
+* Perpetuos v2
 
 #### **Earn** <a href="#_vjdjx9gl4xxd" id="_vjdjx9gl4xxd"></a>
 
@@ -100,6 +100,11 @@ Otras mejoras y actualizaciones.
 * Función de cosecha total
 * Farming en Aptos
 * Syrup Pools en Aptos
+* Syrup Pools en Ethereum
+* Subasta de Farms
+* Integración de Staking Líquido
+* Pool de Revenue Sharing (Ingreso compartido)
+* Integración de Simple Staking&#x20;
 
 #### **Win** <a href="#_u7a5ujie2tin" id="_u7a5ujie2tin"></a>
 
@@ -117,6 +122,7 @@ Con doble opción CAKE o BNB Con Gráfico de Precios de Chainlink y Chainlink Ke
 * Perfil de Usuario Personalizable
 * NFT drops
 * Colección Pancake Squad NFT
+* Integración con Mobox Gaming NFT
 
 #### **Actualizaciones del Sitio / CAKE / Otros Productos** <a href="#_mjkwsc9y0xhb" id="_mjkwsc9y0xhb"></a>
 
@@ -132,119 +138,7 @@ Con doble opción CAKE o BNB Con Gráfico de Precios de Chainlink y Chainlink Ke
 * Primera IFO en Aptos
 * Programa de Embajadores
 * Blog de PancakeSwap
-
-
-
-*
-
-
-
-### Cooking in Q4
-
-* v3 Position Manager
-* vCAKE Update - Gauge Design
-* Universal Router
-* Game Expansion
-* Multichain Prediction
-* Multichain Simple Staking
-* Notification Service Integration
-
-### Backlogs
-
-* NFT Gamifications\
-  Potential collaborations with other top projects on BNB Chain
-* NFT Market \
-  Phase 3 - open NFT platform\
-  Other improvements and upgrades
-
-### Done
-
-#### Trade
-
-* Stablecoin Swap - more pairs added
-* Zap - Provide liquidity in one click
-* Perpetual Trading
-* Limit Orders
-* Charts & other trading features on-site
-* Migration to Exchange V2 (exchange, liquidity, farms)
-* Pancake Bridge
-* Token Risks Scanning
-* Multichain Swap & Liquidity
-* Deployment to Aptos Chain
-* Aptos PancakeSwap Bridge
-* v3- Swap & Liquidity Upgrade on BNB chain and Ethereum
-* Market Maker Integration on Ethereum and BNB Chain
-* Expansion to Polygon zkEVM - Swap and Liquidity
-* Expansion to Base - Swap and Liquidity
-* Expansion to Linea - Swap and Liquidity
-* Expansion to Arbitrum One - Swap and Liquidity
-* Expansion to zkSync Era - Swap and Liquidity
-* Expansion to opBNB - Swap
-* Perpetuals v2
-
-
-
-
-
-#### Earn
-
-* CAKE Staking
-  * Fixed-term Staking
-  * CAKE Side Pool - Flexible CAKE staking on the side of locked staking
-* Fixed-Term Staking Benefits&#x20;
-  * iCAKE, IFO benefits
-  * vCAKE, weighted voting power
-  * bCAKE, farm yield booster
-  * Events with well-known projects
-* Farms
-* Crosschain Farming
-* Syrup Pools
-* Syrup Pool Farm Boosts
-* Auto-compounding CAKE-CAKE Syrup Pool
-* APR/APY Calculator v3
-* Harvest all function
-* Farming on Aptos
-* Syrup Pools on Aptos
-* Syrup Pools on Ethereum
-* Farm Auction
-* Liquid Staking Integration
-* Revenue Sharing Pool
-* Simple Staking Integration
-
-#### Win
-
-* Lottery v2
-* Prediction v0.2\
-  Duo currency with BNB and CAKE\
-  with Chainlink Price Chart and Chainlink Keepers
-* Team Battle (Trading Comps as a Service)
-* Pottery\
-  Lottery by staking\
-  New Pottery cohort every month
-
-#### NFT
-
-* NFT Market Phase 1 & 2(buy & sell whitelisted NFT collections)
-* Customizable User Profile
-* NFT drops
-* Pancake Squad generative NFT collection
-* Mobox Gaming NFT Integration
-
-#### Site Upgrades / CAKE / Other Products
-
-* Mobile-first navigation & site overhaul
-* Analytics: Info site
-* IFO CAKE Pool & IFO 3.0
-* IFO
-  * Private Sales with NFT Utility
-  * cIFO, Private Sales with Pancake Profile points utility
-  * Token vesting
-  * iCAKE integration
-* PCS Mini-Program in Binance App
-* The first Aptos IFO
-* Ambassador Program
-* PancakeSwap Blog
-* vCAKE Product utilities
-* Fiat on Ramp Integration with MoonPay and Mercuryo
-* Affiliate Program
-* Website Revamp
+* Utilidades vCAKE
+* Integración para compras con Fiat junto a MoonPay y Mercuryo
+* Programa de Afiliados
+* Renovación del sitio web
