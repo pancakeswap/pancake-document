@@ -235,7 +235,7 @@ For **Operator** to draw the final number using ChainLink VRF function.
 
 In the case of tokens other than CAKE mistakenly being sent to the lottery contract, this function is used to recover them and is only callable by the **Owner**
 
-
+***
 
 ### `setMinAndMaxTicketPriceInCake` - Owner
 
