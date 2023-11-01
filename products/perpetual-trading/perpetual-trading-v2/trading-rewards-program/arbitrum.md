@@ -4,7 +4,7 @@ On 31st August 2023, PancakeSwap Perpetuals will launch the V2 Trading Rewards P
 
 Starting time: 31st August 2023, 08:00 (UTC)
 
-Activity (Epoch) period: Every Thursday 08:00:00 UTC to next Thursday 07:59:59, lasting 1 week
+Activity (Epoch) period: Every Thursday 08:00:00 UTC to the next Thursday 07:59:59, lasting 1 week
 
 Reward Distribution Time: Each cycle is 00:00 (UTC) to 23:59 (UTC) daily. Rewards are issued on every Thursday at around 08:00 (UTC). After user's tier is update, rewards will be calculated and distributed. Users have to claim their rewards within 30 days after the rewards are issued. If they do not, the platform will revoke the rewards.&#x20;
 
