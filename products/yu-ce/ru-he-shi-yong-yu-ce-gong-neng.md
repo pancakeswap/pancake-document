@@ -2,17 +2,17 @@
 
 <figure><img src="../../.gitbook/assets/how-to-porediction-header.png" alt=""><figcaption></figcaption></figure>
 
-使用 PancakeSwap 的预测功能可以让您测试您的预测能力而且可以获得奖金。利用您对市场的认知或凭直觉来预测 BNB/USD 或 CAKE/USD 价格在未来会上涨还是下跌。如果预测成功，您将获得该轮奖池的一部分！
+使用 PancakeSwap 的预测功能可以让您测试您的预测能力，并可以靠此获得奖金。利用您对市场的认知或凭直觉来预测 BNB/USD 或 CAKE/USD 价格在未来会上涨还是下跌。如果预测成功，您将获得该轮奖池的一部分奖金！
 
 {% hint style="warning" %}
-PancakeSwap 的预测是一款新产品，我们认为它仍处于测试阶段。我们可能会在未来做一些改变来改进预测功能。如果会有任何影响产品功能方面的更改，PancakeSwap 团队将一如既往地提前通知用户。
+PancakeSwap 的预测是一款新产品，我们认为它仍处于测试阶段。我们可能会在未来做一些改变来改进预测产品。如果会有任何影响产品功能方面的更改，PancakeSwap 团队将一如既往地提前通知用户。
 {% endhint %}
 
 ## 接受 beta 测试条款
 
 您需要审阅并接受这些条款才能够使用预测产品。
 
-访问 [PancakeSwap 预测页面](https://pancakeswap.finance/prediction)，您将会看到一个欢迎界面，上面会显示并告知预测功能处于测试阶段。
+打开 [PancakeSwap 预测页面](https://pancakeswap.finance/prediction)，您将会看到一个欢迎界面，上面会显示并告知预测功能处于测试阶段。
 
 <figure><img src="../../.gitbook/assets/条款同意.png" alt=""><figcaption></figcaption></figure>
 
@@ -22,7 +22,7 @@ PancakeSwap 的预测是一款新产品，我们认为它仍处于测试阶段�
 
 <figure><img src="../../.gitbook/assets/转换 .gif" alt=""><figcaption></figcaption></figure>
 
-PancakeSwap 提供两个独立的预测市场供每个玩家选择。您可以依据 CAKE/USD 的价格参与预测，并用 CAKE 下注。 您也可以依据 BNB/USD的价格参与预测，并用 BNB 下注。
+PancakeSwap 提供两个独立的预测市场供每个玩家选择。您可以依据 CAKE/USD 的价格参与预测，并用 CAKE 下注。您也可以依据 BNB/USD 的价格参与预测，并用 BNB 下注。
 
 如果要在两个预测市场之间切换，只需点击左上角的货币切换按钮（如上图）。
 
@@ -46,11 +46,11 @@ PancakeSwap 提供两个独立的预测市场供每个玩家选择。您可以�
 
 <figure><img src="../../.gitbook/assets/预测下一轮.png" alt=""><figcaption></figcaption></figure>
 
-每轮都有不同的奖励乘数。随着 “奖池” 的增加，乘数会随着时间的推移而变化，具体取决于参与用户的预测情况奖池显示在按钮上方。
+每轮都有不同的奖励乘数（reward multiplier）。随着 “奖池” 的增加，乘数会随着时间的推移而变化，具体取决于参与用户的预测情况。奖池显示在按钮上方。
 
 <figure><img src="../../.gitbook/assets/奖池.png" alt=""><figcaption></figcaption></figure>
 
-本例中，我们将选择**选择上升**。&#x20;
+在本范例中，我们将选择**选择上升**。&#x20;
 
 2\. 将打开一个新窗口。在窗口中，您将看到 “**提交**” 选项卡以提交 BNB 或 CAKE 以进行预测。在该字段中输入您希望在本轮预测中提交的代币数量。您也可以使用兔子滑块或单击百分比按钮。如果您正在玩 CAKE/USD 预测市场，在第一场预测中，您必须点击 “**启用**” 来启用智能合约。
 
@@ -126,9 +126,9 @@ PancakeSwap 提供两个独立的预测市场供每个玩家选择。您可以�
 
 现在您可以在您的钱包中看到赢得的代币。
 
-## 从之前的回合中收集奖金
+## 收取过期回合的奖金
 
-有时候您可能会暂时离开 PancakeSwap 的预测页面，或者可能会忘记从之前的回合中收集奖金。但您仍然随时可以从中收集您之前回合赢得的奖金。
+有时候您可能会暂时离开 PancakeSwap 的预测页面，或者可能会忘记从之前的回合中收集奖金。但您仍然随时收取您于之前回合赢得的奖金。
 
 1. 点击回合计时器旁边的**逆时钟**图标，查看您之前参与回合的更多信息。
 
@@ -166,4 +166,4 @@ PancakeSwap 提供两个独立的预测市场供每个玩家选择。您可以�
 
 <figure><img src="../../.gitbook/assets/查看收回和赢得.png" alt=""><figcaption></figcaption></figure>
 
-以上就是关于如何使用预测功能的全部内容。祝您做出正确的预测！
+以上就是关于如何使用预测产品的全部内容。祝您做出正确的预测！
