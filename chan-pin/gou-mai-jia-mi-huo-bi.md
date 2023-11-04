@@ -24,7 +24,7 @@ PancakeSwap 现在支持使用信用卡、借记卡（签帐卡）或银行转�
 
 \*\*请注意，是否能购买特定加密货币可能因用户所在地区而异。
 
-&#x20;\*\*\* Base、Arbitrum 和 Linea 不支持美元币种的法币入口服务。如果您欲使用该服务，请使用其他法定货币（EU, GBP）。请点击[此处](https://transak.notion.site/On-Ramp-Payment-Methods-Fees-Other-Details-b0761634feed4b338a69f4f186d906a5)查看各地区的信用卡/借记卡的手续费。
+&#x20;\*\*\* Base、Arbitrum 和 Linea 不支持美元币种的法币入口服务。如果您欲使用该服务，请使用其他法定货币（EU, GBP）。请点击[此处](https://transak.notion.site/On-Ramp-Payment-Methods-Fees-Other-Details-b0761634feed4b338a69f4f186d906a5)查看各地区的信用卡/借记卡等的费用。
 
 请注意，报价系统将提供完全透明的兑换汇率（费用内含），以协助用户选择对自己最有利的方案。
 
