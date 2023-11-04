@@ -53,8 +53,10 @@ PancakeSwap 交易所直接读取 Trust Wallet 代码库内的图标资料。请
 | BNB 链         | 10 BNB | WBNB, USDT, BUSD, USDC, BTCB, WETH, CAKE                  |
 | 以太链           | 5 ETH  | WETH, DAI, USDC, USDT, WBTC, LINK, FEI, MATIC, AAVE, CAKE |
 | Base          | 1 ETH  | USDC, cbETH, rETH, DAI, crvUSD                            |
+| opBNB         | 1 BNB  | WBNB, USDT                                                |
 | Arbitrum      | 目前没有要求 | USDT, USDC, USDC.e, ARB, WBTC, DAI                        |
 | Polygon zkEVM | 目前没有要求 | WETH, USDC, USDT, MATIC, DAI, WBTC                        |
 | zkSync        | 目前没有要求 | USDT, USDC, BUSD, WBTC                                    |
 | Linea         | 目前没有要求 | USDC, USDT, DAI, BUSD, WBTC                               |
+| Scroll        | 目前没有要求 | WETH, USDT, USDT, LUSD, WBTC, RETH, STETH, DAI            |
 
