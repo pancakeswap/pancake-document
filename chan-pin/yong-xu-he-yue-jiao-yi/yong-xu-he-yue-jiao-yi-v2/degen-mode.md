@@ -1,2 +1,0 @@
-# Degen Mode
-
