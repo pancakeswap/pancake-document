@@ -42,25 +42,25 @@
 首先，检查您是否有资格领取已投注回合的奖励。&#x20;
 
 1. 转到[预测合约的 BscScan 页面](https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda#writeContract)，然后转到写入选项卡&#x20;
-2. 向下滚动到“4. claimable”。&#x20;
-3. 在“epoch(uint256)”下输入要检查的轮次 ID。&#x20;
-4. 在“user(address)”下输入您的钱包地址。&#x20;
-5. 点击“Query”&#x20;
-6. 如果有一轮预测是可领取的，它将显示“true”。&#x20;
-7. 如果显示为“false”。 请重复上述步骤并尝试使用“19.refundable”。&#x20;
-8. 注意：⬆️如果你看到一个在“4.claimable”和“19.refundable”上都显示为“false”，但它显示在网站前端上，可能是网站显示延迟的缘故实际上已经被领取了。
+2. 向下滚动到 “4. claimable”。&#x20;
+3. 在 “epoch(uint256)” 下输入要检查的轮次 ID。&#x20;
+4. 在 “user(address)” 下输入您的钱包地址。&#x20;
+5. 点击 “Query”&#x20;
+6. 如果有一轮预测是可领取的，它将显示 “true”。&#x20;
+7. 如果显示为 “false”。 请重复上述步骤并尝试使用 “19.refundable”。&#x20;
+8. 注意：⬆️如果你看到一个在 “4.claimable” 和 “19.refundable” 上都显示为 “false”，但它显示在网站前端上，可能是网站显示延迟的缘故实际上已经被领取了。
 {% endtab %}
 
 {% tab title="从过去的回合中收集您的奖金" %}
 如何领取&#x20;
 
 1. 转到[预测合约的 BscScan 页面](https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda#writeContract)，然后转到写入选项卡&#x20;
-2. 点击“🔴 Connect to Web3””&#x20;
+2. 点击 “🔴 Connect to Web3””&#x20;
 3. 使用 MetaMask 或 WalletConnect 进行连接。&#x20;
-4. 向下滚动到“3. claim”&#x20;
+4. 向下滚动到 “3. claim”&#x20;
 5. 以这种格式输入您要领取的回合，包括 \[] 括号：\[12345]&#x20;
 6. 如果您想从多个回合中一起领取，请用逗号分隔这些回合，如下所示：\[12345,12346,12347]&#x20;
-7. 点击“Write”&#x20;
+7. 点击 “Write”&#x20;
 8. 在钱包上确认
 {% endtab %}
 {% endtabs %}
