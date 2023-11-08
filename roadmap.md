@@ -16,7 +16,7 @@ description: 「别把它称作路线图」
 
 这意味着我们不会公开承诺具体的时间表，因此我们可以根据市场变化和开发者资源来组织我们的开发重点。
 
-<figure><img src=".gitbook/assets/image (222).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (222) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 出于安全和保密的考虑，某些项目未包含在“烹饪中”部分中。

@@ -2,9 +2,7 @@
 
 ### &#x20;Arbitrum 上的 PancakeSwap 永续合约 V2 的交易手续费是多少？&#x20;
 
-为了庆祝上线 Arbitrum ，在上线的的第一个月，**开仓和平仓交易的手续费为 0.05%**。所收取费用的 50% 将与 ALP 池共享，用于提供流动性。其他费用包括执行费、清算费和资金费。想要了解有关费用的更多信息，请点击[此处](https://blog.pancakeswap.finance/articles/pancake-swap-v2-1)。\
-For our launch on Arbitrum, fees will be 0.05% on opening and closing trades for the first month. 50% of the fees collected will be shared with the ALP pool for providing liquidity. Other fees include execution, liquidation and funding fees. More information on fees can be found here.\
-我们在 Arbitrum 上推出的第一个月，开仓和平仓交易的费用为 0.05%。所收取费用的 50%将与 ALP 池共享，用于提供流动性。其他费用包括执行费、清算费和资金费。有关费用的更多信息，请点击此处。
+为了庆祝上线 Arbitrum ，在上线的的第一个月，**开仓和平仓交易的手续费为 0.05%**。所收取费用的 50% 将分配给 ALP 池，用于提供流动性。其他手续费包括执行费、清算费和资金费。有关收费的更多信息，请点击[此处](https://blog.pancakeswap.finance/articles/pancake-swap-v2-1)。
 
 ### 什么是 ALP？&#x20;
 
