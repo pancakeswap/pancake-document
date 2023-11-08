@@ -1,6 +1,6 @@
 # Degen Mode
 
-<figure><img src="../../../../.gitbook/assets/png (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Perps Degen Mode.jpg" alt=""><figcaption></figcaption></figure>
 
 The Degen Trading Mode offers traders an alternative way of trading compared to conventional trading methods. Traders who prefer to reduce screen time analyzing the market and have a more hands-off approach can choose this trading mode. During periods of high volatility, traders can maximize their gains with 0 slippage, high leverage and extremely low fees. In low volatility, traders can speculate on minor price movements.
 
