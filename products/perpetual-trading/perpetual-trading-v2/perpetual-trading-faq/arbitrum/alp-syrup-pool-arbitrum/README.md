@@ -1,6 +1,6 @@
 # ALP Syrup Pool (Arbitrum)
 
-ALP is a non-transferrable token representing that powers liquidity on PancakeSwap Perpertuals V2. Users mint/buy ALP using collateral tokens such as USDC, USDT, DAI, ETH and BTC. These tokens supply liquidity to the PancakeSwap Perpetuals trade engine powered by ApolloX.
+ALP is a token that powers liquidity on PancakeSwap Perpertuals V2. Users mint/buy ALP using collateral tokens such as USDC, USDT, DAI, ETH and BTC. These tokens supply liquidity to the PancakeSwap Perpetuals trade engine powered by ApolloX. ALP tokens **cannot be transferred between wallets** and can only be **minted/sold through ALP contract and staked in ALP pool**.
 
 ### Step-By-Step Guide
 
