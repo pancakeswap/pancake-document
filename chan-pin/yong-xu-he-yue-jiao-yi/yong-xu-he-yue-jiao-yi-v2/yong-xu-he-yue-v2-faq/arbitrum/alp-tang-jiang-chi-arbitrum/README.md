@@ -1,6 +1,6 @@
 # ALP 糖浆池 (Arbitrum)
 
-ALP 是一种非转移性代币（non-transferable token），代表着 PancakeSwap 永续合约 V2 底层流动性资金的所有权凭证，此流动性资金由特定演算法自动化运作。用户可以使用 USDC、USDT、DAI、ETH 和 BTC 等代币作为抵押品来铸造/购买 ALP。前述代币为 PancakeSwap 永续合约的交易撮合引擎（trade engine）提供流动性资金，由 ApolloX 提供技术支援。
+ALP 代币代表着 PancakeSwap 永续合约 V2 底层流动性资金的所有权凭证，此流动性资金由特定演算法自动化运作。用户可以使用 USDC、USDT、DAI、ETH 和 BTC 等代币作为抵押品来铸造/购买 ALP。前述代币为 PancakeSwap 永续合约的交易撮合引擎（trade engine）提供流动性资金，由 ApolloX 提供技术支援。ALP 代币**不能在不同钱包之间转移**，只能通过 **ALP 合约铸造/出售**，**以及存入 ALP 池**。
 
 ### 指南
 

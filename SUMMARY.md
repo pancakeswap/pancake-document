@@ -100,7 +100,7 @@
       * [永续合约 V2 FAQ](chan-pin/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-jiao-yi-v2/yong-xu-he-yue-v2-faq/README.md)
         * [Arbitrum](chan-pin/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-jiao-yi-v2/yong-xu-he-yue-v2-faq/arbitrum/README.md)
           * [ALP 糖浆池 (Arbitrum)](chan-pin/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-jiao-yi-v2/yong-xu-he-yue-v2-faq/arbitrum/alp-tang-jiang-chi-arbitrum/README.md)
-            * [ALP Buying & Selling Fees](chan-pin/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-jiao-yi-v2/yong-xu-he-yue-v2-faq/arbitrum/alp-tang-jiang-chi-arbitrum/alp-buying-and-selling-fees.md)
+            * [ALP 购买＆出售手续费](chan-pin/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-jiao-yi-v2/yong-xu-he-yue-v2-faq/arbitrum/alp-tang-jiang-chi-arbitrum/alp-gou-mai-chu-shou-shou-xu-fei.md)
       * [交易奖励计划](products/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-jiao-yi-v2/v2-fa-bu-huo-dong.md)
         * [Arbitrum](chan-pin/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-jiao-yi-v2/jiao-yi-jiang-li-ji-hua/arbitrum.md)
     * [永续合约交易 V1](products/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-jiao-yi-v1/README.md)
