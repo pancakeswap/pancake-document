@@ -6,9 +6,9 @@ Requirements to become a PancakeSwap ambassador vary, but generally include havi
 
 ### **How do I apply to become a PancakeSwap ambassador?**
 
-To apply to become a PancakeSwap ambassador, visit this page (link to a sub-page with the application forms)  and fill out the corresponding application form.\
-\
+For the time being, we are not actively seeking new ambassadors. However, whenever a position becomes available, we will announce it. We highly appreciate the contributions to the community during your time as regular users, and we are always open to inviting individuals we deem suitable when opportunities arise.&#x20;
 
+Feel free to reach out if you have any questions or if you would like to be considered in the future.
 
 ### **How long does the ambassador program last?**
 
@@ -17,8 +17,6 @@ There is no plan to have an ending date for the Ambassador Program, at least for
 ### &#x20;**What are the benefits of being a PancakeSwap ambassador?**
 
 Ambassadors will be rewarded for their contributions and efforts. Join the PancakeSwap family and have fun!
-
-###
 
 ### **How is ambassador performance evaluated?**
 
