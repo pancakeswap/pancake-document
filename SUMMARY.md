@@ -197,6 +197,7 @@
     * [IFO 投入上限（iCAKE）](gei-kai-fa-zhe-men/zhi-neng-he-yue-evm/ifo-tou-ru-shang-xian-icake.md)
     * [跨链农场](gei-kai-fa-zhe-men/zhi-neng-he-yue-evm/kua-lian-nong-chang.md)
     * [CAKE 跨链](gei-kai-fa-zhe-men/zhi-neng-he-yue-evm/cake-kua-lian.md)
+    * [Market Maker Pool](gei-kai-fa-zhe-men/zhi-neng-he-yue-evm/market-maker-pool.md)
   * [智能合约 (Aptos)](code/smart-contracts-aptos.md)
     * [PancakeSwap 交易相关](gei-kai-fa-zhe-men/zhi-neng-he-yue-aptos/pancakeswap-jiao-yi-xiang-guan/README.md)
       * [V2](gei-kai-fa-zhe-men/zhi-neng-he-yue-aptos/pancakeswap-jiao-yi-xiang-guan/v2/README.md)
