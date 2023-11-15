@@ -108,6 +108,7 @@
       * [How can I use it?](products/perpetual-trading/perpetual-trading-v1/how-can-i-use-it.md)
       * [V1 Perpetual Trading FAQ](products/perpetual-trading/perpetual-trading-v1/perpetual-trading-faq.md)
   * [🎮 Gaming Platform](products/gaming-platform/README.md)
+    * [🎓 Pancake Mayor](products/gaming-platform/pancake-mayor.md)
     * [🛡 Pancake Protectors](products/gaming-platform/pancake-protectors/README.md)
       * [FAQ](products/gaming-platform/pancake-protectors/faq.md)
   * [🧈 Trading Reward](products/trading-reward/README.md)
