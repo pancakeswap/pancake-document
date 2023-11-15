@@ -109,7 +109,7 @@
       * [永续合约 V1 FAQ](chan-pin/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-jiao-yi-v1/yong-xu-he-yue-v1-faq.md)
   * [🎮 游戏平台](chan-pin/you-xi-ping-tai/README.md)
     * [🎓 Pancake Mayor](chan-pin/you-xi-ping-tai/pancake-mayor.md)
-    * [🎮 Pancake Protectors 游戏](chan-pin/you-xi-ping-tai/pancake-protectors-you-xi/README.md)
+    * [🛡 Pancake Protectors 游戏](chan-pin/you-xi-ping-tai/pancake-protectors-you-xi/README.md)
       * [FAQ](chan-pin/you-xi-ping-tai/pancake-protectors-you-xi/faq.md)
   * [🧈 交易返利](chan-pin/jiao-yi-fan-li/README.md)
     * [如何参与](chan-pin/jiao-yi-fan-li/ru-he-can-yu/README.md)
