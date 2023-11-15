@@ -1,6 +1,6 @@
 # FAQ
 
-<figure><img src="../../.gitbook/assets/logo (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/logo (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Q: What are Pancake Bunnies and Squads for?
 

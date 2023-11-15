@@ -1,6 +1,6 @@
-# 🎮 Pancake Protectors
+# 🛡 Pancake Protectors
 
-<figure><img src="../../.gitbook/assets/logo (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/logo (1).png" alt=""><figcaption></figcaption></figure>
 
 [Pancake Protectors](https://protectors.pancakeswap.finance/) is an interactive, tower-defense inspired game which is a collaboration between PancakeSwap and Mobox, two established protocols on the BNB Chain.
 
