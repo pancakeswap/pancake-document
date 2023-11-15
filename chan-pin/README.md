@@ -50,8 +50,8 @@
 [nft-shi-chang.md](../products/nft-shi-chang.md)
 {% endcontent-ref %}
 
-{% content-ref url="pancake-protectors-you-xi/" %}
-[pancake-protectors-you-xi](pancake-protectors-you-xi/)
+{% content-ref url="you-xi-ping-tai/pancake-protectors-you-xi/" %}
+[pancake-protectors-you-xi](you-xi-ping-tai/pancake-protectors-you-xi/)
 {% endcontent-ref %}
 
 {% content-ref url="../products/pancakeswap-mi-ni-xiao-cheng-xu/" %}

@@ -1,6 +1,6 @@
 # 🎮 Pancake Protectors 游戏
 
-<figure><img src="../../.gitbook/assets/logo (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/logo (1).png" alt=""><figcaption></figcaption></figure>
 
 [Pancake Protectors](https://protectors.pancakeswap.finance/) 是一款互动式的、塔防类的游戏，它是由 BNB 链上的两个现有协议 PancakeSwap 和 Mobox 互相合作发布的游戏。
 

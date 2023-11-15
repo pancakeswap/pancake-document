@@ -4,7 +4,7 @@ description: Thank you for expressing your interest in contributing to PancakeSw
 
 # 为项目做出贡献
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (227).png" alt=""><figcaption></figcaption></figure>
 
 Pancake is an open-source project. If you want to contribute to the project, this section is here to guide you through your first steps with the Pancake team :pancakes:&#x20;
 

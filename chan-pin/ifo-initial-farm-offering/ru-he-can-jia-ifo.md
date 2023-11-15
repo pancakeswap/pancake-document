@@ -152,7 +152,7 @@ IFO 开始后，在公开销售页面能够实时看到叠加了 “超募手续
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="" width="325"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt="" width="325"><figcaption></figcaption></figure>
 
 </div>
 

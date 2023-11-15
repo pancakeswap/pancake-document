@@ -21,7 +21,7 @@
 5. 发布后&#x20;
    * 我们将继续保持联系，并且在任何可能的情景下携手共进
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ###
 
