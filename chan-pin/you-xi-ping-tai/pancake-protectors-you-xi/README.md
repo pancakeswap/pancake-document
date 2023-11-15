@@ -1,4 +1,4 @@
-# 🎮 Pancake Protectors 游戏
+# 🛡 Pancake Protectors 游戏
 
 <figure><img src="../../../.gitbook/assets/logo (1).png" alt=""><figcaption></figcaption></figure>
 
