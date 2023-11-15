@@ -4,36 +4,45 @@ description: Thank you for expressing your interest in contributing to PancakeSw
 
 # 为项目做出贡献
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 Pancake is an open-source project. If you want to contribute to the project, this section is here to guide you through your first steps with the Pancake team :pancakes:&#x20;
 
-Before starting any development, we highly encourage you to submit an issue on Github in order to discuss the problem, and the solution with the team. If you want to reach out to the dev team directly, contact **@chef\_chungus** on Telegram <img src="../../.gitbook/assets/Logo.svg" alt="" data-size="line">&#x20;
+Before starting any development, we highly encourage you to submit an issue on Github in order to discuss the problem, and the solution with the team.
 
-### Setup your dev environment
+## Setup your dev environment
 
-1.  Fork the repository and an [add upstream remote](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork). E.g.
+Install [yarn](https://classic.yarnpkg.com/lang/en/docs/install/) If you haven't.
+
+1.  Fork and clone the [repository](https://github.com/pancakeswap/pancake-frontend)
+
+    ```bash
+    $ git clone [fork_repo_url]
+    ```
+2.  Add [upstream](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/configuring-a-remote-for-a-fork) remote. E.g.
 
     ```bash
     $ git remote add upstream git@github.com:pancakeswap/pancake-frontend.git
     ```
-2.  Make sure you have the latest version of the default branch ( `develop` or `master` )
+3.  Make sure you have the latest version of the default branch ( `develop` )
 
     ```bash
     $ git checkout develop
     $ git pull upstream develop
     ```
-3.  Create your own branch and install dependencies
+4.  Create your own branch and install dependencies
 
     ```bash
     $ git checkout -b branch-name
     $ yarn
     ```
-4. Happy coding :tada:&#x20;
+5. Happy coding 🎉
 
 ### Coding rules
 
 We try to maintain as much consistency as we can between each of our repository. Your pull request has more chances to be accepted if you follow some the following rules, and write high quality code. **Let's get started** :muscle:&#x20;
 
-#### Use the UIKit
+### Use the UIKit
 
 {% hint style="warning" %}
 Check the [UI Kit](https://github.com/pancakeswap/pancake-uikit) before you start doing anything. A lot of components are already created, and we don't want that you waste your time reinventing the wheel :wink:&#x20;
@@ -50,7 +59,7 @@ const NewButtonVariant = styled(Button)`
 `
 ```
 
-#### Use the tools !
+### Use the tools !
 
 Most of our repos use [Typescript](https://www.typescriptlang.org/docs), [ESLint](https://eslint.org/docs/user-guide/getting-started), and [Prettier](https://prettier.io/). Make sure you are familiar with Typescript’s best practices, and enable an ESLint and Prettier plugin for your IDE.
 
@@ -64,27 +73,9 @@ Make sure your code is formatted with Prettier, and is free from any ESLint erro
 * Use [Composition over Inheritance](https://reactjs.org/docs/composition-vs-inheritance.html).
 * Keep in mind that your code will be read and maintained by several other developers. Make it as clear and easy to update as possible.
 
-### Committing <a href="#committing" id="committing"></a>
+## Creating your pull request
 
-Our commit messages follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) using [commitlint](https://commitlint.js.org/#/).‌
-
-| Type         | Description                                                                                                 |
-| ------------ | ----------------------------------------------------------------------------------------------------------- |
-| **build**    | Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)         |
-| **ci**       | Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs) |
-| **docs**     | Documentation only changes                                                                                  |
-| **feat**     | A new feature                                                                                               |
-| **fix**      | A bug fix                                                                                                   |
-| **perf**     | A code change that improves performance                                                                     |
-| **refactor** | A code change that neither fixes a bug nor adds a feature                                                   |
-| **style**    | Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)      |
-| **test**     | Adding missing tests or correcting existing tests                                                           |
-
-_More at_ [_Angular's guidelines_](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#type)_​_
-
-### Creating your pull request&#x20;
-
-Your code is ready to be submitted for review, congratulations:partying\_face:&#x20;
+Your code is ready to be submitted for review, congratulations🥳
 
 * All pull requests **must** have a description of what the PR is trying to accomplish.
 * Keep pull requests **as small as possible**. Larger pull requests should be broken up into smaller chunks with a dedicated base branch. Please tag the PR's that are merging into your base branch with the `epic` tag.
@@ -93,5 +84,22 @@ Your code is ready to be submitted for review, congratulations:partying\_face:&#
 {% hint style="info" %}
 Create a [draft PR](https://github.blog/2019-02-14-introducing-draft-pull-requests/) as soon as possible so we can view your ongoing progress.
 {% endhint %}
+
+### Pull Request Title
+
+Our Pull Request Title follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) using [commitlint](https://commitlint.js.org/#/).‌
+
+_More at_ [_Angular's guidelines_](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#type)
+
+| **build**    | Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)         |
+| ------------ | ----------------------------------------------------------------------------------------------------------- |
+| **ci**       | Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs) |
+| **docs**     | Documentation only changes                                                                                  |
+| **feat**     | A new feature                                                                                               |
+| **fix**      | A bug fix                                                                                                   |
+| **perf**     | A code change that improves performance                                                                     |
+| **refactor** | A code change that neither fixes a bug nor adds a feature                                                   |
+| **style**    | Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)      |
+| **test**     | Adding missing tests or correcting existing tests                                                           |
 
 **Thanks your for helping us making Pancake even more awesome** :heart:&#x20;
