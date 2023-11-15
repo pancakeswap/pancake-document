@@ -90,15 +90,7 @@ Yes, the game can be played entirely for free, as energy is automatically restor
 All CAKE spent in Pancake Mayor will be distributed as follows:\
 
 
-| Description                         | Percentage (%) | Explanation                                                                                                                                       |
-| ----------------------------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Next season’s initial prize pool    | 30%            | This % of CAKE spent in the current season will be reserved for next season’s initial prize pool                                                  |
-| Reward for current season           | 40%            | This % of CAKE spent in the current season will be distributed based on rankings                                                                  |
-| Spin the Wheel mini-game            | 10%            | CAKE that can be won by users via the mini-game                                                                                                   |
-| Protocol earnings (BinaryX)         | 14%            | BinaryX’s revenue for development and ongoing development of the game                                                                             |
-| Protocol earnings (PCS) + CAKE burn | 3% + 3%        | PCS’s protocol share + CAKE burn                                                                                                                  |
-| Others                              |                |                                                                                                                                                   |
-| Crazy Vault                         | 5%             | <p>PCS and BinaryX will receive 5% of all spend on the Crazy Vault.</p><p><br></p><p>50% of all CAKE received by PCS will be directed to burn</p> |
+<table data-header-hidden><thead><tr><th width="266.3333333333333"></th><th width="166"></th><th></th></tr></thead><tbody><tr><td>Description</td><td>Percentage (%)</td><td>Explanation</td></tr><tr><td>Next season’s initial prize pool</td><td>30%</td><td>This % of CAKE spent in the current season will be reserved for next season’s initial prize pool</td></tr><tr><td>Reward for current season</td><td>40%</td><td>This % of CAKE spent in the current season will be distributed based on rankings</td></tr><tr><td>Spin the Wheel mini-game</td><td>10%</td><td>CAKE that can be won by users via the mini-game</td></tr><tr><td>Protocol earnings (BinaryX)</td><td>14%</td><td>BinaryX’s revenue for development and ongoing development of the game</td></tr><tr><td>Protocol earnings (PCS) + CAKE burn</td><td>3% + 3%</td><td>PCS’s protocol share + CAKE burn</td></tr><tr><td></td><td>Others</td><td></td></tr><tr><td>Crazy Vault</td><td>5%</td><td><p>PCS and BinaryX will receive 5% of all spend on the Crazy Vault.</p><p><br></p><p>50% of all CAKE received by PCS will be directed to burn</p></td></tr></tbody></table>
 
 
 
