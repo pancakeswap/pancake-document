@@ -1,3 +1,35 @@
+---
+description: >-
+  This page provides links or locations for PancakeSwap's smart contracts on
+  Aptos chain
+---
+
 # 智能合约 (Aptos)
 
-翻译中，请先使用 [英文版](https://docs.pancakeswap.finance/code/smart-contracts-aptos)。
+## Features
+
+PancakesSwap on Aptos! We have landed on Aptos and will continuously deploy more features.&#x20;
+
+
+
+{% content-ref url="../gei-kai-fa-zhe-men/zhi-neng-he-yue-aptos/pancakeswap-jiao-yi-xiang-guan/" %}
+[pancakeswap-jiao-yi-xiang-guan](../gei-kai-fa-zhe-men/zhi-neng-he-yue-aptos/pancakeswap-jiao-yi-xiang-guan/)
+{% endcontent-ref %}
+
+{% content-ref url="../gei-kai-fa-zhe-men/zhi-neng-he-yue-aptos/zhu-chu-he-yue.md" %}
+[zhu-chu-he-yue.md](../gei-kai-fa-zhe-men/zhi-neng-he-yue-aptos/zhu-chu-he-yue.md)
+{% endcontent-ref %}
+
+{% content-ref url="../gei-kai-fa-zhe-men/zhi-neng-he-yue-aptos/tang-jiang-chi.md" %}
+[tang-jiang-chi.md](../gei-kai-fa-zhe-men/zhi-neng-he-yue-aptos/tang-jiang-chi.md)
+{% endcontent-ref %}
+
+## GitHub
+
+{% embed url="https://github.com/pancakeswap/pancake-contracts-move" %}
+
+## Audit
+
+OtterSec's PancakeSwap CAKE OFT audit:
+
+{% file src="../.gitbook/assets/PancakeSwap-OFT-Audit-OtterSec.pdf" %}

@@ -1,6 +1,6 @@
 # 厨房团队
 
-![](.gitbook/assets/the-kitchen-team-header.png)
+![](../../../../.gitbook/assets/the-kitchen-team-header.png)
 
 您可以通过单击厨师的名字跳转到厨房采访文章。
 
