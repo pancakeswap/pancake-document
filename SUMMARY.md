@@ -91,6 +91,8 @@
       * [Glosario V1](productos./trading-perpetuo/trading-perpetuo-v1/glosario-v1.md)
       * [¿Como puedo usarlo?](productos./trading-perpetuo/trading-perpetuo-v1/como-puedo-usarlo.md)
       * [Trading Perpetuo V1 FAQ (Preguntas más frecuentes)](productos./trading-perpetuo/trading-perpetuo-v1/trading-perpetuo-v1-faq-preguntas-mas-frecuentes.md)
+  * [🎮 Gaming](productos./gaming/README.md)
+    * [🎓 Pancake Mayor](productos./gaming/pancake-mayor.md)
   * [🧈 Recompensas de Trading](productos./recompensas-de-trading/README.md)
     * [Cómo participar](productos./recompensas-de-trading/como-participar.md)
     * [FAQ](productos./recompensas-de-trading/faq.md)
