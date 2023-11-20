@@ -6,7 +6,7 @@ ALP is a token that powers liquidity on PancakeSwap Perpertuals V2. Users mint/b
 
 #### Buying/Minting ALP
 
-1. Click to access the PancakeSwap ALP Pool (V2) page and connect your wallet
+1. Click to access the [PancakeSwap ALP Pool (V2)](https://perp.pancakeswap.finance/en/ALP) page and connect your wallet
 2. After connecting your wallet, click **Buy ALP**. You can use any ALP pool asset to buy ALP.
 3. After confirming the information, click **Buy ALP** to complete the transaction.
 
