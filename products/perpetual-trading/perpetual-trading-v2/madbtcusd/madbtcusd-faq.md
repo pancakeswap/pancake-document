@@ -8,7 +8,7 @@ MADBTCUSD is calculated based on the following formula:
 
 $$
 \begin{align*}
-\text{drift} &= \left( \frac{\text{btcCurrentPrice} - 1}{\text{btcLastSecondPrice}} \right) \times 3 \\
+\text{drift} &= \left( \frac{\text{btcCurrentPrice} - 1}{\text{btcLastSecondPrice}} \right) \times 5 \\
 \\
 \sigma &= \frac{\text{expectedvol}}{\sqrt{3600 \times 24 \times 365}} \\
 \\
@@ -17,6 +17,8 @@ norm &= \text{norminv}(\text{Random}, 0, 1) \\
 S_{n+1} &= S_{n} \times e^{\left[\left(\text{drift} - \frac{\sigma^2}{2}\right) \times \text{dt} + \sigma \times \sqrt{\text{dt}} \times norm\right]}
 \end{align*}
 $$
+
+
 
 where:
 
