@@ -1,4 +1,4 @@
-# APR/ROI/Calculadora IL ()
+# APR/ROI/Calculadora IL
 
 En Liquidez y Farm V3, con la nueva función de rango de precios personalizable para los LP no fungibles, cada posición tiene su propio fee de LP y APR de CAKE del farming.
 
@@ -84,7 +84,7 @@ En V3, los fees ganados por el LP y los CAKE de recompensa, deben ser recogidos 
 
 ### &#x20;⓸ Histórico del Precio <a href="#19cd815c-ef3d-496a-8469-fb0164f3946b" id="19cd815c-ef3d-496a-8469-fb0164f3946b"></a>
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Esta es sólo una sección informativa para ver los movimientos históricos del precio del par seleccionado.
 
