@@ -1,5 +1,11 @@
 # CAKE Syrup Pool
 
+##
+
+{% hint style="danger" %}
+This product has been deprecated. Check out the new veCAKE for CAKE staking.
+{% endhint %}
+
 ## Stake CAKE, earn CAKE!
 
 PancakeSwap now offers one CAKE Syrup Pool with two staking options: flexible staking or fixed-term staking. Note that the Auto CAKE, IFO CAKE, and Manual CAKE pools will be retired upon the launch of the new CAKE Syrup Pool with flexible and fixed-term staking. Keep reading on to learn more!
