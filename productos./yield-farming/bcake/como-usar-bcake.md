@@ -32,7 +32,7 @@ Si ha estado haciendo staking en la granja y desea activar Farm Booster, tambié
 
 Haga clic en "Migrate" y siga la guía paso a paso para completar las migraciones. Sus recompensas de CAKE se recolectarán automáticamente y se enviarán a su billetera.
 
-![](<../../../.gitbook/assets/image (3) (1) (2) (1).png>)
+![](<../../../.gitbook/assets/image (3) (1) (2) (1) (1).png>)
 
 ## Activar Boosters
 

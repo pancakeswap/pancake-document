@@ -22,7 +22,7 @@ Para este ejemplo usaremos Dollop.&#x20;
 
 3\. Haz clic en **Approve** y, a continuación, confirma la acción en tu monedero. Una vez aprobado, haga clic en Confirmar.
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (1) (2) (3).png" alt=""><figcaption></figcaption></figure>
 
@@ -34,7 +34,7 @@ Para este ejemplo usaremos Dollop.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (11) (5).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 6\. En la página siguiente se le pedirá que se una a un equipo. ¡Unirse a un equipo le permite competir en eventos especiales para ganar recompensas especiales y limitadas! Elija uno en “Join a Team”. Para este ejemplo elegiremos Fearsome Flippers.
 

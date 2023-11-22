@@ -85,7 +85,7 @@ Para cosechar las recompensas en CAKE de una posición depositada, simplemente r
 
 Si tienes varias posiciones depositadas, puedes hacer clic en “View All” para verlas en una nueva ventana emergente.
 
-![](<../../.gitbook/assets/image (3) (1).png>)
+![](<../../.gitbook/assets/image (3) (1) (2).png>)
 
 Clic en “Harvest” en la posición, y tu wallet te pedirá confirmación. Un momento después, las recompensas en CAKE serán enviadas a tu wallet.
 
@@ -95,11 +95,11 @@ Clic en “Harvest” en la posición, y tu wallet te pedirá confirmación. Un 
 
 Aún estando depositada en un farm, puedes agregar o retirar liquidez sin necesidad de retirar la posición.
 
-![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 Para hacerlo, simplemente regresa a la página de Farms, y encuentra el farm y posición que quieres ajustar. Puedes usar la opción de “Staked Only” para filtrar rápidamente los farms en los que estás participando.
 
-![](<../../.gitbook/assets/image (4) (1).png>)
+![](<../../.gitbook/assets/image (4) (1) (1).png>)
 
 Haz clic en la posición con el par, % de fee, ID de posición y la flecha  “>”. Eso te llevará a la página de detalles de la posición.
 
@@ -182,7 +182,7 @@ Cuando esté listo, haga clic en el botón **Enable** y confirme su acción en s
 
 5 - Después de una breve espera, la ventana se cerrará, y verá su nuevo saldo de LP tokens depositado en los detalles.
 
-![](<../../.gitbook/assets/image (3) (1) (2).png>)
+![](<../../.gitbook/assets/image (3) (1) (2) (1).png>)
 
 {% hint style="info" %}
 Cuando esté farmeando un una red diferente a BNB Chain, deberá esperar unos 30 minutos para que se confirmen las transacciones cross-chain.

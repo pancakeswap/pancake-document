@@ -17,11 +17,11 @@ layout:
 
 # Cómo participar?
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 1 - Ser elegible <a href="#8b63b3dd-b974-4e1b-9c5e-ed8eea2891ab" id="8b63b3dd-b974-4e1b-9c5e-ed8eea2891ab"></a>
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Para ser elegible, debes tener una posición de CAKE en stake bloqueado. Para aprender más sobre cómo armar una posición bloqueada de CAKE, lea [aquí](../syrup-pools/nuevo-cake-pool/como-usar-staking-bloqueado.md).&#x20;
 
@@ -34,7 +34,7 @@ Por ejemplo, para participar de la semana 1 de distribución. deberás:
 
 ## 2 - Actualiza tu posición de staking para inscribirte <a href="#5364e392-14f8-4a0a-b2cd-673d63030f6a" id="5364e392-14f8-4a0a-b2cd-673d63030f6a"></a>
 
-![](<../../.gitbook/assets/image (2) (1) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1) (1).png>)
 
 Hay un proceso por una sola vez para todos los stakers de CAKE bloqueado para inscribirse en el programa del pool de ingresos compartidos - rCAKE. Esto debe realizarse sólo por única vez.
 
@@ -44,11 +44,11 @@ Simplemente darle clic al botón de actualizar (update) y confirmar en tu wallet
 
 ## 3 - Visualiza tu participación y beneficios <a href="#9356069e-8fdd-4ab5-83e8-045b4ad31048" id="9356069e-8fdd-4ab5-83e8-045b4ad31048"></a>
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 Una vez que tu posición de staking esté actualizada, un nuevo botón “View Benefits” (ver beneficios) aparecerá en el pool de CAKE.
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (1).png>)
 
 Clic en el botón para acceder a un flamante panel de beneficios de CAKE bloqueado para visualizar todos los jugozos beneficios que recibirás por tener los CAKE en staking bloqueado.
 
@@ -67,11 +67,11 @@ Por favor ten en cuenta que tu participación (rCAKE) solo se actualizará a par
 
 ## 4 - Reclama tus recompensas <a href="#d99a5c97-55b7-4768-ac3e-c05e173ed63f" id="d99a5c97-55b7-4768-ac3e-c05e173ed63f"></a>
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)
 
 Tu participación será actualizada a partir de la próxima distribución semanal, luego de que actualices tu posición de stake. Comenzarás a acumular recompensas en base a la cantidad de participación (rCAKE) que hayas recibido contra la totalidad del pool.
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6) (1).png>)
 
 Luego de transcurrida la semana calendario, y el pool llegue a la próxima distribución semanal, podrás reclamar tus recompensas del último periodo, regresando al panel de beneficios y haciendo clic en el botón de “Claim”.
 

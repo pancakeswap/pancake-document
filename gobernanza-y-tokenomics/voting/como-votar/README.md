@@ -51,7 +51,7 @@ En esta ventana, puede volver a comprobar los siguientes elementos:
 
 Si no estás seguro sobre cómo se calcula el poder de voto, haz clic sobre ‘>’ para mostrar el desglose detallado.
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Tenga en cuenta que solo los CAKE en los siguientes lugares contribuirán al poder de voto total:&#x20;
 

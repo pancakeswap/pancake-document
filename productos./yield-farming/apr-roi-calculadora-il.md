@@ -29,7 +29,7 @@ Puedes encontrar este indicador de APR en las siguientes secciones:
 
 * La página de “Add Liquidity” - mostrando el APR de fee de LP
 * Página de detalles de cada posición de liquidez existente - mostrando el APR de fee de LP\
-  ![](<../../.gitbook/assets/image (6) (1).png>)
+  ![](<../../.gitbook/assets/image (6) (1) (1).png>)
 * Página de Farm, dentro de la posición debajo de cada farm - mostrando el APR combinado de los fee de LP y las recompensas en CAKE\
   ![](<../../.gitbook/assets/image (9) (4).png>)\
 
@@ -84,7 +84,7 @@ En V3, los fees ganados por el LP y los CAKE de recompensa, deben ser recogidos 
 
 ### &#x20;⓸ Histórico del Precio <a href="#19cd815c-ef3d-496a-8469-fb0164f3946b" id="19cd815c-ef3d-496a-8469-fb0164f3946b"></a>
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Esta es sólo una sección informativa para ver los movimientos históricos del precio del par seleccionado.
 

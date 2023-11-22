@@ -10,13 +10,13 @@ ALP es un token intransferible que representa lo que impulsa la liquidez en Panc
 2. Luego de conectar tu wallet, clic en **Buy ALP**. Puedes usar cualquier activo del pool de ALP para comprar ALP.
 3. Luego de confirmar la información, clic en **Buy ALP** para completar la transacción.
 
-<figure><img src="../../../../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Staking ALP (Arbitrum)**
 
 1.  Clic en **Stake Now** en la página del Dashboard de Pancake ALP, o clic [aquí](https://pancakeswap.finance/pools?chain=arb)
 
-    <figure><img src="../../../../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 2. Seleciona el pool de CAKE-ALP
 3. **Enable** (Habilita) ALP y clic en **Stake**
 4. Selecciona la cantidad de ALP a depositar y haz clic en **confirm**

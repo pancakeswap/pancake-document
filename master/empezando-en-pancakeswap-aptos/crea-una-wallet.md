@@ -177,7 +177,7 @@ Petra wallet es una extensión que te permite explorar Aptos desde tu browser.
 {% endtab %}
 
 {% tab title="Martian" %}
-<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Martian es una wallet para Aptos Chain que te permite almacenar, enviar, recibir tokens y administrar y mintear NFTs. Su versión para dispositivos móviles estará disponible pronto.
 
