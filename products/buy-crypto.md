@@ -20,7 +20,7 @@ On-ramp services will be available on **BNB, Ethereum, Arbitrum, Base, Linea, Po
 
 <table><thead><tr><th width="145">Provider</th><th>Fees*</th><th>Fiat Currencies Supported</th><th>Tokens Supported**</th></tr></thead><tbody><tr><td>Mercuryo</td><td>3.95% for Debit/Credit, 3.95% for Bank Transfers/SEPA (EU)</td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY, KRW, VND</td><td><p>ERC-20: ETH, USDT, DAI</p><p></p><p>BEP-20: BNB<br><br>ARB: ETH, USDC</p></td></tr><tr><td>Moonpay</td><td><p>2.75% for Debit/Credit</p><p>1.25% for SEPA (EU), FPS (UK)</p><p>2.95% for PIX (Brazil)</p></td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY, KRW, TWD, IDR, VND</td><td><p>ERC-20: ETH, USDT, USDC, DAI<br></p><p>BEP-20: BNB (Non-US)<br><br>ARB: ETH, USDC.e</p></td></tr><tr><td>Transak***</td><td>3.5%-5.5% for Debit/Credit/Apple Pay/Google Pay, 0.99% for SEPA (EU), FPS (UK), Cash App (USD)</td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY, KRW, VND</td><td><p>ERC-20: ETH, USDT, USDC, DAI, WBTC<br></p><p>BEP-20: BNB (Non-US), USDC<br><br>ARB: ETH, ARB, USDC.e, USDC<br><br>Base: USDC, ETH<br><br>Linea: USDC, ETH<br><br>Polygon ZkEVM, ZkSync Era: ETH</p></td></tr></tbody></table>
 
-\*Fees are subject to minimum spend and maximum- most likely above 30 USD and below 10,000 USD, respectively, depending on the token
+\*Fees are subject to minimum spend and maximum- most likely above 30 USD and below 10,000 USD, respectively, depending on the token. Pancakeswap will charge an additional 1% for services provided.
 
 \*Minimum of $3.99 for card payments or local currency equivalent
 
