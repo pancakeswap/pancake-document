@@ -19,7 +19,7 @@ No, you’ll be able to collect your winnings at any time in the future.
 * Payout Ratio for UP Pool = Total Value of Both Pools ÷ Value of UP Pool
 * Payout Ratio for DOWN Pool = Total Value of Both Pools ÷ Value of DOWN Pool
 
-For example, if there’s 15 BNB in the DOWN side of a round, and the overall prize pool is 150BNB, the DOWN payout ratio will be (150/15)=10x.
+For example, if there’s 15 BNB in the DOWN side of a round, and the overall prize pool is 150 BNB, the DOWN payout ratio will be (150/15) = 10x.
 
 * Payout Amount = Payout Ratio × Position × (1 - Treasury Fee)
 
@@ -56,11 +56,18 @@ This is because we use the ChainLink Oracle price feed to determine the final ou
 
 ## About Positions
 
-### **What happens if no one enters an opposing position?**
+### **What if no one enters an opposing position?**
 
-If only one side of a round has positions entered into it, then that side loses, the losing funds will be sent to the treasury.&#x20;
+If only one side of a round has positions entered into it, then:
 
-For example: User A enters an UP position, no one else enters a DOWN position. User A loses, and there are no opposing positions for the winnings to be paid out to. Funds are sent to treasury.
+* If users win, users may claim their funds from the prize pool after deducting 3% treasury fee.
+* If users lose, the losing funds will be sent to the treasury, and will be used for CAKE buy back and burn.&#x20;
+
+For example:&#x20;
+
+User A enters an UP position, while no one else enters a DOWN position. User A loses, and there are no opposing positions for the winnings to be paid out to. Funds are sent to treasury.
+
+User B enters an UP position, while no one else enters a DOWN position. User B wins, and there are no opposing positions in the prize pool. User B can claim 97% of the entered funds back, rest 3% are charged as treasury fee.
 
 ### **What happens if the Locked Price and Closed Price are the exact same?**
 
