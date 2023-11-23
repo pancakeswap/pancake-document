@@ -68,7 +68,7 @@ On the IFO page, look where the event start countdown was. You will now see a co
 
 ### **Which type of sale should I choose: Basic or Unlimited?**
 
-There are two sales available: Public Sale and Private Sale. It's possible to participate in both sales if you want to, but each has conditions. You will need to choose which sale you would like to participate in.
+There are three sales available: Basic Sale, Public Sale and Private Sale. It's possible to participate in all three sales if you want to, but each has conditions. You will need to choose which sale you would like to participate in.
 
 #### Basic Sale
 
