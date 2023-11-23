@@ -196,7 +196,11 @@ While Chefs are working hard on a solution to resolve this issue, here is a step
 
 #### Locate the pool address and its BscScan page
 
-\[img: the error prompt (pending)]
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/cannot add v2 liquidity-error pump.jpg" alt="" width="280"><figcaption></figcaption></figure>
+
+</div>
 
 If your pair is affected, you will see the link to the BscScan page for the trading pair/pool in the error prompt.
 
