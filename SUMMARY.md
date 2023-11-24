@@ -96,6 +96,8 @@
     * [What is Perpetual Trading?](products/perpetual-trading/what-is-perpetual-trading.md)
     * [Perpetual Trading V2](products/perpetual-trading/perpetual-trading-v2/README.md)
       * [How can I use it?](products/perpetual-trading/perpetual-trading-v2/how-can-i-use-it.md)
+      * [Dumb Mode](products/perpetual-trading/perpetual-trading-v2/dumb-mode/README.md)
+        * [Dumb Mode Guide](products/perpetual-trading/perpetual-trading-v2/dumb-mode/dumb-mode-guide.md)
       * [Degen Mode](products/perpetual-trading/perpetual-trading-v2/degen-mode/README.md)
         * [Degen Mode Dynamic Fee](products/perpetual-trading/perpetual-trading-v2/degen-mode/degen-mode-dynamic-fee.md)
       * [MADBTCUSD](products/perpetual-trading/perpetual-trading-v2/madbtcusd/README.md)
