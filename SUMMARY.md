@@ -78,7 +78,7 @@
     * [EVM 链与 Aptos 之间跨链](<ru-men-zhi-nan-aptos/cake-kua-lian-zhi-nan (1).md>)
     * [FAQ](products/cake-kua-lian-1/faq.md)
   * [🤝 简单赚币](chan-pin/jian-dan-zhuan-bi/README.md)
-    * [如何使用简单赚币](chan-pin/jian-dan-zhuan-bi/ru-he-shi-yong-jian-dan-zhuan-bi.md)
+    * [如何使用简单赚币](chan-pin/jian-dan-zhuan-bi/ru-he-can-yu-jian-dan-zhuan-bi.md)
     * [FAQ](chan-pin/jian-dan-zhuan-bi/faq.md)
     * [合约详情](chan-pin/jian-dan-zhuan-bi/he-yue-xiang-qing.md)
   * [💧 流动权益质押整合](products/liu-dong-zhi-ya-zheng-he/README.md)
