@@ -4,7 +4,7 @@ description: 「别把它称作路线图」
 
 # 路线图
 
-<figure><img src=".gitbook/assets/image (223) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (223).png" alt=""><figcaption></figcaption></figure>
 
 更新于 2023 年 10 月 2 日。
 
