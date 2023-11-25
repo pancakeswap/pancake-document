@@ -4,7 +4,7 @@ description: Pancake 市长的常见问题说明
 
 # 🎓 Pancake 市长
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
 
 欢迎来到《Pancake 市长》的权威常见问题解答指南，这款引人入胜的城市建设模拟游戏。以下是对您最迫切问题的解答：
 
