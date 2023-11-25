@@ -25,34 +25,22 @@
 
 10 月 31 日 12:00 时之后 -> 无费用&#x20;
 
-### PancakeSwap 如何累积每日奖励？
-
-### 如何使用 PancakeSwap 平台累积每日奖励？
-
-### How are daily rewards accrued by PancakeSwap?
+### 使用 PancakeSwap 平台积累每日奖励的背后原理是？
 
 PancakeSwap 与 Binance Earn 合作提供简单赚币服务。使用 PancakeSwap 简单赚币，在锁定期内，您的资金将由 Binance Earn 管理。
 
-资金将受到严格管理，并仅用于链上质押。Binance 可能由官方质押池协助质押行为，或者运行区块验证者及节点以参与 POS（Proof-of-Stake）网络的权益质押（staking）。\
-\
-提供质押池服务的协议乃经由严格的风险评估而选出。Binance 运营的验证者和节点，\
-are set up with security as the utmost priority.\
-
-
-质押池的选择乃是通过严格的风险评估协议而择出。质押池的选择是根据严格的风险评估协议进行的。Binance 运营的验证器和节点均以安全为第一要务。 \
-Binance 运营的验证器和节点均以安全为第一要务。 \
-&#x20;The staking pool selection is determined via stringent risk assessment protocols. Validators and nodes operated by Binance are set up with security as the utmost priority.
+资金将受到严格管理，并仅用于链上质押。Binance 可能由官方质押池协助质押行为，或者运行区块验证者及节点以参与 POS（Proof-of-Stake）网络的权益质押（staking）。提供质押池服务的协议乃经由严格的风险评估而选出。Binance 验证者和节点的运营均以安全为第一要务。&#x20;
 
 Binance 还可能不定期开展由合作项目赞助的推广活动，以吸引更多用户。
 
 ### PancakeSwap 和 CAKE 持有者如何从中获益？&#x20;
 
-PancakeSwap 从为用户提供服务而获得的年利率奖励中抽取一小部分。这部分资金将转化为 CAKE 并销毁。对于 CAKE 持有者来说，如果他们在 CAKE 糖浆池中锁仓了至少 100 个CAKE，那么锁仓用户将获得更高的简单赚币年利率。&#x20;
+PancakeSwap 从为用户提供服务而获得的奖励 APR 中抽取一小部分。这部分资金将转变为 CAKE 并销毁。对于 CAKE 持有者来说，如果他们在 CAKE 糖浆池中锁仓了至少 100 个CAKE，那么锁仓用户将获得更高的简单赚币 APR。&#x20;
 
-### 当 "提款审批待定 "时，提款过程中会发生什么？&#x20;
+### 当显示 "取款审批待定" 时，提款过程中发生了什么？&#x20;
 
-申请提款/取消质押后，用户将收到存入质押池的本金和质押奖励。如果您收到 "取款审批待定 "的提示，则表示由于管理程序的原因，提款过程会稍有延迟。用户需要在几小时内申请解除质押，并将在当天收到资金。&#x20;
+申请取款（withdrawal）/取消质押（unstake）后，用户将收到存入质押池的本金和质押奖励。如果您收到 "取款审批待定（Withdrawal approval is pending）" 的提示，则表示由于管理程序的原因，提款过程会稍有延迟。用户需要在几小时内申请解除质押，即可在当天收到资金。&#x20;
 
-### 简单赚币的下一步计划是什么？&#x20;
+### 推出后的下一步计划是什么？&#x20;
 
-简单赚币的下一步计划是提供更多代币，并在第四季度推出多链产品。
+简单赚币的下一步计划是提供更多种类的代币供选择，并预计在第四季度将服务跨足其他公链。
