@@ -8,7 +8,7 @@ description: 如何参与协议收入的每周分成
 
 ## 1- 具备收入分成资格
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>An example timeline for week 1 and week 2 distribution</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>An example timeline for week 1 and week 2 distribution</p></figcaption></figure>
 
 获取收入分成的资格条件是您必持有 CAKE 锁仓仓位。如何创建 CAKE 锁仓仓位，请阅读[此处](../../products/syrup-pools/cake-tang-jiang-chi/#suo-cang-zhi-ya-gu-ding-qi-xian-zhi-ya)。&#x20;
 
@@ -23,7 +23,7 @@ description: 如何参与协议收入的每周分成
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
