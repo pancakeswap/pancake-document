@@ -16,7 +16,7 @@
 
 进入游戏后，您会发现许多链接，这些链接可以帮助提高您的游戏体验，其中包括视频教程、有关获取资源的快速链接等。
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (5).png" alt=""><figcaption></figcaption></figure>
 
 如您想加入跟各个游戏有关的社区群组，以及获取最新公告，请前往[社区](http://www.pancakeswap.games/community)页面。
 

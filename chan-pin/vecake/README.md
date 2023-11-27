@@ -4,7 +4,7 @@ description: 质押 CAKE，赚取 CAKE，还有更多！
 
 # 🔷 veCAKE
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure>
 
 veCAKE 的全名是 vote-escrowed CAKE，字面翻译文为 CAKE 代理投票权。\
 veCAKE 在 PancakeSwap 的治理中发挥着至关重要的作用，透过它，持有者能够积极参与 [PancakeSwap 的治理](https://pancakeswap.finance/voting) Gauges Voting 系统。通过 veCAKE 您就可以对各种各样的治理提案进行投票，并通过 Gauges Voting 系统导流动性池的 CAKE 奖励分配。&#x20;
@@ -19,8 +19,8 @@ Gauges Voting 使 veCAKE 持有者能够影响 CAKE 在 BNB 链、以太链和 A
 
 以下是如何获得 veCAKE 的指南，您可以创建一个新的锁仓仓位，也可以从 CAKE 锁仓糖浆池中迁移：
 
-{% content-ref url="ru-he-huo-de-vecake.md" %}
-[ru-he-huo-de-vecake.md](ru-he-huo-de-vecake.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="cong-cake-tang-jiang-chi-qian-yi.md" %}

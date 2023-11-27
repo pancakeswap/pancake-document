@@ -60,7 +60,7 @@
         * [如何使用 bCAKE?](products/yield-farming/bcake/ru-he-shi-yong-bcake.md)
   * [🔷 veCAKE](chan-pin/vecake/README.md)
     * [什么是 veCAKE?](chan-pin/vecake/shi-mo-shi-vecake.md)
-    * [如何获得 veCAKE?](chan-pin/vecake/ru-he-huo-de-vecake.md)
+    * [如何获得 veCAKE？](chan-pin/vecake/ru-he-huo-de-vecake.md)
     * [从 CAKE 糖浆池迁移](chan-pin/vecake/cong-cake-tang-jiang-chi-qian-yi.md)
     * [FAQ](chan-pin/vecake/faq.md)
   * [🍯 糖浆池-质押 CAKE](products/syrup-pools/README.md)
