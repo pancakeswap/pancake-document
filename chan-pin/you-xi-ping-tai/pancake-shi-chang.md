@@ -1,5 +1,5 @@
 ---
-description: Pancake Mayer的常见问题说明
+description: Pancake 市长的常见问题说明
 ---
 
 # 🎓 Pancake Mayer
