@@ -1,6 +1,6 @@
 # 什么是 veCAKE?
 
-<figure><img src="../../.gitbook/assets/image (244).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (245).png" alt=""><figcaption></figcaption></figure>
 
 ## 什么是 veCAKE？&#x20;
 
@@ -16,7 +16,7 @@ veCAKE 分数在 PancakeSwap 的治理中起着至至关重要的作用，持有
 
 **参与 Gauges** **Voting**：每两周参与一次 Gauges Voting，投票结果每两周公布并执行一次。在每一轮 Gauge 中，距离 Gauge 生效前 10 天之前，您可以更改本轮的投票决定。（原文：Adjust your voting preferences for each gauge at intervals less frequent than 10 days.）
 
-**投票激励（Vote Incentives）**： 通过外部市场（external markets）向其他协议索要投票激励，以获得额外奖励。&#x20;
+**投票激励（Vote Incentives）**： 通过外部市场（external markets）向其他协议索要投票奖励，以获得额外奖励。&#x20;
 
 **提升配额**：影响并提升您喜爱的流动性池获得的 CAKE 分配量。&#x20;
 

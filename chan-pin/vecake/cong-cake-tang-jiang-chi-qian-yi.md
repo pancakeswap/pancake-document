@@ -1,6 +1,6 @@
 # 从 CAKE 糖浆池迁移
 
-<figure><img src="../../.gitbook/assets/image (245).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (246).png" alt=""><figcaption></figcaption></figure>
 
 如果您目前持有一个 CAKE 糖浆池锁仓仓位，您可以将其迁移到 veCAKE，立即享受 veCAKE 带来的所有好处。
 
@@ -12,7 +12,7 @@
 
 ## 前往 CAKE Staking 页面 <a href="#c866162b-886c-49bb-9906-9c5b861f3f67" id="c866162b-886c-49bb-9906-9c5b861f3f67"></a>
 
-<figure><img src="../../.gitbook/assets/image (246).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (247).png" alt=""><figcaption></figcaption></figure>
 
 打开 [https://pancakeswap.finance/cake-staking?chain=bsc](https://pancakeswap.finance/cake-staking?chain=bsc) 并连接您的钱包。请注意，锁仓 CAKE 获得 veCAKE 仅支持在 BNB 链上操作。
 
@@ -32,7 +32,7 @@
 
 ## 查看锁仓 CAKE 数量和解锁时间的明细
 
-<figure><img src="../../.gitbook/assets/image (248).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (249).png" alt="" width="375"><figcaption></figcaption></figure>
 
 一旦您同时拥有从 CAKE 糖浆池迁移过来的锁仓仓位和在此页面锁仓的 veCAKE 仓位，您的 veCAKE 余额将是两者的总和。要查看更多详情和明细，只需鼠标点击/悬停 veCAKE、锁仓金额和解锁日期上即可查看。&#x20;
 
