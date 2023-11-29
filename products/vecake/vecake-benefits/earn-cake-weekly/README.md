@@ -6,7 +6,7 @@ Holding veCAKE automatically enrols you to two of our weekly CAKE reward pools. 
 
 ## How to participate?
 
-#### 1 - Become eligible <a href="#8b63b3dd-b974-4e1b-9c5e-ed8eea2891ab" id="8b63b3dd-b974-4e1b-9c5e-ed8eea2891ab"></a>
+### 1 - Become eligible <a href="#8b63b3dd-b974-4e1b-9c5e-ed8eea2891ab" id="8b63b3dd-b974-4e1b-9c5e-ed8eea2891ab"></a>
 
 <figure><img src="../../../../.gitbook/assets/image (201).png" alt=""><figcaption></figcaption></figure>
 
@@ -19,7 +19,7 @@ For example, to join the week 1 distribution. You must:
 * Join before 00:00 UTC, Thursday on week 1
 * Have an active fixed-term CAKE staking position, which unlocks equal to or later than 00:00 UTC, Thursday on week 3
 
-#### 2 - Check your rewards
+### 2 - Check your rewards
 
 <figure><img src="../../../../.gitbook/assets/image (202).png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -38,7 +38,7 @@ At the bottom, you may find:
 Please note that your shares will only be updated upon a weekly distribution. Therefore, your shares may appear to be 0 right after you update your staking position. Check back again after the next distribution to view your shares.
 {% endhint %}
 
-## 4 - Claim your rewards <a href="#d99a5c97-55b7-4768-ac3e-c05e173ed63f" id="d99a5c97-55b7-4768-ac3e-c05e173ed63f"></a>
+### 3 - Claim your rewards <a href="#d99a5c97-55b7-4768-ac3e-c05e173ed63f" id="d99a5c97-55b7-4768-ac3e-c05e173ed63f"></a>
 
 Your shares will be updated upon the next weekly distribution after you start locking or migrated your position to veCAKE. You will start accumulating rewards based on the number of shares you have against the whole pool.
 
@@ -46,7 +46,7 @@ Your shares will be updated upon the next weekly distribution after you start lo
 
 After a whole calendar week passes and the pool hits the next weekly distribution on Thursday. You may now claim the rewards from the last period by going back to the benefits panel and clicking the “Claim All” button.
 
-## 5 - Stay eligible and gain more shares <a href="#3ca775e2-6d26-4dee-94e4-e03d89b57412" id="3ca775e2-6d26-4dee-94e4-e03d89b57412"></a>
+### 4 - Stay eligible and gain more shares <a href="#3ca775e2-6d26-4dee-94e4-e03d89b57412" id="3ca775e2-6d26-4dee-94e4-e03d89b57412"></a>
 
 Upon each weekly distribution, your shares are re-adjusted based on:
 

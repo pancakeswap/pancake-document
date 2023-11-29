@@ -56,6 +56,6 @@ You will need to unset an active booster in order to activate bCAKE on other pos
 
 #### Unset bCAKE <a href="#6fa438f5-eea6-4d66-9b56-24780cedd273" id="6fa438f5-eea6-4d66-9b56-24780cedd273"></a>
 
-![](<../../../.gitbook/assets/image (7).png>)
+![](<../../../.gitbook/assets/image (7) (1).png>)
 
 To unset a farm booster, simply click the "Unset" button, and confirm the transaction from your wallet.

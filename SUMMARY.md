@@ -65,6 +65,8 @@
     * [veCAKE Benefits](products/vecake/vecake-benefits/README.md)
       * [Earn CAKE Weekly](products/vecake/vecake-benefits/earn-cake-weekly/README.md)
         * [FAQ](products/vecake/vecake-benefits/earn-cake-weekly/faq.md)
+      * [Gauges Voting](products/vecake/vecake-benefits/gauges-voting/README.md)
+        * [FAQ](products/vecake/vecake-benefits/gauges-voting/faq.md)
     * [FAQ](products/vecake/faq.md)
   * [🍯 Syrup Pools - Stake CAKE](products/syrup-pool/README.md)
     * [Syrup Pools](products/syrup-pool/syrup-pool-guide/README.md)

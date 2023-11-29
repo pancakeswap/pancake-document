@@ -83,7 +83,7 @@ You can repeat the above steps to quickly stake multiple positions with differen
 
 In Farm V3, you can stake multiple positions on the same farm. Each staked position will earn CAKE and need to be harvested separately.
 
-![](<../../.gitbook/assets/image (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (2).png>)
 
 To harvest CAKE rewards from a staked position, simply return to the Farm page, and locate the farm and position you want to harvest. You can use the “Staked Only” toggle to quickly filter the farms you are currently staking.
 
@@ -103,7 +103,7 @@ When staking in a farm, you can still add or remove liquidity without unstaking 
 
 To do so, simply return to the Farm page, and locate the farm and position you want to adjust. You can use the “Staked Only” toggle to quickly filter the farms you are currently staking.
 
-![](<../../.gitbook/assets/image (5) (3).png>)
+![](<../../.gitbook/assets/image (5) (3) (1).png>)
 
 Click on the position title with the token pair, fee rate, position ID and the “>” arrow. You will be taken to the position detail page.
 
