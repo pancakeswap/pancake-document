@@ -2,6 +2,10 @@
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="danger" %}
+This product has now been upgraded to veCAKE. To learn more, check out the [doc for veCAKE](../vecake/)
+{% endhint %}
+
 Revenue Sharing Pool (rCAKE) is a new program for fixed-term CAKE stakers to receive part of the protocol revenue weekly.
 
 {% hint style="info" %}
