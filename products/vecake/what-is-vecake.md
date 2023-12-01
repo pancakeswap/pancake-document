@@ -14,9 +14,19 @@ veCAKE tokens serve a crucial role in PancakeSwap's governance, enabling you to 
 
 **Weekly Rewards:** Claim CAKE rewards regularly through CAKE Staking and Revenue Sharing.
 
+{% content-ref url="earn-cake-weekly/" %}
+[earn-cake-weekly](earn-cake-weekly/)
+{% endcontent-ref %}
+
 **Gauges Voting Participation:** Engage in Gauges Voting every 2 weeks, with results applied bi-weekly. Adjust your voting preferences for each gauge at intervals less frequent than 10 days.
 
+{% content-ref url="gauges-voting/" %}
+[gauges-voting](gauges-voting/)
+{% endcontent-ref %}
+
 **Vote Incentives:** Access additional incentives by claiming votes from other protocols through external markets.
+
+**Governance:** Vote on governance proposals for matters related to gauge approvals, protocol changes, emission adjustments, etc.
 
 **Emission Boost:** Influence and boost CAKE emissions in your preferred pools.
 

@@ -4,41 +4,52 @@ description: Use your veCAKE to vote and decide how CAKE emission is distributed
 
 # Gauges Voting
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-To understand gauges voting. You may think of any products that require CAKE emissions as a series of gauges. Like farms, CAKE weekly reward pool, position managers, etc...&#x20;
+#### What is a gauge?
 
-veCAKE holders can now use their veCAKE as votes to decide how much % of CAKE goes to which product.&#x20;
+To understand gauges voting, you may think of any products that require CAKE emissions as a series of gauges. This includes farms, CAKE weekly reward pool, position manager vaults, etc.
 
-For example, if I'm currently farming with the CAKE-BNB farm on the BNB Chain, I would like to increase the amount of CAKE emission that goes to this particular farm. I can use my veCAKE to vote on this farm.&#x20;
+veCAKE holders can now use their veCAKE as votes to decide how much % of CAKE goes to which product. The more veCAKE a gauge accumulates through Gauges Voting, the more CAKE emissions will be allocated to the underlying liquidity pool / position manager vault.
+
+{% hint style="info" %}
+The votes in each epoch (E-0) determines the CAKE emission for the next epoch (E+1), and these changes take effect only after the current epoch concludes.
+{% endhint %}
+
+#### Gauge Types
+
+There are two types of gauges - ‘core’ and ‘non-core’. CAKE emissions to the former are controlled by the Kitchen, while the community influences emissions to ‘non-core’ pools by voting with veCAKE.&#x20;
+
+1. ‘Core’ gauges include pairs with major tokens and stablecoins (WBTC, ETH, BNB, USDC, USDT, etc.) - the Kitchen will make sure these pairs receive sufficient CAKE rewards as they contribute significantly to the protocol’s revenue
+2. ‘Non-core’ gauges represent all other gauges not classified as ‘core’ gauges
 
 ## How to Vote?
 
 ### 1 - Understand the voting schedule
 
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Gauges weight voting is conducted every two weeks. The beginning of an epoch, just like revenue sharing, is at 00:00 UTC every even Thursdays.
 
 In the above example:
 
-* Epoch 1 is starting at 00:00 UTC, 1st, Thursday on week 1.
-* Epoch 1 is ending 2 weeks later, at 00:00 UTC, 15th, Thursday on week 3.
+* Epoch 1 is starting at 00:00 UTC, 1st, Thursday on Week 1.
+* Epoch 1 is ending 2 weeks later, at 00:00 UTC, 15th, Thursday on Week 3.
 * Users can vote during 00:00 UTC from 1st to 14th.
 * **NO** votes can be cast during 00:00 UTC from 14th to 15th as votes are being adjusted and tallied.
-* Voting results will be snapshotted at 00:00 UTC on the 15th. The end of epoch 1.
+* Voting results will be snapshotted at 00:00 UTC on the 15th. The end of Epoch 1.
 * Voting results will be applied within 72 hrs after an epoch is closed.
 
 ### 2 - Become eligible
 
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-Since veCAKE is gradually decreasing according to the remaining lock time. Voting results will be snapshot at the end of every epoch. This includes the number of total veCAKE, and the veCAKE each user has.
+Since veCAKE is gradually decreasing according to the remaining lock time, voting results will be taken via a snapshot at the end of every epoch. This includes the number of total veCAKE, and the veCAKE each user has.
 
 In the above example:
 
-* Results for epoch 1, will be based on the veCAKE balances at 00:00 UTC, 15th.
-* Users whose veCAKE position is unlocking before or equal to 15th, will have 0 veCAKE balance at the snapshot time. Therefore they have no voting power for epoch 1.
+* Results for Epoch 1, will be based on the veCAKE balances at 00:00 UTC, 15th.
+* Users whose veCAKE position is unlocking before or equal to 15th, will have 0 veCAKE balance at the snapshot time. Therefore they have no voting power for Epoch 1.
 
 Therefore, to become eligible, you must obtain an active veCAKE position, which unlocks **LATER** than the end/snapshot time of the current epoch.&#x20;
 
@@ -50,7 +61,7 @@ In the above example:
 
 Head to "CAKE staking", scroll down and look for the "Gauges Voting" section, then click "Check Gauges".
 
-<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 At the top-left section. You may find:
 
@@ -63,13 +74,13 @@ At the top-right, you may find a pie chart representing the % of each gauge rece
 
 At the bottom, there is a complete list of every voting gauges. With the number of votes they received and the expected % weight, they are gaining in the current epoch. There is also a "boost" and "caps" field, detailing two important gauge characteristics. Continue reading for more details.
 
-#### Gauge Boost and Caps
+#### Gauge Boost and Emission Caps
 
-To ensure CAKE rewards go to the most productive gauges. Each gauge can be applied with a boost and/or a cap. Two of the characteristics can both exist at the same time.
+To ensure CAKE rewards go to the most productive gauges. Each gauge can be applied with a boost and/or an emission cap. Two of the characteristics can both exist at the same time.
 
-Boost is a multiplier applied to the number of votes a gauge receives.
+Gauge Boost is a multiplier applied to the number of votes a gauge receives, ranging from 1x to 2.5x (gauges for V3 pools are capped at 2x). This is to encourage votes and liquidity for important trading pairs.
 
-Cap is a maximum cap on the % weight a gauge can gain.
+Emission cap is a maximum cap on the % weight a gauge can receive, ranging from 2% to 20%. This is to promote fairness in allocation and prevent abuse of the gauge system.
 
 For example:
 
@@ -77,13 +88,19 @@ For example:
 * After applying the boost, this gauge will have 20 votes, 20% weight against the total (100).
 * However, since it has a 15% cap, the final % of CAKE rewards this gauge receives in the next epoch will be adjusted to 15%.
 
+#### How are Gauge Boost and Emission Caps determined?
+
+During the process of a gauge application, we ask applicants to propose the value of the boost multiplier and emissions cap % they wish to assign to the gauge. These have to be voted on by veCAKE holders, along with the entire gauge application.&#x20;
+
+The default option for all gauges is 1.00x multiplier and 5% emission cap. They can be changed with future proposals.
+
 {% hint style="info" %}
 Please note that the voting results are updated weekly. Numbers are calculated based on the veCAKE balances at 00:00 UTC, the coming Thursday.  &#x20;
 {% endhint %}
 
 ### 4 - Add gauges to vote
 
-<figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 To vote on a gauge, scroll down and look for "My Votes" section. Click "Add Gauge".
 
@@ -93,7 +110,7 @@ To quickly locate a gauge, you can use filtering to filter gauges by blockchains
 
 ### 5 - Select how much % veCAKE to vote on each gauges
 
-<figure><img src="../../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 Once you have added the gauges, you may select how much % of your veCAKE goes to each of the gauges.
 
@@ -114,7 +131,7 @@ Once you have confirmed your decision, click "Submit vote" and confirm in your w
 
 ### 6 - Update your votes
 
-<figure><img src="../../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 Once your vote is submitted, you may see your votes being updated to "Current Votes". And the remaining veCAKE gets updated.
 

@@ -57,7 +57,7 @@ Please note that only CAKE held in the following places will contribute to the t
 
 1. In wallet
 2. Flexible CAKE Staking (both in CAKE pool and side pool)
-3. Fixed Term CAKE Staking (boosted by [vCAKE](../vcake.md)!)
+3. Fixed Term CAKE Staking (boosted by [vCAKE](../vcake-old.md)!)
 4. Other Syrup Pools (provided by other projects)
 5. CAKE/BNB LP&#x20;
 

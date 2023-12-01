@@ -1,4 +1,8 @@
-# Voting
+# Voting (old)
+
+{% hint style="info" %}
+We are transitioning from vCAKE to veCAKE for our governance system. Once the migration is done, not all information on this page will be accurate.
+{% endhint %}
 
 ![](../../.gitbook/assets/voting-header.png)
 
