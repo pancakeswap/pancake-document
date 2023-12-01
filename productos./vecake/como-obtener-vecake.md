@@ -1,10 +1,10 @@
 # Cómo obtener veCAKE?
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Ir a la página de staking de CAKE
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ve a [https://pancakeswap.finance/cake-staking?chain=bsc](https://pancakeswap.finance/cake-staking?chain=bsc) y conecta tu wallet. Ten en cuenta que el staking de veCAKE sólo está disponible en BNB Chain.
 
