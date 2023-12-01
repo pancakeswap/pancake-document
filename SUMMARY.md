@@ -134,6 +134,8 @@
   * [Implementación en Aptos](multichain/implementacion-en-aptos.md)
 * [Ecosistema & Alianzas](ecosistema-and-alianzas/README.md)
   * [Marca y logos](ecosistema-and-alianzas/marca-y-logos.md)
+  * [Alianzas Comerciales](ecosistema-and-alianzas/alianzas-comerciales/README.md)
+    * [⛽ Gauges](ecosistema-and-alianzas/alianzas-comerciales/gauges.md)
 * [Desarrolladores](desarrolladores/README.md)
   * [Contribuciones](desarrolladores/contributing/README.md)
     * [Descripción de Base de Código](desarrolladores/contributing/codebase-overview.md)
