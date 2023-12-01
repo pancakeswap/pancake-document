@@ -16,12 +16,12 @@ While this page serves as a quick FAQ for Project Teams to find out a bit more a
 
 ### Interested in a partnership? Let’s build together
 
-Please navigate to the relevant section for you and submit a **form**.
+Please navigate to the relevant section for you and submit a form / follow the process.
 
-1\. We’re hosting liquidity mining programs (“Syrup Pools and Farms”) across all chains we’re deployed on
+1\. We're directing CAKE emission to gauges (liquidity pairs, position manager vaults, etc.) on Ethereum, BNB Chain, and Arbitrum
 
-{% content-ref url="syrup-pools-and-farms.md" %}
-[syrup-pools-and-farms.md](syrup-pools-and-farms.md)
+{% content-ref url="gauges.md" %}
+[gauges.md](gauges.md)
 {% endcontent-ref %}
 
 2\. We’re hosting token launchpad offerings (“Initial Farm Offerings, or IFOs”) across all chains we’re deployed on
@@ -30,13 +30,19 @@ Please navigate to the relevant section for you and submit a **form**.
 [initial-farm-offerings-ifos.md](initial-farm-offerings-ifos.md)
 {% endcontent-ref %}
 
-3\. We’re hosting regular short-term liquidity mining programs (“Farm Auctions”) on BNB Chain
+3\. We’re hosting liquidity mining programs (“Syrup Pools and Farms”) across all chains we’re deployed on
+
+{% content-ref url="syrup-pools-and-farms.md" %}
+[syrup-pools-and-farms.md](syrup-pools-and-farms.md)
+{% endcontent-ref %}
+
+4\. We’re hosting regular short-term liquidity mining programs (“Farm Auctions”) on BNB Chain
 
 {% content-ref url="../../products/farm-auctions.md" %}
 [farm-auctions.md](../../products/farm-auctions.md)
 {% endcontent-ref %}
 
-4\. We’re hosting an NFT Marketplace on BNB Chain. Find out about our listing requirements
+5\. We’re hosting an NFT Marketplace on BNB Chain. Find out about our listing requirements
 
 {% content-ref url="../contact-us/nft-market-applications.md" %}
 [nft-market-applications.md](../contact-us/nft-market-applications.md)
