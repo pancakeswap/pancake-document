@@ -4,7 +4,7 @@
 
 We welcome all protocols to apply for a gauge for your desired token pair - here’s the process:
 
-Step 1: Refer to the application template on our [governance forum](https://forum.pancakeswap.finance/t/about-the-gauges-category/)
+Step 1: Refer to the application template on our [governance forum](https://forum.pancakeswap.finance/t/gauges-application-guidelines/46)
 
 Step 2: Start a new topic on the forum in the [‘Gauges’ Category](https://forum.pancakeswap.finance/c/gauges/) with the abovementioned format
 
