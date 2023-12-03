@@ -150,6 +150,7 @@
     * [如何投票](products/voting/ru-he-tou-piao/README.md)
       * [如何使用SafePal钱包进行投票](products/voting/ru-he-tou-piao/how-to-vote-with-safepal-wallet.md)
     * [vCAKE](products/voting/vcake.md)
+  * [治理（新）](zhi-li-dai-bi-jing-ji/zhi-li-xin.md)
 * [生态系统＆合作伙伴关系](sheng-tai-xi-tong-he-zuo-huo-ban-guan-xi/README.md)
   * [联盟计划](lian-meng-ji-hua/README.md)
     * [联盟仪表板&返佣链接](lian-meng-ji-hua/lian-meng-yi-biao-ban-fan-yong-lian-jie.md)
