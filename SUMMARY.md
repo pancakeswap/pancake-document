@@ -96,6 +96,8 @@
     * [什么是永续合约交易](products/pancakeswap-exchange/yong-xu-he-yue-jiao-yi/shi-mo-shi-yong-xu-he-yue-jiao-yi.md)
     * [永续合约交易 V2](products/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-jiao-yi-v2/README.md)
       * [我应该如何使用它？](products/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-jiao-yi-v2/wo-ying-gai-ru-he-shi-yong-ta.md)
+      * [Dumb 模式](chan-pin/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-jiao-yi-v2/dumb-mo-shi/README.md)
+        * [Dumb  模式指南](chan-pin/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-jiao-yi-v2/dumb-mo-shi/dumb-mo-shi-zhi-nan.md)
       * [Degen Mode](chan-pin/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-jiao-yi-v2/degen-mode/README.md)
         * [Degen Mode Dynamic Fee](chan-pin/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-jiao-yi-v2/degen-mode/degen-mode-dynamic-fee.md)
       * [MADBTCUSD](chan-pin/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-jiao-yi-v2/madbtcusd/README.md)
