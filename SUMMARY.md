@@ -85,7 +85,7 @@
   * [🤝 简单赚币](chan-pin/jian-dan-zhuan-bi/README.md)
     * [如何使用简单赚币](chan-pin/jian-dan-zhuan-bi/ru-he-can-yu-jian-dan-zhuan-bi.md)
     * [FAQ](chan-pin/jian-dan-zhuan-bi/faq.md)
-    * [合约详情](chan-pin/jian-dan-zhuan-bi/he-yue-xiang-qing.md)
+    * [条款和条件](chan-pin/jian-dan-zhuan-bi/tiao-kuan-he-tiao-jian.md)
   * [💧 流动权益质押整合](products/liu-dong-zhi-ya-zheng-he/README.md)
     * [如何进行流动权益质押？](products/liu-dong-zhi-ya-zheng-he/ru-he-jin-hang-liu-dong-zhi-ya.md)
     * [WBETH](products/liu-dong-zhi-ya-zheng-he/wbeth.md)
