@@ -4,13 +4,13 @@
 
 #### Contatos para Business
 
-### [Liste um Token](business-partnerships.md#exchange)
+### [Liste um Token](broken-reference)
 
-### [Inscreva-se para uma Pool de Syrup ou Yield Farm](business-partnerships.md#farms-and-syrup-pools)
+### [Inscreva-se para uma Pool de Syrup ou Yield Farm](broken-reference)
 
-### [Inscreva-se para um IFO (Venda de Token)](business-partnerships.md#ifos-token-sales)
+### [Inscreva-se para um IFO (Venda de Token)](broken-reference)
 
-### [Inscreva-se para o Mercado de NFT](nft-market-applications.md)
+### [Inscreva-se para o Mercado de NFT](broken-reference)
 
 ####
 

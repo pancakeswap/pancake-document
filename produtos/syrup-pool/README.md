@@ -39,7 +39,7 @@ Algumas pools especiais permitem que você faça stake de outros tokens além de
 
 ### **Como eu posso colocar meu projeto na Pool de Syrup?**
 
-Entre em contato conosco através do [formulário de aplicações](../../contact-us/business-partnerships.md).
+Entre em contato conosco através do [formulário de aplicações](broken-reference).
 
 ### Contratos Inteligentes da Pool de Syrup <a href="#docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86" id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
 

@@ -51,7 +51,7 @@ Agora que você encontrou u Farm para fazer stake, você precisará fornecer liq
 
 2 - Alternativamente, você pode clicar no Farm da que escolheu na lista. Ele será aberto para mostrar mais detalhes. Ou com a visualização do card, clique em “Detalhes” para expandir e obter mais detalhes. Clique no link "Adicionar LP XXX-YYY" na seção de detalhes para adicionar liquidez.
 
-![](<../../.gitbook/assets/image (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1) (2).png>)
 
 ### **Faça Stake de suas posições no farm**
 
@@ -166,7 +166,7 @@ Quando estiver pronto, clique no botão **Ativar (Enable)** e confirme sua açã
 
 5 - Após uma breve espera, a janela fechará e você verá seu novo saldo de LP Token em stake nos detalhes.
 
-![](<../../.gitbook/assets/image (2) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (3).png>)
 
 {% hint style="info" %}
 Quando você está realizando farm cross-chain em uma blockchain EVM diferente da BNB Chain. Você precisará aguardar aproximadamente 30 minutos para que as transações cross chain sejam confirmadas.

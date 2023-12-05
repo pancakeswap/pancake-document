@@ -42,7 +42,7 @@ Observe que o sistema de cotação fornecerá total transparência da taxa de c�
 4.  Selecione a cotação recomendada.\
 
 
-    <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 5.  Prossiga para seguir as etapas na tela com o fornecedor on-ramp.\
 
 

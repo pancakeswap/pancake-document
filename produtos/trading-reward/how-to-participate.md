@@ -20,7 +20,7 @@ Para verificar se existe uma campanha em andamento. Você pode:
 *   Procure pelo ícone de 💝 na lista de “Hot Token” na [Página de Swap](https://pancakeswap.finance/swap). Ou use o filtro para verifcar os pares com recompensas de trade.
 
     ![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2F14anopagNk0g53mCI9Uu%2Fimage.png?alt=media\&token=d2100391-d5e7-4c85-a77d-639688659680)
-* Verifique [nossa redes sociais](../../ecossistema-and-parcerias/contact-us/telegram.md)
+* Verifique [nossa redes sociais](broken-reference)
 
 ## Verifique se seu endereço é elegível <a href="#ced8a6c5-803a-4a60-80d0-44e823571d84" id="ced8a6c5-803a-4a60-80d0-44e823571d84"></a>
 
