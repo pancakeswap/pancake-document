@@ -7,3 +7,7 @@
 {% content-ref url="../produtos/voting/" %}
 [voting](../produtos/voting/)
 {% endcontent-ref %}
+
+{% content-ref url="governanca-novo.md" %}
+[governanca-novo.md](governanca-novo.md)
+{% endcontent-ref %}

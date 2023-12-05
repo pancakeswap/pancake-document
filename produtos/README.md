@@ -2,12 +2,18 @@
 
 Aqui estão os artigos nessa seção:
 
+
+
 {% content-ref url="pancakeswap-exchange/" %}
 [pancakeswap-exchange](pancakeswap-exchange/)
 {% endcontent-ref %}
 
 {% content-ref url="yield-farming/" %}
 [yield-farming](yield-farming/)
+{% endcontent-ref %}
+
+{% content-ref url="vecake/" %}
+[vecake](vecake/)
 {% endcontent-ref %}
 
 {% content-ref url="syrup-pool/" %}
