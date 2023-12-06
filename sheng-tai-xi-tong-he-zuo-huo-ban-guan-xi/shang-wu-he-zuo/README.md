@@ -18,10 +18,10 @@ PancakeSwap (PCS) 是领先的多链去中心化交易所 (DEX)，目前已在�
 
 以下是我们的合作方式和流程：
 
-1. 我们正在部署的所有区块链上开展流流动性耕种计划（"糖浆池和农场“）。
+1. 我们将 CAKE 排放量导向以太链、BNB 链和 Arbitrum 上的 Gauges（流动性对、仓位管理工具库等）。
 
-{% content-ref url="tang-jiang-chi-he-nong-chang.md" %}
-[tang-jiang-chi-he-nong-chang.md](tang-jiang-chi-he-nong-chang.md)
+{% content-ref url="gauges.md" %}
+[gauges.md](gauges.md)
 {% endcontent-ref %}
 
 2. 我们正在部署的所有区块链上提供新币发行产品（"初次农场发行，或作 IFOs）。
@@ -30,13 +30,19 @@ PancakeSwap (PCS) 是领先的多链去中心化交易所 (DEX)，目前已在�
 [chu-ci-nong-chang-fa-hang-ifo.md](chu-ci-nong-chang-fa-hang-ifo.md)
 {% endcontent-ref %}
 
-3. 我们在 BNB 链上定期举办短期流动性耕种项目（"农场竞拍"）。
+3. 我们正在部署的所有区块链上开展流流动性挖矿计划（"糖浆池和农场“）。
+
+{% content-ref url="tang-jiang-chi-he-nong-chang.md" %}
+[tang-jiang-chi-he-nong-chang.md](tang-jiang-chi-he-nong-chang.md)
+{% endcontent-ref %}
+
+4. 我们在 BNB 链上定期举办短期流动性耕种项目（"农场竞拍"）。
 
 {% content-ref url="../../chan-pin/nong-chang-jing-pai.md" %}
 [nong-chang-jing-pai.md](../../chan-pin/nong-chang-jing-pai.md)
 {% endcontent-ref %}
 
-4. 我们正在 BNB 链上部署了一个 NFT 市场。了解我们的上市要求。
+5. 我们正在 BNB 链上部署了一个 NFT 市场。了解我们的上市要求。
 
 {% content-ref url="../../contact-us/nft-shi-chang-ying-yong (1).md" %}
 [nft-shi-chang-ying-yong (1).md](<../../contact-us/nft-shi-chang-ying-yong (1).md>)
