@@ -1,6 +1,6 @@
 # 🧑🌾 初次农场发行- IFO
 
-想要了解有关厨房的新币发行产品（“初次农场发行或 称作 IFO”）的更多信息，请查看此 PDF：
+想要了解有关厨房的新币发行产品（“[初次农场发行或称作 IFO](https://pancakeswap.finance/ifo)”）的更多信息，请查看此 PDF：
 
 {% file src="../../.gitbook/assets/PancakeSwap IFOs One-Pager.pdf" %}
 
@@ -8,7 +8,7 @@
 
 1. 初步接洽
    * 我们进行了愉快的沟通后（共享数据、用户情况和各种宏观大方向等各种话题，谈天说地，处处囊括），贵团队决定开始申请流程——让我们开始吧！&#x20;
-   * 通过相应的表格申请 - [BNB Chain](https://docs.google.com/forms/d/e/1FAIpQLSf0Vmy3k0KyXtXwqxr8QLjD8Xd6KBAmkYxcBRRVTUYJVX17fA/viewform), [Etheruem](https://docs.google.com/forms/d/e/1FAIpQLSeD3FvRD7TOw-\_6tZ5LjpGEN1NsC21hzlzNmNqq-djOYyGjbw/viewform), [Aptos](https://docs.google.com/forms/d/e/1FAIpQLSf9gWv9L8U0PGYgl-ymeX1qgXncBSlJ1HV5gB6ZeW7e4ekV\_w/viewform), [Arbitrum](https://docs.google.com/forms/d/1KGNXkgX7uaRgpu12sE6fbNZfJoahGWAU9i-oB4-ChUY/viewform), [Polygon zkEVM](https://docs.google.com/forms/d/1mK6ma1jnrxPtN7nTXdwirmLDc1W9hrTsR63PssEzyJw/viewform), [zkSync Era](https://docs.google.com/forms/d/183KIVRvR45yr7VdfLG6svNvMjva-M799ZNqF-CtXv2Y/viewform),  [Linea](https://docs.google.com/forms/d/e/1FAIpQLSedf06t0vrG9VEwFENINv1MVpckwiPq2SEvIpByJKVZaFPPTw/viewform) 或 [Base](https://docs.google.com/forms/d/e/1FAIpQLSfjJ-ayIJBGjyCbpugFBy\_FDPkGi-QwH42bPNYIu7rHD1Ue0g/viewform?usp=sf\_link) (平均填表时间: ≤14 分钟)
+   * 填写 [这里](https://docs.google.com/forms/d/e/1FAIpQLScmZu87SG41J\_eGfzlbyJ\_olFohlGOXfOJer04Dr1yCEJy2NA/viewform) 的表格申请-(平均填表时间: ≤14 分钟)
 2. 尽职调查
    * 厨房会根据表格中提供的信息调研，我们需要详细了解一些信息要点。
    * 对于我们的 “IFO 申请”，与我们的糖浆池/农场申请相比，我们将会有更多的双向沟通：我们很乐于分享我们在代币经济学、产品、进入市场 (GTM) 策略等方面的知识以及目前经验总结。
