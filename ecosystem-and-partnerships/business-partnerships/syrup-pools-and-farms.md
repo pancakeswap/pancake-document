@@ -2,13 +2,13 @@
 
 For more information about our liquidity mining programs (“[Syrup Pools](https://pancakeswap.finance/pools) and [Farms](https://pancakeswap.finance/farms)”), please view this PDF:
 
-{% file src="../../.gitbook/assets/PancakeSwap Syrup Pools & Farms One-Pager.pdf" %}
+{% file src="../../.gitbook/assets/PancakeSwap Syrup Pools & Farms One-Pager (1).pdf" %}
 
 #### Example of a Syrup Pool and Farm process
 
 1. Initial Outreach
    * We have a lovely chat (where we can share data, user stats, and memes) and your team decides to start the application process – let’s go!
-   * **Apply via our form here -** [**BNB Chain**](https://docs.google.com/forms/d/e/1FAIpQLSfQNsAfh98SAfcqJKR3is2hdvMRdnvfd2F3Hql96vXHgIi3Bw/viewform)**,**  [**Ethereum**](https://docs.google.com/forms/d/e/1FAIpQLSekKMXhgmWtPIbdkDIpOLSnA\_YQf3WaBWbGxMyipPyuE5Uquw/viewform)**,** [**Aptos**](https://forms.gle/D77N5TThkco7fLKTA)**,** [**zkSync**](https://docs.google.com/forms/d/e/1FAIpQLSfoj2A7xIEw-BzfNmIxV8Jnl1akDlzC6yl1FD5giwiB5vwTkg/viewform?usp=sf\_link)**,** [**Arbitrum**](https://docs.google.com/forms/d/e/1FAIpQLSdOwHuvoO0e\_IN53ezZNCMsfr0fDPdGXW1lheG7aacRk\_BCbg/viewform?usp=sf\_link)**,** [**Base**](https://docs.google.com/forms/d/e/1FAIpQLSfDD0kigru76tPBcibL3M-\_EmbMWXRn1WGd8ovqgZuNGGbBfg/viewform?usp=sf\_link)**,** [**Linea**](https://docs.google.com/forms/d/e/1FAIpQLSccG0dW8c1UxTq-yY9sEKTSwC6Ke-NwIY76rbeSQCgQvF8dSg/viewform?usp=sf\_link)**, or** [**Polygon zkEVM**](https://docs.google.com/forms/d/1NLYTB6JQ-1xRFUsUByvKH8qqHG90-imY-96GUVkbPb4) **(Average time to fill up form: ≤8 minutes)**
+   * **Apply via our form** [**here**](https://docs.google.com/forms/d/e/1FAIpQLSf1kMALRQPRp7toeLLHB4opo3TU8K1NPYwaKMy8zGF6RoOgFA/viewform) **- (Average time to fill up form: ≤8 minutes)**
 2. Due Diligence
    * Using the information in the form, we would clarify some points
    * The team passes due diligence – congrats!

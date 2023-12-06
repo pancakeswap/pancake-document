@@ -2,13 +2,13 @@
 
 For more information about our token launchpad offerings (“[Initial Farm Offering, or IFO”](https://pancakeswap.finance/ifo)), please view this PDF
 
-{% file src="../../.gitbook/assets/PancakeSwap IFOs One-Pager.pdf" %}
+{% file src="../../.gitbook/assets/PancakeSwap IFOs One-Pager (1).pdf" %}
 
 #### Example of an IFO Process
 
 1. Initial Outreach
    * We have a lovely chat about your target launch date, your goals for TGE, and your team decides to start the process - let's go!
-   * **Apply via our form here -** [**BNB Chain**](https://docs.google.com/forms/d/e/1FAIpQLSf0Vmy3k0KyXtXwqxr8QLjD8Xd6KBAmkYxcBRRVTUYJVX17fA/viewform)**,** [**Ethereum**](https://docs.google.com/forms/d/e/1FAIpQLSeD3FvRD7TOw-\_6tZ5LjpGEN1NsC21hzlzNmNqq-djOYyGjbw/viewform)**,** [**Aptos**](https://docs.google.com/forms/d/e/1FAIpQLSf9gWv9L8U0PGYgl-ymeX1qgXncBSlJ1HV5gB6ZeW7e4ekV\_w/viewform)**,** [**zkSync**](https://docs.google.com/forms/d/183KIVRvR45yr7VdfLG6svNvMjva-M799ZNqF-CtXv2Y/viewform)**,** [**Arbitrum**](https://docs.google.com/forms/d/1KGNXkgX7uaRgpu12sE6fbNZfJoahGWAU9i-oB4-ChUY/viewform)**,** [**Base**](https://docs.google.com/forms/d/e/1FAIpQLSfjJ-ayIJBGjyCbpugFBy\_FDPkGi-QwH42bPNYIu7rHD1Ue0g/viewform?usp=sf\_link)**,** [**Linea**](https://docs.google.com/forms/d/e/1FAIpQLSedf06t0vrG9VEwFENINv1MVpckwiPq2SEvIpByJKVZaFPPTw/viewform)**, or** [**Polygon zkEVM**](https://docs.google.com/forms/d/1mK6ma1jnrxPtN7nTXdwirmLDc1W9hrTsR63PssEzyJw/viewform) **(Average time to fill up form: ≤14 minutes)**
+   * **Apply via our form** [**here**](https://docs.google.com/forms/d/e/1FAIpQLScmZu87SG41J\_eGfzlbyJ\_olFohlGOXfOJer04Dr1yCEJy2NA/viewform) **- (Average time to fill up form: ≤14 minutes)**
 2. Due Diligence
    * Using the information in the form, we would clarify some points
    * For our IFOs, compared to our Syrup Pools/Farms, there is a bit more discussion: we are happy to share our knowledge of best practices with regard to tokenomics, product, Go-To-Market (GTM) Strategy, etc.
