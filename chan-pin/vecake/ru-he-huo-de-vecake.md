@@ -34,6 +34,6 @@ CAKE 支出授权上链执行后。会出现另一个钱包弹出窗口，确认
 
 <figure><img src="../../.gitbook/assets/image (243).png" alt=""><figcaption></figcaption></figure>
 
-确认后，您将在页面左侧看到您的 veCAKE 锁仓仓位详情，包括锁定的 CAKE 数量和解锁时间。最重要的是，您的 veCAKE 数值。&#x20;
+确认后，您将在页面左侧看到您的 veCAKE 锁仓仓位详情，包括锁定的 CAKE 数量和解锁时间。最重要的是，您的 veCAKE 持有量。&#x20;
 
 向下滚动可以查看所有 veCAKE 带来的好处。

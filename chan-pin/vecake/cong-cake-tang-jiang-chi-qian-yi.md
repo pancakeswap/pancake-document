@@ -24,7 +24,7 @@
 
 <figure><img src="../../.gitbook/assets/CAKE Staking - Check veCAKE number.jpg" alt=""><figcaption></figcaption></figure>
 
-迁移完成后，在页面左侧会更新您的 veCAKE 数值、锁定的 CAKE 数量和解锁时间。它们应与您当前的 CAKE 糖浆池锁仓仓位保持一致。&#x20;
+迁移完成后，在页面左侧会更新您的 veCAKE 数字、锁定的 CAKE 数量和解锁时间。它们应与您当前的 CAKE 糖浆池锁仓仓位保持一致。&#x20;
 
 但是，已迁移的仓位无法更新。如果您想获得更多的 veCAKE，可通过锁仓额外的 CAKE 在右侧创建一个新的 veCAKE 仓位。&#x20;
 
@@ -40,6 +40,6 @@
 
 ## 从 CAKE 质押池中提取 CAKE&#x20;
 
-迁移后的仓位将根据其原始锁仓结束时间解锁。解锁后，进入质押池页面，提取质押的 CAKE；或者将其添加到 veCAKE 中，以提高您的 veCAKE 数量，并获得更多其他奖励。&#x20;
+迁移后的仓位将根据其原始锁仓结束时间解锁。解锁后，进入质押池页面，提取质押的 CAKE；或者将其添加到 veCAKE 中，以提高您的 veCAKE 持量，并获得更多其他奖励。&#x20;
 
 请注意，到期燃烧仍然会执行，为避免利润被销毁，请在迁移的锁仓仓位解锁后尽快提取 CAKE 并将其添加到 veCAKE 中。
