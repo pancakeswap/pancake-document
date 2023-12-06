@@ -144,6 +144,7 @@
     * [迷你小程序常见问题解答](products/pancakeswap-mi-ni-xiao-cheng-xu/mi-ni-xiao-cheng-xu-chang-jian-wen-ti-jie-da.md)
     * [⛓ PancakeSwap CEDEFI 整合](products/pancakeswap-mi-ni-xiao-cheng-xu/pancakeswap-cedefi-zheng-he.md)
   * [📈 信息站](products/info.md)
+  * [🔔 通知服务](chan-pin/tong-zhi-fu-wu.md)
   * [🖥 PancakeSwap 私人 RPC](chan-pin/pancakeswap-si-ren-rpc.md)
 * [治理＆代币经济](zhi-li-dai-bi-jing-ji/README.md)
   * [CAKE 代币经济模型](tokenomics/cake/cake-dai-bi-jing-ji-mo-xing.md)
