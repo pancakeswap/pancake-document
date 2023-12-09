@@ -8,7 +8,7 @@
 
 Arbitrum 上的永续合约 v2 具有一个独立的流动性池，即 ALP 池，由 ApolloX 平台的流动性提供者代币 $ALP 支持。池子由 USDC、USDT、DAI、ETH 和 BTC 等资产组成。有了 ALP 池以后，用户就可以使用上述资产铸造 $ALP 来成为流动性提供者的一员，并以此以赚取可观的收益。\
 \
-平台总手续费收入的 50% 将分配给 ALP 流动性提供者，其中包括用户的开仓/平仓费、执行费、资金费和清算费等各种费用。如需了解 ALP 的质押指南，请点击[此处](http://127.0.0.1:5000/s/-MHREX7DHcljbY5IkjgJ-1972196547/products/perpetual-trading/perpetual-trading-v2/perpetual-trading-faq/arbitrum/alp-syrup-pool-arbitrum)。
+平台总手续费收入的 50% 将分配给 ALP 流动性提供者，其中包括用户的开仓/平仓费、执行费、资金费和清算费等各种费用。如需了解 ALP 的质押指南，请点击[此处](https://app.gitbook.com/s/-MHREX7DHcljbY5IkjgJ-1972196547/products/perpetual-trading/perpetual-trading-v2/perpetual-trading-faq/arbitrum/alp-syrup-pool-arbitrum)。
 
 ### 什么是 ALP 糖浆池？&#x20;
 
