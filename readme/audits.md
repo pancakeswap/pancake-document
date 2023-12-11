@@ -2,6 +2,10 @@
 
 ## EVM Audit Reports
 
+#### 🆕 veCAKE / Gauges:
+
+* [BlockSec's veCAKE / Gauges security audit](https://github.com/blocksecteam/audit-reports/blob/main/solidity/blocksec\_pancake\_vecake\_v1.0-signed.pdf) (Nov 2023)
+
 #### 🆕 MasterChef V3:
 
 * [PeckShield’s MasterChef V3 security audit](https://github.com/peckshield/publications/tree/master/audit\_reports/PeckShield-Audit-Report-PancakeSwapV3-MasterChefV3-v1.0.pdf) (Apr 2023)
