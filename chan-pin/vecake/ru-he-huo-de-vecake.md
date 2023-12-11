@@ -1,6 +1,6 @@
 # 如何获得 veCAKE？
 
-<figure><img src="../../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (238) (1).png" alt=""><figcaption></figcaption></figure>
 
 就像锁仓质押 CAKE 糖浆池一样，要享受 veCAKE 带来的好处，只需将 CAKE 锁仓一段时间即可。
 

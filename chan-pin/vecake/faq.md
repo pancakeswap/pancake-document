@@ -1,6 +1,6 @@
 # FAQ
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure>
 
 ### 锁仓的 CAKE 和 veCAKE 有什么区别？&#x20;
 
