@@ -120,6 +120,7 @@
     * [Mini-Programa - Preguntas más Frecuentes (FAQ)](productos./pancakeswap-mini-programa/mini-programa-preguntas-mas-frecuentes-faq.md)
     * [⛓ PancakeSwap CEDEFI Integration translated](productos./pancakeswap-mini-programa/pancakeswap-cedefi-integration-translated.md)
   * [📈 Info (Analíticas)](productos./info.md)
+  * [🔔 Notificaciones](productos./notificaciones.md)
 * [Gobernanza y Tokenomics](gobernanza-y-tokenomics/README.md)
   * [CAKE](gobernanza-y-tokenomics/cake-updated-10-29-2020/README.md)
     * [Tokenomics de CAKE](gobernanza-y-tokenomics/cake-updated-10-29-2020/tokenomics-de-cake.md)
