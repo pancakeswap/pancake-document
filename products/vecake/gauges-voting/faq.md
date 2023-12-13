@@ -65,3 +65,9 @@ Therefore, even though you gained more veCAKE. If you have allocated 100% of you
 ### Voting results are tallied, why emission rate is not changing?
 
 It takes roughly 72 hours to apply the voting results to various emission products on PancakeSwap. Chefs will continue to automate this process to shorten the gap as well as improve accuracy.
+
+
+
+### Why did the gauge I voted for not receive any CAKE emissions in the next epoch?
+
+Whitelisted gauges need to receive votes that correspond to minimally 1 CAKE per day in emissions, before they can receive any CAKE.
