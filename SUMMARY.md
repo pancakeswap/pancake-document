@@ -230,6 +230,8 @@
 * [团队](gei-kai-fa-zhe-men/zhi-neng-he-yue-aptos/ifo/tuan-dui/README.md)
   * [厨房团队](gei-kai-fa-zhe-men/zhi-neng-he-yue-aptos/ifo/tuan-dui/chu-fang-tuan-dui.md)
   * [成为一名大厨](gei-kai-fa-zhe-men/zhi-neng-he-yue-aptos/ifo/tuan-dui/cheng-wei-yi-ming-da-chu/README.md)
+    * [Solidity Engineer (Contract)](tuan-dui/cheng-wei-yi-ming-da-chu/solidity-engineer-contract.md)
+    * [Frontend Engineer (Contract)](tuan-dui/cheng-wei-yi-ming-da-chu/frontend-engineer-contract.md)
     * [产品设计师（UX/I）](gei-kai-fa-zhe-men/zhi-neng-he-yue-aptos/ifo/tuan-dui/cheng-wei-yi-ming-da-chu/chan-pin-she-ji-shi-uxi.md)
     * [商务开发经理](gei-kai-fa-zhe-men/zhi-neng-he-yue-aptos/ifo/tuan-dui/cheng-wei-yi-ming-da-chu/shang-wu-kai-fa-jing-li.md)
     * [前端工程师](gei-kai-fa-zhe-men/zhi-neng-he-yue-aptos/ifo/tuan-dui/cheng-wei-yi-ming-da-chu/qian-duan-gong-cheng-shi.md)
