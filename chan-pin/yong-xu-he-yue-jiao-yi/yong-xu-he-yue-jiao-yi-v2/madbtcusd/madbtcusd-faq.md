@@ -6,9 +6,11 @@ MADBTCUSD 根据以下公式计算：
 
 **MADBTCUSD 指数**
 
+
+
 $$
 \begin{align*}
-\text{drift} &= \left( \frac{\text{btcCurrentPrice} - 1}{\text{btcLastSecondPrice}} \right) \times 3 \\
+\text{drift} &= \left( \frac{\text{btcCurrentPrice} - 1}{\text{btcLastSecondPrice}} \right) \times 5 \\
 \\
 \sigma &= \frac{\text{expectedvol}}{\sqrt{3600 \times 24 \times 365}} \\
 \\
@@ -24,6 +26,8 @@ $$
 * dt=1
 * expected vol （预期波动率）：100%（预期波动率是 MADBTC 的预期时间波动率）&#x20;
 * “**Random number （随机数）**" 根据当前 **BTC 价格**计算，**精确到小数点后 8 位**
+
+
 
 **随机数的计算：**
 

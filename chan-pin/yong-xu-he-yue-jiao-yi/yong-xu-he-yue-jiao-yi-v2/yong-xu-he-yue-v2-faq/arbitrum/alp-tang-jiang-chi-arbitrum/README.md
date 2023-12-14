@@ -6,7 +6,7 @@ ALP 代币代表着 PancakeSwap 永续合约 V2 底层流动性资金的所有�
 
 #### 铸造/购买 ALP
 
-1. 点击进入 PancakeSwap ALP Pool (V2) 页面并连接您的钱包&#x20;
+1. 点击进入 [PancakeSwap ALP Pool (V2) 页面](https://perp.pancakeswap.finance/en/ALP)并连接您的钱包&#x20;
 2. 连接钱包后，点击 **购买 ALP**。您可以使用任何 ALP 池支持的资产购买 ALP。&#x20;
 3. 确认信息无误后，点击 **购买 ALP** 以完成交易。
 
