@@ -2,6 +2,10 @@
 
 ## EVM 链相关的审计报告
 
+#### 🆕 veCAKE / Gauges:
+
+* [BlockSec 对 veCAKE / Gauges 的安全审计](https://github.com/blocksecteam/audit-reports/blob/main/solidity/blocksec\_pancake\_vecake\_v1.0-signed.pdf) ( 2023 年 11 月)
+
 #### 🆕 主厨合约 V3:
 
 * [慢雾对主厨合约 V3 的安全审计](https://github.com/slowmist/Knowledge-Base/blob/master/open-report-V2/smart-contract/SlowMist%20Audit%20Report%20-%20PancakeSwap\_v3\_Phase2\_en-us.pdf) ( 2023 年 3 月)
