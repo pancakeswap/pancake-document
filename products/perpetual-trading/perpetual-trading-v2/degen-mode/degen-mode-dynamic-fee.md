@@ -26,6 +26,6 @@ In this case, the closing fee rate would be 0.03%, the minimum closing fee rate.
 
 Note:
 
-The execution fee will only be charged when a position is opened. It is set at 0.3 USD (BNB Chain) / 0.2 USD (Arbitrum) similar to what is being charged when trading classic perpetual trading pairs. There is no opening position fee.
+The execution fee will only be charged when a position is opened. It is set at 0.3 USD (BNB Chain)/ 0.2 USD (Arbitrum)/ 0.01 USD (opBNB)/ 0.3 USD (Base), similar to what is being charged when trading classic perpetual trading pairs. There is no opening position fee.
 
 In the event of liquidation, the 90% liquid lost rate includes close fee.

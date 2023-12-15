@@ -4,21 +4,21 @@
 
 The Degen Trading Mode offers traders an alternative way of trading compared to conventional trading methods. Traders who prefer to reduce screen time analyzing the market and have a more hands-off approach can choose this trading mode. During periods of high volatility, traders can maximize their gains with 0 slippage, high leverage and extremely low fees. In low volatility, traders can speculate on minor price movements.
 
-Initially, Degen Trading Mode will be available for BTCUSD and ETHUSD, supporting maximum leverage of 1001x (BNB Chain) and 750x (Arbitrum) for long and short market orders. Traders must input the principal (collateral amount) before opening a position with zero slippage.&#x20;
+Initially, Degen Trading Mode will be available for BTCUSD and ETHUSD, supporting maximum leverage of 1001x for long and short market orders. Traders must input the principal (collateral amount) before opening a position with zero slippage.&#x20;
 
-Degen mode is available on both BNB Chain and Arbitrum on Perpetuals V2.
+Degen mode is available on both BNB Chain, Arbitrum, opBNB and Base chain on Perpetuals V2.
 
 ### Degen Mode Format
 
 Degen mode offers the following gameplay characteristics and benefits to our perpetual traders:
 
-**High Leverage, Lower Upfront Collateral -** With higher leverage or 1001x and 750x on BNB Chain and Arbitrum respectively, users can participate and amplify their trading strategies through Degen Mode. Users can now enjoy a higher upside without posting significant upfront collateral.
+**High Leverage, Lower Upfront Collateral -** With higher leverage of 1001x, users can participate and amplify their trading strategies through Degen Mode. Users can now enjoy a higher upside without posting significant upfront collateral.
 
 **Lower Fees -** With zero-slippage trading, users can enjoy a better trading experience. Users are not charged open position fees. This increases users' trading upsides as open position fees can now be saved and used as collateral.
 
 **Dynamic Fee Structure -** Uniquely tailored for Degen Mode, the Dynamic Fee Structure for closing positions is meticulously designed to charge fees based on Profit and Loss (PnL). For more information on dynamic fee structure [here](degen-mode-dynamic-fee.md).
 
-**Pair Offerings -** Degen Mode is available for BTCUSD and ETHUSD on BNB Chain and Arbitrum.
+**Pair Offerings -** Degen Mode is available for BTCUSD and ETHUSD on BNB Chain, Arbitrum, opBNB and Base chain.
 
 ### How it works
 
@@ -27,7 +27,7 @@ Degen mode offers the following gameplay characteristics and benefits to our per
 
 <figure><img src="../../../../.gitbook/assets/Degen mode 1.png" alt=""><figcaption></figcaption></figure>
 
-3. Select the amount and appropriate leverage. Degen mode supports up to 1001x leverage for BNB Chain and 750x on Arbitrum
+3. Select the amount and appropriate leverage. Degen mode supports up to 1001x leverage
 
 <figure><img src="../../../../.gitbook/assets/Degen Mode 2.png" alt=""><figcaption></figcaption></figure>
 

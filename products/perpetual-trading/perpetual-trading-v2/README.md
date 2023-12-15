@@ -26,4 +26,4 @@ Trading pairs on the platform share liquidity via the ALP pool. Hence, adding li
 
 With Perpetuals V2 consolidating liquidity for all trading pairs into one pool, users can expect more trading pairs from potentially different asset classes moving forward. At launch, V2 will support BTCUSD, ETHUSD and BNBUSD pairs for cryptocurrencies and Forex pairs EURUSD and GBPUSD. More pairs will be rollout in the coming months.
 
-**PancakeSwap Perpetuals V2 is now available on Binance Smart Chain and Arbitrum.**
+**PancakeSwap Perpetuals V2 is now available on Binance Smart Chain, Arbitrum, opBNB Chain and Base Chain.**

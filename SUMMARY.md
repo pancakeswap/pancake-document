@@ -114,6 +114,7 @@
             * [ALP Buying & Selling Fees](products/perpetual-trading/perpetual-trading-v2/perpetual-trading-faq/arbitrum/alp-syrup-pool-arbitrum/alp-buying-and-selling-fees.md)
       * [Trading Rewards Program](products/perpetual-trading/perpetual-trading-v2/trading-rewards-program/README.md)
         * [Arbitrum](products/perpetual-trading/perpetual-trading-v2/trading-rewards-program/arbitrum.md)
+      * [Supported Chains, Modes & Markets](products/perpetual-trading/perpetual-trading-v2/supported-chains-modes-and-markets.md)
     * [Perpetual Trading V1](products/perpetual-trading/perpetual-trading-v1/README.md)
       * [Perpetuals V1 Glossary](products/perpetual-trading/perpetual-trading-v1/perpetuals-glossary.md)
       * [How can I use it?](products/perpetual-trading/perpetual-trading-v1/how-can-i-use-it.md)

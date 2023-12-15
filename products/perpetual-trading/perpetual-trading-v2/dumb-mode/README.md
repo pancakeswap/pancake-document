@@ -41,9 +41,11 @@ For more information on how to open a Dumb Mode position, click [here](dumb-mode
 
 Dumb Mode supports trading in the following markets and margin assets on **BNB Chain**:
 
-| Market                                                             | Margin Assets                                                   |
-| ------------------------------------------------------------------ | --------------------------------------------------------------- |
-| <p>BTCUSD</p><p>ETHUSD</p><p>CAKEUSD</p><p>BNBUSD</p><p>SOLUSD</p> | <p>USDC</p><p>USDT</p><p>CAKE</p><p>ETH</p><p>BTC</p><p>HAY</p> |
+<table data-header-hidden><thead><tr><th width="330"></th><th></th></tr></thead><tbody><tr><td>Market</td><td>Margin Assets</td></tr><tr><td><p>BTCUSD</p><p>ETHUSD</p><p>CAKEUSD</p><p>BNBUSD</p><p>SOLUSD</p></td><td><p>USDC</p><p>USDT</p><p>CAKE</p><p>ETH</p><p>BTC</p><p>HAY</p></td></tr></tbody></table>
+
+Dumb Mode supports trading in the following markets and margin assets on **Arbitrum, opBNB and Base Chains**:
+
+<table data-header-hidden><thead><tr><th width="330"></th><th></th></tr></thead><tbody><tr><td>Market</td><td>Margin Assets</td></tr><tr><td><p>BTCUSD</p><p>ETHUSD</p></td><td><p>USDC</p><p>USDT</p><p>ETH</p><p>BTC</p></td></tr></tbody></table>
 
 Support for more assets/chains is in development.
 
