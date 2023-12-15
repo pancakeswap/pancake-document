@@ -1,6 +1,6 @@
 # CAKE 代币经济模型
 
-<figure><img src="../../.gitbook/assets/image (221) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/231215-cn.png" alt=""><figcaption></figcaption></figure>
 
 ## **铸造速度** <a href="#emission-rate" id="emission-rate"></a>
 
@@ -9,8 +9,8 @@
 | **项目**   | **每区块铸造 (CAKE)** | **每天铸造 (CAKE)** |
 | -------- | ---------------: | --------------: |
 | 铸造       |               40 |       1,152,000 |
-| 每周销毁     |        \~38.1626 |     \~1,099,085 |
-| **有效铸造** |   **\~1,8374\*** |  **\~52,915\*** |
+| 每周销毁     |        \~38.6373 |     \~1,112,756 |
+| **有效铸造** |   **\~1.3626\*** |  **\~39,245\*** |
 
 {% hint style="info" %}
 **2022年8月11日，大厨们实施了一些配置升级，以充分利用主厨合约 v2 (MasterChef v2) 。过去彩票池注入遗留有每天 45000 CAKE 的销毁，这部分现在由主厨合约 v2 统一管理，并与每周例行性 CAKE 销毁一同打至销毁地址。因此现在的有效产出更低了。**
@@ -26,7 +26,7 @@
 
 ## 分配 <a href="#distribution" id="distribution"></a>
 
-<table data-header-hidden><thead><tr><th>分配至</th><th align="right">每区块量（铸造量的 %）</th><th width="200" align="right">每区块量（CAKE 数量）</th><th align="right">每日数量</th></tr></thead><tbody><tr><td>分配至</td><td align="right">每区块量（铸造量的 %）</td><td align="right">每区块量（CAKE 数量）</td><td align="right">每日数量</td></tr><tr><td>交易类目</td><td align="right">~3.00%</td><td align="right">~1.1984</td><td align="right">约 34,515 </td></tr><tr><td>质押类目</td><td align="right">~1.25%</td><td align="right">~0.5</td><td align="right">约 14,400</td></tr><tr><td>其他类目</td><td align="right">~0.35%</td><td align="right">~0.1389</td><td align="right">约 4,000</td></tr><tr><td><strong>每日 CAKE 铸造量</strong></td><td align="right"></td><td align="right"></td><td align="right"><strong>约</strong> <strong>52,915</strong></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th>分配至</th><th align="right">每区块量（铸造量的 %）</th><th width="200" align="right">每区块量（CAKE 数量）</th><th align="right">每日数量</th></tr></thead><tbody><tr><td>分配至</td><td align="right">每区块量（铸造量的 %）</td><td align="right">每区块量（CAKE 数量）</td><td align="right">每日数量</td></tr><tr><td>交易类目</td><td align="right">~2.47%</td><td align="right">~1.1984</td><td align="right">约 28,500 </td></tr><tr><td>质押类目</td><td align="right">~0.59%</td><td align="right">~0.5</td><td align="right">约 6,745</td></tr><tr><td>其他类目</td><td align="right">~0.35%</td><td align="right">~0.1389</td><td align="right">约 4,000</td></tr><tr><td><strong>每日 CAKE 铸造量</strong></td><td align="right"></td><td align="right"></td><td align="right"><strong>约</strong> <strong>39,245</strong></td></tr></tbody></table>
 
 ## **其他通缩机制** <a href="#other-deflationary-mechanics" id="other-deflationary-mechanics"></a>
 
