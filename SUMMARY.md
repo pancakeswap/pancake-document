@@ -103,7 +103,7 @@
       * [Dumb 模式](chan-pin/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-jiao-yi-v2/dumb-mo-shi/README.md)
         * [Dumb  模式指南](chan-pin/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-jiao-yi-v2/dumb-mo-shi/dumb-mo-shi-zhi-nan.md)
       * [Degen Mode](chan-pin/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-jiao-yi-v2/degen-mode/README.md)
-        * [Degen Mode Dynamic Fee](chan-pin/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-jiao-yi-v2/degen-mode/degen-mode-dynamic-fee.md)
+        * [Degen 模式动态费用](chan-pin/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-jiao-yi-v2/degen-mode/degen-mo-shi-dong-tai-fei-yong.md)
       * [MADBTCUSD](chan-pin/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-jiao-yi-v2/madbtcusd/README.md)
         * [MADBTCUSD FAQ](chan-pin/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-jiao-yi-v2/madbtcusd/madbtcusd-faq.md)
       * [永续合约 V2 术语表](products/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-jiao-yi-v2/yong-xu-he-yue-v2-shu-yu-biao.md)
