@@ -138,6 +138,7 @@
   * [📈 Análise (Info)](produtos/info/README.md)
     * [Análise](produtos/info/pancakeswap-analytics.md)
   * [🖥 RPC Privado da PancakeSwap](produtos/rpc-privado-da-pancakeswap.md)
+  * [🔔 Notificações](produtos/notificacoes.md)
 * [Governança & Tokenomics](governanca-and-tokenomics/README.md)
   * [Tokenomics de CAKE](tokenomics/cake/tokenomics-de-cake.md)
     * [Controlando o fornecimento de CAKE](tokenomics/cake/controlando-o-fornecimento-de-cake.md)
