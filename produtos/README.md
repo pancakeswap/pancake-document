@@ -64,8 +64,8 @@ Aqui estão os artigos nessa seção:
 [nft-market.md](nft-market.md)
 {% endcontent-ref %}
 
-{% content-ref url="pancake-protectors/" %}
-[pancake-protectors](pancake-protectors/)
+{% content-ref url="plataforma-de-games/pancake-protectors/" %}
+[pancake-protectors](plataforma-de-games/pancake-protectors/)
 {% endcontent-ref %}
 
 {% content-ref url="compre-cripto.md" %}

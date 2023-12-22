@@ -1,4 +1,4 @@
-# 🎮 Pancake Protectors
+# 🛡 Pancake Protectors
 
 ![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2FXAtRI1STxdwPUmvnPnYc%2Flogo%20\(1\).png?alt=media\&token=80b8231e-edab-42f9-bac0-6e555e61926b)
 
