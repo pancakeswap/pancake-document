@@ -9,3 +9,7 @@
 {% content-ref url="../products/voting/" %}
 [voting](../products/voting/)
 {% endcontent-ref %}
+
+{% content-ref url="zhi-li-xin.md" %}
+[zhi-li-xin.md](zhi-li-xin.md)
+{% endcontent-ref %}
