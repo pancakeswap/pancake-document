@@ -2,10 +2,6 @@
 
 ![](../../.gitbook/assets/how-to-enter-an-ifo-header.png)
 
-{% hint style="info" %}
-We will be bringing several new updates to the IFO process over the coming weeks, please refer to the details in the IFO proposal (vote) for the specifics of the IFO you want to take part in.
-{% endhint %}
-
 An IFO on PancakeSwap is an Initial Farm Offering. IFOs let you get early access to PancakeSwap’s new tokens as soon as they are added. By being one of the first to have a new token, you can benefit from higher rewards!
 
 IFOs are available for a very limited time. Get ready ahead of the event to make sure you can participate!
@@ -22,15 +18,15 @@ To create a profile, you can follow our How to Set Up an NFT Profile guide [here
 
 ### Lock CAKE in the CAKE Syrup Pool to get iCAKE
 
-iCAKE determines the maximum CAKE commit limit in the PancakeSwap IFO public sales. For example, if you have 200 iCAKE, you will be able to commit 200 CAKE in any upcoming IFO public sales. The number of iCAKE you have is based on the number of CAKE staked in the fixed-term CAKE staking pool and the total staking duration of your current fixed-term staking position.
+iCAKE determines the maximum CAKE commit limit in the PancakeSwap IFO public sales. For example, if you have 200 iCAKE, you can commit 200 CAKE in any upcoming IFO public sales. Your iCAKE number is based on the veCAKE balance at the end of each IFO, multiplied by a predefined ratio.
 
-To get iCAKE, go to the IFO page [here](https://pancakeswap.finance/ifo). Locate the CAKE syrup pool card, and click "Locked" under "Stake CAKE" to proceed.
+To get iCAKE, go to the [CAKE Staking page](https://pancakeswap.finance/cake-staking), and follow the instructions to set up a CAKE staking position.
 
-To learn more about iCAKE and how is iCAKE calculated, check out the doc [here](icake.md).&#x20;
+To learn more about iCAKE and how iCAKE is calculated, check out the doc [here](icake.md).&#x20;
 
 ### Get CAKE Tokens
 
-Once you have a profile and iCAKE, you will also need to prepare some CAKE tokens in your wallet. These will be used to buy the tokens being offered in the IFO.\
+Once you have a profile and iCAKE, you must prepare some CAKE tokens in your wallet. These will be used to buy the tokens being offered in the IFO.\
 \
 If you are currently staking your CAKE in a pool, unstake them prior to the IFO and make sure the tokens are available in your wallet.
 
@@ -38,7 +34,7 @@ If you are currently staking your CAKE in a pool, unstake them prior to the IFO 
 
 Once you’ve followed the steps above, go back to the IFO page [here](https://pancakeswap.finance/ifo). Scroll down to the ‘How to Take Part’ section.
 
-<img src="../../.gitbook/assets/image (102).png" alt="" data-size="original">
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
 
 You should see your progress is currently at step 3, Commit CAKE, like in the picture above. If for some reason you aren’t at step 3, go back through the guides linked up higher on this page.
 
@@ -66,7 +62,7 @@ While an IFO is live, you will have 1 or 2 hours to participate. (check the IFO 
 
 On the IFO page, look where the event start countdown was. You will now see a countdown until the IFO sale ends instead. This will let you know how much time you have to buy the offered tokens.
 
-### **Which type of sale should I choose: Basic or Unlimited?**
+### **Which type of sale should I choose?**
 
 There are three sales available: Basic Sale, Public Sale and Private Sale. It's possible to participate in all three sales if you want to, but each has conditions. You will need to choose which sale you would like to participate in.
 
@@ -82,7 +78,9 @@ The final amount of IFO tokens one will get will be determined using the “Over
 
 #### **Public Sale**
 
-In the Public Sale, each participant will be able to commit as much CAKE as they would like up to the number of iCAKE as the limit. If you buy tokens with the Public Sale you will have to pay a small fee. To learn more about the participation fees, please refer to the details in the IFO proposal (vote) for the specifics of the IFO you want to take part in.
+In the Public Sale, each participant will be able to commit as much CAKE as they would like up to the number of iCAKE as the limit.&#x20;
+
+If you buy tokens with the Public Sale you will have to pay a small fee. To learn more about the participation fees, please refer to the details in the IFO proposal (vote) for the specifics of the IFO you want to take part in.
 
 The final amount of IFO tokens one will get will be determined using the “Overflow” sale method.
 

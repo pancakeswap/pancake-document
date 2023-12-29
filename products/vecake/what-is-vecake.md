@@ -18,7 +18,7 @@ veCAKE tokens serve a crucial role in PancakeSwap's governance, enabling you to 
 [earn-cake-weekly](earn-cake-weekly/)
 {% endcontent-ref %}
 
-**Gauges Voting Participation:** Engage in Gauges Voting every 2 weeks, with results applied bi-weekly. Adjust your voting preferences for each gauge at intervals less frequent than 10 days.
+**Gauges Voting Participation:** Influence and boost CAKE emissions in your preferred pools, by engaging in Gauges Voting every 2 weeks, with results applied bi-weekly. Adjust your voting preferences for each gauge at intervals less frequent than 10 days.
 
 {% content-ref url="gauges-voting/" %}
 [gauges-voting](gauges-voting/)
@@ -28,6 +28,10 @@ veCAKE tokens serve a crucial role in PancakeSwap's governance, enabling you to 
 
 **Governance:** Vote on governance proposals for matters related to gauge approvals, protocol changes, emission adjustments, etc.
 
-**Emission Boost:** Influence and boost CAKE emissions in your preferred pools.
-
 **Liquidity Rewards:** Amplify CAKE rewards akin to bCAKE when providing liquidity to v3, v2, stableswap, or position managers sequentially. This sequence commences with BNB Chain v3 on November 27th, 2023, followed by BNB Chain v2 and Position Managers.
+
+**IFO:** veCAKE balance gives you iCAKE to participate in PancakeSwap IFOs
+
+{% content-ref url="../ifo-initial-farm-offering/icake.md" %}
+[icake.md](../ifo-initial-farm-offering/icake.md)
+{% endcontent-ref %}
