@@ -17,7 +17,7 @@ To check if there is an ongoing campaign. You can:
 *   Look for the 💝 icon from the “Hot Token” list on the [Swap page](https://pancakeswap.finance/swap). Or use the filter to check pairs with trading rewards.\
 
 
-    <figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Start trading <a href="#5be1710d-25f3-485d-8184-91015c4dceca" id="5be1710d-25f3-485d-8184-91015c4dceca"></a>
 
@@ -32,7 +32,7 @@ Each campaign may have different eligible pairs. To check which pairs are eligib
 
 You may check the number of rewards you have accumulated on the [Trading Reward page](https://pancakeswap.finance/trading-reward/top-traders).
 
-![](<../../../.gitbook/assets/image (2) (1).png>)
+![](<../../../.gitbook/assets/image (2) (1) (1).png>)
 
 Additionally, you may check the “Rewards Breakdown” section for a detailed view of each pair you traded.
 
