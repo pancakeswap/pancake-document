@@ -26,4 +26,4 @@ description: V2 有什么新东西？
 
 永续合约 V2 将所有交易对的流动性整合到一个池中，用户可以期待未来有更多不同资产类别的交易对出现。V2 发布时，V2 支持加密货币 BTCUSD、ETHUSD 和 BNBUSD 交易对，以及外汇 EURUSD 和 GBPUSD 交易对。更多交易对将在未来几个月将推出。
 
-**PancakeSwap 永续合约 V2 现已在币安智能链和 Arbitrum 上线。**
+**PancakeSwap 永续合约 V2 现已在币安智能链（BSC） 、Arbitrum 、opBNB 链和 Base 链上线。**
