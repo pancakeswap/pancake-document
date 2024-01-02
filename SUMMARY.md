@@ -66,7 +66,7 @@
       * [FAQ](chan-pin/vecake/mei-zhou-zhuan-qu-cake/faq.md)
     * [Gauges Voting](chan-pin/vecake/gauges-voting/README.md)
       * [FAQ](chan-pin/vecake/gauges-voting/faq.md)
-    * [FAQ](chan-pin/vecake/faq.md)
+    * [veCAKE FAQ](chan-pin/vecake/vecake-faq.md)
   * [🍯 糖浆池-质押 CAKE](products/syrup-pools/README.md)
     * [其他糖浆池](products/syrup-pools/ru-he-zai-tang-jiang-chi-nei-zhi-ya/README.md)
       * [糖浆池 FAQ 与排错指南](products/syrup-pools/ru-he-zai-tang-jiang-chi-nei-zhi-ya/untitled.md)

@@ -1,6 +1,6 @@
 # 每周赚取 CAKE
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 持有 veCAKE 将自动加入我们的两个每周 CAKE 奖励池。这两个奖励池都将以 CAKE 的形式分发奖励。其中一个奖励池分发每周收入分成的奖励；另一个取代传统的 CAKE 糖浆池，分发根据 CAKE 产出得来的奖励。
 
@@ -8,7 +8,7 @@
 
 1. 符合资格
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (7).png" alt=""><figcaption></figcaption></figure>
 
 要符合资格，首先，您必须持有有效的 veCAKE 质押仓位。&#x20;
 
@@ -21,7 +21,7 @@
 
 ### 2 - 查看您的奖励
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (6).png" alt="" width="375"><figcaption></figcaption></figure>
 
 前往 CAKE 质押 （Cake Staking）页面，向下滚动，在 "veCAKE 福利（Benefits of veCAKE）" 下方找到 "查看奖励" 按钮点开。&#x20;
 
@@ -42,7 +42,7 @@
 
 在您开始锁仓或迁移仓位到 veCAKE 后，您的份额数量将在每周分配时一并更新。您将根据您在整个池子中的份额数占比开始累积奖励。
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (6).png" alt="" width="375"><figcaption></figcaption></figure>
 
 整整一周过去后，来到了每周四池子分发时间。现在，回到福利面板，点击 "全部领取（Claim All）" 按钮，领取上一期的奖励。
 

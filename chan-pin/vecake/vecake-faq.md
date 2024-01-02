@@ -1,4 +1,8 @@
-# FAQ
+---
+description: veCAKE
+---
+
+# veCAKE FAQ
 
 <figure><img src="../../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure>
 
