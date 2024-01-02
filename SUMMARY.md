@@ -63,7 +63,7 @@
     * [如何获得 veCAKE？](chan-pin/vecake/ru-he-huo-de-vecake.md)
     * [从 CAKE 糖浆池迁移](chan-pin/vecake/cong-cake-tang-jiang-chi-qian-yi.md)
     * [每周赚取 CAKE](chan-pin/vecake/mei-zhou-zhuan-qu-cake/README.md)
-      * [FAQ](chan-pin/vecake/mei-zhou-zhuan-qu-cake/faq.md)
+      * [每周赚取 CAKE FAQ](chan-pin/vecake/mei-zhou-zhuan-qu-cake/mei-zhou-zhuan-qu-cake-faq.md)
     * [Gauges Voting](chan-pin/vecake/gauges-voting/README.md)
       * [FAQ](chan-pin/vecake/gauges-voting/faq.md)
     * [veCAKE FAQ](chan-pin/vecake/vecake-faq.md)
