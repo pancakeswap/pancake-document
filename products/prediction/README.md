@@ -4,13 +4,19 @@
 
 PancakeSwap Prediction is a fun and simple decentralized prediction market.
 
-> ### Predict whether BNB or CAKE price will rise or fall – guess correctly to win!
+> ### Predict whether BNB, ETH or CAKE price will rise or fall – guess correctly to win!
 
 It's easy to take part:
 
 * Predict if the price of BNBUSD or CAKEBUSD will be higher or lower than it was when the “LIVE” phase starts.
 * If you enter an “UP” position, and the “Closed Price” is higher than the “Locked Price” at the end of the 5 minute LIVE phase, you WIN! And if it’s lower, you lose.
 * If you enter a “DOWN” position, and the “Closed Price” is higher than the “Locked Price” at the end of the 5 minute LIVE phase, you LOSE! If it’s lower, you win.
+
+On ZkSync Era:
+
+* Predict if the price of ETHBUSD will be higher or lower than it was when the “LIVE” phase starts.
+* If you enter an “UP” position, and the “Closed Price” is higher than the “Locked Price” at the end of the 10 minute LIVE phase, you WIN! And if it’s lower, you lose.
+* If you enter a “DOWN” position, and the “Closed Price” is higher than the “Locked Price” at the end of the 10 minute LIVE phase, you LOSE! If it’s lower, you win.
 
 Have fun!
 
@@ -23,6 +29,15 @@ Have fun!
 ## PancakeSwap Prediction Guides
 
 Get started with Prediction with our guides and FAQs.
+
+
+
+## PancakeSwap Prediction Markets
+
+| Chain      | Markets         | Oracle           |
+| ---------- | --------------- | ---------------- |
+| BNB Chain  | BNBUSD, CAKEUSD | Chainlink        |
+| ZKSync Era | ETHUSD          | Pyth (w/ Gelato) |
 
 {% content-ref url="prediction-guide.md" %}
 [prediction-guide.md](prediction-guide.md)

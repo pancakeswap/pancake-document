@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/how-to-porediction-header.png)
 
-Playing PancakeSwap’s Prediction lets you test your foresight to earn rewards. Use your market knowledge or gut feeling to predict if the BNBUSD or CAKEUSD price will go up or down in the near future. Get it right and you’ll collect a share of the round’s prize pool!
+Playing PancakeSwap’s Prediction lets you test your foresight to earn rewards. Use your market knowledge or gut feeling to predict if the BNBUSD, CAKEUSD or ETHUSD price will go up or down in the near future. Get it right and you’ll collect a share of the round’s prize pool!
 
 {% hint style="warning" %}
 PancakeSwap’s Prediction is a new product that we still consider to be in beta. We may make changes in the future to improve Prediction. As always, the PancakeSwap team will inform users of any changes that will impact how the product works.
@@ -22,13 +22,13 @@ Read and accept the conditions then click **Continue**.
 
 ![](<../../.gitbook/assets/MBP4-2022.06.27-114859-Google Chrome-Prediction  PancakeSwap - $3.405.gif>)
 
-PancakeSwap offers two separate prediction markets for every player to choose from. You can play based on the CAKE USD price, betting with CAKE. Alternatively, you can play based on BNB USD price, betting with BNB.
+PancakeSwap offers two separate prediction markets for every player to choose from. You can play based on the CAKE USD price, betting with CAKE. Alternatively, you can play based on BNB USD price, betting with BNB. On ZkSync Era, you can play based on ETH USD price, betting with ETH
 
 To switch between two prediction markets, simply click or tap the currency switcher on the top left corner.
 
 ## Making a prediction for the next round
 
-The Prediction page shows quite a bit of information. Predictions operate in 5 minute rounds. Make your prediction before a round goes live to join in.
+The Prediction page shows quite a bit of information. Predictions operate in 5 minute rounds and 10 minute rounds on ZkSync. Make your prediction before a round goes live to join in.
 
 ### Checking the timer
 
@@ -52,7 +52,7 @@ Each will have a different reward multiplier. The multiplier will change over ti
 
 We'll choose **Enter UP** for this example.
 
-2\. A new window will open. In the window, you'll see "Commit" to commit BNB or CAKE for your prediction. Type the number of tokens you would like to commit to your prediction for this round in the field. You can also use the bunny slider or click the percent buttons if you prefer.
+2\. A new window will open. In the window, you'll see "Commit" to commit BNB, ETH or CAKE for your prediction. Type the number of tokens you would like to commit to your prediction for this round in the field. You can also use the bunny slider or click the percent buttons if you prefer.
 
 If you are playing CAKE USD prediction market, at the first game, you will have to click "Enable" to enable the smart contract.
 
@@ -80,11 +80,11 @@ You cannot change your prediction during a live round, however. You are locked i
 
 ## Once your entered round finishes
 
-After 5 minutes as the live round, your entered round will finish. Everything is automatic, so there's nothing you need to do to end the round.
+After 5/10 minutes as the live round, your entered round will finish. Everything is automatic, so there's nothing you need to do to end the round.
 
 ### Seeing the results
 
-1\. As the 5 minutes finish, the "LIVE" section will change to "Calculating". Calculating the results only takes a moment.
+1\. As the 5/10 minutes finish, the "LIVE" section will change to "Calculating". Calculating the results only takes a moment.
 
 ![](<../../.gitbook/assets/image (49) (1).png>)
 
