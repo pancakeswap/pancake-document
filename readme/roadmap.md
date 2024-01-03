@@ -6,7 +6,7 @@ description: '"Don''t call it a roadmap"'
 
 ![](../.gitbook/assets/roadmap-header.png)
 
-_Updated on Oct 2, 2023_
+_Updated on Jan 3, 2024_
 
 ### Finally, it's a roadmap not a to-do list.
 
@@ -16,39 +16,21 @@ Pivoting is a way of life.
 
 That means that we don’t publicly commit to specific timelines, so we can organize our development priorities based on market changes and developer resources.
 
-<figure><img src="../.gitbook/assets/png-108.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/png-146.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Due to considerations of security and confidentiality, some items are not included in the ‘Cooking In’ section.
 {% endhint %}
 
-### Ongoing/Recurring
+### Cooking in Q1
 
-* Trading Reward Program
-* Regular IFOs & cIFOs
-* Regular New Farms and Syrup pools
-* UI/UX, Bug fixes, Product Upgrade&#x20;
-* Research into AMM improvements
-
-
-
-### Cooking in Q4
-
-* v3 Position Manager
-* vCAKE Update - Gauge Design
-* Universal Router
-* Game Expansion
+* DEX Enhancement
+* veCAKE Enhancement
+* Multichain Perpetual
 * Multichain Prediction
 * Multichain Simple Staking
-* Notification Service Integration
-
-### Backlogs
-
-* NFT Gamifications\
-  Potential collaborations with other top projects on BNB Chain
-* NFT Market \
-  Phase 3 - open NFT platform\
-  Other improvements and upgrades
+* Gaming Marketplace Expansion
+* Universal Router
 
 ### Done
 
@@ -73,7 +55,8 @@ Due to considerations of security and confidentiality, some items are not includ
 * Expansion to Arbitrum One - Swap and Liquidity
 * Expansion to zkSync Era - Swap and Liquidity
 * Expansion to opBNB - Swap
-* Perpetuals v2
+* Perpetuals v2  to Arbitrum and BNB Chain
+* Perps v2 Expansion to Base, and opBNB
 
 
 
@@ -103,6 +86,8 @@ Due to considerations of security and confidentiality, some items are not includ
 * Liquid Staking Integration
 * Revenue Sharing Pool
 * Simple Staking Integration
+* vCAKE Update - Gause Design
+* v3 Position Manager
 
 #### Win
 
@@ -141,6 +126,8 @@ Due to considerations of security and confidentiality, some items are not includ
 * Fiat on Ramp Integration with MoonPay and Mercuryo
 * Affiliate Program
 * Website Revamp
+* Game Expansion
+* Notification Services Integrations
 
 
 
