@@ -12,12 +12,23 @@ veCAKE 代币在 PancakeSwap 的治理中起着至至关重要的作用，持有
 
 ## 持有 veCAKE 有什么好处？&#x20;
 
-**每周奖励（Weekly Rewards）**：每周可以领取 CAKE 奖励，收益来自于 CAKE 质押和收入分成。
+**每周奖励（Weekly Rewards）**：每周可以领取 CAKE 奖励，收益来自于 CAKE 质押（CAKE Staking）和收入分成。
 
-**参与 Gauges** **Voting**：每两周参与一次 Gauges Voting，投票结果每两周公布并执行一次。在每一轮 Gauge 中，距离 Gauge 生效前 10 天之前，您可以更改本轮的投票决定。（原文：Adjust your voting preferences for each gauge at intervals less frequent than 10 days.）
+{% content-ref url="mei-zhou-zhuan-qu-cake/" %}
+[mei-zhou-zhuan-qu-cake](mei-zhou-zhuan-qu-cake/)
+{% endcontent-ref %}
+
+**参与 Gauges** **Voting**：每两周参与一次 Gauges Voting，投票结果每两周公布并执行一次，从而影响并提高您所投票的流动性池可以获得的 CAKE 分配额。您每次修改并调整对 gauge 的投票的时间间隔不得小于 10 天。\
+
+
+{% content-ref url="gauges-voting/" %}
+[gauges-voting](gauges-voting/)
+{% endcontent-ref %}
 
 **投票激励（Vote Incentives）**： 通过外部市场（external markets）向其他协议索要投票奖励，以获得额外奖励。&#x20;
 
-**提升配额**：影响并提升您喜爱的流动性池获得的 CAKE 分配量。&#x20;
+**治理：** 对有关 Gauges 批准（approval）、协议变更、CAKE 激励调整等事项的治理提案进行表决。
 
 **流动性奖励**： 与 bCAKE 类似，在向 v3、v2、stableswap 提供流动性时，甚至未来支持仓位管理工具时，可以增加您的 CAKE 奖励： 此程序启动时间在 2023 年 11 月 27 日，从 BNB Chain v3 起始 ，随后将陆续支持 BNB Chain v2 和仓位管理工具。
+
+**IFO：**veCAKE 数值同时为您提供 iCAKE 以参与 PancakeSwap IFOs。

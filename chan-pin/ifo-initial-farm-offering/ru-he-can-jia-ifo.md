@@ -2,10 +2,6 @@
 
 <figure><img src="../../.gitbook/assets/how-to-enter-an-ifo-header.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-我们将在接下来的几周内对 IFO 流程持续进行调整及更新，请参阅 IFO 提案投票中的相关详细信息，了解您希望参与的该场 IFO 具体情况。
-{% endhint %}
-
 PancakeSwap 上的 IFO 是初次农场发行。参与 IFO 让您可以第一时间持有即将添加在 PancakeSwap 农场和糖浆池的新代币。 通过成为第一批拥有新代币的人，您有机会获得更高的奖励！
 
 &#x20;IFO 在非常有限的时间内进行。 因此在活动之前做好准备，以确保您可以参与！

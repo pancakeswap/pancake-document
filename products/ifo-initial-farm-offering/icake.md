@@ -1,12 +1,12 @@
 ---
-description: veCAKE 锁仓和 IFO 分配
+description: CAKE定期质押和IFO分配
 ---
 
 # iCAKE
 
 ### 什么是新的 iCAKE？
 
-过渡到 veCAKE 后，新的 iCAKE 将基于 veCAKE 数值来计算&#x20;
+过渡到 veCAKE 后，新的 iCAKE 将根据 veCAKE 数值来计算
 
 * 和旧的 iCAKE 一样，它将决定每场 PancakeSwap IFO 公开销售中的最大 CAKE 投入限额。例如，如果您有 200 个 iCAKE，您就可以在 IFO 公开销售中最高投入 200 个 CAKE。&#x20;
 * 新的 iCAKE 数量使用每场 IFO 结束时间时的 veCAKE 数值计算得出。因此，每场 IFO 您拥有的 iCAKE 数量都不同。&#x20;
