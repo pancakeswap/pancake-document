@@ -1,8 +1,16 @@
 # veCAKE Managers
 
-veCAKE is not just a product, but an ecosystem, and there are several protocols that are building on us – we have compiled a list of veCAKE Managers. Their products include, but are not limited to, liquid lockers for veCAKE, yield boosters for PancakeSwap’s liquidity providers, data dashboards, as well as primary and secondary bribe marketplaces to influence CAKE emissions.
+veCAKE is not just a product, but an ecosystem.&#x20;
 
-While we are grateful for their contributions, this is not an official endorsement of their products. As with all other DeFi projects, interacting with smart contracts comes with inherent risks. Please do proper due diligence before using any protocols.
+We have veCAKE managers building on top of us:&#x20;
+
+* liquid lockers for veCAKE,&#x20;
+* yield boosters for PancakeSwap’s liquidity providers,&#x20;
+* data dashboards,&#x20;
+* primary and secondary bribe marketplaces to influence CAKE emissions, and
+* more to come!
+
+We are grateful for their contributions, though please note that this is not an official endorsement of their products. As with all other DeFi projects, interacting with smart contracts comes with inherent risks. Please do proper due diligence and your own research before using any protocols.
 
 _The following protocols are arranged in alphabetical order._
 
