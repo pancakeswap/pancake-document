@@ -2,7 +2,7 @@
 
 veCAKE is not just a product, but an ecosystem.&#x20;
 
-We have veCAKE managers building on top of us:&#x20;
+We have veCAKE Managers building on top of us:&#x20;
 
 * liquid lockers for veCAKE,&#x20;
 * yield boosters for PancakeSwap’s liquidity providers,&#x20;

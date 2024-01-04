@@ -30,6 +30,14 @@ Here are the guides for how to get veCAKE, either by creating a new position, or
 
 
 
+Learn more about our veCAKE ecosystem partners (veCAKE Managers) here:
+
+{% content-ref url="vecake-managers.md" %}
+[vecake-managers.md](vecake-managers.md)
+{% endcontent-ref %}
+
+
+
 For other questions, please check out:
 
 {% content-ref url="faq.md" %}
