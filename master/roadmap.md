@@ -6,9 +6,9 @@ description: “No me llames Roadmap”
 
 ![](<../.gitbook/assets/0 (1) (1).png>)
 
-_Actualizado el 2 de Octubre de 2023_
+_Actualizado el 3 de Enero de 2024_
 
-### Finalmente, es un roadmap, no un To-Do List <a href="#_ey0pp1bq3z3c" id="_ey0pp1bq3z3c"></a>
+### Finalmente, es un roadmap, no un To-Do List <a href="#ey0pp1bq3z3c" id="ey0pp1bq3z3c"></a>
 
 El mundo crypto se mueve rápido y nosotros también.
 
@@ -16,49 +16,23 @@ Mantenerse en constante cambio es un estilo de vida.
 
 Eso significa que no nos comprometemos públicamente con plazos específicos, por lo que podemos organizar nuestras prioridades de desarrollo en función de los cambios del mercado y los recursos de los desarrolladores.
 
-<figure><img src="../.gitbook/assets/image (217).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ❗ Por seguridad y confidencialidad, algunos ítems no están en la sección de “Cocinando”.
 
-### **En Desarrollo/Recurrente** <a href="#_86qsi8izsm7m" id="_86qsi8izsm7m"></a>
+### **Cocinando en Q1** <a href="#xj571vyorhc6" id="xj571vyorhc6"></a>
 
-* Programa de Recompensas de Trading
-* IFOs y cIFOs regulares
-* Nuevos Syrup Pools y Farms
-* UI/UX, Corrección de errores, Actualización de productos
-* Investigación en mejoras de AMM
-* v3 - Swap y Liquidity actualización
-* Expansión Multichain
-* Programa de Afiliados y Embajadores
-* NFT utilidades / Actualizaciones de la Plataforma
-* Integraciones Fiat
-* ¡Más productos Defi por venir!
-
-### **Cocinando en Q4** <a href="#_xj571vyorhc6" id="_xj571vyorhc6"></a>
-
-* Gestión de posición V3
-* Actualización vCAKE - Diseño Gauge
-* Router Universal
-* Expansión de Juego
+* Mejoras DEX
+* Mejoras veCAKE
+* Perpetuos Multichain
 * Predicción Multichain
 * Staking Simple Multichain
-* Integración de Servicio de Notificación
+* Expansión del Marketplace de Juegos
+* Router Universal
 
-### **Trabajos pendientes** <a href="#_fq7xnoy9higs" id="_fq7xnoy9higs"></a>
+### **Hecho** <a href="#id-38d04ctfncv3" id="id-38d04ctfncv3"></a>
 
-* Gamificaciones NFT
-
-Posibles colaboraciones con otros proyectos importantes en BNB Chain.
-
-* Mercado NFT
-
-Fase 3 - plataforma NFT abierta
-
-Otras mejoras y actualizaciones.
-
-### **Hecho** <a href="#_38d04ctfncv3" id="_38d04ctfncv3"></a>
-
-#### **Trade** <a href="#_76cb6g5iuf8q" id="_76cb6g5iuf8q"></a>
+#### **Trade** <a href="#id-76cb6g5iuf8q" id="id-76cb6g5iuf8q"></a>
 
 * Stablecoin Swap - más pares añadidos
 * Zap - Proporciona liquidez con un solo clic
@@ -79,23 +53,22 @@ Otras mejoras y actualizaciones.
 * Expansión to Arbitrum One - Swap y Liquidez
 * Expansión to zkSync Era - Swap y Liquidez
 * Expansión to opBNB - Swap
-* Perpetuos v2
+* Perpetuos v2 en Arbitrum y BNB Chain
+* Expansión a Base y opBNB - Perpetuos v2
 
-#### **Earn** <a href="#_vjdjx9gl4xxd" id="_vjdjx9gl4xxd"></a>
+#### **Earn** <a href="#vjdjx9gl4xxd" id="vjdjx9gl4xxd"></a>
 
 * CAKE staking
   * Staking a plazo fijo
   * Staking flexible y también puedes bloquear CAKE (a plazo fijo) en el mismo pool.
 * Beneficios por staking a plazo fijo
   * iCAKE, beneficios en IFO
-  * vCAKE, poder de voto ponderado
   * bCAKE, potenciador del rendimiento en farms
   * Eventos con proyectos conocidos
 * Farms
 * Farming crosschain
 * Syrup Pools
 * Syrup Pool Farm Boosts (potenciadores)
-* Interés compuesto automático en el Syrup Pool CAKE-CAKE
 * APR/APY calculadora v3
 * Función de cosecha total
 * Farming en Aptos
@@ -105,8 +78,10 @@ Otras mejoras y actualizaciones.
 * Integración de Staking Líquido
 * Pool de Revenue Sharing (Ingreso compartido)
 * Integración de Simple Staking&#x20;
+* Actualización veCake
+* Gestor de Posición v3
 
-#### **Win** <a href="#_u7a5ujie2tin" id="_u7a5ujie2tin"></a>
+#### **Win** <a href="#u7a5ujie2tin" id="u7a5ujie2tin"></a>
 
 * Loteria v2
 * Predicción v0.2
@@ -116,7 +91,7 @@ Con doble opción CAKE o BNB Con Gráfico de Precios de Chainlink y Chainlink Ke
 * Team Battle (Competencia de Trading)
 * Pottery (Lotería por staking) - Una nueva serie cada mes
 
-#### **NFT** <a href="#_klqhzdd276c0" id="_klqhzdd276c0"></a>
+#### **NFT** <a href="#klqhzdd276c0" id="klqhzdd276c0"></a>
 
 * NFT Market Fase 1 & 2 (comprar & vender Colecciones NFT listadas)
 * Perfil de Usuario Personalizable
@@ -124,7 +99,7 @@ Con doble opción CAKE o BNB Con Gráfico de Precios de Chainlink y Chainlink Ke
 * Colección Pancake Squad NFT
 * Integración con Mobox Gaming NFT
 
-#### **Actualizaciones del Sitio / CAKE / Otros Productos** <a href="#_mjkwsc9y0xhb" id="_mjkwsc9y0xhb"></a>
+#### **Actualizaciones del Sitio / CAKE / Otros Productos** <a href="#mjkwsc9y0xhb" id="mjkwsc9y0xhb"></a>
 
 * Navegación mobile & revisión del sitio
 * Analytics: Sitio de Info
@@ -142,3 +117,5 @@ Con doble opción CAKE o BNB Con Gráfico de Precios de Chainlink y Chainlink Ke
 * Integración para compras con Fiat junto a MoonPay y Mercuryo
 * Programa de Afiliados
 * Renovación del sitio web
+* Expansión de Juegos
+* Integración de Sistema de notificaciones

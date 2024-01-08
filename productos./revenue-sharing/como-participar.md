@@ -17,11 +17,11 @@ layout:
 
 # Cómo participar?
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-## 1 - Ser elegible <a href="#8b63b3dd-b974-4e1b-9c5e-ed8eea2891ab" id="8b63b3dd-b974-4e1b-9c5e-ed8eea2891ab"></a>
-
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+## 1 - Ser elegible <a href="#id-8b63b3dd-b974-4e1b-9c5e-ed8eea2891ab" id="id-8b63b3dd-b974-4e1b-9c5e-ed8eea2891ab"></a>
+
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Para ser elegible, debes tener una posición de CAKE en stake bloqueado. Para aprender más sobre cómo armar una posición bloqueada de CAKE, lea [aquí](../syrup-pools/nuevo-cake-pool/como-usar-staking-bloqueado.md).&#x20;
 
@@ -32,7 +32,7 @@ Por ejemplo, para participar de la semana 1 de distribución. deberás:
 * Unirte antes de las 23:59 UTC, del 2 de Agosto.
 * Tener una posición de CAKE bloqueado que se libere con posterioridad del 9 de Agosto a las  23:59 UTC.
 
-## 2 - Actualiza tu posición de staking para inscribirte <a href="#5364e392-14f8-4a0a-b2cd-673d63030f6a" id="5364e392-14f8-4a0a-b2cd-673d63030f6a"></a>
+## 2 - Actualiza tu posición de staking para inscribirte <a href="#id-5364e392-14f8-4a0a-b2cd-673d63030f6a" id="id-5364e392-14f8-4a0a-b2cd-673d63030f6a"></a>
 
 ![](<../../.gitbook/assets/image (2) (1) (1) (1).png>)
 
@@ -42,7 +42,7 @@ Visita [la página de Syrup Pool](https://pancakeswap.finance/pools), y te apare
 
 Simplemente darle clic al botón de actualizar (update) y confirmar en tu wallet.
 
-## 3 - Visualiza tu participación y beneficios <a href="#9356069e-8fdd-4ab5-83e8-045b4ad31048" id="9356069e-8fdd-4ab5-83e8-045b4ad31048"></a>
+## 3 - Visualiza tu participación y beneficios <a href="#id-9356069e-8fdd-4ab5-83e8-045b4ad31048" id="id-9356069e-8fdd-4ab5-83e8-045b4ad31048"></a>
 
 ![](<../../.gitbook/assets/image (3) (1).png>)
 
@@ -75,7 +75,7 @@ Tu participación será actualizada a partir de la próxima distribución semana
 
 Luego de transcurrida la semana calendario, y el pool llegue a la próxima distribución semanal, podrás reclamar tus recompensas del último periodo, regresando al panel de beneficios y haciendo clic en el botón de “Claim”.
 
-## 5 - Mantente elegible y gana mayor participación <a href="#3ca775e2-6d26-4dee-94e4-e03d89b57412" id="3ca775e2-6d26-4dee-94e4-e03d89b57412"></a>
+## 5 - Mantente elegible y gana mayor participación <a href="#id-3ca775e2-6d26-4dee-94e4-e03d89b57412" id="id-3ca775e2-6d26-4dee-94e4-e03d89b57412"></a>
 
 Luego de cada distribución semanal, tu participación (también llamada rCAKE) es recalculada en base a:
 
