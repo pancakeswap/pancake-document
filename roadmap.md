@@ -1,12 +1,12 @@
 ---
-description: 「别把它称作路线图」
+description: '"别把它称作路线图"'
 ---
 
 # 路线图
 
-<figure><img src=".gitbook/assets/image (223).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Roadmap01.webp" alt=""><figcaption></figcaption></figure>
 
-更新于 2023 年 10 月 2 日。
+更新于 2024 年 1 月 3 日。
 
 ### 这是一个路线图，而不是待办事项列表
 
@@ -16,37 +16,27 @@ description: 「别把它称作路线图」
 
 这意味着我们不会公开承诺具体的时间表，因此我们可以根据市场变化和开发者资源来组织我们的开发重点。
 
-<figure><img src=".gitbook/assets/image (222) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (250).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-出于安全和保密的考虑，某些项目未包含在“烹饪中”部分中。
+出于安全和保密的考虑，某些项目未包含在 "烹饪中" 部分中。
 {% endhint %}
 
-### 例行事项（进行中）
 
-* 交易返利计划
-* 定期举行 IFO 和 cIFO&#x20;
-* 定期上新农场和糖浆池&#x20;
-* UI/UX、性能升级和错误修复
-* 关于改进 AMM 的研究
 
-### Q4 烹饪中
+### Q1 烹饪中
 
-* v3 仓位管理工具
-* vCAKE 更新 - CAKE 票选激励（Gauge Design）&#x20;
-* 整合路由（Universal Router）
-* Game Expansion
+&#x20;v 多链永续 多链预测 多链简单赚币 游戏市场扩展 通用路由器
+
+* DEX 优化
+* veCAKE 优化
+* 多链永续合约
 * 多链预测 &#x20;
 * 多链简单赚币
-* Notification Service Integration
+* 游戏平台扩展
+* 共通路由（Universal Router）
 
-### 积压的工作
 
-* NFT 游戏化 \
-  与 BNB 链上其他顶级项目的潜在合作&#x20;
-* NFT 市场 \
-  第三阶段 - 开放的 NFT 平台 \
-  其他改进和升级
 
 ### 已经完成的事项
 
@@ -71,7 +61,8 @@ description: 「别把它称作路线图」
 * 扩展到  Arbitrum One - 兑换和流动性功能
 * 扩展到  zkSync Era - 兑换和流动性功能
 * 扩展到  opBNB - 兑换功能
-* 永续合约 v2
+* 永续合约 v2 部署到 Arbitrum 和 BNB 链
+* 永续合约 v2 扩展到 Base 和 opBNB
 
 #### 赚取
 
@@ -97,6 +88,8 @@ description: 「别把它称作路线图」
 * 流动权益质押整合
 * 收入分成池
 * 简单赚币整合
+* vCAKE 更新- Gauges 设计
+* v3 仓位管理器
 
 #### 赢得
 
@@ -135,3 +128,5 @@ description: 「别把它称作路线图」
 * 与 MoonPay 和 Mercuryo 整合法币入金服务（on Ramp）
 * 联盟计划
 * 网站改版
+* 游戏平台扩展
+* 通知服务整合
