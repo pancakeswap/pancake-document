@@ -39,7 +39,7 @@
     * [Integração com Market Maker](produtos/pancakeswap-exchange/integracao-com-market-maker.md)
     * [Smart Router (V2)](produtos/pancakeswap-exchange/smart-router-v2/README.md)
       * [Como negociar usando o Smart Router](produtos/pancakeswap-exchange/smart-router-v2/como-negociar-usando-o-smart-router.md)
-    * [Zap (V2)](produtos/pancakeswap-exchange/zap-v2.md)
+    * [Zap](produtos/pancakeswap-exchange/zap.md)
     * [🔄 StableSwap](produtos/pancakeswap-exchange/stableswap/README.md)
       * [Como fazer StableSwap?](produtos/pancakeswap-exchange/stableswap/como-fazer-stableswap.md)
     * [Ordens Limite (V2)](produtos/pancakeswap-exchange/limit-orders/README.md)
@@ -53,7 +53,7 @@
     * [Farm Crosschain](produtos/yield-farming/farm-crosschain/README.md)
       * [Perguntas Frequentes](produtos/yield-farming/farm-crosschain/perguntas-frequentes.md)
     * [bCAKE](produtos/yield-farming/bcake/README.md)
-      * [Como usar o bCAKE V3?](produtos/yield-farming/bcake/como-usar-o-bcake-v3.md)
+      * [Como usar o bCAKE V3?](produtos/yield-farming/bcake/como-usar-o-bcake.md)
       * [Perguntas Frequentes](produtos/yield-farming/bcake/perguntas-frequentes.md)
       * [V2 (descontinuado)](produtos/yield-farming/bcake/v2-descontinuado/README.md)
         * [Como usar o bCAKE?](produtos/yield-farming/bcake/v2-descontinuado/como-usar-o-bcake.md)
@@ -204,6 +204,13 @@
 * [Fale Conosco](contact-us/README.md)
   * [Suporte ao Cliente](contact-us/customer-support.md)
   * [Redes Sociais & Comunidades](contact-us/telegram.md)
+
+## Produtos
+
+* [🍳Em Breve!](produtos-1/coming-soon.md)
+
+***
+
 * [Archive](archive/README.md)
   * [Antigo Tokenomics](archive/antigo-tokenomics/README.md)
     * [CAKE Tokenomics v1](referencia/antigo-tokenomics/cake-tokenomics-v1.md)

@@ -1,28 +1,30 @@
-# Outras Pools de Syrup
+---
+description: 'Pools de Syrup: a maneira mais simples de ganhar na PancakeSwap'
+---
 
-Syrup Pools: the simplest way to earn on PancakeSwap
+# Outras Pools de Syrup
 
 ![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2Fp9zF9koxozwhSXyfU7PV%2Fhow-to-syrup-pool-staking-header.png?alt=media\&token=e4d0b3e8-4fec-4136-9e6e-31abf5f54393)
 
-Staking in [Syrup Pools](https://docs.pancakeswap.finance/products/syrup-pool) lets you earn CAKE or other tokens while you sleep!
+Fazer stake nas [Pools de Syrup](../) permite que você ganhe CAKE ou outros tokens enquanto dorme!&#x20;
 
-It's simpler than farming with PancakeSwap's Yield Farms because unlike the Farms, you only need to stake **one token** to start earning: usually CAKE.
+É mais simples do que fazer farms de rendimento na PancakeSwap porque, ao contrário dos farms, você só precisa fazer stake de um token para começar a ganhar: geralmente CAKE.&#x20;
 
-### &#x20;<a href="#getting-started-with-syrup-pool-staking" id="getting-started-with-syrup-pool-staking"></a>
+## Introdução ao staking da Pool de Syrup
 
-1\. Go to the Pools page [here](https://pancakeswap.finance/pools).
+1. Vá para a página das Pools [aqui](https://pancakeswap.finance/pools).
 
 ![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2FXs3U30zht0rgrGnjVM98%2F1-how-to-stake-in-syrup-pool.png?alt=media\&token=2c5d535d-f678-4cd2-8d48-a2e6c3f6b863)
 
-2\. Connect to your BNB Smart Chain-compatible wallet by clicking the **Connect** button (top right-hand side).
+2\. Conecte-se à sua carteira compatível com BNB Smart Chain clicando no botão **Conectar** (canto superior direito).
 
 ![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2Fu5MriU057qEIU0yimTaO%2F2-how-to-stake-in-syrup-pool.png?alt=media\&token=7b756044-b402-47e2-b578-23348c5079c9)
 
-3\. Choose your wallet and connect.
+3\. Escolha sua carteira e conecte.
 
 ![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2FopEtozuueFrdwSDsetOB%2F3-how-to-stake-in-syrup-pool.png?alt=media\&token=eb28eac2-6be6-4ae5-af69-66a7d7c83b1a)
 
-4\. Choose which Syrup Pool you want to stake in.
+4\. Escolha em qual Pool de Syrup você quer fazer stake.
 
 ![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2Fm3A4zap3vd7fefvXvDdZ%2F4-how-to-stake-in-syrup-pool.png?alt=media\&token=da0ecaf4-dce9-4ba7-a4e2-6a4796fdd385)
 

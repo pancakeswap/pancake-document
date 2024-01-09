@@ -14,8 +14,8 @@ bCAKE - Farm Booster, é um multiplicador de impulso gerado automaticamente que 
 
 Saiba mais sobre o bCAKE e como usá-lo para aumentar seus rendimentos no farm:
 
-{% content-ref url="como-usar-o-bcake-v3.md" %}
-[como-usar-o-bcake-v3.md](como-usar-o-bcake-v3.md)
+{% content-ref url="como-usar-o-bcake.md" %}
+[como-usar-o-bcake.md](como-usar-o-bcake.md)
 {% endcontent-ref %}
 
 {% content-ref url="perguntas-frequentes.md" %}
