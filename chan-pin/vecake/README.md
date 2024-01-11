@@ -28,6 +28,6 @@ description: 质押 CAKE，赚取 CAKE，还有更多！
 
 如果有其他疑问，请查看我们的 FAQ:
 
-{% content-ref url="vecake-faq.md" %}
-[vecake-faq.md](vecake-faq.md)
+{% content-ref url="faq.md" %}
+[faq.md](faq.md)
 {% endcontent-ref %}

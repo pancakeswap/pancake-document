@@ -6,7 +6,7 @@
 
 ## 前往 CAKE Staking 页面
 
-<figure><img src="../../.gitbook/assets/image (239).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (239) (1).png" alt=""><figcaption></figcaption></figure>
 
 打开网页 [https://pancakeswap.finance/cake-staking?chain=bsc](https://pancakeswap.finance/cake-staking?chain=bsc) 并连接您的钱包。请注意，锁仓 CAKE 获得 veCAKE 仅能在 BNB 链上操作。
 

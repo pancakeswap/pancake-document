@@ -21,8 +21,8 @@ veCAKE 代币在 PancakeSwap 的治理中起着至至关重要的作用，持有
 **参与 Gauges** **Voting**：每两周参与一次 Gauges Voting，投票结果每两周公布并执行一次，从而影响并提高您所投票的流动性池可以获得的 CAKE 分配额。您每次修改并调整对 gauge 的投票的时间间隔不得小于 10 天。\
 
 
-{% content-ref url="gauges-voting/" %}
-[gauges-voting](gauges-voting/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 **投票激励（Vote Incentives）**： 通过外部市场（external markets）向其他协议索要投票奖励，以获得额外奖励。&#x20;

@@ -18,7 +18,7 @@ description: CAKE定期质押和IFO分配
 
 您拥有的 iCAKE 数量，是根据每场 IFO 结束时持有的 veCAKE 数值，乘以一个预先设定的比率。&#x20;
 
-veCAKE 是根据您锁定的 CAKE 数量和锁仓剩余时间动态计算得出的值。要进一步了解 veCAKE 的计算方法，请点击[此处](../../chan-pin/vecake/vecake-faq.md)。&#x20;
+veCAKE 是根据您锁定的 CAKE 数量和锁仓剩余时间动态计算得出的值。要进一步了解 veCAKE 的计算方法，请点击[此处](../../chan-pin/vecake/faq.md)。&#x20;
 
 在 veCAKE 数值的基础上，还应用了一个额外的比率，该比率每场 IFO 时厨房将进行调整。例如，如果比率是 2x，在下一场  IFO 结束时您有 1 veCAKE，则您最多可以投入 2 CAKE。
 
