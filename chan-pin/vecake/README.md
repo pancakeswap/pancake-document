@@ -26,6 +26,12 @@ description: 质押 CAKE，赚取 CAKE，还有更多！
 [cong-cake-tang-jiang-chi-qian-yi.md](cong-cake-tang-jiang-chi-qian-yi.md)
 {% endcontent-ref %}
 
+点击此处了解更多有关 veCAKE 生态系统合作伙伴（veCAKE 管理协议）的信息：
+
+{% content-ref url="vecake-guan-li-xie-yi.md" %}
+[vecake-guan-li-xie-yi.md](vecake-guan-li-xie-yi.md)
+{% endcontent-ref %}
+
 如果有其他疑问，请查看我们的 FAQ:
 
 {% content-ref url="faq.md" %}
