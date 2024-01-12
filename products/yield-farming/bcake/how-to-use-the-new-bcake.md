@@ -1,14 +1,18 @@
-# How to use bCAKE V3
+---
+description: veCAKE Staking and Farming Boost
+---
+
+# How to use the new bCAKE
 
 <figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
-Like iCAKE and vCAKE, bCAKE is a fixed-term CAKE staking benefit designed for our loyal CAKE holders. By locking CAKE in the fixed-term CAKE staking pool, users can boost earning from selected farms up to 2x.
+Like iCAKE and vCAKE, bCAKE is a veCAKE staking benefit designed for our loyal CAKE holders. By locking CAKE, you get veCAKE, which automatically gives you bCAKE. You can boost earning from selected farms up to 2.5x.
 
-The boost multiplier is calculated based on how much CAKE you lock, how long you are locking them for, and how much liquidity in the farm you are trying to boost.
+The boost multiplier is calculated based on your veCAKE balance, and how much liquidity in the farm you are trying to boost.
 
-## Preparations <a href="#9ad80126-6efe-49c2-b203-3590093b92d6" id="9ad80126-6efe-49c2-b203-3590093b92d6"></a>
+## Preparations <a href="#id-9ad80126-6efe-49c2-b203-3590093b92d6" id="id-9ad80126-6efe-49c2-b203-3590093b92d6"></a>
 
-#### **Initiate a fixed-term CAKE staking position** <a href="#3e485cf0-a9c5-408d-ab19-3ad2a7852589" id="3e485cf0-a9c5-408d-ab19-3ad2a7852589"></a>
+#### **Initiate a fixed-term CAKE staking position** <a href="#id-3e485cf0-a9c5-408d-ab19-3ad2a7852589" id="id-3e485cf0-a9c5-408d-ab19-3ad2a7852589"></a>
 
 ![](<../../../.gitbook/assets/image (10).png>)
 
@@ -54,7 +58,7 @@ There is a limit to the number of farming positions that are able to boost simul
 
 You will need to unset an active booster in order to activate bCAKE on other positions.
 
-#### Unset bCAKE <a href="#6fa438f5-eea6-4d66-9b56-24780cedd273" id="6fa438f5-eea6-4d66-9b56-24780cedd273"></a>
+#### Unset bCAKE <a href="#id-6fa438f5-eea6-4d66-9b56-24780cedd273" id="id-6fa438f5-eea6-4d66-9b56-24780cedd273"></a>
 
 ![](<../../../.gitbook/assets/image (7) (1).png>)
 

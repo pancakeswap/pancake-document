@@ -54,7 +54,7 @@
     * [Crosschain Farming](products/yield-farming/crosschain-farming/README.md)
       * [FAQ](products/yield-farming/crosschain-farming/faq.md)
     * [bCAKE](products/yield-farming/bcake/README.md)
-      * [How to use bCAKE V3](products/yield-farming/bcake/how-to-use-bcake-v3.md)
+      * [How to use the new bCAKE](products/yield-farming/bcake/how-to-use-the-new-bcake.md)
       * [FAQ](products/yield-farming/bcake/faq.md)
       * [V2 (deprecated)](products/yield-farming/bcake/v2-deprecated/README.md)
         * [How to use bCAKE?](products/yield-farming/bcake/v2-deprecated/how-to-use-bcake.md)
