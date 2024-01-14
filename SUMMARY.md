@@ -54,7 +54,7 @@
     * [跨链农场](products/yield-farming/kua-lian-nong-chang/README.md)
       * [FAQ](products/yield-farming/kua-lian-nong-chang/faq.md)
     * [bCAKE](products/yield-farming/bcake/README.md)
-      * [如何使用 bCAKE V3?](chan-pin/yield-farming/bcake/ru-he-shi-yong-bcake-v3.md)
+      * [如何使用新的 bCAKE ?](chan-pin/yield-farming/bcake/ru-he-shi-yong-xin-de-bcake.md)
       * [FAQ](products/yield-farming/bcake/chang-jian-wen-ti-jie-da.md)
       * [V2 （已弃用）](chan-pin/yield-farming/bcake/v2-yi-qi-yong/README.md)
         * [如何使用 bCAKE?](products/yield-farming/bcake/ru-he-shi-yong-bcake.md)

@@ -1,10 +1,10 @@
-# 如何使用 bCAKE V3?
+# 如何使用新的 bCAKE ?
 
 <figure><img src="../../../.gitbook/assets/how-to-use-bCAKE.png" alt=""><figcaption></figcaption></figure>
 
-与 iCAKE 和 vCAKE 类似，bCAKE 也是锁仓质押 CAKE 糖浆池用户的专属福利。通过将 CAKE 锁定在固定期限的 CAKE 糖浆池中，用户可以将特定的农场的收益提高到最高 2 倍。
+与 iCAKE 和 vCAKE 类似，bCAKE 也是  veCAKE 锁仓用户的专属福利。通过将 CAKE 锁仓得到 veCAKE. 同时也获得了 bCAKE，用户可以将特定的农场的收益提高到最高 2.5 倍。
 
-提升倍数根据你持有的锁仓 CAKE 数量、锁仓时长、打开助推的农场中你质押的流动性量来计算。
+提升倍数根据你持有的  veCAKE 数值，以及想要助推的农场中你所质押的流动性量来计算。
 
 ## 准备工作
 
@@ -12,13 +12,13 @@
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/农场助推器 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/go to cake saking.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
-如果您尚未在 CAKE 锁仓质押池中锁定任何 CAKE，请单击 “**前往糖浆池（Go to Pool）**” 并按照说明进行 CAKE 锁仓质押。
+如果您尚未锁仓 CAKE，请单击 “**前往 Cake  Staking**” 并按照说明进行 CAKE 锁仓。
 
-了解有关如何进行 CAKE 锁仓质押的更多信息，请阅读[此处](../../../products/syrup-pools/cake-tang-jiang-chi/ru-he-shi-yong-suo-cang-zhi-ya-tang-jiang-chi.md)。
+了解有关如何进行 CAKE 锁仓以获得 veCAKE 的更多信息，请阅读[此处](../../vecake/ru-he-huo-de-vecake.md) 。
 
 #### 找到你想要助推的农场以及仓位
 
@@ -42,7 +42,7 @@
 
 要激活 bCAKE，你的流动性仓位必须先质押进农场里。&#x20;
 
-要了解更多关于收益农场的知识，请查看本[教程](../../../products/yield-farming/ru-he-shi-yong-nong-chang.md)。
+要了解更多关于农场的知识，请查看本[教程](../../../products/yield-farming/ru-he-shi-yong-nong-chang.md)。
 
 {% hint style="info" %}
 V3 农场和 bCAKE V3 简化了流程，因此不再需要启用 bCAKE 或迁移你的质押仓位。
