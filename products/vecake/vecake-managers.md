@@ -10,11 +10,17 @@ We have veCAKE Managers building on top of us:&#x20;
 * primary and secondary bribe marketplaces to influence CAKE emissions, and
 * more to come!
 
+These protocols, by alphabetical order, and covered in more detail in following sections, include:
+
+* [**Breakfast Finance (by Vector Finance)**](https://breakfastfinance.io/)
+* [**Cakepie (by Magpie)**](https://www.pancake.magpiexyz.io/stake)
+* [**Defi Wars**](https://www.defiwars.xyz/wars/pancake)
+* [**Hidden Hand**](https://hiddenhand.finance/pancakeswap)
+* [**StakeDAO**](https://www.stakedao.org/lockers/cake)
+
 We are grateful for their contributions, though please note that this is not an official endorsement of their products. As with all other DeFi projects, interacting with smart contracts comes with inherent risks. Please do proper due diligence and your own research before using any protocols.
 
-_The following protocols are arranged in alphabetical order._
-
-### [Breakfast Finance (by the Vector team)](https://breakfastfinance.io/)
+### [Breakfast Finance (by the Vector Finance)](https://breakfastfinance.io/)
 
 <figure><img src="https://lh7-us.googleusercontent.com/ppdhV04KOmpyt-S6Ajep1JeO0OaH7gYWLdaXi1DJNc2QeQ1_nWtqV6Je7hWFn8hQ9yedOMxa9g7G3XYBYViJ475H8csL-U85gk4LT1UcijuPEPLzjhVekN7fJ4Sycq8AFQoi3w1izqlyaNLmvt0QnWg" alt=""><figcaption></figcaption></figure>
 
@@ -23,7 +29,7 @@ Products:&#x20;
 * Liquid locker (not live yet)
 * Yield booster for PancakeSwap's liquidity providers (not live yet)
 
-### [Cakepie (by the Magpie team)](https://www.pancake.magpiexyz.io/stake)
+### [Cakepie (by the Magpie)](https://www.pancake.magpiexyz.io/stake)
 
 <figure><img src="https://lh7-us.googleusercontent.com/HZx5yxRHVr-BOMadB2F3kCme89lNyAg4PGwdu4RLAi_1H0tvd3jqNwOWUQxd4ucFaLV_0AVMMNh9i2WS7KqxoVqTfkl6r4ICRMbI-TYSxe8Zv4Or2KfIyJLWigFHLxr4YezVHTkzadOI9c_A7uB-MNs" alt=""><figcaption></figcaption></figure>
 
@@ -33,7 +39,7 @@ Products:&#x20;
 * Yield booster for PancakeSwap's liquidity providers
 * Secondary bribe marketplace (not live yet)
 
-### [DefiWars](https://www.defiwars.xyz/wars/pancake)
+### [Defi Wars](https://www.defiwars.xyz/wars/pancake)
 
 <figure><img src="https://lh7-us.googleusercontent.com/0iEOBGEj-Pm9h_KgLImn6gnsAIC8_tL2UM0DGd-mYfHeeqb7okGv-IvL3YGJSvev6XhmM6JOejtP00J0_WRPytQXFGlGiVXPZyn5X3cNObHkgMwDynLNif1MIeK78hPrSjSpbXQI9KF5eZeoO-9ZRqE" alt=""><figcaption></figcaption></figure>
 
