@@ -20,7 +20,7 @@ These protocols, by alphabetical order, and covered in more detail in following 
 
 We are grateful for their contributions, though please note that this is not an official endorsement of their products. As with all other DeFi projects, interacting with smart contracts comes with inherent risks. Please do proper due diligence and your own research before using any protocols.
 
-### [Breakfast Finance (by the Vector Finance)](https://breakfastfinance.io/)
+### [Breakfast Finance (by Vector Finance)](https://breakfastfinance.io/)
 
 <figure><img src="https://lh7-us.googleusercontent.com/ppdhV04KOmpyt-S6Ajep1JeO0OaH7gYWLdaXi1DJNc2QeQ1_nWtqV6Je7hWFn8hQ9yedOMxa9g7G3XYBYViJ475H8csL-U85gk4LT1UcijuPEPLzjhVekN7fJ4Sycq8AFQoi3w1izqlyaNLmvt0QnWg" alt=""><figcaption></figcaption></figure>
 
@@ -29,7 +29,7 @@ Products:&#x20;
 * Liquid locker (not live yet)
 * Yield booster for PancakeSwap's liquidity providers (not live yet)
 
-### [Cakepie (by the Magpie)](https://www.pancake.magpiexyz.io/stake)
+### [Cakepie (by Magpie)](https://www.pancake.magpiexyz.io/stake)
 
 <figure><img src="https://lh7-us.googleusercontent.com/HZx5yxRHVr-BOMadB2F3kCme89lNyAg4PGwdu4RLAi_1H0tvd3jqNwOWUQxd4ucFaLV_0AVMMNh9i2WS7KqxoVqTfkl6r4ICRMbI-TYSxe8Zv4Or2KfIyJLWigFHLxr4YezVHTkzadOI9c_A7uB-MNs" alt=""><figcaption></figcaption></figure>
 
