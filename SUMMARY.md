@@ -205,13 +205,6 @@
 * [Fale Conosco](contact-us/README.md)
   * [Suporte ao Cliente](contact-us/customer-support.md)
   * [Redes Sociais & Comunidades](contact-us/telegram.md)
-
-## Produtos
-
-* [🍳Em Breve!](produtos-1/coming-soon.md)
-
-***
-
 * [Archive](archive/README.md)
   * [Antigo Tokenomics](archive/antigo-tokenomics/README.md)
     * [CAKE Tokenomics v1](referencia/antigo-tokenomics/cake-tokenomics-v1.md)
