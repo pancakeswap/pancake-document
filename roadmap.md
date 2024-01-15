@@ -6,7 +6,7 @@ description: '"Don''t call it a roadmap"'
 
 ![](.gitbook/assets/roadmap-header.png)
 
-_Atualizado em 2 de Outubro de 2023_
+_Atualizado em 3 de Janeiro de 2024_
 
 ### Finalmente, isso é um roadmap e não uma lista de tarefas.
 
@@ -16,37 +16,25 @@ Pivotar é um modo de vida.&#x20;
 
 Isso significa que não nos comprometemos publicamente com cronogramas específicos, para que possamos organizar nossas prioridades de desenvolvimento com base nas mudanças do mercado e nos recursos do desenvolvedor.
 
-<figure><img src=".gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Devido a considerações de segurança e confidencialidade, alguns itens não estão incluídos na seção "Cozinhando no".
 {% endhint %}
 
-### Em andamento/Recorrente
 
-* Programa de Recompensa de Trade
-* IFOs e cIFOs Regularmente
-* Novos Farms e Pools de Syrup Regularmente&#x20;
-* UI/UX, Correções de Bugs, Upgrades de Produtos&#x20;
-* Pesquisa das melhorias do AMM
 
-### Cozinhando no T4
+### Cozinhando no T1
 
-* Gerenciador de Posição v3
-* Atualização do vCAKE - Gauge Design&#x20;
-* Router Universal
-* Expansão de Game
+* Aprimoramento da DEX
+* Aprimoramento do veCAKE
+* Perpétuos Multichain
 * Previsão Multichain
-* Stake Simples Multichain
-* Integração de Serviço de Notificações
+* Staking Simples Multichain
+* Expansão do Marketplace de Games
+* Router Universal
 
-### Backlogs
 
-* Gameficação de NFT\
-  Potenciais colaborações com outros projetos top na BNB Chain
-* Mercado de NFT \
-  Fase 3 - Plataforma Aberta de NFT\
-  Outras melhorias e upgrades
 
 ### Feito
 
@@ -71,9 +59,10 @@ Devido a considerações de segurança e confidencialidade, alguns itens não es
 * Expansão para Arbitrum One - Swap e Liquidez
 * Expansão para zkSync Era - Swap e Liquidez
 * Expansão para opBNB - Swap e Liquidez
-* Perpétuos v2
+* Perpétuos v2 na Arbitrum e BNB Chain
+* Expansão dos Perps v2 para Base e OpBNB
 
-#### Ganhe
+#### Rendimento
 
 * Stake de CAKE&#x20;
   * Stake de termo fixo
@@ -97,6 +86,8 @@ Devido a considerações de segurança e confidencialidade, alguns itens não es
 * Integração de Liquid Staking
 * Pool de Compartilhamento de Receita
 * Integração de Staking Simples
+* vCAKE Update - Sistema de Medidores (Gauge)
+* Gerenciador de Posição v3
 
 #### Vença
 
@@ -135,3 +126,5 @@ Devido a considerações de segurança e confidencialidade, alguns itens não es
 * Fiat on Ramp Integração com MoonPay e Mercuryo
 * Programa de Afiliados
 * Renovação do Website
+* Expansão de Games
+* Integração do Serviço de Notificações
