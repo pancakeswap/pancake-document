@@ -48,7 +48,7 @@ Quando você bloqueia com o novo veCAKE, o tempo de desbloqueio é arredondado p
 
 Você pode visualizar seu tempo real de desbloqueio na parte inferior.&#x20;
 
-### Posso bloquear mais CAKE na Pool  de CAKE?&#x20;
+### Posso bloquear mais CAKE na Pool de CAKE antiga?&#x20;
 
 Não.&#x20;
 
