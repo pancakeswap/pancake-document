@@ -18,7 +18,7 @@ veCAKE 不仅仅是一个产品，更是一个生态系统。&#x20;
 * [**Hidden Hand**](https://hiddenhand.finance/pancakeswap)
 * [**StakeDAO**](https://www.stakedao.org/lockers/cake)
 
-我们对他们做出的贡献表示感谢，也请注意这并不代表对第三方产品的官方背书。与所有其他 DeFi 项目一样，与智能合约的交互存在固有风险。在使用任何协议之前，请进行适当的尽职调查和研究。&#x20;
+我们对他们做出的贡献表示感谢，也请注意这并不代表对他方产品的官方背书。与所有其他 DeFi 项目一样，与智能合约的交互存在固有风险。在使用任何协议之前，请进行适当的尽职调查和研究。&#x20;
 
 ### [Breakfast Finance (由 Vector Finance 创建）](https://breakfastfinance.io/zh-cn)
 

@@ -65,7 +65,7 @@
     * [每周赚取 CAKE](chan-pin/vecake/mei-zhou-zhuan-qu-cake/README.md)
       * [每周赚取 CAKE FAQ](chan-pin/vecake/mei-zhou-zhuan-qu-cake/mei-zhou-zhuan-qu-cake-faq.md)
     * [Gauges Voting](chan-pin/vecake/gauges-voting/README.md)
-      * [FAQ](chan-pin/vecake/gauges-voting/faq.md)
+      * [Gauge Voting FAQ](chan-pin/vecake/gauges-voting/gauge-voting-faq.md)
     * [veCAKE 管理协议](chan-pin/vecake/vecake-guan-li-xie-yi.md)
     * [veCAKE FAQ](chan-pin/vecake/faq.md)
   * [🍯 糖浆池-质押 CAKE](products/syrup-pools/README.md)
