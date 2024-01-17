@@ -37,7 +37,7 @@
 这样做的目的是：
 
 * 确保核心流动性池能给予 LP 流动性资金有竞争力的回报。
-* 在现有糖浆池合作伙伴完全迁移到 veCAKE gauge 投票系统之前，确保与现有糖浆池合作伙伴的合约得到履行。
+* 在现有糖浆池合作伙伴完全迁移到使用 veCAKE 的 Gauge 投票系统之前，确保与现有糖浆池合作伙伴的合约得到履行。
 * 确保在 veCAKE 推出后，未获得任何票数的任何小型农场，在最初推出时至少获得一些激励分配，\
   并以其当前获配的激励水平为上限。\
   （原文：Ensuring that any of the smaller farms which did not receive any votes after the launch of veCAKE will receive at least some allocation in the initial rollout, capped at their current emission levels.）

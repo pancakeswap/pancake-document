@@ -4,7 +4,7 @@
 
 ### 锁仓的 CAKE 和 veCAKE 有什么区别？&#x20;
 
-veCAKE 是锁仓质押 CAKE 的新版本，可以为 CAKE 锁仓用户提供更多好处和权力。包括 gauge 权重投票、额外的激励（投票奖励）、农场收益助推等。&#x20;
+veCAKE 是锁仓质押 CAKE 的新版本，可以为 CAKE 锁仓用户提供更多好处和权力。包括 Gauge 投票（gauge weight voting）、额外的激励（投票奖励）、农场收益助推等。&#x20;
 
 ### 部署新的 veCAKE 后，CAKE 糖浆池奖励会发生什么变化？&#x20;
 
@@ -86,7 +86,7 @@ veCAKE = 您的锁仓数量 * (剩余锁仓时长 / 最大锁仓时间)
 
 **对于 bCAKE：**&#x20;
 
-农场助推 bCAKE 也将升级为支援 veCAKE。用户很快就能使用 veCAKE 助推农场，不仅可以助推 V3，还能助推其他类型在 PancakeSwap 的流动性资金。&#x20;
+农场助推 bCAKE 也将升级为支援 veCAKE。用户很快就能使用 veCAKE 助推农场，不仅可以助推 V3，还能助推其他类型锁定在 PancakeSwap 的流动性资金。&#x20;
 
 **对于 vCAKE**：
 
