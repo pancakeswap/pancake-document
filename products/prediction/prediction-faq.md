@@ -8,7 +8,11 @@ Use the sidebar to quickly find the answers to your questions!
 
 ### What’s the PancakeSwap Prediction contract address?
 
-Verified contract address: [https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda](https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda)
+Verified contract address:&#x20;
+
+BNB: [https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda](https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda)
+
+Zksync: [https://explorer.zksync.io/address/0x43c7771deb958a2e3198ed98772056ba70daa84c](https://explorer.zksync.io/address/0x43c7771deb958a2e3198ed98772056ba70daa84c)
 
 ### Is there a time limit before I can collect my winnings?
 
