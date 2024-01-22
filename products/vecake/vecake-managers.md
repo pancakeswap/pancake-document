@@ -37,7 +37,7 @@ Products:&#x20;
 
 * Liquid locker
 * Yield booster for PancakeSwap's liquidity providers
-* Secondary bribe marketplace (not live yet)
+* Secondary bribe marketplace&#x20;
 
 ### [Defi Wars](https://www.defiwars.xyz/wars/pancake)
 
