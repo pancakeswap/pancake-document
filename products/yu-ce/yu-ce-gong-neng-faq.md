@@ -6,9 +6,14 @@
 
 ## 常见问题
 
-### PancakeSwap 预测的合约地址是什么？&#x20;
+### PancakeSwap 预测的合约地址在哪里？&#x20;
 
-验证合约地址：[https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda](https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda)
+验证合约地址：
+
+BNB: [https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda](https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda)
+
+zkSync: [https://explorer.zksync.io/address/0x43c7771deb958a2e3198ed98772056ba70daa84c](https://explorer.zksync.io/address/0x43c7771deb958a2e3198ed98772056ba70daa84c)\
+
 
 ### 收取奖金是否有时间限制？&#x20;
 
