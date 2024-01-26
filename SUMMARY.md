@@ -124,6 +124,7 @@
     * [🎓 Pancake Mayor](products/gaming-platform/pancake-mayor.md)
     * [🛡 Pancake Protectors](products/gaming-platform/pancake-protectors/README.md)
       * [FAQ](products/gaming-platform/pancake-protectors/faq.md)
+    * [📒 Brand Kit](products/gaming-platform/brand-kit.md)
   * [🧈 Trading Reward](products/trading-reward/README.md)
     * [How to Participate](products/trading-reward/how-to-participate/README.md)
       * [Top Traders Campaign](products/trading-reward/how-to-participate/top-traders-campaign.md)
