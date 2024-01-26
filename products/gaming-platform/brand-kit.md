@@ -6,11 +6,15 @@ description: For Game partners, here are some guidelines and downloadable assets
 
 <figure><img src="../../.gitbook/assets/docs-masthead-gameKit.png" alt=""><figcaption></figcaption></figure>
 
+##
+
 ## Brand Kit for Games
 
 <figure><img src="../../.gitbook/assets/image 16.png" alt=""><figcaption></figcaption></figure>
 
 :point\_right: [Click to view the guideline and access to resources download on figma](https://www.figma.com/file/658oTHPzqnygmNXi9XANkC/Brand-Kit---Game-\(Public\)?type=design\&node-id=60%3A222\&mode=design\&t=lV1WGVgmR6LxDkcS-1)
+
+
 
 ## Table of contents
 
