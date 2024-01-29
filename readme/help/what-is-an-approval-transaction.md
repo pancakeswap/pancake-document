@@ -12,7 +12,7 @@ Here is a guide on how to complete an approval transaction:
 
 1.  Enter your swap details.&#x20;
 
-    <figure><img src="../../.gitbook/assets/step1 (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/step1 (1) (1).png" alt=""><figcaption></figcaption></figure>
 2.  Select “Confirm swap” after reviewing swap details.&#x20;
 
     <figure><img src="../../.gitbook/assets/4536.png" alt=""><figcaption></figcaption></figure>
