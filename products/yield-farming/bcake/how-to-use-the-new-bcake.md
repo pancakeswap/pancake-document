@@ -44,6 +44,12 @@ To learn more about yield farming, check out [this](https://docs.pancakeswap.fin
 
 bCAKE activation is now fully automatic.&#x20;
 
+<figure><img src="../../../.gitbook/assets/Frame 883379190.png" alt="" width="174"><figcaption><p>V3 Farm</p></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Connected - Has LP - Has veCAKE - Boosted automatically.png" alt="" width="174"><figcaption><p>V2, StableSwap</p></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Connected - Has liquidity - Has veCAKE - Boosted automatically.png" alt="" width="174"><figcaption><p>Position Manager</p></figcaption></figure>
+
 Once staked, you should see the applied boost multiplier for the farm you are currently staking. To learn more about how the bCAKE multiplier is calculated, read [here](https://docs.pancakeswap.finance/products/yield-farming/bcake/faq#why-do-my-multipliers-change-even-after-activation).
 
 {% hint style="info" %}
