@@ -12,17 +12,17 @@ The boost multiplier is calculated based on your veCAKE balance, and how much li
 
 ## Preparations <a href="#id-9ad80126-6efe-49c2-b203-3590093b92d6" id="id-9ad80126-6efe-49c2-b203-3590093b92d6"></a>
 
-#### **Initiate a fixed-term CAKE staking position** <a href="#id-3e485cf0-a9c5-408d-ab19-3ad2a7852589" id="id-3e485cf0-a9c5-408d-ab19-3ad2a7852589"></a>
+#### **Initiate a fixed-term veCAKE staking position** <a href="#id-3e485cf0-a9c5-408d-ab19-3ad2a7852589" id="id-3e485cf0-a9c5-408d-ab19-3ad2a7852589"></a>
 
 ![](<../../../.gitbook/assets/image (10).png>)
 
-If you haven't locked any CAKE in the CAKE staking pool, click "Go to Pool" and follow the instructions to initiate a fixed-term staking position.
+If you haven't locked any CAKE in the veCAKE pool, click "Go to Pool" and follow the instructions to initiate a fixed-term staking position.
 
-To learn more about how to do fixed-term CAKE staking, read [here](https://docs.pancakeswap.finance/products/syrup-pool/new-cake-pool#fixed-term-staking).
+To learn more about how to initiate a veCAKE staking position, read [here](https://docs.pancakeswap.finance/products/syrup-pool/new-cake-pool#fixed-term-staking).
 
 #### Locate the farm and the position you want to boost <a href="#cf04ee3e-9678-4fc4-bf79-dcc5620a83fd" id="cf04ee3e-9678-4fc4-bf79-dcc5620a83fd"></a>
 
-You can only boost your earning from farms with bCAKE enabled. To look for those farms, check the tags section of each farm and look for the green rocket tag labelled “Boosted”.
+You can only boost your earning from farms with bCAKE enabled. To look for those farms, check the APR section and look for a green APR figure with a green rocket icon.
 
 ![](<../../../.gitbook/assets/image (11).png>)
 
@@ -34,32 +34,32 @@ Alternatively, use the “Booster Available” filter within the “Farm Types�
 
 In order to activate bCAKE, your position must be staking in the farm.
 
-To learn more about yield farming, check out [this](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) tutorial.
+* For V3: stake your LP position by clicking “Stake”.
+* For V2 and StableSwap: stake your LP token by clicking “Add LP”.
+* For Position Managers: add liquidity by clicking “Add Liquidity”.
 
-{% hint style="info" %}
-In Farm and bCAKE V3, the process has been streamlined, so you are no longer required to enable bCAKE or migrate your stakings.
-{% endhint %}
+To learn more about yield farming, check out [this](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) tutorial.
 
 #### Activate bCAKE <a href="#b3a80f22-5043-4e4b-afae-93b4abec504e" id="b3a80f22-5043-4e4b-afae-93b4abec504e"></a>
 
-![](<../../../.gitbook/assets/image (30).png>)
+bCAKE activation is now fully automatic.&#x20;
 
-Once ready, you should see the available boost multiplier for the farming position you are currently staking. To learn more about how the bCAKE multiplier is calculated, read [here](https://docs.pancakeswap.finance/products/yield-farming/bcake/faq#why-do-my-multipliers-change-even-after-activation).
-
-To activate the boost, click the "Boost" button, and confirm the transaction from your wallet.
+Once staked, you should see the applied boost multiplier for the farm you are currently staking. To learn more about how the bCAKE multiplier is calculated, read [here](https://docs.pancakeswap.finance/products/yield-farming/bcake/faq#why-do-my-multipliers-change-even-after-activation).
 
 {% hint style="info" %}
-Please note that any user actions to the farming position or CAKE staking pool will automatically update your boost multiplier based on the latest data and statistics from farms and the CAKE staking pool.
+Please note that any user actions to the farming position or veCAKE staking will automatically update your boost multiplier based on the latest data and statistics from farms and the CAKE staking pool.
 
 Learn more [here](https://docs.pancakeswap.finance/products/yield-farming/bcake/faq#why-do-my-multipliers-change-even-after-activation).
 {% endhint %}
 
-There is a limit to the number of farming positions that are able to boost simultaneously. To check the number of remaining boosters, refer to the panel on top.
-
-You will need to unset an active booster in order to activate bCAKE on other positions.
+There is no longer a limit to the number of farming positions that are able to boost simultaneously. As long as the veCAKE staking position is active, you may boost an unlimited number of farms, and position managers position.
 
 #### Unset bCAKE <a href="#id-6fa438f5-eea6-4d66-9b56-24780cedd273" id="id-6fa438f5-eea6-4d66-9b56-24780cedd273"></a>
 
-![](<../../../.gitbook/assets/image (7) (1).png>)
+bCAKE unset is now also fully automatic.
 
-To unset a farm booster, simply click the "Unset" button, and confirm the transaction from your wallet.
+To unset bCAKE boost, simply remove your liquidity.
+
+* For V3: unstake your LP position by clicking “Unstake”.
+* For V2 and StableSwap: unstake your LP token by clicking the “-” minus button.
+* For Position Managers: remove liquidity by clicking the “-” minus button.
