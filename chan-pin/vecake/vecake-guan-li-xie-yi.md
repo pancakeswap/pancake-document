@@ -12,22 +12,12 @@ veCAKE 不仅仅是一个产品，更是一个生态系统。&#x20;
 
 这些协议（按字母顺序排列），将在下文中详细介绍，其中包括：
 
-* [**Breakfast Finance (by Vector Finance)**](https://breakfastfinance.io/)
 * [**Cakepie (by Magpie)**](https://www.pancake.magpiexyz.io/stake)
 * [**Defi Wars**](https://www.defiwars.xyz/wars/pancake)
 * [**Hidden Hand**](https://hiddenhand.finance/pancakeswap)
 * [**StakeDAO**](https://www.stakedao.org/lockers/cake)
 
 我们对他们做出的贡献表示感谢，也请注意这并不代表对他方产品的官方背书。与所有其他 DeFi 项目一样，与智能合约的交互存在固有风险。在使用任何协议之前，请进行适当的尽职调查和研究。&#x20;
-
-### [Breakfast Finance (由 Vector Finance 创建）](https://breakfastfinance.io/zh-cn)
-
-<figure><img src="../../.gitbook/assets/image (256).png" alt=""><figcaption></figcaption></figure>
-
-产品：&#x20;
-
-* veCAKE 流动性锁定平台 （尚未上线）&#x20;
-* 为 PancakeSwap 上的流动性提供者提供收益助推器（尚未上线）
 
 ### [Cakepie (由 Magpie 创建）](https://www.pancake.magpiexyz.io/stake)
 
