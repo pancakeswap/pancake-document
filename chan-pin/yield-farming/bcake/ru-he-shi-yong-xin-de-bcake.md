@@ -8,7 +8,7 @@
 
 ## 准备工作
 
-#### 锁仓 CAKE
+### 创建一个 veCAKE 锁仓仓位 <a href="#id-3e485cf0-a9c5-408d-ab19-3ad2a7852589" id="id-3e485cf0-a9c5-408d-ab19-3ad2a7852589"></a>
 
 <div align="left">
 
@@ -16,13 +16,13 @@
 
 </div>
 
-如果您尚未锁仓 CAKE，请单击 “**前往 Cake  Staking**” 并按照说明进行 CAKE 锁仓。
+如果您尚未在 veCAKE 池锁仓 CAKE，请单击 “**前往 Cake  Staking**” 并按照说明进行 CAKE 锁仓。
 
 了解有关如何进行 CAKE 锁仓以获得 veCAKE 的更多信息，请阅读[此处](../../vecake/ru-he-huo-de-vecake.md) 。
 
 #### 找到你想要助推的农场以及仓位
 
-你只能从启用了 bCAKE 的农场来提高收益。要找到具备 bCAKE 功能的农场，请查看每个农场的标签部分，寻找标有 "助推（Boosted）" 的绿色火箭标签的农场。
+只有开启了 bCAKE 功能的农场才有提高收益的作用。要分辨出前述农场，请查看 APR 栏位，寻找带有绿色火箭图标的绿色 APR 数字。
 
 <div align="left">
 
@@ -30,7 +30,7 @@
 
 </div>
 
-或者你也可以使用 "农场类型" 筛选工具中的 "可用助推器" 筛选依据，来快速筛选所有已启用了 bCAKE 的农场。
+或者你也可以使用 "农场类型" 筛选工具中的 "可用助推器" 筛选依据，来快速筛选所有已开启 bCAKE 的农场。
 
 <div align="left">
 
@@ -38,42 +38,44 @@
 
 </div>
 
-#### 质押你的流动性仓位&#x20;
+#### 质押流动性仓位&#x20;
 
-要激活 bCAKE，你的流动性仓位必须先质押进农场里。&#x20;
+要激活 bCAKE，你的流动性仓位必须先质押进农场里。
+
+* V3 农场：点击 "Stake（质押）"，质押您的流动性仓位。
+* V2 和 StableSwap 农场：点击 "add LP （添加 LP）"，将您的 LP 代币质押进农场。&#x20;
+* 仓位管理工具：通过点击 "添加流动性" 来添加流动性。&#x20;
 
 要了解更多关于农场的知识，请查看本[教程](../../../products/yield-farming/ru-he-shi-yong-nong-chang.md)。
 
-{% hint style="info" %}
-V3 农场和 bCAKE V3 简化了流程，因此不再需要启用 bCAKE 或迁移你的质押仓位。
-{% endhint %}
-
 #### 激活 bCAKE
 
-![](<../../../.gitbook/assets/image (18).png>)
+bCAKE 激活已更新为全自动。
 
-准备就绪后，你就可以看到当前质押的农场的可助推倍数和提升后的 APR。 要进一步了解 bCAKE 倍数的计算方法，请阅读[此处](../../../products/yield-farming/bcake/chang-jian-wen-ti-jie-da.md)。&#x20;
+<figure><img src="../../../.gitbook/assets/image.png" alt="" width="174"><figcaption><p>V3 农场</p></figcaption></figure>
 
-要激活农场的助推功能，请单击 “助推（Boost）” 按钮，然后在您的钱包确认此链上操作。
+<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="174"><figcaption><p>V2, stableswap</p></figcaption></figure>
+
+
+
+<figure><img src="../../../.gitbook/assets/image (3).png" alt="" width="174"><figcaption><p>仓位管理工具</p></figcaption></figure>
+
+质押完成后，就可以看到当前质押农场的助推倍数。要进一步了解 bCAKE 倍数的计算方法，请阅读[此处](bcake-faq.md)。&#x20;
 
 {% hint style="info" %}
-请注意，用户进行农场、 CAKE 锁仓调整操作后，您的倍数将自动更新，因前两者的统计及数据更新了。
+请注意，在对农场仓位、 veCAKE 质押进行任一操作后，将会根据农场和 CAKE staking 池的最新统计和数据，自动更新您的助推倍数。
 
-点击[这里](../../../products/yield-farming/bcake/chang-jian-wen-ti-jie-da.md)了解更多。
+点击[这里](bcake-faq.md)了解更多。
 {% endhint %}
 
-<div align="left">
+能够同时助推的农场数量不再受限制。只要 veCAKE 锁仓仓位是有效的，您就可以助推无限数量的农场、仓位管理工具仓位。
 
-<figure><img src="../../../.gitbook/assets/bCAKE-farm-number-limit.png" alt=""><figcaption></figcaption></figure>
+## 取消设置助推
 
-</div>
+bCAKE 的取消设置现在也是全自动的。&#x20;
 
-同时运转的农场助推器有数量限制，在置顶显示区中可以看见您剩余可用的助推器额度。
+要取消设置 bCAKE 的助推，只需移除流动资金即可。&#x20;
 
-当启用数量已到上限，您需要取消一个目前正在运转的助推器，将额度让给其他助推器，才可以启用新的。
-
-## 取消设置助推器
-
-<img src="../../../.gitbook/assets/image (1) (2).png" alt="" data-size="original">
-
-要取消设置农场助推器，只需单击 “取消设置（Unset）” 按钮，然后在您的钱包中确认上链。&#x20;
+* V3 农场：点击 "解除质押（Unstake）"，解除质押您的 LP 仓位。&#x20;
+* V2 和 StableSwap 农场：点击 "-" 减号按钮，解除质押您的 LP 代币仓位。&#x20;
+* 仓位管理工具：点击 "-" 减号按钮，移除流动性。&#x20;

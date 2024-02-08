@@ -36,7 +36,7 @@ veCAKE 是根据您锁定的 CAKE 数量和锁仓剩余时间动态计算得出�
 
 ### 如何查看我拥有多少个 iCAKE ?
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt="" width="375"><figcaption></figcaption></figure>
 
 您可以在 [IFO界面](https://pancakeswap.finance/ifo) 看到您的 iCAKE 数量。
 
@@ -61,6 +61,6 @@ veCAKE 是根据您锁定的 CAKE 数量和锁仓剩余时间动态计算得出�
 
 在两场 IFO 之间，厨房将根据各种指标优化 "比率"。调整结果将公布在所有社媒渠道上。
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (7).png" alt="" width="375"><figcaption></figcaption></figure>
 
 您可以前往 [IFO 页面](https://pancakeswap.finance/ifo)，查看用于计算 iCAKE 数量的当前 "比率" 数值。

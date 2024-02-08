@@ -55,7 +55,7 @@
       * [FAQ](products/yield-farming/kua-lian-nong-chang/faq.md)
     * [bCAKE](products/yield-farming/bcake/README.md)
       * [如何使用新的 bCAKE ?](chan-pin/yield-farming/bcake/ru-he-shi-yong-xin-de-bcake.md)
-      * [FAQ](products/yield-farming/bcake/chang-jian-wen-ti-jie-da.md)
+      * [bCAKE FAQ](chan-pin/yield-farming/bcake/bcake-faq.md)
       * [V2 （已弃用）](chan-pin/yield-farming/bcake/v2-yi-qi-yong/README.md)
         * [如何使用 bCAKE?](products/yield-farming/bcake/ru-he-shi-yong-bcake.md)
   * [🔷 veCAKE](chan-pin/vecake/README.md)

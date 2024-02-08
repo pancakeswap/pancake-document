@@ -46,7 +46,7 @@
 
 当你有了你正在寻找的LP代币对的代码时，找到“56：”之后的地址。 这将是您的合约地址。
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 从用户界面入手
 

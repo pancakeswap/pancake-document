@@ -4,7 +4,7 @@ description: 如何参与协议收入的每周分成
 
 # 如何参与？
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 1- 具备收入分成资格
 

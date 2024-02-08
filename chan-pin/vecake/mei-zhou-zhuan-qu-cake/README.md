@@ -1,6 +1,6 @@
 # 每周赚取 CAKE
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 持有 veCAKE 将自动加入我们的两个每周 CAKE 奖励池。这两个奖励池都将以 CAKE 的形式分发奖励。其中一个奖励池分发每周收入分成的奖励；另一个取代传统的 CAKE 糖浆池，分发根据 CAKE 产出得来的奖励。
 
