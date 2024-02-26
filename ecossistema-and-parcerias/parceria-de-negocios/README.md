@@ -20,8 +20,8 @@ Navegue até a seção relevante para você e envie um formulário/siga o proces
 
 1. Estamos direcionando a emissão de CAKE para medidores (pares de liquidez, cofres de gerentes de posição, etc.) na Ethereum, BNB Chain e Arbitrum
 
-{% content-ref url="medidores-gauges.md" %}
-[medidores-gauges.md](medidores-gauges.md)
+{% content-ref url="vecake-medidores.md" %}
+[vecake-medidores.md](vecake-medidores.md)
 {% endcontent-ref %}
 
 2. Estamos hospedando ofertas de Lançamento de tokens (“Ofertas Iniciais de Farms, ou IFOs”) em todas as chains em que estamos implantados.

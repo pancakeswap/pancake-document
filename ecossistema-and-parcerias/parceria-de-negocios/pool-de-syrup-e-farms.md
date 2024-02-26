@@ -30,4 +30,4 @@ Para obter mais informações sobre nossos programas de mineração de liquidez 
 
 * Continuaríamos mantendo contato e trabalhando juntos sempre que possível!&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (6) (1).png" alt=""><figcaption></figcaption></figure>

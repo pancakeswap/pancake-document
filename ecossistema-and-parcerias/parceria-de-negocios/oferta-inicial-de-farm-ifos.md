@@ -1,4 +1,4 @@
-# 🧑🌾 Oferta Inicial de Farm - IFOs
+# 🧑‍🌾 Oferta Inicial de Farm - IFOs
 
 Para obter mais informações sobre nossas ofertas de token launchpad (“[Oferta Inicial de Farm, ou IFO](https://pancakeswap.finance/ifo)”), consulte este PDF​
 
@@ -39,4 +39,4 @@ Para obter mais informações sobre nossas ofertas de token launchpad (“[Ofert
 
 Em cada etapa do processo, a equipe está aqui para ajudar – entendemos que para os fundadores e suas equipes, o IFO ou TGE é extremamente crítico e não deixamos nada ao acaso.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (6).png" alt=""><figcaption></figcaption></figure>
