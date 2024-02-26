@@ -10,18 +10,14 @@ Temos gerenciadores de veCAKE construindo em cima de nós:&#x20;
 * Mercados de suborno primários e secundários para influenciar as emissões de CAKE,&#x20;
 * e mais por vir!&#x20;
 
+Esses protocolos, em ordem alfabética e abordados com mais detalhes nas seções a seguir, incluem:
+
+* [**Cakepie (por Magpie)**](https://www.pancake.magpiexyz.io/stake)
+* [**Defi Wars**](https://www.defiwars.xyz/wars/pancake)
+* [**Hidden Hand**](https://hiddenhand.finance/pancakeswap)
+* [**StakeDAO**](https://www.stakedao.org/lockers/cake)
+
 Somos gratos por suas contribuições, mas observe que este não é um endosso oficial de seus produtos. Tal como acontece com todos os outros projetos DeFi, a interação com contratos inteligentes traz riscos inerentes. Faça a devida diligência e faça sua própria pesquisa antes de usar qualquer protocolo.
-
-&#x20;Os protocolos a seguir estão organizados em ordem alfabética.
-
-### [Breakfast Finance (da Equipe Vector)](https://breakfastfinance.io/)
-
-<figure><img src="../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
-
-Produtos:&#x20;
-
-* Bloqueador líquido (ainda não disponível)&#x20;
-* Impulsionador de rendimento para provedores de liquidez da PancakeSwap (ainda não lançado)
 
 ### [Cakepie (da Equipe Magpie)](https://www.pancake.magpiexyz.io/stake)
 
