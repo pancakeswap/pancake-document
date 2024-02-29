@@ -20,8 +20,8 @@ PancakeSwap (PCS) 是领先的多链去中心化交易所 (DEX)，目前已在�
 
 1. 我们正将 CAKE 激励导向以太链、BNB 链和 Arbitrum 上的 Gauges（流动性对、仓位管理资金库等）。
 
-{% content-ref url="vecake-gauges.md" %}
-[vecake-gauges.md](vecake-gauges.md)
+{% content-ref url="gauges.md" %}
+[gauges.md](gauges.md)
 {% endcontent-ref %}
 
 2. 我们正在部署的所有区块链上，提供新币发行产品（ "初次农场发行，或作 IFO" ）。
