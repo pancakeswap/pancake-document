@@ -30,8 +30,8 @@
 [nong-chang-jing-pai.md](nong-chang-jing-pai.md)
 {% endcontent-ref %}
 
-{% content-ref url="../products/cake-kua-lian-1/" %}
-[cake-kua-lian-1](../products/cake-kua-lian-1/)
+{% content-ref url="kua-lian/" %}
+[kua-lian](kua-lian/)
 {% endcontent-ref %}
 
 {% content-ref url="jian-dan-zhuan-bi/" %}

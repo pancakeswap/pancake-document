@@ -3,5 +3,5 @@
 <figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-这部分内容已经被迁移到[这里](<cake-kua-lian-zhi-nan (1).md>)。
+这部分内容已经被迁移到[这里](../chan-pin/kua-lian/evm-lian-yu-aptos-zhi-jian-kua-lian.md)。
 {% endhint %}

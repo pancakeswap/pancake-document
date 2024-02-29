@@ -60,7 +60,7 @@
 
 跨链的链上操作将需要 30 分钟的时间来处理。请耐心等待，您可以在 [LayerZero scan](https://layerzeroscan.com/) 中输入交易的哈希值/ID 来搜索。&#x20;
 
-当第一次将 CAKE 跨链到 Aptos 时，您必须手动领取您的 CAKE。请确保您已经启用了 "Gas on destination （获取目的地 gas）" ，或您的 Aptos 地址有足够的 APT 用于支付 gas。请查看此[指南](<../../ru-men-zhi-nan-aptos/cake-kua-lian-zhi-nan (1).md>)，了解跨链的详细步骤。&#x20;
+当第一次将 CAKE 跨链到 Aptos 时，您必须手动领取您的 CAKE。请确保您已经启用了 "Gas on destination （获取目的地 gas）" ，或您的 Aptos 地址有足够的 APT 用于支付 gas。请查看此[指南](evm-lian-yu-aptos-zhi-jian-kua-lian.md)，了解跨链的详细步骤。&#x20;
 
 将 CAKE 跨链到 BNB 智能链时，部分钱包程序需要手动添加 CAKE 代币合约地址到钱包，才能够查看余额。
 

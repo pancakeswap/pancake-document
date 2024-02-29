@@ -1,4 +1,8 @@
-# 🌉 CAKE 跨链
+---
+description: 将 CAKE 在 Ethereum, Aptos 和 BNB 链之间自由跨链
+---
+
+# 🌉 跨链
 
 <figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
