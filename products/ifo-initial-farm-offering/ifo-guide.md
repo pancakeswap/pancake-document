@@ -34,7 +34,7 @@ If you are currently staking your CAKE in a pool, unstake them prior to the IFO 
 
 Once you’ve followed the steps above, go back to the IFO page [here](https://pancakeswap.finance/ifo). Scroll down to the ‘How to Take Part’ section.
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt="" width="375"><figcaption></figcaption></figure>
 
 You should see your progress is currently at step 3, Commit CAKE, like in the picture above. If for some reason you aren’t at step 3, go back through the guides linked up higher on this page.
 

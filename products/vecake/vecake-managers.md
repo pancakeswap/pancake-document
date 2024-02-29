@@ -1,14 +1,15 @@
 # veCAKE Managers
 
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
 veCAKE is not just a product, but an ecosystem.&#x20;
 
 We have veCAKE Managers building on top of us:&#x20;
 
 * liquid lockers for veCAKE,&#x20;
 * yield boosters for PancakeSwap’s liquidity providers,&#x20;
-* data dashboards,&#x20;
-* primary and secondary bribe marketplaces to influence CAKE emissions, and
-* more to come!
+* data dashboards, and
+* primary and secondary bribe marketplaces to influence CAKE emissions
 
 These protocols, by alphabetical order, and covered in more detail in following sections, include:
 
@@ -56,3 +57,4 @@ Products:&#x20;
 * Liquid locker
 * Yield booster for PancakeSwap's liquidity providers (not live yet)
 * Primary bribe marketplace
+

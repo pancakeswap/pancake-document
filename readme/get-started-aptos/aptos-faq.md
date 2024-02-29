@@ -41,6 +41,6 @@ PancakeSwap IFO has not yet been deployed on Aptos. (SOON!) Keep staking your CA
 ## CAKE Bridging
 
 {% hint style="info" %}
-This document has been migrated [here](../../products/cake-bridging/faq.md)
+This document has been migrated [here](../../products/bridging/faq.md)
 {% endhint %}
 

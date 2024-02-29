@@ -4,7 +4,7 @@ description: How to participate in the trading reward program for top traders
 
 # Top Traders Campaign
 
-## Check for an ongoing campaign <a href="#978733be-1ca0-4eb6-a35e-44b7f8365222" id="978733be-1ca0-4eb6-a35e-44b7f8365222"></a>
+## Check for an ongoing campaign <a href="#id-978733be-1ca0-4eb6-a35e-44b7f8365222" id="id-978733be-1ca0-4eb6-a35e-44b7f8365222"></a>
 
 Like “Trading Competition”, the trading reward program is hosted in individual campaigns. When there is an ongoing top traders campaign, you can accumulate a % of the trading fee as a reward by trading eligible trading pairs. And when the campaign is finished, and you are ranked high enough amount all the traders, you will win those rewards.
 
@@ -17,9 +17,9 @@ To check if there is an ongoing campaign. You can:
 *   Look for the 💝 icon from the “Hot Token” list on the [Swap page](https://pancakeswap.finance/swap). Or use the filter to check pairs with trading rewards.\
 
 
-    <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-## Start trading <a href="#5be1710d-25f3-485d-8184-91015c4dceca" id="5be1710d-25f3-485d-8184-91015c4dceca"></a>
+## Start trading <a href="#id-5be1710d-25f3-485d-8184-91015c4dceca" id="id-5be1710d-25f3-485d-8184-91015c4dceca"></a>
 
 Now you can earn CAKE by trading certain PancakeSwap V3 pairs on BNB Chain and Ethereum!
 
@@ -28,11 +28,11 @@ Each campaign may have different eligible pairs. To check which pairs are eligib
 * Check the “Reward Breakdown” section of the [Trading Reward page](https://pancakeswap.finance/trading-reward/top-traders)
 * Look for the 💝 icon from the “Hot Token” list on the [Swap page](https://pancakeswap.finance/swap). Or use the filter to check pairs with trading rewards.
 
-## Check the number of rewards you potentially can win <a href="#7d7c7391-5454-4fa7-8928-c79885a00875" id="7d7c7391-5454-4fa7-8928-c79885a00875"></a>
+## Check the number of rewards you potentially can win <a href="#id-7d7c7391-5454-4fa7-8928-c79885a00875" id="id-7d7c7391-5454-4fa7-8928-c79885a00875"></a>
 
 You may check the number of rewards you have accumulated on the [Trading Reward page](https://pancakeswap.finance/trading-reward/top-traders).
 
-![](<../../../.gitbook/assets/image (2) (1) (1).png>)
+![](<../../../.gitbook/assets/image (2) (1) (1) (2).png>)
 
 Additionally, you may check the “Rewards Breakdown” section for a detailed view of each pair you traded.
 
@@ -48,13 +48,13 @@ To win a campaign and be able to claim all your accumulated rewards, you need to
 
 To check your rank and see if you are currently qualified, go to the [Trading Reward page](https://pancakeswap.finance/trading-reward/top-traders).
 
-![](<../../../.gitbook/assets/image (3) (1).png>)
+![](<../../../.gitbook/assets/image (3) (1) (4).png>)
 
 If you are not ranked high enough, a popup will inform you of the minimum rank to win this campaign and the end time for the current campaign.
 
 Keep trading to rank higher. And don’t forget to check back often to maintain your rank till the end of the campaign.
 
-## Claim your rewards <a href="#5a0d1633-dba9-46c0-919c-77fee912f986" id="5a0d1633-dba9-46c0-919c-77fee912f986"></a>
+## Claim your rewards <a href="#id-5a0d1633-dba9-46c0-919c-77fee912f986" id="id-5a0d1633-dba9-46c0-919c-77fee912f986"></a>
 
 ![](<../../../.gitbook/assets/image (5) (3).png>)
 

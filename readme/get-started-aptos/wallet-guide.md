@@ -237,13 +237,13 @@ Fewcha is a trusted crypto wallet optimized for Aptos and SUI ecosystem that unl
 
 3\. For the Recovery Phrase, please write it down or copy to save it somewhere that you can remember.
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 > * Safely backup your recovery phrases. If you lose your recovery phrase, you may lose access to your wallet and the crypto within it forever.&#x20;
 > * **NEVER** share your recovery phrases with anyone, under any circumstances.
 > * **NEVER** input your recovery phrase to a website or app, other than your wallet app**.**
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 4\. Click Finish to complete this setup process. And done! Once your wallet is created, you can access it at any time by clicking on the Fewcha Wallet icon on the extension bar.&#x20;
 

@@ -20,8 +20,8 @@ Please navigate to the relevant section for you and submit a form / follow the p
 
 1\. We're directing CAKE emission to gauges (liquidity pairs, position manager vaults, etc.) on Ethereum, BNB Chain, and Arbitrum
 
-{% content-ref url="gauges.md" %}
-[gauges.md](gauges.md)
+{% content-ref url="vecake-gauges.md" %}
+[vecake-gauges.md](vecake-gauges.md)
 {% endcontent-ref %}
 
 2\. We’re hosting token launchpad offerings (“Initial Farm Offerings, or IFOs”) across all chains we’re deployed on

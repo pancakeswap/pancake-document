@@ -24,7 +24,11 @@ veCAKE tokens serve a crucial role in PancakeSwap's governance, enabling you to 
 [gauges-voting](gauges-voting/)
 {% endcontent-ref %}
 
-**Vote Incentives:** Access additional incentives by claiming votes from other protocols through external markets.
+**Vote Incentives:** Access additional incentives by claiming bribes from our [veCAKE Managers](vecake-managers.md)
+
+{% content-ref url="bribes-vote-incentives.md" %}
+[bribes-vote-incentives.md](bribes-vote-incentives.md)
+{% endcontent-ref %}
 
 **Governance:** Vote on governance proposals for matters related to gauge approvals, protocol changes, emission adjustments, etc.
 

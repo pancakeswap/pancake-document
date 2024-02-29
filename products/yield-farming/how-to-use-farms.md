@@ -178,7 +178,7 @@ When you’re ready, click the **Enable** button and confirm your action in your
 
 3 - Type the amount of LP Tokens you would like to farm with into the field, or just click **Max** to use all of your LP Tokens.
 
-![](<../../.gitbook/assets/image (5) (1).png>)
+![](<../../.gitbook/assets/image (5) (1) (1).png>)
 
 4 - When you have the amount entered, the **Confirm** button will light up. Click it. Your wallet will ask you to confirm your action.
 
