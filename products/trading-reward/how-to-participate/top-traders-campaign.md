@@ -17,7 +17,7 @@ To check if there is an ongoing campaign. You can:
 *   Look for the 💝 icon from the “Hot Token” list on the [Swap page](https://pancakeswap.finance/swap). Or use the filter to check pairs with trading rewards.\
 
 
-    <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Start trading <a href="#id-5be1710d-25f3-485d-8184-91015c4dceca" id="id-5be1710d-25f3-485d-8184-91015c4dceca"></a>
 

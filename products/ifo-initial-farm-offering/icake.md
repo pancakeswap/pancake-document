@@ -36,7 +36,7 @@ Example:
 
 ### How to check the number of iCAKE I have?
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 You can check the number of iCAKE you have on the IFO page [here](https://pancakeswap.finance/ifo).
 
@@ -61,6 +61,6 @@ For example, if the ratio is 2x, and you have 1 veCAKE at the end of the next IF
 
 Between each IFO, the kitchen will optimise the "Ratio" based on various metrics. The adjustment will be published on all social channels.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 You can check the current "Ratio" number for iCAKE calculations by going to [the IFO page](https://pancakeswap.finance/ifo).
