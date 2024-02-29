@@ -1,4 +1,4 @@
-# ❓ FAQs
+# ❓ 大使计划 FAQs
 
 ### 成为 PancakeSwap 大使的条件是什么？&#x20;
 

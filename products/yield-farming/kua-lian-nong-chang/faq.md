@@ -14,7 +14,7 @@
 
 首次设置需要少量原生代币（例如，以太坊上的 ETH）。所以第一笔质押操作 gas 会稍微贵一些。&#x20;
 
-此外，跨链农场还涉及其他费用（主要是 gas 费用）。查看[此部分](kua-lian-nong-chang-faq.md#kua-lian-nong-chang-zhi-ya-xu-yao-shou-fei-ma)以了解更多信息。
+此外，跨链农场还涉及其他费用（主要是 gas 费用）。查看[此部分](faq.md#kua-lian-nong-chang-zhi-ya-xu-yao-shou-fei-ma)以了解更多信息。
 
 ### 为什么质押和解除质押需要 30 分钟才能完成？&#x20;
 

@@ -1,5 +1,7 @@
 # veCAKE 管理协议
 
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 veCAKE 不仅仅是一个产品，更是一个生态系统。&#x20;
 
 在我们之上还建立了 veCAKE 管理协议：&#x20;
@@ -8,7 +10,6 @@ veCAKE 不仅仅是一个产品，更是一个生态系统。&#x20;
 * 为 PancakeSwap 上的流动性提供者提供收益助推器&#x20;
 * 数据仪表板
 * 影响 CAKE 产出的一级和二级贿赂市场，以及
-* 更多精彩，敬请期待！
 
 这些协议（按字母顺序排列），将在下文中详细介绍，其中包括：
 

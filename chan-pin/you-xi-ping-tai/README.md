@@ -1,6 +1,6 @@
 # 🎮 游戏平台
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 [PancakeSwap Gaming](http://www.pancakeswap.games/) MarketPlace 是 PancakeSwap 的一个游戏发射平台，通过与成熟的第三方加密游戏开发商合作，为 PancakeSwap 社区带来有趣且引人入胜的游戏。&#x20;
 
@@ -10,7 +10,7 @@
 
 登陆游戏平台页面后，用户将看到目前在平台上已发布的游戏。每个游戏都有自己的分区。例如，以下页面介绍的是 [Pancake Protectors](http://www.pancakeswap.games/project/pancake-protectors)。用户可以在分区下查看游戏类型、游戏截图/视频等来预览游戏，还可以根据页面提供的标签查看各个游戏的特点。
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 点击 "立即开始(Play Now)" 即可进入游戏。在游戏平台上玩游戏需要配备一个 web3 钱包。所有列出的游戏均可在平台上直接游玩，无需下载。
 

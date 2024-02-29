@@ -1,8 +1,8 @@
-# 🧑🌾 初次农场发行- IFO
+# 🧑‍🌾 初次农场发行- IFO
 
 想要了解有关厨房的新币发行产品（“[初次农场发行或称作 IFO](https://pancakeswap.finance/ifo)”）的更多信息，请查看此 PDF：
 
-{% file src="../../.gitbook/assets/PancakeSwap IFOs One-Pager.pdf" %}
+{% file src="../../.gitbook/assets/PancakeSwap IFOs One-Pager (1).pdf" %}
 
 ### IFO 申请流程示例
 
@@ -28,7 +28,7 @@
 
 在以上流程的每一步，团队都会不遗余力地为您提供帮助——因为我们知道，对于创始人及其团队而言，IFO 或 TGE 的启动至关重要。
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

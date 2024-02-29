@@ -52,9 +52,9 @@
 
 bCAKE 激活已更新为全自动。
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="" width="174"><figcaption><p>V3 农场</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="174"><figcaption><p>V3 农场</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="174"><figcaption><p>V2, stableswap</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="174"><figcaption><p>V2, stableswap</p></figcaption></figure>
 
 
 

@@ -1,4 +1,4 @@
-# FAQ
+# 跨链 FAQ
 
 <figure><img src="../../.gitbook/assets/image (6) (3).png" alt=""><figcaption></figcaption></figure>
 
