@@ -53,5 +53,5 @@ PancakeSwap 智能路由是一种连接 V3、V2、稳定币兑换（BNB 链）�
 ## FAQ
 
 {% hint style="info" %}
-这部分内容迁移到了[这里](chang-jian-wen-ti-jie-da.md)。
+这部分内容迁移到了[这里](../../chan-pin/pancakeswap-exchange/jiao-yi-faq.md)。
 {% endhint %}

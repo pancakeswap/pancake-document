@@ -20,7 +20,7 @@ PancakeSwap 与 Binance Earn 合作提供简单赚币服务。PancakeSwap 用户
 
 **每日累积：**您可根据 APR 获得每日奖励，并可在质押期结束时领取奖励。质押时间越长，APR 越高。
 
-**通过 CAKE 锁仓提高 APR：**在我们的 [CAKE 锁仓池](https://pancakeswap.finance/pools) 中锁仓 CAKE 将提高 APR，增加您的简单赚币奖励。有关提高 APR 的更多信息，请前往 [常见问题解答(FAQ)](faq.md)。
+**通过 CAKE 锁仓提高 APR：**在我们的 [CAKE 锁仓池](https://pancakeswap.finance/pools) 中锁仓 CAKE 将提高 APR，增加您的简单赚币奖励。有关提高 APR 的更多信息，请前往 [常见问题解答(FAQ)](jian-dan-zhuan-bi-faq.md)。
 
 ### 简单赚币如何运作？&#x20;
 
