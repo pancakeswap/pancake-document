@@ -1,4 +1,4 @@
-# ⛽ Vecake/Gauges
+# ⛽ Vecake-Gauges
 
 如需从项目方角度了解有关 veCAKE 和 gauge 的更多信息，请查看此 PDF 文件：
 
@@ -6,8 +6,8 @@
 
 简单来说，从项目方的角度来看，有两种方法可以激励 PancakeSwap 上的流动性：&#x20;
 
-1. [将 CAKE 锁定](https://pancakeswap.finance/cake-staking)为 BNB 链上的 veCAKE，向 [您选择的 Gauge](https://pancakeswap.finance/gauges-voting) 投票&#x20;
-2. 在 [veCAKE 管理协议](../../chan-pin/vecake/vecake-guan-li-xie-yi.md) 上提供贿赂，激励其他人为 [您选择的 Gauge](https://pancakeswap.finance/gauges-voting) 投票&#x20;
+1. [将 CAKE 锁定](https://pancakeswap.finance/cake-staking)为 BNB 链上的 veCAKE，投票给 [您选定的 Gauge](https://pancakeswap.finance/gauges-voting) 投票&#x20;
+2. 在 [veCAKE 管理协议](../../chan-pin/vecake/vecake-guan-li-xie-yi.md) 上提供贿赂，激励其他人投票给 [您选定的 Gauge](https://pancakeswap.finance/gauges-voting) &#x20;
 
 这两种方法都将帮助 您选择的 Gauges / 流动性代币对，通过我们的 [农场](https://pancakeswap.finance/farms) 获得 CAKE 激励。注意所有的 Gauge 需要先成为 PancakeSwap 白名单上的一员。
 

@@ -1,6 +1,6 @@
 # 为项目激励流动性
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 希望通过 veCAKE 系统激励流动性的项目，请前往此页面：
 

@@ -66,6 +66,7 @@
       * [每周赚取 CAKE FAQ](chan-pin/vecake/mei-zhou-zhuan-qu-cake/mei-zhou-zhuan-qu-cake-faq.md)
     * [Gauges Voting](chan-pin/vecake/gauges-voting/README.md)
       * [Gauge Voting FAQ](chan-pin/vecake/gauges-voting/gauge-voting-faq.md)
+    * [贿选 (投票激励)](chan-pin/vecake/hui-xuan-tou-piao-ji-li.md)
     * [veCAKE 管理协议](chan-pin/vecake/vecake-guan-li-xie-yi.md)
     * [为项目激励流动性](chan-pin/vecake/wei-xiang-mu-ji-li-liu-dong-xing.md)
     * [veCAKE FAQ](chan-pin/vecake/faq.md)
