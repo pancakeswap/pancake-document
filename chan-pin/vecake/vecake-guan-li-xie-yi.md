@@ -1,6 +1,6 @@
 # veCAKE 管理协议
 
-<figure><img src="../../.gitbook/assets/image (1) (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (9).png" alt=""><figcaption></figcaption></figure>
 
 veCAKE 不仅仅是一个产品，更是一个生态系统。&#x20;
 

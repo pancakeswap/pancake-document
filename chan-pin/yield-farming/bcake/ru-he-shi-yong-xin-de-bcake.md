@@ -60,12 +60,12 @@ bCAKE 激活已更新为全自动。
 
 <figure><img src="../../../.gitbook/assets/image (3).png" alt="" width="174"><figcaption><p>仓位管理工具</p></figcaption></figure>
 
-质押完成后，就可以看到当前质押农场的助推倍数。要进一步了解 bCAKE 倍数的计算方法，请阅读[此处](bcake-faq.md)。&#x20;
+质押完成后，就可以看到当前质押农场的助推倍数。要进一步了解 bCAKE 倍数的计算方法，请阅读[此处](../../../products/yield-farming/bcake/chang-jian-wen-ti-jie-da.md)。&#x20;
 
 {% hint style="info" %}
 请注意，在对农场仓位、 veCAKE 质押进行任一操作后，将会根据农场和 CAKE staking 池的最新统计和数据，自动更新您的助推倍数。
 
-点击[这里](bcake-faq.md)了解更多。
+点击[这里](../../../products/yield-farming/bcake/chang-jian-wen-ti-jie-da.md)了解更多。
 {% endhint %}
 
 能够同时助推的农场数量不再受限制。只要 veCAKE 锁仓仓位是有效的，您就可以助推无限数量的农场、仓位管理工具仓位。

@@ -12,6 +12,6 @@ bCAKE - 农场收益助推器，具备自动计算、农场收益加成双重功
 [ru-he-shi-yong-xin-de-bcake.md](../../../chan-pin/yield-farming/bcake/ru-he-shi-yong-xin-de-bcake.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../../chan-pin/yield-farming/bcake/bcake-faq.md" %}
-[bcake-faq.md](../../../chan-pin/yield-farming/bcake/bcake-faq.md)
+{% content-ref url="chang-jian-wen-ti-jie-da.md" %}
+[chang-jian-wen-ti-jie-da.md](chang-jian-wen-ti-jie-da.md)
 {% endcontent-ref %}

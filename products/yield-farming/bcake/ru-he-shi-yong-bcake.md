@@ -40,12 +40,12 @@
 
 <figure><img src="../../../.gitbook/assets/bCAKE-pending-activation (1).png" alt=""><figcaption></figcaption></figure>
 
-准备就绪后，您会看到您当前质押的农场的可用提升倍数和提升后的 APR。 要了解有关如何计算 bCAKE 倍数的更多信息，请阅读[此处](../../../chan-pin/yield-farming/bcake/bcake-faq.md)。 要激活农场助推，请单击“Boost提升”按钮，然后在您的钱包确认交易。
+准备就绪后，您会看到您当前质押的农场的可用提升倍数和提升后的 APR。 要了解有关如何计算 bCAKE 倍数的更多信息，请阅读[此处](chang-jian-wen-ti-jie-da.md)。 要激活农场助推，请单击“Boost提升”按钮，然后在您的钱包确认交易。
 
 {% hint style="info" %}
 请注意，用户进行农场、 CAKE 锁仓调整操作后，您的倍数将自动更新，因前两者的统计及数据更新了。
 
-点击[这里](../../../chan-pin/yield-farming/bcake/bcake-faq.md)了解更多。
+点击[这里](chang-jian-wen-ti-jie-da.md)了解更多。
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/bCAKE-farm-number-limit.png" alt=""><figcaption></figcaption></figure>
@@ -60,4 +60,4 @@
 
 要取消设置农场助推器，只需单击 “Unset取消设置” 按钮，然后在您的钱包中确认上链。&#x20;
 
-请注意，在取消设置时，获得的 CAKE 将被收割到农场助推器合约中，并在下一次收割、存款或取款时自动发送到您的钱包。点击[这里](../../../chan-pin/yield-farming/bcake/bcake-faq.md)了解更多。
+请注意，在取消设置时，获得的 CAKE 将被收割到农场助推器合约中，并在下一次收割、存款或取款时自动发送到您的钱包。点击[这里](chang-jian-wen-ti-jie-da.md)了解更多。
