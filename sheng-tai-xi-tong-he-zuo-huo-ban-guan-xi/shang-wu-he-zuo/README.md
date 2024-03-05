@@ -1,6 +1,6 @@
 # 💼 商务合作
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 PancakeSwap (PCS) 是领先的多链去中心化交易所 (DEX)，目前已在以下区块链运作：
 
@@ -20,8 +20,8 @@ PancakeSwap (PCS) 是领先的多链去中心化交易所 (DEX)，目前已在�
 
 1. 我们正将 CAKE 激励导向以太链、BNB 链和 Arbitrum 上的 Gauges（流动性对、仓位管理资金库等）。
 
-{% content-ref url="gauges.md" %}
-[gauges.md](gauges.md)
+{% content-ref url="vecake-gauges.md" %}
+[vecake-gauges.md](vecake-gauges.md)
 {% endcontent-ref %}
 
 2. 我们正在部署的所有区块链上，提供新币发行产品（ "初次农场发行，或作 IFO" ）。
@@ -44,8 +44,8 @@ PancakeSwap (PCS) 是领先的多链去中心化交易所 (DEX)，目前已在�
 
 5. 我们正在 BNB 链上部署了一个 NFT 市场。了解我们的上市要求。
 
-{% content-ref url="../../contact-us/nft-shi-chang-ying-yong (1).md" %}
-[nft-shi-chang-ying-yong (1).md](<../../contact-us/nft-shi-chang-ying-yong (1).md>)
+{% content-ref url="nft-jiao-yi-shi-chang.md" %}
+[nft-jiao-yi-shi-chang.md](nft-jiao-yi-shi-chang.md)
 {% endcontent-ref %}
 
 对于商务合作常见问题，请查看：
@@ -58,7 +58,7 @@ PancakeSwap (PCS) 是领先的多链去中心化交易所 (DEX)，目前已在�
 
 精巧易用，越简单越安全！
 
-我们拥有超过 15 亿美元的 TVL，我们喜欢快速且负责任地行动。凭借在加密市场三年多的经验，从牛到熊，我们不间断地为我们的社区提供 Defi 服务。不要只听我们说，我们建议您查看我们的[审计报告](../../shen-ji-bao-gao.md)来验证我们平台的安全性。
+我们拥有超过 15 亿美元的 TVL，我们喜欢快速且负责任地行动。凭借在加密市场三年多的经验，从牛到熊，我们不间断地为我们的社区提供 Defi 服务。不要只听我们说，我们建议您查看我们的[审计报告](../../master/shen-ji-bao-gao.md)来验证我们平台的安全性。
 
 我们与合作项目的伙伴关系不仅限于流动性耕种计划（ "糖浆池和农场" ）和新币发行（ "初次农场发行"），我们真正认识到了社区对加密生态的影响——我们有专门的大使团队，协助我们把握服务的不同社区的脉动，听取社区的声音。我们会定期举办与合作伙伴频繁互动的活动，例如：AMA、meme 竞赛等等！
 

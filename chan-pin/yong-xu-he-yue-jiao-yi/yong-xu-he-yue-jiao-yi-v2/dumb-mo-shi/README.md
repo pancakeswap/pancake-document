@@ -1,6 +1,6 @@
 # Dumb 模式
 
-<figure><img src="../../../../.gitbook/assets/image (265).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (375).png" alt=""><figcaption></figcaption></figure>
 
 ### 概述&#x20;
 

@@ -22,7 +22,7 @@
 
 ### 如何让我的代币上市 PancakeSwap 交易所？
 
-任何人都可以在 PancakeSwap 交易所 “上市” 任何符合 BEP-20 标准的区块链代币。您不需要与我们联系或征得许可。 您只需要在[流动性池中添加流动性](../../products/pancakeswap-exchange/liu-dong-zi-jin-chi.md)即可。 然后，交易者可以通过输入代币的合约地址来查找并交易您的代币。
+任何人都可以在 PancakeSwap 交易所 “上市” 任何符合 BEP-20 标准的区块链代币。您不需要与我们联系或征得许可。 您只需要在[流动性池中添加流动性](../../chan-pin/pancakeswap-exchange/liu-dong-xing-zi-jin-chi.md)即可。 然后，交易者可以通过输入代币的合约地址来查找并交易您的代币。
 
 ### 如何添加我的代币到默认列表中？
 
@@ -40,7 +40,7 @@ PancakeSwap 交易所直接读取 Trust Wallet 代码库内的图标资料。请
 
 ### 用户在交易我的代币时遇到错误，怎么办？
 
-请在 [故障排除页面](../../click-here-for-help/troubleshooting-errors.md) 上查看常见错误列表与解决方法。
+请在 [故障排除页面](../../master/click-here-for-help/troubleshooting-errors.md) 上查看常见错误列表与解决方法。
 
 ### 为什么我的代币的某些统计数据没有显示在信息页面上？&#x20;
 

@@ -1,6 +1,6 @@
 # veCAKE 管理协议
 
-<figure><img src="../../.gitbook/assets/image (1) (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (386).png" alt=""><figcaption></figcaption></figure>
 
 veCAKE 不仅仅是一个产品，更是一个生态系统。&#x20;
 
@@ -22,7 +22,7 @@ veCAKE 不仅仅是一个产品，更是一个生态系统。&#x20;
 
 ### [Cakepie (由 Magpie 创建）](https://www.pancake.magpiexyz.io/stake)
 
-<figure><img src="../../.gitbook/assets/image (257).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (367).png" alt=""><figcaption></figcaption></figure>
 
 产品：&#x20;
 
@@ -32,7 +32,7 @@ veCAKE 不仅仅是一个产品，更是一个生态系统。&#x20;
 
 ### [Defi Wars](https://www.defiwars.xyz/wars/pancake)
 
-<figure><img src="../../.gitbook/assets/image (258).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (368).png" alt=""><figcaption></figcaption></figure>
 
 产品：
 
@@ -40,7 +40,7 @@ veCAKE 不仅仅是一个产品，更是一个生态系统。&#x20;
 
 ### [Hidden Hand](https://hiddenhand.finance/pancakeswap)
 
-<figure><img src="../../.gitbook/assets/image (259).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (369).png" alt=""><figcaption></figcaption></figure>
 
 产品：
 
@@ -48,7 +48,7 @@ veCAKE 不仅仅是一个产品，更是一个生态系统。&#x20;
 
 ### [StakeDAO](https://www.stakedao.org/lockers/cake)
 
-<figure><img src="../../.gitbook/assets/image (263).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (373).png" alt=""><figcaption></figcaption></figure>
 
 补充网站： [Votemarket](https://votemarket.stakedao.org/?market=cake\&solution=All)（一级贿赂市场）&#x20;
 

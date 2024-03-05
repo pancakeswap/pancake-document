@@ -1,6 +1,6 @@
 # 贿选 (投票激励)
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (384).png" alt=""><figcaption></figcaption></figure>
 
 除了通过我们的 [每周 CAKE 奖励池](mei-zhou-zhuan-qu-cake/) 赚取 CAKE 之外，veCAKE 持有者还可以通过投票给特定的 Gauges ，从而向外部贿选市场索要贿赂。这些贿赂通常由外部项目团队提供给我们的 [veCAKE 管理协议](vecake-guan-li-xie-yi.md)。&#x20;
 

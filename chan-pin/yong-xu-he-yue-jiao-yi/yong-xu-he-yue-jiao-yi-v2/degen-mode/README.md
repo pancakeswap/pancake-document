@@ -16,7 +16,7 @@ Degen 模式为我们的永续合约交易者提供以下玩法特色和优势�
 
 **更低的手续费** - 通过零滑点交易（zero-slippage trading），用户可以享受更好的交易体验。用户无需支付开仓费用。这也增加了用户的收益，因为省下来的开仓费现在可以作为保证金使用。
 
-**动态费用结构** - 为 Degen 模式量身定制的平仓动态费用结构，根据盈亏（PnL）收取手续费。有关动态费用结构的更多信息，请点击[此处](degen-mode-dynamic-fee.md)。
+**动态费用结构** - 为 Degen 模式量身定制的平仓动态费用结构，根据盈亏（PnL）收取手续费。有关动态费用结构的更多信息，请点击[此处](degen-mo-shi-dong-tai-fei-yong.md)。
 
 **适用的代币对** - Degen 模式目前适用于 BNB 链、Arbitrum、opBNB、Base 链上的 BTCUSD 和 ETHUSD 交易对。
 

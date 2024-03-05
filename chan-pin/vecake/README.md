@@ -4,7 +4,7 @@ description: 质押 CAKE，赚取 CAKE，还有更多！
 
 # 🔷 veCAKE
 
-<figure><img src="../../.gitbook/assets/image (244).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (345).png" alt=""><figcaption></figcaption></figure>
 
 [PancakeSwap 的治理](https://pancakeswap.finance/voting)
 
@@ -34,6 +34,6 @@ description: 质押 CAKE，赚取 CAKE，还有更多！
 
 如果有其他疑问，请查看我们的 FAQ:
 
-{% content-ref url="faq.md" %}
-[faq.md](faq.md)
+{% content-ref url="vecake-faq.md" %}
+[vecake-faq.md](vecake-faq.md)
 {% endcontent-ref %}

@@ -4,7 +4,7 @@ description: 使用您的 veCAKE 投票来决定 CAKE 激励该如何分发
 
 # Gauges Voting
 
-<figure><img src="../../../.gitbook/assets/image (239).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (359).png" alt=""><figcaption></figcaption></figure>
 
 #### 什么是 Gauge？&#x20;
 
@@ -27,7 +27,7 @@ Gauge 有两种类型—— "核心（core）" 和 "非核心（non-core）"。�
 
 ### 1- 了解投票时间表
 
-<figure><img src="../../../.gitbook/assets/image (250).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (360).png" alt=""><figcaption></figcaption></figure>
 
 Gauge 投票（Gauges weight voting）每两周进行一次。每一轮之开始时间，跟每一回收入分成开始时间一样，在每两周的周四 00:00 UTC。
 
@@ -43,7 +43,7 @@ Gauge 投票（Gauges weight voting）每两周进行一次。每一轮之开始
 
 ## 2- 取得资格
 
-<figure><img src="../../../.gitbook/assets/image (251).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (361).png" alt=""><figcaption></figcaption></figure>
 
 由于 veCAKE 数值会根据剩余锁仓时间的减少而逐渐减少，投票结果将在每轮投票结束时通过快照获取，这包括总 veCAKE 数值，以及每个用户持有的 veCAKE 数值。\
 \
@@ -62,7 +62,7 @@ Gauge 投票（Gauges weight voting）每两周进行一次。每一轮之开始
 
 前往 CAKE Staking 页面，向下滚动并找到 Gauges Voting 部分，然后点击 "查看 Gauges"。
 
-<figure><img src="../../../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (362).png" alt=""><figcaption></figcaption></figure>
 
 在左上角部分。您可以看到：&#x20;
 
@@ -102,7 +102,7 @@ Gauge Boost 是一个乘数，此数字会应用在单一个 Gauge 所获得的�
 
 ### 4 - 选择 Gauges 以进行投票
 
-<figure><img src="../../../.gitbook/assets/image (253).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (363).png" alt=""><figcaption></figcaption></figure>
 
 要对特定的 Gauge 进行投票，请向下滚动并查找 "我的持票（My Votes）"。点击 "Add Gauges (选择 gauges)"。&#x20;
 
@@ -112,7 +112,7 @@ Gauge Boost 是一个乘数，此数字会应用在单一个 Gauge 所获得的�
 
 ## 5 - 输入我要投给各 Gauges 的 veCAKE 票数百分比
 
-<figure><img src="../../../.gitbook/assets/image (254).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (364).png" alt=""><figcaption></figcaption></figure>
 
 添加好 Gauges 后，您可以选择要分配多少 % 数的 veCAKE 给各个 Gauges。
 
@@ -134,7 +134,7 @@ Gauge Boost 是一个乘数，此数字会应用在单一个 Gauge 所获得的�
 
 ## 6- 更改您的投票
 
-<figure><img src="../../../.gitbook/assets/image (255).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (365).png" alt=""><figcaption></figcaption></figure>
 
 提交投票后，您会看到您的投票状态显示在 "当前投票（CURRENT VOTES）" 列。剩余可用于投票的 veCAKE （remaining veCAKE）数值也会更新。
 

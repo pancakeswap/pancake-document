@@ -51,7 +51,7 @@
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/交易费用和路由6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/交易费用和路由6 (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

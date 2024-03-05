@@ -67,4 +67,4 @@ print(random_number)
 
 为了交叉验证 BTC 和 MADBTC 的历史价格，我们在下面提供了一张回测图表。
 
-<figure><img src="../../../../.gitbook/assets/image (226).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>

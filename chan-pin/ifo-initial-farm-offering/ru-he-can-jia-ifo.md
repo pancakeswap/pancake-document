@@ -14,7 +14,7 @@ PancakeSwap 上的 IFO 是初次农场发行。参与 IFO 让您可以第一时�
 
 要参加 IFO，您需要设定好 PancakeSwap 个人资料。 拥有个人资料可以保护 IFO 的安全并使其对每个人都公平。个人资料配置的小成本还有助于通过从创建的每个个人资料文件中燃烧一点 CAKE 来降低 CAKE 的总供应量。
 
-要创建个人资料，您可以在此处按照我们的如何设置 NFT 个人资料[指南](../../products/nft-ge-ren-dang-an-xi-tong/ru-he-she-zhi-nft-ge-ren-zi-liao.md)进行操作。
+要创建个人资料，您可以在此处按照我们的如何设置 NFT 个人资料[指南](../nft-shi-chang/nft-ge-ren-dang-an-xi-tong/ru-he-she-zhi-nft-ge-ren-zi-liao.md)进行操作。
 
 ### 在 CAKE 定期质押糖浆池中质押 CAKE 以获得 iCAKE
 
@@ -22,7 +22,7 @@ PancakeSwap 上的 IFO 是初次农场发行。参与 IFO 让您可以第一时�
 
 要获得 iCAKE，请转到此处的[ IFO 页面](https://pancakeswap.finance/ifo)。 找到 CAKE 定期质押糖浆池，然后点击 “Stake CAKE” 下的 “Locked” 继续。&#x20;
 
-要了解有关 iCAKE 以及如何计算 iCAKE 的更多信息，请查看此处的[文档](../../products/ifo-initial-farm-offering/icake.md)。
+要了解有关 iCAKE 以及如何计算 iCAKE 的更多信息，请查看此处的[文档](icake.md)。
 
 ### 准备额外的 CAKE 代币
 
@@ -36,7 +36,7 @@ PancakeSwap 上的 IFO 是初次农场发行。参与 IFO 让您可以第一时�
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (1) (2) (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (10).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -154,7 +154,7 @@ IFO 开始后，在公开销售页面能够实时看到叠加了 “超募手续
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="325"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (5).png" alt="" width="325"><figcaption></figcaption></figure>
 
 </div>
 
@@ -199,4 +199,4 @@ IFO 结束后，您将能够收集您的新代币。 您将获得多少代币取
 
 您可以为或使用您的新代币添加流动性，组成 LP 代币，并通过 LP 代币获得该代币对的交易手续费。在[此处](../pancakeswap-exchange/tian-jia-yi-chu-liu-dong-xing.md)阅读有关添加流动性的信息。&#x20;
 
-如果您已经为新代币添加了流动性，您还可以使用新的 LP 代币质押在农场并获得更多奖励！ 在[此处](../../products/yield-farming.md)阅读有关农场的信息。
+如果您已经为新代币添加了流动性，您还可以使用新的 LP 代币质押在农场并获得更多奖励！ 在[此处](../yield-farming/)阅读有关农场的信息。

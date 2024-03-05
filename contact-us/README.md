@@ -14,6 +14,6 @@
 
 ## 需要帮助？
 
-### [客户服务](<customer-support (1).md>)
+### [客户服务](customer-support.md)
 
-### [社交媒体与社区](<telegram (1).md>)
+### [社交媒体与社区](telegram.md)

@@ -1,6 +1,6 @@
 # 收入分成 FAQ
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 ### 如何计算份额 (rCAKE)？&#x20;
 

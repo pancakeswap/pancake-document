@@ -1,6 +1,6 @@
 # EVM 链与 Aptos 之间跨链
 
-<figure><img src="../../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 下方的指南将以 BNB 链为 EVM 链跨链的例子。同样的步骤可以通用于以太链。
@@ -16,11 +16,11 @@
 
 点击 "Connect 连接"，在 "EVM" 那栏选择你的钱包。然后在你的钱包弹出窗口确认并批准（approve）。(目前只支持 MetaMask。之后将会逐步支持更多的钱包。)
 
-<figure><img src="../../.gitbook/assets/bridging-wallet-connect-modal.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bridging-wallet-connect-modal (1).png" alt=""><figcaption></figcaption></figure>
 
 3 - 然后，我们需要连接我们的 Aptos 钱包。在钱包连接模式中，在 "Aptos" 栏选择你的钱包。然后在你的钱包弹出窗口中确认并批准（approve）。
 
-<figure><img src="../../.gitbook/assets/跨链 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/跨链 1 (2).png" alt=""><figcaption></figcaption></figure>
 
 4 - 点击上面 Token 符号选择栏中的 "v"，选择 "CAKE"。
 
@@ -73,7 +73,7 @@
 
 点击 "Connect 连接"，在 "EVM" 那栏选择你的钱包。然后在你的钱包弹出窗口确认并批准（approve）。(目前只支持 MetaMask。之后将会逐步支持更多的钱包。)
 
-<figure><img src="../../.gitbook/assets/bridging-wallet-connect-modal.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/bridging-wallet-connect-modal (1).png" alt=""><figcaption></figcaption></figure>
 
 3 - 然后，我们需要连接我们的 Aptos 钱包。在钱包连接模式中，在 "Aptos" 栏选择你喜欢的钱包。然后在你的钱包弹出窗口中确认和批准（approve）。
 

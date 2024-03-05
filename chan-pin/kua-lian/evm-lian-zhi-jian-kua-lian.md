@@ -1,6 +1,6 @@
 # EVM 链之间跨链
 
-<figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 接下来的指南中，我们将以 BNB 链和以太链为例，作为在 EVM 类型的链之间跨链的例子。同样的步骤将适用于我们未来部署的任何其他 EVM 链。
@@ -20,7 +20,7 @@
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (14) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (133).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -30,7 +30,7 @@
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (4).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -40,7 +40,7 @@
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
@@ -74,7 +74,7 @@
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (18) (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (163).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 
