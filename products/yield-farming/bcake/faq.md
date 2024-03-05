@@ -8,20 +8,26 @@ You may notice that you get different bCAKE boost multipliers when staking in di
 
 That's because bCAKE - Farm Boosters multipliers are calculated using the following metrics upon activation or refresh:
 
-* `userLpStakedAmount` : The amount of liquidity you are staking in the farm
-* `totalLpStakedAmount` : The total amount of liquidity staking in the farm or the current active amount of liquidity in the V3 LP pool. bCAKE V3 will choose the smaller number between the two
-* `userLockedAmount` : The number of CAKE you are staking in the fixed-term staking CAKE pool
-* `userLockedDuration` : The staking duration of your fixed-term staking position
-* `totalLockedAmount` : The total number of locked CAKE in the fixed-term staking CAKE pool
-* `averageLockedDuration` : The average staking duration of the fixed-term staking CAKE pool
+* `userLpBalanceInFarm` : The amount of liquidity you are staking in the farm.&#x20;
+  * `NonfungiblePositionManager.positions(uint256 tokenId).liquidity`
+* `totalLpBalanceInFarm` : The total amount of liquidity staking in the farm or the current active amount of liquidity in the V3 LP pool. bCAKE will choose the smaller number between the two.
+  * `MasterChefV3.poolInfo(uint256 pid).totalLiquidity`
+  * `PancakeV3Pool.liquidity`
+* `veCAKE.balanceOf(user)` : The real-time number of veCAKE you have
+* `veCAKE.totalSupply` : The real-time total supply of veCAKE
 
 The multiplier is calculated using the following method:
 
-1. `resultA = constantA * userLpStakedAmount`
-2. `resultB = (totalLpStakedAmount * userLockedAmount * userLockedDuration / constantB) / (totalLockedAmount * averageLockedDuration)`
-3. `boostMultiplier = min(userLpStakedAmount, (resultA + resultB)) / resultA`
+1. `resultA = constantA *`` ``userLpBalanceInFarm`
+2. `resultB = totalLpBalanceInFarm * veCAKE.balanceOf(user) / veCAKE.totalSupply * constantB`
+3. `boostMultiplier = min(``userLpBalanceInFarm, (resultA + resultB)) / resultA`
 
-`constantA` and `constantB` are set by the kitchen and subject to future adjustments based on community feedback and market condition. `constantB` varies between different farms to compensate for the LP price differences.
+`constantA` and `constantB` are set by the kitchen and subject to future adjustments based on community feedback and market conditions. `constantB` varies between different farms to compensate for the LP price differences.
+
+`constantA` and `constantB` can be fethced via:
+
+* `FarmBooster.cA`
+* `FarmBooster.cBOverride(uint256 pid) > 0 ? FarmBooster.cBOverride(uint256 pid) : FarmBooster.cB`
 
 But:
 
