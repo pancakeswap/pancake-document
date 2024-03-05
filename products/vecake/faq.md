@@ -113,3 +113,19 @@ All veCAKE holders (either native or migrated) will automatically enrolled in th
 {% content-ref url="../revenue-sharing/" %}
 [revenue-sharing](../revenue-sharing/)
 {% endcontent-ref %}
+
+#### Can multisig wallets be used for interacting with veCAKE?
+
+Yes
+
+However, there was a `noContract` modifier implemented in the veCAKE staking contract for addresses that are not whitelisted. To enable staking or migrating from fixed-term CAKE staking pool. All contract-based multisig wallets must perform a one-time, self-whitelisting action.
+
+To whitelist, visit either of the following pages:
+
+* [https://pancakeswap.finance/cake-staking](https://pancakeswap.finance/cake-staking)
+* [https://pancakeswap.finance/gauge-voting](https://pancakeswap.finance/gauge-voting)
+* [https://pancakeswap.finance/pools](https://pancakeswap.finance/pools)
+
+A prompt should appear. Click "Whitelist" and proceed with the tx in your multisig wallet.
+
+A tx will be fired to the owner of the veCAKE, which is a contract with a permission-less write function to allow any contract to perform self-whitelisting.
