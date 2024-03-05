@@ -88,6 +88,8 @@
     * [Entre EVMs](produtos/bridge-de-cake/entre-evms.md)
     * [Entre EVM e Aptos](produtos/bridge-de-cake/entre-evm-e-aptos.md)
     * [Perguntas Frequentes](produtos/bridge-de-cake/perguntas-frequentes.md)
+    * [Guia da Bridge Wormhole](produtos/bridge-de-cake/guia-da-bridge-wormhole.md)
+    * [Perguntas Frequentes da Bridge Wormhole](produtos/bridge-de-cake/perguntas-frequentes-da-bridge-wormhole.md)
   * [🤝 Staking Simples](produtos/staking-simples/README.md)
     * [Como começar o Staking Simples](produtos/staking-simples/como-comecar-o-staking-simples.md)
     * [Perguntas Frequentes](produtos/staking-simples/perguntas-frequentes.md)
