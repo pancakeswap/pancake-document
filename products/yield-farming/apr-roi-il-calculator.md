@@ -4,9 +4,9 @@ In V3 Liquidity and Farms, with the new non-fungible liquidity and customizable 
 
 To make liquidity provisioning smoother and less challenging, the new automatic APR displays with a brand new ROI calculator are available to use whenever you are providing liquidity or farming.
 
-## Automatic APR calculation and displays <a href="#12d7c8c1-d0d7-4d5e-99ea-5f5b7f5378e5" id="12d7c8c1-d0d7-4d5e-99ea-5f5b7f5378e5"></a>
+## Automatic APR calculation and displays <a href="#id-12d7c8c1-d0d7-4d5e-99ea-5f5b7f5378e5" id="id-12d7c8c1-d0d7-4d5e-99ea-5f5b7f5378e5"></a>
 
-<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (293).png" alt=""><figcaption></figcaption></figure>
 
 When you are providing liquidity, the automatic APR display reacts to your configuration changes and calculates the APR based on your settings.
 
@@ -29,14 +29,14 @@ You may find this APR display under:
 
 * “Add Liquidity” page - showing LP fee APR
 * Detail page of each of the existing liquidity position - showing LP fee APR\
-  ![](<../../.gitbook/assets/image (13).png>)
+  ![](<../../.gitbook/assets/image (326).png>)
 * Farm page, within the position under each farm - showing combined APR with LP fee and CAKE rewards\
-  ![](<../../.gitbook/assets/image (8) (1).png>)\
+  ![](<../../.gitbook/assets/image (138).png>)\
 
 
-## Improved ROI calculator <a href="#6f06dc46-ff61-4022-a29d-3ebe67a50607" id="6f06dc46-ff61-4022-a29d-3ebe67a50607"></a>
+## Improved ROI calculator <a href="#id-6f06dc46-ff61-4022-a29d-3ebe67a50607" id="id-6f06dc46-ff61-4022-a29d-3ebe67a50607"></a>
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
 
 Whenever you see the automatic APR displays, you can click and bring up the new ROI calculator. The new ROI calculator has been redesigned with serval added features to fit the needs for V3 concentrated liquidity providing and farming.
 
@@ -82,9 +82,9 @@ The number of returns and APY will be calculated based on your choice. If you ha
 In V3, LP fees and earned CAKE has to be manually harvested and compounded.
 {% endhint %}
 
-### &#x20;⓸ History Price <a href="#19cd815c-ef3d-496a-8469-fb0164f3946b" id="19cd815c-ef3d-496a-8469-fb0164f3946b"></a>
+### &#x20;⓸ History Price <a href="#id-19cd815c-ef3d-496a-8469-fb0164f3946b" id="id-19cd815c-ef3d-496a-8469-fb0164f3946b"></a>
 
-![](<../../.gitbook/assets/image (16).png>)
+![](<../../.gitbook/assets/image (305).png>)
 
 This is a view-only section to reference the historical price movement of the selected pair.
 
@@ -121,7 +121,7 @@ If you want to navigate the distribution chart:
 
 If you want to provide liquidity to the entire price range, click “Full Range”
 
-### ⓺ Flip the price direction to view prices with different base <a href="#5c3bdfaf-bd66-4942-873d-d617eeeab53d" id="5c3bdfaf-bd66-4942-873d-d617eeeab53d"></a>
+### ⓺ Flip the price direction to view prices with different base <a href="#id-5c3bdfaf-bd66-4942-873d-d617eeeab53d" id="id-5c3bdfaf-bd66-4942-873d-d617eeeab53d"></a>
 
 ![](../../.gitbook/assets/flip-directions.gif)
 
@@ -141,10 +141,10 @@ When you open the ROI calculator in the “Add Liquidity” window, or by viewin
 
 When you finish configuring in the ROI calculator, you can click “Apply Settings” to quickly apply the settings from the calculator back to the “Add Liquidity” window so you don’t need to match them manually.
 
-### ⓼ Calculate farming rewards and APR <a href="#584c385b-5f76-42e5-8751-8344d6bd4749" id="584c385b-5f76-42e5-8751-8344d6bd4749"></a>
+### ⓼ Calculate farming rewards and APR <a href="#id-584c385b-5f76-42e5-8751-8344d6bd4749" id="id-584c385b-5f76-42e5-8751-8344d6bd4749"></a>
 
 Farming rewards will be included in the calculations if you bring up the ROI calculator under the “Farm” page.
 
 You can expand the detail sections to see the rewards breakdown.
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure>

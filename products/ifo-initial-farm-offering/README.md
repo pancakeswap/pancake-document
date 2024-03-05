@@ -1,4 +1,4 @@
-# 🛍 IFO (Initial Farm Offering)
+# 🛍️ IFO (Initial Farm Offering)
 
 ![](../../.gitbook/assets/ifo-header.png)
 
@@ -20,7 +20,7 @@ Visit [https://pancakeswap.finance/ifo](https://pancakeswap.finance/ifo) to find
 
 1. [Complete your PancakeSwap profile setup](../nft-market/nft-profile-system/profile-guide.md).
 2. [Buy CAKE](https://exchange.pancakeswap.finance/?\_gl=1\*1bc8owa\*\_ga\*ODA4ODE5MjM4LjE2MDUxNTI3NTE.\*\_ga\_334KNG3DMQ\*MTYwNTQ4OTEwNy4yNi4xLjE2MDU0ODkxMjcuMA..#/swap) tokens
-3. [Lock CAKE in the CAKE syrup pool](../coming-soon/new-cake-pool/fixed-term-staking.md) to get iCAKE.
+3. [Lock CAKE in the CAKE syrup pool](../syrup-pool/new-cake-pool/fixed-term-staking.md) to get iCAKE.
 
 **During Sale:**
 

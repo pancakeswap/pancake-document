@@ -4,7 +4,7 @@ description: Use your veCAKE to vote and decide how CAKE emission is distributed
 
 # Gauges Voting
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 #### What is a gauge?
 
@@ -27,7 +27,7 @@ There are two types of gauges - ‘core’ and ‘non-core’. CAKE emissions to
 
 ### 1 - Understand the voting schedule
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 Gauges weight voting is conducted every two weeks. The beginning of an epoch, just like revenue sharing, is at 00:00 UTC every even Thursdays.
 
@@ -42,7 +42,7 @@ In the above example:
 
 ### 2 - Become eligible
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 Since veCAKE is gradually decreasing according to the remaining lock time, voting results will be taken via a snapshot at the end of every epoch. This includes the number of total veCAKE, and the veCAKE each user has.
 
@@ -61,7 +61,7 @@ In the above example:
 
 Head to "CAKE staking", scroll down and look for the "Gauges Voting" section, then click "Check Gauges".
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 At the top-left section. You may find:
 
@@ -100,7 +100,7 @@ Please note that the voting results are updated weekly. Numbers are calculated b
 
 ### 4 - Add gauges to vote
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 To vote on a gauge, scroll down and look for "My Votes" section. Click "Add Gauge".
 
@@ -110,7 +110,7 @@ To quickly locate a gauge, you can use filtering to filter gauges by blockchains
 
 ### 5 - Select how much % veCAKE to vote on each gauges
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 Once you have added the gauges, you may select how much % of your veCAKE goes to each of the gauges.
 
@@ -131,7 +131,7 @@ Once you have confirmed your decision, click "Submit vote" and confirm in your w
 
 ### 6 - Update your votes
 
-<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 Once your vote is submitted, you may see your votes being updated to "Current Votes". And the remaining veCAKE gets updated.
 

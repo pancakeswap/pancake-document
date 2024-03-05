@@ -1,4 +1,4 @@
-# 🎟 Lottery v2
+# 🎟️ Lottery
 
 ![](../../.gitbook/assets/lottery-v2-header.png)
 
@@ -19,7 +19,7 @@ Lottery ticket prices are set at the start of the new lottery round, and target 
 
 Buying multiple Lottery tickets at once gives a bulk discount on your purchase. You can buy as many as 100 tickets in one purchase, with the discount starting small at 2 tickets, and scaling up to 4.95% at 100 tickets.
 
-![](<../../.gitbook/assets/image (146).png>)
+![](<../../.gitbook/assets/image (107).png>)
 
 ## **How to win**
 
@@ -34,17 +34,17 @@ Match numbers, **from the left side of your ticket**, to the winning numbers dra
 
 Drawn numbers
 
-![Drawn Numbers](<../../.gitbook/assets/image (148).png>)
+![Drawn Numbers](<../../.gitbook/assets/image (285).png>)
 
 Your ticket's numbers
 
-![Your Ticket A](<../../.gitbook/assets/image (95) (1) (1).png>)
+![Your Ticket A](<../../.gitbook/assets/image (95) (1).png>)
 
 In the example above, Ticket A, five of the ticket's numbers match the same drawn numbers, in the exact same order: all except the fourth one.
 
 However, since the fourth digit does **not** match the drawn number, only the first three digits count as matching in order. This would win a "Match first 3" prize.
 
-![Your Ticket B](<../../.gitbook/assets/image (149).png>)
+![Your Ticket B](<../../.gitbook/assets/image (205).png>)
 
 Example Ticket B. Here's an unlucky one. Even though the last five digits match, the first digit doesn't match, so this ticket doesn't win anything at all.
 

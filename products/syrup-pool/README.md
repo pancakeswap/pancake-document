@@ -11,16 +11,16 @@ Some special pools let you stake other tokens besides CAKE, too!
 
 ### **How can I use Syrup Pools?**
 
-{% content-ref url="../coming-soon/new-cake-pool/" %}
-[new-cake-pool](../coming-soon/new-cake-pool/)
+{% content-ref url="new-cake-pool/" %}
+[new-cake-pool](new-cake-pool/)
 {% endcontent-ref %}
 
-{% content-ref url="../coming-soon/new-cake-pool/flexible-staking.md" %}
-[flexible-staking.md](../coming-soon/new-cake-pool/flexible-staking.md)
+{% content-ref url="new-cake-pool/flexible-staking.md" %}
+[flexible-staking.md](new-cake-pool/flexible-staking.md)
 {% endcontent-ref %}
 
-{% content-ref url="../coming-soon/new-cake-pool/fixed-term-staking.md" %}
-[fixed-term-staking.md](../coming-soon/new-cake-pool/fixed-term-staking.md)
+{% content-ref url="new-cake-pool/fixed-term-staking.md" %}
+[fixed-term-staking.md](new-cake-pool/fixed-term-staking.md)
 {% endcontent-ref %}
 
 {% content-ref url="syrup-pool-guide/" %}

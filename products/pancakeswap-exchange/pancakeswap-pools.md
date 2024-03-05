@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/liquidity-header.png)
 
-## Exchange V3 <a href="#03e94594-5a75-4687-b260-0dc69574b953" id="03e94594-5a75-4687-b260-0dc69574b953"></a>
+## Exchange V3 <a href="#id-03e94594-5a75-4687-b260-0dc69574b953" id="id-03e94594-5a75-4687-b260-0dc69574b953"></a>
 
 In the new Exchange V3, liquidity will be managed in the form of non-fungible positions. You will still earn a share in the fees while providing liquidity.
 
@@ -10,7 +10,7 @@ When you add your token to a Liquidity Pool you will receive Liquidity Provider 
 
 ### **Non-fungible liquidity positions**
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure>
 
 In V3, liquidity providers now have more control over what price range they want to deploy their liquidity. So, when you add your token to a Liquidity Pool in V3, you will create a new non-fungible liquidity position with its unique settings.
 
@@ -73,7 +73,7 @@ To make being a liquidity provider even more worth your while, you can also put 
 
 ### LP Tokens
 
-<figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
 
 As an example, if you deposited **CAKE** and **BNB** into a Liquidity Pool, you'd receive **CAKE-BNB LP** tokens.
 

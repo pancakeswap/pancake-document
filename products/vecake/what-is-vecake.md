@@ -1,6 +1,6 @@
 # What is veCAKE?
 
-<figure><img src="../../.gitbook/assets/image (187).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (341).png" alt=""><figcaption></figcaption></figure>
 
 ## **What is veCAKE?**
 

@@ -91,7 +91,7 @@ Trust Wallet is a popular wallet for smart devices. It supports DApps, NFT colle
 {% endtab %}
 
 {% tab title="Blocto" %}
-![](<../../.gitbook/assets/image (37) (2).png>)
+![](<../../.gitbook/assets/image (295).png>)
 
 Blocto offers a user-friendly solution and an all-in-one package for using Dapps and managing your assets.
 
@@ -122,7 +122,7 @@ Blocto offers a user-friendly solution and an all-in-one package for using Dapps
 
 2 - Click the plus button, then choose "APT - Aptos"
 
-![](../../.gitbook/assets/blocto-setup-guide-mobile-3.png)![](<../../.gitbook/assets/blocto-setup-guide-mobile-4 (2).png>)
+![](../../.gitbook/assets/blocto-setup-guide-mobile-3.png)![](<../../.gitbook/assets/blocto-setup-guide-mobile-4 (1).png>)
 
 
 
@@ -148,7 +148,7 @@ You can find more in-depth information about each wallet below, as well as downl
 
 {% tabs %}
 {% tab title="Petra" %}
-<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
 
 Petra wallet is an extension that lets you explore Aptos in your browser.
 
@@ -171,7 +171,7 @@ Petra wallet is an extension that lets you explore Aptos in your browser.
 {% endtab %}
 
 {% tab title="Martian" %}
-<figure><img src="../../.gitbook/assets/image (36) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (298).png" alt=""><figcaption></figcaption></figure>
 
 Martian is an Aptos Chain wallet that allows you to store, send, receive tokens and manage & mint NFTs. Its mobile version is coming soon.
 
@@ -203,7 +203,7 @@ Pontem Wallet is an Aptos Chain wallet that allows you to store, send, receive t
 {% endtab %}
 
 {% tab title="Fewcha" %}
-<figure><img src="../../.gitbook/assets/image (39) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
 
 Fewcha is a trusted crypto wallet optimized for Aptos and SUI ecosystem that unlocks a universe of applications in the web3.
 
@@ -237,23 +237,23 @@ Fewcha is a trusted crypto wallet optimized for Aptos and SUI ecosystem that unl
 
 3\. For the Recovery Phrase, please write it down or copy to save it somewhere that you can remember.
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
 
 > * Safely backup your recovery phrases. If you lose your recovery phrase, you may lose access to your wallet and the crypto within it forever.&#x20;
 > * **NEVER** share your recovery phrases with anyone, under any circumstances.
 > * **NEVER** input your recovery phrase to a website or app, other than your wallet app**.**
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
 
 4\. Click Finish to complete this setup process. And done! Once your wallet is created, you can access it at any time by clicking on the Fewcha Wallet icon on the extension bar.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (324).png" alt=""><figcaption></figcaption></figure>
 
 To start using PancakeSwap on Aptos, you will also need to have some $APT tokens to pay gas fees. You can learn how to get some here.
 {% endtab %}
 
 {% tab title="Blocto" %}
-![](<../../.gitbook/assets/image (37) (2).png>)
+![](<../../.gitbook/assets/image (295).png>)
 
 Blocto offers a user-friendly solution and an all-in-one package for using Dapps and managing your assets.
 
@@ -276,7 +276,7 @@ Blocto offers a user-friendly solution and an all-in-one package for using Dapps
 
 1 - After selecting "Blocto" in the wallet connection window, you should be presented with a sign-in window. Type in your Email address and click "Register". If you have previously setup a Blocto account, please type in the Email address and click "sign in".
 
-![](../../.gitbook/assets/blocto-setup-desktop-1.png)
+![](<../../.gitbook/assets/blocto-setup-desktop-1 (1).png>)
 
 
 

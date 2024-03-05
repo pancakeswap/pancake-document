@@ -4,7 +4,7 @@ description: veCAKE Staking and Farming Boost
 
 # How to use the new bCAKE
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
 Like iCAKE and vCAKE, bCAKE is a veCAKE staking benefit designed for our loyal CAKE holders. By locking CAKE, you get veCAKE, which automatically gives you bCAKE. You can boost earning from selected farms up to 2.5x.
 
@@ -14,7 +14,7 @@ The boost multiplier is calculated based on your veCAKE balance, and how much li
 
 #### **Initiate a fixed-term veCAKE staking position** <a href="#id-3e485cf0-a9c5-408d-ab19-3ad2a7852589" id="id-3e485cf0-a9c5-408d-ab19-3ad2a7852589"></a>
 
-![](<../../../.gitbook/assets/image (10).png>)
+![](<../../../.gitbook/assets/image (78).png>)
 
 If you haven't locked any CAKE in the veCAKE pool, click "Go to Pool" and follow the instructions to initiate a fixed-term staking position.
 
@@ -24,11 +24,11 @@ To learn more about how to initiate a veCAKE staking position, read [here](https
 
 You can only boost your earning from farms with bCAKE enabled. To look for those farms, check the APR section and look for a green APR figure with a green rocket icon.
 
-![](<../../../.gitbook/assets/image (11).png>)
+![](<../../../.gitbook/assets/image (83).png>)
 
 Alternatively, use the “Booster Available” filter within the “Farm Types” selector to quickly filter all the bCAKE-enabled farms.
 
-![](<../../../.gitbook/assets/image (9).png>)
+![](<../../../.gitbook/assets/image (76).png>)
 
 #### Stake your position
 

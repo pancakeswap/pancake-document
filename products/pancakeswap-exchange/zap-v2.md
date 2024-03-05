@@ -30,7 +30,7 @@ Visit the [Liquidity page](https://pancakeswap.finance/liquidity), and choose �
 
 Pick the trading pair you want to provide liquidity to by selecting two input tokens, checkout [Liquidity guide](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide) to learn more.
 
-![](<../../.gitbook/assets/zap-1 (2).png>)
+![](<../../.gitbook/assets/zap-1 (1).png>)
 
 Click the “Add Liquidity” button to proceed.
 
@@ -54,7 +54,7 @@ If the price impact is too high, Zap will protect you by slippage. Click “Redu
 
 If both tokens are checked, the amounts of the input tokens don't match a 50/50 split. Zap balancing will be introduced. You will see a message of “Some of your Token A will be converted to Token B”.
 
-![](<../../.gitbook/assets/zap-2 (1).png>)
+![](../../.gitbook/assets/zap-2.png)
 
 {% hint style="info" %}
 If you don’t want Zap to balance the number of tokens before adding liquidity, simply click “Don’t Convert”. In this case, Zap will adjust the number of input tokens to match a 50/50 split instead of trying to swap and rebalance.

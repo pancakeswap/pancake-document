@@ -1,6 +1,6 @@
 # 💹 Revenue Sharing
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 This product has now been upgraded to veCAKE. To learn more, check out the [doc for veCAKE](../vecake/)

@@ -6,7 +6,7 @@ description: >-
 
 # Using PancakeSwap without Centralized Exchanges
 
-![](<../../.gitbook/assets/how-to-pancakeswap-without-cex-header (1).png>)
+![](../../.gitbook/assets/how-to-pancakeswap-without-cex-header.png)
 
 PancakeSwap is a decentralized application. That means, unlike Binance or other centralized platforms, you don't need to register account to use it... you just need a crypto wallet. So how can you get crypto onto PancakeSwap without using a centralized exchange?
 
@@ -20,7 +20,7 @@ In the following tutorials, we are going to demonstrate moving USDT from a varie
 
 {% tabs %}
 {% tab title="🥞🌉 Pancake Bridge (recommanded)" %}
-![](<../../.gitbook/assets/image (29) (2).png>)
+![](<../../.gitbook/assets/image (168).png>)
 
 [**PancakeSwap Bridge**](http://bridge.pancakeswap.finance) — a native asset cross-chain bridge, powered by Stargate.
 

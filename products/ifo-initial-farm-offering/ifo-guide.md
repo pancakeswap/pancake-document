@@ -34,7 +34,7 @@ If you are currently staking your CAKE in a pool, unstake them prior to the IFO 
 
 Once you’ve followed the steps above, go back to the IFO page [here](https://pancakeswap.finance/ifo). Scroll down to the ‘How to Take Part’ section.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt="" width="375"><figcaption></figcaption></figure>
 
 You should see your progress is currently at step 3, Commit CAKE, like in the picture above. If for some reason you aren’t at step 3, go back through the guides linked up higher on this page.
 
@@ -124,7 +124,7 @@ If you don’t want to commit more CAKE to the IFO, you can skip ahead to the ne
 
 ### **Committing CAKE to the Private Sale**
 
-![](<../../.gitbook/assets/image (59) (3).png>)
+![](<../../.gitbook/assets/image (169).png>)
 
 1. The checkbox in the Private Sale card will light up if you are eligible to participate in the Private Sale. To use your CAKE in the Private Sale, click the **Commit** button under Private Sale. A window will appear.
 2.  In the new window, choose the amount of CAKE you want to commit in the field.

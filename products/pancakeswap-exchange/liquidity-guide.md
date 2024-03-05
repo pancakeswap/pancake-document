@@ -18,7 +18,7 @@ In this example, we will add V3 liquidity using ETH and USDC.
 
 1 - Visit the [Liquidity](https://pancakeswap.finance/liquidity) page.
 
-<figure><img src="../../.gitbook/assets/image (30) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (243).png" alt=""><figcaption></figcaption></figure>
 
 2 - Click the “Add Liquidity” button.
 
@@ -26,7 +26,7 @@ In this example, we will add V3 liquidity using ETH and USDC.
 
 3 - Using the top left Input, choose the two tokens in the trading pair you want to add liquidity. Here, we are going to use ETH and USDC as an example.
 
-![](<../../.gitbook/assets/image (5) (2).png>)
+![](<../../.gitbook/assets/image (126).png>)
 
 
 
@@ -36,7 +36,7 @@ In this example, we will add V3 liquidity using ETH and USDC.
 
 5 - You can confirm the version as well as the fee tier of the liquidity pool you are providing by looking for the “V3 LP - x% fee tier” displays.
 
-![](<../../.gitbook/assets/image (47).png>)
+![](<../../.gitbook/assets/image (43).png>)
 
 * If you want to customize the fee tier, click “More”, and choose the desired fee tier.
 * Please note that it is always advisable to provide liquidity to the most popular fee tier.
@@ -45,7 +45,7 @@ In this example, we will add V3 liquidity using ETH and USDC.
 
 6 - You can review and confirm the price range on the right-hand side displays.
 
-![](<../../.gitbook/assets/image (34) (2).png>)
+![](<../../.gitbook/assets/image (22).png>)
 
 * The chart shows the level of liquidity across all the price ranges. You can zoom in and out using the magnifier buttons. You can pan and navigate the chart by dragging the bottom x-axis.
 * If you want to customize the price range. Simply drag the handles, click the + and - buttons on the two prices, or click the two price numbers and enter them manually.
@@ -55,25 +55,25 @@ In this example, we will add V3 liquidity using ETH and USDC.
 
 7 - Enter an amount on one of the tokens under “Deposit Amount”. The other should be calculated and filled automatically. If one of the tokens does not have enough balance. You will see an error and the button is greyed out. Please enter a lower amount to proceed or use the “MAX” button to fill in the maximum available value.
 
-![](<../../.gitbook/assets/image (55).png>)
+![](<../../.gitbook/assets/image (47).png>)
 
 
 
 8 - Click the “Enable USDC” button. If you are adding liquidity against tokens other than ETH, you might need to click enable twice for each token in your pair. Your wallet will ask you to confirm the action.
 
-![](<../../.gitbook/assets/image (45).png>)
+![](<../../.gitbook/assets/image (98).png>)
 
 
 
 9 - The “Add” button will then light up. Click to proceed.
 
-![](<../../.gitbook/assets/image (39) (2).png>)
+![](<../../.gitbook/assets/image (26).png>)
 
 
 
 10 - A new pop-up window will appear to preview your liquidity position. If everything looks good, click “Add” again to proceed.
 
-![](<../../.gitbook/assets/image (37).png>)
+![](<../../.gitbook/assets/image (38).png>)
 
 
 
@@ -83,7 +83,7 @@ In this example, we will add V3 liquidity using ETH and USDC.
 
 12 - Soon after, you will see your new liquidity position on the “My Liquidity” page. And you will be able to check its detail by clicking on the position.
 
-<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>
 
 ### **Remove liquidity**
 
@@ -91,19 +91,19 @@ To remove liquidity.
 
 1 - Visit the [Liquidity](https://pancakeswap.finance/liquidity) page**.**
 
-<figure><img src="../../.gitbook/assets/image (25) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
 
 
 
 2 - Click on the position you want to remove liquidity from under “Your Liquidity". You may use the filter to quickly check all the V3 liquidity positions.
 
-![](<../../.gitbook/assets/image (35).png>)
+![](<../../.gitbook/assets/image (251).png>)
 
 
 
 3 - Click “Remove”. A new window will appear.
 
-![](<../../.gitbook/assets/image (17) (2).png>)
+![](<../../.gitbook/assets/image (286).png>)
 
 
 

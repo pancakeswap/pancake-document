@@ -44,8 +44,8 @@ Please navigate to the relevant section for you and submit a form / follow the p
 
 5\. We’re hosting an NFT Marketplace on BNB Chain. Find out about our listing requirements
 
-{% content-ref url="../contact-us/nft-market-applications.md" %}
-[nft-market-applications.md](../contact-us/nft-market-applications.md)
+{% content-ref url="nft-market-applications.md" %}
+[nft-market-applications.md](nft-market-applications.md)
 {% endcontent-ref %}
 
 For commonly asked business partnerships questions

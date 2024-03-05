@@ -1,6 +1,6 @@
 # FAQ
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
 
 ### **How do I bridge assets to Aptos and provide liquidity?**
 

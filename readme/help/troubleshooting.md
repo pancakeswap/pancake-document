@@ -24,7 +24,7 @@ You're trying to swap tokens, but your slippage tolerance is too low or liquidit
 2. Try trading a smaller amount at one time.
 3. Increase your slippage tolerance:
    1. Tap the settings icon on the liquidity page.
-   2. Increase your slippage tolerance a little and try again. ![](<../../.gitbook/assets/image (9) (4) (2) (1) (1) (1) (1) (1) (1) (1) (3).png>)
+   2. Increase your slippage tolerance a little and try again. ![](<../../.gitbook/assets/image (9) (4) (2) (4).png>)
 4. Lastly, try inputting an amount with fewer decimal places.
 {% endtab %}
 
@@ -54,7 +54,7 @@ Still doesn't work?
 1. Tap the settings icon on the liquidity page.
 2. Increase your slippage tolerance a little and try again.
 
-![](<../../.gitbook/assets/image (9) (4) (2) (1) (1) (1) (1) (1) (1) (1) (4).png>)
+![](<../../.gitbook/assets/image (9) (4).png>)
 {% endtab %}
 
 {% tab title="Reason" %}
@@ -88,7 +88,7 @@ For example, here's the ETH/WBNB pair: [https://bscscan.com/address/0x70d8929d04
 2. In **5. balanceOf**, input your wallet address and hit **Query**.
 3. Keep track of the number that's exported. It shows your balance within the LP in the uint256 format, which you'll need in the next step.
 
-![](<../../.gitbook/assets/image (7) (1) (1).png>)
+![](<../../.gitbook/assets/image (74).png>)
 
 #### Add or Remove Liquidity
 
@@ -102,7 +102,7 @@ Head to the router contract: [https://bscscan.com/address/0x05ff2b0db69458a0750b
 6. Add your wallet address in **to (address)**.
 7. Deadline must be an epoch time greater than the time the tx is executed.
 
-![](<../../.gitbook/assets/image (5) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (136).png>)
 
 {% hint style="warning" %}
 This can cause very high slippage, and can cause the user to lose some funds if frontrun
@@ -124,7 +124,7 @@ This happened because you started making a transaction, but you didn't sign and 
 
 Try modifying the amount on “To” field. Therefore putting "(estimated)" symbol on “From”. Then initiate the swap immediately.
 
-![](<../../.gitbook/assets/pancake-k-solution (2).png>)
+![](<../../.gitbook/assets/Pancake-K-Solution (2).png>)
 
 This usually happen when you are trying to swap a token with its own fee.
 
@@ -262,7 +262,7 @@ Try manually increasing the **gas limit** (not gas price!) in your wallet before
 
 A limit of 200000 is usually enough.
 
-![](<../../.gitbook/assets/image (2) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (21).png>)
 
 The above example is from Metamask; check your wallet's documentation if you aren't sure how to adjust the gas limit.
 {% endtab %}

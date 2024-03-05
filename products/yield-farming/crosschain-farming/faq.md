@@ -1,6 +1,6 @@
 # FAQ
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (3).png" alt=""><figcaption><p>\</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (101).png" alt=""><figcaption><p>\</p></figcaption></figure>
 
 ### What should I do on PancakeSwap on other blockchains?
 

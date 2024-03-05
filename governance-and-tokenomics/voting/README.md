@@ -1,6 +1,6 @@
 # Governance
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 Voting gives a voice to the PancakeSwap community, letting the community have a say in how PancakeSwap develops into the future.
 

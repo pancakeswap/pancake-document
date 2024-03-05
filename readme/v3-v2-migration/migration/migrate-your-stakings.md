@@ -31,7 +31,7 @@ Go to [https://pancakeswap.finance/migration](https://pancakeswap.finance/migrat
 
 There are two steps in the migration helper. In the first step, you should see a list of three CAKE syrup pools and farms you are currently staking.
 
-![](<../../../.gitbook/assets/migration-helper-steps-guide-3 (2).png>)
+![](../../../.gitbook/assets/migration-helper-steps-guide-3.png)
 
 Click "**Unstake All**" on each of the farms and pools to unstake all your assets.
 
@@ -62,12 +62,12 @@ For CAKE syrup pool. Please:
 
 
 {% hint style="info" %}
-The locked (fixed-term) staking option will become available a few days after the migration. You will be able to convert your flexible staking position to a locked one. To learn more about the new CAKE syrup pool with fixed-term staking, please check out [this doc](../../../products/coming-soon/new-cake-pool/).
+The locked (fixed-term) staking option will become available a few days after the migration. You will be able to convert your flexible staking position to a locked one. To learn more about the new CAKE syrup pool with fixed-term staking, please check out [this doc](../../../products/syrup-pool/new-cake-pool/).
 {% endhint %}
 {% endtab %}
 
 {% tab title="Farms" %}
-![](<../../../.gitbook/assets/migration-helper-steps-guide-8 (2).png>)
+![](../../../.gitbook/assets/migration-helper-steps-guide-8.png)
 
 For farms, please:
 
@@ -79,7 +79,7 @@ For farms, please:
 
 ### 4. Done!
 
-![](../../../.gitbook/assets/migration-helper-steps-guide-9.png)
+![](<../../../.gitbook/assets/migration-helper-steps-guide-9 (1).png>)
 
 You are now staking in the new MasterChef and continue earning CAKE rewards! Click "**Finish**" to go back and explore some other great products PancakeSwap offers.
 

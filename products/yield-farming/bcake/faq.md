@@ -60,7 +60,7 @@ On top of that, the kitchen will also monitor all bCAKE-enabled farming position
 ### Why I'm not able to boost a position
 
 1. Farm booster is only available for selected farms. More farms will be made available in the future. For now, **look for the green APR figure with a green rocket icon.**\
-   ![](<../../../.gitbook/assets/bCAKE-boost-tag (1).png>)\
+   ![](../../../.gitbook/assets/bCAKE-boost-tag.png)\
 
 2. Due to multiple contracts' involvement, some contract interactions require slightly more gas tokens (BNB). So please make sure you have enough BNB in your wallet. If the error persists, try manually increase the gas limit of the transaction.
 

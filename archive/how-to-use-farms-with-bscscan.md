@@ -1,6 +1,6 @@
 # How to Use Farms with BscScan
 
-![](../../.gitbook/assets/how-to-yield-farms-bscscan-header.png)
+![](../.gitbook/assets/how-to-yield-farms-bscscan-header.png)
 
 Since it requires several steps, using Farms with PancakeSwap can seem intimidating at first. This guide will walk you through using the Farms contract directly through BscScan.
 
@@ -16,7 +16,7 @@ To interact correctly with the farming smart contract, you’ll need the matchin
 
 2\. **Control**/**command** + **F** and search for your pair by ticker (not project name). For example, 'CAKE-BUSD'.
 
-![](<../../.gitbook/assets/image (112).png>)
+![](<../.gitbook/assets/image (71).png>)
 
 3\. Write down or copy the PID number—in this case 389—somewhere you can access it easily. You'll need this later.
 
@@ -30,7 +30,7 @@ The address for the main staking contract is: **0x73feaa1eE314F8c655E354234017bE
 
 But assuming you'd like to confirm that, visit the [PancakeSwap: Main Staking Contract BscScan page](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#writeContract). You'll see the address in the top-left. Click the **pages icon** to copy this to clipboard. You'll need it soon.
 
-![](<../../.gitbook/assets/image (116).png>)
+![](<../.gitbook/assets/image (77).png>)
 
 ### Open the contract for your LP Token
 
@@ -42,25 +42,25 @@ You'll need to approve the smart contract for the LP Token you wish to commit to
 
 2\. **Control**/**command** + **F** and search for your pair by ticker (not project name). For example, 'CAKE-BNB'
 
-![](<../../.gitbook/assets/image (132).png>)
+![](<../.gitbook/assets/image (175).png>)
 
 3\. When you have the code for the LP pair you're looking for up, find the address after "56:". This will be your contract address.
 
-![](<../../.gitbook/assets/image (133).png>)
+![](<../.gitbook/assets/image (49).png>)
 
 ### From the UI
 
 1\. First, visit the [PancakeSwap Farms page](https://pancakeswap.finance/farms) and search for your chosen pair using the "SEARCH" field in the top right. We're using CAKE-BUSD for this example.
 
-![](<../../.gitbook/assets/image (113).png>)
+![](<../.gitbook/assets/image (82).png>)
 
 2\. Click **Details** to expand the row to show more information.
 
-![](<../../.gitbook/assets/image (114).png>)
+![](<../.gitbook/assets/image (236).png>)
 
 3\. Click **View Contract** to open the smart contract on BscScan.
 
-![](<../../.gitbook/assets/image (115).png>)
+![](<../.gitbook/assets/image (145).png>)
 
 ### Giving permission to the LP Token contract
 
@@ -68,7 +68,7 @@ Now that you have your LP Token's contract open on BscScan, you're going to appr
 
 1\. On the LP Token's contract page, go to **Contract**, and then **Write Contract**.
 
-![](<../../.gitbook/assets/image (117).png>)
+![](<../.gitbook/assets/image (304).png>)
 
 2\. Click **Connect to Web3** to connect MetaMask.
 
@@ -78,11 +78,11 @@ Confirm the connection.
 
 3\. Under function 1, “approve”, you’ll see “spender:address”. Paste in the Main Staking Contract’s contract address you copied to clipboard earlier.
 
-![](<../../.gitbook/assets/image (118).png>)
+![](<../.gitbook/assets/image (225).png>)
 
 5\. You’re also going to need to approve the amount of LP Tokens the contract can spend. In the value field, you’ll need to enter the amount in Wei. You can use the [BscScan Unit Converter](https://www.bscscan.com/unitconverter) to easily change your amount into Wei. Here we'll use 5 CAKE-BUSD LP Tokens.
 
-![](<../../.gitbook/assets/image (158).png>)
+![](<../.gitbook/assets/image (158) (1).png>)
 
 {% hint style="warning" %}
 You can also use `-1` as the value to give unlimited spend approval. This does not mean you will spend everything by default, but only that a transaction of any size using this contract will be allowed by your wallet.
@@ -96,27 +96,27 @@ With the Main Staking Contract now approved to spend your LP Tokens, it's time t
 
 1\. Back on the [PancakeSwap: Main Staking Contract BscScan page](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#writeContract), go to **Contract**, and then **Write Contract**.
 
-![](<../../.gitbook/assets/image (117).png>)
+![](<../.gitbook/assets/image (304).png>)
 
 2\. Click **Connect to Web3** to connect MetaMask.
 
 3\. Scroll to function 2, "deposit", and type your PID into the "\_pid" field.
 
-![](<../../.gitbook/assets/image (119).png>)
+![](<../.gitbook/assets/image (84).png>)
 
 If you didn't copy down your PID earlier, you can learn how to get it in the **Finding Farm process identifier** section higher up this page.
 
 4\. Underneath \_pid you'll see "\_amount". Enter the amount for the LP contract to spend that you approved earlier.
 
-![](<../../.gitbook/assets/image (120).png>)
+![](<../.gitbook/assets/image (257).png>)
 
 5\. Check the information and click **Write**. Confirm your action in MetaMask.
 
-![](<../../.gitbook/assets/image (121).png>)
+![](<../.gitbook/assets/image (57).png>)
 
 6\. You can confirm your deposit worked by clicking **View your transaction**.
 
-![](<../../.gitbook/assets/image (122).png>)
+![](<../.gitbook/assets/image (190).png>)
 
 ## Withdrawing from a Pool
 
@@ -124,27 +124,27 @@ Withdrawing your LP Tokens from a Pool is very similar to making a deposit. The 
 
 1\. Back on the [PancakeSwap: Main Staking Contract BscScan page](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#writeContract), go to **Contract**, and then **Write Contract**.
 
-![](<../../.gitbook/assets/image (117).png>)
+![](<../.gitbook/assets/image (304).png>)
 
 2\. Click **Connect to Web3** to connect MetaMask.
 
 3\. Scroll all the way down to function 15, "withdraw", and type your PID into the "\_pid" field.
 
-![](<../../.gitbook/assets/image (123).png>)
+![](<../.gitbook/assets/image (166).png>)
 
 If you didn't copy down your PID earlier, you can learn how to get it in the **Finding Farm process identifier** section higher up this page.
 
 4\. Underneath \_pid you'll see "\_amount". Enter the amount of LP you'd like to withdraw from the Pool.
 
-![](<../../.gitbook/assets/image (124).png>)
+![](<../.gitbook/assets/image (37).png>)
 
 5\. Check the information and click **Write**. Confirm your action in MetaMask.
 
-![](<../../.gitbook/assets/image (121).png>)
+![](<../.gitbook/assets/image (57).png>)
 
 6\. You can confirm your withdrawal worked by clicking **View your transaction**.
 
-![](<../../.gitbook/assets/image (122).png>)
+![](<../.gitbook/assets/image (190).png>)
 
 
 
@@ -160,7 +160,7 @@ The PancakeSwap team strongly suggests avoiding this function unless advised to 
 
 ‌1. On the [PancakeSwap: Main Staking Contract BscScan page](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#writeContract), go to **Contract**, and then **Write Contract**.
 
-![](<../../.gitbook/assets/image (117).png>)
+![](<../.gitbook/assets/image (304).png>)
 
 2\. Click **Connect to Web3** to connect MetaMask.
 
@@ -168,14 +168,14 @@ The PancakeSwap team strongly suggests avoiding this function unless advised to 
 
 ‌3. Scroll down to function 4, "emergencyWithdraw", and type your PID into the "\_pid" field.
 
-![](<../../.gitbook/assets/image (125).png>)
+![](<../.gitbook/assets/image (275).png>)
 
 If you didn't copy down your PID earlier, you can learn how to get it in the **Finding Farm process identifier** section higher up this page.
 
 5\. Check the information and click **Write**. Confirm your action in MetaMask.
 
-![](<../../.gitbook/assets/image (121).png>)
+![](<../.gitbook/assets/image (57).png>)
 
 6\. You can confirm your withdrawal worked by clicking **View your transaction**.
 
-![](<../../.gitbook/assets/image (122).png>)
+![](<../.gitbook/assets/image (190).png>)

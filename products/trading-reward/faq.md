@@ -4,7 +4,7 @@ description: Trading Reward FAQ
 
 # FAQ
 
-<figure><img src="../../.gitbook/assets/faq-tradingreward.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/faq-tradingreward (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Generic
 
@@ -49,7 +49,7 @@ You may need to increase your veCAKE. Simply follow the instructions on the page
 
 #### Why is it telling me I have additional rewards that can not be claimed?
 
-![](<../../.gitbook/assets/image (69).png>)
+![](<../../.gitbook/assets/image (227).png>)
 
 The amount of veCAKE at snapshot time will determine the maximum amount of rewards you can earn from the campaign. Check out the footnote from the “Max Reward Cap” section.
 

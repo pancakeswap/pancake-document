@@ -4,7 +4,7 @@ description: Bridge CAKE between Aptos and EVM chains
 
 # Between EVM and Aptos
 
-<figure><img src="../../.gitbook/assets/image (37) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 The following guide uses BNB Chain as an example of an EVM chain. The same process can be applied to Ethereum.
@@ -22,7 +22,7 @@ Then open the [PancakeSwap CAKE Bridge](https://bridge.pancakeswap.finance/)
 
 Click "Connect" and choose the wallet you prefer under the "EVM" section. Then confirm and approve in your wallet popup. (As of writing, only MetaMask is supported. Support for more wallets is coming soon)
 
-![](<../../.gitbook/assets/bridging-wallet-connect-modal (1).png>)
+![](../../.gitbook/assets/bridging-wallet-connect-modal.png)
 
 
 
@@ -30,13 +30,13 @@ Click "Connect" and choose the wallet you prefer under the "EVM" section. Then c
 
 In the wallet connect modal, choose the wallet you prefer under the "Aptos" section. Then confirm and approve in your wallet popup.
 
-![](<../../.gitbook/assets/bridging-default-state (1).png>)
+![](<../../.gitbook/assets/bridging-default-state (2).png>)
 
 
 
 4 - Click the "v" in the upper token selection field and choose "CAKE".
 
-![](../../.gitbook/assets/upper-field.png)
+![](<../../.gitbook/assets/upper-field (1).png>)
 
 
 
@@ -97,7 +97,7 @@ Then open the [PancakeSwap CAKE Bridge](https://bridge.pancakeswap.finance/)
 
 Click "Connect" and choose the wallet you prefer under the "EVM" section. Then confirm and approve in your wallet popup. (As of writing, only MetaMask is supported. Support for more wallets is coming soon)
 
-![](../../.gitbook/assets/bridging-wallet-connect-modal.png)
+![](<../../.gitbook/assets/bridging-wallet-connect-modal (1).png>)
 
 
 
@@ -105,7 +105,7 @@ Click "Connect" and choose the wallet you prefer under the "EVM" section. Then c
 
 In the wallet connect modal, choose the wallet you prefer under the "Aptos" section. Then confirm and approve in your wallet popup.
 
-![](../../.gitbook/assets/bridging-default-state.png)
+![](<../../.gitbook/assets/bridging-default-state (1).png>)
 
 
 

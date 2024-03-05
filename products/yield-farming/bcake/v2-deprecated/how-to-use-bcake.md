@@ -12,7 +12,7 @@ Similar to iCAKE and vCAKE, bCAKE is also a benefit designed for users who lock 
 
 If you haven't locked any CAKE in the CAKE staking pool, click "Go to Pool" and follow the instructions to initiate a fixed-term staking position.
 
-To learn more about how to do fixed-term CAKE staking, read [here](../../../coming-soon/new-cake-pool/#fixed-term-staking).
+To learn more about how to do fixed-term CAKE staking, read [here](../../../syrup-pool/new-cake-pool/#fixed-term-staking).
 
 ### Enable farm boosters
 
@@ -36,7 +36,7 @@ Click "Migrate" and follow the step-by-step guide to complete the migrations. Yo
 
 ## Activate Boosters
 
-![](../../../../.gitbook/assets/bCAKE-pending-activation.png)
+![](<../../../../.gitbook/assets/bCAKE-pending-activation (1).png>)
 
 Once ready, you should see the available boost multiplier and the boosted APR for the farm you are currently staking. To learn more about how the bCAKE multiplier is calculated, read [here](../faq.md#how-are-the-bcake-multipliers-calculated).
 
@@ -56,7 +56,7 @@ You will need to unset an active booster in order to activate boosters on other 
 
 ## Unset Boosters
 
-![](../../../../.gitbook/assets/bCAKE-pending-unset.png)
+![](<../../../../.gitbook/assets/bCAKE-pending-unset (1).png>)
 
 To unset a farm booster, simply click the "Unset" button, and confirm the transaction from your wallet.
 

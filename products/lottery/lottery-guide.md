@@ -1,4 +1,4 @@
-# How to Play Lottery v2
+# How to Play Lottery
 
 ![](../../.gitbook/assets/how-to-lottery-header.png)
 
@@ -16,13 +16,13 @@ The Lottery has changed a little since its first iteration. Lottery v2 lets you 
 
 ‌1. Visit the[ PancakeSwap Lottery page](https://pancakeswap.finance/lottery) and look at the top of the page. You'll see the current round's prize pool shown in (estimated) US dollar value.
 
-![](<../../.gitbook/assets/image (93).png>)
+![](<../../.gitbook/assets/image (213).png>)
 
 This is the amount to be shared between all winners.
 
 ‌2. A little lower down the page you'll find the remaining time before the current round is drawn.
 
-![](<../../.gitbook/assets/image (94).png>)
+![](<../../.gitbook/assets/image (234).png>)
 
 Remember, a lot can change in the remaining time. Many more tickets may be sold. Each sold ticket both increases the prize pool, and lowers the odds of an individual ticket winning.
 
@@ -42,15 +42,15 @@ You can choose to either randomize your lottery ticket numbers, or to choose you
 
 1\. On the[ PancakeSwap Lottery page](https://pancakeswap.finance/lottery), click the **Buy Tickets** button at the top of the page (there's another lower on the page also).
 
-![](<../../.gitbook/assets/image (96).png>)
+![](<../../.gitbook/assets/image (42).png>)
 
 There is a time between rounds where purchasing tickets isn't possible. Just check back after the countdown if that's the case.
 
-![](<../../.gitbook/assets/image (97).png>)
+![](<../../.gitbook/assets/image (193).png>)
 
 2\. A window will open letting you choose how many ticket to buy. Type how many tickets you'd like to buy into the field. You can also use the preset buttons underneath.
 
-![](<../../.gitbook/assets/image (142).png>)
+![](<../../.gitbook/assets/image (86).png>)
 
 3\. Before you continue, it's worth considering the bulk purchase discounts. The more tickets you buy, the greater the discount.
 
@@ -58,7 +58,7 @@ The discount starts at 2 tickets, and scales all the way to 100 tickets where yo
 
 4\. When you're happy with the number of tickets you want to buy, click **Confirm** and confirm your action in your wallet.
 
-![](<../../.gitbook/assets/image (143).png>)
+![](<../../.gitbook/assets/image (91).png>)
 {% endtab %}
 
 {% tab title="Manual ticket numbers" %}
@@ -66,15 +66,15 @@ The discount starts at 2 tickets, and scales all the way to 100 tickets where yo
 
 1\. On the[ PancakeSwap Lottery page](https://pancakeswap.finance/lottery), click the **Buy Tickets** button at the top of the page (there's another lower on the page also).
 
-![](<../../.gitbook/assets/image (96).png>)
+![](<../../.gitbook/assets/image (42).png>)
 
 There is a time between rounds where purchasing tickets isn't possible. Just check back after the countdown if that's the case.
 
-![](<../../.gitbook/assets/image (97).png>)
+![](<../../.gitbook/assets/image (193).png>)
 
 2\. A window will open letting you choose how many ticket to buy. Type how many tickets you'd like to buy into the field. You can also use the preset buttons underneath.
 
-![](<../../.gitbook/assets/image (142).png>)
+![](<../../.gitbook/assets/image (86).png>)
 
 3\. Before you continue, it's worth considering the bulk purchase discounts. The more tickets you buy, the greater the discount.
 
@@ -82,7 +82,7 @@ The discount starts at 2 tickets, and scales all the way to 100 tickets where yo
 
 4\. To customize the numbers on your tickets, click the **View/Edit Numbers** button.
 
-![](<../../.gitbook/assets/image (144).png>)
+![](<../../.gitbook/assets/image (81).png>)
 
 5\. A new window will open showing your tickets. Click onto a number for any ticket to change the number in that position.
 
@@ -92,11 +92,11 @@ You can randomize your numbers again by clicking **Randomize**, or go back if yo
 
 You'll get a warning if you create duplicate tickets. It's possible your duplicate tickets will win. In this case your tickets will share in the prize pool for their bracket.
 
-![](<../../.gitbook/assets/image (103).png>)
+![](<../../.gitbook/assets/image (39).png>)
 
 6\. When you're happy with your numbers, click the **Confirm and buy** button.
 
-![](<../../.gitbook/assets/image (145).png>)
+![](<../../.gitbook/assets/image (202).png>)
 
 Confirm the action in your wallet.
 {% endtab %}
@@ -108,11 +108,11 @@ You can view your tickets after buying them before the round's numbers are drawn
 
 1\. Click **View Your Tickets** in the "Next Draw" area of the Lottery page.
 
-![](<../../.gitbook/assets/image (108).png>)
+![](<../../.gitbook/assets/image (279).png>)
 
 2\. A window will open showing all of your tickets and their numbers. It'll also give you the option to buy more tickets if you'd like.
 
-![](<../../.gitbook/assets/image (109).png>)
+![](<../../.gitbook/assets/image (226).png>)
 
 ## When the round ends and winning numbers are drawn
 

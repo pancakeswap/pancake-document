@@ -208,7 +208,7 @@ Alternatively, you can head to Factory V2 ([Bsc](https://bscscan.com/address/0xc
 
 #### Check which token has been deposited and transfer the other token into the pair manually
 
-![](<../../.gitbook/assets/image (181).png>)
+![](<../../.gitbook/assets/image (335).png>)
 
 From the token balance field on BscScan, you can check which token has been deposited into the pool. Usually, it should be the paired token. (Like WBNB, USDT, etc…)
 

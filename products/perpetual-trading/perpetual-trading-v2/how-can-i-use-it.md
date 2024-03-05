@@ -4,7 +4,7 @@ description: How to use V2 Perpetuals Trading
 
 # How can I use it?
 
-![](../../../.gitbook/assets/how-to-pancakeswap-without-cex-header.png)
+![](<../../../.gitbook/assets/how-to-pancakeswap-without-cex-header (1).png>)
 
 Using this functionality is really easy (the difficult thing is to trade well). We will only have to follow a series of steps so that our experience is complete. For more information, please visit the [V2 Glossary](perpetuals-glossary.md).
 
