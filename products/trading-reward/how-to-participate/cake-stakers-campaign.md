@@ -34,7 +34,7 @@ To participate in a trading reward campaign. Your address must meet the followin
 
 The easiest way to check if your address is eligible is to visit the [Trading Reward page](https://pancakeswap.finance/trading-reward) and connect your wallet. The page will guide you through the process to make your address eligible to earn CAKE from trades.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 For example, you will be presented with the above screen if you do not have an active veCAKE staking position, or your veCAKE balance at snapshot time is 0. Simply follow the guide to start locking CAKE.
 

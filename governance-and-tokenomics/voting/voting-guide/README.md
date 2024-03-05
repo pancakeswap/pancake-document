@@ -42,26 +42,14 @@ Done, you just successfully cast your vote.
 {% tab title="Check the voting power" %}
 Before casting your vote, you will see a "Confirm Vote" window.
 
-![](../../../.gitbook/assets/how-to-vote-4.png)
+<figure><img src="../../../.gitbook/assets/image.png" alt="" width="188"><figcaption></figcaption></figure>
 
 In this window, you can double-check the following items:
 
 * The choice you picked
 * Your voting power
 
-If you are not sure about how the voting power is calculated, click on the ">" to bring up the detailed breakdown.
-
-![](<../../../.gitbook/assets/how-to-vote-5 (2).png>)
-
-Please note that only CAKE held in the following places will contribute to the total number of voting power:
-
-1. In wallet
-2. Flexible CAKE Staking (both in CAKE pool and side pool)
-3. Fixed Term CAKE Staking (boosted by [vCAKE](../vecake.md)!)
-4. Other Syrup Pools (provided by other projects)
-5. CAKE/BNB LP&#x20;
-
-CAKE held in other places does not contribute to your voting power.
+Your voting power is equal to your veCAKE balance at the snapshot block.&#x20;
 {% endtab %}
 
 {% tab title="Check the snapshot block" %}

@@ -27,7 +27,7 @@ There are two types of gauges - ‘core’ and ‘non-core’. CAKE emissions to
 
 ### 1 - Understand the voting schedule
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Gauges weight voting is conducted every two weeks. The beginning of an epoch, just like revenue sharing, is at 00:00 UTC every even Thursdays.
 
@@ -42,7 +42,7 @@ In the above example:
 
 ### 2 - Become eligible
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Since veCAKE is gradually decreasing according to the remaining lock time, voting results will be taken via a snapshot at the end of every epoch. This includes the number of total veCAKE, and the veCAKE each user has.
 

@@ -14,15 +14,15 @@ CAKE rewards and the weekly revenue-sharing rewards can now be claimed weekly on
 
 Please note that to continue receiving rewards, users will need to migrate to the new veCAKE staking.
 
-#### What is the maximum duration I can lock my CAKE <a href="#9224ca4c-1f31-4052-8ed7-3bb896e396f3" id="9224ca4c-1f31-4052-8ed7-3bb896e396f3"></a>
+#### What is the maximum duration I can lock my CAKE <a href="#id-9224ca4c-1f31-4052-8ed7-3bb896e396f3" id="id-9224ca4c-1f31-4052-8ed7-3bb896e396f3"></a>
 
 The maximum duration you can lock your CAKE has now been extended to 4 years.
 
-#### Is veCAKE a new token? Can it be transferred? <a href="#26bce2a7-fb4c-453c-b4bb-e2d446660c77" id="26bce2a7-fb4c-453c-b4bb-e2d446660c77"></a>
+#### Is veCAKE a new token? Can it be transferred? <a href="#id-26bce2a7-fb4c-453c-b4bb-e2d446660c77" id="id-26bce2a7-fb4c-453c-b4bb-e2d446660c77"></a>
 
 veCAKE is a live-generated number based on the number of CAKE locked and the remaining lock time. It is not a standard token and can not be transferred.
 
-#### Why did my veCAKE balance change? How to calculate its balance? <a href="#52f27118-bbf3-448b-9ffe-e9e1a9dd97ef" id="52f27118-bbf3-448b-9ffe-e9e1a9dd97ef"></a>
+#### Why did my veCAKE balance change? How to calculate its balance? <a href="#id-52f27118-bbf3-448b-9ffe-e9e1a9dd97ef" id="id-52f27118-bbf3-448b-9ffe-e9e1a9dd97ef"></a>
 
 veCAKE balance is linearly decreasing to 0 based on the remaining lock duration. Therefore when we are approaching the unlock time, your balance decreases.
 
@@ -48,13 +48,13 @@ When the veCAKE staking position is unlocked, you may withdraw all the staked CA
 
 To renew your position, you need to withdraw all the CAKE and set up a new staking position by choosing the amount to lock and the lock duration.
 
-#### I locked for 1 week, why the remaining lock time is less than 1 week? <a href="#79f8be72-0138-48da-a609-e47a091be03c" id="79f8be72-0138-48da-a609-e47a091be03c"></a>
+#### I locked for 1 week, why the remaining lock time is less than 1 week? <a href="#id-79f8be72-0138-48da-a609-e47a091be03c" id="id-79f8be72-0138-48da-a609-e47a091be03c"></a>
 
 When you lock with the new veCAKE, the unlock time is being rounded forward to the nearest Thursday with UTC time. For example, when you lock for 1 week on Tuesday, your actual unlock time will be the upcoming Thursday, which is 2 days later.
 
 You can preview your actual unlock time at the bottom.
 
-#### Can I lock more CAKE in CAKE pool? <a href="#2cc44f53-8e03-48dd-8caa-66c4942c9d39" id="2cc44f53-8e03-48dd-8caa-66c4942c9d39"></a>
+#### Can I lock more CAKE in CAKE pool? <a href="#id-2cc44f53-8e03-48dd-8caa-66c4942c9d39" id="id-2cc44f53-8e03-48dd-8caa-66c4942c9d39"></a>
 
 No.
 
@@ -62,19 +62,19 @@ Once veCAKE is deployed, the CAKE staking pool will be deprecated and no longer 
 
 To lock CAKE and enjoy its benefits, go to the veCAKE page.
 
-#### Why can’t I migrate? <a href="#4d8fd967-e743-4496-b030-5955be861373" id="4d8fd967-e743-4496-b030-5955be861373"></a>
+#### Why can’t I migrate? <a href="#id-4d8fd967-e743-4496-b030-5955be861373" id="id-4d8fd967-e743-4496-b030-5955be861373"></a>
 
 Migrating from CAKE pool to veCAKE requires you to have an active position. If your CAKE pool staking position is already unlocked, simply withdraw those CAKE and create a native veCAKE staking position.
 
 In some cases, migration can not be performed when your remaining CAKE pool lock time is less than 7 days. In such case, simply wait for the unlock, withdraw those CAKE and create a native veCAKE staking position.
 
-#### Can I early withdraw my locked CAKE? <a href="#5972f3cf-81dd-46d4-8a85-7972d722a53c" id="5972f3cf-81dd-46d4-8a85-7972d722a53c"></a>
+#### Can I early withdraw my locked CAKE? <a href="#id-5972f3cf-81dd-46d4-8a85-7972d722a53c" id="id-5972f3cf-81dd-46d4-8a85-7972d722a53c"></a>
 
 No.
 
 Once locked, CAKE will be staked in the veCAKE contract until the unlock time.
 
-#### Can I partially migrate my CAKE? <a href="#0c4cdba6-7994-4fed-80d1-76597444f761" id="0c4cdba6-7994-4fed-80d1-76597444f761"></a>
+#### Can I partially migrate my CAKE? <a href="#id-0c4cdba6-7994-4fed-80d1-76597444f761" id="id-0c4cdba6-7994-4fed-80d1-76597444f761"></a>
 
 No.
 
@@ -84,16 +84,32 @@ You can only migrate your entire CAKE pool position at once.
 
 **For iCAKE:**
 
-The kitchen is working hard to upgrade iCAKE to support the brand new veCAKE. We expect all future IFOs to run with veCAKE as an upgraded version of iCAKE.
+IFO iCAKE has now been upgraded to support veCAKE. Check out:
+
+{% content-ref url="../ifo-initial-farm-offering/icake.md" %}
+[icake.md](../ifo-initial-farm-offering/icake.md)
+{% endcontent-ref %}
 
 **For bCAKE:**
 
-Farm boosting bCAKE will also be upgraded to support veCAKE. Users will soon be able to boost not only V3 but also other types of PancakeSwap liquidity with their veCAKE.
+Farm boosting bCAKE has now been upgraded to support veCAKE. Check out:
+
+{% content-ref url="../yield-farming/bcake/" %}
+[bcake](../yield-farming/bcake/)
+{% endcontent-ref %}
 
 **For vCAKE:**
 
-Snapshot voting power will soon be upgraded to use only veCAKE balance number.
+Voting vCAKE has now been upgraded to support veCAKE. Check out:
+
+{% content-ref url="../../governance-and-tokenomics/voting/voting-guide/" %}
+[voting-guide](../../governance-and-tokenomics/voting/voting-guide/)
+{% endcontent-ref %}
 
 **For rCAKE:**
 
-All veCAKE holders (either native or migrated) will automatically enrolled in the new revenue sharing pool. Revenue shares are distributed according to the existing schedule. The old revenue sharing pool will be discontinued, users can claim their pending rewards by going to the benefit card.
+All veCAKE holders (either native or migrated) will automatically enrolled in the new revenue sharing pool. Revenue shares are distributed according to the existing schedule. The old revenue sharing pool will be discontinued, users can claim their pending rewards by going to the benefit card. Check out:
+
+{% content-ref url="../revenue-sharing/" %}
+[revenue-sharing](../revenue-sharing/)
+{% endcontent-ref %}

@@ -1,6 +1,6 @@
 # Bribes (Vote Incentives)
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Apart from earning CAKE via our weekly [CAKE reward pools](earn-cake-weekly/),  veCAKE holders can vote for gauges to claim bribes from external bribe marketplaces. These bribes are usually submitted by external project teams on some of our [veCAKE Managers](vecake-managers.md).&#x20;
 
