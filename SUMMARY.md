@@ -244,6 +244,7 @@
 * [Contact Us](contact-us/README.md)
   * [Customer Support](contact-us/customer-support.md)
   * [Social Accounts & Communities](contact-us/social-accounts-and-communities.md)
+* [Token Distribution (🚧)](token-distribution.md)
 * [Archive](archive/README.md)
   * [Old Tokenomics](archive/old-tokenomics/README.md)
     * [CAKE Tokenomics v1](archive/old-tokenomics/cake-tokenomics-v1.md)
