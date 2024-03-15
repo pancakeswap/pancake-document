@@ -6,6 +6,10 @@ description: >-
 
 # Smart Contracts (EVM)
 
+{% hint style="info" %}
+The **developers section are old** and **won’t be updated**. Go to [https://developer.pancakeswap.finance/](https://developer.pancakeswap.finance/) for the updated developer docs which includes v4
+{% endhint %}
+
 ## Main contracts
 
 The following links will take you to the BscScan page for PancakeSwap's main smart contracts.
