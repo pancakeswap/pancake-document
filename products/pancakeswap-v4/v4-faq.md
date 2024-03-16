@@ -122,7 +122,7 @@ Or if you are using hardhat, refer to the hard guide here [https://hardhat.org/h
 
 **Ans:** PoolKey is a struct that describes each pool. See more here [https://developer.pancakeswap.finance/contracts/v4/overview/amm-layer-poolmanager#poolkey--poolid](https://developer.pancakeswap.finance/contracts/v4/overview/amm-layer-poolmanager#poolkey--poolid)\
 \
-PancakeSwap v4 represents a significant milestone in the DeFi space, offering unparalleled benefits for traders, developers, liquidity providers, and the broader community. We're excited to embark on this journey with you and look forward to shaping the future of DeFi together. We hope this FAQ has answered your questions about PancakeSwap v4. If you have any further questions, feel free to reach out to us via  ([Twitter](https://twitter.com/PancakeSwap), [Discord](https://discord.com/channels/897834609272840232/1207724381212770315), and [Telegram](https://t.me/PancakeSwap)) or check our official documentation.
+PancakeSwap v4 represents a significant milestone in the DeFi space, offering unparalleled benefits for traders, developers, liquidity providers, and the broader community. We're excited to embark on this journey with you and look forward to shaping the future of DeFi together. We hope this FAQ has answered your questions about PancakeSwap v4. If you have any further questions, feel free to reach out to us via  ([Twitter](https://twitter.com/PancakeSwap), [Discord](https://discord.com/channels/897834609272840232/1207724381212770315), and [Telegram](https://t.me/PancakeSwap)) or check our Dev [documentation](https://developer.pancakeswap.finance).
 
 \
 \
