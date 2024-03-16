@@ -157,6 +157,8 @@
   * [📈 信息站](chan-pin/info.md)
   * [🖥️ PancakeSwap 私人 RPC](chan-pin/pancakeswap-si-ren-rpc.md)
   * [🔔 通知服务](chan-pin/tong-zhi-fu-wu.md)
+  * [PancakeSwap v4](chan-pin/pancakeswap-v4/README.md)
+    * [v4 FAQ](chan-pin/pancakeswap-v4/v4-faq.md)
 * [治理＆代币经济](zhi-li-dai-bi-jing-ji/README.md)
   * [CAKE 代币经济模型](zhi-li-dai-bi-jing-ji/cake-dai-bi-jing-ji-mo-xing/README.md)
     * [CAKE 的总量上限](zhi-li-dai-bi-jing-ji/cake-dai-bi-jing-ji-mo-xing/cake-de-zong-liang-shang-xian.md)
