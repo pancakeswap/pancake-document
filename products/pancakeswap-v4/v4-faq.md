@@ -57,7 +57,7 @@ description: >-
 
 **Q7** Can developers start building hooks for PancakeSwap v4 immediately after the whitepaper release?
 
-**Ans:** Developers can build hooks immediately after the v4 whitepaper release. Join our developer community to share ideas and seek assistance. Learn more here
+**Ans:** Developers can build hooks immediately after the v4 whitepaper release. Join our developer community to share ideas and seek assistance. Learn more [here](https://www.youtube.com/watch?v=48zgqAdtPJY)
 
 **Q8** How can the community get involved in testing or providing feedback for PancakeSwap v4?
 
