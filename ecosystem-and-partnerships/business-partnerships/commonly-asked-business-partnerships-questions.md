@@ -59,4 +59,3 @@ These are our liquidity requirements across the different chains:
 | Polygon zkEVM | No requirement for now | WETH, USDC, USDT, MATIC, DAI, WBTC                        |
 | zkSync        | No requirement for now | USDT, USDC, BUSD, WBTC                                    |
 | Linea         | No requirement for now | USDC, USDT, DAI, BUSD, WBTC                               |
-| Scroll        | No requirement for now | WETH, USDT, USDT, LUSD, WBTC, RETH, STETH, DAI            |
