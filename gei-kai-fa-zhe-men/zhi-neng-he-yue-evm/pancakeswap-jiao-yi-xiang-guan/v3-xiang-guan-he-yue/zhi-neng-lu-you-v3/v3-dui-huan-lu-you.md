@@ -25,7 +25,7 @@ function pancakeV3SwapCallback(int256 amount0Delta, int256 amount1Delta, bytes _
 
 通过 IPancakeV3Pool#swap 执行交换后调用“msg.sender”。
 
-_在实施中，您必须支付交换所欠的池令牌。必须检查此方法的调用方是否为规范 PancakeV3Factory 部署的 PancakeV3Pool。如果未交换任何令牌，则 amount0Delta 和 amount1Delta 都可以为 0。_
+_在实施中，您必须支付交换所欠的池代币。必须检查此方法的调用方是否为规范 PancakeV3Factory 部署的 PancakeV3Pool。如果未交换任何代币，则 amount0Delta 和 amount1Delta 都可以为 0。_
 
 **参数**
 
@@ -55,7 +55,7 @@ _将 'amountIn' 设置为 0 将导致合约查找自己的余额，并交换全�
 
 | 名字        | 类型      | 描述       |
 |-----------|---------|----------|
-| amountOut | uint256 | 收到的令牌的数量 |
+| amountOut | uint256 | 收到的代币的数量 |
 
 #### exactInput
 
@@ -63,7 +63,7 @@ _将 'amountIn' 设置为 0 将导致合约查找自己的余额，并交换全�
 function exactInput(struct IV3SwapRouter.ExactInputParams params) external payable returns (uint256 amountOut)
 ```
 
-沿指定路径将一个令牌的“amountIn”尽可能多地交换另一个令牌
+沿指定路径将一个代币的“amountIn”尽可能多地交换另一个代币
 
 _将 'amountIn' 设置为 0 将导致合约查找自己的余额，并交换全部金额，使合约能够在调用此函数之前发送代币。_
 
@@ -77,7 +77,7 @@ _将 'amountIn' 设置为 0 将导致合约查找自己的余额，并交换全�
 
 | 名字        | 类型      | 描述       |
 |-----------|---------|----------|
-| amountOut | uint256 | 收到的令牌的数量 |
+| amountOut | uint256 | 收到的代币的数量 |
 
 #### exactOutputSingle
 
@@ -85,7 +85,7 @@ _将 'amountIn' 设置为 0 将导致合约查找自己的余额，并交换全�
 function exactOutputSingle(struct IV3SwapRouter.ExactOutputSingleParams params) external payable returns (uint256 amountIn)
 ```
 
-尽可能少地将一个令牌交换为交换后可能保留在路由器中的另一个令牌的“amountOut”。
+尽可能少地将一个代币交换为交换后可能保留在路由器中的另一个代币的“amountOut”。
 
 **参数**
 
