@@ -1,5 +1,5 @@
 ---
-description: Router for stateless execution of swaps against PancakeSwap V3
+description: 用于对 PancakeSwap V3 进行无状态交换的路由器
 ---
 
 # V3 兑换路由
@@ -23,17 +23,17 @@ struct SwapCallbackData {
 function pancakeV3SwapCallback(int256 amount0Delta, int256 amount1Delta, bytes _data) external
 ```
 
-Called to `msg.sender` after executing a swap via IPancakeV3Pool#swap.
+通过 IPancakeV3Pool#swap 执行交换后调用“msg.sender”。
 
-_In the implementation you must pay the pool tokens owed for the swap. The caller of this method must be checked to be a PancakeV3Pool deployed by the canonical PancakeV3Factory. amount0Delta and amount1Delta can both be 0 if no tokens were swapped._
+_在实施中，您必须支付交换所欠的池代币。必须检查此方法的调用方是否为规范 PancakeV3Factory 部署的 PancakeV3Pool。如果未交换任何代币，则 amount0Delta 和 amount1Delta 都可以为 0。_
 
-**Parameters**
+**参数**
 
-| Name         | Type   | Description                                                                                                                                                                             |
-| ------------ | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| amount0Delta | int256 | The amount of token0 that was sent (negative) or must be received (positive) by the pool by the end of the swap. If positive, the callback must send that amount of token0 to the pool. |
-| amount1Delta | int256 | The amount of token1 that was sent (negative) or must be received (positive) by the pool by the end of the swap. If positive, the callback must send that amount of token1 to the pool. |
-| \_data       | bytes  |                                                                                                                                                                                         |
+| 名字           | 类型     | 描述                                                               |
+|--------------|--------|------------------------------------------------------------------|
+| amount0Delta | int256 | 在交换结束时，池已发送（负数）或必须接收（正数）的 token0 数量。如果为正，则回调必须将该数量的 token0 发送到池。 |
+| amount1Delta | int256 | 在交换结束时，池已发送（负数）或必须接收（正数）的 token1 数量。如果为正，则回调必须将该数量的 token1 发送到池。 |
+| \_data       | bytes  |                                                                  |
 
 #### exactInputSingle
 
@@ -41,21 +41,21 @@ _In the implementation you must pay the pool tokens owed for the swap. The calle
 function exactInputSingle(struct IV3SwapRouter.ExactInputSingleParams params) external payable returns (uint256 amountOut)
 ```
 
-Swaps `amountIn` of one token for as much as possible of another token
+将一个代币的“amountIn”换成尽可能多的另一个代币
 
-_Setting `amountIn` to 0 will cause the contract to look up its own balance, and swap the entire amount, enabling contracts to send tokens before calling this function._
+_将 'amountIn' 设置为 0 将导致合约查找自己的余额，并交换全部金额，使合约能够在调用此函数之前发送代币。_
 
-**Parameters**
+**参数**
 
-| Name   | Type                                        | Description                                                                            |
-| ------ | ------------------------------------------- | -------------------------------------------------------------------------------------- |
-| params | struct IV3SwapRouter.ExactInputSingleParams | The parameters necessary for the swap, encoded as `ExactInputSingleParams` in calldata |
+| 名字     | 类型                                          | 描述                                              |
+|--------|---------------------------------------------|-------------------------------------------------|
+| params | struct IV3SwapRouter.ExactInputSingleParams | 交换所需的参数，在 calldata 中编码为“ExactInputSingleParams” |
 
-**Return Values**
+**返回值**
 
-| Name      | Type    | Description                      |
-| --------- | ------- | -------------------------------- |
-| amountOut | uint256 | The amount of the received token |
+| 名字        | 类型      | 描述       |
+|-----------|---------|----------|
+| amountOut | uint256 | 收到的代币的数量 |
 
 #### exactInput
 
@@ -63,21 +63,21 @@ _Setting `amountIn` to 0 will cause the contract to look up its own balance, and
 function exactInput(struct IV3SwapRouter.ExactInputParams params) external payable returns (uint256 amountOut)
 ```
 
-Swaps `amountIn` of one token for as much as possible of another along the specified path
+沿指定路径将一个代币的“amountIn”尽可能多地交换另一个代币
 
-_Setting `amountIn` to 0 will cause the contract to look up its own balance, and swap the entire amount, enabling contracts to send tokens before calling this function._
+_将 'amountIn' 设置为 0 将导致合约查找自己的余额，并交换全部金额，使合约能够在调用此函数之前发送代币。_
 
-**Parameters**
+**参数**
 
-| Name   | Type                                  | Description                                                                                |
-| ------ | ------------------------------------- | ------------------------------------------------------------------------------------------ |
-| params | struct IV3SwapRouter.ExactInputParams | The parameters necessary for the multi-hop swap, encoded as `ExactInputParams` in calldata |
+| 名字     | 类型                                    | 描述                                          |
+|--------|---------------------------------------|---------------------------------------------|
+| params | struct IV3SwapRouter.ExactInputParams | 多跳交换所需的参数，在 calldata 中编码为“ExactInputParams” |
 
-**Return Values**
+**返回值**
 
-| Name      | Type    | Description                      |
-| --------- | ------- | -------------------------------- |
-| amountOut | uint256 | The amount of the received token |
+| 名字        | 类型      | 描述       |
+|-----------|---------|----------|
+| amountOut | uint256 | 收到的代币的数量 |
 
 #### exactOutputSingle
 
@@ -85,19 +85,19 @@ _Setting `amountIn` to 0 will cause the contract to look up its own balance, and
 function exactOutputSingle(struct IV3SwapRouter.ExactOutputSingleParams params) external payable returns (uint256 amountIn)
 ```
 
-Swaps as little as possible of one token for `amountOut` of another token that may remain in the router after the swap.
+尽可能少地将一个代币交换为交换后可能保留在路由器中的另一个代币的“amountOut”。
 
-**Parameters**
+**参数**
 
-| Name   | Type                                         | Description                                                                             |
-| ------ | -------------------------------------------- | --------------------------------------------------------------------------------------- |
-| params | struct IV3SwapRouter.ExactOutputSingleParams | The parameters necessary for the swap, encoded as `ExactOutputSingleParams` in calldata |
+| 名字     | 类型                                           | 描述                                               |
+|--------|----------------------------------------------|--------------------------------------------------|
+| params | struct IV3SwapRouter.ExactOutputSingleParams | 交换所需的参数，在 calldata 中编码为“ExactOutputSingleParams” |
 
-**Return Values**
+**返回值**
 
-| Name     | Type    | Description                   |
-| -------- | ------- | ----------------------------- |
-| amountIn | uint256 | The amount of the input token |
+| 名字       | 类型      | 描述      |
+|----------|---------|---------|
+| amountIn | uint256 | 输入代币的数量 |
 
 #### exactOutput
 
@@ -105,16 +105,16 @@ Swaps as little as possible of one token for `amountOut` of another token that m
 function exactOutput(struct IV3SwapRouter.ExactOutputParams params) external payable returns (uint256 amountIn)
 ```
 
-Swaps as little as possible of one token for `amountOut` of another along the specified path (reversed) that may remain in the router after the swap.
+尽可能少地将一个代币交换为另一个代币的“amountOut”，该代币沿交换后可能保留在路由器中的指定路径（反向）。
 
-**Parameters**
+**参数**
 
-| Name   | Type                                   | Description                                                                                 |
-| ------ | -------------------------------------- | ------------------------------------------------------------------------------------------- |
-| params | struct IV3SwapRouter.ExactOutputParams | The parameters necessary for the multi-hop swap, encoded as `ExactOutputParams` in calldata |
+| 名字     | 类型                                     | 描述                                           |
+|--------|----------------------------------------|----------------------------------------------|
+| params | struct IV3SwapRouter.ExactOutputParams | 多跳交换所需的参数，在 calldata 中编码为“ExactOutputParams” |
 
-**Return Values**
+**返回值**
 
-| Name     | Type    | Description                   |
-| -------- | ------- | ----------------------------- |
-| amountIn | uint256 | The amount of the input token |
+| 名字       | 类型      | 描述      |
+|----------|---------|---------|
+| amountIn | uint256 | 输入代币的数量 |
