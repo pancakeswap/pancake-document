@@ -129,3 +129,14 @@ To whitelist, visit either of the following pages:
 A prompt should appear. Click "Whitelist" and proceed with the tx in your multisig wallet.
 
 A tx will be fired to the owner of the veCAKE, which is a contract with a permission-less write function to allow any contract to perform self-whitelisting.
+
+If the prompt doesn't appear, follow this instruction to execute the tx from [BscScan](https://bscscan.com/address/0xe6cdC66A96458FbF11F632B50964153fBDa78548#writeContract#F11):
+
+```
+// call:
+VECakeOwner.setWhitelist(bool _status = true)
+
+// VECakeOwner address:
+https://bscscan.com/address/0xe6cdC66A96458FbF11F632B50964153fBDa78548#writeContract#F11
+```
+
