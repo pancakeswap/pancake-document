@@ -249,6 +249,7 @@
 * [联系我们](contact-us/README.md)
   * [客户服务](contact-us/customer-support.md)
   * [社交媒体与社区](contact-us/telegram.md)
+* [代币分发 (🚧)](dai-bi-fen-fa.md)
 * [参考资料](can-kao-zi-liao/README.md)
   * [Old Tokenomics](can-kao-zi-liao/old-tokenomics/README.md)
     * [CAKE Tokenomics v1](can-kao-zi-liao/old-tokenomics/cake-tokenomics-v1.md)
