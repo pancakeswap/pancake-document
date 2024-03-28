@@ -26,7 +26,7 @@
 
 因不同代币对的 LP 价值不同，不同的农场将适用不同的 `常数B`，以弭平这些差异。
 
-`常数A` 及 `常数B` 获取自以下代码：
+`常数A` 及 `常数B` 自以下代码获取：
 
 * `FarmBooster.cA`
 * `FarmBooster.cBOverride(uint256 pid) > 0 ? FarmBooster.cBOverride(uint256 pid) : FarmBooster.cB`
