@@ -2,7 +2,11 @@
 
 ## Does CAKE have a hard cap?
 
-Yes, CAKE now has a hard cap of 750M as outlined in our litepaper [https://v2litepaper.pancakeswap.finance/](https://v2litepaper.pancakeswap.finance/)
+Yes, CAKE now has a hard cap set at 450M.
+
+A proposal for the latest cap adjustment was put forward on December 28, 2023. This proposal aimed to further decrease the cap from 750M to 450M. It was subsequently presented to our community for voting and was successfully passed.
+
+For more details on the voting proposal, please follow this link: [https://pancakeswap.finance/voting/proposal/0x3e014aab40f6551da9f76da0e62e44e9ece55c4997f220057bf3e42dc8307c2f](https://pancakeswap.finance/voting/proposal/0x3e014aab40f6551da9f76da0e62e44e9ece55c4997f220057bf3e42dc8307c2f)
 
 ## How CAKE supply is reduced
 
