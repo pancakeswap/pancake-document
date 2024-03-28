@@ -60,7 +60,7 @@ Zap 是一个简易添加流动性的方式。使用一种代币、一键即可�
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/zap 3 (1).png" alt=""><figcaption><p>、</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/zap 3.png" alt=""><figcaption><p>、</p></figcaption></figure>
 
 </div>
 
@@ -80,7 +80,7 @@ Zap 是一个简易添加流动性的方式。使用一种代币、一键即可�
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/zap 5 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/zap 5.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

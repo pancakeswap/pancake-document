@@ -4,7 +4,7 @@ description: 如何使用 永续合约 V2 进行交易
 
 # 我应该如何使用它？
 
-<figure><img src="../../../.gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (314).png" alt=""><figcaption></figcaption></figure>
 
 使用这一功能其实很简单（难的是如何做好交易）。我们只需按照步骤操作，就能获得完整的交易体验。想要获取更多信息，请访问[永续合约 V2 术语表](yong-xu-he-yue-v2-shu-yu-biao.md)。&#x20;
 
@@ -17,7 +17,7 @@ description: 如何使用 永续合约 V2 进行交易
 
 您可以点击页面顶部，可交易交易对旁边的箭头，选择该交易对。
 
-<figure><img src="../../../.gitbook/assets/image (215).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (310).png" alt=""><figcaption></figcaption></figure>
 
 更多的交易对将会推出！
 
@@ -95,12 +95,12 @@ _以下设置不分先后_
 
 订单发送后，将显示在 "未结订单" 中，直至订单完全成交。
 
-<figure><img src="../../../.gitbook/assets/image (217).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (312).png" alt=""><figcaption></figcaption></figure>
 
 ### 仓位生效！
 
 订单完全成交后，您的仓位就会生效。您可以在仓位面板中看到它，并且您可以查看、调整或平仓它。
 
-<figure><img src="../../../.gitbook/assets/image (218).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (313).png" alt=""><figcaption></figcaption></figure>
 
 祝您交易顺利！

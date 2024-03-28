@@ -4,7 +4,7 @@ description: Pancake Mayer的常见问题说明
 
 # 🎓 Pancake Mayer
 
-<figure><img src="../../.gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (328).png" alt=""><figcaption></figcaption></figure>
 
 欢迎来到《Pancake Mayer》的权威常见问题解答指南，这款引人入胜的城市建设模拟游戏。以下是对您最迫切问题的解答：
 

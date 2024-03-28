@@ -12,7 +12,7 @@
 
 您需要先将资金充值进合约账户。在屏幕右下角的资产框中点击「充值」。
 
-<figure><img src="../../../.gitbook/assets/资产余额 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/资产余额.png" alt=""><figcaption></figcaption></figure>
 
 USDT、BUSD、APX 或 CAKE（有优惠！）可用作交易抵押品。
 
@@ -76,7 +76,7 @@ _以下步骤不按特定顺序排列_
 
 4. 为您的订单设定价格
 
-<figure><img src="../../../.gitbook/assets/订单定价.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/订单定价 (1).png" alt=""><figcaption></figcaption></figure>
 
 注意：您可以点击价格栏右边的“最新“” 自动填充最新的市场价格。
 
@@ -108,7 +108,7 @@ _以下步骤不按特定顺序排列_
 
 <figure><img src="../../../.gitbook/assets/成交后.png" alt=""><figcaption></figcaption></figure>
 
-### 交易手续费、资金费率是多少？ <a href="#6c14" id="6c14"></a>
+### 交易手续费、资金费率是多少？ <a href="#id-6c14" id="id-6c14"></a>
 
 默认使用 CAKE 来支付交易手续费，其次是 APX（ApolloX 的代币）和 USDT及BUSD。
 

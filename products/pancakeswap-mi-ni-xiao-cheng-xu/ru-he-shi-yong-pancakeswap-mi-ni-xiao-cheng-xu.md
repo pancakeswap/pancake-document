@@ -100,7 +100,7 @@
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/min 小程序11 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/min 小程序11.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

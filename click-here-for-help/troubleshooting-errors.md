@@ -25,7 +25,7 @@ description: 常见错误信息。 使用侧边栏快速查找您的错误代码
 3. 调高滑点容限：
    1. 点击兑换页面上的设置图标。
    2. 逐步调高滑点容限，然后重试。\
-      ![](<../.gitbook/assets/image (9) (4) (2).png>)
+      ![](<../.gitbook/assets/image (9) (4) (2) (2).png>)
 4. 若还是不行，您可以尝试减少兑换金额的小数点位数。
 {% endtab %}
 
@@ -61,7 +61,7 @@ description: 常见错误信息。 使用侧边栏快速查找您的错误代码
 1. 点击流动性页面上的设置图标。
 2.  逐步调高滑点容限，然后重试。
 
-    ![](<../.gitbook/assets/image (9) (4) (2).png>)
+    ![](<../.gitbook/assets/image (9) (4) (2) (2).png>)
 {% endtab %}
 
 {% tab title="原因" %}
@@ -106,7 +106,7 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 2. 在第五项 **"5. balanceOf"**，输入您的钱包地址然后点击 **Query** 按钮。
 3. 记下显示的余额。这余额显示的格式是uint256。您的下一个步骤需要输入这余额。
 
-![](<../.gitbook/assets/image (7) (2).png>)
+![](<../.gitbook/assets/image (40).png>)
 
 ### 添加或解除流动性
 
@@ -120,7 +120,7 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 6. 在 **“to (address)”** 这一栏位输入您的钱包地址。
 7. **Deadline** (截止时间)必须是大于执行此交易的纪元(epoch)时间。
 
-![](<../.gitbook/assets/image (5) (2).png>)
+![](<../.gitbook/assets/image (282).png>)
 
 {% hint style="warning" %}
 这可能会导致很高的滑点，并且如果被机器人抢跑，可能会导致您损失一些资金。
@@ -286,7 +286,7 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 
 <div align="left">
 
-<img src="../.gitbook/assets/image (2) (1) (1) (2).png" alt="">
+<img src="../.gitbook/assets/image (104).png" alt="">
 
 </div>
 

@@ -4,7 +4,7 @@
 
 2.单击**连接钱包**按钮（右上角）连接到您的 BNB 智能链兼容钱包。
 
-<figure><img src="../../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2 (2).png" alt=""><figcaption></figcaption></figure>
 
 3.选择您相应的钱包并连接。
 
@@ -12,7 +12,7 @@
 
 4.选择 CAKE 糖浆池并单击**启用**按钮。 您的钱包会要求您确认操作。
 
-<figure><img src="../../../.gitbook/assets/启用 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/启用.png" alt=""><figcaption></figcaption></figure>
 
 5.**启用**按钮现在应该替换为**灵活**和**锁定**。单击按钮以调出质押菜单。
 

@@ -25,7 +25,7 @@
 
 **保证金余额** = 合约钱包余额 + 未实现盈亏。一旦保证金余额 <= 维持比率，您的仓位将被清算。
 
-<figure><img src="../../../.gitbook/assets/保证金比率 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/保证金比率.png" alt=""><figcaption></figcaption></figure>
 
 ### 资产：&#x20;
 
@@ -47,7 +47,7 @@
 注意：如果USDⓈ-M合约有未平仓单或挂单，则无法开启联合保证金模式。联合保证金模式仅适用于USDⓈ-M合约。 在启用联合保证金模式之前，请详细阅读指南，以便在使用联合保证金模式时更好地管理USDⓈ-M合约账户风险
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/资产余额.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/资产余额 (1).png" alt=""><figcaption></figcaption></figure>
 
 **持仓模式：**
 

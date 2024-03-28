@@ -1,13 +1,17 @@
 # CAKE 的总量上限
 
-## CAKE 有总量限制吗？
+## CAKE 有总量上限吗？
 
-是的，CAKE 现在有一个 7.5亿 的硬性总量上限，请查看我们的 v2 简版白皮书：\
-[https://v2litepaper-cn.pancakeswap.finance](https://v2litepaper-cn.pancakeswap.finance)
+是的，CAKE 现在有一个 4.5亿 的硬性总量上限。
 
-## 如何减少 CAKE 供应量
+2023 年 12 月 28 号我们进行了最新一期的总量上限调整投票，将总量上限由 7.5亿 再度降到了 4.5亿。提案经由社区投票通过。
 
-大厨们的目标，是通过在 PancakeSwap 的产品中设置通缩机制，使**销毁的速度快于铸造速度**。我们的目标就是让蛋糕销毁的速度比铸造速度更快。
+投票内容详情：\
+[https://pancakeswap.finance/voting/proposal/0x3e014aab40f6551da9f76da0e62e44e9ece55c4997f220057bf3e42dc8307c2f](https://pancakeswap.finance/voting/proposal/0x3e014aab40f6551da9f76da0e62e44e9ece55c4997f220057bf3e42dc8307c2f)
+
+## 如何降低 CAKE 总量
+
+大厨们的目标，是通过在 PancakeSwap 的产品中设置通缩机制，从而使**销毁的速度快于铸造速度**。我们的目标就是让 CAKE 销毁的速度比铸造速度更快。
 
 ### 减少区块产量
 

@@ -47,7 +47,7 @@
 
 {% tabs %}
 {% tab title="MetaMask" %}
-![](<../.gitbook/assets/image (33) (3) (4) (5).png>)
+![](<../.gitbook/assets/image (33) (3) (4) (5) (2).png>)
 
 MetaMask 是一个基于浏览器的热门钱包插件，支持 ERC20（以太坊网络）、BEP2 和 BEP20（币安链与币安智能链）。
 
@@ -128,7 +128,7 @@ SafePal 有软件和硬件钱包两种形式。该钱包 App 安装便捷，设�
 {% endtab %}
 
 {% tab title="Trust Wallet" %}
-![](<../.gitbook/assets/image (36) (1).png>)
+![](<../.gitbook/assets/image (74).png>)
 
 Trust Wallet 在移动设备上颇受欢迎的钱包应用。它支持 DApps，NFT 收藏品（支持 Opensea.io），以及钱包内直接质押，
 
@@ -153,7 +153,7 @@ Trust Wallet 在移动设备上颇受欢迎的钱包应用。它支持 DApps，N
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](<../.gitbook/assets/image (125) (3) (4) (3).png>)
+![](<../.gitbook/assets/image (125) (3) (4).png>)
 
 Token Pocket 是一个原生支持多个网络（加密货币链）的虚拟货币钱包。它同时也提供电脑端程序。
 
@@ -181,10 +181,10 @@ Token Pocket 是一个原生支持多个网络（加密货币链）的虚拟货�
 2. 页面将自动检测您的设备，点击 **Google Play** 或 **App Store** 前往相应的商店下载。苹果用户建议使用 TestFlight 下载 TokenPocket Pro ，请遵循页面指示。
 3.  安装 Token Pocket 后打开，您将会看到一个询问您是否已有钱包的选项。若您想导入现有的钱包，请选择「我有钱包」。点击「我没有钱包」创建一个新的钱包：
 
-    ![](<../.gitbook/assets/mbp3-2021.08.16-103912am-cleanshot\_cleanshot (1) (1).png>)
+    ![](<../.gitbook/assets/mbp3-2021.08.16-103912am-cleanshot\_cleanshot (1).png>)
 4.  在下一个页面，在列表内选择「**币安智能链**」。
 
-    ![](<../.gitbook/assets/image (153) (1).png>)
+    ![](<../.gitbook/assets/image (73).png>)
 5.  接下来，选择顶部的「**创建钱包**」继续。
 
     ![](../.gitbook/assets/MBP3-2021.08.16-104543AM-CleanShot\_CleanShot.png)
@@ -238,7 +238,7 @@ Token Pocket 允许您使用电脑端或其他设备同时管理一个钱包，�
 
 {% tabs %}
 {% tab title="MetaMask" %}
-![](<../.gitbook/assets/image (1) (2) (1).png>)
+![](<../.gitbook/assets/image (1) (8).png>)
 
 MetaMask 是一个非常流行的基于浏览器的钱包插件，默认支持 ERC20（以太坊网络），以及 BEP2 & BEP20（Binance Chain 和 BNB 智能链网络)。&#x20;
 
@@ -263,7 +263,7 @@ MetaMask 是一个非常流行的基于浏览器的钱包插件，默认支持 E
 {% endtab %}
 
 {% tab title="Binance Wallet" %}
-![](<../.gitbook/assets/image (56).png>)
+![](<../.gitbook/assets/image (264).png>)
 
 Binance Wallet （币安钱包）是一个浏览器插件钱包，原生支持 Binance Chain (BEP2) BNB Smart Chain (BEP20) 网络。 币安钱包由币安加密货币交易所开发。&#x20;
 
@@ -315,7 +315,7 @@ Binance Wallet （币安钱包）是一个浏览器插件钱包，原生支持 B
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](<../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (2) (7).png>)
 
 Token Pocket 是适用于 Mac OS 和 Win64 设备的独立应用程序。 Token Pocket 允许您在独立于浏览器的软件中管理您的加密货币。&#x20;
 

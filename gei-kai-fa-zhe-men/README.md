@@ -2,18 +2,18 @@
 
 以下是这个章节的所有文章：
 
-{% content-ref url="contributing/" %}
-[contributing](contributing/)
+{% content-ref url="../code/contributing/" %}
+[contributing](../code/contributing/)
 {% endcontent-ref %}
 
-{% content-ref url="bug-shang-jin.md" %}
-[bug-shang-jin.md](bug-shang-jin.md)
+{% content-ref url="../code/bug-shang-jin.md" %}
+[bug-shang-jin.md](../code/bug-shang-jin.md)
 {% endcontent-ref %}
 
-{% content-ref url="zhi-neng-he-yue-evm/" %}
-[zhi-neng-he-yue-evm](zhi-neng-he-yue-evm/)
+{% content-ref url="../code/smart-contracts-bsc.md" %}
+[smart-contracts-bsc.md](../code/smart-contracts-bsc.md)
 {% endcontent-ref %}
 
-{% content-ref url="zhi-neng-he-yue-aptos/" %}
-[zhi-neng-he-yue-aptos](zhi-neng-he-yue-aptos/)
+{% content-ref url="../code/smart-contracts-aptos.md" %}
+[smart-contracts-aptos.md](../code/smart-contracts-aptos.md)
 {% endcontent-ref %}

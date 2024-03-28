@@ -68,7 +68,7 @@
 
 &#x20;12\. 稍等片刻后，您的新个人资料就会显示。这看起来很棒！
 
-<figure><img src="../../.gitbook/assets/profile 16 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/profile 16.png" alt=""><figcaption></figcaption></figure>
 
 您可能会注意到您的用户名现在用兔子表情替代了。如果要查看您的用户名，请单击兔子表情右侧的 👁 眼睛图标，之后您就可以看到您的个人资料用户名了。&#x20;
 

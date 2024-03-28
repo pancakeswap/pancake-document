@@ -4,7 +4,7 @@ description: 使用您的 veCAKE 投票来决定 CAKE 激励该如何分发
 
 # Gauges Voting
 
-<figure><img src="../../../.gitbook/assets/image (359).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (359) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 什么是 Gauge？&#x20;
 
@@ -27,7 +27,7 @@ Gauge 有两种类型—— "核心（core）" 和 "非核心（non-core）"。�
 
 ### 1- 了解投票时间表
 
-<figure><img src="../../../.gitbook/assets/image (360).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (360) (1).png" alt=""><figcaption></figcaption></figure>
 
 Gauge 投票（Gauges weight voting）每两周进行一次。每一轮之开始时间，跟每一回收入分成开始时间一样，在每两周的周四 00:00 UTC。
 
@@ -43,7 +43,7 @@ Gauge 投票（Gauges weight voting）每两周进行一次。每一轮之开始
 
 ## 2- 取得资格
 
-<figure><img src="../../../.gitbook/assets/image (361).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (361) (1).png" alt=""><figcaption></figcaption></figure>
 
 由于 veCAKE 数值会根据剩余锁仓时间的减少而逐渐减少，投票结果将在每轮投票结束时通过快照获取，这包括总 veCAKE 数值，以及每个用户持有的 veCAKE 数值。\
 \
@@ -62,7 +62,7 @@ Gauge 投票（Gauges weight voting）每两周进行一次。每一轮之开始
 
 前往 CAKE Staking 页面，向下滚动并找到 Gauges Voting 部分，然后点击 "查看 Gauges"。
 
-<figure><img src="../../../.gitbook/assets/image (362).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (362) (1).png" alt=""><figcaption></figcaption></figure>
 
 在左上角部分。您可以看到：&#x20;
 

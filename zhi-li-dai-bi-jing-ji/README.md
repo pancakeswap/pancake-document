@@ -2,12 +2,12 @@
 
 以下是这个章节的所有文章：
 
-{% content-ref url="cake-dai-bi-jing-ji-mo-xing/" %}
-[cake-dai-bi-jing-ji-mo-xing](cake-dai-bi-jing-ji-mo-xing/)
+{% content-ref url="../tokenomics/cake/cake-dai-bi-jing-ji-mo-xing.md" %}
+[cake-dai-bi-jing-ji-mo-xing.md](../tokenomics/cake/cake-dai-bi-jing-ji-mo-xing.md)
 {% endcontent-ref %}
 
-{% content-ref url="voting/" %}
-[voting](voting/)
+{% content-ref url="../products/voting/" %}
+[voting](../products/voting/)
 {% endcontent-ref %}
 
 {% content-ref url="zhi-li-xin.md" %}

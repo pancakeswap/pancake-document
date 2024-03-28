@@ -23,6 +23,6 @@
 [ding-ji-jiao-yi-zhe-jiao-yi-fan-li-huo-dong.md](ding-ji-jiao-yi-zhe-jiao-yi-fan-li-huo-dong.md)
 {% endcontent-ref %}
 
-{% content-ref url="cake-suo-cang-yong-hu-jiao-yi-fan-li-huo-dong.md" %}
-[cake-suo-cang-yong-hu-jiao-yi-fan-li-huo-dong.md](cake-suo-cang-yong-hu-jiao-yi-fan-li-huo-dong.md)
+{% content-ref url="../ru-he-can-yu.md" %}
+[ru-he-can-yu.md](../ru-he-can-yu.md)
 {% endcontent-ref %}

@@ -16,11 +16,11 @@
 
 每个糖浆彩票组的存入每月开放一次。存款在每月的第一个星期一 23:59 UTC 关闭并锁定蛋糕，并从之前的星期五 10:00 UTC 开始。这是为了将所有存款合并起来，一次将它们转移到锁定质押糖浆池，以实现高效的质押奖励管理和分配。在除此以外的时间里，你会看到：​
 
-<figure><img src="../../.gitbook/assets/质押停止.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/质押停止 (1).png" alt=""><figcaption></figcaption></figure>
 
 – 这意味着存款操作目前关闭到下一个月第一个星期一之前的星期五。如果存款已开放，您将看到以下内容：​
 
-<figure><img src="../../.gitbook/assets/存入cake.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/存入cake (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;– 在这种情况下，如果您可以接受 APR、锁定的总价值和获奖的几率，您可以存入您的 CAKE 以参与糖浆彩票。在您存款之前，请确保您完全了解参与的风险及费用！所有存款将被锁定 10 周，在任何情况下均不得提前提取。请在此处了解[有关风险和费用的更多信息](./)。
 
@@ -28,7 +28,7 @@
 
 存入 CAKE 后，您可以在领取面板中查看您的存款金额和该糖浆彩票组的总存款：
 
-<figure><img src="../../.gitbook/assets/领取页面 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/领取页面.png" alt=""><figcaption></figcaption></figure>
 
 ​​由于 Subgraph 读数有时可能会出现一些延迟，当有延迟时会有一个提示 - 通常如果您在 15 分钟内再次检查，它将会显示正确的数量。请注意，仅在锁定日期的 10 周后，**提取**按钮才会亮起并可用。
 

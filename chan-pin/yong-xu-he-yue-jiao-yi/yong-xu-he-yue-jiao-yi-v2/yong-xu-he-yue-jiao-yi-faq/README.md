@@ -24,4 +24,4 @@ description: FAQ
 
 所有交易在开仓时均需支付 0.3 美元（BNB 链）/0.2 美元（Arbitrum）/ 0.01 美元（opBNB）/ 0.3 美元 （Base）的执行费。&#x20;
 
-我们的[交易奖励计划](../jiao-yi-jiang-li-ji-hua/)使得用户最高可赚取高达 25% 的平台收入。
+我们的[交易奖励计划](../../../../products/yong-xu-he-yue-jiao-yi/yong-xu-he-yue-jiao-yi-v2/v2-fa-bu-huo-dong.md)使得用户最高可赚取高达 25% 的平台收入。

@@ -10,31 +10,31 @@ description: 如何在 MetaMask 上「清理」卡住的交易
 
 这个方法将使用一个优先级更高的交易去覆盖卡住的交易。
 
-### **1. 启用「**自定义交易 nonce**」**  <a href="#1-enable-customized-transaction-nonce" id="1-enable-customized-transaction-nonce"></a>
+### **1. 启用「**自定义交易 nonce**」**  <a href="#id-1-enable-customized-transaction-nonce" id="id-1-enable-customized-transaction-nonce"></a>
 
 1. 打开您的 MetaMask 插件。\
 
 
-![](<../.gitbook/assets/image (187).png>)
+![](<../.gitbook/assets/image (283).png>)
 
 2\. 点击右上角彩色头像，并在菜单中点击**设置**。
 
-![](<../.gitbook/assets/image (102).png>)\
+![](<../.gitbook/assets/image (154).png>)\
 
 
 3\. 在菜单中，选择**高级**\
-![](<../.gitbook/assets/image (199) (1).png>)
+![](<../.gitbook/assets/image (123).png>)
 
 4\. 滚动至 **高级燃料控制**，点击启用它。\
 
 
-![](<../.gitbook/assets/image (188).png>)
+![](<../.gitbook/assets/image (173).png>)
 
 5\. 不要离开，继续往下滚动，直至 **自定义燃料控制** ，点击启用它。
 
-![](<../.gitbook/assets/image (158).png>)
+![](<../.gitbook/assets/image (248).png>)
 
-### **2. 找到卡住的交易** <a href="#2-find-your-stuck-transaction" id="2-find-your-stuck-transaction"></a>
+### **2. 找到卡住的交易** <a href="#id-2-find-your-stuck-transaction" id="id-2-find-your-stuck-transaction"></a>
 
 1. 我们现在要找到卡住的交易，并记录它的 "nonce"。它是该交易的标识号吗，我们之后将会用到。\
    ![](https://lh4.googleusercontent.com/xKBEnt5a62c5Wzg\_MCLIbVUWuL4fws1ohBAX9LAkGS71vslHk7QuMF24jAfkAdmsLunPVfT9c3FxCmGar5z7jNZnd4WMgzQsoxxbYw1Lp59Az5kG72COn0JblFXktHbmgMnF1LeY)
@@ -44,7 +44,7 @@ description: 如何在 MetaMask 上「清理」卡住的交易
    ![](https://lh4.googleusercontent.com/HMd5iKjIvm-f7Xi7xtecTsq56x1i15GjUkwCm5Z\_83xMfOXDd2jabcCDyUwELf51IHseEeCk2WnvWfHwTSUlFnLAJrmjkkOfm\_fA5fimgdABnYfdjmBxxst8TOaUJUhc2iO\_CN-k)
 4. 找到 **Nonce** 一栏，并记录数值。
 
-### **3. 覆盖卡住的交易** <a href="#3-overwrite-the-stuck-transaction" id="3-overwrite-the-stuck-transaction"></a>
+### **3. 覆盖卡住的交易** <a href="#id-3-overwrite-the-stuck-transaction" id="id-3-overwrite-the-stuck-transaction"></a>
 
 现在我们要发起一个新的交易去覆盖之前卡住的交易。我们将自定义 Nonce 值，让它与卡住的交易一致。（即您刚刚记录的数值）\
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-M\_Qf9PqrqKwKENMLChq%2F-M\_QfJwbI-p6skTud7\_o%2Fimage.png?alt=media\&token=13db2345-9ad7-46a4-9937-7f26d7187749)

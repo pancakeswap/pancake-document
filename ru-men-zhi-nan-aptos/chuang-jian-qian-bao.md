@@ -42,7 +42,7 @@
 
 {% tabs %}
 {% tab title="Petra" %}
-<figure><img src="../.gitbook/assets/image (4) (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
 
 Petra 钱包是一个扩展程序，可让您在浏览器中探索 Aptos。
 
@@ -65,7 +65,7 @@ Petra 钱包是一个扩展程序，可让您在浏览器中探索 Aptos。
 {% endtab %}
 
 {% tab title=" Martian" %}
-<figure><img src="../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (6).png" alt=""><figcaption></figcaption></figure>
 
 Martian 是一款 Aptos 链上的钱包，可让您存储、发送、接收代币以及管理和铸造 NFT。它的手机端版本即将推出。&#x20;
 
@@ -97,7 +97,7 @@ Pontem Wallet 是一款 Aptos 链上钱包，您可以存储、发送、接收�
 {% endtab %}
 
 {% tab title="Fewcha" %}
-<figure><img src="../.gitbook/assets/image (2) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 Fewcha 是一款值得信赖的加密钱包，针对 Aptos 和 SUI 生态系统的特性进行了优化，可以方便地使用各种 web3 应用程序。
 
@@ -147,7 +147,7 @@ Fewcha 是一款值得信赖的加密钱包，针对 Aptos 和 SUI 生态系统�
 {% endtab %}
 
 {% tab title="Blocto" %}
-<figure><img src="../.gitbook/assets/image (3) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (3).png" alt=""><figcaption></figcaption></figure>
 
 Blocto 为 Dapp 使用者和资产自我管理提供了用户友好型解决方案和一体化软件包。
 
@@ -227,7 +227,7 @@ Blocto 为 Dapp 使用者和资产自我管理提供了用户友好型解决方�
 {% endtab %}
 
 {% tab title="Trust Wallet" %}
-<figure><img src="../.gitbook/assets/image (4) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (5).png" alt=""><figcaption></figcaption></figure>
 
 Trust Wallet 是在移动设备上颇受欢迎的钱包应用。它支持 DApps，NFT 收藏品（支持 Opensea.io），以及钱包内直接质押。
 
@@ -249,7 +249,7 @@ Trust Wallet 是在移动设备上颇受欢迎的钱包应用。它支持 DApps�
 {% endtab %}
 
 {% tab title="Blocto" %}
-<figure><img src="../.gitbook/assets/image (3) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -276,7 +276,7 @@ Blocto 为 Dapp 使用者和资产自我管理提供了用户友好型解决方�
 
 1 - 通过输入您的电子邮件地址进行设置。然后输入通过电子邮件收到的一次性密码。
 
-<figure><img src="../.gitbook/assets/blocto7 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/blocto7 (2).png" alt=""><figcaption></figcaption></figure>
 
 2 - 单击 **"+”** 按钮，然后选择 “APT - Aptos”
 

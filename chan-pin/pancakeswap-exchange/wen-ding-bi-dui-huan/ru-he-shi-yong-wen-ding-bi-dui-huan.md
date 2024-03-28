@@ -4,11 +4,11 @@
 
 ## 通过稳定币兑换 (StableSwap) 进行交易&#x20;
 
-在稳定币兑换 (StableSwap) 上进行交易与使用现有的 PancakeSwap AMM 非常相似。在我们开始之前，你需要一个兼容 BNB 智能链的钱包和一些 BNB 来支付 gas 费用。欲了解更多关于钱包设置的信息，请查看我们的[钱包指南](../../../master/get-started/wallet-guide.md)。
+在稳定币兑换 (StableSwap) 上进行交易与使用现有的 PancakeSwap AMM 非常相似。在我们开始之前，你需要一个兼容 BNB 智能链的钱包和一些 BNB 来支付 gas 费用。欲了解更多关于钱包设置的信息，请查看我们的[钱包指南](../../../get-started/wallet-guide.md)。
 
 1. 跳转到[兑换界面](https://pancakeswap.finance/swap)。
 2. 选择您想要交易的代币对。
-3. 从这一步开始，交换步骤与 Pancakeswap 上普通的代币兑换相同！如果你是第一次进行兑换，请查看[交易指南](../ru-he-jin-hang-jiao-yi.md)
+3. 从这一步开始，交换步骤与 Pancakeswap 上普通的代币兑换相同！如果你是第一次进行兑换，请查看[交易指南](../../../products/pancakeswap-exchange/ru-he-jin-hang-jiao-yi.md)
 
 ## 添加&移除流动性
 

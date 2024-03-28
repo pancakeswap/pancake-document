@@ -58,7 +58,7 @@ PancakeSwap 图标下载位于本页底部，但请务必先阅读这些指南�
 
 ## PancakeSwap 图标下载
 
-![](<.gitbook/assets/image (194).png>)
+![](<.gitbook/assets/image (292).png>)
 
 阅读完以上所有内容后，请下载下面的 PancakeSwap 和 CAKE 图标。
 

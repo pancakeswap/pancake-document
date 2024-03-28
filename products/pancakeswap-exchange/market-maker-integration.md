@@ -20,7 +20,7 @@ PancakeSwap 在以太链和币安智能链上整合了做市商，以帮助交�
 
 ## 费用
 
-<figure><img src="../../.gitbook/assets/pasted image 0 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/pasted image 0.png" alt=""><figcaption></figcaption></figure>
 
 由做市商执执行的交易，PancakeSwap 不会向该笔交易收取任何费用。但 PancakeSwap 会基于他们执行的交易量从白名单上的做市商那里抽取 **0.05% 的交易费用**。如果执行的交易是在稳定币对之间，PancakeSwap 会向他们收取更低的 **0.01% 的交易费**。请参考下面的费用细分：
 

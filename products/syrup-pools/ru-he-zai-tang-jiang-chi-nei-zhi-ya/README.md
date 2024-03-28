@@ -14,11 +14,11 @@ description: 糖浆池：在 PancakeSwap 上免费赚取代币最简单的方法
 
 1. [ 点击此处](https://pancakeswap.finance/pools)，前往糖浆池页面。
 
-<figure><img src="../../../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1 (2).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;  2.通过右上角的「连接钱包」按钮，连接您的BNB智能链兼容钱包。
 
-<figure><img src="../../../.gitbook/assets/2 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;  3.选择您的钱包并连接。
 
@@ -26,7 +26,7 @@ description: 糖浆池：在 PancakeSwap 上免费赚取代币最简单的方法
 
 &#x20; 4.选择一个您希望质押的糖浆池。
 
-<figure><img src="../../../.gitbook/assets/4 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/4 (2).png" alt=""><figcaption></figcaption></figure>
 
 **CAKE 新版糖浆池**分为灵活质押和锁仓质押两种方式，详情请阅读[此处](../cake-tang-jiang-chi/)。
 
@@ -34,11 +34,11 @@ description: 糖浆池：在 PancakeSwap 上免费赚取代币最简单的方法
 
 &#x20; 5.选择好您希望质押的糖浆池后，点击**启用**按钮，并在钱包弹出的消息中确认。
 
-<figure><img src="../../../.gitbook/assets/启用 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/启用 (2).png" alt=""><figcaption></figcaption></figure>
 
 &#x20; 6.稍等片刻，**启用**按钮将变成**质押**。点击它来打开质押菜单。
 
-<figure><img src="../../../.gitbook/assets/5 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
 
 &#x20; 7.输入您要质押的数量，或直接拖动兔子滑块来选择。
 
@@ -52,7 +52,7 @@ description: 糖浆池：在 PancakeSwap 上免费赚取代币最简单的方法
 
 &#x20; 10.现在您应该能看到糖浆池的详细质押信息。其他糖浆池将显示**收割**按钮，用于将赚取到的奖励收割至钱包内。
 
-<figure><img src="../../../.gitbook/assets/收割.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/收割 (2).png" alt=""><figcaption></figcaption></figure>
 
 ### **在糖浆池中添加或移除 CAKE** <a href="#adding-and-removing-cake-from-a-pool" id="adding-and-removing-cake-from-a-pool"></a>
 

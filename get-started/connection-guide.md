@@ -79,7 +79,7 @@
     ![](../.gitbook/assets/MBP3-2021.08.16-125215PM-CleanShot\_CleanShot.png)
 2.  在 "DeFi" 下找到 PancakeSwap，点击打开。
 
-    ![](<../.gitbook/assets/image (155) (1).png>)
+    ![](<../.gitbook/assets/image (77).png>)
 3.  一个警告窗口将弹出，点击「确认」继续。
 
     ![](../.gitbook/assets/MBP3-2021.08.16-125400PM-CleanShot\_CleanShot.png)
@@ -91,31 +91,31 @@
 
 1. 打开Coinbase 钱包并点击右下角的设置图标
 
-![](<../.gitbook/assets/image (190).png>)
+![](<../.gitbook/assets/image (164).png>)
 
 2\. 在设置菜单中，点击默认网络。
 
-![](<../.gitbook/assets/image (204).png>)
+![](<../.gitbook/assets/image (269).png>)
 
 3\. 在网络选项列表中选择Binance Smart Chain。
 
-![](<../.gitbook/assets/image (189).png>)
+![](<../.gitbook/assets/image (214).png>)
 
 4\. 选择币安智能链网络后，点击应用底部中间的浏览器图标。
 
 
 
-![](<../.gitbook/assets/image (122).png>)
+![](<../.gitbook/assets/image (300).png>)
 
-![](<../.gitbook/assets/image (197).png>)
+![](<../.gitbook/assets/image (131).png>)
 
 5\. 在搜索框输入“PancakeSwap.finance" 并开始搜索。
 
-![](<../.gitbook/assets/image (206).png>)
+![](<../.gitbook/assets/image (217).png>)
 
 6\. 单机**连接钱包**以链接到Coinbase钱包。
 
-![](<../.gitbook/assets/image (202).png>)
+![](<../.gitbook/assets/image (180).png>)
 {% endtab %}
 {% endtabs %}
 
@@ -159,10 +159,10 @@
 1. 当您第一次启动应用程序，将显示 DApp 页面。若没有显示，请手动点击进入。
 2.  在页面中部，找到 **BSC**。
 
-    ![](<../.gitbook/assets/image (90).png>)
+    ![](<../.gitbook/assets/image (138).png>)
 3.  在 DApps 列表中，点击 **PancakeSwap。**
 
-    ![](<../.gitbook/assets/image (92).png>)
+    ![](<../.gitbook/assets/image (277).png>)
 4. 您的浏览器将弹出是否允许连接的提示。
 
 {% hint style="warning" %}
@@ -179,17 +179,17 @@
 
 1. 打开Coinbase钱包，然后单机右上角的设置图标。默认情况下，它将显示“以太坊主网” 作为默认网络。
 
-![](<../.gitbook/assets/image (35) (2).png>)
+![](<../.gitbook/assets/image (97).png>)
 
 2.点击默认网络并选择币安智能链。
 
-![](<../.gitbook/assets/image (193).png>)
+![](<../.gitbook/assets/image (187).png>)
 
 3\. Binance Smart Chain现在将成为您的默认网络。
 
 4\. 访问pancakeswap.finance, 在右上角你会看到Connect 按钮，点击它。
 
-![](<../.gitbook/assets/image (110).png>)
+![](<../.gitbook/assets/image (287).png>)
 
 5\. 将出现一个窗口，要求您选择连接的钱包，单机Coinbase 钱包（它在弹出列表的第一个）
 {% endtab %}

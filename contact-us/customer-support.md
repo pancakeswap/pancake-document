@@ -6,8 +6,8 @@
 
 如果您遇到问题，
 
-1. 请先查看 [错误排除指南页面](../master/click-here-for-help/troubleshooting-errors.md) 并检索您的错误代码。
-2. 如果找不到解决方案，请尝试联系 [官方中文电报 (Telegram) 群](../sheng-tai-xi-tong-he-zuo-huo-ban-guan-xi/contact-us/telegram.md)。
+1. 请先查看 [错误排除指南页面](../click-here-for-help/troubleshooting-errors.md) 并检索您的错误代码。
+2. 如果找不到解决方案，请尝试联系 [官方中文电报 (Telegram) 群](telegram.md)。
 
 {% hint style="danger" %}
 管理员**绝对不会**主动跟您私聊。如果有人假扮成客服直接与您联系，请立即点击封禁并将其举报为垃圾信息。

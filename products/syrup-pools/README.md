@@ -1,6 +1,6 @@
 # 🍯 糖浆池-质押 CAKE
 
-![啊，美味](<../../.gitbook/assets/image (157).png>)
+![啊，美味](<../../.gitbook/assets/image (302).png>)
 
 ### **什么是糖浆池？** <a href="#what-are-syrup-pools" id="what-are-syrup-pools"></a>
 

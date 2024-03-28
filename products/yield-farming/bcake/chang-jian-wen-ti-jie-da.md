@@ -8,23 +8,29 @@
 
 &#x20;这是因为 bCAKE - 农场助推器倍数是使用以下指标计算的，当指标激活或更新到最新时：&#x20;
 
-* `用户 LP 质押量` ：您在此农场中质押的流动性数额&#x20;
-* `农场 LP 质押总量`：质押在农场的流动性的总量，或 V3 LP 池中当前有效的流动性资金量，bCAKE V3 将在这两个数字中选择一个较小的数字。
-* `用户锁仓量` : 您在 CAKE 锁仓质押糖浆池中锁仓的 CAKE 数量
-* `用户锁仓时长` : 您的 CAKE 锁仓仓位的总质押时长&#x20;
-* `锁仓总量` :  所有用户在 CAKE 锁仓质押糖浆池中锁定的 CAKE 总数&#x20;
-* `锁仓平均时间` : 所有用户锁仓在 CAKE 锁仓池的平均锁仓时长
+* 用户 LP 质押量（`userLpBalanceInFarm`）：您在此农场中质押的流动性数额。
+  * `NonfungiblePositionManager.positions(uint256 tokenId).liquidity`
+* 农场 LP 质押总量（`totalLpBalanceInFarm`）：质押在农场的流动性的总量，或 V3 LP 池中当前有效流动性资金量，bCAKE 在计算时将在这两者中选择较小的数字。
+  * `MasterChefV3.poolInfo(uint256 pid).totalLiquidity`
+  * `PancakeV3Pool.liquidity`
+* 用户 veCAKE 持仓量（`veCAKE.balanceOf(user)`） : 您当下持有的 veCAKE 数值。
+* veCAKE 总量（`veCAKE.totalSupply`）: 当下 veCAKE 总量。
 
 加成倍数计算公式：&#x20;
 
-1. `结果A = 常量A * 用户 LP 质押量`&#x20;
-2. `结果B = (农场 LP 质押总量 * 用户锁仓量 * 用户锁仓时长 / 常量B) / (锁仓总量 * 锁仓平均时间)`&#x20;
+1. `结果A = 常数A * 用户 LP 质押量`&#x20;
+2. `结果B = (农场 LP 质押总量 * 用户锁仓量 * 用户锁仓时长 / 常数B) / (锁仓总量 * 锁仓平均时间)`&#x20;
 3. `助推倍数 = min(用户 LP 质押量, (结果A + 结果B)) / 结果A`&#x20;
 
 `常数A` 和 `常数B` 由厨房设定，未来会根据社区反馈和市场情况进行调整。
 
-因不同代币对的 LP 价值不同，不同的农场将适用不同的 常数B，以弭平这些差异。\
-\
+因不同代币对的 LP 价值不同，不同的农场将适用不同的 `常数B`，以弭平这些差异。
+
+`常数A` 及 `常数B` 获取自以下代码：
+
+* `FarmBooster.cA`
+* `FarmBooster.cBOverride(uint256 pid) > 0 ? FarmBooster.cBOverride(uint256 pid) : FarmBooster.cB`
+
 一言以蔽之：
 
 {% hint style="info" %}
@@ -37,7 +43,7 @@
 
 ### 为什么我的助推倍数在激活之后也会发生改变？
 
-请注意，**对在农场质押的流动性仓位，或 CAKE 锁仓质押池进行的任何操作，**都会影响农场及 CAKE 锁仓质押池的最新数据和统计方式**，**从而**自动更新您的助推倍数**，包括但不限于以下：
+请注意，**在农场质押的流动性仓位，或 CAKE staking 池进行的任何操作，**都会影响农场及 CAKE staking池的最新数据和统计方式**，**从而**自动更新您的助推倍数**，包括但不限于以下：
 
 * 将流动性从农场质押/解押
 * 从农场收割 CAKE 奖励&#x20;
@@ -50,7 +56,7 @@
 
 为了确保公平，防止潜在的滥用及使用过时数据进行的作弊行为，农场助推器被设计为无需许可和社区治理。因此，**任何人**都可以在 MasterChef V3 合约上调用 `updateLiquidity(address _tokenId)`函数，使用最新数据刷新任何人的助推器倍数。&#x20;
 
-在此基础上，厨房还将监控所有启用 BCAKE 的农场仓位，并将刷新任何带有过时助推倍数的仓位。
+在此基础上，厨房还将监看所有启用 bCAKE 的农场仓位，并将刷新带有过时助推倍数的仓位。
 {% endhint %}
 
 ### 为什么我无法助推某个农场？
@@ -73,12 +79,12 @@
 
 ### 如何增加我的 bCAKE 助推倍数？
 
-* 在 veCAKE 锁仓中添加更多 CAKE&#x20;
-*
+* 在 veCAKE 锁仓中添加更多 CAKE
+* 将 veCAKE 质押仓位 延长锁仓时间或更新锁仓时长
 
 简单的说： **锁仓质押更多 CAKE，质押更长的时间。**
 
-
+[bCAKE 助推倍数如何计算](chang-jian-wen-ti-jie-da.md#bcake-dui-nong-chang-de-zhu-tui-bei-shu-ru-he-ji-suan)
 
 ### 助推器额外加成的 CAKE 奖励从何而来？
 

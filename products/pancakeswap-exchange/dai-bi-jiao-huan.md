@@ -6,7 +6,7 @@ PancakeSwap 上的 [代币兑换](https://pancakeswap.finance/swap) 为一种简
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/代币交换.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/代币交换 (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

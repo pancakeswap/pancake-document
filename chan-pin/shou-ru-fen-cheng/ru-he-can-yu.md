@@ -10,7 +10,7 @@ description: 如何参与协议收入的每周分成
 
 <figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption><p>An example timeline for week 1 and week 2 distribution</p></figcaption></figure>
 
-获取收入分成的资格条件是您必持有 CAKE 锁仓仓位。如何创建 CAKE 锁仓仓位，请阅读[此处](../syrup-pools/cake-tang-jiang-chi/#suo-cang-zhi-ya-gu-ding-qi-xian-zhi-ya)。&#x20;
+获取收入分成的资格条件是您必持有 CAKE 锁仓仓位。如何创建 CAKE 锁仓仓位，请阅读[此处](../../products/syrup-pools/cake-tang-jiang-chi/#suo-cang-zhi-ya-gu-ding-qi-xian-zhi-ya)。&#x20;
 
 要获得下一次收入分成的份额，您的 CAKE 锁仓仓位解锁时间**不得早于**下一次的每周分配时间（每周星期三 23:59 UTC）。&#x20;
 

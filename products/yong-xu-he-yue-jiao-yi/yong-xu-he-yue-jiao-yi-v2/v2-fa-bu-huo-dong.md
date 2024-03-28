@@ -62,8 +62,8 @@ R = Min(美元价值乘数 \* 交易手续费, 美元价值上限)/ Max(APX 最�
 
 第 2 步：点击页面顶端的 Trading Reward (V2) 标签。
 
-<figure><img src="../../../.gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (320).png" alt=""><figcaption></figcaption></figure>
 
 第 3 步：你将会跳转到 ApolloX 的奖励领取页面，查看你当前的奖励状态。点击 "Claim" 来领取你在活动期间的奖励。
 
-<figure><img src="../../../.gitbook/assets/image (225).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (321).png" alt=""><figcaption></figcaption></figure>

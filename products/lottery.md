@@ -1,4 +1,4 @@
-# 🎟 彩票 v2
+# 🎟️ 彩票 v2
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MdUg8ahFKk9Q8jMaBBP%2F-MdUxt8CCVOUITl4uAqK%2Fdocs%20masthead%20\(3\).png?alt=media\&token=386d0ebc-8033-4dd0-8445-2436be2f6a60)
 
@@ -19,7 +19,7 @@ PancakeSwap 彩票让您有机会赢取巨额 CAKE 奖金！它非常简单和�
 
 一次购买多张彩票即可获得批量购彩优惠。您可以在一次操作中购买多达 100 张彩票。从两张开始计算折扣，折扣力度逐步上升，当数量到达 100 张时，折扣率会上升到 4.95%。
 
-![](<../.gitbook/assets/image (146) (1).png>)
+![](<../.gitbook/assets/image (100).png>)
 
 ## **中奖方法**
 
@@ -34,17 +34,17 @@ PancakeSwap 彩票让您有机会赢取巨额 CAKE 奖金！它非常简单和�
 
 **抽出号码**
 
-![抽出号码](<../.gitbook/assets/image (148).png>)
+![抽出号码](<../.gitbook/assets/image (249).png>)
 
 **您的彩票号码**
 
-![彩票 A](<../.gitbook/assets/image (95) (1).png>)
+![彩票 A](<../.gitbook/assets/image (95) (1) (1).png>)
 
 在上面彩票 A 的例子中，除了第四个号码，其他人五个号码与开出的中奖号码相匹配，而且顺序完全相同。
 
 然而，由于第四个数字与开奖号码**不**匹配，只有前三个数字按顺序匹配。这将赢得 “命中前三位” 的奖金。
 
-![彩票 B](<../.gitbook/assets/image (149).png>)
+![彩票 B](<../.gitbook/assets/image (295).png>)
 
 举例彩票 B：这是一张运气欠佳的彩票。尽管后五位数字是匹配的，但因为第一位数字不匹配，所以这张彩票没有中任何奖金。
 

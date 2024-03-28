@@ -1,4 +1,4 @@
-# ⛓ PancakeSwap CEDEFI 整合
+# ⛓️ PancakeSwap CEDEFI 整合
 
 PancakeSwap CEDEFI 整合是我们与币安的合作，结合 PancakeSwap 的特色功能，为币安用户带来去中心化金融（DeFi）体验。通过与币安的合作，使得币安用户可以通过 PancakeSwap 无缝享受完整的 DeFi 体验，而不必脱离币安应用程序。在**币安的代币搜索栏**输入代币名称，若代币还未在币安交易所上市，将会引导用户在 PancakeSwap 小程序上访问和交易代币。关于在币安上访问 PancakeSwap 的其他方式，请查看 [PancakeSwap 迷你小程序章节](ru-he-shi-yong-pancakeswap-mi-ni-xiao-cheng-xu.md)。
 
@@ -14,7 +14,7 @@ PancakeSwap 是第一个整合和支持使用币安 DeFi 钱包的 DeFi 项目�
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/CEDEFI 1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CEDEFI 1 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 

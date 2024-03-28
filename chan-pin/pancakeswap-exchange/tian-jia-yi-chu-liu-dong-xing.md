@@ -12,7 +12,7 @@
 
 添加流动性时，您需要在流动性页面存入一定的数量的代币对。您可以提供的流动性资金的多少，取决于您想要添加的两个代币中价值（以美元计）最低的一个。&#x20;
 
-在 PancakeSwap 兑换页面您可以轻易兑换您需要的任何代币。如果有需要请查看并学习我们的[如何进行交易的指南](ru-he-jin-hang-jiao-yi.md)。&#x20;
+在 PancakeSwap 兑换页面您可以轻易兑换您需要的任何代币。如果有需要请查看并学习我们的[如何进行交易的指南](../../products/pancakeswap-exchange/ru-he-jin-hang-jiao-yi.md)。&#x20;
 
 下述示例中，我们将使用 ETH 和 USDC ，在以太链的 PancakeSwap 上添加 V3 流动性。
 
