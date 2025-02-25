@@ -3,8 +3,8 @@
 **General Information**
 
 * Job Title: Social Media & Content Manager
-* Location: Remote (Timezone: UTC+8, +/- 4 hours)\
-  Position: Full-time
+* Location: Remote (Timezone: UTC+8, +/- 4 hours)
+* Position: Full-time
 
 **Job Description:**\
 We're on the hunt for a talented and passionate Social Media & Content Manager to join our PancakeSwap team. You’ll be at the heart of our marketing efforts, managing PancakeSwap’s social media channels (Twitter, Instagram, YouTube) and our Blog while shaping our voice in the fast-paced DeFi space.&#x20;
