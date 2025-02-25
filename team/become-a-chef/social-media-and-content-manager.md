@@ -13,6 +13,7 @@ We're on the hunt for a talented and passionate Social Media & Content Manager t
 
 * Own and manage PancakeSwap’s social media channels (Twitter, Instagram, YouTube) and our Blog to make sure the content stays true to our brand voice and engages the community.
 * Create fun, creative, and impactful content for our audience—think degen memes, community highlights, and educational resources.
+* Create simple and clear tutorial guides, both written and video, to help users understand how to use PancakeSwap products
 * Manage the social media content calendar to keep things timely, relevant, and consistent across all platforms.
 * Keep PancakeSwap’s voice active across social media, responding to user comments and conversations in a way that’s fun, friendly, and professional.
 * Work with the product marketing, community, and product teams to run social media campaigns for product launches, announcements, and feature updates.
