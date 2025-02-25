@@ -256,6 +256,7 @@
 * [Team](team/README.md)
   * [The Kitchen Team](team/the-kitchen-team.md)
   * [Become a Chef](team/become-a-chef/README.md)
+    * [Social Media & Content Manager](team/become-a-chef/social-media-and-content-manager.md)
     * [Product Manager](team/become-a-chef/product-manager.md)
     * [Community Lead](team/become-a-chef/community-lead.md)
     * [Developer Relations Manager](team/become-a-chef/developer-relations-manager.md)
