@@ -3,7 +3,7 @@
 **General Information**
 
 * Job Title: Social Media & Content Manager
-* Location: Remote (Timezone: UTC+8, +/- 4 hours)
+* Location: Remote (Timezone: UTC+8)
 * Position: Full-time
 
 **Job Description:**\
@@ -27,7 +27,7 @@ We're on the hunt for a talented and passionate Social Media & Content Manager t
 * 3+ years of experience in social media marketing, with a solid background in fast-moving, dynamic environments.
 * At least 1 year of experience, specifically in DeFi social media marketing.
 * Strong understanding of DEX (Decentralized Exchange) products—understanding how they work and what makes PancakeSwap stand out.
-* Exceptional written communication skills (business-level English and a second language).
+* Exceptional written communication skills (business-level English and Chinese).
 * Hands-on experience with design tools like Figma and Adobe Suite (Photoshop, Illustrator, Premiere Pro).
 * Proven experience with SEO strategy and content optimization for search engines.
 * Passion for and deep understanding of the DeFi and crypto industry.
