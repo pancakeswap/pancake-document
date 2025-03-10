@@ -1,6 +1,8 @@
-# Community and Costumer Support
+---
+description: Welcome to the PancakeSwap Community!
+---
 
-## &#x20;**Welcome to the PancakeSwap Community!**
+# Community and Costumer Support
 
 Join our official Telegram and Discord communities to connect with other users, get support and stay updated on the latest news.
 
