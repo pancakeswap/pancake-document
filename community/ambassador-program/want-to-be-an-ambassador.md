@@ -9,12 +9,8 @@ If you’re passionate about DeFi and believe you have what it takes to educate 
 We’re looking for passionate Ambassadors in key regions to help bring the PancakeSwap experience to life and drive DeFi education on a local level. If you’re based in one of these regions and ready to take on the challenge, we want to hear from you:
 
 * **Japan** 🇯🇵
-* **India** 🇮🇳
-* **South Korea** 🇰🇷
-* **Dubai** 🇦🇪
 * **Thailand** 🇹🇭
 * **Taiwan** 🇹🇼
-* **Indonesia** 🇮🇩
 
 ### **Requirements to Apply**
 

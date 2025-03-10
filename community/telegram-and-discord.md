@@ -1,18 +1,11 @@
-# Social Accounts & Communities
+---
+description: >-
+  Here you'll find a list of PancakeSwap's official Social media channels. If
+  English is not your first language, we have a number of non-English
+  communities that would love to have you join them!
+---
 
-Here you'll find a list of PancakeSwap's official Social media channels and communities. If English is not your first language, we have a number of non-English communities that would love to have you join them!
-
-## 🐦 Twitter
-
-[https://twitter.com/pancakeswap](https://twitter.com/pancakeswap)
-
-## 📰 Blog
-
-[https://blog.pancakeswap.finance/](https://blog.pancakeswap.finance/)
-
-## 🤳 Instagram
-
-{% embed url="https://www.instagram.com/pancakeswap_official/" %}
+# Telegram & Discord
 
 ## 🤖Discord
 
@@ -22,10 +15,13 @@ The below is the only link for our discord server!
 
 ## 💬 Telegram
 
-**Official Telegram Groups:**
+### Main Telegram channels
 
 * 📣 Announcement Channel ([http://t.me/PancakeSwapAnn](http://t.me/PancakeSwapAnn))
 * 🥞 English ([http://t.me/pancakeswap](http://t.me/pancakeswap))
+
+### Local Telegram Communities
+
 * Japanese ([https://t.me/PancakeSwapJP](https://t.me/PancakeSwapJP))
 * Chinese ([http://t.me/PancakeSwap\_CN](http://t.me/PancakeSwap_CN))
 * Indonesian ([http://t.me/PancakeSwapIndonesia](http://t.me/PancakeSwapIndonesia))
@@ -40,11 +36,3 @@ The below is the only link for our discord server!
 * Filipino ([https://t.me/Pancakeswap\_Ph](https://t.me/Pancakeswap_Ph))
 * Indian ([https://t.me/PancakeSwap\_India](https://t.me/PancakeSwap_India))
 * 😤 Ban Appeal ([https://t.me/pancakebanappeal](https://t.me/pancakebanappeal))
-
-{% hint style="danger" %}
-Admins will NEVER send you a direct message. If anybody approaches you directly on e.g. Telegram pretending to represent customer support, please block them and report spam.
-{% endhint %}
-
-{% hint style="danger" %}
-**NEVER, under any situation, should you ever give someone your private key or recovery phrases. Immediately block and report anyone that asks for them.**
-{% endhint %}
