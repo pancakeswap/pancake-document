@@ -12,9 +12,7 @@
 
 ### [Apply for the NFT Market](../ecosystem-and-partnerships/business-partnerships/nft-market-applications.md)
 
-## Help!
-
-### [Customer Support](customer-support.md#there-is-no-customer-support-for-pancakeswap)
+## Community!
 
 ### [Social Communities](social-accounts-and-communities.md)
 

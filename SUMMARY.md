@@ -270,7 +270,6 @@
     * [DevOps Engineer](team/become-a-chef/devops-engineer.md)
     * [Senior Backend Engineer](team/become-a-chef/senior-backend-engineer.md)
 * [Contact Us](contact-us/README.md)
-  * [Customer Support](contact-us/customer-support.md)
   * [Social Accounts & Communities](contact-us/social-accounts-and-communities.md)
 * [Token Distribution (🚧)](token-distribution.md)
 * [Archive](archive/README.md)

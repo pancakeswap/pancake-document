@@ -16,7 +16,7 @@ Here you'll find a list of PancakeSwap's official Social media channels and comm
 
 ## 🤖Discord
 
-Newly launched on 24th Nov! The below is the only link for our discord server!
+The below is the only link for our discord server!
 
 [https://discord.gg/pancakeswap](https://discord.gg/pancakeswap)
 
@@ -31,13 +31,13 @@ Newly launched on 24th Nov! The below is the only link for our discord server!
 * Indonesian ([http://t.me/PancakeSwapIndonesia](http://t.me/PancakeSwapIndonesia))
 * Việt Nam ([https://t.me/PancakeSwapVN](https://t.me/PancakeSwapVN))
 * Español ([https://t.me/PancakeSwapES](https://t.me/PancakeSwapES))
+* Nigerian ([https://t.me/pancakeswap\_ng](https://t.me/pancakeswap_ng))
 * Russian ([http://t.me/pancakeswap\_ru](http://t.me/pancakeswap_ru))
 * Portuguese/Brazilian ([https://t.me/PancakeSwapPortuguese](https://t.me/PancakeSwapPortuguese))
 * French ([https://t.me/pancakeswapfr](https://t.me/pancakeswapfr))
 * Italian ([https://t.me/pancakeswap\_ita](https://t.me/pancakeswap_ita))
 * Türkiye ([https://t.me/pancakeswapturkiye](https://t.me/pancakeswapturkiye))
 * Filipino ([https://t.me/Pancakeswap\_Ph](https://t.me/Pancakeswap_Ph))
-* Georgian ([https://t.me/PancakeSwapGeorgia](https://t.me/PancakeSwapGeorgia))
 * Indian ([https://t.me/PancakeSwap\_India](https://t.me/PancakeSwap_India))
 * 😤 Ban Appeal ([https://t.me/pancakebanappeal](https://t.me/pancakebanappeal))
 
