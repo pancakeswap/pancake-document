@@ -4,11 +4,11 @@
 
 #### 🌐 **Global Channels**
 
-🔹 **Telegram (English)**: https://t.me/PancakeSwap
+🔹 **Telegram (English)**: [https://t.me/PancakeSwap](https://t.me/PancakeSwap)
 
-🔹 **Telegram Announcements (English)**: https://t.me/PancakeSwapAnn
+🔹 **Telegram Announcements (English)**: [https://t.me/PancakeSwapAnn](https://t.me/PancakeSwap)
 
-🔹 **Discord**: https://discord.gg/pancakeswap
+🔹 **Discord**: [https://discord.gg/pancakeswap](https://t.me/PancakeSwap)
 
 #### 🌍 **Local Communities**
 
@@ -16,13 +16,13 @@
 * Chinese ([http://t.me/PancakeSwap\_CN](http://t.me/PancakeSwap_CN))
 * Indonesian ([http://t.me/PancakeSwapIndonesia](http://t.me/PancakeSwapIndonesia))
 * Việt Nam ([https://t.me/PancakeSwapVN](https://t.me/PancakeSwapVN))
-* Español ([https://t.me/PancakeSwapES](https://t.me/PancakeSwapES))
+* Spanish ([https://t.me/PancakeSwapES](https://t.me/PancakeSwapES))
 * Nigerian ([https://t.me/pancakeswap\_ng](https://t.me/pancakeswap_ng))
 * Russian ([http://t.me/pancakeswap\_ru](http://t.me/pancakeswap_ru))
 * Portuguese/Brazilian ([https://t.me/PancakeSwapPortuguese](https://t.me/PancakeSwapPortuguese))
 * French ([https://t.me/pancakeswapfr](https://t.me/pancakeswapfr))
 * Italian ([https://t.me/pancakeswap\_ita](https://t.me/pancakeswap_ita))
-* Türkiye ([https://t.me/pancakeswapturkiye](https://t.me/pancakeswapturkiye))
+* Turkish ([https://t.me/pancakeswapturkiye](https://t.me/pancakeswapturkiye))
 * Filipino ([https://t.me/Pancakeswap\_Ph](https://t.me/Pancakeswap_Ph))
 * Indian ([https://t.me/PancakeSwap\_India](https://t.me/PancakeSwap_India))
 * 😤 Ban Appeal ([https://t.me/pancakebanappeal](https://t.me/pancakebanappeal))
