@@ -49,8 +49,3 @@
 
 * On Telegram, use the chat directly in the correct topic (Support in case of help).
 * On Discord, use our [amazing ticket system](https://discord.com/channels/897834609272840232/1135600553943109793) or write in our [#General channel](https://discord.com/channels/897834609272840232/897834609272840236).
-
-📜 **Community Guidelines**\
-✔️ Be respectful to other members.\
-✔️ No spam or unrelated promotions.\
-✔️ Follow the moderators' instructions.

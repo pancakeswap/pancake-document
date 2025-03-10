@@ -272,7 +272,7 @@
     * [Want to be an Ambassador?](ecosystem-and-partnerships/ambassador-program/want-to-be-an-ambassador.md)
     * [❓ FAQs Page](ecosystem-and-partnerships/ambassador-program/faqs-page.md)
 * [Contact Us](contact-us/README.md)
-  * [Social Accounts](contact-us/social-accounts-and-communities.md)
+  * [Social Accounts](contact-us/social-accounts.md)
 * [Token Distribution (🚧)](token-distribution.md)
 * [Archive](archive/README.md)
   * [Old Tokenomics](archive/old-tokenomics/README.md)
