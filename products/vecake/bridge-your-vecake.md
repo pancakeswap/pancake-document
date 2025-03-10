@@ -10,7 +10,7 @@ To enjoy the benefits of veCAKE such as bCAKE (Farm yield boosting) and iCAKE (I
 
 Go to [CAKE Staking](https://pancakeswap.finance/cake-staking) page and locate the veCAKE Sync card under the veCAKE benefits. Click “View Details” to open the sync modal.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="253"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="253"><figcaption></figcaption></figure>
 
 In the modal. You can view the number of veCAKE you have on BNB Chain. As well as the list of destination chains, you may bridge your veCAKE and Pancake Profile to your veCAKE and Pancake Profile status on each of the chains.
 
@@ -35,7 +35,7 @@ For Pancake Profile and its NFT. You will need to perform two syncs to participa
 
 **Q: How long does the bridging take?**
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="253"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" width="253"><figcaption></figcaption></figure>
 
 Depending on the destination chains. It usually takes around 2-5 mins to bridge and fully sync. For some slower chains, it could take up to 30 mins. To track your bridging request, check the sync modal for the LayerZero explorer link. Or head to [https://layerzeroscan.com/](https://layerzeroscan.com/) and search via the BNB Chain tx id.
 

@@ -63,6 +63,7 @@
       * [FAQ](products/yield-farming/bcake/faq.md)
       * [V2 (deprecated)](products/yield-farming/bcake/v2-deprecated/README.md)
         * [How to use bCAKE?](products/yield-farming/bcake/v2-deprecated/how-to-use-bcake.md)
+  * [⛏️ Pancake Picks](products/pancake-picks.md)
   * [🔷 veCAKE](products/vecake/README.md)
     * [What is veCAKE?](products/vecake/what-is-vecake.md)
     * [How to get veCAKE?](products/vecake/how-to-get-vecake.md)

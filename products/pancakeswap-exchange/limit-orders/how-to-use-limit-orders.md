@@ -24,7 +24,7 @@ Important note: As the fees are paid from the output token amount, the limit pri
 
     <figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 4. Once the transaction is through, you will be able to see your order in the order history section, under “Open orders”. \
-   ![](<../../../.gitbook/assets/image (2) (1) (1).png>)
+   ![](<../../../.gitbook/assets/image (2) (1) (1) (1).png>)
 5. Open orders can be canceled at any time by expanding the order and clicking the “Cancel Order” button.
 
 Things to take into consideration:
