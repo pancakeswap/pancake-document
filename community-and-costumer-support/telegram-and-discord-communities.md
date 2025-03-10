@@ -1,14 +1,14 @@
-# PancakeSwap Telegram & Discord Communities
+# Telegram & Discord Communities
 
 ### 🔗 **Official Links**
 
 #### 🌐 **Global Channels**
 
-🔹 **Telegram (English)**: t.me/PancakeSwap
+🔹 **Telegram (English)**: https://t.me/PancakeSwap
 
-🔹 **Telegram Announcements (English)**: t.me/PancakeSwapAnn
+🔹 **Telegram Announcements (English)**: https://t.me/PancakeSwapAnn
 
-🔹 **Discord**: discord.gg/pancakeswap
+🔹 **Discord**: https://discord.gg/pancakeswap
 
 #### 🌍 **Local Communities**
 
