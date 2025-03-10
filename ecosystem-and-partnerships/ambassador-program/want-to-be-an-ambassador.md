@@ -12,6 +12,8 @@ We’re looking for passionate Ambassadors in key regions to help bring the Panc
 * **Thailand** 🇹🇭
 * **Taiwan** 🇹🇼
 
+_Last Update: March 10th, 2025_
+
 ### **Requirements to Apply**
 
 We’re looking for Ambassadors who:
