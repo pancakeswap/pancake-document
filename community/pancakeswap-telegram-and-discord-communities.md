@@ -15,7 +15,7 @@
 * Japanese ([https://t.me/PancakeSwapJP](https://t.me/PancakeSwapJP))
 * Chinese ([http://t.me/PancakeSwap\_CN](http://t.me/PancakeSwap_CN))
 * Indonesian ([http://t.me/PancakeSwapIndonesia](http://t.me/PancakeSwapIndonesia))
-* Việt Nam ([https://t.me/PancakeSwapVN](https://t.me/PancakeSwapVN))
+* Vietnamese ([https://t.me/PancakeSwapVN](https://t.me/PancakeSwapVN))
 * Spanish ([https://t.me/PancakeSwapES](https://t.me/PancakeSwapES))
 * Nigerian ([https://t.me/pancakeswap\_ng](https://t.me/pancakeswap_ng))
 * Russian ([http://t.me/pancakeswap\_ru](http://t.me/pancakeswap_ru))
