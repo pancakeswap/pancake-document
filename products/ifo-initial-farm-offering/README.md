@@ -18,8 +18,8 @@ Visit [https://pancakeswap.finance/ifo](https://pancakeswap.finance/ifo) to find
 
 **Before Sale:**
 
-1. [Complete your PancakeSwap profile setup](../nft-market/nft-profile-system/profile-guide.md).
-2. [Buy CAKE](https://exchange.pancakeswap.finance/?\_gl=1\*1bc8owa\*\_ga\*ODA4ODE5MjM4LjE2MDUxNTI3NTE.\*\_ga\_334KNG3DMQ\*MTYwNTQ4OTEwNy4yNi4xLjE2MDU0ODkxMjcuMA..#/swap) tokens
+1. [Complete your PancakeSwap profile setup](nft-profile-system/profile-guide.md).
+2. [Buy CAKE](https://exchange.pancakeswap.finance/?_gl=1*1bc8owa*_ga*ODA4ODE5MjM4LjE2MDUxNTI3NTE.*_ga_334KNG3DMQ*MTYwNTQ4OTEwNy4yNi4xLjE2MDU0ODkxMjcuMA..#/swap) tokens
 3. [Lock CAKE in the CAKE syrup pool](../syrup-pool/new-cake-pool/fixed-term-staking.md) to get iCAKE.
 
 **During Sale:**
@@ -29,7 +29,7 @@ Visit [https://pancakeswap.finance/ifo](https://pancakeswap.finance/ifo) to find
 **After Sale:**
 
 1. When the sale is complete, claim the IFO tokens you've bought.
-2. Done! In the case of an [overflow](https://app.gitbook.com/@pancakeswap-1/s/pancakeswap/\~/drafts/-MMK-KmBq5\_Mfs94Ul6x/core-products/ifo-initial-farm-offering#overflow) you can reclaim your remaining CAKE tokens.
+2. Done! In the case of an [overflow](https://app.gitbook.com/@pancakeswap-1/s/pancakeswap/~/drafts/-MMK-KmBq5_Mfs94Ul6x/core-products/ifo-initial-farm-offering#overflow) you can reclaim your remaining CAKE tokens.
 3. In the case of an IFO with token vesting, come back to the IFO page throughout the vesting period to claim the released tokens until the end of the vesting period.
 
 ## How to participate in a CrossChain IFO
