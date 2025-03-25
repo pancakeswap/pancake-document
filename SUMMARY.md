@@ -213,6 +213,7 @@
 * [Team](team/README.md)
   * [The Kitchen Team](team/the-kitchen-team.md)
   * [Become a Chef](team/become-a-chef/README.md)
+    * [Senior Motion / Interaction Designer](team/become-a-chef/senior-motion-interaction-designer.md)
     * [Social Media & Content Manager](team/become-a-chef/social-media-and-content-manager.md)
     * [Product Manager](team/become-a-chef/product-manager.md)
     * [Community Lead](team/become-a-chef/community-lead.md)
