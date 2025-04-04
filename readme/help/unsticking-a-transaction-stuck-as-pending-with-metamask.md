@@ -32,7 +32,7 @@ This method works by essentially overwriting the stuck transaction with another,
 
 5\. Still in Advanced settings, keep scrolling until you see **Customize transaction nonce**. Toggle this to ON.
 
-![](../../.gitbook/assets/1-4-MetaMask\_gas\_control\_on.png)
+![](../../.gitbook/assets/Customize transaction nonce.png)
 
 ### **2. Find Your Stuck Transaction**
 
