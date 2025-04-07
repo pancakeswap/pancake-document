@@ -10,14 +10,14 @@
 
 CAKE is the delicious token that powers the PancakeSwap ecosystem.
 
-Earn CAKE from Farms and Syrup Pools, win it in the lottery, or [buy it on the exchange](../../products/pancakeswap-exchange/), then explore its use cases:
+Earn CAKE from Farms and Syrup Pools, win it in the lottery, or [buy it on the exchange](../../trade/pancakeswap-exchange/), then explore its use cases:
 
-* Stake it in [Syrup Pools](../../products/syrup-pool/) to earn free tokens
+* Stake it in [Syrup Pools](../../earn/cake-staking/syrup-pool/) to earn free tokens
 * Use it in [Yield Farms](https://docs.pancakeswap.finance/products/yield-farming) to earn more CAKE
-* Buy Lottery tickets in the [PancakeSwap Lottery](../../products/lottery/)
-* Participate in [IFO Token Sales](../../products/ifo-initial-farm-offering/)
-* Create your [Pancake Profile](../../products/ifo-initial-farm-offering/nft-profile-system/) and mint NFTs
-* [Vote on proposals](../../governance-and-tokenomics/voting/) relating to the PancakeSwap ecosystem
+* Buy Lottery tickets in the [PancakeSwap Lottery](../../play/lottery/)
+* Participate in [IFO Token Sales](../../earn/ifo-initial-farm-offering/)
+* Create your [Pancake Profile](../../earn/ifo-initial-farm-offering/nft-profile-system/) and mint NFTs
+* [Vote on proposals](../../protocol/voting/) relating to the PancakeSwap ecosystem
 
 But that's not all -- there's much more on the horizon for CAKE!
 
@@ -25,12 +25,12 @@ But that's not all -- there's much more on the horizon for CAKE!
 
 Check below to discover the nuts and bolts of how CAKE works.
 
-{% content-ref url="../../governance-and-tokenomics/cake-tokenomics/" %}
-[cake-tokenomics](../../governance-and-tokenomics/cake-tokenomics/)
+{% content-ref url="../../protocol/cake-tokenomics/" %}
+[cake-tokenomics](../../protocol/cake-tokenomics/)
 {% endcontent-ref %}
 
-{% content-ref url="../../governance-and-tokenomics/cake-tokenomics/controlling-cake-supply.md" %}
-[controlling-cake-supply.md](../../governance-and-tokenomics/cake-tokenomics/controlling-cake-supply.md)
+{% content-ref url="../../protocol/cake-tokenomics/controlling-cake-supply.md" %}
+[controlling-cake-supply.md](../../protocol/cake-tokenomics/controlling-cake-supply.md)
 {% endcontent-ref %}
 
 ### \*\*\*\*

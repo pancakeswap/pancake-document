@@ -1,0 +1,2 @@
+# Cake Staking FAQ
+

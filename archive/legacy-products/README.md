@@ -12,7 +12,7 @@ description: Entry points and references for legacy products
 * [PancakeSwap Quest](archived-pancakeswap-quest/) (28th February 2025)
 * [Liquid Staking](https://pancakeswap.finance/liquid-staking)
 * [Team Leaderboard](https://pancakeswap.finance/teams)
-* [PancakeSwap Mini-Program](../../products/pancakeswap-mini-program/)
+* [PancakeSwap Mini-Program](pancakeswap-mini-program/)
 * [Options](options-archived/)
 
 

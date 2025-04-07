@@ -12,7 +12,7 @@ Here is the step-by-step guide on how to start simple staking:
 
 <figure><img src="../../../.gitbook/assets/Simple Staking-1 .png" alt=""><figcaption></figcaption></figure>
 
-2. **Deposit Tokens** - Select the amount of tokens to deposit into the staking pool. Please note that there’s a minimum amount to stake depending on the token. For users who have staked **100 CAKE** in the [CAKE Syrup Pool](https://pancakeswap.finance/pools), note that you’ll be able to enjoy the Locked CAKE boost. For more information on the CAKE Syrup pool, please visit the[ ](../../../products/syrup-pool/new-cake-pool/fixed-term-staking.md)[Fixed Staking guide](../../../products/syrup-pool/new-cake-pool/fixed-term-staking.md).
+2. **Deposit Tokens** - Select the amount of tokens to deposit into the staking pool. Please note that there’s a minimum amount to stake depending on the token. For users who have staked **100 CAKE** in the [CAKE Syrup Pool](https://pancakeswap.finance/pools), note that you’ll be able to enjoy the Locked CAKE boost. For more information on the CAKE Syrup pool, please visit the[ ](../../../earn/cake-staking/syrup-pool/new-cake-pool/fixed-term-staking.md)[Fixed Staking guide](../../../earn/cake-staking/syrup-pool/new-cake-pool/fixed-term-staking.md).
 
 <figure><img src="../../../.gitbook/assets/png (6).png" alt="" width="277"><figcaption></figcaption></figure>
 

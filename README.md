@@ -1,4 +1,4 @@
-# PancakeSwap Intro
+# Product Overview
 
 ![](.gitbook/assets/intro-header.png)
 
@@ -69,7 +69,7 @@ Win a bigger yield on your CAKE deposit, combining CAKE lock-staking and lottery
 
 ### See for yourself:
 
-Check out these PancakeSwap security audits [here](readme/audits.md).
+Check out these PancakeSwap security audits [here](welcome-to-pancakeswap/audits.md).
 
 ### Transparent:
 
