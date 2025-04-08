@@ -3,7 +3,7 @@
 ## Welcome to PancakeSwap
 
 * [Product Overview](README.md)
-* [✨ How to Guides](welcome-to-pancakeswap/how-to-guides/README.md)
+* [✨ How-to Guides](welcome-to-pancakeswap/how-to-guides/README.md)
   * [Get Started (BSC)](welcome-to-pancakeswap/how-to-guides/get-started/README.md)
     * [Create a Wallet](welcome-to-pancakeswap/how-to-guides/get-started/wallet-guide.md)
     * [Get BEP20 Tokens](welcome-to-pancakeswap/how-to-guides/get-started/bep20-guide.md)
@@ -162,6 +162,11 @@
   * [v4 FAQ](trade/trading-faq/v4-faq.md)
   * [Limit Orders and TWAP FAQ](trade/trading-faq/limit-orders-faq.md)
 
+## Trading Tools
+
+* [🛡️ PancakeSwap MEV Guard](trading-tools/pancakeswap-mev-guard.md)
+* [🔔 Notifications](trading-tools/notifications.md)
+
 ## Bridge
 
 * [🌉 Bridging](bridge/bridging/README.md)
@@ -170,11 +175,6 @@
   * [Wormhole Bridge Guide](bridge/bridging/wormhole-bridge-guide.md)
 * [❓ Bridging FAQ](bridge/faq/README.md)
   * [Wormhole Bridge FAQ](bridge/faq/wormhole-bridge-faq.md)
-
-## Trading Tools
-
-* [🛡️ PancakeSwap MEV Guard](trading-tools/pancakeswap-mev-guard.md)
-* [🔔 Notifications](trading-tools/notifications.md)
 
 ***
 
