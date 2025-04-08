@@ -166,6 +166,8 @@
 
 * [🛡️ PancakeSwap MEV Guard](trading-tools/pancakeswap-mev-guard.md)
 * [🔔 Notifications](trading-tools/notifications.md)
+* [❓ Trading Tools FAQ](trading-tools/trading-tools-faq/README.md)
+  * [MEV Guard FAQ](trading-tools/trading-tools-faq/mev-guard-faq.md)
 
 ## Bridge
 
@@ -175,11 +177,6 @@
   * [Wormhole Bridge Guide](bridge/bridging/wormhole-bridge-guide.md)
 * [❓ Bridging FAQ](bridge/faq/README.md)
   * [Wormhole Bridge FAQ](bridge/faq/wormhole-bridge-faq.md)
-
-***
-
-* [❓ Trading Tools FAQ](trading-tools-faq/README.md)
-  * [MEV Guard FAQ](trading-tools-faq/mev-guard-faq.md)
 
 ## Earn
 
