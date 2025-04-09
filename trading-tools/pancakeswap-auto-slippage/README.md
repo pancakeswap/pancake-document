@@ -75,7 +75,7 @@ It is not supported on Layer 2 (L2) chains, because:
 * Since L2 gas fees are very low, applying auto slippage on L2s wouldn’t improve trade success rates
 
 {% hint style="success" %}
-📌 If Auto Slippage is not supported on a network:
+&#x20;If Auto Slippage is **not supported** on a network:
 
 * Your previously used slippage setting will be applied
 * If you haven't set one before, it will default to 0.5%
