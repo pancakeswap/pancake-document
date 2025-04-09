@@ -165,6 +165,8 @@
 ## Trading Tools
 
 * [🛡️ PancakeSwap MEV Guard](trading-tools/pancakeswap-mev-guard.md)
+* [PancakeSwap Auto Slippage](trading-tools/pancakeswap-auto-slippage/README.md)
+  * [How to Set Slippage on PancakeSwap](trading-tools/pancakeswap-auto-slippage/how-to-set-slippage-on-pancakeswap.md)
 * [🔔 Notifications](trading-tools/notifications.md)
 * [❓ Trading Tools FAQ](trading-tools/trading-tools-faq/README.md)
   * [MEV Guard FAQ](trading-tools/trading-tools-faq/mev-guard-faq.md)
