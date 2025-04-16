@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Farming FAQ
 
 ### Why are there multiple APRs?
