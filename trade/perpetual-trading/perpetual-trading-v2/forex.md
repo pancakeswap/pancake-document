@@ -1,6 +1,6 @@
 # Forex
 
-PancakeSwap Perpetuals V2 offers forex trading pairs. Unlike the cryptocurrency market, the foreign exchange market is not open for trading 24/7. Traders may refer to the following timings:
+Labswap Perpetuals V2 offers forex trading pairs. Unlike the cryptocurrency market, the foreign exchange market is not open for trading 24/7. Traders may refer to the following timings:
 
 | Day       | Open/Close for trading                                                                   |
 | --------- | ---------------------------------------------------------------------------------------- |

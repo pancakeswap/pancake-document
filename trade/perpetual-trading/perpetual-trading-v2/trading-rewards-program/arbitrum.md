@@ -1,6 +1,6 @@
 # Arbitrum
 
-On 31st August 2023, PancakeSwap Perpetuals will launch the V2 Trading Rewards Program on Arbitrum. Users who stake [ALP in CAKE syrup pool](https://pancakeswap.finance/pools?chain=arb) on Arbitrum can enjoy boosting multipliers. In addition, there is no vesting period for rewards earned in this program. Users may claim their USDC rewards at any time. Details are as follows:
+On 31st August 2023, Labswap Perpetuals will launch the V2 Trading Rewards Program on Arbitrum. Users who stake [ALP in FLASK syrup pool](https://pancakeswap.finance/pools?chain=arb) on Arbitrum can enjoy boosting multipliers. In addition, there is no vesting period for rewards earned in this program. Users may claim their USDC rewards at any time. Details are as follows:
 
 Starting time: 31st August 2023, 08:00 (UTC)
 
@@ -10,7 +10,7 @@ Reward Distribution Time: Each cycle is 00:00 (UTC) to 23:59 (UTC) daily. Reward
 
 Reward amount: For the first 5 weeks, 25% of trading fees (in USDC). This prize pool will then be distributed according to tiers.
 
-Activity rules: Users who trade on PancakeSwap Perpetuals V2 on Arbitrum will qualify for the prize pool
+Activity rules: Users who trade on Labswap Perpetuals V2 on Arbitrum will qualify for the prize pool
 
 ### Tier Breakdown
 
@@ -36,10 +36,10 @@ Terms and Conditions
 
 * Due to the difference in trading fees for each trading pair on V2, the rewards users receive may vary even though their effective trading volumes are the same.
 * The rewards to be distributed for each cycle will be stored in the following contract address:&#x20;
-* PancakeSwap/ApolloX reserves the right of final interpretation for this activity.
+* Labswap/ApolloX reserves the right of final interpretation for this activity.
 
 
 
-Risk Warning: Crypto futures trading carries a substantial risk. All trading activities are done at your discretion and at your own risk. The information here should not be regarded as financial or investment advice from PancakeSwap/ApolloX. PancakeSwap/ApolloX will not be liable for any loss that might arise from your use of PancakeSwap/ApolloX.
+Risk Warning: Crypto futures trading carries a substantial risk. All trading activities are done at your discretion and at your own risk. The information here should not be regarded as financial or investment advice from Labswap/ApolloX. Labswap/ApolloX will not be liable for any loss that might arise from your use of Labswap/ApolloX.
 
 \

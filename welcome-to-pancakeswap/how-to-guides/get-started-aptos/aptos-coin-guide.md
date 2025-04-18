@@ -3,7 +3,7 @@
 ![](../../../.gitbook/assets/how-to-get-aptos-coins-header.png)
 
 {% hint style="info" %}
-This guide covers major Aptos bridging services for mainstream tokens. To Bridge CAKE between Aptos and BNB Smart chain, use [PancakeSwap Aptos Bridge](https://bridge.pancakeswap.finance/aptos).
+This guide covers major Aptos bridging services for mainstream tokens. To Bridge FLASK between Aptos and BNB Smart chain, use [Labswap Aptos Bridge](https://bridge.pancakeswap.finance/aptos).
 {% endhint %}
 
 The native token of Aptos Chain is **Aptos Coin (APT)**.
@@ -42,8 +42,8 @@ You will also need the tokens you want to trade or stake on Aptos Chain. There a
 [**📖 Tutorial provided by Wormhole**](https://docs.wormhole.com/wormhole/video-tutorial-how-to-use-portal)
 {% endtab %}
 
-{% tab title="🥞 CAKE Bridging" %}
-To Bridge CAKE token between Aptos and BNB Smart chain, use [PancakeSwap Aptos Bridge](https://bridge.pancakeswap.finance/aptos). Check out the [guide](cake-bridging-guide.md) to learn how to use it.
+{% tab title="🥞 FLASK Bridging" %}
+To Bridge FLASK token between Aptos and BNB Smart chain, use [Labswap Aptos Bridge](https://bridge.pancakeswap.finance/aptos). Check out the [guide](cake-bridging-guide.md) to learn how to use it.
 {% endtab %}
 
 {% tab title="💰 Binance.com" %}

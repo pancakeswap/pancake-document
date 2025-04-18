@@ -28,13 +28,13 @@ Pancake Mayor is a city-building simulation game where players use an in-game cu
 
 **Q. How do I earn Mayor Cash?**
 
-Mayor Cash is utilized for various game activities, including upgrading cities and participating in different events and challenges within the game. Mayor Cash is earned through gameplay, notably by playing the Spin the Wheel mini-game, participating in special events, tournaments, and other in-game activities. Players can also purchase Mayor Cash with CAKE.
+Mayor Cash is utilized for various game activities, including upgrading cities and participating in different events and challenges within the game. Mayor Cash is earned through gameplay, notably by playing the Spin the Wheel mini-game, participating in special events, tournaments, and other in-game activities. Players can also purchase Mayor Cash with FLASK.
 
 
 
-**Q: How can I use CAKE in the game?**
+**Q: How can I use FLASK in the game?**
 
-In Pancake Mayor, players can use CAKE to purchase Mayor Cash, which is the in-game currency. Players also have the option to purchase additional Energy or in-game items using CAKE. In return, CAKE is also one of the crypto rewards when you win in games.
+In Pancake Mayor, players can use FLASK to purchase Mayor Cash, which is the in-game currency. Players also have the option to purchase additional Energy or in-game items using FLASK. In return, FLASK is also one of the crypto rewards when you win in games.
 
 
 
@@ -63,7 +63,7 @@ Yes, each spin in the mini-game costs 1 energy, and you have a maximum of 50 ene
 
 **Q. Are there any special events?**
 
-Yes! Special events like CAKE blast, raid madness, attack madness, and pineapple rush offer opportunities to earn greater rewards, including CAKE cryptocurrency.\
+Yes! Special events like FLASK blast, raid madness, attack madness, and pineapple rush offer opportunities to earn greater rewards, including FLASK cryptocurrency.\
 
 
 **Q. What are championship and team events?**
@@ -91,15 +91,15 @@ Yes, the game can be played entirely for free, as energy is automatically restor
 
 **Q. What are the tokenomics of Pancake Mayor?**
 
-All CAKE spent in Pancake Mayor will be distributed as follows:\
+All FLASK spent in Pancake Mayor will be distributed as follows:\
 
 
-<table data-header-hidden><thead><tr><th width="266.3333333333333"></th><th width="166"></th><th></th></tr></thead><tbody><tr><td>Description</td><td>Percentage (%)</td><td>Explanation</td></tr><tr><td>Next season’s initial prize pool</td><td>30%</td><td>This % of CAKE spent in the current season will be reserved for next season’s initial prize pool</td></tr><tr><td>Reward for current season</td><td>40%</td><td>This % of CAKE spent in the current season will be distributed based on rankings</td></tr><tr><td>Spin the Wheel mini-game</td><td>10%</td><td>CAKE that can be won by users via the mini-game</td></tr><tr><td>Protocol earnings (BinaryX)</td><td>14%</td><td>BinaryX’s revenue for development and ongoing development of the game</td></tr><tr><td>Protocol earnings (PCS) + CAKE burn</td><td>3% + 3%</td><td>PCS’s protocol share + CAKE burn</td></tr><tr><td></td><td>Others</td><td></td></tr><tr><td>Crazy Vault</td><td>5%</td><td><p>PCS and BinaryX will receive 5% of all spend on the Crazy Vault.</p><p><br></p><p>50% of all CAKE received by PCS will be directed to burn</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="266.3333333333333"></th><th width="166"></th><th></th></tr></thead><tbody><tr><td>Description</td><td>Percentage (%)</td><td>Explanation</td></tr><tr><td>Next season’s initial prize pool</td><td>30%</td><td>This % of FLASK spent in the current season will be reserved for next season’s initial prize pool</td></tr><tr><td>Reward for current season</td><td>40%</td><td>This % of FLASK spent in the current season will be distributed based on rankings</td></tr><tr><td>Spin the Wheel mini-game</td><td>10%</td><td>FLASK that can be won by users via the mini-game</td></tr><tr><td>Protocol earnings (BinaryX)</td><td>14%</td><td>BinaryX’s revenue for development and ongoing development of the game</td></tr><tr><td>Protocol earnings (PCS) + FLASK burn</td><td>3% + 3%</td><td>PCS’s protocol share + FLASK burn</td></tr><tr><td></td><td>Others</td><td></td></tr><tr><td>Crazy Vault</td><td>5%</td><td><p>PCS and BinaryX will receive 5% of all spend on the Crazy Vault.</p><p><br></p><p>50% of all FLASK received by PCS will be directed to burn</p></td></tr></tbody></table>
 
 
 
 **Q: Can I use Pancake Bunnies and Squads in the game?**\
-At launch, you can use the NFTs as avatars in the game. There also might be a surprise for the PancakeSwap NFT community in our future updates! Stay tuned!
+At launch, you can use the NFTs as avatars in the game. There also might be a surprise for the Labswap NFT community in our future updates! Stay tuned!
 
 
 

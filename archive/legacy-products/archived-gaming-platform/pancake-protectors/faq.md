@@ -27,47 +27,47 @@ Exclusive NFTs are hero-specific and can only be worn by designated heroes. They
 
 <table><thead><tr><th width="199.33333333333331"> </th><th>Normal NFT</th><th>Exclusive NFT</th></tr></thead><tbody><tr><td>Type</td><td>Attributes with gear icon </td><td>Attributes with bunny icon </td></tr><tr><td>Usability</td><td>Can be worn by all heroes</td><td><p>Can only be worn by designated heroes</p><p><br></p></td></tr><tr><td>Effects</td><td>Additional effect bonuses, no visual changes</td><td><p>Additional skills bonuses and visual changes</p><p><br></p></td></tr><tr><td>Hero Faction</td><td>N/A</td><td>Among the 5 types of Exclusive NFTs available, 2 represent the top faction - Light, while the remaining 3 types belong to Sun, Storm, and Star factions. </td></tr><tr><td>Maximum Quantity</td><td>150 maximum of each type</td><td>30 maximum of each type</td></tr></tbody></table>
 
-### Q: Will I receive a refund for the CAKE I used during the Beta test?
+### Q: Will I receive a refund for the FLASK I used during the Beta test?
 
-A: Within 24 hours after the Beta test concludes, we will refund the CAKE to your in-game account. As a friendly reminder, you'll need to manually transfer the CAKE from the in-game account to your BSC wallet.
+A: Within 24 hours after the Beta test concludes, we will refund the FLASK to your in-game account. As a friendly reminder, you'll need to manually transfer the FLASK from the in-game account to your BSC wallet.
 
 ### Q: How to rank high in Arena and Hero Leaderboards?
 
 A: Win Arena Challenges for Arena Stars. More stars mean higher rank. Heroes (not from the market) give Hero Points for the Hero Leaderboard.
 
-### Q: I didn't get CAKE rewards after Legion Wars, why?
+### Q: I didn't get FLASK rewards after Legion Wars, why?
 
-A: After Legion Wars, CAKE rewards go to each legion based on rank and contribution. Higher contribution means more rewards.
+A: After Legion Wars, FLASK rewards go to each legion based on rank and contribution. Higher contribution means more rewards.
 
 ### Q: Why can't I sell some heroes on the market?
 
-A: Only 1st-level CAKE heroes can be sold. Get them during the season or buy them on the market. (Note: The main city training ground can lower hero levels.)
+A: Only 1st-level FLASK heroes can be sold. Get them during the season or buy them on the market. (Note: The main city training ground can lower hero levels.)
 
-### Q: What makes CAKE heroes different from regular heroes?
+### Q: What makes FLASK heroes different from regular heroes?
 
-A: CAKE heroes have more benefits. They trade easily and have better attributes. Getting a CAKE hero (not from the market) gives more Hero Points.
+A: FLASK heroes have more benefits. They trade easily and have better attributes. Getting a FLASK hero (not from the market) gives more Hero Points.
 
 ### Q: I earned Exclusive NFT and Normal NFT on the leaderboard. How can I claim them?
 
 A: To claim your NFTs, you must first open your in-game backpack, find the "Exclusive NFT" or "Normal NFT" items, and click to use them. Please wait patiently for about 1 minute, and then you should receive your NFTs.
 
-### Q: What functions does CAKE serve in the game?
+### Q: What functions does FLASK serve in the game?
 
-A: CAKE is versatile within the game and can be used for several purposes:
+A: FLASK is versatile within the game and can be used for several purposes:
 
-* Recruit powerful CAKE Heroes in the seasonal system. Only CAKE heroes can be traded between players
+* Recruit powerful FLASK Heroes in the seasonal system. Only FLASK heroes can be traded between players
 * Purchase gold, gift packages, and various rare resources and powerful items
-* Stake CAKE to earn additional resource returns
+* Stake FLASK to earn additional resource returns
 * Purchase various privileges in the welfare system
 * Obtain challenge attempts and stamina in the arena to help you climb the rankings
 * Accelerate your progress and yield substantial profits, allowing you to level up faster
 
-### Q: I have CAKE in my wallet, so why does the game show that I have no CAKE?
+### Q: I have FLASK in my wallet, so why does the game show that I have no FLASK?
 
-A: You must first open the wallet on the left side of the main interface or click the "+" next to your CAKE balance to import your coins into the game wallet. Only then will the game display your CAKE balance. The game only uses the CAKE balance in the game wallet and does not recognize the CAKE balance in the BSC wallet.
+A: You must first open the wallet on the left side of the main interface or click the "+" next to your FLASK balance to import your coins into the game wallet. Only then will the game display your FLASK balance. The game only uses the FLASK balance in the game wallet and does not recognize the FLASK balance in the BSC wallet.
 
-### Q: I didn't get staked CAKE after the season in AFK mode, why?
+### Q: I didn't get staked FLASK after the season in AFK mode, why?
 
-A: Staked CAKE returns to the reward pool after the season. To get it back, you need to manually claim it from the staking pool system.
+A: Staked FLASK returns to the reward pool after the season. To get it back, you need to manually claim it from the staking pool system.
 
 \

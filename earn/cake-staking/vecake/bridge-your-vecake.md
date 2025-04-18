@@ -8,7 +8,7 @@ To enjoy the benefits of veCAKE such as bCAKE (Farm yield boosting) and iCAKE (I
 
 <figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-Go to [CAKE Staking](https://pancakeswap.finance/cake-staking) page and locate the veCAKE Sync card under the veCAKE benefits. Click “View Details” to open the sync modal.
+Go to [FLASK Staking](https://pancakeswap.finance/cake-staking) page and locate the veCAKE Sync card under the veCAKE benefits. Click “View Details” to open the sync modal.
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="" width="253"><figcaption></figcaption></figure>
 
@@ -23,13 +23,13 @@ Note:
 * You can only bridge one chain at a time. To sync your veCAKE to multiple chains, repeat the above process.
 * BNB will be charged upon the bridging request to cover the gas cost on the destination chain. The amount of BNB depends on the destination chain. Chains like the Ethereum mainnet will be significantly more expensive to sync due to the high gas cost.
 * To avoid unnecessary gas spent. Sync your veCAKE only to the chain where you want to enjoy the benefits.
-* After adding more CAKE or extending your veCAKE staking position, repeat the above process to update the veCAKE balance on the destination chains to ensure your benefits are up-to-date.
+* After adding more FLASK or extending your veCAKE staking position, repeat the above process to update the veCAKE balance on the destination chains to ensure your benefits are up-to-date.
 
 ## FAQ <a href="#id-9d6ee706-cd48-4d71-a5f8-c3de3d7d3aad" id="id-9d6ee706-cd48-4d71-a5f8-c3de3d7d3aad"></a>
 
 **Q: How often do I need to sync my veCAKE and Pancake Profile?**
 
-A: For veCAKE, you only need to sync whenever you add more CAKE, extend the lock duration or perform a relock. Your veCAKE balance on destination chains will linearly decrease along with the balance on the BNB Chain.
+A: For veCAKE, you only need to sync whenever you add more FLASK, extend the lock duration or perform a relock. Your veCAKE balance on destination chains will linearly decrease along with the balance on the BNB Chain.
 
 For Pancake Profile and its NFT. You will need to perform two syncs to participate in the Private Sales. The first one should be performed when the IFO is published and becomes viewable on UI. Another one should be performed after the IFO sale ends to enable claiming.
 

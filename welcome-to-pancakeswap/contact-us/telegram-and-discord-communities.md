@@ -1,27 +1,27 @@
 ---
-description: Welcome to the PancakeSwap Community!
+description: Welcome to the Labswap Community!
 ---
 
 # Telegram & Discord Communities
 
 Join our official Telegram and Discord communities to connect with other users, get support and stay updated on the latest news.
 
-💡 **IMPORTANT**: Always verify that you're in the official channels to avoid scams. PancakeSwap will NEVER ask for your private keys or funds.
+💡 **IMPORTANT**: Always verify that you're in the official channels to avoid scams. Labswap will NEVER ask for your private keys or funds.
 
 ### 🔗 **Official Links**
 
 #### 🌐 **Global Channels**
 
-🔹 **Telegram (English)**: [https://t.me/PancakeSwap](https://t.me/PancakeSwap)
+🔹 **Telegram (English)**: [https://t.me/Labswap](https://t.me/Labswap)
 
-🔹 **Telegram Announcements (English)**: [https://t.me/PancakeSwapAnn](https://t.me/PancakeSwap)
+🔹 **Telegram Announcements (English)**: [https://t.me/PancakeSwapAnn](https://t.me/Labswap)
 
-🔹 **Discord**: [https://discord.gg/pancakeswap](https://t.me/PancakeSwap)
+🔹 **Discord**: [https://discord.gg/pancakeswap](https://t.me/Labswap)
 
 #### 🌍 **Local Communities**
 
 * Japanese ([https://t.me/PancakeSwapJP](https://t.me/PancakeSwapJP))
-* Chinese ([http://t.me/PancakeSwap\_CN](http://t.me/PancakeSwap_CN))
+* Chinese ([http://t.me/Labswap\_CN](http://t.me/PancakeSwap_CN))
 * Indonesian ([http://t.me/PancakeSwapIndonesia](http://t.me/PancakeSwapIndonesia))
 * Vietnamese ([https://t.me/PancakeSwapVN](https://t.me/PancakeSwapVN))
 * Spanish ([https://t.me/PancakeSwapES](https://t.me/PancakeSwapES))
@@ -32,14 +32,14 @@ Join our official Telegram and Discord communities to connect with other users, 
 * Italian ([https://t.me/pancakeswap\_ita](https://t.me/pancakeswap_ita))
 * Turkish ([https://t.me/pancakeswapturkiye](https://t.me/pancakeswapturkiye))
 * Filipino ([https://t.me/Pancakeswap\_Ph](https://t.me/Pancakeswap_Ph))
-* Indian ([https://t.me/PancakeSwap\_India](https://t.me/PancakeSwap_India))
+* Indian ([https://t.me/Labswap\_India](https://t.me/PancakeSwap_India))
 * 😤 Ban Appeal ([https://t.me/pancakebanappeal](https://t.me/pancakebanappeal))
 
 ### ⚠️ **Security & Warnings**
 
 🔴 **Beware of scams!**
 
-* PancakeSwap **DOES NOT provide support via direct messages (DMs).**
+* Labswap **DOES NOT provide support via direct messages (DMs).**
 * **Never share your private keys** or recovery phrases.
 * Always verify you're in the official channels (listed in this document).
 

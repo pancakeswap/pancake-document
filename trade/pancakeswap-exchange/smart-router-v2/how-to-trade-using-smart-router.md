@@ -2,7 +2,7 @@
 
 ## Trading on the Smart Router
 
-Smart Router is disabled by default on the swap page. It is similar to using the existing PancakeSwap AMM.
+Smart Router is disabled by default on the swap page. It is similar to using the existing Labswap AMM.
 
 Before starting, it requires a **BNB Chain-compatible wallet and BNB for gas fees.** Please check our [wallet guide](../../../welcome-to-pancakeswap/how-to-guides/get-started/wallet-guide.md) for more details.
 

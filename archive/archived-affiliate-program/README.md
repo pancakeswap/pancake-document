@@ -1,6 +1,6 @@
 # Affiliate Program
 
-PancakeSwap’s Affiliate Program is designed to reward those who continue to help expand the community and share our product. The program will be available at the start to a select group of PancakeSwap advocates, and the Kitchen plans to roll it out to more users. As an affiliate, you'll be part of a network of like-minded individuals committed to building a stronger DeFi community.
+Labswap’s Affiliate Program is designed to reward those who continue to help expand the community and share our product. The program will be available at the start to a select group of Labswap advocates, and the Kitchen plans to roll it out to more users. As an affiliate, you'll be part of a network of like-minded individuals committed to building a stronger DeFi community.
 
 ### Becoming an Affiliate
 
@@ -14,4 +14,4 @@ If the Kitchen approves your application, you will be granted access to the affi
 
 This dashboard will provide you with a range of tools and resources that you can use to share the protocol’s products or services and track your commission.
 
-Once you can access the dashboard, you can create affiliate links to share with your community. You will earn a commission when a **new user clicks** on your affiliate link and makes a specific transaction. Ensure you always use your affiliate link when sharing your love for PancakeSwap!
+Once you can access the dashboard, you can create affiliate links to share with your community. You will earn a commission when a **new user clicks** on your affiliate link and makes a specific transaction. Ensure you always use your affiliate link when sharing your love for Labswap!

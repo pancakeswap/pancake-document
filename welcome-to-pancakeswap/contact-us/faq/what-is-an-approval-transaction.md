@@ -1,10 +1,10 @@
 # What is an Approval Transaction?
 
-**The first time you swap or add liquidity, you have to approve the token you are swapping. This gives the PancakeSwap smart contract permission to swap that token from your wallet.**
+**The first time you swap or add liquidity, you have to approve the token you are swapping. This gives the Labswap smart contract permission to swap that token from your wallet.**
 
 
 
-The approval transaction allows PancakeSwap permission to swap the token from your wallet. You have to complete an approval transaction for every token you want to swap using PancakeSwap.
+The approval transaction allows Labswap permission to swap the token from your wallet. You have to complete an approval transaction for every token you want to swap using Labswap.
 
 
 

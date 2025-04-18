@@ -1,12 +1,12 @@
 ---
-description: Thank you for expressing your interest in contributing to PancakeSwap!
+description: Thank you for expressing your interest in contributing to Labswap!
 ---
 
 # Contributing
 
 ![](../../../.gitbook/assets/developers-header.png)
 
-PancakeSwap is an open-source project. If you want to contribute to the project, this section is here to guide you through your first steps with the PancakeSwap team 🥞
+Labswap is an open-source project. If you want to contribute to the project, this section is here to guide you through your first steps with the Labswap team 🥞
 
 Before starting any development, we highly encourage you to submit an issue on Github in order to discuss the problem, and the solution with the team.
 
@@ -103,4 +103,4 @@ _More at_ [_Angular's guidelines_](https://github.com/angular/angular/blob/22b96
 | **style**    | Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)      |
 | **test**     | Adding missing tests or correcting existing tests                                                           |
 
-**Thanks for helping us making PancakeSwap even more awesome** ❤
+**Thanks for helping us making Labswap even more awesome** ❤

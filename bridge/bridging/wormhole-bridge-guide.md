@@ -8,9 +8,9 @@ It is essential to read this guide before you start using the Wormhole bridge. T
 
 <figure><img src="https://lh7-us.googleusercontent.com/ZnR2zSNBpjyrzAs_JVlYdKCMDVYmOw4AVdJj_VIk0dmkvqTNxAC1ror2bEQlmSLeVGNV-PwhQSZdyquv-nCBPsHLjACy6LQsyM7M98dFrT9xKnZqC0aWYgUj0fjwC5pbZ9g1UwLalAU6DV-ORgPs-UY" alt=""><figcaption></figcaption></figure>
 
-1. **Head to PancakeSwap Wormhole Bridge -** [**https://bridge.pancakeswap.finance/wormhole**](https://bridge.pancakeswap.finance/wormhole)
+1. **Head to Labswap Wormhole Bridge -** [**https://bridge.pancakeswap.finance/wormhole**](https://bridge.pancakeswap.finance/wormhole)
 2. **Connect Source Chain Wallet** - The first step is to connect a wallet. When using the widget it's not important to have your wallet preset to the network you're trying to bridge from. Wormhole will automatically set the correct network for you based on the one you have chosen. For EVM chains only Metamask is supported
-3. **Select Source Chain Network** - PancakeSwap currently support 4 networks with the Wormhole Bridge (Ethereum, Binance Smart Chain, Arbitrum and Base)
+3. **Select Source Chain Network** - Labswap currently support 4 networks with the Wormhole Bridge (Ethereum, Binance Smart Chain, Arbitrum and Base)
 4. **Select Source Chain Asset** - Select the token you want to bridge.&#x20;
 5. **For Steps 4,5 and 6** - Repeat steps 1,2 and 3 with the destination chain
 6. Enter Bridge Amount - Enter bridge amount and proceed to approve transaction. Route and bridge will be shown similar to this:

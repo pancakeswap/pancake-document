@@ -2,7 +2,7 @@
 
 ### How to Place Orders in Dumb Mode
 
-To place an order in Dumb Mode on PancakeSwap, follow these steps:
+To place an order in Dumb Mode on Labswap, follow these steps:
 
 1. Select a Market: Go to [**Pancakeswap Perpertuals**](https://perp.pancakeswap.finance/en/futures/v2/BTCUSD?theme=light\&chain=bsc) on BSC. Choose from the available markets like BTCUSD, ETHUSD, etc.
 
@@ -17,7 +17,7 @@ To place an order in Dumb Mode on PancakeSwap, follow these steps:
    2. For short positions: If the expiry price is less than the entry price, users will win the trade and make profit.
    3. Otherwise, user will lose the entire collateral.
    4. Refer to notes for more details on position
-3.  Set Margin and Amount: Select your margin asset (USDC, USDT, CAKE, etc.) and specify the amount for collateral.
+3.  Set Margin and Amount: Select your margin asset (USDC, USDT, FLASK, etc.) and specify the amount for collateral.
 
     <figure><img src="../../../../.gitbook/assets/Frame 48097008.jpg" alt=""><figcaption></figcaption></figure>
 4. Choose Duration: Decide on the expiration of your trade - 60s, 5m, or 10m.

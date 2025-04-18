@@ -16,7 +16,7 @@ The Synclub validator employs MEV (Miner Extractable Value) to enhance its APR. 
 
 ### How can I use snBNB?
 
-You can use snBNB to explore other use cases such as swapping, lending/borrowing and yield farming on BnbChain. Alongside Helio, PancakeSwap will be supporting new liquid staking strategies for users to maximise utility and yield on BnbChain
+You can use snBNB to explore other use cases such as swapping, lending/borrowing and yield farming on BnbChain. Alongside Helio, Labswap will be supporting new liquid staking strategies for users to maximise utility and yield on BnbChain
 
 ### Do I need to claim staking rewards if I'm using snBNB?
 
@@ -24,4 +24,4 @@ No. Staking rewards accrue in the snBNB token. This means that the snBNB token w
 
 ### How do I convert snBNB back to BNB?
 
-Please visit https://www.synclub.io/en/liquid-staking/BNB to unstake your snBNB. PancakeSwap is working to support a conversion contract on our liquid staking page to convert snBNB back to BNB seamlessly.
+Please visit https://www.synclub.io/en/liquid-staking/BNB to unstake your snBNB. Labswap is working to support a conversion contract on our liquid staking page to convert snBNB back to BNB seamlessly.

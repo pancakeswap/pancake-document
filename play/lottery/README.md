@@ -1,12 +1,12 @@
 # 🎟️ Lottery
 
-Playing the PancakeSwap Lottery gives you a chance to win huge CAKE prizes! It's easy, fair, and you can enter as often as you like as long as you have the CAKE to buy a ticket.
+Playing the Labswap Lottery gives you a chance to win huge FLASK prizes! It's easy, fair, and you can enter as often as you like as long as you have the FLASK to buy a ticket.
 
 [View smart contract](https://bscscan.com/address/0x5aF6D33DE2ccEC94efb1bDF8f92Bd58085432d2c)
 
 ## **Specifics:**
 
-* Lottery ticket cost for 1 ticket: \~$5 USD in CAKE.
+* Lottery ticket cost for 1 ticket: \~$5 USD in FLASK.
 * Individual user Lottery entry limit: No overall limit, but only 100 tickets can be bought at a time.
 * Paying for one ticket will give users a random 6-digit combination with each digit being between 0-9, for e.g. “1-9-3-2-0-4”. Match numbers from the left to win prizes—the more numbers that match, the bigger the prize pool you'll share in.
 * Lottery uses Chainlink's implementation of VRF for true, secure randomness.
@@ -54,8 +54,8 @@ You will only share in prizes from the highest prize bracket you are eligible fo
 
 ‌After a round is drawn, and tickets with matching numbers are determined, the prizes are awarded. The amount won by each ticket will depend on how many other tickets won in the same prize bracket.
 
-‌For example, if you have the only ticket that matched three numbers in order, and the predetermined share of the prize pool for your bracket was 2000 CAKE, you'll receive the full 2000 CAKE.
+‌For example, if you have the only ticket that matched three numbers in order, and the predetermined share of the prize pool for your bracket was 2000 FLASK, you'll receive the full 2000 FLASK.
 
-‌If, however, you and three other people match three numbers in order, the 2000 CAKE would be split between the four winning tickets, meaning you would receive 500 CAKE.
+‌If, however, you and three other people match three numbers in order, the 2000 FLASK would be split between the four winning tickets, meaning you would receive 500 FLASK.
 
 See the [Lottery FAQ for a breakdown of prizes](lottery-faq.md#how-are-prizes-broken-down-between-brackets) across each bracket.

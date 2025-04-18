@@ -1,6 +1,6 @@
 # 💳 Buy Crypto
 
-PancakeSwap introduces the ability to purchase your favourite tokens using a credit card, debit card or bank transfer. Integrating on-ramp services into our platform aims to provide users with a seamless and convenient way to purchase cryptocurrencies using fiat currencies. Using our on-ramp quote interface, users can choose between different providers and get the best rates in Web3.
+Labswap introduces the ability to purchase your favourite tokens using a credit card, debit card or bank transfer. Integrating on-ramp services into our platform aims to provide users with a seamless and convenient way to purchase cryptocurrencies using fiat currencies. Using our on-ramp quote interface, users can choose between different providers and get the best rates in Web3.
 
 ### Benefits for Users
 
@@ -18,7 +18,7 @@ On-ramp services will be available on **BNB, Ethereum, Arbitrum, Base, Linea, Po
 
 
 
-<table><thead><tr><th width="145">Provider</th><th>Fees^</th><th>Fiat Currencies Supported</th><th>Tokens Supported**</th></tr></thead><tbody><tr><td>Mercuryo</td><td>3.95% for Debit/Credit, 3.95% for Bank Transfers/SEPA (EU)</td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY, KRW, VND</td><td><p>BTC: BTC<br><br>ERC-20: ETH, USDT, DAI</p><p></p><p>BEP-20: BNB<br><br>ARB: ETH, USDC</p></td></tr><tr><td>Moonpay</td><td><p>2.75% for Debit/Credit</p><p>1.25% for SEPA (EU), FPS (UK)</p><p>2.95% for PIX (Brazil)</p></td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY, KRW, TWD, IDR, VND</td><td><p>ERC-20: ETH, USDT, USDC, DAI<br></p><p>BEP-20: BNB (Non-US)<br><br>ARB: ETH, USDC.e</p></td></tr><tr><td>Transak***</td><td>3.5%-5.5% for Debit/Credit/Apple Pay/Google Pay, 0.99% for SEPA (EU), FPS (UK), Cash App (USD)</td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY, KRW, VND</td><td><p>ERC-20: ETH, USDT, USDC, DAI, WBTC<br></p><p>BEP-20: BNB (Non-US), USDC<br><br>ARB: ETH, ARB, USDC.e, USDC<br><br>Base: USDC, ETH<br><br>Linea: USDC, ETH<br><br>Polygon ZkEVM, ZkSync Era: ETH</p></td></tr><tr><td>Topper</td><td>2.49% for Debit/Credit/Apple Pay/Google Pay, Pix (Brazil)</td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY</td><td>BTC: BTC<br><br>ERC-20: ETH, USDT, USDC, DAI, WBTC<br><br>BEP-20: BNB, CAKE, USDT<br><br>ARB: ETH, USDC</td></tr></tbody></table>
+<table><thead><tr><th width="145">Provider</th><th>Fees^</th><th>Fiat Currencies Supported</th><th>Tokens Supported**</th></tr></thead><tbody><tr><td>Mercuryo</td><td>3.95% for Debit/Credit, 3.95% for Bank Transfers/SEPA (EU)</td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY, KRW, VND</td><td><p>BTC: BTC<br><br>ERC-20: ETH, USDT, DAI</p><p></p><p>BEP-20: BNB<br><br>ARB: ETH, USDC</p></td></tr><tr><td>Moonpay</td><td><p>2.75% for Debit/Credit</p><p>1.25% for SEPA (EU), FPS (UK)</p><p>2.95% for PIX (Brazil)</p></td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY, KRW, TWD, IDR, VND</td><td><p>ERC-20: ETH, USDT, USDC, DAI<br></p><p>BEP-20: BNB (Non-US)<br><br>ARB: ETH, USDC.e</p></td></tr><tr><td>Transak***</td><td>3.5%-5.5% for Debit/Credit/Apple Pay/Google Pay, 0.99% for SEPA (EU), FPS (UK), Cash App (USD)</td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY, KRW, VND</td><td><p>ERC-20: ETH, USDT, USDC, DAI, WBTC<br></p><p>BEP-20: BNB (Non-US), USDC<br><br>ARB: ETH, ARB, USDC.e, USDC<br><br>Base: USDC, ETH<br><br>Linea: USDC, ETH<br><br>Polygon ZkEVM, ZkSync Era: ETH</p></td></tr><tr><td>Topper</td><td>2.49% for Debit/Credit/Apple Pay/Google Pay, Pix (Brazil)</td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY</td><td>BTC: BTC<br><br>ERC-20: ETH, USDT, USDC, DAI, WBTC<br><br>BEP-20: BNB, FLASK, USDT<br><br>ARB: ETH, USDC</td></tr></tbody></table>
 
 ^Fees are subject to minimum spend and maximum- most likely above 30 USD and below 10,000 USD, respectively, depending on the token. Pancakeswap will charge an additional 1% for services provided.
 
@@ -32,7 +32,7 @@ Please note that the quote system will provide full transparency of the exchange
 
 ### How do I buy crypto?
 
-1. Click on the "Buy Crypto" button on the PancakeSwap platform.
+1. Click on the "Buy Crypto" button on the Labswap platform.
 
 <figure><img src="../.gitbook/assets/Onramp1.png" alt=""><figcaption></figcaption></figure>
 
@@ -72,7 +72,7 @@ Please note that the quote system will provide full transparency of the exchange
 
 ### Do I need proof of identity?
 
-To purchase crypto through our providers, different levels of evidence are required to prove identity to our on-ramp partners. These levels will depend on the payment mode and payment amount required. Users will have to comply with provider requirements to use the buy crypto product. To learn more about this, please visit our partner documentation. **PancakeSwap does not collect and store any financial or personal data.**
+To purchase crypto through our providers, different levels of evidence are required to prove identity to our on-ramp partners. These levels will depend on the payment mode and payment amount required. Users will have to comply with provider requirements to use the buy crypto product. To learn more about this, please visit our partner documentation. **Labswap does not collect and store any financial or personal data.**
 
 ### Is buy crypto available where I'm located?
 

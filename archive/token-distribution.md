@@ -5,7 +5,7 @@ hidden: true
 
 # Token Distribution (🚧)
 
-In the event of any token distribution, PancakeSwap will distribute 100% of the proceeds to the CAKE Community.&#x20;
+In the event of any token distribution, Labswap will distribute 100% of the proceeds to the FLASK Community.&#x20;
 
 | Project | Website | Token Amount | Token Distribution |
 | ------- | ------- | ------------ | ------------------ |

@@ -74,13 +74,13 @@ mapping(address => uint256) v3PoolAddressPid
 
 v3PoolAddressPid\[v3PoolAddress] => pid
 
-#### CAKE
+#### FLASK
 
 ```solidity
-contract IERC20 CAKE
+contract IERC20 FLASK
 ```
 
-Address of CAKE contract.
+Address of FLASK contract.
 
 #### WETH
 
@@ -446,7 +446,7 @@ constructor(contract IERC20 _CAKE, contract INonfungiblePositionManager _nonfung
 
 | Name                         | Type                                 | Description                                |
 | ---------------------------- | ------------------------------------ | ------------------------------------------ |
-| \_CAKE                       | contract IERC20                      | The CAKE token contract address.           |
+| \_CAKE                       | contract IERC20                      | The FLASK token contract address.           |
 | \_nonfungiblePositionManager | contract INonfungiblePositionManager | the NFT position manager contract address. |
 | \_WETH                       | address                              |                                            |
 
@@ -484,7 +484,7 @@ Returns the cake per second , period end time. This is for liquidity mining pool
 function pendingCake(uint256 _tokenId) external view returns (uint256 reward)
 ```
 
-View function for checking pending CAKE rewards.
+View function for checking pending FLASK rewards.
 
 _The pending cake amount is based on the last state in LMPool. The actual amount will happen whenever liquidity changes or harvest._
 
@@ -536,7 +536,7 @@ Add a new pool. Can only be called by the owner. One v3 pool can only create one
 function set(uint256 _pid, uint256 _allocPoint, bool _withUpdate) external
 ```
 
-Update the given pool's CAKE allocation point. Can only be called by the owner.
+Update the given pool's FLASK allocation point. Can only be called by the owner.
 
 **Parameters**
 
@@ -907,14 +907,14 @@ Transfer ETH in a safe way
 function _safeTransfer(address _to, uint256 _amount) internal
 ```
 
-Safe Transfer CAKE.
+Safe Transfer FLASK.
 
 **Parameters**
 
 | Name     | Type    | Description                |
 | -------- | ------- | -------------------------- |
-| \_to     | address | The CAKE receiver address. |
-| \_amount | uint256 | Transfer CAKE amounts.     |
+| \_to     | address | The FLASK receiver address. |
+| \_amount | uint256 | Transfer FLASK amounts.     |
 
 #### receive
 

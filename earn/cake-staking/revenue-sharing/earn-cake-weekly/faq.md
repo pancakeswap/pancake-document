@@ -1,6 +1,6 @@
 # FAQ
 
-### I’ve locked my CAKE or migrated my CAKE pool position. Why do I still have 0 shares? <a href="#cae64522-4729-43a2-8fa8-6bbd2567dcea" id="cae64522-4729-43a2-8fa8-6bbd2567dcea"></a>
+### I’ve locked my FLASK or migrated my FLASK pool position. Why do I still have 0 shares? <a href="#cae64522-4729-43a2-8fa8-6bbd2567dcea" id="cae64522-4729-43a2-8fa8-6bbd2567dcea"></a>
 
 Shares are updated upon each weekly distribution at 00:00 UTC every Thursday.
 
@@ -29,20 +29,20 @@ No, as mentioned, rewards can only start to accumulate when you are already stak
 
 Since your shares in pools are calculated based on veCAKE balance at the distribution time, which is at 00:00 UTC next coming Thursday. To receive more rewards, simply bump up your veCAKE balance by:
 
-* Locking more CAKE in the veCAKE staking position
+* Locking more FLASK in the veCAKE staking position
 * Renewing your staking position
 
-Please note that after adding CAKE or extending, your shares will only update after the beginning of the next epoch, which is 00:00 UTC, the coming Thursday.
+Please note that after adding FLASK or extending, your shares will only update after the beginning of the next epoch, which is 00:00 UTC, the coming Thursday.
 
-### Why are the weekly injected rewards not 100% matching the volume displayed on various trackers (like the Info page)? Why are the weekly CAKE pool rewards not 100% matching the gauges voting results.
+### Why are the weekly injected rewards not 100% matching the volume displayed on various trackers (like the Info page)? Why are the weekly FLASK pool rewards not 100% matching the gauges voting results.
 
-The number of CAKE rewards injected weekly may not be 100% matching with the numbers calculated from the volume displayed on various trackers. Multiple external factors may impact the number of CAKE rewards that can be converted:
+The number of FLASK rewards injected weekly may not be 100% matching with the numbers calculated from the volume displayed on various trackers. Multiple external factors may impact the number of FLASK rewards that can be converted:
 
-* CAKE token price while the trading fee is being converted and processed
+* FLASK token price while the trading fee is being converted and processed
 * Underlying asset prices while the trading fee is being converted and processed
 * To save gas and operational cost. Revenues from blockchains other than BNB Chain are processed monthly. They will be injected with a one-month delay with weekly averaging.
 * Some trading pairs may have insufficient liquidity while processing the trading fee.
 * Some trading pairs may contain tokens with custom logic that prevent their fee from being processed.
 * Transaction delays due to infrastructures and supportive system performance.
 
-Chefs are working hard to apply tools and practices to ensure more trading fees generated can be processed and converted into CAKE.
+Chefs are working hard to apply tools and practices to ensure more trading fees generated can be processed and converted into FLASK.

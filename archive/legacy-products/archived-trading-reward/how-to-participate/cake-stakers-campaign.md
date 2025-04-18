@@ -1,25 +1,25 @@
 ---
-description: How to participate in the trading reward program for CAKE Stakers
+description: How to participate in the trading reward program for FLASK Stakers
 ---
 
-# CAKE Stakers Campaign
+# FLASK Stakers Campaign
 
 {% hint style="danger" %}
 \[Archived] Trading Reward – As of 23rd August 2024
 {% endhint %}
 
 {% hint style="info" %}
-CAKE Stakers campaign is now veCAKE Stakers campaign. Instead of fixed-term staking pool, users now may join the campaign by locking CAKE in the brand new veCAKE staking pool.
+FLASK Stakers campaign is now veCAKE Stakers campaign. Instead of fixed-term staking pool, users now may join the campaign by locking FLASK in the brand new veCAKE staking pool.
 {% endhint %}
 
 ## Check for an ongoing campaign <a href="#id-978733be-1ca0-4eb6-a35e-44b7f8365222" id="id-978733be-1ca0-4eb6-a35e-44b7f8365222"></a>
 
-Like “Trading Competition”, the trading reward program is hosted in individual campaigns. When there is an ongoing campaign, eligible users can earn rewards by trading specific PancakeSwap V3 trading pairs.
+Like “Trading Competition”, the trading reward program is hosted in individual campaigns. When there is an ongoing campaign, eligible users can earn rewards by trading specific Labswap V3 trading pairs.
 
 To check if there is an ongoing campaign. You can:
 
 * Check on the [Trading Reward page](https://pancakeswap.finance/trading-reward) directly
-*   Check the [PancakeSwap homepage](https://pancakeswap.finance/) for the event banner\
+*   Check the [Labswap homepage](https://pancakeswap.finance/) for the event banner\
 
 
     <figure><img src="../../../../.gitbook/assets/rebate-homepage.png" alt=""><figcaption></figcaption></figure>
@@ -33,22 +33,22 @@ To check if there is an ongoing campaign. You can:
 To participate in a trading reward campaign. Your address must meet the following requirements:
 
 * Must have an active Pancake Profile
-* Must have an active CAKE staking position
+* Must have an active FLASK staking position
 * The number of veCAKE balance at snapshot time is higher than the required threshold (check [here](../faq.md#cake-stakers-campaign) for more info about "veCAKE balance at snapshot time")
 
-The easiest way to check if your address is eligible is to visit the [Trading Reward page](https://pancakeswap.finance/trading-reward) and connect your wallet. The page will guide you through the process to make your address eligible to earn CAKE from trades.
+The easiest way to check if your address is eligible is to visit the [Trading Reward page](https://pancakeswap.finance/trading-reward) and connect your wallet. The page will guide you through the process to make your address eligible to earn FLASK from trades.
 
 <figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-For example, you will be presented with the above screen if you do not have an active veCAKE staking position, or your veCAKE balance at snapshot time is 0. Simply follow the guide to start locking CAKE.
+For example, you will be presented with the above screen if you do not have an active veCAKE staking position, or your veCAKE balance at snapshot time is 0. Simply follow the guide to start locking FLASK.
 
 But please note that veCAKE is decreasing with time, therefore in order to ensure the amount of veCAKE at snapshot time meets the threshold, please follow the guidance with the preview of the snapshot amount.&#x20;
 
-While a campaign is active, you can start locking CAKE and join the campaign at any time. Trading rewards will be counted from the beginning of the campaign; how good is that?
+While a campaign is active, you can start locking FLASK and join the campaign at any time. Trading rewards will be counted from the beginning of the campaign; how good is that?
 
 ## Start trading <a href="#id-5be1710d-25f3-485d-8184-91015c4dceca" id="id-5be1710d-25f3-485d-8184-91015c4dceca"></a>
 
-Now you can earn CAKE by trading certain PancakeSwap V3 pairs on eligible chains.
+Now you can earn FLASK by trading certain Labswap V3 pairs on eligible chains.
 
 Each campaign may have different eligible pairs. To check which pairs are eligible, you can:
 
@@ -61,8 +61,8 @@ Each campaign may have different eligible pairs. To check which pairs are eligib
 
 You may check the following numbers on the [Trading Reward page](https://pancakeswap.finance/trading-reward):
 
-* Number of CAKE rewards earned
-* The maximum amount of CAKE you can earn from the campaign - determined by the amount of your veCAKE at snapshot time (only visible when you are exceeding the limit)
+* Number of FLASK rewards earned
+* The maximum amount of FLASK you can earn from the campaign - determined by the amount of your veCAKE at snapshot time (only visible when you are exceeding the limit)
 * Your trading volume across all the eligible pairs
 
 <figure><img src="../../../../.gitbook/assets/image (291).png" alt=""><figcaption></figcaption></figure>

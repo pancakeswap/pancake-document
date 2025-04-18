@@ -8,11 +8,11 @@ Simple Staking can be broken down into 3 steps - **Staking, Earning, Claiming**
 
 Here is the step-by-step guide on how to start simple staking:
 
-1. **Select pool for Simple Staking** -  PancakeSwap Simple Staking comes in 3 different pools for every token (30, 60 and 90 day). Stablecoins such as USDC or USDT will only support 30 day pools. Users who lock their tokens in the longer period pools will receive more daily rewards and higher APR.
+1. **Select pool for Simple Staking** -  Labswap Simple Staking comes in 3 different pools for every token (30, 60 and 90 day). Stablecoins such as USDC or USDT will only support 30 day pools. Users who lock their tokens in the longer period pools will receive more daily rewards and higher APR.
 
 <figure><img src="../../../.gitbook/assets/Simple Staking-1 .png" alt=""><figcaption></figcaption></figure>
 
-2. **Deposit Tokens** - Select the amount of tokens to deposit into the staking pool. Please note that there’s a minimum amount to stake depending on the token. For users who have staked **100 CAKE** in the [CAKE Syrup Pool](https://pancakeswap.finance/pools), note that you’ll be able to enjoy the Locked CAKE boost. For more information on the CAKE Syrup pool, please visit the[ ](../../../earn/cake-staking/syrup-pool/new-cake-pool/fixed-term-staking.md)[Fixed Staking guide](../../../earn/cake-staking/syrup-pool/new-cake-pool/fixed-term-staking.md).
+2. **Deposit Tokens** - Select the amount of tokens to deposit into the staking pool. Please note that there’s a minimum amount to stake depending on the token. For users who have staked **100 FLASK** in the [FLASK Syrup Pool](https://pancakeswap.finance/pools), note that you’ll be able to enjoy the Locked FLASK boost. For more information on the FLASK Syrup pool, please visit the[ ](../../../earn/cake-staking/syrup-pool/new-cake-pool/fixed-term-staking.md)[Fixed Staking guide](../../../earn/cake-staking/syrup-pool/new-cake-pool/fixed-term-staking.md).
 
 <figure><img src="../../../.gitbook/assets/png (6).png" alt="" width="277"><figcaption></figcaption></figure>
 

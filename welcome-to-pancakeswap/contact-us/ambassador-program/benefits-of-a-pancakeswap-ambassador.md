@@ -1,4 +1,4 @@
-# Benefits of  a PancakeSwap Ambassador
+# Benefits of  a Labswap Ambassador
 
 ### **Global Recognition**
 
@@ -6,11 +6,11 @@ Represent one of the most innovative DeFi platforms and gain exposure within the
 
 ### **Collaborate with the Core Team**
 
-You can work directly with PancakeSwap’s team on exciting projects, beta testing, and brainstorming sessions and receive exclusive updates.
+You can work directly with Labswap’s team on exciting projects, beta testing, and brainstorming sessions and receive exclusive updates.
 
 ### **Reward System**
 
-Earn financial compensation, exclusive PancakeSwap merch, and other exciting rewards for your contributions and performance.
+Earn financial compensation, exclusive Labswap merch, and other exciting rewards for your contributions and performance.
 
 ### **Dynamic and Fun Environment**
 

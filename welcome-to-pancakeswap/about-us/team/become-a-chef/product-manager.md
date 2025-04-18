@@ -9,7 +9,7 @@
 
 ### Your Responsibilities
 
-Collaborate with internal stakeholders (leads, design, devs, bd, marketing, qa, data, ops) to craft future PancakeSwap products from 0 to 1.
+Collaborate with internal stakeholders (leads, design, devs, bd, marketing, qa, data, ops) to craft future Labswap products from 0 to 1.
 
 ### Skills & Qualifications
 

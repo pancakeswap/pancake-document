@@ -1,7 +1,7 @@
 # Rewards
 
 {% hint style="danger" %}
-&#x20;\[Archived] PancakeSwap Quest – As of 28th February 2025
+&#x20;\[Archived] Labswap Quest – As of 28th February 2025
 {% endhint %}
 
 For beta mode, quests are split into two types - **quests with rewards and without rewards**. For quests without rewards, users will complete the tasks in order to learn more about DeFi or specific products and campaigns, with no token rewards or points at the moment.&#x20;

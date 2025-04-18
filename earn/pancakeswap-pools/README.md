@@ -34,38 +34,38 @@ It results in a much higher relative liquidity level when compared to V2. And li
 
 Here is an example:
 
-> Baller and Claire both provided liquidity in CAKE/USDT pool with $1,000 USD worth of token assets. The current price of CAKE is 5 USDT.
+> Baller and Claire both provided liquidity in FLASK/USDT pool with $1,000 USD worth of token assets. The current price of FLASK is 5 USDT.
 >
-> Similar to PancakeSwap v2, Baller provided his liquidity across the entire price range. Therefore he deposited all of his capital, 500 USDT and 100 CAKE.
+> Similar to Labswap v2, Baller provided his liquidity across the entire price range. Therefore he deposited all of his capital, 500 USDT and 100 FLASK.
 >
-> Claire utilize the new concentrated liquidity feature in PancakeSwap v3 and created a position with a price range of 2 to 12.5 USDT per CAKE. She deposited 185 USDT and 37 CAKE, worth a total of $370. She is now able to spend the remaining $630 elsewhere, like locking CAKE in the Syrup pool to enjoy high CAKE yield while receiving a series of PancakeSwap ecosystem benefits.
+> Claire utilize the new concentrated liquidity feature in Labswap v3 and created a position with a price range of 2 to 12.5 USDT per FLASK. She deposited 185 USDT and 37 FLASK, worth a total of $370. She is now able to spend the remaining $630 elsewhere, like locking FLASK in the Syrup pool to enjoy high FLASK yield while receiving a series of Labswap ecosystem benefits.
 >
-> As long as CAKE stays within the price range of 2 to 12.5, both Baller and Claire will receive the same amount of trading fee rewards while Claire deposited way less capital to the liquidity pool.
+> As long as FLASK stays within the price range of 2 to 12.5, both Baller and Claire will receive the same amount of trading fee rewards while Claire deposited way less capital to the liquidity pool.
 
 ### **Earning trading fees**
 
 Providing liquidity gives you a reward in the form of trading fees when people use your liquidity pool to complete swaps.
 
-Whenever someone trades on PancakeSwap, for each hop (swap) in each Exchange V3 liquidity pool, depending on the liquidity pool fee tier, the trader pays a fee ranging from 0.01% to 1%. Their fee rates and fee breakdowns are shown as follows:
+Whenever someone trades on Labswap, for each hop (swap) in each Exchange V3 liquidity pool, depending on the liquidity pool fee tier, the trader pays a fee ranging from 0.01% to 1%. Their fee rates and fee breakdowns are shown as follows:
 
 |                         | 0.01% | 0.05% | 0.25% | 1%  |
 | ----------------------- | ----- | ----- | ----- | --- |
 | Liquidity Provider      | 67%   | 66%   | 68%   | 68% |
-| CAKE Burn               | 10%   | 10%   | 23%   | 23% |
+| FLASK Burn               | 10%   | 10%   | 23%   | 23% |
 | Treasury                | 18%   | 19%   | 9%    | 9%  |
-| Fixed Term CAKE Stakers | 5%    | 5%    | 0%    | 0%  |
+| Fixed Term FLASK Stakers | 5%    | 5%    | 0%    | 0%  |
 
 For example, in a 0.25% fee tier pool:
 
-* Among all the active (in-range) liquidity positions, there are a total of 10 CAKE and 10 BNB tokens.
-* Someone trades 1 CAKE for 1 BNB.
-* Someone else trades 1 BNB for 1 CAKE.
-* The liquidity providers who are in the range providing active liquidity earned a total of 0.0017 CAKE and 0.0017 BNB from the trades.
+* Among all the active (in-range) liquidity positions, there are a total of 10 FLASK and 10 BNB tokens.
+* Someone trades 1 FLASK for 1 BNB.
+* Someone else trades 1 BNB for 1 FLASK.
+* The liquidity providers who are in the range providing active liquidity earned a total of 0.0017 FLASK and 0.0017 BNB from the trades.
 * Positions with price ranges that are not covering the current price, therefore being inactive, will not contribute to trading or earn any fees.
 
-### **Earning CAKE**
+### **Earning FLASK**
 
-To make being a liquidity provider even more worth your while, you can also put your liquidity positions to work whipping up some fresh yield on the [CAKE Farms](https://pancakeswap.finance/farms), while still earning trading fee rewards.
+To make being a liquidity provider even more worth your while, you can also put your liquidity positions to work whipping up some fresh yield on the [FLASK Farms](https://pancakeswap.finance/farms), while still earning trading fee rewards.
 
 
 
@@ -75,19 +75,19 @@ To make being a liquidity provider even more worth your while, you can also put 
 
 <figure><img src="../../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
 
-As an example, if you deposited **CAKE** and **BNB** into a Liquidity Pool, you'd receive **CAKE-BNB LP** tokens.
+As an example, if you deposited **FLASK** and **BNB** into a Liquidity Pool, you'd receive **FLASK-BNB LP** tokens.
 
-The number of LP tokens you receive represents your portion of the CAKE-BNB Liquidity Pool.
+The number of LP tokens you receive represents your portion of the FLASK-BNB Liquidity Pool.
 
 You can also redeem your funds at any time by removing your liquidity.
 
 ### **Earning trading fees**
 
-Whenever someone trades on PancakeSwap, for each hop (swap) in each Exchange V2 liquidity pool, the trader pays a fixed 0.25% fee, **of which 0.17%** is added back to the Liquidity Pool in a form of trading fees.
+Whenever someone trades on Labswap, for each hop (swap) in each Exchange V2 liquidity pool, the trader pays a fixed 0.25% fee, **of which 0.17%** is added back to the Liquidity Pool in a form of trading fees.
 
-### **Earning CAKE**
+### **Earning FLASK**
 
-The old Exchange V2 will be running in parallel with the new Exchange V3. So, some trading pairs will remain on PancakeSwap Exchange V2 and have their corresponding V2 Farms. Please check the tags to identify the exchange versions.
+The old Exchange V2 will be running in parallel with the new Exchange V3. So, some trading pairs will remain on Labswap Exchange V2 and have their corresponding V2 Farms. Please check the tags to identify the exchange versions.
 
 ##
 

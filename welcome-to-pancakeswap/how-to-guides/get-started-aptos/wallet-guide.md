@@ -2,7 +2,7 @@
 
 ![](../../../.gitbook/assets/how-to-make-a-crypto-wallet-header.png)
 
-To get started on your PancakeSwap journey on Aptos, the first thing you'll need is to set up a wallet that supports Aptos Chain. Wallets are available both on desktop computers and on smartphone devices. You'll need to choose the wallet that fits your needs best.
+To get started on your Labswap journey on Aptos, the first thing you'll need is to set up a wallet that supports Aptos Chain. Wallets are available both on desktop computers and on smartphone devices. You'll need to choose the wallet that fits your needs best.
 
 {% hint style="danger" %}
 **When you're setting up a wallet, be sure to:**
@@ -39,7 +39,7 @@ Smartphone/Mobile wallets allow you to access your crypto almost anywhere. Walle
 
 ### Which mobile wallet should I choose?
 
-This comparison table gives an overview of the most popular mobile wallets used with PancakeSwap.
+This comparison table gives an overview of the most popular mobile wallets used with Labswap.
 
 <table><thead><tr><th width="283.4285714285714"></th><th width="148">SafePal</th><th>Trust Wallet</th><th>Blocto</th></tr></thead><tbody><tr><td>Aptos Chain support</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Built-in DApp browser</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Hardware wallet compatible</td><td><p>✅ </p><p>(Only SafePal)</p></td><td>➖</td><td>➖</td></tr><tr><td>Open source (auditability)</td><td>➖</td><td>✅</td><td>➖</td></tr></tbody></table>
 
@@ -126,7 +126,7 @@ Blocto offers a user-friendly solution and an all-in-one package for using Dapps
 
 
 
-3 - Done! You can now deposit APT into the Aptos wallet and start using PancakeSwap on Aptos by going to the "Discover" page!
+3 - Done! You can now deposit APT into the Aptos wallet and start using Labswap on Aptos by going to the "Discover" page!
 
 ![](../../../.gitbook/assets/blocto-setup-guide-mobile-6.png)![](../../../.gitbook/assets/blocto-setup-guide-mobile-7.png)
 {% endtab %}
@@ -138,7 +138,7 @@ Desktop wallets are available on your home computer or laptop computer. Wallets 
 
 ### Which desktop wallet should I choose?
 
-This comparison table gives an overview of the most popular desktop wallets used with PancakeSwap on Aptos
+This comparison table gives an overview of the most popular desktop wallets used with Labswap on Aptos
 
 <table><thead><tr><th width="187"></th><th width="79">Petra</th><th width="97">Martian</th><th width="92">Pontem</th><th width="109">Fewcha</th><th width="94">Blocto</th></tr></thead><tbody><tr><td>Aptos Chain support</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Hardware wallet compatible</td><td>➖</td><td>➖</td><td>➖</td><td>➖</td><td>➖</td></tr><tr><td>Open source (auditability)</td><td>✅</td><td>❓</td><td>✅</td><td>❓</td><td>❓</td></tr></tbody></table>
 
@@ -249,7 +249,7 @@ Fewcha is a trusted crypto wallet optimized for Aptos and SUI ecosystem that unl
 
 <figure><img src="../../../.gitbook/assets/image (324).png" alt=""><figcaption></figcaption></figure>
 
-To start using PancakeSwap on Aptos, you will also need to have some $APT tokens to pay gas fees. You can learn how to get some here.
+To start using Labswap on Aptos, you will also need to have some $APT tokens to pay gas fees. You can learn how to get some here.
 {% endtab %}
 
 {% tab title="Blocto" %}
@@ -292,12 +292,12 @@ Blocto offers a user-friendly solution and an all-in-one package for using Dapps
 
 
 
-4 - Done! Please note that you will need to fund your Aptos address with APT to start using PancakeSwap on Aptos. If you want to access the same account on other devices, simply sign in using the same Email address.
+4 - Done! Please note that you will need to fund your Aptos address with APT to start using Labswap on Aptos. If you want to access the same account on other devices, simply sign in using the same Email address.
 {% endtab %}
 {% endtabs %}
 
 {% hint style="danger" %}
 NEVER, in any situation, should you ever give someone your private key or recovery phrase ("seed phrase"). This will give someone complete access to your crypto!
 
-The genuine PancakeSwap site and staff will never ask you to input your seed phrase.
+The genuine Labswap site and staff will never ask you to input your seed phrase.
 {% endhint %}

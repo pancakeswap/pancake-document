@@ -22,7 +22,7 @@
 ### Nice to have:
 
 * Strong audience- and content-focused mindset.
-* Experience using fintech apps or PancakeSwap products/ with crypto / Web3 Familiarity.
+* Experience using fintech apps or Labswap products/ with crypto / Web3 Familiarity.
 * Experience of handling design assets and material for print and merch items is a big plus.
 * Experience working in distributed teams.&#x20;
 

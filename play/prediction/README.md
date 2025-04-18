@@ -2,9 +2,9 @@
 
 ![](../../.gitbook/assets/prediction-header.png)
 
-PancakeSwap Prediction is a fun and simple decentralized prediction market.
+Labswap Prediction is a fun and simple decentralized prediction market.
 
-> ### Predict whether BNB, ETH or CAKE price will rise or fall – guess correctly to win!
+> ### Predict whether BNB, ETH or FLASK price will rise or fall – guess correctly to win!
 
 It's easy to take part:
 
@@ -24,15 +24,15 @@ Have fun!
 
 [**View V2 BNB smart contract**](https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda)
 
-[**View V2 CAKE smart contract**](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07)
+[**View V2 FLASK smart contract**](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07)
 
-## PancakeSwap Prediction Guides
+## Labswap Prediction Guides
 
 Get started with Prediction with our guides and FAQs.
 
 
 
-## PancakeSwap Prediction Markets
+## Labswap Prediction Markets
 
 | Chain      | Markets         | Oracle           |
 | ---------- | --------------- | ---------------- |

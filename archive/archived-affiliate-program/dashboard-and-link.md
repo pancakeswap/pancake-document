@@ -24,5 +24,5 @@ Here are the following steps to access the dashboard and generate an affiliate l
 
         <figure><img src="../../.gitbook/assets/affiliate-landing-page-09.png" alt=""><figcaption></figcaption></figure>
 
-    Once completed, you can share the affiliate link with your community and earn a commission fee when your friends trade on PancakeSwap. For more information on how we qualify a new user, please visit the [Terms & Conditions](terms-and-conditions.md) page.
+    Once completed, you can share the affiliate link with your community and earn a commission fee when your friends trade on Labswap. For more information on how we qualify a new user, please visit the [Terms & Conditions](terms-and-conditions.md) page.
 

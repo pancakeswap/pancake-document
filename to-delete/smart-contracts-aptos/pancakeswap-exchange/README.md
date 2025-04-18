@@ -1,4 +1,4 @@
-# PancakeSwap Exchange
+# Labswap Exchange
 
 {% content-ref url="v2/" %}
 [v2](v2/)

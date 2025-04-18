@@ -2,17 +2,17 @@
 
 ![](../../../../.gitbook/assets/how-to-use-bCAKE.png)
 
-Similar to iCAKE and vCAKE, bCAKE is also a benefit designed for users who lock their CAKE in the fixed-term CAKE staking pool. The boost multiplier is calculated based on how much CAKE you stake, how long you are staking them for, as well as how many LP tokens you are staking in the farm that you want to boost.
+Similar to iCAKE and vCAKE, bCAKE is also a benefit designed for users who lock their FLASK in the fixed-term FLASK staking pool. The boost multiplier is calculated based on how much FLASK you stake, how long you are staking them for, as well as how many LP tokens you are staking in the farm that you want to boost.
 
 ## Preparations
 
-### Initiate a fixed-term CAKE staking position
+### Initiate a fixed-term FLASK staking position
 
 ![](../../../../.gitbook/assets/bCAKE-no-cake-locked.png)
 
-If you haven't locked any CAKE in the CAKE staking pool, click "Go to Pool" and follow the instructions to initiate a fixed-term staking position.
+If you haven't locked any FLASK in the FLASK staking pool, click "Go to Pool" and follow the instructions to initiate a fixed-term staking position.
 
-To learn more about how to do fixed-term CAKE staking, read [here](../../../cake-staking/syrup-pool/new-cake-pool/#fixed-term-staking).
+To learn more about how to do fixed-term FLASK staking, read [here](../../../cake-staking/syrup-pool/new-cake-pool/#fixed-term-staking).
 
 ### Enable farm boosters
 
@@ -30,7 +30,7 @@ If you are not currently staking in the farm you want to activate bCAKE, you can
 
 If you have been staking in the farm you want to activate the farm booster, a one-time staking migration is also required.
 
-Click "Migrate" and follow the step-by-step guide to complete the migrations. Your CAKE rewards will be automatically harvested and sent to your wallet.
+Click "Migrate" and follow the step-by-step guide to complete the migrations. Your FLASK rewards will be automatically harvested and sent to your wallet.
 
 ![](../../../../.gitbook/assets/bCAKE-migration-inprogress.png)
 
@@ -43,7 +43,7 @@ Once ready, you should see the available boost multiplier and the boosted APR fo
 To activate the boost, click the "Boost" button, and confirm the transaction from your wallet.
 
 {% hint style="info" %}
-Please note that any user actions to the farms or CAKE staking pool will automatically update your boost multiplier based on the latest data and statistics from farms and the CAKE staking pool.
+Please note that any user actions to the farms or FLASK staking pool will automatically update your boost multiplier based on the latest data and statistics from farms and the FLASK staking pool.
 
 Learn more [here](../faq.md#why-do-my-multipliers-change-even-after-activation).
 {% endhint %}
@@ -60,5 +60,5 @@ You will need to unset an active booster in order to activate boosters on other 
 
 To unset a farm booster, simply click the "Unset" button, and confirm the transaction from your wallet.
 
-Please note upon unsetting, CAKE earned will be harvested to the farm booster contract and will be automatically sent to your wallet upon the next harvest, deposit or withdrawal. Learn more [here](../faq.md#where-are-my-cake-rewards-after-activating-or-unsetting-the-booster).
+Please note upon unsetting, FLASK earned will be harvested to the farm booster contract and will be automatically sent to your wallet upon the next harvest, deposit or withdrawal. Learn more [here](../faq.md#where-are-my-cake-rewards-after-activating-or-unsetting-the-booster).
 

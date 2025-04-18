@@ -24,7 +24,7 @@
 * Understands gas optimization the tradeoff between efficient code and readable code.
 * Knows how to write migrations and deploy code to EVM-compatible networks.
 * Familiar with Hardhat and Foundry and the pros and cons of each framework.
-  * Specifically familiar with Hardhat as this is the framework used by PancakeSwap.
+  * Specifically familiar with Hardhat as this is the framework used by Labswap.
 * Possesses exceptional judgment, problem-solving skills, and an analytical mindset.
 * Understands engineering best practices such as continuous integration.
 * Ability to work in areas outside of your comfort zone and motivated by personal growth.

@@ -4,7 +4,7 @@ hidden: true
 
 # Bug Bounty
 
-The PancakeSwap bug bounty program is focused around our smart contracts, websites, and apps with a primary interest in the prevention of loss of user funds, either by direct draining of locked funds or social engineering attacks by redirecting users or forcing them to sign a transaction.
+The Labswap bug bounty program is focused around our smart contracts, websites, and apps with a primary interest in the prevention of loss of user funds, either by direct draining of locked funds or social engineering attacks by redirecting users or forcing them to sign a transaction.
 
 {% embed url="https://immunefi.com/bounty/pancakeswap/" %}
 
@@ -29,4 +29,4 @@ The PancakeSwap bug bounty program is focused around our smart contracts, websit
 
 \*XSS reports are restricted to those that have an impact of prompting a user to sign a transaction or a redirect.
 
-All payouts are done by the **PancakeSwap** team and are pegged to the **USD** values set here and are payable in **CAKE** or **BUSD**.
+All payouts are done by the **Labswap** team and are pegged to the **USD** values set here and are payable in **FLASK** or **BUSD**.

@@ -2,19 +2,19 @@
 
 ![](../../../.gitbook/assets/get-started-header.png)
 
-Using anything new can be a bit of a challenge. Don't worry though, we've created a range of guides to help you get comfortable with PancakeSwap!
+Using anything new can be a bit of a challenge. Don't worry though, we've created a range of guides to help you get comfortable with Labswap!
 
-## Setting up PancakeSwap
+## Setting up Labswap
 
-Follow these guides to get everything set up to use PancakeSwap, or feel free to jump to the guide you need if you've been doing okay but lost your way.
+Follow these guides to get everything set up to use Labswap, or feel free to jump to the guide you need if you've been doing okay but lost your way.
 
 [Create a Wallet](https://docs.pancakeswap.finance/get-started/wallet-guide)\
 [Get BEP20 Tokens](https://docs.pancakeswap.finance/get-started/bep20-guide)\
-[Connect Your Wallet to PancakeSwap](https://docs.pancakeswap.finance/get-started/connection-guide)
+[Connect Your Wallet to Labswap](https://docs.pancakeswap.finance/get-started/connection-guide)
 
-## Guides for using PancakeSwap features
+## Guides for using Labswap features
 
-Once you have a wallet set up and connected to PancakeSwap, feel free to check our other how to guides below.
+Once you have a wallet set up and connected to Labswap, feel free to check our other how to guides below.
 
 [How to Trade](https://docs.pancakeswap.finance/products/pancakeswap-exchange/trade-guide)\
 [How to Add/Remove Liquidity](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide)\
@@ -26,6 +26,6 @@ Once you have a wallet set up and connected to PancakeSwap, feel free to check o
 [How to Set Up an NFT Profile](https://docs.pancakeswap.finance/products/nft-profile-system/profile-guide)\
 [How to Vote](https://docs.pancakeswap.finance/products/voting/voting-guide)
 
-Check the menu for more documentation on the range of PancakeSwap features and services, including more advanced guides.
+Check the menu for more documentation on the range of Labswap features and services, including more advanced guides.
 
-If you can't find what you need, feel free to visit the [PancakeSwap Telegram](../../contact-us/social-accounts.md) and ask for help there!
+If you can't find what you need, feel free to visit the [Labswap Telegram](../../contact-us/social-accounts.md) and ask for help there!

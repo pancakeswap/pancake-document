@@ -20,7 +20,7 @@ However, since bridging usually takes up to 15 mins to complete, we recommend yo
 
 No.
 
-Crosschain IFOs are designed to bring the PancakeSwap community to a whole new multichain experience and capture all the exciting developments on blockchains besides BNB Chain.
+Crosschain IFOs are designed to bring the Labswap community to a whole new multichain experience and capture all the exciting developments on blockchains besides BNB Chain.
 
 If you need help while setting up your wallet or getting the gas tokens for a new blockchain, check out the IFO voting proposal and our social channels.
 

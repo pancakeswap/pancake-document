@@ -172,4 +172,4 @@ public fun get_pending_reward<StakeToken, RewardToken, UID>(account: address): u
 
 ## Audit
 
-[Zellic's PancakeSwap Aptos Syrup Pool security audit](https://github.com/Zellic/publications/blob/master/PancakeSwap%20Aptos%20-%20Zellic%20Audit%20Report.pdf)
+[Zellic's Labswap Aptos Syrup Pool security audit](https://github.com/Zellic/publications/blob/master/Labswap%20Aptos%20-%20Zellic%20Audit%20Report.pdf)

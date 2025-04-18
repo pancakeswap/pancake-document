@@ -1,6 +1,6 @@
 # UI/UX Designer
 
-We're looking for a designer with both UX and UI experience to contribute to the design of PancakeSwap.finance.
+We're looking for a designer with both UX and UI experience to contribute to the design of Labswap.finance.
 
 If you've got a strong interest in gamification and whimsy in user experience, hit us up.
 
@@ -15,12 +15,12 @@ If you've got a strong interest in gamification and whimsy in user experience, h
 
 * Conceptualizing, wireframing, and user testing of new and existing features
 * Designing UI components and full interfaces for new and existing features
-* Contributing to PancakeSwap's design system, including documentation of components and interactions
+* Contributing to Labswap's design system, including documentation of components and interactions
 * Collaborating with developers to ensure accurate implementation
 
 ### Requirements
 
-* Thorough understanding of how PancakeSwap's core features (Exchange, Farming, etc.) work.
+* Thorough understanding of how Labswap's core features (Exchange, Farming, etc.) work.
 * 3+ years' professional design experience
 * Experience working with (creating, maintaining, or using) design systems
 * Be able to work autonomously

@@ -1,8 +1,8 @@
-# How to Set Slippage on PancakeSwap
+# How to Set Slippage on Labswap
 
-#### How to Set Slippage on PancakeSwap
+#### How to Set Slippage on Labswap
 
-PancakeSwap offers two options for setting slippage:
+Labswap offers two options for setting slippage:
 
 * Auto Slippage: Automatically adjusts based on the token and market conditions.
 * Fixed Slippage: Allows you to set a specific slippage percentage for more control.

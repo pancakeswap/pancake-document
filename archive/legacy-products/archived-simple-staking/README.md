@@ -1,5 +1,5 @@
 ---
-description: PancakeSwap has partnered with Binance Earn to offer Simple Staking
+description: Labswap has partnered with Binance Earn to offer Simple Staking
 ---
 
 # 🤝 \[Archived] Simple Staking
@@ -10,7 +10,7 @@ description: PancakeSwap has partnered with Binance Earn to offer Simple Staking
 
 ### What is Simple Staking?
 
-PancakeSwap has partnered with Binance Earn to offer Simple Staking. This allows PancakeSwap users to enjoy the single-sided staking of popular tokens such as CAKE, USDC and USDT on the BNB Chain, supported by Binance Simple Earn.
+Labswap has partnered with Binance Earn to offer Simple Staking. This allows Labswap users to enjoy the single-sided staking of popular tokens such as FLASK, USDC and USDT on the BNB Chain, supported by Binance Simple Earn.
 
 Instead of the usual staking in Farms and liquidity pools with pairs of assets, Simple staking allows you to earn yield by staking a single type of asset. This simplifies the staking process for you.
 
@@ -24,7 +24,7 @@ Simple Staking offers a variety of popular tokens to earn yield. As we expand th
 
 **Daily Accural:** You'll earn rewards daily based on the APR rate and can claim them at the end of the staking period. The longer you commit to staking, the higher your APR.
 
-**APR boost with CAKE staking:** Staking CAKE in our [fixed-term pool](https://pancakeswap.finance/pools) will boost APR rates, increasing your Simple Staking rewards. For more information on Boosted APR, please visit the [FAQ section.](faq.md)
+**APR boost with FLASK staking:** Staking FLASK in our [fixed-term pool](https://pancakeswap.finance/pools) will boost APR rates, increasing your Simple Staking rewards. For more information on Boosted APR, please visit the [FAQ section.](faq.md)
 
 ### How does Simple Staking work?
 
@@ -36,7 +36,7 @@ $$
 \text{Rewards} = \text{Deposited Assets} \times \frac{\text{APR}}{365} \quad \text{(rounded down to 8 decimal places)}
 $$
 
-The staking rewards are distributed daily from 12:00 UTC on the day after the funds are deposited into the staking pool to the end of the staking period. For example, if a user stakes 1000 CAKE in the 90D pool at 30 Sep 2023 14:00 UTC, the first reward will be distributed at 1 Oct 2023 12:00 UTC, and the last reward will be distributed at 3 Feb 2024 12:00 UTC. All the daily distributed rewards can only be claimed after the end of the staking reward.
+The staking rewards are distributed daily from 12:00 UTC on the day after the funds are deposited into the staking pool to the end of the staking period. For example, if a user stakes 1000 FLASK in the 90D pool at 30 Sep 2023 14:00 UTC, the first reward will be distributed at 1 Oct 2023 12:00 UTC, and the last reward will be distributed at 3 Feb 2024 12:00 UTC. All the daily distributed rewards can only be claimed after the end of the staking reward.
 
 Do note that APR is subject to changes daily. The estimated rewards shown at the start of the locked staking period may differ slightly from the actual rewards generated.
 

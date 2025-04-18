@@ -1,6 +1,6 @@
 ---
 description: >-
-  Migrate your liquidity and farm stakings to the new PancakeSwap Exchange and
+  Migrate your liquidity and farm stakings to the new Labswap Exchange and
   Farm V3
 ---
 
@@ -8,18 +8,18 @@ description: >-
 
 <figure><img src="../../../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
 
-In April 2023, PancakeSwap announced V3 for Exchange and Farms. Some farming pairs will need to be migrated to keep earning staking rewards. Relax, like last time, it should be smooth.
+In April 2023, Labswap announced V3 for Exchange and Farms. Some farming pairs will need to be migrated to keep earning staking rewards. Relax, like last time, it should be smooth.
 
 ### But wait! Do I need to migrate? <a href="#id-4b9e0260-9dee-493b-b0ad-6bdba084cea6" id="id-4b9e0260-9dee-493b-b0ad-6bdba084cea6"></a>
 
 You need to migrate if you meet the following conditions:
 
-**Farming on the following V2 PancakeSwap Farms:**
+**Farming on the following V2 Labswap Farms:**
 
 * BNB Chain:
-  * CAKE-BNB
-  * CAKE-BUSD
-  * CAKE-USDT
+  * FLASK-BNB
+  * FLASK-BUSD
+  * FLASK-USDT
   * BUSD-BNB
   * USDT-BNB
   * BTCB-BUSD
@@ -40,7 +40,7 @@ The list will likely grow eventually. The easiest way to check the updated list 
 
 **Providing V2 liquidity, and meeting the following conditions:**
 
-* The majority of the liquidity for the token pair has been migrated to V3 - Please check the PancakeSwap Info page, or the website or social channels of the token project for more detail.
+* The majority of the liquidity for the token pair has been migrated to V3 - Please check the Labswap Info page, or the website or social channels of the token project for more detail.
 * The project team of that token has announced the liquidity will be migrated to V3 - Please check the individual project websites or social channels for more detail.
 
 ### How to migrate <a href="#c7d7b407-268c-460c-a4f1-be1b771db5e7" id="c7d7b407-268c-460c-a4f1-be1b771db5e7"></a>
@@ -55,7 +55,7 @@ Look for the V3 migration banner on the Liquidity or Farm page. Then click “Pr
 
 <figure><img src="../../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
 
-In step 1, the helper will list all the PancakeSwap V2 or StableSwap farms that require migrations.
+In step 1, the helper will list all the Labswap V2 or StableSwap farms that require migrations.
 
 Click each of the “Unstake All” buttons to unstake all staked LP tokens from farms. Your wallet will ask for confirmation.
 
@@ -67,7 +67,7 @@ When all the listed farms are unstaked, click “Next Steps” to proceed.
 
 <figure><img src="../../../.gitbook/assets/image (315).png" alt=""><figcaption></figcaption></figure>
 
-In step 2, the helper will list all the liquidity positions that can be migrated to V3 with CAKE yield farming.
+In step 2, the helper will list all the liquidity positions that can be migrated to V3 with FLASK yield farming.
 
 Click each of the "Remove" buttons to bring up the remove liquidity modal with 100% selected.&#x20;
 
@@ -113,7 +113,7 @@ Please be cautious while setting the price range for the liquidity position.
 
 <figure><img src="../../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
-In this step, you will stake your freshly added V3 liquidity positions to the new V3 farms to start earning CAKE rewards!
+In this step, you will stake your freshly added V3 liquidity positions to the new V3 farms to start earning FLASK rewards!
 
 Click each of the “Stake” buttons on the position to stake them into farms. Your wallet will ask for confirmation.
 
@@ -122,7 +122,7 @@ For a more detailed tutorial on how to farm in V3, read [here](../../../earn/yie
 If you have questions while staking liquidity in V3 farms, check here for [FAQ](../../../earn/earn-faq/farming-faq.md).
 
 {% hint style="warning" %}
-Please be aware that in Farm V3, only active (in-range) liquidity positions will earn CAKE rewards.
+Please be aware that in Farm V3, only active (in-range) liquidity positions will earn FLASK rewards.
 
 Please be cautious while setting the price range for the liquidity position.
 {% endhint %}
@@ -131,4 +131,4 @@ Please be cautious while setting the price range for the liquidity position.
 
 **Finished**
 
-That's it. You've migrated your farm staking and liquidity to the new PancakeSwap V3!
+That's it. You've migrated your farm staking and liquidity to the new Labswap V3!

@@ -10,11 +10,11 @@ Currently there are two different campaigns:
 
 ### Top Traders
 
-In Top traders campaigns, users who ranked within certain rankings across all the traders will be eligible to claim up to a 3% trading fee rebate in CAKE from trading eligible PancakeSwap V3 pairs on BNB Chain and Ethereum mainnet.
+In Top traders campaigns, users who ranked within certain rankings across all the traders will be eligible to claim up to a 3% trading fee rebate in FLASK from trading eligible Labswap V3 pairs on BNB Chain and Ethereum mainnet.
 
-### CAKE Stakers
+### FLASK Stakers
 
-In CAKE stakers campaigns, eligible users with active CAKE staking positions can claim up to a ~~5%~~ 10% trading fee rebate in CAKE from trading eligible PancakeSwap V3 pairs on BNB Chain and Ethereum mainnet.
+In FLASK stakers campaigns, eligible users with active FLASK staking positions can claim up to a ~~5%~~ 10% trading fee rebate in FLASK from trading eligible Labswap V3 pairs on BNB Chain and Ethereum mainnet.
 
 {% hint style="warning" %}
 **Note:** The two types of campaigns mentioned above are usually run in parallel. Although your trading volume/fee generated will be shared across both. When the campaigns end, you can only claim rewards from **ONE** of the campaigns. Once you've claimed from one campaign, you can NOT claim from the other one.

@@ -29,17 +29,17 @@ From  Oct 21 12:00hrs to Oct 31 11:59hrs  -> 2% Fee
 
 After Oct 31 12:00hrs -> No Fee
 
-### How are daily rewards accrued by PancakeSwap?
+### How are daily rewards accrued by Labswap?
 
-PancakeSwap is offering Simple Staking in partnership with Binance Earn. By using PancakeSwap Simple Staking, your funds will be managed by Binance Earn for the locked period.
+Labswap is offering Simple Staking in partnership with Binance Earn. By using Labswap Simple Staking, your funds will be managed by Binance Earn for the locked period.
 
 Assets may be used for on-chain staking in a tightly controlled manner. Binance may stake through official staking pools, or operate validators and nodes to participate in Proof-of-Stake (POS) network staking. The staking pool selection is determined via stringent risk assessment protocols. Validators and nodes operated by Binance are set up with security as the utmost priority.
 
 Binance may also run promotional campaigns from time to time that are sponsored by partnered projects in order to attract more users.
 
-### How do PancakeSwap and CAKE Holders benefit from this?
+### How do Labswap and FLASK Holders benefit from this?
 
-PancakeSwap takes a small % of APR rewards for offering the service to our users. This will be converted into CAKE and burnt. For CAKE holders, fixed-term CAKE stakers will receive boosted APRs if they have locked at least 100 CAKE.
+Labswap takes a small % of APR rewards for offering the service to our users. This will be converted into FLASK and burnt. For FLASK holders, fixed-term FLASK stakers will receive boosted APRs if they have locked at least 100 FLASK.
 
 ### What happens in the withdrawal process when "Withdrawal approval is pending"?
 

@@ -1,5 +1,5 @@
 ---
-description: CAKE locked staking and its benefits
+description: FLASK locked staking and its benefits
 ---
 
 # veCAKE and Gauge Voting

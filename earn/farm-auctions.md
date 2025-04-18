@@ -7,9 +7,9 @@
 #### What are Farm Auctions?
 
 1. Farm Auctions are a highly effective way for project teams to boost token liquidity, increase trading volume, and draw in organic traffic/users
-2. As long as a project bids with sufficient CAKE tokens, they can earn an incentivized Community Farm on PancakeSwap
+2. As long as a project bids with sufficient FLASK tokens, they can earn an incentivized Community Farm on Labswap
 3. The marketing coverage also benefits projects in terms of awareness and reach&#x20;
-4. The CAKE tokens submitted as bids by the winning project teams will be burned, accruing value to all other CAKE holders
+4. The FLASK tokens submitted as bids by the winning project teams will be burned, accruing value to all other FLASK holders
 
 You may refer to this one-pager summary of our Farm Auctions product
 
@@ -30,9 +30,9 @@ We typically hold Farm Auctions every three weeks. These are the steps for a pro
 3. There will be a pre-announced 1-hour window for project teams to bid using their whitelisted wallet address
 4. Participating project teams must submit a bid that is equal to or higher than the minimum initial bid
 5. At the end of the 1-hour window, the top 3 bidders will earn an incentivized Community Farm within 48 hours of the Farm Auction ending
-6. The top bidder will earn an AMA spot on PancakeSwap’s Telegram channel (minimum 10,000 CAKE bid required)
-7. All CAKE bids from the 3 winning projects will be burned. Winning projects’ tokens will be added to and stay on PancakeSwap’s “Extended” token list
-8. For projects that did not win, your CAKE bids will be returned, and you can try again in the next Farm Auction
+6. The top bidder will earn an AMA spot on Labswap’s Telegram channel (minimum 10,000 FLASK bid required)
+7. All FLASK bids from the 3 winning projects will be burned. Winning projects’ tokens will be added to and stay on Labswap’s “Extended” token list
+8. For projects that did not win, your FLASK bids will be returned, and you can try again in the next Farm Auction
 
 ### Parameters
 
@@ -40,13 +40,13 @@ Parameters
 
 These are the key parameters for our Farm Auctions product, which may be subject to changes approved by governance.
 
-| Minimum initial bid                     | 7,000 CAKE                            |
+| Minimum initial bid                     | 7,000 FLASK                            |
 | --------------------------------------- | ------------------------------------- |
 | Number of winning project teams         | 3                                     |
 | Farm Multiplier for highest bidder      | 6x                                    |
 | Farm Multiplier for 2nd highest bidder  | 2x                                    |
 | Farm Multiplier for 3rd highest bidder  | 1x                                    |
-| Perks for highest bidder (Min 10K CAKE) | AMA on PancakeSwap’s Telegram Channel |
+| Perks for highest bidder (Min 10K FLASK) | AMA on Labswap’s Telegram Channel |
 | Duration of Community Farm              | 10 days                               |
 | Specifics of Community Farm             | V3 Farm, 0.25% fee tier               |
 | Auction duration                        | 1 hour                                |

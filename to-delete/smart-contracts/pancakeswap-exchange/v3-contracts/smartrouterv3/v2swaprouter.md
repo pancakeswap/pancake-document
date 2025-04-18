@@ -1,5 +1,5 @@
 ---
-description: Router for stateless execution of swaps against PancakeSwap V2
+description: Router for stateless execution of swaps against Labswap V2
 ---
 
 # V2SwapRouter

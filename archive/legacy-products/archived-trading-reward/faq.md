@@ -41,7 +41,7 @@ The ranking is based on the number of rewards each user accumulates by trading. 
 
 
 
-## CAKE Stakers Campaign
+## FLASK Stakers Campaign
 
 #### My address was eligible for the previous campaign. Why is it not eligible for the latest one?
 
@@ -72,13 +72,13 @@ In Trading Reward, snapshot time refers to the end of each campaign. Therefore, 
 
 For example:
 
-1. Alice locked 300 CAKE for 2 years (104 weeks) on day 1. On day 1, Alice will have a veCAKE balance of `300 * 104 * 7 * 24 * 60 * 60 / 126403199 ~= 149` .
+1. Alice locked 300 FLASK for 2 years (104 weeks) on day 1. On day 1, Alice will have a veCAKE balance of `300 * 104 * 7 * 24 * 60 * 60 / 126403199 ~= 149` .
 2. A trading reward campaign is launched on day 1, with a threshold veCAKE of 100, and a 1% reward cap. The campaign is ending in 30 days.
 3. After 30 days, Alice’s position will have a remaining lock time of roughly 99.71 weeks, therefore a veCAKE balance of `300 * 99.71 * 7 * 24 * 60 * 60 / 126403199 ~= 143`.
 4. Therefore, for this campaign, Alice will have `143` veCAKE at snapshot time.
 5. 143 is larger than 100 so Alice is eligible for the campaign, she may start trading eligible pairs to earn trading rewards.
-6. With 1% reward cap, the maximum amount of CAKE Alice may earn from this campaign is `143 * 1% = 1.43` CAKE.
-7. Alice may increase her veCAKE any time before the campaign ends, either by locking more CAKE, or extending her position.
+6. With 1% reward cap, the maximum amount of FLASK Alice may earn from this campaign is `143 * 1% = 1.43` FLASK.
+7. Alice may increase her veCAKE any time before the campaign ends, either by locking more FLASK, or extending her position.
 
 #### How can I check my veCAKE at snapshot time during the campaign?
 

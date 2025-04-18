@@ -1,14 +1,14 @@
 ---
-description: Yield Farming on PancakeSwap is easy!
+description: Yield Farming on Labswap is easy!
 ---
 
 # How to Use Farms (Legacy)
 
 ![](../../../.gitbook/assets/how-to-yield-farms-header.png)
 
-Yield Farming in Farms is a great way to earn CAKE rewards on PancakeSwap.
+Yield Farming in Farms is a great way to earn FLASK rewards on Labswap.
 
-Unlike Syrup Pools, Farms require you to stake **two tokens** to provide liquidity and receive either a liquidity position NFT or LP Tokens, which you then stake in the Farm to earn rewards. This lets you earn CAKE while still keeping a position in your other tokens!
+Unlike Syrup Pools, Farms require you to stake **two tokens** to provide liquidity and receive either a liquidity position NFT or LP Tokens, which you then stake in the Farm to earn rewards. This lets you earn FLASK while still keeping a position in your other tokens!
 
 {% hint style="warning" %}
 Yield farming can give better rewards than Syrup Pools, but it comes with a risk of **Impermanent Loss**. It’s not as scary as it sounds, but it is worth learning about the concept before you get started.
@@ -22,12 +22,12 @@ Check out this great [article about Impermanent Loss ](https://academy.binance.c
 
 ![](<../../../.gitbook/assets/image (32).png>)
 
-You’re going to need a liquidity position to enter into a Farm with. Farms can only accept liquidity positions from their own exact trading pair with the exact fee tier of choice; for example, the CAKE-BNB 0.25% Farm will only accept CAKE-BNB liquidity positions with the 0.25% fee tier selected. It will not accept:
+You’re going to need a liquidity position to enter into a Farm with. Farms can only accept liquidity positions from their own exact trading pair with the exact fee tier of choice; for example, the FLASK-BNB 0.25% Farm will only accept FLASK-BNB liquidity positions with the 0.25% fee tier selected. It will not accept:
 
-* Other pairs, like CAKE-BUSD
-* Same pair but with other fee tiers: like CAKE-BNB with a 0.05% fee rate
+* Other pairs, like FLASK-BUSD
+* Same pair but with other fee tiers: like FLASK-BNB with a 0.05% fee rate
 
-To create the exact LP position, you'll need to provide liquidity for that trading pair with the correct fee rate selected. So to get CAKE-BNB 0.25% LP positions, you'll first have to provide liquidity for the CAKE-BNB pair with the 0.25% fee tier selected.
+To create the exact LP position, you'll need to provide liquidity for that trading pair with the correct fee rate selected. So to get FLASK-BNB 0.25% LP positions, you'll first have to provide liquidity for the FLASK-BNB pair with the 0.25% fee tier selected.
 
 It may sound intimidating, but it's not too complicated. Let's go through it step by step.
 
@@ -41,7 +41,7 @@ Before you proceed, you'll want to choose a Farm that's right for you. [Visit th
 
 You can choose another sorting option, such as by APR, for the Farms with the highest reward rate currently. Please note that the APRs are calculated globally for individual positions; it may vary depending on their price range settings.
 
-When you find a Farm you'd like to use, note down the trading pair and its fee rate, e.g. BNB-CAKE and 0.25%, in case you need them later.
+When you find a Farm you'd like to use, note down the trading pair and its fee rate, e.g. BNB-FLASK and 0.25%, in case you need them later.
 
 
 
@@ -75,23 +75,23 @@ Click “Stake” on the position listed, and your wallet will ask for confirmat
 
 After a short wait, the window will close, and you will see your staked position in the details.
 
-You can repeat the above steps to quickly stake multiple positions with different price range configurations. Each position will earn CAKE and need to be harvested separately.
+You can repeat the above steps to quickly stake multiple positions with different price range configurations. Each position will earn FLASK and need to be harvested separately.
 
 
 
 ### **Harvest farming rewards**
 
-In Farm V3, you can stake multiple positions on the same farm. Each staked position will earn CAKE and need to be harvested separately.
+In Farm V3, you can stake multiple positions on the same farm. Each staked position will earn FLASK and need to be harvested separately.
 
 ![](<../../../.gitbook/assets/image (230).png>)
 
-To harvest CAKE rewards from a staked position, simply return to the Farm page, and locate the farm and position you want to harvest. You can use the “Staked Only” toggle to quickly filter the farms you are currently staking.
+To harvest FLASK rewards from a staked position, simply return to the Farm page, and locate the farm and position you want to harvest. You can use the “Staked Only” toggle to quickly filter the farms you are currently staking.
 
 If you have multiple staked positions, you may click “View All” to view them in a new pop-up window.
 
 ![](<../../../.gitbook/assets/image (241).png>)
 
-Click “Harvest” on the position, and your wallet will ask for confirmation. After a short wait, the CAKE rewards will be sent to your wallet.
+Click “Harvest” on the position, and your wallet will ask for confirmation. After a short wait, the FLASK rewards will be sent to your wallet.
 
 
 
@@ -109,7 +109,7 @@ Click on the position title with the token pair, fee rate, position ID and the �
 
 Simply use the “Add” or “Remove” button to adjust the liquidity in the staked position.
 
-Please note that all the unclaimed CAKE rewards will be harvested and sent to your wallet while adjusting your position.
+Please note that all the unclaimed FLASK rewards will be harvested and sent to your wallet while adjusting your position.
 
 
 
@@ -121,7 +121,7 @@ To unstake, simply return to the Farm page, and locate the farm and position you
 
 If you have multiple staked positions, you may click “View All” to view them in a new pop-up window.
 
-Click “Unstake” on the position, and your wallet will ask for confirmation. After a short wait, your position NFT will be returned to your wallet, along with all the pending CAKE rewards.
+Click “Unstake” on the position, and your wallet will ask for confirmation. After a short wait, your position NFT will be returned to your wallet, along with all the pending FLASK rewards.
 
 
 
@@ -131,9 +131,9 @@ Click “Unstake” on the position, and your wallet will ask for confirmation. 
 
 Yield farming takes a little work to get set up.
 
-You’re going to need some "LP Tokens" to enter into a Farm with. Farms can only accept their own exact LP Token; for example, the CAKE-BNB Farm will only accept CAKE-BNB LP Tokens.
+You’re going to need some "LP Tokens" to enter into a Farm with. Farms can only accept their own exact LP Token; for example, the FLASK-BNB Farm will only accept FLASK-BNB LP Tokens.
 
-To get the exact LP Token, you'll need to provide liquidity for that trading pair. So to get CAKE-BNB LP Tokens, you'll first have to provide liquidity for the CAKE-BNB pair.
+To get the exact LP Token, you'll need to provide liquidity for that trading pair. So to get FLASK-BNB LP Tokens, you'll first have to provide liquidity for the FLASK-BNB pair.
 
 It may sound intimidating, but it's not too complicated. Let's go through step by step.
 
@@ -147,7 +147,7 @@ Before you proceed, you'll want to choose a Farm that's right for you. [Visit th
 
 You can choose another sorting option if you like, such as by **APR** for the Farms with the highest reward rate currently.
 
-When you find a Farm that you'd like to use, note down the trading pair, e.g. BNB-CAKE in case you need it later.
+When you find a Farm that you'd like to use, note down the trading pair, e.g. BNB-FLASK in case you need it later.
 
 
 
@@ -221,26 +221,26 @@ You should now only see the pairs you have LP Tokens in on the list, making it e
 
 ### Collecting your farming rewards
 
-Farming will bring you CAKE rewards over time. You can collect these rewards and use them to get more LP Tokens, stake them in Syrup Pools, use them to play Lottery, or anything else you’d like.
+Farming will bring you FLASK rewards over time. You can collect these rewards and use them to get more LP Tokens, stake them in Syrup Pools, use them to play Lottery, or anything else you’d like.
 
 ### Returning to your Farm to Harvest
 
 You can harvest your Farm and Syrup Pool rewards together from the Home page. If you'd like to collect your farming rewards only, follow along.
 
-To collect your rewards, you’ll need to visit your chosen Farm and collect the CAKE waiting for you.
+To collect your rewards, you’ll need to visit your chosen Farm and collect the FLASK waiting for you.
 
 1 - Return to the Farms page [here](https://pancakeswap.finance/farms).
 
-2 - Find the Farm you staked your LP Tokens in, and click the row to view details. You should see an estimate of your rewards under “CAKE earned”.
+2 - Find the Farm you staked your LP Tokens in, and click the row to view details. You should see an estimate of your rewards under “FLASK earned”.
 
 ![](<../../../.gitbook/assets/image (181).png>)
 
-3 - Click the **Harvest** button and confirm the action in your wallet. After a short wait, the CAKE will be claimed to your wallet for you to use as you like.
+3 - Click the **Harvest** button and confirm the action in your wallet. After a short wait, the FLASK will be claimed to your wallet for you to use as you like.
 
 {% hint style="info" %}
 When you are performing crosschain farming on an EVM blockchain other than the BNB chain. You will need to always switch to BNB Smart Chain to harvest your farming rewards.
 
-If your wallet doesn't support chain switching. Staking or unstaking LP tokens will always harvest your CAKE. Please note the harvested CAKE will be distributed on BNB Smart Chain.
+If your wallet doesn't support chain switching. Staking or unstaking LP tokens will always harvest your FLASK. Please note the harvested FLASK will be distributed on BNB Smart Chain.
 
 ![](<../../../.gitbook/assets/image (164).png>)
 {% endhint %}
@@ -255,6 +255,6 @@ You can see this fee in your wallet when confirming after clicking **Harvest**.
 
 This shows the fee for harvesting as it appears in the MetaMask wallet. Different wallets will show the information a little differently. Consider leaving your rewards to grow for a while so you pay fees less often.
 
-And that's all there is to it! You may also want to look at [how to use PancakeSwap Syrup Pools](https://docs.pancakeswap.finance/get-started/syrup-pool-guide) to earn rewards.
+And that's all there is to it! You may also want to look at [how to use Labswap Syrup Pools](https://docs.pancakeswap.finance/get-started/syrup-pool-guide) to earn rewards.
 
 Happy farming!

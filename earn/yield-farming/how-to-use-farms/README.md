@@ -6,9 +6,9 @@ description: Find, Provide LP, Fram
 
 ![](../../../.gitbook/assets/how-to-yield-farms-header.png)
 
-Yield Farming in Farms is a great way to earn CAKE rewards on PancakeSwap.
+Yield Farming in Farms is a great way to earn FLASK rewards on Labswap.
 
-Farms require you to stake **two tokens** to provide liquidity and receive either a liquidity position NFT or LP Tokens, which you then stake in the Farm to earn rewards. This lets you earn CAKE while still keeping a position in your other tokens!
+Farms require you to stake **two tokens** to provide liquidity and receive either a liquidity position NFT or LP Tokens, which you then stake in the Farm to earn rewards. This lets you earn FLASK while still keeping a position in your other tokens!
 
 {% hint style="warning" %}
 Yield farming can give better rewards than Syrup Pools or single token staking, but it comes with a risk of **Impermanent Loss**. It’s not as scary as it sounds, but it is worth learning about the concept before you get started.
@@ -20,7 +20,7 @@ Check out this great [article about Impermanent Loss ](https://academy.binance.c
 
 <figure><img src="../../../.gitbook/assets/image (360).png" alt=""><figcaption></figcaption></figure>
 
-Now with Universal Farm Page, you can find liquidity pairs by tokens, check their fees, volume, APRs, across all the PancakeSwap supported networks, without the need of switching networks in the wallet.
+Now with Universal Farm Page, you can find liquidity pairs by tokens, check their fees, volume, APRs, across all the Labswap supported networks, without the need of switching networks in the wallet.
 
 Head to: [https://pancakeswap.finance/liquidity/pools](https://pancakeswap.finance/liquidity/pools) to start
 
@@ -28,7 +28,7 @@ Head to: [https://pancakeswap.finance/liquidity/pools](https://pancakeswap.finan
 
 <figure><img src="../../../.gitbook/assets/image (361).png" alt=""><figcaption></figcaption></figure>
 
-1. All the liquidity pools/pairs that are trending, or have a PancakeSwap farm attached.
+1. All the liquidity pools/pairs that are trending, or have a Labswap farm attached.
 2. All the liquidity positions you have.
 3. All the legacy farms. If you don't find your previously staked farms in "All Pools" try searching here.
 4. On default the page shows farms and tokens from all the supported chains. Use this drop down to filter pools by networks/chains.
@@ -62,7 +62,7 @@ To create an LP, click "Add Liquidity +" and follow the instructions here:
 
 Once liquidity is added, they will appear in the upper right table. Or in the "My Position" tab.
 
-* For V3, simply click "Stake" to stake your position and start earning CAKE. As in V3 users can create multiple positions,  you can repeat the above steps to stake multiple positions with different price ranges.
+* For V3, simply click "Stake" to stake your position and start earning FLASK. As in V3 users can create multiple positions,  you can repeat the above steps to stake multiple positions with different price ranges.
 * For V2 and StableSwap, after clicking "Stake", you need to specify the amount of LP tokens to stake. In most cases you should stake 100% of your LP tokens to maximise your yield.
 
 ## Harvest Farming Rewards
@@ -73,7 +73,7 @@ In the new Universal Farm Page, locating all your farming positions has never be
 
 Just like the list of pools/pairs, you may use the toolbar to filter positions by networks/chains, tokens, and DEX type.
 
-To harvest CAKE rewards from a staked position, simply click "Harvest" and confirm in your wallet popup.
+To harvest FLASK rewards from a staked position, simply click "Harvest" and confirm in your wallet popup.
 
 If you have multiple staked positions, you need to harvest them separately.&#x20;
 
@@ -91,7 +91,7 @@ Simply use the “Add” or “Remove” button to adjust the liquidity in the s
 
 <figure><img src="../../../.gitbook/assets/image (366).png" alt=""><figcaption></figcaption></figure>
 
-Please note that all the unclaimed CAKE rewards will be harvested and sent to your wallet while adjusting your position.
+Please note that all the unclaimed FLASK rewards will be harvested and sent to your wallet while adjusting your position.
 
 ## **Unstake**
 
@@ -104,7 +104,7 @@ To unstake, simply return to the "My Positions", locate the position, and click:
 * "Unstake" (for V3 positions)&#x20;
 * "-" (for V2, StableSwap LPs), and then select the amount to unstake
 
-Then confirm in the wallet pop up. After a short wait, your position NFT or LP tokens will be returned to your wallet, along with all the pending CAKE rewards.
+Then confirm in the wallet pop up. After a short wait, your position NFT or LP tokens will be returned to your wallet, along with all the pending FLASK rewards.
 
 ## How often should I harvest my rewards?
 

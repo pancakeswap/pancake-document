@@ -20,4 +20,4 @@ This factory contract helps deploy proxies for users to farm with bCAKE boost mu
 
 ## Audits
 
-[Peckshield's Farm Booster security audit](https://github.com/peckshield/publications/tree/master/audit\_reports/PeckShield-Audit-Report-PancakeSwap-FarmBooster-v1.0.pdf)
+[Peckshield's Farm Booster security audit](https://github.com/peckshield/publications/tree/master/audit\_reports/PeckShield-Audit-Report-Labswap-FarmBooster-v1.0.pdf)

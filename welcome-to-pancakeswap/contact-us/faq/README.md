@@ -2,13 +2,13 @@
 
 ![](<../../../.gitbook/assets/general-faq-header (1).png>)
 
-This FAQ page answers some of the more commonly asked questions from the PancakeSwap community.
+This FAQ page answers some of the more commonly asked questions from the Labswap community.
 
-## Is PancakeSwap safe? Has PancakeSwap been Audited?
+## Is Labswap safe? Has Labswap been Audited?
 
 See for yourself:
 
-* Check out [these PancakeSwap security audits](../../../#is-pancakeswap-safe)
+* Check out [these Labswap security audits](../../../#is-pancakeswap-safe)
 * Transparent:
   * We’re built on open-source software: our site and all our Smart Contracts are publicly visible for maximum transparency.
   * Our contracts are verified on blockchain explorers, so you know that what you see is what you get. Check them out [here](../../../to-delete/smart-contracts/).
@@ -16,35 +16,35 @@ See for yourself:
   * The chefs use multisig for all contracts.
   * Our contracts’ time-lock gives you peace of mind.
 
-## How can I stake CAKE?
+## How can I stake FLASK?
 
-You can stake your CAKE in PancakeSwap Syrup Pools. Visit the [Syrup Pools page](https://pancakeswap.finance/pools).
+You can stake your FLASK in Labswap Syrup Pools. Visit the [Syrup Pools page](https://pancakeswap.finance/pools).
 
 Read our [How to Stake in Syrup Pools guide](https://docs.pancakeswap.finance/products/syrup-pool/syrup-pool-guide) if you'd like a hand getting started with staking.
 
 ## What is the difference between staking and farming?
 
-Staking in Syrup Pools and farming with Yield Farming are both ways to earn more CAKE by supporting PancakeSwap.
+Staking in Syrup Pools and farming with Yield Farming are both ways to earn more FLASK by supporting Labswap.
 
-Staking only needs some CAKE to be added to a Syrup Pool to earn CAKE or other tokens.\
+Staking only needs some FLASK to be added to a Syrup Pool to earn FLASK or other tokens.\
 [Learn more about Syrup Pool staking.](https://docs.pancakeswap.finance/products/syrup-pool)
 
-Farming is more complicated and needs LP Tokens to earn CAKE.\
+Farming is more complicated and needs LP Tokens to earn FLASK.\
 [Learn more about Yield Farming.](https://docs.pancakeswap.finance/products/yield-farming)
 
 ## How do I farm?
 
 We have a [Yield Farming guide](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) if you're interested in learning how to farm.
 
-## Where can I view the PancakeSwap roadmap?
+## Where can I view the Labswap roadmap?
 
 You can [view our to-do list here, but don't call it a roadmap](https://docs.pancakeswap.finance/roadmap).
 
-## How do I connect my wallet to BNB Smart Chain and PancakeSwap?
+## How do I connect my wallet to BNB Smart Chain and Labswap?
 
-We have a [Connect Your Wallet to PancakeSwap guide](https://docs.pancakeswap.finance/get-started/connection-guide) covering this in detail.
+We have a [Connect Your Wallet to Labswap guide](https://docs.pancakeswap.finance/get-started/connection-guide) covering this in detail.
 
-## What's the best wallet for PancakeSwap?
+## What's the best wallet for Labswap?
 
 It depends on your needs. We have an [in-depth guide to selecting and creating a wallet](https://docs.pancakeswap.finance/get-started/wallet-guide) that's right for you.
 
@@ -58,7 +58,7 @@ You can also see our [Fixing Stuck Pending Transactions guide](https://docs.panc
 
 ## When will you open more pools?
 
-New Pools are added to PancakeSwap frequently. There will always be an announcement before the launch of new pools.
+New Pools are added to Labswap frequently. There will always be an announcement before the launch of new pools.
 
 Join the [announcements Telegram group](https://t.me/PancakeSwapAnn) to learn about new Pools as early as possible.
 
@@ -68,9 +68,9 @@ Previously, rewards earned by LP Token-holders generated from trading fees were 
 
 ## How do I get airdrops?
 
-Whenever there is an official airdrop on PancakeSwap it will be announced along with the requirements.
+Whenever there is an official airdrop on Labswap it will be announced along with the requirements.
 
-Please remember anyone can airdrop tokens to PancakeSwap users since every transaction is public on BscScan. Be sure to do your own research when it comes to non-official airdrops. To protect your funds, we recommend you don't use a smart contract you don't understand from a source you don't trust.
+Please remember anyone can airdrop tokens to Labswap users since every transaction is public on BscScan. Be sure to do your own research when it comes to non-official airdrops. To protect your funds, we recommend you don't use a smart contract you don't understand from a source you don't trust.
 
 ## How can I report a bug?
 
@@ -88,27 +88,27 @@ If you've already [transferred BNB into your BNB Smart Chain-enabled wallet](htt
 
 To learn more about voting, you can [read our section on Voting](https://docs.pancakeswap.finance/products/voting), including voting guides.
 
-## What is the max supply of CAKE?
+## What is the max supply of FLASK?
 
-Yes, CAKE now has a hard cap of 750M as outlined in our litepaper [https://v2litepaper.pancakeswap.finance/](https://v2litepaper.pancakeswap.finance/)
+Yes, FLASK now has a hard cap of 750M as outlined in our litepaper [https://v2litepaper.pancakeswap.finance/](https://v2litepaper.pancakeswap.finance/)
 
 ## What are the treasury funds used for?
 
-The treasury funds are used to cover the expenses involved in running PancakeSwap. These expenses include salaries, audits, prizes, hosting, upkeep, bounties, etc.
+The treasury funds are used to cover the expenses involved in running Labswap. These expenses include salaries, audits, prizes, hosting, upkeep, bounties, etc.
 
 ## Where can I check the Analytics?
 
-You can check the analytics of PancakeSwap by click on the "Analytics" tab on the top menu or by clicking the link below.
+You can check the analytics of Labswap by click on the "Analytics" tab on the top menu or by clicking the link below.
 
 Analytics: [https://pancakeswap.info/](https://pancakeswap.info)
 
-## Is PancakeSwap protected from flashloan attacks?
+## Is Labswap protected from flashloan attacks?
 
-PancakeSwap's vault has anti-flashloan protection. PancakeSwap’s CAKE token isn’t vulnerable to flash loan attacks. Unlike vulnerable tokens, CAKE token minting is predefined, and can’t be adjusted in a single transaction. Ownership cannot be transferred outside of MasterChef contract.
+Labswap's vault has anti-flashloan protection. Labswap’s FLASK token isn’t vulnerable to flash loan attacks. Unlike vulnerable tokens, FLASK token minting is predefined, and can’t be adjusted in a single transaction. Ownership cannot be transferred outside of MasterChef contract.
 
-PancakeSwap’s other smart contracts, like IFO and AutoPool, are protected as well; they prevent other contracts from interacting with them, reducing the scope of vector attacks.
+Labswap’s other smart contracts, like IFO and AutoPool, are protected as well; they prevent other contracts from interacting with them, reducing the scope of vector attacks.
 
-## Can I join the PancakeSwap team?
+## Can I join the Labswap team?
 
 Check the [Become a Chef](https://docs.pancakeswap.finance/hiring/become-a-chef) area for information on open positions we're looking to fill.
 
@@ -116,8 +116,8 @@ We advertise new positions we're looking to fill on our [official social media c
 
 ## What is SYRUP?
 
-SYRUP was a part of the staking process earlier in PancakeSwap's life. SYRUP was discontinued when a security issue was discovered and is no longer a part of PancakeSwap.
+SYRUP was a part of the staking process earlier in Labswap's life. SYRUP was discontinued when a security issue was discovered and is no longer a part of Labswap.
 
 ## I can't find an answer for my question. Where do I find an answer?
 
-If you can't find what you're looking for in PancakeSwap's documentation, ask your question on [PancakeSwap's official social media platforms](https://docs.pancakeswap.finance/contact-us/telegram) and someone will do their best to help you out.
+If you can't find what you're looking for in Labswap's documentation, ask your question on [Labswap's official social media platforms](https://docs.pancakeswap.finance/contact-us/telegram) and someone will do their best to help you out.

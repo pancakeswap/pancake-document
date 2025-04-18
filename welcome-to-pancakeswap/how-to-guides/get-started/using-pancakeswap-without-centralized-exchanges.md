@@ -1,16 +1,16 @@
 ---
 description: >-
   You don't need an account with Binance, Coinbase, Kraken, Huobi, OKEx or any
-  other centralized exchange to start using PancakeSwap!
+  other centralized exchange to start using Labswap!
 ---
 
-# Using PancakeSwap without Centralized Exchanges
+# Using Labswap without Centralized Exchanges
 
 ![](../../../.gitbook/assets/how-to-pancakeswap-without-cex-header.png)
 
-PancakeSwap is a decentralized application. That means, unlike Binance or other centralized platforms, you don't need to register account to use it... you just need a crypto wallet. So how can you get crypto onto PancakeSwap without using a centralized exchange?
+Labswap is a decentralized application. That means, unlike Binance or other centralized platforms, you don't need to register account to use it... you just need a crypto wallet. So how can you get crypto onto Labswap without using a centralized exchange?
 
-In this tutorial, we're going to guide you through the process of using "cross-chain bridges" to transfer your assets into your BNB Smart Chain wallet, and start using PancakeSwap.
+In this tutorial, we're going to guide you through the process of using "cross-chain bridges" to transfer your assets into your BNB Smart Chain wallet, and start using Labswap.
 
 ### **Move your assets from other blockchains to BNB Smart Chain**
 
@@ -22,9 +22,9 @@ In the following tutorials, we are going to demonstrate moving USDT from a varie
 {% tab title="🥞🌉 Pancake Bridge (recommanded)" %}
 ![](<../../../.gitbook/assets/image (168).png>)
 
-[**PancakeSwap Bridge**](http://bridge.pancakeswap.finance) — a native asset cross-chain bridge, powered by Stargate.
+[**Labswap Bridge**](http://bridge.pancakeswap.finance) — a native asset cross-chain bridge, powered by Stargate.
 
-This bridge allows you to seamlessly move your stablecoins over to BNB Chain, and participate in the lively PancakeSwap Community and wider BNB Ecosystem!
+This bridge allows you to seamlessly move your stablecoins over to BNB Chain, and participate in the lively Labswap Community and wider BNB Ecosystem!
 
 📖 [Learn how to use](https://medium.com/pancakeswap/launching-pancakeswap-bridge-a-partnership-with-stargate-21c1c9f491a8)
 {% endtab %}
@@ -43,7 +43,7 @@ Let's try moving USDT from Polygon (MATIC) blockchain to BSC using AnySwap.
 7. Additionally if you want AnySwap to deposit your USDT into another BSC address. Please use the "+ Send To" button.
 8. Click "Swap" and complete your final cross-chain transactions.
 9. The entire process will take around 10-30 minutes to complete depends on how congested the network is.
-10. Once finished. You should receive your fund in your BSC wallet. Now you can start using PancakeSwap to swap some tokens on BNB Smart Chain!
+10. Once finished. You should receive your fund in your BSC wallet. Now you can start using Labswap to swap some tokens on BNB Smart Chain!
 {% endtab %}
 
 {% tab title="O3 Hub" %}
@@ -68,7 +68,7 @@ Let's try using O3 Hub to moving USDT from ERC-20 blockchain to BNB Smart Chain.
 9.  The entire process will take around 10-30 minutes to complete depends on how congested the network is. You can keep track of the progress on history tab.
 
     <img src="../../../.gitbook/assets/MBP3-2021.10.19-054520AM-Google Chrome_O3swap (1).png" alt="" data-size="original">
-10. Once finished. You should receive your funds in your BSC wallet. Now you can start using PancakeSwap to swap some tokens on BNB Smart Chain!
+10. Once finished. You should receive your funds in your BSC wallet. Now you can start using Labswap to swap some tokens on BNB Smart Chain!
 
 Additionally, you can check out [this user guide](https://docs.o3swap.com/o3-swap-user-guide/hub#2.-hub-swap) from O3 Swap.
 {% endtab %}

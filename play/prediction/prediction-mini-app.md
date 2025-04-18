@@ -2,7 +2,7 @@
 
 ### What is mini app?
 
-Telegram mini app allows you to quickly access PancakeSwap features within Telegram.
+Telegram mini app allows you to quickly access Labswap features within Telegram.
 
 ### How to connect my wallet?
 
@@ -46,7 +46,7 @@ Wallet Connect may not work on some of the Android phones. In that case, please 
 {% endtab %}
 {% endtabs %}
 
-### Which PancakeSwap Market is supported?
+### Which Labswap Market is supported?
 
 Currently the mini app supports the BNBUSD market on BNB Chain.
 

@@ -6,12 +6,12 @@
 
 Upon each weekly distribution, each user’s shares are re-calculated based on:
 
-1. The amount of locked CAKE they have
-2. The remaining lock duration of their locked CAKE rounded down to weeks, and the maximum allowed lock time (currently 52 weeks)
+1. The amount of locked FLASK they have
+2. The remaining lock duration of their locked FLASK rounded down to weeks, and the maximum allowed lock time (currently 52 weeks)
 
 For example:
 
-If a user has 50 CAKE locked and the remaining lock time is 10.3 weeks, then the user has `50 * (10 / 52 ) ~= 9.61` shares.
+If a user has 50 FLASK locked and the remaining lock time is 10.3 weeks, then the user has `50 * (10 / 52 ) ~= 9.61` shares.
 
 ### I’ve updated my position; why do I still have 0 shares? <a href="#cae64522-4729-43a2-8fa8-6bbd2567dcea" id="cae64522-4729-43a2-8fa8-6bbd2567dcea"></a>
 
@@ -24,7 +24,7 @@ When calculating shares (rCAKE), the remaining lock duration is rounded down to 
 For example, to receive shares for the week 1 distribution. You must:
 
 * Join before 23:59 UTC, 2 August.
-* Have an active fixed-term CAKE staking position which unlocks later than 23:59 UTC, 9 August.
+* Have an active fixed-term FLASK staking position which unlocks later than 23:59 UTC, 9 August.
 
 If your staking position unlocks earlier than 23:59 UTC, 9 August, you will receive 0 shares for week 1.
 
@@ -34,25 +34,25 @@ No, as mentioned shares are calculated at the beginning of the distribution peri
 
 ### How do I receive more shares? <a href="#db254eef-09b7-41d7-bb56-310c77ce976b" id="db254eef-09b7-41d7-bb56-310c77ce976b"></a>
 
-Since shares are calculated based on CAKE amount and remaining lock duration, to receive more shares, you may:
+Since shares are calculated based on FLASK amount and remaining lock duration, to receive more shares, you may:
 
-* Lock more CAKE
+* Lock more FLASK
 * Extend your staking position
 
-Please note that after adding CAKE or extending, shares are NOT updated in real time and only updated upon each week’s weekly distributions.
+Please note that after adding FLASK or extending, shares are NOT updated in real time and only updated upon each week’s weekly distributions.
 
-### Do I need to update my staking position when I add more CAKE or extend the staking? <a href="#id-71d1d397-ac1c-454b-abd9-15492860f05c" id="id-71d1d397-ac1c-454b-abd9-15492860f05c"></a>
+### Do I need to update my staking position when I add more FLASK or extend the staking? <a href="#id-71d1d397-ac1c-454b-abd9-15492860f05c" id="id-71d1d397-ac1c-454b-abd9-15492860f05c"></a>
 
-No, you will only need to enrol once. All subsequent CAKE staking pool operations will automatically inform the revenue sharing pool and update your shares upon the next weekly distributions.
+No, you will only need to enrol once. All subsequent FLASK staking pool operations will automatically inform the revenue sharing pool and update your shares upon the next weekly distributions.
 
 ### Why are the weekly injected rewards not 100% matching the volume displayed on various trackers (like the Info page)?
 
-The number of CAKE rewards injected weekly may not be 100% matching with the numbers calculated from the volume displayed on various trackers. Multiple external factors may impact the number of CAKE rewards that can be converted:
+The number of FLASK rewards injected weekly may not be 100% matching with the numbers calculated from the volume displayed on various trackers. Multiple external factors may impact the number of FLASK rewards that can be converted:
 
-* CAKE token price while the trading fee is being converted and processed
+* FLASK token price while the trading fee is being converted and processed
 * Underlying asset prices while the trading fee is being converted and processed
 * To save gas and operational cost. Revenues from blockchains other than BNB Chain are processed monthly. They will be injected with a one-month delay with weekly averaging.
 * Some trading pairs may have insufficient liquidity while processing the trading fee.
 * Some trading pairs may contain tokens with custom logic that prevent their fee from being processed.
 
-Chefs are working hard to apply tools and practices to ensure more trading fees generated can be processed and converted into CAKE.
+Chefs are working hard to apply tools and practices to ensure more trading fees generated can be processed and converted into FLASK.

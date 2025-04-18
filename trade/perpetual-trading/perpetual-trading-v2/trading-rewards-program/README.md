@@ -64,7 +64,7 @@ Risk Warning: Crypto futures trading carries a substantial risk. All trading act
 
 As the trading reward program is hosted by our friends at ApolloX, please proceed with the following steps to claim your reward:\
 \
-Step 1: Head to our [PancakeSwap Perpetuals Page](https://perp.pancakeswap.finance/en/futures/v2/)
+Step 1: Head to our [Labswap Perpetuals Page](https://perp.pancakeswap.finance/en/futures/v2/)
 
 Step 2: Click the Trading Reward (V2) tab at the top of the page
 

@@ -6,7 +6,7 @@ We aim to respond to applications within a week, but due to a large number of re
 
 #### What’s the difference between a Core Farm VS Farm Auction
 
-Projects seeking either a Core Farm or a Farm slot via our Farm Auction will have to clear our internal review process. However, a Core Farm is usually offered to projects who have shown excellent trading volumes on PancakeSwap.
+Projects seeking either a Core Farm or a Farm slot via our Farm Auction will have to clear our internal review process. However, a Core Farm is usually offered to projects who have shown excellent trading volumes on Labswap.
 
 #### What are the qualifying criteria for Community Farm VS Core Farm?
 
@@ -16,28 +16,28 @@ Qualifying criteria for Community Farms and Core Farms/Pools are based on our in
 
 If you’ve already got an ongoing Pool and Farm, you may be able to extend the timeline with additional release of tokens.\
 \
-If you wish to increase the multiplier, the team will consider it if the 30-day volume is increased. Contact us via your existing PancakeSwap communication channels for enquiries.\
+If you wish to increase the multiplier, the team will consider it if the 30-day volume is increased. Contact us via your existing Labswap communication channels for enquiries.\
 
 
 ### Listing on the Exchange
 
 #### How can I list my token on the exchange?
 
-Anybody can "list" any BEP-20 network token on PancakeSwap. You don't need to contact us or ask permission. You just need to [add liquidity to a liquidity pool](https://docs.pancakeswap.finance/products/pancakeswap-exchange/pancakeswap-pools) - that's it. Traders can then trade your token by entering your token's contract address.
+Anybody can "list" any BEP-20 network token on Labswap. You don't need to contact us or ask permission. You just need to [add liquidity to a liquidity pool](https://docs.pancakeswap.finance/products/pancakeswap-exchange/pancakeswap-pools) - that's it. Traders can then trade your token by entering your token's contract address.
 
 #### How can I add my token to the default list?
 
-Projects hosting Farms will usually be added to the Extended token list, and other tokens chosen by the PancakeSwap core team may also be added.
+Projects hosting Farms will usually be added to the Extended token list, and other tokens chosen by the Labswap core team may also be added.
 
 We don’t take applications for the list. Users can still add your token manually by entering its contract address.
 
 #### How can I add my token's logo/icon?
 
-Please add your icon to Trust Wallet’s assets repo, which PancakeSwap references:[ https://github.com/trustwallet/assets](https://github.com/trustwallet/assets)
+Please add your icon to Trust Wallet’s assets repo, which Labswap references:[ https://github.com/trustwallet/assets](https://github.com/trustwallet/assets)
 
 #### Someone made a fake copy of my token! Can you block it?
 
-Due to PancakeSwap’s nature as an AMM-based DEX, we’re not able to prevent the trading of any token. We recommend ensuring that your token contract is clearly visible and verifiable on your site and educating your users about how to safely trade your token.
+Due to Labswap’s nature as an AMM-based DEX, we’re not able to prevent the trading of any token. We recommend ensuring that your token contract is clearly visible and verifiable on your site and educating your users about how to safely trade your token.
 
 #### People get an error when trading my token. What can I do?
 
@@ -51,8 +51,8 @@ These are our liquidity requirements across the different chains:
 
 | Chain         | Liquidity Requirement  | "Common" Tokens                                           |
 | ------------- | ---------------------- | --------------------------------------------------------- |
-| BNB Chain     | 10 BNB                 | WBNB, USDT, BUSD, USDC, BTCB, WETH, CAKE                  |
-| Ethereum      | 5 ETH                  | WETH, DAI, USDC, USDT, WBTC, LINK, FEI, MATIC, AAVE, CAKE |
+| BNB Chain     | 10 BNB                 | WBNB, USDT, BUSD, USDC, BTCB, WETH, FLASK                  |
+| Ethereum      | 5 ETH                  | WETH, DAI, USDC, USDT, WBTC, LINK, FEI, MATIC, AAVE, FLASK |
 | Base          | 1 ETH                  | USDC, cbETH, rETH, DAI, crvUSD                            |
 | opBNB         | 1 BNB                  | WBNB, USDT                                                |
 | Arbitrum      | No requirement for now | USDT, USDC, USDC.e, ARB, WBTC, DAI                        |

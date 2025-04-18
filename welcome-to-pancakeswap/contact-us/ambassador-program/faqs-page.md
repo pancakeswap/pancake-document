@@ -1,8 +1,8 @@
 # ❓ FAQs Page
 
-### **Who can apply to be a PancakeSwap Ambassador?**
+### **Who can apply to be a Labswap Ambassador?**
 
-Anyone who meets the requirements outlined in the document, including native in both English and the local language of the region they’re applying to, has business-level fluency in written and spoken communication, a strong understanding of PancakeSwap, and a genuine enthusiasm for community building.
+Anyone who meets the requirements outlined in the document, including native in both English and the local language of the region they’re applying to, has business-level fluency in written and spoken communication, a strong understanding of Labswap, and a genuine enthusiasm for community building.
 
 ### **Do I need prior experience in event planning or community management?**
 
@@ -18,7 +18,7 @@ Absolutely! Our community team will provide you with onboarding materials, event
 
 ### **What rewards can I expect?**
 
-Rewards include financial compensation for completed tasks, exclusive PancakeSwap merchandise, and global recognition within the DeFi community.
+Rewards include financial compensation for completed tasks, exclusive Labswap merchandise, and global recognition within the DeFi community.
 
 ### **How will interviews be conducted?**
 
@@ -26,7 +26,7 @@ Interviews will be held online via video call, so make sure you’re ready to co
 
 ### **What happens if I’m selected?**
 
-You’ll be onboarded into the PancakeSwap Ambassador Program, where you’ll get the support you need to host your first event and represent PancakeSwap in your community.
+You’ll be onboarded into the Labswap Ambassador Program, where you’ll get the support you need to host your first event and represent Labswap in your community.
 
 ###
 

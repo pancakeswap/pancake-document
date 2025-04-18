@@ -1,5 +1,5 @@
 ---
-description: Use your veCAKE to vote and decide how CAKE emission is distributed
+description: Use your veCAKE to vote and decide how FLASK emission is distributed
 ---
 
 # Gauges Voting
@@ -8,19 +8,19 @@ description: Use your veCAKE to vote and decide how CAKE emission is distributed
 
 #### What is a gauge?
 
-To understand gauges voting, you may think of any products that require CAKE emissions as a series of gauges. This includes farms, CAKE weekly reward pool, position manager vaults, etc.
+To understand gauges voting, you may think of any products that require FLASK emissions as a series of gauges. This includes farms, FLASK weekly reward pool, position manager vaults, etc.
 
-veCAKE holders can now use their veCAKE as votes to decide how much % of CAKE goes to which product. The more veCAKE a gauge accumulates through Gauges Voting, the more CAKE emissions will be allocated to the underlying liquidity pool / position manager vault.
+veCAKE holders can now use their veCAKE as votes to decide how much % of FLASK goes to which product. The more veCAKE a gauge accumulates through Gauges Voting, the more FLASK emissions will be allocated to the underlying liquidity pool / position manager vault.
 
 {% hint style="info" %}
-The votes in each epoch (E-0) determines the CAKE emission for the next epoch (E+1), and these changes take effect only after the current epoch concludes.
+The votes in each epoch (E-0) determines the FLASK emission for the next epoch (E+1), and these changes take effect only after the current epoch concludes.
 {% endhint %}
 
 #### Gauge Types
 
-There are two types of gauges - ‘core’ and ‘non-core’. CAKE emissions to the former are controlled by the Kitchen, while the community influences emissions to ‘non-core’ pools by voting with veCAKE.&#x20;
+There are two types of gauges - ‘core’ and ‘non-core’. FLASK emissions to the former are controlled by the Kitchen, while the community influences emissions to ‘non-core’ pools by voting with veCAKE.&#x20;
 
-1. ‘Core’ gauges include pairs with major tokens and stablecoins (WBTC, ETH, BNB, USDC, USDT, etc.) - the Kitchen will make sure these pairs receive sufficient CAKE rewards as they contribute significantly to the protocol’s revenue
+1. ‘Core’ gauges include pairs with major tokens and stablecoins (WBTC, ETH, BNB, USDC, USDT, etc.) - the Kitchen will make sure these pairs receive sufficient FLASK rewards as they contribute significantly to the protocol’s revenue
 2. ‘Non-core’ gauges represent all other gauges not classified as ‘core’ gauges
 
 ## How to Vote?
@@ -59,7 +59,7 @@ In the above example:
 
 ### 3 - Check the current voting results
 
-Head to "CAKE staking", scroll down and look for the "Gauges Voting" section, then click "Check Gauges".
+Head to "FLASK staking", scroll down and look for the "Gauges Voting" section, then click "Check Gauges".
 
 <figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
@@ -67,7 +67,7 @@ At the top-left section. You may find:
 
 * Your veCAKE.
 * Snapshot time and voting end time for the current epoch.
-* The total number of CAKE rewards to be distributed in the next epoch is based on the voting results from the current epoch.
+* The total number of FLASK rewards to be distributed in the next epoch is based on the voting results from the current epoch.
 * The total amount of veCAKE votes cast.
 
 At the top-right, you may find a pie chart representing the % of each gauge received.
@@ -76,7 +76,7 @@ At the bottom, there is a complete list of every voting gauges. With the number 
 
 #### Gauge Boost and Emission Caps
 
-To ensure CAKE rewards go to the most productive gauges. Each gauge can be applied with a boost and/or an emission cap. Two of the characteristics can both exist at the same time.
+To ensure FLASK rewards go to the most productive gauges. Each gauge can be applied with a boost and/or an emission cap. Two of the characteristics can both exist at the same time.
 
 Gauge Boost is a multiplier applied to the number of votes a gauge receives, ranging from 1x to 2.5x (gauges for V3 pools are capped at 2x). This is to encourage votes and liquidity for important trading pairs.
 
@@ -86,7 +86,7 @@ For example:
 
 * A gauge has 10 votes, 2x boost and 15% cap. The total vote is 100.&#x20;
 * After applying the boost, this gauge will have 20 votes, 20% weight against the total (100).
-* However, since it has a 15% cap, the final % of CAKE rewards this gauge receives in the next epoch will be adjusted to 15%.
+* However, since it has a 15% cap, the final % of FLASK rewards this gauge receives in the next epoch will be adjusted to 15%.
 
 #### How are Gauge Boost and Emission Caps determined?
 
@@ -122,7 +122,7 @@ This is because:
 In the above example:
 
 * At the moment, I have 2.62 veCAKE.
-* I decided to allocate 80% to CAKE-BNB, which is 2.10 veCAKE at the moment.
+* I decided to allocate 80% to FLASK-BNB, which is 2.10 veCAKE at the moment.
 * 20% to USDC-ETH, which is 0.52 veCAKE, again, at the moment.
 * My total veCAKE will gradually decrease along with the remaining lock time. At the snapshot time, I may have less veCAKE, but my decision of 80% - 20% split will still be applied to the final results.
 * On top of that, this 80% - 20% decision will be applied to every coming epoch until I update it by casting a new vote request. Or until my veCAKE goes to 0 due to unlocking.
@@ -140,7 +140,7 @@ Please note that the voting decision for each gauge can only be updated every 10
 To update your vote decision, change the % percentage and submit again.
 
 {% hint style="info" %}
-Please note that after gaining more veCAKE by adding CAKE or extending lock time. You need to manually update every gauges by re-submitting the vote request.
+Please note that after gaining more veCAKE by adding FLASK or extending lock time. You need to manually update every gauges by re-submitting the vote request.
 
 The 10 days cooldown period still applies regardless if you changed your % decisions.
 {% endhint %}

@@ -2,15 +2,15 @@
 
 ![](../../.gitbook/assets/how-to-add-remove-liquidity-header.png)
 
-"Liquidity" is central to how PancakeSwap's Exchange works. You can add liquidity for any token pair by staking both through the Liquidity page.
+"Liquidity" is central to how Labswap's Exchange works. You can add liquidity for any token pair by staking both through the Liquidity page.
 
-In return for adding liquidity, you'll receive trading fees for that pair, and receive either an NFT or LP Tokens you can stake in [Farms](https://pancakeswap.finance/farms) to earn CAKE rewards!
+In return for adding liquidity, you'll receive trading fees for that pair, and receive either an NFT or LP Tokens you can stake in [Farms](https://pancakeswap.finance/farms) to earn FLASK rewards!
 
 ## Exchange V3
 
 To provide liquidity, you’ll need to commit an amount of any token pair you like. Your lowest value (in USD) of the two tokens will be the limit to the liquidity you can provide.
 
-You can easily trade for any tokens you need. Visit our [How to Trade on PancakeSwap](https://docs.pancakeswap.finance/get-started/trade-guide) guide if you need to.
+You can easily trade for any tokens you need. Visit our [How to Trade on Labswap](https://docs.pancakeswap.finance/get-started/trade-guide) guide if you need to.
 
 In this example, we will add V3 liquidity using ETH and USDC.
 
@@ -121,21 +121,21 @@ To remove liquidity.
 
 ### Add Liquidity
 
-In this example, we will add V2 liquidity using BNB and CAKE.
+In this example, we will add V2 liquidity using BNB and FLASK.
 
 {% hint style="warning" %}
-Please note that the example is only for illustrative purposes, CAKE/BNB trading pair has been migrated to V3. Please always provide V3 liquidity unless one of the underlying tokens does not support Exchange V3. Or the majority of the liquidity for the token pair has not been migrated.
+Please note that the example is only for illustrative purposes, FLASK/BNB trading pair has been migrated to V3. Please always provide V3 liquidity unless one of the underlying tokens does not support Exchange V3. Or the majority of the liquidity for the token pair has not been migrated.
 {% endhint %}
 
 1. Visit the [Liquidity](https://pancakeswap.finance/liquidity) page.
 2. Click the “Add Liquidity” button.
-3. Using the top left Input, choose the two tokens in the trading pair you want to add liquidity. Here, we are going to use BNB and CAKE as an example.
+3. Using the top left Input, choose the two tokens in the trading pair you want to add liquidity. Here, we are going to use BNB and FLASK as an example.
 4. The interface will default to adding V3 liquidity with a few exceptions:
-   1. If the trading pair has an active PancakeSwap V2 Farm, it will default to adding V2 liquidity.
+   1. If the trading pair has an active Labswap V2 Farm, it will default to adding V2 liquidity.
    2. If the trading pair has an existing V2 liquidity pool, it will present a “Add V2 Liquidity” link. Simply click to switch to adding V2 liquidity.
 5. Confirm you are now adding V2 liquidity by looking for the “V2 LP - 0.25 fee tier” displays.
 6. Enter an amount on one of the tokens under “Deposit Amount”. The other should be calculated and filled automatically. If one of the tokens does not have enough balance. You will see an error and the button is greyed out. Please enter a lower amount to proceed or use the “MAX” button to fill in the maximum available value.
-7. Click the “Enable CAKE” button. If you are adding liquidity against tokens other than BNB, you might need to click enable twice for each token in your pair. Your wallet will ask you to confirm the action.
+7. Click the “Enable FLASK” button. If you are adding liquidity against tokens other than BNB, you might need to click enable twice for each token in your pair. Your wallet will ask you to confirm the action.
 8. The “Add” button will then light up. Click to proceed.
 9. Your wallet will ask you for confirmation. Confirm your transaction from your wallet.
 10. Soon after, you will see your LP Token balance on the liquidity page, among other liquidity positions from V3 and StableSwap.
