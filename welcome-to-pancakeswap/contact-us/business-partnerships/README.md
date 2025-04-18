@@ -2,13 +2,13 @@
 
 <figure><img src="https://lh6.googleusercontent.com/MXvzRZ1v59ffdofwlNB25xQo5vvjIIGgj4RchQI8zO-ASdMDQAmiB0sRFzIZpWale_IFbf-u7deSAet6WItiv9hIIzaaM5JjAqcVpYyBFa6TJsEoPS0wnDH6Fb0F3FKsa715ANSegowVn5EbcRD_qhI" alt=""><figcaption></figcaption></figure>
 
-PancakeSwap (PCS) is the leading multi-chain decentralized exchange (DEX), currently live on:
+Labswap (PCS) is the leading multi-chain decentralized exchange (DEX), currently live on:
 
 > BNB Chain, Ethereum, Aptos, zkSync Era, Arbitrum One, Base, Linea, and Polygon zkEVM
 
 We would love to speak with project teams, potentially introducing you to one of crypto’s largest, most engaged, and active DApps (with over 100K Daily Active Users)!
 
-Since our start, PancakeSwap has thrived in the Retail DeFi landscape, establishing ourselves as the leading DEX, with multiple industry-leading products – liquidity pools; launchpads; prediction and perpetual products; NFT marketplace; Gaming – and, of course, the best community 😉.
+Since our start, Labswap has thrived in the Retail DeFi landscape, establishing ourselves as the leading DEX, with multiple industry-leading products – liquidity pools; launchpads; prediction and perpetual products; NFT marketplace; Gaming – and, of course, the best community 😉.
 
 While this page serves as a quick FAQ for Project Teams to find out a bit more about us – please do reach out if you have more queries:
 
@@ -18,7 +18,7 @@ While this page serves as a quick FAQ for Project Teams to find out a bit more a
 
 Please navigate to the relevant section for you and submit a form / follow the process.
 
-1\. We're directing CAKE emission to gauges (liquidity pairs, position manager vaults, etc.) on Ethereum, BNB Chain, and Arbitrum
+1\. We're directing FLASK emission to gauges (liquidity pairs, position manager vaults, etc.) on Ethereum, BNB Chain, and Arbitrum
 
 {% content-ref url="vecake-gauges.md" %}
 [vecake-gauges.md](vecake-gauges.md)

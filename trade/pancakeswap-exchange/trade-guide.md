@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/how-to-trade-on-pancakeswap-header.png)
 
-Trading on PancakeSwap is very easy compared to most exchanges. You aren't going to be overwhelmed by charts or jargon, and trading routes and calculations are all handled for you by the PancakeSwap Smart Router.
+Trading on Labswap is very easy compared to most exchanges. You aren't going to be overwhelmed by charts or jargon, and trading routes and calculations are all handled for you by the Labswap Smart Router.
 
 **Getting set up to trade**
 
@@ -10,13 +10,13 @@ Before you can trade, you will need a wallet that is compatible with BNB Chain o
 
 Alternatively, you can learn how to get an Aptos-compatible wallet [here](https://docs.pancakeswap.finance/get-started-aptos/wallet-guide), and how to get some Aptos coins to swap within [here](https://docs.pancakeswap.finance/get-started-aptos/aptos-coin-guide).
 
-## Trading on the PancakeSwap exchange
+## Trading on the Labswap exchange
 
 1 - Go to the exchange page [here](https://pancakeswap.finance/swap).
 
 
 
-2 - Unlock your wallet by clicking Connect **Wallet** (you can also **Connect** in the top right-hand corner). If you haven't yet connected your wallet to PancakeSwap, you can view the guide [here](https://docs.pancakeswap.finance/get-started/connection-guide).
+2 - Unlock your wallet by clicking Connect **Wallet** (you can also **Connect** in the top right-hand corner). If you haven't yet connected your wallet to Labswap, you can view the guide [here](https://docs.pancakeswap.finance/get-started/connection-guide).
 
 ![](<../../.gitbook/assets/image (200).png>)
 
@@ -58,9 +58,9 @@ If you are trading a token for the first time, you may need first to click "Enab
 
 ## **What is Smart Router V3, and how to use it?**
 
-PancakeSwap Smart Router is a routing algorithm that links V3, V2, StableSwap (BNB Chain), and the AMM and market makers (BNB Chain & Ethereum), to always provide liquidity and pricing. On default, it executes trades across multiple pools to find the best price for traders.
+Labswap Smart Router is a routing algorithm that links V3, V2, StableSwap (BNB Chain), and the AMM and market makers (BNB Chain & Ethereum), to always provide liquidity and pricing. On default, it executes trades across multiple pools to find the best price for traders.
 
-Smart Router is now the default route for PancakeSwap Exchange V3. However, users are free to customize it for their needs.
+Smart Router is now the default route for Labswap Exchange V3. However, users are free to customize it for their needs.
 
 To learn more about how to customize your trade routes, [click here](fees-and-routes.md).&#x20;
 

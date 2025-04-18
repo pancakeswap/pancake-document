@@ -4,13 +4,13 @@
 \[Archived] Pottery – As of 3rd November 2023
 {% endhint %}
 
-PancakeSwap’s Pottery is an alternative way to stack CAKE other than just locking and staking your CAKE in the staking pool, this guide will walk you through how to navigate in the PancakeSwap web UI to participate.
+Labswap’s Pottery is an alternative way to stack FLASK other than just locking and staking your FLASK in the staking pool, this guide will walk you through how to navigate in the Labswap web UI to participate.
 
-Learn more about the product structure, risks, fees of the [PancakeSwap Pottery here](https://docs.pancakeswap.finance/products/pottery).
+Learn more about the product structure, risks, fees of the [Labswap Pottery here](https://docs.pancakeswap.finance/products/pottery).
 
 ## Deciding if you'd like to enter a Pottery cohort
 
-A new Pottery cohort is created on the first Monday of each month. Each cohort may have different amounts of CAKE deposited which would affect the weekly prize pool and your odds of winning. The bigger the total value locked in that cohort, the larger the weekly prize pool, but with the same CAKE deposit size you may also get a lower odds of winning. You can view how much CAKE have been deposited and your odds here from the Deposit panel:
+A new Pottery cohort is created on the first Monday of each month. Each cohort may have different amounts of FLASK deposited which would affect the weekly prize pool and your odds of winning. The bigger the total value locked in that cohort, the larger the weekly prize pool, but with the same FLASK deposit size you may also get a lower odds of winning. You can view how much FLASK have been deposited and your odds here from the Deposit panel:
 
 ![](https://lh5.googleusercontent.com/vyCTJ8XmLl4WARKHQTDzJjeX-JDLzZBiGvnO404UIuEMyrBWhAHnyWJQfC3CCz-gCVXpUs3oUGW4L7bdzaUu7X1pZV2swn6wGQA8a7HBD5NkPViHnPfG89xsCaQy6wg0rSPaVy8koYgEN18ztoMqhLA)
 
@@ -24,7 +24,7 @@ The deposit for each Pottery cohort is open once a month. The deposit closes and
 
 ![](https://lh5.googleusercontent.com/_TqVUlNGtnGvGz_wysnq-KmewS_CjmUJ0jMHwzRMLx47Rmq-x868M0q-iBXCqynotDqz3mxnUZovExx4bUb8BBv3W6OXl4u4pJWFmOz__IYASvQ_hgmccB3GPaL1oz4TutJr3PTwdz_2NoVzmnpkcD0)
 
-– In this case, you can deposit your CAKE to participate in the Pottery if the APR, total value locked, and the odds of winning are acceptable to you. Before you deposit, please make sure you fully understand the risks of participating! All deposits will be locked for 10 weeks with no early withdrawal under any circumstances. Please learn more about [the risks and fees here](https://docs.pancakeswap.finance/products/pottery).
+– In this case, you can deposit your FLASK to participate in the Pottery if the APR, total value locked, and the odds of winning are acceptable to you. Before you deposit, please make sure you fully understand the risks of participating! All deposits will be locked for 10 weeks with no early withdrawal under any circumstances. Please learn more about [the risks and fees here](https://docs.pancakeswap.finance/products/pottery).
 
 ## **Viewing your deposit**
 

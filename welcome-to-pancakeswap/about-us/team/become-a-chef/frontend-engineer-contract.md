@@ -10,7 +10,7 @@
 
 ### Your Responsibilities
 
-* Design and build an iOS / Android application for PancakeSwap in accordance to our requirements.
+* Design and build an iOS / Android application for Labswap in accordance to our requirements.
 * Envision and develop features to help grow the application.
 * Enthusiastically collaborate with a small team to plan projects at the task level.
 * Collaborate with cross-functional partners on all aspects of product development.
@@ -30,7 +30,7 @@
 ### Good to have
 
 * Understanding of Solidity and AMMs
-* Understanding of PancakeSwap products
+* Understanding of Labswap products
 
 ### How to apply:
 

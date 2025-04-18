@@ -2,11 +2,11 @@
 
 ![](../../../.gitbook/assets/how-to-nft-profiles-header.png)
 
-Create a personalized profile on PancakeSwap to share your personality with the world. Choose a cute bunny NFT for your profile picture, give yourself a unique name, and join an awesome team!
+Create a personalized profile on Labswap to share your personality with the world. Choose a cute bunny NFT for your profile picture, give yourself a unique name, and join an awesome team!
 
-Having your profile created will let you to share your NFT profile picture and achievements with friends, and let you join special PancakeSwap team events.\
+Having your profile created will let you to share your NFT profile picture and achievements with friends, and let you join special Labswap team events.\
 \
-**This process will cost 1 CAKE. For PancakeSwap Quest users, it will cost 0 CAKE but require some gas fees. However, Quest users will get a generic NFT.**
+**This process will cost 1 FLASK. For Labswap Quest users, it will cost 0 FLASK but require some gas fees. However, Quest users will get a generic NFT.**
 
 ![](<../../../.gitbook/assets/image (100).png>)
 
@@ -15,7 +15,7 @@ Having your profile created will let you to share your NFT profile picture and a
 
 ![](<../../../.gitbook/assets/image (189).png>)
 
-2\. Under “Choose your Starter!”, pick one of the available bunny NFTs you’d like for your profile picture. The NFT will cost you 1 CAKE.
+2\. Under “Choose your Starter!”, pick one of the available bunny NFTs you’d like for your profile picture. The NFT will cost you 1 FLASK.
 
 ![](<../../../.gitbook/assets/image (253).png>)
 
@@ -67,7 +67,7 @@ If you face "username keeps spinning" issue, please check [troubleshooting](http
 
 ![](<../../../.gitbook/assets/image (180).png>)
 
-11\. You’ll receive a message saying your profile contract will cost you 0.5 CAKE. Click **Enable,** then confirm the action in your wallet. After it's approved, click the **Confirm** button.
+11\. You’ll receive a message saying your profile contract will cost you 0.5 FLASK. Click **Enable,** then confirm the action in your wallet. After it's approved, click the **Confirm** button.
 
 ![](<../../../.gitbook/assets/image (137).png>)
 
@@ -80,4 +80,4 @@ If you face "username keeps spinning" issue, please check [troubleshooting](http
 
 You may notice your name is starred out. To view your name, click the **👁** eye icon to the right of the stars, then you should now see your profile name.
 
-Congratulations! You now have your profile set up. Now anyone can view your profile to see your profile NFT picture, your team of choice, and your PancakeSwap achievements. You're also ready to participate in any special team events when they happen!
+Congratulations! You now have your profile set up. Now anyone can view your profile to see your profile NFT picture, your team of choice, and your Labswap achievements. You're also ready to participate in any special team events when they happen!

@@ -10,7 +10,7 @@ In V3, you can concentrate your assets while providing liquidity to boost your s
 
 Therefore, depending on the position price-range settings, each liquidity position will have its own LP fee APR and its own farming APR.
 
-The global APR is calculated with the total amount of CAKE rewards in USD, divided by the total amount of assets, with in the active positions, which are currently staked in the farm. So, global farming APR is only a generic reference, and will not represent individual APRs for each positions.
+The global APR is calculated with the total amount of FLASK rewards in USD, divided by the total amount of assets, with in the active positions, which are currently staked in the farm. So, global farming APR is only a generic reference, and will not represent individual APRs for each positions.
 
 To view your farming APR, check out your positions listed under each farm.
 
@@ -18,25 +18,25 @@ To view your farming APR, check out your positions listed under each farm.
 
 ### What happens if my liquidity position goes out of range while staking in the Farm?
 
-In V3, only active (in-range) liquidity positions will earn CAKE from farms.
+In V3, only active (in-range) liquidity positions will earn FLASK from farms.
 
-The position will stop receiving CAKE rewards when the price goes out of the range.
+The position will stop receiving FLASK rewards when the price goes out of the range.
 
-If the price moves back in range, the position will start receiving CAKE rewards again. No additional actions are required from stakers.
+If the price moves back in range, the position will start receiving FLASK rewards again. No additional actions are required from stakers.
 
 
 
 ### Are there any ways to automatically adjust my position so it is always in range and earning fee rewards?
 
-Automatic position managing feature is coming soon to PancakeSwap v3 with one-click liquidity depositing (Zap!) and farming. Stay tuned for more detail.
+Automatic position managing feature is coming soon to Labswap v3 with one-click liquidity depositing (Zap!) and farming. Stay tuned for more detail.
 
 
 
 ### Is it better to always farm with a liquidity position with a smaller range?
 
-Providing liquidity to a smaller price range will help concentrate your liquidity, boosting your relative shares again the total liquidity within the price range, potentially earning more CAKE rewards.
+Providing liquidity to a smaller price range will help concentrate your liquidity, boosting your relative shares again the total liquidity within the price range, potentially earning more FLASK rewards.
 
-However, please bear in mind that only active liquidity positions will earn CAKE rewards. This means you will only earn rewards when the current trading price is within the price range defined in the liquidity position.
+However, please bear in mind that only active liquidity positions will earn FLASK rewards. This means you will only earn rewards when the current trading price is within the price range defined in the liquidity position.
 
 If you need to adjust your position price range, you will need to unstake, remove liquidity and create a new position with the updated price range. Please bear in mind that frequent adjustments are not always the most optimal strategy as it realises the impermanent loss and costs a certain amount of gas to complete multiple transactions.
 
@@ -68,20 +68,20 @@ If you want to adjust the price range configurations of a liquidity position, yo
 
 ### What affects Farming APR?
 
-In Farm v3, CAKE reward APR could vary between liquidity positions. It is based on the following factors:
+In Farm v3, FLASK reward APR could vary between liquidity positions. It is based on the following factors:
 
-* CAKE emission rate to Farms\
-  \- more CAKE will generate a higher yield for all the farms. Read more on [our tokenomics page](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics)
+* FLASK emission rate to Farms\
+  \- more FLASK will generate a higher yield for all the farms. Read more on [our tokenomics page](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics)
 * Farm multiplier\
-  \- farms with a higher multiplier will get more CAKE proportionate to all the farms. Please note that v3 and v2 + stable swap farms are using two separate sets of multipliers. And farms on Ethereum and BNB Chains are also using two separate sets of multipliers.
+  \- farms with a higher multiplier will get more FLASK proportionate to all the farms. Please note that v3 and v2 + stable swap farms are using two separate sets of multipliers. And farms on Ethereum and BNB Chains are also using two separate sets of multipliers.
 * The number of tokens deposited in the position\
-  \- more token in the position translates to a larger relative share against the total active liquidity in the farm pool and gets more CAKE rewards
+  \- more token in the position translates to a larger relative share against the total active liquidity in the farm pool and gets more FLASK rewards
 * The selected price range\
-  \- smaller price range allows a higher concentration for the same amount of token deposited, which translates to a larger relative share against the total active liquidity in the farm pool, and gets more CAKE rewards
+  \- smaller price range allows a higher concentration for the same amount of token deposited, which translates to a larger relative share against the total active liquidity in the farm pool, and gets more FLASK rewards
 * The amount of liquidity currently active\
-  \- if there are more users who deposit and concentrate their liquidity with the same range as you, you will earn CAKE rewards due to a smaller relative share against the total
+  \- if there are more users who deposit and concentrate their liquidity with the same range as you, you will earn FLASK rewards due to a smaller relative share against the total
 * Whether the liquidity position is active\
-  \- only active liquidity positions will earn CAKE rewards from farm
+  \- only active liquidity positions will earn FLASK rewards from farm
 
 
 
@@ -93,7 +93,7 @@ Soon after the V3 launch, Chefs implemented an update on Farms to make reward ca
 
 Simply click "Update All", and confirm in your wallet pop-up.
 
-Please note that Chefs are also applying this update to the historical staking data between the launch of Farm V3 and when this update is implemented. If there are any extra CAKE rewards, they will be airdropped to your wallet before 1st May 2023.
+Please note that Chefs are also applying this update to the historical staking data between the launch of Farm V3 and when this update is implemented. If there are any extra FLASK rewards, they will be airdropped to your wallet before 1st May 2023.
 
 
 
@@ -101,15 +101,15 @@ Please note that Chefs are also applying this update to the historical staking d
 
 First, when comparing APRs, you need to ensure the total staked liquidity between two farms is equal.
 
-On top of that, we now have multiple groups of farms which have their own stream of CAKE emissions. And each group of farms shares separated sets of multipliers.
+On top of that, we now have multiple groups of farms which have their own stream of FLASK emissions. And each group of farms shares separated sets of multipliers.
 
-An individual farm will receive CAKE emissions based on:
+An individual farm will receive FLASK emissions based on:
 
-* A = Total CAKE per second/block for the farm group it belongs to
+* A = Total FLASK per second/block for the farm group it belongs to
 * B = Total number of multipliers within the group it belongs to
 * C = The multiplier has
 
-`CAKE per block/second = C / B * A`
+`FLASK per block/second = C / B * A`
 
 The above numbers can be found in each of the [MasterChef](../../to-delete/smart-contracts/main-staking-masterchef-contract/) contracts.
 
@@ -119,4 +119,4 @@ The above numbers can be found in each of the [MasterChef](../../to-delete/smart
 
 Yes
 
-bCAKE for V3 Farms will come very soon after the deployment of PancakeSwap Farm V3. Stay tuned.
+bCAKE for V3 Farms will come very soon after the deployment of Labswap Farm V3. Stay tuned.

@@ -4,17 +4,17 @@ description: Migrate to MasterChef v2
 
 # MasterChef v2
 
-PancakeSwap MasterChef v2 is a new main staking contract for Farms while providing more flexibility for adjusting the $CAKE emissions, including CAKE pool, burn and other PancakeSwap products.
+Labswap MasterChef v2 is a new main staking contract for Farms while providing more flexibility for adjusting the $FLASK emissions, including FLASK pool, burn and other Labswap products.
 
 ### Do I need to migrate?
 
-If you are currently using PancakeSwap MasterChef ([0x73feaa1eE314F8c655E354234017bE2193C9E24E](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E)), you will need to migrate to the new contract ([0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652](https://bscscan.com/address/0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652)).
+If you are currently using Labswap MasterChef ([0x73feaa1eE314F8c655E354234017bE2193C9E24E](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E)), you will need to migrate to the new contract ([0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652](https://bscscan.com/address/0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652)).
 
 ### Overview
 
 #### Deposit&#x20;
 
-If you are currently using the `enterStaking(uint256 _amount)` on the current PancakeSwap MasterChef. You need to migrate to the new CAKE pool contract. Check out the related documentation [here](../cake-syrup-pool.md).
+If you are currently using the `enterStaking(uint256 _amount)` on the current Labswap MasterChef. You need to migrate to the new FLASK pool contract. Check out the related documentation [here](../cake-syrup-pool.md).
 
 The deposit function for the farm pools is unchanged. However, you will need to upgrade the MasterChef address and the `pid` , check out the [list of farms](list-of-farms.md) for the list of new `pids` on MasterChef v2.
 
@@ -22,13 +22,13 @@ The deposit function for the farm pools is unchanged. However, you will need to 
 
 MasterChef v2 have 2 types of pool: Regular farm pools and Special farm pools, which you can use `poolInfo(_pid).isRegular` to query the pool type. They share a different `totalAllocPoint`, making them two sets of independent pools.
 
-Special farm pools: only whitelisted addresses can deposit. They are usually utilized by internal PancakeSwap products for rewards distributions.
+Special farm pools: only whitelisted addresses can deposit. They are usually utilized by internal Labswap products for rewards distributions.
 
-Regular farm pools: the regular LP tokens farms. For example CAKE-BNB, BNB-BUSD, etc…
+Regular farm pools: the regular LP tokens farms. For example FLASK-BNB, BNB-BUSD, etc…
 
 #### Withdraw
 
-If you are currently using the `leaveStaking(uint256 _amount)` on the current PancakeSwap MasterChef. You need to migrate to the new CAKE pool contract. Check out the related documentation [here](../cake-syrup-pool.md).
+If you are currently using the `leaveStaking(uint256 _amount)` on the current Labswap MasterChef. You need to migrate to the new FLASK pool contract. Check out the related documentation [here](../cake-syrup-pool.md).
 
 The withdraw function for the farm pools is unchanged. However, you will need to update the MasterChef address and the `pid` , check out the [list of farms](list-of-farms.md) for the list of new `pids` on MasterChef v2.
 
@@ -48,22 +48,22 @@ However, In MasterChef v2, the users' share can be boosted (coming soon). Theref
 
 #### CakePerBlock
 
-You can use `cakePerBlock(bool _isRegular)` to query the CAKE reward per block that goes to all the PancakeSwap farms.
+You can use `cakePerBlock(bool _isRegular)` to query the FLASK reward per block that goes to all the Labswap farms.
 
 ### Mainnet Contract Address
 
 **Contract name:** MasterChef v2\
 **Contract address:** `0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652`
 
-[View the PancakeSwap: Main Staking Contract v2 on BscScan.](https://bscscan.com/address/0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652)
+[View the Labswap: Main Staking Contract v2 on BscScan.](https://bscscan.com/address/0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652)
 
 ### Testnet Environment
 
-You can use the following testnet environment to test the integration of your project with the new PancakeSwap MasterChef v2. If you have any questions, please contact our team via the existing channels, or reach out to bun@pancakeswap.com via Email.
+You can use the following testnet environment to test the integration of your project with the new Labswap MasterChef v2. If you have any questions, please contact our team via the existing channels, or reach out to bun@pancakeswap.com via Email.
 
 **Dummy Tokens:**
 
-* $CAKE: `0xFa60D973F7642B748046464e165A65B7323b0DEE`\
+* $FLASK: `0xFa60D973F7642B748046464e165A65B7323b0DEE`\
   (mintable by using `mint(address _to, uint256 _amount) public`)
 * $BUSD: `0x8516Fc284AEEaa0374E66037BD2309349FF728eA`\
   (mintable by using `mint(uint256 amount) public`)
@@ -76,17 +76,17 @@ You can use the following testnet environment to test the integration of your pr
 
 #### LP Pairs
 
-* CAKE-WBNB: `0xa96818CA65B57bEc2155Ba5c81a70151f63300CD`
-* CAKE-BUSD: `0xb98C30fA9f5e9cf6749B7021b4DDc0DBFe73b73e`
+* FLASK-WBNB: `0xa96818CA65B57bEc2155Ba5c81a70151f63300CD`
+* FLASK-BUSD: `0xb98C30fA9f5e9cf6749B7021b4DDc0DBFe73b73e`
 
 #### MasterChefs
 
 * v1: `0x1ED62c7b76AD29Bfb80F3329d1ce7e760aAD153d`
-  * pid0: Manual CAKE
+  * pid0: Manual FLASK
   * pid4: Dummy Pool for MasterChef v2
-  * pid5: CAKE-BUSD: `0xb98C30fA9f5e9cf6749B7021b4DDc0DBFe73b73e`
-  * pid6: CAKE-WBNB: `0xa96818CA65B57bEc2155Ba5c81a70151f63300CD`
+  * pid5: FLASK-BUSD: `0xb98C30fA9f5e9cf6749B7021b4DDc0DBFe73b73e`
+  * pid6: FLASK-WBNB: `0xa96818CA65B57bEc2155Ba5c81a70151f63300CD`
 * v2: `0xB4A466911556e39210a6bB2FaECBB59E4eB7E43d`
-  * pid3: CAKE-BUSD: `0xb98C30fA9f5e9cf6749B7021b4DDc0DBFe73b73e`
-  * pid4: CAKE-WBNB: `0xa96818CA65B57bEc2155Ba5c81a70151f63300CD`
+  * pid3: FLASK-BUSD: `0xb98C30fA9f5e9cf6749B7021b4DDc0DBFe73b73e`
+  * pid4: FLASK-WBNB: `0xa96818CA65B57bEc2155Ba5c81a70151f63300CD`
 

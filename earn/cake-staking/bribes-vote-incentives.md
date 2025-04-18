@@ -2,7 +2,7 @@
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Apart from earning CAKE via our weekly [CAKE reward pools](revenue-sharing/earn-cake-weekly/),  veCAKE holders can vote for gauges to claim bribes from external bribe marketplaces. These bribes are usually submitted by external project teams on some of our [veCAKE Managers](vecake/vecake-managers.md).&#x20;
+Apart from earning FLASK via our weekly [FLASK reward pools](revenue-sharing/earn-cake-weekly/),  veCAKE holders can vote for gauges to claim bribes from external bribe marketplaces. These bribes are usually submitted by external project teams on some of our [veCAKE Managers](vecake/vecake-managers.md).&#x20;
 
 This serves as an additional source of yield for veCAKE holders, and also diversifies the type of tokens they receive as yield.
 

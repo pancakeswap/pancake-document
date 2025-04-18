@@ -7,7 +7,7 @@ If you still have liquidity to withdraw, please do so immediately by visiting ht
 
 1. **What are CLAMM Options?**
 
-CLAMM Options is a novel solution for on-chain options trading. It offers liquidity providers a platform to utilize v3 liquidity on PancakeSwap for selling options, enabling them to earn standard trading fees, premiums, and additional rewards. Traders can leverage this liquidity to trade American-style options on a variety of tokens.
+CLAMM Options is a novel solution for on-chain options trading. It offers liquidity providers a platform to utilize v3 liquidity on Labswap for selling options, enabling them to earn standard trading fees, premiums, and additional rewards. Traders can leverage this liquidity to trade American-style options on a variety of tokens.
 
 2. **What markets are available at launch?**
 
@@ -15,11 +15,11 @@ Initially, we will launch on Arbitrum and offer markets for ETH/USDC, wBTC/USDC,
 
 3. **How do CLAMM Options benefit liquidity providers (LPs)?**
 
-CLAMM Options allow LPs to deposit v3 liquidity on PancakeSwap through Stryke (formerly Dopex), unlocking inactive capital while offering superior yield compared to standard DEX LPing. By becoming a CLAMM LP, you gain far more efficient utilization of your liquidity with minimal opportunity cost, as unutilized liquidity remains in its original AMM, eligible for standard trading fees. While the liquidity utilized for selling options earns high premiums with a similar payoff as a CLAMM v3 liquidity position.
+CLAMM Options allow LPs to deposit v3 liquidity on Labswap through Stryke (formerly Dopex), unlocking inactive capital while offering superior yield compared to standard DEX LPing. By becoming a CLAMM LP, you gain far more efficient utilization of your liquidity with minimal opportunity cost, as unutilized liquidity remains in its original AMM, eligible for standard trading fees. While the liquidity utilized for selling options earns high premiums with a similar payoff as a CLAMM v3 liquidity position.
 
 4. **What happens to unutilized liquidity as a CLAMM Options LP?**
 
-If your liquidity remains unutilized, it stays in PancakeSwap v3 pools, ensuring no opportunity cost relative to normal v3 LPing. However, when options buyers utilize your liquidity, it is withdrawn from PancakeSwap, and reserved, and you earn a premium paid by options traders.
+If your liquidity remains unutilized, it stays in Labswap v3 pools, ensuring no opportunity cost relative to normal v3 LPing. However, when options buyers utilize your liquidity, it is withdrawn from Labswap, and reserved, and you earn a premium paid by options traders.
 
 5. **What are the key benefits of CLAMM Options for LPs?**
 

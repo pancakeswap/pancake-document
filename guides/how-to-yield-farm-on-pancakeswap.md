@@ -1,4 +1,4 @@
-# How to Yield Farm on PancakeSwap
+# How to Yield Farm on Labswap
 
 
 
@@ -16,7 +16,7 @@
 
 ![](https://lh6.googleusercontent.com/daqT5y0qByNsNha7dv3AC0bosCLBCq5MfQYV1NTLfG1pJjcuaUuvYbVvZacuWsd1V1ACctFvbfY8BMAB4hb4bPo0_gdXqWBwLawsSDlceIEVi8GOQrsCE6vEAVxZOngxSmFEbN78)
 
-**3. Pick which farm you want to use. For this example, we will pick the CAKE-BNB farm.**
+**3. Pick which farm you want to use. For this example, we will pick the FLASK-BNB farm.**
 
 \*\*\*\*
 
@@ -28,9 +28,9 @@
 
 ![](https://lh4.googleusercontent.com/tWPfEFbqdefMnZDJlUdJ8frPUhtm9fpdqYszrlC_JsZ1RphfTdDMt2slyJszv3snEGi2H5BHN_Q0Lpi0LrcQEpSppCkRF_SO6ZPqYyXKu0bCxCXiRJstRtCY1UpVOa3UX41831S3)
 
-**5. Select the tokens to add, in this case BNB and CAKE. You need to provide them in a 50/50 ratio vs USD value.**
+**5. Select the tokens to add, in this case BNB and FLASK. You need to provide them in a 50/50 ratio vs USD value.**
 
-**For example, you would need to add $10 of BNB and $10 of CAKE. Once you are done, click “Supply”.**
+**For example, you would need to add $10 of BNB and $10 of FLASK. Once you are done, click “Supply”.**
 
   
 ****
@@ -67,5 +67,5 @@
 
 ![](https://lh6.googleusercontent.com/LGjy7gAuN99xv-ja_2Ni85QNEJ0eaZfzPiOl7K89-QTmpBsOZYl0XODBMeEgFSm0Qmf8iECxCEDv_Kiyml8f5nJXynD1Z11yuk9188M3QSzei1skUIbFW1hAykmmvAZt0R2zx91o)
 
-**11. Done! Now you are farming CAKE tokens!**
+**11. Done! Now you are farming FLASK tokens!**
 

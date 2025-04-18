@@ -2,7 +2,7 @@
 
 For more information about our token launchpad offerings (“[Initial Farm Offering, or IFO”](https://pancakeswap.finance/ifo)), please view this PDF
 
-{% file src="../../.gitbook/assets/PancakeSwap IFOs One-Pager (1).pdf" %}
+{% file src="../../.gitbook/assets/Labswap IFOs One-Pager (1).pdf" %}
 
 #### Example of an IFO Process
 
@@ -16,15 +16,15 @@ For more information about our token launchpad offerings (“[Initial Farm Offer
 3. Marketing Prep
    * We will ask for some design assets, and some project info, and create both a lovely banner (Wombat Exchange example below) and a [vote proposal](https://pancakeswap.finance/voting/proposal/bafkreieqv7mbzmumyftstt6l32x6okfzq4syrea7k5zbqgohhcekcvbduu?chainId=56) (BNB Chain) / blog post (non-BNB Chain)
    * We will also start collating questions for the AMA
-   * We will typically run a week-long [marketing campaign](https://twitter.com/PancakeSwap/status/1562802361705578502) which can include activities like social engagement, meme competitions, airdrops, project-specific tasks, etc.
-   * Please note that prior to launch, PancakeSwap or Project Teams should not communicate the news of the collaboration.
-4. [AMA](https://twitter.com/PancakeSwap/status/1562648945721212929) (usually 1 day before IFO)
+   * We will typically run a week-long [marketing campaign](https://twitter.com/Labswap/status/1562802361705578502) which can include activities like social engagement, meme competitions, airdrops, project-specific tasks, etc.
+   * Please note that prior to launch, Labswap or Project Teams should not communicate the news of the collaboration.
+4. [AMA](https://twitter.com/Labswap/status/1562648945721212929) (usually 1 day before IFO)
    * An interactive session with our community to clarify any questions and establish ✨vibes✨
 5. IFO Launch
    * We will launch the IFO, and through our team of community admins, we will monitor, collate, and communicate any feedback raised by the community
-   * We will also publish some marketing materials on our [Twitter](https://twitter.com/pancakeswap/status/1564616363871678484) and [Telegram](https://t.me/PancakeSwap)
+   * We will also publish some marketing materials on our [Twitter](https://twitter.com/pancakeswap/status/1564616363871678484) and [Telegram](https://t.me/Labswap)
 6. Post-Launch
-   * We would continue to stay in touch, and work together wherever possible! E.g. our post-IFO Wombat partnership using PancakeSwap Bridge [here](http://twitter.com/PancakeSwap/status/1566694245213556737)
+   * We would continue to stay in touch, and work together wherever possible! E.g. our post-IFO Wombat partnership using Labswap Bridge [here](http://twitter.com/Labswap/status/1566694245213556737)
 
 At every step of the process, the team is here to help – we understand that for founders and their teams, the IFO or TGE is extremely critical, and we leave nothing to chance.\
 

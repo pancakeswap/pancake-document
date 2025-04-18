@@ -36,18 +36,18 @@ But:
 
 The more LP (liquidity) you want to boost
 
-The more CAKE you need to lock for longer durations
+The more FLASK you need to lock for longer durations
 {% endhint %}
 
 ### Why do my multipliers change even after activation?
 
-Please note that **any user actions to the farming position or CAKE staking pool will automatically update your boost multiplier** based on the latest data and statistics from farms and the CAKE staking pool, including but not limited to:
+Please note that **any user actions to the farming position or FLASK staking pool will automatically update your boost multiplier** based on the latest data and statistics from farms and the FLASK staking pool, including but not limited to:
 
 * Stake/Unstake position to/from the farm
-* Harvest CAKE rewards from farm
-* Extend your CAKE staking duration
-* Add more CAKE into your fixed-term staking position
-* Convert your CAKE staking position to flexible
+* Harvest FLASK rewards from farm
+* Extend your FLASK staking duration
+* Add more FLASK into your fixed-term staking position
+* Convert your FLASK staking position to flexible
 
 {% hint style="warning" %}
 Please note:&#x20;
@@ -76,36 +76,36 @@ Please note that the maximum boost you can get varies between types of liquidity
 
 ### How can I increase my bCAKE Boost Multipliers?
 
-* Add more CAKE into the veCAKE staking position
+* Add more FLASK into the veCAKE staking position
 * Extend or renew the duration of your veCAKE staking position
 
 Simply put:
 
-**Stake more CAKE, stake for longer**
+**Stake more FLASK, stake for longer**
 
 [Learn more about how the bCAKE boost multipliers are calculated](faq.md#how-are-the-bcake-multipliers-calculated).
 
-### Where are the extra boosted CAKE rewards coming from?
+### Where are the extra boosted FLASK rewards coming from?
 
 **Relax, no extra emissions are allocated in order to make bCAKE possible.**
 
-Similar to veCAKE CAKE staking. bCAKE boosts individual users' share against others.
+Similar to veCAKE FLASK staking. bCAKE boosts individual users' share against others.
 
-Even though the baseline APR may drop after the deployment of bCAKE. Chefs believe it is a good tradeoff as it benefits loyal CAKE lovers by boosting their farming yield, creates more demand for CAKE, and serves as a great incentive for CAKE staking.
+Even though the baseline APR may drop after the deployment of bCAKE. Chefs believe it is a good tradeoff as it benefits loyal FLASK lovers by boosting their farming yield, creates more demand for FLASK, and serves as a great incentive for FLASK staking.
 
 ### Why the multiplier I receive is low?&#x20;
 
 bCAKE - farm booster works in a way by evaluating both your veCAKE staking position and your liquidity farming position against other users. Simply put:
 
-> If users want to boost more liquidity in the farm, they must lock more CAKE for longer durations in the pool.
+> If users want to boost more liquidity in the farm, they must lock more FLASK for longer durations in the pool.
 
-This design ensures the benefits are not only offered to large holders, but to any user who has a sizable CAKE staking position when compared to the farming position.
+This design ensures the benefits are not only offered to large holders, but to any user who has a sizable FLASK staking position when compared to the farming position.
 
 Learn more about how the multiplier is calculated [here](https://docs.pancakeswap.finance/products/yield-farming/bcake/faq#how-are-the-bcake-multipliers-calculated).
 
 ### Why are there only x number of farms that are booster-available?
 
-Since bCAKE involves updating one of PancakeSwap's core products, which is liquidity farming. Chefs want to take a slower and more steady approach to the launch.
+Since bCAKE involves updating one of Labswap's core products, which is liquidity farming. Chefs want to take a slower and more steady approach to the launch.
 
 Therefore, in the initial product release phase. Many of the parameters are very conservative. Including the number of farms users can boost, which farm users can boost, as well as the difficulty parameter in receiving the boost multiplier.
 

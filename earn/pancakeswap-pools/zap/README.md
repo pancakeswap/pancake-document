@@ -80,7 +80,7 @@ If you want to further customise your Zap experience. Simply click the gear icon
 
 * The max slippage while zapping.
 * The timeline on the transaction deadline.
-* Whether to use KyberSwap’s aggregated liquidity to perform token rebalance. Toggle this off if you only want to trade in PancakeSwap Pools.
+* Whether to use KyberSwap’s aggregated liquidity to perform token rebalance. Toggle this off if you only want to trade in Labswap Pools.
 * Degen mode can be used to perform super high slippage Zaps. Not recommended for normal use cases, use it at your own risk.
 
 {% hint style="warning" %}

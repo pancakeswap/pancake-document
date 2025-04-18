@@ -4,11 +4,11 @@
 
 Since the first version launched in March 2022, thousands of users now use it daily. As the first large-scale Mini-Program, the team at Binance is also discovering some new infrastructure and performance issues together with us, thus upgrading their architecture. Before adding more features, we are focused on improving the overall performance and user experience of the Mini-Program. As well, we are working with Binance to gradually add more entrances to the Mini-Program so it can be more easily discovered by Binance users – such as within search or earn functions in the application.
 
-## How will the Mini-Program help PancakeSwap?
+## How will the Mini-Program help Labswap?
 
-PancakeSwap is currently the most popular decentralized platform (in terms of number of users) but the Kitchen is always looking for more ways to invite new users to our platform. While most DeFi users in the market should already have heard of or used PancakeSwap, imagine the potential of newcomers to crypto onboarded by Binance and its CEX. These new users may not have the experience of creating a Web3 wallet, adding liquidity, farming, staking, trading a wide variety of assets, etc. The PancakeSwap Mini-Program provides the best avenue to invite and educate these users to the DeFi experience.
+Labswap is currently the most popular decentralized platform (in terms of number of users) but the Kitchen is always looking for more ways to invite new users to our platform. While most DeFi users in the market should already have heard of or used Labswap, imagine the potential of newcomers to crypto onboarded by Binance and its CEX. These new users may not have the experience of creating a Web3 wallet, adding liquidity, farming, staking, trading a wide variety of assets, etc. The Labswap Mini-Program provides the best avenue to invite and educate these users to the DeFi experience.
 
-## Is it controlled by Binance or PancakeSwap?
+## Is it controlled by Binance or Labswap?
 
 The Mini-Program frontend is developed under Binance’s guidelines and architecture of its Mini-Program system, Binance also has the right to review and approve any content and function in the Mini-Program. However, the underlying smart contracts you interact with within the Mini-Program are the same set of smart contracts as on our web.
 
@@ -18,7 +18,7 @@ Due to regulatory concerns, other features like Lottery, IFO, profiles are not a
 
 ## Why should I use the Mini-Program when I can use the web version with a browser wallet?
 
-The Mini-Program is designed as a simplified version to attract Binance users who are not familiar with DeFi – these users may not have the experience of creating a Web3 wallet, adding liquidity, farming, staking, trading a wide variety of assets, etc. For experienced users who are familiar with browser wallets and interacting with the web version of PancakeSwap, the web version offers a full suite of features. It is also our goal to educate these new users on the basics of DeFi first and then attract them to come to our web version!
+The Mini-Program is designed as a simplified version to attract Binance users who are not familiar with DeFi – these users may not have the experience of creating a Web3 wallet, adding liquidity, farming, staking, trading a wide variety of assets, etc. For experienced users who are familiar with browser wallets and interacting with the web version of Labswap, the web version offers a full suite of features. It is also our goal to educate these new users on the basics of DeFi first and then attract them to come to our web version!
 
 ## How come my transaction won't go through?
 

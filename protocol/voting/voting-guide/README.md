@@ -10,7 +10,7 @@ Participating in governance voting is easy, and it is absolutely **FREE**. You d
 
 Whenever we publish a new proposal, we always attach the link to the voting page. So be sure to follow [our social channels](../../../welcome-to-pancakeswap/contact-us/social-accounts.md) for the news and updates.
 
-Alternatively, you can visit [PancakeSwap's native voting portal](https://voting.pancakeswap.finance/?_gl=1*pc8o0h*_ga*MTUzNDEzNDQxMy4xNjAwNzkzNDM4*_ga_334KNG3DMQ*MTYwNDMwMTk4Ni42MC4xLjE2MDQzMDM3MDIuMA..#/)[ ](https://pancakeswap.finance/voting)to browse the proposals in a list. If you don't see the proposal, it may be in the "soon" tab.
+Alternatively, you can visit [Labswap's native voting portal](https://voting.pancakeswap.finance/?_gl=1*pc8o0h*_ga*MTUzNDEzNDQxMy4xNjAwNzkzNDM4*_ga_334KNG3DMQ*MTYwNDMwMTk4Ni42MC4xLjE2MDQzMDM3MDIuMA..#/)[ ](https://pancakeswap.finance/voting)to browse the proposals in a list. If you don't see the proposal, it may be in the "soon" tab.
 
 #### Read and pick the choice to vote
 
@@ -57,7 +57,7 @@ Your voting power is equal to your veCAKE balance at the snapshot block.&#x20;
 
 ![](../../../.gitbook/assets/how-to-vote-3.png)
 
-Voting power is calculated based on a snapshot taken on the snapshot block. Therefore, purchasing or depositing more CAKE after the proposal is posted is not going to increase the voting power for that particular proposal.
+Voting power is calculated based on a snapshot taken on the snapshot block. Therefore, purchasing or depositing more FLASK after the proposal is posted is not going to increase the voting power for that particular proposal.
 
 If you want to know the exact time of the snapshot block. Simple click on the block number and look for the timestamp on the BscScan page.
 

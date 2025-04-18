@@ -30,7 +30,7 @@ For these token, please do **NOT** add liquidity on Exchange V3. Your assets may
 
 ### **How come my transaction won't go through?**
 
-PancakeSwap is a DeFi application such that it interacts with the wallet to complete on-chain transactions for swapping, creating LPs, staking in farms and pools, etc.
+Labswap is a DeFi application such that it interacts with the wallet to complete on-chain transactions for swapping, creating LPs, staking in farms and pools, etc.
 
 **Gas Fees**
 
@@ -54,7 +54,7 @@ In some extreme cases including some scams, some tokens even have a block on mos
 
 ### Does the new Swap interface use v2 or stable swap liquidity?
 
-Yes. The new Swap v3 uses liquidity from PancakeSwap v3, v2 and stable swap to get the best trading route.
+Yes. The new Swap v3 uses liquidity from Labswap v3, v2 and stable swap to get the best trading route.
 
 
 
@@ -70,7 +70,7 @@ Learn more in [here](../pancakeswap-exchange/fees-and-routes.md#customize-routin
 
 ### How to customise or disable certain liquidity sources?
 
-The new Swap v3 uses liquidity from PancakeSwap v3, v2 and stable swap to get the best trading route. However, you can customize or disable certain liquidity sources if you do not want your trade to route through them.
+The new Swap v3 uses liquidity from Labswap v3, v2 and stable swap to get the best trading route. However, you can customize or disable certain liquidity sources if you do not want your trade to route through them.
 
 When viewing a trading route, click the “Customize Routing” button. Or click the cog ⚙️ button on the top right hand corner of the Swap interface and choose “Customize Routing”.
 
@@ -88,7 +88,7 @@ Learn more in [here](../pancakeswap-exchange/fees-and-routes.md#customize-liquid
 
 In Exchange v3, when you are providing liquidity, you can choose between several different trading fees (0.01%, 0.05%, 0.25%, and 1%) for the same token pair.
 
-For example, for CAKE-BNB, there might be a 0.25% pair, which means a 0.25% trading fee is in place for every trade. However, some liquidity providers might choose to provide liquidity to a CAKE-BNB trading pair with a 0.05% fee rate, offers a better quote and attract more trading volume.
+For example, for FLASK-BNB, there might be a 0.25% pair, which means a 0.25% trading fee is in place for every trade. However, some liquidity providers might choose to provide liquidity to a FLASK-BNB trading pair with a 0.05% fee rate, offers a better quote and attract more trading volume.
 
 There is no “correct” answer for which trading fee configuration to choose. It depends on the tokens within the trading pair. Usually, volatile tokens should have a higher trading fee to better compensate for the impermanent loss brought by the volatility. On the other hand, tokens like stable coins have smaller price movements and lower impermanent losses, therefore their trading fee should be lower.
 
@@ -110,7 +110,7 @@ You will not earn any trading fee rewards if the current price goes out of the p
 
 On top of that, all tokens will be converted to one single asset depending on the direction of the price condition.
 
-For example, if a position of CAKE/BUSD is configured with a price range of 3 BUSD per CAKE to 5 BUSD per CAKE. And all assets in the position will be converted to BUSD if the CAKE price is higher or equal to 5 BUSD per CAKE, and vice versa.
+For example, if a position of FLASK/BUSD is configured with a price range of 3 BUSD per FLASK to 5 BUSD per FLASK. And all assets in the position will be converted to BUSD if the FLASK price is higher or equal to 5 BUSD per FLASK, and vice versa.
 
 Please not that if the price moves back in the range, you will start receiving trading fee rewards again. No additional actions are required.
 
@@ -126,7 +126,7 @@ However, please bear in mind that only active liquidity positions will earn trad
 
 ### Are there any ways to automatically adjust my position so it is always in range and earning fee rewards?
 
-Automatic position managing feature is coming soon to PancakeSwap v3 with one-click liquidity depositing (Zap!). Stay tuned for more detail.
+Automatic position managing feature is coming soon to Labswap v3 with one-click liquidity depositing (Zap!). Stay tuned for more detail.
 
 
 
@@ -135,9 +135,9 @@ Automatic position managing feature is coming soon to PancakeSwap v3 with one-cl
 |                         | 0.01% | 0.05% | 0.25% | 1%  |
 | ----------------------- | ----- | ----- | ----- | --- |
 | Liquidity Provider      | 67%   | 66%   | 68%   | 68% |
-| CAKE Burn               | 10%   | 10%   | 23%   | 23% |
+| FLASK Burn               | 10%   | 10%   | 23%   | 23% |
 | Treasury                | 18%   | 19%   | 9%    | 9%  |
-| Fixed Term CAKE Stakers | 5%    | 5%    | 0%    | 0%  |
+| Fixed Term FLASK Stakers | 5%    | 5%    | 0%    | 0%  |
 
 
 
@@ -181,13 +181,13 @@ If you want to proceed with adding v2 liquidity:
 
 ### Why can’t I add liquidity to a pair I just created?
 
-Due to a bug from the legacy Exchange V2 (present in every UniSwap V2 forks), you will not be able to add liquidity to a pair using the normal PancakeSwap liquidity UI and its contract calls if a pair is:
+Due to a bug from the legacy Exchange V2 (present in every UniSwap V2 forks), you will not be able to add liquidity to a pair using the normal Labswap liquidity UI and its contract calls if a pair is:
 
 * Created by calling `createPair` on FactoryV2 without depositing initial liquidity and minting the initial LP tokens
 * Then, one of the tokens in the pair has been manually transferred into the pool contract while calling `sync`
 
 {% hint style="info" %}
-Recently, an increase amount of such attacks were spotted on PancakeSwap Exchange V2 on BNB Chain.&#x20;
+Recently, an increase amount of such attacks were spotted on Labswap Exchange V2 on BNB Chain.&#x20;
 
 We strongly recommend using our UI to create the trading pair for your token by adding the initial liquidity with the pair creation.
 {% endhint %}
@@ -218,7 +218,7 @@ IMPORTANT: Once you’ve transferred the token, you must call `sync()`immediatel
 
 You can do so by heading to the BscScan page for the trading pair, going to “Write Contract”, “8. Sync”, and clicking the “Write” button. You will need to connect your wallet before performing the transaction.
 
-Once the transaction is confirmed, you can add the subsequent liquidity on PancakeSwap UI.
+Once the transaction is confirmed, you can add the subsequent liquidity on Labswap UI.
 
 #### What if I want to define the launch price?
 

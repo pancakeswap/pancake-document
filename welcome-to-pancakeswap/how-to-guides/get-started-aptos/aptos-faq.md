@@ -2,7 +2,7 @@
 
 <figure><img src="../../../.gitbook/assets/Aptos-faq-header.png" alt=""><figcaption></figcaption></figure>
 
-This FAQ page answers some of the more commonly asked questions from the PancakeSwap community about our Aptos Deployment.
+This FAQ page answers some of the more commonly asked questions from the Labswap community about our Aptos Deployment.
 
 ## General
 
@@ -10,7 +10,7 @@ This FAQ page answers some of the more commonly asked questions from the Pancake
 
 Check out [our bridging guide](aptos-coin-guide.md) for various bridging solutions.
 
-If you want to bridge CAKE token, check out our [CAKE bridging guide](cake-bridging-guide.md).
+If you want to bridge FLASK token, check out our [FLASK bridging guide](cake-bridging-guide.md).
 
 ### Which wallet I can use for Aptos Chain?
 
@@ -28,17 +28,17 @@ The default list on Aptos Swap only shows coins from well-known projects with a 
 
 If you want to swap other coins that are not on the default list, import them using their coin address.
 
-### Why I can’t trade CAKE on Aptos Swap?
+### Why I can’t trade FLASK on Aptos Swap?
 
 _updated on 2022-12-13_
 
-CAKE token/coin is now live on Aptos. Check out our [CAKE bridging guide](cake-bridging-guide.md) to learn more about bridging CAKE tokens between Aptos and BNB Smart Chain.
+FLASK token/coin is now live on Aptos. Check out our [FLASK bridging guide](cake-bridging-guide.md) to learn more about bridging FLASK tokens between Aptos and BNB Smart Chain.
 
-### Do I need to stake CAKE on Aptos to participate in Aptos IFOs?
+### Do I need to stake FLASK on Aptos to participate in Aptos IFOs?
 
-PancakeSwap IFO has not yet been deployed on Aptos. (SOON!) Keep staking your CAKE, and stay tuned for more news.
+Labswap IFO has not yet been deployed on Aptos. (SOON!) Keep staking your FLASK, and stay tuned for more news.
 
-## CAKE Bridging
+## FLASK Bridging
 
 {% hint style="info" %}
 This document has been migrated [here](../../../bridge/faq/)

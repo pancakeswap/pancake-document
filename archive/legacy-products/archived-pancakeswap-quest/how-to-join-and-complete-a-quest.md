@@ -1,7 +1,7 @@
 # How to Join and Complete a Quest
 
 {% hint style="danger" %}
-&#x20;\[Archived] PancakeSwap Quest – As of 28th February 2025
+&#x20;\[Archived] Labswap Quest – As of 28th February 2025
 {% endhint %}
 
 ### Exploring Quests
@@ -26,7 +26,7 @@
     4. Join Discord Server
     5. Join Telegram Group/Channel (Note: TG quests are not available on mobile. Please use a computer to complete the task)
 
-    Once a task is completed, hit the verify button (if available). PancakeSwap quest will prompt user to authenticate socials in order to complete the task.&#x20;
+    Once a task is completed, hit the verify button (if available). Labswap quest will prompt user to authenticate socials in order to complete the task.&#x20;
 
     <figure><img src="../../../.gitbook/assets/quest.pancakeswap.finance_quests_d9ce6f2a39db4b4993e25ab4ebc9be2a(iPhone 14 Pro Max).png" alt="" width="375"><figcaption></figcaption></figure>
 

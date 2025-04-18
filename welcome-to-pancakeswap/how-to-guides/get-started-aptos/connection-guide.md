@@ -1,4 +1,4 @@
-# Connect Your Wallet to PancakeSwap
+# Connect Your Wallet to Labswap
 
 ![](../../../.gitbook/assets/how-to-connect-wallet-header.png)
 
@@ -16,7 +16,7 @@
 
 ## **Connect to Aptos Mainnet**
 
-Aptos has multiple networks, including multiple devnets and testnets. But to use PancakeSwap on Aptos Chain, please be sure your wallet is connected to **Aptos Mainnet**.&#x20;
+Aptos has multiple networks, including multiple devnets and testnets. But to use Labswap on Aptos Chain, please be sure your wallet is connected to **Aptos Mainnet**.&#x20;
 
 Here's how:
 

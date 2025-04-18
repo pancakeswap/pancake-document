@@ -1,5 +1,5 @@
 ---
-description: Contracts involved in cross-EVM-chains CAKE farming with Celer
+description: Contracts involved in cross-EVM-chains FLASK farming with Celer
 ---
 
 # Cross Chain Farming

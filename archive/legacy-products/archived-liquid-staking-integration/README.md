@@ -4,7 +4,7 @@
 \[Archived] Liquid Staking
 {% endhint %}
 
-PancakeSwap has partnered with Binance Earn to offer the liquid staking integration for WBETH (Wrapped Beacon Ethereum) token. This allows PancakeSwap users to convert and swap ETH to WBETH easily on the Ethereum Network and BNB Chain
+Labswap has partnered with Binance Earn to offer the liquid staking integration for WBETH (Wrapped Beacon Ethereum) token. This allows Labswap users to convert and swap ETH to WBETH easily on the Ethereum Network and BNB Chain
 
 ### What is Liquid Staking?
 

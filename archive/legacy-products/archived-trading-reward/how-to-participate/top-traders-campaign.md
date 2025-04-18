@@ -15,7 +15,7 @@ Like “Trading Competition”, the trading reward program is hosted in individu
 To check if there is an ongoing campaign. You can:
 
 * Check on the [Trading Reward page](https://pancakeswap.finance/trading-reward/top-traders) directly
-*   Check the [PancakeSwap homepage](https://pancakeswap.finance/) banner
+*   Check the [Labswap homepage](https://pancakeswap.finance/) banner
 
     <figure><img src="../../../../.gitbook/assets/image (258).png" alt=""><figcaption></figcaption></figure>
 *   Look for the 💝 icon from the “Hot Token” list on the [Swap page](https://pancakeswap.finance/swap). Or use the filter to check pairs with trading rewards.\
@@ -25,7 +25,7 @@ To check if there is an ongoing campaign. You can:
 
 ## Start trading <a href="#id-5be1710d-25f3-485d-8184-91015c4dceca" id="id-5be1710d-25f3-485d-8184-91015c4dceca"></a>
 
-Now you can earn CAKE by trading certain PancakeSwap V3 pairs on BNB Chain and Ethereum!
+Now you can earn FLASK by trading certain Labswap V3 pairs on BNB Chain and Ethereum!
 
 Each campaign may have different eligible pairs. To check which pairs are eligible, you can:
 

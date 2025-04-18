@@ -1,12 +1,12 @@
 # Getting Started
 
 {% hint style="danger" %}
-&#x20;\[Archived] PancakeSwap Quest – As of 28th February 2025
+&#x20;\[Archived] Labswap Quest – As of 28th February 2025
 {% endhint %}
 
 ## Getting Started
 
-### How to create your PancakeSwap Quest Profile
+### How to create your Labswap Quest Profile
 
 1. Go to [https://quest.pancakeswap.finance/quests](https://quest.pancakeswap.finance/quests)
 2. Click on Join Quest, or click on Make a Profile on the settings (referenced below)

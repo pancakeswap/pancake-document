@@ -1,4 +1,4 @@
-# PancakeSwap Exchange
+# Labswap Exchange
 
 {% content-ref url="v2-contracts/" %}
 [v2-contracts](v2-contracts/)

@@ -24,15 +24,15 @@ However:
 
 ### Can I gain more veCAKE or votes?
 
-Yes, simply add more CAKE or extend your lock position.
+Yes, simply add more FLASK or extend your lock position.
 
-Please note that after gaining more veCAKE by adding CAKE or extending lock time. You need to manually update every gauges by re-submitting the vote request.
+Please note that after gaining more veCAKE by adding FLASK or extending lock time. You need to manually update every gauges by re-submitting the vote request.
 
 
 
 ### Why did the voting results change after the tallying period?
 
-During tallying period, the PancakeSwap Kitchen will cast its votes based on various metrics from all the gauges.&#x20;
+During tallying period, the Labswap Kitchen will cast its votes based on various metrics from all the gauges.&#x20;
 
 The goal is to:
 
@@ -50,7 +50,7 @@ Because when we vote on gauges, we vote using our veCAKE. And veCAKE balance gra
 
 Your votes will decrease all the way to 0 upon your veCAKE position unlocking.
 
-To gain more votes, acquire more veCAKE by adding more CAKE to the lock, or extending the lock.
+To gain more votes, acquire more veCAKE by adding more FLASK to the lock, or extending the lock.
 
 
 
@@ -64,10 +64,10 @@ Therefore, even though you gained more veCAKE. If you have allocated 100% of you
 
 ### Voting results are tallied, why emission rate is not changing?
 
-It takes roughly 72 hours to apply the voting results to various emission products on PancakeSwap. Chefs will continue to automate this process to shorten the gap as well as improve accuracy.
+It takes roughly 72 hours to apply the voting results to various emission products on Labswap. Chefs will continue to automate this process to shorten the gap as well as improve accuracy.
 
 
 
-### Why did the gauge I voted for not receive any CAKE emissions in the next epoch?
+### Why did the gauge I voted for not receive any FLASK emissions in the next epoch?
 
-Whitelisted gauges need to receive votes that correspond to minimally 1 CAKE per day in emissions, before they can receive any CAKE.
+Whitelisted gauges need to receive votes that correspond to minimally 1 FLASK per day in emissions, before they can receive any FLASK.

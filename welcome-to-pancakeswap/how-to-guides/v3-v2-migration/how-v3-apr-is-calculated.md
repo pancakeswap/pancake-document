@@ -1,10 +1,10 @@
 # How v3 APR is calculated
 
 {% hint style="info" %}
-In V3 Liquidity and Farms, with the new non-fungible liquidity and customizable price range ability. Each LP position will have its own LP fee and CAKE farming APR.
+In V3 Liquidity and Farms, with the new non-fungible liquidity and customizable price range ability. Each LP position will have its own LP fee and FLASK farming APR.
 {% endhint %}
 
-The total APR is combined by the LP fee APR and CAKE reward APR
+The total APR is combined by the LP fee APR and FLASK reward APR
 
 ### LP fee
 
@@ -41,7 +41,7 @@ In each pool, we can use `poolInfo` to get the `poolWeight` by dividing  `poolIn
 
 #### Global Cake APR
 
-Global APR calculated using the total amount of active & staked liquidity with the pool CAKE reward emissions.
+Global APR calculated using the total amount of active & staked liquidity with the pool FLASK reward emissions.
 
 `APR (global) = (cakePerSecond * 31536000) / (totalAllocPoint / pool.allocPoint) * 100 * cakeUSD / totalStakedLiquidityUSD`
 
@@ -55,7 +55,7 @@ $$
 ARP_p = {\frac{USD_{r}}{USD_{p}}} {\frac{L_{p}}{L_{lm}}}
 $$
 
-* $$USD_r$$: CAKE reward earn USD per year in pool
+* $$USD_r$$: FLASK reward earn USD per year in pool
 * $$USD_p$$: Total USD value in position
 * $$L_{p}$$: Position liquidity
 * $$L_{lm}$$: Total staking liquidity which tracked by LMPool

@@ -7,7 +7,7 @@
 {% hint style="info" %}
 ### Notice
 
-At the very end of all swaps via router, `refundETH` should be called. PancakeSwap will ensure this.
+At the very end of all swaps via router, `refundETH` should be called. Labswap will ensure this.
 {% endhint %}
 
 ### Audits

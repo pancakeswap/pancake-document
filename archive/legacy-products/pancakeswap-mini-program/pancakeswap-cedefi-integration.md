@@ -1,18 +1,18 @@
-# ⛓ PancakeSwap CEDEFI Integration
+# ⛓ Labswap CEDEFI Integration
 
-The PancakeSwap CEDEFI integration is a partnership with Binance to feature PancakeSwap and bring the decentralized finance (DeFi) experience to Binance users. Collaborating with Binance, users can seamlessly access a full DeFi experience on PancakeSwap without ever having to leave the app. On **Binance's token search bar**, users can access and trade tokens on PancakeSwap. For other ways to access PancakeSwap on Binance, please check out the [PancakeSwap Mini-Program ](https://docs.pancakeswap.finance/products/pancakeswap-mini-program/how-to-use-pancakeswap-mini-program#other-entrances-to-the-mini-program)documentation.
+The Labswap CEDEFI integration is a partnership with Binance to feature Labswap and bring the decentralized finance (DeFi) experience to Binance users. Collaborating with Binance, users can seamlessly access a full DeFi experience on Labswap without ever having to leave the app. On **Binance's token search bar**, users can access and trade tokens on Labswap. For other ways to access Labswap on Binance, please check out the [Labswap Mini-Program ](https://docs.pancakeswap.finance/products/pancakeswap-mini-program/how-to-use-pancakeswap-mini-program#other-entrances-to-the-mini-program)documentation.
 
 ### Why CEDEFI
 
-PancakeSwap is the first DeFi project to integrate and utilize the Binance DeFi Wallet. With the CEDEFI integration, PancakeSwap hopes to supplement the CEX experience on Binance by offering a full DEX experience, providing decentralized token swaps on Binance App.
+Labswap is the first DeFi project to integrate and utilize the Binance DeFi Wallet. With the CEDEFI integration, Labswap hopes to supplement the CEX experience on Binance by offering a full DEX experience, providing decentralized token swaps on Binance App.
 
-While most DeFi users in the market should already have heard of or used PancakeSwap, there is an untapped market of new users to DeFi onboarded by Binance. These new users may not have the experience of creating a Web3 wallet, adding liquidity, farming, staking, trading a wide variety of assets, etc. This integration provides the best avenue to invite and educate these users to the DeFi experience.
+While most DeFi users in the market should already have heard of or used Labswap, there is an untapped market of new users to DeFi onboarded by Binance. These new users may not have the experience of creating a Web3 wallet, adding liquidity, farming, staking, trading a wide variety of assets, etc. This integration provides the best avenue to invite and educate these users to the DeFi experience.
 
 ### How It Works
 
 1\. In the Binance app, go to the Markets tab and look for the token you want to trade ![](https://lh4.googleusercontent.com/CswrFfNEO\_gh1NI6AEMhmADZGk8A1u6w3FB9TyO-8Lpoe\_nAaFDyx0qp0OLAFiWDJlCnRAp34SsAr\_\_IyAa69naPMBaWI8IrRecESMnLWJbR90e3H6xiJFrU8DkGqjCxJ4DAWvBq6AVXSBM6xInkC0A)
 
-2\. If the token can be traded on PancakeSwap, it will appear in the Third-Party Applications section.
+2\. If the token can be traded on Labswap, it will appear in the Third-Party Applications section.
 
 ![](https://lh3.googleusercontent.com/zzOxBZpnZrbdVys30lQVDHAw26qNoJqZIwl8S\_3OqpVBKZgJSLXdiRwGE6PaITOqtSjZZrzyHN8OPQUSuMpYN2zPvheDN5cx909nyfgV8S50rYAfYC-FyWPhUkcrbz3LWosakagB1tcg-GporbPQMzE)
 

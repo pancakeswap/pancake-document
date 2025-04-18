@@ -27,6 +27,6 @@ II Brand Kit - Game Partner
 * 01\. Landing page spec&#x20;
 * 02\. 2D resources&#x20;
 * 03\. 3D resources&#x20;
-* 04\. PancakeSwap colour palette
+* 04\. Labswap colour palette
 
 By duplicating the file above, you confirm that you will only use it to the extent permitted by the Terms detailed in the above’s figma - Read Me - T\&C Page.

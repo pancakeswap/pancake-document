@@ -1,10 +1,10 @@
 ---
-description: Protect your trades with bloXroute <> PancakeSwap Private RPC!
+description: Protect your trades with bloXroute <> Labswap Private RPC!
 ---
 
-# 🛡️ PancakeSwap MEV Guard
+# 🛡️ Labswap MEV Guard
 
-Are you worried about your trades being frontrun by MEV bots onchain? Worry no more - use PancakeSwap’s MEV Guard to protect your trades.
+Are you worried about your trades being frontrun by MEV bots onchain? Worry no more - use Labswap’s MEV Guard to protect your trades.
 
 Available on BNB Chain.
 
@@ -20,7 +20,7 @@ Visit [https://pancakeswap.finance/mev](https://pancakeswap.finance/mev) to lear
 
 Or use the following info to add to your wallet manually:
 
-* Network Name: PancakeSwap MEV Guard New&#x20;
+* Network Name: Labswap MEV Guard New&#x20;
 * RPC URL: https://bscrpc.pancakeswap.finance&#x20;
 * Chain ID: 56&#x20;
 * Currency symbol: BNB&#x20;

@@ -2,7 +2,7 @@
 
 <figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
-In Exchange V3, on default, PancakeSwap Smart Router will utilize liquidity from V3, V2, StableSwap (BNB Chain), and the AMM and market makers (BNB Chain & Ethereum), to execute trades and find the best price for traders.
+In Exchange V3, on default, Labswap Smart Router will utilize liquidity from V3, V2, StableSwap (BNB Chain), and the AMM and market makers (BNB Chain & Ethereum), to execute trades and find the best price for traders.
 
 However, users are always able to customize their trade by choosing which liquidity sources the router shall utilize, and enable or disable multihops and split routing.
 
@@ -31,7 +31,7 @@ At the top of the “Customize Routing” interface, you may choose which liquid
 * Click “Customize Routing” at the bottom of the trading route displays.
 * Click the cog icon in the swap interface, and then click “Customize Routing” at the bottom.
 
-By default, all of the liquidity sources are enabled and Smart Router will take full advantage of all the available liquidities within PancakeSwap.
+By default, all of the liquidity sources are enabled and Smart Router will take full advantage of all the available liquidities within Labswap.
 
 Please note that the router will NOT route trades between AMM liquidity pools and MM market makers. When your trade is executed by MM market makers, it will not go through any AMM liquidity pools.
 

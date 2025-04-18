@@ -1,12 +1,12 @@
 # ALP Syrup Pool (Arbitrum)
 
-ALP is a token that powers liquidity on PancakeSwap Perpertuals V2. Users mint/buy ALP using collateral tokens such as USDC, USDT, DAI, ETH and BTC. These tokens supply liquidity to the PancakeSwap Perpetuals trade engine powered by ApolloX. ALP tokens **cannot be transferred between wallets** and can only be **minted/sold through ALP contract and staked in ALP pool**.
+ALP is a token that powers liquidity on Labswap Perpertuals V2. Users mint/buy ALP using collateral tokens such as USDC, USDT, DAI, ETH and BTC. These tokens supply liquidity to the Labswap Perpetuals trade engine powered by ApolloX. ALP tokens **cannot be transferred between wallets** and can only be **minted/sold through ALP contract and staked in ALP pool**.
 
 ### Step-By-Step Guide
 
 #### Buying/Minting ALP
 
-1. Click to access the [PancakeSwap ALP Pool (V2)](https://perp.pancakeswap.finance/en/ALP) page and connect your wallet
+1. Click to access the [Labswap ALP Pool (V2)](https://perp.pancakeswap.finance/en/ALP) page and connect your wallet
 2. After connecting your wallet, click **Buy ALP**. You can use any ALP pool asset to buy ALP.
 3. After confirming the information, click **Buy ALP** to complete the transaction.
 
@@ -18,7 +18,7 @@ ALP is a token that powers liquidity on PancakeSwap Perpertuals V2. Users mint/b
 
 <figure><img src="../../../../../../.gitbook/assets/png (4).png" alt=""><figcaption></figcaption></figure>
 
-2. Select the CAKE-ALP syrup pool
+2. Select the FLASK-ALP syrup pool
 3. **Enable** ALP and click **Stake**
 4. Select amount of ALP to stake and click **confirm**
 

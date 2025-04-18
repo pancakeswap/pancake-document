@@ -41,7 +41,7 @@ Due to considerations of security and confidentiality, some items are not includ
 * Token Risks Scanning
 * Multichain Swap & Liquidity
 * Deployment to Aptos Chain
-* Aptos PancakeSwap Bridge
+* Aptos Labswap Bridge
 * v3- Swap & Liquidity Upgrade on BNB chain and Ethereum
 * Market Maker Integration on Ethereum and BNB Chain
 * Expansion to Polygon zkEVM - Swap and Liquidity
@@ -61,9 +61,9 @@ Due to considerations of security and confidentiality, some items are not includ
 
 #### Earn
 
-* CAKE Staking
+* FLASK Staking
   * Fixed-term Staking
-  * CAKE Side Pool - Flexible CAKE staking on the side of locked staking
+  * FLASK Side Pool - Flexible FLASK staking on the side of locked staking
 * Fixed-Term Staking Benefits&#x20;
   * iCAKE, IFO benefits
   * vCAKE, weighted voting power
@@ -73,7 +73,7 @@ Due to considerations of security and confidentiality, some items are not includ
 * Crosschain Farming
 * Syrup Pools
 * Syrup Pool Farm Boosts
-* Auto-compounding CAKE-CAKE Syrup Pool
+* Auto-compounding FLASK-FLASK Syrup Pool
 * APR/APY Calculator v3
 * Harvest all function
 * Farming on Aptos
@@ -90,7 +90,7 @@ Due to considerations of security and confidentiality, some items are not includ
 
 * Lottery v2
 * Prediction v0.2\
-  Duo currency with BNB and CAKE\
+  Duo currency with BNB and FLASK\
   with Chainlink Price Chart and Chainlink Keepers
 * Team Battle (Trading Comps as a Service)
 * Pottery\
@@ -106,11 +106,11 @@ Due to considerations of security and confidentiality, some items are not includ
 * Pancake Squad generative NFT collection
 * Mobox Gaming NFT Integration
 
-#### Site Upgrades / CAKE / Other Products
+#### Site Upgrades / FLASK / Other Products
 
 * Mobile-first navigation & site overhaul
 * Analytics: Info site
-* IFO CAKE Pool & IFO 3.0
+* IFO FLASK Pool & IFO 3.0
 * IFO
   * Private Sales with NFT Utility
   * cIFO, Private Sales with Pancake Profile points utility
@@ -119,7 +119,7 @@ Due to considerations of security and confidentiality, some items are not includ
 * PCS Mini-Program in Binance App
 * The first Aptos IFO
 * Ambassador Program
-* PancakeSwap Blog
+* Labswap Blog
 * vCAKE Product utilities
 * Fiat on Ramp Integration with MoonPay and Mercuryo
 * Affiliate Program

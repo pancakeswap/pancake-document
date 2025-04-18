@@ -1,16 +1,16 @@
 ---
-description: Allora X PancakeSwap Prediction
+description: Allora X Labswap Prediction
 ---
 
 # AI Prediction
 
 <figure><img src="../../.gitbook/assets/ARB.png" alt=""><figcaption></figcaption></figure>
 
-### What is PancakeSwap AI prediction?
+### What is Labswap AI prediction?
 
-PancakeSwap will use the Allora Network’s AI price predictions to create a new AI-powered prediction market. In PancakeSwap’s current prediction market, users predict whether the price of ETH will rise or fall within a 20-minute window. If a user's prediction is correct, they win; if it's incorrect, they lose.
+Labswap will use the Allora Network’s AI price predictions to create a new AI-powered prediction market. In Labswap’s current prediction market, users predict whether the price of ETH will rise or fall within a 20-minute window. If a user's prediction is correct, they win; if it's incorrect, they lose.
 
-In this new addition to the prediction market using Allora’s AI price predictions, users will predict the future price of ETH with or against AI. This next phase introduces a novel AI-powered dynamic to the platform’s popular prediction market. By integrating Allora’s ML-powered collective intelligence network, PancakeSwap can offer an engaging user experience at the forefront of DeFi's AI development.
+In this new addition to the prediction market using Allora’s AI price predictions, users will predict the future price of ETH with or against AI. This next phase introduces a novel AI-powered dynamic to the platform’s popular prediction market. By integrating Allora’s ML-powered collective intelligence network, Labswap can offer an engaging user experience at the forefront of DeFi's AI development.
 
 ### Rules for AI-powered Prediction:
 
@@ -23,7 +23,7 @@ AI-prediction works similar to regular prediction on BNB change, with little twi
 
 ### **How to use AI-powered Prediction :**
 
-1\. Go to [PancakeSwap Prediction](https://pancakeswap.finance/prediction?token=ETH\&chain=arb) on Arbitrum
+1\. Go to [Labswap Prediction](https://pancakeswap.finance/prediction?token=ETH\&chain=arb) on Arbitrum
 
 2\. Select the prediction round you want to participate in and make your prediction based on either the AI's forecast or going against it.
 

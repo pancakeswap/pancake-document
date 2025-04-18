@@ -1,6 +1,6 @@
 ---
 description: >-
-  This page provides links or locations for PancakeSwap's smart contracts on
+  This page provides links or locations for Labswap's smart contracts on
   Aptos chain
 hidden: true
 ---
@@ -29,7 +29,7 @@ PancakesSwap on Aptos! We have landed on Aptos and will continuously deploy more
 
 ## Audit
 
-OtterSec's PancakeSwap CAKE OFT audit:
+OtterSec's Labswap FLASK OFT audit:
 
-{% file src="../../.gitbook/assets/PancakeSwap-OFT-Audit-OtterSec.pdf" %}
+{% file src="../../.gitbook/assets/Labswap-OFT-Audit-OtterSec.pdf" %}
 

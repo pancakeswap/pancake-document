@@ -1,8 +1,8 @@
-# Earn CAKE Weekly
+# Earn FLASK Weekly
 
 <figure><img src="../../../../.gitbook/assets/image (354).png" alt=""><figcaption></figcaption></figure>
 
-Holding veCAKE automatically enrols you to two of our weekly CAKE reward pools. Both will be distributing rewards in CAKE. One of them is distributing rewards from weekly revenue shares; the other one is replacing the legacy CAKE staking pool and distributing emission-based CAKE rewards.
+Holding veCAKE automatically enrols you to two of our weekly FLASK reward pools. Both will be distributing rewards in FLASK. One of them is distributing rewards from weekly revenue shares; the other one is replacing the legacy FLASK staking pool and distributing emission-based FLASK rewards.
 
 ## How to participate?
 
@@ -17,13 +17,13 @@ Additionally, to accumulate rewards in the next period, your position **MUST** u
 For example, to join the week 1 distribution. You must:
 
 * Join before 00:00 UTC, Thursday on week 1
-* Have an active fixed-term CAKE staking position, which unlocks equal to or later than 00:00 UTC, Thursday on week 3
+* Have an active fixed-term FLASK staking position, which unlocks equal to or later than 00:00 UTC, Thursday on week 3
 
 ### 2 - Check your rewards
 
 <figure><img src="../../../../.gitbook/assets/image (356).png" alt="" width="375"><figcaption></figcaption></figure>
 
-Go to the CAKE staking page, scroll down, look for the "Earn CAKE" section under "Benefits of veCAKE".
+Go to the FLASK staking page, scroll down, look for the "Earn FLASK" section under "Benefits of veCAKE".
 
 In the top section, you may view your veCAKE number.
 
@@ -32,7 +32,7 @@ At the bottom, you may find:
 * **Your shares** - shares number in the reward pool. This is equal to your veCAKE balance at the time of the next distribution. Please note that the veCAKE balance is constantly decreasing based on the remaining lock time.
 * **Next distribution** - the time till the next distribution
 * **Last distribution** - the time of the last revenue distribution and share number update
-* **Available for claiming** - the amount of CAKE available for claiming
+* **Available for claiming** - the amount of FLASK available for claiming
 
 {% hint style="info" %}
 Please note that your shares will only be updated upon a weekly distribution. Therefore, your shares may appear to be 0 right after you update your staking position. Check back again after the next distribution to view your shares.
@@ -54,13 +54,13 @@ Upon each weekly distribution, your shares are re-adjusted based on:
 * At the time of the next distribution (00:00 UTC, Thursday)
 * (note that veCAKE is gradually decreasing with the remaining lock time)
 
-For example: If a user has `50` CAKE locked and the current remaining lock time is `4.2` weeks, then the user will have `50 * (4 / 209) ~= 0.95` veCAKE/shares at the next distribution.
+For example: If a user has `50` FLASK locked and the current remaining lock time is `4.2` weeks, then the user will have `50 * (4 / 209) ~= 0.95` veCAKE/shares at the next distribution.
 
-To receive more shares, lock more CAKE or renew your lock durations to increase your remaining lock time.
+To receive more shares, lock more FLASK or renew your lock durations to increase your remaining lock time.
 
 Additionally, since the remaining lock duration will be rounded down to weeks, to keep receiving shares, you must ensure your staking position will unlock equal to or later than the second next distribution.
 
 For example, to join the week 1 distribution. You must:
 
 * Join before 00:00 UTC, Thursday on week 1
-* Have an active fixed-term CAKE staking position, which unlocks equal to or later than 00:00 UTC, Thursday on week 3
+* Have an active fixed-term FLASK staking position, which unlocks equal to or later than 00:00 UTC, Thursday on week 3

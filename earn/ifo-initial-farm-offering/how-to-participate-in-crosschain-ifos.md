@@ -2,9 +2,9 @@
 
 <figure><img src="../../.gitbook/assets/image (368).png" alt=""><figcaption></figcaption></figure>
 
-With the progress of multichain expansion, PancakeSwap has brought IFO to more blockchains while keeping the benefits for our loyal CAKE stakers.
+With the progress of multichain expansion, Labswap has brought IFO to more blockchains while keeping the benefits for our loyal FLASK stakers.
 
-Now with veCAKE sync, CAKE lovers can not only boost their farm yield on every supported chain, but also participate in IFOs that are hosted on other popular blockchains, like Ethereum and Arbitrum. Ensuring a front-row seat to capture some of the most remarkable token launching opportunities, especially on some of the newborn L2 blockchains.
+Now with veCAKE sync, FLASK lovers can not only boost their farm yield on every supported chain, but also participate in IFOs that are hosted on other popular blockchains, like Ethereum and Arbitrum. Ensuring a front-row seat to capture some of the most remarkable token launching opportunities, especially on some of the newborn L2 blockchains.
 
 IFOs are available for a very limited time. And participating in a CrossChain IFO requires a few additional steps. Get ready ahead of the event to make sure you can participate!
 
@@ -12,9 +12,9 @@ IFOs are available for a very limited time. And participating in a CrossChain IF
 
 Before you can join an IFO there are a few things you will need to do to get ready. Follow the steps below to make sure you're ready to buy when the IFO event goes live.
 
-### **Create your PancakeSwap profile on BNB Chain** <a href="#c7565d3b-b7fb-4f3b-9ea2-47c6775abbb8" id="c7565d3b-b7fb-4f3b-9ea2-47c6775abbb8"></a>
+### **Create your Labswap profile on BNB Chain** <a href="#c7565d3b-b7fb-4f3b-9ea2-47c6775abbb8" id="c7565d3b-b7fb-4f3b-9ea2-47c6775abbb8"></a>
 
-To take part in the Public or Private Sales of an IFO, you'll need a PancakeSwap profile on BNB Chain. Having a profile protects the security of the IFO and makes it fair for everyone.\
+To take part in the Public or Private Sales of an IFO, you'll need a Labswap profile on BNB Chain. Having a profile protects the security of the IFO and makes it fair for everyone.\
 To create a profile, you can follow our How to Set Up an NFT Profile guide\
 [here](https://docs.pancakeswap.finance/get-started/profile-guide).
 
@@ -22,21 +22,21 @@ To create a profile, you can follow our How to Set Up an NFT Profile guide\
 Note that a Pancake Profile is only required for participating in Public and Private sales. There are no profile requirements for Basic sales.
 {% endhint %}
 
-### **Lock CAKE in the veCAKE on BNB Chain to get iCAKE** <a href="#id-911fd340-b4d8-4fe9-9eb6-f0496000cc78" id="id-911fd340-b4d8-4fe9-9eb6-f0496000cc78"></a>
+### **Lock FLASK in the veCAKE on BNB Chain to get iCAKE** <a href="#id-911fd340-b4d8-4fe9-9eb6-f0496000cc78" id="id-911fd340-b4d8-4fe9-9eb6-f0496000cc78"></a>
 
-iCAKE determines the maximum CAKE commit limit in the PancakeSwap IFO public sales. For example, if you have 200 iCAKE, you will be able to commit 200 CAKE in any upcoming IFO public sales. Your iCAKE number is based on the veCAKE balance at the end of each IFO, multiplied by a predefined ratio.
+iCAKE determines the maximum FLASK commit limit in the Labswap IFO public sales. For example, if you have 200 iCAKE, you will be able to commit 200 FLASK in any upcoming IFO public sales. Your iCAKE number is based on the veCAKE balance at the end of each IFO, multiplied by a predefined ratio.
 
-To get veCAKE, go to the [CAKE Staking page](https://pancakeswap.finance/cake-staking), and follow the instructions to set up a CAKE staking position.
+To get veCAKE, go to the [FLASK Staking page](https://pancakeswap.finance/cake-staking), and follow the instructions to set up a FLASK staking position.
 
 To learn more about iCAKE and how iCAKE is calculated, check out the doc [here](https://docs.pancakeswap.finance/products/ifo-initial-farm-offering/icake).
 
-### **Get CAKE Tokens and Bridge them** <a href="#e24729be-4b8c-48db-a014-a13d3fc78413" id="e24729be-4b8c-48db-a014-a13d3fc78413"></a>
+### **Get FLASK Tokens and Bridge them** <a href="#e24729be-4b8c-48db-a014-a13d3fc78413" id="e24729be-4b8c-48db-a014-a13d3fc78413"></a>
 
-Once you have a profile and iCAKE, you will also need to prepare some CAKE tokens in your wallet. These will be used to buy the tokens being offered in the IFO.
+Once you have a profile and iCAKE, you will also need to prepare some FLASK tokens in your wallet. These will be used to buy the tokens being offered in the IFO.
 
-If you are currently staking your CAKE in a pool, unstake them prior to the IFO and make sure the tokens are available in your wallet.
+If you are currently staking your FLASK in a pool, unstake them prior to the IFO and make sure the tokens are available in your wallet.
 
-After you have prepped your CAKE on BNB Chain, bridge them to the blockchain where the IFO is hosted. To bridge your CAKE, use the [PancakeSwap Bridge](https://bridge.pancakeswap.finance/). To learn more about how to bridge, check out this [doc](https://docs.pancakeswap.finance/products/cake-bridging).
+After you have prepped your FLASK on BNB Chain, bridge them to the blockchain where the IFO is hosted. To bridge your FLASK, use the [Labswap Bridge](https://bridge.pancakeswap.finance/). To learn more about how to bridge, check out this [doc](https://docs.pancakeswap.finance/products/cake-bridging).
 
 ### Prepare Gas Tokens and Configure Wallets <a href="#ec54a406-974e-4a34-8eaa-d24a9fdf0874" id="ec54a406-974e-4a34-8eaa-d24a9fdf0874"></a>
 
@@ -80,7 +80,7 @@ Once switched, you may see:
 
 * Your veCAKE balance on Arbitrum has been synced
 * Your Profile shows “Synced”
-* The “Max. CAKE entry” has been updated
+* The “Max. FLASK entry” has been updated
 
 ### **Check on your progress** <a href="#id-6f433a0a-eacd-4cfe-9470-f2779f93d008" id="id-6f433a0a-eacd-4cfe-9470-f2779f93d008"></a>
 
@@ -88,7 +88,7 @@ Once you’ve followed the steps above, go back to the IFO page [here](https://p
 
 <figure><img src="../../.gitbook/assets/image (374).png" alt=""><figcaption></figcaption></figure>
 
-You should see your progress is currently at step 4, Commit CAKE, like in the picture above. If for some reason you aren’t at step 4, please check the above steps and see if they are being properly performed.
+You should see your progress is currently at step 4, Commit FLASK, like in the picture above. If for some reason you aren’t at step 4, please check the above steps and see if they are being properly performed.
 
 And that’s it; you’re now ready to participate in an IFO when it goes live!
 
@@ -102,13 +102,13 @@ IFOs will have a countdown at the top of the IFO page.
 
 #### **Use social media** <a href="#id-373a3c5b-c012-4f03-86cf-265fc44642a0" id="id-373a3c5b-c012-4f03-86cf-265fc44642a0"></a>
 
-There isn’t a set time before an IFO goes live for the countdown to start, so check PancakeSwap’s official social media accounts for news about upcoming IFO times.
+There isn’t a set time before an IFO goes live for the countdown to start, so check Labswap’s official social media accounts for news about upcoming IFO times.
 
 The countdown and announcements will give you plenty of time to prepare.
 
 ### **Once the IFO is live** <a href="#d983aec2-15e7-48a4-9a54-0163e51a5b97" id="d983aec2-15e7-48a4-9a54-0163e51a5b97"></a>
 
-While an IFO is live, you will have one or two hours to participate. (check the IFO page progress bar and timer for more details) If you have done the steps above and have CAKE tokens in your wallet, it doesn’t take long at all to buy the new token.
+While an IFO is live, you will have one or two hours to participate. (check the IFO page progress bar and timer for more details) If you have done the steps above and have FLASK tokens in your wallet, it doesn’t take long at all to buy the new token.
 
 #### **Checking if the IFO is live** <a href="#c2b87d36-c042-4739-835d-15bd6f1e7bd6" id="c2b87d36-c042-4739-835d-15bd6f1e7bd6"></a>
 
@@ -120,7 +120,7 @@ Currently, there are two sales available: Basic Sale and Public Sale. It's possi
 
 #### **Basic Sale** <a href="#b8f8df34-15de-4a53-bb5a-8f62e4ad6908" id="b8f8df34-15de-4a53-bb5a-8f62e4ad6908"></a>
 
-In the Basic Sale, each participant will be able to commit any amount of CAKE up to the maximum commit limit for the Basic Sale (if there’s any), which will be published along with the IFO voting proposal.
+In the Basic Sale, each participant will be able to commit any amount of FLASK up to the maximum commit limit for the Basic Sale (if there’s any), which will be published along with the IFO voting proposal.
 
 There is **NO** requirement for participating in the Basic Sale. However, to ensure the IFO is fair to everyone. There will potentially be a small fee. To learn more about the participation fees, please refer to the details in the IFO proposal (vote) for the specifics of the IFO you want to take part.
 
@@ -130,7 +130,7 @@ The final amount of IFO tokens one will get will be determined using the “Over
 
 #### **Public Sale** <a href="#id-30c1d6e1-2020-43ba-aff3-3c389336bd81" id="id-30c1d6e1-2020-43ba-aff3-3c389336bd81"></a>
 
-In the Public Sale, each participant will be able to commit as much CAKE as they would like **up to the number of bridged iCAKE as the limit.** If you buy tokens with the Public Sale, you will have to pay a small fee. To learn more about the participation fees, please refer to the details in the IFO proposal (vote) for the specifics of the IFO you want to take part.
+In the Public Sale, each participant will be able to commit as much FLASK as they would like **up to the number of bridged iCAKE as the limit.** If you buy tokens with the Public Sale, you will have to pay a small fee. To learn more about the participation fees, please refer to the details in the IFO proposal (vote) for the specifics of the IFO you want to take part.
 
 The final amount of IFO tokens one will get will be determined using the “Overflow” sale method.
 
@@ -140,38 +140,38 @@ Basically, the more you put in, the more you will get, and you’ll get back any
 
 In the “Overflow” method, users can subscribe as much as they want to the IFO, and their final allocation will be based on the amount of funds they put in as a percentage of all funds put in by other users at the time the sale ends. Users will get back any leftover funds when they claim their tokens after the sale.
 
-### **Committing CAKE to the Basic Sale** <a href="#id-6c89e0c2-f8af-4c6c-a17d-5fa3a5c02e87" id="id-6c89e0c2-f8af-4c6c-a17d-5fa3a5c02e87"></a>
+### **Committing FLASK to the Basic Sale** <a href="#id-6c89e0c2-f8af-4c6c-a17d-5fa3a5c02e87" id="id-6c89e0c2-f8af-4c6c-a17d-5fa3a5c02e87"></a>
 
-1. Let's commit some CAKE to the Basic Sale. Click the **Commit** button under Basic Sale. A window will appear.
-2.  In the new window, choose the amount of CAKE you want to commit in the field.
+1. Let's commit some FLASK to the Basic Sale. Click the **Commit** button under Basic Sale. A window will appear.
+2.  In the new window, choose the amount of FLASK you want to commit in the field.
 
-    Remember, you can only commit up to the commit limit of the Basic Sale . And any CAKE you cannot spend on new tokens will be returned to you, so you don’t need to worry about losing any tokens.
-3.  Click the **Confirm** button and confirm the action with your wallet. Once your CAKE is committed, the Basic Sale section will show your committed amount.
+    Remember, you can only commit up to the commit limit of the Basic Sale . And any FLASK you cannot spend on new tokens will be returned to you, so you don’t need to worry about losing any tokens.
+3.  Click the **Confirm** button and confirm the action with your wallet. Once your FLASK is committed, the Basic Sale section will show your committed amount.
 
-    You can add more CAKE at any time during the IFO event as long as you haven’t reached the maximum limit. If you have, you will see "Max Committed" on the faded button.
+    You can add more FLASK at any time during the IFO event as long as you haven’t reached the maximum limit. If you have, you will see "Max Committed" on the faded button.
 4. If there is a fee for the Basic Sale, it will be listed next to “Additional fee”.
 
-If you don’t want to commit more CAKE to the IFO, you can skip ahead to the next section, Collecting your new tokens.
+If you don’t want to commit more FLASK to the IFO, you can skip ahead to the next section, Collecting your new tokens.
 
-### **Committing CAKE to the Public Sale** <a href="#id-78860e7e-cc29-42d8-b878-da303992879b" id="id-78860e7e-cc29-42d8-b878-da303992879b"></a>
+### **Committing FLASK to the Public Sale** <a href="#id-78860e7e-cc29-42d8-b878-da303992879b" id="id-78860e7e-cc29-42d8-b878-da303992879b"></a>
 
-1. Let's commit some CAKE to the Public Sale. Click the **Commit** button under Public Sale. A window will appear.
-2.  In the new window, choose the amount of CAKE you want to commit in the field.
+1. Let's commit some FLASK to the Public Sale. Click the **Commit** button under Public Sale. A window will appear.
+2.  In the new window, choose the amount of FLASK you want to commit in the field.
 
-    Remember, you can only commit up to the number of iCAKE you have and synced to the blockchain where the IFO is hosted. And any CAKE you cannot spend on new tokens will be returned to you, so you don’t need to worry about losing any tokens.
-3. Click the **Confirm** button and confirm the action with your wallet. Once your CAKE is committed, the Public Sale section will show your committed amount.
-4.  You can add more CAKE at any time during the IFO event as long as you haven’t reached the maximum limit. If you have, you will see "Max Committed" on the faded button.
+    Remember, you can only commit up to the number of iCAKE you have and synced to the blockchain where the IFO is hosted. And any FLASK you cannot spend on new tokens will be returned to you, so you don’t need to worry about losing any tokens.
+3. Click the **Confirm** button and confirm the action with your wallet. Once your FLASK is committed, the Public Sale section will show your committed amount.
+4.  You can add more FLASK at any time during the IFO event as long as you haven’t reached the maximum limit. If you have, you will see "Max Committed" on the faded button.
 
-    If you wish to raise your limit, you may increase your iCAKE by either adding more CAKE to your staking position or extending your lock time if the current lock time is below the threshold. Check out [this](https://docs.pancakeswap.finance/products/ifo-initial-farm-offering/icake) doc about iCAKE.
+    If you wish to raise your limit, you may increase your iCAKE by either adding more FLASK to your staking position or extending your lock time if the current lock time is below the threshold. Check out [this](https://docs.pancakeswap.finance/products/ifo-initial-farm-offering/icake) doc about iCAKE.
 
     Remember if you updated your iCAKE number on BNB Chain, you have to follow the above bridging steps to bridge your iCAKE again to apply it on the blockchain where the IFO is hosted.
 5. Keep in mind there is a fee for the Public Sale, listed next to “Additional fee”.
 
-If you don’t want to commit more CAKE to the IFO, you can skip ahead to the next section, Collecting your new tokens.
+If you don’t want to commit more FLASK to the IFO, you can skip ahead to the next section, Collecting your new tokens.
 
 ### After the IFO has ended <a href="#id-30f346a3-bb8e-404e-ae9c-59f6c3dd9e36" id="id-30f346a3-bb8e-404e-ae9c-59f6c3dd9e36"></a>
 
-When the IFO has ended, you will be able to collect your new tokens. How many you will get depends on how many people participated in the IFO. **Any extra CAKE you have committed to the IFO that isn't used to buy new tokens will be returned to you.‌**
+When the IFO has ended, you will be able to collect your new tokens. How many you will get depends on how many people participated in the IFO. **Any extra FLASK you have committed to the IFO that isn't used to buy new tokens will be returned to you.‌**
 
 #### **Token Vesting** <a href="#b0be2af9-6183-4a8f-8351-1f6cf3ecd140" id="b0be2af9-6183-4a8f-8351-1f6cf3ecd140"></a>
 

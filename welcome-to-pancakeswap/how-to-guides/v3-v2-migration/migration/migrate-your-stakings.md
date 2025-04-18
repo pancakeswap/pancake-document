@@ -1,5 +1,5 @@
 ---
-description: Migrate your farms and pools staking to the new PancakeSwap MasterChef
+description: Migrate your farms and pools staking to the new Labswap MasterChef
 ---
 
 # Migrate Your Stakings
@@ -13,8 +13,8 @@ In order to keep earning staking rewards, you will need to migrate your farms an
 
 You need to migrate if you are:
 
-* Farming on PancakeSwap **Farms**.
-* Staking in PancakeSwap **CAKE Syrup Pools** (Manual, Auto, IFO).
+* Farming on Labswap **Farms**.
+* Staking in Labswap **FLASK Syrup Pools** (Manual, Auto, IFO).
 
 \*other Syrup Pools aren’t affected
 {% endhint %}
@@ -29,7 +29,7 @@ Go to [https://pancakeswap.finance/migration](https://pancakeswap.finance/migrat
 
 ### 2. Unstake from the old farms
 
-There are two steps in the migration helper. In the first step, you should see a list of three CAKE syrup pools and farms you are currently staking.
+There are two steps in the migration helper. In the first step, you should see a list of three FLASK syrup pools and farms you are currently staking.
 
 ![](../../../../.gitbook/assets/migration-helper-steps-guide-3.png)
 
@@ -39,30 +39,30 @@ Click "**Unstake All**" on each of the farms and pools to unstake all your asset
 
 After unstaking, click "**Go to Stake**" to proceed to step 2.
 
-### 3. Stake your LP tokens and CAKE into the new farms and pools.
+### 3. Stake your LP tokens and FLASK into the new farms and pools.
 
-Here you should see the brand new CAKE syrup pool and the new farms. Before staking, you will need to enable them.
+Here you should see the brand new FLASK syrup pool and the new farms. Before staking, you will need to enable them.
 
 ![](<../../../../.gitbook/assets/migration-helper-steps-guide-5 (1).png>)
 
-Click "**Enable**" to enable staking on each of the farms and the CAKE syrup pool. If you are using a mobile device, please click the “**v**” (downward arrow) to expand the card while looking for the "**Enable**" button.
+Click "**Enable**" to enable staking on each of the farms and the FLASK syrup pool. If you are using a mobile device, please click the “**v**” (downward arrow) to expand the card while looking for the "**Enable**" button.
 
 After enabling, you will be able to start staking in the pool and farms.
 
 {% tabs %}
-{% tab title="CAKE Syrup Pool" %}
+{% tab title="FLASK Syrup Pool" %}
 ![](<../../../../.gitbook/assets/migration-helper-steps-guide-7 (2).png>)
 
-For CAKE syrup pool. Please:
+For FLASK syrup pool. Please:
 
-1. Click "**Flexible**" under the "Stake CAKE" section.
-2. Enter the amount of CAKE you want to stake.
+1. Click "**Flexible**" under the "Stake FLASK" section.
+2. Enter the amount of FLASK you want to stake.
 3. Click "**Confirm**".
 
 
 
 {% hint style="info" %}
-The locked (fixed-term) staking option will become available a few days after the migration. You will be able to convert your flexible staking position to a locked one. To learn more about the new CAKE syrup pool with fixed-term staking, please check out [this doc](../../../../earn/cake-staking/syrup-pool/new-cake-pool/).
+The locked (fixed-term) staking option will become available a few days after the migration. You will be able to convert your flexible staking position to a locked one. To learn more about the new FLASK syrup pool with fixed-term staking, please check out [this doc](../../../../earn/cake-staking/syrup-pool/new-cake-pool/).
 {% endhint %}
 {% endtab %}
 
@@ -81,7 +81,7 @@ For farms, please:
 
 ![](<../../../../.gitbook/assets/migration-helper-steps-guide-9 (1).png>)
 
-You are now staking in the new MasterChef and continue earning CAKE rewards! Click "**Finish**" to go back and explore some other great products PancakeSwap offers.
+You are now staking in the new MasterChef and continue earning FLASK rewards! Click "**Finish**" to go back and explore some other great products Labswap offers.
 
 ## Migration Timeline
 

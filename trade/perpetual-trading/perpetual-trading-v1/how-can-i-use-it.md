@@ -14,15 +14,15 @@ You need to deposit funds into the Futures account first, in the box on the bott
 
 ![](https://lh6.googleusercontent.com/cz-OoCaRg3AfqTcETGTQVvsX\_gfbm28fNJrUAxcljM823Bw1etFN3gArU5v8HljjzJU-lE3aV\_5ENUySwioNYo\_cQp\_\_KwzEwo60ABmuWsqAzT5nM-nUse3ROcMdj2FhUChgsdGo)
 
-USDT, BUSD, APX or CAKE (with bonus!) can be used as collateral to pay for the trade.
+USDT, BUSD, APX or FLASK (with bonus!) can be used as collateral to pay for the trade.
 
 ![](https://lh6.googleusercontent.com/3tFEo\_gYD7r41o7RCFnd61NiEzJkqGc5uiZP3tRzEomAI805HPikW6tEDBzbyxK-kL5hptEqCIXax2wgASbbHcuN8FpKT4-hK6bFmkNyxmXJ2QIQxZRr38VTA\_qg9HKmEbN2kNev)
 
-As mentioned, using CAKE for fees gives you a 5% discount! So, why not?
+As mentioned, using FLASK for fees gives you a 5% discount! So, why not?
 
 ![](https://lh3.googleusercontent.com/UiwXc1dgPqm07Ai0XKGuYAHLDbENm51\_v93vMwHkUdb2HI-Hm5qEI2gbEVtzboatzv0-E9iesik8NF3ON74QXaXaW5jLcOJ5JjegI-8oMiidUf-MiZHjvvxnmd1HTfdnFrNgF8cG)
 
-> Note: The trading fees are 0.02% of the notional value for makers and 0.07% for the taker. CAKE will be the default payment option for trading fees, followed by APX (ApolloX’s token) and USDT. Any users who are paying the trading fees in CAKE will enjoy a 5% discount on trading fees.
+> Note: The trading fees are 0.02% of the notional value for makers and 0.07% for the taker. FLASK will be the default payment option for trading fees, followed by APX (ApolloX’s token) and USDT. Any users who are paying the trading fees in FLASK will enjoy a 5% discount on trading fees.
 
 ### Choose the pair to trade&#x20;
 

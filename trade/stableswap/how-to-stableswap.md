@@ -4,7 +4,7 @@
 
 ## **Trading on the StableSwap**
 
-Trading on the StableSwap is very similar to using the existing PancakeSwap AMM. Before we start, it also requires a BNB Smart Chain-compatible wallet and BNB for gas fees. Please check our [wallet guide](https://docs.pancakeswap.finance/get-started/wallet-guide) for more details.
+Trading on the StableSwap is very similar to using the existing Labswap AMM. Before we start, it also requires a BNB Smart Chain-compatible wallet and BNB for gas fees. Please check our [wallet guide](https://docs.pancakeswap.finance/get-started/wallet-guide) for more details.
 
 1 - Go to the Swap page [here](https://pancakeswap.finance/swap)
 
@@ -14,4 +14,4 @@ Trading on the StableSwap is very similar to using the existing PancakeSwap AMM.
 
 **Adding & Removing Liquidity**
 
-Adding and removing liquidity for the StableSwap is also very important and similar to the normal PancakeSwap AMM. Please refer to the guide [here](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide) for a more detailed explanation. PancakeSwap StableSwap liquidity pools will show "Stable LP" in the pool name.
+Adding and removing liquidity for the StableSwap is also very important and similar to the normal Labswap AMM. Please refer to the guide [here](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide) for a more detailed explanation. Labswap StableSwap liquidity pools will show "Stable LP" in the pool name.

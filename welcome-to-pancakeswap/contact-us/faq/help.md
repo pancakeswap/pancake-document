@@ -12,11 +12,11 @@ We have broken the help topic down into sections to help you find what you're af
 
 ### Troubleshooting Errors
 
-The [Troubleshooting Errors page](https://docs.pancakeswap.finance/help/troubleshooting) has a collection of errors users may run into while using PancakeSwap. It shows the problem with both a solution to the problem, and a reason explaining why the problem happened.
+The [Troubleshooting Errors page](https://docs.pancakeswap.finance/help/troubleshooting) has a collection of errors users may run into while using Labswap. It shows the problem with both a solution to the problem, and a reason explaining why the problem happened.
 
 ### General FAQ
 
-The [General FAQ page](https://docs.pancakeswap.finance/help/faq) answers the common questions we get from PancakeSwap users. The answers to these questions give advice, an explanation, or a link to a useful resource.
+The [General FAQ page](https://docs.pancakeswap.finance/help/faq) answers the common questions we get from Labswap users. The answers to these questions give advice, an explanation, or a link to a useful resource.
 
 ### Other Guides
 
@@ -24,7 +24,7 @@ There are also a number of guides in the help topic that will walk you through t
 
 ## Seeking support
 
-PancakeSwap doesn't have a dedicated support service. Instead, if you find yourself with a problem that has no answer here, you can ask for help on [PancakeSwap's Telegram channel](https://t.me/pancakeswap). For your safety, make sure you read the notice about scams if it's your first time on our Telegram.
+Labswap doesn't have a dedicated support service. Instead, if you find yourself with a problem that has no answer here, you can ask for help on [Labswap's Telegram channel](https://t.me/pancakeswap). For your safety, make sure you read the notice about scams if it's your first time on our Telegram.
 
 
 
@@ -33,5 +33,5 @@ PancakeSwap doesn't have a dedicated support service. Instead, if you find yours
 
 [https://v1exchange.pancakeswap.finance/#/swap](https://v1exchange.pancakeswap.finance/#/swap)
 
-⚠️ PancakeSwap V1 Exchange was deprecated on May 2021. Go to the [V2 Exchange](https://pancakeswap.finance/swap?chainId=56) instead for better prices on most pairs.
+⚠️ Labswap V1 Exchange was deprecated on May 2021. Go to the [V2 Exchange](https://pancakeswap.finance/swap?chainId=56) instead for better prices on most pairs.
 {% endhint %}

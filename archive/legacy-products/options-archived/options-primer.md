@@ -68,7 +68,7 @@ Key factors influencing options pricing include:
 
 Options pricing determines the premium/fee a writer receives when an option trader purchases their option. Option writers are exposed to the risk of paying settlement if their options expire In-The-Money or ITM (profitable for the buyer). As such, the premiums they earn from purchasers must fairly reflect the probability of an ITM event.
 
-PancakeSwap CLAMM options premiums are derived from the Black-Scholes model with the following assumptions:
+Labswap CLAMM options premiums are derived from the Black-Scholes model with the following assumptions:
 
 * The risk-free rate is assumed to be zero.
 * Volatility is based on the 30-day historical volatility of the underlying \[used as a proxy for implied volatility (IV)].

@@ -1,5 +1,5 @@
 ---
-description: 'Step-by-Step Guide to Liquid Stake on PancakeSwap:'
+description: 'Step-by-Step Guide to Liquid Stake on Labswap:'
 ---
 
 # How To Liquid Stake
@@ -8,11 +8,11 @@ description: 'Step-by-Step Guide to Liquid Stake on PancakeSwap:'
 \[Archived] Liquid Staking
 {% endhint %}
 
-Converting and swapping ETH to WBETH on PancakeSwap is a breeze. Here’s how to do it:
+Converting and swapping ETH to WBETH on Labswap is a breeze. Here’s how to do it:
 
 To stake ETH and receive WBETH:
 
-1. Head over to [PancakeSwap](https://pancakeswap.finance/) and connect your wallet. Ensure you have ETH in your wallet on either Ethereum or BNB Chain network to convert to WBETH.&#x20;
+1. Head over to [Labswap](https://pancakeswap.finance/) and connect your wallet. Ensure you have ETH in your wallet on either Ethereum or BNB Chain network to convert to WBETH.&#x20;
 2. Navigate to the "Earn" tab and select ["Liquid Staking”](https://pancakeswap.finance/liquid-staking)&#x20;
 3.  Confirm the stake pair chosen is ETH/WBETH and click “proceed”.&#x20;
 

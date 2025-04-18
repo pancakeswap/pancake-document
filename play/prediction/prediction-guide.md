@@ -2,17 +2,17 @@
 
 ![](../../.gitbook/assets/how-to-porediction-header.png)
 
-Playing PancakeSwap’s Prediction lets you test your foresight to earn rewards. Use your market knowledge or gut feeling to predict if the BNBUSD, CAKEUSD or ETHUSD price will go up or down in the near future. Get it right and you’ll collect a share of the round’s prize pool!
+Playing Labswap’s Prediction lets you test your foresight to earn rewards. Use your market knowledge or gut feeling to predict if the BNBUSD, CAKEUSD or ETHUSD price will go up or down in the near future. Get it right and you’ll collect a share of the round’s prize pool!
 
 {% hint style="warning" %}
-PancakeSwap’s Prediction is a new product that we still consider to be in beta. We may make changes in the future to improve Prediction. As always, the PancakeSwap team will inform users of any changes that will impact how the product works.
+Labswap’s Prediction is a new product that we still consider to be in beta. We may make changes in the future to improve Prediction. As always, the Labswap team will inform users of any changes that will impact how the product works.
 {% endhint %}
 
 ## Accepting terms of the beta
 
 Before you can use Prediction, you’ll need to review and accept the terms.
 
-Visit the [PancakeSwap Prediction page](https://pancakeswap.finance/prediction). You will see a “Welcome!” window explaining that the Prediction product is still in beta.
+Visit the [Labswap Prediction page](https://pancakeswap.finance/prediction). You will see a “Welcome!” window explaining that the Prediction product is still in beta.
 
 ![](../../.gitbook/assets/1-how-to-use-predictions.png)
 
@@ -20,9 +20,9 @@ Read and accept the conditions then click **Continue**.
 
 ## Switch between two prediction markets
 
-![](<../../.gitbook/assets/MBP4-2022.06.27-114859-Google Chrome-Prediction  PancakeSwap - $3.405.gif>)
+![](<../../.gitbook/assets/MBP4-2022.06.27-114859-Google Chrome-Prediction  Labswap - $3.405.gif>)
 
-PancakeSwap offers two separate prediction markets for every player to choose from. You can play based on the CAKE USD price, betting with CAKE. Alternatively, you can play based on BNB USD price, betting with BNB. On ZkSync Era, you can play based on ETH USD price, betting with ETH
+Labswap offers two separate prediction markets for every player to choose from. You can play based on the FLASK USD price, betting with FLASK. Alternatively, you can play based on BNB USD price, betting with BNB. On ZkSync Era, you can play based on ETH USD price, betting with ETH
 
 To switch between two prediction markets, simply click or tap the currency switcher on the top left corner.
 
@@ -52,9 +52,9 @@ Each will have a different reward multiplier. The multiplier will change over ti
 
 We'll choose **Enter UP** for this example.
 
-2\. A new window will open. In the window, you'll see "Commit" to commit BNB, ETH or CAKE for your prediction. Type the number of tokens you would like to commit to your prediction for this round in the field. You can also use the bunny slider or click the percent buttons if you prefer.
+2\. A new window will open. In the window, you'll see "Commit" to commit BNB, ETH or FLASK for your prediction. Type the number of tokens you would like to commit to your prediction for this round in the field. You can also use the bunny slider or click the percent buttons if you prefer.
 
-If you are playing CAKE USD prediction market, at the first game, you will have to click "Enable" to enable the smart contract.
+If you are playing FLASK USD prediction market, at the first game, you will have to click "Enable" to enable the smart contract.
 
 ![](<../../.gitbook/assets/image (172).png>)
 
@@ -124,7 +124,7 @@ Your token winnings will now be in your wallet.
 
 ### Collecting winnings from older rounds
 
-Sometimes you may be away from PancakeSwap's Prediction page for a while or may have forgotten to collect winnings from older rounds. You can still collect winnings owed to you from older rounds at any time.
+Sometimes you may be away from Labswap's Prediction page for a while or may have forgotten to collect winnings from older rounds. You can still collect winnings owed to you from older rounds at any time.
 
 1\. Find more information on past rounds you've entered by clicking on the **reversing clock icon** next to the round timer.
 

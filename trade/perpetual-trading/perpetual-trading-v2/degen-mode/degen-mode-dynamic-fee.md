@@ -1,6 +1,6 @@
 # Degen Mode Dynamic Fee
 
-PancakeSwap Perpetuals Degen Mode uses a dynamic fee model. This fee is designed to charge fees by PnL and protect users from losses.\
+Labswap Perpetuals Degen Mode uses a dynamic fee model. This fee is designed to charge fees by PnL and protect users from losses.\
 **How does it work?**
 
 $$

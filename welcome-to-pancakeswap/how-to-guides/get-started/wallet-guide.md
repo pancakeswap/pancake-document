@@ -2,7 +2,7 @@
 
 ![](../../../.gitbook/assets/how-to-make-a-crypto-wallet-header.png)
 
-To get started on PancakeSwap, the first thing you'll need is to set up a wallet that supports BNB Smart Chain (BSC). Wallets are available both on desktop computers and on smartphone devices. You'll need to choose the wallet that fits your needs best.
+To get started on Labswap, the first thing you'll need is to set up a wallet that supports BNB Smart Chain (BSC). Wallets are available both on desktop computers and on smartphone devices. You'll need to choose the wallet that fits your needs best.
 
 {% hint style="danger" %}
 **When you're setting up a wallet, be sure to:**
@@ -33,7 +33,7 @@ Smartphone/Mobile wallets allow you to access your crypto almost anywhere. Walle
 
 ### Which mobile wallet should I choose?
 
-This comparison table gives an overview of the most popular mobile wallets used with PancakeSwap.
+This comparison table gives an overview of the most popular mobile wallets used with Labswap.
 
 <table><thead><tr><th width="151"></th><th width="114">MetaMask</th><th width="109">Coinbase Wallet</th><th width="145">SafePal</th><th width="115">Trust Wallet</th><th width="98">Token Pocket</th></tr></thead><tbody><tr><td>BNB Smart Chain support</td><td>⚠️</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Built-in DApp browser</td><td>➖</td><td>✅</td><td>✅</td><td>✅ </td><td>✅</td></tr><tr><td>Hardware wallet compatible</td><td>✅</td><td>✅</td><td>✅<br>(Only SafePal)</td><td>➖</td><td>➖</td></tr><tr><td>Open source (auditability)</td><td>✅</td><td>✅</td><td>➖</td><td>✅</td><td>✅</td></tr><tr><td><p>Interact with BscScan Directly</p><p>(for advanced users!)</p></td><td>✅</td><td>➖</td><td>➖</td><td>➖</td><td>➖</td></tr></tbody></table>
 
@@ -61,7 +61,7 @@ MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethe
 **Cons:**
 
 * Longer setup time than other options
-* Additional steps needed to use with BNB Smart Chain and PancakeSwap
+* Additional steps needed to use with BNB Smart Chain and Labswap
 * Extra information and settings may confuse beginners
 
 [**Download MetaMask**](https://metamask.io/download.html) (Automatically detects device)\
@@ -76,7 +76,7 @@ Millions of users choose Coinbase Wallet to earn yield with DeFi, swap more than
 **Highlights:**
 
 * Most downloaded mobile dapp wallet in the United States with 12M+ active Wallet users.
-* No additional steps needed to use with BNB Smart Chain and PancakeSwap.
+* No additional steps needed to use with BNB Smart Chain and Labswap.
 * Premier audience: Up to 89M+ Coinbase retail app users to onboard to Coinbase Wallet as they start to explore web3.
 * Easy to transfer assets from Coinbase retail app.
 * Fiat On-ramp: Users can now directly purchase crypto with fiat in all 86 countries where Coinbase operates, without leaving Wallet.
@@ -185,7 +185,7 @@ If you do have an existing wallet to import, use the top option instead.
 
 And that’s it, all done!
 
-To connect to BNB Smart Chain and use PancakeSwap, you can follow the TokenPocket section of our Connect Your Wallet to PancakeSwap guide [https://docs.pancakeswap.finance/get-started/connection-guide](https://docs.pancakeswap.finance/get-started/connection-guide).
+To connect to BNB Smart Chain and use Labswap, you can follow the TokenPocket section of our Connect Your Wallet to Labswap guide [https://docs.pancakeswap.finance/get-started/connection-guide](https://docs.pancakeswap.finance/get-started/connection-guide).
 
 #### Getting private key from mobile to import to desktop
 
@@ -208,7 +208,7 @@ Please be extremely careful with how you handle your private keys. Giving your p
 {% hint style="danger" %}
 \*\*NEVER, in any situation, should you ever give someone your private key or recovery phrase ("seed phrase"). This will give someone complete access to your crypto!
 
-The genuine PancakeSwap site and staff will never ask you to input your seed phrase.\*\*
+The genuine Labswap site and staff will never ask you to input your seed phrase.\*\*
 {% endhint %}
 
 Now you have your private key ready to import your wallet into the desktop version of Token Pocket.
@@ -221,7 +221,7 @@ Desktop wallets are available on your home computer or laptop computer. Wallets 
 
 ### Which desktop wallet should I choose?
 
-This comparison table gives an overview of the most popular desktop wallets used with PancakeSwap.
+This comparison table gives an overview of the most popular desktop wallets used with Labswap.
 
 <table><thead><tr><th width="187"></th><th width="116">MetaMask</th><th width="108">Trust Wallet</th><th width="107">Binance Wallet</th><th width="116">Coinbase Wallet</th><th width="150">Token Pocket</th></tr></thead><tbody><tr><td>BNB Smart Chain support</td><td>⚠️</td><td>✅</td><td>✅</td><td>✅</td><td>⚠️</td></tr><tr><td>Built-in DApp browser</td><td>➖</td><td>✅</td><td>➖</td><td>➖</td><td>✅</td></tr><tr><td>Hardware wallet compatible</td><td>✅</td><td>✅ (Beta)</td><td>✅</td><td>✅</td><td>➖</td></tr><tr><td>Open source (auditability)</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td><p>Interact with BscScan Directly</p><p>(for advanced users!)</p></td><td>✅</td><td>✅</td><td>➖</td><td>➖</td><td>➖</td></tr></tbody></table>
 
@@ -248,7 +248,7 @@ MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethe
 **Cons:**
 
 * Longer setup time than other options
-* Additional steps needed to use with BNB Smart Chain and PancakeSwap
+* Additional steps needed to use with BNB Smart Chain and Labswap
 * Extra information and settings may confuse beginners
 
 [**Download MetaMask**](https://metamask.io/download.html) (Automatically detects browser)\
@@ -266,7 +266,7 @@ Binance Wallet is a browser-plugin wallet that natively supports the Binance Cha
 * Backed by the Binance cryptocurrency exchange
 * Can be directly linked to a Binance or Gmail account
 * A streamlined user experience
-* Supports BNB Smart Chain by default, making using PancakeSwap easy
+* Supports BNB Smart Chain by default, making using Labswap easy
 * Supports a large number of languages
 * Hardware wallet compatible
 
@@ -288,7 +288,7 @@ Millions of users choose Coinbase Wallet to earn yield with DeFi, swap more than
 **Highlights:**
 
 * 12M+ active Wallet users.
-* No additional steps needed to use with BNB Smart Chain and PancakeSwap.
+* No additional steps needed to use with BNB Smart Chain and Labswap.
 * Premier audience: Up to 89M+ Coinbase retail app users to onboard to Coinbase Wallet as they start to explore web3.
 * Easy to transfer assets from Coinbase retail app.
 * Fiat On-ramp: Users can now directly purchase crypto with fiat in all 86 countries where Coinbase operates, without leaving Wallet.
@@ -378,12 +378,12 @@ Please be extremely careful with how you handle your private keys. Giving your p
 
 ![](https://lh5.googleusercontent.com/g_iZzJZAPhsBQUBgQqTvLO1HfuGnCGZDkRD3DFu4g4GPat901700Qk3aBx8Fx5AzY2PH7JYajGM4-4fXm6icPWB-8R5wQQst-W3NWJ6n0Rh_bbPKXnXrO4h_JEgu7wtey11EuCN-)
 
-And that’s it, all done! You can follow our [Connect Your Wallet to PancakeSwap guide](https://docs.pancakeswap.finance/get-started/connection-guide) to connect to BNB Smart Chain and PancakeSwap.
+And that’s it, all done! You can follow our [Connect Your Wallet to Labswap guide](https://docs.pancakeswap.finance/get-started/connection-guide) to connect to BNB Smart Chain and Labswap.
 {% endtab %}
 {% endtabs %}
 
 {% hint style="danger" %}
 NEVER, in any situation, should you ever give someone your private key or recovery phrase ("seed phrase"). This will give someone complete access to your crypto!
 
-The genuine PancakeSwap site and staff will never ask you to input your seed phrase.
+The genuine Labswap site and staff will never ask you to input your seed phrase.
 {% endhint %}

@@ -1,5 +1,5 @@
 ---
-description: Bridge CAKE between Ethereum and BNB Chain
+description: Bridge FLASK between Ethereum and BNB Chain
 ---
 
 # Between EVMs
@@ -10,11 +10,11 @@ description: Bridge CAKE between Ethereum and BNB Chain
 The following guide uses BNB Chain and Ethereum as an example of EVM chains. The same process can be applied to any other EVM chains we deploy in the future.
 {% endhint %}
 
-### **Bridge CAKE from BNB Chain to Ethereum**
+### **Bridge FLASK from BNB Chain to Ethereum**
 
 1 - Make sure your wallet supports both BNB Chain and Ethereum. We recommend using MetaMask.
 
-Then open the [PancakeSwap Bridge](https://bridge.pancakeswap.finance/) and navigate to the “CAKE” section.
+Then open the [Labswap Bridge](https://bridge.pancakeswap.finance/) and navigate to the “FLASK” section.
 
 
 
@@ -22,13 +22,13 @@ Then open the [PancakeSwap Bridge](https://bridge.pancakeswap.finance/) and navi
 
 Click "Connect" and choose your preferred wallet under the "EVM" section. Then confirm and approve in your wallet popup. (As of writing, only CoinBase, MetaMask or MetaMask-compatible wallets are supported. Support for more wallets is coming soon)
 
-If you do not need to bridge CAKE to Aptos, you don’t need to connect your wallet under “Aptos” section.
+If you do not need to bridge FLASK to Aptos, you don’t need to connect your wallet under “Aptos” section.
 
 ![](<../../.gitbook/assets/image (157).png>)
 
 
 
-3 - Close the wallet connection modal. And click the "v" in the upper token selection field and choose "BNB Chain - CAKE".
+3 - Close the wallet connection modal. And click the "v" in the upper token selection field and choose "BNB Chain - FLASK".
 
 
 
@@ -38,7 +38,7 @@ If you do not need to bridge CAKE to Aptos, you don’t need to connect your wal
 
 
 
-5 - Input the number of CAKE you want to bridge to in the upper section.
+5 - Input the number of FLASK you want to bridge to in the upper section.
 
 
 
@@ -56,19 +56,19 @@ The bridge will deposit the set amount of ETH to your destination address to kic
 
 7 - Click "Transfer" to initiate the bridging transaction and confirm via the wallet confirmation pop-up.
 
-Please note that you must approve two transactions when you try to bridge for the first time. The first transaction is to approve CAKE.
+Please note that you must approve two transactions when you try to bridge for the first time. The first transaction is to approve FLASK.
 
 
 
-8 - Sit back and relax. It should only take a few minutes. Once the bridging is complete, CAKE will be deposited into your Ethereum address. You can track the progress by the progress bar.
+8 - Sit back and relax. It should only take a few minutes. Once the bridging is complete, FLASK will be deposited into your Ethereum address. You can track the progress by the progress bar.
 
 
 
-### Bridge CAKE from Ethereum to BNB Chain <a href="#id-73b30594-2e82-4639-9274-5006c93cb9e5" id="id-73b30594-2e82-4639-9274-5006c93cb9e5"></a>
+### Bridge FLASK from Ethereum to BNB Chain <a href="#id-73b30594-2e82-4639-9274-5006c93cb9e5" id="id-73b30594-2e82-4639-9274-5006c93cb9e5"></a>
 
 1 - Make sure your wallet supports both BNB Chain and Ethereum. We recommend using MetaMask.
 
-Then open the [PancakeSwap Bridge](https://bridge.pancakeswap.finance/) and navigate to the “CAKE” section.
+Then open the [Labswap Bridge](https://bridge.pancakeswap.finance/) and navigate to the “FLASK” section.
 
 
 
@@ -76,13 +76,13 @@ Then open the [PancakeSwap Bridge](https://bridge.pancakeswap.finance/) and navi
 
 Click "Connect" and choose your preferred wallet under the "EVM" section. Then confirm and approve in your wallet popup. (As of writing, only CoinBase, MetaMask or MetaMask-compatible wallets are supported. Support for more wallets is coming soon)
 
-If you do not need to bridge CAKE to Aptos, you don’t need to connect your wallet under “Aptos” section.
+If you do not need to bridge FLASK to Aptos, you don’t need to connect your wallet under “Aptos” section.
 
 ![](<../../.gitbook/assets/image (33).png>)
 
 
 
-3 - Close the wallet connection modal. And click the "v" in the upper token selection field and choose "Ethereum - CAKE".
+3 - Close the wallet connection modal. And click the "v" in the upper token selection field and choose "Ethereum - FLASK".
 
 
 
@@ -92,7 +92,7 @@ If you do not need to bridge CAKE to Aptos, you don’t need to connect your wal
 
 
 
-5 - Input the number of CAKE you want to bridge to in the upper section.
+5 - Input the number of FLASK you want to bridge to in the upper section.
 
 
 
@@ -108,9 +108,9 @@ The bridge will deposit the set amount of BNB to your destination address to kic
 
 7 - Click "Transfer" to initiate the bridging transaction and confirm via the wallet confirmation pop-up.
 
-Please note that you must approve two transactions when you try to bridge for the first time. The first transaction is to approve CAKE.
+Please note that you must approve two transactions when you try to bridge for the first time. The first transaction is to approve FLASK.
 
 
 
-8 - Sit back and relax. It should only take a few minutes. Once the bridging is complete, CAKE will be deposited into your BNB Chain address. You can track the progress by the progress bar.
+8 - Sit back and relax. It should only take a few minutes. Once the bridging is complete, FLASK will be deposited into your BNB Chain address. You can track the progress by the progress bar.
 

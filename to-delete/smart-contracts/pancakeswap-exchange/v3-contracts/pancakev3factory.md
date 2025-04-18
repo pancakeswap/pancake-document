@@ -1,6 +1,6 @@
 ---
 description: >-
-  Deploys PancakeSwap V3 pools and manages ownership and control over pool
+  Deploys Labswap V3 pools and manages ownership and control over pool
   protocol fees
 ---
 
@@ -18,7 +18,7 @@ description: >-
 
 ### PancakeV3Factory
 
-Deploys PancakeSwap V3 pools and manages ownership and control over pool protocol fees
+Deploys Labswap V3 pools and manages ownership and control over pool protocol fees
 
 #### owner
 

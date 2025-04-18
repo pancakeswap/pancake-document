@@ -23,7 +23,7 @@
 
 ### Nice to have:
 
-* Familiarity with fintech apps, PancakeSwap products, or experience in the crypto/Web3 space.
+* Familiarity with fintech apps, Labswap products, or experience in the crypto/Web3 space.
 * Previous experience working in distributed teams.
 
 ### **How to apply**

@@ -1,6 +1,6 @@
-# PancakeSwap Auto Slippage
+# Labswap Auto Slippage
 
-PancakeSwap has introduced Auto Slippage to make trading easier and more efficient. Auto Slippage automatically adjusts the slippage for you based on current market conditions, helping to prevent failed trades and reduce the risk of losing money due to slippage errors.
+Labswap has introduced Auto Slippage to make trading easier and more efficient. Auto Slippage automatically adjusts the slippage for you based on current market conditions, helping to prevent failed trades and reduce the risk of losing money due to slippage errors.
 
 ## What is Slippage?
 
@@ -13,7 +13,7 @@ PancakeSwap has introduced Auto Slippage to make trading easier and more efficie
 {% hint style="info" %}
 Example:
 
-You try to swap 100 CAKE for BNB, expecting 1 CAKE = 0.01 BNB. But by the time your trade goes through, the price has changed and you only get 0.0098 BNB per CAKE. This small difference is what we call slippage.
+You try to swap 100 FLASK for BNB, expecting 1 FLASK = 0.01 BNB. But by the time your trade goes through, the price has changed and you only get 0.0098 BNB per FLASK. This small difference is what we call slippage.
 {% endhint %}
 
 ## What is Slippage Tolerance?

@@ -4,15 +4,15 @@
 
 ### Market Maker Integration on Ethereum
 
-PancakeSwap is integrated with market makers on Ethereum and Binance Smart Chain to help traders execute trades at a lower cost.
+Labswap is integrated with market makers on Ethereum and Binance Smart Chain to help traders execute trades at a lower cost.
 
-In addition to the AMM, trades on PancakeSwap can now be routed to designated white-listed market makers if they offer trade execution that is better than the AMM’s current prices. This routing is done automatically by a [Smart Router](smart-router-v2/) so that trades are only routed to market makers when they are actively quoting better prices. Where the AMM is more competitive, traders will be routed to the AMMs for execution.
+In addition to the AMM, trades on Labswap can now be routed to designated white-listed market makers if they offer trade execution that is better than the AMM’s current prices. This routing is done automatically by a [Smart Router](smart-router-v2/) so that trades are only routed to market makers when they are actively quoting better prices. Where the AMM is more competitive, traders will be routed to the AMMs for execution.
 
-There are 2 scenarios in which market makers operate on PancakeSwap.
+There are 2 scenarios in which market makers operate on Labswap.
 
 **Scenario 1: Existing AMM liquidity pools**
 
-If PancakeSwap already has liquidity for a given token (e.g. WETH/USDC) in the AMM, PancakeSwap will ask market makers for a quote on the same trade. PancakeSwap’s smart router will then route the trade request to the AMM or the market makers depending on which source of liquidity is giving the best price at any given time.
+If Labswap already has liquidity for a given token (e.g. WETH/USDC) in the AMM, Labswap will ask market makers for a quote on the same trade. Labswap’s smart router will then route the trade request to the AMM or the market makers depending on which source of liquidity is giving the best price at any given time.
 
 **Scenario 2: No existing AMM liquidity pools**
 
@@ -22,7 +22,7 @@ In such a scenario, the smart router will automatically route the trade to the m
 
 <figure><img src="https://lh6.googleusercontent.com/FKgYOPK6ykAbonNz4naPupdPg4W5XocmUJOEYeH7MsmY-0TrkSepYB2qir4PGlfgY6CKTS0nOq5XIXzm3dO9wGr-9pvXz1NXLSGMg3Ff9IlqIokcHiNDsB9eaoy3l395TL-O71480hetL-iRq1ILhUw" alt=""><figcaption></figcaption></figure>
 
-PancakeSwap does not charge traders any fees executed through us and which are executed by the market makers. However, PancakeSwap receives **0.05%** **trading fees** from whitelisted market makers for volumes executed by them. PancakeSwap receives a reduced **0.01%** **trading fee** if the trades executed are between stablecoin pairs. Please refer to the fee breakdown below:\
+Labswap does not charge traders any fees executed through us and which are executed by the market makers. However, Labswap receives **0.05%** **trading fees** from whitelisted market makers for volumes executed by them. Labswap receives a reduced **0.01%** **trading fee** if the trades executed are between stablecoin pairs. Please refer to the fee breakdown below:\
 
 
 <table><thead><tr><th width="178">Trades</th><th width="138">Trading Fees</th><th width="182">PCS fee from MM</th><th width="147">Cake Burn</th><th align="center">Pancakeswap Treasury</th></tr></thead><tbody><tr><td>Bridged coins from other networks</td><td>N/A</td><td>0.25%</td><td>0.083%</td><td align="center">0.167%</td></tr><tr><td>Non-stablecoin on Ethereum (e.g. ETH/USDC)</td><td>N/A</td><td>0.05%</td><td>0.017%</td><td align="center">0.033%</td></tr><tr><td>Non-stablecoin on BSC (e.g. BNB/USDT)</td><td>N/A</td><td>0.05%</td><td>0.017% </td><td align="center">0.033%</td></tr><tr><td>Stablecoin to Stablecoin on Ethereum</td><td>N/A</td><td>0.01%</td><td>0.003%</td><td align="center">0.007%</td></tr></tbody></table>
@@ -54,21 +54,21 @@ Market makers are not expected to quote 24-7. There are some instances (e.g. key
 
 **Ans:** Possibly, we are only launching market makers integration on Ethereum and Binance Smart Chain for now to boost the liquidity for a better user experience. We will continue to monitor other chains.
 
-**Q.** How will PancakeSwap generate revenue if it does not charge users a fee?&#x20;
+**Q.** How will Labswap generate revenue if it does not charge users a fee?&#x20;
 
-**Ans:** PancakeSwap will not charge any fees from users, but PancakeSwap will receive a small commission from market makers and use that to fund the CAKE buyback and burn.
+**Ans:** Labswap will not charge any fees from users, but Labswap will receive a small commission from market makers and use that to fund the FLASK buyback and burn.
 
 **Q.** Will Liquidity providers continue to earn LP fees?&#x20;
 
-**Ans:** Yes, liquidity providers will continue to earn 0.17% trading fee reward (LP fees) and yield on the CAKE farms.
+**Ans:** Yes, liquidity providers will continue to earn 0.17% trading fee reward (LP fees) and yield on the FLASK farms.
 
 **Q.** Will the market makers add liquidity to the AMM? Will that cause APR to go down?&#x20;
 
 **Ans:** Market makers maintain their own separate liquidity, and hence won’t be earning any APR from trades on the AMM. Only LPs will earn fees and APRs from providing liquidity to the AMM pools.
 
-**Q.** I’m providing liquidity on Ethereum PancakeSwap. Do I need to do anything?&#x20;
+**Q.** I’m providing liquidity on Ethereum Labswap. Do I need to do anything?&#x20;
 
-**Ans:** No, You don’t have to do anything. You will continue to earn the LP fees for the trades executed through AMM and will continue to make the yield in CAKE.
+**Ans:** No, You don’t have to do anything. You will continue to earn the LP fees for the trades executed through AMM and will continue to make the yield in FLASK.
 
 **Q.** How can someone become a market maker?
 

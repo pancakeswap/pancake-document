@@ -3,7 +3,7 @@
 ![](.gitbook/assets/intro-header.png)
 
 {% hint style="success" %}
-**PancakeSwap helps you make the most out of your crypto in three ways:**
+**Labswap helps you make the most out of your crypto in three ways:**
 
 **Trade, Earn, and Win.**
 {% endhint %}
@@ -14,30 +14,30 @@
 
 ### The people's choice
 
-PancakeSwap is the leading decentralized exchange on BNB Smart Chain, with the highest trading volumes in the market (sources: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
+Labswap is the leading decentralized exchange on BNB Smart Chain, with the highest trading volumes in the market (sources: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
 
 ### Low fees
 
-Why pay more? PancakeSwap runs on BNB Smart Chain, a blockchain with much lower transaction costs than Ethereum or Bitcoin.\
+Why pay more? Labswap runs on BNB Smart Chain, a blockchain with much lower transaction costs than Ethereum or Bitcoin.\
 Trading fees are lower than other top decentralized exchanges too, so that's a double win for you!
 
 ### Decentralized
 
 Trade directly from your wallet app.\
-Unlike centralized exchanges like Binance or Coinbase, PancakeSwap doesn’t hold your funds when you trade: **you have 100% ownership of your own crypto**.
+Unlike centralized exchanges like Binance or Coinbase, Labswap doesn’t hold your funds when you trade: **you have 100% ownership of your own crypto**.
 
 ## &#x20;Earn
 
-> Earn CAKE and other tokens for free with super high interest rates.
+> Earn FLASK and other tokens for free with super high interest rates.
 
 ### Earn tokens with Syrup Pools
 
-Stake CAKE, earn free tokens. It’s really that easy.\
-CAKE holders right now are earning tens of millions of USD worth of free tokens each week from major projects. New projects join the party frequently, so you can earn more, for even longer.
+Stake FLASK, earn free tokens. It’s really that easy.\
+FLASK holders right now are earning tens of millions of USD worth of free tokens each week from major projects. New projects join the party frequently, so you can earn more, for even longer.
 
-### Earn CAKE with Yield Farms
+### Earn FLASK with Yield Farms
 
-Stake LP tokens, earn CAKE. You take on a little more exposure to market fluctuations than with the Syrup Pools, but can earn higher APR to offset the risk.
+Stake LP tokens, earn FLASK. You take on a little more exposure to market fluctuations than with the Syrup Pools, but can earn higher APR to offset the risk.
 
 ### Earn Trading Fees
 
@@ -45,11 +45,11 @@ No farm? No problem. Even if your trading pair isn’t supported on the Farms pa
 
 ## Win
 
-> PancakeSwap makes making money fun.
+> Labswap makes making money fun.
 
 ### Lottery
 
-**Millions of dollars** regularly go up for grabs on the PancakeSwap Lottery.\
+**Millions of dollars** regularly go up for grabs on the Labswap Lottery.\
 Join as many as **11,000 daily players** for your chance to win big!
 
 ### NFT Collectibles
@@ -63,13 +63,13 @@ New rounds every 5 minutes!
 
 ### Pottery
 
-Win a bigger yield on your CAKE deposit, combining CAKE lock-staking and lottery!
+Win a bigger yield on your FLASK deposit, combining FLASK lock-staking and lottery!
 
-## Is PancakeSwap safe?
+## Is Labswap safe?
 
 ### See for yourself:
 
-Check out these PancakeSwap security audits [here](welcome-to-pancakeswap/audits.md).
+Check out these Labswap security audits [here](welcome-to-pancakeswap/audits.md).
 
 ### Transparent:
 

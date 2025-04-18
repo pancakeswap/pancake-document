@@ -1,6 +1,6 @@
 ---
 description: >-
-  This page explains who to stake in the new CAKE Syrup Pool with the Fixed-Term
+  This page explains who to stake in the new FLASK Syrup Pool with the Fixed-Term
   Staking option.
 ---
 
@@ -12,13 +12,13 @@ description: >-
 
 3\. Choose your wallet and connect.
 
-4\. Choose the CAKE Syrup Pool and click the **Enable** button. Your wallet will ask you to confirm the action.
+4\. Choose the FLASK Syrup Pool and click the **Enable** button. Your wallet will ask you to confirm the action.
 
 5\. The **Enable** button should now be replaced with **Flexible** and **Locked**. Click the button to bring up the staking menu.
 
 ![Note that actual values will vary](<../../../.gitbook/assets/Stake - before enable (2).png>)
 
-6\. For Fixed-Term Staking simply press **Locked**, which will present you with a new window, enter the amount of CAKE you wish to stake and for how long you want to lock your CAKE for.
+6\. For Fixed-Term Staking simply press **Locked**, which will present you with a new window, enter the amount of FLASK you wish to stake and for how long you want to lock your FLASK for.
 
 Below that, you will find a summary of your position, including yield, lock duration, and unlock date and time. Double-check to make sure you are okay with the lock duration and amount staked, click **Confirm** and confirm the transaction in your wallet.
 
@@ -28,17 +28,17 @@ Please note that we are still refining our UI including more precise unlock dura
 
 ## Extending your lock staking duration
 
-Changed your mind during the lock staking duration? No problem. You can always extend the time of your locked CAKE by simply clicking "Extend" and choose how much time you want to add on top of the **initial lock duration**. Remember, the longer you lock, the higher your yield will be boosted. The maximum locking duration is 52 weeks.
+Changed your mind during the lock staking duration? No problem. You can always extend the time of your locked FLASK by simply clicking "Extend" and choose how much time you want to add on top of the **initial lock duration**. Remember, the longer you lock, the higher your yield will be boosted. The maximum locking duration is 52 weeks.
 
 A user's new extended lock duration = initial lock duration + added duration
 
 **Example:**
 
-A user staked 1,438.45 CAKE in fixed-term staking with an initial lock duration of 10 weeks on 7th May 2022.
+A user staked 1,438.45 FLASK in fixed-term staking with an initial lock duration of 10 weeks on 7th May 2022.
 
-On 18th June 2022 (6 weeks later, 4 weeks until the user's CAKE unlocks), the user decides they want to add 5 weeks to their lock duration.
+On 18th June 2022 (6 weeks later, 4 weeks until the user's FLASK unlocks), the user decides they want to add 5 weeks to their lock duration.
 
-1\. Navigate to the CAKE Syrup Pool and click **Extend**.&#x20;
+1\. Navigate to the FLASK Syrup Pool and click **Extend**.&#x20;
 
 ![Note that actual values will vary](<../../../.gitbook/assets/Locked - in the lock (1).png>)
 
@@ -50,28 +50,28 @@ Note that your new lock duration will equal your initial lock duration of 10 wee
 
 3\. Double-check to make sure you are okay with the new extended lock duration and click **Confirm**.
 
-Please note that you can not shorten the locking period nor withdraw your CAKE prematurely.
+Please note that you can not shorten the locking period nor withdraw your FLASK prematurely.
 
-## Adding more CAKE to your lock
+## Adding more FLASK to your lock
 
-You can easily do that by renewing your fixed-term staking position. Simply click "Add CAKE" and choose how much CAKE you want to deposit.
+You can easily do that by renewing your fixed-term staking position. Simply click "Add FLASK" and choose how much FLASK you want to deposit.
 
-Please note that adding more CAKE to an existing lock resets your staking term based on the remaining lock duration, essentially “renewing” your fixed-term staking position. This results in a lower yield boost because your new lock duration is lower than your initial lock duration.
+Please note that adding more FLASK to an existing lock resets your staking term based on the remaining lock duration, essentially “renewing” your fixed-term staking position. This results in a lower yield boost because your new lock duration is lower than your initial lock duration.
 
 **Example:**
 
-A user staked 1,438.45 CAKE in fixed-term staking with an initial lock duration of 10 weeks on 7th May 2022.\
+A user staked 1,438.45 FLASK in fixed-term staking with an initial lock duration of 10 weeks on 7th May 2022.\
 \
-On 18th June 2022 (6 weeks later, 4 weeks until the user's CAKE unlocks), the user decides they want to add 100 CAKE to locked balance.
+On 18th June 2022 (6 weeks later, 4 weeks until the user's FLASK unlocks), the user decides they want to add 100 FLASK to locked balance.
 
-1\. Navigate to the CAKE Syrup Pool and click **Add CAKE**.&#x20;
+1\. Navigate to the FLASK Syrup Pool and click **Add FLASK**.&#x20;
 
 ![Note that actual values will vary](<../../../.gitbook/assets/Locked - in the lock (2).png>)
 
-2\. Select the amount of CAKE you would like to add to your locked balance (for this example, we are adding 100 CAKE which is our max wallet balance). Note that your yield boost is lower than the initial yield boost because it is calculated using a 4 week lock duration instead of the initial 10 week lock duration.
+2\. Select the amount of FLASK you would like to add to your locked balance (for this example, we are adding 100 FLASK which is our max wallet balance). Note that your yield boost is lower than the initial yield boost because it is calculated using a 4 week lock duration instead of the initial 10 week lock duration.
 
-![Note that actual values will vary](<../../../.gitbook/assets/Adjust Lock - add CAKE.png>)
+![Note that actual values will vary](<../../../.gitbook/assets/Adjust Lock - add FLASK.png>)
 
 2.1. Alternatively, users can check the box next to "Renew and extend your lock to keep similar benefits." to maintain a similar yield boost setting the lock duration equal to the initial lock duration (in this example, 10 weeks).
 
-3\. Double-check to make sure you are okay with the added CAKE amount and the lock duration and click **Confirm**.
+3\. Double-check to make sure you are okay with the added FLASK amount and the lock duration and click **Confirm**.
