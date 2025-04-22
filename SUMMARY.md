@@ -258,8 +258,7 @@
 
 ## Protocol
 
-* [🍰 CAKE Tokenomics](protocol/cake-tokenomics/README.md)
-  * [Controlling CAKE supply](protocol/cake-tokenomics/controlling-cake-supply.md)
+* [🍰 CAKE Tokenomics](protocol/cake-tokenomics.md)
 * [📔 Governance](protocol/voting/README.md)
   * [How to Vote](protocol/voting/voting-guide/README.md)
     * [How to Vote with SafePal Wallet](protocol/voting/voting-guide/how-to-vote-with-safepal-wallet.md)

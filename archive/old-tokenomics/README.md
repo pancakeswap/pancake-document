@@ -25,12 +25,12 @@ But that's not all -- there's much more on the horizon for CAKE!
 
 Check below to discover the nuts and bolts of how CAKE works.
 
-{% content-ref url="../../protocol/cake-tokenomics/" %}
-[cake-tokenomics](../../protocol/cake-tokenomics/)
+{% content-ref url="../../protocol/cake-tokenomics.md" %}
+[cake-tokenomics.md](../../protocol/cake-tokenomics.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../protocol/cake-tokenomics/controlling-cake-supply.md" %}
-[controlling-cake-supply.md](../../protocol/cake-tokenomics/controlling-cake-supply.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ### \*\*\*\*
