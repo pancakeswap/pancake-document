@@ -58,7 +58,7 @@ PancakeSwap 的彩票系统不仅是赚取成堆的 CAKE 的好方法，而且�
 {% tab title="手动选择彩票号码" %}
 **手动选择彩票号码**
 
-1**.**在 [PancakeSwap 彩票页面](https://pancakeswap.finance/lottery) 上，单击页面顶部的**购买彩票**按钮（页面上下方还有一个购彩按钮）。
+&#x31;**.**&#x5728; [PancakeSwap 彩票页面](https://pancakeswap.finance/lottery) 上，单击页面顶部的**购买彩票**按钮（页面上下方还有一个购彩按钮）。
 
 <figure><img src="../../.gitbook/assets/购彩.png" alt=""><figcaption></figcaption></figure>
 

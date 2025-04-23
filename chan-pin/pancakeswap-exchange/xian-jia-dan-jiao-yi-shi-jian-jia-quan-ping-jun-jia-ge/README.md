@@ -3,7 +3,7 @@
 ![](<../../../.gitbook/assets/image (110).png>)
 
 {% hint style="info" %}
-**原限价单（v2）已弃用，将不再进行维护。**请再度确认您正在使用的为新版限价单网址：[https://pancakeswap.finance/swap/limit](https://pancakeswap.finance/swap/limit)。新版限价单将可用于 PancakeSwap 所有流动性类型。\
+**原限价单（v2）已弃用，将不再进行维护。**&#x8BF7;再度确认您正在使用的为新版限价单网址：[https://pancakeswap.finance/swap/limit](https://pancakeswap.finance/swap/limit)。新版限价单将可用于 PancakeSwap 所有流动性类型。\
 **Limit Order (V2) has been deprecated and no longer in maintenance.** Please ensure you are using the latest limit order feature that supports all PancakeSwap liquidity type: [https://pancakeswap.finance/swap/limit](https://pancakeswap.finance/swap/limit)
 {% endhint %}
 

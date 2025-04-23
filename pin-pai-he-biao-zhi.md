@@ -6,7 +6,7 @@ description: 关于品牌和标志的指导方针及可下载的资产，包含P
 
 ![](<.gitbook/assets/Frame 6.png>)
 
-[跳转到LOGO下载](https://app.gitbook.com/s/-MHREX7DHcljbY5IkjgJ-1972196547/ecosystem-and-partnerships/brand#pancakeswap-logo-downloads)
+[跳转到LOGO下载](https://app.gitbook.com/s/-MHREX7DHcljbY5IkjgJ-1972196547/welcome-to-pancakeswap/about-us/brand#pancakeswap-logo-downloads)
 
 ### 介绍
 

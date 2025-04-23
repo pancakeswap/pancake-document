@@ -1,6 +1,6 @@
 # 创建钱包
 
-![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbGTDNZ6xd3\_Q-qSEP5%2F-MbJqNikjouS9bDl1rUt%2Fdocs%20masthead%20\(9\).png?alt=media\&token=a86affdf-4276-4963-8f05-661aec80064a)
+![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbGTDNZ6xd3_Q-qSEP5%2F-MbJqNikjouS9bDl1rUt%2Fdocs%20masthead%20\(9\).png?alt=media\&token=a86affdf-4276-4963-8f05-661aec80064a)
 
 
 
@@ -79,7 +79,7 @@ MetaMask 是一个基于浏览器的热门钱包插件，支持 ERC20（以太�
 {% tab title="Coinbase Wallet" %}
 
 
-![](../.gitbook/assets/coinbase\_wallet\_wordmark\_blue.png)
+![](../.gitbook/assets/coinbase_wallet_wordmark_blue.png)
 
 数百万用户选择 Coinbase 钱包通过 DeFi 赚取收益，交换超过 5,500 种资产，并持有他们的 NFT 收藏。Coinbase 钱包支持 BEP2 和 BEP20（币安链和 BNB 智能链网络）。&#x20;
 
@@ -100,7 +100,7 @@ MetaMask 是一个基于浏览器的热门钱包插件，支持 ERC20（以太�
 
 
 
-Coinbase 钱包是一个自托管钱包（_self-custody wallet）_软件，提供的服务受 Coinbase 钱包[服务条款](https://wallet.coinbase.com/terms-of-service)和[隐私政策](https://wallet.coinbase.com/privacy-policy)约束。 Coinbase Wallet 与 Coinbase.com 不同（详见此[网页](https://help.coinbase.com/en/wallet/getting-started/what-s-the-difference-between-coinbase-com-and-wallet)），Coinbase Wallet 的私钥由用户直接存储，不透投过Coinbase服务提供商。此软件可能收费。您不需要拥有 Coinbase.com 帐户即可使用 Coinbase 钱包。
+Coinbase 钱包是一个自托管钱包（_self-custody wallet）_&#x8F6F;件，提供的服务受 Coinbase 钱包[服务条款](https://wallet.coinbase.com/terms-of-service)和[隐私政策](https://wallet.coinbase.com/privacy-policy)约束。 Coinbase Wallet 与 Coinbase.com 不同（详见此[网页](https://help.coinbase.com/en/wallet/getting-started/what-s-the-difference-between-coinbase-com-and-wallet)），Coinbase Wallet 的私钥由用户直接存储，不透投过Coinbase服务提供商。此软件可能收费。您不需要拥有 Coinbase.com 帐户即可使用 Coinbase 钱包。
 {% endtab %}
 
 {% tab title="SafePal" %}
@@ -181,13 +181,13 @@ Token Pocket 是一个原生支持多个网络（加密货币链）的虚拟货�
 2. 页面将自动检测您的设备，点击 **Google Play** 或 **App Store** 前往相应的商店下载。苹果用户建议使用 TestFlight 下载 TokenPocket Pro ，请遵循页面指示。
 3.  安装 Token Pocket 后打开，您将会看到一个询问您是否已有钱包的选项。若您想导入现有的钱包，请选择「我有钱包」。点击「我没有钱包」创建一个新的钱包：
 
-    ![](<../.gitbook/assets/mbp3-2021.08.16-103912am-cleanshot\_cleanshot (1).png>)
+    ![](<../.gitbook/assets/mbp3-2021.08.16-103912am-cleanshot_cleanshot (1).png>)
 4.  在下一个页面，在列表内选择「**币安智能链**」。
 
     ![](<../.gitbook/assets/image (73).png>)
 5.  接下来，选择顶部的「**创建钱包**」继续。
 
-    ![](../.gitbook/assets/MBP3-2021.08.16-104543AM-CleanShot\_CleanShot.png)
+    ![](../.gitbook/assets/MBP3-2021.08.16-104543AM-CleanShot_CleanShot.png)
 6. 您需要设置一个保护您账号的密码。为了您的安全，请确保密码强度为「安全」。同时您可以添加一个密码提示，但请确保任何人无法用提示轻易地猜出密码。设置完后，点击「**创建钱包**」继续。
 7. 接着，钱包会提醒您备份助记词。请注意！助记词就是您的「银行卡卡号 + 密码」，任何人掌握了助记词，就可以操作您在区块链上该钱包内的**一切资产**！请务必使用多种方法妥善保管，不要透露给任何人。PancakeSwap 的社区管理员不会向您询问任何私钥或助记词。
 
@@ -206,10 +206,10 @@ Token Pocket 允许您使用电脑端或其他设备同时管理一个钱包，�
 
 1.  在底部点击「**我的**」，并选择「**钱包管理**」。
 
-    ![](../.gitbook/assets/MBP3-2021.08.16-105958AM-CleanShot\_CleanShot.png)
+    ![](../.gitbook/assets/MBP3-2021.08.16-105958AM-CleanShot_CleanShot.png)
 2.  在下一页的左侧点击「**币安智能链**」，并找到您想导出私钥的钱包，点击向右箭头。
 
-    ![](../.gitbook/assets/MBP3-2021.08.16-110225AM-CleanShot\_CleanShot.png)
+    ![](../.gitbook/assets/MBP3-2021.08.16-110225AM-CleanShot_CleanShot.png)
 3. 当菜单出现时，选择「**导出私钥**」，输入密码即可获得并复制您的钱包私钥。
 
 {% hint style="danger" %}
@@ -289,7 +289,7 @@ Binance Wallet （币安钱包）是一个浏览器插件钱包，原生支持 B
 {% endtab %}
 
 {% tab title="Coinbase  Wallet" %}
-![](../.gitbook/assets/coinbase\_wallet\_wordmark\_blue.png)
+![](../.gitbook/assets/coinbase_wallet_wordmark_blue.png)
 
 数百万用户选择 Coinbase 钱包通过 DeFi 赚取收益，交换超过 5,500 种资产，并持有他们的 NFT 收藏。 Coinbase 钱包支持 ERC20（以太坊网络）和 BEP2 & BEP20（币安链和 BNB 智能链网络）。&#x20;
 

@@ -10,7 +10,7 @@ description: Pancake Mayer的常见问题说明
 
 \
 快速链接\
-**《 Pancake Mayer》公告博客：**[https://blog.pancakeswap.finance/articles/pancakeswap-welcomes-pancake-mayor-to-our-gaming-marketplace](https://blog.pancakeswap.finance/articles/pancakeswap-welcomes-pancake-mayor-to-our-gaming-marketplace)
+&#xNAN;**《 Pancake Mayer》公告博客：**[https://blog.pancakeswap.finance/articles/pancakeswap-welcomes-pancake-mayor-to-our-gaming-marketplace](https://blog.pancakeswap.finance/articles/pancakeswap-welcomes-pancake-mayor-to-our-gaming-marketplace)
 
 《 **Pancake Mayer**》游戏：\
 [https://pancakeswap.games/project/binary-x\
@@ -24,13 +24,13 @@ description: Pancake Mayer的常见问题说明
 
 **Q. 如何获得市长钞票？**
 
-市长钞票**（**Mayor Cash）用于各种游戏活动，包括升级城市和参加游戏内的特殊活动和挑战。通过游戏进行获得市长钞票，其中包括玩转转盘小游戏、参加特殊活动、锦标赛和其他游戏内活动。玩家还可以用 CAKE 购买市长钞票。
+市长钞&#x7968;**（**&#x4D;ayor Cash）用于各种游戏活动，包括升级城市和参加游戏内的特殊活动和挑战。通过游戏进行获得市长钞票，其中包括玩转转盘小游戏、参加特殊活动、锦标赛和其他游戏内活动。玩家还可以用 CAKE 购买市长钞票。
 
 
 
 **Q: 如何在游戏中使用 CAKE？**
 
-在**《 Pancake Mayer》**中，玩家可以用 CAKE 购买市长钞票，即游戏内货币。玩家还可以使用 CAKE 购买额外的能量或游戏内物品。作为回报，当您在游戏中获胜时，CAKE 也是多种加密货币奖励之一。
+&#x5728;**《 Pancake Mayer》**&#x4E2D;，玩家可以用 CAKE 购买市长钞票，即游戏内货币。玩家还可以使用 CAKE 购买额外的能量或游戏内物品。作为回报，当您在游戏中获胜时，CAKE 也是多种加密货币奖励之一。
 
 
 
@@ -85,7 +85,7 @@ description: Pancake Mayer的常见问题说明
 
 
 
-**Q. 《 Pancake Mayer》**的代币经济模型是什么样的？
+**Q. 《 Pancake Mayer》**&#x7684;代币经济模型是什么样的？
 
 在《 Pancake Mayer》中花费的所有 CAKE 将按以下方式分配：\
 

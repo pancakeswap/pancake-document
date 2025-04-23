@@ -22,6 +22,8 @@
         * [农场列表](code/v2-qian-yi/masterchef-v2/nong-chang-lie-biao.md)
       * [CAKE 糖浆池](code/v2-qian-yi/cake-tang-jiang-chi.md)
   * [审计报告](shen-ji-bao-gao.md)
+  * [veCAKE 退场计划](master/vecake-tui-chang-ji-hua/README.md)
+    * [质押 CAKE 赎回](master/vecake-tui-chang-ji-hua/zhi-ya-cake-shu-hui.md)
   * [路线图](roadmap.md)
   * [需要帮助？点我](click-here-for-help/README.md)
     * [故障排除指南](click-here-for-help/troubleshooting-errors.md)

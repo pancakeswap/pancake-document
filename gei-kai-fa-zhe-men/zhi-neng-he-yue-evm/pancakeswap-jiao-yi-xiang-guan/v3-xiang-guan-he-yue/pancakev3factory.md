@@ -16,7 +16,7 @@ Deploys PancakeSwap V3 pools and manages ownership and control over pool protoco
 
 **owner**
 
-address ownerReturns the current owner of the factory_Can be changed by the current owner via setOwner_**Return Values**
+address ownerReturns the current owner of the factor&#x79;_&#x43;an be changed by the current owner via setOwner_**Return Values**
 
 **poolDeployer**
 
@@ -24,15 +24,15 @@ address poolDeployerReturns the current pool deployer
 
 **feeAmountTickSpacing**
 
-mapping(uint24 => int24) feeAmountTickSpacingReturns the tick spacing for a given fee amount, if enabled, or 0 if not enabled_A fee amount can never be removed, so this value should be hard coded or cached in the calling context_**ParametersReturn Values**
+mapping(uint24 => int24) feeAmountTickSpacingReturns the tick spacing for a given fee amount, if enabled, or 0 if not enable&#x64;_&#x41; fee amount can never be removed, so this value should be hard coded or cached in the calling context_**ParametersReturn Values**
 
 **getPool**
 
-mapping(address => mapping(address => mapping(uint24 => address))) getPoolReturns the pool address for a given pair of tokens and a fee, or address 0 if it does not exist_tokenA and tokenB may be passed in either token0/token1 or token1/token0 order_**ParametersReturn Values**
+mapping(address => mapping(address => mapping(uint24 => address))) getPoolReturns the pool address for a given pair of tokens and a fee, or address 0 if it does not exis&#x74;_&#x74;okenA and tokenB may be passed in either token0/token1 or token1/token0 order_**ParametersReturn Values**
 
 **feeAmountTickSpacingExtraInfo**
 
-mapping(uint24 => struct IPancakeV3Factory.TickSpacingExtraInfo) feeAmountTickSpacingExtraInfoReturns the tick spacing extra info_A fee amount can never be removed, so this value should be hard coded or cached in the calling context_**ParametersReturn Values**
+mapping(uint24 => struct IPancakeV3Factory.TickSpacingExtraInfo) feeAmountTickSpacingExtraInfoReturns the tick spacing extra inf&#x6F;_&#x41; fee amount can never be removed, so this value should be hard coded or cached in the calling context_**ParametersReturn Values**
 
 **constructor**
 
@@ -40,7 +40,7 @@ constructor(address \_poolDeployer) public
 
 **createPool**
 
-function createPool(address tokenA, address tokenB, uint24 fee) external returns (address pool)Creates a pool for the given two tokens and fee_tokenA and tokenB may be passed in either order: token0/token1 or token1/token0. tickSpacing is retrieved from the fee. The call will revert if the pool already exists, the fee is invalid, or the token arguments are invalid._**Parameters**
+function createPool(address tokenA, address tokenB, uint24 fee) external returns (address pool)Creates a pool for the given two tokens and fe&#x65;_&#x74;okenA and tokenB may be passed in either order: token0/token1 or token1/token0. tickSpacing is retrieved from the fee. The call will revert if the pool already exists, the fee is invalid, or the token arguments are invalid._**Parameters**
 
 | Name   | Type    | Description                                     |
 | ------ | ------- | ----------------------------------------------- |
@@ -56,7 +56,7 @@ function createPool(address tokenA, address tokenB, uint24 fee) external returns
 
 **setOwner**
 
-function setOwner(address \_owner) externalUpdates the owner of the factory_Must be called by the current owner_**Parameters**
+function setOwner(address \_owner) externalUpdates the owner of the factor&#x79;_&#x4D;ust be called by the current owner_**Parameters**
 
 | Name    | Type    | Description                  |
 | ------- | ------- | ---------------------------- |
@@ -64,7 +64,7 @@ function setOwner(address \_owner) externalUpdates the owner of the factory_Must
 
 **enableFeeAmount**
 
-function enableFeeAmount(uint24 fee, int24 tickSpacing) publicEnables a fee amount with the given tickSpacing_Fee amounts may never be removed once enabled_**Parameters**
+function enableFeeAmount(uint24 fee, int24 tickSpacing) publicEnables a fee amount with the given tickSpacin&#x67;_&#x46;ee amounts may never be removed once enabled_**Parameters**
 
 | Name        | Type   | Description                                                                              |
 | ----------- | ------ | ---------------------------------------------------------------------------------------- |
@@ -73,7 +73,7 @@ function enableFeeAmount(uint24 fee, int24 tickSpacing) publicEnables a fee amou
 
 **setWhiteListAddress**
 
-function setWhiteListAddress(address user, bool verified) publicSet an address into white list_Address can be updated by owner with boolean value false_**Parameters**
+function setWhiteListAddress(address user, bool verified) publicSet an address into white lis&#x74;_&#x41;ddress can be updated by owner with boolean value false_**Parameters**
 
 | Name     | Type    | Description                               |
 | -------- | ------- | ----------------------------------------- |
@@ -82,7 +82,7 @@ function setWhiteListAddress(address user, bool verified) publicSet an address i
 
 **setFeeAmountExtraInfo**
 
-function setFeeAmountExtraInfo(uint24 fee, bool whitelistRequested, bool enabled) publicSet a fee amount extra info_Fee amounts can be updated by owner with extra info_**Parameters**
+function setFeeAmountExtraInfo(uint24 fee, bool whitelistRequested, bool enabled) publicSet a fee amount extra inf&#x6F;_&#x46;ee amounts can be updated by owner with extra info_**Parameters**
 
 | Name               | Type   | Description                                      |
 | ------------------ | ------ | ------------------------------------------------ |

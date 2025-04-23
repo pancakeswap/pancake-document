@@ -69,19 +69,11 @@ description: 常见错误信息。 使用侧边栏快速查找您的错误代码
 
 其中一个可能的情况是，当您的滑点容限设置太低时，价格更新太快导致。
 
-<div align="left">
-
-<img src="https://lh5.googleusercontent.com/T1KMtz2ILDVHljGw1iLbIv0W1KVl7qXL8zU2nLFHkUvDb5oMw9mpUzzBwWmIBz15XDsxZ5w7wsaqAwCs_pxdobz_kY_7BhcZhYtpqWuQGFs23DZq98-SVInlfsS07WzxFPLIYXHt" alt="">
-
-</div>
+<div align="left"><img src="https://lh5.googleusercontent.com/T1KMtz2ILDVHljGw1iLbIv0W1KVl7qXL8zU2nLFHkUvDb5oMw9mpUzzBwWmIBz15XDsxZ5w7wsaqAwCs_pxdobz_kY_7BhcZhYtpqWuQGFs23DZq98-SVInlfsS07WzxFPLIYXHt" alt=""></div>
 
 
 
-<div align="left">
-
-<img src="https://lh5.googleusercontent.com/7aspaCCvDjzxbJxngqwgeq737LB3OUNcAs592QqlEkyrAOTfKsrt_FAwpEylaIJhff5ZcYlzB_r0v1JZwfj3j8Ah6jlUbRoMrAqVfTb3cwDI7B1i5HJtZSQOsTPrv7l7SaclC3BV" alt="">
-
-</div>
+<div align="left"><img src="https://lh5.googleusercontent.com/7aspaCCvDjzxbJxngqwgeq737LB3OUNcAs592QqlEkyrAOTfKsrt_FAwpEylaIJhff5ZcYlzB_r0v1JZwfj3j8Ah6jlUbRoMrAqVfTb3cwDI7B1i5HJtZSQOsTPrv7l7SaclC3BV" alt=""></div>
 {% endtab %}
 
 {% tab title="给学霸的解决方法" %}
@@ -94,9 +86,9 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 浏览您要授权的LP代币合约地址。 \
 以下示范例子是ETH/WBNB对：[https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422](https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422)
 
-1. 选择 “**Write Contract”** (写入合约)**，**然后点击 “**Connect to Web3”** (连接至Web3)以连接您的钱包。\
+1. 选择 “**Write Contract”** (写入合约)**，**&#x7136;后点击 “**Connect to Web3”** (连接至Web3)以连接您的钱包。\
    <img src="https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME" alt="" data-size="original">
-2. 在第一项**"1. approve"**，通过输入以下内容批准Router合约提取您的LP代币。输入完毕后点击 **Write** 按钮。
+2. 在第一&#x9879;**"1. approve"**，通过输入以下内容批准Router合约提取您的LP代币。输入完毕后点击 **Write** 按钮。
    1. spender (address): 输入Router合约地址
    2. value (uint256): -1
 
@@ -266,7 +258,7 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 
 发生此错误的原因是您已经出售或转账了您的 SYRUP 代币。 当您在 CAKE-CAKE 糖浆池中质押您的 CAKE 时，SYRUP 会根据 CAKE 的数量，以 “1:1” 的比例被铸造出来。在调用 leavesStaking （即解除 CAKE 质押）函数时，合约会销毁与 CAKE 数量同等的 SYRUP 代币数量。因此，如果您没有足够的 SYRUP 代币，您将不能成功解除质押。
 
-![](https://lh4.googleusercontent.com/KchAcnM6cpX2BotEGppAxPAnY4Xbona6yI6ZWg9FlUUBfPi\_YO9ulM1s6htXJVXMzEwl0Uxcvdk8o4yhI7ar5g0TRpLVFjkS4YLKL7FS8Z4uFqeC37sw-TIkrPr7BCZQVpuD-5jO)
+![](https://lh4.googleusercontent.com/KchAcnM6cpX2BotEGppAxPAnY4Xbona6yI6ZWg9FlUUBfPi_YO9ulM1s6htXJVXMzEwl0Uxcvdk8o4yhI7ar5g0TRpLVFjkS4YLKL7FS8Z4uFqeC37sw-TIkrPr7BCZQVpuD-5jO)
 {% endtab %}
 {% endtabs %}
 
@@ -280,15 +272,11 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 
 {% tabs %}
 {% tab title="解决方法" %}
-在点击交易确认前，手动调高 **Gas 限制（**注意！不是 Gas 价格！）
+在点击交易确认前，手动调高 **Gas 限制（**&#x6CE8;意！不是 Gas 价格！）
 
 一般而言，限制设为 200000 就足够了。
 
-<div align="left">
-
-<img src="../.gitbook/assets/image (104).png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/image (104).png" alt=""></div>
 
 以上的例子取自 Metamask 截图。 如果不确定如何设置 Gas 限制，请查看您钱包的文档。
 {% endtab %}
@@ -335,8 +323,8 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 
 1. 查找您要解除质押的糖浆池的合约地址。您可以在各糖浆池详情中找到他们的 BscScan 页面。
 2. 点击进入，或浏览 [https://bscscan.com/](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract) 然后在搜索栏中输入糖浆池的合约地址。
-3. 选择 **“Write Contract”（**写入合约）。
-4. 点击 **"Connect to Web3"（**连接 Web3）以便连接您的钱包。<img src="https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME" alt="" data-size="original">
+3. 选择 **“Write Contract”（**&#x5199;入合约）。
+4. 点击 **"Connect to Web3"（**&#x8FDE;接 Web3）以便连接您的钱包。<img src="https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME" alt="" data-size="original">
 5. 在第4项：**“4. emergencyWithdraw”**，点击 **Write** 按钮。
 
 虽然紧急提取允许您成功解除质押，但这也会导致您失去任何尚未收割的奖励代币。

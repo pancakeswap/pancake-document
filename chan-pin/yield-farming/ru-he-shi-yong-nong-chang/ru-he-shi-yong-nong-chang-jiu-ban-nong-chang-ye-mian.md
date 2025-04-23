@@ -18,11 +18,7 @@ description: 在PancakeSwap上使用农场非常简单！
 
 ### 做好准备工作
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/image (70).png" alt="" width="347"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (70).png" alt="" width="347"><figcaption></figcaption></figure></div>
 
 你将需要一个流动性仓位用以质押进农场。农场只能质押来自对应的代币对的流动性仓位，并要选择确切的手续费级别；例如，CAKE-BNB 0.25%农场只接受 0.25% 手续费级别的 CAKE-BNB 流动性仓位质押。它不接受：&#x20;
 
@@ -33,11 +29,7 @@ description: 在PancakeSwap上使用农场非常简单！
 
 ### 找到想要质押的农场
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure></div>
 
 首先，你要选择一个想要参与的农场。访问[农场页面](https://pancakeswap.finance/farms)，查看可参与的农场列表。&#x20;
 
@@ -51,19 +43,11 @@ description: 在PancakeSwap上使用农场非常简单！
 
 1 - 如果你没有任何可用的流动性仓位，你会看到一个 "添加流动性" 的按钮，只需点击它就可以打开 "添加加流动性" 窗口，不需要离开农场页面。
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/流动性添加.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/流动性添加.png" alt=""><figcaption></figcaption></figure></div>
 
 2 - 或者你也可以点击农场下方的详情或者展开按钮，展开更多细节，点击详情部分中的 "添加XXX-YYY LP" 链接来添加流动性。
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/流动性添加2.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/流动性添加2.png" alt=""><figcaption></figcaption></figure></div>
 
 ### 将你的流动性仓位质押到农场
 
@@ -87,11 +71,7 @@ description: 在PancakeSwap上使用农场非常简单！
 
 在 V3 农场中，你可以在同一个农场中质押多个流动性仓位。每个仓位都会获得CAKE，需要单独收割。
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/流动性添加3.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/流动性添加3.png" alt=""><figcaption></figcaption></figure></div>
 
 要想从已质押的仓位收获 CAKE 奖励，只需返回农场页面，找到你想收割的农场和对应仓位进行收割。你还可以使用 "仅限已质押" 的功能键来快速筛选你当前质押的农场。&#x20;
 
@@ -105,11 +85,7 @@ description: 在PancakeSwap上使用农场非常简单！
 
 当已经在一个农场中质押了流动性的情况下，你仍然可以增加或移除流动性，并且不需要先从农场中取消质押。
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/流动性添加3.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/流动性添加3.png" alt=""><figcaption></figcaption></figure></div>
 
 你只需回到农场页面，找到你想调整的农场和对应仓位。你可以使用 "仅限已质押" 的功能键来快速筛选你当前质押的农场。&#x20;
 
@@ -156,13 +132,9 @@ description: 在PancakeSwap上使用农场非常简单！
 现在你已经找到了一个可质押的农场，你将需要组合流动性来获得一些 LP 代币。
 
 1. 转到[农场页面](https://pancakeswap.finance/farms)找到你想要质押的农场。单击你从列表中选择的农场，点击农场右侧箭头 "⌵" 以显示更多详细信息。
-2. 在左侧，你会看到一些超链接。单击**获取（**你**需要的交易对）LP** 链接。
+2. 在左侧，你会看到一些超链接。单击**获取（**&#x4F60;**需要的交易对）LP** 链接。
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/微信截图_20220831161938 (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/微信截图_20220831161938 (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ### 将你的 LP 代币质押到对应的农场
 

@@ -31,4 +31,4 @@ veCAKE 代币在 PancakeSwap 的治理中起着至至关重要的作用，持有
 
 **流动性奖励**： 与 bCAKE 功能类似，在 v3、v2、stableswap 提供流动性时，甚至未来支持仓位管理工具时，此程序可以提高您的 CAKE 奖励： 此程序启动时间在 2023 年 11 月 27 日，从 BNB Chain 的 v3 农场起始 ，随后将陆续支持 BNB Chain v2 和仓位管理工具。
 
-**IFO：**veCAKE 数值为您的 iCAKE 数值来源，用以参与 PancakeSwap 的 IFO。
+**IFO：**&#x76;eCAKE 数值为您的 iCAKE 数值来源，用以参与 PancakeSwap 的 IFO。

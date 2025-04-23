@@ -4,7 +4,7 @@ description: 糖浆池：在 PancakeSwap 上免费赚取代币最简单的方法
 
 # 其他糖浆池
 
-![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbGTDNZ6xd3\_Q-qSEP5%2F-MbJtmHsIGCa8SoViGsq%2Fdocs%20masthead%20\(15\).png?alt=media\&token=c0992701-1038-4bb8-a3c8-9f783d32ed64)
+![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbGTDNZ6xd3_Q-qSEP5%2F-MbJtmHsIGCa8SoViGsq%2Fdocs%20masthead%20\(15\).png?alt=media\&token=c0992701-1038-4bb8-a3c8-9f783d32ed64)
 
 在 [糖浆池](../) 中质押，让你在睡觉时亦可赚取 CAKE 或其他代币！&#x20;
 
@@ -44,7 +44,7 @@ description: 糖浆池：在 PancakeSwap 上免费赚取代币最简单的方法
 
 <figure><img src="../../../.gitbook/assets/6 (1).png" alt=""><figcaption></figcaption></figure>
 
-&#x20; 8.点击**确认，**并在钱包弹出的消息中确认。
+&#x20; 8.点击**确认，**&#x5E76;在钱包弹出的消息中确认。
 
 <figure><img src="../../../.gitbook/assets/微信截图_20220919105012.png" alt=""><figcaption></figcaption></figure>
 
@@ -59,22 +59,14 @@ description: 糖浆池：在 PancakeSwap 上免费赚取代币最简单的方法
 无论是在糖浆池中添加更多的 CAKE ，还是将 CAKE 提取并重新质押至更高利润的糖浆池池中，都非常容易。以下是操作指南：
 
 1. 点击 **-** （减号）来从池中提取 CAKE，点击 **+** （加号）来添加更多的 CAKE：\
-   ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-M\_xca0jVy\_Z\_BxN65jZ%2F-M\_xgGd-l7fCI7jFS2x4%2Fimage.png?alt=media\&token=bf8d9ba2-3266-46fb-8242-45c214aa77d9)\
-   **请注意：**若您质押的是 CAKE 灵活质押糖浆池，在质押操作后的 72 小时内提取，需要收取 0.1% 的手续费。
+   ![](https://gblobscdn.gitbook.com/assets%2F-MHREX7DHcljbY5IkjgJ%2F-M_xca0jVy_Z_BxN65jZ%2F-M_xgGd-l7fCI7jFS2x4%2Fimage.png?alt=media\&token=bf8d9ba2-3266-46fb-8242-45c214aa77d9)\
+   **请注意：**&#x82E5;您质押的是 CAKE 灵活质押糖浆池，在质押操作后的 72 小时内提取，需要收取 0.1% 的手续费。
 2. 页面会弹出一个窗口，若您点击的是 **+** （加号），请在窗口中选择您要添加的 CAKE 数量。若您点击的是 **-** （减号） ，则选择您要提取的 CAKE 数量。
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/+.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/-.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/+.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/-.png" alt=""><figcaption></figcaption></figure></div>
 
 &#x20; 3.点击**确认。**
 
 &#x20; 4.稍等片刻，您可以看到新的质押代币的详情。\
 \
-**请注意：**无论是添加还是提取 CAKE操作，都会自动将待收割收益，收割至您的钱包中。
+**请注意：**&#x65E0;论是添加还是提取 CAKE操作，都会自动将待收割收益，收割至您的钱包中。

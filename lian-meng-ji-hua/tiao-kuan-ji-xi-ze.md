@@ -8,13 +8,13 @@ description: '*更新与 2023 年 9 月 1 日'
 
 1. 被邀请人必须是新用户，而且必须没有与 PancakeSwap 平台进行过交互或签名，也没有使用过PancakeSwap 的任何服务（包括但不限于V2、V3 Swap、永续合约、NFT 及相关服务、IFO 及类似产品）（"PancakeSwap 的服务"）。 一旦新用户/被邀请人通过返佣链接注册，推荐关系就已经建立，您不能改变推荐人。
 2. 根据联盟会员设置分享的佣金比例，被邀请人可能有资格获得以下折扣：\
-   &#x20;(a) 您将有资格获得您在 PancakeSwap V2 和 PancakeSwap V3 上支付的交易费用的折扣佣金，BNB 智能链、以太链、Polygon zkEVM、zkSync Era、Arbitrum One、Linea 和 Base 链上的兑换，前提是联盟会员已设置开启了佣金分享**。**折扣佣金只在有限的时间内生效，更多细节请参考第 16 点。您获得的确切的折扣佣金率取决于通过推荐人分享给你的返佣链接显示中给你的佣金分享比率。如果返佣链接中没有显示给您的折扣佣金率，这代表着您在 PancakeSwap 上的兑换交易将不会得到任何折扣。\
+   &#x20;(a) 您将有资格获得您在 PancakeSwap V2 和 PancakeSwap V3 上支付的交易费用的折扣佣金，BNB 智能链、以太链、Polygon zkEVM、zkSync Era、Arbitrum One、Linea 和 Base 链上的兑换，前提是联盟会员已设置开启了佣金分&#x4EAB;**。**&#x6298;扣佣金只在有限的时间内生效，更多细节请参考第 16 点。您获得的确切的折扣佣金率取决于通过推荐人分享给你的返佣链接显示中给你的佣金分享比率。如果返佣链接中没有显示给您的折扣佣金率，这代表着您在 PancakeSwap 上的兑换交易将不会得到任何折扣。\
    (b) 只有在联盟会员开启了佣金分享的情况下，您才有资格获得您在 StableSwap 交易所支付的交易费用的折扣。该折扣佣金只在有限的时间内生效，详情请参考第 16 点。您获得的确切的折扣佣金率取决于通过推荐人分享给你的返佣链接显示中给你的佣金分享比率。如果返佣链接中没有显示给您的折扣佣金率，这意味着您在 PancakeSwap 上的兑换交易将不会得到任何折扣佣金。折扣佣金只在有限的时间内生效，更多细节请参考第 16 点。\
    2.1 为了获得折扣资格，兑换和稳定币兑换交易中的代币对满足以下条件： \
    (a) 在以下链（[BNB Smart Chain](https://tokenlists.org/token-list?url=https://tokens.pancakeswap.finance/pancakeswap-extended.json), [Arbitrum One](https://tokenlists.org/token-list?url=https://tokens.pancakeswap.finance/pancakeswap-arbitrum-default.json), [Base](https://tokenlists.org/token-list?url=https://tokens.pancakeswap.finance/pancakeswap-base-default.json), [Ethereum](https://tokenlists.org/token-list?url=https://tokens.pancakeswap.finance/pancakeswap-eth-default.json), [Linea](https://tokenlists.org/token-list?url=https://tokens.pancakeswap.finance/pancakeswap-linea-default.json), [Polygon zkEVM](https://tokenlists.org/token-list?url=https://tokens.pancakeswap.finance/pancakeswap-polygon-zkevm-default.json), [zkSync Era](https://tokenlists.org/token-list?url=https://tokens.pancakeswap.finance/pancakeswap-polygon-zkevm-default.json)）的 PancakeSwap 官方代币列表中；\
    (b)  至少包括 1 种主流代币（即 BNB、BTC、BUSD、ETH、MATIC、ARB、DAI、USDT 和/或 USDC） \
    (c) 滑点（即单次交易中所提出的预期或请求价格、和实际执行后获得的价格，两者之间的差距）小于 10%
-3. 只有在联盟会员启用了佣金分享的情况下，并且您所在的司法管辖区没有禁止您在平台上进行衍生品交易的情况下**，**您才有资格获得 v1 永续合约交易费用的折扣佣金（例如，不包括美国公民和居民）。折扣只在有限的时间内生效，更多细节请参考第 16 点。您获得的确切的折扣佣金率取决于通过推荐人分享给你的返佣链接显示中给你的佣金分享比率。如果返佣链接中没有显示给您的折扣佣金率，这意味着您在 PancakeSwap 上的交易将不会得到任何折扣佣金。\
+3. 只有在联盟会员启用了佣金分享的情况下，并且您所在的司法管辖区没有禁止您在平台上进行衍生品交易的情况&#x4E0B;**，**&#x60A8;才有资格获得 v1 永续合约交易费用的折扣佣金（例如，不包括美国公民和居民）。折扣只在有限的时间内生效，更多细节请参考第 16 点。您获得的确切的折扣佣金率取决于通过推荐人分享给你的返佣链接显示中给你的佣金分享比率。如果返佣链接中没有显示给您的折扣佣金率，这意味着您在 PancakeSwap 上的交易将不会得到任何折扣佣金。\
    (a) 只限于 BNB 链和以太链上的永续合约 v1 交易、 \
    (b) 永续合约 v1（或被邀请人的任何可能产生清算费用的仓位）交易中满足返佣条件的交易费用中不含被邀请人仓位被清算时的清算费用。\
 

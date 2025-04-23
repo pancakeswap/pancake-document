@@ -34,11 +34,7 @@ CAKE 决定 PancakeSwap IFO 公开销售中的最大 CAKE 提交限额。例如�
 
 完成上述步骤后，请返回此处的 [IFO 界面](https://pancakeswap.finance/ifo)，向下滚动到 “如何参与” 部分。
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (1) (10).png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (1) (10).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 您应该看到您的进度当前处于第 3 步，提交 CAKE，如上图所示。 如果由于某种原因您没有进入第 3 步，请返回查看本页上方链接的指南。&#x20;
 
@@ -132,7 +128,7 @@ IFO 开始后，在公开销售页面能够实时看到叠加了 “超募手续
 
 ### 将 CAKE 投入到基础销售中
 
-1. 让我们将一些 CAKE 投入基础销售中。单击 "基础销售" 下的 **投入（Commit）**按钮，会出现一个弹窗。&#x20;
+1. 让我们将一些 CAKE 投入基础销售中。单击 "基础销售" 下的 **投入（Commit）**&#x6309;钮，会出现一个弹窗。&#x20;
 2. 在新弹窗中，输入要投入的 CAKE 数量。\
    请注意，您的最大投入金额受限于基本销售投入限额。在购买新代币时任何投入但未被消耗的 CAKE 都将退还给您，因此您无需担心丢失多余的代币。
 3. 单击 **“确认（confirm）”**  按钮，在您的钱包确认操作。一旦您完成 CAKE 投入，"基础销售" 区域将显示您已投入的金额。\
@@ -143,7 +139,7 @@ IFO 开始后，在公开销售页面能够实时看到叠加了 “超募手续
 
 ### 将 CAKE 投入到公开销售中
 
-1. 让我们先为在钱包里准备一些 CAKE。单击公开销售下方的**投入(Commit)**按钮，将出现一个窗口。
+1. 让我们先为在钱包里准备一些 CAKE。单击公开销售下方的**投入(Commit)**&#x6309;钮，将出现一个窗口。
 2. 在新窗口中，在对应输入框中输入您要投入的 CAKE 数量。 您最大投入 CAKE 数量等同您拥有的 iCAKE 数值。在购买新代币时任何投入但未被消耗的 CAKE 都将退还给您，因此您无需担心丢失任何余剩代币。
 3. 单击 **“确认（confirm）”**  按钮并使用您的钱包确认操作。您的 CAKE 投入完成后，公开销售区域将显示您已投入的金额。
 4. 只要您的投入金额没有达到最大限额，您可以在 IFO 活动期间随时投入更多 CAKE。如果您已达到投入上限，您将在褪色按钮上看到 “达到最大投入限额（Max Committed）”。在 "额外费用（Additional fee）" 旁边，会列出公开销售所收取的参加费。&#x20;
@@ -152,11 +148,7 @@ IFO 开始后，在公开销售页面能够实时看到叠加了 “超募手续
 
 ### 将 CAKE 投入到私有销售中
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (2) (5).png" alt="" width="325"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (2) (5).png" alt="" width="325"><figcaption></figcaption></figure></div>
 
 1. 如果您有资格参与私有销售，私有销售选项卡中的复选框将亮起。 要在私有销售中使用您的 CAKE，请单击私有销售下的投入按钮。 将出现一个窗口。
 2. 在新窗口中，在输入框中选择您要提交的 CAKE 数量。 请记住，您最多只能投入等于私有销售的最大投入限制的 CAKE 数量。并且在购买新代币时任何投入但未被消耗的 CAKE 都将退还给您，因此您无需担心丢失任何未使用的代币。
@@ -178,11 +170,7 @@ IFO 结束后，您将能够收集您的新代币。 您将获得多少代币取
 
 **有代币分期释放机制的 IFO**
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image7.png" alt="" width="321"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image7.png" alt="" width="321"><figcaption></figcaption></figure></div>
 
 &#x20;IFO 销售活动结束后，IFO 页面将出现一个**代币分期释放**区域（Token Vesting）。在此区域您可以找到此代币分期释放的整个时间表以及信息，包括但不仅限于：
 

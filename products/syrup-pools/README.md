@@ -42,4 +42,4 @@
 
 ### 糖浆池智能合约 <a href="#docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86" id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
 
-[CAKE糖浆池](https://app.gitbook.com/s/-MHREX7DHcljbY5IkjgJ-1972196547/developers/smart-contracts/fixed-term-staking-cake-pool)
+[CAKE糖浆池](https://app.gitbook.com/s/-MHREX7DHcljbY5IkjgJ-1972196547/to-delete/smart-contracts/fixed-term-staking-cake-pool)
