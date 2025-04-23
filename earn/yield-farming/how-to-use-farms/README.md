@@ -35,7 +35,7 @@ Head to: [https://pancakeswap.finance/liquidity/pools](https://pancakeswap.finan
 5. Use this dropdown to filter pools by by tokens.
 6. Use this tab to filter pools by DEX type.
 7. Click the arrow button on APR, TVL, or VOLUME 24H to order the pools with the selected metrics.
-8. Sections for bCAKE - farm yield booster. [Learn more](../bcake/)
+8. Sections for bCAKE - farm yield booster. [Learn more](../../../welcome-to-pancakeswap/vecake-sunset/bcake/)
 9. Use this link to go back to the legacy farm page if you head into any issue with the new version.
 
 ## Provide LP

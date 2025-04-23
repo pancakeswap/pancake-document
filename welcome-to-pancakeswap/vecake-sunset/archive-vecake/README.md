@@ -2,9 +2,13 @@
 description: Stake CAKE, Earn CAKE, and much more!
 ---
 
-# 🔷 veCAKE
+# 🔷 \[Archive] veCAKE
 
 <figure><img src="../../../.gitbook/assets/image (339).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="danger" %}
+\[ARCHIVED] veCAKE
+{% endhint %}
 
 veCAKE stands for vote-escrowed CAKE. veCAKE tokens serve a crucial role in PancakeSwap's governance, enabling you to actively participate in [PancakeSwap’s governance proposals](https://pancakeswap.finance/voting) and Gauges Voting system. This allows you to vote on broader governance proposals and influence the allocation of CAKE emissions within liquidity pools.
 
@@ -40,6 +44,6 @@ Learn more about our veCAKE ecosystem partners (veCAKE Managers) here:
 
 For other questions, please check out:
 
-{% content-ref url="../../earn-faq/cake-staking-faq/vecake-faq.md" %}
-[vecake-faq.md](../../earn-faq/cake-staking-faq/vecake-faq.md)
+{% content-ref url="../../../earn/earn-faq/cake-staking-faq/vecake-faq.md" %}
+[vecake-faq.md](../../../earn/earn-faq/cake-staking-faq/vecake-faq.md)
 {% endcontent-ref %}

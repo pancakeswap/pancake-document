@@ -2,6 +2,10 @@
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="warning" %}
+As part of the [Tokenomics 3.0 upgrade](https://pancakeswap.finance/voting/proposal/0x79ef496c9737e48d9677a6e291ff2a549dee6729c9996398e453af8ecbf0ceb3), this main page and its related sub-pages will be updated.
+{% endhint %}
+
 Voting gives a voice to the PancakeSwap community, letting the community have a say in how PancakeSwap develops into the future.
 
 Check out [PancakeSwap's native voting portal](https://pancakeswap.finance/voting) and our [Forum](https://forum.pancakeswap.finance/) page.

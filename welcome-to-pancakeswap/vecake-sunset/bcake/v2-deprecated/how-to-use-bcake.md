@@ -12,7 +12,7 @@ Similar to iCAKE and vCAKE, bCAKE is also a benefit designed for users who lock 
 
 If you haven't locked any CAKE in the CAKE staking pool, click "Go to Pool" and follow the instructions to initiate a fixed-term staking position.
 
-To learn more about how to do fixed-term CAKE staking, read [here](../../../cake-staking/syrup-pool/new-cake-pool/#fixed-term-staking).
+To learn more about how to do fixed-term CAKE staking, read [here](../../../../archive/legacy-products/new-cake-pool/#fixed-term-staking).
 
 ### Enable farm boosters
 

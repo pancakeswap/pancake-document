@@ -1,6 +1,14 @@
-# 🧑⚖ Farm Auctions
+---
+hidden: true
+---
 
-<figure><img src="../.gitbook/assets/Farm Auctions.png" alt=""><figcaption></figcaption></figure>
+# 🧑‍⚖️ \[Archived] Farm Auctions
+
+<figure><img src="../../.gitbook/assets/Farm Auctions.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="danger" %}
+\[Archived] Farm Auctions
+{% endhint %}
 
 ### Introduction
 
@@ -13,7 +21,7 @@
 
 You may refer to this one-pager summary of our Farm Auctions product
 
-{% file src="../.gitbook/assets/Farm Auctions One Pager.pdf" %}
+{% file src="../../.gitbook/assets/Farm Auctions One Pager.pdf" %}
 
 ### Mechanics
 

@@ -13,7 +13,7 @@ description: Entry points and references for legacy products
 * [Liquid Staking](https://pancakeswap.finance/liquid-staking)
 * [Team Leaderboard](https://pancakeswap.finance/teams)
 * [PancakeSwap Mini-Program](pancakeswap-mini-program/)
-* [Options](options-archived/)
+* [Options](archived-options/)
 
 
 

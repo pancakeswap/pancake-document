@@ -1,9 +1,13 @@
-# 💹 Revenue Sharing
+---
+hidden: true
+---
+
+# 💹 \[Archive] Revenue Sharing
 
 <figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
-This product has now been upgraded to veCAKE. To learn more, check out the [doc for veCAKE](../vecake/)
+This product has now been upgraded to veCAKE. To learn more, check out the [doc for veCAKE](../archive-vecake/)
 {% endhint %}
 
 Revenue Sharing Pool (rCAKE) is a new program for fixed-term CAKE stakers to receive part of the protocol revenue weekly.
@@ -18,6 +22,6 @@ Learn more about how rCAKE (revenue shares) are calculated and how to participat
 [how-to-participate.md](how-to-participate.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../earn-faq/cake-staking-faq/revenue-sharing-faq.md" %}
-[revenue-sharing-faq.md](../../earn-faq/cake-staking-faq/revenue-sharing-faq.md)
+{% content-ref url="../../../earn/earn-faq/cake-staking-faq/revenue-sharing-faq.md" %}
+[revenue-sharing-faq.md](../../../earn/earn-faq/cake-staking-faq/revenue-sharing-faq.md)
 {% endcontent-ref %}

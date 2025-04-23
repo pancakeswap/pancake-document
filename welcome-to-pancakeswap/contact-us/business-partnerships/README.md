@@ -38,8 +38,8 @@ Please navigate to the relevant section for you and submit a form / follow the p
 
 4\. We’re hosting regular short-term liquidity mining programs (“Farm Auctions”) on BNB Chain
 
-{% content-ref url="../../../earn/farm-auctions.md" %}
-[farm-auctions.md](../../../earn/farm-auctions.md)
+{% content-ref url="../../../archive/legacy-products/archived-farm-auctions.md" %}
+[archived-farm-auctions.md](../../../archive/legacy-products/archived-farm-auctions.md)
 {% endcontent-ref %}
 
 5\. We’re hosting an NFT Marketplace on BNB Chain. Find out about our listing requirements

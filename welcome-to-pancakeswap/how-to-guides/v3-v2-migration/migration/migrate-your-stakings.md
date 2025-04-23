@@ -62,7 +62,7 @@ For CAKE syrup pool. Please:
 
 
 {% hint style="info" %}
-The locked (fixed-term) staking option will become available a few days after the migration. You will be able to convert your flexible staking position to a locked one. To learn more about the new CAKE syrup pool with fixed-term staking, please check out [this doc](../../../../earn/cake-staking/syrup-pool/new-cake-pool/).
+The locked (fixed-term) staking option will become available a few days after the migration. You will be able to convert your flexible staking position to a locked one. To learn more about the new CAKE syrup pool with fixed-term staking, please check out [this doc](../../../../archive/legacy-products/new-cake-pool/).
 {% endhint %}
 {% endtab %}
 

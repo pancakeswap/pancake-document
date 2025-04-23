@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Revenue Sharing FAQ
 
 <figure><img src="../../../.gitbook/assets/faq-revenuesharing.png" alt=""><figcaption></figcaption></figure>

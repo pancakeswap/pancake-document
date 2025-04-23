@@ -80,4 +80,4 @@ For example, to join the week 1 distribution. You must:
 * Join before 23:59 UTC, 2 August.
 * Have an active fixed-term CAKE staking position which unlocks later than 23:59 UTC, 9 August.
 
-To learn more about how the shares are calculated, check [here](../../earn-faq/cake-staking-faq/revenue-sharing-faq.md).
+To learn more about how the shares are calculated, check [here](../../../earn/earn-faq/cake-staking-faq/revenue-sharing-faq.md).

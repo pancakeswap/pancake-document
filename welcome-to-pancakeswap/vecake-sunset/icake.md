@@ -1,5 +1,6 @@
 ---
 description: veCAKE Staking and IFO Allocations
+hidden: true
 ---
 
 # iCAKE

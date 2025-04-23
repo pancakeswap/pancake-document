@@ -22,7 +22,7 @@ iCAKE determines the maximum CAKE commit limit in the PancakeSwap IFO public sal
 
 To get veCAKE, go to the [CAKE Staking page](https://pancakeswap.finance/cake-staking), and follow the instructions to set up a CAKE staking position.
 
-To learn more about iCAKE and how iCAKE is calculated, check out the doc [here](icake.md).&#x20;
+To learn more about iCAKE and how iCAKE is calculated, check out the doc [here](../../welcome-to-pancakeswap/vecake-sunset/icake.md).&#x20;
 
 ### Get CAKE Tokens
 

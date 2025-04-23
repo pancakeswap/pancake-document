@@ -1,5 +1,6 @@
 ---
 description: Use bCAKE - Farm Booster to boost your PancakeSwap farming positions!
+hidden: true
 ---
 
 # bCAKE

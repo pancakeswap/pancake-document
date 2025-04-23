@@ -1,4 +1,4 @@
-# CAKE Syrup Pool
+# \[Archived] CAKE Syrup Pool
 
 ##
 
@@ -10,7 +10,7 @@ This product has been deprecated. Check out the new veCAKE for CAKE staking.
 
 PancakeSwap now offers one CAKE Syrup Pool with two staking options: flexible staking or fixed-term staking. Note that the Auto CAKE, IFO CAKE, and Manual CAKE pools will be retired upon the launch of the new CAKE Syrup Pool with flexible and fixed-term staking. Keep reading on to learn more!
 
-![\*Note that actual values will vary](<../../../../.gitbook/assets/Stake - before enable (2).png>)
+![\*Note that actual values will vary](<../../../.gitbook/assets/Stake - before enable (2).png>)
 
 ## What’s the difference between “Flexible” and “Fixed-Term” staking?
 
@@ -57,9 +57,9 @@ Stake your CAKE for a fixed amount of time to maximise yields and receive additi
 * CAKE rewards will unlock, along with your staked CAKE, when your lock duration expires
 * Once staked in fixed-term staking, you cannot withdraw until the end of your lock duration.
 * 🎁 Enjoy benefits such as:
-  * 🗳️ Boosted voting power: [vCAKE](../../../../protocol/voting/vecake.md)
-  * 🚜 Boosted farm yields: [bCAKE](../../../yield-farming/bcake/)
-  * 🛍️ IFO public sale entry: [iCAKE](../../../ifo-initial-farm-offering/icake.md)
+  * 🗳️ Boosted voting power: [vCAKE](../../../welcome-to-pancakeswap/vecake-sunset/archive-vecake/vecake.md)
+  * 🚜 Boosted farm yields: [bCAKE](../../../welcome-to-pancakeswap/vecake-sunset/bcake/)
+  * 🛍️ IFO public sale entry: [iCAKE](../../../welcome-to-pancakeswap/vecake-sunset/icake.md)
   * ✨ Priority access or special events
   * and so much more in our ongoing multichain expansion!
 

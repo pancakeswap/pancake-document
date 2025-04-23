@@ -1,4 +1,8 @@
-# FAQ
+---
+hidden: true
+---
+
+# Gauges Voting FAQ
 
 ### I have an active position, why I can not vote? <a href="#cae64522-4729-43a2-8fa8-6bbd2567dcea" id="cae64522-4729-43a2-8fa8-6bbd2567dcea"></a>
 

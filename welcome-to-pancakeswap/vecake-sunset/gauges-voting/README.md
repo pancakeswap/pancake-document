@@ -1,5 +1,6 @@
 ---
 description: Use your veCAKE to vote and decide how CAKE emission is distributed
+hidden: true
 ---
 
 # Gauges Voting

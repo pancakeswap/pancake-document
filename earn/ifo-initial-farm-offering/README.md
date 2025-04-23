@@ -2,6 +2,10 @@
 
 ![](../../.gitbook/assets/ifo-header.png)
 
+{% hint style="warning" %}
+As part of the [Tokenomics 3.0 upgrade](https://pancakeswap.finance/voting/proposal/0x79ef496c9737e48d9677a6e291ff2a549dee6729c9996398e453af8ecbf0ceb3), this main page and its related sub-pages will be updated.
+{% endhint %}
+
 Buy new tokens using CAKE.
 
 The project gets the CAKE, PancakeSwap burns the participation fees CAKE. **You get the tokens.**
@@ -20,7 +24,7 @@ Visit [https://pancakeswap.finance/ifo](https://pancakeswap.finance/ifo) to find
 
 1. [Complete your PancakeSwap profile setup](nft-profile-system/profile-guide.md).
 2. [Buy CAKE](https://exchange.pancakeswap.finance/?_gl=1*1bc8owa*_ga*ODA4ODE5MjM4LjE2MDUxNTI3NTE.*_ga_334KNG3DMQ*MTYwNTQ4OTEwNy4yNi4xLjE2MDU0ODkxMjcuMA..#/swap) tokens
-3. [Lock CAKE in the CAKE syrup pool](../cake-staking/syrup-pool/new-cake-pool/fixed-term-staking.md) to get iCAKE.
+3. [Lock CAKE in the CAKE syrup pool](../../archive/legacy-products/new-cake-pool/fixed-term-staking.md) to get iCAKE.
 
 **During Sale:**
 

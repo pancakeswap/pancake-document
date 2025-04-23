@@ -7,7 +7,7 @@ For more information about veCAKE and gauges from a project's perspective, pleas
 To summarize, there are two ways to incentivize liquidity on PancakeSwap as a project:
 
 1. [Lock CAKE](https://pancakeswap.finance/cake-staking) as veCAKE on BNB Chain, vote for your [desired gauges](https://pancakeswap.finance/gauges-voting)
-2. Bribe on one of our [veCAKE Managers](../../../earn/cake-staking/vecake/vecake-managers.md) to influence others to vote for your [desired gauges](https://pancakeswap.finance/gauges-voting)
+2. Bribe on one of our [veCAKE Managers](../../vecake-sunset/archive-vecake/vecake-managers.md) to influence others to vote for your [desired gauges](https://pancakeswap.finance/gauges-voting)
 
 Both methods will result in your desired gauges / liquidity pairs receiving CAKE incentives via our [Farms](https://pancakeswap.finance/farms). The gauges first need to be whitelisted on PancakeSwap.
 

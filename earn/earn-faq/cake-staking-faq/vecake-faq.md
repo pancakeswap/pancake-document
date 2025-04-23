@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # veCAKE FAQ
 
 <figure><img src="../../../.gitbook/assets/image (352).png" alt=""><figcaption></figcaption></figure>
@@ -86,16 +90,16 @@ You can only migrate your entire CAKE pool position at once.
 
 IFO iCAKE has now been upgraded to support veCAKE. Check out:
 
-{% content-ref url="../../ifo-initial-farm-offering/icake.md" %}
-[icake.md](../../ifo-initial-farm-offering/icake.md)
+{% content-ref url="../../../welcome-to-pancakeswap/vecake-sunset/icake.md" %}
+[icake.md](../../../welcome-to-pancakeswap/vecake-sunset/icake.md)
 {% endcontent-ref %}
 
 **For bCAKE:**
 
 Farm boosting bCAKE has now been upgraded to support veCAKE. Check out:
 
-{% content-ref url="../../yield-farming/bcake/" %}
-[bcake](../../yield-farming/bcake/)
+{% content-ref url="../../../welcome-to-pancakeswap/vecake-sunset/bcake/" %}
+[bcake](../../../welcome-to-pancakeswap/vecake-sunset/bcake/)
 {% endcontent-ref %}
 
 **For vCAKE:**
@@ -110,8 +114,8 @@ Voting vCAKE has now been upgraded to support veCAKE. Check out:
 
 All veCAKE holders (either native or migrated) will automatically enrolled in the new revenue sharing pool. Revenue shares are distributed according to the existing schedule. The old revenue sharing pool will be discontinued, users can claim their pending rewards by going to the benefit card. Check out:
 
-{% content-ref url="../../cake-staking/revenue-sharing/" %}
-[revenue-sharing](../../cake-staking/revenue-sharing/)
+{% content-ref url="../../../welcome-to-pancakeswap/vecake-sunset/archive-revenue-sharing/" %}
+[archive-revenue-sharing](../../../welcome-to-pancakeswap/vecake-sunset/archive-revenue-sharing/)
 {% endcontent-ref %}
 
 #### Can multisig wallets be used for interacting with veCAKE?
@@ -146,16 +150,16 @@ Locking CAKE to get veCAKE provides a number of great benefits around the suite 
 
 You can earn all of them concurrently therefore the combined APR will be the sum of all the APRs.
 
-Please note that many other benefits from veCAKE can not be quantified in the format of APRs, such as [Farm Yield Booster bCAKE](../../yield-farming/bcake/), or [IFO iCAKE](../../ifo-initial-farm-offering/icake.md). Be sure to check those out too.
+Please note that many other benefits from veCAKE can not be quantified in the format of APRs, such as [Farm Yield Booster bCAKE](../../../welcome-to-pancakeswap/vecake-sunset/bcake/), or [IFO iCAKE](../../../welcome-to-pancakeswap/vecake-sunset/icake.md). Be sure to check those out too.
 
 #### What is veCAKE Pool APR?
 
 This is the incentive coming from CAKE emissions, with its rate controlled by the veCAKE Pool voting gauge.
 
-To increase the emission to this gauge, check out [Gauge Voting](../../cake-staking/gauges-voting/).
+To increase the emission to this gauge, check out [Gauge Voting](../../../welcome-to-pancakeswap/vecake-sunset/gauges-voting/).
 
 #### What is Revenue Sharing APR?
 
 This is the incentive coming from protocol revenue sharing, coming from swap fees collected in DEX products.
 
-Check out [Revenue Sharing](../../cake-staking/revenue-sharing/) for more info.&#x20;
+Check out [Revenue Sharing](../../../welcome-to-pancakeswap/vecake-sunset/archive-revenue-sharing/) for more info.&#x20;

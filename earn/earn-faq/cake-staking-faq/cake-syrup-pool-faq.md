@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # CAKE Syrup Pool FAQ
 
 ## FAQ
@@ -48,11 +52,11 @@ For example, if you lock your CAKE for 52 weeks, your yield boost will be larger
 
 ### Can I still participate in IFOs if my CAKE is locked in the Fixed-Term Staking pool, or will I need to buy more CAKE?
 
-No, a separate amount of CAKE is needed. However, locked-staking provides entry for IFO public sales. Check out [iCAKE](../../ifo-initial-farm-offering/icake.md).
+No, a separate amount of CAKE is needed. However, locked-staking provides entry for IFO public sales. Check out [iCAKE](../../../welcome-to-pancakeswap/vecake-sunset/icake.md).
 
 ### Can I vote if my CAKE is locked in the Fixed-Term Staking pool?
 
-Yes! Check out [vCAKE](../../../protocol/voting/vecake.md).
+Yes! Check out [vCAKE](../../../welcome-to-pancakeswap/vecake-sunset/archive-vecake/vecake.md).
 
 ### Can I use both the Flexible Staking CAKE pool and the Fixed-Term Staking CAKE pool at the same time?
 
