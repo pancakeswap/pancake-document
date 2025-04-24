@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Frontend Engineer
 
 ### General Information

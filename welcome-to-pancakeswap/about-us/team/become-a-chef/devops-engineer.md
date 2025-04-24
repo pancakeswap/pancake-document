@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # DevOps Engineer
 
 ### General information

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Solidity Engineer
 
 ### **General Information**

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Solidity Engineer (Contract)
 
 ### **General Information**

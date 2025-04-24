@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Product Manager
 
 ### **General Information**
