@@ -1,6 +1,6 @@
-# Limit Orders and Twap
+# 🎯 Limit Orders and Twap
 
-![](../../../.gitbook/assets/limit\_orders\_header.png)
+![](../../.gitbook/assets/limit_orders_header.png)
 
 {% hint style="warning" %}
 **Limit Order (V2) has been deprecated and no longer in maintenance.** Please ensure you are using the latest limit order feature that supports all PancakeSwap liquidity type: [https://pancakeswap.finance/swap/limit](https://pancakeswap.finance/swap/limit)
