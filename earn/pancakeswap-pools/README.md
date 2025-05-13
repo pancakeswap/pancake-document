@@ -52,7 +52,7 @@ Whenever someone trades on PancakeSwap, for each hop (swap) in each Exchange V3 
 | ------------------ | ----- | ----- | ----- | --- |
 | Liquidity Provider | 67%   | 66%   | 68%   | 68% |
 | CAKE Burn          | 15%   | 15%   | 23%   | 23% |
-| Treasury           | 18%   | 19%   | 9%    | 9   |
+| Treasury           | 18%   | 19%   | 9%    | 9%  |
 
 For example, in a 0.25% fee tier pool:
 
