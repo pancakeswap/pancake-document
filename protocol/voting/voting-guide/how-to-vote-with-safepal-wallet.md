@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # How to Vote with SafePal Wallet
 
 ![](../../../.gitbook/assets/how-to-voting-with-safepal-header.png)

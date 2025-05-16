@@ -2,30 +2,77 @@
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="warning" %}
-As part of the [Tokenomics 3.0 upgrade](https://pancakeswap.finance/voting/proposal/0x79ef496c9737e48d9677a6e291ff2a549dee6729c9996398e453af8ecbf0ceb3), this main page and its related sub-pages will be updated.
+{% hint style="info" %}
+As part of the [Tokenomics 3.0 upgrade](https://pancakeswap.finance/voting/proposal/0x79ef496c9737e48d9677a6e291ff2a549dee6729c9996398e453af8ecbf0ceb3), this page has been updated on 15th May 2025
 {% endhint %}
 
 Voting gives a voice to the PancakeSwap community, letting the community have a say in how PancakeSwap develops into the future.
 
 Check out [PancakeSwap's native voting portal](https://pancakeswap.finance/voting) and our [Forum](https://forum.pancakeswap.finance/) page.
 
-veCAKE holders have voting rights in PancakeSwap’s governance system. These are the topics that are within the scope of governance:
+## Voting Mechanics
 
-1. \[Core] High-level CAKE emission adjustments (allocating CAKE to Core Pools and other high-level categories)
-2. \[Core] Protocol adjustments (product changes, fee changes)
-3. \[Core] Use of Ecosystem Growth funds
-4. Regular gauges voting (every 2 weeks)
+🔄 Summary - What Changed (after [Tokenomics 3.0 Update](https://pancakeswap.finance/voting/proposal/0x79ef496c9737e48d9677a6e291ff2a549dee6729c9996398e453af8ecbf0ceb3))
 
-**Core** topics must be voted on by veCAKE holders, but can only be proposed by the PancakeSwap Core Team. The result of a Core proposal will be actioned by the PancakeSwap team.
+<table><thead><tr><th width="200.6015625">Governance Component</th><th width="218.01953125">Before Tokenomics 3.0</th><th width="205.1796875">After Tokenomics 3.0</th><th>Status<select><option value="q1dVFsCri7zA" label="✅ Changed" color="blue"></option><option value="4AGl26rwjYcI" label="🔁 Unchanged" color="blue"></option></select></th></tr></thead><tbody><tr><td>Voting Power</td><td>1 veCAKE = 1 voting power</td><td>1 CAKE = 1 voting power</td><td><span data-option="q1dVFsCri7zA">✅ Changed</span></td></tr><tr><td>Delegation</td><td>Allowed (via veCAKE mechanics)</td><td>Delegation is disabled</td><td><span data-option="q1dVFsCri7zA">✅ Changed</span></td></tr><tr><td>Proposal Submission Rules</td><td>Snapshot 100K veCAKE required</td><td>Snapshot 100K CAKE required</td><td><span data-option="q1dVFsCri7zA">✅ Changed</span></td></tr><tr><td>Core vs Community Proposals</td><td>Defined roles and purposes for each proposal type</td><td>No change</td><td><span data-option="4AGl26rwjYcI">🔁 Unchanged</span></td></tr><tr><td>Voting Period</td><td>Community: Fixed<br>Core: Variable</td><td>No change</td><td><span data-option="4AGl26rwjYcI">🔁 Unchanged</span></td></tr><tr><td>Snapshot Timing</td><td>At proposal posted block</td><td>No change</td><td><span data-option="4AGl26rwjYcI">🔁 Unchanged</span></td></tr><tr><td>Quorum</td><td>No minimum quorum</td><td>No change</td><td><span data-option="4AGl26rwjYcI">🔁 Unchanged</span></td></tr></tbody></table>
 
-**Community** proposals are posted by the PancakeSwap community. These are used to propose ideas and express the community's point of view. The PancakeSwap team will incorporate any good ideas or designs with strong community support into Core proposals. Community members may also utilize our [Forum](https://forum.pancakeswap.finance/) to provide feedback and make suggestions to the protocol.
+### 1. **Voting Power (Changed)**
 
-#### Veto
+* **All CAKE holders have direct voting rights.**
+* **Voting power directly corresponds to the number of CAKE held during snapshot balance**
+  * **1 CAKE = 1 voting power**
+  * Snapshot balance = Same block proposal posted
+* **Delegation is no longer supported.** Every CAKE holder must vote individually.
 
-The PancakeSwap Core Team has veto rights, and can perform corrective actions when it concerns the security or proper functioning of the protocol, without going through a Snapshot poll. In the case of any veto action, the PancakeSwap Core Team will provide an explanation.
+### 2. **Proposal Submission (Unchanged)**
 
-Possible actions include, but are not limited to:
+* **How to Submit a Proposal**
+  * Submit on [https://pancakeswap.finance/voting/proposal/create](https://pancakeswap.finance/voting/proposal/create)
+  * Must include:
+    * Title
+    * Content
+    * Description
+    * On-chain action(s) (if needed)
+    * Voting Duration
+* Types of Proposals
+  1.  Core Proposals
 
-1. Pausing relevant smart contracts while fixing a critical bug in the protocol
-2. Rejecting a gauge that was successfully added if the token(s) in question is deemed unsafe, malicious, and/or detrimental to the PancakeSwap ecosystem
+      * Can only be proposed by the **PancakeSwap Core Team**.
+      * Require a vote by CAKE holders.
+      * If passed, will be implemented by the PancakeSwap team.
+
+      Examples
+
+      1. Protocol adjustments (product changes, fee changes)
+      2. Significant uses of Ecosystem Growth funds not covered by previous proposals
+  2. Community Proposals
+     * **Community** proposals are posted by the PancakeSwap community. These are used to propose ideas and express the community's point of view. These are **non-binding suggestions** from the community.
+     * Anyone with **100,000 CAKE (snapshot balance)** can submit.
+     * The PancakeSwap team may adopt strong proposals into future Core Proposals
+     * Community members may also utilize our [Forum](https://forum.pancakeswap.finance/) to provide feedback and make suggestions to the protocol.
+
+### **3. Voting Duration (Unchanged)**
+
+* All CAKE holders can vote **during the voting window** for each proposal.
+  * Community proposal: Fixed at 3 days
+  * Core Proposal: Variable, set by PancakeSwap
+* Your voting power is determined by a **snapshot of your CAKE balance at the block when the proposal is posted**.
+* **Adding more CAKE after the proposal is posted will not increase your voting power** for that specific vote.
+
+For full details, see the [Voting Guide](https://docs.pancakeswap.finance/protocol/voting/voting-guide).
+
+### **4. Voting Outcome (Unchanged)**
+
+* The outcome is based on **total votes cast** (total CAKE used for voting)
+* **There is currently no minimum quorum required** for a proposal to pass.
+
+## Note: Veto Rights
+
+To protect the protocol, the **PancakeSwap Core Team reserves the right to intervene in critical situations**—such as security threats or issues affecting the stable operation of the platform—**without requiring a community vote or Snapshot poll**.
+
+In any case where a veto action is taken, the Core Team will **publicly share a clear explanation** of the decision.
+
+**Possible veto actions may include:**
+
+1. **Temporarily pausing smart contracts** to fix urgent bugs or vulnerabilities.
+2. **Overriding a successful gauge vote** if the token(s) involved are determined to be unsafe, malicious, or harmful to the PancakeSwap ecosystem.
