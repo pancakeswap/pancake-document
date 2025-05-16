@@ -19,8 +19,9 @@ Check out [PancakeSwap's native voting portal](https://pancakeswap.finance/votin
 ### 1. **Voting Power (Changed)**
 
 * **All CAKE holders have direct voting rights.**
-* **Voting power directly corresponds to the number of CAKE held during snapshot balance**
+* **Voting power directly corresponds to the number of CAKE held in wallet address during snapshot**
   * **1 CAKE = 1 voting power**
+  * **CAKE staked in Syrup Pools does not count** toward your voting power, as it is not part of your wallet balance at the time of the snapshot
   * Snapshot balance = Same block proposal posted
 * **Delegation is no longer supported.** Every CAKE holder must vote individually.
 
