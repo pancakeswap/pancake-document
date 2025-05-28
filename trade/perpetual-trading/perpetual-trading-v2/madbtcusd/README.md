@@ -1,5 +1,6 @@
 ---
 description: Higher Volatility BTC Trading
+hidden: true
 ---
 
 # MADBTCUSD

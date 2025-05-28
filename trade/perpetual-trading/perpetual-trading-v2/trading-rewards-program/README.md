@@ -1,5 +1,6 @@
 ---
 description: ApolloX will launch Trading Rewards Program on V2
+hidden: true
 ---
 
 # Trading Rewards Program

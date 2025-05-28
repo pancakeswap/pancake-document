@@ -8,7 +8,7 @@
 
 ### How It Works
 
-Users are given a selection of 60-second, 5-minute or 10-minute expiration windows with different return-on-investment ratios. Users can choose to long or short an underlying asset.&#x20;
+Users are given a selection of 5-minute, 15-minute, 30-minute and 1-hour expiration windows with different return-on-investment ratios. Users can choose to long or short an underlying asset.&#x20;
 
 At the end of the expiration period, if the underlying asset is in a winning position (price greater than open price for long, price lower than open price for short), users will stand to profit.
 
@@ -17,9 +17,10 @@ Each expiration period has a different return-on-investment (ROI). The longer th
 
 | Expiration Period | Winning ROI (Net of fees)\* | Losing ROI | Fees (on Winning) |
 | ----------------- | --------------------------- | ---------- | ----------------- |
-| 60 seconds        | 75%                         | -100%      | 6% on collateral  |
-| 5 minutes         | 85%                         | -100%      | 6% on collateral  |
-| 10 minutes        | 88%                         | -100%      | 6% on collateral  |
+| 5 minutes         | 50%                         | -100%      | 6% on collateral  |
+| 15 minutes        | 55%                         | -100%      | 6% on collateral  |
+| 30 minutes        | 70%                         | -100%      | 6% on collateral  |
+| 1 hour            | 83%                         | -100%      | 6% on collateral  |
 
 \*Winning ROI may be adjusted occasionally depending on market conditions. Please check this page for any updates
 
