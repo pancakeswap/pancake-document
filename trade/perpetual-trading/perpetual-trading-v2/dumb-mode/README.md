@@ -1,7 +1,5 @@
 # Dumb Mode
 
-<figure><img src="../../../../.gitbook/assets/png-131.png" alt=""><figcaption></figcaption></figure>
-
 ### Overview
 
 [**Dumb Mode**](https://perp.pancakeswap.finance/en/futures/v2/BTCUSD?theme=light\&chain=bsc) on PancakeSwap Perpetuals offers a simplified trading experience, ideal for traders who prefer to trade on the minute-by-minute fluctuations of an underlying asset’s value. Dumb Mode simplifies trading by reducing the noise, allowing users to enter and exit short-term positions easily.
