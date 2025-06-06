@@ -197,8 +197,8 @@
 ## Bridge
 
 * [🌉 Bridging](bridge/bridging/README.md)
-  * [Between EVMs](bridge/bridging/evms.md)
-  * [Between EVM and Aptos](bridge/bridging/aptos.md)
+  * [How to Bridge – Between EVMs](bridge/bridging/evms.md)
+  * [How to Bridge - EVM <> Aptos](bridge/bridging/aptos.md)
   * [Wormhole Bridge Guide](bridge/bridging/wormhole-bridge-guide.md)
 * [❓ Bridging FAQ](bridge/faq/README.md)
   * [Wormhole Bridge FAQ](bridge/faq/wormhole-bridge-faq.md)

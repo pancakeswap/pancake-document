@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Wormhole Bridge FAQ
 
 ### Q: How can i check my transaction? <a href="#i-have-sent-tokens-to-chain---my-tokens-did-not-arrive-in-my-target-wallet-but-have-left-my-origin-w" id="i-have-sent-tokens-to-chain---my-tokens-did-not-arrive-in-my-target-wallet-but-have-left-my-origin-w"></a>

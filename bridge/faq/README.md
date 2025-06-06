@@ -2,74 +2,61 @@
 
 <figure><img src="../../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
 
-**Can I use mobile wallets to bridge CAKE? Can I use wallets other than MetaMask?**
+## Before Bridging
 
-As of writing, PancakeSwap CAKE Bridging only supports Coinbase, MetaMask (and any MetaMask-compatible wallets). More wallet support will be added very soon.
+1.  **Can I use mobile wallets or wallets other than MetaMask to bridge CAKE?**
 
-To avoid copy-and-pasting private keys or seed phrases between your devices. We recommend creating a set of fresh wallets on Desktop wallet extensions for bridging.
+    Currently, PancakeSwap CAKE Bridging supports Coinbase Wallet, MetaMask, and MetaMask-compatible wallets. More wallet support is coming soon.
 
+    _Tip:_ To avoid risky copy-pasting of private keys or seed phrases, we recommend creating new wallets via desktop wallet extensions for bridging.
+2.  **Why is a route or token unavailable?**
 
+    Some routes depend on bridge capacity, token support, or liquidity. Please check back later or try a different provider. Available tokens per chain are shown directly in the Bridge UI.
+3.  **I get an error submitting the bridging transaction.**
 
-**Error while submitting bridging transactions**
+    Try entering the amount manually instead of using the “MAX” button, and remove decimals from the amount if necessary.
+4.  **Why does my bridging quote show “Insufficient X to cover native fee”**
 
-Please try entering the amount manually without clicking the “MAX” button.
+    ![](<../../.gitbook/assets/image (9) (3).png>)
 
-Please try removing the decimal numbers from the amount you want to bridge.
+    Bridging requires gas fees paid in the native token of the source chain, for example:
 
+    * BNB Chain → BNB
+    * Ethereum → ETH
+    * Aptos → APT
 
+    Ensure you have enough native tokens in your source wallet to cover fees to complete the transaction.
+5.  **Why does the button show “X CAKE Exceeded”?**
 
-**The button is showing “not enough native for gas”**
+    There is a daily capacity limit for bridging CAKE between BSC and Aptos to ensure safety. Try a smaller amount or wait and try again later. Limits are dynamically adjusted by Chefs based on demand.
+6.  **Why can’t I find a specific token?**
 
-Please note that to send CAKE to your wallet on the destination chain. The executor needs to spend gas. The gas cost will be charged via the bridging tx in the native token of the source chain:
+    The token may not be supported on your chosen route or may lack liquidity. Try another chain or a different amount.
+7.  **Can I bridge from BNB Chain to Ethereum but to a different address?**
 
-* BNB Chain - BNB
-* Ethereum - ETH
-* Aptos - APT
+    No, for safety reasons, bridging only works between the same address on EVM chains.
+8.  **Why can’t I bridge less than 0.00000001 CAKE?**
 
-Therefore if you do not have enough native tokens in your source chain wallet, you cannot bridge.
+    Aptos tokens, including CAKE on Aptos, have a max of 8 decimal places. Transactions below 0.00000001 will be rejected or rounded down. This applies to Ethereum bridging as well. Any leftover amount remains in your source wallet.
 
-If your destination address is already utilized with a useable balance of the native chain token, you can try turning off the “gas on destination”.
+***
 
+## After Bridging
 
+1.  **Can I cancel a bridge transfer after confirming?**
 
-**Can I bridge from BNB Chain to Ethereum, but to a different address**
+    No, once started, the bridge transaction is handled by the provider and can’t be canceled. To reverse, bridge the assets back via a new transaction.
+2.  **What if my transaction is stuck “pending”?**
 
-No, you can not.
+    Bridging can take up to 30 minutes. Check your transaction status by searching its hash on the respective bridge provider’s explorer:
 
-To avoid user error, we only allow bridging between the same address when bridging between EVMs.
+    * Debridge: [https://app.debridge.finance/orders](https://app.debridge.finance/orders)
+    * LayerZero Scan: [https://layerzeroscan.com/](https://layerzeroscan.com/)
+    * Stargate Explorer: [https://stargate.finance/](https://stargate.finance/)
+    * cBridge: [https://celerscan.com/](https://celerscan.com/)
 
-
-
-**Why the button shows "X CAKE Exceeded"?**
-
-For safety, there is a daily capacity limit of how much CAKE can be bridged between BSC and Aptos. Please try again with a lower amount of CAKE. Or try again at a later time.
-
-Chefs will adjust this limit dynamically based on the demands.
-
-
-
-**What if the transaction is stuck at "pending"?**
-
-Bridging transactions will take up to 30 mins to be processed. Please wait and try searching your tx by entering its hash/id in [LayerZero Scan](https://layerzeroscan.com/).
-
-If the bridging transaction is still showing pending after 60 mins. Please contact our admins via [our social channels/groups](../../welcome-to-pancakeswap/contact-us/social-accounts.md) for [help](../../welcome-to-pancakeswap/contact-us/faq/help.md).
-
-
-
-**I have never received my CAKE**
-
-Bridging transactions will take up to 30 mins to be processed. Please wait and try searching your tx by entering its hash/id in [LayerZero Scan](https://layerzeroscan.com/).
-
-When bridging CAKE to Aptos for the first time, you may need to claim your CAKE manually. Please ensure you have enabled "Gas on destination", or your Aptos address had enough APT for gas. Check out the [guide for detailed steps to bridge to Aptos](../bridging/aptos.md).
-
-When bridging CAKE to BNB Chain or Ethereum, for some wallets, you will need to manually add the CAKE token address to your wallet to check its balance.
-
-If you haven't received your CAKE after 60 mins. Please contact our admins via our [social channels/groups](../../welcome-to-pancakeswap/contact-us/social-accounts.md) for [help](../../welcome-to-pancakeswap/contact-us/faq/help.md).
-
-
-
-**Why I can not bridge less than 0.00000001 CAKE?**
-
-Aptos Coins have a maximum decimal of 8. This applies to the CAKE token on Aptos. Therefore when you are bridging CAKE, txs with an amount less than 0.00000001 will be rejected. Please note that this applies to Ethereum bridging as well.
-
-If you are bridging an amount of CAKE with a decimal that is larger than 8, any amount less than 0.00000001 will be rounded, ignored and not bridged. The remaining amount will be left in your source wallet.
+    If pending after 60 minutes, please contact our admins via [social channels](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/social-accounts).
+3. **I haven’t received my CAKE. What should I do?**
+   * When bridging CAKE to Aptos for the first time, you may need to **manually claim** your CAKE. Ensure your Aptos wallet has enough APT for gas. See [Aptos bridging guide](https://docs.pancakeswap.finance/bridge/bridging/aptos) and [Aptos explanation](https://theaptosbridge.com/faq#registering-claiming-assets).
+   * When bridging to BNB Chain or Ethereum, some wallets require you to manually add CAKE’s token address to view your balance. As an example, follow this [MetaMask guide](https://support.metamask.io/manage-crypto/tokens/how-to-display-tokens-in-metamask/) - other wallets should have similar flows.
+   * If you still don’t see your CAKE after 60 minutes, contact our admins via [social channels](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/social-accounts).

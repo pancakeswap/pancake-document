@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Wormhole Bridge Guide
 
 ### Disclaimer

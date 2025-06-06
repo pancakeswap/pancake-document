@@ -1,116 +1,55 @@
 ---
-description: Bridge CAKE between Ethereum and BNB Chain
+description: Bridge between EVMs like Ethereum and BNB Chain
 ---
 
-# Between EVMs
+# How to Bridge – Between EVMs
 
-<figure><img src="../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-The following guide uses BNB Chain and Ethereum as an example of EVM chains. The same process can be applied to any other EVM chains we deploy in the future.
+{% hint style="success" %}
+**EVMs:** EVM chains are blockchains that use the Ethereum Virtual Machine to run Ethereum-compatible smart contracts and dApps. Examples include Ethereum, BNB Smart Chain, etc.
 {% endhint %}
 
-### **Bridge CAKE from BNB Chain to Ethereum**
+1. Navigate to [https://pancakeswap.finance/bridge](https://pancakeswap.finance/bridge)
+2. Ensure your wallet is connected
 
-1 - Make sure your wallet supports both BNB Chain and Ethereum. We recommend using MetaMask.
+<figure><img src="../../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
-Then open the [PancakeSwap Bridge](https://bridge.pancakeswap.finance/) and navigate to the “CAKE” section.
+3. Select your **source** and **destination** chains via the network selectors
 
+<figure><img src="../../.gitbook/assets/image (2) (3).png" alt="" width="375"><figcaption></figcaption></figure>
 
+4. Input the amount you wish to send and select the token from the dropdown
 
-2 - First, let’s connect your wallet to the bridge.
+* **Tip:** Always double-check the token contract address before sending!
 
-Click "Connect" and choose your preferred wallet under the "EVM" section. Then confirm and approve in your wallet popup. (As of writing, only CoinBase, MetaMask or MetaMask-compatible wallets are supported. Support for more wallets is coming soon)
+<figure><img src="../../.gitbook/assets/image (3) (3).png" alt="" width="374"><figcaption></figcaption></figure>
 
-If you do not need to bridge CAKE to Aptos, you don’t need to connect your wallet under “Aptos” section.
+5. Select the **received token** – In some cases where token symbols are identical (e.g., USDC / USDT), variants will appear for you to choose from
 
-![](<../../.gitbook/assets/image (157).png>)
+* **Tip:** Hover over the token or click on the link to verify the token name and address
 
+<figure><img src="../../.gitbook/assets/image (4) (2).png" alt="" width="375"><figcaption><p>USDC</p></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/image (5) (2).png" alt="" width="375"><figcaption><p>USDC (Wormhole)</p></figcaption></figure>
 
-3 - Close the wallet connection modal. And click the "v" in the upper token selection field and choose "BNB Chain - CAKE".
+6. Review the “You Receive” section to confirm all details are correct
 
+* PancakeSwap selects from multiple bridge providers based on your source and destination chains.
+* Providers differ in fees, processing times, and possible restrictions—these will be clearly shown.
 
+<figure><img src="../../.gitbook/assets/image (385).png" alt=""><figcaption></figcaption></figure>
 
-4 - Click the "v" in the “Network” part of the lower token selection field and choose "Ethereum".
+* Tags help you compare routes:
+  * **Best Return** = highest received amount
+  * **Fastest** = quickest transfer time
 
-![](<../../.gitbook/assets/image (173).png>)
+Use these tags to balance speed and value according to your needs.
 
+{% hint style="warning" %}
+On your **first transaction** with a bridge provider, you’ll be prompted to approve the token transfer (this is a one-time action)
 
+* For your **second transaction**, simply click “Send” and your bridge transfer will begin
+{% endhint %}
 
-5 - Input the number of CAKE you want to bridge to in the upper section.
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
-
-
-6 - **If your Ethereum address is already utilized with an ETH balance, you can turn off the “gas on destination” to save some BNB.**
-
-![](<../../.gitbook/assets/image (141).png>)
-
-Otherwise, if your Ethereum address is never utilized and has no ETH balance, we recommend keeping the "gas on destination" option at its default. Or you can choose an ETH amount you want to receive.
-
-![](<../../.gitbook/assets/image (120).png>)
-
-The bridge will deposit the set amount of ETH to your destination address to kickstart your journey on Ethereum. The corresponding amount in BNB will be charged with the market rate.
-
-
-
-7 - Click "Transfer" to initiate the bridging transaction and confirm via the wallet confirmation pop-up.
-
-Please note that you must approve two transactions when you try to bridge for the first time. The first transaction is to approve CAKE.
-
-
-
-8 - Sit back and relax. It should only take a few minutes. Once the bridging is complete, CAKE will be deposited into your Ethereum address. You can track the progress by the progress bar.
-
-
-
-### Bridge CAKE from Ethereum to BNB Chain <a href="#id-73b30594-2e82-4639-9274-5006c93cb9e5" id="id-73b30594-2e82-4639-9274-5006c93cb9e5"></a>
-
-1 - Make sure your wallet supports both BNB Chain and Ethereum. We recommend using MetaMask.
-
-Then open the [PancakeSwap Bridge](https://bridge.pancakeswap.finance/) and navigate to the “CAKE” section.
-
-
-
-2 - First, let’s connect your wallet to the bridge.
-
-Click "Connect" and choose your preferred wallet under the "EVM" section. Then confirm and approve in your wallet popup. (As of writing, only CoinBase, MetaMask or MetaMask-compatible wallets are supported. Support for more wallets is coming soon)
-
-If you do not need to bridge CAKE to Aptos, you don’t need to connect your wallet under “Aptos” section.
-
-![](<../../.gitbook/assets/image (33).png>)
-
-
-
-3 - Close the wallet connection modal. And click the "v" in the upper token selection field and choose "Ethereum - CAKE".
-
-
-
-4 - Click the "v" in the “Network” part of the lower token selection field and choose "BNB Chain".
-
-![](<../../.gitbook/assets/image (64).png>)
-
-
-
-5 - Input the number of CAKE you want to bridge to in the upper section.
-
-
-
-6 - **If your BNB Chain address is already utilized with a BNB balance, you can turn off the “gas on destination” to save some ETH.**
-
-
-
-Otherwise, if your BNB Chain address is never utilized and has no BNB balance, we recommend keeping the "gas on destination" option at its default. Or you can choose a BNB amount you want to receive.
-
-The bridge will deposit the set amount of BNB to your destination address to kickstart your journey on Ethereum. The corresponding amount in ETH will be charged with the market rate.
-
-
-
-7 - Click "Transfer" to initiate the bridging transaction and confirm via the wallet confirmation pop-up.
-
-Please note that you must approve two transactions when you try to bridge for the first time. The first transaction is to approve CAKE.
-
-
-
-8 - Sit back and relax. It should only take a few minutes. Once the bridging is complete, CAKE will be deposited into your BNB Chain address. You can track the progress by the progress bar.
-
+7. Sit back and relax! Most bridge transfers complete in just a few minutes. Once completed, your tokens will appear in your Ethereum address.

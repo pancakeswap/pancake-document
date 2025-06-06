@@ -1,8 +1,8 @@
 ---
-description: Bridge CAKE between Aptos and EVM chains
+description: Bridge CAKE between EVM chains and Aptos
 ---
 
-# Between EVM and Aptos
+# How to Bridge - EVM <> Aptos
 
 <figure><img src="../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
 
@@ -75,15 +75,17 @@ For more detail please check out [this breakdown](aptos.md#bridging-cake-to-apto
 
 Bridging CAKE to Aptos wallets requires registration and claim transactions. This is done to enhance user security and is unique to Aptos.&#x20;
 
-### If you already have APT (Aptos Coin) in your wallet.
+### **If you already have APT (Aptos Coin) in your wallet:**
 
-In this scenario, you will be prompted to register CAKE on your Aptos wallet if it has not already been registered. You will not be required to submit an additional claim transaction in this scenario.&#x20;
+You’ll be prompted to register CAKE on your Aptos wallet if it’s not registered yet. No additional claim transaction is needed in this case.
 
-### If you do not have APT (Aptos Coin) in your wallet.
+### **If you don’t have APT (Aptos Coin) in your wallet:**
 
-You will only have to claim your CAKE once the transaction is finished. You will receive APT tokens (for gas fees) on the destination wallet to pay for the cost of claiming their assets. This APT is paid for by your source wallet and is transferred through to the destination.
+After the bridge transaction completes, you’ll need to manually claim your CAKE. To cover the gas fees for claiming, APT tokens will be sent to your Aptos wallet from your source wallet.
 
-Remember, these registration and claim requirements only apply when you interact with a token for the first time. Follow-up transfers of the same token will not require these transactions.
+These registration and claim steps only apply the first time you interact with a token on Aptos. Subsequent transfers of the same token won’t require these actions.
+
+Before bridging CAKE to Aptos for the first time, ensure your Aptos address has enough APT for gas fees. For more details, check out Aptos’s explanation here: [https://theaptosbridge.com/faq#registering-claiming-assets](https://theaptosbridge.com/faq#registering-claiming-assets)
 
 ## Bridge CAKE from Aptos to BNB Smart Chain
 
