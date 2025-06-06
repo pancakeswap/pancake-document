@@ -7,8 +7,9 @@ description: Bridge CAKE between Ethereum, BNB Chain, Aptos, and many more
 <figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
-* Bridging to/from EVMs (New site): [https://pancakeswap.finance/bridge](https://pancakeswap.finance/bridge)
-* Bridging to/from Aptos (V1 Bridge): [https://bridge.pancakeswap.finance/](https://bridge.pancakeswap.finance/)
+Bridging to/from EVMs (New site): [https://pancakeswap.finance/bridge](https://pancakeswap.finance/bridge)
+
+Bridging to/from Aptos (V1 Bridge): [https://bridge.pancakeswap.finance/](https://bridge.pancakeswap.finance/)
 {% endhint %}
 
 ## What is bridging in crypto?
@@ -159,13 +160,12 @@ In some cases, it may take longer. For example, outbound transfers from Polygon 
 
 #### Tracking Your Transfer
 
-Once submitted, you can:
+Once submitted, you can view the transaction status through provider-specific explorers:
 
-* Use provider-specific explorers:
-  * [deBridge Explorer](https://app.debridge.finance/orders)
-  * [LayerZero Scan](https://layerzeroscan.com/)
-  * [Stargate Explorer](https://stargate.finance/)
-  * [CelerScan (cBridge)](https://celerscan.com/)
+* [deBridge Explorer](https://app.debridge.finance/orders)
+* [LayerZero Scan](https://layerzeroscan.com/)
+* [Stargate Explorer](https://stargate.finance/)
+* [CelerScan (cBridge)](https://celerscan.com/)
 
 If a transaction is stuck for a long time, check the relevant explorer or reach out to our admins via [social channels](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/social-accounts) for [help](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/faq/help).
 
