@@ -23,7 +23,9 @@ We are seeking an experienced Backend Engineer who is passionate about crypto an
 ### Skills & Qualifications
 
 * 5+ years of experience in backend development.
-* Strong knowledge of modern backend programming languages such as Node.js (must have), Go (nice to have), Java (optional).&#x20;
+* Strong knowledge of modern backend programming languages such as Typescript
+* &#x20;(must have), Rust (nice to have).
+* Experience working with smart contracts and Ethereum-based / Solana-based applications.
 * Experience working with microservices and distributed systems.
 * Deep understanding of blockchain, cryptocurrency, and DeFi concepts.
 * Hands-on experience building APIs and integrating with third-party services.
@@ -33,7 +35,6 @@ We are seeking an experienced Backend Engineer who is passionate about crypto an
 
 ### Good to have
 
-* Experience working with smart contracts and Ethereum-based applications.
 * Knowledge of container orchestration technologies like Kubernetes.
 * Familiarity with database technologies like PostgreSQL, Redis, or similar.
 * Previous experience working in a startup or fast-paced environment.
@@ -43,7 +44,7 @@ We are seeking an experienced Backend Engineer who is passionate about crypto an
 
 * Work on cutting-edge technology in the exciting field of blockchain and DeFi.
 * Join a passionate, knowledgeable, and supportive team.
-* Opportunities for growth and development in the fast-evolving crypto space.
+* Opportunities for growth and development in the fast-evolving crypto space
 
 ### How to apply
 
