@@ -164,6 +164,8 @@
     * [Dynamic Fee Hook](trade/pancakeswap-infinity/hooks/dynamic-fee-hook.md)
   * [Pool Types](trade/pancakeswap-infinity/pool-types.md)
   * [Farms](trade/pancakeswap-infinity/farms.md)
+  * [How-To Guides](trade/pancakeswap-infinity/how-to-guides.md)
+  * [FAQs](trade/pancakeswap-infinity/faqs.md)
 * [🎯 Limit Orders and Twap](trade/limit-orders/README.md)
   * [How to use Limit Orders](trade/limit-orders/how-to-use-limit-orders.md)
   * [How to use TWAP](trade/limit-orders/how-to-use-twap.md)

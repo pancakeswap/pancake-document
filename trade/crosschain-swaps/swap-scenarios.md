@@ -9,14 +9,14 @@ There are 4 scenarios for Crosschain transactions.
 
 **Tokens supported for bridging by Across**
 
-| Chains     | USDC | USDT | WETH | ETH | DAI | BAL | POOL |
-| ---------- | :--: | :--: | :--: | :-: | :-: | :-: | :--: |
-| BNB > ARB  |   ✅  |   ❌  |   ✅  |  ❌  |  ❌  |  ❌  |   ❌  |
-| ARB > BNB  |   ✅  |   ❌  |   ✅  |  ✅  |  ❌  |  ❌  |   ❌  |
-| BNB > BASE |   ✅  |   ✅  |   ✅  |  ❌  |  ❌  |  ❌  |   ❌  |
-| BASE > BNB |   ✅  |   ✅  |   ✅  |  ✅  |  ❌  |  ❌  |   ❌  |
-| ARB > BASE |   ✅  |   ❌  |   ✅  |  ✅  |  ✅  |  ✅  |   ✅  |
-| BASE > ARB |   ✅  |   ❌  |   ✅  |  ✅  |  ✅  |  ✅  |   ✅  |
+| Chains      | USDC | USDT | WETH | ETH | CAKE | DAI | BAL | POOL | WBTC |
+| ----------- | :--: | :--: | :--: | :-: | :--: | :-: | :-: | :--: | :--: |
+| ARB <> BNB  |   ✅  |   ❌  |   ✅  |  ✅  |   ❌  |  ❌  |  ❌  |   ❌  |   ❌  |
+| BASE <> BNB |   ✅  |   ✅  |   ✅  |  ✅  |   ❌  |  ❌  |  ❌  |   ❌  |   ❌  |
+| ARB <> BASE |   ✅  |   ❌  |   ✅  |  ✅  |   ❌  |  ✅  |  ✅  |   ✅  |   ❌  |
+| ETH <> BNB  |   ✅  |   ✅  |   ✅  |  ✅  |   ✅  |   ❌ |   ❌ |   ❌  |   ❌  |
+| ETH <> BASE |   ✅  |   ✅  |   ✅  |  ✅  |   ❌  |  ✅  |  ✅  |   ✅  |   ❌  |
+| ETH <> ARB  |   ✅  |   ❌  |   ✅  |  ✅  |   ❌  |  ✅  |  ✅  |   ✅  |   ✅  |
 
 #### 2️⃣ Swap → Bridge
 

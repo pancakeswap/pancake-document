@@ -2,9 +2,10 @@
 
 Crosschain Swaps allow users to seamlessly swap tokens between chains — all within a single, streamlined transaction.
 
-At launch, we will support Crosschain swaps between:
+Crosschain swaps are supported between:
 
 * BNB Chain
+* Ethereum
 * Arbitrum
 * Base
 
