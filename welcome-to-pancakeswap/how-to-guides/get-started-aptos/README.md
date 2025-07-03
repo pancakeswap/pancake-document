@@ -8,7 +8,8 @@ Using anything new can be a bit of a challenge. Don't worry though, we've create
 
 Follow these guides to get everything set up to use PancakeSwap, or feel free to jump to the guide you need if you've been doing okay but lost your way.
 
-[Create a wallet (SOL)](https://app.gitbook.com/o/-MHRKTpKSfYQBsO7YgOo/s/-MHREX7DHcljbY5IkjgJ-1972196547/~/changes/1315/welcome-to-pancakeswap/how-to-guides/get-started-aptos/create-a-wallet-sol)\
-[Get SOL](https://app.gitbook.com/o/-MHRKTpKSfYQBsO7YgOo/s/-MHREX7DHcljbY5IkjgJ-1972196547/~/changes/1315/welcome-to-pancakeswap/how-to-guides/get-started-aptos/get-sol)
+* [Create a wallet (SOL)](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-aptos/create-a-wallet-sol)
+* [Get SOL](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-aptos/get-sol)
+* [Solana FAQ](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-aptos/solana-faq)
 
 If you can't find what you need, feel free to visit the [PancakeSwap Telegram](../../contact-us/social-accounts.md) and ask for help there!
