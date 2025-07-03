@@ -4,13 +4,13 @@
 
 ### **How do I bridge assets to Aptos and provide liquidity?**
 
-Please check out the guide for how to [Get Aptos Coins](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos-1/aptos-coin-guide.md).
+Please check out the guide for how to [Get Aptos Coins](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos/aptos-coin-guide.md).
 
 ### How do I bridge the earned CAKE back to BNB Smart Chain?
 
-Please check out the [CAKE Bridging Guide](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos-1/cake-bridging-guide.md).
+Please check out the [CAKE Bridging Guide](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos/cake-bridging-guide.md).
 
-If you are trying to bridge other assets, please check out the guide for [Get Aptos Coin](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos-1/aptos-coin-guide.md). You will find various bridging solutions work both ways for many popular assets.
+If you are trying to bridge other assets, please check out the guide for [Get Aptos Coin](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos/aptos-coin-guide.md). You will find various bridging solutions work both ways for many popular assets.
 
 ### **Will there be more pairs?**
 
@@ -32,4 +32,4 @@ CAKE on Aptos is equal to CAKE on BNB Smart Chain and can always be bridged betw
 
 Please note that there is only one CAKE. There are no different versions of CAKE between different chains. And the total supply of CAKE across all blockchains will be capped at 750M, according to our v2 tokenomic litepaper.
 
-To bridge your CAKE to BNB Smart Chain, check out the [CAKE bridging guide](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos-1/cake-bridging-guide.md).
+To bridge your CAKE to BNB Smart Chain, check out the [CAKE bridging guide](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos/cake-bridging-guide.md).

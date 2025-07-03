@@ -102,7 +102,7 @@ You can:
 * Buy SOL on a centralised exchange and transfer it in
 * Or bridge assets to Solana using a cross-chain bridge (coming soon on PancakeSwap)
 
-View here to see how to [Get SOL](https://app.gitbook.com/o/-MHRKTpKSfYQBsO7YgOo/s/-MHREX7DHcljbY5IkjgJ-1972196547/~/changes/1315/welcome-to-pancakeswap/how-to-guides/get-started-aptos/get-sol-tokens)
+View here to see how to [Get SOL](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-sol/get-sol)
 
 ***
 
