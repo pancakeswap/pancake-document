@@ -19,7 +19,7 @@ For more information about our token distribution programs (“[Syrup Pools](htt
 5. Post-Launch
    * We will continue to stay in touch, and work together whenever possible
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (417).png" alt=""><figcaption></figcaption></figure></div>
 
 
 
