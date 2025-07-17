@@ -4,11 +4,11 @@
 
 PancakeSwap (PCS) is the leading multi-chain decentralized exchange (DEX), currently live on:
 
-> BNB Chain, Ethereum, Aptos, zkSync Era, Arbitrum One, Base, Linea, and Polygon zkEVM
+> BNB Chain, Solana, Base, Arbitrum One, Ethereum, ZKsync Era, Linea, opBNB, Polygon zkEVM, and Aptos
 
-We would love to speak with project teams, potentially introducing you to one of crypto’s largest, most engaged, and active DApps (with over 100K Daily Active Users)!
+We would love to speak with project teams, potentially introducing you to one of crypto’s largest, most engaged, and active DApps (with over 400k Daily Active Users)!
 
-Since our start, PancakeSwap has thrived in the Retail DeFi landscape, establishing ourselves as the leading DEX, with multiple industry-leading products – liquidity pools; launchpads; prediction and perpetual products; NFT marketplace; Gaming – and, of course, the best community 😉.
+Since our start, PancakeSwap has thrived in the Retail DeFi landscape, establishing ourselves as the leading DEX, with multiple industry-leading products – liquidity pools; launchpads; prediction and perpetual products;  – and, of course, the best community 😉.
 
 While this page serves as a quick FAQ for Project Teams to find out a bit more about us – please do reach out if you have more queries:
 
@@ -16,36 +16,18 @@ While this page serves as a quick FAQ for Project Teams to find out a bit more a
 
 ### Interested in a partnership? Let’s build together
 
-Please navigate to the relevant section for you and submit a form / follow the process.
+Please navigate to the relevant section for you and follow the process
 
-1\. We're directing CAKE emission to gauges (liquidity pairs, position manager vaults, etc.) on Ethereum, BNB Chain, and Arbitrum
-
-{% content-ref url="vecake-gauges.md" %}
-[vecake-gauges.md](vecake-gauges.md)
-{% endcontent-ref %}
-
-2\. We’re hosting token launchpad offerings (“Initial Farm Offerings, or IFOs”) across all chains we’re deployed on
+1\. We’re hosting token launchpad offerings (“Initial Farm Offerings, or IFOs”) across all chains we’re deployed on except Solana
 
 {% content-ref url="initial-farm-offerings-ifos.md" %}
 [initial-farm-offerings-ifos.md](initial-farm-offerings-ifos.md)
 {% endcontent-ref %}
 
-3\. We’re hosting liquidity mining programs (“Syrup Pools and Farms”) across all chains we’re deployed on
+2\. We’re hosting token distribution programs (“Syrup Pools”) across all chains we’re deployed on except Solana
 
-{% content-ref url="syrup-pools-and-farms.md" %}
-[syrup-pools-and-farms.md](syrup-pools-and-farms.md)
-{% endcontent-ref %}
-
-4\. We’re hosting regular short-term liquidity mining programs (“Farm Auctions”) on BNB Chain
-
-{% content-ref url="../../../archive/legacy-products/archived-farm-auctions.md" %}
-[archived-farm-auctions.md](../../../archive/legacy-products/archived-farm-auctions.md)
-{% endcontent-ref %}
-
-5\. We’re hosting an NFT Marketplace on BNB Chain. Find out about our listing requirements
-
-{% content-ref url="nft-market-applications.md" %}
-[nft-market-applications.md](nft-market-applications.md)
+{% content-ref url="syrup-pools.md" %}
+[syrup-pools.md](syrup-pools.md)
 {% endcontent-ref %}
 
 For commonly asked business partnerships questions
@@ -58,9 +40,9 @@ For commonly asked business partnerships questions
 
 Simple is sexy, and so is safety!&#x20;
 
-With more than $1.5B in TVL, we like to move quickly and do so responsibly. Having more than three years of experience in the crypto markets, from bull to bear, we have been effectively delivering DeFi to our community. Don’t just trust us, please verify (link to audits [here](https://docs.pancakeswap.finance/audits)).&#x20;
+With more than $1.5B in TVL, we like to move quickly and do so responsibly. Having more than four years of experience in the crypto markets, from bull to bear, we have been effectively delivering DeFi to our community. Don’t just trust us, [verify](https://docs.pancakeswap.finance/audits).&#x20;
 
-Our partnerships with projects go beyond just liquidity mining programs (“Syrup Pools and Farms”) and token launch opportunities (“Initial Farm Offerings”). We genuinely recognize the impact of community in crypto – our dedicated team of Ambassadors help us keep a pulse on the diverse communities we serve, and we regularly host events with high engagement with partners: AMAs, meme contests, and many more!
+Our partnerships with projects go beyond just token distribution programs (“Syrup Pools”) and token launch opportunities (“Initial Farm Offerings”). We genuinely recognize the impact of community in crypto – our dedicated team of Ambassadors help us keep a pulse on the diverse communities we serve, and we regularly host events with high engagement with partners: podcasts, AMAs, meme contests, and many more!
 
 We’re keen to work with you. Let’s make DeFi great again.
 

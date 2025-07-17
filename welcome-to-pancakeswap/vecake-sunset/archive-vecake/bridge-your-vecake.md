@@ -10,7 +10,7 @@ To enjoy the benefits of veCAKE such as bCAKE (Farm yield boosting) and iCAKE (I
 
 Go to [CAKE Staking](https://pancakeswap.finance/cake-staking) page and locate the veCAKE Sync card under the veCAKE benefits. Click “View Details” to open the sync modal.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="253"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="253"><figcaption></figcaption></figure>
 
 In the modal. You can view the number of veCAKE you have on BNB Chain. As well as the list of destination chains, you may bridge your veCAKE and Pancake Profile to your veCAKE and Pancake Profile status on each of the chains.
 

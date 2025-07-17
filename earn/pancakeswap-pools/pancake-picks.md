@@ -1,6 +1,6 @@
 # ⛏️ Pancake Picks
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In the fast-moving world of crypto, it can be tough to separate the noise from the trends. Pancake Picks helps by showcasing the top token pairs from trending categories like Memecoins and AI Agents on our [Liquidity Pools](https://pancakeswap.finance/liquidity/pools) page every weekday. By highlighting these tokens based on key market and community data, Pancake Picks makes it easier for users to discover the latest trends.&#x20;
 

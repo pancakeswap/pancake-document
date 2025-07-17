@@ -6,11 +6,11 @@
 
 ### [List a Token](https://docs.pancakeswap.finance/ecosystem-and-partnerships/business-partnerships/commonly-asked-business-partnerships-questions#listing-on-the-exchange)
 
-### [Apply for Yield Farm or Syrup Pool](business-partnerships/syrup-pools-and-farms.md)
+### [Apply for Yield Farm or Syrup Pool](business-partnerships/syrup-pools.md)
 
 ### [Apply for an IFO (Token Sale)](business-partnerships/initial-farm-offerings-ifos.md)
 
-### [Apply for the NFT Market](business-partnerships/nft-market-applications.md)
+### [Apply for the NFT Market](broken-reference)
 
 
 

@@ -22,7 +22,7 @@ For now, Zap only supports:
 
 #### Start <a href="#e43d56cd-978e-4503-8b7a-974428d4142c" id="e43d56cd-978e-4503-8b7a-974428d4142c"></a>
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 To use Zap, simply go to Add V3 Liquidity page, select the trading pair you want to provide liquidity to, fee tier, and the price range.
 
@@ -70,7 +70,7 @@ Finally, click “Add Liquidity” and confirm in your wallet popup.
 
 After the tx is confirmed, you shall see your shiny new position in “My Position” page
 
-<figure><img src="../../../.gitbook/assets/image (3) (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 #### More Settings <a href="#id-217348b6-db9d-4336-9060-d8cbd8171cd9" id="id-217348b6-db9d-4336-9060-d8cbd8171cd9"></a>
 
@@ -89,7 +89,7 @@ Please note that the Slippage and Deadline settings are independent to the Swap 
 
 #### Zap in using duo tokens
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Now you may Zap in your liquidity with duo tokens. This is useful when your available balance is not matching with the price settings, and the required token amount and ratio it is calling for. Simply Zap, and the ratio will be automatically rebalanced.
 

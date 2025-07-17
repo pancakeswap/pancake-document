@@ -4,6 +4,6 @@
 
 For projects that wish to incentivize liquidity via the veCAKE system, please visit here:
 
-{% content-ref url="../../../welcome-to-pancakeswap/contact-us/business-partnerships/vecake-gauges.md" %}
-[vecake-gauges.md](../../../welcome-to-pancakeswap/contact-us/business-partnerships/vecake-gauges.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

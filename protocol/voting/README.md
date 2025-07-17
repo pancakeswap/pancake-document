@@ -76,4 +76,3 @@ In any case where a veto action is taken, the Core Team will **publicly share a 
 **Possible veto actions may include:**
 
 1. **Temporarily pausing smart contracts** to fix urgent bugs or vulnerabilities.
-2. **Overriding a successful gauge vote** if the token(s) involved are determined to be unsafe, malicious, or harmful to the PancakeSwap ecosystem.

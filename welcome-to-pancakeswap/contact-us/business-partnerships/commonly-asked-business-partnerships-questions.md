@@ -4,26 +4,15 @@
 
 We aim to respond to applications within a week, but due to a large number of requests, we’re unable to respond to every single applicant. If you don’t hear back from us within two weeks of applying, try reaching out to[ @PancakeSwapBD](https://t.me/PancakeSwapBD) on Telegram, with the name of your project, your project’s website, and the date you applied.
 
-#### What’s the difference between a Core Farm VS Farm Auction
+#### Can I extend my Syrup Pool?
 
-Projects seeking either a Core Farm or a Farm slot via our Farm Auction will have to clear our internal review process. However, a Core Farm is usually offered to projects who have shown excellent trading volumes on PancakeSwap.
-
-#### What are the qualifying criteria for Community Farm VS Core Farm?
-
-Qualifying criteria for Community Farms and Core Farms/Pools are based on our internal review process. We don’t publish them externally. If you’re not eligible for a Core Farm, we may invite you to apply for a Community Farm instead.
-
-#### Can I extend my Syrup Pool and Farm? Or can I get a larger Farm multiplier?&#x20;
-
-If you’ve already got an ongoing Pool and Farm, you may be able to extend the timeline with additional release of tokens.\
-\
-If you wish to increase the multiplier, the team will consider it if the 30-day volume is increased. Contact us via your existing PancakeSwap communication channels for enquiries.\
-
+If you’ve already got an ongoing Syrup Pool, you can extend the timeline with additional release of tokens. Contact us via your existing PancakeSwap communication channels for enquiries.
 
 ### Listing on the Exchange
 
 #### How can I list my token on the exchange?
 
-Anybody can "list" any BEP-20 network token on PancakeSwap. You don't need to contact us or ask permission. You just need to [add liquidity to a liquidity pool](https://docs.pancakeswap.finance/products/pancakeswap-exchange/pancakeswap-pools) - that's it. Traders can then trade your token by entering your token's contract address.
+Anybody can "list" any ERC-20 / BEP-20 network token on PancakeSwap. You don't need to contact us or ask permission. You just need to [add liquidity to a liquidity pool](https://docs.pancakeswap.finance/products/pancakeswap-exchange/pancakeswap-pools) - that's it. Traders can then trade your token by entering your token's contract address.
 
 #### How can I add my token to the default list?
 
