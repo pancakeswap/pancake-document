@@ -30,6 +30,12 @@ Please navigate to the relevant section for you and follow the process
 [syrup-pools.md](syrup-pools.md)
 {% endcontent-ref %}
 
+3. We can also host a trading contest to further boost on-chain trading volume and strengthen token visibility
+
+{% content-ref url="trading-competitions.md" %}
+[trading-competitions.md](trading-competitions.md)
+{% endcontent-ref %}
+
 For commonly asked business partnerships questions
 
 {% content-ref url="commonly-asked-business-partnerships-questions.md" %}

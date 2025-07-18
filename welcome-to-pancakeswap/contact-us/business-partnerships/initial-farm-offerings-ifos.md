@@ -13,7 +13,7 @@ For more information about our token launchpad offerings (“[Initial Farm Offer
    * Using the information in the form, we would clarify some points
    * For our IFOs, compared to our Syrup Pools/Farms, there is a bit more discussion: we are happy to share our knowledge of best practices with regard to tokenomics, product, Go-To-Market (GTM) Strategy, etc.
    * Team passes due diligence – congrats!
-3. Marketing Prep
+3. Marketing Preparation
    * We will ask for some design assets, and some project info, and create both a lovely banner (Solv example below) and a [forum post](https://forum.pancakeswap.finance/t/solv-ifo-discussion-thread/993)
    * We will also start collating questions for the AMA
    * We will typically run a week-long [marketing campaign](https://x.com/PancakeSwap/status/1879169881742217229) which can include activities like social engagement, meme competitions, airdrops, project-specific quests, etc.

@@ -11,7 +11,7 @@ For more information about our token distribution programs (“[Syrup Pools](htt
 2. Due Diligence
    * Using the information in the form, we would clarify some points
    * The team passes due diligence – congrats!
-3. Marketing Prep
+3. Marketing Preparation
    * We ask for some design assets, some project info, and create a lovely banner (PEAQ example below)
 4. Launch
    * We launch the Syrup Pool, and you welcome thousands of new users to your project :)

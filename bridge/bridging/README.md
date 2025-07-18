@@ -29,17 +29,17 @@ Here are some reasons you may want to bridge:
 
 ## CAKE, a multichain token
 
-With our multichain expansion and deployment on Ethereum and Aptos, CAKE is now a multichain token that is native to BNB Chain, but also available on Ethereum and Aptos.
+With our multichain expansion and deployment, CAKE is now a multichain token that is native to BNB Chain, but also available across Base, Arbitrum, Solana, Ethereum, ZKsync, Linea, opBNB, Aptos, and Polygon zkEVM.
 
-CAKE on Ethereum or Aptos is equal to CAKE on BNB Smart Chain. It can always be bridged between these chains at a 1:1 ratio and without any fee in CAKE.
+CAKE on any of the other chains is equal to CAKE on BNB Smart Chain. It can always be bridged between these chains at a 1:1 ratio and without any fee in CAKE.
 
-**Please note that there is only one CAKE.** There are no different versions of CAKE on different chains. The total supply of CAKE across all blockchains is capped at 750M, as outlined in our v2 tokenomics litepaper.
+**Please note that there is only one CAKE.** There are no different versions of CAKE on different chains. The total supply of CAKE across all blockchains is capped at 450M, as outlined in this [vote proposal](https://pancakeswap.finance/voting/proposal/0x3e014aab40f6551da9f76da0e62e44e9ece55c4997f220057bf3e42dc8307c2f).
 
 ***
 
 ## What is the PancakeSwap Bridge?
 
-The PancakeSwap Bridge is a convenient, in-app tool that allows you to move assets between different blockchains directly through the PancakeSwap interface. Instead of visiting external bridge sites, you can bridge supported tokens between chains like BNB Chain, Ethereum, Arbitrum, and more—all from one place.
+The PancakeSwap Bridge is a convenient, in-app tool that allows you to move assets between different blockchains directly through the PancakeSwap interface. Instead of visiting external bridge sites, you can bridge supported tokens between chains like BNB Chain, Ethereum, Base, Arbitrum, and more—all from one place.
 
 The PancakeSwap Bridge is powered by trusted third-party providers and works as an **aggregator**—selecting the best route based on price, speed, and reliability.
 
@@ -77,11 +77,11 @@ We currently integrate with:
 #### Chains Currently Supported
 
 * BNB Chain
-* Ethereum
-* Arbitrum
 * Base
+* Arbitrum
+* Ethereum
 * opBNB
-* zkSync
+* ZKsync
 * Linea
 * Polygon zkEVM
 * Aptos (V1 site)
