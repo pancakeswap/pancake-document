@@ -10,13 +10,19 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Momo - Product Manager
 
+🐰 Chef Kcal - Product Manager
+
 🐰 Chef Chili - Ops & BD Lead
 
-🐰 Chef Maroon - Business Dev ([Twitter](https://x.com/ChefMaroon))
+🐰 Chef Maroon - Business Development ([Twitter](https://x.com/ChefMaroon))
 
-🐰 Chef Baby - Business Dev
+🐰 Chef Doxie - Business Development ([Twitter](https://x.com/ChefDoxie))
+
+🐰 Chef Nata - Business Development ([Twitter](https://x.com/CryptoNataNata))
 
 🐰 Chef Mustard - Ops ([Twitter](https://twitter.com/chef_mustard))
+
+🐰 Chef ButterBeer - Data
 
 🐰 Chef Jackson - Dev Lead ([Twitter](https://x.com/0xchefjackson))
 
@@ -30,39 +36,39 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Penguin - Frontend Dev
 
-🐰 Chef Huan - Backend Dev Lead
-
-🐰 Chef Cannoli - Backend Dev
-
-🐰 Chef Sanji - Backend Dev
+🐰 Chef Sanji - Backend Dev Lead
 
 🐰 Chef Curry - Backend Dev
 
 🐰 Chef Kulfi - Backend Dev
 
-🐕 Chef Snoopy - Solidity Dev
+🐰 Chef Taco - Backend Dev
 
-🐰 Chef Cupcake - Solidity Dev
+🐰 Chef Lavacake - Backend Dev
 
-🐰 Chef Rabbid - Solidity Dev
+🐰 Chef Mist - Smart Contract Dev Lead
 
-🐰 Chef Omelette - Solidity Dev
+🐕 Chef Snoopy - Smart Contract Dev
 
-🐰 Chef Burger - Solidity Dev
+🐰 Chef Cupcake - Smart Contract Dev
 
-🐰 Chef Mist - Solidity Dev Lead
+🐰 Chef Rabbid - Smart Contract Dev
+
+🐰 Chef Omelette - Smart Contract Dev
+
+🐰 Chef Burger - Smart Contract Dev
 
 🐰 Chef Ruby - QA
 
 🐰 Chef Rei - Security
 
+🐰 Chef Salade - Design Lead
+
 🐰 [Chef Cecy](https://medium.com/pancakeswap/kitchen-interviews-chef-cecy-the-magical-3d-artist-making-fluffy-bunnies-e1eda53742f3) - 3D Artist ([Twitter](https://twitter.com/Cecymeade))
 
-🐰 Chef Salade - UI/UX designer
+🐰 Chef Waffles - Designer
 
-🐰 Chef Leon - Motion Graphic designer
-
-🐰 Chef Honey Bee - Designer
+🐰 Chef Noodles - Brand / Motion Designer
 
 🐰 Chef Cola - HR
 
@@ -72,9 +78,8 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Cocoa - Events and PR Marketing ([Twitter](https://x.com/chef_cocoa_pcs))
 
-🐰 Chef Brie - Social Media Marketing ([Twitter](https://twitter.com/chef_brie))
-
 🐰 [Chef Fran](https://medium.com/pancakeswap/kitchen-interview-chef-fran-spanish-community-manager-and-a-lovely-mate-368c72102093) - Community Manager ([Twitter](https://twitter.com/ChefFranPS))
 
+🐰 Chef Marcus - Social Media Marketing ([Twitter](https://x.com/ChefMarcusPCS))
 
-
+🐰 Chef Popcorn - Marketing ([Twitter](https://x.com/Chef_Popcornn))
