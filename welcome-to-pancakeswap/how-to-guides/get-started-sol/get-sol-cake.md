@@ -1,4 +1,4 @@
-# Get SOL
+# Get SOL / CAKE
 
 ### 1. **Why You Need SOL**
 
@@ -37,9 +37,13 @@ If you're new to crypto or don’t yet have a wallet, buying SOL from a **major 
 
 ***
 
-#### II. **Swap for SOL on PancakeSwap (DEX)**
+#### II. **Swap for SOL / CAKE on PancakeSwap (DEX)**
 
-Already using Solana? If you have tokens like **USDC** or **USDT** on the Solana network, you can swap them directly for SOL using **PancakeSwap**.
+Already using Solana? If you have tokens like **USDC** or **USDT** on the Solana network, you can swap them directly for SOL / CAKE using **PancakeSwap**.
+
+{% hint style="success" %}
+$**CAKE is now live on Solana - Token Address:** `4qQeZ5LwSz6HuupUu8jCtgXyW1mYQcNbFAW1sWZp89HL`
+{% endhint %}
 
 #### ✅ What you do:
 

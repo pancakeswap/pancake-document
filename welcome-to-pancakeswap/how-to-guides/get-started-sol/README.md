@@ -2,6 +2,10 @@
 
 ![](../../../.gitbook/assets/get-started-header.png)
 
+{% hint style="success" %}
+$**CAKE is now live on Solana - Token Address:** `4qQeZ5LwSz6HuupUu8jCtgXyW1mYQcNbFAW1sWZp89HL`
+{% endhint %}
+
 Using anything new can be a bit of a challenge. Don't worry though, we've created a range of guides to help you get comfortable with PancakeSwap!
 
 ## Setting up PancakeSwap
