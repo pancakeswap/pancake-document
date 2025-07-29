@@ -1,4 +1,4 @@
-# Get SOL / CAKE
+# Get SOL / CAKE on SOL
 
 ### 1. **Why You Need SOL**
 
@@ -76,13 +76,16 @@ Already have tokens on a different chain like **BNB Chain**, **Ethereum**, or **
 
 #### ✅ What you do:
 
-1. Visit a bridging site like: [https://www.bnbchain.org/en/bnb-chain-bridge](https://www.bnbchain.org/en/bnb-chain-bridge)
+1. Visit a bridging site like: [https://www.bnbchain.org/en/bnb-chain-bridge](https://www.bnbchain.org/en/bnb-chain-bridge) or [https://stargate.finance/](https://stargate.finance/)
 2. Select your token and the chain you’re sending from.
 3. Choose **Solana** as your destination.
 4. Complete the bridge and receive the bridged token in your Solana wallet.
 5. Swap that token into **SOL** using PancakeSwap.
 
-> 💡 You’ll need SOL to cover gas fees once you're on the Solana side. If you bridged USDC or similar, use PancakeSwap to convert a portion into SOL.
+> 💡 Tips
+>
+> 1. CAKE is now available for direct bridging via Stargate
+> 2. You’ll need SOL to cover gas fees once you're on the Solana side. If you bridged USDC or similar, use PancakeSwap to convert a portion into SOL.
 
 ***
 

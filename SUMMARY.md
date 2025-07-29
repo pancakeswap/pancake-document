@@ -11,7 +11,7 @@
     * [Connect Your Wallet to PancakeSwap](welcome-to-pancakeswap/how-to-guides/get-started/connection-guide.md)
   * [Get Started (SOL)](welcome-to-pancakeswap/how-to-guides/get-started-sol/README.md)
     * [Create a wallet (SOL)](welcome-to-pancakeswap/how-to-guides/get-started-sol/create-a-wallet-sol.md)
-    * [Get SOL / CAKE](welcome-to-pancakeswap/how-to-guides/get-started-sol/get-sol-cake.md)
+    * [Get SOL / CAKE on SOL](welcome-to-pancakeswap/how-to-guides/get-started-sol/get-sol-cake-on-sol.md)
     * [Solana FAQ](welcome-to-pancakeswap/how-to-guides/get-started-sol/solana-faq.md)
   * [Get Started (Aptos)](welcome-to-pancakeswap/how-to-guides/get-started-aptos/README.md)
     * [Create a Wallet](welcome-to-pancakeswap/how-to-guides/get-started-aptos/wallet-guide.md)
