@@ -14,6 +14,7 @@ description: Entry points and references for legacy products
 * [Team Leaderboard](https://pancakeswap.finance/teams)
 * [PancakeSwap Mini-Program](pancakeswap-mini-program/)
 * [Options](archived-options/)
+* [LP History Page](https://pancakeswap.finance/farms/history)
 
 
 
