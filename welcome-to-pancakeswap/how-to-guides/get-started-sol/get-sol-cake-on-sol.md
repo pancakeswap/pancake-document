@@ -57,7 +57,7 @@ $**CAKE is now live on Solana - Token Address:** `4qQeZ5LwSz6HuupUu8jCtgXyW1mYQc
 
 #### III. **Buy SOL Directly From a Wallet App**
 
-Some wallets support **in-app crypto purchases** using Apple Pay, Google Pay, credit card, or other providers like MoonPay.
+Some wallets support **in-app crypto purchases** using Apple Pay, Google Pay, credit card, or other providers like MoonPay.&#x20;
 
 #### ✅ What you do:
 
@@ -70,13 +70,13 @@ This is a user-friendly option for mobile-first users who want to skip setting u
 
 ***
 
-#### IV. **Bridge SOL from Another Blockchain**
+#### IV. **Bridge SOL / CAKE from Another Blockchain**
 
 Already have tokens on a different chain like **BNB Chain**, **Ethereum**, or **Base**? You can bring funds over to Solana using **bridging platforms**.
 
 #### ✅ What you do:
 
-1. Visit a bridging site like: [https://www.bnbchain.org/en/bnb-chain-bridge](https://www.bnbchain.org/en/bnb-chain-bridge) or [https://stargate.finance/](https://stargate.finance/)
+1. Visit Pancakeswap's bridging site [https://pancakeswap.finance/bridge](https://pancakeswap.finance/bridge) or 3rd party bridging sites like: [https://stargate.finance/](https://stargate.finance/)
 2. Select your token and the chain you’re sending from.
 3. Choose **Solana** as your destination.
 4. Complete the bridge and receive the bridged token in your Solana wallet.
