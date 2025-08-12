@@ -84,8 +84,8 @@ Already have tokens on a different chain like **BNB Chain**, **Ethereum**, or **
 
 > 💡 Tips
 >
-> 1. CAKE is now available for direct bridging via Stargate
-> 2. You’ll need SOL to cover gas fees once you're on the Solana side. If you bridged USDC or similar, use PancakeSwap to convert a portion into SOL.
+> 1. CAKE is now available for direct bridging via Stargate, LayerZero and deBridge
+> 2. You’ll need SOL to cover gas fees once you're on Solana. If you bridged USDC or similar, use PancakeSwap to convert a portion into SOL.
 
 ***
 
