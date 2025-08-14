@@ -111,7 +111,7 @@ An individual farm will receive CAKE emissions based on:
 
 `CAKE per block/second = C / B * A`
 
-The above numbers can be found in each of the [MasterChef](../../to-delete/smart-contracts/main-staking-masterchef-contract/) contracts.
+The above numbers can be found in each of the [MasterChef](broken-reference) contracts.
 
 
 

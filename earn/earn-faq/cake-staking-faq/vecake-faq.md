@@ -114,8 +114,8 @@ Voting vCAKE has now been upgraded to support veCAKE. Check out:
 
 All veCAKE holders (either native or migrated) will automatically enrolled in the new revenue sharing pool. Revenue shares are distributed according to the existing schedule. The old revenue sharing pool will be discontinued, users can claim their pending rewards by going to the benefit card. Check out:
 
-{% content-ref url="../../../welcome-to-pancakeswap/vecake-sunset/archive-revenue-sharing/" %}
-[archive-revenue-sharing](../../../welcome-to-pancakeswap/vecake-sunset/archive-revenue-sharing/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 #### Can multisig wallets be used for interacting with veCAKE?
@@ -162,4 +162,4 @@ To increase the emission to this gauge, check out [Gauge Voting](../../../welcom
 
 This is the incentive coming from protocol revenue sharing, coming from swap fees collected in DEX products.
 
-Check out [Revenue Sharing](../../../welcome-to-pancakeswap/vecake-sunset/archive-revenue-sharing/) for more info.&#x20;
+Check out [Revenue Sharing](broken-reference) for more info.&#x20;

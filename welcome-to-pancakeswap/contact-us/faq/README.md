@@ -11,7 +11,7 @@ See for yourself:
 * Check out [these PancakeSwap security audits](../../../#is-pancakeswap-safe)
 * Transparent:
   * We’re built on open-source software: our site and all our Smart Contracts are publicly visible for maximum transparency.
-  * Our contracts are verified on blockchain explorers, so you know that what you see is what you get. Check them out [here](../../../to-delete/smart-contracts/).
+  * Our contracts are verified on blockchain explorers, so you know that what you see is what you get. Check them out [here](broken-reference).
 * Security best practices:
   * The chefs use multisig for all contracts.
   * Our contracts’ time-lock gives you peace of mind.
