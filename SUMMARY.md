@@ -129,6 +129,7 @@
     * [\[Archived\] CAKE Syrup Pool](archive/legacy-products/new-cake-pool/README.md)
       * [How to use the Flexible Staking option](archive/legacy-products/new-cake-pool/flexible-staking.md)
       * [How to use the Fixed-Term Staking option](archive/legacy-products/new-cake-pool/fixed-term-staking.md)
+    * [\[Archived\] Position Manager](archive/legacy-products/archived-position-manager.md)
   * [Old Tokenomics](archive/old-tokenomics/README.md)
     * [CAKE Tokenomics v1](archive/old-tokenomics/cake-tokenomics-v1.md)
     * [Controlling CAKE supply v1](archive/old-tokenomics/cake-tokenomics-v1-controlling-cake-supply.md)

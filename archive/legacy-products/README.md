@@ -15,6 +15,7 @@ description: Entry points and references for legacy products
 * [PancakeSwap Mini-Program](broken-reference)
 * [Options](archived-options/)
 * [LP History Page](https://pancakeswap.finance/farms/history)
+* [Position Manager ](archived-position-manager.md)(21st June 2025)
 
 
 
