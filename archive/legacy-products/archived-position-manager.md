@@ -10,8 +10,6 @@ For more information refer to the official blogpost: [https://blog.pancakeswap.f
 
 ## Position Managers Sunset
 
-### Position Managers Sunset
-
 **Overview**\
 Position Managers on PancakeSwap—**Bril, Defiedge, Teahouse, Range, and Alpaca**—were integrated third-party vault strategies that automatically managed V3 liquidity positions. They helped optimize liquidity placement, rebalance ranges, and reduce the need for manual position management.
 
