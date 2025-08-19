@@ -25,7 +25,7 @@ As part of product streamlining, Position Managers will be retired from the Panc
 
 * No new deposits will be possible via PancakeSwap’s interface.
 * Withdrawals will only be available through [**pancakeswap.finance/position-managers**](https://pancakeswap.finance/position-managers)
-* As position managers may not actively manage your positions, vaults may shift to wide, unmanaged ranges, increasing impermanent loss risk.
+* As position managers may not actively manage your positions, vaults may shift to wide, unmanaged ranges. Please withdraw your positions to prevent any potential rebalancing losses.
 
 **What should you do?**
 
