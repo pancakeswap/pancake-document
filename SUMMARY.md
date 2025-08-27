@@ -76,10 +76,8 @@
     * [Become a Chef](welcome-to-pancakeswap/about-us/team/become-a-chef/README.md)
       * [Brand / Graphics Designer](welcome-to-pancakeswap/about-us/team/become-a-chef/brand-graphics-designer.md)
       * [Motion / Interaction Designer](welcome-to-pancakeswap/about-us/team/become-a-chef/motion-interaction-designer.md)
-      * [Social Media & Content Manager](welcome-to-pancakeswap/about-us/team/become-a-chef/social-media-and-content-manager.md)
       * [Product Manager](welcome-to-pancakeswap/about-us/team/become-a-chef/product-manager.md)
       * [Community Lead](welcome-to-pancakeswap/about-us/team/become-a-chef/community-lead.md)
-      * [Developer Relations Manager](welcome-to-pancakeswap/about-us/team/become-a-chef/developer-relations-manager.md)
       * [Solidity Engineer (Contract)](welcome-to-pancakeswap/about-us/team/become-a-chef/solidity-engineer-contract.md)
       * [Frontend Engineer (Contract)](welcome-to-pancakeswap/about-us/team/become-a-chef/frontend-engineer-contract.md)
       * [Product Designer (UX/I)](welcome-to-pancakeswap/about-us/team/become-a-chef/product-designer-ux-i.md)
@@ -88,6 +86,7 @@
       * [Solidity Engineer](welcome-to-pancakeswap/about-us/team/become-a-chef/solidity-engineer.md)
       * [DevOps Engineer](welcome-to-pancakeswap/about-us/team/become-a-chef/devops-engineer.md)
       * [Senior Backend Engineer](welcome-to-pancakeswap/about-us/team/become-a-chef/senior-backend-engineer.md)
+      * [Product Marketing Manager](welcome-to-pancakeswap/about-us/team/become-a-chef/product-marketing-manager.md)
   * [Brand & Logos](welcome-to-pancakeswap/about-us/brand.md)
 
 ***
