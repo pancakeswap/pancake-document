@@ -44,8 +44,6 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Taco - Backend Dev
 
-🐰 Chef Lavacake - Backend Dev
-
 🐰 Chef Mist - Smart Contract Dev Lead
 
 🐕 Chef Snoopy - Smart Contract Dev
