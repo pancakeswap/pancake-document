@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# Frontend Engineer
+# Senior Frontend Engineer
 
 ### General Information
 
@@ -21,19 +21,26 @@ hidden: true
 
 ### Skills & Qualifications
 
-* 3-5 years of experience in building responsive/adaptive web applications with JavaScript/Typescript.
-* Solid experience in React JS.
-* Ability to write structured and clean code.
-* Experience with Javascript testing tools.
-* Experience with modern front-end build pipelines and tools.
-* Experience with defining and delivering scalable frontend architectures.
-* Some experience with GraphQL.
-* Experience working with Web3 and a decentralized application frontend.
-* Ability to work independently and innovate.
+* Solid experience with TypeScript, React.js, and Node.js.
+* 5+ years of professional experience building responsive/adaptive web applications.
+* Strong ability to write clean, maintainable, and well-structured code.
+* Experience with JavaScript testing frameworks.
+* Proficiency with modern frontend build pipelines and tools.
+* Experience architecting and delivering scalable frontend solutions.
+* Hands-on experience with Web3 and decentralized application frontends, including familiarity with modern Web3 libraries (e.g., viem, wagmi).
+* Exposure to GraphQL.
+
+### Key Traits
+
+* **Eager to learn:** Excited to dive into new tools and technologies.
+* **Self-driven:** Comfortable doing your own research and turning findings into practical solutions.
+* **Fast learner:** Able to quickly adapt to evolving requirements and environments.
+* **Innovative mindset:** Proactively looks for ways to improve products and workflows.
 
 ### Good to have
 
 * Understanding of Solidity.
+* Familiarity with DEX protocols (not limited to PancakeSwap v2, v3, and Infinity).
 
 ### How to apply
 

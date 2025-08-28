@@ -82,7 +82,7 @@
       * [Frontend Engineer (Contract)](welcome-to-pancakeswap/about-us/team/become-a-chef/frontend-engineer-contract.md)
       * [Product Designer (UX/I)](welcome-to-pancakeswap/about-us/team/become-a-chef/product-designer-ux-i.md)
       * [Business Development Manager](welcome-to-pancakeswap/about-us/team/become-a-chef/business-development-manager.md)
-      * [Frontend Engineer](welcome-to-pancakeswap/about-us/team/become-a-chef/frontend-engineer.md)
+      * [Senior Frontend Engineer](welcome-to-pancakeswap/about-us/team/become-a-chef/frontend-engineer.md)
       * [Solidity Engineer](welcome-to-pancakeswap/about-us/team/become-a-chef/solidity-engineer.md)
       * [DevOps Engineer](welcome-to-pancakeswap/about-us/team/become-a-chef/devops-engineer.md)
       * [Senior Backend Engineer](welcome-to-pancakeswap/about-us/team/become-a-chef/senior-backend-engineer.md)
