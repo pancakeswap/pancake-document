@@ -1,28 +1,6 @@
-# Prediction Troubleshooting
-
-{% hint style="info" %}
-Use the sidebar to quickly find the answers to your questions!
-{% endhint %}
-
-### Why can’t I see my winnings in my wallet?
-
-When you collect winnings, they might not appear in your wallet’s transaction logs as usual.\
-This is because they use a different type of transaction: Internal transactions.\
-Enter your wallet address on BscScan, then check the “Internal Txns” tab to confirm that they’ve arrived.\
-![](https://lh5.googleusercontent.com/9NoIvK-oztyEaizCfgrj-poPIP\_uWeFDYsa0\_nxN3sKUiIwFdACy\_BemrtRLJn-ZkyW3LprfRn4s9lL24BOGb-I-t1vHoh5wkuTx7bObHQl5sS7xPmuZEOTVPUXr7LPNAfPfqr12)
-
-### Why aren't the results of my round showing?
-
-There’s a 15 block buffer on each round, which can cause delays of up to 45 seconds after the end of a round.\
-This buffer is to accommodate for the fact that we may not be able to reliably fetch a price and end a round immediately: various blockchain factors affect the speed in which transactions get confirmed on the network.
-
-### I can’t collect my winnings!
-
-Make sure you have enough BNB in your wallet to pay for gas fees. You’ll need a little BNB to trigger the smart contract.
-
-### **I can't claim winnings from a prediction round on site.**
-
-You might be able to claim your winnings directly from the contract. Follow the steps in the 3 tabs below.
+---
+title: How to check the history of...
+---
 
 {% tabs %}
 {% tab title="Check rounds you played" %}
@@ -63,4 +41,3 @@ How to claim
 7. Confirm on wallet&#x20;
 {% endtab %}
 {% endtabs %}
-
