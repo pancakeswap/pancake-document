@@ -5,7 +5,7 @@ description: Entry points and references for legacy products
 # 📂 Legacy Products
 
 * [NFT Marketplace](https://pancakeswap.finance/nfts)
-* [Gaming Marketplace](https://pancakeswap.games/) (17th October 2023)
+* ~~Gaming Marketplace (17th October 2023)~~ Removed 18th September 2025
 * [Pottery](https://pancakeswap.finance/pottery) (3rd November 2023)
 * [Trading Reward](archived-trading-reward/) (23rd August 2024)
 * [Simple Staking](https://pancakeswap.finance/simple-staking) (10th March 2025)
