@@ -148,6 +148,7 @@
 * [🔀 Crosschain Swaps](trade/crosschain-swaps/README.md)
   * [👉 How to do a Crosschain Swap?](trade/crosschain-swaps/how-to-do-a-crosschain-swap.md)
   * [🔁 Swap Scenarios](trade/crosschain-swaps/swap-scenarios.md)
+  * [🔁 Copy of Swap Scenarios](trade/crosschain-swaps/copy-of-swap-scenarios.md)
   * [❓ FAQ](trade/crosschain-swaps/faq.md)
 * [♾️ PancakeSwap Infinity](trade/pancakeswap-infinity/README.md)
   * [Key Features](trade/pancakeswap-infinity/key-features.md)

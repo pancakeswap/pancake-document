@@ -27,7 +27,7 @@ If your Crosschain swap encounters a failure at any stage, here’s how it’s h
     ➝ You’ll instantly receive your original token back on the source chain.
 2.  **Bridge Transaction Failure**
 
-    ➝ Across will process a refund within 90 minutes to 2 hours, and you’ll receive the bridged asset back on the source chain.
+    ➝ Across will process a refund within 90 minutes to 2 hours, and you’ll receive the bridged asset back on the source chain. While Relay processes the refund within a minute in such scenarios between SOL <> EVM.
 3.  **Swap Failure on Destination Chain**
 
     ➝ You’ll receive the bridged asset on the destination chain, without the final swap to your target token.
@@ -71,7 +71,7 @@ No — PCSX is not supported for servicing Crosschain swaps.
 Crosschain swaps on PancakeSwap are exclusively routed through:
 
 * **PancakeSwap’s liquidity pools** (v2, v3, Infinity, StableSwap) for on-chain swaps, and
-* **Across protocol** for bridging assets between chains.
+* **Across & Relay protocols** for bridging assets between chains.
 
 PCSX cannot be used to facilitate or route any part of a Crosschain swap transaction.
 

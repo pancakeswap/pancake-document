@@ -6,10 +6,11 @@ Crosschain swaps are supported between:
 
 * BNB Chain
 * Ethereum
+* Solana
 * Arbitrum
 * Base
-
-> 📝 More chains will be progressively added over time.
+* zkSync
+* Linea
 
 {% hint style="success" %}
 **Transactions are lightning-fast — typically completing within seconds to under a minute.**
@@ -22,7 +23,7 @@ Crosschain swaps are supported between:
 1. User selects From / To chain and From / To token
 2. The PancakeSwap router computes the most efficient route
 3. Swaps are executed using PancakeSwap’s liquidity pools (v2, v3, Infinity, StableSwaps) on source and destination chains
-4. Bridging is handled via our partner protocol: Across
+4. Bridging is handled via our partner protocols: [Across](https://across.to/) (for EVM <> EVM), [Relay](https://relay.link/bridge) (for SOL <> EVM)
 
 {% hint style="success" %}
 **Crosschain swaps are available for any token with adequate liquidity on both the source and destination chains.**
@@ -36,15 +37,6 @@ Crosschain swaps are supported between:
 * Fees are comprised of:
   1. **Trading Fee:** Incurred for swaps within liquidity pools on the source and destination chains
   2. **Bridge Fee:** Paid to relayers for bridging assets
-
-***
-
-### 🔗 What is Across protocol?
-
-We’ve partnered with Across Protocol to power PancakeSwap’s Crosschain bridging.
-
-Across is an intent-based Crosschain bridge that uses UMA’s optimistic oracle for verified settlement.\
-With a decentralized network of 35+ relayers, Across provides fast, secure, and efficient asset bridging between chains.
 
 ***
 

@@ -1,4 +1,8 @@
-# 🔁 Swap Scenarios
+---
+hidden: true
+---
+
+# 🔁 Copy of Swap Scenarios
 
 There are 4 scenarios for Crosschain transactions.
 
@@ -6,6 +10,17 @@ There are 4 scenarios for Crosschain transactions.
 
 * Example: **Bridge ETH on Base to ETH on Arbitrum**
 * Only supported tokens (USDC, USDT, WETH, etc) can be bridged directly. These tokens vary by source and destination chain.
+
+**Tokens supported for bridging by Across**
+
+| Chains      | USDC | USDT | WETH | ETH | CAKE | DAI | BAL | POOL | WBTC |
+| ----------- | :--: | :--: | :--: | :-: | :--: | :-: | :-: | :--: | :--: |
+| ARB <> BNB  |   ✅  |   ❌  |   ✅  |  ✅  |   ❌  |  ❌  |  ❌  |   ❌  |   ❌  |
+| BASE <> BNB |   ✅  |   ✅  |   ✅  |  ✅  |   ❌  |  ❌  |  ❌  |   ❌  |   ❌  |
+| ARB <> BASE |   ✅  |   ❌  |   ✅  |  ✅  |   ❌  |  ✅  |  ✅  |   ✅  |   ❌  |
+| ETH <> BNB  |   ✅  |   ✅  |   ✅  |  ✅  |   ✅  |   ❌ |   ❌ |   ❌  |   ❌  |
+| ETH <> BASE |   ✅  |   ✅  |   ✅  |  ✅  |   ❌  |  ✅  |  ✅  |   ✅  |   ❌  |
+| ETH <> ARB  |   ✅  |   ❌  |   ✅  |  ✅  |   ❌  |  ✅  |  ✅  |   ✅  |   ✅  |
 
 #### 2️⃣ Swap → Bridge
 
