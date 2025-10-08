@@ -116,7 +116,7 @@ If you don’t want to commit more CAKE to the IFO, you can skip ahead to the ne
 1. Let's commit some CAKE to the Public Sale. Click the **Commit** button under Public Sale. A window will appear.
 2.  In the new window, choose the amount of CAKE you want to commit in the field.
 
-    Remember, you can only commit up to to the number of iCAKE you have. And any CAKE you cannot spend on new tokens will be returned to you, so you don’t need to worry about losing any tokens.
+    Remember, you can only commit up to the number of iCAKE you have. And any CAKE you cannot spend on new tokens will be returned to you, so you don’t need to worry about losing any tokens.
 3. Click the **Confirm** button and confirm the action with your wallet. Once your CAKE are committed, the Public Sale section will show your committed amount.
 4. You can add more CAKE at any time during the IFO event as long as you haven’t reached the maximum limit. If you have, you will see "Max Committed" on the faded button. Keep in mind there is a fee for the Public Sale, listed next to “Additional fee”.
 
