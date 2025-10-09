@@ -42,7 +42,7 @@
 
 * Users can commit any amount of CAKE.
 * Token allocation is proportional to how much CAKE a user committed versus the total pool at the end of the event.
-* Any leftover CAKE is refunded when claiming tokens after the sale. See [here](https://docs.pancakeswap.finance/~/revisions/Y6rkqoQ2tqDPsyVqXS2q/earn/cakepad/how-cake.pad-taxes-work-in-overflow-sales-with-example) for a numerical example
+* Any leftover CAKE is refunded when claiming tokens after the sale. See [here](how-cake.pad-taxes-work-in-overflow-sales-with-example.md) for a numerical example
 * If heavily oversubscribed, small commitments may receive little or no allocation.
 
 ### 9. What happens if the CAKE.PAD event doesn't raise all targeted funds?
