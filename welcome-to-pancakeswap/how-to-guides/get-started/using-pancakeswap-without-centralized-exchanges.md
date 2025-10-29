@@ -2,6 +2,7 @@
 description: >-
   You don't need an account with Binance, Coinbase, Kraken, Huobi, OKEx or any
   other centralized exchange to start using PancakeSwap!
+hidden: true
 ---
 
 # Using PancakeSwap without Centralized Exchanges

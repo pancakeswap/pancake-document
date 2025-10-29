@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Smart Router (V2)
 
 <figure><img src="../../../.gitbook/assets/Smart Router.png" alt=""><figcaption></figcaption></figure>

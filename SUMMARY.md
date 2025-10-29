@@ -159,6 +159,10 @@
   * [Farms](trade/pancakeswap-infinity/farms.md)
   * [How-To Guides](trade/pancakeswap-infinity/how-to-guides.md)
   * [FAQs](trade/pancakeswap-infinity/faqs.md)
+* [✖️ PancakeSwap X](trade/pancakeswap-x/README.md)
+  * [How to use PancakeSwap X](trade/pancakeswap-x/how-to-use-pancakeswap-x.md)
+  * [RWAs](trade/pancakeswap-x/rwas.md)
+  * [FAQs](trade/pancakeswap-x/faqs.md)
 * [🎯 Limit & TWAP Orders](trade/limit-orders/README.md)
   * [How to use Limit Orders](trade/limit-orders/how-to-use-limit-orders.md)
   * [How to use Limit Orders](trade/limit-orders/how-to-use-limit-orders-1.md)
@@ -191,7 +195,7 @@
 * [💳 Buy Crypto](trade/buy-crypto.md)
 * [❓ Trading FAQ](trade/trading-faq/README.md)
   * [Swap FAQ](trade/trading-faq/swap-faq.md)
-  * [v4 FAQ](trade/trading-faq/v4-faq.md)
+  * [PancakeSwap Infinity FAQ](trade/trading-faq/pancakeswap-infinity-faq.md)
   * [Limit Orders and TWAP FAQ](trade/trading-faq/limit-orders-faq.md)
 
 ## Bridge
@@ -257,7 +261,7 @@
 ## Trading Tools
 
 * [🛡️ PancakeSwap MEV Guard](trading-tools/pancakeswap-mev-guard.md)
-* [PancakeSwap Auto Slippage](trading-tools/pancakeswap-auto-slippage/README.md)
+* [🎯 PancakeSwap Auto Slippage](trading-tools/pancakeswap-auto-slippage/README.md)
   * [How to Set Slippage on PancakeSwap](trading-tools/pancakeswap-auto-slippage/how-to-set-slippage-on-pancakeswap.md)
 * [Social Login](trading-tools/social-login/README.md)
   * [Social login: How-To Guide](trading-tools/social-login/social-login-how-to-guide.md)

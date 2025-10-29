@@ -2,9 +2,9 @@
 
 ## Info Page&#x20;
 
-View PancakeSwap's native analytics site here: [https://pancakeswap.info](https://pancakeswap.info)
+View PancakeSwap's native analytics site here: [https://pancakeswap.finance/info](https://pancakeswap.finance/info)
 
-![](<../.gitbook/assets/image (9) (2).png>)
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 All core metrics data are sourced from the PCS internal Indexer, which, in turn, gathers data from events triggered when the contract is called.&#x20;
 

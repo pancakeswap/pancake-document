@@ -14,7 +14,7 @@ Farming lets you earn additional rewards on top of standard liquidity provider (
 
 *   On the **Pool List** page, toggle the **“Show Farm only”** filter to display only pools that offer farming rewards.
 
-    <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2. View APR Breakdown
 
@@ -25,7 +25,7 @@ Farming lets you earn additional rewards on top of standard liquidity provider (
     * Additional rewards from farming incentives.
     * An **estimated weekly reward** in tokens for that pool.
 
-    <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 ### 3. Start Earning Farming Rewards
 

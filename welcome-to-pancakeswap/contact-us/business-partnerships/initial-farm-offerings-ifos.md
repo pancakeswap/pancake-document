@@ -28,4 +28,4 @@ For more information about our token launchpad offerings (“[Initial Farm Offer
 
 At every step of the process, the team is here to help – we understand that for founders and their teams, the TGE is extremely critical, and we leave nothing to chance.
 
-<figure><img src="../../../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (4) (1).png" alt=""><figcaption></figcaption></figure>

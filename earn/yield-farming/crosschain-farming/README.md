@@ -1,5 +1,6 @@
 ---
 description: Receive the same juicy CAKE rewards by farming on other blockchains
+hidden: true
 ---
 
 # Crosschain Farming

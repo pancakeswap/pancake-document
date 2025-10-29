@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # How to trade using Smart Router
 
 ## Trading on the Smart Router

@@ -1,4 +1,4 @@
-# PancakeSwap Auto Slippage
+# 🎯 PancakeSwap Auto Slippage
 
 PancakeSwap has introduced Auto Slippage to make trading easier and more efficient. Auto Slippage automatically adjusts the slippage for you based on current market conditions, helping to prevent failed trades and reduce the risk of losing money due to slippage errors.
 
