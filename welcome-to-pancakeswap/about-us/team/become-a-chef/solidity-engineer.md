@@ -1,8 +1,4 @@
----
-hidden: true
----
-
-# Solidity Engineer
+# Senior Solidity Engineer
 
 ### **General Information**
 
@@ -13,27 +9,21 @@ hidden: true
 
 ### Your Responsibilities
 
-* Build smart contracts in Solidity for the Ethereum / BSC blockchain.
-* Design, scope, and estimate complex contract based on requirements given.
-* Envision and develop features to help grow PancakeSwap.
-* Enthusiastically collaborate with a small team to plan projects at the task level.
+* Architect, implement, and test smart contracts in **Solidity** across EVM-compatible chains.
+* Scope, design, and deliver complex systems end-to-end, from idea to deployment.
 * Collaborate with cross functional partners on all aspects of product development.
-* Identify and advocate for team-wide areas of improvement and best practices.
+* Conduct code reviews and enforce best practices for security, efficiency, and maintainability.
+* Continuously evaluate and improve gas optimization, security design patterns, and upgradeability.
+* Proactively identify areas for improvement and innovation within PancakeSwap’s protocol architecture.
 
 ### Skills & Qualifications
 
-* 5+ years of industry experience in software engineering.
-* Understands and applies Solidity patterns to solve common problems.
-* Understands gas optimization the tradeoff between efficient code and readable code.
-* Knows how to write migrations and deploy code to EVM-compatible networks.
-* Familiar with Truffle, Waffle, and Hardhat, and the pros and cons of each framework.
-  * Specifically familiar with Hardhat as this is the framework used by PancakeSwap.
-* Possesses exceptional judgment, problem-solving skills, and an analytical mindset.
-* Understands engineering best practices such as continuous integration.
-* Ability to work in areas outside of your comfort zone and motivated by personal growth.
-* Be able to work autonomously.
-* The candidate should be independent enough to make important technical decisions on their own.
-* The candidate should be driven and innovative.
+* **5+ years** of software engineering experience, with **2+ years** focused on Solidity smart contracts.
+* Deep understanding of **Solidity design patterns**, gas optimization, and contract upgradeability.
+* Hands-on experience with **Hardhat** and **Foundry** (understands the trade-offs and tooling ecosystems).
+* Strong understanding of **EVM internals**, **DeFi protocols**, and **on-chain architecture**.
+* Excellent analytical, debugging, and problem-solving skills.
+* Comfortable working autonomously in a fast-paced, globally distributed team.
 
 ### How to apply:
 
