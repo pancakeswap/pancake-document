@@ -17,6 +17,7 @@ description: Entry points and references for legacy products
 * [LP History Page](https://pancakeswap.finance/farms/history)
 * [Position Manager ](archived-position-manager.md)(21st June 2025)
 * [Polygon zkEVM](https://legacy-zkevm.pancakeswap.finance/liquidity/positions) (30 Sep 2025)
+* [Bridge](https://pancakeswap.finance/bridge) (6 Nov 2025)
 
 
 
