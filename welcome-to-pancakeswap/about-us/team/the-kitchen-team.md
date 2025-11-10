@@ -12,13 +12,9 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Kcal - Product Manager
 
-🐰 Chef Chili - Ops & BD Lead
-
-🐰 Chef Maroon - Business Development ([Twitter](https://x.com/ChefMaroon))
+🐰 Chef Maroon - BD Lead ([Twitter](https://x.com/ChefMaroon))
 
 🐰 Chef Doxie - Business Development ([Twitter](https://x.com/ChefDoxie))
-
-🐰 Chef Nata - Business Development ([Twitter](https://x.com/CryptoNataNata))
 
 🐰 Chef Mustard - Ops ([Twitter](https://twitter.com/chef_mustard))
 
@@ -27,8 +23,6 @@ You can jump to the kitchen interviews article by clicking chef's name.
 🐰 Chef Jackson - Dev Lead ([Twitter](https://x.com/0xchefjackson))
 
 🐰 Chef Ryan - Frontend Dev Lead
-
-🐰 Chef Yogi- Frontend Dev
 
 🐰 Chef Eric - Frontend Dev
 
@@ -44,13 +38,15 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Taco - Backend Dev
 
-🐰 Chef Mist - Smart Contract Dev Lead
+🐰 Chef Bob - Backend Dev
+
+🐰 Chef Toast - Backend Dev
+
+🐰 Chef Rabbid - Smart Contract Dev Lead
 
 🐕 Chef Snoopy - Smart Contract Dev
 
 🐰 Chef Cupcake - Smart Contract Dev
-
-🐰 Chef Rabbid - Smart Contract Dev
 
 🐰 Chef Omelette - Smart Contract Dev
 
@@ -71,8 +67,6 @@ You can jump to the kitchen interviews article by clicking chef's name.
 🐰 Chef Cola - HR
 
 🐰 Chef Brownie - Marketing Lead ([Twitter](https://twitter.com/Chef_Browniee))
-
-🐰 Chef Oreo - Product Marketing  ([Twitter](https://twitter.com/Chef_Oreoo))
 
 🐰 Chef Cocoa - Events and PR Marketing ([Twitter](https://x.com/chef_cocoa_pcs))
 
