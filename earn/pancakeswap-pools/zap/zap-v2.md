@@ -1,5 +1,6 @@
 ---
 description: Simple liquidity provisioning with only one click
+hidden: true
 ---
 
 # Zap (V2)
@@ -77,7 +78,7 @@ You will see:
 
 Zap also enables you to receive one single token in the trading pair when removing liquidity.
 
-1. Visit the[ ](https://www.google.com/url?q=https://exchange.pancakeswap.finance/%23/pool\&sa=D\&source=editors\&ust=1656322371442758\&usg=AOvVaw2ZJPj\_97-YuUMQjQbYbfN4)[Liquidity page](https://pancakeswap.finance/swap#/pool).
+1. Visit the[ ](https://www.google.com/url?q=https://exchange.pancakeswap.finance/%23/pool\&sa=D\&source=editors\&ust=1656322371442758\&usg=AOvVaw2ZJPj_97-YuUMQjQbYbfN4)[Liquidity page](https://pancakeswap.finance/swap#/pool).
 2. Click on the pair you want to remove liquidity under “Your Liquidity".
 3. Click “Remove”. A new pop-up will appear.
 

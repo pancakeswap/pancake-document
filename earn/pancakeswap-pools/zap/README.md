@@ -6,31 +6,33 @@ description: Adding liquidity in one click
 
 ### What is Zap <a href="#id-27eed32c-a46a-44f9-98ee-2a3f74e0dadd" id="id-27eed32c-a46a-44f9-98ee-2a3f74e0dadd"></a>
 
-Zap is a feature that allows you to add liquidity with ease. With Zap, you can provide V3 liquidity with only one of the tokens from the liquidity pool. Simply set the price range, choose the amount to provide, and execute. Your tokens will be automatically balanced to form the liquidity position while being traded in the most efficient way, with the lowest price impact and slippage.
+Zap is a feature that allows you to add liquidity with ease. With Zap, you can provide liquidity with any token you have balance in irrespective of the tokens required in the pool. Simply set the price range, choose the amount to provide, and execute. Your tokens will be automatically balanced to form the liquidity position while being traded in the most efficient way, with the lowest price impact and slippage.
+
+### Supported Chains
+
+* v3 - All pools on BNB Chain, selected pools on Ethereum & Arbitrum networks
+* Infinity - All CLAMM pools (without hook) on BNB Chain
 
 ### How to Use <a href="#id-438fff0f-f1da-4147-9fe3-6dc1dc2ef352" id="id-438fff0f-f1da-4147-9fe3-6dc1dc2ef352"></a>
 
-#### Before <a href="#id-0c300e46-c7df-4ed4-b9b2-ecb10b31a1f6" id="id-0c300e46-c7df-4ed4-b9b2-ecb10b31a1f6"></a>
-
-For now, Zap only supports:
+For now, Zap supports:
 
 * 🆕 Any token!
 * Using single token
 * 🆕 Using duo tokens
 * 🆕 Or... using multiple tokens (yes it's can be used like dust collector)
-* And on BNB Chain (more network is coming)
 
 #### Start <a href="#e43d56cd-978e-4503-8b7a-974428d4142c" id="e43d56cd-978e-4503-8b7a-974428d4142c"></a>
 
 <figure><img src="../../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
-To use Zap, simply go to Add V3 Liquidity page, select the trading pair you want to provide liquidity to, fee tier, and the price range.
+To use Zap, simply go to Add Liquidity page, select the trading pair you want to provide liquidity to, fee tier, and the price range.
 
 Then select the token amount you want to provide liquidity to.
 
 Option to Zap will automatically appear when one or more tokens are short on balance.
 
-Click the link to bring up the V3 Zap modal.
+Click the link to bring up the Zap modal.
 
 #### Initiate Zap <a href="#d65281e2-90db-4280-afd0-f24157c88a9b" id="d65281e2-90db-4280-afd0-f24157c88a9b"></a>
 
