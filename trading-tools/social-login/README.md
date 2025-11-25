@@ -4,6 +4,11 @@ icon: people-arrows
 
 # Social Login
 
+{% hint style="danger" %}
+Smart Wallets created through Social Login currently support only a [limited set of networks](https://docs.pancakeswap.finance/trading-tools/social-login/social-login-faq#general-overview).\
+Transferring assets to a chain that is _not supported_ by the Smart Wallet UI or the underlying wallet provider may result in your funds becoming temporarily inaccessible.
+{% endhint %}
+
 ### What is Social Login?
 
 PancakeSwap’s **Social Login** allows you to create a secure, self-custodial wallet using your Google, X (Twitter), Discord, or Telegram account — no browser extensions, seed phrases, or complicated setup required.
@@ -25,3 +30,4 @@ Explore now:
 * [pancake-gifts](../pancake-gifts/ "mention")
 * [social-login-how-to-guide.md](social-login-how-to-guide.md "mention")
 * [social-login-faq.md](social-login-faq.md "mention")
+
