@@ -16,7 +16,7 @@ Join our official Telegram and Discord communities to connect with other users, 
 
 🔹 **Telegram Announcements (English)**: [https://t.me/PancakeSwapAnn](https://t.me/PancakeSwap)
 
-🔹 **Discord**: [https://discord.gg/pancakeswap](https://t.me/PancakeSwap)
+🔹 **Discord**: [https://discord.gg/pancakeswap](https://discord.gg/pancakeswap)
 
 #### 🌍 **Local Communities**
 
