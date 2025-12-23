@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Marketing Manager (PR & Events)
 
 ### **General Information**

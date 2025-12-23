@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Brand / Graphics Designer
 
 ### **General Information**

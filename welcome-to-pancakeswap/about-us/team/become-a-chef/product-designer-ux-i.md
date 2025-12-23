@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Product Designer (UX/I)
 
 ### **General Information**
