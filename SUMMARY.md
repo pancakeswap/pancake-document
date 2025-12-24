@@ -94,6 +94,9 @@
       * [DevOps Engineer](welcome-to-pancakeswap/about-us/team/become-a-chef/devops-engineer.md)
       * [Product Marketing Manager](welcome-to-pancakeswap/about-us/team/become-a-chef/product-marketing-manager.md)
       * [Product Manager](welcome-to-pancakeswap/about-us/team/become-a-chef/product-manager-1.md)
+      * [Business Development Manager](welcome-to-pancakeswap/about-us/team/become-a-chef/business-development-manager-1.md)
+      * [Data Analyst](welcome-to-pancakeswap/about-us/team/become-a-chef/data-analyst.md)
+      * [Product Manager \[Prediction Markets\]](welcome-to-pancakeswap/about-us/team/become-a-chef/product-manager-prediction-markets.md)
   * [Brand & Logos](welcome-to-pancakeswap/about-us/brand.md)
 
 ***
