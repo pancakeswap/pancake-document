@@ -10,7 +10,9 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Momo - Product Manager
 
-🐰 Chef Kcal - Product Manager
+🐰 Chef Drew - Product Manager
+
+🐰 Chef Miso - Product Manager
 
 🐰 Chef Maroon - BD Lead ([Twitter](https://x.com/ChefMaroon))
 
@@ -66,12 +68,14 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Cola - HR
 
-🐰 Chef Brownie - Marketing Lead ([Twitter](https://twitter.com/Chef_Browniee))
+🐰 Chef Cocoa - Marketing Lead ([Twitter](https://x.com/chef_cocoa_pcs))
 
-🐰 Chef Cocoa - Events and PR Marketing ([Twitter](https://x.com/chef_cocoa_pcs))
+🐰 Chef Marcus - Social Media ([Twitter](https://x.com/ChefMarcusPCS))
+
+🐰 Chef Popcorn - Community Lead ([Twitter](https://x.com/Chef_Popcornn))
 
 🐰 [Chef Fran](https://medium.com/pancakeswap/kitchen-interview-chef-fran-spanish-community-manager-and-a-lovely-mate-368c72102093) - Community Manager ([Twitter](https://twitter.com/ChefFranPS))
 
-🐰 Chef Marcus - Social Media Marketing ([Twitter](https://x.com/ChefMarcusPCS))
+🐰 Chef Tartine - Product Marketing Manager
 
-🐰 Chef Popcorn - Marketing ([Twitter](https://x.com/Chef_Popcornn))
+🐰 Chef Croissant - Events and PR
