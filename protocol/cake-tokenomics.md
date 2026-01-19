@@ -33,11 +33,11 @@ Note: CAKE locked forever in the legacy CAKE pool is also considered burned as i
 
 ## Does CAKE have a hard cap? <a href="#other-deflationary-mechanics" id="other-deflationary-mechanics"></a>
 
-Yes, CAKE now has a hard cap set at 450M.
+Yes, CAKE now has a hard cap set at 400M.
 
-A proposal for the latest cap adjustment was put forward on December 28, 2023 to decrease the cap from 750M to 450M. It was successfully passed.
+A proposal for the latest cap adjustment was put forward on January 16, 2026 to decrease the cap from 450M to 400M. It was successfully passed.
 
-For more details on the voting proposal, please follow this link: [https://pancakeswap.finance/voting/proposal/0x3e014aab40f6551da9f76da0e62e44e9ece55c4997f220057bf3e42dc8307c2f](https://pancakeswap.finance/voting/proposal/0x3e014aab40f6551da9f76da0e62e44e9ece55c4997f220057bf3e42dc8307c2f)
+For more details on the voting proposal, please follow this link: [https://pancakeswap.finance/voting/proposal/0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5](https://pancakeswap.finance/voting/proposal/0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5)
 
 ## How is CAKE supply reduced?
 
