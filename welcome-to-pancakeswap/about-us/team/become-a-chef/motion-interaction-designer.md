@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Motion / Interaction Designer
 
 ### **General Information**

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Data Analyst
 
 #### Responsibilities

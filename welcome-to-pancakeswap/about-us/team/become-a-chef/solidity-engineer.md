@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Senior Solidity Engineer
 
 ### **General Information**

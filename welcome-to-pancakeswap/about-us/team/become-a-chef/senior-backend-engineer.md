@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Senior Backend Engineer
 
 ### General Information

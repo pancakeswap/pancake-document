@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Senior Frontend Engineer
 
 ### General Information

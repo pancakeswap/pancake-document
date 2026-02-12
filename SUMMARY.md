@@ -78,6 +78,7 @@
   * [Team](welcome-to-pancakeswap/about-us/team/README.md)
     * [The Kitchen Team](welcome-to-pancakeswap/about-us/team/the-kitchen-team.md)
     * [Become a Chef](welcome-to-pancakeswap/about-us/team/become-a-chef/README.md)
+      * [Community Manager (CN)](welcome-to-pancakeswap/about-us/team/become-a-chef/community-manager-cn.md)
       * [Senior Frontend Engineer](welcome-to-pancakeswap/about-us/team/become-a-chef/frontend-engineer.md)
       * [Senior Backend Engineer](welcome-to-pancakeswap/about-us/team/become-a-chef/senior-backend-engineer.md)
       * [Senior Solidity Engineer](welcome-to-pancakeswap/about-us/team/become-a-chef/solidity-engineer.md)

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Product Manager \[Prediction Markets]
 
 Probable is a zero-fee, on-chain prediction market platform launched on BNB Chain, incubated by PancakeSwap and supported by YZi Labs. It focuses on user-friendly predictions across crypto, sports, global events, and regional markets, with features like automatic token conversion to USDT and outcomes resolved via UMA's Optimistic Oracle.
