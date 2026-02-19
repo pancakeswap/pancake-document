@@ -10,9 +10,9 @@ Our goal at PancakeSwap is to build a decentralized ecosystem that prioritizes f
 
 **Burns are driven by every product in the PancakeSwap ecosystem**, specifically a large share of fees from:
 
-* [Spot liquidity pools](https://docs.pancakeswap.finance/earn/pancakeswap-pools#earning-trading-fees) (15-23% of trading fees)
+* [Spot trading](https://docs.pancakeswap.finance/earn/pancakeswap-pools#trading-fees) (15-23% of trading fees)
 * Perpetual trading (20% of all profits)
-* IFOs (100% of all fees)
+* CAKE.PADs (100% of all fees)
 * Prediction (3% of each round)
 * Lottery (20% of all CAKE played)
 
