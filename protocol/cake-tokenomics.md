@@ -13,7 +13,8 @@ Our goal at PancakeSwap is to build a decentralized ecosystem that prioritizes f
 * [Spot liquidity pools](https://docs.pancakeswap.finance/earn/pancakeswap-pools#earning-trading-fees) (15-23% of trading fees)
 * Perpetual trading (20% of all profits)
 * IFOs (100% of all fees)
-* Prediction and Lottery products (3% of each round)
+* Prediction (3% of each round)
+* Lottery (20% of all CAKE played)
 
 **Emissions are carefully managed to ensure liquidity is directed to the most productive pools and products.** PancakeSwap’s focus is on scaling volume growth by optimizing liquidity incentives and boosting revenue per CAKE spent. Every decision revolves around the goal of creating real revenue and contributing to long-term success for the entire community. Products that receive CAKE emissions include:
 
