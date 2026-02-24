@@ -25,3 +25,6 @@ We are looking for an experienced, Chinese-speaking Community Manager to activat
 * Excellent Chinese written and verbal communication skills
 * Experience with community platforms and tools on Discord, Telegram, X, etc.
 * Proactive, results-oriented, and able to operate in a fast-paced environment
+
+**How to Apply:**\
+Shoot your resume over to hiring@pancakeswap.com, we’d love to hear from you!
