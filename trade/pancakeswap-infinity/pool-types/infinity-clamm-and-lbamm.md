@@ -1,6 +1,4 @@
-# Pool Types
-
-**PancakeSwap Infinity** supports a modular AMM architecture that enables multiple **pool types**, each governed by a specific **Pool Manager**. These Pool Managers are singleton contracts that contain unique swap and liquidity logic. The two primary AMM models currently supported are:
+# Infinity CLAMM & LBAMM
 
 #### 🔷 CLAMM (Concentrated Liquidity AMM)
 
