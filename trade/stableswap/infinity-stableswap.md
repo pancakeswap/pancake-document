@@ -128,9 +128,7 @@ In Infinity StableSwap, the swap fee can vary per trade based on how the trade a
 
 
 
-Infinity StableSwap pools are permissionless — anyone can create one without&#x20;
-
-needing approval from the PancakeSwap team.
+Infinity StableSwap pools are permissionless — anyone can create one without needing approval from the PancakeSwap team.
 
 <br>
 
@@ -167,11 +165,7 @@ needing approval from the PancakeSwap team.
 
 <br>
 
-Choose a Pool Parameter Preset — this automatically sets the recommended&#x20;
-
-&#x20;  parameters for your asset type. You can still manually adjust them via the&#x20;
-
-&#x20;  Advanced toggle.
+Choose a Pool Parameter Preset — this automatically sets the recommended parameters for your asset type. You can still manually adjust them via the Advanced toggle.
 
 <figure><img src="../../.gitbook/assets/unknown (3).png" alt=""><figcaption></figcaption></figure>
 
@@ -197,9 +191,7 @@ Choose a Pool Parameter Preset — this automatically sets the recommended&#x20;
 
 <br>
 
-6\. Click Preview Pool, review your settings, check the confirmation box,&#x20;
-
-&#x20;  then click Create Pool.
+6\. Click Preview Pool, review your settings, check the confirmation box, then click Create Pool.
 
 <figure><img src="../../.gitbook/assets/unknown (5).png" alt=""><figcaption></figcaption></figure>
 
