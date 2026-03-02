@@ -19,7 +19,7 @@
        <figure><img src="../../../.gitbook/assets/unnamed (7).png" alt=""><figcaption></figcaption></figure>
 
        <figure><img src="../../../.gitbook/assets/unnamed (6).png" alt="" width="375"><figcaption></figcaption></figure>
-3.  Follow the steps on the profile setup screen or refer to the make profile guide here[Broken link](broken-reference "mention"), from step 7. onwards. The setup is free, however a small amount of gas on the BNB Chain is required to set up profiles.
+3.  Follow the steps on the profile setup screen or refer to the make profile guide here[Broken link](/broken/pages/-MYdfYNF3jEh_f1HFdcj "mention"), from step 7. onwards. The setup is free, however a small amount of gas on the BNB Chain is required to set up profiles.
 
     <figure><img src="../../../.gitbook/assets/unnamed (5).png" alt="" width="375"><figcaption><p>Choose the Bunny - A generic starter bunny for your quest journey</p></figcaption></figure>
 

@@ -8,8 +8,7 @@ For beta mode, quests are split into two types - **quests with rewards and witho
 
 For quests with rewards, users can earn token rewards by completing them. The rewards will be distributed via a lucky draw to all users completing the quest, as shown below.&#x20;
 
-For example, if the total reward is 1000 USDT with 10 stipulated winners, 10 users will be drawn to receive the reward.\
-
+For example, if the total reward is 1000 USDT with 10 stipulated winners, 10 users will be drawn to receive the reward.<br>
 
 <figure><img src="../../../.gitbook/assets/gamification-git-setup-dev-gamification.pancake.run_quests_705143d4efa243209b70f07eb824b908(iPhone 14 Pro Max).png" alt="" width="375"><figcaption></figcaption></figure>
 

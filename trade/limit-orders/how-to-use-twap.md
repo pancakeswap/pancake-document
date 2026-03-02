@@ -34,4 +34,4 @@ Things to take into consideration
 * The trades are based on a decentralized protocol that utilizes off-chain takers which compete to fill orders. These takers are entitled to request a fee, which the protocol removes for the winning taker from the output tokens.&#x20;
 * Takers may take into account gas fees for your transactions when setting their fees, which may result in fluctuations in the fee amounts.
 
-\
+<br>

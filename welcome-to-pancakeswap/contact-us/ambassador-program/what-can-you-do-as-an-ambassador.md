@@ -48,7 +48,6 @@ As an ambassador, you’ll play a key role in crafting high-quality, engaging, a
 
 Your creativity and expertise will help bridge the knowledge gap, making DeFi more accessible to everyone. Together, we’ll build a valuable content hub that empowers and educates the PancakeSwap community! 💡✨
 
-\
+<br>
 
-
-\
+<br>

@@ -19,8 +19,7 @@ Here are the following steps to access the dashboard and generate an affiliate l
 
         <figure><img src="../../.gitbook/assets/affiliate-landing-page-10.png" alt=""><figcaption></figcaption></figure>
     3. Hit “Generate Link” and approve the signature. There should be a popup notifying you that a link has been generated.
-    4.  Move to the links section at the bottom and copy the link created. \
-
+    4.  Move to the links section at the bottom and copy the link created. <br>
 
         <figure><img src="../../.gitbook/assets/affiliate-landing-page-09.png" alt=""><figcaption></figcaption></figure>
 

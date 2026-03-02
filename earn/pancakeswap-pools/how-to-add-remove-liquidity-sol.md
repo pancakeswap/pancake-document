@@ -33,16 +33,13 @@ Here you’ll see all active V3 pools on Solana.
 
 You can use the filters at the top of the page to:
 
-*   **Search** for a specific token pair\
-
+*   **Search** for a specific token pair<br>
 
     <figure><img src="../../.gitbook/assets/image (387).png" alt=""><figcaption></figcaption></figure>
-*   **Change layout view** (grid/list)\
-
+*   **Change layout view** (grid/list)<br>
 
     <figure><img src="../../.gitbook/assets/image (388).png" alt=""><figcaption></figcaption></figure>
-*   **Sort pools** by TVL, Volume, Fees, or APR\
-
+*   **Sort pools** by TVL, Volume, Fees, or APR<br>
 
     <figure><img src="../../.gitbook/assets/image (389).png" alt=""><figcaption></figcaption></figure>
 
@@ -54,12 +51,10 @@ If your pool doesn’t appear immediately after creation, please allow up to 5 m
 
 You can start the process by either:
 
-*   Clicking **“Deposit”** on the pool card\
-
+*   Clicking **“Deposit”** on the pool card<br>
 
     <figure><img src="../../.gitbook/assets/image (390).png" alt=""><figcaption></figcaption></figure>
-*   OR clicking **“Create New Position”** under “My Positions”\
-
+*   OR clicking **“Create New Position”** under “My Positions”<br>
 
     <figure><img src="../../.gitbook/assets/image (391).png" alt=""><figcaption></figcaption></figure>
 
@@ -67,12 +62,10 @@ You can start the process by either:
 
 Since this is a V3 pool, you’ll need to choose a price range for your liquidity:
 
-*   Use **quick preset ranges** (e.g. +- 25%) or set a custom range\
-
+*   Use **quick preset ranges** (e.g. +- 25%) or set a custom range<br>
 
     <figure><img src="../../.gitbook/assets/image (392).png" alt=""><figcaption></figcaption></figure>
-*   Use the **price direction toggle** to switch between base/quote view\
-
+*   Use the **price direction toggle** to switch between base/quote view<br>
 
     <figure><img src="../../.gitbook/assets/image (393).png" alt=""><figcaption></figcaption></figure>
 
@@ -96,8 +89,7 @@ Input the token amounts you want to supply
 *   Click **“Add Liquidity”**
 
     <figure><img src="../../.gitbook/assets/image (396).png" alt=""><figcaption></figcaption></figure>
-*   Review your position in the preview modal\
-
+*   Review your position in the preview modal<br>
 
     <figure><img src="../../.gitbook/assets/image (397).png" alt=""><figcaption></figcaption></figure>
 

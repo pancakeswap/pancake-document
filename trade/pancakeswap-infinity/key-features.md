@@ -10,8 +10,7 @@ Infinity fixes this by implementing the Singleton model. Now, all pools live ins
 
 * Each pool’s data is stored in a shared contract using a unique pool ID.
 * Creating a new pool is now just a state update, not a full contract deployment.
-* Swapping across pools is faster and uses less gas.\
-
+* Swapping across pools is faster and uses less gas.<br>
 
 This Singleton approach, along with other optimizations like Flash Accounting and ERC-6909, helps make PancakeSwap Infinity one of the most gas-efficient DEX platforms available today.
 
@@ -40,8 +39,7 @@ With the introduction of Singleton architecture and Flash Accounting, PancakeSwa
 #### ✅ Key Highlights
 
 * **Direct Native Token Pools:** You can now create pools like ETH/USDC, BNB/CAKE without needing WETH or WBNB.
-* **Gas Efficient:** Native token transfers are \~50% cheaper than ERC-20 token transfers, leading to lower gas costs for swaps and liquidity actions.\
-
+* **Gas Efficient:** Native token transfers are \~50% cheaper than ERC-20 token transfers, leading to lower gas costs for swaps and liquidity actions.<br>
 
 **Previously Removed, Now Re-enabled:** Native token support was absent in earlier versions due to implementation complexity and liquidity fragmentation.
 

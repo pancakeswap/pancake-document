@@ -30,8 +30,7 @@ Cake Redemption Guide: [staked-cake-redemption.md](staked-cake-redemption.md "me
 {% endhint %}
 
 1. **Claim Rewards**: To earn rewards from the final **Epoch 38** (April 25–May 7, 2025), make sure **not to withdraw your CAKE before 00:00 AM UTC, May 7, 2025**.
-2.  **Redeem CAKE/veCAKE:** Users who have directly staked CAKE through the PancakeSwap interface have 6 months to redeem their staked CAKE and veCAKE, with the redemption **deadline set for October 23, 2025.**\
-
+2.  **Redeem CAKE/veCAKE:** Users who have directly staked CAKE through the PancakeSwap interface have 6 months to redeem their staked CAKE and veCAKE, with the redemption **deadline set for October 23, 2025.**<br>
 
     For veCAKE linked to **veCAKE managers (e.g., Aster, StakeDAO, CakePie),** PancakeSwap will whitelist the delegator addresses for locker protocols that enable 1:1 redemptions. These protocols will launch a redemption page on their interfaces, allowing users who have staked with them to redeem their xCAKE for CAKE on a **1:1 basis. Please refer to the respective veCAKE Managers’ announcements for more detail** .
 

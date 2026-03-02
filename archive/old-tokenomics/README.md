@@ -16,7 +16,7 @@ Earn CAKE from Farms and Syrup Pools, win it in the lottery, or [buy it on the e
 * Use it in [Yield Farms](https://docs.pancakeswap.finance/products/yield-farming) to earn more CAKE
 * Buy Lottery tickets in the [PancakeSwap Lottery](../../play/lottery/)
 * Participate in [IFO Token Sales](../../earn/cakepad/)
-* Create your [Pancake Profile](broken-reference) and mint NFTs
+* Create your [Pancake Profile](/broken/pages/-MYccH_bJjPXGyPCweA8) and mint NFTs
 * [Vote on proposals](../../protocol/voting/) relating to the PancakeSwap ecosystem
 
 But that's not all -- there's much more on the horizon for CAKE!
@@ -29,8 +29,8 @@ Check below to discover the nuts and bolts of how CAKE works.
 [cake-tokenomics.md](../../protocol/cake-tokenomics.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/-MLAzz7i0mcBCSvWcZbU" %}
+[Broken link](/broken/pages/-MLAzz7i0mcBCSvWcZbU)
 {% endcontent-ref %}
 
 ### \*\*\*\*

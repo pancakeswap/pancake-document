@@ -324,7 +324,7 @@ This error tends to appear when you're trying to unstake from an old Syrup Pool,
 
 ## **Issues with Prediction**
 
-Check [Broken link](broken-reference "mention")
+Check [Broken link](/broken/pages/8zN9xzaYD1DvxZvzLzug "mention")
 
 ## **Other issues**
 

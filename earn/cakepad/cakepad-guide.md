@@ -65,8 +65,7 @@ The final amount of CAKE.PAD partner tokens you receive is determined using the 
 <figure><img src="../../.gitbook/assets/image (466).png" alt="" width="375"><figcaption></figcaption></figure>
 
 2. Enter the amount of CAKE you want to commit. Any CAKE not used to buy tokens will be returned to you
-3.  Click **Confirm** and approve the transaction in your wallet\
-
+3.  Click **Confirm** and approve the transaction in your wallet<br>
 
     <figure><img src="../../.gitbook/assets/image (467).png" alt="" width="239"><figcaption></figcaption></figure>
 4. Your committed amount will be displayed in the sale section

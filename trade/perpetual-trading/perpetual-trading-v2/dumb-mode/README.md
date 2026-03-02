@@ -10,8 +10,7 @@ Users are given a selection of 5-minute, 15-minute, 30-minute and 1-hour expirat
 
 At the end of the expiration period, if the underlying asset is in a winning position (price greater than open price for long, price lower than open price for short), users will stand to profit.
 
-Each expiration period has a different return-on-investment (ROI). The longer the expiration period, the higher the ROI. Percentages and fees are as follows:\
-
+Each expiration period has a different return-on-investment (ROI). The longer the expiration period, the higher the ROI. Percentages and fees are as follows:<br>
 
 | Expiration Period | Winning ROI (Net of fees)\* | Losing ROI | Fees (on Winning) |
 | ----------------- | --------------------------- | ---------- | ----------------- |
@@ -52,4 +51,4 @@ Support for more assets/chains is in development.
 
 A fee of **6%** of the principal or collateral is charged in case of a winning trade. This is already calculated before ROI.
 
-\
+<br>

@@ -6,4 +6,4 @@
 
 ![](<../../.gitbook/assets/Screen Shot 2021-09-29 at 21.11.40.png>)
 
-[Apply to list your collection on the NFT Market](broken-reference)\
+[Apply to list your collection on the NFT Market](/broken/pages/-MkkKywsP3wBsO_FrvmN)<br>

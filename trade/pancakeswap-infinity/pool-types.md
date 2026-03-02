@@ -56,14 +56,12 @@ Dynamic fees offer maximum flexibility and optimize fee structures for both LPs 
 
 * Static Fee pools have a fixed fee set during pool creation.
 * These fees cannot be changed after the pool is initialized.
-* Suitable for simpler use cases or where predictability of fee structure is important.\
-
+* Suitable for simpler use cases or where predictability of fee structure is important.<br>
 
 **🔒 Max Fee Caps:**
 
 * CLAMM Pools: Up to 100% (mostly for specialized or experimental use cases)
-* LBAMM Pools: Capped at 10%\
-
+* LBAMM Pools: Capped at 10%<br>
 
 **🏛 Protocol Fee (for static fee pools):**
 

@@ -1,4 +1,4 @@
-# How to Add/Remove Liquidity
+# How to Add/Remove Liquidity (EVM)
 
 ![](../../.gitbook/assets/how-to-add-remove-liquidity-header.png)
 
@@ -158,4 +158,4 @@ To remove liquidity.
 
 7\. A window will appear showing how many tokens you will receive. Click “Confirm”. Your wallet will ask you to confirm the action.
 
-8\. After the transaction is confirmed. You will receive two of the tokens from your pair. And if you haven't removed all of your liquidity, your remaining liquidity value will be updated on the liquidity page.\
+8\. After the transaction is confirmed. You will receive two of the tokens from your pair. And if you haven't removed all of your liquidity, your remaining liquidity value will be updated on the liquidity page.<br>

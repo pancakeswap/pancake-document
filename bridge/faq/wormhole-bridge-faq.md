@@ -16,8 +16,7 @@ The find redeem option is an alternative method that you can follow to complete 
 
 <figure><img src="https://lh7-us.googleusercontent.com/DJTsB2sz0KxIuhUfFbqbb01acekDiLJzEVws1pYWfiNGFRaFnQa0lCW8Wv4L-W7GBdYBvDIB7wUgkFF7tk8zrVCS1EuarMROR0bECQS2NHqMiGpcMrVfaVWGGqJPJXZmOxQIPUcjceDgE8WUk9wJviQ" alt=""><figcaption></figcaption></figure>
 
-It will then display this option to resume your transaction. Click this to be navigated to the forum (link in the next question) where you can complete your redemption transaction. \
-
+It will then display this option to resume your transaction. Click this to be navigated to the forum (link in the next question) where you can complete your redemption transaction. <br>
 
 ### Q: I have sent tokens to \<chain> - my tokens did not arrive in my target wallet, but have left my origin wallet. What do I do?[​](https://portalbridge.com/docs/faqs/troubleshooting#i-have-sent-tokens-to-chain---my-tokens-did-not-arrive-in-my-target-wallet-but-have-left-my-origin-wallet-what-do-i-do) <a href="#i-have-sent-tokens-to-chain---my-tokens-did-not-arrive-in-my-target-wallet-but-have-left-my-origin-w" id="i-have-sent-tokens-to-chain---my-tokens-did-not-arrive-in-my-target-wallet-but-have-left-my-origin-w"></a>
 

@@ -43,7 +43,7 @@ Find more information about our Syrup Pools [here](../../../welcome-to-pancakesw
 
 ### Syrup Pool Smart Contracts <a href="#docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86" id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
 
-[CAKE Syrup Pool](broken-reference)
+[CAKE Syrup Pool](/broken/pages/cFidohif6VdJE7LuwvlB)
 
 ### &#x20;<a href="#docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86" id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
 

@@ -31,8 +31,7 @@ You may find this APR display under:
 * Detail page of each of the existing liquidity position - showing LP fee APR\
   ![](<../../.gitbook/assets/image (326).png>)
 * Farm page, within the position under each farm - showing combined APR with LP fee and CAKE rewards\
-  ![](<../../.gitbook/assets/image (138).png>)\
-
+  ![](<../../.gitbook/assets/image (138).png>)<br>
 
 ## Improved ROI calculator <a href="#id-6f06dc46-ff61-4022-a29d-3ebe67a50607" id="id-6f06dc46-ff61-4022-a29d-3ebe67a50607"></a>
 

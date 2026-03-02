@@ -8,8 +8,7 @@ View PancakeSwap's native analytics site here: [https://pancakeswap.finance/info
 
 All core metrics data are sourced from the PCS internal Indexer, which, in turn, gathers data from events triggered when the contract is called.&#x20;
 
-For the date dimension in the PancakeSwap's internal indexer, we use international standard time (UTC) for daily statistics. Therefore, when the horizontal axis on the Dashboard displays a date, it represents the date in international standard time (UTC).\
-
+For the date dimension in the PancakeSwap's internal indexer, we use international standard time (UTC) for daily statistics. Therefore, when the horizontal axis on the Dashboard displays a date, it represents the date in international standard time (UTC).<br>
 
 ## Core Metrics
 
@@ -23,4 +22,4 @@ For the date dimension in the PancakeSwap's internal indexer, we use internation
 
 _Tokens that are not whitelisted or not paired with whitelisted tokens are excluded from these calculations._
 
-\
+<br>

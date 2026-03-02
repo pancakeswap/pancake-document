@@ -12,4 +12,4 @@ Liquid staking is a method that enables users to stake while still being able to
 
 The can be traded, used in DeFi applications, or held while the original ETH tokens are staked. Liquid staking thus provides flexibility and allows token holders to utilize their staked tokens in multiple ways without having to unstake and potentially lose out on staking rewards. [Click here to find out more on Ethereum Proof of Stake](https://academy.binance.com/en/articles/what-is-ethereum-2-0-and-why-does-it-matter).
 
-\
+<br>

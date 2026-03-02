@@ -201,6 +201,8 @@
     * [How can I use it?](trade/perpetual-trading/perpetual-trading-v1/how-can-i-use-it.md)
     * [V1 Perpetual Trading FAQ](trade/perpetual-trading/perpetual-trading-v1/perpetual-trading-faq.md)
 * [🏦 Stableswap](trade/stableswap/README.md)
+  * [Infinity StableSwap](trade/stableswap/infinity-stableswap.md)
+  * [Classic StableSwap](trade/stableswap/classic-stableswap.md)
   * [How to StableSwap](trade/stableswap/how-to-stableswap.md)
 * [💳 Buy Crypto](trade/buy-crypto.md)
 * [❓ Trading FAQ](trade/trading-faq/README.md)

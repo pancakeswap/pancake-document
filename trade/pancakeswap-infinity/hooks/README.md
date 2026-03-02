@@ -14,8 +14,7 @@ Hooks are powerful add-ons that let developers extend and customize the behavior
   * Initializing a pool
   * Swapping
   * Adding/removing liquidity
-  * Donating\
-
+  * Donating<br>
 
 **⛓️ How Hooks Work:**
 
@@ -24,8 +23,7 @@ Hooks are powerful add-ons that let developers extend and customize the behavior
 * For example, a hook could:
   * Offer swap fee discounts to CAKE holders
   * Charge custom fees and distribute rewards
-  * Enable new swap logic like stableswaps or TWAMM-style orders\
-
+  * Enable new swap logic like stableswaps or TWAMM-style orders<br>
 
 #### ⚙️ Hook Callbacks
 
@@ -35,8 +33,7 @@ Hooks can be triggered during ten specific moments. Developers can choose which 
 * beforeAddLiquidity / afterAddLiquidity
 * beforeRemoveLiquidity / afterRemoveLiquidity
 * beforeSwap / afterSwap
-* beforeDonate / afterDonate\
-
+* beforeDonate / afterDonate<br>
 
 These allow to implement highly customizable and modular behavior through hooks.
 
@@ -60,8 +57,7 @@ Example Flow (CAKE Fee Discount):
 1. A user initiates a swap.
 2. The hook checks their CAKE balance via `beforeSwap` hook callback.
 3. If the user holds enough CAKE as per defined thresholds, they get a 50% discount on pool fees.
-4. The rest of the transaction proceeds as usual.\
-
+4. The rest of the transaction proceeds as usual.<br>
 
 {% hint style="success" %}
 These hooks don’t need a special UI or additional interaction. The benefits are applied automatically.
@@ -102,7 +98,6 @@ Hooks unlock limitless possibilities, including:
 * Automated trading strategies, liquidity management
 * On-chain limit orders, other order types
 * Dynamic pricing and fee adjustments
-* Yield-enhancing LP strategies\
-
+* Yield-enhancing LP strategies<br>
 
 With hooks, developers can build an entirely new DeFi experience using the existing infrastructure of PancakeSwap Infinity — speeding up development and lowering costs.

@@ -12,7 +12,7 @@ Our commission structure is as follows:
 * includes at least **1 major token** (i.e., BNB, BTC, BUSD, ETH, USDT and/or USDC)
 * Limited to swap trades on **BNB Smart Chain and Ethereum chain only**
 
-**\*\***Perpetuals are prohibited from certain jurisdiction, please ensure you are eligible to trade derivatives on this platform.
+**\*\***&#x50;erpetuals are prohibited from certain jurisdiction, please ensure you are eligible to trade derivatives on this platform.
 
 \*\*\*Trading fees on perpetual trades (or any Referral’s position which may incur liquidation fees) do not include any liquidation fees for liquidating your Referrals’ position. Limited to perpetual trades on **BNB Smart Chain and Ethereum chain only.**
 
@@ -22,4 +22,4 @@ Payment will be paid out to affiliates whose users have accumulated qualified tr
 
 You can keep an eye on your earnings from the [Dashboards page](https://pancakeswap.finance/affiliates-program/dashboard) (coming soon!) You’ll also be able to redeem your commissions once a month on the same page. A guide will be posted here on the redemption process.
 
-\
+<br>

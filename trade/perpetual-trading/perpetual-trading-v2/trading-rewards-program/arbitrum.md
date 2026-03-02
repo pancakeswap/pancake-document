@@ -42,4 +42,4 @@ Terms and Conditions
 
 Risk Warning: Crypto futures trading carries a substantial risk. All trading activities are done at your discretion and at your own risk. The information here should not be regarded as financial or investment advice from PancakeSwap/ApolloX. PancakeSwap/ApolloX will not be liable for any loss that might arise from your use of PancakeSwap/ApolloX.
 
-\
+<br>

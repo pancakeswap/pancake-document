@@ -62,4 +62,4 @@ On iPhone, you may need to manually switch between wallet apps and Telegram. Ple
 
 Unfortunately Telegram mini app only supports mobile wallets at the moment.
 
-\
+<br>

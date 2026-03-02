@@ -19,14 +19,13 @@ Like “Trading Competition”, the trading reward program is hosted in individu
 To check if there is an ongoing campaign. You can:
 
 * Check on the [Trading Reward page](https://pancakeswap.finance/trading-reward) directly
-*   Check the [PancakeSwap homepage](https://pancakeswap.finance/) for the event banner\
-
+*   Check the [PancakeSwap homepage](https://pancakeswap.finance/) for the event banner<br>
 
     <figure><img src="../../../../.gitbook/assets/rebate-homepage.png" alt=""><figcaption></figcaption></figure>
 *   Look for the 💝 icon from the “Hot Token” list on the [Swap page](https://pancakeswap.finance/swap). Or use the filter to check pairs with trading rewards.
 
     <figure><img src="../../../../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
-* Check out our [social media channels](broken-reference).
+* Check out our [social media channels](/broken/pages/QqND39S2UhktBbu09Doj).
 
 ## Check if your address is eligible <a href="#ced8a6c5-803a-4a60-80d0-44e823571d84" id="ced8a6c5-803a-4a60-80d0-44e823571d84"></a>
 

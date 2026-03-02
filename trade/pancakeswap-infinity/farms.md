@@ -4,8 +4,7 @@ PancakeSwap Infinity farming is a simple, gas-efficient way for users to earn li
 
 #### ⚙️ How It Works
 
-Here’s a quick breakdown of how the system tracks and distributes rewards:\
-
+Here’s a quick breakdown of how the system tracks and distributes rewards:<br>
 
 **✅ No Staking Required**
 

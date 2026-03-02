@@ -21,8 +21,7 @@ If you have a position with a profit of $100, a share rate of 15%, and a notiona
 
 Closing fee rate = Max(100 \* 15% / 600, 0.03%) = 0.03%
 
-In this case, the closing fee rate would be 0.03%, the minimum closing fee rate.\
-
+In this case, the closing fee rate would be 0.03%, the minimum closing fee rate.<br>
 
 Note:
 

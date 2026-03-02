@@ -44,12 +44,10 @@ First, click the “Enable” buttons to enable deposits.
 
 Then, click “Restake” buttons to restake the LP tokens into the new contract.
 
-*   For V2 and StableSwap farms, you need to define the number of LP tokens you want to restake in the new pop-up modal. \
-
+*   For V2 and StableSwap farms, you need to define the number of LP tokens you want to restake in the new pop-up modal. <br>
 
     We recommend to restake all of your LP tokens to ensure you are earning the maximum yield available.
-*   For Position Managers, simply confirm the tx in your wallet, all of your Position Managers LPs will be restaked into the new contracts. \
-
+*   For Position Managers, simply confirm the tx in your wallet, all of your Position Managers LPs will be restaked into the new contracts. <br>
 
     Since Position Manager LPs can not be processed separately, we strongly recommend to restake ALL position managers LP into the new contracts.
 

@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # ✖️ PancakeSwap X
 
 PancakeSwap X introduces a whole new way to trade your favourite assets on PancakeSwap by aggregating a wide range of third-party liquidity and building straight into the popular PancakeSwap dApp. It enables more assets to trade, deeper liquidity, gas-less swaps, and much more:

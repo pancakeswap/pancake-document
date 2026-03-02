@@ -12,4 +12,4 @@ To ensure clarity in responsibilities, the program is structured into distinct r
 
 🎤 Events (Online & Offline) – Ambassadors can organize and participate in workshops, meetups, and local events to spread awareness and onboard new users to PancakeSwap.
 
-\
+<br>
