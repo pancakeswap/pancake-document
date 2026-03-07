@@ -58,7 +58,7 @@ Win collectible NFTs for participating in trading competitions and more fun & ga
 
 ### Prediction
 
-Win BNB if you can predict whether the BNB price will rise or fall.\
+Win BNB or CAKE, if you can predict whether the BNB or CAKE price will rise or fall.\
 New rounds every 5 minutes!
 
 ### Pottery
