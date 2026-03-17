@@ -4,40 +4,23 @@ hidden: true
 
 # Product Manager
 
-### **General Information**
+**Job Overview:**
 
-* Salary range: Competitive, negotiable
-* Position: Full-time
-* Location: Remote
-* Time-zone preference: Any
+We are seeking a dynamic Product Manager to join our team. In this role, you will be responsible for defining, developing, and executing product strategies that enhance user experience and drive growth. You will work closely with cross-functional teams including engineering, design, marketing, and community to ensure the successful launch and ongoing improvement of our products.
 
-### Your Responsibilities
+**Key Responsibilities:**
 
-Collaborate with internal stakeholders (leads, design, devs, bd, marketing, qa, data, ops) to craft future PancakeSwap products from 0 to 1.
+* **Product Strategy:** Define and communicate the product vision, strategy, and roadmap aligned with the company’s goals.
+* **Market Research:** Conduct competitive analysis and user research to identify trends, customer needs, and opportunities for innovation.
+* **Collaboration:** Work closely with engineering and design teams to deliver high-quality products on time. Facilitate communication between teams to ensure alignment.
+* **User-Centric Design:** Advocate for user experience by incorporating user feedback and usability testing into product development.
+* **Performance Metrics:** Establish and track key performance indicators (KPIs) to measure product success and inform decision-making.
+* **Stakeholder Engagement:** Collaborate with marketing and community teams to develop go-to-market strategies and ensure product adoption.
+* **Continuous Improvement:** Monitor product performance and iterate based on user feedback and market trends.
 
-### Skills & Qualifications
+**Qualifications:**
 
-* 3+ years experience in Crypto/DeFi/DEX and financial services/products.
-* Experience in full flow of product development, including:
-  * Perform market research and identify potential product usecases.
-  * Turn requirements and ideas from other stakeholders in to complete designs.
-  * Visualise userflow with wireframe and assist design to complete the UI/UX.
-  * Assist and work with the dev team to build the product.
-  * Resolve product issues with qa team.
-  * Plan GTM strategies and campaigns with marketing team.
-  * Coordinate with external members from partners.
-  * Help ops team to perform product deployment.
-  * Analyse data and improve product experience with data team.
-* Gather info, provide options to other stakeholders to make critical decisions when needed.
-* Able to work remotely, autonomously with great self initiative.
-
-### Nice to Have
-
-* Technical background of blockchain and Web3. (to assist dev team to plan ahead when designing products. Think inside of the blockchain limitations, but think outside of the box for solutions)
-* Skills for blockchain deep dive, tx debug (to better assist qa and ops)
-* Figma skills (to build pretty mock-ups on your own with a design system)
-* Mandarin (to commuinicate with some other skillful bunnies)
-
-### **How to apply**
-
-Email [hiring@pancakeswap.com](mailto:hiring@pancakeswap.com) with your resume!
+* 2+ years of experience in product management, preferably in the blockchain and Defi fintech space.
+* Strong understanding of DeFi concepts, cryptocurrency markets, and decentralized applications and smart contract
+* Proficiency in product management tools (e.g., Jira, Trello) and analytics platforms (e.g., Google Analytics, Mixpanel).
+* Passion for blockchain technology and a keen interest in emerging trends in the crypto space.
