@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Product Manager
 
 **Job Overview:**
