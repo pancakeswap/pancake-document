@@ -415,7 +415,7 @@ Zerion Wallet’s browser extension provides a seamless way to manage crypto and
 
 * Open source and audited by multiple security firms (Cube53, PeckShield, Trail of Bits, Secfault)
 * Supports BNB Smart Chain by default — no extra configuration needed
-* Built-in swap aggregation and portfolio tracking across 50+ chains
+* Built-in swap aggregation via PancakeSwap and portfolio tracking across 50+ chains
 * Human-readable transaction previews
 * Ledger hardware wallet compatible
 * Available on Chrome, Firefox, and Edge
@@ -423,10 +423,9 @@ Zerion Wallet’s browser extension provides a seamless way to manage crypto and
 **Cons:**
 
 * Cannot interact with BscScan directly
-* Newer in the browser extension space compared to MetaMask
 
 [**Download Zerion Wallet Extension**](https://zerion.io/download) (Automatically detects browser)
-[**Zerion Setup Guide**](https://help.zerion.io/en/articles/6271651-connecting-to-dapps)
+[**Zerion Setup Guide**](https://help.zerion.io/en/articles/9657118-create-your-first-wallet-in-zerion)
 {% endtab %}
 {% endtabs %}
 
