@@ -8,9 +8,7 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Kids - Head Chef ([Twitter](https://x.com/Headchef_pcs))
 
-🐰 Chef Drew - Product Manager
-
-🐰 Chef Miso - Product Manager
+🐰 Chef Miso - Product
 
 🐰 Chef Maroon - BD Lead ([Twitter](https://x.com/ChefMaroon))
 
