@@ -4,7 +4,7 @@ description: '"Don''t call it a roadmap"'
 
 # 🗺️ Roadmap
 
-_Updated on August 15, 2024_
+_Updated on April 13, 2026_
 
 ### Finally, it's a roadmap not a to-do list.
 
@@ -12,20 +12,18 @@ Crypto moves fast, and we move fast too.
 
 Pivoting is a way of life.
 
-That means that we don’t publicly commit to specific timelines, so we can organize our development priorities based on market changes and developer resources.
+That means that we don't publicly commit to specific timelines, so we can organize our development priorities based on market changes and developer resources.
 
-Due to considerations of security and confidentiality, some items are not included in the ‘Cooking In’ section.
+Due to considerations of security and confidentiality, some items are not included in the 'Cooking In' section.
 
 <figure><img src="../.gitbook/assets/telegram-cloud-photo-size-5-6100658967458988041-y.jpg" alt=""><figcaption></figcaption></figure>
 
-### Cooking in Q3
+### Cooking Now
 
-* v4
-* DEX: New Trading Venue
-* Crosschain veCAKE Expansion
-* Web3 Quest Platform
-* UI/UX Revamp
-* Multichain Simple Staking
+* Multichain Expansion (new chains)
+* Infinity (v4) Expansion to more chains
+* DEX Enhancements & Smart Routing Improvements
+* CAKE.PAD Multichain Expansion
 
 ### Done
 
@@ -42,33 +40,34 @@ Due to considerations of security and confidentiality, some items are not includ
 * Multichain Swap & Liquidity
 * Deployment to Aptos Chain
 * Aptos PancakeSwap Bridge
-* v3- Swap & Liquidity Upgrade on BNB chain and Ethereum
+* v3 - Swap & Liquidity Upgrade on BNB chain and Ethereum
 * Market Maker Integration on Ethereum and BNB Chain
-* Expansion to Polygon zkEVM - Swap and Liquidity
+* Expansion to Polygon zkEVM - Swap and Liquidity (now sunset)
 * Expansion to Base - Swap and Liquidity
 * Expansion to Linea - Swap and Liquidity
 * Expansion to Arbitrum One - Swap and Liquidity
 * Expansion to zkSync Era - Swap and Liquidity
 * Expansion to opBNB - Swap
-* Perpetuals v2  to Arbitrum and BNB Chain
+* Expansion to Monad - Swap and Liquidity
+* Expansion to Solana - Swap
+* Perpetuals v2 to Arbitrum and BNB Chain
 * Perps v2 Expansion to Base, and opBNB
-* DEX Enhancement: v4 whitepaper
+* PancakeSwap Infinity (v4) - Deployed on BSC and Base
+* PancakeSwap X - Cross-chain intent-based trading
 * Multichain Perpetual
-
-
-
-
+* Crosschain Swaps via bridge aggregation
+* UI/UX Revamp
 
 #### Earn
 
 * CAKE Staking
   * Fixed-term Staking
   * CAKE Side Pool - Flexible CAKE staking on the side of locked staking
-* Fixed-Term Staking Benefits&#x20;
-  * iCAKE, IFO benefits
-  * vCAKE, weighted voting power
-  * bCAKE, farm yield booster
-  * Events with well-known projects
+* Tokenomics 3.0
+  * veCAKE sunset
+  * CAKE.PAD (simplified IFO replacement)
+  * Increased burn rate (10% to 15%)
+  * CAKE supply cap reduced to 400M
 * Farms
 * Crosschain Farming
 * Syrup Pools
@@ -81,10 +80,9 @@ Due to considerations of security and confidentiality, some items are not includ
 * Syrup Pools on Ethereum
 * Farm Auction
 * Liquid Staking Integration
-* Revenue Sharing Pool
 * Simple Staking Integration
-* vCAKE Update - Gause Design
 * v3 Position Manager
+* Infinity Farms on BSC and Base
 
 #### Win
 
@@ -93,34 +91,24 @@ Due to considerations of security and confidentiality, some items are not includ
   Duo currency with BNB and CAKE\
   with Chainlink Price Chart and Chainlink Keepers
 * Team Battle (Trading Comps as a Service)
-* Pottery\
-  Lottery by staking\
-  New Pottery cohort every month
 * Multichain Prediction
 
 #### NFT
 
-* NFT Market Phase 1 & 2(buy & sell whitelisted NFT collections)
+* NFT Market Phase 1 & 2 (buy & sell whitelisted NFT collections)
 * Customizable User Profile
 * NFT drops
 * Pancake Squad generative NFT collection
-* Mobox Gaming NFT Integration
 
 #### Site Upgrades / CAKE / Other Products
 
 * Mobile-first navigation & site overhaul
 * Analytics: Info site
 * IFO CAKE Pool & IFO 3.0
-* IFO
-  * Private Sales with NFT Utility
-  * cIFO, Private Sales with Pancake Profile points utility
-  * Token vesting
-  * iCAKE integration
 * PCS Mini-Program in Binance App
 * The first Aptos IFO
 * Ambassador Program
 * PancakeSwap Blog
-* vCAKE Product utilities
 * Fiat on Ramp Integration with MoonPay and Mercuryo
 * Affiliate Program
 * Website Revamp
@@ -128,6 +116,6 @@ Due to considerations of security and confidentiality, some items are not includ
 * Notification Services Integrations
 * Affiliates Initiative
 * Hashdit Risk Scanner
-
-
-
+* PostHog Analytics Integration
+* MEV Guard on BNB Chain
+* Social Login / Smart Wallet Integration

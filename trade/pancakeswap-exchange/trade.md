@@ -2,11 +2,11 @@
 
 ![](../../.gitbook/assets/swap-trade-header.png)
 
-[**Token swaps**](https://pancakeswap.finance/swap) on PancakeSwap are a simple way to trade one token for another via automated liquidity pools on BNB Smart Chain, Ethereum and Aptos, and also with market makers when trading tokens on BNB Smart Chain and Ethereum.
+[**Token swaps**](https://pancakeswap.finance/swap) on PancakeSwap are a simple way to trade one token for another via automated liquidity pools across multiple chains including BNB Smart Chain, Ethereum, Arbitrum, Base, Linea, ZKsync, opBNB, Monad, Solana, and Aptos.
 
 ![](<../../.gitbook/assets/image (53).png>)
 
-When you make a token swap (trade) on the [BNB Smart Chain](https://pancakeswap.finance/swap?chain=bsc) or [Ethereum](https://pancakeswap.finance/swap?chain=eth) PancakeSwap Exchange, you will pay trading fees according to the type of liquidity pool your trade is being routed through. You may check the route details by clicking the magnifier icon on the “Route” section.
+When you make a token swap (trade) on PancakeSwap, you will pay trading fees according to the type of liquidity pool your trade is being routed through. You may check the route details by clicking the magnifier icon on the “Route” section.
 
 For Exchange V3 liquidity pools, there are currently four different fee tiers: 0.01%, 0.05%, 0.25%, and 1%.
 

@@ -29,11 +29,11 @@ Here are some reasons you may want to bridge:
 
 ## CAKE, a multichain token
 
-With our multichain expansion and deployment, CAKE is now a multichain token that is native to BNB Chain, but also available across Base, Arbitrum, Solana, Ethereum, ZKsync, Linea, opBNB, Aptos, and Polygon zkEVM.
+With our multichain expansion and deployment, CAKE is now a multichain token that is native to BNB Chain, but also available across Base, Arbitrum, Solana, Ethereum, ZKsync, Linea, opBNB, Aptos, and Monad.
 
 CAKE on any of the other chains is equal to CAKE on BNB Smart Chain. It can always be bridged between these chains at a 1:1 ratio and without any fee in CAKE.
 
-**Please note that there is only one CAKE.** There are no different versions of CAKE on different chains. The total supply of CAKE across all blockchains is capped at 450M, as outlined in this [vote proposal](https://pancakeswap.finance/voting/proposal/0x3e014aab40f6551da9f76da0e62e44e9ece55c4997f220057bf3e42dc8307c2f).
+**Please note that there is only one CAKE.** There are no different versions of CAKE on different chains. The total supply of CAKE across all blockchains is capped at 400M, as outlined in this [vote proposal](https://pancakeswap.finance/voting/proposal/0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5).
 
 ***
 
@@ -83,7 +83,8 @@ We currently integrate with:
 * opBNB
 * ZKsync
 * Linea
-* Polygon zkEVM
+* Monad
+* Solana
 * Aptos (V1 site)
 
 #### Tokens Available for Bridging
@@ -202,4 +203,6 @@ If a transaction is stuck for a long time, check the relevant explorer or reach 
    * `cakeOFT`: `0x3055913c90Fcc1A6CE9a358911721eEb942013A1` ([link](https://basescan.org/address/0x3055913c90Fcc1A6CE9a358911721eEb942013A1#code))
 9. **opBNB**
    * `cakeOFT`: `0x2779106e4F4A8A28d77A24c18283651a2AE22D1C` ([link](https://opbnbscan.com/address/0x2779106e4F4A8A28d77A24c18283651a2AE22D1C?tab=Contract\&p=1))
+10. **Monad**
+    * `cake`: `0xF59D81cd43f620E722E07f9Cb3f6E41B031017a3`
 

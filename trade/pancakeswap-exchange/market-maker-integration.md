@@ -8,7 +8,7 @@ hidden: true
 
 ### Market Maker Integration on Ethereum
 
-PancakeSwap is integrated with market makers on Ethereum and Binance Smart Chain to help traders execute trades at a lower cost.
+PancakeSwap is integrated with market makers on Ethereum and BNB Smart Chain to help traders execute trades at a lower cost.
 
 In addition to the AMM, trades on PancakeSwap can now be routed to designated white-listed market makers if they offer trade execution that is better than the AMM’s current prices. This routing is done automatically by a [Smart Router](smart-router-v2/) so that trades are only routed to market makers when they are actively quoting better prices. Where the AMM is more competitive, traders will be routed to the AMMs for execution.
 
@@ -37,7 +37,7 @@ The following assets are currently supported and may increase/decrease depending
 **On Ethereum**
 
 * **Majors:** WETH, WBTC&#x20;
-* **Stablecoins:** USDT, USDC, DAI, BUSD
+* **Stablecoins:** USDT, USDC, DAI
 * **Other popular ERC-20 assets:** MATIC, DYDX, CRV, LINK, APE, CVX, STG, LDO, SNX, RNDR, FET
 
 **On Binance Smart Chain:**&#x20;

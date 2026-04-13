@@ -70,7 +70,7 @@ Each **CAKE.PAD event** has its **own smart contract**. You can find the contrac
 
 ### Want to Launch Your Own CAKE.PAD event?
 
-Bring your project directly to the **largest community on BNB Smart Chain**.
+Bring your project directly to the **largest community on BNB Smart Chain, Base, and Monad**.
 
 * Tap into PancakeSwap’s massive liquidity and user base
 * Get exposure right from launch

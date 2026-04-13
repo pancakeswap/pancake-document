@@ -37,7 +37,7 @@ On top of that, farmers receive **LP rewards** for providing liquidity. Here's a
 
 ![](https://lh4.googleusercontent.com/rJswz2qvCNTcODcClHxqlLpanSLsfbGtVw75MMPicBN1iKTKCuEYlPuoFAqskoy24DB9JBmATWb8dk3WmY1\_BFDZoS94sWTBZhZrcnG711rC8ltDXPR3gdl8D50eWq\_cfiBriKcl)
 
-In the WBNB/BUSD pair above, we see these values:
+In the WBNB/USDT pair above, we see these values:
 
 **Liquidity:** $387.42M\
 **Volume 24H:** $96.97M\
@@ -50,3 +50,7 @@ In the WBNB/BUSD pair above, we see these values:
     $164,849\*365 = **$60,169,885**
 * We can now use the yearly fees to calculate the **LP rewards APR:** That's **yearly fees** divided by **liquidity:**\
   ($60,169,885/$387,420,000)\*100 = **15.53% LP reward APR**
+
+{% hint style="info" %}
+Note: The values above are example figures for illustration purposes. Actual liquidity and volume numbers vary.
+{% endhint %}
