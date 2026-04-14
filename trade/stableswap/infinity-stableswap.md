@@ -4,7 +4,7 @@
 
 Infinity StableSwap is a pool type within[ PancakeSwap Infinity](https://docs.pancakeswap.finance/trade/pancakeswap-infinity) optimized for swapping assets that should trade near the same price — such as stablecoins (e.g., USDC/USDT) or tightly-pegged assets (e.g., wrapped token pairs, liquid staking tokens, and liquid restaking tokens).
 
-It is powered by a StableSwap hook running on the Infinity architecture, inspired by Curve's StableSwap NG design. It is currently available on BNB Chain, with plans to expand to additional chains in the future.
+It is powered by a StableSwap hook running on the Infinity architecture, inspired by Curve's StableSwap NG design. It is currently available on BNB Chain and Base, with plans to expand to additional chains in the future.
 
 ***
 
@@ -194,4 +194,3 @@ Choose a Pool Parameter Preset — this automatically sets the recommended param
 6\. Click Preview Pool, review your settings, check the confirmation box, then click Create Pool.
 
 <figure><img src="../../.gitbook/assets/unknown (5).png" alt=""><figcaption></figcaption></figure>
-
