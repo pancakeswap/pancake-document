@@ -4,7 +4,7 @@
 
 PancakeSwap (PCS) is the leading multi-chain decentralized exchange (DEX), currently live on:
 
-> BNB Chain, Solana, Base, Arbitrum One, Ethereum, ZKsync Era, Linea, opBNB, Polygon zkEVM, and Aptos
+> BNB Chain, Solana, Base, Arbitrum One, Ethereum, ZKsync Era, Linea, opBNB, Monad, and Aptos
 
 We would love to speak with project teams, potentially introducing you to one of crypto’s largest, most engaged, and active DApps (with over 400k Daily Active Users)!
 

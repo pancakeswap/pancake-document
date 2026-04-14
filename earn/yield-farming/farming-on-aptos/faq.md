@@ -30,6 +30,6 @@ With our multichain expansion and deployment on Aptos. CAKE is now a multichain 
 
 CAKE on Aptos is equal to CAKE on BNB Smart Chain and can always be bridged between two chains with a 1:1 ratio.&#x20;
 
-Please note that there is only one CAKE. There are no different versions of CAKE between different chains. And the total supply of CAKE across all blockchains will be capped at 750M, according to our v2 tokenomic litepaper.
+Please note that there is only one CAKE. There are no different versions of CAKE between different chains. And the total supply of CAKE across all blockchains is capped at 400M, as outlined in this [vote proposal](https://pancakeswap.finance/voting/proposal/0xc98878c812db6a6e9a9574b993be9f2de0a0f89cd8390369c8c6daa09e039073).
 
 To bridge your CAKE to BNB Smart Chain, check out the [CAKE bridging guide](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos/cake-bridging-guide.md).
