@@ -15,7 +15,7 @@ You can play PancakeSwap Prediction on:
 
 ### Summary: How It Works
 
-1. **Choose an asset to bet on**: Currently available on **BNB Chain** for BNBUSD, BTCUSD, and ETHUSD.
+1. **Choose an asset to bet on**: Currently available on **BNB Chain** for BNBUSD, BTCUSD, and ETHUSD. Also deployed on **zkSync** and **Arbitrum** (ETHUSD, currently paused).
 2. **Pick UP or DOWN**: Predict if the asset price will be higher or lower when the “LIVE” phase ends (each round = 5 minutes).
 3. Place your bet amount: Any BNB amount
 4. **Lock in your position**: Once placed, your bet cannot be changed.
@@ -25,7 +25,7 @@ You can play PancakeSwap Prediction on:
 
 ### Mechanics & Fees
 
-* **Supported Chain: BNB Chain**
+* **Supported Chains: BNB Chain, zkSync (paused), Arbitrum (paused)**
 * **Round frequency**: Every **5 minutes** (rolling rounds).
 * **Participation fee**: **3%** of each round’s total prize pool, a portion of which goes to **CAKE buybacks**.
 * **Winnings**: Claim anytime after results are finalized.
