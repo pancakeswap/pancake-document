@@ -20,7 +20,7 @@ You can use a variety of different cross-chain bridges to transfer tokens from E
 In the following tutorials, we are going to demonstrate moving USDT from a variety of different blockchains to BNB Smart Chain, using three different cross-chain bridges.
 
 {% tabs %}
-{% tab title="🥞🌉 Pancake Bridge (recommanded)" %}
+{% tab title="🥞🌉 Pancake Bridge (recommended)" %}
 ![](<../../../.gitbook/assets/image (168).png>)
 
 [**PancakeSwap Bridge**](http://bridge.pancakeswap.finance) — a native asset cross-chain bridge, powered by Stargate.
