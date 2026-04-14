@@ -37,7 +37,7 @@ description: >-
 
 **Q4** Will there be any changes to the user interface or user experience in PancakeSwap Infinity?
 
-**Ans:** Once launched in Q3, users can swap on Infinity through PancakeSwap’s swapping page, just like the usual friendly experience.   For traders and liquidity providers, there will be more options to add liquidity as we support multiple pools, such as CLAMM and LBAMM, with detailed guidance provided upon launch.
+**Ans:** Users can swap on Infinity through PancakeSwap’s swapping page, just like the usual friendly experience. For traders and liquidity providers, there are multiple options to add liquidity as we support multiple pools, such as CLAMM and LBAMM.
 
 **Q5** How can the community get involved in testing or providing feedback for PancakeSwap Infinity?
 
