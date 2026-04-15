@@ -27,7 +27,7 @@ Before you can join a CAKE.PAD event, the only thing you need to prepare is your
 CAKE tokens are used to buy the tokens being offered in the CAKE.PAD event
 
 * If your CAKE is staked in a Syrup Pool, unstake it before the CAKE.PAD event
-* Else, make sure to buy some CAKE tokens in advance and hold them in in your wallet
+* Else, make sure to buy some CAKE tokens in advance and hold them in your wallet
 
 ### Knowing when a CAKE.PAD Event will Start
 
