@@ -32,7 +32,7 @@ Head to: [https://pancakeswap.finance/liquidity/pools](https://pancakeswap.finan
 2. All the liquidity positions you have.
 3. All the legacy farms. If you don't find your previously staked farms in "All Pools" try searching here.
 4. On default the page shows farms and tokens from all the supported chains. Use this drop down to filter pools by networks/chains.
-5. Use this dropdown to filter pools by by tokens.
+5. Use this dropdown to filter pools by tokens.
 6. Use this tab to filter pools by DEX type.
 7. Click the arrow button on APR, TVL, or VOLUME 24H to order the pools with the selected metrics.
 8. Sections for bCAKE - farm yield booster. [Learn more](../../../welcome-to-pancakeswap/vecake-sunset/bcake/)

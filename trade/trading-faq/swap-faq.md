@@ -126,7 +126,7 @@ However, please bear in mind that only active liquidity positions will earn trad
 
 ### Are there any ways to automatically adjust my position so it is always in range and earning fee rewards?
 
-Automatic position managing feature is coming soon to PancakeSwap v3 with one-click liquidity depositing (Zap!). Stay tuned for more detail.
+PancakeSwap supports automatic position management with one-click liquidity depositing (Zap!).
 
 
 
