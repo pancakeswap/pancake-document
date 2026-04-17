@@ -29,7 +29,7 @@ Here are some reasons you may want to bridge:
 
 ## CAKE, a multichain token
 
-With our multichain expansion and deployment, CAKE is now a multichain token that is native to BNB Chain, but also available across Base, Arbitrum, Solana, Ethereum, ZKsync, Linea, opBNB, Aptos, and Polygon zkEVM.
+With our multichain expansion and deployment, CAKE is now a multichain token that is native to BNB Chain, but also available across Base, Arbitrum, Solana, Ethereum, ZKsync, Linea, opBNB, Aptos, and <del style="background:#ffebe9;color:#cf222e;text-decoration:line-through;padding:1px 4px;border-radius:3px">Polygon zkEVM</del><ins style="background:#dafbe1;color:#1a7f37;text-decoration:none;padding:1px 4px;border-radius:3px">Monad</ins>.
 
 CAKE on any of the other chains is equal to CAKE on BNB Smart Chain. It can always be bridged between these chains at a 1:1 ratio and without any fee in CAKE.
 
@@ -83,7 +83,8 @@ We currently integrate with:
 * opBNB
 * ZKsync
 * Linea
-* Polygon zkEVM
+* <del style="background:#ffebe9;color:#cf222e;text-decoration:line-through;padding:1px 4px;border-radius:3px">Polygon zkEVM</del>
+* <ins style="background:#dafbe1;color:#1a7f37;text-decoration:none;padding:1px 4px;border-radius:3px">Monad</ins>
 * Aptos (V1 site)
 
 #### Tokens Available for Bridging
