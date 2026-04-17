@@ -2,11 +2,6 @@
 description: Bridge CAKE between Ethereum, BNB Chain, Aptos, and many more
 ---
 
-<style>
-del.diff { background: #ffebe9; color: #cf222e; text-decoration: line-through; padding: 2px 5px; border-radius: 3px; }
-ins.diff { background: #dafbe1; color: #1a7f37; text-decoration: none; padding: 2px 5px; border-radius: 3px; }
-</style>
-
 # 🌉 Bridging
 
 <figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
@@ -34,7 +29,15 @@ Here are some reasons you may want to bridge:
 
 ## CAKE, a multichain token
 
-With our multichain expansion and deployment, CAKE is now a multichain token that is native to BNB Chain, but also available across Base, Arbitrum, Solana, Ethereum, ZKsync, Linea, opBNB, Aptos, and <del class="diff">Polygon zkEVM</del><ins class="diff">Monad</ins>.
+With our multichain expansion and deployment, CAKE is now a multichain token that is native to BNB Chain, but also available across Base, Arbitrum, Solana, Ethereum, ZKsync, Linea, opBNB, Aptos, and ~~Polygon zkEVM~~Monad.
+
+{% hint style="danger" %}
+**REMOVED:** Polygon zkEVM
+{% endhint %}
+
+{% hint style="success" %}
+**ADDED:** Monad
+{% endhint %}
 
 CAKE on any of the other chains is equal to CAKE on BNB Smart Chain. It can always be bridged between these chains at a 1:1 ratio and without any fee in CAKE.
 
@@ -88,8 +91,8 @@ We currently integrate with:
 * opBNB
 * ZKsync
 * Linea
-* <del class="diff">Polygon zkEVM</del>
-* <ins class="diff">Monad</ins>
+* ~~Polygon zkEVM~~
+* **Monad** 🟢
 * Aptos (V1 site)
 
 #### Tokens Available for Bridging
@@ -198,10 +201,15 @@ If a transaction is stuck for a long time, check the relevant explorer or reach 
    * `cakeOFT`: `0x159df6b7689437016108a019fd5bef736bac692b6d4a1f10c941f6fbb9a74ca6` ([link](https://explorer.aptoslabs.com/account/0x159df6b7689437016108a019fd5bef736bac692b6d4a1f10c941f6fbb9a74ca6/modules/run/oft/set_fee?network=mainnet))
 4. **Arbitrum**
    * `cakeOFT`: `0x1b896893dfc86bb67Cf57767298b9073D2c1bA2c` ([link](https://arbiscan.io/address/0x1b896893dfc86bb67Cf57767298b9073D2c1bA2c))
-5. <del class="diff">**Polygon zkEVM**</del>
-   * <del class="diff">`cakeOFT`: `0x0D1E753a25eBda689453309112904807625bEFBe`</del>
-5. <ins class="diff">**Monad**</ins>
-   * <ins class="diff">`cakeOFT`: `0x7F1232e3AD547f9A6170ab4ea9485C38ed2C3aBb`</ins>
+{% hint style="danger" %}
+**REMOVED:** 5. **Polygon zkEVM**\
+`cakeOFT`: `0x0D1E753a25eBda689453309112904807625bEFBe`
+{% endhint %}
+
+{% hint style="success" %}
+**ADDED:** 5. **Monad**\
+`cakeOFT`: `0x7F1232e3AD547f9A6170ab4ea9485C38ed2C3aBb`
+{% endhint %}
 6. **zkSync**
    * `cakeOFT`: `0x3A287a06c66f9E95a56327185cA2BDF5f031cEcD` ([link](https://explorer.zksync.io/address/0x3A287a06c66f9E95a56327185cA2BDF5f031cEcD#contract))
 7. **Linea**
