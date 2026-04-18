@@ -76,10 +76,10 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Cocoa - Marketing Lead ([Twitter](https://x.com/chef_cocoa_pcs))
 
-🐰 Chef Pixie - Product Marketing Manager
+🐰 Chef Pixie - Product Marketing Manager ([Twitter](https://x.com/chefpixiee))
 
 🐰 Chef Marcus - Social Media ([Twitter](https://x.com/ChefMarcusPCS))
 
-🐰 Chef Popcorn - Community Lead ([Twitter](https://x.com/Chef_Popcornn))
+🐰 Chef Boba - Community ([Twitter](https://x.com/chefboba_pcs))
 
 🐰 Chef Croissant - Events and PR
