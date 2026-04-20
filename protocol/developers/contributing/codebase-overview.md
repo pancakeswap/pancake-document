@@ -11,7 +11,7 @@ All our repositories are stored on [Github](https://github.com/pancakeswap). Mos
 ## Github repositories
 
 * Frontend: The main frontend. It contains all the features that are not listed below.
-  * [sdk](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/swap-sdk) - An SDK for building applications on top of Pancakeswap
+  * [sdk](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/swap-sdk) - An SDK for building applications on top of PancakeSwap
   * [aptos-swap-sdk](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/aptos-swap-sdk) - Aptos version of Swap SDK
   * [swap-sdk-core](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/swap-sdk-core) - Swap SDK Shared code
   * [wagmi](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/wagmi) - Extension for [wagmi](https://github.com/wagmi-dev/wagmi), including bsc chain and binance wallet connector
