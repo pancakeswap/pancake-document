@@ -118,7 +118,7 @@ Please not that if the price moves back in the range, you will start receiving t
 
 ### Is it better to always provide liquidity with a smaller range?
 
-Providing liquidity to a smaller price range will help concentrate your liquidity to a spesific price range, boosting your relative shares again the total liquidity within the price range, potentially earning more trading fee rewards.
+Providing liquidity to a smaller price range will help concentrate your liquidity to a specific price range, boosting your relative shares again the total liquidity within the price range, potentially earning more trading fee rewards.
 
 However, please bear in mind that only active liquidity positions will earn trading fee rewards from trades. This means you will only earn rewards when the current trading price is within the price range defined in the liquidity position.
 
