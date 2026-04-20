@@ -37,7 +37,7 @@ description: >-
 
 **Q4** Will there be any changes to the user interface or user experience in PancakeSwap Infinity?
 
-**Ans:** Once launched in Q3, users can swap on Infinity through PancakeSwap’s swapping page, just like the usual friendly experience.   For traders and liquidity providers, there will be more options to add liquidity as we support multiple pools, such as CLAMM and LBAMM, with detailed guidance provided upon launch.
+**Ans:** Users can swap on Infinity through PancakeSwap’s swapping page, just like the usual friendly experience. For traders and liquidity providers, there are more options to add liquidity as we support multiple pools, such as CLAMM and LBAMM, with detailed guidance available in our docs.
 
 **Q5** How can the community get involved in testing or providing feedback for PancakeSwap Infinity?
 
@@ -45,7 +45,7 @@ description: >-
 
 **Q6** Where can users find more information about PancakeSwap Infinity and stay updated on its development progress?
 
-**Ans:** Visit our official [website](https://pancakeswap.finance/v4?utm_source=v4announcementblog\&utm_medium=blog\&utm_campaign=v4announcementblog\&utm_id=v4announcementblog) , read our [whitepaper](https://github.com/pancakeswap/pancake-v4-core/blob/main/docs/whitepaper-en.pdf) , and follow us on social media for the latest updates and developments.  If you're a developer, join our developer Discord community.\
+**Ans:** Visit our official [website](https://pancakeswap.finance/v4?utm_source=v4announcementblog\&utm_medium=blog\&utm_campaign=v4announcementblog\&utm_id=v4announcementblog) , read our [whitepaper](https://github.com/pancakeswap/infinity-core/blob/main/docs/whitepaper-en.pdf) , and follow us on social media for the latest updates and developments.  If you're a developer, join our developer Discord community.\
 \
 **Q7** What is the licensing mechanism for PancakeSwap Infinity?
 
