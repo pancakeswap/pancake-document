@@ -20,7 +20,7 @@ Then open the [PancakeSwap CAKE Bridge](https://bridge.pancakeswap.finance/)
 
 2 - First, we need to connect our BNB Smart Chain wallet.&#x20;
 
-Click "Connect" and choose the wallet you prefer under the "EVM" section. Then confirm and approve in your wallet popup. (As of writing, only MetaMask is supported. Support for more wallets is coming soon)
+Click "Connect" and choose the wallet you prefer under the "EVM" section. Then confirm and approve in your wallet popup.
 
 ![](../../.gitbook/assets/bridging-wallet-connect-modal.png)
 
@@ -97,7 +97,7 @@ Then open the [PancakeSwap CAKE Bridge](https://bridge.pancakeswap.finance/)
 
 2 - First, we need to connect our BNB Smart Chain wallet.&#x20;
 
-Click "Connect" and choose the wallet you prefer under the "EVM" section. Then confirm and approve in your wallet popup. (As of writing, only MetaMask is supported. Support for more wallets is coming soon)
+Click "Connect" and choose the wallet you prefer under the "EVM" section. Then confirm and approve in your wallet popup.
 
 ![](<../../.gitbook/assets/bridging-wallet-connect-modal (1).png>)
 
