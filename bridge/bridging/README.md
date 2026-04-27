@@ -29,11 +29,11 @@ Here are some reasons you may want to bridge:
 
 ## CAKE, a multichain token
 
-With our multichain expansion and deployment, CAKE is now a multichain token that is native to BNB Chain, but also available across Base, Arbitrum, Solana, Ethereum, ZKsync, Linea, opBNB, Aptos, and Polygon zkEVM.
+With our multichain expansion and deployment, CAKE is now a multichain token that is native to BNB Chain, but also available across Base, Arbitrum, Solana, Ethereum, ZKsync, Linea, opBNB, and Aptos.
 
 CAKE on any of the other chains is equal to CAKE on BNB Smart Chain. It can always be bridged between these chains at a 1:1 ratio and without any fee in CAKE.
 
-**Please note that there is only one CAKE.** There are no different versions of CAKE on different chains. The total supply of CAKE across all blockchains is capped at 450M, as outlined in this [vote proposal](https://pancakeswap.finance/voting/proposal/0x3e014aab40f6551da9f76da0e62e44e9ece55c4997f220057bf3e42dc8307c2f).
+**Please note that there is only one CAKE.** There are no different versions of CAKE on different chains. The total supply of CAKE across all blockchains is capped at 400M, as outlined in this [vote proposal](https://pancakeswap.finance/voting/proposal/0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5).
 
 ***
 
@@ -83,7 +83,6 @@ We currently integrate with:
 * opBNB
 * ZKsync
 * Linea
-* Polygon zkEVM
 * Aptos (V1 site)
 
 #### Tokens Available for Bridging
@@ -156,8 +155,6 @@ Bridge transfers typically complete within a few **minutes**, depending on:
 * Network congestion
 * Bridge provider efficiency
 
-In some cases, it may take longer. For example, outbound transfers from Polygon zkEVM are subject up to a 7-day delay due to block confirmation requirements.
-
 #### Tracking Your Transfer
 
 Once submitted, you can view the transaction status through provider-specific explorers:
@@ -192,14 +189,12 @@ If a transaction is stuck for a long time, check the relevant explorer or reach 
    * `cakeOFT`: `0x159df6b7689437016108a019fd5bef736bac692b6d4a1f10c941f6fbb9a74ca6` ([link](https://explorer.aptoslabs.com/account/0x159df6b7689437016108a019fd5bef736bac692b6d4a1f10c941f6fbb9a74ca6/modules/run/oft/set_fee?network=mainnet))
 4. **Arbitrum**
    * `cakeOFT`: `0x1b896893dfc86bb67Cf57767298b9073D2c1bA2c` ([link](https://arbiscan.io/address/0x1b896893dfc86bb67Cf57767298b9073D2c1bA2c))
-5. **Polygon zkEVM**
-   * `cakeOFT`: `0x0D1E753a25eBda689453309112904807625bEFBe` ([link](https://zkevm.polygonscan.com/address/0x0D1E753a25eBda689453309112904807625bEFBe#code))
-6. **zkSync**
+5. **zkSync**
    * `cakeOFT`: `0x3A287a06c66f9E95a56327185cA2BDF5f031cEcD` ([link](https://explorer.zksync.io/address/0x3A287a06c66f9E95a56327185cA2BDF5f031cEcD#contract))
-7. **Linea**
+6. **Linea**
    * `cakeOFT`: `0x0D1E753a25eBda689453309112904807625bEFBe` ([link](https://explorer.linea.build/address/0x0D1E753a25eBda689453309112904807625bEFBe))
-8. **Base**
+7. **Base**
    * `cakeOFT`: `0x3055913c90Fcc1A6CE9a358911721eEb942013A1` ([link](https://basescan.org/address/0x3055913c90Fcc1A6CE9a358911721eEb942013A1#code))
-9. **opBNB**
+8. **opBNB**
    * `cakeOFT`: `0x2779106e4F4A8A28d77A24c18283651a2AE22D1C` ([link](https://opbnbscan.com/address/0x2779106e4F4A8A28d77A24c18283651a2AE22D1C?tab=Contract\&p=1))
 
