@@ -45,6 +45,5 @@ These are our liquidity requirements across the different chains:
 | Base          | 1 ETH                  | USDC, cbETH, rETH, DAI, crvUSD                            |
 | opBNB         | 1 BNB                  | WBNB, USDT                                                |
 | Arbitrum      | No requirement for now | USDT, USDC, USDC.e, ARB, WBTC, DAI                        |
-| Polygon zkEVM | No requirement for now | WETH, USDC, USDT, MATIC, DAI, WBTC                        |
 | zkSync        | No requirement for now | USDT, USDC, BUSD, WBTC                                    |
 | Linea         | No requirement for now | USDC, USDT, DAI, BUSD, WBTC                               |
