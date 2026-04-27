@@ -8,7 +8,7 @@ In addition to leverage, futures open the possibility of trading in both directi
 
 ### What are the Perpetual Engines available?
 
-Perpetuals Trading V1, our order book perpetual engine, is available on BNB Chain, Ethereum, Arbitrum, and Solana. Order Book Perpetuals are usually found on centralised exchanges, and rely on and established system where buy and sell orders are matched. V1 generally offers better speed. as transactions are settled off-chain. Users deposit their funds into the engine and withdraw funds back to their wallet after all trades.&#x20;
+Perpetuals Trading V1, our order book perpetual engine, is available on BNB Chain, Ethereum, Arbitrum, and Solana. Order Book Perpetuals are usually found on centralised exchanges, and rely on an established system where buy and sell orders are matched. V1 generally offers better speed. as transactions are settled off-chain. Users deposit their funds into the engine and withdraw funds back to their wallet after all trades.&#x20;
 
 Perpetuals Trading V2 is available on BNB Chain, Arbitrum, Base and opBNB chains. On-Chain Perpetuals rely on decentralised blockchains to settle trades which removes a need for a central authority. On-chain Perpetuals provides more transparency and control. Perpetuals V2 also settles trades using the ALP liquidity pools on each chain, providing transparent settlement and allowing users to participate in liquidity provision.
 
