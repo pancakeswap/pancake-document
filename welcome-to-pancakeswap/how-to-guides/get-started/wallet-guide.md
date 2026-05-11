@@ -35,7 +35,7 @@ Smartphone/Mobile wallets allow you to access your crypto almost anywhere. Walle
 
 This comparison table gives an overview of the most popular mobile wallets used with PancakeSwap.
 
-<table><thead><tr><th width="151"></th><th width="114">MetaMask</th><th width="109">Coinbase Wallet</th><th width="145">SafePal</th><th width="115">Trust Wallet</th><th width="98">Token Pocket</th></tr></thead><tbody><tr><td>BNB Smart Chain support</td><td>⚠️</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Built-in DApp browser</td><td>➖</td><td>✅</td><td>✅</td><td>✅ </td><td>✅</td></tr><tr><td>Hardware wallet compatible</td><td>✅</td><td>✅</td><td>✅<br>(Only SafePal)</td><td>➖</td><td>➖</td></tr><tr><td>Open source (auditability)</td><td>✅</td><td>✅</td><td>➖</td><td>✅</td><td>✅</td></tr><tr><td><p>Interact with BscScan Directly</p><p>(for advanced users!)</p></td><td>✅</td><td>➖</td><td>➖</td><td>➖</td><td>➖</td></tr></tbody></table>
+<table><thead><tr><th width="151"></th><th width="114">MetaMask</th><th width="109">Coinbase Wallet</th><th width="145">SafePal</th><th width="115">Trust Wallet</th><th width="98">Token Pocket</th><th width="114">Zerion Wallet</th></tr></thead><tbody><tr><td>BNB Smart Chain support</td><td>⚠️</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Built-in DApp browser</td><td>➖</td><td>✅</td><td>✅</td><td>✅ </td><td>✅</td><td>✅</td></tr><tr><td>Hardware wallet compatible</td><td>✅</td><td>✅</td><td>✅<br>(Only SafePal)</td><td>➖</td><td>➖</td><td>✅</td></tr><tr><td>Open source (auditability)</td><td>✅</td><td>✅</td><td>➖</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td><p>Interact with BscScan Directly</p><p>(for advanced users!)</p></td><td>✅</td><td>➖</td><td>➖</td><td>➖</td><td>➖</td><td>➖</td></tr></tbody></table>
 
 ⚠️ Requires some setup
 
@@ -213,6 +213,31 @@ The genuine PancakeSwap site and staff will never ask you to input your seed phr
 
 Now you have your private key ready to import your wallet into the desktop version of Token Pocket.
 {% endtab %}
+
+{% tab title="Zerion Wallet" %}
+![Zerion Wallet](../../../.gitbook/assets/zerion-wallet-logo.png)
+
+Zerion Wallet is a self-custodial crypto wallet for managing tokens, NFTs, and DeFi positions across 50+ networks including BNB Smart Chain. Available on iOS and Android, it features a built-in DApp browser, swap aggregation across multiple DEXs, and human-readable transaction previews so you always know what you're signing.
+
+**Pros:**
+
+* Open source and audited by multiple security firms (Cube53, PeckShield, Trail of Bits, Secfault)
+* Supports BNB Smart Chain natively — no manual network setup required
+* Built-in DApp browser for easy PancakeSwap access on mobile
+* Swap aggregation sources best prices across multiple DEXs
+* Portfolio tracking across 50+ chains in one view
+* Ledger hardware wallet integration
+* Human-readable transaction previews for safer signing
+* Immunefi bug bounty program for additional security
+
+**Cons:**
+
+* Less widely known than some more established wallets
+* Does not support direct interaction with BscScan
+
+[**Download Zerion Wallet**](https://zerion.io/download) (Automatically detects device)
+[**Zerion Connecting to DApps Guide**](https://help.zerion.io/en/articles/6271651-connecting-to-dapps)
+{% endtab %}
 {% endtabs %}
 
 ## **Desktop/Web Browser wallets**
@@ -223,7 +248,7 @@ Desktop wallets are available on your home computer or laptop computer. Wallets 
 
 This comparison table gives an overview of the most popular desktop wallets used with PancakeSwap.
 
-<table><thead><tr><th width="187"></th><th width="116">MetaMask</th><th width="108">Trust Wallet</th><th width="107">Binance Wallet</th><th width="116">Coinbase Wallet</th><th width="150">Token Pocket</th></tr></thead><tbody><tr><td>BNB Smart Chain support</td><td>⚠️</td><td>✅</td><td>✅</td><td>✅</td><td>⚠️</td></tr><tr><td>Built-in DApp browser</td><td>➖</td><td>✅</td><td>➖</td><td>➖</td><td>✅</td></tr><tr><td>Hardware wallet compatible</td><td>✅</td><td>✅ (Beta)</td><td>✅</td><td>✅</td><td>➖</td></tr><tr><td>Open source (auditability)</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td><p>Interact with BscScan Directly</p><p>(for advanced users!)</p></td><td>✅</td><td>✅</td><td>➖</td><td>➖</td><td>➖</td></tr></tbody></table>
+<table><thead><tr><th width="187"></th><th width="116">MetaMask</th><th width="108">Trust Wallet</th><th width="107">Binance Wallet</th><th width="116">Coinbase Wallet</th><th width="150">Token Pocket</th><th width="114">Zerion Wallet</th></tr></thead><tbody><tr><td>BNB Smart Chain support</td><td>⚠️</td><td>✅</td><td>✅</td><td>✅</td><td>⚠️</td><td>✅</td></tr><tr><td>Built-in DApp browser</td><td>➖</td><td>✅</td><td>➖</td><td>➖</td><td>✅</td><td>➖</td></tr><tr><td>Hardware wallet compatible</td><td>✅</td><td>✅ (Beta)</td><td>✅</td><td>✅</td><td>➖</td><td>✅</td></tr><tr><td>Open source (auditability)</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td><p>Interact with BscScan Directly</p><p>(for advanced users!)</p></td><td>✅</td><td>✅</td><td>➖</td><td>➖</td><td>➖</td><td>➖</td></tr></tbody></table>
 
 ⚠️ Requires additional setup
 
@@ -379,6 +404,28 @@ Please be extremely careful with how you handle your private keys. Giving your p
 ![](https://lh5.googleusercontent.com/g_iZzJZAPhsBQUBgQqTvLO1HfuGnCGZDkRD3DFu4g4GPat901700Qk3aBx8Fx5AzY2PH7JYajGM4-4fXm6icPWB-8R5wQQst-W3NWJ6n0Rh_bbPKXnXrO4h_JEgu7wtey11EuCN-)
 
 And that’s it, all done! You can follow our [Connect Your Wallet to PancakeSwap guide](https://docs.pancakeswap.finance/get-started/connection-guide) to connect to BNB Smart Chain and PancakeSwap.
+{% endtab %}
+
+{% tab title="Zerion Wallet" %}
+![Zerion Wallet](../../../.gitbook/assets/zerion-wallet-logo.png)
+
+Zerion Wallet’s browser extension provides a seamless way to manage crypto and connect to DApps on BNB Smart Chain and 50+ other networks. It includes portfolio tracking, swap aggregation, and transaction simulation — all from your browser.
+
+**Pros:**
+
+* Open source and audited by multiple security firms (Cube53, PeckShield, Trail of Bits, Secfault)
+* Supports BNB Smart Chain by default — no extra configuration needed
+* Built-in swap aggregation via PancakeSwap and portfolio tracking across 50+ chains
+* Human-readable transaction previews
+* Ledger hardware wallet compatible
+* Available on Chrome, Firefox, and Edge
+
+**Cons:**
+
+* Cannot interact with BscScan directly
+
+[**Download Zerion Wallet Extension**](https://zerion.io/download) (Automatically detects browser)
+[**Zerion Setup Guide**](https://help.zerion.io/en/articles/9657118-create-your-first-wallet-in-zerion)
 {% endtab %}
 {% endtabs %}
 
