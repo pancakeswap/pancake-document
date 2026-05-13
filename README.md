@@ -14,11 +14,11 @@
 
 ### The people's choice
 
-PancakeSwap is a leading decentralized exchange. Available across ten chains: BNB Chain, Ethereum, Solana, Base, Arbitrum, Aptos, ZKsync, Linear, Monad, and opBNB, with the highest trading volumes in the market (sources: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
+PancakeSwap is a leading decentralized exchange. Available across ten chains: BNB Chain, Ethereum, Solana, Base, Arbitrum, Aptos, ZKsync, Linea, Monad, and opBNB, with the highest trading volumes in the market (sources: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
 
 ### Low fees
 
-Why pay more? \
+Why pay more?\
 Trading fees are lower than other top decentralized exchanges too, so that's a win for you!
 
 ### Decentralized
@@ -26,7 +26,7 @@ Trading fees are lower than other top decentralized exchanges too, so that's a w
 Trade directly from your wallet app.\
 Unlike centralized exchanges like Binance or Coinbase, PancakeSwap doesn’t hold your funds when you trade: **you have 100% ownership of your own crypto**.
 
-## &#x20;Earn
+## Earn
 
 > Earn CAKE and other tokens for free with super high interest rates.
 
@@ -52,13 +52,9 @@ No farm? No problem. Even if your trading pair isn’t supported on the Farms pa
 **Millions of dollars** regularly go up for grabs on the PancakeSwap Lottery.\
 Join as many as **11,000 daily players** for your chance to win big!
 
-
-
 ### Prediction
 
 Predict whether BNB, BTC, or ETH price will rise or fall. New rounds every 5 minutes!
-
-
 
 ## Is PancakeSwap safe?
 
