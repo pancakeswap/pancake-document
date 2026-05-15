@@ -8,7 +8,7 @@ description: Trading Reward FAQ
 \[Archived] Trading Reward – As of 23rd August 2024
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/faq-tradingreward (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/faq-tradingreward.png" alt=""><figcaption></figcaption></figure>
 
 ## Generic
 
@@ -27,8 +27,6 @@ The amount of the trading reward is based on the trading fee paid in those trade
 
 If your trades are routed through pairs with a low fee tier, for example, 0.01%, you are paying a very small fee for your trade. Therefore the number of rewards will become lower accordingly.
 
-
-
 ## Top Traders Campaign
 
 #### Do I need to stay within the required ranking for the whole time to win the campaign?
@@ -38,8 +36,6 @@ No, you only need to be ranked higher than the required ranking **at the end of 
 #### What number the ranking is based on?
 
 The ranking is based on the number of rewards each user accumulates by trading. The reward amount equals a fixed % of the trading they pay in the trades.
-
-
 
 ## CAKE Stakers Campaign
 

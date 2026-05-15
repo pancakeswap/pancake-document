@@ -16,13 +16,13 @@ description: >-
 
 5\. The **Enable** button should now be replaced with **Flexible** and **Locked**. Click the button to bring up the staking menu.
 
-![Note that actual values will vary](<../../../../.gitbook/assets/Stake - before enable.png>)
+![Note that actual values will vary](<../../../.gitbook/assets/Stake - before enable.png>)
 
 6\. For Fixed-Term Staking simply press **Locked**, which will present you with a new window, enter the amount of CAKE you wish to stake and for how long you want to lock your CAKE for.
 
 Below that, you will find a summary of your position, including yield, lock duration, and unlock date and time. Double-check to make sure you are okay with the lock duration and amount staked, click **Confirm** and confirm the transaction in your wallet.
 
-![Note that actual values will vary](<../../../../.gitbook/assets/first time lock.png>)
+![Note that actual values will vary](<../../../.gitbook/assets/first time lock.png>)
 
 Please note that we are still refining our UI including more precise unlock durations and a possible countdown.
 
@@ -38,15 +38,15 @@ A user staked 1,438.45 CAKE in fixed-term staking with an initial lock duration 
 
 On 18th June 2022 (6 weeks later, 4 weeks until the user's CAKE unlocks), the user decides they want to add 5 weeks to their lock duration.
 
-1\. Navigate to the CAKE Syrup Pool and click **Extend**.&#x20;
+1\. Navigate to the CAKE Syrup Pool and click **Extend**.
 
-![Note that actual values will vary](<../../../../.gitbook/assets/Locked - in the lock (1).png>)
+![Note that actual values will vary](<../../../.gitbook/assets/Locked - in the lock.png>)
 
 2\. Select the duration you would like to add (5 weeks in this example).\
 \
 Note that your new lock duration will equal your initial lock duration of 10 weeks plus the added 5 weeks for a new lock duration of 15 weeks.
 
-![Note that actual values will vary](<../../../../.gitbook/assets/Adjust Lock - add duration.png>)
+![Note that actual values will vary](<../../../.gitbook/assets/Adjust Lock - add duration.png>)
 
 3\. Double-check to make sure you are okay with the new extended lock duration and click **Confirm**.
 
@@ -64,13 +64,13 @@ A user staked 1,438.45 CAKE in fixed-term staking with an initial lock duration 
 \
 On 18th June 2022 (6 weeks later, 4 weeks until the user's CAKE unlocks), the user decides they want to add 100 CAKE to locked balance.
 
-1\. Navigate to the CAKE Syrup Pool and click **Add CAKE**.&#x20;
+1\. Navigate to the CAKE Syrup Pool and click **Add CAKE**.
 
-![Note that actual values will vary](<../../../../.gitbook/assets/Locked - in the lock.png>)
+![Note that actual values will vary](<../../../.gitbook/assets/Locked - in the lock.png>)
 
 2\. Select the amount of CAKE you would like to add to your locked balance (for this example, we are adding 100 CAKE which is our max wallet balance). Note that your yield boost is lower than the initial yield boost because it is calculated using a 4 week lock duration instead of the initial 10 week lock duration.
 
-![Note that actual values will vary](<../../../../.gitbook/assets/Adjust Lock - add CAKE.png>)
+![Note that actual values will vary](<../../../.gitbook/assets/Adjust Lock - add CAKE.png>)
 
 2.1. Alternatively, users can check the box next to "Renew and extend your lock to keep similar benefits." to maintain a similar yield boost setting the lock duration equal to the initial lock duration (in this example, 10 weeks).
 

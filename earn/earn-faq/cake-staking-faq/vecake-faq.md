@@ -4,7 +4,7 @@ hidden: true
 
 # veCAKE FAQ
 
-<figure><img src="../../../.gitbook/assets/image (352).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (340).png" alt=""><figcaption></figcaption></figure>
 
 #### What’s the difference between locked CAKE and veCAKE? <a href="#bb73a991-c71b-402c-a0c3-64b8666626c2" id="bb73a991-c71b-402c-a0c3-64b8666626c2"></a>
 
@@ -146,7 +146,7 @@ https://bscscan.com/address/0xe6cdC66A96458FbF11F632B50964153fBDa78548#writeCont
 
 #### Why there are multiple APRs?
 
-Locking CAKE to get veCAKE provides a number of great benefits around the suite of products built by PancakeSwap. Benefits and incentives come in different forms and from different sources. Therefore, there are multiple APRs.&#x20;
+Locking CAKE to get veCAKE provides a number of great benefits around the suite of products built by PancakeSwap. Benefits and incentives come in different forms and from different sources. Therefore, there are multiple APRs.
 
 You can earn all of them concurrently therefore the combined APR will be the sum of all the APRs.
 
@@ -162,4 +162,4 @@ To increase the emission to this gauge, check out [Gauge Voting](../../../welcom
 
 This is the incentive coming from protocol revenue sharing, coming from swap fees collected in DEX products.
 
-Check out [Revenue Sharing](/broken/pages/wQegezs7c6A2HzQjPEjh) for more info.&#x20;
+Check out [Revenue Sharing](/broken/pages/wQegezs7c6A2HzQjPEjh) for more info.

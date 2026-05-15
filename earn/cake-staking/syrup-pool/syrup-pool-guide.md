@@ -14,13 +14,11 @@ It's simpler than farming with PancakeSwap's Yield Farms because unlike the Farm
 
 1\. Go to the Pools page [here](https://pancakeswap.finance/pools).
 
-![](<../../../.gitbook/assets/1-how-to-stake-in-syrup-pool (4).png>)
+![](../../../.gitbook/assets/1-how-to-stake-in-syrup-pool.png)
 
 2\. Connect to your BNB Smart Chain-compatible wallet by clicking the **Connect** button (top right-hand side).
 
-![](<../../../.gitbook/assets/2-how-to-stake-in-syrup-pool (2).png>)
-
-
+![](../../../.gitbook/assets/2-how-to-stake-in-syrup-pool.png)
 
 3\. Choose your wallet and connect.
 
@@ -28,9 +26,7 @@ It's simpler than farming with PancakeSwap's Yield Farms because unlike the Farm
 
 4\. Choose which Syrup Pool you want to stake in.
 
-![](<../../../.gitbook/assets/4-how-to-stake-in-syrup-pool (1).png>)
-
-
+![](../../../.gitbook/assets/4-how-to-stake-in-syrup-pool.png)
 
 **IFO CAKE** automatically compounds your rewards: any CAKE you earn will be harvested and re-invested in the same pool for you. You can also earn IFO Credit during the calculation period.
 

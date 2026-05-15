@@ -1,5 +1,6 @@
 # 📈 Perpetual Trading
 
-The bunnies have rubbed their paws and worked very hard in conjunction with Aster (prev. ApolloX) to bring this new feature to PancakeSwap. Trade your favorite pairs in a decentralized way on the site! Without intermediaries, easy, fast, safe and within reach of your legs, well, hands.
+The PancakeSwap team has partnered with Aster to bring a fully rebuilt perpetuals experience to PancakeSwap. Trade your favorite pairs directly from your wallet — no intermediaries, no bridging, no account setup. Just fast, onchain execution within reach.
 
-Oh, and before we forget, this new feature helps the weekly burning of CAKE 🔥
+And yes — trading on PCS Perps contributes to CAKE burn. 🔥
+

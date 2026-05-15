@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Dumb Mode
 
 ### Overview
@@ -6,7 +10,7 @@
 
 ### How It Works
 
-Users are given a selection of 5-minute, 15-minute, 30-minute and 1-hour expiration windows with different return-on-investment ratios. Users can choose to long or short an underlying asset.&#x20;
+Users are given a selection of 5-minute, 15-minute, 30-minute and 1-hour expiration windows with different return-on-investment ratios. Users can choose to long or short an underlying asset.
 
 At the end of the expiration period, if the underlying asset is in a winning position (price greater than open price for long, price lower than open price for short), users will stand to profit.
 
@@ -21,8 +25,6 @@ Each expiration period has a different return-on-investment (ROI). The longer th
 
 \*Winning ROI may be adjusted occasionally depending on market conditions. Please check this page for any updates
 
-
-
 For example, in the following scenario:
 
 * Position Selected: Long
@@ -31,7 +33,7 @@ For example, in the following scenario:
 * BTCUSD price at open: $50,000
 * BTCUSD price after 60s: $50,001
 
-User will profit **100USDT \* 75%= 75USDT**&#x20;
+User will profit **100USDT \* 75%= 75USDT**
 
 For more information on how to open a Dumb Mode position, click [here](dumb-mode-guide.md).
 

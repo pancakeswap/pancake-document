@@ -41,7 +41,7 @@ Smartphone/Mobile wallets allow you to access your crypto almost anywhere. Walle
 
 This comparison table gives an overview of the most popular mobile wallets used with PancakeSwap.
 
-<table><thead><tr><th width="283.4285714285714"></th><th width="148">SafePal</th><th>Trust Wallet</th><th>Blocto</th></tr></thead><tbody><tr><td>Aptos Chain support</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Built-in DApp browser</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Hardware wallet compatible</td><td><p>✅ </p><p>(Only SafePal)</p></td><td>➖</td><td>➖</td></tr><tr><td>Open source (auditability)</td><td>➖</td><td>✅</td><td>➖</td></tr></tbody></table>
+<table><thead><tr><th width="283.4285714285714"></th><th width="148">SafePal</th><th>Trust Wallet</th><th>Blocto</th></tr></thead><tbody><tr><td>Aptos Chain support</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Built-in DApp browser</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Hardware wallet compatible</td><td><p>✅</p><p>(Only SafePal)</p></td><td>➖</td><td>➖</td></tr><tr><td>Open source (auditability)</td><td>➖</td><td>✅</td><td>➖</td></tr></tbody></table>
 
 You can find more in-depth information about each wallet below, as well as download links and installation guides.
 
@@ -63,7 +63,7 @@ You can find more in-depth information about each wallet below, as well as downl
 * Does not give user notifications
 * Does not enforce strong security during initial setup and wallet creation
 
-​[**Download SafePal**](https://safepal.io/download) (Automatically detects device) \
+​[**Download SafePal**](https://safepal.io/download) (Automatically detects device)\
 [**SafePal Setup Guide for Aptos**](https://safepalsupport.zendesk.com/hc/en-us/articles/10061372532891-How-to-add-send-Aptos-mainnet-coin-APT-with-SafePal-Software-Wallet)
 {% endtab %}
 
@@ -97,7 +97,7 @@ Blocto offers a user-friendly solution and an all-in-one package for using Dapps
 
 **Highlights:**
 
-* Supports both BNB Chain and Aptos Chain and other major crypto networks out-of-the-box.&#x20;
+* Supports both BNB Chain and Aptos Chain and other major crypto networks out-of-the-box.
 * Easy to set up.
 * Supports both iOS and Android.
 * Email login.
@@ -112,23 +112,19 @@ Blocto offers a user-friendly solution and an all-in-one package for using Dapps
 
 [**Download Blocto Wallet**](https://portto.com/download)
 
-### **Blocto Wallet Setup Guide**
+#### **Blocto Wallet Setup Guide**
 
 1 - Set up by entering your Email address. Then enter the one-time password received by Email.
 
-![](../../../.gitbook/assets/blocto-setup-guide-mobile-1.png)![](../../../.gitbook/assets/blocto-setup-guide-mobile-2.png)
-
-
+![](../../../.gitbook/assets/blocto-setup-guide-mobile-1.png) ![](../../../.gitbook/assets/blocto-setup-guide-mobile-2.png)
 
 2 - Click the plus button, then choose "APT - Aptos"
 
-![](../../../.gitbook/assets/blocto-setup-guide-mobile-3.png)![](<../../../.gitbook/assets/blocto-setup-guide-mobile-4 (1).png>)
-
-
+![](../../../.gitbook/assets/blocto-setup-guide-mobile-3.png) ![](../../../.gitbook/assets/blocto-setup-guide-mobile-4.png)
 
 3 - Done! You can now deposit APT into the Aptos wallet and start using PancakeSwap on Aptos by going to the "Discover" page!
 
-![](../../../.gitbook/assets/blocto-setup-guide-mobile-6.png)![](../../../.gitbook/assets/blocto-setup-guide-mobile-7.png)
+![](../../../.gitbook/assets/blocto-setup-guide-mobile-6.png) ![](../../../.gitbook/assets/blocto-setup-guide-mobile-7.png)
 {% endtab %}
 {% endtabs %}
 
@@ -219,17 +215,11 @@ Fewcha is a trusted crypto wallet optimized for Aptos and SUI ecosystem that unl
 * EBCI Protocol - a protocol that prevents multiple pop-ups when interacting with dApp, it’ll help users manage what dApp they are signing for a transaction.
 * Support Hardware Wallet Connection (Keystone Wallet)
 
-
-
 [**Download FewCha Wallet**](https://fewcha.app/)
 
+#### **Fewcha wallet setup guide**
 
-
-### **Fewcha wallet setup guide**
-
-
-
-1\.  Once Fewcha Wallet extension finishes downloading, a welcome tab will appear. Here you can select “Create a new wallet” (or “Use an existing wallet” if you’ve already had one.)
+1\. Once Fewcha Wallet extension finishes downloading, a welcome tab will appear. Here you can select “Create a new wallet” (or “Use an existing wallet” if you’ve already had one.)
 
 <figure><img src="https://lh5.googleusercontent.com/xzkPxptL1JdM_IcX3jEH8J1JpEC9uWabA5QUJzKBRIqszgGeOUh67QuQx7Y6BCzv1UIXshZuxrCCgZe6wYhxCZ4JbjcbtYIdP_zO9A6VDiQgypsbr2wlvqUjhioyPsRDVOYTBJv_smcjhODx3zHnqrTvxiJzWMhZa3e4TvG3lfAqFtE6-47N08s" alt=""><figcaption></figcaption></figure>
 
@@ -239,13 +229,13 @@ Fewcha is a trusted crypto wallet optimized for Aptos and SUI ecosystem that unl
 
 <figure><img src="../../../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
 
-> * Safely backup your recovery phrases. If you lose your recovery phrase, you may lose access to your wallet and the crypto within it forever.&#x20;
+> * Safely backup your recovery phrases. If you lose your recovery phrase, you may lose access to your wallet and the crypto within it forever.
 > * **NEVER** share your recovery phrases with anyone, under any circumstances.
 > * **NEVER** input your recovery phrase to a website or app, other than your wallet ap&#x70;**.**
 
 <figure><img src="../../../.gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
 
-4\. Click Finish to complete this setup process. And done! Once your wallet is created, you can access it at any time by clicking on the Fewcha Wallet icon on the extension bar.&#x20;
+4\. Click Finish to complete this setup process. And done! Once your wallet is created, you can access it at any time by clicking on the Fewcha Wallet icon on the extension bar.
 
 <figure><img src="../../../.gitbook/assets/image (324).png" alt=""><figcaption></figcaption></figure>
 
@@ -259,7 +249,7 @@ Blocto offers a user-friendly solution and an all-in-one package for using Dapps
 
 **Highlights:**
 
-* Supports both BNB Chain and Aptos Chain and other major crypto networks out-of-the-box.&#x20;
+* Supports both BNB Chain and Aptos Chain and other major crypto networks out-of-the-box.
 * No app or extension is required for using on desktop.
 * Supports both desktop and mobile.
 * Email login.
@@ -272,25 +262,19 @@ Blocto offers a user-friendly solution and an all-in-one package for using Dapps
 * Custodial model
 * A bit complicated if you want to export your private key and manage it or use it in other wallets. [Tutorial](https://portto.zendesk.com/hc/en-us/articles/4411564072217-Can-I-export-my-private-key-from-Blocto-and-use-it-in-Metamask-Phantom-Trust-Wallet-).
 
-### **Blocto wallet setup guide**
+#### **Blocto wallet setup guide**
 
 1 - After selecting "Blocto" in the wallet connection window, you should be presented with a sign-in window. Type in your Email address and click "Register". If you have previously setup a Blocto account, please type in the Email address and click "sign in".
 
 ![](<../../../.gitbook/assets/blocto-setup-desktop-1 (1).png>)
 
-
-
 2 - Then enter the one-time password received by Email.
 
 ![](../../../.gitbook/assets/blocto-setup-desktop-2.png)
 
-
-
 3 - Click "Create Aptos wallet". Then click "Confirm" to connect.
 
-![](../../../.gitbook/assets/blocto-setup-desktop-3.png)![](../../../.gitbook/assets/blocto-setup-desktop-4.png)
-
-
+![](../../../.gitbook/assets/blocto-setup-desktop-3.png) ![](../../../.gitbook/assets/blocto-setup-desktop-4.png)
 
 4 - Done! Please note that you will need to fund your Aptos address with APT to start using PancakeSwap on Aptos. If you want to access the same account on other devices, simply sign in using the same Email address.
 {% endtab %}

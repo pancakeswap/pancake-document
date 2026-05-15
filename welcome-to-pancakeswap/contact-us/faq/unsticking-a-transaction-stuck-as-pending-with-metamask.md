@@ -16,8 +16,6 @@ This method works by essentially overwriting the stuck transaction with another,
 
 ![](../../../.gitbook/assets/1-1-MetaMask_plugin.png)
 
-
-
 2\. Click on the colorful circle icon on the top-right and click **Settings** from the dropdown menu.
 
 ![](<../../../.gitbook/assets/1-2-MetaMask_settings (1).png>)
@@ -28,7 +26,7 @@ This method works by essentially overwriting the stuck transaction with another,
 
 4\. Scroll down until you see **Advanced gas controls**. Toggle this to ON.
 
-![](<../../../.gitbook/assets/1-4-MetaMask_gas_control_on (1).png>)
+![](../../../.gitbook/assets/1-4-MetaMask_gas_control_on.png)
 
 5\. Still in Advanced settings, keep scrolling until you see **Customize transaction nonce**. Toggle this to ON.
 
@@ -56,11 +54,11 @@ Now we’re going to make a new transaction to replace the stuck one. We’ll cu
 
 ![](<../../../.gitbook/assets/image (176).png>)
 
-8\. Create a new transaction to replace your stuck transaction. This time around, increase the **Transaction Fee**. Here we’ve increased it from 9 to 20. This will make it more likely for  your transaction to be added to a block.
+8\. Create a new transaction to replace your stuck transaction. This time around, increase the **Transaction Fee**. Here we’ve increased it from 9 to 20. This will make it more likely for your transaction to be added to a block.
 
 ![](<../../../.gitbook/assets/image (34).png>)
 
-9\. On the confirmation page, make sure your Gas Price is now at your new, higher amount.&#x20;
+9\. On the confirmation page, make sure your Gas Price is now at your new, higher amount.
 
 10\. Find the **CUSTOM NONCE** entry and change the nonce to the number you wrote down in step 7. Now click Confirm.
 

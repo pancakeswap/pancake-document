@@ -10,23 +10,23 @@ description: Receive your DeFi updates all in one place!
 
 Web3 Notifications represent a leap forward in interacting with platforms for the latest news and updates. Integrated seamlessly into PancakeSwap, these notifications bring a host of benefits. Partnering with WalletConnect, we've launched the Notifications (BETA) for our users to access their DeFi news, updates and important actions all in one window. Please note that Web3 Notifications is still in BETA and will undergo further changes and developments in the coming months.
 
-**Web3 Notifications Benefits:**&#x20;
+**Web3 Notifications Benefits:**
 
 * Stay Updated with Real-Time Alerts: Never miss out on key PancakeSwap events, market trends, product updates, or community news.
-* Prioritize What Matters to You:  Selecting topics, products, and categories based on their relevance to you. Tailor your notifications with a variety of filters.
-* Direct and Actionable Links: Respond quickly to crucial updates directly from your notifications, as each notification comes with a direct link.&#x20;
+* Prioritize What Matters to You: Selecting topics, products, and categories based on their relevance to you. Tailor your notifications with a variety of filters.
+* Direct and Actionable Links: Respond quickly to crucial updates directly from your notifications, as each notification comes with a direct link.
 
 ### How to set up Notifications:
 
-1. Activate with Ease: Visit our[ homepage](https://pancakeswap.finance/). Click the settings icon at the top left of the PancakeSwap menu and select "Allow Notifications".&#x20;
+1. Activate with Ease: Visit our[ homepage](https://pancakeswap.finance/). Click the settings icon at the top left of the PancakeSwap menu and select "Allow Notifications".
 
 <figure><img src="../.gitbook/assets/web-git-feat-web3-notifications-soft-launch.pancake.run__chain=bsc (1).png" alt="" width="362"><figcaption></figcaption></figure>
 
-2. Connect Wallet: Click the Bell icon on the top right and sign a message in your wallet to authorize notifications.&#x20;
+2. Connect Wallet: Click the Bell icon on the top right and sign a message in your wallet to authorize notifications.
 
-<figure><img src="../.gitbook/assets/web-git-feat-web3-notifications-soft-launch.pancake.run__chain=bsc (6) (2).png" alt="" width="433"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/web-git-feat-web3-notifications-soft-launch.pancake.run__chain=bsc (6).png" alt="" width="433"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/web-git-feat-web3-notifications-soft-launch.pancake.run__chain=bsc (4) (4).png" alt="" width="293"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/web-git-feat-web3-notifications-soft-launch.pancake.run__chain=bsc (4).png" alt="" width="293"><figcaption></figcaption></figure>
 
 3. Customize Your Feed: Tailor your notification settings by selecting the drop-down on the left to match your interests and needs.
 

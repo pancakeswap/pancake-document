@@ -19,7 +19,7 @@ The votes in each epoch (E-0) determines the CAKE emission for the next epoch (E
 
 #### Gauge Types
 
-There are two types of gauges - ‘core’ and ‘non-core’. CAKE emissions to the former are controlled by the Kitchen, while the community influences emissions to ‘non-core’ pools by voting with veCAKE.&#x20;
+There are two types of gauges - ‘core’ and ‘non-core’. CAKE emissions to the former are controlled by the Kitchen, while the community influences emissions to ‘non-core’ pools by voting with veCAKE.
 
 1. ‘Core’ gauges include pairs with major tokens and stablecoins (WBTC, ETH, BNB, USDC, USDT, etc.) - the Kitchen will make sure these pairs receive sufficient CAKE rewards as they contribute significantly to the protocol’s revenue
 2. ‘Non-core’ gauges represent all other gauges not classified as ‘core’ gauges
@@ -52,7 +52,7 @@ In the above example:
 * Results for Epoch 1, will be based on the veCAKE balances at 00:00 UTC, 15th.
 * Users whose veCAKE position is unlocking before or equal to 15th, will have 0 veCAKE balance at the snapshot time. Therefore they have no voting power for Epoch 1.
 
-Therefore, to become eligible, you must obtain an active veCAKE position, which unlocks **LATER** than the end/snapshot time of the current epoch.&#x20;
+Therefore, to become eligible, you must obtain an active veCAKE position, which unlocks **LATER** than the end/snapshot time of the current epoch.
 
 In the above example:
 
@@ -85,18 +85,18 @@ Emission cap is a maximum cap on the % weight a gauge can receive, ranging from 
 
 For example:
 
-* A gauge has 10 votes, 2x boost and 15% cap. The total vote is 100.&#x20;
+* A gauge has 10 votes, 2x boost and 15% cap. The total vote is 100.
 * After applying the boost, this gauge will have 20 votes, 20% weight against the total (100).
 * However, since it has a 15% cap, the final % of CAKE rewards this gauge receives in the next epoch will be adjusted to 15%.
 
 #### How are Gauge Boost and Emission Caps determined?
 
-During the process of a gauge application, we ask applicants to propose the value of the boost multiplier and emissions cap % they wish to assign to the gauge. These have to be voted on by veCAKE holders, along with the entire gauge application.&#x20;
+During the process of a gauge application, we ask applicants to propose the value of the boost multiplier and emissions cap % they wish to assign to the gauge. These have to be voted on by veCAKE holders, along with the entire gauge application.
 
 The default option for all gauges is 1.00x multiplier and 5% emission cap. They can be changed with future proposals.
 
 {% hint style="info" %}
-Please note that the voting results are updated weekly. Numbers are calculated based on the veCAKE balances at 00:00 UTC, the coming Thursday.  &#x20;
+Please note that the voting results are updated weekly. Numbers are calculated based on the veCAKE balances at 00:00 UTC, the coming Thursday.
 {% endhint %}
 
 ### 4 - Add gauges to vote
@@ -111,7 +111,7 @@ To quickly locate a gauge, you can use filtering to filter gauges by blockchains
 
 ### 5 - Select how much % veCAKE to vote on each gauges
 
-<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 Once you have added the gauges, you may select how much % of your veCAKE goes to each of the gauges.
 

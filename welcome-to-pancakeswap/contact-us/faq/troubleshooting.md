@@ -24,7 +24,7 @@ You're trying to swap tokens, but your slippage tolerance is too low or liquidit
 2. Try trading a smaller amount at one time.
 3. Increase your slippage tolerance:
    1. Tap the settings icon on the liquidity page.
-   2. Increase your slippage tolerance a little and try again. ![](<../../../.gitbook/assets/image (9) (4) (2) (4).png>)
+   2. Increase your slippage tolerance a little and try again. ![](<../../../.gitbook/assets/image (9) (4).png>)
 4. Lastly, try inputting an amount with fewer decimal places.
 {% endtab %}
 
@@ -72,7 +72,7 @@ OK, so you're really determined to fix this. We really don't recommend doing thi
 
 There currently isn't a simple way to solve this issue from the PancakeSwap website: you'll need to interact with the contract directly. You can add liquidity directly via the Router contract, while setting amountAMin to a small amount, then withdrawing all liquidity.
 
-#### **Approve the LP contract**
+**Approve the LP contract**
 
 Head to the contract of the LP token you're trying to approve.\
 For example, here's the ETH/WBNB pair: [https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422](https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422)
@@ -82,7 +82,7 @@ For example, here's the ETH/WBNB pair: [https://bscscan.com/address/0x70d8929d04
    1. spender (address): enter the contract address of the LP token you're trying to interact with
    2. value (uint256): -1
 
-#### Query "balanceOf"
+**Query "balanceOf"**
 
 1. Switch to **Read Contract.**
 2. In **5. balanceOf**, input your wallet address and hit **Query**.
@@ -90,7 +90,7 @@ For example, here's the ETH/WBNB pair: [https://bscscan.com/address/0x70d8929d04
 
 ![](<../../../.gitbook/assets/image (74).png>)
 
-#### Add or Remove Liquidity
+**Add or Remove Liquidity**
 
 Head to the router contract: [https://bscscan.com/address/0x05ff2b0db69458a0750badebc4f9e13add608c7f#writeContract](https://bscscan.com/address/0x05ff2b0db69458a0750badebc4f9e13add608c7f#writeContract)
 
@@ -217,7 +217,7 @@ If you're trading tokens with Restorative Rebase like tau assets tDoge or tBTC, 
 
 You've run out of allowance of your LP token allowance to the MasterChef contract.
 
-**Use token approval manager like unrekt or BscScan to**&#x20;
+**Use token approval manager like unrekt or BscScan to**
 
 ## **Issues with Syrup Pools**
 

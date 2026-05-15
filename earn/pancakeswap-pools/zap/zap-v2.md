@@ -31,7 +31,7 @@ Visit the [Liquidity page](https://pancakeswap.finance/liquidity), and choose �
 
 Pick the trading pair you want to provide liquidity to by selecting two input tokens, checkout [Liquidity guide](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide) to learn more.
 
-![](<../../../.gitbook/assets/zap-1 (1).png>)
+![](../../../.gitbook/assets/zap-1.png)
 
 Click the “Add Liquidity” button to proceed.
 

@@ -28,48 +28,48 @@ In such a scenario, the smart router will automatically route the trade to the m
 
 PancakeSwap does not charge traders any fees executed through us and which are executed by the market makers. However, PancakeSwap receives **0.05%** **trading fees** from whitelisted market makers for volumes executed by them. PancakeSwap receives a reduced **0.01%** **trading fee** if the trades executed are between stablecoin pairs. Please refer to the fee breakdown below:<br>
 
-<table><thead><tr><th width="178">Trades</th><th width="138">Trading Fees</th><th width="182">PCS fee from MM</th><th width="147">Cake Burn</th><th align="center">Pancakeswap Treasury</th></tr></thead><tbody><tr><td>Bridged coins from other networks</td><td>N/A</td><td>0.25%</td><td>0.083%</td><td align="center">0.167%</td></tr><tr><td>Non-stablecoin on Ethereum (e.g. ETH/USDC)</td><td>N/A</td><td>0.05%</td><td>0.017%</td><td align="center">0.033%</td></tr><tr><td>Non-stablecoin on BSC (e.g. BNB/USDT)</td><td>N/A</td><td>0.05%</td><td>0.017% </td><td align="center">0.033%</td></tr><tr><td>Stablecoin to Stablecoin on Ethereum</td><td>N/A</td><td>0.01%</td><td>0.003%</td><td align="center">0.007%</td></tr></tbody></table>
+<table><thead><tr><th width="178">Trades</th><th width="138">Trading Fees</th><th width="182">PCS fee from MM</th><th width="147">Cake Burn</th><th align="center">Pancakeswap Treasury</th></tr></thead><tbody><tr><td>Bridged coins from other networks</td><td>N/A</td><td>0.25%</td><td>0.083%</td><td align="center">0.167%</td></tr><tr><td>Non-stablecoin on Ethereum (e.g. ETH/USDC)</td><td>N/A</td><td>0.05%</td><td>0.017%</td><td align="center">0.033%</td></tr><tr><td>Non-stablecoin on BSC (e.g. BNB/USDT)</td><td>N/A</td><td>0.05%</td><td>0.017% </td><td align="center">0.033%</td></tr><tr><td>Stablecoin to Stablecoin on Ethereum</td><td>N/A</td><td>0.01%</td><td>0.003%</td><td align="center">0.007%</td></tr></tbody></table>
 
-#### Assets currently supported&#x20;
+#### Assets currently supported
 
 The following assets are currently supported and may increase/decrease depending on the market maker(s):
 
 **On Ethereum**
 
-* **Majors:** WETH, WBTC&#x20;
+* **Majors:** WETH, WBTC
 * **Stablecoins:** USDT, USDC, DAI, BUSD
 * **Other popular ERC-20 assets:** MATIC, DYDX, CRV, LINK, APE, CVX, STG, LDO, SNX, RNDR, FET
 
-**On Binance Smart Chain:**&#x20;
+**On Binance Smart Chain:**
 
 * **Majors:** BNB, ETH, BTCB
 * Non-native BNB tokens: ARB, OP
 
-Please note that unlike AMMs, market makers will not be able to trade at any amount and the amounts they are willing to execute will depend on their own liquidity. It is not unusual that sometimes very large orders cannot be totally fulfilled. We advise users to please review the quotes carefully to ensure that each trade reflects the price and quantity according to their needs.&#x20;
+Please note that unlike AMMs, market makers will not be able to trade at any amount and the amounts they are willing to execute will depend on their own liquidity. It is not unusual that sometimes very large orders cannot be totally fulfilled. We advise users to please review the quotes carefully to ensure that each trade reflects the price and quantity according to their needs.
 
-**Market maker downtimes**&#x20;
+**Market maker downtimes**
 
 Market makers are not expected to quote 24-7. There are some instances (e.g. key economic events, system upgrades) where the market maker may be temporarily unavailable to provide a quote. Please note during these periods, these tokens will simply not be tradable, and we advise users to wait for some time before the market maker comes back online.
 
-#### FAQs&#x20;
+#### FAQs
 
-**Q.** Will the market makers be integrated on Aptos?&#x20;
+**Q.** Will the market makers be integrated on Aptos?
 
 **Ans:** Possibly, we are only launching market makers integration on Ethereum and Binance Smart Chain for now to boost the liquidity for a better user experience. We will continue to monitor other chains.
 
-**Q.** How will PancakeSwap generate revenue if it does not charge users a fee?&#x20;
+**Q.** How will PancakeSwap generate revenue if it does not charge users a fee?
 
 **Ans:** PancakeSwap will not charge any fees from users, but PancakeSwap will receive a small commission from market makers and use that to fund the CAKE buyback and burn.
 
-**Q.** Will Liquidity providers continue to earn LP fees?&#x20;
+**Q.** Will Liquidity providers continue to earn LP fees?
 
 **Ans:** Yes, liquidity providers will continue to earn 0.17% trading fee reward (LP fees) and yield on the CAKE farms.
 
-**Q.** Will the market makers add liquidity to the AMM? Will that cause APR to go down?&#x20;
+**Q.** Will the market makers add liquidity to the AMM? Will that cause APR to go down?
 
 **Ans:** Market makers maintain their own separate liquidity, and hence won’t be earning any APR from trades on the AMM. Only LPs will earn fees and APRs from providing liquidity to the AMM pools.
 
-**Q.** I’m providing liquidity on Ethereum PancakeSwap. Do I need to do anything?&#x20;
+**Q.** I’m providing liquidity on Ethereum PancakeSwap. Do I need to do anything?
 
 **Ans:** No, You don’t have to do anything. You will continue to earn the LP fees for the trades executed through AMM and will continue to make the yield in CAKE.
 

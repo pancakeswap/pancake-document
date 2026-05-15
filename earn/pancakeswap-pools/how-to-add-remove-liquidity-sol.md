@@ -82,7 +82,7 @@ Input the token amounts you want to supply
 
 \*\* APR won’t appear until you’ve entered amounts for both tokens
 
-<figure><img src="../../.gitbook/assets/image (395).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (394).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 6: Preview & Confirm
 
@@ -144,7 +144,7 @@ You can either:
 * Manually input the token amounts
 * **OR** use the **slider** to select a percentage of your current position
 
-<figure><img src="../../.gitbook/assets/image (407).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (404).png" alt=""><figcaption></figcaption></figure>
 
 #### 4. (Optional) Keep Your Position Open After Removing Liquidity
 
@@ -152,8 +152,6 @@ If you select **"Keep my position open"** when removing **100%** of your liquidi
 
 * Your tokens will be withdrawn
 * But the position’s history and your original price range will **remain visible** under **My Positions**
-
-
 
 If you wish to **completely close the position**, including its price range display:
 
@@ -166,4 +164,3 @@ If you wish to **completely close the position**, including its price range disp
 You can also **add more liquidity** to the same price range later, following the same steps as when you first added liquidity.
 
 <figure><img src="../../.gitbook/assets/image (409).png" alt=""><figcaption></figcaption></figure>
-

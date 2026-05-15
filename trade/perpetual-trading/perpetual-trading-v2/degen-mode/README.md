@@ -1,8 +1,12 @@
+---
+hidden: true
+---
+
 # Degen Mode
 
 The Degen Trading Mode offers traders an alternative way of trading compared to conventional trading methods. Traders who prefer to reduce screen time analyzing the market and have a more hands-off approach can choose this trading mode. During periods of high volatility, traders can maximize their gains with 0 slippage, high leverage and extremely low fees. In low volatility, traders can speculate on minor price movements.
 
-Initially, Degen Trading Mode will be available for BTCUSD, supporting maximum leverage of 1001x for long and short market orders. Traders must input the principal (collateral amount) before opening a position with zero slippage.&#x20;
+Initially, Degen Trading Mode will be available for BTCUSD, supporting maximum leverage of 1001x for long and short market orders. Traders must input the principal (collateral amount) before opening a position with zero slippage.
 
 Degen mode is available on both BNB Chain, Arbitrum, opBNB and Base chain on Perpetuals V2.
 

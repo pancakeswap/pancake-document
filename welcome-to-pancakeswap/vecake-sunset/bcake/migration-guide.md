@@ -14,8 +14,6 @@ To start boosting your V2, StableSwap or Position Manager liquidity via bCAKE, y
 
 <figure><img src="../../../.gitbook/assets/Group 1410076909.png" alt="" width="189"><figcaption></figcaption></figure>
 
-
-
 Locate the banner at the top of the Farm or Position Manager page, click “Proceed” to start the migration process.
 
 [Go to Farm](https://pancakeswap.finance/farms)
@@ -24,7 +22,7 @@ Locate the banner at the top of the Farm or Position Manager page, click “Proc
 
 ### Unstake your LP tokens from the old contracts
 
-<figure><img src="../../../.gitbook/assets/step1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/step1.png" alt=""><figcaption></figcaption></figure>
 
 In the first step, you will see a full list of V2, StableSwap farms, and position managers that require migration to enjoy bCAKE boosting.
 
@@ -44,10 +42,10 @@ First, click the “Enable” buttons to enable deposits.
 
 Then, click “Restake” buttons to restake the LP tokens into the new contract.
 
-*   For V2 and StableSwap farms, you need to define the number of LP tokens you want to restake in the new pop-up modal. <br>
+*   For V2 and StableSwap farms, you need to define the number of LP tokens you want to restake in the new pop-up modal.<br>
 
     We recommend to restake all of your LP tokens to ensure you are earning the maximum yield available.
-*   For Position Managers, simply confirm the tx in your wallet, all of your Position Managers LPs will be restaked into the new contracts. <br>
+*   For Position Managers, simply confirm the tx in your wallet, all of your Position Managers LPs will be restaked into the new contracts.<br>
 
     Since Position Manager LPs can not be processed separately, we strongly recommend to restake ALL position managers LP into the new contracts.
 

@@ -23,7 +23,7 @@ Yield Farm APR calculations include both:
 
 Why? Because when you stake your LP tokens in a farm to earn CAKE, you're still providing liquidity to the liquidity pool, so you earn LP rewards as well!
 
-![](<../../.gitbook/assets/Frame 1 (2).png>)
+![](<../../.gitbook/assets/Frame 1.png>)
 
 So how do we calculate those figures?
 
@@ -35,7 +35,7 @@ The **Farm Base APR** is calculated according to the farm multiplier and the tot
 
 On top of that, farmers receive **LP rewards** for providing liquidity. Here's an example of calculating **LP rewards**:
 
-![](https://lh4.googleusercontent.com/rJswz2qvCNTcODcClHxqlLpanSLsfbGtVw75MMPicBN1iKTKCuEYlPuoFAqskoy24DB9JBmATWb8dk3WmY1\_BFDZoS94sWTBZhZrcnG711rC8ltDXPR3gdl8D50eWq\_cfiBriKcl)
+![](https://lh4.googleusercontent.com/rJswz2qvCNTcODcClHxqlLpanSLsfbGtVw75MMPicBN1iKTKCuEYlPuoFAqskoy24DB9JBmATWb8dk3WmY1_BFDZoS94sWTBZhZrcnG711rC8ltDXPR3gdl8D50eWq_cfiBriKcl)
 
 In the WBNB/BUSD pair above, we see these values:
 

@@ -1,2 +1,6 @@
-# Perpetual Trading V1
+---
+hidden: true
+---
+
+# Perpetuals V1
 

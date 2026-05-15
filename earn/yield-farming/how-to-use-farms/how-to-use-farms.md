@@ -31,8 +31,6 @@ To create the exact LP position, you'll need to provide liquidity for that tradi
 
 It may sound intimidating, but it's not too complicated. Let's go through it step by step.
 
-
-
 ### **Locate your Farm**
 
 ![](<../../../.gitbook/assets/image (239).png>)
@@ -42,8 +40,6 @@ Before you proceed, you'll want to choose a Farm that's right for you. [Visit th
 You can choose another sorting option, such as by APR, for the Farms with the highest reward rate currently. Please note that the APRs are calculated globally for individual positions; it may vary depending on their price range settings.
 
 When you find a Farm you'd like to use, note down the trading pair and its fee rate, e.g. BNB-CAKE and 0.25%, in case you need them later.
-
-
 
 ### **Provide liquidity to create a position**
 
@@ -57,8 +53,6 @@ Now that you've found a Farm to stake in, you will need to provide liquidity:
 
 ![](<../../../.gitbook/assets/image (242).png>)
 
-
-
 ### **Stake your positions into a farm**
 
 ![](<../../../.gitbook/assets/image (124).png>)
@@ -67,7 +61,7 @@ After finishing adding liquidity. You should see your position listed under the 
 
 If you have multiple positions, you may click “View All” to view them in a new pop-up window.
 
-![](<../../../.gitbook/assets/image (198).png>)![](<../../../.gitbook/assets/image (151).png>)
+![](<../../../.gitbook/assets/image (198).png>) ![](<../../../.gitbook/assets/image (151).png>)
 
 Click “Stake” on the position listed, and your wallet will ask for confirmation.
 
@@ -76,8 +70,6 @@ Click “Stake” on the position listed, and your wallet will ask for confirmat
 After a short wait, the window will close, and you will see your staked position in the details.
 
 You can repeat the above steps to quickly stake multiple positions with different price range configurations. Each position will earn CAKE and need to be harvested separately.
-
-
 
 ### **Harvest farming rewards**
 
@@ -93,13 +85,11 @@ If you have multiple staked positions, you may click “View All” to view them
 
 Click “Harvest” on the position, and your wallet will ask for confirmation. After a short wait, the CAKE rewards will be sent to your wallet.
 
-
-
 ### **Add or remove liquidity while staking in a farm**
 
 When staking in a farm, you can still add or remove liquidity without unstaking from the farm.
 
-![](<../../../.gitbook/assets/image (249).png>)
+![](<../../../.gitbook/assets/image (230).png>)
 
 To do so, simply return to the Farm page, and locate the farm and position you want to adjust. You can use the “Staked Only” toggle to quickly filter the farms you are currently staking.
 
@@ -111,8 +101,6 @@ Simply use the “Add” or “Remove” button to adjust the liquidity in the s
 
 Please note that all the unclaimed CAKE rewards will be harvested and sent to your wallet while adjusting your position.
 
-
-
 ### **Unstake your positions from a farm**
 
 You can unstake a position at any time.
@@ -122,8 +110,6 @@ To unstake, simply return to the Farm page, and locate the farm and position you
 If you have multiple staked positions, you may click “View All” to view them in a new pop-up window.
 
 Click “Unstake” on the position, and your wallet will ask for confirmation. After a short wait, your position NFT will be returned to your wallet, along with all the pending CAKE rewards.
-
-
 
 ## Farm V2
 
@@ -137,8 +123,6 @@ To get the exact LP Token, you'll need to provide liquidity for that trading pai
 
 It may sound intimidating, but it's not too complicated. Let's go through step by step.
 
-
-
 ### Finding your Farm
 
 Before you proceed, you'll want to choose a Farm that's right for you. [Visit the Farms page](https://pancakeswap.finance/farms) and you’ll see a list of available Farms.
@@ -149,8 +133,6 @@ You can choose another sorting option if you like, such as by **APR** for the Fa
 
 When you find a Farm that you'd like to use, note down the trading pair, e.g. BNB-CAKE in case you need it later.
 
-
-
 ### Providing liquidity to get LP Tokens
 
 Now that you've found a Farm to stake in, you will need to add liquidity to get your LP Tokens.
@@ -159,8 +141,6 @@ Now that you've found a Farm to stake in, you will need to add liquidity to get 
 2. On the left, you'll see some links. Click the **Get (your pair) LP** link.
 
 ![](<../../../.gitbook/assets/image (131).png>)
-
-
 
 ### Putting your LP Tokens into a farm
 
@@ -189,7 +169,7 @@ When you’re ready, click the **Enable** button and confirm your action in your
 {% hint style="info" %}
 When you are performing crosschain farming on an EVM blockchain other than the BNB chain. You will need to wait approximately 30 minutes for the cross-chain transactions to confirm.
 
-![](../../../.gitbook/assets/crosschain-farm-wait.png)
+<img src="../../../.gitbook/assets/crosschain-farm-wait.png" alt="" data-size="original">
 
 To track the progress of a crosschain farming transaction. Click the circular icon on the side of your staked balance, or check out the "Recent Transaction" section in the top right-hand corner.
 {% endhint %}
@@ -210,7 +190,7 @@ You should now only see the pairs you have LP Tokens in on the list, making it e
 
 1. Find the Farm you have LP Tokens in, and click the row to view details. You will see a **-** and **+** button on the right-hand side. Click **-** to remove LP Tokens, or **+** to add more LP Tokens.
 
-![](<../../../.gitbook/assets/image (102) (2) (2) (1).png>)
+![](<../../../.gitbook/assets/image (102).png>)
 
 1. A window will open that looks like the one you used earlier to first stake your LP Tokens. Like last time, type the amount you would like to unstake/stake, or click **Max** to remove/add all available LP Tokens.
 
@@ -242,7 +222,7 @@ When you are performing crosschain farming on an EVM blockchain other than the B
 
 If your wallet doesn't support chain switching. Staking or unstaking LP tokens will always harvest your CAKE. Please note the harvested CAKE will be distributed on BNB Smart Chain.
 
-![](<../../../.gitbook/assets/image (164).png>)
+<img src="../../../.gitbook/assets/image (164).png" alt="" data-size="original">
 {% endhint %}
 
 ## How often should I harvest my rewards?
