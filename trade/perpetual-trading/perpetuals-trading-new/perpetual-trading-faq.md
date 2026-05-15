@@ -55,15 +55,9 @@ This is based on the platform where users trade. If users open and close trades 
 
 ### PancakeSwap builder fee
 
-Fees for PancakeSwap Perpetuals on different chains are as follows:
+Fees for PancakeSwap Perpetuals as follows:
 
-<table><thead><tr><th width="201.33333333333331">Mode</th><th>Builder Fees</th></tr></thead><tbody><tr><td>Taker fee</td><td>0.03%</td></tr><tr><td>Maker fee</td><td>0.03%</td></tr></tbody></table>
-
-### **What's the difference between a Maker and Taker order?**
-
-A **Maker order** adds liquidity to the orderbook. You set a price above or below the current market price, and your order sits on the book until another trader matches it.
-
-A **Taker order** removes liquidity from the orderbook. You trade immediately against an existing order at the current available price.
+<table><thead><tr><th width="201.33333333333331">Mode</th><th>Builder Fees</th></tr></thead><tbody><tr><td>All trades</td><td>0.03%</td></tr></tbody></table>
 
 ### **Which jurisdictions are restricted from using the product?** <a href="#whats-the-difference-between-a-maker-and-taker-order" id="whats-the-difference-between-a-maker-and-taker-order"></a>
 
