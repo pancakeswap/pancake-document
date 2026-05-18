@@ -100,7 +100,7 @@ No matter which wallet you choose, the process is generally similar:
 You can:
 
 * Buy SOL on a centralised exchange and transfer it in
-* Or bridge assets to Solana using a cross-chain bridge (coming soon on PancakeSwap)
+* Or bridge assets to Solana using a cross-chain bridge at [pancakeswap.finance/bridge](https://pancakeswap.finance/bridge)
 
 View here to see how to [Get SOL](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-sol/get-sol)
 
