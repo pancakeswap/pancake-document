@@ -4,7 +4,7 @@ Pro Mode gives you full control over your trades — order types, leverage, TP/S
 
 ### **Go to the PCS Perps page**
 
-Head to [perp.pancakeswap.finance](https://perp.pancakeswap.finance) or navigate via Trade → Perpetuals from the main PancakeSwap site.
+Head to [pancakeswap.finance/perps](https://pancakeswap.finance/perps) or navigate via Trade → Perpetuals from the main PancakeSwap site.
 
 ### **Connect your wallet**
 
