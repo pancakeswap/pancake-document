@@ -4,130 +4,60 @@ description: '"Don''t call it a roadmap"'
 
 # 🗺️ Roadmap
 
-_Updated on August 15, 2024_
+_Updated on Jun 1, 2026_
 
-### Finally, it's a roadmap not a to-do list.
+## Our vision: the universal liquidity layer of crypto
 
-Crypto moves fast, and we move fast too.
+All of crypto should route through PancakeSwap. Our **AMMs** and **PCSX** are the rails every trade settles against; our **aggregator** wins the customer with the best price anywhere and routes that demand back into our own liquidity. More flow deepens liquidity, which sharpens execution, which wins more users — and the revenue it generates buys back and burns **CAKE**, tying the token directly to real usage. Increasingly, the traders won't even be human: as AI agents become crypto's newest economic actors, we intend to be the liquidity layer they plug into. Liquidity in, supply out.
 
-Pivoting is a way of life.
+***
 
-That means that we don’t publicly commit to specific timelines, so we can organize our development priorities based on market changes and developer resources.
+#### Aggregator — owning the customer relationship
 
-Due to considerations of security and confidentiality, some items are not included in the ‘Cooking In’ section.
+Best price in crypto, every time, on one surface across every chain — then we route that demand into our own rails.
 
-<figure><img src="../.gitbook/assets/telegram-cloud-photo-size-5-6100658967458988041-y.jpg" alt=""><figcaption></figcaption></figure>
+* **Now:** best-price routing across PancakeSwap + external venues; multichain (BNB, ETH, Base, Arbitrum, Solana, and more); sub-second quotes on our own infra
+* **Next:** cross-chain aggregated swaps; broader venue and chain coverage
 
-### Cooking in Q3
+#### AMM — the foundation of liquidity
 
-* v4
-* DEX: New Trading Venue
-* Crosschain veCAKE Expansion
-* Web3 Quest Platform
-* UI/UX Revamp
-* Multichain Simple Staking
+PancakeSwap Infinity makes our AMM the most extensible, capital-efficient liquidity primitive in DeFi.
 
-### Done
+* **Now:** more v4 hooks, e.g. dynamic fees hooks, stableswap hooks
+* **Next:** a growing ecosystem of hooks; more chains; advanced LP tooling
 
-#### Trade
+#### PCSX — the rail specifically built for RWA
 
-* Stablecoin Swap - more pairs added
-* Zap - Provide liquidity in one click
-* Perpetual Trading
-* Limit Orders
-* Charts & other trading features on-site
-* Migration to Exchange V2 (exchange, liquidity, farms)
-* Pancake Bridge
-* Token Risks Scanning
-* Multichain Swap & Liquidity
-* Deployment to Aptos Chain
-* Aptos PancakeSwap Bridge
-* v3- Swap & Liquidity Upgrade on BNB chain and Ethereum
-* Market Maker Integration on Ethereum and BNB Chain
-* Expansion to Polygon zkEVM - Swap and Liquidity
-* Expansion to Base - Swap and Liquidity
-* Expansion to Linea - Swap and Liquidity
-* Expansion to Arbitrum One - Swap and Liquidity
-* Expansion to zkSync Era - Swap and Liquidity
-* Expansion to opBNB - Swap
-* Perpetuals v2  to Arbitrum and BNB Chain
-* Perps v2 Expansion to Base, and opBNB
-* DEX Enhancement: v4 whitepaper
-* Multichain Perpetual
+Intent-based settlement that connects users to professional market makers, covering fills the pool model can't.
 
+* **Now:** RFQ fills with pro market makers; powering tokenized RWAs
+* **Next:** deeper MM network; cross-chain settlement
 
+#### Perps — pro-grade derivatives onchain
 
+A derivatives venue that rivals any platform, without giving up self-custody.
 
+* **Now:** advanced order types (limit, stop, TP/SL); AI copilot for one-click strategies; precise position management, loss rebate mechanisms
+* **Next:** advanced trader tooling, more gamified features
 
-#### Earn
+#### Agentic — trading that acts for you
 
-* CAKE Staking
-  * Fixed-term Staking
-  * CAKE Side Pool - Flexible CAKE staking on the side of locked staking
-* Fixed-Term Staking Benefits&#x20;
-  * iCAKE, IFO benefits
-  * vCAKE, weighted voting power
-  * bCAKE, farm yield booster
-  * Events with well-known projects
-* Farms
-* Crosschain Farming
-* Syrup Pools
-* Syrup Pool Farm Boosts
-* Auto-compounding CAKE-CAKE Syrup Pool
-* APR/APY Calculator v3
-* Harvest all function
-* Farming on Aptos
-* Syrup Pools on Aptos
-* Syrup Pools on Ethereum
-* Farm Auction
-* Liquid Staking Integration
-* Revenue Sharing Pool
-* Simple Staking Integration
-* vCAKE Update - Gause Design
-* v3 Position Manager
+The next interface isn't a screen, it's an agent. We're evolving from assisting trades to executing them — and opening our rails to the AI agents becoming crypto's newest traders.
 
-#### Win
+* **Now:** AI skills, AI copilot that turns intent into one-click strategies
+* **Next:** autonomous agents that execute and rebalance on your behalf; natural-language trading; agent-accessible APIs so third-party AI routes its flow through our liquidity
 
-* Lottery v2
-* Prediction v0.2\
-  Duo currency with BNB and CAKE\
-  with Chainlink Price Chart and Chainlink Keepers
-* Team Battle (Trading Comps as a Service)
-* Pottery\
-  Lottery by staking\
-  New Pottery cohort every month
-* Multichain Prediction
+#### Tokenized Stock — real-world markets on our rails
 
-#### NFT
+A dedicated EVM home for trading tokenized equities, settling through our own liquidity.
 
-* NFT Market Phase 1 & 2(buy & sell whitelisted NFT collections)
-* Customizable User Profile
-* NFT drops
-* Pancake Squad generative NFT collection
-* Mobox Gaming NFT Integration
+* **Now:** dedicated stock terminal; live charts and on-chain data; expanding asset list
+* **Next:** more equities and RWAs; more chains; limit order and DCA
 
-#### Site Upgrades / CAKE / Other Products
+#### Other optimizations
 
-* Mobile-first navigation & site overhaul
-* Analytics: Info site
-* IFO CAKE Pool & IFO 3.0
-* IFO
-  * Private Sales with NFT Utility
-  * cIFO, Private Sales with Pancake Profile points utility
-  * Token vesting
-  * iCAKE integration
-* PCS Mini-Program in Binance App
-* The first Aptos IFO
-* Ambassador Program
-* PancakeSwap Blog
-* vCAKE Product utilities
-* Fiat on Ramp Integration with MoonPay and Mercuryo
-* Affiliate Program
-* Website Revamp
-* Game Expansion
-* Notification Services Integrations
-* Affiliates Initiative
-* Hashdit Risk Scanner
+The invisible work that compounds: faster flows, simpler onboarding, a stronger mobile experience, deeper multichain reach, and higher reliability at scale.
 
+***
 
-
+_Crypto moves fast, and so do we — no fixed timelines, just a constant direction: become the universal liquidity layer of crypto, win the customer with the best execution anywhere, route the world's onchain trading (human and agent) through our rails, and return that value to CAKE._
