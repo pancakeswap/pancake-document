@@ -31,6 +31,9 @@ Join our official Telegram and Discord communities to connect with other users, 
 * Filipino ([https://t.me/Pancakeswap\_Ph](https://t.me/Pancakeswap_Ph))
 * Indian ([https://t.me/PancakeSwap\_India](https://t.me/PancakeSwap_India))
 * Korean ([https://t.me/PancakeSwapSouthKorea](https://t.me/PancakeSwapSouthKorea))
+* Malaysian ([https://t.me/PancakeSwapMalaysia](https://t.me/PancakeSwapMalaysia))
+* Philippines ([https://t.me/PancakeSwapPhilippines](https://t.me/PancakeSwapPhilippines))
+* Thai ([https://t.me/PancakeSwapThailand](https://t.me/PancakeSwapThailand))
 * 😤 Ban Appeal ([https://t.me/pancakebanappeal](https://t.me/pancakebanappeal))
 
 ### ⚠️ **Security & Warnings**
