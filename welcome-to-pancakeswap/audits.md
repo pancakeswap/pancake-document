@@ -6,6 +6,11 @@
 
 * [Infinity Core](https://github.com/pancakeswap/infinity-core/tree/main/docs/audits) (2024)
 * [Infinity Periphery](https://github.com/pancakeswap/infinity-periphery/tree/main/audits) (2024)
+* [Infinity Universal Router](https://github.com/pancakeswap/infinity-universal-router/tree/main/audits) — Cyfrin (2025)
+
+#### Aggregator Router
+
+* [BlockSec's Aggregator Router security audit](https://github.com/blocksecteam/audit-reports/blob/main/solidity/blocksec_pancake_aggregator_v1.0-signed.pdf) (2025)
 
 #### veCAKE / Gauges:
 
@@ -26,6 +31,11 @@
 * [Slowmist's Cross-chain Farming security audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report-V2/smart-contract/SlowMist%20Audit%20Report%20-%20PancakeSwap%20-%20CrossChain_en-us.pdf) (Sep 2022)
 * [Peckshield's Cross-chain Farming security audit](https://github.com/peckshield/publications/tree/master/audit_reports/PeckShield-Audit-Report-PancakeSwap-CrossFarming-v1.0.pdf) (Sep 2022)
 * [BlockSec's Cross-chain Farming security audit](https://github.com/blocksecteam/audit-reports/blob/main/solidity/blocksec_pancakeswap_cross_farming_v1.0_signed.pdf) (Sep 2022)
+
+#### Cross-chain (CAKE Bridge / Rebalancing)
+
+* [Burrasec's Cross-chain security audit](https://github.com/pancakeswap/pancake-developer/blob/master/docs/public/crosschain/burrasec-audit.pdf) (2025)
+* [Pashov's Cross-chain security audit](https://github.com/pancakeswap/pancake-developer/blob/master/docs/public/crosschain/pashov-audit.pdf) (2025)
 
 #### StableSwap
 
