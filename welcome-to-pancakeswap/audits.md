@@ -12,6 +12,10 @@
 
 * [BlockSec's Aggregator Router security audit](https://github.com/blocksecteam/audit-reports/blob/main/solidity/blocksec_pancake_aggregator_v1.0-signed.pdf) (2025)
 
+#### CAKE Token
+
+* [HashDit's CAKE Token security audit](https://github.com/pancakeswap/cake-token/blob/main/audits/HashDit.pdf) (2026)
+
 #### veCAKE / Gauges:
 
 * [BlockSec's veCAKE / Gauges security audit](https://github.com/blocksecteam/audit-reports/blob/main/solidity/blocksec_pancake_vecake_v1.0-signed.pdf) (Nov 2023)
