@@ -20,14 +20,14 @@ Own CAKE emission efficiency, project onboarding (V2/V3/Infinity CLAMM), and cro
 2. **Institutional Liquidity + RWA**
 
 Own tokenized stock and RWA issuer onboarding (xStocks/Backed Finance/Ondo/Robinhood), market maker onboarding (Wintermute, Jump, GSR), and PancakeSwap X RFQ distribution into Kraken, Bybit, OKX. Build PropAMM institutional pipeline. Primary metric: PancakeSwap X monthly trading volume, RWA issuers onboarded.\
-Urgent now: xStocks pools on BNB + Base · Backed Finance / Kraken partnership
+**Urgent now:** xStocks pools on BNB + Base · Backed Finance / Kraken partnership
 
 
 
 3. **New Product Distribution**
 
 Replace 1inch as the default aggregator API for wallets (OKX, Binance, MetaMask, Trust) and DeFi protocols (Aave, Venus, Morpho). Own revenue share program design, white-label API packaging, and competitor switching analysis. Secondary: perps institutional onboarding (\~20% of role). Primary metric: API integrations shipped per quarter, monthly aggregator routed volume.\
-Urgent now: Deep competitor analysis of 1inch, LiFi, Liquid Mesh · target list build
+**Urgent now:** Deep competitor analysis of 1inch, LiFi, Liquid Mesh · target list build
 
 ### What you will do
 
