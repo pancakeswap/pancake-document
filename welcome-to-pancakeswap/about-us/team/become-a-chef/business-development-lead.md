@@ -31,11 +31,11 @@ Replace 1inch as the default aggregator API for wallets (OKX, Binance, MetaMask,
 
 ### What you will do
 
-Own the full partnership lifecycle : sourcing, negotiation, integration, and ongoing health metrics\
-Report weekly on pipeline status and division KPIs to the CEO; flag blockers with proposed solutions, not just problems\
-Participate in weekly cross-division BD sync to surface pipeline overlaps and coordinate joint approaches\
-Conduct ongoing competitor intelligence specific to your division's domain; translate findings into actionable differentiation\
-As the division matures, build and mentor a small team of BD managers under you
+* Own the full partnership lifecycle : sourcing, negotiation, integration, and ongoing health metrics\
+  Report weekly on pipeline status and division KPIs to the CEO; flag blockers with proposed solutions, not just problems
+* Participate in weekly cross-division BD sync to surface pipeline overlaps and coordinate joint approaches
+* Conduct ongoing competitor intelligence specific to your division's domain; translate findings into actionable differentiation
+* As the division matures, build and mentor a small team of BD managers under you
 
 ### What we are looking for
 
