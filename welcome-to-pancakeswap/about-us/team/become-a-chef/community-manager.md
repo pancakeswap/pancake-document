@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Community Manager
 
 * Position: Full-time

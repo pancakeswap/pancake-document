@@ -12,22 +12,27 @@ This is an operator role, not a relationship role. We measure outcomes: volume g
 
 1. **Traditional AMM**
 
-Own CAKE emission efficiency, project onboarding (V2/V3/Infinity CLAMM), and cross-chain launchpad pipeline across BNB Chain, Base, and SOL. Primary metric: volume per unit of CAKE emitted. Secondary: new active pools per quarter, first-launch projects per chain.\
-**Urgent now:** Base + SOL ecosystem fund relationships · Infinity CLAMM project pipeline
+* Own CAKE emission efficiency, project onboarding (V2/V3/Infinity CLAMM), and cross-chain launchpad pipeline across BNB Chain, Base, and SOL.&#x20;
+* Primary metric: volume per unit of CAKE emitted.&#x20;
+* Secondary: new active pools per quarter, first-launch projects per chain.
+* **Urgent now:** Base + SOL ecosystem fund relationships · Infinity CLAMM project pipeline
 
 
 
 2. **Institutional Liquidity + RWA**
 
-Own tokenized stock and RWA issuer onboarding (xStocks/Backed Finance/Ondo/Robinhood), market maker onboarding (Wintermute, Jump, GSR), and PancakeSwap X RFQ distribution into Kraken, Bybit, OKX. Build PropAMM institutional pipeline. Primary metric: PancakeSwap X monthly trading volume, RWA issuers onboarded.\
-**Urgent now:** xStocks pools on BNB + Base · Backed Finance / Kraken partnership
+* Own tokenized stock and RWA issuer onboarding (xStocks/Backed Finance/Ondo/Robinhood), market maker onboarding (Wintermute, Jump, GSR), and PancakeSwap X RFQ distribution into Kraken, Bybit, OKX.&#x20;
+* Build PropAMM institutional pipeline. Primary metric: PancakeSwap X monthly trading volume, RWA issuers onboarded.
+* **Urgent now:** xStocks pools on BNB + Base · Backed Finance / Kraken partnership
 
 
 
 3. **New Product Distribution**
 
-Replace 1inch as the default aggregator API for wallets (OKX, Binance, MetaMask, Trust) and DeFi protocols (Aave, Venus, Morpho). Own revenue share program design, white-label API packaging, and competitor switching analysis. Secondary: perps institutional onboarding (\~20% of role). Primary metric: API integrations shipped per quarter, monthly aggregator routed volume.\
-**Urgent now:** Deep competitor analysis of 1inch, LiFi, Liquid Mesh · target list build
+* Replace 1inch as the default aggregator API for wallets (OKX, Binance, MetaMask, Trust) and DeFi protocols (Aave, Venus, Morpho).&#x20;
+* Own revenue share program design, white-label API packaging, and competitor switching analysis. Secondary: perps institutional onboarding (\~20% of role).&#x20;
+* Primary metric: API integrations shipped per quarter, monthly aggregator routed volume.
+* **Urgent now:** Deep competitor analysis of 1inch, LiFi, Liquid Mesh · target list build
 
 ### What you will do
 
