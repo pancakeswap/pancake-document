@@ -51,7 +51,7 @@ For more details related to Aster fees please refer to this doc here: [LINK](htt
 
 ### How does Aster determine which user is from PancakeSwap and which user is from their own website?
 
-This is based on the platform where users trade. If users open and close trades on [https://perp.pancakeswap.finance/](https://perp.pancakeswap.finance/), they will be considered PancakeSwap user.
+This is based on the platform where users trade. If users open and close trades on [https://pancakeswap.finance/perps](https://pancakeswap.finance/perps), they will be considered PancakeSwap user.
 
 ### PancakeSwap builder fee
 
