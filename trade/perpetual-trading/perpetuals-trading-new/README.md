@@ -20,6 +20,10 @@ PCS Perps is powered by Aster's orderbook infrastructure, bringing deep liquidit
 
 Your spot and perps activity live in one place. PCS Perps integrates directly into the PancakeSwap interface, giving you a single wallet view across all your onchain positions.
 
+### **AI Copilot**
+
+The AI Copilot tab in the trading panel generates AI-powered trade ideas to help you decide your position direction. When your perp account is funded, the Copilot shows Long and Short idea cards with entry context — tap one to pre-fill the order form. When unfunded, it shows an empty state with a "Generate trade ideas" prompt. AI Copilot is available in both Simple and Pro Mode alongside the Order Book and Trades tabs.
+
 ### **CAKE VIP Fee Tiers \[Coming soon]**
 
 Hold CAKE in your connected wallet to unlock fee discounts on every trade. More details coming soon.
