@@ -10,4 +10,4 @@ It uses a StableSwap invariant designed to:
 
 
 
-👉 Learn more about pool mechanics and pool creation [here](https://docs.pancakeswap.finance/~/revisions/E5nc3XhgBcYotE6q89fB/trade/stableswap/infinity-stableswap).
+👉 Learn more about pool mechanics and pool creation [here](https://docs.pancakeswap.finance/trade/stableswap/infinity-stableswap).
