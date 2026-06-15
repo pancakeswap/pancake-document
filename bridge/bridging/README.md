@@ -4,13 +4,11 @@ description: Bridge CAKE between Ethereum, BNB Chain, Aptos, and many more
 
 # 🌉 Bridging
 
-<figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="success" %}
-Bridging to/from EVMs (New site): [https://pancakeswap.finance/bridge](https://pancakeswap.finance/bridge)
-
-Bridging to/from Aptos (V1 Bridge): [https://bridge.pancakeswap.finance/](https://bridge.pancakeswap.finance/)
+{% hint style="warning" %}
+**The PancakeSwap Bridge was sunset on 6 November 2025.** The bridge interfaces at pancakeswap.finance/bridge and bridge.pancakeswap.finance are no longer active. To move assets between chains, please use [Crosschain Swaps](https://pancakeswap.finance/swap).
 {% endhint %}
+
+<figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
 
 ## What is bridging in crypto?
 

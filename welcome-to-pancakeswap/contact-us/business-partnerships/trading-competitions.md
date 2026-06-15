@@ -4,7 +4,7 @@ Interested in boosting volumes and gaining mindshare for your project? Consider 
 
 We'll handle the set-up, tracking, and announcement - you provide the rewards, we run the show.
 
-This is available across BNB Chain, Solana, Base, Arbitrum, Ethereum, ZKsync, Linea, opBNB, and Polygon zkEVM.
+This is available across BNB Chain, Solana, Base, Arbitrum, Ethereum, ZKsync, Linea, and opBNB.
 
 _Some projects who took part previously saw a 3-7x increase in trading volume and actively traded addresses_
 
