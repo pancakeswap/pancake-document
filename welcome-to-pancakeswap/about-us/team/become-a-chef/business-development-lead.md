@@ -57,3 +57,7 @@ This is an operator role, not a relationship role. We measure outcomes: volume g
 * Prior experience at a DEX, AMM, aggregator, or RWA platform
 * Ability to read smart contract interactions or interpret Dune dashboards independently
 * Experience building or managing a BD team from scratch
+
+
+
+**How to Apply:** Shoot your resume over to hiring@pancakeswap.com, we’d love to hear from you!

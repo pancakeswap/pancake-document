@@ -25,3 +25,7 @@ Requirements:
 Nice to Have:\
 -Background in DeFi market making or crypto trading firms\
 -Familiarity with aggregator routing and on-chain trading mechanics
+
+
+
+**How to Apply:** Shoot your resume over to hiring@pancakeswap.com, we’d love to hear from you!

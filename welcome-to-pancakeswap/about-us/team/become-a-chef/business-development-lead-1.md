@@ -26,3 +26,7 @@ PancakeSwap is transitioning from the leading AMM DEX on BNB Chain to a full Liq
 * Familiar with AMM/uniswap/Pancakeswap V2 V3 V4
 * Autonomous and structured: able to manage multiple parallel deals with zero hand-holding, and communicate blockers early
 * Ownership mind-set
+
+
+
+**How to Apply:** Shoot your resume over to hiring@pancakeswap.com, we’d love to hear from you!

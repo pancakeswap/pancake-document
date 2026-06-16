@@ -20,3 +20,7 @@ We are seeking a dynamic Product Manager to join our team. In this role, you wil
 * Strong understanding of DeFi concepts, cryptocurrency markets, and decentralized applications and smart contract
 * Proficiency in product management tools (e.g., Jira, Trello) and analytics platforms (e.g., Google Analytics, Mixpanel).
 * Passion for blockchain technology and a keen interest in emerging trends in the crypto space.
+
+
+
+**How to Apply:** Shoot your resume over to hiring@pancakeswap.com, we’d love to hear from you!
