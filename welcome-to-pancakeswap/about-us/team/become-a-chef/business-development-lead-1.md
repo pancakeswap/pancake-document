@@ -23,7 +23,7 @@ PancakeSwap is transitioning from the leading AMM DEX on BNB Chain to a full Liq
 
 * 3+ years of BD, partnerships, or growth in DeFi, crypto, or fintech — with a track record of signed deals, not just pipeline
 * Quantitative mindset: comfortable reading on-chain data, TVL/volume dashboards, and setting your own KPI targets from first principles
-* Familiar with AMM/uniswap/Pancakeswap V2 V3 V4
+* Familiar with AMM/uniswap/Pancakeswap V2 V3 Infinity
 * Autonomous and structured: able to manage multiple parallel deals with zero hand-holding, and communicate blockers early
 * Ownership mind-set
 
