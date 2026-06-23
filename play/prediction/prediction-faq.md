@@ -81,7 +81,7 @@ This is because we use the Oracle price feed to determine the final outcome of a
 **What happens:**
 
 * PancakeSwap takes 100% of the pool; all funds go to CAKE burn.
-* Users on either side lose their intial bet amount.
+* Users on either side lose their initial bet amount.
 
 **Example - No opposing bets:**
 
