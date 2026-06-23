@@ -275,3 +275,18 @@
     * [CAKE Tokenomics v1](can-kao-zi-liao/old-tokenomics/cake-tokenomics-v1.md)
     * [Controlling CAKE supply v1](can-kao-zi-liao/old-tokenomics/controlling-cake-supply-v1.md)
   * [如何通过BscScan使用农场](can-kao-zi-liao/ru-he-tong-guo-bscscan-shi-yong-nong-chang.md)
+
+## Trading Tools
+
+* [🛡️ PancakeSwap MEV Guard](trading-tools/pancakeswap-mev-guard.md)
+* [🎯 PancakeSwap 自动滑点](trading-tools/pancakeswap-auto-slippage/README.md)
+  * [如何在 PancakeSwap 上设置滑点](trading-tools/pancakeswap-auto-slippage/how-to-set-slippage-on-pancakeswap.md)
+* [Social Login](trading-tools/social-login/README.md)
+  * [Social Login 操作指南](trading-tools/social-login/social-login-how-to-guide.md)
+  * [Social Login FAQ](trading-tools/social-login/social-login-faq.md)
+* [🎁 Pancake Gifts](trading-tools/pancake-gifts/README.md)
+  * [Pancake Gifts 操作指南](trading-tools/pancake-gifts/pancake-gifts-how-to-guide.md)
+  * [Pancake Gifts FAQ](trading-tools/pancake-gifts/pancake-gifts-faq.md)
+* [🔔 通知服务](trading-tools/notifications.md)
+* [❓ 交易工具 FAQ](trading-tools/trading-tools-faq/README.md)
+  * [MEV Guard FAQ](trading-tools/trading-tools-faq/mev-guard-faq.md)
