@@ -54,7 +54,7 @@
     * [FAQ](welcome-to-pancakeswap/vecake-sunset/bcake/faq.md)
     * [V2（已弃用）](welcome-to-pancakeswap/vecake-sunset/bcake/v2-deprecated/README.md)
       * [如何使用 bCAKE？](welcome-to-pancakeswap/vecake-sunset/bcake/v2-deprecated/how-to-use-bcake.md)
-* [📈 Analytics（信息页面）](welcome-to-pancakeswap/info.md)
+* [📈 信息站（信息页面）](welcome-to-pancakeswap/info.md)
 * [✅ 审计报告](welcome-to-pancakeswap/audits.md)
 * [🤙 联系我们](welcome-to-pancakeswap/contact-us/README.md)
   * [社交账户](welcome-to-pancakeswap/contact-us/social-accounts.md)
