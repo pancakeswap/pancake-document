@@ -2,13 +2,13 @@
 
 ![](../../.gitbook/assets/how-to-trade-on-pancakeswap-header.png)
 
-与大多数交易所相比，在 PancakeSwap 上交易非常简单。您不会被图表或专业术语所淹没，交易路由和计算都由 PancakeSwap Smart Router 为您处理。
+与大多数交易所相比，在 PancakeSwap 上交易非常简单。你不会被图表或专业术语所淹没，交易路由和计算都由 PancakeSwap Smart Router 为你处理。
 
 **准备开始交易**
 
-在交易之前，您需要一个兼容 BNB Chain 或 Ethereum 的钱包。您可以在[此处](https://docs.pancakeswap.finance/get-started/wallet-guide)了解如何获取钱包。您还需要拥有一些 BEP-20 或 ERC-20 代币用于交易。您可以在[此处](https://docs.pancakeswap.finance/get-started/bep20-guide)了解如何获取这些代币。
+在交易之前，你需要一个兼容 BNB Chain 或 Ethereum 的钱包。你可以在[此处](https://docs.pancakeswap.finance/get-started/wallet-guide)了解如何获取钱包。你还需要拥有一些 BEP-20 或 ERC-20 代币用于交易。你可以在[此处](https://docs.pancakeswap.finance/get-started/bep20-guide)了解如何获取这些代币。
 
-或者，您可以在[此处](https://docs.pancakeswap.finance/get-started-aptos/wallet-guide)了解如何获取兼容 Aptos 的钱包，并在[此处](https://docs.pancakeswap.finance/get-started-aptos/aptos-coin-guide)了解如何获取一些 Aptos 代币用于兑换。
+或者，你可以在[此处](https://docs.pancakeswap.finance/get-started-aptos/wallet-guide)了解如何获取兼容 Aptos 的钱包，并在[此处](https://docs.pancakeswap.finance/get-started-aptos/aptos-coin-guide)了解如何获取一些 Aptos 代币用于兑换。
 
 ## 在 PancakeSwap Exchange 上交易
 
@@ -16,43 +16,43 @@
 
 
 
-2 - 通过点击 Connect **Wallet** 解锁您的钱包（您也可以在右上角点击 **Connect**）。如果您还未将钱包连接到 PancakeSwap，您可以在[此处](https://docs.pancakeswap.finance/get-started/connection-guide)查看指南。
+2 - 通过点击 Connect **Wallet** 解锁你的钱包（你也可以在右上角点击 **Connect**）。如果你还未将钱包连接到 PancakeSwap，你可以在[此处](https://docs.pancakeswap.finance/get-started/connection-guide)查看指南。
 
 ![](<../../.gitbook/assets/image (200).png>)
 
 
 
-3 - 从上方部分的下拉菜单中选择您想要交易的代币。无论您选择哪种代币，您都需要确保您的钱包中有足够数量的该代币用于交易。您的余额显示在代币下拉菜单上方。
+3 - 从上方部分的下拉菜单中选择你想要交易的代币。无论你选择哪种代币，你都需要确保你的钱包中有足够数量的该代币用于交易。你的余额显示在代币下拉菜单上方。
 
 ![](<../../.gitbook/assets/image (50).png>)
 
 
 
-4 - 如上所述，在下方部分选择您想要兑换成的代币。
+4 - 如上所述，在下方部分选择你想要兑换成的代币。
 
 
 
-5 - 接下来，可以在上方部分输入金额，以输入您想要兑换的代币数量（花费金额）。或者，在下方部分输入金额，以输入您想要兑换成的代币数量（接收金额）。&#x20;
+5 - 接下来，可以在上方部分输入金额，以输入你想要兑换的代币数量（花费金额）。或者，在下方部分输入金额，以输入你想要兑换成的代币数量（接收金额）。&#x20;
 
-无论您在哪个部分输入金额，另一部分的金额都会被自动估算。
+无论你在哪个部分输入金额，另一部分的金额都会被自动估算。
 
 
 
 6 - 检查所有详情，然后点击 **Swap** 按钮。
 
-如果您是第一次交易某种代币，您可能需要先点击 "Enable XXX（您的代币）" 进行授权。
+如果你是第一次交易某种代币，你可能需要先点击 "Enable XXX（你的代币）" 进行授权。
 
 ![](<../../.gitbook/assets/image (272).png>)
 
 
 
-7 - 将出现一个包含更多详情的窗口。检查详情是否正确。当您准备就绪后，点击 **Confirm Swap** 按钮。您的钱包将要求您确认该操作。
+7 - 将出现一个包含更多详情的窗口。检查详情是否正确。当你准备就绪后，点击 **Confirm Swap** 按钮。你的钱包将要求你确认该操作。
 
 ![](<../../.gitbook/assets/image (27).png>)
 
 
 
-8 - 完成！您可以通过点击上方显示的链接，在区块链浏览器上查看您的交易。
+8 - 完成！你可以通过点击上方显示的链接，在区块链浏览器上查看你的交易。
 
 ![](<../../.gitbook/assets/image (209).png>)
 

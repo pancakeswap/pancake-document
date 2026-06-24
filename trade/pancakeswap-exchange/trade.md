@@ -6,7 +6,7 @@ PancakeSwap 上的[**代币兑换**](https://pancakeswap.finance/swap)是一种�
 
 ![](<../../.gitbook/assets/image (53).png>)
 
-当您在 [BNB Smart Chain](https://pancakeswap.finance/swap?chain=bsc) 或 [Ethereum](https://pancakeswap.finance/swap?chain=eth) PancakeSwap Exchange 上进行代币兑换（交易）时，您将根据交易路由所经过的流动性池类型支付交易手续费。您可以通过点击 “Route” 部分中的放大镜图标来查看路由详情。
+当你在 [BNB Smart Chain](https://pancakeswap.finance/swap?chain=bsc) 或 [Ethereum](https://pancakeswap.finance/swap?chain=eth) PancakeSwap Exchange 上进行代币兑换（交易）时，你将根据交易路由所经过的流动性池类型支付交易手续费。你可以通过点击 “Route” 部分中的放大镜图标来查看路由详情。
 
 对于 Exchange V3 流动性池，目前有四个不同的费率档位：0.01%、0.05%、0.25% 和 1%。
 

@@ -1,7 +1,7 @@
 # 🎯 限价单与 TWAP 订单
 
 {% hint style="warning" %}
-**限价单 (Orbs) 已停用。** 如果您有任何待处理的订单，请在[此处](https://pancakeswap.finance/swap/limit-v1)管理。请确保您在此处使用最新的限价单功能：[https://pancakeswap.finance/swap/limit](https://pancakeswap.finance/swap/limit)
+**限价单 (Orbs) 已停用。** 如果你有任何待处理的订单，请在[此处](https://pancakeswap.finance/swap/limit-v1)管理。请确保你在此处使用最新的限价单功能：[https://pancakeswap.finance/swap/limit](https://pancakeswap.finance/swap/limit)
 {% endhint %}
 
 {% hint style="success" %}
@@ -10,7 +10,7 @@
 
 #### 这是什么？
 
-赚取手续费的限价单让您可以设定一个目标价格来自动买入或卖出代币，同时**赚取手续费**。一旦池价格达到您的目标价格，您的订单就会执行，所需的输出代币 + 手续费将直接发送到您的钱包。
+赚取手续费的限价单让你可以设定一个目标价格来自动买入或卖出代币，同时**赚取手续费**。一旦池价格达到你的目标价格，你的订单就会执行，所需的输出代币 + 手续费将直接发送到你的钱包。
 
 * **上线时支持的链：** BNB&#x20;
 * **最小订单规模：** 50 美元
@@ -18,7 +18,7 @@
 #### 为什么要使用它？
 
 * 无需持续盯盘看图表。
-* 没有执行费用——相反，当您的订单成交时，您会**赚取手续费 (0.1%)**。
+* 没有执行费用——相反，当你的订单成交时，你会**赚取手续费 (0.1%)**。
 * 无缝运行——完全链上，由 PancakeSwap Infinity 架构提供支持。
 
 ***

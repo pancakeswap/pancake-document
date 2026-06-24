@@ -8,9 +8,9 @@
 
 1 - 前往兑换 (Swap) 页面[此处](https://pancakeswap.finance/swap)
 
-2 - 选择您想要交易的代币对。&#x20;
+2 - 选择你想要交易的代币对。&#x20;
 
-3 - 大功告成！接下来的兑换流程与平时一样！如果这是您第一次交易，请查看[此处](../pancakeswap-exchange/trade-guide.md)的指南。
+3 - 大功告成！接下来的兑换流程与平时一样！如果这是你第一次交易，请查看[此处](../pancakeswap-exchange/trade-guide.md)的指南。
 
 **添加和移除流动性**
 

@@ -12,7 +12,7 @@ PancakeSwap Smart Router 是一种路由算法，它连接 AMM 和 StableSwap（
 
 ## 我为什么应该在 AMM 兑换中使用 Smart Router？&#x20;
 
-* 以相同的交易步骤更高效地兑换您的稳定币或其他资产价格相近的交易对。
+* 以相同的交易步骤更高效地兑换你的稳定币或其他资产价格相近的交易对。
 * 与 Market Maker 进行交易，它们在交易上可能提供比普通 PancakeSwap AMM 更优的执行。
 * 借助 StableSwap 功能，交易滑点低于普通 AMM。
 * 与普通 AMM 相比，StableSwap 的交易手续费更低。

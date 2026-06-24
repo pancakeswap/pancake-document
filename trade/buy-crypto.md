@@ -1,6 +1,6 @@
 # 💳 Buy Crypto
 
-PancakeSwap 推出了使用信用卡、借记卡或银行转账购买您喜爱代币的功能。将法币入金（on-ramp）服务集成到我们的平台，旨在为用户提供一种无缝、便捷的方式，使用法币购买加密货币。通过我们的入金报价界面，用户可以在不同的服务商之间进行选择，获得 Web3 中的最佳费率。
+PancakeSwap 推出了使用信用卡、借记卡或银行转账购买你喜爱代币的功能。将法币入金（on-ramp）服务集成到我们的平台，旨在为用户提供一种无缝、便捷的方式，使用法币购买加密货币。通过我们的入金报价界面，用户可以在不同的服务商之间进行选择，获得 Web3 中的最佳费率。
 
 ### 用户的好处
 
@@ -36,7 +36,7 @@ PancakeSwap 推出了使用信用卡、借记卡或银行转账购买您喜爱�
 
 <figure><img src="../.gitbook/assets/Onramp1.png" alt=""><figcaption></figcaption></figure>
 
-2. 从弹出菜单中选择您想要的法币和代币对。
+2. 从弹出菜单中选择你想要的法币和代币对。
 
 <figure><img src="../.gitbook/assets/Onramp 2M.png" alt="" width="285"><figcaption></figcaption></figure>
 
@@ -68,7 +68,7 @@ PancakeSwap 推出了使用信用卡、借记卡或银行转账购买您喜爱�
 
 </div>
 
-6. 您的加密货币应在几分钟内到达您的钱包。
+6. 你的加密货币应在几分钟内到达你的钱包。
 
 ### 我需要提供身份证明吗？
 
@@ -80,7 +80,7 @@ PancakeSwap 推出了使用信用卡、借记卡或银行转账购买您喜爱�
 
 ### 我可以在哪里了解更多？
 
-您可以在此处访问我们的合作伙伴文档：
+你可以在此处访问我们的合作伙伴文档：
 
 * [Mercuryo](https://help.mercuryo.io/en/articles/6122838-on-and-off-ramps)
 * [MoonPay](https://support.moonpay.com/hc/en-gb/sections/360003486437-Buying-Cryptocurrency-)

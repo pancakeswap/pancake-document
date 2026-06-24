@@ -25,7 +25,7 @@ Infinity StableSwap 使用稳定不变量曲线——一种介于恒定总和与
 
 简单的流动性提供：流动性提供者 (LP) 按比例存入两种代币，无需选择或管理价格区间——这与 CLAMM 池不同。
 
-ERC-20 LP 代币：您的 LP 头寸以标准 ERC-20 代币表示，使其易于与收益计划、积分活动和其他 DeFi 协议配合使用。
+ERC-20 LP 代币：你的 LP 头寸以标准 ERC-20 代币表示，使其易于与收益计划、积分活动和其他 DeFi 协议配合使用。
 
 动态手续费：手续费可根据池的平衡状况进行调整，奖励有助于将池恢复至均衡的交易，并抑制加剧失衡的交易。
 
@@ -64,7 +64,7 @@ A 参数可由池运营者在指定的时间段内逐步调高或调低。变更
 
 ### Infinity StableSwap 与 Classic StableSwap
 
-如果您之前使用过 PancakeSwap 现有的 StableSwap，以下是变化之处——以及保持不变之处。
+如果你之前使用过 PancakeSwap 现有的 StableSwap，以下是变化之处——以及保持不变之处。
 
 | <p><br></p>                 | Classic StableSwap                                        | Infinity StableSwap                                                |
 | --------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------ |
@@ -104,7 +104,7 @@ Infinity StableSwap 作为 PancakeSwap Infinity 上的一个 hook 实现，这�
 
 我需要随时间管理我的头寸吗？
 
-不需要。与 CLAMM 不同，您无需设置或调整价格区间。您的流动性始终在整条曲线上处于活跃状态，因此不存在头寸"超出区间"的风险。
+不需要。与 CLAMM 不同，你无需设置或调整价格区间。你的流动性始终在整条曲线上处于活跃状态，因此不存在头寸"超出区间"的风险。
 
 <br>
 
@@ -146,7 +146,7 @@ Infinity StableSwap 池是无需许可的——任何人都可以创建，无需
 
 <br>
 
-3\. 为您的池选择代币对（例如 USDC / USDT）。
+3\. 为你的池选择代币对（例如 USDC / USDT）。
 
 <figure><img src="../../.gitbook/assets/unknown (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -161,11 +161,11 @@ Infinity StableSwap 池是无需许可的——任何人都可以创建，无需
 | 脱锚手续费乘数        | 当池偏离平衡时放大手续费，抑制加剧失衡的交易。                                                                   |
 | 移动平均时间          | 用于计算移动平均价格以进行动态手续费调整的时间窗口。                                                             |
 
-⚠️ 请谨慎设置参数。错误的参数——尤其是对锚定较为宽松的资产设置非常高的 A——可能会增加 LP 的风险。如果不确定，请使用适合您资产类型的预设，并避免更改高级设置。
+⚠️ 请谨慎设置参数。错误的参数——尤其是对锚定较为宽松的资产设置非常高的 A——可能会增加 LP 的风险。如果不确定，请使用适合你资产类型的预设，并避免更改高级设置。
 
 <br>
 
-选择一个池参数预设——这将自动为您的资产类型设置推荐参数。您仍可以通过高级 (Advanced) 开关手动调整它们。
+选择一个池参数预设——这将自动为你的资产类型设置推荐参数。你仍可以通过高级 (Advanced) 开关手动调整它们。
 
 <figure><img src="../../.gitbook/assets/unknown (3).png" alt=""><figcaption></figcaption></figure>
 
@@ -191,7 +191,7 @@ Infinity StableSwap 池是无需许可的——任何人都可以创建，无需
 
 <br>
 
-6\. 点击 Preview Pool，查看您的设置，勾选确认框，然后点击 Create Pool。
+6\. 点击 Preview Pool，查看你的设置，勾选确认框，然后点击 Create Pool。
 
 <figure><img src="../../.gitbook/assets/unknown (5).png" alt=""><figcaption></figcaption></figure>
 

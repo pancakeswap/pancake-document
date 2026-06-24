@@ -1,6 +1,6 @@
 ---
 description: >-
-  我们理解您可能对我们最新的升级有疑问。我们整理了这份全面的常见问题解答，以解答您的所有疑问。让我们开始吧：
+  我们理解你可能对我们最新的升级有疑问。我们整理了这份全面的常见问题解答，以解答你的所有疑问。让我们开始吧：
 ---
 
 # PancakeSwap Infinity 常见问题解答
@@ -40,11 +40,11 @@ description: >-
 
 **Q5** 社区如何参与 PancakeSwap Infinity 的测试或提供反馈？
 
-**答：** 如果您是社区成员，欢迎通过我们的社交媒体 [Telegram](https://t.me/PancakeSwapAnn)、[Discord](https://discord.com/channels/897834609272840232/1207724381212770315) 和 [Twitter](https://twitter.com/PancakeSwap) 分享您的反馈。如果您是开发者，请加入我们的开发者 Discord 社区并分享您的想法。
+**答：** 如果你是社区成员，欢迎通过我们的社交媒体 [Telegram](https://t.me/PancakeSwapAnn)、[Discord](https://discord.com/channels/897834609272840232/1207724381212770315) 和 [Twitter](https://twitter.com/PancakeSwap) 分享你的反馈。如果你是开发者，请加入我们的开发者 Discord 社区并分享你的想法。
 
 **Q6** 用户在哪里可以找到有关 PancakeSwap Infinity 的更多信息并随时了解其开发进度？
 
-**答：** 访问我们的官方[网站](https://pancakeswap.finance/v4?utm_source=v4announcementblog\&utm_medium=blog\&utm_campaign=v4announcementblog\&utm_id=v4announcementblog)，阅读我们的[白皮书](https://github.com/pancakeswap/pancake-v4-core/blob/main/docs/whitepaper-en.pdf)，并在社交媒体上关注我们以获取最新的更新和动态。如果您是开发者，请加入我们的开发者 Discord 社区。\
+**答：** 访问我们的官方[网站](https://pancakeswap.finance/v4?utm_source=v4announcementblog\&utm_medium=blog\&utm_campaign=v4announcementblog\&utm_id=v4announcementblog)，阅读我们的[白皮书](https://github.com/pancakeswap/pancake-v4-core/blob/main/docs/whitepaper-en.pdf)，并在社交媒体上关注我们以获取最新的更新和动态。如果你是开发者，请加入我们的开发者 Discord 社区。\
 \
 **Q7** PancakeSwap Infinity 的许可机制是什么？
 
@@ -70,7 +70,7 @@ description: >-
 
 **答：** Hooks 模板可以在 [https://github.com/pancakeswap/infinity-hooks-template](https://github.com/pancakeswap/infinity-hooks-template) 找到，示例 hooks 可以在 [https://github.com/pancakeswap/infinity-hooks](https://github.com/pancakeswap/infinity-hooks) 找到。\
 \
-**Q13** 您能解释一下 hooks 的生命周期及其示例吗？
+**Q13** 你能解释一下 hooks 的生命周期及其示例吗？
 
 **答：** Hooks 可以在 5 个关键操作之前/之后实现，即 initialize、swap、addLiquidity、removeLiquidity、donate。例如，当用户发起兑换时，PoolManager 合约会检查是否存在 beforeSwap hook 回调。如果存在，则执行 hook 合约中 beforeSwap 方法下的逻辑；否则，兑换照常进行。兑换完成后，afterSwap 回调会发生相同的过程。\
 \
@@ -81,8 +81,8 @@ description: >-
 \
 **Q15：** 我们如何在 etherscan 上验证 hook 合约？&#x20;
 
-**答：** 如果您使用 foundry，可以参考此处的 foundry 指南 [https://book.getfoundry.sh/reference/forge/forge-verify-contract](https://book.getfoundry.sh/reference/forge/forge-verify-contract) \
-或者，如果您使用 hardhat，请参考此处的 hardhat 指南 [https://hardhat.org/hardhat-runner/docs/guides/verifying](https://hardhat.org/hardhat-runner/docs/guides/verifying)\
+**答：** 如果你使用 foundry，可以参考此处的 foundry 指南 [https://book.getfoundry.sh/reference/forge/forge-verify-contract](https://book.getfoundry.sh/reference/forge/forge-verify-contract) \
+或者，如果你使用 hardhat，请参考此处的 hardhat 指南 [https://hardhat.org/hardhat-runner/docs/guides/verifying](https://hardhat.org/hardhat-runner/docs/guides/verifying)\
 \
 **Q16：** 我们应该使用 foundry 还是 hardhat 进行 hook 开发？
 
@@ -93,4 +93,4 @@ description: >-
 **答：** PoolKey 是描述每个池的结构体。在[此处](https://developer.pancakeswap.finance/contracts/infinity/overview/amm-layer-poolmanager)查看更多。\
 \
 \
-PancakeSwap Infinity 代表了 DeFi 领域的一个重要里程碑，为交易者、开发者、流动性提供者和更广泛的社区提供了无与伦比的好处。我们很高兴与您一起踏上这段旅程，并期待共同塑造 DeFi 的未来。我们希望这份常见问题解答已回答了您关于 PancakeSwap Infinity 的疑问。如果您有任何进一步的问题，欢迎通过（[Twitter](https://twitter.com/PancakeSwap)、[Discord](https://discord.com/channels/897834609272840232/1207724381212770315) 和 [Telegram](https://t.me/PancakeSwap)）与我们联系，或查看我们的开发者[文档](https://developer.pancakeswap.finance)。
+PancakeSwap Infinity 代表了 DeFi 领域的一个重要里程碑，为交易者、开发者、流动性提供者和更广泛的社区提供了无与伦比的好处。我们很高兴与你一起踏上这段旅程，并期待共同塑造 DeFi 的未来。我们希望这份常见问题解答已回答了你关于 PancakeSwap Infinity 的疑问。如果你有任何进一步的问题，欢迎通过（[Twitter](https://twitter.com/PancakeSwap)、[Discord](https://discord.com/channels/897834609272840232/1207724381212770315) 和 [Telegram](https://t.me/PancakeSwap)）与我们联系，或查看我们的开发者[文档](https://developer.pancakeswap.finance)。
