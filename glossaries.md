@@ -1,7 +1,9 @@
 # Glossary — Chinese (Simplified)
 
-**Source of truth:** English (`en`). Translate the right column only; the English column
-is canonical and shared with every other language glossary.
+This file is the Chinese translation glossary for this branch. **English (`en`) is the
+single source of truth** — translate the right column only; the English column is
+canonical and mirrors the same English terms used by every other language branch's
+`glossaries.md`.
 
 **Register:** use the informal second person **你** throughout; do not mix in formal 您.
 
@@ -35,5 +37,11 @@ is canonical and shared with every other language glossary.
 | Block Explorer            | 区块浏览器             |
 | Centralized Exchange      | 中心化交易所           |
 
-See `README.md` for the shared keep-in-English list (brand names, versioned product
-names, and acronyms that are never translated).
+## Keep in English (never translated)
+
+Brand/product names, versioned product names, and acronyms are not translated:
+
+- Brand/product: PancakeSwap, MEV Guard, Social Login, Pancake Gifts, Smart Router,
+  StableSwap, Hooks, veCAKE, bCAKE, iCAKE, CAKE, CAKE.PAD, WBETH, SnBNB.
+- Versioned names: PancakeSwap Infinity, PancakeSwap X, Tokenomics 3.0, v3/v2.
+- Acronyms: MEV, RPC, FAQ, APR, ROI, IL, IFO, TWAP, ALP, AMM, CLAMM, LBAMM, RWA, BSC, CEX.
