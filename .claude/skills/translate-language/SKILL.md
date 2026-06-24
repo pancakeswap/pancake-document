@@ -67,14 +67,20 @@ Give every translation subagent the policy + glossary in its prompt.
 ### 4. Update SUMMARY.md (mirror the en IA)
 Add the new/updated entries to the target branch's `SUMMARY.md`, mirroring the **current
 English information architecture** (same section grouping and same `path/to/file.md`
-paths as `en`), but with **translated titles**. Keep emojis.
+paths as `en`), but with **translated titles**. Keep emojis. **Mandatory:** when the
+English docs use new directory paths that the language branch's SUMMARY does not yet
+reference (a path migration, e.g. legacy `chan-pin/`/`products/` → `trade/`/`earn/`), the
+SUMMARY.md update must ship in the **same PR** — never leave new pages unlinked or the
+nav pointing at old paths.
 
 ### 5. Copy referenced image assets  ⚠️ critical
 GitBook image refs point at `.gitbook/assets/<file>` relative to repo root. These binary
 assets exist on `en` but are usually **absent on the language branch**, so images render
 broken/omitted. After translating, scan every translated file for `.gitbook/assets/...`
 references and `git checkout origin/en -- "<asset>"` for any that are missing on the
-target branch. (Filenames often contain spaces and parentheses — quote them.)
+target branch. (Filenames often contain spaces and parentheses — quote them. Watch for
+`Screenshot ...png` names and filenames containing a **U+202F narrow no-break space**
+before AM/PM — match the exact bytes, not a regular space.)
 
 ### 6. FinalChecker pass
 Spawn the **FinalChecker** agent (`.claude/agents/final-checker.md`) over the full set of
@@ -105,7 +111,9 @@ list (the policy is meant to grow as gaps are identified).
   branch (copied from `en` if missing). No broken/omitted images.
 - **P5 Brand/terms** — keep product/brand names in English (PancakeSwap, MEV Guard,
   Social Login, Pancake Gifts, veCAKE, CAKE, etc.) and keep acronyms (MEV, RPC, FAQ, APR,
-  IFO, TWAP) as-is.
+  IFO, TWAP) as-is. This includes **versioned upgrade names** — e.g. "Tokenomics 3.0",
+  "PancakeSwap Infinity", "v3/v2" — keep the English product name even when surrounding
+  descriptive words are translated.
 - **P6 Inline tokens** — never change HTML entities (`&#x20;`), code spans/blocks, or
   placeholders (e.g. `{Gift_Code}`).
 - **P7 Emojis** — preserve emojis in headings and titles.
@@ -115,7 +123,8 @@ list (the policy is meant to grow as gaps are identified).
   e.g. "FAQ" in nav vs "常见问题解答" in the H1 is acceptable).
 - **P9 Completeness** — no untranslated English prose left behind (other than the allowed
   brand/technical terms in P5).
-- **P10 Glossary** — apply the per-language glossary consistently.
+- **P10 Glossary & register** — apply the per-language glossary consistently. For Chinese,
+  use the **informal second person 你** throughout; do not mix in formal 您.
 
 ## Glossary — Chinese (Simplified)
 

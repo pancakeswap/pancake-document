@@ -3,7 +3,7 @@
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-作为 [代币经济 3.0 升级](https://pancakeswap.finance/voting/proposal/0x79ef496c9737e48d9677a6e291ff2a549dee6729c9996398e453af8ecbf0ceb3) 的一部分，本页面已于 2025 年 5 月 15 日更新
+作为 [Tokenomics 3.0 升级](https://pancakeswap.finance/voting/proposal/0x79ef496c9737e48d9677a6e291ff2a549dee6729c9996398e453af8ecbf0ceb3) 的一部分，本页面已于 2025 年 5 月 15 日更新
 {% endhint %}
 
 投票赋予 PancakeSwap 社区发声的权利，让社区能够对 PancakeSwap 未来的发展方向发表意见。
@@ -12,9 +12,9 @@
 
 ## 投票机制
 
-:notebook\_with\_decorative\_cover:摘要 - 变更内容（在 [代币经济 3.0 更新](https://pancakeswap.finance/voting/proposal/0x79ef496c9737e48d9677a6e291ff2a549dee6729c9996398e453af8ecbf0ceb3) 之后）
+:notebook\_with\_decorative\_cover:摘要 - 变更内容（在 [Tokenomics 3.0 更新](https://pancakeswap.finance/voting/proposal/0x79ef496c9737e48d9677a6e291ff2a549dee6729c9996398e453af8ecbf0ceb3) 之后）
 
-<table><thead><tr><th width="200.6015625">治理组成部分</th><th width="218.01953125">代币经济 3.0 之前</th><th width="205.1796875">代币经济 3.0 之后</th><th>状态<select><option value="q1dVFsCri7zA" label="✅ 已变更" color="blue"></option><option value="4AGl26rwjYcI" label="🔁 未变更" color="blue"></option></select></th></tr></thead><tbody><tr><td>投票权</td><td>1 veCAKE = 1 投票权</td><td>1 CAKE = 1 投票权</td><td><span data-option="q1dVFsCri7zA">✅ 已变更</span></td></tr><tr><td>委托</td><td>允许（通过 veCAKE 机制）</td><td>不允许委托</td><td><span data-option="q1dVFsCri7zA">✅ 已变更</span></td></tr><tr><td>提案提交门槛</td><td>Snapshot 需要 100K veCAKE</td><td>Snapshot 需要 100K CAKE</td><td><span data-option="q1dVFsCri7zA">✅ 已变更</span></td></tr><tr><td>核心提案 vs 社区提案</td><td>为每种提案类型定义了角色和目的</td><td>无变更</td><td><span data-option="4AGl26rwjYcI">🔁 未变更</span></td></tr><tr><td>投票周期</td><td>社区：固定<br>核心：可变</td><td>无变更</td><td><span data-option="4AGl26rwjYcI">🔁 未变更</span></td></tr><tr><td>Snapshot 时间</td><td>在提案发布的区块</td><td>无变更</td><td><span data-option="4AGl26rwjYcI">🔁 未变更</span></td></tr><tr><td>法定人数</td><td>无最低法定人数</td><td>无变更</td><td><span data-option="4AGl26rwjYcI">🔁 未变更</span></td></tr></tbody></table>
+<table><thead><tr><th width="200.6015625">治理组成部分</th><th width="218.01953125">Tokenomics 3.0 之前</th><th width="205.1796875">Tokenomics 3.0 之后</th><th>状态<select><option value="q1dVFsCri7zA" label="✅ 已变更" color="blue"></option><option value="4AGl26rwjYcI" label="🔁 未变更" color="blue"></option></select></th></tr></thead><tbody><tr><td>投票权</td><td>1 veCAKE = 1 投票权</td><td>1 CAKE = 1 投票权</td><td><span data-option="q1dVFsCri7zA">✅ 已变更</span></td></tr><tr><td>委托</td><td>允许（通过 veCAKE 机制）</td><td>不允许委托</td><td><span data-option="q1dVFsCri7zA">✅ 已变更</span></td></tr><tr><td>提案提交门槛</td><td>Snapshot 需要 100K veCAKE</td><td>Snapshot 需要 100K CAKE</td><td><span data-option="q1dVFsCri7zA">✅ 已变更</span></td></tr><tr><td>核心提案 vs 社区提案</td><td>为每种提案类型定义了角色和目的</td><td>无变更</td><td><span data-option="4AGl26rwjYcI">🔁 未变更</span></td></tr><tr><td>投票周期</td><td>社区：固定<br>核心：可变</td><td>无变更</td><td><span data-option="4AGl26rwjYcI">🔁 未变更</span></td></tr><tr><td>Snapshot 时间</td><td>在提案发布的区块</td><td>无变更</td><td><span data-option="4AGl26rwjYcI">🔁 未变更</span></td></tr><tr><td>法定人数</td><td>无最低法定人数</td><td>无变更</td><td><span data-option="4AGl26rwjYcI">🔁 未变更</span></td></tr></tbody></table>
 
 ### 1. **投票权（已变更）**
 

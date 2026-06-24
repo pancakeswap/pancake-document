@@ -2,7 +2,7 @@
 
 <figure><img src="../.gitbook/assets/0422.png" alt="" width="563"><figcaption></figcaption></figure>
 
-## CAKE 代币经济 3.0 概览 <a href="#emission-rate" id="emission-rate"></a>
+## CAKE Tokenomics 3.0 概览 <a href="#emission-rate" id="emission-rate"></a>
 
 PancakeSwap 的目标是构建一个去中心化的生态系统，将 CAKE 社区、流动性提供者以及 PancakeSwap 支持者的灵活性和可持续性放在首位。
 
