@@ -116,15 +116,16 @@ before AM/PM — match the exact bytes, not a regular space.)
   e.g. "FAQ" in nav vs "常见问题解答" in the H1 is acceptable).
 - **P9 Completeness** — no untranslated English prose left behind (other than the allowed
   brand/technical terms in P5).
-- **P10 Glossary & register** — apply the per-language glossary consistently. For Chinese,
-  use the **informal second person 你** throughout; do not mix in formal 您.
+- **P10 Glossary & register** — apply the target language's glossary consistently. Each
+  language has its own glossary file under `glossaries/<language>.md`, keyed to the
+  English source term (see `glossaries/README.md`); follow its register note too.
 
-## Glossary — Chinese (Simplified)
+## Glossaries
 
-Swap→兑换 · Trade/Trading→交易 · Slippage→滑点 · Liquidity→流动性 · Wallet→钱包 ·
-Yield Farming→农场 · Staking→质押 · Liquidity Pool→流动性资金池 ·
-Sandwich attack→三明治攻击 · Frontrun→抢先交易 · Seed phrase→助记词 · Private key→私钥 ·
-Governance→治理 · Tokenomics→代币经济 · FAQ→常见问题解答 · BNB Chain→BNB 链 ·
-Block Explorer→区块浏览器. Keep MEV, RPC, IFO, TWAP, APR, veCAKE, bCAKE, iCAKE as-is.
+Glossaries live in `glossaries/`, one file per language, each keyed to the **English
+source of truth** (`glossaries/README.md` holds the shared keep-in-English list of brand
+names, versioned product names, and acronyms). Before translating, load the target
+language's glossary (e.g. `glossaries/chinese.md`) and pass it to every translation
+subagent. When you settle a new term during a run, add it to that language's glossary
+file only — never edit another language's file.
 
-Extend the glossary for other languages as they are translated.
