@@ -110,7 +110,9 @@ list (the policy is meant to grow as gaps are identified).
   placeholders (e.g. `{Gift_Code}`).
 - **P7 Emojis** — preserve emojis in headings and titles.
 - **P8 SUMMARY** — new pages added under the correct section mirroring the en IA; titles
-  translated; file paths identical to `en`; no dangling links.
+  translated; file paths identical to `en`; no dangling links. The SUMMARY nav title
+  should be consistent with the page's translated H1 (the P5 acronym exception applies —
+  e.g. "FAQ" in nav vs "常见问题解答" in the H1 is acceptable).
 - **P9 Completeness** — no untranslated English prose left behind (other than the allowed
   brand/technical terms in P5).
 - **P10 Glossary** — apply the per-language glossary consistently.

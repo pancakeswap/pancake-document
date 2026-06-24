@@ -45,7 +45,8 @@ For every translated file, compare it against its English counterpart on `origin
 - **P7 Emojis** — emojis in headings/titles preserved.
 - **P8 SUMMARY** — every newly translated page is linked from `SUMMARY.md`; the link path
   matches en; the title is translated; no dangling links (every linked path exists as a
-  file).
+  file). SUMMARY nav title should be consistent with the page's translated H1 (P5 acronym
+  exception applies — e.g. "FAQ" in nav vs "常见问题解答" in the H1 is fine).
 - **P9 Completeness** — no leftover untranslated English sentences/paragraphs (allow the
   brand/technical terms from P5). Spot-check that prose is actually in the target language.
 - **P10 Glossary** — key terms translated consistently per the project glossary.
