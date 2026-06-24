@@ -1,6 +1,6 @@
 ---
 name: translate-language
-description: Translate the PancakeSwap GitBook docs into one supported language, using the `en` branch as the source of truth. Use when asked to translate/update docs for a language (e.g. "translate the docs into Chinese", "update the Spanish translation", "translate the Trade section into Japanese"). Orchestrates per-language translation subagents, runs the FinalChecker agent to enforce translation policy, and opens a PR into the language branch.
+description: Translate the PancakeSwap GitBook docs into one supported language, using the `en` branch as the source of truth. Use when asked to translate/update docs for a language (e.g. "translate the docs into Chinese", "update the Spanish translation", "translate the Trade section into Japanese"). Orchestrates per-language translation subagents and opens a PR into the language branch.
 ---
 
 # Translate docs into one language
@@ -82,23 +82,16 @@ target branch. (Filenames often contain spaces and parentheses — quote them. W
 `Screenshot ...png` names and filenames containing a **U+202F narrow no-break space**
 before AM/PM — match the exact bytes, not a regular space.)
 
-### 6. FinalChecker pass
-Spawn the **FinalChecker** agent (`.claude/agents/final-checker.md`) over the full set of
-changed files. It maintains a checklist and verifies each translated page against the
-TRANSLATION POLICY. Fix every ❌ it reports, then re-run it until the checklist is all ✅.
-If FinalChecker finds a recurring gap not yet in the policy, add it to this file's policy
-list (the policy is meant to grow as gaps are identified).
-
-### 7. Commit & open PR
+### 6. Commit & open PR
 - Commit translations and assets (separate, clearly-described commits are fine).
 - Push the work branch.
 - Open a PR with **base = the target language branch** (NOT `en`, NOT the repo default).
-- PR body: scope, conventions applied, FinalChecker summary, and a note that a
-  **native-speaker review** is recommended before merge.
+- PR body: scope, conventions applied, and a note that a **native-speaker review** is
+  recommended before merge.
 - Do not merge. If git push is blocked (403) in this environment, retry; the GitHub MCP
   branch/PR tools may have write access even when raw git does not.
 
-## TRANSLATION POLICY (checklist the FinalChecker enforces)
+## TRANSLATION POLICY (rules every translation subagent must follow)
 
 - **P1 Frontmatter** — keep `---` delimiters and YAML keys; translate only natural-language
   values (e.g. `description:`). Never translate keys like `icon:`.
