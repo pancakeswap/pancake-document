@@ -47,13 +47,13 @@
 
 是的，你需要在彩票页面的 "Are you a winner?"（你是中奖者吗？）下点击 **Check Now**（立即查看）按钮。
 
-![](<../../.gitbook/assets/image (68).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2868%29.png)
 
 ## 多久开一次彩票？
 
 每 12 或 36 小时进行一次彩票抽奖。每天进行一次抽奖，在 UTC 时间 0 点和 12 点之间交替进行，UTC 时间 0 点回合之后的下一回合将在 36 小时后，UTC 时间 12 点回合之后的下一回合将在 12 小时后。
 
-![Lottery injection schedule](<../../.gitbook/assets/Lottery Schedule Update Feb 4.png>)
+![Lottery injection schedule](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Lottery%20Schedule%20Update%20Feb%204.png)
 
 ## 购买彩票需要支付多少交易手续费？
 

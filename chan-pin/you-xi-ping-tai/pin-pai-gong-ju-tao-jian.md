@@ -4,11 +4,11 @@ description: 给游戏合作伙伴们，本页提供一些指南，和可供下�
 
 # 📒 品牌工具套件
 
-<figure><img src="../../.gitbook/assets/image (359).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28359%29.png" alt=""><figcaption></figcaption></figure>
 
 ## 可用在游戏中的品牌工具套件
 
-<figure><img src="../../.gitbook/assets/image (361).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28361%29.png" alt=""><figcaption></figcaption></figure>
 
 :point\_right: [点击查看指南并下载 figma 上的资源](https://www.figma.com/file/658oTHPzqnygmNXi9XANkC/Brand-Kit---Game-\(Public\)?type=design\&node-id=60%3A222\&mode=design\&t=lV1WGVgmR6LxDkcS-1)
 

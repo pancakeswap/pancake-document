@@ -10,7 +10,7 @@ PancakeSwap 的联盟计划旨在奖励那些为社区的发展壮大以及对�
 
 通过审查后，您将获得进入联盟仪表板的权限，您可以通过连接您在项目申请中提交的钱包以进入联盟仪表盘。
 
-<figure><img src="../.gitbook/assets/affiliate-landing-page-07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/affiliate-landing-page-07.png" alt=""><figcaption></figcaption></figure>
 
 这个仪表板将为你提供一系列的工具和资源，您可以通过创建分享链接来分享本协议的产品或服务，还可以跟踪您的佣金情况。
 

@@ -1,6 +1,6 @@
 # 入门指南 (BSC)
 
-![](../../../.gitbook/assets/get-started-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/get-started-header.png)
 
 使用任何新事物都可能会有点挑战。不过别担心，我们准备了一系列指南，帮助你轻松上手 PancakeSwap！
 

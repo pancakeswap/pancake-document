@@ -10,7 +10,7 @@
 
 在 BscScan 上输入您的钱包地址，然后检查 “Internal Txns” 选项卡以确认您已经收到奖金。
 
-<figure><img src="../../.gitbook/assets/pasted image 0 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/pasted%20image%200%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 ### 为什么我参与的回合没有显示结果？
 

@@ -1,6 +1,6 @@
 # EVM 链与 Aptos 之间跨链
 
-<figure><img src="../../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28114%29.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 下方的指南将以 BNB 链为 EVM 链跨链的例子。同样的步骤可以通用于以太链。
@@ -16,25 +16,25 @@
 
 点击 "Connect 连接"，在 "EVM" 那栏选择你的钱包。然后在你的钱包弹出窗口确认并批准（approve）。(目前只支持 MetaMask。之后将会逐步支持更多的钱包。)
 
-<figure><img src="../../.gitbook/assets/bridging-wallet-connect-modal (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-wallet-connect-modal%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 3 - 然后，我们需要连接我们的 Aptos 钱包。在钱包连接模式中，在 "Aptos" 栏选择你的钱包。然后在你的钱包弹出窗口中确认并批准（approve）。
 
-<figure><img src="../../.gitbook/assets/跨链 1 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E8%B7%A8%E9%93%BE%201%20%282%29.png" alt=""><figcaption></figcaption></figure>
 
 4 - 点击上面 Token 符号选择栏中的 "v"，选择 "CAKE"。
 
-<figure><img src="../../.gitbook/assets/跨链 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E8%B7%A8%E9%93%BE%202.png" alt=""><figcaption></figcaption></figure>
 
 5 - 输入你想要跨链到 Aptos 的 CAKE 数量。
 
-<figure><img src="../../.gitbook/assets/跨链 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E8%B7%A8%E9%93%BE%203.png" alt=""><figcaption></figcaption></figure>
 
 6 - 如果你的 Aptos 钱包是新创建的，并且没有任何 APT（Aptos 代币）余额。我们建议将 "gas on destination" 选项维持在默认状态。跨链桥将向你的钱包中存入少量 APT，不仅是为了帮助开启你的Aptos 链上之旅，而且你还需要 APT 作为 gas 来注册和领取跨链后的 CAKE。
 
 修改这个选项可能会导致跨链失败。
 
-<figure><img src="../../.gitbook/assets/跨链 4.png" alt=""><figcaption><p>.</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E8%B7%A8%E9%93%BE%204.png" alt=""><figcaption><p>.</p></figcaption></figure>
 
 7 - 通过点击 "Transfer (转移)" 来发起跨链操作，在钱包弹出的窗口中确认此链上操作。
 
@@ -47,7 +47,7 @@
 
 8 - 现在只需要放松等待。CAKE 的跨链应该只需要几分钟时间。一旦跨链完成，CAKE 将被存入你的Aptos 钱包。你可以通过进度条追踪进度。
 
-<figure><img src="../../.gitbook/assets/跨链 5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E8%B7%A8%E9%93%BE%205.png" alt=""><figcaption></figcaption></figure>
 
 ## 首次将 CAKE 跨链到 Aptos 链需要注意的
 
@@ -73,21 +73,21 @@
 
 点击 "Connect 连接"，在 "EVM" 那栏选择你的钱包。然后在你的钱包弹出窗口确认并批准（approve）。(目前只支持 MetaMask。之后将会逐步支持更多的钱包。)
 
-<figure><img src="../../.gitbook/assets/bridging-wallet-connect-modal (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-wallet-connect-modal%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 3 - 然后，我们需要连接我们的 Aptos 钱包。在钱包连接模式中，在 "Aptos" 栏选择你喜欢的钱包。然后在你的钱包弹出窗口中确认和批准（approve）。
 
-<figure><img src="../../.gitbook/assets/aptos -bsc 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/aptos%20-bsc%202.png" alt=""><figcaption></figcaption></figure>
 
 4 - 点击上面 Token 符号选择栏中的 "v"，选择 "CAKE"。然后点击中间的双向箭头按钮来转换跨链方向。
 
 注意确保 Aptos 链在上方。
 
-<figure><img src="../../.gitbook/assets/aptos -bsc 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/aptos%20-bsc%203.png" alt=""><figcaption></figcaption></figure>
 
 5 - 输入你想要跨链到 BNB 智能链的 CAKE 数量。
 
-<figure><img src="../../.gitbook/assets/aptos -bsc 4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/aptos%20-bsc%204.png" alt=""><figcaption></figcaption></figure>
 
 6 - 如果你的 BNB 智能链钱包是新创建的，并且没有任何 BNB（gas代币）余额。我们建议将 "gas on destination" 选项维持在默认状态。跨链桥将会把少量的 BNB 存入你的钱包。它将帮助开启你在 BNB 智能链上的旅程，探索生动的 PancakeSwap 生态系统。
 

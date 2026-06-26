@@ -1,6 +1,6 @@
 # 我应该如何使用它？
 
-<figure><img src="../../../.gitbook/assets/how-to-pancakeswap-without-cex-header-CN.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-pancakeswap-without-cex-header-CN.png" alt=""><figcaption></figcaption></figure>
 
 功能使用起来很简单（难的是做出优秀的交易）。我们只需要遵循一系列步骤即可完成我们的首次体验。
 
@@ -12,15 +12,15 @@
 
 您需要先将资金充值进合约账户。在屏幕右下角的资产框中点击「充值」。
 
-<figure><img src="../../../.gitbook/assets/资产余额.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E8%B5%84%E4%BA%A7%E4%BD%99%E9%A2%9D.png" alt=""><figcaption></figcaption></figure>
 
 USDT、BUSD、APX 或 CAKE（有优惠！）可用作交易抵押品。
 
-<figure><img src="../../../.gitbook/assets/充值.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E5%85%85%E5%80%BC.png" alt=""><figcaption></figcaption></figure>
 
 如前所述，使用 CAKE 支付费用可享受 5% 的折扣！ 那么，何乐而不为呢？
 
-<figure><img src="../../../.gitbook/assets/使用CAKE付费.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E4%BD%BF%E7%94%A8CAKE%E4%BB%98%E8%B4%B9.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 注意：交易费用为挂单名义价值的 0.02% 和吃单的 0.07%。 CAKE 将是交易费用的默认支付选项，其次是 APX（ApolloX 的代币）和 USDT。 任何使用 CAKE 支付交易费用的用户将享受 5% 的交易费用折扣。
@@ -32,13 +32,13 @@ USDT、BUSD、APX 或 CAKE（有优惠！）可用作交易抵押品。
 
 更多的可交易代币对会显示出来！
 
-<figure><img src="../../../.gitbook/assets/选择交易对.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E9%80%89%E6%8B%A9%E4%BA%A4%E6%98%93%E5%AF%B9.png" alt=""><figcaption></figcaption></figure>
 
 ### 分析图表并制定您的交易策略
 
 交易时间到了！！ 让我们认真起来。 您可以使用所有可用工具以自己的方式分析图表。
 
-<figure><img src="../../../.gitbook/assets/分析图表.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E5%88%86%E6%9E%90%E5%9B%BE%E8%A1%A8.png" alt=""><figcaption></figcaption></figure>
 
 **您知道怎么进行分析，或者想改进您的分析结果吗？**
 
@@ -52,7 +52,7 @@ USDT、BUSD、APX 或 CAKE（有优惠！）可用作交易抵押品。
 
 然后，在右上方，您可以在界面上设置您的订单。
 
-<figure><img src="../../../.gitbook/assets/设置订单.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E8%AE%BE%E7%BD%AE%E8%AE%A2%E5%8D%95.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -62,27 +62,27 @@ _以下步骤不按特定顺序排列_
 
 1. 保证金模式：逐仓或者全仓
 
-<figure><img src="../../../.gitbook/assets/保证金模式 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E4%BF%9D%E8%AF%81%E9%87%91%E6%A8%A1%E5%BC%8F%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 2. 杠杆的倍数
 
-<figure><img src="../../../.gitbook/assets/调整杠杆.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E8%B0%83%E6%95%B4%E6%9D%A0%E6%9D%86.png" alt=""><figcaption></figcaption></figure>
 
 免责声明：请记住，高倍数的杠杆会带来非常高的风险，请谨慎明智地使用它。&#x20;
 
 3. 选择订单类型
 
-<figure><img src="../../../.gitbook/assets/订单类型.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E8%AE%A2%E5%8D%95%E7%B1%BB%E5%9E%8B.png" alt=""><figcaption></figcaption></figure>
 
 4. 为您的订单设定价格
 
-<figure><img src="../../../.gitbook/assets/订单定价 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E8%AE%A2%E5%8D%95%E5%AE%9A%E4%BB%B7%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 注意：您可以点击价格栏右边的“最新“” 自动填充最新的市场价格。
 
 5. 设置订单大小
 
-<figure><img src="../../../.gitbook/assets/设置订单大小.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E8%AE%BE%E7%BD%AE%E8%AE%A2%E5%8D%95%E5%A4%A7%E5%B0%8F.png" alt=""><figcaption></figcaption></figure>
 
 您也可以选择参考代币查看您的可用仓位。
 
@@ -94,19 +94,19 @@ _以下步骤不按特定顺序排列_
 
 设置好所有参数后，如果是多头订单，您可以点击买入/做多发送订单，如果是空头订单，则点击卖出/做空。
 
-<figure><img src="../../../.gitbook/assets/做多做空.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E5%81%9A%E5%A4%9A%E5%81%9A%E7%A9%BA.png" alt=""><figcaption></figcaption></figure>
 
 ### 检查您的订单状态
 
 订单发送后，将显示在 “当前委托” 中，直到成交完毕。
 
-<figure><img src="../../../.gitbook/assets/下单委托.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E4%B8%8B%E5%8D%95%E5%A7%94%E6%89%98.png" alt=""><figcaption></figcaption></figure>
 
 ### 实时的！
 
 当它被成交完成时，你的订单状态显示将是实时的。 您可以在订单面板 “仓位” 中看到它。 您也可以查看、修改或关闭它。
 
-<figure><img src="../../../.gitbook/assets/成交后.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E6%88%90%E4%BA%A4%E5%90%8E.png" alt=""><figcaption></figcaption></figure>
 
 ### 交易手续费、资金费率是多少？ <a href="#id-6c14" id="id-6c14"></a>
 
@@ -146,7 +146,7 @@ _以下步骤不按特定顺序排列_
 
 目前支援 BNB 智能链、以太坊。在页面上方找到显示当前链的按钮如下图，点击，可以打开下拉选单，再单击目标链即可切换。
 
-<figure><img src="../../../.gitbook/assets/prepetual-swap-chainprepetual-switch chain.jpg" alt=""><figcaption><p>左图：手机版；右图：PC 版</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/prepetual-swap-chainprepetual-switch%20chain.jpg" alt=""><figcaption><p>左图：手机版；右图：PC 版</p></figcaption></figure>
 
 
 

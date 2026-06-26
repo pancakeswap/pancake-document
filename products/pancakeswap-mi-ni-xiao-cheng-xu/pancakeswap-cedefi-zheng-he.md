@@ -14,7 +14,7 @@ PancakeSwap 是第一个整合和支持使用币安 DeFi 钱包的 DeFi 项目�
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/CEDEFI 1 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/CEDEFI%201%20%281%29.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -22,7 +22,7 @@ PancakeSwap 是第一个整合和支持使用币安 DeFi 钱包的 DeFi 项目�
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/CEDEFI 2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/CEDEFI%202.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -30,7 +30,7 @@ PancakeSwap 是第一个整合和支持使用币安 DeFi 钱包的 DeFi 项目�
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/CEDEFI 3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/CEDEFI%203.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -38,7 +38,7 @@ PancakeSwap 是第一个整合和支持使用币安 DeFi 钱包的 DeFi 项目�
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/CEDEFI 4.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/CEDEFI%204.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -46,7 +46,7 @@ PancakeSwap 是第一个整合和支持使用币安 DeFi 钱包的 DeFi 项目�
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/CEDEFI 5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/CEDEFI%205.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -54,7 +54,7 @@ PancakeSwap 是第一个整合和支持使用币安 DeFi 钱包的 DeFi 项目�
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/CEDEFI 6.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/CEDEFI%206.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 

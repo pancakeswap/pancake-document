@@ -69,8 +69,8 @@ R=Min(美元价值乘数 \* 交易费用, 美元价值上限)/ Max(APX 最新价
 
 第 2 步：点击页面顶部的 Trading Reward (V2) 标签
 
-<figure><img src="../../../../.gitbook/assets/Trading Reward.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Trading%20Reward.png" alt=""><figcaption></figcaption></figure>
 
 第 3 步：你将被重定向到 ApolloX 奖励领取页面，以查看你当前的奖励状态。在活动期间点击"Claim"领取你的奖励。
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2023-06-29 at 10.26.11 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202023-06-29%20at%2010.26.11%20AM.png" alt=""><figcaption></figcaption></figure>

@@ -16,7 +16,7 @@ description: >-
 \
 **3. AMM 设计的灵活性：** PancakeSwap Infinity 支持多种池类型，包括 CLAMM 和 LBAMM，允许交易者和 LP 选择不同的池类型。这种包容性的方法还能支持任何未来需要新定价曲线的资产。查看此博客[了解更多](https://blog.pancakeswap.finance/articles/everything-you-need-to-know-about-pancake-swap-v4-what-s-in-it-for-developers-traders-liquidity-providers-and-defi-protocols)
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-03-15 at 16.16.56.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-03-15%20at%2016.16.56.png" alt=""><figcaption></figcaption></figure>
 
 **Q2** PancakeSwap Infinity 将如何让开发者和 defi 协议受益？
 
@@ -28,7 +28,7 @@ description: >-
 
 **3. 收入生成机会：** 开发者可以通过 hook 手续费建立稳定的收入来源，允许他们为使用其 hooks 设定费用。通过用手续费将其创新货币化，开发者可以为 PancakeSwap 生态系统的发展和壮大做出贡献。查看此博客[了解更多](https://blog.pancakeswap.finance/articles/everything-you-need-to-know-about-pancake-swap-v4-what-s-in-it-for-developers-traders-liquidity-providers-and-defi-protocols)
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-03-15 at 09.40.42.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-03-15%20at%2009.40.42.png" alt=""><figcaption></figcaption></figure>
 
 **Q3** 与 v3 相比，PancakeSwap Infinity 带来了哪些改进？
 

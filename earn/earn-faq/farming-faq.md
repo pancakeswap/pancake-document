@@ -73,7 +73,7 @@ PancakeSwap v3 支持通过 Zap 进行一键流动性存入，该功能在 BNB C
 
 ### 为什么我看到一个"更新头寸"弹窗？
 
-![](<../../.gitbook/assets/image (321).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28321%29.png)
 
 在 V3 推出后不久，主厨们对农场实施了一项更新，以使奖励计算更加准确和可靠。如果你看到此弹窗，这意味着你的一些头寸需要更新。
 

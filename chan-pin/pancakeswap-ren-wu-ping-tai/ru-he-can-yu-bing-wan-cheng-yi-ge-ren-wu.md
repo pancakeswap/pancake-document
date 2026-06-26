@@ -4,7 +4,7 @@
 
 1.  用户可以选择通过链接直接加入任务，或前往我们的[任务主页](https://quest.pancakeswap.finance/quests)浏览新任务。点击进入任何一个任务，以了解更多信息。
 
-    <figure><img src="../../.gitbook/assets/image (403).png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28403%29.png" alt="" width="563"><figcaption></figcaption></figure>
 2. 在探索页面，您可以浏览不同任务数量、获胜者、任务的区块链和任务有效期。&#x20;
 3. 开始任务 选定任务后，用户可以点击 “加入任务”，开始参与任务。
 
@@ -12,7 +12,7 @@
 
 1.  在完成每个任务之前，用户都必须完成任务规定的挑战。选择任务并按照屏幕上的提示完成挑战。挑战的范围包括社交任务和链上的项目。
 
-    <figure><img src="../../.gitbook/assets/image (404).png" alt="" width="368"><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28404%29.png" alt="" width="368"><figcaption></figcaption></figure>
 2.  特殊任务 - 任务可以包括：&#x20;
 
     1. 赞 X 上的一篇文章
@@ -23,11 +23,11 @@
 
     完成任务后，点击验证按钮（如果有）。PancakeSwap 任务会提示用户验证社交网络以完成任务。
 
-    <figure><img src="../../.gitbook/assets/image (405).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28405%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
     任务通过验证后，您应在任务侧面看到一个“√”。
 
-    <figure><img src="../../.gitbook/assets/image (407).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28407%29.png" alt="" width="375"><figcaption></figcaption></figure>
 3.  链上任务 - 链上任务包括：
 
     1. 在 x 链上交换代币 - 点击交换链接直接进入交换页面
@@ -39,7 +39,7 @@
 
 
 
-    <figure><img src="../../.gitbook/assets/image (409).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28409%29.png" alt=""><figcaption></figcaption></figure>
 5. 用户还可以选择完成可选任务，这些任务不计入任务的完成要求。
 
 ### **检查任务状态**

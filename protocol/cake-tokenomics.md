@@ -1,6 +1,6 @@
 # 🍰 CAKE 代币经济
 
-<figure><img src="../.gitbook/assets/0422.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/0422.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## CAKE Tokenomics 3.0 概览 <a href="#emission-rate" id="emission-rate"></a>
 

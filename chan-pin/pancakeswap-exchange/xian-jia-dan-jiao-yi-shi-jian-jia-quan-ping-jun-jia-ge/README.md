@@ -1,6 +1,6 @@
 # 限价單交易 & 时间加权平均价格 (TWAP)
 
-![](<../../../.gitbook/assets/image (110).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28110%29.png)
 
 {% hint style="info" %}
 **原限价单（v2）已弃用，将不再进行维护。**&#x8BF7;再度确认您正在使用的为新版限价单网址：[https://pancakeswap.finance/swap/limit](https://pancakeswap.finance/swap/limit)。新版限价单将可用于 PancakeSwap 所有流动性类型。\

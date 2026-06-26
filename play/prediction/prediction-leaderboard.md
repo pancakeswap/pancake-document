@@ -10,7 +10,7 @@
 
 1.  **直接从预测页面访问排行榜**。
 
-    <figure><img src="../../.gitbook/assets/image (454).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28454%29.png" alt=""><figcaption></figcaption></figure>
 2. **按代币筛选**
    * 选择你想查看顶尖玩家的市场（BNB、BTC、ETH）。
 3. **按排名标准排序**
@@ -22,8 +22,8 @@
 
     * 输入一个钱包地址以显示其成绩卡，即使它未达到 10 个回合的门槛。
 
-    <figure><img src="../../.gitbook/assets/image (455).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28455%29.png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../../.gitbook/assets/image (456).png" alt="" width="384"><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28456%29.png" alt="" width="384"><figcaption></figcaption></figure>
 
 ***

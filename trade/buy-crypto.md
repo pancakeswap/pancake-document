@@ -34,25 +34,25 @@ PancakeSwap 推出了使用信用卡、借记卡或银行转账购买你喜爱�
 
 1. 点击 PancakeSwap 平台上的 "Buy Crypto" 按钮。
 
-<figure><img src="../.gitbook/assets/Onramp1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Onramp1.png" alt=""><figcaption></figcaption></figure>
 
 2. 从弹出菜单中选择你想要的法币和代币对。
 
-<figure><img src="../.gitbook/assets/Onramp 2M.png" alt="" width="285"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Onramp%202M.png" alt="" width="285"><figcaption></figcaption></figure>
 
 3. 点击 "Get Quote"
 
-<figure><img src="../.gitbook/assets/Onramp 3M.png" alt="" width="294"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Onramp%203M.png" alt="" width="294"><figcaption></figcaption></figure>
 
 4. 选择推荐的报价。&#x20;
 
 <div>
 
-<figure><img src="../.gitbook/assets/Mercuryo Onramp 4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Mercuryo%20Onramp%204.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Moonpay Onramp 4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Moonpay%20Onramp%204.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -60,11 +60,11 @@ PancakeSwap 推出了使用信用卡、借记卡或银行转账购买你喜爱�
 
 <div>
 
-<figure><img src="../.gitbook/assets/Onramp5m.png" alt="" width="303"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Onramp5m.png" alt="" width="303"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Moonpay Onramp 5.png" alt="" width="306"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Moonpay%20Onramp%205.png" alt="" width="306"><figcaption></figcaption></figure>
 
 </div>
 

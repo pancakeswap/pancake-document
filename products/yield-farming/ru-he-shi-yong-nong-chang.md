@@ -20,7 +20,7 @@ description: 在PancakeSwap上使用农场非常简单！
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (70).png" alt="" width="347"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2870%29.png" alt="" width="347"><figcaption></figcaption></figure>
 
 </div>
 
@@ -35,7 +35,7 @@ description: 在PancakeSwap上使用农场非常简单！
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28124%29.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -53,7 +53,7 @@ description: 在PancakeSwap上使用农场非常简单！
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/流动性添加.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E6%B5%81%E5%8A%A8%E6%80%A7%E6%B7%BB%E5%8A%A0.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -61,23 +61,23 @@ description: 在PancakeSwap上使用农场非常简单！
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/流动性添加2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E6%B5%81%E5%8A%A8%E6%80%A7%E6%B7%BB%E5%8A%A02.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 ### 将你的流动性仓位质押到农场
 
-![](<../../.gitbook/assets/image (80).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2880%29.png)
 
 完成流动性添加后。你可以看到你的仓位将在你想使用的农场下列出。&#x20;
 
 如果你有多个仓位，你可以点击 "查看全部"，并在新的弹出窗口中查看它们。
 
-![](<../../.gitbook/assets/image (235).png>)![](<../../.gitbook/assets/image (183).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28235%29.png)![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28183%29.png)
 
 在列出的仓位上点击 "质押"，你的钱包弹出提示供你确认。
 
-![](<../../.gitbook/assets/image (232).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28232%29.png)
 
 短暂的等待后，窗口将关闭，你将在详情中看到你的质押仓位细节。
 
@@ -89,7 +89,7 @@ description: 在PancakeSwap上使用农场非常简单！
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/流动性添加3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E6%B5%81%E5%8A%A8%E6%80%A7%E6%B7%BB%E5%8A%A03.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -97,7 +97,7 @@ description: 在PancakeSwap上使用农场非常简单！
 
 如果你有多个已经质押仓位，你可以点击 "查看全部"，并在新的弹出窗口中查看它们。
 
-![](<../../.gitbook/assets/image (218).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28218%29.png)
 
 点击对应流动性仓位旁边的 "收割"，之后你的钱包弹出提示供你确认。等待区块确认后，CAKE 奖励将被发送到你的钱包。
 
@@ -107,13 +107,13 @@ description: 在PancakeSwap上使用农场非常简单！
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/流动性添加3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E6%B5%81%E5%8A%A8%E6%80%A7%E6%B7%BB%E5%8A%A03.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 你只需回到农场页面，找到你想调整的农场和对应仓位。你可以使用 "仅限已质押" 的功能键来快速筛选你当前质押的农场。&#x20;
 
-![](<../../.gitbook/assets/image (71).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2871%29.png)
 
 点击带有代币对、费率、仓位 ID 等信息和 ">" 箭头的仓位标题。你将可以看到对应仓位的详细信息页面。 只需通过 "添加" 或 "移除" 按钮来调整所质押仓位的流动性设置。&#x20;
 
@@ -145,7 +145,7 @@ description: 在PancakeSwap上使用农场非常简单！
 
 在继续下一步之前，选择一个适合你的农场。打开[农场页面](https://pancakeswap.finance/farms)，可以看到目前可参与的农场列表。
 
-<figure><img src="../../.gitbook/assets/微信截图_20220831161433.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20220831161433.png" alt=""><figcaption></figcaption></figure>
 
 你可以选择其他种排序选项，如按 **APR** 排序，查看目前利率最高的农场。
 
@@ -160,7 +160,7 @@ description: 在PancakeSwap上使用农场非常简单！
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/微信截图_20220831161938 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20220831161938%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -170,25 +170,25 @@ description: 在PancakeSwap上使用农场非常简单！
 
 1.  返回农场页面并找到你选择的农场。单击此农场任意空白处，它将展开更多细节。
 
-    <figure><img src="../../.gitbook/assets/微信截图_20220831162743.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20220831162743.png" alt=""><figcaption></figcaption></figure>
 
     准备就绪后，单击**启用**按钮并在钱包中确认你的操作。
 2.  稍等片刻后，启用按钮将变为**质押 LP**。 单击它，将出现一个新窗口。
 
-    <figure><img src="../../.gitbook/assets/质押LP.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E8%B4%A8%E6%8A%BCLP.png" alt=""><figcaption></figcaption></figure>
 3.  输入数量后（或点击「最大」投入所有 LP 代币），**确认**按钮将亮起。\
 
 
-    <figure><img src="../../.gitbook/assets/质押LP代币.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E8%B4%A8%E6%8A%BCLP%E4%BB%A3%E5%B8%81.png" alt=""><figcaption></figcaption></figure>
 4. 点击它。你的钱包会要求你授权你的操作。
 5.  稍等片刻后，窗口将关闭，你将在详细信息中看到你新质押的 LP 代币 余额。
 
-    <figure><img src="../../.gitbook/assets/已质押.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E5%B7%B2%E8%B4%A8%E6%8A%BC.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 当你在 BNB 链以外的 EVM 区块链上质押挖矿时。你需要等待约 30 分钟待跨链讯息传递完毕。
 
-![](<../../.gitbook/assets/image (37).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2837%29.png)
 
 若要查看你的进程，可以点击余额右侧的转圈图标（circular icon），或点击右上角的「最近的交易（Recent Transaction）」。
 {% endhint %}
@@ -205,17 +205,17 @@ description: 在PancakeSwap上使用农场非常简单！
 
 1. 返回 [农场页面](https://pancakeswap.finance/farms)，在页面顶部，你将看到仅限已质押，单击以切换。
 
-<figure><img src="../../.gitbook/assets/微信截图_20220831163921.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20220831163921.png" alt=""><figcaption></figcaption></figure>
 
 你现在应该只会在列表中看到你拥有的 LP 代币对应的农场，这将更容易找到你的农场。
 
 &#x20;2\. 找到你拥有的 LP 代币对应的农场，然后单击该行以查看详细信息。 你将在右侧看到一个 - 和 + 按钮。 单击 - 移除/减少 LP 代币，或单击 + 添加更多 LP 代币。
 
-<figure><img src="../../.gitbook/assets/移除农场LP代币.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E7%A7%BB%E9%99%A4%E5%86%9C%E5%9C%BALP%E4%BB%A3%E5%B8%81.png" alt=""><figcaption></figcaption></figure>
 
 3\. 将弹出一个窗口，该窗口类似于之前用于首次质押 LP 代币的窗口。像上次一样，输入想要取消质押/质押的数量，或单击 **最大** 以移除/添加所有可用的 LP 代币。
 
-<figure><img src="../../.gitbook/assets/取消质押LP.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E5%8F%96%E6%B6%88%E8%B4%A8%E6%8A%BCLP.png" alt=""><figcaption></figcaption></figure>
 
 4\. 检查并确保显示的信息是正确的。 准备好后，单击 **确认** 按钮并于钱包中确认你的操作。&#x20;
 
@@ -234,7 +234,7 @@ description: 在PancakeSwap上使用农场非常简单！
 1. 回到 [农场页面](https://pancakeswap.finance/farms)。
 2. 找到你质押 LP 代币的农场，然后单击该行以查看详细信息。 你应该在 “**CAKE 已赚取**” 下看到你的奖励估算值。
 
-<figure><img src="../../.gitbook/assets/收割 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E6%94%B6%E5%89%B2%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 &#x20; 3.单击收割按钮并确认你钱包中的操作。 稍等片刻后，CAKE 将被提取到你的钱包中，供你随意使用。
 
@@ -242,7 +242,7 @@ description: 在PancakeSwap上使用农场非常简单！
 当你在 BNB 链以外的 EVM 区块链上使用跨链农场时，你将需切换到 BNB 智能链来收割您的农场奖励。\
 如果你的钱包不支持多链之间的切换，操作质押或取消质押 LP 代币将自动收割你的 CAKE。请注意，收割的 CAKE 将在 BNB 智能链上分发。
 
-![](<../../.gitbook/assets/image (276).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28276%29.png)
 {% endhint %}
 
 ## 我应该多久收割一次我的奖励？
@@ -251,7 +251,7 @@ description: 在PancakeSwap上使用农场非常简单！
 
 点击 **收割** 后，确认时，你可以在钱包中看到此费用。
 
-<figure><img src="../../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29%20%283%29.png" alt=""><figcaption></figcaption></figure>
 
 以上显示了 MetaMask 钱包中出现的收割费用。不同的钱包会以不同的方式显示信息。可以考虑让你的奖励累积一段时间，这样你支付 gas 费用的频率就会降低。&#x20;
 

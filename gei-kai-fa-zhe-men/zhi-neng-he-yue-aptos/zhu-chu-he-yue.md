@@ -205,4 +205,4 @@ public fun pool_length():u64
 
 OtterSec's PancakeSwap Aptos MasterChef security audit:
 
-{% file src="../../.gitbook/assets/PancakeSwap_aptos_masterchef_audit.pdf" %}
+{% file src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/PancakeSwap_aptos_masterchef_audit.pdf" %}

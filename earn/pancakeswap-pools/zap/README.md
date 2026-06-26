@@ -24,7 +24,7 @@ Zap 是一项让您轻松添加流动性的功能。借助 Zap，无论资金池
 
 #### 开始 <a href="#e43d56cd-978e-4503-8b7a-974428d4142c" id="e43d56cd-978e-4503-8b7a-974428d4142c"></a>
 
-<figure><img src="../../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%283%29%20%282%29.png" alt=""><figcaption></figcaption></figure>
 
 要使用 Zap，只需前往添加流动性页面，选择您想要提供流动性的交易对、手续费等级以及价格区间。
 
@@ -36,7 +36,7 @@ Zap 是一项让您轻松添加流动性的功能。借助 Zap，无论资金池
 
 #### 发起 Zap <a href="#d65281e2-90db-4280-afd0-f24157c88a9b" id="d65281e2-90db-4280-afd0-f24157c88a9b"></a>
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%282%29.png" alt=""><figcaption></figcaption></figure>
 
 在新的“Zap in”弹窗中，您可以找到以下字段：
 
@@ -62,7 +62,7 @@ Zap 是一项让您轻松添加流动性的功能。借助 Zap，无论资金池
 
 #### 开始 Zap <a href="#id-6cc5fa08-d336-46d9-8fdd-199bcbae8267" id="id-6cc5fa08-d336-46d9-8fdd-199bcbae8267"></a>
 
-<figure><img src="../../../.gitbook/assets/image (2) (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%282%29%20%282%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
 最后点击“Approve”（批准），并在钱包弹窗中确认代币授权额度。
 
@@ -72,11 +72,11 @@ Zap 是一项让您轻松添加流动性的功能。借助 Zap，无论资金池
 
 交易确认后，您应能在“My Position”（我的头寸）页面看到您崭新的头寸。
 
-<figure><img src="../../../.gitbook/assets/image (3) (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%283%29%20%282%29%20%281%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
 #### 更多设置 <a href="#id-217348b6-db9d-4336-9060-d8cbd8171cd9" id="id-217348b6-db9d-4336-9060-d8cbd8171cd9"></a>
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%284%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
 如果您想进一步自定义您的 Zap 体验，只需点击右上角的齿轮图标。在设置中，您可以配置：
 
@@ -91,12 +91,12 @@ Zap 是一项让您轻松添加流动性的功能。借助 Zap，无论资金池
 
 #### 使用两种代币 Zap in
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29%20%281%29%20%281%29%20%281%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
 现在您可以使用两种代币 Zap in 您的流动性。当您的可用余额与价格设置以及所需的代币数量和比例不匹配时，这非常有用。只需 Zap，比例将自动重新平衡。
 
 #### 使用多种代币 Zap in
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%282%29%20%281%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
 是的，它的运作方式就像一个灰尘代币收集器。它适合清理您钱包中的小额余额，并将它们投入一个头寸中，开始从交易手续费中赚取收益。&#x20;

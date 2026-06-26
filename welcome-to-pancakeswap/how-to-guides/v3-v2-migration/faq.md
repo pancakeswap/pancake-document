@@ -1,6 +1,6 @@
 # FAQ
 
-<figure><img src="../../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2894%29.png" alt=""><figcaption></figcaption></figure>
 
 ### **迁移有截止日期吗？**
 

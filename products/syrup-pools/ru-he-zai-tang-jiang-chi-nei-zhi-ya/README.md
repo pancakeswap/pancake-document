@@ -14,19 +14,19 @@ description: 糖浆池：在 PancakeSwap 上免费赚取代币最简单的方法
 
 1. [ 点击此处](https://pancakeswap.finance/pools)，前往糖浆池页面。
 
-<figure><img src="../../../.gitbook/assets/1 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1%20%282%29.png" alt=""><figcaption></figcaption></figure>
 
 &#x20;  2.通过右上角的「连接钱包」按钮，连接您的BNB智能链兼容钱包。
 
-<figure><img src="../../../.gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/2%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 &#x20;  3.选择您的钱包并连接。
 
-<figure><img src="../../../.gitbook/assets/3 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/3%20%283%29.png" alt=""><figcaption></figcaption></figure>
 
 &#x20; 4.选择一个您希望质押的糖浆池。
 
-<figure><img src="../../../.gitbook/assets/4 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/4%20%282%29.png" alt=""><figcaption></figcaption></figure>
 
 **CAKE 新版糖浆池**分为灵活质押和锁仓质押两种方式，详情请阅读[此处](../cake-tang-jiang-chi/)。
 
@@ -34,25 +34,25 @@ description: 糖浆池：在 PancakeSwap 上免费赚取代币最简单的方法
 
 &#x20; 5.选择好您希望质押的糖浆池后，点击**启用**按钮，并在钱包弹出的消息中确认。
 
-<figure><img src="../../../.gitbook/assets/启用 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E5%90%AF%E7%94%A8%20%282%29.png" alt=""><figcaption></figcaption></figure>
 
 &#x20; 6.稍等片刻，**启用**按钮将变成**质押**。点击它来打开质押菜单。
 
-<figure><img src="../../../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
 
 &#x20; 7.输入您要质押的数量，或直接拖动兔子滑块来选择。
 
-<figure><img src="../../../.gitbook/assets/6 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/6%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 &#x20; 8.点击**确认，**&#x5E76;在钱包弹出的消息中确认。
 
-<figure><img src="../../../.gitbook/assets/微信截图_20220919105012.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20220919105012.png" alt=""><figcaption></figcaption></figure>
 
 &#x20; 9.**确认**按钮将变为「确认中」。当上链操作完成时，你会看到按钮再次变化，并显示您正在质押的数目。
 
 &#x20; 10.现在您应该能看到糖浆池的详细质押信息。其他糖浆池将显示**收割**按钮，用于将赚取到的奖励收割至钱包内。
 
-<figure><img src="../../../.gitbook/assets/收割 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E6%94%B6%E5%89%B2%20%282%29.png" alt=""><figcaption></figcaption></figure>
 
 ### **在糖浆池中添加或移除 CAKE** <a href="#adding-and-removing-cake-from-a-pool" id="adding-and-removing-cake-from-a-pool"></a>
 
@@ -63,7 +63,7 @@ description: 糖浆池：在 PancakeSwap 上免费赚取代币最简单的方法
    **请注意：**&#x82E5;您质押的是 CAKE 灵活质押糖浆池，在质押操作后的 72 小时内提取，需要收取 0.1% 的手续费。
 2. 页面会弹出一个窗口，若您点击的是 **+** （加号），请在窗口中选择您要添加的 CAKE 数量。若您点击的是 **-** （减号） ，则选择您要提取的 CAKE 数量。
 
-<div align="left"><figure><img src="../../../.gitbook/assets/+.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/-.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%2B.png" alt=""><figcaption></figcaption></figure> <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/-.png" alt=""><figcaption></figcaption></figure></div>
 
 &#x20; 3.点击**确认。**
 

@@ -24,7 +24,7 @@
 
 用户可以点击交易页面底部的"仓位"来查看其已开仓位的详细信息，例如开仓价格。他们可以查看开仓价格、仓位数量、最新价格和强制清算价格等详细信息。
 
-<figure><img src="../../../.gitbook/assets/Perp5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp5.png" alt=""><figcaption></figcaption></figure>
 
 **仓位模式**
 

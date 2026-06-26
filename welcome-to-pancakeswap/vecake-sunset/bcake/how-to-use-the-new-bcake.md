@@ -4,7 +4,7 @@ description: veCAKE 质押与农场加成
 
 # 如何使用全新的 bCAKE
 
-<figure><img src="../../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2887%29.png" alt=""><figcaption></figcaption></figure>
 
 与 iCAKE 和 vCAKE 一样，bCAKE 是一项为我们忠实的 CAKE 持有者设计的 veCAKE 质押福利。通过锁定 CAKE，你会获得 veCAKE，而 veCAKE 会自动赋予你 bCAKE。你可以将选定农场的收益最高提升至 2.5 倍。
 
@@ -14,7 +14,7 @@ description: veCAKE 质押与农场加成
 
 #### **建立一个固定期限的 veCAKE 质押仓位** <a href="#id-3e485cf0-a9c5-408d-ab19-3ad2a7852589" id="id-3e485cf0-a9c5-408d-ab19-3ad2a7852589"></a>
 
-![](<../../../.gitbook/assets/image (78).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2878%29.png)
 
 如果你尚未在 veCAKE 池中锁定任何 CAKE，请点击"前往池子"并按照指引建立一个固定期限的质押仓位。
 
@@ -24,11 +24,11 @@ description: veCAKE 质押与农场加成
 
 你只能为启用了 bCAKE 的农场收益进行加成。要查找这些农场，请查看 APR 部分，寻找带有绿色火箭图标的绿色 APR 数字。
 
-![](<../../../.gitbook/assets/image (83).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2883%29.png)
 
 或者，使用"农场类型"选择器中的"可用加成器"筛选条件，快速筛选出所有启用了 bCAKE 的农场。
 
-![](<../../../.gitbook/assets/image (76).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2876%29.png)
 
 #### 质押你的仓位
 
@@ -44,11 +44,11 @@ description: veCAKE 质押与农场加成
 
 bCAKE 激活现在已完全自动化。&#x20;
 
-<figure><img src="../../../.gitbook/assets/Frame 883379190.png" alt="" width="174"><figcaption><p>V3 农场</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Frame%20883379190.png" alt="" width="174"><figcaption><p>V3 农场</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Connected - Has LP - Has veCAKE - Boosted automatically.png" alt="" width="174"><figcaption><p>V2、StableSwap</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Connected%20-%20Has%20LP%20-%20Has%20veCAKE%20-%20Boosted%20automatically.png" alt="" width="174"><figcaption><p>V2、StableSwap</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Connected - Has liquidity - Has veCAKE - Boosted automatically.png" alt="" width="174"><figcaption><p>仓位管理器</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Connected%20-%20Has%20liquidity%20-%20Has%20veCAKE%20-%20Boosted%20automatically.png" alt="" width="174"><figcaption><p>仓位管理器</p></figcaption></figure>
 
 质押后，你应该会看到当前正在质押的农场所应用的加成倍数。要了解更多关于 bCAKE 倍数如何计算的信息，请阅读[此处](https://docs.pancakeswap.finance/products/yield-farming/bcake/faq#why-do-my-multipliers-change-even-after-activation)。
 

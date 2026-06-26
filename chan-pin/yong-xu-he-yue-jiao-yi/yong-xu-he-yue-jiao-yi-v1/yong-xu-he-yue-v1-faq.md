@@ -4,7 +4,7 @@ description: FAQ
 
 # 永续合约 V1 FAQ
 
-<figure><img src="../../../.gitbook/assets/general-faq-header.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/general-faq-header.png" alt=""><figcaption></figcaption></figure>
 
 ### 这新功能对 CAKE 持有者的价值贡献是什么？&#x20;
 
@@ -59,7 +59,7 @@ description: FAQ
 2. 在 [bscscan](https://bscscan.com/) 上输入您的地址，查询您的币种充值记录。
 3. 使用[工单提交系统](https://apolloxbroker.zendesk.com/hc/en-us/requests/new)！此功能由ApolloX 提供。单击永续合约页面右上角的耳机图标提交工单！&#x20;
 
-<figure><img src="../../../.gitbook/assets/提交工单.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E6%8F%90%E4%BA%A4%E5%B7%A5%E5%8D%95.png" alt=""><figcaption></figcaption></figure>
 
 ###
 
@@ -73,7 +73,7 @@ description: FAQ
 
 若您在支付 gas 那步骤点击了拒绝，请等待 ApolloX 方退回款项，期间前端有可能看不到您的该笔提现资产，如有任何疑问，请提交客服[工单](https://apolloxbroker.zendesk.com/hc/en-us/requests/new)。
 
-<figure><img src="../../../.gitbook/assets/截圖 2022-10-10 下午7.58.06.png" alt=""><figcaption><p>资产提现之画面提醒</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E6%88%AA%E5%9C%96%202022-10-10%20%E4%B8%8B%E5%8D%887.58.06.png" alt=""><figcaption><p>资产提现之画面提醒</p></figcaption></figure>
 
 ###
 

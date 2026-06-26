@@ -1,6 +1,6 @@
 # 🧑‍⚖️ 农场竞拍
 
-<figure><img src="../.gitbook/assets/image (209).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28209%29.png" alt=""><figcaption></figcaption></figure>
 
 ### 简介&#x20;
 
@@ -13,7 +13,7 @@
 
 您可以参考我们农场竞拍产品的单页介绍：
 
-{% file src="../.gitbook/assets/Farm Auctions One Pager.pdf" %}
+{% file src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Farm%20Auctions%20One%20Pager.pdf" %}
 
 ### 具体机制&#x20;
 

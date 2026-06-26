@@ -33,6 +33,6 @@ vCAKE 根据两个变量来计算：&#x20;
 
 如果您正打算投票，您可以通过单击 "确认投票" 窗口上的 ">" 按钮，在投票权详情中找到您的 vCAKE 数值。
 
-<figure><img src="../../.gitbook/assets/how-to-vote-5 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-vote-5%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 如果您正准备提出社区提案，您可以通过单击 "发布" 操作面板底部的 "检查投票权" 来检查您的可用投票权。

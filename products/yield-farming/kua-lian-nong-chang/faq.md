@@ -1,6 +1,6 @@
 # 跨链农场 FAQ
 
-<figure><img src="../../../.gitbook/assets/image (1) (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29%20%2812%29.png" alt=""><figcaption></figcaption></figure>
 
 ### 在其他区块链上的 PancakeSwap ，我可以做什么？
 

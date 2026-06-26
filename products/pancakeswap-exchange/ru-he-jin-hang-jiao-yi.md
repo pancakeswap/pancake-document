@@ -1,6 +1,6 @@
 # 如何进行交易
 
-![](../../.gitbook/assets/how-to-trade-on-pancakeswap-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-trade-on-pancakeswap-header.png)
 
 与其他大多数交易平台相比，在PancakeSwap 上交易十分。您不需要看一堆的图标以及行话才能进行交易，交易路径和复杂的计算都由 PancakeSwap 智能路由为你处理。
 
@@ -13,32 +13,32 @@
 1. 跳转到[交易页面](https://pancakeswap.finance/swap#/swap)
 2. 通过点击右上角的**连接钱包**来连接您的钱包。如果您还不会将您的钱包连接到 PancakeSwap, 您可以查看[这里的指南](../../get-started/connection-guide.md)。
 
-<figure><img src="../../.gitbook/assets/链接钱包.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E9%93%BE%E6%8E%A5%E9%92%B1%E5%8C%85.png" alt=""><figcaption></figcaption></figure>
 
 &#x20; 3\. 点击代币右边的小箭头下拉菜单中选择您需要交易的代币。默认设置为 BNB。无论您选择哪种代币，都需要确保您手中有一些代币可用于交易。您钱包中该代币的余额数量显示在代币下拉菜单的右边。
 
-<figure><img src="../../.gitbook/assets/交易1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E4%BA%A4%E6%98%931.png" alt=""><figcaption></figcaption></figure>
 
 
 
 4. &#x20;在下图的代币下拉菜单中选择您想购入的代币。
 
-<figure><img src="../../.gitbook/assets/如何交易. png (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E5%A6%82%E4%BD%95%E4%BA%A4%E6%98%93.%20png%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 5. 接下来，在上面的输入框入一个金额，输入你想兑换的代币数量（支出金额），或者在下面的输入框输入一个金额，输入你想获得的代币数量（接收金额）。 无论你在哪一部分输入金额，另一部分的金额都会被自动估算。
 6. 检查无误后，点击 "**兑换**" 按钮。如果你是第一次交易该代币，你可能需要先点击 "授权 XXX (你的代币)" 来授权。
 
-<figure><img src="../../.gitbook/assets/如何交易1. png (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E5%A6%82%E4%BD%95%E4%BA%A4%E6%98%931.%20png%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 6\. 点击 "兑换" 后，会显示以下带详细信息的界面，请检查信息内容是否正确。
 
 确认无误后，点击 “确认兑换” 按钮。您的钱包会弹出支付gas 的界面，您确认支付后，兑换操作将被传送上链。
 
-<figure><img src="../../.gitbook/assets/如何交易2. png.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E5%A6%82%E4%BD%95%E4%BA%A4%E6%98%932.%20png.png" alt=""><figcaption></figcaption></figure>
 
 7\. 完成了！你可以点击 “View on BscScan” 在浏览器上查看这笔交易的细节。
 
-<figure><img src="../../.gitbook/assets/交易5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E4%BA%A4%E6%98%935.png" alt=""><figcaption></figcaption></figure>
 
 ## 什么是智能路由 V3，我该如何使用它？
 

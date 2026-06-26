@@ -1,6 +1,6 @@
 # 💼 商务合作
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%285%29%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 PancakeSwap (PCS) 是领先的多链去中心化交易所 (DEX)，目前已在以下区块链运作：
 

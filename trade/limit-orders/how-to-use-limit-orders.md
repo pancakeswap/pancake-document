@@ -13,7 +13,7 @@ hidden: true
 1. 前往兑换 (Swap) 页面，点击"LIMIT"选择限价单选项，或使用此链接：[https://pancakeswap.finance/swap/limit](https://pancakeswap.finance/swap/limit)
 2. 选择你希望交易的"From"和"To"代币。在此示例中，我们分别选择了 USDC 和 ETH，意味着我们想用 USDC 买入 ETH。
 
-![](<../../.gitbook/assets/image (4) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%284%29%20%281%29.png)
 
 1. 输入你希望交易的金额。注意限价价格将显示当前市场价格，然后据此估算目标代币 (ETH) 的输出数量
 2. 设置所需的限价价格。只有当可用市场价格优于或等于限价价格时，交易才会被执行。目标代币的输出数量将相应更新。
@@ -26,9 +26,9 @@ hidden: true
 
 3.  按"Place order"。仔细核对你的订单详情，接受免责声明并按"Confirm order"。
 
-    <figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%283%29%20%281%29%20%281%29.png" alt="" width="375"><figcaption></figcaption></figure>
 4. 交易完成后，你将能够在订单历史记录部分的"Open orders"下看到你的订单。\
-   ![](<../../.gitbook/assets/image (2) (1) (1) (1).png>)
+   ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%282%29%20%281%29%20%281%29%20%281%29.png)
 5. 未成交订单可随时取消，方法是展开订单并点击"Cancel Order"按钮。
 
 需要考虑的事项：

@@ -1,6 +1,6 @@
 # 入门指南 (Aptos)
 
-<figure><img src="../.gitbook/assets/get-started-header.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/get-started-header.png" alt=""><figcaption></figcaption></figure>
 
 尝试新事物总是那么的富有挑战。别担心，我们制作了一系列教程，助您快速入门 PancakeSwap。
 

@@ -5,7 +5,7 @@ hidden: true
 
 # 跨链农场挖矿
 
-<figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2836%29.png" alt=""><figcaption></figcaption></figure>
 
 随着多链部署，PancakeSwap 现在将 PancakeSwap 农场标志性的农场挖矿体验带给了其他区块链上的用户。农场允许用户通过质押 LP 代币来支持 PancakeSwap，同时赚取 CAKE。
 

@@ -52,6 +52,6 @@ BNB 智能链上的代币在其合约中包含**交易费用**的情况并不少
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/min 小程序15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/min%20%E5%B0%8F%E7%A8%8B%E5%BA%8F15.png" alt=""><figcaption></figcaption></figure>
 
 </div>

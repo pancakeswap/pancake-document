@@ -16,7 +16,7 @@ description: 在PancakeSwap上使用农场非常简单
 
 ## **找到想要提供流动性的币对**
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 现在，有了通用农场页面（Universal Farm Page），你可以通过筛选代币找到流动性对，查看它们在所有 PancakeSwap 支持的区块链中的手续费情况 、交易量和 APR，而无需在钱包中切换网络。&#x20;
 
@@ -24,7 +24,7 @@ description: 在PancakeSwap上使用农场非常简单
 
 **功能细分**
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 * 所有当下流行的或附有 PancakeSwap 农场的流动性池/交易对。
 * 您所有的流动性仓位。
@@ -38,7 +38,7 @@ description: 在PancakeSwap上使用农场非常简单
 
 **提供流动性**
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%282%29.png" alt=""><figcaption></figcaption></figure>
 
 找到可提供流动性的配对后，点击进入详细页面，查看更多信息，如&#x20;
 
@@ -56,7 +56,7 @@ description: 在PancakeSwap上使用农场非常简单
 
 ## **质押流动性仓位进行农场挖矿**
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%283%29.png" alt=""><figcaption></figcaption></figure>
 
 一旦添加了流动资金，它们就会出现在右上角的表格中。或在 “我的持仓 ”选项卡中。&#x20;
 
@@ -65,7 +65,7 @@ description: 在PancakeSwap上使用农场非常简单
 
 ## **收割农场奖励**
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%284%29.png" alt=""><figcaption></figcaption></figure>
 
 在新的通用农场页面，查找您所有的持仓从未如此简单。只需前往“我的持仓”页面，并点击右上角的“仅农场”按钮。所有的质押仓位都会被过滤出来，无论您选择的是哪个网络。\
 
@@ -85,18 +85,18 @@ description: 在PancakeSwap上使用农场非常简单
 在 V3 中，质押在农场时，您仍然可以添加或移除流动性，而无需取消质押。\
 要进行此操作，只需返回到“我的持仓”页面，找到您想要调整的仓位。
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt="" width="280"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%285%29.png" alt="" width="280"><figcaption></figcaption></figure>
 
 点击包含代币对和仓位 ID 的仓位标题，打开仓位详情页面。\
 只需使用“添加”或“移除”按钮来调整质押仓位中的流动性。
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%286%29.png" alt=""><figcaption></figcaption></figure>
 
 ## **取消质押**
 
 您可以随时取消质押流动性仓位。
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%287%29.png" alt=""><figcaption></figcaption></figure>
 
 要取消质押，只需返回 “我的持仓”，找到该对应流动性仓位：
 
@@ -111,7 +111,7 @@ description: 在PancakeSwap上使用农场非常简单
 
 点击 **收割** 后，确认时，你可以在钱包中看到此费用。
 
-<figure><img src="../../../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29%20%283%29.png" alt=""><figcaption></figcaption></figure>
 
 以上显示了 MetaMask 钱包中出现的收割费用。不同的钱包会以不同的方式显示信息。可以考虑让你的奖励累积一段时间，这样你支付 gas 费用的频率就会降低。&#x20;
 

@@ -1,6 +1,6 @@
 # 客户服务
 
-![](../.gitbook/assets/customer-support-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/customer-support-header.png)
 
 ## PancakeSwap 没有客服！
 

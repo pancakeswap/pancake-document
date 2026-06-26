@@ -6,7 +6,7 @@
 
 ## 自动 APR 计算与显示 <a href="#id-12d7c8c1-d0d7-4d5e-99ea-5f5b7f5378e5" id="id-12d7c8c1-d0d7-4d5e-99ea-5f5b7f5378e5"></a>
 
-<figure><img src="../../.gitbook/assets/image (293).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28293%29.png" alt=""><figcaption></figcaption></figure>
 
 当你提供流动性时，自动 APR 显示会响应你的配置更改，并根据你的设置计算 APR。
 
@@ -29,13 +29,13 @@
 
 * “添加流动性”页面 - 显示 LP 手续费 APR
 * 每个现有流动性头寸的详情页面 - 显示 LP 手续费 APR\
-  ![](<../../.gitbook/assets/image (326).png>)
+  ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28326%29.png)
 * 农场页面，在每个农场下的头寸中 - 显示包含 LP 手续费和 CAKE 奖励的综合 APR\
-  ![](<../../.gitbook/assets/image (138).png>)<br>
+  ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28138%29.png)<br>
 
 ## 改进的 ROI 计算器 <a href="#id-6f06dc46-ff61-4022-a29d-3ebe67a50607" id="id-6f06dc46-ff61-4022-a29d-3ebe67a50607"></a>
 
-<figure><img src="../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28146%29.png" alt=""><figcaption></figcaption></figure>
 
 每当你看到自动 APR 显示时，都可以点击调出全新的 ROI 计算器。全新的 ROI 计算器经过重新设计，新增了多项功能，以满足 V3 集中流动性提供和农场挖矿的需求。
 
@@ -53,7 +53,7 @@
 
 ⓵ **存入金额**
 
-![](../../.gitbook/assets/deposit-amount.gif)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/deposit-amount.gif)
 
 你可以手动输入以美元计的金额，或使用快捷操作按钮快速填入 $100、$1000 或根据钱包中代币余额所允许的最大金额。
 
@@ -61,7 +61,7 @@
 
 ⓶ **质押时长**
 
-![](../../.gitbook/assets/stake-durations.gif)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/stake-durations.gif)
 
 你可以通过选择以下时长来设定资产在流动性头寸中质押的时间：1 天、7 天、30 天、1 年和 5 年。
 
@@ -71,7 +71,7 @@
 
 ⓷ **复投**
 
-![](../../.gitbook/assets/compounding.gif)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/compounding.gif)
 
 你可以选择多频繁地收获头寸产生的奖励，并将其复投回头寸。你可以在以下时间间隔中选择：12 小时、1 天、7 天和 30 天。
 
@@ -83,7 +83,7 @@
 
 ### &#x20;⓸ 历史价格 <a href="#id-19cd815c-ef3d-496a-8469-fb0164f3946b" id="id-19cd815c-ef3d-496a-8469-fb0164f3946b"></a>
 
-![](<../../.gitbook/assets/image (305).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28305%29.png)
 
 这是一个仅供查看的部分，用于参考所选交易对的历史价格走势。
 
@@ -100,7 +100,7 @@
 
 ### ⓹ 价格区间 <a href="#bbec6919-1404-4523-815e-063405a961f1" id="bbec6919-1404-4523-815e-063405a961f1"></a>
 
-![](../../.gitbook/assets/price-range.gif)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/price-range.gif)
 
 通过此部分，你可以查看不同价格区间内已存入了多少流动性，并据此制定和设置你提供流动性的价格区间。
 
@@ -122,7 +122,7 @@
 
 ### ⓺ 翻转价格方向以不同基准查看价格 <a href="#id-5c3bdfaf-bd66-4942-873d-d617eeeab53d" id="id-5c3bdfaf-bd66-4942-873d-d617eeeab53d"></a>
 
-![](../../.gitbook/assets/flip-directions.gif)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/flip-directions.gif)
 
 对于某些代币对，以特定基准代币查看价格更容易也更直观。例如，对于 BNB/USDT 交易对，大多数人会更喜欢以“每个 BNB 多少 USDT”来查看价格，而不是反过来。
 
@@ -130,7 +130,7 @@
 
 ### ⓻ 导入和导出（应用）你的设置 <a href="#d18cf936-315e-4432-a3a5-f65976651073" id="d18cf936-315e-4432-a3a5-f65976651073"></a>
 
-![](../../.gitbook/assets/apply-settings.gif)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/apply-settings.gif)
 
 当你在“添加流动性”窗口中打开 ROI 计算器，或通过查看现有头寸打开时，以下设置将自动导入，因此你无需再次设置：
 
@@ -146,4 +146,4 @@
 
 你可以展开详情部分以查看奖励明细。
 
-<figure><img src="../../.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28156%29.png" alt=""><figcaption></figcaption></figure>

@@ -6,13 +6,13 @@ description: >-
 
 # 迁移指南
 
-<figure><img src="../../../.gitbook/assets/migration-guide.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration-guide.png" alt=""><figcaption></figcaption></figure>
 
 要开始通过 bCAKE 加成你的 V2、StableSwap 或仓位管理器流动性，你需要执行一次迁移：从旧合约中取消质押你的 LP，并将它们重新质押到新合约中。
 
 ### 进入迁移向导
 
-<figure><img src="../../../.gitbook/assets/Group 1410076909.png" alt="" width="189"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Group%201410076909.png" alt="" width="189"><figcaption></figcaption></figure>
 
 在农场或仓位管理器页面顶部找到横幅，点击"继续"开始迁移流程。
 
@@ -22,7 +22,7 @@ description: >-
 
 ### 从旧合约中取消质押你的 LP 代币
 
-<figure><img src="../../../.gitbook/assets/step1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/step1.png" alt=""><figcaption></figcaption></figure>
 
 在第一步中，你将看到需要迁移才能享受 bCAKE 加成的 V2、StableSwap 农场和仓位管理器的完整列表。
 
@@ -34,7 +34,7 @@ description: >-
 
 ### 将你的 LP 代币重新质押到新合约中
 
-<figure><img src="../../../.gitbook/assets/step2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/step2.png" alt=""><figcaption></figcaption></figure>
 
 在第二步中，你将看到可供重新质押的 V2、StableSwap 农场和仓位管理器的完整列表。
 

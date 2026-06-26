@@ -18,7 +18,7 @@
 
 > 交易者买入一份行权价为 3,000 美元的以太坊看跌期权，两周后到期。如果在这段时间内以太坊价格跌破 3000 美元，交易者可以行使期权，以 3000 美元的价格卖出以太坊，从而减少潜在损失。
 
-<figure><img src="../../.gitbook/assets/image (390).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28390%29.png" alt=""><figcaption></figcaption></figure>
 
 ## 期权仓位&#x20;
 

@@ -1,6 +1,6 @@
 # 流动性资金池
 
-![](../../.gitbook/assets/liquidity-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/liquidity-header.png)
 
 ## V3 交易系统
 
@@ -10,7 +10,7 @@
 
 ### 非同质化流动性仓位
 
-<figure><img src="../../.gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28202%29.png" alt=""><figcaption></figcaption></figure>
 
 在 V3 中，流动性提供者现在可以设定他们想要提供的流动性的价格范围。因此当你把你的代币添加到 V3的流动性池中时，你将创建一个新的非同质化的流动性仓位，并且它有独特的（区间，价格等）设置。&#x20;
 
@@ -71,7 +71,7 @@
 
 ### LP 代币
 
-<figure><img src="../../.gitbook/assets/流动性资金池V3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E6%B5%81%E5%8A%A8%E6%80%A7%E8%B5%84%E9%87%91%E6%B1%A0V3.png" alt=""><figcaption></figcaption></figure>
 
 举个例子，如果您将 **CAKE** 和 **BNB** 存入流动性资金池，您将收到 **CAKE-BNB LP** 代币。&#x20;
 

@@ -4,7 +4,7 @@
 
 在此查看 PancakeSwap 的原生分析站点：[https://pancakeswap.finance/info](https://pancakeswap.finance/info)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 所有核心指标数据均来源于 PCS 内部索引器（Indexer），而索引器又从合约被调用时触发的事件中收集数据。&#x20;
 

@@ -1,16 +1,16 @@
 # 跨链桥接你的 veCAKE
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%283%29%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 要在其他链上享受 veCAKE 带来的好处，例如 bCAKE（农场收益加成）和 iCAKE（IFO 公售配额），你需要在 BNB Chain 上执行一个简单的桥接请求，将你的 veCAKE 余额和 PancakeProfile 同步到其他链。
 
 ## 如何桥接？ <a href="#id-734b8113-0e00-40ff-bccb-9c129460e2e2" id="id-734b8113-0e00-40ff-bccb-9c129460e2e2"></a>
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%285%29.png" alt=""><figcaption></figcaption></figure>
 
 前往 [CAKE Staking](https://pancakeswap.finance/cake-staking) 页面，在 veCAKE 好处下方找到 veCAKE Sync 卡片。点击"View Details"打开同步弹窗。
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="253"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.png" alt="" width="253"><figcaption></figcaption></figure>
 
 在弹窗中，你可以查看你在 BNB Chain 上拥有的 veCAKE 数量，以及目标链列表，你可以将你的 veCAKE 和 Pancake Profile 桥接到每条链上对应的 veCAKE 和 Pancake Profile 状态。
 
@@ -35,7 +35,7 @@
 
 **问：桥接需要多长时间？**
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="" width="253"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%282%29%20%281%29%20%281%29.png" alt="" width="253"><figcaption></figcaption></figure>
 
 取决于目标链。通常大约需要 2-5 分钟来桥接并完全同步。对于一些较慢的链，可能最多需要 30 分钟。要追踪你的桥接请求，请在同步弹窗中查看 LayerZero 浏览器链接。或前往 [https://layerzeroscan.com/](https://layerzeroscan.com/) 并通过 BNB Chain 交易 ID 搜索。
 

@@ -4,7 +4,7 @@ hidden: true
 
 # 贿选（投票激励）
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%282%29%20%281%29%20%281%29%20%281%29%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 除了通过我们的每周 [CAKE 奖励池](archive-vecake/earn-cake-weekly/)赚取 CAKE 之外，veCAKE 持有者还可以为 gauges 投票，从而从外部贿选市场领取贿选奖励。这些贿选通常由外部项目方在我们的部分 [veCAKE Managers](archive-vecake/vecake-managers.md) 上提交。&#x20;
 

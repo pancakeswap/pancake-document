@@ -8,7 +8,7 @@ PancakeSwap 现今提供一个二合一 CAKE 糖浆池，用户可自由选择�
 
 继续阅读以了解更多信息！
 
-<figure><img src="../../../.gitbook/assets/Stake - before enable.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Stake%20-%20before%20enable.png" alt=""><figcaption></figcaption></figure>
 
 ## 灵活质押和锁仓质押有什么不同？
 

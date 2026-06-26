@@ -4,7 +4,7 @@ description: 指南以及可下载的素材，例如 PancakeSwap logo SVG
 
 # 品牌与标志
 
-![](<../../.gitbook/assets/Frame 6.png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Frame%206.png)
 
 👇[ 跳转到 logo 下载](brand.md#pancakeswap-logo-downloads)
 
@@ -57,11 +57,11 @@ PancakeSwap logo 下载位于本页底部，但请务必先阅读这些指南。
 
 ## PancakeSwap Logo 下载
 
-![](<../../.gitbook/assets/Frame 4.png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Frame%204.png)
 
 阅读完以上所有内容后，请在下方下载 PancakeSwap 和 CAKE 的 logo。
 
-{% file src="../../.gitbook/assets/PancakeSwap Logos.zip" %}
+{% file src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/PancakeSwap%20Logos.zip" %}
 下载 PancakeSwap 和 CAKE 的官方 logo。
 {% endfile %}
 

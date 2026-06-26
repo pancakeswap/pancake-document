@@ -13,6 +13,6 @@ hidden: true
 
 如果你正在投票，可以在"Confirm Vote"窗口中点击">"按钮，在投票权明细中找到 vCAKE 的数值。
 
-![](../../../.gitbook/assets/how-to-vote-5.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-vote-5.png)
 
 如果你正在发起社区提案，可以点击"Actions"面板底部的"Check your voting power"来查看你的投票权。

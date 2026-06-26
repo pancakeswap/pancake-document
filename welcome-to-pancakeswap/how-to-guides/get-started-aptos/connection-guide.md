@@ -1,10 +1,10 @@
 # 将你的钱包连接到 PancakeSwap
 
-![](../../../.gitbook/assets/how-to-connect-wallet-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-connect-wallet-header.png)
 
 ## 连接你的钱包
 
-<figure><img src="../../../.gitbook/assets/wallet-connection-aptos.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/wallet-connection-aptos.png" alt=""><figcaption></figcaption></figure>
 
 1. 点击右上角的“Connect Wallet”（连接钱包）。
 2. 对于大多数浏览器扩展钱包，只需选择它们的图标，并按照弹出窗口中的说明操作即可。
@@ -22,18 +22,18 @@ Aptos 有多个网络，包括多个 devnet 和 testnet。但要在 Aptos 链上
 
 {% tabs %}
 {% tab title="Petra" %}
-![](../../../.gitbook/assets/aptos-network-switching-petra.gif)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/aptos-network-switching-petra.gif)
 {% endtab %}
 
 {% tab title="Martian" %}
-![](../../../.gitbook/assets/aptos-network-switching-martian.gif)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/aptos-network-switching-martian.gif)
 {% endtab %}
 
 {% tab title="Pontem" %}
-![](../../../.gitbook/assets/aptos-network-switching-pontem.gif)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/aptos-network-switching-pontem.gif)
 {% endtab %}
 
 {% tab title="Fewcha" %}
-![](../../../.gitbook/assets/aptos-network-switching-fewcha.gif)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/aptos-network-switching-fewcha.gif)
 {% endtab %}
 {% endtabs %}

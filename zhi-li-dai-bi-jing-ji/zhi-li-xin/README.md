@@ -4,7 +4,7 @@
 我们正在将治理系统（governance system）从 vCAKE 过渡到 veCAKE。在完全迁移完毕之前，本页面中的资讯仍可能会变更。
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/governance.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/governance.jpg" alt=""><figcaption></figcaption></figure>
 
 #### 投票赋予了 PancakeSwap 社区发言权，让社区对 PancakeSwap 的未来发展拥有发言权。
 

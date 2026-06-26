@@ -1,6 +1,6 @@
 # 创建钱包
 
-<figure><img src="../.gitbook/assets/how-to-make-a-crypto-wallet-header (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-make-a-crypto-wallet-header%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 要开始您在 Aptos 上的 PancakeSwap 之旅，您首先需要设置一个支持 Aptos 链的钱包。钱包在电脑和智能手机设备上都可以使用。请选择最适合您的钱包。
 
@@ -42,7 +42,7 @@
 
 {% tabs %}
 {% tab title="Petra" %}
-<figure><img src="../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28155%29.png" alt=""><figcaption></figcaption></figure>
 
 Petra 钱包是一个扩展程序，可让您在浏览器中探索 Aptos。
 
@@ -65,7 +65,7 @@ Petra 钱包是一个扩展程序，可让您在浏览器中探索 Aptos。
 {% endtab %}
 
 {% tab title=" Martian" %}
-<figure><img src="../.gitbook/assets/image (1) (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29%20%286%29.png" alt=""><figcaption></figcaption></figure>
 
 Martian 是一款 Aptos 链上的钱包，可让您存储、发送、接收代币以及管理和铸造 NFT。它的手机端版本即将推出。&#x20;
 
@@ -81,7 +81,7 @@ Martian 是一款 Aptos 链上的钱包，可让您存储、发送、接收代�
 {% endtab %}
 
 {% tab title="Pontem" %}
-<figure><img src="../.gitbook/assets/pontem-setup-desktop-banner.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/pontem-setup-desktop-banner.png" alt=""><figcaption></figcaption></figure>
 
 Pontem Wallet 是一款 Aptos 链上钱包，您可以存储、发送、接收代币并连接到 Aptos 生态系统中的 dApp。&#x20;
 
@@ -97,7 +97,7 @@ Pontem Wallet 是一款 Aptos 链上钱包，您可以存储、发送、接收�
 {% endtab %}
 
 {% tab title="Fewcha" %}
-<figure><img src="../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%282%29%20%283%29.png" alt=""><figcaption></figcaption></figure>
 
 Fewcha 是一款值得信赖的加密钱包，针对 Aptos 和 SUI 生态系统的特性进行了优化，可以方便地使用各种 web3 应用程序。
 
@@ -131,23 +131,23 @@ Fewcha 是一款值得信赖的加密钱包，针对 Aptos 和 SUI 生态系统�
 
 3\. 来到 "恢复短语" 步骤，您的恢复短语请写下来，或者复制并保存在另一个您能够记住的地方。
 
-<figure><img src="../.gitbook/assets/Fewcha02.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Fewcha02.webp" alt=""><figcaption></figcaption></figure>
 
 > * 安全备份您的助记词。如果丢失恢复短语，您可能会永远无法访问您的钱包及其中的加密货币。
 > * 在任何情况下都**不**要与任何人共享您的恢复短语。
 > * 除钱包应用程序外，切**勿**在其他网站或应用程序上输入恢复短语。
 
-<figure><img src="../.gitbook/assets/Fewcha03.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Fewcha03.webp" alt=""><figcaption></figcaption></figure>
 
 4\. 单击 "完成 "完成设置过程。完成！创建钱包后，您可以随时点击扩展栏上的 Fewcha 钱包图标来打开钱包。
 
-<figure><img src="../.gitbook/assets/Fewcha04.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Fewcha04.webp" alt=""><figcaption></figcaption></figure>
 
 要开始在Aptos 链上使用 PancakeSwapo，您还需要一些 $APT 代币来支付矿工费。您可以在这里了解如何获取。
 {% endtab %}
 
 {% tab title="Blocto" %}
-<figure><img src="../.gitbook/assets/image (3) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%283%29%20%283%29.png" alt=""><figcaption></figcaption></figure>
 
 Blocto 为 Dapp 使用者和资产自我管理提供了用户友好型解决方案和一体化软件包。
 
@@ -170,21 +170,21 @@ Blocto 为 Dapp 使用者和资产自我管理提供了用户友好型解决方�
 
 1 - 在钱包连接窗口中选择“Blocto”后，您应该会看到一个登录窗口。输入 您的电子邮件地址，然后单击“注册”。 如果您之前已经设置了 Blocto 帐户，请输入电子邮件地址并单击“登录”。
 
-<figure><img src="../.gitbook/assets/blocto1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/blocto1.png" alt=""><figcaption></figcaption></figure>
 
 2 - 然后输入通过电子邮件收到的一次性密码。
 
-<figure><img src="../.gitbook/assets/blocto2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/blocto2.png" alt=""><figcaption></figcaption></figure>
 
 3 - 单击“创建 Aptos 钱包”。 然后点击“确认”进行连接。
 
 <div>
 
-<figure><img src="../.gitbook/assets/blocto3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/blocto3.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/blocto5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/blocto5.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -206,7 +206,7 @@ Blocto 为 Dapp 使用者和资产自我管理提供了用户友好型解决方�
 
 {% tabs %}
 {% tab title="SafePal" %}
-<figure><img src="../.gitbook/assets/safepal.webp" alt=""><figcaption><p>SafePal 有软件和硬件钱包两种形式。该钱包 App 安装便捷，设置步骤简单，安装后可立即支持 Aptos、BEP2（BNB 信标链）、BEP20（BNB 智能链）。 </p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/safepal.webp" alt=""><figcaption><p>SafePal 有软件和硬件钱包两种形式。该钱包 App 安装便捷，设置步骤简单，安装后可立即支持 Aptos、BEP2（BNB 信标链）、BEP20（BNB 智能链）。 </p></figcaption></figure>
 
 **优点：**
 
@@ -227,7 +227,7 @@ Blocto 为 Dapp 使用者和资产自我管理提供了用户友好型解决方�
 {% endtab %}
 
 {% tab title="Trust Wallet" %}
-<figure><img src="../.gitbook/assets/image (4) (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%284%29%20%285%29.png" alt=""><figcaption></figcaption></figure>
 
 Trust Wallet 是在移动设备上颇受欢迎的钱包应用。它支持 DApps，NFT 收藏品（支持 Opensea.io），以及钱包内直接质押。
 
@@ -249,7 +249,7 @@ Trust Wallet 是在移动设备上颇受欢迎的钱包应用。它支持 DApps�
 {% endtab %}
 
 {% tab title="Blocto" %}
-<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%283%29%20%282%29.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -276,15 +276,15 @@ Blocto 为 Dapp 使用者和资产自我管理提供了用户友好型解决方�
 
 1 - 通过输入您的电子邮件地址进行设置。然后输入通过电子邮件收到的一次性密码。
 
-<figure><img src="../.gitbook/assets/blocto7 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/blocto7%20%282%29.png" alt=""><figcaption></figcaption></figure>
 
 2 - 单击 **"+”** 按钮，然后选择 “APT - Aptos”
 
-<figure><img src="../.gitbook/assets/blocto8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/blocto8.png" alt=""><figcaption></figcaption></figure>
 
 3 - 好了！ 您现在可以将 APT 存入 Aptos 钱包，然后前往「发现」页面开始在 Aptos 上使用 PancakeSwap！
 
-<figure><img src="../.gitbook/assets/blocto9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/blocto9.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 

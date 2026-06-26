@@ -17,7 +17,7 @@ Pancake Gifts 让你只用一个**链接或二维码**，就能向朋友、用�
 
 在 PancakeSwap Wallet 界面中进入 **Gift（礼物）选项卡**。
 
-<figure><img src="../../.gitbook/assets/image (418).png" alt="" width="306"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28418%29.png" alt="" width="306"><figcaption></figcaption></figure>
 
 #### 2. 选择代币和金额
 
@@ -31,7 +31,7 @@ Pancake Gifts 让你只用一个**链接或二维码**，就能向朋友、用�
 * 向接收方发送可用的代币
 *   为对方支付 gas，使其可以立即进行交易
 
-    <figure><img src="../../.gitbook/assets/image (419).png" alt="" width="311"><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28419%29.png" alt="" width="311"><figcaption></figcaption></figure>
 
 #### 3. 选择礼物类型
 
@@ -42,9 +42,9 @@ Pancake Gifts 让你只用一个**链接或二维码**，就能向朋友、用�
 
 > 💡 每份礼物只能被领取一次，并且只支持一种交付形式（链接或二维码）。
 
-<figure><img src="../../.gitbook/assets/image (420).png" alt="" width="316"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28420%29.png" alt="" width="316"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (421).png" alt="" width="311"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28421%29.png" alt="" width="311"><figcaption></figcaption></figure>
 
 #### 4. 查看摘要并支付
 
@@ -62,7 +62,7 @@ Pancake Gifts 让你只用一个**链接或二维码**，就能向朋友、用�
 &#x20;如果你在未保存的情况下关闭弹窗，之后将无法再找回该礼物码。
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (422).png" alt="" width="273"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28422%29.png" alt="" width="273"><figcaption></figcaption></figure>
 
 ***
 
@@ -92,7 +92,7 @@ Pancake Gifts 让你只用一个**链接或二维码**，就能向朋友、用�
 
 二维码
 
-<figure><img src="../../.gitbook/assets/image (423).png" alt="" width="320"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28423%29.png" alt="" width="320"><figcaption></figcaption></figure>
 
 ***
 
@@ -107,11 +107,11 @@ Pancake Gifts 让你只用一个**链接或二维码**，就能向朋友、用�
 
 应用会自动填入礼物码。若符合条件且尚未被领取，礼物领取界面将会加载。
 
-<figure><img src="../../.gitbook/assets/image (424).png" alt="" width="341"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28424%29.png" alt="" width="341"><figcaption></figcaption></figure>
 
 否则，将显示错误信息（例如已过期或已被领取）。
 
-<figure><img src="../../.gitbook/assets/image (425).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28425%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ***
 
@@ -124,11 +124,11 @@ Pancake Gifts 让你只用一个**链接或二维码**，就能向朋友、用�
 * BEP-20 代币（以及包含的 gas 代币）将存入其钱包
 *   该礼物被标记为**已领取（claimed）**
 
-    <figure><img src="../../.gitbook/assets/image (426).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28426%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-    <figure><img src="../../.gitbook/assets/image (427).png" alt="" width="244"><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28427%29.png" alt="" width="244"><figcaption></figcaption></figure>
 
-    <figure><img src="../../.gitbook/assets/image (428).png" alt="" width="334"><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28428%29.png" alt="" width="334"><figcaption></figcaption></figure>
 
 ***
 
@@ -143,11 +143,11 @@ Pancake Gifts 让你只用一个**链接或二维码**，就能向朋友、用�
 
 1. 进入 **Gift History（礼物历史）**选项卡
 
-<figure><img src="../../.gitbook/assets/image (429).png" alt="" width="308"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28429%29.png" alt="" width="308"><figcaption></figcaption></figure>
 
 2. 找到对应的礼物
 
-<figure><img src="../../.gitbook/assets/image (431).png" alt="" width="299"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28431%29.png" alt="" width="299"><figcaption></figcaption></figure>
 
 
 
@@ -157,7 +157,7 @@ Pancake Gifts 让你只用一个**链接或二维码**，就能向朋友、用�
 
 > ⚠️ 已取消的礼物无法重新激活或再次使用。
 
-<figure><img src="../../.gitbook/assets/Group 1410078707.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Group%201410078707.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 

@@ -20,17 +20,17 @@ Web3 通知代表了与平台互动以获取最新资讯和更新的一次飞跃
 
 1. 轻松激活：访问我们的[主页](https://pancakeswap.finance/)。点击 PancakeSwap 菜单左上角的设置图标，然后选择 “Allow Notifications”（允许通知）。
 
-<figure><img src="../.gitbook/assets/web-git-feat-web3-notifications-soft-launch.pancake.run__chain=bsc (1).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/web-git-feat-web3-notifications-soft-launch.pancake.run__chain%3Dbsc%20%281%29.png" alt="" width="362"><figcaption></figcaption></figure>
 
 2. 连接钱包：点击右上角的铃铛图标，并在您的钱包中签署一条消息以授权通知。
 
-<figure><img src="../.gitbook/assets/web-git-feat-web3-notifications-soft-launch.pancake.run__chain=bsc (6).png" alt="" width="433"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/web-git-feat-web3-notifications-soft-launch.pancake.run__chain%3Dbsc%20%286%29.png" alt="" width="433"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/web-git-feat-web3-notifications-soft-launch.pancake.run__chain=bsc (4).png" alt="" width="293"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/web-git-feat-web3-notifications-soft-launch.pancake.run__chain%3Dbsc%20%284%29.png" alt="" width="293"><figcaption></figcaption></figure>
 
 3. 定制您的信息流：通过选择左侧的下拉菜单来定制您的通知设置，以匹配您的兴趣和需求。
 
-<figure><img src="../.gitbook/assets/web-git-feat-web3-notifications-soft-launch.pancake.run__chain=bsc (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/web-git-feat-web3-notifications-soft-launch.pancake.run__chain%3Dbsc%20%285%29.png" alt=""><figcaption></figcaption></figure>
 
 4. 保持知情：点击铃铛图标，即可从下拉菜单中方便地访问您的所有通知。
 

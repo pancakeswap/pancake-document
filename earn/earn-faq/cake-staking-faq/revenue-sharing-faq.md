@@ -4,7 +4,7 @@ hidden: true
 
 # 收入分成常见问题解答
 
-<figure><img src="../../../.gitbook/assets/faq-revenuesharing.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/faq-revenuesharing.png" alt=""><figcaption></figcaption></figure>
 
 ### 份额（rCAKE）是如何计算的？ <a href="#id-50b7c683-feb0-47f6-809f-39c1a0976bb5" id="id-50b7c683-feb0-47f6-809f-39c1a0976bb5"></a>
 

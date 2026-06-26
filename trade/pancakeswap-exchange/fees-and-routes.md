@@ -1,6 +1,6 @@
 # 手续费和路由
 
-<figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2861%29.png" alt=""><figcaption></figcaption></figure>
 
 在 Exchange V3 中，默认情况下，PancakeSwap Smart Router 将利用来自 V3、V2、StableSwap（BNB Chain）以及 AMM 和 Market Maker（BNB Chain 和 Ethereum）的流动性来执行交易，并为交易者找到最优价格。
 
@@ -8,15 +8,15 @@
 
 ### **查看当前应用的费率和费用金额**
 
-![](<../../.gitbook/assets/image (182).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28182%29.png)
 
 要查看你当前的兑换将收取多少交易费用，请查看兑换详情部分中的 “Fee” 部分。
 
-![](<../../.gitbook/assets/image (296).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28296%29.png)
 
 要查看你的交易当前路由所经过的池类型和费率档位，请查看 “Route” 部分。
 
-![](<../../.gitbook/assets/image (265).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28265%29.png)
 
 要了解更多详情，请点击放大镜图标以调出完整的交易路由显示。
 
@@ -24,7 +24,7 @@
 
 ### **自定义流动性来源**
 
-![](<../../.gitbook/assets/image (289).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28289%29.png)
 
 在 “Customize Routing” 界面的顶部，你可以选择路由在为你的交易进行路由时应使用哪些流动性来源。要调出此界面，你可以：
 
@@ -35,7 +35,7 @@
 
 请注意，路由不会在 AMM 流动性池和 MM Market Maker 之间进行交易路由。当你的交易由 MM Market Maker 执行时，它不会经过任何 AMM 流动性池。
 
-![](<../../.gitbook/assets/image (199).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28199%29.png)
 
 你可以点击右上角的 “Reset” 按钮将配置重置为默认值。
 
@@ -43,7 +43,7 @@
 
 ### **自定义路由偏好**
 
-![](<../../.gitbook/assets/image (129).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28129%29.png)
 
 在 “Customize Routing” 界面的底部，你可以通过启用或禁用多跳和拆分路由来自定义你的路由偏好。
 

@@ -10,13 +10,13 @@ ALP 是为 PancakeSwap 永续合约 V2 提供流动性的代币。用户使用 U
 2. 连接钱包后，点击 **Buy ALP**。你可以使用任何 ALP 池资产来购买 ALP。
 3. 确认信息后，点击 **Buy ALP** 完成交易。
 
-<figure><img src="../../../../../../.gitbook/assets/Buy ALP Module.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Buy%20ALP%20Module.png" alt=""><figcaption></figcaption></figure>
 
 **质押 ALP（Arbitrum）**
 
 1. 在 Pancake ALP 仪表盘页面点击 **Stake Now**，或点击[此处](https://pancakeswap.finance/pools?chain=arb)
 
-<figure><img src="../../../../../../.gitbook/assets/png (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/png%20%284%29.png" alt=""><figcaption></figcaption></figure>
 
 2. 选择 CAKE-ALP 糖浆池
 3. **启用** ALP 并点击 **Stake**

@@ -1,6 +1,6 @@
 # 如何投票
 
-<figure><img src="../../../.gitbook/assets/how-to-voting-header.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-voting-header.png" alt=""><figcaption></figcaption></figure>
 
 参与治理投票非常简单，并且完全**免费**。 您甚至不需要支付燃料费！ 详细了解如何投票、快抓住下一个提案并行使您的投票权吧！
 
@@ -12,7 +12,7 @@
 
 #### 阅读提案并选择您支持的选项
 
-<figure><img src="../../../.gitbook/assets/how-to-vote-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-vote-1.png" alt=""><figcaption></figcaption></figure>
 
 在提案页面上， 您会看到：
 
@@ -25,11 +25,11 @@
 
 仔细阅读提案，然后单击您支持的投票选项。
 
-<figure><img src="../../../.gitbook/assets/how-to-vote-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-vote-2.png" alt=""><figcaption></figcaption></figure>
 
 #### 确认并投票
 
-<figure><img src="../../../.gitbook/assets/how-to-vote-6 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-vote-6%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 确认所有详细信息并单击 "确认投票"，然后在您的钱包中确认以签署消息。&#x20;
 
@@ -41,7 +41,7 @@
 {% tab title="检查您的可用投票权" %}
 在正式投票之前，您将看到一个“确认投票”窗口。
 
-<figure><img src="../../../.gitbook/assets/image (388).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28388%29.png" alt="" width="188"><figcaption></figcaption></figure>
 
 在此窗口中，您可以仔细检查以下项目：
 
@@ -56,7 +56,7 @@
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/how-to-vote-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-vote-3.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -66,7 +66,7 @@
 
 <div align="center">
 
-<figure><img src="../../../.gitbook/assets/how-to-vote-7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-vote-7.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 {% endtab %}

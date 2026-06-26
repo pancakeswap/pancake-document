@@ -23,7 +23,7 @@ USDT-WBNB 0.05%, USDT-USDC 0.05%, USDT-USDC 0.01%, ETH-BTCB 0.25%, USDT-BTCB 0.0
 
 **开始**
 
-<figure><img src="../../../.gitbook/assets/image (410).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28410%29.png" alt="" width="563"><figcaption></figcaption></figure>
 
 要使用 Zap，只需进入“添加 V3 流动性”页面，选择您要提供流动性的交易对、手续费等级和价格范围。
 
@@ -35,7 +35,7 @@ USDT-WBNB 0.05%, USDT-USDC 0.05%, USDT-USDC 0.01%, ETH-BTCB 0.25%, USDT-BTCB 0.0
 
 **启动 Zap**
 
-<figure><img src="../../../.gitbook/assets/image (411).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28411%29.png" alt=""><figcaption></figcaption></figure>
 
 在新的“Zap in”弹窗中，您会看到以下字段：
 
@@ -57,7 +57,7 @@ USDT-WBNB 0.05%, USDT-USDC 0.05%, USDT-USDC 0.01%, ETH-BTCB 0.25%, USDT-BTCB 0.0
 
 **开始 Zap**
 
-<figure><img src="../../../.gitbook/assets/image (412).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28412%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
 最后，点击“Approve”（批准）并在钱包弹窗中确认代币授权。&#x20;
 
@@ -67,11 +67,11 @@ USDT-WBNB 0.05%, USDT-USDC 0.05%, USDT-USDC 0.01%, ETH-BTCB 0.25%, USDT-BTCB 0.0
 
 交易确认后，您将在“我的仓位”页面看到您新的头寸。
 
-<figure><img src="../../../.gitbook/assets/image (413).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28413%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
 **更多设置**
 
-<figure><img src="../../../.gitbook/assets/image (414).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28414%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
 如果您想进一步自定义您的 Zap 体验，只需点击右上角的齿轮图标。在设置中，您可以配置：
 

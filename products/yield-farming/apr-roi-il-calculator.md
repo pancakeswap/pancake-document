@@ -6,7 +6,7 @@
 
 ## APR 自动计算和显示
 
-<figure><img src="../../.gitbook/assets/image (289).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28289%29.png" alt=""><figcaption></figcaption></figure>
 
 当您提供流动资金时，自动 APR 显示会对你的配置变化做出反应，并根据你的设置计算 APR。&#x20;
 
@@ -31,15 +31,15 @@
 * "添加流动资金（Add Liquidity）" 页面--显示 LP 费用 APR&#x20;
 * 现有流动资金仓位的详情页--显示 LP 费用 APR
 
-![](<../../.gitbook/assets/image (157).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28157%29.png)
 
 * 农场页面，每个质押中的仓位内--显示与 LP 费用加上 CAKE 奖励的总和 APR
 
-![](<../../.gitbook/assets/image (227).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28227%29.png)
 
 ## 重新设计后的 ROI 计算器
 
-<figure><img src="../../.gitbook/assets/计算器.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E8%AE%A1%E7%AE%97%E5%99%A8.png" alt=""><figcaption></figcaption></figure>
 
 每当您看到自动 APR 显示时，您可以点击计算器图标并调出新的投资回报率计算器。新的投资回报率计算器经过重新设计，增加了许多功能以适应 V3 集中提供流动资金和农场质押的需要。&#x20;
 
@@ -57,7 +57,7 @@
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/deposit-amount (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/deposit-amount%20%281%29.gif" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -67,7 +67,7 @@
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/stake-durations.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/stake-durations.gif" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -77,7 +77,7 @@
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/compounding.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/compounding.gif" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -93,7 +93,7 @@
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/历史价格.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E5%8E%86%E5%8F%B2%E4%BB%B7%E6%A0%BC.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -114,7 +114,7 @@
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/price-range.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/price-range.gif" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -140,7 +140,7 @@
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/flip-directions.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/flip-directions.gif" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -152,7 +152,7 @@
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/apply-settings.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/apply-settings.gif" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -170,4 +170,4 @@
 
 您可以展开详情部分，查看投资回报率的详情。
 
-<figure><img src="../../.gitbook/assets/回报率.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E5%9B%9E%E6%8A%A5%E7%8E%87.png" alt=""><figcaption></figcaption></figure>

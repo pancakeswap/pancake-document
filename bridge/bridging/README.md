@@ -4,7 +4,7 @@ description: 在以太坊、BNB 链、Aptos 等众多网络之间跨链转移 CA
 
 # 🌉 跨链桥
 
-<figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28118%29.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 跨链至/自 EVM 网络（新版网站）：[https://pancakeswap.finance/bridge](https://pancakeswap.finance/bridge)

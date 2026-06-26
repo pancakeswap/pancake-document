@@ -8,7 +8,7 @@
 
 杠杆是一种交易机制。交易者可以通过使用杠杆来来增加他们在市场上的敞口（exposure），这个功能能允许他们使用较少的本金来操作较大的金额。简而言之，就是您借钱来杠杆化您的投资额。
 
-<figure><img src="../../../.gitbook/assets/调整杠杆.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E8%B0%83%E6%95%B4%E6%9D%A0%E6%9D%86.png" alt=""><figcaption></figcaption></figure>
 
 ### 保证金
 
@@ -17,7 +17,7 @@
 * 全仓模式：同一保证金资产下的所有合约仓位共享同一资产全仓余额。如果发生清算，您的资产全额保证金余额以及该资产下的任何剩余未平仓仓位可能会被没收。&#x20;
 * 逐仓模式：通过限制分配给每个仓位的保证金数量来管理您在各个仓位上的风险。如果仓位的保证金比例达到1 00%，该仓位将被平仓。使用此模式可以为单个仓位添加或减少保证金。
 
-<figure><img src="../../../.gitbook/assets/保证金模式.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E4%BF%9D%E8%AF%81%E9%87%91%E6%A8%A1%E5%BC%8F.png" alt=""><figcaption></figcaption></figure>
 
 **保证金比率**：保证金比率 = 维持保证金/保证金余额。一旦保证金比率达到 100%，您的仓位将被清算。&#x20;
 
@@ -25,7 +25,7 @@
 
 **保证金余额** = 合约钱包余额 + 未实现盈亏。一旦保证金余额 <= 维持比率，您的仓位将被清算。
 
-<figure><img src="../../../.gitbook/assets/保证金比率.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E4%BF%9D%E8%AF%81%E9%87%91%E6%AF%94%E7%8E%87.png" alt=""><figcaption></figcaption></figure>
 
 ### 资产：&#x20;
 
@@ -47,7 +47,7 @@
 注意：如果USDⓈ-M合约有未平仓单或挂单，则无法开启联合保证金模式。联合保证金模式仅适用于USDⓈ-M合约。 在启用联合保证金模式之前，请详细阅读指南，以便在使用联合保证金模式时更好地管理USDⓈ-M合约账户风险
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/资产余额 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E8%B5%84%E4%BA%A7%E4%BD%99%E9%A2%9D%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 **持仓模式：**
 
@@ -77,15 +77,15 @@
 
 **只做 Maker (Post only)**：即只做挂单（Post only）。订单不会立刻成交，保证用户始终为Maker，如果委托单会立即与已有委托成交，那么该委托会被取消。该订单类型，可帮助用户节约交易手续费。
 
-<figure><img src="../../../.gitbook/assets/订单类型.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E8%AE%A2%E5%8D%95%E7%B1%BB%E5%9E%8B.png" alt=""><figcaption></figcaption></figure>
 
 **只减仓（Reduce Only）**：只减仓订单只会减少您的仓位，不会增加仓位。
 
-<figure><img src="../../../.gitbook/assets/只减仓.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E5%8F%AA%E5%87%8F%E4%BB%93.png" alt=""><figcaption></figcaption></figure>
 
 **TIF 指令**：准许给订单设置一个期限。在指定时间段内，订单保持开启，直到被执行或者过期。您可以从以下TIF指令中择一：
 
-<figure><img src="../../../.gitbook/assets/TIF指令.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/TIF%E6%8C%87%E4%BB%A4.png" alt=""><figcaption></figcaption></figure>
 
 * GTC（取消前有效）：订单将保持有效，直到它被执行或取消。
 * IOC（立即执行或取消）：订单将立即执行（全部或部分）。 如果仅部分执行，订单的未成交部分将被取消。&#x20;

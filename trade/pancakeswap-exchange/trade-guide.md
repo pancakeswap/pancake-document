@@ -1,6 +1,6 @@
 # 如何交易
 
-![](../../.gitbook/assets/how-to-trade-on-pancakeswap-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-trade-on-pancakeswap-header.png)
 
 与大多数交易所相比，在 PancakeSwap 上交易非常简单。你不会被图表或专业术语所淹没，交易路由和计算都由 PancakeSwap Smart Router 为你处理。
 
@@ -18,13 +18,13 @@
 
 2 - 通过点击 Connect **Wallet** 解锁你的钱包（你也可以在右上角点击 **Connect**）。如果你还未将钱包连接到 PancakeSwap，你可以在[此处](https://docs.pancakeswap.finance/get-started/connection-guide)查看指南。
 
-![](<../../.gitbook/assets/image (200).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28200%29.png)
 
 
 
 3 - 从上方部分的下拉菜单中选择你想要交易的代币。无论你选择哪种代币，你都需要确保你的钱包中有足够数量的该代币用于交易。你的余额显示在代币下拉菜单上方。
 
-![](<../../.gitbook/assets/image (50).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2850%29.png)
 
 
 
@@ -42,19 +42,19 @@
 
 如果你是第一次交易某种代币，你可能需要先点击 "Enable XXX（你的代币）" 进行授权。
 
-![](<../../.gitbook/assets/image (272).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28272%29.png)
 
 
 
 7 - 将出现一个包含更多详情的窗口。检查详情是否正确。当你准备就绪后，点击 **Confirm Swap** 按钮。你的钱包将要求你确认该操作。
 
-![](<../../.gitbook/assets/image (27).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2827%29.png)
 
 
 
 8 - 完成！你可以通过点击上方显示的链接，在区块链浏览器上查看你的交易。
 
-![](<../../.gitbook/assets/image (209).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28209%29.png)
 
 ## **什么是 Smart Router V3，以及如何使用它？**
 

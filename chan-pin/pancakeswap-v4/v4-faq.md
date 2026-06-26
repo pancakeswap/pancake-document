@@ -15,7 +15,7 @@ description: 我们了解您可能对我们的最新升级有疑问。我们总�
 
 **3.** **AMM 设计的灵活性：** PancakeSwap v4 支持多种资金池类型，包括 CLAMM 和 LBAMM，允许交易者和 LP 选择不同的资金池类型。这种更加包容性的方式还允许支持未来任何需要新的定价曲线的资产。查看[此博客](https://blog.pancakeswap.finance/articles/everything-you-need-to-know-about-pancake-swap-v4-what-s-in-it-for-developers-traders-liquidity-providers-and-defi-protocols)了解更多信息。
 
-<figure><img src="../../.gitbook/assets/image (389).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28389%29.png" alt=""><figcaption></figcaption></figure>
 
 **问题 2：** PancakeSwap v4 如何使开发人员和 DeFi 协议受益？
 

@@ -1,6 +1,6 @@
 # veCAKE Managers
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%284%29%20%281%29%20%281%29%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 veCAKE 不仅仅是一个产品，更是一个生态系统。&#x20;
 

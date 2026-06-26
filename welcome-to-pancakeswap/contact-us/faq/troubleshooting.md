@@ -4,7 +4,7 @@ description: 常见的错误消息。使用侧边栏 ➡️ 跳转到你看到�
 
 # 故障排查错误
 
-![](../../../.gitbook/assets/troubleshooting-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/troubleshooting-header.png)
 
 有时你可能会发现自己面临一个没有明确解决方案的问题。这些故障排查技巧或许能帮助你解决遇到的问题。
 
@@ -24,7 +24,7 @@ description: 常见的错误消息。使用侧边栏 ➡️ 跳转到你看到�
 2. 尝试一次交易较小的金额。
 3. 提高你的滑点容差：
    1. 点击流动性页面上的设置图标。
-   2. 稍微提高你的滑点容差，然后重试。 ![](<../../../.gitbook/assets/image (9) (4).png>)
+   2. 稍微提高你的滑点容差，然后重试。 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%289%29%20%284%29.png)
 4. 最后，尝试输入一个小数位较少的金额。
 {% endtab %}
 
@@ -54,7 +54,7 @@ description: 常见的错误消息。使用侧边栏 ➡️ 跳转到你看到�
 1. 点击流动性页面上的设置图标。
 2. 稍微提高你的滑点容差，然后重试。
 
-![](<../../../.gitbook/assets/image (9) (4).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%289%29%20%284%29.png)
 {% endtab %}
 
 {% tab title="原因" %}
@@ -88,7 +88,7 @@ description: 常见的错误消息。使用侧边栏 ➡️ 跳转到你看到�
 2. 在 **5. balanceOf** 中，输入你的钱包地址并点击 **Query**。
 3. 记录下导出的数字。它以 uint256 格式显示你在 LP 中的余额，这是你下一步需要用到的。
 
-![](<../../../.gitbook/assets/image (74).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2874%29.png)
 
 **添加或移除流动性**
 
@@ -102,7 +102,7 @@ description: 常见的错误消息。使用侧边栏 ➡️ 跳转到你看到�
 6. 在 **to (address)** 中添加你的钱包地址。
 7. Deadline 必须是一个大于交易执行时间的纪元时间。
 
-![](<../../../.gitbook/assets/image (136).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28136%29.png)
 
 {% hint style="warning" %}
 这可能会导致非常高的滑点，并且如果被抢先交易，可能会导致用户损失一些资金
@@ -124,7 +124,7 @@ description: 常见的错误消息。使用侧边栏 ➡️ 跳转到你看到�
 
 尝试修改“To”字段中的金额。这样会在“From”上出现“(estimated)”符号。然后立即发起兑换。
 
-![](<../../../.gitbook/assets/Pancake-K-Solution (2).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Pancake-K-Solution%20%282%29.png)
 
 这通常发生在你尝试兑换一种带有自身手续费的代币时。
 
@@ -262,7 +262,7 @@ description: 常见的错误消息。使用侧边栏 ➡️ 跳转到你看到�
 
 200000 的上限通常就足够了。
 
-![](<../../../.gitbook/assets/image (21).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2821%29.png)
 
 上面的示例来自 Metamask；如果你不确定如何调整 gas 上限，请查看你钱包的文档。
 {% endtab %}

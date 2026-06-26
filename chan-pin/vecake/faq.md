@@ -1,6 +1,6 @@
 # veCAKE FAQ
 
-<figure><img src="../../.gitbook/assets/image (338).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28338%29.png" alt=""><figcaption></figcaption></figure>
 
 ### 锁仓的 CAKE 和 veCAKE 有什么区别？&#x20;
 

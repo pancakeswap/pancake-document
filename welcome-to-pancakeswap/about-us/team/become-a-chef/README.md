@@ -1,6 +1,6 @@
 # 成为一名大厨
 
-![](../../../../.gitbook/assets/become-a-chef-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/become-a-chef-header.png)
 
 有兴趣加入 PancakeSwap 团队吗？如果你充满热情、踏实敬业，并且喜爱一切蓬松、香甜、棕金色的事物，我们非常期待听到你的声音！
 

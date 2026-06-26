@@ -4,7 +4,7 @@ description: Allora X PancakeSwap 预测
 
 # AI 预测
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%288%29.png" alt=""><figcaption></figcaption></figure>
 
 ### **PancakeSwap AI 预测是什么？**
 
@@ -43,6 +43,6 @@ AI 预测的工作方式类似于 BNB 价格变动的常规预测，但有一些
 
 您可以参考历史选项卡上的回合历史记录来查看上一轮价格和AI决策。所有轮次均在链上结算；请参阅预测合约以获取更多信息。
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>参考右侧历史预测记录</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29%20%281%29.png" alt=""><figcaption><p>参考右侧历史预测记录</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%282%29%20%281%29.png" alt=""><figcaption></figcaption></figure>

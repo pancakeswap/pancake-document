@@ -4,7 +4,7 @@ description: 质押 CAKE、赚取 CAKE，以及更多功能！
 
 # 🔷 \[存档] veCAKE
 
-<figure><img src="../../../.gitbook/assets/image (339).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28339%29.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 \[已存档] veCAKE

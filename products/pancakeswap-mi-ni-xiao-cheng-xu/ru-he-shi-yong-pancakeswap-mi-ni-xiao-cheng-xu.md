@@ -6,7 +6,7 @@
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/mini小程序1.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/mini%E5%B0%8F%E7%A8%8B%E5%BA%8F1.gif" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -14,7 +14,7 @@
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/min 小程序2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/min%20%E5%B0%8F%E7%A8%8B%E5%BA%8F2.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -24,7 +24,7 @@
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/min 小程序3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/min%20%E5%B0%8F%E7%A8%8B%E5%BA%8F3%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -38,7 +38,7 @@
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/min 小程序5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/min%20%E5%B0%8F%E7%A8%8B%E5%BA%8F5.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -46,13 +46,13 @@
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/min 小程序6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/min%20%E5%B0%8F%E7%A8%8B%E5%BA%8F6.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/min 小程序7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/min%20%E5%B0%8F%E7%A8%8B%E5%BA%8F7.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -60,7 +60,7 @@
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/min 小程序8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/min%20%E5%B0%8F%E7%A8%8B%E5%BA%8F8.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -78,7 +78,7 @@
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/min 小程序9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/min%20%E5%B0%8F%E7%A8%8B%E5%BA%8F9.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -88,7 +88,7 @@
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/min 小程序10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/min%20%E5%B0%8F%E7%A8%8B%E5%BA%8F10.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -100,7 +100,7 @@
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/min 小程序11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/min%20%E5%B0%8F%E7%A8%8B%E5%BA%8F11.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -108,7 +108,7 @@
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/min 小程序12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/min%20%E5%B0%8F%E7%A8%8B%E5%BA%8F12.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -116,7 +116,7 @@
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/min 小程序13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/min%20%E5%B0%8F%E7%A8%8B%E5%BA%8F13.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -124,6 +124,6 @@
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/min 小程序14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/min%20%E5%B0%8F%E7%A8%8B%E5%BA%8F14.png" alt=""><figcaption></figcaption></figure>
 
 </div>

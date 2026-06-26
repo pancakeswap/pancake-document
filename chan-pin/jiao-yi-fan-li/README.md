@@ -1,6 +1,6 @@
 # 🧈 交易返利
 
-<figure><img src="../../.gitbook/assets/trading-reward.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/trading-reward.png" alt=""><figcaption></figcaption></figure>
 
 交易返利是一个新的系列活动，目的在奖励 PancakeSwap 的忠实用户和锁仓质押者。您可以挑选适合您的活动，开始交易，符合资格，并通过在 BNB 链和以太坊主网上交易符合条件的 PancakeSwap V3 代币对，获得高达 10% 以 CAKE 形式的交易费返利。
 

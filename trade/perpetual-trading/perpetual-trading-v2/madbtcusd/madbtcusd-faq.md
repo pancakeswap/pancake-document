@@ -65,4 +65,4 @@ BTC 和 MADBTCUSD 价格源可在此处找到：
 
 为了交叉验证 BTC 和 MADBTC 的历史价格，我们在下方提供了一个回测图表。&#x20;
 
-<figure><img src="../../../../.gitbook/assets/photo_2023-10-26_19-24-40.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/photo_2023-10-26_19-24-40.jpg" alt=""><figcaption></figcaption></figure>

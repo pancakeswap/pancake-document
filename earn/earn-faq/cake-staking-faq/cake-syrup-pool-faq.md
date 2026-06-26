@@ -78,7 +78,7 @@ CAKE 已锁仓 = 初始锁仓 CAKE 余额 + CAKE 奖励
   或
 * 将你质押的 CAKE 转换为灵活质押（无 72 小时提取费）。
 
-![](<../../../.gitbook/assets/Locked - lock ended - before after burning.png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Locked%20-%20lock%20ended%20-%20before%20after%20burning.png)
 
 在这 7 天内，你仍将赚取 CAKE。
 
@@ -98,4 +98,4 @@ CAKE 已锁仓 = 初始锁仓 CAKE 余额 + CAKE 奖励
 >
 > 开始新的固定期限质押期或转换为灵活质押，不要像 John 一样。
 
-![](<../../../.gitbook/assets/Locked - lock ended - after burning started.png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Locked%20-%20lock%20ended%20-%20after%20burning%20started.png)

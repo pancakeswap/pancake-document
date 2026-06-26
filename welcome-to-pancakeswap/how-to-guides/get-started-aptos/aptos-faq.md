@@ -1,6 +1,6 @@
 # Aptos 常见问题解答
 
-<figure><img src="../../../.gitbook/assets/Aptos-faq-header.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Aptos-faq-header.png" alt=""><figcaption></figcaption></figure>
 
 本常见问题解答页面回答了 PancakeSwap 社区关于我们 Aptos 部署的一些较常见的问题。
 

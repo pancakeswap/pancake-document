@@ -17,7 +17,7 @@
 
 一次购买多张彩票可享受批量折扣。你可以一次最多购买 100 张彩票，折扣从购买 2 张时的小幅度开始，最高在购买 100 张时达到 10%。
 
-![](<../../.gitbook/assets/Screenshot 2024-08-22 at 9.59.52 PM.png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-22%20at%209.59.52%E2%80%AFPM.png)
 
 ## **如何中奖**
 
@@ -32,17 +32,17 @@
 
 抽出的号码
 
-![Drawn Numbers](<../../.gitbook/assets/image (285).png>)
+![Drawn Numbers](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28285%29.png)
 
 你的彩票号码
 
-![Your Ticket A](<../../.gitbook/assets/image (95) (1).png>)
+![Your Ticket A](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2895%29%20%281%29.png)
 
 在上面的例子中，彩票 A 有五个数字与抽出的数字按完全相同的顺序匹配：除了第四个之外全部匹配。
 
 然而，由于第四位数字与抽出的号码**不**匹配，因此只有前三位数字算作按顺序匹配。这将赢得 "匹配前 3 个" 的奖励。
 
-![Your Ticket B](<../../.gitbook/assets/image (205).png>)
+![Your Ticket B](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28205%29.png)
 
 示例彩票 B。这是个不走运的例子。尽管后五位数字都匹配，但第一位数字不匹配，因此这张彩票完全无法中奖。
 

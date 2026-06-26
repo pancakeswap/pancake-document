@@ -4,7 +4,7 @@ description: 通过在 Aptos 上进行农场挖矿，获得同样丰厚的 CAKE 
 
 # 在 Aptos 上进行农场挖矿
 
-<figure><img src="../../../.gitbook/assets/farming-on-aptos.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/farming-on-aptos.png" alt=""><figcaption></figcaption></figure>
 
 随着我们的多链部署，PancakeSwap 现在将标志性的农场挖矿体验带给了 Aptos 上的流动性提供者。农场允许用户通过质押 LP 代币来支持 PancakeSwap，同时赚取 CAKE。
 

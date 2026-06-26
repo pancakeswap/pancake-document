@@ -2,7 +2,7 @@
 
 
 
-![](../../../.gitbook/assets/help-area-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/help-area-header.png)
 
 如果你发现自己卡住了，如果某些功能没有按预期工作，或者你不确定某件事是否成功，那么这个帮助部分或许能够，嗯，帮上忙。
 

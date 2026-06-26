@@ -12,7 +12,7 @@
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/Smart Router 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Smart%20Router%201.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -31,7 +31,7 @@
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/Smart Router 3 EN original.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Smart%20Router%203%20EN%20original.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

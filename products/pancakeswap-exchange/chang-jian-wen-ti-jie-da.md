@@ -198,7 +198,7 @@ BNB 智能链上的代币在其合约中包含**交易费用**的情况并不少
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/cannot add v2 liquidity error pump.jpg" alt="" width="280"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/cannot%20add%20v2%20liquidity%20error%20pump.jpg" alt="" width="280"><figcaption></figcaption></figure>
 
 </div>
 
@@ -208,7 +208,7 @@ BNB 智能链上的代币在其合约中包含**交易费用**的情况并不少
 
 #### 查看已存入流动性池合约的是哪个代币，并手动将另一个代币转入流动性池合约地址中
 
-![](<../../.gitbook/assets/image (305).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28305%29.png)
 
 在 BscScan 页面中的代币余额区域（BEP-20 Tokens 标题下方），查看哪种代币已存入池中。通常，已转入的代币是代币对中的配对代币。（如 WBNB、USDT 等......）&#x20;
 

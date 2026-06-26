@@ -14,7 +14,7 @@
 
 *   在**资金池列表**页面，切换**“仅显示农场”**筛选器，以仅显示提供农场挖矿奖励的资金池。
 
-    <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 ### 2. 查看 APR 明细
 
@@ -25,7 +25,7 @@
     * 来自农场挖矿激励的额外奖励。
     * 该资金池的**估算每周奖励**（以代币计）。
 
-    <figure><img src="../../../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29%20%284%29.png" alt=""><figcaption></figcaption></figure>
 
 ### 3. 开始赚取农场挖矿奖励
 
@@ -40,7 +40,7 @@
   * 活跃 LP 头寸。
   * 每个头寸累积的农场挖矿奖励。
 
-<figure><img src="../../../.gitbook/assets/image (415).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28415%29.png" alt=""><figcaption></figcaption></figure>
 
 ### 5. 领取你的奖励
 
@@ -49,4 +49,4 @@
   * 农场挖矿代币奖励（如适用）
 * 使用**“全部收获”**在单笔交易中收取来自**所有活跃头寸**的奖励。
 
-<figure><img src="../../../.gitbook/assets/image (416).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28416%29.png" alt=""><figcaption></figcaption></figure>

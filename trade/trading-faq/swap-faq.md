@@ -191,7 +191,7 @@ PancakeSwap v3 支持通过 Zap 一键存入流动性，在 BNB Chain 和 Ethere
 
 #### 定位池地址及其 BscScan 页面
 
-<div align="left"><figure><img src="../../.gitbook/assets/cannot add v2 liquidity-error pump.jpg" alt="" width="280"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/cannot%20add%20v2%20liquidity-error%20pump.jpg" alt="" width="280"><figcaption></figcaption></figure></div>
 
 如果你的交易对受到影响，你将在错误提示中看到该交易对/池的 BscScan 页面链接。
 
@@ -199,7 +199,7 @@ PancakeSwap v3 支持通过 Zap 一键存入流动性，在 BNB Chain 和 Ethere
 
 #### 检查哪种代币已被存入，并手动将另一种代币转入交易对
 
-![](<../../.gitbook/assets/image (335).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28335%29.png)
 
 从 BscScan 上的代币余额字段，你可以检查哪种代币已被存入池中。通常，应该是配对代币。（如 WBNB、USDT 等……）
 

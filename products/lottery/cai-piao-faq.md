@@ -49,7 +49,7 @@
 
 每 12 或 36 小时进行一次开奖。每天上午 0 点（UTC）和下午 12 点（UTC）之间交替进行一次开奖，UTC 时间上午 0 点之后的下一轮将在 36 小时之后进行，UTC 时间下午 12 点之后的下一轮将在 12 小时之后进行。
 
-<figure><img src="../../.gitbook/assets/彩票轮次变化.png" alt=""><figcaption><p>彩票开奖轮次以及额外奖金注入时间表</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E5%BD%A9%E7%A5%A8%E8%BD%AE%E6%AC%A1%E5%8F%98%E5%8C%96.png" alt=""><figcaption><p>彩票开奖轮次以及额外奖金注入时间表</p></figcaption></figure>
 
 ## 购买彩票需要支付上链费吗？&#x20;
 

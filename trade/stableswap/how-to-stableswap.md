@@ -1,6 +1,6 @@
 # 如何使用 StableSwap
 
-<figure><img src="../../.gitbook/assets/how-to-stableswap.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-stableswap.png" alt=""><figcaption></figcaption></figure>
 
 ## **在 StableSwap 上交易**
 

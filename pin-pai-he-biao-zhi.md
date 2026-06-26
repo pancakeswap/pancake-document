@@ -4,7 +4,7 @@ description: 关于品牌和标志的指导方针及可下载的资产，包含P
 
 # 品牌和标志
 
-![](<.gitbook/assets/Frame 6.png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Frame%206.png)
 
 [跳转到LOGO下载](https://app.gitbook.com/s/-MHREX7DHcljbY5IkjgJ-1972196547/welcome-to-pancakeswap/about-us/brand#pancakeswap-logo-downloads)
 
@@ -58,11 +58,11 @@ PancakeSwap 图标下载位于本页底部，但请务必先阅读这些指南�
 
 ## PancakeSwap 图标下载
 
-![](<.gitbook/assets/image (292).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28292%29.png)
 
 阅读完以上所有内容后，请下载下面的 PancakeSwap 和 CAKE 图标。
 
-{% file src=".gitbook/assets/PancakeSwap Logos.zip" %}
+{% file src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/PancakeSwap%20Logos.zip" %}
 下载官方 PancakeSwap 和 CAKE LOGO。
 {% endfile %}
 

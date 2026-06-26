@@ -4,7 +4,7 @@ description: 常见错误信息。 使用侧边栏快速查找您的错误代码
 
 # 故障排除指南
 
-![](../.gitbook/assets/troubleshooting-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/troubleshooting-header.png)
 
 有时您可能会发现自己面临一个没有明确解决方案的问题。 这些故障排除技巧可以帮助您解决遇到的问题。
 
@@ -25,7 +25,7 @@ description: 常见错误信息。 使用侧边栏快速查找您的错误代码
 3. 调高滑点容限：
    1. 点击兑换页面上的设置图标。
    2. 逐步调高滑点容限，然后重试。\
-      ![](<../.gitbook/assets/image (9) (4) (2) (2).png>)
+      ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%289%29%20%284%29%20%282%29%20%282%29.png)
 4. 若还是不行，您可以尝试减少兑换金额的小数点位数。
 {% endtab %}
 
@@ -61,7 +61,7 @@ description: 常见错误信息。 使用侧边栏快速查找您的错误代码
 1. 点击流动性页面上的设置图标。
 2.  逐步调高滑点容限，然后重试。
 
-    ![](<../.gitbook/assets/image (9) (4) (2) (2).png>)
+    ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%289%29%20%284%29%20%282%29%20%282%29.png)
 {% endtab %}
 
 {% tab title="原因" %}
@@ -98,7 +98,7 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 2. 在第五项 **"5. balanceOf"**，输入您的钱包地址然后点击 **Query** 按钮。
 3. 记下显示的余额。这余额显示的格式是uint256。您的下一个步骤需要输入这余额。
 
-![](<../.gitbook/assets/image (40).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2840%29.png)
 
 ### 添加或解除流动性
 
@@ -112,7 +112,7 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 6. 在 **“to (address)”** 这一栏位输入您的钱包地址。
 7. **Deadline** (截止时间)必须是大于执行此交易的纪元(epoch)时间。
 
-![](<../.gitbook/assets/image (282).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28282%29.png)
 
 {% hint style="warning" %}
 这可能会导致很高的滑点，并且如果被机器人抢跑，可能会导致您损失一些资金。
@@ -138,7 +138,7 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 
 这通常发生在含有自身交易手续费的代币上。
 
-![](../.gitbook/assets/pancake-k-error.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/pancake-k-error.png)
 
 ### Pancake: TRANSFER\_FAILED
 
@@ -276,7 +276,7 @@ PancakeSwap的网站目前没有解决此问题的简单方法：您需要直接
 
 一般而言，限制设为 200000 就足够了。
 
-<div align="left"><img src="../.gitbook/assets/image (104).png" alt=""></div>
+<div align="left"><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28104%29.png" alt=""></div>
 
 以上的例子取自 Metamask 截图。 如果不确定如何设置 Gas 限制，请查看您钱包的文档。
 {% endtab %}

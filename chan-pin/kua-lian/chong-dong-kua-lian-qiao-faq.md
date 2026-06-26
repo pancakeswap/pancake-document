@@ -7,14 +7,14 @@
 在跨链状态页面上，您可以看到一个链接，指向 Wormhole Explorer 上您的链上交易（transaction）。\
 当您在原链上的链上操作已被写入原链区块但尚未被 Wormhole 验证完毕时，您的链上交易状态将如下所示：
 
-<figure><img src="../../.gitbook/assets/Wormhole FAQ 01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Wormhole%20FAQ%2001.png" alt=""><figcaption></figcaption></figure>
 
 \
 点击 FIND REDEEM 按钮是完成目标链交易的另一种方法。在虫洞跨链桥停滞或无法更新桥交易状态的情况下，您可以使用这种方法。要赎回交易，首先点击赎回按钮。\
 \
 当 Wormhole 跨链桥停滞、更新您的跨链链上交易状态失败时，您可以尝试点击 "find redeem" 按钮，这是一个可以完成目的链链上交易的替代方式。
 
-<figure><img src="../../.gitbook/assets/Wormhole FAQ 02.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Wormhole%20FAQ%2002.png" alt=""><figcaption></figcaption></figure>
 
 如要撤销跨链，可以点击 "赎回（redeem）" 按钮。
 
@@ -29,7 +29,7 @@
 * &#x20;前往 [https://portalbridge.com/#/redeem ](https://portalbridge.com/advanced-tools/#/redeem)
 * &#x20;您需要输入原链名称和原链上的链上交易 ID（您可以在钱包中找到，或在区块链浏览器中输入您的地址查找）
 
-<figure><img src="../../.gitbook/assets/Wormhole FAQ 03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Wormhole%20FAQ%2003.png" alt=""><figcaption></figcaption></figure>
 
 * 点击 Recover
 * 点击 Redeem 然后再钱包中签署链上交易

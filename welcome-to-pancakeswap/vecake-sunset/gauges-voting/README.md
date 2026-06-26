@@ -5,7 +5,7 @@ hidden: true
 
 # Gauges 投票
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2811%29.png" alt=""><figcaption></figcaption></figure>
 
 #### 什么是 gauge？
 
@@ -28,7 +28,7 @@ gauges 有两种类型——"核心（core）"和"非核心（non-core）"。前
 
 ### 1 - 了解投票时间表
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2812%29.png" alt=""><figcaption></figcaption></figure>
 
 Gauges 权重投票每两周进行一次。一个 epoch 的开始与收入分享一样，是在每个偶数周的星期四 UTC 时间 00:00。
 
@@ -43,7 +43,7 @@ Gauges 权重投票每两周进行一次。一个 epoch 的开始与收入分享
 
 ### 2 - 获得资格
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2812%29.png" alt=""><figcaption></figcaption></figure>
 
 由于 veCAKE 会根据剩余锁定时间逐渐减少，投票结果将在每个 epoch 结束时通过快照获取。这包括 veCAKE 总量，以及每个用户拥有的 veCAKE。
 
@@ -62,7 +62,7 @@ Gauges 权重投票每两周进行一次。一个 epoch 的开始与收入分享
 
 前往"CAKE staking"，向下滚动找到"Gauges Voting"部分，然后点击"Check Gauges"。
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2813%29.png" alt=""><figcaption></figcaption></figure>
 
 在左上角部分，你可以看到：
 
@@ -101,7 +101,7 @@ Gauge 加成是应用于一个 gauge 所获票数的乘数，范围从 1 倍到 
 
 ### 4 - 添加要投票的 gauges
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2814%29.png" alt=""><figcaption></figcaption></figure>
 
 要为某个 gauge 投票，请向下滚动找到"My Votes"部分。点击"Add Gauge"。
 
@@ -111,7 +111,7 @@ Gauge 加成是应用于一个 gauge 所获票数的乘数，范围从 1 倍到 
 
 ### 5 - 选择对每个 gauge 投入多少百分比的 veCAKE
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2815%29.png" alt=""><figcaption></figcaption></figure>
 
 添加 gauges 后，你可以选择将你的 veCAKE 的多少百分比投给每个 gauge。
 
@@ -132,7 +132,7 @@ Gauge 加成是应用于一个 gauge 所获票数的乘数，范围从 1 倍到 
 
 ### 6 - 更新你的投票
 
-<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2817%29.png" alt=""><figcaption></figcaption></figure>
 
 投票提交后，你可能会看到你的投票被更新为"Current Votes"，剩余的 veCAKE 也会更新。
 

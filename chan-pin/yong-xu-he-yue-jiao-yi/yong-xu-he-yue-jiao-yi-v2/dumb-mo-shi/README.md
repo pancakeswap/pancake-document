@@ -1,6 +1,6 @@
 # Dumb 模式
 
-<figure><img src="../../../../.gitbook/assets/image (375).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28375%29.png" alt=""><figcaption></figcaption></figure>
 
 ### 概述&#x20;
 

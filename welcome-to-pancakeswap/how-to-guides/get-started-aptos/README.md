@@ -1,6 +1,6 @@
 # 入门指南（Aptos）
 
-![](../../../.gitbook/assets/get-started-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/get-started-header.png)
 
 使用任何新事物都可能会有一点挑战。不过别担心，我们已经准备了一系列指南，帮助你熟悉 PancakeSwap！
 

@@ -2,7 +2,7 @@
 
 ## 申请在 NFT 市场上架
 
-![](<../.gitbook/assets/nft masthead.png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/nft%20masthead.png)
 
 在 BNB 智能链上最著名的 PancakeSwap 的 [NFT 市场](https://pancakeswap.finance/nfts?chain=bsc) 上交易您的NFT，NFT 收藏品作者创建者不止可以收取创作者版税，同时还可以为自己的项目赢得知名度。
 

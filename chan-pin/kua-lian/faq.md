@@ -1,6 +1,6 @@
 # 跨链 FAQ
 
-<figure><img src="../../.gitbook/assets/image (201).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28201%29.png" alt=""><figcaption></figcaption></figure>
 
 #### 我可以使用移动端钱包来进行 CAKE 的跨链吗？我可以使用 MetaMask 以外的钱包吗？
 
