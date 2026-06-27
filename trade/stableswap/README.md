@@ -1,12 +1,11 @@
-# 🏦 Stableswap
+# 🏦 StableSwap
 
-<figure><img src="../../.gitbook/assets/en-stableswap.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/en-stableswap.png" alt=""><figcaption></figcaption></figure>
 
-StableSwap on PancakeSwap is a feature to trade stable pairs with a lower slippage based on an invariant curve slippage function. It is designed to swap specific assets that are priced closely – such as USD stablecoins (e.g. HAY, BUSD and USDT) or liquid staking tokens (e.g. stkBNB and BNBx).
+StableSwap trên PancakeSwap là tính năng cho phép giao dịch các cặp ổn định với mức trượt giá thấp hơn dựa trên hàm trượt giá đường cong bất biến. Nó được thiết kế để hoán đổi các tài sản cụ thể có giá gần nhau — chẳng hạn như các stablecoin USD (ví dụ: HAY, BUSD và USDT) hoặc các token staking thanh khoản (ví dụ: stkBNB và BNBx).
 
 
 
-PancakeSwap currently offers two StableSwap models: [**Infinity StableSwap**](https://docs.pancakeswap.finance/~/revisions/4JQRJCuMPHEJgYdxdVME/trade/stableswap/infinity-stableswap) and [**Classic StableSwap**](https://docs.pancakeswap.finance/~/revisions/4JQRJCuMPHEJgYdxdVME/trade/stableswap/classic-stableswap). Infinity StableSwap is built on PancakeSwap’s latest Infinity architecture, offering improved flexibility, efficiency, and future extensibility. Classic StableSwap refers to the original StableSwap implementation, which continues to support existing pools and liquidity.
-
+PancakeSwap hiện cung cấp hai mô hình StableSwap: [**Infinity StableSwap**](https://docs.pancakeswap.finance/~/revisions/4JQRJCuMPHEJgYdxdVME/trade/stableswap/infinity-stableswap) và [**Classic StableSwap**](https://docs.pancakeswap.finance/~/revisions/4JQRJCuMPHEJgYdxdVME/trade/stableswap/classic-stableswap). Infinity StableSwap được xây dựng trên kiến trúc Infinity mới nhất của PancakeSwap, cung cấp tính linh hoạt, hiệu quả và khả năng mở rộng trong tương lai được cải thiện. Classic StableSwap đề cập đến triển khai StableSwap ban đầu, tiếp tục hỗ trợ các pool và thanh khoản hiện có.
 
 

@@ -1,103 +1,103 @@
 ---
-description: How to use V2 Perpetuals Trading
+description: Cách sử dụng V2 Perpetuals Trading
 ---
 
-# How can I use it?
+# Làm thế nào để sử dụng?
 
-![](<../../../.gitbook/assets/how-to-pancakeswap-without-cex-header (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-pancakeswap-without-cex-header%20%281%29.png)
 
-Using this functionality is really easy (the difficult thing is to trade well). We will only have to follow a series of steps so that our experience is complete. For more information, please visit the [V2 Glossary](perpetuals-glossary.md).
+Sử dụng tính năng này thực sự rất dễ dàng (điều khó là giao dịch tốt). Chúng ta chỉ cần thực hiện theo một loạt các bước để hoàn thành trải nghiệm. Để biết thêm thông tin, vui lòng truy cập [Bảng Thuật Ngữ V2](perpetuals-glossary.md).
 
-### Go to Perpetual Trading page&#x20;
+### Đến trang Giao Dịch Hợp Đồng Vĩnh Viễn&#x20;
 
-You can enter from the [site](https://pancakeswap.finance), in the Trade → Perpetual section, or through this [link  ](https://perp.pancakeswap.finance/en/futures/BTCUSDT)
+Bạn có thể truy cập từ [trang web](https://pancakeswap.finance), trong mục Trade → Perpetual, hoặc qua [liên kết này  ](https://perp.pancakeswap.finance/en/futures/BTCUSDT)
 
-### Choose the pair to trade&#x20;
+### Chọn cặp để giao dịch&#x20;
 
-You can select a tradable pair by clicking on the arrow next to the pair, at the top of the page.
+Bạn có thể chọn cặp có thể giao dịch bằng cách nhấp vào mũi tên bên cạnh cặp, ở đầu trang.
 
-<figure><img src="../../../.gitbook/assets/Perp7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp7.png" alt=""><figcaption></figcaption></figure>
 
-More tradable pairs will come soon!
+Nhiều cặp giao dịch hơn sẽ sớm có mặt!
 
-<figure><img src="../../../.gitbook/assets/Perp8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp8.png" alt=""><figcaption></figcaption></figure>
 
-### Analyze the chart and decide your trading strategy
+### Phân tích biểu đồ và quyết định chiến lược giao dịch của bạn
 
-It’s trading time!! Let’s get serious. You can analyze the chart your way, with all the tools available
+Đến giờ giao dịch rồi!! Hãy nghiêm túc. Bạn có thể phân tích biểu đồ theo cách riêng của mình, với tất cả các công cụ có sẵn
 
-<figure><img src="../../../.gitbook/assets/Perp9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp9.png" alt=""><figcaption></figcaption></figure>
 
-**Do you know how to do it or do you want to improve in your analysis?**
+**Bạn đã biết cách làm hoặc muốn cải thiện kỹ năng phân tích của mình?**
 
-Here is a guide to get started in the world of chart analysis:
+Đây là hướng dẫn để bắt đầu trong thế giới phân tích biểu đồ:
 
-* [How to Use TradingView on Binance Website](https://www.binance.com/en/support/faq/8419126024404348a1c6e4039fbed3fe)
-* [Candlestick charts](https://academy.binance.com/en/articles/a-beginners-guide-to-candlestick-charts)
-* [Trend Lines Explained](https://academy.binance.com/en/articles/trend-lines-explained)
+* [Cách Sử Dụng TradingView trên Trang Web Binance](https://www.binance.com/en/support/faq/8419126024404348a1c6e4039fbed3fe)
+* [Biểu đồ nến](https://academy.binance.com/en/articles/a-beginners-guide-to-candlestick-charts)
+* [Đường Xu Hướng Được Giải Thích](https://academy.binance.com/en/articles/trend-lines-explained)
 
-### Make your position&#x20;
+### Đặt lệnh của bạn&#x20;
 
-Then, in the upper right part you have the board to position your order.
+Sau đó, ở phần trên bên phải, bạn có bảng để đặt lệnh.
 
-<figure><img src="../../../.gitbook/assets/Perp1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp1.png" alt=""><figcaption></figcaption></figure>
 
-Here you must set several parameters, like:
+Bạn phải đặt một số thông số, chẳng hạn như:
 
-_Not in an specific order_
+_Không theo thứ tự cụ thể_
 
-1. Long Or Short&#x20;
+1. Long hoặc Short&#x20;
 
-<figure><img src="../../../.gitbook/assets/Perp2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp2.png" alt=""><figcaption></figcaption></figure>
 
-Select the trade position you would like to adopt
+Chọn vị thế giao dịch bạn muốn áp dụng
 
-&#x20; 2\. The x of the leverage
+&#x20; 2\. Mức đòn bẩy x
 
-<figure><img src="../../../.gitbook/assets/Perp3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp3.png" alt=""><figcaption></figcaption></figure>
 
-Move the bunny to select the appropriate leverage position. You can also manually enter the position in the box on the left.
+Di chuyển con thỏ để chọn vị thế đòn bẩy phù hợp. Bạn cũng có thể nhập thủ công vị thế vào ô bên trái.
 
-Disclaimer: Remember that a high level of leverage carries a very high risk, use it wisely.
+Tuyên bố từ chối trách nhiệm: Hãy nhớ rằng mức đòn bẩy cao mang lại rủi ro rất cao, hãy sử dụng cẩn thận.
 
-&#x20;   3\. Type of Order
+&#x20;   3\. Loại Lệnh
 
-<figure><img src="../../../.gitbook/assets/Perp10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp10.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;  4\. Set the order size and place a price for your order (For limit orders)
+&#x20;  4\. Đặt kích thước lệnh và đặt giá cho lệnh của bạn (Đối với lệnh giới hạn)
 
-![](../../../.gitbook/assets/Perp3.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp3.png)
 
-You can also choose the reference currency to see your position.
+Bạn cũng có thể chọn đồng tiền tham chiếu để xem vị thế của mình.
 
-5. Take Profit/Stop Loss & Slippage
+5. Chốt Lời/Cắt Lỗ & Trượt Giá
 
-<figure><img src="../../../.gitbook/assets/Perp6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp6.png" alt=""><figcaption></figcaption></figure>
 
-Users can set a take profit or stop loss price when opening a position.
+Người dùng có thể đặt giá chốt lời hoặc cắt lỗ khi mở vị thế.
 
-* Take Profit: Users' position will be liquidated once they reach the set upon P\&L percentage gain.
-* Stop Loss: Users' position will be liquidated once they reach the set upon P\&L percentage loss.
-* Slippage: Used to cancel a market order automatically if the price moved too fast in the direction of the trade before it was opened. For example if you wish to market long the current price but before your trade is opened the price moved up 1%, it will cancel automatically.
+* Chốt Lời: Vị thế của người dùng sẽ bị thanh lý khi họ đạt được tỷ lệ lãi PnL đã đặt.
+* Cắt Lỗ: Vị thế của người dùng sẽ bị thanh lý khi họ đạt được tỷ lệ lỗ PnL đã đặt.
+* Trượt Giá: Dùng để tự động hủy lệnh thị trường nếu giá biến động quá nhanh theo hướng giao dịch trước khi lệnh được mở. Ví dụ, nếu bạn muốn mở vị thế long theo thị trường ở giá hiện tại nhưng trước khi lệnh được mở, giá tăng lên 1%, lệnh sẽ tự động hủy.
 
-Note: You can hover over each option for more information. Please refer to [Perpetuals V2 Glossary](perpetuals-glossary.md) for an in-depth guide.
+Lưu ý: Bạn có thể di chuột qua mỗi tùy chọn để biết thêm thông tin. Vui lòng tham khảo [Bảng Thuật Ngữ Perpetuals V2](perpetuals-glossary.md) để có hướng dẫn chi tiết.
 
-### Send your order
+### Gửi lệnh của bạn
 
-When all the parameters have been set, you can send the order by clicking on Open Position
+Khi tất cả các thông số đã được đặt, bạn có thể gửi lệnh bằng cách nhấp vào Open Position
 
-![](../../../.gitbook/assets/Perp4.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp4.png)
 
-### Checking your position
+### Kiểm tra vị thế của bạn
 
-Once the order has been sent, it will appear in "Open Orders" until filled out.
+Sau khi lệnh được gửi, nó sẽ xuất hiện trong "Open Orders" cho đến khi được khớp.
 
-![](../../../.gitbook/assets/Perp11.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp11.png)
 
-### Live!
+### Đang hoạt động!
 
-When it is filled, your position will be live. You can see it in the positions panel. Also you can view, edit, or close it.
+Khi được khớp, vị thế của bạn sẽ hoạt động. Bạn có thể thấy nó trong bảng vị thế. Bạn cũng có thể xem, chỉnh sửa hoặc đóng nó.
 
-![](../../../.gitbook/assets/Perp5.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp5.png)
 
-Good luck with your trades!
+Chúc bạn giao dịch thành công!

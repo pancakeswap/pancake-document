@@ -1,2 +1,1 @@
-# ❓ Trading FAQ
-
+# ❓ FAQ Giao Dịch

@@ -1,33 +1,33 @@
-# Perpetuals Trading \[NEW]
+# Perpetuals Trading \[MỚI]
 
-In PancakeSwap Perpetuals, we've rebuilt our trading experience from the ground up — powered by Aster infrastructure, optimized for high-leverage retail traders. Instead of managing your own bridging or dealing with fragmented liquidity, PCS Perps gives you a seamless, fully on-chain trading experience with deep liquidity and up to 200× leverage on BTC.
+Trong PancakeSwap Perpetuals, chúng tôi đã xây dựng lại trải nghiệm giao dịch từ đầu — được hỗ trợ bởi cơ sở hạ tầng Aster, được tối ưu hóa cho các nhà giao dịch bán lẻ đòn bẩy cao. Thay vì tự quản lý việc cầu nối hoặc đối mặt với thanh khoản phân mảnh, PCS Perps mang đến cho bạn trải nghiệm giao dịch liền mạch, hoàn toàn on-chain với thanh khoản sâu và đòn bẩy lên đến 200× trên BTC.
 
-The new experience brings meaningful upgrades to PancakeSwap Perpetuals users:
+Trải nghiệm mới mang lại những nâng cấp đáng kể cho người dùng PancakeSwap Perpetuals:
 
-### **Two Modes, One Product**
+### **Hai Chế Độ, Một Sản Phẩm**
 
-Not everyone trades the same way. Simple Mode lets you go long or short in a single tap with preset sizes — no configuration needed. Pro Mode unlocks limit orders, TP/SL, and full position management for traders who want more control. Switch between modes anytime without affecting your open positions.
+Không phải ai cũng giao dịch theo cùng một cách. Simple Mode cho phép bạn mở long hoặc short chỉ với một thao tác với kích thước được đặt sẵn — không cần cấu hình. Pro Mode mở khóa lệnh giới hạn, TP/SL và quản lý vị thế đầy đủ cho các nhà giao dịch muốn kiểm soát nhiều hơn. Chuyển đổi giữa các chế độ bất cứ lúc nào mà không ảnh hưởng đến các vị thế đang mở.
 
-### **Up to 200× Leverage**
+### **Đòn Bẩy Lên Đến 200×**
 
-PCS Perps supports up to 200× leverage on BTC — significantly higher than most retail perps products. This makes it one of the few platforms built to accommodate high-leverage trading behavior without forcing users onto a separate chain or interface.
+PCS Perps hỗ trợ đòn bẩy lên đến 200× trên BTC — cao hơn đáng kể so với hầu hết các sản phẩm perps bán lẻ. Điều này làm cho nó trở thành một trong số ít nền tảng được xây dựng để phục vụ hành vi giao dịch đòn bẩy cao mà không buộc người dùng phải chuyển sang một chuỗi hoặc giao diện riêng biệt.
 
-### **CEX-Grade Execution, Onchain**
+### **Thực Thi Ngang Tầm CEX, On-Chain**
 
-PCS Perps is powered by Aster's orderbook infrastructure, bringing deep liquidity and institutional-grade execution to a fully onchain trading environment. You trade directly from your wallet — no deposits to a separate account, no custodial risk outside of liquidation events.
+PCS Perps được hỗ trợ bởi cơ sở hạ tầng sổ lệnh của Aster, mang thanh khoản sâu và thực thi cấp tổ chức đến môi trường giao dịch hoàn toàn on-chain. Bạn giao dịch trực tiếp từ ví của mình — không cần nạp tiền vào tài khoản riêng, không có rủi ro lưu ký ngoài các sự kiện thanh lý.
 
-### **Unified Wallet Experience**
+### **Trải Nghiệm Ví Thống Nhất**
 
-Your spot and perps activity live in one place. PCS Perps integrates directly into the PancakeSwap interface, giving you a single wallet view across all your onchain positions.
+Hoạt động spot và perps của bạn nằm trong một nơi. PCS Perps tích hợp trực tiếp vào giao diện PancakeSwap, mang đến cho bạn một chế độ xem ví duy nhất trên tất cả các vị thế on-chain của mình.
 
 ### **AI Copilot**
 
-The AI Copilot tab in the trading panel generates AI-powered trade ideas to help you decide your position direction. When your perp account is funded, the Copilot shows Long and Short idea cards with entry context — tap one to pre-fill the order form. When unfunded, it shows an empty state with a "Generate trade ideas" prompt. AI Copilot is available in both Simple and Pro Mode alongside the Order Book and Trades tabs.
+Tab AI Copilot trong bảng giao dịch tạo ra các ý tưởng giao dịch được hỗ trợ bởi AI để giúp bạn quyết định hướng vị thế. Khi tài khoản perp của bạn được nạp tiền, Copilot hiển thị các thẻ ý tưởng Long và Short với ngữ cảnh vào lệnh — nhấp vào một thẻ để điền sẵn biểu mẫu lệnh. Khi chưa được nạp tiền, nó hiển thị trạng thái trống với lời nhắc "Generate trade ideas". AI Copilot có sẵn trong cả Simple và Pro Mode cùng với các tab Order Book và Trades.
 
-### **CAKE VIP Fee Tiers \[Coming soon]**
+### **Cấp Độ Phí VIP CAKE \[Sắp Ra Mắt]**
 
-Hold CAKE in your connected wallet to unlock fee discounts on every trade. More details coming soon.
+Giữ CAKE trong ví kết nối để mở khóa giảm giá phí trên mỗi giao dịch. Thêm chi tiết sắp có.
 
-### **Revenue Tied to CAKE**
+### **Doanh Thu Gắn Với CAKE**
 
-20% of all perps trading fees is routed directly to CAKE burn, linking trading activity to long-term token value. The more volume on PCS Perps, the more CAKE is removed from circulation.
+20% tổng phí giao dịch perps được chuyển trực tiếp đến việc đốt CAKE, liên kết hoạt động giao dịch với giá trị token dài hạn. Khối lượng giao dịch trên PCS Perps càng nhiều, CAKE được loại bỏ khỏi lưu thông càng nhiều.

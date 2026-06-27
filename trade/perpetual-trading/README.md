@@ -1,6 +1,5 @@
-# 📈 Perpetual Trading
+# 📈 Giao Dịch Hợp Đồng Vĩnh Viễn
 
-The PancakeSwap team has partnered with Aster to bring a fully rebuilt perpetuals experience to PancakeSwap. Trade your favorite pairs directly from your wallet — no intermediaries, no bridging, no account setup. Just fast, onchain execution within reach.
+Nhóm PancakeSwap đã hợp tác với Aster để mang đến trải nghiệm giao dịch hợp đồng vĩnh viễn được xây dựng lại hoàn toàn cho PancakeSwap. Giao dịch các cặp yêu thích của bạn trực tiếp từ ví — không cần trung gian, không cần cầu nối, không cần thiết lập tài khoản. Chỉ là thực thi on-chain nhanh chóng trong tầm tay.
 
-And yes — trading on PCS Perps contributes to CAKE burn. 🔥
-
+Và đúng vậy — giao dịch trên PCS Perps góp phần đốt CAKE. 🔥

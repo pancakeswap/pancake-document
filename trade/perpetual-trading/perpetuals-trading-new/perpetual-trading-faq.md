@@ -1,64 +1,64 @@
-# Perpetual Trading FAQ
+# FAQ Giao Dịch Hợp Đồng Vĩnh Viễn
 
-### **What is PancakeSwap Perpetuals?**
+### **PancakeSwap Perpetuals là gì?**
 
-PCS Perps is a perpetuals trading product built on Aster's orderbook infrastructure with a PCS-native frontend. It supports up to 200× leverage on BTC and major pairs, and is accessible directly from your wallet with no bridging or separate account setup.
+PCS Perps là sản phẩm giao dịch hợp đồng vĩnh viễn được xây dựng trên cơ sở hạ tầng sổ lệnh của Aster với giao diện frontend gốc của PCS. Nó hỗ trợ đòn bẩy lên đến 200× trên BTC và các cặp lớn, và có thể truy cập trực tiếp từ ví của bạn mà không cần cầu nối hay thiết lập tài khoản riêng.
 
-### **Which mode should I use — Simple or Pro?**
+### **Tôi nên sử dụng chế độ nào — Simple hay Pro?**
 
-It depends on how you like to trade. Simple Mode is built for speed — set your size, pick your leverage, and tap UP or DOWN to open a position instantly. Pro Mode is for traders who want more control: limit orders, TP/SL configuration, and full position management. If you're new to perps or just want to move fast, start with Simple. You can switch to Pro at any time without affecting your open positions.
+Điều đó phụ thuộc vào cách bạn muốn giao dịch. Simple Mode được xây dựng cho tốc độ — đặt kích thước, chọn đòn bẩy, và nhấp UP hoặc DOWN để mở vị thế ngay lập tức. Pro Mode dành cho các nhà giao dịch muốn kiểm soát nhiều hơn: lệnh giới hạn, cấu hình TP/SL và quản lý vị thế đầy đủ. Nếu bạn mới dùng perps hoặc chỉ muốn di chuyển nhanh, hãy bắt đầu với Simple. Bạn có thể chuyển sang Pro bất cứ lúc nào mà không ảnh hưởng đến các vị thế đang mở.
 
-### **Do I need to create an account or complete KYC?**
+### **Tôi có cần tạo tài khoản hoặc hoàn thành KYC không?**
 
-No. PCS Perps is fully onchain. Connect your wallet and you're ready to trade — no account creation, no KYC, no deposits to a custodial platform.
+Không. PCS Perps hoàn toàn on-chain. Kết nối ví của bạn và bạn đã sẵn sàng giao dịch — không cần tạo tài khoản, không cần KYC, không cần nạp tiền vào nền tảng lưu ký.
 
-### **What's the difference between Simple Mode and Pro Mode?**
+### **Sự khác biệt giữa Simple Mode và Pro Mode là gì?**
 
-Simple Mode is built for fast directional trades — one tap to go long or short with preset sizes. Pro Mode gives you full control with advanced order types, TP/SL, and position management tools. You can switch between modes at any time.
-
-***
-
-### **What fees does PancakeSwap Perpetuals charge?**
-
-There are two components to your trading fee on PCS Perps:
-
-1. **Aster base fee** — charged by Aster's orderbook infrastructure on every trade
-2. **PCS builder fee** — charged by PancakeSwap on top of the Aster base fee
-
-Both are deducted automatically at the time of your trade.
+Simple Mode được xây dựng cho các giao dịch định hướng nhanh — một thao tác để mở long hoặc short với kích thước được đặt sẵn. Pro Mode cho bạn toàn quyền kiểm soát với các loại lệnh nâng cao, TP/SL và công cụ quản lý vị thế. Bạn có thể chuyển đổi giữa các chế độ bất cứ lúc nào.
 
 ***
 
-### **What are Aster's fee rates?**
+### **PancakeSwap Perpetuals tính những loại phí gì?**
 
-Fees vary by contract type:
+Có hai thành phần trong phí giao dịch của bạn trên PCS Perps:
 
-**USDT-Perpetual Contracts**
+1. **Phí cơ bản Aster** — được tính bởi cơ sở hạ tầng sổ lệnh của Aster trên mỗi giao dịch
+2. **Phí builder PCS** — được PancakeSwap tính thêm trên phí cơ bản Aster
 
-| Order Type | Fee Rate |
-| ---------- | -------- |
-| Maker      | 0%       |
-| Taker      | 0.04%    |
+Cả hai đều được khấu trừ tự động tại thời điểm giao dịch của bạn.
 
-**USD1-Perpetual Contracts**
+***
 
-| Order Type | Fee Rate |
-| ---------- | -------- |
-| Maker      | 0%       |
-| Taker      | 0.005%   |
+### **Tỷ lệ phí của Aster là bao nhiêu?**
 
-For more details related to Aster fees please refer to this doc here: [LINK](https://docs.asterdex.com/trading/perpetuals/fees-and-specs)
+Phí thay đổi theo loại hợp đồng:
 
-### How does Aster determine which user is from PancakeSwap and which user is from their own website?
+**Hợp Đồng USDT-Perpetual**
 
-This is based on the platform where users trade. If users open and close trades on [https://pancakeswap.finance/perps](https://pancakeswap.finance/perps), they will be considered PancakeSwap user.
+| Loại Lệnh | Tỷ Lệ Phí |
+| --------- | --------- |
+| Maker     | 0%        |
+| Taker     | 0.04%     |
 
-### PancakeSwap builder fee
+**Hợp Đồng USD1-Perpetual**
 
-Fees for PancakeSwap Perpetuals as follows:
+| Loại Lệnh | Tỷ Lệ Phí |
+| --------- | --------- |
+| Maker     | 0%        |
+| Taker     | 0.005%    |
 
-<table><thead><tr><th width="201.33333333333331">Mode</th><th>Builder Fees</th></tr></thead><tbody><tr><td>All trades</td><td>0.03%</td></tr></tbody></table>
+Để biết thêm chi tiết về phí Aster, vui lòng tham khảo tài liệu này: [LINK](https://docs.asterdex.com/trading/perpetuals/fees-and-specs)
 
-### **Which jurisdictions are restricted from using the product?** <a href="#whats-the-difference-between-a-maker-and-taker-order" id="whats-the-difference-between-a-maker-and-taker-order"></a>
+### Aster xác định người dùng nào đến từ PancakeSwap và người dùng nào từ trang web của riêng họ như thế nào?
 
-Users located in or accessing the service from the United States of America, Canada, the United Kingdom, China, North Korea, Russia, Ukraine, Cuba, Iran, Venezuela, or Syria are not permitted to use the product. Access may be restricted or blocked in accordance with applicable compliance and regulatory requirements.
+Điều này dựa trên nền tảng nơi người dùng giao dịch. Nếu người dùng mở và đóng giao dịch trên [https://pancakeswap.finance/perps](https://pancakeswap.finance/perps), họ sẽ được coi là người dùng PancakeSwap.
+
+### Phí builder PancakeSwap
+
+Phí cho PancakeSwap Perpetuals như sau:
+
+<table><thead><tr><th width="201.33333333333331">Chế Độ</th><th>Phí Builder</th></tr></thead><tbody><tr><td>Tất cả giao dịch</td><td>0.03%</td></tr></tbody></table>
+
+### **Những khu vực pháp lý nào bị hạn chế sử dụng sản phẩm?** <a href="#whats-the-difference-between-a-maker-and-taker-order" id="whats-the-difference-between-a-maker-and-taker-order"></a>
+
+Người dùng ở hoặc truy cập dịch vụ từ Hoa Kỳ, Canada, Vương Quốc Anh, Trung Quốc, Bắc Triều Tiên, Nga, Ukraine, Cuba, Iran, Venezuela hoặc Syria không được phép sử dụng sản phẩm. Quyền truy cập có thể bị hạn chế hoặc chặn theo các yêu cầu tuân thủ và quy định hiện hành.

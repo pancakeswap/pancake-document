@@ -1,17 +1,17 @@
-# How to StableSwap
+# Cách Sử Dụng StableSwap
 
-<figure><img src="../../.gitbook/assets/how-to-stableswap.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-stableswap.png" alt=""><figcaption></figcaption></figure>
 
-## **Trading on the StableSwap**
+## **Giao Dịch trên StableSwap**
 
-Trading on the StableSwap is very similar to using the existing PancakeSwap AMM. Before we start, it also requires a BNB Smart Chain-compatible wallet and BNB for gas fees. Please check our [wallet guide](https://docs.pancakeswap.finance/get-started/wallet-guide) for more details.
+Giao dịch trên StableSwap rất giống với việc sử dụng PancakeSwap AMM hiện có. Trước khi bắt đầu, bạn cũng cần có ví tương thích BNB Smart Chain và BNB để trả phí gas. Vui lòng xem [hướng dẫn ví](https://docs.pancakeswap.finance/get-started/wallet-guide) của chúng tôi để biết thêm chi tiết.
 
-1 - Go to the Swap page [here](https://pancakeswap.finance/swap)
+1 - Đến trang Swap [tại đây](https://pancakeswap.finance/swap)
 
-2 - Choose the token pairs you would like to trade.&#x20;
+2 - Chọn các cặp token bạn muốn giao dịch.&#x20;
 
-3 - Your all set! The following Swap process is the same as usual! If it’s your first time trading please check the guide [here.](../pancakeswap-exchange/trade-guide.md)
+3 - Bạn đã sẵn sàng! Quy trình Hoán đổi tiếp theo giống như bình thường! Nếu đây là lần đầu tiên bạn giao dịch, hãy xem hướng dẫn [tại đây.](../pancakeswap-exchange/trade-guide.md)
 
-**Adding & Removing Liquidity**
+**Thêm & Xóa Thanh Khoản**
 
-Adding and removing liquidity for the StableSwap is also very important and similar to the normal PancakeSwap AMM. Please refer to the guide [here](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide) for a more detailed explanation. PancakeSwap StableSwap liquidity pools will show "Stable LP" in the pool name.
+Thêm và xóa thanh khoản cho StableSwap cũng rất quan trọng và tương tự như PancakeSwap AMM thông thường. Vui lòng tham khảo hướng dẫn [tại đây](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide) để có giải thích chi tiết hơn. Các pool thanh khoản StableSwap của PancakeSwap sẽ hiển thị "Stable LP" trong tên pool.

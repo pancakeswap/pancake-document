@@ -1,30 +1,30 @@
-# Degen Mode Dynamic Fee
+# Phí Động Degen Mode
 
-PancakeSwap Perpetuals Degen Mode uses a dynamic fee model. This fee is designed to charge fees by PnL and protect users from losses.\
-**How does it work?**
+PancakeSwap Perpetuals Degen Mode sử dụng mô hình phí động. Phí này được thiết kế để tính phí theo PnL và bảo vệ người dùng khỏi thua lỗ.\
+**Cơ chế hoạt động?**
 
 $$
 \text{closeFeeRate} = \max\left(\frac{\text{pnl} \cdot \text{shareRate}}{\text{notional}}, \text{closeMinRate}\right)
 $$
 
-where:
+trong đó:
 
-* Pnl is the profit or loss on the position
-* shareRate is the share rate, which is the percentage of the notional that is paid in fees (15% as default)
-* Notional is the amount of money that is used to open the position
-* closeMinRate is the minimum closing fee rate, which is the lowest amount that you can pay to close a position (0.03% as default)
+* Pnl là lợi nhuận hoặc lỗ trên vị thế
+* shareRate là tỷ lệ chia sẻ, là tỷ lệ phần trăm của giá trị danh nghĩa được thanh toán dưới dạng phí (mặc định là 15%)
+* Notional là số tiền được sử dụng để mở vị thế
+* closeMinRate là tỷ lệ phí đóng vị thế tối thiểu, là mức thấp nhất bạn có thể trả để đóng vị thế (mặc định là 0.03%)
 
 \
-**Example:**
+**Ví dụ:**
 
-If you have a position with a profit of $100, a share rate of 15%, and a notional of $600, then the closing fee rate would be:
+Nếu bạn có vị thế với lợi nhuận $100, tỷ lệ chia sẻ 15%, và giá trị danh nghĩa $600, thì tỷ lệ phí đóng vị thế sẽ là:
 
-Closing fee rate = Max(100 \* 15% / 600, 0.03%) = 0.03%
+Tỷ lệ phí đóng = Max(100 \* 15% / 600, 0.03%) = 0.03%
 
-In this case, the closing fee rate would be 0.03%, the minimum closing fee rate.<br>
+Trong trường hợp này, tỷ lệ phí đóng vị thế sẽ là 0.03%, tỷ lệ phí đóng vị thế tối thiểu.<br>
 
-Note:
+Lưu ý:
 
-The execution fee will only be charged when a position is opened. It is set at 0.3 USD (BNB Chain)/ 0.2 USD (Arbitrum)/ 0.01 USD (opBNB)/ 0.3 USD (Base), similar to what is being charged when trading classic perpetual trading pairs. There is no opening position fee.
+Phí thực thi chỉ được tính khi mở vị thế. Phí được đặt ở mức 0.3 USD (BNB Chain)/ 0.2 USD (Arbitrum)/ 0.01 USD (opBNB)/ 0.3 USD (Base), tương tự như mức phí được tính khi giao dịch các cặp hợp đồng vĩnh viễn thông thường. Không có phí mở vị thế.
 
-In the event of liquidation, the 90% liquid lost rate includes close fee.
+Trong trường hợp thanh lý, tỷ lệ mất mát thanh lý 90% bao gồm phí đóng vị thế.

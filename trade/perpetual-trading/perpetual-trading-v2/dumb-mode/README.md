@@ -4,53 +4,53 @@ hidden: true
 
 # Dumb Mode
 
-### Overview
+### Tổng Quan
 
-[**Dumb Mode**](https://perp.pancakeswap.finance/en/futures/v2/BTCUSD?theme=light\&chain=bsc) on PancakeSwap Perpetuals offers a simplified trading experience, ideal for traders who prefer to trade on the minute-by-minute fluctuations of an underlying asset’s value. Dumb Mode simplifies trading by reducing the noise, allowing users to enter and exit short-term positions easily.
+[**Dumb Mode**](https://perp.pancakeswap.finance/en/futures/v2/BTCUSD?theme=light\&chain=bsc) trên PancakeSwap Perpetuals cung cấp trải nghiệm giao dịch đơn giản hóa, lý tưởng cho các nhà giao dịch muốn giao dịch dựa trên biến động từng phút của giá trị tài sản cơ sở. Dumb Mode đơn giản hóa giao dịch bằng cách giảm bớt nhiễu, cho phép người dùng dễ dàng vào và thoát các vị thế ngắn hạn.
 
-### How It Works
+### Cách Hoạt Động
 
-Users are given a selection of 5-minute, 15-minute, 30-minute and 1-hour expiration windows with different return-on-investment ratios. Users can choose to long or short an underlying asset.
+Người dùng được cung cấp các cửa sổ hết hạn 5 phút, 15 phút, 30 phút và 1 giờ với các tỷ lệ hoàn vốn khác nhau. Người dùng có thể chọn long hoặc short tài sản cơ sở.
 
-At the end of the expiration period, if the underlying asset is in a winning position (price greater than open price for long, price lower than open price for short), users will stand to profit.
+Vào cuối kỳ hết hạn, nếu tài sản cơ sở ở vị thế thắng (giá lớn hơn giá mở cho vị thế long, giá thấp hơn giá mở cho vị thế short), người dùng sẽ có lợi nhuận.
 
-Each expiration period has a different return-on-investment (ROI). The longer the expiration period, the higher the ROI. Percentages and fees are as follows:<br>
+Mỗi kỳ hết hạn có tỷ lệ hoàn vốn (ROI) khác nhau. Kỳ hết hạn càng dài, ROI càng cao. Tỷ lệ và phí như sau:<br>
 
-| Expiration Period | Winning ROI (Net of fees)\* | Losing ROI | Fees (on Winning) |
-| ----------------- | --------------------------- | ---------- | ----------------- |
-| 5 minutes         | 50%                         | -100%      | 6% on collateral  |
-| 15 minutes        | 55%                         | -100%      | 6% on collateral  |
-| 30 minutes        | 70%                         | -100%      | 6% on collateral  |
-| 1 hour            | 83%                         | -100%      | 6% on collateral  |
+| Kỳ Hết Hạn | ROI Thắng (Sau Phí)\* | ROI Thua | Phí (khi Thắng) |
+| ---------- | --------------------- | -------- | --------------- |
+| 5 phút     | 50%                   | -100%    | 6% trên tài sản thế chấp |
+| 15 phút    | 55%                   | -100%    | 6% trên tài sản thế chấp |
+| 30 phút    | 70%                   | -100%    | 6% trên tài sản thế chấp |
+| 1 giờ      | 83%                   | -100%    | 6% trên tài sản thế chấp |
 
-\*Winning ROI may be adjusted occasionally depending on market conditions. Please check this page for any updates
+\*ROI Thắng có thể được điều chỉnh theo từng thời điểm tùy thuộc vào điều kiện thị trường. Vui lòng kiểm tra trang này để biết cập nhật
 
-For example, in the following scenario:
+Ví dụ, trong kịch bản sau:
 
-* Position Selected: Long
-* Collateral Placed: 100 USDT
-* Expiration Period: 60 seconds
-* BTCUSD price at open: $50,000
-* BTCUSD price after 60s: $50,001
+* Vị Thế Đã Chọn: Long
+* Tài Sản Thế Chấp Đặt: 100 USDT
+* Kỳ Hết Hạn: 60 giây
+* Giá BTCUSD khi mở: $50,000
+* Giá BTCUSD sau 60 giây: $50,001
 
-User will profit **100USDT \* 75%= 75USDT**
+Người dùng sẽ có lợi nhuận **100USDT \* 75% = 75USDT**
 
-For more information on how to open a Dumb Mode position, click [here](dumb-mode-guide.md).
+Để biết thêm thông tin về cách mở vị thế Dumb Mode, nhấp [tại đây](dumb-mode-guide.md).
 
-### Markets and Margin Assets
+### Thị Trường và Tài Sản Ký Quỹ
 
-Dumb Mode supports trading in the following markets and margin assets on **BNB Chain**:
+Dumb Mode hỗ trợ giao dịch trong các thị trường và tài sản ký quỹ sau trên **BNB Chain**:
 
-<table data-header-hidden><thead><tr><th width="330"></th><th></th></tr></thead><tbody><tr><td>Market</td><td>Margin Assets</td></tr><tr><td><p>BTCUSD</p><p>ETHUSD</p><p>CAKEUSD</p><p>BNBUSD</p><p>SOLUSD</p></td><td><p>USDC</p><p>USDT</p><p>CAKE</p><p>ETH</p><p>BTC</p><p>HAY</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="330"></th><th></th></tr></thead><tbody><tr><td>Thị Trường</td><td>Tài Sản Ký Quỹ</td></tr><tr><td><p>BTCUSD</p><p>ETHUSD</p><p>CAKEUSD</p><p>BNBUSD</p><p>SOLUSD</p></td><td><p>USDC</p><p>USDT</p><p>CAKE</p><p>ETH</p><p>BTC</p><p>HAY</p></td></tr></tbody></table>
 
-Dumb Mode supports trading in the following markets and margin assets on **Arbitrum, opBNB and Base Chains**:
+Dumb Mode hỗ trợ giao dịch trong các thị trường và tài sản ký quỹ sau trên **Arbitrum, opBNB và Base Chains**:
 
-<table data-header-hidden><thead><tr><th width="330"></th><th></th></tr></thead><tbody><tr><td>Market</td><td>Margin Assets</td></tr><tr><td><p>BTCUSD</p><p>ETHUSD</p></td><td><p>USDC</p><p>USDT</p><p>ETH</p><p>BTC</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="330"></th><th></th></tr></thead><tbody><tr><td>Thị Trường</td><td>Tài Sản Ký Quỹ</td></tr><tr><td><p>BTCUSD</p><p>ETHUSD</p></td><td><p>USDC</p><p>USDT</p><p>ETH</p><p>BTC</p></td></tr></tbody></table>
 
-Support for more assets/chains is in development.
+Hỗ trợ cho nhiều tài sản/chuỗi hơn đang được phát triển.
 
-### Fees
+### Phí
 
-A fee of **6%** of the principal or collateral is charged in case of a winning trade. This is already calculated before ROI.
+Phí **6%** của vốn gốc hoặc tài sản thế chấp được tính trong trường hợp giao dịch thắng. Điều này đã được tính trước ROI.
 
 <br>

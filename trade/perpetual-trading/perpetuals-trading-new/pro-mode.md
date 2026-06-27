@@ -1,60 +1,60 @@
 # Pro Mode
 
-Pro Mode gives you full control over your trades — order types, leverage, TP/SL, and position management all in one place. Follow the steps below to open your first position. For definitions of key terms, refer to the PCS Perps Glossary.
+Pro Mode cho bạn toàn quyền kiểm soát giao dịch — loại lệnh, đòn bẩy, TP/SL và quản lý vị thế đều trong một nơi. Làm theo các bước dưới đây để mở vị thế đầu tiên của bạn. Để biết định nghĩa các thuật ngữ chính, hãy tham khảo Bảng Thuật Ngữ PCS Perps.
 
-### **Go to the PCS Perps page**
+### **Đến trang PCS Perps**
 
-Head to [pancakeswap.finance/perps](https://pancakeswap.finance/perps) or click Perps in the main PancakeSwap navigation bar.
+Truy cập [pancakeswap.finance/perps](https://pancakeswap.finance/perps) hoặc nhấp Perps trong thanh điều hướng chính của PancakeSwap.
 
-### **Connect your wallet**
+### **Kết nối ví của bạn**
 
-Click Connect Wallet in the top right corner. No account creation or KYC required — your wallet is your account.
+Nhấp Connect Wallet ở góc trên bên phải. Không cần tạo tài khoản hoặc KYC — ví của bạn là tài khoản của bạn.
 
-<figure><img src="../../../.gitbook/assets/image (157).png" alt="" width="507"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28157%29.png" alt="" width="507"><figcaption></figcaption></figure>
 
-### **Choose your mode**
+### **Chọn chế độ của bạn**
 
-Select **Simple Mode** for a fast one-tap long or short with preset sizes. Switch to **Pro Mode** if you want to set limit orders, configure TP/SL, or manage positions in more detail.
+Chọn **Simple Mode** để mở long hoặc short nhanh chỉ với một thao tác với kích thước được đặt sẵn. Chuyển sang **Pro Mode** nếu bạn muốn đặt lệnh giới hạn, cấu hình TP/SL hoặc quản lý vị thế chi tiết hơn.
 
-<figure><img src="../../../.gitbook/assets/image (249).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28249%29.png" alt=""><figcaption></figcaption></figure>
 
-### **Choose a trading pair**
+### **Chọn cặp giao dịch**
 
-Click on the pair name at the top of the page to open the asset selector. A huge variety of token pairs are available.&#x20;
+Nhấp vào tên cặp ở đầu trang để mở bộ chọn tài sản. Có rất nhiều loại cặp token để lựa chọn.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (228).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28228%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-### **Analyze the chart and decide your strategy**
+### **Phân tích biểu đồ và quyết định chiến lược của bạn**
 
-Use the built-in TradingView chart to analyze price action before placing your trade. All standard charting tools are available.
+Sử dụng biểu đồ TradingView tích hợp để phân tích hành động giá trước khi đặt giao dịch. Tất cả các công cụ biểu đồ tiêu chuẩn đều có sẵn.
 
-<figure><img src="../../../.gitbook/assets/image (264).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28264%29.png" alt=""><figcaption></figcaption></figure>
 
-### **Set your position parameters**
+### **Đặt thông số vị thế của bạn**
 
-In the order panel, configure the following:
+Trong bảng lệnh, cấu hình các thông số sau:
 
-1. **Long or Short** — select the direction of your trade
-2. **Leverage** — use the slider or type manually to set your leverage. Up to 200× is available on BTC.
+1. **Long hoặc Short** — chọn hướng giao dịch của bạn
+2. **Đòn Bẩy** — sử dụng thanh trượt hoặc nhập thủ công để đặt đòn bẩy. Lên đến 200× có sẵn trên BTC.
 
-⚠️ High leverage carries significant risk. Use it carefully.
+⚠️ Đòn bẩy cao mang rủi ro đáng kể. Hãy sử dụng cẩn thận.
 
-3. **Order type** — Market (fills immediately) or Limit (fills at your chosen price)
-4. **Position size** — enter the size of your trade in your preferred reference currency
+3. **Loại lệnh** — Market (khớp ngay) hoặc Limit (khớp ở mức giá bạn chọn)
+4. **Kích thước vị thế** — nhập kích thước giao dịch của bạn theo đồng tiền tham chiếu ưa thích
 
-**Set Take Profit and Stop Loss** _(optional)_
+**Đặt Chốt Lời và Cắt Lỗ** _(tùy chọn)_
 
-* **Take Profit** — your position closes automatically when your target gain is reached
-* **Stop Loss** — your position closes automatically to limit losses at a set threshold
+* **Chốt Lời** — vị thế của bạn tự động đóng khi lợi nhuận mục tiêu đạt được
+* **Cắt Lỗ** — vị thế của bạn tự động đóng để giới hạn tổn thất ở ngưỡng đã đặt
 
-Once all parameters are set, click Buy / Long Or Sell / Short to submit your order.
+Sau khi tất cả các thông số đã được đặt, nhấp Buy / Long Hoặc Sell / Short để gửi lệnh.
 
-<figure><img src="../../../.gitbook/assets/image (284).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28284%29.png" alt=""><figcaption></figcaption></figure>
 
-### **Check your order status**
+### **Kiểm tra trạng thái lệnh của bạn**
 
-Your order will appear under **Positions** while it waits to be filled.
+Lệnh của bạn sẽ xuất hiện trong **Positions** trong khi chờ được khớp.
 
-<figure><img src="../../../.gitbook/assets/image (287).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28287%29.png" alt=""><figcaption></figcaption></figure>
 
-Good luck with your trades!
+Chúc bạn giao dịch thành công!

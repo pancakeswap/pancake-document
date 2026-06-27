@@ -1,58 +1,58 @@
 # Simple Mode
 
-Simple Mode is designed for traders who want to act fast. Set your size, pick your leverage, and tap UP or DOWN — that's it.
+Simple Mode được thiết kế cho các nhà giao dịch muốn hành động nhanh. Đặt kích thước, chọn đòn bẩy và nhấn UP hoặc DOWN — chỉ vậy thôi.
 
-### **Go to the PCS Perps page**
+### **Đến trang PCS Perps**
 
-Head to [pancakeswap.finance/perps](https://pancakeswap.finance/perps) or click Perps in the main PancakeSwap navigation bar.
+Truy cập [pancakeswap.finance/perps](https://pancakeswap.finance/perps) hoặc nhấp Perps trong thanh điều hướng chính của PancakeSwap.
 
-### **Connect your wallet**
+### **Kết nối ví của bạn**
 
-Click Connect Wallet in the top right corner. No account creation or KYC required — your wallet is your account.
+Nhấp Connect Wallet ở góc trên bên phải. Không cần tạo tài khoản hoặc KYC — ví của bạn là tài khoản của bạn.
 
-<figure><img src="../../../.gitbook/assets/image (157).png" alt="" width="507"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28157%29.png" alt="" width="507"><figcaption></figcaption></figure>
 
-### **Choose a trading pair**
+### **Chọn cặp giao dịch**
 
-Click on the pair name at the top of the page to open the asset selector. A huge variety of token pairs are available.&#x20;
+Nhấp vào tên cặp ở đầu trang để mở bộ chọn tài sản. Có rất nhiều loại cặp token để lựa chọn.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (300).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28300%29.png" alt=""><figcaption></figcaption></figure>
 
-### **My Bet — Position Size**
+### **My Bet — Kích Thước Vị Thế**
 
-Enter how much you want to put in, or tap the preset buttons — **25%**, **50%**, or **MAX** — to size your position as a portion of your available perp fund balance.
+Nhập số tiền bạn muốn đặt, hoặc nhấp các nút được đặt sẵn — **25%**, **50%**, hoặc **MAX** — để xác định kích thước vị thế của bạn theo tỷ lệ so với số dư quỹ perp có sẵn.
 
-<figure><img src="../../../.gitbook/assets/image (337).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28337%29.png" alt=""><figcaption></figcaption></figure>
 
-### **Leverage**
+### **Đòn Bẩy**
 
-Use the slider or tap a preset — **50×**, **100×**, **150×**, or **200×** — to set your leverage. Your current multiplier is shown in large text above the slider.
+Sử dụng thanh trượt hoặc nhấp vào các mức được đặt sẵn — **50×**, **100×**, **150×**, hoặc **200×** — để đặt đòn bẩy. Hệ số nhân hiện tại của bạn được hiển thị ở dạng chữ lớn phía trên thanh trượt.
 
-When leverage is high enough to carry meaningful liquidation risk, an **Amplified Risk** indicator appears as a reminder.
+Khi đòn bẩy đủ cao để mang rủi ro thanh lý đáng kể, một chỉ báo **Amplified Risk** (Rủi Ro Khuếch Đại) sẽ xuất hiện như một lời nhắc nhở.
 
-<figure><img src="../../../.gitbook/assets/image (319).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28319%29.png" alt=""><figcaption></figcaption></figure>
 
-### **One tap to open**
+### **Một thao tác để mở**
 
-Tap **UP** to go long, or **DOWN** to go short. Your position opens immediately at the best available market price.
+Nhấn **UP** để mở long, hoặc **DOWN** để mở short. Vị thế của bạn mở ngay lập tức ở mức giá thị trường tốt nhất có sẵn.
 
-<figure><img src="../../../.gitbook/assets/image (341).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28341%29.png" alt=""><figcaption></figcaption></figure>
 
-### **Tapping multiple times**
+### **Nhấn nhiều lần**
 
-Simple Mode is designed to let you build or reduce your position with repeated taps — no need to manually adjust size each time.
+Simple Mode được thiết kế để bạn xây dựng hoặc giảm vị thế bằng cách nhấn nhiều lần — không cần điều chỉnh kích thước thủ công mỗi lần.
 
-* **Tap UP twice** — your position doubles. Each tap adds one unit to your existing long.
-* **Tap UP then DOWN** — the positions cancel out, returning you to flat.
+* **Nhấn UP hai lần** — vị thế của bạn nhân đôi. Mỗi lần nhấn thêm một đơn vị vào vị thế long hiện tại của bạn.
+* **Nhấn UP rồi DOWN** — các vị thế triệt tiêu nhau, đưa bạn trở về trạng thái không có vị thế.
 
-Think of each tap as adding or subtracting one unit in a direction. It's a fun way to scale in or out of a trade.
+Hãy nghĩ mỗi lần nhấn như thêm hoặc bớt một đơn vị theo một hướng. Đây là cách thú vị để tăng hoặc giảm quy mô giao dịch.
 
-### **Check your order status**
+### **Kiểm tra trạng thái lệnh của bạn**
 
-Your order will appear under **Positions** while it waits to be filled.
+Lệnh của bạn sẽ xuất hiện trong **Positions** trong khi chờ được khớp.
 
-<figure><img src="../../../.gitbook/assets/image (352).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28352%29.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-💡 Want to set limit orders, TP/SL, or manage positions in more detail? Switch to **Pro Mode** at any time — your open positions are not affected.
+💡 Muốn đặt lệnh giới hạn, TP/SL, hoặc quản lý vị thế chi tiết hơn? Chuyển sang **Pro Mode** bất cứ lúc nào — các vị thế đang mở của bạn không bị ảnh hưởng.

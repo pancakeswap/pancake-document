@@ -1,20 +1,20 @@
 # Forex
 
-PancakeSwap Perpetuals V2 offers forex trading pairs. Unlike the cryptocurrency market, the foreign exchange market is not open for trading 24/7. Traders may refer to the following timings:
+PancakeSwap Perpetuals V2 cung cấp các cặp giao dịch forex. Không giống như thị trường tiền điện tử, thị trường ngoại hối không mở cửa giao dịch 24/7. Nhà giao dịch có thể tham khảo các thời gian sau:
 
-| Day       | Open/Close for trading                                                                   |
-| --------- | ---------------------------------------------------------------------------------------- |
-| Monday    | Open                                                                                     |
-| Tuesday   | Open                                                                                     |
-| Wednesday | Open                                                                                     |
-| Thursday  | Open                                                                                     |
-| Friday    | <p>Closed from 22:00 UTC onwards (DST)</p><p>Closed from 23:00 UTC onwards (Non-DST)</p> |
-| Saturday  | Closed                                                                                   |
-| Sunday    | <p>Open from 22:00 UTC onwards (DST)</p><p>Open from 23:00 UTC onwards (Non-DST)</p>     |
+| Ngày       | Mở/Đóng giao dịch                                                                       |
+| ---------- | ---------------------------------------------------------------------------------------- |
+| Thứ Hai    | Mở                                                                                      |
+| Thứ Ba     | Mở                                                                                      |
+| Thứ Tư     | Mở                                                                                      |
+| Thứ Năm    | Mở                                                                                      |
+| Thứ Sáu    | <p>Đóng từ 22:00 UTC trở đi (DST)</p><p>Đóng từ 23:00 UTC trở đi (Không DST)</p>       |
+| Thứ Bảy    | Đóng                                                                                    |
+| Chủ Nhật   | <p>Mở từ 22:00 UTC trở đi (DST)</p><p>Mở từ 23:00 UTC trở đi (Không DST)</p>          |
 
-In addition, the foreign exchange market will also be closed during the following public holidays:
+Ngoài ra, thị trường ngoại hối cũng sẽ đóng cửa trong các ngày lễ công cộng sau:
 
-* 25th December - 27th December
-* 1st January - 2nd January
+* 25 tháng 12 - 27 tháng 12
+* 1 tháng 1 - 2 tháng 1
 
 <br>

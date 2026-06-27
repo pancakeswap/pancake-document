@@ -1,10 +1,10 @@
-# MADBTCUSD FAQ
+# FAQ MADBTCUSD
 
-### How is MADBTCUSD Index Calculated?
+### Chỉ Số MADBTCUSD được Tính Thế Nào?
 
-MADBTCUSD is calculated based on the following formula:
+MADBTCUSD được tính dựa trên công thức sau:
 
-**MADBTCUSD Index**
+**Chỉ Số MADBTCUSD**
 
 $$
 \begin{align*}
@@ -20,49 +20,49 @@ $$
 
 
 
-where:
+trong đó:
 
-* Initial Sn=1000 &#x20;
+* Sn ban đầu=1000 &#x20;
 * dt=1
-* expected vol：100%(expected vol is the expected time volatility of the MADBTC)
-* the "**Random number**" is calculated based on the current **BTC price with 8 decimal places of precision**
+* expected vol：100% (expected vol là độ biến động thời gian kỳ vọng của MADBTC)
+* "**Số ngẫu nhiên**" được tính dựa trên **giá BTC hiện tại với độ chính xác 8 chữ số thập phân**
 
-**Calculation of Random Number:**
+**Tính Toán Số Ngẫu Nhiên:**
 
 ```python
 import hashlib
 from decimal import Decimal
 
-# Assume the current price of Bitcoin is 48923.56789101
+# Giả sử giá Bitcoin hiện tại là 48923.56789101
 bitcoin_price = Decimal("48923.56789101")
 
-# Calculate the SHA-256 hash of the Bitcoin price
+# Tính hash SHA-256 của giá Bitcoin
 price_hash = hashlib.sha256(str(bitcoin_price).encode('utf-8')).hexdigest()
 
-# Extract the first 8 hexadecimal numbers from the hash
+# Trích xuất 8 số thập lục phân đầu tiên từ hash
 hash_substring = price_hash[:8]
 
-# Converts a hexadecimal string to an integer
+# Chuyển đổi chuỗi thập lục phân thành số nguyên
 hash_integer = int(hash_substring, 16)
 
-# Divide the integer by 4294967296 (the decimal number corresponding to the hexadecimal number FFFFFFFF) to get a num
+# Chia số nguyên cho 4294967296 (số thập phân tương ứng với số thập lục phân FFFFFFFF) để lấy một số
 random_number = hash_integer / 4294967296
-# Print the random number
+# In số ngẫu nhiên
 print(random_number)
 ```
 
-If the random number determined is 0, it will be recalculated again
+Nếu số ngẫu nhiên được xác định là 0, nó sẽ được tính toán lại
 
-### Where can I cross-verify the BTC and MADBTCUSD historical price?
+### Tôi có thể xác minh chéo dữ liệu lịch sử giá BTC và MADBTCUSD ở đâu?
 
-The BTC and MADBTCUSD price feed can be found here:
+Nguồn cấp giá BTC và MADBTCUSD có thể tìm thấy tại đây:
 
 [BTCUSD](https://www.apollox.finance/bapi/futures/v1/public/future/apx/V2MarkPriceKline?symbol=BTCUSD\&limit=1800)
 
 [MADBTCUSD](https://www.apollox.finance/bapi/futures/v1/public/future/apx/V2MarkPriceKline?symbol=MADBTCUSD\&limit=1800)
 
-### Historical backtest data of BTC & MADBTC
+### Dữ liệu backtest lịch sử của BTC & MADBTC
 
-To cross-verify the BTC & MADBTC historical prices, we've provided a backtest graph below.&#x20;
+Để xác minh chéo giá lịch sử BTC & MADBTC, chúng tôi đã cung cấp biểu đồ backtest dưới đây.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/photo_2023-10-26_19-24-40.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/photo_2023-10-26_19-24-40.jpg" alt=""><figcaption></figcaption></figure>

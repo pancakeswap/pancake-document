@@ -1,23 +1,23 @@
 # Classic StableSwap
 
-The Classic StableSwap is an implementation of Curve Finance’s AMM on PancakeSwap. It adds linear invariant constant sum curve (x+y=k) on top of the constant product formula (x\*y=k) to keep prices more equal as long as the liquidity pool is not extremely unbalanced. As a result, since StableSwaps are restricted to similarly priced assets, impermanent loss is not as much of a concern (except in extreme depeg cases) and the slippage is lower than normal AMM which just uses the constant product formula.
+Classic StableSwap là triển khai AMM của Curve Finance trên PancakeSwap. Nó thêm đường cong tổng hằng số tuyến tính (x+y=k) lên trên công thức tích hằng số (x\*y=k) để giữ giá cân bằng hơn miễn là pool thanh khoản không mất cân bằng cực độ. Kết quả là, vì StableSwaps bị giới hạn với các tài sản có giá tương đương, tổn thất tạm thời không đáng lo ngại nhiều (ngoại trừ trong các trường hợp mất chốt cực đoan) và trượt giá thấp hơn so với AMM thông thường chỉ sử dụng công thức tích hằng số.
 
-When you conduct a Swap (trade) on the StableSwap you will pay lower trading fees, than the usual 0.25% on normal PancakeSwap AMM. The fee attribution is broken down as follows:
+Khi bạn thực hiện Hoán đổi (giao dịch) trên StableSwap, bạn sẽ trả phí giao dịch thấp hơn so với mức phí 0.25% thông thường trên PancakeSwap AMM thông thường. Phân bổ phí như sau:
 
-* 50% to the LP as rewards&#x20;
-* 40% to CAKE buyback and burn&#x20;
-* 10% to the PancakeSwap Treasury
+* 50% cho LP làm phần thưởng&#x20;
+* 40% để mua lại và đốt CAKE&#x20;
+* 10% cho Kho Bạc PancakeSwap
 
-## Stableswap Fees
+## Phí StableSwap
 
-Fees for pairs are broken down in the table below:
+Phí cho các cặp được phân tích trong bảng dưới đây:
 
-<table><thead><tr><th width="150">Stablepair</th><th width="132">Trading Fees</th><th width="118.33333333333331">LP Rewards</th><th width="124">CAKE Buyback</th><th>PancakeSwap Treasury</th></tr></thead><tbody><tr><td>USDT-BUSD</td><td>0.01%</td><td>0.005%</td><td>0.004%</td><td>0.001%</td></tr><tr><td>USDC-BUSD</td><td>0.01%</td><td>0.005%</td><td>0.004%</td><td>0.001%</td></tr><tr><td>USDC-USDT</td><td>0.01%</td><td>0.005%</td><td>0.004%</td><td>0.001%</td></tr><tr><td>HAY-BUSD</td><td>0.04%</td><td>0.02%</td><td>0.016%</td><td>0.004%</td></tr><tr><td>HAY-USDT</td><td>0.04%</td><td>0.02%</td><td>0.016%</td><td>0.004%</td></tr><tr><td>axlUSDC-USDT</td><td>0.04%</td><td>0.02%</td><td>0.016%</td><td>0.004%</td></tr><tr><td>BNBx-WBNB</td><td>0.04%</td><td>0.02%</td><td>0.016%</td><td>0.004%</td></tr><tr><td>stkBNB-WBNB</td><td>0.04%</td><td>0.02%</td><td>0.016%</td><td>0.004%</td></tr></tbody></table>
+<table><thead><tr><th width="150">Cặp ổn định</th><th width="132">Phí Giao Dịch</th><th width="118.33333333333331">Phần Thưởng LP</th><th width="124">Mua lại CAKE</th><th>Kho Bạc PancakeSwap</th></tr></thead><tbody><tr><td>USDT-BUSD</td><td>0.01%</td><td>0.005%</td><td>0.004%</td><td>0.001%</td></tr><tr><td>USDC-BUSD</td><td>0.01%</td><td>0.005%</td><td>0.004%</td><td>0.001%</td></tr><tr><td>USDC-USDT</td><td>0.01%</td><td>0.005%</td><td>0.004%</td><td>0.001%</td></tr><tr><td>HAY-BUSD</td><td>0.04%</td><td>0.02%</td><td>0.016%</td><td>0.004%</td></tr><tr><td>HAY-USDT</td><td>0.04%</td><td>0.02%</td><td>0.016%</td><td>0.004%</td></tr><tr><td>axlUSDC-USDT</td><td>0.04%</td><td>0.02%</td><td>0.016%</td><td>0.004%</td></tr><tr><td>BNBx-WBNB</td><td>0.04%</td><td>0.02%</td><td>0.016%</td><td>0.004%</td></tr><tr><td>stkBNB-WBNB</td><td>0.04%</td><td>0.02%</td><td>0.016%</td><td>0.004%</td></tr></tbody></table>
 
-The Kitchen will gradually roll out StableSwap pairs and revise the fees to test and improve the product further.
+Nhà bếp sẽ dần dần triển khai các cặp StableSwap và điều chỉnh phí để kiểm tra và cải thiện sản phẩm hơn nữa.
 
-## Why should I use the StableSwap instead of the normal AMM Swap?
+## Tại sao tôi nên sử dụng StableSwap thay vì AMM Swap thông thường?
 
-* Swap your stablecoins or other pairs with similar asset prices more efficiently with the same trade steps&#x20;
-* With the StableSwap function, the trading slippage is lower than normal AMM&#x20;
-* The StableSwap trading fees are lower compared to the normal AMM
+* Hoán đổi các stablecoin hoặc các cặp khác có giá tài sản tương đương một cách hiệu quả hơn với các bước giao dịch tương tự&#x20;
+* Với chức năng StableSwap, trượt giá giao dịch thấp hơn so với AMM thông thường&#x20;
+* Phí giao dịch StableSwap thấp hơn so với AMM thông thường

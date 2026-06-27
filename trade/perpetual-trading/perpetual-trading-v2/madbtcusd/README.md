@@ -1,24 +1,24 @@
 ---
-description: Higher Volatility BTC Trading
+description: Giao Dịch BTC Biến Động Cao Hơn
 hidden: true
 ---
 
 # MADBTCUSD
 
-**1. What is MADBTCUSD Index?**
+**1. Chỉ Số MADBTCUSD là gì?**
 
-The MADBTCUSD Index is an algorithmically generated price index that encapsulates the dynamic movements of BTC but with an added twist – it exhibits significantly higher volatility. This index is derived using the Geometric Brownian Motion (GBM) derivatives pricing methodology, a mathematical model commonly used in the world of finance to simulate the unpredictable nature of assets.
+Chỉ Số MADBTCUSD là một chỉ số giá được tạo ra bằng thuật toán để bao gồm các biến động năng động của BTC nhưng với một yếu tố thêm — nó thể hiện độ biến động cao hơn đáng kể. Chỉ số này được tính toán bằng cách sử dụng phương pháp định giá phái sinh Chuyển Động Brown Hình Học (GBM), một mô hình toán học thường được sử dụng trong thế giới tài chính để mô phỏng tính khó đoán của tài sản.
 
-**2. How Does It Work?**
+**2. Cơ chế Hoạt Động?**
 
-The MADBTCUSD Index is primarily based on the price of Bitcoin. It mirrors the general ups and downs of BTCUSD, but it does so at an amplified rate (expected volatility of 100%), resulting in an index with significantly more pronounced price swings. To maintain transparency and fairness, the MADBTC price can be cross-verified through the BTC price and MADBTC historical price data ([here](madbtcusd-faq.md)). This ensures that the index accurately reflects the movements in the underlying BTC market.
+Chỉ Số MADBTCUSD chủ yếu dựa trên giá Bitcoin. Nó phản ánh các biến động lên xuống chung của BTCUSD, nhưng thực hiện với tốc độ khuếch đại (độ biến động kỳ vọng 100%), dẫn đến chỉ số có các biến động giá mạnh hơn đáng kể. Để duy trì tính minh bạch và công bằng, giá MADBTC có thể được xác minh chéo thông qua dữ liệu lịch sử giá BTC và MADBTC ([tại đây](madbtcusd-faq.md)). Điều này đảm bảo rằng chỉ số phản ánh chính xác các biến động trên thị trường BTC cơ sở.
 
-One key feature that sets MADBTCUSD apart from traditional cryptocurrencies is the element of randomness. The price of the MADBTCUSD contract is algorithmically generated using a combination of the corresponding contract's data and a random number. There is no impact of buyers and sellers on price of the MADBTCUSD index.
+Một tính năng chính đặc biệt phân biệt MADBTCUSD với các loại tiền điện tử truyền thống là yếu tố ngẫu nhiên. Giá của hợp đồng MADBTCUSD được tạo ra bằng thuật toán sử dụng kết hợp dữ liệu hợp đồng tương ứng và một số ngẫu nhiên. Không có tác động của người mua và người bán đối với giá của chỉ số MADBTCUSD.
 
-**3. Market Availability:**
+**3. Tính Khả Dụng trên Thị Trường:**
 
-Currently, MADBTCUSD Index is available in Classic Mode on BNB Chain, alongside other major markets like BTCUSD, and ETHUSD. The contract offers additional benefits such as zero position open fee, PnL based position close fee and up to 250x leverage.
+Hiện tại, Chỉ Số MADBTCUSD có sẵn trong Classic Mode trên BNB Chain, cùng với các thị trường lớn khác như BTCUSD và ETHUSD. Hợp đồng cung cấp thêm lợi ích như phí mở vị thế bằng không, phí đóng vị thế dựa trên PnL và đòn bẩy lên đến 250x.
 
-If you're intrigued by the concept of MADBTCUSD and want to explore the intricacies of this contract further, here’s a dedicated [FAQ](madbtcusd-faq.md) page to provide you with a comprehensive methodology.
+Nếu bạn bị hấp dẫn bởi khái niệm MADBTCUSD và muốn khám phá sâu hơn về hợp đồng này, đây là trang [FAQ](madbtcusd-faq.md) dành riêng để cung cấp cho bạn phương pháp luận toàn diện.
 
-_**It's important to note that due to its extreme volatility, MADBTCUSD may not be suitable for all traders, so it's essential to conduct your research and fully understand the risks involved before participating**_
+_**Điều quan trọng cần lưu ý là do độ biến động cực cao, MADBTCUSD có thể không phù hợp với tất cả các nhà giao dịch, vì vậy điều cần thiết là phải nghiên cứu và hiểu đầy đủ các rủi ro liên quan trước khi tham gia**_

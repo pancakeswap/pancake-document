@@ -1,37 +1,37 @@
-# How to use TWAP
+# Cách Sử Dụng TWAP
 
-## What is TWAP?
+## TWAP là gì?
 
-TWAP (Time-weighted Average Price) is a common order type used in CeFi that breaks an order into smaller trade sizes and executes them at regular intervals. The main goal of a TWAP order is to reduce the order’s price impact. It can also be useful if a user wants to implement a dollar-cost averaging strategy (DCA) and buy a certain token on a consistent schedule (i.e. once a month).
+TWAP (Time-weighted Average Price - Giá bình quân theo thời gian) là loại lệnh phổ biến trong CeFi giúp chia nhỏ lệnh thành các giao dịch nhỏ hơn và thực hiện chúng theo các khoảng thời gian đều đặn. Mục tiêu chính của lệnh TWAP là giảm tác động giá của lệnh. Nó cũng hữu ích nếu bạn muốn thực hiện chiến lược trung bình hóa chi phí đô la (DCA) và mua một token nhất định theo lịch trình đều đặn (ví dụ: mỗi tháng một lần).
 
-Therefore, TWAP is best used when the order size is large compared to the available liquidity, or when a user anticipates a high price volatility period with no clear up or downward trend.
+Do đó, TWAP phù hợp nhất khi kích thước lệnh lớn so với thanh khoản hiện có, hoặc khi bạn dự đoán một giai đoạn biến động giá cao mà không có xu hướng tăng hay giảm rõ ràng.
 
-## How to set up a TWAP order?
+## Cách đặt lệnh TWAP?
 
-1. Go to the Swap page and select the TWAP order option by clicking TWAP
-2. Select the “From” and “To” tokens and enter the amount you wish to trade.
-3. The UI enables both dTWAP-market orders, which execute all trades at the available market price, and dTWAP-limit orders, which only execute individual trades if they are within the price limit set by the user. \
-   In this example we chose to execute the TWAP orders at market price.
-4. Next, we specify the TWAP parameters. There are 3 main parameters that control the effectiveness of the dTWAP order:
-   1. Total trades: Allows the user to specify the number of individual trades that their order will be broken into. The UI slider starts with 1 trade and allows the user to increase the amount of individual trades, or allows the user to manually input the total trades in the input field directly.\
-      Users should note that there is a certain tradeoff when specifying this parameter: more trades means smaller individual trade size, which means smaller price impact. However, more trades also means more transactions and higher overall gas fees.&#x20;
-   2. Trade Interval: Sets the time gap between each individual trade. The UI starts with the minimum allowed (2 mins), which leaves the minimum amount of time for the taker bidding war and block settlement between each chunk. The user can set it to be any duration desired. A trade will never execute before this time elapses after the previous trade.\
-      Again users should be mindful when setting this parameter: longer intervals would allow arbitrageurs a longer window to close any price discrepancies on the affected pools and bring the reserves back to equilibrium (on par with spot price). However, it would take longer for the order to be filled would add uncertainty to the final fill price, especially in times of heightened volatility
-   3. Max Duration: The maximum time during which the total amount of all individual trades making up the full dTWAP order may be executed. After this deadline the trade expires, regardless of actual amounts swapped.\
-      Note that all chunks may not execute in limit orders, depending on whether the price stays within the set parameters. \
-      The default recommended duration is calculated by multiplying the number of intervals by the trade interval, and then doubling this amount in order to serve as a buffer to allow sufficient time for on-chain activity. (note that setting a duration that is shorter than the above default may result in a partially filled order).
+1. Đến trang Swap và chọn tùy chọn lệnh TWAP bằng cách nhấp vào TWAP
+2. Chọn token "Từ" và "Đến" rồi nhập số lượng bạn muốn giao dịch.
+3. Giao diện cho phép cả lệnh dTWAP theo thị trường, thực hiện tất cả giao dịch ở giá thị trường hiện có, và lệnh dTWAP giới hạn, chỉ thực hiện từng giao dịch riêng lẻ nếu chúng nằm trong giới hạn giá do người dùng đặt. \
+   Trong ví dụ này, chúng tôi chọn thực hiện các lệnh TWAP theo giá thị trường.
+4. Tiếp theo, chúng tôi chỉ định các thông số TWAP. Có 3 thông số chính kiểm soát hiệu quả của lệnh dTWAP:
+   1. Tổng giao dịch: Cho phép bạn chỉ định số lượng giao dịch riêng lẻ mà lệnh sẽ được chia thành. Thanh trượt trong giao diện bắt đầu với 1 giao dịch và cho phép bạn tăng số lượng giao dịch riêng lẻ, hoặc cho phép bạn nhập trực tiếp tổng số giao dịch vào trường nhập liệu.\
+      Bạn nên lưu ý rằng có sự đánh đổi nhất định khi chỉ định thông số này: nhiều giao dịch hơn có nghĩa là kích thước giao dịch riêng lẻ nhỏ hơn, đồng nghĩa với tác động giá nhỏ hơn. Tuy nhiên, nhiều giao dịch hơn cũng có nghĩa là nhiều giao dịch hơn và phí gas tổng thể cao hơn.&#x20;
+   2. Khoảng Thời Gian Giao Dịch: Đặt khoảng thời gian giữa mỗi giao dịch riêng lẻ. Giao diện bắt đầu với mức tối thiểu được phép (2 phút), để lại thời gian tối thiểu cho cuộc đấu thầu taker và quyết toán khối giữa mỗi phần. Bạn có thể đặt thời gian bất kỳ mong muốn. Một giao dịch sẽ không bao giờ thực hiện trước khi thời gian này trôi qua sau giao dịch trước.\
+      Bạn cũng nên lưu ý khi đặt thông số này: khoảng thời gian dài hơn sẽ cho phép các nhà kinh doanh chênh lệch giá có cửa sổ dài hơn để đóng bất kỳ sự chênh lệch giá nào trên các pool bị ảnh hưởng và đưa dự trữ trở lại cân bằng (ngang bằng với giá giao ngay). Tuy nhiên, sẽ mất nhiều thời gian hơn để lệnh được khớp và sẽ tạo thêm sự không chắc chắn về giá khớp cuối cùng, đặc biệt trong thời điểm biến động tăng cao
+   3. Thời Gian Tối Đa: Thời gian tối đa trong đó tổng số tất cả các giao dịch riêng lẻ cấu thành toàn bộ lệnh dTWAP có thể được thực thi. Sau thời hạn này, giao dịch hết hạn, bất kể số lượng thực tế đã hoán đổi.\
+      Lưu ý rằng trong lệnh giới hạn, không phải tất cả các phần đều có thể được thực thi, tùy thuộc vào việc giá có nằm trong các thông số đã đặt hay không. \
+      Thời hạn đề xuất mặc định được tính bằng cách nhân số lượng khoảng thời gian với khoảng thời gian giao dịch, sau đó nhân đôi số lượng này để làm bộ đệm cho phép đủ thời gian cho hoạt động trên chuỗi. (Lưu ý rằng việc đặt thời hạn ngắn hơn mức mặc định này có thể dẫn đến lệnh chỉ được khớp một phần).
 
-As can be seen, these parameters provide significant flexibility in customizing each order, taking into account factors like market conditions, current gas fees, etc.
+Như có thể thấy, các thông số này cung cấp sự linh hoạt đáng kể trong việc tùy chỉnh từng lệnh, tính đến các yếu tố như điều kiện thị trường, phí gas hiện tại, v.v.
 
-8. Press “Place order”. Double check your order details, accept the disclaimer and press “Confirm order”.
-9. Once the transaction is processed, you will be able to see your order’s status in the order history section, under “Open orders”.
-10. Open orders can be canceled at any time by expanding the order and clicking the “Cancel Order” button.
+8. Nhấn "Place order". Kiểm tra lại chi tiết lệnh, chấp nhận tuyên bố từ chối trách nhiệm và nhấn "Confirm order".
+9. Sau khi giao dịch được xử lý, bạn sẽ có thể xem trạng thái lệnh trong phần lịch sử lệnh, dưới "Open orders".
+10. Các lệnh đang mở có thể được hủy bất cứ lúc nào bằng cách mở rộng lệnh và nhấp vào nút "Cancel Order".
 
-Things to take into consideration
+Những điều cần xem xét
 
-* Orders are executed in smaller trades over a specified period of time and are subject to market conditions and other risks.
-* Your trade may be executed at a price that is significantly different from the current market price (although not worse than your limit price, if you set one), which could result in significant losses. If the available market price is worse than the limit price you have set, some of the trades of your order may not be executed, resulting in a partially filled order.
-* The trades are based on a decentralized protocol that utilizes off-chain takers which compete to fill orders. These takers are entitled to request a fee, which the protocol removes for the winning taker from the output tokens.&#x20;
-* Takers may take into account gas fees for your transactions when setting their fees, which may result in fluctuations in the fee amounts.
+* Các lệnh được thực hiện trong các giao dịch nhỏ hơn trong một khoảng thời gian cụ thể và phụ thuộc vào điều kiện thị trường cùng các rủi ro khác.
+* Giao dịch của bạn có thể được thực hiện ở mức giá khác đáng kể so với giá thị trường hiện tại (mặc dù không tệ hơn giá giới hạn của bạn, nếu bạn đã đặt một mức), điều này có thể dẫn đến tổn thất đáng kể. Nếu giá thị trường hiện có kém hơn giá giới hạn bạn đã đặt, một số giao dịch trong lệnh của bạn có thể không được thực thi, dẫn đến lệnh chỉ được khớp một phần.
+* Các giao dịch dựa trên một giao thức phi tập trung sử dụng các taker ngoài chuỗi cạnh tranh để khớp lệnh. Các taker này có quyền yêu cầu phí, giao thức sẽ trừ phí cho taker thắng từ token đầu ra.&#x20;
+* Các taker có thể tính đến phí gas cho giao dịch của bạn khi đặt phí của họ, điều này có thể dẫn đến biến động trong số tiền phí.
 
 <br>

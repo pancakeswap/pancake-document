@@ -1,63 +1,63 @@
-# ALP Buying & Selling Fees
+# Phí Mua & Bán ALP
 
-## Buying fee:
+## Phí mua:
 
-Basic Rate Parameter 1: FeeBasisPoints，USDT is currently set at 0.25%
+Thông Số Cơ Bản 1: FeeBasisPoints, USDT hiện đang được đặt ở mức 0.25%
 
-Basic Rate Parameter 2: TaxBasisPoints，USDT is currently set at 0.05%
+Thông Số Cơ Bản 2: TaxBasisPoints, USDT hiện đang được đặt ở mức 0.05%
 
-The current asset value: InitialValue=AssetValueInPool+AssetUnrealizedpnl\_usd
+Giá trị tài sản hiện tại: InitialValue=AssetValueInPool+AssetUnrealizedpnl\_usd
 
-The current asset value after minting: AfterMinValue=InitialValue+MinValue
+Giá trị tài sản hiện tại sau khi đúc: AfterMinValue=InitialValue+MinValue
 
-Calculate the Asset value according to the target weight: TargetValue=(Total Value\_usd+totalUnrealizedpnl\_Usd)\*Target weight，Total Value=sum(InitialValue)
+Tính giá trị tài sản theo trọng số mục tiêu: TargetValue=(Total Value\_usd+totalUnrealizedpnl\_Usd)\*Target weight，Total Value=sum(InitialValue)
 
 
 
-The current Asset value and the target value (absolute value): InitialDiff=InitialValue-TargetValue
+Giá trị tài sản hiện tại và giá trị mục tiêu (giá trị tuyệt đối): InitialDiff=InitialValue-TargetValue
 
-After Minting, the asset value and target mechanism (absolute value): AfterDiff=AfterMintValue-TargetValue
+Sau khi đúc, giá trị tài sản và cơ chế mục tiêu (giá trị tuyệt đối): AfterDiff=AfterMintValue-TargetValue
 
-* if AfterDiff\<InitialDiffValue&#x20;
+* nếu AfterDiff\<InitialDiffValue&#x20;
 
 MintFee=Max(FeeBasisPoints-TaxBasisPoints\*InitialDiff/TargetValue，0)
 
-* if AfterDiff>=InitialDiff&#x20;
+* nếu AfterDiff>=InitialDiff&#x20;
 
 MintFee=FeeBasisPoints+TaxBasisPoints\*Min((InitialDiff+AfterDiff)/2,TargetValue)/TargetValue
 
-## Selling fee:
+## Phí bán:
 
-Basic Rate Parameter 1: FeeBasisPoints，USDT is currently set at 0.25%
+Thông Số Cơ Bản 1: FeeBasisPoints, USDT hiện đang được đặt ở mức 0.25%
 
-Max Base Rate Parameter 2: TaxBasisPoints，USDT is currently set at 0.05%
+Thông Số Tỷ Lệ Cơ Bản Tối Đa 2: TaxBasisPoints, USDT hiện đang được đặt ở mức 0.05%
 
-The current asset value: InitialValue=AssetValueInPool+AssetUnreliazedpnl\_usd
+Giá trị tài sản hiện tại: InitialValue=AssetValueInPool+AssetUnreliazedpnl\_usd
 
-The current asset value after Burn: AfterMaxValue=InitialValue-MinValue
+Giá trị tài sản hiện tại sau khi Đốt: AfterMaxValue=InitialValue-MinValue
 
-Calculating the Asset value according to the target weight: TargetValue=Total Value\*Target weight
-
-
-
-The current asset value and target value (absolute value): InitialDiff=InitialValue-TargetValue
+Tính giá trị tài sản theo trọng số mục tiêu: TargetValue=Total Value\*Target weight
 
 
 
-After Burn, the asset value and target mechanism (absolute value): AfterMaxDiff=AfterBurnValue-TargetValue
+Giá trị tài sản hiện tại và giá trị mục tiêu (giá trị tuyệt đối): InitialDiff=InitialValue-TargetValue
 
-* if AfterDiff\<InitialDiffValue
+
+
+Sau khi Đốt, giá trị tài sản và cơ chế mục tiêu (giá trị tuyệt đối): AfterMaxDiff=AfterBurnValue-TargetValue
+
+* nếu AfterDiff\<InitialDiffValue
 
 BurnFee=Max(FeeBasisPoints-MTaxBasisPoints\*InitialDiff/TargetValue，0)
 
-* if AfterDiff>=InitialDiff&#x20;
+* nếu AfterDiff>=InitialDiff&#x20;
 
 BurnFee=FeeBasisPoints+TaxBasisPoints\*Min((InitialDiff+AfterDiff)/2,TargetValue)/TargetValue<br>
 
-For example:
+Ví dụ:
 
-If the value of the ALP pool is $10,000,000, the unrealized PnL is $+10,000, the value of BTC in the liquidity pool is $1,000;
+Nếu giá trị pool ALP là $10.000.000, PnL chưa thực hiện là $+10.000, giá trị BTC trong pool thanh khoản là $1.000;
 
-The BTC target weight is 2%, and the current weight is 0.01%. The base rate parameter 1 of BTC is 0.25%, and the base rate parameter 2 is 0.45%.
+Trọng số mục tiêu BTC là 2%, và trọng số hiện tại là 0.01%. Thông số tỷ lệ cơ bản 1 của BTC là 0.25%, và thông số tỷ lệ cơ bản 2 là 0.45%.
 
-According to the calculation, the rate of buying ALP with 1 BTC at this time is 0% = 0 BTC. The transaction fee for selling ALP to get 1 BTC is 0.7% = 0.007BTC.
+Theo tính toán, tỷ lệ mua ALP bằng 1 BTC tại thời điểm này là 0% = 0 BTC. Phí giao dịch để bán ALP để nhận 1 BTC là 0.7% = 0.007BTC.

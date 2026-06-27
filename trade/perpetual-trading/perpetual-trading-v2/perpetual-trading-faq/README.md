@@ -1,21 +1,21 @@
-# Perpetual Trading FAQ
+# FAQ Giao Dịch Hợp Đồng Vĩnh Viễn
 
-### What is the value contribution of this new feature to the cake holders?
+### Giá trị đóng góp của tính năng mới này cho người nắm giữ CAKE là gì?
 
-We expect this new feature to bring in a lot of new users, traders and volume. We want to ensure the value goes back to our CAKE token on top of offering the trading fee discount. A portion of all opening and closing fees from users who sign up on PancakeSwap will be converted to CAKE and burnt.&#x20;
+Chúng tôi kỳ vọng tính năng mới này sẽ thu hút nhiều người dùng, nhà giao dịch và khối lượng giao dịch mới. Chúng tôi muốn đảm bảo giá trị được trả về token CAKE của chúng tôi ngoài việc cung cấp mức giảm phí giao dịch. Một phần phí mở và đóng vị thế từ người dùng đăng ký trên PancakeSwap sẽ được chuyển đổi thành CAKE và đốt.&#x20;
 
-**And the rest of it?**
+**Phần còn lại thì sao?**
 
-The rest are currently reserved for the treasury for ongoing expansion and development of this feature. As the feature matures, we expect to increase the burn portion gradually based on community feedback and governance. Moving forward, we'll look to reward CAKE holders with the increasing adoption of Perpetual Trading V2.
+Phần còn lại hiện đang được dự trữ cho kho bạc để mở rộng và phát triển liên tục của tính năng này. Khi tính năng trưởng thành, chúng tôi kỳ vọng tăng dần phần đốt dựa trên phản hồi cộng đồng và quản trị. Trong tương lai, chúng tôi sẽ tìm cách thưởng cho người nắm giữ CAKE với sự tăng trưởng áp dụng Giao Dịch Hợp Đồng Vĩnh Viễn V2.
 
-### How does Aster determine which user is from PancakeSwap and which user is from their own website?
+### Aster xác định người dùng nào đến từ PancakeSwap và người dùng nào từ trang web của riêng họ như thế nào?
 
-This is based on the platform where users trade. If users open and close trades on [https://perp.pancakeswap.finance/](https://perp.pancakeswap.finance/), they will be considered PancakeSwap user.
+Điều này dựa trên nền tảng nơi người dùng giao dịch. Nếu người dùng mở và đóng giao dịch trên [https://perp.pancakeswap.finance/](https://perp.pancakeswap.finance/), họ sẽ được coi là người dùng PancakeSwap.
 
-### Fees
+### Phí
 
-Fees for PancakeSwap Perpetuals on different chains are as follows:
+Phí cho PancakeSwap Perpetuals trên các chuỗi khác nhau như sau:
 
-<table><thead><tr><th width="201.33333333333331">Mode</th><th width="248">BSC, opBNB, Base</th><th>Arbitrum</th></tr></thead><tbody><tr><td>Perpetuals V2 opening position fee</td><td>0.08%</td><td>0.05%</td></tr><tr><td>Perpetuals V2 closing position fee</td><td>0.08%</td><td>0.05%</td></tr><tr><td>Perpetuals V2 FX fee</td><td>0.02%</td><td>0.02%</td></tr><tr><td><a href="../degen-mode/">Degen Mode</a></td><td>Minimum 0.03%</td><td>Minimum 0.03%</td></tr><tr><td><a href="../dumb-mode/">Dumb Mode</a></td><td>6% collateral on wins</td><td>6% collateral on wins</td></tr></tbody></table>
+<table><thead><tr><th width="201.33333333333331">Chế Độ</th><th width="248">BSC, opBNB, Base</th><th>Arbitrum</th></tr></thead><tbody><tr><td>Phí mở vị thế Perpetuals V2</td><td>0.08%</td><td>0.05%</td></tr><tr><td>Phí đóng vị thế Perpetuals V2</td><td>0.08%</td><td>0.05%</td></tr><tr><td>Phí FX Perpetuals V2</td><td>0.02%</td><td>0.02%</td></tr><tr><td><a href="../degen-mode/">Degen Mode</a></td><td>Tối thiểu 0.03%</td><td>Tối thiểu 0.03%</td></tr><tr><td><a href="../dumb-mode/">Dumb Mode</a></td><td>6% tài sản thế chấp khi thắng</td><td>6% tài sản thế chấp khi thắng</td></tr></tbody></table>
 
-All trades are subject to an execution fee of 0.5 USD (BNB Chain)/ 0.2 USD (Arbitrum)/ 0.01 USD (opBNB)/ 0.3 USD (Base) when a position is opened.
+Tất cả giao dịch phải chịu phí thực thi là 0.5 USD (BNB Chain)/ 0.2 USD (Arbitrum)/ 0.01 USD (opBNB)/ 0.3 USD (Base) khi mở vị thế.

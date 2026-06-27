@@ -1,34 +1,34 @@
 # ALP Syrup Pool (Arbitrum)
 
-ALP is a token that powers liquidity on PancakeSwap Perpertuals V2. Users mint/buy ALP using collateral tokens such as USDC, USDT, DAI, ETH and BTC. These tokens supply liquidity to the PancakeSwap Perpetuals trade engine powered by ApolloX. ALP tokens **cannot be transferred between wallets** and can only be **minted/sold through ALP contract and staked in ALP pool**.
+ALP là token cung cấp thanh khoản trên PancakeSwap Perpetuals V2. Người dùng đúc/mua ALP bằng các token tài sản thế chấp như USDC, USDT, DAI, ETH và BTC. Các token này cung cấp thanh khoản cho engine giao dịch PancakeSwap Perpetuals được hỗ trợ bởi ApolloX. Token ALP **không thể chuyển giữa các ví** và chỉ có thể được **đúc/bán thông qua hợp đồng ALP và staked trong pool ALP**.
 
-### Step-By-Step Guide
+### Hướng Dẫn Từng Bước
 
-#### Buying/Minting ALP
+#### Mua/Đúc ALP
 
-1. Click to access the [PancakeSwap ALP Pool (V2)](https://perp.pancakeswap.finance/en/ALP) page and connect your wallet
-2. After connecting your wallet, click **Buy ALP**. You can use any ALP pool asset to buy ALP.
-3. After confirming the information, click **Buy ALP** to complete the transaction.
+1. Nhấp để truy cập trang [PancakeSwap ALP Pool (V2)](https://perp.pancakeswap.finance/en/ALP) và kết nối ví của bạn
+2. Sau khi kết nối ví, nhấp **Buy ALP**. Bạn có thể sử dụng bất kỳ tài sản pool ALP nào để mua ALP.
+3. Sau khi xác nhận thông tin, nhấp **Buy ALP** để hoàn tất giao dịch.
 
-<figure><img src="../../../../../../.gitbook/assets/Buy ALP Module.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Buy%20ALP%20Module.png" alt=""><figcaption></figcaption></figure>
 
 **Staking ALP (Arbitrum)**
 
-1. Click **Stake Now** on the Pancake ALP Dashboard Page, or click [here](https://pancakeswap.finance/pools?chain=arb)
+1. Nhấp **Stake Now** trên Trang Dashboard ALP của Pancake, hoặc nhấp [tại đây](https://pancakeswap.finance/pools?chain=arb)
 
-<figure><img src="../../../../../../.gitbook/assets/png (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/png%20%284%29.png" alt=""><figcaption></figcaption></figure>
 
-2. Select the CAKE-ALP syrup pool
-3. **Enable** ALP and click **Stake**
-4. Select amount of ALP to stake and click **confirm**
+2. Chọn pool CAKE-ALP syrup
+3. **Enable** ALP và nhấp **Stake**
+4. Chọn số lượng ALP để stake và nhấp **confirm**
 
-**Selling ALP**
+**Bán ALP**
 
-1. &#x20;Click to access the ALP Pool (V2) page and connect your wallet
-2. After connecting your wallet, click on **Sell ALP**.
+1. &#x20;Nhấp để truy cập trang ALP Pool (V2) và kết nối ví của bạn
+2. Sau khi kết nối ví, nhấp **Sell ALP**.
 
-Selling ALP Conditions:
+Điều Kiện Bán ALP:
 
-* &#x20;User may sell ALP 48 hours from the time of buying
-* &#x20;Amount of ALP tokens that can be sold: min\[(Value of the liquidity pool - Value of user’s positions)\*50%]/ALP Market Price. For instance, the value of the liquidity pool is 10,000,000 USDT, the value of the user's position is 5,000,000 USDT and ALP Market Price is 2 USDT, the maximum amount the ALP user can sell is 1,250,000.&#x20;
-* At the same time, the amount of assets that users receive after selling their ALP tokens cannot exceed the ALP liquidity pool. For instance, if the liquidity pool only has 1000 USDT, the maximum amount of USDT users receive will be 1000 USDT and the remaining ALPs can be sold for other cryptocurrencies.
+* &#x20;Người dùng có thể bán ALP sau 48 giờ kể từ thời điểm mua
+* &#x20;Số lượng token ALP có thể bán: min\[(Giá trị pool thanh khoản - Giá trị vị thế người dùng)\*50%]/Giá Thị Trường ALP. Ví dụ, giá trị pool thanh khoản là 10.000.000 USDT, giá trị vị thế người dùng là 5.000.000 USDT và Giá Thị Trường ALP là 2 USDT, số lượng tối đa người dùng ALP có thể bán là 1.250.000.&#x20;
+* Đồng thời, số lượng tài sản người dùng nhận sau khi bán token ALP không thể vượt quá pool thanh khoản ALP. Ví dụ, nếu pool thanh khoản chỉ có 1000 USDT, số lượng USDT tối đa người dùng nhận sẽ là 1000 USDT và các ALP còn lại có thể bán để lấy các loại tiền điện tử khác.

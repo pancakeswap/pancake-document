@@ -4,22 +4,22 @@ hidden: true
 
 # Arbitrum
 
-### What are the fees for PancakeSwap Perpetuals V2 on Arbitrum?
+### Phí cho PancakeSwap Perpetuals V2 trên Arbitrum là bao nhiêu?
 
-For our launch on Arbitrum, fees will be **0.05% on opening and closing trades**. 50% of the fees collected will be shared with the ALP pool for providing liquidity. Other fees include execution, liquidation and funding fees. More information on fees can be found [here](https://blog.pancakeswap.finance/articles/ep-6-4-pancake-swap-perpetuals-v2-fee-structure-a-comprehensive-overview).
+Khi ra mắt trên Arbitrum, phí sẽ là **0.05% cho mở và đóng giao dịch**. 50% phí thu được sẽ được chia sẻ với pool ALP để cung cấp thanh khoản. Các phí khác bao gồm phí thực thi, thanh lý và funding. Thêm thông tin về phí có thể tìm thấy [tại đây](https://blog.pancakeswap.finance/articles/ep-6-4-pancake-swap-perpetuals-v2-fee-structure-a-comprehensive-overview).
 
-### What is ALP?
+### ALP là gì?
 
-Perpetuals v2 on Arbitrum features a separate liquidity pool, the ALP Pool, powered by the Aster platform's liquidity provider token, $ALP. Comprising assets such as USDC, USDT, DAI, ETH, and BTC, the ALP Pool allows users to become a liquidity provider and earn significant yield by minting $ALP with any of the aforementioned assets. A remarkable 50% of the total platform fee revenues are distributed to ALP liquidity providers, encompassing various components like opening/closing position fees, execution fees, funding fees, and liquidation fees. A guide to staking ALP can be found [here.](alp-syrup-pool-arbitrum/)
+Perpetuals v2 trên Arbitrum có một pool thanh khoản riêng, Pool ALP, được hỗ trợ bởi token nhà cung cấp thanh khoản $ALP của nền tảng Aster. Bao gồm các tài sản như USDC, USDT, DAI, ETH và BTC, Pool ALP cho phép người dùng trở thành nhà cung cấp thanh khoản và kiếm lợi nhuận đáng kể bằng cách đúc $ALP với bất kỳ tài sản nào đã đề cập. Đáng chú ý là 50% tổng doanh thu phí nền tảng được phân phối cho các nhà cung cấp thanh khoản ALP, bao gồm các thành phần như phí mở/đóng vị thế, phí thực thi, phí funding và phí thanh lý. Hướng dẫn về staking ALP có thể tìm thấy [tại đây.](alp-syrup-pool-arbitrum/)
 
-### What is the ALP Syrup Pool?
+### ALP Syrup Pool là gì?
 
-The new Aster ($ALP) Syrup Pool on Arbitrum allows users to earn a boosted yield. Users can stake $ALP tokens to earn rewards in $CAKE tokens with over 20% APY at launch. ALP syrup pool on PancakeSwap . For more details on the syrup pool, including emissions and start and end dates, please refer to the proposal [here](https://pancakeswap.finance/voting/proposal/0x52455da15b4f1ff4d324c1e7645163d6b78b2221a98a4782bff16b27de409ce9).
+ALP Syrup Pool mới của Aster ($ALP) trên Arbitrum cho phép người dùng kiếm lợi nhuận tăng cường. Người dùng có thể stake token $ALP để kiếm phần thưởng bằng token $CAKE với APY trên 20% khi ra mắt. ALP syrup pool trên PancakeSwap. Để biết thêm chi tiết về syrup pool, bao gồm emissions và ngày bắt đầu và kết thúc, vui lòng tham khảo đề xuất [tại đây](https://pancakeswap.finance/voting/proposal/0x52455da15b4f1ff4d324c1e7645163d6b78b2221a98a4782bff16b27de409ce9).
 
-### What are the available tokens for Arbitrum?
+### Các token khả dụng cho Arbitrum là gì?
 
-Supported trading pairs on Arbitrum One are ARBUSD, XRPUSD, DOGEUSD, ETHUSD and BTCUSD. For Degen mode, ETHUSD and BTCUSD are supported. We will look to roll out more pairs in the coming weeks.
+Các cặp giao dịch được hỗ trợ trên Arbitrum One là ARBUSD, XRPUSD, DOGEUSD, ETHUSD và BTCUSD. Đối với Degen mode, ETHUSD và BTCUSD được hỗ trợ. Chúng tôi sẽ tìm cách triển khai thêm các cặp trong những tuần tới.
 
-### I topped up my wallet with USDC on Arbitrum; why can't I see it?
+### Tôi đã nạp ví bằng USDC trên Arbitrum; tại sao tôi không thể thấy nó?
 
-It is most likely that you've topped up native USDC on Aribtrum ([0xaf88d065e77c8cC2239327C5EDb3A432268e5831](https://arbiscan.io/token/0xaf88d065e77c8cC2239327C5EDb3A432268e5831)). However, PancakeSwap Perpetuals supports Bridged USDC, USDC.e ([0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8](https://arbiscan.io/token/0xff970a61a04b1ca14834a43f5de4533ebddb5cc8)) as it has higher liquidity. You can swap USDC to USDC.e seamlessly [here](https://pancakeswap.finance/swap?chain=arb\&outputCurrency=0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8\&inputCurrency=0xaf88d065e77c8cC2239327C5EDb3A432268e5831). For more information on the difference between USDC and USDC.e, please refer to the [Circle USDC ](https://www.circle.com/blog/arbitrum-usdc-now-available)press release.
+Rất có thể bạn đã nạp USDC gốc trên Arbitrum ([0xaf88d065e77c8cC2239327C5EDb3A432268e5831](https://arbiscan.io/token/0xaf88d065e77c8cC2239327C5EDb3A432268e5831)). Tuy nhiên, PancakeSwap Perpetuals hỗ trợ Bridged USDC, USDC.e ([0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8](https://arbiscan.io/token/0xff970a61a04b1ca14834a43f5de4533ebddb5cc8)) vì nó có thanh khoản cao hơn. Bạn có thể hoán đổi USDC sang USDC.e một cách liền mạch [tại đây](https://pancakeswap.finance/swap?chain=arb\&outputCurrency=0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8\&inputCurrency=0xaf88d065e77c8cC2239327C5EDb3A432268e5831). Để biết thêm thông tin về sự khác biệt giữa USDC và USDC.e, vui lòng tham khảo [thông cáo báo chí Circle USDC](https://www.circle.com/blog/arbitrum-usdc-now-available).

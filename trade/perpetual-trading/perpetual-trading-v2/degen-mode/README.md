@@ -4,29 +4,29 @@ hidden: true
 
 # Degen Mode
 
-The Degen Trading Mode offers traders an alternative way of trading compared to conventional trading methods. Traders who prefer to reduce screen time analyzing the market and have a more hands-off approach can choose this trading mode. During periods of high volatility, traders can maximize their gains with 0 slippage, high leverage and extremely low fees. In low volatility, traders can speculate on minor price movements.
+Degen Trading Mode (Chế Độ Giao Dịch Mạo Hiểm) cung cấp cho các nhà giao dịch một cách giao dịch thay thế so với các phương pháp giao dịch thông thường. Các nhà giao dịch muốn giảm thời gian xem màn hình phân tích thị trường và có cách tiếp cận ít can thiệp hơn có thể chọn chế độ giao dịch này. Trong các giai đoạn biến động cao, nhà giao dịch có thể tối đa hóa lợi nhuận với 0 trượt giá, đòn bẩy cao và phí cực thấp. Trong biến động thấp, nhà giao dịch có thể đầu cơ vào các biến động giá nhỏ.
 
-Initially, Degen Trading Mode will be available for BTCUSD, supporting maximum leverage of 1001x for long and short market orders. Traders must input the principal (collateral amount) before opening a position with zero slippage.
+Ban đầu, Degen Trading Mode sẽ khả dụng cho BTCUSD, hỗ trợ đòn bẩy tối đa 1001x cho lệnh long và short theo thị trường. Nhà giao dịch phải nhập vốn gốc (số lượng tài sản thế chấp) trước khi mở vị thế với zero slippage (trượt giá bằng không).
 
-Degen mode is available on both BNB Chain, Arbitrum, opBNB and Base chain on Perpetuals V2.
+Degen mode khả dụng trên cả BNB Chain, Arbitrum, opBNB và Base chain trên Perpetuals V2.
 
-### Degen Mode Format
+### Định Dạng Degen Mode
 
-Degen mode offers the following gameplay characteristics and benefits to our perpetual traders:
+Degen mode cung cấp các đặc điểm và lợi ích gameplay sau cho các nhà giao dịch hợp đồng vĩnh viễn của chúng tôi:
 
-**High Leverage, Lower Upfront Collateral -** With higher leverage of 1001x, users can participate and amplify their trading strategies through Degen Mode. Users can now enjoy a higher upside without posting significant upfront collateral.
+**Đòn Bẩy Cao, Tài Sản Thế Chấp Ban Đầu Thấp Hơn -** Với đòn bẩy cao hơn lên đến 1001x, người dùng có thể tham gia và khuếch đại chiến lược giao dịch của mình qua Degen Mode. Người dùng giờ đây có thể hưởng lợi nhuận cao hơn mà không cần đặt tài sản thế chấp ban đầu đáng kể.
 
-**Lower Fees -** With zero-slippage trading, users can enjoy a better trading experience. Users are not charged open position fees. This increases users' trading upsides as open position fees can now be saved and used as collateral.
+**Phí Thấp Hơn -** Với giao dịch zero-slippage, người dùng có thể hưởng trải nghiệm giao dịch tốt hơn. Người dùng không bị tính phí mở vị thế. Điều này tăng lợi nhuận giao dịch của người dùng vì phí mở vị thế giờ đây có thể được tiết kiệm và sử dụng làm tài sản thế chấp.
 
-**Dynamic Fee Structure -** Uniquely tailored for Degen Mode, the Dynamic Fee Structure for closing positions is meticulously designed to charge fees based on Profit and Loss (PnL). For more information on dynamic fee structure [here](degen-mode-dynamic-fee.md).
+**Cơ Cấu Phí Động -** Được thiết kế riêng cho Degen Mode, Cơ Cấu Phí Động để đóng vị thế được thiết kế tỉ mỉ để tính phí dựa trên Lãi và Lỗ (PnL). Để biết thêm thông tin về cơ cấu phí động [tại đây](degen-mode-dynamic-fee.md).
 
-**Pair Offerings -** Degen Mode is available for BTCUSD on BNB Chain, Arbitrum, opBNB and Base chain.
+**Cặp Được Cung Cấp -** Degen Mode khả dụng cho BTCUSD trên BNB Chain, Arbitrum, opBNB và Base chain.
 
-### How it works
+### Cách Hoạt Động
 
-1. Go to [https://perp.pancakeswap.finance/en/futures/v2/](https://perp.pancakeswap.finance/en/futures/v2/) or select "Perpetuals" on our home page.
-2. On the top right of the screen, select "Long" or "Short" position and click on leverage editor to select 1001x leverage.
-3. Select the amount and appropriate leverage.
-4. Select take profit amount (between 50% and 300%) and select **open position**.
-5. Your position will be reflected in the "positions" tab at the bottom of the screen.
-6. To close the position, hit the "close" button at the side of the position. Otherwise, Degen Mode close will automatically be executed at take profit or liquidation period. For more information, please refer to [perpetuals-glossary.md](../perpetuals-glossary.md "mention") and [perpetual-trading-faq](../perpetual-trading-faq/ "mention").
+1. Đến [https://perp.pancakeswap.finance/en/futures/v2/](https://perp.pancakeswap.finance/en/futures/v2/) hoặc chọn "Perpetuals" trên trang chủ của chúng tôi.
+2. Ở góc trên bên phải màn hình, chọn vị thế "Long" hoặc "Short" và nhấp vào trình chỉnh sửa đòn bẩy để chọn đòn bẩy 1001x.
+3. Chọn số lượng và đòn bẩy phù hợp.
+4. Chọn số lượng chốt lời (giữa 50% và 300%) và chọn **mở vị thế**.
+5. Vị thế của bạn sẽ được phản ánh trong tab "positions" ở cuối màn hình.
+6. Để đóng vị thế, nhấn nút "close" ở bên cạnh vị thế. Nếu không, Degen Mode sẽ tự động đóng khi đạt mức chốt lời hoặc thời điểm thanh lý. Để biết thêm thông tin, vui lòng tham khảo [perpetuals-glossary.md](../perpetuals-glossary.md "mention") và [perpetual-trading-faq](../perpetual-trading-faq/ "mention").

@@ -1,86 +1,85 @@
-# Perpetuals V1 Glossary
+# Bảng Thuật Ngữ Perpetuals V1
 
-**Here you will find defined all the terms inherent in futures trading**
+**Tại đây bạn sẽ tìm thấy định nghĩa của tất cả các thuật ngữ liên quan đến giao dịch hợp đồng tương lai**
 
-### **Perpetual Trading**
+### **Giao Dịch Hợp Đồng Vĩnh Viễn**
 
-&#x20;Perpetuals, perpetual swaps, or perps are a special type of futures contract without an expiration date.
+&#x20;Hợp đồng vĩnh viễn (perpetuals), hoán đổi vĩnh viễn (perpetual swaps), hay perps là một loại hợp đồng tương lai đặc biệt không có ngày hết hạn.
 
 
 
-### **Leverage**
+### **Đòn Bẩy**
 
-Leverage is a trading mechanism. Traders can use it to increase their exposure to the market by allowing them to pay less than the full amount of the investment. In simple words, you borrow money to leverage your investment.
+Đòn bẩy là một cơ chế giao dịch. Các nhà giao dịch có thể sử dụng nó để tăng mức độ tiếp xúc với thị trường bằng cách cho phép họ thanh toán ít hơn toàn bộ số tiền đầu tư. Nói đơn giản, bạn vay tiền để tận dụng đòn bẩy cho khoản đầu tư của mình.
 
 ![](https://lh5.googleusercontent.com/S4CpgIaapprJpet3GI9UvkGA2Vncl6ywSA8848SLOG5M73v2ILcSunlPMOxpWg9UJmKui4Vb6BDQcUugWP1aYMAVl9_QPioIxT9sFRuY-EEtuSXgCn_D8Muwqh60PFr3EcEu3kkH)
 
-### **Margin**
+### **Ký Quỹ**
 
-is the guarantee you put for your leveraged positions. It has two Modes to use it:
+là khoản đảm bảo bạn đặt cho các vị thế sử dụng đòn bẩy. Có hai chế độ để sử dụng:
 
-* Cross Margin Mode: All cross positions under the same margin asset share the same asset cross margin balance. In the event of liquidation, your assets full margin balance along with any remaining open positions under the asset may be forfeited.
-* Isolated Margin Mode: Manage your risk on individual positions by restricting the amount of margin allocated to each. If the margin ratio of a position reached 100%, the position will be liquidated. Margin can be added or removed to positions using this mode.
+* Chế Độ Cross Margin (Ký quỹ Chéo): Tất cả các vị thế cross dưới cùng một tài sản ký quỹ chia sẻ cùng số dư ký quỹ cross của tài sản đó. Trong trường hợp thanh lý, toàn bộ số dư ký quỹ của tài sản cùng với các vị thế đang mở còn lại dưới tài sản đó có thể bị tịch thu.
+* Chế Độ Isolated Margin (Ký quỹ Cô lập): Quản lý rủi ro trên các vị thế riêng lẻ bằng cách giới hạn lượng ký quỹ được phân bổ cho mỗi vị thế. Nếu tỷ lệ ký quỹ của một vị thế đạt 100%, vị thế đó sẽ bị thanh lý. Ký quỹ có thể được thêm hoặc xóa khỏi các vị thế sử dụng chế độ này.
 
-![](https://lh3.googleusercontent.com/zVEa2C_uhxdfB83PnT0jPQ3lbs5hJ8IY4cOe5KgxOiypTxV0CC1mXHouC9EhR2ukRmnMIXzk71JkEwPLmXAeK0RuP0xDsqX7c6P-X-7bPdqN3Xrfzxhub2wV55_ZKRNTy8WoCpUs)
+![](https://lh3.googleusercontent.com/zVEa2C_uhxdfB83PnT0jPQ3lbs5hJ8IY4cOg5KgxOiypTxV0CC1mXHouC9EhR2ukRmnMIXzk71JkEwPLmXAeK0RuP0xDsqX7c6P-X-7bPdqN3Xrfzxhub2wV55_ZKRNTy8WoCpUs)
 
-**Margin Ratio**: Margin Ratio = Maintenance Margin / Margin Balance. Your positions will be liquidated once Margin Ratio reaches 100%.
+**Tỷ Lệ Ký Quỹ**: Tỷ Lệ Ký Quỹ = Ký Quỹ Duy Trì / Số Dư Ký Quỹ. Vị thế của bạn sẽ bị thanh lý khi Tỷ Lệ Ký Quỹ đạt 100%.
 
-**Maintenance Ratio**: The minimum amount of margin balance required to keep your open positions.
+**Tỷ Lệ Duy Trì**: Số dư ký quỹ tối thiểu cần thiết để duy trì các vị thế đang mở của bạn.
 
-**Margin Balance** = Wallet Balance + Unrealized PNL. Your positions will be liquidated once Margin Balance <= Maintenance Margin.
+**Số Dư Ký Quỹ** = Số Dư Ví + Lãi/Lỗ Chưa Thực Hiện. Vị thế của bạn sẽ bị thanh lý khi Số Dư Ký Quỹ <= Ký Quỹ Duy Trì.
 
 ![](https://lh6.googleusercontent.com/BGaNOmsOkew_Cf9f6zcP2bW4Die0-uZnoui7QVYY24oDFtQkgIB5Vq1dLo7XgkA3LKyisoK-5Cs0uSN7fl19aa9nvDDAzWCVdgnJ3xNGHkDchaJMQf1G0gvXmDDvR2DvAih1D7tS)
 
-### Assets:
+### Tài sản:
 
-**Deposit**: Deposit your funds into your futures account
+**Nạp tiền**: Nạp tiền vào tài khoản hợp đồng tương lai của bạn
 
-**Withdraw**: Withdraw your funds from your futures account to your wallet
+**Rút tiền**: Rút tiền từ tài khoản hợp đồng tương lai về ví của bạn
 
-**Balance**: Wallet Balance = Total Net Transfer + Total Realized Profit + Total Net Funding Fee - Total Commission.
+**Số Dư**: Số Dư Ví = Tổng Chuyển Khoản Ròng + Tổng Lợi Nhuận Đã Thực Hiện + Tổng Phí Funding Ròng - Tổng Hoa Hồng.
 
-**Unrealized PNL**: Unrealized profit and loss on this position calculated based on Mark Price, and return on equity percentage.
+**Lãi/Lỗ Chưa Thực Hiện**: Lãi và lỗ chưa thực hiện trên vị thế này được tính dựa trên Giá Mark, và tỷ lệ hoàn vốn trên vốn chủ sở hữu.
 
-**Modes:**&#x20;
+**Các Chế Độ:**&#x20;
 
-* Single Asset Mode: Supports USDⓈ-M Futures trading by only using the single margin asset of the symbol. PNL of the same margin asset positions can be offset. Supports Cross Margin Mode and Isolated Margin Mode.
-* Multi-Assets Mode: USDⓈ-M Futures trading across multiple margin assets. PNL can be offset among the different margin asset positions. Only supports Cross Margin Mode.
+* Chế Độ Tài Sản Đơn: Hỗ trợ giao dịch USDⓈ-M Futures chỉ sử dụng tài sản ký quỹ đơn lẻ của symbol. Lãi/lỗ của các vị thế cùng tài sản ký quỹ có thể được bù trừ. Hỗ trợ Chế Độ Cross Margin và Chế Độ Isolated Margin.
+* Chế Độ Đa Tài Sản: Giao dịch USDⓈ-M Futures trên nhiều tài sản ký quỹ. Lãi/lỗ có thể được bù trừ giữa các vị thế tài sản ký quỹ khác nhau. Chỉ hỗ trợ Chế Độ Cross Margin.
 
 {% hint style="info" %}
-Note: If there are open positions or open orders in USDⓈ-M Futures, Multi-Assets Mode cannot be activated. Multi-Assets Mode only applies to USDⓈ-M Futures. Before activating Multi-Assets Mode, please read the guide in detail to better manage USDⓈ-M Futures account risk accordingly when using Multi-Assets Mode.<br>
+Lưu ý: Nếu có vị thế đang mở hoặc lệnh đang mở trong USDⓈ-M Futures, Chế Độ Đa Tài Sản không thể được kích hoạt. Chế Độ Đa Tài Sản chỉ áp dụng cho USDⓈ-M Futures. Trước khi kích hoạt Chế Độ Đa Tài Sản, hãy đọc kỹ hướng dẫn để quản lý tốt hơn rủi ro tài khoản USDⓈ-M Futures khi sử dụng Chế Độ Đa Tài Sản.<br>
 {% endhint %}
 
 ![](https://lh3.googleusercontent.com/iupB9UR3QMDCEO5RwjfMpqKZaQtoT53G0Sa_cYH9Neui8ttgqeFybtqOSIncZD74-4p3O-sQd6Lis2QKxGBsdgDmgutRaTUw1qKpjT-UXbpdKo-_3KzjAl3f8VSGyoLrtudoUqBr)
 
-### Orders
+### Lệnh
 
-**Buy/Long:** Open a Long order. In this order you purchase an asset and wait to sell when the price goes up. "Buy" and "long" are used interchangeably.
+**Mua/Long (Vị thế dài):** Mở lệnh Long. Trong lệnh này, bạn mua một tài sản và chờ bán khi giá tăng. "Mua" và "long" được sử dụng thay thế cho nhau.
 
-**Sell/Short:** Open a Short order. In this order, you borrow an asset, sell it, and hope to buy it back when the price goes down. "Sell" and "short" are used interchangeably.
+**Bán/Short (Vị thế ngắn):** Mở lệnh Short. Trong lệnh này, bạn vay một tài sản, bán nó và hy vọng mua lại khi giá giảm. "Bán" và "short" được sử dụng thay thế cho nhau.
 
-**Limit Order:** A limit order is an order to buy or sell at a specific price or better. Limit orders are not guaranteed to execute.
+**Lệnh Giới Hạn (Limit Order):** Lệnh giới hạn là lệnh mua hoặc bán ở một mức giá cụ thể hoặc tốt hơn. Lệnh giới hạn không được đảm bảo thực thi.
 
-**Market Order:** A market order is an order to buy or sell at the best available current price. It is executed against the limit orders that were previously placed on the order book. When placing a market order, you will pay fees as a market taker.
+**Lệnh Thị Trường (Market Order):** Lệnh thị trường là lệnh mua hoặc bán ở mức giá hiện tại tốt nhất. Nó được thực thi dựa trên các lệnh giới hạn đã được đặt trước đó trong sổ lệnh. Khi đặt lệnh thị trường, bạn sẽ trả phí với tư cách là taker thị trường.
 
-**Stop Limit Order:** The easiest way to understand a stop-limit order is to break it down into stop price, and limit price. The stop price is simply the price that triggers the limit order, and the limit price is the price of the limit order that is triggered. This means that once your stop price has been reached, your limit order will be immediately placed on the order book.
+**Lệnh Stop Limit:** Cách dễ nhất để hiểu lệnh stop-limit là chia nó thành giá stop và giá limit. Giá stop đơn giản là mức giá kích hoạt lệnh giới hạn, và giá limit là giá của lệnh giới hạn được kích hoạt. Điều này có nghĩa là khi giá stop của bạn được đạt, lệnh giới hạn của bạn sẽ ngay lập tức được đặt vào sổ lệnh.
 
-**Stop Market Order:** Similar to a stop-limit order, a stop market order uses a stop price as a trigger. However, when the stop price is reached, it triggers a market order instead.
+**Lệnh Stop Market:** Tương tự như lệnh stop-limit, lệnh stop market sử dụng giá stop làm kích hoạt. Tuy nhiên, khi giá stop được đạt, nó kích hoạt một lệnh thị trường thay thế.
 
-**Trailing Stop:** A trailing stop is an order type designed to lock in profits or limit losses as a trade moves favorably. Trailing stops only move if the price moves favorably. Once it moves to lock in a profit or reduce a loss, it does not move back in the other direction.
+**Trailing Stop:** Trailing stop là loại lệnh được thiết kế để khóa lợi nhuận hoặc giới hạn tổn thất khi giao dịch di chuyển có lợi. Trailing stop chỉ di chuyển khi giá di chuyển có lợi. Một khi nó di chuyển để khóa lợi nhuận hoặc giảm tổn thất, nó không di chuyển ngược lại.
 
-**Post Only:** Post-only Mode means that Traders can only place an Order if it would be posted to the Order Book as a Maker Order. An Order which would be posted as a Taker Order will be rejected. No Market Orders may be placed and no Orders will be filled. Resting orders may be canceled in post-only mode.
+**Post Only:** Chế Độ Post-only có nghĩa là Nhà Giao Dịch chỉ có thể đặt Lệnh nếu nó được đăng vào Sổ Lệnh như một Lệnh Maker. Lệnh nào được đăng như Lệnh Taker sẽ bị từ chối. Không có Lệnh Thị Trường nào có thể được đặt và không có Lệnh nào sẽ được khớp. Các lệnh đang nghỉ có thể được hủy trong chế độ post-only.
 
-![](https://lh6.googleusercontent.com/uV8UuuqGxCwGmu9jxuL2Gf_Nt8QwkYoYCfJinEfINffyr6QjV03tZVXA46GnIxY-XKSxcrAPtrtD8JZYBHSc4ILmLd8Rm6LqHmVdSAgMK8m-4WOdt3FsnPO2MD32EG9j3ym_aSz_)
+![](https://lh6.googleusercontent.com/uV8UuuqGxCwGmu9jxuL2Gf_Nt8QwkYoYCfJinEfINffyr6Qj V03tZVXA46GnIxY-XKSxcrAPtrtD8JZYBHSc4ILmLd8Rm6LqHmVdSAgMK8m-4WOdt3FsnPO2MD32EG9j3ym_aSz_)
 
-**Reduce Only:** Reduce-Only order will only reduce your position, not increase it.
+**Reduce Only (Chỉ Giảm):** Lệnh Reduce-Only chỉ giảm vị thế của bạn, không tăng nó.
 
-![](https://lh3.googleusercontent.com/HlbLU90VSn76W1xHVgSBoke83uQpAPFzl2JBME_Dn2mElSDAYSbA51GRx2cOaAqxBe6wH02MbJxmwjrLuLoSx7Ei4AwzrnmqFjy4VEG5aUrYas7oFKVQ0CGNuiIAXjD1CdPaQurO)
+![](https://lh3.googleusercontent.com/HlbLU90VSn76W1xHVgSBoke83uQpAPFzl2JBME_Dn2mElSDAYSbA51GRx2cOaAqxBe6wH02MbJxmwjvjy4VEG5aUrYas7oFKVQ0CGNuiIAXjD1CdPaQurO)
 
-**TIF instructions** allow you to specify the amount of time that your orders will remain active before they are executed or expired. You can select one of these options for TIF instructions:
+**Hướng dẫn TIF** cho phép bạn chỉ định khoảng thời gian lệnh của bạn sẽ duy trì hoạt động trước khi được thực thi hoặc hết hạn. Bạn có thể chọn một trong các tùy chọn sau cho hướng dẫn TIF:
 
 ![](https://lh6.googleusercontent.com/-QaqTJU0jCsjznhULix7i2ThVM7_u7IP5a0i42TYhImt8xPLODjYCjLL5JNbRXrIDsgJRxIIGoYD8Tlq5gSdCjkAyMDat53r5WNTepB93_7bq7gDmyg1-jyblSQ8eANv_fH9bvJ-)
 
-* **GTC** (Good Till Cancel): The order will remain active until it is either filled or canceled.&#x20;
-* **IOC** (Immediate Or Cancel): The order will execute immediately (either fully or partially). If it is only partially executed, the unfilled portion of the order will be canceled.&#x20;
-* **FOK** (Fill Or Kill): The order must be fully filled immediately. If not, it won’t be executed at all.
-
+* **GTC** (Good Till Cancel - Có hiệu lực cho đến khi hủy): Lệnh sẽ duy trì hoạt động cho đến khi được khớp hoặc hủy.&#x20;
+* **IOC** (Immediate Or Cancel - Thực hiện ngay hoặc hủy): Lệnh sẽ thực thi ngay lập tức (toàn bộ hoặc một phần). Nếu chỉ được thực thi một phần, phần chưa được khớp của lệnh sẽ bị hủy.&#x20;
+* **FOK** (Fill Or Kill - Khớp hoàn toàn hoặc hủy): Lệnh phải được khớp hoàn toàn ngay lập tức. Nếu không, nó sẽ không được thực thi.

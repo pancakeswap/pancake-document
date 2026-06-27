@@ -1,44 +1,44 @@
-# Perpetuals V2 Glossary
+# Bảng Thuật Ngữ Perpetuals V2
 
-**Here you will find defined all the terms inherent in futures trading**
+**Tại đây bạn sẽ tìm thấy định nghĩa của tất cả các thuật ngữ liên quan đến giao dịch hợp đồng tương lai**
 
-### **Perpetual Trading**
+### **Giao Dịch Hợp Đồng Vĩnh Viễn**
 
-&#x20;Perpetuals, perpetual swaps, or perps are a special type of futures contract without an expiration date.
+&#x20;Hợp đồng vĩnh viễn (perpetuals), hoán đổi vĩnh viễn (perpetual swaps), hay perps là một loại hợp đồng tương lai đặc biệt không có ngày hết hạn.
 
-### **Leverage**
+### **Đòn Bẩy**
 
-Leverage is a trading mechanism. Traders can use it to increase their exposure to the market by allowing them to pay less than the full amount of the investment. In simple words, you borrow money to leverage your investment.
+Đòn bẩy là một cơ chế giao dịch. Các nhà giao dịch có thể sử dụng nó để tăng mức độ tiếp xúc với thị trường bằng cách cho phép họ thanh toán ít hơn toàn bộ số tiền đầu tư. Nói đơn giản, bạn vay tiền để tận dụng đòn bẩy cho khoản đầu tư của mình.
 
-### Orders
+### Lệnh
 
-**Long:** Open a Long order. In this order, you purchase an asset and wait to sell when the price increases. "Buy" and "long" are used interchangeably.
+**Long (Vị thế dài):** Mở lệnh Long. Trong lệnh này, bạn mua một tài sản và chờ bán khi giá tăng. "Mua" và "long" được sử dụng thay thế cho nhau.
 
-**Short:** Open a Short order. In this order, you borrow an asset, sell it, and hope to repurchase it when the price drops. "Sell" and "short" are used interchangeably.
+**Short (Vị thế ngắn):** Mở lệnh Short. Trong lệnh này, bạn vay một tài sản, bán nó và hy vọng mua lại khi giá giảm. "Bán" và "short" được sử dụng thay thế cho nhau.
 
-**Limit Order:** A limit order is buying or selling at a specific price or better. Limit orders are not guaranteed to execute.
+**Lệnh Giới Hạn (Limit Order):** Lệnh giới hạn là mua hoặc bán ở một mức giá cụ thể hoặc tốt hơn. Lệnh giới hạn không được đảm bảo thực thi.
 
-**Market Order:** A market order is an order to buy or sell at the best available current price.
+**Lệnh Thị Trường (Market Order):** Lệnh thị trường là lệnh mua hoặc bán ở mức giá hiện tại tốt nhất.
 
-#### Position Management
+#### Quản Lý Vị Thế
 
-Users can check the details of their opened positions, such as the opening price, by clicking on "Position" located at the bottom of the trading page. They can view details such as opening price, number of positions, latest price and forced liquidation price.
+Người dùng có thể kiểm tra chi tiết các vị thế đang mở của mình, chẳng hạn như giá mở, bằng cách nhấp vào "Position" nằm ở cuối trang giao dịch. Họ có thể xem các chi tiết như giá mở, số lượng vị thế, giá mới nhất và giá thanh lý bắt buộc.
 
-<figure><img src="../../../.gitbook/assets/Perp5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp5.png" alt=""><figcaption></figcaption></figure>
 
-**Position mode**
+**Chế Độ Vị Thế**
 
-PancakeSwap will use an isolated leverage mode for each v2 trading pair. Pairs operate independently:&#x20;
+PancakeSwap sẽ sử dụng chế độ đòn bẩy cô lập cho mỗi cặp giao dịch v2. Các cặp hoạt động độc lập:&#x20;
 
-* Each trading pair is an isolated position, Users can open multiple isolated positions
-* Every position (trading pair) runs independently. If users need to top up their margin, they will need to do so manually even if they have available assets in other separate positions (ApolloX will support auto top-up in the future)
-* Every isolated trading position will have its own risk rate and liquidation price and will be settled individually.
-* Liquidation risk is isolated for each trading pair. If a position is liquidated, it does not affect other positions.
+* Mỗi cặp giao dịch là một vị thế cô lập, người dùng có thể mở nhiều vị thế cô lập
+* Mỗi vị thế (cặp giao dịch) hoạt động độc lập. Nếu người dùng cần bổ sung ký quỹ, họ sẽ cần thực hiện thủ công ngay cả khi có tài sản có sẵn trong các vị thế riêng biệt khác (ApolloX sẽ hỗ trợ bổ sung tự động trong tương lai)
+* Mỗi vị thế giao dịch cô lập sẽ có tỷ lệ rủi ro và giá thanh lý riêng và sẽ được quyết toán riêng.
+* Rủi ro thanh lý được cô lập cho mỗi cặp giao dịch. Nếu một vị thế bị thanh lý, nó không ảnh hưởng đến các vị thế khác.
 
-**Closing a position**
+**Đóng Vị Thế**
 
-Users can close their positions by clicking on "Close Position".
+Người dùng có thể đóng vị thế của mình bằng cách nhấp vào "Close Position".
 
-#### Fees and Slippage
+#### Phí và Trượt Giá
 
-Please visit the [Aster's page](https://docs.asterdex.com/product/asterex-simple/fees-and-slippage) for more information on Fees.
+Vui lòng truy cập [trang của Aster](https://docs.asterdex.com/product/asterex-simple/fees-and-slippage) để biết thêm thông tin về Phí.

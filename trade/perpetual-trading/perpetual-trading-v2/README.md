@@ -1,29 +1,29 @@
 ---
-description: What's new in V2?
+description: Có gì mới trong V2?
 ---
 
-# Perpetual Trading V2
+# Giao Dịch Hợp Đồng Vĩnh Viễn V2
 
-In Pancakeswap Perpetuals V2, we've streamlined our interface by **removing the order book and market depth displays**. Instead, our partners Aster have introduced the ALP pool, which now provides liquidity for all trading pairs, maximizing your capital usage. The ALP pool will actively participate in the market-making process for our V2 perpetual contracts. Please [visit this page](https://docs.asterdex.com/product/asterex-simple/price-oracles) to read more on the V2 low latency oracle model.
+Trong PancakeSwap Perpetuals V2, chúng tôi đã đơn giản hóa giao diện bằng cách **loại bỏ sổ lệnh và màn hình hiển thị độ sâu thị trường**. Thay vào đó, các đối tác của chúng tôi là Aster đã giới thiệu pool ALP, hiện cung cấp thanh khoản cho tất cả các cặp giao dịch, tối đa hóa việc sử dụng vốn của bạn. Pool ALP sẽ tích cực tham gia vào quá trình tạo lập thị trường cho các hợp đồng vĩnh viễn V2 của chúng tôi. Vui lòng [truy cập trang này](https://docs.asterdex.com/product/asterex-simple/price-oracles) để đọc thêm về mô hình oracle độ trễ thấp của V2.
 
-The new mechanism will bring added benefits to Pancakeswap Perpetual Users:
+Cơ chế mới sẽ mang lại thêm lợi ích cho Người dùng PancakeSwap Perpetuals:
 
-#### Enhanced Security
+#### Bảo Mật Nâng Cao
 
-By tapping into Pyth, Binance Oracle and Chainlink price feeds, we dodge any unexpected price behaviours due to manipulation or scarce liquidity from either Oracle source. This savvy move keeps those surprise liquidations at bay.
+Bằng cách kết hợp nguồn cấp giá Pyth, Binance Oracle và Chainlink, chúng tôi tránh được các hành vi giá bất ngờ do thao túng hoặc thanh khoản khan hiếm từ bất kỳ nguồn Oracle nào. Bước đi khôn ngoan này giúp ngăn chặn các thanh lý bất ngờ.
 
-#### Self-Custody Freedom
+#### Tự Do Tự Quản Lý
 
-No more tedious deposits and withdrawals to trade with Pancakeswap Perpertuals V2. Users will trade fully on-chain, and no deposit and withdrawal requirements exist. Users can be assured that no protocol can manage, increase or reduce trading positions outside of a liquidation event.
+Không cần nạp và rút tiền tẻ nhạt khi giao dịch với PancakeSwap Perpetuals V2. Người dùng sẽ giao dịch hoàn toàn on-chain, và không có yêu cầu nạp và rút tiền. Người dùng có thể yên tâm rằng không có giao thức nào có thể quản lý, tăng hoặc giảm các vị thế giao dịch bên ngoài sự kiện thanh lý.
 
-#### Higher Liquidity
+#### Thanh Khoản Cao Hơn
 
-Trading pairs on the platform share liquidity via the ALP pool. Hence, adding liquidity for each newly listed trading pair is not required separately. Capital efficiency is maximized and users can open bigger position sizes.
+Các cặp giao dịch trên nền tảng chia sẻ thanh khoản qua pool ALP. Do đó, không cần thêm thanh khoản riêng cho mỗi cặp giao dịch mới được niêm yết. Hiệu quả sử dụng vốn được tối đa hóa và người dùng có thể mở các vị thế kích thước lớn hơn.
 
-#### More Pairs
+#### Nhiều Cặp Hơn
 
-With Perpetuals V2 consolidating liquidity for all trading pairs into one pool, users can expect more trading pairs from potentially different asset classes moving forward. At launch, V2 will support BTCUSD, ETHUSD and BNBUSD pairs for cryptocurrencies and Forex pairs EURUSD and GBPUSD. More pairs will be rollout in the coming months.
+Với Perpetuals V2 hợp nhất thanh khoản cho tất cả các cặp giao dịch vào một pool, người dùng có thể kỳ vọng thêm nhiều cặp giao dịch từ các lớp tài sản tiềm năng khác trong tương lai. Khi ra mắt, V2 sẽ hỗ trợ các cặp BTCUSD, ETHUSD và BNBUSD cho tiền điện tử và các cặp Forex EURUSD và GBPUSD. Nhiều cặp hơn sẽ được triển khai trong các tháng tới.
 
 {% hint style="success" %}
-**PancakeSwap Perpetuals V2 is now available on BNB Chain, Arbitrum, opBNB and Base.**
+**PancakeSwap Perpetuals V2 hiện có trên BNB Chain, Arbitrum, opBNB và Base.**
 {% endhint %}
