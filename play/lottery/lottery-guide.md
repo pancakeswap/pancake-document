@@ -1,129 +1,129 @@
-# How to Play Lottery
+# Cách Chơi Xổ Số
 
-![](../../.gitbook/assets/how-to-lottery-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-lottery-header.png)
 
-PancakeSwap's Lottery is not only a good way to make stacks of CAKE, it's also loads of fun! This guide will walk you through getting involved in the Lottery.
+Xổ số của PancakeSwap không chỉ là cách tuyệt vời để kiếm thêm CAKE, mà còn rất thú vị! Hướng dẫn này sẽ giúp bạn tham gia vào Xổ số.
 
 {% hint style="info" %}
-The Lottery has changed a little since its first iteration. Lottery v2 lets you win more often, have some control over your tickets, and has more potential for huge CAKE jackpots to get your mouth watering. Learn more about [PancakeSwap Lottery v2 here](https://docs.pancakeswap.finance/products/lottery).
+Xổ số đã thay đổi một chút so với phiên bản đầu tiên. Lottery v2 cho phép bạn thắng thường xuyên hơn, kiểm soát được vé của mình và có tiềm năng jackpot CAKE khổng lồ khiến bạn thèm thuồng. Tìm hiểu thêm về [PancakeSwap Lottery v2 tại đây](https://docs.pancakeswap.finance/products/lottery).
 {% endhint %}
 
-## Deciding if you'd like to enter a round
+## Quyết định có nên tham gia một vòng hay không
 
-‌Not all Lottery rounds are equal. When a lottery jackpot isn't won, the next round's prize pool will increase; the longer it's been since someone has won the jackpot, the larger the Lottery prize pool will be.
+‌Không phải tất cả các vòng Xổ số đều như nhau. Khi jackpot xổ số không được ai thắng, quỹ thưởng của vòng tiếp theo sẽ tăng lên; càng lâu kể từ lần ai đó thắng jackpot, quỹ thưởng Xổ số sẽ càng lớn.
 
-‌The longer a round is open, the more people can buy a ticket. Each ticket sold increases the prize pool further. Here's how to check the current round's prize pool and remaining time.
+‌Vòng mở càng lâu, càng có nhiều người có thể mua vé. Mỗi vé bán ra sẽ tăng thêm quỹ thưởng. Đây là cách kiểm tra quỹ thưởng của vòng hiện tại và thời gian còn lại.
 
-‌1. Visit the[ PancakeSwap Lottery page](https://pancakeswap.finance/lottery) and look at the top of the page. You'll see the current round's prize pool shown in (estimated) US dollar value.
+‌1. Truy cập [trang Xổ số PancakeSwap](https://pancakeswap.finance/lottery) và nhìn vào đầu trang. Bạn sẽ thấy quỹ thưởng của vòng hiện tại được hiển thị bằng giá trị USD (ước tính).
 
-![](<../../.gitbook/assets/image (213).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28213%29.png)
 
-This is the amount to be shared between all winners.
+Đây là số tiền sẽ được chia sẻ giữa tất cả những người thắng.
 
-‌2. A little lower down the page you'll find the remaining time before the current round is drawn.
+‌2. Phía dưới một chút trên trang, bạn sẽ thấy thời gian còn lại trước khi vòng hiện tại được quay.
 
-![](<../../.gitbook/assets/image (234).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28234%29.png)
 
-Remember, a lot can change in the remaining time. Many more tickets may be sold. Each sold ticket both increases the prize pool, and lowers the odds of an individual ticket winning.
+Hãy nhớ rằng, nhiều thứ có thể thay đổi trong thời gian còn lại. Nhiều vé hơn có thể được bán. Mỗi vé được bán vừa làm tăng quỹ thưởng, vừa làm giảm cơ hội thắng của từng vé riêng lẻ.
 
-‌If you're unsure, you can always wait until later into the round to decide with more information. Just don't wait too long and miss out!
+‌Nếu bạn không chắc, bạn luôn có thể chờ đến sau trong vòng để quyết định với nhiều thông tin hơn. Chỉ đừng chờ quá lâu mà bỏ lỡ!
 
-## Buying Lottery tickets
+## Mua vé Xổ số
 
-‌Buying tickets is easy.
+‌Mua vé rất đơn giản.
 
-You just need a little CAKE though: each ticket costs approximately $5 USD (the exact CAKE price is set at the start of the round).
+Bạn chỉ cần một ít CAKE: mỗi vé có giá khoảng $5 USD (giá CAKE chính xác được đặt vào đầu vòng).
 
-You can choose to either randomize your lottery ticket numbers, or to choose your ticket numbers manually. Choose between the randomized numbers and manual numbers tabs below for a guide to each method.
+Bạn có thể chọn ngẫu nhiên hóa số vé xổ số của mình, hoặc chọn số vé thủ công. Chọn giữa tab số ngẫu nhiên và số thủ công bên dưới để xem hướng dẫn cho từng phương pháp.
 
 {% tabs %}
-{% tab title="Randomized ticket numbers" %}
-#### Randomized ticket numbers
+{% tab title="Số vé ngẫu nhiên" %}
+#### Số vé ngẫu nhiên
 
-1\. On the[ PancakeSwap Lottery page](https://pancakeswap.finance/lottery), click the **Buy Tickets** button at the top of the page (there's another lower on the page also).
+1\. Trên [trang Xổ số PancakeSwap](https://pancakeswap.finance/lottery), nhấp vào nút **Buy Tickets** ở đầu trang (cũng có một nút khác ở phía dưới trang).
 
-![](<../../.gitbook/assets/image (42).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2842%29.png)
 
-There is a time between rounds where purchasing tickets isn't possible. Just check back after the countdown if that's the case.
+Có một khoảng thời gian giữa các vòng khi không thể mua vé. Nếu vậy, hãy quay lại sau khi đếm ngược kết thúc.
 
-![](<../../.gitbook/assets/image (193).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28193%29.png)
 
-2\. A window will open letting you choose how many ticket to buy. Type how many tickets you'd like to buy into the field. You can also use the preset buttons underneath.
+2\. Một cửa sổ sẽ mở ra cho phép bạn chọn số lượng vé muốn mua. Nhập số vé bạn muốn mua vào ô. Bạn cũng có thể sử dụng các nút đặt sẵn bên dưới.
 
-![](<../../.gitbook/assets/image (86).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2886%29.png)
 
-3\. Before you continue, it's worth considering the bulk purchase discounts. The more tickets you buy, the greater the discount.
+3\. Trước khi tiếp tục, đáng để xem xét các chiết khấu mua số lượng lớn. Bạn mua càng nhiều vé, chiết khấu càng lớn.
 
-The discount starts at 2 tickets, and scales all the way to 100 tickets where you will save almost 5% on your purchase (4.95%).
+Chiết khấu bắt đầu từ 2 vé và tăng dần đến 100 vé nơi bạn sẽ tiết kiệm gần 5% khi mua (4,95%).
 
-4\. When you're happy with the number of tickets you want to buy, click **Confirm** and confirm your action in your wallet.
+4\. Khi bạn hài lòng với số lượng vé muốn mua, nhấp **Confirm** và xác nhận hành động trong ví của bạn.
 
-![](<../../.gitbook/assets/image (91).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2891%29.png)
 {% endtab %}
 
-{% tab title="Manual ticket numbers" %}
-#### Manual ticket numbers
+{% tab title="Số vé thủ công" %}
+#### Số vé thủ công
 
-1\. On the[ PancakeSwap Lottery page](https://pancakeswap.finance/lottery), click the **Buy Tickets** button at the top of the page (there's another lower on the page also).
+1\. Trên [trang Xổ số PancakeSwap](https://pancakeswap.finance/lottery), nhấp vào nút **Buy Tickets** ở đầu trang (cũng có một nút khác ở phía dưới trang).
 
-![](<../../.gitbook/assets/image (42).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2842%29.png)
 
-There is a time between rounds where purchasing tickets isn't possible. Just check back after the countdown if that's the case.
+Có một khoảng thời gian giữa các vòng khi không thể mua vé. Nếu vậy, hãy quay lại sau khi đếm ngược kết thúc.
 
-![](<../../.gitbook/assets/image (193).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28193%29.png)
 
-2\. A window will open letting you choose how many ticket to buy. Type how many tickets you'd like to buy into the field. You can also use the preset buttons underneath.
+2\. Một cửa sổ sẽ mở ra cho phép bạn chọn số lượng vé muốn mua. Nhập số vé bạn muốn mua vào ô. Bạn cũng có thể sử dụng các nút đặt sẵn bên dưới.
 
-![](<../../.gitbook/assets/image (86).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2886%29.png)
 
-3\. Before you continue, it's worth considering the bulk purchase discounts. The more tickets you buy, the greater the discount.
+3\. Trước khi tiếp tục, đáng để xem xét các chiết khấu mua số lượng lớn. Bạn mua càng nhiều vé, chiết khấu càng lớn.
 
-The discount starts at 2 tickets, and scales all the way to 100 tickets where you will save almost 5% on your purchase.
+Chiết khấu bắt đầu từ 2 vé và tăng dần đến 100 vé nơi bạn sẽ tiết kiệm gần 5% khi mua.
 
-4\. To customize the numbers on your tickets, click the **View/Edit Numbers** button.
+4\. Để tùy chỉnh số trên vé của bạn, nhấp vào nút **View/Edit Numbers**.
 
-![](<../../.gitbook/assets/image (81).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2881%29.png)
 
-5\. A new window will open showing your tickets. Click onto a number for any ticket to change the number in that position.
+5\. Một cửa sổ mới sẽ mở ra hiển thị vé của bạn. Nhấp vào một số bất kỳ trên vé để thay đổi số ở vị trí đó.
 
-You can randomize your numbers again by clicking **Randomize**, or go back if you change your mind by clicking **Go back**.
+Bạn có thể ngẫu nhiên hóa lại số của mình bằng cách nhấp **Randomize**, hoặc quay lại nếu bạn đổi ý bằng cách nhấp **Go back**.
 
 ![](https://lh4.googleusercontent.com/229uStQBb-Uzj-Tu9kRDXxfux4wWNjeHjPXJBULwhKbCR5UEgWnb3jzzj1-KeWeBfxfGlctR9aH\_S1P\_l6\_VgtrZR0Eb2AVqrJLF8oNkpoVFlpeHaOIsUij-bs12QBOwDAIJEJiU)
 
-You'll get a warning if you create duplicate tickets. It's possible your duplicate tickets will win. In this case your tickets will share in the prize pool for their bracket.
+Bạn sẽ nhận được cảnh báo nếu tạo các vé trùng lặp. Có thể các vé trùng lặp của bạn sẽ thắng. Trong trường hợp này, vé của bạn sẽ chia sẻ quỹ thưởng cho hạng của chúng.
 
-![](<../../.gitbook/assets/image (39).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2839%29.png)
 
-6\. When you're happy with your numbers, click the **Confirm and buy** button.
+6\. Khi bạn hài lòng với các số của mình, nhấp vào nút **Confirm and buy**.
 
-![](<../../.gitbook/assets/image (202).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28202%29.png)
 
-Confirm the action in your wallet.
+Xác nhận hành động trong ví của bạn.
 {% endtab %}
 {% endtabs %}
 
-## Viewing your tickets after buying
+## Xem vé sau khi mua
 
-You can view your tickets after buying them before the round's numbers are drawn.
+Bạn có thể xem vé của mình sau khi mua trước khi các số của vòng được quay.
 
-1\. Click **View Your Tickets** in the "Next Draw" area of the Lottery page.
+1\. Nhấp **View Your Tickets** trong khu vực "Next Draw" trên trang Xổ số.
 
-![](<../../.gitbook/assets/image (279).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28279%29.png)
 
-2\. A window will open showing all of your tickets and their numbers. It'll also give you the option to buy more tickets if you'd like.
+2\. Một cửa sổ sẽ mở ra hiển thị tất cả vé của bạn và các số trên đó. Nó cũng sẽ cho bạn tùy chọn mua thêm vé nếu muốn.
 
-![](<../../.gitbook/assets/image (226).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28226%29.png)
 
-## When the round ends and winning numbers are drawn
+## Khi vòng kết thúc và các số trúng thưởng được quay
 
-‌When the round has ended and the winning numbers are available, you can check your tickets to see if you won.
+‌Khi vòng đã kết thúc và các số trúng thưởng có sẵn, bạn có thể kiểm tra vé của mình để xem có thắng không.
 
-### ‌View your winning tickets
+### ‌Xem vé thắng của bạn
 
-‌You can view your winning tickets in the same way you viewed your tickets after buying them.
+‌Bạn có thể xem vé thắng theo cách tương tự như khi xem vé sau khi mua.
 
-‌1. Click **View Your Tickets** in the "Finished Rounds" area of the Lottery page.
+‌1. Nhấp **View Your Tickets** trong khu vực "Finished Rounds" trên trang Xổ số.
 
 ![](https://lh3.googleusercontent.com/p3QxWcrxCcBwHrhwPU55vnAN-BmelgNwKRWse8yEQQVfehXsIOvUX\_tCo1gC7LpHxL-crIMS19RxpnMxn5yBuShNwXfH7qzCSdCOtnBeXhUuecrqRvhdI97rX\_CuVuWAawaor6Mi)
 
-2\. A window will open showing the winning numbers and all of your tickets and their numbers.\\
+2\. Một cửa sổ sẽ mở ra hiển thị các số trúng thưởng và tất cả vé của bạn cùng các số trên đó.\\

@@ -1,73 +1,73 @@
-# 🔮 Prediction
+# 🔮 Dự đoán
 
-![](../../.gitbook/assets/prediction-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/prediction-header.png)
 
-PancakeSwap Prediction is a fun and simple decentralized prediction market.
+PancakeSwap Prediction là một thị trường dự đoán phi tập trung vui vẻ và đơn giản.
 
-> #### Predict whether BNB, BTC, or ETH price will rise or fall – guess correctly to win!
+> #### Dự đoán giá BNB, BTC hay ETH sẽ tăng hay giảm – đoán đúng để thắng!
 
-### Platforms
+### Nền tảng
 
-You can play PancakeSwap Prediction on:
+Bạn có thể chơi PancakeSwap Prediction trên:
 
-* **Desktop/ dApp**: [PancakeSwap Prediction Guide](https://docs.pancakeswap.finance/play/prediction/prediction-guide)
-* **Telegram Mini App (BNBUSD only)**: [Prediction Bot](https://docs.pancakeswap.finance/play/prediction/prediction-mini-app)
+* **Desktop/ dApp**: [Hướng dẫn PancakeSwap Prediction](https://docs.pancakeswap.finance/play/prediction/prediction-guide)
+* **Telegram Mini App (chỉ BNBUSD)**: [Prediction Bot](https://docs.pancakeswap.finance/play/prediction/prediction-mini-app)
 
-### Summary: How It Works
+### Tóm tắt: Cách hoạt động
 
-1. **Choose an asset to bet on**: Currently available on **BNB Chain**, **zkSync Era**, and **Arbitrum One**.
-2. **Pick UP or DOWN**: Predict if the asset price will be higher or lower when the “LIVE” phase ends (each round = 5 minutes).
-3. Place your bet amount: Any BNB amount
-4. **Lock in your position**: Once placed, your bet cannot be changed.
-5. **Win or lose**:
-   * If you chose **UP**, you win if the _Closed Price_ > _Locked Price_ at the end of the round.
-   * If you chose **DOWN**, you win if the _Closed Price_ < _Locked Price_ at the end of the round.
+1. **Chọn tài sản để đặt cược**: Hiện có trên **BNB Chain**, **zkSync Era** và **Arbitrum One**.
+2. **Chọn LÊN hay XUỐNG**: Dự đoán giá tài sản sẽ cao hơn hay thấp hơn khi giai đoạn "LIVE" kết thúc (mỗi vòng = 5 phút).
+3. Đặt số tiền cược: Bất kỳ số lượng BNB nào
+4. **Khóa vị thế của bạn**: Sau khi đặt, cược của bạn không thể thay đổi.
+5. **Thắng hay thua**:
+   * Nếu bạn chọn **LÊN**, bạn thắng nếu _Giá Đóng_ > _Giá Khóa_ vào cuối vòng.
+   * Nếu bạn chọn **XUỐNG**, bạn thắng nếu _Giá Đóng_ < _Giá Khóa_ vào cuối vòng.
 
-### Mechanics & Fees
+### Cơ chế & Phí
 
-* **Supported Chains: BNB Chain, zkSync Era, Arbitrum One**
-* **Round frequency**: Every **5 minutes** (rolling rounds).
-* **Participation fee**: **3%** of each round’s total prize pool, a portion of which goes to **CAKE buybacks**.
-* **Winnings**: Claim anytime after results are finalized.
-* **Payouts** are based on the ratio of bets in each pool:
-  * Payout Ratio (UP Pool) = _(Total value of both pools ÷ Value of UP Pool)_
-  * Payout Ratio (DOWN Pool) = _(Total value of both pools ÷ Value of DOWN Pool)_
-  * See: [FAQ](prediction-faq.md) for worked example
+* **Chuỗi được hỗ trợ: BNB Chain, zkSync Era, Arbitrum One**
+* **Tần suất vòng**: Mỗi **5 phút** (các vòng cuốn chiếu).
+* **Phí tham gia**: **3%** tổng quỹ thưởng của mỗi vòng, một phần sẽ đi vào **mua lại CAKE**.
+* **Tiền thắng**: Nhận bất cứ lúc nào sau khi kết quả được xác định.
+* **Tỷ lệ thanh toán** dựa trên tỷ lệ cược trong mỗi bể:
+  * Tỷ lệ thanh toán (Bể LÊN) = _(Tổng giá trị cả hai bể ÷ Giá trị Bể LÊN)_
+  * Tỷ lệ thanh toán (Bể XUỐNG) = _(Tổng giá trị cả hai bể ÷ Giá trị Bể XUỐNG)_
+  * Xem: [FAQ](prediction-faq.md) để biết ví dụ cụ thể
 
-### Outcomes
+### Kết quả
 
-* **Win:** You share the total pot with other winners (minus 3% fee)
-* **Lose:** You lose your entire bet amount
+* **Thắng:** Bạn chia sẻ tổng quỹ với những người thắng khác (trừ phí 3%)
+* **Thua:** Bạn mất toàn bộ số tiền cược
 
-**Special Cases**:
+**Trường hợp đặc biệt**:
 
-* **Tie** (Locked Price = Closed Price): House wins all bets.
-* If there are no opposing bets:
-  * If you win: reclaim 97% of your initial bet (3% fee applies).
-  * If you lose: forfeits your full bet to the house.
-* **Cancelled:** e.g. Oracle failure, users are refunded their initial bet amount
+* **Hòa** (Giá Khóa = Giá Đóng): Nhà cái thắng tất cả cược.
+* Nếu không có cược đối lập:
+  * Nếu bạn thắng: lấy lại 97% tiền cược ban đầu (phí 3% áp dụng).
+  * Nếu bạn thua: mất toàn bộ tiền cược về nhà cái.
+* **Bị hủy:** ví dụ: lỗi Oracle, người dùng được hoàn lại số tiền cược ban đầu
 
-### Price Feeds (Oracles)
+### Nguồn cấp giá (Oracle)
 
-| Chain     | Markets                                  | Purpose                                                                 | Oracle                     |
-| --------- | ---------------------------------------- | ----------------------------------------------------------------------- | -------------------------- |
-| BNB Chain | BNBUSD, BTCUSD, ETHUSD, CAKEUSD (paused) | Sets the _Lock Price_ and _Closed Price_ (updated \~ up to 20 seconds). | **Chainlink**              |
-| BNB Chain | All                                      | Powers the live chart on the UI (for reference only).                   | Binance / TradingView Feed |
+| Chuỗi     | Thị trường                                | Mục đích                                                                      | Oracle                     |
+| --------- | ----------------------------------------- | ----------------------------------------------------------------------------- | -------------------------- |
+| BNB Chain | BNBUSD, BTCUSD, ETHUSD, CAKEUSD (tạm dừng) | Đặt _Giá Khóa_ và _Giá Đóng_ (cập nhật \~ tối đa 20 giây).                  | **Chainlink**              |
+| BNB Chain | Tất cả                                    | Cung cấp biểu đồ trực tiếp trên giao diện người dùng (chỉ để tham khảo).     | Binance / TradingView Feed |
 
-#### **ChainLink Oracle**
+#### **Oracle ChainLink**
 
-* Used for the Lock price and End price of each prediction market round. This updates in intervals of up to 20 seconds.
-* Our prediction contract uses the ChainLink Oracle price feed on BNB Chain to set the prices used to dictate whether a user has won or not.
-* Used for the "Chainlink" chart on the interface.
+* Được dùng cho giá Khóa và giá Kết thúc của mỗi vòng thị trường dự đoán. Cập nhật theo khoảng thời gian tối đa 20 giây.
+* Hợp đồng dự đoán của chúng tôi sử dụng nguồn cấp giá Oracle ChainLink trên BNB Chain để đặt các giá quyết định người dùng có thắng hay không.
+* Được dùng cho biểu đồ "Chainlink" trên giao diện.
 
 #### **Binance**
 
-* Used for real-time price updates on the PancakeSwap prediction market interface.
-* Used for the "TradingView" chart on the interface.
+* Được dùng để cập nhật giá theo thời gian thực trên giao diện thị trường dự đoán PancakeSwap.
+* Được dùng cho biểu đồ "TradingView" trên giao diện.
 
-Since we’re using two different price feeds, the real-time price updates from Binance and the ChainLink Oracle price may differ by a small amount. However, they shouldn’t vary significantly.
+Vì chúng tôi đang dùng hai nguồn cấp giá khác nhau, cập nhật giá theo thời gian thực từ Binance và giá Oracle ChainLink có thể khác nhau một chút. Tuy nhiên, chúng không nên chênh lệch đáng kể.
 
-### Contract Addresses
+### Địa chỉ hợp đồng
 
 BNB Chain:
 

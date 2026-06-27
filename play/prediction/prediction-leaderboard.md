@@ -1,29 +1,29 @@
-# Prediction - Leaderboard
+# Dự đoán - Bảng xếp hạng
 
-The **Prediction Leaderboard** highlights the top participants in PancakeSwap Prediction.\
-It allows players to see how they rank against others based on different metrics.
+**Bảng xếp hạng Dự đoán** làm nổi bật những người tham gia hàng đầu trong PancakeSwap Prediction.\
+Nó cho phép người chơi xem thứ hạng của họ so với người khác dựa trên các tiêu chí khác nhau.
 
-> **Note**: A wallet must participate in at least **10 rounds** to appear on the leaderboard by default.\
-> Specific wallet addresses can still be searched manually.
+> **Lưu ý**: Một ví phải tham gia ít nhất **10 vòng** để xuất hiện trên bảng xếp hạng theo mặc định.\
+> Các địa chỉ ví cụ thể vẫn có thể được tìm kiếm thủ công.
 
-### How to Use the Leaderboard
+### Cách Sử Dụng Bảng Xếp Hạng
 
-1.  **Access the Leaderboard** directly from the Prediction page.
+1.  **Truy cập Bảng xếp hạng** trực tiếp từ trang Dự đoán.
 
-    <figure><img src="../../.gitbook/assets/image (454).png" alt=""><figcaption></figcaption></figure>
-2. **Filter by Token**
-   * Choose the market (BNB, BTC, ETH) you want to view top players for.
-3. **Sort by Ranking Criteria**
-   * **Rounds Played**: Total number of rounds a user has participated in.
-   * **Net Winnings**: Total tokens won from successful predictions, after the 3% fee is deducted.
-   * **Total BNB**: Aggregate amount of BNB used for predictions.
-   * **Win Rate**: Ratio of rounds won to total rounds participated.
-4.  **Search by Wallet Address**
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28454%29.png" alt=""><figcaption></figcaption></figure>
+2. **Lọc theo Token**
+   * Chọn thị trường (BNB, BTC, ETH) bạn muốn xem người chơi hàng đầu.
+3. **Sắp xếp theo Tiêu chí Xếp hạng**
+   * **Số vòng đã chơi**: Tổng số vòng người dùng đã tham gia.
+   * **Tiền thắng ròng**: Tổng token thắng được từ các dự đoán thành công, sau khi trừ phí 3%.
+   * **Tổng BNB**: Tổng lượng BNB đã sử dụng cho các dự đoán.
+   * **Tỷ lệ thắng**: Tỷ lệ vòng thắng trên tổng vòng đã tham gia.
+4.  **Tìm kiếm theo Địa chỉ Ví**
 
-    * Enter a wallet address to display its scorecard, even if it does not meet the 10-round threshold.
+    * Nhập địa chỉ ví để hiển thị bảng điểm của nó, ngay cả khi không đạt ngưỡng 10 vòng.
 
-    <figure><img src="../../.gitbook/assets/image (455).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28455%29.png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../../.gitbook/assets/image (456).png" alt="" width="384"><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28456%29.png" alt="" width="384"><figcaption></figcaption></figure>
 
 ***

@@ -1,65 +1,65 @@
-# Prediction Mini App
+# Mini App Dự đoán
 
-### What is mini app?
+### Mini app là gì?
 
-Telegram mini app allows you to quickly access PancakeSwap features within Telegram.
+Telegram mini app cho phép bạn nhanh chóng truy cập các tính năng PancakeSwap trong Telegram.
 
-### How to connect my wallet?
+### Làm thế nào để kết nối ví của tôi?
 
 {% tabs %}
 {% tab title="Desktop" %}
-**Use MetaMask**
+**Dùng MetaMask**
 
-You can connect your mobile MetaMask wallet to the desktop Telegram mini app using QR code. To connect, choose “MetaMask”, click “Mobile”, and scan the QR code using MetaMask on your phone.
+Bạn có thể kết nối ví MetaMask di động của mình với Telegram mini app trên desktop bằng mã QR. Để kết nối, chọn "MetaMask", nhấp "Mobile" và quét mã QR bằng MetaMask trên điện thoại của bạn.
 
-**Use WalletConnect**
+**Dùng WalletConnect**
 
-You can connect any mobile wallet to the desktop Telegram mini app using QR code. To connect, choose “WalletConnect”, click QR code, and scan the QR code using the mobile on your phone.
+Bạn có thể kết nối bất kỳ ví di động nào với Telegram mini app trên desktop bằng mã QR. Để kết nối, chọn "WalletConnect", nhấp mã QR và quét mã QR bằng di động của bạn.
 
 {% hint style="warning" %}
-“Desktop” option for MetaMask is not functional. You can only connect mobile MetaMask to desktop Telegram mini app.
+Tùy chọn "Desktop" cho MetaMask không hoạt động. Bạn chỉ có thể kết nối MetaMask di động với Telegram mini app trên desktop.
 {% endhint %}
 {% endtab %}
 
 {% tab title="iPhone" %}
-**Use MetaMask**
+**Dùng MetaMask**
 
-You can connect your MetaMask wallet to your Telegram mini app. To connect, choose “MetaMask”. If a prompt appear to ask if you want to be taken to the MetaMask app, click Open. Then follow the instructions in the MetaMask app to connect.
+Bạn có thể kết nối ví MetaMask của mình với Telegram mini app. Để kết nối, chọn "MetaMask". Nếu có thông báo hỏi bạn có muốn chuyển sang ứng dụng MetaMask không, nhấp Open. Sau đó làm theo hướng dẫn trong ứng dụng MetaMask để kết nối.
 
-**Use WalletConnect**
+**Dùng WalletConnect**
 
-You can connect any supported mobile wallet to your Telegram mini app. To connect, choose “WalletConnect”, click “View All”, and select your wallet. If a prompt appear to ask if you want to be taken to the wallet app, click Open. Then follow the instructions in the wallet app to connect.
+Bạn có thể kết nối bất kỳ ví di động được hỗ trợ nào với Telegram mini app. Để kết nối, chọn "WalletConnect", nhấp "View All" và chọn ví của bạn. Nếu có thông báo hỏi bạn có muốn chuyển sang ứng dụng ví không, nhấp Open. Sau đó làm theo hướng dẫn trong ứng dụng ví để kết nối.
 {% endtab %}
 
 {% tab title="Android" %}
-**Use MetaMask**
+**Dùng MetaMask**
 
-You can connect your MetaMask wallet to your Telegram mini app. To connect, choose “MetaMask”. You will be redirected to MetaMask, then simply follow the instructions in the MetaMask app to connect.
+Bạn có thể kết nối ví MetaMask của mình với Telegram mini app. Để kết nối, chọn "MetaMask". Bạn sẽ được chuyển hướng đến MetaMask, sau đó chỉ cần làm theo hướng dẫn trong ứng dụng MetaMask để kết nối.
 
-**Use WalletConnect**
+**Dùng WalletConnect**
 
-You can connect any supported mobile wallet to your Telegram mini app. To connect, choose “WalletConnect”, click “View All”, and select your wallet. You will be redirected to the wallet app, then follow the instructions in the wallet app to connect.
+Bạn có thể kết nối bất kỳ ví di động được hỗ trợ nào với Telegram mini app. Để kết nối, chọn "WalletConnect", nhấp "View All" và chọn ví của bạn. Bạn sẽ được chuyển hướng đến ứng dụng ví, sau đó làm theo hướng dẫn trong ứng dụng ví để kết nối.
 
 {% hint style="warning" %}
-Wallet Connect may not work on some of the Android phones. In that case, please connect via other methods.
+Wallet Connect có thể không hoạt động trên một số điện thoại Android. Trong trường hợp đó, vui lòng kết nối bằng các phương thức khác.
 {% endhint %}
 {% endtab %}
 {% endtabs %}
 
-### Which PancakeSwap Market is supported?
+### Thị trường PancakeSwap nào được hỗ trợ?
 
-Currently the mini app supports the BNBUSD market on BNB Chain.
+Hiện tại mini app hỗ trợ thị trường BNBUSD trên BNB Chain.
 
-### How do I sign and confirm transactions for mini app?
+### Làm thế nào để tôi ký và xác nhận giao dịch trong mini app?
 
-You will need to sign and execute transactions in your connected wallet app.
+Bạn sẽ cần ký và thực hiện các giao dịch trong ứng dụng ví đã kết nối.
 
 {% hint style="warning" %}
-On iPhone, you may need to manually switch between wallet apps and Telegram. Please follow the onscreen instructions.
+Trên iPhone, bạn có thể cần chuyển đổi thủ công giữa ứng dụng ví và Telegram. Vui lòng làm theo hướng dẫn trên màn hình.
 {% endhint %}
 
-### Can I use my extension wallets on Desktop?
+### Tôi có thể dùng ví extension trên Desktop không?
 
-Unfortunately Telegram mini app only supports mobile wallets at the moment.
+Rất tiếc, Telegram mini app hiện tại chỉ hỗ trợ ví di động.
 
 <br>

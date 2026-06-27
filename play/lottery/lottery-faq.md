@@ -1,80 +1,80 @@
-# Lottery FAQ
+# FAQ Xổ số
 
-## What if there are no winners?
+## Nếu không có người thắng thì sao?
 
-If CAKE in the prize pools isn't won it doesn't go to waste! Unclaimed CAKE rolls over to the next Lottery round.
+Nếu CAKE trong quỹ thưởng không được thắng, nó sẽ không bị lãng phí! CAKE chưa được nhận sẽ được chuyển sang vòng Xổ số tiếp theo.
 
-## My ticket matches several numbers but I can't claim a prize
+## Vé của tôi khớp nhiều số nhưng tôi không thể nhận giải thưởng
 
-Tickets are only eligible for prizes if matching numbers from left to right. See the [Lottery v2 documentation](./) for a thorough explanation.
+Vé chỉ đủ điều kiện nhận giải thưởng khi các số khớp từ trái sang phải. Xem [tài liệu Lottery v2](./) để có giải thích chi tiết.
 
-## How is Lottery v2 different from Lottery v1?
+## Lottery v2 khác Lottery v1 như thế nào?
 
-Lottery v2 distributes prizes more widely than Lottery v1. It gives each ticket a 1 in 10 chance to match the first number, which means more tickets will at least win a small prize. It also has 6 (up from 4) numbers that need to be matched sequentially to win the biggest prize.
+Lottery v2 phân bổ giải thưởng rộng rãi hơn Lottery v1. Lottery v2 cho mỗi vé cơ hội 1/10 để khớp số đầu tiên, nghĩa là nhiều vé hơn sẽ ít nhất thắng một phần thưởng nhỏ. Ngoài ra còn có 6 số (tăng từ 4) cần khớp theo thứ tự để giành giải lớn nhất.
 
-Overall this means more tickets can win a prize, but the largest prize jackpot will be won less frequently, making for huge top prize pools!
+Nhìn chung, điều này có nghĩa là nhiều vé hơn có thể thắng giải, nhưng jackpot lớn nhất sẽ được trúng ít thường xuyên hơn, tạo ra các quỹ giải thưởng hàng đầu khổng lồ!
 
-**Lottery v2 introduces:**
+**Lottery v2 giới thiệu:**
 
-* cheaper ticket prices (\~$5 USD in CAKE per ticket) that don't swing wildly with the price of CAKE
-* bulk ticket discounts
-* 6-tiered prize pool brackets with increasing prize pools as more numbers are matched
-* manual number selection (optional), so users can use their lucky numbers
-* [Chainlink’s implementation of VRF](https://docs.chain.link/docs/chainlink-vrf/) for true, secure randomness
-* lower overall fees (see [lower down this page](lottery-faq.md#what-transaction-fee-will-i-pay-for-buying-tickets) for more information)
+* giá vé rẻ hơn (\~$5 USD tính bằng CAKE mỗi vé) không dao động mạnh theo giá CAKE
+* chiết khấu khi mua số lượng lớn
+* 6 hạng quỹ giải thưởng với phần thưởng tăng dần khi khớp nhiều số hơn
+* chọn số thủ công (tùy chọn), để người dùng có thể dùng số may mắn của mình
+* [VRF của Chainlink](https://docs.chain.link/docs/chainlink-vrf/) để đảm bảo tính ngẫu nhiên thực sự và bảo mật
+* phí tổng thể thấp hơn (xem [phần bên dưới trang này](lottery-faq.md#what-transaction-fee-will-i-pay-for-buying-tickets) để biết thêm thông tin)
 
-[Learn more about Lottery v2 features, gameplay, and prizes](./)
+[Tìm hiểu thêm về tính năng, cách chơi và giải thưởng của Lottery v2](./)
 
-## How are prizes broken down between brackets?
+## Giải thưởng được phân bổ giữa các hạng như thế nào?
 
-Each bracket's prize pool is a portion of the total CAKE in each Lottery round.
+Quỹ giải thưởng của mỗi hạng là một phần của tổng CAKE trong mỗi vòng Xổ số.
 
-* | Bracket (numbers matched in order) | CAKE Allocation |
-  | ---------------------------------- | --------------- |
-  | First 1 number                     | 2%              |
-  | First 2 numbers                    | 3%              |
-  | First 3 numbers                    | 5%              |
-  | First 4 numbers                    | 10%             |
-  | First 5 numbers                    | 20%             |
-  | First 6 numbers                    | 40%             |
-  | Burn                               | 20%             |
+* | Hạng (số khớp theo thứ tự) | Phân bổ CAKE |
+  | -------------------------- | ------------ |
+  | 1 số đầu tiên              | 2%           |
+  | 2 số đầu tiên              | 3%           |
+  | 3 số đầu tiên              | 5%           |
+  | 4 số đầu tiên              | 10%          |
+  | 5 số đầu tiên              | 20%          |
+  | 6 số đầu tiên              | 40%          |
+  | Đốt                        | 20%          |
 
-## Can I swap my tickets back to CAKE?
+## Tôi có thể hoán đổi vé của mình trở lại thành CAKE không?
 
-No, once purchased you will not be able to convert your ticket back to CAKE.
+Không, sau khi đã mua bạn sẽ không thể chuyển đổi vé của mình trở lại thành CAKE.
 
-## If I win, do I need to manually claim the prize?
+## Nếu thắng, tôi có cần nhận thưởng thủ công không?
 
-Yes, you will need to click the **Check Now** button under "Are you a winner?" on the Lottery page.
+Có, bạn sẽ cần nhấp vào nút **Check Now** trong mục "Are you a winner?" trên trang Xổ số.
 
-![](<../../.gitbook/assets/image (68).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2868%29.png)
 
-## How often is the lottery?
+## Tần suất xổ số là bao lâu?
 
-A lottery draw occurs every 12 or 36 hours. One lottery draw occurs every day alternating between 0 AM UTC and 12 PM UTC, next rounds after the 0 AM UTC rounds will be after 36 hours, next rounds after the 12 PM UTC rounds will be after 12 hours.
+Một lần quay số xổ số diễn ra mỗi 12 hoặc 36 giờ. Mỗi ngày có một lần quay số xổ số luân phiên giữa 0 giờ sáng UTC và 12 giờ trưa UTC, các vòng tiếp theo sau vòng 0 giờ sáng UTC sẽ là sau 36 giờ, các vòng tiếp theo sau vòng 12 giờ trưa UTC sẽ là sau 12 giờ.
 
-![Lottery injection schedule](<../../.gitbook/assets/Lottery Schedule Update Feb 4.png>)
+![Lottery injection schedule](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Lottery%20Schedule%20Update%20Feb%204.png)
 
-## What transaction fee will I pay for buying tickets?
+## Tôi sẽ phải trả phí giao dịch bao nhiêu khi mua vé?
 
-Every ticket purchase you make will be one transaction. Purchasing a single ticket in a Lottery purchase will cost the normal amount of fees for a transaction.
+Mỗi lần mua vé là một giao dịch. Mua một vé trong một lần mua sẽ tốn phí giao dịch thông thường.
 
-However, buying more tickets in that purchase will increase the fee. Buying 100 tickets rather than 1 will not multiply the fee by 100, but may increase the fee amount by 5-6 times (though this varies).
+Tuy nhiên, mua nhiều vé hơn trong lần mua đó sẽ tăng phí. Mua 100 vé thay vì 1 vé sẽ không nhân phí lên 100 lần, nhưng có thể tăng phí khoảng 5-6 lần (mặc dù điều này có thể khác nhau).
 
-## How does the bulk discount work?
+## Chiết khấu mua số lượng lớn hoạt động như thế nào?
 
-The bulk discount rewards buying larger amounts of tickets with a scaling discount. If you're only buying 2 tickets, the discount is negligible, but will add up quickly as you increase the number of tickets to buy in one transaction.
+Chiết khấu mua số lượng lớn thưởng cho việc mua nhiều vé hơn với mức chiết khấu tăng dần. Nếu bạn chỉ mua 2 vé, mức chiết khấu không đáng kể, nhưng sẽ tăng nhanh khi bạn tăng số lượng vé mua trong một giao dịch.
 
-The discount only applies to each transaction up to 100 tickets. The discount does not carry over to the next transaction or next round.
+Chiết khấu chỉ áp dụng cho từng giao dịch tối đa 100 vé. Chiết khấu không chuyển sang giao dịch tiếp theo hay vòng tiếp theo.
 
-## Why can I only buy 100 tickets?
+## Tại sao tôi chỉ có thể mua 100 vé?
 
-You can only buy a maximum of 100 tickets in one purchase, but you can make multiple purchases. There's nothing to stop you buying more tickets after your first 100.
+Bạn chỉ có thể mua tối đa 100 vé trong một lần mua, nhưng bạn có thể thực hiện nhiều lần mua. Không có gì ngăn bạn mua thêm vé sau 100 vé đầu tiên.
 
-## If I manually create two or more tickets with the same numbers and they win, am I eligible for prizes for each ticket?
+## Nếu tôi tự tạo hai hay nhiều vé có cùng số và chúng thắng, tôi có đủ điều kiện nhận giải cho từng vé không?
 
-Yes, each ticket is treated as a separate entry to the Lottery. Keep in mind that the prizes will not be 1:1 though, as each winning ticket you have dilutes each share of the bracket's total prizes.
+Có, mỗi vé được coi là một lần tham gia riêng biệt vào Xổ số. Tuy nhiên, hãy lưu ý rằng giải thưởng sẽ không theo tỷ lệ 1:1, vì mỗi vé thắng của bạn sẽ làm giảm phần của từng vé trong tổng giải thưởng của hạng.
 
-## Injection schedule: When is CAKE added to the lottery?
+## Lịch bổ sung: CAKE được thêm vào Xổ số khi nào?
 
-When people buy tickets, the CAKE they spend is added to the lottery pot. In addition, 8,000 CAKE is also added (injected) to the lottery pot every other round on a regular schedule over the course of seven rounds per week as shown above in the lottery schedule figure.
+Khi mọi người mua vé, CAKE họ chi tiêu được thêm vào quỹ xổ số. Ngoài ra, 8.000 CAKE cũng được thêm vào (bổ sung) quỹ xổ số mỗi vòng cách nhau theo lịch đều đặn trong suốt bảy vòng mỗi tuần như thể hiện trong hình lịch xổ số ở trên.

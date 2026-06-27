@@ -1,33 +1,33 @@
-# Prediction FAQ
+# FAQ Dự đoán
 
 {% hint style="info" %}
-Use the sidebar to quickly find the answers to your questions!
+Dùng thanh điều hướng bên để nhanh chóng tìm câu trả lời cho câu hỏi của bạn!
 {% endhint %}
 
-## A) General Questions
+## A) Câu hỏi chung
 
-### **1. What are the fees?**
+### **1. Phí là bao nhiêu?**
 
-3% of each round's total pot will go to the treasury, of which 100% will be used to buyback and burn CAKE.
+3% tổng quỹ của mỗi vòng sẽ đi vào kho bạc, trong đó 100% sẽ được dùng để mua lại và đốt CAKE.
 
-### 2. How is the payout calculated?
+### 2. Tỷ lệ thanh toán được tính như thế nào?
 
-* Payout Ratio for UP Pool = Total Value of Both Pools ÷ Value of UP Pool
-* Payout Ratio for DOWN Pool = Total Value of Both Pools ÷ Value of DOWN Pool
+* Tỷ lệ thanh toán cho Bể LÊN = Tổng giá trị cả hai bể ÷ Giá trị Bể LÊN
+* Tỷ lệ thanh toán cho Bể XUỐNG = Tổng giá trị cả hai bể ÷ Giá trị Bể XUỐNG
 
-**Example - Bet 2 BNB "DOWN", outcome = "DOWN":**
+**Ví dụ - Đặt cược 2 BNB "XUỐNG", kết quả = "XUỐNG":**
 
-* DOWN side = 15 BNB, total prize pool = 150 BNB&#x20;
-* DOWN payout ratio = 150 BNB / 15 BNB = 10x
-* Payout Amount = Payout Ratio × Position × (1 - Treasury Fee)
-  * If you bet 2 BNB on DOWN, payout = (2 × 10) × (1 − 0.03) = 19.4 BNB
-* Profit = 19.4 − 2 = 17.4 BNB
+* Phía XUỐNG = 15 BNB, tổng quỹ thưởng = 150 BNB&#x20;
+* Tỷ lệ thanh toán XUỐNG = 150 BNB / 15 BNB = 10x
+* Số tiền thanh toán = Tỷ lệ thanh toán × Vị thế × (1 - Phí kho bạc)
+  * Nếu bạn đặt 2 BNB vào XUỐNG, thanh toán = (2 × 10) × (1 − 0,03) = 19,4 BNB
+* Lợi nhuận = 19,4 − 2 = 17,4 BNB
 
-### 3. Is there a time limit before I can collect my winnings?
+### 3. Có giới hạn thời gian trước khi tôi có thể thu thập tiền thắng không?
 
-No, you’ll be able to collect your winnings at any time in the future.
+Không, bạn sẽ có thể thu thập tiền thắng vào bất kỳ lúc nào trong tương lai.
 
-### 4. What’s the PancakeSwap Prediction contract address?
+### 4. Địa chỉ hợp đồng PancakeSwap Prediction là gì?
 
 **BNB Chain**
 
@@ -37,149 +37,148 @@ No, you’ll be able to collect your winnings at any time in the future.
 
 
 
-## B) Positions & Results
+## B) Vị thế & Kết quả
 
-### 1. **Can I change or remove my position?**
+### 1. **Tôi có thể thay đổi hay hủy vị thế của mình không?**
 
-No. Once you enter a position, you can NOT change the direction, add to, or remove your position. It's locked in, so make sure you're 100% happy with your position direction before confirming. &#x20;
+Không. Sau khi bạn đã nhập vị thế, bạn KHÔNG THỂ thay đổi hướng, thêm vào hay rút vị thế của mình. Nó đã bị khóa, vì vậy hãy đảm bảo bạn hoàn toàn hài lòng với hướng vị thế của mình trước khi xác nhận. &#x20;
 
-### 2. When will markets be cancelled? What happens then?
+### 2. Khi nào thị trường bị hủy? Điều gì xảy ra lúc đó?
 
-* **When:** Oracle or backend service failure, or other extraneous circumstances.
-* **Outcome:** Users can claim 100% of their original bet amount (no fee).
+* **Khi nào:** Oracle hoặc dịch vụ backend bị lỗi, hoặc các tình huống bất thường khác.
+* **Kết quả:** Người dùng có thể nhận lại 100% số tiền cược ban đầu (không phí).
 
-### 3. The round's result changed after the round ended! Why?
+### 3. Kết quả vòng thay đổi sau khi vòng kết thúc! Tại sao?
 
-Sometimes, after a round closes, the final result may be different from the last result shown while the round was live. If you watch a round end on "DOWN", it may appear to flip to "UP" a few seconds later.
+Đôi khi, sau khi một vòng đóng, kết quả cuối cùng có thể khác với kết quả cuối cùng được hiển thị trong khi vòng đang diễn ra. Nếu bạn xem một vòng kết thúc với "XUỐNG", nó có thể dường như lật sang "LÊN" vài giây sau.
 
-This is because we use the Oracle price feed to determine the final outcome of a round. The period between the end of one round and the start of the next is 30 seconds, but the Oracle refreshes every 20 seconds. It's possible that during this short period, the Oracle might send an update while the transaction to trigger the next round is being minted. This can appear to "flip" the outcome of the previous round.
+Điều này xảy ra vì chúng tôi sử dụng nguồn cấp giá Oracle để xác định kết quả cuối cùng của một vòng. Khoảng thời gian giữa khi một vòng kết thúc và vòng tiếp theo bắt đầu là 30 giây, nhưng Oracle làm mới mỗi 20 giây. Có thể trong khoảng thời gian ngắn này, Oracle có thể gửi cập nhật trong khi giao dịch để kích hoạt vòng tiếp theo đang được đào. Điều này có thể khiến kết quả của vòng trước bị "lật".
 
-### 4. What is Locked Price & Closed Price?
+### 4. Giá Khóa & Giá Đóng là gì?
 
-* **Locked Price:** Price at the start of the LIVE phase.
-* **Closed Price:** Price at the end of the round, used to determine winners.
+* **Giá Khóa:** Giá vào đầu giai đoạn LIVE.
+* **Giá Đóng:** Giá vào cuối vòng, được dùng để xác định người thắng.
 
-**Example – Round 400 (BNB Prediction):**
+**Ví dụ – Vòng 400 (Dự đoán BNB):**
 
-1. **12:00–12:05:** Place Bet → User bets 0.1 BNB on "UP"
-2. **12:05–12:10:** Lock Phase → Locked Price = $850
-3. **12:10:** Close Phase → Closed Price = $860
-4. **Result: "UP"** bet wins
+1. **12:00–12:05:** Đặt cược → Người dùng đặt 0,1 BNB vào "LÊN"
+2. **12:05–12:10:** Giai đoạn Khóa → Giá Khóa = $850
+3. **12:10:** Giai đoạn Đóng → Giá Đóng = $860
+4. **Kết quả: Cược "LÊN"** thắng
 
-**Notes:**
+**Lưu ý:**
 
-* Oracle price may take up to 20 seconds to update.
-* House win: All bets goes to the House
+* Giá Oracle có thể mất tối đa 20 giây để cập nhật.
+* Nhà cái thắng: Tất cả cược đi về nhà cái
 
-### 5. What situations are considered a HOUSE WIN?
+### 5. Những tình huống nào được coi là NHÀ CÁI THẮNG?
 
-**Scenarios:**
+**Các tình huống:**
 
-1. No opposing bets exist and the user loses (e.g., only one user bets UP and outcome = DOWN)
-2. Locked Price = Closed Price
+1. Không có cược đối lập và người dùng thua (ví dụ: chỉ có một người dùng đặt LÊN và kết quả = XUỐNG)
+2. Giá Khóa = Giá Đóng
 
-**What happens:**
+**Điều gì xảy ra:**
 
-* PancakeSwap takes 100% of the pool; all funds go to CAKE burn.
-* Users on either side lose their initial bet amount.
+* PancakeSwap nhận 100% bể; tất cả quỹ đi vào đốt CAKE.
+* Người dùng ở cả hai phía đều mất số tiền cược ban đầu.
 
-**Example - No opposing bets:**
+**Ví dụ - Không có cược đối lập:**
 
-* User A bets UP, no DOWN bets exist, outcome = DOWN → User A loses; 100% of funds go to treasury.
-* User B bets UP, no DOWN bets exist, outcome = UP → User B reclaims 97% of deposit.
-
-
-
-## C) Market Pauses
-
-### 1. What does it mean when markets are paused?
-
-Markets are paused when there are conditions which affect the reliability of the contract. Markets being paused means that no bets will be taking place for any rounds.
-
-### 2. What causes PancakeSwap Prediction market to pause?
-
-The prediction market will pause under the following conditions:
-
-1. The prediction contract has been unable to obtain the price from the ChainLink oracle due to the oracle not having posted the price at the time the round has ended.
-2. The prediction contract has been unable to execute an action (ending a round or getting a price from the oracle) due to the tx being stuck in the mempool for longer than 15 blocks.
-3. PancakeSwap has decided to discontinue prediction for that market / asset.
-
-### 3. What happens to my position if the market pauses?
-
-If the markets pause while you have a live position, your funds will be available to reclaim, the same way as you would normally claim your winnings.
-
-To reclaim funds, you’ll need to pay some gas fees. We can’t compensate you for the gas fees, so please bear this small risk in mind before participating.
-
-### 4. When will the markets resume after being paused?
-
-The markets will resume when an admin (one of the chefs) manually resumes the market.
+* Người dùng A đặt LÊN, không có cược XUỐNG, kết quả = XUỐNG → Người dùng A thua; 100% quỹ đi vào kho bạc.
+* Người dùng B đặt LÊN, không có cược XUỐNG, kết quả = LÊN → Người dùng B lấy lại 97% tiền gửi.
 
 
 
-## D) Troubleshooting & Claims
+## C) Tạm dừng thị trường
 
-### 1. How do I claim past winnings from the CAKEUSD market on BNB Chain?&#x20;
+### 1. Thị trường bị tạm dừng có nghĩa là gì?
 
-* Go to [https://pancakeswap.finance/prediction?token=CAKE\&chain=bsc](https://pancakeswap.finance/prediction?token=CAKE\&chain=bsc)
-* Check the history tab for historical round winnings
+Thị trường bị tạm dừng khi có các điều kiện ảnh hưởng đến độ tin cậy của hợp đồng. Thị trường bị tạm dừng có nghĩa là sẽ không có cược nào diễn ra cho bất kỳ vòng nào.
 
-### 2. Why can’t I see my winnings in my wallet?
+### 2. Điều gì khiến thị trường PancakeSwap Prediction tạm dừng?
 
-When you collect winnings, they might not appear in your wallet’s transaction logs as usual.\
-This is because they use a different type of transaction: Internal transactions.\
-Enter your wallet address on BscScan, then check the “Internal Txns” tab to confirm that they’ve arrived.\
+Thị trường dự đoán sẽ tạm dừng trong các điều kiện sau:
+
+1. Hợp đồng dự đoán không thể lấy giá từ oracle ChainLink do oracle chưa đăng giá vào thời điểm vòng kết thúc.
+2. Hợp đồng dự đoán không thể thực hiện một hành động (kết thúc vòng hoặc lấy giá từ oracle) do giao dịch bị kẹt trong mempool quá 15 block.
+3. PancakeSwap đã quyết định ngừng dự đoán cho thị trường/tài sản đó.
+
+### 3. Điều gì xảy ra với vị thế của tôi nếu thị trường tạm dừng?
+
+Nếu thị trường tạm dừng khi bạn đang có vị thế đang diễn ra, quỹ của bạn sẽ có thể được lấy lại, theo cách tương tự như bạn thường nhận tiền thắng.
+
+Để lấy lại quỹ, bạn sẽ cần trả một số phí gas. Chúng tôi không thể bồi thường cho bạn phí gas, vì vậy hãy lưu ý rủi ro nhỏ này trước khi tham gia.
+
+### 4. Khi nào thị trường sẽ tiếp tục sau khi tạm dừng?
+
+Thị trường sẽ tiếp tục khi một admin (một trong các đầu bếp) khởi động lại thị trường theo cách thủ công.
+
+
+
+## D) Xử lý sự cố & Yêu cầu
+
+### 1. Làm thế nào để nhận tiền thắng cũ từ thị trường CAKEUSD trên BNB Chain?&#x20;
+
+* Truy cập [https://pancakeswap.finance/prediction?token=CAKE\&chain=bsc](https://pancakeswap.finance/prediction?token=CAKE\&chain=bsc)
+* Kiểm tra tab lịch sử để xem tiền thắng từ các vòng lịch sử
+
+### 2. Tại sao tôi không thể thấy tiền thắng trong ví của mình?
+
+Khi bạn thu thập tiền thắng, chúng có thể không xuất hiện trong nhật ký giao dịch của ví bạn như thường lệ.\
+Điều này là vì chúng sử dụng loại giao dịch khác: Giao dịch nội bộ.\
+Nhập địa chỉ ví của bạn trên BscScan, sau đó kiểm tra tab "Internal Txns" để xác nhận chúng đã đến.\
 ![](https://lh5.googleusercontent.com/9NoIvK-oztyEaizCfgrj-poPIP_uWeFDYsa0_nxN3sKUiIwFdACy_BemrtRLJn-ZkyW3LprfRn4s9lL24BOGb-I-t1vHoh5wkuTx7bObHQl5sS7xPmuZEOTVPUXr7LPNAfPfqr12)
 
-### 3. Why aren't the results of my round showing?
+### 3. Tại sao kết quả vòng của tôi không hiển thị?
 
-There’s a 15 block buffer on each round, which can cause delays of up to 45 seconds after the end of a round.\
-This buffer is to accommodate for the fact that we may not be able to reliably fetch a price and end a round immediately: various blockchain factors affect the speed in which transactions get confirmed on the network.
+Có bộ đệm 15 block trên mỗi vòng, có thể gây ra độ trễ lên đến 45 giây sau khi vòng kết thúc.\
+Bộ đệm này là để phù hợp với thực tế rằng chúng tôi có thể không lấy được giá một cách đáng tin cậy và kết thúc vòng ngay lập tức: các yếu tố blockchain khác nhau ảnh hưởng đến tốc độ xác nhận giao dịch trên mạng.
 
-### 4. I can’t collect my winnings, what should I do?
+### 4. Tôi không thể thu thập tiền thắng, tôi phải làm gì?
 
-Make sure you have enough BNB in your wallet to pay for gas fees. You’ll need a little BNB to trigger the smart contract.
+Hãy đảm bảo bạn có đủ BNB trong ví để trả phí gas. Bạn cần một ít BNB để kích hoạt hợp đồng thông minh.
 
-### **5. What if I can't claim winnings from the website?**
+### **5. Nếu tôi không thể nhận tiền thắng từ trang web thì sao?**
 
-You might be able to claim your winnings directly from the contract. Follow the steps in the 3 tabs below.
+Bạn có thể nhận tiền thắng trực tiếp từ hợp đồng. Hãy làm theo các bước trong 3 tab bên dưới.
 
 {% tabs %}
-{% tab title="Check rounds you played" %}
-How to check the history of rounds you played
+{% tab title="Kiểm tra các vòng bạn đã chơi" %}
+Cách kiểm tra lịch sử các vòng bạn đã chơi
 
-1. Go to BscScan page of the [Prediction contract](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (e.g. BNBUSD).
-2. Scroll down to “8. getUserRounds”.
-3. Type in your wallet address under “user(address)”.
-4. Set “cursor(uint256)" to 0 and “size(uint256)" to 1000.
-5. Tap “Query”
-6. Rounds you entered will show below in the first row. (after “uint256\[]:”)
+1. Truy cập trang BscScan của [hợp đồng Dự đoán](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (ví dụ: BNBUSD).
+2. Kéo xuống "8. getUserRounds".
+3. Nhập địa chỉ ví của bạn vào "user(address)".
+4. Đặt "cursor(uint256)" là 0 và "size(uint256)" là 1000.
+5. Nhấn "Query"
+6. Các vòng bạn đã tham gia sẽ hiển thị bên dưới ở hàng đầu tiên. (sau "uint256\[]:")
 {% endtab %}
 
-{% tab title="Check if you can claim" %}
-First, check whether you should actually be able to claim from the round you played.
+{% tab title="Kiểm tra xem bạn có thể nhận không" %}
+Đầu tiên, kiểm tra xem bạn có thực sự có thể nhận từ vòng bạn đã chơi không.
 
-1. Go to BscScan page of the [Prediction contract](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (e.g. BNBUSD), and go to the Read tab
-2. Scroll down to “4. claimable”.
-3. Type in the round id you want to check under "epoch(uint256)”.
-4. Type in your wallet address under “user(address)”.
-5. Tap “Query”
-6. If a round is claimable, it will show “true”.
-7. If the result is "false". Please repeat the above steps and try with "19. refundable".&#x20;
-8. Note: ⬆️ If you see a round returns "false" on both "4. claimable" and "19. refundable", but it shows on the website, it's probably been claimed already and the website is lagging.
+1. Truy cập trang BscScan của [hợp đồng Dự đoán](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (ví dụ: BNBUSD) và vào tab Read
+2. Kéo xuống "4. claimable".
+3. Nhập id vòng bạn muốn kiểm tra vào "epoch(uint256)".
+4. Nhập địa chỉ ví của bạn vào "user(address)".
+5. Nhấn "Query"
+6. Nếu vòng có thể nhận, nó sẽ hiển thị "true".
+7. Nếu kết quả là "false". Hãy lặp lại các bước trên và thử với "19. refundable".&#x20;
+8. Lưu ý: ⬆️ Nếu bạn thấy một vòng trả về "false" trên cả "4. claimable" và "19. refundable", nhưng nó hiển thị trên trang web, có thể nó đã được nhận rồi và trang web đang bị chậm trễ.
 {% endtab %}
 
-{% tab title="Claim from a round" %}
-How to claim
+{% tab title="Nhận từ một vòng" %}
+Cách nhận
 
-1. Go to BscScan page of the [Prediction contract](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (e.g. BNBUSD), and go to the Write tab
-2. Tap “🔴 Connect to Web3”
-3. Use MetaMask or WalletConnect to connect.
-4. Scroll down to “3. claim”
-5.  Type in the round number you want to claim in this format, including the \[] brackets: `[12345]`&#x20;
+1. Truy cập trang BscScan của [hợp đồng Dự đoán](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (ví dụ: BNBUSD) và vào tab Write
+2. Nhấn "🔴 Connect to Web3"
+3. Dùng MetaMask hoặc WalletConnect để kết nối.
+4. Kéo xuống "3. claim"
+5.  Nhập số vòng bạn muốn nhận theo định dạng này, bao gồm cả dấu ngoặc \[]: `[12345]`&#x20;
 
-    If you want to claim from multiple rounds together, separate the rounds with a comma like this: `[12345,12346,12347]`
-6. Tap “Write”
-7. Confirm on wallet&#x20;
+    Nếu bạn muốn nhận từ nhiều vòng cùng một lúc, hãy phân tách các vòng bằng dấu phẩy như thế này: `[12345,12346,12347]`
+6. Nhấn "Write"
+7. Xác nhận trên ví&#x20;
 {% endtab %}
 {% endtabs %}
-

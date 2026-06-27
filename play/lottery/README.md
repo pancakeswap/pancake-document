@@ -1,61 +1,61 @@
-# 🎟️ Lottery
+# 🎟️ Xổ số
 
-Playing the PancakeSwap Lottery gives you a chance to win huge CAKE prizes! It's easy, fair, and you can enter as often as you like as long as you have the CAKE to buy a ticket.
+Tham gia Xổ số PancakeSwap cho bạn cơ hội giành được phần thưởng CAKE khổng lồ! Đơn giản, công bằng, và bạn có thể tham gia bao nhiêu lần tùy thích miễn là có đủ CAKE để mua vé.
 
-[View smart contract](https://bscscan.com/address/0x5aF6D33DE2ccEC94efb1bDF8f92Bd58085432d2c)
+[Xem hợp đồng thông minh](https://bscscan.com/address/0x5aF6D33DE2ccEC94efb1bDF8f92Bd58085432d2c)
 
-## **Specifics:**
+## **Chi tiết:**
 
-* Lottery ticket cost for 1 ticket: \~$5 USD in CAKE.
-* Individual user Lottery entry limit: No overall limit, but only 100 tickets can be bought at a time.
-* Paying for one ticket will give users a random 6-digit combination with each digit being between 0-9, for e.g. “1-9-3-2-0-4”. Match numbers from the left to win prizes—the more numbers that match, the bigger the prize pool you'll share in.
-* Lottery uses Chainlink's implementation of VRF for true, secure randomness.
+* Giá vé Xổ số cho 1 vé: \~$5 USD tính bằng CAKE.
+* Giới hạn mua vé cho từng người dùng: Không có giới hạn tổng, nhưng chỉ có thể mua tối đa 100 vé mỗi lần.
+* Khi mua một vé, người dùng sẽ nhận được một tổ hợp 6 chữ số ngẫu nhiên, mỗi chữ số nằm trong khoảng 0-9, ví dụ: "1-9-3-2-0-4". Khớp các số từ bên trái để giành giải thưởng — càng khớp nhiều số, phần thưởng bạn nhận được càng lớn.
+* Xổ số sử dụng VRF của Chainlink để đảm bảo tính ngẫu nhiên thực sự và bảo mật.
 
-## Ticket costs and bulk purchase discount
+## Giá vé và chiết khấu khi mua số lượng lớn
 
-Lottery ticket prices are set at the start of the new lottery round, and target $5 USD (may vary slightly with sudden price fluctuations).
+Giá vé Xổ số được đặt vào đầu mỗi vòng mới và nhắm mục tiêu ở mức $5 USD (có thể dao động nhẹ khi giá biến động đột ngột).
 
-Buying multiple Lottery tickets at once gives a bulk discount on your purchase. You can buy as many as 100 tickets in one purchase, with the discount starting small at 2 tickets, and scaling up to 10% at 100 tickets.
+Mua nhiều vé Xổ số cùng một lúc sẽ được chiết khấu theo số lượng. Bạn có thể mua tối đa 100 vé trong một lần mua, với mức chiết khấu bắt đầu nhỏ từ 2 vé và tăng dần lên đến 10% khi mua 100 vé.
 
-![](<../../.gitbook/assets/Screenshot 2024-08-22 at 9.59.52 PM.png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-22%20at%209.59.52%20PM.png)
 
-## **How to win**
+## **Cách giành chiến thắng**
 
-Match numbers, **from the left side of your ticket**, to the winning numbers drawn at the end of a Lottery round.
+Khớp các số, **từ phía bên trái của vé**, với các số trúng thưởng được rút ra vào cuối vòng Xổ số.
 
-* Matching even just the first number will win you a small prize.&#x20;
-* Match more numbers to win a share of a larger prize pool.
+* Chỉ cần khớp số đầu tiên cũng sẽ giúp bạn giành được phần thưởng nhỏ.&#x20;
+* Khớp thêm nhiều số để giành được phần trong quỹ thưởng lớn hơn.
 
-## **‌**Prize eligibility
+## **‌**Điều kiện nhận giải thưởng
 
-‌There are a total of six lottery balls, from 0 to 9, on each ticket. To win, your numbers need to match the drawn numbers in the same order as the lottery balls, starting from the left of the ticket. For example:
+‌Mỗi vé có tổng cộng sáu quả bóng xổ số, từ 0 đến 9. Để giành chiến thắng, các số của bạn cần khớp với các số được rút theo đúng thứ tự như các quả bóng xổ số, bắt đầu từ bên trái của vé. Ví dụ:
 
-Drawn numbers
+Các số được rút
 
-![Drawn Numbers](<../../.gitbook/assets/image (285).png>)
+![Drawn Numbers](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28285%29.png)
 
-Your ticket's numbers
+Các số trên vé của bạn
 
-![Your Ticket A](<../../.gitbook/assets/image (95) (1).png>)
+![Your Ticket A](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2895%29%20%281%29.png)
 
-In the example above, Ticket A, five of the ticket's numbers match the same drawn numbers, in the exact same order: all except the fourth one.
+Trong ví dụ trên, Vé A có năm số khớp với các số được rút theo đúng thứ tự: tất cả trừ số thứ tư.
 
-However, since the fourth digit does **not** match the drawn number, only the first three digits count as matching in order. This would win a "Match first 3" prize.
+Tuy nhiên, vì chữ số thứ tư **không** khớp với số được rút, nên chỉ ba chữ số đầu tiên được tính là khớp theo thứ tự. Điều này sẽ giành giải "Khớp 3 số đầu tiên".
 
-![Your Ticket B](<../../.gitbook/assets/image (205).png>)
+![Your Ticket B](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28205%29.png)
 
-Example Ticket B. Here's an unlucky one. Even though the last five digits match, the first digit doesn't match, so this ticket doesn't win anything at all.
+Vé B trong ví dụ. Đây là một vé xui xẻo. Dù năm chữ số cuối khớp, nhưng chữ số đầu tiên không khớp, nên vé này không giành được bất kỳ giải thưởng nào.
 
-You will only share in prizes from the highest prize bracket you are eligible for. A ticket matching the first three numbers will only be eligible for prizes from the match-three bracket, and not for the match-one or match-two brackets.
+Bạn chỉ được nhận giải thưởng từ hạng giải cao nhất mà bạn đủ điều kiện. Vé khớp ba số đầu tiên chỉ đủ điều kiện nhận giải ở hạng khớp-ba, không nhận được giải ở hạng khớp-một hay khớp-hai.
 
-**Remember: The digits must match in order, starting from left to right.**
+**Nhớ rằng: Các chữ số phải khớp theo thứ tự, từ trái sang phải.**
 
-## Prize sharing across prize brackets
+## Chia sẻ giải thưởng giữa các hạng giải
 
-‌After a round is drawn, and tickets with matching numbers are determined, the prizes are awarded. The amount won by each ticket will depend on how many other tickets won in the same prize bracket.
+‌Sau khi vòng quay kết thúc và các vé có số khớp được xác định, giải thưởng sẽ được trao. Số tiền mỗi vé thắng phụ thuộc vào số vé khác cũng thắng trong cùng hạng giải.
 
-‌For example, if you have the only ticket that matched three numbers in order, and the predetermined share of the prize pool for your bracket was 2000 CAKE, you'll receive the full 2000 CAKE.
+‌Ví dụ, nếu bạn có vé duy nhất khớp ba số theo thứ tự, và phần phân bổ được định trước cho hạng của bạn là 2000 CAKE, bạn sẽ nhận toàn bộ 2000 CAKE.
 
-‌If, however, you and three other people match three numbers in order, the 2000 CAKE would be split between the four winning tickets, meaning you would receive 500 CAKE.
+‌Tuy nhiên, nếu bạn và ba người khác cùng khớp ba số theo thứ tự, 2000 CAKE sẽ được chia đều cho bốn vé thắng, nghĩa là bạn sẽ nhận 500 CAKE.
 
-See the [Lottery FAQ for a breakdown of prizes](lottery-faq.md#how-are-prizes-broken-down-between-brackets) across each bracket.
+Xem [FAQ Xổ số để biết chi tiết phân bổ giải thưởng](lottery-faq.md#how-are-prizes-broken-down-between-brackets) cho từng hạng.

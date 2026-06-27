@@ -1,152 +1,152 @@
-# How to Use Prediction
+# Cách Sử Dụng Dự đoán
 
-![](../../.gitbook/assets/how-to-porediction-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-porediction-header.png)
 
-Playing PancakeSwap’s Prediction lets you test your foresight to earn rewards. Use your market knowledge or gut feeling to predict if the BNBUSD, BTCUSD or ETHUSD price will go up or down in the near future. Get it right and you’ll collect a share of the round’s prize pool!
+Chơi Dự đoán của PancakeSwap cho phép bạn kiểm tra khả năng nhìn xa để kiếm phần thưởng. Hãy dùng kiến thức thị trường hoặc linh cảm của bạn để dự đoán giá BNBUSD, BTCUSD hay ETHUSD sẽ tăng hay giảm trong tương lai gần. Đoán đúng và bạn sẽ nhận được phần trong quỹ thưởng của vòng!
 
-## Switch between two prediction markets
+## Chuyển đổi giữa hai thị trường dự đoán
 
-<figure><img src="../../.gitbook/assets/image (453).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28453%29.png" alt=""><figcaption></figcaption></figure>
 
-PancakeSwap offers three separate prediction markets for every player to choose from (BNBUSD, BTCUSD, ETHUSD). All these markets accepts BNB as the betting asset.
+PancakeSwap cung cấp ba thị trường dự đoán riêng biệt cho mỗi người chơi lựa chọn (BNBUSD, BTCUSD, ETHUSD). Tất cả các thị trường này đều chấp nhận BNB làm tài sản cược.
 
-To switch between two prediction markets, simply click or tap the currency switcher on the top left corner.
+Để chuyển đổi giữa hai thị trường dự đoán, chỉ cần nhấp hoặc chạm vào bộ chuyển đổi tiền tệ ở góc trên bên trái.
 
-## Making a prediction for the next round
+## Đặt dự đoán cho vòng tiếp theo
 
-The Prediction page shows quite a bit of information. Predictions operate in 5 minute rounds. Make your prediction before a round goes live to join in.
+Trang Dự đoán hiển thị khá nhiều thông tin. Các dự đoán hoạt động theo các vòng 5 phút. Hãy đặt dự đoán của bạn trước khi vòng bắt đầu để tham gia.
 
-### Checking the timer
+### Kiểm tra hẹn giờ
 
-To enter a round of Prediction, you'll want to check how long is left in the current round. You'll find the timer in the top-right area.
+Để tham gia một vòng Dự đoán, bạn sẽ muốn kiểm tra còn bao lâu nữa trong vòng hiện tại. Bạn sẽ tìm thấy bộ hẹn giờ ở khu vực trên cùng bên phải.
 
-![](<../../.gitbook/assets/image (147).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28147%29.png)
 
-If the timer is too low your prediction may not confirm in time, so check there's still plenty of time left before you make a prediction (30 seconds should be plenty, but give yourself more time if you're following along with this guide).
+Nếu hẹn giờ quá thấp, dự đoán của bạn có thể không được xác nhận kịp thời, vì vậy hãy kiểm tra còn đủ thời gian trước khi đặt dự đoán (30 giây là đủ, nhưng hãy dành cho mình nhiều thời gian hơn nếu bạn đang làm theo hướng dẫn này).
 
-### Predicting the next round
+### Dự đoán vòng tiếp theo
 
-When you're sure you have enough time, you can place your prediction for the next round.
+Khi bạn chắc chắn còn đủ thời gian, bạn có thể đặt dự đoán cho vòng tiếp theo.
 
-1\. In the "Next" section you'll see a green **Enter UP** button and a red **Enter DOWN** button. Click **Enter UP** if you want to predict a rise in price, and click **Enter DOWN** if you want to predict a drop in price.
+1\. Trong phần "Next" bạn sẽ thấy nút **Enter UP** màu xanh và nút **Enter DOWN** màu đỏ. Nhấp **Enter UP** nếu bạn muốn dự đoán giá tăng, và nhấp **Enter DOWN** nếu bạn muốn dự đoán giá giảm.
 
-![](<../../.gitbook/assets/image (30).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2830%29.png)
 
-Each will have a different reward multiplier. The multiplier will change over time as the "Prize Pool" increases depending on people's predictions. The Prize Pool is shown just above the buttons.
+Mỗi nút sẽ có hệ số nhân phần thưởng khác nhau. Hệ số nhân sẽ thay đổi theo thời gian khi "Quỹ thưởng" tăng tùy thuộc vào dự đoán của mọi người. Quỹ thưởng được hiển thị ngay phía trên các nút.
 
-![](<../../.gitbook/assets/image (58).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2858%29.png)
 
-We'll choose **Enter UP** for this example.
+Chúng tôi sẽ chọn **Enter UP** cho ví dụ này.
 
-2\. A new window will open. In the window, you'll see "Commit" to commit BNB for your prediction. Type the number of tokens you would like to commit to your prediction for this round in the field. You can also use the bunny slider or click the percent buttons if you prefer.
+2\. Một cửa sổ mới sẽ mở ra. Trong cửa sổ, bạn sẽ thấy "Commit" để cam kết BNB cho dự đoán của bạn. Nhập số lượng token bạn muốn cam kết cho dự đoán này trong vòng vào ô. Bạn cũng có thể dùng thanh trượt bunny hoặc nhấp vào các nút phần trăm nếu muốn.
 
-Before placing your first bet, you may need to click "Enable" to approve BNB.
+Trước khi đặt cược đầu tiên, bạn có thể cần nhấp "Enable" để phê duyệt BNB.
 
-![](<../../.gitbook/assets/image (172).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28172%29.png)
 
-3\. Once you've decided the amount to commit, click **Confirm** and confirm your action in your wallet.
+3\. Sau khi bạn đã quyết định số tiền muốn cam kết, nhấp **Confirm** và xác nhận hành động trong ví của bạn.
 
-![](<../../.gitbook/assets/image (111).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28111%29.png)
 
-The confirm button will fade out as your transaction confirms. This short wait is why we checked the round timer earlier to make sure we would have time to make our prediction.
+Nút xác nhận sẽ mờ dần khi giao dịch của bạn được xác nhận. Khoảng chờ ngắn này là lý do tại sao chúng tôi đã kiểm tra hẹn giờ vòng trước đó để đảm bảo chúng tôi có đủ thời gian đặt dự đoán.
 
-4\. After your transaction confirms, an "ENTERED" message will appear.
+4\. Sau khi giao dịch của bạn được xác nhận, thông báo "ENTERED" sẽ xuất hiện.
 
-![](<../../.gitbook/assets/image (75).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2875%29.png)
 
-There's nothing left to do now but wait for your Prediction round to go live.
+Bây giờ không còn gì để làm ngoài việc chờ đợi vòng Dự đoán của bạn bắt đầu.
 
-## While your entered round is live
+## Trong khi vòng đã tham gia đang diễn ra
 
-A live round will last for 5 minutes. You can watch the price update during the 5 minutes if you'd like.&#x20;
+Một vòng đang diễn ra sẽ kéo dài 5 phút. Bạn có thể xem giá cập nhật trong 5 phút nếu muốn.&#x20;
 
-![](<../../.gitbook/assets/image (155).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28155%29.png)
 
-You cannot change your prediction during a live round, however. You are locked into your prediction from earlier.
+Tuy nhiên, bạn không thể thay đổi dự đoán trong vòng đang diễn ra. Bạn đã bị khóa vào dự đoán từ trước đó.
 
-## Once your entered round finishes
+## Sau khi vòng đã tham gia kết thúc
 
-After 5/10 minutes as the live round, your entered round will finish. Everything is automatic, so there's nothing you need to do to end the round.
+Sau 5/10 phút là vòng đang diễn ra, vòng đã tham gia của bạn sẽ kết thúc. Mọi thứ đều tự động, vì vậy bạn không cần làm gì để kết thúc vòng.
 
-### Seeing the results
+### Xem kết quả
 
-1\. As the 5 minutes finish, the "LIVE" section will change to "Calculating". Calculating the results only takes a moment.
+1\. Khi 5 phút kết thúc, phần "LIVE" sẽ chuyển sang "Calculating". Tính toán kết quả chỉ mất một chút thời gian.
 
-![](<../../.gitbook/assets/image (125).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28125%29.png)
 
-2\. After a short wait, the finished round will move left and say "Expired". The result of the round will display with either UP colored in green, or DOWN colored in red.
+2\. Sau một lúc chờ ngắn, vòng đã kết thúc sẽ di chuyển sang trái và hiển thị "Expired". Kết quả của vòng sẽ hiển thị với LÊN màu xanh hoặc XUỐNG màu đỏ.
 
-![](<../../.gitbook/assets/image (179).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28179%29.png)
 
-3\. If you've been busy and missed the results, you can scroll back a few rounds by clicking the **left arrow** on the purple bunny cards.
+3\. Nếu bạn bận và bỏ lỡ kết quả, bạn có thể cuộn lại vài vòng bằng cách nhấp vào **mũi tên trái** trên các thẻ bunny màu tím.
 
-![](<../../.gitbook/assets/image (99).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2899%29.png)
 
-### Seeing results for older rounds
+### Xem kết quả cho các vòng cũ hơn
 
-If you want to see the results for rounds you've entered that are older than a few rounds, you'll need to follow the steps below to find the results.
+Nếu bạn muốn xem kết quả cho các vòng bạn đã tham gia cũ hơn vài vòng, bạn sẽ cần làm theo các bước bên dưới để tìm kết quả.
 
-1\. Click on the **reversing clock icon** next to the round timer.
+1\. Nhấp vào **biểu tượng đồng hồ ngược** bên cạnh hẹn giờ vòng.
 
-![](<../../.gitbook/assets/image (135).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28135%29.png)
 
-2\. A "History" panel will open. By default, you should see your most recent round at the top of the list. Click anywhere on the round to see more information.
+2\. Bảng "History" sẽ mở ra. Theo mặc định, bạn sẽ thấy vòng gần nhất của mình ở đầu danh sách. Nhấp vào bất kỳ đâu trên vòng để xem thêm thông tin.
 
-![](<../../.gitbook/assets/image (105).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28105%29.png)
 
-![](<../../.gitbook/assets/image (208).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28208%29.png)
 
-### Collecting any winnings
+### Thu thập tiền thắng
 
-1\. If you won your entered round, a **Collect Winnings** button will appear next to a gold trophy. Click the button.
+1\. Nếu bạn thắng vòng đã tham gia, nút **Collect Winnings** sẽ xuất hiện bên cạnh cúp vàng. Nhấp vào nút đó.
 
-![](<../../.gitbook/assets/image (51).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2851%29.png)
 
-2\. A new window will appear showing the amount of winnings you can collect with a **Confirm** button. Click the button and confirm the action in your wallet.
+2\. Một cửa sổ mới sẽ xuất hiện hiển thị số tiền thắng bạn có thể thu thập cùng với nút **Confirm**. Nhấp vào nút và xác nhận hành động trong ví của bạn.
 
-![](<../../.gitbook/assets/image (214).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28214%29.png)
 
-Your token winnings will now be in your wallet.
+Tiền token thắng của bạn bây giờ sẽ ở trong ví.
 
-### Collecting winnings from older rounds
+### Thu thập tiền thắng từ các vòng cũ hơn
 
-Sometimes you may be away from PancakeSwap's Prediction page for a while or may have forgotten to collect winnings from older rounds. You can still collect winnings owed to you from older rounds at any time.
+Đôi khi bạn có thể vắng mặt khỏi trang Dự đoán của PancakeSwap trong một thời gian hoặc có thể quên thu thập tiền thắng từ các vòng cũ hơn. Bạn vẫn có thể thu thập tiền thắng còn nợ bạn từ các vòng cũ hơn bất cứ lúc nào.
 
-1\. Find more information on past rounds you've entered by clicking on the **reversing clock icon** next to the round timer.
+1\. Tìm thêm thông tin về các vòng cũ bạn đã tham gia bằng cách nhấp vào **biểu tượng đồng hồ ngược** bên cạnh hẹn giờ vòng.
 
-![](<../../.gitbook/assets/image (135).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28135%29.png)
 
-2\. A "History" panel will open. You can click "Uncollected" to view all rounds you've not collected the winnings for yet (click a the transaction if you want to see more details). Click the **Collect** button.
+2\. Bảng "History" sẽ mở ra. Bạn có thể nhấp "Uncollected" để xem tất cả các vòng bạn chưa thu thập tiền thắng (nhấp vào giao dịch nếu bạn muốn xem thêm chi tiết). Nhấp nút **Collect**.
 
-![](<../../.gitbook/assets/image (132).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28132%29.png)
 
-3\. A new window will appear showing the amount of winnings you can collect with a **Confirm** button. Click the button and confirm the action in your wallet.
+3\. Một cửa sổ mới sẽ xuất hiện hiển thị số tiền thắng bạn có thể thu thập cùng với nút **Confirm**. Nhấp vào nút và xác nhận hành động trong ví của bạn.
 
-![](<../../.gitbook/assets/image (214).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28214%29.png)
 
-Your winnings will now be in your wallet.
+Tiền thắng của bạn bây giờ sẽ ở trong ví.
 
-## Viewing historic profit and loss data
+## Xem dữ liệu lợi nhuận và lỗ lịch sử
 
-If you'd like to see how you've done overall in Prediction, you can view PNL (Profit and Loss) data whenever you'd like.
+Nếu bạn muốn xem kết quả tổng thể của mình trong Dự đoán, bạn có thể xem dữ liệu PNL (Lợi nhuận và Lỗ) bất cứ lúc nào.
 
-1\. On the Prediction page, click the **reversing clock icon** next to the round timer. A "History" panel will open.
+1\. Trên trang Dự đoán, nhấp vào **biểu tượng đồng hồ ngược** bên cạnh hẹn giờ vòng. Bảng "History" sẽ mở ra.
 
-![](<../../.gitbook/assets/image (135).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28135%29.png)
 
-2\. On the history panel, click the **PNL** tab.
+2\. Trên bảng lịch sử, nhấp vào tab **PNL**.
 
-![](<../../.gitbook/assets/image (323).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28323%29.png)
 
-The tab will open with stats for your historic performance in Prediction, including your net results, average return, best round, and other information.
+Tab sẽ mở ra với các số liệu thống kê về hiệu suất lịch sử của bạn trong Dự đoán, bao gồm kết quả ròng, lợi nhuận trung bình, vòng tốt nhất và các thông tin khác.
 
-![](<../../.gitbook/assets/image (194).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28194%29.png)
 
-3\. You can click the **View Reclaimed & Won** button at the bottom of the PNL tab to view those transactions on the BscScan explorer.
+3\. Bạn có thể nhấp nút **View Reclaimed & Won** ở cuối tab PNL để xem các giao dịch đó trên trình duyệt khối BscScan.
 
-![](<../../.gitbook/assets/image (192).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28192%29.png)
 
-That's all there is to using Prediction. Good luck making the right calls!
+Đó là tất cả những gì bạn cần để sử dụng Dự đoán. Chúc bạn may mắn khi đưa ra những dự đoán đúng đắn!
 
 
 
