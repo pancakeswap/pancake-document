@@ -17,7 +17,7 @@
 
 一次购买多张彩票可享受批量折扣。你可以一次最多购买 100 张彩票，折扣从购买 2 张时的小幅度开始，最高在购买 100 张时达到 10%。
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-22%20at%209.59.52%E2%80%AFPM.png)
+![](<../../.gitbook/assets/Screenshot 2024-08-22 at 9.59.52 PM.png>)
 
 ## **如何中奖**
 

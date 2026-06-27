@@ -12,7 +12,7 @@
 
 <div align="left">
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/go%20to%20cake%20saking.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/go to cake saking.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -26,7 +26,7 @@
 
 <div align="left">
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bcakev3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/bcakev3.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -34,7 +34,7 @@
 
 <div align="left">
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bcakev3%201.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/bcakev3 1.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

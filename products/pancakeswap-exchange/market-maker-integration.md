@@ -1,6 +1,6 @@
 # 做市商整合
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/MM%20integration.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/MM integration.png" alt=""><figcaption></figcaption></figure>
 
 ## 以太链上的做市商整合
 

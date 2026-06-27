@@ -12,11 +12,11 @@
 
 1\. 输入好您的兑换内容。
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/approval01.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/approval01.jpg" alt=""><figcaption></figcaption></figure>
 
 2\. 核对完兑换内容后，选择 "确认兑换（Confirm swap）"。
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/approval02.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/approval02.jpg" alt=""><figcaption></figcaption></figure>
 
 3\. 在钱包应用程序或钱包扩展程序中，授权您在此次兑换中将花费的代币。
 
@@ -24,18 +24,18 @@
 
 _您的钱包可能会要求您输入欲授权代币的数量。请输入一个大于或等于您要支出的代币数量的数额。_
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/approval03.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/approval03.jpg" alt=""><figcaption></figcaption></figure>
 
 4.授权完成后，钱包会弹出另一个上链确认，要求您确认兑换（confirm swap）。
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/approval04.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/approval04.jpg" alt=""><figcaption></figcaption></figure>
 
 5\. 一旦兑换得到确认，交易就会提交到区块链（未确认）。&#x20;
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/approval05.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/approval05.jpg" alt=""><figcaption></figcaption></figure>
 
 6\. 当交易成功完成时，您将看到屏幕上显示 "成功（Success）" 和一个绿色的勾号。
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/approval06.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/approval06.jpg" alt=""><figcaption></figcaption></figure>
 
 代币的授权有效期会持续一段时间，之后必须通过签名请求再次授权代币。授权签名无需支付矿工费。

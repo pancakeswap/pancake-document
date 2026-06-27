@@ -16,7 +16,7 @@ PancakeSwap 的彩票系统不仅是赚取成堆的 CAKE 的好方法，而且�
 
 1. 访问 [PancakeSwap 彩票页面](https://pancakeswap.finance/lottery)并查看页面顶部。 您将看到以（估计的）美元价值显示的当前轮次的奖池。
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E5%A5%96%E9%87%91.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/奖金.png" alt=""><figcaption></figcaption></figure>
 
 这是所有中奖者之间分享的奖金。&#x20;
 
@@ -38,21 +38,21 @@ PancakeSwap 的彩票系统不仅是赚取成堆的 CAKE 的好方法，而且�
 
 1. 在 [PancakeSwap 彩票页面](https://pancakeswap.finance/lottery) 上，单击页面顶部的**购买彩票**按钮（页面下方还有一个购彩按钮）。
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E8%B4%AD%E5%BD%A9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/购彩.png" alt=""><figcaption></figcaption></figure>
 
 轮次之间有一段时间无法购买彩票。 如果遇到这种情况，请在倒计时后回来查看。
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E5%8D%B3%E5%B0%86%E9%94%80%E5%94%AE%20%282%29.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/即将销售 (2).jpg" alt=""><figcaption></figcaption></figure>
 
 2\. 在弹出的窗口中，您可以选择购买多少张彩票。在该栏位中输入您要购买的彩票数量。您还可以使用下方预设按钮来快速选择购买张数。
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E8%B4%AD%E5%BD%A92.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/购彩2.png" alt=""><figcaption></figcaption></figure>
 
 3\. 在进行下一步之前，您或许可以考虑使用批量购买折扣。您购买的彩票越多，折扣力度越大。从购买 2 张彩票开始，一直增加到 100 张彩票，您最多可以节省近 5% 的购买费用 (4.95%)。&#x20;
 
 4\. 当您决定好对要购买的彩票张数，单击 “立即购买“ 并在您的钱包中确认您的操作。
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E8%B4%AD%E5%BD%A93.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/购彩3.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="手动选择彩票号码" %}
@@ -60,35 +60,35 @@ PancakeSwap 的彩票系统不仅是赚取成堆的 CAKE 的好方法，而且�
 
 &#x31;**.**&#x5728; [PancakeSwap 彩票页面](https://pancakeswap.finance/lottery) 上，单击页面顶部的**购买彩票**按钮（页面上下方还有一个购彩按钮）。
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E8%B4%AD%E5%BD%A9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/购彩.png" alt=""><figcaption></figcaption></figure>
 
 轮次之间有一段时间无法购买彩票。如果是这种情况，请在倒计时来查看。
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E5%8D%B3%E5%B0%86%E9%94%80%E5%94%AE%20%281%29.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/即将销售 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 2.在弹出的窗口中，您可以选择购买多少张彩票。在该栏位中输入您要购买的彩票数量。您还可以使用下方预设按钮来快速选择购买张数。
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E8%B4%AD%E5%BD%A92.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/购彩2.png" alt=""><figcaption></figcaption></figure>
 
 3.在进行下一步之前，您或许可以考虑使用批量购买折扣。您购买的彩票越多，折扣越大。折扣从 购买 2 张彩票开始，一直增加到 100 张彩票，您最多可以节省近 5% 的购买费用 (4.95%)。&#x20;
 
 4\. 要自定义彩票上的号码，请单击**查看/编辑号码**按钮。
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E7%BC%96%E8%BE%91.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/编辑.png" alt=""><figcaption></figcaption></figure>
 
 5\. 在弹出的窗口中会显示您购买的彩票。单击任何一张票的号码以更改该位置的号码。您可以通过单击 “随机选取” 再次随机您的数字，或者如果您改变主意，可以单击 “**返回**” 按钮返回。
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E7%BC%96%E8%BE%91%E5%8F%B7%E7%A0%81.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/编辑号码.png" alt=""><figcaption></figcaption></figure>
 
 如果您无法编辑数字，可以尝试使用复制贴上。
 
 如果您创建了重复的彩票号码，您会收到提示。您重复号码的彩票可能都会中奖。在这种情况下，您的这些重复彩票将共享对应的奖池。
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E9%87%8D%E5%A4%8D%E5%8F%B7%E7%A0%81.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/重复号码.png" alt=""><figcaption></figcaption></figure>
 
 6.当您决定好了号码，单击“**确认购买**”按钮。
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E7%A1%AE%E8%AE%A4%E8%B4%AD%E4%B9%B0.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/确认购买.png" alt=""><figcaption></figcaption></figure>
 
 在您的钱包中确认操作。
 {% endtab %}
@@ -100,13 +100,13 @@ PancakeSwap 的彩票系统不仅是赚取成堆的 CAKE 的好方法，而且�
 
 1. 点击彩票页面 “**下次开奖**” 区域中的**查看您的彩票**。
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E6%9F%A5%E7%9C%8B%E6%82%A8%E7%9A%84%E5%BD%A9%E7%A5%A8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/查看您的彩票.png" alt=""><figcaption></figcaption></figure>
 
 
 
 2\. 将打开一个窗口，显示您的所有彩票及其号码。如果您改变主意，可以在此页面购买更多彩票。
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E6%82%A8%E7%9A%84%E5%BD%A9%E7%A5%A8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/您的彩票.png" alt=""><figcaption></figcaption></figure>
 
 ## 当本轮结束并抽出中奖号码时 ‌
 
@@ -118,6 +118,6 @@ PancakeSwap 的彩票系统不仅是赚取成堆的 CAKE 的好方法，而且�
 
 1. 在彩票页面的 “已完成的回合” 区域中单击**查看您的彩票**。
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E5%B7%B2%E5%AE%8C%E6%88%90%E7%9A%84%E5%9B%9E%E5%90%88.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/已完成的回合.png" alt=""><figcaption></figcaption></figure>
 
 2\. 弹出的窗口会显示中奖号码以及您的所有彩票及其号码。

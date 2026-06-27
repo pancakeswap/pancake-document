@@ -6,7 +6,7 @@ PancakeSwap 上的 [代币兑换](https://pancakeswap.finance/swap) 为一种简
 
 <div align="left">
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E4%BB%A3%E5%B8%81%E4%BA%A4%E6%8D%A2%20%281%29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/代币交换 (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -24,7 +24,7 @@ PancakeSwap 上的 [代币兑换](https://pancakeswap.finance/swap) 为一种简
 
 <div align="left">
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20230405172600.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/微信截图_20230405172600.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

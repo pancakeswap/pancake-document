@@ -39,7 +39,7 @@
 
 ## 重新设计后的 ROI 计算器
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E8%AE%A1%E7%AE%97%E5%99%A8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/计算器.png" alt=""><figcaption></figcaption></figure>
 
 每当您看到自动 APR 显示时，您可以点击计算器图标并调出新的投资回报率计算器。新的投资回报率计算器经过重新设计，增加了许多功能以适应 V3 集中提供流动资金和农场质押的需要。&#x20;
 
@@ -57,7 +57,7 @@
 
 <div align="left">
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/deposit-amount%20%281%29.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/deposit-amount (1).gif" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -93,7 +93,7 @@
 
 <div align="left">
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E5%8E%86%E5%8F%B2%E4%BB%B7%E6%A0%BC.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/历史价格.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -170,4 +170,4 @@
 
 您可以展开详情部分，查看投资回报率的详情。
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E5%9B%9E%E6%8A%A5%E7%8E%87.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/回报率.png" alt=""><figcaption></figcaption></figure>

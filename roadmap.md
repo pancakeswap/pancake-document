@@ -4,7 +4,7 @@ description: '"别把它称作路线图"'
 
 # 路线图
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Roadmap01.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Roadmap01.webp" alt=""><figcaption></figcaption></figure>
 
 更新于 2024 年 8 月 15 日。
 

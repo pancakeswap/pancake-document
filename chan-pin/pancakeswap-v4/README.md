@@ -18,7 +18,7 @@ PancakeSwap v4 中的 Hooks 是外部部署的合约，作为可定制的附加�
 * **高级交易工具**： Hooks 的引入使限价订单、止盈订单、TWAMM（时间加权平均做市）等高级交易工具以及交易费用返还等其他奖励计划成为可能。&#x20;
 * **开发人员的收入流**： 开发人员可通过 Hooks 费用获得稳定的收入流，从而激励创新。
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28387%29%20%281%29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (387) (1).png" alt=""><figcaption></figcaption></figure>
 
 阅读我们的[博客文章](https://blog.pancakeswap.finance/articles/everything-you-need-to-know-about-pancake-swap-v4-what-s-in-it-for-developers-traders-liquidity-providers-and-defi-protocols)来了解 v4 对于开发者，交易者，流动性提供者以及 Defi 协议的好处。
 

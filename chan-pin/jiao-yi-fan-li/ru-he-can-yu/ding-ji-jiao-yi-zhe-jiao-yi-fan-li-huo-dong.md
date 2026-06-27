@@ -15,7 +15,7 @@
 
 <div align="left">
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/trading-reward1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/trading-reward1.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

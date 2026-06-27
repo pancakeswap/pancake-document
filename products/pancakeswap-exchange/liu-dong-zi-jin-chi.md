@@ -71,7 +71,7 @@
 
 ### LP 代币
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E6%B5%81%E5%8A%A8%E6%80%A7%E8%B5%84%E9%87%91%E6%B1%A0V3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/流动性资金池V3.png" alt=""><figcaption></figcaption></figure>
 
 举个例子，如果您将 **CAKE** 和 **BNB** 存入流动性资金池，您将收到 **CAKE-BNB LP** 代币。&#x20;
 

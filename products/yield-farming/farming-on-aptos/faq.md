@@ -1,6 +1,6 @@
 # Aptos链 农场 FAQ
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/spaces_-MHREX7DHcljbY5IkjgJ-1972196547_uploads_NCc54CXuVNvtViajNMVI_image.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/spaces_-MHREX7DHcljbY5IkjgJ-1972196547_uploads_NCc54CXuVNvtViajNMVI_image.webp" alt=""><figcaption></figcaption></figure>
 
 ### 如何将资产跨链到 Aptos 并添加流动性？&#x20;
 

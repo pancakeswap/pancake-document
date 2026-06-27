@@ -18,7 +18,7 @@
 
 1. 访问[流动性页面](https://pancakeswap.finance/liquidity)。
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E6%B5%81%E5%8A%A8%E6%80%A7%E6%B7%BB%E5%8A%A0%E6%95%99%E7%A8%8B1%20%281%29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/流动性添加教程1 (1).png" alt=""><figcaption></figcaption></figure>
 
 2 - 点击 "添加流动性" 按钮。
 
@@ -26,7 +26,7 @@
 
 <div align="left">
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E6%B5%81%E5%8A%A8%E6%80%A7%E6%B7%BB%E5%8A%A0%E6%95%99%E7%A8%8B2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/流动性添加教程2.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -36,7 +36,7 @@
 
 <div align="left">
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E6%B5%81%E5%8A%A8%E6%80%A7%E6%B7%BB%E5%8A%A0%E6%95%99%E7%A8%8B%202.5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/流动性添加教程 2.5.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -47,7 +47,7 @@
 
 <div align="left">
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E6%B5%81%E5%8A%A8%E6%80%A7%E6%B7%BB%E5%8A%A0%E6%95%99%E7%A8%8B3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/流动性添加教程3.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -59,7 +59,7 @@
 
 <div align="left">
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E6%B5%81%E5%8A%A8%E6%80%A7%E6%B7%BB%E5%8A%A0%E6%95%99%E7%A8%8B4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/流动性添加教程4.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -67,7 +67,7 @@
 
 <div align="left">
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E6%B5%81%E5%8A%A8%E6%80%A7%E6%B7%BB%E5%8A%A0%E6%95%99%E7%A8%8B5%20%281%29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/流动性添加教程5 (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -75,7 +75,7 @@
 
 <div align="left">
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E6%B5%81%E5%8A%A8%E6%80%A7%E6%B7%BB%E5%8A%A0%E6%95%99%E7%A8%8B6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/流动性添加教程6.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -83,7 +83,7 @@
 
 <div align="left">
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E6%B5%81%E5%8A%A8%E6%80%A7%E6%B7%BB%E5%8A%A0%E6%95%99%E7%A8%8B7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/流动性添加教程7.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -93,7 +93,7 @@
 
 <div align="left">
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E6%B5%81%E5%8A%A8%E6%80%A7%E6%B7%BB%E5%8A%A0%E6%95%99%E7%A8%8B8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/流动性添加教程8.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -103,13 +103,13 @@
 
 1 - 访问[流动性页面](https://pancakeswap.finance/liquidity)。
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E6%B5%81%E5%8A%A8%E6%80%A7%E7%A7%BB%E9%99%A4%E6%95%99%E7%A8%8B1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/流动性移除教程1.png" alt=""><figcaption></figcaption></figure>
 
 2 - 在 "您的流动性资金 (Your Liquidity)" 中，点击想移除的流动性。您可以使用筛选功能来快速筛出您所有的 V3 流动性仓位。
 
 <div align="left">
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E6%B5%81%E5%8A%A8%E6%80%A7%E7%A7%BB%E9%99%A4%E6%95%99%E7%A8%8B2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/流动性移除教程2.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -117,7 +117,7 @@
 
 <div align="left">
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E6%B5%81%E5%8A%A8%E6%80%A7%E7%A7%BB%E9%99%A4%E6%95%99%E7%A8%8B3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/流动性移除教程3.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

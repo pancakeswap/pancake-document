@@ -4,13 +4,13 @@ description: 迁移您的 V2、StableSwap 或仓位管理器流动性，以享�
 
 # 迁移指南
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28359%29%20%282%29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (359) (2).png" alt=""><figcaption></figcaption></figure>
 
 如要开始通过 bCAKE 助推您的 V2、StableSwap 或仓位管理器上的流动性，您需要进行迁移，将您的 LP 从旧合约中解除质押，然后重新质押到新合约中。
 
 ### 前往迁移向导
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28360%29%20%282%29.png" alt="" width="189"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (360) (2).png" alt="" width="189"><figcaption></figcaption></figure>
 
 在 "农场" 或 "仓位管理器" 页面顶部的横幅，点击 "继续" 开始迁移流程。
 
@@ -20,7 +20,7 @@ description: 迁移您的 V2、StableSwap 或仓位管理器流动性，以享�
 
 ### 将您的 LP 从旧合约中解除质押
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28361%29%20%282%29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (361) (2).png" alt=""><figcaption></figcaption></figure>
 
 在第一步，您将看到一个完整的列表，条列出了您需要迁移的所有农场持仓。包括 V2、StableSwap 农场和仓位管理器，迁移后才能享受到 bCAKE 助推的效果。&#x20;
 

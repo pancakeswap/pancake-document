@@ -1,6 +1,6 @@
 # CAKE 代币经济模型
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/231215-cn.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/231215-cn.png" alt=""><figcaption></figcaption></figure>
 
 ## **铸造速度** <a href="#emission-rate" id="emission-rate"></a>
 

@@ -23,7 +23,7 @@ PancakeSwap农场让用户们通过质押 LP 代币（流动性凭证）来支�
 
 为什么有 2 部分？ 因为当您在农场中质押您的 LP 代币以赚取 CAKE 时，您仍在为流动性池提供流动性，因此您也可以同时获得 LP 手续费奖励！
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/APR%E8%A7%A3%E9%87%8A%20%281%29.png" alt=""><figcaption><p>年化利率=基准年华利率+LP 奖励利率</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/APR解释 (1).png" alt=""><figcaption><p>年化利率=基准年华利率+LP 奖励利率</p></figcaption></figure>
 
 ### 农场基准年化利率 APR
 

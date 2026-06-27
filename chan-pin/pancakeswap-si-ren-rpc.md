@@ -23,17 +23,17 @@ description: 使用 bloXroute <> PancakeSwap 私人 RPC 保护您的交易！
 
 <div align="left">
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/RPC1%20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/RPC1 .png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/RPC2%20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/RPC2 .png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 3. **选择 "手动添加网络”**
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/RPC3%20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/RPC3 .png" alt=""><figcaption></figcaption></figure>
 
 4. **在 MetaMask 中添加自定义 PancakeSwap 私人 RPC**
 

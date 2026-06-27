@@ -48,7 +48,7 @@ PancakeSwap 现在支持使用信用卡、借记卡（签帐卡）或银行转�
 
 5. 根据屏幕上，按照提供商提供的步骤继续操作。
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2811%29.png)![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%288%29%20%281%29.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2811%29.png)![](<../.gitbook/assets/image (8) (1).png>)
 
 6. 您购买的加密货币应该会在几分钟内到达钱包。
 

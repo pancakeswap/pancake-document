@@ -22,7 +22,7 @@
 
 ## 迁移后在 veCAKE 页面创建新的锁仓
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/CAKE%20Staking%20-%20Check%20veCAKE%20number.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CAKE Staking - Check veCAKE number.jpg" alt=""><figcaption></figcaption></figure>
 
 迁移完成后，在页面左侧会更新您的 veCAKE 数字、锁定的 CAKE 数量和解锁时间。它们应与您当前的 CAKE 糖浆池锁仓仓位保持一致。&#x20;
 

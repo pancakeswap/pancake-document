@@ -37,7 +37,7 @@ description: 如何参与协议收入的每周分成
 
 <div align="left">
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/View%20benefits.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/View benefits.png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 

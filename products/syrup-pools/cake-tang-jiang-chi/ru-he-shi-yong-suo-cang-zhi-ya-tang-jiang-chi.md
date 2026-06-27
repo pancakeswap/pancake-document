@@ -4,15 +4,15 @@
 
 2.单击**连接钱包**按钮（右上角）连接到您的 BNB 智能链兼容钱包。
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/2%20%282%29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2 (2).png" alt=""><figcaption></figcaption></figure>
 
 3.选择您相应的钱包并连接。
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/3%20%283%29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/3 (3).png" alt=""><figcaption></figcaption></figure>
 
 4.选择 CAKE 糖浆池并单击**启用**按钮。 您的钱包会要求您确认操作。
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E5%90%AF%E7%94%A8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/启用.png" alt=""><figcaption></figcaption></figure>
 
 5.**启用**按钮现在应该替换为**灵活**和**锁定**。单击按钮以调出质押菜单。
 
@@ -40,7 +40,7 @@
 
 延長時，點擊 “最大” 将自动将目前的锁仓剩余时间，延长至最大值 365天，加成倍数（yield boost）加到最大值 21.00 倍。
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/progress%20when%20extend%20lock%20duration-big.jpg" alt=""><figcaption><p>新版界面，每次延长锁仓收取 0.0001 CAKE<br>左图：钱包中无足额 CAKE；右图：钱包中已有足额 CAKE</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/progress when extend lock duration-big.jpg" alt=""><figcaption><p>新版界面，每次延长锁仓收取 0.0001 CAKE<br>左图：钱包中无足额 CAKE；右图：钱包中已有足额 CAKE</p></figcaption></figure>
 
 #### 举例说明：
 
@@ -50,11 +50,11 @@
 
 请注意，您新的锁仓持续时间 6 周将等于 1 周的初始锁仓持续时间，加上增加的 5 周新锁仓时间。也就是，您现在锁仓到期时间为 2022 年 6 月 12 日。
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E5%BB%B6%E9%95%BF1%20%281%29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/延长1 (1).png" alt=""><figcaption></figcaption></figure>
 
 2\.  选择您要增加的持续时长（本例中为 5 周）。
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E5%BB%B6%E9%95%BF2APR.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/延长2APR.jpg" alt=""><figcaption></figcaption></figure>
 
 3\. 仔细检查，确保您对延长的锁仓持续时间没有问题，然后单击**确认**。
 
@@ -78,18 +78,18 @@
 
 1. 前往 CAKE 糖浆池，单击 **添加 CAKE（Add CAKE)**。
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E5%BB%B6%E9%95%BF1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/延长1.png" alt=""><figcaption></figcaption></figure>
 
 2\.   选择添加数量（在本例中，我们添加 10 CAKE）。请注意，您的收益提升倍数（boost 倍数）低于初始收益提升倍数，因为它是使用 6 天锁仓持续时间而不是初始 1 周锁仓持续时间计算的。&#x20;
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E6%B7%BB%E5%8A%A0%E9%94%81%E5%AE%9ACAKE.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/添加锁定CAKE.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E6%B7%BB%E5%8A%A0%E9%94%81%E5%AE%9ACAKE%20APR.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/添加锁定CAKE APR.jpg" alt=""><figcaption></figcaption></figure>
 
 2.1.   或者，用户可以勾选 “更新并延长您的锁仓以保留类似收益率” 。为了保持类似的收益提升倍数，将锁仓持续时间设置为 “等于” 初始锁仓持续时间（在本例中为 1 周）。
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E5%A2%9E%E5%8A%A0%E5%B9%B6%E5%BB%B6%E9%95%BF.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/增加并延长.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E5%A2%9E%E5%8A%A0%E5%B9%B6%E5%BB%B6%E9%95%BFAPR.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/增加并延长APR.jpg" alt=""><figcaption></figcaption></figure>
 
 3\.   仔细检查以确保您增加的 CAKE 数量和锁仓持续时间没有问题，然后单击**确认**。

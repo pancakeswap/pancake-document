@@ -29,7 +29,7 @@
 
 #### 确认并投票
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-vote-6%20%281%29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/how-to-vote-6 (1).png" alt=""><figcaption></figcaption></figure>
 
 确认所有详细信息并单击 "确认投票"，然后在您的钱包中确认以签署消息。&#x20;
 

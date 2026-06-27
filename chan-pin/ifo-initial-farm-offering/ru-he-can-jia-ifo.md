@@ -34,7 +34,7 @@ CAKE 决定 PancakeSwap IFO 公开销售中的最大 CAKE 提交限额。例如�
 
 完成上述步骤后，请返回此处的 [IFO 界面](https://pancakeswap.finance/ifo)，向下滚动到 “如何参与” 部分。
 
-<div align="left"><figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29%20%2810%29.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (1) (10).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 您应该看到您的进度当前处于第 3 步，提交 CAKE，如上图所示。 如果由于某种原因您没有进入第 3 步，请返回查看本页上方链接的指南。&#x20;
 
@@ -148,7 +148,7 @@ IFO 开始后，在公开销售页面能够实时看到叠加了 “超募手续
 
 ### 将 CAKE 投入到私有销售中
 
-<div align="left"><figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%282%29%20%285%29.png" alt="" width="325"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (2) (5).png" alt="" width="325"><figcaption></figcaption></figure></div>
 
 1. 如果您有资格参与私有销售，私有销售选项卡中的复选框将亮起。 要在私有销售中使用您的 CAKE，请单击私有销售下的投入按钮。 将出现一个窗口。
 2. 在新窗口中，在输入框中选择您要提交的 CAKE 数量。 请记住，您最多只能投入等于私有销售的最大投入限制的 CAKE 数量。并且在购买新代币时任何投入但未被消耗的 CAKE 都将退还给您，因此您无需担心丢失任何未使用的代币。

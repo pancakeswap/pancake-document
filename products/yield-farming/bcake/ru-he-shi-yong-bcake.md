@@ -8,7 +8,7 @@
 
 ### 锁仓 CAKE
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E5%86%9C%E5%9C%BA%E5%8A%A9%E6%8E%A8%E5%99%A8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/农场助推器.png" alt=""><figcaption></figcaption></figure>
 
 如果您尚未在 CAKE 锁仓质押池中锁定任何 CAKE，请单击 “**前往糖浆池（Go to Pool）**” 并按照说明进行 CAKE 锁仓质押。
 
@@ -16,7 +16,7 @@
 
 ### 启用农场收益助推器
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E5%90%AF%E7%94%A8%20%281%29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/启用 (1).png" alt=""><figcaption></figcaption></figure>
 
 要启用农场收益助推器（以下简称助推器），您必须进行设置。此步骤为一次性，无需重复设置。
 

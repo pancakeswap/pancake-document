@@ -1,6 +1,6 @@
 # Degen Mode
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perps%20Degen%20Mode-2.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Perps Degen Mode-2.jpeg" alt=""><figcaption></figcaption></figure>
 
 Degen 交易模式（Degen Trading Mode）为交易者提供了与在传统交易模式之外的另一种交易方式。那些希望减少盯紧荧幕并进行市场分析的时间、期望减少交易频率的交易者，提供了一种交易模式选择。在价格波动剧烈的时期，交易者可以通过 0 滑点、高杠杆和极低的手续费获得最大收益。在价格低波动期，此工具可协助交易者用于微小的价格波动上。
 

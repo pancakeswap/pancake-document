@@ -63,5 +63,5 @@ description: FAQ
 
 订单历史记录数据读取自 subgraph，因此可能存在小幅度的信息延迟。通常情况下，延迟不会超过几分钟。请参考历史订单表右下角的 subgraph 小工具。
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E9%99%90%E4%BB%B7%E5%8D%95-subgraph%E5%B0%8F%E5%B7%A5%E5%85%B7.png" alt=""><figcaption><p>限价单页面：subgraph 小工具。</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/限价单-subgraph小工具.png" alt=""><figcaption><p>限价单页面：subgraph 小工具。</p></figcaption></figure>
 

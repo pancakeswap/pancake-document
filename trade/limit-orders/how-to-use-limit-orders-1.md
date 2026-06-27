@@ -29,19 +29,19 @@ PancakeSwap 上赚取手续费的限价单与传统限价单的运作方式不�
 
 选择一个代币对（例如 BNB/CAKE）以及你想要卖出 / 买入的金额
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%2011.07.07%E2%80%AFAM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-09-28 at 11.07.07 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 设置你的目标价格 / 限价价格
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%2011.07.35%E2%80%AFAM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-09-28 at 11.07.35 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 下达限价单并点击"Confirm"。系统将代表你在最接近限价价格的 tick 处放置流动性
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%2011.08.49%E2%80%AFAM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-09-28 at 11.08.49 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 一旦池价格达到你的目标，你的订单就会执行。所需的输出代币 + 手续费将自动提取并发送到你的钱包。
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%201.01.47%E2%80%AFPM.png" alt="" width="370"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-09-28 at 1.01.47 PM.png" alt="" width="370"><figcaption></figcaption></figure>
 
 
 
@@ -49,7 +49,7 @@ PancakeSwap 上赚取手续费的限价单与传统限价单的运作方式不�
 
 你可以点击此处查看你的订单状态
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%202.12.50%E2%80%AFPM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-09-28 at 2.12.50 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 **你的订单可能处于以下状态之一：**
 

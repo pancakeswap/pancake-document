@@ -18,13 +18,13 @@
 
 1.  打开 Trust Wallet 并点击底部 **DApps** 按钮。
 
-    ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/MBP3-2021.08.16-121140PM-CleanShot%5C_CleanShot.png)
+    ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/MBP3-2021.08.16-121140PM-CleanShot_CleanShot.png)
 2.  在 "Popular" 区域，找到 "PancakeSwap"，同时，您也可以在 "Exchanges" 区域内找到。
 
-    ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/MBP3-2021.08.16-121222PM-CleanShot%5C_CleanShot.png)
+    ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/MBP3-2021.08.16-121222PM-CleanShot_CleanShot.png)
 3.  一个含有 PancakeSwap 信息的页面会弹出，请点击 "Connect" 按钮。
 
-    ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/MBP3-2021.08.16-121340PM-CleanShot%5C_CleanShot.png)
+    ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/MBP3-2021.08.16-121340PM-CleanShot_CleanShot.png)
 4. PancakeSwap 页面会打开，若您看到右上角有「连接钱包 / Connect Wallet」按钮，请点击并选择 "Trust Wallet"
 
 {% hint style="warning" %}
@@ -49,7 +49,7 @@
 
 1.  成功添加网络后，您即可回到主界面，选择「浏览器」
 
-    ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/MBP3-2021.08.16-122242PM-CleanShot%5C_CleanShot.png)
+    ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/MBP3-2021.08.16-122242PM-CleanShot_CleanShot.png)
 2. 在地址栏输入 [pancakeswap.finance](https://pancakeswap.finance) ，请注意，不要过分依赖搜索引擎，小心钓鱼网站。
 3. 您的钱包将询问您是否连接，请点击右下角蓝色按钮。
 {% endtab %}
@@ -61,13 +61,13 @@
 
 1.  点击底部的「发现」按钮。
 
-    ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/MBP3-2021.08.16-124330PM-CleanShot%5C_CleanShot.png)
+    ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/MBP3-2021.08.16-124330PM-CleanShot_CleanShot.png)
 2.  您会在 DApp 浏览器内的「热门 DApp」区域找到 "PancakeSwap"，点击打开。
 
-    ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/MBP3-2021.08.16-124527PM-CleanShot%5C_CleanShot.png)
+    ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/MBP3-2021.08.16-124527PM-CleanShot_CleanShot.png)
 3.  一个警告窗口将弹出，点击「我知道了」，继续操作。
 
-    ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/MBP3-2021.08.16-124631PM-CleanShot%5C_CleanShot.png)
+    ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/MBP3-2021.08.16-124631PM-CleanShot_CleanShot.png)
 4. 页面载入后，点击右上角的「连接钱包 / Connect Wallet」按钮，并点击 "MetaMask" 即可连接。
 {% endtab %}
 
@@ -76,18 +76,18 @@
 
 1.  点击屏幕下方的**四个方块**，打开 DApp 浏览器。
 
-    ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/MBP3-2021.08.16-125215PM-CleanShot%5C_CleanShot.png)
+    ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/MBP3-2021.08.16-125215PM-CleanShot_CleanShot.png)
 2.  在 "DeFi" 下找到 PancakeSwap，点击打开。
 
     ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2877%29.png)
 3.  一个警告窗口将弹出，点击「确认」继续。
 
-    ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/MBP3-2021.08.16-125400PM-CleanShot%5C_CleanShot.png)
+    ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/MBP3-2021.08.16-125400PM-CleanShot_CleanShot.png)
 4. 点击右上角的「连接钱包 / Connect Wallet」按钮，选择 "MetaMask" 即可。
 {% endtab %}
 
 {% tab title="Coinbase wallet" %}
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/coinbase%5C_wallet%5C_wordmark%5C_blue.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/coinbase_wallet_wordmark_blue.png)
 
 1. 打开Coinbase 钱包并点击右下角的设置图标
 
@@ -142,10 +142,10 @@
 1. 请按照提示正确创建钱包并妥善备份好您的助记词。或使用现有助记词导入恢复钱包。
 2.  在顶部的网络选项中，选择「币安智能链」
 
-    ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/MBP3-2021.08.16-093043PM-Chromium%5C_.png)
+    ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/MBP3-2021.08.16-093043PM-Chromium_.png)
 3.  访问 [PancakeSwap 主页](https://pancakeswap.finance/) ，点击右上角的「连接钱包 / Connect Wallet」，选择「更多 / More」，并选择 "Binance Chain"。
 
-    ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/MBP3-2021.08.16-093605PM-Chromium%5C_%E6%94%B6%E8%97%8F%E5%93%81%20%20PancakeSwap%20-%20%2422.285.png)
+    ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/MBP3-2021.08.16-093605PM-Chromium_%E6%94%B6%E8%97%8F%E5%93%81%20%20PancakeSwap%20-%20%2422.285.png)
 4. 钱包将弹出界面要求确认，请点击「连接」。
 
 ## 下载
@@ -175,7 +175,7 @@
 {% endtab %}
 
 {% tab title="Coinbase Wallet" %}
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/coinbase%5C_wallet%5C_wordmark%5C_blue.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/coinbase_wallet_wordmark_blue.png)
 
 1. 打开Coinbase钱包，然后单机右上角的设置图标。默认情况下，它将显示“以太坊主网” 作为默认网络。
 

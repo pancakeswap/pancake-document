@@ -1,6 +1,6 @@
 # 交易手续费和路由设置
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E4%BA%A4%E6%98%93%E8%B4%B9%E7%94%A8%E5%92%8C%E8%B7%AF%E7%94%B1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/交易费用和路由.png" alt=""><figcaption></figcaption></figure>
 
 在 V3 交易系统中，默认情况下 PancakeSwap 的智能路由将从 V3、V2、稳定币兑换（BNB 链）、AMM 和做市商（BNB 链和以太链）智能地调用流动性来执行对应的交易，并为交易者找到最佳价格。
 
@@ -10,7 +10,7 @@
 
 <div align="left">
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E4%BA%A4%E6%98%93%E8%B4%B9%E7%94%A8%E5%92%8C%E8%B7%AF%E7%94%B11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/交易费用和路由1.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -18,7 +18,7 @@
 
 <div align="left">
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E4%BA%A4%E6%98%93%E8%B4%B9%E7%94%A8%E5%92%8C%E8%B7%AF%E7%94%B12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/交易费用和路由2.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -26,7 +26,7 @@
 
 <div align="left">
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E4%BA%A4%E6%98%93%E8%B4%B9%E7%94%A8%E5%92%8C%E8%B7%AF%E7%94%B13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/交易费用和路由3.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -36,7 +36,7 @@
 
 <div align="left">
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E4%BA%A4%E6%98%93%E8%B4%B9%E7%94%A8%E5%92%8C%E8%B7%AF%E7%94%B14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/交易费用和路由4.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -51,7 +51,7 @@
 
 <div align="left">
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E4%BA%A4%E6%98%93%E8%B4%B9%E7%94%A8%E5%92%8C%E8%B7%AF%E7%94%B16%20%281%29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/交易费用和路由6 (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -61,7 +61,7 @@
 
 <div align="left">
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E4%BA%A4%E6%98%93%E8%B4%B9%E7%94%A8%E5%92%8C%E8%B7%AF%E7%94%B15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/交易费用和路由5.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

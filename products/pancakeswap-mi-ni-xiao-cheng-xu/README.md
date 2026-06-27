@@ -6,7 +6,7 @@
 
 PancakeSwap 迷你小程序可直接通过币安 app 访问，便于币安用户尝试、体验并最终爱上我们的去中心化交易平台。结合币安 DeFi 钱包一起使用，用户可以创建钱包、转账和使用 PancakeSwap——所有这些操作都可以在币安 app 中完成！
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1_nHKi-r117yxwxu8fGK7RGA.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1_nHKi-r117yxwxu8fGK7RGA.gif" alt=""><figcaption></figcaption></figure>
 
 ### 迷你小程序对于 PancakeSwap 来说为什么很重要？
 

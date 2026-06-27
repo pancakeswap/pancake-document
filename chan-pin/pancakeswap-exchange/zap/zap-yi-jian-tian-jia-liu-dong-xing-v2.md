@@ -8,7 +8,7 @@ description: 只需要一次点击就能简单地添加流动性
 
 <div align="left">
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/zap1.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -26,7 +26,7 @@ Zap 是一个简易添加流动性的方式。使用一种代币、一键即可�
 
 <div align="left">
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/%E5%90%AF%E7%94%A8%20zap.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/启用 zap.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -42,7 +42,7 @@ Zap 是一个简易添加流动性的方式。使用一种代币、一键即可�
 
 <div align="left">
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap%201.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/zap 1.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -52,7 +52,7 @@ Zap 是一个简易添加流动性的方式。使用一种代币、一键即可�
 
 <div align="left">
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap%202.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/zap 2.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -62,7 +62,7 @@ Zap 是一个简易添加流动性的方式。使用一种代币、一键即可�
 
 <div align="left">
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap%203.png" alt=""><figcaption><p>、</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/zap 3.png" alt=""><figcaption><p>、</p></figcaption></figure>
 
 </div>
 
@@ -72,7 +72,7 @@ Zap 是一个简易添加流动性的方式。使用一种代币、一键即可�
 
 <div align="left">
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap%204.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/zap 4.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -82,7 +82,7 @@ Zap 是一个简易添加流动性的方式。使用一种代币、一键即可�
 
 <div align="left">
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap%205.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/zap 5.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -103,7 +103,7 @@ Zap 是一个简易添加流动性的方式。使用一种代币、一键即可�
 
 <div align="left">
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap%207.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/zap 7.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -118,6 +118,6 @@ Zap 也能让您在移除流动性时只接收交易对中的其中一种代币�
 
 <div align="left">
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/zap.png" alt=""><figcaption></figcaption></figure>
 
 </div>

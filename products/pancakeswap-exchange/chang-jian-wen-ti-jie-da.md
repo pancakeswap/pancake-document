@@ -198,7 +198,7 @@ BNB 智能链上的代币在其合约中包含**交易费用**的情况并不少
 
 <div align="left">
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/cannot%20add%20v2%20liquidity%20error%20pump.jpg" alt="" width="280"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/cannot add v2 liquidity error pump.jpg" alt="" width="280"><figcaption></figcaption></figure>
 
 </div>
 
