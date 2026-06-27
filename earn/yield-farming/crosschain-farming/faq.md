@@ -1,114 +1,114 @@
 # FAQ
 
-<figure><img src="../../../.gitbook/assets/image (101).png" alt=""><figcaption><p>\</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28101%29.png" alt=""><figcaption><p>\</p></figcaption></figure>
 
-### What should I do on PancakeSwap on other blockchains?
+### Tôi nên làm gì trên PancakeSwap ở các blockchain khác?
 
-Provide liquidity, trade and farm as you always have been. If you are a multichain user already, remember to provide liquidity on PancakeSwap on other blockchains that we've deployed on (like Ethereum), as we have CAKE rewards on BNB Smart Chain for you, allowing you to earn even more CAKE without bridging those assets over!
+Cung cấp thanh khoản, giao dịch và farm như bạn vẫn làm. Nếu bạn đã là người dùng multichain, hãy nhớ cung cấp thanh khoản trên PancakeSwap ở các blockchain khác mà chúng tôi đã triển khai (như Ethereum), vì chúng tôi có phần thưởng CAKE trên BNB Smart Chain cho bạn, cho phép bạn kiếm thêm CAKE mà không cần bridge các tài sản đó!
 
-### **Will there be more pairs?**
+### **Có thêm cặp nào không?**
 
-Yes, but we will be deploying in steps to ensure we prioritize the safety of user funds and CAKE inflation. Do let us know in the community chats what you think should be added to PancakeSwap on other blockchains, as well as what other blockchains we should deploy PancakeSwap on.
+Có, nhưng chúng tôi sẽ triển khai theo từng bước để đảm bảo ưu tiên an toàn cho tiền của người dùng và lạm phát CAKE. Hãy cho chúng tôi biết trong các chat cộng đồng những gì bạn nghĩ nên được thêm vào PancakeSwap ở các blockchain khác, cũng như các blockchain khác chúng tôi nên triển khai PancakeSwap.
 
-### **Why the gas cost for staking LP tokens is high?**
+### **Tại sao chi phí gas khi stake LP token cao?**
 
-A small amount of native token (for example, ETH on Ethereum) is required for the first-time setup. So the first transaction will be slightly costly.
+Một lượng nhỏ token gốc (ví dụ: ETH trên Ethereum) là cần thiết cho lần thiết lập đầu tiên. Vì vậy giao dịch đầu tiên sẽ tốn kém hơn một chút.
 
-Plus, there are other fees (mostly gas costs) involved in cross-chain farming. Check out [this](faq.md#are-there-any-fees-when-i-do-crosschain-farming) dedicated section to learn more.
+Ngoài ra, có các phí khác (chủ yếu là chi phí gas) liên quan đến farming xuyên chuỗi. Xem [phần chuyên dụng này](faq.md#are-there-any-fees-when-i-do-crosschain-farming) để tìm hiểu thêm.
 
-### **Why do staking and unstaking take 30 minutes to complete?**
+### **Tại sao staking và unstaking mất 30 phút để hoàn thành?**
 
-All cross-chain transactions will take around 30 minutes to complete. It is because:
+Tất cả các giao dịch cross-chain sẽ mất khoảng 30 phút để hoàn thành. Đó là vì:
 
-* Transactions have to be executed on both the farming blockchain (like Ethereum) and the BNB Chain.
-* Delivering cross-chain messages takes time.
-* To ensure safety and all the data are synced and consistent between different blockchains.
+* Giao dịch phải được thực hiện trên cả blockchain farming (như Ethereum) và BNB Chain.
+* Việc truyền tải thông điệp cross-chain mất thời gian.
+* Để đảm bảo an toàn và tất cả dữ liệu được đồng bộ và nhất quán giữa các blockchain khác nhau.
 
-### **Where are my harvested CAKE rewards?**
+### **Phần thưởng CAKE đã thu hoạch của tôi ở đâu?**
 
-Your harvested CAKE will be distributed on BNB Smart Chain. Please switch the blockchain network in your wallet to check the balance of CAKE.
+CAKE thu hoạch của bạn sẽ được phân phối trên BNB Smart Chain. Vui lòng chuyển mạng blockchain trong ví của bạn để kiểm tra số dư CAKE.
 
-### **I can't harvest because my wallet doesn't support switching between different blockchains!**
+### **Tôi không thể thu hoạch vì ví của tôi không hỗ trợ chuyển đổi giữa các blockchain khác nhau!**
 
-Please try using a different wallet app that supports multichain and chain switching.
+Vui lòng thử sử dụng một ứng dụng ví khác hỗ trợ multichain và chuyển đổi chuỗi.
 
-Please note that staking and unstaking LP tokens will also harvest all the earned CAKE to your wallet on BNB Smart Chain. Therefore if you don't want to use a different wallet app, simply stake more, or unstake a tiny amount of LP tokens to harvest your earned CAKE.
+Lưu ý rằng việc staking và unstaking LP tokens cũng sẽ thu hoạch tất cả CAKE đã kiếm được vào ví của bạn trên BNB Smart Chain. Do đó nếu bạn không muốn sử dụng ứng dụng ví khác, chỉ cần stake thêm hoặc unstake một lượng nhỏ LP tokens để thu hoạch CAKE đã kiếm được.
 
-### Are there any fees when I do crosschain farming?
+### Có phí nào khi tôi farming xuyên chuỗi không?
 
-Unlike farming natively on BNB Chain, farming on other blockchains requires cross-chain activities. Here are the fees involved:
+Không giống như farming gốc trên BNB Chain, farming trên các blockchain khác đòi hỏi các hoạt động cross-chain. Đây là các phí liên quan:
 
-**1 - Gas fee to create a proxy contract**
+**1 - Phí gas để tạo hợp đồng proxy**
 
-A proxy contract has to be created on the BNB Chain for cross-chain farming. The gas cost for proxy contract creation is included in the transaction.
+Một hợp đồng proxy phải được tạo trên BNB Chain cho farming xuyên chuỗi. Chi phí gas để tạo hợp đồng proxy được bao gồm trong giao dịch.
 
-This fee only charges once upon the first "stake" transaction.
+Phí này chỉ tính một lần trong giao dịch "stake" đầu tiên.
 
-**2 - Gas fee for calls on BNB Chain**
+**2 - Phí gas cho các cuộc gọi trên BNB Chain**
 
-When users deposit or withdraw LP tokens. An executor will perform transactions calling on behave of the users on the BNB Chain. The gas cost for these calls is included in the transaction.
+Khi người dùng gửi hoặc rút LP tokens. Một executor sẽ thực hiện giao dịch thay mặt người dùng trên BNB Chain. Chi phí gas cho các cuộc gọi này được bao gồm trong giao dịch.
 
-This fee is charged in every deposit or withdrawal transaction.
+Phí này được tính trong mỗi giao dịch gửi hoặc rút.
 
-**3 - Gas fee for calls on other blockchains**
+**3 - Phí gas cho các cuộc gọi trên các blockchain khác**
 
-When users withdraw LP tokens. An executor will perform the final transactions calling to release the LP tokens on other blockchains (like Ethereum). The gas cost for these calls is included in the transaction.
+Khi người dùng rút LP tokens. Một executor sẽ thực hiện các giao dịch cuối cùng để giải phóng LP tokens trên các blockchain khác (như Ethereum). Chi phí gas cho các cuộc gọi này được bao gồm trong giao dịch.
 
-This fee is only charged in withdrawal transactions.
+Phí này chỉ được tính trong các giao dịch rút.
 
-**4 - Cross-chain messaging fee**
+**4 - Phí nhắn tin cross-chain**
 
-We utilise a message bus powered by Celer to route our cross-chain messages. Therefore a messages fee is included based on the byte length of the message.
+Chúng tôi sử dụng message bus được hỗ trợ bởi Celer để định tuyến các tin nhắn cross-chain của chúng tôi. Do đó một khoản phí tin nhắn được bao gồm dựa trên độ dài byte của tin nhắn.
 
-This fee is charged in every stake transaction. In unstake transactions, this fee is charged twice since a two-way communication between BNB Chain and other blockchains is required for safety.
+Phí này được tính trong mỗi giao dịch stake. Trong các giao dịch unstake, phí này được tính hai lần vì cần giao tiếp hai chiều giữa BNB Chain và các blockchain khác để đảm bảo an toàn.
 
 ```
 messagingFee = feeBase + message.length * feePerByte;
 ```
 
-You may find the variables in the formula with in the message bus contract:
+Bạn có thể tìm thấy các biến trong công thức trong hợp đồng message bus:
 
 * Ethereum: `0x4066d196a423b2b3b8b054f4f40efb47a74e200c`
 * BNB Chain: `0x95714818fdd7a5454f73da9c777b3ee6ebaeea6b`
 
-**5 - The starter fund**
+**5 - Quỹ khởi động**
 
-This is not strictly a "fee".&#x20;
+Đây không thực sự là "phí".&#x20;
 
-For every new user who started doing PancakeSwap cross-chain farming. In the first “stake” transaction, we will deposit 0.005 BNB into their BNB Chain wallet. The corresponding amount of native tokens on the farming chain (like ETH on Ethereum) will be charged from the deposit transaction, using the market rate provided by the price oracle.
+Đối với mỗi người dùng mới bắt đầu farming xuyên chuỗi PancakeSwap. Trong giao dịch "stake" đầu tiên, chúng tôi sẽ gửi 0,005 BNB vào ví BNB Chain của họ. Số lượng token gốc tương ứng trên chuỗi farming (như ETH trên Ethereum) sẽ được tính từ giao dịch gửi, sử dụng giá thị trường được cung cấp bởi oracle giá.
 
-This is to help users start their BNB Chain journey with ease. We understand the painfulness of having all the harvested CAKE but not being able to explore the vivid PancakeSwap ecosystem without finding another way to acquire BNB for gas.
+Điều này giúp người dùng bắt đầu hành trình BNB Chain của họ một cách dễ dàng. Chúng tôi hiểu sự khó chịu khi có tất cả CAKE đã thu hoạch nhưng không thể khám phá hệ sinh thái PancakeSwap sôi động mà không tìm cách khác để mua BNB cho gas.
 
-This fee only charges once upon the first "stake" transaction.
+Phí này chỉ tính một lần trong giao dịch "stake" đầu tiên.
 
-### Where are the emissions coming from?&#x20;
+### Emissions đến từ đâu?&#x20;
 
-_updated on Oct 10 2022_
+_cập nhật vào ngày 10 tháng 10 năm 2022_
 
-For now, Chefs have diverted 0.0189 CAKE per block from the CAKE pool to all crosschain farms.&#x20;
+Hiện tại, các Chefs đã chuyển hướng 0,0189 CAKE mỗi block từ CAKE pool sang tất cả crosschain farms.&#x20;
 
-Here is the emissions breakdown:
+Đây là phân tích emissions:
 
-<table><thead><tr><th width="249"></th><th>Multiplier</th><th>CAKE per block</th></tr></thead><tbody><tr><td><strong>CAKE Pool</strong></td><td>-</td><td><strong>8.9811</strong></td></tr><tr><td><strong>All Crosschain Farms</strong></td><td>-</td><td><strong>0.0189</strong></td></tr><tr><td>Ethereum ETH/USDC</td><td>0.5x</td><td>0.0105</td></tr><tr><td>Ethereum ETH/USDT</td><td>0.2x</td><td>0.0042</td></tr><tr><td>Ethereum WBTC/ETH</td><td>0.2x</td><td>0.0042</td></tr></tbody></table>
+<table><thead><tr><th width="249"></th><th>Số nhân</th><th>CAKE mỗi block</th></tr></thead><tbody><tr><td><strong>CAKE Pool</strong></td><td>-</td><td><strong>8.9811</strong></td></tr><tr><td><strong>Tất cả Crosschain Farms</strong></td><td>-</td><td><strong>0.0189</strong></td></tr><tr><td>Ethereum ETH/USDC</td><td>0.5x</td><td>0.0105</td></tr><tr><td>Ethereum ETH/USDT</td><td>0.2x</td><td>0.0042</td></tr><tr><td>Ethereum WBTC/ETH</td><td>0.2x</td><td>0.0042</td></tr></tbody></table>
 
-### What happened during the deposit, harvest and withdrawal?
+### Điều gì xảy ra trong quá trình gửi, thu hoạch và rút?
 
-PancakeSwap crosschain farming is like using a "stand-in" LP token to farm on the BNB Chain, with the same PancakeSwap MasterChef. The CAKE rewards are calculated and distributed on BNB Chain, controlled and guarded by the same MasterChef contract.
+Farming xuyên chuỗi PancakeSwap giống như sử dụng LP token "đại diện" để farm trên BNB Chain, với cùng PancakeSwap MasterChef. Phần thưởng CAKE được tính toán và phân phối trên BNB Chain, được kiểm soát và bảo vệ bởi cùng hợp đồng MasterChef.
 
-#### Upon Deposit:
+#### Khi Gửi:
 
-1. Users request depositing LP tokens on farming blockchains (like Ethereum).
-2. LP tokens are being transferred to farming vault contracts.
-3. Celer message bus is utilised to deliver the "deposit" message to BNB Chain.
-4. An executor on BNB Chain mints the same amount of farming tokens as "stand-ins", and then deposits them into the farms.
+1. Người dùng yêu cầu gửi LP tokens trên các blockchain farming (như Ethereum).
+2. LP tokens đang được chuyển đến các hợp đồng vault farming.
+3. Celer message bus được sử dụng để gửi tin nhắn "deposit" đến BNB Chain.
+4. Một executor trên BNB Chain đúc cùng số lượng farming token làm "đại diện" và sau đó gửi chúng vào farms.
 
-#### Upon Harvesting:
+#### Khi Thu hoạch:
 
-Since CAKE rewards are calculated and distributed on BNB Chain. Users can claim their CAKE rewards with a single BNB Chain transaction without the need for cross-chain operations.
+Vì phần thưởng CAKE được tính toán và phân phối trên BNB Chain. Người dùng có thể nhận phần thưởng CAKE với một giao dịch BNB Chain duy nhất mà không cần các hoạt động cross-chain.
 
-#### Upon Withdrawal:
+#### Khi Rút:
 
-1. Users request withdrawing LP tokens on farming blockchains (like Ethereum).
-2. Celer message bus is utilised to deliver the "withdraw" message to BNB Chain.
-3. An executor on BNB Chain withdraws the farming tokens from the farms, burns those tokens, transfers the earned CAKE to users, and utilises the Celer message bus to deliver the confirmation message back to the original farming blockchain.
-4. An executor on the farming blockchain confirms everything and then releases the LP tokens from the vault contracts.
+1. Người dùng yêu cầu rút LP tokens trên các blockchain farming (như Ethereum).
+2. Celer message bus được sử dụng để gửi tin nhắn "withdraw" đến BNB Chain.
+3. Một executor trên BNB Chain rút farming token từ farms, đốt những token đó, chuyển CAKE đã kiếm được cho người dùng và sử dụng Celer message bus để gửi tin nhắn xác nhận trở lại blockchain farming ban đầu.
+4. Một executor trên blockchain farming xác nhận mọi thứ và sau đó giải phóng LP tokens từ các hợp đồng vault.

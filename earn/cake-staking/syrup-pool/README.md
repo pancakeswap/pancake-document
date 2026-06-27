@@ -1,15 +1,15 @@
 # 🍯 Syrup Pools - Stake CAKE
 
-![](../../../.gitbook/assets/syrup-poos-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/syrup-poos-header.png)
 
-### **What are Syrup Pools?**
+### **Syrup Pools là gì?**
 
-Syrup Pools are the simplest way to earn free tokens on PancakeSwap.\
-Stake CAKE, earn free tokens. It’s really that easy.
+Syrup Pools là cách đơn giản nhất để kiếm token miễn phí trên PancakeSwap.\
+Stake CAKE, nhận token miễn phí. Thực sự dễ dàng như vậy.
 
-Some special pools let you stake other tokens besides CAKE, too!
+Một số pool đặc biệt còn cho phép bạn stake các token khác ngoài CAKE!
 
-### **How can I use Syrup Pools?**
+### **Làm thế nào để sử dụng Syrup Pools?**
 
 {% content-ref url="../../../archive/legacy-products/new-cake-pool/" %}
 [new-cake-pool](../../../archive/legacy-products/new-cake-pool/)
@@ -27,7 +27,7 @@ Some special pools let you stake other tokens besides CAKE, too!
 [syrup-pool-guide.md](syrup-pool-guide.md)
 {% endcontent-ref %}
 
-### Syrup Pool FAQs & Troubleshooting
+### FAQ & Xử lý sự cố Syrup Pool
 
 {% content-ref url="../../earn-faq/cake-staking-faq/cake-syrup-pool-faq.md" %}
 [cake-syrup-pool-faq.md](../../earn-faq/cake-staking-faq/cake-syrup-pool-faq.md)
@@ -37,15 +37,14 @@ Some special pools let you stake other tokens besides CAKE, too!
 [syrup-pool-faq.md](../../earn-faq/cake-staking-faq/syrup-pool-faq.md)
 {% endcontent-ref %}
 
-### **How can I run a Syrup Pool for my project?**
+### **Làm thế nào để tôi chạy Syrup Pool cho dự án của mình?**
 
-Find more information about our Syrup Pools [here](../../../welcome-to-pancakeswap/contact-us/business-partnerships/syrup-pools.md) and apply using the relevant application form in the link.
+Tìm hiểu thêm thông tin về Syrup Pools của chúng tôi [tại đây](../../../welcome-to-pancakeswap/contact-us/business-partnerships/syrup-pools.md) và đăng ký bằng mẫu đơn có liên quan trong đường dẫn.
 
-### Syrup Pool Smart Contracts <a href="#docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86" id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
+### Hợp đồng thông minh Syrup Pool <a href="#docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86" id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
 
 [CAKE Syrup Pool](/broken/pages/cFidohif6VdJE7LuwvlB)
 
 ### &#x20;<a href="#docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86" id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
-
 
 

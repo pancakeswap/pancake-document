@@ -1,79 +1,79 @@
 ---
-description: 'Syrup Pools: the simplest way to earn on PancakeSwap'
+description: 'Syrup Pools: cách đơn giản nhất để kiếm thu nhập trên PancakeSwap'
 ---
 
 # Syrup Pools
 
-![](../../../.gitbook/assets/how-to-syrup-pool-staking-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-syrup-pool-staking-header.png)
 
-Staking in [Syrup Pools](https://docs.pancakeswap.finance/products/syrup-pool) lets you earn CAKE or other tokens while you sleep!
+Staking trong [Syrup Pools](https://docs.pancakeswap.finance/products/syrup-pool) cho phép bạn kiếm CAKE hoặc các token khác khi đang ngủ!
 
-It's simpler than farming with PancakeSwap's Yield Farms because unlike the Farms, you only need to stake **one token** to start earning: usually CAKE.
+Cách này đơn giản hơn Yield Farming với PancakeSwap vì không giống như Farms, bạn chỉ cần stake **một token** để bắt đầu kiếm thu nhập: thường là CAKE.
 
-## **Getting started with Syrup Pool staking**
+## **Bắt đầu Staking với Syrup Pool**
 
-1\. Go to the Pools page [here](https://pancakeswap.finance/pools).
+1\. Truy cập trang Pools [tại đây](https://pancakeswap.finance/pools).
 
-![](../../../.gitbook/assets/1-how-to-stake-in-syrup-pool.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-how-to-stake-in-syrup-pool.png)
 
-2\. Connect to your BNB Smart Chain-compatible wallet by clicking the **Connect** button (top right-hand side).
+2\. Kết nối ví tương thích BNB Smart Chain của bạn bằng cách nhấp vào nút **Connect** (góc trên bên phải).
 
-![](../../../.gitbook/assets/2-how-to-stake-in-syrup-pool.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/2-how-to-stake-in-syrup-pool.png)
 
-3\. Choose your wallet and connect.
+3\. Chọn ví của bạn và kết nối.
 
-![](<../../../.gitbook/assets/3-how-to-stake-in-syrup-pool (2).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/3-how-to-stake-in-syrup-pool%20%282%29.png)
 
-4\. Choose which Syrup Pool you want to stake in.
+4\. Chọn Syrup Pool mà bạn muốn stake.
 
-![](../../../.gitbook/assets/4-how-to-stake-in-syrup-pool.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/4-how-to-stake-in-syrup-pool.png)
 
-**IFO CAKE** automatically compounds your rewards: any CAKE you earn will be harvested and re-invested in the same pool for you. You can also earn IFO Credit during the calculation period.
+**IFO CAKE** tự động gộp lãi cho bạn: mọi CAKE bạn kiếm được sẽ được thu hoạch và tái đầu tư vào cùng pool. Bạn cũng có thể kiếm IFO Credit trong thời gian tính toán.
 
-**Auto CAKE** automatically compounds your rewards: any CAKE you earn will be harvested and re-invested in the same pool for you.
+**Auto CAKE** tự động gộp lãi cho bạn: mọi CAKE bạn kiếm được sẽ được thu hoạch và tái đầu tư vào cùng pool.
 
-**Manual CAKE** doesn’t automatically compound like Auto CAKE. You’ll need to harvest and compound your earnings manually.
+**Manual CAKE** không tự động gộp lãi như Auto CAKE. Bạn cần tự thu hoạch và gộp lãi thủ công.
 
-Other Syrup Pools let you stake your CAKE to earn dozens of other cool tokens. Make sure you check them out.
+Các Syrup Pool khác cho phép bạn stake CAKE để kiếm hàng chục token thú vị khác. Hãy chắc chắn xem qua chúng.
 
 ***
 
-5\. Once you choose a pool, click the **Enable** button. Your wallet will ask you to confirm the action.
+5\. Khi bạn chọn một pool, nhấp vào nút **Enable**. Ví của bạn sẽ yêu cầu xác nhận hành động.
 
-6\. The Enable button should now be replaced with **Stake**. Click the button to bring up the staking menu.
+6\. Nút Enable bây giờ sẽ được thay thế bằng **Stake**. Nhấp vào nút để mở menu staking.
 
-![](<../../../.gitbook/assets/image (263).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28263%29.png)
 
-7\. Type in an amount or slide the rabbit to choose how much CAKE you want to stake.
+7\. Nhập số lượng hoặc kéo thỏ để chọn lượng CAKE bạn muốn stake.
 
-![](<../../../.gitbook/assets/image (301).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28301%29.png)
 
-8\. Click **Confirm**. Your wallet will ask you to confirm the action.
+8\. Nhấp **Confirm**. Ví của bạn sẽ yêu cầu xác nhận hành động.
 
-![](<../../../.gitbook/assets/image (178).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28178%29.png)
 
-9\. The Confirm button will change to "Confirming", then once the transaction is successful, you’ll see your staked amount change and the button will change again.
+9\. Nút Confirm sẽ chuyển thành "Confirming", sau đó khi giao dịch thành công, bạn sẽ thấy số lượng đã stake của mình thay đổi và nút sẽ thay đổi lại.
 
-10\. You should now be able to see details on your Syrup Pool. Auto CAKE will show a countdown until the unstaking fee ends. The other pools will show a **Collect** button to claim your staking rewards into your wallet.
+10\. Bây giờ bạn sẽ có thể xem chi tiết trên Syrup Pool của mình. Auto CAKE sẽ hiển thị đếm ngược cho đến khi phí unstaking kết thúc. Các pool khác sẽ hiển thị nút **Collect** để nhận phần thưởng staking vào ví của bạn.
 
-![](<../../../.gitbook/assets/image (152).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28152%29.png)
 
-### **Adding and removing CAKE from a pool**
+### **Thêm và rút CAKE khỏi pool**
 
-You can easily add more CAKE to a Syrup Pool, or move some CAKE to a more profitable pool. Here’s how you can move your staked CAKE.
+Bạn có thể dễ dàng thêm CAKE vào Syrup Pool hoặc chuyển một số CAKE sang pool có lợi nhuận hơn. Đây là cách bạn có thể di chuyển CAKE đã stake.
 
-1\. Click the **-** to take some CAKE out of a pool, or the **+** to add more to the pool.
+1\. Nhấp vào **-** để rút một phần CAKE khỏi pool, hoặc **+** để thêm vào pool.
 
-![](<../../../.gitbook/assets/image (29).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2829%29.png)
 
-Please note that unstaking from the Auto CAKE pool has a fee of 0.1% if you unstake within 72 hours.
+Lưu ý rằng việc unstake từ pool Auto CAKE có phí 0,1% nếu bạn unstake trong vòng 72 giờ.
 
-2\. A window will open. If you clicked the **+**, choose the amount you would like to add to the pool. If you clicked the **-**, choose the amount to take out of the pool.
+2\. Một cửa sổ sẽ mở ra. Nếu bạn nhấp vào **+**, chọn số lượng bạn muốn thêm vào pool. Nếu bạn nhấp vào **-**, chọn số lượng cần rút khỏi pool.
 
-![](<../../../.gitbook/assets/image (127).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28127%29.png)
 
-3\. Click **Confirm**.
+3\. Nhấp **Confirm**.
 
-4\. After a little wait, you'll be able to see your new amount of staked tokens.
+4\. Sau một chút chờ đợi, bạn sẽ có thể thấy số lượng token đã stake mới của mình.
 
-![](<../../../.gitbook/assets/image (303).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28303%29.png)

@@ -1,35 +1,35 @@
 # FAQ
 
-<figure><img src="../../../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28206%29.png" alt=""><figcaption></figcaption></figure>
 
-### **How do I bridge assets to Aptos and provide liquidity?**
+### **Làm thế nào để tôi bridge tài sản sang Aptos và cung cấp thanh khoản?**
 
-Please check out the guide for how to [Get Aptos Coins](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos/aptos-coin-guide.md).
+Vui lòng xem hướng dẫn [Lấy Aptos Coins](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos/aptos-coin-guide.md).
 
-### How do I bridge the earned CAKE back to BNB Smart Chain?
+### Làm thế nào để tôi bridge CAKE đã kiếm trở lại BNB Smart Chain?
 
-Please check out the [CAKE Bridging Guide](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos/cake-bridging-guide.md).
+Vui lòng xem [Hướng dẫn Bridge CAKE](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos/cake-bridging-guide.md).
 
-If you are trying to bridge other assets, please check out the guide for [Get Aptos Coin](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos/aptos-coin-guide.md). You will find various bridging solutions work both ways for many popular assets.
+Nếu bạn đang cố bridge các tài sản khác, vui lòng xem hướng dẫn [Lấy Aptos Coin](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos/aptos-coin-guide.md). Bạn sẽ tìm thấy các giải pháp bridging hoạt động cả hai chiều cho nhiều tài sản phổ biến.
 
-### **Will there be more pairs?**
+### **Có thêm cặp nào không?**
 
-Yes, but we will be deploying in steps to ensure we prioritize the safety of user funds and CAKE inflation. Do let us know in the community chats what you think should be added to PancakeSwap on Aptos.&#x20;
+Có, nhưng chúng tôi sẽ triển khai theo từng bước để đảm bảo ưu tiên an toàn cho tiền của người dùng và lạm phát CAKE. Hãy cho chúng tôi biết trong các chat cộng đồng những gì bạn nghĩ nên được thêm vào PancakeSwap trên Aptos.&#x20;
 
-If you are a project building on Aptos looking to incentivize the liquidity of your token, check out [this](/broken/pages/VB58XNVaU1vlrJ3RcHif) guide and get in touch with us!
+Nếu bạn là dự án đang xây dựng trên Aptos muốn khuyến khích thanh khoản của token, hãy xem [hướng dẫn này](/broken/pages/VB58XNVaU1vlrJ3RcHif) và liên hệ với chúng tôi!
 
-### Why there isn't an "Enable" button?
+### Tại sao không có nút "Enable"?
 
-On Aptos, coins don't have to be enabled/approved for spending. So there is no need to enable contract spending on farms. Simply click the "deposit" button to start farming.
+Trên Aptos, coin không cần phải được bật/phê duyệt để chi tiêu. Vì vậy không cần bật chi tiêu hợp đồng trên farms. Chỉ cần nhấp nút "deposit" để bắt đầu farming.
 
-### Do I earn CAKE on natively Aptos?&#x20;
+### Tôi có kiếm CAKE trực tiếp trên Aptos không?&#x20;
 
-Yes, unlike crosschain farming, you will earn CAKE rewards natively on Aptos.&#x20;
+Có, không giống như farming xuyên chuỗi, bạn sẽ kiếm phần thưởng CAKE trực tiếp trên Aptos.&#x20;
 
-With our multichain expansion and deployment on Aptos. CAKE is now a multichain token that exists both on BNB Smart Chain and Aptos.&#x20;
+Với việc mở rộng multichain và triển khai trên Aptos. CAKE hiện là token multichain tồn tại trên cả BNB Smart Chain và Aptos.&#x20;
 
-CAKE on Aptos is equal to CAKE on BNB Smart Chain and can always be bridged between two chains with a 1:1 ratio.&#x20;
+CAKE trên Aptos tương đương với CAKE trên BNB Smart Chain và luôn có thể bridge giữa hai chuỗi với tỷ lệ 1:1.&#x20;
 
-Please note that there is only one CAKE. There are no different versions of CAKE between different chains. And the total supply of CAKE across all blockchains will be capped at 750M, according to our v2 tokenomic litepaper.
+Lưu ý rằng chỉ có một CAKE. Không có phiên bản CAKE khác nhau giữa các chuỗi. Và tổng nguồn cung CAKE trên tất cả blockchain sẽ được giới hạn ở 750M, theo litepaper tokenomics v2 của chúng tôi.
 
-To bridge your CAKE to BNB Smart Chain, check out the [CAKE bridging guide](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos/cake-bridging-guide.md).
+Để bridge CAKE sang BNB Smart Chain, xem [hướng dẫn bridge CAKE](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos/cake-bridging-guide.md).

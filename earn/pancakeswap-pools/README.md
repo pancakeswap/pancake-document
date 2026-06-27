@@ -1,109 +1,109 @@
-# 🌊 Liquidity Pools
+# 🌊 Nhóm thanh khoản
 
-![](../../.gitbook/assets/liquidity-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/liquidity-header.png)
 
 ## Exchange V3 <a href="#id-03e94594-5a75-4687-b260-0dc69574b953" id="id-03e94594-5a75-4687-b260-0dc69574b953"></a>
 
-In the new Exchange V3, liquidity will be managed in the form of non-fungible positions. You will still earn a share in the fees while providing liquidity.
+Trong Exchange V3 mới, thanh khoản sẽ được quản lý dưới dạng các vị thế không thể thay thế (non-fungible). Bạn vẫn sẽ kiếm được một phần phí khi cung cấp thanh khoản.
 
-When you add your token to a Liquidity Pool you will receive Liquidity Provider NFT tokens and share in the fees.
+Khi bạn thêm token vào Nhóm thanh khoản, bạn sẽ nhận được token NFT Liquidity Provider và chia sẻ phí.
 
-### **Non-fungible liquidity positions**
+### **Các vị thế thanh khoản không thể thay thế (non-fungible)**
 
-<figure><img src="../../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28238%29.png" alt=""><figcaption></figcaption></figure>
 
-In V3, liquidity providers now have more control over what price range they want to deploy their liquidity. So, when you add your token to a Liquidity Pool in V3, you will create a new non-fungible liquidity position with its unique settings.
+Trong V3, các nhà cung cấp thanh khoản giờ đây có nhiều quyền kiểm soát hơn về phạm vi giá mà họ muốn triển khai thanh khoản. Vì vậy, khi bạn thêm token vào Nhóm thanh khoản trong V3, bạn sẽ tạo ra một vị thế thanh khoản non-fungible mới với các cài đặt riêng biệt.
 
-Therefore, in V3, liquidity positions are NFTs. Please note that these NFTs are transferable, and they represent the ownership of the underlying assets and the trading fees they earned.
+Do đó, trong V3, các vị thế thanh khoản là NFT. Lưu ý rằng các NFT này có thể chuyển nhượng và chúng đại diện cho quyền sở hữu các tài sản cơ bản và phí giao dịch mà chúng kiếm được.
 
-In V3, trading fees will no longer be automatically compounded in the position. You can manually claim them on each of the position detail pages.
+Trong V3, phí giao dịch sẽ không còn được tự động gộp lãi trong vị thế. Bạn có thể tự nhận chúng trên từng trang chi tiết vị thế.
 
-You can redeem your funds at any time by removing your liquidity.
+Bạn có thể rút tiền bất kỳ lúc nào bằng cách xóa thanh khoản.
 
-### **Active liquidity and price ranges**
+### **Thanh khoản đang hoạt động và phạm vi giá**
 
-In V3, liquidity providers can configure their positions to only provide liquidity when the price is within a certain range. If the trading price moves out of the range, the position will consist of only one type of token in the pair and become inactive.
+Trong V3, các nhà cung cấp thanh khoản có thể cấu hình vị thế của họ để chỉ cung cấp thanh khoản khi giá nằm trong một phạm vi nhất định. Nếu giá giao dịch vượt ra ngoài phạm vi, vị thế sẽ chỉ bao gồm một loại token trong cặp và trở nên không hoạt động.
 
-Inactive liquidity positions will not participate in trading or earn any trading fees.
+Các vị thế thanh khoản không hoạt động sẽ không tham gia giao dịch hoặc kiếm bất kỳ phí giao dịch nào.
 
-### **Concentrated liquidity**
+### **Thanh khoản tập trung**
 
-In V3, because of liquidity providers can concentrate their token deposits to provide liquidity only within a specific price range. With the same amount of underlying assets, V3 can support a much bigger trade.
+Trong V3, vì các nhà cung cấp thanh khoản có thể tập trung tiền gửi token để chỉ cung cấp thanh khoản trong một phạm vi giá cụ thể. Với cùng lượng tài sản cơ bản, V3 có thể hỗ trợ giao dịch lớn hơn nhiều.
 
-It results in a much higher relative liquidity level when compared to V2. And liquidity providers can earn more trading fees with the same amount of capital.
+Điều này dẫn đến mức thanh khoản tương đối cao hơn nhiều khi so sánh với V2. Và các nhà cung cấp thanh khoản có thể kiếm được nhiều phí giao dịch hơn với cùng lượng vốn.
 
-Here is an example:
+Đây là một ví dụ:
 
-> Baller and Claire both provided liquidity in CAKE/USDT pool with $1,000 USD worth of token assets. The current price of CAKE is 5 USDT.
+> Baller và Claire đều cung cấp thanh khoản trong pool CAKE/USDT với tài sản token trị giá 1.000 USD. Giá hiện tại của CAKE là 5 USDT.
 >
-> Similar to PancakeSwap v2, Baller provided his liquidity across the entire price range. Therefore he deposited all of his capital, 500 USDT and 100 CAKE.
+> Tương tự như PancakeSwap v2, Baller cung cấp thanh khoản trên toàn bộ phạm vi giá. Do đó anh ấy đã nạp toàn bộ vốn, 500 USDT và 100 CAKE.
 >
-> Claire utilize the new concentrated liquidity feature in PancakeSwap v3 and created a position with a price range of 2 to 12.5 USDT per CAKE. She deposited 185 USDT and 37 CAKE, worth a total of $370. She is now able to spend the remaining $630 elsewhere, like locking CAKE in the Syrup pool to enjoy high CAKE yield while receiving a series of PancakeSwap ecosystem benefits.
+> Claire sử dụng tính năng thanh khoản tập trung mới trong PancakeSwap v3 và tạo vị thế với phạm vi giá từ 2 đến 12,5 USDT mỗi CAKE. Cô ấy nạp 185 USDT và 37 CAKE, tổng trị giá 370 đô. Cô ấy có thể chi 630 đô còn lại ở chỗ khác, chẳng hạn như khóa CAKE trong Syrup pool để hưởng lợi suất CAKE cao trong khi nhận một loạt lợi ích hệ sinh thái PancakeSwap.
 >
-> As long as CAKE stays within the price range of 2 to 12.5, both Baller and Claire will receive the same amount of trading fee rewards while Claire deposited way less capital to the liquidity pool.
+> Miễn là CAKE nằm trong phạm vi giá từ 2 đến 12,5, cả Baller và Claire sẽ nhận được cùng lượng phần thưởng phí giao dịch trong khi Claire nạp ít vốn hơn nhiều vào pool thanh khoản.
 
-### **Trading fees**&#x20;
+### **Phí giao dịch**&#x20;
 
-Providing liquidity gives you a reward in the form of trading fees when people use your liquidity pool to complete swaps.
+Cung cấp thanh khoản cho bạn phần thưởng dưới dạng phí giao dịch khi mọi người sử dụng pool thanh khoản để hoàn thành hoán đổi.
 
-Whenever someone trades on PancakeSwap, for each hop (swap) in each Exchange V3 liquidity pool, depending on the liquidity pool fee tier, the trader pays a fee ranging from 0.01% to 1%. Their fee rates and fee breakdowns are shown as follows:
+Bất cứ khi nào ai đó giao dịch trên PancakeSwap, đối với mỗi lần nhảy (hoán đổi) trong mỗi pool thanh khoản Exchange V3, tùy thuộc vào mức phí pool thanh khoản, người giao dịch trả một khoản phí dao động từ 0,01% đến 1%. Tỷ lệ phí và phân tích chi tiết phí được hiển thị như sau:
 
 <details>
 
-<summary>Trading Fees (EVM)</summary>
+<summary>Phí giao dịch (EVM)</summary>
 
-| Fee Component / Fee tier | 0.01% | 0.05% | 0.25% | 1%  |
+| Thành phần phí / Mức phí | 0.01% | 0.05% | 0.25% | 1%  |
 | ------------------------ | ----- | ----- | ----- | --- |
 | Liquidity Provider       | 67%   | 66%   | 68%   | 68% |
 | CAKE Burn                | 15%   | 15%   | 23%   | 23% |
 | Treasury                 | 18%   | 19%   | 9%    | 9%  |
 
-For example, in a 0.25% fee tier pool:
+Ví dụ, trong pool mức phí 0,25%:
 
-* Among all the active (in-range) liquidity positions, there are a total of 10 CAKE and 10 BNB tokens.
-* Someone trades 1 CAKE for 1 BNB.
-* Someone else trades 1 BNB for 1 CAKE.
-* The liquidity providers who are in the range providing active liquidity earned a total of 0.0017 CAKE and 0.0017 BNB from the trades.
-* Positions with price ranges that are not covering the current price, therefore being inactive, will not contribute to trading or earn any fees.
+* Trong số tất cả các vị thế thanh khoản đang hoạt động (trong phạm vi), tổng cộng có 10 CAKE và 10 BNB.
+* Ai đó đổi 1 CAKE lấy 1 BNB.
+* Ai đó khác đổi 1 BNB lấy 1 CAKE.
+* Các nhà cung cấp thanh khoản trong phạm vi cung cấp thanh khoản đang hoạt động kiếm được tổng cộng 0,0017 CAKE và 0,0017 BNB từ các giao dịch.
+* Các vị thế có phạm vi giá không bao phủ giá hiện tại, do đó không hoạt động, sẽ không đóng góp vào giao dịch hoặc kiếm bất kỳ phí nào.
 
 </details>
 
 <details>
 
-<summary><strong>Trading fees (Solana)</strong></summary>
+<summary><strong>Phí giao dịch (Solana)</strong></summary>
 
-**Available V3 CLMM Pool Fee Tiers:**\
+**Các mức phí Pool CLMM V3 có sẵn:**\
 0.01%, 0.02%, 0.03%, 0.04%, 0.05%, 0.1%, 0.15%, 0.16%, 0.18%, 0.2%, 0.25%, 0.4%, 0.6%, 0.8%, 1%, 2%, 3%, 4%
 
-**Note:** The fee **distribution remains the same** across all fee tiers.
+**Lưu ý:** **Phân phối phí vẫn như nhau** trên tất cả các mức phí.
 
-| Fee Component                 | % of Total Swap Fee | Description                                                   |
-| ----------------------------- | ------------------- | ------------------------------------------------------------- |
-| **LPs (Liquidity Providers)** | 84%                 | Earned by LPs who provide liquidity in the active price range |
-| **Burn**                      | 8%                  | Permanently removed to reduce CAKE supply                     |
-| **Treasury**                  | 8%                  | Allocated to the PancakeSwap protocol treasury                |
+| Thành phần phí                      | % Tổng phí hoán đổi | Mô tả                                                              |
+| ----------------------------------- | ------------------- | ------------------------------------------------------------------ |
+| **LPs (Nhà cung cấp thanh khoản)**  | 84%                 | Kiếm bởi LP cung cấp thanh khoản trong phạm vi giá đang hoạt động |
+| **Burn**                            | 8%                  | Loại bỏ vĩnh viễn để giảm nguồn cung CAKE                         |
+| **Treasury**                        | 8%                  | Phân bổ cho kho bạc giao thức PancakeSwap                         |
 
-**Example: Fee Distribution in a 0.25% CAKE/SOL Pool**
+**Ví dụ: Phân phối phí trong pool CAKE/SOL 0,25%**
 
-1. **Pool Setup:** Total active liquidity: 10 CAKE and 10 SOL (in-range positions).
-2. **Swaps Occur:**
-   * User A swaps 1 CAKE → 1 SOL.
-   * User B swaps 1 SOL → 1 CAKE.
-3. **Total Fees Collected:**
-   * 0.25% per trade × 2 trades = **0.005 CAKE + 0.005 SOL**.
-4. **Fee Distribution:**
-   * **84% to LPs:** 0.0042 CAKE + 0.0042 SOL
-   * **8% to Burn:** 0.0004 CAKE + 0.0004 SOL
-   * **8% to Treasury:** 0.0004 CAKE + 0.0004 SOL
-5. **LP Earnings:**
-   * Only **in-range LPs** earn fees. Fees are distributed proportionally based on each LP’s share.
-   * **Out-of-range LPs** earn **no fees**.
+1. **Thiết lập pool:** Tổng thanh khoản đang hoạt động: 10 CAKE và 10 SOL (các vị thế trong phạm vi).
+2. **Các hoán đổi xảy ra:**
+   * Người dùng A hoán đổi 1 CAKE → 1 SOL.
+   * Người dùng B hoán đổi 1 SOL → 1 CAKE.
+3. **Tổng phí thu:**
+   * 0,25% mỗi giao dịch × 2 giao dịch = **0,005 CAKE + 0,005 SOL**.
+4. **Phân phối phí:**
+   * **84% cho LPs:** 0,0042 CAKE + 0,0042 SOL
+   * **8% để Burn:** 0,0004 CAKE + 0,0004 SOL
+   * **8% cho Treasury:** 0,0004 CAKE + 0,0004 SOL
+5. **Thu nhập LP:**
+   * Chỉ các **LP trong phạm vi** mới kiếm phí. Phí được phân phối theo tỷ lệ dựa trên cổ phần của mỗi LP.
+   * **LP ngoài phạm vi** **không kiếm phí**.
 
 </details>
 
-### **Earning CAKE**
+### **Kiếm CAKE**
 
-To make being a liquidity provider even more worth your while, you can also put your liquidity positions to work whipping up some fresh yield on the [CAKE Farms](https://pancakeswap.finance/liquidity/pools), while still earning trading fee rewards.
+Để làm cho việc trở thành nhà cung cấp thanh khoản xứng đáng hơn, bạn cũng có thể đưa các vị thế thanh khoản vào làm việc để tạo ra lợi suất tươi trên [CAKE Farms](https://pancakeswap.finance/liquidity/pools), trong khi vẫn kiếm phần thưởng phí giao dịch.
 
 ***
 
@@ -111,26 +111,26 @@ To make being a liquidity provider even more worth your while, you can also put 
 
 ### LP Tokens
 
-<figure><img src="../../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28142%29.png" alt=""><figcaption></figcaption></figure>
 
-As an example, if you deposited **CAKE** and **BNB** into a Liquidity Pool, you'd receive **CAKE-BNB LP** tokens.
+Ví dụ, nếu bạn nạp **CAKE** và **BNB** vào Nhóm thanh khoản, bạn sẽ nhận được token **CAKE-BNB LP**.
 
-The number of LP tokens you receive represents your portion of the CAKE-BNB Liquidity Pool.
+Số lượng LP token bạn nhận đại diện cho phần của bạn trong Nhóm thanh khoản CAKE-BNB.
 
-You can also redeem your funds at any time by removing your liquidity.
+Bạn cũng có thể rút tiền bất kỳ lúc nào bằng cách xóa thanh khoản.
 
-### **Earning trading fees**
+### **Kiếm phí giao dịch**
 
-Whenever someone trades on PancakeSwap, for each hop (swap) in each Exchange V2 liquidity pool, the trader pays a fixed 0.25% fee, **of which 0.17%** is added back to the Liquidity Pool in a form of trading fees.
+Bất cứ khi nào ai đó giao dịch trên PancakeSwap, đối với mỗi lần nhảy (hoán đổi) trong mỗi pool thanh khoản Exchange V2, người giao dịch trả phí cố định 0,25%, **trong đó 0,17%** được thêm trở lại vào Nhóm thanh khoản dưới dạng phí giao dịch.
 
-### **Earning CAKE**
+### **Kiếm CAKE**
 
-The old Exchange V2 will be running in parallel with the new Exchange V3. So, some trading pairs will remain on PancakeSwap Exchange V2 and have their corresponding V2 Farms. Please check the tags to identify the exchange versions.
+Exchange V2 cũ sẽ chạy song song với Exchange V3 mới. Vì vậy, một số cặp giao dịch sẽ vẫn ở trên PancakeSwap Exchange V2 và có Farm V2 tương ứng. Vui lòng kiểm tra các thẻ để xác định phiên bản exchange.
 
 
 
-## Impermanent Loss
+## Tổn thất tạm thời
 
-Providing liquidity is not without risk, as you may be exposed to impermanent loss.
+Cung cấp thanh khoản không phải là không có rủi ro, vì bạn có thể bị tổn thất tạm thời.
 
-[“Simply put, impermanent loss is the difference between holding tokens in an AMM and holding them in your wallet.” - Nate Hindman](https://blog.bancor.network/beginners-guide-to-getting-rekt-by-impermanent-loss-7c9510cb2f22)
+["Nói một cách đơn giản, tổn thất tạm thời là sự chênh lệch giữa việc giữ token trong AMM và giữ chúng trong ví của bạn." - Nate Hindman](https://blog.bancor.network/beginners-guide-to-getting-rekt-by-impermanent-loss-7c9510cb2f22)

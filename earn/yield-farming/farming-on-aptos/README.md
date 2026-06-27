@@ -1,21 +1,21 @@
 ---
-description: Receive the same juicy CAKE rewards by farming on Aptos
+description: Nhận phần thưởng CAKE hấp dẫn tương tự bằng cách farming trên Aptos
 ---
 
-# Farming on Aptos
+# Farming trên Aptos
 
-<figure><img src="../../../.gitbook/assets/farming-on-aptos.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/farming-on-aptos.png" alt=""><figcaption></figcaption></figure>
 
-With our multichain deployment, PancakeSwap is now bringing the iconic yield farming experience to liquidity providers on Aptos. Yield Farms allow users to earn CAKE while supporting PancakeSwap by staking LP Tokens.
+Với việc triển khai multichain, PancakeSwap hiện đang mang trải nghiệm Yield Farming biểu tượng đến các nhà cung cấp thanh khoản trên Aptos. Yield Farms cho phép người dùng kiếm CAKE trong khi hỗ trợ PancakeSwap bằng cách stake LP Tokens.
 
-Check out the [main section](../) to learn more about yield farming.
+Xem [phần chính](../) để tìm hiểu thêm về Yield Farming.
 
-We designed the product experience to be consistent across different blockchains. Therefore, if you are a seasonal Farm user on BSC, you will feel right at home when farming on Aptos. If you are new to liquidity farming, check out our [How to Use Farms guide](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) to get started.
+Chúng tôi đã thiết kế trải nghiệm sản phẩm nhất quán trên các blockchain khác nhau. Do đó, nếu bạn là người dùng Farm thường xuyên trên BSC, bạn sẽ cảm thấy như ở nhà khi farming trên Aptos. Nếu bạn mới với liquidity farming, hãy xem hướng dẫn [Cách Sử dụng Farms](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) để bắt đầu.
 
-To learn more about how to bridge your assets and CAKE between BSC and Aptos. Check out the [CAKE Bridging Guide](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos/cake-bridging-guide.md).
+Để tìm hiểu thêm về cách bridge tài sản và CAKE giữa BSC và Aptos. Xem [Hướng dẫn Bridge CAKE](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos/cake-bridging-guide.md).
 
 {% hint style="warning" %}
-Yield farming can give better rewards than Syrup Pools, but it comes with a risk of **Impermanent Loss**. It’s not as scary as it sounds, but it is worth learning about the concept before you get started.
+Yield farming có thể mang lại phần thưởng tốt hơn Syrup Pools, nhưng nó đi kèm với rủi ro về **Tổn thất tạm thời**. Nghe có vẻ đáng sợ, nhưng đáng để tìm hiểu về khái niệm này trước khi bắt đầu.
 
-Check out this great [article about Impermanent Loss ](https://academy.binance.com/en/articles/impermanent-loss-explained)from Binance Academy to learn more.
+Xem [bài viết tuyệt vời về Tổn thất tạm thời ](https://academy.binance.com/en/articles/impermanent-loss-explained)từ Binance Academy để tìm hiểu thêm.
 {% endhint %}

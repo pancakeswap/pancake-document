@@ -2,5 +2,4 @@
 hidden: true
 ---
 
-# Liquidity Pool FAQ
-
+# FAQ về Nhóm thanh khoản

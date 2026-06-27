@@ -1,68 +1,68 @@
-# FAQ (Partners)
+# FAQ (Đối tác)
 
 {% hint style="success" %}
-For more information visit: [https://pancakeswap.notion.site/cakepad](https://pancakeswap.notion.site/cakepad)
+Để biết thêm thông tin, hãy truy cập: [https://pancakeswap.notion.site/cakepad](https://pancakeswap.notion.site/cakepad)
 
-👉 [Apply to launch now!](https://docs.google.com/forms/d/e/1FAIpQLScmZu87SG41J_eGfzlbyJ_olFohlGOXfOJer04Dr1yCEJy2NA/viewform)
+👉 [Đăng ký khởi chạy ngay!](https://docs.google.com/forms/d/e/1FAIpQLScmZu87SG41J_eGfzlbyJ_olFohlGOXfOJer04Dr1yCEJy2NA/viewform)
 {% endhint %}
 
-### 1. Who can apply to launch an CAKE.PAD event?
+### 1. Ai có thể đăng ký khởi chạy sự kiện CAKE.PAD?
 
-Eligible projects must:
+Các dự án đủ điều kiện phải:
 
-* Have a functioning product or MVP.
-* Be ready to launch a token and liquidity on PancakeSwap (BNB, Base, ARB, ETH, ZKsync, Linea, opBNB).
-* Allow 3–4 weeks of lead time before TGE.
-* Demonstrate strong community growth potential.
-* Pass PancakeSwap’s due diligence review.
+* Có sản phẩm hoặc MVP đang hoạt động.
+* Sẵn sàng ra mắt token và thanh khoản trên PancakeSwap (BNB, Base, ARB, ETH, ZKsync, Linea, opBNB).
+* Cho phép 3–4 tuần thời gian chuẩn bị trước TGE.
+* Thể hiện tiềm năng tăng trưởng cộng đồng mạnh mẽ.
+* Vượt qua quá trình thẩm định của PancakeSwap.
 
-**How to apply:**
+**Cách đăng ký:**
 
-* Fill out the [application form](https://docs.google.com/forms/d/e/1FAIpQLScmZu87SG41J_eGfzlbyJ_olFohlGOXfOJer04Dr1yCEJy2NA/viewform).
-* If suitable, PancakeSwap will contact you for further due diligence.
-* Once approved, the team will align on tokenomics, marketing, and launch timeline.
-* Marketing and community onboarding begins.
-* Launch CAKE.PAD event.
+* Điền vào [mẫu đăng ký](https://docs.google.com/forms/d/e/1FAIpQLScmZu87SG41J_eGfzlbyJ_olFohlGOXfOJer04Dr1yCEJy2NA/viewform).
+* Nếu phù hợp, PancakeSwap sẽ liên hệ để thẩm định thêm.
+* Sau khi được chấp thuận, nhóm sẽ đồng thuận về tokenomics, marketing và thời gian ra mắt.
+* Bắt đầu marketing và giới thiệu cộng đồng.
+* Khởi chạy sự kiện CAKE.PAD.
 
-### 2. What are the launch fees?
+### 2. Phí khởi chạy là bao nhiêu?
 
-* Launching a CAKE.PAD event on PancakeSwap is **completely free**.
-* PancakeSwap does not charge any fees to projects.
+* Khởi chạy sự kiện CAKE.PAD trên PancakeSwap là **hoàn toàn miễn phí**.
+* PancakeSwap không thu bất kỳ phí nào từ dự án.
 
-### 3. Do CAKE.PAD events support lockups or cliffing schedules?
+### 3. Sự kiện CAKE.PAD có hỗ trợ lockup hoặc lịch cliff không?
 
-* Yes, but current CAKE.PAD event launches are conducted **without any lockups**.
+* Có, nhưng các sự kiện CAKE.PAD hiện tại được tiến hành **không có bất kỳ lockup nào**.
 
-### 4. How PancakeSwap Supports CAKE.PAD Partner Projects
+### 4. Cách PancakeSwap hỗ trợ các dự án đối tác CAKE.PAD
 
 {% hint style="success" %}
-See stats and past performance of CAKE.PAD partner projects launched with PancakeSwap: [https://pancakeswap.notion.site/cakepad](https://pancakeswap.notion.site/cakepad)
+Xem số liệu thống kê và hiệu suất trong quá khứ của các dự án đối tác CAKE.PAD được ra mắt với PancakeSwap: [https://pancakeswap.notion.site/cakepad](https://pancakeswap.notion.site/cakepad)
 {% endhint %}
 
 #### Co-Marketing
 
-* Access to >400k DAUs and >2M social media followers.
-* PancakeSwap provides co-marketing support **before, during, and after** the CAKE.PAD event.
-* Could include social media announcements, KOL marketing, ads on PCS home page, and incentives for users to try your product.
-* Projects should allocate a marketing budget for these activities.
+* Tiếp cận hơn 400 nghìn DAU và hơn 2 triệu người theo dõi trên mạng xã hội.
+* PancakeSwap cung cấp hỗ trợ co-marketing **trước, trong và sau** sự kiện CAKE.PAD.
+* Có thể bao gồm thông báo trên mạng xã hội, marketing KOL, quảng cáo trên trang chủ PCS và ưu đãi để người dùng thử sản phẩm của bạn.
+* Các dự án nên phân bổ ngân sách marketing cho các hoạt động này.
 
-🔗 [Example social media announcement](https://x.com/PancakeSwap/status/1879107402752245982)
+🔗 [Ví dụ thông báo trên mạng xã hội](https://x.com/PancakeSwap/status/1879107402752245982)
 
-#### LP Incentives
+#### Ưu đãi LP
 
-* Reward users providing liquidity (e.g., XYZ-BNB or XYZ-USDT).
-* Builds deep liquidity for your token pair on a DEX with >$2B TVL and >$3B daily volume.
-* Improves trading experience with low slippage.
-* Boosts token visibility and market traction.
+* Thưởng cho người dùng cung cấp thanh khoản (ví dụ: XYZ-BNB hoặc XYZ-USDT).
+* Xây dựng thanh khoản sâu cho cặp token của bạn trên DEX với TVL >2 tỷ đô và khối lượng giao dịch hàng ngày >3 tỷ đô.
+* Cải thiện trải nghiệm giao dịch với trượt giá thấp.
+* Tăng khả năng hiển thị token và sức hút thị trường.
 
-#### Syrup Pool Campaign
+#### Chiến dịch Syrup Pool
 
-* Launch a **“Stake XYZ, Earn CAKE”** staking campaign to increase token utility and encourage user acquisition and retention.
-* Typically attracts **4,500 to 6,000 unique wallet address**.
+* Ra mắt chiến dịch staking **"Stake XYZ, Earn CAKE"** để tăng tiện ích token và khuyến khích mua lại và giữ chân người dùng.
+* Thường thu hút **4.500 đến 6.000 địa chỉ ví độc đáo**.
 
-#### Trading Contests
+#### Cuộc thi giao dịch
 
-* Post-CAKE.PAD event trading contests amplify trading activity and visibility.
-* Historically, campaigns see **5x to 10x boost in trading volume**.
+* Các cuộc thi giao dịch sau sự kiện CAKE.PAD khuếch đại hoạt động giao dịch và khả năng hiển thị.
+* Theo lịch sử, các chiến dịch thấy **tăng 5x đến 10x khối lượng giao dịch**.
 
-**Note:** PancakeSwap reserves the final right to decide which campaigns to support based on oversubscription and raise amount.
+**Lưu ý:** PancakeSwap giữ quyền quyết định cuối cùng về các chiến dịch nào sẽ hỗ trợ dựa trên mức đăng ký quá mức và số tiền huy động.

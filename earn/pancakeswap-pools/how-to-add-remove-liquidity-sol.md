@@ -1,166 +1,166 @@
-# How to Add / Remove Liquidity (SOL)
+# Cách Thêm / Xóa Thanh khoản (SOL)
 
-"Liquidity" is central to how PancakeSwap's Exchange works. You can add liquidity for any token pair by staking both through the Liquidity page.
+"Thanh khoản" là trung tâm của cách Exchange PancakeSwap hoạt động. Bạn có thể thêm thanh khoản cho bất kỳ cặp token nào bằng cách stake cả hai qua trang Liquidity.
 
-In return for adding liquidity, you'll receive trading fees for that pair and farming rewards (if applicable)
+Đổi lại khi thêm thanh khoản, bạn sẽ nhận được phí giao dịch cho cặp đó và phần thưởng farming (nếu có)
 
-PancakeSwap V3 lets you provide **concentrated liquidity** — meaning you choose the price range where your liquidity is active. This gives you more control and efficiency over how your capital is used.
+PancakeSwap V3 cho phép bạn cung cấp **thanh khoản tập trung** — nghĩa là bạn chọn phạm vi giá nơi thanh khoản của bạn đang hoạt động. Điều này cung cấp cho bạn nhiều quyền kiểm soát và hiệu quả hơn về cách vốn của bạn được sử dụng.
 
 {% hint style="warning" %}
-**Note:** Images shown in this guide are for illustrative purposes only and may not reflect real-time data or current pool statistics.
+**Lưu ý:** Hình ảnh được hiển thị trong hướng dẫn này chỉ nhằm mục đích minh họa và có thể không phản ánh dữ liệu thực tế hoặc số liệu thống kê pool hiện tại.
 {% endhint %}
 
 ***
 
-## Add Liquidity
+## Thêm Thanh khoản
 
-You can add liquidity in two ways:
+Bạn có thể thêm thanh khoản theo hai cách:
 
-* **Option 1:** Add to an existing pool
-* **Option 2:** Add more tokens to a position you've already created
+* **Tùy chọn 1:** Thêm vào pool hiện có
+* **Tùy chọn 2:** Thêm token vào vị thế bạn đã tạo
 
 ***
 
-### Option 1: Add to an Existing Pool
+### Tùy chọn 1: Thêm vào Pool Hiện có
 
-#### Step 1: Go to the Pool List Page
+#### Bước 1: Đến Trang Danh sách Pool
 
-Here you’ll see all active V3 pools on Solana.
+Tại đây bạn sẽ thấy tất cả các pool V3 đang hoạt động trên Solana.
 
-<figure><img src="../../.gitbook/assets/image (386).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28386%29.png" alt=""><figcaption></figcaption></figure>
 
-#### Step 2: Use Filters to Find Your Pool
+#### Bước 2: Sử dụng Bộ lọc để Tìm Pool
 
-You can use the filters at the top of the page to:
+Bạn có thể sử dụng các bộ lọc ở đầu trang để:
 
-*   **Search** for a specific token pair<br>
+*   **Tìm kiếm** cặp token cụ thể<br>
 
-    <figure><img src="../../.gitbook/assets/image (387).png" alt=""><figcaption></figcaption></figure>
-*   **Change layout view** (grid/list)<br>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28387%29.png" alt=""><figcaption></figcaption></figure>
+*   **Thay đổi bố cục xem** (lưới/danh sách)<br>
 
-    <figure><img src="../../.gitbook/assets/image (388).png" alt=""><figcaption></figcaption></figure>
-*   **Sort pools** by TVL, Volume, Fees, or APR<br>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28388%29.png" alt=""><figcaption></figcaption></figure>
+*   **Sắp xếp pool** theo TVL, Khối lượng, Phí hoặc APR<br>
 
-    <figure><img src="../../.gitbook/assets/image (389).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28389%29.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
-If your pool doesn’t appear immediately after creation, please allow up to 5 minutes. TVL, volume, fees, and APR stats are updated approximately every 15 minutes as swaps flow through the pool.
+Nếu pool của bạn không xuất hiện ngay sau khi tạo, vui lòng chờ đến 5 phút. Số liệu TVL, khối lượng, phí và APR được cập nhật khoảng mỗi 15 phút khi các hoán đổi chạy qua pool.
 {% endhint %}
 
-#### Step 3: Choose How You Want to Add Liquidity
+#### Bước 3: Chọn Cách Bạn Muốn Thêm Thanh khoản
 
-You can start the process by either:
+Bạn có thể bắt đầu quy trình bằng cách:
 
-*   Clicking **“Deposit”** on the pool card<br>
+*   Nhấp vào **"Deposit"** trên thẻ pool<br>
 
-    <figure><img src="../../.gitbook/assets/image (390).png" alt=""><figcaption></figcaption></figure>
-*   OR clicking **“Create New Position”** under “My Positions”<br>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28390%29.png" alt=""><figcaption></figcaption></figure>
+*   HOẶC nhấp vào **"Create New Position"** dưới "My Positions"<br>
 
-    <figure><img src="../../.gitbook/assets/image (391).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28391%29.png" alt=""><figcaption></figcaption></figure>
 
-#### Step 4: Set Your Price Range
+#### Bước 4: Đặt Phạm vi Giá
 
-Since this is a V3 pool, you’ll need to choose a price range for your liquidity:
+Vì đây là pool V3, bạn cần chọn phạm vi giá cho thanh khoản:
 
-*   Use **quick preset ranges** (e.g. +- 25%) or set a custom range<br>
+*   Sử dụng **phạm vi nhanh** (ví dụ: +- 25%) hoặc đặt phạm vi tùy chỉnh<br>
 
-    <figure><img src="../../.gitbook/assets/image (392).png" alt=""><figcaption></figcaption></figure>
-*   Use the **price direction toggle** to switch between base/quote view<br>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28392%29.png" alt=""><figcaption></figcaption></figure>
+*   Sử dụng **nút chuyển hướng giá** để chuyển đổi giữa chế độ xem base/quote<br>
 
-    <figure><img src="../../.gitbook/assets/image (393).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28393%29.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-Watch for **alerts** if:
+Chú ý **cảnh báo** nếu:
 
-* Your selected range is far from the market price
-* The pool has low liquidity
+* Phạm vi đã chọn của bạn cách xa giá thị trường
+* Pool có ít thanh khoản
 {% endhint %}
 
-#### Step 5: Enter Deposit Amount
+#### Bước 5: Nhập Số Lượng Nạp
 
-Input the token amounts you want to supply
+Nhập số lượng token bạn muốn cung cấp
 
-\*\* APR won’t appear until you’ve entered amounts for both tokens
+\*\* APR sẽ không xuất hiện cho đến khi bạn nhập số lượng cho cả hai token
 
-<figure><img src="../../.gitbook/assets/image (394).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28394%29.png" alt=""><figcaption></figcaption></figure>
 
-#### Step 6: Preview & Confirm
+#### Bước 6: Xem trước & Xác nhận
 
-*   Click **“Add Liquidity”**
+*   Nhấp vào **"Add Liquidity"**
 
-    <figure><img src="../../.gitbook/assets/image (396).png" alt=""><figcaption></figcaption></figure>
-*   Review your position in the preview modal<br>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28396%29.png" alt=""><figcaption></figcaption></figure>
+*   Xem lại vị thế của bạn trong modal xem trước<br>
 
-    <figure><img src="../../.gitbook/assets/image (397).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28397%29.png" alt=""><figcaption></figcaption></figure>
 
-Once confirmed, the transaction will be submitted, and your position will be created!
-
-***
-
-### Option 2: Add More Liquidity to an Existing Position
-
-#### Step 1: Go to “My Positions”
-
-Here you’ll see all your active V3 liquidity positions.
-
-<figure><img src="../../.gitbook/assets/image (398).png" alt=""><figcaption></figcaption></figure>
-
-#### Step 2: Click the “+” Button
-
-This lets you add more tokens to your current price range.
-
-<figure><img src="../../.gitbook/assets/image (399).png" alt=""><figcaption></figcaption></figure>
-
-#### Step 3: Enter Deposit Amount
-
-Add the token amounts you want and click **“Confirm”**.
-
-<figure><img src="../../.gitbook/assets/image (400).png" alt=""><figcaption></figcaption></figure>
-
-You'll see a success message upon confirmation.
-
-<figure><img src="../../.gitbook/assets/image (401).png" alt=""><figcaption></figcaption></figure>
+Sau khi xác nhận, giao dịch sẽ được gửi và vị thế của bạn sẽ được tạo!
 
 ***
 
-## Remove Liquidity
+### Tùy chọn 2: Thêm Thanh khoản vào Vị thế Hiện có
 
-You can remove liquidity from any of your active positions directly from the **My Positions** tab.
+#### Bước 1: Đến "My Positions"
 
-#### 1. Go to **My Positions**
+Tại đây bạn sẽ thấy tất cả các vị thế thanh khoản V3 đang hoạt động của bạn.
 
-<figure><img src="../../.gitbook/assets/image (402).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28398%29.png" alt=""><figcaption></figcaption></figure>
 
-#### 2. Select the Position You’d Like to Remove Liquidity From
+#### Bước 2: Nhấp vào Nút "+"
 
-Click the **“−”** icon next to the position.
+Điều này cho phép bạn thêm token vào phạm vi giá hiện tại.
 
-<figure><img src="../../.gitbook/assets/image (403).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28399%29.png" alt=""><figcaption></figcaption></figure>
 
-#### 3. Enter the Amount You Want to Remove
+#### Bước 3: Nhập Số Lượng Nạp
 
-You can either:
+Thêm số lượng token bạn muốn và nhấp **"Confirm"**.
 
-* Manually input the token amounts
-* **OR** use the **slider** to select a percentage of your current position
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28400%29.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (404).png" alt=""><figcaption></figcaption></figure>
+Bạn sẽ thấy thông báo thành công khi xác nhận.
 
-#### 4. (Optional) Keep Your Position Open After Removing Liquidity
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28401%29.png" alt=""><figcaption></figcaption></figure>
 
-If you select **"Keep my position open"** when removing **100%** of your liquidity:
+***
 
-* Your tokens will be withdrawn
-* But the position’s history and your original price range will **remain visible** under **My Positions**
+## Xóa Thanh khoản
 
-If you wish to **completely close the position**, including its price range display:
+Bạn có thể xóa thanh khoản từ bất kỳ vị thế đang hoạt động nào trực tiếp từ tab **My Positions**.
 
-* Click the **“X”** icon
+#### 1. Đến **My Positions**
 
-<figure><img src="../../.gitbook/assets/image (408).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28402%29.png" alt=""><figcaption></figcaption></figure>
 
-#### 5. Reuse the Same Price Range
+#### 2. Chọn Vị thế Bạn Muốn Xóa Thanh khoản
 
-You can also **add more liquidity** to the same price range later, following the same steps as when you first added liquidity.
+Nhấp vào biểu tượng **"−"** bên cạnh vị thế.
 
-<figure><img src="../../.gitbook/assets/image (409).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28403%29.png" alt=""><figcaption></figcaption></figure>
+
+#### 3. Nhập Số Lượng Bạn Muốn Xóa
+
+Bạn có thể:
+
+* Nhập thủ công số lượng token
+* **HOẶC** sử dụng **thanh trượt** để chọn tỷ lệ phần trăm vị thế hiện tại
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28404%29.png" alt=""><figcaption></figcaption></figure>
+
+#### 4. (Tùy chọn) Giữ Vị thế Mở Sau Khi Xóa Thanh khoản
+
+Nếu bạn chọn **"Keep my position open"** khi xóa **100%** thanh khoản:
+
+* Token của bạn sẽ được rút
+* Nhưng lịch sử vị thế và phạm vi giá ban đầu của bạn sẽ **vẫn hiển thị** trong **My Positions**
+
+Nếu bạn muốn **hoàn toàn đóng vị thế**, bao gồm cả hiển thị phạm vi giá:
+
+* Nhấp vào biểu tượng **"X"**
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28408%29.png" alt=""><figcaption></figcaption></figure>
+
+#### 5. Sử dụng Lại Cùng Phạm vi Giá
+
+Bạn cũng có thể **thêm thanh khoản** vào cùng phạm vi giá sau này, theo các bước tương tự như khi bạn lần đầu thêm thanh khoản.
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28409%29.png" alt=""><figcaption></figcaption></figure>

@@ -1,87 +1,87 @@
 ---
-description: Simple liquidity provisioning with only one click
+description: Cung cấp thanh khoản đơn giản chỉ với một cú nhấp chuột
 hidden: true
 ---
 
 # Zap (V2)
 
-<img src="../../../.gitbook/assets/zap-0.png" alt="" data-size="original">
+<img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-0.png" alt="" data-size="original">
 
-### What is Zap? <a href="#h.lv839zkjvd8q" id="h.lv839zkjvd8q"></a>
+### Zap là gì? <a href="#h.lv839zkjvd8q" id="h.lv839zkjvd8q"></a>
 
-Zap enables simple liquidity provision. Add liquidity with only one token and one single click, without manual swapping or token balancing.
+Zap cho phép cung cấp thanh khoản đơn giản. Thêm thanh khoản chỉ với một token và một cú nhấp chuột, không cần hoán đổi thủ công hoặc cân bằng token.
 
-* Add liquidity with only one token: You can add liquidity using only one token in the trading pair. Zap will automatically perform swaps using the one token you provide and automatically balance the trading pair to a 50/50 split before adding liquidity.
-* Add liquidity with an imbalanced number of tokens in the trading pair: You can add liquidity even if the number of the tokens you provide in the trading pair is not perfectly balanced with the current pool. For example 30:70, which differs from the default pool weight of 50:50. Zap will automatically rebalance the tokens into a 50/50 split before adding liquidity.
-* Remove liquidity and choose what token(s) you want to receive: When removing liquidity, Zap allows you to receive only one token in the trading pair. Zap will automatically perform swaps before returning your tokens.
+* Thêm thanh khoản chỉ với một token: Bạn có thể thêm thanh khoản chỉ bằng một token trong cặp giao dịch. Zap sẽ tự động thực hiện hoán đổi bằng token bạn cung cấp và tự động cân bằng cặp giao dịch về tỷ lệ 50/50 trước khi thêm thanh khoản.
+* Thêm thanh khoản với số lượng token mất cân bằng trong cặp giao dịch: Bạn có thể thêm thanh khoản ngay cả khi số lượng token bạn cung cấp trong cặp giao dịch không cân bằng hoàn hảo với pool hiện tại. Ví dụ 30:70, khác với trọng số pool mặc định 50:50. Zap sẽ tự động cân bằng lại token về tỷ lệ 50/50 trước khi thêm thanh khoản.
+* Xóa thanh khoản và chọn token nào bạn muốn nhận: Khi xóa thanh khoản, Zap cho phép bạn chỉ nhận một token trong cặp giao dịch. Zap sẽ tự động thực hiện hoán đổi trước khi trả lại token.
 
-### Enable Zap <a href="#h.8q1zrb4afp7i" id="h.8q1zrb4afp7i"></a>
+### Bật Zap <a href="#h.8q1zrb4afp7i" id="h.8q1zrb4afp7i"></a>
 
-By default, the Zap feature is turned on for every user. If you don’t see the new Zap UI when adding or removing liquidity, please enable it in the settings panel. You can bring up the settings panel by clicking the cog icon.
+Theo mặc định, tính năng Zap được bật cho mỗi người dùng. Nếu bạn không thấy giao diện Zap mới khi thêm hoặc xóa thanh khoản, vui lòng bật trong bảng cài đặt. Bạn có thể mở bảng cài đặt bằng cách nhấp biểu tượng bánh răng.
 
-![](../../../.gitbook/assets/zap-8.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-8.png)
 
 {% hint style="warning" %}
-Note: Currently, the Zap feature is in beta. Please note that It does not support some tokens, such as tokens with fees on transfers. If you experience any issue while adding or removing liquidity, please disable it in the settings panel.
+Lưu ý: Hiện tại, tính năng Zap đang trong giai đoạn beta. Lưu ý rằng nó không hỗ trợ một số token, chẳng hạn như token có phí khi chuyển nhượng. Nếu bạn gặp bất kỳ vấn đề nào khi thêm hoặc xóa thanh khoản, vui lòng tắt trong bảng cài đặt.
 {% endhint %}
 
-### Zap In (Add Liquidity) <a href="#h.xp3to7fwu7s6" id="h.xp3to7fwu7s6"></a>
+### Zap In (Thêm Thanh khoản) <a href="#h.xp3to7fwu7s6" id="h.xp3to7fwu7s6"></a>
 
-Visit the [Liquidity page](https://pancakeswap.finance/liquidity), and choose “Add Liquidity”.
+Truy cập [trang Liquidity](https://pancakeswap.finance/liquidity) và chọn "Add Liquidity".
 
-Pick the trading pair you want to provide liquidity to by selecting two input tokens, checkout [Liquidity guide](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide) to learn more.
+Chọn cặp giao dịch bạn muốn cung cấp thanh khoản bằng cách chọn hai token đầu vào, xem [hướng dẫn Thanh khoản](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide) để tìm hiểu thêm.
 
-![](../../../.gitbook/assets/zap-1.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-1.png)
 
-Click the “Add Liquidity” button to proceed.
+Nhấp nút "Add Liquidity" để tiến hành.
 
-If the token in the trading pair you are adding liquidity to has a balance in your wallet. The checkbox for that token will be automatically checked. If you have both the tokens have a balance in your wallet, both checkboxes will be checked.
+Nếu token trong cặp giao dịch bạn đang thêm thanh khoản có số dư trong ví của bạn. Checkbox cho token đó sẽ tự động được chọn. Nếu cả hai token đều có số dư trong ví của bạn, cả hai checkbox sẽ được chọn.
 
-![](../../../.gitbook/assets/zap-6.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-6.png)
 
-### Zap using one token <a href="#h.oc5fxca1vzfj" id="h.oc5fxca1vzfj"></a>
+### Zap bằng một token <a href="#h.oc5fxca1vzfj" id="h.oc5fxca1vzfj"></a>
 
-You can add liquidity using only one token in the trading pair. Simple check only one checkbox for the token you wish to use. Zap will automatically swap half of the checked tokens into another token in the trading pair before adding liquidity. You will see a warning message indicating which token will be converted.
+Bạn có thể thêm thanh khoản chỉ bằng một token trong cặp giao dịch. Chỉ chọn một checkbox cho token bạn muốn sử dụng. Zap sẽ tự động hoán đổi một nửa token đã chọn sang token kia trong cặp giao dịch trước khi thêm thanh khoản. Bạn sẽ thấy thông báo cảnh báo cho biết token nào sẽ được chuyển đổi.
 
-![](../../../.gitbook/assets/zap-3.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-3.png)
 
 {% hint style="info" %}
-If the price impact is too high, Zap will protect you by slippage. Click “Reduce TOKEN” to reduce it to the preferred limit.
+Nếu tác động giá quá cao, Zap sẽ bảo vệ bạn bằng trượt giá. Nhấp "Reduce TOKEN" để giảm xuống giới hạn ưu tiên.
 {% endhint %}
 
-![](../../../.gitbook/assets/zap-7.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-7.png)
 
-### Zap using two tokens with imbalanced amounts <a href="#h.4k2b7plmt9t0" id="h.4k2b7plmt9t0"></a>
+### Zap bằng hai token với số lượng mất cân bằng <a href="#h.4k2b7plmt9t0" id="h.4k2b7plmt9t0"></a>
 
-If both tokens are checked, the amounts of the input tokens don't match a 50/50 split. Zap balancing will be introduced. You will see a message of “Some of your Token A will be converted to Token B”.
+Nếu cả hai token được chọn, số lượng token đầu vào không khớp với tỷ lệ 50/50. Cân bằng Zap sẽ được áp dụng. Bạn sẽ thấy thông báo "Some of your Token A will be converted to Token B".
 
-![](../../../.gitbook/assets/zap-2.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-2.png)
 
 {% hint style="info" %}
-If you don’t want Zap to balance the number of tokens before adding liquidity, simply click “Don’t Convert”. In this case, Zap will adjust the number of input tokens to match a 50/50 split instead of trying to swap and rebalance.
+Nếu bạn không muốn Zap cân bằng số lượng token trước khi thêm thanh khoản, chỉ cần nhấp "Don't Convert". Trong trường hợp này, Zap sẽ điều chỉnh số lượng token đầu vào để khớp với tỷ lệ 50/50 thay vì cố hoán đổi và cân bằng lại.
 {% endhint %}
 
-### Proceed with Zap <a href="#h.t4trnmo4dzno" id="h.t4trnmo4dzno"></a>
+### Tiến hành Zap <a href="#h.t4trnmo4dzno" id="h.t4trnmo4dzno"></a>
 
-When you click “Supply”, the details of the Zap will be shown and await you to confirm.
+Khi bạn nhấp "Supply", chi tiết của Zap sẽ được hiển thị và chờ bạn xác nhận.
 
-You will see:
+Bạn sẽ thấy:
 
-1. How many LP tokens you will receive.
-2. What are the input tokens, and the number of tokens you are committing.
-3. How the input tokens are traded in order to match a 50/50 split.
-4. The slippage tolerance you are using.
+1. Bạn sẽ nhận được bao nhiêu LP token.
+2. Token đầu vào là gì và số lượng token bạn đang nạp.
+3. Cách các token đầu vào được giao dịch để khớp với tỷ lệ 50/50.
+4. Dung sai trượt giá bạn đang sử dụng.
 
-![](../../../.gitbook/assets/zap-4.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-4.png)
 
-### Zap out (Remove Liquidity) <a href="#h.whuk5lgc371r" id="h.whuk5lgc371r"></a>
+### Zap out (Xóa Thanh khoản) <a href="#h.whuk5lgc371r" id="h.whuk5lgc371r"></a>
 
-Zap also enables you to receive one single token in the trading pair when removing liquidity.
+Zap cũng cho phép bạn nhận một token đơn lẻ trong cặp giao dịch khi xóa thanh khoản.
 
-1. Visit the[ ](https://www.google.com/url?q=https://exchange.pancakeswap.finance/%23/pool\&sa=D\&source=editors\&ust=1656322371442758\&usg=AOvVaw2ZJPj_97-YuUMQjQbYbfN4)[Liquidity page](https://pancakeswap.finance/swap#/pool).
-2. Click on the pair you want to remove liquidity under “Your Liquidity".
-3. Click “Remove”. A new pop-up will appear.
+1. Truy cập [trang Liquidity](https://pancakeswap.finance/swap#/pool).
+2. Nhấp vào cặp bạn muốn xóa thanh khoản trong "Your Liquidity".
+3. Nhấp "Remove". Một cửa sổ pop-up mới sẽ xuất hiện.
 
-Under the “You Will Receive” section, you can uncheck the token you don’t want to receive. Zap will automatically swap and convert 100% of the returns into the checked token when removing liquidity.
+Trong phần "You Will Receive", bạn có thể bỏ chọn token bạn không muốn nhận. Zap sẽ tự động hoán đổi và chuyển đổi 100% số tiền trả về thành token đã chọn khi xóa thanh khoản.
 
-![](../../../.gitbook/assets/zap-5.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-5.png)

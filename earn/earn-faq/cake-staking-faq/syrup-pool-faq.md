@@ -1,68 +1,68 @@
-# Syrup Pool FAQ & Troubleshooting
+# FAQ & Xử lý sự cố Syrup Pool
 
-## Troubleshooting
+## Xử lý sự cố
 
-### **I can't find the Syrup Pool I was staking in!**
+### **Tôi không tìm thấy Syrup Pool tôi đang stake!**
 
-You should be able to find the Syrup Pool under the “Finished” tab on the Syrup Pools page.&#x20;
+Bạn sẽ có thể tìm thấy Syrup Pool trong tab "Finished" trên trang Syrup Pools.&#x20;
 
-By selecting “Staked Only”, it will make it easier to find your assets.
+Bằng cách chọn "Staked Only", sẽ dễ dàng hơn để tìm tài sản của bạn.
 
-### **Why can’t I unstake my tokens from a Syrup Pool?**
+### **Tại sao tôi không thể unstake token của mình từ Syrup Pool?**
 
-If you are unable to unstake from the Stake Cake, Earn CAKE pools, please check to make sure that you haven’t sold the SYRUP tokens in your wallet. This token acts as a \`proof of ownership\` over your CAKE in the Manual CAKE pool.&#x20;
+Nếu bạn không thể unstake từ các pool Stake Cake, Earn CAKE, vui lòng kiểm tra để đảm bảo rằng bạn chưa bán token SYRUP trong ví của mình. Token này hoạt động như bằng chứng sở hữu\` đối với CAKE của bạn trong Manual CAKE pool.&#x20;
 
-### **Why did my earned tokens go to zero after staking/unstaking?**
+### **Tại sao token kiếm được của tôi về 0 sau khi staking/unstaking?**
 
-Don’t worry! They’re in your wallet already.
+Đừng lo lắng! Chúng đã có trong ví của bạn rồi.
 
-Whenever you stake or unstake from a Syrup Pool or farm, your earned tokens get harvested and sent to your wallet at the same time.
+Mỗi khi bạn stake hoặc unstake từ Syrup Pool hoặc farm, token kiếm được của bạn sẽ được thu hoạch và gửi đến ví của bạn cùng một lúc.
 
-## **General Questions**
+## **Câu hỏi chung**
 
-### How is APR for Syrup Pools calculated?
+### APR cho Syrup Pools được tính như thế nào?
 
-> Syrup Pool APR = Annualized rewards (USD) / User funds staked in Syrup Pool (USD) \* 100
+> APR Syrup Pool = Phần thưởng hàng năm (USD) / Tiền của người dùng stake trong Syrup Pool (USD) \* 100
 
-As a basic example, let's take a 60-day pool with 300,000 USD worth of rewards, and 3,000,000 USD worth of CAKE staked in it.
+Làm ví dụ cơ bản, hãy lấy pool 60 ngày với 300.000 USD phần thưởng và 3.000.000 USD CAKE được stake trong đó.
 
-The APR fluctuates as more CAKE is staked by users, and as the price of CAKE, and the reward token, vary.
+APR dao động khi nhiều CAKE được người dùng stake hơn và khi giá CAKE và token phần thưởng thay đổi.
 
-|                                                       | **Calculation**                   | Amount                                     |
-| ----------------------------------------------------- | --------------------------------- | ------------------------------------------ |
-| Total rewards to distribute (USD value)               |                                   | 300,000 USD                                |
-| Distribution period                                   |                                   | 60 days                                    |
-| Daily distribution                                    | 300,000 / 60 =                    | 5,000 USD daily                            |
-| **Annualised rewards (USD value)**                    | 5,000 \* 365 =                    | **1,825,000 USD**                          |
-| **Value of CAKE staked by users in pool (USD value)** |                                   | **3,000,000 USD**                          |
-| **APR**                                               | (1,825,000 / 3,000,000) \* 100 =  | <p></p><p><strong>60.833% APR</strong></p> |
+|                                                         | **Tính toán**                     | Số lượng                                      |
+| ------------------------------------------------------- | --------------------------------- | --------------------------------------------- |
+| Tổng phần thưởng phân phối (giá trị USD)                |                                   | 300.000 USD                                   |
+| Thời gian phân phối                                     |                                   | 60 ngày                                       |
+| Phân phối hàng ngày                                     | 300.000 / 60 =                    | 5.000 USD mỗi ngày                            |
+| **Phần thưởng hàng năm (giá trị USD)**                  | 5.000 \* 365 =                    | **1.825.000 USD**                             |
+| **Giá trị CAKE được người dùng stake trong pool (USD)** |                                   | **3.000.000 USD**                             |
+| **APR**                                                 | (1.825.000 / 3.000.000) \* 100 =  | <p></p><p><strong>60,833% APR</strong></p>    |
 
-### **What does the “End” number on my Syrup Pool refer to?**
+### **Con số "End" trên Syrup Pool của tôi đề cập đến gì?**
 
-This shows the amount of blocks left until the rewards for that pool stop being distributed. Once the pool has reached that block, you should unstake your tokens, because you won’t be receiving any rewards after that.
+Đây cho thấy số lượng block còn lại cho đến khi phần thưởng cho pool đó ngừng phân phối. Khi pool đạt đến block đó, bạn nên unstake token của mình, vì bạn sẽ không nhận được bất kỳ phần thưởng nào sau đó.
 
-### **Where do the rewards from Syrup Pools come from?**
+### **Phần thưởng từ Syrup Pools đến từ đâu?**
 
-There are three main types of Syrup Pools.
+Có ba loại Syrup Pools chính.
 
-1. Stake CAKE, earn CAKE
-2. Stake CAKE, earn other tokens.&#x20;
-3. Stake other tokens, earn CAKE
+1. Stake CAKE, kiếm CAKE
+2. Stake CAKE, kiếm token khác.&#x20;
+3. Stake token khác, kiếm CAKE
 
-The rewards for the "Stake CAKE, earn CAKE" Syrup Pools come from the [CAKE emissions](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics). Each block, a number of CAKE tokens are allocated as rewards for these pools.
+Phần thưởng cho các Syrup Pools "Stake CAKE, earn CAKE" đến từ [CAKE emissions](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics). Mỗi block, một số lượng token CAKE được phân bổ như phần thưởng cho các pool này.
 
-The rewards for the "Stake CAKE, earn other tokens" type are provided by the project teams who sponsor a Syrup Pool.
+Phần thưởng cho loại "Stake CAKE, earn other tokens" được cung cấp bởi các nhóm dự án tài trợ cho Syrup Pool.
 
-For the "Stake other tokens, earn CAKE" type, the PancakeSwap treasury buys back CAKE from the market to distribute as rewards. These pools are funded by PancakeSwap, not by the projects themselves.
+Đối với loại "Stake other tokens, earn CAKE", kho bạc PancakeSwap mua lại CAKE từ thị trường để phân phối như phần thưởng. Các pool này được tài trợ bởi PancakeSwap, không phải bởi các dự án.
 
-### What’s SYRUP Token?
+### SYRUP Token là gì?
 
-PancakeSwap’s SYRUP Token is deposited in your wallet when you interact with the **Manual** “Stake CAKE, Earn CAKE” Syrup Pool. It's not staked for&#x20;
+SYRUP Token của PancakeSwap được gửi vào ví của bạn khi bạn tương tác với **Manual** "Stake CAKE, Earn CAKE" Syrup Pool. Nó không được stake.
 
-It’s basically an IOU that shows how much CAKE you’ve staked in the pool.
+Về cơ bản đây là IOU cho thấy bạn đã stake bao nhiêu CAKE trong pool.
 
-It’ll be returned automatically when you unstake your CAKE from that pool.
+Nó sẽ được trả lại tự động khi bạn unstake CAKE từ pool đó.
 
 {% hint style="warning" %}
-Don’t sell your SYRUP tokens! You need to return your SYRUP to unstake your CAKE from the Manual CAKE pool. The amount of SYRUP you return must be the same as the amount of CAKE you unstake.
+Đừng bán token SYRUP của bạn! Bạn cần trả lại SYRUP để unstake CAKE từ Manual CAKE pool. Số lượng SYRUP bạn trả lại phải bằng với số lượng CAKE bạn unstake.
 {% endhint %}

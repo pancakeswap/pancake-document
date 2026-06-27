@@ -2,164 +2,164 @@
 hidden: true
 ---
 
-# veCAKE FAQ
+# FAQ về veCAKE
 
-<figure><img src="../../../.gitbook/assets/image (340).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28340%29.png" alt=""><figcaption></figcaption></figure>
 
-#### What’s the difference between locked CAKE and veCAKE? <a href="#bb73a991-c71b-402c-a0c3-64b8666626c2" id="bb73a991-c71b-402c-a0c3-64b8666626c2"></a>
+#### Sự khác biệt giữa CAKE bị khóa và veCAKE là gì? <a href="#bb73a991-c71b-402c-a0c3-64b8666626c2" id="bb73a991-c71b-402c-a0c3-64b8666626c2"></a>
 
-veCAKE is a new version of fixed-term CAKE staking with more benefits and power for locked CAKE holders. Including gauge weight voting, extra incentives, yield boosting, and more.
+veCAKE là phiên bản mới của fixed-term CAKE staking với nhiều lợi ích và quyền lực hơn cho những người giữ CAKE bị khóa. Bao gồm bỏ phiếu trọng số gauge, ưu đãi thêm, tăng cường lợi suất và nhiều hơn nữa.
 
-#### What happens to CAKE pool rewards when the new veCAKE is deployed <a href="#a078f885-3eed-4b91-98fc-1d7062415da3" id="a078f885-3eed-4b91-98fc-1d7062415da3"></a>
+#### Điều gì xảy ra với phần thưởng CAKE pool khi veCAKE mới được triển khai <a href="#a078f885-3eed-4b91-98fc-1d7062415da3" id="a078f885-3eed-4b91-98fc-1d7062415da3"></a>
 
-CAKE pool reward emissions will be diverted to reward all veCAKE holders according to their veCAKE balance against the total supply.
+Emissions phần thưởng CAKE pool sẽ được chuyển hướng để thưởng cho tất cả những người giữ veCAKE theo số dư veCAKE của họ so với tổng cung.
 
-CAKE rewards and the weekly revenue-sharing rewards can now be claimed weekly on Thursday.
+Phần thưởng CAKE và phần thưởng chia sẻ doanh thu hàng tuần giờ đây có thể được nhận hàng tuần vào thứ Năm.
 
-Please note that to continue receiving rewards, users will need to migrate to the new veCAKE staking.
+Lưu ý rằng để tiếp tục nhận phần thưởng, người dùng sẽ cần chuyển sang veCAKE staking mới.
 
-#### What is the maximum duration I can lock my CAKE <a href="#id-9224ca4c-1f31-4052-8ed7-3bb896e396f3" id="id-9224ca4c-1f31-4052-8ed7-3bb896e396f3"></a>
+#### Thời gian tối đa tôi có thể khóa CAKE là bao lâu <a href="#id-9224ca4c-1f31-4052-8ed7-3bb896e396f3" id="id-9224ca4c-1f31-4052-8ed7-3bb896e396f3"></a>
 
-The maximum duration you can lock your CAKE has now been extended to 4 years.
+Thời gian tối đa bạn có thể khóa CAKE hiện đã được mở rộng lên 4 năm.
 
-#### Is veCAKE a new token? Can it be transferred? <a href="#id-26bce2a7-fb4c-453c-b4bb-e2d446660c77" id="id-26bce2a7-fb4c-453c-b4bb-e2d446660c77"></a>
+#### veCAKE có phải là token mới không? Nó có thể chuyển nhượng không? <a href="#id-26bce2a7-fb4c-453c-b4bb-e2d446660c77" id="id-26bce2a7-fb4c-453c-b4bb-e2d446660c77"></a>
 
-veCAKE is a live-generated number based on the number of CAKE locked and the remaining lock time. It is not a standard token and can not be transferred.
+veCAKE là một con số được tạo ra trực tiếp dựa trên số lượng CAKE bị khóa và thời gian khóa còn lại. Nó không phải là token tiêu chuẩn và không thể chuyển nhượng.
 
-#### Why did my veCAKE balance change? How to calculate its balance? <a href="#id-52f27118-bbf3-448b-9ffe-e9e1a9dd97ef" id="id-52f27118-bbf3-448b-9ffe-e9e1a9dd97ef"></a>
+#### Tại sao số dư veCAKE của tôi thay đổi? Làm thế nào để tính số dư? <a href="#id-52f27118-bbf3-448b-9ffe-e9e1a9dd97ef" id="id-52f27118-bbf3-448b-9ffe-e9e1a9dd97ef"></a>
 
-veCAKE balance is linearly decreasing to 0 based on the remaining lock duration. Therefore when we are approaching the unlock time, your balance decreases.
+Số dư veCAKE giảm tuyến tính về 0 dựa trên thời gian khóa còn lại. Do đó khi chúng ta đang tiến gần đến thời điểm mở khóa, số dư của bạn giảm.
 
-veCAKE balance can be calculated by:
+Số dư veCAKE có thể được tính bằng:
 
 ```javascript
-lockedAmount // amount of CAKE locked
-currentTime // current time
-lockEndTime // the unlock time
-maxLockTime = 209 * 7 * 24 * 60 * 60 - 1 = 126403199 // max lock time (4 years)
+lockedAmount // số lượng CAKE bị khóa
+currentTime // thời gian hiện tại
+lockEndTime // thời gian mở khóa
+maxLockTime = 209 * 7 * 24 * 60 * 60 - 1 = 126403199 // thời gian khóa tối đa (4 năm)
 
 remainingLockTime = lockEndTime - currentTime
 veCAKE = lockedAmount * (remainingLockTime / maxLockTime)
 ```
 
-#### How to increase my veCAKE? <a href="#dddbafc4-7361-46a3-a040-09812f8a660e" id="dddbafc4-7361-46a3-a040-09812f8a660e"></a>
+#### Làm thế nào để tăng veCAKE của tôi? <a href="#dddbafc4-7361-46a3-a040-09812f8a660e" id="dddbafc4-7361-46a3-a040-09812f8a660e"></a>
 
-Once you have an active veCAKE position, you can either add more CAKE or renew/extend your lock duration to boost your veCAKE balance.
+Khi bạn có vị thế veCAKE đang hoạt động, bạn có thể thêm CAKE hoặc gia hạn/mở rộng thời gian khóa để tăng số dư veCAKE.
 
-#### What happens when the position unlocks? Can I renew rightaway? <a href="#a819a132-aa20-41f1-9d92-3227ad0e2ead" id="a819a132-aa20-41f1-9d92-3227ad0e2ead"></a>
+#### Điều gì xảy ra khi vị thế mở khóa? Tôi có thể gia hạn ngay không? <a href="#a819a132-aa20-41f1-9d92-3227ad0e2ead" id="a819a132-aa20-41f1-9d92-3227ad0e2ead"></a>
 
-When the veCAKE staking position is unlocked, you may withdraw all the staked CAKE.
+Khi vị thế veCAKE staking được mở khóa, bạn có thể rút tất cả CAKE đã stake.
 
-To renew your position, you need to withdraw all the CAKE and set up a new staking position by choosing the amount to lock and the lock duration.
+Để gia hạn vị thế, bạn cần rút tất cả CAKE và thiết lập vị thế staking mới bằng cách chọn số lượng cần khóa và thời gian khóa.
 
-#### I locked for 1 week, why the remaining lock time is less than 1 week? <a href="#id-79f8be72-0138-48da-a609-e47a091be03c" id="id-79f8be72-0138-48da-a609-e47a091be03c"></a>
+#### Tôi đã khóa trong 1 tuần, tại sao thời gian khóa còn lại ít hơn 1 tuần? <a href="#id-79f8be72-0138-48da-a609-e47a091be03c" id="id-79f8be72-0138-48da-a609-e47a091be03c"></a>
 
-When you lock with the new veCAKE, the unlock time is being rounded forward to the nearest Thursday with UTC time. For example, when you lock for 1 week on Tuesday, your actual unlock time will be the upcoming Thursday, which is 2 days later.
+Khi bạn khóa với veCAKE mới, thời gian mở khóa được làm tròn về phía trước đến thứ Năm gần nhất với giờ UTC. Ví dụ: khi bạn khóa trong 1 tuần vào thứ Ba, thời gian mở khóa thực tế của bạn sẽ là thứ Năm sắp tới, tức là 2 ngày sau.
 
-You can preview your actual unlock time at the bottom.
+Bạn có thể xem trước thời gian mở khóa thực tế ở phía dưới.
 
-#### Can I lock more CAKE in CAKE pool? <a href="#id-2cc44f53-8e03-48dd-8caa-66c4942c9d39" id="id-2cc44f53-8e03-48dd-8caa-66c4942c9d39"></a>
+#### Tôi có thể khóa thêm CAKE trong CAKE pool không? <a href="#id-2cc44f53-8e03-48dd-8caa-66c4942c9d39" id="id-2cc44f53-8e03-48dd-8caa-66c4942c9d39"></a>
 
-No.
+Không.
 
-Once veCAKE is deployed, the CAKE staking pool will be deprecated and no longer accepts any further CAKE extension or deposits.
+Khi veCAKE được triển khai, CAKE staking pool sẽ bị ngừng sử dụng và không còn chấp nhận bất kỳ gia hạn hoặc tiền nạp CAKE nào nữa.
 
-To lock CAKE and enjoy its benefits, go to the veCAKE page.
+Để khóa CAKE và tận hưởng các lợi ích, hãy truy cập trang veCAKE.
 
-#### Why can’t I migrate? <a href="#id-4d8fd967-e743-4496-b030-5955be861373" id="id-4d8fd967-e743-4496-b030-5955be861373"></a>
+#### Tại sao tôi không thể chuyển đổi? <a href="#id-4d8fd967-e743-4496-b030-5955be861373" id="id-4d8fd967-e743-4496-b030-5955be861373"></a>
 
-Migrating from CAKE pool to veCAKE requires you to have an active position. If your CAKE pool staking position is already unlocked, simply withdraw those CAKE and create a native veCAKE staking position.
+Chuyển đổi từ CAKE pool sang veCAKE yêu cầu bạn phải có vị thế đang hoạt động. Nếu vị thế staking CAKE pool của bạn đã được mở khóa, chỉ cần rút CAKE đó và tạo vị thế veCAKE staking gốc.
 
-In some cases, migration can not be performed when your remaining CAKE pool lock time is less than 7 days. In such case, simply wait for the unlock, withdraw those CAKE and create a native veCAKE staking position.
+Trong một số trường hợp, không thể thực hiện chuyển đổi khi thời gian khóa CAKE pool còn lại ít hơn 7 ngày. Trong trường hợp đó, chỉ cần đợi mở khóa, rút CAKE đó và tạo vị thế veCAKE staking gốc.
 
-#### Can I early withdraw my locked CAKE? <a href="#id-5972f3cf-81dd-46d4-8a85-7972d722a53c" id="id-5972f3cf-81dd-46d4-8a85-7972d722a53c"></a>
+#### Tôi có thể rút CAKE bị khóa sớm không? <a href="#id-5972f3cf-81dd-46d4-8a85-7972d722a53c" id="id-5972f3cf-81dd-46d4-8a85-7972d722a53c"></a>
 
-No.
+Không.
 
-Once locked, CAKE will be staked in the veCAKE contract until the unlock time.
+Khi bị khóa, CAKE sẽ được stake trong hợp đồng veCAKE cho đến thời điểm mở khóa.
 
-#### Can I partially migrate my CAKE? <a href="#id-0c4cdba6-7994-4fed-80d1-76597444f761" id="id-0c4cdba6-7994-4fed-80d1-76597444f761"></a>
+#### Tôi có thể chuyển đổi một phần CAKE không? <a href="#id-0c4cdba6-7994-4fed-80d1-76597444f761" id="id-0c4cdba6-7994-4fed-80d1-76597444f761"></a>
 
-No.
+Không.
 
-You can only migrate your entire CAKE pool position at once.
+Bạn chỉ có thể chuyển đổi toàn bộ vị thế CAKE pool của mình cùng một lúc.
 
-#### What will happen to iCAKE, bCAKE, vCAKE and rCAKE? <a href="#d828038d-6066-469e-a8d3-5bf4b95699b2" id="d828038d-6066-469e-a8d3-5bf4b95699b2"></a>
+#### Điều gì sẽ xảy ra với iCAKE, bCAKE, vCAKE và rCAKE? <a href="#d828038d-6066-469e-a8d3-5bf4b95699b2" id="d828038d-6066-469e-a8d3-5bf4b95699b2"></a>
 
-**For iCAKE:**
+**Đối với iCAKE:**
 
-IFO iCAKE has now been upgraded to support veCAKE. Check out:
+IFO iCAKE đã được nâng cấp để hỗ trợ veCAKE. Xem:
 
 {% content-ref url="../../../welcome-to-pancakeswap/vecake-sunset/icake.md" %}
 [icake.md](../../../welcome-to-pancakeswap/vecake-sunset/icake.md)
 {% endcontent-ref %}
 
-**For bCAKE:**
+**Đối với bCAKE:**
 
-Farm boosting bCAKE has now been upgraded to support veCAKE. Check out:
+Farm boosting bCAKE đã được nâng cấp để hỗ trợ veCAKE. Xem:
 
 {% content-ref url="../../../welcome-to-pancakeswap/vecake-sunset/bcake/" %}
 [bcake](../../../welcome-to-pancakeswap/vecake-sunset/bcake/)
 {% endcontent-ref %}
 
-**For vCAKE:**
+**Đối với vCAKE:**
 
-Voting vCAKE has now been upgraded to support veCAKE. Check out:
+Bỏ phiếu vCAKE đã được nâng cấp để hỗ trợ veCAKE. Xem:
 
 {% content-ref url="../../../protocol/voting/voting-guide/" %}
 [voting-guide](../../../protocol/voting/voting-guide/)
 {% endcontent-ref %}
 
-**For rCAKE:**
+**Đối với rCAKE:**
 
-All veCAKE holders (either native or migrated) will automatically enrolled in the new revenue sharing pool. Revenue shares are distributed according to the existing schedule. The old revenue sharing pool will be discontinued, users can claim their pending rewards by going to the benefit card. Check out:
+Tất cả những người giữ veCAKE (gốc hoặc đã chuyển đổi) sẽ tự động được đăng ký vào pool chia sẻ doanh thu mới. Cổ phần doanh thu được phân phối theo lịch trình hiện có. Pool chia sẻ doanh thu cũ sẽ bị ngừng hoạt động, người dùng có thể nhận phần thưởng đang chờ xử lý bằng cách đến thẻ lợi ích. Xem:
 
 {% content-ref url="/broken/pages/wQegezs7c6A2HzQjPEjh" %}
 [Broken link](/broken/pages/wQegezs7c6A2HzQjPEjh)
 {% endcontent-ref %}
 
-#### Can multisig wallets be used for interacting with veCAKE?
+#### Ví multisig có thể được sử dụng để tương tác với veCAKE không?
 
-Yes
+Có
 
-However, there was a `noContract` modifier implemented in the veCAKE staking contract for addresses that are not whitelisted. To enable staking or migrating from fixed-term CAKE staking pool. All contract-based multisig wallets must perform a one-time, self-whitelisting action.
+Tuy nhiên, đã có modifier `noContract` được triển khai trong hợp đồng veCAKE staking cho các địa chỉ không có trong danh sách trắng. Để cho phép staking hoặc chuyển đổi từ CAKE staking pool fixed-term. Tất cả ví multisig dựa trên hợp đồng phải thực hiện hành động tự đưa vào danh sách trắng một lần.
 
-To whitelist, visit either of the following pages:
+Để đưa vào danh sách trắng, hãy truy cập một trong các trang sau:
 
 * [https://pancakeswap.finance/cake-staking](https://pancakeswap.finance/cake-staking)
 * [https://pancakeswap.finance/gauge-voting](https://pancakeswap.finance/gauge-voting)
 * [https://pancakeswap.finance/pools](https://pancakeswap.finance/pools)
 
-A prompt should appear. Click "Whitelist" and proceed with the tx in your multisig wallet.
+Một lời nhắc sẽ xuất hiện. Nhấp "Whitelist" và tiến hành tx trong ví multisig của bạn.
 
-A tx will be fired to the owner of the veCAKE, which is a contract with a permission-less write function to allow any contract to perform self-whitelisting.
+Một tx sẽ được gửi đến chủ sở hữu của veCAKE, đây là hợp đồng với hàm ghi không cần quyền để cho phép bất kỳ hợp đồng nào tự đưa vào danh sách trắng.
 
-If the prompt doesn't appear, follow this instruction to execute the tx from [BscScan](https://bscscan.com/address/0xe6cdC66A96458FbF11F632B50964153fBDa78548#writeContract#F11):
+Nếu lời nhắc không xuất hiện, hãy làm theo hướng dẫn này để thực thi tx từ [BscScan](https://bscscan.com/address/0xe6cdC66A96458FbF11F632B50964153fBDa78548#writeContract#F11):
 
 ```
-// call:
+// gọi:
 VECakeOwner.setWhitelist(bool _status = true)
 
-// VECakeOwner address:
+// Địa chỉ VECakeOwner:
 https://bscscan.com/address/0xe6cdC66A96458FbF11F632B50964153fBDa78548#writeContract#F11
 ```
 
-#### Why there are multiple APRs?
+#### Tại sao có nhiều APR?
 
-Locking CAKE to get veCAKE provides a number of great benefits around the suite of products built by PancakeSwap. Benefits and incentives come in different forms and from different sources. Therefore, there are multiple APRs.
+Khóa CAKE để nhận veCAKE cung cấp một số lợi ích tuyệt vời xung quanh bộ sản phẩm được xây dựng bởi PancakeSwap. Các lợi ích và ưu đãi đến dưới nhiều hình thức và từ các nguồn khác nhau. Do đó, có nhiều APR.
 
-You can earn all of them concurrently therefore the combined APR will be the sum of all the APRs.
+Bạn có thể kiếm tất cả chúng đồng thời, do đó APR kết hợp sẽ là tổng của tất cả các APR.
 
-Please note that many other benefits from veCAKE can not be quantified in the format of APRs, such as [Farm Yield Booster bCAKE](../../../welcome-to-pancakeswap/vecake-sunset/bcake/), or [IFO iCAKE](../../../welcome-to-pancakeswap/vecake-sunset/icake.md). Be sure to check those out too.
+Lưu ý rằng nhiều lợi ích khác từ veCAKE không thể được định lượng theo định dạng APR, chẳng hạn như [Farm Yield Booster bCAKE](../../../welcome-to-pancakeswap/vecake-sunset/bcake/) hoặc [IFO iCAKE](../../../welcome-to-pancakeswap/vecake-sunset/icake.md). Hãy chắc chắn xem những cái đó nữa.
 
-#### What is veCAKE Pool APR?
+#### APR Pool veCAKE là gì?
 
-This is the incentive coming from CAKE emissions, with its rate controlled by the veCAKE Pool voting gauge.
+Đây là ưu đãi đến từ CAKE emissions, với tỷ lệ được kiểm soát bởi gauge bỏ phiếu veCAKE Pool.
 
-To increase the emission to this gauge, check out [Gauge Voting](../../../welcome-to-pancakeswap/vecake-sunset/gauges-voting/).
+Để tăng emission cho gauge này, hãy xem [Gauge Voting](../../../welcome-to-pancakeswap/vecake-sunset/gauges-voting/).
 
-#### What is Revenue Sharing APR?
+#### APR Chia sẻ doanh thu là gì?
 
-This is the incentive coming from protocol revenue sharing, coming from swap fees collected in DEX products.
+Đây là ưu đãi đến từ chia sẻ doanh thu giao thức, đến từ phí hoán đổi thu được trong các sản phẩm DEX.
 
-Check out [Revenue Sharing](/broken/pages/wQegezs7c6A2HzQjPEjh) for more info.
+Xem [Revenue Sharing](/broken/pages/wQegezs7c6A2HzQjPEjh) để biết thêm thông tin.

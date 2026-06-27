@@ -2,76 +2,76 @@
 hidden: true
 ---
 
-# Gauges Voting FAQ
+# FAQ về bỏ phiếu Gauges
 
-### I have an active position, why I can not vote? <a href="#cae64522-4729-43a2-8fa8-6bbd2567dcea" id="cae64522-4729-43a2-8fa8-6bbd2567dcea"></a>
+### Tôi có vị thế hoạt động, tại sao tôi không thể bỏ phiếu? <a href="#cae64522-4729-43a2-8fa8-6bbd2567dcea" id="cae64522-4729-43a2-8fa8-6bbd2567dcea"></a>
 
-Please ensure your unlock time is equal to or later than 1 week after the snapshot time of the current epoch.&#x20;
+Vui lòng đảm bảo thời gian mở khóa của bạn bằng hoặc muộn hơn 1 tuần sau thời điểm snapshot của epoch hiện tại.&#x20;
 
-If your position is unlocking at the snapshot time, it means you have 0 veCAKE at the snapshot time. Therefore you are not able to vote.
-
-
-
-### Can vote right after I set up a veCAKE position?
-
-Yes.
-
-Once your position is set up, you can use your cake to vote right away.
-
-However:
-
-* No votes can be cast within the last 24 hours of an epoch.
-* You can not update your voting decision on a specific gauge more frequently than 10 days.
-* Please ensure your position is not unlocking earlier than or at the snapshot time.
+Nếu vị thế của bạn đang mở khóa tại thời điểm snapshot, nghĩa là bạn có 0 veCAKE tại thời điểm snapshot. Do đó bạn không thể bỏ phiếu.
 
 
 
-### Can I gain more veCAKE or votes?
+### Có thể bỏ phiếu ngay sau khi thiết lập vị thế veCAKE không?
 
-Yes, simply add more CAKE or extend your lock position.
+Có.
 
-Please note that after gaining more veCAKE by adding CAKE or extending lock time. You need to manually update every gauges by re-submitting the vote request.
+Khi vị thế của bạn được thiết lập, bạn có thể sử dụng cake để bỏ phiếu ngay lập tức.
 
+Tuy nhiên:
 
-
-### Why did the voting results change after the tallying period?
-
-During tallying period, the PancakeSwap Kitchen will cast its votes based on various metrics from all the gauges.&#x20;
-
-The goal is to:
-
-* Ensuring core liquidity pools are provided a competitive return on their LP positions
-* Ensuring that existing Syrup Pool partner arrangements are met before migrating them fully to the veCAKE gauge voting system
-* Ensuring that any of the smaller farms which did not receive any votes after the launch of veCAKE will receive at least some allocation in the initial rollout, capped at their current emission levels.
-
-Check out this proposal for more detail: [https://pancakeswap.finance/voting/proposal/0x9602c8f56d01f239b88ecf914ee263cc9cdd75b8d10ae4d9536fc27b2680849c](https://pancakeswap.finance/voting/proposal/0x9602c8f56d01f239b88ecf914ee263cc9cdd75b8d10ae4d9536fc27b2680849c)
+* Không thể bỏ phiếu trong 24 giờ cuối của một epoch.
+* Bạn không thể cập nhật quyết định bỏ phiếu của mình trên một gauge cụ thể thường xuyên hơn 10 ngày.
+* Vui lòng đảm bảo vị thế của bạn không mở khóa trước hoặc tại thời điểm snapshot.
 
 
 
-### Why my vote numbers are decreasing?
+### Tôi có thể có thêm veCAKE hoặc phiếu bầu không?
 
-Because when we vote on gauges, we vote using our veCAKE. And veCAKE balance gradually decreases with the remaining lock time.&#x20;
+Có, chỉ cần thêm CAKE hoặc gia hạn vị thế khóa.
 
-Your votes will decrease all the way to 0 upon your veCAKE position unlocking.
-
-To gain more votes, acquire more veCAKE by adding more CAKE to the lock, or extending the lock.
+Lưu ý rằng sau khi có thêm veCAKE bằng cách thêm CAKE hoặc gia hạn thời gian khóa. Bạn cần cập nhật thủ công mọi gauge bằng cách gửi lại yêu cầu bỏ phiếu.
 
 
 
-### After getting more veCAKE, why can't I vote for more gauges?
+### Tại sao kết quả bỏ phiếu thay đổi sau giai đoạn tổng hợp?
 
-When voting on gauges, we cast our votes by defining how much % of our veCAKE goes to each gauge.
+Trong giai đoạn tổng hợp, PancakeSwap Kitchen sẽ bỏ phiếu dựa trên các số liệu khác nhau từ tất cả các gauge.&#x20;
 
-Therefore, even though you gained more veCAKE. If you have allocated 100% of your veCAKE in the previous 10 days, you can not change the decision until the end of the 10-day cooldown period.
+Mục tiêu là:
+
+* Đảm bảo các pool thanh khoản cốt lõi nhận được lợi nhuận cạnh tranh trên các vị thế LP của họ
+* Đảm bảo rằng các thỏa thuận đối tác Syrup Pool hiện có được đáp ứng trước khi chuyển hoàn toàn sang hệ thống bỏ phiếu veCAKE gauge
+* Đảm bảo rằng bất kỳ farm nhỏ hơn nào không nhận được phiếu bầu nào sau khi khởi chạy veCAKE sẽ nhận được ít nhất một số phân bổ trong đợt triển khai ban đầu, được giới hạn ở mức emission hiện tại của chúng.
+
+Xem đề xuất này để biết thêm chi tiết: [https://pancakeswap.finance/voting/proposal/0x9602c8f56d01f239b88ecf914ee263cc9cdd75b8d10ae4d9536fc27b2680849c](https://pancakeswap.finance/voting/proposal/0x9602c8f56d01f239b88ecf914ee263cc9cdd75b8d10ae4d9536fc27b2680849c)
 
 
 
-### Voting results are tallied, why emission rate is not changing?
+### Tại sao số phiếu bầu của tôi đang giảm?
 
-It takes roughly 72 hours to apply the voting results to various emission products on PancakeSwap. Chefs will continue to automate this process to shorten the gap as well as improve accuracy.
+Vì khi chúng ta bỏ phiếu cho các gauge, chúng ta bỏ phiếu bằng veCAKE. Và số dư veCAKE giảm dần theo thời gian khóa còn lại.&#x20;
+
+Phiếu bầu của bạn sẽ giảm xuống 0 khi vị thế veCAKE của bạn mở khóa.
+
+Để có thêm phiếu bầu, hãy mua thêm veCAKE bằng cách thêm CAKE vào khóa, hoặc gia hạn khóa.
 
 
 
-### Why did the gauge I voted for not receive any CAKE emissions in the next epoch?
+### Sau khi có thêm veCAKE, tại sao tôi không thể bỏ phiếu cho nhiều gauge hơn?
 
-Whitelisted gauges need to receive votes that correspond to minimally 1 CAKE per day in emissions, before they can receive any CAKE.
+Khi bỏ phiếu cho các gauge, chúng ta bỏ phiếu bằng cách xác định bao nhiêu % veCAKE của chúng ta đi vào mỗi gauge.
+
+Do đó, mặc dù bạn đã có thêm veCAKE. Nếu bạn đã phân bổ 100% veCAKE trong 10 ngày trước, bạn không thể thay đổi quyết định cho đến khi kết thúc giai đoạn cooldown 10 ngày.
+
+
+
+### Kết quả bỏ phiếu đã được tổng hợp, tại sao tỷ lệ emission không thay đổi?
+
+Cần khoảng 72 giờ để áp dụng kết quả bỏ phiếu vào các sản phẩm emission khác nhau trên PancakeSwap. Các Chefs sẽ tiếp tục tự động hóa quy trình này để rút ngắn khoảng cách cũng như cải thiện độ chính xác.
+
+
+
+### Tại sao gauge tôi bỏ phiếu không nhận được bất kỳ emission CAKE nào trong epoch tiếp theo?
+
+Các gauge được đưa vào danh sách trắng cần nhận phiếu bầu tương ứng với tối thiểu 1 CAKE mỗi ngày trong emissions, trước khi có thể nhận bất kỳ CAKE nào.

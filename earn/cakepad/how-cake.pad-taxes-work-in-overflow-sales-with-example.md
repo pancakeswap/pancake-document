@@ -1,72 +1,72 @@
-# How CAKE.PAD Taxes Work in Overflow Sales – With Example
+# Cách thuế CAKE.PAD hoạt động trong các đợt bán Overflow – Với ví dụ
 
-1. Taxes are only charged **if the** CAKE.PAD event **is oversubscribed**
-   1. Oversubscription = Total deposits by all users > Raise goal amount.
-   * Tax is only deducted from participants' excess committed funds. No fees are paid by the CAKE.PAD partner project.
-   * The CAKE.PAD partner project receives 100% of its targeted raise amount.
-   * CAKE.PAD taxes are collected in CAKE, and 100% of it will be burned.
-   * Fees are based on the **total subscription rate of the pool** (% of raise goal):
+1. Thuế chỉ được tính **nếu** sự kiện CAKE.PAD **bị đăng ký quá mức**
+   1. Đăng ký quá mức = Tổng tiền nạp của tất cả người dùng > Mục tiêu huy động.
+   * Thuế chỉ được khấu trừ từ số tiền nạp dư thừa của người tham gia. Không có phí nào do dự án đối tác CAKE.PAD phải trả.
+   * Dự án đối tác CAKE.PAD nhận 100% số tiền huy động mục tiêu.
+   * Thuế CAKE.PAD được thu bằng CAKE và 100% sẽ bị đốt.
+   * Phí dựa trên **tổng tỷ lệ đăng ký của pool** (% mục tiêu huy động):
 
-**Oversubscription rate <> Fee Tier**&#x20;
+**Tỷ lệ đăng ký quá mức <> Mức phí**&#x20;
 
-<table data-full-width="false"><thead><tr><th>Oversubscription Rate</th><th>Fee Tier</th></tr></thead><tbody><tr><td>≥ 0x</td><td>1.00%</td></tr><tr><td>≥ 50x</td><td>0.80%</td></tr><tr><td>≥ 100x</td><td>0.60%</td></tr><tr><td>≥ 150x</td><td>0.50%</td></tr><tr><td>≥ 200x</td><td>0.40%</td></tr><tr><td>≥ 250x</td><td>0.30%</td></tr><tr><td>≥ 300x</td><td>0.25%</td></tr><tr><td>≥ 400x</td><td>0.20%</td></tr><tr><td>≥ 500x</td><td>0.15%</td></tr><tr><td>≥ 650x</td><td>0.12%</td></tr><tr><td>≥ 800x</td><td>0.10%</td></tr><tr><td>≥ 1500x</td><td>0.05%</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th>Tỷ lệ đăng ký quá mức</th><th>Mức phí</th></tr></thead><tbody><tr><td>≥ 0x</td><td>1.00%</td></tr><tr><td>≥ 50x</td><td>0.80%</td></tr><tr><td>≥ 100x</td><td>0.60%</td></tr><tr><td>≥ 150x</td><td>0.50%</td></tr><tr><td>≥ 200x</td><td>0.40%</td></tr><tr><td>≥ 250x</td><td>0.30%</td></tr><tr><td>≥ 300x</td><td>0.25%</td></tr><tr><td>≥ 400x</td><td>0.20%</td></tr><tr><td>≥ 500x</td><td>0.15%</td></tr><tr><td>≥ 650x</td><td>0.12%</td></tr><tr><td>≥ 800x</td><td>0.10%</td></tr><tr><td>≥ 1500x</td><td>0.05%</td></tr></tbody></table>
 
 
 
-2. **Time period – When is tax charged**
+2. **Thời gian – Khi nào thuế được tính**
 
-* Tax is charged at the **end of the** CAKE.PAD event, when the user redeems their allocation.
-* Even if a user subscribes early (e.g., when the subscription is 30% of the raise goal), the final tax is based on the **final pool oversubscription level**.
-  * Example: If the pool ends up at 50x over-subscribed, the applicable tax is the 50x tier (0.8%).
+* Thuế được tính vào **cuối sự kiện CAKE.PAD**, khi người dùng đổi phân bổ của họ.
+* Ngay cả khi người dùng đăng ký sớm (ví dụ: khi đăng ký đạt 30% mục tiêu huy động), thuế cuối cùng dựa trên **mức đăng ký quá mức cuối cùng của pool**.
+  * Ví dụ: Nếu pool kết thúc với mức đăng ký 50x, thuế áp dụng là mức 50x (0,8%).
 
-#### Calculation Steps
+#### Các bước tính toán
 
-1.  **User allocation** = % of total CAKE.PAD partner token pool the user receives
+1.  **Phân bổ người dùng** = % tổng pool token đối tác CAKE.PAD mà người dùng nhận được
 
     ```jsx
     user_allocation = user_deposit_amount / totalAmountPool
     ```
-2.  **User pay amount** = Portion of the user’s deposit used to redeem CAKE.PAD partner tokens
+2.  **Số tiền người dùng phải trả** = Phần tiền nạp của người dùng được dùng để đổi token đối tác CAKE.PAD
 
     ```jsx
     user_pay_amount = raisingAmountPool * user_allocation
     ```
-3.  **Refund amount** = Excess from the user’s deposit not used for CAKE.PAD partner token purchase
+3.  **Số tiền hoàn trả** = Số dư thừa từ tiền nạp của người dùng không dùng để mua token đối tác CAKE.PAD
 
     ```jsx
     refund_amount = user_deposit_amount - user_pay_amount
     ```
-4.  **Tax amount** = Deduction applied on the user’s refunded amount
+4.  **Số tiền thuế** = Khoản khấu trừ áp dụng cho số tiền hoàn trả của người dùng
 
-    * Fee tier is based on the % of raise goal (see table above).
+    * Mức phí dựa trên % mục tiêu huy động (xem bảng ở trên).
 
     ```jsx
     tax_amount = fee tier * refund_amount
     ```
-5.  **Final output for the user**
+5.  **Kết quả cuối cùng cho người dùng**
 
     ```jsx
     1. Token allocation = user_allocation * totalTokensOffered
     2. User tax amount = tax_amount
-    3. final_refund = refund_amount - tax_amount (if applicable, else = refund_amount)
+    3. final_refund = refund_amount - tax_amount (nếu có, ngược lại = refund_amount)
     ```
 
-#### Numerical Example
+#### Ví dụ số học
 
-* **Target raise (raisingAmountPool):** 100 CAKE
-* **Your deposit (user\_deposit\_amount):** 10 CAKE
-* **Total deposits incl. of Your deposit (totalAmountPool):** 5,100 CAKE (51x subscribed = 5,100% of raise goal, implies 50x oversubscription rate)
-  * Corresponding fee tier = 0.80% (based on the tax rate table above)
+* **Mục tiêu huy động (raisingAmountPool):** 100 CAKE
+* **Tiền nạp của bạn (user\_deposit\_amount):** 10 CAKE
+* **Tổng tiền nạp bao gồm tiền nạp của bạn (totalAmountPool):** 5.100 CAKE (đăng ký 51x = 5.100% mục tiêu huy động, nghĩa là tỷ lệ đăng ký quá mức 50x)
+  * Mức phí tương ứng = 0,80% (dựa trên bảng mức thuế ở trên)
 
-**Steps:**
+**Các bước:**
 
-1. `user_allocation = 10 / 5,100 = 0.00196 (0.196% pool allocation)`
+1. `user_allocation = 10 / 5,100 = 0.00196 (phân bổ pool 0.196%)`
 2. `user_pay_amount = 100 × 0.00196 = 0.196 CAKE`
 3. `refund_amount = 10 − 0.196 = 9.804 CAKE`
 4. `tax_amount = 9.804 × 0.008 = 0.0784 CAKE`
 5. `final_refund = 9.804 − 0.0784 = ~9.72 CAKE`
 
-**Final User received amounts**
+**Số tiền người dùng nhận cuối cùng**
 
-1. **Token allocation:** 0.196 CAKE worth of CAKE.PAD partner tokens
-2. **Final refund:** \~9.72 CAKE (from 10 CAKE deposit − 0.196 CAKE for token allocation − 0.0784 CAKE tax)
+1. **Phân bổ token:** Token đối tác CAKE.PAD trị giá 0,196 CAKE
+2. **Hoàn trả cuối cùng:** \~9,72 CAKE (từ tiền nạp 10 CAKE − 0,196 CAKE cho phân bổ token − 0,0784 CAKE thuế)

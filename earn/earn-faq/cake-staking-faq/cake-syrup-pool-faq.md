@@ -2,100 +2,100 @@
 hidden: true
 ---
 
-# CAKE Syrup Pool FAQ
+# FAQ về CAKE Syrup Pool
 
 ## FAQ
 
-### What lock duration can we choose?
+### Chúng tôi có thể chọn thời gian khóa bao lâu?
 
-You can choose from 1-52 weeks. What do you prefer?
+Bạn có thể chọn từ 1-52 tuần. Bạn thích thế nào?
 
-### What variables affect the new CAKE Syrup Pool yield %s (Flexible and Fixed-Term Staking options)?
+### Những biến số nào ảnh hưởng đến APR/APY của CAKE Syrup Pool mới (các lựa chọn Flexible và Fixed-Term Staking)?
 
-Since flexible staking and fixed-term staking options are part of the same pool, the following variables affect the yield% (APR/APY) of both:
+Vì các tùy chọn flexible staking và fixed-term staking là một phần của cùng một pool, các biến số sau ảnh hưởng đến APR/APY của cả hai:
 
-* Total CAKE staked in flexible staking and fixed-term staking (the sum of both). The more CAKE staked, the lower the APR/APY.
-* Total locked CAKE in fixed-term staking. The more CAKE locked means more yield boosts, resulting in fewer CAKE rewards for others (especially flexible staking).
-* The average lock duration of all CAKE locked in fixed-term staking. If the average lock duration increases, APR/APY will decrease.
+* Tổng CAKE được stake trong flexible staking và fixed-term staking (tổng của cả hai). CAKE được stake càng nhiều, APR/APY càng thấp.
+* Tổng CAKE bị khóa trong fixed-term staking. Khóa CAKE càng nhiều có nghĩa là tăng cường lợi suất nhiều hơn, dẫn đến ít phần thưởng CAKE hơn cho người khác (đặc biệt là flexible staking).
+* Thời gian khóa trung bình của tất cả CAKE bị khóa trong fixed-term staking. Nếu thời gian khóa trung bình tăng, APR/APY sẽ giảm.
 
-### Can I harvest the rewards during the locked period?
+### Tôi có thể thu hoạch phần thưởng trong thời gian khóa không?
 
-No. You can harvest the rewards only when the locked duration is ended. This is based on the yield/return we are providing as well as the technical implementations.
+Không. Bạn chỉ có thể thu hoạch phần thưởng khi thời gian khóa kết thúc. Điều này dựa trên lợi suất/lợi nhuận chúng tôi cung cấp cũng như các triển khai kỹ thuật.
 
-### Can I extend the lock duration?
+### Tôi có thể gia hạn thời gian khóa không?
 
-Yes. Extending the lock duration adds more time to your **initial lock duration**. When choosing to extend your lock duration, note:
+Có. Gia hạn thời gian khóa sẽ thêm thời gian vào **thời gian khóa ban đầu** của bạn. Khi chọn gia hạn thời gian khóa, lưu ý:
 
-New extended lock duration = initial lock duration + added duration
+Thời gian khóa gia hạn mới = thời gian khóa ban đầu + thời gian thêm
 
-### Can I remove my CAKE from Fixed-Term staking via contract if I change my mind?
+### Tôi có thể rút CAKE khỏi Fixed-Term staking qua hợp đồng nếu tôi thay đổi ý định không?
 
-No. Your CAKE cannot be removed or withdrawn from fixed-term staking at any point in time until your lock duration ends and your CAKE is unlocked.
+Không. CAKE của bạn không thể được rút hoặc lấy ra khỏi fixed-term staking tại bất kỳ thời điểm nào cho đến khi thời gian khóa kết thúc và CAKE của bạn được mở khóa.
 
-### What is the "CAKE Locked" amount?
+### Số tiền "CAKE Locked" là gì?
 
-The "CAKE Locked" amount is a user's initial locked CAKE balance plus CAKE rewards to date.&#x20;
+Số tiền "CAKE Locked" là số dư CAKE ban đầu bị khóa của người dùng cộng với phần thưởng CAKE tính đến nay.&#x20;
 
-CAKE Locked = Initial locked CAKE balance + CAKE rewards
+CAKE Locked = Số dư CAKE ban đầu bị khóa + Phần thưởng CAKE
 
-When adding more CAKE to fixed-term staking, the "CAKE to be locked" amount is the user's initial locked CAKE balance, CAKE rewards to date, and the CAKE being added.
+Khi thêm CAKE vào fixed-term staking, số tiền "CAKE to be locked" là số dư CAKE ban đầu bị khóa của người dùng, phần thưởng CAKE tính đến nay và CAKE đang được thêm vào.
 
-### Can the Fixed-Term Staking CAKE pool APR change after I lock my CAKE?
+### APR của CAKE pool Fixed-Term Staking có thể thay đổi sau khi tôi khóa CAKE không?
 
-Yes, the fixed-term staking CAKE pool APR is variable, just like the old CAKE pools. The fixed-term staking CAKE pool APR is not fixed and is dependent on:
+Có, APR của CAKE pool fixed-term staking là biến động, giống như các CAKE pool cũ. APR của CAKE pool fixed-term staking không cố định và phụ thuộc vào:
 
-* Total CAKE staked in the CAKE pool (the sum of both Flexible + Fixed-Term Staking).
-* The average lock duration of all CAKE locked in fixed-term staking.
-* A yield boost (similar to a multiplier) calculated from a user's initial lock duration. The longer you lock your CAKE, the higher the yield boost.
+* Tổng CAKE được stake trong CAKE pool (tổng của cả Flexible + Fixed-Term Staking).
+* Thời gian khóa trung bình của tất cả CAKE bị khóa trong fixed-term staking.
+* Tăng cường lợi suất (tương tự như số nhân) được tính từ thời gian khóa ban đầu của người dùng. Khóa CAKE càng lâu, tăng cường lợi suất càng cao.
 
-For example, if you lock your CAKE for 52 weeks, your yield boost will be larger than if you lock your CAKE for 26 weeks. The yield boost increases linearly the longer you lock your CAKE.
+Ví dụ: nếu bạn khóa CAKE trong 52 tuần, tăng cường lợi suất của bạn sẽ lớn hơn so với nếu bạn khóa CAKE trong 26 tuần. Tăng cường lợi suất tăng tuyến tính theo thời gian bạn khóa CAKE.
 
-### Can I still participate in IFOs if my CAKE is locked in the Fixed-Term Staking pool, or will I need to buy more CAKE?
+### Tôi có thể tham gia IFO nếu CAKE của tôi bị khóa trong Fixed-Term Staking pool không, hay tôi cần mua thêm CAKE?
 
-No, a separate amount of CAKE is needed. However, locked-staking provides entry for IFO public sales. Check out [iCAKE](../../../welcome-to-pancakeswap/vecake-sunset/icake.md).
+Không, cần có một lượng CAKE riêng biệt. Tuy nhiên, locked-staking cung cấp quyền đăng ký cho các đợt bán công khai IFO. Xem [iCAKE](../../../welcome-to-pancakeswap/vecake-sunset/icake.md).
 
-### Can I vote if my CAKE is locked in the Fixed-Term Staking pool?
+### Tôi có thể bỏ phiếu nếu CAKE của tôi bị khóa trong Fixed-Term Staking pool không?
 
-Yes! Check out [vCAKE](../../../welcome-to-pancakeswap/vecake-sunset/archive-vecake/vecake.md).
+Có! Xem [vCAKE](../../../welcome-to-pancakeswap/vecake-sunset/archive-vecake/vecake.md).
 
-### Can I use both the Flexible Staking CAKE pool and the Fixed-Term Staking CAKE pool at the same time?
+### Tôi có thể sử dụng cả Flexible Staking CAKE pool và Fixed-Term Staking CAKE pool cùng một lúc không?
 
-Yes, when you are doing fixed-term CAKE staking. A flexible CAKE staking side-pool will automatically appear for you to choose from.
+Có, khi bạn đang thực hiện fixed-term CAKE staking. Một side-pool flexible CAKE staking sẽ tự động xuất hiện để bạn chọn.
 
-### Is there a fee for converting Flexible Staked CAKE to Fixed-Term Staked CAKE?
+### Có phí nào khi chuyển đổi Flexible Staked CAKE sang Fixed-Term Staked CAKE không?
 
-No. There are no additional fees for moving CAKE from flexible staking to fixed-term staking, only gas fees.
+Không. Không có phí bổ sung nào khi chuyển CAKE từ flexible staking sang fixed-term staking, chỉ có phí gas.
 
-### What happens at the end of the lock duration? What is "After Burning"?
+### Điều gì xảy ra khi kết thúc thời gian khóa? "After Burning" là gì?
 
 {% hint style="warning" %}
-**After Burning will burn the future CAKE rewards and the CAKE rewards already earned.** To avoid losing any CAKE rewards you already earned, we recommend starting a new fixed-term staking period or converting your CAKE to flexible staking at the end of your lock staking period.
+**After Burning sẽ đốt phần thưởng CAKE tương lai và phần thưởng CAKE đã kiếm được.** Để tránh mất bất kỳ phần thưởng CAKE nào bạn đã kiếm được, chúng tôi khuyên bạn nên bắt đầu một thời gian fixed-term staking mới hoặc chuyển đổi CAKE sang flexible staking khi kết thúc thời gian staking khóa.
 {% endhint %}
 
-When your fixed-term staking period ends, and your CAKE unlocks, you have 7 days to complete one of two options:
+Khi thời gian fixed-term staking của bạn kết thúc và CAKE của bạn được mở khóa, bạn có 7 ngày để hoàn thành một trong hai lựa chọn:
 
-* Lock your CAKE to begin a new fixed-term staking period\
-  or
-* Convert your staked CAKE to flexible staking (no 72-hour withdrawal fee).
+* Khóa CAKE để bắt đầu thời gian fixed-term staking mới\
+  hoặc
+* Chuyển đổi CAKE đã stake sang flexible staking (không có phí rút 72 giờ).
 
-![](<../../../.gitbook/assets/Locked - lock ended - before after burning.png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Locked%20-%20lock%20ended%20-%20before%20after%20burning.png)
 
-During these 7 days, you will still earn CAKE.
+Trong 7 ngày này, bạn vẫn sẽ kiếm được CAKE.
 
-After 7 days, if you have not done one of the two options, your staked CAKE will enter what is called "After Burning". **With "After Burning", your CAKE rewards (including the rewards already earned) will start to be sent to burn.** The % of CAKE rewards being sent to burn will linearly increase in the 90 days "After Burning" period until it reaches 100%, which means all the CAKE rewards are burnt.
+Sau 7 ngày, nếu bạn chưa thực hiện một trong hai lựa chọn, CAKE đã stake của bạn sẽ vào trạng thái gọi là "After Burning". **Với "After Burning", phần thưởng CAKE của bạn (bao gồm cả phần thưởng đã kiếm được) sẽ bắt đầu bị gửi để đốt.** % phần thưởng CAKE bị gửi để đốt sẽ tăng tuyến tính trong 90 ngày "After Burning" cho đến khi đạt 100%, nghĩa là tất cả phần thưởng CAKE bị đốt.
 
-So, to avoid missing out on CAKE rewards, we recommend starting a new fixed-term staking period or converting your CAKE to flexible staking at the end of your lock staking period.
+Vì vậy, để tránh mất phần thưởng CAKE, chúng tôi khuyên bạn nên bắt đầu một thời gian fixed-term staking mới hoặc chuyển đổi CAKE sang flexible staking khi kết thúc thời gian staking khóa.
 
-Here is an example:
+Đây là một ví dụ:
 
-> John staked 100 CAKE for 52 weeks, he earned 50 CAKE during his staking period, and now the staking period has expired.&#x20;
+> John đã stake 100 CAKE trong 52 tuần, anh ấy đã kiếm được 50 CAKE trong thời gian staking, và bây giờ thời gian staking đã hết hạn.&#x20;
 >
-> He then didn't perform any actions, and his position went into "After Burning" mode.
+> Sau đó anh ấy không thực hiện bất kỳ hành động nào và vị thế của anh ấy chuyển sang chế độ "After Burning".
 >
-> During the 90-day After Burning period, all of the 50 CAKE he earned will be burned gradually along with any new CAKE earned.&#x20;
+> Trong 90 ngày After Burning, toàn bộ 50 CAKE anh ấy đã kiếm được sẽ dần bị đốt cùng với bất kỳ CAKE mới nào kiếm được.&#x20;
 >
-> After 90 days, the rewards he actually earns will become 0. However, the 100 CAKE he initially deposited will not be affected.
+> Sau 90 ngày, phần thưởng anh ấy thực sự kiếm được sẽ trở thành 0. Tuy nhiên, 100 CAKE anh ấy ban đầu gửi vào sẽ không bị ảnh hưởng.
 >
-> Start a new fixed-term staking period or convert to flexible staking, and don't be like John.
+> Hãy bắt đầu một thời gian fixed-term staking mới hoặc chuyển sang flexible staking, và đừng như John.
 
-![](<../../../.gitbook/assets/Locked - lock ended - after burning started.png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Locked%20-%20lock%20ended%20-%20after%20burning%20started.png)

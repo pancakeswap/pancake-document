@@ -1,71 +1,71 @@
-# FAQ (Users)
+# FAQ (Người dùng)
 
-### 1. What is a CAKE.PAD event?
+### 1. Sự kiện CAKE.PAD là gì?
 
-* A CAKE.PAD event lets users get early access to new project tokens right as they launch.
-* Users obtain new project tokens with **CAKE**.
-* Projects gain liquidity, visibility, and direct access to PancakeSwap’s community.
-* This can take place on BNB, Base, ARB, ETH, Linea, or opBNB
+* Sự kiện CAKE.PAD cho phép người dùng tiếp cận sớm các token dự án mới ngay khi ra mắt.
+* Người dùng nhận token dự án mới bằng **CAKE**.
+* Dự án nhận thanh khoản, khả năng hiển thị và quyền truy cập trực tiếp vào cộng đồng PancakeSwap.
+* Có thể diễn ra trên BNB, Base, ARB, ETH, Linea hoặc opBNB
 
-### 2. Who is eligible to participate?
+### 2. Ai đủ điều kiện tham gia?
 
-* Anyone holding **CAKE**.
-* No NFT profile required.
-* No CAKE staking needed.
-* Designed as a **fair launch** for all participants.
+* Bất kỳ ai đang giữ **CAKE**.
+* Không cần NFT profile.
+* Không cần staking CAKE.
+* Được thiết kế như một **fair launch** cho tất cả người tham gia.
 
-### 3. What are the benefits of participating in a CAKE.PAD event?
+### 3. Lợi ích của việc tham gia sự kiện CAKE.PAD là gì?
 
-* Access new tokens early using **CAKE**.
-* Potential to acquire assets at favorable entry prices before wider trading.
+* Tiếp cận token mới sớm bằng **CAKE**.
+* Khả năng mua tài sản với giá thuận lợi trước khi giao dịch rộng rãi hơn.
 
-### 4. How long does a CAKE.PAD event last?
+### 4. Sự kiện CAKE.PAD kéo dài bao lâu?
 
-* Typically **24 hours** (may be adjusted if needed).
+* Thường là **24 giờ** (có thể được điều chỉnh nếu cần).
 
-### 5. What happens if the CAKE.PAD event is oversubscribed?
+### 5. Điều gì xảy ra nếu sự kiện CAKE.PAD bị đăng ký quá mức?
 
-* A [**Tiered Tax** ](how-cake.pad-taxes-work-in-overflow-sales-with-example.md)applies **only to excess committed funds**.
-* The project receives **100% of its target raise**.
-* Tax rates decrease as oversubscription increases (from 1% down to 0.05%).
+* [**Thuế phân tầng** ](how-cake.pad-taxes-work-in-overflow-sales-with-example.md)chỉ áp dụng **cho số tiền nạp dư thừa**.
+* Dự án nhận **100% mục tiêu huy động**.
+* Mức thuế giảm khi mức đăng ký quá tăng lên (từ 1% xuống còn 0,05%).
 
-### 6. What is the smallest amount of CAKE.PAD partner token allocation possible?
+### 6. Mức phân bổ token đối tác CAKE.PAD nhỏ nhất có thể là bao nhiêu?
 
-* Minimum CAKE.PAD partner token allocation = [**1 wei**](https://www.investopedia.com/terms/w/wei.asp)**.**
-* Committing a very small amount of CAKE compared to total commitments may result in receiving **no tokens**. In such cases, all committed CAKE will be refunded.
+* Phân bổ token đối tác CAKE.PAD tối thiểu = [**1 wei**](https://www.investopedia.com/terms/w/wei.asp)**.**
+* Nạp một lượng CAKE rất nhỏ so với tổng lượng nạp có thể dẫn đến việc **không nhận được token**. Trong những trường hợp như vậy, tất cả CAKE đã nạp sẽ được hoàn trả.
 
-### 7. What is the participating asset?
+### 7. Tài sản tham gia là gì?
 
-* All CAKE.PAD events use **CAKE**.
+* Tất cả sự kiện CAKE.PAD sử dụng **CAKE**.
 
-### 8. What is the “Overflow” Sale Method?
+### 8. Phương pháp bán "Overflow" là gì?
 
-* Users can commit any amount of CAKE.
-* Token allocation is proportional to how much CAKE a user committed versus the total pool at the end of the event.
-* Any leftover CAKE is refunded when claiming tokens after the sale. See [here](how-cake.pad-taxes-work-in-overflow-sales-with-example.md) for a numerical example
-* If heavily oversubscribed, small commitments may receive little or no allocation.
+* Người dùng có thể nạp bất kỳ lượng CAKE nào.
+* Phân bổ token tỷ lệ thuận với lượng CAKE người dùng đã nạp so với tổng pool vào cuối sự kiện.
+* Bất kỳ CAKE còn thừa sẽ được hoàn trả khi nhận token sau khi bán. Xem [tại đây](how-cake.pad-taxes-work-in-overflow-sales-with-example.md) để biết ví dụ số học
+* Nếu đăng ký quá nhiều, các khoản nạp nhỏ có thể nhận ít hoặc không nhận được phân bổ.
 
-### 9. What happens if the CAKE.PAD event doesn't raise all targeted funds?
+### 9. Điều gì xảy ra nếu sự kiện CAKE.PAD không huy động được toàn bộ số tiền mục tiêu?
 
-* The sale proceeds normally. All contributed funds are used.
-* No participation fee is charged.
+* Việc bán diễn ra bình thường. Tất cả số tiền đóng góp đều được sử dụng.
+* Không thu phí tham gia.
 
-**Participants:** Receive CAKE.PAD partner tokens.
+**Người tham gia:** Nhận token đối tác CAKE.PAD.
 
-CAKE.PAD **Partner Project:** Receives leftover tokens and CAKE from the sale.
+**Dự án đối tác** CAKE.PAD: Nhận token còn lại và CAKE từ việc bán.
 
-### 10. Do CAKE.PAD events support lockups with cliff schedules?
+### 10. Sự kiện CAKE.PAD có hỗ trợ lockup với lịch cliff không?
 
-* Yes, the framework supports lockups and cliff schedules.
-* Current CAKE.PAD event launches are conducted **without any lockup**.
+* Có, framework hỗ trợ lockup và lịch cliff.
+* Các sự kiện CAKE.PAD hiện tại được tiến hành **không có bất kỳ lockup nào**.
 
-### 11. When will I receive my purchased tokens?
+### 11. Khi nào tôi sẽ nhận được token đã mua?
 
-* Tokens are available **immediately after the** CAKE.PAD event **ends** (if no vesting).
-* Users must manually claim tokens via the PancakeSwap interface.
-* For CAKE.PAD events with vesting, the schedule is displayed on the CAKE.PAD event page.
-  * See [Vesting](cakepad-guide.md#ifo-with-token-vesting) for more info
+* Token có sẵn **ngay sau khi** sự kiện CAKE.PAD **kết thúc** (nếu không có vesting).
+* Người dùng phải tự nhận token thông qua giao diện PancakeSwap.
+* Đối với các sự kiện CAKE.PAD có vesting, lịch trình được hiển thị trên trang sự kiện CAKE.PAD.
+  * Xem [Vesting](cakepad-guide.md#ifo-with-token-vesting) để biết thêm thông tin
 
-### 12. Where can I trade CAKE.PAD partner tokens?
+### 12. Tôi có thể giao dịch token đối tác CAKE.PAD ở đâu?
 
-* CAKE.PAD partner tokens are seeded and listed on PancakeSwap as soon as the CAKE.PAD event ends.
+* Token đối tác CAKE.PAD được seeded và niêm yết trên PancakeSwap ngay khi sự kiện CAKE.PAD kết thúc.

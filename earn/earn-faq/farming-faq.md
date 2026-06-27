@@ -2,121 +2,121 @@
 hidden: true
 ---
 
-# Farming FAQ
+# FAQ về Farming
 
-### Why are there multiple APRs?
+### Tại sao có nhiều APR?
 
-In V3, you can concentrate your assets while providing liquidity to boost your share against the total available liquidity, earning a higher % of rewards.&#x20;
+Trong V3, bạn có thể tập trung tài sản của mình khi cung cấp thanh khoản để tăng cổ phần của mình so với tổng thanh khoản có sẵn, kiếm được % phần thưởng cao hơn.&#x20;
 
-Therefore, depending on the position price-range settings, each liquidity position will have its own LP fee APR and its own farming APR.
+Do đó, tùy thuộc vào cài đặt khoảng giá của vị thế, mỗi vị thế thanh khoản sẽ có APR phí LP riêng và APR farming riêng.
 
-The global APR is calculated with the total amount of CAKE rewards in USD, divided by the total amount of assets, with in the active positions, which are currently staked in the farm. So, global farming APR is only a generic reference, and will not represent individual APRs for each positions.
+APR toàn cầu được tính bằng tổng số phần thưởng CAKE tính bằng USD, chia cho tổng số tài sản, trong các vị thế đang hoạt động, hiện đang được stake trong farm. Vì vậy, APR farming toàn cầu chỉ là tham chiếu chung và sẽ không đại diện cho APR riêng lẻ của từng vị thế.
 
-To view your farming APR, check out your positions listed under each farm.
+Để xem APR farming của bạn, hãy kiểm tra các vị thế được liệt kê trong mỗi farm.
 
 ###
 
-### What happens if my liquidity position goes out of range while staking in the Farm?
+### Điều gì xảy ra nếu vị thế thanh khoản của tôi ra khỏi phạm vi khi đang stake trong Farm?
 
-In V3, only active (in-range) liquidity positions will earn CAKE from farms.
+Trong V3, chỉ các vị thế thanh khoản đang hoạt động (trong phạm vi) mới kiếm được CAKE từ farms.
 
-The position will stop receiving CAKE rewards when the price goes out of the range.
+Vị thế sẽ ngừng nhận phần thưởng CAKE khi giá vượt ra ngoài phạm vi.
 
-If the price moves back in range, the position will start receiving CAKE rewards again. No additional actions are required from stakers.
-
-
-
-### Are there any ways to automatically adjust my position so it is always in range and earning fee rewards?
-
-PancakeSwap v3 supports one-click liquidity depositing via Zap, available on BNB Chain and Ethereum.
+Nếu giá quay lại trong phạm vi, vị thế sẽ bắt đầu nhận phần thưởng CAKE trở lại. Không cần thêm hành động nào từ người stake.
 
 
 
-### Is it better to always farm with a liquidity position with a smaller range?
+### Có cách nào để tự động điều chỉnh vị thế của tôi để nó luôn trong phạm vi và kiếm phí không?
 
-Providing liquidity to a smaller price range will help concentrate your liquidity, boosting your relative shares again the total liquidity within the price range, potentially earning more CAKE rewards.
-
-However, please bear in mind that only active liquidity positions will earn CAKE rewards. This means you will only earn rewards when the current trading price is within the price range defined in the liquidity position.
-
-If you need to adjust your position price range, you will need to unstake, remove liquidity and create a new position with the updated price range. Please bear in mind that frequent adjustments are not always the most optimal strategy as it realises the impermanent loss and costs a certain amount of gas to complete multiple transactions.
+PancakeSwap v3 hỗ trợ nạp thanh khoản một cú nhấp chuột qua Zap, có sẵn trên BNB Chain và Ethereum.
 
 
 
-### How many positions I can stake in one single farm?
+### Có phải luôn luôn farm tốt hơn với vị thế thanh khoản có phạm vi nhỏ hơn không?
 
-There is no maximum limit of positions you can stake in one farm.
+Cung cấp thanh khoản cho phạm vi giá nhỏ hơn sẽ giúp tập trung thanh khoản, tăng cổ phần tương đối của bạn so với tổng thanh khoản trong phạm vi giá, có khả năng kiếm được nhiều phần thưởng CAKE hơn.
 
-But please bear in mind that you will need to spend gas to manually harvest from each one of the positions. Please always factor gas cost in the yield operations.
+Tuy nhiên, hãy nhớ rằng chỉ các vị thế thanh khoản đang hoạt động mới kiếm được phần thưởng CAKE. Điều này có nghĩa là bạn chỉ kiếm phần thưởng khi giá giao dịch hiện tại nằm trong phạm vi giá được xác định trong vị thế thanh khoản.
 
-
-
-### How often should I harvest my rewards?
-
-How often you harvest your rewards is up to you, but it does help to remember that there is a small fee involved in harvesting. You can see this fee in your wallet when confirming after clicking “Harvest”**.**
-
-This shows the fee for harvesting as it appears in the MetaMask wallet. Different wallets will show the information a little differently. Consider leaving your rewards to grow for a while so you pay fees less often.
+Nếu bạn cần điều chỉnh phạm vi giá của vị thế, bạn sẽ cần unstake, xóa thanh khoản và tạo vị thế mới với phạm vi giá đã cập nhật. Hãy nhớ rằng các điều chỉnh thường xuyên không phải lúc nào cũng là chiến lược tối ưu nhất vì nó thực hiện tổn thất tạm thời và tốn một lượng gas nhất định để hoàn thành nhiều giao dịch.
 
 
 
-### What if I want to adjust my position while staking in the farm?
+### Tôi có thể stake bao nhiêu vị thế trong một farm đơn lẻ?
 
-While staking in the farm, you are able to add or remove liquidity without unstaking it. Simply locate the liquidity position you want to adjust, and click its title/id, and you should be presented with the position detail page where you can use the “Add” and “Remove” buttons.
+Không có giới hạn tối đa về số lượng vị thế bạn có thể stake trong một farm.
 
-If you want to adjust the price range configurations of a liquidity position, you will need to unstake it from the farm, remove all liquidity and re-create a new position by adding liquidity.
-
-
-
-### What affects Farming APR?
-
-In Farm v3, CAKE reward APR could vary between liquidity positions. It is based on the following factors:
-
-* CAKE emission rate to Farms\
-  \- more CAKE will generate a higher yield for all the farms. Read more on [our tokenomics page](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics)
-* Farm multiplier\
-  \- farms with a higher multiplier will get more CAKE proportionate to all the farms. Please note that v3 and v2 + stable swap farms are using two separate sets of multipliers. And farms on Ethereum and BNB Chains are also using two separate sets of multipliers.
-* The number of tokens deposited in the position\
-  \- more token in the position translates to a larger relative share against the total active liquidity in the farm pool and gets more CAKE rewards
-* The selected price range\
-  \- smaller price range allows a higher concentration for the same amount of token deposited, which translates to a larger relative share against the total active liquidity in the farm pool, and gets more CAKE rewards
-* The amount of liquidity currently active\
-  \- if there are more users who deposit and concentrate their liquidity with the same range as you, you will earn CAKE rewards due to a smaller relative share against the total
-* Whether the liquidity position is active\
-  \- only active liquidity positions will earn CAKE rewards from farm
+Nhưng hãy nhớ rằng bạn sẽ cần chi gas để thu hoạch thủ công từ mỗi vị thế. Hãy luôn tính toán chi phí gas trong các hoạt động yield.
 
 
 
-### Why am I seeing an "Update Positions" pop-up?
+### Tôi nên thu hoạch phần thưởng bao lâu một lần?
 
-![](<../../.gitbook/assets/image (321).png>)
+Tần suất thu hoạch phần thưởng là tùy bạn, nhưng hãy nhớ rằng có một khoản phí nhỏ khi thu hoạch. Bạn có thể thấy khoản phí này trong ví của mình khi xác nhận sau khi nhấp "Harvest"**.**
 
-Soon after the V3 launch, Chefs implemented an update on Farms to make reward calculations more accurate and reliable. If you are seeing this pop-up, that means some of your positions will require an update.
-
-Simply click "Update All", and confirm in your wallet pop-up.
-
-Please note that Chefs are also applying this update to the historical staking data between the launch of Farm V3 and when this update is implemented. If there are any extra CAKE rewards, they will be airdropped to your wallet before 1st May 2023.
+Điều này cho thấy phí thu hoạch khi xuất hiện trong ví MetaMask. Các ví khác nhau sẽ hiển thị thông tin hơi khác nhau. Hãy cân nhắc để phần thưởng của bạn tăng lên một thời gian để bạn trả phí ít thường xuyên hơn.
 
 
 
-### Why a 2x farm in V3 has less APR than a 1x farm in V2?
+### Tôi muốn điều chỉnh vị thế của mình trong khi đang stake trong farm thì sao?
 
-First, when comparing APRs, you need to ensure the total staked liquidity between two farms is equal.
+Trong khi stake trong farm, bạn có thể thêm hoặc xóa thanh khoản mà không cần unstake. Chỉ cần tìm vị thế thanh khoản bạn muốn điều chỉnh và nhấp vào tiêu đề/id của nó, bạn sẽ thấy trang chi tiết vị thế nơi bạn có thể sử dụng các nút "Add" và "Remove".
 
-On top of that, we now have multiple groups of farms which have their own stream of CAKE emissions. And each group of farms shares separated sets of multipliers.
+Nếu bạn muốn điều chỉnh cấu hình phạm vi giá của vị thế thanh khoản, bạn sẽ cần unstake khỏi farm, xóa tất cả thanh khoản và tạo lại vị thế mới bằng cách thêm thanh khoản.
 
-An individual farm will receive CAKE emissions based on:
 
-* A = Total CAKE per second/block for the farm group it belongs to
-* B = Total number of multipliers within the group it belongs to
-* C = The multiplier has
+
+### Điều gì ảnh hưởng đến APR Farming?
+
+Trong Farm v3, APR phần thưởng CAKE có thể thay đổi giữa các vị thế thanh khoản. Nó dựa trên các yếu tố sau:
+
+* Tỷ lệ emission CAKE đến Farms\
+  \- nhiều CAKE sẽ tạo ra lợi suất cao hơn cho tất cả farms. Đọc thêm trên [trang tokenomics của chúng tôi](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics)
+* Số nhân Farm\
+  \- farms với số nhân cao hơn sẽ nhận được nhiều CAKE tỷ lệ hơn so với tất cả farms. Lưu ý rằng v3 và v2 + stable swap farms đang sử dụng hai bộ số nhân riêng biệt. Và farms trên Ethereum và BNB Chain cũng đang sử dụng hai bộ số nhân riêng biệt.
+* Số lượng token được nạp vào vị thế\
+  \- nhiều token trong vị thế tương ứng với cổ phần tương đối lớn hơn so với tổng thanh khoản đang hoạt động trong pool farm và nhận được nhiều phần thưởng CAKE hơn
+* Phạm vi giá đã chọn\
+  \- phạm vi giá nhỏ hơn cho phép tập trung cao hơn với cùng lượng token được nạp, tương ứng với cổ phần tương đối lớn hơn so với tổng thanh khoản đang hoạt động trong pool farm và nhận được nhiều phần thưởng CAKE hơn
+* Lượng thanh khoản đang hoạt động hiện tại\
+  \- nếu có nhiều người dùng hơn nạp và tập trung thanh khoản với cùng phạm vi như bạn, bạn sẽ kiếm được phần thưởng CAKE do cổ phần tương đối nhỏ hơn so với tổng số
+* Liệu vị thế thanh khoản có đang hoạt động hay không\
+  \- chỉ các vị thế thanh khoản đang hoạt động mới kiếm được phần thưởng CAKE từ farm
+
+
+
+### Tại sao tôi thấy cửa sổ pop-up "Update Positions"?
+
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28321%29.png)
+
+Ngay sau khi ra mắt V3, các Chefs đã triển khai cập nhật cho Farms để làm cho các tính toán phần thưởng chính xác và đáng tin cậy hơn. Nếu bạn thấy cửa sổ pop-up này, điều đó có nghĩa là một số vị thế của bạn sẽ cần cập nhật.
+
+Chỉ cần nhấp "Update All" và xác nhận trong cửa sổ pop-up ví của bạn.
+
+Lưu ý rằng các Chefs cũng đang áp dụng cập nhật này cho dữ liệu staking lịch sử giữa khi ra mắt Farm V3 và khi cập nhật này được triển khai. Nếu có bất kỳ phần thưởng CAKE bổ sung nào, chúng sẽ được airdrop vào ví của bạn trước ngày 1 tháng 5 năm 2023.
+
+
+
+### Tại sao farm 2x trong V3 có APR thấp hơn farm 1x trong V2?
+
+Đầu tiên, khi so sánh APR, bạn cần đảm bảo tổng thanh khoản đã stake giữa hai farms là bằng nhau.
+
+Ngoài ra, bây giờ chúng ta có nhiều nhóm farms có luồng CAKE emission riêng. Và mỗi nhóm farms chia sẻ các bộ số nhân riêng biệt.
+
+Một farm riêng lẻ sẽ nhận emission CAKE dựa trên:
+
+* A = Tổng CAKE mỗi giây/block cho nhóm farm mà nó thuộc về
+* B = Tổng số nhân trong nhóm mà nó thuộc về
+* C = Số nhân mà nó có
 
 `CAKE per block/second = C / B * A`
 
-The above numbers can be found in each of the [MasterChef](/broken/pages/-MeTWzQOSmb1ej51HT0I) contracts.
+Các con số trên có thể được tìm thấy trong mỗi hợp đồng [MasterChef](/broken/pages/-MeTWzQOSmb1ej51HT0I).
 
 
 
-### Can I use bCAKE in v3 Farms?
+### Tôi có thể sử dụng bCAKE trong v3 Farms không?
 
-Yes
+Có
 
-bCAKE for V3 Farms will come very soon after the deployment of PancakeSwap Farm V3. Stay tuned.
+bCAKE cho V3 Farms sẽ đến ngay sau khi triển khai PancakeSwap Farm V3. Hãy chờ đón.

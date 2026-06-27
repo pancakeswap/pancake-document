@@ -1,22 +1,22 @@
 ---
-description: Receive the same juicy CAKE rewards by farming on other blockchains
+description: Nhận phần thưởng CAKE hấp dẫn tương tự bằng cách farming trên các blockchain khác
 hidden: true
 ---
 
-# Crosschain Farming
+# Farming Xuyên chuỗi
 
-<figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2836%29.png" alt=""><figcaption></figcaption></figure>
 
-With the multichain deployment, PancakeSwap is now bringing the iconic yield farming experience from PancakeSwap farms to users on other blockchains. Yield Farms allow users to earn CAKE while supporting PancakeSwap by staking LP Tokens.
+Với việc triển khai multichain, PancakeSwap hiện đang mang trải nghiệm Yield Farming biểu tượng từ PancakeSwap farms đến người dùng trên các blockchain khác. Yield Farms cho phép người dùng kiếm CAKE trong khi hỗ trợ PancakeSwap bằng cách stake LP Tokens.
 
-Check out the [main section](../) to learn more about yield farming.
+Xem [phần chính](../) để tìm hiểu thêm về Yield Farming.
 
-Check out our [How to Use Farms guide](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) to get started with farming.
+Xem hướng dẫn [Cách Sử dụng Farms](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) để bắt đầu farming.
 
 {% hint style="warning" %}
-Yield farming can give better rewards than Syrup Pools, but it comes with a risk of **Impermanent Loss**. It’s not as scary as it sounds, but it is worth learning about the concept before you get started.
+Yield farming có thể mang lại phần thưởng tốt hơn Syrup Pools, nhưng nó đi kèm với rủi ro về **Tổn thất tạm thời**. Nghe có vẻ đáng sợ, nhưng đáng để tìm hiểu về khái niệm này trước khi bắt đầu.
 
-Check out this great [article about Impermanent Loss ](https://academy.binance.com/en/articles/impermanent-loss-explained)from Binance Academy to learn more.
+Xem [bài viết tuyệt vời về Tổn thất tạm thời ](https://academy.binance.com/en/articles/impermanent-loss-explained)từ Binance Academy để tìm hiểu thêm.
 {% endhint %}
 
-PancakeSwap Crosschain farming is powered by the cross-chain messaging service provided by Celer Network. To learn more, visit: [https://www.celer.network/](https://www.celer.network/)
+Farming Xuyên chuỗi PancakeSwap được hỗ trợ bởi dịch vụ nhắn tin cross-chain được cung cấp bởi Celer Network. Để tìm hiểu thêm, truy cập: [https://www.celer.network/](https://www.celer.network/)

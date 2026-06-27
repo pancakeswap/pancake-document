@@ -1,48 +1,48 @@
-# Solana Farming FAQ
+# FAQ về Solana Farming
 
-### 1. How does SOL Farming work?
+### 1. SOL Farming hoạt động như thế nào?
 
-* V3 Farming is **campaign-based**, meaning farms are active only for a set duration.
-* During the campaign:
-  * Reward tokens are distributed **every second** to **active liquidity positions**.
-  * Farming APR will be shown on the pool list page and my positions page
-* After the campaign ends:
-  1. **No more rewards** will be distributed.
-  2. **Farming APR will no longer be shown** on the pool list page and my positions page
-  3. The farm becomes **inactive**, but may be restarted by the creator by adding more rewards.
+* V3 Farming dựa trên **chiến dịch**, nghĩa là farms chỉ hoạt động trong một khoảng thời gian nhất định.
+* Trong chiến dịch:
+  * Token phần thưởng được phân phối **mỗi giây** cho **các vị thế thanh khoản đang hoạt động**.
+  * APR Farming sẽ được hiển thị trên trang danh sách pool và trang vị thế của tôi
+* Sau khi chiến dịch kết thúc:
+  1. **Không còn phần thưởng** được phân phối.
+  2. **APR Farming sẽ không còn được hiển thị** trên trang danh sách pool và trang vị thế của tôi
+  3. Farm trở nên **không hoạt động**, nhưng có thể được khởi động lại bởi người tạo bằng cách thêm phần thưởng.
 
-### 2. Do I need to stake my LP NFT to earn farming rewards?
+### 2. Tôi có cần stake LP NFT để kiếm phần thưởng farming không?
 
-* **No staking is required**.
-* As long as your liquidity position is **active (in-range)** in a pool with an active farm, you will earn rewards automatically.
+* **Không cần staking**.
+* Miễn là vị thế thanh khoản của bạn **đang hoạt động (trong phạm vi)** trong pool có farm đang hoạt động, bạn sẽ tự động kiếm phần thưởng.
 
-### 3. Are there any farm boosters?
+### 3. Có bộ tăng cường farm nào không?
 
-* **No**, V3 farms do **not** support any boosting mechanisms.
-* Rewards are solely based on your share of active liquidity in the pool.
+* **Không**, V3 farms **không** hỗ trợ bất kỳ cơ chế tăng cường nào.
+* Phần thưởng chỉ dựa trên cổ phần thanh khoản đang hoạt động của bạn trong pool.
 
-### 4. Can multiple farms be created for the same pool?
+### 4. Có thể tạo nhiều farm cho cùng một pool không?
 
-* **No**, only **one farm per token pair and fee tier** can exist.
+* **Không**, chỉ có thể tồn tại **một farm cho mỗi cặp token và mức phí**.
 
-### 5. How are SOL farms configured?
+### 5. SOL farms được cấu hình như thế nào?
 
-#### A. Token Rewards
+#### A. Token Phần thưởng
 
-* Up to **3 different reward tokens** can be assigned per farm.
-* Once set, the reward token types **cannot be changed**.
-* The farm creator can:
-  * **Top up** the allocated reward tokens.
-  * **Extend the farming duration** after the campaign ends.
+* Tối đa **3 loại token phần thưởng khác nhau** có thể được gán cho mỗi farm.
+* Khi được thiết lập, các loại token phần thưởng **không thể thay đổi**.
+* Người tạo farm có thể:
+  * **Nạp thêm** các token phần thưởng đã phân bổ.
+  * **Gia hạn thời gian farming** sau khi chiến dịch kết thúc.
 
-#### B. Campaign Duration
+#### B. Thời gian Chiến dịch
 
-* Campaigns must last a minimum of **7 days** and a maximum of **90 days**.
+* Các chiến dịch phải kéo dài tối thiểu **7 ngày** và tối đa **90 ngày**.
 
-### 6. Can a farm be edited after creation?
+### 6. Farm có thể được chỉnh sửa sau khi tạo không?
 
-Farm creators can edit the following parameters **after farm creation**:
+Người tạo farm có thể chỉnh sửa các thông số sau **sau khi tạo farm**:
 
-1. Reward distribution rate (per second)
-2. Campaign end date
-3. Add a reward token and corresponding reward amount (only if fewer than 3 tokens were initially assigned)
+1. Tỷ lệ phân phối phần thưởng (mỗi giây)
+2. Ngày kết thúc chiến dịch
+3. Thêm token phần thưởng và số lượng phần thưởng tương ứng (chỉ khi ban đầu được gán ít hơn 3 token)

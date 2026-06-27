@@ -1,121 +1,121 @@
 ---
-description: Find, Provide LP, Fram
+description: Tìm kiếm, Cung cấp LP, Farm
 ---
 
-# How to Use Farms
+# Cách Sử dụng Farms
 
-![](../../../.gitbook/assets/how-to-yield-farms-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-yield-farms-header.png)
 
-Yield Farming in Farms is a great way to earn CAKE rewards on PancakeSwap.
+Yield Farming trong Farms là cách tuyệt vời để kiếm phần thưởng CAKE trên PancakeSwap.
 
-Farms require you to stake **two tokens** to provide liquidity and receive either a liquidity position NFT or LP Tokens, which you then stake in the Farm to earn rewards. This lets you earn CAKE while still keeping a position in your other tokens!
+Farms yêu cầu bạn stake **hai token** để cung cấp thanh khoản và nhận NFT vị thế thanh khoản hoặc LP Tokens, sau đó bạn stake trong Farm để kiếm phần thưởng. Điều này cho phép bạn kiếm CAKE trong khi vẫn giữ vị thế trong các token khác!
 
 {% hint style="warning" %}
-Yield farming can give better rewards than Syrup Pools or single token staking, but it comes with a risk of **Impermanent Loss**. It’s not as scary as it sounds, but it is worth learning about the concept before you get started.
+Yield farming có thể mang lại phần thưởng tốt hơn Syrup Pools hoặc staking token đơn lẻ, nhưng nó đi kèm với rủi ro về **Tổn thất tạm thời**. Nghe có vẻ đáng sợ, nhưng đáng để tìm hiểu về khái niệm này trước khi bắt đầu.
 
-Check out this great [article about Impermanent Loss ](https://academy.binance.com/en/articles/impermanent-loss-explained)from Binance Academy to learn more.
+Xem [bài viết tuyệt vời về Tổn thất tạm thời ](https://academy.binance.com/en/articles/impermanent-loss-explained)từ Binance Academy để tìm hiểu thêm.
 {% endhint %}
 
-## Find the Pairs to Provide Liquidity
+## Tìm Các Cặp để Cung cấp Thanh khoản
 
-<figure><img src="../../../.gitbook/assets/image (360).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28360%29.png" alt=""><figcaption></figcaption></figure>
 
-Now with Universal Farm Page, you can find liquidity pairs by tokens, check their fees, volume, APRs, across all the PancakeSwap supported networks, without the need of switching networks in the wallet.
+Với Trang Farm Universal, bạn có thể tìm các cặp thanh khoản theo token, kiểm tra phí, khối lượng, APR trên tất cả mạng được PancakeSwap hỗ trợ, mà không cần chuyển đổi mạng trong ví.
 
-Head to: [https://pancakeswap.finance/liquidity/pools](https://pancakeswap.finance/liquidity/pools) to start
+Truy cập: [https://pancakeswap.finance/liquidity/pools](https://pancakeswap.finance/liquidity/pools) để bắt đầu
 
-#### Features Breakdown
+#### Phân tích tính năng
 
-<figure><img src="../../../.gitbook/assets/image (361).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28361%29.png" alt=""><figcaption></figcaption></figure>
 
-1. All the liquidity pools/pairs that are trending, or have a PancakeSwap farm attached.
-2. All the liquidity positions you have.
-3. All the legacy farms. If you don't find your previously staked farms in "All Pools" try searching here.
-4. On default the page shows farms and tokens from all the supported chains. Use this drop down to filter pools by networks/chains.
-5. Use this dropdown to filter pools by tokens.
-6. Use this tab to filter pools by DEX type.
-7. Click the arrow button on APR, TVL, or VOLUME 24H to order the pools with the selected metrics.
-8. Sections for bCAKE - farm yield booster. [Learn more](../../../welcome-to-pancakeswap/vecake-sunset/bcake/)
-9. Use this link to go back to the legacy farm page if you head into any issue with the new version.
+1. Tất cả các pool/cặp thanh khoản đang xu hướng hoặc có PancakeSwap farm đính kèm.
+2. Tất cả các vị thế thanh khoản bạn có.
+3. Tất cả các farm kế thừa. Nếu bạn không tìm thấy farm đã stake trước đây trong "All Pools" hãy tìm kiếm ở đây.
+4. Theo mặc định trang hiển thị farms và token từ tất cả các chuỗi được hỗ trợ. Sử dụng dropdown này để lọc pool theo mạng/chuỗi.
+5. Sử dụng dropdown này để lọc pool theo token.
+6. Sử dụng tab này để lọc pool theo loại DEX.
+7. Nhấp nút mũi tên trên APR, TVL hoặc VOLUME 24H để sắp xếp pool với số liệu đã chọn.
+8. Các phần cho bCAKE - farm yield booster. [Tìm hiểu thêm](../../../welcome-to-pancakeswap/vecake-sunset/bcake/)
+9. Sử dụng đường dẫn này để quay lại trang farm kế thừa nếu bạn gặp bất kỳ vấn đề nào với phiên bản mới.
 
-## Provide LP
+## Cung cấp LP
 
-<figure><img src="../../../.gitbook/assets/image (362).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28362%29.png" alt=""><figcaption></figcaption></figure>
 
-Once you find a pair to provide liquidity, click to go to the detail page to check on more info like:
+Khi bạn tìm thấy cặp để cung cấp thanh khoản, nhấp để đến trang chi tiết để kiểm tra thêm thông tin như:
 
 * TVL&#x20;
-* Volume
-* Fees
+* Khối lượng
+* Phí
 * APR
-* Your Existing Positions
+* Các vị thế hiện có của bạn
 
-To create an LP, click "Add Liquidity +" and follow the instructions here:
+Để tạo LP, nhấp "Add Liquidity +" và làm theo hướng dẫn ở đây:
 
 {% content-ref url="../../pancakeswap-pools/liquidity-guide.md" %}
 [liquidity-guide.md](../../pancakeswap-pools/liquidity-guide.md)
 {% endcontent-ref %}
 
-## Stake Your Position to Earn
+## Stake Vị thế để Kiếm
 
-<figure><img src="../../../.gitbook/assets/image (363).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28363%29.png" alt=""><figcaption></figcaption></figure>
 
-Once liquidity is added, they will appear in the upper right table. Or in the "My Position" tab.
+Khi thanh khoản được thêm vào, chúng sẽ xuất hiện trong bảng trên bên phải. Hoặc trong tab "My Position".
 
-* For V3, simply click "Stake" to stake your position and start earning CAKE. As in V3 users can create multiple positions,  you can repeat the above steps to stake multiple positions with different price ranges.
-* For V2 and StableSwap, after clicking "Stake", you need to specify the amount of LP tokens to stake. In most cases you should stake 100% of your LP tokens to maximise your yield.
+* Đối với V3, chỉ cần nhấp "Stake" để stake vị thế và bắt đầu kiếm CAKE. Vì trong V3 người dùng có thể tạo nhiều vị thế, bạn có thể lặp lại các bước trên để stake nhiều vị thế với các phạm vi giá khác nhau.
+* Đối với V2 và StableSwap, sau khi nhấp "Stake", bạn cần chỉ định số lượng LP tokens cần stake. Trong hầu hết các trường hợp bạn nên stake 100% LP tokens để tối đa hóa lợi suất.
 
-## Harvest Farming Rewards
+## Thu hoạch Phần thưởng Farming
 
-<figure><img src="../../../.gitbook/assets/image (364).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28364%29.png" alt=""><figcaption></figcaption></figure>
 
-In the new Universal Farm Page, locating all your farming positions has never been easier. Simply go to "My Positions" and click "Farms only" in the top right corner. All the farming positions will be filtered, regardless of which network you are selecting.
+Trong Trang Farm Universal mới, việc xác định tất cả vị thế farming của bạn chưa bao giờ dễ dàng hơn. Chỉ cần đến "My Positions" và nhấp "Farms only" ở góc trên bên phải. Tất cả các vị thế farming sẽ được lọc, bất kể bạn đang chọn mạng nào.
 
-Just like the list of pools/pairs, you may use the toolbar to filter positions by networks/chains, tokens, and DEX type.
+Giống như danh sách pool/cặp, bạn có thể sử dụng thanh công cụ để lọc vị thế theo mạng/chuỗi, token và loại DEX.
 
-To harvest CAKE rewards from a staked position, simply click "Harvest" and confirm in your wallet popup.
+Để thu hoạch phần thưởng CAKE từ vị thế đã stake, chỉ cần nhấp "Harvest" và xác nhận trong cửa sổ pop-up ví.
 
-If you have multiple staked positions, you need to harvest them separately.&#x20;
+Nếu bạn có nhiều vị thế đã stake, bạn cần thu hoạch chúng riêng lẻ.&#x20;
 
-## **Add or Remove Liquidity While Staking in a Farm**
+## **Thêm hoặc Xóa Thanh khoản Trong Khi Đang Stake trong Farm**
 
-In V3, when staking in a farm, you can still add or remove liquidity without unstaking.
+Trong V3, khi đang stake trong farm, bạn vẫn có thể thêm hoặc xóa thanh khoản mà không cần unstake.
 
-To do so, simply return to the "My Positions" page, and position you want to adjust.
+Để làm vậy, chỉ cần quay lại trang "My Positions" và vị thế bạn muốn điều chỉnh.
 
-<figure><img src="../../../.gitbook/assets/image (365).png" alt="" width="280"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28365%29.png" alt="" width="280"><figcaption></figcaption></figure>
 
-Click on the position title with the token pair, and position ID to open up the position detail page.
+Nhấp vào tiêu đề vị thế với cặp token và ID vị thế để mở trang chi tiết vị thế.
 
-Simply use the “Add” or “Remove” button to adjust the liquidity in the staked position.
+Chỉ cần sử dụng nút "Add" hoặc "Remove" để điều chỉnh thanh khoản trong vị thế đã stake.
 
-<figure><img src="../../../.gitbook/assets/image (366).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28366%29.png" alt=""><figcaption></figcaption></figure>
 
-Please note that all the unclaimed CAKE rewards will be harvested and sent to your wallet while adjusting your position.
+Lưu ý rằng tất cả phần thưởng CAKE chưa nhận sẽ được thu hoạch và gửi đến ví của bạn khi điều chỉnh vị thế.
 
 ## **Unstake**
 
-You can unstake a position at any time.
+Bạn có thể unstake vị thế bất kỳ lúc nào.
 
-<figure><img src="../../../.gitbook/assets/image (367).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28367%29.png" alt=""><figcaption></figcaption></figure>
 
-To unstake, simply return to the "My Positions", locate the position, and click:
+Để unstake, chỉ cần quay lại "My Positions", xác định vị thế và nhấp:
 
-* "Unstake" (for V3 positions)&#x20;
-* "-" (for V2, StableSwap LPs), and then select the amount to unstake
+* "Unstake" (đối với vị thế V3)&#x20;
+* "-" (đối với V2, StableSwap LPs) và sau đó chọn số lượng cần unstake
 
-Then confirm in the wallet pop up. After a short wait, your position NFT or LP tokens will be returned to your wallet, along with all the pending CAKE rewards.
+Sau đó xác nhận trong cửa sổ pop-up ví. Sau một khoảng chờ ngắn, NFT vị thế hoặc LP token của bạn sẽ được trả lại vào ví, cùng với tất cả phần thưởng CAKE đang chờ xử lý.
 
-## How often should I harvest my rewards?
+## Tôi nên thu hoạch phần thưởng bao lâu một lần?
 
-How often you harvest your rewards is up to you, but it does help to remember that there is a small fee involved in harvesting.
+Tần suất thu hoạch phần thưởng là tùy bạn, nhưng hãy nhớ rằng có một khoản phí nhỏ khi thu hoạch.
 
-You can see this fee in your wallet when confirming after clicking **Harvest**.
+Bạn có thể thấy khoản phí này trong ví của mình khi xác nhận sau khi nhấp **Harvest**.
 
-![](<../../../.gitbook/assets/image (281).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28281%29.png)
 
-This shows the fee for harvesting as it appears in the MetaMask wallet. Different wallets will show the information a little differently. Consider leaving your rewards to grow for a while so you pay fees less often.
+Điều này cho thấy phí thu hoạch khi xuất hiện trong ví MetaMask. Các ví khác nhau sẽ hiển thị thông tin hơi khác nhau. Hãy cân nhắc để phần thưởng của bạn tăng lên một thời gian để bạn trả phí ít thường xuyên hơn.
 
 
 
-**Happy farming!**
+**Chúc farming vui vẻ!**

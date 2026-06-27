@@ -1,114 +1,114 @@
-# How to Participate - CAKE.PAD
+# Cách tham gia - CAKE.PAD
 
-### Summary
+### Tóm tắt
 
-**Before the CAKE.PAD event**
+**Trước sự kiện CAKE.PAD**
 
-* [Buy / Prepare CAKE](https://pancakeswap.finance/swap) tokens
+* [Mua / Chuẩn bị CAKE](https://pancakeswap.finance/swap)
 
-**During the CAKE.PAD event**
+**Trong sự kiện CAKE.PAD**
 
-* While the event is live, deposit your CAKE to receive CAKE.PAD partner tokens at [https://pancakeswap.finance/cakepad](https://pancakeswap.finance/cakepad)
+* Trong khi sự kiện đang diễn ra, nạp CAKE của bạn để nhận token đối tác CAKE.PAD tại [https://pancakeswap.finance/cakepad](https://pancakeswap.finance/cakepad)
 
-**After the CAKE.PAD event**
+**Sau sự kiện CAKE.PAD**
 
-1. When the event is complete, claim your CAKE.PAD partner tokens.
-2. In the case of an [overflow](cakepad-guide.md#overflow-sale-method), claim your unused CAKE tokens (minus [tiered tax](how-cake.pad-taxes-work-in-overflow-sales-with-example.md)).
-3. If the CAKE.PAD event has token vesting, return throughout the vesting period to claim released tokens until the end of the vesting schedule.
+1. Khi sự kiện kết thúc, nhận token đối tác CAKE.PAD của bạn.
+2. Trong trường hợp có [overflow](cakepad-guide.md#overflow-sale-method), nhận lại token CAKE chưa sử dụng (trừ [thuế phân tầng](how-cake.pad-taxes-work-in-overflow-sales-with-example.md)).
+3. Nếu sự kiện CAKE.PAD có vesting token, hãy quay lại trong suốt thời gian vesting để nhận token được giải phóng cho đến khi kết thúc lịch vesting.
 
 ***
 
-## A) Before the CAKE.PAD event
+## A) Trước sự kiện CAKE.PAD
 
-Before you can join a CAKE.PAD event, the only thing you need to prepare is your CAKE tokens.
+Trước khi tham gia sự kiện CAKE.PAD, thứ duy nhất bạn cần chuẩn bị là token CAKE.
 
-### Get CAKE Tokens
+### Lấy token CAKE
 
-CAKE tokens are used to buy the tokens being offered in the CAKE.PAD event
+Token CAKE được dùng để mua các token được cung cấp trong sự kiện CAKE.PAD
 
-* If your CAKE is staked in a Syrup Pool, unstake it before the CAKE.PAD event
-* Else, make sure to buy some CAKE tokens in advance and hold them in your wallet
+* Nếu CAKE của bạn đang được stake trong Syrup Pool, hãy unstake trước sự kiện CAKE.PAD
+* Ngược lại, hãy chắc chắn mua một số token CAKE trước và giữ chúng trong ví của bạn
 
-### Knowing when a CAKE.PAD Event will Start
+### Biết khi nào sự kiện CAKE.PAD sẽ bắt đầu
 
-CAKE.PAD events are **time-limited**. Use the following methods to ensure you don’t miss out:
+Các sự kiện CAKE.PAD **có giới hạn thời gian**. Sử dụng các phương pháp sau để đảm bảo bạn không bỏ lỡ:
 
-1. Visit the CAKE.PAD event page: a **countdown timer** will be displayed with the exact timing of the upcoming CAKE.PAD event.
-2. Keep a close watch on PancakeSwap’s social media: There isn’t a set time before a CAKE.PAD event goes live for the countdown to start, so check PancakeSwap’s official accounts for announcements. The countdown and updates will give you plenty of time to prepare.
-3. Check the CAKE.PAD event forum post for the exact timing.
+1. Truy cập trang sự kiện CAKE.PAD: **bộ đếm ngược** sẽ được hiển thị với thời gian chính xác của sự kiện CAKE.PAD sắp tới.
+2. Theo dõi chặt chẽ các mạng xã hội của PancakeSwap: Không có thời gian cố định trước khi sự kiện CAKE.PAD diễn ra để bộ đếm ngược bắt đầu, vì vậy hãy kiểm tra tài khoản chính thức của PancakeSwap để biết thông báo. Bộ đếm ngược và các cập nhật sẽ cho bạn đủ thời gian để chuẩn bị.
+3. Kiểm tra bài đăng forum về sự kiện CAKE.PAD để biết thời gian chính xác.
 
-## B) During the CAKE.PAD Event
+## B) Trong sự kiện CAKE.PAD
 
-While the CAKE.PAD event is live, you will have limited time to participate. If you have prepared CAKE in your wallet, you can readily participate in the CAKE.PAD event!
+Trong khi sự kiện CAKE.PAD đang diễn ra, bạn sẽ có thời gian giới hạn để tham gia. Nếu bạn đã chuẩn bị CAKE trong ví, bạn có thể tham gia sự kiện CAKE.PAD ngay!
 
-### Checking if the CAKE.PAD Event is Live
+### Kiểm tra xem sự kiện CAKE.PAD có đang diễn ra không
 
-On the CAKE.PAD event page, the event start countdown will switch to a countdown until the CAKE.PAD event sale ends. This shows you how much time remains to obtain the offered tokens.
+Trên trang sự kiện CAKE.PAD, bộ đếm ngược bắt đầu sự kiện sẽ chuyển sang đếm ngược cho đến khi bán kết thúc. Điều này cho bạn thấy còn bao nhiêu thời gian để có được các token được cung cấp.
 
-In each CAKE.PAD event, participants can commit any amount of CAKE. To enhance CAKE utility, a tiered participation fee applies. For details, check the CAKE.PAD event page or proposal for the specific event you want to join.
+Trong mỗi sự kiện CAKE.PAD, người tham gia có thể nạp bất kỳ lượng CAKE nào. Để tăng cường tiện ích CAKE, phí tham gia phân tầng sẽ áp dụng. Để biết chi tiết, hãy kiểm tra trang sự kiện CAKE.PAD hoặc đề xuất cho sự kiện cụ thể bạn muốn tham gia.
 
-The final amount of CAKE.PAD partner tokens you receive is determined using the **Overflow Sale Method**.
+Số lượng token đối tác CAKE.PAD cuối cùng bạn nhận được được xác định bằng **Phương pháp bán Overflow**.
 
-### Overflow Sale Method
+### Phương pháp bán Overflow
 
-1. Users can commit any amount of $CAKE to participate, no locking or staking needed
-2. Allocation each user gets is proportional to their committed CAKE
-3. If oversubscribed, only a portion of user’s committed CAKE is exchanged for project tokens
-4. The more you commit → the more allocation you get
-5. Heavily oversubscribed? Small commits may get 0
-6. All unused $CAKE will be refunded to participants (subject to tax, if applicable)
+1. Người dùng có thể nạp bất kỳ lượng $CAKE nào để tham gia, không cần khóa hoặc staking
+2. Phân bổ mỗi người dùng nhận được tỷ lệ thuận với CAKE họ đã nạp
+3. Nếu đăng ký quá mức, chỉ một phần CAKE đã nạp của người dùng được đổi lấy token dự án
+4. Nạp càng nhiều → nhận được phân bổ càng nhiều
+5. Đăng ký quá nhiều? Các khoản nạp nhỏ có thể nhận được 0
+6. Tất cả $CAKE chưa sử dụng sẽ được hoàn trả cho người tham gia (tùy thuộc vào thuế, nếu có)
 
-### Committing CAKE to the CAKE.PAD event
+### Nạp CAKE vào sự kiện CAKE.PAD
 
-1. Click the Deposit button on the CAKE.PAD event sale card
+1. Nhấp vào nút Deposit trên thẻ bán sự kiện CAKE.PAD
 
-<figure><img src="../../.gitbook/assets/image (466).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28466%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-2. Enter the amount of CAKE you want to commit. Any CAKE not used to buy tokens will be returned to you
-3.  Click **Confirm** and approve the transaction in your wallet<br>
+2. Nhập số lượng CAKE bạn muốn nạp. Bất kỳ CAKE nào không được dùng để mua token sẽ được trả lại cho bạn
+3.  Nhấp **Confirm** và phê duyệt giao dịch trong ví của bạn<br>
 
-    <figure><img src="../../.gitbook/assets/image (467).png" alt="" width="239"><figcaption></figcaption></figure>
-4. Your committed amount will be displayed in the sale section
-5. You can add more $CAKE any time during the CAKE.PAD event
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28467%29.png" alt="" width="239"><figcaption></figcaption></figure>
+4. Số tiền đã nạp của bạn sẽ được hiển thị trong phần bán
+5. Bạn có thể thêm $CAKE bất kỳ lúc nào trong sự kiện CAKE.PAD
 
-<figure><img src="../../.gitbook/assets/image (468).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28468%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-**Note:** If the CAKE.PAD event is oversubscribed, a **tiered participation fee** will apply. This fee is only taken from excess funds, not from the CAKE used to buy tokens.
+**Lưu ý:** Nếu sự kiện CAKE.PAD bị đăng ký quá mức, **phí tham gia phân tầng** sẽ áp dụng. Phí này chỉ lấy từ số tiền dư thừa, không phải từ CAKE dùng để mua token.
 
-See: [how-cake.pad-taxes-work-in-overflow-sales-with-example.md](how-cake.pad-taxes-work-in-overflow-sales-with-example.md "mention")
+Xem: [how-cake.pad-taxes-work-in-overflow-sales-with-example.md](how-cake.pad-taxes-work-in-overflow-sales-with-example.md "mention")
 
-## C) After the CAKE.PAD event
+## C) Sau sự kiện CAKE.PAD
 
-### Collecting Tokens
+### Thu thập token
 
-* When the CAKE.PAD event ends, you can collect your new tokens. Some CAKE.PAD events may have token vesting periods.
-* The number of tokens you receive depends on your CAKE deposit amount relative to the total amount committed.
-* Any extra CAKE not used for obtaining CAKE.PAD partner tokens will be returned (minus any applicable participation fee).
+* Khi sự kiện CAKE.PAD kết thúc, bạn có thể thu thập token mới. Một số sự kiện CAKE.PAD có thể có thời gian vesting token.
+* Số lượng token bạn nhận phụ thuộc vào số tiền CAKE bạn nạp so với tổng số tiền đã nạp.
+* Bất kỳ CAKE dư thừa nào không được dùng để nhận token đối tác CAKE.PAD sẽ được trả lại (trừ các phí tham gia áp dụng).
 
-#### CAKE.PAD event **without token vesting**
+#### Sự kiện CAKE.PAD **không có vesting token**
 
-Collecting your new tokens is incredibly easy. Just go back to the CAKE.PAD event page once the CAKE.PAD event is finished and click the **Claim** button under the sale window. Confirm the action with your wallet. You'll now have your new tokens. Congratulations!
+Việc thu thập token mới cực kỳ dễ dàng. Chỉ cần quay lại trang sự kiện CAKE.PAD sau khi hoàn thành và nhấp vào nút **Claim** bên dưới cửa sổ bán. Xác nhận hành động với ví của bạn. Bây giờ bạn sẽ có token mới. Chúc mừng!
 
-#### CAKE.PAD event **with token vesting**
+#### Sự kiện CAKE.PAD **có vesting token**
 
-Some CAKE.PAD events may include vesting. Details are always shared in the proposal, and the vesting schedule is displayed on the CAKE.PAD event page.
+Một số sự kiện CAKE.PAD có thể bao gồm vesting. Chi tiết luôn được chia sẻ trong đề xuất và lịch vesting được hiển thị trên trang sự kiện CAKE.PAD.
 
-The page will show:
+Trang sẽ hiển thị:
 
-* Total purchased tokens
-* Tokens already released
-* Tokens available to claim
-* When vesting will be complete
+* Tổng token đã mua
+* Token đã được giải phóng
+* Token có thể nhận
+* Khi nào vesting sẽ hoàn thành
 
-Click the **Claim** button to collect any tokens currently available.
+Nhấp vào nút **Claim** để thu thập các token hiện có.
 
-Throughout the vesting period, you can return to the CAKE.PAD event page at any time to claim tokens as they are released.
+Trong suốt thời gian vesting, bạn có thể quay lại trang sự kiện CAKE.PAD bất kỳ lúc nào để nhận token khi chúng được giải phóng.
 
-<figure><img src="../../.gitbook/assets/image (469).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28469%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-#### Using Your New Tokens in Farms
+#### Sử dụng token mới của bạn trong Farms
 
-Now that you've got your shiny new tokens, you can put them to work for you! You can add liquidity for your token to receive trading fees and farming.
+Bây giờ bạn đã có token mới bóng loáng, bạn có thể đưa chúng vào hoạt động! Bạn có thể thêm thanh khoản cho token để nhận phí giao dịch và farming.
 
-* Read about adding liquidity [here](https://docs.pancakeswap.finance/get-started/liquidity-guide).
-* Read about farming [here](../yield-farming/).
+* Đọc về việc thêm thanh khoản [tại đây](https://docs.pancakeswap.finance/get-started/liquidity-guide).
+* Đọc về farming [tại đây](../yield-farming/).

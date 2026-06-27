@@ -1,52 +1,52 @@
 # Solana Farming
 
-## How to Use Farms on PancakeSwap SOL V3
+## Cách Sử dụng Farms trên PancakeSwap SOL V3
 
-Farming lets you earn additional rewards on top of standard liquidity provider (LP) fees when you provide liquidity to eligible pools. Here's how to get started via: [https://solana.pancakeswap.finance/liquidity-pools/](https://solana.pancakeswap.finance/liquidity-pools/)
+Farming cho phép bạn kiếm thêm phần thưởng ngoài phí nhà cung cấp thanh khoản (LP) tiêu chuẩn khi bạn cung cấp thanh khoản cho các pool đủ điều kiện. Đây là cách bắt đầu qua: [https://solana.pancakeswap.finance/liquidity-pools/](https://solana.pancakeswap.finance/liquidity-pools/)
 
 {% hint style="warning" %}
-**Note:** Images shown in this guide are for illustrative purposes only and may not reflect real-time data or current farming statistics.
+**Lưu ý:** Hình ảnh được hiển thị trong hướng dẫn này chỉ nhằm mục đích minh họa và có thể không phản ánh dữ liệu thực tế hoặc số liệu thống kê farming hiện tại.
 {% endhint %}
 
 ***
 
-### 1. Filter to View Farms
+### 1. Lọc để Xem Farms
 
-*   On the **Pool List** page, toggle the **“Show Farm only”** filter to display only pools that offer farming rewards.
+*   Trên trang **Danh sách Pool**, bật bộ lọc **"Show Farm only"** để chỉ hiển thị các pool cung cấp phần thưởng farming.
 
-    <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
-### 2. View APR Breakdown
+### 2. Xem Phân tích APR
 
-* **Hover over** or **click** on the APR displayed next to a pool.
-*   A breakdown will appear showing:
+* **Di chuột qua** hoặc **nhấp** vào APR được hiển thị bên cạnh một pool.
+*   Phân tích sẽ xuất hiện cho thấy:
 
-    * LP rewards from trading fees.
-    * Additional rewards from farming incentives.
-    * An **estimated weekly reward** in tokens for that pool.
+    * Phần thưởng LP từ phí giao dịch.
+    * Phần thưởng bổ sung từ ưu đãi farming.
+    * **Phần thưởng hàng tuần ước tính** bằng token cho pool đó.
 
-    <figure><img src="../../../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29%20%284%29.png" alt=""><figcaption></figcaption></figure>
 
-### 3. Start Earning Farming Rewards
+### 3. Bắt đầu Kiếm Phần thưởng Farming
 
-* Simply **add liquidity** to a pool that has farming enabled.
-* Once you hold an **active (in-range)** position:
-  * You will start earning farming rewards **automatically when swaps occur**.
-  * **No need to stake your LP NFT**—rewards accrue directly to your position.
+* Chỉ cần **thêm thanh khoản** vào pool có farming được bật.
+* Khi bạn có vị thế **đang hoạt động (trong phạm vi)**:
+  * Bạn sẽ bắt đầu kiếm phần thưởng farming **tự động khi có hoán đổi**.
+  * **Không cần stake LP NFT** — phần thưởng tích lũy trực tiếp vào vị thế của bạn.
 
-### 4. Track Your Rewards
+### 4. Theo dõi Phần thưởng
 
-* Navigate to the **“My Positions”** page to view your:
-  * Active LP positions.
-  * Farming rewards accumulated for each position.
+* Điều hướng đến trang **"My Positions"** để xem:
+  * Các vị thế LP đang hoạt động.
+  * Phần thưởng farming tích lũy cho mỗi vị thế.
 
-<figure><img src="../../../.gitbook/assets/image (415).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28415%29.png" alt=""><figcaption></figcaption></figure>
 
-### 5. Claiming Your Rewards
+### 5. Nhận Phần thưởng
 
-* **Click "Harvest"** on a position to harvest both:
-  * LP rewards (from trading fees)
-  * Farming token rewards (if applicable)
-* Use **“Harvest All”** to collect rewards from **all active positions** in a single transaction.
+* **Nhấp "Harvest"** trên vị thế để thu hoạch cả:
+  * Phần thưởng LP (từ phí giao dịch)
+  * Phần thưởng token farming (nếu có)
+* Sử dụng **"Harvest All"** để thu thập phần thưởng từ **tất cả các vị thế đang hoạt động** trong một giao dịch.
 
-<figure><img src="../../../.gitbook/assets/image (416).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28416%29.png" alt=""><figcaption></figcaption></figure>

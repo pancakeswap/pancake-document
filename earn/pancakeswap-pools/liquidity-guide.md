@@ -1,161 +1,161 @@
-# How to Add/Remove Liquidity (EVM)
+# Cách Thêm/Xóa Thanh khoản (EVM)
 
-![](../../.gitbook/assets/how-to-add-remove-liquidity-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-add-remove-liquidity-header.png)
 
-"Liquidity" is central to how PancakeSwap's Exchange works. You can add liquidity for any token pair by staking both through the Liquidity page.
+"Thanh khoản" là trung tâm của cách Exchange PancakeSwap hoạt động. Bạn có thể thêm thanh khoản cho bất kỳ cặp token nào bằng cách stake cả hai qua trang Liquidity.
 
-In return for adding liquidity, you'll receive trading fees for that pair, and receive either an NFT or LP Tokens you can stake in [Farms](https://pancakeswap.finance/farms) to earn CAKE rewards!
+Đổi lại khi thêm thanh khoản, bạn sẽ nhận được phí giao dịch cho cặp đó, và nhận NFT hoặc LP Tokens mà bạn có thể stake trong [Farms](https://pancakeswap.finance/farms) để kiếm phần thưởng CAKE!
 
 ## Exchange V3
 
-To provide liquidity, you’ll need to commit an amount of any token pair you like. Your lowest value (in USD) of the two tokens will be the limit to the liquidity you can provide.
+Để cung cấp thanh khoản, bạn cần nạp một lượng bất kỳ cặp token nào bạn thích. Giá trị thấp nhất (tính bằng USD) của hai token sẽ là giới hạn cho thanh khoản bạn có thể cung cấp.
 
-You can easily trade for any tokens you need. Visit our [How to Trade on PancakeSwap](https://docs.pancakeswap.finance/get-started/trade-guide) guide if you need to.
+Bạn có thể dễ dàng đổi bất kỳ token nào bạn cần. Hãy xem hướng dẫn [Cách giao dịch trên PancakeSwap](https://docs.pancakeswap.finance/get-started/trade-guide) nếu cần.
 
-In this example, we will add V3 liquidity using ETH and USDC.
+Trong ví dụ này, chúng tôi sẽ thêm thanh khoản V3 bằng ETH và USDC.
 
 
 
-1 - Visit the [Liquidity](https://pancakeswap.finance/liquidity) page.
+1 - Truy cập trang [Liquidity](https://pancakeswap.finance/liquidity).
 
-<figure><img src="../../.gitbook/assets/image (243).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28243%29.png" alt=""><figcaption></figcaption></figure>
 
-2 - Click the “Add Liquidity” button.
+2 - Nhấp vào nút "Add Liquidity".
 
 
 
-3 - Using the top left Input, choose the two tokens in the trading pair you want to add liquidity. Here, we are going to use ETH and USDC as an example.
+3 - Sử dụng Input phía trên bên trái, chọn hai token trong cặp giao dịch bạn muốn thêm thanh khoản. Ở đây, chúng tôi sẽ dùng ETH và USDC làm ví dụ.
 
-![](<../../.gitbook/assets/image (126).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28126%29.png)
 
 
 
-4 - The interface will automatically choose the most popular trading fee tier and configure the price range for you.
+4 - Giao diện sẽ tự động chọn mức phí giao dịch phổ biến nhất và cấu hình phạm vi giá cho bạn.
 
 
 
-5 - You can confirm the version as well as the fee tier of the liquidity pool you are providing by looking for the “V3 LP - x% fee tier” displays.
+5 - Bạn có thể xác nhận phiên bản cũng như mức phí của pool thanh khoản bạn đang cung cấp bằng cách tìm hiển thị "V3 LP - x% fee tier".
 
-![](<../../.gitbook/assets/image (43).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2843%29.png)
 
-* If you want to customize the fee tier, click “More”, and choose the desired fee tier.
-* Please note that it is always advisable to provide liquidity to the most popular fee tier.
+* Nếu bạn muốn tùy chỉnh mức phí, nhấp "More" và chọn mức phí mong muốn.
+* Lưu ý rằng luôn nên cung cấp thanh khoản cho mức phí phổ biến nhất.
 
 
 
-6 - You can review and confirm the price range on the right-hand side displays.
+6 - Bạn có thể xem lại và xác nhận phạm vi giá trên màn hình hiển thị bên phải.
 
-![](<../../.gitbook/assets/image (22).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2822%29.png)
 
-* The chart shows the level of liquidity across all the price ranges. You can zoom in and out using the magnifier buttons. You can pan and navigate the chart by dragging the bottom x-axis.
-* If you want to customize the price range. Simply drag the handles, click the + and - buttons on the two prices, or click the two price numbers and enter them manually.
-* Although it is not advisable, you can provide your liquidity to the whole price range by clicking the “Full Range” button.
+* Biểu đồ cho thấy mức độ thanh khoản trên tất cả các phạm vi giá. Bạn có thể phóng to và thu nhỏ bằng các nút kính lúp. Bạn có thể điều hướng biểu đồ bằng cách kéo trục x phía dưới.
+* Nếu bạn muốn tùy chỉnh phạm vi giá. Chỉ cần kéo các tay cầm, nhấp nút + và - trên hai mức giá, hoặc nhấp vào hai con số giá và nhập thủ công.
+* Mặc dù không được khuyến nghị, bạn có thể cung cấp thanh khoản cho toàn bộ phạm vi giá bằng cách nhấp nút "Full Range".
 
 
 
-7 - Enter an amount on one of the tokens under “Deposit Amount”. The other should be calculated and filled automatically. If one of the tokens does not have enough balance. You will see an error and the button is greyed out. Please enter a lower amount to proceed or use the “MAX” button to fill in the maximum available value.
+7 - Nhập số lượng cho một trong các token trong "Deposit Amount". Token còn lại sẽ được tính toán và điền tự động. Nếu một trong các token không đủ số dư, bạn sẽ thấy lỗi và nút bị làm mờ. Vui lòng nhập số lượng thấp hơn để tiến hành hoặc sử dụng nút "MAX" để điền giá trị tối đa có sẵn.
 
-![](<../../.gitbook/assets/image (47).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2847%29.png)
 
 
 
-8 - Click the “Enable USDC” button. If you are adding liquidity against tokens other than ETH, you might need to click enable twice for each token in your pair. Your wallet will ask you to confirm the action.
+8 - Nhấp nút "Enable USDC". Nếu bạn đang thêm thanh khoản với token khác ngoài ETH, bạn có thể cần nhấp enable hai lần cho mỗi token trong cặp. Ví của bạn sẽ yêu cầu xác nhận hành động.
 
-![](<../../.gitbook/assets/image (98).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2898%29.png)
 
 
 
-9 - The “Add” button will then light up. Click to proceed.
+9 - Nút "Add" sẽ sáng lên. Nhấp để tiến hành.
 
-![](<../../.gitbook/assets/image (26).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2826%29.png)
 
 
 
-10 - A new pop-up window will appear to preview your liquidity position. If everything looks good, click “Add” again to proceed.
+10 - Một cửa sổ pop-up mới sẽ xuất hiện để xem trước vị thế thanh khoản. Nếu mọi thứ trông ổn, nhấp "Add" một lần nữa để tiến hành.
 
-![](<../../.gitbook/assets/image (38).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2838%29.png)
 
 
 
-11 - Your wallet will ask you for confirmation. Confirm your transaction from your wallet.
+11 - Ví của bạn sẽ yêu cầu xác nhận. Xác nhận giao dịch từ ví của bạn.
 
 
 
-12 - Soon after, you will see your new liquidity position on the “My Liquidity” page. And you will be able to check its detail by clicking on the position.
+12 - Ngay sau đó, bạn sẽ thấy vị thế thanh khoản mới trên trang "My Liquidity". Và bạn có thể kiểm tra chi tiết bằng cách nhấp vào vị thế.
 
-<figure><img src="../../.gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28211%29.png" alt=""><figcaption></figcaption></figure>
 
-### **Remove liquidity**
+### **Xóa thanh khoản**
 
-To remove liquidity.
+Để xóa thanh khoản.
 
-1 - Visit the [Liquidity](https://pancakeswap.finance/liquidity) pag&#x65;**.**
+1 - Truy cập trang [Liquidity](https://pancakeswap.finance/liquidity)**.**
 
-<figure><img src="../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28191%29.png" alt=""><figcaption></figcaption></figure>
 
 
 
-2 - Click on the position you want to remove liquidity from under “Your Liquidity". You may use the filter to quickly check all the V3 liquidity positions.
+2 - Nhấp vào vị thế bạn muốn xóa thanh khoản trong "Your Liquidity". Bạn có thể sử dụng bộ lọc để kiểm tra nhanh tất cả các vị thế thanh khoản V3.
 
-![](<../../.gitbook/assets/image (251).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28251%29.png)
 
 
 
-3 - Click “Remove”. A new window will appear.
+3 - Nhấp "Remove". Một cửa sổ mới sẽ xuất hiện.
 
-![](<../../.gitbook/assets/image (286).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28286%29.png)
 
 
 
-4 - Use the buttons or slider to choose how much liquidity you want to remove. Choose “MAX” to remove all of your liquidity from this pair.
+4 - Sử dụng các nút hoặc thanh trượt để chọn bao nhiêu thanh khoản bạn muốn xóa. Chọn "MAX" để xóa toàn bộ thanh khoản từ cặp này.
 
-5 - Click “Remove” to proceed.
+5 - Nhấp "Remove" để tiến hành.
 
-6 - A window will appear showing how many tokens you will receive. Click “Remove” again. Your wallet will ask you to confirm the action.
+6 - Một cửa sổ sẽ xuất hiện cho thấy bạn sẽ nhận được bao nhiêu token. Nhấp "Remove" một lần nữa. Ví của bạn sẽ yêu cầu xác nhận hành động.
 
-7 - After the transaction is confirmed. You will receive two of the tokens from your pair. And if you haven't removed all of your liquidity, your remaining liquidity value will be updated on the liquidity page.
+7 - Sau khi giao dịch được xác nhận. Bạn sẽ nhận được hai token từ cặp của mình. Và nếu bạn chưa xóa tất cả thanh khoản, giá trị thanh khoản còn lại sẽ được cập nhật trên trang liquidity.
 
 
 
 ## Exchange V2
 
-### Add Liquidity
+### Thêm Thanh khoản
 
-In this example, we will add V2 liquidity using BNB and CAKE.
+Trong ví dụ này, chúng tôi sẽ thêm thanh khoản V2 bằng BNB và CAKE.
 
 {% hint style="warning" %}
-Please note that the example is only for illustrative purposes, CAKE/BNB trading pair has been migrated to V3. Please always provide V3 liquidity unless one of the underlying tokens does not support Exchange V3. Or the majority of the liquidity for the token pair has not been migrated.
+Lưu ý rằng ví dụ chỉ nhằm mục đích minh họa, cặp giao dịch CAKE/BNB đã được chuyển sang V3. Vui lòng luôn cung cấp thanh khoản V3 trừ khi một trong các token cơ bản không hỗ trợ Exchange V3. Hoặc phần lớn thanh khoản cho cặp token chưa được chuyển đổi.
 {% endhint %}
 
-1. Visit the [Liquidity](https://pancakeswap.finance/liquidity) page.
-2. Click the “Add Liquidity” button.
-3. Using the top left Input, choose the two tokens in the trading pair you want to add liquidity. Here, we are going to use BNB and CAKE as an example.
-4. The interface will default to adding V3 liquidity with a few exceptions:
-   1. If the trading pair has an active PancakeSwap V2 Farm, it will default to adding V2 liquidity.
-   2. If the trading pair has an existing V2 liquidity pool, it will present a “Add V2 Liquidity” link. Simply click to switch to adding V2 liquidity.
-5. Confirm you are now adding V2 liquidity by looking for the “V2 LP - 0.25 fee tier” displays.
-6. Enter an amount on one of the tokens under “Deposit Amount”. The other should be calculated and filled automatically. If one of the tokens does not have enough balance. You will see an error and the button is greyed out. Please enter a lower amount to proceed or use the “MAX” button to fill in the maximum available value.
-7. Click the “Enable CAKE” button. If you are adding liquidity against tokens other than BNB, you might need to click enable twice for each token in your pair. Your wallet will ask you to confirm the action.
-8. The “Add” button will then light up. Click to proceed.
-9. Your wallet will ask you for confirmation. Confirm your transaction from your wallet.
-10. Soon after, you will see your LP Token balance on the liquidity page, among other liquidity positions from V3 and StableSwap.
+1. Truy cập trang [Liquidity](https://pancakeswap.finance/liquidity).
+2. Nhấp nút "Add Liquidity".
+3. Sử dụng Input phía trên bên trái, chọn hai token trong cặp giao dịch bạn muốn thêm thanh khoản. Ở đây, chúng tôi sẽ dùng BNB và CAKE làm ví dụ.
+4. Giao diện sẽ mặc định thêm thanh khoản V3 với một vài ngoại lệ:
+   1. Nếu cặp giao dịch có Farm PancakeSwap V2 đang hoạt động, nó sẽ mặc định thêm thanh khoản V2.
+   2. Nếu cặp giao dịch có pool thanh khoản V2 hiện có, nó sẽ trình bày đường dẫn "Add V2 Liquidity". Chỉ cần nhấp để chuyển sang thêm thanh khoản V2.
+5. Xác nhận bạn đang thêm thanh khoản V2 bằng cách tìm hiển thị "V2 LP - 0.25 fee tier".
+6. Nhập số lượng cho một trong các token trong "Deposit Amount". Token còn lại sẽ được tính toán và điền tự động. Nếu một trong các token không đủ số dư, bạn sẽ thấy lỗi và nút bị làm mờ. Vui lòng nhập số lượng thấp hơn để tiến hành hoặc sử dụng nút "MAX" để điền giá trị tối đa có sẵn.
+7. Nhấp nút "Enable CAKE". Nếu bạn đang thêm thanh khoản với token khác ngoài BNB, bạn có thể cần nhấp enable hai lần cho mỗi token trong cặp. Ví của bạn sẽ yêu cầu xác nhận hành động.
+8. Nút "Add" sẽ sáng lên. Nhấp để tiến hành.
+9. Ví của bạn sẽ yêu cầu xác nhận. Xác nhận giao dịch từ ví của bạn.
+10. Ngay sau đó, bạn sẽ thấy số dư LP Token trên trang liquidity, cùng với các vị thế thanh khoản khác từ V3 và StableSwap.
 
-### **Remove liquidity**
+### **Xóa thanh khoản**
 
-To remove liquidity.
+Để xóa thanh khoản.
 
-1\. Visit the [Liquidity page](https://exchange.pancakeswap.finance/#/pool)**.**
+1\. Truy cập [trang Liquidity](https://exchange.pancakeswap.finance/#/pool)**.**
 
-2\. Click on the pair you want to remove liquidity from under “Your Liquidity". You may use the filter to quickly check all the V2 liquidity positions.
+2\. Nhấp vào cặp bạn muốn xóa thanh khoản trong "Your Liquidity". Bạn có thể sử dụng bộ lọc để kiểm tra nhanh tất cả các vị thế thanh khoản V2.
 
-3\. Click “Remove”. A new modal will appear.
+3\. Nhấp "Remove". Một modal mới sẽ xuất hiện.
 
-4\. Use the buttons or slider to choose how much liquidity you want to remove. Choose “MAX” to remove all of your liquidity from this pair.
+4\. Sử dụng các nút hoặc thanh trượt để chọn bao nhiêu thanh khoản bạn muốn xóa. Chọn "MAX" để xóa toàn bộ thanh khoản từ cặp này.
 
-5\. Click “Enable”. Your wallet will ask you to sign the actio&#x6E;**.**
+5\. Nhấp "Enable". Ví của bạn sẽ yêu cầu ký hành động**.**
 
-6\. The “Remove” button will light up. Click to proceed.
+6\. Nút "Remove" sẽ sáng lên. Nhấp để tiến hành.
 
-7\. A window will appear showing how many tokens you will receive. Click “Confirm”. Your wallet will ask you to confirm the action.
+7\. Một cửa sổ sẽ xuất hiện cho thấy bạn sẽ nhận được bao nhiêu token. Nhấp "Confirm". Ví của bạn sẽ yêu cầu xác nhận hành động.
 
-8\. After the transaction is confirmed. You will receive two of the tokens from your pair. And if you haven't removed all of your liquidity, your remaining liquidity value will be updated on the liquidity page.<br>
+8\. Sau khi giao dịch được xác nhận. Bạn sẽ nhận được hai token từ cặp của mình. Và nếu bạn chưa xóa tất cả thanh khoản, giá trị thanh khoản còn lại sẽ được cập nhật trên trang liquidity.<br>
