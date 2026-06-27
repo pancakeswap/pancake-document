@@ -1,18 +1,18 @@
-# How to Set Slippage on PancakeSwap
+# Cách Đặt Trượt Giá trên PancakeSwap
 
-#### How to Set Slippage on PancakeSwap
+#### Cách Đặt Trượt Giá trên PancakeSwap
 
-PancakeSwap offers two options for setting slippage:
+PancakeSwap cung cấp hai tùy chọn để đặt trượt giá:
 
-* Auto Slippage: Automatically adjusts based on the token and market conditions.
-* Fixed Slippage: Allows you to set a specific slippage percentage for more control.
+* Auto Slippage: Tự động điều chỉnh dựa trên token và điều kiện thị trường.
+* Trượt giá Cố định: Cho phép bạn đặt phần trăm trượt giá cụ thể để kiểm soát tốt hơn.
 
 
 
-You may access these settings from:
+Bạn có thể truy cập các cài đặt này từ:
 
-1. Clicking the settings icon (Top right panel of Swap)
-2. Edit icon in the Swap details -> Slippage Tolerance
+1. Nhấp vào biểu tượng cài đặt (Bảng phía trên bên phải của Hoán đổi)
+2. Biểu tượng Chỉnh sửa trong chi tiết Hoán đổi -> Dung sai Trượt giá
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXew-6qib2x649vtCDOdxY0PXlE2SS-lDhfxHffTsG-_uvTQKgWkh20GOuiqThlJtaXmtHbFQoIdC3TSv6I1Fvh-vmnD15r85KUhiRo-CTG_bM5l3lOMejcfnfEPVHZRpEvdnkdYYg?key=TNLdJ0jw6EBh-FaH6ZdZ7i11" alt=""><figcaption></figcaption></figure>
 

@@ -1,173 +1,173 @@
-# Pancake Gifts: How-To Guide
+# Pancake Gifts: Hướng dẫn Sử dụng
 
-Pancake Gifts lets you send tokens — including optional gas — to friends, users, or community members using just a **link or QR code**. The process is quick, seamless, and beginner-friendly.
+Pancake Gifts cho phép bạn gửi token — bao gồm cả gas tùy chọn — đến bạn bè, người dùng hoặc thành viên cộng đồng chỉ bằng một **liên kết hoặc mã QR**. Quá trình này nhanh chóng, liền mạch và thân thiện với người mới bắt đầu.
 
-This guide walks you through:
+Hướng dẫn này sẽ giúp bạn thực hiện:
 
-* ✅ How to **create** a Pancake Gift
-* ✅ How to **send or share** it
-* ✅ How to **claim** a gift
-* ✅ How to **cancel** a gift (if unclaimed)
+* ✅ Cách **tạo** Pancake Gift
+* ✅ Cách **gửi hoặc chia sẻ** quà
+* ✅ Cách **nhận** quà
+* ✅ Cách **hủy** quà (nếu chưa được nhận)
 
 ***
 
-### 🧑‍🍳 Step 1: Create a Gift
+### 🧑‍🍳 Bước 1: Tạo Quà
 
-#### 1. Navigate to the Gift Creation Tab
+#### 1. Điều hướng đến Tab Tạo Quà
 
-Go to the **Gift tab** inside the PancakeSwap Wallet UI.
+Vào **tab Quà** trong giao diện Ví PancakeSwap.
 
-<figure><img src="../../.gitbook/assets/image (418).png" alt="" width="306"><figcaption></figcaption></figure>
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28418%29.png)
 
-#### 2. Select Tokens and Amounts
+#### 2. Chọn Token và Số lượng
 
-Choose up to **two tokens** to include in your gift:
+Chọn tối đa **hai token** để đưa vào quà của bạn:
 
-* **One BEP-20 token** (required) — e.g., CAKE
-* **One native gas token** (optional) — e.g., BNB
+* **Một token BEP-20** (bắt buộc) — ví dụ: CAKE
+* **Một token gas gốc** (tùy chọn) — ví dụ: BNB
 
-This setup lets you:
+Thiết lập này cho phép bạn:
 
-* Send usable tokens to the recipient
-*   Cover their gas so they can transact immediately
+* Gửi token có thể sử dụng cho người nhận
+*   Trả gas để họ có thể giao dịch ngay lập tức
 
-    <figure><img src="../../.gitbook/assets/image (419).png" alt="" width="311"><figcaption></figcaption></figure>
+    ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28419%29.png)
 
-#### 3. Choose Gift Type
+#### 3. Chọn Loại Quà
 
-Select one of the following:
+Chọn một trong các tùy chọn sau:
 
-* 🔗 **Link** — Easy to copy and share via chat or socials
-* 📱 **QR Code** — Perfect for in-person events or mobile users
+* 🔗 **Liên kết** — Dễ dàng sao chép và chia sẻ qua chat hoặc mạng xã hội
+* 📱 **Mã QR** — Hoàn hảo cho các sự kiện trực tiếp hoặc người dùng di động
 
-> 💡 Each gift can only be claimed once, and only supports one delivery format (link or QR).
+> 💡 Mỗi quà chỉ có thể được nhận một lần, và chỉ hỗ trợ một định dạng giao nhận (liên kết hoặc QR).
 
-<figure><img src="../../.gitbook/assets/image (420).png" alt="" width="316"><figcaption></figcaption></figure>
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28420%29.png)
 
-<figure><img src="../../.gitbook/assets/image (421).png" alt="" width="311"><figcaption></figcaption></figure>
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28421%29.png)
 
-#### 4. Review Summary & Pay
+#### 4. Xem lại Tóm tắt & Thanh toán
 
-Before confirming, review:
+Trước khi xác nhận, hãy xem lại:
 
-* **Gift Amount** — Total tokens included in the gift
-* **Gift Claim Gas Fee** — Native tokens sender included for recipient to enjoy gasless claiming (\~$0.05 in BNB)
+* **Số tiền Quà** — Tổng token được đưa vào quà
+* **Phí Gas Nhận Quà** — Token gốc người gửi bao gồm để người nhận nhận quà không tốn gas (\~$0.05 bằng BNB)
 
-Once confirmed:
+Sau khi xác nhận:
 
-* The gift is created and stored on-chain
-* You’ll receive a **link or QR code** — make sure to **save it before closing the popup**
+* Quà được tạo và lưu trữ trên chuỗi
+* Bạn sẽ nhận được **liên kết hoặc mã QR** — hãy chắc chắn **lưu lại trước khi đóng cửa sổ popup**
 
 {% hint style="danger" %}
-&#x20;If you close the popup without saving, the gift code cannot be retrieved later.
+ Nếu bạn đóng popup mà không lưu, mã quà sẽ không thể được truy xuất lại.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (422).png" alt="" width="273"><figcaption></figcaption></figure>
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28422%29.png)
 
 ***
 
-### 📤 Step 2: Send or Share the Gift
+### 📤 Bước 2: Gửi hoặc Chia sẻ Quà
 
-After creation, you'll receive either:
+Sau khi tạo, bạn sẽ nhận được:
 
-* A **shareable Link**, and / or
-* A **scannable QR Code**
+* Một **Liên kết có thể chia sẻ**, và / hoặc
+* Một **Mã QR có thể quét**
 
-You can share this via:
+Bạn có thể chia sẻ qua:
 
-* Chat apps (Telegram, WhatsApp)
+* Ứng dụng chat (Telegram, WhatsApp)
 * Email
-* Social media
-* Direct message at events
+* Mạng xã hội
+* Tin nhắn trực tiếp tại các sự kiện
 
-Shareable Link
+Liên kết Chia sẻ
 
-> Just sent you ${Gift\_Amount}! 🎉
+> Vừa gửi cho bạn ${Gift\_Amount}! 🎉
 >
-> Tap this link to claim it: 👉 [https://pancakeswap.finance/invite/{Gift\_Code}](https://pancakeswap.finance/invite/%7BGift_Code%7D)
+> Nhấn liên kết này để nhận: 👉 [https://pancakeswap.finance/invite/{Gift\_Code}](https://pancakeswap.finance/invite/%7BGift_Code%7D)
 >
-> Connect your wallet to complete the claim.
+> Kết nối ví của bạn để hoàn tất việc nhận.
 >
-> Or, enter the code `{Gift_Code}` manually in the PancakeSwap Wallet.
+> Hoặc, nhập mã `{Gift_Code}` thủ công trong Ví PancakeSwap.
 
-QR Code
+Mã QR
 
-<figure><img src="../../.gitbook/assets/image (423).png" alt="" width="320"><figcaption></figcaption></figure>
-
-***
-
-### 🎉 Step 3: Claim a Gift
-
-#### 1. After connecting wallet, tap the Link or Scan the QR Code
-
-When the recipient:
-
-* **Opens the link** or
-* **Scans the QR code**
-
-The app will autofill the gift code. If eligible and unclaimed, the gift claim UI will load.
-
-<figure><img src="../../.gitbook/assets/image (424).png" alt="" width="341"><figcaption></figcaption></figure>
-
-If not, an error message will show (e.g. expired or already claimed).
-
-<figure><img src="../../.gitbook/assets/image (425).png" alt="" width="375"><figcaption></figcaption></figure>
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28423%29.png)
 
 ***
 
-#### 2. Approve & Receive Tokens
+### 🎉 Bước 3: Nhận Quà
 
-The recipient can claim **without paying any gas** (it’s already covered).
+#### 1. Sau khi kết nối ví, nhấn Liên kết hoặc Quét Mã QR
 
-Once approved:
+Khi người nhận:
 
-* The BEP-20 tokens (and gas token, if included) are deposited into their wallet
-*   The gift is marked as **claimed**
+* **Mở liên kết** hoặc
+* **Quét mã QR**
 
-    <figure><img src="../../.gitbook/assets/image (426).png" alt="" width="375"><figcaption></figcaption></figure>
+Ứng dụng sẽ tự động điền mã quà. Nếu hợp lệ và chưa được nhận, giao diện nhận quà sẽ tải.
 
-    <figure><img src="../../.gitbook/assets/image (427).png" alt="" width="244"><figcaption></figcaption></figure>
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28424%29.png)
 
-    <figure><img src="../../.gitbook/assets/image (428).png" alt="" width="334"><figcaption></figcaption></figure>
+Nếu không, thông báo lỗi sẽ hiển thị (ví dụ: hết hạn hoặc đã được nhận).
 
-***
-
-### ❌ Step 4: Cancel a Gift (If Unclaimed)
-
-You can cancel a gift only if:
-
-* It’s still **unclaimed**
-* It’s still **within the expiry window** (default: 7 days)
-
-To cancel:
-
-1. Go to the **Gift History** tab
-
-<figure><img src="../../.gitbook/assets/image (429).png" alt="" width="308"><figcaption></figcaption></figure>
-
-2. Find the gift
-
-<figure><img src="../../.gitbook/assets/image (431).png" alt="" width="299"><figcaption></figcaption></figure>
-
-
-
-3. Click **Cancel**
-
-The tokens will be returned to your wallet (minus the gas sponsorship fee).
-
-> ⚠️ Cancelled gifts cannot be reactivated or reused.
-
-<figure><img src="../../.gitbook/assets/Group 1410078707.png" alt="" width="563"><figcaption></figcaption></figure>
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28425%29.png)
 
 ***
 
-### ✅ That’s It!
+#### 2. Chấp thuận & Nhận Token
 
-You now know how to:
+Người nhận có thể nhận **mà không cần trả gas** (đã được trang trải sẵn).
 
-1. Create a Pancake Gift
-2. Send it to someone via link or QR
-3. Claim a gift sent to you
-4. Cancel a gift if needed
+Sau khi chấp thuận:
 
-Want to view your full gift history or check statuses? Just return to the **Gift tab** in the PancakeSwap Wallet.
+* Các token BEP-20 (và token gas, nếu có) được nạp vào ví của họ
+*   Quà được đánh dấu là **đã nhận**
+
+    ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28426%29.png)
+
+    ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28427%29.png)
+
+    ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28428%29.png)
+
+***
+
+### ❌ Bước 4: Hủy Quà (Nếu Chưa được Nhận)
+
+Bạn chỉ có thể hủy quà nếu:
+
+* Quà vẫn còn **chưa được nhận**
+* Quà vẫn còn **trong thời hạn hết hạn** (mặc định: 7 ngày)
+
+Để hủy:
+
+1. Vào tab **Lịch sử Quà**
+
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28429%29.png)
+
+2. Tìm quà
+
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28431%29.png)
+
+
+
+3. Nhấp **Hủy**
+
+Các token sẽ được hoàn trả về ví của bạn (trừ phí tài trợ gas).
+
+> ⚠️ Quà đã hủy không thể được kích hoạt lại hoặc tái sử dụng.
+
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Group%201410078707.png)
+
+***
+
+### ✅ Vậy là xong!
+
+Bây giờ bạn đã biết cách:
+
+1. Tạo Pancake Gift
+2. Gửi cho ai đó qua liên kết hoặc QR
+3. Nhận quà được gửi cho bạn
+4. Hủy quà nếu cần thiết
+
+Muốn xem toàn bộ lịch sử quà hoặc kiểm tra trạng thái? Chỉ cần quay lại **tab Quà** trong Ví PancakeSwap.

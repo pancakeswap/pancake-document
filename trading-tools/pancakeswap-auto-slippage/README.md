@@ -1,85 +1,84 @@
 # 🎯 PancakeSwap Auto Slippage
 
-PancakeSwap has introduced Auto Slippage to make trading easier and more efficient. Auto Slippage automatically adjusts the slippage for you based on current market conditions, helping to prevent failed trades and reduce the risk of losing money due to slippage errors.
+PancakeSwap đã giới thiệu Auto Slippage để giúp việc giao dịch dễ dàng và hiệu quả hơn. Auto Slippage tự động điều chỉnh trượt giá cho bạn dựa trên điều kiện thị trường hiện tại, giúp ngăn chặn các giao dịch thất bại và giảm rủi ro mất tiền do lỗi trượt giá.
 
-## What is Slippage?
+## Trượt giá là gì?
 
-**Slippage** occurs when the price you expect for a trade is different from the price at which the trade is actually completed. This can happen for several reasons:
+**Trượt giá** xảy ra khi giá bạn kỳ vọng cho một giao dịch khác với giá mà giao dịch thực sự được hoàn thành. Điều này có thể xảy ra vì một số lý do:
 
-* Market volatility – Prices can move quickly between when you place and confirm
-* Low liquidity – there aren’t enough tokens available at your expected price
-* Blockchain delays – confirmation times can cause the price to change before the trade is completed finalized
-
-{% hint style="info" %}
-Example:
-
-You try to swap 100 CAKE for BNB, expecting 1 CAKE = 0.01 BNB. But by the time your trade goes through, the price has changed and you only get 0.0098 BNB per CAKE. This small difference is what we call slippage.
-{% endhint %}
-
-## What is Slippage Tolerance?
-
-**Slippage tolerance** is the maximum price difference you’re willing to accept before your trade is canceled. If the price moves beyond your set tolerance, your transaction will fail to prevent any unexpected losses.
+* Biến động thị trường – Giá có thể thay đổi nhanh chóng giữa thời điểm bạn đặt lệnh và xác nhận
+* Thanh khoản thấp – Không có đủ token ở mức giá bạn kỳ vọng
+* Độ trễ blockchain – Thời gian xác nhận có thể khiến giá thay đổi trước khi giao dịch được hoàn tất
 
 {% hint style="info" %}
-Example:
+Ví dụ:
 
-If you set a 1% slippage tolerance and the price changes by more than 1% before the trade is completed, the trade won’t go through.
+Bạn cố gắng hoán đổi 100 CAKE lấy BNB, kỳ vọng 1 CAKE = 0.01 BNB. Nhưng đến khi giao dịch của bạn được thực hiện, giá đã thay đổi và bạn chỉ nhận được 0.0098 BNB cho mỗi CAKE. Sự chênh lệch nhỏ này chính là trượt giá.
 {% endhint %}
 
-## What happens if my Slippage Tolernace is too low?
+## Dung sai Trượt giá là gì?
 
-If your slippage tolerance is **set too low**, there’s a higher chance your transaction will fail — especially when:
+**Dung sai trượt giá** là mức chênh lệch giá tối đa bạn sẵn sàng chấp nhận trước khi giao dịch của bạn bị hủy. Nếu giá biến động vượt quá mức dung sai đã đặt, giao dịch của bạn sẽ thất bại để ngăn chặn các tổn thất không mong muốn.
 
-* The market is volatile
-* You’re swapping tokens with low liquidity
-* Using tokens with taxes or complex mechanics
+{% hint style="info" %}
+Ví dụ:
+
+Nếu bạn đặt dung sai trượt giá là 1% và giá thay đổi hơn 1% trước khi giao dịch hoàn tất, giao dịch sẽ không được thực hiện.
+{% endhint %}
+
+## Điều gì xảy ra nếu Dung sai Trượt giá của tôi quá thấp?
+
+Nếu dung sai trượt giá **đặt quá thấp**, có nhiều khả năng giao dịch của bạn sẽ thất bại — đặc biệt khi:
+
+* Thị trường biến động mạnh
+* Bạn đang hoán đổi token có thanh khoản thấp
+* Sử dụng token có thuế hoặc cơ chế phức tạp
 
 {% hint style="warning" %}
-Important: Even if the transaction fails, you’ll still consume gas fees for trying.
+Quan trọng: Ngay cả khi giao dịch thất bại, bạn vẫn sẽ tiêu tốn phí gas cho lần thử đó.
 {% endhint %}
 
-## Introducing Auto Slippage - Why is Auto Slippage helpful?
+## Giới thiệu Auto Slippage - Tại sao Auto Slippage hữu ích?
 
-Auto Slippage automatically adjusts your slippage based on current market conditions, saving you time and reducing the risk of failed trades.&#x20;
+Auto Slippage tự động điều chỉnh trượt giá của bạn dựa trên điều kiện thị trường hiện tại, giúp bạn tiết kiệm thời gian và giảm nguy cơ giao dịch thất bại.&#x20;
 
-With **Auto Slippage**, there's no need to manually adjust your slippage tolerance. This helps prevent common issues such as:
+Với **Auto Slippage**, không cần phải điều chỉnh dung sai trượt giá thủ công. Điều này giúp ngăn chặn các vấn đề phổ biến như:
 
-* **Setting slippage too low**, which can cause transactions to fail due to minor price changes during execution.
-* **Setting slippage too high**, which may result in receiving fewer tokens than expected due to accepting a wider price range.
+* **Đặt trượt giá quá thấp**, có thể khiến giao dịch thất bại do thay đổi giá nhỏ trong quá trình thực thi.
+* **Đặt trượt giá quá cao**, có thể dẫn đến việc nhận được ít token hơn dự kiến do chấp nhận phạm vi giá rộng hơn.
 
 {% hint style="info" %}
-To ensure the best trading experience, auto slippage has been **toggled on automatically**. If a manual slippage tolerance has been set, the new slippage setting will be applied.
+Để đảm bảo trải nghiệm giao dịch tốt nhất, auto slippage đã được **bật tự động**. Nếu đã đặt dung sai trượt giá thủ công, cài đặt trượt giá mới sẽ được áp dụng.
 {% endhint %}
 
 
 
-## How does Auto Slippage work?
+## Auto Slippage hoạt động như thế nào?
 
-<pre class="language-html"><code class="lang-html"><strong>Auto Slippage (%) = (Gas Cost in USD / Output Token Value in USD) * 100%
+<pre class="language-html"><code class="lang-html"><strong>Auto Slippage (%) = (Chi phí Gas tính bằng USD / Giá trị Token Đầu ra tính bằng USD) * 100%
 </strong></code></pre>
 
-* If the gas cost is high compared to the output token’s value, Auto Slippage will set a higher slippage to ensure the trade goes through.
-* If gas is cheap and the output token's value is large, a smaller slippage will be used.
+* Nếu chi phí gas cao so với giá trị token đầu ra, Auto Slippage sẽ đặt mức trượt giá cao hơn để đảm bảo giao dịch được thực hiện.
+* Nếu gas rẻ và giá trị token đầu ra lớn, mức trượt giá nhỏ hơn sẽ được sử dụng.
 
-Auto Slippage will choose a value between **0.5%** and **5.0%**, depending on token and network conditions.
+Auto Slippage sẽ chọn giá trị trong khoảng từ **0.5%** đến **5.0%**, tùy thuộc vào điều kiện token và mạng lưới.
 
 
 
-## Is Auto Slippage available on all networks?
+## Auto Slippage có khả dụng trên tất cả các mạng không?
 
-No — Auto Slippage is only supported on Layer 1 (L1) chains like BNB Chain, Ethereum, etc.
+Không — Auto Slippage chỉ được hỗ trợ trên các chuỗi Layer 1 (L1) như BNB Chain, Ethereum, v.v.
 
-It is not supported on Layer 2 (L2) chains, because:
+Nó không được hỗ trợ trên các chuỗi Layer 2 (L2), vì:
 
-* The auto slippage formula relies on meaningful gas cost values to calculate a useful slippage setting
-* Since L2 gas fees are very low, applying auto slippage on L2s wouldn’t improve trade success rates
+* Công thức auto slippage dựa trên các giá trị chi phí gas có ý nghĩa để tính toán cài đặt trượt giá hữu ích
+* Vì phí gas L2 rất thấp, việc áp dụng auto slippage trên L2 sẽ không cải thiện tỷ lệ thành công của giao dịch
 
 {% hint style="success" %}
-&#x20;If Auto Slippage is **not supported** on a network:
+ Nếu Auto Slippage **không được hỗ trợ** trên một mạng:
 
-* Your previously used slippage setting will be applied
-* If you haven't set one before, it will default to 0.5%
+* Cài đặt trượt giá đã sử dụng trước đó của bạn sẽ được áp dụng
+* Nếu bạn chưa đặt trước đó, giá trị mặc định sẽ là 0.5%
 {% endhint %}
-
 
 

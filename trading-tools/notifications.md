@@ -1,54 +1,54 @@
 ---
-description: Receive your DeFi updates all in one place!
+description: Nhận tất cả cập nhật DeFi của bạn ở một nơi!
 ---
 
-# 🔔 Notifications
+# 🔔 Thông báo
 
 <figure><img src="https://lh7-us.googleusercontent.com/KuhB0fchwKb7jvN7cVj4BiO9ohoIwAS__z8-dU1JjRXHUZ_diEpe8fRnMhU4DqIN4u9-Io8RZZGhsDVhIC4AB5ohNablWz_wLYbL9R2C5YR263veplzKXA4R9mvifggqRWr7afdfK1MwaoIMPYKz6Ck" alt=""><figcaption></figcaption></figure>
 
-### What are Web3 Notifications?
+### Thông báo Web3 là gì?
 
-Web3 Notifications represent a leap forward in interacting with platforms for the latest news and updates. Integrated seamlessly into PancakeSwap, these notifications bring a host of benefits. Partnering with WalletConnect, we've launched the Notifications (BETA) for our users to access their DeFi news, updates and important actions all in one window. Please note that Web3 Notifications is still in BETA and will undergo further changes and developments in the coming months.
+Thông báo Web3 đại diện cho một bước tiến lớn trong việc tương tác với các nền tảng để cập nhật tin tức và thông tin mới nhất. Được tích hợp liền mạch vào PancakeSwap, các thông báo này mang lại nhiều lợi ích. Hợp tác với WalletConnect, chúng tôi đã ra mắt Thông báo (BETA) để người dùng truy cập tin tức DeFi, cập nhật và các hành động quan trọng trong một cửa sổ duy nhất. Xin lưu ý rằng Thông báo Web3 vẫn đang trong giai đoạn BETA và sẽ tiếp tục được cải thiện và phát triển trong những tháng tới.
 
-**Web3 Notifications Benefits:**
+**Lợi ích của Thông báo Web3:**
 
-* Stay Updated with Real-Time Alerts: Never miss out on key PancakeSwap events, market trends, product updates, or community news.
-* Prioritize What Matters to You: Selecting topics, products, and categories based on their relevance to you. Tailor your notifications with a variety of filters.
-* Direct and Actionable Links: Respond quickly to crucial updates directly from your notifications, as each notification comes with a direct link.
+* Luôn cập nhật với cảnh báo theo thời gian thực: Không bỏ lỡ các sự kiện PancakeSwap quan trọng, xu hướng thị trường, cập nhật sản phẩm hay tin tức cộng đồng.
+* Ưu tiên những gì quan trọng với bạn: Chọn chủ đề, sản phẩm và danh mục dựa trên mức độ liên quan đến bạn. Tùy chỉnh thông báo của bạn với nhiều bộ lọc đa dạng.
+* Liên kết trực tiếp và có thể thực hiện ngay: Phản hồi nhanh chóng với các cập nhật quan trọng trực tiếp từ thông báo của bạn, vì mỗi thông báo đều đi kèm với liên kết trực tiếp.
 
-### How to set up Notifications:
+### Cách thiết lập Thông báo:
 
-1. Activate with Ease: Visit our[ homepage](https://pancakeswap.finance/). Click the settings icon at the top left of the PancakeSwap menu and select "Allow Notifications".
+1. Kích hoạt dễ dàng: Truy cập [trang chủ](https://pancakeswap.finance/) của chúng tôi. Nhấp vào biểu tượng cài đặt ở góc trên bên trái của menu PancakeSwap và chọn "Cho phép Thông báo".
 
-<figure><img src="../.gitbook/assets/web-git-feat-web3-notifications-soft-launch.pancake.run__chain=bsc (1).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/web-git-feat-web3-notifications-soft-launch.pancake.run__chain%3Dbsc%20%281%29.png" alt="" width="362"><figcaption></figcaption></figure>
 
-2. Connect Wallet: Click the Bell icon on the top right and sign a message in your wallet to authorize notifications.
+2. Kết nối Ví: Nhấp vào biểu tượng Chuông ở góc trên bên phải và ký một thông điệp trong ví của bạn để xác thực thông báo.
 
-<figure><img src="../.gitbook/assets/web-git-feat-web3-notifications-soft-launch.pancake.run__chain=bsc (6).png" alt="" width="433"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/web-git-feat-web3-notifications-soft-launch.pancake.run__chain%3Dbsc%20%286%29.png" alt="" width="433"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/web-git-feat-web3-notifications-soft-launch.pancake.run__chain=bsc (4).png" alt="" width="293"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/web-git-feat-web3-notifications-soft-launch.pancake.run__chain%3Dbsc%20%284%29.png" alt="" width="293"><figcaption></figcaption></figure>
 
-3. Customize Your Feed: Tailor your notification settings by selecting the drop-down on the left to match your interests and needs.
+3. Tùy chỉnh Nguồn tin của bạn: Điều chỉnh cài đặt thông báo bằng cách chọn menu thả xuống ở bên trái để phù hợp với sở thích và nhu cầu của bạn.
 
-<figure><img src="../.gitbook/assets/web-git-feat-web3-notifications-soft-launch.pancake.run__chain=bsc (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/web-git-feat-web3-notifications-soft-launch.pancake.run__chain%3Dbsc%20%285%29.png" alt=""><figcaption></figcaption></figure>
 
-4. Stay Informed: Access all your notifications conveniently from the dropdown menu by clicking the bell icon.
+4. Luôn cập nhật thông tin: Truy cập tất cả thông báo của bạn một cách tiện lợi từ menu thả xuống bằng cách nhấp vào biểu tượng chuông.
 
-### Notification Features
+### Các tính năng Thông báo
 
-The current list of notifications are supported across all EVM chains and includes:
+Danh sách thông báo hiện tại được hỗ trợ trên tất cả các chuỗi EVM và bao gồm:
 
-| Notification       | Function                                                     |
-| ------------------ | ------------------------------------------------------------ |
-| Liquidity Position | Updates users to move liquidity position if its out of range |
-| Farm               | Updates users on farm APRs, or if there's a new farm         |
-| Wallet Balance     | Updates users if they have low gas balance                   |
-| Lottery            | Updates users on Lottery draw                                |
-| Prediction         | Updates users to claim prediction reward                     |
-| Price Alerts       | Updates users on major price changes                         |
+| Thông báo             | Chức năng                                                              |
+| --------------------- | ---------------------------------------------------------------------- |
+| Vị trí Thanh khoản    | Cập nhật người dùng di chuyển vị trí thanh khoản nếu ngoài phạm vi   |
+| Farm                  | Cập nhật người dùng về APR của farm, hoặc nếu có farm mới             |
+| Số dư Ví              | Cập nhật người dùng nếu số dư gas thấp                                |
+| Xổ số                 | Cập nhật người dùng về đợt quay Xổ số                                 |
+| Dự đoán               | Cập nhật người dùng để nhận phần thưởng dự đoán                       |
+| Cảnh báo Giá          | Cập nhật người dùng về những thay đổi giá lớn                         |
 
-### What's Next?
+### Tiếp theo là gì?
 
-* Enhanced Filtering: Fine-tuning notifications so that users receive the right information on time
-* Multi-Platform: Support on Mobile and other platforms, potential cross-protocol functionality, making PancakeSwap the hub for your DeFi Activities
-* More Notifications: Notifications for our other products and governance-related information such as new proposals.
+* Lọc nâng cao: Tinh chỉnh thông báo để người dùng nhận được thông tin đúng thời điểm
+* Đa nền tảng: Hỗ trợ trên Mobile và các nền tảng khác, khả năng tương tác đa giao thức, biến PancakeSwap thành trung tâm cho các Hoạt động DeFi của bạn
+* Thêm Thông báo: Thông báo cho các sản phẩm khác và thông tin liên quan đến quản trị như các đề xuất mới.

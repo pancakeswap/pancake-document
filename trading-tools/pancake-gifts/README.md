@@ -1,95 +1,95 @@
 # 🎁 Pancake Gifts
 
-### 🎯 What is Pancake Gifts?
+### 🎯 Pancake Gifts là gì?
 
-**Pancake Gifts** lets anyone send tokens — including optional gas — to friends, users, or communities using just a **link** or **QR code**. It’s a simple, secure, and gasless experience for the recipient.
+**Pancake Gifts** cho phép bất kỳ ai gửi token — bao gồm cả gas tùy chọn — đến bạn bè, người dùng hoặc cộng đồng chỉ bằng một **liên kết** hoặc **mã QR**. Đây là trải nghiệm đơn giản, an toàn và không tốn gas cho người nhận.
 
-It’s built to make onboarding into crypto as easy as sending a message — no wallet funding, no bridging, no upfront fees.
+Được xây dựng để giúp việc bắt đầu sử dụng tiền điện tử dễ dàng như gửi một tin nhắn — không cần nạp tiền vào ví, không cần kết nối chuỗi, không cần phí trước.
 
-### 🤝 Why We Built Pancake Gifts
+### 🤝 Lý do chúng tôi xây dựng Pancake Gifts
 
-Onboarding to Web3 is still full of friction. New users often give up before they even get started due to:
+Việc bắt đầu sử dụng Web3 vẫn còn nhiều rào cản. Người dùng mới thường bỏ cuộc trước khi họ kịp bắt đầu vì:
 
-* **No gas in wallet** → Can’t perform any onchain action
-* **No funds on the correct chain** → Bridging is required before using dApps
-* **Need to buy crypto just to get started** → Requires CEX signup or fiat on-ramp
+* **Không có gas trong ví** → Không thể thực hiện bất kỳ hành động onchain nào
+* **Không có tiền trên chuỗi đúng** → Cần kết nối chuỗi trước khi sử dụng dApp
+* **Phải mua tiền điện tử chỉ để bắt đầu** → Cần đăng ký CEX hoặc nạp tiền pháp định
 
-Pancake Gifts eliminates these blockers by:
+Pancake Gifts loại bỏ những rào cản này bằng cách:
 
-* ✅ **Including native gas tokens** in the gift so recipients can interact instantly
-* ✅ **Sponsoring the gas fee upfront** (sender pays a small fee)
-* ✅ **Enabling claim via a simple link or QR** — no complex onboarding
+* ✅ **Bao gồm token gas gốc** trong quà tặng để người nhận có thể tương tác ngay lập tức
+* ✅ **Tài trợ phí gas trước** (người gửi trả một khoản phí nhỏ)
+* ✅ **Cho phép nhận qua liên kết hoặc QR đơn giản** — không cần quy trình phức tạp
 
 
 
-It’s a tool for both:
+Đây là công cụ dành cho cả:
 
-* New users getting started onchain
-* Web3-native communities looking to **boost adoption, reward users, or run campaigns** in a friendlier way
-
-***
-
-### ⚙️ Feature Summary
-
-| Feature                | Description                                                      |
-| ---------------------- | ---------------------------------------------------------------- |
-| **Chain Support**      | BNB Chain (initial launch)                                       |
-| **Gift Code Types**    | Link **or** QR Code                                              |
-| **One-time Use**       | Each code can only be claimed once                               |
-| **Token Support**      | Max 2 tokens: 1 BEP-20 (required), 1 native gas token (optional) |
-| **Custom Amounts**     | Set different values per token                                   |
-| **Gift Claim Gas Fee** | Sender prepays gas (\~$0.05 in BNB)                              |
-| **Gift History**       | Users can view all sent gifts, claim status, expiry              |
-| **Security Checks**    | Fee-on-transfer and complex logic tokens are disallowed          |
-
-### 🚫 Limitations
-
-1. **One gift per code** — Mass gifting is not yet supported.
-2. **Gifts cannot be reinstated** — Once cancelled or expired, they cannot be reused.
-3. **Unsupported tokens are blocked** — Tokens with transfer fees or special logic will show an error on creation.
-4. **Unsuccessful claims are retried** — Backend retries a few times. If still failed, the gift is marked **unclaimable** and must be cancelled manually to retrieve funds.
-5. **Gift must be claimed on the same chain** — e.g. ETH gift must be claimed on Ethereum. Cross-chain claiming is not supported yet.
+* Người dùng mới bắt đầu onchain
+* Cộng đồng Web3 muốn **thúc đẩy việc áp dụng, thưởng cho người dùng hoặc chạy các chiến dịch** theo cách thân thiện hơn
 
 ***
 
-### 🕒 Cancel & Expiry Logic
+### ⚙️ Tóm tắt Tính năng
 
-Gifts follow a defined lifecycle based on status and time:
+| Tính năng                    | Mô tả                                                                     |
+| ---------------------------- | ------------------------------------------------------------------------- |
+| **Hỗ trợ Chuỗi**             | BNB Chain (ra mắt ban đầu)                                                |
+| **Loại Mã Quà**              | Liên kết **hoặc** Mã QR                                                   |
+| **Sử dụng một lần**          | Mỗi mã chỉ có thể được nhận một lần                                       |
+| **Hỗ trợ Token**             | Tối đa 2 token: 1 BEP-20 (bắt buộc), 1 token gas gốc (tùy chọn)         |
+| **Số lượng Tùy chỉnh**       | Đặt giá trị khác nhau cho mỗi token                                       |
+| **Phí Gas Nhận Quà**         | Người gửi trả trước gas (\~$0.05 bằng BNB)                               |
+| **Lịch sử Quà**              | Người dùng có thể xem tất cả quà đã gửi, trạng thái nhận, thời hạn       |
+| **Kiểm tra Bảo mật**         | Các token có phí chuyển nhượng và logic phức tạp đều bị chặn              |
 
-#### Manual Cancel
+### 🚫 Hạn chế
 
-* The **creator** can cancel any gift that is still **unclaimed** and **within the expiry window**.
-* Tokens (minus the initial Gift Claim Gas Fee) will be returned to the sender.
-* Cancelled gifts **cannot** be reactivated or reused.
-
-#### Auto Expiry
-
-* Gifts **automatically expire** after a user-defined period (default: 7 days).
-* Unclaimed tokens will be **auto-returned** to the sender’s wallet.
-* Expired gifts are also non-reusable.
-
-***
-
-### 🔄 Gift Statuses & What They Mean
-
-| Status          | Description                                                              |
-| --------------- | ------------------------------------------------------------------------ |
-| **Pending**     | Gift has been created and is awaiting claim                              |
-| **Claimed**     | Gift was successfully claimed by a recipient                             |
-| **Cancelled**   | Gift was manually cancelled by the sender                                |
-| **Expired**     | Gift passed the expiry time without being claimed                        |
-| **Unclaimable** | Number of retries exceeded; gift needs to be cancelled to retrieve funds |
+1. **Một quà cho một mã** — Gửi quà hàng loạt chưa được hỗ trợ.
+2. **Quà không thể khôi phục** — Một khi đã hủy hoặc hết hạn, chúng không thể tái sử dụng.
+3. **Token không được hỗ trợ bị chặn** — Token có phí chuyển nhượng hoặc logic đặc biệt sẽ hiển thị lỗi khi tạo.
+4. **Các lần nhận không thành công sẽ được thử lại** — Hệ thống sẽ thử lại vài lần. Nếu vẫn thất bại, quà sẽ được đánh dấu là **không thể nhận** và phải hủy thủ công để lấy lại tiền.
+5. **Quà phải được nhận trên cùng chuỗi** — ví dụ: quà ETH phải được nhận trên Ethereum. Nhận quà xuyên chuỗi chưa được hỗ trợ.
 
 ***
 
-### ⚠️ Error Handling & Edge Cases
+### 🕒 Logic Hủy & Hết hạn
 
-1. **Unsupported Token**
-   * Gift creation is blocked for tokens with transfer fees or special logic.
-2. **Gas Mismatch**
-   * If **actual claim gas cost ≥** the sender’s prepaid fee, the claim fails automatically to prevent overuse. This will be retried once gas fee levels are within range.
-3. **Failed Claim Attempts**
-   * Retries will be attempted upon first unsuccessful claim.
-   * If still unsuccessful:
-     * Recipient sees “Unclaimable”
-     * Sender must manually cancel the gift to retrieve funds and receipient will have to request or a new gift code.
+Quà tuân theo vòng đời được xác định dựa trên trạng thái và thời gian:
+
+#### Hủy Thủ công
+
+* **Người tạo** có thể hủy bất kỳ quà nào vẫn còn **chưa được nhận** và **trong thời hạn hết hạn**.
+* Token (trừ Phí Gas Nhận Quà ban đầu) sẽ được hoàn trả cho người gửi.
+* Quà đã hủy **không thể** được kích hoạt lại hoặc tái sử dụng.
+
+#### Tự động Hết hạn
+
+* Quà **tự động hết hạn** sau khoảng thời gian do người dùng xác định (mặc định: 7 ngày).
+* Token chưa được nhận sẽ được **tự động hoàn trả** về ví của người gửi.
+* Quà hết hạn cũng không thể tái sử dụng.
+
+***
+
+### 🔄 Trạng thái Quà & Ý nghĩa
+
+| Trạng thái        | Mô tả                                                                         |
+| ----------------- | ----------------------------------------------------------------------------- |
+| **Đang chờ**      | Quà đã được tạo và đang chờ được nhận                                         |
+| **Đã nhận**       | Quà đã được người nhận nhận thành công                                        |
+| **Đã hủy**        | Quà đã bị người gửi hủy thủ công                                              |
+| **Hết hạn**       | Quà đã qua thời gian hết hạn mà không được nhận                               |
+| **Không thể nhận**| Số lần thử lại vượt quá giới hạn; quà cần được hủy để lấy lại tiền           |
+
+***
+
+### ⚠️ Xử lý Lỗi & Các Trường hợp Biên
+
+1. **Token Không được Hỗ trợ**
+   * Việc tạo quà bị chặn đối với các token có phí chuyển nhượng hoặc logic đặc biệt.
+2. **Không khớp Gas**
+   * Nếu **chi phí gas thực tế khi nhận ≥** phí người gửi đã trả trước, việc nhận sẽ tự động thất bại để ngăn chặn lạm dụng. Hệ thống sẽ thử lại khi mức phí gas nằm trong phạm vi cho phép.
+3. **Các Lần Nhận Thất bại**
+   * Sẽ thử lại khi lần nhận đầu tiên không thành công.
+   * Nếu vẫn không thành công:
+     * Người nhận thấy trạng thái "Không thể nhận"
+     * Người gửi phải hủy quà thủ công để lấy lại tiền và người nhận sẽ phải yêu cầu mã quà mới.

@@ -1,3 +1,3 @@
-# ❓ Trading Tools FAQ
+# ❓ FAQ Công cụ Giao dịch
 
-(To be populated)
+(Sẽ được cập nhật)

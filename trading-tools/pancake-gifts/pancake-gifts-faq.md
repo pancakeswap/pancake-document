@@ -1,90 +1,89 @@
 # Pancake Gifts FAQ
 
-This FAQ covers how Pancake Gifts work behind the scenes, what to expect in different scenarios, and why certain design choices were made.
+FAQ này đề cập đến cách Pancake Gifts hoạt động ở phía sau, những gì cần mong đợi trong các tình huống khác nhau, và lý do tại sao một số quyết định thiết kế được đưa ra.
 
 ***
 
-## 1. 🔐 Gift Code Behavior & Access
+## 1. 🔐 Hành vi Mã Quà & Quyền truy cập
 
-### **1.1 Why isn’t the gift code stored?**
+### **1.1 Tại sao mã quà không được lưu trữ?**
 
-We **intentionally do not store** the gift code in:
+Chúng tôi **có chủ ý không lưu trữ** mã quà trong:
 
-* Frontend local storage
-* Backend databases
+* Bộ nhớ cục bộ của giao diện người dùng
+* Cơ sở dữ liệu backend
 
-This protects:
+Điều này bảo vệ:
 
-* User privacy
-* Security against device compromise
-* Accidental or malicious gift claims
+* Quyền riêng tư của người dùng
+* Bảo mật trước nguy cơ thiết bị bị xâm phạm
+* Nhận quà ngoài ý muốn hoặc độc hại
 
-### **1.2 Can I regenerate or retrieve the gift code later?**
+### **1.2 Tôi có thể tạo lại hoặc truy xuất mã quà sau đó không?**
 
-No. The gift code:
+Không. Mã quà:
 
-* Is shown **only once** during creation
-* Is embedded in the **link** or **QR code** generated
-* Will **not be displayed again** in the UI or history
+* Chỉ được hiển thị **một lần** khi tạo
+* Được nhúng trong **liên kết** hoặc **mã QR** được tạo ra
+* Sẽ **không được hiển thị lại** trong giao diện hoặc lịch sử
 
 {% hint style="warning" %}
-If the code is lost and you didn’t save the link or QR, the gift cannot be claimed manually. Instead, to retrieve your gift amount, you may manually cancel it.
+Nếu mã bị mất và bạn chưa lưu liên kết hoặc mã QR, quà không thể được nhận thủ công. Thay vào đó, để lấy lại số tiền trong quà, bạn có thể hủy thủ công.
 {% endhint %}
 
-### **1.3 Will the gift code still be embedded in the share link or QR?**
+### **1.3 Mã quà có còn được nhúng trong liên kết chia sẻ hoặc mã QR không?**
 
-Yes:
+Có:
 
-* Share link includes the gift code (e.g. `pancakeswap.finance/gift#code=xxxx`)
-* QR code also embeds the gift code, but **cannot be regenerated later.**&#x20;
+* Liên kết chia sẻ bao gồm mã quà (ví dụ: `pancakeswap.finance/gift#code=xxxx`)
+* Mã QR cũng nhúng mã quà, nhưng **không thể tạo lại sau đó.**&#x20;
 
 {% hint style="success" %}
-**Pro Tip:**  Download the image once its generated
+**Mẹo Hay:** Tải xuống hình ảnh ngay khi được tạo
 {% endhint %}
 
-* Manual claims require the actual gift code — no fallback if the link/QR is lost
+* Nhận quà thủ công yêu cầu mã quà thực tế — không có phương án dự phòng nếu mất liên kết/QR
 
-## 2. 🎁 Gift Status & Expiry
+## 2. 🎁 Trạng thái Quà & Hết hạn
 
-### **2.1 Can I view whether a gift has been claimed, cancelled, or expired?**
+### **2.1 Tôi có thể xem quà đã được nhận, hủy hay hết hạn không?**
 
-Yes. The **Gift History** section shows:
+Có. Phần **Lịch sử Quà** hiển thị:
 
-* Status: Pending / Claimed / Cancelled / Expired / Unclaimable
-* Gift details (token, amount, type, chain, timestamps)
+* Trạng thái: Đang chờ / Đã nhận / Đã hủy / Hết hạn / Không thể nhận
+* Chi tiết quà (token, số lượng, loại, chuỗi, dấu thời gian)
 
-### **2.2 What happens when a gift expires?**
+### **2.2 Điều gì xảy ra khi một quà hết hạn?**
 
-If a gift is not claimed within the default **7-day window**:
+Nếu quà không được nhận trong **thời hạn 7 ngày** mặc định:
 
-* The **entire gift amount is refunded** to the creator’s wallet
-* The fixed **claim gas fee (\~$0.05) is not returned**
+* **Toàn bộ số tiền quà được hoàn trả** về ví của người tạo
+* **Phí gas nhận cố định (\~$0.05) không được hoàn trả**
 
-## 3. 🧠 Claim Logic & Limitations
+## 3. 🧠 Logic Nhận & Hạn chế
 
-### **3.1 Can users claim a gift on a different chain from the one it was created on?**
+### **3.1 Người dùng có thể nhận quà trên chuỗi khác với chuỗi đã tạo không?**
 
-No. A gift is **chain-bound**:
+Không. Quà **bị ràng buộc với chuỗi**:
 
-* A gift created on **BSC** must be claimed on **BSC**
-* Cross-chain gifting is not currently supported
+* Quà được tạo trên **BSC** phải được nhận trên **BSC**
+* Tặng quà xuyên chuỗi hiện không được hỗ trợ
 
-## 4. ⛽ Gas Fees & Design
+## 4. ⛽ Phí Gas & Thiết kế
 
-### **4.1 How is the fixed gas amount for gift creation decided?**
+### **4.1 Số tiền gas cố định cho việc tạo quà được xác định như thế nào?**
 
-We set a flat gas price based on current BNB chain conditions (\~5 times current recommended Gas amount).
+Chúng tôi đặt giá gas cố định dựa trên điều kiện chuỗi BNB hiện tại (\~5 lần số lượng Gas được đề xuất hiện tại).
 
-This buffer:
+Khoản dự phòng này:
 
-* Protects against sudden gas spikes
-* Ensures gifts remain claimable under normal volatility
+* Bảo vệ trước sự tăng đột ngột của gas
+* Đảm bảo quà vẫn có thể nhận được trong điều kiện biến động bình thường
 
 \
-Example
+Ví dụ
 
-* **Current recommended: 0.1 Gwei** (see: [BNB Gas Tracker](https://bscscan.com/gastracker))
-* **Therefore, Fixed gas claim fee= 0.1 Gwei x 5 = 0.5 Gwei**
-
+* **Đề xuất hiện tại: 0.1 Gwei** (xem: [BNB Gas Tracker](https://bscscan.com/gastracker))
+* **Do đó, Phí gas nhận cố định = 0.1 Gwei x 5 = 0.5 Gwei**
 
 

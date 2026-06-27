@@ -1,88 +1,88 @@
-# Social login: How-To Guide
+# Social Login: Hướng dẫn Sử dụng
 
-Get started with DeFi in seconds — no wallet extensions or seed phrases needed. Follow the steps below to create your social login wallet, set a recovery password, and recover your wallet on a new device.
+Bắt đầu với DeFi trong vài giây — không cần tiện ích mở rộng ví hoặc cụm từ khôi phục. Làm theo các bước dưới đây để tạo ví social login, đặt mật khẩu khôi phục và khôi phục ví trên thiết bị mới.
 
-### 1. Creating Your Social Login Wallet
+### 1. Tạo Ví Social Login của bạn
 
-1. Go to pancakeswap.finance
-2.  Click **Connect Wallet** → Select **Connect with Social Login**
+1. Truy cập pancakeswap.finance
+2.  Nhấp **Kết nối Ví** → Chọn **Kết nối với Social Login**
 
-    <figure><img src="../../.gitbook/assets/image (440).png" alt="" width="375"><figcaption></figcaption></figure>
-3.  Choose your preferred social login method:
+    ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28440%29.png)
+3.  Chọn phương thức social login ưa thích của bạn:
 
     * **Google**
     * **X (Twitter)**
     * **Telegram**
     * **Discord**
 
-    > 💡 Each social account creates one unique wallet for use on PancakeSwap.
+    > 💡 Mỗi tài khoản mạng xã hội tạo một ví duy nhất để sử dụng trên PancakeSwap.
 
-<figure><img src="../../.gitbook/assets/image (441).png" alt="" width="298"><figcaption></figcaption></figure>
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28441%29.png)
 
-4.  Log in with your selected social account credentials
+4.  Đăng nhập bằng thông tin xác thực tài khoản mạng xã hội đã chọn
 
-    <figure><img src="../../.gitbook/assets/image (443).png" alt="" width="375"><figcaption></figcaption></figure>
-5.  Once login is successful, your wallet will be created and ready to use
+    ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28443%29.png)
+5.  Sau khi đăng nhập thành công, ví của bạn sẽ được tạo và sẵn sàng sử dụng
 
-    <figure><img src="../../.gitbook/assets/image (444).png" alt=""><figcaption></figcaption></figure>
+    ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28444%29.png)
 
 ***
 
-### 2. Setting a Recovery Password
+### 2. Đặt Mật khẩu Khôi phục
 
-After your first login, you'll be prompted to set a **recovery password**. This step is optional but highly recommended for full wallet control.
+Sau lần đăng nhập đầu tiên, bạn sẽ được nhắc đặt **mật khẩu khôi phục**. Bước này là tùy chọn nhưng rất được khuyến nghị để kiểm soát ví đầy đủ.
 
-1.  Click **Set Recovery Password** when prompted
+1.  Nhấp **Đặt Mật khẩu Khôi phục** khi được nhắc
 
-    > 🔒 If left unset, the recovery share will be stored by Privy by default
+    > 🔒 Nếu không đặt, phần chia sẻ khôi phục sẽ được lưu trữ bởi Privy theo mặc định
     >
-    > 🔑 [Learn more about recovery shares](https://docs.privy.io/security/wallet-infrastructure/advanced/user-device#securing-the-recovery-share)
+    > 🔑 [Tìm hiểu thêm về phần chia sẻ khôi phục](https://docs.privy.io/security/wallet-infrastructure/advanced/user-device#securing-the-recovery-share)
 
 {% hint style="success" %}
-If you dismiss this prompt, it will reappear again after 1 week, as part of PancakeSwap’s commitment to wallet security.
+Nếu bạn bỏ qua lời nhắc này, nó sẽ xuất hiện lại sau 1 tuần, như một phần trong cam kết bảo mật ví của PancakeSwap.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (445).png" alt="" width="263"><figcaption></figcaption></figure>
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28445%29.png)
 
-2. Choose a **memorable password** — you'll need it for logging in on a new device or when your session expires
+2. Chọn một **mật khẩu dễ nhớ** — bạn sẽ cần nó để đăng nhập trên thiết bị mới hoặc khi phiên hết hạn
 
-> ⚠️ If forgotten, wallet access may be permanently lost
+> ⚠️ Nếu quên, quyền truy cập ví có thể bị mất vĩnh viễn
 
-<figure><img src="../../.gitbook/assets/image (446).png" alt="" width="280"><figcaption></figcaption></figure>
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28446%29.png)
 
-3. Save your password securely by **copying or downloading** it
+3. Lưu mật khẩu của bạn an toàn bằng cách **sao chép hoặc tải xuống**
 
-<figure><img src="../../.gitbook/assets/image (447).png" alt="" width="274"><figcaption></figcaption></figure>
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28447%29.png)
 
-4. Re-enter your password to confirm
+4. Nhập lại mật khẩu để xác nhận
 
-> ❗ An error will appear if your passwords don’t match
+> ❗ Lỗi sẽ xuất hiện nếu mật khẩu không khớp
 
-<figure><img src="../../.gitbook/assets/image (448).png" alt="" width="269"><figcaption></figcaption></figure>
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28448%29.png)
 
-<figure><img src="../../.gitbook/assets/image (449).png" alt="" width="266"><figcaption></figcaption></figure>
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28449%29.png)
 
-5. Review the **disclaimer** and confirm you understand the recovery password risk
+5. Xem lại **tuyên bố từ chối trách nhiệm** và xác nhận bạn hiểu rủi ro mật khẩu khôi phục
 
-<figure><img src="../../.gitbook/assets/image (450).png" alt="" width="279"><figcaption></figcaption></figure>
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28450%29.png)
 
-6. 🎉 Success! Your recovery password is now set
+6. 🎉 Thành công! Mật khẩu khôi phục của bạn đã được đặt
 
-> Reminder: You’ll be asked to enter it again when your session ends or you switch devices
+> Nhắc nhở: Bạn sẽ được yêu cầu nhập lại khi phiên kết thúc hoặc bạn chuyển thiết bị
 
-<figure><img src="../../.gitbook/assets/image (451).png" alt="" width="275"><figcaption></figcaption></figure>
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28451%29.png)
 
 >
 
 ***
 
-### 3. Recovering Your Wallet (New Device Login)
+### 3. Khôi phục Ví (Đăng nhập trên Thiết bị Mới)
 
-If you access PancakeSwap on a new device, follow these steps to recover your wallet:
+Nếu bạn truy cập PancakeSwap trên thiết bị mới, hãy làm theo các bước sau để khôi phục ví:
 
-1. Log in with your **social account** on the new device
-2. When you attempt your first transaction or on-chain action, you’ll be prompted to **enter your recovery password**
+1. Đăng nhập bằng **tài khoản mạng xã hội** của bạn trên thiết bị mới
+2. Khi bạn thực hiện giao dịch hoặc hành động onchain đầu tiên, bạn sẽ được nhắc **nhập mật khẩu khôi phục**
 
-<figure><img src="../../.gitbook/assets/image (452).png" alt="" width="297"><figcaption></figcaption></figure>
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28452%29.png)
 
-3. Once confirmed, you can continue transacting as usual — no further setup required!
+3. Sau khi xác nhận, bạn có thể tiếp tục giao dịch như bình thường — không cần thiết lập thêm gì!

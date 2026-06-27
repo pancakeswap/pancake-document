@@ -1,18 +1,18 @@
 # Social Login FAQ
 
 {% hint style="info" %}
-For more information view: [https://docs.privy.io/security/wallet-infrastructure/architecture#wallet-transaction](https://docs.privy.io/security/wallet-infrastructure/architecture#wallet-transaction)
+Để biết thêm thông tin, xem: [https://docs.privy.io/security/wallet-infrastructure/architecture#wallet-transaction](https://docs.privy.io/security/wallet-infrastructure/architecture#wallet-transaction)
 {% endhint %}
 
-### 🔍 General Overview
+### 🔍 Tổng quan Chung
 
-**1. What is PancakeSwap’s social login and why should I use it?**
+**1. Social login của PancakeSwap là gì và tại sao tôi nên sử dụng nó?**
 
-Social login lets you access PancakeSwap using your **Google**, **X (Twitter)**, **Discord**, or **Telegram** account — no wallet extension or seed phrase needed. A self-custodial wallet is created behind the scenes, so you can try DeFi instantly, even with small amounts. This lowers the barrier to entry, especially in time-sensitive moments.
+Social login cho phép bạn truy cập PancakeSwap bằng tài khoản **Google**, **X (Twitter)**, **Discord** hoặc **Telegram** — không cần tiện ích mở rộng ví hoặc cụm từ khôi phục. Một ví tự quản lý được tạo ở phía sau, để bạn có thể thử DeFi ngay lập tức, ngay cả với số tiền nhỏ. Điều này giảm rào cản gia nhập, đặc biệt trong những thời điểm nhạy cảm về thời gian.
 
-**2. What chains does social login support?**
+**2. Social login hỗ trợ những chuỗi nào?**
 
-Your social login wallet works across all chains currently supported by PancakeSwap:
+Ví social login của bạn hoạt động trên tất cả các chuỗi hiện được PancakeSwap hỗ trợ:
 
 * **BNB Chain**
 * **Ethereum**
@@ -21,88 +21,88 @@ Your social login wallet works across all chains currently supported by PancakeS
 * **Linea**
 * **opBNB**
 
-All wallets are **EVM-compatible** and can be used across these networks natively through PancakeSwap. If you’d like to see support for other chains (including non-EVM), let us know!
+Tất cả các ví đều **tương thích EVM** và có thể được sử dụng trên các mạng này natively thông qua PancakeSwap. Nếu bạn muốn hỗ trợ thêm các chuỗi khác (bao gồm cả non-EVM), hãy cho chúng tôi biết!
 
-**3. Where can I use the social login wallet?**
+**3. Tôi có thể sử dụng ví social login ở đâu?**
 
-You can use it directly in any desktop or mobile **browser** through the PancakeSwap web app. It is **not compatible** with external wallet apps or dApp browsers.
+Bạn có thể sử dụng trực tiếp trong bất kỳ **trình duyệt** máy tính để bàn hoặc di động nào thông qua ứng dụng web PancakeSwap. Nó **không tương thích** với các ứng dụng ví bên ngoài hoặc trình duyệt dApp.
 
 
 
-### 🛠️ Wallet Setup & Usage
+### 🛠️ Thiết lập & Sử dụng Ví
 
-**4. How is the wallet created and secured?**
+**4. Ví được tạo và bảo mật như thế nào?**
 
-Your wallet is created automatically upon login and secured using a **2-of-2 key share system**. Both shares are required to reconstruct the key and generate a signature.
+Ví của bạn được tạo tự động khi đăng nhập và được bảo mật bằng **hệ thống chia sẻ khóa 2-trong-2**. Cả hai phần đều cần thiết để tái tạo khóa và tạo chữ ký.
 
-For more information on share encryption view:
+Để biết thêm thông tin về mã hóa phần chia sẻ, xem:
 
 * [https://docs.privy.io/security/wallet-infrastructure/architecture](https://docs.privy.io/security/wallet-infrastructure/architecture)
 * [https://privy.io/blog/how-privy-embedded-wallets-work](https://privy.io/blog/how-privy-embedded-wallets-work)
 
-**5. How many wallets can I create?**
+**5. Tôi có thể tạo bao nhiêu ví?**
 
-You get **one wallet per social account per dApp**. For example, if you use your Google login on another app that also uses Privy, it will create a separate wallet.
+Bạn nhận được **một ví cho mỗi tài khoản mạng xã hội cho mỗi dApp**. Ví dụ, nếu bạn sử dụng đăng nhập Google trên một ứng dụng khác cũng sử dụng Privy, nó sẽ tạo một ví riêng biệt.
 
 
 
-### 🔐 Security & Privacy
+### 🔐 Bảo mật & Quyền riêng tư
 
-**6. Can someone access my wallet if they steal my device?**
+**6. Ai đó có thể truy cập ví của tôi nếu họ lấy cắp thiết bị của tôi không?**
 
-No. Even if someone gains access to your device, they would still need both your **social login** and (if set) your **recovery password**.
+Không. Ngay cả khi ai đó có quyền truy cập vào thiết bị của bạn, họ vẫn cần cả **social login** của bạn và (nếu đã đặt) **mật khẩu khôi phục** của bạn.
 
-**7. What data is stored by PancakeSwap or Privy?**
+**7. PancakeSwap hoặc Privy lưu trữ dữ liệu gì?**
 
-* PancakeSwap **does not store** any wallet-related key shares.
-* Privy stores the **encrypted Auth Share and Recovery Share (if recovery flow is not set)**.
+* PancakeSwap **không lưu trữ** bất kỳ phần chia sẻ khóa nào liên quan đến ví.
+* Privy lưu trữ **Auth Share được mã hóa và Recovery Share (nếu luồng khôi phục chưa được thiết lập)**.
 
-> If you haven’t completed the recovery setup, your Recovery Share remains stored with Privy by default. For more info visit: [https://docs.privy.io/security/wallet-infrastructure/advanced/user-device#securing-the-recovery-share](https://docs.privy.io/security/wallet-infrastructure/advanced/user-device#securing-the-recovery-share)
+> Nếu bạn chưa hoàn thành thiết lập khôi phục, Recovery Share của bạn vẫn được lưu trữ với Privy theo mặc định. Để biết thêm thông tin, hãy truy cập: [https://docs.privy.io/security/wallet-infrastructure/advanced/user-device#securing-the-recovery-share](https://docs.privy.io/security/wallet-infrastructure/advanced/user-device#securing-the-recovery-share)
 >
 >
 
-### 🔄 Recovery & Session Management
+### 🔄 Khôi phục & Quản lý Phiên
 
-**8. Can I use the same wallet on a different device or browser?**
+**8. Tôi có thể sử dụng cùng một ví trên thiết bị hoặc trình duyệt khác không?**
 
-Yes! Simply log in with the same social account. If it's a new device, you'll go through the recovery process using your recovery password (if set up).
+Có! Chỉ cần đăng nhập bằng cùng tài khoản mạng xã hội. Nếu là thiết bị mới, bạn sẽ trải qua quy trình khôi phục bằng mật khẩu khôi phục (nếu đã thiết lập).
 
-**9. What happens if I switch devices?**
+**9. Điều gì xảy ra nếu tôi chuyển đổi thiết bị?**
 
-You’ll be asked to re-login with your social account and go through the recovery flow (password setup). If you haven’t set up a recovery password, social account login is sufficient.
+Bạn sẽ được yêu cầu đăng nhập lại bằng tài khoản mạng xã hội và trải qua luồng khôi phục (thiết lập mật khẩu). Nếu bạn chưa thiết lập mật khẩu khôi phục, đăng nhập bằng tài khoản mạng xã hội là đủ.
 
-**10. What if I lose access to both my social login and recovery method?**
+**10. Điều gì nếu tôi mất quyền truy cập vào cả social login và phương thức khôi phục?**
 
-If you lose access to both your social account and your recovery method, **your wallet cannot be recovered**. There’s no seed phrase fallback, and private key export is not currently supported.
+Nếu bạn mất quyền truy cập vào cả tài khoản mạng xã hội và phương thức khôi phục của mình, **ví của bạn không thể khôi phục**. Không có cụm từ khôi phục dự phòng, và việc xuất khóa riêng tư hiện không được hỗ trợ.
 
-> ⚠️ Remember: Exporting your private key, if enabled in the future, would grant full control of your wallet to anyone who has it — treat it with extreme caution.
+> ⚠️ Hãy nhớ: Việc xuất khóa riêng tư, nếu được kích hoạt trong tương lai, sẽ trao toàn quyền kiểm soát ví của bạn cho bất kỳ ai có nó — hãy xử lý nó với sự thận trọng tuyệt đối.
 
-**11. How long do active sessions last?**
+**11. Các phiên hoạt động kéo dài bao lâu?**
 
-Sessions last for 30 **days**. After that, you’ll be prompted to **log in again** and (if needed) re-enter your recovery credentials. During an active session, you can transact without needing to manually approve each action.
-
-
-
-### ⚙️ Compatibility & Limitations
-
-**12. Can I export or import wallets?**
-
-* **Export**: Not supported by default, for security reasons. This may change in future updates.
-* **Import**: Not supported. You cannot import external wallets like MetaMask or Phantom.
-
-**13. Can I connect this wallet to other dApps using WalletConnect?**
-
-Not at this time. The embedded wallet is **limited to PancakeSwap only**. If you're interested in using it more broadly, let us know — future expansions are possible.
+Các phiên kéo dài 30 **ngày**. Sau đó, bạn sẽ được nhắc **đăng nhập lại** và (nếu cần) nhập lại thông tin xác thực khôi phục của bạn. Trong phiên hoạt động, bạn có thể giao dịch mà không cần phê duyệt thủ công từng hành động.
 
 
 
-### 🚀 Advanced Features
+### ⚙️ Khả năng tương thích & Hạn chế
 
-**14. Does the social login wallet support Account Abstraction?**
+**12. Tôi có thể xuất hoặc nhập ví không?**
 
-Yes. It supports **Account Abstraction features** such as transaction batching and **gas sponsorship** through integrations like Biconomy etc.
+* **Xuất**: Không được hỗ trợ theo mặc định, vì lý do bảo mật. Điều này có thể thay đổi trong các bản cập nhật tương lai.
+* **Nhập**: Không được hỗ trợ. Bạn không thể nhập ví bên ngoài như MetaMask hay Phantom.
 
-**15. How are signless transactions enabled?**
+**13. Tôi có thể kết nối ví này với các dApp khác bằng WalletConnect không?**
 
-* After login, your session is active for up to 30 **days**. During this time, PancakeSwap can request Privy to sign transactions on your behalf using your session credentials.&#x20;
-* You won’t see a wallet popup for each action — everything is handled in the background. After 30 days, you’ll need to re-login to continue using this signless experience.
+Hiện tại chưa. Ví nhúng **chỉ giới hạn sử dụng trên PancakeSwap**. Nếu bạn quan tâm đến việc sử dụng rộng rãi hơn, hãy cho chúng tôi biết — các mở rộng trong tương lai là có thể.
+
+
+
+### 🚀 Tính năng Nâng cao
+
+**14. Ví social login có hỗ trợ Account Abstraction không?**
+
+Có. Nó hỗ trợ **các tính năng Account Abstraction** như gộp giao dịch và **tài trợ gas** thông qua các tích hợp như Biconomy v.v.
+
+**15. Các giao dịch không cần ký được kích hoạt như thế nào?**
+
+* Sau khi đăng nhập, phiên của bạn hoạt động trong tối đa 30 **ngày**. Trong thời gian này, PancakeSwap có thể yêu cầu Privy ký giao dịch thay mặt bạn bằng thông tin xác thực phiên của bạn.&#x20;
+* Bạn sẽ không thấy popup ví cho mỗi hành động — mọi thứ được xử lý ở nền. Sau 30 ngày, bạn cần đăng nhập lại để tiếp tục sử dụng trải nghiệm không cần ký này.
