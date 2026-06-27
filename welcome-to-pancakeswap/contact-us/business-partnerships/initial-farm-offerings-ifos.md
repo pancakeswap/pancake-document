@@ -2,7 +2,7 @@
 
 Để biết thêm thông tin về các đợt phát hành token launchpad của chúng tôi ("[Initial Farm Offering, hay IFO"](https://pancakeswap.finance/ifo)), vui lòng xem PDF này
 
-{% file src="../../../.gitbook/assets/PancakeSwap IFO One-Pager.pdf" %}
+{% file src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/PancakeSwap%20IFO%20One-Pager.pdf" %}
 
 #### Ví Dụ Về Quy Trình IFO
 

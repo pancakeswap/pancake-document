@@ -61,7 +61,7 @@ Hãy vui vẻ tạo ra một thương hiệu độc đáo rõ ràng là của b�
 
 Sau khi đọc hết tất cả nội dung trên, hãy tải xuống logo PancakeSwap và CAKE bên dưới.
 
-{% file src="../../.gitbook/assets/PancakeSwap Logos.zip" %}
+{% file src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/PancakeSwap%20Logos.zip" %}
 Tải xuống logo chính thức của PancakeSwap và CAKE.
 {% endfile %}
 

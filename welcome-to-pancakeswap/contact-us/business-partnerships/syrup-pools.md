@@ -2,7 +2,7 @@
 
 Để biết thêm thông tin về các chương trình phân phối token của chúng tôi ("[Syrup Pool](https://pancakeswap.finance/pools)"), vui lòng xem PDF này:
 
-{% file src="../../../.gitbook/assets/PancakeSwap Syrup Pool One-Pager.pdf" %}
+{% file src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/PancakeSwap%20Syrup%20Pool%20One-Pager.pdf" %}
 
 #### Ví Dụ Về Quy Trình Syrup Pool
 
