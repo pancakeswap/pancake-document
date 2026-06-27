@@ -1,55 +1,55 @@
 ---
-description: Bridge between EVMs like Ethereum and BNB Chain
+description: Kết nối chuỗi giữa các EVM như Ethereum và BNB Chain
 ---
 
-# How to Bridge – Between EVMs
+# Cách Kết Nối Chuỗi – Giữa Các EVM
 
 {% hint style="success" %}
-**EVMs:** EVM chains are blockchains that use the Ethereum Virtual Machine to run Ethereum-compatible smart contracts and dApps. Examples include Ethereum, BNB Smart Chain, etc.
+**EVM:** Các chuỗi EVM là các blockchain sử dụng Ethereum Virtual Machine để chạy các hợp đồng thông minh và dApp tương thích với Ethereum. Ví dụ bao gồm Ethereum, BNB Smart Chain, v.v.
 {% endhint %}
 
-1. Navigate to [https://pancakeswap.finance/bridge](https://pancakeswap.finance/bridge)
-2. Ensure your wallet is connected
+1. Truy cập [https://pancakeswap.finance/bridge](https://pancakeswap.finance/bridge)
+2. Đảm bảo ví của bạn đã được kết nối
 
-<figure><img src="../../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29%20%283%29.png" alt=""><figcaption></figcaption></figure>
 
-3. Select your **source** and **destination** chains via the network selectors
+3. Chọn chuỗi **nguồn** và chuỗi **đích** qua các bộ chọn mạng
 
-<figure><img src="../../.gitbook/assets/image (2) (3).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%282%29%20%283%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-4. Input the amount you wish to send and select the token from the dropdown
+4. Nhập số lượng bạn muốn gửi và chọn token từ danh sách thả xuống
 
-* **Tip:** Always double-check the token contract address before sending!
+* **Mẹo:** Luôn kiểm tra kỹ địa chỉ hợp đồng token trước khi gửi!
 
-<figure><img src="../../.gitbook/assets/image (3) (3).png" alt="" width="374"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%283%29%20%283%29.png" alt="" width="374"><figcaption></figcaption></figure>
 
-5. Select the **received token** – In some cases where token symbols are identical (e.g., USDC / USDT), variants will appear for you to choose from
+5. Chọn **token nhận được** – Trong một số trường hợp khi ký hiệu token giống hệt nhau (ví dụ: USDC / USDT), các biến thể sẽ xuất hiện để bạn lựa chọn
 
-* **Tip:** Hover over the token or click on the link to verify the token name and address
+* **Mẹo:** Di chuột qua token hoặc nhấp vào liên kết để xác minh tên và địa chỉ token
 
-<figure><img src="../../.gitbook/assets/image (4) (2).png" alt="" width="375"><figcaption><p>USDC</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%284%29%20%282%29.png" alt="" width="375"><figcaption><p>USDC</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (5) (2).png" alt="" width="375"><figcaption><p>USDC (Wormhole)</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%285%29%20%282%29.png" alt="" width="375"><figcaption><p>USDC (Wormhole)</p></figcaption></figure>
 
-6. Review the “You Receive” section to confirm all details are correct
+6. Xem lại phần "Bạn Nhận Được" để xác nhận tất cả thông tin đều chính xác
 
-* PancakeSwap selects from multiple bridge providers based on your source and destination chains.
-* Providers differ in fees, processing times, and possible restrictions—these will be clearly shown.
+* PancakeSwap chọn từ nhiều nhà cung cấp cầu nối dựa trên chuỗi nguồn và chuỗi đích của bạn.
+* Các nhà cung cấp khác nhau về phí, thời gian xử lý và các hạn chế có thể có—những điều này sẽ được hiển thị rõ ràng.
 
-<figure><img src="../../.gitbook/assets/image (385).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28385%29.png" alt=""><figcaption></figcaption></figure>
 
-* Tags help you compare routes:
-  * **Best Return** = highest received amount
-  * **Fastest** = quickest transfer time
+* Các nhãn giúp bạn so sánh các tuyến đường:
+  * **Best Return** = số lượng nhận được cao nhất
+  * **Fastest** = thời gian chuyển nhanh nhất
 
-Use these tags to balance speed and value according to your needs.
+Sử dụng các nhãn này để cân bằng tốc độ và giá trị theo nhu cầu của bạn.
 
 {% hint style="warning" %}
-On your **first transaction** with a bridge provider, you’ll be prompted to approve the token transfer (this is a one-time action)
+Trong **giao dịch đầu tiên** với một nhà cung cấp cầu nối, bạn sẽ được nhắc phê duyệt việc chuyển token (đây là thao tác một lần)
 
-* For your **second transaction**, simply click “Send” and your bridge transfer will begin
+* Đối với **giao dịch thứ hai**, chỉ cần nhấp vào "Send" và giao dịch kết nối chuỗi của bạn sẽ bắt đầu
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%286%29%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
-7. Sit back and relax! Most bridge transfers complete in just a few minutes. Once completed, your tokens will appear in your Ethereum address.
+7. Hãy ngồi lại và thư giãn! Hầu hết các giao dịch chuyển cầu nối hoàn thành chỉ trong vài phút. Sau khi hoàn tất, token của bạn sẽ xuất hiện trong địa chỉ Ethereum của bạn.

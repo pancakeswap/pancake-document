@@ -1,62 +1,62 @@
-# ❓ Bridging FAQ
+# ❓ FAQ Kết Nối Chuỗi
 
-<figure><img src="../../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28144%29.png" alt=""><figcaption></figcaption></figure>
 
-## Before Bridging
+## Trước Khi Kết Nối Chuỗi
 
-1.  **Can I use mobile wallets or wallets other than MetaMask to bridge CAKE?**
+1.  **Tôi có thể sử dụng ví di động hoặc ví khác ngoài MetaMask để kết nối chuỗi CAKE không?**
 
-    Currently, PancakeSwap CAKE Bridging supports Coinbase Wallet, MetaMask, and MetaMask-compatible wallets. More wallet support is coming soon.
+    Hiện tại, PancakeSwap CAKE Bridging hỗ trợ Coinbase Wallet, MetaMask và các ví tương thích với MetaMask. Hỗ trợ thêm nhiều ví hơn sẽ sớm ra mắt.
 
-    _Tip:_ To avoid risky copy-pasting of private keys or seed phrases, we recommend creating new wallets via desktop wallet extensions for bridging.
-2.  **Why is a route or token unavailable?**
+    _Mẹo:_ Để tránh việc sao chép khóa riêng tư hoặc cụm từ khôi phục có rủi ro, chúng tôi khuyến nghị tạo ví mới qua các tiện ích mở rộng ví trên máy tính để bàn để kết nối chuỗi.
+2.  **Tại sao một tuyến đường hoặc token không khả dụng?**
 
-    Some routes depend on bridge capacity, token support, or liquidity. Please check back later or try a different provider. Available tokens per chain are shown directly in the Bridge UI.
-3.  **I get an error submitting the bridging transaction.**
+    Một số tuyến đường phụ thuộc vào dung lượng cầu nối, hỗ trợ token hoặc thanh khoản. Hãy kiểm tra lại sau hoặc thử nhà cung cấp khác. Các token có sẵn theo từng chuỗi được hiển thị trực tiếp trong giao diện Cầu nối.
+3.  **Tôi gặp lỗi khi gửi giao dịch kết nối chuỗi.**
 
-    Try entering the amount manually instead of using the “MAX” button, and remove decimals from the amount if necessary.
-4.  **Why does my bridging quote show “Insufficient X to cover native fee”**
+    Hãy thử nhập số lượng thủ công thay vì sử dụng nút "MAX", và loại bỏ các chữ số thập phân khỏi số lượng nếu cần thiết.
+4.  **Tại sao báo giá kết nối chuỗi của tôi hiển thị "Insufficient X to cover native fee"**
 
-    ![](<../../.gitbook/assets/image (9) (3).png>)
+    ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%289%29%20%283%29.png)
 
-    Bridging requires gas fees paid in the native token of the source chain, for example:
+    Kết nối chuỗi yêu cầu phí gas được thanh toán bằng token gốc của chuỗi nguồn, ví dụ:
 
     * BNB Chain → BNB
     * Ethereum → ETH
     * Aptos → APT
 
-    Ensure you have enough native tokens in your source wallet to cover fees to complete the transaction.
-5.  **Why does the button show “X CAKE Exceeded”?**
+    Đảm bảo bạn có đủ token gốc trong ví nguồn để trang trải phí hoàn thành giao dịch.
+5.  **Tại sao nút hiển thị "X CAKE Exceeded"?**
 
-    There is a daily capacity limit for bridging CAKE between BSC and Aptos to ensure safety. Try a smaller amount or wait and try again later. Limits are dynamically adjusted by Chefs based on demand.
-6.  **Why can’t I find a specific token?**
+    Có giới hạn dung lượng hàng ngày để kết nối chuỗi CAKE giữa BSC và Aptos nhằm đảm bảo an toàn. Hãy thử số lượng nhỏ hơn hoặc chờ và thử lại sau. Giới hạn được điều chỉnh động bởi các Chefs dựa trên nhu cầu.
+6.  **Tại sao tôi không thể tìm thấy một token cụ thể?**
 
-    The token may not be supported on your chosen route or may lack liquidity. Try another chain or a different amount.
-7.  **Can I bridge from BNB Chain to Ethereum but to a different address?**
+    Token đó có thể không được hỗ trợ trên tuyến đường bạn đã chọn hoặc thiếu thanh khoản. Hãy thử chuỗi khác hoặc số lượng khác.
+7.  **Tôi có thể kết nối chuỗi từ BNB Chain sang Ethereum nhưng sang một địa chỉ khác không?**
 
-    No, for safety reasons, bridging only works between the same address on EVM chains.
-8.  **Why can’t I bridge less than 0.00000001 CAKE?**
+    Không, vì lý do an toàn, kết nối chuỗi chỉ hoạt động giữa cùng một địa chỉ trên các chuỗi EVM.
+8.  **Tại sao tôi không thể kết nối chuỗi ít hơn 0.00000001 CAKE?**
 
-    Aptos tokens, including CAKE on Aptos, have a max of 8 decimal places. Transactions below 0.00000001 will be rejected or rounded down. This applies to Ethereum bridging as well. Any leftover amount remains in your source wallet.
+    Các token Aptos, bao gồm CAKE trên Aptos, có tối đa 8 chữ số thập phân. Các giao dịch dưới 0.00000001 sẽ bị từ chối hoặc làm tròn xuống. Điều này cũng áp dụng cho việc kết nối chuỗi Ethereum. Bất kỳ số dư còn lại nào sẽ ở trong ví nguồn của bạn.
 
 ***
 
-## After Bridging
+## Sau Khi Kết Nối Chuỗi
 
-1.  **Can I cancel a bridge transfer after confirming?**
+1.  **Tôi có thể hủy giao dịch kết nối chuỗi sau khi xác nhận không?**
 
-    No, once started, the bridge transaction is handled by the provider and can’t be canceled. To reverse, bridge the assets back via a new transaction.
-2.  **What if my transaction is stuck “pending”?**
+    Không, một khi đã bắt đầu, giao dịch cầu nối được xử lý bởi nhà cung cấp và không thể hủy. Để đảo ngược, hãy kết nối chuỗi tài sản trở lại qua một giao dịch mới.
+2.  **Nếu giao dịch của tôi bị kẹt ở trạng thái "pending" thì sao?**
 
-    Bridging can take up to 30 minutes. Check your transaction status by searching its hash on the respective bridge provider’s explorer:
+    Kết nối chuỗi có thể mất đến 30 phút. Kiểm tra trạng thái giao dịch của bạn bằng cách tìm kiếm hash giao dịch trên trình duyệt khối của nhà cung cấp cầu nối tương ứng:
 
     * Debridge: [https://app.debridge.finance/orders](https://app.debridge.finance/orders)
     * LayerZero Scan: [https://layerzeroscan.com/](https://layerzeroscan.com/)
     * Stargate Explorer: [https://stargate.finance/](https://stargate.finance/)
     * cBridge: [https://celerscan.com/](https://celerscan.com/)
 
-    If pending after 60 minutes, please contact our admins via [social channels](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/social-accounts).
-3. **I haven’t received my CAKE. What should I do?**
-   * When bridging CAKE to Aptos for the first time, you may need to **manually claim** your CAKE. Ensure your Aptos wallet has enough APT for gas. See [Aptos bridging guide](https://docs.pancakeswap.finance/bridge/bridging/aptos) and [Aptos explanation](https://theaptosbridge.com/faq#registering-claiming-assets).
-   * When bridging to BNB Chain or Ethereum, some wallets require you to manually add CAKE’s token address to view your balance. As an example, follow this [MetaMask guide](https://support.metamask.io/manage-crypto/tokens/how-to-display-tokens-in-metamask/) - other wallets should have similar flows.
-   * If you still don’t see your CAKE after 60 minutes, contact our admins via [social channels](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/social-accounts).
+    Nếu vẫn pending sau 60 phút, vui lòng liên hệ với các quản trị viên của chúng tôi qua [các kênh mạng xã hội](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/social-accounts).
+3. **Tôi chưa nhận được CAKE của mình. Tôi nên làm gì?**
+   * Khi kết nối chuỗi CAKE sang Aptos lần đầu tiên, bạn có thể cần **nhận thủ công** CAKE của mình. Đảm bảo ví Aptos của bạn có đủ APT để trả gas. Xem [hướng dẫn kết nối chuỗi Aptos](https://docs.pancakeswap.finance/bridge/bridging/aptos) và [giải thích của Aptos](https://theaptosbridge.com/faq#registering-claiming-assets).
+   * Khi kết nối chuỗi sang BNB Chain hoặc Ethereum, một số ví yêu cầu bạn thêm thủ công địa chỉ token CAKE để xem số dư của mình. Ví dụ, làm theo [hướng dẫn MetaMask](https://support.metamask.io/manage-crypto/tokens/how-to-display-tokens-in-metamask/) này - các ví khác nên có quy trình tương tự.
+   * Nếu bạn vẫn không thấy CAKE sau 60 phút, hãy liên hệ với các quản trị viên của chúng tôi qua [các kênh mạng xã hội](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/social-accounts).

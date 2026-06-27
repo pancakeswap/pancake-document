@@ -1,106 +1,106 @@
 ---
-description: Bridge CAKE between EVM chains and Aptos
+description: Kết nối chuỗi CAKE giữa các chuỗi EVM và Aptos
 ---
 
-# How to Bridge - EVM <> Aptos
+# Cách Kết Nối Chuỗi - EVM <> Aptos
 
-<figure><img src="../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28113%29.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-The following guide uses BNB Chain as an example of an EVM chain. The same process can be applied to Ethereum.
+Hướng dẫn sau đây sử dụng BNB Chain làm ví dụ về chuỗi EVM. Quy trình tương tự có thể áp dụng cho Ethereum.
 {% endhint %}
 
-## Bridge CAKE from BNB Smart Chain to Aptos
+## Kết Nối Chuỗi CAKE từ BNB Smart Chain sang Aptos
 
-1 - Make sure your wallet supports both BNB Smart Chain and Aptos Mainnet. Or you have both of the wallets installed in your browser.
+1 - Đảm bảo ví của bạn hỗ trợ cả BNB Smart Chain và Aptos Mainnet. Hoặc bạn đã cài đặt cả hai ví trong trình duyệt của mình.
 
-Then open the [PancakeSwap CAKE Bridge](https://bridge.pancakeswap.finance/)
+Sau đó mở [PancakeSwap CAKE Bridge](https://bridge.pancakeswap.finance/)
 
-2 - First, we need to connect our BNB Smart Chain wallet.
+2 - Đầu tiên, chúng ta cần kết nối ví BNB Smart Chain của mình.
 
-Click "Connect" and choose the wallet you prefer under the "EVM" section. Then confirm and approve in your wallet popup.
+Nhấp vào "Connect" và chọn ví bạn muốn trong phần "EVM". Sau đó xác nhận và phê duyệt trong cửa sổ bật lên của ví.
 
-![](../../.gitbook/assets/bridging-wallet-connect-modal.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-wallet-connect-modal.png)
 
-3 - Then, we need to connect our Aptos wallet.
+3 - Sau đó, chúng ta cần kết nối ví Aptos của mình.
 
-In the wallet connect modal, choose the wallet you prefer under the "Aptos" section. Then confirm and approve in your wallet popup.
+Trong modal kết nối ví, chọn ví bạn muốn trong phần "Aptos". Sau đó xác nhận và phê duyệt trong cửa sổ bật lên của ví.
 
-![](../../.gitbook/assets/bridging-default-state.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-default-state.png)
 
-4 - Click the "v" in the upper token selection field and choose "CAKE".
+4 - Nhấp vào "v" trong trường chọn token phía trên và chọn "CAKE".
 
-![](../../.gitbook/assets/upper-field.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/upper-field.png)
 
-5 - Input the number of CAKE you want to bridge to Aptos.
+5 - Nhập số lượng CAKE bạn muốn kết nối chuỗi sang Aptos.
 
-![](../../.gitbook/assets/bridging-amount-entered.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-amount-entered.png)
 
-6 - If your Aptos wallet is freshly created and doesn't have any APT (Aptos Coin) balance. We recommend keeping the "gas on destination" option at its default. The bridge will deposit a small amount of APT to your wallet, not only to help you kickstart your journey on Aptos, but you will also need APT for gas to register and claim your bridged CAKE.
+6 - Nếu ví Aptos của bạn mới tạo và không có số dư APT (Aptos Coin). Chúng tôi khuyến nghị giữ tùy chọn "gas on destination" ở mức mặc định. Cầu nối sẽ nạp một lượng nhỏ APT vào ví của bạn, không chỉ để giúp bạn khởi đầu hành trình trên Aptos, mà bạn cũng sẽ cần APT để trả gas cho việc đăng ký và nhận CAKE đã được kết nối chuỗi.
 
-Altering this option might cause bridging to fail.
+Thay đổi tùy chọn này có thể khiến việc kết nối chuỗi thất bại.
 
-![](../../.gitbook/assets/bridging-gas-on-dest.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-gas-on-dest.png)
 
-7 - Click "Transfer" to initiate the bridging transaction and confirm via the wallet confirmation pop up.
+7 - Nhấp vào "Transfer" để khởi tạo giao dịch kết nối chuỗi và xác nhận qua cửa sổ xác nhận ví.
 
-Please note that depending on the condition on your BNB Smart Chain wallet and Aptos wallet. You may need to approve **multiple** wallet confirmations. For example if you are bridging CAKE to Aptos for the first time, you will need to:
+Xin lưu ý rằng tùy thuộc vào tình trạng ví BNB Smart Chain và ví Aptos của bạn. Bạn có thể cần phê duyệt **nhiều** xác nhận ví. Ví dụ nếu bạn đang kết nối chuỗi CAKE sang Aptos lần đầu tiên, bạn sẽ cần:
 
-* Approve CAKE spending on the bridging contract (coming from your BNB Smart Chain wallet)
-* Register CAKE (coming from your Aptos wallet)
+* Phê duyệt chi tiêu CAKE trên hợp đồng kết nối chuỗi (từ ví BNB Smart Chain của bạn)
+* Đăng ký CAKE (từ ví Aptos của bạn)
 
-For more detail please check out [this breakdown](aptos.md#bridging-cake-to-aptos-for-the-first-time).
+Để biết thêm chi tiết, hãy xem [phân tích này](aptos.md#bridging-cake-to-aptos-for-the-first-time).
 
-8 - Sit back and relax. It should only take a few minutes. Once the bridging is complete, CAKE will be deposited into your Aptos wallet. You can track the progress by the progress bar.
+8 - Hãy ngồi lại và thư giãn. Chỉ cần vài phút. Sau khi kết nối chuỗi hoàn tất, CAKE sẽ được nạp vào ví Aptos của bạn. Bạn có thể theo dõi tiến trình qua thanh tiến trình.
 
-![](../../.gitbook/assets/bridging-complete-half.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-complete-half.png)
 
-## Bridging CAKE to Aptos for the First Time
+## Kết Nối Chuỗi CAKE sang Aptos Lần Đầu Tiên
 
-Bridging CAKE to Aptos wallets requires registration and claim transactions. This is done to enhance user security and is unique to Aptos.
+Việc kết nối chuỗi CAKE sang ví Aptos yêu cầu các giao dịch đăng ký và nhận. Điều này được thực hiện để tăng cường bảo mật người dùng và là đặc thù của Aptos.
 
-### **If you already have APT (Aptos Coin) in your wallet:**
+### **Nếu bạn đã có APT (Aptos Coin) trong ví:**
 
-You’ll be prompted to register CAKE on your Aptos wallet if it’s not registered yet. No additional claim transaction is needed in this case.
+Bạn sẽ được nhắc đăng ký CAKE trên ví Aptos của mình nếu chưa đăng ký. Trong trường hợp này không cần giao dịch nhận thêm.
 
-### **If you don’t have APT (Aptos Coin) in your wallet:**
+### **Nếu bạn chưa có APT (Aptos Coin) trong ví:**
 
-After the bridge transaction completes, you’ll need to manually claim your CAKE. To cover the gas fees for claiming, APT tokens will be sent to your Aptos wallet from your source wallet.
+Sau khi giao dịch cầu nối hoàn tất, bạn cần nhận CAKE thủ công. Để trang trải phí gas cho việc nhận, token APT sẽ được gửi đến ví Aptos của bạn từ ví nguồn.
 
-These registration and claim steps only apply the first time you interact with a token on Aptos. Subsequent transfers of the same token won’t require these actions.
+Các bước đăng ký và nhận này chỉ áp dụng lần đầu tiên bạn tương tác với một token trên Aptos. Các giao dịch chuyển tiếp theo của cùng token sẽ không yêu cầu các hành động này.
 
-Before bridging CAKE to Aptos for the first time, ensure your Aptos address has enough APT for gas fees. For more details, check out Aptos’s explanation here: [https://theaptosbridge.com/faq#registering-claiming-assets](https://theaptosbridge.com/faq#registering-claiming-assets)
+Trước khi kết nối chuỗi CAKE sang Aptos lần đầu tiên, hãy đảm bảo địa chỉ Aptos của bạn có đủ APT để trả phí gas. Để biết thêm chi tiết, hãy xem giải thích của Aptos tại đây: [https://theaptosbridge.com/faq#registering-claiming-assets](https://theaptosbridge.com/faq#registering-claiming-assets)
 
-## Bridge CAKE from Aptos to BNB Smart Chain
+## Kết Nối Chuỗi CAKE từ Aptos sang BNB Smart Chain
 
-1 - Make sure your wallet supports both BNB Smart Chain and Aptos Mainnet. Or you have both of the wallets installed in your browser.
+1 - Đảm bảo ví của bạn hỗ trợ cả BNB Smart Chain và Aptos Mainnet. Hoặc bạn đã cài đặt cả hai ví trong trình duyệt của mình.
 
-Then open the [PancakeSwap CAKE Bridge](https://bridge.pancakeswap.finance/)
+Sau đó mở [PancakeSwap CAKE Bridge](https://bridge.pancakeswap.finance/)
 
-2 - First, we need to connect our BNB Smart Chain wallet.
+2 - Đầu tiên, chúng ta cần kết nối ví BNB Smart Chain của mình.
 
-Click "Connect" and choose the wallet you prefer under the "EVM" section. Then confirm and approve in your wallet popup.
+Nhấp vào "Connect" và chọn ví bạn muốn trong phần "EVM". Sau đó xác nhận và phê duyệt trong cửa sổ bật lên của ví.
 
-![](../../.gitbook/assets/bridging-wallet-connect-modal.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-wallet-connect-modal.png)
 
-3 - Then, we need to connect our Aptos wallet.
+3 - Sau đó, chúng ta cần kết nối ví Aptos của mình.
 
-In the wallet connect modal, choose the wallet you prefer under the "Aptos" section. Then confirm and approve in your wallet popup.
+Trong modal kết nối ví, chọn ví bạn muốn trong phần "Aptos". Sau đó xác nhận và phê duyệt trong cửa sổ bật lên của ví.
 
-![](../../.gitbook/assets/bridging-default-state.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-default-state.png)
 
-4 - Click the "v" in the upper token selection field and choose "CAKE". Then click the double arrow button in the middle of the page to flip the direction of the bridging.
+4 - Nhấp vào "v" trong trường chọn token phía trên và chọn "CAKE". Sau đó nhấp vào nút mũi tên đôi ở giữa trang để đổi chiều hướng kết nối chuỗi.
 
-Please make sure the "Aptos" network is in the upper field.
+Hãy đảm bảo mạng "Aptos" nằm ở trường phía trên.
 
-![](../../.gitbook/assets/upper-field-aptos.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/upper-field-aptos.png)
 
-5 - Input the number of CAKE you want to bridge to BNB Smart Chain.
+5 - Nhập số lượng CAKE bạn muốn kết nối chuỗi sang BNB Smart Chain.
 
-![](../../.gitbook/assets/bridging-aptos-to-bsc-with-amount.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-aptos-to-bsc-with-amount.png)
 
-6 - If your BNB Smart Chain wallet is freshly created and doesn't have any BNB (gas token) balance. We recommend keeping the "gas on destination" option at its default. The bridge will deposit a small amount of BNB into your wallet. It will help you kickstart your journey on BNB Smart Chain and explore the vivid PancakeSwap ecosystem.
+6 - Nếu ví BNB Smart Chain của bạn mới tạo và không có số dư BNB (token gas). Chúng tôi khuyến nghị giữ tùy chọn "gas on destination" ở mức mặc định. Cầu nối sẽ nạp một lượng nhỏ BNB vào ví của bạn. Điều này sẽ giúp bạn khởi đầu hành trình trên BNB Smart Chain và khám phá hệ sinh thái PancakeSwap sôi động.
 
-7 - Click "Transfer" and approve the transactions from your wallet popup.
+7 - Nhấp vào "Transfer" và phê duyệt các giao dịch từ cửa sổ bật lên của ví.
 
-8 - Sit back and relax. It should only take a few minutes. Once the bridging is complete, CAKE will be deposited into your BNB Smart Chain wallet. You can track the progress by the progress bar.
+8 - Hãy ngồi lại và thư giãn. Chỉ cần vài phút. Sau khi kết nối chuỗi hoàn tất, CAKE sẽ được nạp vào ví BNB Smart Chain của bạn. Bạn có thể theo dõi tiến trình qua thanh tiến trình.
