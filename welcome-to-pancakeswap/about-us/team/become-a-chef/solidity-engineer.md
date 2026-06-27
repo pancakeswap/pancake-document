@@ -2,33 +2,33 @@
 hidden: true
 ---
 
-# Senior Solidity Engineer
+# Kỹ Sư Solidity Cấp Cao
 
-### **General Information**
+### **Thông Tin Chung**
 
-* **Salary range:** Competitive, negotiable
-* **Position:** Full-time
-* **Location:** Remote
-* **Time-zone preference:** Any
+* **Mức lương:** Cạnh tranh, có thể thương lượng
+* **Vị trí:** Toàn thời gian
+* **Địa điểm:** Làm việc từ xa
+* **Ưu tiên múi giờ:** Bất kỳ
 
-### Your Responsibilities
+### Trách Nhiệm Của Bạn
 
-* Architect, implement, and test smart contracts in **Solidity** across EVM-compatible chains.
-* Scope, design, and deliver complex systems end-to-end, from idea to deployment.
-* Collaborate with cross functional partners on all aspects of product development.
-* Conduct code reviews and enforce best practices for security, efficiency, and maintainability.
-* Continuously evaluate and improve gas optimization, security design patterns, and upgradeability.
-* Proactively identify areas for improvement and innovation within PancakeSwap’s protocol architecture.
+* Thiết kế kiến trúc, triển khai và kiểm thử các hợp đồng thông minh bằng **Solidity** trên các chuỗi tương thích EVM.
+* Xác định phạm vi, thiết kế và phân phối các hệ thống phức tạp đầu cuối, từ ý tưởng đến triển khai.
+* Cộng tác với các đối tác xuyên chức năng trong tất cả các khía cạnh của phát triển sản phẩm.
+* Thực hiện đánh giá mã và thực thi các phương pháp tốt nhất về bảo mật, hiệu quả và khả năng duy trì.
+* Liên tục đánh giá và cải thiện tối ưu hóa gas, các mẫu thiết kế bảo mật và khả năng nâng cấp.
+* Chủ động xác định các lĩnh vực cải thiện và đổi mới trong kiến trúc giao thức của PancakeSwap.
 
-### Skills & Qualifications
+### Kỹ Năng & Trình Độ
 
-* **5+ years** of software engineering experience, with **2+ years** focused on Solidity smart contracts.
-* Deep understanding of **Solidity design patterns**, gas optimization, and contract upgradeability.
-* Hands-on experience with **Hardhat** and **Foundry** (understands the trade-offs and tooling ecosystems).
-* Strong understanding of **EVM internals**, **DeFi protocols**, and **on-chain architecture**.
-* Excellent analytical, debugging, and problem-solving skills.
-* Comfortable working autonomously in a fast-paced, globally distributed team.
+* **5+ năm** kinh nghiệm kỹ thuật phần mềm, với **2+ năm** tập trung vào hợp đồng thông minh Solidity.
+* Hiểu biết sâu sắc về **các mẫu thiết kế Solidity**, tối ưu hóa gas và khả năng nâng cấp hợp đồng.
+* Kinh nghiệm thực hành với **Hardhat** và **Foundry** (hiểu sự đánh đổi và hệ sinh thái công cụ).
+* Hiểu biết vững chắc về **nội tại EVM**, **giao thức DeFi** và **kiến trúc on-chain**.
+* Kỹ năng phân tích, debug và giải quyết vấn đề xuất sắc.
+* Thoải mái làm việc tự chủ trong một đội ngũ phân tán toàn cầu nhanh nhẹn.
 
-### How to apply:
+### Cách thức ứng tuyển:
 
-Email hiring@pancakeswap.com with your resume!
+Gửi email đến hiring@pancakeswap.com kèm CV của bạn!

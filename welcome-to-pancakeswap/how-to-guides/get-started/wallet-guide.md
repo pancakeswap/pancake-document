@@ -1,381 +1,381 @@
-# Create a Wallet
+# Tạo Ví
 
-![](../../../.gitbook/assets/how-to-make-a-crypto-wallet-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-make-a-crypto-wallet-header.png)
 
-To get started on PancakeSwap, the first thing you'll need is to set up a wallet that supports BNB Smart Chain (BSC). Wallets are available both on desktop computers and on smartphone devices. You'll need to choose the wallet that fits your needs best.
+Để bắt đầu sử dụng PancakeSwap, điều đầu tiên bạn cần là thiết lập một ví hỗ trợ BNB Smart Chain (BSC). Ví có sẵn trên cả máy tính để bàn và thiết bị điện thoại thông minh. Bạn sẽ cần chọn ví phù hợp nhất với nhu cầu của bạn.
 
 {% hint style="danger" %}
-**When you're setting up a wallet, be sure to:**
+**Khi thiết lập ví, hãy đảm bảo:**
 
-* ✅ **Download and install only the latest version from an official source.**
-* ✅ **Follow the setup guide carefully.**
-* ✅ **Safely back up your recovery phrases.**
-* ❌ **NEVER share your recovery phrases with anyone, under any circumstances.**
-* ❌ **NEVER input your recovery phrase to a website or app, other than your wallet app.**
+* ✅ **Chỉ tải xuống và cài đặt phiên bản mới nhất từ nguồn chính thức.**
+* ✅ **Làm theo hướng dẫn thiết lập một cách cẩn thận.**
+* ✅ **Sao lưu cụm từ khôi phục của bạn một cách an toàn.**
+* ❌ **KHÔNG BAO GIỜ chia sẻ cụm từ khôi phục với bất kỳ ai, trong bất kỳ trường hợp nào.**
+* ❌ **KHÔNG BAO GIỜ nhập cụm từ khôi phục vào trang web hoặc ứng dụng, ngoài ứng dụng ví của bạn.**
 {% endhint %}
 
-## Smartphone/Mobile or Desktop wallet?
+## Ví Điện Thoại/Di Động hay Ví Máy Tính Để Bàn?
 
-Mobile device wallets and desktop-based wallets have different strengths and weaknesses. Consider which fits your needs better to help decide which type of wallet to use.
+Ví trên thiết bị di động và ví trên máy tính để bàn có các điểm mạnh và điểm yếu khác nhau. Hãy xem xét loại nào phù hợp hơn với nhu cầu của bạn để quyết định nên sử dụng loại ví nào.
 
-|                                   | Mobile | Desktop |
-| --------------------------------- | ------ | ------- |
-| Use anywhere                      | ✅      | ➖       |
-| Easy to use                       | ✅      | ➖       |
-| More secure                       | ➖      | ✅       |
-| Accessibility friendly            | ➖      | ✅       |
-| Damage/loss/theft resistant       | ➖      | ✅       |
-| Power/connection outage resistant | ✅      | ➖       |
+|                                   | Di Động | Máy Tính |
+| --------------------------------- | ------- | -------- |
+| Sử dụng ở bất kỳ đâu             | ✅       | ➖        |
+| Dễ sử dụng                       | ✅       | ➖        |
+| An toàn hơn                      | ➖       | ✅        |
+| Thân thiện với khả năng tiếp cận | ➖       | ✅        |
+| Chống hỏng hóc/mất mát/trộm cắp  | ➖       | ✅        |
+| Chống mất điện/mất kết nối       | ✅       | ➖        |
 
-### **Smartphone/Mobile wallets**
+### **Ví Điện Thoại/Di Động**
 
-Smartphone/Mobile wallets allow you to access your crypto almost anywhere. Wallets are available on both Android and iOS devices.
+Ví điện thoại/di động cho phép bạn truy cập tiền mã hóa của mình ở hầu hết mọi nơi. Ví có sẵn trên cả thiết bị Android và iOS.
 
-### Which mobile wallet should I choose?
+### Tôi nên chọn ví di động nào?
 
-This comparison table gives an overview of the most popular mobile wallets used with PancakeSwap.
+Bảng so sánh này cung cấp tổng quan về các ví di động phổ biến nhất được sử dụng với PancakeSwap.
 
-<table><thead><tr><th width="151"></th><th width="114">MetaMask</th><th width="109">Coinbase Wallet</th><th width="145">SafePal</th><th width="115">Trust Wallet</th><th width="98">Token Pocket</th></tr></thead><tbody><tr><td>BNB Smart Chain support</td><td>⚠️</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Built-in DApp browser</td><td>➖</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Hardware wallet compatible</td><td>✅</td><td>✅</td><td>✅<br>(Only SafePal)</td><td>➖</td><td>➖</td></tr><tr><td>Open source (auditability)</td><td>✅</td><td>✅</td><td>➖</td><td>✅</td><td>✅</td></tr><tr><td><p>Interact with BscScan Directly</p><p>(for advanced users!)</p></td><td>✅</td><td>➖</td><td>➖</td><td>➖</td><td>➖</td></tr></tbody></table>
+<table><thead><tr><th width="151"></th><th width="114">MetaMask</th><th width="109">Coinbase Wallet</th><th width="145">SafePal</th><th width="115">Trust Wallet</th><th width="98">Token Pocket</th></tr></thead><tbody><tr><td>Hỗ trợ BNB Smart Chain</td><td>⚠️</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Trình duyệt DApp tích hợp</td><td>➖</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Tương thích ví phần cứng</td><td>✅</td><td>✅</td><td>✅<br>(Chỉ SafePal)</td><td>➖</td><td>➖</td></tr><tr><td>Mã nguồn mở (khả năng kiểm tra)</td><td>✅</td><td>✅</td><td>➖</td><td>✅</td><td>✅</td></tr><tr><td><p>Tương tác với BscScan Trực Tiếp</p><p>(dành cho người dùng nâng cao!)</p></td><td>✅</td><td>➖</td><td>➖</td><td>➖</td><td>➖</td></tr></tbody></table>
 
-⚠️ Requires some setup
+⚠️ Yêu cầu một số thiết lập
 
-You can find more in-depth information about each wallet below, as well as download links and installation guides.
+Bạn có thể tìm thêm thông tin chi tiết về từng ví bên dưới, cùng với các liên kết tải xuống và hướng dẫn cài đặt.
 
 {% tabs %}
 {% tab title="MetaMask" %}
-![](<../../../.gitbook/assets/image (33) (3).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2833%29%20%283%29.png)
 
-MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethereum network) and BEP2 & BEP20 (Binance Chain and BNB Smart Chain networks).
+MetaMask là plugin ví dựa trên trình duyệt rất phổ biến hỗ trợ ERC20 (mạng Ethereum) và BEP2 & BEP20 (mạng Binance Chain và BNB Smart Chain).
 
-​**Pros:**
+​**Ưu điểm:**
 
-* Open source for auditability
-* WEB3 capable on BscScan
-* A strong history of security and reliability
-* A large amount of how-to guides and resources online
-* Many tools and custom settings
-* Offers ETH purchases with Transak
-* Supports a very large number of languages
-* Is also available a browser plugin for desktop devices
+* Mã nguồn mở để có thể kiểm tra
+* Khả năng WEB3 trên BscScan
+* Lịch sử bảo mật và độ tin cậy mạnh mẽ
+* Nhiều hướng dẫn và tài nguyên trực tuyến
+* Nhiều công cụ và cài đặt tùy chỉnh
+* Cung cấp mua ETH bằng Transak
+* Hỗ trợ rất nhiều ngôn ngữ
+* Cũng có sẵn dưới dạng plugin trình duyệt cho thiết bị máy tính
 
-**Cons:**
+**Nhược điểm:**
 
-* Longer setup time than other options
-* Additional steps needed to use with BNB Smart Chain and PancakeSwap
-* Extra information and settings may confuse beginners
+* Thời gian thiết lập lâu hơn các tùy chọn khác
+* Cần thêm các bước để sử dụng với BNB Smart Chain và PancakeSwap
+* Thông tin và cài đặt thêm có thể gây nhầm lẫn cho người mới
 
-[**Download MetaMask**](https://metamask.io/download.html) (Automatically detects device)\
-[**MetaMask Setup Guide**](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
+[**Tải MetaMask**](https://metamask.io/download.html) (Tự động phát hiện thiết bị)\
+[**Hướng dẫn thiết lập MetaMask**](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
 {% endtab %}
 
 {% tab title="Coinbase Wallet" %}
-![](../../../.gitbook/assets/coinbase_wallet_wordmark_blue.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/coinbase_wallet_wordmark_blue.png)
 
-Millions of users choose Coinbase Wallet to earn yield with DeFi, swap more than 5,500 assets, and hold their NFT collections. Coinbase wallet supports BEP2 & BEP20 (Binance Chain and BNB Smart Chain networks).
+Hàng triệu người dùng chọn Coinbase Wallet để kiếm lãi với DeFi, hoán đổi hơn 5.500 tài sản và giữ bộ sưu tập NFT. Coinbase wallet hỗ trợ BEP2 & BEP20 (mạng Binance Chain và BNB Smart Chain).
 
-**Highlights:**
+**Điểm nổi bật:**
 
-* Most downloaded mobile dapp wallet in the United States with 12M+ active Wallet users.
-* No additional steps needed to use with BNB Smart Chain and PancakeSwap.
-* Premier audience: Up to 89M+ Coinbase retail app users to onboard to Coinbase Wallet as they start to explore web3.
-* Easy to transfer assets from Coinbase retail app.
-* Fiat On-ramp: Users can now directly purchase crypto with fiat in all 86 countries where Coinbase operates, without leaving Wallet.
-* Industry leading security with secure cloud backup.
+* Ví dapp di động được tải xuống nhiều nhất tại Hoa Kỳ với 12M+ người dùng Wallet tích cực.
+* Không cần thêm bước để sử dụng với BNB Smart Chain và PancakeSwap.
+* Đối tượng hàng đầu: Lên đến 89M+ người dùng ứng dụng bán lẻ Coinbase để tham gia vào Coinbase Wallet khi họ bắt đầu khám phá web3.
+* Dễ dàng chuyển tài sản từ ứng dụng bán lẻ Coinbase.
+* Nạp tiền Fiat: Người dùng hiện có thể mua crypto trực tiếp bằng tiền fiat tại 86 quốc gia nơi Coinbase hoạt động, mà không cần rời Wallet.
+* Bảo mật hàng đầu ngành với sao lưu đám mây an toàn.
 
-[**Download Coinbase Wallet**](https://coinbase-wallet.onelink.me/q5Sx/fdb9b250) **(Automatically detects device)**
+[**Tải Coinbase Wallet**](https://coinbase-wallet.onelink.me/q5Sx/fdb9b250) **(Tự động phát hiện thiết bị)**
 
-[**Coinbase Wallet Setup Guide**](https://www.coinbase.com/wallet/getting-started-mobile)
+[**Hướng dẫn thiết lập Coinbase Wallet**](https://www.coinbase.com/wallet/getting-started-mobile)
 
-_Coinbase Wallet is a self-custody wallet providing software services subject to Coinbase Wallet_ [_Terms of Service_](https://wallet.coinbase.com/terms-of-service) _and_ [_Privacy Policy_](https://wallet.coinbase.com/privacy-policy)_. Coinbase Wallet is_ [_distinct_](https://help.coinbase.com/en/wallet/getting-started/what-s-the-difference-between-coinbase-com-and-wallet) _from Coinbase.com, and private keys for Coinbase Wallet are stored directly by the user and not by Coinbase. Fees may apply. You do not need a Coinbase.com account to use Coinbase Wallet._
+_Coinbase Wallet là ví tự lưu ký cung cấp dịch vụ phần mềm theo_ [_Điều khoản Dịch vụ_](https://wallet.coinbase.com/terms-of-service) _và_ [_Chính sách Bảo mật_](https://wallet.coinbase.com/privacy-policy) _của Coinbase Wallet. Coinbase Wallet_ [_khác_](https://help.coinbase.com/en/wallet/getting-started/what-s-the-difference-between-coinbase-com-and-wallet) _với Coinbase.com, và các khóa riêng tư cho Coinbase Wallet được lưu trữ trực tiếp bởi người dùng chứ không phải bởi Coinbase. Có thể áp dụng phí. Bạn không cần tài khoản Coinbase.com để sử dụng Coinbase Wallet._
 {% endtab %}
 
 {% tab title="SafePal" %}
-![SafePal is available as both a software and hardware wallet. The wallet is easy to install and create, and comes ready to support BEP2 (BNB Beacon Chain) and BEP20 (BNB Smart Chain) right away.](../../../.gitbook/assets/sfp_new_logo.webp)
+![SafePal có sẵn dưới dạng ví phần mềm và ví phần cứng. Ví dễ cài đặt và tạo, và sẵn sàng hỗ trợ BEP2 (BNB Beacon Chain) và BEP20 (BNB Smart Chain) ngay lập tức.](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/sfp_new_logo.webp)
 
-**Pros:**
+**Ưu điểm:**
 
-* Easily switch between several crypto networks
-* Has the option for Google Authenticator built in
-* Supports a large number of languages
-* Setup process is very simple
-* Is available as both a software and hardware wallet (work together)
-* Supports NFTs on both the BSC and ETH networks
+* Dễ dàng chuyển đổi giữa nhiều mạng crypto
+* Có tùy chọn Google Authenticator tích hợp
+* Hỗ trợ nhiều ngôn ngữ
+* Quy trình thiết lập rất đơn giản
+* Có sẵn dưới dạng ví phần mềm và ví phần cứng (hoạt động cùng nhau)
+* Hỗ trợ NFT trên cả mạng BSC và ETH
 
-**Cons:**
+**Nhược điểm:**
 
-* Isn't fully open source
-* Does not give user notifications
-* Does not enforce strong security during initial setup and wallet creation
+* Không hoàn toàn là mã nguồn mở
+* Không gửi thông báo cho người dùng
+* Không thực thi bảo mật mạnh trong quá trình thiết lập ban đầu và tạo ví
 
-​[**Download SafePal**](https://safepal.io/download) (Automatically detects device)\
-[**SafePal Setup Guide**](https://blog.safepal.io/binance-smart-chain-x-safepal/)
+​[**Tải SafePal**](https://safepal.io/download) (Tự động phát hiện thiết bị)\
+[**Hướng dẫn thiết lập SafePal**](https://blog.safepal.io/binance-smart-chain-x-safepal/)
 {% endtab %}
 
 {% tab title="Trust Wallet" %}
-![](<../../../.gitbook/assets/image (67).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2867%29.png)
 
-Trust Wallet is a popular wallet for smart devices. It supports DApps, NFT collectibles (with Opensea.io support), and in-wallet staking.
+Trust Wallet là ví phổ biến dành cho thiết bị thông minh. Nó hỗ trợ DApps, NFT collectibles (với hỗ trợ Opensea.io) và staking trong ví.
 
-**Pros:**
+**Ưu điểm:**
 
-* Open source for auditability
-* Backed by the Binance cryptocurrency exchange
-* Easily switch between several crypto networks
-* Includes networks by default
-* Includes in-wallet staking options
-* Has additional features such as NFT collection, BNB staking, and DApp access within the wallet
+* Mã nguồn mở để có thể kiểm tra
+* Được hỗ trợ bởi sàn giao dịch tiền mã hóa Binance
+* Dễ dàng chuyển đổi giữa nhiều mạng crypto
+* Bao gồm các mạng theo mặc định
+* Bao gồm các tùy chọn staking trong ví
+* Có các tính năng bổ sung như bộ sưu tập NFT, staking BNB và truy cập DApp trong ví
 
-**Cons:**
+**Nhược điểm:**
 
-* Language tied to phone settings
-* Limited DApps
-* Transaction notifications can be delayed
+* Ngôn ngữ gắn với cài đặt điện thoại
+* DApps hạn chế
+* Thông báo giao dịch có thể bị trễ
 
-[**Download Trust Wallet**](https://trustwallet.com) (Automatically detects device)\
-[**Trust Wallet Setup Guide**](https://www.binance.com/en/blog/421499824684901157/How-to-Set-Up-and-Use-Trust-Wallet-for-Binance-Smart-Chain)
+[**Tải Trust Wallet**](https://trustwallet.com) (Tự động phát hiện thiết bị)\
+[**Hướng dẫn thiết lập Trust Wallet**](https://www.binance.com/en/blog/421499824684901157/How-to-Set-Up-and-Use-Trust-Wallet-for-Binance-Smart-Chain)
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](<../../../.gitbook/assets/image (125) (3).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28125%29%20%283%29.png)
 
-Token Pocket is a cryptocurrency management app that natively supports many cryptocurrency networks. It also has a desktop application available.
+Token Pocket là ứng dụng quản lý tiền mã hóa hỗ trợ nhiều mạng crypto theo cách gốc. Nó cũng có ứng dụng máy tính để bàn.
 
-​**Pros:**
+​**Ưu điểm:**
 
-* Open source for auditability
-* Allows users to easily switch between many crypto networks
-* Supports many networks by default
-* A less cramped user experience than browser plugin wallets
-* Is also available as desktop software devices
+* Mã nguồn mở để có thể kiểm tra
+* Cho phép người dùng dễ dàng chuyển đổi giữa nhiều mạng crypto
+* Hỗ trợ nhiều mạng theo mặc định
+* Trải nghiệm người dùng ít chật chội hơn so với ví plugin trình duyệt
+* Cũng có sẵn dưới dạng phần mềm máy tính để bàn
 
-**Cons:**
+**Nhược điểm:**
 
-* Only supports Chinese and English languages
-* Has some issues with the English translation
-* Has fewer online resources than more established wallets
+* Chỉ hỗ trợ tiếng Trung và tiếng Anh
+* Có một số vấn đề với bản dịch tiếng Anh
+* Có ít tài nguyên trực tuyến hơn so với các ví đã được thiết lập
 
-[**Download Token Pocket App**](https://www.tokenpocket.pro/en/download/app) (Automatically detects device)
+[**Tải Ứng Dụng Token Pocket**](https://www.tokenpocket.pro/en/download/app) (Tự động phát hiện thiết bị)
 
-**Token Pocket Mobile Setup Guide**
+**Hướng dẫn thiết lập Token Pocket trên di động**
 
-1. Visit the Token Pocket website and tap **Mobile**.
+1. Truy cập trang web Token Pocket và nhấn **Mobile**.
 
 ![](https://lh5.googleusercontent.com/fTsZdwOn3cgT7au7KaoTxY-Ib1KMEfVP9MifMszobGFJ6BTQ0iPlQLl01CYuS3vbAVPmTz9vC3Hnw1lApk1m1I1SDG2fIfi-nN3CIE4oImXU82WCcZWVhLhq2LqY79W1UuN3oefD)
 
-1. Your device will be automatically detected. Tap the **Google Play** or **App Store** button and install the Token Pocket app.
-2. Once Token Pocket is installed, open it. You’ll be met by a screen asking whether you have an existing wallet or would like to create a new one. Tap **No accounts, Create Now**.
+1. Thiết bị của bạn sẽ được tự động phát hiện. Nhấn nút **Google Play** hoặc **App Store** và cài đặt ứng dụng Token Pocket.
+2. Sau khi Token Pocket được cài đặt, mở nó. Bạn sẽ gặp một màn hình hỏi liệu bạn có ví hiện có hay muốn tạo ví mới. Nhấn **No accounts, Create Now**.
 
-If you do have an existing wallet to import, use the top option instead.
+Nếu bạn có ví hiện có để nhập, hãy sử dụng tùy chọn trên thay thế.
 
 ![](https://lh3.googleusercontent.com/FdtGOB7N7ZKROD0EIKy5roklxcqtYwq26lZ4RX_8RxUdt-caGPAr03HNTdOtTqpD82hkBcX9umQI1VcL6n0jXky4uVy_dFDr8pReadLE80AHXkvm4mbvZZN2vxnzeaUmHXATx3GC)
 
-1. On the next page, find **BNB Smart Chain** in the list and tap it.
+1. Trên trang tiếp theo, tìm **BNB Smart Chain** trong danh sách và nhấn vào đó.
 
 ![](https://lh5.googleusercontent.com/TGpsjTq_B1rLK-A8Cqzq9sC0IACpDZFCbpwN5_GD4r8sCRmaqAdbswC-OmWAM7YiKATEaHTHviODFueMA6sCDSGlvNslYjGWQIrX5X8oR_5pGPuMJ6X7_Gz-rEoJwzmS9exEybbs)
 
-1. Next, on the “Create way” page, tap **Create Wallet**.
+1. Tiếp theo, trên trang "Create way", nhấn **Create Wallet**.
 
 ![](https://lh4.googleusercontent.com/AvN_ssg1eWtArzqvT0oaxWGC-GR6lfG6GjzhIbvIpYO6b2om9ZYtNa5GWlU7KW31cKjPqFmSsx8zSjvT_Bxw2zAqvVSMylbQWCCXYwnJOVM5jOxg9u7lt6_Yy5AySM72HSS99v0n)
 
-1. You’ll be asked to enter a password. For your security, make sure your password is judged as “Strong”. You can also add a hint, but make sure it’s something only you will understand. When you’re ready, tap **Create Wallet**.
+1. Bạn sẽ được yêu cầu nhập mật khẩu. Để bảo mật của bạn, hãy đảm bảo mật khẩu được đánh giá là "Strong". Bạn cũng có thể thêm gợi ý, nhưng hãy đảm bảo đó là thứ chỉ bạn hiểu. Khi sẵn sàng, nhấn **Create Wallet**.
 
-And that’s it, all done!
+Và thế là xong, đã hoàn tất!
 
-To connect to BNB Smart Chain and use PancakeSwap, you can follow the TokenPocket section of our Connect Your Wallet to PancakeSwap guide [https://docs.pancakeswap.finance/get-started/connection-guide](https://docs.pancakeswap.finance/get-started/connection-guide).
+Để kết nối với BNB Smart Chain và sử dụng PancakeSwap, bạn có thể làm theo phần TokenPocket trong hướng dẫn Kết Nối Ví của Bạn với PancakeSwap [https://docs.pancakeswap.finance/get-started/connection-guide](https://docs.pancakeswap.finance/get-started/connection-guide).
 
-**Getting private key from mobile to import to desktop**
+**Lấy khóa riêng tư từ di động để nhập vào máy tính để bàn**
 
-Token Pocket lets you use both a desktop and mobile wallet. This section will cover how to get your private key from your mobile wallet to import into your desktop wallet.
+Token Pocket cho phép bạn sử dụng cả ví máy tính để bàn và di động. Phần này sẽ đề cập đến cách lấy khóa riêng tư từ ví di động của bạn để nhập vào ví máy tính để bàn.
 
 {% hint style="warning" %}
-Please be extremely careful with how you handle your private keys. Giving your private keys to someone will give them full access to your coins! Token Pocket is an open source project and will use your private key to import your wallet. Even so, only use your private key with applications you trust and can verify are legitimate!
+Vui lòng hết sức cẩn thận với cách bạn xử lý khóa riêng tư. Cung cấp khóa riêng tư cho ai đó sẽ cấp cho họ quyền truy cập đầy đủ vào coin của bạn! Token Pocket là dự án mã nguồn mở và sẽ sử dụng khóa riêng tư của bạn để nhập ví. Dù vậy, chỉ sử dụng khóa riêng tư với các ứng dụng bạn tin tưởng và có thể xác minh là hợp lệ!
 {% endhint %}
 
-1. Tap the **Me** tab on the bottom ribbon and tap **Manage Wallets**.
+1. Nhấn tab **Me** trên thanh dưới cùng và nhấn **Manage Wallets**.
 
 ![](https://lh3.googleusercontent.com/_DE3EO8bsI5wKZlkTeJv3zZ77LR8SVQYOwB4EXbY_GhKzz4PSZpo3MdlvrU8sLoLyPcRQjdjOA24VPjAa_UZdt-JaiRgPMk67uBs7JIi5gp9gV1_wDB7fW7FQoFogTMZ_EQJYxcQ)
 
-1. On the next page, tap the **BNB Smart Chain** entry. Be careful not to tap the address part, or you’ll only copy that to clipboard instead.
+1. Trên trang tiếp theo, nhấn mục **BNB Smart Chain**. Hãy cẩn thận không nhấn vào phần địa chỉ, hoặc bạn sẽ chỉ sao chép nó vào clipboard.
 
 ![](https://lh4.googleusercontent.com/jLhXL03uhZHBKbHaPvy3ZrD1EmYCR8ECqwMxQIzTKnUtxMNntaDA8Dx4oVlXSadoFhhJqZACsYWVPfvITBEpWfkCfwntcQY3Fw5EYgGH-tmva8PZbvYbBRCy_c5V7E1yQHvXiU0F)
 
-1. When the menu appears, find and tap the **Export Private Key** option. Type in your password to get your private key.
+1. Khi menu xuất hiện, tìm và nhấn tùy chọn **Export Private Key** (Xuất Khóa Riêng Tư). Nhập mật khẩu của bạn để nhận khóa riêng tư.
 
 {% hint style="danger" %}
-\*\*NEVER, in any situation, should you ever give someone your private key or recovery phrase ("seed phrase"). This will give someone complete access to your crypto!
+\*\*KHÔNG BAO GIỜ, trong bất kỳ tình huống nào, bạn nên cung cấp khóa riêng tư hoặc cụm từ khôi phục ("seed phrase") cho bất kỳ ai. Điều này sẽ cấp cho ai đó quyền truy cập hoàn toàn vào tiền mã hóa của bạn!
 
-The genuine PancakeSwap site and staff will never ask you to input your seed phrase.\*\*
+Trang web và nhân viên PancakeSwap thực sự sẽ không bao giờ yêu cầu bạn nhập seed phrase.\*\*
 {% endhint %}
 
-Now you have your private key ready to import your wallet into the desktop version of Token Pocket.
+Bây giờ bạn đã có khóa riêng tư sẵn sàng để nhập ví vào phiên bản máy tính để bàn của Token Pocket.
 {% endtab %}
 {% endtabs %}
 
-## **Desktop/Web Browser wallets**
+## **Ví Máy Tính/Trình Duyệt Web**
 
-Desktop wallets are available on your home computer or laptop computer. Wallets on your computer can run as standalone applications, or as web browser plugins for popular browsers like Chrome and Firefox.
+Ví máy tính để bàn có sẵn trên máy tính gia đình hoặc laptop của bạn. Ví trên máy tính có thể chạy dưới dạng ứng dụng độc lập hoặc plugin trình duyệt web cho các trình duyệt phổ biến như Chrome và Firefox.
 
-### Which desktop wallet should I choose?
+### Tôi nên chọn ví máy tính để bàn nào?
 
-This comparison table gives an overview of the most popular desktop wallets used with PancakeSwap.
+Bảng so sánh này cung cấp tổng quan về các ví máy tính để bàn phổ biến nhất được sử dụng với PancakeSwap.
 
-<table><thead><tr><th width="187"></th><th width="116">MetaMask</th><th width="108">Trust Wallet</th><th width="107">Binance Wallet</th><th width="116">Coinbase Wallet</th><th width="150">Token Pocket</th></tr></thead><tbody><tr><td>BNB Smart Chain support</td><td>⚠️</td><td>✅</td><td>✅</td><td>✅</td><td>⚠️</td></tr><tr><td>Built-in DApp browser</td><td>➖</td><td>✅</td><td>➖</td><td>➖</td><td>✅</td></tr><tr><td>Hardware wallet compatible</td><td>✅</td><td>✅ (Beta)</td><td>✅</td><td>✅</td><td>➖</td></tr><tr><td>Open source (auditability)</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td><p>Interact with BscScan Directly</p><p>(for advanced users!)</p></td><td>✅</td><td>✅</td><td>➖</td><td>➖</td><td>➖</td></tr></tbody></table>
+<table><thead><tr><th width="187"></th><th width="116">MetaMask</th><th width="108">Trust Wallet</th><th width="107">Binance Wallet</th><th width="116">Coinbase Wallet</th><th width="150">Token Pocket</th></tr></thead><tbody><tr><td>Hỗ trợ BNB Smart Chain</td><td>⚠️</td><td>✅</td><td>✅</td><td>✅</td><td>⚠️</td></tr><tr><td>Trình duyệt DApp tích hợp</td><td>➖</td><td>✅</td><td>➖</td><td>➖</td><td>✅</td></tr><tr><td>Tương thích ví phần cứng</td><td>✅</td><td>✅ (Beta)</td><td>✅</td><td>✅</td><td>➖</td></tr><tr><td>Mã nguồn mở (khả năng kiểm tra)</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td><p>Tương tác với BscScan Trực Tiếp</p><p>(dành cho người dùng nâng cao!)</p></td><td>✅</td><td>✅</td><td>➖</td><td>➖</td><td>➖</td></tr></tbody></table>
 
-⚠️ Requires additional setup
+⚠️ Yêu cầu thiết lập bổ sung
 
-You can find more in-depth information about each wallet below, as well as download links and installation guides.
+Bạn có thể tìm thêm thông tin chi tiết về từng ví bên dưới, cùng với các liên kết tải xuống và hướng dẫn cài đặt.
 
 {% tabs %}
 {% tab title="MetaMask" %}
-![](<../../../.gitbook/assets/image (33) (3).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2833%29%20%283%29.png)
 
-MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethereum network) by default, and BEP2 & BEP20 (Binance Chain and BNB Smart Chain networks) with a little work.
+MetaMask là plugin ví dựa trên trình duyệt rất phổ biến hỗ trợ ERC20 (mạng Ethereum) theo mặc định, và BEP2 & BEP20 (mạng Binance Chain và BNB Smart Chain) với một chút công sức.
 
-​**Pros:**
+​**Ưu điểm:**
 
-* Open source for auditability
-* WEB3 capable on BscScan
-* A strong history of security and reliability
-* A large amount of how-to guides and resources online
-* Many tools and custom settings
-* Supports a very large number of languages
-* Is also available on mobile devices
+* Mã nguồn mở để có thể kiểm tra
+* Khả năng WEB3 trên BscScan
+* Lịch sử bảo mật và độ tin cậy mạnh mẽ
+* Nhiều hướng dẫn và tài nguyên trực tuyến
+* Nhiều công cụ và cài đặt tùy chỉnh
+* Hỗ trợ rất nhiều ngôn ngữ
+* Cũng có sẵn trên thiết bị di động
 
-**Cons:**
+**Nhược điểm:**
 
-* Longer setup time than other options
-* Additional steps needed to use with BNB Smart Chain and PancakeSwap
-* Extra information and settings may confuse beginners
+* Thời gian thiết lập lâu hơn các tùy chọn khác
+* Cần thêm các bước để sử dụng với BNB Smart Chain và PancakeSwap
+* Thông tin và cài đặt thêm có thể gây nhầm lẫn cho người mới
 
-[**Download MetaMask**](https://metamask.io/download.html) (Automatically detects browser)\
-[**MetaMask Setup Guide**](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
+[**Tải MetaMask**](https://metamask.io/download.html) (Tự động phát hiện trình duyệt)\
+[**Hướng dẫn thiết lập MetaMask**](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
 {% endtab %}
 
 {% tab title="Binance Wallet" %}
-![](<../../../.gitbook/assets/image (255).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28255%29.png)
 
-Binance Wallet is a browser-plugin wallet that natively supports the Binance Chain (BEP2) BNB Smart Chain (BEP20) networks. Binance Wallet was developed by the Binance cryptocurrency exchange.
+Binance Wallet là ví plugin trình duyệt hỗ trợ gốc mạng Binance Chain (BEP2) và BNB Smart Chain (BEP20). Binance Wallet được phát triển bởi sàn giao dịch tiền mã hóa Binance.
 
-​**Pros:**
+​**Ưu điểm:**
 
-* Open source for auditability
-* Backed by the Binance cryptocurrency exchange
-* Can be directly linked to a Binance or Gmail account
-* A streamlined user experience
-* Supports BNB Smart Chain by default, making using PancakeSwap easy
-* Supports a large number of languages
-* Hardware wallet compatible
+* Mã nguồn mở để có thể kiểm tra
+* Được hỗ trợ bởi sàn giao dịch tiền mã hóa Binance
+* Có thể được liên kết trực tiếp với tài khoản Binance hoặc Gmail
+* Trải nghiệm người dùng đơn giản hóa
+* Hỗ trợ BNB Smart Chain theo mặc định, giúp việc sử dụng PancakeSwap dễ dàng
+* Hỗ trợ nhiều ngôn ngữ
+* Tương thích ví phần cứng
 
-**Cons:**
+**Nhược điểm:**
 
-* Lacks some custom settings of other wallets
-* Lack of additional tools makes some actions available in other wallets impossible
-* Has fewer online resources than more established wallets
+* Thiếu một số cài đặt tùy chỉnh của các ví khác
+* Thiếu các công cụ bổ sung khiến một số hành động có trong các ví khác là không thể
+* Có ít tài nguyên trực tuyến hơn so với các ví đã được thiết lập
 
-[**Download Binance Wallet**](https://www.binance.org/en) (Automatically detects browser)\
-[**Binance Wallet Setup Guide**](https://docs.binance.org/smart-chain/wallet/binance.html)
+[**Tải Binance Wallet**](https://www.binance.org/en) (Tự động phát hiện trình duyệt)\
+[**Hướng dẫn thiết lập Binance Wallet**](https://docs.binance.org/smart-chain/wallet/binance.html)
 {% endtab %}
 
 {% tab title="Coinbase Wallet" %}
-![](../../../.gitbook/assets/coinbase_wallet_wordmark_blue.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/coinbase_wallet_wordmark_blue.png)
 
-Millions of users choose Coinbase Wallet to earn yield with DeFi, swap more than 5,500 assets, and hold their NFT collections. Coinbase wallet supports ERC20 (Ethereum network) and BEP2 & BEP20 (Binance Chain and BNB Smart Chain networks).
+Hàng triệu người dùng chọn Coinbase Wallet để kiếm lãi với DeFi, hoán đổi hơn 5.500 tài sản và giữ bộ sưu tập NFT. Coinbase wallet hỗ trợ ERC20 (mạng Ethereum) và BEP2 & BEP20 (mạng Binance Chain và BNB Smart Chain).
 
-**Highlights:**
+**Điểm nổi bật:**
 
-* 12M+ active Wallet users.
-* No additional steps needed to use with BNB Smart Chain and PancakeSwap.
-* Premier audience: Up to 89M+ Coinbase retail app users to onboard to Coinbase Wallet as they start to explore web3.
-* Easy to transfer assets from Coinbase retail app.
-* Fiat On-ramp: Users can now directly purchase crypto with fiat in all 86 countries where Coinbase operates, without leaving Wallet.
-* Industry leading security with secure cloud backup
-* Is also available on mobile devices
+* 12M+ người dùng Wallet tích cực.
+* Không cần thêm bước để sử dụng với BNB Smart Chain và PancakeSwap.
+* Đối tượng hàng đầu: Lên đến 89M+ người dùng ứng dụng bán lẻ Coinbase để tham gia vào Coinbase Wallet khi họ bắt đầu khám phá web3.
+* Dễ dàng chuyển tài sản từ ứng dụng bán lẻ Coinbase.
+* Nạp tiền Fiat: Người dùng hiện có thể mua crypto trực tiếp bằng tiền fiat tại 86 quốc gia nơi Coinbase hoạt động, mà không cần rời Wallet.
+* Bảo mật hàng đầu ngành với sao lưu đám mây an toàn
+* Cũng có sẵn trên thiết bị di động
 
-**Note:**
+**Lưu ý:**
 
-* Currently on Chrome Only
+* Hiện chỉ dành cho Chrome
 
-[**Download Coinbase Wallet**](https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad?hl=en\&authuser=0)[ ](https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad?hl=en\&authuser=0)Chrome Only)
+[**Tải Coinbase Wallet**](https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad?hl=en\&authuser=0)[ ](https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad?hl=en\&authuser=0)Chỉ Chrome)
 
-[**Coinbase Wallet Setup Guide**](https://www.coinbase.com/wallet/getting-started-extension)
+[**Hướng dẫn thiết lập Coinbase Wallet**](https://www.coinbase.com/wallet/getting-started-extension)
 
-_Coinbase Wallet is a self-custody wallet providing software services subject to Coinbase Wallet_ [_Terms of Service_](https://wallet.coinbase.com/terms-of-service) _and_ [_Privacy Policy_](https://wallet.coinbase.com/privacy-policy)_. Coinbase Wallet is_ [_distinct_](https://help.coinbase.com/en/wallet/getting-started/what-s-the-difference-between-coinbase-com-and-wallet) _from Coinbase.com, and private keys for Coinbase Wallet are stored directly by the user and not by Coinbase. Fees may apply. You do not need a Coinbase.com account to use Coinbase Wallet._
+_Coinbase Wallet là ví tự lưu ký cung cấp dịch vụ phần mềm theo_ [_Điều khoản Dịch vụ_](https://wallet.coinbase.com/terms-of-service) _và_ [_Chính sách Bảo mật_](https://wallet.coinbase.com/privacy-policy) _của Coinbase Wallet. Coinbase Wallet_ [_khác_](https://help.coinbase.com/en/wallet/getting-started/what-s-the-difference-between-coinbase-com-and-wallet) _với Coinbase.com, và các khóa riêng tư cho Coinbase Wallet được lưu trữ trực tiếp bởi người dùng chứ không phải bởi Coinbase. Có thể áp dụng phí. Bạn không cần tài khoản Coinbase.com để sử dụng Coinbase Wallet._
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](<../../../.gitbook/assets/image (125) (3).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28125%29%20%283%29.png)
 
-Token Pocket is a standalone application available for both Mac OS and Win64 devices. Token Pocket allows you to manage your cryptocurrency in software independent of your browser.
+Token Pocket là ứng dụng độc lập có sẵn cho cả thiết bị Mac OS và Win64. Token Pocket cho phép bạn quản lý tiền mã hóa trong phần mềm độc lập với trình duyệt của bạn.
 
-​**Pros:**
+​**Ưu điểm:**
 
-* Open source for auditability
-* Independent of your browser and any of its permissions
-* Allows users to easily switch between many crypto networks
-* Supports many networks by default
-* A less cramped user experience than browser plugin wallets
-* Is also available on mobile devices
+* Mã nguồn mở để có thể kiểm tra
+* Độc lập với trình duyệt và bất kỳ quyền nào của nó
+* Cho phép người dùng dễ dàng chuyển đổi giữa nhiều mạng crypto
+* Hỗ trợ nhiều mạng theo mặc định
+* Trải nghiệm người dùng ít chật chội hơn so với ví plugin trình duyệt
+* Cũng có sẵn trên thiết bị di động
 
-**Cons:**
+**Nhược điểm:**
 
-* Asks users to enter their private key as part of desktop setup process
-* Only supports Chinese and English languages
-* Has some issues with the English translation
-* Has fewer online resources than more established wallets
+* Yêu cầu người dùng nhập khóa riêng tư như một phần của quy trình thiết lập máy tính để bàn
+* Chỉ hỗ trợ tiếng Trung và tiếng Anh
+* Có một số vấn đề với bản dịch tiếng Anh
+* Có ít tài nguyên trực tuyến hơn so với các ví đã được thiết lập
 
-[**Download Token Pocket Desktop Wallet**](https://www.tokenpocket.pro/en/download/pc) (MacOS or Win64)
+[**Tải Ví Token Pocket cho Máy Tính**](https://www.tokenpocket.pro/en/download/pc) (MacOS hoặc Win64)
 
-**Token Pocket Desktop Setup Guide**
+**Hướng dẫn thiết lập Token Pocket cho Máy Tính**
 
-The desktop version of Token Pocket will ask you to import a private key. Please make sure you’re familiar with and understand the importance of a private key before you proceed.
+Phiên bản máy tính để bàn của Token Pocket sẽ yêu cầu bạn nhập khóa riêng tư. Vui lòng đảm bảo bạn đã quen và hiểu tầm quan trọng của khóa riêng tư trước khi tiếp tục.
 
-Token Pocket is an open source project, so the code is publicly visible and generally considered safe. Even so, your private keys are your responsibility, so only use them with applications you trust and can verify.
+Token Pocket là dự án mã nguồn mở, vì vậy mã nguồn có thể nhìn thấy công khai và thường được coi là an toàn. Dù vậy, khóa riêng tư là trách nhiệm của bạn, vì vậy chỉ sử dụng chúng với các ứng dụng bạn tin tưởng và có thể xác minh.
 
-1. Visit the Token Pocket website on your PC and click the **Desktop** button.
+1. Truy cập trang web Token Pocket trên PC của bạn và nhấp vào nút **Desktop**.
 
 ![](https://lh3.googleusercontent.com/8BvpBrdR19cHhjJq0_xOFQwpTDLaYUxqLAM03JPFzBPz93SHl3n84Dw_kICcfOR80iVZFS1QfYsexEUMNnchMLGSH11lHKMqBQWAJUZy7yd0LM6jaFrwRGt5EluBRo_uDqJBqbg2)
 
-1. On the next page, click the button for your operating system and wait for your download to finish. This guide uses Windows, but the process is largely the same on Mac OS.
+1. Trên trang tiếp theo, nhấp vào nút cho hệ điều hành của bạn và chờ tải xuống hoàn tất. Hướng dẫn này sử dụng Windows, nhưng quy trình về cơ bản là giống nhau trên Mac OS.
 
 ![](https://lh3.googleusercontent.com/SrYkM-cFg_tO3RcTlYv2Rq4pViUzRSw5el_JR8SnQYDmvVYupjJveTUXHr8QPeo30Ooc4EHBKEuYjxM1JbtirRHitGJtZ-2ET_Xk5a5DRbhqwyJToToii-s6Ch195p5o3Eo4Ajnm)
 
-1. Run the installation file. It will ask you to choose between making Token Pocket available to everyone using the computer, or just the current user. For your security, we recommend current user only.
+1. Chạy tệp cài đặt. Nó sẽ yêu cầu bạn chọn giữa việc làm cho Token Pocket khả dụng cho tất cả mọi người dùng máy tính, hoặc chỉ người dùng hiện tại. Để bảo mật, chúng tôi khuyến nghị chỉ người dùng hiện tại.
 
 ![](https://lh3.googleusercontent.com/EnmEle5PcVenTxE7jEtEHhQxeXwKjhzlOkZH67ByFLAIo4RMife2u4n36uDDGjTB8h64KxS0wmlI8FKAbxB6KvjvhD-WgCqdKpyUP1YM4tmxqTzjLGPuqDmf5ABTyY_5-wG7ppgG)
 
-1. Enter a destination folder to install to and click **Install**.
+1. Nhập thư mục đích để cài đặt và nhấp **Install**.
 
 ![](https://lh6.googleusercontent.com/ED7cl2_ZGBkUvM-A7CpE_bRNfdLQ8DcD2qmq6KaGAUIZTi_06f7BA_m-xBhoFzrczfTZQENsYji2Xlh_DNh0zWpmRnuo45HKX2r8zJxrBtqXkuPgxfCd4jAIvMytHu6iT_ZPRxmI)
 
-1. Once the installation is finished, click **Finish** and run Token Pocket.
-2. When Token Pocket opens, you may find yourself looking at a Chinese interface. You can change to English by clicking EN in the bottom-left corner.
+1. Sau khi cài đặt hoàn tất, nhấp **Finish** và chạy Token Pocket.
+2. Khi Token Pocket mở ra, bạn có thể thấy giao diện bằng tiếng Trung. Bạn có thể chuyển sang tiếng Anh bằng cách nhấp EN ở góc dưới bên trái.
 
 ![](https://lh6.googleusercontent.com/V3VS6TaN0rJtfqjzCo5QEtS1ywJn_bmmB2hKWLbUGRy_-Pk83kGfu9feB35VAi4TC7BHKTqkApDagBuWP7XS3tVNzhcMPmANGqLlsOecumQpMMisvUBiABqi05351e7cNUgktWsO)
 
-1. Token Pocket will be asking you to create a password. Make sure you use something that’s hard to guess; the longer the password is, the more secure. When you’re done, click **Confirm**.
+1. Token Pocket sẽ yêu cầu bạn tạo mật khẩu. Hãy đảm bảo bạn sử dụng thứ gì đó khó đoán; mật khẩu càng dài thì càng an toàn. Khi xong, nhấp **Confirm**.
 
 ![](https://lh5.googleusercontent.com/GQqBU7OEK7BQuJc4NiOHEqt3kjO-B6jM6AAv3PFD6DoYuXywuOz6365Z5rPmNtkigWSg3f1_zzvoHfWAUvqIpEKaAajkDxVwlaWAljIW1ZGdgSwqECVa2CwgtS_vOOcX8faW19gB)
 
-1. On the next page, Token Pocket will be asking you to import a private key. This may be intimidating, but Token Pocket will work as an interface for your existing wallet. You’ll need to get your private from whatever existing wallet you want to use.
+1. Trên trang tiếp theo, Token Pocket sẽ yêu cầu bạn nhập khóa riêng tư. Điều này có thể đáng sợ, nhưng Token Pocket sẽ hoạt động như một giao diện cho ví hiện có của bạn. Bạn sẽ cần lấy khóa riêng tư từ bất kỳ ví hiện có nào bạn muốn sử dụng.
 
-Here is a [guide for getting your private key from MetaMask](https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key). To import your private key from the mobile version of Token Pocket, see the Mobile Token Pocket tab higher up this page. If you use another wallet and don’t know how to get your private key, you’ll need to find a guide.
+Đây là [hướng dẫn lấy khóa riêng tư từ MetaMask](https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key). Để nhập khóa riêng tư từ phiên bản di động của Token Pocket, xem tab Token Pocket trên di động cao hơn trong trang này. Nếu bạn sử dụng ví khác và không biết cách lấy khóa riêng tư, bạn sẽ cần tìm hướng dẫn.
 
 {% hint style="warning" %}
-Please be extremely careful with how you handle your private keys. Giving your private keys to someone will give them full access to your coins! Token Pocket is an open source project and will use your private key to import your wallet. Even so, only use your private key with applications you trust and can verify are legitimate!
+Vui lòng hết sức cẩn thận với cách bạn xử lý khóa riêng tư. Cung cấp khóa riêng tư cho ai đó sẽ cấp cho họ quyền truy cập đầy đủ vào coin của bạn! Token Pocket là dự án mã nguồn mở và sẽ sử dụng khóa riêng tư của bạn để nhập ví. Dù vậy, chỉ sử dụng khóa riêng tư với các ứng dụng bạn tin tưởng và có thể xác minh là hợp lệ!
 {% endhint %}
 
 ![](https://lh5.googleusercontent.com/1ZNrWBvjfL_1joVAxKQVdXbQnGFmbyw1PXAqgAGwaH73KAkrFgJR8N_pYBJwY_FTyXy-y_fRuks3Ne_n-9xJWVEvOg9NnNMup82smXwGYnDzPqV4Wc9E_CCE9WKPX9nAP-SoPhxM)
 
-1. Once you’ve entered your private key, click the **Ethereum** network for now.
+1. Sau khi nhập khóa riêng tư, nhấp vào mạng **Ethereum** tạm thời.
 
 ![](https://lh5.googleusercontent.com/g_iZzJZAPhsBQUBgQqTvLO1HfuGnCGZDkRD3DFu4g4GPat901700Qk3aBx8Fx5AzY2PH7JYajGM4-4fXm6icPWB-8R5wQQst-W3NWJ6n0Rh_bbPKXnXrO4h_JEgu7wtey11EuCN-)
 
-And that’s it, all done! You can follow our [Connect Your Wallet to PancakeSwap guide](https://docs.pancakeswap.finance/get-started/connection-guide) to connect to BNB Smart Chain and PancakeSwap.
+Và thế là xong, đã hoàn tất! Bạn có thể làm theo [hướng dẫn Kết Nối Ví của Bạn với PancakeSwap](https://docs.pancakeswap.finance/get-started/connection-guide) để kết nối với BNB Smart Chain và PancakeSwap.
 {% endtab %}
 {% endtabs %}
 
 {% hint style="danger" %}
-NEVER, in any situation, should you ever give someone your private key or recovery phrase ("seed phrase"). This will give someone complete access to your crypto!
+KHÔNG BAO GIỜ, trong bất kỳ tình huống nào, bạn nên cung cấp khóa riêng tư hoặc cụm từ khôi phục ("seed phrase") cho bất kỳ ai. Điều này sẽ cấp cho ai đó quyền truy cập hoàn toàn vào tiền mã hóa của bạn!
 
-The genuine PancakeSwap site and staff will never ask you to input your seed phrase.
+Trang web và nhân viên PancakeSwap thực sự sẽ không bao giờ yêu cầu bạn nhập seed phrase.
 {% endhint %}

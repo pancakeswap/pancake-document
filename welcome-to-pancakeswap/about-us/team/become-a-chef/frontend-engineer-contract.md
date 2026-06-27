@@ -2,40 +2,40 @@
 hidden: true
 ---
 
-# Frontend Engineer (Contract)
+# Kỹ Sư Frontend (Hợp Đồng)
 
-### General Information
+### Thông Tin Chung
 
-* Salary range: Competitive, negotiable
-* **Duration: 1 - 2 quarters**
-* Position: Full-time / Part-time
-* Location: Remote
-* Time-zone preference: Any
+* Mức lương: Cạnh tranh, có thể thương lượng
+* **Thời hạn: 1 - 2 quý**
+* Vị trí: Toàn thời gian / Bán thời gian
+* Địa điểm: Làm việc từ xa
+* Ưu tiên múi giờ: Bất kỳ
 
-### Your Responsibilities
+### Trách Nhiệm Của Bạn
 
-* Design and build an iOS / Android application for PancakeSwap in accordance to our requirements.
-* Envision and develop features to help grow the application.
-* Enthusiastically collaborate with a small team to plan projects at the task level.
-* Collaborate with cross-functional partners on all aspects of product development.
+* Thiết kế và xây dựng ứng dụng iOS / Android cho PancakeSwap theo yêu cầu của chúng tôi.
+* Hình dung và phát triển các tính năng giúp phát triển ứng dụng.
+* Nhiệt tình cộng tác với một đội nhỏ để lập kế hoạch dự án ở cấp độ nhiệm vụ.
+* Cộng tác với các đối tác xuyên chức năng trong tất cả các khía cạnh của phát triển sản phẩm.
 
-### Skills & Qualifications
+### Kỹ Năng & Trình Độ
 
-* 3-5 years of experience in building decentralised applications
-* Solid experience in Typescript and React JS.
-* Ability to write structured and clean code.
-* Experience with Javascript testing tools.
-* Experience with modern front-end build pipelines and tools.
-* Experience with defining and delivering scalable frontend architectures.
-* Some experience with GraphQL.
-* Experience working with Web3 and a decentralized application frontend.
-* Ability to work independently and innovate.
+* 3-5 năm kinh nghiệm xây dựng các ứng dụng phi tập trung
+* Kinh nghiệm vững chắc với Typescript và React JS.
+* Khả năng viết mã cấu trúc và sạch.
+* Kinh nghiệm với các công cụ kiểm thử Javascript.
+* Kinh nghiệm với các pipeline và công cụ xây dựng frontend hiện đại.
+* Kinh nghiệm xác định và phân phối các kiến trúc frontend có thể mở rộng.
+* Một số kinh nghiệm với GraphQL.
+* Kinh nghiệm làm việc với Web3 và frontend ứng dụng phi tập trung.
+* Khả năng làm việc độc lập và sáng tạo.
 
-### Good to have
+### Điểm Cộng
 
-* Understanding of Solidity and AMMs
-* Understanding of PancakeSwap products
+* Hiểu biết về Solidity và AMM
+* Hiểu biết về các sản phẩm PancakeSwap
 
-### How to apply:
+### Cách thức ứng tuyển:
 
-Email hiring@pancakeswap.com with your resume!
+Gửi email đến hiring@pancakeswap.com kèm CV của bạn!

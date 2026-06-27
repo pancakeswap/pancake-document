@@ -2,35 +2,35 @@
 hidden: true
 ---
 
-# QA Engineer
+# Kỹ Sư QA
 
-### General Information
+### Thông Tin Chung
 
-* Salary range: Competitive, negotiable
-* Position: Full-time
-* Location: Remote
-* Time-zone preference: Any
+* Mức lương: Cạnh tranh, có thể thương lượng
+* Vị trí: Toàn thời gian
+* Địa điểm: Làm việc từ xa
+* Ưu tiên múi giờ: Bất kỳ
 
-### Your Responsibilities
+### Trách Nhiệm Của Bạn
 
-* Collaborate in the design of test plans for new features and releases
-* Triage reported defects, verify and reproduce regressions
-* Document bug reports and update according to different phases of issues lifecycle
-* Conduct functional, integration, regression, and performance testing for Web3 dApps and crypto wallet interactions.
-* Coordination with team members on the organization and execution of testing activities
-* Ensure test coverage across blockchain-specific features such as wallet integration, transaction handling, and smart contract interactions.
-* Manual tests on mobile devices (Android, iOS) and desktop apps on Windows, Mac and Linux
+* Cộng tác trong việc thiết kế kế hoạch kiểm thử cho các tính năng và phiên bản mới
+* Phân loại các lỗi được báo cáo, xác minh và tái tạo các hồi quy
+* Lập tài liệu báo cáo lỗi và cập nhật theo các giai đoạn khác nhau của vòng đời vấn đề
+* Thực hiện kiểm thử chức năng, tích hợp, hồi quy và hiệu suất cho các dApp Web3 và tương tác ví crypto.
+* Phối hợp với các thành viên đội trong tổ chức và thực hiện các hoạt động kiểm thử
+* Đảm bảo phạm vi kiểm thử trên các tính năng đặc thù của blockchain như tích hợp ví, xử lý giao dịch và tương tác hợp đồng thông minh.
+* Kiểm thử thủ công trên thiết bị di động (Android, iOS) và ứng dụng desktop trên Windows, Mac và Linux
 
-### Skills & Qualifications
+### Kỹ Năng & Trình Độ
 
-* Familiarity with blockchain technologies, DeFi, NFTs, and the broader Web3 ecosystem.
-* Proven experience with Web3 dApps and crypto wallets (e.g., MetaMask, WalletConnect, hardware wallets).
-* Strong knowledge of QA methodologies, testing strategies, and software development lifecycle.
-* Hands-on experience with both server-side and client-side QA testing.
-* Excellent problem-solving skills, with the ability to work independently and learn new technologies quickly.
-* Strong communication skills and attention to detail.
+* Quen thuộc với các công nghệ blockchain, DeFi, NFT và hệ sinh thái Web3 rộng hơn.
+* Kinh nghiệm đã được chứng minh với các dApp Web3 và ví crypto (ví dụ: MetaMask, WalletConnect, ví phần cứng).
+* Kiến thức vững chắc về các phương pháp QA, chiến lược kiểm thử và vòng đời phát triển phần mềm.
+* Kinh nghiệm thực hành với kiểm thử QA phía server và phía client.
+* Kỹ năng giải quyết vấn đề xuất sắc, với khả năng làm việc độc lập và học các công nghệ mới nhanh chóng.
+* Kỹ năng giao tiếp mạnh mẽ và chú ý đến chi tiết.
 
-### Good to have
+### Điểm Cộng
 
-* Experience with e2e testing framework (e.g. Puppeteer, Playwright, Cypress)
-* Understanding of DeFi protocols and their underlying mechanisms.
+* Kinh nghiệm với framework kiểm thử e2e (ví dụ: Puppeteer, Playwright, Cypress)
+* Hiểu biết về các giao thức DeFi và các cơ chế cơ bản của chúng.

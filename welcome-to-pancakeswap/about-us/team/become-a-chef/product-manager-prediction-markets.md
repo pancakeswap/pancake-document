@@ -2,34 +2,34 @@
 hidden: true
 ---
 
-# Product Manager \[Prediction Markets]
+# Quản Lý Sản Phẩm \[Thị Trường Dự Đoán]
 
-Probable is a zero-fee, on-chain prediction market platform launched on BNB Chain, incubated by PancakeSwap and supported by YZi Labs. It focuses on user-friendly predictions across crypto, sports, global events, and regional markets, with features like automatic token conversion to USDT and outcomes resolved via UMA's Optimistic Oracle.
+Probable là nền tảng thị trường dự đoán on-chain không phí, ra mắt trên BNB Chain, được ươm tạo bởi PancakeSwap và được hỗ trợ bởi YZi Labs. Nền tảng tập trung vào các dự đoán thân thiện với người dùng về crypto, thể thao, sự kiện toàn cầu và thị trường khu vực, với các tính năng như tự động chuyển đổi token sang USDT và kết quả được giải quyết qua Optimistic Oracle của UMA.
 
-As a recently launched project (unveiled in December 2025), Probable appears to operate with a small or integrated team, likely leveraging PancakeSwap's pseudonymous "Kitchen" structure.
+Là một dự án mới ra mắt (công bố vào tháng 12 năm 2025), Probable có vẻ hoạt động với một đội nhỏ hoặc đội tích hợp, có thể tận dụng cấu trúc "Kitchen" ẩn danh của PancakeSwap.
 
-Given its incubation by PancakeSwap, product strategy and execution are managed through their existing team. The closest equivalent is PancakeSwap's Product Manager position, which involves end-to-end product development in a DeFi/crypto context.&#x20;
+Do được ươm tạo bởi PancakeSwap, chiến lược và thực thi sản phẩm được quản lý thông qua đội ngũ hiện có của họ. Tương đương gần nhất là vị trí Quản Lý Sản Phẩm của PancakeSwap, liên quan đến phát triển sản phẩm đầu cuối trong bối cảnh DeFi/crypto.&#x20;
 
-#### Responsibilities
+#### Trách Nhiệm
 
-* Collaborate with internal stakeholders (leads, design, devs, bd, marketing, qa, data, ops) to craft future products from 0 to 1.
-* Perform market research and identify potential product use cases.
-* Turn requirements and ideas from other stakeholders into complete designs.
-* Visualise userflow with wireframe and assist design to complete the UI/UX.
-* Assist and work with the dev team to build the product.
-* Resolve product issues with qa team.
-* Plan GTM strategies and campaigns with marketing team.
-* Coordinate with external members from partners.
-* Help ops team to perform product deployment.
-* Analyse data and improve product experience with data team.
-* Gather info, provide options to other stakeholders to make critical decisions when needed.
-* Able to work remotely, autonomously with great self initiative.
+* Cộng tác với các bên liên quan nội bộ (trưởng nhóm, thiết kế, devs, bd, marketing, qa, dữ liệu, ops) để tạo ra các sản phẩm trong tương lai từ 0 đến 1.
+* Thực hiện nghiên cứu thị trường và xác định các trường hợp sử dụng sản phẩm tiềm năng.
+* Chuyển đổi các yêu cầu và ý tưởng từ các bên liên quan khác thành thiết kế hoàn chỉnh.
+* Hình ảnh hóa luồng người dùng với wireframe và hỗ trợ thiết kế để hoàn thiện UI/UX.
+* Hỗ trợ và làm việc với đội dev để xây dựng sản phẩm.
+* Giải quyết các vấn đề sản phẩm với đội qa.
+* Lên kế hoạch chiến lược GTM và chiến dịch với đội marketing.
+* Phối hợp với các thành viên bên ngoài từ các đối tác.
+* Hỗ trợ đội ops thực hiện triển khai sản phẩm.
+* Phân tích dữ liệu và cải thiện trải nghiệm sản phẩm với đội dữ liệu.
+* Thu thập thông tin, cung cấp các lựa chọn cho các bên liên quan khác để đưa ra quyết định quan trọng khi cần.
+* Có thể làm việc từ xa, tự chủ với sự chủ động tuyệt vời.
 
-#### Skills & Qualifications
+#### Kỹ Năng & Trình Độ
 
-* 3+ years experience in Crypto/DeFi/DEX and financial services/products.
-* Experience in full flow of product development. Nice to Have.
-* Technical background of blockchain and Web3 (to assist dev team to plan ahead when designing products. Think inside of the blockchain limitations, but think outside of the box for solutions).
-* Skills for blockchain deep dive, tx debug (to better assist qa and ops).
-* Figma skills (to build pretty mock-ups on your own with a design system).
-* Mandarin (to communicate with some other skillful bunnies).
+* 3+ năm kinh nghiệm trong Crypto/DeFi/DEX và dịch vụ/sản phẩm tài chính.
+* Kinh nghiệm trong quy trình phát triển sản phẩm đầy đủ. Điểm cộng.
+* Nền tảng kỹ thuật về blockchain và Web3 (để hỗ trợ đội dev lên kế hoạch trước khi thiết kế sản phẩm. Suy nghĩ trong giới hạn blockchain, nhưng suy nghĩ ngoài hộp cho các giải pháp).
+* Kỹ năng phân tích sâu blockchain, debug tx (để hỗ trợ tốt hơn cho qa và ops).
+* Kỹ năng Figma (để tự xây dựng mockup đẹp với hệ thống thiết kế).
+* Tiếng Trung (để giao tiếp với một số thỏ khéo léo khác).

@@ -1,7 +1,7 @@
-# Become a Chef
+# Trở Thành Đầu Bếp
 
-![](../../../../.gitbook/assets/become-a-chef-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/become-a-chef-header.png)
 
-Interested in joining the PancakeSwap team? If you're passionate, dedicated, and a fan of all things fluffy, syrupy, and brownish-gold, we'd love to hear from you!
+Bạn có muốn tham gia đội ngũ PancakeSwap không? Nếu bạn đam mê, tận tụy, và yêu thích tất cả mọi thứ mềm mịn, ngọt ngào và vàng nâu, chúng tôi rất muốn nghe từ bạn!
 
-Check out the positions available for more information. Nothing there that suits your talents? Check back later. We'll have more openings in the future.&#x20;
+Hãy xem các vị trí hiện có để biết thêm thông tin. Không có vị trí nào phù hợp với tài năng của bạn? Hãy quay lại sau. Chúng tôi sẽ có thêm nhiều vị trí mở trong tương lai.&#x20;

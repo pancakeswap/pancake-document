@@ -2,36 +2,36 @@
 hidden: true
 ---
 
-# Product Marketing Manager
+# Quản Lý Marketing Sản Phẩm
 
-**General Information**\
-Job Title: Product Marketing Manager\
-Location: Remote (Timezone: UTC+8)\
-Position: Full-time
+**Thông Tin Chung**\
+Chức danh: Quản Lý Marketing Sản Phẩm\
+Địa điểm: Làm việc từ xa (Múi giờ: UTC+8)\
+Vị trí: Toàn thời gian
 
-**Job Description:**\
-We’re looking for a Product Marketing Manager who’s active in the DeFi space and excited to ship DeFi products and campaigns with us. This role requires a strong understanding of DeFi and DEX mechanics, along with the ability to execute quickly and effectively.
+**Mô Tả Công Việc:**\
+Chúng tôi đang tìm kiếm một Quản Lý Marketing Sản Phẩm đang hoạt động trong không gian DeFi và hứng khởi với việc triển khai các sản phẩm và chiến dịch DeFi cùng chúng tôi. Vai trò này đòi hỏi hiểu biết vững chắc về cơ chế DeFi và DEX, cùng với khả năng thực thi nhanh chóng và hiệu quả.
 
-If you love working across teams, know what gets the DeFi community hyped, and have experience shipping product campaigns, we want to hear from you.
+Nếu bạn thích làm việc xuyên đội, biết điều gì khiến cộng đồng DeFi hứng khởi và có kinh nghiệm triển khai các chiến dịch sản phẩm, chúng tôi muốn nghe từ bạn.
 
-**Key Responsibilities:**
+**Trách Nhiệm Chính:**
 
-* Own product messaging across PancakeSwap’s products (DEX, liquidity, etc)
-* Create and execute product marketing campaigns that drive user acquisition, trading volumes, and product adoption.
-* Lead product and GTM launches: crafting product narratives, announcements, and campaign rollouts
-* Turn product features into clear and compelling messaging for all users
-* Track performance (like TVL, user retention, volume) and adjust campaigns based on data
-* Collaborate closely with Product Managers, Business Development Managers, Data Analysts, and the broader Marketing team to deliver successful and aligned product launches.
+* Sở hữu thông điệp sản phẩm trên các sản phẩm của PancakeSwap (DEX, thanh khoản, v.v.)
+* Tạo ra và thực thi các chiến dịch marketing sản phẩm thúc đẩy thu hút người dùng, khối lượng giao dịch và việc áp dụng sản phẩm.
+* Dẫn đầu các buổi ra mắt sản phẩm và GTM: tạo ra các câu chuyện sản phẩm, thông báo và triển khai chiến dịch
+* Chuyển đổi các tính năng sản phẩm thành thông điệp rõ ràng và hấp dẫn cho tất cả người dùng
+* Theo dõi hiệu suất (như TVL, giữ chân người dùng, khối lượng) và điều chỉnh chiến dịch dựa trên dữ liệu
+* Cộng tác chặt chẽ với Quản Lý Sản Phẩm, Quản Lý Phát Triển Kinh Doanh, Chuyên Viên Phân Tích Dữ Liệu và đội Marketing rộng hơn để phân phối các buổi ra mắt sản phẩm thành công và thống nhất.
 
-**Requirements:**
+**Yêu Cầu:**
 
-* 2+ years experience in a product marketing role
-* 2+ years working in crypto, DeFi, or Web3
-* Proven track record of launching products and product campaigns
-* Analytic mindset with experience using tools like Dune, Google Analytics
-* Strong written and spoken English
-* You know the DeFi culture, what the community likes, and what kind of content hits
-* You enjoy working in a fast-paced environment with a results-oriented mindset
+* 2+ năm kinh nghiệm trong vai trò marketing sản phẩm
+* 2+ năm làm việc trong crypto, DeFi hoặc Web3
+* Hồ sơ đã được chứng minh về việc ra mắt sản phẩm và chiến dịch sản phẩm
+* Tư duy phân tích với kinh nghiệm sử dụng các công cụ như Dune, Google Analytics
+* Tiếng Anh viết và nói mạnh mẽ
+* Bạn biết văn hóa DeFi, cộng đồng thích gì và loại nội dung nào hiệu quả
+* Bạn thích làm việc trong môi trường nhanh nhẹn với tư duy hướng tới kết quả
 
-**How to Apply:**\
-Shoot your resume over to hiring@pancakeswap.com, we’d love to hear from you!
+**Cách Ứng Tuyển:**\
+Gửi CV của bạn đến hiring@pancakeswap.com, chúng tôi rất muốn nghe từ bạn!

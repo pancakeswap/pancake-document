@@ -2,38 +2,38 @@
 hidden: true
 ---
 
-# Community Lead
+# Trưởng Cộng Đồng
 
-## General Information:
+## Thông Tin Chung:
 
-* Location: Remote
-* Position: Full-time
-* Time-zone Preference: GMT+8, +/-4 hours flexibility
+* Địa điểm: Làm việc từ xa
+* Vị trí: Toàn thời gian
+* Ưu tiên Múi Giờ: GMT+8, linh hoạt +/-4 giờ
 
-We’re seeking a highly motivated and experienced Community Lead to join our team at PancakeSwap. This remote, full-time position offers an exciting opportunity to shape and drive our global community strategy, with a particular emphasis on expanding our presence in Asia and Europe. As the Community Lead, you will spearhead our ambassador program, enhance engagement across our community channels, and represent PancakeSwap at key events and public forums. The ideal candidate will have a deep understanding of the DeFi landscape, excellent bilingual communication skills, and a proven track record in community management.&#x20;
+Chúng tôi đang tìm kiếm một Trưởng Cộng Đồng có kinh nghiệm và động lực cao để gia nhập đội ngũ PancakeSwap. Vị trí toàn thời gian làm việc từ xa này mang đến cơ hội thú vị để định hình và thúc đẩy chiến lược cộng đồng toàn cầu của chúng tôi, với đặc biệt nhấn mạnh vào việc mở rộng sự hiện diện tại Châu Á và Châu Âu. Với tư cách là Trưởng Cộng Đồng, bạn sẽ dẫn đầu chương trình đại sứ của chúng tôi, tăng cường sự tham gia trên các kênh cộng đồng và đại diện PancakeSwap tại các sự kiện và diễn đàn công khai quan trọng. Ứng viên lý tưởng sẽ có hiểu biết sâu sắc về bối cảnh DeFi, kỹ năng giao tiếp song ngữ xuất sắc và hồ sơ được chứng minh trong quản lý cộng đồng.&#x20;
 
-## Key Responsibilities:
+## Trách Nhiệm Chính:
 
-* Develop and execute a comprehensive global community strategy for PancakeSwap, focusing on increasing engagement and presence in Asia and Europe.
-* Lead and expand the ambassador program by recruiting, training, and supporting ambassadors to grow PancakeSwap’s presence globally through content creation, meet-ups, and events.
-* Act as the primary spokesperson for PancakeSwap, representing the team in AMAs, conferences, and other public speaking engagements.
-* Organize and coordinate meet-ups, workshops, and other community events globally. Travel as required to attend and support events.
-* Drive the growth and engagement of community channels such as Telegram, Discord, and other relevant platforms.
-* Collaborate with local content creators and influencers to produce engaging and relevant content that aligns with PancakeSwap’s brand and goals.
+* Phát triển và thực hiện chiến lược cộng đồng toàn cầu toàn diện cho PancakeSwap, tập trung vào việc tăng sự tham gia và hiện diện tại Châu Á và Châu Âu.
+* Dẫn đầu và mở rộng chương trình đại sứ bằng cách tuyển dụng, đào tạo và hỗ trợ các đại sứ để phát triển sự hiện diện toàn cầu của PancakeSwap thông qua tạo nội dung, buổi gặp mặt và sự kiện.
+* Đóng vai trò là người phát ngôn chính của PancakeSwap, đại diện đội ngũ trong các buổi AMA, hội nghị và các hoạt động diễn thuyết công khai khác.
+* Tổ chức và phối hợp các buổi gặp mặt, hội thảo và các sự kiện cộng đồng khác trên toàn cầu. Di chuyển khi cần thiết để tham dự và hỗ trợ sự kiện.
+* Thúc đẩy sự tăng trưởng và tham gia của các kênh cộng đồng như Telegram, Discord và các nền tảng liên quan khác.
+* Hợp tác với các nhà sáng tạo nội dung và người có ảnh hưởng địa phương để sản xuất nội dung hấp dẫn và phù hợp phù hợp với thương hiệu và mục tiêu của PancakeSwap.
 
-## Skills & Qualifications:
+## Kỹ Năng & Trình Độ:
 
-* Bachelor’s degree in Marketing, Communications, Journalism, or a related field.
-* Minimum of 3 years of experience in crypto community management, with a strong focus on Asia and Europe.
-* Fluent in English and Chinese (both spoken and written). Additional languages are a plus.
-* Deep understanding of DeFi, degen marketing strategies, and the broader cryptocurrency ecosystem.
-* Excellent verbal and written communication skills, with the ability to engage and motivate a global audience.
-* Proven ability to manage and prioritize multiple projects and meet deadlines in a fast-paced environment.
-* Proactive, results-oriented, and capable of taking initiative to drive community growth and engagement.
-* Experience in facilitating collaboration and communication across a diverse, international team.
+* Bằng Cử nhân về Marketing, Truyền thông, Báo chí hoặc lĩnh vực liên quan.
+* Tối thiểu 3 năm kinh nghiệm trong quản lý cộng đồng crypto, với trọng tâm mạnh mẽ vào Châu Á và Châu Âu.
+* Thông thạo tiếng Anh và tiếng Trung (cả nói và viết). Các ngôn ngữ bổ sung là điểm cộng.
+* Hiểu biết sâu sắc về DeFi, các chiến lược marketing degen và hệ sinh thái tiền điện tử rộng hơn.
+* Kỹ năng giao tiếp bằng lời nói và văn bản xuất sắc, với khả năng thu hút và thúc đẩy khán giả toàn cầu.
+* Khả năng đã được chứng minh trong việc quản lý và ưu tiên nhiều dự án và đáp ứng thời hạn trong môi trường nhanh nhẹn.
+* Chủ động, hướng tới kết quả và có khả năng chủ động thúc đẩy tăng trưởng và tham gia cộng đồng.
+* Kinh nghiệm trong việc tạo điều kiện hợp tác và giao tiếp trong đội ngũ quốc tế đa dạng.
 
-## How to apply:
+## Cách thức ứng tuyển:
 
-Email hiring@pancakeswap.com with your resume!
+Gửi email đến hiring@pancakeswap.com kèm CV của bạn!
 
 <br>

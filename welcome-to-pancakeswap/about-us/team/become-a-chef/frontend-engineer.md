@@ -2,46 +2,46 @@
 hidden: true
 ---
 
-# Senior Frontend Engineer
+# Kỹ Sư Frontend Cấp Cao
 
-### General Information
+### Thông Tin Chung
 
-* Salary range: Competitive, negotiable
-* Position: Full-time
-* Location: Remote
-* Time-zone preference: Any
+* Mức lương: Cạnh tranh, có thể thương lượng
+* Vị trí: Toàn thời gian
+* Địa điểm: Làm việc từ xa
+* Ưu tiên múi giờ: Bất kỳ
 
-### Your Responsibilities
+### Trách Nhiệm Của Bạn
 
-* Design, scope, and estimate complex frontend products/upgrades.
-* Envision and develop features to help grow PancakeSwap.
-* Enthusiastically collaborate with a small team to plan projects at the task level.
-* Collaborate with cross-functional partners on all aspects of product development.
-* Identify and advocate for team-wide areas of improvement and best practices.
+* Thiết kế, phạm vi và ước tính các sản phẩm/nâng cấp frontend phức tạp.
+* Hình dung và phát triển các tính năng giúp phát triển PancakeSwap.
+* Nhiệt tình cộng tác với một đội nhỏ để lập kế hoạch dự án ở cấp độ nhiệm vụ.
+* Cộng tác với các đối tác xuyên chức năng trong tất cả các khía cạnh của phát triển sản phẩm.
+* Xác định và vận động cho các lĩnh vực cải thiện và phương pháp tốt nhất trên toàn đội.
 
-### Skills & Qualifications
+### Kỹ Năng & Trình Độ
 
-* Solid experience with TypeScript, React.js, and Node.js.
-* 5+ years of professional experience building responsive/adaptive web applications.
-* Strong ability to write clean, maintainable, and well-structured code.
-* Experience with JavaScript testing frameworks.
-* Proficiency with modern frontend build pipelines and tools.
-* Experience architecting and delivering scalable frontend solutions.
-* Hands-on experience with Web3 and decentralized application frontends, including familiarity with modern Web3 libraries (e.g., viem, wagmi).
-* Exposure to GraphQL.
+* Kinh nghiệm vững chắc với TypeScript, React.js và Node.js.
+* 5+ năm kinh nghiệm chuyên nghiệp xây dựng ứng dụng web responsive/adaptive.
+* Khả năng mạnh mẽ viết mã sạch, có thể duy trì và có cấu trúc tốt.
+* Kinh nghiệm với các framework kiểm thử JavaScript.
+* Thành thạo với các pipeline và công cụ xây dựng frontend hiện đại.
+* Kinh nghiệm thiết kế kiến trúc và phân phối các giải pháp frontend có thể mở rộng.
+* Kinh nghiệm thực hành với Web3 và frontend ứng dụng phi tập trung, bao gồm quen thuộc với các thư viện Web3 hiện đại (ví dụ: viem, wagmi).
+* Tiếp xúc với GraphQL.
 
-### Key Traits
+### Đặc Điểm Chính
 
-* **Eager to learn:** Excited to dive into new tools and technologies.
-* **Self-driven:** Comfortable doing your own research and turning findings into practical solutions.
-* **Fast learner:** Able to quickly adapt to evolving requirements and environments.
-* **Innovative mindset:** Proactively looks for ways to improve products and workflows.
+* **Háo hức học hỏi:** Hào hứng khám phá các công cụ và công nghệ mới.
+* **Tự định hướng:** Thoải mái tự nghiên cứu và chuyển đổi kết quả thành giải pháp thực tế.
+* **Học nhanh:** Có khả năng thích nghi nhanh chóng với các yêu cầu và môi trường thay đổi.
+* **Tư duy sáng tạo:** Chủ động tìm cách cải thiện sản phẩm và quy trình làm việc.
 
-### Good to have
+### Điểm Cộng
 
-* Understanding of Solidity.
-* Familiarity with DEX protocols (not limited to PancakeSwap v2, v3, and Infinity).
+* Hiểu biết về Solidity.
+* Quen thuộc với các giao thức DEX (không giới hạn ở PancakeSwap v2, v3 và Infinity).
 
-### How to apply
+### Cách thức ứng tuyển
 
-Email hiring@pancakeswap.com with your resume!
+Gửi email đến hiring@pancakeswap.com kèm CV của bạn!

@@ -2,34 +2,34 @@
 hidden: true
 ---
 
-# Brand / Graphics Designer
+# Nhà Thiết Kế Thương Hiệu / Đồ Họa
 
-### **General Information**
+### **Thông Tin Chung**
 
-* Salary range: Competitive, negotiable
-* Position: Full-time
-* Location: Remote
+* Mức lương: Cạnh tranh, có thể thương lượng
+* Vị trí: Toàn thời gian
+* Địa điểm: Làm việc từ xa
 
-### Roles & Responsibilities:
+### Vai Trò & Trách Nhiệm:
 
-* Design and develop characters and graphics for our brand in both 2D and 3D visuals.
-* Ensure visual consistency across the brand.
-* Create visual assets to support the Marketing team’s requirements, including banners, infographics, mockups, event collaterals, and more.
-* Take ownership of the design process on marketing event materials, ensuring designs are optimized for printing.
-* Work effectively with marketing, product operations, and business development teams to drive design initiatives and maintain a unified brand vision.
+* Thiết kế và phát triển nhân vật và đồ họa cho thương hiệu của chúng tôi ở cả hình ảnh 2D và 3D.
+* Đảm bảo tính nhất quán về mặt hình ảnh trên toàn bộ thương hiệu.
+* Tạo các tài sản hình ảnh để hỗ trợ các yêu cầu của đội ngũ Marketing, bao gồm banner, infographic, mockup, tài liệu sự kiện và hơn thế nữa.
+* Chịu trách nhiệm về quy trình thiết kế cho tài liệu sự kiện marketing, đảm bảo các thiết kế được tối ưu hóa cho việc in ấn.
+* Làm việc hiệu quả với các đội ngũ marketing, vận hành sản phẩm và phát triển kinh doanh để thúc đẩy các sáng kiến thiết kế và duy trì tầm nhìn thương hiệu thống nhất.
 
-### Requirements
+### Yêu Cầu
 
-* Design Tools: Proficiency in tools that create consistent, high-quality visuals (e.g., Adobe Creative Suite, 3D design tools, Figma, or even AI design tools).
-* Experience: Minimum of 3 years of full-time experience as a Brand/Graphics Designer.
+* Công cụ Thiết kế: Thành thạo các công cụ tạo ra hình ảnh nhất quán, chất lượng cao (ví dụ: Adobe Creative Suite, công cụ thiết kế 3D, Figma, hoặc thậm chí các công cụ thiết kế AI).
+* Kinh nghiệm: Tối thiểu 3 năm kinh nghiệm toàn thời gian với vị trí Nhà Thiết Kế Thương Hiệu/Đồ Họa.
 
-### Nice to have:
+### Điểm cộng:
 
-* Strong audience- and content-focused mindset.
-* Experience using fintech apps or PancakeSwap products/ with crypto / Web3 Familiarity.
-* Experience of handling design assets and material for print and merch items is a big plus.
-* Experience working in distributed teams.&#x20;
+* Tư duy tập trung vào đối tượng khán giả và nội dung.
+* Kinh nghiệm sử dụng ứng dụng fintech hoặc sản phẩm PancakeSwap / quen thuộc với crypto / Web3.
+* Kinh nghiệm xử lý tài sản thiết kế và tài liệu cho việc in ấn và hàng hóa là một điểm cộng lớn.
+* Kinh nghiệm làm việc trong các đội ngũ phân tán.&#x20;
 
-### **How to apply**
+### **Cách thức ứng tuyển**
 
-Email _hiring@pancakeswap.com_ with your CV & Portfolio!
+Gửi email đến _hiring@pancakeswap.com_ kèm CV & Portfolio của bạn!

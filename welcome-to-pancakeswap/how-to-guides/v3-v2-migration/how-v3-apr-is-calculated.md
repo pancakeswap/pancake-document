@@ -1,61 +1,61 @@
-# How v3 APR is calculated
+# Cách tính APR trong v3
 
 {% hint style="info" %}
-In V3 Liquidity and Farms, with the new non-fungible liquidity and customizable price range ability. Each LP position will have its own LP fee and CAKE farming APR.
+Trong V3 Liquidity và Farms, với thanh khoản không thể thay thế mới và khả năng phạm vi giá có thể tùy chỉnh. Mỗi vị thế LP sẽ có APR phí LP và farming CAKE riêng.
 {% endhint %}
 
-The total APR is combined by the LP fee APR and CAKE reward APR
+Tổng APR được kết hợp bởi APR phí LP và APR phần thưởng CAKE
 
-### LP fee
+### Phí LP
 
-Theoretically speaking, given a price range and liquidity user about to add, we can estimate the expected future 7 days fee as following&#x20;
+Về mặt lý thuyết, với phạm vi giá và thanh khoản mà người dùng sắp thêm vào, chúng ta có thể ước tính phí dự kiến trong 7 ngày tới như sau&#x20;
 
 $$
 fee_{next7d} = fee_{in} \frac{\Delta{L}}{L_{in} + \Delta{L}}
 $$
 
-* $$fee_{in}$$ : Fee amount accrued in the user specified price range in last 7 days
-* $$L_{in}$$: Current liquidity in the user specified price range
-* $$\Delta{L}$$: Liquidity user want to add to the price range
+* $$fee_{in}$$ : Số tiền phí tích lũy trong phạm vi giá do người dùng chỉ định trong 7 ngày qua
+* $$L_{in}$$: Thanh khoản hiện tại trong phạm vi giá do người dùng chỉ định
+* $$\Delta{L}$$: Thanh khoản người dùng muốn thêm vào phạm vi giá
 
-#### Fee in range
+#### Phí trong phạm vi
 
-For $$fee_{in}$$, we use the historical trading volume data, fee tier and historical price data to estimate the price in range
+Đối với $$fee_{in}$$, chúng ta sử dụng dữ liệu khối lượng giao dịch lịch sử, mức phí và dữ liệu giá lịch sử để ước tính giá trong phạm vi
 
 $$fee_{in} = f_tV_{7d}\frac{T_{in}}{T_{7d}}$$
 
-* $$f_t$$: Fee tier
-* $$V_{7d}$$: Total trading volume of last 7 days
-* $$T_{in}$$: Duration, measured in seconds, of prices staying within the price range in the past 7 days
-* $$T_{7d}$$: 7 days measured in seconds
+* $$f_t$$: Mức phí
+* $$V_{7d}$$: Tổng khối lượng giao dịch trong 7 ngày qua
+* $$T_{in}$$: Thời gian, tính bằng giây, giá ở trong phạm vi trong 7 ngày qua
+* $$T_{7d}$$: 7 ngày tính bằng giây
 
-### Cake APR
+### APR Cake
 
-#### Pool Allocation
+#### Phân bổ Pool
 
-The total reward cake per second in MC v3 using upkeep and can be derived by `latestPeriodCakePerSecond`&#x20;
+Tổng phần thưởng cake mỗi giây trong MC v3 sử dụng upkeep và có thể được lấy bằng `latestPeriodCakePerSecond`&#x20;
 
 `cakePerSecond = lastestPeriodCakePerSecond / 1e12 / 1e18`
 
-In each pool, we can use `poolInfo` to get the `poolWeight` by dividing  `poolInfo.allocPoint / totalAllocPoint`
+Trong mỗi pool, chúng ta có thể sử dụng `poolInfo` để lấy `poolWeight` bằng cách chia `poolInfo.allocPoint / totalAllocPoint`
 
-#### Global Cake APR
+#### APR CAKE Toàn Cầu
 
-Global APR calculated using the total amount of active & staked liquidity with the pool CAKE reward emissions.
+APR toàn cầu được tính bằng cách sử dụng tổng lượng thanh khoản đang hoạt động và đã staking với phần thưởng CAKE của pool.
 
 `APR (global) = (cakePerSecond * 31536000) / (totalAllocPoint / pool.allocPoint) * 100 * cakeUSD / totalStakedLiquidityUSD`
 
-`totalStakedLiquidityUSD` represents the current pool active staked liquidity in USD, composing by all the position ticks in range staked in MasterChef v3.
+`totalStakedLiquidityUSD` đại diện cho thanh khoản đã staking đang hoạt động của pool hiện tại tính bằng USD, bao gồm tất cả các ticks vị thế trong phạm vi đã staking trong MasterChef v3.
 
-#### Position Cake APR
+#### APR CAKE Theo Vị Thế
 
-APRs for individual positions may vary depend on their price range settings.
+APR cho các vị thế riêng lẻ có thể thay đổi tùy thuộc vào cài đặt phạm vi giá của chúng.
 
 $$
 ARP_p = {\frac{USD_{r}}{USD_{p}}} {\frac{L_{p}}{L_{lm}}}
 $$
 
-* $$USD_r$$: CAKE reward earn USD per year in pool
-* $$USD_p$$: Total USD value in position
-* $$L_{p}$$: Position liquidity
-* $$L_{lm}$$: Total staking liquidity which tracked by LMPool
+* $$USD_r$$: Phần thưởng CAKE kiếm được USD mỗi năm trong pool
+* $$USD_p$$: Tổng giá trị USD trong vị thế
+* $$L_{p}$$: Thanh khoản vị thế
+* $$L_{lm}$$: Tổng thanh khoản staking được theo dõi bởi LMPool

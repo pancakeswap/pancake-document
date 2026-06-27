@@ -2,41 +2,41 @@
 hidden: true
 ---
 
-# Business Development Manager
+# Quản Lý Phát Triển Kinh Doanh
 
-### General Information
+### Thông Tin Chung
 
-* Salary range: Competitive, negotiable
-* Position: Full-time
-* Location: Remote
-* Time-zone preference: Any
+* Mức lương: Cạnh tranh, có thể thương lượng
+* Vị trí: Toàn thời gian
+* Địa điểm: Làm việc từ xa
+* Ưu tiên múi giờ: Bất kỳ
 
-### Your Responsibilities
+### Trách Nhiệm Của Bạn
 
-* Coordinate with partners to ensure a healthy Farm/Syrup Pool and IFO pipeline.
-* Review and conduct due diligence on projects that apply for Farm/Syrup Pools and IFOs.
-* Liaise with project teams to explore potential partnership opportunities.
-* Execute operational matters relating to PancakeSwap products.
-* Implement best practices between the business development team & the wider team.
-* Review the latest developments in the crypto space and explore new business lines.
+* Phối hợp với các đối tác để đảm bảo pipeline Farm/Syrup Pool và IFO lành mạnh.
+* Xem xét và thẩm định các dự án đăng ký Farm/Syrup Pool và IFO.
+* Liên hệ với các đội dự án để khám phá các cơ hội đối tác tiềm năng.
+* Thực thi các vấn đề vận hành liên quan đến sản phẩm PancakeSwap.
+* Triển khai các phương pháp tốt nhất giữa đội phát triển kinh doanh & đội rộng hơn.
+* Xem xét các phát triển mới nhất trong không gian crypto và khám phá các mảng kinh doanh mới.
 
-### Skills & Qualifications
+### Kỹ Năng & Trình Độ
 
-* 2+ years of experience in a business development and/or corporate finance role.
-* Solid understanding of the cryptocurrency space, especially DeFi.
-* Ability to speak, read and write in English fluently.
-* Articulate and able to hold effective conversations with project teams.
-* Proactive in keeping up with the latest trends in the blockchain/crypto space.
-* Strong attention to detail when analyzing projects.
-* Ability to work independently and innovate.
-* Can handle high pressure and a fast-paced work environment.
+* 2+ năm kinh nghiệm trong vai trò phát triển kinh doanh và/hoặc tài chính doanh nghiệp.
+* Hiểu biết vững chắc về không gian tiền điện tử, đặc biệt là DeFi.
+* Khả năng nói, đọc và viết tiếng Anh thành thạo.
+* Khéo léo và có khả năng thực hiện các cuộc trò chuyện hiệu quả với các đội dự án.
+* Chủ động cập nhật các xu hướng mới nhất trong không gian blockchain/crypto.
+* Chú ý cao độ đến chi tiết khi phân tích dự án.
+* Khả năng làm việc độc lập và sáng tạo.
+* Có thể xử lý áp lực cao và môi trường làm việc nhanh nhẹn.
 
-### Good to have
+### Điểm Cộng
 
-* Fluent in a second language.
-* Bachelor's degree in Finance, Accounting or other related areas.
-* Experience with smart contracts and Solidity.
+* Thông thạo ngôn ngữ thứ hai.
+* Bằng Cử nhân về Tài chính, Kế toán hoặc các lĩnh vực liên quan.
+* Kinh nghiệm với hợp đồng thông minh và Solidity.
 
-### How to apply
+### Cách thức ứng tuyển
 
-Email hiring@pancakeswap.com with your resume!
+Gửi email đến hiring@pancakeswap.com kèm CV của bạn!

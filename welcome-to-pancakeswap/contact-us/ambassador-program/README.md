@@ -1,15 +1,15 @@
-# Ambassador Program
+# Chương Trình Đại Sứ
 
-The PancakeSwap Ambassador Program is designed to empower our most dedicated users and supporters, giving them the opportunity to actively contribute to the growth of our ecosystem. Our ambassadors play a crucial role in representing PancakeSwap, educating new users, and fostering community engagement worldwide.
+Chương Trình Đại Sứ PancakeSwap được thiết kế để trao quyền cho những người dùng và người ủng hộ tận tâm nhất của chúng tôi, mang đến cho họ cơ hội đóng góp tích cực vào sự tăng trưởng của hệ sinh thái. Các đại sứ của chúng tôi đóng vai trò quan trọng trong việc đại diện cho PancakeSwap, giáo dục người dùng mới và thúc đẩy sự tham gia cộng đồng trên toàn thế giới.
 
-#### 🔹 Ambassador Roles
+#### 🔹 Vai Trò Đại Sứ
 
-To ensure clarity in responsibilities, the program is structured into distinct roles:
+Để đảm bảo rõ ràng trong trách nhiệm, chương trình được cấu trúc thành các vai trò riêng biệt:
 
-🔹 Moderation – Community moderators help maintain a safe, welcoming, and informative environment across our platforms. They assist users, enforce community guidelines, and ensure smooth communication.
+🔹 Kiểm Duyệt – Các kiểm duyệt viên cộng đồng giúp duy trì môi trường an toàn, thân thiện và thông tin trên các nền tảng của chúng tôi. Họ hỗ trợ người dùng, thực thi các hướng dẫn cộng đồng và đảm bảo giao tiếp suôn sẻ.
 
-📢 Content Creation – Ambassadors passionate about content can contribute through articles, videos, social media posts, and other creative materials that promote PancakeSwap and educate the community.
+📢 Tạo Nội Dung – Các đại sứ đam mê nội dung có thể đóng góp thông qua các bài viết, video, bài đăng mạng xã hội và các tài liệu sáng tạo khác quảng bá PancakeSwap và giáo dục cộng đồng.
 
-🎤 Events (Online & Offline) – Ambassadors can organize and participate in workshops, meetups, and local events to spread awareness and onboard new users to PancakeSwap.
+🎤 Sự Kiện (Trực Tuyến & Ngoại Tuyến) – Các đại sứ có thể tổ chức và tham gia các hội thảo, buổi gặp mặt và sự kiện địa phương để nâng cao nhận thức và đưa người dùng mới đến với PancakeSwap.
 
 <br>

@@ -2,38 +2,38 @@
 hidden: true
 ---
 
-# Product Manager
+# Quản Lý Sản Phẩm
 
-#### General Information
+#### Thông Tin Chung
 
-* Salary range: Competitive, negotiable
-* Position: Full-time
-* Location: Remote
-* Time-zone preference: Any
+* Mức lương: Cạnh tranh, có thể thương lượng
+* Vị trí: Toàn thời gian
+* Địa điểm: Làm việc từ xa
+* Ưu tiên múi giờ: Bất kỳ
 
-#### Your Responsibilities
+#### Trách Nhiệm Của Bạn
 
-* Collaborate with internal stakeholders (leads, design, devs, bd, marketing, qa, data, ops) to craft future PancakeSwap products from 0 to 1
+* Cộng tác với các bên liên quan nội bộ (trưởng nhóm, thiết kế, devs, bd, marketing, qa, dữ liệu, ops) để tạo ra các sản phẩm PancakeSwap trong tương lai từ 0 đến 1
 
-#### Skills & Qualifications
+#### Kỹ Năng & Trình Độ
 
-* 3+ years experience in Crypto/DeFi/DEX and financial services/products.
-* Experience in full flow of product development, including:
-  * Perform market research and identify potential product usecases.
-  * Turn requirements and ideas from other stakeholders in to complete designs.
-  * Visualise userflow with wireframe and assist design to complete the UI/UX.
-  * Assist and work with the dev team to build the product.
-  * Resolve product issues with qa team.
-  * Plan GTM strategies and campaigns with marketing team.
-  * Coordinate with external members from partners.
-  * Help ops team to perform product deployment.
-  * Analyse data and improve product experience with data team.
-* Gather info, provide options to other stakeholders to make critical decisions when needed.
-* Able to work remotely, autonomously with great self initiative.
+* 3+ năm kinh nghiệm trong Crypto/DeFi/DEX và dịch vụ/sản phẩm tài chính.
+* Kinh nghiệm trong quy trình phát triển sản phẩm đầy đủ, bao gồm:
+  * Thực hiện nghiên cứu thị trường và xác định các trường hợp sử dụng sản phẩm tiềm năng.
+  * Chuyển đổi các yêu cầu và ý tưởng từ các bên liên quan khác thành thiết kế hoàn chỉnh.
+  * Hình ảnh hóa luồng người dùng với wireframe và hỗ trợ thiết kế để hoàn thiện UI/UX.
+  * Hỗ trợ và làm việc với đội dev để xây dựng sản phẩm.
+  * Giải quyết các vấn đề sản phẩm với đội qa.
+  * Lên kế hoạch chiến lược GTM và chiến dịch với đội marketing.
+  * Phối hợp với các thành viên bên ngoài từ các đối tác.
+  * Hỗ trợ đội ops thực hiện triển khai sản phẩm.
+  * Phân tích dữ liệu và cải thiện trải nghiệm sản phẩm với đội dữ liệu.
+* Thu thập thông tin, cung cấp các lựa chọn cho các bên liên quan khác để đưa ra quyết định quan trọng khi cần.
+* Có thể làm việc từ xa, tự chủ với sự chủ động tuyệt vời.
 
-#### Nice to Have
+#### Điểm Cộng
 
-* Technical background of blockchain and Web3. (to assist dev team to plan ahead when designing products. Think inside of the blockchain limitations, but think outside of the box for solutions)
-* Skills for blockchain deep dive, tx debug (to better assist qa and ops)
-* Figma skills (to build pretty mock-ups on your own with a design system)
-* Mandarin (to communicate with some other skillful bunnies)
+* Nền tảng kỹ thuật về blockchain và Web3. (để hỗ trợ đội dev lên kế hoạch trước khi thiết kế sản phẩm. Suy nghĩ trong giới hạn blockchain, nhưng suy nghĩ ngoài hộp cho các giải pháp)
+* Kỹ năng phân tích sâu blockchain, debug tx (để hỗ trợ tốt hơn cho qa và ops)
+* Kỹ năng Figma (để tự xây dựng mockup đẹp với hệ thống thiết kế)
+* Tiếng Trung (để giao tiếp với một số thỏ khéo léo khác)

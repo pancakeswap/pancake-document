@@ -1,26 +1,26 @@
-# Product Manager
+# Quản Lý Sản Phẩm
 
-**Job Overview:**
+**Tổng Quan Công Việc:**
 
-We are seeking a dynamic Product Manager to join our team. In this role, you will be responsible for defining, developing, and executing product strategies that enhance user experience and drive growth. You will work closely with cross-functional teams including engineering, design, marketing, and community to ensure the successful launch and ongoing improvement of our products.
+Chúng tôi đang tìm kiếm một Quản Lý Sản Phẩm năng động để gia nhập đội ngũ. Trong vai trò này, bạn sẽ chịu trách nhiệm xác định, phát triển và thực thi các chiến lược sản phẩm nâng cao trải nghiệm người dùng và thúc đẩy tăng trưởng. Bạn sẽ làm việc chặt chẽ với các đội xuyên chức năng bao gồm kỹ thuật, thiết kế, marketing và cộng đồng để đảm bảo ra mắt thành công và cải tiến liên tục các sản phẩm của chúng tôi.
 
-**Key Responsibilities:**
+**Trách Nhiệm Chính:**
 
-* **Product Strategy:** Define and communicate the product vision, strategy, and roadmap aligned with the company’s goals.
-* **Market Research:** Conduct competitive analysis and user research to identify trends, customer needs, and opportunities for innovation.
-* **Collaboration:** Work closely with engineering and design teams to deliver high-quality products on time. Facilitate communication between teams to ensure alignment.
-* **User-Centric Design:** Advocate for user experience by incorporating user feedback and usability testing into product development.
-* **Performance Metrics:** Establish and track key performance indicators (KPIs) to measure product success and inform decision-making.
-* **Stakeholder Engagement:** Collaborate with marketing and community teams to develop go-to-market strategies and ensure product adoption.
-* **Continuous Improvement:** Monitor product performance and iterate based on user feedback and market trends.
+* **Chiến Lược Sản Phẩm:** Xác định và truyền đạt tầm nhìn sản phẩm, chiến lược và lộ trình phù hợp với mục tiêu của công ty.
+* **Nghiên Cứu Thị Trường:** Thực hiện phân tích cạnh tranh và nghiên cứu người dùng để xác định xu hướng, nhu cầu khách hàng và cơ hội đổi mới.
+* **Hợp Tác:** Làm việc chặt chẽ với các đội kỹ thuật và thiết kế để phân phối sản phẩm chất lượng cao đúng hạn. Tạo điều kiện giao tiếp giữa các đội để đảm bảo sự thống nhất.
+* **Thiết Kế Lấy Người Dùng Làm Trung Tâm:** Vận động cho trải nghiệm người dùng bằng cách tích hợp phản hồi người dùng và kiểm thử khả năng sử dụng vào phát triển sản phẩm.
+* **Chỉ Số Hiệu Suất:** Thiết lập và theo dõi các chỉ số hiệu suất chính (KPI) để đo lường sự thành công của sản phẩm và thông báo quyết định.
+* **Tương Tác Với Bên Liên Quan:** Cộng tác với các đội marketing và cộng đồng để phát triển các chiến lược go-to-market và đảm bảo việc áp dụng sản phẩm.
+* **Cải Tiến Liên Tục:** Theo dõi hiệu suất sản phẩm và lặp lại dựa trên phản hồi người dùng và xu hướng thị trường.
 
-**Qualifications:**
+**Trình Độ:**
 
-* 2+ years of experience in product management, preferably in the blockchain and Defi fintech space.
-* Strong understanding of DeFi concepts, cryptocurrency markets, and decentralized applications and smart contract
-* Proficiency in product management tools (e.g., Jira, Trello) and analytics platforms (e.g., Google Analytics, Mixpanel).
-* Passion for blockchain technology and a keen interest in emerging trends in the crypto space.
+* 2+ năm kinh nghiệm trong quản lý sản phẩm, ưu tiên trong không gian fintech blockchain và DeFi.
+* Hiểu biết vững chắc về các khái niệm DeFi, thị trường tiền điện tử và ứng dụng phi tập trung và hợp đồng thông minh
+* Thành thạo các công cụ quản lý sản phẩm (ví dụ: Jira, Trello) và nền tảng phân tích (ví dụ: Google Analytics, Mixpanel).
+* Đam mê công nghệ blockchain và quan tâm sâu sắc đến các xu hướng mới nổi trong không gian crypto.
 
 
 
-**How to Apply:** Shoot your resume over to hiring@pancakeswap.com, we’d love to hear from you!
+**Cách Ứng Tuyển:** Gửi CV của bạn đến hiring@pancakeswap.com, chúng tôi rất muốn nghe từ bạn!

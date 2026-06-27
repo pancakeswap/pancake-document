@@ -1,30 +1,30 @@
-# Community Manager (CN)
+# Quản Lý Cộng Đồng (CN)
 
-* Position: Full-time
-* Location: Remote
-* Timezone: UTC+8
+* Vị trí: Toàn thời gian
+* Địa điểm: Làm việc từ xa
+* Múi giờ: UTC+8
 
-We are looking for an experienced, Chinese-speaking Community Manager to activate, engage, and grow the PancakeSwap community. The ideal candidate has experience in Chinese-language crypto communities, understands DeFi communities and users, and has a proven track record of growing and activating communities in the region.
+Chúng tôi đang tìm kiếm một Quản Lý Cộng Đồng nói tiếng Trung có kinh nghiệm để kích hoạt, tương tác và phát triển cộng đồng PancakeSwap. Ứng viên lý tưởng có kinh nghiệm trong các cộng đồng crypto nói tiếng Trung, hiểu các cộng đồng và người dùng DeFi và có hồ sơ đã được chứng minh về việc phát triển và kích hoạt cộng đồng trong khu vực.
 
-### **Responsibilities:**
+### **Trách Nhiệm:**
 
-* Activate and grow PancakeSwap’s Chinese-speaking communities through organic and community initiatives
-* Represent PancakeSwap as a spokesperson across Chinese-speaking community channels, discussions, AMAs, and advocates for our products, brand, and ecosystem
-* Plan and execute Chinese-language community campaigns, AMAs, online initiatives, and local community meetups with clear growth and engagement outcomes
-* Build and maintain relationships with crypto projects, communities, and ecosystem partners to increase community activation
-* Manage PancakeSwap’s ambassadors and ambassador program for Chinese-speaking markets to support the community user, content, and regional events initiatives
-* Act as a bridge between PancakeSwap’s Chinese-speaking community and internal teams, relaying community and product feedback to drive PancakeSwap’s growth and success
-* Identify, engage, and collaborate with Chinese-speaking community content creators and influencers to produce relevant, high-quality content in the community
-* Track community performance and provide weekly reports on activities, engagement metrics, sentiment, and actionable insights
+* Kích hoạt và phát triển các cộng đồng nói tiếng Trung của PancakeSwap thông qua các sáng kiến cộng đồng và hữu cơ
+* Đại diện PancakeSwap với tư cách là người phát ngôn trên các kênh cộng đồng, thảo luận, AMA nói tiếng Trung và vận động cho sản phẩm, thương hiệu và hệ sinh thái của chúng tôi
+* Lập kế hoạch và thực hiện các chiến dịch cộng đồng, AMA, sáng kiến trực tuyến và buổi gặp mặt cộng đồng địa phương bằng tiếng Trung với kết quả tăng trưởng và tương tác rõ ràng
+* Xây dựng và duy trì mối quan hệ với các dự án crypto, cộng đồng và đối tác hệ sinh thái để tăng hoạt động cộng đồng
+* Quản lý các đại sứ và chương trình đại sứ của PancakeSwap cho các thị trường nói tiếng Trung để hỗ trợ các sáng kiến người dùng cộng đồng, nội dung và sự kiện khu vực
+* Đóng vai trò cầu nối giữa cộng đồng nói tiếng Trung của PancakeSwap và các đội ngũ nội bộ, chuyển tiếp phản hồi cộng đồng và sản phẩm để thúc đẩy sự tăng trưởng và thành công của PancakeSwap
+* Xác định, tương tác và hợp tác với các nhà sáng tạo nội dung và người có ảnh hưởng nói tiếng Trung để sản xuất nội dung phù hợp, chất lượng cao trong cộng đồng
+* Theo dõi hiệu suất cộng đồng và cung cấp báo cáo hàng tuần về các hoạt động, chỉ số tương tác, cảm xúc và thông tin chi tiết có thể thực hiện được
 
-### **Requirements**
+### **Yêu Cầu**
 
-* 2+ years of experience as a community manager in the DeFi or crypto space
-* Language: Native Proficiency in Chinese required, working proficiency in English.
-* Understanding of Chinese-speaking crypto communities, DeFi, and community growth
-* Excellent Chinese written and verbal communication skills
-* Experience with community platforms and tools on Discord, Telegram, X, etc.
-* Proactive, results-oriented, and able to operate in a fast-paced environment
+* 2+ năm kinh nghiệm với tư cách là quản lý cộng đồng trong không gian DeFi hoặc crypto
+* Ngôn ngữ: Bắt buộc có trình độ tiếng Trung như người bản ngữ, trình độ tiếng Anh làm việc.
+* Hiểu biết về các cộng đồng crypto nói tiếng Trung, DeFi và tăng trưởng cộng đồng
+* Kỹ năng giao tiếp viết và nói tiếng Trung xuất sắc
+* Kinh nghiệm với các nền tảng và công cụ cộng đồng trên Discord, Telegram, X, v.v.
+* Chủ động, hướng tới kết quả và có thể hoạt động trong môi trường nhanh nhẹn
 
-**How to Apply:**\
-Shoot your resume over to hiring@pancakeswap.com, we’d love to hear from you!
+**Cách Ứng Tuyển:**\
+Gửi CV của bạn đến hiring@pancakeswap.com, chúng tôi rất muốn nghe từ bạn!

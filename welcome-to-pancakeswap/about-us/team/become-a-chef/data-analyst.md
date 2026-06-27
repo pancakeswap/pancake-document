@@ -2,34 +2,34 @@
 hidden: true
 ---
 
-# Data Analyst
+# Chuyên Viên Phân Tích Dữ Liệu
 
-#### Responsibilities
+#### Trách Nhiệm
 
-* Collect, analyze, and interpret large datasets from on-chain transactions, including betting volumes, market resolutions, odds fluctuations, open interest and user participation in prediction events.
-* Partner with product and engineering teams to design analytics solutions that transform raw blockchain data into insights on protocol health, liquidity trends, and market efficiency.
-* Build and maintain data dashboards (using tools like Dune Analytics, Tableau, datawind or similar) to monitor key metrics such as Total Value Locked (TVL), user engagement, prediction accuracy rates, and event outcomes.
-* Lead analytical support for on-chain campaigns, such as token airdrops, staking incentives, or market promotions, including tracking eligibility, rewards distribution, and ROI analysis.
-* Query public blockchain data to uncover trends in user behavior, such as betting patterns, oracle integrations for event resolutions, and potential market manipulations.
-* Communicate complex insights through visualizations and reports, translating blockchain data into actionable recommendations for stakeholders.
-* Stay updated on blockchain advancements, prediction market protocols, and regulatory changes to inform data-driven strategies.
-* Collaborate in a fast-paced environment where time-to-insight is critical for market competitiveness.
+* Thu thập, phân tích và giải thích các tập dữ liệu lớn từ các giao dịch on-chain, bao gồm khối lượng cược, kết quả thị trường, biến động tỷ lệ, open interest và sự tham gia của người dùng trong các sự kiện dự đoán.
+* Hợp tác với các đội sản phẩm và kỹ thuật để thiết kế các giải pháp phân tích chuyển đổi dữ liệu blockchain thô thành thông tin chi tiết về sức khỏe giao thức, xu hướng thanh khoản và hiệu quả thị trường.
+* Xây dựng và duy trì các bảng điều khiển dữ liệu (sử dụng các công cụ như Dune Analytics, Tableau, datawind hoặc tương tự) để theo dõi các chỉ số chính như Tổng Giá Trị Khóa (TVL), tương tác người dùng, tỷ lệ chính xác dự đoán và kết quả sự kiện.
+* Dẫn đầu hỗ trợ phân tích cho các chiến dịch on-chain, như airdrop token, ưu đãi staking hoặc khuyến mãi thị trường, bao gồm theo dõi điều kiện đủ điều kiện, phân phối phần thưởng và phân tích ROI.
+* Truy vấn dữ liệu blockchain công khai để khám phá xu hướng trong hành vi người dùng, như các mẫu cược, tích hợp oracle để giải quyết sự kiện và các thao túng thị trường tiềm năng.
+* Truyền đạt các thông tin chi tiết phức tạp thông qua hình ảnh hóa và báo cáo, chuyển đổi dữ liệu blockchain thành các khuyến nghị có thể thực hiện được cho các bên liên quan.
+* Cập nhật về các tiến bộ blockchain, giao thức thị trường dự đoán và thay đổi quy định để thông báo các chiến lược dựa trên dữ liệu.
+* Cộng tác trong môi trường nhanh nhẹn nơi thời gian đến thông tin chi tiết là quan trọng để cạnh tranh thị trường.
 
-#### Requirements
+#### Yêu Cầu
 
-* Bachelor's degree in a quantitative field such as Computer Science, Statistics, Mathematics, Economics, or a related discipline.
-* 3+ years of experience in data analysis, preferably in blockchain, crypto, or fintech environments.
-* Deep understanding of blockchain fundamentals, including EVM-based chains (e.g. Ethereum, BNB Chain), smart contracts, transaction structures, and event logs.
-* Proficiency in SQL for querying blockchain data (e.g., via Dune Analytics, BigQuery) and at least one programming language (e.g., Python, R) for data processing and scripting.
-* Experience with data visualization tools like Tableau, Power BI, or Matplotlib.
-* Familiarity with on-chain metrics in DeFi or prediction markets, such as liquiditypools, oracle data feeds, and resolution mechanisms.
-* Strong analytical mindset with the ability to handle large, unstructured datasets and derive meaningful insights.
-* Excellent communication skills to present findings to non-technical teams.
+* Bằng Cử nhân trong lĩnh vực định lượng như Khoa học Máy tính, Thống kê, Toán học, Kinh tế hoặc ngành liên quan.
+* 3+ năm kinh nghiệm trong phân tích dữ liệu, ưu tiên trong môi trường blockchain, crypto hoặc fintech.
+* Hiểu biết sâu sắc về nền tảng blockchain, bao gồm các chuỗi dựa trên EVM (ví dụ: Ethereum, BNB Chain), hợp đồng thông minh, cấu trúc giao dịch và nhật ký sự kiện.
+* Thành thạo SQL để truy vấn dữ liệu blockchain (ví dụ: qua Dune Analytics, BigQuery) và ít nhất một ngôn ngữ lập trình (ví dụ: Python, R) để xử lý dữ liệu và viết script.
+* Kinh nghiệm với các công cụ trực quan hóa dữ liệu như Tableau, Power BI hoặc Matplotlib.
+* Quen thuộc với các chỉ số on-chain trong DeFi hoặc thị trường dự đoán, như nhóm thanh khoản, nguồn cấp dữ liệu oracle và cơ chế giải quyết.
+* Tư duy phân tích mạnh mẽ với khả năng xử lý các tập dữ liệu lớn, không có cấu trúc và rút ra các thông tin chi tiết có ý nghĩa.
+* Kỹ năng giao tiếp xuất sắc để trình bày kết quả cho các đội ngũ phi kỹ thuật.
 
-#### Preferred Qualifications
+#### Trình Độ Ưu Tiên
 
-* Experience working with prediction market platforms (e.g., Polymarket, Augur, or similar) or analyzing on-chain gaming/betting data.
-* Knowledge of advanced analytics techniques, including machine learning for predictive modeling of market outcomes.
-* Proficiency in additional tools like Nansen, Glassnode, or GraphQL for blockchain querying.
-* Understanding of non-EVM chains (e.g., Solana) is a plus.
-* Prior experience in Web3 startups or decentralized organizations.
+* Kinh nghiệm làm việc với các nền tảng thị trường dự đoán (ví dụ: Polymarket, Augur hoặc tương tự) hoặc phân tích dữ liệu cờ bạc/cá cược on-chain.
+* Kiến thức về các kỹ thuật phân tích nâng cao, bao gồm học máy để mô hình dự đoán kết quả thị trường.
+* Thành thạo các công cụ bổ sung như Nansen, Glassnode hoặc GraphQL để truy vấn blockchain.
+* Hiểu biết về các chuỗi không phải EVM (ví dụ: Solana) là điểm cộng.
+* Kinh nghiệm trước đây trong các startup Web3 hoặc tổ chức phi tập trung.

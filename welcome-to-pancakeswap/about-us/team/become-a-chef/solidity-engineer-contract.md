@@ -2,40 +2,40 @@
 hidden: true
 ---
 
-# Solidity Engineer (Contract)
+# Kỹ Sư Solidity (Hợp Đồng)
 
-### **General Information**
+### **Thông Tin Chung**
 
-* Salary range: Competitive, negotiable
-* **Duration: 1 - 2 quarters**
-* Position: Full-time / Part-time
-* Location: Remote
-* Time-zone preference: Any
+* Mức lương: Cạnh tranh, có thể thương lượng
+* **Thời hạn: 1 - 2 quý**
+* Vị trí: Toàn thời gian / Bán thời gian
+* Địa điểm: Làm việc từ xa
+* Ưu tiên múi giờ: Bất kỳ
 
-### Your Responsibilities
+### Trách Nhiệm Của Bạn
 
-* Build smart contracts in Solidity.
-* Design, scope, and estimate complex contract based on requirements given.
-* Envision and develop features to help grow product.
-* Enthusiastically collaborate with a small team to plan projects at the task level.
-* Collaborate with cross-functional partners on all aspects of product development.
-* Identify and advocate for team-wide areas of improvement and best practices.
+* Xây dựng các hợp đồng thông minh bằng Solidity.
+* Thiết kế, xác định phạm vi và ước tính các hợp đồng phức tạp dựa trên yêu cầu đã cho.
+* Hình dung và phát triển các tính năng giúp phát triển sản phẩm.
+* Nhiệt tình cộng tác với một đội nhỏ để lập kế hoạch dự án ở cấp độ nhiệm vụ.
+* Cộng tác với các đối tác xuyên chức năng trong tất cả các khía cạnh của phát triển sản phẩm.
+* Xác định và vận động cho các lĩnh vực cải thiện và phương pháp tốt nhất trên toàn đội.
 
-### Skills & Qualifications
+### Kỹ Năng & Trình Độ
 
-* 3-5 years of industry experience in software engineering.
-* Understands and applies Solidity patterns to solve common problems.
-* Understands gas optimization the tradeoff between efficient code and readable code.
-* Knows how to write migrations and deploy code to EVM-compatible networks.
-* Familiar with Hardhat and Foundry and the pros and cons of each framework.
-  * Specifically familiar with Hardhat as this is the framework used by PancakeSwap.
-* Possesses exceptional judgment, problem-solving skills, and an analytical mindset.
-* Understands engineering best practices such as continuous integration.
-* Ability to work in areas outside of your comfort zone and motivated by personal growth.
-* Be able to work autonomously.
-* The candidate should be independent enough to make important technical decisions on their own.
-* The candidate should be driven and innovative.
+* 3-5 năm kinh nghiệm ngành trong kỹ thuật phần mềm.
+* Hiểu và áp dụng các mẫu Solidity để giải quyết các vấn đề phổ biến.
+* Hiểu tối ưu hóa gas và sự đánh đổi giữa mã hiệu quả và mã dễ đọc.
+* Biết cách viết migration và triển khai mã cho các mạng tương thích EVM.
+* Quen thuộc với Hardhat và Foundry và ưu nhược điểm của mỗi framework.
+  * Đặc biệt quen thuộc với Hardhat vì đây là framework được PancakeSwap sử dụng.
+* Sở hữu khả năng phán đoán xuất sắc, kỹ năng giải quyết vấn đề và tư duy phân tích.
+* Hiểu các phương pháp tốt nhất trong kỹ thuật như tích hợp liên tục.
+* Khả năng làm việc trong các lĩnh vực ngoài vùng thoải mái của bạn và được thúc đẩy bởi sự phát triển cá nhân.
+* Có khả năng làm việc tự chủ.
+* Ứng viên phải đủ độc lập để tự đưa ra các quyết định kỹ thuật quan trọng.
+* Ứng viên phải có động lực và sáng tạo.
 
-### How to apply:
+### Cách thức ứng tuyển:
 
-Email hiring@pancakeswap.com with your resume!
+Gửi email đến hiring@pancakeswap.com kèm CV của bạn!

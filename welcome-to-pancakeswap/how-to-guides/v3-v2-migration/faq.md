@@ -1,43 +1,43 @@
 # FAQ
 
-<figure><img src="../../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2894%29.png" alt=""><figcaption></figcaption></figure>
 
-### **Is there a deadline for the migration?**
+### **Có thời hạn chuyển đổi không?**
 
-No
+Không
 
-You will be able to unstake from V2 farms at any time.
+Bạn có thể rút staking khỏi các Farm V2 bất cứ lúc nào.
 
-You will be able to remove liquidity from V2 at any time.
+Bạn có thể xóa thanh khoản khỏi V2 bất cứ lúc nào.
 
-However, Chefs will gradually migrate the CAKE reward emissions from those selected V2 farms to their corresponding V3 farms. To continue earning CAKE rewards. We would recommend that you complete the migrations as early as possible.
+Tuy nhiên, Chefs sẽ dần dần chuyển phần thưởng CAKE từ các Farm V2 được chọn sang các Farm V3 tương ứng. Để tiếp tục kiếm phần thưởng CAKE. Chúng tôi khuyến nghị bạn hoàn tất việc chuyển đổi càng sớm càng tốt.
 
-For more news and updates on the migration timeline, please [follow our social channels on Twitter or Telegram announcement.](../../contact-us/social-accounts.md)
+Để biết thêm tin tức và cập nhật về lịch trình chuyển đổi, vui lòng [theo dõi các kênh mạng xã hội của chúng tôi trên Twitter hoặc Telegram.](../../contact-us/social-accounts.md)
 
-### When can I start migrating?
+### Tôi có thể bắt đầu chuyển đổi khi nào?
 
-If you are reading this, the migration is likely started already. Visit [https://pancakeswap.finance/migration](https://pancakeswap.finance/migration) for more details.
+Nếu bạn đang đọc bài này, quá trình chuyển đổi có thể đã bắt đầu. Truy cập [https://pancakeswap.finance/migration](https://pancakeswap.finance/migration) để biết thêm chi tiết.
 
-### I can’t find the pair I’m staking
+### Tôi không tìm thấy cặp token tôi đang staking
 
-Some V2 farms and liquidity will continue to operate in parallel with V3.
+Một số Farm V2 và thanh khoản sẽ tiếp tục hoạt động song song với V3.
 
-Some V2 farms will not be migrated on day 1. If your staked farms do not appear in “Step 1”, they do not require to be migrated at the moment.
+Một số Farm V2 sẽ không được chuyển đổi vào ngày đầu tiên. Nếu các Farm đang staking của bạn không xuất hiện trong "Bước 1", chúng chưa cần được chuyển đổi lúc này.
 
-If your V2 liquidity positions do not appear in “Step 2”, it is likely due to they have V2 farms running and do not require to be migrated at the moment.
+Nếu các vị thế thanh khoản V2 của bạn không xuất hiện trong "Bước 2", có thể do chúng có Farm V2 đang chạy và chưa cần được chuyển đổi lúc này.
 
-You can manually migrate your farm stakings and liquidity. Continue reading.
+Bạn có thể chuyển đổi thủ công staking Farm và thanh khoản của mình. Tiếp tục đọc.
 
-### Can I manually migrate my farm stakings or liquidity without using the migration helper?
+### Tôi có thể chuyển đổi thủ công staking Farm hoặc thanh khoản mà không cần công cụ hỗ trợ chuyển đổi không?
 
-Yes.
+Có.
 
-You can unstake LP tokens from V2 farms by going to the “Farms” page and looking for farms with the “V2” tag. You can use the “Staked only” toggle to filter farms you are currently staking.
+Bạn có thể rút staking LP token khỏi Farm V2 bằng cách vào trang "Farms" và tìm các Farm có nhãn "V2". Bạn có thể sử dụng toggle "Staked only" để lọc các Farm bạn đang staking.
 
-You can remove V2 liquidity by going to the “Liquidity” page and looking for positions with the “V2” tag. You can use the V2 tab to filter only V2 positions.
+Bạn có thể xóa thanh khoản V2 bằng cách vào trang "Liquidity" và tìm các vị thế có nhãn "V2". Bạn có thể sử dụng tab V2 để lọc chỉ các vị thế V2.
 
-For adding your liquidity to V3 and staking LP positions to V3, follow the standard V3 steps.&#x20;
+Để thêm thanh khoản vào V3 và staking vị thế LP vào V3, hãy làm theo các bước V3 tiêu chuẩn.&#x20;
 
-For a detailed tutorial on how to add liquidity in V3, read [here](../../../earn/pancakeswap-pools/liquidity-guide.md).&#x20;
+Để có hướng dẫn chi tiết về cách thêm thanh khoản trong V3, đọc [tại đây](../../../earn/pancakeswap-pools/liquidity-guide.md).&#x20;
 
-For a tutorial on how to farm in V3, read [here](../../../earn/yield-farming/how-to-use-farms/).
+Để có hướng dẫn về cách farm trong V3, đọc [tại đây](../../../earn/yield-farming/how-to-use-farms/).

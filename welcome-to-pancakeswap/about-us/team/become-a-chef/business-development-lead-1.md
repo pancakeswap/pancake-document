@@ -1,32 +1,32 @@
-# Business Development Manager (AMM)
+# Trưởng Phòng Phát Triển Kinh Doanh (AMM)
 
-PancakeSwap is transitioning from the leading AMM DEX on BNB Chain to a full Liquidity Hub — aggregating and managing liquidity from native AMM pools, institutional capital, and external distribution channels. This role leads one of three specialized BD divisions in that build-out.
+PancakeSwap đang chuyển đổi từ AMM DEX hàng đầu trên BNB Chain sang một Trung Tâm Thanh Khoản toàn diện — tổng hợp và quản lý thanh khoản từ các nhóm AMM bản địa, vốn tổ chức và các kênh phân phối bên ngoài. Vị trí này dẫn đầu một trong ba bộ phận BD chuyên biệt trong quá trình xây dựng đó.
 
-### Traditional AMM
+### AMM Truyền Thống
 
-* Own CAKE emission efficiency, project onboarding (V2/V3/Infinity CLAMM), and cross-chain launchpad pipeline across BNB Chain, Base, and SOL.&#x20;
-* Primary metric: volume per unit of CAKE emitted.&#x20;
-* Secondary: new active pools per quarter, first-launch projects per chain.
+* Sở hữu hiệu quả phát thải CAKE, quy trình tiếp nhận dự án (V2/V3/Infinity CLAMM), và pipeline launchpad xuyên chuỗi trên BNB Chain, Base và SOL.&#x20;
+* Chỉ số chính: khối lượng trên mỗi đơn vị CAKE phát thải.&#x20;
+* Phụ: số nhóm hoạt động mới mỗi quý, dự án ra mắt lần đầu trên mỗi chuỗi.
 
-**Urgent now:** Base + SOL ecosystem fund relationships · Infinity CLAMM project pipeline
+**Ưu tiên hiện tại:** Quan hệ quỹ hệ sinh thái Base + SOL · Pipeline dự án Infinity CLAMM
 
-### What you will do
+### Những gì bạn sẽ làm
 
-* Own the full partnership lifecycle : sourcing, negotiation, integration, and ongoing health metrics
-* Participate in weekly cross-division BD sync to surface pipeline overlaps and coordinate joint approaches
-* Conduct ongoing competitor intelligence specific to your division's domain; translate findings into actionable differentiation
-* As the division matures, build and mentor a small team of BD managers under you
+* Sở hữu toàn bộ vòng đời đối tác: tìm nguồn cung ứng, đàm phán, tích hợp và các chỉ số sức khỏe liên tục
+* Tham gia vào cuộc họp đồng bộ BD xuyên bộ phận hàng tuần để phát hiện sự chồng chéo trong pipeline và phối hợp các cách tiếp cận chung
+* Thực hiện tình báo cạnh tranh liên tục đặc thù cho lĩnh vực của bộ phận; chuyển đổi các phát hiện thành sự khác biệt có thể thực hiện được
+* Khi bộ phận trưởng thành, xây dựng và cố vấn cho một đội nhỏ các quản lý BD dưới quyền bạn
 
-### What we are looking for
+### Chúng tôi đang tìm kiếm gì
 
-**Required**
+**Bắt buộc**
 
-* 3+ years of BD, partnerships, or growth in DeFi, crypto, or fintech — with a track record of signed deals, not just pipeline
-* Quantitative mindset: comfortable reading on-chain data, TVL/volume dashboards, and setting your own KPI targets from first principles
-* Familiar with AMM/uniswap/Pancakeswap V2 V3 Infinity
-* Autonomous and structured: able to manage multiple parallel deals with zero hand-holding, and communicate blockers early
-* Ownership mind-set
+* 3+ năm kinh nghiệm BD, quan hệ đối tác hoặc tăng trưởng trong DeFi, crypto hoặc fintech — với hồ sơ theo dõi các thỏa thuận đã ký kết, không chỉ pipeline
+* Tư duy định lượng: thoải mái đọc dữ liệu on-chain, bảng điều khiển TVL/khối lượng và tự đặt mục tiêu KPI từ các nguyên tắc cơ bản
+* Quen thuộc với AMM/Uniswap/PancakeSwap V2 V3 Infinity
+* Tự chủ và có cấu trúc: có khả năng quản lý nhiều thỏa thuận song song mà không cần hỗ trợ tay, và thông báo sớm về các trở ngại
+* Tư duy chủ động
 
 
 
-**How to Apply:** Shoot your resume over to hiring@pancakeswap.com, we’d love to hear from you!
+**Cách Ứng Tuyển:** Gửi CV của bạn đến hiring@pancakeswap.com, chúng tôi rất muốn nghe từ bạn!

@@ -2,54 +2,54 @@
 hidden: true
 ---
 
-# Senior Backend Engineer
+# Kỹ Sư Backend Cấp Cao
 
-### General Information
+### Thông Tin Chung
 
-* Salary range: Competitive, negotiable
-* Position: Full-time
-* Location: Remote
-* Time-zone preference: Any
+* Mức lương: Cạnh tranh, có thể thương lượng
+* Vị trí: Toàn thời gian
+* Địa điểm: Làm việc từ xa
+* Ưu tiên múi giờ: Bất kỳ
 
-### Role Overview
+### Tổng Quan Vai Trò
 
-We are seeking an experienced Backend Engineer who is passionate about crypto and DeFi, and has a deep understanding of micro-services architecture. You will work closely with a diverse team of engineers to design, develop, and maintain backend services that support our crypto platform.
+Chúng tôi đang tìm kiếm một Kỹ Sư Backend có kinh nghiệm đam mê crypto và DeFi, và có hiểu biết sâu sắc về kiến trúc micro-services. Bạn sẽ làm việc chặt chẽ với một đội kỹ sư đa dạng để thiết kế, phát triển và duy trì các dịch vụ backend hỗ trợ nền tảng crypto của chúng tôi.
 
-### Your Responsibilities
+### Trách Nhiệm Của Bạn
 
-* Design, develop, and maintain scalable backend services and micro-services.
-* Work with cross-functional teams to integrate with DeFi protocols and other blockchain solutions.
-* Implement secure, efficient, and reliable APIs to power our crypto services.
-* Develop and deploy infrastructure on cloud environments to ensure scalability and performance.
-* Analyze and optimize system performance and stability.
-* Stay current with the latest developments in blockchain, DeFi, and backend technologies.
+* Thiết kế, phát triển và duy trì các dịch vụ backend và micro-services có thể mở rộng.
+* Làm việc với các đội xuyên chức năng để tích hợp với các giao thức DeFi và các giải pháp blockchain khác.
+* Triển khai các API an toàn, hiệu quả và đáng tin cậy để cung cấp năng lượng cho các dịch vụ crypto của chúng tôi.
+* Phát triển và triển khai cơ sở hạ tầng trên môi trường đám mây để đảm bảo khả năng mở rộng và hiệu suất.
+* Phân tích và tối ưu hóa hiệu suất và độ ổn định hệ thống.
+* Cập nhật các phát triển mới nhất trong blockchain, DeFi và các công nghệ backend.
 
-### Skills & Qualifications
+### Kỹ Năng & Trình Độ
 
-* 5+ years of experience in backend development.
-* Strong knowledge of modern backend programming languages such as Typescript
-* &#x20;(must have), Rust (nice to have).
-* Experience working with smart contracts and Ethereum-based / Solana-based applications.
-* Experience working with microservices and distributed systems.
-* Deep understanding of blockchain, cryptocurrency, and DeFi concepts.
-* Hands-on experience building APIs and integrating with third-party services.
-* Experience with cloud platforms (e.g., AWS, DigitalOcean).
-* Strong problem-solving skills and attention to detail.
-* Excellent communication skills and a collaborative mindset.
+* 5+ năm kinh nghiệm trong phát triển backend.
+* Kiến thức vững chắc về các ngôn ngữ lập trình backend hiện đại như Typescript
+* &#x20;(bắt buộc), Rust (điểm cộng).
+* Kinh nghiệm làm việc với hợp đồng thông minh và các ứng dụng dựa trên Ethereum / Solana.
+* Kinh nghiệm làm việc với microservices và hệ thống phân tán.
+* Hiểu biết sâu sắc về các khái niệm blockchain, tiền điện tử và DeFi.
+* Kinh nghiệm thực hành xây dựng API và tích hợp với dịch vụ bên thứ ba.
+* Kinh nghiệm với các nền tảng đám mây (ví dụ: AWS, DigitalOcean).
+* Kỹ năng giải quyết vấn đề mạnh mẽ và chú ý đến chi tiết.
+* Kỹ năng giao tiếp xuất sắc và tư duy cộng tác.
 
-### Good to have
+### Điểm Cộng
 
-* Knowledge of container orchestration technologies like Kubernetes.
-* Familiarity with database technologies like PostgreSQL, Redis, or similar.
-* Previous experience working in a startup or fast-paced environment.
-* Experience with indexing solutions such as TheGraph or Subsquid.
+* Kiến thức về công nghệ điều phối container như Kubernetes.
+* Quen thuộc với các công nghệ cơ sở dữ liệu như PostgreSQL, Redis hoặc tương tự.
+* Kinh nghiệm trước đây làm việc trong startup hoặc môi trường nhanh nhẹn.
+* Kinh nghiệm với các giải pháp lập chỉ mục như TheGraph hoặc Subsquid.
 
-### Why Join Us?
+### Tại Sao Gia Nhập Chúng Tôi?
 
-* Work on cutting-edge technology in the exciting field of blockchain and DeFi.
-* Join a passionate, knowledgeable, and supportive team.
-* Opportunities for growth and development in the fast-evolving crypto space
+* Làm việc với công nghệ tiên tiến trong lĩnh vực blockchain và DeFi thú vị.
+* Tham gia một đội ngũ đam mê, hiểu biết và hỗ trợ.
+* Cơ hội phát triển và phát triển trong không gian crypto đang phát triển nhanh chóng
 
-### How to apply
+### Cách thức ứng tuyển
 
-Email hiring@pancakeswap.com with your resume!
+Gửi email đến hiring@pancakeswap.com kèm CV của bạn!

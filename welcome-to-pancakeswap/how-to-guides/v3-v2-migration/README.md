@@ -1,3 +1,3 @@
-# 3⃣ V3 Migration
+# 3⃣ Chuyển Đổi V3
 
-Here are some useful documents for the migration of Exchange V3 and Farm V3.
+Đây là một số tài liệu hữu ích cho việc chuyển đổi Exchange V3 và Farm V3.

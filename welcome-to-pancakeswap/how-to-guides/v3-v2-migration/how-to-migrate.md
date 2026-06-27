@@ -1,20 +1,20 @@
 ---
 description: >-
-  Migrate your liquidity and farm stakings to the new PancakeSwap Exchange and
-  Farm V3
+  Chuyển đổi thanh khoản và staking Farm của bạn sang PancakeSwap Exchange và
+  Farm V3 mới
 ---
 
-# How to migrate
+# Cách chuyển đổi
 
-<figure><img src="../../../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28133%29.png" alt=""><figcaption></figcaption></figure>
 
-In April 2023, PancakeSwap announced V3 for Exchange and Farms. Some farming pairs will need to be migrated to keep earning staking rewards. Relax, like last time, it should be smooth.
+Vào tháng 4 năm 2023, PancakeSwap đã công bố V3 cho Exchange và Farms. Một số cặp farming sẽ cần được chuyển đổi để tiếp tục kiếm phần thưởng staking. Hãy thư giãn, như lần trước, quá trình này sẽ suôn sẻ.
 
-### But wait! Do I need to migrate? <a href="#id-4b9e0260-9dee-493b-b0ad-6bdba084cea6" id="id-4b9e0260-9dee-493b-b0ad-6bdba084cea6"></a>
+### Nhưng khoan đã! Tôi có cần chuyển đổi không? <a href="#id-4b9e0260-9dee-493b-b0ad-6bdba084cea6" id="id-4b9e0260-9dee-493b-b0ad-6bdba084cea6"></a>
 
-You need to migrate if you meet the following conditions:
+Bạn cần chuyển đổi nếu bạn đáp ứng các điều kiện sau:
 
-**Farming on the following V2 PancakeSwap Farms:**
+**Đang farming trên các PancakeSwap Farm V2 sau:**
 
 * BNB Chain:
   * CAKE-BNB
@@ -36,99 +36,99 @@ You need to migrate if you meet the following conditions:
   * ETH-USDT
   * WBTC-ETH
 
-The list will likely grow eventually. The easiest way to check the updated list is to visit [https://pancakeswap.finance/migration](https://pancakeswap.finance/migration) and connect your wallet
+Danh sách có thể sẽ tăng dần. Cách dễ nhất để kiểm tra danh sách cập nhật là truy cập [https://pancakeswap.finance/migration](https://pancakeswap.finance/migration) và kết nối ví của bạn
 
-**Providing V2 liquidity, and meeting the following conditions:**
+**Cung cấp thanh khoản V2 và đáp ứng các điều kiện sau:**
 
-* The majority of the liquidity for the token pair has been migrated to V3 - Please check the PancakeSwap Info page, or the website or social channels of the token project for more detail.
-* The project team of that token has announced the liquidity will be migrated to V3 - Please check the individual project websites or social channels for more detail.
+* Phần lớn thanh khoản cho cặp token đã được chuyển đổi sang V3 - Vui lòng kiểm tra trang PancakeSwap Info, hoặc trang web hoặc kênh mạng xã hội của dự án token để biết thêm chi tiết.
+* Nhóm dự án của token đó đã thông báo thanh khoản sẽ được chuyển đổi sang V3 - Vui lòng kiểm tra các trang web hoặc kênh mạng xã hội của dự án riêng lẻ để biết thêm chi tiết.
 
-### How to migrate <a href="#c7d7b407-268c-460c-a4f1-be1b771db5e7" id="c7d7b407-268c-460c-a4f1-be1b771db5e7"></a>
+### Cách chuyển đổi <a href="#c7d7b407-268c-460c-a4f1-be1b771db5e7" id="c7d7b407-268c-460c-a4f1-be1b771db5e7"></a>
 
-<figure><img src="../../../.gitbook/assets/image (283).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28283%29.png" alt=""><figcaption></figcaption></figure>
 
-Look for the V3 migration banner on the Liquidity or Farm page. Then click “Proceed” to enter the migration helper page.
-
-
-
-**Step 1 - Unstake from V2 and/or StableSwap farms**
-
-<figure><img src="../../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
-
-In step 1, the helper will list all the PancakeSwap V2 or StableSwap farms that require migrations.
-
-Click each of the “Unstake All” buttons to unstake all staked LP tokens from farms. Your wallet will ask for confirmation.
-
-When all the listed farms are unstaked, click “Next Steps” to proceed.
+Tìm banner chuyển đổi V3 trên trang Liquidity hoặc Farm. Sau đó nhấp "Proceed" để vào trang công cụ hỗ trợ chuyển đổi.
 
 
 
-**Step 2 - Remove liquidity from Exchange V2 or StableSwap**
+**Bước 1 - Rút staking từ Farm V2 và/hoặc StableSwap**
 
-<figure><img src="../../../.gitbook/assets/image (315).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28119%29.png" alt=""><figcaption></figcaption></figure>
 
-In step 2, the helper will list all the liquidity positions that can be migrated to V3 with CAKE yield farming.
+Ở bước 1, công cụ hỗ trợ sẽ liệt kê tất cả các Farm PancakeSwap V2 hoặc StableSwap cần chuyển đổi.
 
-Click each of the "Remove" buttons to bring up the remove liquidity modal with 100% selected.&#x20;
+Nhấp vào từng nút "Unstake All" để rút staking tất cả LP token đã staking khỏi Farm. Ví của bạn sẽ yêu cầu xác nhận.
 
-Then click “Enable”, sign the transaction in your wallet, and click “Remove”. Your wallet will ask for confirmation.
+Khi tất cả các Farm được liệt kê đã được rút staking, nhấp "Next Steps" để tiếp tục.
+
+
+
+**Bước 2 - Xóa thanh khoản từ Exchange V2 hoặc StableSwap**
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28315%29.png" alt=""><figcaption></figcaption></figure>
+
+Ở bước 2, công cụ hỗ trợ sẽ liệt kê tất cả các vị thế thanh khoản có thể được chuyển đổi sang V3 với yield farming CAKE.
+
+Nhấp vào từng nút "Remove" để mở modal xóa thanh khoản với 100% được chọn.&#x20;
+
+Sau đó nhấp "Enable", ký giao dịch trong ví và nhấp "Remove". Ví của bạn sẽ yêu cầu xác nhận.
 
 {% hint style="info" %}
-Even though some other project tokens are also migrating to V3, they will not appear in the list. Please check the individual project websites or social channels for more detail. And use the [Liquidity](https://pancakeswap.finance/liquidity) page to migrate manually.
+Mặc dù một số token dự án khác cũng đang chuyển đổi sang V3, chúng sẽ không xuất hiện trong danh sách. Vui lòng kiểm tra các trang web hoặc kênh mạng xã hội của dự án riêng lẻ để biết thêm chi tiết. Và sử dụng trang [Liquidity](https://pancakeswap.finance/liquidity) để chuyển đổi thủ công.
 {% endhint %}
 
 
 
-**Step 3 - Get ready for V3**
+**Bước 3 - Chuẩn bị cho V3**
 
-<figure><img src="../../../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28186%29.png" alt=""><figcaption></figcaption></figure>
 
-No action is needed. Simply read and make sure you are familiar with how V3 works and how to provide liquidity in V3.
+Không cần hành động gì. Chỉ cần đọc và đảm bảo bạn đã quen với cách V3 hoạt động và cách cung cấp thanh khoản trong V3.
 
 
 
-**Step 4 - Add V3 liquidity**
+**Bước 4 - Thêm thanh khoản V3**
 
-![](<../../../.gitbook/assets/image (325).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28325%29.png)
 
-In this step, you will add your liquidity to the new Exchange V3.
+Ở bước này, bạn sẽ thêm thanh khoản vào Exchange V3 mới.
 
-Click “Add Liquidity”. Your previously removed V2 liquidity will show up in the list, click “Add” to bring up the interface for adding V3 liquidity.
+Nhấp "Add Liquidity". Thanh khoản V2 đã xóa trước đó của bạn sẽ xuất hiện trong danh sách, nhấp "Add" để mở giao diện thêm thanh khoản V3.
 
-If you don’t see the pair you want to add, click “Add Other Pairs” instead and choose the two tokens manually.
+Nếu bạn không thấy cặp muốn thêm, hãy nhấp "Add Other Pairs" và chọn hai token thủ công.
 
-For a more detailed tutorial on how to provide liquidity in V3, read [here](../../../earn/pancakeswap-pools/liquidity-guide.md).
+Để có hướng dẫn chi tiết hơn về cách cung cấp thanh khoản trong V3, đọc [tại đây](../../../earn/pancakeswap-pools/liquidity-guide.md).
 
-If you have questions while providing liquidity in V3, check here for [FAQ](../../../trade/trading-faq/swap-faq.md).
+Nếu bạn có câu hỏi khi cung cấp thanh khoản trong V3, kiểm tra [FAQ](../../../trade/trading-faq/swap-faq.md) tại đây.
 
 {% hint style="warning" %}
-Please be aware that in Exchange V3, only active (in-range) liquidity positions will earn trading fee rewards.
+Xin lưu ý rằng trong Exchange V3, chỉ các vị thế thanh khoản đang hoạt động (trong phạm vi) mới kiếm được phần thưởng phí giao dịch.
 
-Please be cautious while setting the price range for the liquidity position.
+Hãy thận trọng khi đặt phạm vi giá cho vị thế thanh khoản.
 {% endhint %}
 
 
 
-**Step 5 - Stake in V3 farms**
+**Bước 5 - Staking trong Farm V3**
 
-<figure><img src="../../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2835%29.png" alt=""><figcaption></figcaption></figure>
 
-In this step, you will stake your freshly added V3 liquidity positions to the new V3 farms to start earning CAKE rewards!
+Ở bước này, bạn sẽ staking các vị thế thanh khoản V3 vừa thêm vào các Farm V3 mới để bắt đầu kiếm phần thưởng CAKE!
 
-Click each of the “Stake” buttons on the position to stake them into farms. Your wallet will ask for confirmation.
+Nhấp vào từng nút "Stake" trên vị thế để staking chúng vào Farm. Ví của bạn sẽ yêu cầu xác nhận.
 
-For a more detailed tutorial on how to farm in V3, read [here](../../../earn/yield-farming/how-to-use-farms/#farm-v3).
+Để có hướng dẫn chi tiết hơn về cách farm trong V3, đọc [tại đây](../../../earn/yield-farming/how-to-use-farms/#farm-v3).
 
-If you have questions while staking liquidity in V3 farms, check here for [FAQ](../../../earn/earn-faq/farming-faq.md).
+Nếu bạn có câu hỏi khi staking thanh khoản trong Farm V3, kiểm tra [FAQ](../../../earn/earn-faq/farming-faq.md) tại đây.
 
 {% hint style="warning" %}
-Please be aware that in Farm V3, only active (in-range) liquidity positions will earn CAKE rewards.
+Xin lưu ý rằng trong Farm V3, chỉ các vị thế thanh khoản đang hoạt động (trong phạm vi) mới kiếm được phần thưởng CAKE.
 
-Please be cautious while setting the price range for the liquidity position.
+Hãy thận trọng khi đặt phạm vi giá cho vị thế thanh khoản.
 {% endhint %}
 
 
 
-**Finished**
+**Hoàn tất**
 
-That's it. You've migrated your farm staking and liquidity to the new PancakeSwap V3!
+Thế là xong. Bạn đã chuyển đổi staking Farm và thanh khoản sang PancakeSwap V3 mới!

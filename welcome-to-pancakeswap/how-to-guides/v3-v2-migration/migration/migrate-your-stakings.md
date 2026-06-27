@@ -1,117 +1,117 @@
 ---
-description: Migrate your farms and pools staking to the new PancakeSwap MasterChef
+description: Chuyển đổi staking farm và pool của bạn sang PancakeSwap MasterChef mới
 ---
 
-# Migrate Your Stakings
+# Chuyển Đổi Staking của Bạn
 
-![ICYDK: you are currently reading the "tutorial" mentioned in this banner](<../../../../.gitbook/assets/migration pre heat.png>)
+![ICYDK: bạn hiện đang đọc "hướng dẫn" được đề cập trong banner này](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration%20pre%20heat.png)
 
-In order to keep earning staking rewards, you will need to migrate your farms and pools staking to the new MasterChef. Relax, it's gonna be easy.
+Để tiếp tục kiếm phần thưởng staking, bạn sẽ cần chuyển đổi staking farm và pool của mình sang MasterChef mới. Hãy thư giãn, nó sẽ dễ dàng thôi.
 
 {% hint style="info" %}
-**But wait! Do I need to migrate?**
+**Nhưng khoan đã! Tôi có cần chuyển đổi không?**
 
-You need to migrate if you are:
+Bạn cần chuyển đổi nếu bạn đang:
 
-* Farming on PancakeSwap **Farms**.
-* Staking in PancakeSwap **CAKE Syrup Pools** (Manual, Auto, IFO).
+* Farming trên PancakeSwap **Farms**.
+* Staking trong PancakeSwap **CAKE Syrup Pools** (Thủ công, Tự động, IFO).
 
-\*other Syrup Pools aren’t affected
+\*các Syrup Pools khác không bị ảnh hưởng
 {% endhint %}
 
-## How to migrate?
+## Cách chuyển đổi?
 
-![At the time of the migration, Chefs will deploy a step-by-step helper to walk you through the process ](../../../../.gitbook/assets/migration-helper-overview.png)
+![Tại thời điểm chuyển đổi, Chefs sẽ triển khai trợ lý từng bước để hướng dẫn bạn qua quá trình](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration-helper-overview.png)
 
-### 1. Navigate to the migration helper
+### 1. Điều hướng đến trợ lý chuyển đổi
 
-Go to [https://pancakeswap.finance/migration](https://pancakeswap.finance/migration), and connect your wallet.
+Truy cập [https://pancakeswap.finance/migration](https://pancakeswap.finance/migration) và kết nối ví của bạn.
 
-### 2. Unstake from the old farms
+### 2. Rút staking khỏi các farm cũ
 
-There are two steps in the migration helper. In the first step, you should see a list of three CAKE syrup pools and farms you are currently staking.
+Có hai bước trong trợ lý chuyển đổi. Ở bước đầu tiên, bạn sẽ thấy danh sách ba CAKE syrup pools và farm mà bạn hiện đang staking.
 
-![](../../../../.gitbook/assets/migration-helper-steps-guide-3.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration-helper-steps-guide-3.png)
 
-Click "**Unstake All**" on each of the farms and pools to unstake all your assets.
+Nhấp "**Unstake All**" trên từng farm và pool để rút staking tất cả tài sản của bạn.
 
-![](<../../../../.gitbook/assets/migration-helper-steps-guide-4 (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration-helper-steps-guide-4%20%281%29.png)
 
-After unstaking, click "**Go to Stake**" to proceed to step 2.
+Sau khi rút staking, nhấp "**Go to Stake**" để tiếp tục bước 2.
 
-### 3. Stake your LP tokens and CAKE into the new farms and pools.
+### 3. Staking LP token và CAKE vào các farm và pool mới.
 
-Here you should see the brand new CAKE syrup pool and the new farms. Before staking, you will need to enable them.
+Tại đây bạn sẽ thấy CAKE syrup pool hoàn toàn mới và các farm mới. Trước khi staking, bạn sẽ cần kích hoạt chúng.
 
-![](<../../../../.gitbook/assets/migration-helper-steps-guide-5 (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration-helper-steps-guide-5%20%281%29.png)
 
-Click "**Enable**" to enable staking on each of the farms and the CAKE syrup pool. If you are using a mobile device, please click the “**v**” (downward arrow) to expand the card while looking for the "**Enable**" button.
+Nhấp "**Enable**" để kích hoạt staking trên từng farm và CAKE syrup pool. Nếu bạn đang sử dụng thiết bị di động, hãy nhấp "**v**" (mũi tên xuống) để mở rộng card trong khi tìm kiếm nút "**Enable**".
 
-After enabling, you will be able to start staking in the pool and farms.
+Sau khi kích hoạt, bạn sẽ có thể bắt đầu staking trong pool và farm.
 
 {% tabs %}
 {% tab title="CAKE Syrup Pool" %}
-![](<../../../../.gitbook/assets/migration-helper-steps-guide-7 (2).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration-helper-steps-guide-7%20%282%29.png)
 
-For CAKE syrup pool. Please:
+Đối với CAKE syrup pool. Vui lòng:
 
-1. Click "**Flexible**" under the "Stake CAKE" section.
-2. Enter the amount of CAKE you want to stake.
-3. Click "**Confirm**".
+1. Nhấp "**Flexible**" trong phần "Stake CAKE".
+2. Nhập số lượng CAKE bạn muốn staking.
+3. Nhấp "**Confirm**".
 
 
 
 {% hint style="info" %}
-The locked (fixed-term) staking option will become available a few days after the migration. You will be able to convert your flexible staking position to a locked one. To learn more about the new CAKE syrup pool with fixed-term staking, please check out [this doc](../../../../archive/legacy-products/new-cake-pool/).
+Tùy chọn staking có khóa (kỳ hạn cố định) sẽ có sẵn vài ngày sau khi chuyển đổi. Bạn sẽ có thể chuyển đổi vị thế staking linh hoạt của mình sang vị thế có khóa. Để tìm hiểu thêm về CAKE syrup pool mới với staking kỳ hạn cố định, vui lòng xem [tài liệu này](../../../../archive/legacy-products/new-cake-pool/).
 {% endhint %}
 {% endtab %}
 
 {% tab title="Farms" %}
-![](../../../../.gitbook/assets/migration-helper-steps-guide-8.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration-helper-steps-guide-8.png)
 
-For farms, please:
+Đối với farm, vui lòng:
 
-1. Click "**Stake**".
-2. Enter the amount of LP tokens you want to stake.
-3. Click "**Confirm**"
+1. Nhấp "**Stake**".
+2. Nhập số lượng LP token bạn muốn staking.
+3. Nhấp "**Confirm**"
 {% endtab %}
 {% endtabs %}
 
-### 4. Done!
+### 4. Xong!
 
-![](<../../../../.gitbook/assets/migration-helper-steps-guide-9 (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration-helper-steps-guide-9%20%281%29.png)
 
-You are now staking in the new MasterChef and continue earning CAKE rewards! Click "**Finish**" to go back and explore some other great products PancakeSwap offers.
+Bây giờ bạn đang staking trong MasterChef mới và tiếp tục kiếm phần thưởng CAKE! Nhấp "**Finish**" để quay lại và khám phá một số sản phẩm tuyệt vời khác mà PancakeSwap cung cấp.
 
-## Migration Timeline
+## Lịch Trình Chuyển Đổi
 
-![](<../../../../.gitbook/assets/en - migration timeline - 2.png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/en%20-%20migration%20timeline%20-%202.png)
 
-Make sure to follow our [Twitter](https://twitter.com/pancakeswap/) or [Telegram](https://t.me/PancakeSwapAnn) announcement channel for detailed timing and the latest updates! Need any help? Learn more about how to reach for help [here](../../../contact-us/#help).
+Hãy đảm bảo theo dõi kênh thông báo [Twitter](https://twitter.com/pancakeswap/) hoặc [Telegram](https://t.me/PancakeSwapAnn) của chúng tôi để biết thời gian chi tiết và các cập nhật mới nhất! Cần trợ giúp? Tìm hiểu thêm về cách tìm kiếm trợ giúp [tại đây](../../../contact-us/#help).
 
 ## FAQ
 
-#### **When will it finish?**
+#### **Khi nào sẽ hoàn tất?**
 
-Migration will take several hours, but it should be totally finished upon the launch of the migration helper page. Follow our [Twitter](https://twitter.com/pancakeswap/) or [Telegram](https://t.me/PancakeSwapAnn) announcement channel for the latest updates!
+Quá trình chuyển đổi sẽ mất vài giờ, nhưng sẽ hoàn toàn hoàn tất khi trang trợ lý chuyển đổi được ra mắt. Theo dõi kênh thông báo [Twitter](https://twitter.com/pancakeswap/) hoặc [Telegram](https://t.me/PancakeSwapAnn) của chúng tôi để biết các cập nhật mới nhất!
 
-#### **When must I migrate?**
+#### **Tôi phải chuyển đổi vào lúc nào?**
 
-1. You will be able to migrate at any time. There’s no time limit.&#x20;
-2. It’s better to migrate sooner so you can continue to earn rewards from farms and pools.
+1. Bạn sẽ có thể chuyển đổi bất cứ lúc nào. Không có giới hạn thời gian.&#x20;
+2. Tốt hơn là chuyển đổi sớm hơn để bạn có thể tiếp tục kiếm phần thưởng từ farm và pool.
 
-#### I don’t see the migration helper!
+#### Tôi không thấy trợ lý chuyển đổi!
 
-It will only be deployed once smart contract deployments and configurations are completed. It could take serval hours. Follow our [Twitter](https://twitter.com/pancakeswap/) or [Telegram](https://t.me/PancakeSwapAnn) announcement channel for the latest updates!
+Nó sẽ chỉ được triển khai sau khi các triển khai và cấu hình hợp đồng thông minh hoàn tất. Có thể mất vài giờ. Theo dõi kênh thông báo [Twitter](https://twitter.com/pancakeswap/) hoặc [Telegram](https://t.me/PancakeSwapAnn) của chúng tôi để biết các cập nhật mới nhất!
 
-#### Why lock staking is not available?
+#### Tại sao staking có khóa không có sẵn?
 
-SOON! To achieve a smooth migration. Lock (fixed-term) staking will be enabled a few days after the migrations.
+SẮP CÓ! Để đạt được quá trình chuyển đổi suôn sẻ. Staking có khóa (kỳ hạn cố định) sẽ được kích hoạt vài ngày sau khi chuyển đổi.
 
-#### I can't find my farms in the migration helper!
+#### Tôi không tìm thấy farm của mình trong trợ lý chuyển đổi!
 
-It might be due to the farm being discontinued before the migration. Please:
+Có thể do farm đã bị ngừng hoạt động trước khi chuyển đổi. Vui lòng:
 
-1. Go to **Farms**.
-2. Choose “**Finished**” at the top of the farm list.
-3. Click “**Check out v1 farms**” to look for your farm.
+1. Vào **Farms**.
+2. Chọn "**Finished**" ở đầu danh sách farm.
+3. Nhấp "**Check out v1 farms**" để tìm farm của bạn.

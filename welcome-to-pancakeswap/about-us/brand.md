@@ -1,75 +1,74 @@
 ---
-description: Guidlines and downloadable assets like the PancakeSwap logo SVG
+description: Hướng dẫn và tài nguyên tải xuống như SVG logo PancakeSwap
 ---
 
-# Brand & Logos
+# Thương Hiệu & Logo
 
-![](<../../.gitbook/assets/Frame 6.png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Frame%206.png)
 
-👇[ Jump to logo download](brand.md#pancakeswap-logo-downloads)
+👇[ Chuyển đến phần tải logo](brand.md#pancakeswap-logo-downloads)
 
-## Intro
+## Giới thiệu
 
-PancakeSwap logo downloads are at the bottom of this page, but please be sure to read these guidelines first.
+Các file tải xuống logo PancakeSwap có ở cuối trang này, nhưng vui lòng đọc kỹ các hướng dẫn trước.
 
-> Although PancakeSwap distributes some of its technology under open-source licenses, **the PancakeSwap and CAKE brands are not distributed under the same licenses.**
+> Mặc dù PancakeSwap phân phối một số công nghệ của mình theo giấy phép mã nguồn mở, **thương hiệu PancakeSwap và CAKE không được phân phối theo cùng giấy phép đó.**
 
-The following PancakeSwap "Brand Assets" are copyrighted material, and you may only use them in accordance with the policy detailed below:
+Các "Tài Sản Thương Hiệu" PancakeSwap sau đây là tài liệu có bản quyền, và bạn chỉ được phép sử dụng chúng theo chính sách được nêu chi tiết bên dưới:
 
-* The PancakeSwap and CAKE logos, wordmark, icon
-* The PancakeSwap name
-* Other visual assets produced by PancakeSwap including but not limited to illustrations and 3d models
+* Logo, wordmark, icon của PancakeSwap và CAKE
+* Tên PancakeSwap
+* Các tài sản hình ảnh khác do PancakeSwap sản xuất bao gồm nhưng không giới hạn ở hình minh họa và mô hình 3D
 
-## What you may do
+## Những gì bạn được phép làm
 
-You may use PancakeSwap's Brand Assets when you are:
+Bạn có thể sử dụng Tài Sản Thương Hiệu của PancakeSwap khi:
 
-* 👌 Referring to our products and services
-* 👌 Linking to our official site or products, such as "Trade our token on PancakeSwap"
-* 👌 Announcing an official partnership, but only if you have **official approval** by a qualified member of the PancakeSwap team
+* 👌 Đề cập đến sản phẩm và dịch vụ của chúng tôi
+* 👌 Liên kết đến trang web hoặc sản phẩm chính thức của chúng tôi, ví dụ như "Giao dịch token của chúng tôi trên PancakeSwap"
+* 👌 Thông báo một quan hệ đối tác chính thức, nhưng chỉ khi bạn có **sự chấp thuận chính thức** từ một thành viên có thẩm quyền của đội ngũ PancakeSwap
 
-For information on other uses of our Brand Assets, please reach out at info@pancakeswap.com
+Để biết thêm thông tin về các cách sử dụng khác của Tài Sản Thương Hiệu, vui lòng liên hệ tại info@pancakeswap.com
 
-## What you may not do
+## Những gì bạn không được phép làm
 
-While we strongly believe in and follow the open source ethos, **protecting the PancakeSwap brand is extremely important for our users' security,** so that users know what is a genuine product/endorsement and what isn't.
+Mặc dù chúng tôi tin tưởng mạnh mẽ và tuân theo tinh thần mã nguồn mở, **việc bảo vệ thương hiệu PancakeSwap cực kỳ quan trọng đối với sự an toàn của người dùng,** để người dùng biết đâu là sản phẩm/sự chứng thực thực sự và đâu không phải.
 
-Here are a few examples of forbidden uses of our Brand Assets:
+Dưới đây là một số ví dụ về các cách sử dụng bị cấm đối với Tài Sản Thương Hiệu của chúng tôi:
 
-* ⛔️ **Don't use our Brand Assets in your products' name, logo, NFTs, etc.**&#x20;
-  * For example, making an app called "PancakeSwap Engine" or "CAKE Child" are not allowed.
-  * Don't use the PancakeSwap logo in whole or in part as part of your products' logos, marketing material, website, or other.
-  * Logos with a strong resemblence to the PancakeSwap Icon are also forbidden.
-* ⛔️ **Don't use our Brand Assets to create digital or physcial products for sale, including but not limited to**
-  * Merchandise ("Swag")
-  * NFTs
-  * Other products
-*   ⛔️ **Don't create derivative names that imply official endorsement**
+* ⛔️ **Đừng sử dụng Tài Sản Thương Hiệu của chúng tôi trong tên sản phẩm, logo, NFT, v.v. của bạn.**&#x20;
+  * Ví dụ, tạo một ứng dụng có tên "PancakeSwap Engine" hoặc "CAKE Child" đều không được phép.
+  * Không sử dụng logo PancakeSwap toàn bộ hoặc một phần như là một phần của logo sản phẩm, tài liệu marketing, trang web hoặc nơi khác của bạn.
+  * Logo có sự giống nhau lớn với Biểu tượng PancakeSwap cũng bị cấm.
+* ⛔️ **Đừng sử dụng Tài Sản Thương Hiệu của chúng tôi để tạo ra sản phẩm kỹ thuật số hoặc vật lý để bán, bao gồm nhưng không giới hạn ở**
+  * Hàng lưu niệm ("Swag")
+  * NFT
+  * Các sản phẩm khác
+*   ⛔️ **Đừng tạo ra các tên phái sinh ngụ ý được chứng thực chính thức**
 
-    For example, don't make a social media group called "PancakeSwap Italy" - this sounds official. "PancakeSwap Fans of Italy" may be permitted.
-*   ⛔️ **Don't change or adapt our Brand Assets in any way**
+    Ví dụ, đừng tạo một nhóm mạng xã hội có tên "PancakeSwap Italy" - điều này nghe có vẻ chính thức. "PancakeSwap Fans of Italy" có thể được phép.
+*   ⛔️ **Đừng thay đổi hoặc điều chỉnh Tài Sản Thương Hiệu của chúng tôi theo bất kỳ cách nào**
 
-    Use the logos and other assets exactly as provided. Do not change the colors, reassemble, abbreviate, or change these assets in any way.
+    Sử dụng logo và các tài sản khác chính xác như được cung cấp. Không thay đổi màu sắc, tái lắp ráp, viết tắt hoặc thay đổi các tài sản này theo bất kỳ cách nào.
 
-Use your common sense and creativity. If you want to make something relating to the PancakeSwap ecosystem, make it your own.
+Hãy dùng óc sáng tạo và nhận thức thông thường của bạn. Nếu bạn muốn tạo ra điều gì đó liên quan đến hệ sinh thái PancakeSwap, hãy làm cho nó là của riêng bạn.
 
-Have fun making a unique brand that's clearly yours -- if your product is strong, you won't need to rely on remixing PancakeSwap's brand.
+Hãy vui vẻ tạo ra một thương hiệu độc đáo rõ ràng là của bạn -- nếu sản phẩm của bạn đủ mạnh, bạn sẽ không cần phải dựa vào việc phối lại thương hiệu của PancakeSwap.
 
-## PancakeSwap Logo Downloads
+## Tải Xuống Logo PancakeSwap
 
-![](<../../.gitbook/assets/Frame 4.png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Frame%204.png)
 
-Once you've read all the above, download the PancakeSwap and CAKE logos below.
+Sau khi đọc hết tất cả nội dung trên, hãy tải xuống logo PancakeSwap và CAKE bên dưới.
 
 {% file src="../../.gitbook/assets/PancakeSwap Logos.zip" %}
-Download the official PancakeSwap and CAKE logos.
+Tải xuống logo chính thức của PancakeSwap và CAKE.
 {% endfile %}
 
-By downloading this file, you confirm that you will only use it to the extent permitted by the Terms detailed in this page.
+Bằng cách tải xuống file này, bạn xác nhận rằng bạn sẽ chỉ sử dụng nó trong phạm vi được phép theo Điều khoản được nêu chi tiết trên trang này.
 
 {% hint style="info" %}
-As of November 1st, the CAKE token logo will also be represented by the PancakeSwap Rabbit icon.
+Kể từ ngày 1 tháng 11, logo token CAKE cũng sẽ được đại diện bởi biểu tượng Thỏ PancakeSwap.
 
-The previous CAKE icon, representing pancakes, has been depracated.
+Biểu tượng CAKE trước đây, đại diện cho những chiếc bánh pancake, đã bị ngừng sử dụng.
 {% endhint %}
-
