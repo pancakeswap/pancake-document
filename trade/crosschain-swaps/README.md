@@ -1,8 +1,8 @@
-# 🔀 Crosschain Swaps
+# 🔀 Hoán Đổi Xuyên Chuỗi
 
-Crosschain Swaps allow users to seamlessly swap tokens between chains — all within a single, streamlined transaction.
+Hoán đổi xuyên chuỗi cho phép người dùng hoán đổi token giữa các chuỗi một cách liền mạch — tất cả trong một giao dịch duy nhất, được tối ưu hóa.
 
-Crosschain swaps are supported between:
+Hoán đổi xuyên chuỗi được hỗ trợ giữa:
 
 * BNB Chain
 * Ethereum
@@ -13,61 +13,61 @@ Crosschain swaps are supported between:
 * Linea
 
 {% hint style="success" %}
-**Transactions are lightning-fast — typically completing within seconds to under a minute.**
+**Giao dịch cực kỳ nhanh — thường hoàn tất trong vài giây đến dưới một phút.**
 {% endhint %}
 
 ***
 
-### 🔍 How It Works
+### 🔍 Cách Hoạt Động
 
-1. User selects From / To chain and From / To token
-2. The PancakeSwap router computes the most efficient route
-3. Swaps are executed using PancakeSwap’s liquidity pools (v2, v3, Infinity, StableSwaps) on source and destination chains
-4. Bridging is handled via our partner protocols: [Across](https://across.to/) (for EVM <> EVM), [Relay](https://relay.link/bridge) (for SOL <> EVM)
+1. Người dùng chọn chuỗi Từ / Đến và token Từ / Đến
+2. Bộ định tuyến PancakeSwap tính toán lộ trình hiệu quả nhất
+3. Hoán đổi được thực hiện thông qua các nhóm thanh khoản của PancakeSwap (v2, v3, Infinity, StableSwaps) trên chuỗi nguồn và chuỗi đích
+4. Việc kết nối chuỗi được xử lý qua các giao thức đối tác: [Across](https://across.to/) (cho EVM <> EVM), [Relay](https://relay.link/bridge) (cho SOL <> EVM)
 
 {% hint style="success" %}
-**Crosschain swaps are available for any token with adequate liquidity on both the source and destination chains.**
+**Hoán đổi xuyên chuỗi khả dụng cho bất kỳ token nào có đủ thanh khoản trên cả chuỗi nguồn và chuỗi đích.**
 {% endhint %}
 
 ***
 
-### 💸 Fees
+### 💸 Phí
 
-* **PancakeSwap does not charge any fee for Crosschain transactions.**
-* Fees are comprised of:
-  1. **Trading Fee:** Incurred for swaps within liquidity pools on the source and destination chains
-  2. **Bridge Fee:** Paid to relayers for bridging assets
+* **PancakeSwap không thu bất kỳ phí nào cho các giao dịch xuyên chuỗi.**
+* Phí bao gồm:
+  1. **Phí Giao Dịch:** Phát sinh từ các hoán đổi trong nhóm thanh khoản trên chuỗi nguồn và chuỗi đích
+  2. **Phí Cầu Nối:** Trả cho các relayer để kết nối tài sản giữa các chuỗi
 
 ***
 
-### 🎯 What Are Intents?
+### 🎯 Intents Là Gì?
 
-Intents let users define their desired outcome without worrying about how it’s achieved.
+Intents cho phép người dùng xác định kết quả mong muốn mà không cần lo lắng về cách thực hiện.
 
-Example Intents:
+Ví dụ về Intents:
 
-* “Swap 1 ETH on Base for at least 3000 USDC on Arbitrum”
+* "Hoán đổi 1 ETH trên Base lấy ít nhất 3000 USDC trên Arbitrum"
 
-Without intents, a user would need to manually:
+Nếu không có intents, người dùng sẽ phải thực hiện thủ công:
 
-* Bridge ETH to Arbitrum
-* Find a DEX with the best ETH → USDC price
+* Kết nối cầu nối ETH sang Arbitrum
+* Tìm DEX với giá ETH → USDC tốt nhất
 
 {% hint style="success" %}
-**With intents — the system handles it all automatically.**
+**Với intents — hệ thống xử lý tất cả tự động.**
 {% endhint %}
 
-**Benefits of intent-based design:**
+**Lợi ích của thiết kế dựa trên intent:**
 
-* Seamless UX
-* Faster transaction times
-* One-click, single transactions
+* Trải nghiệm người dùng liền mạch
+* Thời gian giao dịch nhanh hơn
+* Giao dịch một cú nhấp chuột, đơn lẻ
 
 ***
 
-### 🔐 Audits
+### 🔐 Kiểm Toán
 
-We’ve conducted multiple audit rounds with respected names in the cross-chain security space:
+Chúng tôi đã thực hiện nhiều vòng kiểm toán với các tên tuổi uy tín trong lĩnh vực bảo mật chuỗi chéo:
 
 * [**Pashov Audit Group**](https://developer.pancakeswap.finance/crosschain/pashov-audit.pdf)
 * [**BurraSec**](https://developer.pancakeswap.finance/crosschain/burrasec-audit.pdf)

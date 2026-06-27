@@ -1,25 +1,25 @@
-# 🔄 Exchange
+# 🔄 Sàn Giao Dịch
 
-![](../../.gitbook/assets/pancakeswap-exchange-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/pancakeswap-exchange-header.png)
 
-PancakeSwap is an Automated Market Maker (AMM), and the Exchange is at the heart of PancakeSwap. PancakeSwap is the leading AMM on the BNB Smart Chain, and as statistics tell, the most popular Decentralized Exchange (DEX) ever!
+PancakeSwap là một Automated Market Maker (AMM), và Sàn Giao Dịch là trung tâm của PancakeSwap. PancakeSwap là AMM hàng đầu trên BNB Smart Chain và theo thống kê, là Sàn Giao Dịch Phi Tập Trung (DEX) phổ biến nhất từ trước đến nay!
 
-The PancakeSwap Exchange offers several features that support decentralized trading:
+Sàn Giao Dịch PancakeSwap cung cấp một số tính năng hỗ trợ giao dịch phi tập trung:
 
-### Swapping/Trading
+### Hoán Đổi/Giao Dịch
 
-PancakeSwap lets users trade without the need to go through a Centralized Exchange. Everything you do on PancakeSwap is routed directly through your own wallet—no need to trust someone else with your coins!
+PancakeSwap cho phép người dùng giao dịch mà không cần thông qua Sàn giao dịch tập trung. Mọi thứ bạn thực hiện trên PancakeSwap đều được định tuyến trực tiếp qua ví của bạn — không cần tin tưởng người khác với tài sản của bạn!
 
-### Liquidity Pools
+### Nhóm Thanh Khoản
 
-You can only swap tokens on PancakeSwap if there is enough liquidity for those tokens. If nobody has added much liquidity for the token or tokens you want to swap, it will be difficult, expensive, or impossible to do so.
+Bạn chỉ có thể hoán đổi token trên PancakeSwap nếu có đủ thanh khoản cho các token đó. Nếu không ai cung cấp đủ thanh khoản cho token hoặc các token bạn muốn hoán đổi, việc thực hiện sẽ khó khăn, tốn kém hoặc không thể thực hiện được.
 
-Providing liquidity will get you LP Tokens, which will earn you rewards in the form of trading fees for making sure there's always liquidity for the exchange to use.
+Cung cấp thanh khoản sẽ cho bạn LP Token, giúp bạn kiếm phần thưởng dưới dạng phí giao dịch để đảm bảo luôn có thanh khoản cho sàn giao dịch sử dụng.
 
 ### Yield Farming
 
-Yield farming lets users that are providing liquidity earn CAKE rewards by locking their LP tokens into a smart contract. The incentive is to balance out the risk of [impermanent loss](https://academy.binance.com/en/articles/impermanent-loss-explained) that comes along with locking in your liquidity.
+Yield Farming cho phép người dùng đang cung cấp thanh khoản kiếm phần thưởng CAKE bằng cách khóa LP token của họ vào hợp đồng thông minh. Động lực là để cân bằng rủi ro của [tổn thất tạm thời](https://academy.binance.com/en/articles/impermanent-loss-explained) đi kèm với việc khóa thanh khoản.
 
-### Initial Farm Offerings (IFOs)
+### Chào Bán Farm Ban Đầu (IFO)
 
-An Initial Farm Offering is an event that lets users buy into a limited-time offer to purchase new tokens. The IFO price is usually very generous.
+IFO là sự kiện cho phép người dùng mua vào ưu đãi có thời hạn để mua token mới. Giá IFO thường rất hấp dẫn.

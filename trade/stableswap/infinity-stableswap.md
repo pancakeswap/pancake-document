@@ -1,197 +1,196 @@
 # Infinity StableSwap
 
-### Overview
+### Tổng Quan
 
-Infinity StableSwap is a pool type within[ PancakeSwap Infinity](https://docs.pancakeswap.finance/trade/pancakeswap-infinity) optimized for swapping assets that should trade near the same price — such as stablecoins (e.g., USDC/USDT) or tightly-pegged assets (e.g., wrapped token pairs, liquid staking tokens, and liquid restaking tokens).
+Infinity StableSwap là một loại pool trong [PancakeSwap Infinity](https://docs.pancakeswap.finance/trade/pancakeswap-infinity) được tối ưu hóa để hoán đổi các tài sản nên giao dịch gần cùng mức giá — như stablecoin (ví dụ: USDC/USDT) hoặc các tài sản được gắn chặt (ví dụ: cặp token wrapped, token staking lỏng và token restaking lỏng).
 
-It is powered by a StableSwap hook running on the Infinity architecture, inspired by Curve's StableSwap NG design. It is currently available on BNB Chain, with plans to expand to additional chains in the future.
-
-***
-
-### How It Works
-
-Infinity StableSwap uses a stable invariant curve — a hybrid between constant-sum and constant-product:
-
-* Near the peg → the curve behaves close to constant-sum, resulting in very low slippage for trades around 1:1.
-* Away from the peg → the curve gradually transitions toward constant-product, which helps restore balance and protects the pool during large imbalances or depeg events.
-
-This makes it especially effective for stable pairs where tight pricing and low slippage matter most.
+Nó được hỗ trợ bởi một StableSwap hook chạy trên kiến trúc Infinity, lấy cảm hứng từ thiết kế StableSwap NG của Curve. Hiện đang khả dụng trên BNB Chain, với kế hoạch mở rộng sang các chuỗi bổ sung trong tương lai.
 
 ***
 
-### Key Features
+### Cách Hoạt Động
 
-Optimized for near-peg swaps: Low slippage for trades between assets that are expected to trade at roughly the same price.
+Infinity StableSwap sử dụng đường cong hằng số ổn định — kết hợp giữa tổng không đổi và tích không đổi:
 
-Simple liquidity provisioning: Liquidity providers (LPs) deposit both tokens proportionally without needing to select or manage price ranges — unlike CLAMM pools.
+* Gần điểm neo → đường cong hoạt động gần với tổng không đổi, dẫn đến trượt giá rất thấp cho các giao dịch quanh 1:1.
+* Xa điểm neo → đường cong dần chuyển sang tích không đổi, giúp khôi phục cân bằng và bảo vệ pool trong các sự kiện mất cân bằng lớn hoặc mất neo.
 
-ERC-20 LP tokens: Your LP position is represented as a standard ERC-20 token, making it easy to use with yield programs, points campaigns, and other DeFi protocols.
-
-Dynamic fees: Fees can adjust based on pool balance conditions, rewarding trades that help restore the pool toward equilibrium and discouraging those that worsen imbalance.
-
-Infinity routing support: Trades route automatically through StableSwap pools when they offer the best price — no extra steps required for traders.
-
-Adjustable Amplification (A) parameter: Pool operators can ramp the A parameter up or down over time to adapt to changing market conditions, with safeguards to prevent abrupt changes.
+Điều này làm cho nó đặc biệt hiệu quả cho các cặp ổn định nơi định giá chặt chẽ và trượt giá thấp là quan trọng nhất.
 
 ***
 
-### Pool Parameters
+### Tính Năng Chính
 
-StableSwap pool behavior is governed by a small set of parameters, typically set at pool creation time.
+Tối ưu hóa cho hoán đổi gần điểm neo: Trượt giá thấp cho các giao dịch giữa các tài sản dự kiến giao dịch ở mức giá gần bằng nhau.
 
-#### Amplification Coefficient (A)
+Cung cấp thanh khoản đơn giản: Nhà cung cấp thanh khoản (LP) gửi cả hai token theo tỷ lệ mà không cần chọn hay quản lý phạm vi giá — không giống pool CLAMM.
 
-The A parameter controls how tightly the pool hugs the 1:1 price peg.
+Token LP ERC-20: Vị thế LP của bạn được đại diện dưới dạng token ERC-20 tiêu chuẩn, giúp dễ dàng sử dụng với các chương trình yield, chiến dịch điểm và các giao thức DeFi khác.
 
-| A value  | Effect                                                                         |
-| -------- | ------------------------------------------------------------------------------ |
-| Higher A | Tighter curve around peg; lower slippage near 1:1; more sensitive to imbalance |
-| Lower A  | Looser curve; behaves more like a standard constant-product pool               |
+Phí động: Phí có thể điều chỉnh dựa trên điều kiện cân bằng pool, thưởng cho các giao dịch giúp khôi phục pool về trạng thái cân bằng và ngăn cản những giao dịch làm trầm trọng thêm sự mất cân bằng.
 
-Rule of thumb: Use a higher A for assets with a strong, reliable peg (e.g., USDC/USDT). Use a lower A for assets with looser or more volatile pegs (e.g., some LST pairs).
+Hỗ trợ định tuyến Infinity: Giao dịch được định tuyến tự động qua pool StableSwap khi chúng cung cấp giá tốt nhất — không cần thêm bước nào cho trader.
 
-The A parameter can be gradually ramped up or down by the pool operator over a defined period of time. Changes are applied gradually with safeguards to prevent manipulation or sudden pricing shifts.
-
-#### Off-Peg Fee Multiplier
-
-An additional parameter that adjusts effective fees when the pool moves away from equilibrium. It helps discourage trades that would further imbalance the pool and makes the pool more robust during market stress or depeg events.
-
-#### Dynamic Fees
-
-A fee charged on each swap, paid to liquidity providers. Infinity StableSwap supports dynamic fees — meaning the effective fee on a given trade can vary depending on the current state of the pool (e.g., whether the trade improves or worsens balance).
+Thông số Khuếch Đại (A) có thể điều chỉnh: Người vận hành pool có thể tăng hoặc giảm thông số A theo thời gian để thích ứng với điều kiện thị trường thay đổi, với các biện pháp bảo vệ để ngăn chặn thay đổi đột ngột.
 
 ***
 
-### Infinity StableSwap vs. Classic StableSwap
+### Thông Số Pool
 
-If you've used PancakeSwap's existing StableSwap before, here's what changes — and what stays the same.
+Hành vi pool StableSwap được điều chỉnh bởi một tập hợp nhỏ các thông số, thường được đặt tại thời điểm tạo pool.
 
-| <p><br></p>                 | Classic StableSwap                                        | Infinity StableSwap                                                |
-| --------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------ |
-| Pricing curve               | Stable invariant (hybrid constant-sum / constant-product) | Same stable invariant curve, same low slippage near peg            |
-| ERC-20 LP tokens            | ✅ Yes                                                     | ✅ Yes                                                              |
-| Pool creation               | Ops-heavy; requires manual setup by the team              | Permissionless — anyone can create a pool                          |
-| Swap fees                   | Fixed per pair (e.g. 0.01% for USDC/USDT)                 | Dynamic fees — adjusts based on how the trade affects pool balance |
-| Amplification (A) parameter | Static — set once, cannot be changed                      | Adjustable — can be ramped up or down gradually over time          |
-| Off-peg fee multiplier      | ❌ Not supported                                           | ✅ Supported — helps protect the pool during depeg events           |
-| Gas efficiency              | Standard                                                  | Improved — benefits from Infinity's Singleton and Flash Accounting |
+#### Hệ Số Khuếch Đại (A)
 
-#### What stays the same
+Thông số A kiểm soát mức độ chặt chẽ của pool theo tỷ lệ giá 1:1.
 
-* The core pricing curve and the near-peg low slippage behavior is unchanged.
+| Giá Trị A | Hiệu Ứng                                                                                     |
+| --------- | --------------------------------------------------------------------------------------------- |
+| A cao hơn | Đường cong chặt hơn quanh điểm neo; trượt giá thấp hơn gần 1:1; nhạy cảm hơn với mất cân bằng |
+| A thấp hơn | Đường cong lỏng hơn; hoạt động giống pool tích không đổi tiêu chuẩn hơn                    |
 
-#### What's new and better
+Quy tắc kinh nghiệm: Sử dụng A cao hơn cho các tài sản có neo mạnh, đáng tin cậy (ví dụ: USDC/USDT). Sử dụng A thấp hơn cho các tài sản có neo lỏng hơn hoặc biến động hơn (ví dụ: một số cặp LST).
 
-* Permissionless Pool Creation: Pools can be created permissionlessly without requiring manual team setup.
-* Dynamic fees protect LPs: Instead of a single fixed fee, the fee can adjust per trade based on whether the trade helps or hurts pool balance — making the pool more resilient during volatile conditions.
-* Adaptable A parameter: The amplification coefficient can be tuned over time as market conditions change, rather than being locked in at deployment forever.
+Thông số A có thể được tăng dần hoặc giảm dần bởi người vận hành pool trong một khoảng thời gian xác định. Các thay đổi được áp dụng dần dần với các biện pháp bảo vệ để ngăn chặn thao túng hoặc biến động giá đột ngột.
 
-***
+#### Hệ Số Nhân Phí Ngoài Điểm Neo
 
-### Frequently Asked Questions
+Một thông số bổ sung điều chỉnh phí hiệu dụng khi pool rời khỏi trạng thái cân bằng. Nó giúp ngăn cản các giao dịch có thể làm mất cân bằng pool thêm và làm cho pool bền vững hơn trong giai đoạn căng thẳng thị trường hoặc sự kiện mất neo.
 
-What assets are suitable for Infinity StableSwap?
+#### Phí Động
 
-Assets that are expected to trade near the same price: stablecoins (USDC, USDT, BUSD, etc.), wrapped equivalents of the same asset (e.g., WBTC/cbBTC), and select liquid staking tokens / liquid restaking tokens (LST/LRT) pairs where peg volatility is low.
-
-<br>
-
-How is Infinity StableSwap different from the old PancakeSwap StableSwap?
-
-Infinity StableSwap is implemented as a hook on PancakeSwap Infinity, which means it inherits all of Infinity's infrastructure benefits, including lower gas costs via Singleton and Flash Accounting, and a more flexible fee system. It also supports new capabilities like dynamic fees and adjustable amplification that the legacy StableSwap did not offer.
-
-<br>
-
-Do I need to manage my position over time?
-
-No. Unlike CLAMM, you don't need to set or adjust price ranges. Your liquidity is always active across the full curve, so there's no risk of your position going "out of range."
-
-<br>
-
-Can I provide liquidity with just one token?
-
-Yes, single-token deposits are supported.
-
-<br>
-
-How do dynamic fees work?
-
-In Infinity StableSwap, the swap fee can vary per trade based on how the trade affects the pool's balance. Trades that help bring the pool back toward equilibrium may pay lower effective fees, while trades that worsen imbalance may pay higher fees. This is designed to protect LPs and maintain healthier pool conditions.
-
-
+Phí được tính trên mỗi hoán đổi, được trả cho nhà cung cấp thanh khoản. Infinity StableSwap hỗ trợ phí động — nghĩa là phí hiệu dụng trên một giao dịch nhất định có thể thay đổi tùy thuộc vào trạng thái hiện tại của pool (ví dụ: giao dịch có cải thiện hay làm xấu đi sự cân bằng hay không).
 
 ***
 
+### Infinity StableSwap vs. StableSwap Cổ Điển
 
+Nếu bạn đã từng sử dụng StableSwap hiện có của PancakeSwap, đây là những gì thay đổi — và những gì vẫn giữ nguyên.
 
-## Creating an Infinity StableSwap Pool
+| <p><br></p>                   | StableSwap Cổ Điển                                                  | Infinity StableSwap                                                                              |
+| ----------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| Đường cong định giá           | Hằng số ổn định (kết hợp tổng không đổi / tích không đổi)          | Cùng đường cong hằng số ổn định, cùng trượt giá thấp gần điểm neo                               |
+| Token LP ERC-20               | ✅ Có                                                                 | ✅ Có                                                                                             |
+| Tạo pool                      | Nặng về vận hành; yêu cầu thiết lập thủ công bởi nhóm               | Không cần cấp phép — bất kỳ ai cũng có thể tạo pool                                             |
+| Phí hoán đổi                  | Cố định theo cặp (ví dụ: 0,01% cho USDC/USDT)                       | Phí động — điều chỉnh dựa trên cách giao dịch ảnh hưởng đến cân bằng pool                      |
+| Thông số Khuếch Đại (A)       | Tĩnh — đặt một lần, không thể thay đổi                               | Có thể điều chỉnh — có thể được tăng hoặc giảm dần theo thời gian                               |
+| Hệ số nhân phí ngoài điểm neo | ❌ Không hỗ trợ                                                      | ✅ Hỗ trợ — giúp bảo vệ pool trong các sự kiện mất neo                                          |
+| Hiệu quả gas                  | Tiêu chuẩn                                                           | Cải thiện — được hưởng lợi từ Singleton và Flash Accounting của Infinity                        |
 
+#### Những gì giữ nguyên
 
+* Đường cong định giá cốt lõi và hành vi trượt giá thấp gần điểm neo không thay đổi.
 
-Infinity StableSwap pools are permissionless — anyone can create one without needing approval from the PancakeSwap team.
+#### Những gì mới và tốt hơn
 
-<br>
+* Tạo Pool Không Cần Cấp Phép: Pool có thể được tạo mà không cần thiết lập thủ công của nhóm.
+* Phí động bảo vệ LP: Thay vì một mức phí cố định duy nhất, phí có thể điều chỉnh theo từng giao dịch dựa trên việc giao dịch có giúp hay làm hại cân bằng pool — làm cho pool bền vững hơn trong điều kiện biến động.
+* Thông số A có thể thích ứng: Hệ số khuếch đại có thể được tinh chỉnh theo thời gian khi điều kiện thị trường thay đổi, thay vì bị khóa tại thời điểm triển khai mãi mãi.
 
-### Step-by-step
+***
 
-1\. Go to the Farm/Liquidity page and click Create Pool.
+### Câu Hỏi Thường Gặp
 
-<figure><img src="../../.gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
+Những tài sản nào phù hợp với Infinity StableSwap?
 
-<br>
-
-2\. Select StableSwap Pool from the pool type options.
-
-<figure><img src="../../.gitbook/assets/unknown (1).png" alt=""><figcaption></figcaption></figure>
-
-<br>
-
-3\. Select the token pair for your pool (e.g. USDC / USDT).
-
-<figure><img src="../../.gitbook/assets/unknown (2).png" alt=""><figcaption></figcaption></figure>
-
-<br>
-
-4\. Pool Parameters
-
-| Parameter             | What it does                                                                                                    |
-| --------------------- | --------------------------------------------------------------------------------------------------------------- |
-| Swap Fee              | Fee charged on each swap, paid to LPs. Default is 0.01% for tight stable pairs.                                 |
-| A (Amplification)     | Controls how tightly the curve hugs the peg. Higher = lower slippage near 1:1, but more sensitive to imbalance. |
-| Offpeg Fee Multiplier | Scales up fees when the pool moves away from balance, discouraging trades that worsen imbalance.                |
-| Moving Average Time   | Time window used to calculate the moving average price for dynamic fee adjustments.                             |
-
-⚠️ Set parameters carefully. Incorrect parameters — especially a very high A on a loosely-pegged asset — can increase risk for LPs. If unsure, use the preset for your asset type and avoid changing Advanced settings.
+Các tài sản dự kiến giao dịch gần cùng mức giá: stablecoin (USDC, USDT, BUSD, v.v.), tương đương wrapped của cùng tài sản (ví dụ: WBTC/cbBTC), và một số cặp token staking lỏng / token restaking lỏng (LST/LRT) nơi biến động neo thấp.
 
 <br>
 
-Choose a Pool Parameter Preset — this automatically sets the recommended parameters for your asset type. You can still manually adjust them via the Advanced toggle.
+Infinity StableSwap khác StableSwap cũ của PancakeSwap như thế nào?
 
-<figure><img src="../../.gitbook/assets/unknown (3).png" alt=""><figcaption></figcaption></figure>
-
-| Preset                            | A    | Offpeg Fee Multiplier | Moving Average Time (seconds) |
-| --------------------------------- | ---- | --------------------- | ----------------------------- |
-| Fiat Redeemable Stablecoins       | 1000 | 10                    | 600                           |
-| Crypto Collateralized Stablecoins | 100  | 12.5                  | 600                           |
-| Liquid Restaking Tokens           | 500  | 10                    | 600                           |
+Infinity StableSwap được triển khai như một hook trên PancakeSwap Infinity, có nghĩa là nó kế thừa tất cả lợi ích cơ sở hạ tầng của Infinity, bao gồm chi phí gas thấp hơn qua Singleton và Flash Accounting, và hệ thống phí linh hoạt hơn. Nó cũng hỗ trợ các khả năng mới như phí động và khuếch đại có thể điều chỉnh mà StableSwap cũ không cung cấp.
 
 <br>
 
-&#x20; Not sure which to pick?&#x20;
+Tôi có cần quản lý vị thế theo thời gian không?
 
-* Use Fiat Redeemable Stablecoins for pairs like USDC/USDT
-* Use Crypto Collateralized Stablecoins for algo or crypto-backed stablecoins
-* Use Liquid Restaking Tokens for LRT pairs like stkBNB/WBNB.
+Không. Không giống CLAMM, bạn không cần đặt hoặc điều chỉnh phạm vi giá. Thanh khoản của bạn luôn hoạt động trên toàn bộ đường cong, vì vậy không có nguy cơ vị thế của bạn "ngoài phạm vi".
 
 <br>
 
-5\. Enter the deposit amount to seed initial liquidity. Both token amounts must be equal (e.g. 1 USDC and 1 USDT).
+Tôi có thể cung cấp thanh khoản chỉ với một token không?
 
-<figure><img src="../../.gitbook/assets/unknown (4).png" alt=""><figcaption></figcaption></figure>
+Có, hỗ trợ gửi một token.
 
 <br>
 
-6\. Click Preview Pool, review your settings, check the confirmation box, then click Create Pool.
+Phí động hoạt động như thế nào?
 
-<figure><img src="../../.gitbook/assets/unknown (5).png" alt=""><figcaption></figcaption></figure>
+Trong Infinity StableSwap, phí hoán đổi có thể thay đổi theo từng giao dịch dựa trên cách giao dịch ảnh hưởng đến cân bằng pool. Các giao dịch giúp đưa pool trở lại trạng thái cân bằng có thể trả phí hiệu dụng thấp hơn, trong khi các giao dịch làm xấu đi sự mất cân bằng có thể trả phí cao hơn. Điều này được thiết kế để bảo vệ LP và duy trì điều kiện pool lành mạnh hơn.
 
+
+
+***
+
+
+
+## Tạo Pool Infinity StableSwap
+
+
+
+Pool Infinity StableSwap không cần cấp phép — bất kỳ ai cũng có thể tạo mà không cần phê duyệt từ nhóm PancakeSwap.
+
+<br>
+
+### Từng Bước
+
+1\. Truy cập trang Farm/Thanh Khoản và nhấp Tạo Pool.
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
+
+<br>
+
+2\. Chọn Pool StableSwap từ các lựa chọn loại pool.
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unknown%20%281%29.png" alt=""><figcaption></figcaption></figure>
+
+<br>
+
+3\. Chọn cặp token cho pool của bạn (ví dụ: USDC / USDT).
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unknown%20%282%29.png" alt=""><figcaption></figcaption></figure>
+
+<br>
+
+4\. Thông Số Pool
+
+| Thông Số                | Tác Dụng                                                                                                            |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| Phí Hoán Đổi            | Phí tính trên mỗi hoán đổi, được trả cho LP. Mặc định là 0,01% cho các cặp ổn định chặt chẽ.                       |
+| A (Khuếch Đại)          | Kiểm soát mức độ chặt chẽ của đường cong theo điểm neo. Cao hơn = trượt giá thấp hơn gần 1:1, nhưng nhạy cảm hơn với mất cân bằng. |
+| Hệ Số Nhân Phí Ngoài Neo | Tăng phí khi pool rời khỏi trạng thái cân bằng, ngăn cản các giao dịch làm xấu đi sự mất cân bằng.               |
+| Thời Gian Trung Bình Động | Cửa sổ thời gian được dùng để tính giá trung bình động cho điều chỉnh phí động.                                   |
+
+⚠️ Đặt thông số cẩn thận. Thông số không chính xác — đặc biệt là A rất cao trên tài sản được neo lỏng — có thể làm tăng rủi ro cho LP. Nếu không chắc, sử dụng preset cho loại tài sản của bạn và tránh thay đổi cài đặt Nâng Cao.
+
+<br>
+
+Chọn Preset Thông Số Pool — điều này tự động đặt các thông số được khuyến nghị cho loại tài sản của bạn. Bạn vẫn có thể điều chỉnh thủ công chúng qua nút Nâng Cao.
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unknown%20%283%29.png" alt=""><figcaption></figcaption></figure>
+
+| Preset                                    | A    | Hệ Số Nhân Phí Ngoài Neo | Thời Gian Trung Bình Động (giây) |
+| ----------------------------------------- | ---- | ------------------------ | -------------------------------- |
+| Stablecoin Có Thể Đổi Fiat                | 1000 | 10                       | 600                              |
+| Stablecoin Được Thế Chấp Bằng Crypto      | 100  | 12,5                     | 600                              |
+| Token Restaking Lỏng                      | 500  | 10                       | 600                              |
+
+<br>
+
+&#x20; Không chắc chọn cái nào?&#x20;
+
+* Sử dụng Stablecoin Có Thể Đổi Fiat cho các cặp như USDC/USDT
+* Sử dụng Stablecoin Được Thế Chấp Bằng Crypto cho stablecoin algo hoặc được thế chấp bằng crypto
+* Sử dụng Token Restaking Lỏng cho các cặp LRT như stkBNB/WBNB.
+
+<br>
+
+5\. Nhập số lượng tiền gửi để cung cấp thanh khoản ban đầu. Cả hai số lượng token phải bằng nhau (ví dụ: 1 USDC và 1 USDT).
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unknown%20%284%29.png" alt=""><figcaption></figcaption></figure>
+
+<br>
+
+6\. Nhấp Xem Trước Pool, xem lại cài đặt của bạn, đánh dấu vào ô xác nhận, sau đó nhấp Tạo Pool.
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unknown%20%285%29.png" alt=""><figcaption></figcaption></figure>

@@ -1,30 +1,30 @@
-# 🎯 Limit & TWAP Orders
+# 🎯 Lệnh Giới Hạn & TWAP
 
 {% hint style="warning" %}
-**Limit Order (Orbs) has been deprecated.** If you have any pending orders, please manage them [here](https://pancakeswap.finance/swap/limit-v1). Please ensure you are using the latest limit order feature here: [https://pancakeswap.finance/swap/limit](https://pancakeswap.finance/swap/limit)
+**Limit Order (Orbs) đã bị ngừng hỗ trợ.** Nếu bạn có lệnh đang chờ xử lý, vui lòng quản lý chúng [tại đây](https://pancakeswap.finance/swap/limit-v1). Hãy đảm bảo bạn đang sử dụng tính năng limit order mới nhất tại đây: [https://pancakeswap.finance/swap/limit](https://pancakeswap.finance/swap/limit)
 {% endhint %}
 
 {% hint style="success" %}
-**Fee-Earning Limit Orders** are a **first-of-its-kind trading feature** available exclusively on PancakeSwap.
+**Lệnh Giới Hạn Kiếm Phí** là **tính năng giao dịch đầu tiên thuộc loại này** chỉ có trên PancakeSwap.
 {% endhint %}
 
-#### What is it?
+#### Đây là gì?
 
-Fee-Earning Limit Orders let you set a target price to buy or sell tokens automatically, while **earning fees**. Once the pool price reaches your target, your order executes and desired output tokens + fees are sent directly to your wallet.
+Lệnh Giới Hạn Kiếm Phí cho phép bạn đặt giá mục tiêu để mua hoặc bán token tự động, đồng thời **kiếm phí**. Khi giá pool đạt đến mục tiêu của bạn, lệnh được thực thi và các token đầu ra mong muốn cùng phí được gửi trực tiếp đến ví của bạn.
 
-* **Supported chain at launch:** BNB&#x20;
-* **Minimum order size:** $50
+* **Chuỗi được hỗ trợ khi ra mắt:** BNB&#x20;
+* **Kích thước lệnh tối thiểu:** $50
 
-#### Why use it?
+#### Tại sao nên sử dụng?
 
-* No need to constantly monitor charts.
-* No execution fees — instead, you **earn fees (0.1%)** when your order is filled.
-* Works seamlessly — fully on-chain, powered by PancakeSwap Infinity architecture.
+* Không cần liên tục theo dõi biểu đồ.
+* Không có phí thực thi — thay vào đó, bạn **kiếm phí (0.1%)** khi lệnh được khớp.
+* Hoạt động liền mạch — hoàn toàn on-chain, được hỗ trợ bởi kiến trúc PancakeSwap Infinity.
 
 ***
 
-TWAP (Time-weighted Average Price) is a common order type that breaks an order into smaller trade sizes and executes them at regular intervals. The main goal of a TWAP order is to reduce the order’s price impact.
+TWAP (Time-weighted Average Price - Giá bình quân theo thời gian) là một loại lệnh phổ biến giúp chia nhỏ lệnh thành các giao dịch nhỏ hơn và thực hiện chúng theo các khoảng thời gian đều đặn. Mục tiêu chính của lệnh TWAP là giảm tác động giá của lệnh.
 
 {% hint style="info" %}
-The TWAP feature is developed by [Orbs](https://www.orbs.com/) and powered by Orbs’ [L3 technology](https://www.orbs.com/overview/).
+Tính năng TWAP được phát triển bởi [Orbs](https://www.orbs.com/) và được hỗ trợ bởi [công nghệ L3](https://www.orbs.com/overview/) của Orbs.
 {% endhint %}

@@ -1,83 +1,83 @@
-# How to use Limit Orders
+# Cách Sử Dụng Lệnh Giới Hạn
 
-Fee-earning limit orders on PancakeSwap work differently from traditional limit orders. When a user places a limit order, they are effectively providing **one-sided liquidity** to a PancakeSwap Infinity pool.
+Lệnh giới hạn kiếm phí trên PancakeSwap hoạt động khác với lệnh giới hạn truyền thống. Khi người dùng đặt lệnh giới hạn, về bản chất họ đang cung cấp **thanh khoản một chiều** vào pool PancakeSwap Infinity.
 
-As the market price moves, swaps in the pool can use the user’s liquidity. When this happens, the deposited tokens are fully converted into the output tokens, and the user receives:
+Khi giá thị trường biến động, các giao dịch hoán đổi trong pool có thể sử dụng thanh khoản của người dùng. Khi điều này xảy ra, các token đã ký gửi được chuyển đổi hoàn toàn thành token đầu ra, và người dùng nhận được:
 
-* The output tokens, and
-* The trading fees earned from swaps executed against their liquidity.
-
-***
-
-**Example: Selling BNB for USDT**
-
-* **Current price in BNB/USDT pool:** 600 USDT per BNB
-* **User’s target / limit price:** 700 USDT per BNB
-
-Process:
-
-1. The user sets a limit order to sell BNB at 700 USDT.
-2. Their BNB is deposited into the tick closest to price 700 USDT per BNB in the pool.
-3. When the external market price reaches 700 USDT, the pool price adjusts to match (due to arbitrage opportunities / better pricing).
-4. At that point, the user’s BNB is swapped into USDT.
-5. During this process, the user earns fees from each swap that consumes their liquidity.
-6. Once the liquidity is fully consumed, the converted USDT (plus fees) is automatically withdrawn and sent to the user’s wallet.
+* Các token đầu ra, và
+* Phí giao dịch kiếm được từ các giao dịch hoán đổi thực hiện trên thanh khoản của họ.
 
 ***
 
-### Step-by-step guide
+**Ví dụ: Bán BNB lấy USDT**
 
-Choose a token pair (e.g., BNB/CAKE) and amount you would like to sell / buy
+* **Giá hiện tại trong pool BNB/USDT:** 600 USDT mỗi BNB
+* **Giá mục tiêu / giới hạn của người dùng:** 700 USDT mỗi BNB
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-09-28 at 11.07.07 AM.png" alt="" width="375"><figcaption></figcaption></figure>
+Quy trình:
 
-Set your target / limit price
+1. Người dùng đặt lệnh giới hạn để bán BNB ở mức 700 USDT.
+2. BNB của họ được ký gửi vào tick gần nhất với giá 700 USDT mỗi BNB trong pool.
+3. Khi giá thị trường bên ngoài đạt 700 USDT, giá pool sẽ điều chỉnh theo (do cơ hội arbitrage / mức giá tốt hơn).
+4. Tại thời điểm đó, BNB của người dùng được hoán đổi sang USDT.
+5. Trong quá trình này, người dùng kiếm phí từ mỗi giao dịch hoán đổi tiêu thụ thanh khoản của họ.
+6. Khi thanh khoản được tiêu thụ hoàn toàn, USDT đã chuyển đổi (cộng với phí) sẽ tự động được rút và gửi đến ví của người dùng.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-09-28 at 11.07.35 AM.png" alt="" width="375"><figcaption></figcaption></figure>
+***
 
-Place the limit order and “Confirm”. Liquidity is placed on your behalf at the tick closest to limit price
+### Hướng dẫn từng bước
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-09-28 at 11.08.49 AM.png" alt="" width="375"><figcaption></figcaption></figure>
+Chọn cặp token (ví dụ: BNB/CAKE) và số lượng bạn muốn bán / mua
 
-Once the pool price hits your target, your order executes. Desired output tokens + fees are automatically withdrawn and sent to your wallet.
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%2011.07.07%20AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-09-28 at 1.01.47 PM.png" alt="" width="370"><figcaption></figcaption></figure>
+Đặt giá mục tiêu / giới hạn của bạn
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%2011.07.35%20AM.png" alt="" width="375"><figcaption></figcaption></figure>
+
+Đặt lệnh giới hạn và nhấn "Confirm". Thanh khoản sẽ được đặt thay mặt bạn tại tick gần nhất với giá giới hạn
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%2011.08.49%20AM.png" alt="" width="375"><figcaption></figcaption></figure>
+
+Khi giá pool đạt mục tiêu của bạn, lệnh được thực thi. Các token đầu ra mong muốn cùng phí sẽ tự động được rút và gửi đến ví của bạn.
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%201.01.47%20PM.png" alt="" width="370"><figcaption></figcaption></figure>
 
 
 
-### Order Status
+### Trạng Thái Lệnh
 
-You can view your order status by clicking here
+Bạn có thể xem trạng thái lệnh bằng cách nhấp vào đây
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-09-28 at 2.12.50 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%202.12.50%20PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-**Your order can be in one of the following states:**
+**Lệnh của bạn có thể ở một trong các trạng thái sau:**
 
-| Status           | Description                                                                              |
-| ---------------- | ---------------------------------------------------------------------------------------- |
-| Pending          | Waiting for price to reach your target                                                   |
-| Filled           | Order executed and funds sent to your wallet                                             |
-| Partially Filled | Only part of your order is executed. You’ll hold both tokens (e.g., part BNB, part USDT) |
-| Cancelled        | You cancelled the order. All your funds are returned to you                              |
+| Trạng thái       | Mô tả                                                                                         |
+| ---------------- | --------------------------------------------------------------------------------------------- |
+| Đang chờ         | Đang chờ giá đạt mục tiêu của bạn                                                            |
+| Đã khớp          | Lệnh đã thực thi và tiền đã được gửi đến ví của bạn                                         |
+| Khớp một phần    | Chỉ một phần lệnh của bạn được thực thi. Bạn sẽ giữ cả hai token (ví dụ: một phần BNB, một phần USDT) |
+| Đã hủy           | Bạn đã hủy lệnh. Toàn bộ tiền của bạn được hoàn trả                                        |
 
-### FAQs
+### FAQ
 
-**Q: Do I need to pay fees to place a limit order?**
+**Hỏi: Tôi có cần trả phí để đặt lệnh giới hạn không?**
 
-A: No. Instead, you earn 0.1% in trading fees when your order executes.
+Trả lời: Không. Thay vào đó, bạn kiếm 0.1% phí giao dịch khi lệnh được thực thi.
 
-**Q: Can I place orders for any pair?**
+**Hỏi: Tôi có thể đặt lệnh cho bất kỳ cặp nào không?**
 
-A: At launch, only selected pairs are supported. More pairs will be added later.
+Trả lời: Khi ra mắt, chỉ các cặp đã chọn được hỗ trợ. Nhiều cặp hơn sẽ được thêm sau.
 
-**Q: What’s the minimum order size?**
+**Hỏi: Kích thước lệnh tối thiểu là bao nhiêu?**
 
-A: $50. This prevents tiny orders that could result in excess gas.&#x20;
+Trả lời: $50. Điều này ngăn chặn các lệnh nhỏ có thể dẫn đến phí gas quá cao.&#x20;
 
-**Q: What happens if only part of my order is filled?**
+**Hỏi: Điều gì xảy ra nếu chỉ một phần lệnh của tôi được khớp?**
 
-A: You’ll hold both tokens. You can cancel anytime and withdraw both tokens plus earned fees.
+Trả lời: Bạn sẽ giữ cả hai token. Bạn có thể hủy bất cứ lúc nào và rút cả hai token cùng phí đã kiếm.
 
-**Q: My order is filled but I haven't received funds yet in my wallet?**
+**Hỏi: Lệnh của tôi đã khớp nhưng tôi chưa nhận được tiền trong ví?**
 
-A: In very rare scenarios this could happen but your funds are always safe. Just use the "Withdraw" button in the order details UI to claim the funds manually.
+Trả lời: Trong một số trường hợp rất hiếm, điều này có thể xảy ra nhưng tiền của bạn luôn an toàn. Chỉ cần sử dụng nút "Withdraw" trong giao diện chi tiết lệnh để nhận tiền thủ công.

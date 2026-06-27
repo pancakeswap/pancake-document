@@ -1,91 +1,91 @@
-# 💳 Buy Crypto
+# 💳 Mua Crypto
 
-PancakeSwap introduces the ability to purchase your favourite tokens using a credit card, debit card or bank transfer. Integrating on-ramp services into our platform aims to provide users with a seamless and convenient way to purchase cryptocurrencies using fiat currencies. Using our on-ramp quote interface, users can choose between different providers and get the best rates in Web3.
+PancakeSwap giới thiệu tính năng cho phép bạn mua các token yêu thích bằng thẻ tín dụng, thẻ ghi nợ hoặc chuyển khoản ngân hàng. Việc tích hợp các dịch vụ on-ramp vào nền tảng của chúng tôi nhằm mang lại cho người dùng một cách mua tiền điện tử đơn giản và tiện lợi bằng tiền pháp định. Sử dụng giao diện báo giá on-ramp của chúng tôi, bạn có thể lựa chọn giữa các nhà cung cấp khác nhau và nhận được mức giá tốt nhất trong Web3.
 
-### Benefits for Users
+### Lợi ích cho Người dùng
 
-The on-ramp integration and quote system offers several key benefits for our users:
+Tích hợp on-ramp và hệ thống báo giá mang lại một số lợi ích quan trọng cho người dùng:
 
-1. Easy Purchase of Cryptocurrencies: Users can now conveniently purchase cryptocurrencies directly from our platform using their preferred fiat currency, eliminating the need for multiple transactions across different platforms.
-2. Wide Range of Supported Currencies and Regions: Our esteemed partners, including Mercuryo, support various fiat currencies, ensuring users from various regions can actively participate in the ever-expanding crypto market.
-3. Multiple Payment Methods: We support various payment methods, such as credit/debit cards and bank transfers, providing users with great flexibility and convenience to complete transactions in a way that suits their preferences.
-4. Secure and Compliant: Our trusted partners adhere to stringent security standards and comply with all applicable regulations, prioritizing protecting user data and ensuring that transactions are carried out in a secure environment.
-5. Transparent Fee Structure: We maintain a transparent fee structure with no hidden charges. Users will have complete visibility of the exact amount they will be charged before finalizing their purchases, ensuring a fair and informed transaction process.
+1. Mua Tiền Điện Tử Dễ Dàng: Bạn có thể mua tiền điện tử trực tiếp từ nền tảng của chúng tôi bằng tiền pháp định ưa thích, không cần thực hiện nhiều giao dịch trên các nền tảng khác nhau.
+2. Hỗ Trợ Nhiều Loại Tiền Tệ và Khu Vực: Các đối tác của chúng tôi, bao gồm Mercuryo, hỗ trợ nhiều loại tiền pháp định, đảm bảo người dùng từ nhiều khu vực khác nhau có thể tham gia vào thị trường crypto đang không ngừng mở rộng.
+3. Nhiều Phương Thức Thanh Toán: Chúng tôi hỗ trợ nhiều phương thức thanh toán như thẻ tín dụng/ghi nợ và chuyển khoản ngân hàng, mang lại sự linh hoạt và tiện lợi tối đa để bạn hoàn tất giao dịch theo cách phù hợp nhất.
+4. An Toàn và Tuân Thủ: Các đối tác tin cậy của chúng tôi tuân thủ các tiêu chuẩn bảo mật nghiêm ngặt và chấp hành đầy đủ các quy định hiện hành, ưu tiên bảo vệ dữ liệu người dùng và đảm bảo giao dịch được thực hiện trong môi trường an toàn.
+5. Cơ Cấu Phí Minh Bạch: Chúng tôi duy trì cơ cấu phí minh bạch, không có phí ẩn. Bạn sẽ thấy rõ số tiền chính xác sẽ bị tính trước khi hoàn tất giao dịch, đảm bảo quá trình giao dịch công bằng và có đầy đủ thông tin.
 
-### Structure and Fees
+### Cơ Cấu và Phí
 
-On-ramp services are available on **BNB, Ethereum, Arbitrum, Base, Linea, and zkSync Era** chains. Major cryptocurrencies and stablecoins are available and outlined in the table below:
+Các dịch vụ on-ramp hiện có trên các chuỗi **BNB, Ethereum, Arbitrum, Base, Linea và zkSync Era**. Các loại tiền điện tử chính và stablecoin được hỗ trợ như trong bảng dưới đây:
 
 
 
-<table><thead><tr><th width="145">Provider</th><th>Fees^</th><th>Fiat Currencies Supported</th><th>Tokens Supported**</th></tr></thead><tbody><tr><td>Mercuryo</td><td>3.95% for Debit/Credit, 3.95% for Bank Transfers/SEPA (EU)</td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY, KRW, VND</td><td><p>BTC: BTC<br><br>ERC-20: ETH, USDT, DAI</p><p></p><p>BEP-20: BNB<br><br>ARB: ETH, USDC</p></td></tr><tr><td>Moonpay</td><td><p>2.75% for Debit/Credit</p><p>1.25% for SEPA (EU), FPS (UK)</p><p>2.95% for PIX (Brazil)</p></td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY, KRW, TWD, IDR, VND</td><td><p>ERC-20: ETH, USDT, USDC, DAI<br></p><p>BEP-20: BNB (Non-US)<br><br>ARB: ETH, USDC.e</p></td></tr><tr><td>Transak***</td><td>3.5%-5.5% for Debit/Credit/Apple Pay/Google Pay, 0.99% for SEPA (EU), FPS (UK), Cash App (USD)</td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY, KRW, VND</td><td><p>ERC-20: ETH, USDT, USDC, DAI, WBTC<br></p><p>BEP-20: BNB (Non-US), USDC<br><br>ARB: ETH, ARB, USDC.e, USDC<br><br>Base: USDC, ETH<br><br>Linea: USDC, ETH<br><br>Polygon ZkEVM, ZkSync Era: ETH</p></td></tr><tr><td>Topper</td><td>2.49% for Debit/Credit/Apple Pay/Google Pay, Pix (Brazil)</td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY</td><td>BTC: BTC<br><br>ERC-20: ETH, USDT, USDC, DAI, WBTC<br><br>BEP-20: BNB, CAKE, USDT<br><br>ARB: ETH, USDC</td></tr></tbody></table>
+<table><thead><tr><th width="145">Nhà cung cấp</th><th>Phí^</th><th>Tiền tệ Pháp định Hỗ trợ</th><th>Token Hỗ trợ**</th></tr></thead><tbody><tr><td>Mercuryo</td><td>3.95% cho Thẻ Ghi nợ/Tín dụng, 3.95% cho Chuyển khoản Ngân hàng/SEPA (EU)</td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY, KRW, VND</td><td><p>BTC: BTC<br><br>ERC-20: ETH, USDT, DAI</p><p></p><p>BEP-20: BNB<br><br>ARB: ETH, USDC</p></td></tr><tr><td>Moonpay</td><td><p>2.75% cho Thẻ Ghi nợ/Tín dụng</p><p>1.25% cho SEPA (EU), FPS (UK)</p><p>2.95% cho PIX (Brazil)</p></td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY, KRW, TWD, IDR, VND</td><td><p>ERC-20: ETH, USDT, USDC, DAI<br></p><p>BEP-20: BNB (Ngoài US)<br><br>ARB: ETH, USDC.e</p></td></tr><tr><td>Transak***</td><td>3.5%-5.5% cho Thẻ Ghi nợ/Tín dụng/Apple Pay/Google Pay, 0.99% cho SEPA (EU), FPS (UK), Cash App (USD)</td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY, KRW, VND</td><td><p>ERC-20: ETH, USDT, USDC, DAI, WBTC<br></p><p>BEP-20: BNB (Ngoài US), USDC<br><br>ARB: ETH, ARB, USDC.e, USDC<br><br>Base: USDC, ETH<br><br>Linea: USDC, ETH<br><br>Polygon ZkEVM, ZkSync Era: ETH</p></td></tr><tr><td>Topper</td><td>2.49% cho Thẻ Ghi nợ/Tín dụng/Apple Pay/Google Pay, Pix (Brazil)</td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY</td><td>BTC: BTC<br><br>ERC-20: ETH, USDT, USDC, DAI, WBTC<br><br>BEP-20: BNB, CAKE, USDT<br><br>ARB: ETH, USDC</td></tr></tbody></table>
 
-^Fees are subject to minimum spend and maximum- most likely above 30 USD and below 10,000 USD, respectively, depending on the token. Pancakeswap will charge an additional 1% for services provided.
+^Phí có thể áp dụng mức chi tiêu tối thiểu và tối đa — thường là trên 30 USD và dưới 10.000 USD tương ứng, tùy theo token. PancakeSwap sẽ tính thêm 1% cho các dịch vụ cung cấp.
 
-\*Minimum of $3.99 for card payments or local currency equivalent
+\*Tối thiểu $3.99 cho thanh toán bằng thẻ hoặc tương đương bằng tiền tệ địa phương
 
-\*\*Please note that the availability of particular cryptocurrencies may vary based on the user's region
+\*\*Lưu ý rằng tính khả dụng của một số loại tiền điện tử nhất định có thể thay đổi tùy theo khu vực của bạn
 
-\*\*\*USD currency on-ramp not available for Base, Arbitrum, Linea. Please use another currency (EU, GBP) for on-ramping. Credit/Debit Fees by region can be found [here](https://transak.notion.site/On-Ramp-Payment-Methods-Fees-Other-Details-b0761634feed4b338a69f4f186d906a5)
+\*\*\*Không có dịch vụ on-ramp bằng USD cho Base, Arbitrum, Linea. Vui lòng sử dụng tiền tệ khác (EU, GBP) để on-ramp. Phí thẻ Tín dụng/Ghi nợ theo khu vực có thể xem [tại đây](https://transak.notion.site/On-Ramp-Payment-Methods-Fees-Other-Details-b0761634feed4b338a69f4f186d906a5)
 
-Please note that the quote system will provide full transparency of the exchange rate, including fees, to recommend the best option.
+Lưu ý rằng hệ thống báo giá sẽ cung cấp đầy đủ thông tin về tỷ giá hối đoái, bao gồm phí, để đề xuất lựa chọn tốt nhất.
 
-### How do I buy crypto?
+### Làm thế nào để mua crypto?
 
-1. Click on the "Buy Crypto" button on the PancakeSwap platform.
+1. Nhấp vào nút "Buy Crypto" trên nền tảng PancakeSwap.
 
-<figure><img src="../.gitbook/assets/Onramp1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Onramp1.png" alt=""><figcaption></figcaption></figure>
 
-2. Select your desired fiat currency and token pair from the pop-up menu.
+2. Chọn cặp tiền pháp định và token bạn mong muốn từ menu bật lên.
 
-<figure><img src="../.gitbook/assets/Onramp 2M.png" alt="" width="285"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Onramp%202M.png" alt="" width="285"><figcaption></figcaption></figure>
 
-3. Click on "Get Quote"
+3. Nhấp vào "Get Quote"
 
-<figure><img src="../.gitbook/assets/Onramp 3M.png" alt="" width="294"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Onramp%203M.png" alt="" width="294"><figcaption></figcaption></figure>
 
-4. Select recommended quote.&#x20;
-
-<div>
-
-<figure><img src="../.gitbook/assets/Mercuryo Onramp 4.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Moonpay Onramp 4.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-5. Proceed to follow the on-screen steps with the on-ramp provider.
+4. Chọn báo giá được đề xuất.&#x20;
 
 <div>
 
-<figure><img src="../.gitbook/assets/Onramp5m.png" alt="" width="303"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Mercuryo%20Onramp%204.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Moonpay Onramp 5.png" alt="" width="306"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Moonpay%20Onramp%204.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
-6. Your cryptocurrency should arrive in your wallet within minutes.
+5. Tiếp tục làm theo các bước trên màn hình với nhà cung cấp on-ramp.
 
-### Do I need proof of identity?
+<div>
 
-To purchase crypto through our providers, different levels of evidence are required to prove identity to our on-ramp partners. These levels will depend on the payment mode and payment amount required. Users will have to comply with provider requirements to use the buy crypto product. To learn more about this, please visit our partner documentation. **PancakeSwap does not collect and store any financial or personal data.**
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Onramp5m.png" alt="" width="303"><figcaption></figcaption></figure>
 
-### Is buy crypto available where I'm located?
+ 
 
-Buy crypto is available for select regions based on provider availability. Please visit our partner documentation for more information.
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Moonpay%20Onramp%205.png" alt="" width="306"><figcaption></figcaption></figure>
 
-### Where can I find out more?
+</div>
 
-You can visit our partner documentation here:
+6. Tiền điện tử của bạn sẽ đến ví trong vài phút.
+
+### Tôi có cần chứng minh danh tính không?
+
+Để mua crypto qua các nhà cung cấp của chúng tôi, cần có các mức độ xác minh khác nhau để chứng minh danh tính với các đối tác on-ramp. Các mức này sẽ phụ thuộc vào phương thức thanh toán và số tiền thanh toán yêu cầu. Bạn phải tuân thủ các yêu cầu của nhà cung cấp để sử dụng sản phẩm mua crypto. Để tìm hiểu thêm, vui lòng truy cập tài liệu của đối tác chúng tôi. **PancakeSwap không thu thập và lưu trữ bất kỳ dữ liệu tài chính hay cá nhân nào.**
+
+### Tính năng mua crypto có khả dụng ở khu vực của tôi không?
+
+Tính năng mua crypto chỉ khả dụng ở một số khu vực nhất định dựa trên tính sẵn có của nhà cung cấp. Vui lòng truy cập tài liệu của đối tác chúng tôi để biết thêm thông tin.
+
+### Tôi có thể tìm hiểu thêm ở đâu?
+
+Bạn có thể truy cập tài liệu của đối tác chúng tôi tại đây:
 
 * [Mercuryo](https://help.mercuryo.io/en/articles/6122838-on-and-off-ramps)
 * [MoonPay](https://support.moonpay.com/hc/en-gb/sections/360003486437-Buying-Cryptocurrency-)
 * [Transak](https://support.transak.com/en/collections/3985810-customer-help-center)
 
-### **What's next?**
+### **Tiếp theo là gì?**
 
-The kitchen believes the onboarding experience is important to adoption in the DeFI space. We will continue improving the buy crypto experience by integrating with more partners while exploring off-ramp solutions for our users.&#x20;
+Nhà bếp tin rằng trải nghiệm onboarding rất quan trọng cho việc áp dụng trong không gian DeFi. Chúng tôi sẽ tiếp tục cải thiện trải nghiệm mua crypto bằng cách tích hợp thêm các đối tác trong khi khám phá các giải pháp off-ramp cho người dùng.&#x20;

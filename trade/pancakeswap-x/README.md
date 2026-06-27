@@ -1,15 +1,14 @@
 # ✖️ PancakeSwap X
 
-PancakeSwap X introduces a whole new way to trade your favourite assets on PancakeSwap by aggregating a wide range of third-party liquidity and building straight into the popular PancakeSwap dApp. It enables more assets to trade, deeper liquidity, gas-less swaps, and much more:
+PancakeSwap X giới thiệu một cách hoàn toàn mới để giao dịch các tài sản yêu thích của bạn trên PancakeSwap bằng cách tổng hợp nhiều nguồn thanh khoản của bên thứ ba và xây dựng trực tiếp vào dApp PancakeSwap phổ biến. Nó cho phép giao dịch nhiều tài sản hơn, thanh khoản sâu hơn, hoán đổi không tốn gas và nhiều hơn nữa:
 
-* Better prices
-* More tokens to swap
-* Built-in MEV protection
-* Gas-free swaps
+* Giá tốt hơn
+* Nhiều token để hoán đổi hơn
+* Bảo vệ MEV tích hợp
+* Hoán đổi không tốn gas
 
 {% hint style="success" %}
-**PancakeSwap X is live on Arbitrum and Ethereum, supporting crypto tokens, and on BNB Chain, it supports real-world assets (RWAs) only.**
+**PancakeSwap X đang hoạt động trên Arbitrum và Ethereum, hỗ trợ token tiền điện tử, và trên BNB Chain, nó chỉ hỗ trợ tài sản thực (RWA).**
 {% endhint %}
 
-> **Looking to integrate? Check out the technical guide for PancakeSwap X integration** [**here**](https://www.notion.so/PCSX-Tech-Integration-Guide-0eb33e93295644e9855ec2c34b58b0c4?source=copy_link)**.**
-
+> **Muốn tích hợp? Xem hướng dẫn kỹ thuật tích hợp PancakeSwap X** [**tại đây**](https://www.notion.so/PCSX-Tech-Integration-Guide-0eb33e93295644e9855ec2c34b58b0c4?source=copy_link)**.**

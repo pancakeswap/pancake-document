@@ -1,45 +1,45 @@
 # Dynamic Fee Hook
 
-PancakeSwap’s official Dynamic Fee Hook is designed to create a fairer value exchange between Liquidity Providers and Traders. It protects LPs from excessive impermanent loss (IL) while keeping the market efficient for traders.
+Dynamic Fee Hook chính thức của PancakeSwap được thiết kế để tạo ra sự trao đổi giá trị công bằng hơn giữa Nhà Cung Cấp Thanh Khoản và Trader. Nó bảo vệ LP khỏi tổn thất tạm thời (IL) quá mức trong khi vẫn giữ cho thị trường hiệu quả với trader.
 
-Built by the PancakeSwap core team, this hook is tailored specifically to offer a smart, adaptive alternative to conventional fixed-fee models.
+Được xây dựng bởi nhóm cốt lõi PancakeSwap, hook này được tùy chỉnh đặc biệt để cung cấp thay thế thông minh, thích ứng cho các mô hình phí cố định thông thường.
 
-#### 🔍 Why Dynamic Fees?
+#### 🔍 Tại Sao Cần Phí Động?
 
-Large Arbitrage trades cause greater price divergence in pools, increasing IL for LPs. Our dynamic fee model charges proportionally higher fees on larger arbitrage trades to offset this risk — while still leaving enough room for arbitrageurs to profit and keep prices aligned.
+Các giao dịch chênh lệch giá lớn gây ra sự phân kỳ giá lớn hơn trong các pool, làm tăng IL cho LP. Mô hình phí động của chúng tôi tính phí tỷ lệ thuận cao hơn cho các giao dịch chênh lệch giá lớn hơn để bù đắp rủi ro này — trong khi vẫn để đủ dư địa cho các nhà chênh lệch giá kiếm lợi nhuận và giữ cho giá được căn chỉnh.
 
-#### 📊 How Is This Different From Other Models?
+#### 📊 Điều Này Khác Với Các Mô Hình Khác Như Thế Nào?
 
-Other models in the past have used historical data to estimate volatility, other factors to adjust fees. However:
+Các mô hình khác trong quá khứ đã sử dụng dữ liệu lịch sử để ước tính biến động, các yếu tố khác để điều chỉnh phí. Tuy nhiên:
 
-* Historical data is a lagging indicator and may not accurately predict future volatility.
-* External market events (like regulatory changes or economic shifts) can render past trends unreliable.
-* Complex, parameter-heavy models risk overfitting — performing well on past data but poorly on new, unseen conditions.
+* Dữ liệu lịch sử là chỉ số trễ và có thể không dự đoán chính xác biến động tương lai.
+* Các sự kiện thị trường bên ngoài (như thay đổi quy định hoặc biến động kinh tế) có thể làm cho xu hướng trong quá khứ trở nên không đáng tin cậy.
+* Các mô hình phức tạp, nhiều tham số có nguy cơ overfitting — hoạt động tốt trên dữ liệu quá khứ nhưng kém trên các điều kiện mới, chưa thấy.
 
-Our approach is simpler, adaptive, and grounded in real-time trading behaviour.
+Cách tiếp cận của chúng tôi đơn giản hơn, thích ứng hơn và dựa trên hành vi giao dịch thực tế.
 
-#### ⚙️ How It Works
+#### ⚙️ Cách Hoạt Động
 
-* **We don’t predict volatility or other macro factors**\
-  Instead, our model inherently benefits from the behaviour of arbitrageurs under different market regimes:
-  * **High volatility:** More arbitrage trades at larger sizes → Higher fees for LPs, covering a larger share of IL.
-  * **Low volatility:** Fewer, smaller trades → IL is lower by nature, but LPs still earn higher fees than in a fixed-fee model.
-* **Our model uses**
-  * An exponentially weighted pool price to detect arbitrage trades.
-  * An exponential fee curve based on the price impact of each swap.
-  * A maximum fee cap of 5% to maintain trader fairness.
+* **Chúng tôi không dự đoán biến động hay các yếu tố vĩ mô khác**\
+  Thay vào đó, mô hình của chúng tôi vốn được hưởng lợi từ hành vi của các nhà chênh lệch giá trong các chế độ thị trường khác nhau:
+  * **Biến động cao:** Nhiều giao dịch chênh lệch giá với quy mô lớn hơn → Phí cao hơn cho LP, bù đắp một phần lớn hơn của IL.
+  * **Biến động thấp:** Ít giao dịch nhỏ hơn → IL thấp hơn theo bản chất, nhưng LP vẫn kiếm phí cao hơn so với mô hình phí cố định.
+* **Mô hình của chúng tôi sử dụng**
+  * Giá pool có trọng số mũ để phát hiện giao dịch chênh lệch giá.
+  * Đường cong phí mũ dựa trên tác động giá của mỗi hoán đổi.
+  * Mức phí tối đa là 5% để duy trì sự công bằng với trader.
 
 {% hint style="success" %}
-This ensures fees scale dynamically with trade impact while adapting automatically to changing market conditions.
+Điều này đảm bảo phí tăng động theo tác động giao dịch trong khi tự động thích ứng với điều kiện thị trường thay đổi.
 {% endhint %}
 
-* **Balanced Incentives**\
-  Arbitrageurs still retain \~50% of their profits after dynamic fees, ensuring they're motivated to keep pool prices in line with the market.
+* **Cân Bằng Động Lực**\
+  Các nhà chênh lệch giá vẫn giữ lại \~50% lợi nhuận sau phí động, đảm bảo họ có động lực để duy trì giá pool phù hợp với thị trường.
 
-#### 📌 Key Takeaways
+#### 📌 Điểm Chính
 
-* No reliance on volatility or other macro factor predictions.
-* Adapts automatically to market volatility based on actual trade behaviour.
-* Protects LPs from IL on a per-swap basis.
-* Maintains strong incentives for arbitrageurs to close price gaps.
-* Benefits traders with deeper liquidity and lower base fees.
+* Không phụ thuộc vào dự đoán biến động hay các yếu tố vĩ mô khác.
+* Tự động thích ứng với biến động thị trường dựa trên hành vi giao dịch thực tế.
+* Bảo vệ LP khỏi IL trên cơ sở từng giao dịch.
+* Duy trì động lực mạnh mẽ cho các nhà chênh lệch giá để thu hẹp khoảng cách giá.
+* Mang lại lợi ích cho trader với thanh khoản sâu hơn và phí cơ bản thấp hơn.

@@ -2,80 +2,80 @@
 
 #### 🔷 CLAMM (Concentrated Liquidity AMM)
 
-CLAMM enables liquidity providers to allocate their capital within **specific price ranges**. This leads to:
+CLAMM cho phép nhà cung cấp thanh khoản phân bổ vốn trong **các phạm vi giá cụ thể**. Điều này dẫn đến:
 
-* **Higher capital efficiency**: More liquidity at active trading prices.
-* **Deeper liquidity**: Better execution for traders.
-* **Active LP management**: LPs need to adjust positions as prices move.
-* **Higher impermanent loss** potential for out-of-range positions.
+* **Hiệu quả vốn cao hơn**: Nhiều thanh khoản hơn ở các mức giá giao dịch đang hoạt động.
+* **Thanh khoản sâu hơn**: Thực hiện tốt hơn cho trader.
+* **Quản lý LP chủ động**: LP cần điều chỉnh vị thế khi giá biến động.
+* **Tổn thất tạm thời cao hơn** cho các vị thế ngoài phạm vi.
 
 {% hint style="info" %}
-CLAMM operates on the constant product formula (X \* Y = K). Each liquidity position is non-fungible and represented as an NFT.
+CLAMM hoạt động trên công thức tích không đổi (X \* Y = K). Mỗi vị thế thanh khoản là không thể thay thế và được đại diện dưới dạng NFT.
 {% endhint %}
 
-#### 🔷 LBAMM (Liquidity Book AMM or “Bin Pool”)
+#### 🔷 LBAMM (Liquidity Book AMM hay "Bin Pool")
 
-LBAMM implements **discrete price bins**, each holding liquidity at a specific price level. LBAMM follows the **constant sum formula (X + Y = K).**
+LBAMM triển khai **các bin giá rời rạc**, mỗi bin giữ thanh khoản ở một mức giá cụ thể. LBAMM tuân theo **công thức tổng không đổi (X + Y = K).**
 
 
 
-**Key characteristics:**
+**Đặc điểm chính:**
 
-* **0 price impact** trades within a bin.
-* **Fungible liquidity** (liquidity within each bin is an ERC-20 token).
-* **Lower gas costs** for adjusting LP positions.
-* **Support for different liquidity shapes** (e.g., skewed, uniform).
-* More suitable for **low volatility** pairs due to the flat pricing curve per bin.
+* Giao dịch **0 tác động giá** trong một bin.
+* **Thanh khoản có thể thay thế** (thanh khoản trong mỗi bin là token ERC-20).
+* **Chi phí gas thấp hơn** để điều chỉnh vị thế LP.
+* **Hỗ trợ các hình dạng thanh khoản khác nhau** (ví dụ: nghiêng, đồng đều).
+* Phù hợp hơn cho **cặp biến động thấp** do đường cong định giá phẳng mỗi bin.
 
-> 🥞 **PancakeSwap is the first protocol to offer LBAMM pools with hooks.**
+> 🥞 **PancakeSwap là giao thức đầu tiên cung cấp pool LBAMM với hooks.**
 
 {% hint style="success" %}
-Both CLAMM and LBAMM pools support **hooks**, which allow developers to customize pool behavior. Pool types are extendable via new Pool Managers, which can be added without protocol redeployment.
+Cả pool CLAMM và LBAMM đều hỗ trợ **hooks**, cho phép nhà phát triển tùy chỉnh hành vi pool. Các loại pool có thể mở rộng qua các Pool Manager mới, có thể được thêm mà không cần triển khai lại giao thức.
 {% endhint %}
 
-<table data-header-hidden><thead><tr><th width="170.94921875"></th><th width="284.57421875"></th><th></th></tr></thead><tbody><tr><td>Feature</td><td><strong>CLAMM</strong></td><td><strong>LBAMM</strong></td></tr><tr><td><strong>Pricing Curve</strong></td><td>Constant Product (X * Y = K)</td><td>Constant Sum (X + Y = K)</td></tr><tr><td><strong>Liquidity Token</strong></td><td>Non-fungible (NFT)</td><td>Fungible (ERC-20 per bin)</td></tr><tr><td><strong>Best For</strong></td><td>Both high/low volatility pairs</td><td>Low volatility pairs</td></tr><tr><td><strong>Advantages</strong></td><td><ol><li>Capital efficiency</li><li>Gas efficient in wide/full range</li><li>Widely adopted</li></ol></td><td><ol><li>0 price impact within bin</li><li>Cheaper LP management</li><li>Flexible liquidity shapes</li></ol></td></tr><tr><td><strong>Hook Support</strong></td><td>✅</td><td>✅</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="170.94921875"></th><th width="284.57421875"></th><th></th></tr></thead><tbody><tr><td>Tính Năng</td><td><strong>CLAMM</strong></td><td><strong>LBAMM</strong></td></tr><tr><td><strong>Đường Cong Định Giá</strong></td><td>Tích Không Đổi (X * Y = K)</td><td>Tổng Không Đổi (X + Y = K)</td></tr><tr><td><strong>Token Thanh Khoản</strong></td><td>Không thể thay thế (NFT)</td><td>Có thể thay thế (ERC-20 mỗi bin)</td></tr><tr><td><strong>Phù Hợp Nhất</strong></td><td>Cặp biến động cao/thấp</td><td>Cặp biến động thấp</td></tr><tr><td><strong>Ưu Điểm</strong></td><td><ol><li>Hiệu quả vốn</li><li>Tiết kiệm gas ở phạm vi rộng/đầy đủ</li><li>Được áp dụng rộng rãi</li></ol></td><td><ol><li>0 tác động giá trong bin</li><li>Quản lý LP rẻ hơn</li><li>Hình dạng thanh khoản linh hoạt</li></ol></td></tr><tr><td><strong>Hỗ Trợ Hook</strong></td><td>✅</td><td>✅</td></tr></tbody></table>
 
 ***
 
-### 🧮 Fees
+### 🧮 Phí
 
-PancakeSwap Infinity supports a flexible and extensible fee system through Static and Dynamic fee settings. This setup gives both pool creators and LPs powerful tools to optimize for different trading strategies and risk profiles.
+PancakeSwap Infinity hỗ trợ hệ thống phí linh hoạt và có thể mở rộng thông qua cài đặt phí Tĩnh và Động. Thiết lập này cung cấp cho cả người tạo pool và LP các công cụ mạnh mẽ để tối ưu hóa cho các chiến lược giao dịch và hồ sơ rủi ro khác nhau.
 
-#### 🔁 Dynamic Fees
+#### 🔁 Phí Động
 
-* Dynamic Fees are determined in real-time via hook contracts.
-* These fees can fluctuate based on external factors such as volatility, trading volume, user status (e.g., CAKE holdings), or any custom logic coded into the hook.
-* Pools with dynamic fees must enable the setting at the time of pool creation and attach a hook capable of modifying fees via `beforeSwap`.
-* Once a pool is initialized, the fee type (dynamic or static) is immutable.
+* Phí Động được xác định theo thời gian thực thông qua các hợp đồng hook.
+* Các phí này có thể biến động dựa trên các yếu tố bên ngoài như biến động, khối lượng giao dịch, trạng thái người dùng (ví dụ: nắm giữ CAKE), hoặc bất kỳ logic tùy chỉnh nào được mã hóa trong hook.
+* Các pool có phí động phải bật cài đặt này tại thời điểm tạo pool và gắn hook có khả năng sửa đổi phí qua `beforeSwap`.
+* Sau khi pool được khởi tạo, loại phí (động hoặc tĩnh) là bất biến.
 
-Dynamic fees offer maximum flexibility and optimize fee structures for both LPs and swappers based on market conditions.
+Phí động cung cấp tính linh hoạt tối đa và tối ưu hóa cấu trúc phí cho cả LP và người hoán đổi dựa trên điều kiện thị trường.
 
-#### 📌 Static Fees
+#### 📌 Phí Tĩnh
 
-* Static Fee pools have a fixed fee set during pool creation.
-* These fees cannot be changed after the pool is initialized.
-* Suitable for simpler use cases or where predictability of fee structure is important.<br>
+* Các pool Phí Tĩnh có mức phí cố định được đặt trong quá trình tạo pool.
+* Các phí này không thể thay đổi sau khi pool được khởi tạo.
+* Phù hợp cho các trường hợp sử dụng đơn giản hơn hoặc khi cần tính dự đoán của cấu trúc phí.<br>
 
-**🔒 Max Fee Caps:**
+**🔒 Giới Hạn Phí Tối Đa:**
 
-* CLAMM Pools: Up to 100% (mostly for specialized or experimental use cases)
-* LBAMM Pools: Capped at 10%<br>
+* Pool CLAMM: Lên đến 100% (chủ yếu cho các trường hợp sử dụng chuyên biệt hoặc thử nghiệm)
+* Pool LBAMM: Giới hạn ở 10%<br>
 
-**🏛 Protocol Fee (for static fee pools):**
+**🏛 Phí Giao Thức (cho pool phí tĩnh):**
 
-* PancakeSwap applies a protocol fee on Infinity pools
-* 33% of LP fee, capped at 0.4%
+* PancakeSwap áp dụng phí giao thức trên các pool Infinity
+* 33% phí LP, giới hạn ở 0,4%
 
-| **LP Fee**       | **Protocol Fee** |
-| ---------------- | ---------------- |
-| 1%               | 0.33%            |
-| 2%               | 0.4% (capped)    |
-| Dynamic Fee Pool | 0%               |
+| **Phí LP**        | **Phí Giao Thức** |
+| ----------------- | ----------------- |
+| 1%                | 0,33%             |
+| 2%                | 0,4% (giới hạn)   |
+| Pool Phí Động     | 0%                |
 
-#### 🛠️ Setup Notes for Pool Creators
+#### 🛠️ Lưu Ý Thiết Lập Cho Người Tạo Pool
 
-* When initializing a pool via PoolManager, the creator must choose:
-  * Whether the pool uses a static or dynamic fee
-  * Whether a hook contract is attached (required for dynamic fees)
+* Khi khởi tạo pool qua PoolManager, người tạo phải chọn:
+  * Pool sử dụng phí tĩnh hay động
+  * Có gắn hợp đồng hook không (bắt buộc cho phí động)
 
-These settings are permanent and define how the pool behaves throughout its lifetime.
+Các cài đặt này là vĩnh viễn và xác định cách pool hoạt động trong suốt vòng đời của nó.

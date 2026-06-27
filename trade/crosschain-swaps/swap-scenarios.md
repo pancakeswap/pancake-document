@@ -1,38 +1,37 @@
-# 🔁 Swap Scenarios
+# 🔁 Các Kịch Bản Hoán Đổi
 
-There are 4 scenarios for Crosschain transactions.
+Có 4 kịch bản cho các giao dịch xuyên chuỗi.
 
-#### 1️⃣ Bridge Only
+#### 1️⃣ Chỉ Kết Nối Cầu Nối
 
-* Example: **Bridge ETH on Base to ETH on Arbitrum**
-* Only supported tokens (USDC, USDT, WETH, etc) can be bridged directly. These tokens vary by source and destination chain.
+* Ví dụ: **Kết nối cầu nối ETH trên Base sang ETH trên Arbitrum**
+* Chỉ các token được hỗ trợ (USDC, USDT, WETH, v.v.) mới có thể kết nối cầu nối trực tiếp. Các token này khác nhau tùy theo chuỗi nguồn và chuỗi đích.
 
-#### 2️⃣ Swap → Bridge
+#### 2️⃣ Hoán Đổi → Kết Nối Cầu Nối
 
-* Example: **Swap BNB on BNB Chain to USDC on Arbitrum**
-* Swap BNB to a supported bridge token (e.g. USDC) using PancakeSwap pools on BNB chain
-* Bridge USDC via Across to Arbitrum
+* Ví dụ: **Hoán đổi BNB trên BNB Chain sang USDC trên Arbitrum**
+* Hoán đổi BNB sang token cầu nối được hỗ trợ (ví dụ: USDC) sử dụng các pool PancakeSwap trên BNB Chain
+* Kết nối cầu nối USDC qua Across sang Arbitrum
 
-#### 3️⃣ Bridge → Swap
+#### 3️⃣ Kết Nối Cầu Nối → Hoán Đổi
 
-* Example: **Swap USDC on BNB Chain to ARB on Arbitrum**
-* Bridge USDC via Across
-* Swap USDC to ARB using PancakeSwap pools on Arbitrum
+* Ví dụ: **Hoán đổi USDC trên BNB Chain sang ARB trên Arbitrum**
+* Kết nối cầu nối USDC qua Across
+* Hoán đổi USDC sang ARB sử dụng các pool PancakeSwap trên Arbitrum
 
-#### 4️⃣ Swap → Bridge → Swap
+#### 4️⃣ Hoán Đổi → Kết Nối Cầu Nối → Hoán Đổi
 
-* Example: **Swap BNB on BNB Chain to ARB on Arbitrum**
-* Swap BNB to a bridge token (maximizing user output)
-* Bridge via Across
-* Swap bridged token to ARB on Arbitrum using PancakeSwap pools
+* Ví dụ: **Hoán đổi BNB trên BNB Chain sang ARB trên Arbitrum**
+* Hoán đổi BNB sang token cầu nối (tối đa hóa đầu ra cho người dùng)
+* Kết nối cầu nối qua Across
+* Hoán đổi token đã kết nối sang ARB trên Arbitrum sử dụng các pool PancakeSwap
 
 ***
 
-### ⚠️ Fail Cases
+### ⚠️ Các Trường Hợp Thất Bại
 
-| Scenario                              | Outcome                                                                                                                                                                                         |
-| ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Swap/Tx Failure on Source Chain**   | User instantly receives the original token on source chain                                                                                                                                      |
-| **Bridge Tx Failure**                 | Across processes a refund within 90 mins to 2 hours, and user receives the bridged asset on source chain. While Relay processes the refund within a minute in such scenario between SOL <> EVM. |
-| **Swap Failure on Destination Chain** | User receives the bridged asset on the destination chain                                                                                                                                        |
-
+| Kịch Bản                                      | Kết Quả                                                                                                                                                                                                          |
+| --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Thất Bại Hoán Đổi/Giao Dịch trên Chuỗi Nguồn** | Người dùng nhận lại ngay lập tức token gốc trên chuỗi nguồn                                                                                                                                                     |
+| **Thất Bại Giao Dịch Cầu Nối**                | Across xử lý hoàn tiền trong vòng 90 phút đến 2 giờ, người dùng nhận lại tài sản đã kết nối trên chuỗi nguồn. Trong khi đó Relay xử lý hoàn tiền trong vòng một phút trong kịch bản này giữa SOL <> EVM. |
+| **Thất Bại Hoán Đổi trên Chuỗi Đích**        | Người dùng nhận tài sản đã kết nối cầu nối trên chuỗi đích                                                                                                                                                      |

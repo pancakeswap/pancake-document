@@ -1,56 +1,56 @@
-# Fees and Routes
+# Phí và Lộ Trình
 
-<figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2861%29.png" alt=""><figcaption></figcaption></figure>
 
-In Exchange V3, on default, PancakeSwap Smart Router will utilize liquidity from V3, V2, StableSwap (BNB Chain), and the AMM and market makers (BNB Chain & Ethereum), to execute trades and find the best price for traders.
+Trong Exchange V3, theo mặc định, PancakeSwap Smart Router sẽ sử dụng thanh khoản từ V3, V2, StableSwap (BNB Chain), và AMM cùng các nhà tạo lập thị trường (BNB Chain & Ethereum) để thực hiện giao dịch và tìm giá tốt nhất cho trader.
 
-However, users are always able to customize their trade by choosing which liquidity sources the router shall utilize, and enable or disable multihops and split routing.
+Tuy nhiên, người dùng luôn có thể tùy chỉnh giao dịch của mình bằng cách chọn nguồn thanh khoản mà router sẽ sử dụng, và bật hoặc tắt multihops và split routing.
 
-### **Check the fee rate and fee amount that is currently applied**
+### **Kiểm tra mức phí và số tiền phí đang áp dụng**
 
-![](<../../.gitbook/assets/image (182).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28182%29.png)
 
-To check how much trading will be charged on your current swap, check out the “Fee” section in the swap detail section.
+Để kiểm tra phí giao dịch sẽ bị tính cho hoán đổi hiện tại của bạn, hãy xem phần "Phí" trong phần chi tiết hoán đổi.
 
-![](<../../.gitbook/assets/image (296).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28296%29.png)
 
-To check which type of pool and the fee tier your trade is currently routed through, check out the “Route” section.
+Để kiểm tra loại pool và bậc phí mà giao dịch của bạn đang được định tuyến qua, hãy xem phần "Lộ Trình".
 
-![](<../../.gitbook/assets/image (265).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28265%29.png)
 
-To learn more detail, click the magnifier icon to bring out the full trading route displays.
-
-
-
-### **Customize liquidity sources**
-
-![](<../../.gitbook/assets/image (289).png>)
-
-At the top of the “Customize Routing” interface, you may choose which liquidity source the route shall use while routing your trade. To bring up this interface, you can:
-
-* Click “Customize Routing” at the bottom of the trading route displays.
-* Click the cog icon in the swap interface, and then click “Customize Routing” at the bottom.
-
-By default, all of the liquidity sources are enabled and Smart Router will take full advantage of all the available liquidities within PancakeSwap.
-
-Please note that the router will NOT route trades between AMM liquidity pools and MM market makers. When your trade is executed by MM market makers, it will not go through any AMM liquidity pools.
-
-![](<../../.gitbook/assets/image (199).png>)
-
-You can click the “Reset” button on the top right-hand corner to reset the configurations to default.
+Để tìm hiểu thêm chi tiết, nhấp vào biểu tượng kính lúp để mở màn hình hiển thị toàn bộ lộ trình giao dịch.
 
 
 
-### **Customize routing preferences**
+### **Tùy chỉnh nguồn thanh khoản**
 
-![](<../../.gitbook/assets/image (129).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28289%29.png)
 
-At the bottom of the “Customize Routing” interface, you can customize your routing preferences by enabling or disabling multihops and split routing.
+Ở đầu giao diện "Tùy Chỉnh Định Tuyến", bạn có thể chọn nguồn thanh khoản mà router sẽ sử dụng khi định tuyến giao dịch. Để mở giao diện này, bạn có thể:
 
-Multihops allow tokens to swap through multiple hops between serval liquidity pools to achieve the best deal. Turning it off will restrict trades to direct swaps, which may cause higher slippage or even fund loss.
+* Nhấp "Tùy Chỉnh Định Tuyến" ở cuối màn hình hiển thị lộ trình giao dịch.
+* Nhấp biểu tượng bánh răng trong giao diện hoán đổi, rồi nhấp "Tùy Chỉnh Định Tuyến" ở cuối.
 
-Split routing enables token swaps to be broken into multiple routes to achieve the best deal. Turning it off will restrict trades from being executed with a single route, which may result in low efficiency or higher slippage.
+Theo mặc định, tất cả nguồn thanh khoản đều được bật và Smart Router sẽ tận dụng đầy đủ tất cả thanh khoản có sẵn trong PancakeSwap.
+
+Lưu ý rằng router sẽ KHÔNG định tuyến giao dịch giữa các pool thanh khoản AMM và nhà tạo lập thị trường MM. Khi giao dịch của bạn được thực hiện bởi nhà tạo lập thị trường MM, nó sẽ không đi qua bất kỳ pool thanh khoản AMM nào.
+
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28199%29.png)
+
+Bạn có thể nhấp nút "Đặt Lại" ở góc trên bên phải để khôi phục cấu hình về mặc định.
+
+
+
+### **Tùy chỉnh tùy chọn định tuyến**
+
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28129%29.png)
+
+Ở cuối giao diện "Tùy Chỉnh Định Tuyến", bạn có thể tùy chỉnh tùy chọn định tuyến bằng cách bật hoặc tắt multihops và split routing.
+
+Multihops cho phép token hoán đổi qua nhiều bước giữa nhiều pool thanh khoản để đạt được giao dịch tốt nhất. Tắt tính năng này sẽ giới hạn giao dịch chỉ hoán đổi trực tiếp, có thể gây ra trượt giá cao hơn hoặc thậm chí mất tiền.
+
+Split routing cho phép hoán đổi token được chia thành nhiều lộ trình để đạt được giao dịch tốt nhất. Tắt tính năng này sẽ hạn chế giao dịch chỉ được thực hiện qua một lộ trình duy nhất, có thể dẫn đến hiệu quả thấp hơn hoặc trượt giá cao hơn.
 
 {% hint style="warning" %}
-When your trade can not be executed due to a customized trading configuration, a warning will appear, you can click “Check your settings” to quickly bring up the“Customize Routing” interface. Or choose “Reset to default” to quickly reset your configurations back to default.
+Khi giao dịch của bạn không thể thực hiện do cấu hình giao dịch tùy chỉnh, một cảnh báo sẽ xuất hiện, bạn có thể nhấp "Kiểm tra cài đặt" để nhanh chóng mở giao diện "Tùy Chỉnh Định Tuyến". Hoặc chọn "Đặt lại về mặc định" để nhanh chóng khôi phục cấu hình về mặc định.
 {% endhint %}

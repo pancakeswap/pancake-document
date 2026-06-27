@@ -2,38 +2,38 @@
 hidden: true
 ---
 
-# How to use Limit Orders
+# Cách Sử Dụng Lệnh Giới Hạn
 
-## What is Limit Orders
+## Lệnh Giới Hạn là gì
 
-A limit order is a tool to enable users to buy or sell assets at a specified price or better, instead of relying on the market price at the time of execution. In a limit order, while the price is guaranteed, the order being executed is not - limit orders will be executed only if the price meets the order qualifications.
+Lệnh giới hạn là công cụ cho phép người dùng mua hoặc bán tài sản ở một mức giá cụ thể hoặc tốt hơn, thay vì phụ thuộc vào giá thị trường tại thời điểm thực thi. Trong lệnh giới hạn, mặc dù giá được đảm bảo nhưng việc thực thi lệnh không được đảm bảo — lệnh giới hạn chỉ được thực thi nếu giá đáp ứng điều kiện của lệnh.
 
-## How to set up a limit order
+## Cách đặt lệnh giới hạn
 
-1. Go to the Swap page and select the limit order option by clicking “LIMIT”, or, use this link: [https://pancakeswap.finance/swap/limit](https://pancakeswap.finance/swap/limit)
-2. Select the “From” and “To” tokens you wish to trade. In this example we chose USDC and ETH respectively, meaning we want to buy ETH with USDC.
+1. Đến trang Swap và chọn tùy chọn lệnh giới hạn bằng cách nhấp vào "LIMIT", hoặc sử dụng liên kết này: [https://pancakeswap.finance/swap/limit](https://pancakeswap.finance/swap/limit)
+2. Chọn token "Từ" và "Đến" bạn muốn giao dịch. Trong ví dụ này, chúng tôi chọn USDC và ETH tương ứng, nghĩa là chúng tôi muốn mua ETH bằng USDC.
 
-![](<../../.gitbook/assets/image (4) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%284%29%20%281%29.png)
 
-1. Enter the amount you wish to trade. Notice the limit price will show the current market price which will then estimate the output amount of destination tokens (ETH)
-2. Set the desired limit price. Trades will ONLY be executed when the available market price is better than or equal to the limit price. The destination token output amount will update accordingly.
+1. Nhập số lượng bạn muốn giao dịch. Lưu ý rằng giá giới hạn sẽ hiển thị giá thị trường hiện tại và từ đó ước tính số lượng token đích đầu ra (ETH)
+2. Đặt giá giới hạn mong muốn. Giao dịch SẼ CHỈ được thực thi khi giá thị trường hiện có bằng hoặc tốt hơn giá giới hạn. Số lượng token đích đầu ra sẽ được cập nhật tương ứng.
 
-In the example below, we wish to buy ETH when the price is $1,900 or better. The amount of ETH received will be equal or greater than 0.037 ETH. Only bids equal or better than this amount will be eligible to fill the order. This amount takes into account gas costs and fees. &#x20;
+Trong ví dụ dưới đây, chúng tôi muốn mua ETH khi giá là $1.900 hoặc tốt hơn. Số lượng ETH nhận được sẽ bằng hoặc lớn hơn 0.037 ETH. Chỉ các giá thầu bằng hoặc tốt hơn số lượng này mới đủ điều kiện để khớp lệnh. Số lượng này đã tính đến chi phí gas và phí.&#x20;
 
 {% hint style="info" %}
-Important note: As the fees are paid from the output token amount, the limit price includes the gas & trading fees and so users should take this into account when setting up the price. For example, a very small order’s gas fees can total a very large percentage of the order output, reflecting an actual limit price that is not competitive with the spot market price.
+Lưu ý quan trọng: Vì phí được thanh toán từ số lượng token đầu ra, nên giá giới hạn đã bao gồm phí gas và phí giao dịch, vì vậy người dùng nên tính đến điều này khi đặt giá. Ví dụ, phí gas của một lệnh rất nhỏ có thể chiếm tỷ lệ rất lớn trên tổng đầu ra của lệnh, phản ánh giá giới hạn thực tế không cạnh tranh với giá thị trường giao ngay.
 {% endhint %}
 
-3.  Press “Place order”. Double check your order details, accept the disclaimer and press “Confirm order”.
+3.  Nhấn "Place order". Kiểm tra lại chi tiết lệnh, chấp nhận tuyên bố từ chối trách nhiệm và nhấn "Confirm order".
 
-    <figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
-4. Once the transaction is through, you will be able to see your order in the order history section, under “Open orders”. \
-   ![](<../../.gitbook/assets/image (2) (1) (1) (1).png>)
-5. Open orders can be canceled at any time by expanding the order and clicking the “Cancel Order” button.
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%283%29%20%281%29%20%281%29.png" alt="" width="375"><figcaption></figcaption></figure>
+4. Sau khi giao dịch hoàn tất, bạn sẽ thấy lệnh trong phần lịch sử lệnh, dưới "Open orders". \
+   ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%282%29%20%281%29%20%281%29%20%281%29.png)
+5. Các lệnh đang mở có thể được hủy bất cứ lúc nào bằng cách mở rộng lệnh và nhấp vào nút "Cancel Order".
 
-Things to take into consideration:
+Những điều cần xem xét:
 
-* Your order may not be executed if the available market price is worse than the limit price you have set.
-* The trades are based on a decentralized protocol that utilizes off-chain takers which compete to fill orders. These takers are entitled to request a fee, which the protocol removes for the winning taker from the output tokens.&#x20;
-* Takers may take into account gas fees for your transactions when setting their fees, which may result in fluctuations in the fee amounts.
-* When specifying a limit price, users will see in the UI the minimum amount of destination tokens they will receive if the order is filled. Only takers making bids equal or better than this amount will be eligible to fill the order. This amount takes into account gas costs and trading fees.
+* Lệnh của bạn có thể không được thực thi nếu giá thị trường hiện có kém hơn giá giới hạn bạn đã đặt.
+* Các giao dịch dựa trên một giao thức phi tập trung sử dụng các taker ngoài chuỗi cạnh tranh để khớp lệnh. Các taker này có quyền yêu cầu phí, giao thức sẽ trừ phí cho taker thắng từ token đầu ra.&#x20;
+* Các taker có thể tính đến phí gas cho giao dịch của bạn khi đặt phí của họ, điều này có thể dẫn đến biến động trong số tiền phí.
+* Khi chỉ định giá giới hạn, người dùng sẽ thấy trong giao diện số lượng token đích tối thiểu họ sẽ nhận được nếu lệnh được khớp. Chỉ các taker đưa ra giá thầu bằng hoặc tốt hơn số lượng này mới đủ điều kiện để khớp lệnh. Số lượng này đã tính đến chi phí gas và phí giao dịch.

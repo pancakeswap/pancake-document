@@ -1,23 +1,23 @@
-# Token Swaps
+# Hoán Đổi Token
 
-![](../../.gitbook/assets/swap-trade-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/swap-trade-header.png)
 
-[**Token swaps**](https://pancakeswap.finance/swap) on PancakeSwap are a simple way to trade one token for another via automated liquidity pools on BNB Smart Chain, Ethereum and Aptos, and also with market makers when trading tokens on BNB Smart Chain and Ethereum.
+[**Hoán đổi token**](https://pancakeswap.finance/swap) trên PancakeSwap là cách đơn giản để giao dịch một token lấy token khác thông qua các nhóm thanh khoản tự động trên BNB Smart Chain, Ethereum và Aptos, cũng như với nhà tạo lập thị trường khi giao dịch token trên BNB Smart Chain và Ethereum.
 
-![](<../../.gitbook/assets/image (53).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2853%29.png)
 
-When you make a token swap (trade) on the [BNB Smart Chain](https://pancakeswap.finance/swap?chain=bsc) or [Ethereum](https://pancakeswap.finance/swap?chain=eth) PancakeSwap Exchange, you will pay trading fees according to the type of liquidity pool your trade is being routed through. You may check the route details by clicking the magnifier icon on the “Route” section.
+Khi bạn thực hiện hoán đổi token (giao dịch) trên sàn giao dịch PancakeSwap [BNB Smart Chain](https://pancakeswap.finance/swap?chain=bsc) hoặc [Ethereum](https://pancakeswap.finance/swap?chain=eth), bạn sẽ trả phí giao dịch theo loại nhóm thanh khoản mà giao dịch được định tuyến qua. Bạn có thể kiểm tra chi tiết lộ trình bằng cách nhấp biểu tượng kính lúp trong phần "Lộ Trình".
 
-For Exchange V3 liquidity pools, there are currently four different fee tiers: 0.01%, 0.05%, 0.25%, and 1%.
+Đối với các nhóm thanh khoản Exchange V3, hiện có bốn bậc phí khác nhau: 0,01%, 0,05%, 0,25% và 1%.
 
-For StableSwap liquidity pools, the fee rate depends on the individual pool configurations. Please check the “Fee” section for more detail.
+Đối với các nhóm thanh khoản StableSwap, mức phí phụ thuộc vào cấu hình riêng của từng pool. Vui lòng kiểm tra phần "Phí" để biết thêm chi tiết.
 
-For Exchange V2 liquidity pools, a fixed 0.25% trading fee is applied, which is broken down as follows:
+Đối với các nhóm thanh khoản Exchange V2, mức phí giao dịch cố định là 0,25% được áp dụng, được chia như sau:
 
-* **0.17%** - Returned to Liquidity Pools in the form of a fee reward for liquidity providers.
-* **0.0225%** - Sent to the PancakeSwap Treasury.
-* **0.0575%** - Sent towards CAKE buyback and burn.
+* **0,17%** - Trả lại cho Nhóm Thanh Khoản dưới dạng phần thưởng phí cho nhà cung cấp thanh khoản.
+* **0,0225%** - Gửi vào Kho Bạc PancakeSwap.
+* **0,0575%** - Gửi để mua lại và đốt CAKE.
 
-![](<../../.gitbook/assets/image (277).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28277%29.png)
 
-Please note that on [Aptos](https://aptos.pancakeswap.finance/swap), only PancakeSwap Exchange V2 is deployed, therefore all the token swaps on Aptos will have a fixed 0.25% trading fee with the same breakdown as mentioned above.
+Lưu ý rằng trên [Aptos](https://aptos.pancakeswap.finance/swap), chỉ PancakeSwap Exchange V2 được triển khai, do đó tất cả hoán đổi token trên Aptos sẽ có phí giao dịch cố định là 0,25% với cách phân chia tương tự như đã đề cập ở trên.

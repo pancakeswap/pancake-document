@@ -1,23 +1,23 @@
 # ♾️ PancakeSwap Infinity
 
-> If you're a developer or looking for detailed technical documentation, please refer to this doc [https://developer.pancakeswap.finance/](https://developer.pancakeswap.finance/)
+> Nếu bạn là nhà phát triển hoặc đang tìm kiếm tài liệu kỹ thuật chi tiết, vui lòng tham khảo tài liệu này [https://developer.pancakeswap.finance/](https://developer.pancakeswap.finance/)
 
-**PancakeSwap Infinity** is the newest version of PancakeSwap AMM, designed to make decentralized trading faster, cheaper, and more flexible. It uses a modular design that allows for more customization and supports different types of trading pools and pricing models.
+**PancakeSwap Infinity** là phiên bản mới nhất của PancakeSwap AMM, được thiết kế để giao dịch phi tập trung nhanh hơn, rẻ hơn và linh hoạt hơn. Nó sử dụng kiến trúc mô-đun cho phép tùy chỉnh nhiều hơn và hỗ trợ các loại pool giao dịch và mô hình định giá khác nhau.
 
-With Infinity, developers can build new features more easily using "hooks"—small bits of code that run at key actions in a pool’s lifecycle. These allow for use-cases like custom oracles, dynamic fee pools, advanced trading & liquidity management features, and more.&#x20;
+Với Infinity, nhà phát triển có thể xây dựng các tính năng mới dễ dàng hơn bằng cách sử dụng "hooks" — các đoạn code nhỏ chạy tại các hành động quan trọng trong vòng đời của pool. Những hooks này cho phép các trường hợp sử dụng như oracle tùy chỉnh, pool phí động, tính năng giao dịch và quản lý thanh khoản nâng cao, và nhiều hơn nữa.&#x20;
 
-Compared to PancakeSwap v3, Infinity is more gas-efficient and future-proof. By decoupling core functions like accounting and trading logic, it allows for seamless integration of new pricing curves with hook capabilities—enabling the protocol to evolve without requiring redeployment.
+So với PancakeSwap v3, Infinity hiệu quả hơn về gas và hướng tới tương lai hơn. Bằng cách tách rời các chức năng cốt lõi như kế toán và logic giao dịch, nó cho phép tích hợp liền mạch các đường cong định giá mới với khả năng hooks — giúp giao thức phát triển mà không cần triển khai lại.
 
-### ⭐️ Key Features
+### ⭐️ Tính Năng Chính
 
 1. Singleton
 2. Flash Accounting
 3. Hooks
-4. Native Token Support
-5. Custom Pricing Curves
+4. Hỗ Trợ Token Bản Địa
+5. Đường Cong Định Giá Tùy Chỉnh
 6. ERC-6909
 7. `donate()`
 
 {% hint style="success" %}
-**Open-sourced:** [PancakeSwap Infinity](https://github.com/pancakeswap/infinity-core) is released under an open-source license, encouraging developers to innovate, customize, and collaborate freely.
+**Mã nguồn mở:** [PancakeSwap Infinity](https://github.com/pancakeswap/infinity-core) được phát hành theo giấy phép mã nguồn mở, khuyến khích nhà phát triển đổi mới, tùy chỉnh và cộng tác tự do.
 {% endhint %}

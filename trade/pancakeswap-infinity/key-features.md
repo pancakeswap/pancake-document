@@ -1,132 +1,132 @@
-# Key Features
+# Tính Năng Chính
 
 ### 1️⃣ Singleton
 
-In PancakeSwap v3, every liquidity pool had its own contract, which made creating pools and swapping across multiple pools more expensive.
+Trong PancakeSwap v3, mỗi nhóm thanh khoản có hợp đồng riêng, điều này làm cho việc tạo pool và hoán đổi qua nhiều pool trở nên tốn kém hơn.
 
-Infinity fixes this by implementing the Singleton model. Now, all pools live inside a single contract called the PoolManager. This change cuts pool creation gas costs by up to 99% and makes multi-hop swaps (swaps that go through multiple pools) much cheaper by avoiding unnecessary token transfers.
+Infinity giải quyết điều này bằng cách triển khai mô hình Singleton. Giờ đây, tất cả các pool đều nằm trong một hợp đồng duy nhất gọi là PoolManager. Thay đổi này cắt giảm chi phí gas tạo pool lên đến 99% và làm cho các hoán đổi multi-hop (hoán đổi qua nhiều pool) rẻ hơn nhiều bằng cách tránh chuyển token không cần thiết.
 
-#### ⚙️ **How it works:**
+#### ⚙️ **Cách Hoạt Động:**
 
-* Each pool’s data is stored in a shared contract using a unique pool ID.
-* Creating a new pool is now just a state update, not a full contract deployment.
-* Swapping across pools is faster and uses less gas.<br>
+* Dữ liệu của mỗi pool được lưu trữ trong một hợp đồng chia sẻ sử dụng ID pool duy nhất.
+* Tạo pool mới giờ chỉ là cập nhật trạng thái, không phải triển khai hợp đồng đầy đủ.
+* Hoán đổi qua các pool nhanh hơn và sử dụng ít gas hơn.<br>
 
-This Singleton approach, along with other optimizations like Flash Accounting and ERC-6909, helps make PancakeSwap Infinity one of the most gas-efficient DEX platforms available today.
+Cách tiếp cận Singleton này, cùng với các tối ưu hóa khác như Flash Accounting và ERC-6909, giúp PancakeSwap Infinity trở thành một trong những nền tảng DEX tiết kiệm gas nhất hiện nay.
 
 ***
 
 ### ⚡️ Flash Accounting
 
-Flash Accounting is a powerful optimization in PancakeSwap Infinity that helps reduce gas fees during complex transactions like multi-hop swaps and liquidity changes.
+Flash Accounting là tối ưu hóa mạnh mẽ trong PancakeSwap Infinity giúp giảm phí gas trong các giao dịch phức tạp như hoán đổi multi-hop và thay đổi thanh khoản.
 
-In older versions (like v3), tokens were moved in and out of each pool during every step of a transaction. This led to high gas costs, especially for multi-hop swaps.
+Trong các phiên bản cũ (như v3), token được di chuyển vào và ra khỏi mỗi pool trong mỗi bước của giao dịch. Điều này dẫn đến chi phí gas cao, đặc biệt là cho các hoán đổi multi-hop.
 
-With Flash Accounting, that’s no longer necessary. Instead of moving tokens after each step, PancakeSwap Infinity keeps track of all token movements internally and only makes one final transfer at the end of the whole transaction. This saves a lot of gas.
+Với Flash Accounting, điều đó không còn cần thiết nữa. Thay vì di chuyển token sau mỗi bước, PancakeSwap Infinity theo dõi tất cả các chuyển động token bên trong và chỉ thực hiện một lần chuyển cuối cùng vào cuối toàn bộ giao dịch. Điều này tiết kiệm rất nhiều gas.
 
-#### ⚙️ **How It Works:**
+#### ⚙️ **Cách Hoạt Động:**
 
-* When you interact with Infinity (e.g., swapping or adding liquidity), the system calculates the net balance of tokens you owe or receive.
-* These net token balances are stored temporarily using Transient Storage, a new feature introduced with Ethereum’s Cancun upgrade (EIP-1153).
-* Transient Storage is cheaper than traditional storage because it only lasts for the duration of the transaction — no permanent writing or reading is needed.
-
-***
-
-### 🪙 Native Token Support
-
-With the introduction of Singleton architecture and Flash Accounting, PancakeSwap Infinity now supports native gas tokens (e.g., BNB, ETH) directly in liquidity pools — no more wrapping and unwrapping required.
-
-#### ✅ Key Highlights
-
-* **Direct Native Token Pools:** You can now create pools like ETH/USDC, BNB/CAKE without needing WETH or WBNB.
-* **Gas Efficient:** Native token transfers are \~50% cheaper than ERC-20 token transfers, leading to lower gas costs for swaps and liquidity actions.<br>
-
-**Previously Removed, Now Re-enabled:** Native token support was absent in earlier versions due to implementation complexity and liquidity fragmentation.
+* Khi bạn tương tác với Infinity (ví dụ: hoán đổi hoặc thêm thanh khoản), hệ thống tính toán số dư ròng của token bạn nợ hoặc nhận.
+* Các số dư token ròng này được lưu trữ tạm thời bằng Transient Storage, một tính năng mới được giới thiệu với nâng cấp Cancun của Ethereum (EIP-1153).
+* Transient Storage rẻ hơn lưu trữ truyền thống vì nó chỉ tồn tại trong thời gian giao dịch — không cần ghi hay đọc vĩnh viễn.
 
 ***
 
-### 📈 Custom Pricing Curves
+### 🪙 Hỗ Trợ Token Bản Địa
 
-PancakeSwap Infinity gives developers the power to create custom pricing models for pools — moving beyond the traditional model used in most AMMs.
+Với sự ra đời của kiến trúc Singleton và Flash Accounting, PancakeSwap Infinity hiện hỗ trợ các gas token bản địa (ví dụ: BNB, ETH) trực tiếp trong các nhóm thanh khoản — không cần gói và bỏ gói nữa.
+
+#### ✅ Điểm Nổi Bật
+
+* **Pool Token Bản Địa Trực Tiếp:** Bạn giờ có thể tạo pool như ETH/USDC, BNB/CAKE mà không cần WETH hay WBNB.
+* **Tiết Kiệm Gas:** Chuyển token bản địa rẻ hơn \~50% so với chuyển token ERC-20, dẫn đến chi phí gas thấp hơn cho hoán đổi và các hành động thanh khoản.<br>
+
+**Đã Bị Xóa Trước Đây, Nay Được Kích Hoạt Lại:** Hỗ trợ token bản địa không có trong các phiên bản trước do độ phức tạp triển khai và phân tán thanh khoản.
+
+***
+
+### 📈 Đường Cong Định Giá Tùy Chỉnh
+
+PancakeSwap Infinity trao cho nhà phát triển quyền tạo các mô hình định giá tùy chỉnh cho pool — vượt ra ngoài mô hình truyền thống được sử dụng trong hầu hết AMM.
 
 {% hint style="success" %}
-#### Developers can build entirely new swap behaviors and liquidity models tailored to specific asset types or trading strategies.
+#### Nhà phát triển có thể xây dựng các hành vi hoán đổi và mô hình thanh khoản hoàn toàn mới phù hợp với các loại tài sản hoặc chiến lược giao dịch cụ thể.
 {% endhint %}
 
-#### 🔧 What Are Custom Pricing Curves?
+#### 🔧 Đường Cong Định Giá Tùy Chỉnh Là Gì?
 
-Custom pricing curves allow developers to:
+Đường cong định giá tùy chỉnh cho phép nhà phát triển:
 
-* Bypass the native pool manager logic, creating pools with custom-defined swap behaviors.
-* Alter how token amounts are calculated for swaps or liquidity modifications.
-* Incorporate custom fee mechanics, such as:
-  * Liquidity withdrawal fees
-  * Rebates or penalties based on strategy
+* Bỏ qua logic pool manager bản địa, tạo các pool với hành vi hoán đổi được định nghĩa tùy chỉnh.
+* Thay đổi cách tính toán số lượng token cho hoán đổi hoặc sửa đổi thanh khoản.
+* Kết hợp cơ chế phí tùy chỉnh, chẳng hạn như:
+  * Phí rút thanh khoản
+  * Hoàn tiền hoặc phạt dựa trên chiến lược
 
-All of this is made possible through before / after swap hook callbacks, which can intercept and modify swap parameters dynamically.
+Tất cả điều này được thực hiện thông qua callback hook trước/sau hoán đổi, có thể chặn và sửa đổi các tham số hoán đổi động.
 
-#### 🛠 Example Use Cases
+#### 🛠 Ví Dụ Trường Hợp Sử Dụng
 
-* **StableSwap Curves:** Design flatter curves around a 1:1 price ratio, reducing price impact between assets like USDC and USDT.
-* **RWAs:** Create custom behaviors for different asset types with dynamic supply.
-* **Hook-Level Fees:** Charge unique fees that differ from pool-level fees, such as developer fees.
-* **Custom Risk Models:** Adjust pricing to reflect volatility, oracle data, or external metrics.
+* **Đường Cong StableSwap:** Thiết kế các đường cong phẳng hơn quanh tỷ lệ giá 1:1, giảm tác động giá giữa các tài sản như USDC và USDT.
+* **RWA:** Tạo hành vi tùy chỉnh cho các loại tài sản khác nhau với nguồn cung động.
+* **Phí Cấp Hook:** Tính các phí độc đáo khác với phí cấp pool, chẳng hạn như phí nhà phát triển.
+* **Mô Hình Rủi Ro Tùy Chỉnh:** Điều chỉnh định giá để phản ánh biến động, dữ liệu oracle hoặc các số liệu bên ngoài.
 
 {% hint style="info" %}
-In previous AMM versions (e.g., PancakeSwap v2/v3), pricing logic was hardcoded and rigid. PancakeSwap Infinity’s architecture unlocks the ability to build more capital-efficient and tailored pools.
+Trong các phiên bản AMM trước (ví dụ: PancakeSwap v2/v3), logic định giá được cố định và cứng nhắc. Kiến trúc của PancakeSwap Infinity mở khóa khả năng xây dựng các pool hiệu quả vốn và được tùy chỉnh hơn.
 {% endhint %}
 
-#### 🔍 Developer Flexibility
+#### 🔍 Linh Hoạt Cho Nhà Phát Triển
 
-* Developers can deploy custom hook contracts to override the pricing logic.
-* Hook callbacks such as beforeSwap and afterSwap allow full control over how token deltas are calculated and applied.
-
-***
-
-### 🧮 ERC-6909: Efficient Multi-Token Accounting
-
-PancakeSwap Infinity adopts[ ERC-6909](https://eips.ethereum.org/EIPS/eip-6909), a lightweight and gas-efficient token standard designed for internal accounting of multiple tokens within a single contract. It replaces many traditional ERC-20 operations with mint and burn primitives—leading to significant gas savings and simplified transaction flows.
-
-#### ⚙️ How It Works
-
-Rather than moving tokens in and out of the protocol with each interaction, ERC-6909 tokens represent internal balances:
-
-* Mint: When users deposit tokens or perform a trade, they can choose to receive ERC-6909 tokens as claims.
-* Burn: Later, instead of transferring ERC-20 tokens again, users can simply burn these ERC-6909 tokens to settle balances or fund new operations.
-
-This model drastically reduces the need for external token transfers, which typically incur higher gas costs and interact with third-party logic (e.g., USDC's blacklisting checks).
-
-#### 🪙 Benefits of ERC-6909
-
-<table><thead><tr><th width="262.9921875">Feature</th><th width="497.7421875">Benefit</th></tr></thead><tbody><tr><td>✅ Internal Balance Claims</td><td>No need to transfer tokens repeatedly between user and contract</td></tr><tr><td>✅ Gas-Efficient Mint/Burn</td><td>Constant overhead regardless of token, no external contract calls</td></tr><tr><td>✅ Simpler Than ERC-1155</td><td>Smaller code size, no callbacks, no batched transfer requirements</td></tr><tr><td>✅ Multi-Token Support</td><td>A single contract can track multiple token types with isolated balances</td></tr><tr><td>✅ Seamless with PoolManager</td><td>Eliminates redundant ERC-20 approvals and transfers</td></tr></tbody></table>
-
-#### 🚀 Use Cases
-
-* **High-frequency traders:** Avoid gas-heavy transfers and interact directly using internal balances.
-* **Liquidity managers:** Open and close positions more efficiently without excessive token movements.
-
-#### 💡 Key Notes
-
-* Users opt-in to ERC-6909 flow when they don’t need to immediately settle token transfers.
-* Internal balances can be consolidated and net-settled later, giving power users greater control and flexibility.
+* Nhà phát triển có thể triển khai các hợp đồng hook tùy chỉnh để ghi đè logic định giá.
+* Các callback hook như beforeSwap và afterSwap cho phép kiểm soát hoàn toàn cách tính toán và áp dụng các delta token.
 
 ***
 
-### 💸 Donate Method
+### 🧮 ERC-6909: Kế Toán Đa Token Hiệu Quả
 
-The `donate()` method allows users to directly incentivize in-range liquidity providers within a pool by donating tokens. This method relies on the pool's fee accounting system to facilitate the payments, ensuring that only pool tokens are supported.
+PancakeSwap Infinity áp dụng[ ERC-6909](https://eips.ethereum.org/EIPS/eip-6909), một tiêu chuẩn token nhẹ và tiết kiệm gas được thiết kế cho kế toán nội bộ của nhiều token trong một hợp đồng duy nhất. Nó thay thế nhiều hoạt động ERC-20 truyền thống bằng các nguyên thủy mint và burn — dẫn đến tiết kiệm gas đáng kể và luồng giao dịch đơn giản hơn.
 
-#### 🔹 Key Features:
+#### ⚙️ Cách Hoạt Động
 
-* **Direct Payments to LPs:** Donations are made directly to liquidity providers, rewarding those who maintain liquidity within the active range of the pool.
-* **Supports Pool Tokens Only:** The `donate()` method only supports donations in the pool's tokens, as it leverages the fee accounting system to ensure proper distribution.
-* **Open to All Users:** Any user can call the `donate()` method, enabling anyone to incentivize active liquidity provision.
+Thay vì di chuyển token vào và ra khỏi giao thức với mỗi tương tác, token ERC-6909 đại diện cho số dư nội bộ:
+
+* Mint: Khi người dùng gửi token hoặc thực hiện giao dịch, họ có thể chọn nhận token ERC-6909 làm yêu cầu.
+* Burn: Sau đó, thay vì chuyển lại token ERC-20, người dùng có thể đơn giản đốt các token ERC-6909 này để thanh toán số dư hoặc tài trợ cho các hoạt động mới.
+
+Mô hình này giảm đáng kể nhu cầu chuyển token bên ngoài, thường gánh chịu chi phí gas cao hơn và tương tác với logic bên thứ ba (ví dụ: kiểm tra blacklist của USDC).
+
+#### 🪙 Lợi Ích Của ERC-6909
+
+<table><thead><tr><th width="262.9921875">Tính Năng</th><th width="497.7421875">Lợi Ích</th></tr></thead><tbody><tr><td>✅ Yêu Cầu Số Dư Nội Bộ</td><td>Không cần chuyển token nhiều lần giữa người dùng và hợp đồng</td></tr><tr><td>✅ Mint/Burn Tiết Kiệm Gas</td><td>Chi phí cố định bất kể token, không cần gọi hợp đồng bên ngoài</td></tr><tr><td>✅ Đơn Giản Hơn ERC-1155</td><td>Kích thước code nhỏ hơn, không có callback, không có yêu cầu chuyển theo lô</td></tr><tr><td>✅ Hỗ Trợ Đa Token</td><td>Một hợp đồng có thể theo dõi nhiều loại token với số dư độc lập</td></tr><tr><td>✅ Liền Mạch Với PoolManager</td><td>Loại bỏ phê duyệt và chuyển ERC-20 dư thừa</td></tr></tbody></table>
+
+#### 🚀 Trường Hợp Sử Dụng
+
+* **Trader tần số cao:** Tránh chuyển tốn gas và tương tác trực tiếp sử dụng số dư nội bộ.
+* **Nhà quản lý thanh khoản:** Mở và đóng vị thế hiệu quả hơn mà không cần chuyển token quá mức.
+
+#### 💡 Lưu Ý Chính
+
+* Người dùng tự nguyện tham gia vào luồng ERC-6909 khi họ không cần thanh toán chuyển token ngay lập tức.
+* Số dư nội bộ có thể được hợp nhất và thanh toán ròng sau, mang lại cho người dùng cao cấp quyền kiểm soát và linh hoạt lớn hơn.
+
+***
+
+### 💸 Phương Thức Donate
+
+Phương thức `donate()` cho phép người dùng trực tiếp khuyến khích các nhà cung cấp thanh khoản trong phạm vi trong một pool bằng cách đóng góp token. Phương thức này dựa vào hệ thống kế toán phí của pool để thực hiện các khoản thanh toán, đảm bảo chỉ token pool được hỗ trợ.
+
+#### 🔹 Tính Năng Chính:
+
+* **Thanh Toán Trực Tiếp Cho LP:** Đóng góp được thực hiện trực tiếp cho các nhà cung cấp thanh khoản, thưởng cho những người duy trì thanh khoản trong phạm vi hoạt động của pool.
+* **Chỉ Hỗ Trợ Token Pool:** Phương thức `donate()` chỉ hỗ trợ đóng góp bằng token của pool, vì nó tận dụng hệ thống kế toán phí để đảm bảo phân phối đúng cách.
+* **Mở Cho Tất Cả Người Dùng:** Bất kỳ người dùng nào cũng có thể gọi phương thức `donate()`, cho phép bất kỳ ai khuyến khích việc cung cấp thanh khoản đang hoạt động.
 
 
 
-While the `donate()` method is a powerful tool to incentivize LPs, donors should be aware that their donations may be front run by other users. This can occur when a user quickly adds liquidity to the pool right before a donation is made, receiving a portion of the donated funds.
+Mặc dù phương thức `donate()` là công cụ mạnh mẽ để khuyến khích LP, người đóng góp cần biết rằng các khoản đóng góp của họ có thể bị chạy trước bởi người dùng khác. Điều này có thể xảy ra khi người dùng nhanh chóng thêm thanh khoản vào pool ngay trước khi đóng góp được thực hiện, nhận được một phần tiền đóng góp.
 
-To prevent front-running, donors may need to consider additional strategies when designing their donation mechanisms, such as:
+Để ngăn chặn việc chạy trước, người đóng góp có thể cần xem xét các chiến lược bổ sung khi thiết kế cơ chế đóng góp, chẳng hạn như:
 
-* Ensuring that donations occur in a way that minimizes the ability for opportunistic front-running.
-* Adding time delays or specific conditions (using before / after donate hook callbacks) that ensure the donations are not being exploited in this way.
+* Đảm bảo rằng các khoản đóng góp xảy ra theo cách giảm thiểu khả năng bị chạy trước cơ hội.
+* Thêm độ trễ thời gian hoặc điều kiện cụ thể (sử dụng callback hook before/after donate) đảm bảo các khoản đóng góp không bị khai thác theo cách này.

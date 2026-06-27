@@ -1,89 +1,89 @@
 # ❓ FAQ
 
-### 1. How does slippage tolerance work for Crosschain swaps?
+### 1. Mức trượt giá hoạt động như thế nào trong hoán đổi xuyên chuỗi?
 
-For Crosschain swaps, your selected slippage tolerance percentage is applied independently to swaps on both the source and destination chains.
+Đối với hoán đổi xuyên chuỗi, phần trăm mức trượt giá bạn chọn được áp dụng độc lập cho các hoán đổi trên cả chuỗi nguồn và chuỗi đích.
 
-**Example:**
+**Ví dụ:**
 
-* Swap BNB on BNB Chain to ARB on Arbitrum
-* Slippage tolerance set to 1%
-* The route could be:
-  1. Swap BNB to USDC on BNB Chain
-  2. Bridge USDC from BNB Chain to Arbitrum via Across
-  3. Swap USDC to ARB on Arbitrum
-* In this case, the 1% slippage tolerance applies separately to:
-  * The swap on BNB Chain
-  * The swap on Arbitrum
+* Hoán đổi BNB trên BNB Chain sang ARB trên Arbitrum
+* Mức trượt giá được đặt là 1%
+* Lộ trình có thể là:
+  1. Hoán đổi BNB sang USDC trên BNB Chain
+  2. Kết nối cầu nối USDC từ BNB Chain sang Arbitrum qua Across
+  3. Hoán đổi USDC sang ARB trên Arbitrum
+* Trong trường hợp này, mức trượt giá 1% được áp dụng riêng cho:
+  * Hoán đổi trên BNB Chain
+  * Hoán đổi trên Arbitrum
 
-This ensures you’re protected from excessive price movements on both legs of the transaction while keeping the bridging process itself unaffected by slippage settings.
+Điều này đảm bảo bạn được bảo vệ khỏi biến động giá quá mức ở cả hai nhánh của giao dịch trong khi không ảnh hưởng đến quá trình kết nối cầu nối.
 
-### 2. What happens if my transaction fails?
+### 2. Điều gì xảy ra nếu giao dịch của tôi thất bại?
 
-If your Crosschain swap encounters a failure at any stage, here’s how it’s handled:
+Nếu hoán đổi xuyên chuỗi của bạn gặp sự cố ở bất kỳ giai đoạn nào, đây là cách xử lý:
 
-1.  **Swap/Transaction Failure on Source Chain**
+1.  **Thất Bại Hoán Đổi/Giao Dịch trên Chuỗi Nguồn**
 
-    ➝ You’ll instantly receive your original token back on the source chain.
-2.  **Bridge Transaction Failure**
+    ➝ Bạn sẽ nhận lại ngay lập tức token gốc trên chuỗi nguồn.
+2.  **Thất Bại Giao Dịch Cầu Nối**
 
-    ➝ Across will process a refund within 90 minutes to 2 hours, and you’ll receive the bridged asset back on the source chain. While Relay processes the refund within a minute in such scenarios between SOL <> EVM.
-3.  **Swap Failure on Destination Chain**
+    ➝ Across sẽ xử lý hoàn tiền trong vòng 90 phút đến 2 giờ, và bạn sẽ nhận lại tài sản đã kết nối trên chuỗi nguồn. Trong khi đó Relay xử lý hoàn tiền trong vòng một phút trong các kịch bản như vậy giữa SOL <> EVM.
+3.  **Thất Bại Hoán Đổi trên Chuỗi Đích**
 
-    ➝ You’ll receive the bridged asset on the destination chain, without the final swap to your target token.
+    ➝ Bạn sẽ nhận tài sản đã kết nối cầu nối trên chuỗi đích, mà không có hoán đổi cuối cùng sang token mục tiêu.
 
 {% hint style="info" %}
-**Note:** You can always check the status of your transactions through the transaction history tab under wallet connect UI.
+**Lưu ý:** Bạn luôn có thể kiểm tra trạng thái giao dịch của mình qua tab lịch sử giao dịch trong giao diện kết nối ví.
 {% endhint %}
 
-### 3. Are my Crosschain swaps MEV protected?
+### 3. Hoán đổi xuyên chuỗi của tôi có được bảo vệ MEV không?
 
-MEV Guard is only supported on the BNB Chain when swaps are initiated directly from a connected wallet with MEV Guard enabled.
+MEV Guard chỉ được hỗ trợ trên BNB Chain khi hoán đổi được khởi tạo trực tiếp từ ví được kết nối với MEV Guard đã bật.
 
-* If your Crosschain swap involves a swap on BNB Chain as the source chain, and you have MEV Guard enabled, that swap will be MEV protected.
-* If BNB Chain is the destination chain, the swap is executed by the bridging relayer/system and will not be MEV protected, since it’s not initiated by your connected wallet.
+* Nếu hoán đổi xuyên chuỗi của bạn liên quan đến hoán đổi trên BNB Chain là chuỗi nguồn, và bạn đã bật MEV Guard, thì hoán đổi đó sẽ được bảo vệ MEV.
+* Nếu BNB Chain là chuỗi đích, hoán đổi được thực hiện bởi relayer/hệ thống kết nối cầu nối và sẽ không được bảo vệ MEV, vì nó không được khởi tạo từ ví được kết nối của bạn.
 
 {% hint style="info" %}
-**Note:** Other chains like Arbitrum and Base currently do not support MEV Guard protection on PancakeSwap.
+**Lưu ý:** Các chuỗi khác như Arbitrum và Base hiện không hỗ trợ bảo vệ MEV Guard trên PancakeSwap.
 {% endhint %}
 
-### 4. Can I swap stablecoins between chains?
+### 4. Tôi có thể hoán đổi stablecoin giữa các chuỗi không?
 
-Yes — you can swap and bridge stablecoins like USDC, USDT, and DAI directly between any supported chains.
+Có — bạn có thể hoán đổi và kết nối cầu nối các stablecoin như USDC, USDT và DAI trực tiếp giữa bất kỳ chuỗi nào được hỗ trợ.
 
-You have two options:
+Bạn có hai lựa chọn:
 
-1.  **Direct Bridge:**
+1.  **Kết Nối Cầu Nối Trực Tiếp:**
 
-    Bridge supported stablecoins (like USDC, USDT, etc) directly from one chain to another.
-2.  **Swap to Other Tokens:**
+    Kết nối cầu nối trực tiếp các stablecoin được hỗ trợ (như USDC, USDT, v.v.) từ một chuỗi sang chuỗi khác.
+2.  **Hoán Đổi Sang Token Khác:**
 
-    You can also swap a stablecoin to any other token supported on the destination chain using PancakeSwap’s liquidity pools — either before or after bridging.
+    Bạn cũng có thể hoán đổi stablecoin sang bất kỳ token nào được hỗ trợ trên chuỗi đích bằng cách sử dụng các nhóm thanh khoản của PancakeSwap — trước hoặc sau khi kết nối cầu nối.
 
 {% hint style="info" %}
-**Note:** Supported stablecoins for direct bridging may vary by chain.
+**Lưu ý:** Các stablecoin được hỗ trợ để kết nối cầu nối trực tiếp có thể khác nhau tùy theo chuỗi.
 {% endhint %}
 
-### 5. Will my swaps use PCSX?
+### 5. Hoán đổi của tôi có sử dụng PCSX không?
 
-No — PCSX is not supported for servicing Crosschain swaps.
+Không — PCSX không được hỗ trợ để phục vụ hoán đổi xuyên chuỗi.
 
-Crosschain swaps on PancakeSwap are exclusively routed through:
+Hoán đổi xuyên chuỗi trên PancakeSwap được định tuyến độc quyền qua:
 
-* **PancakeSwap’s liquidity pools** (v2, v3, Infinity, StableSwap) for on-chain swaps, and
-* **Across & Relay protocols** for bridging assets between chains.
+* **Các nhóm thanh khoản của PancakeSwap** (v2, v3, Infinity, StableSwap) cho các hoán đổi trên chuỗi, và
+* **Giao thức Across & Relay** để kết nối tài sản giữa các chuỗi.
 
-PCSX cannot be used to facilitate or route any part of a Crosschain swap transaction.
+PCSX không thể được sử dụng để thực hiện hoặc định tuyến bất kỳ phần nào của giao dịch hoán đổi xuyên chuỗi.
 
-### 6. Is there a minimum or maximum limit on swap amount?
+### 6. Có giới hạn tối thiểu hoặc tối đa về số lượng hoán đổi không?
 
-Yes — both minimum and maximum limits apply to Crosschain transactions.
+Có — cả giới hạn tối thiểu và tối đa đều áp dụng cho các giao dịch xuyên chuỗi.
 
-* **Maximum Limit:**\
-  Depends on the available bridge liquidity for the selected token and chain. This value can fluctuate in real-time based on network and liquidity conditions.
-* **Minimum Limit:**\
-  Set to ensure it’s economically viable for relayers to process the bridge transaction.
+* **Giới Hạn Tối Đa:**\
+  Phụ thuộc vào thanh khoản cầu nối khả dụng cho token và chuỗi được chọn. Giá trị này có thể biến động theo thời gian thực dựa trên điều kiện mạng lưới và thanh khoản.
+* **Giới Hạn Tối Thiểu:**\
+  Được đặt để đảm bảo việc relayer xử lý giao dịch cầu nối là khả thi về mặt kinh tế.
 
 {% hint style="info" %}
-**Note:** The exact min and max limits vary by bridge token. If your transaction amount is outside the allowed range, the interface will show a clear error message and prompt you to adjust the amount.
+**Lưu ý:** Giới hạn tối thiểu và tối đa chính xác khác nhau tùy theo token cầu nối. Nếu số lượng giao dịch của bạn nằm ngoài phạm vi cho phép, giao diện sẽ hiển thị thông báo lỗi rõ ràng và nhắc bạn điều chỉnh số lượng.
 {% endhint %}

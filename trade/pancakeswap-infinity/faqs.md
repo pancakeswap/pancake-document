@@ -1,36 +1,36 @@
-# FAQs
+# FAQ
 
-1. **How is Infinity different from PancakeSwap V3?**\
-   Infinity adds new features like programmable hooks, more [pool types](https://docs.pancakeswap.finance/trade/pancakeswap-infinity/pool-types) (like LBAMM and CLAMM), and gas savings. However, the core swap and liquidity provision mechanics are broadly similar to v3 except some minor differences in LBAMM pools for liquidity provisioning.\
+1. **Infinity khác PancakeSwap V3 như thế nào?**\
+   Infinity bổ sung các tính năng mới như hooks có thể lập trình, nhiều [loại pool](https://docs.pancakeswap.finance/trade/pancakeswap-infinity/pool-types) hơn (như LBAMM và CLAMM), và tiết kiệm gas. Tuy nhiên, cơ chế hoán đổi và cung cấp thanh khoản cốt lõi về cơ bản tương tự v3 ngoại trừ một số khác biệt nhỏ trong pool LBAMM cho việc cung cấp thanh khoản.\
    <br>
-2.  **What’s the difference between LBAMM and CLAMM?**
+2.  **Sự khác biệt giữa LBAMM và CLAMM là gì?**
 
-    1. **LBAMM (Liquidity Book AMM):** Uses liquidity bins, each holding liquidity at different price levels. LPs can provide liquidity across bins, swaps are executed at a single price level within a bin.
-    2. **CLAMM (Concentrated Liquidity AMM):** Allows users to provide liquidity within custom price ranges like in PancakeSwap V3.
+    1. **LBAMM (Liquidity Book AMM):** Sử dụng các bin thanh khoản, mỗi bin giữ thanh khoản ở các mức giá khác nhau. LP có thể cung cấp thanh khoản trên các bin, hoán đổi được thực hiện ở một mức giá duy nhất trong một bin.
+    2. **CLAMM (Concentrated Liquidity AMM):** Cho phép người dùng cung cấp thanh khoản trong các phạm vi giá tùy chỉnh như trong PancakeSwap V3.
 
     \
-    For more details, visit [here](https://docs.pancakeswap.finance/trade/pancakeswap-infinity/pool-types). \
+    Để biết thêm chi tiết, hãy truy cập [tại đây](https://docs.pancakeswap.finance/trade/pancakeswap-infinity/pool-types). \
     <br>
-3. **How do I claim my farm rewards, and why is it limited to every 8 hours?**\
-   You can claim farm rewards from your liquidity positions by clicking on "Harvest" button. Infinity allows for batch claiming across all active farm positions, saving gas cost. Rewards are computed and processed every 8 hours to optimise for gas costs and compute. \
+3. **Làm thế nào để nhận phần thưởng farm, và tại sao bị giới hạn mỗi 8 giờ?**\
+   Bạn có thể nhận phần thưởng farm từ các vị thế thanh khoản bằng cách nhấp vào nút "Thu Hoạch". Infinity cho phép nhận phần thưởng hàng loạt trên tất cả vị thế farm đang hoạt động, tiết kiệm chi phí gas. Phần thưởng được tính toán và xử lý mỗi 8 giờ để tối ưu hóa chi phí gas và tính toán. \
    \
-   For more details on farming mechanism, visit [here](https://docs.pancakeswap.finance/trade/pancakeswap-infinity/farms). \
+   Để biết thêm chi tiết về cơ chế farming, hãy truy cập [tại đây](https://docs.pancakeswap.finance/trade/pancakeswap-infinity/farms). \
    <br>
-4.  **How do the Infinity hooks work?**\
-    Hooks are customizable smart contract extensions that add extra functionality to a pool. They can trigger additional actions during swaps or liquidity events — for example, adjusting fees, offering discounts, or applying other logic.<br>
+4.  **Các hooks của Infinity hoạt động như thế nào?**\
+    Hooks là các tiện ích mở rộng hợp đồng thông minh có thể tùy chỉnh, bổ sung thêm chức năng cho pool. Chúng có thể kích hoạt các hành động bổ sung trong quá trình hoán đổi hoặc sự kiện thanh khoản — ví dụ: điều chỉnh phí, cung cấp chiết khấu hoặc áp dụng logic khác.<br>
 
-    Hooks are attached to a pool when it’s created. In most cases, **users don’t need to take any extra steps**. As long as you’re swapping or providing liquidity as usual, you’ll automatically benefit from the hook’s logic if it applies to that pool.<br>
+    Hooks được gắn vào pool khi tạo. Trong hầu hết các trường hợp, **người dùng không cần thực hiện thêm bước nào**. Miễn là bạn đang hoán đổi hoặc cung cấp thanh khoản như thường lệ, bạn sẽ tự động hưởng lợi từ logic của hook nếu nó áp dụng cho pool đó.<br>
 
-    👉 **You can view the active hooks and their details on each pool’s page under the "Pool Features" section.**\
+    👉 **Bạn có thể xem các hooks đang hoạt động và chi tiết của chúng trên trang của từng pool trong phần "Tính Năng Pool".**\
     <br>
-5.  **Why didn’t I receive any fees when withdrawing my position from an LBAMM pool?**\
-    In LBAMM (Liquidity Book AMM) pools, fees are automatically added to your active liquidity bins. This means:
+5.  **Tại sao tôi không nhận được phí khi rút vị thế từ pool LBAMM?**\
+    Trong các pool LBAMM (Liquidity Book AMM), phí được tự động thêm vào các bin thanh khoản đang hoạt động của bạn. Điều này có nghĩa là:
 
-    1. When you withdraw your position, your earned fees are included in the total token amounts you’re withdrawing.
-    2. Unlike traditional AMMs, there’s no separate “fees to collect” balance — it’s all bundled into your position’s value.
+    1. Khi bạn rút vị thế, phí kiếm được được bao gồm trong tổng số lượng token bạn đang rút.
+    2. Không giống các AMM truyền thống, không có số dư "phí cần thu" riêng biệt — tất cả được gộp vào giá trị vị thế của bạn.
 
     \
-    If you didn’t notice additional tokens upon withdrawal, it could be because:
+    Nếu bạn không nhận thấy token bổ sung khi rút, có thể là vì:
 
-    1. Your position may have incurred more impermanent loss than the fees collected due to price moves during your position’s duration.
-    2. Your liquidity wasn’t in active bins where trades occurred.
+    1. Vị thế của bạn có thể đã gánh chịu tổn thất tạm thời nhiều hơn phí đã thu do biến động giá trong thời gian nắm giữ vị thế.
+    2. Thanh khoản của bạn không nằm trong các bin đang hoạt động nơi có giao dịch xảy ra.

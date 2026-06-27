@@ -1,37 +1,37 @@
-# FAQs
+# FAQ
 
-#### Which network is currently supported?
+#### Mạng lưới nào hiện đang được hỗ trợ?
 
-PancakeSwap X is live on Arbitrum and Ethereum, supporting crypto tokens, and on BNB Chain, it supports real-world assets (RWAs) like tokenised stocks, bonds, and ETFs.
+PancakeSwap X đang hoạt động trên Arbitrum và Ethereum, hỗ trợ token tiền điện tử, và trên BNB Chain, nó hỗ trợ tài sản thực (RWA) như cổ phiếu, trái phiếu và ETF được token hóa.
 
-#### Is PancakeSwap X on by default?
+#### PancakeSwap X có được bật theo mặc định không?
 
-Yes.
+Có.
 
-#### Why is my swap not going through PancakeSwap X?
+#### Tại sao hoán đổi của tôi không đi qua PancakeSwap X?
 
-PancakeSwap X is a part of the “Swap” product. The Swap interface automatically compare and choose the most optimal liquidity source with the best price for you. Therefore PancakeSwap X will be utilised only when:
+PancakeSwap X là một phần của sản phẩm "Hoán Đổi". Giao diện Hoán Đổi tự động so sánh và chọn nguồn thanh khoản tối ưu nhất với giá tốt nhất cho bạn. Do đó PancakeSwap X chỉ được sử dụng khi:
 
-* The current network supports PancakeSwap X
-* The current trading pair supports PancakeSwap X
-* The pricing is better on PancakeSwap X than other liquidity sources
+* Mạng lưới hiện tại hỗ trợ PancakeSwap X
+* Cặp giao dịch hiện tại hỗ trợ PancakeSwap X
+* Giá trên PancakeSwap X tốt hơn các nguồn thanh khoản khác
 
-If your order is not going through PancakeSwap X, you are not missing anything, as you are already enjoying the best price.
+Nếu lệnh của bạn không đi qua PancakeSwap X, bạn không bỏ lỡ điều gì, vì bạn đã đang nhận được giá tốt nhất.
 
-#### Why is my swap failing with PancakeSwap X?
+#### Tại sao hoán đổi của tôi thất bại với PancakeSwap X?
 
-When trading via PancakeSwap X, orders are actively filled by liquidity providers. Therefore, in some rare cases, often due to rapid market movements, liquidity providers may fail to fill the orders in time, resulting in failed orders.
+Khi giao dịch qua PancakeSwap X, các lệnh được lấp đầy chủ động bởi các nhà cung cấp thanh khoản. Do đó, trong một số trường hợp hiếm, thường do biến động thị trường nhanh, các nhà cung cấp thanh khoản có thể không kịp lấp đầy lệnh, dẫn đến lệnh thất bại.
 
-In this case, simply retry by re-submitting the order. If the error persists, please disable the PancakeSwap X from the settings.
+Trong trường hợp này, chỉ cần thử lại bằng cách gửi lại lệnh. Nếu lỗi vẫn tiếp diễn, vui lòng tắt PancakeSwap X trong cài đặt.
 
-#### Is there any fee when using PancakeSwap X?
+#### Có phí khi sử dụng PancakeSwap X không?
 
-For now, PancakeSwap X does not charge any fee. Fee rate is subject to change in the future.
+Hiện tại, PancakeSwap X không tính bất kỳ phí nào. Mức phí có thể thay đổi trong tương lai.
 
-#### How does PancakeSwap X work without gas fees?
+#### PancakeSwap X hoạt động không tốn gas như thế nào?
 
-Orders are sent to a network of fillers off-chain who bear the gas cost while executing the order on-chain.
+Các lệnh được gửi đến mạng lưới filler off-chain, những người chịu chi phí gas trong khi thực hiện lệnh trên chuỗi.
 
-#### What happens if a transaction fails on PancakeSwap X?
+#### Điều gì xảy ra nếu giao dịch thất bại trên PancakeSwap X?
 
-Nothing to worry. Your funds are safe in your wallet.&#x20;
+Không có gì phải lo lắng. Tiền của bạn an toàn trong ví.&#x20;

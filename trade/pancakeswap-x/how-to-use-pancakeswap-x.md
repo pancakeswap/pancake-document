@@ -1,43 +1,43 @@
-# How to use PancakeSwap X
+# Cách Sử Dụng PancakeSwap X
 
-PancakeSwap X is built directly into the familiar “Swap” interface and enabled for all users by default. To use PancakeSwap X, simply head to the [Swap](https://pancakeswap.finance/swap) page and start trading.
+PancakeSwap X được tích hợp trực tiếp vào giao diện "Hoán Đổi" quen thuộc và được bật cho tất cả người dùng theo mặc định. Để sử dụng PancakeSwap X, chỉ cần truy cập trang [Hoán Đổi](https://pancakeswap.finance/swap) và bắt đầu giao dịch.
 
-### Enable PancakeSwap X
+### Bật PancakeSwap X
 
-<figure><img src="../../.gitbook/assets/image (470).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28470%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-In case X is not enabled. Click the settings icon in “Route” to open the settings modal, and then click “Customise Routing” to bring up the routing preference.
+Trong trường hợp X chưa được bật. Nhấp vào biểu tượng cài đặt trong "Lộ Trình" để mở modal cài đặt, sau đó nhấp "Tùy Chỉnh Định Tuyến" để mở tùy chọn định tuyến.
 
-Within the “Customize Routing” modal, there will be a new switch for toggling PancakeSwap X for trade routes. Simply click or tap to toggle it on.
+Trong modal "Tùy Chỉnh Định Tuyến", sẽ có một công tắc mới để bật/tắt PancakeSwap X cho các lộ trình giao dịch. Chỉ cần nhấp hoặc chạm để bật.
 
-<figure><img src="../../.gitbook/assets/image (471).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28471%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Once toggled, you may head back to the main Swap page. If the current Swap is available for PancakeSwap X, an indicator will show up in the “Route” section. With price impact and fees all being 0.
+Sau khi bật, bạn có thể quay lại trang Hoán Đổi chính. Nếu Hoán Đổi hiện tại có sẵn cho PancakeSwap X, một chỉ báo sẽ xuất hiện trong phần "Lộ Trình". Với tác động giá và phí đều bằng 0.
 
-Please note that PancakeSwap X is not available for all the swaps. Its availability is subject to input, and output tokens, as well as the trade size and the network. If the swap can not be processed by PancakeSwap X, it will be routed through the AMM liquidity pools.
+Lưu ý rằng PancakeSwap X không khả dụng cho tất cả các hoán đổi. Tính khả dụng của nó phụ thuộc vào token đầu vào, token đầu ra, cũng như quy mô giao dịch và mạng lưới. Nếu hoán đổi không thể được xử lý bởi PancakeSwap X, nó sẽ được định tuyến qua các pool thanh khoản AMM.
 
-When a trade is going through PancakeSwap X, it will be highlighted in the “Route” section.
+Khi giao dịch đang đi qua PancakeSwap X, nó sẽ được làm nổi bật trong phần "Lộ Trình".
 
-### Submit Order
+### Gửi Lệnh
 
-<figure><img src="../../.gitbook/assets/image (472).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28472%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-To submit the order, click “Swap”, then verify all the parameters in the “Confirm Swap” modal. If everything looks good, click “Confirm Swap” to continue.
+Để gửi lệnh, nhấp "Hoán Đổi", sau đó xác minh tất cả các tham số trong modal "Xác Nhận Hoán Đổi". Nếu mọi thứ đều ổn, nhấp "Xác Nhận Hoán Đổi" để tiếp tục.
 
-If you haven’t approved the input token, your wallet will prompt you to approve. Please note that although swapping through PancakeSwap X does not require any gas token, approving for token spending does require gas.
+Nếu bạn chưa phê duyệt token đầu vào, ví của bạn sẽ nhắc bạn phê duyệt. Lưu ý rằng mặc dù hoán đổi qua PancakeSwap X không yêu cầu gas token, việc phê duyệt chi tiêu token vẫn cần gas.
 
-After token approval, another wallet popup will appear to ask for signing on the order. Simple click “Confirm” to proceed. No gas cost or onchain transaction will be involved.
+Sau khi phê duyệt token, một popup ví khác sẽ xuất hiện để yêu cầu ký lệnh. Chỉ cần nhấp "Xác Nhận" để tiếp tục. Không có chi phí gas hay giao dịch trên chuỗi nào liên quan.
 
-Once the order is submitted, a modal with progress bar will appear. You may close the modal, while your order will continue to be filled in the background.
+Sau khi lệnh được gửi, một modal với thanh tiến trình sẽ xuất hiện. Bạn có thể đóng modal, trong khi lệnh của bạn sẽ tiếp tục được lấp đầy trong nền.
 
-<figure><img src="../../.gitbook/assets/image (473).png" alt="" width="367"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28473%29.png" alt="" width="367"><figcaption></figcaption></figure>
 
-Note that unlike regular AMM DEX liquidity pool swaps, once a PancakeSwap X order is submitted, it will take some time for the liquidity providers to respond and fill your order. It could take up to 2 minutes until the order is successfully filled.
+Lưu ý rằng không giống như hoán đổi pool thanh khoản AMM DEX thông thường, sau khi lệnh PancakeSwap X được gửi, sẽ mất một thời gian để các nhà cung cấp thanh khoản phản hồi và lấp đầy lệnh của bạn. Có thể mất đến 2 phút cho đến khi lệnh được lấp đầy thành công.
 
-### Track your order status
+### Theo Dõi Trạng Thái Lệnh
 
-To track your order status, open the wallet modal from wallet dropdown on top right. Click the “Transaction” button to bring up the list of orders. To see more detail of a specific order, simply click and open up the detail modal.
+Để theo dõi trạng thái lệnh, mở modal ví từ menu thả xuống ví ở trên cùng bên phải. Nhấp nút "Giao Dịch" để hiển thị danh sách lệnh. Để xem thêm chi tiết của một lệnh cụ thể, chỉ cần nhấp và mở modal chi tiết.
 
-<figure><img src="../../.gitbook/assets/image (474).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28474%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Once an order is successfully filled, you will see a green check mark on the order, while the purchased tokens being sent to your wallet automatically.
+Sau khi lệnh được lấp đầy thành công, bạn sẽ thấy dấu tích xanh trên lệnh, trong khi token đã mua được gửi tự động vào ví của bạn.

@@ -1,33 +1,33 @@
 # Hooks
 
 {% hint style="info" %}
-If you're a developer or looking for detailed technical documentation on developing a hook, please visit [here](https://developer.pancakeswap.finance/contracts/infinity/guides/develop-a-hook).
+Nếu bạn là nhà phát triển hoặc đang tìm kiếm tài liệu kỹ thuật chi tiết về phát triển hook, vui lòng truy cập [tại đây](https://developer.pancakeswap.finance/contracts/infinity/guides/develop-a-hook).
 {% endhint %}
 
-Hooks are powerful add-ons that let developers extend and customize the behavior of liquidity pools in PancakeSwap Infinity. Think of them as "plugins" or "widgets" that add new features to liquidity pools.
+Hooks là các tiện ích mở rộng mạnh mẽ cho phép nhà phát triển mở rộng và tùy chỉnh hành vi của các nhóm thanh khoản trong PancakeSwap Infinity. Hãy nghĩ chúng như "plugin" hoặc "widget" bổ sung tính năng mới cho nhóm thanh khoản.
 
-#### 🔍 What Are Hooks?
+#### 🔍 Hooks Là Gì?
 
-* Hooks are external smart contracts created by anyone — developers, protocols, or community members — and attached to liquidity pools to enhance or modify their behavior.
-* Each pool can have only one hook attached, but a single hook can serve many pools.
-* Hooks can run custom code before or after key actions like:
-  * Initializing a pool
-  * Swapping
-  * Adding/removing liquidity
-  * Donating<br>
+* Hooks là các hợp đồng thông minh bên ngoài được tạo bởi bất kỳ ai — nhà phát triển, giao thức hoặc thành viên cộng đồng — và được gắn vào nhóm thanh khoản để nâng cao hoặc sửa đổi hành vi của chúng.
+* Mỗi pool chỉ có thể có một hook được gắn vào, nhưng một hook duy nhất có thể phục vụ nhiều pool.
+* Hooks có thể chạy code tùy chỉnh trước hoặc sau các hành động quan trọng như:
+  * Khởi tạo pool
+  * Hoán đổi
+  * Thêm/xóa thanh khoản
+  * Đóng góp<br>
 
-**⛓️ How Hooks Work:**
+**⛓️ Cách Hooks Hoạt Động:**
 
-* A hook is selected during pool creation and can’t be changed later.
-* A hook contract triggers on specific actions (swap, add liquidity, etc) and executes logic before or after those actions as defined within the contract.
-* For example, a hook could:
-  * Offer swap fee discounts to CAKE holders
-  * Charge custom fees and distribute rewards
-  * Enable new swap logic like stableswaps or TWAMM-style orders<br>
+* Hook được chọn trong quá trình tạo pool và không thể thay đổi sau đó.
+* Một hợp đồng hook kích hoạt trên các hành động cụ thể (hoán đổi, thêm thanh khoản, v.v.) và thực thi logic trước hoặc sau các hành động đó như được định nghĩa trong hợp đồng.
+* Ví dụ, một hook có thể:
+  * Cung cấp chiết khấu phí hoán đổi cho người nắm giữ CAKE
+  * Tính phí tùy chỉnh và phân phối phần thưởng
+  * Cho phép logic hoán đổi mới như stableswaps hoặc lệnh kiểu TWAMM<br>
 
-#### ⚙️ Hook Callbacks
+#### ⚙️ Callback của Hook
 
-Hooks can be triggered during ten specific moments. Developers can choose which ones they want to implement:
+Hooks có thể được kích hoạt trong mười khoảnh khắc cụ thể. Nhà phát triển có thể chọn cái nào họ muốn triển khai:
 
 * beforeInitialize / afterInitialize
 * beforeAddLiquidity / afterAddLiquidity
@@ -35,69 +35,69 @@ Hooks can be triggered during ten specific moments. Developers can choose which 
 * beforeSwap / afterSwap
 * beforeDonate / afterDonate<br>
 
-These allow to implement highly customizable and modular behavior through hooks.
+Những điều này cho phép triển khai hành vi có thể tùy chỉnh và mô-đun cao thông qua hooks.
 
-#### 🔧 Two Types of Hooks
+#### 🔧 Hai Loại Hooks
 
-**Type 1: No Authorization Needed**
+**Loại 1: Không Cần Ủy Quyền**
 
-These hooks run automatically and do not require user permission. They are triggered by actions like swaps or liquidity changes.
-
-
-
-Examples:
-
-* Dynamic Fees: Adjust swap fees based on market volatility
-* Fee Rebates: Give discounts to users holding CAKE or trading high volumes
+Những hooks này chạy tự động và không yêu cầu quyền của người dùng. Chúng được kích hoạt bởi các hành động như hoán đổi hoặc thay đổi thanh khoản.
 
 
 
-Example Flow (CAKE Fee Discount):
+Ví dụ:
 
-1. A user initiates a swap.
-2. The hook checks their CAKE balance via `beforeSwap` hook callback.
-3. If the user holds enough CAKE as per defined thresholds, they get a 50% discount on pool fees.
-4. The rest of the transaction proceeds as usual.<br>
+* Phí Động: Điều chỉnh phí hoán đổi dựa trên biến động thị trường
+* Hoàn Phí: Giảm giá cho người dùng nắm giữ CAKE hoặc giao dịch khối lượng lớn
+
+
+
+Ví dụ Luồng (Giảm Phí CAKE):
+
+1. Người dùng khởi tạo hoán đổi.
+2. Hook kiểm tra số dư CAKE của họ qua callback hook `beforeSwap`.
+3. Nếu người dùng nắm giữ đủ CAKE theo ngưỡng đã định, họ nhận được giảm 50% phí pool.
+4. Phần còn lại của giao dịch tiến hành như thường lệ.<br>
 
 {% hint style="success" %}
-These hooks don’t need a special UI or additional interaction. The benefits are applied automatically.
+Những hooks này không cần giao diện người dùng đặc biệt hay tương tác bổ sung. Lợi ích được áp dụng tự động.
 {% endhint %}
 
-**Type 2: User Authorization Required**
+**Loại 2: Yêu Cầu Ủy Quyền Người Dùng**
 
-These hooks need users to interact directly with them, provide authorisation and may require to transfer funds, often to create or manage positions.
-
-
-
-Examples:
-
-* Limit Orders: Execute a swap only when target price is reached.
-* TWAMM: Break large orders into smaller pieces for better execution.
-* Active Liquidity Management: Automatically manage LP positions for optimal returns.
+Những hooks này yêu cầu người dùng tương tác trực tiếp với chúng, cung cấp ủy quyền và có thể yêu cầu chuyển tiền, thường để tạo hoặc quản lý vị thế.
 
 
 
-Example Flow (Limit Order Hook):
+Ví dụ:
 
-1. User interacts directly with the hook contract (not the usual swap UI).
-2. They enter details like limit price, token pair, amount.
-3. The hook issues a receipt token representing the order.
-4. Later, when pool price hits the target, the hook executes the order using afterSwap.
-5. The user can return the receipt token to claim the swapped assets.
+* Lệnh Giới Hạn: Thực hiện hoán đổi chỉ khi đạt mức giá mục tiêu.
+* TWAMM: Chia nhỏ các lệnh lớn thành các phần nhỏ hơn để thực hiện tốt hơn.
+* Quản Lý Thanh Khoản Chủ Động: Tự động quản lý các vị thế LP để có lợi nhuận tối ưu.
+
+
+
+Ví dụ Luồng (Lệnh Giới Hạn Hook):
+
+1. Người dùng tương tác trực tiếp với hợp đồng hook (không phải giao diện hoán đổi thông thường).
+2. Họ nhập chi tiết như giá giới hạn, cặp token, số lượng.
+3. Hook phát hành token biên nhận đại diện cho lệnh.
+4. Sau này, khi giá pool đạt mục tiêu, hook thực hiện lệnh bằng afterSwap.
+5. Người dùng có thể trả lại token biên nhận để nhận tài sản đã hoán đổi.
 
 {% hint style="info" %}
-These hooks often need a custom UI and users must trust and approve the hook contract to hold their funds.
+Những hooks này thường cần giao diện tùy chỉnh và người dùng phải tin tưởng và phê duyệt hợp đồng hook để giữ tiền của họ.
 {% endhint %}
 
-#### 🚀 Use Cases & Innovation
+#### 🚀 Trường Hợp Sử Dụng & Đổi Mới
 
-Hooks unlock limitless possibilities, including:
+Hooks mở ra vô số khả năng, bao gồm:
 
-* Custom AMMs (e.g., stablecoin curves)
-* Liquidity mining rewards
-* Automated trading strategies, liquidity management
-* On-chain limit orders, other order types
-* Dynamic pricing and fee adjustments
-* Yield-enhancing LP strategies<br>
+* AMM tùy chỉnh (ví dụ: đường cong stablecoin)
+* Phần thưởng khai thác thanh khoản
+* Chiến lược giao dịch tự động, quản lý thanh khoản
+* Lệnh giới hạn trên chuỗi, các loại lệnh khác
+* Điều chỉnh định giá và phí động
+* Chiến lược LP tăng cường lợi nhuận<br>
 
-With hooks, developers can build an entirely new DeFi experience using the existing infrastructure of PancakeSwap Infinity — speeding up development and lowering costs.
+Với hooks, nhà phát triển có thể xây dựng trải nghiệm DeFi hoàn toàn mới sử dụng cơ sở hạ tầng hiện có của PancakeSwap Infinity — tăng tốc phát triển và giảm chi phí.
