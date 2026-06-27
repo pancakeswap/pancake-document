@@ -1,37 +1,37 @@
-# What is an Approval Transaction?
+# Giao Dịch Phê Duyệt Là Gì?
 
-**The first time you swap or add liquidity, you have to approve the token you are swapping. This gives the PancakeSwap smart contract permission to swap that token from your wallet.**
-
-
-
-The approval transaction allows PancakeSwap permission to swap the token from your wallet. You have to complete an approval transaction for every token you want to swap using PancakeSwap.
+**Lần đầu tiên bạn hoán đổi hoặc thêm thanh khoản, bạn phải phê duyệt token bạn đang hoán đổi. Điều này cấp cho hợp đồng thông minh PancakeSwap quyền hoán đổi token đó từ ví của bạn.**
 
 
 
-Here is a guide on how to complete an approval transaction:
+Giao dịch phê duyệt cho phép PancakeSwap quyền hoán đổi token từ ví của bạn. Bạn phải hoàn thành giao dịch phê duyệt cho mỗi token bạn muốn hoán đổi bằng PancakeSwap.
 
-1.  Enter your swap details.&#x20;
 
-    <figure><img src="../../../.gitbook/assets/step1 (1) (1).png" alt=""><figcaption></figcaption></figure>
-2.  Select “Confirm swap” after reviewing swap details.&#x20;
 
-    <figure><img src="../../../.gitbook/assets/4536.png" alt=""><figcaption></figcaption></figure>
-3. In your wallet app or wallet extension, approve the spending for the token you are swapping.
+Đây là hướng dẫn cách hoàn thành giao dịch phê duyệt:
 
-Allow the token to be used for swapping in your wallet.
+1.  Nhập chi tiết hoán đổi của bạn.&#x20;
 
-_Your wallet may require you to enter the number of tokens you want to approve. Please enter a number that is greater than or equal to the number of tokens you are swapping._ &#x20;
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/step1%20%281%29%20%281%29.png" alt=""><figcaption></figcaption></figure>
+2.  Chọn "Confirm swap" sau khi xem lại chi tiết hoán đổi.&#x20;
 
-<figure><img src="../../../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/4536.png" alt=""><figcaption></figcaption></figure>
+3. Trong ứng dụng ví hoặc extension ví của bạn, phê duyệt chi tiêu cho token bạn đang hoán đổi.
 
-4.  After the approval, another transaction will appear which asks you to confirm the swap.&#x20;
+Cho phép token được sử dụng để hoán đổi trong ví của bạn.
 
-    <figure><img src="../../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
-5.  Once the swap is confirmed, the transaction is submitted to the blockchain (pending).&#x20;
+_Ví của bạn có thể yêu cầu bạn nhập số lượng token bạn muốn phê duyệt. Vui lòng nhập số lớn hơn hoặc bằng số lượng token bạn đang hoán đổi._&#x20;
 
-    <figure><img src="../../../.gitbook/assets/step 04.png" alt=""><figcaption></figcaption></figure>
-6. You will see “Success” and a green checkmark on the screen when the transaction is successfully completed.&#x20;
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
+4.  Sau khi phê duyệt, một giao dịch khác sẽ xuất hiện yêu cầu bạn xác nhận hoán đổi.&#x20;
 
-The token approval lasts for a certain period of time, the token will have to be approved again later with a signature request. An approval signature does not require a network fee.
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+5.  Khi hoán đổi được xác nhận, giao dịch được gửi lên blockchain (đang chờ xử lý).&#x20;
+
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/step%2004.png" alt=""><figcaption></figcaption></figure>
+6. Bạn sẽ thấy "Success" và dấu kiểm màu xanh lá trên màn hình khi giao dịch được hoàn thành thành công.&#x20;
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
+
+Phê duyệt token kéo dài trong một khoảng thời gian nhất định, token sẽ phải được phê duyệt lại sau đó với yêu cầu chữ ký. Chữ ký phê duyệt không yêu cầu phí mạng.

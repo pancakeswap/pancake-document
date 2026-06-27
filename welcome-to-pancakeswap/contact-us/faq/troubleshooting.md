@@ -1,14 +1,14 @@
 ---
-description: Common error messages. Use the sidebar ➡️to jump to the error you're seeing.
+description: Các thông báo lỗi phổ biến. Dùng thanh bên ➡️để nhảy đến lỗi bạn đang gặp.
 ---
 
-# Troubleshooting Errors
+# Khắc Phục Lỗi
 
-![](../../../.gitbook/assets/troubleshooting-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/troubleshooting-header.png)
 
-Sometimes you may find yourself facing a problem that doesn't have a clear solution. These troubleshooting tips may help you solve problems you run into.
+Đôi khi bạn có thể gặp phải vấn đề không có giải pháp rõ ràng. Các mẹo khắc phục sự cố này có thể giúp bạn giải quyết các vấn đề gặp phải.
 
-## **Issues on the Exchange**
+## **Sự Cố Trên Sàn Giao Dịch**
 
 ### **INSUFFICIENT\_OUTPUT\_AMOUNT**
 
@@ -16,24 +16,24 @@ Sometimes you may find yourself facing a problem that doesn't have a clear solut
 >
 > the transaction cannot succeed due to error: execution reverted: pancakerouter: insufficient\_output\_amount.
 
-You're trying to swap tokens, but your slippage tolerance is too low or liquidity is too low.
+Bạn đang cố gắng hoán đổi token, nhưng mức trượt giá của bạn quá thấp hoặc thanh khoản quá thấp.
 
 {% tabs %}
-{% tab title="Solution" %}
-1. Refresh your page and try again later.
-2. Try trading a smaller amount at one time.
-3. Increase your slippage tolerance:
-   1. Tap the settings icon on the liquidity page.
-   2. Increase your slippage tolerance a little and try again. ![](<../../../.gitbook/assets/image (9) (4).png>)
-4. Lastly, try inputting an amount with fewer decimal places.
+{% tab title="Giải pháp" %}
+1. Làm mới trang và thử lại sau.
+2. Thử giao dịch một lượng nhỏ hơn tại một thời điểm.
+3. Tăng mức độ chịu đựng trượt giá của bạn:
+   1. Nhấn vào biểu tượng cài đặt trên trang thanh khoản.
+   2. Tăng mức độ chịu đựng trượt giá một chút và thử lại. ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%289%29%20%284%29.png)
+4. Cuối cùng, thử nhập số lượng với ít chữ số thập phân hơn.
 {% endtab %}
 
-{% tab title="Reason" %}
-**This usually happens when trading tokens with low liquidity.**
+{% tab title="Lý do" %}
+**Điều này thường xảy ra khi giao dịch các token có thanh khoản thấp.**
 
-That means there isn't enough of one of the tokens you're trying to swap in the Liquidity Pool: it's probably a small-cap token that few people are trading.
+Điều đó có nghĩa là không có đủ một trong các token bạn đang cố gắng hoán đổi trong Nhóm Thanh Khoản: đó có thể là token vốn hóa nhỏ mà ít người giao dịch.
 
-However, there's also the chance that you're trying to trade a scam token which cannot be sold. In this case, PancakeSwap isn't able to block a token or return funds.
+Tuy nhiên, cũng có khả năng bạn đang cố gắng giao dịch token lừa đảo không thể bán được. Trong trường hợp này, PancakeSwap không thể chặn token hoặc hoàn lại tiền.
 {% endtab %}
 {% endtabs %}
 
@@ -43,69 +43,69 @@ However, there's also the chance that you're trying to trade a scam token which 
 > or\
 > Fail with error 'PancakeRouter: INSUFFICIENT\_B\_AMOUNT'
 
-You're trying to add/remove liquidity from a liquidity pool (LP), but there isn't enough of one of the two tokens in the pair.
+Bạn đang cố gắng thêm/xóa thanh khoản khỏi nhóm thanh khoản (LP), nhưng không có đủ một trong hai token trong cặp.
 
 {% tabs %}
-{% tab title="Solution" %}
-**Refresh your page and try again, or try again later.**
+{% tab title="Giải pháp" %}
+**Làm mới trang và thử lại, hoặc thử lại sau.**
 
-Still doesn't work?
+Vẫn không hoạt động?
 
-1. Tap the settings icon on the liquidity page.
-2. Increase your slippage tolerance a little and try again.
+1. Nhấn vào biểu tượng cài đặt trên trang thanh khoản.
+2. Tăng mức độ chịu đựng trượt giá một chút và thử lại.
 
-![](<../../../.gitbook/assets/image (9) (4).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%289%29%20%284%29.png)
 {% endtab %}
 
-{% tab title="Reason" %}
-The error is caused by trying to add or remove liquidity for a liquidity pool (LP) with an insufficient amount of token A or token B (one of the tokens in the pair).
+{% tab title="Lý do" %}
+Lỗi này xảy ra do cố gắng thêm hoặc xóa thanh khoản cho nhóm thanh khoản (LP) với số lượng không đủ của token A hoặc token B (một trong các token trong cặp).
 
-It might be the case that prices are updating too fast when and your slippage tolerance is too low.
+Có thể là giá đang cập nhật quá nhanh và mức độ chịu đựng trượt giá của bạn quá thấp.
 
 ![](https://lh5.googleusercontent.com/T1KMtz2ILDVHljGw1iLbIv0W1KVl7qXL8zU2nLFHkUvDb5oMw9mpUzzBwWmIBz15XDsxZ5w7wsaqAwCs_pxdobz_kY_7BhcZhYtpqWuQGFs23DZq98-SVInlfsS07WzxFPLIYXHt)
 
 ![](https://lh5.googleusercontent.com/7aspaCCvDjzxbJxngqwgeq737LB3OUNcAs592QqlEkyrAOTfKsrt_FAwpEylaIJhff5ZcYlzB_r0v1JZwfj3j8Ah6jlUbRoMrAqVfTb3cwDI7B1i5HJtZSQOsTPrv7l7SaclC3BV)
 {% endtab %}
 
-{% tab title="Solution for nerds" %}
-OK, so you're really determined to fix this. We really don't recommend doing this unless you know what you're doing.
+{% tab title="Giải pháp cho người dùng kỹ thuật" %}
+OK, bạn thực sự quyết tâm sửa điều này. Chúng tôi thực sự không khuyến nghị làm điều này trừ khi bạn biết mình đang làm gì.
 
-There currently isn't a simple way to solve this issue from the PancakeSwap website: you'll need to interact with the contract directly. You can add liquidity directly via the Router contract, while setting amountAMin to a small amount, then withdrawing all liquidity.
+Hiện tại không có cách đơn giản để giải quyết vấn đề này từ trang web PancakeSwap: bạn sẽ cần tương tác trực tiếp với hợp đồng. Bạn có thể thêm thanh khoản trực tiếp qua hợp đồng Router, trong khi đặt amountAMin thành một lượng nhỏ, sau đó rút tất cả thanh khoản.
 
-**Approve the LP contract**
+**Phê duyệt hợp đồng LP**
 
-Head to the contract of the LP token you're trying to approve.\
-For example, here's the ETH/WBNB pair: [https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422](https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422)
+Truy cập vào hợp đồng của token LP bạn đang cố gắng phê duyệt.\
+Ví dụ, đây là cặp ETH/WBNB: [https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422](https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422)
 
-1. Select **Write Contract**, then **Connect to Web3** and connect your wallet. ![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
-2. In **section "1. approve",** approve the LP token for the router by entering
-   1. spender (address): enter the contract address of the LP token you're trying to interact with
+1. Chọn **Write Contract**, sau đó **Connect to Web3** và kết nối ví của bạn. ![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
+2. Trong **mục "1. approve",** phê duyệt token LP cho router bằng cách nhập
+   1. spender (address): nhập địa chỉ hợp đồng của token LP bạn đang cố gắng tương tác
    2. value (uint256): -1
 
-**Query "balanceOf"**
+**Truy vấn "balanceOf"**
 
-1. Switch to **Read Contract.**
-2. In **5. balanceOf**, input your wallet address and hit **Query**.
-3. Keep track of the number that's exported. It shows your balance within the LP in the uint256 format, which you'll need in the next step.
+1. Chuyển sang **Read Contract.**
+2. Trong **5. balanceOf**, nhập địa chỉ ví của bạn và nhấn **Query**.
+3. Ghi chú con số được xuất ra. Nó hiển thị số dư của bạn trong LP theo định dạng uint256, mà bạn sẽ cần ở bước tiếp theo.
 
-![](<../../../.gitbook/assets/image (74).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2874%29.png)
 
-**Add or Remove Liquidity**
+**Thêm hoặc Xóa Thanh Khoản**
 
-Head to the router contract: [https://bscscan.com/address/0x05ff2b0db69458a0750badebc4f9e13add608c7f#writeContract](https://bscscan.com/address/0x05ff2b0db69458a0750badebc4f9e13add608c7f#writeContract)
+Truy cập hợp đồng router: [https://bscscan.com/address/0x05ff2b0db69458a0750badebc4f9e13add608c7f#writeContract](https://bscscan.com/address/0x05ff2b0db69458a0750badebc4f9e13add608c7f#writeContract)
 
-1. Select **Write Contract** and **Connect to Web3** as above.
-2. Find **addLiquidity** or **removeLiquidity** (whichever one you're trying to do)
-3. Enter the token addresses of both of the tokens in the LP.
-4. In **liquidity (uint256),** enter the uint256 number which you got from "balanceOf" above.
-5. Set a low **amountAMin** or **amountBMin**: try 1 for both.
-6. Add your wallet address in **to (address)**.
-7. Deadline must be an epoch time greater than the time the tx is executed.
+1. Chọn **Write Contract** và **Connect to Web3** như trên.
+2. Tìm **addLiquidity** hoặc **removeLiquidity** (tùy thuộc vào những gì bạn đang cố gắng làm)
+3. Nhập địa chỉ token của cả hai token trong LP.
+4. Trong **liquidity (uint256),** nhập số uint256 bạn có được từ "balanceOf" ở trên.
+5. Đặt **amountAMin** hoặc **amountBMin** thấp: thử 1 cho cả hai.
+6. Thêm địa chỉ ví của bạn vào **to (address)**.
+7. Deadline phải là thời gian epoch lớn hơn thời gian thực thi giao dịch.
 
-![](<../../../.gitbook/assets/image (136).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28136%29.png)
 
 {% hint style="warning" %}
-This can cause very high slippage, and can cause the user to lose some funds if frontrun
+Điều này có thể gây ra trượt giá rất cao và có thể khiến người dùng mất một số tiền nếu bị chạy trước giao dịch
 {% endhint %}
 {% endtab %}
 {% endtabs %}
@@ -114,63 +114,63 @@ This can cause very high slippage, and can cause the user to lose some funds if 
 
 > The transaction cannot succeed due to error: PancakeRouter: EXPIRED. This is probably an issue with one of the tokens you are swapping.
 
-Try again, but confirm (sign and broadcast) the transaction as soon as you generate it.
+Thử lại, nhưng xác nhận (ký và phát sóng) giao dịch ngay khi bạn tạo ra nó.
 
-This happened because you started making a transaction, but you didn't sign and broadcast it until it was past the deadline. That means you didn't hit "Confirm" quickly enough.
+Điều này xảy ra vì bạn bắt đầu thực hiện giao dịch, nhưng bạn không ký và phát sóng nó cho đến khi quá thời hạn. Điều đó có nghĩa là bạn không nhấn "Confirm" đủ nhanh.
 
 ### Pancake: K
 
 > The transaction cannot succeed due to error: Pancake: K. This is probably an issue with one of the tokens you are swapping.
 
-Try modifying the amount on “To” field. Therefore putting "(estimated)" symbol on “From”. Then initiate the swap immediately.
+Thử chỉnh sửa số lượng trên trường "To". Do đó đặt ký hiệu "(estimated)" vào "From". Sau đó bắt đầu hoán đổi ngay lập tức.
 
-![](<../../../.gitbook/assets/Pancake-K-Solution (2).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Pancake-K-Solution%20%282%29.png)
 
-This usually happen when you are trying to swap a token with its own fee.
+Điều này thường xảy ra khi bạn đang cố gắng hoán đổi token có phí riêng.
 
 ### Pancake: TRANSFER\_FAILED
 
 > The transaction cannot succeed due to error: execution reverted: Pancake: TRANSFER\_FAILED.
 
-Make sure you have 30% more tokens in your wallet than you intend to trade, or try to trade a lower amount. If you want to sell the maximum possible, try 70% or 69% instead of 100%.\
-Caused by the design of Restorative Rebase tokens like tDoge or tBTC.\
-[Understand how restorative rebase tokens work](https://btcst.medium.com/stp-8-restorative-rebase-b4fbbdfd96c).
+Đảm bảo bạn có nhiều hơn 30% token trong ví so với số lượng bạn dự định giao dịch, hoặc thử giao dịch số lượng thấp hơn. Nếu bạn muốn bán tối đa có thể, hãy thử 70% hoặc 69% thay vì 100%.\
+Được gây ra bởi thiết kế của các token Restorative Rebase như tDoge hoặc tBTC.\
+[Hiểu cách hoạt động của các token rebase phục hồi](https://btcst.medium.com/stp-8-restorative-rebase-b4fbbdfd96c).
 
-Another possible cause of this issue is the malicious token issuer just suspended the trading for their token. Or they made selling action only possible for selected wallet addresses. Please always do your own research to avoid any potential fraud. If the token you are trying to swap but failed with this error code is coming from an airdrop, that is most likely a scam. Please do not perform any token approval or follow any links, your fund may be at risk if you try to do so.
+Một nguyên nhân có thể khác của vấn đề này là nhà phát hành token độc hại vừa đình chỉ giao dịch cho token của họ. Hoặc họ đã làm cho hành động bán chỉ có thể thực hiện được cho các địa chỉ ví được chọn. Hãy luôn tự nghiên cứu để tránh bất kỳ gian lận tiềm năng nào. Nếu token bạn đang cố gắng hoán đổi nhưng thất bại với mã lỗi này đến từ airdrop, đó rất có thể là lừa đảo. Vui lòng không thực hiện bất kỳ phê duyệt token nào hoặc theo bất kỳ liên kết nào, tài sản của bạn có thể gặp rủi ro nếu bạn làm như vậy.
 
-### Transaction cannot succeed
+### Giao dịch không thể thành công
 
-Try trading a smaller amount, or increase slippage tolerance via the settings icon and try again. This is caused by low liquidity.
+Thử giao dịch số lượng nhỏ hơn, hoặc tăng mức độ chịu đựng trượt giá qua biểu tượng cài đặt và thử lại. Điều này được gây ra bởi thanh khoản thấp.
 
 ### **Price Impact too High**
 
-Try trading a smaller amount, or increase slippage tolerance via the settings icon and try again. This is caused by low liquidity.
+Thử giao dịch số lượng nhỏ hơn, hoặc tăng mức độ chịu đựng trượt giá qua biểu tượng cài đặt và thử lại. Điều này được gây ra bởi thanh khoản thấp.
 
 ### estimateGas failed
 
 > This transaction would fail. Please contact support
 
 {% tabs %}
-{% tab title="Solution" %}
-**If you got this error while removing liquidity from a BNB pair:**
+{% tab title="Giải pháp" %}
+**Nếu bạn gặp lỗi này khi xóa thanh khoản khỏi cặp BNB:**
 
-Please select "Receive WBNB" and retry.
+Vui lòng chọn "Receive WBNB" và thử lại.
 
-**If you got this error while trying to swap:**
+**Nếu bạn gặp lỗi này khi cố gắng hoán đổi:**
 
-Please contact the project team of the token you're trying to swap. \*\*\*\* This issue must be resolved by the project team.
+Vui lòng liên hệ với đội dự án của token bạn đang cố gắng hoán đổi. \*\*\*\* Vấn đề này phải được giải quyết bởi đội dự án.
 {% endtab %}
 
-{% tab title="Reason" %}
-**This issue (while swapping) is caused by tokens which have hard-coded the V1 PancakeSwap router into their contract.**
+{% tab title="Lý do" %}
+**Vấn đề này (khi hoán đổi) được gây ra bởi các token đã hardcode router PancakeSwap V1 vào hợp đồng của họ.**
 
-While this practice is ill-advised at best, the reason for these projects having done this appears to be due to their tokenomics, in which each purchase sends a % of the token to LPs.
+Mặc dù thực hành này không được khuyến nghị nhất, lý do các dự án này đã làm điều này có vẻ là do tokenomics của họ, trong đó mỗi lần mua gửi một % của token đến LP.
 
-The projects affected will likely not work with the V2 router: they will most likely need to create new versions of their tokens pointing to our new router address, and migrate any existing token holders to their new token.
+Các dự án bị ảnh hưởng có thể sẽ không hoạt động với router V2: họ rất có thể cần tạo phiên bản mới của token trỏ đến địa chỉ router mới của chúng tôi và di chuyển bất kỳ người giữ token hiện tại nào sang token mới của họ.
 
-We recommend that any projects which created such tokens should also make efforts to prevent their users from adding them to V2 LP.
+Chúng tôi khuyến nghị rằng bất kỳ dự án nào đã tạo các token như vậy cũng nên nỗ lực ngăn người dùng thêm chúng vào V2 LP.
 
-The up-to-date router address is [https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E)
+Địa chỉ router cập nhật là [https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E)
 {% endtab %}
 {% endtabs %}
 
@@ -178,18 +178,18 @@ The up-to-date router address is [https://bscscan.com/address/0x10ED43C718714eb6
 
 > "Unknown error: "Cannot read property 'toHexString' of undefined"
 
-When trying to swap tokens, the transaction fails and this error message is displayed. This error has been reported on mobile devices using Trust Wallet.
+Khi cố gắng hoán đổi token, giao dịch thất bại và thông báo lỗi này được hiển thị. Lỗi này đã được báo cáo trên các thiết bị di động sử dụng Trust Wallet.
 
 {% tabs %}
-{% tab title="Solution" %}
-1. Attempt the transaction again with increased slippage allowance.
-2. If 1. does not resolve your problem, consider using another wallet such as SafePal for your transaction.
+{% tab title="Giải pháp" %}
+1. Thử lại giao dịch với mức độ cho phép trượt giá tăng lên.
+2. Nếu 1. không giải quyết được vấn đề của bạn, hãy xem xét sử dụng ví khác như SafePal cho giao dịch của bạn.
 {% endtab %}
 
-{% tab title="Reason" %}
-**This usually happens when trading tokens with insufficient slippage allowance on Trust Wallet.**
+{% tab title="Lý do" %}
+**Điều này thường xảy ra khi giao dịch các token với mức độ cho phép trượt giá không đủ trên Trust Wallet.**
 
-The exact details of the problem are still being investigated.
+Chi tiết chính xác của vấn đề vẫn đang được điều tra.
 {% endtab %}
 {% endtabs %}
 
@@ -197,80 +197,80 @@ The exact details of the problem are still being investigated.
 
 > The transaction cannot succeed due to error: execution reverted: TransferHelper: TRANSFER\_FROM\_FAILED.
 
-When trying to swap tokens, the transaction fails and this error message is displayed. This error has been reported across platforms.
+Khi cố gắng hoán đổi token, giao dịch thất bại và thông báo lỗi này được hiển thị. Lỗi này đã được báo cáo trên các nền tảng.
 
 {% tabs %}
-{% tab title="Solution" %}
-1. Check to make sure you have sufficient funds available.
-2. Ensure you have given the contract allowance to spend the amount of funds you're attempting to trade with.
+{% tab title="Giải pháp" %}
+1. Kiểm tra để đảm bảo bạn có đủ tài sản.
+2. Đảm bảo bạn đã cấp cho hợp đồng quyền chi tiêu số lượng tài sản bạn đang cố gắng giao dịch.
 {% endtab %}
 
-{% tab title="Reason" %}
-This error happens when trading tokens with insufficient allowance, or when a wallet has insufficient funds.\
-If you're trading tokens with Restorative Rebase like tau assets tDoge or tBTC, make sure you understand how they work first with this [guide to Rebase tokens](https://btcst.medium.com/stp-8-restorative-rebase-b4fbbdfd96c).
+{% tab title="Lý do" %}
+Lỗi này xảy ra khi giao dịch token với mức độ cho phép không đủ, hoặc khi ví có số dư không đủ.\
+Nếu bạn đang giao dịch token với Restorative Rebase như tau assets tDoge hoặc tBTC, hãy đảm bảo bạn hiểu cách chúng hoạt động trước với [hướng dẫn về token Rebase](https://btcst.medium.com/stp-8-restorative-rebase-b4fbbdfd96c).
 {% endtab %}
 {% endtabs %}
 
-## **Issues with Farms**
+## **Sự Cố Với Farm**
 
 ### Fail with error 'ds-math-sub-underflow'
 
-You've run out of allowance of your LP token allowance to the MasterChef contract.
+Bạn đã hết mức độ cho phép của token LP cho hợp đồng MasterChef.
 
-**Use token approval manager like unrekt or BscScan to**
+**Sử dụng trình quản lý phê duyệt token như unrekt hoặc BscScan để**
 
-## **Issues with Syrup Pools**
+## **Sự Cố Với Syrup Pool**
 
 ### BEP20: burn amount exceeds balance
 
 > Fail with error 'BEP20: burn amount exceeds balance'
 
-You don't have enough SYRUP in your wallet to unstake from the CAKE-CAKE pool.
+Bạn không có đủ SYRUP trong ví để hủy staking từ nhóm CAKE-CAKE.
 
-**Get at least as much SYRUP as the amount of CAKE that you’re trying to unstake.**
+**Lấy ít nhất số lượng SYRUP bằng với số lượng CAKE bạn đang cố gắng hủy staking.**
 
-1. Buy SYRUP on the exchange. If you want to unstake 100 CAKE, you need at least 100 SYRUP.
-2. Try unstaking again.
+1. Mua SYRUP trên sàn giao dịch. Nếu bạn muốn hủy staking 100 CAKE, bạn cần ít nhất 100 SYRUP.
+2. Thử hủy staking lại.
 
-If that still fails, you can perform an “emergencyWithdraw” from the contract directly to unstake your staked tokens.
+Nếu điều đó vẫn thất bại, bạn có thể thực hiện "emergencyWithdraw" từ hợp đồng trực tiếp để hủy staking token của bạn.
 
-1. Go to: [https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract)
-2. Click **“Connect to Web3”** and connect your wallet. ![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
-3. In section **“4. emergencyWithdraw”**, enter "0" and click “Write”.
+1. Truy cập: [https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract)
+2. Nhấp vào **"Connect to Web3"** và kết nối ví của bạn. ![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
+3. Trong phần **"4. emergencyWithdraw"**, nhập "0" và nhấp vào "Write".
 
-This will unstake your staked tokens and lose any uncollected CAKE yield.
+Thao tác này sẽ hủy staking token của bạn và mất bất kỳ phần thưởng CAKE chưa thu hoạch nào.
 
 {% hint style="warning" %}
-**This will lose any yield that you haven’t harvested yet.**
+**Điều này sẽ mất bất kỳ phần thưởng nào bạn chưa thu hoạch.**
 {% endhint %}
 
-To stop this happening again, **don’t sell your SYRUP.** You still need it to unstake from the “Stake CAKE Earn CAKE” pool.
+Để ngăn điều này xảy ra lại, **đừng bán SYRUP của bạn.** Bạn vẫn cần nó để hủy staking từ nhóm "Stake CAKE Earn CAKE".
 
-This error has happened because you have sold or transferred SYRUP tokens. SYRUP is minted in a 1:1 ratio to CAKE when you stake in the CAKE-CAKE Syrup Pool. SYRUP must be burned at a 1:1 ratio to CAKE when calling leaveStaking (unstaking your CAKE from the pool), so if you don't have enough, you can't unstake from the pool.
+Lỗi này đã xảy ra vì bạn đã bán hoặc chuyển token SYRUP. SYRUP được đúc theo tỷ lệ 1:1 với CAKE khi bạn stake trong CAKE-CAKE Syrup Pool. SYRUP phải được đốt theo tỷ lệ 1:1 với CAKE khi gọi leaveStaking (hủy staking CAKE của bạn khỏi nhóm), vì vậy nếu bạn không có đủ, bạn không thể hủy staking khỏi nhóm.
 
 {% embed url="https://dashboard.tenderly.co/tx/binance/0x754e18ceea82acac256b49c2b7a81260f7f86dd5e56ee2e3cc1b6ac864c29a8e" %}
 
-### Out of Gas error
+### Lỗi Hết Gas
 
 > Warning! Error encountered during contract execution \[out of gas]
 
-You have set a low gas limit when trying to make a transaction.
+Bạn đã đặt giới hạn gas thấp khi cố gắng thực hiện giao dịch.
 
 {% tabs %}
-{% tab title="Solution" %}
-Try manually increasing the **gas limit** (not gas price!) in your wallet before signing the transaction.
+{% tab title="Giải pháp" %}
+Thử tăng **giới hạn gas** thủ công (không phải giá gas!) trong ví trước khi ký giao dịch.
 
-A limit of 200000 is usually enough.
+Giới hạn 200000 thường là đủ.
 
-![](<../../../.gitbook/assets/image (21).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2821%29.png)
 
-The above example is from Metamask; check your wallet's documentation if you aren't sure how to adjust the gas limit.
+Ví dụ trên là từ Metamask; kiểm tra tài liệu ví của bạn nếu bạn không chắc cách điều chỉnh giới hạn gas.
 {% endtab %}
 
-{% tab title="Reason" %}
-Basically, your wallet (Metamask, Trust Wallet, etc.) can't finish what it's trying to do.
+{% tab title="Lý do" %}
+Về cơ bản, ví của bạn (Metamask, Trust Wallet, v.v.) không thể hoàn thành những gì nó đang cố gắng làm.
 
-Your wallet estimates that the gas limit is too low, so the function call runs out of gas before the function call is finished.
+Ví của bạn ước tính rằng giới hạn gas quá thấp, vì vậy lời gọi hàm hết gas trước khi lời gọi hàm hoàn thành.
 {% endtab %}
 {% endtabs %}
 
@@ -279,14 +279,14 @@ Your wallet estimates that the gas limit is too low, so the function call runs o
 > Fail with error 'BEP20: transfer amount exceeds allowance'
 
 {% tabs %}
-{% tab title="Solution" %}
-1. Use Unrekt.net to revoke approval for the smart contract you're trying to interact with
-2. Approve the contract again, without setting a limit on spend allowance
-3. Try interacting with the contract again.
+{% tab title="Giải pháp" %}
+1. Sử dụng Unrekt.net để thu hồi quyền phê duyệt cho hợp đồng thông minh bạn đang cố gắng tương tác
+2. Phê duyệt lại hợp đồng, không đặt giới hạn cho mức độ chi tiêu được phép
+3. Thử tương tác với hợp đồng lại.
 {% endtab %}
 
-{% tab title="Reason" %}
-This happens when you set a limit on your spend allowance when you first approved the contract, then try to swap more than the limit.
+{% tab title="Lý do" %}
+Điều này xảy ra khi bạn đặt giới hạn cho mức độ chi tiêu được phép khi bạn lần đầu phê duyệt hợp đồng, sau đó cố gắng hoán đổi nhiều hơn giới hạn.
 {% endtab %}
 {% endtabs %}
 
@@ -294,143 +294,143 @@ This happens when you set a limit on your spend allowance when you first approve
 
 > Fail with error 'BEP20: transfer amount exceeds balance'
 
-You're probably trying to unstake from a Syrup Pool with low rewards in it. Solution below.
+Bạn có thể đang cố gắng hủy staking từ Syrup Pool với phần thưởng thấp. Giải pháp bên dưới.
 
-If not, you may be trying to send tokens that you don't have in your wallet (for example, trying to send a token that is already assigned to a pending transaction). In this case, just make sure you have the tokens you're trying to use.
+Nếu không, bạn có thể đang cố gắng gửi token mà bạn không có trong ví (ví dụ, cố gắng gửi token đã được gán cho giao dịch đang chờ xử lý). Trong trường hợp này, chỉ cần đảm bảo bạn có token bạn đang cố gắng sử dụng.
 
 {% tabs %}
-{% tab title="Solution" %}
-Firstly,[ let the team know](../social-accounts.md) which pool you're trying to unstake from, so they can top up the rewards. If you're in a hurry to unstake and you don't mind losing your pending yield, try an emergencyWithdraw:
+{% tab title="Giải pháp" %}
+Đầu tiên,[ thông báo cho đội ngũ](../social-accounts.md) nhóm nào bạn đang cố gắng hủy staking, để họ có thể bổ sung phần thưởng. Nếu bạn đang vội hủy staking và không muốn mất phần thưởng đang chờ, hãy thử emergencyWithdraw:
 
-You can perform an “emergencyWithdraw” from the contract directly to unstake your staked tokens.
+Bạn có thể thực hiện "emergencyWithdraw" từ hợp đồng trực tiếp để hủy staking token của bạn.
 
-1. Find the contract address of the Syrup Pool you're trying to unstake from. You can find it in your wallet's transaction log.
-2. Go to [https://bscscan.com/](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract) and in the search bar, enter the contract address.
-3. Select **Write Contract.**
-4. Click **“Connect to Web3”** and connect your wallet.![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
-5. In section **“3. emergencyWithdraw”,** and click “Write”.
+1. Tìm địa chỉ hợp đồng của Syrup Pool bạn đang cố gắng hủy staking. Bạn có thể tìm thấy nó trong nhật ký giao dịch của ví.
+2. Truy cập [https://bscscan.com/](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract) và trong thanh tìm kiếm, nhập địa chỉ hợp đồng.
+3. Chọn **Write Contract.**
+4. Nhấp vào **"Connect to Web3"** và kết nối ví của bạn.![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
+5. Trong phần **"3. emergencyWithdraw",** và nhấp vào "Write".
 
-This will unstake your staked tokens and lose any uncollected yield.
+Thao tác này sẽ hủy staking token của bạn và mất bất kỳ phần thưởng chưa thu hoạch nào.
 
 {% hint style="warning" %}
-**This will lose any yield that you haven’t harvested yet.**
+**Điều này sẽ mất bất kỳ phần thưởng nào bạn chưa thu hoạch.**
 {% endhint %}
 {% endtab %}
 
-{% tab title="Reason" %}
-This error tends to appear when you're trying to unstake from an old Syrup Pool, but there aren't enough rewards in the pool left for you to harvest when withdrawing. This causes the transaction to fail.
+{% tab title="Lý do" %}
+Lỗi này thường xuất hiện khi bạn đang cố gắng hủy staking từ Syrup Pool cũ, nhưng không còn đủ phần thưởng trong nhóm để bạn thu hoạch khi rút tiền. Điều này gây ra giao dịch thất bại.
 {% endtab %}
 {% endtabs %}
 
-## **Issues with Prediction**
+## **Sự Cố Với Dự Đoán**
 
-Check [Broken link](/broken/pages/8zN9xzaYD1DvxZvzLzug "mention")
+Kiểm tra [Broken link](/broken/pages/8zN9xzaYD1DvxZvzLzug "mention")
 
-## **Other issues**
+## **Các Sự Cố Khác**
 
-### Provider Error
+### Lỗi Provider
 
 > Provider Error\
 > No provider was found
 
-This happens when you try to connect via a browser extension like MetaMask or Binance Chain Wallet, but you haven’t installed the extension.
+Điều này xảy ra khi bạn cố gắng kết nối qua extension trình duyệt như MetaMask hoặc Binance Chain Wallet, nhưng bạn chưa cài đặt extension.
 
 {% tabs %}
-{% tab title="Solution" %}
-Install the official browser extension to connect, or read our guide on [how to connect a wallet to PancakeSwap](https://docs.pancakeswap.finance/get-started/connection-guide).
+{% tab title="Giải pháp" %}
+Cài đặt extension trình duyệt chính thức để kết nối, hoặc đọc hướng dẫn của chúng tôi về [cách kết nối ví với PancakeSwap](https://docs.pancakeswap.finance/get-started/connection-guide).
 {% endtab %}
 {% endtabs %}
 
 ### Unsupported Chain ID
 
-Switch your chain to BNB Smart Chain. Check your wallet's documentation for a guide if you need help.
+Chuyển chuỗi của bạn sang BNB Smart Chain. Kiểm tra tài liệu ví của bạn để có hướng dẫn nếu bạn cần trợ giúp.
 
 ### Already processing eth\_requestAccounts. Please wait.
 
-Make sure you are signed in to your wallet app and it's connected to BNB Smart Chain.
+Đảm bảo bạn đã đăng nhập vào ứng dụng ví và nó được kết nối với BNB Smart Chain.
 
-### Issues buying SAFEMOON and similar tokens
+### Sự cố khi mua SAFEMOON và các token tương tự
 
-To trade SAFEMOON, you must click on the settings icon and **set your slippage tolerance to 12% or more.**\
-This is because **SafeMoon taxes a 10% fee on each transaction**:
+Để giao dịch SAFEMOON, bạn phải nhấp vào biểu tượng cài đặt và **đặt mức độ chịu đựng trượt giá lên 12% hoặc hơn.**\
+Điều này là vì **SafeMoon tính phí 10% trên mỗi giao dịch**:
 
-* 5% fee = redistributed to all existing holders
-* 5% fee = used to add liquidity
+* Phí 5% = phân phối lại cho tất cả người nắm giữ hiện tại
+* Phí 5% = dùng để thêm thanh khoản
 
-This is also why you might not receive as much of the token as you expect when you purchase.\
-Read more on [How to Buy Safe Moon](https://community.trustwallet.com/t/how-to-buy-safemoon/155742).
+Đây cũng là lý do tại sao bạn có thể không nhận được nhiều token như bạn mong đợi khi mua.\
+Đọc thêm trên [Cách Mua Safe Moon](https://community.trustwallet.com/t/how-to-buy-safemoon/155742).
 
-### Internal JSON-RPC errors
+### Lỗi Internal JSON-RPC
 
 > "MetaMask - RPC Error: Internal JSON-RPC error. estimateGas failed removeLiquidityETHWithPermitSupportingFeeOnTransferTokens estimateGas failed removeLiquidityETHWithPermit "
 
-Happens when trying to remove liquidity on some tokens via Metamask. Root cause is still unknown. Try using an alternative wallet.
+Xảy ra khi cố gắng xóa thanh khoản trên một số token qua Metamask. Nguyên nhân gốc rễ vẫn chưa được biết. Thử sử dụng ví thay thế.
 
 > Internal JSON-RPC error. { "code": -32000, "message": "insufficient funds for transfer" } - Please try again.
 
-You don't have enough BNB to pay for the transaction fees. You need more BEP-20 network BNB in your wallet.
+Bạn không có đủ BNB để trả phí giao dịch. Bạn cần thêm BNB mạng BEP-20 trong ví.
 
-### Error: \[ethjs-query]
+### Lỗi: \[ethjs-query]
 
 > Error: \[ethjs-query] while formatting outputs from RPC '{"value":{"code":-32603,"data":{"code":-32000,"message":"transaction underpriced"\}}}"
 
-Increase the gas limit for the transaction in your wallet. Check your wallet's documentation to learn how to increase gas limit.
+Tăng giới hạn gas cho giao dịch trong ví của bạn. Kiểm tra tài liệu ví của bạn để tìm hiểu cách tăng giới hạn gas.
 
 > Swap failed: Error: \[ethjs-query] while formatting outputs from RPC '{"value":{"code":-32603,"data":{"code":-32603,"message":"handle request error"\}}}'
 
-Cause unclear. Try these steps before trying again:
+Nguyên nhân không rõ ràng. Thử các bước này trước khi thử lại:
 
-1. Increase gas limit
-2. Increase slippage
-3. Clear cache
+1. Tăng giới hạn gas
+2. Tăng trượt giá
+3. Xóa bộ nhớ đệm
 
-## **Issues with Profile**
+## **Sự Cố Với Hồ Sơ**
 
 ### Oops! We couldn't find any Pancake Collectibles in your wallet.
 
-We're investigating the logic behind this issue. Meanwhile please try the workaround.
+Chúng tôi đang điều tra logic đằng sau vấn đề này. Trong thời gian đó, vui lòng thử cách giải quyết tạm thời.
 
 {% tabs %}
-{% tab title="Workaround 1" %}
-1. Go to “Collectible” page, then come back to profile page.\
-   If you can’t find the link, go to [https://pancakeswap.finance/collectibles](https://pancakeswap.finance/collectibles) directly.
-2. Retry profile creation.
+{% tab title="Cách giải quyết 1" %}
+1. Truy cập trang "Collectible", sau đó quay lại trang hồ sơ.\
+   Nếu bạn không thể tìm thấy liên kết, hãy truy cập [https://pancakeswap.finance/collectibles](https://pancakeswap.finance/collectibles) trực tiếp.
+2. Thử tạo hồ sơ lại.
 {% endtab %}
 
-{% tab title="Workaround 2" %}
-Change the environment.
+{% tab title="Cách giải quyết 2" %}
+Thay đổi môi trường.
 
-* Clear the cache and retry.
-* Retry on different browser.
-* Retry on different wallet apps.
-* Retry on the different network (switch between Wi-Fi and cellular)
+* Xóa bộ nhớ đệm và thử lại.
+* Thử lại trên trình duyệt khác.
+* Thử lại trên ứng dụng ví khác.
+* Thử lại trên mạng khác (chuyển đổi giữa Wi-Fi và mạng di động)
 {% endtab %}
 {% endtabs %}
 
-### Checking username keeps spinning
+### Kiểm tra tên người dùng cứ quay vòng
 
-There are two possible causes.
+Có hai nguyên nhân có thể.
 
-1. You have multiple wallets installed on the browser.
-2. Network issue.
+1. Bạn có nhiều ví được cài đặt trên trình duyệt.
+2. Vấn đề mạng.
 
 {% tabs %}
-{% tab title="Solution 1" %}
-Root cause: You have multiple wallets installed on the browser.\
+{% tab title="Giải pháp 1" %}
+Nguyên nhân gốc rễ: Bạn có nhiều ví được cài đặt trên trình duyệt.\
 \
-It may make a conflict between wallets. This is out of PancakeSwap's control and we can do nothing.
+Nó có thể gây ra xung đột giữa các ví. Điều này nằm ngoài tầm kiểm soát của PancakeSwap và chúng tôi không thể làm gì.
 
-1. Have only single wallet installed on browser, remove the others.
-2. Reconnect the wallet and retry setting username again.
+1. Chỉ có một ví duy nhất được cài đặt trên trình duyệt, xóa những ví còn lại.
+2. Kết nối lại ví và thử cài đặt tên người dùng lại.
 {% endtab %}
 
-{% tab title="Solution 2" %}
-Root cause: Network is unstable.
+{% tab title="Giải pháp 2" %}
+Nguyên nhân gốc rễ: Mạng không ổn định.
 
-You have to retry.
+Bạn phải thử lại.
 
-1. Delete whatever has been entered in the text field completely.
-2. Re-type username, then please wait for seconds.
-3. If it doesn’t work, reload the page and retry again.
+1. Xóa hoàn toàn những gì đã được nhập trong trường văn bản.
+2. Nhập lại tên người dùng, sau đó đợi vài giây.
+3. Nếu không hoạt động, tải lại trang và thử lại.
 {% endtab %}
 {% endtabs %}

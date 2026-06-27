@@ -1,55 +1,55 @@
-# 💼 Business Partnerships
+# 💼 Quan Hệ Đối Tác Kinh Doanh
 
 <figure><img src="https://lh6.googleusercontent.com/MXvzRZ1v59ffdofwlNB25xQo5vvjIIGgj4RchQI8zO-ASdMDQAmiB0sRFzIZpWale_IFbf-u7deSAet6WItiv9hIIzaaM5JjAqcVpYyBFa6TJsEoPS0wnDH6Fb0F3FKsa715ANSegowVn5EbcRD_qhI" alt=""><figcaption></figcaption></figure>
 
-PancakeSwap (PCS) is the leading multi-chain decentralized exchange (DEX), currently live on:
+PancakeSwap (PCS) là sàn giao dịch phi tập trung (DEX) đa chuỗi hàng đầu, hiện đang hoạt động trên:
 
-> BNB Chain, Solana, Base, Arbitrum One, Ethereum, ZKsync Era, Linea, opBNB, and Aptos
+> BNB Chain, Solana, Base, Arbitrum One, Ethereum, ZKsync Era, Linea, opBNB và Aptos
 
-We would love to speak with project teams, potentially introducing you to one of crypto’s largest, most engaged, and active DApps (with over 400k Daily Active Users)!
+Chúng tôi rất muốn trò chuyện với các đội dự án, tiềm năng giới thiệu bạn đến một trong những DApp lớn nhất, tích cực và hoạt động nhất của crypto (với hơn 400 nghìn Người Dùng Hoạt Động Hàng Ngày)!
 
-Since our start, PancakeSwap has thrived in the Retail DeFi landscape, establishing ourselves as the leading DEX, with multiple industry-leading products – liquidity pools; launchpads; prediction and perpetual products;  – and, of course, the best community 😉.
+Kể từ khi bắt đầu, PancakeSwap đã phát triển mạnh mẽ trong bối cảnh DeFi Bán Lẻ, khẳng định vị thế là DEX hàng đầu, với nhiều sản phẩm dẫn đầu ngành – nhóm thanh khoản; launchpad; sản phẩm dự đoán và hợp đồng vĩnh viễn; – và tất nhiên, cộng đồng tốt nhất 😉.
 
-While this page serves as a quick FAQ for Project Teams to find out a bit more about us – please do reach out if you have more queries:
+Mặc dù trang này đóng vai trò như FAQ nhanh cho các Đội Dự Án để tìm hiểu thêm về chúng tôi – vui lòng liên hệ nếu bạn có thêm câu hỏi:
 
-* BD Team on Telegram (https://t.me/PancakeSwapBD)
+* Đội BD trên Telegram (https://t.me/PancakeSwapBD)
 
-### Interested in a partnership? Let’s build together
+### Quan tâm đến quan hệ đối tác? Hãy cùng xây dựng
 
-Please navigate to the relevant section for you and follow the process
+Vui lòng điều hướng đến phần liên quan cho bạn và làm theo quy trình
 
-1\. We’re hosting token launchpad offerings (“Initial Farm Offerings, or IFOs”) across all chains we’re deployed on except Solana
+1\. Chúng tôi đang tổ chức các đợt phát hành token launchpad ("Initial Farm Offerings, hay IFO") trên tất cả các chuỗi chúng tôi triển khai ngoại trừ Solana
 
 {% content-ref url="initial-farm-offerings-ifos.md" %}
 [initial-farm-offerings-ifos.md](initial-farm-offerings-ifos.md)
 {% endcontent-ref %}
 
-2\. We’re hosting token distribution programs (“Syrup Pools”) across all chains we’re deployed on except Solana
+2\. Chúng tôi đang tổ chức các chương trình phân phối token ("Syrup Pool") trên tất cả các chuỗi chúng tôi triển khai ngoại trừ Solana
 
 {% content-ref url="syrup-pools.md" %}
 [syrup-pools.md](syrup-pools.md)
 {% endcontent-ref %}
 
-3. We can also host a trading contest to further boost on-chain trading volume and strengthen token visibility
+3. Chúng tôi cũng có thể tổ chức cuộc thi giao dịch để tăng thêm khối lượng giao dịch on-chain và củng cố tầm nhìn token
 
 {% content-ref url="trading-competitions.md" %}
 [trading-competitions.md](trading-competitions.md)
 {% endcontent-ref %}
 
-For commonly asked business partnerships questions
+Các câu hỏi thường gặp về quan hệ đối tác kinh doanh
 
 {% content-ref url="commonly-asked-business-partnerships-questions.md" %}
 [commonly-asked-business-partnerships-questions.md](commonly-asked-business-partnerships-questions.md)
 {% endcontent-ref %}
 
-### The people's choice for all things DeFi
+### Lựa chọn hàng đầu của mọi người cho tất cả mọi thứ DeFi
 
-Simple is sexy, and so is safety!&#x20;
+Đơn giản là hấp dẫn, và an toàn cũng vậy!&#x20;
 
-With more than $1.5B in TVL, we like to move quickly and do so responsibly. Having more than four years of experience in the crypto markets, from bull to bear, we have been effectively delivering DeFi to our community. Don’t just trust us, [verify](https://docs.pancakeswap.finance/audits).&#x20;
+Với hơn 1,5 tỷ USD TVL, chúng tôi thích di chuyển nhanh chóng và làm điều đó có trách nhiệm. Với hơn bốn năm kinh nghiệm trong thị trường crypto, từ tăng trưởng đến suy giảm, chúng tôi đã cung cấp DeFi hiệu quả cho cộng đồng của mình. Đừng chỉ tin tưởng chúng tôi, hãy [xác minh](https://docs.pancakeswap.finance/audits).&#x20;
 
-Our partnerships with projects go beyond just token distribution programs (“Syrup Pools”) and token launch opportunities (“Initial Farm Offerings”). We genuinely recognize the impact of community in crypto – our dedicated team of Ambassadors help us keep a pulse on the diverse communities we serve, and we regularly host events with high engagement with partners: podcasts, AMAs, meme contests, and many more!
+Các quan hệ đối tác của chúng tôi với các dự án vượt ra ngoài chỉ các chương trình phân phối token ("Syrup Pool") và cơ hội phát hành token ("Initial Farm Offerings"). Chúng tôi thực sự nhận ra tác động của cộng đồng trong crypto – đội Đại Sứ tận tâm của chúng tôi giúp chúng tôi giữ liên lạc với các cộng đồng đa dạng mà chúng tôi phục vụ, và chúng tôi thường xuyên tổ chức các sự kiện với sự tham gia cao cùng các đối tác: podcast, AMA, cuộc thi meme và nhiều hơn nữa!
 
-We’re keen to work with you. Let’s make DeFi great again.
+Chúng tôi mong muốn được làm việc với bạn. Hãy cùng làm cho DeFi vĩ đại trở lại.
 
 <br>

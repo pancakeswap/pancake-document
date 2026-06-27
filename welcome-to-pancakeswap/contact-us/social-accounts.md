@@ -1,4 +1,4 @@
-# Social Accounts
+# Tài Khoản Mạng Xã Hội
 
 ## 🐦 X (Twitter)
 
@@ -19,9 +19,9 @@
 {% hint style="danger" %}
 
 
-Nobody from PancakeSwap will NEVER send you a direct message. If anybody approaches you directly on e.g. Telegram pretending to represent customer support, please block them and report spam.
+Không ai từ PancakeSwap sẽ KHÔNG BAO GIỜ gửi tin nhắn trực tiếp cho bạn. Nếu bất kỳ ai tiếp cận bạn trực tiếp trên ví dụ như Telegram giả vờ đại diện hỗ trợ khách hàng, vui lòng chặn và báo cáo spam.
 {% endhint %}
 
 {% hint style="danger" %}
-**NEVER, under any situation, should you ever give someone your private key or recovery phrases. Immediately block and report anyone that asks for them.**
+**KHÔNG BAO GIỜ, trong bất kỳ tình huống nào, bạn nên đưa cho ai đó khóa riêng tư hoặc cụm từ khôi phục của bạn. Ngay lập tức chặn và báo cáo bất kỳ ai yêu cầu chúng.**
 {% endhint %}

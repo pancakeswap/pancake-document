@@ -1,57 +1,57 @@
 ---
-description: Welcome to the PancakeSwap Community!
+description: Chào mừng đến với Cộng Đồng PancakeSwap!
 ---
 
-# Telegram & Discord Communities
+# Cộng Đồng Telegram & Discord
 
-Join our official Telegram and Discord communities to connect with other users, get support and stay updated on the latest news.
+Tham gia các cộng đồng Telegram và Discord chính thức của chúng tôi để kết nối với những người dùng khác, nhận hỗ trợ và cập nhật tin tức mới nhất.
 
-💡 **IMPORTANT**: Always verify that you're in the official channels to avoid scams. PancakeSwap will NEVER ask for your private keys or funds.
+💡 **QUAN TRỌNG**: Luôn xác minh rằng bạn đang ở trong các kênh chính thức để tránh lừa đảo. PancakeSwap sẽ KHÔNG BAO GIỜ yêu cầu khóa riêng tư hoặc tài sản của bạn.
 
-### 🔗 **Official Links**
+### 🔗 **Liên Kết Chính Thức**
 
-#### 🌐 **Global Channels**
+#### 🌐 **Kênh Toàn Cầu**
 
-🔹 **Telegram (English)**: [https://t.me/PancakeSwap](https://t.me/PancakeSwap)
+🔹 **Telegram (Tiếng Anh)**: [https://t.me/PancakeSwap](https://t.me/PancakeSwap)
 
-🔹 **Telegram Announcements (English)**: [https://t.me/PancakeSwapAnn](https://t.me/PancakeSwapAnn)
+🔹 **Telegram Thông Báo (Tiếng Anh)**: [https://t.me/PancakeSwapAnn](https://t.me/PancakeSwapAnn)
 
 🔹 **Discord**: [https://discord.gg/pancakeswap](https://t.me/PancakeSwap)
 
-#### 🌍 **Local Communities**
+#### 🌍 **Cộng Đồng Địa Phương**
 
-* Japanese ([https://t.me/PancakeSwapJP](https://t.me/PancakeSwapJP))
-* Chinese ([http://t.me/PancakeSwap\_CN](http://t.me/PancakeSwap_CN))
-* Indonesian ([http://t.me/PancakeSwapIndonesia](http://t.me/PancakeSwapIndonesia))
-* Vietnamese ([https://t.me/PancakeSwapVN](https://t.me/PancakeSwapVN))
-* Spanish ([https://t.me/PancakeSwapES](https://t.me/PancakeSwapES))
-* Nigerian ([https://t.me/pancakeswap\_ng](https://t.me/pancakeswap_ng))
-* Russian ([http://t.me/pancakeswap\_ru](http://t.me/pancakeswap_ru))
-* Portuguese/Brazilian ([https://t.me/PancakeSwapPortuguese](https://t.me/PancakeSwapPortuguese))
-* Filipino ([https://t.me/Pancakeswap\_Ph](https://t.me/Pancakeswap_Ph))
-* Indian ([https://t.me/PancakeSwap\_India](https://t.me/PancakeSwap_India))
-* Korean ([https://t.me/PancakeSwapSouthKorea](https://t.me/PancakeSwapSouthKorea))
-* 😤 Ban Appeal ([https://t.me/pancakebanappeal](https://t.me/pancakebanappeal))
+* Nhật Bản ([https://t.me/PancakeSwapJP](https://t.me/PancakeSwapJP))
+* Trung Quốc ([http://t.me/PancakeSwap\_CN](http://t.me/PancakeSwap_CN))
+* Indonesia ([http://t.me/PancakeSwapIndonesia](http://t.me/PancakeSwapIndonesia))
+* Việt Nam ([https://t.me/PancakeSwapVN](https://t.me/PancakeSwapVN))
+* Tây Ban Nha ([https://t.me/PancakeSwapES](https://t.me/PancakeSwapES))
+* Nigeria ([https://t.me/pancakeswap\_ng](https://t.me/pancakeswap_ng))
+* Nga ([http://t.me/pancakeswap\_ru](http://t.me/pancakeswap_ru))
+* Bồ Đào Nha/Brazil ([https://t.me/PancakeSwapPortuguese](https://t.me/PancakeSwapPortuguese))
+* Philippines ([https://t.me/Pancakeswap\_Ph](https://t.me/Pancakeswap_Ph))
+* Ấn Độ ([https://t.me/PancakeSwap\_India](https://t.me/PancakeSwap_India))
+* Hàn Quốc ([https://t.me/PancakeSwapSouthKorea](https://t.me/PancakeSwapSouthKorea))
+* 😤 Kháng Cáo Lệnh Cấm ([https://t.me/pancakebanappeal](https://t.me/pancakebanappeal))
 
-### ⚠️ **Security & Warnings**
+### ⚠️ **Bảo Mật & Cảnh Báo**
 
-🔴 **Beware of scams!**
+🔴 **Cẩn thận với lừa đảo!**
 
-* PancakeSwap **DOES NOT provide support via direct messages (DMs).**
-* **Never share your private keys** or recovery phrases.
-* Always verify you're in the official channels (listed in this document).
+* PancakeSwap **KHÔNG cung cấp hỗ trợ qua tin nhắn trực tiếp (DM).**
+* **Không bao giờ chia sẻ khóa riêng tư** hoặc cụm từ khôi phục của bạn.
+* Luôn xác minh bạn đang ở trong các kênh chính thức (được liệt kê trong tài liệu này).
 
 ***
 
-### 🤝 **How to Participate in the Community**
+### 🤝 **Cách Tham Gia Cộng Đồng**
 
-✅ **How do I join Telegram or Discord?**
+✅ **Làm thế nào để tôi tham gia Telegram hoặc Discord?**
 
-1. Click the link for the community you want to join.
-2. Accept the rules and verify your account if required.
-3. Start engaging with the community!
+1. Nhấp vào liên kết cho cộng đồng bạn muốn tham gia.
+2. Chấp nhận quy tắc và xác minh tài khoản nếu được yêu cầu.
+3. Bắt đầu tương tác với cộng đồng!
 
-💬 **How do I ask questions or get support?**
+💬 **Làm thế nào để tôi đặt câu hỏi hoặc nhận hỗ trợ?**
 
-* On Telegram, use the chat directly in the correct topic (Support in case of help).
-* On Discord, use our [amazing ticket system](https://discord.com/channels/897834609272840232/1135600553943109793) or write in our [#General channel](https://discord.com/channels/897834609272840232/897834609272840236).
+* Trên Telegram, sử dụng chat trực tiếp trong đúng chủ đề (Hỗ Trợ trong trường hợp cần trợ giúp).
+* Trên Discord, sử dụng [hệ thống ticket tuyệt vời của chúng tôi](https://discord.com/channels/897834609272840232/1135600553943109793) hoặc viết trong [kênh #General](https://discord.com/channels/897834609272840232/897834609272840236).

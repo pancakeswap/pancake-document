@@ -1,32 +1,32 @@
-# ❓ FAQs Page
+# ❓ Trang FAQ
 
-### **Who can apply to be a PancakeSwap Ambassador?**
+### **Ai có thể đăng ký làm Đại Sứ PancakeSwap?**
 
-Anyone who meets the requirements outlined in the document, including native in both English and the local language of the region they’re applying to, has business-level fluency in written and spoken communication, a strong understanding of PancakeSwap, and a genuine enthusiasm for community building.
+Bất kỳ ai đáp ứng các yêu cầu được nêu trong tài liệu, bao gồm thông thạo cả tiếng Anh và ngôn ngữ bản địa của khu vực họ đang đăng ký, có trình độ giao tiếp viết và nói ở cấp độ kinh doanh, hiểu biết vững chắc về PancakeSwap và nhiệt tình thực sự trong việc xây dựng cộng đồng.
 
-### **Do I need prior experience in event planning or community management?**
+### **Tôi có cần kinh nghiệm trước về tổ chức sự kiện hoặc quản lý cộng đồng không?**
 
-While prior experience is a plus, it’s not required. We’ll provide all the guidance and support you need to succeed.
+Mặc dù kinh nghiệm trước là điểm cộng, nhưng không bắt buộc. Chúng tôi sẽ cung cấp tất cả hướng dẫn và hỗ trợ bạn cần để thành công.
 
-### **What is the time commitment for an Ambassador?**
+### **Cam kết thời gian cho một Đại Sứ là bao nhiêu?**
 
-Time commitment will vary depending on your activities, but hosting events and engaging with your community will require an ongoing effort.
+Cam kết thời gian sẽ thay đổi tùy thuộc vào các hoạt động của bạn, nhưng tổ chức sự kiện và tương tác với cộng đồng sẽ đòi hỏi nỗ lực liên tục.
 
-### **Will I receive resources to support my events?**
+### **Tôi có nhận được tài nguyên để hỗ trợ các sự kiện của mình không?**
 
-Absolutely! Our community team will provide you with onboarding materials, event planning support, and ongoing guidance.
+Chắc chắn rồi! Đội ngũ cộng đồng của chúng tôi sẽ cung cấp cho bạn tài liệu giới thiệu, hỗ trợ lập kế hoạch sự kiện và hướng dẫn liên tục.
 
-### **What rewards can I expect?**
+### **Tôi có thể nhận được phần thưởng gì?**
 
-Rewards include financial compensation for completed tasks, exclusive PancakeSwap merchandise, and global recognition within the DeFi community.
+Phần thưởng bao gồm thù lao tài chính cho các nhiệm vụ hoàn thành, hàng lưu niệm PancakeSwap độc quyền và được công nhận toàn cầu trong cộng đồng DeFi.
 
-### **How will interviews be conducted?**
+### **Các buổi phỏng vấn sẽ được thực hiện như thế nào?**
 
-Interviews will be held online via video call, so make sure you’re ready to communicate effectively with an open camera.
+Các buổi phỏng vấn sẽ được tổ chức trực tuyến qua cuộc gọi video, vì vậy hãy đảm bảo bạn sẵn sàng giao tiếp hiệu quả với camera mở.
 
-### **What happens if I’m selected?**
+### **Điều gì xảy ra nếu tôi được chọn?**
 
-You’ll be onboarded into the PancakeSwap Ambassador Program, where you’ll get the support you need to host your first event and represent PancakeSwap in your community.
+Bạn sẽ được giới thiệu vào Chương Trình Đại Sứ PancakeSwap, nơi bạn sẽ nhận được sự hỗ trợ cần thiết để tổ chức sự kiện đầu tiên và đại diện cho PancakeSwap trong cộng đồng của bạn.
 
 ###
 

@@ -1,27 +1,27 @@
-# 🏎️ Trading Competitions
+# 🏎️ Cuộc Thi Giao Dịch
 
-Interested in boosting volumes and gaining mindshare for your project? Consider running a trading competition with PancakeSwap to reward users that trade your token.
+Bạn có muốn tăng khối lượng giao dịch và nâng cao nhận thức về dự án của mình không? Hãy xem xét việc tổ chức cuộc thi giao dịch cùng PancakeSwap để khen thưởng người dùng giao dịch token của bạn.
 
-We'll handle the set-up, tracking, and announcement - you provide the rewards, we run the show.
+Chúng tôi sẽ xử lý việc cài đặt, theo dõi và thông báo - bạn cung cấp phần thưởng, chúng tôi điều hành chương trình.
 
-This is available across BNB Chain, Solana, Base, Arbitrum, Ethereum, ZKsync, Linea, opBNB, and Polygon zkEVM.
+Điều này có sẵn trên BNB Chain, Solana, Base, Arbitrum, Ethereum, ZKsync, Linea, opBNB và Polygon zkEVM.
 
-_Some projects who took part previously saw a 3-7x increase in trading volume and actively traded addresses_
+_Một số dự án đã tham gia trước đây ghi nhận sự tăng khối lượng giao dịch từ 3-7 lần và số địa chỉ giao dịch tích cực_
 
-**Example of a Trading Competition process**
+**Ví Dụ Về Quy Trình Cuộc Thi Giao Dịch**
 
-1. Initial Outreach
-   * The PancakeSwap BD team will reach out to prospective partners who might be a good fit
-   * Projects interested in running one can also contact us directly via [Telegram](https://t.me/pancakeswapbd)
-2. Terms Finalization
-   * We’ll go through a few key points to finalize the details - covering timeline, rewards, rules, etc.
-3. Marketing Preparation
-   * We’ll request design assets and some project information to create a clean, professional banner (see example below)
-4. Launch
-   * We’ll kick off the trading competition to drive onchain trading volume and increase mindshare for your token
-   * Promotional posts will also go live on [Twitter](https://x.com/PancakeSwap/status/1937095943268237433), [Telegram](https://t.me/PancakeSwapAnn/6339), and on our [blog site](https://blog.pancakeswap.finance/articles/binance-alpha-trading-competition)
-   * If you're keen, you could also join us on an AMA and/or a podcast to share more about your project with our community
-5. Post-Launch
-   * We’ll stay connected and explore future opportunities to collaborate
+1. Liên Hệ Ban Đầu
+   * Đội BD PancakeSwap sẽ liên hệ với các đối tác tiềm năng có thể phù hợp
+   * Các dự án quan tâm đến việc tổ chức có thể liên hệ trực tiếp với chúng tôi qua [Telegram](https://t.me/pancakeswapbd)
+2. Hoàn Thiện Điều Khoản
+   * Chúng tôi sẽ xem xét một số điểm chính để hoàn thiện các chi tiết - bao gồm thời gian, phần thưởng, quy tắc, v.v.
+3. Chuẩn Bị Marketing
+   * Chúng tôi sẽ yêu cầu tài sản thiết kế và một số thông tin dự án để tạo banner chuyên nghiệp, gọn gàng (xem ví dụ bên dưới)
+4. Ra Mắt
+   * Chúng tôi sẽ khởi động cuộc thi giao dịch để thúc đẩy khối lượng giao dịch onchain và tăng nhận thức về token của bạn
+   * Các bài đăng quảng cáo cũng sẽ được đưa lên [Twitter](https://x.com/PancakeSwap/status/1937095943268237433), [Telegram](https://t.me/PancakeSwapAnn/6339) và [trang blog](https://blog.pancakeswap.finance/articles/binance-alpha-trading-competition)
+   * Nếu bạn muốn, bạn cũng có thể tham gia cùng chúng tôi trong một AMA và/hoặc podcast để chia sẻ thêm về dự án của bạn với cộng đồng
+5. Sau Ra Mắt
+   * Chúng tôi sẽ tiếp tục kết nối và khám phá các cơ hội hợp tác trong tương lai
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (438).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28438%29.png" alt=""><figcaption></figcaption></figure></div>

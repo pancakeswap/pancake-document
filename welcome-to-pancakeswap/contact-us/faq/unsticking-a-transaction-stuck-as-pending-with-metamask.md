@@ -1,73 +1,73 @@
 ---
-description: How to "unstick" any pending transactions that are stuck in your MetaMask
+description: Cách "gỡ kẹt" bất kỳ giao dịch đang chờ xử lý nào bị kẹt trong MetaMask của bạn
 ---
 
-# Fixing Stuck Pending Transactions on MetaMask
+# Sửa Giao Dịch Đang Chờ Xử Lý Bị Kẹt Trên MetaMask
 
-![](../../../.gitbook/assets/how-to-fix-a-stuck-transaction-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-fix-a-stuck-transaction-header.png)
 
-If your transaction is stuck on pending in Metamask, and the “Cancel” button isn’t helping, you might need to use this method to clear your backlog.
+Nếu giao dịch của bạn bị kẹt ở trạng thái chờ xử lý trong Metamask và nút "Cancel" không giúp ích được, bạn có thể cần sử dụng phương pháp này để xóa hàng đợi.
 
-This method works by essentially overwriting the stuck transaction with another, higher-priority transaction.
+Phương pháp này về cơ bản hoạt động bằng cách ghi đè giao dịch bị kẹt bằng một giao dịch khác có mức độ ưu tiên cao hơn.
 
-### **1. Enable Customized Transaction Nonce**
+### **1. Bật Tùy Chỉnh Nonce Giao Dịch**
 
-1\. Open your MetaMask plugin.
+1\. Mở plugin MetaMask của bạn.
 
-![](../../../.gitbook/assets/1-1-MetaMask_plugin.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-1-MetaMask_plugin.png)
 
-2\. Click on the colorful circle icon on the top-right and click **Settings** from the dropdown menu.
+2\. Nhấp vào biểu tượng vòng tròn màu sắc ở góc trên bên phải và nhấp vào **Settings** từ menu thả xuống.
 
-![](<../../../.gitbook/assets/1-2-MetaMask_settings (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-2-MetaMask_settings%20%281%29.png)
 
-3\. In the Settings menu, select **Advanced**.
+3\. Trong menu Settings, chọn **Advanced**.
 
-![](../../../.gitbook/assets/1-3-MetaMask_advanced.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-3-MetaMask_advanced.png)
 
-4\. Scroll down until you see **Advanced gas controls**. Toggle this to ON.
+4\. Cuộn xuống cho đến khi bạn thấy **Advanced gas controls**. Bật nó lên ON.
 
-![](../../../.gitbook/assets/1-4-MetaMask_gas_control_on.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-4-MetaMask_gas_control_on.png)
 
-5\. Still in Advanced settings, keep scrolling until you see **Customize transaction nonce**. Toggle this to ON.
+5\. Vẫn trong cài đặt Advanced, tiếp tục cuộn cho đến khi bạn thấy **Customize transaction nonce**. Bật nó lên ON.
 
-![](../../../.gitbook/assets/1-4-MetaMask_gas_control_on.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-4-MetaMask_gas_control_on.png)
 
-### **2. Find Your Stuck Transaction**
+### **2. Tìm Giao Dịch Bị Kẹt Của Bạn**
 
-We’re now going to find the transaction that’s stuck, and make a note of the “nonce”. That’s a kind of identifier, which we’ll re-use later.
+Bây giờ chúng ta sẽ tìm giao dịch bị kẹt và ghi chú "nonce". Đó là một loại định danh, mà chúng ta sẽ sử dụng lại sau.
 
 ![](https://lh4.googleusercontent.com/xKBEnt5a62c5Wzg_MCLIbVUWuL4fws1ohBAX9LAkGS71vslHk7QuMF24jAfkAdmsLunPVfT9c3FxCmGar5z7jNZnd4WMgzQsoxxbYw1Lp59Az5kG72COn0JblFXktHbmgMnF1LeY)
 
-6\. Go back to the top page of MetaMask. In the “Assets” tab, find the token type of your stuck transaction (in this case, CAKE).
+6\. Trở lại trang đầu của MetaMask. Trong tab "Assets", tìm loại token của giao dịch bị kẹt (trong trường hợp này là CAKE).
 
 ![](https://lh5.googleusercontent.com/9qVjhK1kEKDL8l4TTdOFo4o547PDIIeQpCCY18gPyaUFJrpFbyYhMfBQ1CRzjjrllgrcqVbwkhxKCZBNlIad8J1yCpMVhsBKjIAcwfsQHQb7jnl2RD2ufQU-zNEn2Hn2g4LGvYDU)
 
-6\. In the token’s menu, find your **Pending** transaction in the Queue area. Click on your transaction for more details.
+6\. Trong menu của token, tìm giao dịch **Pending** trong khu vực Queue. Nhấp vào giao dịch của bạn để biết thêm chi tiết.
 
 ![](https://lh4.googleusercontent.com/HMd5iKjIvm-f7Xi7xtecTsq56x1i15GjUkwCm5Z_83xMfOXDd2jabcCDyUwELf51IHseEeCk2WnvWfHwTSUlFnLAJrmjkkOfm_fA5fimgdABnYfdjmBxxst8TOaUJUhc2iO_CN-k)
 
-7\. Look for the **Nonce** entry, and take note of this number.
+7\. Tìm mục **Nonce** và ghi chú con số này.
 
-### **3. Overwrite the Stuck Transaction**
+### **3. Ghi Đè Giao Dịch Bị Kẹt**
 
-Now we’re going to make a new transaction to replace the stuck one. We’ll customize the Nonce number, so that it’s the same as the one that you just wrote down.
+Bây giờ chúng ta sẽ tạo một giao dịch mới để thay thế giao dịch bị kẹt. Chúng ta sẽ tùy chỉnh số Nonce, để nó giống với số bạn vừa ghi lại.
 
-![](<../../../.gitbook/assets/image (176).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28176%29.png)
 
-8\. Create a new transaction to replace your stuck transaction. This time around, increase the **Transaction Fee**. Here we’ve increased it from 9 to 20. This will make it more likely for your transaction to be added to a block.
+8\. Tạo một giao dịch mới để thay thế giao dịch bị kẹt của bạn. Lần này, tăng **Phí Giao Dịch**. Ở đây chúng tôi đã tăng từ 9 lên 20. Điều này sẽ làm cho giao dịch của bạn có nhiều khả năng được thêm vào một block hơn.
 
-![](<../../../.gitbook/assets/image (34).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2834%29.png)
 
-9\. On the confirmation page, make sure your Gas Price is now at your new, higher amount.
+9\. Trên trang xác nhận, đảm bảo Giá Gas của bạn bây giờ ở mức cao hơn mới.
 
-10\. Find the **CUSTOM NONCE** entry and change the nonce to the number you wrote down in step 7. Now click Confirm.
+10\. Tìm mục **CUSTOM NONCE** và thay đổi nonce thành số bạn đã ghi lại ở bước 7. Bây giờ nhấp vào Confirm.
 
 ![](https://lh6.googleusercontent.com/PYhYm2ro0SVzerBo5qguFIPOYl0DjLSfl0JT8UdfN3T4i-0hjBq-CQvr-UA0bSyG-ZndrWmLGptfZUcnGBlvUk118GGZn7ciDNaC4hmfovH9v_M5XMIYmkAmB-Fr-6TTpYnnDX1p)
 
-11\. Your new transaction should now be accepted into a block. To check, open MetaMask and click the **Activity** tab.
+11\. Giao dịch mới của bạn bây giờ sẽ được chấp nhận vào một block. Để kiểm tra, mở MetaMask và nhấp vào tab **Activity**.
 
 ![](https://lh6.googleusercontent.com/Iw3e0YP4ORhPgw8-MNxvzlDlfgG5nD226P4ixiziPC_9j3_LfU3o1-_LA2yDmegbRw5x9Sgk3RACFJJkyJDrFJA1j2J93H21uGhhWabkdDQUHsU_oVdkZVQTTWaQPzXHAWClpsb4)
 
-12\. Your completed transaction should show at the top of your Activity list. If it still says “Pending” in orange you’ll need to wait a little longer, or try the process again with an even higher transaction fee (gas price).
+12\. Giao dịch đã hoàn thành của bạn sẽ hiển thị ở đầu danh sách Activity. Nếu nó vẫn hiển thị "Pending" màu cam, bạn sẽ cần đợi thêm một chút, hoặc thử lại quy trình với phí giao dịch thậm chí cao hơn (giá gas).
 
-Since no wallet can create two transactions of the same nonce, if the replacement transaction you make is successful, your stuck transaction will be canceled.<br>
+Vì không có ví nào có thể tạo hai giao dịch có cùng nonce, nếu giao dịch thay thế bạn tạo thành công, giao dịch bị kẹt của bạn sẽ bị hủy.<br>

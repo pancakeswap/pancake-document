@@ -1,33 +1,32 @@
-# Want to be an Ambassador?
+# Bạn Muốn Trở Thành Đại Sứ?
 
-If you’re passionate about DeFi and believe you have what it takes to educate and inspire others, this is your chance!&#x20;
+Nếu bạn đam mê DeFi và tin rằng bạn có đủ khả năng để giáo dục và truyền cảm hứng cho người khác, đây là cơ hội của bạn!&#x20;
 
-**We’re expanding our Ambassador Program to key regions**, and we need local leaders to host meetups, workshops, and events to bring the PancakeSwap experience to the masses. Help us strengthen local communities and take DeFi education to the next level—one event, one connection at a time.
+**Chúng tôi đang mở rộng Chương Trình Đại Sứ đến các khu vực trọng điểm**, và chúng tôi cần các nhà lãnh đạo địa phương để tổ chức các buổi gặp mặt, hội thảo và sự kiện nhằm mang trải nghiệm PancakeSwap đến với đại chúng. Hãy giúp chúng tôi củng cố các cộng đồng địa phương và đưa giáo dục DeFi lên một tầm cao mới—từng sự kiện, từng kết nối một.
 
-### **Where We Need Ambassadors & What You’ll Do**
+### **Nơi Chúng Tôi Cần Đại Sứ & Những Gì Bạn Sẽ Làm**
 
-We’re looking for passionate Ambassadors in key regions to help bring the PancakeSwap experience to life and drive DeFi education on a local level. If you’re based in one of these regions and ready to take on the challenge, we want to hear from you:
+Chúng tôi đang tìm kiếm những Đại Sứ đam mê ở các khu vực trọng điểm để giúp đưa trải nghiệm PancakeSwap vào thực tế và thúc đẩy giáo dục DeFi ở cấp độ địa phương. Nếu bạn đang ở một trong những khu vực này và sẵn sàng đón nhận thách thức, chúng tôi muốn nghe từ bạn:
 
-* **Japan** 🇯🇵
-* **Thailand** 🇹🇭
-* **Taiwan** 🇹🇼
+* **Nhật Bản** 🇯🇵
+* **Thái Lan** 🇹🇭
+* **Đài Loan** 🇹🇼
 
-_Last Update: March 10th, 2025_
+_Cập nhật lần cuối: Ngày 10 tháng 3 năm 2025_
 
-### **Requirements to Apply**
+### **Yêu Cầu Để Đăng Ký**
 
-We’re looking for Ambassadors who:
+Chúng tôi đang tìm kiếm những Đại Sứ:
 
-* Are fluent in **English** and the **native language** of the region you're applying to, with **business-level proficiency** in written and spoken communication.
-* Have a strong understanding of PancakeSwap, DeFi, and community-building.
-* Are proactive, reliable, and passionate about organizing events.
-* Have excellent communication and leadership skills to engage, inspire, and grow local communities.
+* Thông thạo **tiếng Anh** và **ngôn ngữ bản địa** của khu vực bạn đang đăng ký, với **trình độ kinh doanh** trong giao tiếp viết và nói.
+* Có hiểu biết vững chắc về PancakeSwap, DeFi và xây dựng cộng đồng.
+* Chủ động, đáng tin cậy và đam mê tổ chức sự kiện.
+* Có kỹ năng giao tiếp và lãnh đạo xuất sắc để thu hút, truyền cảm hứng và phát triển cộng đồng địa phương.
 
-### **How to Apply & Selection Timeline**
+### **Cách Đăng Ký & Lịch Trình Tuyển Chọn**
 
-Ready to become a PancakeSwap Ambassador? Follow these steps to apply:
+Bạn đã sẵn sàng trở thành Đại Sứ PancakeSwap? Hãy làm theo các bước sau để đăng ký:
 
-1. **Complete the Application Form:**  [https://forms.gle/aqK61GiL1QjU7Tqb8](https://forms.gle/aqK61GiL1QjU7Tqb8)
-2. **Prepare for an Interview**: If shortlisted, we'll schedule a video interview to assess your communication skills and knowledge of PancakeSwap.
-3. **Get Onboarded:** If selected, you'll receive onboarding materials and support to help you plan your first local event.
-
+1. **Điền Vào Mẫu Đơn:**  [https://forms.gle/aqK61GiL1QjU7Tqb8](https://forms.gle/aqK61GiL1QjU7Tqb8)
+2. **Chuẩn Bị Cho Cuộc Phỏng Vấn**: Nếu được chọn vào vòng rút gọn, chúng tôi sẽ lên lịch một cuộc phỏng vấn video để đánh giá kỹ năng giao tiếp và kiến thức về PancakeSwap của bạn.
+3. **Được Giới Thiệu:** Nếu được chọn, bạn sẽ nhận được tài liệu giới thiệu và hỗ trợ để giúp bạn lên kế hoạch cho sự kiện địa phương đầu tiên.

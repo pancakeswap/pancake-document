@@ -1,123 +1,123 @@
-# General FAQ
+# FAQ Chung
 
-![](<../../../.gitbook/assets/general-faq-header (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/general-faq-header%20%281%29.png)
 
-This FAQ page answers some of the more commonly asked questions from the PancakeSwap community.
+Trang FAQ này trả lời một số câu hỏi thường gặp hơn từ cộng đồng PancakeSwap.
 
-## Is PancakeSwap safe? Has PancakeSwap been Audited?
+## PancakeSwap có an toàn không? PancakeSwap đã được Kiểm Toán chưa?
 
-See for yourself:
+Hãy tự xem xét:
 
-* Check out [these PancakeSwap security audits](../../../#is-pancakeswap-safe)
-* Transparent:
-  * We’re built on open-source software: our site and all our Smart Contracts are publicly visible for maximum transparency.
-  * Our contracts are verified on blockchain explorers, so you know that what you see is what you get. Check them out [here](/broken/pages/-MeTcIwNOfhTYrz1V3xJ).
-* Security best practices:
-  * The chefs use multisig for all contracts.
-  * Our contracts’ time-lock gives you peace of mind.
+* Kiểm tra [các kiểm toán bảo mật PancakeSwap này](../../../#is-pancakeswap-safe)
+* Minh bạch:
+  * Chúng tôi được xây dựng trên phần mềm mã nguồn mở: trang web và tất cả Hợp Đồng Thông Minh của chúng tôi đều công khai cho tối đa minh bạch.
+  * Các hợp đồng của chúng tôi được xác minh trên các trình duyệt khối, vì vậy bạn biết rằng những gì bạn thấy là những gì bạn nhận được. Kiểm tra chúng [tại đây](/broken/pages/-MeTcIwNOfhTYrz1V3xJ).
+* Các phương pháp bảo mật tốt nhất:
+  * Các đầu bếp sử dụng multisig cho tất cả các hợp đồng.
+  * Time-lock của hợp đồng mang lại sự an tâm cho bạn.
 
-## How can I stake CAKE?
+## Làm thế nào để tôi Staking CAKE?
 
-You can stake your CAKE in PancakeSwap Syrup Pools. Visit the [Syrup Pools page](https://pancakeswap.finance/pools).
+Bạn có thể staking CAKE trong PancakeSwap Syrup Pool. Truy cập [trang Syrup Pool](https://pancakeswap.finance/pools).
 
-Read our [How to Stake in Syrup Pools guide](https://docs.pancakeswap.finance/products/syrup-pool/syrup-pool-guide) if you'd like a hand getting started with staking.
+Đọc [Hướng Dẫn Cách Stake trong Syrup Pool](https://docs.pancakeswap.finance/products/syrup-pool/syrup-pool-guide) nếu bạn muốn có sự trợ giúp để bắt đầu staking.
 
-## What is the difference between staking and farming?
+## Sự khác biệt giữa staking và farming là gì?
 
-Staking in Syrup Pools and farming with Yield Farming are both ways to earn more CAKE by supporting PancakeSwap.
+Staking trong Syrup Pool và Yield Farming đều là những cách để kiếm thêm CAKE bằng cách hỗ trợ PancakeSwap.
 
-Staking only needs some CAKE to be added to a Syrup Pool to earn CAKE or other tokens.\
-[Learn more about Syrup Pool staking.](https://docs.pancakeswap.finance/products/syrup-pool)
+Staking chỉ cần thêm một số CAKE vào Syrup Pool để kiếm CAKE hoặc các token khác.\
+[Tìm hiểu thêm về staking Syrup Pool.](https://docs.pancakeswap.finance/products/syrup-pool)
 
-Farming is more complicated and needs LP Tokens to earn CAKE.\
-[Learn more about Yield Farming.](https://docs.pancakeswap.finance/products/yield-farming)
+Farming phức tạp hơn và cần LP Token để kiếm CAKE.\
+[Tìm hiểu thêm về Yield Farming.](https://docs.pancakeswap.finance/products/yield-farming)
 
-## How do I farm?
+## Làm thế nào để tôi farm?
 
-We have a [Yield Farming guide](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) if you're interested in learning how to farm.
+Chúng tôi có [Hướng Dẫn Yield Farming](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) nếu bạn quan tâm đến việc học cách farm.
 
-## Where can I view the PancakeSwap roadmap?
+## Tôi có thể xem lộ trình PancakeSwap ở đâu?
 
-You can [view our to-do list here, but don't call it a roadmap](https://docs.pancakeswap.finance/roadmap).
+Bạn có thể [xem danh sách việc cần làm của chúng tôi ở đây, nhưng đừng gọi nó là lộ trình](https://docs.pancakeswap.finance/roadmap).
 
-## How do I connect my wallet to BNB Smart Chain and PancakeSwap?
+## Làm thế nào để tôi kết nối ví với BNB Smart Chain và PancakeSwap?
 
-We have a [Connect Your Wallet to PancakeSwap guide](https://docs.pancakeswap.finance/get-started/connection-guide) covering this in detail.
+Chúng tôi có [Hướng Dẫn Kết Nối Ví Với PancakeSwap](https://docs.pancakeswap.finance/get-started/connection-guide) bao gồm chi tiết điều này.
 
-## What's the best wallet for PancakeSwap?
+## Ví tốt nhất cho PancakeSwap là gì?
 
-It depends on your needs. We have an [in-depth guide to selecting and creating a wallet](https://docs.pancakeswap.finance/get-started/wallet-guide) that's right for you.
+Điều đó phụ thuộc vào nhu cầu của bạn. Chúng tôi có [hướng dẫn chuyên sâu về việc chọn và tạo ví](https://docs.pancakeswap.finance/get-started/wallet-guide) phù hợp với bạn.
 
-## Why is my transaction failing?
+## Tại sao giao dịch của tôi thất bại?
 
-You can check the status of a transaction on [https://bscscan.com/](https://bscscan.com).
+Bạn có thể kiểm tra trạng thái giao dịch trên [https://bscscan.com/](https://bscscan.com).
 
-Our [Troubleshooting Errors guide](https://docs.pancakeswap.finance/help/troubleshooting) may have a solution for your problem if you're having issues.
+[Hướng Dẫn Khắc Phục Lỗi](https://docs.pancakeswap.finance/help/troubleshooting) của chúng tôi có thể có giải pháp cho vấn đề của bạn nếu bạn đang gặp sự cố.
 
-You can also see our [Fixing Stuck Pending Transactions guide](https://docs.pancakeswap.finance/help/unsticking-a-transaction-stuck-as-pending-with-metamask) if you have a stuck transaction.
+Bạn cũng có thể xem [Hướng Dẫn Sửa Giao Dịch Đang Chờ Xử Lý](https://docs.pancakeswap.finance/help/unsticking-a-transaction-stuck-as-pending-with-metamask) nếu bạn có giao dịch bị kẹt.
 
-## When will you open more pools?
+## Khi nào bạn sẽ mở thêm pool?
 
-New Pools are added to PancakeSwap frequently. There will always be an announcement before the launch of new pools.
+Các Pool mới được thêm vào PancakeSwap thường xuyên. Sẽ luôn có thông báo trước khi ra mắt pool mới.
 
-Join the [announcements Telegram group](https://t.me/PancakeSwapAnn) to learn about new Pools as early as possible.
+Tham gia [nhóm Telegram thông báo](https://t.me/PancakeSwapAnn) để biết về các Pool mới sớm nhất có thể.
 
-## Did Farm APR calculation change?
+## Cách tính APR Farm có thay đổi không?
 
-Previously, rewards earned by LP Token-holders generated from trading fees were not included in Farm APR calculations. APR calculations now include these rewards, and better reflect the expected APR for Farm pairs.
+Trước đây, phần thưởng kiếm được bởi những người nắm giữ LP Token được tạo ra từ phí giao dịch không được bao gồm trong tính toán APR Farm. Tính toán APR hiện bao gồm các phần thưởng này và phản ánh tốt hơn APR dự kiến cho các cặp Farm.
 
-## How do I get airdrops?
+## Làm thế nào để tôi nhận airdrop?
 
-Whenever there is an official airdrop on PancakeSwap it will be announced along with the requirements.
+Bất cứ khi nào có airdrop chính thức trên PancakeSwap, nó sẽ được thông báo kèm theo yêu cầu.
 
-Please remember anyone can airdrop tokens to PancakeSwap users since every transaction is public on BscScan. Be sure to do your own research when it comes to non-official airdrops. To protect your funds, we recommend you don't use a smart contract you don't understand from a source you don't trust.
+Hãy nhớ rằng bất kỳ ai cũng có thể airdrop token cho người dùng PancakeSwap vì mỗi giao dịch đều công khai trên BscScan. Hãy chắc chắn tự nghiên cứu khi nói đến các airdrop không chính thức. Để bảo vệ tài sản của bạn, chúng tôi khuyến nghị bạn không sử dụng hợp đồng thông minh mà bạn không hiểu từ nguồn bạn không tin tưởng.
 
-## How can I report a bug?
+## Làm thế nào để tôi báo cáo lỗi?
 
-Learn about our [bug bounty and potential bounty payouts](https://docs.pancakeswap.finance/code/bug-bounty).
+Tìm hiểu về [chương trình bug bounty và các khoản thanh toán bounty tiềm năng](https://docs.pancakeswap.finance/code/bug-bounty).
 
-## Where can I view smart contracts?
+## Tôi có thể xem hợp đồng thông minh ở đâu?
 
-Learn how to find smart contracts on our [Finding Contracts page](https://docs.pancakeswap.finance/code/smart-contracts).
+Tìm hiểu cách tìm hợp đồng thông minh trên [trang Tìm Hợp Đồng](https://docs.pancakeswap.finance/code/smart-contracts).
 
-## Why does it say I have no BNB balance?
+## Tại sao màn hình hiển thị tôi không có số dư BNB?
 
-If you've already [transferred BNB into your BNB Smart Chain-enabled wallet](https://docs.pancakeswap.finance/get-started/bep20-guide) but still have this error, you're most likely not [connected to BNB Smart Chain](https://docs.pancakeswap.finance/get-started/connection-guide) within your wallet. Check your wallet's selected network and make sure you have BNB Smart Chain (BSC) selected.
+Nếu bạn đã [chuyển BNB vào ví hỗ trợ BNB Smart Chain](https://docs.pancakeswap.finance/get-started/bep20-guide) nhưng vẫn gặp lỗi này, rất có thể bạn không [kết nối với BNB Smart Chain](https://docs.pancakeswap.finance/get-started/connection-guide) trong ví của bạn. Kiểm tra mạng đã chọn trong ví và đảm bảo bạn đã chọn BNB Smart Chain (BSC).
 
-## How do I vote?
+## Làm thế nào để tôi bỏ phiếu?
 
-To learn more about voting, you can [read our section on Voting](https://docs.pancakeswap.finance/products/voting), including voting guides.
+Để tìm hiểu thêm về bỏ phiếu, bạn có thể [đọc phần về Bỏ Phiếu](https://docs.pancakeswap.finance/products/voting), bao gồm hướng dẫn bỏ phiếu.
 
-## What is the max supply of CAKE?
+## Nguồn cung tối đa của CAKE là bao nhiêu?
 
-Yes, CAKE now has a hard cap of 400M as outlined in [our latest proposal](https://pancakeswap.finance/voting/proposal/0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5?id=0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5\&chain=bsc).
+Đúng, CAKE hiện có giới hạn cứng 400 triệu như được nêu trong [đề xuất mới nhất của chúng tôi](https://pancakeswap.finance/voting/proposal/0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5?id=0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5\&chain=bsc).
 
-## What are the treasury funds used for?
+## Quỹ kho bạc được sử dụng cho mục đích gì?
 
-The treasury funds are used to cover the expenses involved in running PancakeSwap. These expenses include salaries, audits, prizes, hosting, upkeep, bounties, etc.
+Quỹ kho bạc được sử dụng để trang trải các chi phí liên quan đến việc vận hành PancakeSwap. Các chi phí này bao gồm lương, kiểm toán, giải thưởng, hosting, bảo trì, bounty, v.v.
 
-## Where can I check the Analytics?
+## Tôi có thể kiểm tra Analytics ở đâu?
 
-You can check the analytics of PancakeSwap by click on the "Analytics" tab on the top menu or by clicking the link below.
+Bạn có thể kiểm tra analytics của PancakeSwap bằng cách nhấp vào tab "Analytics" trên menu trên cùng hoặc nhấp vào liên kết bên dưới.
 
 Analytics: [https://pancakeswap.info/](https://pancakeswap.info)
 
-## Is PancakeSwap protected from flashloan attacks?
+## PancakeSwap có được bảo vệ khỏi tấn công flashloan không?
 
-PancakeSwap's vault has anti-flashloan protection. PancakeSwap’s CAKE token isn’t vulnerable to flash loan attacks. Unlike vulnerable tokens, CAKE token minting is predefined, and can’t be adjusted in a single transaction. Ownership cannot be transferred outside of MasterChef contract.
+Vault của PancakeSwap có bảo vệ chống flashloan. Token CAKE của PancakeSwap không dễ bị tấn công flash loan. Không giống như các token dễ bị tấn công, việc đúc token CAKE được xác định trước và không thể điều chỉnh trong một giao dịch duy nhất. Quyền sở hữu không thể chuyển nhượng ngoài hợp đồng MasterChef.
 
-PancakeSwap’s other smart contracts, like IFO and AutoPool, are protected as well; they prevent other contracts from interacting with them, reducing the scope of vector attacks.
+Các hợp đồng thông minh khác của PancakeSwap, như IFO và AutoPool, cũng được bảo vệ; chúng ngăn các hợp đồng khác tương tác với chúng, giảm phạm vi các cuộc tấn công vector.
 
-## Can I join the PancakeSwap team?
+## Tôi có thể tham gia đội ngũ PancakeSwap không?
 
-Check the [Become a Chef](https://docs.pancakeswap.finance/hiring/become-a-chef) area for information on open positions we're looking to fill.
+Kiểm tra khu vực [Trở Thành Đầu Bếp](https://docs.pancakeswap.finance/hiring/become-a-chef) để biết thông tin về các vị trí mở mà chúng tôi đang tìm kiếm.
 
-We advertise new positions we're looking to fill on our [official social media channels](https://docs.pancakeswap.finance/contact-us/telegram), so be sure to follow us to get the latest hiring information.
+Chúng tôi quảng cáo các vị trí mới đang tìm kiếm trên [các kênh mạng xã hội chính thức](https://docs.pancakeswap.finance/contact-us/telegram), vì vậy hãy theo dõi để nhận thông tin tuyển dụng mới nhất.
 
-## What is SYRUP?
+## SYRUP là gì?
 
-SYRUP was a part of the staking process earlier in PancakeSwap's life. SYRUP was discontinued when a security issue was discovered and is no longer a part of PancakeSwap.
+SYRUP là một phần của quá trình staking trước đây trong cuộc sống của PancakeSwap. SYRUP đã bị ngừng hoạt động khi phát hiện vấn đề bảo mật và không còn là một phần của PancakeSwap nữa.
 
-## I can't find an answer for my question. Where do I find an answer?
+## Tôi không thể tìm thấy câu trả lời cho câu hỏi của mình. Tôi tìm câu trả lời ở đâu?
 
-If you can't find what you're looking for in PancakeSwap's documentation, ask your question on [PancakeSwap's official social media platforms](https://docs.pancakeswap.finance/contact-us/telegram) and someone will do their best to help you out.
+Nếu bạn không thể tìm thấy những gì bạn đang tìm kiếm trong tài liệu của PancakeSwap, hãy đặt câu hỏi của bạn trên [các nền tảng mạng xã hội chính thức của PancakeSwap](https://docs.pancakeswap.finance/contact-us/telegram) và ai đó sẽ cố gắng hết sức để giúp bạn.

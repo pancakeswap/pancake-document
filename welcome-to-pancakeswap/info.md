@@ -1,25 +1,25 @@
-# 📈 Analytics (Info Page)
+# 📈 Analytics (Trang Info)
 
-## Info Page&#x20;
+## Trang Info&#x20;
 
-View PancakeSwap's native analytics site here: [https://pancakeswap.finance/info](https://pancakeswap.finance/info)
+Xem trang analytics bản địa của PancakeSwap tại đây: [https://pancakeswap.finance/info](https://pancakeswap.finance/info)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-All core metrics data are sourced from the PCS internal Indexer, which, in turn, gathers data from events triggered when the contract is called.&#x20;
+Tất cả dữ liệu chỉ số cốt lõi được lấy từ Bộ Lập Chỉ Mục nội bộ của PCS, đến lượt nó thu thập dữ liệu từ các sự kiện được kích hoạt khi hợp đồng được gọi.&#x20;
 
-For the date dimension in the PancakeSwap's internal indexer, we use international standard time (UTC) for daily statistics. Therefore, when the horizontal axis on the Dashboard displays a date, it represents the date in international standard time (UTC).<br>
+Đối với kích thước thời gian trong bộ lập chỉ mục nội bộ của PancakeSwap, chúng tôi sử dụng giờ quốc tế chuẩn (UTC) cho thống kê hàng ngày. Do đó, khi trục ngang trên Bảng Điều Khiển hiển thị ngày tháng, nó đại diện cho ngày theo giờ quốc tế chuẩn (UTC).<br>
 
-## Core Metrics
+## Chỉ Số Cốt Lõi
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXemXpjzW0IqGPjz6IISjhcIXzWWeeFyxXU7XLRumCxM6WQsr4IKMP_mwDhiMDGY9EUDtKZAKoeYsbYUXwRc2C2KBvoSRo_-tlxq09zOJ1ajIq00cXM6z_7-2RNv3rVWj_kBmLiY4Q?key=G7-HCtdmBA4wyp9ESrWifFqi" alt=""><figcaption></figcaption></figure>
 
-**Volume (Trading Volume):** We monitor the daily data for each trading pair and the daily trading data for each token. The daily trading volume is determined by multiplying the trading volume of each token for the day by its price.
+**Khối Lượng (Khối Lượng Giao Dịch):** Chúng tôi theo dõi dữ liệu hàng ngày cho mỗi cặp giao dịch và dữ liệu giao dịch hàng ngày cho mỗi token. Khối lượng giao dịch hàng ngày được xác định bằng cách nhân khối lượng giao dịch của mỗi token trong ngày với giá của nó.
 
-**Total Value Locked:** Get all pools from internal Indexer and read the reserve\_usd or total\_value\_locked\_usd from each pool.&#x20;
+**Tổng Giá Trị Khóa:** Lấy tất cả các nhóm từ Bộ Lập Chỉ Mục nội bộ và đọc reserve\_usd hoặc total\_value\_locked\_usd từ mỗi nhóm.&#x20;
 
-**Price:** In the PCS Internal Indexer, we utilize several base pools to calculate USD-related prices. The primary pool is the stablecoin trading pool, where we use the trading pool with the highest volume as the base pool and calculate the USD price of the stablecoin based on the trading volume weight. Additionally, the trading pool of the base token to the chain's stablecoin is also considered a base pool to provide the USD price.
+**Giá:** Trong PCS Internal Indexer, chúng tôi sử dụng một số nhóm cơ sở để tính toán giá liên quan đến USD. Nhóm chính là nhóm giao dịch stablecoin, nơi chúng tôi sử dụng nhóm giao dịch có khối lượng cao nhất làm nhóm cơ sở và tính toán giá USD của stablecoin dựa trên trọng số khối lượng giao dịch. Ngoài ra, nhóm giao dịch của token cơ sở với stablecoin của chuỗi cũng được coi là nhóm cơ sở để cung cấp giá USD.
 
-_Tokens that are not whitelisted or not paired with whitelisted tokens are excluded from these calculations._
+_Các token không được đưa vào danh sách trắng hoặc không được ghép với các token trong danh sách trắng được loại trừ khỏi các tính toán này._
 
 <br>

@@ -1,49 +1,49 @@
-# ❓ Commonly Asked Business Partnerships Questions
+# ❓ Các Câu Hỏi Thường Gặp Về Quan Hệ Đối Tác Kinh Doanh
 
-#### How long will it take to get a response?
+#### Mất bao lâu để nhận được phản hồi?
 
-We aim to respond to applications within a week, but due to a large number of requests, we’re unable to respond to every single applicant. If you don’t hear back from us within two weeks of applying, try reaching out to[ @PancakeSwapBD](https://t.me/PancakeSwapBD) on Telegram, with the name of your project, your project’s website, and the date you applied.
+Chúng tôi mục tiêu phản hồi các đơn đăng ký trong vòng một tuần, nhưng do số lượng yêu cầu lớn, chúng tôi không thể phản hồi từng ứng viên. Nếu bạn không nhận được phản hồi trong vòng hai tuần sau khi đăng ký, hãy thử liên hệ với [ @PancakeSwapBD](https://t.me/PancakeSwapBD) trên Telegram, kèm tên dự án, trang web dự án và ngày bạn đăng ký.
 
-#### Can I extend my Syrup Pool?
+#### Tôi có thể gia hạn Syrup Pool của mình không?
 
-If you’ve already got an ongoing Syrup Pool, you can extend the timeline with additional release of tokens. Contact us via your existing PancakeSwap communication channels for enquiries.
+Nếu bạn đã có Syrup Pool đang hoạt động, bạn có thể gia hạn thời gian với việc phát hành thêm token. Liên hệ với chúng tôi qua các kênh giao tiếp PancakeSwap hiện có của bạn để hỏi thêm.
 
-### Listing on the Exchange
+### Niêm Yết Trên Sàn Giao Dịch
 
-#### How can I list my token on the exchange?
+#### Làm thế nào để niêm yết token của tôi trên sàn giao dịch?
 
-Anybody can "list" any ERC-20 / BEP-20 network token on PancakeSwap. You don't need to contact us or ask permission. You just need to [add liquidity to a liquidity pool](https://docs.pancakeswap.finance/products/pancakeswap-exchange/pancakeswap-pools) - that's it. Traders can then trade your token by entering your token's contract address.
+Bất kỳ ai cũng có thể "niêm yết" bất kỳ token ERC-20 / BEP-20 nào trên PancakeSwap. Bạn không cần phải liên hệ chúng tôi hoặc xin phép. Bạn chỉ cần [thêm thanh khoản vào nhóm thanh khoản](https://docs.pancakeswap.finance/products/pancakeswap-exchange/pancakeswap-pools) - đó là tất cả. Sau đó các trader có thể giao dịch token của bạn bằng cách nhập địa chỉ hợp đồng token.
 
-#### How can I add my token to the default list?
+#### Làm thế nào để thêm token của tôi vào danh sách mặc định?
 
-Projects hosting Farms will usually be added to the Extended token list, and other tokens chosen by the PancakeSwap core team may also be added.
+Các dự án tổ chức Farm thường sẽ được thêm vào danh sách token Mở rộng, và các token khác được đội ngũ cốt lõi PancakeSwap chọn cũng có thể được thêm vào.
 
-We don’t take applications for the list. Users can still add your token manually by entering its contract address.
+Chúng tôi không nhận đơn đăng ký vào danh sách. Người dùng vẫn có thể thêm token của bạn thủ công bằng cách nhập địa chỉ hợp đồng.
 
-#### How can I add my token's logo/icon?
+#### Làm thế nào để thêm logo/icon của token tôi?
 
-Please add your icon to Trust Wallet’s assets repo, which PancakeSwap references:[ https://github.com/trustwallet/assets](https://github.com/trustwallet/assets)
+Vui lòng thêm icon của bạn vào kho tài sản của Trust Wallet, mà PancakeSwap tham chiếu:[ https://github.com/trustwallet/assets](https://github.com/trustwallet/assets)
 
-#### Someone made a fake copy of my token! Can you block it?
+#### Ai đó đã tạo bản sao giả của token tôi! Bạn có thể chặn nó không?
 
-Due to PancakeSwap’s nature as an AMM-based DEX, we’re not able to prevent the trading of any token. We recommend ensuring that your token contract is clearly visible and verifiable on your site and educating your users about how to safely trade your token.
+Do tính chất của PancakeSwap là DEX dựa trên AMM, chúng tôi không thể ngăn việc giao dịch bất kỳ token nào. Chúng tôi khuyến nghị đảm bảo rằng địa chỉ hợp đồng token của bạn rõ ràng có thể xem và xác minh trên trang web của bạn và giáo dục người dùng về cách giao dịch token của bạn một cách an toàn.
 
-#### People get an error when trading my token. What can I do?
+#### Người dùng gặp lỗi khi giao dịch token của tôi. Tôi có thể làm gì?
 
-Check our [Troubleshooting page](https://docs.pancakeswap.finance/readme/help/troubleshooting) for a list of common errors on the exchange, and how to solve them.
+Kiểm tra [trang Khắc Phục Sự Cố](https://docs.pancakeswap.finance/readme/help/troubleshooting) của chúng tôi để có danh sách các lỗi phổ biến trên sàn giao dịch và cách giải quyết chúng.
 
-#### Why are some statistics of my tokens not shown on the Info page?
+#### Tại sao một số số liệu thống kê của token tôi không được hiển thị trên trang Info?
 
-Tokens need to be paired with a “common” token, and have a minimum amount of liquidity denominated in the “common” token for the Info page to start indexing the token pair. The statistics of the underlying token will be shown once the token pair is indexed.&#x20;
+Các token cần được ghép với token "phổ biến" và có số lượng thanh khoản tối thiểu được tính bằng token "phổ biến" để trang Info bắt đầu lập chỉ mục cặp token. Số liệu thống kê của token cơ bản sẽ được hiển thị khi cặp token được lập chỉ mục.&#x20;
 
-These are our liquidity requirements across the different chains:
+Đây là các yêu cầu thanh khoản của chúng tôi trên các chuỗi khác nhau:
 
-| Chain         | Liquidity Requirement  | "Common" Tokens                                           |
+| Chuỗi         | Yêu Cầu Thanh Khoản    | Token "Phổ Biến"                                          |
 | ------------- | ---------------------- | --------------------------------------------------------- |
 | BNB Chain     | 10 BNB                 | WBNB, USDT, BUSD, USDC, BTCB, WETH, CAKE                  |
 | Ethereum      | 5 ETH                  | WETH, DAI, USDC, USDT, WBTC, LINK, FEI, MATIC, AAVE, CAKE |
 | Base          | 1 ETH                  | USDC, cbETH, rETH, DAI, crvUSD                            |
 | opBNB         | 1 BNB                  | WBNB, USDT                                                |
-| Arbitrum      | No requirement for now | USDT, USDC, USDC.e, ARB, WBTC, DAI                        |
-| zkSync        | No requirement for now | USDT, USDC, BUSD, WBTC                                    |
-| Linea         | No requirement for now | USDC, USDT, DAI, BUSD, WBTC                               |
+| Arbitrum      | Không yêu cầu hiện tại | USDT, USDC, USDC.e, ARB, WBTC, DAI                        |
+| zkSync        | Không yêu cầu hiện tại | USDT, USDC, BUSD, WBTC                                    |
+| Linea         | Không yêu cầu hiện tại | USDC, USDT, DAI, BUSD, WBTC                               |
