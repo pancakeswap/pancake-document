@@ -2,6 +2,6 @@
 hidden: true
 ---
 
-# ❓ Play FAQ
+# ❓ FAQ Chơi game
 
-(To be populated)
+(Sẽ được bổ sung)
