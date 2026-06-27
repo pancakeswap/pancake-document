@@ -62,16 +62,16 @@ CAKE.PAD 活动是**有时间限制的**。请使用以下方法确保你不会�
 
 1. 点击 CAKE.PAD 活动销售卡片上的 Deposit 按钮
 
-<figure><img src="../../.gitbook/assets/image (466).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28466%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
 2. 输入你想投入的 CAKE 数量。任何未用于购买代币的 CAKE 都将退还给你
 3.  点击 **Confirm** 并在你的钱包中批准交易<br>
 
-    <figure><img src="../../.gitbook/assets/image (467).png" alt="" width="239"><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28467%29.png" alt="" width="239"><figcaption></figcaption></figure>
 4. 你投入的金额将显示在销售区域中
 5. 在 CAKE.PAD 活动期间，你可以随时添加更多 $CAKE
 
-<figure><img src="../../.gitbook/assets/image (468).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28468%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
 **注意：** 如果 CAKE.PAD 活动超额认购，将适用**分级参与费用**。该费用仅从超额资金中扣除，不会从用于购买代币的 CAKE 中扣除。
 
@@ -104,7 +104,7 @@ CAKE.PAD 活动是**有时间限制的**。请使用以下方法确保你不会�
 
 在整个归属期内，你可以随时返回 CAKE.PAD 活动页面，在代币释放时领取它们。
 
-<figure><img src="../../.gitbook/assets/image (469).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28469%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
 #### 在农场中使用你的新代币
 

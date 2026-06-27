@@ -4,7 +4,7 @@ description: 将你的流动性和农场质押迁移到新的 PancakeSwap Exchan
 
 # 如何迁移
 
-<figure><img src="../../../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28133%29.png" alt=""><figcaption></figcaption></figure>
 
 2023 年 4 月，PancakeSwap 宣布推出 Exchange 和 Farm 的 V3。一些农场代币对需要迁移才能继续赚取质押奖励。放轻松，就像上次一样，过程应该会很顺畅。
 
@@ -43,7 +43,7 @@ description: 将你的流动性和农场质押迁移到新的 PancakeSwap Exchan
 
 ### 如何迁移 <a href="#c7d7b407-268c-460c-a4f1-be1b771db5e7" id="c7d7b407-268c-460c-a4f1-be1b771db5e7"></a>
 
-<figure><img src="../../../.gitbook/assets/image (283).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28283%29.png" alt=""><figcaption></figcaption></figure>
 
 在 Liquidity（流动性）或 Farm（农场）页面上查找 V3 迁移横幅。然后点击“Proceed”（继续）进入迁移助手页面。
 
@@ -51,7 +51,7 @@ description: 将你的流动性和农场质押迁移到新的 PancakeSwap Exchan
 
 **第 1 步 - 从 V2 和/或 StableSwap 农场取消质押**
 
-<figure><img src="../../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28119%29.png" alt=""><figcaption></figcaption></figure>
 
 在第 1 步中，助手会列出所有需要迁移的 PancakeSwap V2 或 StableSwap 农场。
 
@@ -63,7 +63,7 @@ description: 将你的流动性和农场质押迁移到新的 PancakeSwap Exchan
 
 **第 2 步 - 从 Exchange V2 或 StableSwap 移除流动性**
 
-<figure><img src="../../../.gitbook/assets/image (315).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28315%29.png" alt=""><figcaption></figcaption></figure>
 
 在第 2 步中，助手会列出所有可以迁移到带 CAKE 流动性挖矿的 V3 的流动性头寸。
 
@@ -79,7 +79,7 @@ description: 将你的流动性和农场质押迁移到新的 PancakeSwap Exchan
 
 **第 3 步 - 为 V3 做好准备**
 
-<figure><img src="../../../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28186%29.png" alt=""><figcaption></figcaption></figure>
 
 无需任何操作。只需阅读并确保你熟悉 V3 的工作原理以及如何在 V3 中提供流动性。
 
@@ -87,7 +87,7 @@ description: 将你的流动性和农场质押迁移到新的 PancakeSwap Exchan
 
 **第 4 步 - 添加 V3 流动性**
 
-![](<../../../.gitbook/assets/image (325).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28325%29.png)
 
 在这一步中，你将把你的流动性添加到新的 Exchange V3。
 
@@ -109,7 +109,7 @@ description: 将你的流动性和农场质押迁移到新的 PancakeSwap Exchan
 
 **第 5 步 - 在 V3 农场中质押**
 
-<figure><img src="../../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2835%29.png" alt=""><figcaption></figcaption></figure>
 
 在这一步中，你将把你新添加的 V3 流动性头寸质押到新的 V3 农场，开始赚取 CAKE 奖励！
 

@@ -1,6 +1,6 @@
 # 🍯 糖浆池 - 质押 CAKE
 
-![](../../../.gitbook/assets/syrup-poos-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/syrup-poos-header.png)
 
 ### **什么是糖浆池？**
 

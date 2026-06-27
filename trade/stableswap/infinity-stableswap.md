@@ -136,19 +136,19 @@ Infinity StableSwap 池是无需许可的——任何人都可以创建，无需
 
 1\. 前往 Farm/流动性页面并点击 Create Pool。
 
-<figure><img src="../../.gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
 
 <br>
 
 2\. 从池类型选项中选择 StableSwap Pool。
 
-<figure><img src="../../.gitbook/assets/unknown (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unknown%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 <br>
 
 3\. 为你的池选择代币对（例如 USDC / USDT）。
 
-<figure><img src="../../.gitbook/assets/unknown (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unknown%20%282%29.png" alt=""><figcaption></figcaption></figure>
 
 <br>
 
@@ -167,7 +167,7 @@ Infinity StableSwap 池是无需许可的——任何人都可以创建，无需
 
 选择一个池参数预设——这将自动为你的资产类型设置推荐参数。你仍可以通过高级 (Advanced) 开关手动调整它们。
 
-<figure><img src="../../.gitbook/assets/unknown (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unknown%20%283%29.png" alt=""><figcaption></figcaption></figure>
 
 | 预设                              | A    | 脱锚手续费乘数        | 移动平均时间（秒）            |
 | --------------------------------- | ---- | --------------------- | ----------------------------- |
@@ -187,11 +187,11 @@ Infinity StableSwap 池是无需许可的——任何人都可以创建，无需
 
 5\. 输入存款金额以注入初始流动性。两种代币的金额必须相等（例如 1 USDC 和 1 USDT）。
 
-<figure><img src="../../.gitbook/assets/unknown (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unknown%20%284%29.png" alt=""><figcaption></figcaption></figure>
 
 <br>
 
 6\. 点击 Preview Pool，查看你的设置，勾选确认框，然后点击 Create Pool。
 
-<figure><img src="../../.gitbook/assets/unknown (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unknown%20%285%29.png" alt=""><figcaption></figcaption></figure>
 

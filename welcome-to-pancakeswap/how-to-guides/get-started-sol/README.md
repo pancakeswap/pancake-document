@@ -1,6 +1,6 @@
 # 入门指南 (SOL)
 
-![](../../../.gitbook/assets/get-started-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/get-started-header.png)
 
 {% hint style="success" %}
 $**CAKE 现已在 Solana 上线 - 代币地址：** `4qQeZ5LwSz6HuupUu8jCtgXyW1mYQcNbFAW1sWZp89HL`

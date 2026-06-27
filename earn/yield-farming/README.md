@@ -1,6 +1,6 @@
 # 🚜 农场
 
-![](../../.gitbook/assets/yield-farms-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/yield-farms-header.png)
 
 农场允许用户通过质押 LP 代币来支持 PancakeSwap，同时赚取 CAKE。
 
@@ -23,7 +23,7 @@
 
 为什么？因为当你在农场中质押 LP 代币以赚取 CAKE 时，你仍然在为流动性资金池提供流动性，所以你也会赚取 LP 奖励！
 
-![](<../../.gitbook/assets/Frame 1.png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Frame%201.png)
 
 那么我们是如何计算这些数字的呢？
 

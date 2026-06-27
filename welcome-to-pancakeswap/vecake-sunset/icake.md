@@ -37,7 +37,7 @@ veCAKE 是一个根据你锁定的 CAKE 数量以及锁定剩余时间动态计�
 
 ### 如何查看我拥有的 iCAKE 数量？
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%289%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
 你可以在 IFO 页面[此处](https://pancakeswap.finance/ifo)查看你拥有的 iCAKE 数量。
 
@@ -62,6 +62,6 @@ veCAKE 是一个根据你锁定的 CAKE 数量以及锁定剩余时间动态计�
 
 在每次 IFO 之间，Kitchen 将根据各项指标优化"Ratio"（比率）。调整将在所有社交渠道公布。
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2810%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
 你可以前往 [IFO 页面](https://pancakeswap.finance/ifo)查看当前用于 iCAKE 计算的"Ratio"（比率）数值。

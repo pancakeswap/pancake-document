@@ -5,7 +5,7 @@ hidden: true
 
 # Zap (V2)
 
-<img src="../../../.gitbook/assets/zap-0.png" alt="" data-size="original">
+<img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-0.png" alt="" data-size="original">
 
 ### 什么是 Zap？ <a href="#h.lv839zkjvd8q" id="h.lv839zkjvd8q"></a>
 
@@ -19,7 +19,7 @@ Zap 让提供流动性变得简单。只需一种代币、轻轻一点即可添�
 
 默认情况下，Zap 功能对每位用户都是开启的。如果您在添加或移除流动性时没有看到新的 Zap 界面，请在设置面板中启用它。您可以通过点击齿轮图标来调出设置面板。
 
-![](../../../.gitbook/assets/zap-8.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-8.png)
 
 {% hint style="warning" %}
 注意：目前，Zap 功能处于测试阶段（beta）。请注意，它不支持某些代币，例如带有转账手续费的代币。如果您在添加或移除流动性时遇到任何问题，请在设置面板中禁用它。
@@ -31,31 +31,31 @@ Zap 让提供流动性变得简单。只需一种代币、轻轻一点即可添�
 
 通过选择两个输入代币来挑选您想要提供流动性的交易对，查看[流动性指南](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide)了解更多。
 
-![](../../../.gitbook/assets/zap-1.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-1.png)
 
 点击“Add Liquidity”（添加流动性）按钮以继续。
 
 如果您正在添加流动性的交易对中的代币在您的钱包中有余额，该代币的复选框将被自动勾选。如果您的钱包中两种代币都有余额，则两个复选框都将被勾选。
 
-![](../../../.gitbook/assets/zap-6.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-6.png)
 
 ### 使用一种代币 Zap <a href="#h.oc5fxca1vzfj" id="h.oc5fxca1vzfj"></a>
 
 您可以仅使用交易对中的一种代币来添加流动性。只需勾选您希望使用的代币的那一个复选框。Zap 将在添加流动性之前自动将所勾选代币的一半兑换为交易对中的另一种代币。您将看到一条警告消息，指明哪种代币将被转换。
 
-![](../../../.gitbook/assets/zap-3.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-3.png)
 
 {% hint style="info" %}
 如果价格影响过高，Zap 将通过滑点来保护您。点击“Reduce TOKEN”（减少 TOKEN）将其降低至首选限度。
 {% endhint %}
 
-![](../../../.gitbook/assets/zap-7.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-7.png)
 
 ### 使用两种数量不平衡的代币进行 Zap <a href="#h.4k2b7plmt9t0" id="h.4k2b7plmt9t0"></a>
 
 如果两种代币都被勾选，而输入代币的数量不符合 50/50 的比例，则将引入 Zap 平衡。您将看到一条消息“Some of your Token A will be converted to Token B”（您的部分 Token A 将被转换为 Token B）。
 
-![](../../../.gitbook/assets/zap-2.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-2.png)
 
 {% hint style="info" %}
 如果您不希望 Zap 在添加流动性之前平衡代币数量，只需点击“Don’t Convert”（不转换）。在这种情况下，Zap 将调整输入代币的数量以符合 50/50 的比例，而不是尝试兑换和重新平衡。
@@ -72,7 +72,7 @@ Zap 让提供流动性变得简单。只需一种代币、轻轻一点即可添�
 3. 输入代币如何被交易以符合 50/50 的比例。
 4. 您正在使用的滑点容差。
 
-![](../../../.gitbook/assets/zap-4.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-4.png)
 
 ### Zap out（移除流动性） <a href="#h.whuk5lgc371r" id="h.whuk5lgc371r"></a>
 
@@ -84,4 +84,4 @@ Zap 还让您在移除流动性时能够收到交易对中的单一代币。
 
 在“You Will Receive”（您将收到）部分，您可以取消勾选您不想收到的代币。Zap 将在移除流动性时自动兑换并将 100% 的收益转换为所勾选的代币。
 
-![](../../../.gitbook/assets/zap-5.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-5.png)

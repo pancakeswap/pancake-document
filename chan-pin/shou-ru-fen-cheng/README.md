@@ -1,6 +1,6 @@
 # 💹 收入分成
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2815%29.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 此产品已升级至 veCAKE。欲知详情，请查阅[ veCAKE 文档](../vecake/)。

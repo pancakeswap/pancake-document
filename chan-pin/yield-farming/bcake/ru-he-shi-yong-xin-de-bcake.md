@@ -1,6 +1,6 @@
 # 如何使用新的 bCAKE ?
 
-<figure><img src="../../../.gitbook/assets/how-to-use-bCAKE.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-use-bCAKE.png" alt=""><figcaption></figcaption></figure>
 
 与 iCAKE 和 vCAKE 类似，bCAKE 也是  veCAKE 锁仓用户的专属福利。通过将 CAKE 锁仓得到 veCAKE. 同时也获得了 bCAKE，用户可以将特定的农场的收益提高到最高 2.5 倍。
 
@@ -52,13 +52,13 @@
 
 bCAKE 激活已更新为全自动。
 
-<figure><img src="../../../.gitbook/assets/image (355).png" alt="" width="174"><figcaption><p>V3 农场</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28355%29.png" alt="" width="174"><figcaption><p>V3 农场</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (356).png" alt="" width="174"><figcaption><p>V2, stableswap</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28356%29.png" alt="" width="174"><figcaption><p>V2, stableswap</p></figcaption></figure>
 
 
 
-<figure><img src="../../../.gitbook/assets/image (358).png" alt="" width="174"><figcaption><p>仓位管理工具</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28358%29.png" alt="" width="174"><figcaption><p>仓位管理工具</p></figcaption></figure>
 
 质押完成后，就可以看到当前质押农场的助推倍数。要进一步了解 bCAKE 倍数的计算方法，请阅读[此处](../../../products/yield-farming/bcake/chang-jian-wen-ti-jie-da.md)。&#x20;
 

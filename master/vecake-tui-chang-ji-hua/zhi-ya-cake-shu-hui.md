@@ -8,7 +8,7 @@
 在进行任何操作前，请先将你的钱包连接至领取页面。\
 ⚠️ 注意：仅在钱包连接后，奖励和余额信息才会显示。
 
-<figure><img src="../../.gitbook/assets/Redeem Staked Cake before connect.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Redeem%20Staked%20Cake%20before%20connect.png" alt=""><figcaption></figcaption></figure>
 
 **2. 查看你的余额和奖励**\
 连接成功后，你将看到以下信息：
@@ -21,18 +21,18 @@
   * CAKE 池奖励：历史 veCAKE 池奖励
   * 收益共享奖励：通过质押 CAKE 获得的收益（了解更多）
 
-<figure><img src="../../.gitbook/assets/redeem staked cake after connect.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/redeem%20staked%20cake%20after%20connect.png" alt=""><figcaption></figcaption></figure>
 
 **3. 赎回与领取**\
 点击“赎回并领取（Redeem & Claim）”按钮开始操作。\
 📝 你需要在钱包中签署并确认交易，以完成领取过程。
 
-<figure><img src="../../.gitbook/assets/Redeem and claim.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Redeem%20and%20claim.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/redeem txn.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/redeem%20txn.png" alt=""><figcaption></figcaption></figure>
 
 **4. 检查是否有多轮领取**\
 在某些情况下，如果奖励金额较大，奖励可能会被拆分为多轮领取。\
 ✅ 为确保你已成功领取全部奖励，请在完成操作后确认“我的总奖励（My Total Rewards）” 显示为 0。
 
-<figure><img src="../../.gitbook/assets/claim all with -.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/claim%20all%20with%20-.png" alt=""><figcaption></figcaption></figure>

@@ -4,7 +4,7 @@ description: 如何使用 V2 永续合约交易
 
 # 我该如何使用它？
 
-![](<../../../.gitbook/assets/how-to-pancakeswap-without-cex-header (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-pancakeswap-without-cex-header%20%281%29.png)
 
 使用此功能其实非常简单（难的是交易得好）。我们只需要遵循一系列步骤，让我们的体验更加完整。如需更多信息，请访问 [V2 术语表](perpetuals-glossary.md)。
 
@@ -16,17 +16,17 @@ description: 如何使用 V2 永续合约交易
 
 你可以点击页面顶部交易对旁边的箭头来选择可交易的交易对。
 
-<figure><img src="../../../.gitbook/assets/Perp7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp7.png" alt=""><figcaption></figcaption></figure>
 
 更多可交易的交易对即将推出！
 
-<figure><img src="../../../.gitbook/assets/Perp8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp8.png" alt=""><figcaption></figcaption></figure>
 
 ### 分析图表并决定你的交易策略
 
 交易时间到了！让我们认真起来。你可以用你自己的方式，借助所有可用的工具来分析图表
 
-<figure><img src="../../../.gitbook/assets/Perp9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp9.png" alt=""><figcaption></figcaption></figure>
 
 **你知道怎么做，还是想提升你的分析能力？**
 
@@ -40,7 +40,7 @@ description: 如何使用 V2 永续合约交易
 
 然后，在右上角你会看到用于下单建仓的面板。
 
-<figure><img src="../../../.gitbook/assets/Perp1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp1.png" alt=""><figcaption></figcaption></figure>
 
 在这里你必须设置几个参数，例如：
 
@@ -48,13 +48,13 @@ _顺序不分先后_
 
 1. 做多或做空&#x20;
 
-<figure><img src="../../../.gitbook/assets/Perp2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp2.png" alt=""><figcaption></figcaption></figure>
 
 选择你想要采用的交易仓位
 
 &#x20; 2\. 杠杆倍数
 
-<figure><img src="../../../.gitbook/assets/Perp3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp3.png" alt=""><figcaption></figcaption></figure>
 
 移动小兔子来选择合适的杠杆仓位。你也可以在左侧的框中手动输入仓位。
 
@@ -62,17 +62,17 @@ _顺序不分先后_
 
 &#x20;   3\. 订单类型
 
-<figure><img src="../../../.gitbook/assets/Perp10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp10.png" alt=""><figcaption></figcaption></figure>
 
 &#x20;  4\. 设置订单规模并为你的订单设定价格（用于限价单）
 
-![](../../../.gitbook/assets/Perp3.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp3.png)
 
 你还可以选择参考货币来查看你的仓位。
 
 5. 止盈/止损与滑点
 
-<figure><img src="../../../.gitbook/assets/Perp6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp6.png" alt=""><figcaption></figcaption></figure>
 
 用户可以在开仓时设置止盈或止损价格。
 
@@ -86,18 +86,18 @@ _顺序不分先后_
 
 当所有参数都已设置好后，你可以点击开仓来提交订单
 
-![](../../../.gitbook/assets/Perp4.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp4.png)
 
 ### 查看你的仓位
 
 订单提交后，它将出现在"未成交订单"中，直到成交为止。
 
-![](../../../.gitbook/assets/Perp11.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp11.png)
 
 ### 生效！
 
 成交后，你的仓位将生效。你可以在仓位面板中看到它。你也可以查看、编辑或平仓。
 
-![](../../../.gitbook/assets/Perp5.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp5.png)
 
 祝你交易顺利！

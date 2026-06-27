@@ -1,6 +1,6 @@
 # ⛏️ Pancake Picks
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 在瞬息万变的加密世界中，要将噪音与趋势区分开来可能很困难。Pancake Picks 通过每个工作日在我们的[流动性资金池](https://pancakeswap.finance/liquidity/pools)页面上展示来自 Memecoins 和 AI Agents 等热门类别的顶级代币对来提供帮助。通过基于关键市场和社区数据来突出这些代币，Pancake Picks 让用户更容易发现最新趋势。&#x20;
 

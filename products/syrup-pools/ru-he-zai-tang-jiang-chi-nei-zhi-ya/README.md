@@ -38,7 +38,7 @@ description: 糖浆池：在 PancakeSwap 上免费赚取代币最简单的方法
 
 &#x20; 6.稍等片刻，**启用**按钮将变成**质押**。点击它来打开质押菜单。
 
-<figure><img src="../../../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
 
 &#x20; 7.输入您要质押的数量，或直接拖动兔子滑块来选择。
 

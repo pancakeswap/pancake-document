@@ -1,6 +1,6 @@
 # 如何玩彩票
 
-![](../../.gitbook/assets/how-to-lottery-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-lottery-header.png)
 
 PancakeSwap 的彩票不仅是积累 CAKE 的好方法，而且乐趣无穷！本指南将带你了解如何参与彩票。
 
@@ -16,13 +16,13 @@ PancakeSwap 的彩票不仅是积累 CAKE 的好方法，而且乐趣无穷！�
 
 ‌1. 访问 [PancakeSwap 彩票页面](https://pancakeswap.finance/lottery)，查看页面顶部。你会看到当前回合的奖池以（估计的）美元价值显示。
 
-![](<../../.gitbook/assets/image (213).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28213%29.png)
 
 这是将在所有中奖者之间分享的金额。
 
 ‌2. 在页面稍下方，你会找到当前回合开抽前的剩余时间。
 
-![](<../../.gitbook/assets/image (234).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28234%29.png)
 
 请记住，在剩余时间内很多情况都可能改变。可能会售出更多彩票。每售出一张彩票既会增加奖池，也会降低单张彩票中奖的几率。
 
@@ -42,15 +42,15 @@ PancakeSwap 的彩票不仅是积累 CAKE 的好方法，而且乐趣无穷！�
 
 1\. 在 [PancakeSwap 彩票页面](https://pancakeswap.finance/lottery)，点击页面顶部的 **Buy Tickets**（购买彩票）按钮（页面下方还有另一个）。
 
-![](<../../.gitbook/assets/image (42).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2842%29.png)
 
 在两个回合之间有一段无法购买彩票的时间。如果遇到这种情况，只需在倒计时结束后再回来查看。
 
-![](<../../.gitbook/assets/image (193).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28193%29.png)
 
 2\. 将打开一个窗口，让你选择要购买多少张彩票。在字段中输入你想购买的彩票数量。你也可以使用下方的预设按钮。
 
-![](<../../.gitbook/assets/image (86).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2886%29.png)
 
 3\. 在继续之前，值得考虑一下批量购买折扣。你购买的彩票越多，折扣就越大。
 
@@ -58,7 +58,7 @@ PancakeSwap 的彩票不仅是积累 CAKE 的好方法，而且乐趣无穷！�
 
 4\. 当你对要购买的彩票数量满意时，点击 **Confirm**（确认）并在你的钱包中确认操作。
 
-![](<../../.gitbook/assets/image (91).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2891%29.png)
 {% endtab %}
 
 {% tab title="手动彩票号码" %}
@@ -66,15 +66,15 @@ PancakeSwap 的彩票不仅是积累 CAKE 的好方法，而且乐趣无穷！�
 
 1\. 在 [PancakeSwap 彩票页面](https://pancakeswap.finance/lottery)，点击页面顶部的 **Buy Tickets**（购买彩票）按钮（页面下方还有另一个）。
 
-![](<../../.gitbook/assets/image (42).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2842%29.png)
 
 在两个回合之间有一段无法购买彩票的时间。如果遇到这种情况，只需在倒计时结束后再回来查看。
 
-![](<../../.gitbook/assets/image (193).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28193%29.png)
 
 2\. 将打开一个窗口，让你选择要购买多少张彩票。在字段中输入你想购买的彩票数量。你也可以使用下方的预设按钮。
 
-![](<../../.gitbook/assets/image (86).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2886%29.png)
 
 3\. 在继续之前，值得考虑一下批量购买折扣。你购买的彩票越多，折扣就越大。
 
@@ -82,7 +82,7 @@ PancakeSwap 的彩票不仅是积累 CAKE 的好方法，而且乐趣无穷！�
 
 4\. 要自定义彩票上的号码，点击 **View/Edit Numbers**（查看/编辑号码）按钮。
 
-![](<../../.gitbook/assets/image (81).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2881%29.png)
 
 5\. 将打开一个新窗口显示你的彩票。点击任意彩票的某个数字即可更改该位置的数字。
 
@@ -92,11 +92,11 @@ PancakeSwap 的彩票不仅是积累 CAKE 的好方法，而且乐趣无穷！�
 
 如果你创建了重复的彩票，你会收到警告。你的重复彩票有可能中奖。在这种情况下，你的彩票将分享其等级的奖池。
 
-![](<../../.gitbook/assets/image (39).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2839%29.png)
 
 6\. 当你对你的号码满意时，点击 **Confirm and buy**（确认并购买）按钮。
 
-![](<../../.gitbook/assets/image (202).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28202%29.png)
 
 在你的钱包中确认操作。
 {% endtab %}
@@ -108,11 +108,11 @@ PancakeSwap 的彩票不仅是积累 CAKE 的好方法，而且乐趣无穷！�
 
 1\. 在彩票页面的 "Next Draw"（下次抽奖）区域点击 **View Your Tickets**（查看你的彩票）。
 
-![](<../../.gitbook/assets/image (279).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28279%29.png)
 
 2\. 将打开一个窗口，显示你所有的彩票及其号码。如果你愿意，它还会提供购买更多彩票的选项。
 
-![](<../../.gitbook/assets/image (226).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28226%29.png)
 
 ## 当回合结束并抽出中奖号码时
 

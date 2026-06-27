@@ -1,6 +1,6 @@
 # 获取 Aptos Coin
 
-![](../../../.gitbook/assets/how-to-get-aptos-coins-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-get-aptos-coins-header.png)
 
 {% hint style="info" %}
 本指南涵盖了主流代币的主要 Aptos 跨链服务。如需在 Aptos 与 BNB Smart Chain 之间跨链 CAKE，请使用 [PancakeSwap Aptos Bridge](https://bridge.pancakeswap.finance/aptos)。

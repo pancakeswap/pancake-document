@@ -102,7 +102,7 @@ Gauge Boost 是一个乘数，此数字会应用在单一个 Gauge 所获得的�
 
 ### 4 - 选择 Gauges 以进行投票
 
-<figure><img src="../../../.gitbook/assets/image (363).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28363%29.png" alt=""><figcaption></figcaption></figure>
 
 要对特定的 Gauge 进行投票，请向下滚动并查找 "我的持票（My Votes）"。点击 "Add Gauges (选择 gauges)"。&#x20;
 
@@ -112,7 +112,7 @@ Gauge Boost 是一个乘数，此数字会应用在单一个 Gauge 所获得的�
 
 ## 5 - 输入我要投给各 Gauges 的 veCAKE 票数百分比
 
-<figure><img src="../../../.gitbook/assets/image (364).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28364%29.png" alt=""><figcaption></figcaption></figure>
 
 添加好 Gauges 后，您可以选择要分配多少 % 数的 veCAKE 给各个 Gauges。
 
@@ -134,7 +134,7 @@ Gauge Boost 是一个乘数，此数字会应用在单一个 Gauge 所获得的�
 
 ## 6- 更改您的投票
 
-<figure><img src="../../../.gitbook/assets/image (365).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28365%29.png" alt=""><figcaption></figcaption></figure>
 
 提交投票后，您会看到您的投票状态显示在 "当前投票（CURRENT VOTES）" 列。剩余可用于投票的 veCAKE （remaining veCAKE）数值也会更新。
 

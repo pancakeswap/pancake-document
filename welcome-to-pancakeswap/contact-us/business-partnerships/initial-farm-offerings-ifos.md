@@ -2,7 +2,7 @@
 
 如需了解有关我们代币 launchpad 发行（“[初次农场发行，即 IFO”](https://pancakeswap.finance/ifo)）的更多信息，请查看此 PDF
 
-{% file src="../../../.gitbook/assets/PancakeSwap IFO One-Pager.pdf" %}
+{% file src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/PancakeSwap%20IFO%20One-Pager.pdf" %}
 
 #### IFO 流程示例
 
@@ -28,4 +28,4 @@
 
 在这个流程的每一步，团队都会提供帮助——我们理解，对于创始人及其团队来说，TGE 极其关键，我们绝不会有任何疏漏。
 
-<figure><img src="../../../.gitbook/assets/image (1) (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29%20%284%29%20%281%29.png" alt=""><figcaption></figcaption></figure>

@@ -1,6 +1,6 @@
 # 我该如何使用？
 
-![](<../../../.gitbook/assets/how-to-pancakeswap-without-cex-header (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-pancakeswap-without-cex-header%20%281%29.png)
 
 使用此功能非常简单（难的是把交易做好）。我们只需遵循一系列步骤，即可获得完整的体验。
 
@@ -90,7 +90,7 @@ _不分先后顺序_
 
 当所有参数都设置完毕后，你可以点击 long（做多订单）或 short（做空订单）来提交订单。
 
-![](<../../../.gitbook/assets/image (114).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28114%29.png)
 
 ### 检查你的仓位
 

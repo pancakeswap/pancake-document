@@ -12,7 +12,7 @@
 
 > ⚠️ 注意：奖励和余额只有在你连接钱包后才会显示。如果显示的余额为"-"，则表示没有可领取的 CAKE / CAKE 奖励。
 
-<figure><img src="../../.gitbook/assets/no balance (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/no%20balance%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 #### 2. 查看你的余额和奖励
 
@@ -29,7 +29,7 @@
 * **Cake Pool 奖励**：旧版 CAKE Pool 奖励
 * **收入分享奖励**：通过质押 CAKE 赚取（[更多信息](https://docs.pancakeswap.finance/earn/cake-staking/revenue-sharing/earn-cake-weekly)）
 
-<figure><img src="../../.gitbook/assets/Connected view balance.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Connected%20view%20balance.png" alt=""><figcaption></figcaption></figure>
 
 #### 3. 赎回并领取
 
@@ -37,9 +37,9 @@
 
 > 📝 你需要在钱包中签名并批准交易，才能完成领取。
 
-<figure><img src="../../.gitbook/assets/Txn sent.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Txn%20sent.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/claim all.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/claim%20all.png" alt=""><figcaption></figcaption></figure>
 
 #### 4. 仔细检查是否需要多次领取
 
@@ -47,4 +47,4 @@
 
 > ✅ 为确保你已领取所有奖励，请在完成流程后检查"My Total Rewards"（我的总奖励）余额是否为"-"或 0。
 
-<figure><img src="../../.gitbook/assets/no balance (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/no%20balance%20%281%29.png" alt=""><figcaption></figcaption></figure>

@@ -1,6 +1,6 @@
 # 在 PancakeSwap 连接钱包
 
-<figure><img src="../../.gitbook/assets/wallet-connection-aptos.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/wallet-connection-aptos.png" alt=""><figcaption></figcaption></figure>
 
 1. 点击右上角的“**连接钱包**”。
 2. 对于大多数浏览器扩展钱包，只需选择它们对应的图标，然后按照弹出窗口中的说明进行操作。
@@ -18,18 +18,18 @@ Aptos 有多个网络，包括多个开发网和测试网。但要在 Aptos 链�
 
 {% tabs %}
 {% tab title="Petra" %}
-<figure><img src="../../.gitbook/assets/aptos-network-switching-petra.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/aptos-network-switching-petra.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Martian" %}
-<figure><img src="../../.gitbook/assets/aptos-network-switching-martian.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/aptos-network-switching-martian.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Pontem" %}
-<figure><img src="../../.gitbook/assets/aptos-network-switching-pontem.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/aptos-network-switching-pontem.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Fewcha" %}
-<figure><img src="../../.gitbook/assets/aptos-network-switching-fewcha.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/aptos-network-switching-fewcha.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}

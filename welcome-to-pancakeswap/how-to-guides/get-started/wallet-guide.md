@@ -1,6 +1,6 @@
 # 创建钱包
 
-![](../../../.gitbook/assets/how-to-make-a-crypto-wallet-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-make-a-crypto-wallet-header.png)
 
 要开始使用 PancakeSwap，你首先需要设置一个支持 BNB Smart Chain (BSC) 的钱包。钱包在桌面计算机和智能手机设备上都有提供。你需要选择最适合你需求的钱包。
 
@@ -43,7 +43,7 @@
 
 {% tabs %}
 {% tab title="MetaMask" %}
-![](<../../../.gitbook/assets/image (33) (3).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2833%29%20%283%29.png)
 
 MetaMask 是一款非常受欢迎的基于浏览器的钱包插件，支持 ERC20 (Ethereum 网络) 以及 BEP2 和 BEP20 (Binance Chain 和 BNB Smart Chain 网络)。
 
@@ -69,7 +69,7 @@ MetaMask 是一款非常受欢迎的基于浏览器的钱包插件，支持 ERC2
 {% endtab %}
 
 {% tab title="Coinbase Wallet" %}
-![](../../../.gitbook/assets/coinbase_wallet_wordmark_blue.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/coinbase_wallet_wordmark_blue.png)
 
 数百万用户选择 Coinbase Wallet 通过 DeFi 赚取收益、兑换超过 5,500 种资产，以及持有他们的 NFT 收藏。Coinbase wallet 支持 BEP2 和 BEP20 (Binance Chain 和 BNB Smart Chain 网络)。
 
@@ -90,7 +90,7 @@ _Coinbase Wallet 是一个自我托管钱包，提供受 Coinbase Wallet_ [_服�
 {% endtab %}
 
 {% tab title="SafePal" %}
-![SafePal is available as both a software and hardware wallet. The wallet is easy to install and create, and comes ready to support BEP2 (BNB Beacon Chain) and BEP20 (BNB Smart Chain) right away.](../../../.gitbook/assets/sfp_new_logo.webp)
+![SafePal is available as both a software and hardware wallet. The wallet is easy to install and create, and comes ready to support BEP2 (BNB Beacon Chain) and BEP20 (BNB Smart Chain) right away.](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/sfp_new_logo.webp)
 
 **优点：**
 
@@ -112,7 +112,7 @@ _Coinbase Wallet 是一个自我托管钱包，提供受 Coinbase Wallet_ [_服�
 {% endtab %}
 
 {% tab title="Trust Wallet" %}
-![](<../../../.gitbook/assets/image (67).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2867%29.png)
 
 Trust Wallet 是一款适用于智能设备的热门钱包。它支持 DApp、NFT 收藏品（支持 Opensea.io）以及钱包内质押。
 
@@ -136,7 +136,7 @@ Trust Wallet 是一款适用于智能设备的热门钱包。它支持 DApp、NF
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](<../../../.gitbook/assets/image (125) (3).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28125%29%20%283%29.png)
 
 Token Pocket 是一款加密货币管理应用，原生支持众多加密货币网络。它还提供桌面应用程序。
 
@@ -227,7 +227,7 @@ Token Pocket 让你可以同时使用桌面钱包和移动钱包。本节将介�
 
 {% tabs %}
 {% tab title="MetaMask" %}
-![](<../../../.gitbook/assets/image (33) (3).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2833%29%20%283%29.png)
 
 MetaMask 是一款非常受欢迎的基于浏览器的钱包插件，默认支持 ERC20 (Ethereum 网络)，并且稍加设置即可支持 BEP2 和 BEP20 (Binance Chain 和 BNB Smart Chain 网络)。
 
@@ -252,7 +252,7 @@ MetaMask 是一款非常受欢迎的基于浏览器的钱包插件，默认支�
 {% endtab %}
 
 {% tab title="Binance Wallet" %}
-![](<../../../.gitbook/assets/image (255).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28255%29.png)
 
 Binance Wallet 是一款浏览器插件钱包，原生支持 Binance Chain (BEP2) 和 BNB Smart Chain (BEP20) 网络。Binance Wallet 由 Binance 加密货币交易所开发。
 
@@ -277,7 +277,7 @@ Binance Wallet 是一款浏览器插件钱包，原生支持 Binance Chain (BEP2
 {% endtab %}
 
 {% tab title="Coinbase Wallet" %}
-![](../../../.gitbook/assets/coinbase_wallet_wordmark_blue.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/coinbase_wallet_wordmark_blue.png)
 
 数百万用户选择 Coinbase Wallet 通过 DeFi 赚取收益、兑换超过 5,500 种资产，以及持有他们的 NFT 收藏。Coinbase wallet 支持 ERC20 (Ethereum 网络) 以及 BEP2 和 BEP20 (Binance Chain 和 BNB Smart Chain 网络)。
 
@@ -303,7 +303,7 @@ _Coinbase Wallet 是一个自我托管钱包，提供受 Coinbase Wallet_ [_服�
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](<../../../.gitbook/assets/image (125) (3).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28125%29%20%283%29.png)
 
 Token Pocket 是一款独立应用程序，适用于 Mac OS 和 Win64 设备。Token Pocket 让你能够在独立于浏览器的软件中管理你的加密货币。
 

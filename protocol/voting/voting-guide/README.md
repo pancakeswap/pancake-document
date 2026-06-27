@@ -1,6 +1,6 @@
 # 如何投票
 
-![](../../../.gitbook/assets/how-to-voting-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-voting-header.png)
 
 参与治理投票非常简单，而且完全**免费**。你甚至无需支付 gas 费！进一步了解如何投票，关注下一个提案并投出你的一票。
 
@@ -14,7 +14,7 @@
 
 #### 阅读并选择要投票的选项
 
-![提案页面](../../../.gitbook/assets/how-to-vote-1.png)
+![提案页面](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-vote-1.png)
 
 在提案页面上，你会找到：
 
@@ -26,11 +26,11 @@
 
 仔细阅读提案，并点击你想投票的选项。
 
-![](../../../.gitbook/assets/how-to-vote-2.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-vote-2.png)
 
 #### 确认并投出你的一票
 
-![](../../../.gitbook/assets/how-to-vote-6.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-vote-6.png)
 
 确认所有详情并点击"Confirm Vote"，然后在你的钱包中确认以签署消息。&#x20;
 
@@ -42,7 +42,7 @@
 {% tab title="查看投票权" %}
 在投出你的一票之前，你会看到一个"Confirm Vote"窗口。
 
-<figure><img src="../../../.gitbook/assets/cc 2025-05-15T13_38_57.460Z.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/cc%202025-05-15T13_38_57.460Z.png" alt="" width="188"><figcaption></figcaption></figure>
 
 在此窗口中，你将能够查看以下项目：
 
@@ -55,12 +55,12 @@
 {% tab title="查看快照区块" %}
 #### 查看快照区块
 
-![](../../../.gitbook/assets/how-to-vote-3.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-vote-3.png)
 
 投票权是根据在快照区块拍摄的快照计算的。因此，在提案发布后购买或存入更多 CAKE 不会提高你在该特定提案中的投票权。
 
 如果你想知道快照区块的确切时间，只需点击区块编号，然后在 BscScan 页面上查找时间戳。
 
-![](../../../.gitbook/assets/how-to-vote-7.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-vote-7.png)
 {% endtab %}
 {% endtabs %}

@@ -1,6 +1,6 @@
 # CLAMM 期权
 
-<figure><img src="../../.gitbook/assets/image (392).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28392%29.png" alt=""><figcaption></figcaption></figure>
 
 CLAMM 期权提供了一种新颖的链上期权的交易方法，为流动性提供者提供了一个利用 PancakeSwap 上 v3 流动性的平台。这使他们既能利用 v3 流动性池的流动性，又能出售期权，这样既可以赚取经典的 AMM 交易费、还可以赚取期权溢价和额外奖励，而交易者则可以利用这种流动性购买各种代币的美式期权。
 

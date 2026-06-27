@@ -1,6 +1,6 @@
 # 如何使用预测功能
 
-<figure><img src="../../.gitbook/assets/how-to-porediction-header.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-porediction-header.png" alt=""><figcaption></figcaption></figure>
 
 使用 PancakeSwap 的预测功能可以让您测试您的预测能力，并可以靠此获得奖金。利用您对市场的认知或凭直觉来预测 BNB/USD 或 CAKE/USD 价格在未来会上涨还是下跌。如果预测成功，您将获得该轮奖池的一部分奖金！
 

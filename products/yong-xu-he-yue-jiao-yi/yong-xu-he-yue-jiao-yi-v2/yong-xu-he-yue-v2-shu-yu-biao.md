@@ -24,7 +24,7 @@
 
 用户可点击交易页面底部的 "仓位"，查看开仓头寸的详情，如开仓价等。他们可以查看开仓价、仓位数量、最新价格和强平价等详细信息。
 
-<figure><img src="../../../.gitbook/assets/image (315).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28315%29.png" alt=""><figcaption></figcaption></figure>
 
 ### 仓位模式&#x20;
 

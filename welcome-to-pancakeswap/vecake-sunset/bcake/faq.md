@@ -1,6 +1,6 @@
 # 常见问题解答
 
-![](../../../.gitbook/assets/how-bCAKE-FAQ.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-bCAKE-FAQ.png)
 
 ### bCAKE 倍数是如何计算的？
 
@@ -60,7 +60,7 @@
 ### 为什么我无法为某个仓位加成
 
 1. 农场加成器仅适用于选定的农场。未来将开放更多农场。目前，**请寻找带有绿色火箭图标的绿色 APR 数字。**\
-   ![](../../../.gitbook/assets/bCAKE-boost-tag.png)<br>
+   ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bCAKE-boost-tag.png)<br>
 2. 由于涉及多个合约，某些合约交互需要稍多一些的 gas 代币（BNB）。所以请确保你的钱包中有足够的 BNB。如果错误仍然存在，请尝试手动提高交易的 gas 上限。
 
 ### 我能获得的最大 bCAKE 加成倍数是多少？

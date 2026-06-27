@@ -1,6 +1,6 @@
 # 联盟仪表板&返佣链接
 
-<figure><img src="../.gitbook/assets/affiliate-landing-page-07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/affiliate-landing-page-07.png" alt=""><figcaption></figcaption></figure>
 
 联盟仪表板是联盟计划的总部。在这里你将能够创建和分享返佣链接，同时也能追踪和提取返佣奖励。&#x20;
 

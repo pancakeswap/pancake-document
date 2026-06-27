@@ -42,7 +42,7 @@
 
 {% tabs %}
 {% tab title="Petra" %}
-<figure><img src="../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28155%29.png" alt=""><figcaption></figcaption></figure>
 
 Petra 钱包是一个扩展程序，可让您在浏览器中探索 Aptos。
 
@@ -81,7 +81,7 @@ Martian 是一款 Aptos 链上的钱包，可让您存储、发送、接收代�
 {% endtab %}
 
 {% tab title="Pontem" %}
-<figure><img src="../.gitbook/assets/pontem-setup-desktop-banner.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/pontem-setup-desktop-banner.png" alt=""><figcaption></figcaption></figure>
 
 Pontem Wallet 是一款 Aptos 链上钱包，您可以存储、发送、接收代币并连接到 Aptos 生态系统中的 dApp。&#x20;
 
@@ -97,7 +97,7 @@ Pontem Wallet 是一款 Aptos 链上钱包，您可以存储、发送、接收�
 {% endtab %}
 
 {% tab title="Fewcha" %}
-<figure><img src="../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%282%29%20%283%29.png" alt=""><figcaption></figcaption></figure>
 
 Fewcha 是一款值得信赖的加密钱包，针对 Aptos 和 SUI 生态系统的特性进行了优化，可以方便地使用各种 web3 应用程序。
 
@@ -147,7 +147,7 @@ Fewcha 是一款值得信赖的加密钱包，针对 Aptos 和 SUI 生态系统�
 {% endtab %}
 
 {% tab title="Blocto" %}
-<figure><img src="../.gitbook/assets/image (3) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%283%29%20%283%29.png" alt=""><figcaption></figcaption></figure>
 
 Blocto 为 Dapp 使用者和资产自我管理提供了用户友好型解决方案和一体化软件包。
 
@@ -249,7 +249,7 @@ Trust Wallet 是在移动设备上颇受欢迎的钱包应用。它支持 DApps�
 {% endtab %}
 
 {% tab title="Blocto" %}
-<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%283%29%20%282%29.png" alt=""><figcaption></figcaption></figure>
 
 
 

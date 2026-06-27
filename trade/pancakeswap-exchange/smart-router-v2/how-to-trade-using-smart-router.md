@@ -25,6 +25,6 @@ Smart Router 在兑换页面上默认禁用。它的使用方式与现有的 Pan
 1. 点击兑换菜单右上角的**设置（Settings）**图标。
 2. 在出现的弹出窗口中**禁用 Smart Router（Disable Smart Router）**。
 
-![](<../../../.gitbook/assets/Screenshot 2022-11-25 at 2.02.11 PM.png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202022-11-25%20at%202.02.11%20PM.png)
 
 3\. 关闭设置页面。

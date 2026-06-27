@@ -1,6 +1,6 @@
 # 如何设置 NFT 个人资料？
 
-<figure><img src="../../.gitbook/assets/how-to-nft-profiles-header.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-nft-profiles-header.png" alt=""><figcaption></figcaption></figure>
 
 在 PancakeSwap 上创建个性化资料，与世界分享您的个性。选择一个可爱的兔子 NFT 作为您的头像，再给自己起一个独一无二的用户名，并加入一个很棒的团队！设置个人资料后，您可以与朋友分享您的 NFT 个人资料图片和成就，还可以参与独一无二的 PancakeSwap 团队活动。
 

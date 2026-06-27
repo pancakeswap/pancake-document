@@ -4,7 +4,7 @@ description: 如何“解开”任何卡在你 MetaMask 中处于待处理状态
 
 # 修复 MetaMask 上卡住的待处理交易
 
-![](../../../.gitbook/assets/how-to-fix-a-stuck-transaction-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-fix-a-stuck-transaction-header.png)
 
 如果你的交易卡在 Metamask 的待处理状态，并且“Cancel”按钮也没有帮助，你可能需要使用此方法来清除你的积压交易。
 
@@ -14,23 +14,23 @@ description: 如何“解开”任何卡在你 MetaMask 中处于待处理状态
 
 1\. 打开你的 MetaMask 插件。
 
-![](../../../.gitbook/assets/1-1-MetaMask_plugin.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-1-MetaMask_plugin.png)
 
 2\. 点击右上角彩色圆形图标，并从下拉菜单中点击 **Settings**。
 
-![](<../../../.gitbook/assets/1-2-MetaMask_settings (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-2-MetaMask_settings%20%281%29.png)
 
 3\. 在 Settings 菜单中，选择 **Advanced**。
 
-![](../../../.gitbook/assets/1-3-MetaMask_advanced.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-3-MetaMask_advanced.png)
 
 4\. 向下滚动，直到你看到 **Advanced gas controls**。将其切换为 ON。
 
-![](../../../.gitbook/assets/1-4-MetaMask_gas_control_on.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-4-MetaMask_gas_control_on.png)
 
 5\. 仍在 Advanced 设置中，继续滚动，直到你看到 **Customize transaction nonce**。将其切换为 ON。
 
-![](../../../.gitbook/assets/1-4-MetaMask_gas_control_on.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-4-MetaMask_gas_control_on.png)
 
 ### **2. 找到你卡住的交易**
 
@@ -52,11 +52,11 @@ description: 如何“解开”任何卡在你 MetaMask 中处于待处理状态
 
 现在我们要创建一笔新交易来替换卡住的那笔。我们将自定义 Nonce 数字，使其与你刚刚记下的那个相同。
 
-![](<../../../.gitbook/assets/image (176).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28176%29.png)
 
 8\. 创建一笔新交易来替换你卡住的交易。这一次，提高 **Transaction Fee**。这里我们将它从 9 提高到了 20。这将使你的交易更有可能被添加到区块中。
 
-![](<../../../.gitbook/assets/image (34).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2834%29.png)
 
 9\. 在确认页面上，确保你的 Gas Price 现在是你新设定的更高金额。
 

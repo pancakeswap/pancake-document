@@ -1,6 +1,6 @@
 # 智能路由 (V2)
 
-<figure><img src="../../../.gitbook/assets/Smart Router.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Smart%20Router.png" alt=""><figcaption></figcaption></figure>
 
 PancakeSwap 智能路由是一种连接 BNB 链上的 AMM 和稳定币兑换，以及以太链上的 AMM 和做市商的路由算法，其目的是为用户提供更好的流动性和价格。它使用一种智能订单路由算法，在多个资金池中执行交易，为交易者找到最佳价格。想要了解关于 StableSwap 的更多信息，请点击[此处](../wen-ding-bi-dui-huan/)。关于做市商整合的更多信息，请点击[此处](../market-maker-integration.md)。&#x20;
 

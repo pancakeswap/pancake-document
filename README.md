@@ -1,6 +1,6 @@
 # 产品概览
 
-![](.gitbook/assets/intro-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/intro-header.png)
 
 {% hint style="success" %}
 **PancakeSwap 通过三种方式帮助你充分发挥加密资产的价值：**

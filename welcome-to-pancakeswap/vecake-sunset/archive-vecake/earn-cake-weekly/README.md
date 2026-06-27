@@ -1,6 +1,6 @@
 # 每周赚取 CAKE
 
-<figure><img src="../../../../.gitbook/assets/image (354).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28354%29.png" alt=""><figcaption></figcaption></figure>
 
 持有 veCAKE 会自动让你加入我们的两个每周 CAKE 奖励池。两者都将以 CAKE 分发奖励。其中一个分发来自每周收入分享的奖励；另一个则取代旧版 CAKE 质押池，分发基于排放的 CAKE 奖励。
 
@@ -8,7 +8,7 @@
 
 ### 1 - 获得资格 <a href="#id-8b63b3dd-b974-4e1b-9c5e-ed8eea2891ab" id="id-8b63b3dd-b974-4e1b-9c5e-ed8eea2891ab"></a>
 
-<figure><img src="../../../../.gitbook/assets/image (355).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28355%29.png" alt=""><figcaption></figcaption></figure>
 
 要获得资格，你必须拥有一个有效的 veCAKE 质押仓位。
 
@@ -21,7 +21,7 @@
 
 ### 2 - 查看你的奖励
 
-<figure><img src="../../../../.gitbook/assets/image (356).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28356%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
 前往 CAKE 质押页面，向下滚动，在"Benefits of veCAKE"下方找到"Earn CAKE"部分。
 
@@ -42,7 +42,7 @@
 
 在你开始锁定或将仓位迁移到 veCAKE 之后，你的份额将在下一次每周分发时更新。你将开始根据你在整个池中所占的份额数量累积奖励。
 
-<figure><img src="../../../../.gitbook/assets/image (357).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28357%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
 在一整个日历周过去、池在星期四到达下一次每周分发之后，你现在可以回到好处面板并点击"Claim All"按钮，领取上一周期的奖励。
 

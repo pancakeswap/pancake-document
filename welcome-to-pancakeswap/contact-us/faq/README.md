@@ -1,6 +1,6 @@
 # 常见问题解答
 
-![](<../../../.gitbook/assets/general-faq-header (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/general-faq-header%20%281%29.png)
 
 本常见问题解答页面回答了一些 PancakeSwap 社区中较为常见的问题。
 

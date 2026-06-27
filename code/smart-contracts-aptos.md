@@ -32,4 +32,4 @@ PancakesSwap on Aptos! We have landed on Aptos and will continuously deploy more
 
 OtterSec's PancakeSwap CAKE OFT audit:
 
-{% file src="../.gitbook/assets/PancakeSwap-OFT-Audit-OtterSec.pdf" %}
+{% file src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/PancakeSwap-OFT-Audit-OtterSec.pdf" %}

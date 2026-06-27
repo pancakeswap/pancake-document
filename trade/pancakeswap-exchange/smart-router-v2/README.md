@@ -4,7 +4,7 @@ hidden: true
 
 # Smart Router (V2)
 
-<figure><img src="../../../.gitbook/assets/Smart Router.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Smart%20Router.png" alt=""><figcaption></figcaption></figure>
 
 PancakeSwap Smart Router 是一种路由算法，它连接 AMM 和 StableSwap（BNB Chain）以及 AMM 和 Market Maker（Ethereum），以提供更好的流动性和定价。它使用一种智能订单路由算法，跨多个池执行交易，为交易者找到最优价格。有关 StableSwap 的更多信息，[请点击此处](/broken/pages/nNPogTZMxocdyFIBYbkE)；有关 Market Maker 集成，[请点击此处](../market-maker-integration.md)。
 

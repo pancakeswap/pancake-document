@@ -4,7 +4,7 @@ description: FAQ
 
 # 交易返利 FAQ
 
-<figure><img src="../../.gitbook/assets/faq-tradingreward.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/faq-tradingreward.png" alt=""><figcaption></figcaption></figure>
 
 ## 常见问题
 
@@ -53,7 +53,7 @@ description: FAQ
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%284%29%20%281%29%20%281%29%20%281%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
 </div>
 

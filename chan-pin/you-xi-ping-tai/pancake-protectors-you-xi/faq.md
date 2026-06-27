@@ -1,6 +1,6 @@
 # FAQ
 
-<figure><img src="../../../.gitbook/assets/logo (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/logo%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 **问：游戏中 Pancake Bunnies 和 Squads 的作用是什么？**
 

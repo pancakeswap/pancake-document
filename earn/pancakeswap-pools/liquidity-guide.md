@@ -1,6 +1,6 @@
 # 如何添加/移除流动性（EVM）
 
-![](../../.gitbook/assets/how-to-add-remove-liquidity-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-add-remove-liquidity-header.png)
 
 “流动性”是 PancakeSwap 交易所运作的核心。您可以通过在流动性页面质押交易对中的两种代币来为任何代币对添加流动性。
 
@@ -18,7 +18,7 @@
 
 1 - 访问[流动性](https://pancakeswap.finance/liquidity)页面。
 
-<figure><img src="../../.gitbook/assets/image (243).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28243%29.png" alt=""><figcaption></figcaption></figure>
 
 2 - 点击“Add Liquidity”（添加流动性）按钮。
 
@@ -26,7 +26,7 @@
 
 3 - 使用左上角的输入框，选择您想要添加流动性的交易对中的两种代币。这里，我们以 ETH 和 USDC 为例。
 
-![](<../../.gitbook/assets/image (126).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28126%29.png)
 
 
 
@@ -36,7 +36,7 @@
 
 5 - 您可以通过查找“V3 LP - x% fee tier”（V3 LP - x% 手续费等级）显示，来确认您所提供流动性的资金池版本及手续费等级。
 
-![](<../../.gitbook/assets/image (43).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2843%29.png)
 
 * 如果您想自定义手续费等级，请点击“More”（更多），然后选择所需的手续费等级。
 * 请注意，始终建议向最热门的手续费等级提供流动性。
@@ -45,7 +45,7 @@
 
 6 - 您可以在右侧的显示中查看并确认价格区间。
 
-![](<../../.gitbook/assets/image (22).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2822%29.png)
 
 * 图表显示了所有价格区间内的流动性水平。您可以使用放大镜按钮进行缩放。您可以通过拖动底部的 x 轴来平移和浏览图表。
 * 如果您想自定义价格区间，只需拖动手柄、点击两个价格旁的 + 和 - 按钮，或点击两个价格数字并手动输入。
@@ -55,25 +55,25 @@
 
 7 - 在“Deposit Amount”（存入金额）下为其中一种代币输入金额。另一种代币应会自动计算并填充。如果其中一种代币余额不足，您将看到错误提示，且按钮将变灰。请输入较低的金额以继续，或使用“MAX”（最大）按钮填入最大可用金额。
 
-![](<../../.gitbook/assets/image (47).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2847%29.png)
 
 
 
 8 - 点击“Enable USDC”（启用 USDC）按钮。如果您添加流动性的代币对中不包含 ETH，您可能需要为交易对中的每种代币点击两次启用。您的钱包将要求您确认该操作。
 
-![](<../../.gitbook/assets/image (98).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2898%29.png)
 
 
 
 9 - 此时“Add”（添加）按钮将亮起。点击以继续。
 
-![](<../../.gitbook/assets/image (26).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2826%29.png)
 
 
 
 10 - 将弹出一个新窗口以预览您的流动性头寸。如果一切看起来无误，再次点击“Add”（添加）以继续。
 
-![](<../../.gitbook/assets/image (38).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2838%29.png)
 
 
 
@@ -83,7 +83,7 @@
 
 12 - 不久之后，您将在“My Liquidity”（我的流动性）页面上看到您的新流动性头寸。您可以通过点击该头寸来查看其详情。
 
-<figure><img src="../../.gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28211%29.png" alt=""><figcaption></figcaption></figure>
 
 ### **移除流动性**
 
@@ -91,19 +91,19 @@
 
 1 - 访问[流动性](https://pancakeswap.finance/liquidity)页&#x9762;**。**
 
-<figure><img src="../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28191%29.png" alt=""><figcaption></figcaption></figure>
 
 
 
 2 - 在“Your Liquidity”（您的流动性）下点击您想要移除流动性的头寸。您可以使用筛选器快速查看所有 V3 流动性头寸。
 
-![](<../../.gitbook/assets/image (251).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28251%29.png)
 
 
 
 3 - 点击“Remove”（移除）。将出现一个新窗口。
 
-![](<../../.gitbook/assets/image (286).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28286%29.png)
 
 
 

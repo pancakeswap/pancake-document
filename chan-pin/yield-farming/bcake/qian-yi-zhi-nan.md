@@ -32,7 +32,7 @@ description: 迁移您的 V2、StableSwap 或仓位管理器流动性，以享�
 
 ### 将您的 LP 重新质押到新合约
 
-<figure><img src="../../../.gitbook/assets/image (362).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28362%29.png" alt=""><figcaption></figcaption></figure>
 
 在第二步，您将看到一个完整的列表，条列出了可重新质押入农场的 v2、StableSwap 仓位，及仓位管理器的仓位。
 

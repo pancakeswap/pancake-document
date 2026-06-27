@@ -18,7 +18,7 @@ description: '"别把它称作路线图"'
 
 出于安全和保密的考虑，有些项目不包括在 “烹饪中 ”部分。
 
-<figure><img src=".gitbook/assets/image (393).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28393%29.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 出于安全和保密的考虑，某些项目未包含在 "烹饪中" 部分中。

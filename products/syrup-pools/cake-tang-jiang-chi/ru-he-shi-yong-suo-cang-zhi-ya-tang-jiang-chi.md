@@ -16,13 +16,13 @@
 
 5.**启用**按钮现在应该替换为**灵活**和**锁定**。单击按钮以调出质押菜单。
 
-<figure><img src="../../../.gitbook/assets/Stake - before enable.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Stake%20-%20before%20enable.png" alt=""><figcaption></figcaption></figure>
 
 6.对于锁仓质押，只需按下 **Locked（已锁定）**，这将显示一个新窗口，输入您想要质押的 CAKE 数量以及您想要锁定 CAKE 多长时间。
 
 在此下方，您将找到您的质押细节，包括收益率、锁定持续时间以及解锁日期和时间。 仔细检查以确保您对锁定持续时间和质押金额没有问题，单击**确认**并确认您钱包中的交易。
 
-<figure><img src="../../../.gitbook/assets/first time lock.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/first%20time%20lock.png" alt=""><figcaption></figcaption></figure>
 
 请注意，我们仍在完善我们的前端显示界面，包括解锁时间的精确度细化，如有需要可能会考虑添加倒计时设计。
 

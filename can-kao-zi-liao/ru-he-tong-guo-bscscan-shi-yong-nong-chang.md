@@ -1,6 +1,6 @@
 # 如何通过BscScan使用农场
 
-<figure><img src="../.gitbook/assets/how-to-yield-farms-bscscan-header.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-yield-farms-bscscan-header.png" alt=""><figcaption></figcaption></figure>
 
 由于它需要几个步骤，因此通过 Bscscan 调用农场合约乍一看似乎令人生畏。本指南将引导您直接通过 BscScan 调用农场合约。
 
@@ -15,7 +15,7 @@
 1. 在 GitHub 上打开 PancakeSwap 网站的 Farms 代码。&#x20;
 2. Control/command + F 并通过代码（不是项目名称）搜索您的代币对。 例如，'CAKE-BUSD'。
 
-<figure><img src="../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28118%29.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -78,7 +78,7 @@
 
 3.在 function 1“Approve”下，您会看到“spender:address”。 粘贴您之前复制到剪贴板的主质押合约的合约地址。
 
-<figure><img src="../.gitbook/assets/image (5) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%285%29%20%283%29.png" alt=""><figcaption></figcaption></figure>
 
 4\. 您还需要批准合约可以使用的 LP 代币数量。 在 Value 字段中，您需要输入以 Wei 为单位的数值。 您可以使用 BscScan 单位转换器轻松将您的数值更改为 Wei。 在这里，我们将使用 5 个 CAKE-BUSD LP 代币。
 
@@ -132,7 +132,7 @@
 
 3.一直向下滚动到 function 15，“withdraw”，然后在“\_pid”字段中输入您的 PID。
 
-<figure><img src="../.gitbook/assets/image (9) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%289%29%20%282%29.png" alt=""><figcaption></figcaption></figure>
 
 如果您之前没有复制您的 PID，您可以在此页面上方的"**Finding Farm process identifier"** **查找农场进程标识符**部分中了解如何获取它。
 

@@ -2,7 +2,7 @@
 
 想要了解有关厨房的流动性耕种计划（“[糖浆池](https://pancakeswap.finance/pools)和[农场](https://pancakeswap.finance/farms)”）的更多信息，请查看此 PDF：
 
-{% file src="../../.gitbook/assets/PancakeSwap Syrup Pools & Farms One-Pager (1).pdf" %}
+{% file src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/PancakeSwap%20Syrup%20Pools%20%26%20Farms%20One-Pager%20%281%29.pdf" %}
 
 ### 糖浆池/农场申请流程示例&#x20;
 
@@ -21,7 +21,7 @@
 5. 发布后&#x20;
    * 我们将继续保持联系，并且在任何可能的情景下携手共进
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2813%29.png" alt=""><figcaption></figcaption></figure>
 
 ###
 

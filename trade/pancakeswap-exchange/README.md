@@ -1,6 +1,6 @@
 # 🔄 Exchange
 
-![](../../.gitbook/assets/pancakeswap-exchange-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/pancakeswap-exchange-header.png)
 
 PancakeSwap 是一个自动做市商（AMM），而 Exchange 是 PancakeSwap 的核心。PancakeSwap 是 BNB Smart Chain 上领先的 AMM，并且正如数据所示，是有史以来最受欢迎的去中心化交易所（DEX）！
 

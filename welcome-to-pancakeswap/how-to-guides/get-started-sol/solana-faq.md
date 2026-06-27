@@ -43,25 +43,25 @@
 
 * 在池创建界面中，打开代币选择器。
 
-<figure><img src="../../../.gitbook/assets/image (410).png" alt="" width="248"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28410%29.png" alt="" width="248"><figcaption></figcaption></figure>
 
 * 将代币的地址粘贴到搜索栏中。
 
-<figure><img src="../../../.gitbook/assets/image (411).png" alt="" width="247"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28411%29.png" alt="" width="247"><figcaption></figcaption></figure>
 
 * 点击 **"Add Token"**。
 
-<figure><img src="../../../.gitbook/assets/image (414).png" alt="" width="251"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28414%29.png" alt="" width="251"><figcaption></figcaption></figure>
 
 * 该代币现在将可在列表中搜索到。
 
-<figure><img src="../../../.gitbook/assets/image (412).png" alt="" width="249"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28412%29.png" alt="" width="249"><figcaption></figcaption></figure>
 
 * 要管理代币：
   * 点击 **"View Token List"**。
   *   开启或关闭不同的列表，包括 **User Added Token List**（用户添加的代币列表），其中包含任何手动添加的代币。
 
-      <figure><img src="../../../.gitbook/assets/image (413).png" alt="" width="247"><figcaption></figcaption></figure>
+      <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28413%29.png" alt="" width="247"><figcaption></figcaption></figure>
 
 #### 6. 为什么我在 Solana 上的第一笔交易似乎更贵？
 

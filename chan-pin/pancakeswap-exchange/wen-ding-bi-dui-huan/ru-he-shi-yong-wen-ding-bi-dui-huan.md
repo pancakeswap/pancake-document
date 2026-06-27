@@ -1,6 +1,6 @@
 # 如何使用稳定币兑换
 
-<figure><img src="../../../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28199%29.png" alt=""><figcaption></figcaption></figure>
 
 ## 通过稳定币兑换 (StableSwap) 进行交易&#x20;
 

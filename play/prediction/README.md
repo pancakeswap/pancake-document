@@ -1,6 +1,6 @@
 # 🔮 预测
 
-![](../../.gitbook/assets/prediction-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/prediction-header.png)
 
 PancakeSwap 预测是一个有趣而简单的去中心化预测市场。
 

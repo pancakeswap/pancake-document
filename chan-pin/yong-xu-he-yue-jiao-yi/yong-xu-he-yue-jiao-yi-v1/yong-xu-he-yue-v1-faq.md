@@ -4,7 +4,7 @@ description: FAQ
 
 # 永续合约 V1 FAQ
 
-<figure><img src="../../../.gitbook/assets/general-faq-header.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/general-faq-header.png" alt=""><figcaption></figcaption></figure>
 
 ### 这新功能对 CAKE 持有者的价值贡献是什么？&#x20;
 

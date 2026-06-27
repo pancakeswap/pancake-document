@@ -1,6 +1,6 @@
 # 获取 Aptos 代币
 
-<figure><img src="../.gitbook/assets/how-to-get-bep20-tokens-header.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-get-bep20-tokens-header.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 本指南涵盖了适合主流代币使用的 Aptos 跨链服务。要在 Aptos 链和 BNB 智能链之间和来回跨链 CAKE，请使用 [PancakeSwap Aptos 跨链桥](https://bridge.pancakeswap.finance/stargate)。

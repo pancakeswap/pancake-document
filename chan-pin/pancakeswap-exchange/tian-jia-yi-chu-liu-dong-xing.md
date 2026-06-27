@@ -1,6 +1,6 @@
 # 添加/移除流动性
 
-<figure><img src="../../.gitbook/assets/how-to-add-remove-liquidity-header.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-add-remove-liquidity-header.png" alt=""><figcaption></figcaption></figure>
 
 "流动性" 是 PancakeSwap 去中心化交易所的运作核心。您可以在流动性页面为任意代币对添加流动性。
 

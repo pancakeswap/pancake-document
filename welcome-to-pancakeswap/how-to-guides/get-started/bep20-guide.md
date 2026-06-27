@@ -1,6 +1,6 @@
 # 获取 BEP20 代币
 
-![](../../../.gitbook/assets/how-to-get-bep20-tokens-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-get-bep20-tokens-header.png)
 
 BNB Smart Chain (BSC) 的原生代币是 **BEP20**。
 
@@ -12,7 +12,7 @@ BNB Smart Chain (BSC) 的原生代币是 **BEP20**。
 
 {% tabs %}
 {% tab title="🥞🌉 Pancake Bridge" %}
-![](<../../../.gitbook/assets/image (168).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28168%29.png)
 
 [**PancakeSwap Bridge**](http://bridge.pancakeswap.finance) — 一个由 Stargate 提供支持的原生资产跨链桥。
 

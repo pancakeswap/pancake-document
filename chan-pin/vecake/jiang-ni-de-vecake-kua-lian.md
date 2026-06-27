@@ -1,12 +1,12 @@
 # 将你的 veCAKE 跨链
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%283%29%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 要在其他链上享受 veCAKE 的好处，如 bCAKE（提高农场产量）和 iCAKE（IFO 公开销售分配）。您需要在 BNB Chain 上执行一个简单的跨链请求，以便将您的 veCAKE 余额和 Pancake 个人资料同步到其他链。
 
 ## 如何操作？
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29%20%281%29%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 进入 [CAKE staking 页面](https://pancakeswap.finance/cake-staking)，在 veCAKE 福利下找到 veCAKE 同步选项卡。点击 "查看详情 "打开同步模式。
 
@@ -34,7 +34,7 @@
 
 ### 问: 跨链需要多久完成？
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" width="253"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%283%29%20%281%29%20%281%29.png" alt="" width="253"><figcaption></figcaption></figure>
 
 取决于目标链。跨链和完全同步通常需要 2-5 分钟。对于一些速度较慢的链，可能需要 30 分钟。要跟踪您的跨链请求，请查看 LayerZero 浏览器链接的同步模式。或者访问 [https://layerzeroscan.com/](https://layerzeroscan.com/)，通过 BNB 链 tx id 进行搜索。
 

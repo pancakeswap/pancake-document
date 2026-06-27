@@ -2,7 +2,7 @@
 
 如需了解有关我们代币分发计划（“[糖浆池](https://pancakeswap.finance/pools)”）的更多信息，请查看此 PDF：
 
-{% file src="../../../.gitbook/assets/PancakeSwap Syrup Pool One-Pager.pdf" %}
+{% file src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/PancakeSwap%20Syrup%20Pool%20One-Pager.pdf" %}
 
 #### 糖浆池流程示例
 
@@ -19,7 +19,7 @@
 5. 发布后
    * 我们会继续保持联系，并尽可能地开展合作
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (417).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28417%29.png" alt=""><figcaption></figcaption></figure></div>
 
 
 

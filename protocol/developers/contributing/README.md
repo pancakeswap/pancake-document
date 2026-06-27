@@ -4,7 +4,7 @@ description: 感谢你对为 PancakeSwap 做出贡献表现出的兴趣！
 
 # 贡献指南
 
-![](../../../.gitbook/assets/developers-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/developers-header.png)
 
 PancakeSwap 是一个开源项目。如果你想为该项目做出贡献，本节内容将引导你完成与 PancakeSwap 团队合作的第一步 🥞
 

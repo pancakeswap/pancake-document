@@ -1,6 +1,6 @@
 # 厨房团队
 
-![](../../../.gitbook/assets/the-kitchen-team-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/the-kitchen-team-header.png)
 
 点击大厨的名字即可跳转到对应的厨房访谈文章。
 

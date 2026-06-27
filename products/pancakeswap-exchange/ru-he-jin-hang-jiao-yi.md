@@ -1,6 +1,6 @@
 # 如何进行交易
 
-![](../../.gitbook/assets/how-to-trade-on-pancakeswap-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-trade-on-pancakeswap-header.png)
 
 与其他大多数交易平台相比，在PancakeSwap 上交易十分。您不需要看一堆的图标以及行话才能进行交易，交易路径和复杂的计算都由 PancakeSwap 智能路由为你处理。
 

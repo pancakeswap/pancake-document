@@ -1,6 +1,6 @@
 # bCAKE FAQ
 
-<figure><img src="../../../.gitbook/assets/how-bCAKE-FAQ.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-bCAKE-FAQ.png" alt=""><figcaption></figcaption></figure>
 
 ### bCAKE 对农场的助推倍数如何计算？
 
@@ -63,7 +63,7 @@
 
 1. 农场助推器仅适用于特定的农场。未来将支持更多农场。现在请在界面上查找 APR 旁边带有绿色火箭图标的的农场。
 
-<figure><img src="../../../.gitbook/assets/bCAKE-boost-tag.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bCAKE-boost-tag.png" alt=""><figcaption></figcaption></figure>
 
 2\. 由于涉及多个合约，一些合约交互需要稍微多一点的 gas 代币（BNB）。所以请确保钱包里有足够的 BNB。如果错误仍然存在，请尝试手动增加的 gas 限额。
 

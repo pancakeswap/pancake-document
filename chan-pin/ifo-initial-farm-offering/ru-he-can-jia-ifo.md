@@ -1,6 +1,6 @@
 # 如何参加 IFO
 
-<figure><img src="../../.gitbook/assets/how-to-enter-an-ifo-header.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-enter-an-ifo-header.png" alt=""><figcaption></figcaption></figure>
 
 PancakeSwap 上的 IFO 是初次农场发行。参与 IFO 让您可以第一时间持有即将添加在 PancakeSwap 农场和糖浆池的新代币。 通过成为第一批拥有新代币的人，您有机会获得更高的奖励！
 
@@ -170,7 +170,7 @@ IFO 结束后，您将能够收集您的新代币。 您将获得多少代币取
 
 **有代币分期释放机制的 IFO**
 
-<div align="left"><figure><img src="../../.gitbook/assets/image7.png" alt="" width="321"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image7.png" alt="" width="321"><figcaption></figcaption></figure></div>
 
 &#x20;IFO 销售活动结束后，IFO 页面将出现一个**代币分期释放**区域（Token Vesting）。在此区域您可以找到此代币分期释放的整个时间表以及信息，包括但不仅限于：
 

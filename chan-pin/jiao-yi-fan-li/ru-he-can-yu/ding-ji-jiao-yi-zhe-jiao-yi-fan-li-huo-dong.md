@@ -9,7 +9,7 @@
 * 直接在[交易返利页面](https://pancakeswap.finance/trading-reward/top-traders)上查看&#x20;
 * 查看 [PancakeSwap 首页](https://pancakeswap.finance/)上的活动横幅
 
-<figure><img src="../../../.gitbook/assets/rebate-homepage.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/rebate-homepage.png" alt=""><figcaption></figcaption></figure>
 
 * 从[兑换页面](https://pancakeswap.finance/swap?showTradingReward=true)的 "热门代币" 列表中寻找💝图标。或者使用筛选功能来查看有交易返利的代币对。
 
@@ -32,15 +32,15 @@
 
 您可以在[交易返利](https://pancakeswap.finance/trading-reward/top-traders)页面查看您所积累的返利金额。
 
-![](<../../../.gitbook/assets/image (27).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2827%29.png)
 
 此外，您可以查看 "返利明细（Rewards Breakdown）" 部分，详细查看您交易过的每一个代币对。
 
-<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2828%29.png" alt=""><figcaption></figcaption></figure>
 
 关于活动细节，如返利百分比、结束时间或可以赢得返利的排名名次，请查看 "当前返利池" 部分。
 
-<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2829%29.png" alt=""><figcaption></figcaption></figure>
 
 ### 查看您的排名&#x20;
 
@@ -48,7 +48,7 @@
 
 要查看您的排名，看看您目前是否有资格领取返利，请查看[交易返利页面](https://pancakeswap.finance/trading-reward)。
 
-![](<../../../.gitbook/assets/image (31).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2831%29.png)
 
 如果您的排名不够高，会有一个弹窗通知您赢得这个活动的最低排名和当前活动的结束时间。&#x20;
 
@@ -56,7 +56,7 @@
 
 ### 领取您的返利
 
-![](<../../../.gitbook/assets/image (32).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2832%29.png)
 
 当一个活动结束后，您可能需要等待 72小时，因为数据正在被统计，奖励正在被注入。&#x20;
 

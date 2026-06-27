@@ -18,7 +18,7 @@ description: 在PancakeSwap上使用农场非常简单！
 
 ### 做好准备工作
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (70).png" alt="" width="347"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2870%29.png" alt="" width="347"><figcaption></figcaption></figure></div>
 
 你将需要一个流动性仓位用以质押进农场。农场只能质押来自对应的代币对的流动性仓位，并要选择确切的手续费级别；例如，CAKE-BNB 0.25%农场只接受 0.25% 手续费级别的 CAKE-BNB 流动性仓位质押。它不接受：&#x20;
 
@@ -29,7 +29,7 @@ description: 在PancakeSwap上使用农场非常简单！
 
 ### 找到想要质押的农场
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28124%29.png" alt=""><figcaption></figcaption></figure></div>
 
 首先，你要选择一个想要参与的农场。访问[农场页面](https://pancakeswap.finance/farms)，查看可参与的农场列表。&#x20;
 
@@ -51,17 +51,17 @@ description: 在PancakeSwap上使用农场非常简单！
 
 ### 将你的流动性仓位质押到农场
 
-![](<../../../.gitbook/assets/image (80).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2880%29.png)
 
 完成流动性添加后。你可以看到你的仓位将在你想使用的农场下列出。&#x20;
 
 如果你有多个仓位，你可以点击 "查看全部"，并在新的弹出窗口中查看它们。
 
-![](<../../../.gitbook/assets/image (235).png>)![](<../../../.gitbook/assets/image (183).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28235%29.png)![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28183%29.png)
 
 在列出的仓位上点击 "质押"，你的钱包弹出提示供你确认。
 
-![](<../../../.gitbook/assets/image (232).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28232%29.png)
 
 短暂的等待后，窗口将关闭，你将在详情中看到你的质押仓位细节。
 
@@ -77,7 +77,7 @@ description: 在PancakeSwap上使用农场非常简单！
 
 如果你有多个已经质押仓位，你可以点击 "查看全部"，并在新的弹出窗口中查看它们。
 
-![](<../../../.gitbook/assets/image (218).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28218%29.png)
 
 点击对应流动性仓位旁边的 "收割"，之后你的钱包弹出提示供你确认。等待区块确认后，CAKE 奖励将被发送到你的钱包。
 
@@ -89,7 +89,7 @@ description: 在PancakeSwap上使用农场非常简单！
 
 你只需回到农场页面，找到你想调整的农场和对应仓位。你可以使用 "仅限已质押" 的功能键来快速筛选你当前质押的农场。&#x20;
 
-![](<../../../.gitbook/assets/image (71).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2871%29.png)
 
 点击带有代币对、费率、仓位 ID 等信息和 ">" 箭头的仓位标题。你将可以看到对应仓位的详细信息页面。 只需通过 "添加" 或 "移除" 按钮来调整所质押仓位的流动性设置。&#x20;
 
@@ -160,7 +160,7 @@ description: 在PancakeSwap上使用农场非常简单！
 {% hint style="info" %}
 当你在 BNB 链以外的 EVM 区块链上质押挖矿时。你需要等待约 30 分钟待跨链讯息传递完毕。
 
-![](<../../../.gitbook/assets/image (37).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2837%29.png)
 
 若要查看你的进程，可以点击余额右侧的转圈图标（circular icon），或点击右上角的「最近的交易（Recent Transaction）」。
 {% endhint %}
@@ -214,7 +214,7 @@ description: 在PancakeSwap上使用农场非常简单！
 当你在 BNB 链以外的 EVM 区块链上使用跨链农场时，你将需切换到 BNB 智能链来收割您的农场奖励。\
 如果你的钱包不支持多链之间的切换，操作质押或取消质押 LP 代币将自动收割你的 CAKE。请注意，收割的 CAKE 将在 BNB 智能链上分发。
 
-![](<../../../.gitbook/assets/image (276).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28276%29.png)
 {% endhint %}
 
 ## 我应该多久收割一次我的奖励？
@@ -223,7 +223,7 @@ description: 在PancakeSwap上使用农场非常简单！
 
 点击 **收割** 后，确认时，你可以在钱包中看到此费用。
 
-<figure><img src="../../../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29%20%283%29.png" alt=""><figcaption></figcaption></figure>
 
 以上显示了 MetaMask 钱包中出现的收割费用。不同的钱包会以不同的方式显示信息。可以考虑让你的奖励累积一段时间，这样你支付 gas 费用的频率就会降低。&#x20;
 

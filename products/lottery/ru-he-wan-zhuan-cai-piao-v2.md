@@ -1,6 +1,6 @@
 # 如何玩转彩票v2
 
-<figure><img src="../../.gitbook/assets/how-to-lottery-header.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-lottery-header.png" alt=""><figcaption></figcaption></figure>
 
 PancakeSwap 的彩票系统不仅是赚取成堆的 CAKE 的好方法，而且还非常有趣！ 本指南将引导您如何参与彩票。
 

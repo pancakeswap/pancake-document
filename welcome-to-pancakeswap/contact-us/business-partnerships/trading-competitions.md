@@ -24,4 +24,4 @@ _一些此前参与过的项目，其交易量和活跃交易地址增长了 3 �
 5. 发布后
    * 我们会保持联系，并探索未来合作的机会
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (438).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28438%29.png" alt=""><figcaption></figcaption></figure></div>

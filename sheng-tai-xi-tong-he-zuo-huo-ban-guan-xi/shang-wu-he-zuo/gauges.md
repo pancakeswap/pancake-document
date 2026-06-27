@@ -2,7 +2,7 @@
 
 如需从项目方角度了解有关 veCAKE 和 gauge 的更多信息，请查看此 PDF 文件：
 
-{% file src="../../.gitbook/assets/PancakeSwap veCAKE.pdf" %}
+{% file src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/PancakeSwap%20veCAKE.pdf" %}
 
 简单来说，从项目方的角度来看，有两种方法可以激励 PancakeSwap 上的流动性：&#x20;
 

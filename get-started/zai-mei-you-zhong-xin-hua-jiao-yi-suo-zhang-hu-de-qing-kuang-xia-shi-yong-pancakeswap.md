@@ -4,7 +4,7 @@ description: 您无需拥有 Binance、Coinbase、Kraken、Huobi、OKEx 或任�
 
 # 在没有中心化交易所账户的情况下使用PancakeSwap
 
-![](../.gitbook/assets/how-to-pancakeswap-without-cex-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-pancakeswap-without-cex-header.png)
 
 PancakeSwap 是一个去中心化的应用程序。这着，与 Binance 或其他中心化平台不同，您无需注册帐户即可使用它……您只需要一个加密钱包。那么如何在不使用中心化交易所的情况下将加密货币放到 PancakeSwap 上呢？
 
@@ -18,7 +18,7 @@ PancakeSwap 是一个去中心化的应用程序。这着，与 Binance 或其�
 
 {% tabs %}
 {% tab title="🥞🌉Pancakeswap 跨链桥" %}
-<figure><img src="../.gitbook/assets/image (261).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28261%29.png" alt=""><figcaption></figcaption></figure>
 
 [**PancakeSwap 跨链桥**](http://bridge.pancakeswap.finance/) —— 原生资产跨链桥，由 Stargate 提供支持。
 
@@ -36,7 +36,7 @@ PancakeSwap 是一个去中心化的应用程序。这着，与 Binance 或其�
 4. 连接您的钱包并将您的网络切换到 Polygon (MATIC) 主网。&#x20;
 5. 选择 MATIC 主网上的 USDT 为“From”，选择 BSC 主网上的 USDT 为“To”。 然后输入您要转账的 USDT 金额。
 
-![](<../.gitbook/assets/image (44).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2844%29.png)
 
 6\. 点击“授权 USDT” 以授权您的 USDT。&#x20;
 
@@ -57,15 +57,15 @@ PancakeSwap 是一个去中心化的应用程序。这着，与 Binance 或其�
 3. &#x20;由于 O3 Hub 仅支持 MetaMask 和 O3 Wallet。 如果您正在使用其他钱包应用程序，我们建议您将钱包导入 MetaMask。&#x20;
 4. 前往 https://o3swap.com/hub ，连接您的 ETH 和 BSC 的 MetaMask 或 O3 钱包。 并将您在 MetaMask 中的网络切换到以太坊主网。
 
-![](<../.gitbook/assets/image (216).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28216%29.png)
 
 5\.  “You pay” 下方选择 ERC-20 USDT，“You will receive” 下方选择 BEP-20 USDT。 然后输入您预计转账的 USDT 金额。
 
-![](<../.gitbook/assets/image (220).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28220%29.png)
 
 6\. 仔细检查 “To” 字段后的地址，查看您连接的是正确的 BNB 智能链钱包地址。
 
-![](<../.gitbook/assets/image (259).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28259%29.png)
 
 7\. 确保一切正确。点击“Swap”。&#x20;
 
@@ -73,7 +73,7 @@ PancakeSwap 是一个去中心化的应用程序。这着，与 Binance 或其�
 
 9\. 整个过程大约需要 10-30 分钟才能完成，具体取决于网络的拥堵程度。 您可以在历史记录选项卡上跟踪进度。
 
-![](<../.gitbook/assets/image (208).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28208%29.png)
 
 10\. 一旦完成。您在您的 BSC 钱包中收到您的资金。现在你可以开始使用 PancakeSwap 在 BNB 智能链上交换一些代币了！
 

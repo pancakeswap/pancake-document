@@ -1,6 +1,6 @@
 # 如何参与
 
-<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2830%29.png" alt=""><figcaption></figcaption></figure>
 
 目前我们有两种不同的活动：
 

@@ -1,6 +1,6 @@
 # 🌊 流动性资金池
 
-![](../../.gitbook/assets/liquidity-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/liquidity-header.png)
 
 ## Exchange V3 <a href="#id-03e94594-5a75-4687-b260-0dc69574b953" id="id-03e94594-5a75-4687-b260-0dc69574b953"></a>
 
@@ -10,7 +10,7 @@
 
 ### **非同质化流动性头寸**
 
-<figure><img src="../../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28238%29.png" alt=""><figcaption></figcaption></figure>
 
 在 V3 中，流动性提供者现在可以更好地控制他们想要部署流动性的价格区间。因此，当您在 V3 中将代币添加到流动性资金池时，您将创建一个具有独特设置的全新非同质化流动性头寸。
 
@@ -111,7 +111,7 @@
 
 ### LP 代币
 
-<figure><img src="../../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28142%29.png" alt=""><figcaption></figcaption></figure>
 
 举例来说，如果您将 **CAKE** 和 **BNB** 存入流动性资金池，您将收到 **CAKE-BNB LP** 代币。
 

@@ -4,7 +4,7 @@ description: 查找、提供 LP、农场挖矿
 
 # 农场使用指南
 
-![](../../../.gitbook/assets/how-to-yield-farms-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-yield-farms-header.png)
 
 在农场中进行农场挖矿是在 PancakeSwap 上赚取 CAKE 奖励的好方法。
 
@@ -18,7 +18,7 @@ description: 查找、提供 LP、农场挖矿
 
 ## 查找提供流动性的交易对
 
-<figure><img src="../../../.gitbook/assets/image (360).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28360%29.png" alt=""><figcaption></figcaption></figure>
 
 现在通过通用农场页面，你可以按代币查找流动性交易对，查看它们的手续费、交易量、APR，覆盖所有 PancakeSwap 支持的网络，而无需在钱包中切换网络。
 
@@ -26,7 +26,7 @@ description: 查找、提供 LP、农场挖矿
 
 #### 功能详解
 
-<figure><img src="../../../.gitbook/assets/image (361).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28361%29.png" alt=""><figcaption></figcaption></figure>
 
 1. 所有正在流行或附带 PancakeSwap 农场的流动性资金池/交易对。
 2. 你拥有的所有流动性头寸。
@@ -40,7 +40,7 @@ description: 查找、提供 LP、农场挖矿
 
 ## 提供 LP
 
-<figure><img src="../../../.gitbook/assets/image (362).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28362%29.png" alt=""><figcaption></figcaption></figure>
 
 一旦你找到要提供流动性的交易对，点击进入详情页面以查看更多信息，例如：
 
@@ -58,7 +58,7 @@ description: 查找、提供 LP、农场挖矿
 
 ## 质押你的头寸以赚取奖励
 
-<figure><img src="../../../.gitbook/assets/image (363).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28363%29.png" alt=""><figcaption></figcaption></figure>
 
 添加流动性后，它们将出现在右上方的表格中。或者在“我的头寸”选项卡中。
 
@@ -67,7 +67,7 @@ description: 查找、提供 LP、农场挖矿
 
 ## 收获农场挖矿奖励
 
-<figure><img src="../../../.gitbook/assets/image (364).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28364%29.png" alt=""><figcaption></figcaption></figure>
 
 在全新的通用农场页面中，定位你所有的农场挖矿头寸从未如此简单。只需前往“我的头寸”并点击右上角的“仅农场”。所有农场挖矿头寸都将被筛选出来，无论你选择的是哪个网络。
 
@@ -83,13 +83,13 @@ description: 查找、提供 LP、农场挖矿
 
 要执行此操作，只需返回“我的头寸”页面，找到你想要调整的头寸。
 
-<figure><img src="../../../.gitbook/assets/image (365).png" alt="" width="280"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28365%29.png" alt="" width="280"><figcaption></figcaption></figure>
 
 点击带有代币对和头寸 ID 的头寸标题，打开头寸详情页面。
 
 只需使用“添加”或“移除”按钮来调整质押头寸中的流动性。
 
-<figure><img src="../../../.gitbook/assets/image (366).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28366%29.png" alt=""><figcaption></figcaption></figure>
 
 请注意，在调整头寸时，所有未领取的 CAKE 奖励都将被收获并发送到你的钱包。
 
@@ -97,7 +97,7 @@ description: 查找、提供 LP、农场挖矿
 
 你可以随时取消质押一个头寸。
 
-<figure><img src="../../../.gitbook/assets/image (367).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28367%29.png" alt=""><figcaption></figcaption></figure>
 
 要取消质押，只需返回“我的头寸”，找到该头寸，然后点击：
 
@@ -112,7 +112,7 @@ description: 查找、提供 LP、农场挖矿
 
 你可以在点击**收获**后确认时在钱包中看到此费用。
 
-![](<../../../.gitbook/assets/image (281).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28281%29.png)
 
 这显示了收获费用在 MetaMask 钱包中的样子。不同的钱包会以略有不同的方式显示信息。可以考虑让你的奖励积累一段时间，这样你支付费用的频率就会降低。
 

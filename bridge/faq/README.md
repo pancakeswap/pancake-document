@@ -1,6 +1,6 @@
 # ❓ 跨链常见问题解答
 
-<figure><img src="../../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28144%29.png" alt=""><figcaption></figcaption></figure>
 
 ## 跨链之前
 
@@ -17,7 +17,7 @@
     请尝试手动输入金额而不是使用"MAX"按钮，并在必要时去除金额中的小数。
 4.  **为什么我的跨链报价显示"Insufficient X to cover native fee"（X 不足以支付原生费用）？**
 
-    ![](<../../.gitbook/assets/image (9) (3).png>)
+    ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%289%29%20%283%29.png)
 
     跨链需要用源链的原生代币支付 gas 费，例如：
 

@@ -1,6 +1,6 @@
 # 代币兑换
 
-![](../../.gitbook/assets/swap-trade-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/swap-trade-header.png)
 
 PancakeSwap 上的 [代币兑换](https://pancakeswap.finance/swap) 为一种简单的代币交易方式：可以透过自动化流动性池进行兑换，目前支援 BNB 智能链、以太链和 Aptos 链；以及与做市商（Market Maker）进行兑换，目前支援 BNB 智能链和以太链。
 

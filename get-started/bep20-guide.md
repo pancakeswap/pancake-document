@@ -2,7 +2,7 @@
 
 
 
-![](<../.gitbook/assets/image (237).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28237%29.png)
 
 币安智能链 (BSC) 上的原生代币为 **BEP-20** 标准。
 
@@ -16,7 +16,7 @@
 {% tab title=" 🥞🌉 Pancake 跨链桥" %}
 <div align="center">
 
-<figure><img src="../.gitbook/assets/image (261).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28261%29.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

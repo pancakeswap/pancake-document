@@ -1,6 +1,6 @@
 # 🤙 联系我们
 
-![](../../.gitbook/assets/contact-us-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/contact-us-header.png)
 
 ## 商务联系方式
 
