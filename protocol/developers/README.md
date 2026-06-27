@@ -1,6 +1,5 @@
-# 💻 Developers
+# 💻 Nhà phát triển
 
 {% hint style="info" %}
-The **developers sections are old** and **won’t be updated**. Go to [https://developer.pancakeswap.finance/](https://developer.pancakeswap.finance/) for the updated developer docs which includes v4.
+**Các phần dành cho nhà phát triển đã cũ** và **sẽ không được cập nhật**. Truy cập [https://developer.pancakeswap.finance/](https://developer.pancakeswap.finance/) để xem tài liệu nhà phát triển mới nhất bao gồm v4.
 {% endhint %}
-

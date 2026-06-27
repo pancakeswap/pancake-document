@@ -2,25 +2,24 @@
 hidden: true
 ---
 
-# How to Vote with SafePal Wallet
+# Cách bỏ phiếu với ví SafePal
 
-![](../../../.gitbook/assets/how-to-voting-with-safepal-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-voting-with-safepal-header.png)
 
-You can use the SafePal wallet to vote on open issues in PancakeSwap. Follow the steps below to cast your vote from inside the SafePal wallet.
+Bạn có thể sử dụng ví SafePal để bỏ phiếu cho các vấn đề đang mở trên PancakeSwap. Làm theo các bước bên dưới để bỏ phiếu từ bên trong ví SafePal.
 
-1\. Open your SafePal wallet and select the dApp browser icon in the menu down the bottom.
+1\. Mở ví SafePal của bạn và chọn biểu tượng trình duyệt dApp trong menu ở phía dưới.
 
-![](../../../.gitbook/assets/Safepal-1.PNG)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Safepal-1.PNG)
 
-2\. Enter the URL of the voting page in the address bar. If you don't know the direct URL to the vote you want to vote on, you can go to the [PancakeSwap voting page](https://voting.pancakeswap.finance/) and find the vote from there.
+2\. Nhập URL của trang bỏ phiếu vào thanh địa chỉ. Nếu bạn không biết URL trực tiếp đến cuộc bỏ phiếu mà bạn muốn tham gia, bạn có thể truy cập [trang bỏ phiếu PancakeSwap](https://voting.pancakeswap.finance/) và tìm cuộc bỏ phiếu từ đó.
 
-![](../../../.gitbook/assets/Safepal-2.PNG)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Safepal-2.PNG)
 
-3\. Click on the connect wallet button at the top of your screen (see the image).&#x20;
+3\. Nhấp vào nút kết nối ví ở đầu màn hình (xem hình ảnh).&#x20;
 
-![](../../../.gitbook/assets/Safepal-3.PNG)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Safepal-3.PNG)
 
-4\. Click on **Injected** as the wallet. Your wallet will now be connected and you can now vote on PancakeSwap proposals.
+4\. Nhấp vào **Injected** làm ví. Ví của bạn sẽ được kết nối và bạn có thể bỏ phiếu cho các đề xuất PancakeSwap.
 
-![](../../../.gitbook/assets/Safepal-4.PNG)
-
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Safepal-4.PNG)

@@ -1,78 +1,78 @@
-# 📔 Governance
+# 📔 Quản trị
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%286%29.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-As part of the [Tokenomics 3.0 upgrade](https://pancakeswap.finance/voting/proposal/0x79ef496c9737e48d9677a6e291ff2a549dee6729c9996398e453af8ecbf0ceb3), this page has been updated on 15th May 2025
+Là một phần của [nâng cấp Tokenomics 3.0](https://pancakeswap.finance/voting/proposal/0x79ef496c9737e48d9677a6e291ff2a549dee6729c9996398e453af8ecbf0ceb3), trang này đã được cập nhật vào ngày 15 tháng 5 năm 2025
 {% endhint %}
 
-Voting gives a voice to the PancakeSwap community, letting the community have a say in how PancakeSwap develops into the future.
+Bỏ phiếu trao tiếng nói cho cộng đồng PancakeSwap, cho phép cộng đồng có ý kiến trong việc phát triển PancakeSwap trong tương lai.
 
-Check out [PancakeSwap's native voting portal](https://pancakeswap.finance/voting) and our [Forum](https://forum.pancakeswap.finance/) page.
+Hãy xem [cổng bỏ phiếu gốc của PancakeSwap](https://pancakeswap.finance/voting) và trang [Diễn đàn](https://forum.pancakeswap.finance/) của chúng tôi.
 
-## Voting Mechanics
+## Cơ chế bỏ phiếu
 
-:notebook\_with\_decorative\_cover:Summary - What Changed (after [Tokenomics 3.0 Update](https://pancakeswap.finance/voting/proposal/0x79ef496c9737e48d9677a6e291ff2a549dee6729c9996398e453af8ecbf0ceb3))
+:notebook\_with\_decorative\_cover:Tóm tắt - Những thay đổi (sau [Cập nhật Tokenomics 3.0](https://pancakeswap.finance/voting/proposal/0x79ef496c9737e48d9677a6e291ff2a549dee6729c9996398e453af8ecbf0ceb3))
 
-<table><thead><tr><th width="200.6015625">Governance Component</th><th width="218.01953125">Before Tokenomics 3.0</th><th width="205.1796875">After Tokenomics 3.0</th><th>Status<select><option value="q1dVFsCri7zA" label="✅ Changed" color="blue"></option><option value="4AGl26rwjYcI" label="🔁 Unchanged" color="blue"></option></select></th></tr></thead><tbody><tr><td>Voting Power</td><td>1 veCAKE = 1 voting power</td><td>1 CAKE = 1 voting power</td><td><span data-option="q1dVFsCri7zA">✅ Changed</span></td></tr><tr><td>Delegation</td><td>Allowed (via veCAKE mechanics)</td><td>Delegation is not allowed</td><td><span data-option="q1dVFsCri7zA">✅ Changed</span></td></tr><tr><td>Proposal Submission Threshold</td><td>Snapshot 100K veCAKE required</td><td>Snapshot 100K CAKE required</td><td><span data-option="q1dVFsCri7zA">✅ Changed</span></td></tr><tr><td>Core vs Community Proposals</td><td>Defined roles and purposes for each proposal type</td><td>No change</td><td><span data-option="4AGl26rwjYcI">🔁 Unchanged</span></td></tr><tr><td>Voting Period</td><td>Community: Fixed<br>Core: Variable</td><td>No change</td><td><span data-option="4AGl26rwjYcI">🔁 Unchanged</span></td></tr><tr><td>Snapshot Timing</td><td>At proposal posted block</td><td>No change</td><td><span data-option="4AGl26rwjYcI">🔁 Unchanged</span></td></tr><tr><td>Quorum</td><td>No minimum quorum</td><td>No change</td><td><span data-option="4AGl26rwjYcI">🔁 Unchanged</span></td></tr></tbody></table>
+<table><thead><tr><th width="200.6015625">Thành phần quản trị</th><th width="218.01953125">Trước Tokenomics 3.0</th><th width="205.1796875">Sau Tokenomics 3.0</th><th>Trạng thái<select><option value="q1dVFsCri7zA" label="✅ Changed" color="blue"></option><option value="4AGl26rwjYcI" label="🔁 Unchanged" color="blue"></option></select></th></tr></thead><tbody><tr><td>Quyền bỏ phiếu</td><td>1 veCAKE = 1 quyền bỏ phiếu</td><td>1 CAKE = 1 quyền bỏ phiếu</td><td><span data-option="q1dVFsCri7zA">✅ Changed</span></td></tr><tr><td>Ủy quyền</td><td>Được phép (thông qua cơ chế veCAKE)</td><td>Không cho phép ủy quyền</td><td><span data-option="q1dVFsCri7zA">✅ Changed</span></td></tr><tr><td>Ngưỡng gửi đề xuất</td><td>Snapshot yêu cầu 100K veCAKE</td><td>Snapshot yêu cầu 100K CAKE</td><td><span data-option="q1dVFsCri7zA">✅ Changed</span></td></tr><tr><td>Đề xuất Core vs Cộng đồng</td><td>Vai trò và mục đích được xác định rõ cho từng loại đề xuất</td><td>Không thay đổi</td><td><span data-option="4AGl26rwjYcI">🔁 Unchanged</span></td></tr><tr><td>Thời gian bỏ phiếu</td><td>Cộng đồng: Cố định<br>Core: Linh hoạt</td><td>Không thay đổi</td><td><span data-option="4AGl26rwjYcI">🔁 Unchanged</span></td></tr><tr><td>Thời điểm Snapshot</td><td>Tại block khi đề xuất được đăng</td><td>Không thay đổi</td><td><span data-option="4AGl26rwjYcI">🔁 Unchanged</span></td></tr><tr><td>Quorum</td><td>Không có quorum tối thiểu</td><td>Không thay đổi</td><td><span data-option="4AGl26rwjYcI">🔁 Unchanged</span></td></tr></tbody></table>
 
-### 1. **Voting Power (Changed)**
+### 1. **Quyền bỏ phiếu (Đã thay đổi)**
 
-* **All CAKE holders have direct voting rights.**
-* **Voting power directly corresponds to the number of CAKE held in wallet address during snapshot**
-  * **1 CAKE = 1 voting power**
-  * **CAKE staked in Syrup Pools does not count** toward your voting power, as it is not part of your wallet balance at the time of the snapshot
-  * Snapshot balance = Same block proposal posted
-* **Delegation is no longer supported.** Every CAKE holder must vote individually.
+* **Tất cả người nắm giữ CAKE đều có quyền bỏ phiếu trực tiếp.**
+* **Quyền bỏ phiếu tương ứng trực tiếp với số lượng CAKE nắm giữ trong địa chỉ ví tại thời điểm snapshot**
+  * **1 CAKE = 1 quyền bỏ phiếu**
+  * **CAKE được staking trong Syrup Pool không được tính** vào quyền bỏ phiếu của bạn, vì nó không thuộc số dư ví của bạn tại thời điểm snapshot
+  * Số dư snapshot = Cùng block khi đề xuất được đăng
+* **Ủy quyền không còn được hỗ trợ.** Mỗi người nắm giữ CAKE phải bỏ phiếu riêng lẻ.
 
-### 2. **Proposal Submission (Unchanged)**
+### 2. **Gửi đề xuất (Không thay đổi)**
 
-* **How to Submit a Proposal**
-  * Submit on [https://pancakeswap.finance/voting/proposal/create](https://pancakeswap.finance/voting/proposal/create)
-  * Must include:
-    * Title
-    * Content
-    * Description
-    * On-chain action(s) (if needed)
-    * Voting Duration
-* Types of Proposals
-  1.  Core Proposals
+* **Cách gửi đề xuất**
+  * Gửi tại [https://pancakeswap.finance/voting/proposal/create](https://pancakeswap.finance/voting/proposal/create)
+  * Phải bao gồm:
+    * Tiêu đề
+    * Nội dung
+    * Mô tả
+    * Hành động on-chain (nếu cần)
+    * Thời gian bỏ phiếu
+* Các loại đề xuất
+  1.  Đề xuất Core
 
-      * Can only be proposed by the **PancakeSwap Core Team**.
-      * Require a vote by CAKE holders.
-      * If passed, will be implemented by the PancakeSwap team.
+      * Chỉ có thể được đề xuất bởi **Đội ngũ Core PancakeSwap**.
+      * Yêu cầu bỏ phiếu từ người nắm giữ CAKE.
+      * Nếu được thông qua, sẽ được đội ngũ PancakeSwap triển khai.
 
-      Examples
+      Ví dụ
 
-      1. Protocol adjustments (product changes, fee changes)
-      2. Significant uses of Ecosystem Growth funds not covered by previous proposals
-  2. Community Proposals
-     * **Community** proposals are posted by the PancakeSwap community. These are used to propose ideas and express the community's point of view. These are **non-binding suggestions** from the community.
-     * Anyone with **100,000 CAKE (snapshot balance)** can submit.
-     * The PancakeSwap team may adopt strong proposals into future Core Proposals
-     * Community members may also utilize our [Forum](https://forum.pancakeswap.finance/) to provide feedback and make suggestions to the protocol.
+      1. Điều chỉnh giao thức (thay đổi sản phẩm, thay đổi phí)
+      2. Sử dụng đáng kể quỹ Phát triển Hệ sinh thái không được bao gồm trong các đề xuất trước
+  2. Đề xuất Cộng đồng
+     * Các đề xuất **Cộng đồng** được đăng bởi cộng đồng PancakeSwap. Chúng được dùng để đề xuất ý tưởng và thể hiện quan điểm của cộng đồng. Đây là những **gợi ý không ràng buộc** từ cộng đồng.
+     * Bất kỳ ai có **100.000 CAKE (số dư snapshot)** đều có thể gửi.
+     * Đội ngũ PancakeSwap có thể tiếp thu các đề xuất mạnh và đưa vào Đề xuất Core trong tương lai
+     * Thành viên cộng đồng cũng có thể sử dụng [Diễn đàn](https://forum.pancakeswap.finance/) của chúng tôi để cung cấp phản hồi và đề xuất với giao thức.
 
-### **3. Voting Duration (Unchanged)**
+### **3. Thời gian bỏ phiếu (Không thay đổi)**
 
-* All CAKE holders can vote **during the voting window** for each proposal.
-  * Community proposal: Fixed at 3 days
-  * Core Proposal: Variable, set by PancakeSwap
-* Your voting power is determined by a **snapshot of your CAKE balance at the block when the proposal is posted**.
-* **Adding more CAKE after the proposal is posted will not increase your voting power** for that specific vote.
+* Tất cả người nắm giữ CAKE có thể bỏ phiếu **trong khoảng thời gian bỏ phiếu** cho mỗi đề xuất.
+  * Đề xuất Cộng đồng: Cố định 3 ngày
+  * Đề xuất Core: Linh hoạt, do PancakeSwap quyết định
+* Quyền bỏ phiếu của bạn được xác định bởi **snapshot số dư CAKE tại block khi đề xuất được đăng**.
+* **Thêm CAKE sau khi đề xuất được đăng sẽ không tăng quyền bỏ phiếu của bạn** cho cuộc bỏ phiếu cụ thể đó.
 
-For full details, see the [Voting Guide](https://docs.pancakeswap.finance/protocol/voting/voting-guide).
+Để biết chi tiết đầy đủ, xem [Hướng dẫn bỏ phiếu](https://docs.pancakeswap.finance/protocol/voting/voting-guide).
 
-### **4. Voting Outcome (Unchanged)**
+### **4. Kết quả bỏ phiếu (Không thay đổi)**
 
-* The outcome is based on **total votes cast** (total CAKE used for voting)
-* **There is currently no minimum quorum required** for a proposal to pass.
+* Kết quả dựa trên **tổng số phiếu bầu** (tổng CAKE được dùng để bỏ phiếu)
+* **Hiện tại không có quorum tối thiểu** để một đề xuất được thông qua.
 
-## Note: Veto Rights
+## Lưu ý: Quyền phủ quyết
 
-To protect the protocol, the **PancakeSwap Core Team reserves the right to intervene in critical situations**—such as security threats or issues affecting the stable operation of the platform—**without requiring a community vote or Snapshot poll**.
+Để bảo vệ giao thức, **Đội ngũ Core PancakeSwap có quyền can thiệp trong các tình huống quan trọng** — chẳng hạn như các mối đe dọa bảo mật hoặc các vấn đề ảnh hưởng đến hoạt động ổn định của nền tảng — **mà không cần bỏ phiếu của cộng đồng hoặc thăm dò Snapshot**.
 
-In any case where a veto action is taken, the Core Team will **publicly share a clear explanation** of the decision.
+Trong bất kỳ trường hợp nào thực hiện hành động phủ quyết, Đội ngũ Core sẽ **công khai giải thích rõ ràng** về quyết định đó.
 
-**Possible veto actions may include:**
+**Các hành động phủ quyết có thể bao gồm:**
 
-1. **Temporarily pausing smart contracts** to fix urgent bugs or vulnerabilities.
+1. **Tạm thời dừng smart contract** để sửa các lỗi hoặc lỗ hổng khẩn cấp.

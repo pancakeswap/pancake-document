@@ -1,66 +1,66 @@
-# How to Vote
+# Cách bỏ phiếu
 
-![](../../../.gitbook/assets/how-to-voting-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-voting-header.png)
 
-Participating in governance voting is easy, and it is absolutely **FREE**. You don't even need to pay gas fees! Learn more about how to vote, catch the next proposal and cast your vote.
+Tham gia bỏ phiếu quản trị rất dễ dàng và hoàn toàn **MIỄN PHÍ**. Bạn thậm chí không cần phải trả phí gas! Tìm hiểu thêm về cách bỏ phiếu, theo dõi đề xuất tiếp theo và bỏ phiếu của bạn.
 
-### How to vote
+### Cách bỏ phiếu
 
-#### Navigate to the vote proposal
+#### Điều hướng đến đề xuất bỏ phiếu
 
-Whenever we publish a new proposal, we always attach the link to the voting page. So be sure to follow [our social channels](../../../welcome-to-pancakeswap/contact-us/social-accounts.md) for the news and updates.
+Mỗi khi chúng tôi công bố một đề xuất mới, chúng tôi luôn đính kèm liên kết đến trang bỏ phiếu. Vì vậy, hãy theo dõi [các kênh mạng xã hội của chúng tôi](../../../welcome-to-pancakeswap/contact-us/social-accounts.md) để cập nhật tin tức và thông tin mới nhất.
 
-Alternatively, you can visit [PancakeSwap's native voting portal](https://voting.pancakeswap.finance/?_gl=1*pc8o0h*_ga*MTUzNDEzNDQxMy4xNjAwNzkzNDM4*_ga_334KNG3DMQ*MTYwNDMwMTk4Ni42MC4xLjE2MDQzMDM3MDIuMA..#/)[ ](https://pancakeswap.finance/voting)to browse the proposals in a list. If you don't see the proposal, it may be in the "soon" tab.
+Ngoài ra, bạn có thể truy cập [cổng bỏ phiếu gốc của PancakeSwap](https://voting.pancakeswap.finance/?_gl=1*pc8o0h*_ga*MTUzNDEzNDQxMy4xNjAwNzkzNDM4*_ga_334KNG3DMQ*MTYwNDMwMTk4Ni42MC4xLjE2MDQzMDM3MDIuMA..#/)[ ](https://pancakeswap.finance/voting) để duyệt qua danh sách các đề xuất. Nếu bạn không thấy đề xuất, nó có thể nằm trong tab "sắp tới".
 
-#### Read and pick the choice to vote
+#### Đọc và chọn lựa chọn để bỏ phiếu
 
-![the proposal page](../../../.gitbook/assets/how-to-vote-1.png)
+![trang đề xuất](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-vote-1.png)
 
-On the proposal page. You will find:
+Trên trang đề xuất, bạn sẽ thấy:
 
-* The content of the proposal
-* The choices to vote
-* The detail of the proposal such as snapshot block and voting window
-* The latest voting result
-* The list of votes
+* Nội dung của đề xuất
+* Các lựa chọn để bỏ phiếu
+* Chi tiết của đề xuất như block snapshot và khoảng thời gian bỏ phiếu
+* Kết quả bỏ phiếu mới nhất
+* Danh sách các phiếu bầu
 
-Read the proposal carefully and click the choice you want to vote on.
+Đọc kỹ đề xuất và nhấp vào lựa chọn bạn muốn bỏ phiếu.
 
-![](../../../.gitbook/assets/how-to-vote-2.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-vote-2.png)
 
-#### Confirm and cast your vote
+#### Xác nhận và bỏ phiếu của bạn
 
-![](../../../.gitbook/assets/how-to-vote-6.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-vote-6.png)
 
-Confirm all the details and click "Confirm Vote", then confirm in your wallet to sign the message.&#x20;
+Xác nhận tất cả các chi tiết và nhấp "Confirm Vote", sau đó xác nhận trong ví của bạn để ký thông điệp.&#x20;
 
-Done, you just successfully cast your vote.
+Xong, bạn đã bỏ phiếu thành công.
 
-### How to check the details
+### Cách kiểm tra chi tiết
 
 {% tabs %}
-{% tab title="Check the voting power" %}
-Before casting your vote, you will see a "Confirm Vote" window.
+{% tab title="Kiểm tra quyền bỏ phiếu" %}
+Trước khi bỏ phiếu, bạn sẽ thấy cửa sổ "Confirm Vote".
 
-<figure><img src="../../../.gitbook/assets/cc 2025-05-15T13_38_57.460Z.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/cc%202025-05-15T13_38_57.460Z.png" alt="" width="188"><figcaption></figcaption></figure>
 
-In this window, you will be able to view the following items:
+Trong cửa sổ này, bạn có thể xem các mục sau:
 
-* The choice you picked
-* Your voting power
+* Lựa chọn bạn đã chọn
+* Quyền bỏ phiếu của bạn
 
-Your voting power is equal to your CAKE balance at the snapshot block.&#x20;
+Quyền bỏ phiếu của bạn bằng với số dư CAKE của bạn tại block snapshot.&#x20;
 {% endtab %}
 
-{% tab title="Check the snapshot block" %}
-#### Check the snapshot block
+{% tab title="Kiểm tra block snapshot" %}
+#### Kiểm tra block snapshot
 
-![](../../../.gitbook/assets/how-to-vote-3.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-vote-3.png)
 
-Voting power is calculated based on a snapshot taken on the snapshot block. Therefore, purchasing or depositing more CAKE after the proposal is posted is not going to increase the voting power for that particular proposal.
+Quyền bỏ phiếu được tính dựa trên snapshot được chụp tại block snapshot. Do đó, việc mua hoặc nạp thêm CAKE sau khi đề xuất được đăng sẽ không làm tăng quyền bỏ phiếu cho đề xuất cụ thể đó.
 
-If you want to know the exact time of the snapshot block. Simple click on the block number and look for the timestamp on the BscScan page.
+Nếu bạn muốn biết thời gian chính xác của block snapshot, chỉ cần nhấp vào số block và tìm timestamp trên trang BscScan.
 
-![](../../../.gitbook/assets/how-to-vote-7.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-vote-7.png)
 {% endtab %}
 {% endtabs %}
