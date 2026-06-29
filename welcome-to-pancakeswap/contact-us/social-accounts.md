@@ -19,7 +19,7 @@
 {% hint style="danger" %}
 
 
-Nobody from PancakeSwap will NEVER send you a direct message. If anybody approaches you directly on e.g. Telegram pretending to represent customer support, please block them and report spam.
+Nobody from PancakeSwap will EVER send you a direct message. If anybody approaches you directly on e.g. Telegram pretending to represent customer support, please block them and report spam.
 {% endhint %}
 
 {% hint style="danger" %}
