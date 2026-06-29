@@ -12,7 +12,7 @@
 
 Fee-Earning Limit Orders let you set a target price to buy or sell tokens automatically, while **earning fees**. Once the pool price reaches your target, your order executes and desired output tokens + fees are sent directly to your wallet.
 
-* **Supported chain at launch:** BNB&#x20;
+* **Supported chain:** BNB Chain
 * **Minimum order size:** $50
 
 #### Why use it?
