@@ -1,83 +1,78 @@
-# PancakeSwap Intro
+# Tổng quan sản phẩm
 
-![](.gitbook/assets/intro-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/intro-header.png)
 
 {% hint style="success" %}
-**PancakeSwap helps you make the most out of your crypto in three ways:**
+**PancakeSwap giúp bạn tận dụng tối đa tiền điện tử của mình theo ba cách:**
 
-**Trade, Earn, and Win.**
+**Giao dịch, Kiếm tiền, và Chiến thắng.**
 {% endhint %}
 
-## ↔️ Trade
+## Giao dịch
 
-> Instantly swap crypto tokens: no registration or account needed.
+> Hoán đổi token tiền điện tử ngay lập tức: không cần đăng ký hay tài khoản.
 
-### The people's choice
+### Lựa chọn của mọi người
 
-PancakeSwap is the leading decentralized exchange on BNB Smart Chain, with the highest trading volumes in the market (sources: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
+PancakeSwap là một sàn giao dịch phi tập trung hàng đầu. Có mặt trên mười chuỗi: BNB Chain, Ethereum, Solana, Base, Arbitrum, Aptos, ZKsync, Linea, Monad và opBNB, với khối lượng giao dịch cao nhất trên thị trường (nguồn: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
 
-### Low fees
+### Phí thấp
 
-Why pay more? PancakeSwap runs on BNB Smart Chain, a blockchain with much lower transaction costs than Ethereum or Bitcoin.\
-Trading fees are lower than other top decentralized exchanges too, so that's a double win for you!
+Tại sao phải trả nhiều hơn?\
+Phí giao dịch cũng thấp hơn các sàn giao dịch phi tập trung hàng đầu khác, đó là một lợi thế cho bạn!
 
-### Decentralized
+### Phi tập trung
 
-Trade directly from your wallet app.\
-Unlike centralized exchanges like Binance or Coinbase, PancakeSwap doesn’t hold your funds when you trade: **you have 100% ownership of your own crypto**.
+Giao dịch trực tiếp từ ứng dụng ví của bạn.\
+Không giống như các sàn giao dịch tập trung như Binance hay Coinbase, PancakeSwap không giữ tiền của bạn khi bạn giao dịch: **bạn có 100% quyền sở hữu tiền điện tử của chính mình**.
 
-## 💸 Earn
+## Kiếm tiền
 
-> Earn CAKE and other tokens for free with super high interest rates.
+> Kiếm CAKE và các token khác miễn phí với lãi suất cực cao.
 
-### Earn tokens with Syrup Pools
+### Kiếm token với Syrup Pool
 
-Stake CAKE, earn free tokens. It’s really that easy.\
-CAKE holders right now are earning tens of millions of USD worth of free tokens each week from major projects. New projects join the party frequently, so you can earn more, for even longer.
+Staking CAKE, nhận token miễn phí. Đơn giản vậy thôi.\
+Những người nắm giữ CAKE hiện tại đang kiếm được hàng chục triệu USD giá trị token miễn phí mỗi tuần từ các dự án lớn. Các dự án mới tham gia thường xuyên, vì vậy bạn có thể kiếm được nhiều hơn, trong thời gian dài hơn.
 
-### Earn CAKE with Yield Farms
+### Kiếm CAKE với Yield Farming
 
-Stake LP tokens, earn CAKE. You take on a little more exposure to market fluctuations than with the Syrup Pools, but can earn higher APR to offset the risk.
+Staking LP token, kiếm CAKE. Bạn chịu thêm một chút rủi ro biến động thị trường so với Syrup Pool, nhưng có thể kiếm APR cao hơn để bù đắp rủi ro đó.
 
-### Earn Trading Fees
+### Kiếm phí giao dịch
 
-No farm? No problem. Even if your trading pair isn’t supported on the Farms page, you can still earn trading fees when you stake your tokens in Liquidity Pools (LPs).
+Không có Farm? Không sao. Ngay cả khi cặp giao dịch của bạn không được hỗ trợ trên trang Farms, bạn vẫn có thể kiếm phí giao dịch khi staking token trong các Nhóm thanh khoản (LP).
 
-## 🎲 Win
+## Chiến thắng
 
-> PancakeSwap makes making money fun.
+> PancakeSwap biến việc kiếm tiền thành điều thú vị.
 
-### Lottery
+### Xổ số
 
-**Millions of dollars** regularly go up for grabs on the PancakeSwap Lottery.\
-Join as many as **11,000 daily players** for your chance to win big!
+**Hàng triệu đô la** thường xuyên được trao thưởng trong Xổ số PancakeSwap.\
+Tham gia cùng tới **11.000 người chơi mỗi ngày** để có cơ hội thắng lớn!
 
-### NFT Collectibles
+### Dự đoán
 
-Win collectible NFTs for participating in trading competitions and more fun & games.
+Dự đoán giá BNB, BTC hay ETH sẽ tăng hay giảm. Vòng mới mỗi 5 phút!
 
-### Prediction
+## PancakeSwap có an toàn không?
 
-Win BNB if you can predict whether the BNB price will rise or fall.\
-New rounds every 5 minutes!
+### Hãy tự xem xét:
 
-## Is PancakeSwap safe?
+Xem các kiểm toán bảo mật của PancakeSwap [tại đây](welcome-to-pancakeswap/audits.md).
 
-See for yourself:
+### Minh bạch:
 
-* Check out these PancakeSwap security audits:
-  * [Certik’s security audit of PancakeSwap](https://www.certik.org/projects/pancakeswap) and [Certik's Shield insurance](https://shield.certik.foundation)
-  * [Slowmist's security audit of PancakeSwap](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20%20-%20PancakeSwap.pdf)
-  * [Slowmist's Auto-CAKE Pool security audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20CakeVault.pdf)
-  * [Peckshield's Prediction V2 security audit](https://github.com/peckshield/publications/blob/master/audit\_reports/PeckShield-Audit-Report-PancakeSwap-PredictionV2-v1.0.pdf)
-* Transparent:
-  * We’re built on open-source software: our site and all our Smart Contracts are publicly visible for maximum transparency.
-  * Our contracts are verified on BscScan so you know that what you see is what you get: [1](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E) [2](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#code) [3](https://bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812) [4](https://bscscan.com/address/0x1b96b92314c44b159149f7e0303511fb2fc4774f#code) [5](https://bscscan.com/address/0x92E8CeB7eAeD69fB6E4d9dA43F605D2610214E68)
-* Security best practices:
-  * The chefs use multisig for all contracts.
-  * Our contracts’ time-locks give you peace of mind.
+* Chúng tôi được xây dựng trên phần mềm mã nguồn mở: trang web và tất cả Smart Contract của chúng tôi đều hiển thị công khai để đảm bảo tối đa tính minh bạch.
+* Các hợp đồng của chúng tôi được xác minh trên BscScan để bạn biết những gì bạn thấy là những gì bạn nhận được: [1](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E) [2](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#code) [3](https://bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812) [4](https://bscscan.com/address/0x1b96b92314c44b159149f7e0303511fb2fc4774f#code) [5](https://bscscan.com/address/0x92E8CeB7eAeD69fB6E4d9dA43F605D2610214E68)
 
-**Sounds like fun?**\
-**Then get flipping!** 🐰 🥞
+### Các biện pháp bảo mật tốt nhất:
+
+* Các chefs sử dụng multisig cho tất cả các hợp đồng.
+* Time-lock trong các hợp đồng của chúng tôi mang lại sự yên tâm cho bạn.
+
+**Nghe có vẻ thú vị?**\
+**Vậy thì bắt đầu thôi!** 🐰 🥞
 
 ***
