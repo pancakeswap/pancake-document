@@ -1,10 +1,10 @@
-# Pool Types
+# Tipos de Pool
 
-**PancakeSwap Infinity** features a modular architecture powered by specialized **Pool Managers**. Each pool type is governed by its own logic contract, enabling different pricing curves, liquidity behavior, and extensibility through hooks.
+**PancakeSwap Infinity** cuenta con una arquitectura modular impulsada por **Pool Managers** especializados. Cada tipo de pool está gobernado por su propio contrato lógico, lo que permite diferentes curvas de precios, comportamiento de liquidez y extensibilidad a través de hooks.
 
 
 
-Infinity currently supports the following pool types:
+Infinity actualmente admite los siguientes tipos de pool:
 
-* [Infinity CLAMM & LBAMM](https://docs.pancakeswap.finance/~/revisions/dR1OpdERU6eEn0BRwIs6/trade/pancakeswap-infinity/pool-types/infinity-clamm-and-lbamm)
+* [Infinity CLAMM y LBAMM](https://docs.pancakeswap.finance/~/revisions/dR1OpdERU6eEn0BRwIs6/trade/pancakeswap-infinity/pool-types/infinity-clamm-and-lbamm)
 * [Infinity StableSwap](https://docs.pancakeswap.finance/~/revisions/dR1OpdERU6eEn0BRwIs6/trade/stableswap/infinity-stableswap)

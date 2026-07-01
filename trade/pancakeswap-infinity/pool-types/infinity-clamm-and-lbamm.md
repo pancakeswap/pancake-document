@@ -1,81 +1,81 @@
-# Infinity CLAMM & LBAMM
+# Infinity CLAMM y LBAMM
 
 #### 🔷 CLAMM (Concentrated Liquidity AMM)
 
-CLAMM enables liquidity providers to allocate their capital within **specific price ranges**. This leads to:
+CLAMM permite a los proveedores de liquidez asignar su capital dentro de **rangos de precio específicos**. Esto lleva a:
 
-* **Higher capital efficiency**: More liquidity at active trading prices.
-* **Deeper liquidity**: Better execution for traders.
-* **Active LP management**: LPs need to adjust positions as prices move.
-* **Higher impermanent loss** potential for out-of-range positions.
+* **Mayor eficiencia de capital**: Más liquidez a los precios de trading activos.
+* **Liquidez más profunda**: Mejor ejecución para los traders.
+* **Gestión activa de LP**: Los LPs necesitan ajustar sus posiciones a medida que los precios se mueven.
+* Mayor potencial de **pérdida impermanente** para las posiciones fuera del rango.
 
 {% hint style="info" %}
-CLAMM operates on the constant product formula (X \* Y = K). Each liquidity position is non-fungible and represented as an NFT.
+CLAMM opera bajo la fórmula de producto constante (X \* Y = K). Cada posición de liquidez es no fungible y está representada como un NFT.
 {% endhint %}
 
-#### 🔷 LBAMM (Liquidity Book AMM or “Bin Pool”)
+#### 🔷 LBAMM (Liquidity Book AMM o "Pool de Bins")
 
-LBAMM implements **discrete price bins**, each holding liquidity at a specific price level. LBAMM follows the **constant sum formula (X + Y = K).**
+LBAMM implementa **bins de precio discretos**, cada uno con liquidez a un nivel de precio específico. LBAMM sigue la **fórmula de suma constante (X + Y = K).**
 
 
 
-**Key characteristics:**
+**Características principales:**
 
-* **0 price impact** trades within a bin.
-* **Fungible liquidity** (liquidity within each bin is an ERC-20 token).
-* **Lower gas costs** for adjusting LP positions.
-* **Support for different liquidity shapes** (e.g., skewed, uniform).
-* More suitable for **low volatility** pairs due to the flat pricing curve per bin.
+* Trades con **0 impacto en el precio** dentro de un bin.
+* **Liquidez fungible** (la liquidez dentro de cada bin es un token ERC-20).
+* **Menores costos de gas** para ajustar posiciones LP.
+* **Soporte para diferentes formas de liquidez** (p. ej., sesgada, uniforme).
+* Más adecuado para pares de **baja volatilidad** debido a la curva de precios plana por bin.
 
-> 🥞 **PancakeSwap is the first protocol to offer LBAMM pools with hooks.**
+> 🥞 **PancakeSwap es el primer protocolo en ofrecer pools LBAMM con hooks.**
 
 {% hint style="success" %}
-Both CLAMM and LBAMM pools support **hooks**, which allow developers to customize pool behavior. Pool types are extendable via new Pool Managers, which can be added without protocol redeployment.
+Tanto los pools CLAMM como LBAMM admiten **hooks**, que permiten a los desarrolladores personalizar el comportamiento del pool. Los tipos de pool son extensibles mediante nuevos Pool Managers, que pueden añadirse sin redespliegue del protocolo.
 {% endhint %}
 
-<table data-header-hidden><thead><tr><th width="170.94921875"></th><th width="284.57421875"></th><th></th></tr></thead><tbody><tr><td>Feature</td><td><strong>CLAMM</strong></td><td><strong>LBAMM</strong></td></tr><tr><td><strong>Pricing Curve</strong></td><td>Constant Product (X * Y = K)</td><td>Constant Sum (X + Y = K)</td></tr><tr><td><strong>Liquidity Token</strong></td><td>Non-fungible (NFT)</td><td>Fungible (ERC-20 per bin)</td></tr><tr><td><strong>Best For</strong></td><td>Both high/low volatility pairs</td><td>Low volatility pairs</td></tr><tr><td><strong>Advantages</strong></td><td><ol><li>Capital efficiency</li><li>Gas efficient in wide/full range</li><li>Widely adopted</li></ol></td><td><ol><li>0 price impact within bin</li><li>Cheaper LP management</li><li>Flexible liquidity shapes</li></ol></td></tr><tr><td><strong>Hook Support</strong></td><td>✅</td><td>✅</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="170.94921875"></th><th width="284.57421875"></th><th></th></tr></thead><tbody><tr><td>Característica</td><td><strong>CLAMM</strong></td><td><strong>LBAMM</strong></td></tr><tr><td><strong>Curva de Precios</strong></td><td>Producto Constante (X * Y = K)</td><td>Suma Constante (X + Y = K)</td></tr><tr><td><strong>Token de Liquidez</strong></td><td>No fungible (NFT)</td><td>Fungible (ERC-20 por bin)</td></tr><tr><td><strong>Mejor Para</strong></td><td>Pares de alta y baja volatilidad</td><td>Pares de baja volatilidad</td></tr><tr><td><strong>Ventajas</strong></td><td><ol><li>Eficiencia de capital</li><li>Eficiente en gas en rango amplio/completo</li><li>Ampliamente adoptado</li></ol></td><td><ol><li>0 impacto en el precio dentro del bin</li><li>Gestión LP más económica</li><li>Formas de liquidez flexibles</li></ol></td></tr><tr><td><strong>Soporte de Hooks</strong></td><td>✅</td><td>✅</td></tr></tbody></table>
 
 ***
 
-### 🧮 Fees
+### 🧮 Comisiones
 
-PancakeSwap Infinity supports a flexible and extensible fee system through Static and Dynamic fee settings. This setup gives both pool creators and LPs powerful tools to optimize for different trading strategies and risk profiles.
+PancakeSwap Infinity admite un sistema de comisiones flexible y extensible mediante configuraciones de comisiones Estáticas y Dinámicas. Esta configuración le proporciona tanto a los creadores de pools como a los LPs herramientas poderosas para optimizar según diferentes estrategias de trading y perfiles de riesgo.
 
-#### 🔁 Dynamic Fees
+#### 🔁 Comisiones Dinámicas
 
-* Dynamic Fees are determined in real-time via hook contracts.
-* These fees can fluctuate based on external factors such as volatility, trading volume, user status (e.g., CAKE holdings), or any custom logic coded into the hook.
-* Pools with dynamic fees must enable the setting at the time of pool creation and attach a hook capable of modifying fees via `beforeSwap`.
-* Once a pool is initialized, the fee type (dynamic or static) is immutable.
+* Las Comisiones Dinámicas se determinan en tiempo real a través de contratos de hooks.
+* Estas comisiones pueden fluctuar según factores externos como la volatilidad, el volumen de trading, el estado del usuario (p. ej., tenencias de CAKE) u cualquier lógica personalizada codificada en el hook.
+* Los pools con comisiones dinámicas deben habilitar la configuración al momento de la creación del pool y adjuntar un hook capaz de modificar las comisiones mediante `beforeSwap`.
+* Una vez que se inicializa un pool, el tipo de comisión (dinámica o estática) es inmutable.
 
-Dynamic fees offer maximum flexibility and optimize fee structures for both LPs and swappers based on market conditions.
+Las comisiones dinámicas ofrecen máxima flexibilidad y optimizan las estructuras de comisiones tanto para LPs como para los que intercambian según las condiciones del mercado.
 
-#### 📌 Static Fees
+#### 📌 Comisiones Estáticas
 
-* Static Fee pools have a fixed fee set during pool creation.
-* These fees cannot be changed after the pool is initialized.
-* Suitable for simpler use cases or where predictability of fee structure is important.<br>
+* Los pools de Comisión Estática tienen una comisión fija establecida durante la creación del pool.
+* Estas comisiones no pueden cambiarse después de que el pool esté inicializado.
+* Adecuadas para casos de uso más simples o donde es importante la previsibilidad de la estructura de comisiones.<br>
 
-**🔒 Max Fee Caps:**
+**🔒 Límites Máximos de Comisión:**
 
-* CLAMM Pools: Up to 100% (mostly for specialized or experimental use cases)
-* LBAMM Pools: Capped at 10%<br>
+* Pools CLAMM: Hasta el 100% (principalmente para casos de uso especializados o experimentales)
+* Pools LBAMM: Limitado al 10%<br>
 
-**🏛 Protocol Fee (for static fee pools):**
+**🏛 Comisión de Protocolo (para pools de comisión estática):**
 
-* PancakeSwap applies a protocol fee on Infinity pools
-* 33% of LP fee, capped at 0.4%
+* PancakeSwap aplica una comisión de protocolo en los pools de Infinity
+* 33% de la comisión LP, limitada al 0,4%
 
-| **LP Fee**       | **Protocol Fee** |
-| ---------------- | ---------------- |
-| 1%               | 0.33%            |
-| 2%               | 0.4% (capped)    |
-| Dynamic Fee Pool | 0%               |
+| **Comisión LP**        | **Comisión de Protocolo** |
+| ---------------------- | ------------------------- |
+| 1%                     | 0,33%                     |
+| 2%                     | 0,4% (limitada)           |
+| Pool de Comisión Dinámica | 0%                     |
 
-#### 🛠️ Setup Notes for Pool Creators
+#### 🛠️ Notas de Configuración para Creadores de Pools
 
-* When initializing a pool via PoolManager, the creator must choose:
-  * Whether the pool uses a static or dynamic fee
-  * Whether a hook contract is attached (required for dynamic fees)
+* Al inicializar un pool mediante PoolManager, el creador debe elegir:
+  * Si el pool usa una comisión estática o dinámica
+  * Si se adjunta un contrato de hook (requerido para comisiones dinámicas)
 
-These settings are permanent and define how the pool behaves throughout its lifetime.
+Estas configuraciones son permanentes y definen cómo se comporta el pool durante toda su vida útil.

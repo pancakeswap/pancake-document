@@ -1,8 +1,8 @@
-# 🔀 Crosschain Swaps
+# 🔀 Intercambios Multicadena
 
-Crosschain Swaps allow users to seamlessly swap tokens between chains — all within a single, streamlined transaction.
+Los intercambios multicadena permiten a los usuarios intercambiar tokens entre cadenas de forma fluida — todo en una sola transacción optimizada.
 
-Crosschain swaps are supported between:
+Los intercambios multicadena están disponibles entre:
 
 * BNB Chain
 * Ethereum
@@ -13,61 +13,61 @@ Crosschain swaps are supported between:
 * Linea
 
 {% hint style="success" %}
-**Transactions are lightning-fast — typically completing within seconds to under a minute.**
+**Las transacciones son extremadamente rápidas — normalmente se completan en segundos o en menos de un minuto.**
 {% endhint %}
 
 ***
 
-### 🔍 How It Works
+### 🔍 Cómo Funciona
 
-1. User selects From / To chain and From / To token
-2. The PancakeSwap router computes the most efficient route
-3. Swaps are executed using PancakeSwap’s liquidity pools (v2, v3, Infinity, StableSwaps) on source and destination chains
-4. Bridging is handled via our partner protocols: [Across](https://across.to/) (for EVM <> EVM), [Relay](https://relay.link/bridge) (for SOL <> EVM)
+1. El usuario selecciona la cadena y el token de origen y destino
+2. El router de PancakeSwap calcula la ruta más eficiente
+3. Los intercambios se ejecutan usando los pools de liquidez de PancakeSwap (v2, v3, Infinity, StableSwaps) en las cadenas de origen y destino
+4. El puenteo se gestiona a través de nuestros protocolos asociados: [Across](https://across.to/) (para EVM <> EVM), [Relay](https://relay.link/bridge) (para SOL <> EVM)
 
 {% hint style="success" %}
-**Crosschain swaps are available for any token with adequate liquidity on both the source and destination chains.**
+**Los intercambios multicadena están disponibles para cualquier token con liquidez suficiente tanto en la cadena de origen como en la de destino.**
 {% endhint %}
 
 ***
 
-### 💸 Fees
+### 💸 Comisiones
 
-* **PancakeSwap does not charge any fee for Crosschain transactions.**
-* Fees are comprised of:
-  1. **Trading Fee:** Incurred for swaps within liquidity pools on the source and destination chains
-  2. **Bridge Fee:** Paid to relayers for bridging assets
+* **PancakeSwap no cobra ninguna comisión por las transacciones multicadena.**
+* Las comisiones se componen de:
+  1. **Comisión de Trading:** Se genera por los intercambios dentro de los pools de liquidez en las cadenas de origen y destino
+  2. **Comisión de Puente:** Se paga a los relayers por el puenteo de activos
 
 ***
 
-### 🎯 What Are Intents?
+### 🎯 ¿Qué son los Intents?
 
-Intents let users define their desired outcome without worrying about how it’s achieved.
+Los intents permiten a los usuarios definir el resultado deseado sin preocuparse por cómo se consigue.
 
-Example Intents:
+Ejemplos de Intents:
 
-* “Swap 1 ETH on Base for at least 3000 USDC on Arbitrum”
+* "Intercambiar 1 ETH en Base por al menos 3000 USDC en Arbitrum"
 
-Without intents, a user would need to manually:
+Sin intents, un usuario tendría que hacer manualmente:
 
-* Bridge ETH to Arbitrum
-* Find a DEX with the best ETH → USDC price
+* Puentear ETH a Arbitrum
+* Encontrar un DEX con el mejor precio ETH → USDC
 
 {% hint style="success" %}
-**With intents — the system handles it all automatically.**
+**Con los intents — el sistema lo gestiona todo automáticamente.**
 {% endhint %}
 
-**Benefits of intent-based design:**
+**Ventajas del diseño basado en intents:**
 
-* Seamless UX
-* Faster transaction times
-* One-click, single transactions
+* UX fluida
+* Tiempos de transacción más rápidos
+* Transacciones únicas con un solo clic
 
 ***
 
-### 🔐 Audits
+### 🔐 Auditorías
 
-We’ve conducted multiple audit rounds with respected names in the cross-chain security space:
+Hemos realizado múltiples rondas de auditoría con nombres reconocidos en el ámbito de la seguridad multicadena:
 
 * [**Pashov Audit Group**](https://developer.pancakeswap.finance/crosschain/pashov-audit.pdf)
 * [**BurraSec**](https://developer.pancakeswap.finance/crosschain/burrasec-audit.pdf)

@@ -1,13 +1,13 @@
 # Infinity StableSwap
 
-**Infinity StableSwap** is a specialized pool type optimized for correlated assets such as stablecoins and liquid staking tokens.<br>
+**Infinity StableSwap** es un tipo de pool especializado optimizado para activos correlacionados como stablecoins y tokens de staking líquido.<br>
 
-It uses a StableSwap invariant designed to:
+Utiliza un invariante StableSwap diseñado para:
 
-* Minimize slippage between tightly priced assets
-* Improve execution efficiency for stable pairs
-* Provide capital-efficient trading for low-volatility assets
+* Minimizar el deslizamiento entre activos con precios muy cercanos
+* Mejorar la eficiencia de ejecución para pares estables
+* Proporcionar trading eficiente en capital para activos de baja volatilidad
 
 
 
-👉 Learn more about pool mechanics and pool creation [here](https://docs.pancakeswap.finance/~/revisions/E5nc3XhgBcYotE6q89fB/trade/stableswap/infinity-stableswap).
+👉 Aprende más sobre la mecánica del pool y la creación de pools [aquí](https://docs.pancakeswap.finance/~/revisions/E5nc3XhgBcYotE6q89fB/trade/stableswap/infinity-stableswap).

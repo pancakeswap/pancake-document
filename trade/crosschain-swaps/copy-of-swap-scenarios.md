@@ -2,18 +2,18 @@
 hidden: true
 ---
 
-# 🔁 Copy of Swap Scenarios
+# 🔁 Copia de Escenarios de Intercambio
 
-There are 4 scenarios for Crosschain transactions.
+Existen 4 escenarios para las transacciones multicadena.
 
-#### 1️⃣ Bridge Only
+#### 1️⃣ Solo Puente
 
-* Example: **Bridge ETH on Base to ETH on Arbitrum**
-* Only supported tokens (USDC, USDT, WETH, etc) can be bridged directly. These tokens vary by source and destination chain.
+* Ejemplo: **Puentear ETH en Base a ETH en Arbitrum**
+* Solo los tokens compatibles (USDC, USDT, WETH, etc.) pueden puentearse directamente. Estos tokens varían según la cadena de origen y destino.
 
-**Tokens supported for bridging by Across**
+**Tokens compatibles para puenteo con Across**
 
-| Chains      | USDC | USDT | WETH | ETH | CAKE | DAI | BAL | POOL | WBTC |
+| Cadenas     | USDC | USDT | WETH | ETH | CAKE | DAI | BAL | POOL | WBTC |
 | ----------- | :--: | :--: | :--: | :-: | :--: | :-: | :-: | :--: | :--: |
 | ARB <> BNB  |   ✅  |   ❌  |   ✅  |  ✅  |   ❌  |  ❌  |  ❌  |   ❌  |   ❌  |
 | BASE <> BNB |   ✅  |   ✅  |   ✅  |  ✅  |   ❌  |  ❌  |  ❌  |   ❌  |   ❌  |
@@ -22,32 +22,31 @@ There are 4 scenarios for Crosschain transactions.
 | ETH <> BASE |   ✅  |   ✅  |   ✅  |  ✅  |   ❌  |  ✅  |  ✅  |   ✅  |   ❌  |
 | ETH <> ARB  |   ✅  |   ❌  |   ✅  |  ✅  |   ❌  |  ✅  |  ✅  |   ✅  |   ✅  |
 
-#### 2️⃣ Swap → Bridge
+#### 2️⃣ Intercambio → Puente
 
-* Example: **Swap BNB on BNB Chain to USDC on Arbitrum**
-* Swap BNB to a supported bridge token (e.g. USDC) using PancakeSwap pools on BNB chain
-* Bridge USDC via Across to Arbitrum
+* Ejemplo: **Intercambiar BNB en BNB Chain a USDC en Arbitrum**
+* Intercambiar BNB por un token de puente compatible (p. ej. USDC) usando los pools de PancakeSwap en BNB Chain
+* Puentear USDC a través de Across hacia Arbitrum
 
-#### 3️⃣ Bridge → Swap
+#### 3️⃣ Puente → Intercambio
 
-* Example: **Swap USDC on BNB Chain to ARB on Arbitrum**
-* Bridge USDC via Across
-* Swap USDC to ARB using PancakeSwap pools on Arbitrum
+* Ejemplo: **Intercambiar USDC en BNB Chain a ARB en Arbitrum**
+* Puentear USDC a través de Across
+* Intercambiar USDC por ARB usando los pools de PancakeSwap en Arbitrum
 
-#### 4️⃣ Swap → Bridge → Swap
+#### 4️⃣ Intercambio → Puente → Intercambio
 
-* Example: **Swap BNB on BNB Chain to ARB on Arbitrum**
-* Swap BNB to a bridge token (maximizing user output)
-* Bridge via Across
-* Swap bridged token to ARB on Arbitrum using PancakeSwap pools
+* Ejemplo: **Intercambiar BNB en BNB Chain a ARB en Arbitrum**
+* Intercambiar BNB por un token de puente (maximizando el resultado del usuario)
+* Puentear a través de Across
+* Intercambiar el token puenteado por ARB en Arbitrum usando los pools de PancakeSwap
 
 ***
 
-### ⚠️ Fail Cases
+### ⚠️ Casos de Fallo
 
-| Scenario                              | Outcome                                                                                                                                                                                         |
-| ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Swap/Tx Failure on Source Chain**   | User instantly receives the original token on source chain                                                                                                                                      |
-| **Bridge Tx Failure**                 | Across processes a refund within 90 mins to 2 hours, and user receives the bridged asset on source chain. While Relay processes the refund within a minute in such scenario between SOL <> EVM. |
-| **Swap Failure on Destination Chain** | User receives the bridged asset on the destination chain                                                                                                                                        |
-
+| Escenario                                        | Resultado                                                                                                                                                                                                                          |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Fallo de Intercambio/Tx en la Cadena de Origen**  | El usuario recibe inmediatamente el token original en la cadena de origen                                                                                                                                                         |
+| **Fallo de Tx de Puente**                           | Across procesa un reembolso en un plazo de 90 minutos a 2 horas, y el usuario recibe el activo puenteado en la cadena de origen. Relay procesa el reembolso en menos de un minuto en dicho escenario entre SOL <> EVM. |
+| **Fallo de Intercambio en la Cadena de Destino**    | El usuario recibe el activo puenteado en la cadena de destino                                                                                                                                                                      |

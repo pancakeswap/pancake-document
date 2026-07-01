@@ -1,45 +1,45 @@
-# Dynamic Fee Hook
+# Hook de Comisión Dinámica
 
-PancakeSwap’s official Dynamic Fee Hook is designed to create a fairer value exchange between Liquidity Providers and Traders. It protects LPs from excessive impermanent loss (IL) while keeping the market efficient for traders.
+El Hook de Comisión Dinámica oficial de PancakeSwap está diseñado para crear un intercambio de valor más justo entre los Proveedores de Liquidez y los Traders. Protege a los LPs de la pérdida impermanente (IL) excesiva mientras mantiene el mercado eficiente para los traders.
 
-Built by the PancakeSwap core team, this hook is tailored specifically to offer a smart, adaptive alternative to conventional fixed-fee models.
+Desarrollado por el equipo principal de PancakeSwap, este hook está diseñado específicamente para ofrecer una alternativa inteligente y adaptativa a los modelos convencionales de comisiones fijas.
 
-#### 🔍 Why Dynamic Fees?
+#### 🔍 ¿Por Qué Comisiones Dinámicas?
 
-Large Arbitrage trades cause greater price divergence in pools, increasing IL for LPs. Our dynamic fee model charges proportionally higher fees on larger arbitrage trades to offset this risk — while still leaving enough room for arbitrageurs to profit and keep prices aligned.
+Los grandes trades de arbitraje provocan mayor divergencia de precios en los pools, aumentando la IL para los LPs. Nuestro modelo de comisiones dinámicas cobra comisiones proporcionalmente más altas en los grandes trades de arbitraje para compensar este riesgo — dejando aun así suficiente margen para que los arbitrajistas obtengan beneficios y mantengan los precios alineados.
 
-#### 📊 How Is This Different From Other Models?
+#### 📊 ¿En Qué se Diferencia de Otros Modelos?
 
-Other models in the past have used historical data to estimate volatility, other factors to adjust fees. However:
+Otros modelos en el pasado han utilizado datos históricos para estimar la volatilidad y otros factores para ajustar las comisiones. Sin embargo:
 
-* Historical data is a lagging indicator and may not accurately predict future volatility.
-* External market events (like regulatory changes or economic shifts) can render past trends unreliable.
-* Complex, parameter-heavy models risk overfitting — performing well on past data but poorly on new, unseen conditions.
+* Los datos históricos son un indicador rezagado y pueden no predecir con precisión la volatilidad futura.
+* Los eventos del mercado externo (como cambios regulatorios o económicos) pueden hacer que las tendencias pasadas sean poco fiables.
+* Los modelos complejos con muchos parámetros corren el riesgo de sobreajuste — funcionando bien con datos pasados pero mal con condiciones nuevas y no vistas.
 
-Our approach is simpler, adaptive, and grounded in real-time trading behaviour.
+Nuestro enfoque es más simple, adaptativo y basado en el comportamiento de trading en tiempo real.
 
-#### ⚙️ How It Works
+#### ⚙️ Cómo Funciona
 
-* **We don’t predict volatility or other macro factors**\
-  Instead, our model inherently benefits from the behaviour of arbitrageurs under different market regimes:
-  * **High volatility:** More arbitrage trades at larger sizes → Higher fees for LPs, covering a larger share of IL.
-  * **Low volatility:** Fewer, smaller trades → IL is lower by nature, but LPs still earn higher fees than in a fixed-fee model.
-* **Our model uses**
-  * An exponentially weighted pool price to detect arbitrage trades.
-  * An exponential fee curve based on the price impact of each swap.
-  * A maximum fee cap of 5% to maintain trader fairness.
+* **No predecimos la volatilidad ni otros factores macroeconómicos**\
+  En cambio, nuestro modelo se beneficia inherentemente del comportamiento de los arbitrajistas bajo diferentes regímenes de mercado:
+  * **Alta volatilidad:** Más trades de arbitraje de mayor tamaño → Comisiones más altas para los LPs, cubriendo una mayor proporción de la IL.
+  * **Baja volatilidad:** Menos trades más pequeños → La IL es menor por naturaleza, pero los LPs aun así ganan comisiones más altas que con un modelo de comisiones fijas.
+* **Nuestro modelo utiliza**
+  * Un precio de pool ponderado exponencialmente para detectar trades de arbitraje.
+  * Una curva de comisiones exponencial basada en el impacto en el precio de cada intercambio.
+  * Un límite máximo de comisión del 5% para mantener la equidad con los traders.
 
 {% hint style="success" %}
-This ensures fees scale dynamically with trade impact while adapting automatically to changing market conditions.
+Esto garantiza que las comisiones escalen dinámicamente con el impacto del trade mientras se adaptan automáticamente a las cambiantes condiciones del mercado.
 {% endhint %}
 
-* **Balanced Incentives**\
-  Arbitrageurs still retain \~50% of their profits after dynamic fees, ensuring they're motivated to keep pool prices in line with the market.
+* **Incentivos Equilibrados**\
+  Los arbitrajistas aun así retienen \~50% de sus ganancias después de las comisiones dinámicas, asegurando que estén motivados para mantener los precios del pool alineados con el mercado.
 
-#### 📌 Key Takeaways
+#### 📌 Puntos Clave
 
-* No reliance on volatility or other macro factor predictions.
-* Adapts automatically to market volatility based on actual trade behaviour.
-* Protects LPs from IL on a per-swap basis.
-* Maintains strong incentives for arbitrageurs to close price gaps.
-* Benefits traders with deeper liquidity and lower base fees.
+* Sin dependencia de predicciones de volatilidad u otros factores macroeconómicos.
+* Se adapta automáticamente a la volatilidad del mercado basándose en el comportamiento real de los trades.
+* Protege a los LPs de la IL en base por-intercambio.
+* Mantiene fuertes incentivos para que los arbitrajistas cierren las brechas de precio.
+* Beneficia a los traders con mayor liquidez y comisiones base más bajas.

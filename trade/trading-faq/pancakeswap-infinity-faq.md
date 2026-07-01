@@ -1,97 +1,97 @@
 ---
 description: >-
-  we understand you may have questions about our latest upgrade. We've compiled
-  this comprehensive FAQ to address all your inquiries. Let's dive in:
+  Entendemos que puedes tener preguntas sobre nuestra última actualización. Hemos compilado
+  este FAQ completo para abordar todas tus consultas. Vamos a ello:
 ---
 
-# PancakeSwap Infinity FAQ
+# FAQ de PancakeSwap Infinity
 
-**Q1 How will PancakeSwap Infinity benefit traders and liquidity providers?**
+**P1 ¿Cómo beneficiará PancakeSwap Infinity a los traders y proveedores de liquidez?**
 
-**Ans:** PancakeSwap Infinity brings a lot of advantages for both traders and liquidity providers:
+**R:** PancakeSwap Infinity aporta muchas ventajas tanto para los traders como para los proveedores de liquidez:
 
-**1. Streamlined Operations and Gas Savings:** Through features like Singleton and Flash Accounting, PancakeSwap Infinity drastically reduces gas fees. Singleton consolidates all pools into a single contract, slashing deployment costs by 99%. Flash Accounting optimizes accounting processes by computing net balances for transactions, minimizing gas consumption.
+**1. Operaciones Optimizadas y Ahorro de Gas:** A través de funciones como Singleton y Flash Accounting, PancakeSwap Infinity reduce drásticamente las comisiones de gas. Singleton consolida todos los pools en un único contrato, reduciendo los costos de despliegue en un 99%. Flash Accounting optimiza los procesos de contabilidad calculando los saldos netos para las transacciones, minimizando el consumo de gas.
 
-**2. Direct Benefits from Advanced Features:** The integration of hooks allows for implementing dynamic fees, custom order types, and active liquidity management modules. Liquidity providers can enjoy mitigated impermanent loss (IL), MEV protection, and access to various fee tiers, ensuring more profitable and secure trading experiences.
+**2. Beneficios Directos de las Funciones Avanzadas:** La integración de hooks permite implementar comisiones dinámicas, tipos de órdenes personalizadas y módulos de gestión de liquidez activa. Los proveedores de liquidez pueden disfrutar de una pérdida impermanente (IL) mitigada, protección MEV y acceso a varios niveles de comisión, garantizando experiencias de trading más rentables y seguras.
 
 \
-**3. Flexibility in AMM Designs:** PancakeSwap Infinity supports multiple pool types, including CLAMM and the LBAMM, allowing traders and LP to pick different pool types. This inclusive approach also allows supporting any future assets requiring new pricing curves. Check out this blog to [learn more](https://blog.pancakeswap.finance/articles/everything-you-need-to-know-about-pancake-swap-v4-what-s-in-it-for-developers-traders-liquidity-providers-and-defi-protocols)
+**3. Flexibilidad en los Diseños AMM:** PancakeSwap Infinity admite múltiples tipos de pool, incluyendo CLAMM y LBAMM, permitiendo a los traders y LPs elegir diferentes tipos de pool. Este enfoque inclusivo también permite admitir cualquier activo futuro que requiera nuevas curvas de precios. Consulta este blog para [aprender más](https://blog.pancakeswap.finance/articles/everything-you-need-to-know-about-pancake-swap-v4-what-s-in-it-for-developers-traders-liquidity-providers-and-defi-protocols)
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-03-15 at 16.16.56.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-03-15%20at%2016.16.56.png" alt=""><figcaption></figcaption></figure>
 
-**Q2** How will PancakeSwap Infinity benefit developers and defi protocols?
+**P2** ¿Cómo beneficiará PancakeSwap Infinity a los desarrolladores y protocolos DeFi?
 
-**Ans:** PancakeSwap Infinity opens up a world of possibilities for developers and DeFi protocols.&#x20;
+**R:** PancakeSwap Infinity abre un mundo de posibilidades para los desarrolladores y protocolos DeFi.&#x20;
 
-**1. Endless Customization Possibilities:** With PancakeSwap Infinity, developers can build Hooks to introduce custom functionalities; from dynamic fees to on-chain limit orders and custom oracles. PancakeSwap Infinity supports deploying new pool types (CLAMM, LBAMM, and any other pool types in the future), enhancing capital efficiency and trading flexibility.
+**1. Posibilidades de Personalización Ilimitadas:** Con PancakeSwap Infinity, los desarrolladores pueden crear Hooks para introducir funcionalidades personalizadas; desde comisiones dinámicas hasta órdenes limitadas en cadena y oráculos personalizados. PancakeSwap Infinity admite el despliegue de nuevos tipos de pool (CLAMM, LBAMM y cualquier otro tipo de pool en el futuro), mejorando la eficiencia de capital y la flexibilidad de trading.
 
-**2. Access to Robust Liquidity and User Base:** With over 1.8 million active users and $2.1 billion in liquidity, developers and DeFi protocols have an unparalleled opportunity to tap into a vast and active community, fostering product development and adoption.
+**2. Acceso a Liquidez Robusta y Base de Usuarios:** Con más de 1,8 millones de usuarios activos y 2.100 millones de dólares en liquidez, los desarrolladores y protocolos DeFi tienen una oportunidad sin igual para aprovechar una comunidad vasta y activa, fomentando el desarrollo de productos y la adopción.
 
-**3. Revenue Generation Opportunities:** Developers can establish a consistent revenue stream through hook fees, allowing them to set fees for utilizing their hooks. By monetizing their innovations with fees, developers can contribute to the growth and development of the PancakeSwap ecosystem. Check out this blog to[ learn more](https://blog.pancakeswap.finance/articles/everything-you-need-to-know-about-pancake-swap-v4-what-s-in-it-for-developers-traders-liquidity-providers-and-defi-protocols)
+**3. Oportunidades de Generación de Ingresos:** Los desarrolladores pueden establecer un flujo de ingresos consistente a través de comisiones de hooks, permitiéndoles establecer comisiones por el uso de sus hooks. Al monetizar sus innovaciones con comisiones, los desarrolladores pueden contribuir al crecimiento y desarrollo del ecosistema de PancakeSwap. Consulta este blog para [aprender más](https://blog.pancakeswap.finance/articles/everything-you-need-to-know-about-pancake-swap-v4-what-s-in-it-for-developers-traders-liquidity-providers-and-defi-protocols)
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-03-15 at 09.40.42.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-03-15%20at%2009.40.42.png" alt=""><figcaption></figcaption></figure>
 
-**Q3** What improvements does PancakeSwap Infinity bring compared to v3?
+**P3** ¿Qué mejoras aporta PancakeSwap Infinity en comparación con v3?
 
-**Ans:** PancakeSwap Infinity introduces the capability to enhance liquidity pool functionalities with custom features without re-implementing the core protocol. It also supports the implementation of any pricing curve on the go and offers substantial gas savings for users.
+**R:** PancakeSwap Infinity introduce la capacidad de mejorar las funcionalidades de los pools de liquidez con características personalizadas sin reimplementar el protocolo principal. También admite la implementación de cualquier curva de precios al momento y ofrece sustanciales ahorros de gas para los usuarios.
 
-**Q4** Will there be any changes to the user interface or user experience in PancakeSwap Infinity?
+**P4** ¿Habrá cambios en la interfaz de usuario o en la experiencia de usuario en PancakeSwap Infinity?
 
-**Ans:** Users can swap on Infinity through PancakeSwap’s swapping page, just like the usual friendly experience. Traders and liquidity providers have multiple options to add liquidity across supported pool types, including CLAMM and LBAMM.
+**R:** Los usuarios pueden intercambiar en Infinity a través de la página de intercambio de PancakeSwap, igual que la experiencia habitual. Los traders y proveedores de liquidez tienen múltiples opciones para añadir liquidez en los tipos de pool compatibles, incluyendo CLAMM y LBAMM.
 
-**Q5** How can the community get involved in testing or providing feedback for PancakeSwap Infinity?
+**P5** ¿Cómo puede la comunidad participar en las pruebas o proporcionar comentarios sobre PancakeSwap Infinity?
 
-**Ans:** If you're a community member, feel free to share your feedback through our socials on [Telegram](https://t.me/PancakeSwapAnn), [Discord](https://discord.com/channels/897834609272840232/1207724381212770315), and [Twitter](https://twitter.com/PancakeSwap). If you're a developer, join our developer Discord community and share your thoughts.
+**R:** Si eres miembro de la comunidad, no dudes en compartir tus comentarios a través de nuestras redes sociales en [Telegram](https://t.me/PancakeSwapAnn), [Discord](https://discord.com/channels/897834609272840232/1207724381212770315) y [Twitter](https://twitter.com/PancakeSwap). Si eres desarrollador, únete a nuestra comunidad de Discord para desarrolladores y comparte tus ideas.
 
-**Q6** Where can users find more information about PancakeSwap Infinity and stay updated on its development progress?
+**P6** ¿Dónde pueden los usuarios encontrar más información sobre PancakeSwap Infinity y mantenerse actualizados sobre su progreso de desarrollo?
 
-**Ans:** Visit our official [website](https://pancakeswap.finance/v4?utm_source=v4announcementblog\&utm_medium=blog\&utm_campaign=v4announcementblog\&utm_id=v4announcementblog) , read our [whitepaper](https://github.com/pancakeswap/pancake-v4-core/blob/main/docs/whitepaper-en.pdf) , and follow us on social media for the latest updates and developments.  If you're a developer, join our developer Discord community.\
+**R:** Visita nuestro [sitio web](https://pancakeswap.finance/v4?utm_source=v4announcementblog\&utm_medium=blog\&utm_campaign=v4announcementblog\&utm_id=v4announcementblog) oficial, lee nuestro [whitepaper](https://github.com/pancakeswap/pancake-v4-core/blob/main/docs/whitepaper-en.pdf) y síguenos en las redes sociales para obtener las últimas actualizaciones y desarrollos. Si eres desarrollador, únete a nuestra comunidad de Discord para desarrolladores.\
 \
-**Q7** What is the licensing mechanism for PancakeSwap Infinity?
+**P7** ¿Cuál es el mecanismo de licenciamiento de PancakeSwap Infinity?
 
-**Ans:** PancakeSwap Infinity is committed to open-source principles. Our code will be released under an open-source license, empowering developers to innovate freely. However, As a part of our [Affiliate initiative](https://forum.pancakeswap.finance/t/discussion-on-pancakeswap-affiliates-a-multichain-expansion-strategy/395), DeFi protocols forking PancakeSwap will be warmly welcomed and officially recognized by the Kitchen.\
+**R:** PancakeSwap Infinity está comprometido con los principios de código abierto. Nuestro código se lanzará bajo una licencia de código abierto, permitiendo a los desarrolladores innovar libremente. Sin embargo, como parte de nuestra [iniciativa de Afiliados](https://forum.pancakeswap.finance/t/discussion-on-pancakeswap-affiliates-a-multichain-expansion-strategy/395), los protocolos DeFi que hagan un fork de PancakeSwap serán bienvenidos y reconocidos oficialmente por la Kitchen.\
 \
-**Q8** How does PancakeSwap Infinity reduce gas fees?
+**P8** ¿Cómo reduce PancakeSwap Infinity las comisiones de gas?
 
-**Ans:** PancakeSwap Infinity leverages the Singleton and Flash accounting mechanisms to reduce gas fees significantly. By consolidating all pools into a single contract (singleton), multi-pool transactions are simplified, making them more cost-effective. Flash Accounting replaces individual transfers with net balances, computed collectively at the end of each transaction, resulting in substantial gas savings. ERC-6909 further reduces gas for frequent users by letting users keep their funds within the protocol and use them when required, eliminating transfers to/from their wallets.\
+**R:** PancakeSwap Infinity aprovecha los mecanismos de Singleton y Flash Accounting para reducir significativamente las comisiones de gas. Al consolidar todos los pools en un único contrato (singleton), las transacciones de múltiples pools se simplifican, haciéndolas más rentables. Flash Accounting reemplaza las transferencias individuales con saldos netos, calculados colectivamente al final de cada transacción, lo que resulta en sustanciales ahorros de gas. ERC-6909 reduce aún más el gas para los usuarios frecuentes permitiéndoles mantener sus fondos dentro del protocolo y usarlos cuando sea necesario, eliminando las transferencias hacia y desde sus billeteras.\
 \
-**Q9** What are Hooks in PancakeSwap Infinity, and how do they enable innovation?
+**P9** ¿Qué son los Hooks en PancakeSwap Infinity y cómo permiten la innovación?
 
-**Ans:** Hooks are customizable add-ons that enhance liquidity pool functionality, allowing developers to introduce custom features and fee management options. Deployed externally, Hooks can execute predefined logic during key pool actions, offering endless possibilities, including dynamic fees, order types, custom oracles, and active liquidity management strategies. Check out this blog to [learn more](https://blog.pancakeswap.finance/articles/why-should-developers-build-on-pancake-swap-v4-and-how-to-build-hooks)\
+**R:** Los hooks son complementos personalizables que mejoran la funcionalidad de los pools de liquidez, permitiendo a los desarrolladores introducir características personalizadas y opciones de gestión de comisiones. Desplegados externamente, los Hooks pueden ejecutar lógica predefinida durante acciones clave del pool, ofreciendo posibilidades ilimitadas, incluyendo comisiones dinámicas, tipos de órdenes, oráculos personalizados y estrategias de gestión de liquidez activa. Consulta este blog para [aprender más](https://blog.pancakeswap.finance/articles/why-should-developers-build-on-pancake-swap-v4-and-how-to-build-hooks)\
 \
-**Q10** What opportunities does PancakeSwap Infinity present for developers?
+**P10** ¿Qué oportunidades presenta PancakeSwap Infinity para los desarrolladores?
 
-**Ans:** Developers can build innovative solutions, generate revenue through hook fees, and tap into PancakeSwap's extensive user base and deep liquidity. Read our dedicated [blog post](https://blog.pancakeswap.finance/articles/why-should-developers-build-on-pancake-swap-v4-and-how-to-build-hooks) on why developers should build on PancakeSwap.
+**R:** Los desarrolladores pueden crear soluciones innovadoras, generar ingresos a través de comisiones de hooks y aprovechar la extensa base de usuarios y la profunda liquidez de PancakeSwap. Lee nuestra [publicación de blog](https://blog.pancakeswap.finance/articles/why-should-developers-build-on-pancake-swap-v4-and-how-to-build-hooks) dedicada sobre por qué los desarrolladores deberían construir en PancakeSwap.
 
-**Q11** How does PancakeSwap Infinity contribute to the broader DeFi ecosystem?
+**P11** ¿Cómo contribuye PancakeSwap Infinity al ecosistema DeFi más amplio?
 
-**Ans:** PancakeSwap Infinity aims to address the shortcomings of current AMMs, enhance the DEX experience, and evolve into the highest-functionality DeFi platform supported by our open-source approach. Read our Head Chef, Chef Mochi's [vision for Infinity](https://blog.pancakeswap.finance/articles/chef-mochi-s-vision-for-pancake-swap-v4-a-leap-forward-in-de-fi-innovation) to learn more\
+**R:** PancakeSwap Infinity tiene como objetivo abordar las deficiencias de los AMMs actuales, mejorar la experiencia DEX y evolucionar hacia la plataforma DeFi de mayor funcionalidad apoyada por nuestro enfoque de código abierto. Lee la [visión del Head Chef, Chef Mochi para Infinity](https://blog.pancakeswap.finance/articles/chef-mochi-s-vision-for-pancake-swap-v4-a-leap-forward-in-de-fi-innovation) para aprender más\
 \
-**Q12** Where can we find the hook template repository?
+**P12** ¿Dónde podemos encontrar el repositorio de plantillas de hooks?
 
-**Ans:** Hooks template can be found at [https://github.com/pancakeswap/infinity-hooks-template](https://github.com/pancakeswap/infinity-hooks-template) and example hooks at [https://github.com/pancakeswap/infinity-hooks](https://github.com/pancakeswap/infinity-hooks)\
+**R:** Las plantillas de hooks se pueden encontrar en [https://github.com/pancakeswap/infinity-hooks-template](https://github.com/pancakeswap/infinity-hooks-template) y los hooks de ejemplo en [https://github.com/pancakeswap/infinity-hooks](https://github.com/pancakeswap/infinity-hooks)\
 \
-**Q13** Can you explain the life cycles of hooks and their examples?
+**P13** ¿Puedes explicar los ciclos de vida de los hooks y sus ejemplos?
 
-**Ans:** Hooks can be implemented before / after 5 key actions namely initialize, swap, addLiquidity, removeLiquidity, donate. For instance, when a user initiates a swap, the PoolManager contract checks if a beforeSwap hook callback exists. If it does, the logic under the beforeSwap method in the hook contract is executed; otherwise, the swap proceeds as usual. After the swap is completed, the same process occurs for the afterSwap callback.\
+**R:** Los hooks pueden implementarse antes / después de 5 acciones clave: initialize, swap, addLiquidity, removeLiquidity, donate. Por ejemplo, cuando un usuario inicia un intercambio, el contrato PoolManager verifica si existe un callback de hook `beforeSwap`. Si existe, se ejecuta la lógica del método `beforeSwap` en el contrato de hook; de lo contrario, el intercambio continúa como de costumbre. Después de completarse el intercambio, el mismo proceso ocurre para el callback `afterSwap`.\
 \
-**Q14:** Do we need to perform address mining to ensure hooks are deployed at a specific address?\
-**Ans:** Hooks can be deployed on any address like other contracts. Callback permissions are set at PoolKey. For more info, please see the faq for hooks here&#x20;
+**P14:** ¿Necesitamos realizar minería de direcciones para asegurarnos de que los hooks se desplieguen en una dirección específica?\
+**R:** Los hooks pueden desplegarse en cualquier dirección como otros contratos. Los permisos de callback se establecen en PoolKey. Para más información, consulta el FAQ de hooks aquí&#x20;
 
 [https://developer.pancakeswap.finance/contracts/infinity/overview/custom-layer-hook](https://developer.pancakeswap.finance/contracts/infinity/overview/custom-layer-hook)\
 \
-**Q15:** How can we verify a hook contract on etherscan?&#x20;
+**P15:** ¿Cómo podemos verificar un contrato de hook en Etherscan?&#x20;
 
-**Ans:** If you are using foundry, you can refer to the foundry guide here [https://book.getfoundry.sh/reference/forge/forge-verify-contract](https://book.getfoundry.sh/reference/forge/forge-verify-contract) \
-Or if you are using hardhat, refer to the hard guide here [https://hardhat.org/hardhat-runner/docs/guides/verifying](https://hardhat.org/hardhat-runner/docs/guides/verifying)\
+**R:** Si usas foundry, puedes consultar la guía de foundry aquí [https://book.getfoundry.sh/reference/forge/forge-verify-contract](https://book.getfoundry.sh/reference/forge/forge-verify-contract) \
+O si usas hardhat, consulta la guía de hardhat aquí [https://hardhat.org/hardhat-runner/docs/guides/verifying](https://hardhat.org/hardhat-runner/docs/guides/verifying)\
 \
-**Q16:** Should we use foundry or hardhat for hook development?
+**P16:** ¿Debemos usar foundry o hardhat para el desarrollo de hooks?
 
-**Ans:** The template [https://github.com/pancakeswap/infinity-hooks-template](https://github.com/pancakeswap/infinity-hooks-template) is based on foundry; thus, we advise using foundry. Besides that, the foundry has been growing in popularity!&#x20;
+**R:** La plantilla [https://github.com/pancakeswap/infinity-hooks-template](https://github.com/pancakeswap/infinity-hooks-template) está basada en foundry; por lo tanto, recomendamos usar foundry. ¡Además, foundry ha ido ganando popularidad!&#x20;
 
-**Q17:** What are pool keys?&#x20;
+**P17:** ¿Qué son las claves de pool?&#x20;
 
-**Ans:** PoolKey is a struct that describes each pool. See more [here](https://developer.pancakeswap.finance/contracts/infinity/overview/amm-layer-poolmanager).\
+**R:** PoolKey es un struct que describe cada pool. Ver más [aquí](https://developer.pancakeswap.finance/contracts/infinity/overview/amm-layer-poolmanager).\
 \
 \
-PancakeSwap Infinity represents a significant milestone in the DeFi space, offering unparalleled benefits for traders, developers, liquidity providers, and the broader community. We're excited to embark on this journey with you and look forward to shaping the future of DeFi together. We hope this FAQ has answered your questions about PancakeSwap Infinity. If you have any further questions, feel free to reach out to us via  ([Twitter](https://twitter.com/PancakeSwap), [Discord](https://discord.com/channels/897834609272840232/1207724381212770315), and [Telegram](https://t.me/PancakeSwap)) or check our Dev [documentation](https://developer.pancakeswap.finance).
+PancakeSwap Infinity representa un hito significativo en el espacio DeFi, ofreciendo beneficios sin igual para traders, desarrolladores, proveedores de liquidez y la comunidad en general. Estamos entusiasmados de embarcarnos en este viaje contigo y esperamos dar forma al futuro de DeFi juntos. Esperamos que este FAQ haya respondido tus preguntas sobre PancakeSwap Infinity. Si tienes más preguntas, no dudes en contactarnos a través de ([Twitter](https://twitter.com/PancakeSwap), [Discord](https://discord.com/channels/897834609272840232/1207724381212770315) y [Telegram](https://t.me/PancakeSwap)) o consulta nuestra [documentación](https://developer.pancakeswap.finance) para desarrolladores.

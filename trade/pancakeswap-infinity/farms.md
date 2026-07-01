@@ -1,56 +1,56 @@
 # Farms
 
-PancakeSwap Infinity farming is a simple, gas-efficient way for users to earn liquidity rewards without needing to stake their LP tokens. Once liquidity is added to an eligible pool, rewards begin accruing automatically.
+El farming en PancakeSwap Infinity es una forma simple y eficiente en gas para que los usuarios ganen recompensas de liquidez sin necesidad de hacer staking de sus tokens LP. Una vez que se añade liquidez a un pool elegible, las recompensas comienzan a acumularse automáticamente.
 
-#### ⚙️ How It Works
+#### ⚙️ Cómo Funciona
 
-Here’s a quick breakdown of how the system tracks and distributes rewards:<br>
+Aquí tienes un resumen rápido de cómo el sistema rastrea y distribuye las recompensas:<br>
 
-**✅ No Staking Required**
+**✅ Sin Necesidad de Staking**
 
-* Just hold your LP position in your wallet.
-* No need to lock your assets or interact with additional smart contracts.
-* You start earning rewards automatically when you add liquidity.
+* Solo mantén tu posición LP en tu billetera.
+* No necesitas bloquear tus activos ni interactuar con contratos inteligentes adicionales.
+* Empiezas a ganar recompensas automáticamente cuando añades liquidez.
 
-#### 📈 Rewards Distribution
+#### 📈 Distribución de Recompensas
 
-* Only in-range positions (those providing active liquidity) receive rewards.
-* Rewards are proportional to the fees earned by your position during each period, called an epoch.
+* Solo las posiciones dentro del rango (las que proveen liquidez activa) reciben recompensas.
+* Las recompensas son proporcionales a las comisiones generadas por tu posición durante cada período, llamado epoch.
 
-#### ⏳ What’s an Epoch?
+#### ⏳ ¿Qué es un Epoch?
 
-* An epoch is a fixed time window — currently set to 8 hours.
-* Rewards are calculated and distributed after each epoch.
-* Epochs are currently scheduled at 00:00, 08:00, and 16:00 UTC.
+* Un epoch es una ventana de tiempo fija — actualmente establecida en 8 horas.
+* Las recompensas se calculan y distribuyen después de cada epoch.
+* Los epochs están programados actualmente a las 00:00, 08:00 y 16:00 UTC.
 
 ***
 
-#### 🔄 Farming & Claim Process
+#### 🔄 Proceso de Farming y Reclamación
 
-1. **Tracking Positions:** The backend system monitors your LP positions across all farms.
-2. **Reward Calculation:** At the end of every epoch,
-   1. The system calculates your rewards based on your liquidity and the fees generated.
-   2. It processes the rewards into a Merkle tree and submits a Merkle root to a smart contract.
-3. **Dispute Period:**
-   1. After the Merkle root is published, the 1-hour dispute period begins.
-   2. During the dispute period:
-      1. The newly calculated rewards cannot be claimed.
-      2. Rewards from previous epochs remain available to claim.
-      3. Automated and community-operated verification tools check the accuracy of the published data. If discrepancies are detected, a dispute may be raised to prevent incorrect distributions.
-4. **Claiming Rewards:**
-   1. Once the dispute period ends, you can claim your rewards for the latest epoch.
-   2. All pending rewards across all farms can be claimed in a single, gas-efficient transaction.
-5. **Unclaimed Rewards Roll Over:**
-   1. Any unclaimed rewards roll over to subsequent epochs. Each update incorporates previous rewards, ensuring no earnings are lost or expired.
+1. **Seguimiento de Posiciones:** El sistema backend monitorea tus posiciones LP en todos los farms.
+2. **Cálculo de Recompensas:** Al final de cada epoch,
+   1. El sistema calcula tus recompensas en función de tu liquidez y las comisiones generadas.
+   2. Procesa las recompensas en un árbol Merkle y envía un Merkle root a un contrato inteligente.
+3. **Período de Disputa:**
+   1. Después de publicarse el Merkle root, comienza el período de disputa de 1 hora.
+   2. Durante el período de disputa:
+      1. Las recompensas recién calculadas no se pueden reclamar.
+      2. Las recompensas de epochs anteriores siguen disponibles para reclamar.
+      3. Herramientas de verificación automatizadas y operadas por la comunidad comprueban la exactitud de los datos publicados. Si se detectan discrepancias, se puede plantear una disputa para evitar distribuciones incorrectas.
+4. **Reclamación de Recompensas:**
+   1. Una vez que finaliza el período de disputa, puedes reclamar tus recompensas del último epoch.
+   2. Todas las recompensas pendientes en todos los farms pueden reclamarse en una única transacción eficiente en gas.
+5. **Las Recompensas No Reclamadas se Acumulan:**
+   1. Cualquier recompensa no reclamada se acumula para los epochs posteriores. Cada actualización incorpora las recompensas anteriores, garantizando que no se pierdan ni expiren las ganancias.
 
 {% hint style="info" %}
-Tighter liquidity ranges generally lead to higher earnings but increase the likelihood of a position moving out of range and becoming ineligible for rewards.
+Los rangos de liquidez más ajustados generalmente conducen a mayores ganancias, pero aumentan la probabilidad de que una posición salga del rango y deje de ser elegible para las recompensas.
 {% endhint %}
 
-#### 🌱 Summary
+#### 🌱 Resumen
 
-✅ No staking\
-✅ Gas-efficient claiming\
-✅ Regular reward updates\
-✅ Fair and transparent dispute process\
-✅ Rewards accumulate until you’re ready to claim
+✅ Sin staking\
+✅ Reclamación eficiente en gas\
+✅ Actualizaciones regulares de recompensas\
+✅ Proceso de disputa justo y transparente\
+✅ Las recompensas se acumulan hasta que estés listo para reclamar

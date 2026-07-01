@@ -1,89 +1,89 @@
 # ❓ FAQ
 
-### 1. How does slippage tolerance work for Crosschain swaps?
+### 1. ¿Cómo funciona la tolerancia al deslizamiento en los intercambios multicadena?
 
-For Crosschain swaps, your selected slippage tolerance percentage is applied independently to swaps on both the source and destination chains.
+Para los intercambios multicadena, el porcentaje de tolerancia al deslizamiento que seleccionas se aplica de forma independiente a los intercambios tanto en la cadena de origen como en la de destino.
 
-**Example:**
+**Ejemplo:**
 
-* Swap BNB on BNB Chain to ARB on Arbitrum
-* Slippage tolerance set to 1%
-* The route could be:
-  1. Swap BNB to USDC on BNB Chain
-  2. Bridge USDC from BNB Chain to Arbitrum via Across
-  3. Swap USDC to ARB on Arbitrum
-* In this case, the 1% slippage tolerance applies separately to:
-  * The swap on BNB Chain
-  * The swap on Arbitrum
+* Intercambiar BNB en BNB Chain a ARB en Arbitrum
+* Tolerancia al deslizamiento establecida en 1%
+* La ruta podría ser:
+  1. Intercambiar BNB por USDC en BNB Chain
+  2. Puentear USDC desde BNB Chain a Arbitrum a través de Across
+  3. Intercambiar USDC por ARB en Arbitrum
+* En este caso, la tolerancia al deslizamiento del 1% se aplica por separado a:
+  * El intercambio en BNB Chain
+  * El intercambio en Arbitrum
 
-This ensures you’re protected from excessive price movements on both legs of the transaction while keeping the bridging process itself unaffected by slippage settings.
+Esto garantiza que estés protegido frente a movimientos de precio excesivos en ambos tramos de la transacción, sin que la configuración de deslizamiento afecte al proceso de puenteo.
 
-### 2. What happens if my transaction fails?
+### 2. ¿Qué ocurre si mi transacción falla?
 
-If your Crosschain swap encounters a failure at any stage, here’s how it’s handled:
+Si tu intercambio multicadena encuentra un fallo en alguna etapa, así es como se gestiona:
 
-1.  **Swap/Transaction Failure on Source Chain**
+1.  **Fallo de Intercambio/Transacción en la Cadena de Origen**
 
-    ➝ You’ll instantly receive your original token back on the source chain.
-2.  **Bridge Transaction Failure**
+    ➝ Recibirás inmediatamente tu token original de vuelta en la cadena de origen.
+2.  **Fallo de Transacción de Puente**
 
-    ➝ Across will process a refund within 90 minutes to 2 hours, and you’ll receive the bridged asset back on the source chain. While Relay processes the refund within a minute in such scenarios between SOL <> EVM.
-3.  **Swap Failure on Destination Chain**
+    ➝ Across procesará un reembolso en un plazo de 90 minutos a 2 horas, y recibirás el activo puenteado de vuelta en la cadena de origen. Relay procesa el reembolso en menos de un minuto en dichos escenarios entre SOL <> EVM.
+3.  **Fallo de Intercambio en la Cadena de Destino**
 
-    ➝ You’ll receive the bridged asset on the destination chain, without the final swap to your target token.
+    ➝ Recibirás el activo puenteado en la cadena de destino, sin el intercambio final por tu token objetivo.
 
 {% hint style="info" %}
-**Note:** You can always check the status of your transactions through the transaction history tab under wallet connect UI.
+**Nota:** Siempre puedes comprobar el estado de tus transacciones a través de la pestaña de historial de transacciones en la interfaz de conexión de billetera.
 {% endhint %}
 
-### 3. Are my Crosschain swaps MEV protected?
+### 3. ¿Mis intercambios multicadena están protegidos contra MEV?
 
-MEV Guard is only supported on the BNB Chain when swaps are initiated directly from a connected wallet with MEV Guard enabled.
+MEV Guard solo es compatible en BNB Chain cuando los intercambios se inician directamente desde una billetera conectada con MEV Guard activado.
 
-* If your Crosschain swap involves a swap on BNB Chain as the source chain, and you have MEV Guard enabled, that swap will be MEV protected.
-* If BNB Chain is the destination chain, the swap is executed by the bridging relayer/system and will not be MEV protected, since it’s not initiated by your connected wallet.
+* Si tu intercambio multicadena involucra un intercambio en BNB Chain como cadena de origen y tienes MEV Guard activado, ese intercambio estará protegido contra MEV.
+* Si BNB Chain es la cadena de destino, el intercambio lo ejecuta el relayer/sistema de puenteo y no estará protegido contra MEV, ya que no lo inicia tu billetera conectada.
 
 {% hint style="info" %}
-**Note:** Other chains like Arbitrum and Base currently do not support MEV Guard protection on PancakeSwap.
+**Nota:** Otras cadenas como Arbitrum y Base actualmente no admiten la protección MEV Guard en PancakeSwap.
 {% endhint %}
 
-### 4. Can I swap stablecoins between chains?
+### 4. ¿Puedo intercambiar stablecoins entre cadenas?
 
-Yes — you can swap and bridge stablecoins like USDC, USDT, and DAI directly between any supported chains.
+Sí — puedes intercambiar y puentear stablecoins como USDC, USDT y DAI directamente entre cualquier cadena compatible.
 
-You have two options:
+Tienes dos opciones:
 
-1.  **Direct Bridge:**
+1.  **Puente Directo:**
 
-    Bridge supported stablecoins (like USDC, USDT, etc) directly from one chain to another.
-2.  **Swap to Other Tokens:**
+    Puentea stablecoins compatibles (como USDC, USDT, etc.) directamente de una cadena a otra.
+2.  **Intercambio por Otros Tokens:**
 
-    You can also swap a stablecoin to any other token supported on the destination chain using PancakeSwap’s liquidity pools — either before or after bridging.
+    También puedes intercambiar una stablecoin por cualquier otro token compatible en la cadena de destino usando los pools de liquidez de PancakeSwap — ya sea antes o después del puenteo.
 
 {% hint style="info" %}
-**Note:** Supported stablecoins for direct bridging may vary by chain.
+**Nota:** Las stablecoins compatibles para puenteo directo pueden variar según la cadena.
 {% endhint %}
 
-### 5. Will my swaps use PCSX?
+### 5. ¿Mis intercambios usarán PCSX?
 
-No — PCSX is not supported for servicing Crosschain swaps.
+No — PCSX no es compatible para servir intercambios multicadena.
 
-Crosschain swaps on PancakeSwap are exclusively routed through:
+Los intercambios multicadena en PancakeSwap se enrutan exclusivamente a través de:
 
-* **PancakeSwap’s liquidity pools** (v2, v3, Infinity, StableSwap) for on-chain swaps, and
-* **Across & Relay protocols** for bridging assets between chains.
+* **Los pools de liquidez de PancakeSwap** (v2, v3, Infinity, StableSwap) para intercambios en cadena, y
+* **Los protocolos Across y Relay** para puentear activos entre cadenas.
 
-PCSX cannot be used to facilitate or route any part of a Crosschain swap transaction.
+PCSX no puede utilizarse para facilitar o enrutar ninguna parte de una transacción de intercambio multicadena.
 
-### 6. Is there a minimum or maximum limit on swap amount?
+### 6. ¿Existe un límite mínimo o máximo en el monto del intercambio?
 
-Yes — both minimum and maximum limits apply to Crosschain transactions.
+Sí — tanto los límites mínimos como máximos se aplican a las transacciones multicadena.
 
-* **Maximum Limit:**\
-  Depends on the available bridge liquidity for the selected token and chain. This value can fluctuate in real-time based on network and liquidity conditions.
-* **Minimum Limit:**\
-  Set to ensure it’s economically viable for relayers to process the bridge transaction.
+* **Límite Máximo:**\
+  Depende de la liquidez de puente disponible para el token y la cadena seleccionados. Este valor puede fluctuar en tiempo real según las condiciones de red y liquidez.
+* **Límite Mínimo:**\
+  Se establece para garantizar que sea económicamente viable para los relayers procesar la transacción de puente.
 
 {% hint style="info" %}
-**Note:** The exact min and max limits vary by bridge token. If your transaction amount is outside the allowed range, the interface will show a clear error message and prompt you to adjust the amount.
+**Nota:** Los límites exactos mínimo y máximo varían según el token de puente. Si el monto de tu transacción está fuera del rango permitido, la interfaz mostrará un mensaje de error claro y te pedirá que ajustes el monto.
 {% endhint %}
