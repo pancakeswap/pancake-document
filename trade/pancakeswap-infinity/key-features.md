@@ -50,7 +50,7 @@ With the introduction of Singleton architecture and Flash Accounting, PancakeSwa
 PancakeSwap Infinity gives developers the power to create custom pricing models for pools — moving beyond the traditional model used in most AMMs.
 
 {% hint style="success" %}
-#### Developers can build entirely new swap behaviors and liquidity models tailored to specific asset types or trading strategies.
+**Developers can build entirely new swap behaviors and liquidity models tailored to specific asset types or trading strategies.**
 {% endhint %}
 
 #### 🔧 What Are Custom Pricing Curves?
@@ -121,8 +121,6 @@ The `donate()` method allows users to directly incentivize in-range liquidity pr
 * **Direct Payments to LPs:** Donations are made directly to liquidity providers, rewarding those who maintain liquidity within the active range of the pool.
 * **Supports Pool Tokens Only:** The `donate()` method only supports donations in the pool's tokens, as it leverages the fee accounting system to ensure proper distribution.
 * **Open to All Users:** Any user can call the `donate()` method, enabling anyone to incentivize active liquidity provision.
-
-
 
 While the `donate()` method is a powerful tool to incentivize LPs, donors should be aware that their donations may be front run by other users. This can occur when a user quickly adds liquidity to the pool right before a donation is made, receiving a portion of the donated funds.
 

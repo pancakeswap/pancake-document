@@ -32,7 +32,7 @@ Read the proposal carefully and click the choice you want to vote on.
 
 ![](../../../.gitbook/assets/how-to-vote-6.png)
 
-Confirm all the details and click "Confirm Vote", then confirm in your wallet to sign the message.&#x20;
+Confirm all the details and click "Confirm Vote", then confirm in your wallet to sign the message.
 
 Done, you just successfully cast your vote.
 
@@ -49,11 +49,11 @@ In this window, you will be able to view the following items:
 * The choice you picked
 * Your voting power
 
-Your voting power is equal to your CAKE balance at the snapshot block.&#x20;
+Your voting power is equal to your CAKE balance at the snapshot block.
 {% endtab %}
 
 {% tab title="Check the snapshot block" %}
-#### Check the snapshot block
+**Check the snapshot block**
 
 ![](../../../.gitbook/assets/how-to-vote-3.png)
 

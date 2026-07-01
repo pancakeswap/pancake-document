@@ -10,7 +10,7 @@ Head to [pancakeswap.finance/perps](https://pancakeswap.finance/perps) or click 
 
 Click Connect Wallet in the top right corner. No account creation or KYC required — your wallet is your account.
 
-<figure><img src="../../../.gitbook/assets/image (157).png" alt="" width="507"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt="" width="507"><figcaption></figcaption></figure>
 
 ### **Choose your mode**
 
@@ -20,7 +20,7 @@ Select **Simple Mode** for a fast one-tap long or short with preset sizes. Switc
 
 ### **Choose a trading pair**
 
-Click on the pair name at the top of the page to open the asset selector. A huge variety of token pairs are available.&#x20;
+Click on the pair name at the top of the page to open the asset selector. A huge variety of token pairs are available.
 
 <figure><img src="../../../.gitbook/assets/image (228).png" alt="" width="375"><figcaption></figcaption></figure>
 

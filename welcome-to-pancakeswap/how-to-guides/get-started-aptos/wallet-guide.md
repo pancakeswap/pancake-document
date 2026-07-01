@@ -112,7 +112,7 @@ Blocto offers a user-friendly solution and an all-in-one package for using Dapps
 
 [**Download Blocto Wallet**](https://portto.com/download)
 
-#### **Blocto Wallet Setup Guide**
+**Blocto Wallet Setup Guide**
 
 1 - Set up by entering your Email address. Then enter the one-time password received by Email.
 
@@ -217,7 +217,7 @@ Fewcha is a trusted crypto wallet optimized for Aptos and SUI ecosystem that unl
 
 [**Download FewCha Wallet**](https://fewcha.app/)
 
-#### **Fewcha wallet setup guide**
+**Fewcha wallet setup guide**
 
 1\. Once Fewcha Wallet extension finishes downloading, a welcome tab will appear. Here you can select “Create a new wallet” (or “Use an existing wallet” if you’ve already had one.)
 
@@ -262,7 +262,7 @@ Blocto offers a user-friendly solution and an all-in-one package for using Dapps
 * Custodial model
 * A bit complicated if you want to export your private key and manage it or use it in other wallets. [Tutorial](https://portto.zendesk.com/hc/en-us/articles/4411564072217-Can-I-export-my-private-key-from-Blocto-and-use-it-in-Metamask-Phantom-Trust-Wallet-).
 
-#### **Blocto wallet setup guide**
+**Blocto wallet setup guide**
 
 1 - After selecting "Blocto" in the wallet connection window, you should be presented with a sign-in window. Type in your Email address and click "Register". If you have previously setup a Blocto account, please type in the Email address and click "sign in".
 

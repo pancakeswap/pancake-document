@@ -4,7 +4,7 @@
 
 PancakeSwap Prediction is a fun and simple decentralized prediction market.
 
-> #### Predict whether BNB, BTC, or ETH price will rise or fall – guess correctly to win!
+> **Predict whether BNB, BTC, or ETH price will rise or fall – guess correctly to win!**
 
 ### Platforms
 

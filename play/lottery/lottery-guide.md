@@ -38,7 +38,7 @@ You can choose to either randomize your lottery ticket numbers, or to choose you
 
 {% tabs %}
 {% tab title="Randomized ticket numbers" %}
-#### Randomized ticket numbers
+**Randomized ticket numbers**
 
 1\. On the[ PancakeSwap Lottery page](https://pancakeswap.finance/lottery), click the **Buy Tickets** button at the top of the page (there's another lower on the page also).
 
@@ -62,7 +62,7 @@ The discount starts at 2 tickets, and scales all the way to 100 tickets where yo
 {% endtab %}
 
 {% tab title="Manual ticket numbers" %}
-#### Manual ticket numbers
+**Manual ticket numbers**
 
 1\. On the[ PancakeSwap Lottery page](https://pancakeswap.finance/lottery), click the **Buy Tickets** button at the top of the page (there's another lower on the page also).
 
@@ -88,7 +88,7 @@ The discount starts at 2 tickets, and scales all the way to 100 tickets where yo
 
 You can randomize your numbers again by clicking **Randomize**, or go back if you change your mind by clicking **Go back**.
 
-![](https://lh4.googleusercontent.com/229uStQBb-Uzj-Tu9kRDXxfux4wWNjeHjPXJBULwhKbCR5UEgWnb3jzzj1-KeWeBfxfGlctR9aH\_S1P\_l6\_VgtrZR0Eb2AVqrJLF8oNkpoVFlpeHaOIsUij-bs12QBOwDAIJEJiU)
+![](https://lh4.googleusercontent.com/229uStQBb-Uzj-Tu9kRDXxfux4wWNjeHjPXJBULwhKbCR5UEgWnb3jzzj1-KeWeBfxfGlctR9aH_S1P_l6_VgtrZR0Eb2AVqrJLF8oNkpoVFlpeHaOIsUij-bs12QBOwDAIJEJiU)
 
 You'll get a warning if you create duplicate tickets. It's possible your duplicate tickets will win. In this case your tickets will share in the prize pool for their bracket.
 
@@ -124,6 +124,6 @@ You can view your tickets after buying them before the round's numbers are drawn
 
 ‌1. Click **View Your Tickets** in the "Finished Rounds" area of the Lottery page.
 
-![](https://lh3.googleusercontent.com/p3QxWcrxCcBwHrhwPU55vnAN-BmelgNwKRWse8yEQQVfehXsIOvUX\_tCo1gC7LpHxL-crIMS19RxpnMxn5yBuShNwXfH7qzCSdCOtnBeXhUuecrqRvhdI97rX\_CuVuWAawaor6Mi)
+![](https://lh3.googleusercontent.com/p3QxWcrxCcBwHrhwPU55vnAN-BmelgNwKRWse8yEQQVfehXsIOvUX_tCo1gC7LpHxL-crIMS19RxpnMxn5yBuShNwXfH7qzCSdCOtnBeXhUuecrqRvhdI97rX_CuVuWAawaor6Mi)
 
 2\. A window will open showing the winning numbers and all of your tickets and their numbers.\\
