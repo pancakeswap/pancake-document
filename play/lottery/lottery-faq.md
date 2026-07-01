@@ -1,80 +1,80 @@
-# Lottery FAQ
+# FAQ de la Lotería
 
-## What if there are no winners?
+## ¿Qué pasa si no hay ganadores?
 
-If CAKE in the prize pools isn't won it doesn't go to waste! Unclaimed CAKE rolls over to the next Lottery round.
+Si el CAKE del pozo de premios no es ganado, ¡no se desperdicia! El CAKE no reclamado pasa a la siguiente ronda de la Lotería.
 
-## My ticket matches several numbers but I can't claim a prize
+## Mi boleto coincide con varios números pero no puedo reclamar un premio
 
-Tickets are only eligible for prizes if matching numbers from left to right. See the [Lottery v2 documentation](./) for a thorough explanation.
+Los boletos solo son elegibles para premios si los números coinciden de izquierda a derecha. Consulta la [documentación de Lottery v2](./) para una explicación detallada.
 
-## How is Lottery v2 different from Lottery v1?
+## ¿En qué se diferencia Lottery v2 de Lottery v1?
 
-Lottery v2 distributes prizes more widely than Lottery v1. It gives each ticket a 1 in 10 chance to match the first number, which means more tickets will at least win a small prize. It also has 6 (up from 4) numbers that need to be matched sequentially to win the biggest prize.
+Lottery v2 distribuye premios de manera más amplia que Lottery v1. Le da a cada boleto 1 posibilidad entre 10 de coincidir con el primer número, lo que significa que más boletos ganarán al menos un pequeño premio. También tiene 6 números (en lugar de 4) que deben coincidir secuencialmente para ganar el mayor premio.
 
-Overall this means more tickets can win a prize, but the largest prize jackpot will be won less frequently, making for huge top prize pools!
+En general, esto significa que más boletos pueden ganar un premio, pero el jackpot más grande se ganará con menos frecuencia, ¡lo que da lugar a enormes pozos de premios para el primer lugar!
 
-**Lottery v2 introduces:**
+**Lottery v2 introduce:**
 
-* cheaper ticket prices (\~$5 USD in CAKE per ticket) that don't swing wildly with the price of CAKE
-* bulk ticket discounts
-* 6-tiered prize pool brackets with increasing prize pools as more numbers are matched
-* manual number selection (optional), so users can use their lucky numbers
-* [Chainlink’s implementation of VRF](https://docs.chain.link/docs/chainlink-vrf/) for true, secure randomness
-* lower overall fees (see [lower down this page](lottery-faq.md#what-transaction-fee-will-i-pay-for-buying-tickets) for more information)
+* precios de boletos más económicos (\~$5 USD en CAKE por boleto) que no fluctúan drásticamente con el precio de CAKE
+* descuentos por compra de boletos al por mayor
+* 6 niveles de premios con pozos de premios crecientes a medida que se coinciden más números
+* selección manual de números (opcional), para que los usuarios puedan usar sus números de la suerte
+* [implementación de VRF de Chainlink](https://docs.chain.link/docs/chainlink-vrf/) para una aleatoriedad verdadera y segura
+* tarifas generales más bajas (ver [más abajo en esta página](lottery-faq.md#what-transaction-fee-will-i-pay-for-buying-tickets) para más información)
 
-[Learn more about Lottery v2 features, gameplay, and prizes](./)
+[Aprende más sobre las características, el juego y los premios de Lottery v2](./)
 
-## How are prizes broken down between brackets?
+## ¿Cómo se distribuyen los premios entre los niveles?
 
-Each bracket's prize pool is a portion of the total CAKE in each Lottery round.
+El pozo de premios de cada nivel es una parte del total de CAKE en cada ronda de Lotería.
 
-* | Bracket (numbers matched in order) | CAKE Allocation |
-  | ---------------------------------- | --------------- |
-  | First 1 number                     | 2%              |
-  | First 2 numbers                    | 3%              |
-  | First 3 numbers                    | 5%              |
-  | First 4 numbers                    | 10%             |
-  | First 5 numbers                    | 20%             |
-  | First 6 numbers                    | 40%             |
-  | Burn                               | 20%             |
+* | Nivel (números coincidentes en orden) | Asignación de CAKE |
+  | ------------------------------------- | ------------------ |
+  | Primer 1 número                       | 2%                 |
+  | Primeros 2 números                    | 3%                 |
+  | Primeros 3 números                    | 5%                 |
+  | Primeros 4 números                    | 10%                |
+  | Primeros 5 números                    | 20%                |
+  | Primeros 6 números                    | 40%                |
+  | Quema                                 | 20%                |
 
-## Can I swap my tickets back to CAKE?
+## ¿Puedo intercambiar mis boletos de vuelta a CAKE?
 
-No, once purchased you will not be able to convert your ticket back to CAKE.
+No, una vez comprados no podrás convertir tus boletos de vuelta a CAKE.
 
-## If I win, do I need to manually claim the prize?
+## Si gano, ¿necesito reclamar el premio manualmente?
 
-Yes, you will need to click the **Check Now** button under "Are you a winner?" on the Lottery page.
+Sí, deberás hacer clic en el botón **Verificar ahora** debajo de "¿Eres un ganador?" en la página de la Lotería.
 
-![](<../../.gitbook/assets/image (68).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2868%29.png)
 
-## How often is the lottery?
+## ¿Con qué frecuencia se realiza la lotería?
 
-A lottery draw occurs every 12 or 36 hours. One lottery draw occurs every day alternating between 0 AM UTC and 12 PM UTC, next rounds after the 0 AM UTC rounds will be after 36 hours, next rounds after the 12 PM UTC rounds will be after 12 hours.
+El sorteo de la lotería ocurre cada 12 o 36 horas. Un sorteo de lotería ocurre cada día alternando entre las 0 AM UTC y las 12 PM UTC; las próximas rondas después de las rondas de las 0 AM UTC serán después de 36 horas, y las próximas rondas después de las rondas de las 12 PM UTC serán después de 12 horas.
 
-![Lottery injection schedule](<../../.gitbook/assets/Lottery Schedule Update Feb 4.png>)
+![Calendario de inyección de la Lotería](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Lottery%20Schedule%20Update%20Feb%204.png)
 
-## What transaction fee will I pay for buying tickets?
+## ¿Qué tarifa de transacción pagaré por comprar boletos?
 
-Every ticket purchase you make will be one transaction. Purchasing a single ticket in a Lottery purchase will cost the normal amount of fees for a transaction.
+Cada compra de boletos que realices será una transacción. Comprar un solo boleto en una compra de Lotería costará la cantidad normal de tarifas por una transacción.
 
-However, buying more tickets in that purchase will increase the fee. Buying 100 tickets rather than 1 will not multiply the fee by 100, but may increase the fee amount by 5-6 times (though this varies).
+Sin embargo, comprar más boletos en esa compra aumentará la tarifa. Comprar 100 boletos en lugar de 1 no multiplicará la tarifa por 100, pero puede aumentar el monto de la tarifa entre 5 y 6 veces (aunque esto varía).
 
-## How does the bulk discount work?
+## ¿Cómo funciona el descuento por volumen?
 
-The bulk discount rewards buying larger amounts of tickets with a scaling discount. If you're only buying 2 tickets, the discount is negligible, but will add up quickly as you increase the number of tickets to buy in one transaction.
+El descuento por volumen recompensa la compra de mayores cantidades de boletos con un descuento escalonado. Si solo compras 2 boletos, el descuento es insignificante, pero se acumulará rápidamente a medida que aumentes el número de boletos a comprar en una transacción.
 
-The discount only applies to each transaction up to 100 tickets. The discount does not carry over to the next transaction or next round.
+El descuento solo se aplica a cada transacción de hasta 100 boletos. El descuento no se traslada a la siguiente transacción ni a la siguiente ronda.
 
-## Why can I only buy 100 tickets?
+## ¿Por qué solo puedo comprar 100 boletos?
 
-You can only buy a maximum of 100 tickets in one purchase, but you can make multiple purchases. There's nothing to stop you buying more tickets after your first 100.
+Solo puedes comprar un máximo de 100 boletos en una sola compra, pero puedes hacer varias compras. Nada te impide comprar más boletos después de tus primeros 100.
 
-## If I manually create two or more tickets with the same numbers and they win, am I eligible for prizes for each ticket?
+## Si creo manualmente dos o más boletos con los mismos números y ganan, ¿soy elegible para recibir premios por cada boleto?
 
-Yes, each ticket is treated as a separate entry to the Lottery. Keep in mind that the prizes will not be 1:1 though, as each winning ticket you have dilutes each share of the bracket's total prizes.
+Sí, cada boleto se trata como una participación separada en la Lotería. Sin embargo, ten en cuenta que los premios no serán 1:1, ya que cada boleto ganador que tengas diluye cada parte de los premios totales del nivel.
 
-## Injection schedule: When is CAKE added to the lottery?
+## Calendario de inyección: ¿Cuándo se agrega CAKE a la lotería?
 
-When people buy tickets, the CAKE they spend is added to the lottery pot. In addition, 8,000 CAKE is also added (injected) to the lottery pot every other round on a regular schedule over the course of seven rounds per week as shown above in the lottery schedule figure.
+Cuando las personas compran boletos, el CAKE que gastan se agrega al pozo de la lotería. Además, se agregan (inyectan) 8,000 CAKE al pozo de la lotería cada dos rondas en un calendario regular durante el transcurso de siete rondas por semana, como se muestra arriba en la figura del calendario de lotería.

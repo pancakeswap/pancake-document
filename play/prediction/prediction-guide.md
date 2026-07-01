@@ -1,152 +1,152 @@
-# How to Use Prediction
+# Cómo Usar Predicción
 
-![](../../.gitbook/assets/how-to-porediction-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-porediction-header.png)
 
-Playing PancakeSwap’s Prediction lets you test your foresight to earn rewards. Use your market knowledge or gut feeling to predict if the BNBUSD, BTCUSD or ETHUSD price will go up or down in the near future. Get it right and you’ll collect a share of the round’s prize pool!
+Jugar la Predicción de PancakeSwap te permite poner a prueba tu perspicacia para ganar recompensas. Usa tu conocimiento del mercado o tu intuición para predecir si el precio de BNBUSD, BTCUSD o ETHUSD subirá o bajará en el futuro cercano. ¡Acierta y obtendrás una parte del pozo de premios de la ronda!
 
-## Switch between two prediction markets
+## Cambiar entre dos mercados de predicción
 
-<figure><img src="../../.gitbook/assets/image (453).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28453%29.png" alt=""><figcaption></figcaption></figure>
 
-PancakeSwap offers three separate prediction markets for every player to choose from (BNBUSD, BTCUSD, ETHUSD). All these markets accepts BNB as the betting asset.
+PancakeSwap ofrece tres mercados de predicción separados para que cada jugador elija (BNBUSD, BTCUSD, ETHUSD). Todos estos mercados aceptan BNB como activo de apuesta.
 
-To switch between two prediction markets, simply click or tap the currency switcher on the top left corner.
+Para cambiar entre dos mercados de predicción, simplemente haz clic o toca el selector de moneda en la esquina superior izquierda.
 
-## Making a prediction for the next round
+## Hacer una predicción para la próxima ronda
 
-The Prediction page shows quite a bit of information. Predictions operate in 5 minute rounds. Make your prediction before a round goes live to join in.
+La página de Predicción muestra bastante información. Las predicciones operan en rondas de 5 minutos. Haz tu predicción antes de que una ronda entre en vivo para participar.
 
-### Checking the timer
+### Verificar el temporizador
 
-To enter a round of Prediction, you'll want to check how long is left in the current round. You'll find the timer in the top-right area.
+Para participar en una ronda de Predicción, querrás verificar cuánto tiempo queda en la ronda actual. Encontrarás el temporizador en el área superior derecha.
 
-![](<../../.gitbook/assets/image (147).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28147%29.png)
 
-If the timer is too low your prediction may not confirm in time, so check there's still plenty of time left before you make a prediction (30 seconds should be plenty, but give yourself more time if you're following along with this guide).
+Si el temporizador es demasiado bajo, tu predicción puede no confirmarse a tiempo, así que verifica que todavía quede suficiente tiempo antes de hacer una predicción (30 segundos debería ser suficiente, pero date más tiempo si estás siguiendo esta guía).
 
-### Predicting the next round
+### Predecir la próxima ronda
 
-When you're sure you have enough time, you can place your prediction for the next round.
+Cuando estés seguro de que tienes suficiente tiempo, puedes colocar tu predicción para la próxima ronda.
 
-1\. In the "Next" section you'll see a green **Enter UP** button and a red **Enter DOWN** button. Click **Enter UP** if you want to predict a rise in price, and click **Enter DOWN** if you want to predict a drop in price.
+1\. En la sección "Siguiente" verás un botón verde **Entrar SUBE** y un botón rojo **Entrar BAJA**. Haz clic en **Entrar SUBE** si quieres predecir un aumento de precio, y haz clic en **Entrar BAJA** si quieres predecir una caída de precio.
 
-![](<../../.gitbook/assets/image (30).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2830%29.png)
 
-Each will have a different reward multiplier. The multiplier will change over time as the "Prize Pool" increases depending on people's predictions. The Prize Pool is shown just above the buttons.
+Cada uno tendrá un multiplicador de recompensa diferente. El multiplicador cambiará con el tiempo a medida que el "Pozo de Premios" aumente dependiendo de las predicciones de las personas. El Pozo de Premios se muestra justo encima de los botones.
 
-![](<../../.gitbook/assets/image (58).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2858%29.png)
 
-We'll choose **Enter UP** for this example.
+Elegiremos **Entrar SUBE** para este ejemplo.
 
-2\. A new window will open. In the window, you'll see "Commit" to commit BNB for your prediction. Type the number of tokens you would like to commit to your prediction for this round in the field. You can also use the bunny slider or click the percent buttons if you prefer.
+2\. Se abrirá una nueva ventana. En la ventana, verás "Comprometer" para comprometer BNB para tu predicción. Escribe el número de tokens que te gustaría comprometer para tu predicción en esta ronda en el campo. También puedes usar el control deslizante del conejito o hacer clic en los botones de porcentaje si lo prefieres.
 
-Before placing your first bet, you may need to click "Enable" to approve BNB.
+Antes de colocar tu primera apuesta, es posible que necesites hacer clic en "Habilitar" para aprobar BNB.
 
-![](<../../.gitbook/assets/image (172).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28172%29.png)
 
-3\. Once you've decided the amount to commit, click **Confirm** and confirm your action in your wallet.
+3\. Una vez que hayas decidido el monto a comprometer, haz clic en **Confirmar** y confirma tu acción en tu billetera.
 
-![](<../../.gitbook/assets/image (111).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28111%29.png)
 
-The confirm button will fade out as your transaction confirms. This short wait is why we checked the round timer earlier to make sure we would have time to make our prediction.
+El botón de confirmar se atenuará mientras se confirma tu transacción. Esta breve espera es la razón por la que verificamos el temporizador de la ronda antes para asegurarnos de tener tiempo para hacer nuestra predicción.
 
-4\. After your transaction confirms, an "ENTERED" message will appear.
+4\. Después de que se confirme tu transacción, aparecerá un mensaje de "INGRESADO".
 
-![](<../../.gitbook/assets/image (75).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2875%29.png)
 
-There's nothing left to do now but wait for your Prediction round to go live.
+No hay nada más que hacer ahora excepto esperar a que tu ronda de Predicción entre en vivo.
 
-## While your entered round is live
+## Mientras tu ronda está en vivo
 
-A live round will last for 5 minutes. You can watch the price update during the 5 minutes if you'd like.&#x20;
+Una ronda en vivo durará 5 minutos. Puedes ver cómo se actualiza el precio durante los 5 minutos si lo deseas.&#x20;
 
-![](<../../.gitbook/assets/image (155).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28155%29.png)
 
-You cannot change your prediction during a live round, however. You are locked into your prediction from earlier.
+Sin embargo, no puedes cambiar tu predicción durante una ronda en vivo. Estás bloqueado en tu predicción anterior.
 
-## Once your entered round finishes
+## Una vez que tu ronda finaliza
 
-After 5/10 minutes as the live round, your entered round will finish. Everything is automatic, so there's nothing you need to do to end the round.
+Después de 5/10 minutos como ronda en vivo, tu ronda finalizada habrá terminado. Todo es automático, así que no necesitas hacer nada para terminar la ronda.
 
-### Seeing the results
+### Ver los resultados
 
-1\. As the 5 minutes finish, the "LIVE" section will change to "Calculating". Calculating the results only takes a moment.
+1\. Cuando los 5 minutos terminen, la sección "EN VIVO" cambiará a "Calculando". El cálculo de los resultados solo toma un momento.
 
-![](<../../.gitbook/assets/image (125).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28125%29.png)
 
-2\. After a short wait, the finished round will move left and say "Expired". The result of the round will display with either UP colored in green, or DOWN colored in red.
+2\. Después de una breve espera, la ronda finalizada se moverá a la izquierda y dirá "Expirada". El resultado de la ronda se mostrará con SUBE en verde o BAJA en rojo.
 
-![](<../../.gitbook/assets/image (179).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28179%29.png)
 
-3\. If you've been busy and missed the results, you can scroll back a few rounds by clicking the **left arrow** on the purple bunny cards.
+3\. Si has estado ocupado y te perdiste los resultados, puedes retroceder algunas rondas haciendo clic en la **flecha izquierda** en las tarjetas del conejito morado.
 
-![](<../../.gitbook/assets/image (99).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2899%29.png)
 
-### Seeing results for older rounds
+### Ver resultados de rondas anteriores
 
-If you want to see the results for rounds you've entered that are older than a few rounds, you'll need to follow the steps below to find the results.
+Si quieres ver los resultados de rondas en las que participaste y que son más antiguas que unas pocas rondas, deberás seguir los pasos a continuación para encontrar los resultados.
 
-1\. Click on the **reversing clock icon** next to the round timer.
+1\. Haz clic en el **ícono del reloj inverso** junto al temporizador de la ronda.
 
-![](<../../.gitbook/assets/image (135).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28135%29.png)
 
-2\. A "History" panel will open. By default, you should see your most recent round at the top of the list. Click anywhere on the round to see more information.
+2\. Se abrirá un panel de "Historial". Por defecto, deberías ver tu ronda más reciente en la parte superior de la lista. Haz clic en cualquier parte de la ronda para ver más información.
 
-![](<../../.gitbook/assets/image (105).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28105%29.png)
 
-![](<../../.gitbook/assets/image (208).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28208%29.png)
 
-### Collecting any winnings
+### Cobrar ganancias
 
-1\. If you won your entered round, a **Collect Winnings** button will appear next to a gold trophy. Click the button.
+1\. Si ganaste tu ronda, aparecerá un botón **Cobrar Ganancias** junto a un trofeo dorado. Haz clic en el botón.
 
-![](<../../.gitbook/assets/image (51).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2851%29.png)
 
-2\. A new window will appear showing the amount of winnings you can collect with a **Confirm** button. Click the button and confirm the action in your wallet.
+2\. Aparecerá una nueva ventana mostrando el monto de ganancias que puedes cobrar con un botón **Confirmar**. Haz clic en el botón y confirma la acción en tu billetera.
 
-![](<../../.gitbook/assets/image (214).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28214%29.png)
 
-Your token winnings will now be in your wallet.
+Tus ganancias de tokens estarán ahora en tu billetera.
 
-### Collecting winnings from older rounds
+### Cobrar ganancias de rondas anteriores
 
-Sometimes you may be away from PancakeSwap's Prediction page for a while or may have forgotten to collect winnings from older rounds. You can still collect winnings owed to you from older rounds at any time.
+A veces es posible que estés ausente de la página de Predicción de PancakeSwap por un tiempo o que hayas olvidado cobrar las ganancias de rondas anteriores. Aún puedes cobrar las ganancias que se te deben de rondas anteriores en cualquier momento.
 
-1\. Find more information on past rounds you've entered by clicking on the **reversing clock icon** next to the round timer.
+1\. Encuentra más información sobre rondas anteriores en las que participaste haciendo clic en el **ícono del reloj inverso** junto al temporizador de la ronda.
 
-![](<../../.gitbook/assets/image (135).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28135%29.png)
 
-2\. A "History" panel will open. You can click "Uncollected" to view all rounds you've not collected the winnings for yet (click a the transaction if you want to see more details). Click the **Collect** button.
+2\. Se abrirá un panel de "Historial". Puedes hacer clic en "No cobradas" para ver todas las rondas para las que aún no has cobrado las ganancias (haz clic en la transacción si quieres ver más detalles). Haz clic en el botón **Cobrar**.
 
-![](<../../.gitbook/assets/image (132).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28132%29.png)
 
-3\. A new window will appear showing the amount of winnings you can collect with a **Confirm** button. Click the button and confirm the action in your wallet.
+3\. Aparecerá una nueva ventana mostrando el monto de ganancias que puedes cobrar con un botón **Confirmar**. Haz clic en el botón y confirma la acción en tu billetera.
 
-![](<../../.gitbook/assets/image (214).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28214%29.png)
 
-Your winnings will now be in your wallet.
+Tus ganancias estarán ahora en tu billetera.
 
-## Viewing historic profit and loss data
+## Ver datos históricos de ganancias y pérdidas
 
-If you'd like to see how you've done overall in Prediction, you can view PNL (Profit and Loss) data whenever you'd like.
+Si quieres ver cómo te ha ido en general en Predicción, puedes ver los datos de PNL (Ganancias y Pérdidas) cuando quieras.
 
-1\. On the Prediction page, click the **reversing clock icon** next to the round timer. A "History" panel will open.
+1\. En la página de Predicción, haz clic en el **ícono del reloj inverso** junto al temporizador de la ronda. Se abrirá un panel de "Historial".
 
-![](<../../.gitbook/assets/image (135).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28135%29.png)
 
-2\. On the history panel, click the **PNL** tab.
+2\. En el panel de historial, haz clic en la pestaña **PNL**.
 
-![](<../../.gitbook/assets/image (323).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28323%29.png)
 
-The tab will open with stats for your historic performance in Prediction, including your net results, average return, best round, and other information.
+La pestaña se abrirá con estadísticas de tu rendimiento histórico en Predicción, incluidos tus resultados netos, retorno promedio, mejor ronda y otra información.
 
-![](<../../.gitbook/assets/image (194).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28194%29.png)
 
-3\. You can click the **View Reclaimed & Won** button at the bottom of the PNL tab to view those transactions on the BscScan explorer.
+3\. Puedes hacer clic en el botón **Ver Reclamadas y Ganadas** en la parte inferior de la pestaña PNL para ver esas transacciones en el explorador BscScan.
 
-![](<../../.gitbook/assets/image (192).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28192%29.png)
 
-That's all there is to using Prediction. Good luck making the right calls!
+¡Eso es todo lo que hay que saber sobre el uso de Predicción. Buena suerte tomando las decisiones correctas!
 
 
 

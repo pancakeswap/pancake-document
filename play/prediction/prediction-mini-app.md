@@ -1,65 +1,65 @@
-# Prediction Mini App
+# Mini App de Predicción
 
-### What is mini app?
+### ¿Qué es la mini app?
 
-Telegram mini app allows you to quickly access PancakeSwap features within Telegram.
+La mini app de Telegram te permite acceder rápidamente a las funciones de PancakeSwap dentro de Telegram.
 
-### How to connect my wallet?
+### ¿Cómo conecto mi billetera?
 
 {% tabs %}
-{% tab title="Desktop" %}
-**Use MetaMask**
+{% tab title="Escritorio" %}
+**Usar MetaMask**
 
-You can connect your mobile MetaMask wallet to the desktop Telegram mini app using QR code. To connect, choose “MetaMask”, click “Mobile”, and scan the QR code using MetaMask on your phone.
+Puedes conectar tu billetera MetaMask móvil a la mini app de Telegram de escritorio usando un código QR. Para conectarte, elige "MetaMask", haz clic en "Móvil" y escanea el código QR usando MetaMask en tu teléfono.
 
-**Use WalletConnect**
+**Usar WalletConnect**
 
-You can connect any mobile wallet to the desktop Telegram mini app using QR code. To connect, choose “WalletConnect”, click QR code, and scan the QR code using the mobile on your phone.
+Puedes conectar cualquier billetera móvil a la mini app de Telegram de escritorio usando un código QR. Para conectarte, elige "WalletConnect", haz clic en el código QR y escanea el código QR usando el móvil en tu teléfono.
 
 {% hint style="warning" %}
-“Desktop” option for MetaMask is not functional. You can only connect mobile MetaMask to desktop Telegram mini app.
+La opción "Escritorio" para MetaMask no es funcional. Solo puedes conectar MetaMask móvil a la mini app de Telegram de escritorio.
 {% endhint %}
 {% endtab %}
 
 {% tab title="iPhone" %}
-**Use MetaMask**
+**Usar MetaMask**
 
-You can connect your MetaMask wallet to your Telegram mini app. To connect, choose “MetaMask”. If a prompt appear to ask if you want to be taken to the MetaMask app, click Open. Then follow the instructions in the MetaMask app to connect.
+Puedes conectar tu billetera MetaMask a tu mini app de Telegram. Para conectarte, elige "MetaMask". Si aparece una ventana emergente preguntando si quieres ir a la app MetaMask, haz clic en Abrir. Luego sigue las instrucciones en la app MetaMask para conectarte.
 
-**Use WalletConnect**
+**Usar WalletConnect**
 
-You can connect any supported mobile wallet to your Telegram mini app. To connect, choose “WalletConnect”, click “View All”, and select your wallet. If a prompt appear to ask if you want to be taken to the wallet app, click Open. Then follow the instructions in the wallet app to connect.
+Puedes conectar cualquier billetera móvil compatible a tu mini app de Telegram. Para conectarte, elige "WalletConnect", haz clic en "Ver Todas" y selecciona tu billetera. Si aparece una ventana emergente preguntando si quieres ir a la app de billetera, haz clic en Abrir. Luego sigue las instrucciones en la app de billetera para conectarte.
 {% endtab %}
 
 {% tab title="Android" %}
-**Use MetaMask**
+**Usar MetaMask**
 
-You can connect your MetaMask wallet to your Telegram mini app. To connect, choose “MetaMask”. You will be redirected to MetaMask, then simply follow the instructions in the MetaMask app to connect.
+Puedes conectar tu billetera MetaMask a tu mini app de Telegram. Para conectarte, elige "MetaMask". Serás redirigido a MetaMask, luego simplemente sigue las instrucciones en la app MetaMask para conectarte.
 
-**Use WalletConnect**
+**Usar WalletConnect**
 
-You can connect any supported mobile wallet to your Telegram mini app. To connect, choose “WalletConnect”, click “View All”, and select your wallet. You will be redirected to the wallet app, then follow the instructions in the wallet app to connect.
+Puedes conectar cualquier billetera móvil compatible a tu mini app de Telegram. Para conectarte, elige "WalletConnect", haz clic en "Ver Todas" y selecciona tu billetera. Serás redirigido a la app de billetera, luego sigue las instrucciones en la app de billetera para conectarte.
 
 {% hint style="warning" %}
-Wallet Connect may not work on some of the Android phones. In that case, please connect via other methods.
+WalletConnect puede no funcionar en algunos teléfonos Android. En ese caso, por favor conéctate a través de otros métodos.
 {% endhint %}
 {% endtab %}
 {% endtabs %}
 
-### Which PancakeSwap Market is supported?
+### ¿Qué mercado de PancakeSwap es compatible?
 
-Currently the mini app supports the BNBUSD market on BNB Chain.
+Actualmente la mini app es compatible con el mercado BNBUSD en BNB Chain.
 
-### How do I sign and confirm transactions for mini app?
+### ¿Cómo firmo y confirmo transacciones para la mini app?
 
-You will need to sign and execute transactions in your connected wallet app.
+Deberás firmar y ejecutar transacciones en la app de tu billetera conectada.
 
 {% hint style="warning" %}
-On iPhone, you may need to manually switch between wallet apps and Telegram. Please follow the onscreen instructions.
+En iPhone, es posible que necesites cambiar manualmente entre las apps de billetera y Telegram. Por favor sigue las instrucciones en pantalla.
 {% endhint %}
 
-### Can I use my extension wallets on Desktop?
+### ¿Puedo usar mis billeteras de extensión en Escritorio?
 
-Unfortunately Telegram mini app only supports mobile wallets at the moment.
+Lamentablemente, la mini app de Telegram solo es compatible con billeteras móviles por el momento.
 
 <br>

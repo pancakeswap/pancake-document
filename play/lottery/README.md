@@ -1,61 +1,61 @@
-# 🎟️ Lottery
+# 🎟️ Lotería
 
-Playing the PancakeSwap Lottery gives you a chance to win huge CAKE prizes! It's easy, fair, and you can enter as often as you like as long as you have the CAKE to buy a ticket.
+Jugar la Lotería de PancakeSwap te da la oportunidad de ganar enormes premios en CAKE. ¡Es fácil, justa y puedes participar tantas veces como quieras siempre que tengas CAKE para comprar un boleto!
 
-[View smart contract](https://bscscan.com/address/0x5aF6D33DE2ccEC94efb1bDF8f92Bd58085432d2c)
+[Ver contrato inteligente](https://bscscan.com/address/0x5aF6D33DE2ccEC94efb1bDF8f92Bd58085432d2c)
 
-## **Specifics:**
+## **Detalles:**
 
-* Lottery ticket cost for 1 ticket: \~$5 USD in CAKE.
-* Individual user Lottery entry limit: No overall limit, but only 100 tickets can be bought at a time.
-* Paying for one ticket will give users a random 6-digit combination with each digit being between 0-9, for e.g. “1-9-3-2-0-4”. Match numbers from the left to win prizes—the more numbers that match, the bigger the prize pool you'll share in.
-* Lottery uses Chainlink's implementation of VRF for true, secure randomness.
+* Costo del boleto de Lotería por 1 boleto: \~$5 USD en CAKE.
+* Límite de participación individual en la Lotería: Sin límite total, pero solo se pueden comprar 100 boletos a la vez.
+* Al pagar por un boleto, se les dará a los usuarios una combinación aleatoria de 6 dígitos, siendo cada dígito un número entre 0 y 9, por ejemplo "1-9-3-2-0-4". Haz coincidir los números de izquierda a derecha para ganar premios: cuantos más números coincidan, mayor será el pozo de premios que compartirás.
+* La Lotería usa la implementación de VRF de Chainlink para una aleatoriedad verdadera y segura.
 
-## Ticket costs and bulk purchase discount
+## Costos de boletos y descuento por compra al por mayor
 
-Lottery ticket prices are set at the start of the new lottery round, and target $5 USD (may vary slightly with sudden price fluctuations).
+Los precios de los boletos de Lotería se establecen al inicio de la nueva ronda de lotería, con un objetivo de $5 USD (puede variar ligeramente con fluctuaciones de precio repentinas).
 
-Buying multiple Lottery tickets at once gives a bulk discount on your purchase. You can buy as many as 100 tickets in one purchase, with the discount starting small at 2 tickets, and scaling up to 10% at 100 tickets.
+Comprar varios boletos de Lotería a la vez ofrece un descuento por volumen en tu compra. Puedes comprar hasta 100 boletos en una sola compra, con el descuento comenzando de forma pequeña con 2 boletos y escalando hasta un 10% con 100 boletos.
 
-![](<../../.gitbook/assets/Screenshot 2024-08-22 at 9.59.52 PM.png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-22%20at%209.59.52%20PM.png)
 
-## **How to win**
+## **Cómo ganar**
 
-Match numbers, **from the left side of your ticket**, to the winning numbers drawn at the end of a Lottery round.
+Haz coincidir los números, **desde el lado izquierdo de tu boleto**, con los números ganadores sorteados al final de una ronda de Lotería.
 
-* Matching even just the first number will win you a small prize.&#x20;
-* Match more numbers to win a share of a larger prize pool.
+* Hacer coincidir incluso solo el primer número te dará un pequeño premio.&#x20;
+* Haz coincidir más números para ganar una parte de un pozo de premios mayor.
 
-## **‌**Prize eligibility
+## **‌**Elegibilidad de premios
 
-‌There are a total of six lottery balls, from 0 to 9, on each ticket. To win, your numbers need to match the drawn numbers in the same order as the lottery balls, starting from the left of the ticket. For example:
+‌Hay un total de seis bolas de lotería, del 0 al 9, en cada boleto. Para ganar, tus números deben coincidir con los números sorteados en el mismo orden que las bolas de lotería, comenzando desde la izquierda del boleto. Por ejemplo:
 
-Drawn numbers
+Números sorteados
 
-![Drawn Numbers](<../../.gitbook/assets/image (285).png>)
+![Números sorteados](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28285%29.png)
 
-Your ticket's numbers
+Los números de tu boleto
 
-![Your Ticket A](<../../.gitbook/assets/image (95) (1).png>)
+![Tu Boleto A](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2895%29%20%281%29.png)
 
-In the example above, Ticket A, five of the ticket's numbers match the same drawn numbers, in the exact same order: all except the fourth one.
+En el ejemplo anterior, el Boleto A, cinco de los números del boleto coinciden con los mismos números sorteados, en el mismo orden exacto: todos excepto el cuarto.
 
-However, since the fourth digit does **not** match the drawn number, only the first three digits count as matching in order. This would win a "Match first 3" prize.
+Sin embargo, dado que el cuarto dígito **no** coincide con el número sorteado, solo los primeros tres dígitos cuentan como coincidentes en orden. Esto ganaría un premio de "Coincide los primeros 3".
 
-![Your Ticket B](<../../.gitbook/assets/image (205).png>)
+![Tu Boleto B](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28205%29.png)
 
-Example Ticket B. Here's an unlucky one. Even though the last five digits match, the first digit doesn't match, so this ticket doesn't win anything at all.
+Boleto B de ejemplo. Este no tiene suerte. Aunque los últimos cinco dígitos coinciden, el primer dígito no coincide, por lo que este boleto no gana absolutamente nada.
 
-You will only share in prizes from the highest prize bracket you are eligible for. A ticket matching the first three numbers will only be eligible for prizes from the match-three bracket, and not for the match-one or match-two brackets.
+Solo compartirás los premios del nivel de premio más alto para el que seas elegible. Un boleto que coincida con los primeros tres números solo será elegible para los premios del nivel de coincidencia de tres, y no para los niveles de coincidencia de uno o dos.
 
-**Remember: The digits must match in order, starting from left to right.**
+**Recuerda: Los dígitos deben coincidir en orden, de izquierda a derecha.**
 
-## Prize sharing across prize brackets
+## Distribución de premios entre los niveles
 
-‌After a round is drawn, and tickets with matching numbers are determined, the prizes are awarded. The amount won by each ticket will depend on how many other tickets won in the same prize bracket.
+‌Después de que se realice el sorteo de una ronda y se determinen los boletos con números coincidentes, se otorgan los premios. El monto ganado por cada boleto dependerá de cuántos otros boletos hayan ganado en el mismo nivel de premio.
 
-‌For example, if you have the only ticket that matched three numbers in order, and the predetermined share of the prize pool for your bracket was 2000 CAKE, you'll receive the full 2000 CAKE.
+‌Por ejemplo, si tienes el único boleto que coincidió con tres números en orden, y la parte predeterminada del pozo de premios para tu nivel era 2000 CAKE, recibirás los 2000 CAKE completos.
 
-‌If, however, you and three other people match three numbers in order, the 2000 CAKE would be split between the four winning tickets, meaning you would receive 500 CAKE.
+‌Sin embargo, si tú y otras tres personas coinciden con tres números en orden, los 2000 CAKE se dividirían entre los cuatro boletos ganadores, lo que significa que recibirías 500 CAKE.
 
-See the [Lottery FAQ for a breakdown of prizes](lottery-faq.md#how-are-prizes-broken-down-between-brackets) across each bracket.
+Consulta las [FAQ de la Lotería para ver el desglose de premios](lottery-faq.md#how-are-prizes-broken-down-between-brackets) en cada nivel.
