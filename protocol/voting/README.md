@@ -1,78 +1,78 @@
-# 📔 Governance
+# 📔 Gobernanza
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%286%29.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-As part of the [Tokenomics 3.0 upgrade](https://pancakeswap.finance/voting/proposal/0x79ef496c9737e48d9677a6e291ff2a549dee6729c9996398e453af8ecbf0ceb3), this page has been updated on 15th May 2025
+Como parte de la [actualización de Tokenomics 3.0](https://pancakeswap.finance/voting/proposal/0x79ef496c9737e48d9677a6e291ff2a549dee6729c9996398e453af8ecbf0ceb3), esta página fue actualizada el 15 de mayo de 2025
 {% endhint %}
 
-Voting gives a voice to the PancakeSwap community, letting the community have a say in how PancakeSwap develops into the future.
+La votación da voz a la comunidad de PancakeSwap, permitiendo que la comunidad tenga participación en cómo PancakeSwap se desarrolla hacia el futuro.
 
-Check out [PancakeSwap's native voting portal](https://pancakeswap.finance/voting) and our [Forum](https://forum.pancakeswap.finance/) page.
+Consulta el [portal de votación nativo de PancakeSwap](https://pancakeswap.finance/voting) y nuestra página del [Foro](https://forum.pancakeswap.finance/).
 
-## Voting Mechanics
+## Mecánicas de Votación
 
-:notebook\_with\_decorative\_cover:Summary - What Changed (after [Tokenomics 3.0 Update](https://pancakeswap.finance/voting/proposal/0x79ef496c9737e48d9677a6e291ff2a549dee6729c9996398e453af8ecbf0ceb3))
+:notebook\_with\_decorative\_cover:Resumen - Qué Cambió (después de la [Actualización de Tokenomics 3.0](https://pancakeswap.finance/voting/proposal/0x79ef496c9737e48d9677a6e291ff2a549dee6729c9996398e453af8ecbf0ceb3))
 
-<table><thead><tr><th width="200.6015625">Governance Component</th><th width="218.01953125">Before Tokenomics 3.0</th><th width="205.1796875">After Tokenomics 3.0</th><th>Status<select><option value="q1dVFsCri7zA" label="✅ Changed" color="blue"></option><option value="4AGl26rwjYcI" label="🔁 Unchanged" color="blue"></option></select></th></tr></thead><tbody><tr><td>Voting Power</td><td>1 veCAKE = 1 voting power</td><td>1 CAKE = 1 voting power</td><td><span data-option="q1dVFsCri7zA">✅ Changed</span></td></tr><tr><td>Delegation</td><td>Allowed (via veCAKE mechanics)</td><td>Delegation is not allowed</td><td><span data-option="q1dVFsCri7zA">✅ Changed</span></td></tr><tr><td>Proposal Submission Threshold</td><td>Snapshot 100K veCAKE required</td><td>Snapshot 100K CAKE required</td><td><span data-option="q1dVFsCri7zA">✅ Changed</span></td></tr><tr><td>Core vs Community Proposals</td><td>Defined roles and purposes for each proposal type</td><td>No change</td><td><span data-option="4AGl26rwjYcI">🔁 Unchanged</span></td></tr><tr><td>Voting Period</td><td>Community: Fixed<br>Core: Variable</td><td>No change</td><td><span data-option="4AGl26rwjYcI">🔁 Unchanged</span></td></tr><tr><td>Snapshot Timing</td><td>At proposal posted block</td><td>No change</td><td><span data-option="4AGl26rwjYcI">🔁 Unchanged</span></td></tr><tr><td>Quorum</td><td>No minimum quorum</td><td>No change</td><td><span data-option="4AGl26rwjYcI">🔁 Unchanged</span></td></tr></tbody></table>
+<table><thead><tr><th width="200.6015625">Componente de Gobernanza</th><th width="218.01953125">Antes de Tokenomics 3.0</th><th width="205.1796875">Después de Tokenomics 3.0</th><th>Estado<select><option value="q1dVFsCri7zA" label="✅ Changed" color="blue"></option><option value="4AGl26rwjYcI" label="🔁 Unchanged" color="blue"></option></select></th></tr></thead><tbody><tr><td>Poder de Votación</td><td>1 veCAKE = 1 poder de voto</td><td>1 CAKE = 1 poder de voto</td><td><span data-option="q1dVFsCri7zA">✅ Changed</span></td></tr><tr><td>Delegación</td><td>Permitida (a través de la mecánica de veCAKE)</td><td>La delegación no está permitida</td><td><span data-option="q1dVFsCri7zA">✅ Changed</span></td></tr><tr><td>Umbral de Envío de Propuestas</td><td>Snapshot 100K veCAKE requerido</td><td>Snapshot 100K CAKE requerido</td><td><span data-option="q1dVFsCri7zA">✅ Changed</span></td></tr><tr><td>Propuestas Core vs Comunitarias</td><td>Roles y propósitos definidos para cada tipo de propuesta</td><td>Sin cambio</td><td><span data-option="4AGl26rwjYcI">🔁 Unchanged</span></td></tr><tr><td>Período de Votación</td><td>Comunitaria: Fijo<br>Core: Variable</td><td>Sin cambio</td><td><span data-option="4AGl26rwjYcI">🔁 Unchanged</span></td></tr><tr><td>Momento del Snapshot</td><td>En el bloque en que se publica la propuesta</td><td>Sin cambio</td><td><span data-option="4AGl26rwjYcI">🔁 Unchanged</span></td></tr><tr><td>Quórum</td><td>Sin quórum mínimo</td><td>Sin cambio</td><td><span data-option="4AGl26rwjYcI">🔁 Unchanged</span></td></tr></tbody></table>
 
-### 1. **Voting Power (Changed)**
+### 1. **Poder de Votación (Cambiado)**
 
-* **All CAKE holders have direct voting rights.**
-* **Voting power directly corresponds to the number of CAKE held in wallet address during snapshot**
-  * **1 CAKE = 1 voting power**
-  * **CAKE staked in Syrup Pools does not count** toward your voting power, as it is not part of your wallet balance at the time of the snapshot
-  * Snapshot balance = Same block proposal posted
-* **Delegation is no longer supported.** Every CAKE holder must vote individually.
+* **Todos los poseedores de CAKE tienen derechos de voto directos.**
+* **El poder de voto corresponde directamente al número de CAKE en la dirección de billetera durante el snapshot**
+  * **1 CAKE = 1 poder de voto**
+  * **El CAKE en staking en Syrup Pools no cuenta** para tu poder de voto, ya que no forma parte del saldo de tu billetera en el momento del snapshot
+  * Saldo del snapshot = Mismo bloque en que se publica la propuesta
+* **La delegación ya no está soportada.** Cada poseedor de CAKE debe votar individualmente.
 
-### 2. **Proposal Submission (Unchanged)**
+### 2. **Envío de Propuestas (Sin cambio)**
 
-* **How to Submit a Proposal**
-  * Submit on [https://pancakeswap.finance/voting/proposal/create](https://pancakeswap.finance/voting/proposal/create)
-  * Must include:
-    * Title
-    * Content
-    * Description
-    * On-chain action(s) (if needed)
-    * Voting Duration
-* Types of Proposals
-  1.  Core Proposals
+* **Cómo enviar una propuesta**
+  * Envíala en [https://pancakeswap.finance/voting/proposal/create](https://pancakeswap.finance/voting/proposal/create)
+  * Debe incluir:
+    * Título
+    * Contenido
+    * Descripción
+    * Acción(es) en cadena (si es necesario)
+    * Duración de la votación
+* Tipos de Propuestas
+  1.  Propuestas Core
 
-      * Can only be proposed by the **PancakeSwap Core Team**.
-      * Require a vote by CAKE holders.
-      * If passed, will be implemented by the PancakeSwap team.
+      * Solo pueden ser propuestas por el **Equipo Core de PancakeSwap**.
+      * Requieren una votación de los poseedores de CAKE.
+      * Si son aprobadas, serán implementadas por el equipo de PancakeSwap.
 
-      Examples
+      Ejemplos
 
-      1. Protocol adjustments (product changes, fee changes)
-      2. Significant uses of Ecosystem Growth funds not covered by previous proposals
-  2. Community Proposals
-     * **Community** proposals are posted by the PancakeSwap community. These are used to propose ideas and express the community's point of view. These are **non-binding suggestions** from the community.
-     * Anyone with **100,000 CAKE (snapshot balance)** can submit.
-     * The PancakeSwap team may adopt strong proposals into future Core Proposals
-     * Community members may also utilize our [Forum](https://forum.pancakeswap.finance/) to provide feedback and make suggestions to the protocol.
+      1. Ajustes del protocolo (cambios en productos, cambios en comisiones)
+      2. Usos significativos de los fondos de Crecimiento del Ecosistema no cubiertos por propuestas anteriores
+  2. Propuestas Comunitarias
+     * Las propuestas **Comunitarias** son publicadas por la comunidad de PancakeSwap. Se utilizan para proponer ideas y expresar el punto de vista de la comunidad. Son **sugerencias no vinculantes** de la comunidad.
+     * Cualquier persona con **100,000 CAKE (saldo del snapshot)** puede enviar una.
+     * El equipo de PancakeSwap puede adoptar propuestas sólidas en futuras Propuestas Core
+     * Los miembros de la comunidad también pueden utilizar nuestro [Foro](https://forum.pancakeswap.finance/) para proporcionar retroalimentación y hacer sugerencias al protocolo.
 
-### **3. Voting Duration (Unchanged)**
+### **3. Duración de la Votación (Sin cambio)**
 
-* All CAKE holders can vote **during the voting window** for each proposal.
-  * Community proposal: Fixed at 3 days
-  * Core Proposal: Variable, set by PancakeSwap
-* Your voting power is determined by a **snapshot of your CAKE balance at the block when the proposal is posted**.
-* **Adding more CAKE after the proposal is posted will not increase your voting power** for that specific vote.
+* Todos los poseedores de CAKE pueden votar **durante la ventana de votación** para cada propuesta.
+  * Propuesta comunitaria: Fijada en 3 días
+  * Propuesta Core: Variable, establecida por PancakeSwap
+* Tu poder de voto está determinado por un **snapshot de tu saldo de CAKE en el bloque en que se publica la propuesta**.
+* **Agregar más CAKE después de que se publique la propuesta no aumentará tu poder de voto** para ese voto específico.
 
-For full details, see the [Voting Guide](https://docs.pancakeswap.finance/protocol/voting/voting-guide).
+Para más detalles, consulta la [Guía de Votación](https://docs.pancakeswap.finance/protocol/voting/voting-guide).
 
-### **4. Voting Outcome (Unchanged)**
+### **4. Resultado de la Votación (Sin cambio)**
 
-* The outcome is based on **total votes cast** (total CAKE used for voting)
-* **There is currently no minimum quorum required** for a proposal to pass.
+* El resultado se basa en el **total de votos emitidos** (total de CAKE usado para votar)
+* **Actualmente no se requiere un quórum mínimo** para que una propuesta sea aprobada.
 
-## Note: Veto Rights
+## Nota: Derechos de Veto
 
-To protect the protocol, the **PancakeSwap Core Team reserves the right to intervene in critical situations**—such as security threats or issues affecting the stable operation of the platform—**without requiring a community vote or Snapshot poll**.
+Para proteger el protocolo, el **Equipo Core de PancakeSwap se reserva el derecho de intervenir en situaciones críticas** —como amenazas de seguridad o problemas que afecten el funcionamiento estable de la plataforma— **sin requerir una votación comunitaria o una encuesta en Snapshot**.
 
-In any case where a veto action is taken, the Core Team will **publicly share a clear explanation** of the decision.
+En cualquier caso en que se tome una acción de veto, el Equipo Core **compartirá públicamente una explicación clara** de la decisión.
 
-**Possible veto actions may include:**
+**Las posibles acciones de veto pueden incluir:**
 
-1. **Temporarily pausing smart contracts** to fix urgent bugs or vulnerabilities.
+1. **Pausar temporalmente los contratos inteligentes** para corregir errores o vulnerabilidades urgentes.

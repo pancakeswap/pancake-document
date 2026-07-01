@@ -2,25 +2,24 @@
 hidden: true
 ---
 
-# How to Vote with SafePal Wallet
+# Cómo Votar con la Billetera SafePal
 
-![](../../../.gitbook/assets/how-to-voting-with-safepal-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-voting-with-safepal-header.png)
 
-You can use the SafePal wallet to vote on open issues in PancakeSwap. Follow the steps below to cast your vote from inside the SafePal wallet.
+Puedes usar la billetera SafePal para votar en propuestas abiertas en PancakeSwap. Sigue los pasos a continuación para emitir tu voto desde dentro de la billetera SafePal.
 
-1\. Open your SafePal wallet and select the dApp browser icon in the menu down the bottom.
+1\. Abre tu billetera SafePal y selecciona el ícono del navegador de dApps en el menú inferior.
 
-![](../../../.gitbook/assets/Safepal-1.PNG)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Safepal-1.PNG)
 
-2\. Enter the URL of the voting page in the address bar. If you don't know the direct URL to the vote you want to vote on, you can go to the [PancakeSwap voting page](https://voting.pancakeswap.finance/) and find the vote from there.
+2\. Ingresa la URL de la página de votación en la barra de direcciones. Si no conoces la URL directa al voto en el que deseas participar, puedes ir a la [página de votación de PancakeSwap](https://voting.pancakeswap.finance/) y encontrar el voto desde allí.
 
-![](../../../.gitbook/assets/Safepal-2.PNG)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Safepal-2.PNG)
 
-3\. Click on the connect wallet button at the top of your screen (see the image).&#x20;
+3\. Haz clic en el botón de conectar billetera en la parte superior de tu pantalla (ver la imagen).&#x20;
 
-![](../../../.gitbook/assets/Safepal-3.PNG)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Safepal-3.PNG)
 
-4\. Click on **Injected** as the wallet. Your wallet will now be connected and you can now vote on PancakeSwap proposals.
+4\. Haz clic en **Injected** como billetera. Tu billetera ahora estará conectada y podrás votar en las propuestas de PancakeSwap.
 
-![](../../../.gitbook/assets/Safepal-4.PNG)
-
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Safepal-4.PNG)
