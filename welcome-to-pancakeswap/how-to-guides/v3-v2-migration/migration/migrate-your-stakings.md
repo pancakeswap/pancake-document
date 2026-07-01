@@ -1,117 +1,117 @@
 ---
-description: Migrate your farms and pools staking to the new PancakeSwap MasterChef
+description: Migra tus stakings de farms y pools al nuevo PancakeSwap MasterChef
 ---
 
-# Migrate Your Stakings
+# Migrar tus Stakings
 
-![ICYDK: you are currently reading the "tutorial" mentioned in this banner](<../../../../.gitbook/assets/migration pre heat.png>)
+![ICYDK: actualmente estás leyendo el "tutorial" mencionado en este banner](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration%20pre%20heat.png)
 
-In order to keep earning staking rewards, you will need to migrate your farms and pools staking to the new MasterChef. Relax, it's gonna be easy.
+Para continuar ganando recompensas de Staking, necesitarás migrar tus stakings de farms y pools al nuevo MasterChef. Relájate, será sencillo.
 
 {% hint style="info" %}
-**But wait! Do I need to migrate?**
+**¡Pero espera! ¿Necesito migrar?**
 
-You need to migrate if you are:
+Necesitas migrar si estás:
 
-* Farming on PancakeSwap **Farms**.
-* Staking in PancakeSwap **CAKE Syrup Pools** (Manual, Auto, IFO).
+* Haciendo Farming en los **Farms** de PancakeSwap.
+* Haciendo Staking en los **CAKE Syrup Pools** de PancakeSwap (Manual, Auto, IFO).
 
-\*other Syrup Pools aren’t affected
+\*otros Syrup Pools no se ven afectados
 {% endhint %}
 
-## How to migrate?
+## ¿Cómo migrar?
 
-![At the time of the migration, Chefs will deploy a step-by-step helper to walk you through the process ](../../../../.gitbook/assets/migration-helper-overview.png)
+![En el momento de la migración, los Chefs desplegarán un asistente paso a paso para guiarte a través del proceso](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration-helper-overview.png)
 
-### 1. Navigate to the migration helper
+### 1. Navegar al asistente de migración
 
-Go to [https://pancakeswap.finance/migration](https://pancakeswap.finance/migration), and connect your wallet.
+Ve a [https://pancakeswap.finance/migration](https://pancakeswap.finance/migration) y conecta tu billetera.
 
-### 2. Unstake from the old farms
+### 2. Retirar el Staking de los farms antiguos
 
-There are two steps in the migration helper. In the first step, you should see a list of three CAKE syrup pools and farms you are currently staking.
+Hay dos pasos en el asistente de migración. En el primer paso, deberías ver una lista de tres CAKE syrup pools y los farms en los que actualmente tienes Staking.
 
-![](../../../../.gitbook/assets/migration-helper-steps-guide-3.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration-helper-steps-guide-3.png)
 
-Click "**Unstake All**" on each of the farms and pools to unstake all your assets.
+Haz clic en "**Unstake All**" en cada uno de los farms y pools para retirar todos tus activos.
 
-![](<../../../../.gitbook/assets/migration-helper-steps-guide-4 (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration-helper-steps-guide-4%20%281%29.png)
 
-After unstaking, click "**Go to Stake**" to proceed to step 2.
+Después de retirar el Staking, haz clic en "**Go to Stake**" para proceder al paso 2.
 
-### 3. Stake your LP tokens and CAKE into the new farms and pools.
+### 3. Hacer Staking de tus tokens LP y CAKE en los nuevos farms y pools.
 
-Here you should see the brand new CAKE syrup pool and the new farms. Before staking, you will need to enable them.
+Aquí deberías ver el nuevo CAKE syrup pool y los nuevos farms. Antes de hacer Staking, necesitarás habilitarlos.
 
-![](<../../../../.gitbook/assets/migration-helper-steps-guide-5 (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration-helper-steps-guide-5%20%281%29.png)
 
-Click "**Enable**" to enable staking on each of the farms and the CAKE syrup pool. If you are using a mobile device, please click the “**v**” (downward arrow) to expand the card while looking for the "**Enable**" button.
+Haz clic en "**Enable**" para habilitar el Staking en cada uno de los farms y el CAKE syrup pool. Si usas un dispositivo móvil, haz clic en la "**v**" (flecha hacia abajo) para expandir la tarjeta mientras buscas el botón "**Enable**".
 
-After enabling, you will be able to start staking in the pool and farms.
+Después de habilitarlos, podrás comenzar a hacer Staking en el pool y los farms.
 
 {% tabs %}
 {% tab title="CAKE Syrup Pool" %}
-![](<../../../../.gitbook/assets/migration-helper-steps-guide-7 (2).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration-helper-steps-guide-7%20%282%29.png)
 
-For CAKE syrup pool. Please:
+Para el CAKE syrup pool, por favor:
 
-1. Click "**Flexible**" under the "Stake CAKE" section.
-2. Enter the amount of CAKE you want to stake.
-3. Click "**Confirm**".
+1. Haz clic en "**Flexible**" bajo la sección "Stake CAKE".
+2. Ingresa la cantidad de CAKE que quieres hacer Staking.
+3. Haz clic en "**Confirm**".
 
 
 
 {% hint style="info" %}
-The locked (fixed-term) staking option will become available a few days after the migration. You will be able to convert your flexible staking position to a locked one. To learn more about the new CAKE syrup pool with fixed-term staking, please check out [this doc](../../../../archive/legacy-products/new-cake-pool/).
+La opción de Staking bloqueado (de plazo fijo) estará disponible unos días después de la migración. Podrás convertir tu posición de Staking flexible a una bloqueada. Para saber más sobre el nuevo CAKE syrup pool con Staking de plazo fijo, consulta [este documento](../../../../archive/legacy-products/new-cake-pool/).
 {% endhint %}
 {% endtab %}
 
 {% tab title="Farms" %}
-![](../../../../.gitbook/assets/migration-helper-steps-guide-8.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration-helper-steps-guide-8.png)
 
-For farms, please:
+Para los farms, por favor:
 
-1. Click "**Stake**".
-2. Enter the amount of LP tokens you want to stake.
-3. Click "**Confirm**"
+1. Haz clic en "**Stake**".
+2. Ingresa la cantidad de tokens LP que quieres hacer Staking.
+3. Haz clic en "**Confirm**"
 {% endtab %}
 {% endtabs %}
 
-### 4. Done!
+### 4. ¡Listo!
 
-![](<../../../../.gitbook/assets/migration-helper-steps-guide-9 (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration-helper-steps-guide-9%20%281%29.png)
 
-You are now staking in the new MasterChef and continue earning CAKE rewards! Click "**Finish**" to go back and explore some other great products PancakeSwap offers.
+¡Ahora estás haciendo Staking en el nuevo MasterChef y continuando ganando recompensas de CAKE! Haz clic en "**Finish**" para volver y explorar otros excelentes productos que PancakeSwap ofrece.
 
-## Migration Timeline
+## Calendario de migración
 
-![](<../../../../.gitbook/assets/en - migration timeline - 2.png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/en%20-%20migration%20timeline%20-%202.png)
 
-Make sure to follow our [Twitter](https://twitter.com/pancakeswap/) or [Telegram](https://t.me/PancakeSwapAnn) announcement channel for detailed timing and the latest updates! Need any help? Learn more about how to reach for help [here](../../../contact-us/#help).
+Asegúrate de seguir nuestro canal de anuncios de [Twitter](https://twitter.com/pancakeswap/) o [Telegram](https://t.me/PancakeSwapAnn) para conocer los tiempos detallados y las últimas actualizaciones. ¿Necesitas ayuda? Aprende más sobre cómo obtener ayuda [aquí](../../../contact-us/#help).
 
 ## FAQ
 
-#### **When will it finish?**
+#### **¿Cuándo terminará?**
 
-Migration will take several hours, but it should be totally finished upon the launch of the migration helper page. Follow our [Twitter](https://twitter.com/pancakeswap/) or [Telegram](https://t.me/PancakeSwapAnn) announcement channel for the latest updates!
+La migración tomará varias horas, pero debería estar completamente terminada cuando se lance la página del asistente de migración. ¡Sigue nuestro canal de anuncios de [Twitter](https://twitter.com/pancakeswap/) o [Telegram](https://t.me/PancakeSwapAnn) para las últimas actualizaciones!
 
-#### **When must I migrate?**
+#### **¿Cuándo debo migrar?**
 
-1. You will be able to migrate at any time. There’s no time limit.&#x20;
-2. It’s better to migrate sooner so you can continue to earn rewards from farms and pools.
+1. Podrás migrar en cualquier momento. No hay límite de tiempo.&#x20;
+2. Es mejor migrar antes para que puedas continuar ganando recompensas de farms y pools.
 
-#### I don’t see the migration helper!
+#### ¡No veo el asistente de migración!
 
-It will only be deployed once smart contract deployments and configurations are completed. It could take serval hours. Follow our [Twitter](https://twitter.com/pancakeswap/) or [Telegram](https://t.me/PancakeSwapAnn) announcement channel for the latest updates!
+Solo se desplegará una vez que los despliegues de contratos inteligentes y las configuraciones estén completados. Puede tomar varias horas. ¡Sigue nuestro canal de anuncios de [Twitter](https://twitter.com/pancakeswap/) o [Telegram](https://t.me/PancakeSwapAnn) para las últimas actualizaciones!
 
-#### Why lock staking is not available?
+#### ¿Por qué el Staking bloqueado no está disponible?
 
-SOON! To achieve a smooth migration. Lock (fixed-term) staking will be enabled a few days after the migrations.
+¡PRONTO! Para lograr una migración sin problemas, el Staking bloqueado (de plazo fijo) se habilitará unos días después de las migraciones.
 
-#### I can't find my farms in the migration helper!
+#### ¡No puedo encontrar mis farms en el asistente de migración!
 
-It might be due to the farm being discontinued before the migration. Please:
+Puede deberse a que el farm fue descontinuado antes de la migración. Por favor:
 
-1. Go to **Farms**.
-2. Choose “**Finished**” at the top of the farm list.
-3. Click “**Check out v1 farms**” to look for your farm.
+1. Ve a **Farms**.
+2. Elige "**Finished**" en la parte superior de la lista de farms.
+3. Haz clic en "**Check out v1 farms**" para buscar tu farm.

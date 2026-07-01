@@ -1,75 +1,74 @@
 ---
-description: Guidlines and downloadable assets like the PancakeSwap logo SVG
+description: Pautas y recursos descargables como el logotipo SVG de PancakeSwap
 ---
 
-# Brand & Logos
+# Marca y Logotipos
 
-![](<../../.gitbook/assets/Frame 6.png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Frame%206.png)
 
-👇[ Jump to logo download](brand.md#pancakeswap-logo-downloads)
+👇[ Ir a la descarga del logotipo](brand.md#pancakeswap-logo-downloads)
 
-## Intro
+## Introducción
 
-PancakeSwap logo downloads are at the bottom of this page, but please be sure to read these guidelines first.
+Las descargas del logotipo de PancakeSwap se encuentran al final de esta página, pero asegúrate de leer estas pautas primero.
 
-> Although PancakeSwap distributes some of its technology under open-source licenses, **the PancakeSwap and CAKE brands are not distributed under the same licenses.**
+> Aunque PancakeSwap distribuye parte de su tecnología bajo licencias de código abierto, **las marcas PancakeSwap y CAKE no se distribuyen bajo las mismas licencias.**
 
-The following PancakeSwap "Brand Assets" are copyrighted material, and you may only use them in accordance with the policy detailed below:
+Los siguientes "Activos de Marca" de PancakeSwap son material protegido por derechos de autor, y solo puedes usarlos de acuerdo con la política detallada a continuación:
 
-* The PancakeSwap and CAKE logos, wordmark, icon
-* The PancakeSwap name
-* Other visual assets produced by PancakeSwap including but not limited to illustrations and 3d models
+* Los logotipos, la marca denominativa y el ícono de PancakeSwap y CAKE
+* El nombre PancakeSwap
+* Otros activos visuales producidos por PancakeSwap, incluidos, entre otros, ilustraciones y modelos 3D
 
-## What you may do
+## Qué puedes hacer
 
-You may use PancakeSwap's Brand Assets when you are:
+Puedes usar los Activos de Marca de PancakeSwap cuando:
 
-* 👌 Referring to our products and services
-* 👌 Linking to our official site or products, such as "Trade our token on PancakeSwap"
-* 👌 Announcing an official partnership, but only if you have **official approval** by a qualified member of the PancakeSwap team
+* 👌 Hagas referencia a nuestros productos y servicios
+* 👌 Enlaces a nuestro sitio oficial o productos, como "Intercambia nuestro token en PancakeSwap"
+* 👌 Anuncíes una asociación oficial, pero solo si tienes **aprobación oficial** de un miembro calificado del equipo de PancakeSwap
 
-For information on other uses of our Brand Assets, please reach out at info@pancakeswap.com
+Para obtener información sobre otros usos de nuestros Activos de Marca, comunícate con info@pancakeswap.com
 
-## What you may not do
+## Qué no puedes hacer
 
-While we strongly believe in and follow the open source ethos, **protecting the PancakeSwap brand is extremely important for our users' security,** so that users know what is a genuine product/endorsement and what isn't.
+Si bien creemos firmemente en la ética del código abierto y la seguimos, **proteger la marca PancakeSwap es extremadamente importante para la seguridad de nuestros usuarios**, para que sepan qué es un producto/respaldo genuino y qué no lo es.
 
-Here are a few examples of forbidden uses of our Brand Assets:
+Aquí hay algunos ejemplos de usos prohibidos de nuestros Activos de Marca:
 
-* ⛔️ **Don't use our Brand Assets in your products' name, logo, NFTs, etc.**&#x20;
-  * For example, making an app called "PancakeSwap Engine" or "CAKE Child" are not allowed.
-  * Don't use the PancakeSwap logo in whole or in part as part of your products' logos, marketing material, website, or other.
-  * Logos with a strong resemblence to the PancakeSwap Icon are also forbidden.
-* ⛔️ **Don't use our Brand Assets to create digital or physcial products for sale, including but not limited to**
-  * Merchandise ("Swag")
+* ⛔️ **No uses nuestros Activos de Marca en el nombre de tus productos, logotipo, NFTs, etc.**&#x20;
+  * Por ejemplo, no está permitido crear una aplicación llamada "PancakeSwap Engine" o "CAKE Child".
+  * No uses el logotipo de PancakeSwap, en su totalidad o en parte, como parte de los logotipos de tus productos, materiales de marketing, sitio web u otros.
+  * Los logotipos con gran parecido al ícono de PancakeSwap también están prohibidos.
+* ⛔️ **No uses nuestros Activos de Marca para crear productos digitales o físicos para la venta, incluidos, entre otros**
+  * Merchandising ("Swag")
   * NFTs
-  * Other products
-*   ⛔️ **Don't create derivative names that imply official endorsement**
+  * Otros productos
+*   ⛔️ **No crees nombres derivados que impliquen respaldo oficial**
 
-    For example, don't make a social media group called "PancakeSwap Italy" - this sounds official. "PancakeSwap Fans of Italy" may be permitted.
-*   ⛔️ **Don't change or adapt our Brand Assets in any way**
+    Por ejemplo, no crees un grupo en redes sociales llamado "PancakeSwap Italy" (esto suena oficial). "PancakeSwap Fans of Italy" puede estar permitido.
+*   ⛔️ **No cambies ni adaptes nuestros Activos de Marca de ninguna manera**
 
-    Use the logos and other assets exactly as provided. Do not change the colors, reassemble, abbreviate, or change these assets in any way.
+    Usa los logotipos y otros activos exactamente como se proporcionan. No cambies los colores, no los redesmontes, no los abrevies ni los modifiques de ninguna manera.
 
-Use your common sense and creativity. If you want to make something relating to the PancakeSwap ecosystem, make it your own.
+Usa tu sentido común y creatividad. Si quieres crear algo relacionado con el ecosistema PancakeSwap, hazlo tuyo.
 
-Have fun making a unique brand that's clearly yours -- if your product is strong, you won't need to rely on remixing PancakeSwap's brand.
+Diviértete creando una marca única que sea claramente tuya: si tu producto es sólido, no necesitarás depender de remezclar la marca de PancakeSwap.
 
-## PancakeSwap Logo Downloads
+## Descargas del Logotipo de PancakeSwap
 
-![](<../../.gitbook/assets/Frame 4.png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Frame%204.png)
 
-Once you've read all the above, download the PancakeSwap and CAKE logos below.
+Una vez que hayas leído todo lo anterior, descarga los logotipos de PancakeSwap y CAKE a continuación.
 
 {% file src="../../.gitbook/assets/PancakeSwap Logos.zip" %}
-Download the official PancakeSwap and CAKE logos.
+Descarga los logotipos oficiales de PancakeSwap y CAKE.
 {% endfile %}
 
-By downloading this file, you confirm that you will only use it to the extent permitted by the Terms detailed in this page.
+Al descargar este archivo, confirmas que solo lo usarás en la medida permitida por los Términos detallados en esta página.
 
 {% hint style="info" %}
-As of November 1st, the CAKE token logo will also be represented by the PancakeSwap Rabbit icon.
+A partir del 1 de noviembre, el logotipo del token CAKE también estará representado por el ícono del Conejo de PancakeSwap.
 
-The previous CAKE icon, representing pancakes, has been depracated.
+El ícono anterior de CAKE, que representaba panqueques, ha sido descontinuado.
 {% endhint %}
-

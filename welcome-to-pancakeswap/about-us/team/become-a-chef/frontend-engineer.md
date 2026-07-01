@@ -2,46 +2,46 @@
 hidden: true
 ---
 
-# Senior Frontend Engineer
+# Ingeniero/a Frontend Senior
 
-### General Information
+### Información General
 
-* Salary range: Competitive, negotiable
-* Position: Full-time
-* Location: Remote
-* Time-zone preference: Any
+* Rango salarial: Competitivo, negociable
+* Posición: Tiempo completo
+* Ubicación: Remoto
+* Preferencia de zona horaria: Cualquiera
 
-### Your Responsibilities
+### Tus Responsabilidades
 
-* Design, scope, and estimate complex frontend products/upgrades.
-* Envision and develop features to help grow PancakeSwap.
-* Enthusiastically collaborate with a small team to plan projects at the task level.
-* Collaborate with cross-functional partners on all aspects of product development.
-* Identify and advocate for team-wide areas of improvement and best practices.
+* Diseñar, alcanzar y estimar productos/actualizaciones frontend complejos.
+* Concebir y desarrollar funcionalidades para ayudar a hacer crecer PancakeSwap.
+* Colaborar entusiastamente con un pequeño equipo para planificar proyectos a nivel de tareas.
+* Colaborar con socios multifuncionales en todos los aspectos del desarrollo de producto.
+* Identificar y defender áreas de mejora a nivel de equipo y mejores prácticas.
 
-### Skills & Qualifications
+### Habilidades y Calificaciones
 
-* Solid experience with TypeScript, React.js, and Node.js.
-* 5+ years of professional experience building responsive/adaptive web applications.
-* Strong ability to write clean, maintainable, and well-structured code.
-* Experience with JavaScript testing frameworks.
-* Proficiency with modern frontend build pipelines and tools.
-* Experience architecting and delivering scalable frontend solutions.
-* Hands-on experience with Web3 and decentralized application frontends, including familiarity with modern Web3 libraries (e.g., viem, wagmi).
-* Exposure to GraphQL.
+* Experiencia sólida con TypeScript, React.js y Node.js.
+* 5+ años de experiencia profesional construyendo aplicaciones web responsivas/adaptativas.
+* Gran capacidad para escribir código limpio, mantenible y bien estructurado.
+* Experiencia con frameworks de pruebas de JavaScript.
+* Dominio de pipelines y herramientas modernas de construcción de frontend.
+* Experiencia arquitectando y entregando soluciones frontend escalables.
+* Experiencia práctica con Web3 y frontends de aplicaciones descentralizadas, incluida familiaridad con bibliotecas Web3 modernas (p. ej., viem, wagmi).
+* Exposición a GraphQL.
 
-### Key Traits
+### Rasgos Clave
 
-* **Eager to learn:** Excited to dive into new tools and technologies.
-* **Self-driven:** Comfortable doing your own research and turning findings into practical solutions.
-* **Fast learner:** Able to quickly adapt to evolving requirements and environments.
-* **Innovative mindset:** Proactively looks for ways to improve products and workflows.
+* **Ganas de aprender:** Entusiasmo por explorar nuevas herramientas y tecnologías.
+* **Autodidacta:** Cómodo/a haciendo tu propia investigación y convirtiendo los hallazgos en soluciones prácticas.
+* **Aprendizaje rápido:** Capaz de adaptarse rápidamente a requisitos y entornos cambiantes.
+* **Mentalidad innovadora:** Busca proactivamente formas de mejorar productos y flujos de trabajo.
 
-### Good to have
+### Es un plus tener
 
-* Understanding of Solidity.
-* Familiarity with DEX protocols (not limited to PancakeSwap v2, v3, and Infinity).
+* Comprensión de Solidity.
+* Familiaridad con protocolos DEX (no limitado a PancakeSwap v2, v3 e Infinity).
 
-### How to apply
+### Cómo aplicar
 
-Email hiring@pancakeswap.com with your resume!
+Envía un correo a hiring@pancakeswap.com con tu currículum.

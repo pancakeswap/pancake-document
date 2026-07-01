@@ -1,26 +1,26 @@
-# Product Manager
+# Gerente de Producto
 
-**Job Overview:**
+**Descripción del Puesto:**
 
-We are seeking a dynamic Product Manager to join our team. In this role, you will be responsible for defining, developing, and executing product strategies that enhance user experience and drive growth. You will work closely with cross-functional teams including engineering, design, marketing, and community to ensure the successful launch and ongoing improvement of our products.
+Buscamos un/a dinámico/a Gerente de Producto para unirse a nuestro equipo. En este rol, serás responsable de definir, desarrollar y ejecutar estrategias de producto que mejoren la experiencia del usuario e impulsen el crecimiento. Trabajarás estrechamente con equipos multifuncionales que incluyen ingeniería, diseño, marketing y comunidad para garantizar el lanzamiento exitoso y la mejora continua de nuestros productos.
 
-**Key Responsibilities:**
+**Responsabilidades Clave:**
 
-* **Product Strategy:** Define and communicate the product vision, strategy, and roadmap aligned with the company’s goals.
-* **Market Research:** Conduct competitive analysis and user research to identify trends, customer needs, and opportunities for innovation.
-* **Collaboration:** Work closely with engineering and design teams to deliver high-quality products on time. Facilitate communication between teams to ensure alignment.
-* **User-Centric Design:** Advocate for user experience by incorporating user feedback and usability testing into product development.
-* **Performance Metrics:** Establish and track key performance indicators (KPIs) to measure product success and inform decision-making.
-* **Stakeholder Engagement:** Collaborate with marketing and community teams to develop go-to-market strategies and ensure product adoption.
-* **Continuous Improvement:** Monitor product performance and iterate based on user feedback and market trends.
+* **Estrategia de Producto:** Definir y comunicar la visión, estrategia y hoja de ruta del producto alineada con los objetivos de la empresa.
+* **Investigación de Mercado:** Realizar análisis competitivos e investigación de usuarios para identificar tendencias, necesidades de clientes y oportunidades de innovación.
+* **Colaboración:** Trabajar estrechamente con los equipos de ingeniería y diseño para entregar productos de alta calidad a tiempo. Facilitar la comunicación entre equipos para garantizar la alineación.
+* **Diseño Centrado en el Usuario:** Abogar por la experiencia del usuario incorporando comentarios de usuarios y pruebas de usabilidad en el desarrollo del producto.
+* **Métricas de Rendimiento:** Establecer y rastrear indicadores clave de rendimiento (KPIs) para medir el éxito del producto e informar la toma de decisiones.
+* **Participación de las Partes Interesadas:** Colaborar con los equipos de marketing y comunidad para desarrollar estrategias go-to-market y garantizar la adopción del producto.
+* **Mejora Continua:** Monitorear el rendimiento del producto e iterar basándose en los comentarios de los usuarios y las tendencias del mercado.
 
-**Qualifications:**
+**Calificaciones:**
 
-* 2+ years of experience in product management, preferably in the blockchain and Defi fintech space.
-* Strong understanding of DeFi concepts, cryptocurrency markets, and decentralized applications and smart contract
-* Proficiency in product management tools (e.g., Jira, Trello) and analytics platforms (e.g., Google Analytics, Mixpanel).
-* Passion for blockchain technology and a keen interest in emerging trends in the crypto space.
+* 2+ años de experiencia en gestión de productos, preferiblemente en el espacio fintech blockchain y DeFi.
+* Sólida comprensión de los conceptos DeFi, los mercados de criptomonedas, las aplicaciones descentralizadas y los contratos inteligentes.
+* Dominio de herramientas de gestión de productos (p. ej., Jira, Trello) y plataformas de análisis (p. ej., Google Analytics, Mixpanel).
+* Pasión por la tecnología blockchain y un gran interés en las tendencias emergentes en el espacio crypto.
 
 
 
-**How to Apply:** Shoot your resume over to hiring@pancakeswap.com, we’d love to hear from you!
+**Cómo aplicar:** Envía tu currículum a hiring@pancakeswap.com, ¡nos encantaría saber de ti!

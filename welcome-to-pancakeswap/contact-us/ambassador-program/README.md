@@ -1,15 +1,15 @@
-# Ambassador Program
+# Programa de Embajadores
 
-The PancakeSwap Ambassador Program is designed to empower our most dedicated users and supporters, giving them the opportunity to actively contribute to the growth of our ecosystem. Our ambassadors play a crucial role in representing PancakeSwap, educating new users, and fostering community engagement worldwide.
+El Programa de Embajadores de PancakeSwap está diseñado para empoderar a nuestros usuarios y seguidores más dedicados, dándoles la oportunidad de contribuir activamente al crecimiento de nuestro ecosistema. Nuestros embajadores desempeñan un papel crucial en la representación de PancakeSwap, la educación de nuevos usuarios y el fomento del compromiso comunitario en todo el mundo.
 
-#### 🔹 Ambassador Roles
+#### 🔹 Roles de Embajador
 
-To ensure clarity in responsibilities, the program is structured into distinct roles:
+Para garantizar la claridad en las responsabilidades, el programa está estructurado en roles distintos:
 
-🔹 Moderation – Community moderators help maintain a safe, welcoming, and informative environment across our platforms. They assist users, enforce community guidelines, and ensure smooth communication.
+🔹 Moderación – Los moderadores comunitarios ayudan a mantener un entorno seguro, acogedor e informativo en todas nuestras plataformas. Asisten a los usuarios, hacen cumplir las pautas comunitarias y garantizan una comunicación fluida.
 
-📢 Content Creation – Ambassadors passionate about content can contribute through articles, videos, social media posts, and other creative materials that promote PancakeSwap and educate the community.
+📢 Creación de Contenido – Los embajadores apasionados por el contenido pueden contribuir mediante artículos, videos, publicaciones en redes sociales y otros materiales creativos que promuevan PancakeSwap y eduquen a la comunidad.
 
-🎤 Events (Online & Offline) – Ambassadors can organize and participate in workshops, meetups, and local events to spread awareness and onboard new users to PancakeSwap.
+🎤 Eventos (En Línea y Presenciales) – Los embajadores pueden organizar y participar en talleres, encuentros y eventos locales para difundir el conocimiento e incorporar nuevos usuarios a PancakeSwap.
 
 <br>

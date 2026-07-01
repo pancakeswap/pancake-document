@@ -2,34 +2,34 @@
 hidden: true
 ---
 
-# Brand / Graphics Designer
+# Diseñador/a de Marca y Gráficos
 
-### **General Information**
+### **Información General**
 
-* Salary range: Competitive, negotiable
-* Position: Full-time
-* Location: Remote
+* Rango salarial: Competitivo, negociable
+* Posición: Tiempo completo
+* Ubicación: Remoto
 
-### Roles & Responsibilities:
+### Roles y Responsabilidades:
 
-* Design and develop characters and graphics for our brand in both 2D and 3D visuals.
-* Ensure visual consistency across the brand.
-* Create visual assets to support the Marketing team’s requirements, including banners, infographics, mockups, event collaterals, and more.
-* Take ownership of the design process on marketing event materials, ensuring designs are optimized for printing.
-* Work effectively with marketing, product operations, and business development teams to drive design initiatives and maintain a unified brand vision.
+* Diseñar y desarrollar personajes y gráficos para nuestra marca tanto en visuales 2D como 3D.
+* Garantizar la coherencia visual en toda la marca.
+* Crear activos visuales para apoyar los requisitos del equipo de Marketing, incluidos banners, infografías, maquetas, materiales para eventos y más.
+* Asumir la responsabilidad del proceso de diseño en materiales de eventos de marketing, asegurando que los diseños estén optimizados para impresión.
+* Trabajar eficazmente con los equipos de marketing, operaciones de producto y desarrollo de negocios para impulsar iniciativas de diseño y mantener una visión de marca unificada.
 
-### Requirements
+### Requisitos
 
-* Design Tools: Proficiency in tools that create consistent, high-quality visuals (e.g., Adobe Creative Suite, 3D design tools, Figma, or even AI design tools).
-* Experience: Minimum of 3 years of full-time experience as a Brand/Graphics Designer.
+* Herramientas de Diseño: Dominio de herramientas que crean visuales consistentes y de alta calidad (p. ej., Adobe Creative Suite, herramientas de diseño 3D, Figma o incluso herramientas de diseño con IA).
+* Experiencia: Mínimo 3 años de experiencia a tiempo completo como Diseñador/a de Marca/Gráficos.
 
-### Nice to have:
+### Es un plus tener:
 
-* Strong audience- and content-focused mindset.
-* Experience using fintech apps or PancakeSwap products/ with crypto / Web3 Familiarity.
-* Experience of handling design assets and material for print and merch items is a big plus.
-* Experience working in distributed teams.&#x20;
+* Mentalidad sólida orientada a la audiencia y al contenido.
+* Experiencia usando aplicaciones fintech o productos de PancakeSwap / familiaridad con crypto / Web3.
+* Experiencia en el manejo de activos de diseño y materiales para artículos de impresión y merchandising es un gran plus.
+* Experiencia trabajando en equipos distribuidos.&#x20;
 
-### **How to apply**
+### **Cómo aplicar**
 
-Email _hiring@pancakeswap.com_ with your CV & Portfolio!
+Envía un correo a _hiring@pancakeswap.com_ con tu CV y portafolio.

@@ -1,43 +1,43 @@
 # FAQ
 
-<figure><img src="../../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2894%29.png" alt=""><figcaption></figcaption></figure>
 
-### **Is there a deadline for the migration?**
+### **¿Hay una fecha límite para la migración?**
 
 No
 
-You will be able to unstake from V2 farms at any time.
+Podrás retirar el Staking de los farms V2 en cualquier momento.
 
-You will be able to remove liquidity from V2 at any time.
+Podrás retirar liquidez de V2 en cualquier momento.
 
-However, Chefs will gradually migrate the CAKE reward emissions from those selected V2 farms to their corresponding V3 farms. To continue earning CAKE rewards. We would recommend that you complete the migrations as early as possible.
+Sin embargo, los Chefs migrarán gradualmente las emisiones de recompensas de CAKE de esos farms V2 seleccionados a sus farms V3 correspondientes. Para continuar ganando recompensas de CAKE, te recomendamos completar las migraciones lo antes posible.
 
-For more news and updates on the migration timeline, please [follow our social channels on Twitter or Telegram announcement.](../../contact-us/social-accounts.md)
+Para obtener más noticias y actualizaciones sobre el calendario de migración, [sigue nuestros canales sociales en Twitter o el anuncio de Telegram.](../../contact-us/social-accounts.md)
 
-### When can I start migrating?
+### ¿Cuándo puedo comenzar a migrar?
 
-If you are reading this, the migration is likely started already. Visit [https://pancakeswap.finance/migration](https://pancakeswap.finance/migration) for more details.
+Si estás leyendo esto, es probable que la migración ya haya comenzado. Visita [https://pancakeswap.finance/migration](https://pancakeswap.finance/migration) para más detalles.
 
-### I can’t find the pair I’m staking
+### No encuentro el par en el que estoy haciendo Staking
 
-Some V2 farms and liquidity will continue to operate in parallel with V3.
+Algunos farms y liquidez de V2 continuarán operando en paralelo con V3.
 
-Some V2 farms will not be migrated on day 1. If your staked farms do not appear in “Step 1”, they do not require to be migrated at the moment.
+Algunos farms de V2 no se migrarán el día 1. Si tus farms en Staking no aparecen en el "Paso 1", no requieren ser migrados en este momento.
 
-If your V2 liquidity positions do not appear in “Step 2”, it is likely due to they have V2 farms running and do not require to be migrated at the moment.
+Si tus posiciones de liquidez V2 no aparecen en el "Paso 2", es probable que tengan farms V2 en funcionamiento y no requieran ser migrados en este momento.
 
-You can manually migrate your farm stakings and liquidity. Continue reading.
+Puedes migrar manualmente tus stakings de farm y liquidez. Continúa leyendo.
 
-### Can I manually migrate my farm stakings or liquidity without using the migration helper?
+### ¿Puedo migrar manualmente mis stakings de farm o liquidez sin usar el asistente de migración?
 
-Yes.
+Sí.
 
-You can unstake LP tokens from V2 farms by going to the “Farms” page and looking for farms with the “V2” tag. You can use the “Staked only” toggle to filter farms you are currently staking.
+Puedes retirar el Staking de tokens LP de los farms V2 yendo a la página "Farms" y buscando farms con la etiqueta "V2". Puedes usar el filtro "Staked only" para filtrar los farms en los que actualmente tienes Staking.
 
-You can remove V2 liquidity by going to the “Liquidity” page and looking for positions with the “V2” tag. You can use the V2 tab to filter only V2 positions.
+Puedes retirar liquidez V2 yendo a la página "Liquidity" y buscando posiciones con la etiqueta "V2". Puedes usar la pestaña V2 para filtrar solo posiciones V2.
 
-For adding your liquidity to V3 and staking LP positions to V3, follow the standard V3 steps.&#x20;
+Para agregar tu liquidez a V3 y hacer Staking de posiciones LP en V3, sigue los pasos estándar de V3.&#x20;
 
-For a detailed tutorial on how to add liquidity in V3, read [here](../../../earn/pancakeswap-pools/liquidity-guide.md).&#x20;
+Para un tutorial detallado sobre cómo agregar liquidez en V3, lee [aquí](../../../earn/pancakeswap-pools/liquidity-guide.md).&#x20;
 
-For a tutorial on how to farm in V3, read [here](../../../earn/yield-farming/how-to-use-farms/).
+Para un tutorial sobre cómo hacer farming en V3, lee [aquí](../../../earn/yield-farming/how-to-use-farms/).

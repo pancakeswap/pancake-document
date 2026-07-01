@@ -2,32 +2,30 @@
 hidden: true
 ---
 
-# Business Development Manager
+# Gerente de Desarrollo de Negocios
 
-#### Job Summary
+#### Resumen del Puesto
 
-As a Business Development Manager, you will be responsible for identifying, negotiating, and closing strategic partnerships that enhance our platform's liquidity, market diversity, and global reach. You'll work closely with product, marketing, and engineering teams to integrate new features, onboard key stakeholders, and foster growth in the crypto prediction space. This role requires a deep understanding of blockchain technology, prediction markets, and business strategy in a decentralized environment.
+Como Gerente de Desarrollo de Negocios, serás responsable de identificar, negociar y cerrar asociaciones estratégicas que mejoren la liquidez, la diversidad de mercado y el alcance global de nuestra plataforma. Trabajarás estrechamente con los equipos de producto, marketing e ingeniería para integrar nuevas funcionalidades, incorporar actores clave y fomentar el crecimiento en el espacio de mercados de predicción crypto. Este rol requiere un profundo conocimiento de la tecnología blockchain, los mercados de predicción y la estrategia de negocios en un entorno descentralizado.
 
-#### Key Responsibilities
+#### Responsabilidades Clave
 
-* Partnership Development: Identify and pursue partnerships with crypto exchanges, DeFi protocols, data oracles, influencers, and traditional institutions to integrate our prediction markets into broader ecosystems.
-* Market Expansion: Drive user acquisition and retention strategies, including collaborations with DAOs, NFT communities, and Web3 projects to increase platform liquidity and market creation.
-* Business Strategy: Analyze market trends in crypto, prediction markets, and blockchain to develop go-to-market plans, revenue models, and growth initiatives.
-* Relationship Management: Build and maintain long-term relationships with key stakeholders, including investors, regulators, and industry leaders, ensuring compliance with crypto regulations (e.g., KYC/AML where applicable).
-* Sales and Negotiation: Lead negotiations for integrations, sponsorships, and co-marketing deals, aiming to boost platform TVL (Total Value Locked) and trading volume.
-* Performance Tracking: Monitor KPIs such as partnership ROI, user growth, and market volume; provide regular reports and insights to senior leadership.
-* Event Participation: Represent the company at crypto conferences, hackathons, and industry events to network and promote our platform.
-* Cross-Functional Collaboration: Work with legal, product, and tech teams to ensure seamless execution of business deals in a decentralized context.
+* Desarrollo de Asociaciones: Identificar y perseguir asociaciones con exchanges de crypto, protocolos DeFi, oráculos de datos, influencers e instituciones tradicionales para integrar nuestros mercados de predicción en ecosistemas más amplios.
+* Expansión de Mercado: Impulsar estrategias de adquisición y retención de usuarios, incluidas colaboraciones con DAOs, comunidades NFT y proyectos Web3 para aumentar la liquidez de la plataforma y la creación de mercados.
+* Estrategia de Negocios: Analizar tendencias del mercado en crypto, mercados de predicción y blockchain para desarrollar planes go-to-market, modelos de ingresos e iniciativas de crecimiento.
+* Gestión de Relaciones: Construir y mantener relaciones a largo plazo con actores clave, incluidos inversores, reguladores y líderes de la industria, asegurando el cumplimiento de las regulaciones crypto (p. ej., KYC/AML donde corresponda).
+* Ventas y Negociación: Liderar negociaciones de integraciones, patrocinios y acuerdos de co-marketing, con el objetivo de aumentar el TVL (Total Value Locked) y el volumen de trading de la plataforma.
+* Seguimiento del Desempeño: Monitorear KPIs como el ROI de asociaciones, el crecimiento de usuarios y el volumen de mercado; proporcionar informes e insights regulares a la alta dirección.
+* Participación en Eventos: Representar a la empresa en conferencias crypto, hackathons y eventos de la industria para hacer networking y promover nuestra plataforma.
+* Colaboración Multifuncional: Trabajar con equipos legales, de producto y técnicos para garantizar la ejecución fluida de acuerdos comerciales en un contexto descentralizado.
 
-#### Qualifications and Skills
+#### Calificaciones y Habilidades
 
-* Experience: 3+ years in business development, sales, or partnerships within the crypto, blockchain, or fintech sectors. Experience in prediction markets, DeFi, or gambling/gaming industries is highly preferred.
-* Knowledge: Strong understanding of blockchain fundamentals, smart contracts, tokenomics, and prediction market mechanics (e.g., how markets resolve via oracles). Familiarity with platforms like Augur, Polymarket, or similar Skills: order-book based knowledge.
-* Proven track record of closing high-value deals and building strategic alliances.
-* Excellent communication, negotiation, and presentation skills.
-* Analytical mindset with experience using tools like Google Analytics, Dune
-* Analytics, or CRM software (e.g., Salesforce).
-* Ability to thrive in a remote, fast-paced startup environment.
-* Education: Bachelor's degree in Business, Marketing, Finance, or a related field;
-* MBA or certifications in blockchain (e.g., Certified Blockchain Expert) are a plus.
-* Personal Attributes: Entrepreneurial spirit, passion for crypto and decentralized technologies, adaptability to regulatory changes, and a results-oriented approach.
+* Experiencia: 3+ años en desarrollo de negocios, ventas o asociaciones dentro de los sectores crypto, blockchain o fintech. Se prefiere altamente la experiencia en mercados de predicción, DeFi o industrias de apuestas/juegos.
+* Conocimiento: Sólida comprensión de los fundamentos de blockchain, contratos inteligentes, Tokenomics y mecánicas de mercados de predicción (p. ej., cómo se resuelven los mercados a través de oráculos). Familiaridad con plataformas como Augur, Polymarket o similares. Conocimientos de order book.
+* Historial comprobado de cierre de acuerdos de alto valor y construcción de alianzas estratégicas.
+* Excelentes habilidades de comunicación, negociación y presentación.
+* Mentalidad analítica con experiencia usando herramientas como Google Analytics, Dune Analytics o software CRM (p. ej., Salesforce).
+* Capacidad para prosperar en un entorno remoto y de startup de ritmo acelerado.
+* Educación: Licenciatura en Negocios, Marketing, Finanzas o campo relacionado; MBA o certificaciones en blockchain (p. ej., Certified Blockchain Expert) son un plus.
+* Atributos Personales: Espíritu emprendedor, pasión por crypto y las tecnologías descentralizadas, adaptabilidad a los cambios regulatorios y un enfoque orientado a resultados.

@@ -2,40 +2,40 @@
 hidden: true
 ---
 
-# Frontend Engineer (Contract)
+# Ingeniero/a Frontend (Contrato)
 
-### General Information
+### Información General
 
-* Salary range: Competitive, negotiable
-* **Duration: 1 - 2 quarters**
-* Position: Full-time / Part-time
-* Location: Remote
-* Time-zone preference: Any
+* Rango salarial: Competitivo, negociable
+* **Duración: 1 - 2 trimestres**
+* Posición: Tiempo completo / Tiempo parcial
+* Ubicación: Remoto
+* Preferencia de zona horaria: Cualquiera
 
-### Your Responsibilities
+### Tus Responsabilidades
 
-* Design and build an iOS / Android application for PancakeSwap in accordance to our requirements.
-* Envision and develop features to help grow the application.
-* Enthusiastically collaborate with a small team to plan projects at the task level.
-* Collaborate with cross-functional partners on all aspects of product development.
+* Diseñar y construir una aplicación iOS / Android para PancakeSwap de acuerdo con nuestros requisitos.
+* Concebir y desarrollar funcionalidades para ayudar a hacer crecer la aplicación.
+* Colaborar entusiastamente con un pequeño equipo para planificar proyectos a nivel de tareas.
+* Colaborar con socios multifuncionales en todos los aspectos del desarrollo de producto.
 
-### Skills & Qualifications
+### Habilidades y Calificaciones
 
-* 3-5 years of experience in building decentralised applications
-* Solid experience in Typescript and React JS.
-* Ability to write structured and clean code.
-* Experience with Javascript testing tools.
-* Experience with modern front-end build pipelines and tools.
-* Experience with defining and delivering scalable frontend architectures.
-* Some experience with GraphQL.
-* Experience working with Web3 and a decentralized application frontend.
-* Ability to work independently and innovate.
+* 3-5 años de experiencia construyendo aplicaciones descentralizadas
+* Experiencia sólida en Typescript y React JS.
+* Capacidad para escribir código estructurado y limpio.
+* Experiencia con herramientas de pruebas de Javascript.
+* Experiencia con pipelines y herramientas modernas de construcción de frontend.
+* Experiencia en la definición y entrega de arquitecturas frontend escalables.
+* Algo de experiencia con GraphQL.
+* Experiencia trabajando con Web3 y un frontend de aplicación descentralizada.
+* Capacidad para trabajar de forma independiente e innovar.
 
-### Good to have
+### Es un plus tener
 
-* Understanding of Solidity and AMMs
-* Understanding of PancakeSwap products
+* Comprensión de Solidity y AMMs
+* Comprensión de los productos de PancakeSwap
 
-### How to apply:
+### Cómo aplicar:
 
-Email hiring@pancakeswap.com with your resume!
+Envía un correo a hiring@pancakeswap.com con tu currículum.

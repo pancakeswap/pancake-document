@@ -2,41 +2,41 @@
 hidden: true
 ---
 
-# Business Development Manager
+# Gerente de Desarrollo de Negocios
 
-### General Information
+### Información General
 
-* Salary range: Competitive, negotiable
-* Position: Full-time
-* Location: Remote
-* Time-zone preference: Any
+* Rango salarial: Competitivo, negociable
+* Posición: Tiempo completo
+* Ubicación: Remoto
+* Preferencia de zona horaria: Cualquiera
 
-### Your Responsibilities
+### Tus Responsabilidades
 
-* Coordinate with partners to ensure a healthy Farm/Syrup Pool and IFO pipeline.
-* Review and conduct due diligence on projects that apply for Farm/Syrup Pools and IFOs.
-* Liaise with project teams to explore potential partnership opportunities.
-* Execute operational matters relating to PancakeSwap products.
-* Implement best practices between the business development team & the wider team.
-* Review the latest developments in the crypto space and explore new business lines.
+* Coordinar con socios para asegurar un pipeline saludable de Farm/Syrup Pool e IFO.
+* Revisar y realizar diligencia debida en proyectos que soliciten Farms/Syrup Pools e IFOs.
+* Comunicarse con los equipos de proyectos para explorar posibles oportunidades de asociación.
+* Ejecutar asuntos operativos relacionados con los productos de PancakeSwap.
+* Implementar mejores prácticas entre el equipo de desarrollo de negocios y el equipo en general.
+* Revisar los últimos desarrollos en el espacio crypto y explorar nuevas líneas de negocio.
 
-### Skills & Qualifications
+### Habilidades y Calificaciones
 
-* 2+ years of experience in a business development and/or corporate finance role.
-* Solid understanding of the cryptocurrency space, especially DeFi.
-* Ability to speak, read and write in English fluently.
-* Articulate and able to hold effective conversations with project teams.
-* Proactive in keeping up with the latest trends in the blockchain/crypto space.
-* Strong attention to detail when analyzing projects.
-* Ability to work independently and innovate.
-* Can handle high pressure and a fast-paced work environment.
+* 2+ años de experiencia en un rol de desarrollo de negocios y/o finanzas corporativas.
+* Sólida comprensión del espacio de criptomonedas, especialmente DeFi.
+* Capacidad para hablar, leer y escribir en inglés con fluidez.
+* Articulado/a y capaz de mantener conversaciones efectivas con los equipos de proyectos.
+* Proactivo/a para mantenerse al día con las últimas tendencias en el espacio blockchain/crypto.
+* Gran atención al detalle al analizar proyectos.
+* Capacidad para trabajar de forma independiente e innovar.
+* Capaz de manejar alta presión y un entorno de trabajo de ritmo acelerado.
 
-### Good to have
+### Es un plus tener
 
-* Fluent in a second language.
-* Bachelor's degree in Finance, Accounting or other related areas.
-* Experience with smart contracts and Solidity.
+* Fluidez en un segundo idioma.
+* Licenciatura en Finanzas, Contabilidad u otras áreas relacionadas.
+* Experiencia con contratos inteligentes y Solidity.
 
-### How to apply
+### Cómo aplicar
 
-Email hiring@pancakeswap.com with your resume!
+Envía un correo a hiring@pancakeswap.com con tu currículum.

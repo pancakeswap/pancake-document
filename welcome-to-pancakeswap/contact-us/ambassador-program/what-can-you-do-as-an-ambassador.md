@@ -1,52 +1,52 @@
-# What can you do as an Ambassador?
+# ¿Qué puedes hacer como Embajador/a?
 
-### &#x20;**Meetups & Education!**&#x20;
+### &#x20;**¡Encuentros y Educación!**&#x20;
 
-As an Ambassador, you’ll lead local **meetups and educational events**, creating spaces for DeFi enthusiasts to connect, learn, and grow.&#x20;
+Como Embajador/a, liderarás **encuentros y eventos educativos** locales, creando espacios para que los entusiastas de DeFi se conecten, aprendan y crezcan.&#x20;
 
-Your role includes:\
-✅ Organizing **community meetups** to strengthen connections.\
-✅ Hosting **workshops** on DeFi, PancakeSwap products, and security best practices.\
-✅ Gathering **valuable feedback** to enhance future events.
+Tu rol incluye:\
+✅ Organizar **encuentros comunitarios** para fortalecer las conexiones.\
+✅ Organizar **talleres** sobre DeFi, productos de PancakeSwap y mejores prácticas de seguridad.\
+✅ Recopilar **comentarios valiosos** para mejorar futuros eventos.
 
-By fostering engagement and education, you’ll help build a more informed and connected PancakeSwap community worldwide!&#x20;
+¡Al fomentar el compromiso y la educación, ayudarás a construir una comunidad de PancakeSwap más informada y conectada en todo el mundo!&#x20;
 
-### Online Activities
+### Actividades en Línea
 
-💻 Expanding Our Reach, One Event at a Time!
+💻 ¡Ampliando Nuestro Alcance, un Evento a la Vez!
 
-The impact of our ambassadors goes beyond in-person events—it extends online! We encourage you to actively grow PancakeSwap’s presence by:
+¡El impacto de nuestros embajadores va más allá de los eventos presenciales! Te animamos a hacer crecer activamente la presencia de PancakeSwap:
 
-🎤 Hosting and participating in AMAs, Twitter Spaces, and online workshops to engage the community.\
-📣 Expanding our reach by connecting with a broader audience across different platforms.
+🎤 Organizar y participar en AMAs, Twitter Spaces y talleres en línea para involucrar a la comunidad.\
+📣 Ampliar nuestro alcance conectando con una audiencia más amplia en diferentes plataformas.
 
-Your online activities will play a crucial role in strengthening PancakeSwap’s visibility and educating our users!&#x20;
+¡Tus actividades en línea desempeñarán un papel crucial en el fortalecimiento de la visibilidad de PancakeSwap y en la educación de nuestros usuarios!&#x20;
 
-### Community Moderation
+### Moderación Comunitaria
 
-🛡️ Keeping Our Community Safe & Engaged!
+🛡️ ¡Manteniendo Nuestra Comunidad Segura y Comprometida!
 
-The PancakeSwap community spans multiple platforms, including Telegram and Discord, and we’re looking for dedicated individuals to help moderate and manage these spaces.
+La comunidad de PancakeSwap abarca múltiples plataformas, incluidas Telegram y Discord, y buscamos personas dedicadas para ayudar a moderar y gestionar estos espacios.
 
-As a Community Moderator, you’ll play a crucial role in:
+Como Moderador/a Comunitario/a, desempeñarás un papel crucial en:
 
-✅ Maintaining a positive and welcoming environment for all users.\
-✅ Enforcing community guidelines to ensure respectful and meaningful discussions.\
-✅ Providing support and guidance to users by answering questions and addressing concerns.
+✅ Mantener un entorno positivo y acogedor para todos los usuarios.\
+✅ Hacer cumplir las pautas comunitarias para garantizar discusiones respetuosas y significativas.\
+✅ Proporcionar apoyo y orientación a los usuarios respondiendo preguntas y atendiendo inquietudes.
 
-You’ll help create a safe, engaging, and informative space for our growing global community! 💬
+¡Ayudarás a crear un espacio seguro, atractivo e informativo para nuestra creciente comunidad global! 💬
 
-### Content Creation
+### Creación de Contenido
 
-Let’s take PancakeSwap content to the next level!
+¡Llevemos el contenido de PancakeSwap al siguiente nivel!
 
-As an ambassador, you’ll play a key role in crafting high-quality, engaging, and educational content, including:
+Como embajador/a, desempeñarás un papel clave en la elaboración de contenido de alta calidad, atractivo y educativo, incluyendo:
 
-* 📘 Guides – Clear, well-structured resources to help users navigate PancakeSwap effortlessly.
-* 🎥 Tutorials – Step-by-step explanations to simplify complex DeFi concepts.
-* 📚 In-Depth Content – Comprehensive materials that dive deep into PancakeSwap’s features and the DeFi ecosystem.
+* 📘 Guías – Recursos claros y bien estructurados para ayudar a los usuarios a navegar PancakeSwap sin esfuerzo.
+* 🎥 Tutoriales – Explicaciones paso a paso para simplificar conceptos DeFi complejos.
+* 📚 Contenido Profundo – Materiales completos que profundizan en las funcionalidades de PancakeSwap y el ecosistema DeFi.
 
-Your creativity and expertise will help bridge the knowledge gap, making DeFi more accessible to everyone. Together, we’ll build a valuable content hub that empowers and educates the PancakeSwap community! 💡✨
+Tu creatividad y experiencia ayudarán a cerrar la brecha de conocimiento, haciendo DeFi más accesible para todos. ¡Juntos construiremos un valioso centro de contenido que empodere y eduque a la comunidad de PancakeSwap! 💡✨
 
 <br>
 

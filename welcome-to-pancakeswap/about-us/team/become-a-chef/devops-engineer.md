@@ -2,33 +2,33 @@
 hidden: true
 ---
 
-# DevOps Engineer
+# Ingeniero/a DevOps
 
-### General information
+### Información General
 
-* Salary range: Competitive, negotiable
-* Position: Full-time
-* Location: Remote
-* Time-zone preference: Any
+* Rango salarial: Competitivo, negociable
+* Posición: Tiempo completo
+* Ubicación: Remoto
+* Preferencia de zona horaria: Cualquiera
 
-### Your Responsibilities
+### Tus Responsabilidades
 
-* Take care of our existing cloud infrastructure.
-* Investigate and resolve technical issues.
-* Plan and develop new cloud-based services.
-* Write extensive documentation.
+* Administrar nuestra infraestructura en la nube existente.
+* Investigar y resolver problemas técnicos.
+* Planificar y desarrollar nuevos servicios basados en la nube.
+* Redactar documentación exhaustiva.
 
-### Skills & Qualification
+### Habilidades y Calificaciones
 
-* Good understanding of Go, NodeJS or Python.
-* Experience with cloud platforms (AWS/GCP/Azure).
-* Experience configuring and maintaining databases (MongoDB, PostgresSQL, Redis).
-* Good understanding of Docker, Kubernetes and adjacent technologies.
-* Ability to evaluate scaling issues and take action.
-* Solid experience with GraphQL.
-* Experience with testing tools.
-* Experience with Web3, Smart Contracts, Nodes and other crypto technologies.
+* Buen conocimiento de Go, NodeJS o Python.
+* Experiencia con plataformas en la nube (AWS/GCP/Azure).
+* Experiencia configurando y manteniendo bases de datos (MongoDB, PostgresSQL, Redis).
+* Buen conocimiento de Docker, Kubernetes y tecnologías adyacentes.
+* Capacidad para evaluar problemas de escalabilidad y tomar medidas.
+* Experiencia sólida con GraphQL.
+* Experiencia con herramientas de pruebas.
+* Experiencia con Web3, contratos inteligentes, nodos y otras tecnologías crypto.
 
-### How to apply
+### Cómo aplicar
 
-Email hiring@pancakeswap.com with your resume!
+Envía un correo a hiring@pancakeswap.com con tu currículum.

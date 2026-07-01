@@ -2,33 +2,33 @@
 hidden: true
 ---
 
-# Community Manager
+# Gerente de Comunidad
 
-* Position: Full-time
-* Location: Remote
-* Timezone: UTC+8
+* Posición: Tiempo completo
+* Ubicación: Remoto
+* Zona horaria: UTC+8
 
-We are looking for an experienced Community Manager to activate, engage, and grow the PancakeSwap community. The ideal candidate has a strong understanding of DeFi communities and a proven track record in community management and growth.
+Buscamos un/a Gerente de Comunidad experimentado/a para activar, involucrar y hacer crecer la comunidad de PancakeSwap. El/la candidato/a ideal tiene una sólida comprensión de las comunidades DeFi y un historial comprobado en gestión y crecimiento de comunidades.
 
-### **Responsibilities:**
+### **Responsabilidades:**
 
-* Grow PancakeSwap's presence via organic and community efforts
-* ﻿﻿Represent PancakeSwap as a spokesperson in community channels (Discord, Telegram, X, community spaces, AMAs), actively advocates for our products, brand, and ecosystem
-* ﻿﻿Plan and execute regional meetups, AMAs, community events and initiatives with clear growth outcomes and results
-* ﻿Actively explore and coordinate joint efforts with relevant crypto projects and communities to increase community activations
-* ﻿﻿Manage PancakeSwap's ambassador program to support PancakeSwap's presence across community channels, content, and local community events
-* ﻿﻿Act as a bridge between the PancakeSwap community and internal teams, relaying community and product feedback to drive PancakeSwap's growth and success
-* ﻿﻿Identify and engage with community content creators and influencers to produce relevant and engaging content aligned with PancakeSwap's brand and goals
-* ﻿﻿Provide weekly reports on activities, metrics, and community feedback
+* Hacer crecer la presencia de PancakeSwap a través de esfuerzos orgánicos y comunitarios
+* ﻿﻿Representar a PancakeSwap como portavoz en los canales comunitarios (Discord, Telegram, X, espacios comunitarios, AMAs), defendiendo activamente nuestros productos, marca y ecosistema
+* ﻿﻿Planificar y ejecutar encuentros regionales, AMAs, eventos e iniciativas comunitarias con resultados y resultados de crecimiento claros
+* ﻿Explorar y coordinar activamente esfuerzos conjuntos con proyectos y comunidades crypto relevantes para aumentar las activaciones comunitarias
+* ﻿﻿Gestionar el programa de embajadores de PancakeSwap para apoyar la presencia de PancakeSwap en los canales comunitarios, el contenido y los eventos comunitarios locales
+* ﻿﻿Actuar como puente entre la comunidad de PancakeSwap y los equipos internos, transmitiendo comentarios de la comunidad y del producto para impulsar el crecimiento y el éxito de PancakeSwap
+* ﻿﻿Identificar e involucrar a creadores de contenido e influencers de la comunidad para producir contenido relevante y atractivo alineado con la marca y los objetivos de PancakeSwap
+* ﻿﻿Proporcionar informes semanales sobre actividades, métricas y comentarios de la comunidad
 
-### **Requirements**
+### **Requisitos**
 
-* 2+ years of experience as a community manager in the DeFi or crypto space
-* ﻿﻿Language: Fluent in English. Additional languages a plus.
-* ﻿﻿Deep understanding of crypto-native communities, DeFi users, and on-chain culture
-* ﻿﻿Excellent communication skills and able to drive effective conversations
-* ﻿﻿Experience with community platforms and tools on Discord, Telegram, X, etc.
-* ﻿﻿Proactive, results-oriented, and able to operate in a fast-paced environment
+* 2+ años de experiencia como gerente de comunidad en el espacio DeFi o crypto
+* ﻿﻿Idioma: Fluidez en inglés. Los idiomas adicionales son un plus.
+* ﻿﻿Profundo conocimiento de comunidades nativas de crypto, usuarios de DeFi y cultura on-chain
+* ﻿﻿Excelentes habilidades de comunicación y capacidad para sostener conversaciones efectivas
+* ﻿﻿Experiencia con plataformas y herramientas de comunidad en Discord, Telegram, X, etc.
+* ﻿﻿Proactivo/a, orientado/a a resultados y capaz de operar en un entorno de ritmo acelerado
 
-**How to Apply:**\
-Shoot your resume over to hiring@pancakeswap.com, we’d love to hear from you!
+**Cómo aplicar:**\
+Envía tu currículum a hiring@pancakeswap.com, ¡nos encantaría saber de ti!

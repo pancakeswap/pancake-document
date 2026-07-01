@@ -2,40 +2,40 @@
 hidden: true
 ---
 
-# Solidity Engineer (Contract)
+# Ingeniero/a Solidity (Contrato)
 
-### **General Information**
+### **Información General**
 
-* Salary range: Competitive, negotiable
-* **Duration: 1 - 2 quarters**
-* Position: Full-time / Part-time
-* Location: Remote
-* Time-zone preference: Any
+* Rango salarial: Competitivo, negociable
+* **Duración: 1 - 2 trimestres**
+* Posición: Tiempo completo / Tiempo parcial
+* Ubicación: Remoto
+* Preferencia de zona horaria: Cualquiera
 
-### Your Responsibilities
+### Tus Responsabilidades
 
-* Build smart contracts in Solidity.
-* Design, scope, and estimate complex contract based on requirements given.
-* Envision and develop features to help grow product.
-* Enthusiastically collaborate with a small team to plan projects at the task level.
-* Collaborate with cross-functional partners on all aspects of product development.
-* Identify and advocate for team-wide areas of improvement and best practices.
+* Construir contratos inteligentes en Solidity.
+* Diseñar, alcanzar y estimar contratos complejos según los requisitos dados.
+* Concebir y desarrollar funcionalidades para ayudar a hacer crecer el producto.
+* Colaborar entusiastamente con un pequeño equipo para planificar proyectos a nivel de tareas.
+* Colaborar con socios multifuncionales en todos los aspectos del desarrollo de producto.
+* Identificar y defender áreas de mejora a nivel de equipo y mejores prácticas.
 
-### Skills & Qualifications
+### Habilidades y Calificaciones
 
-* 3-5 years of industry experience in software engineering.
-* Understands and applies Solidity patterns to solve common problems.
-* Understands gas optimization the tradeoff between efficient code and readable code.
-* Knows how to write migrations and deploy code to EVM-compatible networks.
-* Familiar with Hardhat and Foundry and the pros and cons of each framework.
-  * Specifically familiar with Hardhat as this is the framework used by PancakeSwap.
-* Possesses exceptional judgment, problem-solving skills, and an analytical mindset.
-* Understands engineering best practices such as continuous integration.
-* Ability to work in areas outside of your comfort zone and motivated by personal growth.
-* Be able to work autonomously.
-* The candidate should be independent enough to make important technical decisions on their own.
-* The candidate should be driven and innovative.
+* 3-5 años de experiencia en la industria en ingeniería de software.
+* Comprende y aplica patrones de Solidity para resolver problemas comunes.
+* Comprende la optimización de gas y la compensación entre código eficiente y código legible.
+* Sabe cómo escribir migraciones e implementar código en redes compatibles con EVM.
+* Familiarizado/a con Hardhat y Foundry y los pros y contras de cada framework.
+  * Específicamente familiarizado/a con Hardhat ya que este es el framework utilizado por PancakeSwap.
+* Posee un juicio excepcional, habilidades para resolver problemas y mentalidad analítica.
+* Comprende las mejores prácticas de ingeniería como la integración continua.
+* Capacidad para trabajar en áreas fuera de su zona de confort y motivado/a por el crecimiento personal.
+* Ser capaz de trabajar de forma autónoma.
+* El/la candidato/a debe ser lo suficientemente independiente para tomar decisiones técnicas importantes por su cuenta.
+* El/la candidato/a debe ser proactivo/a e innovador/a.
 
-### How to apply:
+### Cómo aplicar:
 
-Email hiring@pancakeswap.com with your resume!
+Envía un correo a hiring@pancakeswap.com con tu currículum.

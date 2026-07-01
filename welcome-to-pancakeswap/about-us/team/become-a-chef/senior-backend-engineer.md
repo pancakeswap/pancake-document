@@ -2,54 +2,53 @@
 hidden: true
 ---
 
-# Senior Backend Engineer
+# Ingeniero/a Backend Senior
 
-### General Information
+### Información General
 
-* Salary range: Competitive, negotiable
-* Position: Full-time
-* Location: Remote
-* Time-zone preference: Any
+* Rango salarial: Competitivo, negociable
+* Posición: Tiempo completo
+* Ubicación: Remoto
+* Preferencia de zona horaria: Cualquiera
 
-### Role Overview
+### Descripción del Rol
 
-We are seeking an experienced Backend Engineer who is passionate about crypto and DeFi, and has a deep understanding of micro-services architecture. You will work closely with a diverse team of engineers to design, develop, and maintain backend services that support our crypto platform.
+Buscamos un/a Ingeniero/a Backend con experiencia que sea apasionado/a por crypto y DeFi, y tenga un profundo conocimiento de la arquitectura de microservicios. Trabajarás estrechamente con un equipo diverso de ingenieros para diseñar, desarrollar y mantener servicios backend que respalden nuestra plataforma crypto.
 
-### Your Responsibilities
+### Tus Responsabilidades
 
-* Design, develop, and maintain scalable backend services and micro-services.
-* Work with cross-functional teams to integrate with DeFi protocols and other blockchain solutions.
-* Implement secure, efficient, and reliable APIs to power our crypto services.
-* Develop and deploy infrastructure on cloud environments to ensure scalability and performance.
-* Analyze and optimize system performance and stability.
-* Stay current with the latest developments in blockchain, DeFi, and backend technologies.
+* Diseñar, desarrollar y mantener servicios backend escalables y microservicios.
+* Trabajar con equipos multifuncionales para integrarse con protocolos DeFi y otras soluciones blockchain.
+* Implementar APIs seguras, eficientes y confiables para potenciar nuestros servicios crypto.
+* Desarrollar e implementar infraestructura en entornos de nube para garantizar la escalabilidad y el rendimiento.
+* Analizar y optimizar el rendimiento y la estabilidad del sistema.
+* Mantenerse al día con los últimos desarrollos en blockchain, DeFi y tecnologías backend.
 
-### Skills & Qualifications
+### Habilidades y Calificaciones
 
-* 5+ years of experience in backend development.
-* Strong knowledge of modern backend programming languages such as Typescript
-* &#x20;(must have), Rust (nice to have).
-* Experience working with smart contracts and Ethereum-based / Solana-based applications.
-* Experience working with microservices and distributed systems.
-* Deep understanding of blockchain, cryptocurrency, and DeFi concepts.
-* Hands-on experience building APIs and integrating with third-party services.
-* Experience with cloud platforms (e.g., AWS, DigitalOcean).
-* Strong problem-solving skills and attention to detail.
-* Excellent communication skills and a collaborative mindset.
+* 5+ años de experiencia en desarrollo backend.
+* Sólido conocimiento de lenguajes de programación backend modernos como Typescript (imprescindible), Rust (es un plus).
+* Experiencia trabajando con contratos inteligentes y aplicaciones basadas en Ethereum/Solana.
+* Experiencia trabajando con microservicios y sistemas distribuidos.
+* Profundo conocimiento de blockchain, criptomonedas y conceptos DeFi.
+* Experiencia práctica construyendo APIs e integrándose con servicios de terceros.
+* Experiencia con plataformas en la nube (p. ej., AWS, DigitalOcean).
+* Sólidas habilidades para resolver problemas y atención al detalle.
+* Excelentes habilidades de comunicación y mentalidad colaborativa.
 
-### Good to have
+### Es un plus tener
 
-* Knowledge of container orchestration technologies like Kubernetes.
-* Familiarity with database technologies like PostgreSQL, Redis, or similar.
-* Previous experience working in a startup or fast-paced environment.
-* Experience with indexing solutions such as TheGraph or Subsquid.
+* Conocimiento de tecnologías de orquestación de contenedores como Kubernetes.
+* Familiaridad con tecnologías de base de datos como PostgreSQL, Redis o similares.
+* Experiencia previa trabajando en una startup o entorno de ritmo acelerado.
+* Experiencia con soluciones de indexación como TheGraph o Subsquid.
 
-### Why Join Us?
+### ¿Por qué unirte?
 
-* Work on cutting-edge technology in the exciting field of blockchain and DeFi.
-* Join a passionate, knowledgeable, and supportive team.
-* Opportunities for growth and development in the fast-evolving crypto space
+* Trabaja en tecnología de vanguardia en el emocionante campo de blockchain y DeFi.
+* Únete a un equipo apasionado, conocedor y de apoyo.
+* Oportunidades de crecimiento y desarrollo en el espacio crypto en rápida evolución.
 
-### How to apply
+### Cómo aplicar
 
-Email hiring@pancakeswap.com with your resume!
+Envía un correo a hiring@pancakeswap.com con tu currículum.

@@ -1,31 +1,31 @@
-# Quant Developer
+# Desarrollador/a Quant
 
-We are looking for a Quant Developer with experience in AMM liquidity provision and crypto market making to design and implement trading and risk strategies behind our PropAMM system.
+Buscamos un/a Desarrollador/a Quant con experiencia en provisión de liquidez en AMM y creación de mercados crypto para diseñar e implementar estrategias de trading y riesgo detrás de nuestro sistema PropAMM.
 
-This role sits at the intersection of quantitative research, DeFi protocol design, and trading infrastructure, helping connect on-chain liquidity with other exchange markets.
+Este rol se encuentra en la intersección de la investigación cuantitativa, el diseño de protocolos DeFi y la infraestructura de trading, ayudando a conectar la liquidez on-chain con otros mercados de exchanges.
 
-Responsibilities:
+Responsabilidades:
 
--Design and implement pricing and liquidity strategies for PropAMM pools\
--Develop spread models, liquidity depth allocation, and volatility-based adjustments\
--Build inventory management frameworks to control token exposure\
--Design delta neutral hedging strategies\
--Integrate real-time orderbook data into pricing models\
--Backtest liquidity strategies and simulate trading performance\
--Optimize pricing and liquidity to maximize volume while minimizing risk
+-Diseñar e implementar estrategias de precios y liquidez para pools PropAMM\
+-Desarrollar modelos de spread, asignación de profundidad de liquidez y ajustes basados en volatilidad\
+-Construir marcos de gestión de inventario para controlar la exposición a tokens\
+-Diseñar estrategias de cobertura delta neutral\
+-Integrar datos de order book en tiempo real en modelos de precios\
+-Realizar backtesting de estrategias de liquidez y simular el rendimiento del trading\
+-Optimizar precios y liquidez para maximizar el volumen minimizando el riesgo
 
-Requirements:
+Requisitos:
 
--4+ years experience in quant trading, crypto market making, or DeFi liquidity provision\
--Strong understanding of AMM mechanics, arbitrage dynamics, and liquidity pools\
--Experience with CEX hedging strategies and DEX liquidity provision\
--Strong programming skills in Python, Rust, or C++\
--Experience building real-time trading or market data systems
+-4+ años de experiencia en trading quant, creación de mercados crypto o provisión de liquidez DeFi\
+-Sólida comprensión de la mecánica de AMM, dinámica de arbitraje y pools de liquidez\
+-Experiencia con estrategias de cobertura en CEX y provisión de liquidez en DEX\
+-Sólidas habilidades de programación en Python, Rust o C++\
+-Experiencia construyendo sistemas de trading o datos de mercado en tiempo real
 
-Nice to Have:\
--Background in DeFi market making or crypto trading firms\
--Familiarity with aggregator routing and on-chain trading mechanics
+Es un plus tener:\
+-Experiencia en creación de mercados DeFi o empresas de trading crypto\
+-Familiaridad con el enrutamiento de agregadores y la mecánica de trading on-chain
 
 
 
-**How to Apply:** Shoot your resume over to hiring@pancakeswap.com, we’d love to hear from you!
+**Cómo aplicar:** Envía tu currículum a hiring@pancakeswap.com, ¡nos encantaría saber de ti!

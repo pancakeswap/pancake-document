@@ -2,38 +2,38 @@
 hidden: true
 ---
 
-# Product Manager
+# Gerente de Producto
 
-#### General Information
+#### Información General
 
-* Salary range: Competitive, negotiable
-* Position: Full-time
-* Location: Remote
-* Time-zone preference: Any
+* Rango salarial: Competitivo, negociable
+* Posición: Tiempo completo
+* Ubicación: Remoto
+* Preferencia de zona horaria: Cualquiera
 
-#### Your Responsibilities
+#### Tus Responsabilidades
 
-* Collaborate with internal stakeholders (leads, design, devs, bd, marketing, qa, data, ops) to craft future PancakeSwap products from 0 to 1
+* Colaborar con las partes interesadas internas (líderes, diseño, desarrolladores, bd, marketing, qa, datos, ops) para crear los futuros productos de PancakeSwap de 0 a 1
 
-#### Skills & Qualifications
+#### Habilidades y Calificaciones
 
-* 3+ years experience in Crypto/DeFi/DEX and financial services/products.
-* Experience in full flow of product development, including:
-  * Perform market research and identify potential product usecases.
-  * Turn requirements and ideas from other stakeholders in to complete designs.
-  * Visualise userflow with wireframe and assist design to complete the UI/UX.
-  * Assist and work with the dev team to build the product.
-  * Resolve product issues with qa team.
-  * Plan GTM strategies and campaigns with marketing team.
-  * Coordinate with external members from partners.
-  * Help ops team to perform product deployment.
-  * Analyse data and improve product experience with data team.
-* Gather info, provide options to other stakeholders to make critical decisions when needed.
-* Able to work remotely, autonomously with great self initiative.
+* 3+ años de experiencia en Crypto/DeFi/DEX y servicios/productos financieros.
+* Experiencia en el flujo completo de desarrollo de producto, incluyendo:
+  * Realizar investigación de mercado e identificar posibles casos de uso del producto.
+  * Convertir requisitos e ideas de otras partes interesadas en diseños completos.
+  * Visualizar el flujo del usuario con wireframes y ayudar al diseño para completar la UI/UX.
+  * Asistir y trabajar con el equipo de desarrollo para construir el producto.
+  * Resolver problemas del producto con el equipo de qa.
+  * Planificar estrategias GTM y campañas con el equipo de marketing.
+  * Coordinar con miembros externos de socios.
+  * Ayudar al equipo de ops a realizar el despliegue del producto.
+  * Analizar datos y mejorar la experiencia del producto con el equipo de datos.
+* Recopilar información, proporcionar opciones a otras partes interesadas para tomar decisiones críticas cuando sea necesario.
+* Capaz de trabajar de forma remota y autónoma con gran iniciativa propia.
 
-#### Nice to Have
+#### Es un plus tener
 
-* Technical background of blockchain and Web3. (to assist dev team to plan ahead when designing products. Think inside of the blockchain limitations, but think outside of the box for solutions)
-* Skills for blockchain deep dive, tx debug (to better assist qa and ops)
-* Figma skills (to build pretty mock-ups on your own with a design system)
-* Mandarin (to communicate with some other skillful bunnies)
+* Conocimiento técnico de blockchain y Web3. (para ayudar al equipo de desarrollo a planificar con anticipación al diseñar productos. Piensa dentro de las limitaciones de blockchain, pero piensa fuera de la caja para las soluciones)
+* Habilidades para el análisis profundo de blockchain, depuración de transacciones (para asistir mejor a qa y ops)
+* Habilidades de Figma (para crear maquetas bonitas por tu cuenta con un sistema de diseño)
+* Mandarín (para comunicarte con algunos otros bunnies habilidosos)
