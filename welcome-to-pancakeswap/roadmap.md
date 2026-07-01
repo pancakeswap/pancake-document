@@ -1,63 +1,63 @@
 ---
-description: '"Don''t call it a roadmap"'
+description: '"No lo llames roadmap"'
 ---
 
 # 🗺️ Roadmap
 
-_Updated on Jun 1, 2026_
+_Actualizado el 1 de junio de 2026_
 
-## Our vision: the universal liquidity layer of crypto
+## Nuestra visión: la capa universal de liquidez de crypto
 
-All of crypto should route through PancakeSwap. Our **AMMs** and **PCSX** are the rails every trade settles against; our **aggregator** wins the customer with the best price anywhere and routes that demand back into our own liquidity. More flow deepens liquidity, which sharpens execution, which wins more users — and the revenue it generates buys back and burns **CAKE**, tying the token directly to real usage. Increasingly, the traders won't even be human: as AI agents become crypto's newest economic actors, we intend to be the liquidity layer they plug into. Liquidity in, supply out.
-
-***
-
-#### Aggregator — owning the customer relationship
-
-Best price in crypto, every time, on one surface across every chain — then we route that demand into our own rails.
-
-* **Now:** best-price routing across PancakeSwap + external venues; multichain (BNB, ETH, Base, Arbitrum, Solana, and more); sub-second quotes on our own infra
-* **Next:** cross-chain aggregated swaps; broader venue and chain coverage
-
-#### AMM — the foundation of liquidity
-
-PancakeSwap Infinity makes our AMM the most extensible, capital-efficient liquidity primitive in DeFi.
-
-* **Now:** more v4 hooks, e.g. dynamic fees hooks, stableswap hooks
-* **Next:** a growing ecosystem of hooks; more chains; advanced LP tooling
-
-#### PCSX — the rail specifically built for RWA
-
-Intent-based settlement that connects users to professional market makers, covering fills the pool model can't.
-
-* **Now:** RFQ fills with pro market makers; powering tokenized RWAs
-* **Next:** deeper MM network; cross-chain settlement
-
-#### Perps — pro-grade derivatives onchain
-
-A derivatives venue that rivals any platform, without giving up self-custody.
-
-* **Now:** advanced order types (limit, stop, TP/SL); AI copilot for one-click strategies; precise position management, loss rebate mechanisms
-* **Next:** advanced trader tooling, more gamified features
-
-#### Agentic — trading that acts for you
-
-The next interface isn't a screen, it's an agent. We're evolving from assisting trades to executing them — and opening our rails to the AI agents becoming crypto's newest traders.
-
-* **Now:** AI skills, AI copilot that turns intent into one-click strategies
-* **Next:** autonomous agents that execute and rebalance on your behalf; natural-language trading; agent-accessible APIs so third-party AI routes its flow through our liquidity
-
-#### Tokenized Stock — real-world markets on our rails
-
-A dedicated EVM home for trading tokenized equities, settling through our own liquidity.
-
-* **Now:** dedicated stock terminal; live charts and on-chain data; expanding asset list
-* **Next:** more equities and RWAs; more chains; limit order and DCA
-
-#### Other optimizations
-
-The invisible work that compounds: faster flows, simpler onboarding, a stronger mobile experience, deeper multichain reach, and higher reliability at scale.
+Todo el crypto debería enrutar a través de PancakeSwap. Nuestros **AMMs** y **PCSX** son los rieles sobre los que se liquida cada intercambio; nuestro **agregador** gana al cliente con el mejor precio en cualquier lugar y enruta esa demanda de vuelta a nuestra propia liquidez. Más flujo profundiza la liquidez, lo que mejora la ejecución, lo que atrae a más usuarios, y los ingresos que genera recompra y quema **CAKE**, vinculando el token directamente al uso real. Cada vez más, los traders no serán humanos: a medida que los agentes de IA se convierten en los nuevos actores económicos de crypto, pretendemos ser la capa de liquidez a la que se conectan. Liquidez adentro, suministro afuera.
 
 ***
 
-_Crypto moves fast, and so do we — no fixed timelines, just a constant direction: become the universal liquidity layer of crypto, win the customer with the best execution anywhere, route the world's onchain trading (human and agent) through our rails, and return that value to CAKE._
+#### Agregador — siendo dueños de la relación con el cliente
+
+El mejor precio en crypto, siempre, en una sola superficie en todas las cadenas, y luego enrutamos esa demanda a nuestros propios rieles.
+
+* **Ahora:** enrutamiento al mejor precio entre PancakeSwap + venues externos; multicadena (BNB, ETH, Base, Arbitrum, Solana y más); cotizaciones en menos de un segundo en nuestra propia infraestructura
+* **Siguiente:** intercambios agregados entre cadenas; mayor cobertura de venues y cadenas
+
+#### AMM — la base de la liquidez
+
+PancakeSwap Infinity hace de nuestro AMM el primitivo de liquidez más extensible y eficiente en capital de DeFi.
+
+* **Ahora:** más hooks v4, p. ej. hooks de comisiones dinámicas, hooks de StableSwap
+* **Siguiente:** un ecosistema creciente de hooks; más cadenas; herramientas avanzadas para LP
+
+#### PCSX — el riel construido específicamente para RWA
+
+Liquidación basada en intención que conecta a los usuarios con market makers profesionales, cubriendo las operaciones que el modelo de pool no puede.
+
+* **Ahora:** liquidaciones RFQ con market makers profesionales; potenciando RWAs tokenizados
+* **Siguiente:** red de MM más profunda; liquidación entre cadenas
+
+#### Perps — derivados de nivel profesional on-chain
+
+Un venue de derivados que rivaliza con cualquier plataforma, sin renunciar a la autocustodia.
+
+* **Ahora:** tipos de órdenes avanzadas (límite, stop, TP/SL); copiloto de IA para estrategias con un clic; gestión precisa de posiciones, mecanismos de reembolso de pérdidas
+* **Siguiente:** herramientas para traders avanzados, más funcionalidades gamificadas
+
+#### Agéntico — trading que actúa por ti
+
+La próxima interfaz no es una pantalla, es un agente. Estamos evolucionando de asistir en los intercambios a ejecutarlos, y abriendo nuestros rieles a los agentes de IA que se convierten en los más recientes traders de crypto.
+
+* **Ahora:** habilidades de IA, copiloto de IA que convierte la intención en estrategias con un clic
+* **Siguiente:** agentes autónomos que ejecutan y rebalancean en tu nombre; trading en lenguaje natural; APIs accesibles para agentes para que IA de terceros enrute su flujo a través de nuestra liquidez
+
+#### Acciones Tokenizadas — mercados del mundo real en nuestros rieles
+
+Un hogar EVM dedicado para el trading de acciones tokenizadas, liquidando a través de nuestra propia liquidez.
+
+* **Ahora:** terminal de acciones dedicada; gráficos en vivo y datos on-chain; lista de activos en expansión
+* **Siguiente:** más acciones y RWAs; más cadenas; orden límite y DCA
+
+#### Otras optimizaciones
+
+El trabajo invisible que se acumula: flujos más rápidos, incorporación más sencilla, una experiencia móvil más sólida, mayor alcance multicadena y mayor fiabilidad a escala.
+
+***
+
+_Crypto se mueve rápido, y nosotros también: sin plazos fijos, solo una dirección constante: convertirnos en la capa universal de liquidez de crypto, ganar al cliente con la mejor ejecución en cualquier lugar, enrutar el trading on-chain mundial (humano y de agentes) a través de nuestros rieles, y retornar ese valor a CAKE._

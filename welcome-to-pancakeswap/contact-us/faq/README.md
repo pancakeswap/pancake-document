@@ -1,123 +1,123 @@
-# General FAQ
+# FAQ General
 
-![](<../../../.gitbook/assets/general-faq-header (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/general-faq-header%20%281%29.png)
 
-This FAQ page answers some of the more commonly asked questions from the PancakeSwap community.
+Esta página de FAQ responde algunas de las preguntas más frecuentes de la comunidad de PancakeSwap.
 
-## Is PancakeSwap safe? Has PancakeSwap been Audited?
+## ¿Es seguro PancakeSwap? ¿Ha sido Auditado PancakeSwap?
 
-See for yourself:
+Compruébalo tú mismo/a:
 
-* Check out [these PancakeSwap security audits](../../../#is-pancakeswap-safe)
-* Transparent:
-  * We’re built on open-source software: our site and all our Smart Contracts are publicly visible for maximum transparency.
-  * Our contracts are verified on blockchain explorers, so you know that what you see is what you get. Check them out [here](/broken/pages/-MeTcIwNOfhTYrz1V3xJ).
-* Security best practices:
-  * The chefs use multisig for all contracts.
-  * Our contracts’ time-lock gives you peace of mind.
+* Consulta [estas auditorías de seguridad de PancakeSwap](../../../#is-pancakeswap-safe)
+* Transparente:
+  * Está construido sobre software de código abierto: nuestro sitio y todos nuestros Contratos Inteligentes son públicamente visibles para máxima transparencia.
+  * Nuestros contratos están verificados en los exploradores de blockchain, para que sepas que lo que ves es lo que obtienes. Consúltalos [aquí](/broken/pages/-MeTcIwNOfhTYrz1V3xJ).
+* Mejores prácticas de seguridad:
+  * Los chefs usan multisig para todos los contratos.
+  * El time-lock de nuestros contratos te da tranquilidad.
 
-## How can I stake CAKE?
+## ¿Cómo puedo hacer Staking de CAKE?
 
-You can stake your CAKE in PancakeSwap Syrup Pools. Visit the [Syrup Pools page](https://pancakeswap.finance/pools).
+Puedes hacer Staking de tu CAKE en los Syrup Pools de PancakeSwap. Visita la [página de Syrup Pools](https://pancakeswap.finance/pools).
 
-Read our [How to Stake in Syrup Pools guide](https://docs.pancakeswap.finance/products/syrup-pool/syrup-pool-guide) if you'd like a hand getting started with staking.
+Lee nuestra [guía de Cómo Hacer Staking en Syrup Pools](https://docs.pancakeswap.finance/products/syrup-pool/syrup-pool-guide) si necesitas ayuda para comenzar con el Staking.
 
-## What is the difference between staking and farming?
+## ¿Cuál es la diferencia entre Staking y farming?
 
-Staking in Syrup Pools and farming with Yield Farming are both ways to earn more CAKE by supporting PancakeSwap.
+El Staking en Syrup Pools y el farming con Yield Farming son dos formas de ganar más CAKE apoyando PancakeSwap.
 
-Staking only needs some CAKE to be added to a Syrup Pool to earn CAKE or other tokens.\
-[Learn more about Syrup Pool staking.](https://docs.pancakeswap.finance/products/syrup-pool)
+El Staking solo necesita agregar algo de CAKE a un Syrup Pool para ganar CAKE u otros tokens.\
+[Aprende más sobre el Staking en Syrup Pools.](https://docs.pancakeswap.finance/products/syrup-pool)
 
-Farming is more complicated and needs LP Tokens to earn CAKE.\
-[Learn more about Yield Farming.](https://docs.pancakeswap.finance/products/yield-farming)
+El Farming es más complejo y necesita LP Tokens para ganar CAKE.\
+[Aprende más sobre Yield Farming.](https://docs.pancakeswap.finance/products/yield-farming)
 
-## How do I farm?
+## ¿Cómo hago Farming?
 
-We have a [Yield Farming guide](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) if you're interested in learning how to farm.
+Tenemos una [guía de Yield Farming](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) si estás interesado/a en aprender cómo hacer farming.
 
-## Where can I view the PancakeSwap roadmap?
+## ¿Dónde puedo ver el roadmap de PancakeSwap?
 
-You can [view our to-do list here, but don't call it a roadmap](https://docs.pancakeswap.finance/roadmap).
+Puedes [ver nuestra lista de tareas pendientes aquí, pero no la llames roadmap](https://docs.pancakeswap.finance/roadmap).
 
-## How do I connect my wallet to BNB Smart Chain and PancakeSwap?
+## ¿Cómo conecto mi billetera a BNB Smart Chain y PancakeSwap?
 
-We have a [Connect Your Wallet to PancakeSwap guide](https://docs.pancakeswap.finance/get-started/connection-guide) covering this in detail.
+Tenemos una [guía para Conectar tu Billetera a PancakeSwap](https://docs.pancakeswap.finance/get-started/connection-guide) que cubre esto en detalle.
 
-## What's the best wallet for PancakeSwap?
+## ¿Cuál es la mejor billetera para PancakeSwap?
 
-It depends on your needs. We have an [in-depth guide to selecting and creating a wallet](https://docs.pancakeswap.finance/get-started/wallet-guide) that's right for you.
+Depende de tus necesidades. Tenemos una [guía detallada para seleccionar y crear una billetera](https://docs.pancakeswap.finance/get-started/wallet-guide) adecuada para ti.
 
-## Why is my transaction failing?
+## ¿Por qué falla mi transacción?
 
-You can check the status of a transaction on [https://bscscan.com/](https://bscscan.com).
+Puedes verificar el estado de una transacción en [https://bscscan.com/](https://bscscan.com).
 
-Our [Troubleshooting Errors guide](https://docs.pancakeswap.finance/help/troubleshooting) may have a solution for your problem if you're having issues.
+Nuestra [guía de Solución de Errores](https://docs.pancakeswap.finance/help/troubleshooting) puede tener una solución para tu problema si tienes inconvenientes.
 
-You can also see our [Fixing Stuck Pending Transactions guide](https://docs.pancakeswap.finance/help/unsticking-a-transaction-stuck-as-pending-with-metamask) if you have a stuck transaction.
+También puedes ver nuestra [guía para Desbloquear Transacciones Pendientes Atascadas](https://docs.pancakeswap.finance/help/unsticking-a-transaction-stuck-as-pending-with-metamask) si tienes una transacción atascada.
 
-## When will you open more pools?
+## ¿Cuándo abrirán más pools?
 
-New Pools are added to PancakeSwap frequently. There will always be an announcement before the launch of new pools.
+Se agregan nuevos Pools a PancakeSwap con frecuencia. Siempre habrá un anuncio antes del lanzamiento de nuevos pools.
 
-Join the [announcements Telegram group](https://t.me/PancakeSwapAnn) to learn about new Pools as early as possible.
+Únete al [grupo de anuncios de Telegram](https://t.me/PancakeSwapAnn) para enterarte de los nuevos Pools lo antes posible.
 
-## Did Farm APR calculation change?
+## ¿Cambió el cálculo del APR del Farm?
 
-Previously, rewards earned by LP Token-holders generated from trading fees were not included in Farm APR calculations. APR calculations now include these rewards, and better reflect the expected APR for Farm pairs.
+Anteriormente, las recompensas obtenidas por los titulares de LP Tokens generadas a partir de las comisiones de trading no se incluían en los cálculos del APR del Farm. Los cálculos del APR ahora incluyen estas recompensas y reflejan mejor el APR esperado para los pares de Farm.
 
-## How do I get airdrops?
+## ¿Cómo obtengo airdrops?
 
-Whenever there is an official airdrop on PancakeSwap it will be announced along with the requirements.
+Cuando haya un airdrop oficial en PancakeSwap, se anunciará junto con los requisitos.
 
-Please remember anyone can airdrop tokens to PancakeSwap users since every transaction is public on BscScan. Be sure to do your own research when it comes to non-official airdrops. To protect your funds, we recommend you don't use a smart contract you don't understand from a source you don't trust.
+Recuerda que cualquiera puede hacer airdrops de tokens a los usuarios de PancakeSwap ya que cada transacción es pública en BscScan. Asegúrate de hacer tu propia investigación cuando se trate de airdrops no oficiales. Para proteger tus fondos, recomendamos que no uses un contrato inteligente que no entiendes de una fuente en la que no confías.
 
-## How can I report a bug?
+## ¿Cómo puedo reportar un error?
 
-Learn about our [bug bounty and potential bounty payouts](https://docs.pancakeswap.finance/code/bug-bounty).
+Aprende sobre nuestro [programa de bug bounty y posibles pagos](https://docs.pancakeswap.finance/code/bug-bounty).
 
-## Where can I view smart contracts?
+## ¿Dónde puedo ver los contratos inteligentes?
 
-Learn how to find smart contracts on our [Finding Contracts page](https://docs.pancakeswap.finance/code/smart-contracts).
+Aprende cómo encontrar contratos inteligentes en nuestra [página de Encontrar Contratos](https://docs.pancakeswap.finance/code/smart-contracts).
 
-## Why does it say I have no BNB balance?
+## ¿Por qué dice que no tengo saldo de BNB?
 
-If you've already [transferred BNB into your BNB Smart Chain-enabled wallet](https://docs.pancakeswap.finance/get-started/bep20-guide) but still have this error, you're most likely not [connected to BNB Smart Chain](https://docs.pancakeswap.finance/get-started/connection-guide) within your wallet. Check your wallet's selected network and make sure you have BNB Smart Chain (BSC) selected.
+Si ya has [transferido BNB a tu billetera habilitada para BNB Smart Chain](https://docs.pancakeswap.finance/get-started/bep20-guide) pero aún tienes este error, es muy probable que no estés [conectado/a a BNB Smart Chain](https://docs.pancakeswap.finance/get-started/connection-guide) dentro de tu billetera. Verifica la red seleccionada de tu billetera y asegúrate de tener BNB Smart Chain (BSC) seleccionada.
 
-## How do I vote?
+## ¿Cómo voto?
 
-To learn more about voting, you can [read our section on Voting](https://docs.pancakeswap.finance/products/voting), including voting guides.
+Para aprender más sobre la Votación, puedes [leer nuestra sección sobre Votación](https://docs.pancakeswap.finance/products/voting), incluidas las guías de votación.
 
-## What is the max supply of CAKE?
+## ¿Cuál es el suministro máximo de CAKE?
 
-Yes, CAKE now has a hard cap of 400M as outlined in [our latest proposal](https://pancakeswap.finance/voting/proposal/0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5?id=0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5\&chain=bsc).
+Sí, CAKE ahora tiene un límite máximo de 400M como se describe en [nuestra última propuesta](https://pancakeswap.finance/voting/proposal/0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5?id=0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5\&chain=bsc).
 
-## What are the treasury funds used for?
+## ¿Para qué se utilizan los fondos del tesoro?
 
-The treasury funds are used to cover the expenses involved in running PancakeSwap. These expenses include salaries, audits, prizes, hosting, upkeep, bounties, etc.
+Los fondos del tesoro se utilizan para cubrir los gastos relacionados con la ejecución de PancakeSwap. Estos gastos incluyen salarios, auditorías, premios, alojamiento, mantenimiento, recompensas, etc.
 
-## Where can I check the Analytics?
+## ¿Dónde puedo verificar las analíticas?
 
-You can check the analytics of PancakeSwap by click on the "Analytics" tab on the top menu or by clicking the link below.
+Puedes verificar las analíticas de PancakeSwap haciendo clic en la pestaña "Analytics" en el menú superior o haciendo clic en el enlace a continuación.
 
 Analytics: [https://pancakeswap.info/](https://pancakeswap.info)
 
-## Is PancakeSwap protected from flashloan attacks?
+## ¿Está PancakeSwap protegido contra ataques de préstamos flash?
 
-PancakeSwap's vault has anti-flashloan protection. PancakeSwap’s CAKE token isn’t vulnerable to flash loan attacks. Unlike vulnerable tokens, CAKE token minting is predefined, and can’t be adjusted in a single transaction. Ownership cannot be transferred outside of MasterChef contract.
+El vault de PancakeSwap tiene protección anti-préstamos flash. El token CAKE de PancakeSwap no es vulnerable a ataques de préstamos flash. A diferencia de los tokens vulnerables, la acuñación del token CAKE está predefinida y no puede ajustarse en una sola transacción. La propiedad no puede transferirse fuera del contrato MasterChef.
 
-PancakeSwap’s other smart contracts, like IFO and AutoPool, are protected as well; they prevent other contracts from interacting with them, reducing the scope of vector attacks.
+Los otros contratos inteligentes de PancakeSwap, como IFO y AutoPool, también están protegidos; evitan que otros contratos interactúen con ellos, reduciendo el alcance de los ataques vectoriales.
 
-## Can I join the PancakeSwap team?
+## ¿Puedo unirme al equipo de PancakeSwap?
 
-Check the [Become a Chef](https://docs.pancakeswap.finance/hiring/become-a-chef) area for information on open positions we're looking to fill.
+Consulta el área [Conviértete en Chef](https://docs.pancakeswap.finance/hiring/become-a-chef) para obtener información sobre los puestos abiertos que buscamos cubrir.
 
-We advertise new positions we're looking to fill on our [official social media channels](https://docs.pancakeswap.finance/contact-us/telegram), so be sure to follow us to get the latest hiring information.
+Anunciamos los nuevos puestos que buscamos cubrir en nuestros [canales oficiales de redes sociales](https://docs.pancakeswap.finance/contact-us/telegram), así que asegúrate de seguirnos para obtener la información de contratación más reciente.
 
-## What is SYRUP?
+## ¿Qué es SYRUP?
 
-SYRUP was a part of the staking process earlier in PancakeSwap's life. SYRUP was discontinued when a security issue was discovered and is no longer a part of PancakeSwap.
+SYRUP era parte del proceso de Staking anteriormente en la vida de PancakeSwap. SYRUP fue descontinuado cuando se descubrió un problema de seguridad y ya no es parte de PancakeSwap.
 
-## I can't find an answer for my question. Where do I find an answer?
+## No puedo encontrar una respuesta a mi pregunta. ¿Dónde encuentro una respuesta?
 
-If you can't find what you're looking for in PancakeSwap's documentation, ask your question on [PancakeSwap's official social media platforms](https://docs.pancakeswap.finance/contact-us/telegram) and someone will do their best to help you out.
+Si no encuentras lo que buscas en la documentación de PancakeSwap, haz tu pregunta en las [plataformas oficiales de redes sociales de PancakeSwap](https://docs.pancakeswap.finance/contact-us/telegram) y alguien hará su mejor esfuerzo para ayudarte.

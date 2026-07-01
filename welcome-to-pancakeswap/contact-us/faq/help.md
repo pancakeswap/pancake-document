@@ -1,37 +1,37 @@
-# I need help
+# Necesito ayuda
 
 
 
-![](../../../.gitbook/assets/help-area-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/help-area-header.png)
 
-If you find yourself stuck, if something isn't working like it's meant to, or you're not sure if something has worked or not, this help section may be able to, well, help.
+Si te encuentras atascado/a, si algo no funciona como debería, o si no estás seguro/a de si algo ha funcionado o no, esta sección de ayuda puede ser capaz de, bueno, ayudarte.
 
-## Help sections
+## Secciones de ayuda
 
-We have broken the help topic down into sections to help you find what you're after. Below is an overview on what you'll find.
+Hemos dividido el tema de ayuda en secciones para ayudarte a encontrar lo que buscas. A continuación se presenta un resumen de lo que encontrarás.
 
-### Troubleshooting Errors
+### Solución de Errores
 
-The [Troubleshooting Errors page](https://docs.pancakeswap.finance/help/troubleshooting) has a collection of errors users may run into while using PancakeSwap. It shows the problem with both a solution to the problem, and a reason explaining why the problem happened.
+La [página de Solución de Errores](https://docs.pancakeswap.finance/help/troubleshooting) tiene una colección de errores con los que los usuarios pueden encontrarse mientras usan PancakeSwap. Muestra el problema junto con una solución al problema y una explicación del por qué ocurrió.
 
-### General FAQ
+### FAQ General
 
-The [General FAQ page](https://docs.pancakeswap.finance/help/faq) answers the common questions we get from PancakeSwap users. The answers to these questions give advice, an explanation, or a link to a useful resource.
+La [página de FAQ General](https://docs.pancakeswap.finance/help/faq) responde las preguntas comunes que recibimos de los usuarios de PancakeSwap. Las respuestas a estas preguntas dan consejos, una explicación o un enlace a un recurso útil.
 
-### Other Guides
+### Otras Guías
 
-There are also a number of guides in the help topic that will walk you through technical problems. We add guides when a problem that may be difficult to solve comes up often, so if you're having trouble be sure to check here for a guide to your problem.
+También hay una serie de guías en el tema de ayuda que te orientarán a través de problemas técnicos. Añadimos guías cuando un problema que puede ser difícil de resolver se repite con frecuencia, así que si tienes dificultades asegúrate de verificar aquí si hay una guía para tu problema.
 
-## Seeking support
+## Buscando soporte
 
-PancakeSwap doesn't have a dedicated support service. Instead, if you find yourself with a problem that has no answer here, you can ask for help on [PancakeSwap's Telegram channel](https://t.me/pancakeswap). For your safety, make sure you read the notice about scams if it's your first time on our Telegram.
+PancakeSwap no tiene un servicio de soporte dedicado. En cambio, si te encuentras con un problema que no tiene respuesta aquí, puedes pedir ayuda en el [canal de Telegram de PancakeSwap](https://t.me/pancakeswap). Para tu seguridad, asegúrate de leer el aviso sobre estafas si es tu primera vez en nuestro Telegram.
 
 
 
 {% hint style="warning" %}
-**Looking for v1 Exchange?**
+**¿Buscas el Exchange v1?**
 
 [https://v1exchange.pancakeswap.finance/#/swap](https://v1exchange.pancakeswap.finance/#/swap)
 
-⚠️ PancakeSwap V1 Exchange was deprecated on May 2021. Go to the [V2 Exchange](https://pancakeswap.finance/swap?chainId=56) instead for better prices on most pairs.
+⚠️ PancakeSwap V1 Exchange fue descontinuado en mayo de 2021. Ve al [Exchange V2](https://pancakeswap.finance/swap?chainId=56) en su lugar para obtener mejores precios en la mayoría de los pares.
 {% endhint %}

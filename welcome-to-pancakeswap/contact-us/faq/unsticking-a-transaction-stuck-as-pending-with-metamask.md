@@ -1,73 +1,73 @@
 ---
-description: How to "unstick" any pending transactions that are stuck in your MetaMask
+description: Cómo "desatascar" cualquier transacción pendiente que esté bloqueada en tu MetaMask
 ---
 
-# Fixing Stuck Pending Transactions on MetaMask
+# Cómo Desatascar Transacciones Pendientes en MetaMask
 
-![](../../../.gitbook/assets/how-to-fix-a-stuck-transaction-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-fix-a-stuck-transaction-header.png)
 
-If your transaction is stuck on pending in Metamask, and the “Cancel” button isn’t helping, you might need to use this method to clear your backlog.
+Si tu transacción está atascada como pendiente en Metamask y el botón "Cancelar" no está funcionando, es posible que necesites usar este método para limpiar tu cartera de transacciones.
 
-This method works by essentially overwriting the stuck transaction with another, higher-priority transaction.
+Este método funciona esencialmente sobreescribiendo la transacción atascada con otra de mayor prioridad.
 
-### **1. Enable Customized Transaction Nonce**
+### **1. Habilitar el Nonce de Transacción Personalizado**
 
-1\. Open your MetaMask plugin.
+1\. Abre tu complemento de MetaMask.
 
-![](../../../.gitbook/assets/1-1-MetaMask_plugin.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-1-MetaMask_plugin.png)
 
-2\. Click on the colorful circle icon on the top-right and click **Settings** from the dropdown menu.
+2\. Haz clic en el ícono de círculo colorido en la parte superior derecha y haz clic en **Configuración** en el menú desplegable.
 
-![](<../../../.gitbook/assets/1-2-MetaMask_settings (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-2-MetaMask_settings%20%281%29.png)
 
-3\. In the Settings menu, select **Advanced**.
+3\. En el menú Configuración, selecciona **Avanzado**.
 
-![](../../../.gitbook/assets/1-3-MetaMask_advanced.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-3-MetaMask_advanced.png)
 
-4\. Scroll down until you see **Advanced gas controls**. Toggle this to ON.
+4\. Desplázate hacia abajo hasta ver **Controles de gas avanzados**. Cambia esto a ACTIVADO.
 
-![](../../../.gitbook/assets/1-4-MetaMask_gas_control_on.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-4-MetaMask_gas_control_on.png)
 
-5\. Still in Advanced settings, keep scrolling until you see **Customize transaction nonce**. Toggle this to ON.
+5\. Aún en la configuración Avanzada, sigue desplazándote hasta ver **Personalizar nonce de transacción**. Cambia esto a ACTIVADO.
 
-![](../../../.gitbook/assets/1-4-MetaMask_gas_control_on.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-4-MetaMask_gas_control_on.png)
 
-### **2. Find Your Stuck Transaction**
+### **2. Encontrar tu Transacción Atascada**
 
-We’re now going to find the transaction that’s stuck, and make a note of the “nonce”. That’s a kind of identifier, which we’ll re-use later.
+Ahora vamos a encontrar la transacción que está atascada y a tomar nota del "nonce". Eso es una especie de identificador, que reutilizaremos más tarde.
 
 ![](https://lh4.googleusercontent.com/xKBEnt5a62c5Wzg_MCLIbVUWuL4fws1ohBAX9LAkGS71vslHk7QuMF24jAfkAdmsLunPVfT9c3FxCmGar5z7jNZnd4WMgzQsoxxbYw1Lp59Az5kG72COn0JblFXktHbmgMnF1LeY)
 
-6\. Go back to the top page of MetaMask. In the “Assets” tab, find the token type of your stuck transaction (in this case, CAKE).
+6\. Vuelve a la página principal de MetaMask. En la pestaña "Assets", encuentra el tipo de token de tu transacción atascada (en este caso, CAKE).
 
 ![](https://lh5.googleusercontent.com/9qVjhK1kEKDL8l4TTdOFo4o547PDIIeQpCCY18gPyaUFJrpFbyYhMfBQ1CRzjjrllgrcqVbwkhxKCZBNlIad8J1yCpMVhsBKjIAcwfsQHQb7jnl2RD2ufQU-zNEn2Hn2g4LGvYDU)
 
-6\. In the token’s menu, find your **Pending** transaction in the Queue area. Click on your transaction for more details.
+6\. En el menú del token, encuentra tu transacción **Pendiente** en el área de Cola. Haz clic en tu transacción para obtener más detalles.
 
 ![](https://lh4.googleusercontent.com/HMd5iKjIvm-f7Xi7xtecTsq56x1i15GjUkwCm5Z_83xMfOXDd2jabcCDyUwELf51IHseEeCk2WnvWfHwTSUlFnLAJrmjkkOfm_fA5fimgdABnYfdjmBxxst8TOaUJUhc2iO_CN-k)
 
-7\. Look for the **Nonce** entry, and take note of this number.
+7\. Busca la entrada **Nonce** y toma nota de este número.
 
-### **3. Overwrite the Stuck Transaction**
+### **3. Sobreescribir la Transacción Atascada**
 
-Now we’re going to make a new transaction to replace the stuck one. We’ll customize the Nonce number, so that it’s the same as the one that you just wrote down.
+Ahora vamos a crear una nueva transacción para reemplazar la atascada. Personalizaremos el número de Nonce, para que sea el mismo que anotaste.
 
-![](<../../../.gitbook/assets/image (176).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28176%29.png)
 
-8\. Create a new transaction to replace your stuck transaction. This time around, increase the **Transaction Fee**. Here we’ve increased it from 9 to 20. This will make it more likely for your transaction to be added to a block.
+8\. Crea una nueva transacción para reemplazar tu transacción atascada. Esta vez, aumenta la **Tarifa de Transacción**. Aquí la hemos aumentado de 9 a 20. Esto hará que sea más probable que tu transacción sea añadida a un bloque.
 
-![](<../../../.gitbook/assets/image (34).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2834%29.png)
 
-9\. On the confirmation page, make sure your Gas Price is now at your new, higher amount.
+9\. En la página de confirmación, asegúrate de que tu Precio del Gas ahora esté en tu nueva cantidad más alta.
 
-10\. Find the **CUSTOM NONCE** entry and change the nonce to the number you wrote down in step 7. Now click Confirm.
+10\. Encuentra la entrada **NONCE PERSONALIZADO** y cambia el nonce al número que anotaste en el paso 7. Ahora haz clic en Confirmar.
 
 ![](https://lh6.googleusercontent.com/PYhYm2ro0SVzerBo5qguFIPOYl0DjLSfl0JT8UdfN3T4i-0hjBq-CQvr-UA0bSyG-ZndrWmLGptfZUcnGBlvUk118GGZn7ciDNaC4hmfovH9v_M5XMIYmkAmB-Fr-6TTpYnnDX1p)
 
-11\. Your new transaction should now be accepted into a block. To check, open MetaMask and click the **Activity** tab.
+11\. Tu nueva transacción debería ahora ser aceptada en un bloque. Para verificarlo, abre MetaMask y haz clic en la pestaña **Actividad**.
 
 ![](https://lh6.googleusercontent.com/Iw3e0YP4ORhPgw8-MNxvzlDlfgG5nD226P4ixiziPC_9j3_LfU3o1-_LA2yDmegbRw5x9Sgk3RACFJJkyJDrFJA1j2J93H21uGhhWabkdDQUHsU_oVdkZVQTTWaQPzXHAWClpsb4)
 
-12\. Your completed transaction should show at the top of your Activity list. If it still says “Pending” in orange you’ll need to wait a little longer, or try the process again with an even higher transaction fee (gas price).
+12\. Tu transacción completada debería aparecer en la parte superior de tu lista de Actividad. Si aún dice "Pendiente" en naranja, necesitarás esperar un poco más o intentar el proceso nuevamente con una tarifa de transacción (precio del gas) aún más alta.
 
-Since no wallet can create two transactions of the same nonce, if the replacement transaction you make is successful, your stuck transaction will be canceled.<br>
+Dado que ninguna billetera puede crear dos transacciones con el mismo nonce, si la transacción de reemplazo que realizas tiene éxito, tu transacción atascada será cancelada.<br>

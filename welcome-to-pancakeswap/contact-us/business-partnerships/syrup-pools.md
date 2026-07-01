@@ -1,25 +1,25 @@
 # 🥞 Syrup Pools
 
-For more information about our token distribution programs (“[Syrup Pools](https://pancakeswap.finance/pools)”), please view this PDF:
+Para obtener más información sobre nuestros programas de distribución de tokens ("[Syrup Pools](https://pancakeswap.finance/pools)"), consulta este PDF:
 
 {% file src="../../../.gitbook/assets/PancakeSwap Syrup Pool One-Pager.pdf" %}
 
-#### Example of a Syrup Pool process
+#### Ejemplo de un proceso de Syrup Pool
 
-1. Initial Outreach
-   * **Apply via our form** [**here**](https://docs.google.com/forms/d/e/1FAIpQLSf1kMALRQPRp7toeLLHB4opo3TU8K1NPYwaKMy8zGF6RoOgFA/viewform) **- (Average time to fill up form: ≤8 minutes)**
-2. Due Diligence
-   * Using the information in the form, we would clarify some points
-   * The team passes due diligence – congrats!
-3. Marketing Preparation
-   * We ask for some design assets, some project info, and create a lovely banner (PEAQ example below)
-4. Launch
-   * We launch the Syrup Pool, and you welcome thousands of new users to your project :)
-   * We will also publish some socials on our [Twitter](https://x.com/PancakeSwap/status/1945140616293167184) and [Telegram](https://t.me/PancakeSwapAnn/6392)
-5. Post-Launch
-   * We will continue to stay in touch, and work together whenever possible
+1. Contacto Inicial
+   * **Postúlate a través de nuestro formulario** [**aquí**](https://docs.google.com/forms/d/e/1FAIpQLSf1kMALRQPRp7toeLLHB4opo3TU8K1NPYwaKMy8zGF6RoOgFA/viewform) **- (Tiempo promedio para completar el formulario: ≤8 minutos)**
+2. Diligencia Debida
+   * Usando la información del formulario, aclararemos algunos puntos
+   * El equipo pasa la diligencia debida, ¡felicidades!
+3. Preparación de Marketing
+   * Pedimos algunos activos de diseño, información del proyecto y creamos un bonito banner (ejemplo de PEAQ a continuación)
+4. Lanzamiento
+   * Lanzamos el Syrup Pool, y le das la bienvenida a miles de nuevos usuarios a tu proyecto :)
+   * También publicaremos algunas publicaciones sociales en nuestro [Twitter](https://x.com/PancakeSwap/status/1945140616293167184) y [Telegram](https://t.me/PancakeSwapAnn/6392)
+5. Post-Lanzamiento
+   * Continuaremos manteniéndonos en contacto y trabajando juntos cuando sea posible
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (417).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28417%29.png" alt=""><figcaption></figcaption></figure></div>
 
 
 

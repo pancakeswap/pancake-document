@@ -1,25 +1,25 @@
-# 📈 Analytics (Info Page)
+# 📈 Analytics (Página de Información)
 
-## Info Page&#x20;
+## Página de Información&#x20;
 
-View PancakeSwap's native analytics site here: [https://pancakeswap.finance/info](https://pancakeswap.finance/info)
+Consulta el sitio de analytics nativo de PancakeSwap aquí: [https://pancakeswap.finance/info](https://pancakeswap.finance/info)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-All core metrics data are sourced from the PCS internal Indexer, which, in turn, gathers data from events triggered when the contract is called.&#x20;
+Todos los datos de métricas principales provienen del Indexer interno de PCS, que a su vez recopila datos de los eventos activados cuando se llama al contrato.&#x20;
 
-For the date dimension in the PancakeSwap's internal indexer, we use international standard time (UTC) for daily statistics. Therefore, when the horizontal axis on the Dashboard displays a date, it represents the date in international standard time (UTC).<br>
+Para la dimensión de fecha en el indexer interno de PancakeSwap, utilizamos el tiempo estándar internacional (UTC) para las estadísticas diarias. Por lo tanto, cuando el eje horizontal en el Panel de Control muestra una fecha, representa la fecha en tiempo estándar internacional (UTC).<br>
 
-## Core Metrics
+## Métricas Principales
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXemXpjzW0IqGPjz6IISjhcIXzWWeeFyxXU7XLRumCxM6WQsr4IKMP_mwDhiMDGY9EUDtKZAKoeYsbYUXwRc2C2KBvoSRo_-tlxq09zOJ1ajIq00cXM6z_7-2RNv3rVWj_kBmLiY4Q?key=G7-HCtdmBA4wyp9ESrWifFqi" alt=""><figcaption></figcaption></figure>
 
-**Volume (Trading Volume):** We monitor the daily data for each trading pair and the daily trading data for each token. The daily trading volume is determined by multiplying the trading volume of each token for the day by its price.
+**Volumen (Volumen de Trading):** Monitorizamos los datos diarios de cada par de trading y los datos diarios de trading de cada token. El volumen de trading diario se determina multiplicando el volumen de trading de cada token del día por su precio.
 
-**Total Value Locked:** Get all pools from internal Indexer and read the reserve\_usd or total\_value\_locked\_usd from each pool.&#x20;
+**Total Value Locked:** Obtiene todos los pools del Indexer interno y lee el reserve\_usd o total\_value\_locked\_usd de cada pool.&#x20;
 
-**Price:** In the PCS Internal Indexer, we utilize several base pools to calculate USD-related prices. The primary pool is the stablecoin trading pool, where we use the trading pool with the highest volume as the base pool and calculate the USD price of the stablecoin based on the trading volume weight. Additionally, the trading pool of the base token to the chain's stablecoin is also considered a base pool to provide the USD price.
+**Precio:** En el Indexer Interno de PCS, utilizamos varios pools base para calcular los precios relacionados con USD. El pool primario es el pool de trading de stablecoin, donde utilizamos el pool de trading con mayor volumen como pool base y calculamos el precio en USD de la stablecoin basándose en la ponderación del volumen de trading. Además, el pool de trading del token base a la stablecoin de la cadena también se considera un pool base para proporcionar el precio en USD.
 
-_Tokens that are not whitelisted or not paired with whitelisted tokens are excluded from these calculations._
+_Los tokens que no están en la lista blanca o que no están emparejados con tokens de la lista blanca están excluidos de estos cálculos._
 
 <br>
