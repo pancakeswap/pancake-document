@@ -1,44 +1,44 @@
-# Perpetuals V2 Glossary
+# Glosario de Perpetuos V2
 
-**Here you will find defined all the terms inherent in futures trading**
+**Aquí encontrarás definidos todos los términos inherentes al trading de futuros**
 
-### **Perpetual Trading**
+### **Trading Perpetuo**
 
-&#x20;Perpetuals, perpetual swaps, or perps are a special type of futures contract without an expiration date.
+&#x20;Los perpetuos, swaps perpetuos o perps son un tipo especial de contrato de futuros sin fecha de vencimiento.
 
-### **Leverage**
+### **Apalancamiento**
 
-Leverage is a trading mechanism. Traders can use it to increase their exposure to the market by allowing them to pay less than the full amount of the investment. In simple words, you borrow money to leverage your investment.
+El apalancamiento es un mecanismo de trading. Los traders pueden usarlo para aumentar su exposición al mercado al permitirles pagar menos que el importe total de la inversión. En palabras simples, pides dinero prestado para apalancar tu inversión.
 
-### Orders
+### Órdenes
 
-**Long:** Open a Long order. In this order, you purchase an asset and wait to sell when the price increases. "Buy" and "long" are used interchangeably.
+**Long:** Abre una orden Long. En esta orden, compras un activo y esperas a vender cuando el precio suba. "Comprar" y "long" se usan indistintamente.
 
-**Short:** Open a Short order. In this order, you borrow an asset, sell it, and hope to repurchase it when the price drops. "Sell" and "short" are used interchangeably.
+**Short:** Abre una orden Short. En esta orden, pides prestado un activo, lo vendes y esperas comprarlo de vuelta cuando el precio baje. "Vender" y "short" se usan indistintamente.
 
-**Limit Order:** A limit order is buying or selling at a specific price or better. Limit orders are not guaranteed to execute.
+**Orden Límite:** Una orden límite es comprar o vender a un precio específico o mejor. Las órdenes límite no están garantizadas de ejecutarse.
 
-**Market Order:** A market order is an order to buy or sell at the best available current price.
+**Orden de Mercado:** Una orden de mercado es una orden de compra o venta al mejor precio disponible actual.
 
-#### Position Management
+#### Gestión de Posiciones
 
-Users can check the details of their opened positions, such as the opening price, by clicking on "Position" located at the bottom of the trading page. They can view details such as opening price, number of positions, latest price and forced liquidation price.
+Los usuarios pueden verificar los detalles de sus posiciones abiertas, como el precio de apertura, haciendo clic en "Posición" ubicado en la parte inferior de la página de trading. Pueden ver detalles como el precio de apertura, número de posiciones, precio más reciente y precio de liquidación forzada.
 
-<figure><img src="../../../.gitbook/assets/Perp5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp5.png" alt=""><figcaption></figcaption></figure>
 
-**Position mode**
+**Modo de posición**
 
-PancakeSwap will use an isolated leverage mode for each v2 trading pair. Pairs operate independently:&#x20;
+PancakeSwap utilizará un modo de apalancamiento aislado para cada par de trading v2. Los pares operan de forma independiente:&#x20;
 
-* Each trading pair is an isolated position, Users can open multiple isolated positions
-* Every position (trading pair) runs independently. If users need to top up their margin, they will need to do so manually even if they have available assets in other separate positions (ApolloX will support auto top-up in the future)
-* Every isolated trading position will have its own risk rate and liquidation price and will be settled individually.
-* Liquidation risk is isolated for each trading pair. If a position is liquidated, it does not affect other positions.
+* Cada par de trading es una posición aislada, los usuarios pueden abrir múltiples posiciones aisladas
+* Cada posición (par de trading) opera de forma independiente. Si los usuarios necesitan aumentar su margen, deberán hacerlo manualmente incluso si tienen activos disponibles en otras posiciones separadas (ApolloX admitirá el aumento automático en el futuro)
+* Cada posición de trading aislada tendrá su propia tasa de riesgo y precio de liquidación y se liquidará individualmente.
+* El riesgo de liquidación está aislado para cada par de trading. Si una posición es liquidada, no afecta a otras posiciones.
 
-**Closing a position**
+**Cierre de una posición**
 
-Users can close their positions by clicking on "Close Position".
+Los usuarios pueden cerrar sus posiciones haciendo clic en "Cerrar Posición".
 
-#### Fees and Slippage
+#### Comisiones y Deslizamiento
 
-Please visit the [Aster's page](https://docs.asterdex.com/product/asterex-simple/fees-and-slippage) for more information on Fees.
+Visita la [página de Aster](https://docs.asterdex.com/product/asterex-simple/fees-and-slippage) para más información sobre Comisiones.

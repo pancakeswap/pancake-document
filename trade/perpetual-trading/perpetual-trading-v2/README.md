@@ -1,29 +1,29 @@
 ---
-description: What's new in V2?
+description: ¿Qué hay de nuevo en V2?
 ---
 
-# Perpetual Trading V2
+# Trading Perpetuo V2
 
-In Pancakeswap Perpetuals V2, we've streamlined our interface by **removing the order book and market depth displays**. Instead, our partners Aster have introduced the ALP pool, which now provides liquidity for all trading pairs, maximizing your capital usage. The ALP pool will actively participate in the market-making process for our V2 perpetual contracts. Please [visit this page](https://docs.asterdex.com/product/asterex-simple/price-oracles) to read more on the V2 low latency oracle model.
+En los Perpetuos V2 de PancakeSwap, hemos simplificado nuestra interfaz **eliminando el libro de órdenes y las visualizaciones de profundidad de mercado**. En cambio, nuestros socios de Aster han introducido el pool ALP, que ahora proporciona liquidez para todos los pares de trading, maximizando el uso de tu capital. El pool ALP participará activamente en el proceso de creación de mercado para nuestros contratos perpetuos V2. Por favor, [visita esta página](https://docs.asterdex.com/product/asterex-simple/price-oracles) para leer más sobre el modelo de oráculo de baja latencia V2.
 
-The new mechanism will bring added benefits to Pancakeswap Perpetual Users:
+El nuevo mecanismo traerá beneficios adicionales a los usuarios de Perpetuos de PancakeSwap:
 
-#### Enhanced Security
+#### Mayor Seguridad
 
-By tapping into Pyth, Binance Oracle and Chainlink price feeds, we dodge any unexpected price behaviours due to manipulation or scarce liquidity from either Oracle source. This savvy move keeps those surprise liquidations at bay.
+Al aprovechar los feeds de precios de Pyth, Binance Oracle y Chainlink, evitamos comportamientos inesperados de precios debido a manipulación o escasa liquidez de cualquiera de las fuentes Oracle. Este inteligente movimiento mantiene alejadas las liquidaciones sorpresa.
 
-#### Self-Custody Freedom
+#### Libertad de Autocustodia
 
-No more tedious deposits and withdrawals to trade with Pancakeswap Perpertuals V2. Users will trade fully on-chain, and no deposit and withdrawal requirements exist. Users can be assured that no protocol can manage, increase or reduce trading positions outside of a liquidation event.
+No más depósitos y retiros tediosos para operar con los Perpetuos V2 de PancakeSwap. Los usuarios operarán completamente en cadena, y no existen requisitos de depósito y retiro. Los usuarios pueden tener la seguridad de que ningún protocolo puede gestionar, aumentar o reducir posiciones de trading fuera de un evento de liquidación.
 
-#### Higher Liquidity
+#### Mayor Liquidez
 
-Trading pairs on the platform share liquidity via the ALP pool. Hence, adding liquidity for each newly listed trading pair is not required separately. Capital efficiency is maximized and users can open bigger position sizes.
+Los pares de trading en la plataforma comparten liquidez a través del pool ALP. Por lo tanto, no es necesario añadir liquidez por separado para cada nuevo par de trading listado. La eficiencia del capital se maximiza y los usuarios pueden abrir posiciones de mayor tamaño.
 
-#### More Pairs
+#### Más Pares
 
-With Perpetuals V2 consolidating liquidity for all trading pairs into one pool, users can expect more trading pairs from potentially different asset classes moving forward. At launch, V2 will support BTCUSD, ETHUSD and BNBUSD pairs for cryptocurrencies and Forex pairs EURUSD and GBPUSD. More pairs will be rollout in the coming months.
+Con los Perpetuos V2 consolidando la liquidez de todos los pares de trading en un único pool, los usuarios pueden esperar más pares de trading de potencialmente diferentes clases de activos en el futuro. En el lanzamiento, V2 admitirá los pares BTCUSD, ETHUSD y BNBUSD para criptomonedas y los pares de Forex EURUSD y GBPUSD. Se lanzarán más pares en los próximos meses.
 
 {% hint style="success" %}
-**PancakeSwap Perpetuals V2 is now available on BNB Chain, Arbitrum, opBNB and Base.**
+**PancakeSwap Perpetuals V2 ahora está disponible en BNB Chain, Arbitrum, opBNB y Base.**
 {% endhint %}

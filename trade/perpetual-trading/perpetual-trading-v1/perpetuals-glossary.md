@@ -1,86 +1,85 @@
-# Perpetuals V1 Glossary
+# Glosario de Perpetuos V1
 
-**Here you will find defined all the terms inherent in futures trading**
+**Aquí encontrarás definidos todos los términos inherentes al trading de futuros**
 
-### **Perpetual Trading**
+### **Trading Perpetuo**
 
-&#x20;Perpetuals, perpetual swaps, or perps are a special type of futures contract without an expiration date.
+&#x20;Los perpetuos, swaps perpetuos o perps son un tipo especial de contrato de futuros sin fecha de vencimiento.
 
 
 
-### **Leverage**
+### **Apalancamiento**
 
-Leverage is a trading mechanism. Traders can use it to increase their exposure to the market by allowing them to pay less than the full amount of the investment. In simple words, you borrow money to leverage your investment.
+El apalancamiento es un mecanismo de trading. Los traders pueden usarlo para aumentar su exposición al mercado al permitirles pagar menos que el importe total de la inversión. En palabras simples, pides dinero prestado para apalancar tu inversión.
 
-![](https://lh5.googleusercontent.com/S4CpgIaapprJpet3GI9UvkGA2Vncl6ywSA8848SLOG5M73v2ILcSunlPMOxpWg9UJmKui4Vb6BDQcUugWP1aYMAVl9_QPioIxT9sFRuY-EEtuSXgCn_D8Muwqh60PFr3EcEu3kkH)
+![](https://lh5.googleusercontent.com/S4CpgIaapprJpet3GI9UvkGA2Vncl6ywSA8848SLOG5M73v2ILcSunlPMOxpWg9UJmKui4Vb6BDQcUugWP1aYMAVl9_QPioIxT9sFRuY-EEtuSXgCx0eFDX3CvN4Q1OomBqQ4oNpQ)
 
-### **Margin**
+### **Margen**
 
-is the guarantee you put for your leveraged positions. It has two Modes to use it:
+Es la garantía que depositas para tus posiciones apalancadas. Tiene dos Modos de uso:
 
-* Cross Margin Mode: All cross positions under the same margin asset share the same asset cross margin balance. In the event of liquidation, your assets full margin balance along with any remaining open positions under the asset may be forfeited.
-* Isolated Margin Mode: Manage your risk on individual positions by restricting the amount of margin allocated to each. If the margin ratio of a position reached 100%, the position will be liquidated. Margin can be added or removed to positions using this mode.
+* Modo de Margen Cruzado: Todas las posiciones cruzadas bajo el mismo activo de margen comparten el mismo saldo de margen cruzado del activo. En caso de liquidación, el saldo de margen completo de tus activos junto con cualquier posición abierta restante bajo el activo puede perderse.
+* Modo de Margen Aislado: Gestiona tu riesgo en posiciones individuales restringiendo el importe de margen asignado a cada una. Si el ratio de margen de una posición alcanza el 100%, la posición será liquidada. El margen puede añadirse o retirarse de posiciones usando este modo.
 
 ![](https://lh3.googleusercontent.com/zVEa2C_uhxdfB83PnT0jPQ3lbs5hJ8IY4cOe5KgxOiypTxV0CC1mXHouC9EhR2ukRmnMIXzk71JkEwPLmXAeK0RuP0xDsqX7c6P-X-7bPdqN3Xrfzxhub2wV55_ZKRNTy8WoCpUs)
 
-**Margin Ratio**: Margin Ratio = Maintenance Margin / Margin Balance. Your positions will be liquidated once Margin Ratio reaches 100%.
+**Ratio de Margen**: Ratio de Margen = Margen de Mantenimiento / Saldo de Margen. Tus posiciones serán liquidadas cuando el Ratio de Margen alcance el 100%.
 
-**Maintenance Ratio**: The minimum amount of margin balance required to keep your open positions.
+**Ratio de Mantenimiento**: El importe mínimo de saldo de margen requerido para mantener tus posiciones abiertas.
 
-**Margin Balance** = Wallet Balance + Unrealized PNL. Your positions will be liquidated once Margin Balance <= Maintenance Margin.
+**Saldo de Margen** = Saldo de Billetera + PNL No Realizado. Tus posiciones serán liquidadas cuando el Saldo de Margen <= Margen de Mantenimiento.
 
-![](https://lh6.googleusercontent.com/BGaNOmsOkew_Cf9f6zcP2bW4Die0-uZnoui7QVYY24oDFtQkgIB5Vq1dLo7XgkA3LKyisoK-5Cs0uSN7fl19aa9nvDDAzWCVdgnJ3xNGHkDchaJMQf1G0gvXmDDvR2DvAih1D7tS)
+![](https://lh6.googleusercontent.com/BGaNOmsOkew_Cf9f6zcP2bW4Die0-uZnoui7QVYY24oDFtQkgIB5Vq1dLo7XbpdKo-_3KzjAl3f8VSGyoLrtudoUqBr)
 
-### Assets:
+### Activos:
 
-**Deposit**: Deposit your funds into your futures account
+**Depósito**: Deposita tus fondos en tu cuenta de futuros
 
-**Withdraw**: Withdraw your funds from your futures account to your wallet
+**Retiro**: Retira tus fondos de tu cuenta de futuros a tu billetera
 
-**Balance**: Wallet Balance = Total Net Transfer + Total Realized Profit + Total Net Funding Fee - Total Commission.
+**Saldo**: Saldo de Billetera = Total de Transferencias Netas + Total de Ganancias Realizadas + Total de Comisiones de Financiamiento Netas - Total de Comisiones.
 
-**Unrealized PNL**: Unrealized profit and loss on this position calculated based on Mark Price, and return on equity percentage.
+**PNL No Realizado**: Ganancia y pérdida no realizadas en esta posición calculadas basándose en el Precio de Marca, y porcentaje de retorno sobre el capital.
 
-**Modes:**&#x20;
+**Modos:**&#x20;
 
-* Single Asset Mode: Supports USDⓈ-M Futures trading by only using the single margin asset of the symbol. PNL of the same margin asset positions can be offset. Supports Cross Margin Mode and Isolated Margin Mode.
-* Multi-Assets Mode: USDⓈ-M Futures trading across multiple margin assets. PNL can be offset among the different margin asset positions. Only supports Cross Margin Mode.
+* Modo de Activo Único: Admite el trading de Futuros USDⓈ-M usando solo el activo de margen único del símbolo. El PNL de las posiciones del mismo activo de margen puede compensarse. Admite el Modo de Margen Cruzado y el Modo de Margen Aislado.
+* Modo Multi-Activos: Trading de Futuros USDⓈ-M en múltiples activos de margen. El PNL puede compensarse entre las diferentes posiciones de activos de margen. Solo admite el Modo de Margen Cruzado.
 
 {% hint style="info" %}
-Note: If there are open positions or open orders in USDⓈ-M Futures, Multi-Assets Mode cannot be activated. Multi-Assets Mode only applies to USDⓈ-M Futures. Before activating Multi-Assets Mode, please read the guide in detail to better manage USDⓈ-M Futures account risk accordingly when using Multi-Assets Mode.<br>
+Nota: Si hay posiciones abiertas u órdenes abiertas en Futuros USDⓈ-M, el Modo Multi-Activos no puede activarse. El Modo Multi-Activos solo aplica a los Futuros USDⓈ-M. Antes de activar el Modo Multi-Activos, lee la guía en detalle para gestionar mejor el riesgo de la cuenta de Futuros USDⓈ-M al usar el Modo Multi-Activos.<br>
 {% endhint %}
 
-![](https://lh3.googleusercontent.com/iupB9UR3QMDCEO5RwjfMpqKZaQtoT53G0Sa_cYH9Neui8ttgqeFybtqOSIncZD74-4p3O-sQd6Lis2QKxGBsdgDmgutRaTUw1qKpjT-UXbpdKo-_3KzjAl3f8VSGyoLrtudoUqBr)
+![](https://lh3.googleusercontent.com/iupB9UR3QMDCEO5RwjfMpq1OD6Cg6Lis2QKxGBsdgDmgutRaTUw1qKpjT-UXbpdKo-_3KzjAl3f8VSGyoLrtudoUqBr)
 
-### Orders
+### Órdenes
 
-**Buy/Long:** Open a Long order. In this order you purchase an asset and wait to sell when the price goes up. "Buy" and "long" are used interchangeably.
+**Compra/Long:** Abre una orden Long. En esta orden compras un activo y esperas a vender cuando el precio suba. "Comprar" y "long" se usan indistintamente.
 
-**Sell/Short:** Open a Short order. In this order, you borrow an asset, sell it, and hope to buy it back when the price goes down. "Sell" and "short" are used interchangeably.
+**Venta/Short:** Abre una orden Short. En esta orden pides prestado un activo, lo vendes y esperas comprarlo de vuelta cuando el precio baje. "Vender" y "short" se usan indistintamente.
 
-**Limit Order:** A limit order is an order to buy or sell at a specific price or better. Limit orders are not guaranteed to execute.
+**Orden Límite:** Una orden límite es una orden de compra o venta a un precio específico o mejor. Las órdenes límite no están garantizadas de ejecutarse.
 
-**Market Order:** A market order is an order to buy or sell at the best available current price. It is executed against the limit orders that were previously placed on the order book. When placing a market order, you will pay fees as a market taker.
+**Orden de Mercado:** Una orden de mercado es una orden de compra o venta al mejor precio disponible actual. Se ejecuta contra las órdenes límite que se colocaron previamente en el libro de órdenes. Al colocar una orden de mercado, pagarás comisiones como tomador de mercado.
 
-**Stop Limit Order:** The easiest way to understand a stop-limit order is to break it down into stop price, and limit price. The stop price is simply the price that triggers the limit order, and the limit price is the price of the limit order that is triggered. This means that once your stop price has been reached, your limit order will be immediately placed on the order book.
+**Orden Stop Límite:** La forma más sencilla de entender una orden stop límite es desglosarla en precio stop y precio límite. El precio stop es simplemente el precio que activa la orden límite, y el precio límite es el precio de la orden límite que se activa. Esto significa que una vez que se alcanza tu precio stop, tu orden límite se coloca inmediatamente en el libro de órdenes.
 
-**Stop Market Order:** Similar to a stop-limit order, a stop market order uses a stop price as a trigger. However, when the stop price is reached, it triggers a market order instead.
+**Orden Stop de Mercado:** Similar a una orden stop límite, una orden stop de mercado usa un precio stop como disparador. Sin embargo, cuando se alcanza el precio stop, activa una orden de mercado en su lugar.
 
-**Trailing Stop:** A trailing stop is an order type designed to lock in profits or limit losses as a trade moves favorably. Trailing stops only move if the price moves favorably. Once it moves to lock in a profit or reduce a loss, it does not move back in the other direction.
+**Stop Móvil:** Un stop móvil es un tipo de orden diseñado para asegurar ganancias o limitar pérdidas a medida que una operación se mueve favorablemente. Los stops móviles solo se mueven si el precio se mueve favorablemente. Una vez que se mueve para asegurar una ganancia o reducir una pérdida, no retrocede en la otra dirección.
 
-**Post Only:** Post-only Mode means that Traders can only place an Order if it would be posted to the Order Book as a Maker Order. An Order which would be posted as a Taker Order will be rejected. No Market Orders may be placed and no Orders will be filled. Resting orders may be canceled in post-only mode.
+**Solo Post:** El Modo Solo Post significa que los Traders solo pueden colocar una Orden si se publicará en el Libro de Órdenes como una Orden de Creador de Mercado. Una Orden que se publicaría como Orden de Tomador será rechazada. No se pueden colocar Órdenes de Mercado y no se completará ninguna Orden. Las órdenes en reposo pueden cancelarse en el modo solo post.
 
 ![](https://lh6.googleusercontent.com/uV8UuuqGxCwGmu9jxuL2Gf_Nt8QwkYoYCfJinEfINffyr6QjV03tZVXA46GnIxY-XKSxcrAPtrtD8JZYBHSc4ILmLd8Rm6LqHmVdSAgMK8m-4WOdt3FsnPO2MD32EG9j3ym_aSz_)
 
-**Reduce Only:** Reduce-Only order will only reduce your position, not increase it.
+**Solo Reducir:** Una orden Solo Reducir solo reducirá tu posición, no la aumentará.
 
 ![](https://lh3.googleusercontent.com/HlbLU90VSn76W1xHVgSBoke83uQpAPFzl2JBME_Dn2mElSDAYSbA51GRx2cOaAqxBe6wH02MbJxmwjrLuLoSx7Ei4AwzrnmqFjy4VEG5aUrYas7oFKVQ0CGNuiIAXjD1CdPaQurO)
 
-**TIF instructions** allow you to specify the amount of time that your orders will remain active before they are executed or expired. You can select one of these options for TIF instructions:
+Las **instrucciones TIF** te permiten especificar el tiempo que tus órdenes permanecerán activas antes de ser ejecutadas o vencer. Puedes seleccionar una de estas opciones para las instrucciones TIF:
 
 ![](https://lh6.googleusercontent.com/-QaqTJU0jCsjznhULix7i2ThVM7_u7IP5a0i42TYhImt8xPLODjYCjLL5JNbRXrIDsgJRxIIGoYD8Tlq5gSdCjkAyMDat53r5WNTepB93_7bq7gDmyg1-jyblSQ8eANv_fH9bvJ-)
 
-* **GTC** (Good Till Cancel): The order will remain active until it is either filled or canceled.&#x20;
-* **IOC** (Immediate Or Cancel): The order will execute immediately (either fully or partially). If it is only partially executed, the unfilled portion of the order will be canceled.&#x20;
-* **FOK** (Fill Or Kill): The order must be fully filled immediately. If not, it won’t be executed at all.
-
+* **GTC** (Válida Hasta Cancelar): La orden permanecerá activa hasta que se complete o se cancele.&#x20;
+* **IOC** (Inmediata O Cancelar): La orden se ejecutará inmediatamente (total o parcialmente). Si solo se ejecuta parcialmente, la parte no completada de la orden será cancelada.&#x20;
+* **FOK** (Completar O Cancelar): La orden debe completarse totalmente de inmediato. Si no, no se ejecutará en absoluto.

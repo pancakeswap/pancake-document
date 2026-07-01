@@ -1,20 +1,20 @@
 # Forex
 
-PancakeSwap Perpetuals V2 offers forex trading pairs. Unlike the cryptocurrency market, the foreign exchange market is not open for trading 24/7. Traders may refer to the following timings:
+Los Perpetuos V2 de PancakeSwap ofrecen pares de trading de forex. A diferencia del mercado de criptomonedas, el mercado de divisas no está abierto para operar las 24 horas del día, los 7 días de la semana. Los traders pueden consultar los siguientes horarios:
 
-| Day       | Open/Close for trading                                                                   |
-| --------- | ---------------------------------------------------------------------------------------- |
-| Monday    | Open                                                                                     |
-| Tuesday   | Open                                                                                     |
-| Wednesday | Open                                                                                     |
-| Thursday  | Open                                                                                     |
-| Friday    | <p>Closed from 22:00 UTC onwards (DST)</p><p>Closed from 23:00 UTC onwards (Non-DST)</p> |
-| Saturday  | Closed                                                                                   |
-| Sunday    | <p>Open from 22:00 UTC onwards (DST)</p><p>Open from 23:00 UTC onwards (Non-DST)</p>     |
+| Día       | Apertura/Cierre para operar                                                                                |
+| --------- | ---------------------------------------------------------------------------------------------------------- |
+| Lunes     | Abierto                                                                                                    |
+| Martes    | Abierto                                                                                                    |
+| Miércoles | Abierto                                                                                                    |
+| Jueves    | Abierto                                                                                                    |
+| Viernes   | <p>Cerrado desde las 22:00 UTC en adelante (horario de verano)</p><p>Cerrado desde las 23:00 UTC en adelante (horario de invierno)</p> |
+| Sábado    | Cerrado                                                                                                    |
+| Domingo   | <p>Abierto desde las 22:00 UTC en adelante (horario de verano)</p><p>Abierto desde las 23:00 UTC en adelante (horario de invierno)</p>   |
 
-In addition, the foreign exchange market will also be closed during the following public holidays:
+Además, el mercado de divisas también estará cerrado durante los siguientes días festivos:
 
-* 25th December - 27th December
-* 1st January - 2nd January
+* 25 de diciembre - 27 de diciembre
+* 1 de enero - 2 de enero
 
 <br>

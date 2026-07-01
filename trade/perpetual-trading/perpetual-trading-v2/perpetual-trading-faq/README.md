@@ -1,21 +1,21 @@
-# Perpetual Trading FAQ
+# FAQ de Trading Perpetuo
 
-### What is the value contribution of this new feature to the cake holders?
+### ¿Cuál es el valor que esta nueva función aporta a los poseedores de CAKE?
 
-We expect this new feature to bring in a lot of new users, traders and volume. We want to ensure the value goes back to our CAKE token on top of offering the trading fee discount. A portion of all opening and closing fees from users who sign up on PancakeSwap will be converted to CAKE and burnt.&#x20;
+Esperamos que esta nueva función atraiga a muchos nuevos usuarios, traders y volumen de trading. Queremos asegurarnos de que el valor vuelva a nuestro token CAKE, además de ofrecer el descuento en comisiones de trading. Una parte de todas las comisiones de apertura y cierre de los usuarios que se registren en PancakeSwap se convertirá a CAKE y se quemará.&#x20;
 
-**And the rest of it?**
+**¿Y el resto?**
 
-The rest are currently reserved for the treasury for ongoing expansion and development of this feature. As the feature matures, we expect to increase the burn portion gradually based on community feedback and governance. Moving forward, we'll look to reward CAKE holders with the increasing adoption of Perpetual Trading V2.
+El resto está reservado actualmente para el tesoro para la expansión y el desarrollo continuo de esta función. A medida que la función madure, esperamos aumentar gradualmente la parte quemada según los comentarios de la comunidad y la gobernanza. En el futuro, buscaremos recompensar a los poseedores de CAKE con la creciente adopción del Trading Perpetuo V2.
 
-### How does Aster determine which user is from PancakeSwap and which user is from their own website?
+### ¿Cómo determina Aster qué usuario es de PancakeSwap y cuál es de su propio sitio web?
 
-This is based on the platform where users trade. If users open and close trades on [https://perp.pancakeswap.finance/](https://perp.pancakeswap.finance/), they will be considered PancakeSwap user.
+Esto se basa en la plataforma donde los usuarios operan. Si los usuarios abren y cierran operaciones en [https://perp.pancakeswap.finance/](https://perp.pancakeswap.finance/), serán considerados usuarios de PancakeSwap.
 
-### Fees
+### Comisiones
 
-Fees for PancakeSwap Perpetuals on different chains are as follows:
+Las comisiones para PancakeSwap Perpetuals en diferentes cadenas son las siguientes:
 
-<table><thead><tr><th width="201.33333333333331">Mode</th><th width="248">BSC, opBNB, Base</th><th>Arbitrum</th></tr></thead><tbody><tr><td>Perpetuals V2 opening position fee</td><td>0.08%</td><td>0.05%</td></tr><tr><td>Perpetuals V2 closing position fee</td><td>0.08%</td><td>0.05%</td></tr><tr><td>Perpetuals V2 FX fee</td><td>0.02%</td><td>0.02%</td></tr><tr><td><a href="../degen-mode/">Degen Mode</a></td><td>Minimum 0.03%</td><td>Minimum 0.03%</td></tr><tr><td><a href="../dumb-mode/">Dumb Mode</a></td><td>6% collateral on wins</td><td>6% collateral on wins</td></tr></tbody></table>
+<table><thead><tr><th width="201.33333333333331">Modo</th><th width="248">BSC, opBNB, Base</th><th>Arbitrum</th></tr></thead><tbody><tr><td>Comisión de apertura de posición Perpetuos V2</td><td>0,08%</td><td>0,05%</td></tr><tr><td>Comisión de cierre de posición Perpetuos V2</td><td>0,08%</td><td>0,05%</td></tr><tr><td>Comisión FX Perpetuos V2</td><td>0,02%</td><td>0,02%</td></tr><tr><td><a href="../degen-mode/">Modo Degen</a></td><td>Mínimo 0,03%</td><td>Mínimo 0,03%</td></tr><tr><td><a href="../dumb-mode/">Modo Dumb</a></td><td>6% de garantía en ganancias</td><td>6% de garantía en ganancias</td></tr></tbody></table>
 
-All trades are subject to an execution fee of 0.5 USD (BNB Chain)/ 0.2 USD (Arbitrum)/ 0.01 USD (opBNB)/ 0.3 USD (Base) when a position is opened.
+Todas las operaciones están sujetas a una comisión de ejecución de 0,5 USD (BNB Chain)/ 0,2 USD (Arbitrum)/ 0,01 USD (opBNB)/ 0,3 USD (Base) cuando se abre una posición.

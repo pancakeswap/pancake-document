@@ -1,24 +1,24 @@
 ---
-description: Higher Volatility BTC Trading
+description: Trading de BTC con Mayor Volatilidad
 hidden: true
 ---
 
 # MADBTCUSD
 
-**1. What is MADBTCUSD Index?**
+**1. ¿Qué es el Índice MADBTCUSD?**
 
-The MADBTCUSD Index is an algorithmically generated price index that encapsulates the dynamic movements of BTC but with an added twist – it exhibits significantly higher volatility. This index is derived using the Geometric Brownian Motion (GBM) derivatives pricing methodology, a mathematical model commonly used in the world of finance to simulate the unpredictable nature of assets.
+El Índice MADBTCUSD es un índice de precios generado algorítmicamente que encapsula los movimientos dinámicos de BTC pero con un giro añadido: exhibe una volatilidad significativamente mayor. Este índice se deriva utilizando la metodología de fijación de precios de derivados del Movimiento Browniano Geométrico (GBM), un modelo matemático comúnmente utilizado en el mundo de las finanzas para simular la naturaleza impredecible de los activos.
 
-**2. How Does It Work?**
+**2. ¿Cómo funciona?**
 
-The MADBTCUSD Index is primarily based on the price of Bitcoin. It mirrors the general ups and downs of BTCUSD, but it does so at an amplified rate (expected volatility of 100%), resulting in an index with significantly more pronounced price swings. To maintain transparency and fairness, the MADBTC price can be cross-verified through the BTC price and MADBTC historical price data ([here](madbtcusd-faq.md)). This ensures that the index accurately reflects the movements in the underlying BTC market.
+El Índice MADBTCUSD se basa principalmente en el precio de Bitcoin. Refleja los altibajos generales de BTCUSD, pero lo hace a una tasa amplificada (volatilidad esperada del 100%), resultando en un índice con oscilaciones de precio significativamente más pronunciadas. Para mantener la transparencia y la imparcialidad, el precio de MADBTC puede verificarse cruzadamente a través del precio de BTC y los datos históricos de precios de MADBTC ([aquí](madbtcusd-faq.md)). Esto garantiza que el índice refleje con precisión los movimientos en el mercado BTC subyacente.
 
-One key feature that sets MADBTCUSD apart from traditional cryptocurrencies is the element of randomness. The price of the MADBTCUSD contract is algorithmically generated using a combination of the corresponding contract's data and a random number. There is no impact of buyers and sellers on price of the MADBTCUSD index.
+Una característica clave que distingue a MADBTCUSD de las criptomonedas tradicionales es el elemento de aleatoriedad. El precio del contrato MADBTCUSD se genera algorítmicamente usando una combinación de los datos del contrato correspondiente y un número aleatorio. No hay impacto de compradores y vendedores en el precio del índice MADBTCUSD.
 
-**3. Market Availability:**
+**3. Disponibilidad del Mercado:**
 
-Currently, MADBTCUSD Index is available in Classic Mode on BNB Chain, alongside other major markets like BTCUSD, and ETHUSD. The contract offers additional benefits such as zero position open fee, PnL based position close fee and up to 250x leverage.
+Actualmente, el Índice MADBTCUSD está disponible en el Modo Clásico en BNB Chain, junto con otros mercados importantes como BTCUSD y ETHUSD. El contrato ofrece beneficios adicionales como comisión de apertura de posición cero, comisión de cierre de posición basada en PnL y hasta 250x de apalancamiento.
 
-If you're intrigued by the concept of MADBTCUSD and want to explore the intricacies of this contract further, here’s a dedicated [FAQ](madbtcusd-faq.md) page to provide you with a comprehensive methodology.
+Si te intriga el concepto de MADBTCUSD y quieres explorar las complejidades de este contrato más a fondo, aquí hay una página de [FAQ](madbtcusd-faq.md) dedicada para proporcionarte una metodología completa.
 
-_**It's important to note that due to its extreme volatility, MADBTCUSD may not be suitable for all traders, so it's essential to conduct your research and fully understand the risks involved before participating**_
+_**Es importante tener en cuenta que debido a su extrema volatilidad, MADBTCUSD puede no ser adecuado para todos los traders, por lo que es esencial realizar tu investigación y comprender completamente los riesgos involucrados antes de participar**_

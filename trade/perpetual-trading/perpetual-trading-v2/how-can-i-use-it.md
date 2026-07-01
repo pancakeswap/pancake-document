@@ -1,103 +1,103 @@
 ---
-description: How to use V2 Perpetuals Trading
+description: Cómo usar el Trading Perpetuo V2
 ---
 
-# How can I use it?
+# ¿Cómo puedo usarlo?
 
-![](<../../../.gitbook/assets/how-to-pancakeswap-without-cex-header (1).png>)
+![](<https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-pancakeswap-without-cex-header%20%281%29.png>)
 
-Using this functionality is really easy (the difficult thing is to trade well). We will only have to follow a series of steps so that our experience is complete. For more information, please visit the [V2 Glossary](perpetuals-glossary.md).
+Usar esta funcionalidad es muy sencillo (lo difícil es operar bien). Solo tenemos que seguir una serie de pasos para que nuestra experiencia sea completa. Para más información, visita el [Glosario V2](perpetuals-glossary.md).
 
-### Go to Perpetual Trading page&#x20;
+### Ve a la página de Trading Perpetuo&#x20;
 
-You can enter from the [site](https://pancakeswap.finance), in the Trade → Perpetual section, or through this [link  ](https://perp.pancakeswap.finance/en/futures/BTCUSDT)
+Puedes acceder desde el [sitio](https://pancakeswap.finance), en la sección Trade → Perpetual, o a través de este [enlace  ](https://perp.pancakeswap.finance/en/futures/BTCUSDT)
 
-### Choose the pair to trade&#x20;
+### Elige el par a operar&#x20;
 
-You can select a tradable pair by clicking on the arrow next to the pair, at the top of the page.
+Puedes seleccionar un par negociable haciendo clic en la flecha junto al par, en la parte superior de la página.
 
-<figure><img src="../../../.gitbook/assets/Perp7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp7.png" alt=""><figcaption></figcaption></figure>
 
-More tradable pairs will come soon!
+¡Pronto habrá más pares negociables!
 
-<figure><img src="../../../.gitbook/assets/Perp8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp8.png" alt=""><figcaption></figcaption></figure>
 
-### Analyze the chart and decide your trading strategy
+### Analiza el gráfico y decide tu estrategia de trading
 
-It’s trading time!! Let’s get serious. You can analyze the chart your way, with all the tools available
+¡Es hora de operar! Pongámonos serios. Puedes analizar el gráfico a tu manera, con todas las herramientas disponibles
 
-<figure><img src="../../../.gitbook/assets/Perp9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp9.png" alt=""><figcaption></figcaption></figure>
 
-**Do you know how to do it or do you want to improve in your analysis?**
+**¿Ya sabes cómo hacerlo o quieres mejorar tu análisis?**
 
-Here is a guide to get started in the world of chart analysis:
+Aquí tienes una guía para comenzar en el mundo del análisis de gráficos:
 
-* [How to Use TradingView on Binance Website](https://www.binance.com/en/support/faq/8419126024404348a1c6e4039fbed3fe)
-* [Candlestick charts](https://academy.binance.com/en/articles/a-beginners-guide-to-candlestick-charts)
-* [Trend Lines Explained](https://academy.binance.com/en/articles/trend-lines-explained)
+* [Cómo usar TradingView en el sitio web de Binance](https://www.binance.com/en/support/faq/8419126024404348a1c6e4039fbed3fe)
+* [Gráficos de velas](https://academy.binance.com/en/articles/a-beginners-guide-to-candlestick-charts)
+* [Líneas de tendencia explicadas](https://academy.binance.com/en/articles/trend-lines-explained)
 
-### Make your position&#x20;
+### Abre tu posición&#x20;
 
-Then, in the upper right part you have the board to position your order.
+Luego, en la parte superior derecha tienes el panel para posicionar tu orden.
 
-<figure><img src="../../../.gitbook/assets/Perp1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp1.png" alt=""><figcaption></figcaption></figure>
 
-Here you must set several parameters, like:
+Aquí debes configurar varios parámetros, como:
 
-_Not in an specific order_
+_No en un orden específico_
 
-1. Long Or Short&#x20;
+1. Long o Short&#x20;
 
-<figure><img src="../../../.gitbook/assets/Perp2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp2.png" alt=""><figcaption></figcaption></figure>
 
-Select the trade position you would like to adopt
+Selecciona la posición de trading que deseas adoptar
 
-&#x20; 2\. The x of the leverage
+&#x20; 2\. El multiplicador de apalancamiento
 
-<figure><img src="../../../.gitbook/assets/Perp3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp3.png" alt=""><figcaption></figcaption></figure>
 
-Move the bunny to select the appropriate leverage position. You can also manually enter the position in the box on the left.
+Mueve el conejito para seleccionar el apalancamiento apropiado. También puedes introducir manualmente la posición en el cuadro de la izquierda.
 
-Disclaimer: Remember that a high level of leverage carries a very high risk, use it wisely.
+Aviso: Recuerda que un alto nivel de apalancamiento conlleva un riesgo muy elevado, úsalo con prudencia.
 
-&#x20;   3\. Type of Order
+&#x20;   3\. Tipo de Orden
 
-<figure><img src="../../../.gitbook/assets/Perp10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp10.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;  4\. Set the order size and place a price for your order (For limit orders)
+&#x20;  4\. Establece el tamaño de la orden y un precio para tu orden (Para órdenes límite)
 
-![](../../../.gitbook/assets/Perp3.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp3.png)
 
-You can also choose the reference currency to see your position.
+También puedes elegir la moneda de referencia para ver tu posición.
 
-5. Take Profit/Stop Loss & Slippage
+5. Toma de Ganancias/Stop Loss y Deslizamiento
 
-<figure><img src="../../../.gitbook/assets/Perp6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp6.png" alt=""><figcaption></figcaption></figure>
 
-Users can set a take profit or stop loss price when opening a position.
+Los usuarios pueden establecer un precio de toma de ganancias o stop loss al abrir una posición.
 
-* Take Profit: Users' position will be liquidated once they reach the set upon P\&L percentage gain.
-* Stop Loss: Users' position will be liquidated once they reach the set upon P\&L percentage loss.
-* Slippage: Used to cancel a market order automatically if the price moved too fast in the direction of the trade before it was opened. For example if you wish to market long the current price but before your trade is opened the price moved up 1%, it will cancel automatically.
+* Toma de Ganancias: La posición del usuario será liquidada una vez que alcance el porcentaje de ganancia de P\&L establecido.
+* Stop Loss: La posición del usuario será liquidada una vez que alcance el porcentaje de pérdida de P\&L establecido.
+* Deslizamiento: Se usa para cancelar automáticamente una orden de mercado si el precio se movió demasiado rápido en la dirección de la operación antes de que se abriera. Por ejemplo, si deseas hacer long al precio actual del mercado pero antes de que se abra tu operación el precio subió un 1%, se cancelará automáticamente.
 
-Note: You can hover over each option for more information. Please refer to [Perpetuals V2 Glossary](perpetuals-glossary.md) for an in-depth guide.
+Nota: Puedes pasar el cursor sobre cada opción para más información. Consulta el [Glosario de Perpetuos V2](perpetuals-glossary.md) para una guía detallada.
 
-### Send your order
+### Envía tu orden
 
-When all the parameters have been set, you can send the order by clicking on Open Position
+Cuando se hayan configurado todos los parámetros, puedes enviar la orden haciendo clic en Abrir Posición
 
-![](../../../.gitbook/assets/Perp4.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp4.png)
 
-### Checking your position
+### Verifica tu posición
 
-Once the order has been sent, it will appear in "Open Orders" until filled out.
+Una vez enviada la orden, aparecerá en "Órdenes Abiertas" hasta que se complete.
 
-![](../../../.gitbook/assets/Perp11.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp11.png)
 
-### Live!
+### ¡En vivo!
 
-When it is filled, your position will be live. You can see it in the positions panel. Also you can view, edit, or close it.
+Cuando se complete, tu posición estará activa. Puedes verla en el panel de posiciones. También puedes verla, editarla o cerrarla.
 
-![](../../../.gitbook/assets/Perp5.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp5.png)
 
-Good luck with your trades!
+¡Mucha suerte con tus operaciones!

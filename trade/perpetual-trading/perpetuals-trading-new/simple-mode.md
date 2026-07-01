@@ -1,58 +1,58 @@
-# Simple Mode
+# Modo Simple
 
-Simple Mode is designed for traders who want to act fast. Set your size, pick your leverage, and tap UP or DOWN — that's it.
+El Modo Simple está diseñado para traders que quieren actuar rápido. Establece tu tamaño, elige tu apalancamiento y toca ARRIBA o ABAJO — eso es todo.
 
-### **Go to the PCS Perps page**
+### **Ve a la página de PCS Perps**
 
-Head to [pancakeswap.finance/perps](https://pancakeswap.finance/perps) or click Perps in the main PancakeSwap navigation bar.
+Ve a [pancakeswap.finance/perps](https://pancakeswap.finance/perps) o haz clic en Perps en la barra de navegación principal de PancakeSwap.
 
-### **Connect your wallet**
+### **Conecta tu billetera**
 
-Click Connect Wallet in the top right corner. No account creation or KYC required — your wallet is your account.
+Haz clic en Conectar Billetera en la esquina superior derecha. No se requiere creación de cuenta ni KYC — tu billetera es tu cuenta.
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt="" width="507"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%287%29.png" alt="" width="507"><figcaption></figcaption></figure>
 
-### **Choose a trading pair**
+### **Elige un par de trading**
 
-Click on the pair name at the top of the page to open the asset selector. A huge variety of token pairs are available.
+Haz clic en el nombre del par en la parte superior de la página para abrir el selector de activos. Hay disponible una enorme variedad de pares de tokens.
 
-<figure><img src="../../../.gitbook/assets/image (300).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28300%29.png" alt=""><figcaption></figcaption></figure>
 
-### **My Bet — Position Size**
+### **Mi Apuesta — Tamaño de Posición**
 
-Enter how much you want to put in, or tap the preset buttons — **25%**, **50%**, or **MAX** — to size your position as a portion of your available perp fund balance.
+Ingresa cuánto quieres poner, o toca los botones preestablecidos — **25%**, **50%** o **MÁX** — para dimensionar tu posición como una parte de tu saldo disponible en el fondo de perpetuos.
 
-<figure><img src="../../../.gitbook/assets/image (337).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28337%29.png" alt=""><figcaption></figcaption></figure>
 
-### **Leverage**
+### **Apalancamiento**
 
-Use the slider or tap a preset — **50×**, **100×**, **150×**, or **200×** — to set your leverage. Your current multiplier is shown in large text above the slider.
+Usa el control deslizante o toca un preestablecido — **50×**, **100×**, **150×** o **200×** — para establecer tu apalancamiento. Tu multiplicador actual se muestra en texto grande sobre el control deslizante.
 
-When leverage is high enough to carry meaningful liquidation risk, an **Amplified Risk** indicator appears as a reminder.
+Cuando el apalancamiento es suficientemente alto como para conllevar un riesgo de liquidación significativo, aparece un indicador de **Riesgo Amplificado** como recordatorio.
 
-<figure><img src="../../../.gitbook/assets/image (319).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28319%29.png" alt=""><figcaption></figcaption></figure>
 
-### **One tap to open**
+### **Un toque para abrir**
 
-Tap **UP** to go long, or **DOWN** to go short. Your position opens immediately at the best available market price.
+Toca **ARRIBA** para ponerte long, o **ABAJO** para ponerte short. Tu posición se abre inmediatamente al mejor precio de mercado disponible.
 
-<figure><img src="../../../.gitbook/assets/image (341).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28341%29.png" alt=""><figcaption></figcaption></figure>
 
-### **Tapping multiple times**
+### **Tocar varias veces**
 
-Simple Mode is designed to let you build or reduce your position with repeated taps — no need to manually adjust size each time.
+El Modo Simple está diseñado para permitirte construir o reducir tu posición con toques repetidos — sin necesidad de ajustar el tamaño manualmente cada vez.
 
-* **Tap UP twice** — your position doubles. Each tap adds one unit to your existing long.
-* **Tap UP then DOWN** — the positions cancel out, returning you to flat.
+* **Toca ARRIBA dos veces** — tu posición se duplica. Cada toque añade una unidad a tu long existente.
+* **Toca ARRIBA y luego ABAJO** — las posiciones se cancelan, volviendo a neutral.
 
-Think of each tap as adding or subtracting one unit in a direction. It's a fun way to scale in or out of a trade.
+Piensa en cada toque como añadir o restar una unidad en una dirección. Es una forma divertida de escalar dentro o fuera de una operación.
 
-### **Check your order status**
+### **Verifica el estado de tu orden**
 
-Your order will appear under **Positions** while it waits to be filled.
+Tu orden aparecerá bajo **Posiciones** mientras espera completarse.
 
-<figure><img src="../../../.gitbook/assets/image (352).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28352%29.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-💡 Want to set limit orders, TP/SL, or manage positions in more detail? Switch to **Pro Mode** at any time — your open positions are not affected.
+💡 ¿Quieres establecer órdenes límite, TP/SL o gestionar posiciones con más detalle? Cambia al **Modo Pro** en cualquier momento — tus posiciones abiertas no se ven afectadas.

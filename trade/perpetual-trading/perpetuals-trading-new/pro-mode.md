@@ -1,60 +1,60 @@
-# Pro Mode
+# Modo Pro
 
-Pro Mode gives you full control over your trades — order types, leverage, TP/SL, and position management all in one place. Follow the steps below to open your first position. For definitions of key terms, refer to the PCS Perps Glossary.
+El Modo Pro te da control total sobre tus operaciones — tipos de órdenes, apalancamiento, TP/SL y gestión de posiciones, todo en un solo lugar. Sigue los pasos a continuación para abrir tu primera posición. Para las definiciones de los términos clave, consulta el Glosario de PCS Perps.
 
-### **Go to the PCS Perps page**
+### **Ve a la página de PCS Perps**
 
-Head to [pancakeswap.finance/perps](https://pancakeswap.finance/perps) or click Perps in the main PancakeSwap navigation bar.
+Ve a [pancakeswap.finance/perps](https://pancakeswap.finance/perps) o haz clic en Perps en la barra de navegación principal de PancakeSwap.
 
-### **Connect your wallet**
+### **Conecta tu billetera**
 
-Click Connect Wallet in the top right corner. No account creation or KYC required — your wallet is your account.
+Haz clic en Conectar Billetera en la esquina superior derecha. No se requiere creación de cuenta ni KYC — tu billetera es tu cuenta.
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt="" width="507"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%287%29.png" alt="" width="507"><figcaption></figcaption></figure>
 
-### **Choose your mode**
+### **Elige tu modo**
 
-Select **Simple Mode** for a fast one-tap long or short with preset sizes. Switch to **Pro Mode** if you want to set limit orders, configure TP/SL, or manage positions in more detail.
+Selecciona el **Modo Simple** para un long o short rápido de un toque con tamaños preestablecidos. Cambia al **Modo Pro** si quieres establecer órdenes límite, configurar TP/SL o gestionar posiciones con más detalle.
 
-<figure><img src="../../../.gitbook/assets/image (249).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28249%29.png" alt=""><figcaption></figcaption></figure>
 
-### **Choose a trading pair**
+### **Elige un par de trading**
 
-Click on the pair name at the top of the page to open the asset selector. A huge variety of token pairs are available.
+Haz clic en el nombre del par en la parte superior de la página para abrir el selector de activos. Hay disponible una enorme variedad de pares de tokens.
 
-<figure><img src="../../../.gitbook/assets/image (228).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28228%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-### **Analyze the chart and decide your strategy**
+### **Analiza el gráfico y decide tu estrategia**
 
-Use the built-in TradingView chart to analyze price action before placing your trade. All standard charting tools are available.
+Usa el gráfico TradingView incorporado para analizar la acción del precio antes de colocar tu operación. Todas las herramientas de gráficos estándar están disponibles.
 
-<figure><img src="../../../.gitbook/assets/image (264).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28264%29.png" alt=""><figcaption></figcaption></figure>
 
-### **Set your position parameters**
+### **Configura los parámetros de tu posición**
 
-In the order panel, configure the following:
+En el panel de órdenes, configura lo siguiente:
 
-1. **Long or Short** — select the direction of your trade
-2. **Leverage** — use the slider or type manually to set your leverage. Up to 200× is available on BTC.
+1. **Long o Short** — selecciona la dirección de tu operación
+2. **Apalancamiento** — usa el control deslizante o escribe manualmente para establecer tu apalancamiento. Hasta 200× está disponible en BTC.
 
-⚠️ High leverage carries significant risk. Use it carefully.
+⚠️ El alto apalancamiento conlleva un riesgo significativo. Úsalo con cuidado.
 
-3. **Order type** — Market (fills immediately) or Limit (fills at your chosen price)
-4. **Position size** — enter the size of your trade in your preferred reference currency
+3. **Tipo de orden** — Mercado (se completa inmediatamente) o Límite (se completa al precio que elijas)
+4. **Tamaño de posición** — ingresa el tamaño de tu operación en tu moneda de referencia preferida
 
-**Set Take Profit and Stop Loss** _(optional)_
+**Establece Toma de Ganancias y Stop Loss** _(opcional)_
 
-* **Take Profit** — your position closes automatically when your target gain is reached
-* **Stop Loss** — your position closes automatically to limit losses at a set threshold
+* **Toma de Ganancias** — tu posición se cierra automáticamente cuando se alcanza tu ganancia objetivo
+* **Stop Loss** — tu posición se cierra automáticamente para limitar pérdidas en un umbral establecido
 
-Once all parameters are set, click Buy / Long Or Sell / Short to submit your order.
+Una vez configurados todos los parámetros, haz clic en Comprar / Long O Vender / Short para enviar tu orden.
 
-<figure><img src="../../../.gitbook/assets/image (284).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28284%29.png" alt=""><figcaption></figcaption></figure>
 
-### **Check your order status**
+### **Verifica el estado de tu orden**
 
-Your order will appear under **Positions** while it waits to be filled.
+Tu orden aparecerá bajo **Posiciones** mientras espera completarse.
 
-<figure><img src="../../../.gitbook/assets/image (287).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28287%29.png" alt=""><figcaption></figcaption></figure>
 
-Good luck with your trades!
+¡Mucha suerte con tus operaciones!

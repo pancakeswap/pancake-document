@@ -1,64 +1,64 @@
-# Perpetual Trading FAQ
+# FAQ de Trading Perpetuo
 
-### **What is PancakeSwap Perpetuals?**
+### **¿Qué es PancakeSwap Perpetuals?**
 
-PCS Perps is a perpetuals trading product built on Aster's orderbook infrastructure with a PCS-native frontend. It supports up to 200× leverage on BTC and major pairs, and is accessible directly from your wallet with no bridging or separate account setup.
+PCS Perps es un producto de trading perpetuo construido sobre la infraestructura de libro de órdenes de Aster con un frontend nativo de PCS. Admite hasta 200× de apalancamiento en BTC y pares principales, y es accesible directamente desde tu billetera sin puenteo ni configuración de cuenta separada.
 
-### **Which mode should I use — Simple or Pro?**
+### **¿Qué modo debo usar — Simple o Pro?**
 
-It depends on how you like to trade. Simple Mode is built for speed — set your size, pick your leverage, and tap UP or DOWN to open a position instantly. Pro Mode is for traders who want more control: limit orders, TP/SL configuration, and full position management. If you're new to perps or just want to move fast, start with Simple. You can switch to Pro at any time without affecting your open positions.
+Depende de cómo te guste operar. El Modo Simple está diseñado para la velocidad — establece tu tamaño, elige tu apalancamiento y toca ARRIBA o ABAJO para abrir una posición al instante. El Modo Pro es para traders que quieren más control: órdenes límite, configuración de TP/SL y gestión completa de posiciones. Si eres nuevo en los perpetuos o simplemente quieres moverte rápido, comienza con Simple. Puedes cambiar a Pro en cualquier momento sin afectar tus posiciones abiertas.
 
-### **Do I need to create an account or complete KYC?**
+### **¿Necesito crear una cuenta o completar KYC?**
 
-No. PCS Perps is fully onchain. Connect your wallet and you're ready to trade — no account creation, no KYC, no deposits to a custodial platform.
+No. PCS Perps es completamente en cadena. Conecta tu billetera y estarás listo para operar — sin creación de cuenta, sin KYC, sin depósitos en una plataforma de custodia.
 
-### **What's the difference between Simple Mode and Pro Mode?**
+### **¿Cuál es la diferencia entre el Modo Simple y el Modo Pro?**
 
-Simple Mode is built for fast directional trades — one tap to go long or short with preset sizes. Pro Mode gives you full control with advanced order types, TP/SL, and position management tools. You can switch between modes at any time.
-
-***
-
-### **What fees does PancakeSwap Perpetuals charge?**
-
-There are two components to your trading fee on PCS Perps:
-
-1. **Aster base fee** — charged by Aster's orderbook infrastructure on every trade
-2. **PCS builder fee** — charged by PancakeSwap on top of the Aster base fee
-
-Both are deducted automatically at the time of your trade.
+El Modo Simple está diseñado para operaciones direccionales rápidas — un toque para ponerse long o short con tamaños preestablecidos. El Modo Pro te da control total con tipos de órdenes avanzados, TP/SL y herramientas de gestión de posiciones. Puedes cambiar entre modos en cualquier momento.
 
 ***
 
-### **What are Aster's fee rates?**
+### **¿Qué comisiones cobra PancakeSwap Perpetuals?**
 
-Fees vary by contract type:
+Hay dos componentes en tu comisión de trading en PCS Perps:
 
-**USDT-Perpetual Contracts**
+1. **Comisión base de Aster** — cobrada por la infraestructura de libro de órdenes de Aster en cada operación
+2. **Comisión de constructor PCS** — cobrada por PancakeSwap además de la comisión base de Aster
 
-| Order Type | Fee Rate |
-| ---------- | -------- |
-| Maker      | 0%       |
-| Taker      | 0.04%    |
+Ambas se deducen automáticamente en el momento de tu operación.
 
-**USD1-Perpetual Contracts**
+***
 
-| Order Type | Fee Rate |
-| ---------- | -------- |
-| Maker      | 0%       |
-| Taker      | 0.005%   |
+### **¿Cuáles son las tasas de comisión de Aster?**
 
-For more details related to Aster fees please refer to this doc here: [LINK](https://docs.asterdex.com/trading/perpetuals/fees-and-specs)
+Las comisiones varían según el tipo de contrato:
 
-### How does Aster determine which user is from PancakeSwap and which user is from their own website?
+**Contratos USDT-Perpetuo**
 
-This is based on the platform where users trade. If users open and close trades on [https://pancakeswap.finance/perps](https://pancakeswap.finance/perps), they will be considered PancakeSwap user.
+| Tipo de Orden | Tasa de Comisión |
+| ------------- | ---------------- |
+| Creador       | 0%               |
+| Tomador       | 0,04%            |
 
-### PancakeSwap builder fee
+**Contratos USD1-Perpetuo**
 
-Fees for PancakeSwap Perpetuals as follows:
+| Tipo de Orden | Tasa de Comisión |
+| ------------- | ---------------- |
+| Creador       | 0%               |
+| Tomador       | 0,005%           |
 
-<table><thead><tr><th width="201.33333333333331">Mode</th><th>Builder Fees</th></tr></thead><tbody><tr><td>All trades</td><td>0.03%</td></tr></tbody></table>
+Para más detalles relacionados con las comisiones de Aster, consulta este documento aquí: [ENLACE](https://docs.asterdex.com/trading/perpetuals/fees-and-specs)
 
-### **Which jurisdictions are restricted from using the product?** <a href="#whats-the-difference-between-a-maker-and-taker-order" id="whats-the-difference-between-a-maker-and-taker-order"></a>
+### ¿Cómo determina Aster qué usuario es de PancakeSwap y cuál es de su propio sitio web?
 
-Users located in or accessing the service from the United States of America, Canada, the United Kingdom, China, North Korea, Russia, Ukraine, Cuba, Iran, Venezuela, or Syria are not permitted to use the product. Access may be restricted or blocked in accordance with applicable compliance and regulatory requirements.
+Esto se basa en la plataforma donde los usuarios operan. Si los usuarios abren y cierran operaciones en [https://pancakeswap.finance/perps](https://pancakeswap.finance/perps), serán considerados usuarios de PancakeSwap.
+
+### Comisión de constructor de PancakeSwap
+
+Las comisiones para PancakeSwap Perpetuals son las siguientes:
+
+<table><thead><tr><th width="201.33333333333331">Modo</th><th>Comisiones de Constructor</th></tr></thead><tbody><tr><td>Todas las operaciones</td><td>0,03%</td></tr></tbody></table>
+
+### **¿Qué jurisdicciones tienen restricciones de uso del producto?** <a href="#whats-the-difference-between-a-maker-and-taker-order" id="whats-the-difference-between-a-maker-and-taker-order"></a>
+
+Los usuarios ubicados o que acceden al servicio desde los Estados Unidos de América, Canadá, el Reino Unido, China, Corea del Norte, Rusia, Ucrania, Cuba, Irán, Venezuela o Siria no tienen permitido usar el producto. El acceso puede estar restringido o bloqueado de acuerdo con los requisitos aplicables de cumplimiento normativo.
