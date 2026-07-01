@@ -1,114 +1,114 @@
-# How to Participate - CAKE.PAD
+# Cómo Participar - CAKE.PAD
 
-### Summary
+### Resumen
 
-**Before the CAKE.PAD event**
+**Antes del evento CAKE.PAD**
 
-* [Buy / Prepare CAKE](https://pancakeswap.finance/swap) tokens
+* [Compra / Prepara tokens CAKE](https://pancakeswap.finance/swap)
 
-**During the CAKE.PAD event**
+**Durante el evento CAKE.PAD**
 
-* While the event is live, deposit your CAKE to receive CAKE.PAD partner tokens at [https://pancakeswap.finance/cakepad](https://pancakeswap.finance/cakepad)
+* Mientras el evento esté activo, deposita tu CAKE para recibir tokens del socio CAKE.PAD en [https://pancakeswap.finance/cakepad](https://pancakeswap.finance/cakepad)
 
-**After the CAKE.PAD event**
+**Después del evento CAKE.PAD**
 
-1. When the event is complete, claim your CAKE.PAD partner tokens.
-2. In the case of an [overflow](cakepad-guide.md#overflow-sale-method), claim your unused CAKE tokens (minus [tiered tax](how-cake.pad-taxes-work-in-overflow-sales-with-example.md)).
-3. If the CAKE.PAD event has token vesting, return throughout the vesting period to claim released tokens until the end of the vesting schedule.
+1. Cuando el evento termine, reclama tus tokens del socio CAKE.PAD.
+2. En caso de [desbordamiento](cakepad-guide.md#overflow-sale-method), reclama tus tokens CAKE no utilizados (menos el [impuesto escalonado](how-cake.pad-taxes-work-in-overflow-sales-with-example.md)).
+3. Si el evento CAKE.PAD tiene vesting de tokens, regresa durante el período de vesting para reclamar los tokens liberados hasta el final del cronograma de vesting.
 
 ***
 
-## A) Before the CAKE.PAD event
+## A) Antes del evento CAKE.PAD
 
-Before you can join a CAKE.PAD event, the only thing you need to prepare is your CAKE tokens.
+Antes de poder unirte a un evento CAKE.PAD, lo único que necesitas preparar son tus tokens CAKE.
 
-### Get CAKE Tokens
+### Obtener Tokens CAKE
 
-CAKE tokens are used to buy the tokens being offered in the CAKE.PAD event
+Los tokens CAKE se usan para comprar los tokens ofrecidos en el evento CAKE.PAD
 
-* If your CAKE is staked in a Syrup Pool, unstake it before the CAKE.PAD event
-* Else, make sure to buy some CAKE tokens in advance and hold them in your wallet
+* Si tu CAKE está en staking en un Syrup Pool, retíralo antes del evento CAKE.PAD
+* De lo contrario, asegúrate de comprar algunos tokens CAKE con anticipación y mantenerlos en tu billetera
 
-### Knowing when a CAKE.PAD Event will Start
+### Saber cuándo comenzará un Evento CAKE.PAD
 
-CAKE.PAD events are **time-limited**. Use the following methods to ensure you don’t miss out:
+Los eventos CAKE.PAD son **de tiempo limitado**. Usa los siguientes métodos para asegurarte de no perdértelo:
 
-1. Visit the CAKE.PAD event page: a **countdown timer** will be displayed with the exact timing of the upcoming CAKE.PAD event.
-2. Keep a close watch on PancakeSwap’s social media: There isn’t a set time before a CAKE.PAD event goes live for the countdown to start, so check PancakeSwap’s official accounts for announcements. The countdown and updates will give you plenty of time to prepare.
-3. Check the CAKE.PAD event forum post for the exact timing.
+1. Visita la página del evento CAKE.PAD: se mostrará un **temporizador de cuenta regresiva** con el horario exacto del próximo evento CAKE.PAD.
+2. Mantente atento a las redes sociales de PancakeSwap: no hay un tiempo fijo antes de que un evento CAKE.PAD se active para que comience la cuenta regresiva, así que revisa las cuentas oficiales de PancakeSwap para anuncios. La cuenta regresiva y las actualizaciones te darán tiempo suficiente para prepararte.
+3. Consulta el foro del evento CAKE.PAD para conocer el horario exacto.
 
-## B) During the CAKE.PAD Event
+## B) Durante el Evento CAKE.PAD
 
-While the CAKE.PAD event is live, you will have limited time to participate. If you have prepared CAKE in your wallet, you can readily participate in the CAKE.PAD event!
+Mientras el evento CAKE.PAD esté activo, tendrás tiempo limitado para participar. ¡Si tienes CAKE preparado en tu billetera, podrás participar fácilmente en el evento CAKE.PAD!
 
-### Checking if the CAKE.PAD Event is Live
+### Verificar si el Evento CAKE.PAD está Activo
 
-On the CAKE.PAD event page, the event start countdown will switch to a countdown until the CAKE.PAD event sale ends. This shows you how much time remains to obtain the offered tokens.
+En la página del evento CAKE.PAD, la cuenta regresiva de inicio del evento cambiará a una cuenta regresiva hasta que finalice la venta del evento CAKE.PAD. Esto te muestra cuánto tiempo queda para obtener los tokens ofrecidos.
 
-In each CAKE.PAD event, participants can commit any amount of CAKE. To enhance CAKE utility, a tiered participation fee applies. For details, check the CAKE.PAD event page or proposal for the specific event you want to join.
+En cada evento CAKE.PAD, los participantes pueden comprometer cualquier cantidad de CAKE. Para mejorar la utilidad de CAKE, se aplica una tarifa de participación escalonada. Para más detalles, consulta la página del evento CAKE.PAD o la propuesta del evento específico al que deseas unirte.
 
-The final amount of CAKE.PAD partner tokens you receive is determined using the **Overflow Sale Method**.
+La cantidad final de tokens del socio CAKE.PAD que recibes se determina usando el **Método de Venta por Desbordamiento**.
 
-### Overflow Sale Method
+### Método de Venta por Desbordamiento
 
-1. Users can commit any amount of $CAKE to participate, no locking or staking needed
-2. Allocation each user gets is proportional to their committed CAKE
-3. If oversubscribed, only a portion of user’s committed CAKE is exchanged for project tokens
-4. The more you commit → the more allocation you get
-5. Heavily oversubscribed? Small commits may get 0
-6. All unused $CAKE will be refunded to participants (subject to tax, if applicable)
+1. Los usuarios pueden comprometer cualquier cantidad de $CAKE para participar, sin necesidad de bloqueo ni staking
+2. La asignación que recibe cada usuario es proporcional a su CAKE comprometido
+3. Si hay sobreinscripción, solo una parte del CAKE comprometido por el usuario se intercambia por tokens del proyecto
+4. Cuanto más comprometas → más asignación obtienes
+5. ¿Muy sobreinscrito? Los compromisos pequeños pueden obtener 0
+6. Todo el $CAKE no utilizado será devuelto a los participantes (sujeto a impuesto, si aplica)
 
-### Committing CAKE to the CAKE.PAD event
+### Comprometer CAKE en el evento CAKE.PAD
 
-1. Click the Deposit button on the CAKE.PAD event sale card
+1. Haz clic en el botón Depositar en la tarjeta de venta del evento CAKE.PAD
 
-<figure><img src="../../.gitbook/assets/image (466).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28466%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-2. Enter the amount of CAKE you want to commit. Any CAKE not used to buy tokens will be returned to you
-3.  Click **Confirm** and approve the transaction in your wallet<br>
+2. Ingresa la cantidad de CAKE que deseas comprometer. Cualquier CAKE que no se use para comprar tokens te será devuelto
+3.  Haz clic en **Confirmar** y aprueba la transacción en tu billetera<br>
 
-    <figure><img src="../../.gitbook/assets/image (467).png" alt="" width="239"><figcaption></figcaption></figure>
-4. Your committed amount will be displayed in the sale section
-5. You can add more $CAKE any time during the CAKE.PAD event
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28467%29.png" alt="" width="239"><figcaption></figcaption></figure>
+4. Tu cantidad comprometida se mostrará en la sección de venta
+5. Puedes agregar más $CAKE en cualquier momento durante el evento CAKE.PAD
 
-<figure><img src="../../.gitbook/assets/image (468).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28468%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-**Note:** If the CAKE.PAD event is oversubscribed, a **tiered participation fee** will apply. This fee is only taken from excess funds, not from the CAKE used to buy tokens.
+**Nota:** Si el evento CAKE.PAD tiene sobreinscripción, se aplicará una **tarifa de participación escalonada**. Esta tarifa solo se toma de los fondos en exceso, no del CAKE utilizado para comprar tokens.
 
-See: [how-cake.pad-taxes-work-in-overflow-sales-with-example.md](how-cake.pad-taxes-work-in-overflow-sales-with-example.md "mention")
+Ver: [how-cake.pad-taxes-work-in-overflow-sales-with-example.md](how-cake.pad-taxes-work-in-overflow-sales-with-example.md "mention")
 
-## C) After the CAKE.PAD event
+## C) Después del evento CAKE.PAD
 
-### Collecting Tokens
+### Cobrar Tokens
 
-* When the CAKE.PAD event ends, you can collect your new tokens. Some CAKE.PAD events may have token vesting periods.
-* The number of tokens you receive depends on your CAKE deposit amount relative to the total amount committed.
-* Any extra CAKE not used for obtaining CAKE.PAD partner tokens will be returned (minus any applicable participation fee).
+* Cuando el evento CAKE.PAD finalice, podrás cobrar tus nuevos tokens. Algunos eventos CAKE.PAD pueden tener períodos de vesting de tokens.
+* La cantidad de tokens que recibes depende del monto de tu depósito de CAKE en relación con la cantidad total comprometida.
+* Cualquier CAKE adicional no utilizado para obtener tokens del socio CAKE.PAD será devuelto (menos cualquier tarifa de participación aplicable).
 
-#### CAKE.PAD event **without token vesting**
+#### Evento CAKE.PAD **sin vesting de tokens**
 
-Collecting your new tokens is incredibly easy. Just go back to the CAKE.PAD event page once the CAKE.PAD event is finished and click the **Claim** button under the sale window. Confirm the action with your wallet. You'll now have your new tokens. Congratulations!
+Cobrar tus nuevos tokens es increíblemente fácil. Simplemente regresa a la página del evento CAKE.PAD una vez que el evento haya terminado y haz clic en el botón **Reclamar** debajo de la ventana de venta. Confirma la acción con tu billetera. ¡Ahora tendrás tus nuevos tokens! ¡Felicitaciones!
 
-#### CAKE.PAD event **with token vesting**
+#### Evento CAKE.PAD **con vesting de tokens**
 
-Some CAKE.PAD events may include vesting. Details are always shared in the proposal, and the vesting schedule is displayed on the CAKE.PAD event page.
+Algunos eventos CAKE.PAD pueden incluir vesting. Los detalles siempre se comparten en la propuesta y el cronograma de vesting se muestra en la página del evento CAKE.PAD.
 
-The page will show:
+La página mostrará:
 
-* Total purchased tokens
-* Tokens already released
-* Tokens available to claim
-* When vesting will be complete
+* Total de tokens comprados
+* Tokens ya liberados
+* Tokens disponibles para reclamar
+* Cuándo terminará el vesting
 
-Click the **Claim** button to collect any tokens currently available.
+Haz clic en el botón **Reclamar** para cobrar cualquier token disponible actualmente.
 
-Throughout the vesting period, you can return to the CAKE.PAD event page at any time to claim tokens as they are released.
+Durante el período de vesting, puedes regresar a la página del evento CAKE.PAD en cualquier momento para reclamar tokens a medida que se liberen.
 
-<figure><img src="../../.gitbook/assets/image (469).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28469%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-#### Using Your New Tokens in Farms
+#### Usar tus Nuevos Tokens en las Granjas
 
-Now that you've got your shiny new tokens, you can put them to work for you! You can add liquidity for your token to receive trading fees and farming.
+¡Ahora que tienes tus nuevos tokens, puedes ponerlos a trabajar! Puedes agregar liquidez para tu token y recibir comisiones de trading y farming.
 
-* Read about adding liquidity [here](https://docs.pancakeswap.finance/get-started/liquidity-guide).
-* Read about farming [here](../yield-farming/).
+* Lee sobre cómo agregar liquidez [aquí](https://docs.pancakeswap.finance/get-started/liquidity-guide).
+* Lee sobre el farming [aquí](../yield-farming/).

@@ -1,22 +1,22 @@
 ---
-description: Receive the same juicy CAKE rewards by farming on other blockchains
+description: Recibe las mismas jugosas recompensas de CAKE haciendo farming en otras blockchains
 hidden: true
 ---
 
-# Crosschain Farming
+# Farming Multicadena
 
-<figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2836%29.png" alt=""><figcaption></figcaption></figure>
 
-With the multichain deployment, PancakeSwap is now bringing the iconic yield farming experience from PancakeSwap farms to users on other blockchains. Yield Farms allow users to earn CAKE while supporting PancakeSwap by staking LP Tokens.
+Con el despliegue multicadena, PancakeSwap ahora está llevando la icónica experiencia de yield farming de las granjas de PancakeSwap a los usuarios en otras blockchains. Las Granjas de Yield Farming permiten a los usuarios ganar CAKE mientras apoyan a PancakeSwap haciendo staking de Tokens LP.
 
-Check out the [main section](../) to learn more about yield farming.
+Consulta la [sección principal](../) para obtener más información sobre el yield farming.
 
-Check out our [How to Use Farms guide](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) to get started with farming.
+Consulta nuestra [guía de Cómo Usar las Granjas](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) para comenzar con el farming.
 
 {% hint style="warning" %}
-Yield farming can give better rewards than Syrup Pools, but it comes with a risk of **Impermanent Loss**. It’s not as scary as it sounds, but it is worth learning about the concept before you get started.
+El Yield Farming puede dar mejores recompensas que los Syrup Pools, pero conlleva el riesgo de **Pérdida Impermanente**. No es tan aterrador como suena, pero vale la pena aprender sobre el concepto antes de comenzar.
 
-Check out this great [article about Impermanent Loss ](https://academy.binance.com/en/articles/impermanent-loss-explained)from Binance Academy to learn more.
+Consulta este excelente [artículo sobre Pérdida Impermanente](https://academy.binance.com/en/articles/impermanent-loss-explained) de Binance Academy para obtener más información.
 {% endhint %}
 
-PancakeSwap Crosschain farming is powered by the cross-chain messaging service provided by Celer Network. To learn more, visit: [https://www.celer.network/](https://www.celer.network/)
+El farming multicadena de PancakeSwap está impulsado por el servicio de mensajería entre cadenas proporcionado por Celer Network. Para obtener más información, visita: [https://www.celer.network/](https://www.celer.network/)

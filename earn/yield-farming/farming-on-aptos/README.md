@@ -1,21 +1,21 @@
 ---
-description: Receive the same juicy CAKE rewards by farming on Aptos
+description: Recibe las mismas jugosas recompensas de CAKE haciendo farming en Aptos
 ---
 
-# Farming on Aptos
+# Farming en Aptos
 
-<figure><img src="../../../.gitbook/assets/farming-on-aptos.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/farming-on-aptos.png" alt=""><figcaption></figcaption></figure>
 
-With our multichain deployment, PancakeSwap is now bringing the iconic yield farming experience to liquidity providers on Aptos. Yield Farms allow users to earn CAKE while supporting PancakeSwap by staking LP Tokens.
+Con nuestro despliegue multicadena, PancakeSwap ahora está llevando la icónica experiencia de yield farming a los proveedores de liquidez en Aptos. Las Granjas de Yield Farming permiten a los usuarios ganar CAKE mientras apoyan a PancakeSwap haciendo staking de Tokens LP.
 
-Check out the [main section](../) to learn more about yield farming.
+Consulta la [sección principal](../) para obtener más información sobre el yield farming.
 
-We designed the product experience to be consistent across different blockchains. Therefore, if you are a seasonal Farm user on BSC, you will feel right at home when farming on Aptos. If you are new to liquidity farming, check out our [How to Use Farms guide](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) to get started.
+Diseñamos la experiencia del producto para que sea consistente en diferentes blockchains. Por lo tanto, si eres un usuario habitual de Farm en BSC, te sentirás como en casa cuando hagas farming en Aptos. Si eres nuevo en el farming de liquidez, consulta nuestra [guía de Cómo Usar las Granjas](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) para comenzar.
 
-To learn more about how to bridge your assets and CAKE between BSC and Aptos. Check out the [CAKE Bridging Guide](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos/cake-bridging-guide.md).
+Para obtener más información sobre cómo puentear tus activos y CAKE entre BSC y Aptos, consulta la [Guía de Puenteo de CAKE](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos/cake-bridging-guide.md).
 
 {% hint style="warning" %}
-Yield farming can give better rewards than Syrup Pools, but it comes with a risk of **Impermanent Loss**. It’s not as scary as it sounds, but it is worth learning about the concept before you get started.
+El Yield Farming puede dar mejores recompensas que los Syrup Pools, pero conlleva el riesgo de **Pérdida Impermanente**. No es tan aterrador como suena, pero vale la pena aprender sobre el concepto antes de comenzar.
 
-Check out this great [article about Impermanent Loss ](https://academy.binance.com/en/articles/impermanent-loss-explained)from Binance Academy to learn more.
+Consulta este excelente [artículo sobre Pérdida Impermanente](https://academy.binance.com/en/articles/impermanent-loss-explained) de Binance Academy para obtener más información.
 {% endhint %}

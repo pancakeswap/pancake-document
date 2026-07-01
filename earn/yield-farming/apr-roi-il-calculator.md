@@ -1,149 +1,149 @@
-# APR/ROI/IL Calculator
+# Calculadora APR/ROI/IL
 
-In V3 Liquidity and Farms, with the new non-fungible liquidity and customizable price range ability. Each LP position will have its own LP fee and CAKE farming APR.
+En la Liquidez y las Granjas V3, con la nueva liquidez no fungible y la capacidad de rango de precios personalizable, cada posición LP tendrá su propio APR de comisión LP y APR de farming de CAKE.
 
-To make liquidity provisioning smoother and less challenging, the new automatic APR displays with a brand new ROI calculator are available to use whenever you are providing liquidity or farming.
+Para hacer la provisión de liquidez más fluida y menos desafiante, los nuevos displays automáticos de APR con una calculadora de ROI completamente nueva están disponibles para usar cada vez que proporcionas liquidez o haces farming.
 
-## Automatic APR calculation and displays <a href="#id-12d7c8c1-d0d7-4d5e-99ea-5f5b7f5378e5" id="id-12d7c8c1-d0d7-4d5e-99ea-5f5b7f5378e5"></a>
+## Cálculo y displays automáticos de APR <a href="#id-12d7c8c1-d0d7-4d5e-99ea-5f5b7f5378e5" id="id-12d7c8c1-d0d7-4d5e-99ea-5f5b7f5378e5"></a>
 
-<figure><img src="../../.gitbook/assets/image (293).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28293%29.png" alt=""><figcaption></figcaption></figure>
 
-When you are providing liquidity, the automatic APR display reacts to your configuration changes and calculates the APR based on your settings.
+Cuando proporcionas liquidez, el display automático de APR reacciona a los cambios en tu configuración y calcula el APR basándose en tus ajustes.
 
-For example, in most cases, if you tighten your price range settings, the APR goes up.
+Por ejemplo, en la mayoría de los casos, si ajustas la configuración del rango de precios, el APR sube.
 
-Please note for LP fee APRs:
+Ten en cuenta para los APRs de comisión LP:
 
-* The estimated amount of LP fee rewards vary based on the selected fee tier, fee rewards require manual claiming and compounding.
-* APR figures are calculated using historical trading volume, which is dependent on Subgraph and may be subject to indexing delays.
+* La cantidad estimada de recompensas de comisión LP varía según el nivel de comisión seleccionado; las recompensas de comisiones requieren reclamación y composición manual.
+* Las cifras de APR se calculan usando el volumen de trading histórico, que depende del Subgraph y puede estar sujeto a retrasos de indexación.
 
-For farming APRs:
+Para los APRs de farming:
 
-* The estimated amount of CAKE rewards is based on the live CAKE emissions to the farms. They are subject to change based on future emission adjustments.
-
-{% hint style="info" %}
-Numbers are calculated at the current rates and pool conditions and are subject to change based on various external variables. They are estimations provided for your convenience only, and by no means represent guaranteed returns.
-{% endhint %}
-
-You may find this APR display under:
-
-* “Add Liquidity” page - showing LP fee APR
-* Detail page of each of the existing liquidity position - showing LP fee APR\
-  ![](<../../.gitbook/assets/image (326).png>)
-* Farm page, within the position under each farm - showing combined APR with LP fee and CAKE rewards\
-  ![](<../../.gitbook/assets/image (138).png>)<br>
-
-## Improved ROI calculator <a href="#id-6f06dc46-ff61-4022-a29d-3ebe67a50607" id="id-6f06dc46-ff61-4022-a29d-3ebe67a50607"></a>
-
-<figure><img src="../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
-
-Whenever you see the automatic APR displays, you can click and bring up the new ROI calculator. The new ROI calculator has been redesigned with serval added features to fit the needs for V3 concentrated liquidity providing and farming.
-
-Let’s go through each of the sections together:
-
-### Deposit Amount, “Staked For” and “Compounding Every” <a href="#a398a29b-a1af-4ec3-9cc6-9e07e620c134" id="a398a29b-a1af-4ec3-9cc6-9e07e620c134"></a>
-
-These three are the basic inputs, which are also presented in the previous ROI calculator. They are there to define:
-
-1. How many assets are provided to the liquidity position, in USD.
-2. For how long those assets will be staked in the position.
-3. How often you will be compounding rewards back to the position.
-
-
-
-⓵ **Deposit Amount**
-
-![](../../.gitbook/assets/deposit-amount.gif)
-
-You may manually input the amount in USD, or use the quick action buttons to quickly fill in $100, $1000 or the maximum amount allowed based on the token balance in your wallet.
-
-
-
-⓶ **Stake Duration**
-
-![](../../.gitbook/assets/stake-durations.gif)
-
-You can select how long the assets are staked in the liquidity position by choosing between: 1 day, 7 days, 30 days, 1 year, and 5 years.
-
-The number of return will be calculated based on your staking duration.
-
-
-
-⓷ **Compounding**
-
-![](../../.gitbook/assets/compounding.gif)
-
-You can select how often you will be harvesting the rewards generated by the position, and compounding them back to the position. You may choose a number between: 12 hours, 1 day, 7 days, and 30 days.
-
-The number of returns and APY will be calculated based on your choice. If you have no plan to compound your position, uncheck the checkbox on the left.
+* La cantidad estimada de recompensas de CAKE se basa en las emisiones de CAKE en vivo a las granjas. Están sujetas a cambios basados en ajustes de emisión futuros.
 
 {% hint style="info" %}
-In V3, LP fees and earned CAKE has to be manually harvested and compounded.
+Los números se calculan con las tasas actuales y las condiciones del pool, y están sujetos a cambios basados en diversas variables externas. Son estimaciones proporcionadas para tu conveniencia únicamente y de ninguna manera representan rendimientos garantizados.
 {% endhint %}
 
-### &#x20;⓸ History Price <a href="#id-19cd815c-ef3d-496a-8469-fb0164f3946b" id="id-19cd815c-ef3d-496a-8469-fb0164f3946b"></a>
+Puedes encontrar este display de APR en:
 
-![](<../../.gitbook/assets/image (305).png>)
+* Página de "Agregar Liquidez" - mostrando el APR de comisión LP
+* Página de detalle de cada posición de liquidez existente - mostrando el APR de comisión LP\
+  ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28326%29.png)
+* Página de Granja, dentro de la posición en cada granja - mostrando el APR combinado con comisión LP y recompensas de CAKE\
+  ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28138%29.png)<br>
 
-This is a view-only section to reference the historical price movement of the selected pair.
+## Calculadora ROI mejorada <a href="#id-6f06dc46-ff61-4022-a29d-3ebe67a50607" id="id-6f06dc46-ff61-4022-a29d-3ebe67a50607"></a>
 
-You may reference the historical price movements in different timeframes, such as how much the price usually fluctuates and then come up with a suitable price range settings to balance between higher APR and lower risk of impermanent loss
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28146%29.png" alt=""><figcaption></figcaption></figure>
 
-* MIN - minimum price
-* MAX - maximum price
-* AVG - average price
-* CURRENT - current price
+Siempre que veas los displays automáticos de APR, puedes hacer clic y abrir la nueva calculadora de ROI. La nueva calculadora de ROI ha sido rediseñada con varias características añadidas para adaptarse a las necesidades de la provisión de liquidez concentrada y el farming en V3.
+
+Repasemos juntos cada una de las secciones:
+
+### Monto de Depósito, "En Staking Por" y "Componiendo Cada" <a href="#a398a29b-a1af-4ec3-9cc6-9e07e620c134" id="a398a29b-a1af-4ec3-9cc6-9e07e620c134"></a>
+
+Estos tres son las entradas básicas, que también están presentes en la calculadora de ROI anterior. Están ahí para definir:
+
+1. Cuántos activos se proporcionan a la posición de liquidez, en USD.
+2. Por cuánto tiempo esos activos estarán en staking en la posición.
+3. Con qué frecuencia compondrás las recompensas de vuelta a la posición.
+
+
+
+⓵ **Monto de Depósito**
+
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/deposit-amount.gif)
+
+Puedes ingresar manualmente el monto en USD, o usar los botones de acción rápida para ingresar rápidamente $100, $1000 o el monto máximo permitido según el saldo del token en tu billetera.
+
+
+
+⓶ **Duración del Staking**
+
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/stake-durations.gif)
+
+Puedes seleccionar por cuánto tiempo los activos están en staking en la posición de liquidez eligiendo entre: 1 día, 7 días, 30 días, 1 año y 5 años.
+
+El número de retorno se calculará según tu duración de staking.
+
+
+
+⓷ **Composición**
+
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/compounding.gif)
+
+Puedes seleccionar con qué frecuencia cosecharás las recompensas generadas por la posición y las compondrás de vuelta a la posición. Puedes elegir un número entre: 12 horas, 1 día, 7 días y 30 días.
+
+El número de retornos y el APY se calcularán según tu elección. Si no planeas componer tu posición, desmarca la casilla de verificación a la izquierda.
 
 {% hint style="info" %}
-The price chart is only using data from the actual V3 pair. Therefore price data before V3 deployment is not available. The four price metrics represent the currently selected timeframe and will change based on the selection.
+En V3, las comisiones LP y el CAKE ganado deben cosecharse y componerse manualmente.
 {% endhint %}
 
-### ⓹ Price Range <a href="#bbec6919-1404-4523-815e-063405a961f1" id="bbec6919-1404-4523-815e-063405a961f1"></a>
+### &#x20;⓸ Precio Histórico <a href="#id-19cd815c-ef3d-496a-8469-fb0164f3946b" id="id-19cd815c-ef3d-496a-8469-fb0164f3946b"></a>
 
-![](../../.gitbook/assets/price-range.gif)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28305%29.png)
 
-Using this section, you may check how much liquidity has been deposited to different price ranges, and come up with and set the price range you are providing liquidity to.
+Esta es una sección de solo vista para referenciar el movimiento histórico de precios del par seleccionado.
 
-You may find the distribution chart below the title. The larger the amount of liquidity, the higher the chart will be.
+Puedes referenciar los movimientos históricos de precios en diferentes marcos de tiempo, como cuánto fluctúa usualmente el precio y luego idear una configuración de rango de precios adecuada para equilibrar entre un APR más alto y un menor riesgo de pérdida impermanente.
 
-You can change your price range settings by:
+* MIN - precio mínimo
+* MAX - precio máximo
+* AVG - precio promedio
+* CURRENT - precio actual
 
-* Dragging the two handles on the chart to increase or describes the minimum and maximum price limit.
-* Using the space between two handles to shift the selected range.
-* Clicking the + and - button on the min and max price fields.
-* Clicking the numbers in the price fields and entering them manually.
+{% hint style="info" %}
+El gráfico de precios solo usa datos del par V3 real. Por lo tanto, los datos de precios antes del despliegue de V3 no están disponibles. Las cuatro métricas de precios representan el marco de tiempo actualmente seleccionado y cambiarán según la selección.
+{% endhint %}
 
-If you want to navigate the distribution chart:
+### ⓹ Rango de Precios <a href="#bbec6919-1404-4523-815e-063405a961f1" id="bbec6919-1404-4523-815e-063405a961f1"></a>
 
-1. Use the plus and minus magnifier buttons to zoom in and out
-2. Drag the X (bottom) axis to shift left and right
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/price-range.gif)
 
-If you want to provide liquidity to the entire price range, click “Full Range”
+Usando esta sección, puedes verificar cuánta liquidez se ha depositado a diferentes rangos de precios y idear y establecer el rango de precios al que estás proporcionando liquidez.
 
-### ⓺ Flip the price direction to view prices with different base <a href="#id-5c3bdfaf-bd66-4942-873d-d617eeeab53d" id="id-5c3bdfaf-bd66-4942-873d-d617eeeab53d"></a>
+Puedes encontrar el gráfico de distribución debajo del título. Cuanto mayor sea la cantidad de liquidez, más alto será el gráfico.
 
-![](../../.gitbook/assets/flip-directions.gif)
+Puedes cambiar tu configuración de rango de precios:
 
-For some token pairs, it is easier and more intuitive to view prices with certain base tokens. For example, for BNB/USDT pair, most people will prefer to view prices in “how many USDT per BNB” instead of the other way around.
+* Arrastrando los dos controles del gráfico para aumentar o disminuir el límite de precio mínimo y máximo.
+* Usando el espacio entre dos controles para desplazar el rango seleccionado.
+* Haciendo clic en los botones + y - en los campos de precio mínimo y máximo.
+* Haciendo clic en los números en los campos de precio e ingresándolos manualmente.
 
-You can easily flip the price displays. Simply click the button following the “View prices in:” to switch the base between two tokens in the pair.
+Si deseas navegar por el gráfico de distribución:
 
-### ⓻ Import and export (apply) your settings <a href="#d18cf936-315e-4432-a3a5-f65976651073" id="d18cf936-315e-4432-a3a5-f65976651073"></a>
+1. Usa los botones de lupa más y menos para acercar y alejar
+2. Arrastra el eje X (inferior) para desplazarte a la izquierda y a la derecha
 
-![](../../.gitbook/assets/apply-settings.gif)
+Si deseas proporcionar liquidez en todo el rango de precios, haz clic en "Rango Completo".
 
-When you open the ROI calculator in the “Add Liquidity” window, or by viewing an existing position, the following settings will be automatically imported so you don’t need to set them again:
+### ⓺ Cambiar la dirección del precio para ver precios con diferente base <a href="#id-5c3bdfaf-bd66-4942-873d-d617eeeab53d" id="id-5c3bdfaf-bd66-4942-873d-d617eeeab53d"></a>
 
-1. The amount of assets you are depositing
-2. The price range
-3. The selected fee tier
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/flip-directions.gif)
 
-When you finish configuring in the ROI calculator, you can click “Apply Settings” to quickly apply the settings from the calculator back to the “Add Liquidity” window so you don’t need to match them manually.
+Para algunos pares de tokens, es más fácil e intuitivo ver los precios con ciertos tokens base. Por ejemplo, para el par BNB/USDT, la mayoría de las personas preferirá ver los precios en "cuántos USDT por BNB" en lugar de al revés.
 
-### ⓼ Calculate farming rewards and APR <a href="#id-584c385b-5f76-42e5-8751-8344d6bd4749" id="id-584c385b-5f76-42e5-8751-8344d6bd4749"></a>
+Puedes cambiar fácilmente los displays de precio. Simplemente haz clic en el botón que sigue a "Ver precios en:" para cambiar la base entre los dos tokens del par.
 
-Farming rewards will be included in the calculations if you bring up the ROI calculator under the “Farm” page.
+### ⓻ Importar y exportar (aplicar) tu configuración <a href="#d18cf936-315e-4432-a3a5-f65976651073" id="d18cf936-315e-4432-a3a5-f65976651073"></a>
 
-You can expand the detail sections to see the rewards breakdown.
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/apply-settings.gif)
 
-<figure><img src="../../.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure>
+Cuando abres la calculadora de ROI en la ventana de "Agregar Liquidez", o al ver una posición existente, la siguiente configuración se importará automáticamente para que no necesites configurarla de nuevo:
+
+1. La cantidad de activos que estás depositando
+2. El rango de precios
+3. El nivel de comisión seleccionado
+
+Cuando termines de configurar en la calculadora de ROI, puedes hacer clic en "Aplicar Configuración" para aplicar rápidamente los ajustes de la calculadora de vuelta a la ventana de "Agregar Liquidez" para que no necesites coincidirlos manualmente.
+
+### ⓼ Calcular recompensas de farming y APR <a href="#id-584c385b-5f76-42e5-8751-8344d6bd4749" id="id-584c385b-5f76-42e5-8751-8344d6bd4749"></a>
+
+Las recompensas de farming se incluirán en los cálculos si abres la calculadora de ROI en la página de "Granja".
+
+Puedes expandir las secciones de detalle para ver el desglose de recompensas.
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28156%29.png" alt=""><figcaption></figcaption></figure>

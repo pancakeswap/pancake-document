@@ -2,100 +2,100 @@
 hidden: true
 ---
 
-# CAKE Syrup Pool FAQ
+# FAQ del CAKE Syrup Pool
 
 ## FAQ
 
-### What lock duration can we choose?
+### ¿Qué duración de bloqueo podemos elegir?
 
-You can choose from 1-52 weeks. What do you prefer?
+Puedes elegir entre 1 y 52 semanas. ¿Cuál prefieres?
 
-### What variables affect the new CAKE Syrup Pool yield %s (Flexible and Fixed-Term Staking options)?
+### ¿Qué variables afectan los rendimientos % del nuevo CAKE Syrup Pool (opciones de Staking Flexible y a Plazo Fijo)?
 
-Since flexible staking and fixed-term staking options are part of the same pool, the following variables affect the yield% (APR/APY) of both:
+Dado que las opciones de staking flexible y a plazo fijo son parte del mismo pool, las siguientes variables afectan el rendimiento % (APR/APY) de ambas:
 
-* Total CAKE staked in flexible staking and fixed-term staking (the sum of both). The more CAKE staked, the lower the APR/APY.
-* Total locked CAKE in fixed-term staking. The more CAKE locked means more yield boosts, resulting in fewer CAKE rewards for others (especially flexible staking).
-* The average lock duration of all CAKE locked in fixed-term staking. If the average lock duration increases, APR/APY will decrease.
+* Total de CAKE en staking en el staking flexible y a plazo fijo (la suma de ambos). Cuanto más CAKE esté en staking, menor será el APR/APY.
+* Total de CAKE bloqueado en el staking a plazo fijo. Cuanto más CAKE bloqueado, más impulsos de rendimiento, lo que resulta en menos recompensas de CAKE para otros (especialmente el staking flexible).
+* La duración promedio de bloqueo de todo el CAKE bloqueado en el staking a plazo fijo. Si la duración promedio de bloqueo aumenta, el APR/APY disminuirá.
 
-### Can I harvest the rewards during the locked period?
+### ¿Puedo cosechar las recompensas durante el período de bloqueo?
 
-No. You can harvest the rewards only when the locked duration is ended. This is based on the yield/return we are providing as well as the technical implementations.
+No. Solo puedes cosechar las recompensas cuando la duración del bloqueo haya terminado. Esto se basa en el rendimiento/retorno que proporcionamos, así como en las implementaciones técnicas.
 
-### Can I extend the lock duration?
+### ¿Puedo extender la duración del bloqueo?
 
-Yes. Extending the lock duration adds more time to your **initial lock duration**. When choosing to extend your lock duration, note:
+Sí. Extender la duración del bloqueo agrega más tiempo a tu **duración de bloqueo inicial**. Al elegir extender la duración del bloqueo, ten en cuenta:
 
-New extended lock duration = initial lock duration + added duration
+Nueva duración de bloqueo extendida = duración de bloqueo inicial + duración añadida
 
-### Can I remove my CAKE from Fixed-Term staking via contract if I change my mind?
+### ¿Puedo retirar mi CAKE del staking a Plazo Fijo a través del contrato si cambio de opinión?
 
-No. Your CAKE cannot be removed or withdrawn from fixed-term staking at any point in time until your lock duration ends and your CAKE is unlocked.
+No. Tu CAKE no puede ser retirado del staking a plazo fijo en ningún momento hasta que la duración de tu bloqueo termine y tu CAKE sea desbloqueado.
 
-### What is the "CAKE Locked" amount?
+### ¿Qué es el monto "CAKE Bloqueado"?
 
-The "CAKE Locked" amount is a user's initial locked CAKE balance plus CAKE rewards to date.&#x20;
+El monto "CAKE Bloqueado" es el saldo inicial de CAKE bloqueado del usuario más las recompensas de CAKE hasta la fecha.
 
-CAKE Locked = Initial locked CAKE balance + CAKE rewards
+CAKE Bloqueado = Saldo inicial de CAKE bloqueado + Recompensas de CAKE
 
-When adding more CAKE to fixed-term staking, the "CAKE to be locked" amount is the user's initial locked CAKE balance, CAKE rewards to date, and the CAKE being added.
+Al agregar más CAKE al staking a plazo fijo, el monto "CAKE a bloquear" es el saldo inicial de CAKE bloqueado del usuario, las recompensas de CAKE hasta la fecha y el CAKE que se está agregando.
 
-### Can the Fixed-Term Staking CAKE pool APR change after I lock my CAKE?
+### ¿Puede cambiar el APR del pool de CAKE a Plazo Fijo después de que bloqueo mi CAKE?
 
-Yes, the fixed-term staking CAKE pool APR is variable, just like the old CAKE pools. The fixed-term staking CAKE pool APR is not fixed and is dependent on:
+Sí, el APR del pool de CAKE a plazo fijo es variable, al igual que los pools de CAKE anteriores. El APR del pool de CAKE a plazo fijo no es fijo y depende de:
 
-* Total CAKE staked in the CAKE pool (the sum of both Flexible + Fixed-Term Staking).
-* The average lock duration of all CAKE locked in fixed-term staking.
-* A yield boost (similar to a multiplier) calculated from a user's initial lock duration. The longer you lock your CAKE, the higher the yield boost.
+* Total de CAKE en staking en el pool de CAKE (la suma de Staking Flexible + a Plazo Fijo).
+* La duración promedio de bloqueo de todo el CAKE bloqueado en el staking a plazo fijo.
+* Un impulso de rendimiento (similar a un multiplicador) calculado desde la duración de bloqueo inicial del usuario. Cuanto más tiempo bloquees tu CAKE, mayor será el impulso de rendimiento.
 
-For example, if you lock your CAKE for 52 weeks, your yield boost will be larger than if you lock your CAKE for 26 weeks. The yield boost increases linearly the longer you lock your CAKE.
+Por ejemplo, si bloqueas tu CAKE por 52 semanas, tu impulso de rendimiento será mayor que si bloqueas tu CAKE por 26 semanas. El impulso de rendimiento aumenta linealmente cuanto más tiempo bloquees tu CAKE.
 
-### Can I still participate in IFOs if my CAKE is locked in the Fixed-Term Staking pool, or will I need to buy more CAKE?
+### ¿Puedo aún participar en IFOs si mi CAKE está bloqueado en el pool de Staking a Plazo Fijo, o necesitaré comprar más CAKE?
 
-No, a separate amount of CAKE is needed. However, locked-staking provides entry for IFO public sales. Check out [iCAKE](../../../welcome-to-pancakeswap/vecake-sunset/icake.md).
+No, se necesita una cantidad separada de CAKE. Sin embargo, el staking bloqueado proporciona entrada para las ventas públicas de IFO. Consulta [iCAKE](../../../welcome-to-pancakeswap/vecake-sunset/icake.md).
 
-### Can I vote if my CAKE is locked in the Fixed-Term Staking pool?
+### ¿Puedo votar si mi CAKE está bloqueado en el pool de Staking a Plazo Fijo?
 
-Yes! Check out [vCAKE](../../../welcome-to-pancakeswap/vecake-sunset/archive-vecake/vecake.md).
+¡Sí! Consulta [vCAKE](../../../welcome-to-pancakeswap/vecake-sunset/archive-vecake/vecake.md).
 
-### Can I use both the Flexible Staking CAKE pool and the Fixed-Term Staking CAKE pool at the same time?
+### ¿Puedo usar tanto el pool de CAKE de Staking Flexible como el pool de CAKE de Staking a Plazo Fijo al mismo tiempo?
 
-Yes, when you are doing fixed-term CAKE staking. A flexible CAKE staking side-pool will automatically appear for you to choose from.
+Sí, cuando estás haciendo staking de CAKE a plazo fijo. Un pool lateral de staking flexible de CAKE aparecerá automáticamente para que lo elijas.
 
-### Is there a fee for converting Flexible Staked CAKE to Fixed-Term Staked CAKE?
+### ¿Hay alguna tarifa por convertir CAKE en Staking Flexible a CAKE en Staking a Plazo Fijo?
 
-No. There are no additional fees for moving CAKE from flexible staking to fixed-term staking, only gas fees.
+No. No hay tarifas adicionales por mover CAKE del staking flexible al staking a plazo fijo, solo tarifas de gas.
 
-### What happens at the end of the lock duration? What is "After Burning"?
+### ¿Qué sucede al final de la duración del bloqueo? ¿Qué es "After Burning"?
 
 {% hint style="warning" %}
-**After Burning will burn the future CAKE rewards and the CAKE rewards already earned.** To avoid losing any CAKE rewards you already earned, we recommend starting a new fixed-term staking period or converting your CAKE to flexible staking at the end of your lock staking period.
+**After Burning quemará las futuras recompensas de CAKE y las recompensas de CAKE ya ganadas.** Para evitar perder cualquier recompensa de CAKE que ya hayas ganado, te recomendamos iniciar un nuevo período de staking a plazo fijo o convertir tu CAKE a staking flexible al final de tu período de staking bloqueado.
 {% endhint %}
 
-When your fixed-term staking period ends, and your CAKE unlocks, you have 7 days to complete one of two options:
+Cuando tu período de staking a plazo fijo termina y tu CAKE se desbloquea, tienes 7 días para completar una de dos opciones:
 
-* Lock your CAKE to begin a new fixed-term staking period\
-  or
-* Convert your staked CAKE to flexible staking (no 72-hour withdrawal fee).
+* Bloquear tu CAKE para comenzar un nuevo período de staking a plazo fijo\
+  o
+* Convertir tu CAKE en staking a staking flexible (sin tarifa de retiro de 72 horas).
 
-![](<../../../.gitbook/assets/Locked - lock ended - before after burning.png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Locked%20-%20lock%20ended%20-%20before%20after%20burning.png)
 
-During these 7 days, you will still earn CAKE.
+Durante estos 7 días, seguirás ganando CAKE.
 
-After 7 days, if you have not done one of the two options, your staked CAKE will enter what is called "After Burning". **With "After Burning", your CAKE rewards (including the rewards already earned) will start to be sent to burn.** The % of CAKE rewards being sent to burn will linearly increase in the 90 days "After Burning" period until it reaches 100%, which means all the CAKE rewards are burnt.
+Después de 7 días, si no has realizado ninguna de las dos opciones, tu CAKE en staking entrará en lo que se llama "After Burning". **Con "After Burning", tus recompensas de CAKE (incluidas las recompensas ya ganadas) comenzarán a ser enviadas a quemar.** El % de recompensas de CAKE enviadas a quemar aumentará linealmente durante el período de 90 días de "After Burning" hasta llegar al 100%, lo que significa que todas las recompensas de CAKE se queman.
 
-So, to avoid missing out on CAKE rewards, we recommend starting a new fixed-term staking period or converting your CAKE to flexible staking at the end of your lock staking period.
+Por lo tanto, para no perderte las recompensas de CAKE, te recomendamos iniciar un nuevo período de staking a plazo fijo o convertir tu CAKE a staking flexible al final de tu período de staking bloqueado.
 
-Here is an example:
+Aquí tienes un ejemplo:
 
-> John staked 100 CAKE for 52 weeks, he earned 50 CAKE during his staking period, and now the staking period has expired.&#x20;
+> Juan hizo staking de 100 CAKE por 52 semanas, ganó 50 CAKE durante su período de staking, y ahora el período de staking ha expirado.&#x20;
 >
-> He then didn't perform any actions, and his position went into "After Burning" mode.
+> Luego no realizó ninguna acción, y su posición entró en el modo "After Burning".
 >
-> During the 90-day After Burning period, all of the 50 CAKE he earned will be burned gradually along with any new CAKE earned.&#x20;
+> Durante el período de 90 días de After Burning, todos los 50 CAKE que ganó se quemarán gradualmente junto con cualquier nuevo CAKE ganado.&#x20;
 >
-> After 90 days, the rewards he actually earns will become 0. However, the 100 CAKE he initially deposited will not be affected.
+> Después de 90 días, las recompensas que realmente gana se volverán 0. Sin embargo, los 100 CAKE que depositó inicialmente no se verán afectados.
 >
-> Start a new fixed-term staking period or convert to flexible staking, and don't be like John.
+> Inicia un nuevo período de staking a plazo fijo o convierte a staking flexible, ¡y no seas como Juan!
 
-![](<../../../.gitbook/assets/Locked - lock ended - after burning started.png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Locked%20-%20lock%20ended%20-%20after%20burning%20started.png)

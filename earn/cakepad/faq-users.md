@@ -1,71 +1,71 @@
-# FAQ (Users)
+# FAQ (Usuarios)
 
-### 1. What is a CAKE.PAD event?
+### 1. ¿Qué es un evento CAKE.PAD?
 
-* A CAKE.PAD event lets users get early access to new project tokens right as they launch.
-* Users obtain new project tokens with **CAKE**.
-* Projects gain liquidity, visibility, and direct access to PancakeSwap’s community.
-* This can take place on BNB, Base, ARB, ETH, Linea, or opBNB
+* Un evento CAKE.PAD permite a los usuarios obtener acceso anticipado a tokens de nuevos proyectos justo cuando se lanzan.
+* Los usuarios obtienen nuevos tokens del proyecto con **CAKE**.
+* Los proyectos obtienen liquidez, visibilidad y acceso directo a la comunidad de PancakeSwap.
+* Puede realizarse en BNB, Base, ARB, ETH, Linea u opBNB.
 
-### 2. Who is eligible to participate?
+### 2. ¿Quién es elegible para participar?
 
-* Anyone holding **CAKE**.
-* No NFT profile required.
-* No CAKE staking needed.
-* Designed as a **fair launch** for all participants.
+* Cualquier persona que tenga **CAKE**.
+* No se requiere perfil NFT.
+* No se necesita staking de CAKE.
+* Diseñado como un **lanzamiento justo** para todos los participantes.
 
-### 3. What are the benefits of participating in a CAKE.PAD event?
+### 3. ¿Cuáles son los beneficios de participar en un evento CAKE.PAD?
 
-* Access new tokens early using **CAKE**.
-* Potential to acquire assets at favorable entry prices before wider trading.
+* Accede a nuevos tokens de forma anticipada usando **CAKE**.
+* Potencial de adquirir activos a precios favorables de entrada antes del trading más amplio.
 
-### 4. How long does a CAKE.PAD event last?
+### 4. ¿Cuánto dura un evento CAKE.PAD?
 
-* Typically **24 hours** (may be adjusted if needed).
+* Típicamente **24 horas** (puede ajustarse si es necesario).
 
-### 5. What happens if the CAKE.PAD event is oversubscribed?
+### 5. ¿Qué sucede si el evento CAKE.PAD tiene sobreinscripción?
 
-* A [**Tiered Tax** ](how-cake.pad-taxes-work-in-overflow-sales-with-example.md)applies **only to excess committed funds**.
-* The project receives **100% of its target raise**.
-* Tax rates decrease as oversubscription increases (from 1% down to 0.05%).
+* Se aplica un [**Impuesto Escalonado**](how-cake.pad-taxes-work-in-overflow-sales-with-example.md) **solo a los fondos comprometidos en exceso**.
+* El proyecto recibe **el 100% de su objetivo de recaudación**.
+* Las tasas de impuesto disminuyen a medida que aumenta la sobreinscripción (del 1% hasta el 0,05%).
 
-### 6. What is the smallest amount of CAKE.PAD partner token allocation possible?
+### 6. ¿Cuál es la asignación mínima posible de tokens del socio CAKE.PAD?
 
-* Minimum CAKE.PAD partner token allocation = [**1 wei**](https://www.investopedia.com/terms/w/wei.asp)**.**
-* Committing a very small amount of CAKE compared to total commitments may result in receiving **no tokens**. In such cases, all committed CAKE will be refunded.
+* Asignación mínima de tokens del socio CAKE.PAD = [**1 wei**](https://www.investopedia.com/terms/w/wei.asp)**.**
+* Comprometer una cantidad muy pequeña de CAKE en comparación con los compromisos totales puede resultar en no recibir **ningún token**. En tales casos, todo el CAKE comprometido será devuelto.
 
-### 7. What is the participating asset?
+### 7. ¿Cuál es el activo de participación?
 
-* All CAKE.PAD events use **CAKE**.
+* Todos los eventos CAKE.PAD usan **CAKE**.
 
-### 8. What is the “Overflow” Sale Method?
+### 8. ¿Qué es el Método de Venta por "Desbordamiento"?
 
-* Users can commit any amount of CAKE.
-* Token allocation is proportional to how much CAKE a user committed versus the total pool at the end of the event.
-* Any leftover CAKE is refunded when claiming tokens after the sale. See [here](how-cake.pad-taxes-work-in-overflow-sales-with-example.md) for a numerical example
-* If heavily oversubscribed, small commitments may receive little or no allocation.
+* Los usuarios pueden comprometer cualquier cantidad de CAKE.
+* La asignación de tokens es proporcional a cuánto CAKE comprometió un usuario en comparación con el pool total al final del evento.
+* Cualquier CAKE sobrante es devuelto al reclamar los tokens después de la venta. Consulta [aquí](how-cake.pad-taxes-work-in-overflow-sales-with-example.md) para un ejemplo numérico.
+* Si hay mucha sobreinscripción, los compromisos pequeños pueden recibir poca o ninguna asignación.
 
-### 9. What happens if the CAKE.PAD event doesn't raise all targeted funds?
+### 9. ¿Qué sucede si el evento CAKE.PAD no recauda todos los fondos objetivo?
 
-* The sale proceeds normally. All contributed funds are used.
-* No participation fee is charged.
+* La venta procede normalmente. Se usan todos los fondos aportados.
+* No se cobra ninguna tarifa de participación.
 
-**Participants:** Receive CAKE.PAD partner tokens.
+**Participantes:** Reciben tokens del socio CAKE.PAD.
 
-CAKE.PAD **Partner Project:** Receives leftover tokens and CAKE from the sale.
+**Proyecto Socio** CAKE.PAD: Recibe los tokens restantes y el CAKE de la venta.
 
-### 10. Do CAKE.PAD events support lockups with cliff schedules?
+### 10. ¿Los eventos CAKE.PAD admiten bloqueos con cronogramas de cliff?
 
-* Yes, the framework supports lockups and cliff schedules.
-* Current CAKE.PAD event launches are conducted **without any lockup**.
+* Sí, el marco admite bloqueos y cronogramas de cliff.
+* Los lanzamientos actuales de eventos CAKE.PAD se realizan **sin ningún bloqueo**.
 
-### 11. When will I receive my purchased tokens?
+### 11. ¿Cuándo recibiré mis tokens comprados?
 
-* Tokens are available **immediately after the** CAKE.PAD event **ends** (if no vesting).
-* Users must manually claim tokens via the PancakeSwap interface.
-* For CAKE.PAD events with vesting, the schedule is displayed on the CAKE.PAD event page.
-  * See [Vesting](cakepad-guide.md#ifo-with-token-vesting) for more info
+* Los tokens están disponibles **inmediatamente después de que** el evento CAKE.PAD **termine** (si no hay vesting).
+* Los usuarios deben reclamar los tokens manualmente a través de la interfaz de PancakeSwap.
+* Para los eventos CAKE.PAD con vesting, el cronograma se muestra en la página del evento CAKE.PAD.
+  * Consulta [Vesting](cakepad-guide.md#ifo-with-token-vesting) para más información.
 
-### 12. Where can I trade CAKE.PAD partner tokens?
+### 12. ¿Dónde puedo intercambiar los tokens del socio CAKE.PAD?
 
-* CAKE.PAD partner tokens are seeded and listed on PancakeSwap as soon as the CAKE.PAD event ends.
+* Los tokens del socio CAKE.PAD se siembran y listan en PancakeSwap tan pronto como el evento CAKE.PAD termine.

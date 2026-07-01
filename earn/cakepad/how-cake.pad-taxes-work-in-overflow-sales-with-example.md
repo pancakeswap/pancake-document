@@ -1,72 +1,72 @@
-# How CAKE.PAD Taxes Work in Overflow Sales – With Example
+# Cómo Funcionan los Impuestos CAKE.PAD en las Ventas por Desbordamiento – Con Ejemplo
 
-1. Taxes are only charged **if the** CAKE.PAD event **is oversubscribed**
-   1. Oversubscription = Total deposits by all users > Raise goal amount.
-   * Tax is only deducted from participants' excess committed funds. No fees are paid by the CAKE.PAD partner project.
-   * The CAKE.PAD partner project receives 100% of its targeted raise amount.
-   * CAKE.PAD taxes are collected in CAKE, and 100% of it will be burned.
-   * Fees are based on the **total subscription rate of the pool** (% of raise goal):
+1. Los impuestos solo se cobran **si el** evento CAKE.PAD **tiene sobreinscripción**
+   1. Sobreinscripción = Total de depósitos por todos los usuarios > Monto objetivo de recaudación.
+   * El impuesto solo se deduce de los fondos comprometidos en exceso de los participantes. Ninguna comisión la paga el proyecto socio CAKE.PAD.
+   * El proyecto socio CAKE.PAD recibe el 100% de su monto objetivo de recaudación.
+   * Los impuestos CAKE.PAD se cobran en CAKE, y el 100% se quemará.
+   * Las comisiones se basan en la **tasa de suscripción total del pool** (% del objetivo de recaudación):
 
-**Oversubscription rate <> Fee Tier**&#x20;
+**Tasa de Sobreinscripción <> Nivel de Tarifa**&#x20;
 
-<table data-full-width="false"><thead><tr><th>Oversubscription Rate</th><th>Fee Tier</th></tr></thead><tbody><tr><td>≥ 0x</td><td>1.00%</td></tr><tr><td>≥ 50x</td><td>0.80%</td></tr><tr><td>≥ 100x</td><td>0.60%</td></tr><tr><td>≥ 150x</td><td>0.50%</td></tr><tr><td>≥ 200x</td><td>0.40%</td></tr><tr><td>≥ 250x</td><td>0.30%</td></tr><tr><td>≥ 300x</td><td>0.25%</td></tr><tr><td>≥ 400x</td><td>0.20%</td></tr><tr><td>≥ 500x</td><td>0.15%</td></tr><tr><td>≥ 650x</td><td>0.12%</td></tr><tr><td>≥ 800x</td><td>0.10%</td></tr><tr><td>≥ 1500x</td><td>0.05%</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th>Tasa de Sobreinscripción</th><th>Nivel de Tarifa</th></tr></thead><tbody><tr><td>≥ 0x</td><td>1,00%</td></tr><tr><td>≥ 50x</td><td>0,80%</td></tr><tr><td>≥ 100x</td><td>0,60%</td></tr><tr><td>≥ 150x</td><td>0,50%</td></tr><tr><td>≥ 200x</td><td>0,40%</td></tr><tr><td>≥ 250x</td><td>0,30%</td></tr><tr><td>≥ 300x</td><td>0,25%</td></tr><tr><td>≥ 400x</td><td>0,20%</td></tr><tr><td>≥ 500x</td><td>0,15%</td></tr><tr><td>≥ 650x</td><td>0,12%</td></tr><tr><td>≥ 800x</td><td>0,10%</td></tr><tr><td>≥ 1500x</td><td>0,05%</td></tr></tbody></table>
 
 
 
-2. **Time period – When is tax charged**
+2. **Período de tiempo – Cuándo se cobra el impuesto**
 
-* Tax is charged at the **end of the** CAKE.PAD event, when the user redeems their allocation.
-* Even if a user subscribes early (e.g., when the subscription is 30% of the raise goal), the final tax is based on the **final pool oversubscription level**.
-  * Example: If the pool ends up at 50x over-subscribed, the applicable tax is the 50x tier (0.8%).
+* El impuesto se cobra al **final del** evento CAKE.PAD, cuando el usuario canjea su asignación.
+* Incluso si un usuario se suscribe temprano (p. ej., cuando la suscripción es del 30% del objetivo de recaudación), el impuesto final se basa en el **nivel final de sobreinscripción del pool**.
+  * Ejemplo: Si el pool termina con una sobreinscripción de 50x, el impuesto aplicable es el nivel de 50x (0,8%).
 
-#### Calculation Steps
+#### Pasos de Cálculo
 
-1.  **User allocation** = % of total CAKE.PAD partner token pool the user receives
+1.  **Asignación del usuario** = % del pool total de tokens del socio CAKE.PAD que recibe el usuario
 
     ```jsx
     user_allocation = user_deposit_amount / totalAmountPool
     ```
-2.  **User pay amount** = Portion of the user’s deposit used to redeem CAKE.PAD partner tokens
+2.  **Monto a pagar por el usuario** = Porción del depósito del usuario utilizado para canjear tokens del socio CAKE.PAD
 
     ```jsx
     user_pay_amount = raisingAmountPool * user_allocation
     ```
-3.  **Refund amount** = Excess from the user’s deposit not used for CAKE.PAD partner token purchase
+3.  **Monto de reembolso** = Exceso del depósito del usuario no utilizado para comprar tokens del socio CAKE.PAD
 
     ```jsx
     refund_amount = user_deposit_amount - user_pay_amount
     ```
-4.  **Tax amount** = Deduction applied on the user’s refunded amount
+4.  **Monto del impuesto** = Deducción aplicada sobre el monto reembolsado al usuario
 
-    * Fee tier is based on the % of raise goal (see table above).
+    * El nivel de tarifa se basa en el % del objetivo de recaudación (ver tabla arriba).
 
     ```jsx
     tax_amount = fee tier * refund_amount
     ```
-5.  **Final output for the user**
+5.  **Resultado final para el usuario**
 
     ```jsx
     1. Token allocation = user_allocation * totalTokensOffered
     2. User tax amount = tax_amount
-    3. final_refund = refund_amount - tax_amount (if applicable, else = refund_amount)
+    3. final_refund = refund_amount - tax_amount (si aplica, de lo contrario = refund_amount)
     ```
 
-#### Numerical Example
+#### Ejemplo Numérico
 
-* **Target raise (raisingAmountPool):** 100 CAKE
-* **Your deposit (user\_deposit\_amount):** 10 CAKE
-* **Total deposits incl. of Your deposit (totalAmountPool):** 5,100 CAKE (51x subscribed = 5,100% of raise goal, implies 50x oversubscription rate)
-  * Corresponding fee tier = 0.80% (based on the tax rate table above)
+* **Objetivo de recaudación (raisingAmountPool):** 100 CAKE
+* **Tu depósito (user\_deposit\_amount):** 10 CAKE
+* **Total de depósitos incl. tu depósito (totalAmountPool):** 5,100 CAKE (51x suscrito = 5,100% del objetivo de recaudación, implica una tasa de sobreinscripción de 50x)
+  * Nivel de tarifa correspondiente = 0,80% (según la tabla de tasas de impuesto arriba)
 
-**Steps:**
+**Pasos:**
 
-1. `user_allocation = 10 / 5,100 = 0.00196 (0.196% pool allocation)`
+1. `user_allocation = 10 / 5,100 = 0.00196 (asignación del pool del 0,196%)`
 2. `user_pay_amount = 100 × 0.00196 = 0.196 CAKE`
 3. `refund_amount = 10 − 0.196 = 9.804 CAKE`
 4. `tax_amount = 9.804 × 0.008 = 0.0784 CAKE`
 5. `final_refund = 9.804 − 0.0784 = ~9.72 CAKE`
 
-**Final User received amounts**
+**Montos finales recibidos por el usuario**
 
-1. **Token allocation:** 0.196 CAKE worth of CAKE.PAD partner tokens
-2. **Final refund:** \~9.72 CAKE (from 10 CAKE deposit − 0.196 CAKE for token allocation − 0.0784 CAKE tax)
+1. **Asignación de tokens:** 0,196 CAKE en valor de tokens del socio CAKE.PAD
+2. **Reembolso final:** \~9,72 CAKE (de un depósito de 10 CAKE − 0,196 CAKE para la asignación de tokens − 0,0784 CAKE de impuesto)

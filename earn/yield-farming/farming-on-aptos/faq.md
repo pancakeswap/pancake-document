@@ -1,35 +1,35 @@
 # FAQ
 
-<figure><img src="../../../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28206%29.png" alt=""><figcaption></figcaption></figure>
 
-### **How do I bridge assets to Aptos and provide liquidity?**
+### **¿Cómo puenteo activos a Aptos y proporciono liquidez?**
 
-Please check out the guide for how to [Get Aptos Coins](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos/aptos-coin-guide.md).
+Por favor consulta la guía de cómo [Obtener Monedas de Aptos](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos/aptos-coin-guide.md).
 
-### How do I bridge the earned CAKE back to BNB Smart Chain?
+### ¿Cómo puenteo el CAKE ganado de vuelta a BNB Smart Chain?
 
-Please check out the [CAKE Bridging Guide](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos/cake-bridging-guide.md).
+Por favor consulta la [Guía de Puenteo de CAKE](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos/cake-bridging-guide.md).
 
-If you are trying to bridge other assets, please check out the guide for [Get Aptos Coin](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos/aptos-coin-guide.md). You will find various bridging solutions work both ways for many popular assets.
+Si estás intentando puentear otros activos, por favor consulta la guía de [Obtener Moneda de Aptos](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos/aptos-coin-guide.md). Encontrarás varias soluciones de puenteo que funcionan en ambas direcciones para muchos activos populares.
 
-### **Will there be more pairs?**
+### **¿Habrá más pares?**
 
-Yes, but we will be deploying in steps to ensure we prioritize the safety of user funds and CAKE inflation. Do let us know in the community chats what you think should be added to PancakeSwap on Aptos.&#x20;
+Sí, pero desplegaremos en pasos para asegurarnos de priorizar la seguridad de los fondos de los usuarios y la inflación de CAKE. Comunícanos en los chats de la comunidad qué crees que debería agregarse a PancakeSwap en Aptos.
 
-If you are a project building on Aptos looking to incentivize the liquidity of your token, check out [this](/broken/pages/VB58XNVaU1vlrJ3RcHif) guide and get in touch with us!
+Si eres un proyecto que construye en Aptos y buscas incentivar la liquidez de tu token, consulta [esta](/broken/pages/VB58XNVaU1vlrJ3RcHif) guía y ¡ponte en contacto con nosotros!
 
-### Why there isn't an "Enable" button?
+### ¿Por qué no hay un botón "Habilitar"?
 
-On Aptos, coins don't have to be enabled/approved for spending. So there is no need to enable contract spending on farms. Simply click the "deposit" button to start farming.
+En Aptos, las monedas no tienen que habilitarse/aprobarse para el gasto. Por lo tanto, no es necesario habilitar el gasto del contrato en las granjas. Simplemente haz clic en el botón "depositar" para comenzar a hacer farming.
 
-### Do I earn CAKE on natively Aptos?&#x20;
+### ¿Gano CAKE de forma nativa en Aptos?
 
-Yes, unlike crosschain farming, you will earn CAKE rewards natively on Aptos.&#x20;
+Sí, a diferencia del farming multicadena, ganarás recompensas de CAKE de forma nativa en Aptos.
 
-With our multichain expansion and deployment on Aptos. CAKE is now a multichain token that exists both on BNB Smart Chain and Aptos.&#x20;
+Con nuestra expansión multicadena y despliegue en Aptos, CAKE es ahora un token multicadena que existe tanto en BNB Smart Chain como en Aptos.
 
-CAKE on Aptos is equal to CAKE on BNB Smart Chain and can always be bridged between two chains with a 1:1 ratio.&#x20;
+CAKE en Aptos es igual a CAKE en BNB Smart Chain y siempre puede puentearse entre las dos cadenas con una proporción 1:1.
 
-Please note that there is only one CAKE. There are no different versions of CAKE between different chains. And the total supply of CAKE across all blockchains will be capped at 750M, according to our v2 tokenomic litepaper.
+Ten en cuenta que solo hay un CAKE. No hay diferentes versiones de CAKE entre diferentes cadenas. Y el suministro total de CAKE en todas las blockchains estará limitado a 750M, según nuestro libro blanco de tokenomics v2.
 
-To bridge your CAKE to BNB Smart Chain, check out the [CAKE bridging guide](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos/cake-bridging-guide.md).
+Para puentear tu CAKE a BNB Smart Chain, consulta la [guía de puenteo de CAKE](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos/cake-bridging-guide.md).

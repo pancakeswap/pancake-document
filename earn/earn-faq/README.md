@@ -1,2 +1,2 @@
-# ❓ Earn FAQ
+# ❓ FAQ de Ganancias
 

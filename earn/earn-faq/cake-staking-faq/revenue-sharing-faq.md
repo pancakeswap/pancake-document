@@ -2,61 +2,61 @@
 hidden: true
 ---
 
-# Revenue Sharing FAQ
+# FAQ de Distribución de Ingresos
 
-<figure><img src="../../../.gitbook/assets/faq-revenuesharing.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/faq-revenuesharing.png" alt=""><figcaption></figcaption></figure>
 
-### How are the shares (rCAKE) calculated? <a href="#id-50b7c683-feb0-47f6-809f-39c1a0976bb5" id="id-50b7c683-feb0-47f6-809f-39c1a0976bb5"></a>
+### ¿Cómo se calculan las participaciones (rCAKE)? <a href="#id-50b7c683-feb0-47f6-809f-39c1a0976bb5" id="id-50b7c683-feb0-47f6-809f-39c1a0976bb5"></a>
 
-Upon each weekly distribution, each user’s shares are re-calculated based on:
+En cada distribución semanal, las participaciones de cada usuario se recalculan basándose en:
 
-1. The amount of locked CAKE they have
-2. The remaining lock duration of their locked CAKE rounded down to weeks, and the maximum allowed lock time (currently 52 weeks)
+1. La cantidad de CAKE bloqueado que tienen
+2. La duración de bloqueo restante de su CAKE bloqueado redondeada hacia abajo a semanas, y el tiempo máximo de bloqueo permitido (actualmente 52 semanas)
 
-For example:
+Por ejemplo:
 
-If a user has 50 CAKE locked and the remaining lock time is 10.3 weeks, then the user has `50 * (10 / 52 ) ~= 9.61` shares.
+Si un usuario tiene 50 CAKE bloqueados y el tiempo de bloqueo restante es de 10,3 semanas, entonces el usuario tiene `50 * (10 / 52 ) ~= 9,61` participaciones.
 
-### I’ve updated my position; why do I still have 0 shares? <a href="#cae64522-4729-43a2-8fa8-6bbd2567dcea" id="cae64522-4729-43a2-8fa8-6bbd2567dcea"></a>
+### Actualicé mi posición, ¿por qué todavía tengo 0 participaciones? <a href="#cae64522-4729-43a2-8fa8-6bbd2567dcea" id="cae64522-4729-43a2-8fa8-6bbd2567dcea"></a>
 
-Shares (rCAKE) are updated upon each weekly distribution at 23:59 UTC every Wednesday. Check back again after the very next weekly distribution to view your updated shares.
+Las participaciones (rCAKE) se actualizan en cada distribución semanal a las 23:59 UTC todos los miércoles. Vuelve después de la próxima distribución semanal para ver tus participaciones actualizadas.
 
-### Why are my shares being 0 despite having an active staking position? <a href="#id-9f2843b7-1a26-4248-8c3e-f5343b2de92e" id="id-9f2843b7-1a26-4248-8c3e-f5343b2de92e"></a>
+### ¿Por qué mis participaciones son 0 a pesar de tener una posición de staking activa? <a href="#id-9f2843b7-1a26-4248-8c3e-f5343b2de92e" id="id-9f2843b7-1a26-4248-8c3e-f5343b2de92e"></a>
 
-When calculating shares (rCAKE), the remaining lock duration is rounded down to weeks. Therefore to receive shares, you must ensure your staking position unlocks no earlier than the very next distribution.
+Al calcular las participaciones (rCAKE), la duración de bloqueo restante se redondea hacia abajo a semanas. Por lo tanto, para recibir participaciones, debes asegurarte de que tu posición de staking se desbloquee no antes de la próxima distribución.
 
-For example, to receive shares for the week 1 distribution. You must:
+Por ejemplo, para recibir participaciones para la distribución de la semana 1. Debes:
 
-* Join before 23:59 UTC, 2 August.
-* Have an active fixed-term CAKE staking position which unlocks later than 23:59 UTC, 9 August.
+* Unirte antes de las 23:59 UTC del 2 de agosto.
+* Tener una posición activa de staking de CAKE a plazo fijo que se desbloquee después de las 23:59 UTC del 9 de agosto.
 
-If your staking position unlocks earlier than 23:59 UTC, 9 August, you will receive 0 shares for week 1.
+Si tu posición de staking se desbloquea antes de las 23:59 UTC del 9 de agosto, recibirás 0 participaciones para la semana 1.
 
-### Can I join a distribution period mid-week? <a href="#db254eef-09b7-41d7-bb56-310c77ce976b" id="db254eef-09b7-41d7-bb56-310c77ce976b"></a>
+### ¿Puedo unirme a un período de distribución a mitad de semana? <a href="#db254eef-09b7-41d7-bb56-310c77ce976b" id="db254eef-09b7-41d7-bb56-310c77ce976b"></a>
 
-No, as mentioned shares are calculated at the beginning of the distribution period at 23:59 UTC on Wednesday every week. Therefore you will receive shares starting from the next distribution and start accumulating rewards by then.
+No, como se mencionó, las participaciones se calculan al comienzo del período de distribución a las 23:59 UTC todos los miércoles. Por lo tanto, recibirás participaciones a partir de la próxima distribución y comenzarás a acumular recompensas entonces.
 
-### How do I receive more shares? <a href="#db254eef-09b7-41d7-bb56-310c77ce976b" id="db254eef-09b7-41d7-bb56-310c77ce976b"></a>
+### ¿Cómo recibo más participaciones? <a href="#db254eef-09b7-41d7-bb56-310c77ce976b" id="db254eef-09b7-41d7-bb56-310c77ce976b"></a>
 
-Since shares are calculated based on CAKE amount and remaining lock duration, to receive more shares, you may:
+Dado que las participaciones se calculan en base al monto de CAKE y la duración de bloqueo restante, para recibir más participaciones puedes:
 
-* Lock more CAKE
-* Extend your staking position
+* Bloquear más CAKE
+* Extender tu posición de staking
 
-Please note that after adding CAKE or extending, shares are NOT updated in real time and only updated upon each week’s weekly distributions.
+Ten en cuenta que después de agregar CAKE o extender, las participaciones NO se actualizan en tiempo real y solo se actualizan en cada distribución semanal.
 
-### Do I need to update my staking position when I add more CAKE or extend the staking? <a href="#id-71d1d397-ac1c-454b-abd9-15492860f05c" id="id-71d1d397-ac1c-454b-abd9-15492860f05c"></a>
+### ¿Necesito actualizar mi posición de staking cuando agrego más CAKE o extiendo el staking? <a href="#id-71d1d397-ac1c-454b-abd9-15492860f05c" id="id-71d1d397-ac1c-454b-abd9-15492860f05c"></a>
 
-No, you will only need to enrol once. All subsequent CAKE staking pool operations will automatically inform the revenue sharing pool and update your shares upon the next weekly distributions.
+No, solo necesitas inscribirte una vez. Todas las operaciones posteriores en el pool de staking de CAKE informarán automáticamente al pool de distribución de ingresos y actualizarán tus participaciones en las próximas distribuciones semanales.
 
-### Why are the weekly injected rewards not 100% matching the volume displayed on various trackers (like the Info page)?
+### ¿Por qué las recompensas inyectadas semanalmente no coinciden al 100% con el volumen mostrado en varios rastreadores (como la página de Información)?
 
-The number of CAKE rewards injected weekly may not be 100% matching with the numbers calculated from the volume displayed on various trackers. Multiple external factors may impact the number of CAKE rewards that can be converted:
+El número de recompensas de CAKE inyectadas semanalmente puede no coincidir al 100% con los números calculados del volumen mostrado en varios rastreadores. Múltiples factores externos pueden impactar el número de recompensas de CAKE que se pueden convertir:
 
-* CAKE token price while the trading fee is being converted and processed
-* Underlying asset prices while the trading fee is being converted and processed
-* To save gas and operational cost. Revenues from blockchains other than BNB Chain are processed monthly. They will be injected with a one-month delay with weekly averaging.
-* Some trading pairs may have insufficient liquidity while processing the trading fee.
-* Some trading pairs may contain tokens with custom logic that prevent their fee from being processed.
+* El precio del token CAKE mientras se convierte y procesa la comisión de trading
+* Los precios de los activos subyacentes mientras se convierte y procesa la comisión de trading
+* Para ahorrar gas y costos operativos, los ingresos de blockchains distintas a BNB Chain se procesan mensualmente. Se inyectarán con un retraso de un mes con un promedio semanal.
+* Algunos pares de trading pueden tener liquidez insuficiente mientras se procesa la comisión de trading.
+* Algunos pares de trading pueden contener tokens con lógica personalizada que impide que su comisión sea procesada.
 
-Chefs are working hard to apply tools and practices to ensure more trading fees generated can be processed and converted into CAKE.
+Los Chefs están trabajando duro para aplicar herramientas y prácticas que garanticen que más comisiones de trading generadas puedan ser procesadas y convertidas en CAKE.

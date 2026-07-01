@@ -1,87 +1,87 @@
 ---
-description: Simple liquidity provisioning with only one click
+description: Provisión de liquidez simple con solo un clic
 hidden: true
 ---
 
 # Zap (V2)
 
-<img src="../../../.gitbook/assets/zap-0.png" alt="" data-size="original">
+<img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-0.png" alt="" data-size="original">
 
-### What is Zap? <a href="#h.lv839zkjvd8q" id="h.lv839zkjvd8q"></a>
+### ¿Qué es Zap? <a href="#h.lv839zkjvd8q" id="h.lv839zkjvd8q"></a>
 
-Zap enables simple liquidity provision. Add liquidity with only one token and one single click, without manual swapping or token balancing.
+Zap permite la provisión de liquidez simple. Agrega liquidez con solo un token y un solo clic, sin intercambios manuales ni equilibrado de tokens.
 
-* Add liquidity with only one token: You can add liquidity using only one token in the trading pair. Zap will automatically perform swaps using the one token you provide and automatically balance the trading pair to a 50/50 split before adding liquidity.
-* Add liquidity with an imbalanced number of tokens in the trading pair: You can add liquidity even if the number of the tokens you provide in the trading pair is not perfectly balanced with the current pool. For example 30:70, which differs from the default pool weight of 50:50. Zap will automatically rebalance the tokens into a 50/50 split before adding liquidity.
-* Remove liquidity and choose what token(s) you want to receive: When removing liquidity, Zap allows you to receive only one token in the trading pair. Zap will automatically perform swaps before returning your tokens.
+* Agrega liquidez con solo un token: Puedes agregar liquidez usando solo un token del par de trading. Zap realizará automáticamente intercambios usando el único token que proporcionas y equilibrará automáticamente el par de trading a una división 50/50 antes de agregar liquidez.
+* Agrega liquidez con una cantidad desequilibrada de tokens en el par de trading: Puedes agregar liquidez incluso si la cantidad de tokens que proporcionas en el par de trading no está perfectamente equilibrada con el pool actual. Por ejemplo, 30:70, que difiere del peso predeterminado del pool de 50:50. Zap reequilibrará automáticamente los tokens en una división 50/50 antes de agregar liquidez.
+* Elimina liquidez y elige qué token(s) quieres recibir: Al eliminar liquidez, Zap te permite recibir solo un token del par de trading. Zap realizará automáticamente intercambios antes de devolverte tus tokens.
 
-### Enable Zap <a href="#h.8q1zrb4afp7i" id="h.8q1zrb4afp7i"></a>
+### Habilitar Zap <a href="#h.8q1zrb4afp7i" id="h.8q1zrb4afp7i"></a>
 
-By default, the Zap feature is turned on for every user. If you don’t see the new Zap UI when adding or removing liquidity, please enable it in the settings panel. You can bring up the settings panel by clicking the cog icon.
+De forma predeterminada, la función Zap está activada para todos los usuarios. Si no ves la nueva interfaz de Zap al agregar o eliminar liquidez, por favor habilítala en el panel de configuración. Puedes abrir el panel de configuración haciendo clic en el icono de engranaje.
 
-![](../../../.gitbook/assets/zap-8.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-8.png)
 
 {% hint style="warning" %}
-Note: Currently, the Zap feature is in beta. Please note that It does not support some tokens, such as tokens with fees on transfers. If you experience any issue while adding or removing liquidity, please disable it in the settings panel.
+Nota: Actualmente, la función Zap está en beta. Ten en cuenta que no admite algunos tokens, como tokens con comisiones en transferencias. Si experimentas algún problema al agregar o eliminar liquidez, por favor desactívala en el panel de configuración.
 {% endhint %}
 
-### Zap In (Add Liquidity) <a href="#h.xp3to7fwu7s6" id="h.xp3to7fwu7s6"></a>
+### Zap In (Agregar Liquidez) <a href="#h.xp3to7fwu7s6" id="h.xp3to7fwu7s6"></a>
 
-Visit the [Liquidity page](https://pancakeswap.finance/liquidity), and choose “Add Liquidity”.
+Visita la [página de Liquidez](https://pancakeswap.finance/liquidity) y elige "Agregar Liquidez".
 
-Pick the trading pair you want to provide liquidity to by selecting two input tokens, checkout [Liquidity guide](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide) to learn more.
+Elige el par de trading al que deseas proporcionar liquidez seleccionando dos tokens de entrada; consulta la [guía de Liquidez](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide) para obtener más información.
 
-![](../../../.gitbook/assets/zap-1.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-1.png)
 
-Click the “Add Liquidity” button to proceed.
+Haz clic en el botón "Agregar Liquidez" para continuar.
 
-If the token in the trading pair you are adding liquidity to has a balance in your wallet. The checkbox for that token will be automatically checked. If you have both the tokens have a balance in your wallet, both checkboxes will be checked.
+Si el token en el par de trading al que estás agregando liquidez tiene un saldo en tu billetera, la casilla de verificación para ese token se marcará automáticamente. Si ambos tokens tienen saldo en tu billetera, ambas casillas se marcarán.
 
-![](../../../.gitbook/assets/zap-6.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-6.png)
 
-### Zap using one token <a href="#h.oc5fxca1vzfj" id="h.oc5fxca1vzfj"></a>
+### Zap usando un token <a href="#h.oc5fxca1vzfj" id="h.oc5fxca1vzfj"></a>
 
-You can add liquidity using only one token in the trading pair. Simple check only one checkbox for the token you wish to use. Zap will automatically swap half of the checked tokens into another token in the trading pair before adding liquidity. You will see a warning message indicating which token will be converted.
+Puedes agregar liquidez usando solo un token del par de trading. Simplemente marca solo una casilla para el token que deseas usar. Zap intercambiará automáticamente la mitad de los tokens marcados por otro token en el par de trading antes de agregar liquidez. Verás un mensaje de advertencia indicando qué token se convertirá.
 
-![](../../../.gitbook/assets/zap-3.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-3.png)
 
 {% hint style="info" %}
-If the price impact is too high, Zap will protect you by slippage. Click “Reduce TOKEN” to reduce it to the preferred limit.
+Si el impacto de precio es demasiado alto, Zap te protegerá con deslizamiento. Haz clic en "Reducir TOKEN" para reducirlo al límite preferido.
 {% endhint %}
 
-![](../../../.gitbook/assets/zap-7.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-7.png)
 
-### Zap using two tokens with imbalanced amounts <a href="#h.4k2b7plmt9t0" id="h.4k2b7plmt9t0"></a>
+### Zap usando dos tokens con cantidades desequilibradas <a href="#h.4k2b7plmt9t0" id="h.4k2b7plmt9t0"></a>
 
-If both tokens are checked, the amounts of the input tokens don't match a 50/50 split. Zap balancing will be introduced. You will see a message of “Some of your Token A will be converted to Token B”.
+Si ambos tokens están marcados, las cantidades de los tokens de entrada no coinciden con una división 50/50. Se introducirá el equilibrado de Zap. Verás un mensaje que dice "Una parte de tu Token A se convertirá en Token B".
 
-![](../../../.gitbook/assets/zap-2.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-2.png)
 
 {% hint style="info" %}
-If you don’t want Zap to balance the number of tokens before adding liquidity, simply click “Don’t Convert”. In this case, Zap will adjust the number of input tokens to match a 50/50 split instead of trying to swap and rebalance.
+Si no quieres que Zap equilibre el número de tokens antes de agregar liquidez, simplemente haz clic en "No Convertir". En este caso, Zap ajustará el número de tokens de entrada para que coincidan con una división 50/50 en lugar de intentar intercambiar y reequilibrar.
 {% endhint %}
 
-### Proceed with Zap <a href="#h.t4trnmo4dzno" id="h.t4trnmo4dzno"></a>
+### Proceder con Zap <a href="#h.t4trnmo4dzno" id="h.t4trnmo4dzno"></a>
 
-When you click “Supply”, the details of the Zap will be shown and await you to confirm.
+Cuando hagas clic en "Suministrar", se mostrarán los detalles del Zap y esperará tu confirmación.
 
-You will see:
+Verás:
 
-1. How many LP tokens you will receive.
-2. What are the input tokens, and the number of tokens you are committing.
-3. How the input tokens are traded in order to match a 50/50 split.
-4. The slippage tolerance you are using.
+1. Cuántos tokens LP recibirás.
+2. Cuáles son los tokens de entrada y el número de tokens que estás comprometiendo.
+3. Cómo se intercambian los tokens de entrada para que coincidan con una división 50/50.
+4. La tolerancia al deslizamiento que estás usando.
 
-![](../../../.gitbook/assets/zap-4.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-4.png)
 
-### Zap out (Remove Liquidity) <a href="#h.whuk5lgc371r" id="h.whuk5lgc371r"></a>
+### Zap out (Eliminar Liquidez) <a href="#h.whuk5lgc371r" id="h.whuk5lgc371r"></a>
 
-Zap also enables you to receive one single token in the trading pair when removing liquidity.
+Zap también te permite recibir un solo token del par de trading al eliminar liquidez.
 
-1. Visit the[ ](https://www.google.com/url?q=https://exchange.pancakeswap.finance/%23/pool\&sa=D\&source=editors\&ust=1656322371442758\&usg=AOvVaw2ZJPj_97-YuUMQjQbYbfN4)[Liquidity page](https://pancakeswap.finance/swap#/pool).
-2. Click on the pair you want to remove liquidity under “Your Liquidity".
-3. Click “Remove”. A new pop-up will appear.
+1. Visita la [página de Liquidez](https://pancakeswap.finance/swap#/pool).
+2. Haz clic en el par del que deseas eliminar liquidez bajo "Tu Liquidez".
+3. Haz clic en "Eliminar". Aparecerá una nueva ventana emergente.
 
-Under the “You Will Receive” section, you can uncheck the token you don’t want to receive. Zap will automatically swap and convert 100% of the returns into the checked token when removing liquidity.
+En la sección "Recibirás", puedes desmarcar el token que no deseas recibir. Zap intercambiará y convertirá automáticamente el 100% de los retornos en el token marcado al eliminar liquidez.
 
-![](../../../.gitbook/assets/zap-5.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-5.png)

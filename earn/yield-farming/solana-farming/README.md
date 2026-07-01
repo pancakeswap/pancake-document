@@ -1,52 +1,52 @@
-# Solana Farming
+# Farming en Solana
 
-## How to Use Farms on PancakeSwap SOL V3
+## Cómo Usar las Granjas en PancakeSwap SOL V3
 
-Farming lets you earn additional rewards on top of standard liquidity provider (LP) fees when you provide liquidity to eligible pools. Here's how to get started via: [https://solana.pancakeswap.finance/liquidity-pools/](https://solana.pancakeswap.finance/liquidity-pools/)
+El farming te permite ganar recompensas adicionales además de las comisiones estándar de proveedor de liquidez (LP) cuando proporcionas liquidez a pools elegibles. Aquí te explicamos cómo comenzar a través de: [https://solana.pancakeswap.finance/liquidity-pools/](https://solana.pancakeswap.finance/liquidity-pools/)
 
 {% hint style="warning" %}
-**Note:** Images shown in this guide are for illustrative purposes only and may not reflect real-time data or current farming statistics.
+**Nota:** Las imágenes mostradas en esta guía son solo ilustrativas y pueden no reflejar datos en tiempo real o estadísticas actuales de farming.
 {% endhint %}
 
 ***
 
-### 1. Filter to View Farms
+### 1. Filtrar para Ver las Granjas
 
-*   On the **Pool List** page, toggle the **“Show Farm only”** filter to display only pools that offer farming rewards.
+*   En la página de **Lista de Pools**, activa el filtro **"Mostrar solo Granjas"** para mostrar solo los pools que ofrecen recompensas de farming.
 
-    <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
-### 2. View APR Breakdown
+### 2. Ver el Desglose de APR
 
-* **Hover over** or **click** on the APR displayed next to a pool.
-*   A breakdown will appear showing:
+* **Pasa el cursor** o **haz clic** en el APR que se muestra junto a un pool.
+*   Aparecerá un desglose que muestra:
 
-    * LP rewards from trading fees.
-    * Additional rewards from farming incentives.
-    * An **estimated weekly reward** in tokens for that pool.
+    * Recompensas LP de las comisiones de trading.
+    * Recompensas adicionales de los incentivos de farming.
+    * Una **recompensa semanal estimada** en tokens para ese pool.
 
-    <figure><img src="../../../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29%20%284%29.png" alt=""><figcaption></figcaption></figure>
 
-### 3. Start Earning Farming Rewards
+### 3. Comenzar a Ganar Recompensas de Farming
 
-* Simply **add liquidity** to a pool that has farming enabled.
-* Once you hold an **active (in-range)** position:
-  * You will start earning farming rewards **automatically when swaps occur**.
-  * **No need to stake your LP NFT**—rewards accrue directly to your position.
+* Simplemente **agrega liquidez** a un pool que tenga farming habilitado.
+* Una vez que tengas una posición **activa (dentro del rango)**:
+  * Comenzarás a ganar recompensas de farming **automáticamente cuando ocurran intercambios**.
+  * **No es necesario poner en staking tu NFT LP** — las recompensas se acumulan directamente en tu posición.
 
-### 4. Track Your Rewards
+### 4. Rastrear tus Recompensas
 
-* Navigate to the **“My Positions”** page to view your:
-  * Active LP positions.
-  * Farming rewards accumulated for each position.
+* Navega a la página **"Mis Posiciones"** para ver:
+  * Tus posiciones LP activas.
+  * Las recompensas de farming acumuladas para cada posición.
 
-<figure><img src="../../../.gitbook/assets/image (415).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28415%29.png" alt=""><figcaption></figcaption></figure>
 
-### 5. Claiming Your Rewards
+### 5. Reclamar tus Recompensas
 
-* **Click "Harvest"** on a position to harvest both:
-  * LP rewards (from trading fees)
-  * Farming token rewards (if applicable)
-* Use **“Harvest All”** to collect rewards from **all active positions** in a single transaction.
+* **Haz clic en "Harvest"** en una posición para cosechar tanto:
+  * Recompensas LP (de comisiones de trading)
+  * Recompensas de tokens de farming (si aplica)
+* Usa **"Harvest All"** para cobrar recompensas de **todas las posiciones activas** en una sola transacción.
 
-<figure><img src="../../../.gitbook/assets/image (416).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28416%29.png" alt=""><figcaption></figcaption></figure>
