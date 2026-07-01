@@ -37,7 +37,7 @@ Por ejemplo, si el umbral es de 20 semanas:
 
 ### Cómo puedo ver cuántos iCAKE tengo?
 
-![](<../../.gitbook/assets/image (172) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28172%29%20%281%29.png)
 
 Puedes consultar la cantidad de iCAKE que tienes en [la página IFO](https://pancakeswap.finance/ifo)
 
@@ -48,7 +48,7 @@ Puede aumentar la cantidad de iCAKE que tiene:
 * Agregando más CAKE a plazo fijo en el pool de CAKE.
 * Extendiendo tu período a plazo fijo si tu período actual es más corto que el umbral.
 
-****![](<../../.gitbook/assets/image (175).png>)****
+****![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28175%29.png)****
 
 Puede obtener una vista previa de la cantidad de iCAKE generado desde su posición de staking al ajustar o inicializar el stake a plazo fijo.
 
@@ -56,6 +56,6 @@ Puede obtener una vista previa de la cantidad de iCAKE generado desde su posici�
 
 Entre cada IFO, la cocina optimizará el umbral en función de la duración promedio de participación del pool de CAKE de plazo fijo. El ajuste se publicará en todos los canales oficiales.
 
-![](<../../.gitbook/assets/image (174).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28174%29.png)
 
 Puede verificar el umbral actual para los cálculos de iCAKE al pasar el mouse o tocar el texto subrayado de iCAKE en la ventana del pool de CAKE.

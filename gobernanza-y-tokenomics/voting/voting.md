@@ -1,6 +1,6 @@
 # Qué se vota?
 
-![](../../.gitbook/assets/screenshot-2020-11-02-at-3.56.39-pm.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/screenshot-2020-11-02-at-3.56.39-pm.png)
 
 Visite el sitio de votaciones de PancakeSwap aquí: [https://voting.pancakeswap.finance](https://voting.pancakeswap.finance/?\_gl=1\*pc8o0h\*\_ga\*MTUzNDEzNDQxMy4xNjAwNzkzNDM4\*\_ga\_334KNG3DMQ\*MTYwNDMwMTk4Ni42MC4xLjE2MDQzMDM3MDIuMA..#/)
 

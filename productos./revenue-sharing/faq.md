@@ -1,6 +1,6 @@
 # FAQ
 
-<figure><img src="../../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28205%29.png" alt=""><figcaption></figcaption></figure>
 
 ### Cómo se calcula la participación (rCAKE)? <a href="#50b7c683-feb0-47f6-809f-39c1a0976bb5" id="50b7c683-feb0-47f6-809f-39c1a0976bb5"></a>
 

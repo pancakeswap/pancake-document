@@ -1,6 +1,6 @@
 # StableSwap
 
-![](<../../.gitbook/assets/0 (4).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/0%20%284%29.png)
 
 StableSwap en PancakeSwap es una función para negociar pares estables con un deslizamiento más bajo basado en una función de deslizamiento de curva invariable. Está diseñado para intercambiar activos específicos que tienen un precio cercano, como monedas estables en USD (p. ej., HAY, BUSD y USDT) o tokens de staking liquido (p. ej., stkBNB y aBNBc).
 
@@ -16,7 +16,7 @@ Si realiza un intercambio de tokens (swap) en StableSwap, pagará tarifas (fees)
 
 Las tarifas (fees) para los pares se desglosan en la siguiente tabla:
 
-![](<../../.gitbook/assets/1 (6).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1%20%286%29.png)
 
 La cocina implementará gradualmente los pares de StableSwap y revisará las tarifas para probar y mejorar aún más el producto.
 

@@ -1,6 +1,6 @@
 # Redes Sociales & Comunidades
 
-![](../.gitbook/assets/redes-y-comunidades.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/redes-y-comunidades.png)
 
 Aquí vas a encontrar la lista de las comunidades y redes sociales oficiales de PancakeSwap.
 

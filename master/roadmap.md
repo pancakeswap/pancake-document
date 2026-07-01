@@ -4,7 +4,7 @@ description: “No me llames Roadmap”
 
 # Roadmap
 
-![](<../.gitbook/assets/0 (1) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/0%20%281%29%20%281%29.png)
 
 _Actualizado el 3 de Enero de 2024_
 
@@ -16,7 +16,7 @@ Mantenerse en constante cambio es un estilo de vida.
 
 Eso significa que no nos comprometemos públicamente con plazos específicos, por lo que podemos organizar nuestras prioridades de desarrollo en función de los cambios del mercado y los recursos de los desarrolladores.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ❗ Por seguridad y confidencialidad, algunos ítems no están en la sección de “Cocinando”.
 

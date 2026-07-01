@@ -1,6 +1,6 @@
 # 🛍 IFO (Oferta Inicial de Farm)
 
-![](<../../.gitbook/assets/0 (3) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/0%20%283%29%20%281%29.png)
 
 Compra nuevos tokens usando CAKE.
 

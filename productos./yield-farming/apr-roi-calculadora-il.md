@@ -6,7 +6,7 @@ Para hacerlo más fácil y menos desafiante a la hora de aportar liquidez, el nu
 
 ## Indicador y cálculo automático de APR <a href="#12d7c8c1-d0d7-4d5e-99ea-5f5b7f5378e5" id="12d7c8c1-d0d7-4d5e-99ea-5f5b7f5378e5"></a>
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%288%29.png" alt=""><figcaption></figcaption></figure>
 
 Cuando aportas liquidez, el indicador automático de APR responde a tus cambios en la configuración y calcula el APR basado en la misma.
 
@@ -29,14 +29,14 @@ Puedes encontrar este indicador de APR en las siguientes secciones:
 
 * La página de “Add Liquidity” - mostrando el APR de fee de LP
 * Página de detalles de cada posición de liquidez existente - mostrando el APR de fee de LP\
-  ![](<../../.gitbook/assets/image (6) (1) (1).png>)
+  ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%286%29%20%281%29%20%281%29.png)
 * Página de Farm, dentro de la posición debajo de cada farm - mostrando el APR combinado de los fee de LP y las recompensas en CAKE\
-  ![](<../../.gitbook/assets/image (9) (4).png>)\
+  ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%289%29%20%284%29.png)\
 
 
 ## Calculadora de ROI mejorada <a href="#6f06dc46-ff61-4022-a29d-3ebe67a50607" id="6f06dc46-ff61-4022-a29d-3ebe67a50607"></a>
 
-<figure><img src="../../.gitbook/assets/image (7) (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%287%29%20%286%29.png" alt=""><figcaption></figcaption></figure>
 
 Siempre que vea las pantallas de APR automática, puede hacer clic y abrir la nueva calculadora de ROI. La nueva calculadora de ROI ha sido rediseñada con funciones adicionales de servicio para satisfacer las necesidades de aporte de liquidez concentrada y farming V3.&#x20;
 
@@ -54,7 +54,7 @@ Estos son los tres datos principales a ingresar, los cuales también fueron pres
 
 ⓵ **Monto de depósito**
 
-<figure><img src="../../.gitbook/assets/deposit-amount.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/deposit-amount.gif" alt=""><figcaption></figcaption></figure>
 
 Puedes ingresar la cantidad en USD manualmente, o usar los botones para autocompletar directamente $100, $1000 o la cantidad máxima permitida, según la cantidad disponible en tu wallet.
 
@@ -62,7 +62,7 @@ Puedes ingresar la cantidad en USD manualmente, o usar los botones para autocomp
 
 ⓶ **Duración del depósito**
 
-<figure><img src="../../.gitbook/assets/stake-durations.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/stake-durations.gif" alt=""><figcaption></figcaption></figure>
 
 Puedes elegir por cuánto tiempo tus activos estarán depositados en la posición, eligiendo entre: 1 dia, 7 dias, 30 dias, 1 año, and 5 años.
 
@@ -72,7 +72,7 @@ La cantidad de retorno se calculará en base a esa duración.
 
 ⓷ **Compounding (Reinversión)**
 
-<figure><img src="../../.gitbook/assets/compounding.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/compounding.gif" alt=""><figcaption></figcaption></figure>
 
 Puedes seleccionar con qué frecuencia estarás recogiendo las recompensas generadas por la posición, y reinvirtiéndolas en ella. puedes elegir entre: 12 horas, 1 dia, 7 dias, and 30 dias.
 
@@ -84,7 +84,7 @@ En V3, los fees ganados por el LP y los CAKE de recompensa, deben ser recogidos 
 
 ### &#x20;⓸ Histórico del Precio <a href="#19cd815c-ef3d-496a-8469-fb0164f3946b" id="19cd815c-ef3d-496a-8469-fb0164f3946b"></a>
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%282%29%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 Esta es sólo una sección informativa para ver los movimientos históricos del precio del par seleccionado.
 
@@ -101,7 +101,7 @@ El gráfico de precios usa datos solamente del par real en V3. Por lo tanto, los
 
 ### ⓹ Rangos de precio <a href="#bbec6919-1404-4523-815e-063405a961f1" id="bbec6919-1404-4523-815e-063405a961f1"></a>
 
-<figure><img src="../../.gitbook/assets/spaces_-MHREX7DHcljbY5IkjgJ-1972196547_uploads_dkCIM5NYI1VLXsk9UEdF_price-range.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/spaces_-MHREX7DHcljbY5IkjgJ-1972196547_uploads_dkCIM5NYI1VLXsk9UEdF_price-range.webp" alt=""><figcaption></figcaption></figure>
 
 Usando esta sección, podrás chequear cuánta liquidez ha sido depositada en los diferentes rangos de precio, y así decidir y crear y establecer el rango de precios al que estás proporcionando liquidez.
 
@@ -123,7 +123,7 @@ Si quieres aportar liquidez al rango de precios completo, haz clic en “Full Ra
 
 ### ⓺ Invierte la dirección del precio para verlo con base en diferente activo <a href="#5c3bdfaf-bd66-4942-873d-d617eeeab53d" id="5c3bdfaf-bd66-4942-873d-d617eeeab53d"></a>
 
-<figure><img src="../../.gitbook/assets/flip-directions.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/flip-directions.gif" alt=""><figcaption></figcaption></figure>
 
 Para algunos pares, es más fácil e intuitivo ver los precios con determinado token como base. Por ejemplo, para el par BNB/USDT, la mayoría preferirá ver los precios de la manera "cuántos USDT por BNB" en lugar de verlo a la inversa.
 
@@ -131,7 +131,7 @@ Puedes invertir el precio base fácilmente. Simplemente haz clic en el botón a 
 
 ### ⓻ Importar y exportar (aplicar) tus preferencias <a href="#d18cf936-315e-4432-a3a5-f65976651073" id="d18cf936-315e-4432-a3a5-f65976651073"></a>
 
-<figure><img src="../../.gitbook/assets/apply-settings.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/apply-settings.gif" alt=""><figcaption></figcaption></figure>
 
 Cuando abres la calculadora de ROI en la ventana de "Agregar liquidez", o chequeando una posición existente, las siguientes preferencias serán importadas automáticamente, así que no hace falta que las setees otra vez:
 

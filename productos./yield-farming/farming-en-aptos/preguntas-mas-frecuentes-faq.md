@@ -1,6 +1,6 @@
 # Preguntas más frecuentes (FAQ)
 
-![](<../../../.gitbook/assets/0 (4)>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/0%20%284%29)
 
 ### ¿Cómo puedo pasar mis activos a Aptos y proveer liquidez? <a href="#_3wmsrl2o6ha5" id="_3wmsrl2o6ha5"></a>
 

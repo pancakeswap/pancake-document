@@ -1,10 +1,10 @@
 # Conecta tu Wallet a PancakeSwap
 
-<figure><img src="../../.gitbook/assets/image (4) (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%284%29%20%287%29.png" alt=""><figcaption></figcaption></figure>
 
 ### Conecta tu Wallet
 
-<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%287%29%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 1. Click en "Connect Wallet" en la esquina superior derecha.
 2. Para la mayoría de las extensiones del browser, simplemente selecciona su ícono, y sigue las instrucciones en la ventana emergente.

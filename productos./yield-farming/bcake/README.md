@@ -1,6 +1,6 @@
 # bCAKE
 
-![](<../../../.gitbook/assets/image (1) (2) (1) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29%20%282%29%20%281%29%20%281%29.png)
 
 bCAKE - Farm Boosters, es un multiplicador potenciador generado automáticamente que le permite aumentar su rendimiento de CAKE hasta el doble (2x) en determinadas Farms, aprovechando al máximo la combinación de participación de CAKE a plazo fijo y de Yield Farming (Farms).&#x20;
 

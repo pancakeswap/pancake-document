@@ -1,6 +1,6 @@
 # 🚜 Yield Farming
 
-![](<../../.gitbook/assets/0 (2) (1)>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/0%20%282%29%20%281%29)
 
 Las Yield Farms permiten a los usuarios ganar CAKE mientras apoyan a PancakeSwap depositando sus LP tokens.
 
@@ -21,7 +21,7 @@ El cálculo de la tasa de APR del Yield Farm incluye:
 
 ¿Por qué? Porque cuando dejas en stake tus tokens LP en un farm para ganar CAKE, todavía estás proporcionando liquidez al pool de liquidez, ¡así que también ganas recompensas de LP!
 
-![](<../../.gitbook/assets/1 (2)>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1%20%282%29)
 
 Entonces, ¿cómo calculamos estas cifras?
 
@@ -33,7 +33,7 @@ El **APR base del Farm** se calcula de acuerdo con el multiplicador del farm y l
 
 Los poseedores de los tokens LP reciben **recompensas de LP** por proveer liquidez. A continuación, se muestra una explicación básica de cómo se calcula la tasa:
 
-![](<../../.gitbook/assets/2 (1) (2)>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/2%20%281%29%20%282%29)
 
 En la imagen de arriba del par WBNB/BUSD, vemos estos valores:
 

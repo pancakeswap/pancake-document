@@ -1,6 +1,6 @@
 # 🎓 Pancake Mayor
 
-<figure><img src="../../.gitbook/assets/image (218).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28218%29.png" alt=""><figcaption></figcaption></figure>
 
 Bienvenido a la guía definitiva de preguntas frecuentes de Pancake Mayor, el atractivo juego de simulación de construcción de ciudades. Aquí están las respuestas a sus preguntas más urgentes:
 

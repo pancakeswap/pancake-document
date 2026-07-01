@@ -1,6 +1,6 @@
 # ¿Como puedo usarlo?
 
-![](../../../.gitbook/assets/0)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/0)
 
 Usar esta funcionalidad es realmente fácil (lo difícil es operar bien). Solo tendremos que seguir una serie de pasos para que nuestra experiencia sea completa.
 
@@ -12,15 +12,15 @@ Puedes entrar desde el[ sitio](https://pancakeswap.finance/), en Trade → Perpe
 
 Primero debe depositar fondos en la cuenta de futuros, esto lo lograra en el cuadro de la parte inferior derecha de la pantalla.
 
-![](../../../.gitbook/assets/1)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1)
 
 USDT, BUSD, APX o CAKE (¡con bonificación!) pueden ser usados como colateral para pagar el trade.
 
-![](../../../.gitbook/assets/2)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/2)
 
 Como se mencionó, ¡usar CAKE para los fees le da un 5% de descuento! Entonces, ¿por qué no?
 
-![](../../../.gitbook/assets/3)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/3)
 
 Nota: Las comisiones de trading son del 0,02% del valor nocional para los makers y del 0,07% para el taker. CAKE será la opción de pago predeterminada para los fees de trading, seguida de APX (token de ApolloX) y USDT. Cualquier usuario que esté pagando las comisiones de trading en CAKE disfrutará de un 5% de descuento en las comisiones de trading.
 
@@ -28,17 +28,17 @@ Nota: Las comisiones de trading son del 0,02% del valor nocional para los makers
 
 Puede seleccionar un par tradeable haciendo click en la flecha junto al par, en la parte superior de la página.
 
-![](<../../../.gitbook/assets/4 (2)>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/4%20%282%29)
 
 Mas pares para negociar vendrán pronto!
 
-![](<../../../.gitbook/assets/5 (1)>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/5%20%281%29)
 
 ### **Analice el grafico y decida su estrategia de trading** <a href="#_kifwfzsp3884" id="_kifwfzsp3884"></a>
 
 ¡¡Es hora de operar!! Seamos serios. Puede analizar el gráfico a su manera, con todas las herramientas disponibles.
 
-![](<../../../.gitbook/assets/6 (1)>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/6%20%281%29)
 
 ### **¿Sabes cómo hacerlo o quieres mejorar en tu análisis?** <a href="#_pe8dvc8vdxeb" id="_pe8dvc8vdxeb"></a>
 
@@ -52,7 +52,7 @@ Aquí hay unas guías para comenzar en el mundo del análisis de gráficos:
 
 En la parte superior derecha tienes el tablero para configurar tu orden.
 
-![](<../../../.gitbook/assets/7 (1)>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/7%20%281%29)
 
 Aqui debes establecer varios parámetros, como:
 
@@ -60,27 +60,27 @@ _No en un orden específico_
 
 1. El tipo de Margen: Cruzado o aislado.
 
-![](<../../../.gitbook/assets/8 (1)>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/8%20%281%29)
 
 2\. El nivel de apalancamiento
 
-![](<../../../.gitbook/assets/9 (1)>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/9%20%281%29)
 
 Advertencia: Recuerde que un alto nivel de apalancamiento conlleva un riesgo muy alto, úselo sabiamente.
 
 3\. Tipo de orden
 
-![](../../../.gitbook/assets/10)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/10)
 
 4\. Ponga un precio para su orden.
 
-![](../../../.gitbook/assets/11)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/11)
 
 Nota: Puede usar "Last" para completar con el último precio actual.
 
 5\. Establecer el tamaño de la orden
 
-![](../../../.gitbook/assets/12)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/12)
 
 También puede elegir la moneda de referencia para ver su posición
 
@@ -90,18 +90,18 @@ Nota: hay algunas opciones más a considerar, pero las puedes ver dentro del[ Gl
 
 Cuando se hayan establecido todos los parámetros, puede enviar la orden haciendo clic en “long”, si es una orden en largo, o “short”, si es una orden en corto.
 
-![](../../../.gitbook/assets/13)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/13)
 
 ### **Comprobación de su orden** <a href="#_4fqvigf6skeh" id="_4fqvigf6skeh"></a>
 
 Una vez lanzada la orden, aparecerá en "Open Orders" hasta que se active según los parámetros.
 
-![](../../../.gitbook/assets/14)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/14)
 
 ### **¡En vivo!** <a href="#_9z56ufbnfypi" id="_9z56ufbnfypi"></a>
 
 Cuando se active, su posición la podrá ver en vivo. Puedes verlo en el panel de “positions”. También puede no solo verlo, puede editarlo o cerrarlo.
 
-![](../../../.gitbook/assets/15)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/15)
 
 ¡Buena suerte con sus operaciones!

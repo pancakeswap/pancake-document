@@ -47,7 +47,7 @@ No, una vez comprado no podrás volver a convertir tu boleto a CAKE.
 
 Sí, deberá hacer clic en el botón **Check Now** en "Are you a winner?" en la página de la Lotería.
 
-![](<../../.gitbook/assets/image (86).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2886%29.png)
 
 ## Cada cuánto se juega la Lotería?
 

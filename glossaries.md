@@ -54,7 +54,7 @@ Brand/product names, versioned product names, and acronyms are not translated:
 - P4: Every image reference must use ABSOLUTE URLs:
   Format: ![alt](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/FILENAME)
   URL-encode spaces as %20, ( as %28, ) as %29. Remove angle brackets from paths.
-  Example: ![](<../../.gitbook/assets/my file (1).png>) → ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/my%20file%20%281%29.png)
+  Example: ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/my%20file%20%281%29.png) → ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/my%20file%20%281%29.png)
 - P5: Keep brand/product names in English: PancakeSwap, veCAKE, CAKE, MEV Guard, etc.
   Keep versioned names: PancakeSwap Infinity, PancakeSwap X, Tokenomics 3.0, v3/v2.
   Keep acronyms: MEV, RPC, FAQ, APR, IFO, TWAP, ALP, AMM, BSC, CEX.

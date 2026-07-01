@@ -1,10 +1,10 @@
 # Tokenomics de CAKE
 
-![](<../../.gitbook/assets/0 (1) (2).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/0%20%281%29%20%282%29.png)
 
 ## **Tasa de Emisión** <a href="#_yrv8c4jk627i" id="_yrv8c4jk627i"></a>
 
-![](<../../.gitbook/assets/1 (3).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1%20%283%29.png)
 
 {% hint style="info" %}
 El 11 de agosto de 2022, los Chefs implementaron algunas actualizaciones para poder exprimir al máximo las ventajas del MasterChef v2. Eliminaron la necesidad de quemar por separado 45,000 CAKE perteneciente a las inyecciones de lotería. Esa tarea es ahora manejada directamente por el MasterChef v2 en las quemas semanales de CAKE. Gracias a esto, la emisión efectiva es aún menor.
@@ -22,7 +22,7 @@ Como tal, no lo hemos incluido en la tasa de emisión anterior.
 
 ## **Distribución** <a href="#_if9wweb9lg40" id="_if9wweb9lg40"></a>
 
-![](<../../.gitbook/assets/2 (3).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/2%20%283%29.png)
 
 ## **Otros Mecanismos Deflacionarios** <a href="#_g0fdb9yy2r2k" id="_g0fdb9yy2r2k"></a>
 

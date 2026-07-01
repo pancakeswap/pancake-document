@@ -26,7 +26,7 @@ El depósito para cada serie de Pottery se abre una vez al mes. El depósito cie
 
 Una vez hecho su depósito, puede ver el total depositado, y lo depositado en cada serie en el panel de reclamos (Claim), como se ve a continuación:
 
-![](<../../.gitbook/assets/image (1) (1) (2).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29%20%281%29%20%282%29.png)
 
 Ocasionalmente puede haber algún retraso debido a la lectura del Subgraph. Habrá una señal cuando haya retrasos; por lo general, debería mostrar la cantidad correcta si vuelve a verificar en 15 minutos. Tenga en cuenta que el botón de retiro se iluminará y estará disponible solo después de 10 semanas de la fecha de bloqueo.
 

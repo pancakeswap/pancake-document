@@ -4,7 +4,7 @@ description: Recibe todas las actualizaciones DeFi en un solo lugar!
 
 # 🔔 Notificaciones
 
-<figure><img src="../.gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28224%29.png" alt=""><figcaption></figcaption></figure>
 
 ### ¿Qué son las notificaciones Web3?&#x20;
 
@@ -23,15 +23,15 @@ Las notificaciones Web3 representan un paso adelante en la interacción con plat
 
 
 1. Actívelo con facilidad: visite nuestra [página de inicio](https://pancakeswap.finance/). Haga clic en el icono de configuración en la parte superior izquierda del menú de PancakeSwap y seleccione "Permitir notificaciones".\
-   <img src="../.gitbook/assets/image (225).png" alt="" data-size="original">
+   <img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28225%29.png" alt="" data-size="original">
 2.  Connect Wallet: haga clic en el ícono de campana en la parte superior derecha y firme un mensaje en su billetera para autorizar las notificaciones.\
 
 
-    <figure><img src="../.gitbook/assets/image (226).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28226%29.png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../.gitbook/assets/image (227).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28227%29.png" alt=""><figcaption></figcaption></figure>
 3. Personalice su feed: adapte su configuración de notificaciones seleccionando el menú desplegable de la izquierda para que coincida con sus intereses y necesidades.\
-   ![](<../.gitbook/assets/image (228).png>)
+   ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28228%29.png)
 4. Manténgase informado: acceda a todas sus notificaciones cómodamente desde el menú desplegable haciendo clic en el icono de campana.&#x20;
 
 ### Funciones de notificación&#x20;

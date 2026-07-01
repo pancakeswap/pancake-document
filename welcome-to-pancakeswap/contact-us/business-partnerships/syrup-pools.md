@@ -2,7 +2,7 @@
 
 Para obtener más información sobre nuestros programas de distribución de tokens ("[Syrup Pools](https://pancakeswap.finance/pools)"), consulta este PDF:
 
-{% file src="../../../.gitbook/assets/PancakeSwap Syrup Pool One-Pager.pdf" %}
+{% file src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/PancakeSwap%20Syrup%20Pool%20One-Pager.pdf" %}
 
 #### Ejemplo de un proceso de Syrup Pool
 

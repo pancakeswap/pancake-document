@@ -2,7 +2,7 @@
 
 Para obtener más información sobre nuestras ofertas de launchpad de tokens ("[Initial Farm Offering, o IFO"](https://pancakeswap.finance/ifo)), consulta este PDF
 
-{% file src="../../../.gitbook/assets/PancakeSwap IFO One-Pager.pdf" %}
+{% file src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/PancakeSwap%20IFO%20One-Pager.pdf" %}
 
 #### Ejemplo de un Proceso IFO
 

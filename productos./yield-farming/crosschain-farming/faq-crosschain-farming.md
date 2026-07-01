@@ -1,6 +1,6 @@
 # FAQ Crosschain farming
 
-![](<../../../.gitbook/assets/0 (2) (2)>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/0%20%282%29%20%282%29)
 
 ### **¿Qué puedo hacer en PancakeSwap en otras blockchains?** <a href="#_vp4dabm1sni3" id="_vp4dabm1sni3"></a>
 
@@ -87,7 +87,7 @@ Por ahora, los Chefs han desviado 0.0189 CAKE por bloque del Pool de CAKE hacia 
 
 Aquí está el desglose de las emisiones:
 
-![](<../../../.gitbook/assets/1 (3)>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1%20%283%29)
 
 ### **¿Qué sucede durante el depósito, cosecha y retiro?** <a href="#_vhmqxcrq5plk" id="_vhmqxcrq5plk"></a>
 

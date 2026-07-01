@@ -1,6 +1,6 @@
 # Partnerships de Negocios
 
-![](../.gitbook/assets/partnetship.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/partnetship.png)
 
 ## Farms y Syrup Pools&#x20;
 

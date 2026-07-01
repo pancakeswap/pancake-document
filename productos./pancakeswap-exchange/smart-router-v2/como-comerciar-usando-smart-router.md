@@ -12,7 +12,7 @@ Antes de comenzar, requiere una **billetera compatible con BNB Chain y BNB** **p
 2. Elija el par de tokens que te gustaría intercambiar. En el lanzamiento, solo se acepta la entrada exacta para Smart Router debido a problemas de deslizamiento.
 3. Ingresa el valor de los tokens que deseas intercambiar. Marca la casilla **"Usar StableSwap para obtener mejores tarifas**"
 
-<img src="../../../.gitbook/assets/image (26).png" alt="" data-size="original">
+<img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2826%29.png" alt="" data-size="original">
 
 &#x20;   4\. Verifica la nueva ruta usando el ícono en el campo de ruta en la fila inferior. ¡Estás listo! El siguiente proceso de intercambio es el mismo de siempre. Si es la primera vez que operas, consulte la guía [aquí](https://docs.pancakeswap.finance/v/espanol/productos/pancakeswap-exchange/how-to-trade-on-the-pancakeswap-exchange).
 
