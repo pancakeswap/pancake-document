@@ -1,6 +1,6 @@
 # Migración del pool de CAKE
 
-<figure><img src="../../.gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28220%29.png" alt=""><figcaption></figcaption></figure>
 
 Si actualmente tiene una posición activa de stake de CAKE a plazo fijo, puede migrarla a veCAKE para desbloquear todos los beneficios del nuevo veCAKE al instante.&#x20;
 
@@ -14,7 +14,7 @@ La migración es unidireccional y única, con todo el CAKE actualmente en la pos
 
 ## Ir a la página de staking de CAKE
 
-<figure><img src="../../.gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28221%29.png" alt=""><figcaption></figcaption></figure>
 
 Vaya a [https://pancakeswap.finance/cake-stake?chain=bsc](https://pancakeswap.finance/cake-stake?chain=bsc) y conecte su billetera. Tenga en cuenta que el staking de veCAKE solo está disponible en la BNB chain.&#x20;
 
@@ -24,7 +24,7 @@ Simplemente haga clic en el botón y confirme la transacción en la ventana emer
 
 ## Crear una posición nativa después de la migración
 
-<figure><img src="../../.gitbook/assets/image (222).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28222%29.png" alt=""><figcaption></figcaption></figure>
 
 Una vez migrado, debería ver su saldo de veCAKE, la cantidad de CAKE bloqueados y el tiempo de desbloqueo actualizados a la izquierda. Deben estar alineados con la posición actual de su pool de CAKE.&#x20;
 
@@ -34,7 +34,7 @@ Después de crear una posición nativa, puede comenzar a extender la duración d
 
 ## Consulta el desglose de la cantidad de CAKE y el tiempo de desbloqueo.
 
-<figure><img src="../../.gitbook/assets/image (223).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28223%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
 Una vez que tenga ambas posiciones de veCAKE, la migrada y la nativa, su saldo de veCAKE será un número combinado de las dos. Para verificar más detalles y el desglose, simplemente toque o coloque el cursor sobre veCAKE, la cantidad bloqueada y el tiempo de desbloqueo.&#x20;
 

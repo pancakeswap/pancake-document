@@ -1,6 +1,6 @@
 # Trading Perpetuo FAQ (Preguntas más frecuentes)
 
-![](<../../../.gitbook/assets/0 (1)>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/0%20%281%29)
 
 ### **¿Cuál es el valor agregado de esta nueva función para los holders de CAKE?** <a href="#_ggjaqnr5agay" id="_ggjaqnr5agay"></a>
 
@@ -16,13 +16,13 @@ El resto está actualmente reservado para la tesorería para la expansión y el 
 
 ### **¿Hay límites de depósito?** <a href="#_m3nc6z4oxo1u" id="_m3nc6z4oxo1u"></a>
 
-<figure><img src="../../../.gitbook/assets/1 (1)" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1%20%281%29" alt=""><figcaption></figcaption></figure>
 
 ### **¡He depositado fondos y todavía no puedo verlos! ¿¿Qué pasó??** <a href="#_wduq1aaym9ga" id="_wduq1aaym9ga"></a>
 
 ApolloX proporciona un[ sistema de tickets de soporte](https://apolloxbroker.zendesk.com/hc/en-us/requests/new) para nuestro mercado de futuros. Si esto le está sucediendo, haga clic en el icono de auriculares en la parte superior derecha de la página de futuros para dejarles un ticket con el problema.
 
-![](<../../../.gitbook/assets/2 (1)>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/2%20%281%29)
 
 ### **¿Cómo determina ApolloX qué usuario es de PCS y qué usuario es de su propio sitio web?** <a href="#_qe878j3ukjnq" id="_qe878j3ukjnq"></a>
 

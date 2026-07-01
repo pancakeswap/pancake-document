@@ -31,15 +31,15 @@ Note que el sistema de cotización brindará total transparencia a la tasa de ca
 
 1. Clic en el botón "Buy Crypto" (comprar cripto) en la plataforma de  PancakeSwap.\
    \
-   <img src="../.gitbook/assets/image (10).png" alt="" data-size="original">
+   <img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2810%29.png" alt="" data-size="original">
 2. Selecciona tu divisa y token del menú emergente.\
-   ![](<../.gitbook/assets/image (6) (6).png>)
+   ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%286%29%20%286%29.png)
 3. Clic en "Get Quote" (obtener cotización)\
-   ![](<../.gitbook/assets/image (18).png>)
+   ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2818%29.png)
 4. Seleccione la cotización recomendada. \
-   ![](<../.gitbook/assets/image (22).png>)![](<../.gitbook/assets/image (11).png>)
+   ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2822%29.png)![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2811%29.png)
 5. Continúe con los pasos indicados en pantalla por el proveedor.\
-   ![](<../.gitbook/assets/image (27).png>)![](<../.gitbook/assets/image (24).png>)
+   ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2827%29.png)![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2824%29.png)
 6. Tus criptomonedas llegarán a tu wallet en minutos.
 
 ### Necesito prueba de identidad?

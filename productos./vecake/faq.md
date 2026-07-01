@@ -1,6 +1,6 @@
 # FAQ
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 #### ¿Cuál es la diferencia entre CAKE bloqueado y veCAKE?&#x20;
 

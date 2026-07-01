@@ -1,6 +1,6 @@
 # Cómo Jugar a la Lotería V2
 
-![](<../../.gitbook/assets/docs-masthead (6).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/docs-masthead%20%286%29.png)
 
 La Lotería de PancakeSwap no solo es una buena manera de hacer montones de CAKE, ¡también es muy divertida! Esta guía te guiará a través de cómo involucrarse en la Lotería.
 
@@ -50,7 +50,7 @@ Hay un tiempo entre rondas en el que comprar boletos no es posible. Sólo tienes
 
 2\. Se abrirá una ventana que le permitirá elegir cuántos tickets comprar. Escriba cuántos boletos le gustaría comprar. También puede utilizar los botones preestablecidos debajo.
 
-![](<../../.gitbook/assets/image (68).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2868%29.png)
 
 3\. Antes de continuar, vale la pena considerar los descuentos de compra de tickets en cantidad. Cuantas más tickets compres, mayor será el descuento.
 
@@ -58,7 +58,7 @@ El descuento comienza en 2 boletos, y escala hasta los 100 tickets, donde se aho
 
 4\. Cuando esté satisfecho con el número de tickets que desea comprar, haga clic en **Confirm** y confirme la acción en su billetera.
 
-![](<../../.gitbook/assets/image (61).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2861%29.png)
 {% endtab %}
 
 {% tab title="Números de Tickets Manuales" %}
@@ -74,7 +74,7 @@ Hay un tiempo entre rondas en el que comprar boletos no es posible. Sólo tienes
 
 2\. Se abrirá una ventana que le permitirá elegir cuántos tickets comprar. Escriba cuántos boletos le gustaría comprar. También puede utilizar los botones preestablecidos debajo.
 
-![](<../../.gitbook/assets/image (68).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2868%29.png)
 
 3\. Antes de continuar, vale la pena considerar los descuentos de compra de tickets en cantidad. Cuantas más tickets compres, mayor será el descuento.
 
@@ -82,7 +82,7 @@ El descuento comienza en 2 boletos, y escala hasta los 100 tickets, donde se aho
 
 4\. Para personalizar los números de los tickets, clic en el botón **View/Edit Numbers**.
 
-![](<../../.gitbook/assets/image (13) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2813%29%20%281%29.png)
 
 5\. Se abrirá una nueva ventana que muestra sus tickets. Haga clic en un número de cualquier ticket para cambiar el número en esa posición.
 
@@ -96,7 +96,7 @@ Recibirás una advertencia si creas tickets duplicados. Es posible que sus bolet
 
 6\. Cuando esté satisfecho con sus números, haga clic en el botón **Confirm and buy**
 
-![](<../../.gitbook/assets/image (31).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2831%29.png)
 
 Confirma la acción en tu billetera.
 {% endtab %}

@@ -29,12 +29,12 @@ Por ejemplo:
 * Bob bloqueó 100 CAKE durante 52 semanas; su posición de Stake se desbloqueará en 52 semanas. Él tiene 100 x 52 = 5200 vCAKE
 * Carole bloqueó 100 CAKE durante diez semanas; y su posición de Stake ha terminado. Ella tiene 100 vCAKE
 
-![](<../../.gitbook/assets/0 (1) (1)>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/0%20%281%29%20%281%29)
 
 ### **¿Cómo comprobar el número de vCAKE?** <a href="#_2jlcyocwcfmp" id="_2jlcyocwcfmp"></a>
 
 Si estas emitiendo un voto, encontraras la cantidad de vCAKE en el desglose de “Voting Power” haciendo click en el botón “>” sobre la ventana de “Confirm Vote”.
 
-![](<../../.gitbook/assets/1 (1) (2)>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1%20%281%29%20%282%29)
 
 Si estás haciendo una propuesta comunitaria, puedes verificar tu poder de voto haciendo click en "Check your voting power" en la parte inferior del panel “Actions”.

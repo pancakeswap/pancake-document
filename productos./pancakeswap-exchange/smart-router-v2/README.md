@@ -1,6 +1,6 @@
 # Smart Router
 
-<figure><img src="../../../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2898%29.png" alt=""><figcaption></figcaption></figure>
 
 
 

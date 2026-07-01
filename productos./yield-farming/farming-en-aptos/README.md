@@ -4,7 +4,7 @@ description: Reciba las mismas jugosas recompensas de CAKE haciendo farming en A
 
 # Farming en Aptos
 
-![](<../../../.gitbook/assets/0 (4) (2)>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/0%20%284%29%20%282%29)
 
 Con nuestra implementación multicadena, PancakeSwap ahora está llevando la maravillosa experiencia del yield farming a los proveedores de liquidez en Aptos. Los Farms permiten a los usuarios ganar CAKE mientras apoyan a PancakeSwap depositando sus tokens LP.
 

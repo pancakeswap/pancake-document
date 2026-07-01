@@ -1,6 +1,6 @@
 # 🎟 Lotería v2
 
-![](../../.gitbook/assets/loteria-v2.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/loteria-v2.png)
 
 ​¡Jugar a la Lotería PancakeSwap te da la oportunidad de ganar enormes premios CAKE! Es fácil, justo, y puedes entrar tantas veces como quieras siempre y cuando tengas CAKE para comprar un boleto. [Ver el smart contract](https://bscscan.com/address/0x5aF6D33DE2ccEC94efb1bDF8f92Bd58085432d2c)​
 

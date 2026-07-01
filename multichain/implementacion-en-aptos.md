@@ -4,7 +4,7 @@ description: ¡PancakeSwap está planeando desplegarse en Aptos!
 
 # Implementación en Aptos
 
-<figure><img src="../.gitbook/assets/image (11) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2811%29%20%284%29.png" alt=""><figcaption></figcaption></figure>
 
 ¡Estamos desplegando sobre Aptos y nos gustaría comenzar a hablar con los equipos de proyectos en Aptos, potencialmente para presentarles una de las DApp más grandes, comprometidas y activas del mundo cripto (con más de 3 millones de usuarios activos mensuales)!&#x20;
 
@@ -29,11 +29,11 @@ Estamos desplegando en Aptos en fases escalonadas.&#x20;
 
 Para obtener más información sobre nuestros programas de minería de liquidez ("Syrup Pools y Farms"), consulte este PDF:
 
-{% file src="../.gitbook/assets/PancakeSwap Aptos Syrup Pools & Farms.pdf" %}
+{% file src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/PancakeSwap%20Aptos%20Syrup%20Pools%20%26%20Farms.pdf" %}
 
 Para obtener más información sobre nuestras plataformas de lanzamiento ("Oferta inicial de Farm o IFO"), consulte este PDF:
 
-{% file src="../.gitbook/assets/PancakeSwap Aptos IFOs.pdf" %}
+{% file src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/PancakeSwap%20Aptos%20IFOs.pdf" %}
 
 ### Un ejemplo del proceso para el Syrup Pool/Farm&#x20;
 
@@ -60,7 +60,7 @@ Para obtener más información sobre nuestras plataformas de lanzamiento ("Ofert
 
 * Continuaremos en contacto y trabajaremos juntos siempre que sea posible.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%283%29%20%281%29%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 ### Un ejemplo del proceso para la IFO&#x20;
 
@@ -96,4 +96,4 @@ Para obtener más información sobre nuestras plataformas de lanzamiento ("Ofert
 
 En cada paso del proceso, el equipo está aquí para ayudar: entendemos que, para los fundadores y sus equipos, el lanzamiento de una IFO o TGE es extremadamente crítico, y no dejamos nada al azar.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (3) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29%20%281%29%20%283%29%20%281%29%20%282%29.png" alt=""><figcaption></figcaption></figure>

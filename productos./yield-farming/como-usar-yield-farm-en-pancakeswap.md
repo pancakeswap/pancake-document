@@ -1,6 +1,6 @@
 # Cómo usar Farms
 
-![](../../.gitbook/assets/como-yield-farms.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/como-yield-farms.png)
 
 Hacer Yield Farming en Farms es una excelente manera de ganar recompensas en Cake dentro de PancakeSwap.
 
@@ -16,7 +16,7 @@ Echa un vistazo a este gran [artículo sobre Impermanent Loss de Binance Academy
 
 ### **Preparación**
 
-![](<../../.gitbook/assets/image (1) (1) (3).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29%20%281%29%20%283%29.png)
 
 Necesitarás una posición de liquidez para colocarla en un Farm. Los Farms sólo aceptan posiciones de liquidez de su par de trading exacto, con el exacto tier de fee; por ejemplo, el Farm CAKE-BNB 0.25% sólo aceptará las posiciones de liquidez de CAKE-BNB con el tier de fee seleccionado en 0.25%. No aceptará:
 
@@ -31,7 +31,7 @@ Puede sonar intimidante, pero no es tan complicado. Vayamos paso a paso.
 
 ### **Determinar tu Farm**
 
-![](<../../.gitbook/assets/image (2) (1) (1) (3) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%282%29%20%281%29%20%281%29%20%283%29%20%281%29.png)
 
 Antes de proceder, deberás elegir el Farm correcto para ti. Before you proceed, you'll want to choose a Farm that's right for you. [Visita la sección de Farms](https://pancakeswap.finance/farms) para ver la lista de los Farms disponibles.
 
@@ -47,27 +47,27 @@ Una vez decidido el Farm para invertir, necesitas aportar liquidez:
 
 1 - Si no tienes una posición disponible, verás el botón “Add Liquidity” (Agregar Liquidez), simplemente haz clic para abrir la ventana para hacerlo, sin salir de la página de Farms.
 
-![](<../../.gitbook/assets/image (7) (6) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%287%29%20%286%29%20%281%29.png)
 
 2 - Otra manera de hacerlo, es con clic en la columna del Farm que elijas de la lista. Se abrirá para mostrar más detalles. O en la vista por tarjetas, clic en "Detalles" para abrir la ventana con los mismos. Luego clic en el link de “Add XXX-YYY LP” dentro de la sección detalles, para agregar liquidez.
 
-![](<../../.gitbook/assets/image (8) (5).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%288%29%20%285%29.png)
 
 
 
 ### **Deposita tus posiciones en un farm**
 
-![](<../../.gitbook/assets/image (5) (4).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%285%29%20%284%29.png)
 
 Luego de aportar liquidez, deberías ver tu posición listada debajo del farm que quieres usar.
 
 Si tienes varias posiciones, puedes hacer clic en “View All” (ver todo) para verlas en una nueva ventana emergente.
 
-![](<../../.gitbook/assets/image (2) (1) (1) (3).png>)![](<../../.gitbook/assets/image (9) (3).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%282%29%20%281%29%20%281%29%20%283%29.png)![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%289%29%20%283%29.png)
 
 Clic en “Stake” en la posición listada, y tu wallet te pedirá confirmaciónon.
 
-![](<../../.gitbook/assets/image (6) (6) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%286%29%20%286%29%20%281%29.png)
 
 Un momento después, la ventana se cerrará, y verás tu posición depositada en los detalles.
 
@@ -79,13 +79,13 @@ Puedes repetir los pasos mencionados para depositar múltiples posiciones rápid
 
 En Farm V3, puedes depositar varias posiciones en el mismo farm.you can stake multiple positions on the same farm. Cada posición pagará en CAKE y debe ser cosechada de manera separada.
 
-![](<../../.gitbook/assets/image (7).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%287%29.png)
 
 Para cosechar las recompensas en CAKE de una posición depositada, simplemente regresa a la página de Farms, y encuentra el farm y posición del que quieres cosechar. Puedes usar la opción de “Staked Only” para filtrar rápidamente los farms en los que estás participando.
 
 Si tienes varias posiciones depositadas, puedes hacer clic en “View All” para verlas en una nueva ventana emergente.
 
-![](<../../.gitbook/assets/image (3) (1) (2).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%283%29%20%281%29%20%282%29.png)
 
 Clic en “Harvest” en la posición, y tu wallet te pedirá confirmación. Un momento después, las recompensas en CAKE serán enviadas a tu wallet.
 
@@ -95,11 +95,11 @@ Clic en “Harvest” en la posición, y tu wallet te pedirá confirmación. Un 
 
 Aún estando depositada en un farm, puedes agregar o retirar liquidez sin necesidad de retirar la posición.
 
-![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.png)
 
 Para hacerlo, simplemente regresa a la página de Farms, y encuentra el farm y posición que quieres ajustar. Puedes usar la opción de “Staked Only” para filtrar rápidamente los farms en los que estás participando.
 
-![](<../../.gitbook/assets/image (4) (1) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%284%29%20%281%29%20%281%29.png)
 
 Haz clic en la posición con el par, % de fee, ID de posición y la flecha  “>”. Eso te llevará a la página de detalles de la posición.
 
@@ -137,7 +137,7 @@ Antes de continuar, querrá elegir un Farm adecuado para usted. [Visite la pági
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (2).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%284%29%20%281%29%20%282%29.png" alt="" width="362"><figcaption></figcaption></figure>
 
 </div>
 
@@ -166,28 +166,28 @@ Ahora que tienes tus tokens LP, ¡estás listo para comenzar a depositarlos en u
 
 1 - Vuelva a la página de [Farms ](https://pancakeswap.finance/farms)y localice la suya. Haz clic en cualquier parte de la fila que muestre a tu par. Se expandirá para mostrar más detalles.
 
-![](<../../.gitbook/assets/image (7) (5) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%287%29%20%285%29%20%281%29.png)
 
 Cuando esté listo, haga clic en el botón **Enable** y confirme su acción en su billetera.
 
 2 - Después de una breve espera, el botón Enable cambiará a **Stake LP.** Haga clic en él y aparecerá una nueva ventana.
 
-![](<../../.gitbook/assets/image (5) (4) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%285%29%20%284%29%20%281%29.png)
 
 3 - Escriba la cantidad de tokens LP con los que desea ingresar al Farm, o simplemente haga clic en **Max** para usar todos sus tokens LP.
 
-![](<../../.gitbook/assets/image (2) (4).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%282%29%20%284%29.png)
 
 4 - Cuando haya introducido la cantidad, el botón **Confirm** se iluminará. Haga clic en él. Su billetera le pedirá que confirme su acción.
 
 5 - Después de una breve espera, la ventana se cerrará, y verá su nuevo saldo de LP tokens depositado en los detalles.
 
-![](<../../.gitbook/assets/image (3) (1) (2) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%283%29%20%281%29%20%282%29%20%281%29.png)
 
 {% hint style="info" %}
 Cuando esté farmeando un una red diferente a BNB Chain, deberá esperar unos 30 minutos para que se confirmen las transacciones cross-chain.
 
-![](<../../.gitbook/assets/image (2) (2).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%282%29%20%282%29.png)
 
 Para monitorear el progreso de una transacción cross-chain, clic en el ícono circular junto a su balance, o revise la sección de "transacciones recientes" en la esquina superior derecha.
 {% endhint %}
@@ -230,13 +230,13 @@ Para recoger sus recompensas, tendrás que visitar tu Farm elegido y recoger los
 
 1. Vuelva a la página de [Farms](https://pancakeswap.finance/farms).
 2. Busca el Farm en la que depositaste tus tokens LP y haz clic en la fila para ver los detalles. Deberías ver una estimación de sus recompensas en "Cake Earned"\
-   ![](<../../.gitbook/assets/image (6) (1) (3) (2).png>)
+   ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%286%29%20%281%29%20%283%29%20%282%29.png)
 3. Haga clic en el botón **Harvest** y confirme la acción en su billetera. Después de una corta espera, los CAKE serán reclamados a su billetera para que los use como desee.
 
 {% hint style="info" %}
 Cuando esté farmeando un una red diferente a BNB Chain, deberá cambiar siempre a BNB Smart Chain para cosechar sus recompensas.
 
-![](<../../.gitbook/assets/image (1) (2) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29%20%282%29%20%281%29.png)
 {% endhint %}
 
 ### Con qué frecuencia debo cosechar mis recompensas? <a href="#how-often-should-i-harvest-my-rewards" id="how-often-should-i-harvest-my-rewards"></a>

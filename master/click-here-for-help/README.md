@@ -1,6 +1,6 @@
 # Ayuda
 
-![](../../.gitbook/assets/ayuda.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/ayuda.png)
 
 Si te encuentras atascado, si algo no funciona como está destinado, o no estás seguro de si algo ha funcionado o no, esta sección de ayuda puede ser capaz de, bueno, ayudar.
 

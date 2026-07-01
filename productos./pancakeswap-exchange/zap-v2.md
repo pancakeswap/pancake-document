@@ -4,7 +4,7 @@ description: Liquidez Simple con un click
 
 # Zap (V2)
 
-### ![](<../../.gitbook/assets/image (182).png>) <a href="#h.lv839zkjvd8q" id="h.lv839zkjvd8q"></a>
+### ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28182%29.png) <a href="#h.lv839zkjvd8q" id="h.lv839zkjvd8q"></a>
 
 ### Qué es Zap? <a href="#h.lv839zkjvd8q" id="h.lv839zkjvd8q"></a>
 
@@ -32,31 +32,31 @@ Visita la[ ](https://www.google.com/url?q=https://exchange.pancakeswap.finance/%
 
 Elija el par al que desea proporcionar liquidez seleccionando dos tokens de entrada, consulte la [guía de liquidez ](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide)para obtener más información.
 
-![](<../../.gitbook/assets/image (185).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28185%29.png)
 
 Clic en el botón “Add Liquidity” para proceder.
 
 Si el token en el par que está añadiendo liquidez tiene un saldo en su billetera, la casilla de verificación de ese token se marcará automáticamente. Si tienes ambos tokens con un saldo en tu billetera, se marcarán ambas casillas de verificación.
 
-![](<../../.gitbook/assets/image (186).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28186%29.png)
 
 ### Zap usando un solo token <a href="#h.oc5fxca1vzfj" id="h.oc5fxca1vzfj"></a>
 
 Usted puede agregar liquidez usando solamente un token del par. Marque sólo una casilla de verificación para el token que desea utilizar. Zap cambiará automáticamente la mitad de los tokens comprometidos por otro token del par antes de añadir liquidez. Verá un mensaje de advertencia que indica qué token se convertirá.
 
-![](<../../.gitbook/assets/image (187).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28187%29.png)
 
 {% hint style="info" %}
 Si el impacto en el precio es demasiado alto, Zap lo protegerá por deslizamiento (slippage). Haga clic en "Reducir TOKEN" para reducirlo al límite preferido.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (189).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28189%29.png)
 
 ### Zap usando dos tokens con balances dispares <a href="#h.4k2b7plmt9t0" id="h.4k2b7plmt9t0"></a>
 
 Si se marcan ambos tokens y las cantidades de los mismos no coinciden con una división de 50/50. Zap equilibrará este desequilibrio. Verá un mensaje de "Parte de su Token A se convertirá en Token B" (“Some of your Token A will be converted to Token B”).
 
-![](<../../.gitbook/assets/image (184).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28184%29.png)
 
 
 
@@ -75,7 +75,7 @@ Verás ahí:
 3. Cómo los tokens serán intercambiados para llegar a una división del 50/50.
 4. El slippage (deslizamiento) que estás utilizando
 
-![](<../../.gitbook/assets/image (188).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28188%29.png)
 
 ### Zap out (Remover Liquidez) <a href="#h.whuk5lgc371r" id="h.whuk5lgc371r"></a>
 
@@ -86,4 +86,4 @@ Zap también le permite recibir un solo token en el par LP al eliminar la liquid
 
 En la sección “You Will Receive” ("Recibirá"), puedes desmarcar el token que no deseas recibir. Zap intercambiará y convertirá automáticamente el 100% de los rendimientos en el token elegido al eliminar la liquidez.
 
-![](<../../.gitbook/assets/image (183).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28183%29.png)

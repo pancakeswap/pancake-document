@@ -1,3 +1,3 @@
 # Votación
 
-![](../../.gitbook/assets/votacion.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/votacion.png)

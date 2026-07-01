@@ -1,6 +1,6 @@
 # El Equipo de La Cocina
 
-<figure><img src="../.gitbook/assets/image (1) (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29%20%284%29%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 Pueden chequear las entrevistas de La Cocina, cliqueando en el nombre de cada Chef.
 

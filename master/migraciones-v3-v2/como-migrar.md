@@ -6,7 +6,7 @@ description: >-
 
 # ¿Como migrar?
 
-<figure><img src="../../.gitbook/assets/image (16) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2816%29%20%283%29.png" alt=""><figcaption></figcaption></figure>
 
 En Abril de 2023, PancakeSwap anunció la V3 para el Exchange y Farms. Algunos pares de farming deberán migrar para seguir ganando recompensas por staking. Relájate, como la última vez, será fácil.
 
@@ -48,13 +48,13 @@ La lista crecera eventualmente. La forma más fácil de revisar la lista actuali
 
 ### **¿Cómo migrar?** <a href="#_jtxlw9xjd3cn" id="_jtxlw9xjd3cn"></a>
 
-![](<../../.gitbook/assets/1 (5).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1%20%285%29.png)
 
 Busque el banner de la migración a V3 en la página de Liquidez o Farm. Luego haz clic en “Proceed” para entrar a la página del asistente de migración.
 
 **Paso 1 - Retira de los farms v2 y/o StableSwap**
 
-<figure><img src="../../.gitbook/assets/2 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/2%20%284%29.png" alt=""><figcaption></figcaption></figure>
 
 En el paso 1, el asistente listará todos los farms de PancakeSwap V2 o StableSwap que requieren migrar.
 
@@ -64,7 +64,7 @@ Cuando se haya retirado de todos los farms listados, haga clic en "Next Steps" p
 
 **Paso 2 - Remover liquidez del Exchange v2 o StableSwap**
 
-<figure><img src="../../.gitbook/assets/3 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/3%20%283%29.png" alt=""><figcaption></figcaption></figure>
 
 En el paso 2, el asistente listará todas las posiciones de liquidez que se pueden migrar a V3 y ganar CAKE por farming.
 
@@ -76,13 +76,13 @@ Luego haga clic en "Enable", firme la transacción en su billetera y haga clic e
 
 **Paso 3 - Preparate para la V3**
 
-<figure><img src="../../.gitbook/assets/4 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/4%20%283%29.png" alt=""><figcaption></figcaption></figure>
 
 No es necesaria ninguna acción. Simplemente lea y asegúrese de estar familiarizado con cómo funciona la V3 y como proveer liquidez en la V3.
 
 **Paso 4 - Agregar liquidez en V3**
 
-![](<../../.gitbook/assets/5 (3).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/5%20%283%29.png)
 
 En este paso, agregará su liquidez al nuevo Exchange V3.
 
@@ -100,7 +100,7 @@ Tenga cuidado al establecer el rango de precios para la posición de liquidez.
 
 **Paso 5 - Stake en farms V3**
 
-<figure><img src="../../.gitbook/assets/6 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/6%20%283%29.png" alt=""><figcaption></figcaption></figure>
 
 ¡En este paso, pondrás en stake tus posiciones de liquidez V3 recién agregadas a los nuevos farms V3 para comenzar a ganar recompensas en CAKE!
 

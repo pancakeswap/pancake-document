@@ -4,7 +4,7 @@ description: Compra nuevos tokens con un formato de preventa totalmente nuevo
 
 # Cómo Participar en una IFO
 
-![](<../../.gitbook/assets/docs-masthead (5).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/docs-masthead%20%285%29.png)
 
 {% hint style="info" %}
 Hemos ido actualizando el proceso de IFO, y seguiremos haciéndolo en base a sus comentarios, consulte cada propuesta de IFO (votación) para conocer los detalles de la misma.
@@ -40,7 +40,7 @@ Si actualmente estás depositando su CAKE en un Pool (flexible o en otro pool), 
 
 Una vez que hayas seguido los pasos anteriores, vuelve a la página de IFO. Desplácese hacia abajo hasta la sección en color "Cómo participar".
 
-![](<../../.gitbook/assets/image (176).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28176%29.png)
 
 Deberías ver tu progreso en el paso 3, Commit CAKE, como en la imagen de arriba. Si por alguna razón no está en el paso 3, vuelve a las guías vinculadas más arriba en esta página.
 
@@ -102,7 +102,7 @@ Si no desea comprometer más CAKE a la IFO, puedes pasar a la siguiente sección
 
 ### Aportar Tokens para la venta Privada <a href="#committing-lp-tokens-to-the-unlimited-sale" id="committing-lp-tokens-to-the-unlimited-sale"></a>
 
-![](<../../.gitbook/assets/image (172).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28172%29.png)
 
 1\. Para usar sus CAKE en la venta Privada, haga clic en el botón **Confirmar** en Venta privada. Aparecerá una ventana.
 
@@ -132,7 +132,7 @@ Confirma la acción con tu billetera. Ahora tendrás tus nuevos tokens. ¡Felici
 
 **IFO con vesting**
 
-![](<../../.gitbook/assets/image (173).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28173%29.png)
 
 Una vez finalizada la IFO. Se presentará una interfaz de vesting de tokens en la sección de venta de la IFO. Puedes encontrar toda la información útil sobre todo el calendario de adquisición de tokens. Incluyendo pero no limitado a:
 

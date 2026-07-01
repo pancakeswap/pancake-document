@@ -1,6 +1,6 @@
 # Quieres ser un Chef?
 
-![](../../.gitbook/assets/chef.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/chef.png)
 
 ¿Interesado en unirse al equipo de PancakeSwap? Si eres apasionado, dedicado y un fanático de todas las cosas esponjosas y con syrup, ¡nos encantaría saber de ti!
 

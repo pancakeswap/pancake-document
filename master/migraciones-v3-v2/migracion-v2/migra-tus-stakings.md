@@ -8,7 +8,7 @@ description: >-
 
 
 
-![](<../../../.gitbook/assets/migration pre heat.png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration%20pre%20heat.png)
 
 En caso de que no lo sepas: Actualmente estás leyendo el tutorial mencionado en este banner para seguir ganando recompensas, tendrás que migrar tus farms y pool al nuevo MasterChef. Relax, va a ser fácil.&#x20;
 
@@ -45,7 +45,7 @@ Hay dos pasos en el ayudante de migración. En el primer paso, debes ver una lis
 
 Aquí deberías ver el nuevo CAKE Syrup Pool y los nuevos farms. Antes de depositar, deberás habilitarlos.&#x20;
 
-![](<../../../.gitbook/assets/image (183) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28183%29%20%281%29.png)
 
 
 
@@ -59,7 +59,7 @@ Después de habilitar, podrá comenzar a hacer staking en farms y pool.&#x20;
 {% tab title="CAKE Syrup Pool" %}
 
 
-![](<../../../.gitbook/assets/image (182) (1) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28182%29%20%281%29%20%281%29.png)
 
 Para el CAKE syrup pool. Por favor haga lo siguiente:
 
@@ -75,7 +75,7 @@ La opción de staking bloqueado (a plazo fijo) estará disponible unos días des
 {% endtab %}
 
 {% tab title="Farms" %}
-![](<../../../.gitbook/assets/image (181) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28181%29%20%281%29.png)
 
 Para farms, por favor haga:
 
@@ -95,7 +95,7 @@ Para farms, por favor haga:
 
 Síguenos en [Twitter ](https://twitter.com/PancakeSwapES)o nuestro canal de anuncios en [Telegram ](https://t.me/PancakeSwapAnuncios)para no perderte nada!&#x20;
 
-![](<../../../.gitbook/assets/en - migration timeline - 1.png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/en%20-%20migration%20timeline%20-%201.png)
 
 ## FAQ <a href="#faq" id="faq"></a>
 

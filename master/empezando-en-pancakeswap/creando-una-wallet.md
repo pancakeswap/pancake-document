@@ -1,6 +1,6 @@
 # Creando una Wallet
 
-![](../../.gitbook/assets/wallet.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/wallet.png)
 
 Para comenzar en Pancakeswap, lo primero que necesitas es configurar una billetera que soporte la BNB Smart Chain (BSC). Las billeteras están disponibles tanto como para computadoras de escritorio como teléfonos móviles. Debes elegir una billetera que se adapte mejor a tus necesidades.
 
@@ -52,7 +52,7 @@ A continuación, podes encontrar información mas detallada de cada billetera, a
 
 {% tabs %}
 {% tab title="Trust Wallet" %}
-![](<../../.gitbook/assets/image (70).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2870%29.png)
 
 **Trustwallet** es una wallet popular para los smartphones. Tiene soporte para DApps, NTFs coleccionables (con soporte de opensea.io) y stacking, todo en la misma billetera.&#x20;
 
@@ -76,7 +76,7 @@ A continuación, podes encontrar información mas detallada de cada billetera, a
 {% endtab %}
 
 {% tab title="MetaMask" %}
-![](<../../.gitbook/assets/image (33) (3) (4) (5) (5).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2833%29%20%283%29%20%284%29%20%285%29%20%285%29.png)
 
 Metamask es un complemento de navegador muy popular que admite ERC20(Red Ethereum) y BEP2 y BEP20(redes Binance Chain y Binance Smart Chain)
 
@@ -100,7 +100,7 @@ Metamask es un complemento de navegador muy popular que admite ERC20(Red Ethereu
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](<../../.gitbook/assets/image (125) (3) (4) (3).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28125%29%20%283%29%20%284%29%20%283%29.png)
 
 Token Pocket es una aplicación de gestión de criptomonedas que admite de forma nativa muchas redes de criptomonedas. También posee una aplicación de escritorio.
 
@@ -172,7 +172,7 @@ Ahora tiene su clave privada lista para importar su billetera a la versión de e
 {% endtab %}
 
 {% tab title="SafePal" %}
-![](<../../.gitbook/assets/image (26) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2826%29%20%281%29.png)
 
 SafePal está disponible como billetera de software y hardware. La billetera es fácil de instalar y crear, y viene lista para admitir BEP2 (Binance Chain) y BEP20 (Binance Smart Chain) de inmediato.
 
@@ -219,7 +219,7 @@ Puede encontrar información más detallada sobre cada billetera a continuación
 
 {% tabs %}
 {% tab title="MetaMask" %}
-![](<../../.gitbook/assets/image (33) (3) (4) (5) (3).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2833%29%20%283%29%20%284%29%20%285%29%20%283%29.png)
 
 Metamask es un complemento de navegador muy popular que admite ERC20(Red Ethereum) y BEP2 y BEP20(redes Binance Chain y Binance Smart Chain)
 
@@ -242,7 +242,7 @@ Metamask es un complemento de navegador muy popular que admite ERC20(Red Ethereu
 {% endtab %}
 
 {% tab title="Binance Wallet" %}
-![](<../../.gitbook/assets/image (126).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28126%29.png)
 
 Binance Wallet es una billetera de complemento de navegador que admite de forma nativa las redes Binance Chain (BEP2) Binance Smart Chain (BEP20). Binance Wallet fue desarrollado por el exchange de criptomonedas Binance.
 
@@ -265,7 +265,7 @@ Binance Wallet es una billetera de complemento de navegador que admite de forma 
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](<../../.gitbook/assets/image (125) (3) (4) (4).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28125%29%20%283%29%20%284%29%20%284%29.png)
 
 Token Pocket es una aplicación de gestión de criptomonedas que admite de forma nativa muchas redes de criptomonedas. También posee una aplicación de escritorio.
 

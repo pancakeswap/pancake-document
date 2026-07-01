@@ -4,7 +4,7 @@
 Estamos haciendo la transición de vCAKE a veCAKE para nuestro sistema de gobernanza. Antes de que finalice la migración, no toda la información contenida en esta página será precisa.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 #### Descripción general&#x20;
 

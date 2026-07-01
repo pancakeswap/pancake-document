@@ -1,0 +1,2 @@
+# ❓ FAQ de Ganancias
+

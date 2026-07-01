@@ -1,6 +1,6 @@
 # Qué es veCAKE?
 
-<figure><img src="../../.gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28219%29.png" alt=""><figcaption></figcaption></figure>
 
 ## ¿Qué es veCAKE?&#x20;
 
