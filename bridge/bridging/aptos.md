@@ -1,106 +1,106 @@
 ---
-description: Bridge CAKE between EVM chains and Aptos
+description: Puentea CAKE entre cadenas EVM y Aptos
 ---
 
-# How to Bridge - EVM <> Aptos
+# Cómo puentear - EVM <> Aptos
 
-<figure><img src="../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28113%29.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-The following guide uses BNB Chain as an example of an EVM chain. The same process can be applied to Ethereum.
+La siguiente guía usa BNB Chain como ejemplo de cadena EVM. El mismo proceso puede aplicarse a Ethereum.
 {% endhint %}
 
-## Bridge CAKE from BNB Smart Chain to Aptos
+## Puentea CAKE de BNB Smart Chain a Aptos
 
-1 - Make sure your wallet supports both BNB Smart Chain and Aptos Mainnet. Or you have both of the wallets installed in your browser.
+1 - Asegúrate de que tu billetera sea compatible con BNB Smart Chain y Aptos Mainnet. O que tengas ambas billeteras instaladas en tu navegador.
 
-Then open the [PancakeSwap CAKE Bridge](https://bridge.pancakeswap.finance/)
+Luego abre el [PancakeSwap CAKE Bridge](https://bridge.pancakeswap.finance/)
 
-2 - First, we need to connect our BNB Smart Chain wallet.
+2 - Primero, necesitamos conectar nuestra billetera de BNB Smart Chain.
 
-Click "Connect" and choose the wallet you prefer under the "EVM" section. Then confirm and approve in your wallet popup.
+Haz clic en "Connect" y elige la billetera que prefieras en la sección "EVM". Luego confirma y aprueba en la ventana emergente de tu billetera.
 
-![](../../.gitbook/assets/bridging-wallet-connect-modal.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-wallet-connect-modal.png)
 
-3 - Then, we need to connect our Aptos wallet.
+3 - Luego, necesitamos conectar nuestra billetera de Aptos.
 
-In the wallet connect modal, choose the wallet you prefer under the "Aptos" section. Then confirm and approve in your wallet popup.
+En el modal de conexión de billetera, elige la billetera que prefieras en la sección "Aptos". Luego confirma y aprueba en la ventana emergente de tu billetera.
 
-![](../../.gitbook/assets/bridging-default-state.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-default-state.png)
 
-4 - Click the "v" in the upper token selection field and choose "CAKE".
+4 - Haz clic en la "v" en el campo de selección de token superior y elige "CAKE".
 
-![](../../.gitbook/assets/upper-field.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/upper-field.png)
 
-5 - Input the number of CAKE you want to bridge to Aptos.
+5 - Ingresa la cantidad de CAKE que deseas puentear a Aptos.
 
-![](../../.gitbook/assets/bridging-amount-entered.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-amount-entered.png)
 
-6 - If your Aptos wallet is freshly created and doesn't have any APT (Aptos Coin) balance. We recommend keeping the "gas on destination" option at its default. The bridge will deposit a small amount of APT to your wallet, not only to help you kickstart your journey on Aptos, but you will also need APT for gas to register and claim your bridged CAKE.
+6 - Si tu billetera de Aptos es nueva y no tiene saldo de APT (Aptos Coin), te recomendamos mantener la opción "gas on destination" en su valor predeterminado. El puente depositará una pequeña cantidad de APT en tu billetera, no solo para ayudarte a comenzar tu camino en Aptos, sino que también necesitarás APT para gas y así registrar y reclamar tu CAKE puenteado.
 
-Altering this option might cause bridging to fail.
+Modificar esta opción podría causar que el puenteo falle.
 
-![](../../.gitbook/assets/bridging-gas-on-dest.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-gas-on-dest.png)
 
-7 - Click "Transfer" to initiate the bridging transaction and confirm via the wallet confirmation pop up.
+7 - Haz clic en "Transfer" para iniciar la transacción de puenteo y confirma mediante la ventana emergente de confirmación de tu billetera.
 
-Please note that depending on the condition on your BNB Smart Chain wallet and Aptos wallet. You may need to approve **multiple** wallet confirmations. For example if you are bridging CAKE to Aptos for the first time, you will need to:
+Ten en cuenta que, dependiendo del estado de tu billetera de BNB Smart Chain y tu billetera de Aptos, es posible que necesites aprobar **múltiples** confirmaciones de billetera. Por ejemplo, si puenteas CAKE a Aptos por primera vez, necesitarás:
 
-* Approve CAKE spending on the bridging contract (coming from your BNB Smart Chain wallet)
-* Register CAKE (coming from your Aptos wallet)
+* Aprobar el gasto de CAKE en el contrato de puenteo (desde tu billetera de BNB Smart Chain)
+* Registrar CAKE (desde tu billetera de Aptos)
 
-For more detail please check out [this breakdown](aptos.md#bridging-cake-to-aptos-for-the-first-time).
+Para más detalles, consulta [este desglose](aptos.md#bridging-cake-to-aptos-for-the-first-time).
 
-8 - Sit back and relax. It should only take a few minutes. Once the bridging is complete, CAKE will be deposited into your Aptos wallet. You can track the progress by the progress bar.
+8 - Relájate. Solo tomará unos pocos minutos. Una vez completado el puenteo, CAKE se depositará en tu billetera de Aptos. Puedes hacer seguimiento del progreso mediante la barra de progreso.
 
-![](../../.gitbook/assets/bridging-complete-half.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-complete-half.png)
 
-## Bridging CAKE to Aptos for the First Time
+## Puentear CAKE a Aptos por primera vez
 
-Bridging CAKE to Aptos wallets requires registration and claim transactions. This is done to enhance user security and is unique to Aptos.
+Puentear CAKE a billeteras de Aptos requiere transacciones de registro y reclamación. Esto se hace para mejorar la seguridad del usuario y es exclusivo de Aptos.
 
-### **If you already have APT (Aptos Coin) in your wallet:**
+### **Si ya tienes APT (Aptos Coin) en tu billetera:**
 
-You’ll be prompted to register CAKE on your Aptos wallet if it’s not registered yet. No additional claim transaction is needed in this case.
+Se te pedirá que registres CAKE en tu billetera de Aptos si aún no está registrado. En este caso no se necesita ninguna transacción de reclamación adicional.
 
-### **If you don’t have APT (Aptos Coin) in your wallet:**
+### **Si no tienes APT (Aptos Coin) en tu billetera:**
 
-After the bridge transaction completes, you’ll need to manually claim your CAKE. To cover the gas fees for claiming, APT tokens will be sent to your Aptos wallet from your source wallet.
+Después de que se complete la transacción del puente, deberás reclamar tu CAKE manualmente. Para cubrir las comisiones de gas del reclamo, se enviarán tokens APT a tu billetera de Aptos desde tu billetera de origen.
 
-These registration and claim steps only apply the first time you interact with a token on Aptos. Subsequent transfers of the same token won’t require these actions.
+Estos pasos de registro y reclamación solo aplican la primera vez que interactúas con un token en Aptos. Las transferencias posteriores del mismo token no requerirán estas acciones.
 
-Before bridging CAKE to Aptos for the first time, ensure your Aptos address has enough APT for gas fees. For more details, check out Aptos’s explanation here: [https://theaptosbridge.com/faq#registering-claiming-assets](https://theaptosbridge.com/faq#registering-claiming-assets)
+Antes de puentear CAKE a Aptos por primera vez, asegúrate de que tu dirección de Aptos tenga suficiente APT para comisiones de gas. Para más detalles, consulta la explicación de Aptos aquí: [https://theaptosbridge.com/faq#registering-claiming-assets](https://theaptosbridge.com/faq#registering-claiming-assets)
 
-## Bridge CAKE from Aptos to BNB Smart Chain
+## Puentea CAKE de Aptos a BNB Smart Chain
 
-1 - Make sure your wallet supports both BNB Smart Chain and Aptos Mainnet. Or you have both of the wallets installed in your browser.
+1 - Asegúrate de que tu billetera sea compatible con BNB Smart Chain y Aptos Mainnet. O que tengas ambas billeteras instaladas en tu navegador.
 
-Then open the [PancakeSwap CAKE Bridge](https://bridge.pancakeswap.finance/)
+Luego abre el [PancakeSwap CAKE Bridge](https://bridge.pancakeswap.finance/)
 
-2 - First, we need to connect our BNB Smart Chain wallet.
+2 - Primero, necesitamos conectar nuestra billetera de BNB Smart Chain.
 
-Click "Connect" and choose the wallet you prefer under the "EVM" section. Then confirm and approve in your wallet popup.
+Haz clic en "Connect" y elige la billetera que prefieras en la sección "EVM". Luego confirma y aprueba en la ventana emergente de tu billetera.
 
-![](../../.gitbook/assets/bridging-wallet-connect-modal.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-wallet-connect-modal.png)
 
-3 - Then, we need to connect our Aptos wallet.
+3 - Luego, necesitamos conectar nuestra billetera de Aptos.
 
-In the wallet connect modal, choose the wallet you prefer under the "Aptos" section. Then confirm and approve in your wallet popup.
+En el modal de conexión de billetera, elige la billetera que prefieras en la sección "Aptos". Luego confirma y aprueba en la ventana emergente de tu billetera.
 
-![](../../.gitbook/assets/bridging-default-state.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-default-state.png)
 
-4 - Click the "v" in the upper token selection field and choose "CAKE". Then click the double arrow button in the middle of the page to flip the direction of the bridging.
+4 - Haz clic en la "v" en el campo de selección de token superior y elige "CAKE". Luego haz clic en el botón de doble flecha en el centro de la página para invertir la dirección del puenteo.
 
-Please make sure the "Aptos" network is in the upper field.
+Asegúrate de que la red "Aptos" esté en el campo superior.
 
-![](../../.gitbook/assets/upper-field-aptos.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/upper-field-aptos.png)
 
-5 - Input the number of CAKE you want to bridge to BNB Smart Chain.
+5 - Ingresa la cantidad de CAKE que deseas puentear a BNB Smart Chain.
 
-![](../../.gitbook/assets/bridging-aptos-to-bsc-with-amount.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-aptos-to-bsc-with-amount.png)
 
-6 - If your BNB Smart Chain wallet is freshly created and doesn't have any BNB (gas token) balance. We recommend keeping the "gas on destination" option at its default. The bridge will deposit a small amount of BNB into your wallet. It will help you kickstart your journey on BNB Smart Chain and explore the vivid PancakeSwap ecosystem.
+6 - Si tu billetera de BNB Smart Chain es nueva y no tiene saldo de BNB (token de gas), te recomendamos mantener la opción "gas on destination" en su valor predeterminado. El puente depositará una pequeña cantidad de BNB en tu billetera. Te ayudará a comenzar tu camino en BNB Smart Chain y explorar el vibrante ecosistema de PancakeSwap.
 
-7 - Click "Transfer" and approve the transactions from your wallet popup.
+7 - Haz clic en "Transfer" y aprueba las transacciones desde la ventana emergente de tu billetera.
 
-8 - Sit back and relax. It should only take a few minutes. Once the bridging is complete, CAKE will be deposited into your BNB Smart Chain wallet. You can track the progress by the progress bar.
+8 - Relájate. Solo tomará unos pocos minutos. Una vez completado el puenteo, CAKE se depositará en tu billetera de BNB Smart Chain. Puedes hacer seguimiento del progreso mediante la barra de progreso.

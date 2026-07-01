@@ -1,62 +1,62 @@
-# ❓ Bridging FAQ
+# ❓ FAQ de Puenteo
 
-<figure><img src="../../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28144%29.png" alt=""><figcaption></figcaption></figure>
 
-## Before Bridging
+## Antes de puentear
 
-1.  **Can I use mobile wallets or wallets other than MetaMask to bridge CAKE?**
+1.  **¿Puedo usar billeteras móviles u otras billeteras distintas a MetaMask para puentear CAKE?**
 
-    Currently, PancakeSwap CAKE Bridging supports Coinbase Wallet, MetaMask, and MetaMask-compatible wallets. More wallet support is coming soon.
+    Actualmente, el Puenteo de CAKE de PancakeSwap admite Coinbase Wallet, MetaMask y billeteras compatibles con MetaMask. Próximamente habrá soporte para más billeteras.
 
-    _Tip:_ To avoid risky copy-pasting of private keys or seed phrases, we recommend creating new wallets via desktop wallet extensions for bridging.
-2.  **Why is a route or token unavailable?**
+    _Consejo:_ Para evitar el riesgoso copiar y pegar de claves privadas o frases semilla, recomendamos crear nuevas billeteras mediante extensiones de billetera de escritorio para puentear.
+2.  **¿Por qué una ruta o token no está disponible?**
 
-    Some routes depend on bridge capacity, token support, or liquidity. Please check back later or try a different provider. Available tokens per chain are shown directly in the Bridge UI.
-3.  **I get an error submitting the bridging transaction.**
+    Algunas rutas dependen de la capacidad del puente, el soporte de tokens o la liquidez. Por favor, vuelve a intentarlo más tarde o prueba con un proveedor diferente. Los tokens disponibles por cadena se muestran directamente en la interfaz del Puente.
+3.  **Recibo un error al enviar la transacción de puenteo.**
 
-    Try entering the amount manually instead of using the “MAX” button, and remove decimals from the amount if necessary.
-4.  **Why does my bridging quote show “Insufficient X to cover native fee”**
+    Intenta ingresar el monto manualmente en lugar de usar el botón "MAX", y elimina los decimales del monto si es necesario.
+4.  **¿Por qué mi cotización de puenteo muestra "Insufficient X to cover native fee"?**
 
-    ![](<../../.gitbook/assets/image (9) (3).png>)
+    ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%289%29%20%283%29.png)
 
-    Bridging requires gas fees paid in the native token of the source chain, for example:
+    El puenteo requiere comisiones de gas pagadas en el token nativo de la cadena de origen, por ejemplo:
 
     * BNB Chain → BNB
     * Ethereum → ETH
     * Aptos → APT
 
-    Ensure you have enough native tokens in your source wallet to cover fees to complete the transaction.
-5.  **Why does the button show “X CAKE Exceeded”?**
+    Asegúrate de tener suficientes tokens nativos en tu billetera de origen para cubrir las comisiones y completar la transacción.
+5.  **¿Por qué el botón muestra "X CAKE Exceeded"?**
 
-    There is a daily capacity limit for bridging CAKE between BSC and Aptos to ensure safety. Try a smaller amount or wait and try again later. Limits are dynamically adjusted by Chefs based on demand.
-6.  **Why can’t I find a specific token?**
+    Hay un límite de capacidad diaria para puentear CAKE entre BSC y Aptos para garantizar la seguridad. Intenta con un monto menor o espera y vuelve a intentarlo más tarde. Los límites son ajustados dinámicamente por los Chefs según la demanda.
+6.  **¿Por qué no puedo encontrar un token específico?**
 
-    The token may not be supported on your chosen route or may lack liquidity. Try another chain or a different amount.
-7.  **Can I bridge from BNB Chain to Ethereum but to a different address?**
+    Es posible que el token no sea compatible con tu ruta elegida o que carezca de liquidez. Prueba con otra cadena o un monto diferente.
+7.  **¿Puedo puentear desde BNB Chain a Ethereum pero a una dirección diferente?**
 
-    No, for safety reasons, bridging only works between the same address on EVM chains.
-8.  **Why can’t I bridge less than 0.00000001 CAKE?**
+    No, por razones de seguridad, el puenteo solo funciona entre la misma dirección en cadenas EVM.
+8.  **¿Por qué no puedo puentear menos de 0.00000001 CAKE?**
 
-    Aptos tokens, including CAKE on Aptos, have a max of 8 decimal places. Transactions below 0.00000001 will be rejected or rounded down. This applies to Ethereum bridging as well. Any leftover amount remains in your source wallet.
+    Los tokens de Aptos, incluido CAKE en Aptos, tienen un máximo de 8 decimales. Las transacciones por debajo de 0.00000001 serán rechazadas o redondeadas hacia abajo. Esto también aplica al puenteo de Ethereum. Cualquier monto restante permanece en tu billetera de origen.
 
 ***
 
-## After Bridging
+## Después de puentear
 
-1.  **Can I cancel a bridge transfer after confirming?**
+1.  **¿Puedo cancelar una transferencia de puente después de confirmarla?**
 
-    No, once started, the bridge transaction is handled by the provider and can’t be canceled. To reverse, bridge the assets back via a new transaction.
-2.  **What if my transaction is stuck “pending”?**
+    No, una vez iniciada, la transacción del puente es manejada por el proveedor y no puede cancelarse. Para revertir, puentea los activos de vuelta mediante una nueva transacción.
+2.  **¿Qué pasa si mi transacción está atascada como "pendiente"?**
 
-    Bridging can take up to 30 minutes. Check your transaction status by searching its hash on the respective bridge provider’s explorer:
+    El puenteo puede tardar hasta 30 minutos. Verifica el estado de tu transacción buscando su hash en el explorador del proveedor del puente correspondiente:
 
     * Debridge: [https://app.debridge.finance/orders](https://app.debridge.finance/orders)
     * LayerZero Scan: [https://layerzeroscan.com/](https://layerzeroscan.com/)
     * Stargate Explorer: [https://stargate.finance/](https://stargate.finance/)
     * cBridge: [https://celerscan.com/](https://celerscan.com/)
 
-    If pending after 60 minutes, please contact our admins via [social channels](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/social-accounts).
-3. **I haven’t received my CAKE. What should I do?**
-   * When bridging CAKE to Aptos for the first time, you may need to **manually claim** your CAKE. Ensure your Aptos wallet has enough APT for gas. See [Aptos bridging guide](https://docs.pancakeswap.finance/bridge/bridging/aptos) and [Aptos explanation](https://theaptosbridge.com/faq#registering-claiming-assets).
-   * When bridging to BNB Chain or Ethereum, some wallets require you to manually add CAKE’s token address to view your balance. As an example, follow this [MetaMask guide](https://support.metamask.io/manage-crypto/tokens/how-to-display-tokens-in-metamask/) - other wallets should have similar flows.
-   * If you still don’t see your CAKE after 60 minutes, contact our admins via [social channels](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/social-accounts).
+    Si sigue pendiente después de 60 minutos, comunícate con nuestros administradores a través de los [canales sociales](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/social-accounts).
+3. **No he recibido mi CAKE. ¿Qué debo hacer?**
+   * Al puentear CAKE a Aptos por primera vez, es posible que necesites **reclamar tu CAKE manualmente**. Asegúrate de que tu billetera de Aptos tenga suficiente APT para gas. Consulta la [guía de puenteo de Aptos](https://docs.pancakeswap.finance/bridge/bridging/aptos) y la [explicación de Aptos](https://theaptosbridge.com/faq#registering-claiming-assets).
+   * Al puentear a BNB Chain o Ethereum, algunas billeteras requieren que agregues manualmente la dirección del token de CAKE para ver tu saldo. Por ejemplo, sigue esta [guía de MetaMask](https://support.metamask.io/manage-crypto/tokens/how-to-display-tokens-in-metamask/); otras billeteras deberían tener flujos similares.
+   * Si aún no ves tu CAKE después de 60 minutos, comunícate con nuestros administradores a través de los [canales sociales](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/social-accounts).

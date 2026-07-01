@@ -1,66 +1,66 @@
 ---
-description: Bridge CAKE between Ethereum, BNB Chain, Aptos, and many more
+description: Puentea CAKE entre Ethereum, BNB Chain, Aptos y muchas más
 ---
 
-# 🌉 Bridging
+# 🌉 Puentear
 
-<figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28118%29.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
-Bridging to/from EVMs (New site): [https://pancakeswap.finance/bridge](https://pancakeswap.finance/bridge)
+Puentear hacia/desde EVMs (Sitio nuevo): [https://pancakeswap.finance/bridge](https://pancakeswap.finance/bridge)
 
-Bridging to/from Aptos (V1 Bridge): [https://bridge.pancakeswap.finance/](https://bridge.pancakeswap.finance/)
+Puentear hacia/desde Aptos (Puente V1): [https://bridge.pancakeswap.finance/](https://bridge.pancakeswap.finance/)
 {% endhint %}
 
-## What is bridging in crypto?
+## ¿Qué es puentear en cripto?
 
-* Bridging in crypto refers to the process of transferring assets between different blockchain networks.
-* It enhances interoperability, allowing for data and asset transfers across various networks.
+* Puentear en cripto se refiere al proceso de transferir activos entre diferentes redes blockchain.
+* Mejora la interoperabilidad, permitiendo la transferencia de datos y activos a través de distintas redes.
 
 \
-Here are some reasons you may want to bridge:
+Aquí hay algunas razones por las que quizás quieras puentear:
 
-* Buy different cryptocurrency tokens
-* Mint an NFT only available on a specific network
-* Save money with cheaper transactions
-* Use a dapp only available on another network
-
-***
-
-## CAKE, a multichain token
-
-With our multichain expansion and deployment, CAKE is now a multichain token that is native to BNB Chain, but also available across Base, Arbitrum, Solana, Ethereum, ZKsync, Linea, opBNB, and Aptos.
-
-CAKE on any of the other chains is equal to CAKE on BNB Smart Chain. It can always be bridged between these chains at a 1:1 ratio and without any fee in CAKE.
-
-**Please note that there is only one CAKE.** There are no different versions of CAKE on different chains. The total supply of CAKE across all blockchains is capped at 400M, as outlined in this [vote proposal](https://pancakeswap.finance/voting/proposal/0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5).
+* Comprar diferentes tokens de criptomonedas
+* Acuñar un NFT disponible solo en una red específica
+* Ahorrar dinero con transacciones más económicas
+* Usar una dapp disponible solo en otra red
 
 ***
 
-## What is the PancakeSwap Bridge?
+## CAKE, un token multicadena
 
-The PancakeSwap Bridge is a convenient, in-app tool that allows you to move assets between different blockchains directly through the PancakeSwap interface. Instead of visiting external bridge sites, you can bridge supported tokens between chains like BNB Chain, Ethereum, Base, Arbitrum, and more—all from one place.
+Con nuestra expansión y despliegue multicadena, CAKE es ahora un token multicadena nativo de BNB Chain, pero también disponible en Base, Arbitrum, Solana, Ethereum, ZKsync, Linea, opBNB y Aptos.
 
-The PancakeSwap Bridge is powered by trusted third-party providers and works as an **aggregator**—selecting the best route based on price, speed, and reliability.
+CAKE en cualquiera de las otras cadenas equivale a CAKE en BNB Smart Chain. Siempre se puede puentear entre estas cadenas en una proporción 1:1 y sin ninguna comisión en CAKE.
 
-To learn how to bridge CAKE, check out the tutorials and FAQ in the following sections.
+**Por favor, ten en cuenta que solo existe un CAKE.** No hay versiones diferentes de CAKE en distintas cadenas. El suministro total de CAKE en todas las blockchains está limitado a 400M, tal como se describe en esta [propuesta de votación](https://pancakeswap.finance/voting/proposal/0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5).
 
 ***
 
-## 🔗 How It Works
+## ¿Qué es el Puente de PancakeSwap?
 
-### Bridging via Aggregators
+El Puente de PancakeSwap es una herramienta conveniente dentro de la aplicación que te permite mover activos entre diferentes blockchains directamente desde la interfaz de PancakeSwap. En lugar de visitar sitios de puentes externos, puedes puentear tokens compatibles entre cadenas como BNB Chain, Ethereum, Base, Arbitrum y más, todo desde un solo lugar.
 
-The PancakeSwap Bridge acts as a smart layer over trusted third-party bridge protocols. When you initiate a bridge transfer, PancakeSwap:
+El Puente de PancakeSwap está impulsado por proveedores de terceros de confianza y funciona como un **agregador**, seleccionando la mejor ruta según precio, velocidad y fiabilidad.
 
-* Checks multiple integrated bridges for optimal routes
-* Sends your transaction to the selected provider
+Para aprender cómo puentear CAKE, consulta los tutoriales y la FAQ en las siguientes secciones.
 
-Bridging is non-custodial—your assets do not touch PancakeSwap custody. Transfers are handled directly by the bridge providers.
+***
 
-### Supported Bridge Providers
+## 🔗 Cómo funciona
 
-We currently integrate with:
+### Puentear mediante agregadores
+
+El Puente de PancakeSwap actúa como una capa inteligente sobre protocolos de puente de terceros de confianza. Cuando inicias una transferencia de puente, PancakeSwap:
+
+* Verifica múltiples puentes integrados para encontrar rutas óptimas
+* Envía tu transacción al proveedor seleccionado
+
+Puentear no es custodial: tus activos no pasan por la custodia de PancakeSwap. Las transferencias son manejadas directamente por los proveedores del puente.
+
+### Proveedores de puente compatibles
+
+Actualmente integramos con:
 
 * deBridge
 * cBridge
@@ -68,13 +68,13 @@ We currently integrate with:
 * Stargate
 * Meson
 
-> Note: Each provider has different bridging mechanics, supported chains, fees, and limits.
+> Nota: Cada proveedor tiene diferentes mecánicas de puenteo, cadenas compatibles, comisiones y límites.
 
 ***
 
-### Supported Chains and Tokens
+### Cadenas y tokens compatibles
 
-#### Chains Currently Supported
+#### Cadenas actualmente compatibles
 
 * BNB Chain
 * Base
@@ -83,11 +83,11 @@ We currently integrate with:
 * opBNB
 * ZKsync
 * Linea
-* Aptos (V1 site)
+* Aptos (sitio V1)
 
-#### Tokens Available for Bridging
+#### Tokens disponibles para puentear
 
-Available tokens vary by chain and route. Common supported tokens include (but are not limited to):
+Los tokens disponibles varían según la cadena y la ruta. Los tokens comunes compatibles incluyen (pero no se limitan a):
 
 * CAKE
 * USDT
@@ -96,89 +96,89 @@ Available tokens vary by chain and route. Common supported tokens include (but a
 
 ***
 
-#### Limitations & Exclusions
+#### Limitaciones y exclusiones
 
-Some tokens may not be supported due to bridge limitations or liquidity constraints. These have been filtered out for the best user experience. For example:
+Algunos tokens pueden no estar disponibles debido a limitaciones del puente o restricciones de liquidez. Estos han sido filtrados para ofrecer la mejor experiencia de usuario. Por ejemplo:
 
-**For cBridge:**
+**Para cBridge:**
 
 * Wrapped BNB (BNB Chain)
 * USDT (Arbitrum)
 * USDC.e (Arbitrum)
 
-**For deBridge:**
+**Para deBridge:**
 
 * cUSDCv3 (Ethereum)
 * cUSDCv3 (Polygon)
 * cUSDCv3 (Arbitrum)
 
-_The above are examples. The actual available tokens per chain are shown directly in the Bridge UI._
+_Lo anterior son ejemplos. Los tokens realmente disponibles por cadena se muestran directamente en la interfaz del Puente._
 
 ***
 
-### 💸 Fees and Costs
+### 💸 Comisiones y costos
 
-#### Bridge Fees
+#### Comisiones del puente
 
-* Charged by the underlying bridge provider
-* Typically includes a small fee per transfer
-* Clearly shown before you confirm your bridge
-
-***
-
-#### Gas Costs
-
-* You pay gas fees on the **source chain** to initiate the transaction
-* Some providers may also require gas on the **destination chain**
-* **Tip:** Always keep native tokens (e.g., ETH, BNB) on both sides of the bridge
+* Las cobra el proveedor de puente subyacente
+* Generalmente incluye una pequeña comisión por transferencia
+* Se muestran claramente antes de que confirmes tu puente
 
 ***
 
-#### Minimum Amounts & Restrictions
+#### Costos de gas
 
-Some bridge routes enforce:
-
-* **Minimum/maximum bridge amounts** (e.g., minimum of 10 USDC)
-* **Supported token decimals or formats** (e.g., only ERC-20 tokens)
-
-The UI will automatically detect and display invalid transfers.
+* Pagas comisiones de gas en la **cadena de origen** para iniciar la transacción
+* Algunos proveedores también pueden requerir gas en la **cadena de destino**
+* **Consejo:** Mantén siempre tokens nativos (p. ej., ETH, BNB) en ambos lados del puente
 
 ***
 
-### ⏳ Transaction Times & Tracking
+#### Montos mínimos y restricciones
 
-#### How Long Does Bridging Take?
+Algunas rutas de puente exigen:
 
-Bridge transfers typically complete within a few **minutes**, depending on:
+* **Montos mínimos/máximos de puente** (p. ej., mínimo de 10 USDC)
+* **Decimales o formatos de token compatibles** (p. ej., solo tokens ERC-20)
 
-* Source and destination chains
-* Network congestion
-* Bridge provider efficiency
+La interfaz detectará y mostrará automáticamente las transferencias no válidas.
 
-#### Tracking Your Transfer
+***
 
-Once submitted, you can view the transaction status through provider-specific explorers:
+### ⏳ Tiempos de transacción y seguimiento
+
+#### ¿Cuánto tiempo tarda puentear?
+
+Las transferencias de puente suelen completarse en pocos **minutos**, dependiendo de:
+
+* Las cadenas de origen y destino
+* La congestión de la red
+* La eficiencia del proveedor del puente
+
+#### Seguimiento de tu transferencia
+
+Una vez enviada, puedes ver el estado de la transacción a través de los exploradores específicos de cada proveedor:
 
 * [deBridge Explorer](https://app.debridge.finance/orders)
 * [LayerZero Scan](https://layerzeroscan.com/)
 * [Stargate Explorer](https://stargate.finance/)
 * [CelerScan (cBridge)](https://celerscan.com/)
 
-If a transaction is stuck for a long time, check the relevant explorer or reach out to our admins via [social channels](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/social-accounts) for [help](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/faq/help).
+Si una transacción está bloqueada por mucho tiempo, consulta el explorador correspondiente o comunícate con nuestros administradores a través de los [canales sociales](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/social-accounts) para obtener [ayuda](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/faq/help).
 
 ***
 
-### 🧠 Tips Before You Bridge
+### 🧠 Consejos antes de puentear
 
-* **Keep gas tokens on both chains** (e.g., ETH + BNB)
-* **Start small** if it’s your first time bridging
-* Avoid bridging during periods of high chain activity (can result in higher gas fees)
-* Confirm token compatibility on both chains
-* Always double-check source and destination networks
+* **Mantén tokens de gas en ambas cadenas** (p. ej., ETH + BNB)
+* **Empieza con poco** si es tu primera vez puenteando
+* Evita puentear durante períodos de alta actividad en la cadena (puede resultar en comisiones de gas más altas)
+* Confirma la compatibilidad del token en ambas cadenas
+* Siempre verifica dos veces las redes de origen y destino
 
 ***
 
-### Additional: CAKE Omni-chain Fungible Token (OFT) Addresses
+### Adicional: Direcciones del Token Fungible Omnicadena (OFT) de CAKE
 
 1. **BNB Chain**
    * `cake`: `0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82` ([link](https://bscscan.com/address/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82))
@@ -197,4 +197,3 @@ If a transaction is stuck for a long time, check the relevant explorer or reach 
    * `cakeOFT`: `0x3055913c90Fcc1A6CE9a358911721eEb942013A1` ([link](https://basescan.org/address/0x3055913c90Fcc1A6CE9a358911721eEb942013A1#code))
 8. **opBNB**
    * `cakeOFT`: `0x2779106e4F4A8A28d77A24c18283651a2AE22D1C` ([link](https://opbnbscan.com/address/0x2779106e4F4A8A28d77A24c18283651a2AE22D1C?tab=Contract\&p=1))
-
