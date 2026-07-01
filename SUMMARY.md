@@ -293,6 +293,8 @@
 * [🔔 Notifications](trading-tools/notifications.md)
 * [❓ Trading Tools FAQ](trading-tools/trading-tools-faq/README.md)
   * [MEV Guard FAQ](trading-tools/trading-tools-faq/mev-guard-faq.md)
+* [🤖 BNB AI Agent Studio](trading-tools/bnb-ai-agent-studio/README.md)
+  * [Reference Agent — Order/Intents Settlement Agent](trading-tools/bnb-ai-agent-studio/reference-agent-order-intents-settlement-agent.md)
 
 ## Protocol
 
