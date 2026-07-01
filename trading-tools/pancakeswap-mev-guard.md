@@ -1,27 +1,27 @@
 ---
-description: Protect your trades with bloXroute <> PancakeSwap Private RPC!
+description: ¡Protege tus operaciones con el RPC privado de bloXroute <> PancakeSwap!
 ---
 
 # 🛡️ PancakeSwap MEV Guard
 
-Are you worried about your trades being frontrun by MEV bots onchain? Worry no more - use PancakeSwap’s MEV Guard to protect your trades.
+¿Te preocupa que los bots MEV hagan frontrunning de tus operaciones on-chain? Ya no tienes que preocuparte — usa el MEV Guard de PancakeSwap para proteger tus operaciones.
 
-Available on BNB Chain.
+Disponible en BNB Chain.
 
-### Highlights
+### Aspectos destacados
 
-1. Enjoy safe, secure and private Swaps without frontrunning and sandwich attacks.
-2. Fast and reliable RPC endpoint for your daily usage, beyond Swapping and trading.
-3. Easy to set up and completely free solution for all kinds of Swappers.
+1. Disfruta de intercambios seguros, protegidos y privados sin frontrunning ni ataques sándwich.
+2. Endpoint RPC rápido y confiable para tu uso diario, más allá del intercambio y el trading.
+3. Solución fácil de configurar y completamente gratuita para todo tipo de usuarios.
 
-### How to use?
+### ¿Cómo usarlo?
 
-Visit [https://pancakeswap.finance/mev](https://pancakeswap.finance/mev) to learn more.
+Visita [https://pancakeswap.finance/mev](https://pancakeswap.finance/mev) para obtener más información.
 
-Or use the following info to add to your wallet manually:
+O usa la siguiente información para añadirlo manualmente a tu billetera:
 
-* Network Name: PancakeSwap MEV Guard New&#x20;
-* RPC URL: https://bscrpc.pancakeswap.finance&#x20;
-* Chain ID: 56&#x20;
-* Currency symbol: BNB&#x20;
-* Block Explorer URL: https://bscscan.com
+* Nombre de la red: PancakeSwap MEV Guard New&#x20;
+* URL RPC: https://bscrpc.pancakeswap.finance&#x20;
+* ID de cadena: 56&#x20;
+* Símbolo de moneda: BNB&#x20;
+* URL del explorador de bloques: https://bscscan.com

@@ -5,29 +5,28 @@ icon: people-arrows
 # Social Login
 
 {% hint style="danger" %}
-Smart Wallets created through Social Login currently support only a [limited set of networks](https://docs.pancakeswap.finance/trading-tools/social-login/social-login-faq#general-overview).\
-Transferring assets to a chain that is _not supported_ by the Smart Wallet UI or the underlying wallet provider may result in your funds becoming temporarily inaccessible.
+Las Smart Wallets creadas a través de Social Login actualmente solo admiten un [conjunto limitado de redes](https://docs.pancakeswap.finance/trading-tools/social-login/social-login-faq#general-overview).\
+Transferir activos a una cadena que _no es compatible_ con la interfaz de la Smart Wallet o el proveedor de billetera subyacente puede resultar en que tus fondos queden temporalmente inaccesibles.
 {% endhint %}
 
-### What is Social Login?
+### ¿Qué es Social Login?
 
-PancakeSwap’s **Social Login** allows you to create a secure, self-custodial wallet using your Google, X (Twitter), Discord, or Telegram account — no browser extensions, seed phrases, or complicated setup required.
+El **Social Login** de PancakeSwap te permite crear una billetera segura y autocustodiada usando tu cuenta de Google, X (Twitter), Discord o Telegram — sin extensiones de navegador, frases semilla ni configuraciones complicadas.
 
-It’s the fastest way to start exploring DeFi, especially for newcomers or those looking to jump in quickly. Your wallet is created automatically in the background and works seamlessly across all supported PancakeSwap chains.
+Es la forma más rápida de comenzar a explorar DeFi, especialmente para los recién llegados o quienes quieren empezar rápidamente. Tu billetera se crea automáticamente en segundo plano y funciona sin problemas en todas las cadenas de PancakeSwap compatibles.
 
-#### 🚀 Social Login + Pancake Gifts: A Seamless DeFi Onboarding
+#### 🚀 Social Login + Pancake Gifts: una incorporación fluida a DeFi
 
-When paired with **PancakeSwap Gifts**, Social Login delivers the ultimate beginner-friendly experience:
+Cuando se combina con **PancakeSwap Gifts**, Social Login ofrece la experiencia más amigable para principiantes:
 
-* **Receive a gift** (tokens or NFTs) via a simple link
-* **Sign in instantly** with your social account
-* **Claim and use your assets** — no wallet setup or tech know-how needed
+* **Recibe un regalo** (tokens o NFTs) mediante un enlace simple
+* **Inicia sesión al instante** con tu cuenta social
+* **Reclama y usa tus activos** — sin necesidad de configurar una billetera ni conocimientos técnicos
 
-This flow removes the common hurdles of starting in crypto and makes it easier than ever to get onboarded into the PancakeSwap ecosystem.
+Este flujo elimina los obstáculos habituales para empezar en cripto y facilita más que nunca la incorporación al ecosistema de PancakeSwap.
 
-Explore now:
+Explora ahora:
 
 * [pancake-gifts](../pancake-gifts/ "mention")
 * [social-login-how-to-guide.md](social-login-how-to-guide.md "mention")
 * [social-login-faq.md](social-login-faq.md "mention")
-

@@ -1,90 +1,89 @@
-# Pancake Gifts FAQ
+# FAQ de Pancake Gifts
 
-This FAQ covers how Pancake Gifts work behind the scenes, what to expect in different scenarios, and why certain design choices were made.
+Este FAQ cubre cómo funcionan los Pancake Gifts entre bastidores, qué esperar en diferentes escenarios y por qué se tomaron ciertas decisiones de diseño.
 
 ***
 
-## 1. 🔐 Gift Code Behavior & Access
+## 1. 🔐 Comportamiento del código de regalo y acceso
 
-### **1.1 Why isn’t the gift code stored?**
+### **1.1 ¿Por qué no se almacena el código de regalo?**
 
-We **intentionally do not store** the gift code in:
+**Intencionalmente no almacenamos** el código de regalo en:
 
-* Frontend local storage
-* Backend databases
+* El almacenamiento local del frontend
+* Las bases de datos del backend
 
-This protects:
+Esto protege:
 
-* User privacy
-* Security against device compromise
-* Accidental or malicious gift claims
+* La privacidad del usuario
+* La seguridad ante el compromiso del dispositivo
+* Los reclamos de regalos accidentales o maliciosos
 
-### **1.2 Can I regenerate or retrieve the gift code later?**
+### **1.2 ¿Puedo regenerar o recuperar el código de regalo más tarde?**
 
-No. The gift code:
+No. El código de regalo:
 
-* Is shown **only once** during creation
-* Is embedded in the **link** or **QR code** generated
-* Will **not be displayed again** in the UI or history
+* Solo se muestra **una vez** durante la creación
+* Está integrado en el **enlace** o **código QR** generado
+* **No se mostrará de nuevo** en la interfaz de usuario ni en el historial
 
 {% hint style="warning" %}
-If the code is lost and you didn’t save the link or QR, the gift cannot be claimed manually. Instead, to retrieve your gift amount, you may manually cancel it.
+Si el código se pierde y no guardaste el enlace o el QR, el regalo no puede reclamarse manualmente. En su lugar, para recuperar el importe de tu regalo, puedes cancelarlo manualmente.
 {% endhint %}
 
-### **1.3 Will the gift code still be embedded in the share link or QR?**
+### **1.3 ¿El código de regalo seguirá estando integrado en el enlace de compartir o el QR?**
 
-Yes:
+Sí:
 
-* Share link includes the gift code (e.g. `pancakeswap.finance/gift#code=xxxx`)
-* QR code also embeds the gift code, but **cannot be regenerated later.**&#x20;
+* El enlace para compartir incluye el código de regalo (ej. `pancakeswap.finance/gift#code=xxxx`)
+* El código QR también integra el código de regalo, pero **no puede regenerarse más tarde.**&#x20;
 
 {% hint style="success" %}
-**Pro Tip:**  Download the image once its generated
+**Consejo Pro:** Descarga la imagen una vez que se genere
 {% endhint %}
 
-* Manual claims require the actual gift code — no fallback if the link/QR is lost
+* Los reclamos manuales requieren el código de regalo real — no hay alternativa si se pierde el enlace/QR
 
-## 2. 🎁 Gift Status & Expiry
+## 2. 🎁 Estado del regalo y vencimiento
 
-### **2.1 Can I view whether a gift has been claimed, cancelled, or expired?**
+### **2.1 ¿Puedo ver si un regalo ha sido reclamado, cancelado o vencido?**
 
-Yes. The **Gift History** section shows:
+Sí. La sección de **Historial de regalos** muestra:
 
-* Status: Pending / Claimed / Cancelled / Expired / Unclaimable
-* Gift details (token, amount, type, chain, timestamps)
+* Estado: Pendiente / Reclamado / Cancelado / Vencido / No reclamable
+* Detalles del regalo (token, cantidad, tipo, cadena, marcas de tiempo)
 
-### **2.2 What happens when a gift expires?**
+### **2.2 ¿Qué sucede cuando un regalo vence?**
 
-If a gift is not claimed within the default **7-day window**:
+Si un regalo no se reclama dentro del **período predeterminado de 7 días**:
 
-* The **entire gift amount is refunded** to the creator’s wallet
-* The fixed **claim gas fee (\~$0.05) is not returned**
+* El **importe total del regalo se reembolsa** a la billetera del creador
+* La **tarifa fija de gas del reclamo (\~$0.05) no se devuelve**
 
-## 3. 🧠 Claim Logic & Limitations
+## 3. 🧠 Lógica de reclamo y limitaciones
 
-### **3.1 Can users claim a gift on a different chain from the one it was created on?**
+### **3.1 ¿Pueden los usuarios reclamar un regalo en una cadena diferente a la que fue creado?**
 
-No. A gift is **chain-bound**:
+No. Un regalo está **vinculado a una cadena**:
 
-* A gift created on **BSC** must be claimed on **BSC**
-* Cross-chain gifting is not currently supported
+* Un regalo creado en **BSC** debe reclamarse en **BSC**
+* Los regalos entre cadenas no están soportados actualmente
 
-## 4. ⛽ Gas Fees & Design
+## 4. ⛽ Tarifas de gas y diseño
 
-### **4.1 How is the fixed gas amount for gift creation decided?**
+### **4.1 ¿Cómo se decide la cantidad fija de gas para la creación del regalo?**
 
-We set a flat gas price based on current BNB chain conditions (\~5 times current recommended Gas amount).
+Establecemos un precio de gas fijo basado en las condiciones actuales de BNB Chain (\~5 veces la cantidad de gas recomendada actual).
 
-This buffer:
+Este margen:
 
-* Protects against sudden gas spikes
-* Ensures gifts remain claimable under normal volatility
+* Protege contra picos repentinos de gas
+* Garantiza que los regalos permanezcan reclamables bajo volatilidad normal
 
 \
-Example
+Ejemplo
 
-* **Current recommended: 0.1 Gwei** (see: [BNB Gas Tracker](https://bscscan.com/gastracker))
-* **Therefore, Fixed gas claim fee= 0.1 Gwei x 5 = 0.5 Gwei**
-
+* **Recomendado actual: 0.1 Gwei** (ver: [BNB Gas Tracker](https://bscscan.com/gastracker))
+* **Por tanto, tarifa fija de gas del reclamo = 0.1 Gwei x 5 = 0.5 Gwei**
 
 

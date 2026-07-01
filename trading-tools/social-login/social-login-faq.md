@@ -1,18 +1,18 @@
-# Social Login FAQ
+# FAQ de Social Login
 
 {% hint style="info" %}
-For more information view: [https://docs.privy.io/security/wallet-infrastructure/architecture#wallet-transaction](https://docs.privy.io/security/wallet-infrastructure/architecture#wallet-transaction)
+Para más información, visita: [https://docs.privy.io/security/wallet-infrastructure/architecture#wallet-transaction](https://docs.privy.io/security/wallet-infrastructure/architecture#wallet-transaction)
 {% endhint %}
 
-### 🔍 General Overview
+### 🔍 Descripción general
 
-**1. What is PancakeSwap’s social login and why should I use it?**
+**1. ¿Qué es el Social Login de PancakeSwap y por qué debería usarlo?**
 
-Social login lets you access PancakeSwap using your **Google**, **X (Twitter)**, **Discord**, or **Telegram** account — no wallet extension or seed phrase needed. A self-custodial wallet is created behind the scenes, so you can try DeFi instantly, even with small amounts. This lowers the barrier to entry, especially in time-sensitive moments.
+Social Login te permite acceder a PancakeSwap usando tu cuenta de **Google**, **X (Twitter)**, **Discord** o **Telegram** — sin necesidad de extensión de billetera ni frase semilla. Se crea una billetera autocustodiada en segundo plano, para que puedas probar DeFi de inmediato, incluso con pequeñas cantidades. Esto reduce la barrera de entrada, especialmente en momentos urgentes.
 
-**2. What chains does social login support?**
+**2. ¿Qué cadenas admite el Social Login?**
 
-Your social login wallet works across all chains currently supported by PancakeSwap:
+Tu billetera de Social Login funciona en todas las cadenas actualmente compatibles con PancakeSwap:
 
 * **BNB Chain**
 * **Ethereum**
@@ -21,88 +21,88 @@ Your social login wallet works across all chains currently supported by PancakeS
 * **Linea**
 * **opBNB**
 
-All wallets are **EVM-compatible** and can be used across these networks natively through PancakeSwap. If you’d like to see support for other chains (including non-EVM), let us know!
+Todas las billeteras son **compatibles con EVM** y pueden usarse en estas redes de forma nativa a través de PancakeSwap. Si quieres ver soporte para otras cadenas (incluidas las no EVM), ¡haznos saber!
 
-**3. Where can I use the social login wallet?**
+**3. ¿Dónde puedo usar la billetera de Social Login?**
 
-You can use it directly in any desktop or mobile **browser** through the PancakeSwap web app. It is **not compatible** with external wallet apps or dApp browsers.
+Puedes usarla directamente en cualquier **navegador** de escritorio o móvil a través de la aplicación web de PancakeSwap. **No es compatible** con aplicaciones de billetera externas ni navegadores de dApps.
 
 
 
-### 🛠️ Wallet Setup & Usage
+### 🛠️ Configuración y uso de la billetera
 
-**4. How is the wallet created and secured?**
+**4. ¿Cómo se crea y protege la billetera?**
 
-Your wallet is created automatically upon login and secured using a **2-of-2 key share system**. Both shares are required to reconstruct the key and generate a signature.
+Tu billetera se crea automáticamente al iniciar sesión y se protege mediante un **sistema de 2 claves compartidas (2-of-2)**. Se requieren ambas partes para reconstruir la clave y generar una firma.
 
-For more information on share encryption view:
+Para más información sobre el cifrado de las partes, visita:
 
 * [https://docs.privy.io/security/wallet-infrastructure/architecture](https://docs.privy.io/security/wallet-infrastructure/architecture)
 * [https://privy.io/blog/how-privy-embedded-wallets-work](https://privy.io/blog/how-privy-embedded-wallets-work)
 
-**5. How many wallets can I create?**
+**5. ¿Cuántas billeteras puedo crear?**
 
-You get **one wallet per social account per dApp**. For example, if you use your Google login on another app that also uses Privy, it will create a separate wallet.
+Obtienes **una billetera por cuenta social por dApp**. Por ejemplo, si usas tu inicio de sesión de Google en otra aplicación que también usa Privy, se creará una billetera separada.
 
 
 
-### 🔐 Security & Privacy
+### 🔐 Seguridad y privacidad
 
-**6. Can someone access my wallet if they steal my device?**
+**6. ¿Puede alguien acceder a mi billetera si roban mi dispositivo?**
 
-No. Even if someone gains access to your device, they would still need both your **social login** and (if set) your **recovery password**.
+No. Incluso si alguien obtiene acceso a tu dispositivo, seguiría necesitando tanto tu **inicio de sesión social** como (si está configurada) tu **contraseña de recuperación**.
 
-**7. What data is stored by PancakeSwap or Privy?**
+**7. ¿Qué datos almacenan PancakeSwap o Privy?**
 
-* PancakeSwap **does not store** any wallet-related key shares.
-* Privy stores the **encrypted Auth Share and Recovery Share (if recovery flow is not set)**.
+* PancakeSwap **no almacena** ninguna parte de la clave relacionada con la billetera.
+* Privy almacena la **parte de autenticación cifrada y la parte de recuperación (si no se ha configurado el flujo de recuperación)**.
 
-> If you haven’t completed the recovery setup, your Recovery Share remains stored with Privy by default. For more info visit: [https://docs.privy.io/security/wallet-infrastructure/advanced/user-device#securing-the-recovery-share](https://docs.privy.io/security/wallet-infrastructure/advanced/user-device#securing-the-recovery-share)
+> Si no has completado la configuración de recuperación, tu parte de recuperación permanece almacenada por Privy de forma predeterminada. Para más información, visita: [https://docs.privy.io/security/wallet-infrastructure/advanced/user-device#securing-the-recovery-share](https://docs.privy.io/security/wallet-infrastructure/advanced/user-device#securing-the-recovery-share)
 >
 >
 
-### 🔄 Recovery & Session Management
+### 🔄 Recuperación y gestión de sesiones
 
-**8. Can I use the same wallet on a different device or browser?**
+**8. ¿Puedo usar la misma billetera en un dispositivo o navegador diferente?**
 
-Yes! Simply log in with the same social account. If it's a new device, you'll go through the recovery process using your recovery password (if set up).
+¡Sí! Simplemente inicia sesión con la misma cuenta social. Si es un dispositivo nuevo, pasarás por el proceso de recuperación usando tu contraseña de recuperación (si la configuraste).
 
-**9. What happens if I switch devices?**
+**9. ¿Qué sucede si cambio de dispositivo?**
 
-You’ll be asked to re-login with your social account and go through the recovery flow (password setup). If you haven’t set up a recovery password, social account login is sufficient.
+Se te pedirá que vuelvas a iniciar sesión con tu cuenta social y pases por el flujo de recuperación (configuración de contraseña). Si no configuraste una contraseña de recuperación, el inicio de sesión con la cuenta social es suficiente.
 
-**10. What if I lose access to both my social login and recovery method?**
+**10. ¿Qué pasa si pierdo acceso tanto a mi Social Login como a mi método de recuperación?**
 
-If you lose access to both your social account and your recovery method, **your wallet cannot be recovered**. There’s no seed phrase fallback, and private key export is not currently supported.
+Si pierdes acceso tanto a tu cuenta social como a tu método de recuperación, **tu billetera no puede recuperarse**. No hay alternativa de frase semilla y la exportación de clave privada no está soportada actualmente.
 
-> ⚠️ Remember: Exporting your private key, if enabled in the future, would grant full control of your wallet to anyone who has it — treat it with extreme caution.
+> ⚠️ Recuerda: exportar tu clave privada, si se habilita en el futuro, otorgaría control total de tu billetera a cualquiera que la tenga — trátala con extrema cautela.
 
-**11. How long do active sessions last?**
+**11. ¿Cuánto duran las sesiones activas?**
 
-Sessions last for 30 **days**. After that, you’ll be prompted to **log in again** and (if needed) re-enter your recovery credentials. During an active session, you can transact without needing to manually approve each action.
-
-
-
-### ⚙️ Compatibility & Limitations
-
-**12. Can I export or import wallets?**
-
-* **Export**: Not supported by default, for security reasons. This may change in future updates.
-* **Import**: Not supported. You cannot import external wallets like MetaMask or Phantom.
-
-**13. Can I connect this wallet to other dApps using WalletConnect?**
-
-Not at this time. The embedded wallet is **limited to PancakeSwap only**. If you're interested in using it more broadly, let us know — future expansions are possible.
+Las sesiones duran 30 **días**. Después de eso, se te pedirá que **vuelvas a iniciar sesión** y (si es necesario) vuelvas a ingresar tus credenciales de recuperación. Durante una sesión activa, puedes realizar transacciones sin necesidad de aprobar manualmente cada acción.
 
 
 
-### 🚀 Advanced Features
+### ⚙️ Compatibilidad y limitaciones
 
-**14. Does the social login wallet support Account Abstraction?**
+**12. ¿Puedo exportar o importar billeteras?**
 
-Yes. It supports **Account Abstraction features** such as transaction batching and **gas sponsorship** through integrations like Biconomy etc.
+* **Exportar**: No está soportado de forma predeterminada, por razones de seguridad. Esto puede cambiar en futuras actualizaciones.
+* **Importar**: No está soportado. No puedes importar billeteras externas como MetaMask o Phantom.
 
-**15. How are signless transactions enabled?**
+**13. ¿Puedo conectar esta billetera a otras dApps usando WalletConnect?**
 
-* After login, your session is active for up to 30 **days**. During this time, PancakeSwap can request Privy to sign transactions on your behalf using your session credentials.&#x20;
-* You won’t see a wallet popup for each action — everything is handled in the background. After 30 days, you’ll need to re-login to continue using this signless experience.
+En este momento no. La billetera integrada está **limitada solo a PancakeSwap**. Si estás interesado en usarla de forma más amplia, haznos saber — las expansiones futuras son posibles.
+
+
+
+### 🚀 Funciones avanzadas
+
+**14. ¿La billetera de Social Login admite Account Abstraction?**
+
+Sí. Admite **funciones de Account Abstraction** como el agrupamiento de transacciones y el **patrocinio de gas** a través de integraciones como Biconomy, etc.
+
+**15. ¿Cómo se habilitan las transacciones sin firma?**
+
+* Después del inicio de sesión, tu sesión está activa hasta 30 **días**. Durante este tiempo, PancakeSwap puede solicitar a Privy que firme transacciones en tu nombre usando tus credenciales de sesión.&#x20;
+* No verás una ventana emergente de billetera para cada acción — todo se gestiona en segundo plano. Después de 30 días, deberás volver a iniciar sesión para continuar usando esta experiencia sin firma.

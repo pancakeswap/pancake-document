@@ -1,109 +1,109 @@
-# Reference Agent — Order/Intents Settlement Agent
+# Agente de Referencia — Agente de Liquidación de Órdenes/Intenciones
 
-> An ERC-8183 Provider agent that fulfills a single swap-intent Job at a time by routing it through PancakeSwap aggregation and delivering the target token directly to the Client.
+> Un agente Provider de ERC-8183 que cumple un único Job de intención de intercambio a la vez, enrutándolo a través de la agregación de PancakeSwap y entregando el token objetivo directamente al Client.
 
-### 0. How it maps to ERC-8183
+### 0. Cómo se mapea a ERC-8183
 
-ERC-8183 (Agentic Commerce; Virtuals + Ethereum Foundation) defines a **Job** with three roles and states Open → Funded → Submitted → Terminal. BNB's **BNBAgent SDK** is the live implementation.
+ERC-8183 (Agentic Commerce; Virtuals + Ethereum Foundation) define un **Job** con tres roles y estados Open → Funded → Submitted → Terminal. El **BNBAgent SDK** de BNB es la implementación en producción.
 
-| Role                                                     | In this agent                                                                                                                  |
-| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| **Client** (Agent-A)                                     | posts a swap intent: "swap X of token A → token B, deliver me ≥ `minOut`", escrows the input + a tip                           |
-| **Provider** (Agent-B) — **this is our reference agent** | quotes via **PancakeSwap aggregation**, and if it can meet/beat `minOut`, executes the swap and delivers token B to the Client |
-| **Evaluator**                                            | verifies the Client received token-B amount ≥ `minOut`; releases the tip (or refunds the Client)                               |
+| Rol                                                      | En este agente                                                                                                                           |
+| -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| **Client** (Agent-A)                                     | publica una intención de intercambio: "intercambia X del token A → token B, entrégame ≥ `minOut`", deposita en escrow el input + propina |
+| **Provider** (Agent-B) — **este es nuestro agente de referencia** | cotiza vía **agregación de PancakeSwap** y, si puede cumplir/superar `minOut`, ejecuta el intercambio y entrega el token B al Client    |
+| **Evaluator**                                            | verifica que el Client recibió una cantidad de token-B ≥ `minOut`; libera la propina (o reembolsa al Client)                             |
 
-The deliverable is objective ("did the Client receive ≥ `minOut`?"), which is exactly why this fits ERC-8183 where the rebalancer didn't.
-
-***
-
-### 1. Purpose & one-line scope
-
-> A **Provider** agent that fulfills a single swap-intent Job at a time by routing it through PancakeSwap aggregation and delivering the target token directly to the Client — and nothing else.
+El entregable es objetivo ("¿recibió el Client ≥ `minOut`?"), que es exactamente por qué esto se adapta a ERC-8183 donde el rebalanceador no lo hacía.
 
 ***
 
-### 2. What the agent is ALLOWED to do (capability allowlist)
+### 1. Propósito y alcance en una línea
 
-| # | Capability             | Surface                                                     | Notes                                                                      |
-| - | ---------------------- | ----------------------------------------------------------- | -------------------------------------------------------------------------- |
-| A | Discover open Jobs     | BNBAgent SDK (ERC-8183 registry)                            | Read-only; filter to swap-intent Jobs it can serve                         |
-| B | Quote a route          | **PancakeSwap aggregation** (Aggregator API / Smart Router) | Read-only; best price across V3                                            |
-| C | Accept a Job           | BNBAgent SDK (Funded → committed)                           | Only if its fresh quote ≥ `minOut` and tip ≥ floor                         |
-| D | Execute the swap       | PancakeSwap router                                          | Input pulled from Job escrow; **output recipient = the Client**, in one tx |
-| E | Submit the deliverable | BNBAgent SDK (→ Submitted)                                  | The settlement tx hash as proof                                            |
-| F | Claim the tip          | ERC-8183 escrow / x402                                      | Only after the Evaluator marks the Job Terminal                            |
-
-**Output of every settlement goes directly to the Client. The agent's only earning is the Job's tip.**
+> Un agente **Provider** que cumple un único Job de intención de intercambio a la vez enrutándolo a través de la agregación de PancakeSwap y entregando el token objetivo directamente al Client — y nada más.
 
 ***
 
-### 3. Hard guardrails (the gate to featuring)
+### 2. Lo que el agente tiene PERMITIDO hacer (lista de capacidades permitidas)
 
-| Guardrail                              | Rule                                                                                                                                                              |
-| -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Never accept what it can't fulfill** | Accept a Job only if a _fresh_ quote clears `minOut`. If it can't, leave the Job Funded for another Provider.                                                     |
-| **Requote at execution**               | Re-quote immediately before settling; abort if the route no longer clears `minOut` (no stale quotes).                                                             |
-| **Atomic settlement**                  | Pull-from-escrow → swap → deliver to Client in **one transaction**, output recipient = Client. The agent must never hold the Client's funds across a failed step. |
-| **Slippage**                           | Execution slippage bounded; delivered amount must still be ≥ `minOut` after slippage, or the tx reverts. Never `amountOutMin = 0`.                                |
-| **Deadline**                           | Short deadline on the settlement tx (≤ 5 min); respect the Job's own deadline.                                                                                    |
-| **Min tip / max value**                | Don't accept Jobs below a tip floor or above a per-Job value cap.                                                                                                 |
-| **Token safelist**                     | Only serve Jobs whose tokens are on the PancakeSwap token list (anti-honeypot / fake-token).                                                                      |
-| **Single-Job concurrency (v1)**        | Fulfill one Job at a time; no over-commitment.                                                                                                                    |
-| **Gas precondition**                   | Confirm enough BNB for the full settlement before accepting.                                                                                                      |
-| **Idempotent**                         | Never double-submit or re-fulfill a Job already Submitted/Terminal.                                                                                               |
+| # | Capacidad                | Superficie                                                         | Notas                                                                          |
+| - | ------------------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| A | Descubrir Jobs abiertos  | BNBAgent SDK (registro ERC-8183)                                    | Solo lectura; filtrar a Jobs de intención de intercambio que pueda servir       |
+| B | Cotizar una ruta         | **Agregación de PancakeSwap** (Aggregator API / Smart Router)       | Solo lectura; mejor precio en V3                                                |
+| C | Aceptar un Job           | BNBAgent SDK (Funded → committed)                                   | Solo si su cotización reciente ≥ `minOut` y propina ≥ mínimo                   |
+| D | Ejecutar el intercambio  | Router de PancakeSwap                                               | Input tomado del escrow del Job; **destinatario del output = el Client**, en una tx |
+| E | Enviar el entregable     | BNBAgent SDK (→ Submitted)                                          | El hash de la tx de liquidación como prueba                                     |
+| F | Reclamar la propina      | Escrow ERC-8183 / x402                                              | Solo después de que el Evaluator marque el Job como Terminal                    |
 
-If any rule can't be met, **skip the Job** — never force a settlement.
+**El output de cada liquidación va directamente al Client. La única ganancia del agente es la propina del Job.**
 
 ***
 
-### 4. Out of scope — the agent MUST NOT
+### 3. Salvaguardas estrictas (la puerta para ser destacado)
 
-1. **Use Client funds for anything but the specified swap.** Output recipient is always the Client.
-2. **Front its own inventory / take principal risk.** v1 is **escrow-pull only** — it routes the Client's escrowed input; it does not fill from its own balance.
-3. **Route through non-PancakeSwap or unverified contracts**, or settle outside PancakeSwap aggregation.
-4. **Serve Jobs with non-safelisted tokens**, or (v1) any scaled-UI / RWA token (§5).
-5. **Use leverage, perps, margin, or lending.**
-6. **Submit a deliverable it didn't actually fulfill** (no false attestation) or **evaluate its own Jobs** (conflict of interest).
-7. **Call any owner/admin function** on PancakeSwap or the ERC-8183 contracts.
-8. **Hold standing token approvals** beyond a single settlement; scope approvals to the Job amount.
+| Salvaguarda                               | Regla                                                                                                                                                                       |
+| ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nunca aceptar lo que no puede cumplir** | Acepta un Job solo si una cotización _reciente_ supera `minOut`. Si no puede, deja el Job en Funded para otro Provider.                                                     |
+| **Recotizar al ejecutar**                 | Recotiza inmediatamente antes de liquidar; aborta si la ruta ya no supera `minOut` (sin cotizaciones obsoletas).                                                             |
+| **Liquidación atómica**                   | Tomar-del-escrow → intercambiar → entregar al Client en **una transacción**, destinatario del output = Client. El agente nunca debe retener los fondos del Client tras un paso fallido. |
+| **Deslizamiento**                         | Deslizamiento de ejecución acotado; la cantidad entregada debe seguir siendo ≥ `minOut` después del deslizamiento, o la tx revierte. Nunca `amountOutMin = 0`.              |
+| **Plazo límite**                          | Plazo corto en la tx de liquidación (≤ 5 min); respetar el plazo propio del Job.                                                                                            |
+| **Propina mínima / valor máximo**         | No aceptar Jobs por debajo de un umbral mínimo de propina ni por encima de un límite de valor por Job.                                                                      |
+| **Lista segura de tokens**                | Solo servir Jobs cuyos tokens estén en la lista de tokens de PancakeSwap (anti-honeypot / token falso).                                                                     |
+| **Concurrencia de Job único (v1)**        | Cumplir un Job a la vez; sin sobre-comprometerse.                                                                                                                           |
+| **Precondición de gas**                   | Confirmar suficiente BNB para la liquidación completa antes de aceptar.                                                                                                     |
+| **Idempotente**                           | Nunca hacer doble envío ni volver a cumplir un Job ya en estado Submitted/Terminal.                                                                                         |
 
-***
-
-### 5. PancakeSwap-specific logic (application correctness)
-
-* **Route via PancakeSwap aggregation**, not a single pool — best execution across V2 / V3 / Stable is the whole value proposition ("best price wins the tip").
-* **Deliver atomically to the Client** by setting the router's `recipient` to the Client address; never a two-step "swap to self, then transfer."
-* **Quote freshness** — the on-chain price moves between discovery and settlement; requote at execution (guardrail §3).
-* **`minOut` is in raw units.** For **scaled-UI / ERC-8056 tokens** (Binance Stock Tokens / RWA equities) raw ≠ displayed; mishandling silently mis-delivers. **Exclude scaled-UI tokens from v1** until eng confirms raw-unit handling end-to-end.
-* **Slippage minimum** on the settlement swap must be derived so the _delivered_ amount ≥ `minOut`, accounting for the tip/fee split.
+Si alguna regla no puede cumplirse, **omite el Job** — nunca fuerces una liquidación.
 
 ***
 
-### 6. Failure & recovery behavior
+### 4. Fuera de alcance — el agente NO DEBE
 
-* **Quote fails `minOut` at execution** → abort before/atomically with the escrow pull; the Job stays Funded for another Provider. No partial state.
-* **Already Submitted/Terminal** → skip (idempotent).
-* **Settlement tx reverts** → Job remains claimable by others; the agent records the failure and moves on.
-* **Repeated failures on a Job** → blacklist that Job locally and alert, rather than retry-looping.
-
-***
-
-### 7. Integration points (the BNB / ERC-8183 half)
-
-These are provided by BNB Agent Studio / BNBAgent SDK, not built by PancakeSwap — but the spec depends on them:
-
-* **Job lifecycle** (discover Open → accept Funded → Submitted → claim) via BNBAgent SDK.
-* **Provider identity** via ERC-8004.
-* **Escrow + payout** via the ERC-8183 escrow / x402.
-* **Evaluator** — the predicate must be "Client's token-B balance increased by ≥ `minOut`." Confirm with BNB **who runs the Evaluator** (neutral/protocol vs. Client) and that the predicate is enforceable on-chain.
+1. **Usar fondos del Client para nada más que el intercambio especificado.** El destinatario del output siempre es el Client.
+2. **Usar su propio inventario / asumir riesgo de capital.** v1 es **solo extracción de escrow** — enruta el input en escrow del Client; no rellena desde su propio saldo.
+3. **Enrutar a través de contratos que no sean PancakeSwap o no verificados**, ni liquidar fuera de la agregación de PancakeSwap.
+4. **Servir Jobs con tokens fuera de la lista segura**, ni (v1) tokens scaled-UI / RWA (§5).
+5. **Usar apalancamiento, perpetuos, margen o préstamos.**
+6. **Enviar un entregable que no cumplió realmente** (sin atestación falsa) ni **evaluar sus propios Jobs** (conflicto de interés).
+7. **Llamar a ninguna función de propietario/administrador** en PancakeSwap o los contratos ERC-8183.
+8. **Mantener aprobaciones de tokens permanentes** más allá de una única liquidación; limita las aprobaciones a la cantidad del Job.
 
 ***
 
-### 8. Recommended v1 posture & open decisions
+### 5. Lógica específica de PancakeSwap (corrección de la aplicación)
 
-1. **Escrow-pull only, single Job at a time, token-safelist only, no scaled-UI tokens.** Smallest safe surface to feature at launch.
-2. **Confirm the PancakeSwap swap interface** — the **Aggregator (`aggr`) HTTP API** vs the **Smart Router SDK**. Jerry's note says "use pcs aggr api"; needs confirming which the agent calls, as it changes the integration (and whether the guide needs an aggregation section).
-3. **Confirm the escrow mechanic** with BNB — can the Provider pull the Client's escrowed input to route the swap, and is delivery-to-Client enforceable as the deliverable?
-4. **Confirm the Evaluator owner and predicate** (§7).
+* **Enrutar vía agregación de PancakeSwap**, no un solo pool — la mejor ejecución en V2 / V3 / Stable es toda la propuesta de valor ("el mejor precio gana la propina").
+* **Entregar atómicamente al Client** configurando el `recipient` del router en la dirección del Client; nunca en dos pasos "intercambiar a sí mismo, luego transferir."
+* **Frescura de la cotización** — el precio on-chain se mueve entre el descubrimiento y la liquidación; recotiza al ejecutar (salvaguarda §3).
+* **`minOut` está en unidades brutas.** Para **tokens scaled-UI / ERC-8056** (Binance Stock Tokens / RWA de renta variable) bruto ≠ mostrado; un manejo incorrecto entrega silenciosamente de forma incorrecta. **Excluye tokens scaled-UI de v1** hasta que ingeniería confirme el manejo de unidades brutas de extremo a extremo.
+* **El mínimo de deslizamiento** en el intercambio de liquidación debe derivarse de modo que la cantidad _entregada_ ≥ `minOut`, teniendo en cuenta la división de propina/comisión.
 
-> Eng sign-off before featuring: atomic escrow-pull → swap → deliver-to-Client routing; requote-at-execution; `minOut`-after-slippage math; safelist enforcement; idempotent Job handling.
+***
+
+### 6. Comportamiento ante fallos y recuperación
+
+* **La cotización no supera `minOut` al ejecutar** → abortar antes/atómicamente con la extracción del escrow; el Job permanece en Funded para otro Provider. Sin estado parcial.
+* **Ya en estado Submitted/Terminal** → omitir (idempotente).
+* **La tx de liquidación revierte** → el Job permanece reclamable por otros; el agente registra el fallo y continúa.
+* **Fallos repetidos en un Job** → poner ese Job en lista negra localmente y alertar, en lugar de reintentar en bucle.
+
+***
+
+### 7. Puntos de integración (la parte de BNB / ERC-8183)
+
+Estos son proporcionados por BNB Agent Studio / BNBAgent SDK, no construidos por PancakeSwap — pero la especificación depende de ellos:
+
+* **Ciclo de vida del Job** (descubrir Open → aceptar Funded → Submitted → reclamar) vía BNBAgent SDK.
+* **Identidad del Provider** vía ERC-8004.
+* **Escrow + pago** vía el escrow ERC-8183 / x402.
+* **Evaluator** — el predicado debe ser "el saldo de token-B del Client aumentó en ≥ `minOut`." Confirma con BNB **quién ejecuta el Evaluator** (neutral/protocolo vs. Client) y que el predicado es aplicable on-chain.
+
+***
+
+### 8. Postura recomendada para v1 y decisiones pendientes
+
+1. **Solo extracción de escrow, un Job a la vez, solo lista segura de tokens, sin tokens scaled-UI.** La superficie más pequeña y segura para lanzar.
+2. **Confirmar la interfaz de intercambio de PancakeSwap** — la **API HTTP del Aggregator (`aggr`)** vs el **Smart Router SDK**. La nota de Jerry dice "usar pcs aggr api"; necesita confirmarse cuál llama el agente, ya que cambia la integración (y si la guía necesita una sección de agregación).
+3. **Confirmar el mecanismo de escrow** con BNB — ¿puede el Provider extraer el input en escrow del Client para enrutar el intercambio, y es aplicable la entrega al Client como entregable?
+4. **Confirmar el propietario del Evaluator y el predicado** (§7).
+
+> Aprobación de ingeniería antes de lanzar: enrutamiento atómico extracción-de-escrow → intercambio → entrega-al-Client; recotización al ejecutar; matemática de `minOut`-después-de-deslizamiento; aplicación de lista segura; manejo idempotente de Jobs.

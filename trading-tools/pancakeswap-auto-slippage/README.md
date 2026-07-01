@@ -1,85 +1,84 @@
 # 🎯 PancakeSwap Auto Slippage
 
-PancakeSwap has introduced Auto Slippage to make trading easier and more efficient. Auto Slippage automatically adjusts the slippage for you based on current market conditions, helping to prevent failed trades and reduce the risk of losing money due to slippage errors.
+PancakeSwap ha introducido el Deslizamiento automático para que el trading sea más fácil y eficiente. El Deslizamiento automático ajusta el deslizamiento por ti en función de las condiciones actuales del mercado, ayudando a prevenir operaciones fallidas y reducir el riesgo de perder dinero debido a errores de deslizamiento.
 
-## What is Slippage?
+## ¿Qué es el Deslizamiento?
 
-**Slippage** occurs when the price you expect for a trade is different from the price at which the trade is actually completed. This can happen for several reasons:
+El **Deslizamiento** ocurre cuando el precio que esperas para una operación es diferente del precio al que la operación se completa realmente. Esto puede suceder por varias razones:
 
-* Market volatility – Prices can move quickly between when you place and confirm
-* Low liquidity – there aren’t enough tokens available at your expected price
-* Blockchain delays – confirmation times can cause the price to change before the trade is completed finalized
-
-{% hint style="info" %}
-Example:
-
-You try to swap 100 CAKE for BNB, expecting 1 CAKE = 0.01 BNB. But by the time your trade goes through, the price has changed and you only get 0.0098 BNB per CAKE. This small difference is what we call slippage.
-{% endhint %}
-
-## What is Slippage Tolerance?
-
-**Slippage tolerance** is the maximum price difference you’re willing to accept before your trade is canceled. If the price moves beyond your set tolerance, your transaction will fail to prevent any unexpected losses.
+* Volatilidad del mercado — los precios pueden moverse rápidamente entre el momento en que colocas y confirmas la operación
+* Poca liquidez — no hay suficientes tokens disponibles al precio esperado
+* Retrasos en la blockchain — los tiempos de confirmación pueden hacer que el precio cambie antes de que la operación se complete
 
 {% hint style="info" %}
-Example:
+Ejemplo:
 
-If you set a 1% slippage tolerance and the price changes by more than 1% before the trade is completed, the trade won’t go through.
+Intentas intercambiar 100 CAKE por BNB, esperando que 1 CAKE = 0.01 BNB. Pero cuando tu operación se procesa, el precio ha cambiado y solo obtienes 0.0098 BNB por CAKE. Esta pequeña diferencia es lo que llamamos deslizamiento.
 {% endhint %}
 
-## What happens if my Slippage Tolernace is too low?
+## ¿Qué es la Tolerancia al Deslizamiento?
 
-If your slippage tolerance is **set too low**, there’s a higher chance your transaction will fail — especially when:
+La **tolerancia al deslizamiento** es la diferencia de precio máxima que estás dispuesto a aceptar antes de que tu operación se cancele. Si el precio se mueve más allá de tu tolerancia establecida, tu transacción fallará para evitar pérdidas inesperadas.
 
-* The market is volatile
-* You’re swapping tokens with low liquidity
-* Using tokens with taxes or complex mechanics
+{% hint style="info" %}
+Ejemplo:
+
+Si estableces una tolerancia al deslizamiento del 1% y el precio cambia más de un 1% antes de que la operación se complete, la operación no se procesará.
+{% endhint %}
+
+## ¿Qué sucede si mi tolerancia al deslizamiento es demasiado baja?
+
+Si tu tolerancia al deslizamiento está **demasiado baja**, existe una mayor probabilidad de que tu transacción falle — especialmente cuando:
+
+* El mercado es volátil
+* Estás intercambiando tokens con poca liquidez
+* Usas tokens con impuestos o mecánicas complejas
 
 {% hint style="warning" %}
-Important: Even if the transaction fails, you’ll still consume gas fees for trying.
+Importante: Incluso si la transacción falla, seguirás consumiendo tarifas de gas por el intento.
 {% endhint %}
 
-## Introducing Auto Slippage - Why is Auto Slippage helpful?
+## Presentamos el Deslizamiento automático — ¿Por qué es útil?
 
-Auto Slippage automatically adjusts your slippage based on current market conditions, saving you time and reducing the risk of failed trades.&#x20;
+El Deslizamiento automático ajusta automáticamente tu deslizamiento en función de las condiciones actuales del mercado, ahorrándote tiempo y reduciendo el riesgo de operaciones fallidas.&#x20;
 
-With **Auto Slippage**, there's no need to manually adjust your slippage tolerance. This helps prevent common issues such as:
+Con el **Deslizamiento automático**, no es necesario ajustar manualmente tu tolerancia al deslizamiento. Esto ayuda a prevenir problemas comunes como:
 
-* **Setting slippage too low**, which can cause transactions to fail due to minor price changes during execution.
-* **Setting slippage too high**, which may result in receiving fewer tokens than expected due to accepting a wider price range.
+* **Establecer el deslizamiento demasiado bajo**, lo que puede provocar que las transacciones fallen debido a cambios de precio menores durante la ejecución.
+* **Establecer el deslizamiento demasiado alto**, lo que puede resultar en recibir menos tokens de lo esperado al aceptar un rango de precios más amplio.
 
 {% hint style="info" %}
-To ensure the best trading experience, auto slippage has been **toggled on automatically**. If a manual slippage tolerance has been set, the new slippage setting will be applied.
+Para garantizar la mejor experiencia de trading, el deslizamiento automático se ha **activado automáticamente**. Si se había establecido una tolerancia al deslizamiento manual, se aplicará la nueva configuración de deslizamiento.
 {% endhint %}
 
 
 
-## How does Auto Slippage work?
+## ¿Cómo funciona el Deslizamiento automático?
 
-<pre class="language-html"><code class="lang-html"><strong>Auto Slippage (%) = (Gas Cost in USD / Output Token Value in USD) * 100%
+<pre class="language-html"><code class="lang-html"><strong>Deslizamiento automático (%) = (Costo de gas en USD / Valor del token de salida en USD) * 100%
 </strong></code></pre>
 
-* If the gas cost is high compared to the output token’s value, Auto Slippage will set a higher slippage to ensure the trade goes through.
-* If gas is cheap and the output token's value is large, a smaller slippage will be used.
+* Si el costo de gas es alto en comparación con el valor del token de salida, el Deslizamiento automático establecerá un deslizamiento más alto para garantizar que la operación se procese.
+* Si el gas es barato y el valor del token de salida es grande, se usará un deslizamiento menor.
 
-Auto Slippage will choose a value between **0.5%** and **5.0%**, depending on token and network conditions.
+El Deslizamiento automático elegirá un valor entre **0.5%** y **5.0%**, dependiendo de las condiciones del token y la red.
 
 
 
-## Is Auto Slippage available on all networks?
+## ¿Está disponible el Deslizamiento automático en todas las redes?
 
-No — Auto Slippage is only supported on Layer 1 (L1) chains like BNB Chain, Ethereum, etc.
+No — el Deslizamiento automático solo es compatible con cadenas de Capa 1 (L1) como BNB Chain, Ethereum, etc.
 
-It is not supported on Layer 2 (L2) chains, because:
+No está soportado en cadenas de Capa 2 (L2), porque:
 
-* The auto slippage formula relies on meaningful gas cost values to calculate a useful slippage setting
-* Since L2 gas fees are very low, applying auto slippage on L2s wouldn’t improve trade success rates
+* La fórmula de deslizamiento automático depende de valores de costo de gas significativos para calcular una configuración de deslizamiento útil
+* Dado que las tarifas de gas de L2 son muy bajas, aplicar deslizamiento automático en L2 no mejoraría las tasas de éxito de las operaciones
 
 {% hint style="success" %}
-&#x20;If Auto Slippage is **not supported** on a network:
+&#x20;Si el Deslizamiento automático **no está soportado** en una red:
 
-* Your previously used slippage setting will be applied
-* If you haven't set one before, it will default to 0.5%
+* Se aplicará tu configuración de deslizamiento usada previamente
+* Si no has establecido ninguna antes, se usará 0.5% de forma predeterminada
 {% endhint %}
-
 
 

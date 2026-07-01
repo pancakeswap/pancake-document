@@ -1,88 +1,88 @@
-# Social login: How-To Guide
+# Social Login: Guía práctica
 
-Get started with DeFi in seconds — no wallet extensions or seed phrases needed. Follow the steps below to create your social login wallet, set a recovery password, and recover your wallet on a new device.
+Empieza con DeFi en segundos — sin extensiones de billetera ni frases semilla. Sigue los pasos a continuación para crear tu billetera de Social Login, establecer una contraseña de recuperación y recuperar tu billetera en un dispositivo nuevo.
 
-### 1. Creating Your Social Login Wallet
+### 1. Crear tu billetera de Social Login
 
-1. Go to pancakeswap.finance
-2.  Click **Connect Wallet** → Select **Connect with Social Login**
+1. Ve a pancakeswap.finance
+2.  Haz clic en **Conectar billetera** → Selecciona **Conectar con Social Login**
 
-    <figure><img src="../../.gitbook/assets/image (440).png" alt="" width="375"><figcaption></figcaption></figure>
-3.  Choose your preferred social login method:
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28440%29.png" alt="" width="375"><figcaption></figcaption></figure>
+3.  Elige tu método de Social Login preferido:
 
     * **Google**
     * **X (Twitter)**
     * **Telegram**
     * **Discord**
 
-    > 💡 Each social account creates one unique wallet for use on PancakeSwap.
+    > 💡 Cada cuenta social crea una billetera única para usar en PancakeSwap.
 
-<figure><img src="../../.gitbook/assets/image (441).png" alt="" width="298"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28441%29.png" alt="" width="298"><figcaption></figcaption></figure>
 
-4.  Log in with your selected social account credentials
+4.  Inicia sesión con las credenciales de tu cuenta social seleccionada
 
-    <figure><img src="../../.gitbook/assets/image (443).png" alt="" width="375"><figcaption></figcaption></figure>
-5.  Once login is successful, your wallet will be created and ready to use
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28443%29.png" alt="" width="375"><figcaption></figcaption></figure>
+5.  Una vez que el inicio de sesión sea exitoso, tu billetera se creará y estará lista para usar
 
-    <figure><img src="../../.gitbook/assets/image (444).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28444%29.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-### 2. Setting a Recovery Password
+### 2. Establecer una contraseña de recuperación
 
-After your first login, you'll be prompted to set a **recovery password**. This step is optional but highly recommended for full wallet control.
+Después de tu primer inicio de sesión, se te pedirá que establezcas una **contraseña de recuperación**. Este paso es opcional pero muy recomendado para tener control total de la billetera.
 
-1.  Click **Set Recovery Password** when prompted
+1.  Haz clic en **Establecer contraseña de recuperación** cuando se te solicite
 
-    > 🔒 If left unset, the recovery share will be stored by Privy by default
+    > 🔒 Si no la estableces, la parte de recuperación será almacenada por Privy de forma predeterminada
     >
-    > 🔑 [Learn more about recovery shares](https://docs.privy.io/security/wallet-infrastructure/advanced/user-device#securing-the-recovery-share)
+    > 🔑 [Obtén más información sobre las partes de recuperación](https://docs.privy.io/security/wallet-infrastructure/advanced/user-device#securing-the-recovery-share)
 
 {% hint style="success" %}
-If you dismiss this prompt, it will reappear again after 1 week, as part of PancakeSwap’s commitment to wallet security.
+Si descartas este mensaje, volverá a aparecer después de 1 semana, como parte del compromiso de PancakeSwap con la seguridad de la billetera.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (445).png" alt="" width="263"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28445%29.png" alt="" width="263"><figcaption></figcaption></figure>
 
-2. Choose a **memorable password** — you'll need it for logging in on a new device or when your session expires
+2. Elige una **contraseña memorable** — la necesitarás para iniciar sesión en un nuevo dispositivo o cuando tu sesión expire
 
-> ⚠️ If forgotten, wallet access may be permanently lost
+> ⚠️ Si la olvidas, el acceso a la billetera puede perderse permanentemente
 
-<figure><img src="../../.gitbook/assets/image (446).png" alt="" width="280"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28446%29.png" alt="" width="280"><figcaption></figcaption></figure>
 
-3. Save your password securely by **copying or downloading** it
+3. Guarda tu contraseña de forma segura **copiándola o descargándola**
 
-<figure><img src="../../.gitbook/assets/image (447).png" alt="" width="274"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28447%29.png" alt="" width="274"><figcaption></figcaption></figure>
 
-4. Re-enter your password to confirm
+4. Vuelve a ingresar tu contraseña para confirmar
 
-> ❗ An error will appear if your passwords don’t match
+> ❗ Aparecerá un error si tus contraseñas no coinciden
 
-<figure><img src="../../.gitbook/assets/image (448).png" alt="" width="269"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28448%29.png" alt="" width="269"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (449).png" alt="" width="266"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28449%29.png" alt="" width="266"><figcaption></figcaption></figure>
 
-5. Review the **disclaimer** and confirm you understand the recovery password risk
+5. Revisa el **aviso legal** y confirma que entiendes el riesgo de la contraseña de recuperación
 
-<figure><img src="../../.gitbook/assets/image (450).png" alt="" width="279"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28450%29.png" alt="" width="279"><figcaption></figcaption></figure>
 
-6. 🎉 Success! Your recovery password is now set
+6. 🎉 ¡Éxito! Tu contraseña de recuperación ya está configurada
 
-> Reminder: You’ll be asked to enter it again when your session ends or you switch devices
+> Recordatorio: Se te pedirá que la ingreses de nuevo cuando tu sesión finalice o cambies de dispositivo
 
-<figure><img src="../../.gitbook/assets/image (451).png" alt="" width="275"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28451%29.png" alt="" width="275"><figcaption></figcaption></figure>
 
 >
 
 ***
 
-### 3. Recovering Your Wallet (New Device Login)
+### 3. Recuperar tu billetera (inicio de sesión en nuevo dispositivo)
 
-If you access PancakeSwap on a new device, follow these steps to recover your wallet:
+Si accedes a PancakeSwap en un nuevo dispositivo, sigue estos pasos para recuperar tu billetera:
 
-1. Log in with your **social account** on the new device
-2. When you attempt your first transaction or on-chain action, you’ll be prompted to **enter your recovery password**
+1. Inicia sesión con tu **cuenta social** en el nuevo dispositivo
+2. Cuando intentes tu primera transacción o acción on-chain, se te pedirá que **ingreses tu contraseña de recuperación**
 
-<figure><img src="../../.gitbook/assets/image (452).png" alt="" width="297"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28452%29.png" alt="" width="297"><figcaption></figcaption></figure>
 
-3. Once confirmed, you can continue transacting as usual — no further setup required!
+3. Una vez confirmado, puedes continuar realizando transacciones con normalidad — ¡no se requiere ninguna configuración adicional!

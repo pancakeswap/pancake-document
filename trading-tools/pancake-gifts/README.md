@@ -1,95 +1,95 @@
 # 🎁 Pancake Gifts
 
-### 🎯 What is Pancake Gifts?
+### 🎯 ¿Qué es Pancake Gifts?
 
-**Pancake Gifts** lets anyone send tokens — including optional gas — to friends, users, or communities using just a **link** or **QR code**. It’s a simple, secure, and gasless experience for the recipient.
+**Pancake Gifts** permite que cualquiera envíe tokens — incluyendo gas opcional — a amigos, usuarios o comunidades usando simplemente un **enlace** o **código QR**. Es una experiencia simple, segura y sin gas para el destinatario.
 
-It’s built to make onboarding into crypto as easy as sending a message — no wallet funding, no bridging, no upfront fees.
+Está diseñado para hacer que la incorporación al mundo cripto sea tan fácil como enviar un mensaje — sin necesidad de financiar la billetera, hacer puenteo ni pagar tarifas iniciales.
 
-### 🤝 Why We Built Pancake Gifts
+### 🤝 Por qué construimos Pancake Gifts
 
-Onboarding to Web3 is still full of friction. New users often give up before they even get started due to:
+Incorporarse a Web3 sigue siendo un proceso lleno de fricciones. Los nuevos usuarios a menudo se rinden antes de empezar debido a:
 
-* **No gas in wallet** → Can’t perform any onchain action
-* **No funds on the correct chain** → Bridging is required before using dApps
-* **Need to buy crypto just to get started** → Requires CEX signup or fiat on-ramp
+* **Sin gas en la billetera** → No se puede realizar ninguna acción on-chain
+* **Sin fondos en la cadena correcta** → Se requiere puentear antes de usar dApps
+* **Necesidad de comprar cripto solo para empezar** → Requiere registro en un intercambio centralizado o rampa de entrada de dinero fiat
 
-Pancake Gifts eliminates these blockers by:
+Pancake Gifts elimina estos obstáculos al:
 
-* ✅ **Including native gas tokens** in the gift so recipients can interact instantly
-* ✅ **Sponsoring the gas fee upfront** (sender pays a small fee)
-* ✅ **Enabling claim via a simple link or QR** — no complex onboarding
+* ✅ **Incluir tokens de gas nativos** en el regalo para que los destinatarios puedan interactuar de inmediato
+* ✅ **Patrocinar la tarifa de gas por adelantado** (el remitente paga una pequeña tarifa)
+* ✅ **Habilitar el reclamo mediante un enlace o QR simple** — sin proceso de incorporación complejo
 
 
 
-It’s a tool for both:
+Es una herramienta tanto para:
 
-* New users getting started onchain
-* Web3-native communities looking to **boost adoption, reward users, or run campaigns** in a friendlier way
-
-***
-
-### ⚙️ Feature Summary
-
-| Feature                | Description                                                      |
-| ---------------------- | ---------------------------------------------------------------- |
-| **Chain Support**      | BNB Chain (initial launch)                                       |
-| **Gift Code Types**    | Link **or** QR Code                                              |
-| **One-time Use**       | Each code can only be claimed once                               |
-| **Token Support**      | Max 2 tokens: 1 BEP-20 (required), 1 native gas token (optional) |
-| **Custom Amounts**     | Set different values per token                                   |
-| **Gift Claim Gas Fee** | Sender prepays gas (\~$0.05 in BNB)                              |
-| **Gift History**       | Users can view all sent gifts, claim status, expiry              |
-| **Security Checks**    | Fee-on-transfer and complex logic tokens are disallowed          |
-
-### 🚫 Limitations
-
-1. **One gift per code** — Mass gifting is not yet supported.
-2. **Gifts cannot be reinstated** — Once cancelled or expired, they cannot be reused.
-3. **Unsupported tokens are blocked** — Tokens with transfer fees or special logic will show an error on creation.
-4. **Unsuccessful claims are retried** — Backend retries a few times. If still failed, the gift is marked **unclaimable** and must be cancelled manually to retrieve funds.
-5. **Gift must be claimed on the same chain** — e.g. ETH gift must be claimed on Ethereum. Cross-chain claiming is not supported yet.
+* Nuevos usuarios que se inician on-chain
+* Comunidades nativas de Web3 que buscan **impulsar la adopción, recompensar usuarios o ejecutar campañas** de una manera más amigable
 
 ***
 
-### 🕒 Cancel & Expiry Logic
+### ⚙️ Resumen de características
 
-Gifts follow a defined lifecycle based on status and time:
+| Característica              | Descripción                                                              |
+| --------------------------- | ------------------------------------------------------------------------ |
+| **Soporte de cadenas**      | BNB Chain (lanzamiento inicial)                                          |
+| **Tipos de código de regalo** | Enlace **o** código QR                                                 |
+| **Uso único**               | Cada código solo puede ser reclamado una vez                             |
+| **Soporte de tokens**       | Máx. 2 tokens: 1 BEP-20 (obligatorio), 1 token de gas nativo (opcional) |
+| **Cantidades personalizadas** | Establece valores diferentes por token                                  |
+| **Tarifa de gas del regalo** | El remitente paga el gas por adelantado (\~$0.05 en BNB)                |
+| **Historial de regalos**    | Los usuarios pueden ver todos los regalos enviados, estado de reclamo, vencimiento |
+| **Verificaciones de seguridad** | Los tokens con tarifa de transferencia y con lógica compleja no están permitidos |
 
-#### Manual Cancel
+### 🚫 Limitaciones
 
-* The **creator** can cancel any gift that is still **unclaimed** and **within the expiry window**.
-* Tokens (minus the initial Gift Claim Gas Fee) will be returned to the sender.
-* Cancelled gifts **cannot** be reactivated or reused.
-
-#### Auto Expiry
-
-* Gifts **automatically expire** after a user-defined period (default: 7 days).
-* Unclaimed tokens will be **auto-returned** to the sender’s wallet.
-* Expired gifts are also non-reusable.
-
-***
-
-### 🔄 Gift Statuses & What They Mean
-
-| Status          | Description                                                              |
-| --------------- | ------------------------------------------------------------------------ |
-| **Pending**     | Gift has been created and is awaiting claim                              |
-| **Claimed**     | Gift was successfully claimed by a recipient                             |
-| **Cancelled**   | Gift was manually cancelled by the sender                                |
-| **Expired**     | Gift passed the expiry time without being claimed                        |
-| **Unclaimable** | Number of retries exceeded; gift needs to be cancelled to retrieve funds |
+1. **Un regalo por código** — Los regalos masivos aún no son compatibles.
+2. **Los regalos no se pueden restablecer** — Una vez cancelados o vencidos, no pueden reutilizarse.
+3. **Los tokens no soportados son bloqueados** — Los tokens con tarifas de transferencia o lógica especial mostrarán un error al crearlos.
+4. **Los reclamos fallidos se reintentarán** — El backend reintenta algunas veces. Si aún falla, el regalo se marca como **no reclamable** y debe cancelarse manualmente para recuperar los fondos.
+5. **El regalo debe reclamarse en la misma cadena** — Por ejemplo, un regalo en ETH debe reclamarse en Ethereum. El reclamo entre cadenas aún no está soportado.
 
 ***
 
-### ⚠️ Error Handling & Edge Cases
+### 🕒 Lógica de cancelación y vencimiento
 
-1. **Unsupported Token**
-   * Gift creation is blocked for tokens with transfer fees or special logic.
-2. **Gas Mismatch**
-   * If **actual claim gas cost ≥** the sender’s prepaid fee, the claim fails automatically to prevent overuse. This will be retried once gas fee levels are within range.
-3. **Failed Claim Attempts**
-   * Retries will be attempted upon first unsuccessful claim.
-   * If still unsuccessful:
-     * Recipient sees “Unclaimable”
-     * Sender must manually cancel the gift to retrieve funds and receipient will have to request or a new gift code.
+Los regalos siguen un ciclo de vida definido según el estado y el tiempo:
+
+#### Cancelación manual
+
+* El **creador** puede cancelar cualquier regalo que aún esté **sin reclamar** y **dentro del período de vencimiento**.
+* Los tokens (menos la tarifa inicial de gas del regalo) serán devueltos al remitente.
+* Los regalos cancelados **no** pueden reactivarse ni reutilizarse.
+
+#### Vencimiento automático
+
+* Los regalos **vencen automáticamente** después de un período definido por el usuario (predeterminado: 7 días).
+* Los tokens no reclamados serán **devueltos automáticamente** a la billetera del remitente.
+* Los regalos vencidos tampoco son reutilizables.
+
+***
+
+### 🔄 Estados del regalo y su significado
+
+| Estado          | Descripción                                                                     |
+| --------------- | ------------------------------------------------------------------------------- |
+| **Pendiente**   | El regalo ha sido creado y está esperando ser reclamado                         |
+| **Reclamado**   | El regalo fue reclamado exitosamente por un destinatario                        |
+| **Cancelado**   | El regalo fue cancelado manualmente por el remitente                            |
+| **Vencido**     | El regalo superó el tiempo de vencimiento sin ser reclamado                     |
+| **No reclamable** | Número de reintentos superado; el regalo debe cancelarse para recuperar los fondos |
+
+***
+
+### ⚠️ Manejo de errores y casos límite
+
+1. **Token no soportado**
+   * La creación del regalo está bloqueada para tokens con tarifas de transferencia o lógica especial.
+2. **Desajuste de gas**
+   * Si el **costo real del gas del reclamo ≥** la tarifa prepagada por el remitente, el reclamo falla automáticamente para evitar un uso excesivo. Se reintentará una vez que los niveles de la tarifa de gas estén dentro del rango.
+3. **Intentos de reclamo fallidos**
+   * Se intentarán reintentos ante el primer reclamo fallido.
+   * Si sigue sin tener éxito:
+     * El destinatario ve "No reclamable"
+     * El remitente debe cancelar manualmente el regalo para recuperar los fondos y el destinatario tendrá que solicitar un nuevo código de regalo.
