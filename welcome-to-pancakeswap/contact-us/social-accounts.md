@@ -1,4 +1,4 @@
-# Social Accounts
+# Contas Sociais
 
 ## 🐦 X (Twitter)
 
@@ -19,9 +19,9 @@
 {% hint style="danger" %}
 
 
-Nobody from PancakeSwap will EVER send you a direct message. If anybody approaches you directly on e.g. Telegram pretending to represent customer support, please block them and report spam.
+Ninguém do PancakeSwap jamais enviará uma mensagem direta para você. Se alguém entrar em contato direto com você, por exemplo no Telegram, fingindo ser suporte ao cliente, por favor bloqueie e reporte como spam.
 {% endhint %}
 
 {% hint style="danger" %}
-**NEVER, under any situation, should you ever give someone your private key or recovery phrases. Immediately block and report anyone that asks for them.**
+**NUNCA, em nenhuma situação, forneça sua chave privada ou frases de recuperação a ninguém. Bloqueie e reporte imediatamente qualquer pessoa que solicitar essas informações.**
 {% endhint %}

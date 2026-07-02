@@ -1,120 +1,120 @@
-# Create a wallet (SOL)
+# Criar uma carteira (SOL)
 
-### 1. **Why You Need a Wallet**
+### 1. **Por que você precisa de uma Carteira**
 
-To use **PancakeSwap on Solana**, you need a **crypto wallet** — it’s your personal vault for digital assets and your passport to DeFi. Without a wallet, you won’t be able to:
+Para usar o **PancakeSwap na Solana**, você precisa de uma **carteira cripto** — é o seu cofre pessoal de ativos digitais e seu passaporte para o DeFi. Sem uma carteira, você não poderá:
 
-* **Swap tokens** on Solana
-* **Provide liquidity** to PancakeSwap’s **V3 Pools** (our capital-efficient, concentrated liquidity model)
-* Interact with any dApp or store tokens on Solana
-
-***
-
-### 2. **Wallet Setup Essentials (Security First!)**
-
-Crypto wallets give you full control over your assets — but with great power comes great responsibility. Keep your wallet safe by following these best practices:
-
-| ✅ Do’s                                                                | ❌ Don’ts                                                 |
-| --------------------------------------------------------------------- | -------------------------------------------------------- |
-| ✅ **Download from official sources** (app stores, verified websites)  | ❌ Don’t install from random links or DMs                 |
-| ✅ **Follow the setup instructions** carefully                         | ❌ Don’t rush or skip the backup process                  |
-| ✅ **Back up your recovery phrase** and store it offline               | ❌ Don’t screenshot or store it on your phone or computer |
-| ✅ **Keep your phrase private** — it's your only way to recover access | ❌ Never share it, even if someone claims to be "support" |
-| ✅ Only enter your recovery phrase **inside the wallet app**           | ❌ Never input it into websites, popups, or other apps    |
-
-> 🧠 Your recovery phrase = access to your wallet
+* **Trocar tokens** na Solana
+* **Fornecer liquidez** para os **V3 Pools** do PancakeSwap (nosso modelo de liquidez concentrada e eficiente em capital)
+* Interagir com qualquer dApp ou armazenar tokens na Solana
 
 ***
 
-### 3. **Choosing Your Wallet: Mobile vs. Desktop**
+### 2. **Essenciais de Configuração da Carteira (Segurança em Primeiro Lugar!)**
 
-Not sure which type of wallet to use? Here’s a quick breakdown of mobile vs. desktop/web wallets so you can choose what fits your style:
+As carteiras cripto dão a você controle total sobre seus ativos — mas com grande poder vem grande responsabilidade. Mantenha sua carteira segura seguindo estas melhores práticas:
 
-| Feature         | **Mobile Wallets**                 | **Browser/Desktop Wallets**            |
-| --------------- | ---------------------------------- | -------------------------------------- |
-| **Use case**    | Swap & track on-the-go             | Best for multitasking or deep dApp use |
-| **Ease of use** | Intuitive, beginner-friendly       | Lightweight extensions, quick access   |
-| **Security**    | Depends on phone security          | Easier hardware wallet integration     |
-| **Convenience** | All-in-one app                     | More manual, but powerful              |
-| **Best for...** | Casual users, mobile-first traders | Desktop users, more advanced flows     |
+| ✅ O que fazer                                                                     | ❌ O que não fazer                                              |
+| --------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| ✅ **Baixe de fontes oficiais** (lojas de aplicativos, sites verificados)          | ❌ Não instale a partir de links aleatórios ou DMs              |
+| ✅ **Siga as instruções de configuração** com atenção                             | ❌ Não apresse o processo ou pule o backup                      |
+| ✅ **Faça backup da sua frase de recuperação** e armazene offline                 | ❌ Não tire screenshots nem guarde no celular ou computador     |
+| ✅ **Mantenha sua frase privada** — é a única forma de recuperar o acesso         | ❌ Nunca compartilhe, mesmo que alguém diga ser "suporte"       |
+| ✅ Insira sua frase de recuperação **apenas dentro do app da carteira**           | ❌ Nunca insira em sites, pop-ups ou outros aplicativos         |
 
-> 📱 Mobile wallets can offer a smoother experience for trading, managing portfolios, and browsing NFTs — all from your phone.
+> 🧠 Sua frase de recuperação = acesso à sua carteira
 
 ***
 
-### 4. **Recommended Solana Wallets**
+### 3. **Escolhendo sua Carteira: Mobile vs. Desktop**
 
-> ⚠️ Note: These are some Solana-compatible wallets based on current ecosystem adoption. Always DYOR (Do Your Own Research).
+Não tem certeza sobre qual tipo de carteira usar? Aqui está uma comparação rápida entre carteiras mobile e desktop/web para você escolher o que se adapta ao seu estilo:
 
-#### ✅ **Multi-Platform Wallets (Mobile & Desktop)**
+| Recurso             | **Carteiras Mobile**                      | **Carteiras Browser/Desktop**                 |
+| ------------------- | ----------------------------------------- | --------------------------------------------- |
+| **Uso**             | Swap e acompanhamento em movimento        | Melhor para multitarefa ou uso intenso de dApp|
+| **Facilidade**      | Intuitivo, amigável para iniciantes       | Extensões leves, acesso rápido                |
+| **Segurança**       | Depende da segurança do celular           | Integração mais fácil com hardware wallet     |
+| **Conveniência**    | App completo                              | Mais manual, mas poderoso                     |
+| **Ideal para...**   | Usuários casuais, traders no mobile       | Usuários de desktop, fluxos mais avançados    |
 
-Some popular wallets that you may use for the Solana ecosystem (not limited to):
+> 📱 As carteiras mobile podem oferecer uma experiência mais fluida para negociar, gerenciar portfólios e navegar por NFTs — tudo pelo celular.
+
+***
+
+### 4. **Carteiras Solana Recomendadas**
+
+> ⚠️ Nota: Estas são algumas carteiras compatíveis com Solana baseadas na adoção atual do ecossistema. Sempre faça sua própria pesquisa (DYOR).
+
+#### ✅ **Carteiras Multi-Plataforma (Mobile e Desktop)**
+
+Algumas carteiras populares que você pode usar para o ecossistema Solana (não limitado a):
 
 * Phantom: [https://phantom.com/](https://phantom.com/)
 * Solflare: [https://www.solflare.com/](https://www.solflare.com/)
 
-Both Phantom and Solflare are available on:
+Tanto Phantom quanto Solflare estão disponíveis em:
 
-* **iOS & Android apps**
-* **Web Browser extensions**
+* **Apps para iOS e Android**
+* **Extensões para Navegador Web**
 
 ***
 
-#### 🔌 **WalletConnect-Compatible Options**
+#### 🔌 **Opções Compatíveis com WalletConnect**
 
-Using **WalletConnect**, you can connect other wallets to PancakeSwap on Solana — directly from desktop or mobile:
+Usando o **WalletConnect**, você pode conectar outras carteiras ao PancakeSwap na Solana — diretamente do desktop ou mobile:
 
 * **Binance Wallet**
 * **OKX Wallet**
 * **Jupiter Wallet**
-* **Backpack,** and more
+* **Backpack,** e mais
 
-> You’ll see a full list of supported wallets when connecting on the PancakeSwap UI via WalletConnect.
-
-***
-
-### 5. **General Wallet Setup Steps (Quick Guide)**
-
-No matter which wallet you choose, the process is generally similar:
-
-1. **Download** the wallet app or browser extension from its **official source**
-2. Launch the app and tap **“Create a new wallet”**
-   * (Or select **“Import”** if you already have one)
-3. Set a strong **password or PIN** (if required)
-4.  You’ll be shown a **recovery phrase** (12 or 24 words) —
-
-    → **Write it down and store it somewhere safe, offline**
-5. **Confirm your recovery phrase** to complete setup
-6.  **Fund your wallet with SOL**
-
-    → You’ll need **SOL** to pay for gas fees when swapping or adding liquidity on PancakeSwap
+> Você verá uma lista completa de carteiras suportadas ao se conectar na interface do PancakeSwap via WalletConnect.
 
 ***
 
-> Why SOL?
->
-> SOL is the **native token of the Solana blockchain** — it’s used to pay for transaction fees.
->
-> Before you can interact with PancakeSwap, you’ll need to hold some SOL in your wallet.
+### 5. **Passos Gerais de Configuração da Carteira (Guia Rápido)**
 
-You can:
+Independentemente da carteira que você escolher, o processo é geralmente semelhante:
 
-* Buy SOL on a centralised exchange and transfer it in
-* Or bridge assets to Solana using a cross-chain bridge at [pancakeswap.finance/bridge](https://pancakeswap.finance/bridge)
+1. **Baixe** o app da carteira ou a extensão do navegador da sua **fonte oficial**
+2. Inicie o app e toque em **"Create a new wallet"**
+   * (Ou selecione **"Import"** se você já tiver uma)
+3. Defina uma **senha ou PIN** forte (se necessário)
+4.  Será exibida uma **frase de recuperação** (12 ou 24 palavras) —
 
-View here to see how to [Get SOL](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-sol/get-sol)
+    → **Anote e guarde em um lugar seguro, offline**
+5. **Confirme sua frase de recuperação** para concluir a configuração
+6.  **Deposite SOL na sua carteira**
+
+    → Você precisará de **SOL** para pagar as taxas de gas ao fazer Swap ou adicionar liquidez no PancakeSwap
 
 ***
 
-### Ready for the Next Step?
-
-Once your wallet is set up and funded with SOL, you’re ready to:
-
-* **Swap tokens** using PancakeSwap on Solana:
-* **Add liquidity to V3 Pools** and start earning:
-
-> 💡 What are V3 Pools?
+> Por que SOL?
 >
-> PancakeSwap V3 uses a **concentrated liquidity** model, designed to maximise capital efficiency.
+> SOL é o **token nativo da blockchain Solana** — é usado para pagar taxas de transação.
 >
-> Want to learn more? Check out the [Liquidity Pools](https://docs.pancakeswap.finance/earn/pancakeswap-pools) section.
+> Antes de interagir com o PancakeSwap, você precisará ter algum SOL na sua carteira.
+
+Você pode:
+
+* Comprar SOL em uma corretora centralizada e transferir para cá
+* Ou fazer bridge de ativos para a Solana usando uma bridge cross-chain em [pancakeswap.finance/bridge](https://pancakeswap.finance/bridge)
+
+Veja aqui como [Obter SOL](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-sol/get-sol)
+
+***
+
+### Pronto para o Próximo Passo?
+
+Uma vez que sua carteira estiver configurada e com SOL, você estará pronto para:
+
+* **Trocar tokens** usando o PancakeSwap na Solana:
+* **Adicionar liquidez aos V3 Pools** e começar a ganhar:
+
+> 💡 O que são V3 Pools?
+>
+> O PancakeSwap V3 usa um modelo de **liquidez concentrada**, projetado para maximizar a eficiência de capital.
+>
+> Quer saber mais? Confira a seção [Pools de Liquidez](https://docs.pancakeswap.finance/earn/pancakeswap-pools).

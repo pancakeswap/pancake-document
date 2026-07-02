@@ -1,76 +1,76 @@
 ---
 description: >-
-  You don't need an account with Binance, Coinbase, Kraken, Huobi, OKEx or any
-  other centralized exchange to start using PancakeSwap!
+  Você não precisa de uma conta na Binance, Coinbase, Kraken, Huobi, OKEx ou
+  qualquer outra corretora centralizada para começar a usar o PancakeSwap!
 hidden: true
 ---
 
-# Using PancakeSwap without Centralized Exchanges
+# Usando o PancakeSwap sem Corretoras Centralizadas
 
-![](../../../.gitbook/assets/how-to-pancakeswap-without-cex-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-pancakeswap-without-cex-header.png)
 
-PancakeSwap is a decentralized application. That means, unlike Binance or other centralized platforms, you don't need to register account to use it... you just need a crypto wallet. So how can you get crypto onto PancakeSwap without using a centralized exchange?
+O PancakeSwap é um aplicativo descentralizado. Isso significa que, ao contrário da Binance ou outras plataformas centralizadas, você não precisa cadastrar uma conta para usá-lo... você só precisa de uma carteira cripto. Então, como você pode obter criptomoedas no PancakeSwap sem usar uma corretora centralizada?
 
-In this tutorial, we're going to guide you through the process of using "cross-chain bridges" to transfer your assets into your BNB Smart Chain wallet, and start using PancakeSwap.
+Neste tutorial, vamos guiar você pelo processo de usar "bridges cross-chain" para transferir seus ativos para sua carteira da BNB Smart Chain e começar a usar o PancakeSwap.
 
-### **Move your assets from other blockchains to BNB Smart Chain**
+### **Mova seus ativos de outras blockchains para a BNB Smart Chain**
 
-You can use a variety of different cross-chain bridges to transfer tokens from Ethereum or other networks, onto BNB Smart Chain.
+Você pode usar uma variedade de diferentes bridges cross-chain para transferir tokens do Ethereum ou de outras redes para a BNB Smart Chain.
 
-In the following tutorials, we are going to demonstrate moving USDT from a variety of different blockchains to BNB Smart Chain, using three different cross-chain bridges.
+Nos tutoriais a seguir, vamos demonstrar como mover USDT de várias blockchains diferentes para a BNB Smart Chain, usando três bridges cross-chain diferentes.
 
 {% tabs %}
-{% tab title="🥞🌉 Pancake Bridge (recommended)" %}
-![](<../../../.gitbook/assets/image (168).png>)
+{% tab title="🥞🌉 Pancake Bridge (recomendado)" %}
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28168%29.png)
 
-[**PancakeSwap Bridge**](http://bridge.pancakeswap.finance) — a native asset cross-chain bridge, powered by Stargate.
+[**PancakeSwap Bridge**](http://bridge.pancakeswap.finance) — uma bridge de ativos nativos cross-chain, desenvolvida pela Stargate.
 
-This bridge allows you to seamlessly move your stablecoins over to BNB Chain, and participate in the lively PancakeSwap Community and wider BNB Ecosystem!
+Esta bridge permite que você mova suas stablecoins de forma fácil para a BNB Chain e participe da animada Comunidade PancakeSwap e do amplo Ecossistema BNB!
 
-📖 [Learn how to use](https://medium.com/pancakeswap/launching-pancakeswap-bridge-a-partnership-with-stargate-21c1c9f491a8)
+📖 [Saiba como usar](https://medium.com/pancakeswap/launching-pancakeswap-bridge-a-partnership-with-stargate-21c1c9f491a8)
 {% endtab %}
 
 {% tab title="AnySwap" %}
-Let's try moving USDT from Polygon (MATIC) blockchain to BSC using AnySwap.
+Vamos tentar mover USDT da blockchain Polygon (MATIC) para a BSC usando o AnySwap.
 
-1. Prepare your Polygon (MATIC) wallet with USDT and some MATIC for gas.
-2. Since AnySwap only supports MetaMask, OKEx Wallet and Coin98 Wallet. If you are using other wallet apps, we recommend you to import your wallet into MetaMask.
-3. Navigate to [https://anyswap.exchange/#/router](https://anyswap.exchange/#/router)
-4. Connect your wallet and switch your network to Polygon (MATIC) Mainnet.
-5.  Select USDT on MATIC mainnet as "From", and USDT on BSC mainnet as "To". Then type in the amount of USDT you want to transfer.
+1. Prepare sua carteira Polygon (MATIC) com USDT e algum MATIC para gas.
+2. Como o AnySwap só suporta MetaMask, OKEx Wallet e Coin98 Wallet, se você estiver usando outros aplicativos de carteira, recomendamos que você importe sua carteira para o MetaMask.
+3. Navegue até [https://anyswap.exchange/#/router](https://anyswap.exchange/#/router)
+4. Conecte sua carteira e mude sua rede para Polygon (MATIC) Mainnet.
+5.  Selecione USDT na mainnet MATIC como "From" e USDT na mainnet BSC como "To". Em seguida, insira o valor de USDT que deseja transferir.
 
-    <img src="../../../.gitbook/assets/MBP3-2021.10.19-055554AM-Google Chrome_AnySwap - Cross Chain Protocol.png" alt="" data-size="original">
-6. Click "Approve USDT" to approve your USDT.
-7. Additionally if you want AnySwap to deposit your USDT into another BSC address. Please use the "+ Send To" button.
-8. Click "Swap" and complete your final cross-chain transactions.
-9. The entire process will take around 10-30 minutes to complete depends on how congested the network is.
-10. Once finished. You should receive your fund in your BSC wallet. Now you can start using PancakeSwap to swap some tokens on BNB Smart Chain!
+    <img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/MBP3-2021.10.19-055554AM-Google%20Chrome_AnySwap%20-%20Cross%20Chain%20Protocol.png" alt="" data-size="original">
+6. Clique em "Approve USDT" para aprovar seu USDT.
+7. Adicionalmente, se você quiser que o AnySwap deposite seu USDT em outro endereço BSC, use o botão "+ Send To".
+8. Clique em "Swap" e conclua suas transações cross-chain finais.
+9. Todo o processo levará cerca de 10 a 30 minutos para ser concluído, dependendo do congestionamento da rede.
+10. Após concluir, você deve receber seus fundos na sua carteira BSC. Agora você pode começar a usar o PancakeSwap para trocar alguns tokens na BNB Smart Chain!
 {% endtab %}
 
 {% tab title="O3 Hub" %}
-⚠️ **O3 Swap is in beta. Please trade at your own risk.**
+⚠️ **O O3 Swap está em beta. Por favor, negocie por sua conta e risco.**
 
-Let's try using O3 Hub to moving USDT from ERC-20 blockchain to BNB Smart Chain.
+Vamos tentar usar o O3 Hub para mover USDT da blockchain ERC-20 para a BNB Smart Chain.
 
-1. Prepare your ERC-20 (Ethereum Mainnet) wallet with USDT and some ETH for gas.
-2. Since O3 Hub only supports MetaMask and O3 Wallet. If you are using other wallet apps, we recommend you to import your wallet into MetaMask.
-3. Navigate to [https://o3swap.com/hub](https://o3swap.com/hub)
-4.  Connect your MetaMask or O3 wallet for both ETH and BSC. And switch your network in MetaMask to Ethereum Mainnet.
+1. Prepare sua carteira ERC-20 (Ethereum Mainnet) com USDT e algum ETH para gas.
+2. Como o O3 Hub só suporta MetaMask e O3 Wallet, se você estiver usando outros aplicativos de carteira, recomendamos que você importe sua carteira para o MetaMask.
+3. Navegue até [https://o3swap.com/hub](https://o3swap.com/hub)
+4.  Conecte sua carteira MetaMask ou O3 tanto para ETH quanto para BSC. E mude sua rede no MetaMask para Ethereum Mainnet.
 
-    <img src="../../../.gitbook/assets/MBP3-2021.10.19-054852AM-Google Chrome_O3swap.png" alt="" data-size="original">
-5.  Select ERC-20 USDT as “You pay”, and BEP-20 USDT as "You will receive". Then type in the amount of USDT you want to transfer.
+    <img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/MBP3-2021.10.19-054852AM-Google%20Chrome_O3swap.png" alt="" data-size="original">
+5.  Selecione ERC-20 USDT como "You pay" e BEP-20 USDT como "You will receive". Em seguida, insira o valor de USDT que deseja transferir.
 
-    <img src="../../../.gitbook/assets/MBP3-2021.10.19-053358AM-Google Chrome_O3swap.png" alt="" data-size="original">
-6.  Double check the “To” field is showing the correct BNB Smart Chain wallet address you’ve connected.
+    <img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/MBP3-2021.10.19-053358AM-Google%20Chrome_O3swap.png" alt="" data-size="original">
+6.  Verifique duas vezes se o campo "To" está mostrando o endereço correto da carteira BNB Smart Chain que você conectou.
 
-    <img src="../../../.gitbook/assets/MBP3-2021.10.19-053441AM-Google Chrome_O3swap.png" alt="" data-size="original">
-7. Make sure everything is correct. Click "Swap".
-8. Follow the on-screen instructions to approve your USDT, and complete the final cross-chain transaction.
-9.  The entire process will take around 10-30 minutes to complete depends on how congested the network is. You can keep track of the progress on history tab.
+    <img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/MBP3-2021.10.19-053441AM-Google%20Chrome_O3swap.png" alt="" data-size="original">
+7. Certifique-se de que tudo está correto. Clique em "Swap".
+8. Siga as instruções na tela para aprovar seu USDT e conclua a transação cross-chain final.
+9.  Todo o processo levará cerca de 10 a 30 minutos para ser concluído, dependendo do congestionamento da rede. Você pode acompanhar o progresso na aba de histórico.
 
-    <img src="../../../.gitbook/assets/MBP3-2021.10.19-054520AM-Google Chrome_O3swap.png" alt="" data-size="original">
-10. Once finished. You should receive your funds in your BSC wallet. Now you can start using PancakeSwap to swap some tokens on BNB Smart Chain!
+    <img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/MBP3-2021.10.19-054520AM-Google%20Chrome_O3swap.png" alt="" data-size="original">
+10. Após concluir, você deve receber seus fundos na sua carteira BSC. Agora você pode começar a usar o PancakeSwap para trocar alguns tokens na BNB Smart Chain!
 
-Additionally, you can check out [this user guide](https://docs.o3swap.com/o3-swap-user-guide/hub#2.-hub-swap) from O3 Swap.
+Além disso, você pode conferir [este guia do usuário](https://docs.o3swap.com/o3-swap-user-guide/hub#2.-hub-swap) do O3 Swap.
 {% endtab %}
 {% endtabs %}

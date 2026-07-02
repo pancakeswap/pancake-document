@@ -1,79 +1,79 @@
-# Create a wallet (Monad)
+# Criar uma carteira (Monad)
 
-### 1. **Why You Need a Wallet**
+### 1. **Por que você precisa de uma Carteira**
 
-To use **PancakeSwap on Monad**, you need a **crypto wallet** — it’s your personal vault for digital assets and your passport to DeFi. Without a wallet, you won’t be able to:
+Para usar o **PancakeSwap no Monad**, você precisa de uma **carteira cripto** — é o seu cofre pessoal de ativos digitais e seu passaporte para o DeFi. Sem uma carteira, você não poderá:
 
-* **Swap tokens** on Monad
-* **Provide liquidity** to PancakeSwap’s **V2 & V3 Pools**
-* Interact with any dApp or store tokens on Monad
-
-***
-
-### 2. **Wallet Setup Essentials (Security First!)**
-
-Crypto wallets give you full control over your assets — but with great power comes great responsibility. Keep your wallet safe by following these best practices:
-
-| ✅ Do’s                                                                | ❌ Don’ts                                                 |
-| --------------------------------------------------------------------- | -------------------------------------------------------- |
-| ✅ **Download from official sources** (app stores, verified websites)  | ❌ Don’t install from random links or DMs                 |
-| ✅ **Follow the setup instructions** carefully                         | ❌ Don’t rush or skip the backup process                  |
-| ✅ **Back up your recovery phrase** and store it offline               | ❌ Don’t screenshot or store it on your phone or computer |
-| ✅ **Keep your phrase private** — it's your only way to recover access | ❌ Never share it, even if someone claims to be "support" |
-| ✅ Only enter your recovery phrase **inside the wallet app**           | ❌ Never input it into websites, popups, or other apps    |
-
-> 🧠 Your recovery phrase = access to your wallet
+* **Trocar tokens** no Monad
+* **Fornecer liquidez** para os **V2 & V3 Pools** do PancakeSwap
+* Interagir com qualquer dApp ou armazenar tokens no Monad
 
 ***
 
-### 3. **Choosing Your Wallet: Mobile vs. Desktop**
+### 2. **Essenciais de Configuração da Carteira (Segurança em Primeiro Lugar!)**
 
-Not sure which type of wallet to use? Here’s a quick breakdown of mobile vs. desktop/web wallets so you can choose what fits your style:
+As carteiras cripto dão a você controle total sobre seus ativos — mas com grande poder vem grande responsabilidade. Mantenha sua carteira segura seguindo estas melhores práticas:
 
-| Feature         | **Mobile Wallets**                 | **Browser/Desktop Wallets**            |
-| --------------- | ---------------------------------- | -------------------------------------- |
-| **Use case**    | Swap & track on-the-go             | Best for multitasking or deep dApp use |
-| **Ease of use** | Intuitive, beginner-friendly       | Lightweight extensions, quick access   |
-| **Security**    | Depends on phone security          | Easier hardware wallet integration     |
-| **Convenience** | All-in-one app                     | More manual, but powerful              |
-| **Best for...** | Casual users, mobile-first traders | Desktop users, more advanced flows     |
+| ✅ O que fazer                                                                     | ❌ O que não fazer                                              |
+| --------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| ✅ **Baixe de fontes oficiais** (lojas de aplicativos, sites verificados)          | ❌ Não instale a partir de links aleatórios ou DMs              |
+| ✅ **Siga as instruções de configuração** com atenção                             | ❌ Não apresse o processo ou pule o backup                      |
+| ✅ **Faça backup da sua frase de recuperação** e armazene offline                 | ❌ Não tire screenshots nem guarde no celular ou computador     |
+| ✅ **Mantenha sua frase privada** — é a única forma de recuperar o acesso         | ❌ Nunca compartilhe, mesmo que alguém diga ser "suporte"       |
+| ✅ Insira sua frase de recuperação **apenas dentro do app da carteira**           | ❌ Nunca insira em sites, pop-ups ou outros aplicativos         |
 
-> 📱 Mobile wallets can offer a smoother experience for trading, managing portfolios, and browsing NFTs — all from your phone.
+> 🧠 Sua frase de recuperação = acesso à sua carteira
+
+***
+
+### 3. **Escolhendo sua Carteira: Mobile vs. Desktop**
+
+Não tem certeza sobre qual tipo de carteira usar? Aqui está uma comparação rápida entre carteiras mobile e desktop/web para você escolher o que se adapta ao seu estilo:
+
+| Recurso             | **Carteiras Mobile**                      | **Carteiras Browser/Desktop**                 |
+| ------------------- | ----------------------------------------- | --------------------------------------------- |
+| **Uso**             | Swap e acompanhamento em movimento        | Melhor para multitarefa ou uso intenso de dApp|
+| **Facilidade**      | Intuitivo, amigável para iniciantes       | Extensões leves, acesso rápido                |
+| **Segurança**       | Depende da segurança do celular           | Integração mais fácil com hardware wallet     |
+| **Conveniência**    | App completo                              | Mais manual, mas poderoso                     |
+| **Ideal para...**   | Usuários casuais, traders no mobile       | Usuários de desktop, fluxos mais avançados    |
+
+> 📱 As carteiras mobile podem oferecer uma experiência mais fluida para negociar, gerenciar portfólios e navegar por NFTs — tudo pelo celular.
 
 ***
 
 {% hint style="success" %}
-**Some popular** [**wallets**](https://docs.monad.xyz/tooling-and-infra/wallets/software-wallets) **that you may use for Monad ecoystem!**
+**Algumas** [**carteiras**](https://docs.monad.xyz/tooling-and-infra/wallets/software-wallets) **populares que você pode usar para o ecossistema Monad!**
 {% endhint %}
 
 ***
 
-#### 🔌 **WalletConnect-Compatible Options**
+#### 🔌 **Opções Compatíveis com WalletConnect**
 
-Using **WalletConnect**, you can connect wallets to PancakeSwap on Monad — directly from desktop or mobile:
+Usando o **WalletConnect**, você pode conectar carteiras ao PancakeSwap no Monad — diretamente do desktop ou mobile:
 
 * **Leap wallet**
 * **Bitget wallet**
 * **HaHa wallet**
-* **Backpack,** and more
+* **Backpack,** e mais
 
-> You’ll see a full list of supported wallets when connecting on the PancakeSwap UI via WalletConnect.
+> Você verá uma lista completa de carteiras suportadas ao se conectar na interface do PancakeSwap via WalletConnect.
 
 ***
 
-### 4. **General Wallet Setup Steps (Quick Guide)**
+### 4. **Passos Gerais de Configuração da Carteira (Guia Rápido)**
 
-No matter which wallet you choose, the process is generally similar:
+Independentemente da carteira que você escolher, o processo é geralmente semelhante:
 
-1. **Download** the wallet app or browser extension from its **official source**
-2. Launch the app and tap **“Create a new wallet”**
-   * (Or select **“Import”** if you already have one)
-3. Set a strong **password or PIN** (if required)
-4.  You’ll be shown a **recovery phrase** (12 or 24 words) —
+1. **Baixe** o app da carteira ou a extensão do navegador da sua **fonte oficial**
+2. Inicie o app e toque em **"Create a new wallet"**
+   * (Ou selecione **"Import"** se você já tiver uma)
+3. Defina uma **senha ou PIN** forte (se necessário)
+4.  Será exibida uma **frase de recuperação** (12 ou 24 palavras) —
 
-    → **Write it down and store it somewhere safe, offline**
-5. **Confirm your recovery phrase** to complete setup
-6.  **Fund your wallet with MON**
+    → **Anote e guarde em um lugar seguro, offline**
+5. **Confirme sua frase de recuperação** para concluir a configuração
+6.  **Deposite MON na sua carteira**
 
-    → You’ll need **MON** to pay for gas fees when swapping or adding liquidity on PancakeSwap
-7. You can bridge assets to Monad using this [cross-chain bridge](https://monadbridge.com/)
+    → Você precisará de **MON** para pagar as taxas de gas ao fazer Swap ou adicionar liquidez no PancakeSwap
+7. Você pode fazer bridge de ativos para o Monad usando esta [bridge cross-chain](https://monadbridge.com/)

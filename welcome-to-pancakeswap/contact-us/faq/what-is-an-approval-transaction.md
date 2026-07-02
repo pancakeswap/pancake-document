@@ -1,37 +1,37 @@
-# What is an Approval Transaction?
+# O que é uma Transação de Aprovação?
 
-**The first time you swap or add liquidity, you have to approve the token you are swapping. This gives the PancakeSwap smart contract permission to swap that token from your wallet.**
-
-
-
-The approval transaction allows PancakeSwap permission to swap the token from your wallet. You have to complete an approval transaction for every token you want to swap using PancakeSwap.
+**Na primeira vez que você faz swap ou adiciona liquidez, você precisa aprovar o token que está trocando. Isso dá ao smart contract do PancakeSwap permissão para trocar esse token da sua carteira.**
 
 
 
-Here is a guide on how to complete an approval transaction:
+A transação de aprovação permite ao PancakeSwap a permissão para fazer swap do token da sua carteira. Você precisa completar uma transação de aprovação para cada token que deseja trocar usando o PancakeSwap.
 
-1.  Enter your swap details.&#x20;
 
-    <figure><img src="../../../.gitbook/assets/step1 (1) (1).png" alt=""><figcaption></figcaption></figure>
-2.  Select “Confirm swap” after reviewing swap details.&#x20;
 
-    <figure><img src="../../../.gitbook/assets/4536.png" alt=""><figcaption></figcaption></figure>
-3. In your wallet app or wallet extension, approve the spending for the token you are swapping.
+Aqui está um guia sobre como completar uma transação de aprovação:
 
-Allow the token to be used for swapping in your wallet.
+1.  Insira os detalhes do seu swap.&#x20;
 
-_Your wallet may require you to enter the number of tokens you want to approve. Please enter a number that is greater than or equal to the number of tokens you are swapping._ &#x20;
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/step1%20%281%29%20%281%29.png" alt=""><figcaption></figcaption></figure>
+2.  Selecione "Confirmar swap" após revisar os detalhes do swap.&#x20;
 
-<figure><img src="../../../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/4536.png" alt=""><figcaption></figcaption></figure>
+3. No aplicativo ou extensão da sua carteira, aprove o gasto do token que você está trocando.
 
-4.  After the approval, another transaction will appear which asks you to confirm the swap.&#x20;
+Permita que o token seja usado para swap na sua carteira.
 
-    <figure><img src="../../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
-5.  Once the swap is confirmed, the transaction is submitted to the blockchain (pending).&#x20;
+_Sua carteira pode solicitar que você insira o número de tokens que deseja aprovar. Por favor, insira um número que seja maior ou igual ao número de tokens que você está trocando._&#x20;
 
-    <figure><img src="../../../.gitbook/assets/step 04.png" alt=""><figcaption></figcaption></figure>
-6. You will see “Success” and a green checkmark on the screen when the transaction is successfully completed.&#x20;
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
+4.  Após a aprovação, outra transação aparecerá solicitando que você confirme o swap.&#x20;
 
-The token approval lasts for a certain period of time, the token will have to be approved again later with a signature request. An approval signature does not require a network fee.
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+5.  Uma vez que o swap é confirmado, a transação é enviada para a blockchain (pendente).&#x20;
+
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/step%2004.png" alt=""><figcaption></figcaption></figure>
+6. Você verá "Sucesso" e um checkmark verde na tela quando a transação for concluída com êxito.&#x20;
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
+
+A aprovação do token dura por um determinado período de tempo, o token precisará ser aprovado novamente mais tarde com uma solicitação de assinatura. Uma assinatura de aprovação não requer taxa de rede.

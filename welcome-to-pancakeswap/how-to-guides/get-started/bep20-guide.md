@@ -1,39 +1,39 @@
-# Get BEP20 Tokens
+# Obter Tokens BEP20
 
-![](../../../.gitbook/assets/how-to-get-bep20-tokens-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-get-bep20-tokens-header.png)
 
-The native tokens of BNB Smart Chain (BSC) are **BEP20**.
+Os tokens nativos da BNB Smart Chain (BSC) são **BEP20**.
 
-To do most things on BSC, you will need to pay gas, which comes in the form of BEP20 BNB.
+Para fazer a maioria das coisas na BSC, você precisará pagar gas, que vem na forma de BNB BEP20.
 
-You will also need the BEP20 version of any token you want to trade, stake etc. on BSC.
+Você também precisará da versão BEP20 de qualquer token que queira negociar, fazer Staking etc. na BSC.
 
-You can go a few ways about converting your tokens to BEP20, but here are the ones we recommend:
+Você pode converter seus tokens para BEP20 de algumas maneiras, mas aqui estão as que recomendamos:
 
 {% tabs %}
 {% tab title="🥞🌉 Pancake Bridge" %}
-![](<../../../.gitbook/assets/image (168).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28168%29.png)
 
-[**PancakeSwap Bridge**](http://bridge.pancakeswap.finance) — a native asset cross-chain bridge, powered by Stargate.
+[**PancakeSwap Bridge**](http://bridge.pancakeswap.finance) — uma bridge de ativos nativos cross-chain, desenvolvida pela Stargate.
 
-This bridge allows you to seamlessly move your stablecoins over to BNB Chain, and participate in the lively PancakeSwap Community and wider BNB Ecosystem!
+Esta bridge permite que você mova suas stablecoins de forma fácil para a BNB Chain e participe da animada Comunidade PancakeSwap e do amplo Ecossistema BNB!
 
-📖 [Learn how to use](https://medium.com/pancakeswap/launching-pancakeswap-bridge-a-partnership-with-stargate-21c1c9f491a8)
+📖 [Saiba como usar](https://medium.com/pancakeswap/launching-pancakeswap-bridge-a-partnership-with-stargate-21c1c9f491a8)
 {% endtab %}
 
 {% tab title="💰 Binance" %}
 [**Binance.com**](https://github.com/pancakeswap/pancake-document/tree/255db0c7af28df2f9c1209daa5cdbd774490a666/get-started/www.binance.com)
 
-You can withdraw tokens as BEP20 via your Binance account (if you have one). Bear in mind you need an account to do so.
+Você pode sacar tokens como BEP20 por meio da sua conta na Binance (se você tiver uma). Lembre-se de que você precisa de uma conta para fazer isso.
 
-📖 [Here's a quick guide they made to help you out.](https://www.binance.com/en/support/faq/85a1c394ac1d489fb0bfac0ef2fceafd)
+📖 [Aqui está um guia rápido que eles criaram para ajudar você.](https://www.binance.com/en/support/faq/85a1c394ac1d489fb0bfac0ef2fceafd)
 {% endtab %}
 
 {% tab title="🔒 SafePal" %}
 [**SafePal**](https://safepal.io/download)
 
-You don't need an account, or to register etc. Execute cross-chain swaps directly from your wallet.
+Você não precisa de conta, ou cadastro etc. Execute Swaps cross-chain diretamente da sua carteira.
 
-📖 [Here's a quick guide they made to help you out.](https://docs.safepal.io/safepal-app/cross-chain-swap-tutorial)
+📖 [Aqui está um guia rápido que eles criaram para ajudar você.](https://docs.safepal.io/safepal-app/cross-chain-swap-tutorial)
 {% endtab %}
 {% endtabs %}

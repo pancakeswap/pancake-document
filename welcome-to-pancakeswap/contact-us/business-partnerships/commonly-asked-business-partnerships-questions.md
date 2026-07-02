@@ -1,49 +1,49 @@
-# ❓ Commonly Asked Business Partnerships Questions
+# ❓ Perguntas Frequentes sobre Parcerias Comerciais
 
-#### How long will it take to get a response?
+#### Quanto tempo levará para receber uma resposta?
 
-We aim to respond to applications within a week, but due to a large number of requests, we’re unable to respond to every single applicant. If you don’t hear back from us within two weeks of applying, try reaching out to[ @PancakeSwapBD](https://t.me/PancakeSwapBD) on Telegram, with the name of your project, your project’s website, and the date you applied.
+Nosso objetivo é responder às candidaturas em uma semana, mas devido ao grande número de solicitações, não conseguimos responder a todos os candidatos. Se não receber resposta nossa dentro de duas semanas após a candidatura, tente entrar em contato com [@PancakeSwapBD](https://t.me/PancakeSwapBD) no Telegram, informando o nome do seu projeto, o site do seu projeto e a data em que se candidatou.
 
-#### Can I extend my Syrup Pool?
+#### Posso estender meu Syrup Pool?
 
-If you’ve already got an ongoing Syrup Pool, you can extend the timeline with additional release of tokens. Contact us via your existing PancakeSwap communication channels for enquiries.
+Se você já tem um Syrup Pool em andamento, pode estender o prazo com liberação adicional de tokens. Entre em contato conosco pelos seus canais de comunicação existentes com o PancakeSwap para consultas.
 
-### Listing on the Exchange
+### Listagem na Corretora
 
-#### How can I list my token on the exchange?
+#### Como posso listar meu token na corretora?
 
-Anybody can "list" any ERC-20 / BEP-20 network token on PancakeSwap. You don't need to contact us or ask permission. You just need to [add liquidity to a liquidity pool](https://docs.pancakeswap.finance/products/pancakeswap-exchange/pancakeswap-pools) - that's it. Traders can then trade your token by entering your token's contract address.
+Qualquer pessoa pode "listar" qualquer token de rede ERC-20 / BEP-20 no PancakeSwap. Você não precisa entrar em contato conosco ou pedir permissão. Você apenas precisa [adicionar liquidez a um pool de liquidez](https://docs.pancakeswap.finance/products/pancakeswap-exchange/pancakeswap-pools) - só isso. Os traders poderão então negociar seu token inserindo o endereço do contrato do seu token.
 
-#### How can I add my token to the default list?
+#### Como posso adicionar meu token à lista padrão?
 
-Projects hosting Farms will usually be added to the Extended token list, and other tokens chosen by the PancakeSwap core team may also be added.
+Projetos que hospedam Farms geralmente são adicionados à lista de tokens Estendida, e outros tokens escolhidos pela equipe principal do PancakeSwap também podem ser adicionados.
 
-We don’t take applications for the list. Users can still add your token manually by entering its contract address.
+Não aceitamos candidaturas para a lista. Os usuários ainda podem adicionar seu token manualmente inserindo seu endereço de contrato.
 
-#### How can I add my token's logo/icon?
+#### Como posso adicionar o logotipo/ícone do meu token?
 
-Please add your icon to Trust Wallet’s assets repo, which PancakeSwap references:[ https://github.com/trustwallet/assets](https://github.com/trustwallet/assets)
+Por favor, adicione seu ícone ao repositório de ativos da Trust Wallet, que o PancakeSwap referencia:[ https://github.com/trustwallet/assets](https://github.com/trustwallet/assets)
 
-#### Someone made a fake copy of my token! Can you block it?
+#### Alguém criou uma cópia falsa do meu token! Vocês podem bloqueá-la?
 
-Due to PancakeSwap’s nature as an AMM-based DEX, we’re not able to prevent the trading of any token. We recommend ensuring that your token contract is clearly visible and verifiable on your site and educating your users about how to safely trade your token.
+Devido à natureza do PancakeSwap como uma DEX baseada em AMM, não podemos impedir a negociação de nenhum token. Recomendamos garantir que o contrato do seu token esteja claramente visível e verificável no seu site e educar seus usuários sobre como negociar seu token com segurança.
 
-#### People get an error when trading my token. What can I do?
+#### As pessoas recebem um erro ao negociar meu token. O que posso fazer?
 
-Check our [Troubleshooting page](https://docs.pancakeswap.finance/readme/help/troubleshooting) for a list of common errors on the exchange, and how to solve them.
+Verifique nossa [página de Solução de Problemas](https://docs.pancakeswap.finance/readme/help/troubleshooting) para uma lista de erros comuns na corretora e como resolvê-los.
 
-#### Why are some statistics of my tokens not shown on the Info page?
+#### Por que algumas estatísticas do meu token não aparecem na página de Informações?
 
-Tokens need to be paired with a “common” token, and have a minimum amount of liquidity denominated in the “common” token for the Info page to start indexing the token pair. The statistics of the underlying token will be shown once the token pair is indexed.&#x20;
+Os tokens precisam ser emparelhados com um token "comum" e ter uma quantidade mínima de liquidez denominada no token "comum" para que a página de Informações comece a indexar o par de tokens. As estatísticas do token subjacente serão exibidas assim que o par de tokens for indexado.&#x20;
 
-These are our liquidity requirements across the different chains:
+Estes são nossos requisitos de liquidez nas diferentes redes:
 
-| Chain         | Liquidity Requirement  | "Common" Tokens                                           |
+| Rede          | Requisito de Liquidez  | Tokens "Comuns"                                           |
 | ------------- | ---------------------- | --------------------------------------------------------- |
 | BNB Chain     | 10 BNB                 | WBNB, USDT, BUSD, USDC, BTCB, WETH, CAKE                  |
 | Ethereum      | 5 ETH                  | WETH, DAI, USDC, USDT, WBTC, LINK, FEI, MATIC, AAVE, CAKE |
 | Base          | 1 ETH                  | USDC, cbETH, rETH, DAI, crvUSD                            |
 | opBNB         | 1 BNB                  | WBNB, USDT                                                |
-| Arbitrum      | No requirement for now | USDT, USDC, USDC.e, ARB, WBTC, DAI                        |
-| zkSync        | No requirement for now | USDT, USDC, BUSD, WBTC                                    |
-| Linea         | No requirement for now | USDC, USDT, DAI, BUSD, WBTC                               |
+| Arbitrum      | Sem requisito por ora  | USDT, USDC, USDC.e, ARB, WBTC, DAI                        |
+| zkSync        | Sem requisito por ora  | USDT, USDC, BUSD, WBTC                                    |
+| Linea         | Sem requisito por ora  | USDC, USDT, DAI, BUSD, WBTC                               |

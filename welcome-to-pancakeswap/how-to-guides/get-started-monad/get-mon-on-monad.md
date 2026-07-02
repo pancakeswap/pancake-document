@@ -2,87 +2,86 @@
 hidden: true
 ---
 
-# Get MON on Monad
+# Obter MON no Monad
 
-### 1. **Why You Need MON**
+### 1. **Por que você precisa de MON**
 
-MON is the **native token** of the Monad blockchain. You’ll need it to:
+MON é o **token nativo** da blockchain Monad. Você precisará dele para:
 
-* **Pay gas fees** for any transaction (swaps, adding liquidity etc.)
-* **Create and manage liquidity positions** on PancakeSwap
-* **Interact with any Monad dApp**
-
-***
-
-### 2. **Main Ways to Get MON**
-
-There are **four main ways** to get MON, depending on your starting point and preferences.
-
-| Method                           | Best for                                            | Requires a Wallet?      | Notes                               |
-| -------------------------------- | --------------------------------------------------- | ----------------------- | ----------------------------------- |
-| **Centralized Exchanges (CEXs)** | Beginners or users buying with fiat                 | ✅ Yes (to access dApps) | Most common entry point             |
-| **PancakeSwap (DEX)**            | DeFi-native users with tokens already on Monad      | ✅ Yes                   | Swap into MON directly              |
-| **Buy via Wallet App**           | Mobile-first users                                  | ✅ Yes                   | Some wallets offer in-app purchases |
-| **Bridge from Another Chain**    | Users with funds on Ethereum, BNB Chain, Base, etc. | ✅ Yes                   | Bring assets over to Monad          |
-
-Let’s go through them:
-
-#### I. **Buy MON from a Centralised Exchange (CEX)**
-
-If you're new to crypto or don’t yet have a wallet, buying MON from a **major exchange** is the most straightforward option.
-
-#### ✅ What you do:
-
-1. **Create an account** on a centralised exchange (e.g., Binance).
-2. **Buy MON** using fiat (USD, EUR, etc.) or other cryptocurrencies.
-3. **Withdraw MON** to your **self-custodial Monad wallet** to interact with dApps like PancakeSwap.
+* **Pagar taxas de gas** para qualquer transação (Swaps, adição de liquidez etc.)
+* **Criar e gerenciar posições de liquidez** no PancakeSwap
+* **Interagir com qualquer dApp do Monad**
 
 ***
 
-#### II. **Swap for MON on PancakeSwap (DEX)**
+### 2. **Principais Formas de Obter MON**
 
-Already using Monad? If you have tokens like **USDC** or **USDT** on the Monad network, you can swap them directly for MON using **PancakeSwap**.
+Existem **quatro formas principais** de obter MON, dependendo do seu ponto de partida e preferências.
 
-#### ✅ What you do:
+| Método                                    | Melhor para                                               | Requer uma Carteira?     | Observações                                     |
+| ----------------------------------------- | --------------------------------------------------------- | ------------------------ | ----------------------------------------------- |
+| **Corretoras Centralizadas (CEXs)**       | Iniciantes ou usuários comprando com moeda fiduciária     | ✅ Sim (para acessar dApps)| Ponto de entrada mais comum                    |
+| **PancakeSwap (DEX)**                     | Usuários DeFi com tokens já no Monad                      | ✅ Sim                   | Troque diretamente por MON                      |
+| **Compra via App da Carteira**            | Usuários mobile                                           | ✅ Sim                   | Algumas carteiras oferecem compras no app       |
+| **Bridge de Outra Blockchain**            | Usuários com fundos no Ethereum, BNB Chain, Base, etc.    | ✅ Sim                   | Transfira ativos para o Monad                   |
 
-* Connect your wallet on Monad to PancakeSwap.
-* Go to the **Swap** page.
-* Swap your Monad-based token into MON.
+Vamos analisá-las:
 
-> 🧠 Note: You’ll still need a small amount of MON to pay for the swap itself. If you have zero MON, use the CEX or bridge method first.
+#### I. **Comprar MON de uma Corretora Centralizada (CEX)**
 
-***
+Se você é novo em cripto ou ainda não tem uma carteira, comprar MON de uma **exchange importante** é a opção mais simples.
 
-#### III. **Buy MON Directly From a Wallet App**
+#### ✅ O que fazer:
 
-Some wallets support **in-app crypto purchases** using Apple Pay, Google Pay, credit card, or other providers like MoonPay.&#x20;
-
-#### ✅ What you do:
-
-1. Open your wallet.
-2. Tap "Buy" or "Buy Crypto".
-3. Select **MON**.
-4. Choose your payment method and follow the steps.
-
-This is a user-friendly option for mobile-first users who want to skip setting up an exchange account.
+1. **Crie uma conta** em uma corretora centralizada (ex.: Binance).
+2. **Compre MON** usando moeda fiduciária (USD, EUR, etc.) ou outras criptomoedas.
+3. **Retire MON** para sua **carteira Monad self-custodial** para interagir com dApps como o PancakeSwap.
 
 ***
 
-#### IV. **Bridge MON from Another Blockchain**
+#### II. **Trocar por MON no PancakeSwap (DEX)**
 
-Already have tokens on a different chain like **BNB Chain**, **Ethereum**, or **Base**? You can bring funds over to Solana using **bridging platforms**.
+Já está usando o Monad? Se você tem tokens como **USDC** ou **USDT** na rede Monad, pode trocá-los diretamente por MON usando o **PancakeSwap**.
 
-#### ✅ What you do:
+#### ✅ O que fazer:
 
-1. Visit [https://monadbridge.com/](https://monadbridge.com/)
-2. Select your token and the chain you’re sending from.
-3. Choose **Monad** as your destination.
-4. Complete the bridge and receive the bridged token in your Monad wallet.
-5. Swap that token into **MON** using PancakeSwap.
+* Conecte sua carteira no Monad ao PancakeSwap.
+* Vá para a página de **Swap**.
+* Troque seu token baseado em Monad por MON.
+
+> 🧠 Nota: Você ainda precisará de uma pequena quantidade de MON para pagar pelo próprio Swap. Se você tiver zero MON, use primeiro o método de CEX ou bridge.
 
 ***
 
-### 3. **Final Tip**
+#### III. **Comprar MON Diretamente em um App de Carteira**
 
-Every Monad action — from swapping to providing liquidity — **requires MON for gas**. Always keep a little MON in your wallet after each transaction to avoid getting stuck.
+Algumas carteiras suportam **compras de cripto no app** usando Apple Pay, Google Pay, cartão de crédito ou outros provedores como MoonPay.&#x20;
 
+#### ✅ O que fazer:
+
+1. Abra sua carteira.
+2. Toque em "Buy" ou "Buy Crypto".
+3. Selecione **MON**.
+4. Escolha seu método de pagamento e siga os passos.
+
+Esta é uma opção amigável para usuários mobile que querem evitar configurar uma conta em uma exchange.
+
+***
+
+#### IV. **Bridge de MON de Outra Blockchain**
+
+Já tem tokens em uma blockchain diferente como **BNB Chain**, **Ethereum** ou **Base**? Você pode trazer fundos para o Monad usando **plataformas de bridging**.
+
+#### ✅ O que fazer:
+
+1. Visite [https://monadbridge.com/](https://monadbridge.com/)
+2. Selecione seu token e a blockchain de origem.
+3. Escolha **Monad** como destino.
+4. Conclua a bridge e receba o token bridgeado na sua carteira Monad.
+5. Troque esse token por **MON** usando o PancakeSwap.
+
+***
+
+### 3. **Dica Final**
+
+Toda ação no Monad — desde Swaps até fornecer liquidez — **requer MON para gas**. Sempre mantenha um pouco de MON na sua carteira após cada transação para evitar ficar bloqueado.
