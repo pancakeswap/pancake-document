@@ -1,39 +1,39 @@
-# Connect Your Wallet to PancakeSwap
+# Conectar sua Carteira ao PancakeSwap
 
-![](../../../.gitbook/assets/how-to-connect-wallet-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-connect-wallet-header.png)
 
-## Connect your wallet
+## Conectar sua carteira
 
-<figure><img src="../../../.gitbook/assets/wallet-connection-aptos.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/wallet-connection-aptos.png" alt=""><figcaption></figcaption></figure>
 
-1. Click "Connect Wallet" on the top-righthand corner.
-2. For most of the browser extension wallets, simple select their icon, and follow the instruction in the pop-up window.
-3. For Blocto, please use your Email address to register or sign in. To learn more, please check out [here](wallet-guide.md).
+1. Clique em "Connect Wallet" no canto superior direito.
+2. Para a maioria das carteiras de extensão de navegador, basta selecionar o ícone delas e seguir as instruções na janela pop-up.
+3. Para Blocto, por favor use seu endereço de e-mail para se cadastrar ou fazer login. Para saber mais, confira [aqui](wallet-guide.md).
 
 {% hint style="danger" %}
-**Remember - NEVER, under any situation, should you ever give someone your private key or recovery phrases.**
+**Lembre-se - NUNCA, sob nenhuma circunstância, você deve dar a alguém sua chave privada ou frases de recuperação.**
 {% endhint %}
 
-## **Connect to Aptos Mainnet**
+## **Conectar à Aptos Mainnet**
 
-Aptos has multiple networks, including multiple devnets and testnets. But to use PancakeSwap on Aptos Chain, please be sure your wallet is connected to **Aptos Mainnet**.&#x20;
+A Aptos tem múltiplas redes, incluindo várias devnets e testnets. Mas para usar o PancakeSwap na Aptos Chain, certifique-se de que sua carteira está conectada à **Aptos Mainnet**.&#x20;
 
-Here's how:
+Veja como:
 
 {% tabs %}
 {% tab title="Petra" %}
-![](../../../.gitbook/assets/aptos-network-switching-petra.gif)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/aptos-network-switching-petra.gif)
 {% endtab %}
 
 {% tab title="Martian" %}
-![](../../../.gitbook/assets/aptos-network-switching-martian.gif)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/aptos-network-switching-martian.gif)
 {% endtab %}
 
 {% tab title="Pontem" %}
-![](../../../.gitbook/assets/aptos-network-switching-pontem.gif)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/aptos-network-switching-pontem.gif)
 {% endtab %}
 
 {% tab title="Fewcha" %}
-![](../../../.gitbook/assets/aptos-network-switching-fewcha.gif)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/aptos-network-switching-fewcha.gif)
 {% endtab %}
 {% endtabs %}

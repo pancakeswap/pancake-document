@@ -1,40 +1,40 @@
-# What is veCAKE?
+# O que é veCAKE?
 
-<figure><img src="../../../.gitbook/assets/image (340).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28340%29.png" alt=""><figcaption></figcaption></figure>
 
-## **What is veCAKE?**
+## **O que é veCAKE?**
 
-veCAKE stands for vote-escrowed CAKE. It is not transferable, and the only way to acquire veCAKE is by staking CAKE. The maximum lock time is 4 years; the longer you lock your CAKE, the more veCAKE you’ll receive.
+veCAKE significa vote-escrowed CAKE (CAKE com voto bloqueado). Não é transferível, e a única forma de adquirir veCAKE é fazendo Staking de CAKE. O tempo máximo de bloqueio é de 4 anos; quanto mais tempo você bloquear seu CAKE, mais veCAKE você receberá.
 
-## **What is the purpose of veCAKE?**
+## **Qual é o propósito do veCAKE?**
 
-veCAKE tokens serve a crucial role in PancakeSwap's governance, enabling you to actively participate in PancakeSwap’s [governance proposals ](https://pancakeswap.finance/voting)and Gauges Voting system. This allows you to vote on broader governance proposals and influence the allocation of CAKE emissions within liquidity pools.
+Os tokens veCAKE desempenham um papel crucial na Governança da PancakeSwap, permitindo que você participe ativamente das [propostas de Governança](https://pancakeswap.finance/voting) da PancakeSwap e do sistema de Votação de Gauges. Isso permite que você vote em propostas de Governança mais amplas e influencie a alocação de emissões de CAKE dentro dos pools de Liquidez.
 
-## **What are the benefits of holding veCAKE?**
+## **Quais são os benefícios de ter veCAKE?**
 
-**Weekly Rewards:** Claim CAKE rewards regularly through CAKE Staking and Revenue Sharing.
+**Recompensas Semanais:** Reivindique recompensas de CAKE regularmente por meio do Staking de CAKE e Compartilhamento de Receita.
 
 {% content-ref url="earn-cake-weekly/" %}
 [earn-cake-weekly](earn-cake-weekly/)
 {% endcontent-ref %}
 
-**Gauges Voting Participation:** Influence and boost CAKE emissions in your preferred pools, by engaging in Gauges Voting every 2 weeks, with results applied bi-weekly. Adjust your voting preferences for each gauge at intervals less frequent than 10 days.
+**Participação na Votação de Gauges:** Influencie e aumente as emissões de CAKE nos seus pools preferidos, participando da Votação de Gauges a cada 2 semanas, com resultados aplicados quinzenalmente. Ajuste suas preferências de votação para cada gauge em intervalos com menos de 10 dias de frequência.
 
 {% content-ref url="../gauges-voting/" %}
 [gauges-voting](../gauges-voting/)
 {% endcontent-ref %}
 
-**Vote Incentives:** Access additional incentives by claiming bribes from our [veCAKE Managers](vecake-managers.md)
+**Incentivos de Votação:** Acesse incentivos adicionais reivindicando bribes dos nossos [veCAKE Managers](vecake-managers.md)
 
 {% content-ref url="../bribes-vote-incentives.md" %}
 [bribes-vote-incentives.md](../bribes-vote-incentives.md)
 {% endcontent-ref %}
 
-**Governance:** Vote on governance proposals for matters related to gauge approvals, protocol changes, emission adjustments, etc.
+**Governança:** Vote em propostas de Governança para assuntos relacionados a aprovações de gauges, mudanças no protocolo, ajustes de emissão, etc.
 
-**Liquidity Rewards:** Amplify CAKE rewards akin to bCAKE when providing liquidity to v3, v2, stableswap, or position managers sequentially. This sequence commences with BNB Chain v3 on November 27th, 2023, followed by BNB Chain v2 and Position Managers.
+**Recompensas de Liquidez:** Amplie as recompensas de CAKE de forma semelhante ao bCAKE ao fornecer Liquidez para v3, v2, StableSwap ou gerenciadores de posição sequencialmente. Essa sequência começa com o BNB Chain v3 em 27 de novembro de 2023, seguido pelo BNB Chain v2 e Gerenciadores de Posição.
 
-**IFO:** veCAKE balance gives you iCAKE to participate in PancakeSwap IFOs
+**IFO:** O saldo de veCAKE fornece iCAKE para participar dos IFOs da PancakeSwap
 
 {% content-ref url="../icake.md" %}
 [icake.md](../icake.md)

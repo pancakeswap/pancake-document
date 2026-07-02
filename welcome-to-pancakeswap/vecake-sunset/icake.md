@@ -1,67 +1,67 @@
 ---
-description: veCAKE Staking and IFO Allocations
+description: Staking de veCAKE e Alocações de IFO
 hidden: true
 ---
 
 # iCAKE
 
-### **What is the new iCAKE?**
+### **O que é o novo iCAKE?**
 
-After transitioning to veCAKE, the new iCAKE will be based on the veCAKE balance
+Após a transição para veCAKE, o novo iCAKE será baseado no saldo de veCAKE
 
-* Just like the old iCAKE, it determines the maximum CAKE commit limit in the PancakeSwap IFO public sales. For example, if you have 200 iCAKE, you can commit 200 CAKE in IFO public sales.
-* The new iCAKE number is calculated using the veCAKE balance at the end of each IFO. Therefore, you will have different iCAKE numbers for each IFO.
-* Since veCAKE balance gradually decreases with your remaining lock time. Therefore, your iCAKE in future IFOs will decrease with your veCAKE balance. To maintain your iCAKE number, add more CAKE to the stakings, or renew/extend your lock.
+* Assim como o antigo iCAKE, ele determina o limite máximo de commit de CAKE nas vendas públicas de IFO da PancakeSwap. Por exemplo, se você tem 200 iCAKE, pode commitar 200 CAKE nas vendas públicas de IFO.
+* O novo número de iCAKE é calculado usando o saldo de veCAKE ao final de cada IFO. Portanto, você terá números de iCAKE diferentes para cada IFO.
+* Como o saldo de veCAKE diminui gradualmente com o tempo restante de bloqueio, seu iCAKE em IFOs futuros também diminuirá com seu saldo de veCAKE. Para manter seu número de iCAKE, adicione mais CAKE ao Staking ou renove/estenda seu bloqueio.
 
-**iCAKE is NOT a new token, it is a numerical metric being used by the PancakeSwap IFO system.**
+**iCAKE NÃO é um novo token; é uma métrica numérica utilizada pelo sistema de IFO da PancakeSwap.**
 
-### How is iCAKE calculated?
+### Como o iCAKE é calculado?
 
-The number of iCAKE you have is based on the veCAKE balance at the end of each IFO, multiplied by a predefined ratio.
+O número de iCAKE que você possui é baseado no saldo de veCAKE ao final de cada IFO, multiplicado por uma proporção predefinida.
 
-veCAKE is a dynamically calculated value based on how much CAKE you lock and how much time is left in the lock. To learn more about how veCAKE is calculated, check out [here](https://docs.pancakeswap.finance/products/vecake/faq#52f27118-bbf3-448b-9ffe-e9e1a9dd97ef).
+veCAKE é um valor calculado dinamicamente com base na quantidade de CAKE que você bloqueia e no tempo restante no bloqueio. Para saber mais sobre como o veCAKE é calculado, confira [aqui](https://docs.pancakeswap.finance/products/vecake/faq#52f27118-bbf3-448b-9ffe-e9e1a9dd97ef).
 
-An additional ratio is being applied on top of the veCAKE balance, which is adjusted by the Kitchen for each IFO. For example, if the ratio is 2x, and you have 1 veCAKE at the end of the next IFO, you can commit up to 2 CAKE.
+Uma proporção adicional é aplicada sobre o saldo de veCAKE, ajustada pela Cozinha para cada IFO. Por exemplo, se a proporção é 2x, e você tem 1 veCAKE ao final do próximo IFO, você pode commitar até 2 CAKE.
 
-Example:
+Exemplo:
 
-* You locked 100 CAKE for 2 years.
-  * Your remaining lock time is: `2 * 52 * 7 * 24 * 60 * 60 = 62899200`  (seconds)
-  * The max lock time is: `(209 * 7 * 24 * 60 * 60) - 1 = 126403199` (seconds)
-  * At the current moment, you have: `100 * (62899200 / 126403199) ~= 49.76` veCAKE
-* The very next IFO is scheduled; its end time is exactly 1 week later, which is `604800` seconds after the current moment.
-  * At the time, your remaining lock time is: `62899200 - 604800 = 62294400` (seconds)
-  * At that time, you have: `100 * (62294400 / 126403199) ~= 49.28` veCAKE
-* For this IFO, the ratio is set to `3x`
-* Therefore, for this IFO, you have: `49.28 * 3 = 147.84` iCAKE, which means you can commit up to 147.84 CAKE in the public sale.
+* Você bloqueou 100 CAKE por 2 anos.
+  * Seu tempo restante de bloqueio é: `2 * 52 * 7 * 24 * 60 * 60 = 62899200` (segundos)
+  * O tempo máximo de bloqueio é: `(209 * 7 * 24 * 60 * 60) - 1 = 126403199` (segundos)
+  * No momento atual, você tem: `100 * (62899200 / 126403199) ~= 49.76` veCAKE
+* O próximo IFO está agendado; seu horário de término é exatamente 1 semana depois, que é `604800` segundos após o momento atual.
+  * Naquele momento, seu tempo restante de bloqueio é: `62899200 - 604800 = 62294400` (segundos)
+  * Naquele momento, você tem: `100 * (62294400 / 126403199) ~= 49.28` veCAKE
+* Para este IFO, a proporção está definida em `3x`
+* Portanto, para este IFO, você tem: `49.28 * 3 = 147.84` iCAKE, o que significa que você pode commitar até 147.84 CAKE na venda pública.
 
-### How to check the number of iCAKE I have?
+### Como verificar o número de iCAKE que tenho?
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%289%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-You can check the number of iCAKE you have on the IFO page [here](https://pancakeswap.finance/ifo).
+Você pode verificar o número de iCAKE que possui na página de IFO [aqui](https://pancakeswap.finance/ifo).
 
-Please keep in mind that when there is no upcoming IFO, your iCAKE will be calculated using real-time veCAKE balance, which gradually decreases second by second.
+Tenha em mente que quando não há IFO próximo, seu iCAKE será calculado usando o saldo de veCAKE em tempo real, que diminui gradualmente segundo a segundo.
 
-When there is an upcoming IFO, your iCAKE will be calculated using the veCAKE balance at the snapshot time, which is the end of the IFO. Your iCAKE will not decrease or change until the IFO ends.
+Quando há um IFO próximo, seu iCAKE será calculado usando o saldo de veCAKE no momento do snapshot, que é o final do IFO. Seu iCAKE não diminuirá nem mudará até o IFO terminar.
 
-### **How do I increase the number of iCAKE I have?**
+### **Como posso aumentar meu número de iCAKE?**
 
-You can increase the number of iCAKE anytime by:
+Você pode aumentar o número de iCAKE a qualquer momento:
 
-* Adding more CAKE to your veCAKE staking position.
-* Extend your veCAKE staking position.
+* Adicionando mais CAKE à sua posição de Staking de veCAKE.
+* Estendendo sua posição de Staking de veCAKE.
 
-on the [CAKE Staking Page](https://pancakeswap.finance/cake-staking)
+na [Página de Staking de CAKE](https://pancakeswap.finance/cake-staking)
 
-### What is the "Ratio" in iCAKE calculation?
+### O que é a "Proporção" no cálculo do iCAKE?
 
-Ratio is an additional control factor being applied on top of the veCAKE balance when calculating iCAKE.
+A Proporção é um fator de controle adicional aplicado sobre o saldo de veCAKE ao calcular o iCAKE.
 
-For example, if the ratio is 2x, and you have 1 veCAKE at the end of the next IFO, you can commit up to 2 CAKE.
+Por exemplo, se a proporção é 2x, e você tem 1 veCAKE ao final do próximo IFO, você pode commitar até 2 CAKE.
 
-Between each IFO, the kitchen will optimise the "Ratio" based on various metrics. The adjustment will be published on all social channels.
+Entre cada IFO, a cozinha vai otimizar a "Proporção" com base em várias métricas. O ajuste será publicado em todos os canais sociais.
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2810%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-You can check the current "Ratio" number for iCAKE calculations by going to [the IFO page](https://pancakeswap.finance/ifo).
+Você pode verificar o número atual de "Proporção" para os cálculos de iCAKE acessando [a página de IFO](https://pancakeswap.finance/ifo).

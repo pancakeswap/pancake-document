@@ -1,39 +1,39 @@
-# How to get veCAKE?
+# Como obter veCAKE?
 
-<figure><img src="../../../.gitbook/assets/image (342).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28342%29.png" alt=""><figcaption></figcaption></figure>
 
-Just like the fixed-term CAKE staking pool, to enjoy the benefits from veCAKE, simply lock CAKE for a period of time.
+Assim como o pool de Staking de CAKE de prazo fixo, para aproveitar os benefícios do veCAKE, basta bloquear CAKE por um período de tempo.
 
-## Go to the CAKE staking page <a href="#dcf081d0-9b78-4bfc-be0f-44d3d227b4d2" id="dcf081d0-9b78-4bfc-be0f-44d3d227b4d2"></a>
+## Vá para a página de Staking de CAKE <a href="#dcf081d0-9b78-4bfc-be0f-44d3d227b4d2" id="dcf081d0-9b78-4bfc-be0f-44d3d227b4d2"></a>
 
-<figure><img src="../../../.gitbook/assets/image (343).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28343%29.png" alt=""><figcaption></figcaption></figure>
 
-Navigate to [https://pancakeswap.finance/cake-staking?chain=bsc](https://pancakeswap.finance/cake-staking?chain=bsc) and connect your wallet. Please note that veCAKE staking is only available on BNB Chain.
+Acesse [https://pancakeswap.finance/cake-staking?chain=bsc](https://pancakeswap.finance/cake-staking?chain=bsc) e conecte sua carteira. Observe que o Staking de veCAKE está disponível apenas na BNB Chain.
 
-## Choose the lock amount and duration
+## Escolha o valor e a duração do bloqueio
 
-<figure><img src="../../../.gitbook/assets/image (344).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28344%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-On the left, you may input the amount of CAKE you wish to lock.
+À esquerda, você pode inserir a quantidade de CAKE que deseja bloquear.
 
-<figure><img src="../../../.gitbook/assets/image (345).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28345%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-On the right, you may choose the duration for which to lock your CAKE. The minimum lock duration is 1 week, and the maximum lock duration is now extended to 4 years.
+À direita, você pode escolher a duração do bloqueio do seu CAKE. A duração mínima de bloqueio é de 1 semana, e a duração máxima de bloqueio foi estendida para 4 anos.
 
-To quickly select the duration for locking, use the quick action buttons to choose between: 1 week, 1 month, 6 months, 1 year and 4 years.
+Para selecionar rapidamente a duração do bloqueio, use os botões de ação rápida para escolher entre: 1 semana, 1 mês, 6 meses, 1 ano e 4 anos.
 
-## Approve CAKE spend and start locking <a href="#abd2285e-6773-43d2-b6fb-135bbf93e36f" id="abd2285e-6773-43d2-b6fb-135bbf93e36f"></a>
+## Aprove o gasto de CAKE e inicie o bloqueio <a href="#abd2285e-6773-43d2-b6fb-135bbf93e36f" id="abd2285e-6773-43d2-b6fb-135bbf93e36f"></a>
 
-<figure><img src="../../../.gitbook/assets/image (346).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28346%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Once confirmed, click “Lock CAKE” to proceed. A loading modal will appear. And your wallet should prompt you to confirm CAKE spending. Confirm the transaction in the wallet to continue.
+Após confirmar, clique em "Bloquear CAKE" para prosseguir. Um modal de carregamento aparecerá. E sua carteira deverá solicitar que você confirme o gasto de CAKE. Confirme a transação na carteira para continuar.
 
-After the CAKE spend approval transaction is executed. Another wallet pop-up should appear. Confirm that transaction to lock CAKE and get veCAKE.
+Após a execução da transação de aprovação de gasto de CAKE, outro pop-up da carteira deve aparecer. Confirme essa transação para bloquear CAKE e obter veCAKE.
 
-## Well done <a href="#fdf5376d-2959-47a6-aa98-4c3e39358e86" id="fdf5376d-2959-47a6-aa98-4c3e39358e86"></a>
+## Concluído <a href="#fdf5376d-2959-47a6-aa98-4c3e39358e86" id="fdf5376d-2959-47a6-aa98-4c3e39358e86"></a>
 
-<figure><img src="../../../.gitbook/assets/image (347).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28347%29.png" alt=""><figcaption></figcaption></figure>
 
-Once confirmed, you should see your veCAKE staking position details on the left, with the amount of CAKE locked and the unlock time. And most importantly - your veCAKE number.
+Após confirmar, você deverá ver os detalhes da sua posição de Staking de veCAKE à esquerda, com a quantidade de CAKE bloqueado e o horário de desbloqueio. E, o mais importante, seu número de veCAKE.
 
-Scroll down to check on all the veCAKE benefits.
+Role para baixo para verificar todos os benefícios do veCAKE.

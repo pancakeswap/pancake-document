@@ -1,80 +1,80 @@
 ---
-description: Migrate to MasterChef v2
+description: Migrar para o MasterChef v2
 ---
 
 # MasterChef v2
 
-PancakeSwap MasterChef v2 is a new main staking contract for Farms while providing more flexibility for adjusting the $CAKE emissions, including CAKE pool, burn and other PancakeSwap products.
+O PancakeSwap MasterChef v2 é um novo contrato principal de Staking para Farms que oferece mais flexibilidade para ajustar as emissões de $CAKE, incluindo o pool de CAKE, queima e outros produtos do PancakeSwap.
 
-### Do I need to migrate?
+### Preciso migrar?
 
-If you are currently using PancakeSwap MasterChef ([0x73feaa1eE314F8c655E354234017bE2193C9E24E](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E)), you will need to migrate to the new contract ([0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652](https://bscscan.com/address/0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652)).
+Se você está atualmente usando o PancakeSwap MasterChef ([0x73feaa1eE314F8c655E354234017bE2193C9E24E](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E)), você precisará migrar para o novo contrato ([0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652](https://bscscan.com/address/0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652)).
 
-### Overview
+### Visão Geral
 
-#### Deposit&#x20;
+#### Depósito&#x20;
 
-If you are currently using the `enterStaking(uint256 _amount)` on the current PancakeSwap MasterChef. You need to migrate to the new CAKE pool contract. Check out the related documentation [here](../cake-syrup-pool.md).
+Se você está atualmente usando o `enterStaking(uint256 _amount)` no PancakeSwap MasterChef atual. Você precisa migrar para o novo contrato do pool de CAKE. Confira a documentação relacionada [aqui](../cake-syrup-pool.md).
 
-The deposit function for the farm pools is unchanged. However, you will need to upgrade the MasterChef address and the `pid` , check out the [list of farms](list-of-farms.md) for the list of new `pids` on MasterChef v2.
+A função de depósito para os pools de farm é inalterada. No entanto, você precisará atualizar o endereço do MasterChef e o `pid`, confira a [lista de farms](list-of-farms.md) para a lista de novos `pids` no MasterChef v2.
 
-#### Pool types
+#### Tipos de pool
 
-MasterChef v2 have 2 types of pool: Regular farm pools and Special farm pools, which you can use `poolInfo(_pid).isRegular` to query the pool type. They share a different `totalAllocPoint`, making them two sets of independent pools.
+O MasterChef v2 tem 2 tipos de pool: pools de farm regulares e pools de farm especiais, que você pode usar `poolInfo(_pid).isRegular` para consultar o tipo de pool. Eles compartilham um `totalAllocPoint` diferente, tornando-os dois conjuntos de pools independentes.
 
-Special farm pools: only whitelisted addresses can deposit. They are usually utilized by internal PancakeSwap products for rewards distributions.
+Pools de farm especiais: apenas endereços na lista branca podem depositar. Geralmente são utilizados por produtos internos do PancakeSwap para distribuição de recompensas.
 
-Regular farm pools: the regular LP tokens farms. For example CAKE-BNB, BNB-BUSD, etc…
+Pools de farm regulares: os farms de tokens LP regulares. Por exemplo CAKE-BNB, BNB-BUSD, etc…
 
-#### Withdraw
+#### Saque
 
-If you are currently using the `leaveStaking(uint256 _amount)` on the current PancakeSwap MasterChef. You need to migrate to the new CAKE pool contract. Check out the related documentation [here](../cake-syrup-pool.md).
+Se você está atualmente usando o `leaveStaking(uint256 _amount)` no PancakeSwap MasterChef atual. Você precisa migrar para o novo contrato do pool de CAKE. Confira a documentação relacionada [aqui](../cake-syrup-pool.md).
 
-The withdraw function for the farm pools is unchanged. However, you will need to update the MasterChef address and the `pid` , check out the [list of farms](list-of-farms.md) for the list of new `pids` on MasterChef v2.
+A função de saque para os pools de farm é inalterada. No entanto, você precisará atualizar o endereço do MasterChef e o `pid`, confira a [lista de farms](list-of-farms.md) para a lista de novos `pids` no MasterChef v2.
 
-#### Staking Balance
+#### Saldo de Staking
 
-Use `userInfo[_pid][_user].amount` to query the staking balance.
+Use `userInfo[_pid][_user].amount` para consultar o saldo de Staking.
 
-#### Staking Token&#x20;
+#### Token de Staking&#x20;
 
-Note that the new `PoolInfo` struct **does not** contain the lp token address field, you will need to use `lpToken(_pid)` to query any given pool's staking token.&#x20;
+Observe que o novo struct `PoolInfo` **não** contém o campo de endereço do token LP, você precisará usar `lpToken(_pid)` para consultar o token de Staking de qualquer pool.&#x20;
 
-#### Total Staking Shares/Amount
+#### Total de Shares/Valor em Staking
 
-Use `lpToken.balanceOf(MasterChef.address)` to get the total staking amount for any given farm pool.
+Use `lpToken.balanceOf(MasterChef.address)` para obter o total de valor em Staking de qualquer pool de farm.
 
-However, In MasterChef v2, the users' share can be boosted (coming soon). Therefore, rewards are calculated using a new `totalBoostedShare` field in `PoolInfo` as each pool’s total shares. For example, if pool 0 has 2 users, user1 stake 100 LPs (without boost), user2 stake 100 (with `boostMultiplier` being 1.05), then the `totalBoostedShare` will become 205. Resulting in user2 gaining more rewards.
+No entanto, no MasterChef v2, as shares dos usuários podem ser impulsionadas (em breve). Portanto, as recompensas são calculadas usando um novo campo `totalBoostedShare` em `PoolInfo` como total de shares de cada pool. Por exemplo, se o pool 0 tem 2 usuários, user1 faz Staking de 100 LPs (sem boost), user2 faz Staking de 100 (com `boostMultiplier` sendo 1.05), então o `totalBoostedShare` se tornará 205. Resultando em user2 ganhando mais recompensas.
 
 #### CakePerBlock
 
-You can use `cakePerBlock(bool _isRegular)` to query the CAKE reward per block that goes to all the PancakeSwap farms.
+Você pode usar `cakePerBlock(bool _isRegular)` para consultar a recompensa de CAKE por bloco que vai para todos os farms do PancakeSwap.
 
-### Mainnet Contract Address
+### Endereço do Contrato na Mainnet
 
-**Contract name:** MasterChef v2\
-**Contract address:** `0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652`
+**Nome do contrato:** MasterChef v2\
+**Endereço do contrato:** `0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652`
 
-[View the PancakeSwap: Main Staking Contract v2 on BscScan.](https://bscscan.com/address/0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652)
+[Ver o PancakeSwap: Main Staking Contract v2 no BscScan.](https://bscscan.com/address/0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652)
 
-### Testnet Environment
+### Ambiente de Testnet
 
-You can use the following testnet environment to test the integration of your project with the new PancakeSwap MasterChef v2. If you have any questions, please contact our team via the existing channels, or reach out to bun@pancakeswap.com via Email.
+Você pode usar o seguinte ambiente de testnet para testar a integração do seu projeto com o novo PancakeSwap MasterChef v2. Se tiver dúvidas, entre em contato com nossa equipe pelos canais existentes ou envie um e-mail para bun@pancakeswap.com.
 
-**Dummy Tokens:**
+**Tokens Fictícios:**
 
 * $CAKE: `0xFa60D973F7642B748046464e165A65B7323b0DEE`\
-  (mintable by using `mint(address _to, uint256 _amount) public`)
+  (pode ser mintado usando `mint(address _to, uint256 _amount) public`)
 * $BUSD: `0x8516Fc284AEEaa0374E66037BD2309349FF728eA`\
-  (mintable by using `mint(uint256 amount) public`)
+  (pode ser mintado usando `mint(uint256 amount) public`)
 * $WBNB: `0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd`
 
-#### Factory and Router
+#### Factory e Router
 
 * Factory v2: `0x6725F303b657a9451d8BA641348b6761A6CC7a17`
 * Router v2: `0xD99D1c33F9fC3444f8101754aBC46c52416550D1`
 
-#### LP Pairs
+#### Pares LP
 
 * CAKE-WBNB: `0xa96818CA65B57bEc2155Ba5c81a70151f63300CD`
 * CAKE-BUSD: `0xb98C30fA9f5e9cf6749B7021b4DDc0DBFe73b73e`
@@ -82,11 +82,10 @@ You can use the following testnet environment to test the integration of your pr
 #### MasterChefs
 
 * v1: `0x1ED62c7b76AD29Bfb80F3329d1ce7e760aAD153d`
-  * pid0: Manual CAKE
-  * pid4: Dummy Pool for MasterChef v2
+  * pid0: CAKE Manual
+  * pid4: Pool Fictício para MasterChef v2
   * pid5: CAKE-BUSD: `0xb98C30fA9f5e9cf6749B7021b4DDc0DBFe73b73e`
   * pid6: CAKE-WBNB: `0xa96818CA65B57bEc2155Ba5c81a70151f63300CD`
 * v2: `0xB4A466911556e39210a6bB2FaECBB59E4eB7E43d`
   * pid3: CAKE-BUSD: `0xb98C30fA9f5e9cf6749B7021b4DDc0DBFe73b73e`
   * pid4: CAKE-WBNB: `0xa96818CA65B57bEc2155Ba5c81a70151f63300CD`
-

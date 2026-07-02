@@ -1,55 +1,55 @@
-# Bridge your veCAKE
+# Faça Bridge do seu veCAKE
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%283%29%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
-To enjoy the benefits of veCAKE such as bCAKE (Farm yield boosting) and iCAKE (IFO public sales allocation) on other chains. You need to perform a simple bridging request on BNB Chain to sync your veCAKE balance and PancakeProfile to other chains.
+Para aproveitar os benefícios do veCAKE, como bCAKE (aumento de rendimento em Farms) e iCAKE (alocação de vendas públicas de IFO) em outras chains, você precisa realizar uma simples solicitação de Bridging na BNB Chain para sincronizar seu saldo de veCAKE e PancakeProfile com outras chains.
 
-## How to bridge? <a href="#id-734b8113-0e00-40ff-bccb-9c129460e2e2" id="id-734b8113-0e00-40ff-bccb-9c129460e2e2"></a>
+## Como fazer Bridge? <a href="#id-734b8113-0e00-40ff-bccb-9c129460e2e2" id="id-734b8113-0e00-40ff-bccb-9c129460e2e2"></a>
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%285%29.png" alt=""><figcaption></figcaption></figure>
 
-Go to [CAKE Staking](https://pancakeswap.finance/cake-staking) page and locate the veCAKE Sync card under the veCAKE benefits. Click “View Details” to open the sync modal.
+Vá para a página de [Staking de CAKE](https://pancakeswap.finance/cake-staking) e localize o card de Sincronização de veCAKE sob os benefícios do veCAKE. Clique em "Ver Detalhes" para abrir o modal de sincronização.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="253"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.png" alt="" width="253"><figcaption></figcaption></figure>
 
-In the modal. You can view the number of veCAKE you have on BNB Chain. As well as the list of destination chains, you may bridge your veCAKE and Pancake Profile to your veCAKE and Pancake Profile status on each of the chains.
+No modal, você pode ver o número de veCAKE que possui na BNB Chain. Assim como a lista de chains de destino, pode fazer Bridge do seu veCAKE e Pancake Profile para ver seu status de veCAKE e Pancake Profile em cada uma das chains.
 
-To sync, select the chain, and click “Sync”, then confirm in your wallet popup.
+Para sincronizar, selecione a chain e clique em "Sincronizar", depois confirme no pop-up da sua carteira.
 
-It may take up to 20 mins to complete the bridging. You may check the bridging progress in the sync modal.&#x20;
+Pode levar até 20 minutos para completar o Bridging. Você pode verificar o progresso do Bridging no modal de sincronização.&#x20;
 
-Note:
+Observações:
 
-* You can only bridge one chain at a time. To sync your veCAKE to multiple chains, repeat the above process.
-* BNB will be charged upon the bridging request to cover the gas cost on the destination chain. The amount of BNB depends on the destination chain. Chains like the Ethereum mainnet will be significantly more expensive to sync due to the high gas cost.
-* To avoid unnecessary gas spent. Sync your veCAKE only to the chain where you want to enjoy the benefits.
-* After adding more CAKE or extending your veCAKE staking position, repeat the above process to update the veCAKE balance on the destination chains to ensure your benefits are up-to-date.
+* Você só pode fazer Bridge de uma chain por vez. Para sincronizar seu veCAKE com múltiplas chains, repita o processo acima.
+* BNB será cobrado na solicitação de Bridging para cobrir o custo de gás na chain de destino. A quantidade de BNB depende da chain de destino. Chains como a mainnet do Ethereum serão significativamente mais caras para sincronizar devido ao alto custo de gás.
+* Para evitar gastos desnecessários com gás, sincronize seu veCAKE apenas com a chain onde você quer aproveitar os benefícios.
+* Após adicionar mais CAKE ou estender sua posição de Staking de veCAKE, repita o processo acima para atualizar o saldo de veCAKE nas chains de destino e garantir que seus benefícios estejam atualizados.
 
 ## FAQ <a href="#id-9d6ee706-cd48-4d71-a5f8-c3de3d7d3aad" id="id-9d6ee706-cd48-4d71-a5f8-c3de3d7d3aad"></a>
 
-**Q: How often do I need to sync my veCAKE and Pancake Profile?**
+**P: Com que frequência preciso sincronizar meu veCAKE e Pancake Profile?**
 
-A: For veCAKE, you only need to sync whenever you add more CAKE, extend the lock duration or perform a relock. Your veCAKE balance on destination chains will linearly decrease along with the balance on the BNB Chain.
+R: Para veCAKE, você só precisa sincronizar sempre que adicionar mais CAKE, estender a duração do bloqueio ou realizar um relock. Seu saldo de veCAKE nas chains de destino diminuirá linearmente junto com o saldo na BNB Chain.
 
-For Pancake Profile and its NFT. You will need to perform two syncs to participate in the Private Sales. The first one should be performed when the IFO is published and becomes viewable on UI. Another one should be performed after the IFO sale ends to enable claiming.
+Para Pancake Profile e seu NFT, você precisará realizar duas sincronizações para participar das Vendas Privadas. A primeira deve ser feita quando o IFO for publicado e se tornar visível na interface. A outra deve ser feita após o término da venda do IFO para habilitar o resgate.
 
-**Q: How long does the bridging take?**
+**P: Quanto tempo leva o Bridging?**
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="" width="253"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%282%29%20%281%29%20%281%29.png" alt="" width="253"><figcaption></figcaption></figure>
 
-Depending on the destination chains. It usually takes around 2-5 mins to bridge and fully sync. For some slower chains, it could take up to 30 mins. To track your bridging request, check the sync modal for the LayerZero explorer link. Or head to [https://layerzeroscan.com/](https://layerzeroscan.com/) and search via the BNB Chain tx id.
+Dependendo das chains de destino, geralmente leva de 2 a 5 minutos para fazer Bridge e sincronizar completamente. Para algumas chains mais lentas, pode levar até 30 minutos. Para acompanhar sua solicitação de Bridging, verifique o modal de sincronização para o link do explorador LayerZero. Ou acesse [https://layerzeroscan.com/](https://layerzeroscan.com/) e pesquise pelo ID de tx da BNB Chain.
 
-**Q: Why the bridging tx on BNB Chain is failing?**
+**P: Por que a transação de Bridging na BNB Chain está falhando?**
 
-A:
+R:
 
-* It could be because the gas estimation for the destination chain is out of date. Please refresh the page and retry.
-* Please also ensure there are sufficient amounts of BNB in the wallet to settle the gas fee required on the destination chain.
+* Pode ser porque a estimativa de gás para a chain de destino está desatualizada. Por favor, atualize a página e tente novamente.
+* Certifique-se também de que há quantidades suficientes de BNB na carteira para cobrir a taxa de gás exigida na chain de destino.
 
-**Q: Why my veCAKE or Pancake Profile is not bridged?**
+**P: Por que meu veCAKE ou Pancake Profile não foi transferido pelo Bridge?**
 
-A:
+R:
 
-* veCAKE position with less than 1 day in the remaining lock time will not be bridged. Please first extend the lock and retry the sync.
-* The sync could take up to 30 minutes to complete. Please head to https://layerzeroscan.com/ and search via the BNB Chain tx ID to confirm that the bridging status is “Delivered.”
-* If the bridging status is “Failed” or “Blocked”. Please contact one of our ambassadors via the public channel for more details.
+* Posições de veCAKE com menos de 1 dia no tempo restante de bloqueio não serão transferidas. Por favor, primeiro estenda o bloqueio e tente sincronizar novamente.
+* A sincronização pode levar até 30 minutos para ser concluída. Acesse https://layerzeroscan.com/ e pesquise pelo ID de tx da BNB Chain para confirmar que o status do Bridging está como "Delivered" (Entregue).
+* Se o status do Bridging estiver como "Failed" (Falhou) ou "Blocked" (Bloqueado), entre em contato com um de nossos embaixadores pelo canal público para mais detalhes.

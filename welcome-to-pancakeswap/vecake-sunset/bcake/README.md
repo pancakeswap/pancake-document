@@ -1,19 +1,19 @@
 ---
-description: Use bCAKE - Farm Booster to boost your PancakeSwap farming positions!
+description: Use bCAKE - Farm Booster para turbinar suas posições de farming na PancakeSwap!
 hidden: true
 ---
 
 # bCAKE
 
-<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2825%29.png" alt=""><figcaption></figcaption></figure>
 
-bCAKE - Farm Booster, is an automatically generated boost multiplier that allows you to boost your CAKE yield from selected farms up to 2.5x, taking full advantage of combining veCAKE staking and liquidity farming.
+bCAKE - Farm Booster, é um multiplicador de boost gerado automaticamente que permite aumentar seu rendimento de CAKE em farms selecionados em até 2,5x, aproveitando ao máximo a combinação de Staking de veCAKE e farming de Liquidez.
 
 {% hint style="info" %}
-**bCAKE is NOT a new token and can NOT be transferred!**
+**bCAKE NÃO é um novo token e NÃO pode ser transferido!**
 {% endhint %}
 
-Learn more about bCAKE and how to use it to boost your farming yields:
+Saiba mais sobre bCAKE e como usá-lo para turbinar seus rendimentos de farming:
 
 {% content-ref url="how-to-use-the-new-bcake.md" %}
 [how-to-use-the-new-bcake.md](how-to-use-the-new-bcake.md)

@@ -1,20 +1,20 @@
 ---
 description: >-
-  Migrate your liquidity and farm stakings to the new PancakeSwap Exchange and
+  Migre sua liquidez e Staking de farms para o novo PancakeSwap Exchange e
   Farm V3
 ---
 
-# How to migrate
+# Como migrar
 
-<figure><img src="../../../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28133%29.png" alt=""><figcaption></figcaption></figure>
 
-In April 2023, PancakeSwap announced V3 for Exchange and Farms. Some farming pairs will need to be migrated to keep earning staking rewards. Relax, like last time, it should be smooth.
+Em abril de 2023, o PancakeSwap anunciou o V3 para Exchange e Farms. Alguns pares de farming precisarão ser migrados para continuar ganhando recompensas de Staking. Relaxe, como na última vez, deve ser tranquilo.
 
-### But wait! Do I need to migrate? <a href="#id-4b9e0260-9dee-493b-b0ad-6bdba084cea6" id="id-4b9e0260-9dee-493b-b0ad-6bdba084cea6"></a>
+### Mas espere! Preciso migrar? <a href="#id-4b9e0260-9dee-493b-b0ad-6bdba084cea6" id="id-4b9e0260-9dee-493b-b0ad-6bdba084cea6"></a>
 
-You need to migrate if you meet the following conditions:
+Você precisa migrar se atender às seguintes condições:
 
-**Farming on the following V2 PancakeSwap Farms:**
+**Fazendo farming nos seguintes Farms V2 do PancakeSwap:**
 
 * BNB Chain:
   * CAKE-BNB
@@ -36,99 +36,99 @@ You need to migrate if you meet the following conditions:
   * ETH-USDT
   * WBTC-ETH
 
-The list will likely grow eventually. The easiest way to check the updated list is to visit [https://pancakeswap.finance/migration](https://pancakeswap.finance/migration) and connect your wallet
+A lista provavelmente crescerá eventualmente. A maneira mais fácil de verificar a lista atualizada é visitar [https://pancakeswap.finance/migration](https://pancakeswap.finance/migration) e conectar sua carteira
 
-**Providing V2 liquidity, and meeting the following conditions:**
+**Fornecendo liquidez V2, e atendendo às seguintes condições:**
 
-* The majority of the liquidity for the token pair has been migrated to V3 - Please check the PancakeSwap Info page, or the website or social channels of the token project for more detail.
-* The project team of that token has announced the liquidity will be migrated to V3 - Please check the individual project websites or social channels for more detail.
+* A maioria da liquidez do par de tokens foi migrada para V3 - Por favor, verifique a página PancakeSwap Info, ou o site ou canais sociais do projeto do token para mais detalhes.
+* A equipe do projeto daquele token anunciou que a liquidez será migrada para V3 - Por favor, verifique os sites ou canais sociais do projeto individual para mais detalhes.
 
-### How to migrate <a href="#c7d7b407-268c-460c-a4f1-be1b771db5e7" id="c7d7b407-268c-460c-a4f1-be1b771db5e7"></a>
+### Como migrar <a href="#c7d7b407-268c-460c-a4f1-be1b771db5e7" id="c7d7b407-268c-460c-a4f1-be1b771db5e7"></a>
 
-<figure><img src="../../../.gitbook/assets/image (283).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28283%29.png" alt=""><figcaption></figcaption></figure>
 
-Look for the V3 migration banner on the Liquidity or Farm page. Then click “Proceed” to enter the migration helper page.
-
-
-
-**Step 1 - Unstake from V2 and/or StableSwap farms**
-
-<figure><img src="../../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
-
-In step 1, the helper will list all the PancakeSwap V2 or StableSwap farms that require migrations.
-
-Click each of the “Unstake All” buttons to unstake all staked LP tokens from farms. Your wallet will ask for confirmation.
-
-When all the listed farms are unstaked, click “Next Steps” to proceed.
+Procure o banner de migração V3 na página de Liquidez ou Farm. Em seguida, clique em "Proceed" para entrar na página auxiliar de migração.
 
 
 
-**Step 2 - Remove liquidity from Exchange V2 or StableSwap**
+**Passo 1 - Retirar Staking dos farms V2 e/ou StableSwap**
 
-<figure><img src="../../../.gitbook/assets/image (315).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28119%29.png" alt=""><figcaption></figcaption></figure>
 
-In step 2, the helper will list all the liquidity positions that can be migrated to V3 with CAKE yield farming.
+No passo 1, o auxiliar listará todos os farms V2 ou StableSwap do PancakeSwap que precisam de migração.
 
-Click each of the "Remove" buttons to bring up the remove liquidity modal with 100% selected.&#x20;
+Clique em cada um dos botões "Unstake All" para retirar todos os tokens LP em Staking dos farms. Sua carteira pedirá confirmação.
 
-Then click “Enable”, sign the transaction in your wallet, and click “Remove”. Your wallet will ask for confirmation.
+Quando todos os farms listados tiverem o Staking retirado, clique em "Next Steps" para continuar.
+
+
+
+**Passo 2 - Remover liquidez do Exchange V2 ou StableSwap**
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28315%29.png" alt=""><figcaption></figcaption></figure>
+
+No passo 2, o auxiliar listará todas as posições de liquidez que podem ser migradas para V3 com yield farming de CAKE.
+
+Clique em cada um dos botões "Remove" para abrir o modal de remoção de liquidez com 100% selecionado.&#x20;
+
+Em seguida, clique em "Enable", assine a transação na sua carteira e clique em "Remove". Sua carteira pedirá confirmação.
 
 {% hint style="info" %}
-Even though some other project tokens are also migrating to V3, they will not appear in the list. Please check the individual project websites or social channels for more detail. And use the [Liquidity](https://pancakeswap.finance/liquidity) page to migrate manually.
+Embora alguns outros tokens de projetos também estejam migrando para V3, eles não aparecerão na lista. Por favor, verifique os sites ou canais sociais do projeto individual para mais detalhes. E use a página de [Liquidez](https://pancakeswap.finance/liquidity) para migrar manualmente.
 {% endhint %}
 
 
 
-**Step 3 - Get ready for V3**
+**Passo 3 - Se prepare para o V3**
 
-<figure><img src="../../../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28186%29.png" alt=""><figcaption></figcaption></figure>
 
-No action is needed. Simply read and make sure you are familiar with how V3 works and how to provide liquidity in V3.
+Nenhuma ação é necessária. Simplesmente leia e certifique-se de estar familiarizado com o funcionamento do V3 e como fornecer liquidez no V3.
 
 
 
-**Step 4 - Add V3 liquidity**
+**Passo 4 - Adicionar liquidez V3**
 
-![](<../../../.gitbook/assets/image (325).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28325%29.png)
 
-In this step, you will add your liquidity to the new Exchange V3.
+Neste passo, você adicionará sua liquidez ao novo Exchange V3.
 
-Click “Add Liquidity”. Your previously removed V2 liquidity will show up in the list, click “Add” to bring up the interface for adding V3 liquidity.
+Clique em "Add Liquidity". Sua liquidez V2 removida anteriormente aparecerá na lista, clique em "Add" para abrir a interface de adição de liquidez V3.
 
-If you don’t see the pair you want to add, click “Add Other Pairs” instead and choose the two tokens manually.
+Se você não vir o par que deseja adicionar, clique em "Add Other Pairs" e escolha os dois tokens manualmente.
 
-For a more detailed tutorial on how to provide liquidity in V3, read [here](../../../earn/pancakeswap-pools/liquidity-guide.md).
+Para um tutorial mais detalhado sobre como fornecer liquidez no V3, leia [aqui](../../../earn/pancakeswap-pools/liquidity-guide.md).
 
-If you have questions while providing liquidity in V3, check here for [FAQ](../../../trade/trading-faq/swap-faq.md).
+Se você tiver dúvidas ao fornecer liquidez no V3, confira aqui as [FAQ](../../../trade/trading-faq/swap-faq.md).
 
 {% hint style="warning" %}
-Please be aware that in Exchange V3, only active (in-range) liquidity positions will earn trading fee rewards.
+Por favor, esteja ciente de que no Exchange V3, apenas posições de liquidez ativas (dentro do intervalo) ganharão recompensas de taxas de negociação.
 
-Please be cautious while setting the price range for the liquidity position.
+Por favor, seja cauteloso ao definir o intervalo de preços para a posição de liquidez.
 {% endhint %}
 
 
 
-**Step 5 - Stake in V3 farms**
+**Passo 5 - Fazer Staking nos farms V3**
 
-<figure><img src="../../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2835%29.png" alt=""><figcaption></figcaption></figure>
 
-In this step, you will stake your freshly added V3 liquidity positions to the new V3 farms to start earning CAKE rewards!
+Neste passo, você fará Staking das suas posições de liquidez V3 recém-adicionadas nos novos farms V3 para começar a ganhar recompensas de CAKE!
 
-Click each of the “Stake” buttons on the position to stake them into farms. Your wallet will ask for confirmation.
+Clique em cada um dos botões "Stake" na posição para fazer Staking nos farms. Sua carteira pedirá confirmação.
 
-For a more detailed tutorial on how to farm in V3, read [here](../../../earn/yield-farming/how-to-use-farms/#farm-v3).
+Para um tutorial mais detalhado sobre como fazer farming no V3, leia [aqui](../../../earn/yield-farming/how-to-use-farms/#farm-v3).
 
-If you have questions while staking liquidity in V3 farms, check here for [FAQ](../../../earn/earn-faq/farming-faq.md).
+Se você tiver dúvidas ao fazer Staking de liquidez nos farms V3, confira aqui as [FAQ](../../../earn/earn-faq/farming-faq.md).
 
 {% hint style="warning" %}
-Please be aware that in Farm V3, only active (in-range) liquidity positions will earn CAKE rewards.
+Por favor, esteja ciente de que no Farm V3, apenas posições de liquidez ativas (dentro do intervalo) ganharão recompensas de CAKE.
 
-Please be cautious while setting the price range for the liquidity position.
+Por favor, seja cauteloso ao definir o intervalo de preços para a posição de liquidez.
 {% endhint %}
 
 
 
-**Finished**
+**Concluído**
 
-That's it. You've migrated your farm staking and liquidity to the new PancakeSwap V3!
+Pronto. Você migrou seu Staking de farm e liquidez para o novo PancakeSwap V3!

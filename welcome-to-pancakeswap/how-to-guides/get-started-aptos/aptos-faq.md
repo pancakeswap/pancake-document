@@ -1,46 +1,45 @@
-# Aptos FAQ
+# FAQ da Aptos
 
-<figure><img src="../../../.gitbook/assets/Aptos-faq-header.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Aptos-faq-header.png" alt=""><figcaption></figcaption></figure>
 
-This FAQ page answers some of the more commonly asked questions from the PancakeSwap community about our Aptos Deployment.
+Esta página de FAQ responde algumas das perguntas mais frequentes da comunidade PancakeSwap sobre nossa implementação na Aptos.
 
-## General
+## Geral
 
-### How to bridge from BSC (Binance Smart Chain) to Aptos?
+### Como fazer bridge da BSC (Binance Smart Chain) para a Aptos?
 
-Check out [our bridging guide](aptos-coin-guide.md) for various bridging solutions.
+Confira [nosso guia de bridging](aptos-coin-guide.md) para várias soluções de bridging.
 
-If you want to bridge CAKE token, check out our [CAKE bridging guide](cake-bridging-guide.md).
+Se você quiser fazer bridge do token CAKE, confira nosso [guia de bridging do CAKE](cake-bridging-guide.md).
 
-### Which wallet I can use for Aptos Chain?
+### Qual carteira posso usar para a Aptos Chain?
 
-Check out [our wallet guide](wallet-guide.md) to download and set up your wallet for Aptos.
+Confira [nosso guia de carteiras](wallet-guide.md) para baixar e configurar sua carteira para a Aptos.
 
-### Showing "Price Impact Too High" when swapping coins
+### Aparece "Price Impact Too High" ao trocar moedas
 
-This is likely due to bad network connections to blockchain nodes. Refresh the page, and check your network connection.
+Provavelmente isso é devido a conexões de rede ruins com os nós da blockchain. Atualize a página e verifique sua conexão de rede.
 
-If the error persists, it means the pair of coins you are trying to swap has insufficient liquidity for the amount you are trying to swap. The liquidity for major coins will slowly and steadily be improved over time, and the liquidity issue will likely be solved when our Aptos Farms are deployed. (SOON!)
+Se o erro persistir, significa que o par de moedas que você está tentando trocar tem liquidez insuficiente para o valor que você está tentando trocar. A liquidez para as principais moedas será melhorada gradual e progressivamente ao longo do tempo, e o problema de liquidez provavelmente será resolvido quando nossos Farms da Aptos forem implantados. (EM BREVE!)
 
-### I couldn't find the coin I wanted to swap
+### Não consigo encontrar a moeda que quero trocar
 
-The default list on Aptos Swap only shows coins from well-known projects with a sufficient amount of liquidity.
+A lista padrão no Aptos Swap mostra apenas moedas de projetos conhecidos com uma quantidade suficiente de liquidez.
 
-If you want to swap other coins that are not on the default list, import them using their coin address.
+Se você quiser trocar outras moedas que não estão na lista padrão, importe-as usando o endereço da moeda.
 
-### Why I can’t trade CAKE on Aptos Swap?
+### Por que não consigo negociar CAKE no Aptos Swap?
 
-_updated on 2022-12-13_
+_atualizado em 2022-12-13_
 
-CAKE token/coin is now live on Aptos. Check out our [CAKE bridging guide](cake-bridging-guide.md) to learn more about bridging CAKE tokens between Aptos and BNB Smart Chain.
+O token/moeda CAKE já está disponível na Aptos. Confira nosso [guia de bridging do CAKE](cake-bridging-guide.md) para saber mais sobre como fazer bridge de tokens CAKE entre Aptos e BNB Smart Chain.
 
-### Do I need to stake CAKE on Aptos to participate in Aptos IFOs?
+### Preciso fazer Staking de CAKE na Aptos para participar dos IFOs da Aptos?
 
-PancakeSwap IFO has not yet been deployed on Aptos. (SOON!) Keep staking your CAKE, and stay tuned for more news.
+O IFO do PancakeSwap ainda não foi implantado na Aptos. (EM BREVE!) Continue fazendo Staking do seu CAKE e fique atento a mais novidades.
 
-## CAKE Bridging
+## Bridging do CAKE
 
 {% hint style="info" %}
-This document has been migrated [here](../../../bridge/faq/)
+Este documento foi migrado para [aqui](../../../bridge/faq/)
 {% endhint %}
-

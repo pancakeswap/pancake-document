@@ -1,56 +1,55 @@
 ---
 description: >-
-  Migrate your V2, StableSwap or Position Manager liquidity to enjoy bCAKE
-  boosting
+  Migre sua Liquidez V2, StableSwap ou de Gerenciador de Posição para aproveitar o boost do bCAKE
 ---
 
-# Migration Guide
+# Guia de Migração
 
-<figure><img src="../../../.gitbook/assets/migration-guide.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration-guide.png" alt=""><figcaption></figcaption></figure>
 
-To start boosting your V2, StableSwap or Position Manager liquidity via bCAKE, you need to perform a migration by unstaking your LP from the old contract, and restake them into the new one.
+Para começar a impulsionar sua Liquidez V2, StableSwap ou de Gerenciador de Posição via bCAKE, você precisa realizar uma migração removendo o Staking do seu LP do contrato antigo e fazendo o Staking novamente no novo.
 
-### Navigate to the migration wizard
+### Navegue até o assistente de migração
 
-<figure><img src="../../../.gitbook/assets/Group 1410076909.png" alt="" width="189"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Group%201410076909.png" alt="" width="189"><figcaption></figcaption></figure>
 
-Locate the banner at the top of the Farm or Position Manager page, click “Proceed” to start the migration process.
+Localize o banner no topo da página de Farms ou Gerenciador de Posição, clique em "Prosseguir" para iniciar o processo de migração.
 
-[Go to Farm](https://pancakeswap.finance/farms)
+[Ir para Farms](https://pancakeswap.finance/farms)
 
-[Go to Position Manager](https://pancakeswap.finance/position-managers)
+[Ir para Gerenciador de Posição](https://pancakeswap.finance/position-managers)
 
-### Unstake your LP tokens from the old contracts
+### Remova o Staking dos seus tokens de LP dos contratos antigos
 
-<figure><img src="../../../.gitbook/assets/step1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/step1.png" alt=""><figcaption></figcaption></figure>
 
-In the first step, you will see a full list of V2, StableSwap farms, and position managers that require migration to enjoy bCAKE boosting.
+Na primeira etapa, você verá uma lista completa de farms V2, StableSwap e gerenciadores de posição que precisam de migração para aproveitar o boost do bCAKE.
 
-Click the “Unstake All” buttons on the right, and confirm the tx in your wallet app, to unstake ALL LP tokens from the old contracts.
+Clique nos botões "Remover Staking de Todos" à direita e confirme a transação no seu aplicativo de carteira para remover o Staking de TODOS os tokens de LP dos contratos antigos.
 
-You will need to unstake each of them individually.
+Você precisará remover o Staking de cada um deles individualmente.
 
-After unstaking all the LPs, click “Go to Stake” to proceed to the next step.
+Após remover o Staking de todos os LPs, clique em "Ir para Staking" para prosseguir para a próxima etapa.
 
-### Restake your LP tokens into the new contracts
+### Refaça o Staking dos seus tokens de LP nos novos contratos
 
-<figure><img src="../../../.gitbook/assets/step2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/step2.png" alt=""><figcaption></figcaption></figure>
 
-In the second step, you will see a full list of V2, StableSwap farms, and position managers that are available to restake.
+Na segunda etapa, você verá uma lista completa de farms V2, StableSwap e gerenciadores de posição disponíveis para refazer o Staking.
 
-First, click the “Enable” buttons to enable deposits.
+Primeiro, clique nos botões "Habilitar" para habilitar depósitos.
 
-Then, click “Restake” buttons to restake the LP tokens into the new contract.
+Em seguida, clique nos botões "Refazer Staking" para refazer o Staking dos tokens de LP no novo contrato.
 
-*   For V2 and StableSwap farms, you need to define the number of LP tokens you want to restake in the new pop-up modal.<br>
+*   Para farms V2 e StableSwap, você precisa definir a quantidade de tokens de LP que deseja refazer o Staking no novo modal pop-up.<br>
 
-    We recommend to restake all of your LP tokens to ensure you are earning the maximum yield available.
-*   For Position Managers, simply confirm the tx in your wallet, all of your Position Managers LPs will be restaked into the new contracts.<br>
+    Recomendamos refazer o Staking de todos os seus tokens de LP para garantir que você esteja ganhando o rendimento máximo disponível.
+*   Para Gerenciadores de Posição, simplesmente confirme a transação na sua carteira; todos os seus LPs de Gerenciadores de Posição serão restakados nos novos contratos.<br>
 
-    Since Position Manager LPs can not be processed separately, we strongly recommend to restake ALL position managers LP into the new contracts.
+    Como os LPs de Gerenciadores de Posição não podem ser processados separadamente, recomendamos fortemente refazer o Staking de TODOS os LPs de gerenciadores de posição nos novos contratos.
 
-After restaking, the buttons will turn to “Staked”
+Após refazer o Staking, os botões se tornarão "Em Staking"
 
-You will need to restake each of them individually.
+Você precisará refazer o Staking de cada um deles individualmente.
 
-After restaking all LPs, click “Finish”, to go back to the Farm page.
+Após refazer o Staking de todos os LPs, clique em "Concluir" para voltar à página de Farms.
