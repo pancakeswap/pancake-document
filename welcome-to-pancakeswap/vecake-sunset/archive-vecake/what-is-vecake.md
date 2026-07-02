@@ -1,40 +1,40 @@
-# What is veCAKE?
+# Что такое veCAKE?
 
-<figure><img src="../../../.gitbook/assets/image (340).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28340%29.png" alt=""><figcaption></figcaption></figure>
 
-## **What is veCAKE?**
+## **Что такое veCAKE?**
 
-veCAKE stands for vote-escrowed CAKE. It is not transferable, and the only way to acquire veCAKE is by staking CAKE. The maximum lock time is 4 years; the longer you lock your CAKE, the more veCAKE you’ll receive.
+veCAKE расшифровывается как vote-escrowed CAKE. Он не переводится, и единственный способ получить veCAKE — это стейкать CAKE. Максимальный срок блокировки — 4 года; чем дольше ты блокируешь CAKE, тем больше veCAKE получишь.
 
-## **What is the purpose of veCAKE?**
+## **Для чего нужен veCAKE?**
 
-veCAKE tokens serve a crucial role in PancakeSwap's governance, enabling you to actively participate in PancakeSwap’s [governance proposals ](https://pancakeswap.finance/voting)and Gauges Voting system. This allows you to vote on broader governance proposals and influence the allocation of CAKE emissions within liquidity pools.
+Токены veCAKE играют ключевую роль в управлении PancakeSwap, позволяя тебе активно участвовать в [предложениях по управлению](https://pancakeswap.finance/voting) PancakeSwap и системе Gauges Voting. Это даёт возможность голосовать по более широким предложениям управления и влиять на распределение эмиссии CAKE в пулах ликвидности.
 
-## **What are the benefits of holding veCAKE?**
+## **Каковы преимущества владения veCAKE?**
 
-**Weekly Rewards:** Claim CAKE rewards regularly through CAKE Staking and Revenue Sharing.
+**Еженедельные вознаграждения:** Регулярно получай вознаграждения в CAKE через стейкинг CAKE и распределение дохода.
 
 {% content-ref url="earn-cake-weekly/" %}
 [earn-cake-weekly](earn-cake-weekly/)
 {% endcontent-ref %}
 
-**Gauges Voting Participation:** Influence and boost CAKE emissions in your preferred pools, by engaging in Gauges Voting every 2 weeks, with results applied bi-weekly. Adjust your voting preferences for each gauge at intervals less frequent than 10 days.
+**Участие в Gauges Voting:** Влияй на и увеличивай эмиссию CAKE в предпочтительных пулах, участвуя в Gauges Voting каждые 2 недели, с применением результатов раз в две недели. Обновляй предпочтения голосования для каждого гейджа с интервалом не менее 10 дней.
 
 {% content-ref url="../gauges-voting/" %}
 [gauges-voting](../gauges-voting/)
 {% endcontent-ref %}
 
-**Vote Incentives:** Access additional incentives by claiming bribes from our [veCAKE Managers](vecake-managers.md)
+**Голосовые стимулы:** Получай дополнительные стимулы, клеймя взятки от наших [менеджеров veCAKE](vecake-managers.md)
 
 {% content-ref url="../bribes-vote-incentives.md" %}
 [bribes-vote-incentives.md](../bribes-vote-incentives.md)
 {% endcontent-ref %}
 
-**Governance:** Vote on governance proposals for matters related to gauge approvals, protocol changes, emission adjustments, etc.
+**Управление:** Голосуй по предложениям управления, касающимся одобрения гейджей, изменений протокола, корректировки эмиссии и т.д.
 
-**Liquidity Rewards:** Amplify CAKE rewards akin to bCAKE when providing liquidity to v3, v2, stableswap, or position managers sequentially. This sequence commences with BNB Chain v3 on November 27th, 2023, followed by BNB Chain v2 and Position Managers.
+**Вознаграждения за ликвидность:** Увеличивай вознаграждения CAKE, аналогично bCAKE, при предоставлении ликвидности в v3, v2, StableSwap или менеджерах позиций поочерёдно. Эта последовательность начинается с v3 на BNB Chain 27 ноября 2023 года, затем v2 и менеджеры позиций на BNB Chain.
 
-**IFO:** veCAKE balance gives you iCAKE to participate in PancakeSwap IFOs
+**IFO:** Баланс veCAKE даёт тебе iCAKE для участия в IFO PancakeSwap
 
 {% content-ref url="../icake.md" %}
 [icake.md](../icake.md)

@@ -1,8 +1,8 @@
-# V2 (deprecated)
+# V2 (устаревший)
 
-bCAKE V2 is deprecated. Staking, unstaking or harvesting on your farming position will automatically unset your booster.
+bCAKE V2 устарел. Стейкинг, вывод или сбор вознаграждений в позиции фарминга автоматически отключит твой бустер.
 
-Find legacy documents here:
+Устаревшие документы доступны здесь:
 
 {% content-ref url="how-to-use-bcake.md" %}
 [how-to-use-bcake.md](how-to-use-bcake.md)

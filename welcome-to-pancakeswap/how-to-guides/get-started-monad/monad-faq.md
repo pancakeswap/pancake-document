@@ -1,67 +1,67 @@
-# Monad FAQ
+# FAQ по Monad
 
-#### 1. What fee tiers are available on PancakeSwap liquidity pools?
+#### 1. Какие уровни комиссий доступны в пулах ликвидности PancakeSwap?
 
-**Supported Fee Tiers:**
+**Поддерживаемые уровни комиссий:**
 
-* The following fee tiers are available for V3 (concentrated liquidity) pools: `0.01%, 0.05%, 0.25%, 1%`&#x20;
-* For V2 pools only 0.25% fee tier pools are supported
+* Для пулов V3 (концентрированная ликвидность) доступны следующие уровни комиссий: `0.01%, 0.05%, 0.25%, 1%`&#x20;
+* Для пулов V2 поддерживаются только пулы с комиссией 0.25%
 
-#### 2. Can anyone create a pool?
+#### 2. Может ли кто угодно создать пул?
 
-Yes. Pool creation is permissionless, with a few exceptions:
+Да. Создание пула не требует разрешений, за некоторыми исключениями:
 
-* Only one pool can exist for a given **token pair + fee tier** combination (e.g. only one WMON <> USDC 0.05% pool can exist at one time)
+* Для заданной **пары токенов + уровня комиссии** может существовать только один пул (например, одновременно может существовать только один пул WMON <> USDC 0.05%)
 
-#### 3. How long does it take for a newly created pool to appear?
+#### 3. Сколько времени нужно для появления нового пула?
 
-* Pools typically appear in the pool list approximately **5 minutes** after creation.
-* If it doesn't appear:
-  * Use the **search bar** to locate it manually.
-  * Pools may be filtered from the list due to **low TVL**.
+* Пулы обычно появляются в списке примерно через **5 минут** после создания.
+* Если пул не появился:
+  * Используй **строку поиска**, чтобы найти его вручную.
+  * Пулы могут быть отфильтрованы из списка из-за **низкого TVL**.
 
-#### 4. Why does my pool’s APR or TVL still show as zero?
+#### 4. Почему APR и TVL моего пула всё ещё показывают ноль?
 
-This is expected right after a new pool is created:
+Это ожидаемо сразу после создания нового пула:
 
-* APR and TVL data will only populate once **at least one swap** has occurred in the pool.
-* After a swap, these metrics will begin displaying within approximately **15 minutes**.
+* Данные APR и TVL будут отображаться только после того, как в пуле произойдёт **хотя бы один обмен**.
+* После обмена эти показатели начнут отображаться примерно через **15 минут**.
 
-#### **5. Why do my transactions sometimes fail if my wallet has less than 10 MON?**
+#### **5. Почему мои транзакции иногда завершаются неудачей, если в кошельке меньше 10 MON?**
 
-Monad has a rule that every account should keep a **minimum safety buffer of 10 MON**. If your balance is low and you send too many transactions too quickly, the network may **stop accepting new ones**.
+В Monad действует правило, согласно которому каждый аккаунт должен держать **минимальный защитный буфер в 10 MON**. Если баланс низкий и ты отправляешь слишком много транзакций подряд, сеть может **перестать принимать новые**.
 
-#### **6. Why do the first 1–2 transactions work, but the next ones fail?**
+#### **6. Почему первые 1–2 транзакции проходят, а следующие нет?**
 
-Monad processes blocks using a slightly “behind” view of your balance. So:
+Monad обрабатывает блоки, используя немного «устаревший» вид твоего баланса. Поэтому:
 
-* Your **first** transaction is usually fine.
-* Your **second** might also go through.
-* But if you send **multiple transactions within a short time**, the network thinks you might not have enough MON to pay all the gas fees.
+* Твоя **первая** транзакция обычно проходит.
+* **Вторая** тоже может пройти.
+* Но если ты отправляешь **несколько транзакций в короткий промежуток времени**, сеть думает, что у тебя может не хватить MON для оплаты всех комиссий за газ.
 
-So it **blocks** the next transaction. This is normal and part of the safety system.
+Поэтому она **блокирует** следующую транзакцию. Это нормально и является частью системы безопасности.
 
-#### **7. Why does it feel stricter on smart accounts (contract wallets)?**
+#### **7. Почему это строже для смарт-аккаунтов (кошельков на контрактах)?**
 
-Smart accounts follow **stricter rules**:
+Смарт-аккаунты соблюдают **более строгие правила**:
 
-* They must **always** keep at least **10 MON** while running contract code.
-* If your smart account is below 10 MON, the transaction can **revert immediately**, even if EOAs still work for a couple of tx.
+* Они должны **всегда** держать не менее **10 MON** при выполнении кода контракта.
+* Если на смарт-аккаунте меньше 10 MON, транзакция может **немедленно откатиться**, даже если для обычных аккаунтов (EOA) ещё работает несколько транзакций.
 
-This is why smart-account users see failures sooner.
+Именно поэтому пользователи смарт-аккаунтов сталкиваются с ошибками раньше.
 
-#### **8. Does this mean I can’t use Monad with less than 10 MON?**
+#### **8. Означает ли это, что я не могу использовать Monad с менее чем 10 MON?**
 
-You _can_ still use it, especially with a normal EOA — but:
+Ты _можешь_ это делать, особенно с обычным EOA — но:
 
-* Don’t send several transactions back-to-back.
-* Wait a few blocks between transactions.
-* Keep a little MON in your wallet to avoid issues.
+* Не отправляй несколько транзакций подряд.
+* Подожди несколько блоков между транзакциями.
+* Держи немного MON в кошельке, чтобы избежать проблем.
 
-#### **9. How do I avoid these failures?**
+#### **9. Как избежать этих ошибок?**
 
-Simple tips:
+Простые советы:
 
-* Keep **10 MON or more** in your wallet if possible.
-* If you’re low on MON, **space out your transactions** (don’t spam them).
-* Smart-account users should keep a **bit more than 10 MON**, since contract calls use extra gas.
+* Держи **10 MON или больше** в кошельке, если возможно.
+* Если MON мало, **распределяй транзакции** (не отправляй их подряд).
+* Пользователи смарт-аккаунтов должны держать **чуть больше 10 MON**, так как вызовы контрактов потребляют дополнительный газ.

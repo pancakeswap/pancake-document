@@ -1,64 +1,63 @@
-# How to use bCAKE?
+# Как использовать bCAKE?
 
-![](../../../../.gitbook/assets/how-to-use-bCAKE.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-use-bCAKE.png)
 
-Similar to iCAKE and vCAKE, bCAKE is also a benefit designed for users who lock their CAKE in the fixed-term CAKE staking pool. The boost multiplier is calculated based on how much CAKE you stake, how long you are staking them for, as well as how many LP tokens you are staking in the farm that you want to boost.
+Как и iCAKE и vCAKE, bCAKE — это также преимущество, разработанное для пользователей, блокирующих CAKE в фиксированном пуле стейкинга CAKE. Мультипликатор буста рассчитывается на основе количества стейканого CAKE, срока стейкинга, а также количества токенов LP в ферме, которую ты хочешь забустить.
 
-## Preparations
+## Подготовка
 
-### Initiate a fixed-term CAKE staking position
+### Создай фиксированную позицию стейкинга CAKE
 
-![](../../../../.gitbook/assets/bCAKE-no-cake-locked.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bCAKE-no-cake-locked.png)
 
-If you haven't locked any CAKE in the CAKE staking pool, click "Go to Pool" and follow the instructions to initiate a fixed-term staking position.
+Если ты ещё не заблокировал CAKE в пуле стейкинга CAKE, нажми «Go to Pool» и следуй инструкциям для создания фиксированной позиции стейкинга.
 
-To learn more about how to do fixed-term CAKE staking, read [here](../../../../archive/legacy-products/new-cake-pool/#fixed-term-staking).
+Чтобы узнать больше о фиксированном стейкинге CAKE, читай [здесь](../../../../archive/legacy-products/new-cake-pool/#fixed-term-staking).
 
-### Enable farm boosters
+### Включи farm boosters
 
-![](../../../../.gitbook/assets/bCAKE-enable-booster.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bCAKE-enable-booster.png)
 
-To enable farm boosters, you must complete a one-time setup process. To proceed, simply click "Enable" and confirm the transaction from your wallet.
+Для включения farm boosters необходимо пройти одноразовую настройку. Просто нажми «Enable» и подтверди транзакцию в кошельке.
 
-### Migrate your stakings
-
-{% hint style="info" %}
-If you are not currently staking in the farm you want to activate bCAKE, you can skip this step and start by staking LP tokens in the farm.
-{% endhint %}
-
-![](../../../../.gitbook/assets/bCAKE-staking-migration-needed.png)
-
-If you have been staking in the farm you want to activate the farm booster, a one-time staking migration is also required.
-
-Click "Migrate" and follow the step-by-step guide to complete the migrations. Your CAKE rewards will be automatically harvested and sent to your wallet.
-
-![](../../../../.gitbook/assets/bCAKE-migration-inprogress.png)
-
-## Activate Boosters
-
-![](<../../../../.gitbook/assets/bCAKE-pending-activation (1).png>)
-
-Once ready, you should see the available boost multiplier and the boosted APR for the farm you are currently staking. To learn more about how the bCAKE multiplier is calculated, read [here](../faq.md#how-are-the-bcake-multipliers-calculated).
-
-To activate the boost, click the "Boost" button, and confirm the transaction from your wallet.
+### Мигрируй свои стейкинги
 
 {% hint style="info" %}
-Please note that any user actions to the farms or CAKE staking pool will automatically update your boost multiplier based on the latest data and statistics from farms and the CAKE staking pool.
-
-Learn more [here](../faq.md#why-do-my-multipliers-change-even-after-activation).
+Если ты в данный момент не стейкаешь в ферме, для которой хочешь активировать bCAKE, этот шаг можно пропустить и начать со стейкинга токенов LP в ферме.
 {% endhint %}
 
-### ![](../../../../.gitbook/assets/bCAKE-farm-number-limit.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bCAKE-staking-migration-needed.png)
 
-There is a limit to the number of farms that are able to boost simultaneously. To check the number of remaining boosters, refer to the panel on top.
+Если ты стейкаешь в ферме, для которой хочешь активировать farm booster, также требуется одноразовая миграция стейкинга.
 
-You will need to unset an active booster in order to activate boosters on other farms.
+Нажми «Migrate» и следуй пошаговому руководству для завершения миграции. Твои вознаграждения CAKE будут автоматически собраны и отправлены в твой кошелёк.
 
-## Unset Boosters
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bCAKE-migration-inprogress.png)
 
-![](<../../../../.gitbook/assets/bCAKE-pending-unset (1).png>)
+## Активируй бустеры
 
-To unset a farm booster, simply click the "Unset" button, and confirm the transaction from your wallet.
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bCAKE-pending-activation%20%281%29.png)
 
-Please note upon unsetting, CAKE earned will be harvested to the farm booster contract and will be automatically sent to your wallet upon the next harvest, deposit or withdrawal. Learn more [here](../faq.md#where-are-my-cake-rewards-after-activating-or-unsetting-the-booster).
+После готовности ты увидишь доступный мультипликатор буста и забустенный APR для фермы, в которой сейчас стейкаешь. Чтобы узнать больше о том, как рассчитывается мультипликатор bCAKE, читай [здесь](../faq.md#how-are-the-bcake-multipliers-calculated).
 
+Для активации буста нажми кнопку «Boost» и подтверди транзакцию в кошельке.
+
+{% hint style="info" %}
+Обрати внимание, что любые действия пользователя с фермами или пулом стейкинга CAKE автоматически обновят твой мультипликатор буста на основе актуальных данных и статистики ферм и пула стейкинга CAKE.
+
+Узнай больше [здесь](../faq.md#why-do-my-multipliers-change-even-after-activation).
+{% endhint %}
+
+### ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bCAKE-farm-number-limit.png)
+
+Существует ограничение на количество ферм, которые можно бустить одновременно. Для проверки количества оставшихся бустеров обратись к панели вверху.
+
+Необходимо отключить активный бустер, чтобы активировать бустеры на других фермах.
+
+## Отключи бустеры
+
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bCAKE-pending-unset%20%281%29.png)
+
+Для отключения farm booster просто нажми кнопку «Unset» и подтверди транзакцию в кошельке.
+
+Обрати внимание: при отключении заработанный CAKE будет собран в контракт farm booster и автоматически отправлен в твой кошелёк при следующем сборе, депозите или выводе. Узнай больше [здесь](../faq.md#where-are-my-cake-rewards-after-activating-or-unsetting-the-booster).

@@ -1,56 +1,55 @@
 ---
 description: >-
-  Migrate your V2, StableSwap or Position Manager liquidity to enjoy bCAKE
-  boosting
+  Мигрируй ликвидность V2, StableSwap или менеджера позиций для использования буста bCAKE
 ---
 
-# Migration Guide
+# Руководство по миграции
 
-<figure><img src="../../../.gitbook/assets/migration-guide.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration-guide.png" alt=""><figcaption></figcaption></figure>
 
-To start boosting your V2, StableSwap or Position Manager liquidity via bCAKE, you need to perform a migration by unstaking your LP from the old contract, and restake them into the new one.
+Для начала буста ликвидности V2, StableSwap или менеджера позиций через bCAKE необходимо выполнить миграцию: вывести LP из старого контракта и повторно застейкать их в новом.
 
-### Navigate to the migration wizard
+### Перейди к мастеру миграции
 
-<figure><img src="../../../.gitbook/assets/Group 1410076909.png" alt="" width="189"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Group%201410076909.png" alt="" width="189"><figcaption></figcaption></figure>
 
-Locate the banner at the top of the Farm or Position Manager page, click “Proceed” to start the migration process.
+Найди баннер в верхней части страницы Farm или Position Manager, нажми «Proceed» для начала процесса миграции.
 
-[Go to Farm](https://pancakeswap.finance/farms)
+[Перейти на Farm](https://pancakeswap.finance/farms)
 
-[Go to Position Manager](https://pancakeswap.finance/position-managers)
+[Перейти на Position Manager](https://pancakeswap.finance/position-managers)
 
-### Unstake your LP tokens from the old contracts
+### Выведи токены LP из старых контрактов
 
-<figure><img src="../../../.gitbook/assets/step1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/step1.png" alt=""><figcaption></figcaption></figure>
 
-In the first step, you will see a full list of V2, StableSwap farms, and position managers that require migration to enjoy bCAKE boosting.
+На первом шаге ты увидишь полный список ферм V2, StableSwap и менеджеров позиций, требующих миграции для использования буста bCAKE.
 
-Click the “Unstake All” buttons on the right, and confirm the tx in your wallet app, to unstake ALL LP tokens from the old contracts.
+Нажми кнопки «Unstake All» справа и подтверди транзакцию в кошелёк-приложении, чтобы вывести ВСЕ токены LP из старых контрактов.
 
-You will need to unstake each of them individually.
+Необходимо выводить каждый из них по отдельности.
 
-After unstaking all the LPs, click “Go to Stake” to proceed to the next step.
+После вывода всех LP нажми «Go to Stake» для перехода к следующему шагу.
 
-### Restake your LP tokens into the new contracts
+### Повторно застейкай токены LP в новые контракты
 
-<figure><img src="../../../.gitbook/assets/step2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/step2.png" alt=""><figcaption></figcaption></figure>
 
-In the second step, you will see a full list of V2, StableSwap farms, and position managers that are available to restake.
+На втором шаге ты увидишь полный список ферм V2, StableSwap и менеджеров позиций, доступных для повторного стейкинга.
 
-First, click the “Enable” buttons to enable deposits.
+Сначала нажми кнопки «Enable» для разрешения депозитов.
 
-Then, click “Restake” buttons to restake the LP tokens into the new contract.
+Затем нажми кнопки «Restake» для повторного стейкинга токенов LP в новый контракт.
 
-*   For V2 and StableSwap farms, you need to define the number of LP tokens you want to restake in the new pop-up modal.<br>
+*   Для ферм V2 и StableSwap необходимо указать количество токенов LP для повторного стейкинга в новом всплывающем модальном окне.<br>
 
-    We recommend to restake all of your LP tokens to ensure you are earning the maximum yield available.
-*   For Position Managers, simply confirm the tx in your wallet, all of your Position Managers LPs will be restaked into the new contracts.<br>
+    Рекомендуется повторно застейкать все токены LP, чтобы максимизировать доходность.
+*   Для менеджеров позиций просто подтверди транзакцию в кошельке — все LP менеджеров позиций будут повторно застейканы в новые контракты.<br>
 
-    Since Position Manager LPs can not be processed separately, we strongly recommend to restake ALL position managers LP into the new contracts.
+    Поскольку LP менеджеров позиций нельзя обрабатывать по отдельности, настоятельно рекомендуется повторно застейкать ВСЕ LP менеджеров позиций в новые контракты.
 
-After restaking, the buttons will turn to “Staked”
+После повторного стейкинга кнопки изменятся на «Staked».
 
-You will need to restake each of them individually.
+Необходимо повторно застейкать каждый из них по отдельности.
 
-After restaking all LPs, click “Finish”, to go back to the Farm page.
+После повторного стейкинга всех LP нажми «Finish» для возврата на страницу Farm.

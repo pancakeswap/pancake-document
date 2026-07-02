@@ -1,79 +1,79 @@
-# Create a wallet (Monad)
+# Создание кошелька (Monad)
 
-### 1. **Why You Need a Wallet**
+### 1. **Зачем нужен кошелёк**
 
-To use **PancakeSwap on Monad**, you need a **crypto wallet** — it’s your personal vault for digital assets and your passport to DeFi. Without a wallet, you won’t be able to:
+Для использования **PancakeSwap на Monad** тебе нужен **криптокошелёк** — это твоё личное хранилище цифровых активов и твой паспорт в DeFi. Без кошелька ты не сможешь:
 
-* **Swap tokens** on Monad
-* **Provide liquidity** to PancakeSwap’s **V2 & V3 Pools**
-* Interact with any dApp or store tokens on Monad
-
-***
-
-### 2. **Wallet Setup Essentials (Security First!)**
-
-Crypto wallets give you full control over your assets — but with great power comes great responsibility. Keep your wallet safe by following these best practices:
-
-| ✅ Do’s                                                                | ❌ Don’ts                                                 |
-| --------------------------------------------------------------------- | -------------------------------------------------------- |
-| ✅ **Download from official sources** (app stores, verified websites)  | ❌ Don’t install from random links or DMs                 |
-| ✅ **Follow the setup instructions** carefully                         | ❌ Don’t rush or skip the backup process                  |
-| ✅ **Back up your recovery phrase** and store it offline               | ❌ Don’t screenshot or store it on your phone or computer |
-| ✅ **Keep your phrase private** — it's your only way to recover access | ❌ Never share it, even if someone claims to be "support" |
-| ✅ Only enter your recovery phrase **inside the wallet app**           | ❌ Never input it into websites, popups, or other apps    |
-
-> 🧠 Your recovery phrase = access to your wallet
+* **Обменивать токены** на Monad
+* **Предоставлять ликвидность** в **пулы V2 и V3** PancakeSwap
+* Взаимодействовать с любым dApp или хранить токены на Monad
 
 ***
 
-### 3. **Choosing Your Wallet: Mobile vs. Desktop**
+### 2. **Основы безопасной настройки кошелька (сначала — безопасность!)**
 
-Not sure which type of wallet to use? Here’s a quick breakdown of mobile vs. desktop/web wallets so you can choose what fits your style:
+Криптокошельки дают тебе полный контроль над активами — но с большой силой приходит большая ответственность. Защити свой кошелёк, следуя этим рекомендациям:
 
-| Feature         | **Mobile Wallets**                 | **Browser/Desktop Wallets**            |
-| --------------- | ---------------------------------- | -------------------------------------- |
-| **Use case**    | Swap & track on-the-go             | Best for multitasking or deep dApp use |
-| **Ease of use** | Intuitive, beginner-friendly       | Lightweight extensions, quick access   |
-| **Security**    | Depends on phone security          | Easier hardware wallet integration     |
-| **Convenience** | All-in-one app                     | More manual, but powerful              |
-| **Best for...** | Casual users, mobile-first traders | Desktop users, more advanced flows     |
+| ✅ Что делать                                                                              | ❌ Чего не делать                                                      |
+| ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| ✅ **Скачивай из официальных источников** (магазины приложений, проверенные сайты)         | ❌ Не устанавливай по случайным ссылкам или из личных сообщений         |
+| ✅ **Внимательно следуй инструкциям по настройке**                                        | ❌ Не торопись и не пропускай процесс резервного копирования            |
+| ✅ **Сделай резервную копию фразы для восстановления** и храни её оффлайн                 | ❌ Не делай скриншоты и не храни её на телефоне или компьютере          |
+| ✅ **Держи свою фразу в тайне** — это единственный способ восстановить доступ             | ❌ Никогда не делись ею, даже если кто-то называет себя «поддержкой»    |
+| ✅ Вводи свою фразу для восстановления **только внутри приложения кошелька**              | ❌ Никогда не вводи её на сайтах, во всплывающих окнах или других приложениях |
 
-> 📱 Mobile wallets can offer a smoother experience for trading, managing portfolios, and browsing NFTs — all from your phone.
+> 🧠 Твоя фраза для восстановления = доступ к кошельку
+
+***
+
+### 3. **Выбор кошелька: мобильный или десктопный**
+
+Не знаешь, какой тип кошелька выбрать? Вот краткое сравнение мобильных и десктопных/веб-кошельков, чтобы ты мог выбрать подходящий:
+
+| Характеристика  | **Мобильные кошельки**                      | **Браузерные/десктопные кошельки**            |
+| --------------- | ------------------------------------------- | --------------------------------------------- |
+| **Применение**  | Обмен и отслеживание на ходу                | Лучший выбор для многозадачности или глубокого использования dApp |
+| **Удобство**    | Интуитивный, подходит для новичков          | Лёгкие расширения, быстрый доступ             |
+| **Безопасность**| Зависит от безопасности телефона            | Проще интегрировать аппаратный кошелёк        |
+| **Комфорт**     | Приложение «всё в одном»                    | Более ручное, но мощное                       |
+| **Лучше для...** | Обычных пользователей, мобильных трейдеров | Пользователей десктопа, более продвинутых сценариев |
+
+> 📱 Мобильные кошельки могут обеспечить более плавный опыт для торговли, управления портфелем и просмотра NFT — всё с телефона.
 
 ***
 
 {% hint style="success" %}
-**Some popular** [**wallets**](https://docs.monad.xyz/tooling-and-infra/wallets/software-wallets) **that you may use for Monad ecoystem!**
+**Некоторые популярные** [**кошельки**](https://docs.monad.xyz/tooling-and-infra/wallets/software-wallets)**, которые можно использовать в экосистеме Monad!**
 {% endhint %}
 
 ***
 
-#### 🔌 **WalletConnect-Compatible Options**
+#### 🔌 **Совместимые с WalletConnect варианты**
 
-Using **WalletConnect**, you can connect wallets to PancakeSwap on Monad — directly from desktop or mobile:
+С помощью **WalletConnect** ты можешь подключить кошельки к PancakeSwap на Monad — прямо с десктопа или мобильного устройства:
 
 * **Leap wallet**
 * **Bitget wallet**
 * **HaHa wallet**
-* **Backpack,** and more
+* **Backpack** и другие
 
-> You’ll see a full list of supported wallets when connecting on the PancakeSwap UI via WalletConnect.
+> Полный список поддерживаемых кошельков ты увидишь при подключении в интерфейсе PancakeSwap через WalletConnect.
 
 ***
 
-### 4. **General Wallet Setup Steps (Quick Guide)**
+### 4. **Общие шаги по настройке кошелька (краткое руководство)**
 
-No matter which wallet you choose, the process is generally similar:
+Независимо от того, какой кошелёк ты выберешь, процесс в целом схож:
 
-1. **Download** the wallet app or browser extension from its **official source**
-2. Launch the app and tap **“Create a new wallet”**
-   * (Or select **“Import”** if you already have one)
-3. Set a strong **password or PIN** (if required)
-4.  You’ll be shown a **recovery phrase** (12 or 24 words) —
+1. **Скачай** приложение кошелька или расширение для браузера из **официального источника**
+2. Запусти приложение и нажми **«Create a new wallet»**
+   * (Или выбери **«Import»**, если у тебя уже есть кошелёк)
+3. Установи надёжный **пароль или PIN** (если требуется)
+4.  Тебе покажут **фразу для восстановления** (12 или 24 слова) —
 
-    → **Write it down and store it somewhere safe, offline**
-5. **Confirm your recovery phrase** to complete setup
-6.  **Fund your wallet with MON**
+    → **Запиши её и храни в надёжном месте оффлайн**
+5. **Подтверди свою фразу для восстановления**, чтобы завершить настройку
+6.  **Пополни кошелёк токенами MON**
 
-    → You’ll need **MON** to pay for gas fees when swapping or adding liquidity on PancakeSwap
-7. You can bridge assets to Monad using this [cross-chain bridge](https://monadbridge.com/)
+    → Тебе понадобятся **MON** для оплаты комиссий за газ при обмене или добавлении ликвидности на PancakeSwap
+7. Ты можешь перевести активы в Monad с помощью этого [межсетевого моста](https://monadbridge.com/)

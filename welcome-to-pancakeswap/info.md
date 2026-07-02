@@ -1,25 +1,25 @@
-# 📈 Analytics (Info Page)
+# 📈 Аналитика (страница Info)
 
-## Info Page&#x20;
+## Страница Info&#x20;
 
-View PancakeSwap's native analytics site here: [https://pancakeswap.finance/info](https://pancakeswap.finance/info)
+Просматривай нативный аналитический сайт PancakeSwap здесь: [https://pancakeswap.finance/info](https://pancakeswap.finance/info)
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-All core metrics data are sourced from the PCS internal Indexer, which, in turn, gathers data from events triggered when the contract is called.&#x20;
+Все данные по основным метрикам поступают из внутреннего индексатора PCS, который, в свою очередь, собирает данные из событий, инициируемых при вызове контракта.&#x20;
 
-For the date dimension in the PancakeSwap's internal indexer, we use international standard time (UTC) for daily statistics. Therefore, when the horizontal axis on the Dashboard displays a date, it represents the date in international standard time (UTC).<br>
+Для измерения времени во внутреннем индексаторе PancakeSwap используется международное стандартное время (UTC) для ежедневной статистики. Поэтому, когда на горизонтальной оси дашборда отображается дата, она соответствует дате в международном стандартном времени (UTC).<br>
 
-## Core Metrics
+## Основные метрики
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXemXpjzW0IqGPjz6IISjhcIXzWWeeFyxXU7XLRumCxM6WQsr4IKMP_mwDhiMDGY9EUDtKZAKoeYsbYUXwRc2C2KBvoSRo_-tlxq09zOJ1ajIq00cXM6z_7-2RNv3rVWj_kBmLiY4Q?key=G7-HCtdmBA4wyp9ESrWifFqi" alt=""><figcaption></figcaption></figure>
 
-**Volume (Trading Volume):** We monitor the daily data for each trading pair and the daily trading data for each token. The daily trading volume is determined by multiplying the trading volume of each token for the day by its price.
+**Объём (Объём торгов):** Мы отслеживаем ежедневные данные по каждой торговой паре и ежедневные торговые данные по каждому токену. Ежедневный объём торгов определяется путём умножения объёма торгов каждым токеном за день на его цену.
 
-**Total Value Locked:** Get all pools from internal Indexer and read the reserve\_usd or total\_value\_locked\_usd from each pool.&#x20;
+**Заблокированная стоимость (TVL):** Получаем все пулы из внутреннего индексатора и считываем значение reserve\_usd или total\_value\_locked\_usd из каждого пула.&#x20;
 
-**Price:** In the PCS Internal Indexer, we utilize several base pools to calculate USD-related prices. The primary pool is the stablecoin trading pool, where we use the trading pool with the highest volume as the base pool and calculate the USD price of the stablecoin based on the trading volume weight. Additionally, the trading pool of the base token to the chain's stablecoin is also considered a base pool to provide the USD price.
+**Цена:** Во внутреннем индексаторе PCS мы используем несколько базовых пулов для расчёта цен в USD. Основным пулом является торговый пул стейблкоинов, где мы берём торговый пул с наибольшим объёмом в качестве базового и рассчитываем цену стейблкоина в USD на основе веса объёма торгов. Кроме того, торговый пул базового токена к стейблкоину сети также рассматривается как базовый пул для предоставления цены в USD.
 
-_Tokens that are not whitelisted or not paired with whitelisted tokens are excluded from these calculations._
+_Токены, не включённые в белый список или не спаренные с токенами из белого списка, исключаются из этих расчётов._
 
 <br>

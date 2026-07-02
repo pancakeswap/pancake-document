@@ -1,147 +1,147 @@
 ---
-description: Use your veCAKE to vote and decide how CAKE emission is distributed
+description: Используй veCAKE для голосования и определения распределения эмиссии CAKE
 hidden: true
 ---
 
 # Gauges Voting
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2811%29.png" alt=""><figcaption></figcaption></figure>
 
-#### What is a gauge?
+#### Что такое гейдж?
 
-To understand gauges voting, you may think of any products that require CAKE emissions as a series of gauges. This includes farms, CAKE weekly reward pool, position manager vaults, etc.
+Для понимания Gauges Voting можно представить любые продукты, требующие эмиссии CAKE, как набор гейджей. Это включает фермы, еженедельный пул вознаграждений CAKE, хранилища менеджеров позиций и т.д.
 
-veCAKE holders can now use their veCAKE as votes to decide how much % of CAKE goes to which product. The more veCAKE a gauge accumulates through Gauges Voting, the more CAKE emissions will be allocated to the underlying liquidity pool / position manager vault.
+Держатели veCAKE теперь могут использовать свои veCAKE в качестве голосов, чтобы решать, какой % CAKE направляется в какой продукт. Чем больше veCAKE накапливает гейдж через Gauges Voting, тем больше эмиссии CAKE будет выделено в соответствующий пул ликвидности или хранилище менеджера позиций.
 
 {% hint style="info" %}
-The votes in each epoch (E-0) determines the CAKE emission for the next epoch (E+1), and these changes take effect only after the current epoch concludes.
+Голоса в каждой эпохе (E-0) определяют эмиссию CAKE для следующей эпохи (E+1), и эти изменения вступают в силу только после завершения текущей эпохи.
 {% endhint %}
 
-#### Gauge Types
+#### Типы гейджей
 
-There are two types of gauges - ‘core’ and ‘non-core’. CAKE emissions to the former are controlled by the Kitchen, while the community influences emissions to ‘non-core’ pools by voting with veCAKE.
+Существует два типа гейджей — «core» и «non-core». Эмиссия CAKE для первых контролируется командой разработчиков, тогда как сообщество влияет на эмиссию для «non-core» пулов путём голосования с помощью veCAKE.
 
-1. ‘Core’ gauges include pairs with major tokens and stablecoins (WBTC, ETH, BNB, USDC, USDT, etc.) - the Kitchen will make sure these pairs receive sufficient CAKE rewards as they contribute significantly to the protocol’s revenue
-2. ‘Non-core’ gauges represent all other gauges not classified as ‘core’ gauges
+1. «Core» гейджи включают пары с крупными токенами и стейблкоинами (WBTC, ETH, BNB, USDC, USDT и т.д.) — команда разработчиков обеспечит этим парам достаточные вознаграждения CAKE, поскольку они вносят значительный вклад в доход протокола.
+2. «Non-core» гейджи представляют все остальные гейджи, не классифицированные как «core».
 
-## How to Vote?
+## Как голосовать?
 
-### 1 - Understand the voting schedule
+### 1 — Пойми расписание голосования
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2812%29.png" alt=""><figcaption></figcaption></figure>
 
-Gauges weight voting is conducted every two weeks. The beginning of an epoch, just like revenue sharing, is at 00:00 UTC every even Thursdays.
+Голосование по весу гейджей проводится каждые две недели. Начало эпохи, как и распределение дохода, — в 00:00 UTC каждый чётный четверг.
 
-In the above example:
+В приведённом примере:
 
-* Epoch 1 is starting at 00:00 UTC, 1st, Thursday on Week 1.
-* Epoch 1 is ending 2 weeks later, at 00:00 UTC, 15th, Thursday on Week 3.
-* Users can vote during 00:00 UTC from 1st to 14th.
-* **NO** votes can be cast during 00:00 UTC from 14th to 15th as votes are being adjusted and tallied.
-* Voting results will be snapshotted at 00:00 UTC on the 15th. The end of Epoch 1.
-* Voting results will be applied within 72 hrs after an epoch is closed.
+* Эпоха 1 начинается в 00:00 UTC, 1-й четверг недели 1.
+* Эпоха 1 заканчивается через 2 недели, в 00:00 UTC, 15-й четверг недели 3.
+* Пользователи могут голосовать с 00:00 UTC с 1-го по 14-й день.
+* **Голоса НЕ** принимаются с 00:00 UTC с 14-го по 15-й день, поскольку голоса корректируются и подсчитываются.
+* Результаты голосования фиксируются в 00:00 UTC 15-го числа. Конец Эпохи 1.
+* Результаты голосования применяются в течение 72 часов после закрытия эпохи.
 
-### 2 - Become eligible
+### 2 — Стань участником
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2812%29.png" alt=""><figcaption></figcaption></figure>
 
-Since veCAKE is gradually decreasing according to the remaining lock time, voting results will be taken via a snapshot at the end of every epoch. This includes the number of total veCAKE, and the veCAKE each user has.
+Поскольку veCAKE постепенно уменьшается в соответствии с оставшимся временем блокировки, результаты голосования фиксируются в конце каждой эпохи. Это включает общее количество veCAKE и veCAKE каждого пользователя.
 
-In the above example:
+В приведённом примере:
 
-* Results for Epoch 1, will be based on the veCAKE balances at 00:00 UTC, 15th.
-* Users whose veCAKE position is unlocking before or equal to 15th, will have 0 veCAKE balance at the snapshot time. Therefore they have no voting power for Epoch 1.
+* Результаты Эпохи 1 будут основаны на балансах veCAKE в 00:00 UTC, 15-го числа.
+* Пользователи, у которых позиция veCAKE разблокируется до или в день 15-го числа, будут иметь баланс veCAKE 0 на момент снимка. Поэтому у них нет голосовой мощи для Эпохи 1.
 
-Therefore, to become eligible, you must obtain an active veCAKE position, which unlocks **LATER** than the end/snapshot time of the current epoch.
+Таким образом, для участия необходимо иметь активную позицию veCAKE, которая разблокируется **ПОЗЖЕ** даты окончания/снимка текущей эпохи.
 
-In the above example:
+В приведённом примере:
 
-* If you want to vote in epoch 1, you must have a veCAKE position which unlocks on the 21st or later than the 21st, or Thursday on week 3.
+* Для голосования в Эпохе 1 необходимо иметь позицию veCAKE, разблокирующуюся 21-го числа или позже, то есть в четверг недели 3.
 
-### 3 - Check the current voting results
+### 3 — Проверь текущие результаты голосования
 
-Head to "CAKE staking", scroll down and look for the "Gauges Voting" section, then click "Check Gauges".
+Перейди в «CAKE staking», прокрути вниз и найди раздел «Gauges Voting», затем нажми «Check Gauges».
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2813%29.png" alt=""><figcaption></figcaption></figure>
 
-At the top-left section. You may find:
+В верхнем левом разделе можно найти:
 
-* Your veCAKE.
-* Snapshot time and voting end time for the current epoch.
-* The total number of CAKE rewards to be distributed in the next epoch is based on the voting results from the current epoch.
-* The total amount of veCAKE votes cast.
+* Твои veCAKE.
+* Время снимка и время окончания голосования для текущей эпохи.
+* Общее количество вознаграждений CAKE для распределения в следующей эпохе на основе результатов голосования текущей эпохи.
+* Общее количество отданных голосов veCAKE.
 
-At the top-right, you may find a pie chart representing the % of each gauge received.
+Вверху справа есть круговая диаграмма, представляющая % каждого гейджа.
 
-At the bottom, there is a complete list of every voting gauges. With the number of votes they received and the expected % weight, they are gaining in the current epoch. There is also a "boost" and "caps" field, detailing two important gauge characteristics. Continue reading for more details.
+Внизу представлен полный список всех гейджей с количеством полученных голосов и ожидаемым % веса в текущей эпохе. Также есть поля «boost» и «caps», описывающие две важные характеристики гейджей. Читай далее для подробностей.
 
-#### Gauge Boost and Emission Caps
+#### Буст и лимиты эмиссии гейджей
 
-To ensure CAKE rewards go to the most productive gauges. Each gauge can be applied with a boost and/or an emission cap. Two of the characteristics can both exist at the same time.
+Для обеспечения направления вознаграждений CAKE к наиболее продуктивным гейджам каждый гейдж может иметь буст и/или лимит эмиссии. Обе характеристики могут существовать одновременно.
 
-Gauge Boost is a multiplier applied to the number of votes a gauge receives, ranging from 1x to 2.5x (gauges for V3 pools are capped at 2x). This is to encourage votes and liquidity for important trading pairs.
+Буст гейджа — это мультипликатор, применяемый к количеству голосов, полученных гейджем, в диапазоне от 1x до 2,5x (гейджи для пулов V3 ограничены 2x). Это стимулирует голоса и ликвидность для важных торговых пар.
 
-Emission cap is a maximum cap on the % weight a gauge can receive, ranging from 2% to 20%. This is to promote fairness in allocation and prevent abuse of the gauge system.
+Лимит эмиссии — это максимальный предел % веса гейджа, в диапазоне от 2% до 20%. Это обеспечивает справедливость в распределении и предотвращает злоупотребление системой гейджей.
 
-For example:
+Например:
 
-* A gauge has 10 votes, 2x boost and 15% cap. The total vote is 100.
-* After applying the boost, this gauge will have 20 votes, 20% weight against the total (100).
-* However, since it has a 15% cap, the final % of CAKE rewards this gauge receives in the next epoch will be adjusted to 15%.
+* Гейдж имеет 10 голосов, буст 2x и лимит 15%. Общее количество голосов — 100.
+* После применения буста у этого гейджа будет 20 голосов, 20% веса от общего (100).
+* Однако, поскольку у него лимит 15%, итоговый % вознаграждений CAKE для этого гейджа в следующей эпохе будет скорректирован до 15%.
 
-#### How are Gauge Boost and Emission Caps determined?
+#### Как определяются буст и лимиты эмиссии гейджей?
 
-During the process of a gauge application, we ask applicants to propose the value of the boost multiplier and emissions cap % they wish to assign to the gauge. These have to be voted on by veCAKE holders, along with the entire gauge application.
+В процессе подачи заявки на гейдж мы просим заявителей предложить значение мультипликатора буста и % лимита эмиссии, которые они хотят назначить гейджу. Они должны быть одобрены голосованием держателей veCAKE вместе со всей заявкой на гейдж.
 
-The default option for all gauges is 1.00x multiplier and 5% emission cap. They can be changed with future proposals.
+По умолчанию для всех гейджей — мультипликатор 1,00x и лимит эмиссии 5%. Они могут быть изменены будущими предложениями.
 
 {% hint style="info" %}
-Please note that the voting results are updated weekly. Numbers are calculated based on the veCAKE balances at 00:00 UTC, the coming Thursday.
+Обрати внимание, что результаты голосования обновляются еженедельно. Числа рассчитываются на основе балансов veCAKE в 00:00 UTC ближайшего четверга.
 {% endhint %}
 
-### 4 - Add gauges to vote
+### 4 — Добавь гейджи для голосования
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2814%29.png" alt=""><figcaption></figcaption></figure>
 
-To vote on a gauge, scroll down and look for "My Votes" section. Click "Add Gauge".
+Для голосования за гейдж прокрути вниз и найди раздел «My Votes». Нажми «Add Gauge».
 
-In the pop-up window, you may add gauges to your list of votes by clicking the blue "+" icon. You may find the current voting results in the list, along with boost and caps.
+В всплывающем окне ты можешь добавить гейджи в свой список голосов, нажав синюю иконку «+». В списке можно найти текущие результаты голосования, а также буст и лимиты.
 
-To quickly locate a gauge, you can use filtering to filter gauges by blockchains, fee tiers and liquidity types. Or type in the token ticker into the search field.
+Для быстрого поиска гейджа используй фильтрацию по блокчейнам, уровням комиссий и типам ликвидности. Или введи тикер токена в поле поиска.
 
-### 5 - Select how much % veCAKE to vote on each gauges
+### 5 — Выбери, какой % veCAKE направить на каждый гейдж
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2815%29.png" alt=""><figcaption></figcaption></figure>
 
-Once you have added the gauges, you may select how much % of your veCAKE goes to each of the gauges.
+После добавления гейджей ты можешь выбрать, какой % твоих veCAKE направить на каждый гейдж.
 
-This is because:
+Это сделано потому, что:
 
-* veCAKE gradually decreases with the remaining lock time. It is impractical to estimate and calculate how many exact veCAKE to vote.
-* It is troublesome to re-vote in every upcoming epoch. Therefore, gauges voting is designed to carry your voting decisions throughout all the upcoming epoch until you cast a new one.
+* veCAKE постепенно уменьшается с оставшимся временем блокировки. Нецелесообразно оценивать и рассчитывать точное количество veCAKE для голосования.
+* Переголосовывать в каждой предстоящей эпохе неудобно. Поэтому Gauges Voting спроектировано так, чтобы сохранять твои решения во всех предстоящих эпохах до момента подачи нового голоса.
 
-In the above example:
+В приведённом примере:
 
-* At the moment, I have 2.62 veCAKE.
-* I decided to allocate 80% to CAKE-BNB, which is 2.10 veCAKE at the moment.
-* 20% to USDC-ETH, which is 0.52 veCAKE, again, at the moment.
-* My total veCAKE will gradually decrease along with the remaining lock time. At the snapshot time, I may have less veCAKE, but my decision of 80% - 20% split will still be applied to the final results.
-* On top of that, this 80% - 20% decision will be applied to every coming epoch until I update it by casting a new vote request. Or until my veCAKE goes to 0 due to unlocking.
+* В данный момент у меня 2,62 veCAKE.
+* Я решил направить 80% на CAKE-BNB, что составляет 2,10 veCAKE сейчас.
+* 20% на USDC-ETH, что составляет 0,52 veCAKE, на данный момент.
+* Мои общие veCAKE будут постепенно уменьшаться с оставшимся временем блокировки. На момент снимка у меня может быть меньше veCAKE, но моё решение о распределении 80% — 20% всё равно будет применено к итоговым результатам.
+* Кроме того, это решение о распределении 80% — 20% будет применяться к каждой предстоящей эпохе, пока я не обновлю его, подав новый запрос на голосование. Или до обнуления veCAKE при разблокировке.
 
-Once you have confirmed your decision, click "Submit vote" and confirm in your wallet.
+После подтверждения нажми «Submit vote» и подтверди в кошельке.
 
-### 6 - Update your votes
+### 6 — Обнови свои голоса
 
-<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2817%29.png" alt=""><figcaption></figcaption></figure>
 
-Once your vote is submitted, you may see your votes being updated to "Current Votes". And the remaining veCAKE gets updated.
+После подачи голоса ты увидишь, как он обновляется в «Current Votes». И оставшиеся veCAKE обновятся.
 
-Please note that the voting decision for each gauge can only be updated every 10 days. Once you submit a vote request, all voted gauges will be applied a 10-day cooldown period before you can submit another request for updates.
+Обрати внимание, что решение голосования для каждого гейджа может обновляться только раз в 10 дней. После подачи запроса на голосование для всех проголосованных гейджей устанавливается период ожидания 10 дней, прежде чем ты сможешь подать новый запрос на обновление.
 
-To update your vote decision, change the % percentage and submit again.
+Для обновления решения измени % и подай повторно.
 
 {% hint style="info" %}
-Please note that after gaining more veCAKE by adding CAKE or extending lock time. You need to manually update every gauges by re-submitting the vote request.
+Обрати внимание, что после получения большего количества veCAKE путём добавления CAKE или продления времени блокировки необходимо вручную обновить все гейджи, повторно подав запрос на голосование.
 
-The 10 days cooldown period still applies regardless if you changed your % decisions.
+Период ожидания 10 дней применяется независимо от того, изменил ли ты % решения.
 {% endhint %}

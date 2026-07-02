@@ -1,19 +1,19 @@
-# Get Started (SOL)
+# Начало работы (SOL)
 
-![](../../../.gitbook/assets/get-started-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/get-started-header.png)
 
 {% hint style="success" %}
-$**CAKE is now live on Solana - Token Address:** `4qQeZ5LwSz6HuupUu8jCtgXyW1mYQcNbFAW1sWZp89HL`
+$**CAKE теперь доступен на Solana — адрес токена:** `4qQeZ5LwSz6HuupUu8jCtgXyW1mYQcNbFAW1sWZp89HL`
 {% endhint %}
 
-Using anything new can be a bit of a challenge. Don't worry though, we've created a range of guides to help you get comfortable with PancakeSwap!
+Начинать работу с чем-то новым бывает непросто. Но не переживай — мы подготовили ряд руководств, которые помогут тебе освоиться с PancakeSwap!
 
-## Setting up PancakeSwap
+## Настройка PancakeSwap
 
-Follow these guides to get everything set up to use PancakeSwap, or feel free to jump to the guide you need if you've been doing okay but lost your way.
+Следуй этим руководствам, чтобы всё настроить для работы с PancakeSwap, или сразу переходи к нужному разделу, если ты уже в процессе, но что-то пошло не так.
 
-* [Create a wallet (SOL)](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-sol/create-a-wallet-sol)
-* [Get SOL](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-aptos/get-sol)
-* [Solana FAQ](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-sol/solana-faq)
+* [Создание кошелька (SOL)](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-sol/create-a-wallet-sol)
+* [Получение SOL](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-aptos/get-sol)
+* [FAQ по Solana](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-sol/solana-faq)
 
-If you can't find what you need, feel free to visit the [PancakeSwap Telegram](../../contact-us/social-accounts.md) and ask for help there!
+Если ты не нашёл нужной информации, загляни в [Telegram PancakeSwap](../../contact-us/social-accounts.md) и задай вопрос там!

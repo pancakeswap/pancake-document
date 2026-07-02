@@ -1,15 +1,15 @@
-# Ambassador Program
+# Программа амбассадоров
 
-The PancakeSwap Ambassador Program is designed to empower our most dedicated users and supporters, giving them the opportunity to actively contribute to the growth of our ecosystem. Our ambassadors play a crucial role in representing PancakeSwap, educating new users, and fostering community engagement worldwide.
+Программа амбассадоров PancakeSwap создана для поддержки наших самых преданных пользователей и сторонников, давая им возможность активно участвовать в развитии нашей экосистемы. Наши амбассадоры играют ключевую роль в представлении PancakeSwap, обучении новых пользователей и развитии вовлечённости сообщества по всему миру.
 
-#### 🔹 Ambassador Roles
+#### 🔹 Роли амбассадоров
 
-To ensure clarity in responsibilities, the program is structured into distinct roles:
+Для обеспечения чёткого распределения обязанностей программа структурирована по отдельным ролям:
 
-🔹 Moderation – Community moderators help maintain a safe, welcoming, and informative environment across our platforms. They assist users, enforce community guidelines, and ensure smooth communication.
+🔹 Модерация — Модераторы сообщества помогают поддерживать безопасную, дружелюбную и информативную среду на наших платформах. Они помогают пользователям, обеспечивают соблюдение правил сообщества и гарантируют слаженную коммуникацию.
 
-📢 Content Creation – Ambassadors passionate about content can contribute through articles, videos, social media posts, and other creative materials that promote PancakeSwap and educate the community.
+📢 Создание контента — Амбассадоры, увлечённые созданием контента, могут вносить вклад через статьи, видео, публикации в социальных сетях и другие творческие материалы, продвигающие PancakeSwap и обучающие сообщество.
 
-🎤 Events (Online & Offline) – Ambassadors can organize and participate in workshops, meetups, and local events to spread awareness and onboard new users to PancakeSwap.
+🎤 Мероприятия (онлайн и офлайн) — Амбассадоры могут организовывать и участвовать в воркшопах, встречах и локальных мероприятиях для повышения осведомлённости и привлечения новых пользователей в PancakeSwap.
 
 <br>

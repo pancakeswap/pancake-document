@@ -2,87 +2,86 @@
 hidden: true
 ---
 
-# Get MON on Monad
+# Получение MON на Monad
 
-### 1. **Why You Need MON**
+### 1. **Зачем нужен MON**
 
-MON is the **native token** of the Monad blockchain. You’ll need it to:
+MON — **нативный токен** блокчейна Monad. Он нужен для:
 
-* **Pay gas fees** for any transaction (swaps, adding liquidity etc.)
-* **Create and manage liquidity positions** on PancakeSwap
-* **Interact with any Monad dApp**
-
-***
-
-### 2. **Main Ways to Get MON**
-
-There are **four main ways** to get MON, depending on your starting point and preferences.
-
-| Method                           | Best for                                            | Requires a Wallet?      | Notes                               |
-| -------------------------------- | --------------------------------------------------- | ----------------------- | ----------------------------------- |
-| **Centralized Exchanges (CEXs)** | Beginners or users buying with fiat                 | ✅ Yes (to access dApps) | Most common entry point             |
-| **PancakeSwap (DEX)**            | DeFi-native users with tokens already on Monad      | ✅ Yes                   | Swap into MON directly              |
-| **Buy via Wallet App**           | Mobile-first users                                  | ✅ Yes                   | Some wallets offer in-app purchases |
-| **Bridge from Another Chain**    | Users with funds on Ethereum, BNB Chain, Base, etc. | ✅ Yes                   | Bring assets over to Monad          |
-
-Let’s go through them:
-
-#### I. **Buy MON from a Centralised Exchange (CEX)**
-
-If you're new to crypto or don’t yet have a wallet, buying MON from a **major exchange** is the most straightforward option.
-
-#### ✅ What you do:
-
-1. **Create an account** on a centralised exchange (e.g., Binance).
-2. **Buy MON** using fiat (USD, EUR, etc.) or other cryptocurrencies.
-3. **Withdraw MON** to your **self-custodial Monad wallet** to interact with dApps like PancakeSwap.
+* **Оплаты комиссий за газ** за любую транзакцию (обмены, добавление ликвидности и т. д.)
+* **Создания и управления позициями ликвидности** на PancakeSwap
+* **Взаимодействия с любым dApp на Monad**
 
 ***
 
-#### II. **Swap for MON on PancakeSwap (DEX)**
+### 2. **Основные способы получить MON**
 
-Already using Monad? If you have tokens like **USDC** or **USDT** on the Monad network, you can swap them directly for MON using **PancakeSwap**.
+Есть **четыре основных способа** получить MON в зависимости от твоей отправной точки и предпочтений.
 
-#### ✅ What you do:
+| Способ                                    | Лучше для                                                      | Нужен кошелёк?              | Примечания                                    |
+| ----------------------------------------- | -------------------------------------------------------------- | --------------------------- | --------------------------------------------- |
+| **Централизованные биржи (CEX)**          | Новичков или пользователей, покупающих за фиат                 | ✅ Да (для доступа к dApps) | Самый распространённый способ входа           |
+| **PancakeSwap (DEX)**                     | Пользователей DeFi с токенами на Monad                         | ✅ Да                       | Обменяй напрямую на MON                       |
+| **Покупка через приложение кошелька**     | Пользователей, предпочитающих мобильные устройства             | ✅ Да                       | Некоторые кошельки поддерживают покупку в приложении |
+| **Бриджинг из другой сети**               | Пользователей с активами на Ethereum, BNB Chain, Base и т. д. | ✅ Да                       | Перенеси активы в Monad                       |
 
-* Connect your wallet on Monad to PancakeSwap.
-* Go to the **Swap** page.
-* Swap your Monad-based token into MON.
+Разберём каждый способ:
 
-> 🧠 Note: You’ll still need a small amount of MON to pay for the swap itself. If you have zero MON, use the CEX or bridge method first.
+#### I. **Купить MON на централизованной бирже (CEX)**
 
-***
+Если ты новичок в криптовалюте или у тебя ещё нет кошелька, купить MON на **крупной бирже** — самый простой вариант.
 
-#### III. **Buy MON Directly From a Wallet App**
+#### ✅ Что делать:
 
-Some wallets support **in-app crypto purchases** using Apple Pay, Google Pay, credit card, or other providers like MoonPay.&#x20;
-
-#### ✅ What you do:
-
-1. Open your wallet.
-2. Tap "Buy" or "Buy Crypto".
-3. Select **MON**.
-4. Choose your payment method and follow the steps.
-
-This is a user-friendly option for mobile-first users who want to skip setting up an exchange account.
+1. **Создай аккаунт** на централизованной бирже (например, Binance).
+2. **Купи MON** за фиат (USD, EUR и т. д.) или другую криптовалюту.
+3. **Выведи MON** на свой **некастодиальный кошелёк Monad**, чтобы взаимодействовать с dApps, такими как PancakeSwap.
 
 ***
 
-#### IV. **Bridge MON from Another Blockchain**
+#### II. **Обменяй на MON в PancakeSwap (DEX)**
 
-Already have tokens on a different chain like **BNB Chain**, **Ethereum**, or **Base**? You can bring funds over to Solana using **bridging platforms**.
+Уже используешь Monad? Если у тебя есть токены, такие как **USDC** или **USDT**, в сети Monad, ты можешь обменять их напрямую на MON с помощью **PancakeSwap**.
 
-#### ✅ What you do:
+#### ✅ Что делать:
 
-1. Visit [https://monadbridge.com/](https://monadbridge.com/)
-2. Select your token and the chain you’re sending from.
-3. Choose **Monad** as your destination.
-4. Complete the bridge and receive the bridged token in your Monad wallet.
-5. Swap that token into **MON** using PancakeSwap.
+* Подключи кошелёк на Monad к PancakeSwap.
+* Перейди на страницу **Swap**.
+* Обменяй свой токен из сети Monad на MON.
+
+> 🧠 Примечание: тебе всё равно понадобится небольшое количество MON для оплаты самого обмена. Если у тебя нет MON, сначала воспользуйся CEX или мостом.
 
 ***
 
-### 3. **Final Tip**
+#### III. **Купить MON напрямую через приложение кошелька**
 
-Every Monad action — from swapping to providing liquidity — **requires MON for gas**. Always keep a little MON in your wallet after each transaction to avoid getting stuck.
+Некоторые кошельки поддерживают **покупку криптовалюты в приложении** с помощью Apple Pay, Google Pay, кредитной карты или других провайдеров, например MoonPay.&#x20;
 
+#### ✅ Что делать:
+
+1. Открой кошелёк.
+2. Нажми «Buy» или «Buy Crypto».
+3. Выбери **MON**.
+4. Выбери способ оплаты и следуй инструкциям.
+
+Это удобный вариант для пользователей мобильных устройств, которые хотят избежать регистрации на бирже.
+
+***
+
+#### IV. **Бриджинг MON из другого блокчейна**
+
+Уже есть токены в другой сети, например **BNB Chain**, **Ethereum** или **Base**? Ты можешь перевести средства в Monad с помощью **платформ бриджинга**.
+
+#### ✅ Что делать:
+
+1. Перейди на [https://monadbridge.com/](https://monadbridge.com/)
+2. Выбери токен и сеть, из которой выполняешь перевод.
+3. Выбери **Monad** в качестве пункта назначения.
+4. Завершите бридж и получи переведённый токен в кошелёк Monad.
+5. Обменяй этот токен на **MON** с помощью PancakeSwap.
+
+***
+
+### 3. **Финальный совет**
+
+Каждое действие на Monad — от обмена до предоставления ликвидности — **требует MON для оплаты газа**. Всегда держи немного MON в кошельке после каждой транзакции, чтобы не оказаться в затруднении.

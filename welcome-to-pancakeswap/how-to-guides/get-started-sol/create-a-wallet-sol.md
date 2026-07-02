@@ -1,120 +1,120 @@
-# Create a wallet (SOL)
+# Создание кошелька (SOL)
 
-### 1. **Why You Need a Wallet**
+### 1. **Зачем нужен кошелёк**
 
-To use **PancakeSwap on Solana**, you need a **crypto wallet** — it’s your personal vault for digital assets and your passport to DeFi. Without a wallet, you won’t be able to:
+Для использования **PancakeSwap на Solana** тебе нужен **криптокошелёк** — это твоё личное хранилище цифровых активов и твой паспорт в DeFi. Без кошелька ты не сможешь:
 
-* **Swap tokens** on Solana
-* **Provide liquidity** to PancakeSwap’s **V3 Pools** (our capital-efficient, concentrated liquidity model)
-* Interact with any dApp or store tokens on Solana
-
-***
-
-### 2. **Wallet Setup Essentials (Security First!)**
-
-Crypto wallets give you full control over your assets — but with great power comes great responsibility. Keep your wallet safe by following these best practices:
-
-| ✅ Do’s                                                                | ❌ Don’ts                                                 |
-| --------------------------------------------------------------------- | -------------------------------------------------------- |
-| ✅ **Download from official sources** (app stores, verified websites)  | ❌ Don’t install from random links or DMs                 |
-| ✅ **Follow the setup instructions** carefully                         | ❌ Don’t rush or skip the backup process                  |
-| ✅ **Back up your recovery phrase** and store it offline               | ❌ Don’t screenshot or store it on your phone or computer |
-| ✅ **Keep your phrase private** — it's your only way to recover access | ❌ Never share it, even if someone claims to be "support" |
-| ✅ Only enter your recovery phrase **inside the wallet app**           | ❌ Never input it into websites, popups, or other apps    |
-
-> 🧠 Your recovery phrase = access to your wallet
+* **Обменивать токены** на Solana
+* **Предоставлять ликвидность** в **пулы V3** PancakeSwap (наша модель концентрированной ликвидности с высокой эффективностью капитала)
+* Взаимодействовать с любым dApp или хранить токены на Solana
 
 ***
 
-### 3. **Choosing Your Wallet: Mobile vs. Desktop**
+### 2. **Основы безопасной настройки кошелька (сначала — безопасность!)**
 
-Not sure which type of wallet to use? Here’s a quick breakdown of mobile vs. desktop/web wallets so you can choose what fits your style:
+Криптокошельки дают тебе полный контроль над активами — но с большой силой приходит большая ответственность. Защити свой кошелёк, следуя этим рекомендациям:
 
-| Feature         | **Mobile Wallets**                 | **Browser/Desktop Wallets**            |
-| --------------- | ---------------------------------- | -------------------------------------- |
-| **Use case**    | Swap & track on-the-go             | Best for multitasking or deep dApp use |
-| **Ease of use** | Intuitive, beginner-friendly       | Lightweight extensions, quick access   |
-| **Security**    | Depends on phone security          | Easier hardware wallet integration     |
-| **Convenience** | All-in-one app                     | More manual, but powerful              |
-| **Best for...** | Casual users, mobile-first traders | Desktop users, more advanced flows     |
+| ✅ Что делать                                                                              | ❌ Чего не делать                                                      |
+| ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| ✅ **Скачивай из официальных источников** (магазины приложений, проверенные сайты)         | ❌ Не устанавливай по случайным ссылкам или из личных сообщений         |
+| ✅ **Внимательно следуй инструкциям по настройке**                                        | ❌ Не торопись и не пропускай процесс резервного копирования            |
+| ✅ **Сделай резервную копию фразы для восстановления** и храни её оффлайн                 | ❌ Не делай скриншоты и не храни её на телефоне или компьютере          |
+| ✅ **Держи свою фразу в тайне** — это единственный способ восстановить доступ             | ❌ Никогда не делись ею, даже если кто-то называет себя «поддержкой»    |
+| ✅ Вводи свою фразу для восстановления **только внутри приложения кошелька**              | ❌ Никогда не вводи её на сайтах, во всплывающих окнах или других приложениях |
 
-> 📱 Mobile wallets can offer a smoother experience for trading, managing portfolios, and browsing NFTs — all from your phone.
+> 🧠 Твоя фраза для восстановления = доступ к кошельку
 
 ***
 
-### 4. **Recommended Solana Wallets**
+### 3. **Выбор кошелька: мобильный или десктопный**
 
-> ⚠️ Note: These are some Solana-compatible wallets based on current ecosystem adoption. Always DYOR (Do Your Own Research).
+Не знаешь, какой тип кошелька выбрать? Вот краткое сравнение мобильных и десктопных/веб-кошельков, чтобы ты мог выбрать подходящий:
 
-#### ✅ **Multi-Platform Wallets (Mobile & Desktop)**
+| Характеристика  | **Мобильные кошельки**                      | **Браузерные/десктопные кошельки**            |
+| --------------- | ------------------------------------------- | --------------------------------------------- |
+| **Применение**  | Обмен и отслеживание на ходу                | Лучший выбор для многозадачности или глубокого использования dApp |
+| **Удобство**    | Интуитивный, подходит для новичков          | Лёгкие расширения, быстрый доступ             |
+| **Безопасность**| Зависит от безопасности телефона            | Проще интегрировать аппаратный кошелёк        |
+| **Комфорт**     | Приложение «всё в одном»                    | Более ручное, но мощное                       |
+| **Лучше для...** | Обычных пользователей, мобильных трейдеров | Пользователей десктопа, более продвинутых сценариев |
 
-Some popular wallets that you may use for the Solana ecosystem (not limited to):
+> 📱 Мобильные кошельки могут обеспечить более плавный опыт для торговли, управления портфелем и просмотра NFT — всё с телефона.
+
+***
+
+### 4. **Рекомендуемые кошельки для Solana**
+
+> ⚠️ Примечание: это некоторые совместимые с Solana кошельки на основе текущего распространения в экосистеме. Всегда делай собственное исследование (DYOR).
+
+#### ✅ **Кошельки для нескольких платформ (мобильные и десктопные)**
+
+Некоторые популярные кошельки для экосистемы Solana (перечень не исчерпывающий):
 
 * Phantom: [https://phantom.com/](https://phantom.com/)
 * Solflare: [https://www.solflare.com/](https://www.solflare.com/)
 
-Both Phantom and Solflare are available on:
+Оба — Phantom и Solflare — доступны для:
 
-* **iOS & Android apps**
-* **Web Browser extensions**
+* **Приложений iOS и Android**
+* **Расширений для веб-браузера**
 
 ***
 
-#### 🔌 **WalletConnect-Compatible Options**
+#### 🔌 **Совместимые с WalletConnect варианты**
 
-Using **WalletConnect**, you can connect other wallets to PancakeSwap on Solana — directly from desktop or mobile:
+С помощью **WalletConnect** ты можешь подключить другие кошельки к PancakeSwap на Solana — прямо с десктопа или мобильного устройства:
 
 * **Binance Wallet**
 * **OKX Wallet**
 * **Jupiter Wallet**
-* **Backpack,** and more
+* **Backpack** и другие
 
-> You’ll see a full list of supported wallets when connecting on the PancakeSwap UI via WalletConnect.
-
-***
-
-### 5. **General Wallet Setup Steps (Quick Guide)**
-
-No matter which wallet you choose, the process is generally similar:
-
-1. **Download** the wallet app or browser extension from its **official source**
-2. Launch the app and tap **“Create a new wallet”**
-   * (Or select **“Import”** if you already have one)
-3. Set a strong **password or PIN** (if required)
-4.  You’ll be shown a **recovery phrase** (12 or 24 words) —
-
-    → **Write it down and store it somewhere safe, offline**
-5. **Confirm your recovery phrase** to complete setup
-6.  **Fund your wallet with SOL**
-
-    → You’ll need **SOL** to pay for gas fees when swapping or adding liquidity on PancakeSwap
+> Полный список поддерживаемых кошельков ты увидишь при подключении в интерфейсе PancakeSwap через WalletConnect.
 
 ***
 
-> Why SOL?
->
-> SOL is the **native token of the Solana blockchain** — it’s used to pay for transaction fees.
->
-> Before you can interact with PancakeSwap, you’ll need to hold some SOL in your wallet.
+### 5. **Общие шаги по настройке кошелька (краткое руководство)**
 
-You can:
+Независимо от того, какой кошелёк ты выберешь, процесс в целом схож:
 
-* Buy SOL on a centralised exchange and transfer it in
-* Or bridge assets to Solana using a cross-chain bridge at [pancakeswap.finance/bridge](https://pancakeswap.finance/bridge)
+1. **Скачай** приложение кошелька или расширение для браузера из **официального источника**
+2. Запусти приложение и нажми **«Create a new wallet»**
+   * (Или выбери **«Import»**, если у тебя уже есть кошелёк)
+3. Установи надёжный **пароль или PIN** (если требуется)
+4.  Тебе покажут **фразу для восстановления** (12 или 24 слова) —
 
-View here to see how to [Get SOL](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-sol/get-sol)
+    → **Запиши её и храни в надёжном месте оффлайн**
+5. **Подтверди свою фразу для восстановления**, чтобы завершить настройку
+6.  **Пополни кошелёк токенами SOL**
+
+    → Тебе понадобятся **SOL** для оплаты комиссий за газ при обмене или добавлении ликвидности на PancakeSwap
 
 ***
 
-### Ready for the Next Step?
-
-Once your wallet is set up and funded with SOL, you’re ready to:
-
-* **Swap tokens** using PancakeSwap on Solana:
-* **Add liquidity to V3 Pools** and start earning:
-
-> 💡 What are V3 Pools?
+> Зачем SOL?
 >
-> PancakeSwap V3 uses a **concentrated liquidity** model, designed to maximise capital efficiency.
+> SOL — **нативный токен блокчейна Solana** — используется для оплаты комиссий за транзакции.
 >
-> Want to learn more? Check out the [Liquidity Pools](https://docs.pancakeswap.finance/earn/pancakeswap-pools) section.
+> Прежде чем взаимодействовать с PancakeSwap, тебе нужно иметь немного SOL в кошельке.
+
+Ты можешь:
+
+* Купить SOL на централизованной бирже и перевести его на кошелёк
+* Или перевести активы в Solana через межсетевой мост на [pancakeswap.finance/bridge](https://pancakeswap.finance/bridge)
+
+Смотри здесь, как [получить SOL](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-sol/get-sol)
+
+***
+
+### Готов к следующему шагу?
+
+После настройки кошелька и пополнения его токенами SOL ты готов:
+
+* **Обменивать токены** с помощью PancakeSwap на Solana:
+* **Добавлять ликвидность в пулы V3** и начать зарабатывать:
+
+> 💡 Что такое пулы V3?
+>
+> PancakeSwap V3 использует модель **концентрированной ликвидности**, разработанную для максимизации эффективности капитала.
+>
+> Хочешь узнать больше? Ознакомься с разделом [Пулы ликвидности](https://docs.pancakeswap.finance/earn/pancakeswap-pools).

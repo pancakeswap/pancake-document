@@ -1,23 +1,23 @@
 # 🥞 Syrup Pools
 
-For more information about our token distribution programs (“[Syrup Pools](https://pancakeswap.finance/pools)”), please view this PDF:
+Для получения дополнительной информации о наших программах распределения токенов ("[Syrup Pools](https://pancakeswap.finance/pools)"), ознакомься с этим PDF:
 
 {% file src="../../../.gitbook/assets/PancakeSwap Syrup Pool One-Pager.pdf" %}
 
-#### Example of a Syrup Pool process
+#### Пример процесса Syrup Pool
 
-1. Initial Outreach
-   * **Apply via our form** [**here**](https://docs.google.com/forms/d/e/1FAIpQLSf1kMALRQPRp7toeLLHB4opo3TU8K1NPYwaKMy8zGF6RoOgFA/viewform) **- (Average time to fill up form: ≤8 minutes)**
-2. Due Diligence
-   * Using the information in the form, we would clarify some points
-   * The team passes due diligence – congrats!
-3. Marketing Preparation
-   * We ask for some design assets, some project info, and create a lovely banner (PEAQ example below)
-4. Launch
-   * We launch the Syrup Pool, and you welcome thousands of new users to your project :)
-   * We will also publish some socials on our [Twitter](https://x.com/PancakeSwap/status/1945140616293167184) and [Telegram](https://t.me/PancakeSwapAnn/6392)
-5. Post-Launch
-   * We will continue to stay in touch, and work together whenever possible
+1. Первоначальное обращение
+   * **Подай заявку через нашу форму** [**здесь**](https://docs.google.com/forms/d/e/1FAIpQLSf1kMALRQPRp7toeLLHB4opo3TU8K1NPYwaKMy8zGF6RoOgFA/viewform) **— (Среднее время заполнения формы: ≤8 минут)**
+2. Проверка благонадёжности
+   * Используя информацию из формы, мы уточним некоторые моменты
+   * Команда проходит проверку — поздравляем!
+3. Подготовка к маркетингу
+   * Мы запросим некоторые дизайн-материалы, информацию о проекте и создадим красивый баннер (пример PEAQ ниже)
+4. Запуск
+   * Мы запускаем Syrup Pool, и тысячи новых пользователей приходят в твой проект :)
+   * Мы также опубликуем записи в соцсетях в нашем [Twitter](https://x.com/PancakeSwap/status/1945140616293167184) и [Telegram](https://t.me/PancakeSwapAnn/6392)
+5. После запуска
+   * Мы продолжим поддерживать связь и сотрудничать везде, где это возможно
 
 <div align="left"><figure><img src="../../../.gitbook/assets/image (417).png" alt=""><figcaption></figcaption></figure></div>
 

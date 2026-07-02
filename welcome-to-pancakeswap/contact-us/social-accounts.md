@@ -1,10 +1,10 @@
-# Social Accounts
+# Социальные сети
 
 ## 🐦 X (Twitter)
 
 [https://twitter.com/pancakeswap](https://twitter.com/pancakeswap)
 
-## 📰 Blog
+## 📰 Блог
 
 [https://blog.pancakeswap.finance/](https://blog.pancakeswap.finance/)
 
@@ -19,9 +19,9 @@
 {% hint style="danger" %}
 
 
-Nobody from PancakeSwap will EVER send you a direct message. If anybody approaches you directly on e.g. Telegram pretending to represent customer support, please block them and report spam.
+Никто из команды PancakeSwap НИКОГДА не будет отправлять тебе личные сообщения. Если кто-то обращается к тебе напрямую, например в Telegram, представляясь службой поддержки клиентов, заблокируй их и сообщи о спаме.
 {% endhint %}
 
 {% hint style="danger" %}
-**NEVER, under any situation, should you ever give someone your private key or recovery phrases. Immediately block and report anyone that asks for them.**
+**НИКОГДА, ни при каких обстоятельствах, не передавай кому-либо свой приватный ключ или фразы восстановления. Немедленно блокируй и сообщай о любом, кто их запрашивает.**
 {% endhint %}

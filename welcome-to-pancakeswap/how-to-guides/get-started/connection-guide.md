@@ -1,75 +1,75 @@
-# Connect Your Wallet to PancakeSwap
+# Подключение кошелька к PancakeSwap
 
-![](../../../.gitbook/assets/how-to-connect-wallet-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-connect-wallet-header.png)
 
-You've made a wallet and gotten your BEP20 tokens, now you just need to connect your wallet with PancakeSwap and you're good to go!
+Ты создал кошелёк и получил BEP20 токены, теперь осталось только подключить кошелёк к PancakeSwap — и можно начинать!
 
-Check out the steps below for how to connect each of our recommended wallets to PancakeSwap.
+Ниже приведены шаги по подключению каждого из наших рекомендуемых кошельков к PancakeSwap.
 
-## Smartphone/Mobile
+## Смартфон/Мобильный
 
 {% tabs %}
 {% tab title="Trust Wallet" %}
-![](<../../../.gitbook/assets/image (67).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2867%29.png)
 
-To connect Trust Wallet follow the steps below. Note that Android and iOS devices do not use the same steps!
+Чтобы подключить Trust Wallet, следуй шагам ниже. Обрати внимание: на Android и iOS шаги различаются!
 
 **Android**
 
-1. Open Trust Wallet and tap the **DApps** button on the bottom of the screen.
+1. Открой Trust Wallet и нажми кнопку **DApps** в нижней части экрана.
 
-![](<../../../.gitbook/assets/image (174).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28174%29.png)
 
-1. Scroll down to "Popular" and tap on "PancakeSwap". You can also find it in "Exchanges".
+1. Пролистай вниз до «Popular» и нажми «PancakeSwap». Также можно найти его в разделе «Exchanges».
 
-![](<../../../.gitbook/assets/image (121).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28121%29.png)
 
-1. A new page will open with the PancakeSwap logo and some information. Tap the **Connect** button.
+1. Откроется новая страница с логотипом PancakeSwap и некоторой информацией. Нажми кнопку **Connect**.
 
-![](<../../../.gitbook/assets/image (24).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2824%29.png)
 
-1. PancakeSwap will open up. If you see a **Connect** button in the top-right tap that and tap **Trust Wallet** from the list.
+1. Откроется PancakeSwap. Если в правом верхнем углу ты видишь кнопку **Connect**, нажми её и выбери **Trust Wallet** из списка.
 
 {% hint style="warning" %}
-If you find you are unable to connect at step 4, go back to the DApps menu and find "PancakeSwap" again. Using "Pancake Swap" from the "History" section may result in the same problem.
+Если на шаге 4 не удаётся подключиться, вернись в меню DApps и снова найди «PancakeSwap». Использование «Pancake Swap» из раздела «History» может привести к той же проблеме.
 {% endhint %}
 
 **iOS**
 
-To connect to PancakeSwap through iOS, Trust Wallet have prepared a detailed guide on using WallteConnect.
+Для подключения к PancakeSwap через iOS Trust Wallet подготовил подробное руководство по использованию WalletConnect.
 
-Read the [Trust Wallet guide to connecting to PancakeSwap via WalletConnect](https://community.trustwallet.com/t/using-walletconnect-to-access-pancakeswap/212307).
+Прочитай [руководство Trust Wallet по подключению к PancakeSwap через WalletConnect](https://community.trustwallet.com/t/using-walletconnect-to-access-pancakeswap/212307).
 
-**Resources**
+**Ресурсы**
 
-[**Download Trust Wallet**](https://trustwallet.com) (Automatically detects device)\
-[**Trust Wallet Setup Guide**](https://www.binance.com/en/blog/421499824684901157/how-to-set-up-and-use-trust-wallet-for-binance-smart-chain)
+[**Скачать Trust Wallet**](https://trustwallet.com) (автоматически определяет устройство)\
+[**Руководство по настройке Trust Wallet**](https://www.binance.com/en/blog/421499824684901157/how-to-set-up-and-use-trust-wallet-for-binance-smart-chain)
 {% endtab %}
 
 {% tab title="MetaMask" %}
-![](<../../../.gitbook/assets/image (33) (3).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2833%29%20%283%29.png)
 
-To connect MetaMask to PancakeSwap follow the steps below.
+Чтобы подключить MetaMask к PancakeSwap, следуй шагам ниже.
 
-**Android and iOS**
+**Android и iOS**
 
-1. Open MetaMask and tap on the **burger icon** in the top-left.
+1. Открой MetaMask и нажми на **иконку меню** в верхнем левом углу.
 
-![](<../../../.gitbook/assets/image (65).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2865%29.png)
 
-1. Tap **Settings** in the menu.
+1. Нажми **Settings** в меню.
 
-![](<../../../.gitbook/assets/image (318).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28318%29.png)
 
-1. In the Settings menu, tap on **Network**.
+1. В меню Settings нажми **Network**.
 
-![](<../../../.gitbook/assets/image (28).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2828%29.png)
 
-1. Tap on the **Add Network** button at the bottom.
+1. Нажми кнопку **Add Network** внизу.
 
-![](<../../../.gitbook/assets/image (63).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2863%29.png)
 
-1. On the page that opens, type in the following details:
+1. На открывшейся странице введи следующие данные:
 
 **Network Name:** BNB Smart Chain\
 **RPC Url:** [https://bsc-dataseed.binance.org](https://bsc-dataseed.binance.org)\
@@ -77,108 +77,108 @@ To connect MetaMask to PancakeSwap follow the steps below.
 **Symbol:** BNB\
 **Block Explorer URL:** [http://bscscan.com](http://bscscan.com)
 
-1. Once you've confirmed entry of the new network, go back to the burger menu and tap **Browser**.
+1. После подтверждения добавления новой сети вернись в меню и нажми **Browser**.
 
-![](<../../../.gitbook/assets/image (153).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28153%29.png)
 
-1. Type "PancakeSwap" into the search field and start the search. The top result will be the PancakeSwap exchange. Tap to enter it.
-2. You wallet will ask you to connect. Tap **Connect** to connect to PancakeSwap.
+1. Введи «PancakeSwap» в поле поиска и выполни поиск. Первым результатом будет биржа PancakeSwap. Нажми для перехода.
+2. Кошелёк попросит подключиться. Нажми **Connect** для подключения к PancakeSwap.
 
-![](<../../../.gitbook/assets/image (184).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28184%29.png)
 
-**Resources**
+**Ресурсы**
 
-[**Download MetaMask**](https://metamask.io/download.html) (Automatically detects device)\
-[**MetaMask Setup Guide**](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain\))
+[**Скачать MetaMask**](https://metamask.io/download.html) (автоматически определяет устройство)\
+[**Руководство по настройке MetaMask**](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain\))
 {% endtab %}
 
 {% tab title="Coinbase Wallet" %}
-![](../../../.gitbook/assets/coinbase_wallet_wordmark_blue.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/coinbase_wallet_wordmark_blue.png)
 
-1. Open Coinbase Wallet and tap on the **settings icon** in the bottom-right.\
-   ![](../../../.gitbook/assets/CB-M-p1.png)\
-   ![](../../../.gitbook/assets/CB-M-p1_5.png)
-2. In the Settings menu, tap on **Default Network**.\
-   ![](../../../.gitbook/assets/CB-M-p2.png)
-3. Choose **Binance Smart Chain** from the list of network options.\
-   ![](../../../.gitbook/assets/CB-M-p3.png)
-4. Once you've selected the Binance Smart Chain network, click the **Browser Icon** at the bottom-middle of your app.\
-   ![](../../../.gitbook/assets/CB-M-p4.png)\
-   ![](../../../.gitbook/assets/CB-M-p5.png)
-5. Type "PancakeSwap.finance" into the search field and start the search.\
-   ![](../../../.gitbook/assets/CB-M-p6.png)
-6. Click **Connect** **Wallet** to connect to Coinbase Wallet.\
-   ![](../../../.gitbook/assets/CB-M-p7.png)
+1. Открой Coinbase Wallet и нажми на **значок настроек** в правом нижнем углу.\
+   ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/CB-M-p1.png)\
+   ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/CB-M-p1_5.png)
+2. В меню Settings нажми **Default Network**.\
+   ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/CB-M-p2.png)
+3. Выбери **Binance Smart Chain** из списка сетей.\
+   ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/CB-M-p3.png)
+4. После выбора сети Binance Smart Chain нажми **Browser Icon** в нижней части приложения.\
+   ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/CB-M-p4.png)\
+   ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/CB-M-p5.png)
+5. Введи «PancakeSwap.finance» в поле поиска и выполни поиск.\
+   ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/CB-M-p6.png)
+6. Нажми **Connect Wallet** для подключения к Coinbase Wallet.\
+   ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/CB-M-p7.png)
 
-**Resources**
+**Ресурсы**
 
-[**Download Coinbase Wallet**](https://coinbase-wallet.onelink.me/q5Sx/fdb9b250) **(Automatically detects device)**
+[**Скачать Coinbase Wallet**](https://coinbase-wallet.onelink.me/q5Sx/fdb9b250) **(автоматически определяет устройство)**
 
-[**Coinbase Wallet Setup Guide**](https://www.coinbase.com/wallet/getting-started-mobile)
+[**Руководство по настройке Coinbase Wallet**](https://www.coinbase.com/wallet/getting-started-mobile)
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](<../../../.gitbook/assets/image (125) (3).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28125%29%20%283%29.png)
 
-Token Pocket is a cryptocurrency management app that natively supports many cryptocurrency networks. It also has a desktop application available.
+Token Pocket — приложение для управления криптовалютой с нативной поддержкой многих сетей. Также доступна десктопная версия.
 
-**Android and iOS**
+**Android и iOS**
 
-1. Tap the **Discover** button on the bottom of the main screen.
+1. Нажми кнопку **Discover** в нижней части главного экрана.
 
-![](<../../../.gitbook/assets/image (170).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28170%29.png)
 
-1. You'll see a DApp browser page open. Under "Recommended", find and tap the **PancakeSwap** button. If you can't see PancakeSwap under Recommended, you can also find it under "BSC".
+1. Откроется браузер DApp. В разделе «Recommended» найди и нажми кнопку **PancakeSwap**. Если PancakeSwap не виден в «Recommended», его также можно найти в разделе «BSC».
 
-![](<../../../.gitbook/assets/image (250).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28250%29.png)
 
-1. A window will open saying that you will be opening a third party DApp. Tap **I got it** and you'll be taken to PancakeSwap's website connected to your wallet.
+1. Откроется окно с сообщением о том, что ты открываешь сторонний DApp. Нажми **I got it** — ты будешь перенаправлен на сайт PancakeSwap с подключённым кошельком.
 
-![](<../../../.gitbook/assets/image (320).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28320%29.png)
 
-**Resources**\
-[**Download Token Pocket App**](https://www.tokenpocket.pro/en/download/app) (Automatically detects device)\
-**Token Pocket Mobile Setup Guide**
+**Ресурсы**\
+[**Скачать Token Pocket App**](https://www.tokenpocket.pro/en/download/app) (автоматически определяет устройство)\
+**Руководство по настройке Token Pocket Mobile**
 {% endtab %}
 
 {% tab title="SafePal" %}
-![](<../../../.gitbook/assets/image (97).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2897%29.png)
 
-SafePal is available as both a software and hardware wallet. The wallet is easy to install and create, and comes ready to support BEP2 (Binance Chain) and BEP20 (BNB Smart Chain) right away.
+SafePal доступен как программный, так и аппаратный кошелёк. Кошелёк легко установить и создать, он сразу поддерживает BEP2 (Binance Chain) и BEP20 (BNB Smart Chain).
 
-**Android and iOS**
+**Android и iOS**
 
-1. Tap the **4 squares** icon button on the bottom of the main screen.
+1. Нажми кнопку **4 квадрата** в нижней части главного экрана.
 
-![](<../../../.gitbook/assets/image (150).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28150%29.png)
 
-1. You'll see a DApp browser page open. Under "DeFi", find and tap the **PancakeSwap** button. If you can't see PancakeSwap under DeFi, you can also find it under "BSC".
+1. Откроется браузер DApp. В разделе «DeFi» найди и нажми кнопку **PancakeSwap**. Если PancakeSwap не виден в «DeFi», его также можно найти в разделе «BSC».
 
-![](<../../../.gitbook/assets/image (167).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28167%29.png)
 
-1. A window will open saying that you will be opening a third party DApp. Tap **Confirm** and you'll be taken to PancakeSwap's website connected to your wallet.
+1. Откроется окно с сообщением о том, что ты открываешь сторонний DApp. Нажми **Confirm** — ты будешь перенаправлен на сайт PancakeSwap с подключённым кошельком.
 
-![](<../../../.gitbook/assets/image (223).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28223%29.png)
 
-**Resources**\
-​[**Download SafePal**](https://safepal.io/download) (Automatically detects device)\
-[**SafePal Setup Guide**](https://blog.safepal.io/binance-smart-chain-x-safepal/)
+**Ресурсы**\
+​[**Скачать SafePal**](https://safepal.io/download) (автоматически определяет устройство)\
+[**Руководство по настройке SafePal**](https://blog.safepal.io/binance-smart-chain-x-safepal/)
 {% endtab %}
 {% endtabs %}
 
-## **Desktop/Web Browser wallets**
+## **Десктопные кошельки / расширения для браузера**
 
 {% tabs %}
 {% tab title="MetaMask" %}
-![](<../../../.gitbook/assets/image (33) (3).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2833%29%20%283%29.png)
 
-**Chrome and Firefox**
+**Chrome и Firefox**
 
-1. Open MetaMask and click on the **network selector** at the top. By default it will show "Ethereum Mainnet". Scroll down and click **Custom RPC**.
+1. Открой MetaMask и нажми на **выбор сети** вверху. По умолчанию будет показана «Ethereum Mainnet». Пролистай вниз и нажми **Custom RPC**.
 
-![](<../../../.gitbook/assets/image (115).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28115%29.png)
 
-1. A window will open. Type in the details below.
+1. Откроется окно. Введи следующие данные.
 
 **Network Name:** BNB Smart Chain\
 **New RPC URL:** [https://bsc-dataseed.binance.org](https://bsc-dataseed.binance.org)\
@@ -186,100 +186,100 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 **Currency Symbol (optional):** BNB\
 **Block Explorer URL (optional):** [http://bscscan.com](http://bscscan.com)
 
-![](<../../../.gitbook/assets/image (246).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28246%29.png)
 
-1. Make sure you've typed everything in correctly and click **Save**. BNB Smart Chain will now be one of your network options.
+1. Убедись, что всё введено верно, и нажми **Save**. BNB Smart Chain теперь будет одним из вариантов сети.
 
-![](<../../../.gitbook/assets/image (130).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28130%29.png)
 
-1. Visit the [PancakeSwap website](https://pancakeswap.finance). In the top right corner you'll see the **Connect** button. Click it.
+1. Зайди на [сайт PancakeSwap](https://pancakeswap.finance). В правом верхнем углу увидишь кнопку **Connect**. Нажми её.
 
-![](<../../../.gitbook/assets/image (164) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28164%29%20%281%29.png)
 
-1. A window will appear asking you to choose a wallet to connect to. Click **MetaMask** (it's the top option on the list).
+1. Появится окно с выбором кошелька для подключения. Нажми **MetaMask** (это первый вариант в списке).
 
-![](<../../../.gitbook/assets/image (270).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28270%29.png)
 
-**Resources**
+**Ресурсы**
 
-[**Download MetaMask**](https://metamask.io/download.html) (Automatically detects browser)\
-[**MetaMask Setup Guide**](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
+[**Скачать MetaMask**](https://metamask.io/download.html) (автоматически определяет браузер)\
+[**Руководство по настройке MetaMask**](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
 {% endtab %}
 
 {% tab title="Binance Wallet" %}
-![](<../../../.gitbook/assets/image (255).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28255%29.png)
 
-**Chrome and Firefox**
+**Chrome и Firefox**
 
-1. Open Binance Chain Wallet and click on the network selector at the top. The default network will be Binance Chain. Choose **BNB Smart Chain** from the list.
+1. Открой Binance Chain Wallet и нажми на выбор сети вверху. По умолчанию будет Binance Chain. Выбери **BNB Smart Chain** из списка.
 
-![](<../../../.gitbook/assets/image (54).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2854%29.png)
 
-1. Visit the PancakeSwap website. In the top-right, click **Connect**.
+1. Зайди на сайт PancakeSwap. В правом верхнем углу нажми **Connect**.
 
-![](<../../../.gitbook/assets/image (164) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28164%29%20%281%29.png)
 
-1. A window will appear asking you to choose a wallet to connect to. Click **Binance Chain Wallet** (it's farther down the list).
+1. Появится окно с выбором кошелька для подключения. Нажми **Binance Chain Wallet** (он расположен ниже в списке).
 
-![](<../../../.gitbook/assets/image (117).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28117%29.png)
 
-**Resources**
+**Ресурсы**
 
-[**Download Binance Wallet**](https://www.binance.org/en) (Automatically detects browser)\
-**Binance Wallet Setup Guide**
+[**Скачать Binance Wallet**](https://www.binance.org/en) (автоматически определяет браузер)\
+**Руководство по настройке Binance Wallet**
 {% endtab %}
 
 {% tab title="Coinbase Wallet" %}
-![](../../../.gitbook/assets/coinbase_wallet_wordmark_blue.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/coinbase_wallet_wordmark_blue.png)
 
-1. Open Coinbase Wallet and click on the **Settings** icon at the top-right. By default it will show "Ethereum Mainnet" as the Default Network.\
-   ![](../../../.gitbook/assets/cb-desktop-1.png)
-2. Click on **Default Network** and choose **Binance Smart Chain**\
-   ![](../../../.gitbook/assets/cb-desktop-2.png)
-3. Binance Smart Chain will now be your Default Network.
-4. Visit the[ ](https://pancakeswap.finance)[pancakeswap.finance](https://pancakeswap.finance), In the top right corner you'll see the **Connect** button. Click it.\
-   ![](../../../.gitbook/assets/cb-desktop-3.png)
-5. A window will appear asking you to choose a wallet to connect to. Click **Coinbase Wallet** (it's the top option on the list).\
-   ![](../../../.gitbook/assets/cb-desktop-4.png)
+1. Открой Coinbase Wallet и нажми значок **Settings** в правом верхнем углу. По умолчанию в качестве сети будет показана «Ethereum Mainnet».\
+   ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/cb-desktop-1.png)
+2. Нажми **Default Network** и выбери **Binance Smart Chain**\
+   ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/cb-desktop-2.png)
+3. Теперь Binance Smart Chain будет твоей сетью по умолчанию.
+4. Зайди на[ ](https://pancakeswap.finance)[pancakeswap.finance](https://pancakeswap.finance). В правом верхнем углу увидишь кнопку **Connect**. Нажми её.\
+   ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/cb-desktop-3.png)
+5. Появится окно с выбором кошелька для подключения. Нажми **Coinbase Wallet** (это первый вариант в списке).\
+   ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/cb-desktop-4.png)
 
-**Resources**
+**Ресурсы**
 
-[**Download Coinbase Wallet**](https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad?hl=en\&authuser=0)[ ](https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad?hl=en\&authuser=0)(Chrome Only)
+[**Скачать Coinbase Wallet**](https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad?hl=en\&authuser=0)[ ](https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad?hl=en\&authuser=0)(только Chrome)
 
-[**Coinbase Wallet Setup Guide**](https://www.coinbase.com/wallet/getting-started-extension)
+[**Руководство по настройке Coinbase Wallet**](https://www.coinbase.com/wallet/getting-started-extension)
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](<../../../.gitbook/assets/image (125) (3).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28125%29%20%283%29.png)
 
-**Desktop Application**
+**Десктопное приложение**
 
-1. When you open the application, DApps should be the default page (if not, click to the DApps page).
-2. Half way down the page you'll see a list of networks to choose from. Click **BSC**.
+1. При открытии приложения по умолчанию должна открываться страница DApps (если нет, перейди на неё).
+2. В середине страницы увидишь список сетей. Нажми **BSC**.
 
-![](<../../../.gitbook/assets/image (260).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28260%29.png)
 
-1. On the list of BSC DApps, you'll find PancakeSwap links. Click a **PancakeSwap** link.
+1. В списке BSC DApps найдёшь ссылки PancakeSwap. Нажми ссылку **PancakeSwap**.
 
-![](<../../../.gitbook/assets/image (290).png>)
-
-{% hint style="warning" %}
-Make sure you don't choose the "PancakeSwap data analysis" option. If you do, you will not be able to connect.
-{% endhint %}
-
-1. Your browser will open a PancakeSwap tab and attempt to connect to Token Pocket.
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28290%29.png)
 
 {% hint style="warning" %}
-You will not be able to use both MetaMask and TokenPocket connecting through the same web browser. Make sure you use a web browser without MetaMask plugin installed if you're using TokenPocket on your desktop computer.
+Убедись, что ты не выбираешь вариант «PancakeSwap data analysis». Если выберешь, подключиться не удастся.
 {% endhint %}
 
-**Resources**
+1. В браузере откроется вкладка PancakeSwap и начнётся попытка подключения к Token Pocket.
 
-[**Download Token Pocket Desktop Wallet**](https://www.tokenpocket.pro/en/download/pc) (MacOS or Win64)\
-**Token Pocket Desktop Setup Guide**
+{% hint style="warning" %}
+Нельзя одновременно использовать MetaMask и TokenPocket в одном браузере. Убедись, что используешь браузер без установленного плагина MetaMask, если используешь TokenPocket на десктопе.
+{% endhint %}
+
+**Ресурсы**
+
+[**Скачать Token Pocket Desktop Wallet**](https://www.tokenpocket.pro/en/download/pc) (MacOS или Win64)\
+**Руководство по настройке Token Pocket Desktop**
 {% endtab %}
 {% endtabs %}
 
 {% hint style="danger" %}
-**Remember - NEVER, under any situation, should you ever give someone your private key or recovery phrases.**
+**Помни — НИКОГДА, ни при каких обстоятельствах не сообщай кому-либо свой приватный ключ или фразы для восстановления.**
 {% endhint %}

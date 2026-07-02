@@ -1,71 +1,71 @@
 ---
-description: veCAKE Staking and Farming Boost
+description: Стейкинг veCAKE и буст фарминга
 ---
 
-# How to use the new bCAKE
+# Как использовать новый bCAKE
 
-<figure><img src="../../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2887%29.png" alt=""><figcaption></figcaption></figure>
 
-Like iCAKE and vCAKE, bCAKE is a veCAKE staking benefit designed for our loyal CAKE holders. By locking CAKE, you get veCAKE, which automatically gives you bCAKE. You can boost earning from selected farms up to 2.5x.
+Как и iCAKE и vCAKE, bCAKE — это преимущество стейкинга veCAKE, разработанное для преданных держателей CAKE. Блокируя CAKE, ты получаешь veCAKE, который автоматически даёт тебе bCAKE. Ты можешь увеличить доходность из выбранных ферм до 2,5x.
 
-The boost multiplier is calculated based on your veCAKE balance, and how much liquidity in the farm you are trying to boost.
+Мультипликатор буста рассчитывается на основе твоего баланса veCAKE и количества ликвидности в ферме, которую ты хочешь забустить.
 
-## Preparations <a href="#id-9ad80126-6efe-49c2-b203-3590093b92d6" id="id-9ad80126-6efe-49c2-b203-3590093b92d6"></a>
+## Подготовка <a href="#id-9ad80126-6efe-49c2-b203-3590093b92d6" id="id-9ad80126-6efe-49c2-b203-3590093b92d6"></a>
 
-#### **Initiate a fixed-term veCAKE staking position** <a href="#id-3e485cf0-a9c5-408d-ab19-3ad2a7852589" id="id-3e485cf0-a9c5-408d-ab19-3ad2a7852589"></a>
+#### **Создай фиксированную позицию стейкинга veCAKE** <a href="#id-3e485cf0-a9c5-408d-ab19-3ad2a7852589" id="id-3e485cf0-a9c5-408d-ab19-3ad2a7852589"></a>
 
-![](<../../../.gitbook/assets/image (78).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2878%29.png)
 
-If you haven't locked any CAKE in the veCAKE pool, click "Go to Pool" and follow the instructions to initiate a fixed-term staking position.
+Если ты ещё не заблокировал CAKE в пуле veCAKE, нажми «Go to Pool» и следуй инструкциям для создания фиксированной позиции стейкинга.
 
-To learn more about how to initiate a veCAKE staking position, read [here](https://docs.pancakeswap.finance/products/syrup-pool/new-cake-pool#fixed-term-staking).
+Чтобы узнать больше о создании позиции стейкинга veCAKE, читай [здесь](https://docs.pancakeswap.finance/products/syrup-pool/new-cake-pool#fixed-term-staking).
 
-#### Locate the farm and the position you want to boost <a href="#cf04ee3e-9678-4fc4-bf79-dcc5620a83fd" id="cf04ee3e-9678-4fc4-bf79-dcc5620a83fd"></a>
+#### Найди ферму и позицию, которую хочешь забустить <a href="#cf04ee3e-9678-4fc4-bf79-dcc5620a83fd" id="cf04ee3e-9678-4fc4-bf79-dcc5620a83fd"></a>
 
-You can only boost your earning from farms with bCAKE enabled. To look for those farms, check the APR section and look for a green APR figure with a green rocket icon.
+Ты можешь бустить доходность только из ферм с включённым bCAKE. Для поиска таких ферм проверь раздел APR и ищи зелёную цифру APR с иконкой зелёной ракеты.
 
-![](<../../../.gitbook/assets/image (83).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2883%29.png)
 
-Alternatively, use the “Booster Available” filter within the “Farm Types” selector to quickly filter all the bCAKE-enabled farms.
+Или используй фильтр «Booster Available» в селекторе «Farm Types», чтобы быстро найти все фермы с включённым bCAKE.
 
-![](<../../../.gitbook/assets/image (76).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2876%29.png)
 
-#### Stake your position
+#### Застейкай свою позицию
 
-In order to activate bCAKE, your position must be staking in the farm.
+Для активации bCAKE твоя позиция должна быть в стейкинге в ферме.
 
-* For V3: stake your LP position by clicking “Stake”.
-* For V2 and StableSwap: stake your LP token by clicking “Add LP”.
-* For Position Managers: add liquidity by clicking “Add Liquidity”.
+* Для V3: застейкай позицию LP, нажав «Stake».
+* Для V2 и StableSwap: застейкай токен LP, нажав «Add LP».
+* Для менеджеров позиций: добавь ликвидность, нажав «Add Liquidity».
 
-To learn more about yield farming, check out [this](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) tutorial.
+Чтобы узнать больше о Yield Farming, смотри [это](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) руководство.
 
-#### Activate bCAKE <a href="#b3a80f22-5043-4e4b-afae-93b4abec504e" id="b3a80f22-5043-4e4b-afae-93b4abec504e"></a>
+#### Активируй bCAKE <a href="#b3a80f22-5043-4e4b-afae-93b4abec504e" id="b3a80f22-5043-4e4b-afae-93b4abec504e"></a>
 
-bCAKE activation is now fully automatic.&#x20;
+Активация bCAKE теперь полностью автоматическая.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Frame 883379190.png" alt="" width="174"><figcaption><p>V3 Farm</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Frame%20883379190.png" alt="" width="174"><figcaption><p>Ферма V3</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Connected - Has LP - Has veCAKE - Boosted automatically.png" alt="" width="174"><figcaption><p>V2, StableSwap</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Connected%20-%20Has%20LP%20-%20Has%20veCAKE%20-%20Boosted%20automatically.png" alt="" width="174"><figcaption><p>V2, StableSwap</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Connected - Has liquidity - Has veCAKE - Boosted automatically.png" alt="" width="174"><figcaption><p>Position Manager</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Connected%20-%20Has%20liquidity%20-%20Has%20veCAKE%20-%20Boosted%20automatically.png" alt="" width="174"><figcaption><p>Менеджер позиций</p></figcaption></figure>
 
-Once staked, you should see the applied boost multiplier for the farm you are currently staking. To learn more about how the bCAKE multiplier is calculated, read [here](https://docs.pancakeswap.finance/products/yield-farming/bcake/faq#why-do-my-multipliers-change-even-after-activation).
+После стейкинга ты увидишь применённый мультипликатор буста для фермы, в которой сейчас стейкаешь. Чтобы узнать больше о том, как рассчитывается мультипликатор bCAKE, читай [здесь](https://docs.pancakeswap.finance/products/yield-farming/bcake/faq#why-do-my-multipliers-change-even-after-activation).
 
 {% hint style="info" %}
-Please note that any user actions to the farming position or veCAKE staking will automatically update your boost multiplier based on the latest data and statistics from farms and the CAKE staking pool.
+Обрати внимание, что любые действия пользователя с позицией фарминга или стейкингом veCAKE автоматически обновят твой мультипликатор буста на основе актуальных данных и статистики ферм и пула стейкинга CAKE.
 
-Learn more [here](https://docs.pancakeswap.finance/products/yield-farming/bcake/faq#why-do-my-multipliers-change-even-after-activation).
+Узнай больше [здесь](https://docs.pancakeswap.finance/products/yield-farming/bcake/faq#why-do-my-multipliers-change-even-after-activation).
 {% endhint %}
 
-There is no longer a limit to the number of farming positions that are able to boost simultaneously. As long as the veCAKE staking position is active, you may boost an unlimited number of farms, and position managers position.
+Больше нет ограничений на количество позиций фарминга, которые можно бустить одновременно. Пока позиция стейкинга veCAKE активна, ты можешь бустить неограниченное количество ферм и позиций менеджеров позиций.
 
-#### Unset bCAKE <a href="#id-6fa438f5-eea6-4d66-9b56-24780cedd273" id="id-6fa438f5-eea6-4d66-9b56-24780cedd273"></a>
+#### Отключи bCAKE <a href="#id-6fa438f5-eea6-4d66-9b56-24780cedd273" id="id-6fa438f5-eea6-4d66-9b56-24780cedd273"></a>
 
-bCAKE unset is now also fully automatic.
+Отключение bCAKE теперь тоже полностью автоматическое.
 
-To unset bCAKE boost, simply remove your liquidity.
+Для отключения буста bCAKE просто выведи свою ликвидность.
 
-* For V3: unstake your LP position by clicking “Unstake”.
-* For V2 and StableSwap: unstake your LP token by clicking the “-” minus button.
-* For Position Managers: remove liquidity by clicking the “-” minus button.
+* Для V3: выведи позицию LP, нажав «Unstake».
+* Для V2 и StableSwap: выведи токен LP, нажав кнопку «-».
+* Для менеджеров позиций: удали ликвидность, нажав кнопку «-».

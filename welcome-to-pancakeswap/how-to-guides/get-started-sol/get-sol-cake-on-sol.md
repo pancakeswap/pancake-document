@@ -1,95 +1,94 @@
-# Get SOL / CAKE on SOL
+# Получение SOL / CAKE на SOL
 
-### 1. **Why You Need SOL**
+### 1. **Зачем нужен SOL**
 
-SOL is the **native token** of the Solana blockchain. You’ll need it to:
+SOL — **нативный токен** блокчейна Solana. Он нужен для:
 
-* **Pay gas fees** for any transaction (swaps, adding liquidity etc.)
-* **Create and manage V3 positions** on PancakeSwap
-* **Interact with any Solana dApp**
+* **Оплаты комиссий за газ** за любую транзакцию (обмены, добавление ликвидности и т. д.)
+* **Создания и управления позициями V3** на PancakeSwap
+* **Взаимодействия с любым dApp на Solana**
 
-Think of SOL as the "fuel" that powers all actions on the Solana network — just like ETH on Ethereum or BNB on BNB Smart Chain. Without SOL in your wallet, you won’t be able to do anything on-chain, even if you already hold other tokens.
-
-***
-
-### 2. **Main Ways to Get SOL**
-
-There are **four main ways** to get SOL, depending on your starting point and preferences.
-
-| Method                           | Best for                                            | Requires a Wallet?      | Notes                               |
-| -------------------------------- | --------------------------------------------------- | ----------------------- | ----------------------------------- |
-| **Centralized Exchanges (CEXs)** | Beginners or users buying with fiat                 | ✅ Yes (to access dApps) | Most common entry point             |
-| **PancakeSwap (DEX)**            | DeFi-native users with tokens already on Solana     | ✅ Yes                   | Swap into SOL directly              |
-| **Buy via Wallet App**           | Mobile-first users                                  | ✅ Yes                   | Some wallets offer in-app purchases |
-| **Bridge from Another Chain**    | Users with funds on Ethereum, BNB Chain, Base, etc. | ✅ Yes                   | Bring assets over to Solana         |
-
-Let’s go through them:
-
-#### I. **Buy SOL from a Centralised Exchange (CEX)**
-
-If you're new to crypto or don’t yet have a wallet, buying SOL from a **major exchange** is the most straightforward option.
-
-#### ✅ What you do:
-
-1. **Create an account** on a centralised exchange (e.g., Binance).
-2. **Buy SOL** using fiat (USD, EUR, etc.) or other cryptocurrencies.
-3. **Withdraw SOL** to your **self-custodial Solana wallet** (e.g. Phantom) to interact with dApps like PancakeSwap.
+Считай SOL «топливом», которое обеспечивает все действия в сети Solana — так же, как ETH в Ethereum или BNB в BNB Smart Chain. Без SOL в кошельке ты не сможешь ничего делать в сети, даже если уже держишь другие токены.
 
 ***
 
-#### II. **Swap for SOL / CAKE on PancakeSwap (DEX)**
+### 2. **Основные способы получить SOL**
 
-Already using Solana? If you have tokens like **USDC** or **USDT** on the Solana network, you can swap them directly for SOL / CAKE using **PancakeSwap**.
+Есть **четыре основных способа** получить SOL в зависимости от твоей отправной точки и предпочтений.
+
+| Способ                                    | Лучше для                                                      | Нужен кошелёк?              | Примечания                                    |
+| ----------------------------------------- | -------------------------------------------------------------- | --------------------------- | --------------------------------------------- |
+| **Централизованные биржи (CEX)**          | Новичков или пользователей, покупающих за фиат                 | ✅ Да (для доступа к dApps) | Самый распространённый способ входа           |
+| **PancakeSwap (DEX)**                     | Пользователей DeFi с токенами на Solana                        | ✅ Да                       | Обменяй напрямую на SOL                       |
+| **Покупка через приложение кошелька**     | Пользователей, предпочитающих мобильные устройства             | ✅ Да                       | Некоторые кошельки поддерживают покупку в приложении |
+| **Бриджинг из другой сети**               | Пользователей с активами на Ethereum, BNB Chain, Base и т. д. | ✅ Да                       | Перенеси активы в Solana                      |
+
+Разберём каждый способ:
+
+#### I. **Купить SOL на централизованной бирже (CEX)**
+
+Если ты новичок в криптовалюте или у тебя ещё нет кошелька, купить SOL на **крупной бирже** — самый простой вариант.
+
+#### ✅ Что делать:
+
+1. **Создай аккаунт** на централизованной бирже (например, Binance).
+2. **Купи SOL** за фиат (USD, EUR и т. д.) или другую криптовалюту.
+3. **Выведи SOL** на свой **некастодиальный кошелёк Solana** (например, Phantom), чтобы взаимодействовать с dApps, такими как PancakeSwap.
+
+***
+
+#### II. **Обменяй на SOL / CAKE в PancakeSwap (DEX)**
+
+Уже используешь Solana? Если у тебя есть токены, такие как **USDC** или **USDT**, в сети Solana, ты можешь обменять их напрямую на SOL / CAKE с помощью **PancakeSwap**.
 
 {% hint style="success" %}
-$**CAKE is now live on Solana - Token Address:** `4qQeZ5LwSz6HuupUu8jCtgXyW1mYQcNbFAW1sWZp89HL`
+$**CAKE теперь доступен на Solana — адрес токена:** `4qQeZ5LwSz6HuupUu8jCtgXyW1mYQcNbFAW1sWZp89HL`
 {% endhint %}
 
-#### ✅ What you do:
+#### ✅ Что делать:
 
-* Connect your wallet on Solana to PancakeSwap.
-* Go to the **Swap** page.
-* Swap your Solana-based token into SOL.
+* Подключи кошелёк на Solana к PancakeSwap.
+* Перейди на страницу **Swap**.
+* Обменяй свой токен из сети Solana на SOL.
 
-> 🧠 Note: You’ll still need a small amount of SOL to pay for the swap itself. If you have zero SOL, use the CEX or bridge method first.
-
-***
-
-#### III. **Buy SOL Directly From a Wallet App**
-
-Some wallets support **in-app crypto purchases** using Apple Pay, Google Pay, credit card, or other providers like MoonPay.&#x20;
-
-#### ✅ What you do:
-
-1. Open your wallet.
-2. Tap "Buy" or "Buy Crypto".
-3. Select **SOL**.
-4. Choose your payment method and follow the steps.
-
-This is a user-friendly option for mobile-first users who want to skip setting up an exchange account.
+> 🧠 Примечание: тебе всё равно понадобится небольшое количество SOL для оплаты самого обмена. Если у тебя нет SOL, сначала воспользуйся CEX или мостом.
 
 ***
 
-#### IV. **Bridge SOL / CAKE from Another Blockchain**
+#### III. **Купить SOL напрямую через приложение кошелька**
 
-Already have tokens on a different chain like **BNB Chain**, **Ethereum**, or **Base**? You can bring funds over to Solana using **bridging platforms**.
+Некоторые кошельки поддерживают **покупку криптовалюты в приложении** с помощью Apple Pay, Google Pay, кредитной карты или других провайдеров, например MoonPay.&#x20;
 
-#### ✅ What you do:
+#### ✅ Что делать:
 
-1. Visit Pancakeswap's bridging site [https://pancakeswap.finance/bridge](https://pancakeswap.finance/bridge) or 3rd party bridging sites like: [https://stargate.finance/](https://stargate.finance/)
-2. Select your token and the chain you’re sending from.
-3. Choose **Solana** as your destination.
-4. Complete the bridge and receive the bridged token in your Solana wallet.
-5. Swap that token into **SOL** using PancakeSwap.
+1. Открой кошелёк.
+2. Нажми «Buy» или «Buy Crypto».
+3. Выбери **SOL**.
+4. Выбери способ оплаты и следуй инструкциям.
 
-> 💡 Tips
+Это удобный вариант для пользователей мобильных устройств, которые хотят избежать регистрации на бирже.
+
+***
+
+#### IV. **Бриджинг SOL / CAKE из другого блокчейна**
+
+Уже есть токены в другой сети, например **BNB Chain**, **Ethereum** или **Base**? Ты можешь перевести средства в Solana с помощью **платформ бриджинга**.
+
+#### ✅ Что делать:
+
+1. Зайди на сайт бриджинга PancakeSwap [https://pancakeswap.finance/bridge](https://pancakeswap.finance/bridge) или на сторонние сайты, например: [https://stargate.finance/](https://stargate.finance/)
+2. Выбери токен и сеть, из которой выполняешь перевод.
+3. Выбери **Solana** в качестве пункта назначения.
+4. Завершите бридж и получи переведённый токен в кошелёк Solana.
+5. Обменяй этот токен на **SOL** с помощью PancakeSwap.
+
+> 💡 Советы
 >
-> 1. CAKE is now available for direct bridging via Stargate, LayerZero and deBridge
-> 2. You’ll need SOL to cover gas fees once you're on Solana. If you bridged USDC or similar, use PancakeSwap to convert a portion into SOL.
+> 1. CAKE теперь доступен для прямого бриджинга через Stargate, LayerZero и deBridge
+> 2. Тебе понадобится SOL для покрытия комиссий за газ в Solana. Если ты перевёл USDC или аналогичный токен, используй PancakeSwap для конвертации части в SOL.
 
 ***
 
-### 3. **Final Tip**
+### 3. **Финальный совет**
 
-Every Solana action — from swapping to providing liquidity — **requires SOL for gas**. Always keep a little SOL in your wallet after each transaction to avoid getting stuck.
-
+Каждое действие на Solana — от обмена до предоставления ликвидности — **требует SOL для оплаты газа**. Всегда держи немного SOL в кошельке после каждой транзакции, чтобы не оказаться в затруднении.

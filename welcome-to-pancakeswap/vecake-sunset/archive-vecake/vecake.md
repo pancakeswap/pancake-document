@@ -1,18 +1,18 @@
 ---
-description: More information on veCAKE,
+description: Дополнительная информация о veCAKE,
 hidden: true
 ---
 
 # veCAKE
 
-### [What is veCAKE?](what-is-vecake.md#what-is-vecake)
+### [Что такое veCAKE?](what-is-vecake.md#what-is-vecake)
 
-### [How is veCAKE calculated?](../../../earn/earn-faq/cake-staking-faq/vecake-faq.md#id-52f27118-bbf3-448b-9ffe-e9e1a9dd97ef)
+### [Как рассчитывается veCAKE?](../../../earn/earn-faq/cake-staking-faq/vecake-faq.md#id-52f27118-bbf3-448b-9ffe-e9e1a9dd97ef)
 
-### How to check the veCAKE number?
+### Как проверить показатель veCAKE?
 
-If you are casting a vote, you will find the number of vCAKE in the voting power breakdown by clicking the ">" button on the "Confirm Vote" window.
+Если ты голосуешь, то найдёшь количество veCAKE в разбивке голосовой мощи, нажав кнопку «>» в окне «Confirm Vote».
 
-![](../../../.gitbook/assets/how-to-vote-5.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-vote-5.png)
 
-If you are making a community proposal, you can check your voting power by clicking "Check your voting power" at the bottom of the "Actions" panel.
+Если ты делаешь предложение от сообщества, то можешь проверить свою голосовую мощь, нажав «Check your voting power» в нижней части панели «Actions».

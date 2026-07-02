@@ -1,55 +1,55 @@
-# 💼 Business Partnerships
+# 💼 Деловые партнёрства
 
 <figure><img src="https://lh6.googleusercontent.com/MXvzRZ1v59ffdofwlNB25xQo5vvjIIGgj4RchQI8zO-ASdMDQAmiB0sRFzIZpWale_IFbf-u7deSAet6WItiv9hIIzaaM5JjAqcVpYyBFa6TJsEoPS0wnDH6Fb0F3FKsa715ANSegowVn5EbcRD_qhI" alt=""><figcaption></figcaption></figure>
 
-PancakeSwap (PCS) is the leading multi-chain decentralized exchange (DEX), currently live on:
+PancakeSwap (PCS) — ведущая мультисетевая децентрализованная биржа (DEX), которая в настоящее время работает на:
 
-> BNB Chain, Solana, Base, Arbitrum One, Ethereum, ZKsync Era, Linea, opBNB, and Aptos
+> BNB Chain, Solana, Base, Arbitrum One, Ethereum, ZKsync Era, Linea, opBNB и Aptos
 
-We would love to speak with project teams, potentially introducing you to one of crypto’s largest, most engaged, and active DApps (with over 400k Daily Active Users)!
+Мы будем рады пообщаться с командами проектов и, возможно, познакомить вас с одним из крупнейших, наиболее вовлечённых и активных DApp в крипто (более 400 тыс. активных пользователей в день)!
 
-Since our start, PancakeSwap has thrived in the Retail DeFi landscape, establishing ourselves as the leading DEX, with multiple industry-leading products – liquidity pools; launchpads; prediction and perpetual products;  – and, of course, the best community 😉.
+С момента основания PancakeSwap процветает в розничном DeFi-пространстве, утвердившись как ведущий DEX с множеством продуктов, занимающих лидирующие позиции в отрасли: пулы Ликвидности, launchpad'ы, продукты для Прогнозов и бессрочной торговли — и, конечно, лучшее сообщество 😉.
 
-While this page serves as a quick FAQ for Project Teams to find out a bit more about us – please do reach out if you have more queries:
+Хотя эта страница служит кратким FAQ для команд проектов, желающих узнать о нас больше — не стесняйся обращаться, если есть дополнительные вопросы:
 
-* BD Team on Telegram (https://t.me/PancakeSwapBD)
+* Команда BD в Telegram (https://t.me/PancakeSwapBD)
 
-### Interested in a partnership? Let’s build together
+### Заинтересован в партнёрстве? Давайте строить вместе
 
-Please navigate to the relevant section for you and follow the process
+Перейди в соответствующий раздел и следуй процессу
 
-1\. We’re hosting token launchpad offerings (“Initial Farm Offerings, or IFOs”) across all chains we’re deployed on except Solana
+1\. Мы проводим размещения токенов на launchpad («Initial Farm Offerings, или IFO») по всем сетям, где мы развёрнуты, кроме Solana
 
 {% content-ref url="initial-farm-offerings-ifos.md" %}
 [initial-farm-offerings-ifos.md](initial-farm-offerings-ifos.md)
 {% endcontent-ref %}
 
-2\. We’re hosting token distribution programs (“Syrup Pools”) across all chains we’re deployed on except Solana
+2\. Мы проводим программы распределения токенов («Syrup Pools») по всем сетям, где мы развёрнуты, кроме Solana
 
 {% content-ref url="syrup-pools.md" %}
 [syrup-pools.md](syrup-pools.md)
 {% endcontent-ref %}
 
-3. We can also host a trading contest to further boost on-chain trading volume and strengthen token visibility
+3. Мы также можем провести торговый конкурс для дополнительного увеличения объёма onchain-торгов и укрепления узнаваемости токена
 
 {% content-ref url="trading-competitions.md" %}
 [trading-competitions.md](trading-competitions.md)
 {% endcontent-ref %}
 
-For commonly asked business partnerships questions
+Часто задаваемые вопросы о деловых партнёрствах
 
 {% content-ref url="commonly-asked-business-partnerships-questions.md" %}
 [commonly-asked-business-partnerships-questions.md](commonly-asked-business-partnerships-questions.md)
 {% endcontent-ref %}
 
-### The people's choice for all things DeFi
+### Выбор людей для всего, что связано с DeFi
 
-Simple is sexy, and so is safety!&#x20;
+Простота — это сексуально, и безопасность тоже!&#x20;
 
-With more than $1.5B in TVL, we like to move quickly and do so responsibly. Having more than four years of experience in the crypto markets, from bull to bear, we have been effectively delivering DeFi to our community. Don’t just trust us, [verify](https://docs.pancakeswap.finance/audits).&#x20;
+Имея TVL более $1,5 млрд, мы любим действовать быстро и ответственно. Обладая более чем четырёхлетним опытом на крипторынках — от бычьего до медвежьего — мы эффективно доставляем DeFi нашему сообществу. Не просто доверяй нам, [убедись сам](https://docs.pancakeswap.finance/audits).
 
-Our partnerships with projects go beyond just token distribution programs (“Syrup Pools”) and token launch opportunities (“Initial Farm Offerings”). We genuinely recognize the impact of community in crypto – our dedicated team of Ambassadors help us keep a pulse on the diverse communities we serve, and we regularly host events with high engagement with partners: podcasts, AMAs, meme contests, and many more!
+Наше сотрудничество с проектами выходит далеко за рамки программ распределения токенов («Syrup Pools») и возможностей для запуска токенов («Initial Farm Offerings»). Мы искренне признаём влияние сообщества в крипто — наша преданная команда амбассадоров помогает нам держать руку на пульсе разнообразных сообществ, которым мы служим, и мы регулярно проводим мероприятия с высоким вовлечением партнёров: подкасты, AMA, мем-конкурсы и многое другое!
 
-We’re keen to work with you. Let’s make DeFi great again.
+Мы стремимся работать с тобой. Давайте снова сделаем DeFi великим.
 
 <br>

@@ -1,57 +1,57 @@
 ---
-description: Welcome to the PancakeSwap Community!
+description: Добро пожаловать в сообщество PancakeSwap!
 ---
 
-# Telegram & Discord Communities
+# Сообщества в Telegram и Discord
 
-Join our official Telegram and Discord communities to connect with other users, get support and stay updated on the latest news.
+Вступай в наши официальные сообщества в Telegram и Discord, чтобы общаться с другими пользователями, получать поддержку и быть в курсе последних новостей.
 
-💡 **IMPORTANT**: Always verify that you're in the official channels to avoid scams. PancakeSwap will NEVER ask for your private keys or funds.
+💡 **ВАЖНО**: Всегда проверяй, что ты находишься в официальных каналах, чтобы избежать мошенничества. PancakeSwap НИКОГДА не запросит твои приватные ключи или средства.
 
-### 🔗 **Official Links**
+### 🔗 **Официальные ссылки**
 
-#### 🌐 **Global Channels**
+#### 🌐 **Глобальные каналы**
 
-🔹 **Telegram (English)**: [https://t.me/PancakeSwap](https://t.me/PancakeSwap)
+🔹 **Telegram (на английском)**: [https://t.me/PancakeSwap](https://t.me/PancakeSwap)
 
-🔹 **Telegram Announcements (English)**: [https://t.me/PancakeSwapAnn](https://t.me/PancakeSwapAnn)
+🔹 **Анонсы в Telegram (на английском)**: [https://t.me/PancakeSwapAnn](https://t.me/PancakeSwapAnn)
 
 🔹 **Discord**: [https://discord.gg/pancakeswap](https://t.me/PancakeSwap)
 
-#### 🌍 **Local Communities**
+#### 🌍 **Локальные сообщества**
 
-* Japanese ([https://t.me/PancakeSwapJP](https://t.me/PancakeSwapJP))
-* Chinese ([http://t.me/PancakeSwap\_CN](http://t.me/PancakeSwap_CN))
-* Indonesian ([http://t.me/PancakeSwapIndonesia](http://t.me/PancakeSwapIndonesia))
-* Vietnamese ([https://t.me/PancakeSwapVN](https://t.me/PancakeSwapVN))
-* Spanish ([https://t.me/PancakeSwapES](https://t.me/PancakeSwapES))
-* Nigerian ([https://t.me/pancakeswap\_ng](https://t.me/pancakeswap_ng))
-* Russian ([http://t.me/pancakeswap\_ru](http://t.me/pancakeswap_ru))
-* Portuguese/Brazilian ([https://t.me/PancakeSwapPortuguese](https://t.me/PancakeSwapPortuguese))
-* Filipino ([https://t.me/Pancakeswap\_Ph](https://t.me/Pancakeswap_Ph))
-* Indian ([https://t.me/PancakeSwap\_India](https://t.me/PancakeSwap_India))
-* Korean ([https://t.me/PancakeSwapSouthKorea](https://t.me/PancakeSwapSouthKorea))
-* 😤 Ban Appeal ([https://t.me/pancakebanappeal](https://t.me/pancakebanappeal))
+* Японское ([https://t.me/PancakeSwapJP](https://t.me/PancakeSwapJP))
+* Китайское ([http://t.me/PancakeSwap\_CN](http://t.me/PancakeSwap_CN))
+* Индонезийское ([http://t.me/PancakeSwapIndonesia](http://t.me/PancakeSwapIndonesia))
+* Вьетнамское ([https://t.me/PancakeSwapVN](https://t.me/PancakeSwapVN))
+* Испанское ([https://t.me/PancakeSwapES](https://t.me/PancakeSwapES))
+* Нигерийское ([https://t.me/pancakeswap\_ng](https://t.me/pancakeswap_ng))
+* Русское ([http://t.me/pancakeswap\_ru](http://t.me/pancakeswap_ru))
+* Португальское/Бразильское ([https://t.me/PancakeSwapPortuguese](https://t.me/PancakeSwapPortuguese))
+* Филиппинское ([https://t.me/Pancakeswap\_Ph](https://t.me/Pancakeswap_Ph))
+* Индийское ([https://t.me/PancakeSwap\_India](https://t.me/PancakeSwap_India))
+* Корейское ([https://t.me/PancakeSwapSouthKorea](https://t.me/PancakeSwapSouthKorea))
+* 😤 Апелляция по блокировке ([https://t.me/pancakebanappeal](https://t.me/pancakebanappeal))
 
-### ⚠️ **Security & Warnings**
+### ⚠️ **Безопасность и предупреждения**
 
-🔴 **Beware of scams!**
+🔴 **Будь осторожен с мошенниками!**
 
-* PancakeSwap **DOES NOT provide support via direct messages (DMs).**
-* **Never share your private keys** or recovery phrases.
-* Always verify you're in the official channels (listed in this document).
+* PancakeSwap **НЕ предоставляет поддержку через личные сообщения (DM).**
+* **Никогда не передавай свои приватные ключи** или фразы восстановления.
+* Всегда проверяй, что ты находишься в официальных каналах (перечисленных в этом документе).
 
 ***
 
-### 🤝 **How to Participate in the Community**
+### 🤝 **Как участвовать в сообществе**
 
-✅ **How do I join Telegram or Discord?**
+✅ **Как вступить в Telegram или Discord?**
 
-1. Click the link for the community you want to join.
-2. Accept the rules and verify your account if required.
-3. Start engaging with the community!
+1. Нажми на ссылку того сообщества, к которому хочешь присоединиться.
+2. Прими правила и при необходимости подтверди свой аккаунт.
+3. Начни общаться с сообществом!
 
-💬 **How do I ask questions or get support?**
+💬 **Как задать вопросы или получить поддержку?**
 
-* On Telegram, use the chat directly in the correct topic (Support in case of help).
-* On Discord, use our [amazing ticket system](https://discord.com/channels/897834609272840232/1135600553943109793) or write in our [#General channel](https://discord.com/channels/897834609272840232/897834609272840236).
+* В Telegram используй чат непосредственно в нужной теме (Support — в случае необходимости помощи).
+* В Discord воспользуйся нашей [удобной системой тикетов](https://discord.com/channels/897834609272840232/1135600553943109793) или напиши в наш [канал #General](https://discord.com/channels/897834609272840232/897834609272840236).

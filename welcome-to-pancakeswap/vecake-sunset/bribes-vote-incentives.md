@@ -2,22 +2,22 @@
 hidden: true
 ---
 
-# Bribes (Vote Incentives)
+# Взятки (Голосовые стимулы)
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%282%29%20%281%29%20%281%29%20%281%29%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
-Apart from earning CAKE via our weekly [CAKE reward pools](archive-vecake/earn-cake-weekly/),  veCAKE holders can vote for gauges to claim bribes from external bribe marketplaces. These bribes are usually submitted by external project teams on some of our [veCAKE Managers](archive-vecake/vecake-managers.md).&#x20;
+Помимо заработка CAKE через наши [еженедельные пулы вознаграждений CAKE](archive-vecake/earn-cake-weekly/), держатели veCAKE могут голосовать за гейджи, чтобы получать взятки с внешних рынков взяток. Эти взятки обычно предоставляются внешними проектными командами через некоторых из наших [менеджеров veCAKE](archive-vecake/vecake-managers.md).&#x20;
 
-This serves as an additional source of yield for veCAKE holders, and also diversifies the type of tokens they receive as yield.
+Это служит дополнительным источником доходности для держателей veCAKE, а также диверсифицирует типы токенов, получаемых в качестве дохода.
 
-There are two types of bribe marketplaces:&#x20;
+Существует два типа рынков взяток:&#x20;
 
-1. Primary bribe marketplaces allow projects to submit bribes to reward **veCAKE holders** for voting for their desired gauges.
-2. Secondary bribe marketplaces allow projects to submit bribes to reward a **derivative project's token holders** (e.g vlCKP from Cakepie) for voting for their desired gauges. The protocol in question (e.g. Cakepie) will then vote for the gauges with their own veCAKE holdings, based on the vote outcome of their token holders.
+1. Первичные рынки взяток позволяют проектам предоставлять взятки для вознаграждения **держателей veCAKE** за голосование за желаемые гейджи.
+2. Вторичные рынки взяток позволяют проектам предоставлять взятки для вознаграждения **держателей токенов производного проекта** (например, vlCKP от Cakepie) за голосование за желаемые гейджи. Соответствующий протокол (например, Cakepie) затем голосует за гейджи со своими собственными veCAKE, основываясь на результатах голосования держателей их токенов.
 
-We currently have two primary bribe marketplaces where veCAKE holders can vote for gauges and claim bribes from external teams:
+В настоящее время у нас есть два первичных рынка взяток, где держатели veCAKE могут голосовать за гейджи и получать взятки от внешних команд:
 
 1. [Hidden Hand](https://hiddenhand.finance/pancakeswap)
 2. [Votemarket (by StakeDAO)](https://votemarket.stakedao.org/?market=cake\&solution=All)
 
-veCAKE holders should visit these bribe marketplaces regularly and vote for gauges that can help optimize their yield on veCAKE.
+Держателям veCAKE следует регулярно посещать эти рынки взяток и голосовать за гейджи, которые помогут оптимизировать доходность veCAKE.
