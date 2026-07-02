@@ -1,86 +1,85 @@
-# Perpetuals V1 Glossary
+# Глоссарий Бессрочной торговли V1
 
-**Here you will find defined all the terms inherent in futures trading**
+**Здесь ты найдёшь определения всех терминов, связанных с торговлей фьючерсами**
 
-### **Perpetual Trading**
+### **Бессрочная торговля**
 
-&#x20;Perpetuals, perpetual swaps, or perps are a special type of futures contract without an expiration date.
+ Бессрочные контракты (perpetuals), бессрочные свопы или perps — это особый вид фьючерсных контрактов без даты истечения.
 
 
 
-### **Leverage**
+### **Кредитное плечо**
 
-Leverage is a trading mechanism. Traders can use it to increase their exposure to the market by allowing them to pay less than the full amount of the investment. In simple words, you borrow money to leverage your investment.
+Кредитное плечо — торговый механизм. Трейдеры могут использовать его для увеличения экспозиции на рынке, позволяя платить меньше полной суммы инвестиций. Простыми словами — ты занимаешь деньги для увеличения своих инвестиций.
 
 ![](https://lh5.googleusercontent.com/S4CpgIaapprJpet3GI9UvkGA2Vncl6ywSA8848SLOG5M73v2ILcSunlPMOxpWg9UJmKui4Vb6BDQcUugWP1aYMAVl9_QPioIxT9sFRuY-EEtuSXgCn_D8Muwqh60PFr3EcEu3kkH)
 
-### **Margin**
+### **Маржа**
 
-is the guarantee you put for your leveraged positions. It has two Modes to use it:
+Залог, который ты вносишь для своих позиций с кредитным плечом. Существует два режима её использования:
 
-* Cross Margin Mode: All cross positions under the same margin asset share the same asset cross margin balance. In the event of liquidation, your assets full margin balance along with any remaining open positions under the asset may be forfeited.
-* Isolated Margin Mode: Manage your risk on individual positions by restricting the amount of margin allocated to each. If the margin ratio of a position reached 100%, the position will be liquidated. Margin can be added or removed to positions using this mode.
+* Кросс-маржа: все кросс-позиции по одному маржинальному активу используют общий баланс кросс-маржи этого актива. В случае ликвидации полный баланс маржи активов и все оставшиеся открытые позиции по активу могут быть конфискованы.
+* Изолированная маржа: управляй риском по отдельным позициям, ограничивая выделяемую маржу для каждой из них. Если коэффициент маржи позиции достигнет 100%, позиция будет ликвидирована. В этом режиме можно добавлять или убирать маржу из позиций.
 
-![](https://lh3.googleusercontent.com/zVEa2C_uhxdfB83PnT0jPQ3lbs5hJ8IY4cOe5KgxOiypTxV0CC1mXHouC9EhR2ukRmnMIXzk71JkEwPLmXAeK0RuP0xDsqX7c6P-X-7bPdqN3Xrfzxhub2wV55_ZKRNTy8WoCpUs)
+![](https://lh3.googleusercontent.com/zVEa2C_uhxdfB83PnT0jPQ3lbs5hJ8IY4cOe5KgxOiypTxV0BC1mXHouC9EhR2ukRmnMIXzk71JkEwPLmXAEk0RuP0xDsqX7c6P-X-7bPdqN3Xrfzxhub2wV55_ZKRNTy8WoCpUs)
 
-**Margin Ratio**: Margin Ratio = Maintenance Margin / Margin Balance. Your positions will be liquidated once Margin Ratio reaches 100%.
+**Коэффициент маржи**: Коэффициент маржи = Поддерживающая маржа / Баланс маржи. Позиции будут ликвидированы, когда коэффициент маржи достигнет 100%.
 
-**Maintenance Ratio**: The minimum amount of margin balance required to keep your open positions.
+**Поддерживающий коэффициент**: Минимальный баланс маржи, необходимый для поддержания открытых позиций.
 
-**Margin Balance** = Wallet Balance + Unrealized PNL. Your positions will be liquidated once Margin Balance <= Maintenance Margin.
+**Баланс маржи** = Баланс кошелька + Нереализованный PNL. Позиции будут ликвидированы, как только Баланс маржи ≤ Поддерживающей марже.
 
 ![](https://lh6.googleusercontent.com/BGaNOmsOkew_Cf9f6zcP2bW4Die0-uZnoui7QVYY24oDFtQkgIB5Vq1dLo7XgkA3LKyisoK-5Cs0uSN7fl19aa9nvDDAzWCVdgnJ3xNGHkDchaJMQf1G0gvXmDDvR2DvAih1D7tS)
 
-### Assets:
+### Активы:
 
-**Deposit**: Deposit your funds into your futures account
+**Пополнение**: пополни фьючерсный счёт средствами.
 
-**Withdraw**: Withdraw your funds from your futures account to your wallet
+**Вывод**: выведи средства с фьючерсного счёта в кошелёк.
 
-**Balance**: Wallet Balance = Total Net Transfer + Total Realized Profit + Total Net Funding Fee - Total Commission.
+**Баланс**: Баланс кошелька = Общий чистый перевод + Общая реализованная прибыль + Общая чистая ставка финансирования − Общая комиссия.
 
-**Unrealized PNL**: Unrealized profit and loss on this position calculated based on Mark Price, and return on equity percentage.
+**Нереализованный PNL**: нереализованная прибыль и убыток по позиции, рассчитанные на основе рыночной цены, и процент доходности на вложенный капитал.
 
-**Modes:**&#x20;
+**Режимы:**&#x20;
 
-* Single Asset Mode: Supports USDⓈ-M Futures trading by only using the single margin asset of the symbol. PNL of the same margin asset positions can be offset. Supports Cross Margin Mode and Isolated Margin Mode.
-* Multi-Assets Mode: USDⓈ-M Futures trading across multiple margin assets. PNL can be offset among the different margin asset positions. Only supports Cross Margin Mode.
+* Режим одного актива: поддерживает торговлю USDⓈ-M фьючерсами с использованием только одного маржинального актива символа. PNL по позициям с одинаковым маржинальным активом может быть взаимозачтён. Поддерживает режим кросс-маржи и режим изолированной маржи.
+* Режим нескольких активов: торговля USDⓈ-M фьючерсами с использованием нескольких маржинальных активов. PNL может быть взаимозачтён между позициями с разными маржинальными активами. Поддерживается только режим кросс-маржи.
 
 {% hint style="info" %}
-Note: If there are open positions or open orders in USDⓈ-M Futures, Multi-Assets Mode cannot be activated. Multi-Assets Mode only applies to USDⓈ-M Futures. Before activating Multi-Assets Mode, please read the guide in detail to better manage USDⓈ-M Futures account risk accordingly when using Multi-Assets Mode.<br>
+Примечание: если в USDⓈ-M фьючерсах есть открытые позиции или ордера, активировать режим нескольких активов невозможно. Режим нескольких активов применяется только к USDⓈ-M фьючерсам. Перед активацией режима нескольких активов внимательно изучи руководство для лучшего управления рисками счёта USDⓈ-M фьючерсов.<br>
 {% endhint %}
 
 ![](https://lh3.googleusercontent.com/iupB9UR3QMDCEO5RwjfMpqKZaQtoT53G0Sa_cYH9Neui8ttgqeFybtqOSIncZD74-4p3O-sQd6Lis2QKxGBsdgDmgutRaTUw1qKpjT-UXbpdKo-_3KzjAl3f8VSGyoLrtudoUqBr)
 
-### Orders
+### Ордера
 
-**Buy/Long:** Open a Long order. In this order you purchase an asset and wait to sell when the price goes up. "Buy" and "long" are used interchangeably.
+**Купить/Лонг:** открыть лонг-ордер. В этом ордере ты покупаешь актив и ждёшь продажи, когда цена вырастет. «Купить» и «лонг» используются как синонимы.
 
-**Sell/Short:** Open a Short order. In this order, you borrow an asset, sell it, and hope to buy it back when the price goes down. "Sell" and "short" are used interchangeably.
+**Продать/Шорт:** открыть шорт-ордер. В этом ордере ты занимаешь актив, продаёшь его и надеешься выкупить обратно, когда цена упадёт. «Продать» и «шорт» используются как синонимы.
 
-**Limit Order:** A limit order is an order to buy or sell at a specific price or better. Limit orders are not guaranteed to execute.
+**Лимитный ордер:** ордер на покупку или продажу по определённой цене или лучше. Исполнение лимитных ордеров не гарантировано.
 
-**Market Order:** A market order is an order to buy or sell at the best available current price. It is executed against the limit orders that were previously placed on the order book. When placing a market order, you will pay fees as a market taker.
+**Рыночный ордер:** ордер на покупку или продажу по лучшей доступной текущей цене. Исполняется против лимитных ордеров, ранее размещённых в стакане. При размещении рыночного ордера ты платишь комиссии как рыночный тейкер.
 
-**Stop Limit Order:** The easiest way to understand a stop-limit order is to break it down into stop price, and limit price. The stop price is simply the price that triggers the limit order, and the limit price is the price of the limit order that is triggered. This means that once your stop price has been reached, your limit order will be immediately placed on the order book.
+**Стоп-лимитный ордер:** проще всего понять стоп-лимитный ордер, разбив его на стоп-цену и лимитную цену. Стоп-цена — это просто цена, которая активирует лимитный ордер, а лимитная цена — цена активированного лимитного ордера. Это означает, что как только стоп-цена достигнута, лимитный ордер немедленно размещается в стакане.
 
-**Stop Market Order:** Similar to a stop-limit order, a stop market order uses a stop price as a trigger. However, when the stop price is reached, it triggers a market order instead.
+**Стоп-рыночный ордер:** аналогично стоп-лимитному ордеру, стоп-рыночный ордер использует стоп-цену как триггер. Однако при достижении стоп-цены активируется рыночный ордер.
 
-**Trailing Stop:** A trailing stop is an order type designed to lock in profits or limit losses as a trade moves favorably. Trailing stops only move if the price moves favorably. Once it moves to lock in a profit or reduce a loss, it does not move back in the other direction.
+**Трейлинг-стоп:** тип ордера, предназначенный для фиксации прибыли или ограничения убытков по мере благоприятного движения сделки. Трейлинг-стопы сдвигаются только при благоприятном движении цены. После фиксации прибыли или сокращения убытков он не возвращается в другую сторону.
 
-**Post Only:** Post-only Mode means that Traders can only place an Order if it would be posted to the Order Book as a Maker Order. An Order which would be posted as a Taker Order will be rejected. No Market Orders may be placed and no Orders will be filled. Resting orders may be canceled in post-only mode.
+**Post Only:** режим Post-only означает, что трейдеры могут размещать ордер только если он будет опубликован в стакане как ордер мейкера. Ордер, который был бы опубликован как ордер тейкера, будет отклонён. Рыночные ордера не могут быть размещены, а ни один ордер не будет исполнен. Ожидающие ордера могут быть отменены в режиме Post-only.
 
 ![](https://lh6.googleusercontent.com/uV8UuuqGxCwGmu9jxuL2Gf_Nt8QwkYoYCfJinEfINffyr6QjV03tZVXA46GnIxY-XKSxcrAPtrtD8JZYBHSc4ILmLd8Rm6LqHmVdSAgMK8m-4WOdt3FsnPO2MD32EG9j3ym_aSz_)
 
-**Reduce Only:** Reduce-Only order will only reduce your position, not increase it.
+**Reduce Only:** ордер Reduce-Only только уменьшит твою позицию, но не увеличит её.
 
 ![](https://lh3.googleusercontent.com/HlbLU90VSn76W1xHVgSBoke83uQpAPFzl2JBME_Dn2mElSDAYSbA51GRx2cOaAqxBe6wH02MbJxmwjrLuLoSx7Ei4AwzrnmqFjy4VEG5aUrYas7oFKVQ0CGNuiIAXjD1CdPaQurO)
 
-**TIF instructions** allow you to specify the amount of time that your orders will remain active before they are executed or expired. You can select one of these options for TIF instructions:
+**Инструкции TIF** позволяют указать количество времени, в течение которого ордера будут активны до исполнения или истечения. Можно выбрать один из следующих вариантов TIF:
 
 ![](https://lh6.googleusercontent.com/-QaqTJU0jCsjznhULix7i2ThVM7_u7IP5a0i42TYhImt8xPLODjYCjLL5JNbRXrIDsgJRxIIGoYD8Tlq5gSdCjkAyMDat53r5WNTepB93_7bq7gDmyg1-jyblSQ8eANv_fH9bvJ-)
 
-* **GTC** (Good Till Cancel): The order will remain active until it is either filled or canceled.&#x20;
-* **IOC** (Immediate Or Cancel): The order will execute immediately (either fully or partially). If it is only partially executed, the unfilled portion of the order will be canceled.&#x20;
-* **FOK** (Fill Or Kill): The order must be fully filled immediately. If not, it won’t be executed at all.
-
+* **GTC** (Good Till Cancel — действует до отмены): ордер остаётся активным до тех пор, пока не будет исполнен или отменён.&#x20;
+* **IOC** (Immediate Or Cancel — немедленно или отмена): ордер исполняется немедленно (полностью или частично). Если исполнена только часть, неисполненная часть отменяется.&#x20;
+* **FOK** (Fill Or Kill — исполнить или убить): ордер должен быть полностью исполнен немедленно. Если нет — он не исполняется вовсе.
