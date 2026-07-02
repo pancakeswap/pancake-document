@@ -1,20 +1,20 @@
 ---
-description: Stake CAKE, Earn CAKE, and much more!
+description: Стейкай CAKE, зарабатывай CAKE и многое другое!
 ---
 
-# 🔷 \[Archive] veCAKE
+# 🔷 \[Архив] veCAKE
 
-<figure><img src="../../../.gitbook/assets/image (339).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28339%29.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
-\[ARCHIVED] veCAKE
+\[АРХИВИРОВАНО] veCAKE
 {% endhint %}
 
-veCAKE stands for vote-escrowed CAKE. veCAKE tokens serve a crucial role in PancakeSwap's governance, enabling you to actively participate in [PancakeSwap’s governance proposals](https://pancakeswap.finance/voting) and Gauges Voting system. This allows you to vote on broader governance proposals and influence the allocation of CAKE emissions within liquidity pools.
+veCAKE расшифровывается как vote-escrowed CAKE. Токены veCAKE играют ключевую роль в управлении PancakeSwap, позволяя тебе активно участвовать в [предложениях по управлению PancakeSwap](https://pancakeswap.finance/voting) и системе Gauges Voting. Это даёт возможность голосовать по более широким предложениям управления и влиять на распределение эмиссии CAKE в пулах ликвидности.
 
-Gauges Voting empowers veCAKE holders to shape the distribution of CAKE emissions across essential products like Farms on BNB Chain, Ethereum, and Arbitrum at launch. By leveraging veCAKE, users directly influence how CAKE emissions are allocated within each pool, impacting specific liquidity pools and projects. The more veCAKE a pool accumulates through Gauges Voting, the higher the CAKE emissions allocated, leading to increased rewards for liquidity providers (LPs) during subsequent 14-day epochs.
+Gauges Voting позволяет держателям veCAKE формировать распределение эмиссии CAKE по ключевым продуктам, таким как Farms на BNB Chain, Ethereum и Arbitrum при запуске. Используя veCAKE, пользователи напрямую влияют на то, как распределяется эмиссия CAKE в каждом пуле, затрагивая конкретные пулы ликвидности и проекты. Чем больше veCAKE накапливает пул через Gauges Voting, тем выше выделяемая ему эмиссия CAKE, что ведёт к увеличению вознаграждений для поставщиков ликвидности (LP) в течение последующих 14-дневных эпох.
 
-Lock CAKE for any durations from 1 week to 4 years to get veCAKE. Your veCAKE amount is based on the number of your locked CAKE and the duration you locked them for.
+Заблокируй CAKE на любой срок от 1 недели до 4 лет, чтобы получить veCAKE. Количество veCAKE зависит от количества заблокированных CAKE и срока блокировки.
 
 {% content-ref url="what-is-vecake.md" %}
 [what-is-vecake.md](what-is-vecake.md)
@@ -22,7 +22,7 @@ Lock CAKE for any durations from 1 week to 4 years to get veCAKE. Your veCAKE am
 
 
 
-Here are the guides for how to get veCAKE, either by creating a new position, or migrating from the CAKE staking pool:
+Вот руководства о том, как получить veCAKE — создав новую позицию или выполнив миграцию из пула CAKE:
 
 {% content-ref url="how-to-get-vecake.md" %}
 [how-to-get-vecake.md](how-to-get-vecake.md)
@@ -34,7 +34,7 @@ Here are the guides for how to get veCAKE, either by creating a new position, or
 
 
 
-Learn more about our veCAKE ecosystem partners (veCAKE Managers) here:
+Узнай больше о наших партнёрах по экосистеме veCAKE (менеджерах veCAKE):
 
 {% content-ref url="vecake-managers.md" %}
 [vecake-managers.md](vecake-managers.md)
@@ -42,7 +42,7 @@ Learn more about our veCAKE ecosystem partners (veCAKE Managers) here:
 
 
 
-For other questions, please check out:
+По другим вопросам смотри:
 
 {% content-ref url="../../../earn/earn-faq/cake-staking-faq/vecake-faq.md" %}
 [vecake-faq.md](../../../earn/earn-faq/cake-staking-faq/vecake-faq.md)

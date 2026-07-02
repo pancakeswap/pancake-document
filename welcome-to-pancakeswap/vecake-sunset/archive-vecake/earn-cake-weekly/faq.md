@@ -1,48 +1,48 @@
 # FAQ
 
-### I’ve locked my CAKE or migrated my CAKE pool position. Why do I still have 0 shares? <a href="#cae64522-4729-43a2-8fa8-6bbd2567dcea" id="cae64522-4729-43a2-8fa8-6bbd2567dcea"></a>
+### Я заблокировал CAKE или перенёс позицию CAKE Pool. Почему у меня всё ещё 0 долей? <a href="#cae64522-4729-43a2-8fa8-6bbd2567dcea" id="cae64522-4729-43a2-8fa8-6bbd2567dcea"></a>
 
-Shares are updated upon each weekly distribution at 00:00 UTC every Thursday.
+Доли обновляются при каждом еженедельном распределении в 00:00 UTC каждый четверг.
 
-Rewards are accumulated whenever you have finished staking for a complete epoch.&#x20;
+Вознаграждения накапливаются только после завершения стейкинга за полную эпоху.&#x20;
 
-Epochs are 7-day periods, starting every Thursday, UTC 00:00. For example, if you stake on Tuesday. Your first epoch will start on Thursday. Once you have finished staking till the next Thursday. You will be able to claim your rewards from this Thursday to next Thursday, aka epoch 1.
+Эпохи — это 7-дневные периоды, начинающиеся каждый четверг в 00:00 UTC. Например, если ты начнёшь стейкинг во вторник, первая эпоха начнётся в четверг. После завершения стейкинга до следующего четверга ты сможешь получить вознаграждения за период с этого четверга по следующий, то есть за эпоху 1.
 
-Check back again each Thursday for updated reward numbers.
+Проверяй обновлённые суммы вознаграждений каждый четверг.
 
-### Why are my shares/rewards being 0 despite having an active staking position? <a href="#9f2843b7-1a26-4248-8c3e-f5343b2de92e" id="9f2843b7-1a26-4248-8c3e-f5343b2de92e"></a>
+### Почему мои доли/вознаграждения равны 0, несмотря на активную позицию стейкинга? <a href="#9f2843b7-1a26-4248-8c3e-f5343b2de92e" id="9f2843b7-1a26-4248-8c3e-f5343b2de92e"></a>
 
-When calculating rewards. The remaining lock duration is rounded down to weeks. Therefore, to receive shares, you must ensure your staking position unlocks no earlier than the very next Thursday 00:00 UTC.
+При расчёте вознаграждений оставшееся время блокировки округляется в меньшую сторону до недель. Поэтому для получения долей необходимо убедиться, что твоя позиция стейкинга разблокируется не ранее следующего четверга в 00:00 UTC.
 
-For example, week 1 starts at 00:00 UTC, Thursday, 1 Jan. To receive rewards for the week 1 distribution. You must:
+Например, неделя 1 начинается в 00:00 UTC, четверг, 1 января. Чтобы получить вознаграждения за распределение недели 1, необходимо:
 
-* Join before 00:00 UTC, 1 Jan.
-* Have an active veCAKE staking position, which unlocks equal to or later than 00:00 UTC, 15 Jan. (Thursday on week 3)
+* Присоединиться до 00:00 UTC, 1 января.
+* Иметь активную позицию стейкинга veCAKE, которая разблокируется не ранее 00:00 UTC, 15 января (четверг, неделя 3).
 
-Please note that if your staking position unlocks at 00:00 UTC, 8 Jan (Thursday on week 2). You will still receive 0 rewards for week 1 due to your veCAKE balance turning at 00:00 UTC, 8 Jan.
+Обрати внимание: если твоя позиция разблокируется в 00:00 UTC, 8 января (четверг, неделя 2), ты всё равно получишь 0 вознаграждений за неделю 1, поскольку баланс veCAKE обнулится в 00:00 UTC, 8 января.
 
-### Can I join a distribution period mid-week? <a href="#db254eef-09b7-41d7-bb56-310c77ce976b" id="db254eef-09b7-41d7-bb56-310c77ce976b"></a>
+### Можно ли присоединиться к периоду распределения в середине недели? <a href="#db254eef-09b7-41d7-bb56-310c77ce976b" id="db254eef-09b7-41d7-bb56-310c77ce976b"></a>
 
-No, as mentioned, rewards can only start to accumulate when you are already staking at the beginning of the epoch. Which is every week at 00:00 UTC, Thursday.&#x20;
+Нет, как уже упоминалось, вознаграждения могут начать накапливаться только если ты уже стейкаешь в начале эпохи — каждую неделю в 00:00 UTC, четверг.&#x20;
 
-### How do I receive more rewards? <a href="#db254eef-09b7-41d7-bb56-310c77ce976b" id="db254eef-09b7-41d7-bb56-310c77ce976b"></a>
+### Как получить больше вознаграждений? <a href="#db254eef-09b7-41d7-bb56-310c77ce976b" id="db254eef-09b7-41d7-bb56-310c77ce976b"></a>
 
-Since your shares in pools are calculated based on veCAKE balance at the distribution time, which is at 00:00 UTC next coming Thursday. To receive more rewards, simply bump up your veCAKE balance by:
+Поскольку твои доли в пулах рассчитываются на основе баланса veCAKE на момент распределения — в 00:00 UTC ближайшего четверга — для получения большего количества вознаграждений просто увеличь баланс veCAKE:
 
-* Locking more CAKE in the veCAKE staking position
-* Renewing your staking position
+* Заблокировав больше CAKE в позиции стейкинга veCAKE
+* Обновив свою позицию стейкинга
 
-Please note that after adding CAKE or extending, your shares will only update after the beginning of the next epoch, which is 00:00 UTC, the coming Thursday.
+Обрати внимание: после добавления CAKE или продления блокировки твои доли обновятся только в начале следующей эпохи — в 00:00 UTC ближайшего четверга.
 
-### Why are the weekly injected rewards not 100% matching the volume displayed on various trackers (like the Info page)? Why are the weekly CAKE pool rewards not 100% matching the gauges voting results.
+### Почему еженедельно добавляемые вознаграждения не на 100% совпадают с объёмами, отображаемыми на различных трекерах (например, на странице Info)? Почему еженедельные вознаграждения CAKE Pool не на 100% совпадают с результатами голосования по гейджам?
 
-The number of CAKE rewards injected weekly may not be 100% matching with the numbers calculated from the volume displayed on various trackers. Multiple external factors may impact the number of CAKE rewards that can be converted:
+Количество вознаграждений CAKE, добавляемых еженедельно, может не на 100% совпадать с числами, рассчитанными по объёмам, отображаемым на различных трекерах. На количество вознаграждений CAKE, которые можно конвертировать, влияют несколько внешних факторов:
 
-* CAKE token price while the trading fee is being converted and processed
-* Underlying asset prices while the trading fee is being converted and processed
-* To save gas and operational cost. Revenues from blockchains other than BNB Chain are processed monthly. They will be injected with a one-month delay with weekly averaging.
-* Some trading pairs may have insufficient liquidity while processing the trading fee.
-* Some trading pairs may contain tokens with custom logic that prevent their fee from being processed.
-* Transaction delays due to infrastructures and supportive system performance.
+* Цена токена CAKE в момент конвертации и обработки торговой комиссии
+* Цены базовых активов в момент конвертации и обработки торговой комиссии
+* Для экономии газа и операционных расходов выручка из блокчейнов, отличных от BNB Chain, обрабатывается ежемесячно. Она будет добавляться с задержкой в один месяц с еженедельным усреднением.
+* Некоторые торговые пары могут иметь недостаточную ликвидность при обработке торговой комиссии.
+* Некоторые торговые пары могут содержать токены с нестандартной логикой, которая препятствует обработке их комиссий.
+* Задержки транзакций из-за инфраструктуры и производительности вспомогательных систем.
 
-Chefs are working hard to apply tools and practices to ensure more trading fees generated can be processed and converted into CAKE.
+Команда разработчиков усердно работает над применением инструментов и практик для обеспечения более полной обработки и конвертации торговых комиссий в CAKE.

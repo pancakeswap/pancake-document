@@ -1,66 +1,66 @@
-# Earn CAKE Weekly
+# Зарабатывай CAKE еженедельно
 
-<figure><img src="../../../../.gitbook/assets/image (354).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28354%29.png" alt=""><figcaption></figcaption></figure>
 
-Holding veCAKE automatically enrols you to two of our weekly CAKE reward pools. Both will be distributing rewards in CAKE. One of them is distributing rewards from weekly revenue shares; the other one is replacing the legacy CAKE staking pool and distributing emission-based CAKE rewards.
+Владение veCAKE автоматически включает тебя в два наших еженедельных пула вознаграждений CAKE. Оба распределяют вознаграждения в CAKE. Один распределяет вознаграждения из еженедельного дохода; другой заменяет устаревший пул стейкинга CAKE и распределяет вознаграждения в виде эмиссии CAKE.
 
-## How to participate?
+## Как участвовать?
 
-### 1 - Become eligible <a href="#id-8b63b3dd-b974-4e1b-9c5e-ed8eea2891ab" id="id-8b63b3dd-b974-4e1b-9c5e-ed8eea2891ab"></a>
+### 1 — Стань участником <a href="#id-8b63b3dd-b974-4e1b-9c5e-ed8eea2891ab" id="id-8b63b3dd-b974-4e1b-9c5e-ed8eea2891ab"></a>
 
-<figure><img src="../../../../.gitbook/assets/image (355).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28355%29.png" alt=""><figcaption></figcaption></figure>
 
-To become eligible, you must have an active veCAKE staking position.
+Для участия необходимо иметь активную позицию стейкинга veCAKE.
 
-Additionally, to accumulate rewards in the next period, your position **MUST** unlock equal to or later than the second coming weekly distribution (every week at 00:00 UTC on Thursday).
+Кроме того, чтобы накапливать вознаграждения в следующем периоде, твоя позиция **должна** разблокироваться не ранее второго предстоящего еженедельного распределения (каждую неделю в 00:00 UTC в четверг).
 
-For example, to join the week 1 distribution. You must:
+Например, для участия в распределении недели 1 необходимо:
 
-* Join before 00:00 UTC, Thursday on week 1
-* Have an active fixed-term CAKE staking position, which unlocks equal to or later than 00:00 UTC, Thursday on week 3
+* Присоединиться до 00:00 UTC, четверг недели 1
+* Иметь активную фиксированную позицию стейкинга CAKE, которая разблокируется не ранее 00:00 UTC, четверг недели 3
 
-### 2 - Check your rewards
+### 2 — Проверь свои вознаграждения
 
-<figure><img src="../../../../.gitbook/assets/image (356).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28356%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Go to the CAKE staking page, scroll down, look for the "Earn CAKE" section under "Benefits of veCAKE".
+Перейди на страницу стейкинга CAKE, прокрути вниз и найди раздел «Earn CAKE» в разделе «Benefits of veCAKE».
 
-In the top section, you may view your veCAKE number.
+В верхней части можно просмотреть свой показатель veCAKE.
 
-At the bottom, you may find:
+Внизу можно найти:
 
-* **Your shares** - shares number in the reward pool. This is equal to your veCAKE balance at the time of the next distribution. Please note that the veCAKE balance is constantly decreasing based on the remaining lock time.
-* **Next distribution** - the time till the next distribution
-* **Last distribution** - the time of the last revenue distribution and share number update
-* **Available for claiming** - the amount of CAKE available for claiming
+* **Твои доли (Your shares)** — количество долей в пуле вознаграждений. Это число равно твоему балансу veCAKE на момент следующего распределения. Обрати внимание, что баланс veCAKE постоянно уменьшается в зависимости от оставшегося времени блокировки.
+* **Следующее распределение (Next distribution)** — время до следующего распределения
+* **Последнее распределение (Last distribution)** — время последнего распределения дохода и обновления количества долей
+* **Доступно для получения (Available for claiming)** — количество CAKE, доступных для клейма
 
 {% hint style="info" %}
-Please note that your shares will only be updated upon a weekly distribution. Therefore, your shares may appear to be 0 right after you update your staking position. Check back again after the next distribution to view your shares.
+Обрати внимание, что твои доли обновляются только при еженедельном распределении. Поэтому сразу после обновления позиции стейкинга доли могут отображаться как 0. Проверь снова после следующего распределения.
 {% endhint %}
 
-### 3 - Claim your rewards <a href="#d99a5c97-55b7-4768-ac3e-c05e173ed63f" id="d99a5c97-55b7-4768-ac3e-c05e173ed63f"></a>
+### 3 — Получи вознаграждения <a href="#d99a5c97-55b7-4768-ac3e-c05e173ed63f" id="d99a5c97-55b7-4768-ac3e-c05e173ed63f"></a>
 
-Your shares will be updated upon the next weekly distribution after you start locking or migrated your position to veCAKE. You will start accumulating rewards based on the number of shares you have against the whole pool.
+Твои доли будут обновлены при следующем еженедельном распределении после начала блокировки или миграции позиции в veCAKE. Ты начнёшь накапливать вознаграждения пропорционально количеству своих долей в общем пуле.
 
-<figure><img src="../../../../.gitbook/assets/image (357).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28357%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-After a whole calendar week passes and the pool hits the next weekly distribution on Thursday. You may now claim the rewards from the last period by going back to the benefits panel and clicking the “Claim All” button.
+После того как пройдёт полная календарная неделя и пул достигнет следующего еженедельного распределения в четверг, ты сможешь получить вознаграждения за прошлый период, вернувшись на панель преимуществ и нажав кнопку «Claim All».
 
-### 4 - Stay eligible and gain more shares <a href="#id-3ca775e2-6d26-4dee-94e4-e03d89b57412" id="id-3ca775e2-6d26-4dee-94e4-e03d89b57412"></a>
+### 4 — Оставайся участником и увеличивай доли <a href="#id-3ca775e2-6d26-4dee-94e4-e03d89b57412" id="id-3ca775e2-6d26-4dee-94e4-e03d89b57412"></a>
 
-Upon each weekly distribution, your shares are re-adjusted based on:
+При каждом еженедельном распределении твои доли пересчитываются на основе:
 
-* Your veCAKE balance
-* At the time of the next distribution (00:00 UTC, Thursday)
-* (note that veCAKE is gradually decreasing with the remaining lock time)
+* Твоего баланса veCAKE
+* На момент следующего распределения (00:00 UTC, четверг)
+* (учти, что veCAKE постепенно уменьшается с оставшимся временем блокировки)
 
-For example: If a user has `50` CAKE locked and the current remaining lock time is `4.2` weeks, then the user will have `50 * (4 / 209) ~= 0.95` veCAKE/shares at the next distribution.
+Например: если у пользователя заблокировано `50` CAKE и текущее оставшееся время блокировки составляет `4,2` недели, то на момент следующего распределения у него будет `50 * (4 / 209) ~= 0,95` veCAKE/долей.
 
-To receive more shares, lock more CAKE or renew your lock durations to increase your remaining lock time.
+Чтобы получить больше долей, заблокируй больше CAKE или обнови сроки блокировки для увеличения оставшегося времени.
 
-Additionally, since the remaining lock duration will be rounded down to weeks, to keep receiving shares, you must ensure your staking position will unlock equal to or later than the second next distribution.
+Кроме того, поскольку оставшееся время блокировки округляется в меньшую сторону до недель, для продолжения получения долей необходимо убедиться, что твоя позиция стейкинга разблокируется не ранее второго предстоящего распределения.
 
-For example, to join the week 1 distribution. You must:
+Например, для участия в распределении недели 1 необходимо:
 
-* Join before 00:00 UTC, Thursday on week 1
-* Have an active fixed-term CAKE staking position, which unlocks equal to or later than 00:00 UTC, Thursday on week 3
+* Присоединиться до 00:00 UTC, четверг недели 1
+* Иметь активную фиксированную позицию стейкинга CAKE, которая разблокируется не ранее 00:00 UTC, четверг недели 3

@@ -4,41 +4,41 @@ hidden: true
 
 # veCAKE Sunset
 
-As part of the [Tokenomics 3.0 upgrade](https://pancakeswap.finance/voting/proposal/0x79ef496c9737e48d9677a6e291ff2a549dee6729c9996398e453af8ecbf0ceb3), veCAKE and its connected products are being sunset. Here’s a breakdown of the **some main product areas** affected and when the changes will take effect:
+В рамках [обновления Tokenomics 3.0](https://pancakeswap.finance/voting/proposal/0x79ef496c9737e48d9677a6e291ff2a549dee6729c9996398e453af8ecbf0ceb3) veCAKE и связанные с ним продукты выводятся из эксплуатации. Ниже представлен обзор **основных затронутых продуктов** и сроков вступления изменений в силу:
 
-## Which products are affected?
+## Какие продукты затронуты?
 
-1. **veCAKE and Gauges Voting**
+1. **veCAKE и Gauges Voting**
 
-* Starting **00:00 AM UTC April 23, 2025**, veCAKE and all gauge voting will be retired.
-* The final gauge voting will end on **00:00 AM UTC, April 23, 2025 (Epoch 37)**
-* Results from Epoch 37 will be executed in **Epoch 38 (April 25 – May 6)**.
-* **Gauges rewards**, including veCAKE Pool APR and Bribe APR, will continue to accrue **until May 7, 2025**.
+* Начиная с **00:00 UTC 23 апреля 2025 года**, veCAKE и все голосование по гейджам будет прекращено.
+* Последнее голосование по гейджам завершится **00:00 UTC, 23 апреля 2025 года (Epoch 37)**
+* Результаты Epoch 37 будут применены в **Epoch 38 (25 апреля – 6 мая)**.
+* **Вознаграждения гейджей**, включая APR пула veCAKE и APR взяток, продолжат начисляться **до 7 мая 2025 года**.
 
-2. **Yield farming**
+2. **Yield Farming**
 
-Boosts (from veCAKE) will be phased out across position managers, Syrup Pools, and farming activities between **April 24 and May 7, 2025**.
+Бусты (от veCAKE) будут постепенно отключены в менеджерах позиций, Syrup Pools и фарминг-активности в период **с 24 апреля по 7 мая 2025 года**.
 
-3. Revenue Sharing
+3. Распределение дохода
 
-**5% Revenue Sharing** from trading fees will end on **00:00 UTC on May 7, 2025**. Funds that were previously allocated to revenue sharing will now be redirected to the **CAKE burn mechanism**, increasing the burn rate for these pools from **10% to 15%**.
-
-{% hint style="info" %}
-🧭 **Note**: The PancakeSwap website will be updated progressively to reflect the full retirement of veCAKE-related features across the platform.
-{% endhint %}
-
-## What actions do you need to take?
+**5% распределение дохода** от торговых комиссий завершится **00:00 UTC, 7 мая 2025 года**. Средства, ранее направлявшиеся на распределение дохода, теперь будут перенаправлены в **механизм сжигания CAKE**, увеличивая темп сжигания для этих пулов с **10% до 15%**.
 
 {% hint style="info" %}
-Cake Redemption Guide: [staked-cake-redemption.md](staked-cake-redemption.md "mention")
+🧭 **Примечание**: Сайт PancakeSwap будет постепенно обновляться, чтобы отразить полное прекращение работы функций, связанных с veCAKE, на платформе.
 {% endhint %}
 
-1. **Claim Rewards**: To earn rewards from the final **Epoch 38** (April 25–May 7, 2025), make sure **not to withdraw your CAKE before 00:00 AM UTC, May 7, 2025**.
-2.  **Redeem CAKE/veCAKE:** Users who have directly staked CAKE through the PancakeSwap interface have 6 months to redeem their staked CAKE and veCAKE, with the redemption **deadline set for October 23, 2025.**<br>
+## Какие действия необходимо предпринять?
 
-    For veCAKE linked to **veCAKE managers (e.g., Aster, StakeDAO, CakePie),** PancakeSwap will whitelist the delegator addresses for locker protocols that enable 1:1 redemptions. These protocols will launch a redemption page on their interfaces, allowing users who have staked with them to redeem their xCAKE for CAKE on a **1:1 basis. Please refer to the respective veCAKE Managers’ announcements for more detail** .
+{% hint style="info" %}
+Руководство по погашению CAKE: [staked-cake-redemption.md](staked-cake-redemption.md "mention")
+{% endhint %}
 
-For more on these changes, check out:
+1. **Получи вознаграждения**: Чтобы получить вознаграждения за последний **Epoch 38** (25 апреля – 7 мая 2025 года), убедись, что **не выводишь CAKE до 00:00 UTC, 7 мая 2025 года**.
+2.  **Погаси CAKE/veCAKE:** У пользователей, которые напрямую застейкали CAKE через интерфейс PancakeSwap, есть 6 месяцев для погашения своего стейканого CAKE и veCAKE, **срок погашения установлен на 23 октября 2025 года.**<br>
 
-* 📖 [CAKE Tokenomics 3.0 Docs](https://docs.pancakeswap.finance/protocol/cake-tokenomics)
-* 📝 [Blog Post: What You Need to Know](https://blog.pancakeswap.finance/articles/implementation-of-cake-tokenomics-3-0-what-you-need-to-know)
+    Для veCAKE, связанных с **менеджерами veCAKE (например, Aster, StakeDAO, CakePie),** PancakeSwap добавит адреса делегаторов в белый список для протоколов локеров, которые обеспечивают обмен в соотношении 1:1. Эти протоколы запустят страницу погашения в своих интерфейсах, позволяя пользователям, которые стейкали у них, обменять xCAKE на CAKE в **соотношении 1:1. Подробности смотри в анонсах соответствующих менеджеров veCAKE**.
+
+Подробнее об этих изменениях:
+
+* 📖 [Документация CAKE Tokenomics 3.0](https://docs.pancakeswap.finance/protocol/cake-tokenomics)
+* 📝 [Запись в блоге: Что нужно знать](https://blog.pancakeswap.finance/articles/implementation-of-cake-tokenomics-3-0-what-you-need-to-know)

@@ -1,45 +1,45 @@
-# Migrate from CAKE Pool
+# Миграция из CAKE Pool
 
-<figure><img src="../../../.gitbook/assets/image (348).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28348%29.png" alt=""><figcaption></figcaption></figure>
 
-If you currently have an active fixed-term CAKE staking position, you can migrate it to veCAKE to unlock all the benefits of the new veCAKE instantly.
+Если у тебя есть активная фиксированная позиция стейкинга CAKE, ты можешь мигрировать её в veCAKE, чтобы мгновенно разблокировать все преимущества нового veCAKE.
 
 {% hint style="warning" %}
-* Migration is **one-way**, **one-time**, with all the CAKE currently in the CAKE pool position (including rewards). Partial delegation is not available.
-* Migration can only be performed on an active position with more than 7 days in remaining lock time.
-* You can NOT extend or add more CAKE to a migrated position. However, you can create a new veCAKE position by locking CAKE. Then, perform add CAKE or extend position on the native veCAKE staking position.
+* Миграция является **односторонней** и **единовременной** — со всем CAKE в позиции CAKE Pool (включая вознаграждения). Частичная делегация недоступна.
+* Миграция возможна только для активной позиции с оставшимся временем блокировки более 7 дней.
+* Ты **НЕ** можешь продлить или добавить CAKE в мигрированную позицию. Однако ты можешь создать новую позицию veCAKE путём блокировки CAKE. Затем добавь CAKE или продли позицию в нативной позиции стейкинга veCAKE.
 {% endhint %}
 
-## Go to the CAKE staking page <a href="#c866162b-886c-49bb-9906-9c5b861f3f67" id="c866162b-886c-49bb-9906-9c5b861f3f67"></a>
+## Перейди на страницу стейкинга CAKE <a href="#c866162b-886c-49bb-9906-9c5b861f3f67" id="c866162b-886c-49bb-9906-9c5b861f3f67"></a>
 
-<figure><img src="../../../.gitbook/assets/image (349).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28349%29.png" alt=""><figcaption></figcaption></figure>
 
-Navigate to [https://pancakeswap.finance/cake-staking?chain=bsc](https://pancakeswap.finance/cake-staking?chain=bsc) and connect your wallet. Please note that veCAKE staking is only available on the BNB Chain.
+Перейди на [https://pancakeswap.finance/cake-staking?chain=bsc](https://pancakeswap.finance/cake-staking?chain=bsc) и подключи кошелёк. Обрати внимание, что стейкинг veCAKE доступен только в BNB Chain.
 
-If you have an active, fixed-term CAKE staking position in the CAKE pool, you should see the option to migrate.
+Если у тебя есть активная фиксированная позиция стейкинга CAKE в CAKE Pool, ты увидишь возможность для миграции.
 
-Simply click the button, and confirm the transaction in the wallet pop-up.
+Просто нажми кнопку и подтверди транзакцию во всплывающем окне кошелька.
 
-## Create a native position after migration <a href="#id-0df64f02-9e5c-4c09-b17e-1ca654488474" id="id-0df64f02-9e5c-4c09-b17e-1ca654488474"></a>
+## Создай нативную позицию после миграции <a href="#id-0df64f02-9e5c-4c09-b17e-1ca654488474" id="id-0df64f02-9e5c-4c09-b17e-1ca654488474"></a>
 
-<figure><img src="../../../.gitbook/assets/image (350).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28350%29.png" alt=""><figcaption></figcaption></figure>
 
-Once migrated, you should see your veCAKE balance, the number of CAKE locked, and the unlock time being updated on the left. They should be aligned with your current CAKE pool position.
+После миграции слева ты увидишь обновлённый баланс veCAKE, количество заблокированных CAKE и время разблокировки. Они должны соответствовать твоей текущей позиции CAKE Pool.
 
-However, the migrated position can not be updated. If you want to get more veCAKE, create a new native veCAKE staking position on the right by locking extra CAKE.&#x20;
+Однако мигрированную позицию нельзя обновить. Если хочешь получить больше veCAKE, создай новую нативную позицию стейкинга veCAKE справа, заблокировав дополнительный CAKE.&#x20;
 
-After creating a native position, you can start extending its lock duration, as well as adding more CAKE, using the pannel on the right.
+После создания нативной позиции ты можешь начать продлевать срок её блокировки, а также добавлять CAKE через панель справа.
 
-## Check the breakdown of the number of CAKE and unlock time <a href="#id-10ffc408-be58-4fa8-af56-be9f74d03f42" id="id-10ffc408-be58-4fa8-af56-be9f74d03f42"></a>
+## Проверь разбивку количества CAKE и времени разблокировки <a href="#id-10ffc408-be58-4fa8-af56-be9f74d03f42" id="id-10ffc408-be58-4fa8-af56-be9f74d03f42"></a>
 
-<figure><img src="../../../.gitbook/assets/image (351).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28351%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Once you have both migrated and native veCAKE staking positions, your veCAKE balance will be a combined number of the two. To check more details and the breakdown, simply tap/hover on the veCAKE, locked amount and unlock time.
+Если у тебя есть как мигрированная, так и нативная позиции стейкинга veCAKE, твой баланс veCAKE будет суммарным. Для просмотра подробностей и разбивки просто нажми/наведи курсор на veCAKE, заблокированную сумму и время разблокировки.
 
-Alternatively, you may click “View CAKE Pool Position” to go to CAKE pool for more details.
+Также можно нажать «View CAKE Pool Position», чтобы перейти в CAKE Pool для получения дополнительной информации.
 
-## Withdraw CAKE from CAKE staking pool <a href="#id-069e3aca-6b5d-45b0-a07c-ef4645ee0ccd" id="id-069e3aca-6b5d-45b0-a07c-ef4645ee0ccd"></a>
+## Вывод CAKE из пула стейкинга CAKE <a href="#id-069e3aca-6b5d-45b0-a07c-ef4645ee0ccd" id="id-069e3aca-6b5d-45b0-a07c-ef4645ee0ccd"></a>
 
-The migrated position will unlock according to its original end time. Upon unlock, go to the Pools page and, withdraw the staked CAKE; add them into veCAKE staking to boost your veCAKE balance as well as other juicy benefits.
+Мигрированная позиция разблокируется в соответствии с исходным сроком. После разблокировки перейди на страницу Pools и выведи застейканный CAKE; добавь его в стейкинг veCAKE для увеличения баланса veCAKE и получения других привлекательных преимуществ.
 
-Please note that after burning is still effective, to avoid rewards being burned, withdraw CAKE and add them to veCAKE as soon as possible when the migration position unlocks.
+Обрати внимание: поскольку сжигание всё ещё действует, во избежание сжигания вознаграждений выводи CAKE и добавляй его в veCAKE как можно быстрее при разблокировке мигрированной позиции.

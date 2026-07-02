@@ -1,46 +1,45 @@
-# Aptos FAQ
+# FAQ по Aptos
 
-<figure><img src="../../../.gitbook/assets/Aptos-faq-header.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Aptos-faq-header.png" alt=""><figcaption></figcaption></figure>
 
-This FAQ page answers some of the more commonly asked questions from the PancakeSwap community about our Aptos Deployment.
+На этой странице FAQ собраны наиболее частые вопросы сообщества PancakeSwap о нашем развёртывании на Aptos.
 
-## General
+## Общие вопросы
 
-### How to bridge from BSC (Binance Smart Chain) to Aptos?
+### Как перевести активы из BSC (Binance Smart Chain) в Aptos?
 
-Check out [our bridging guide](aptos-coin-guide.md) for various bridging solutions.
+Ознакомься с [нашим руководством по бриджингу](aptos-coin-guide.md), где описаны различные решения.
 
-If you want to bridge CAKE token, check out our [CAKE bridging guide](cake-bridging-guide.md).
+Если ты хочешь перевести токен CAKE, ознакомься с нашим [руководством по бриджингу CAKE](cake-bridging-guide.md).
 
-### Which wallet I can use for Aptos Chain?
+### Какой кошелёк можно использовать для сети Aptos Chain?
 
-Check out [our wallet guide](wallet-guide.md) to download and set up your wallet for Aptos.
+Ознакомься с [нашим руководством по кошелькам](wallet-guide.md), чтобы скачать и настроить кошелёк для Aptos.
 
-### Showing "Price Impact Too High" when swapping coins
+### Отображается «Price Impact Too High» при обмене монет
 
-This is likely due to bad network connections to blockchain nodes. Refresh the page, and check your network connection.
+Скорее всего, это связано с плохим соединением с узлами блокчейна. Обнови страницу и проверь подключение к сети.
 
-If the error persists, it means the pair of coins you are trying to swap has insufficient liquidity for the amount you are trying to swap. The liquidity for major coins will slowly and steadily be improved over time, and the liquidity issue will likely be solved when our Aptos Farms are deployed. (SOON!)
+Если ошибка не исчезает, это означает, что пара монет, которую ты пытаешься обменять, имеет недостаточную ликвидность для запрошенного объёма. Ликвидность для основных монет будет постепенно увеличиваться, и проблема с ликвидностью, скорее всего, будет решена после запуска наших Aptos Farms. (СКОРО!)
 
-### I couldn't find the coin I wanted to swap
+### Не могу найти монету для обмена
 
-The default list on Aptos Swap only shows coins from well-known projects with a sufficient amount of liquidity.
+Список по умолчанию на Aptos Swap показывает только монеты известных проектов с достаточным уровнем ликвидности.
 
-If you want to swap other coins that are not on the default list, import them using their coin address.
+Если ты хочешь обменять другие монеты, которых нет в списке по умолчанию, добавь их по адресу монеты.
 
-### Why I can’t trade CAKE on Aptos Swap?
+### Почему я не могу торговать CAKE на Aptos Swap?
 
-_updated on 2022-12-13_
+_обновлено 13.12.2022_
 
-CAKE token/coin is now live on Aptos. Check out our [CAKE bridging guide](cake-bridging-guide.md) to learn more about bridging CAKE tokens between Aptos and BNB Smart Chain.
+Токен/монета CAKE теперь доступна на Aptos. Ознакомься с нашим [руководством по бриджингу CAKE](cake-bridging-guide.md), чтобы узнать больше о переводе токенов CAKE между Aptos и BNB Smart Chain.
 
-### Do I need to stake CAKE on Aptos to participate in Aptos IFOs?
+### Нужно ли стейкировать CAKE на Aptos для участия в Aptos IFOs?
 
-PancakeSwap IFO has not yet been deployed on Aptos. (SOON!) Keep staking your CAKE, and stay tuned for more news.
+IFO на PancakeSwap ещё не запущены на Aptos. (СКОРО!) Продолжай стейкировать свои CAKE и следи за новостями.
 
-## CAKE Bridging
+## Бриджинг CAKE
 
 {% hint style="info" %}
-This document has been migrated [here](../../../bridge/faq/)
+Этот документ перенесён [сюда](../../../bridge/faq/)
 {% endhint %}
-

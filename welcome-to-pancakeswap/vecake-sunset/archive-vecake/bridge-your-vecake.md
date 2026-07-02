@@ -1,55 +1,55 @@
-# Bridge your veCAKE
+# Перенеси своё veCAKE через мост
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%283%29%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
-To enjoy the benefits of veCAKE such as bCAKE (Farm yield boosting) and iCAKE (IFO public sales allocation) on other chains. You need to perform a simple bridging request on BNB Chain to sync your veCAKE balance and PancakeProfile to other chains.
+Чтобы пользоваться преимуществами veCAKE, такими как bCAKE (бустинг доходности фарминга) и iCAKE (выделение мест в публичных продажах IFO) в других сетях, тебе нужно выполнить простой запрос на бриджинг в BNB Chain для синхронизации баланса veCAKE и PancakeProfile с другими сетями.
 
-## How to bridge? <a href="#id-734b8113-0e00-40ff-bccb-9c129460e2e2" id="id-734b8113-0e00-40ff-bccb-9c129460e2e2"></a>
+## Как выполнить бриджинг? <a href="#id-734b8113-0e00-40ff-bccb-9c129460e2e2" id="id-734b8113-0e00-40ff-bccb-9c129460e2e2"></a>
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%285%29.png" alt=""><figcaption></figcaption></figure>
 
-Go to [CAKE Staking](https://pancakeswap.finance/cake-staking) page and locate the veCAKE Sync card under the veCAKE benefits. Click “View Details” to open the sync modal.
+Перейди на страницу [CAKE Staking](https://pancakeswap.finance/cake-staking) и найди карточку veCAKE Sync в разделе преимуществ veCAKE. Нажми «View Details», чтобы открыть модальное окно синхронизации.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="253"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.png" alt="" width="253"><figcaption></figcaption></figure>
 
-In the modal. You can view the number of veCAKE you have on BNB Chain. As well as the list of destination chains, you may bridge your veCAKE and Pancake Profile to your veCAKE and Pancake Profile status on each of the chains.
+В модальном окне ты можешь просмотреть количество veCAKE в BNB Chain, а также список целевых сетей, в которые можно перенести veCAKE и Pancake Profile.
 
-To sync, select the chain, and click “Sync”, then confirm in your wallet popup.
+Для синхронизации выбери сеть и нажми «Sync», затем подтверди во всплывающем окне кошелька.
 
-It may take up to 20 mins to complete the bridging. You may check the bridging progress in the sync modal.&#x20;
+Бриджинг может занять до 20 минут. Ты можешь отслеживать его прогресс в модальном окне синхронизации.&#x20;
 
-Note:
+Примечания:
 
-* You can only bridge one chain at a time. To sync your veCAKE to multiple chains, repeat the above process.
-* BNB will be charged upon the bridging request to cover the gas cost on the destination chain. The amount of BNB depends on the destination chain. Chains like the Ethereum mainnet will be significantly more expensive to sync due to the high gas cost.
-* To avoid unnecessary gas spent. Sync your veCAKE only to the chain where you want to enjoy the benefits.
-* After adding more CAKE or extending your veCAKE staking position, repeat the above process to update the veCAKE balance on the destination chains to ensure your benefits are up-to-date.
+* Одновременно можно переносить только одну сеть. Для синхронизации veCAKE с несколькими сетями повтори процесс.
+* При запросе бриджинга взимается BNB для покрытия расходов на газ в целевой сети. Сумма BNB зависит от целевой сети. Такие сети, как Ethereum mainnet, будут значительно дороже для синхронизации из-за высокой стоимости газа.
+* Чтобы избежать лишних затрат на газ, синхронизируй veCAKE только с той сетью, где хочешь пользоваться преимуществами.
+* После добавления CAKE или продления позиции стейкинга veCAKE повтори процесс, чтобы обновить баланс veCAKE в целевых сетях и убедиться, что твои преимущества актуальны.
 
 ## FAQ <a href="#id-9d6ee706-cd48-4d71-a5f8-c3de3d7d3aad" id="id-9d6ee706-cd48-4d71-a5f8-c3de3d7d3aad"></a>
 
-**Q: How often do I need to sync my veCAKE and Pancake Profile?**
+**В: Как часто нужно синхронизировать veCAKE и Pancake Profile?**
 
-A: For veCAKE, you only need to sync whenever you add more CAKE, extend the lock duration or perform a relock. Your veCAKE balance on destination chains will linearly decrease along with the balance on the BNB Chain.
+О: Для veCAKE синхронизация нужна только при добавлении CAKE, продлении срока блокировки или повторной блокировке. Баланс veCAKE в целевых сетях будет линейно уменьшаться вместе с балансом в BNB Chain.
 
-For Pancake Profile and its NFT. You will need to perform two syncs to participate in the Private Sales. The first one should be performed when the IFO is published and becomes viewable on UI. Another one should be performed after the IFO sale ends to enable claiming.
+Для Pancake Profile и его NFT необходимо выполнить две синхронизации для участия в Private Sales. Первая должна быть выполнена, когда IFO опубликован и отображается в интерфейсе. Вторая — после завершения продажи IFO для возможности клейма.
 
-**Q: How long does the bridging take?**
+**В: Сколько времени занимает бриджинг?**
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="" width="253"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%282%29%20%281%29%20%281%29.png" alt="" width="253"><figcaption></figcaption></figure>
 
-Depending on the destination chains. It usually takes around 2-5 mins to bridge and fully sync. For some slower chains, it could take up to 30 mins. To track your bridging request, check the sync modal for the LayerZero explorer link. Or head to [https://layerzeroscan.com/](https://layerzeroscan.com/) and search via the BNB Chain tx id.
+Зависит от целевой сети. Обычно бриджинг и полная синхронизация занимают около 2–5 минут. Для некоторых более медленных сетей это может занять до 30 минут. Для отслеживания запроса на бриджинг проверь в модальном окне синхронизации ссылку на обозреватель LayerZero. Или перейди на [https://layerzeroscan.com/](https://layerzeroscan.com/) и найди запрос по ID транзакции BNB Chain.
 
-**Q: Why the bridging tx on BNB Chain is failing?**
+**В: Почему транзакция бриджинга в BNB Chain завершается с ошибкой?**
 
-A:
+О:
 
-* It could be because the gas estimation for the destination chain is out of date. Please refresh the page and retry.
-* Please also ensure there are sufficient amounts of BNB in the wallet to settle the gas fee required on the destination chain.
+* Возможно, оценка газа для целевой сети устарела. Обнови страницу и повтори попытку.
+* Также убедись, что в кошельке достаточно BNB для оплаты комиссии за газ в целевой сети.
 
-**Q: Why my veCAKE or Pancake Profile is not bridged?**
+**В: Почему моё veCAKE или Pancake Profile не был перенесён?**
 
-A:
+О:
 
-* veCAKE position with less than 1 day in the remaining lock time will not be bridged. Please first extend the lock and retry the sync.
-* The sync could take up to 30 minutes to complete. Please head to https://layerzeroscan.com/ and search via the BNB Chain tx ID to confirm that the bridging status is “Delivered.”
-* If the bridging status is “Failed” or “Blocked”. Please contact one of our ambassadors via the public channel for more details.
+* Позиция veCAKE с оставшимся временем блокировки менее 1 дня не будет перенесена. Сначала продли блокировку и повтори синхронизацию.
+* Синхронизация может занять до 30 минут. Перейди на https://layerzeroscan.com/ и найди по ID транзакции BNB Chain, чтобы убедиться, что статус бриджинга «Delivered».
+* Если статус бриджинга «Failed» или «Blocked», свяжись с одним из наших амбассадоров через публичный канал для получения подробностей.
