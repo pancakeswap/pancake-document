@@ -1,66 +1,66 @@
 ---
-description: Bridge CAKE between Ethereum, BNB Chain, Aptos, and many more
+description: Faça Bridge de CAKE entre Ethereum, BNB Chain, Aptos e muito mais
 ---
 
 # 🌉 Bridging
 
-<figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28118%29.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
-Bridging to/from EVMs (New site): [https://pancakeswap.finance/bridge](https://pancakeswap.finance/bridge)
+Bridging de/para EVMs (Novo site): [https://pancakeswap.finance/bridge](https://pancakeswap.finance/bridge)
 
-Bridging to/from Aptos (V1 Bridge): [https://bridge.pancakeswap.finance/](https://bridge.pancakeswap.finance/)
+Bridging de/para Aptos (Bridge V1): [https://bridge.pancakeswap.finance/](https://bridge.pancakeswap.finance/)
 {% endhint %}
 
-## What is bridging in crypto?
+## O que é bridging em cripto?
 
-* Bridging in crypto refers to the process of transferring assets between different blockchain networks.
-* It enhances interoperability, allowing for data and asset transfers across various networks.
+* Bridging em cripto refere-se ao processo de transferir ativos entre diferentes redes blockchain.
+* Ele melhora a interoperabilidade, permitindo a transferência de dados e ativos entre diversas redes.
 
 \
-Here are some reasons you may want to bridge:
+Aqui estão alguns motivos pelos quais você pode querer fazer bridge:
 
-* Buy different cryptocurrency tokens
-* Mint an NFT only available on a specific network
-* Save money with cheaper transactions
-* Use a dapp only available on another network
-
-***
-
-## CAKE, a multichain token
-
-With our multichain expansion and deployment, CAKE is now a multichain token that is native to BNB Chain, but also available across Base, Arbitrum, Solana, Ethereum, ZKsync, Linea, opBNB, and Aptos.
-
-CAKE on any of the other chains is equal to CAKE on BNB Smart Chain. It can always be bridged between these chains at a 1:1 ratio and without any fee in CAKE.
-
-**Please note that there is only one CAKE.** There are no different versions of CAKE on different chains. The total supply of CAKE across all blockchains is capped at 400M, as outlined in this [vote proposal](https://pancakeswap.finance/voting/proposal/0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5).
+* Comprar diferentes tokens de criptomoeda
+* Mintar um NFT disponível apenas em uma rede específica
+* Economizar dinheiro com transações mais baratas
+* Usar um dapp disponível apenas em outra rede
 
 ***
 
-## What is the PancakeSwap Bridge?
+## CAKE, um token multichain
 
-The PancakeSwap Bridge is a convenient, in-app tool that allows you to move assets between different blockchains directly through the PancakeSwap interface. Instead of visiting external bridge sites, you can bridge supported tokens between chains like BNB Chain, Ethereum, Base, Arbitrum, and more—all from one place.
+Com nossa expansão e implantação multichain, o CAKE agora é um token multichain nativo da BNB Chain, mas também disponível em Base, Arbitrum, Solana, Ethereum, ZKsync, Linea, opBNB e Aptos.
 
-The PancakeSwap Bridge is powered by trusted third-party providers and works as an **aggregator**—selecting the best route based on price, speed, and reliability.
+O CAKE em qualquer uma das outras chains é igual ao CAKE na BNB Smart Chain. Ele sempre pode ser transferido entre essas chains em uma proporção de 1:1 e sem nenhuma taxa em CAKE.
 
-To learn how to bridge CAKE, check out the tutorials and FAQ in the following sections.
+**Por favor, note que existe apenas um CAKE.** Não há versões diferentes de CAKE em diferentes chains. O fornecimento total de CAKE em todas as blockchains é limitado a 400M, conforme descrito nesta [proposta de votação](https://pancakeswap.finance/voting/proposal/0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5).
 
 ***
 
-## 🔗 How It Works
+## O que é o PancakeSwap Bridge?
 
-### Bridging via Aggregators
+O PancakeSwap Bridge é uma ferramenta conveniente dentro do aplicativo que permite mover ativos entre diferentes blockchains diretamente pela interface do PancakeSwap. Em vez de visitar sites externos de bridge, você pode fazer bridge de tokens suportados entre chains como BNB Chain, Ethereum, Base, Arbitrum e mais — tudo em um só lugar.
 
-The PancakeSwap Bridge acts as a smart layer over trusted third-party bridge protocols. When you initiate a bridge transfer, PancakeSwap:
+O PancakeSwap Bridge é desenvolvido por provedores terceirizados confiáveis e funciona como um **agregador** — selecionando a melhor rota com base em preço, velocidade e confiabilidade.
 
-* Checks multiple integrated bridges for optimal routes
-* Sends your transaction to the selected provider
+Para aprender como fazer bridge de CAKE, confira os tutoriais e o FAQ nas seções a seguir.
 
-Bridging is non-custodial—your assets do not touch PancakeSwap custody. Transfers are handled directly by the bridge providers.
+***
 
-### Supported Bridge Providers
+## 🔗 Como Funciona
 
-We currently integrate with:
+### Bridging via Agregadores
+
+O PancakeSwap Bridge atua como uma camada inteligente sobre protocolos de bridge terceirizados confiáveis. Quando você inicia uma transferência de bridge, o PancakeSwap:
+
+* Verifica múltiplos bridges integrados para rotas otimizadas
+* Envia sua transação para o provedor selecionado
+
+O bridging é não custodial — seus ativos não passam pela custódia do PancakeSwap. As transferências são realizadas diretamente pelos provedores de bridge.
+
+### Provedores de Bridge Suportados
+
+Atualmente integramos com:
 
 * deBridge
 * cBridge
@@ -68,13 +68,13 @@ We currently integrate with:
 * Stargate
 * Meson
 
-> Note: Each provider has different bridging mechanics, supported chains, fees, and limits.
+> Nota: Cada provedor tem mecânicas de bridging, chains suportadas, taxas e limites diferentes.
 
 ***
 
-### Supported Chains and Tokens
+### Chains e Tokens Suportados
 
-#### Chains Currently Supported
+#### Chains Atualmente Suportadas
 
 * BNB Chain
 * Base
@@ -83,11 +83,11 @@ We currently integrate with:
 * opBNB
 * ZKsync
 * Linea
-* Aptos (V1 site)
+* Aptos (site V1)
 
-#### Tokens Available for Bridging
+#### Tokens Disponíveis para Bridging
 
-Available tokens vary by chain and route. Common supported tokens include (but are not limited to):
+Os tokens disponíveis variam por chain e rota. Tokens comuns suportados incluem (mas não estão limitados a):
 
 * CAKE
 * USDT
@@ -96,89 +96,89 @@ Available tokens vary by chain and route. Common supported tokens include (but a
 
 ***
 
-#### Limitations & Exclusions
+#### Limitações e Exclusões
 
-Some tokens may not be supported due to bridge limitations or liquidity constraints. These have been filtered out for the best user experience. For example:
+Alguns tokens podem não ser suportados devido a limitações do bridge ou restrições de Liquidez. Estes foram filtrados para a melhor experiência do usuário. Por exemplo:
 
-**For cBridge:**
+**Para cBridge:**
 
 * Wrapped BNB (BNB Chain)
 * USDT (Arbitrum)
 * USDC.e (Arbitrum)
 
-**For deBridge:**
+**Para deBridge:**
 
 * cUSDCv3 (Ethereum)
 * cUSDCv3 (Polygon)
 * cUSDCv3 (Arbitrum)
 
-_The above are examples. The actual available tokens per chain are shown directly in the Bridge UI._
+_Os itens acima são exemplos. Os tokens realmente disponíveis por chain são mostrados diretamente na interface do Bridge._
 
 ***
 
-### 💸 Fees and Costs
+### 💸 Taxas e Custos
 
-#### Bridge Fees
+#### Taxas de Bridge
 
-* Charged by the underlying bridge provider
-* Typically includes a small fee per transfer
-* Clearly shown before you confirm your bridge
-
-***
-
-#### Gas Costs
-
-* You pay gas fees on the **source chain** to initiate the transaction
-* Some providers may also require gas on the **destination chain**
-* **Tip:** Always keep native tokens (e.g., ETH, BNB) on both sides of the bridge
+* Cobradas pelo provedor de bridge subjacente
+* Normalmente inclui uma pequena taxa por transferência
+* Claramente exibidas antes de você confirmar seu bridge
 
 ***
 
-#### Minimum Amounts & Restrictions
+#### Custos de Gas
 
-Some bridge routes enforce:
-
-* **Minimum/maximum bridge amounts** (e.g., minimum of 10 USDC)
-* **Supported token decimals or formats** (e.g., only ERC-20 tokens)
-
-The UI will automatically detect and display invalid transfers.
+* Você paga as taxas de gas na **chain de origem** para iniciar a transação
+* Alguns provedores também podem exigir gas na **chain de destino**
+* **Dica:** Sempre mantenha tokens nativos (ex.: ETH, BNB) em ambos os lados do bridge
 
 ***
 
-### ⏳ Transaction Times & Tracking
+#### Quantias Mínimas e Restrições
 
-#### How Long Does Bridging Take?
+Algumas rotas de bridge impõem:
 
-Bridge transfers typically complete within a few **minutes**, depending on:
+* **Quantias mínimas/máximas de bridge** (ex.: mínimo de 10 USDC)
+* **Decimais ou formatos de token suportados** (ex.: apenas tokens ERC-20)
 
-* Source and destination chains
-* Network congestion
-* Bridge provider efficiency
+A interface detectará e exibirá automaticamente transferências inválidas.
 
-#### Tracking Your Transfer
+***
 
-Once submitted, you can view the transaction status through provider-specific explorers:
+### ⏳ Tempos de Transação e Rastreamento
+
+#### Quanto Tempo Leva o Bridging?
+
+As transferências de bridge normalmente são concluídas em alguns **minutos**, dependendo de:
+
+* Chains de origem e destino
+* Congestionamento da rede
+* Eficiência do provedor de bridge
+
+#### Rastreando Sua Transferência
+
+Após o envio, você pode visualizar o status da transação através dos exploradores específicos de cada provedor:
 
 * [deBridge Explorer](https://app.debridge.finance/orders)
 * [LayerZero Scan](https://layerzeroscan.com/)
 * [Stargate Explorer](https://stargate.finance/)
 * [CelerScan (cBridge)](https://celerscan.com/)
 
-If a transaction is stuck for a long time, check the relevant explorer or reach out to our admins via [social channels](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/social-accounts) for [help](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/faq/help).
+Se uma transação ficar travada por muito tempo, verifique o explorador relevante ou entre em contato com nossos administradores pelos [canais sociais](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/social-accounts) para obter [ajuda](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/faq/help).
 
 ***
 
-### 🧠 Tips Before You Bridge
+### 🧠 Dicas Antes de Fazer Bridge
 
-* **Keep gas tokens on both chains** (e.g., ETH + BNB)
-* **Start small** if it’s your first time bridging
-* Avoid bridging during periods of high chain activity (can result in higher gas fees)
-* Confirm token compatibility on both chains
-* Always double-check source and destination networks
+* **Mantenha tokens de gas em ambas as chains** (ex.: ETH + BNB)
+* **Comece com valores pequenos** se for sua primeira vez fazendo bridge
+* Evite fazer bridge durante períodos de alta atividade na chain (pode resultar em taxas de gas mais altas)
+* Confirme a compatibilidade do token em ambas as chains
+* Sempre verifique novamente as redes de origem e destino
 
 ***
 
-### Additional: CAKE Omni-chain Fungible Token (OFT) Addresses
+### Adicional: Endereços do CAKE Omni-chain Fungible Token (OFT)
 
 1. **BNB Chain**
    * `cake`: `0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82` ([link](https://bscscan.com/address/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82))
@@ -197,4 +197,3 @@ If a transaction is stuck for a long time, check the relevant explorer or reach 
    * `cakeOFT`: `0x3055913c90Fcc1A6CE9a358911721eEb942013A1` ([link](https://basescan.org/address/0x3055913c90Fcc1A6CE9a358911721eEb942013A1#code))
 8. **opBNB**
    * `cakeOFT`: `0x2779106e4F4A8A28d77A24c18283651a2AE22D1C` ([link](https://opbnbscan.com/address/0x2779106e4F4A8A28d77A24c18283651a2AE22D1C?tab=Contract\&p=1))
-

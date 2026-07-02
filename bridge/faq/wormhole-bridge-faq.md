@@ -2,53 +2,53 @@
 hidden: true
 ---
 
-# Wormhole Bridge FAQ
+# FAQ do Wormhole Bridge
 
-### Q: How can i check my transaction? <a href="#i-have-sent-tokens-to-chain---my-tokens-did-not-arrive-in-my-target-wallet-but-have-left-my-origin-w" id="i-have-sent-tokens-to-chain---my-tokens-did-not-arrive-in-my-target-wallet-but-have-left-my-origin-w"></a>
+### P: Como posso verificar minha transação? <a href="#i-have-sent-tokens-to-chain---my-tokens-did-not-arrive-in-my-target-wallet-but-have-left-my-origin-w" id="i-have-sent-tokens-to-chain---my-tokens-did-not-arrive-in-my-target-wallet-but-have-left-my-origin-w"></a>
 
-#### Wormhole explorer
+#### Explorador do Wormhole
 
-On the bridge status page. You can see a link which will take you to your transaction on the Wormhole Explorer. When your source chain transaction has been completed but not yet been verified by Wormhole your transaction status will look like this:
+Na página de status do bridge. Você pode ver um link que levará você à sua transação no Explorador do Wormhole. Quando sua transação na chain de origem foi concluída, mas ainda não foi verificada pelo Wormhole, o status da sua transação ficará assim:
 
 <figure><img src="https://lh7-us.googleusercontent.com/yORDYXyM5E3AL_vFxZZ1Q5qeHv59yDodX5sFz2LNxLmjcBEYLJva6KyaHacpuc2VPdccB7GjUflXRcus4l6gh7HD1Y6x0S6GU1xX03Z-9E9xA6JDFSnNgeErRHSF2wV_98qqyrgAL8p_9EBgXWKXRZU" alt=""><figcaption></figcaption></figure>
 
-The find redeem option is an alternative method that you can follow to complete your destination chain transaction. You can use this method in the case that the wormhole bridge stalls or fails to update your bridge transactions’s status. To redeem your transaction first click the redeem button
+A opção de encontrar resgate é um método alternativo que você pode seguir para concluir sua transação na chain de destino. Você pode usar esse método caso o bridge do wormhole trave ou falhe ao atualizar o status da sua transação de bridge. Para resgatar sua transação, primeiro clique no botão de resgate
 
 <figure><img src="https://lh7-us.googleusercontent.com/DJTsB2sz0KxIuhUfFbqbb01acekDiLJzEVws1pYWfiNGFRaFnQa0lCW8Wv4L-W7GBdYBvDIB7wUgkFF7tk8zrVCS1EuarMROR0bECQS2NHqMiGpcMrVfaVWGGqJPJXZmOxQIPUcjceDgE8WUk9wJviQ" alt=""><figcaption></figcaption></figure>
 
-It will then display this option to resume your transaction. Click this to be navigated to the forum (link in the next question) where you can complete your redemption transaction. <br>
+Em seguida, será exibida esta opção para retomar sua transação. Clique aqui para ser direcionado ao fórum (link na próxima pergunta) onde você pode concluir sua transação de resgate. <br>
 
-### Q: I have sent tokens to \<chain> - my tokens did not arrive in my target wallet, but have left my origin wallet. What do I do?[​](https://portalbridge.com/docs/faqs/troubleshooting#i-have-sent-tokens-to-chain---my-tokens-did-not-arrive-in-my-target-wallet-but-have-left-my-origin-wallet-what-do-i-do) <a href="#i-have-sent-tokens-to-chain---my-tokens-did-not-arrive-in-my-target-wallet-but-have-left-my-origin-w" id="i-have-sent-tokens-to-chain---my-tokens-did-not-arrive-in-my-target-wallet-but-have-left-my-origin-w"></a>
+### P: Enviei tokens para \<chain> - meus tokens não chegaram na minha Carteira de destino, mas saíram da minha Carteira de origem. O que devo fazer?[​](https://portalbridge.com/docs/faqs/troubleshooting#i-have-sent-tokens-to-chain---my-tokens-did-not-arrive-in-my-target-wallet-but-have-left-my-origin-wallet-what-do-i-do) <a href="#i-have-sent-tokens-to-chain---my-tokens-did-not-arrive-in-my-target-wallet-but-have-left-my-origin-w" id="i-have-sent-tokens-to-chain---my-tokens-did-not-arrive-in-my-target-wallet-but-have-left-my-origin-w"></a>
 
-You either a) need to redeem them, or, if redeeming was already successful, b) add them to your wallet:
+Você precisa a) resgatá-los, ou, se o resgate já foi bem-sucedido, b) adicioná-los à sua Carteira:
 
-**a) Redeeming:**
+**a) Resgate:**
 
-* Go to [https://portalbridge.com/#/redeem](https://portalbridge.com/#/redeem)
-* You need to enter your source chain and the corresponding transaction id (which you can find in your wallet, or with your address in the blockchains explorer)
+* Acesse [https://portalbridge.com/#/redeem](https://portalbridge.com/#/redeem)
+* Você precisa inserir sua chain de origem e o ID de transação correspondente (que você pode encontrar na sua Carteira, ou com seu endereço no explorador da blockchain)
 
 <figure><img src="https://lh7-us.googleusercontent.com/v4gdm8TKNfhuq8cRaHWwn-EuJKCuzWSXl5zt76DDHq3N6TBqP-ntLVZNS5CMbIUBvtE2qI2eCpw_ean4hSicvrLCYhlz8TI5WxgzN3zBpo2wqInZvYuaXCcxU3k6nF6l-On05Ak4vjdZPLhJcQZXybc" alt=""><figcaption></figcaption></figure>
 
-* Click Recover
-* Click Redeem and accept the wallet approval
+* Clique em Recuperar
+* Clique em Resgatar e aceite a aprovação da Carteira
 
-**b) Add them to your wallet:**
+**b) Adicionar à sua Carteira:**
 
 **Metamask:**[**​**](https://portalbridge.com/docs/faqs/troubleshooting#metamask)
 
-* In the Metamask assets tab, click import tokens
-* The contract address can be found in the relevant block explorer transaction and clicking the token name. When you click the token name, it will open a new window and the contract address is on the right-hand side in the profile summary.
-* You’ll also need a symbol - this can be anything you want to recognize the token as.
-* Click add custom token
+* Na aba de ativos da Metamask, clique em importar tokens
+* O endereço do contrato pode ser encontrado na transação relevante do explorador de blocos clicando no nome do token. Ao clicar no nome do token, uma nova janela será aberta e o endereço do contrato estará no lado direito no resumo do perfil.
+* Você também precisará de um símbolo — pode ser qualquer coisa pela qual você queira reconhecer o token.
+* Clique em adicionar token personalizado
 
-See the video tutorial - How to add a token into your Metamask wallet [here.](https://portalbridge.com/docs/video-tutorials/how-to-manually-add-tokens-to-your-wallet#metamask)
+Veja o tutorial em vídeo - Como adicionar um token à sua Carteira Metamask [aqui.](https://portalbridge.com/docs/video-tutorials/how-to-manually-add-tokens-to-your-wallet#metamask)
 
-### I bridged X token but cannot swap it now. No DEX has liquid markets,[​](https://portalbridge.com/docs/faqs/troubleshooting#i-bridged-x-token-but-cannot-swap-it-now-no-dex-has-liquid-markets) <a href="#i-bridged-x-token-but-cannot-swap-it-now-no-dex-has-liquid-markets" id="i-bridged-x-token-but-cannot-swap-it-now-no-dex-has-liquid-markets"></a>
+### Fiz bridge do token X mas não consigo fazer Swap agora. Nenhuma DEX tem mercados com Liquidez,[​](https://portalbridge.com/docs/faqs/troubleshooting#i-bridged-x-token-but-cannot-swap-it-now-no-dex-has-liquid-markets) <a href="#i-bridged-x-token-but-cannot-swap-it-now-no-dex-has-liquid-markets" id="i-bridged-x-token-but-cannot-swap-it-now-no-dex-has-liquid-markets"></a>
 
-You bridged a token, which has no liquidity on the target chain. You will need to use Portal bridge to bridge this one back. You can do this by pasting the token contract address (which you can find in your wallet or with your address in the blockchains explorer) into the Portal “select a token” search field.
+Você fez bridge de um token que não tem Liquidez na chain de destino. Você precisará usar o Portal bridge para fazer bridge deste de volta. Você pode fazer isso colando o endereço do contrato do token (que pode ser encontrado na sua Carteira ou com seu endereço no explorador da blockchain) no campo de pesquisa "selecionar um token" do Portal.
 
-You can find a comprehensive overview of liquid markets [here](https://portalbridge.com/docs/faqs/liquid-markets).
+Você pode encontrar uma visão geral abrangente de mercados com Liquidez [aqui](https://portalbridge.com/docs/faqs/liquid-markets).
 
-#### How can I redeem my tokens on the target chain?[​](https://portalbridge.com/docs/faqs/troubleshooting#how-can-i-redeem-my-tokens-on-the-target-chain) <a href="#how-can-i-redeem-my-tokens-on-the-target-chain" id="how-can-i-redeem-my-tokens-on-the-target-chain"></a>
+#### Como posso resgatar meus tokens na chain de destino?[​](https://portalbridge.com/docs/faqs/troubleshooting#how-can-i-redeem-my-tokens-on-the-target-chain) <a href="#how-can-i-redeem-my-tokens-on-the-target-chain" id="how-can-i-redeem-my-tokens-on-the-target-chain"></a>
 
-If you've accidentally refreshed the page during the transfer process or did not redeem your tokens, you can follow the tutorial [here](https://portalbridge.com/docs/tutorials/how-to-use-recovery-workflow).
+Se você atualizou acidentalmente a página durante o processo de transferência ou não resgatou seus tokens, pode seguir o tutorial [aqui](https://portalbridge.com/docs/tutorials/how-to-use-recovery-workflow).
