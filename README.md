@@ -1,78 +1,78 @@
-# Product Overview
+# Обзор продукта
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/intro-header.png)
 
 {% hint style="success" %}
-**PancakeSwap helps you make the most out of your crypto in three ways:**
+**PancakeSwap помогает тебе получить максимум от своих криптоактивов тремя способами:**
 
-**Trade, Earn, and Win.**
+**Торгуй, Зарабатывай и Выигрывай.**
 {% endhint %}
 
-## Trade
+## Торговля
 
-> Instantly swap crypto tokens: no registration or account needed.
+> Мгновенно обменивай криптотокены — регистрация и аккаунт не нужны.
 
-### The people's choice
+### Выбор пользователей
 
-PancakeSwap is a leading decentralized exchange. Available across ten chains: BNB Chain, Ethereum, Solana, Base, Arbitrum, Aptos, ZKsync, Linea, Monad, and opBNB, with the highest trading volumes in the market (sources: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
+PancakeSwap — ведущая децентрализованная биржа. Доступна в десяти сетях: BNB Chain, Ethereum, Solana, Base, Arbitrum, Aptos, ZKsync, Linea, Monad и opBNB, с наибольшими торговыми объёмами на рынке (источники: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
 
-### Low fees
+### Низкие комиссии
 
-Why pay more?\
-Trading fees are lower than other top decentralized exchanges too, so that's a win for you!
+Зачем платить больше?\
+Торговые комиссии ниже, чем у других топовых децентрализованных бирж, — это твоя победа!
 
-### Decentralized
+### Децентрализованность
 
-Trade directly from your wallet app.\
-Unlike centralized exchanges like Binance or Coinbase, PancakeSwap doesn’t hold your funds when you trade: **you have 100% ownership of your own crypto**.
+Торгуй напрямую из своего кошелька.\
+В отличие от централизованных бирж вроде Binance или Coinbase, PancakeSwap не держит твои средства во время торговли: **ты на 100% владеешь своими криптоактивами**.
 
-## Earn
+## Заработок
 
-> Earn CAKE and other tokens for free with super high interest rates.
+> Зарабатывай CAKE и другие токены бесплатно с очень высокими процентными ставками.
 
-### Earn tokens with Syrup Pools
+### Зарабатывай токены в Syrup Pool
 
-Stake CAKE, earn free tokens. It’s really that easy.\
-CAKE holders right now are earning tens of millions of USD worth of free tokens each week from major projects. New projects join the party frequently, so you can earn more, for even longer.
+Стейкингуй CAKE, получай бесплатные токены. Всё так просто.\
+Держатели CAKE прямо сейчас зарабатывают токены стоимостью десятки миллионов долларов США бесплатно каждую неделю от крупных проектов. Новые проекты присоединяются регулярно, так что ты можешь зарабатывать больше и дольше.
 
-### Earn CAKE with Yield Farms
+### Зарабатывай CAKE с Yield Farming
 
-Stake LP tokens, earn CAKE. You take on a little more exposure to market fluctuations than with the Syrup Pools, but can earn higher APR to offset the risk.
+Стейкингуй LP-токены, зарабатывай CAKE. Ты берёшь на себя чуть больше риска, связанного с колебаниями рынка, чем в Syrup Pool, но можешь получать более высокий APR, чтобы компенсировать его.
 
-### Earn Trading Fees
+### Зарабатывай на торговых комиссиях
 
-No farm? No problem. Even if your trading pair isn’t supported on the Farms page, you can still earn trading fees when you stake your tokens in Liquidity Pools (LPs).
+Нет фарма? Не проблема. Даже если твоя торговая пара не представлена на странице Farms, ты всё равно можешь зарабатывать торговые комиссии, размещая токены в пулах ликвидности (LP).
 
-## Win
+## Победа
 
-> PancakeSwap makes making money fun.
+> PancakeSwap делает заработок увлекательным.
 
-### Lottery
+### Лотерея
 
-**Millions of dollars** regularly go up for grabs on the PancakeSwap Lottery.\
-Join as many as **11,000 daily players** for your chance to win big!
+**Миллионы долларов** регулярно разыгрываются на лотерее PancakeSwap.\
+Присоединяйся к **11 000 ежедневных игроков** и получи шанс выиграть по-крупному!
 
-### Prediction
+### Прогноз
 
-Predict whether BNB, BTC, or ETH price will rise or fall. New rounds every 5 minutes!
+Предсказывай, вырастет или упадёт цена BNB, BTC или ETH. Новые раунды каждые 5 минут!
 
-## Is PancakeSwap safe?
+## Безопасен ли PancakeSwap?
 
-### See for yourself:
+### Убедись сам:
 
-Check out these PancakeSwap security audits [here](welcome-to-pancakeswap/audits.md).
+Ознакомься с аудитами безопасности PancakeSwap [здесь](welcome-to-pancakeswap/audits.md).
 
-### Transparent:
+### Прозрачность:
 
-* We’re built on open-source software: our site and all our Smart Contracts are publicly visible for maximum transparency.
-* Our contracts are verified on BscScan so you know that what you see is what you get: [1](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E) [2](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#code) [3](https://bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812) [4](https://bscscan.com/address/0x1b96b92314c44b159149f7e0303511fb2fc4774f#code) [5](https://bscscan.com/address/0x92E8CeB7eAeD69fB6E4d9dA43F605D2610214E68)
+* Мы созданы на основе программного обеспечения с открытым исходным кодом: наш сайт и все смарт-контракты общедоступны для максимальной прозрачности.
+* Наши контракты верифицированы на BscScan, так что ты видишь именно то, что получаешь: [1](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E) [2](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#code) [3](https://bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812) [4](https://bscscan.com/address/0x1b96b92314c44b159149f7e0303511fb2fc4774f#code) [5](https://bscscan.com/address/0x92E8CeB7eAeD69fB6E4d9dA43F605D2610214E68)
 
-### Security best practices:
+### Лучшие практики безопасности:
 
-* The chefs use multisig for all contracts.
-* Our contracts’ time-locks give you peace of mind.
+* Разработчики используют мультиподпись для всех контрактов.
+* Тайм-локи наших контрактов дают тебе уверенность.
 
-**Sounds like fun?**\
-**Then get flipping!** 🐰 🥞
+**Звучит интересно?**\
+**Тогда вперёд!** 🐰 🥞
 
 ***

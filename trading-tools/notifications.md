@@ -1,54 +1,54 @@
 ---
-description: Receive your DeFi updates all in one place!
+description: Получай все обновления DeFi в одном месте!
 ---
 
-# 🔔 Notifications
+# 🔔 Уведомления
 
 <figure><img src="https://lh7-us.googleusercontent.com/KuhB0fchwKb7jvN7cVj4BiO9ohoIwAS__z8-dU1JjRXHUZ_diEpe8fRnMhU4DqIN4u9-Io8RZZGhsDVhIC4AB5ohNablWz_wLYbL9R2C5YR263veplzKXA4R9mvifggqRWr7afdfK1MwaoIMPYKz6Ck" alt=""><figcaption></figcaption></figure>
 
-### What are Web3 Notifications?
+### Что такое Web3-уведомления?
 
-Web3 Notifications represent a leap forward in interacting with platforms for the latest news and updates. Integrated seamlessly into PancakeSwap, these notifications bring a host of benefits. Partnering with WalletConnect, we've launched the Notifications (BETA) for our users to access their DeFi news, updates and important actions all in one window. Please note that Web3 Notifications is still in BETA and will undergo further changes and developments in the coming months.
+Web3-уведомления представляют собой значительный шаг вперёд во взаимодействии с платформами для получения последних новостей и обновлений. Органично интегрированные в PancakeSwap, эти уведомления открывают широкий спектр возможностей. В партнёрстве с WalletConnect мы запустили Уведомления (БЕТА) для того, чтобы наши пользователи могли получать новости DeFi, обновления и важные действия в одном окне. Обратите внимание, что Web3-уведомления всё ещё находятся в стадии БЕТА и в ближайшие месяцы продолжат развиваться.
 
-**Web3 Notifications Benefits:**
+**Преимущества Web3-уведомлений:**
 
-* Stay Updated with Real-Time Alerts: Never miss out on key PancakeSwap events, market trends, product updates, or community news.
-* Prioritize What Matters to You: Selecting topics, products, and categories based on their relevance to you. Tailor your notifications with a variety of filters.
-* Direct and Actionable Links: Respond quickly to crucial updates directly from your notifications, as each notification comes with a direct link.
+* Будь в курсе с оповещениями в реальном времени: никогда не пропускай ключевые события PancakeSwap, рыночные тренды, обновления продуктов или новости сообщества.
+* Расставляй приоритеты по важности: выбирай темы, продукты и категории в зависимости от их значимости для тебя. Настраивай уведомления с помощью различных фильтров.
+* Прямые и действенные ссылки: быстро реагируй на важные обновления прямо из уведомлений — каждое из них содержит прямую ссылку.
 
-### How to set up Notifications:
+### Как настроить уведомления:
 
-1. Activate with Ease: Visit our[ homepage](https://pancakeswap.finance/). Click the settings icon at the top left of the PancakeSwap menu and select "Allow Notifications".
+1. Простая активация: зайди на нашу [главную страницу](https://pancakeswap.finance/). Нажми на иконку настроек в верхнем левом углу меню PancakeSwap и выбери «Allow Notifications».
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/web-git-feat-web3-notifications-soft-launch.pancake.run__chain%3Dbsc%20%281%29.png" alt="" width="362"><figcaption></figcaption></figure>
 
-2. Connect Wallet: Click the Bell icon on the top right and sign a message in your wallet to authorize notifications.
+2. Подключи Кошелёк: нажми на иконку колокольчика в правом верхнем углу и подпиши сообщение в кошельке для авторизации уведомлений.
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/web-git-feat-web3-notifications-soft-launch.pancake.run__chain%3Dbsc%20%286%29.png" alt="" width="433"><figcaption></figcaption></figure>
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/web-git-feat-web3-notifications-soft-launch.pancake.run__chain%3Dbsc%20%284%29.png" alt="" width="293"><figcaption></figcaption></figure>
 
-3. Customize Your Feed: Tailor your notification settings by selecting the drop-down on the left to match your interests and needs.
+3. Настрой свою ленту: персонализируй настройки уведомлений, выбрав в выпадающем меню слева параметры, соответствующие твоим интересам и потребностям.
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/web-git-feat-web3-notifications-soft-launch.pancake.run__chain%3Dbsc%20%285%29.png" alt=""><figcaption></figcaption></figure>
 
-4. Stay Informed: Access all your notifications conveniently from the dropdown menu by clicking the bell icon.
+4. Будь в курсе: просматривай все свои уведомления в удобном выпадающем меню, нажав на иконку колокольчика.
 
-### Notification Features
+### Функции уведомлений
 
-The current list of notifications are supported across all EVM chains and includes:
+Текущий список уведомлений поддерживается на всех EVM-сетях и включает:
 
-| Notification       | Function                                                     |
-| ------------------ | ------------------------------------------------------------ |
-| Liquidity Position | Updates users to move liquidity position if its out of range |
-| Farm               | Updates users on farm APRs, or if there's a new farm         |
-| Wallet Balance     | Updates users if they have low gas balance                   |
-| Lottery            | Updates users on Lottery draw                                |
-| Prediction         | Updates users to claim prediction reward                     |
-| Price Alerts       | Updates users on major price changes                         |
+| Уведомление                | Функция                                                                        |
+| -------------------------- | ------------------------------------------------------------------------------ |
+| Позиция ликвидности        | Информирует пользователей о необходимости переместить позицию ликвидности, если она вышла за пределы диапазона |
+| Фарминг                    | Информирует пользователей об APR фарминга или появлении нового фарма           |
+| Баланс кошелька            | Информирует пользователей о низком балансе газа                                |
+| Лотерея                    | Информирует пользователей о розыгрыше Лотереи                                 |
+| Прогноз                    | Информирует пользователей о получении вознаграждения за Прогноз               |
+| Ценовые оповещения         | Информирует пользователей о значительных изменениях цен                        |
 
-### What's Next?
+### Что дальше?
 
-* Enhanced Filtering: Fine-tuning notifications so that users receive the right information on time
-* Multi-Platform: Support on Mobile and other platforms, potential cross-protocol functionality, making PancakeSwap the hub for your DeFi Activities
-* More Notifications: Notifications for our other products and governance-related information such as new proposals.
+* Улучшенная фильтрация: тонкая настройка уведомлений, чтобы пользователи получали нужную информацию вовремя
+* Мультиплатформенность: поддержка на мобильных устройствах и других платформах, потенциальная межпротокольная функциональность, которая сделает PancakeSwap центром твоей DeFi-деятельности
+* Больше уведомлений: уведомления для наших других продуктов и информация, связанная с управлением, например, о новых предложениях.

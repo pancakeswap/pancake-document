@@ -2,113 +2,113 @@
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28101%29.png" alt=""><figcaption><p>\</p></figcaption></figure>
 
-### What should I do on PancakeSwap on other blockchains?
+### Что мне делать на PancakeSwap в других блокчейнах?
 
-Provide liquidity, trade and farm as you always have been. If you are a multichain user already, remember to provide liquidity on PancakeSwap on other blockchains that we've deployed on (like Ethereum), as we have CAKE rewards on BNB Smart Chain for you, allowing you to earn even more CAKE without bridging those assets over!
+Предоставляй ликвидность, торгуй и фармь, как обычно. Если ты уже мультисетевой пользователь, не забывай предоставлять ликвидность на PancakeSwap в других блокчейнах, на которых мы развёрнуты (например, Ethereum), так как у нас есть вознаграждения CAKE на BNB Smart Chain для тебя, позволяя зарабатывать ещё больше CAKE без бриджинга этих активов!
 
-### **Will there be more pairs?**
+### **Будет ли больше пар?**
 
-Yes, but we will be deploying in steps to ensure we prioritize the safety of user funds and CAKE inflation. Do let us know in the community chats what you think should be added to PancakeSwap on other blockchains, as well as what other blockchains we should deploy PancakeSwap on.
+Да, но мы будем развёртывать их поэтапно, чтобы обеспечить приоритет безопасности средств пользователей и инфляции CAKE. Дай нам знать в чатах сообщества, что, по твоему мнению, следует добавить на PancakeSwap в других блокчейнах, а также в каких других блокчейнах нам следует развернуть PancakeSwap.
 
-### **Why the gas cost for staking LP tokens is high?**
+### **Почему стоимость газа при стейкинге LP-токенов высокая?**
 
-A small amount of native token (for example, ETH on Ethereum) is required for the first-time setup. So the first transaction will be slightly costly.
+Для первоначальной настройки требуется небольшое количество нативного токена (например, ETH на Ethereum). Поэтому первая транзакция будет немного дороже.
 
-Plus, there are other fees (mostly gas costs) involved in cross-chain farming. Check out [this](faq.md#are-there-any-fees-when-i-do-crosschain-farming) dedicated section to learn more.
+Кроме того, при межсетевом фарминге есть другие сборы (в основном стоимость газа). Ознакомься с [этим](faq.md#are-there-any-fees-when-i-do-crosschain-farming) разделом для получения дополнительной информации.
 
-### **Why do staking and unstaking take 30 minutes to complete?**
+### **Почему стейкинг и анстейкинг занимают 30 минут?**
 
-All cross-chain transactions will take around 30 minutes to complete. It is because:
+Все межсетевые транзакции занимают около 30 минут. Это происходит потому, что:
 
-* Transactions have to be executed on both the farming blockchain (like Ethereum) and the BNB Chain.
-* Delivering cross-chain messages takes time.
-* To ensure safety and all the data are synced and consistent between different blockchains.
+* Транзакции должны выполняться как в блокчейне фарминга (например, Ethereum), так и на BNB Chain.
+* Доставка межсетевых сообщений занимает время.
+* Для обеспечения безопасности и синхронизации всех данных между различными блокчейнами.
 
-### **Where are my harvested CAKE rewards?**
+### **Где мои собранные вознаграждения CAKE?**
 
-Your harvested CAKE will be distributed on BNB Smart Chain. Please switch the blockchain network in your wallet to check the balance of CAKE.
+Твои собранные CAKE будут распределены на BNB Smart Chain. Пожалуйста, переключи сеть в кошельке для проверки баланса CAKE.
 
-### **I can't harvest because my wallet doesn't support switching between different blockchains!**
+### **Я не могу собрать вознаграждения, потому что мой кошелёк не поддерживает переключение между различными блокчейнами!**
 
-Please try using a different wallet app that supports multichain and chain switching.
+Попробуй использовать другое приложение кошелька, поддерживающее мультисеть и переключение сетей.
 
-Please note that staking and unstaking LP tokens will also harvest all the earned CAKE to your wallet on BNB Smart Chain. Therefore if you don't want to use a different wallet app, simply stake more, or unstake a tiny amount of LP tokens to harvest your earned CAKE.
+Обрати внимание, что стейкинг и анстейкинг LP-токенов также будет собирать все заработанные CAKE на твой кошелёк на BNB Smart Chain. Поэтому, если ты не хочешь использовать другое приложение кошелька, просто застейкай больше или анстейкай небольшое количество LP-токенов для получения заработанных CAKE.
 
-### Are there any fees when I do crosschain farming?
+### Есть ли комиссии при межсетевом фарминге?
 
-Unlike farming natively on BNB Chain, farming on other blockchains requires cross-chain activities. Here are the fees involved:
+В отличие от нативного фарминга на BNB Chain, фарминг в других блокчейнах требует межсетевых операций. Вот задействованные комиссии:
 
-**1 - Gas fee to create a proxy contract**
+**1 - Стоимость газа для создания прокси-контракта**
 
-A proxy contract has to be created on the BNB Chain for cross-chain farming. The gas cost for proxy contract creation is included in the transaction.
+На BNB Chain должен быть создан прокси-контракт для межсетевого фарминга. Стоимость газа для создания прокси-контракта включена в транзакцию.
 
-This fee only charges once upon the first "stake" transaction.
+Эта комиссия взимается только один раз при первой транзакции «stake».
 
-**2 - Gas fee for calls on BNB Chain**
+**2 - Стоимость газа для вызовов на BNB Chain**
 
-When users deposit or withdraw LP tokens. An executor will perform transactions calling on behave of the users on the BNB Chain. The gas cost for these calls is included in the transaction.
+При депозите или выводе LP-токенов пользователями исполнитель будет выполнять транзакции от имени пользователей на BNB Chain. Стоимость газа для этих вызовов включена в транзакцию.
 
-This fee is charged in every deposit or withdrawal transaction.
+Эта комиссия взимается в каждой транзакции депозита или вывода.
 
-**3 - Gas fee for calls on other blockchains**
+**3 - Стоимость газа для вызовов в других блокчейнах**
 
-When users withdraw LP tokens. An executor will perform the final transactions calling to release the LP tokens on other blockchains (like Ethereum). The gas cost for these calls is included in the transaction.
+При выводе LP-токенов пользователями исполнитель будет выполнять финальные транзакции для освобождения LP-токенов в других блокчейнах (например, Ethereum). Стоимость газа для этих вызовов включена в транзакцию.
 
-This fee is only charged in withdrawal transactions.
+Эта комиссия взимается только в транзакциях вывода.
 
-**4 - Cross-chain messaging fee**
+**4 - Комиссия за межсетевые сообщения**
 
-We utilise a message bus powered by Celer to route our cross-chain messages. Therefore a messages fee is included based on the byte length of the message.
+Мы используем шину сообщений на базе Celer для маршрутизации наших межсетевых сообщений. Поэтому комиссия за сообщения включена в зависимости от длины сообщения в байтах.
 
-This fee is charged in every stake transaction. In unstake transactions, this fee is charged twice since a two-way communication between BNB Chain and other blockchains is required for safety.
+Эта комиссия взимается в каждой транзакции стейкинга. В транзакциях анстейкинга эта комиссия взимается дважды, поскольку для безопасности требуется двустороннее взаимодействие между BNB Chain и другими блокчейнами.
 
 ```
 messagingFee = feeBase + message.length * feePerByte;
 ```
 
-You may find the variables in the formula with in the message bus contract:
+Ты можешь найти переменные в формуле в контракте шины сообщений:
 
 * Ethereum: `0x4066d196a423b2b3b8b054f4f40efb47a74e200c`
 * BNB Chain: `0x95714818fdd7a5454f73da9c777b3ee6ebaeea6b`
 
-**5 - The starter fund**
+**5 - Стартовый фонд**
 
-This is not strictly a "fee".&#x20;
+Строго говоря, это не «комиссия».&#x20;
 
-For every new user who started doing PancakeSwap cross-chain farming. In the first “stake” transaction, we will deposit 0.005 BNB into their BNB Chain wallet. The corresponding amount of native tokens on the farming chain (like ETH on Ethereum) will be charged from the deposit transaction, using the market rate provided by the price oracle.
+Для каждого нового пользователя, начинающего межсетевой фарминг PancakeSwap. В первой транзакции «stake» мы внесём 0,005 BNB на его кошелёк в BNB Chain. Соответствующая сумма нативных токенов в сети фарминга (например, ETH на Ethereum) будет снята с транзакции депозита по рыночному курсу ценового оракула.
 
-This is to help users start their BNB Chain journey with ease. We understand the painfulness of having all the harvested CAKE but not being able to explore the vivid PancakeSwap ecosystem without finding another way to acquire BNB for gas.
+Это сделано, чтобы помочь пользователям легко начать свой путь в BNB Chain. Мы понимаем неудобство ситуации, когда у тебя есть все собранные CAKE, но ты не можешь исследовать живую экосистему PancakeSwap, не найдя другого способа получить BNB для газа.
 
-This fee only charges once upon the first "stake" transaction.
+Эта комиссия взимается только один раз при первой транзакции «stake».
 
-### Where are the emissions coming from?&#x20;
+### Откуда поступают эмиссии?
 
-_updated on Oct 10 2022_
+_обновлено 10 октября 2022 г._
 
-For now, Chefs have diverted 0.0189 CAKE per block from the CAKE pool to all crosschain farms.&#x20;
+На данный момент Шефы перенаправили 0,0189 CAKE за блок из пула CAKE на все межсетевые фермы.
 
-Here is the emissions breakdown:
+Вот разбивка эмиссий:
 
-<table><thead><tr><th width="249"></th><th>Multiplier</th><th>CAKE per block</th></tr></thead><tbody><tr><td><strong>CAKE Pool</strong></td><td>-</td><td><strong>8.9811</strong></td></tr><tr><td><strong>All Crosschain Farms</strong></td><td>-</td><td><strong>0.0189</strong></td></tr><tr><td>Ethereum ETH/USDC</td><td>0.5x</td><td>0.0105</td></tr><tr><td>Ethereum ETH/USDT</td><td>0.2x</td><td>0.0042</td></tr><tr><td>Ethereum WBTC/ETH</td><td>0.2x</td><td>0.0042</td></tr></tbody></table>
+<table><thead><tr><th width="249"></th><th>Мультипликатор</th><th>CAKE за блок</th></tr></thead><tbody><tr><td><strong>Пул CAKE</strong></td><td>-</td><td><strong>8,9811</strong></td></tr><tr><td><strong>Все межсетевые фермы</strong></td><td>-</td><td><strong>0,0189</strong></td></tr><tr><td>Ethereum ETH/USDC</td><td>0,5x</td><td>0,0105</td></tr><tr><td>Ethereum ETH/USDT</td><td>0,2x</td><td>0,0042</td></tr><tr><td>Ethereum WBTC/ETH</td><td>0,2x</td><td>0,0042</td></tr></tbody></table>
 
-### What happened during the deposit, harvest and withdrawal?
+### Что происходит во время депозита, сбора и вывода?
 
-PancakeSwap crosschain farming is like using a "stand-in" LP token to farm on the BNB Chain, with the same PancakeSwap MasterChef. The CAKE rewards are calculated and distributed on BNB Chain, controlled and guarded by the same MasterChef contract.
+Межсетевой фарминг PancakeSwap похож на использование «запасного» LP-токена для фарминга на BNB Chain с тем же PancakeSwap MasterChef. Вознаграждения CAKE рассчитываются и распределяются на BNB Chain, контролируются и охраняются тем же контрактом MasterChef.
 
-#### Upon Deposit:
+#### При депозите:
 
-1. Users request depositing LP tokens on farming blockchains (like Ethereum).
-2. LP tokens are being transferred to farming vault contracts.
-3. Celer message bus is utilised to deliver the "deposit" message to BNB Chain.
-4. An executor on BNB Chain mints the same amount of farming tokens as "stand-ins", and then deposits them into the farms.
+1. Пользователи запрашивают депозит LP-токенов в блокчейнах фарминга (например, Ethereum).
+2. LP-токены передаются в контракты хранилища фарминга.
+3. Шина сообщений Celer используется для доставки сообщения «deposit» на BNB Chain.
+4. Исполнитель на BNB Chain создаёт такое же количество токенов фарминга в качестве «запасных» и затем вносит их на фермы.
 
-#### Upon Harvesting:
+#### При сборе вознаграждений:
 
-Since CAKE rewards are calculated and distributed on BNB Chain. Users can claim their CAKE rewards with a single BNB Chain transaction without the need for cross-chain operations.
+Поскольку вознаграждения CAKE рассчитываются и распределяются на BNB Chain, пользователи могут получить вознаграждения CAKE с помощью одной транзакции BNB Chain без необходимости межсетевых операций.
 
-#### Upon Withdrawal:
+#### При выводе:
 
-1. Users request withdrawing LP tokens on farming blockchains (like Ethereum).
-2. Celer message bus is utilised to deliver the "withdraw" message to BNB Chain.
-3. An executor on BNB Chain withdraws the farming tokens from the farms, burns those tokens, transfers the earned CAKE to users, and utilises the Celer message bus to deliver the confirmation message back to the original farming blockchain.
-4. An executor on the farming blockchain confirms everything and then releases the LP tokens from the vault contracts.
+1. Пользователи запрашивают вывод LP-токенов в блокчейнах фарминга (например, Ethereum).
+2. Шина сообщений Celer используется для доставки сообщения «withdraw» на BNB Chain.
+3. Исполнитель на BNB Chain выводит токены фарминга с ферм, сжигает эти токены, передаёт заработанные CAKE пользователям и использует шину сообщений Celer для доставки подтверждающего сообщения обратно в исходный блокчейн фарминга.
+4. Исполнитель в блокчейне фарминга подтверждает всё и затем освобождает LP-токены из контрактов хранилища.

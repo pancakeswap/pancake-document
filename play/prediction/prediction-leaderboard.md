@@ -1,26 +1,26 @@
-# Prediction - Leaderboard
+# Прогноз — Таблица лидеров
 
-The **Prediction Leaderboard** highlights the top participants in PancakeSwap Prediction.\
-It allows players to see how they rank against others based on different metrics.
+**Таблица лидеров Прогноза** показывает лучших участников PancakeSwap Прогноза.\
+Она позволяет игрокам видеть своё место в рейтинге относительно других на основе различных метрик.
 
-> **Note**: A wallet must participate in at least **10 rounds** to appear on the leaderboard by default.\
-> Specific wallet addresses can still be searched manually.
+> **Примечание**: Кошелёк должен участвовать не менее чем в **10 раундах**, чтобы по умолчанию отображаться в таблице лидеров.\
+> Конкретные адреса кошельков всё равно можно найти вручную.
 
-### How to Use the Leaderboard
+### Как пользоваться таблицей лидеров
 
-1.  **Access the Leaderboard** directly from the Prediction page.
+1.  **Открой таблицу лидеров** прямо со страницы Прогноза.
 
     <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28454%29.png" alt=""><figcaption></figcaption></figure>
-2. **Filter by Token**
-   * Choose the market (BNB, BTC, ETH) you want to view top players for.
-3. **Sort by Ranking Criteria**
-   * **Rounds Played**: Total number of rounds a user has participated in.
-   * **Net Winnings**: Total tokens won from successful predictions, after the 3% fee is deducted.
-   * **Total BNB**: Aggregate amount of BNB used for predictions.
-   * **Win Rate**: Ratio of rounds won to total rounds participated.
-4.  **Search by Wallet Address**
+2. **Фильтрация по токену**
+   * Выбери рынок (BNB, BTC, ETH), для которого хочешь посмотреть лучших игроков.
+3. **Сортировка по критерию рейтинга**
+   * **Rounds Played**: общее количество раундов, в которых участвовал пользователь.
+   * **Net Winnings**: суммарное количество выигранных токенов за правильные прогнозы после вычета комиссии 3%.
+   * **Total BNB**: совокупная сумма BNB, использованная для прогнозов.
+   * **Win Rate**: соотношение выигранных раундов к общему числу участий.
+4.  **Поиск по адресу кошелька**
 
-    * Enter a wallet address to display its scorecard, even if it does not meet the 10-round threshold.
+    * Введи адрес кошелька, чтобы отобразить его карточку результатов, даже если он не набрал 10 раундов.
 
     <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28455%29.png" alt=""><figcaption></figcaption></figure>
 

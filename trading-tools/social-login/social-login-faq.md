@@ -1,18 +1,18 @@
 # Social Login FAQ
 
 {% hint style="info" %}
-For more information view: [https://docs.privy.io/security/wallet-infrastructure/architecture#wallet-transaction](https://docs.privy.io/security/wallet-infrastructure/architecture#wallet-transaction)
+Для получения дополнительной информации посети: [https://docs.privy.io/security/wallet-infrastructure/architecture#wallet-transaction](https://docs.privy.io/security/wallet-infrastructure/architecture#wallet-transaction)
 {% endhint %}
 
-### 🔍 General Overview
+### 🔍 Общий обзор
 
-**1. What is PancakeSwap’s social login and why should I use it?**
+**1. Что такое Social Login на PancakeSwap и зачем его использовать?**
 
-Social login lets you access PancakeSwap using your **Google**, **X (Twitter)**, **Discord**, or **Telegram** account — no wallet extension or seed phrase needed. A self-custodial wallet is created behind the scenes, so you can try DeFi instantly, even with small amounts. This lowers the barrier to entry, especially in time-sensitive moments.
+Social Login позволяет получить доступ к PancakeSwap через аккаунт **Google**, **X (Twitter)**, **Discord** или **Telegram** — без расширения кошелька или сид-фразы. Самостоятельный кошелёк создаётся в фоновом режиме, поэтому ты можешь попробовать DeFi мгновенно, даже с небольшими суммами. Это снижает барьер входа, особенно в ситуациях, когда важна скорость.
 
-**2. What chains does social login support?**
+**2. Какие сети поддерживает Social Login?**
 
-Your social login wallet works across all chains currently supported by PancakeSwap:
+Твой кошелёк Social Login работает во всех сетях, поддерживаемых PancakeSwap:
 
 * **BNB Chain**
 * **Ethereum**
@@ -21,88 +21,88 @@ Your social login wallet works across all chains currently supported by PancakeS
 * **Linea**
 * **opBNB**
 
-All wallets are **EVM-compatible** and can be used across these networks natively through PancakeSwap. If you’d like to see support for other chains (including non-EVM), let us know!
+Все кошельки совместимы с **EVM** и могут использоваться в этих сетях нативно через PancakeSwap. Если ты хочешь увидеть поддержку других сетей (включая non-EVM), дай нам знать!
 
-**3. Where can I use the social login wallet?**
+**3. Где можно использовать кошелёк Social Login?**
 
-You can use it directly in any desktop or mobile **browser** through the PancakeSwap web app. It is **not compatible** with external wallet apps or dApp browsers.
+Ты можешь использовать его непосредственно в любом настольном или мобильном **браузере** через веб-приложение PancakeSwap. Он **несовместим** с внешними приложениями-кошельками или dApp-браузерами.
 
 
 
-### 🛠️ Wallet Setup & Usage
+### 🛠️ Настройка и использование кошелька
 
-**4. How is the wallet created and secured?**
+**4. Как создаётся и защищается кошелёк?**
 
-Your wallet is created automatically upon login and secured using a **2-of-2 key share system**. Both shares are required to reconstruct the key and generate a signature.
+Твой кошелёк создаётся автоматически при входе и защищён с помощью **системы распределения ключей 2-из-2**. Для восстановления ключа и создания подписи требуются обе доли.
 
-For more information on share encryption view:
+Для получения дополнительной информации о шифровании долей посети:
 
 * [https://docs.privy.io/security/wallet-infrastructure/architecture](https://docs.privy.io/security/wallet-infrastructure/architecture)
 * [https://privy.io/blog/how-privy-embedded-wallets-work](https://privy.io/blog/how-privy-embedded-wallets-work)
 
-**5. How many wallets can I create?**
+**5. Сколько кошельков я могу создать?**
 
-You get **one wallet per social account per dApp**. For example, if you use your Google login on another app that also uses Privy, it will create a separate wallet.
+Ты получаешь **один кошелёк на аккаунт в соцсети на каждое dApp**. Например, если ты используешь Google для входа в другое приложение, которое также использует Privy, для него будет создан отдельный кошелёк.
 
 
 
-### 🔐 Security & Privacy
+### 🔐 Безопасность и конфиденциальность
 
-**6. Can someone access my wallet if they steal my device?**
+**6. Может ли кто-то получить доступ к моему кошельку, украв моё устройство?**
 
-No. Even if someone gains access to your device, they would still need both your **social login** and (if set) your **recovery password**.
+Нет. Даже если кто-то получит доступ к твоему устройству, ему всё равно потребуются и твой **Social Login**, и (если установлен) твой **пароль восстановления**.
 
-**7. What data is stored by PancakeSwap or Privy?**
+**7. Какие данные хранятся PancakeSwap или Privy?**
 
-* PancakeSwap **does not store** any wallet-related key shares.
-* Privy stores the **encrypted Auth Share and Recovery Share (if recovery flow is not set)**.
+* PancakeSwap **не хранит** никаких долей ключей, связанных с кошельком.
+* Privy хранит **зашифрованную долю аутентификации и долю восстановления (если процедура восстановления не настроена)**.
 
-> If you haven’t completed the recovery setup, your Recovery Share remains stored with Privy by default. For more info visit: [https://docs.privy.io/security/wallet-infrastructure/advanced/user-device#securing-the-recovery-share](https://docs.privy.io/security/wallet-infrastructure/advanced/user-device#securing-the-recovery-share)
+> Если ты не завершил настройку восстановления, доля восстановления по умолчанию остаётся у Privy. Для получения дополнительной информации посети: [https://docs.privy.io/security/wallet-infrastructure/advanced/user-device#securing-the-recovery-share](https://docs.privy.io/security/wallet-infrastructure/advanced/user-device#securing-the-recovery-share)
 >
 >
 
-### 🔄 Recovery & Session Management
+### 🔄 Восстановление и управление сессиями
 
-**8. Can I use the same wallet on a different device or browser?**
+**8. Могу ли я использовать тот же кошелёк на другом устройстве или браузере?**
 
-Yes! Simply log in with the same social account. If it's a new device, you'll go through the recovery process using your recovery password (if set up).
+Да! Просто войди через тот же социальный аккаунт. Если это новое устройство, ты пройдёшь процедуру восстановления с использованием пароля восстановления (если он установлен).
 
-**9. What happens if I switch devices?**
+**9. Что происходит при смене устройства?**
 
-You’ll be asked to re-login with your social account and go through the recovery flow (password setup). If you haven’t set up a recovery password, social account login is sufficient.
+Тебе будет предложено повторно войти через социальный аккаунт и пройти процедуру восстановления (настройка пароля). Если пароль восстановления не установлен, достаточно входа через социальный аккаунт.
 
-**10. What if I lose access to both my social login and recovery method?**
+**10. Что делать, если я потеряю доступ и к Social Login, и к методу восстановления?**
 
-If you lose access to both your social account and your recovery method, **your wallet cannot be recovered**. There’s no seed phrase fallback, and private key export is not currently supported.
+Если ты потеряешь доступ и к социальному аккаунту, и к методу восстановления, **кошелёк не может быть восстановлен**. Резервной сид-фразы нет, а экспорт приватного ключа в настоящее время не поддерживается.
 
-> ⚠️ Remember: Exporting your private key, if enabled in the future, would grant full control of your wallet to anyone who has it — treat it with extreme caution.
+> ⚠️ Помни: экспорт приватного ключа, если он будет включён в будущем, предоставит полный контроль над кошельком любому, кто им владеет — обращайся с ним крайне осторожно.
 
-**11. How long do active sessions last?**
+**11. Как долго длятся активные сессии?**
 
-Sessions last for 30 **days**. After that, you’ll be prompted to **log in again** and (if needed) re-enter your recovery credentials. During an active session, you can transact without needing to manually approve each action.
-
-
-
-### ⚙️ Compatibility & Limitations
-
-**12. Can I export or import wallets?**
-
-* **Export**: Not supported by default, for security reasons. This may change in future updates.
-* **Import**: Not supported. You cannot import external wallets like MetaMask or Phantom.
-
-**13. Can I connect this wallet to other dApps using WalletConnect?**
-
-Not at this time. The embedded wallet is **limited to PancakeSwap only**. If you're interested in using it more broadly, let us know — future expansions are possible.
+Сессии длятся **30 дней**. После этого тебе будет предложено **снова войти** и (при необходимости) повторно ввести учётные данные восстановления. В течение активной сессии ты можешь совершать транзакции без необходимости вручную подтверждать каждое действие.
 
 
 
-### 🚀 Advanced Features
+### ⚙️ Совместимость и ограничения
 
-**14. Does the social login wallet support Account Abstraction?**
+**12. Могу ли я экспортировать или импортировать кошельки?**
 
-Yes. It supports **Account Abstraction features** such as transaction batching and **gas sponsorship** through integrations like Biconomy etc.
+* **Экспорт**: по умолчанию не поддерживается по соображениям безопасности. Это может измениться в будущих обновлениях.
+* **Импорт**: не поддерживается. Ты не можешь импортировать внешние кошельки, такие как MetaMask или Phantom.
 
-**15. How are signless transactions enabled?**
+**13. Могу ли я подключить этот кошелёк к другим dApp через WalletConnect?**
 
-* After login, your session is active for up to 30 **days**. During this time, PancakeSwap can request Privy to sign transactions on your behalf using your session credentials.&#x20;
-* You won’t see a wallet popup for each action — everything is handled in the background. After 30 days, you’ll need to re-login to continue using this signless experience.
+На данный момент нет. Встроенный кошелёк **ограничен только PancakeSwap**. Если тебя интересует более широкое использование, дай нам знать — возможные расширения в будущем не исключены.
+
+
+
+### 🚀 Расширенные функции
+
+**14. Поддерживает ли кошелёк Social Login Account Abstraction?**
+
+Да. Он поддерживает **функции Account Abstraction**, такие как пакетирование транзакций и **спонсирование газа** через интеграции с Biconomy и другими.
+
+**15. Как включаются транзакции без подписи?**
+
+* После входа твоя сессия активна до **30 дней**. В это время PancakeSwap может запрашивать у Privy подписание транзакций от твоего имени с использованием твоих сессионных учётных данных.&#x20;
+* Для каждого действия не появляется всплывающее окно кошелька — всё обрабатывается в фоновом режиме. Через 30 дней тебе нужно будет войти снова, чтобы продолжить использовать этот режим без подписи.

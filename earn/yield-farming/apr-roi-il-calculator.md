@@ -1,149 +1,149 @@
-# APR/ROI/IL Calculator
+# Калькулятор APR/ROI/IL
 
-In V3 Liquidity and Farms, with the new non-fungible liquidity and customizable price range ability. Each LP position will have its own LP fee and CAKE farming APR.
+В V3 Ликвидности и Фермах, с новой невзаимозаменяемой ликвидностью и возможностью настройки ценового диапазона, каждая LP-позиция будет иметь собственный APR комиссий LP и APR фарминга CAKE.
 
-To make liquidity provisioning smoother and less challenging, the new automatic APR displays with a brand new ROI calculator are available to use whenever you are providing liquidity or farming.
+Для облегчения и упрощения предоставления ликвидности доступны новые автоматические отображения APR с новым калькулятором ROI, которые можно использовать при предоставлении ликвидности или фарминге.
 
-## Automatic APR calculation and displays <a href="#id-12d7c8c1-d0d7-4d5e-99ea-5f5b7f5378e5" id="id-12d7c8c1-d0d7-4d5e-99ea-5f5b7f5378e5"></a>
+## Автоматический расчёт и отображение APR <a href="#id-12d7c8c1-d0d7-4d5e-99ea-5f5b7f5378e5" id="id-12d7c8c1-d0d7-4d5e-99ea-5f5b7f5378e5"></a>
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28293%29.png" alt=""><figcaption></figcaption></figure>
 
-When you are providing liquidity, the automatic APR display reacts to your configuration changes and calculates the APR based on your settings.
+При предоставлении ликвидности автоматическое отображение APR реагирует на изменения в твоей конфигурации и рассчитывает APR на основе твоих настроек.
 
-For example, in most cases, if you tighten your price range settings, the APR goes up.
+Например, в большинстве случаев, если сузить настройки ценового диапазона, APR возрастёт.
 
-Please note for LP fee APRs:
+Обрати внимание на APR комиссий LP:
 
-* The estimated amount of LP fee rewards vary based on the selected fee tier, fee rewards require manual claiming and compounding.
-* APR figures are calculated using historical trading volume, which is dependent on Subgraph and may be subject to indexing delays.
+* Расчётное количество вознаграждений от комиссий LP варьируется в зависимости от выбранного уровня комиссии; вознаграждения от комиссий требуют ручного сбора и реинвестирования.
+* Значения APR рассчитываются на основе исторического торгового объёма, который зависит от Subgraph и может быть подвержен задержкам индексирования.
 
-For farming APRs:
+Для APR фарминга:
 
-* The estimated amount of CAKE rewards is based on the live CAKE emissions to the farms. They are subject to change based on future emission adjustments.
+* Расчётное количество вознаграждений CAKE основано на живых эмиссиях CAKE на фермы. Они могут изменяться в зависимости от будущих корректировок эмиссий.
 
 {% hint style="info" %}
-Numbers are calculated at the current rates and pool conditions and are subject to change based on various external variables. They are estimations provided for your convenience only, and by no means represent guaranteed returns.
+Цифры рассчитываются по текущим ставкам и условиям пула и могут изменяться в зависимости от различных внешних переменных. Они являются оценками, предоставленными для удобства, и ни в коем случае не представляют гарантированную доходность.
 {% endhint %}
 
-You may find this APR display under:
+Ты можешь найти это отображение APR в следующих местах:
 
-* “Add Liquidity” page - showing LP fee APR
-* Detail page of each of the existing liquidity position - showing LP fee APR\
+* Страница «Add Liquidity» — отображает APR комиссий LP
+* Страница деталей каждой существующей позиции ликвидности — отображает APR комиссий LP\
   ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28326%29.png)
-* Farm page, within the position under each farm - showing combined APR with LP fee and CAKE rewards\
+* Страница Фермы, в позиции под каждой фермой — отображает комбинированный APR с комиссиями LP и вознаграждениями CAKE\
   ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28138%29.png)<br>
 
-## Improved ROI calculator <a href="#id-6f06dc46-ff61-4022-a29d-3ebe67a50607" id="id-6f06dc46-ff61-4022-a29d-3ebe67a50607"></a>
+## Улучшенный калькулятор ROI <a href="#id-6f06dc46-ff61-4022-a29d-3ebe67a50607" id="id-6f06dc46-ff61-4022-a29d-3ebe67a50607"></a>
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28146%29.png" alt=""><figcaption></figcaption></figure>
 
-Whenever you see the automatic APR displays, you can click and bring up the new ROI calculator. The new ROI calculator has been redesigned with serval added features to fit the needs for V3 concentrated liquidity providing and farming.
+Всякий раз, когда ты видишь автоматические отображения APR, ты можешь нажать на них и открыть новый калькулятор ROI. Новый калькулятор ROI был переработан с несколькими дополнительными функциями для удовлетворения потребностей в предоставлении концентрированной ликвидности V3 и фарминге.
 
-Let’s go through each of the sections together:
+Рассмотрим каждую из секций:
 
-### Deposit Amount, “Staked For” and “Compounding Every” <a href="#a398a29b-a1af-4ec3-9cc6-9e07e620c134" id="a398a29b-a1af-4ec3-9cc6-9e07e620c134"></a>
+### Сумма депозита, «Staked For» и «Compounding Every» <a href="#a398a29b-a1af-4ec3-9cc6-9e07e620c134" id="a398a29b-a1af-4ec3-9cc6-9e07e620c134"></a>
 
-These three are the basic inputs, which are also presented in the previous ROI calculator. They are there to define:
+Эти три являются базовыми входными данными, которые также присутствовали в предыдущем калькуляторе ROI. Они определяют:
 
-1. How many assets are provided to the liquidity position, in USD.
-2. For how long those assets will be staked in the position.
-3. How often you will be compounding rewards back to the position.
+1. Сколько активов предоставляется в позицию ликвидности в USD.
+2. На какой срок эти активы будут застейканы в позиции.
+3. Как часто ты будешь реинвестировать вознаграждения обратно в позицию.
 
 
 
-⓵ **Deposit Amount**
+⓵ **Сумма депозита**
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/deposit-amount.gif)
 
-You may manually input the amount in USD, or use the quick action buttons to quickly fill in $100, $1000 or the maximum amount allowed based on the token balance in your wallet.
+Ты можешь вручную ввести сумму в USD или использовать кнопки быстрых действий для быстрого заполнения $100, $1000 или максимально допустимой суммы на основе баланса токенов в кошельке.
 
 
 
-⓶ **Stake Duration**
+⓶ **Срок стейкинга**
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/stake-durations.gif)
 
-You can select how long the assets are staked in the liquidity position by choosing between: 1 day, 7 days, 30 days, 1 year, and 5 years.
+Ты можешь выбрать, на какой срок активы будут застейканы в позиции ликвидности, выбирая из: 1 день, 7 дней, 30 дней, 1 год и 5 лет.
 
-The number of return will be calculated based on your staking duration.
+Количество доходности будет рассчитано на основе выбранного срока стейкинга.
 
 
 
-⓷ **Compounding**
+⓷ **Реинвестирование**
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/compounding.gif)
 
-You can select how often you will be harvesting the rewards generated by the position, and compounding them back to the position. You may choose a number between: 12 hours, 1 day, 7 days, and 30 days.
+Ты можешь выбрать, как часто будешь собирать вознаграждения, генерируемые позицией, и реинвестировать их обратно. Можно выбрать одно из следующих значений: 12 часов, 1 день, 7 дней и 30 дней.
 
-The number of returns and APY will be calculated based on your choice. If you have no plan to compound your position, uncheck the checkbox on the left.
+Количество доходности и APY будут рассчитаны на основе твоего выбора. Если не планируешь реинвестировать позицию, сними флажок слева.
 
 {% hint style="info" %}
-In V3, LP fees and earned CAKE has to be manually harvested and compounded.
+В V3 комиссии LP и заработанные CAKE нужно собирать и реинвестировать вручную.
 {% endhint %}
 
-### &#x20;⓸ History Price <a href="#id-19cd815c-ef3d-496a-8469-fb0164f3946b" id="id-19cd815c-ef3d-496a-8469-fb0164f3946b"></a>
+### &#x20;⓸ Исторические цены <a href="#id-19cd815c-ef3d-496a-8469-fb0164f3946b" id="id-19cd815c-ef3d-496a-8469-fb0164f3946b"></a>
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28305%29.png)
 
-This is a view-only section to reference the historical price movement of the selected pair.
+Это секция только для просмотра, позволяющая ссылаться на историческое движение цен выбранной пары.
 
-You may reference the historical price movements in different timeframes, such as how much the price usually fluctuates and then come up with a suitable price range settings to balance between higher APR and lower risk of impermanent loss
+Ты можешь ссылаться на исторические движения цен в разных временных диапазонах, например, на сколько обычно колеблется цена, а затем придумать подходящие настройки ценового диапазона для баланса между более высоким APR и меньшим риском непостоянных потерь.
 
-* MIN - minimum price
-* MAX - maximum price
-* AVG - average price
-* CURRENT - current price
+* MIN — минимальная цена
+* MAX — максимальная цена
+* AVG — средняя цена
+* CURRENT — текущая цена
 
 {% hint style="info" %}
-The price chart is only using data from the actual V3 pair. Therefore price data before V3 deployment is not available. The four price metrics represent the currently selected timeframe and will change based on the selection.
+Ценовой график использует только данные из реальной пары V3. Поэтому данные о ценах до развёртывания V3 недоступны. Четыре ценовых показателя представляют текущий выбранный временной диапазон и будут изменяться в зависимости от выбора.
 {% endhint %}
 
-### ⓹ Price Range <a href="#bbec6919-1404-4523-815e-063405a961f1" id="bbec6919-1404-4523-815e-063405a961f1"></a>
+### ⓹ Ценовой диапазон <a href="#bbec6919-1404-4523-815e-063405a961f1" id="bbec6919-1404-4523-815e-063405a961f1"></a>
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/price-range.gif)
 
-Using this section, you may check how much liquidity has been deposited to different price ranges, and come up with and set the price range you are providing liquidity to.
+Используя эту секцию, ты можешь проверить, сколько ликвидности было внесено в разные ценовые диапазоны, и придумать и установить ценовой диапазон, в который предоставляешь ликвидность.
 
-You may find the distribution chart below the title. The larger the amount of liquidity, the higher the chart will be.
+Ты найдёшь диаграмму распределения ниже заголовка. Чем больше объём ликвидности, тем выше диаграмма.
 
-You can change your price range settings by:
+Ты можешь изменить настройки ценового диапазона:
 
-* Dragging the two handles on the chart to increase or describes the minimum and maximum price limit.
-* Using the space between two handles to shift the selected range.
-* Clicking the + and - button on the min and max price fields.
-* Clicking the numbers in the price fields and entering them manually.
+* Перетаскивая два маркера на диаграмме для увеличения или уменьшения минимального и максимального ценовых лимитов.
+* Используя пространство между двумя маркерами для сдвига выбранного диапазона.
+* Нажимая кнопки + и - в полях минимальной и максимальной цены.
+* Нажимая на числа в полях цен и вводя их вручную.
 
-If you want to navigate the distribution chart:
+Для навигации по диаграмме распределения:
 
-1. Use the plus and minus magnifier buttons to zoom in and out
-2. Drag the X (bottom) axis to shift left and right
+1. Используй кнопки увеличения и уменьшения с лупой для масштабирования
+2. Перетаскивай ось X (нижнюю) для сдвига влево и вправо
 
-If you want to provide liquidity to the entire price range, click “Full Range”
+Если хочешь предоставить ликвидность по всему ценовому диапазону, нажми «Full Range».
 
-### ⓺ Flip the price direction to view prices with different base <a href="#id-5c3bdfaf-bd66-4942-873d-d617eeeab53d" id="id-5c3bdfaf-bd66-4942-873d-d617eeeab53d"></a>
+### ⓺ Переключение направления цены для просмотра цен с разной базой <a href="#id-5c3bdfaf-bd66-4942-873d-d617eeeab53d" id="id-5c3bdfaf-bd66-4942-873d-d617eeeab53d"></a>
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/flip-directions.gif)
 
-For some token pairs, it is easier and more intuitive to view prices with certain base tokens. For example, for BNB/USDT pair, most people will prefer to view prices in “how many USDT per BNB” instead of the other way around.
+Для некоторых пар токенов просматривать цены с определёнными базовыми токенами проще и интуитивнее. Например, для пары BNB/USDT большинство предпочитает видеть цены в «сколько USDT за BNB», а не наоборот.
 
-You can easily flip the price displays. Simply click the button following the “View prices in:” to switch the base between two tokens in the pair.
+Ты можешь легко переключить отображение цен. Просто нажми кнопку после «View prices in:», чтобы переключить базу между двумя токенами в паре.
 
-### ⓻ Import and export (apply) your settings <a href="#d18cf936-315e-4432-a3a5-f65976651073" id="d18cf936-315e-4432-a3a5-f65976651073"></a>
+### ⓻ Импорт и экспорт (применение) настроек <a href="#d18cf936-315e-4432-a3a5-f65976651073" id="d18cf936-315e-4432-a3a5-f65976651073"></a>
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/apply-settings.gif)
 
-When you open the ROI calculator in the “Add Liquidity” window, or by viewing an existing position, the following settings will be automatically imported so you don’t need to set them again:
+При открытии калькулятора ROI в окне «Add Liquidity» или при просмотре существующей позиции следующие настройки будут автоматически импортированы, чтобы не нужно было устанавливать их снова:
 
-1. The amount of assets you are depositing
-2. The price range
-3. The selected fee tier
+1. Сумма депозируемых активов
+2. Ценовой диапазон
+3. Выбранный уровень комиссии
 
-When you finish configuring in the ROI calculator, you can click “Apply Settings” to quickly apply the settings from the calculator back to the “Add Liquidity” window so you don’t need to match them manually.
+По завершении настройки в калькуляторе ROI ты можешь нажать «Apply Settings» для быстрого применения настроек из калькулятора обратно в окно «Add Liquidity», чтобы не нужно было сопоставлять их вручную.
 
-### ⓼ Calculate farming rewards and APR <a href="#id-584c385b-5f76-42e5-8751-8344d6bd4749" id="id-584c385b-5f76-42e5-8751-8344d6bd4749"></a>
+### ⓼ Расчёт вознаграждений и APR от фарминга <a href="#id-584c385b-5f76-42e5-8751-8344d6bd4749" id="id-584c385b-5f76-42e5-8751-8344d6bd4749"></a>
 
-Farming rewards will be included in the calculations if you bring up the ROI calculator under the “Farm” page.
+Вознаграждения от фарминга будут включены в расчёты, если ты открываешь калькулятор ROI на странице «Ферм».
 
-You can expand the detail sections to see the rewards breakdown.
+Ты можешь развернуть секции деталей для просмотра разбивки вознаграждений.
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28156%29.png" alt=""><figcaption></figcaption></figure>

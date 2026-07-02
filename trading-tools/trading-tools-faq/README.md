@@ -1,3 +1,3 @@
-# ❓ Trading Tools FAQ
+# ❓ FAQ по торговым инструментам
 
-(To be populated)
+(Будет заполнено позже)

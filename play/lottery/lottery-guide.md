@@ -1,129 +1,129 @@
-# How to Play Lottery
+# Как играть в Лотерею
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-lottery-header.png)
 
-PancakeSwap's Lottery is not only a good way to make stacks of CAKE, it's also loads of fun! This guide will walk you through getting involved in the Lottery.
+Лотерея PancakeSwap — это не только отличный способ накопить CAKE, но и масса удовольствия! Это руководство проведёт тебя через весь процесс участия в Лотерее.
 
 {% hint style="info" %}
-The Lottery has changed a little since its first iteration. Lottery v2 lets you win more often, have some control over your tickets, and has more potential for huge CAKE jackpots to get your mouth watering. Learn more about [PancakeSwap Lottery v2 here](https://docs.pancakeswap.finance/products/lottery).
+Лотерея немного изменилась со своей первой версии. Lottery v2 позволяет выигрывать чаще, даёт некоторый контроль над своими билетами и открывает возможность огромных джекпотов в CAKE. Подробнее о [PancakeSwap Lottery v2](https://docs.pancakeswap.finance/products/lottery).
 {% endhint %}
 
-## Deciding if you'd like to enter a round
+## Решение об участии в раунде
 
-‌Not all Lottery rounds are equal. When a lottery jackpot isn't won, the next round's prize pool will increase; the longer it's been since someone has won the jackpot, the larger the Lottery prize pool will be.
+‌Не все раунды Лотереи одинаковы. Если джекпот не был выигран, призовой фонд следующего раунда увеличится; чем дольше никто не выигрывал джекпот, тем больше будет призовой фонд Лотереи.
 
-‌The longer a round is open, the more people can buy a ticket. Each ticket sold increases the prize pool further. Here's how to check the current round's prize pool and remaining time.
+‌Чем дольше открыт раунд, тем больше людей могут купить билет. Каждый проданный билет увеличивает призовой фонд. Вот как проверить призовой фонд текущего раунда и оставшееся время.
 
-‌1. Visit the[ PancakeSwap Lottery page](https://pancakeswap.finance/lottery) and look at the top of the page. You'll see the current round's prize pool shown in (estimated) US dollar value.
+‌1. Перейди на [страницу Лотереи PancakeSwap](https://pancakeswap.finance/lottery) и посмотри на верхнюю часть страницы. Там отображается призовой фонд текущего раунда в (ориентировочном) долларовом эквиваленте.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28213%29.png)
 
-This is the amount to be shared between all winners.
+Это сумма, которая будет разделена между всеми победителями.
 
-‌2. A little lower down the page you'll find the remaining time before the current round is drawn.
+‌2. Немного ниже на странице ты найдёшь оставшееся время до розыгрыша текущего раунда.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28234%29.png)
 
-Remember, a lot can change in the remaining time. Many more tickets may be sold. Each sold ticket both increases the prize pool, and lowers the odds of an individual ticket winning.
+Помни, что за оставшееся время многое может измениться. Может быть продано ещё много билетов. Каждый проданный билет и увеличивает призовой фонд, и снижает шансы выигрыша отдельного билета.
 
-‌If you're unsure, you can always wait until later into the round to decide with more information. Just don't wait too long and miss out!
+‌Если не уверен, можно подождать до более позднего момента раунда, чтобы принять решение с большим количеством информации. Только не жди слишком долго и не упусти возможность!
 
-## Buying Lottery tickets
+## Покупка лотерейных билетов
 
-‌Buying tickets is easy.
+‌Покупка билетов очень проста.
 
-You just need a little CAKE though: each ticket costs approximately $5 USD (the exact CAKE price is set at the start of the round).
+Тебе понадобится немного CAKE: каждый билет стоит приблизительно $5 USD (точная цена в CAKE устанавливается в начале раунда).
 
-You can choose to either randomize your lottery ticket numbers, or to choose your ticket numbers manually. Choose between the randomized numbers and manual numbers tabs below for a guide to each method.
+Ты можешь выбрать случайные числа на лотерейном билете или указать их вручную. Выбери вкладку ниже с нужным способом.
 
 {% tabs %}
 {% tab title="Randomized ticket numbers" %}
-**Randomized ticket numbers**
+**Случайные номера билетов**
 
-1\. On the[ PancakeSwap Lottery page](https://pancakeswap.finance/lottery), click the **Buy Tickets** button at the top of the page (there's another lower on the page also).
+1\. На [странице Лотереи PancakeSwap](https://pancakeswap.finance/lottery) нажми кнопку **Buy Tickets** в верхней части страницы (аналогичная кнопка есть и ниже).
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2842%29.png)
 
-There is a time between rounds where purchasing tickets isn't possible. Just check back after the countdown if that's the case.
+Между раундами покупка билетов недоступна. Если это так, просто загляни снова после обратного отсчёта.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28193%29.png)
 
-2\. A window will open letting you choose how many ticket to buy. Type how many tickets you'd like to buy into the field. You can also use the preset buttons underneath.
+2\. Откроется окно, где можно выбрать количество билетов. Введи желаемое количество в поле. Также можно воспользоваться кнопками с предустановленными значениями.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2886%29.png)
 
-3\. Before you continue, it's worth considering the bulk purchase discounts. The more tickets you buy, the greater the discount.
+3\. Прежде чем продолжить, стоит учесть скидки при оптовой покупке. Чем больше билетов покупаешь, тем больше скидка.
 
-The discount starts at 2 tickets, and scales all the way to 100 tickets where you will save almost 5% on your purchase (4.95%).
+Скидка начинается с 2 билетов и достигает при 100 билетах почти 5% (4.95%).
 
-4\. When you're happy with the number of tickets you want to buy, click **Confirm** and confirm your action in your wallet.
+4\. Когда решишь, сколько билетов купить, нажми **Confirm** и подтверди действие в кошельке.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2891%29.png)
 {% endtab %}
 
 {% tab title="Manual ticket numbers" %}
-**Manual ticket numbers**
+**Ручной выбор номеров билетов**
 
-1\. On the[ PancakeSwap Lottery page](https://pancakeswap.finance/lottery), click the **Buy Tickets** button at the top of the page (there's another lower on the page also).
+1\. На [странице Лотереи PancakeSwap](https://pancakeswap.finance/lottery) нажми кнопку **Buy Tickets** в верхней части страницы (аналогичная кнопка есть и ниже).
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2842%29.png)
 
-There is a time between rounds where purchasing tickets isn't possible. Just check back after the countdown if that's the case.
+Между раундами покупка билетов недоступна. Если это так, просто загляни снова после обратного отсчёта.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28193%29.png)
 
-2\. A window will open letting you choose how many ticket to buy. Type how many tickets you'd like to buy into the field. You can also use the preset buttons underneath.
+2\. Откроется окно, где можно выбрать количество билетов. Введи желаемое количество в поле. Также можно воспользоваться кнопками с предустановленными значениями.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2886%29.png)
 
-3\. Before you continue, it's worth considering the bulk purchase discounts. The more tickets you buy, the greater the discount.
+3\. Прежде чем продолжить, стоит учесть скидки при оптовой покупке. Чем больше билетов покупаешь, тем больше скидка.
 
-The discount starts at 2 tickets, and scales all the way to 100 tickets where you will save almost 5% on your purchase.
+Скидка начинается с 2 билетов и достигает при 100 билетах почти 5%.
 
-4\. To customize the numbers on your tickets, click the **View/Edit Numbers** button.
+4\. Чтобы настроить числа на своих билетах, нажми кнопку **View/Edit Numbers**.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2881%29.png)
 
-5\. A new window will open showing your tickets. Click onto a number for any ticket to change the number in that position.
+5\. Откроется новое окно с твоими билетами. Нажми на любое число билета, чтобы изменить цифру на этой позиции.
 
-You can randomize your numbers again by clicking **Randomize**, or go back if you change your mind by clicking **Go back**.
+Можно снова задать случайные числа, нажав **Randomize**, или вернуться назад, нажав **Go back**.
 
 ![](https://lh4.googleusercontent.com/229uStQBb-Uzj-Tu9kRDXxfux4wWNjeHjPXJBULwhKbCR5UEgWnb3jzzj1-KeWeBfxfGlctR9aH_S1P_l6_VgtrZR0Eb2AVqrJLF8oNkpoVFlpeHaOIsUij-bs12QBOwDAIJEJiU)
 
-You'll get a warning if you create duplicate tickets. It's possible your duplicate tickets will win. In this case your tickets will share in the prize pool for their bracket.
+Если ты создашь дубликаты билетов, появится предупреждение. Возможно, такие билеты-дубликаты выиграют. В этом случае они будут делить призовой фонд своей категории.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2839%29.png)
 
-6\. When you're happy with your numbers, click the **Confirm and buy** button.
+6\. Когда будешь доволен своими числами, нажми кнопку **Confirm and buy**.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28202%29.png)
 
-Confirm the action in your wallet.
+Подтверди действие в кошельке.
 {% endtab %}
 {% endtabs %}
 
-## Viewing your tickets after buying
+## Просмотр билетов после покупки
 
-You can view your tickets after buying them before the round's numbers are drawn.
+Ты можешь просмотреть свои билеты после покупки, до розыгрыша чисел раунда.
 
-1\. Click **View Your Tickets** in the "Next Draw" area of the Lottery page.
+1\. Нажми **View Your Tickets** в секции «Next Draw» на странице Лотереи.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28279%29.png)
 
-2\. A window will open showing all of your tickets and their numbers. It'll also give you the option to buy more tickets if you'd like.
+2\. Откроется окно со всеми твоими билетами и их числами. Там же будет возможность купить ещё билеты при желании.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28226%29.png)
 
-## When the round ends and winning numbers are drawn
+## Когда раунд завершается и выпадают выигрышные числа
 
-‌When the round has ended and the winning numbers are available, you can check your tickets to see if you won.
+‌Когда раунд завершится и выигрышные числа станут известны, ты можешь проверить свои билеты на наличие выигрышей.
 
-### ‌View your winning tickets
+### ‌Просмотр выигрышных билетов
 
-‌You can view your winning tickets in the same way you viewed your tickets after buying them.
+‌Просмотреть выигрышные билеты можно так же, как ты просматривал билеты после покупки.
 
-‌1. Click **View Your Tickets** in the "Finished Rounds" area of the Lottery page.
+‌1. Нажми **View Your Tickets** в секции «Finished Rounds» на странице Лотереи.
 
 ![](https://lh3.googleusercontent.com/p3QxWcrxCcBwHrhwPU55vnAN-BmelgNwKRWse8yEQQVfehXsIOvUX_tCo1gC7LpHxL-crIMS19RxpnMxn5yBuShNwXfH7qzCSdCOtnBeXhUuecrqRvhdI97rX_CuVuWAawaor6Mi)
 
-2\. A window will open showing the winning numbers and all of your tickets and their numbers.\\
+2\. Откроется окно с выигрышными числами, а также всеми твоими билетами и их числами.\\

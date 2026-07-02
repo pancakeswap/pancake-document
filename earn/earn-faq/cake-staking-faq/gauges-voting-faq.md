@@ -2,76 +2,76 @@
 hidden: true
 ---
 
-# Gauges Voting FAQ
+# FAQ по голосованию в гейджах
 
-### I have an active position, why I can not vote? <a href="#cae64522-4729-43a2-8fa8-6bbd2567dcea" id="cae64522-4729-43a2-8fa8-6bbd2567dcea"></a>
+### У меня есть активная позиция, почему я не могу голосовать? <a href="#cae64522-4729-43a2-8fa8-6bbd2567dcea" id="cae64522-4729-43a2-8fa8-6bbd2567dcea"></a>
 
-Please ensure your unlock time is equal to or later than 1 week after the snapshot time of the current epoch.&#x20;
+Убедись, что время разблокировки не раньше, чем через 1 неделю после времени снимка текущей эпохи.
 
-If your position is unlocking at the snapshot time, it means you have 0 veCAKE at the snapshot time. Therefore you are not able to vote.
-
-
-
-### Can vote right after I set up a veCAKE position?
-
-Yes.
-
-Once your position is set up, you can use your cake to vote right away.
-
-However:
-
-* No votes can be cast within the last 24 hours of an epoch.
-* You can not update your voting decision on a specific gauge more frequently than 10 days.
-* Please ensure your position is not unlocking earlier than or at the snapshot time.
+Если твоя позиция разблокируется на момент снимка, это означает, что у тебя 0 veCAKE на момент снимка. Поэтому ты не можешь голосовать.
 
 
 
-### Can I gain more veCAKE or votes?
+### Можно ли голосовать сразу после создания позиции veCAKE?
 
-Yes, simply add more CAKE or extend your lock position.
+Да.
 
-Please note that after gaining more veCAKE by adding CAKE or extending lock time. You need to manually update every gauges by re-submitting the vote request.
+После создания позиции можешь сразу использовать свои CAKE для голосования.
 
+Однако:
 
-
-### Why did the voting results change after the tallying period?
-
-During tallying period, the PancakeSwap Kitchen will cast its votes based on various metrics from all the gauges.&#x20;
-
-The goal is to:
-
-* Ensuring core liquidity pools are provided a competitive return on their LP positions
-* Ensuring that existing Syrup Pool partner arrangements are met before migrating them fully to the veCAKE gauge voting system
-* Ensuring that any of the smaller farms which did not receive any votes after the launch of veCAKE will receive at least some allocation in the initial rollout, capped at their current emission levels.
-
-Check out this proposal for more detail: [https://pancakeswap.finance/voting/proposal/0x9602c8f56d01f239b88ecf914ee263cc9cdd75b8d10ae4d9536fc27b2680849c](https://pancakeswap.finance/voting/proposal/0x9602c8f56d01f239b88ecf914ee263cc9cdd75b8d10ae4d9536fc27b2680849c)
+* Нельзя голосовать в последние 24 часа эпохи.
+* Нельзя обновлять решение о голосовании по конкретному гейджу чаще, чем раз в 10 дней.
+* Убедись, что твоя позиция не разблокируется раньше или в момент снимка.
 
 
 
-### Why my vote numbers are decreasing?
+### Можно ли получить больше veCAKE или голосов?
 
-Because when we vote on gauges, we vote using our veCAKE. And veCAKE balance gradually decreases with the remaining lock time.&#x20;
+Да, просто добавь больше CAKE или продли позицию блокировки.
 
-Your votes will decrease all the way to 0 upon your veCAKE position unlocking.
-
-To gain more votes, acquire more veCAKE by adding more CAKE to the lock, or extending the lock.
+Обрати внимание: после получения большего количества veCAKE путём добавления CAKE или продления срока блокировки нужно вручную обновить каждый гейдж, повторно отправив запрос на голосование.
 
 
 
-### After getting more veCAKE, why can't I vote for more gauges?
+### Почему результаты голосования изменились после периода подсчёта?
 
-When voting on gauges, we cast our votes by defining how much % of our veCAKE goes to each gauge.
+В течение периода подсчёта кухня PancakeSwap будет голосовать по различным метрикам всех гейджей.
 
-Therefore, even though you gained more veCAKE. If you have allocated 100% of your veCAKE in the previous 10 days, you can not change the decision until the end of the 10-day cooldown period.
+Цель:
+
+* Обеспечить конкурентоспособную доходность по позициям LP в основных пулах ликвидности
+* Выполнить существующие договорённости с партнёрами Syrup Pool перед их полным переходом на систему голосования по гейджам veCAKE
+* Обеспечить хотя бы небольшую аллокацию для мелких ферм, не получивших голосов после запуска veCAKE, в рамках первоначального развёртывания, с ограничением на уровне текущих уровней эмиссии.
+
+Подробнее смотри в этом предложении: [https://pancakeswap.finance/voting/proposal/0x9602c8f56d01f239b88ecf914ee263cc9cdd75b8d10ae4d9536fc27b2680849c](https://pancakeswap.finance/voting/proposal/0x9602c8f56d01f239b88ecf914ee263cc9cdd75b8d10ae4d9536fc27b2680849c)
 
 
 
-### Voting results are tallied, why emission rate is not changing?
+### Почему количество моих голосов уменьшается?
 
-It takes roughly 72 hours to apply the voting results to various emission products on PancakeSwap. Chefs will continue to automate this process to shorten the gap as well as improve accuracy.
+Потому что при голосовании по гейджам мы голосуем своим veCAKE. А баланс veCAKE постепенно уменьшается по мере убывания оставшегося времени блокировки.
+
+Твои голоса снизятся до 0 к моменту разблокировки позиции veCAKE.
+
+Чтобы получить больше голосов, добавь больше CAKE в блокировку или продли блокировку.
 
 
 
-### Why did the gauge I voted for not receive any CAKE emissions in the next epoch?
+### Почему после получения большего количества veCAKE я не могу голосовать за большее количество гейджей?
 
-Whitelisted gauges need to receive votes that correspond to minimally 1 CAKE per day in emissions, before they can receive any CAKE.
+При голосовании по гейджам мы распределяем голоса, указывая, какой % от нашего veCAKE идёт в каждый гейдж.
+
+Поэтому, даже если ты получил больше veCAKE, если ты распределил 100% своего veCAKE в течение последних 10 дней, ты не можешь изменить решение до окончания 10-дневного периода ожидания.
+
+
+
+### Результаты голосования подсчитаны, почему ставка эмиссии не меняется?
+
+Применение результатов голосования к различным продуктам эмиссии на PancakeSwap занимает около 72 часов. Шефы продолжают автоматизировать этот процесс для сокращения задержки и повышения точности.
+
+
+
+### Почему гейдж, за который я проголосовал, не получил никаких эмиссий CAKE в следующей эпохе?
+
+Внесённые в белый список гейджи должны получать голоса, соответствующие минимально 1 CAKE в день в эмиссиях, прежде чем смогут получать какой-либо CAKE.

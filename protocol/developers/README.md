@@ -1,6 +1,5 @@
-# 💻 Developers
+# 💻 Разработчикам
 
 {% hint style="info" %}
-The **developers sections are old** and **won’t be updated**. Go to [https://developer.pancakeswap.finance/](https://developer.pancakeswap.finance/) for the updated developer docs which includes v4.
+**Разделы для разработчиков устарели** и **обновляться не будут**. Актуальную документацию для разработчиков, включая v4, смотри на [https://developer.pancakeswap.finance/](https://developer.pancakeswap.finance/).
 {% endhint %}
-
