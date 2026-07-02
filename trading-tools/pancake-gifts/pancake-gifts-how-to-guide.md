@@ -1,128 +1,128 @@
-# Pancake Gifts: How-To Guide
+# Pancake Gifts: Руководство пользователя
 
-Pancake Gifts lets you send tokens — including optional gas — to friends, users, or community members using just a **link or QR code**. The process is quick, seamless, and beginner-friendly.
+Pancake Gifts позволяет отправлять токены — включая опциональный газ — друзьям, пользователям или членам сообщества просто по **ссылке или QR-коду**. Процесс быстрый, удобный и рассчитан на новичков.
 
-This guide walks you through:
+В этом руководстве описывается:
 
-* ✅ How to **create** a Pancake Gift
-* ✅ How to **send or share** it
-* ✅ How to **claim** a gift
-* ✅ How to **cancel** a gift (if unclaimed)
+* ✅ Как **создать** Pancake Gift
+* ✅ Как **отправить или поделиться** им
+* ✅ Как **получить** подарок
+* ✅ Как **отменить** подарок (если он ещё не получен)
 
 ***
 
-### 🧑‍🍳 Step 1: Create a Gift
+### 🧑‍🍳 Шаг 1: Создание подарка
 
-#### 1. Navigate to the Gift Creation Tab
+#### 1. Перейди на вкладку создания подарка
 
-Go to the **Gift tab** inside the PancakeSwap Wallet UI.
+Перейди на вкладку **Gift** в интерфейсе кошелька PancakeSwap.
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28418%29.png" alt="" width="306"><figcaption></figcaption></figure>
 
-#### 2. Select Tokens and Amounts
+#### 2. Выбери токены и суммы
 
-Choose up to **two tokens** to include in your gift:
+Выбери до **двух токенов** для включения в подарок:
 
-* **One BEP-20 token** (required) — e.g., CAKE
-* **One native gas token** (optional) — e.g., BNB
+* **Один токен BEP-20** (обязательно) — например, CAKE
+* **Один нативный газовый токен** (опционально) — например, BNB
 
-This setup lets you:
+Это позволяет:
 
-* Send usable tokens to the recipient
-*   Cover their gas so they can transact immediately
+* Отправить получателю используемые токены
+*   Покрыть расходы на газ, чтобы получатель мог сразу совершать транзакции
 
     <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28419%29.png" alt="" width="311"><figcaption></figcaption></figure>
 
-#### 3. Choose Gift Type
+#### 3. Выбери тип подарка
 
-Select one of the following:
+Выбери один из следующих вариантов:
 
-* 🔗 **Link** — Easy to copy and share via chat or socials
-* 📱 **QR Code** — Perfect for in-person events or mobile users
+* 🔗 **Ссылка** — Легко скопировать и поделиться в чате или соцсетях
+* 📱 **QR-код** — Идеально для очных мероприятий или мобильных пользователей
 
-> 💡 Each gift can only be claimed once, and only supports one delivery format (link or QR).
+> 💡 Каждый подарок можно получить только один раз и он поддерживает только один формат доставки (ссылка или QR).
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28420%29.png" alt="" width="316"><figcaption></figcaption></figure>
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28421%29.png" alt="" width="311"><figcaption></figcaption></figure>
 
-#### 4. Review Summary & Pay
+#### 4. Проверь итоги и оплати
 
-Before confirming, review:
+Перед подтверждением проверь:
 
-* **Gift Amount** — Total tokens included in the gift
-* **Gift Claim Gas Fee** — Native tokens sender included for recipient to enjoy gasless claiming (\~$0.05 in BNB)
+* **Сумму подарка** — Общее количество токенов, включённых в подарок
+* **Комиссию за получение подарка** — Нативные токены, которые отправитель включил для получателя, чтобы тот мог получить подарок без газа (~$0.05 в BNB)
 
-Once confirmed:
+После подтверждения:
 
-* The gift is created and stored on-chain
-* You’ll receive a **link or QR code** — make sure to **save it before closing the popup**
+* Подарок создаётся и сохраняется в сети
+* Ты получишь **ссылку или QR-код** — обязательно **сохрани его перед закрытием всплывающего окна**
 
 {% hint style="danger" %}
-&#x20;If you close the popup without saving, the gift code cannot be retrieved later.
+&#x20;Если ты закроешь всплывающее окно, не сохранив, код подарка не может быть получен позднее.
 {% endhint %}
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28422%29.png" alt="" width="273"><figcaption></figcaption></figure>
 
 ***
 
-### 📤 Step 2: Send or Share the Gift
+### 📤 Шаг 2: Отправить или поделиться подарком
 
-After creation, you'll receive either:
+После создания ты получишь:
 
-* A **shareable Link**, and / or
-* A **scannable QR Code**
+* Ссылку для **совместного использования**, и/или
+* **Сканируемый QR-код**
 
-You can share this via:
+Ты можешь поделиться им через:
 
-* Chat apps (Telegram, WhatsApp)
-* Email
-* Social media
-* Direct message at events
+* Мессенджеры (Telegram, WhatsApp)
+* Электронную почту
+* Социальные сети
+* Личное сообщение на мероприятиях
 
-Shareable Link
+Ссылка для совместного использования
 
-> Just sent you ${Gift\_Amount}! 🎉
+> Только что отправил тебе ${Gift\_Amount}! 🎉
 >
-> Tap this link to claim it: 👉 [https://pancakeswap.finance/invite/{Gift\_Code}](https://pancakeswap.finance/invite/%7BGift_Code%7D)
+> Нажми на ссылку, чтобы получить: 👉 [https://pancakeswap.finance/invite/{Gift\_Code}](https://pancakeswap.finance/invite/%7BGift_Code%7D)
 >
-> Connect your wallet to complete the claim.
+> Подключи кошелёк для завершения получения.
 >
-> Or, enter the code `{Gift_Code}` manually in the PancakeSwap Wallet.
+> Или введи код `{Gift_Code}` вручную в Кошельке PancakeSwap.
 
-QR Code
+QR-код
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28423%29.png" alt="" width="320"><figcaption></figcaption></figure>
 
 ***
 
-### 🎉 Step 3: Claim a Gift
+### 🎉 Шаг 3: Получение подарка
 
-#### 1. After connecting wallet, tap the Link or Scan the QR Code
+#### 1. После подключения кошелька нажми на ссылку или отсканируй QR-код
 
-When the recipient:
+Когда получатель:
 
-* **Opens the link** or
-* **Scans the QR code**
+* **Открывает ссылку** или
+* **Сканирует QR-код**
 
-The app will autofill the gift code. If eligible and unclaimed, the gift claim UI will load.
+Приложение автоматически заполнит код подарка. Если подарок доступен и ещё не получен, загрузится интерфейс получения подарка.
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28424%29.png" alt="" width="341"><figcaption></figcaption></figure>
 
-If not, an error message will show (e.g. expired or already claimed).
+Если нет, появится сообщение об ошибке (например, истёк срок или уже получен).
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28425%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ***
 
-#### 2. Approve & Receive Tokens
+#### 2. Подтверди и получи токены
 
-The recipient can claim **without paying any gas** (it’s already covered).
+Получатель может получить подарок **без оплаты газа** (он уже покрыт).
 
-Once approved:
+После подтверждения:
 
-* The BEP-20 tokens (and gas token, if included) are deposited into their wallet
-*   The gift is marked as **claimed**
+* Токены BEP-20 (и газовый токен, если включён) поступают в кошелёк получателя
+*   Подарок помечается как **полученный**
 
     <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28426%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -132,42 +132,42 @@ Once approved:
 
 ***
 
-### ❌ Step 4: Cancel a Gift (If Unclaimed)
+### ❌ Шаг 4: Отмена подарка (если не получен)
 
-You can cancel a gift only if:
+Ты можешь отменить подарок только если:
 
-* It’s still **unclaimed**
-* It’s still **within the expiry window** (default: 7 days)
+* Он ещё **не получен**
+* Он ещё **в пределах срока действия** (по умолчанию: 7 дней)
 
-To cancel:
+Для отмены:
 
-1. Go to the **Gift History** tab
+1. Перейди на вкладку **История подарков**
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28429%29.png" alt="" width="308"><figcaption></figcaption></figure>
 
-2. Find the gift
+2. Найди подарок
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28431%29.png" alt="" width="299"><figcaption></figcaption></figure>
 
 
 
-3. Click **Cancel**
+3. Нажми **Cancel**
 
-The tokens will be returned to your wallet (minus the gas sponsorship fee).
+Токены будут возвращены в твой кошелёк (за вычетом комиссии за спонсирование газа).
 
-> ⚠️ Cancelled gifts cannot be reactivated or reused.
+> ⚠️ Отменённые подарки нельзя повторно активировать или использовать.
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Group%201410078707.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 
-### ✅ That’s It!
+### ✅ Вот и всё!
 
-You now know how to:
+Теперь ты знаешь, как:
 
-1. Create a Pancake Gift
-2. Send it to someone via link or QR
-3. Claim a gift sent to you
-4. Cancel a gift if needed
+1. Создать Pancake Gift
+2. Отправить его кому-то по ссылке или QR
+3. Получить подарок, отправленный тебе
+4. Отменить подарок при необходимости
 
-Want to view your full gift history or check statuses? Just return to the **Gift tab** in the PancakeSwap Wallet.
+Хочешь просмотреть полную историю подарков или проверить статусы? Просто вернись на вкладку **Gift** в Кошельке PancakeSwap.

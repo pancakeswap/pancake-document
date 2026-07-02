@@ -1,52 +1,52 @@
-# Solana Farming
+# Фарминг на Solana
 
-## How to Use Farms on PancakeSwap SOL V3
+## Как использовать Фермы на PancakeSwap SOL V3
 
-Farming lets you earn additional rewards on top of standard liquidity provider (LP) fees when you provide liquidity to eligible pools. Here's how to get started via: [https://solana.pancakeswap.finance/liquidity-pools/](https://solana.pancakeswap.finance/liquidity-pools/)
+Фарминг позволяет тебе зарабатывать дополнительные вознаграждения поверх стандартных комиссий поставщика ликвидности (LP) при предоставлении ликвидности в подходящие пулы. Вот как начать: [https://solana.pancakeswap.finance/liquidity-pools/](https://solana.pancakeswap.finance/liquidity-pools/)
 
 {% hint style="warning" %}
-**Note:** Images shown in this guide are for illustrative purposes only and may not reflect real-time data or current farming statistics.
+**Примечание:** Изображения в этом руководстве приведены исключительно в иллюстративных целях и могут не отражать данные в реальном времени или текущую статистику фарминга.
 {% endhint %}
 
 ***
 
-### 1. Filter to View Farms
+### 1. Отфильтруй для просмотра Ферм
 
-*   On the **Pool List** page, toggle the **“Show Farm only”** filter to display only pools that offer farming rewards.
+*   На странице **Pool List** включи фильтр **«Show Farm only»**, чтобы отображать только пулы с вознаграждениями от фарминга.
 
     <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
-### 2. View APR Breakdown
+### 2. Просмотри разбивку APR
 
-* **Hover over** or **click** on the APR displayed next to a pool.
-*   A breakdown will appear showing:
+* **Наведи курсор** или **нажми** на APR, отображаемый рядом с пулом.
+*   Появится разбивка, показывающая:
 
-    * LP rewards from trading fees.
-    * Additional rewards from farming incentives.
-    * An **estimated weekly reward** in tokens for that pool.
+    * Вознаграждения LP от торговых комиссий.
+    * Дополнительные вознаграждения от стимулов фарминга.
+    * **Расчётное еженедельное вознаграждение** в токенах для этого пула.
 
     <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29%20%284%29.png" alt=""><figcaption></figcaption></figure>
 
-### 3. Start Earning Farming Rewards
+### 3. Начни получать вознаграждения от фарминга
 
-* Simply **add liquidity** to a pool that has farming enabled.
-* Once you hold an **active (in-range)** position:
-  * You will start earning farming rewards **automatically when swaps occur**.
-  * **No need to stake your LP NFT**—rewards accrue directly to your position.
+* Просто **добавь ликвидность** в пул с включённым фармингом.
+* Как только у тебя будет **активная (в диапазоне)** позиция:
+  * Ты начнёшь получать вознаграждения от фарминга **автоматически при совершении обменов**.
+  * **Не нужно стейкать NFT LP** — вознаграждения начисляются непосредственно на позицию.
 
-### 4. Track Your Rewards
+### 4. Отслеживай свои вознаграждения
 
-* Navigate to the **“My Positions”** page to view your:
-  * Active LP positions.
-  * Farming rewards accumulated for each position.
+* Перейди на страницу **«My Positions»** для просмотра:
+  * Активных LP-позиций.
+  * Накопленных вознаграждений от фарминга для каждой позиции.
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28415%29.png" alt=""><figcaption></figcaption></figure>
 
-### 5. Claiming Your Rewards
+### 5. Получение вознаграждений
 
-* **Click "Harvest"** on a position to harvest both:
-  * LP rewards (from trading fees)
-  * Farming token rewards (if applicable)
-* Use **“Harvest All”** to collect rewards from **all active positions** in a single transaction.
+* **Нажми «Harvest»** на позиции для получения:
+  * Вознаграждений LP (от торговых комиссий)
+  * Вознаграждений токенами фарминга (если применимо)
+* Используй **«Harvest All»** для получения вознаграждений от **всех активных позиций** в одной транзакции.
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28416%29.png" alt=""><figcaption></figcaption></figure>

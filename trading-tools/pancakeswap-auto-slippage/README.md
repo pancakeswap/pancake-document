@@ -1,84 +1,84 @@
 # 🎯 PancakeSwap Auto Slippage
 
-PancakeSwap has introduced Auto Slippage to make trading easier and more efficient. Auto Slippage automatically adjusts the slippage for you based on current market conditions, helping to prevent failed trades and reduce the risk of losing money due to slippage errors.
+PancakeSwap представил Auto Slippage, чтобы сделать торговлю проще и эффективнее. Auto Slippage автоматически настраивает проскальзывание для тебя на основе текущих рыночных условий, помогая предотвратить неудавшиеся сделки и снизить риск потери средств из-за ошибок проскальзывания.
 
-## What is Slippage?
+## Что такое Проскальзывание?
 
-**Slippage** occurs when the price you expect for a trade is different from the price at which the trade is actually completed. This can happen for several reasons:
+**Проскальзывание** происходит, когда ожидаемая цена сделки отличается от цены, по которой сделка фактически исполняется. Это может происходить по нескольким причинам:
 
-* Market volatility – Prices can move quickly between when you place and confirm
-* Low liquidity – there aren’t enough tokens available at your expected price
-* Blockchain delays – confirmation times can cause the price to change before the trade is completed finalized
-
-{% hint style="info" %}
-Example:
-
-You try to swap 100 CAKE for BNB, expecting 1 CAKE = 0.01 BNB. But by the time your trade goes through, the price has changed and you only get 0.0098 BNB per CAKE. This small difference is what we call slippage.
-{% endhint %}
-
-## What is Slippage Tolerance?
-
-**Slippage tolerance** is the maximum price difference you’re willing to accept before your trade is canceled. If the price moves beyond your set tolerance, your transaction will fail to prevent any unexpected losses.
+* Волатильность рынка — цены могут быстро меняться между моментом размещения и подтверждения ордера
+* Низкая ликвидность — недостаточно токенов по ожидаемой цене
+* Задержки в блокчейне — время подтверждения может привести к изменению цены до завершения сделки
 
 {% hint style="info" %}
-Example:
+Пример:
 
-If you set a 1% slippage tolerance and the price changes by more than 1% before the trade is completed, the trade won’t go through.
+Ты пытаешься обменять 100 CAKE на BNB, ожидая 1 CAKE = 0.01 BNB. Но к моменту исполнения сделки цена изменилась, и ты получаешь только 0.0098 BNB за CAKE. Эта небольшая разница и называется проскальзыванием.
 {% endhint %}
 
-## What happens if my Slippage Tolernace is too low?
+## Что такое Допустимое Проскальзывание?
 
-If your slippage tolerance is **set too low**, there’s a higher chance your transaction will fail — especially when:
+**Допустимое проскальзывание** — это максимальная разница в цене, которую ты готов принять до отмены сделки. Если цена выходит за пределы установленного допуска, транзакция не пройдёт, чтобы предотвратить неожиданные убытки.
 
-* The market is volatile
-* You’re swapping tokens with low liquidity
-* Using tokens with taxes or complex mechanics
+{% hint style="info" %}
+Пример:
+
+Если ты установил допустимое проскальзывание 1%, а цена изменилась более чем на 1% до завершения сделки, сделка не выполнится.
+{% endhint %}
+
+## Что происходит, если Допустимое Проскальзывание слишком мало?
+
+Если допустимое проскальзывание **слишком мало**, транзакция с большей вероятностью не пройдёт — особенно когда:
+
+* Рынок волатилен
+* Ты обмениваешь токены с низкой ликвидностью
+* Используются токены с налогами или сложной механикой
 
 {% hint style="warning" %}
-Important: Even if the transaction fails, you’ll still consume gas fees for trying.
+Важно: даже если транзакция не удалась, ты всё равно потратишь газ на попытку.
 {% endhint %}
 
-## Introducing Auto Slippage - Why is Auto Slippage helpful?
+## Представляем Auto Slippage — Почему Auto Slippage полезен?
 
-Auto Slippage automatically adjusts your slippage based on current market conditions, saving you time and reducing the risk of failed trades.&#x20;
+Auto Slippage автоматически корректирует проскальзывание в зависимости от текущих рыночных условий, экономя твоё время и снижая риск неудавшихся сделок.&#x20;
 
-With **Auto Slippage**, there's no need to manually adjust your slippage tolerance. This helps prevent common issues such as:
+С **Auto Slippage** не нужно вручную настраивать допустимое проскальзывание. Это помогает предотвратить распространённые проблемы, такие как:
 
-* **Setting slippage too low**, which can cause transactions to fail due to minor price changes during execution.
-* **Setting slippage too high**, which may result in receiving fewer tokens than expected due to accepting a wider price range.
+* **Слишком малое проскальзывание**, которое может привести к неудаче транзакций из-за незначительных изменений цены в процессе исполнения.
+* **Слишком большое проскальзывание**, которое может привести к получению меньшего количества токенов, чем ожидалось, из-за принятия более широкого диапазона цен.
 
 {% hint style="info" %}
-To ensure the best trading experience, auto slippage has been **toggled on automatically**. If a manual slippage tolerance has been set, the new slippage setting will be applied.
+Для обеспечения наилучшего торгового опыта Auto Slippage был **включён автоматически**. Если было установлено ручное допустимое проскальзывание, будет применена новая настройка проскальзывания.
 {% endhint %}
 
 
 
-## How does Auto Slippage work?
+## Как работает Auto Slippage?
 
-<pre class="language-html"><code class="lang-html"><strong>Auto Slippage (%) = (Gas Cost in USD / Output Token Value in USD) * 100%
+<pre class="language-html"><code class="lang-html"><strong>Auto Slippage (%) = (Стоимость газа в USD / Стоимость выходного токена в USD) * 100%
 </strong></code></pre>
 
-* If the gas cost is high compared to the output token’s value, Auto Slippage will set a higher slippage to ensure the trade goes through.
-* If gas is cheap and the output token's value is large, a smaller slippage will be used.
+* Если стоимость газа высока по сравнению со стоимостью выходного токена, Auto Slippage установит более высокое проскальзывание, чтобы обеспечить прохождение сделки.
+* Если газ дешёвый, а стоимость выходного токена велика, будет использовано меньшее проскальзывание.
 
-Auto Slippage will choose a value between **0.5%** and **5.0%**, depending on token and network conditions.
+Auto Slippage выберет значение между **0.5%** и **5.0%** в зависимости от условий токена и сети.
 
 
 
-## Is Auto Slippage available on all networks?
+## Доступен ли Auto Slippage во всех сетях?
 
-No — Auto Slippage is only supported on Layer 1 (L1) chains like BNB Chain, Ethereum, etc.
+Нет — Auto Slippage поддерживается только на сетях первого уровня (L1), таких как BNB Chain, Ethereum и т.д.
 
-It is not supported on Layer 2 (L2) chains, because:
+На сетях второго уровня (L2) он не поддерживается, потому что:
 
-* The auto slippage formula relies on meaningful gas cost values to calculate a useful slippage setting
-* Since L2 gas fees are very low, applying auto slippage on L2s wouldn’t improve trade success rates
+* Формула Auto Slippage опирается на значимые значения стоимости газа для расчёта полезной настройки проскальзывания
+* Поскольку комиссии за газ на L2 очень низкие, применение Auto Slippage на L2 не улучшит показатели успешности сделок
 
 {% hint style="success" %}
-&#x20;If Auto Slippage is **not supported** on a network:
+&#x20;Если Auto Slippage **не поддерживается** в сети:
 
-* Your previously used slippage setting will be applied
-* If you haven't set one before, it will default to 0.5%
+* Будет применена ранее использованная настройка проскальзывания
+* Если ты не устанавливал её ранее, по умолчанию будет использоваться 0.5%
 {% endhint %}
 
 

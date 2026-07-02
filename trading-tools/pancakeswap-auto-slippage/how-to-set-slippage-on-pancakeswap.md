@@ -1,18 +1,18 @@
-# How to Set Slippage on PancakeSwap
+# Как настроить Проскальзывание на PancakeSwap
 
-#### How to Set Slippage on PancakeSwap
+#### Как настроить Проскальзывание на PancakeSwap
 
-PancakeSwap offers two options for setting slippage:
+PancakeSwap предлагает два варианта настройки проскальзывания:
 
-* Auto Slippage: Automatically adjusts based on the token and market conditions.
-* Fixed Slippage: Allows you to set a specific slippage percentage for more control.
+* Auto Slippage: Автоматически корректируется в зависимости от токена и рыночных условий.
+* Фиксированное проскальзывание: Позволяет установить конкретный процент проскальзывания для большего контроля.
 
 
 
-You may access these settings from:
+Доступ к этим настройкам можно получить из:
 
-1. Clicking the settings icon (Top right panel of Swap)
-2. Edit icon in the Swap details -> Slippage Tolerance
+1. Нажав на иконку настроек (верхняя правая панель в разделе Обмен)
+2. Иконку редактирования в деталях Обмена -> Допустимое Проскальзывание
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXew-6qib2x649vtCDOdxY0PXlE2SS-lDhfxHffTsG-_uvTQKgWkh20GOuiqThlJtaXmtHbFQoIdC3TSv6I1Fvh-vmnD15r85KUhiRo-CTG_bM5l3lOMejcfnfEPVHZRpEvdnkdYYg?key=TNLdJ0jw6EBh-FaH6ZdZ7i11" alt=""><figcaption></figcaption></figure>
 

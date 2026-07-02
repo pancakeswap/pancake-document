@@ -1,79 +1,79 @@
 ---
-description: 'Syrup Pools: the simplest way to earn on PancakeSwap'
+description: 'Syrup Pools: самый простой способ зарабатывать на PancakeSwap'
 ---
 
 # Syrup Pools
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-syrup-pool-staking-header.png)
 
-Staking in [Syrup Pools](https://docs.pancakeswap.finance/products/syrup-pool) lets you earn CAKE or other tokens while you sleep!
+Стейкинг в [Syrup Pools](https://docs.pancakeswap.finance/products/syrup-pool) позволяет зарабатывать CAKE или другие токены, пока ты спишь!
 
-It's simpler than farming with PancakeSwap's Yield Farms because unlike the Farms, you only need to stake **one token** to start earning: usually CAKE.
+Это проще, чем Yield Farming на PancakeSwap, потому что, в отличие от ферм, здесь нужно поставить в стейкинг только **один токен**, чтобы начать зарабатывать: как правило, CAKE.
 
-## **Getting started with Syrup Pool staking**
+## **Начало работы со стейкингом в Syrup Pool**
 
-1\. Go to the Pools page [here](https://pancakeswap.finance/pools).
+1\. Перейди на страницу пулов [здесь](https://pancakeswap.finance/pools).
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-how-to-stake-in-syrup-pool.png)
 
-2\. Connect to your BNB Smart Chain-compatible wallet by clicking the **Connect** button (top right-hand side).
+2\. Подключи совместимый с BNB Smart Chain кошелёк, нажав кнопку **Connect** (в правом верхнем углу).
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/2-how-to-stake-in-syrup-pool.png)
 
-3\. Choose your wallet and connect.
+3\. Выбери кошелёк и подключись.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/3-how-to-stake-in-syrup-pool%20%282%29.png)
 
-4\. Choose which Syrup Pool you want to stake in.
+4\. Выбери Syrup Pool, в который хочешь сделать стейкинг.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/4-how-to-stake-in-syrup-pool.png)
 
-**IFO CAKE** automatically compounds your rewards: any CAKE you earn will be harvested and re-invested in the same pool for you. You can also earn IFO Credit during the calculation period.
+**IFO CAKE** автоматически реинвестирует твои награды: любой заработанный CAKE будет собран и снова вложен в тот же пул. Также можно зарабатывать IFO Credit в период расчёта.
 
-**Auto CAKE** automatically compounds your rewards: any CAKE you earn will be harvested and re-invested in the same pool for you.
+**Auto CAKE** автоматически реинвестирует твои награды: любой заработанный CAKE будет собран и снова вложен в тот же пул.
 
-**Manual CAKE** doesn’t automatically compound like Auto CAKE. You’ll need to harvest and compound your earnings manually.
+**Manual CAKE** не реинвестирует автоматически, как Auto CAKE. Тебе нужно будет вручную собирать и реинвестировать заработанное.
 
-Other Syrup Pools let you stake your CAKE to earn dozens of other cool tokens. Make sure you check them out.
+Другие Syrup Pools позволяют ставить CAKE в стейкинг и зарабатывать десятки других интересных токенов. Обязательно проверь их.
 
 ***
 
-5\. Once you choose a pool, click the **Enable** button. Your wallet will ask you to confirm the action.
+5\. Выбрав пул, нажми кнопку **Enable**. Кошелёк попросит подтвердить действие.
 
-6\. The Enable button should now be replaced with **Stake**. Click the button to bring up the staking menu.
+6\. Кнопка Enable должна смениться на **Stake**. Нажми её, чтобы открыть меню стейкинга.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28263%29.png)
 
-7\. Type in an amount or slide the rabbit to choose how much CAKE you want to stake.
+7\. Введи сумму или передвинь ползунок, чтобы выбрать количество CAKE для стейкинга.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28301%29.png)
 
-8\. Click **Confirm**. Your wallet will ask you to confirm the action.
+8\. Нажми **Confirm**. Кошелёк попросит подтвердить действие.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28178%29.png)
 
-9\. The Confirm button will change to "Confirming", then once the transaction is successful, you’ll see your staked amount change and the button will change again.
+9\. Кнопка Confirm изменится на «Confirming», а после успешного завершения транзакции отображаемая сумма стейкинга обновится, и кнопка снова изменится.
 
-10\. You should now be able to see details on your Syrup Pool. Auto CAKE will show a countdown until the unstaking fee ends. The other pools will show a **Collect** button to claim your staking rewards into your wallet.
+10\. Теперь ты сможешь видеть детали своего Syrup Pool. В Auto CAKE отобразится обратный отсчёт до окончания комиссии за вывод. В других пулах появится кнопка **Collect** для получения наград стейкинга на кошелёк.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28152%29.png)
 
-### **Adding and removing CAKE from a pool**
+### **Добавление и вывод CAKE из пула**
 
-You can easily add more CAKE to a Syrup Pool, or move some CAKE to a more profitable pool. Here’s how you can move your staked CAKE.
+Ты можешь легко добавить больше CAKE в Syrup Pool или перевести часть CAKE в более прибыльный пул. Вот как перемещать CAKE в стейкинге.
 
-1\. Click the **-** to take some CAKE out of a pool, or the **+** to add more to the pool.
+1\. Нажми **-**, чтобы вывести часть CAKE из пула, или **+**, чтобы добавить больше.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2829%29.png)
 
-Please note that unstaking from the Auto CAKE pool has a fee of 0.1% if you unstake within 72 hours.
+Обрати внимание: вывод из пула Auto CAKE облагается комиссией 0,1%, если ты выводишь в течение 72 часов.
 
-2\. A window will open. If you clicked the **+**, choose the amount you would like to add to the pool. If you clicked the **-**, choose the amount to take out of the pool.
+2\. Откроется окно. Если нажал **+**, введи сумму для добавления в пул. Если нажал **-**, введи сумму для вывода из пула.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28127%29.png)
 
-3\. Click **Confirm**.
+3\. Нажми **Confirm**.
 
-4\. After a little wait, you'll be able to see your new amount of staked tokens.
+4\. Немного подожди — ты увидишь обновлённое количество токенов в стейкинге.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28303%29.png)

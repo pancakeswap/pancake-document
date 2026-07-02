@@ -1,71 +1,71 @@
-# FAQ (Users)
+# FAQ (Пользователи)
 
-### 1. What is a CAKE.PAD event?
+### 1. Что такое событие CAKE.PAD?
 
-* A CAKE.PAD event lets users get early access to new project tokens right as they launch.
-* Users obtain new project tokens with **CAKE**.
-* Projects gain liquidity, visibility, and direct access to PancakeSwap’s community.
-* This can take place on BNB, Base, ARB, ETH, Linea, or opBNB
+* Событие CAKE.PAD позволяет пользователям получить ранний доступ к токенам новых проектов прямо в момент их запуска.
+* Пользователи получают новые токены проекта с помощью **CAKE**.
+* Проекты получают ликвидность, видимость и прямой доступ к сообществу PancakeSwap.
+* Может проводиться на BNB, Base, ARB, ETH, Linea или opBNB
 
-### 2. Who is eligible to participate?
+### 2. Кто имеет право участвовать?
 
-* Anyone holding **CAKE**.
-* No NFT profile required.
-* No CAKE staking needed.
-* Designed as a **fair launch** for all participants.
+* Любой владелец **CAKE**.
+* NFT-профиль не требуется.
+* Стейкинг CAKE не нужен.
+* Разработано как **справедливый запуск** для всех участников.
 
-### 3. What are the benefits of participating in a CAKE.PAD event?
+### 3. В чём преимущества участия в событии CAKE.PAD?
 
-* Access new tokens early using **CAKE**.
-* Potential to acquire assets at favorable entry prices before wider trading.
+* Ранний доступ к новым токенам с использованием **CAKE**.
+* Возможность приобрести активы по выгодным ценам входа до начала широкой торговли.
 
-### 4. How long does a CAKE.PAD event last?
+### 4. Сколько длится событие CAKE.PAD?
 
-* Typically **24 hours** (may be adjusted if needed).
+* Как правило, **24 часа** (при необходимости может корректироваться).
 
-### 5. What happens if the CAKE.PAD event is oversubscribed?
+### 5. Что происходит при переподписке события CAKE.PAD?
 
-* A [**Tiered Tax** ](how-cake.pad-taxes-work-in-overflow-sales-with-example.md)applies **only to excess committed funds**.
-* The project receives **100% of its target raise**.
-* Tax rates decrease as oversubscription increases (from 1% down to 0.05%).
+* [**Многоуровневый налог**](how-cake.pad-taxes-work-in-overflow-sales-with-example.md) применяется **только к избыточным внесённым средствам**.
+* Проект получает **100% целевой суммы привлечения**.
+* Налоговые ставки снижаются по мере роста переподписки (от 1% до 0,05%).
 
-### 6. What is the smallest amount of CAKE.PAD partner token allocation possible?
+### 6. Какова минимально возможная аллокация токенов партнёра CAKE.PAD?
 
-* Minimum CAKE.PAD partner token allocation = [**1 wei**](https://www.investopedia.com/terms/w/wei.asp)**.**
-* Committing a very small amount of CAKE compared to total commitments may result in receiving **no tokens**. In such cases, all committed CAKE will be refunded.
+* Минимальная аллокация токенов партнёра CAKE.PAD = [**1 wei**](https://www.investopedia.com/terms/w/wei.asp)**.**
+* Внесение очень малого количества CAKE по сравнению с общей суммой взносов может привести к **неполучению токенов**. В таких случаях все внесённые CAKE будут возвращены.
 
-### 7. What is the participating asset?
+### 7. Какой актив используется для участия?
 
-* All CAKE.PAD events use **CAKE**.
+* Все события CAKE.PAD используют **CAKE**.
 
-### 8. What is the “Overflow” Sale Method?
+### 8. Что такое метод продажи «Overflow»?
 
-* Users can commit any amount of CAKE.
-* Token allocation is proportional to how much CAKE a user committed versus the total pool at the end of the event.
-* Any leftover CAKE is refunded when claiming tokens after the sale. See [here](how-cake.pad-taxes-work-in-overflow-sales-with-example.md) for a numerical example
-* If heavily oversubscribed, small commitments may receive little or no allocation.
+* Пользователи могут внести любое количество CAKE.
+* Аллокация токенов пропорциональна тому, сколько CAKE внёс пользователь по отношению к общему пулу на момент окончания события.
+* Оставшийся CAKE возвращается при получении токенов после продажи. Смотри [здесь](how-cake.pad-taxes-work-in-overflow-sales-with-example.md) числовой пример
+* При сильной переподписке малые взносы могут получить мало аллокации или не получить вовсе.
 
-### 9. What happens if the CAKE.PAD event doesn't raise all targeted funds?
+### 9. Что происходит, если событие CAKE.PAD не собирает всю целевую сумму?
 
-* The sale proceeds normally. All contributed funds are used.
-* No participation fee is charged.
+* Продажа проходит в штатном режиме. Все внесённые средства используются.
+* Комиссия за участие не взимается.
 
-**Participants:** Receive CAKE.PAD partner tokens.
+**Участники:** Получают токены партнёра CAKE.PAD.
 
-CAKE.PAD **Partner Project:** Receives leftover tokens and CAKE from the sale.
+**Партнёрский проект CAKE.PAD:** Получает оставшиеся токены и CAKE от продажи.
 
-### 10. Do CAKE.PAD events support lockups with cliff schedules?
+### 10. Поддерживают ли события CAKE.PAD локапы с графиками клиффа?
 
-* Yes, the framework supports lockups and cliff schedules.
-* Current CAKE.PAD event launches are conducted **without any lockup**.
+* Да, структура поддерживает локапы и графики клиффа.
+* Текущие запуски событий CAKE.PAD проводятся **без каких-либо локапов**.
 
-### 11. When will I receive my purchased tokens?
+### 11. Когда я получу приобретённые токены?
 
-* Tokens are available **immediately after the** CAKE.PAD event **ends** (if no vesting).
-* Users must manually claim tokens via the PancakeSwap interface.
-* For CAKE.PAD events with vesting, the schedule is displayed on the CAKE.PAD event page.
-  * See [Vesting](cakepad-guide.md#ifo-with-token-vesting) for more info
+* Токены доступны **сразу после завершения** события CAKE.PAD (если нет вестинга).
+* Пользователи должны вручную получить токены через интерфейс PancakeSwap.
+* Для событий CAKE.PAD с вестингом график отображается на странице события CAKE.PAD.
+  * Смотри [Вестинг](cakepad-guide.md#ifo-with-token-vesting) для получения дополнительной информации
 
-### 12. Where can I trade CAKE.PAD partner tokens?
+### 12. Где можно торговать токенами партнёра CAKE.PAD?
 
-* CAKE.PAD partner tokens are seeded and listed on PancakeSwap as soon as the CAKE.PAD event ends.
+* Токены партнёра CAKE.PAD вносятся в пул ликвидности и листингуются на PancakeSwap сразу после завершения события CAKE.PAD.

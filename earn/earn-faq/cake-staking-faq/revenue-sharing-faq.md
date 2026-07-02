@@ -2,61 +2,61 @@
 hidden: true
 ---
 
-# Revenue Sharing FAQ
+# FAQ по распределению дохода
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/faq-revenuesharing.png" alt=""><figcaption></figcaption></figure>
 
-### How are the shares (rCAKE) calculated? <a href="#id-50b7c683-feb0-47f6-809f-39c1a0976bb5" id="id-50b7c683-feb0-47f6-809f-39c1a0976bb5"></a>
+### Как рассчитываются доли (rCAKE)? <a href="#id-50b7c683-feb0-47f6-809f-39c1a0976bb5" id="id-50b7c683-feb0-47f6-809f-39c1a0976bb5"></a>
 
-Upon each weekly distribution, each user’s shares are re-calculated based on:
+При каждом еженедельном распределении доли каждого пользователя пересчитываются на основе:
 
-1. The amount of locked CAKE they have
-2. The remaining lock duration of their locked CAKE rounded down to weeks, and the maximum allowed lock time (currently 52 weeks)
+1. Количества заблокированных им CAKE
+2. Оставшегося срока блокировки CAKE, округлённого вниз до недель, и максимально допустимого времени блокировки (в настоящее время 52 недели)
 
-For example:
+Например:
 
-If a user has 50 CAKE locked and the remaining lock time is 10.3 weeks, then the user has `50 * (10 / 52 ) ~= 9.61` shares.
+Если у пользователя заблокировано 50 CAKE и оставшееся время блокировки составляет 10,3 недели, то у пользователя `50 * (10 / 52) ~= 9,61` доли.
 
-### I’ve updated my position; why do I still have 0 shares? <a href="#cae64522-4729-43a2-8fa8-6bbd2567dcea" id="cae64522-4729-43a2-8fa8-6bbd2567dcea"></a>
+### Я обновил позицию; почему у меня по-прежнему 0 долей? <a href="#cae64522-4729-43a2-8fa8-6bbd2567dcea" id="cae64522-4729-43a2-8fa8-6bbd2567dcea"></a>
 
-Shares (rCAKE) are updated upon each weekly distribution at 23:59 UTC every Wednesday. Check back again after the very next weekly distribution to view your updated shares.
+Доли (rCAKE) обновляются при каждом еженедельном распределении в 23:59 UTC каждую среду. Зайди снова после следующего еженедельного распределения, чтобы увидеть обновлённые доли.
 
-### Why are my shares being 0 despite having an active staking position? <a href="#id-9f2843b7-1a26-4248-8c3e-f5343b2de92e" id="id-9f2843b7-1a26-4248-8c3e-f5343b2de92e"></a>
+### Почему у меня 0 долей, несмотря на активную позицию стейкинга? <a href="#id-9f2843b7-1a26-4248-8c3e-f5343b2de92e" id="id-9f2843b7-1a26-4248-8c3e-f5343b2de92e"></a>
 
-When calculating shares (rCAKE), the remaining lock duration is rounded down to weeks. Therefore to receive shares, you must ensure your staking position unlocks no earlier than the very next distribution.
+При расчёте долей (rCAKE) оставшийся срок блокировки округляется вниз до недель. Поэтому для получения долей необходимо убедиться, что твоя позиция стейкинга разблокируется не раньше следующего распределения.
 
-For example, to receive shares for the week 1 distribution. You must:
+Например, для получения долей в первом распределении необходимо:
 
-* Join before 23:59 UTC, 2 August.
-* Have an active fixed-term CAKE staking position which unlocks later than 23:59 UTC, 9 August.
+* Войти до 23:59 UTC 2 августа.
+* Иметь активную позицию фиксированного стейкинга CAKE, которая разблокируется позже 23:59 UTC 9 августа.
 
-If your staking position unlocks earlier than 23:59 UTC, 9 August, you will receive 0 shares for week 1.
+Если твоя позиция стейкинга разблокируется раньше 23:59 UTC 9 августа, ты получишь 0 долей за первую неделю.
 
-### Can I join a distribution period mid-week? <a href="#db254eef-09b7-41d7-bb56-310c77ce976b" id="db254eef-09b7-41d7-bb56-310c77ce976b"></a>
+### Можно ли присоединиться к периоду распределения в середине недели? <a href="#db254eef-09b7-41d7-bb56-310c77ce976b" id="db254eef-09b7-41d7-bb56-310c77ce976b"></a>
 
-No, as mentioned shares are calculated at the beginning of the distribution period at 23:59 UTC on Wednesday every week. Therefore you will receive shares starting from the next distribution and start accumulating rewards by then.
+Нет, как уже упоминалось, доли рассчитываются в начале периода распределения в 23:59 UTC каждую среду. Поэтому ты будешь получать доли, начиная со следующего распределения, и с этого момента начнёт накапливаться вознаграждение.
 
-### How do I receive more shares? <a href="#db254eef-09b7-41d7-bb56-310c77ce976b" id="db254eef-09b7-41d7-bb56-310c77ce976b"></a>
+### Как получить больше долей? <a href="#db254eef-09b7-41d7-bb56-310c77ce976b" id="db254eef-09b7-41d7-bb56-310c77ce976b"></a>
 
-Since shares are calculated based on CAKE amount and remaining lock duration, to receive more shares, you may:
+Поскольку доли рассчитываются на основе количества CAKE и оставшегося срока блокировки, для получения большего количества долей можно:
 
-* Lock more CAKE
-* Extend your staking position
+* Заблокировать больше CAKE
+* Продлить позицию стейкинга
 
-Please note that after adding CAKE or extending, shares are NOT updated in real time and only updated upon each week’s weekly distributions.
+Обрати внимание: после добавления CAKE или продления срока доли НЕ обновляются в режиме реального времени и обновляются только при каждом еженедельном распределении.
 
-### Do I need to update my staking position when I add more CAKE or extend the staking? <a href="#id-71d1d397-ac1c-454b-abd9-15492860f05c" id="id-71d1d397-ac1c-454b-abd9-15492860f05c"></a>
+### Нужно ли обновлять позицию стейкинга при добавлении CAKE или продлении стейкинга? <a href="#id-71d1d397-ac1c-454b-abd9-15492860f05c" id="id-71d1d397-ac1c-454b-abd9-15492860f05c"></a>
 
-No, you will only need to enrol once. All subsequent CAKE staking pool operations will automatically inform the revenue sharing pool and update your shares upon the next weekly distributions.
+Нет, нужно зарегистрироваться только один раз. Все последующие операции в пуле стейкинга CAKE автоматически уведомят пул распределения дохода и обновят твои доли при следующем еженедельном распределении.
 
-### Why are the weekly injected rewards not 100% matching the volume displayed on various trackers (like the Info page)?
+### Почему еженедельные вводимые награды не совпадают на 100% с объёмом, отображаемым в различных трекерах (например, на странице Info)?
 
-The number of CAKE rewards injected weekly may not be 100% matching with the numbers calculated from the volume displayed on various trackers. Multiple external factors may impact the number of CAKE rewards that can be converted:
+Количество вводимых еженедельных наград CAKE может не совпадать на 100% с числами, рассчитанными на основе объёма в различных трекерах. Несколько внешних факторов могут влиять на количество наград CAKE, которые можно конвертировать:
 
-* CAKE token price while the trading fee is being converted and processed
-* Underlying asset prices while the trading fee is being converted and processed
-* To save gas and operational cost. Revenues from blockchains other than BNB Chain are processed monthly. They will be injected with a one-month delay with weekly averaging.
-* Some trading pairs may have insufficient liquidity while processing the trading fee.
-* Some trading pairs may contain tokens with custom logic that prevent their fee from being processed.
+* Цена токена CAKE в момент конвертации и обработки торговой комиссии
+* Цены базовых активов в момент конвертации и обработки торговой комиссии
+* Для экономии газа и операционных затрат. Доходы из блокчейнов, отличных от BNB Chain, обрабатываются ежемесячно. Они вводятся с задержкой в один месяц с еженедельным усреднением.
+* Некоторые торговые пары могут иметь недостаточную ликвидность при обработке торговой комиссии.
+* Некоторые торговые пары могут содержать токены с пользовательской логикой, препятствующей обработке их комиссий.
 
-Chefs are working hard to apply tools and practices to ensure more trading fees generated can be processed and converted into CAKE.
+Шефы усердно работают над внедрением инструментов и практик для обеспечения большей обработки и конвертации торговых комиссий в CAKE.

@@ -1,161 +1,161 @@
-# How to Add/Remove Liquidity (EVM)
+# Как добавить/удалить ликвидность (EVM)
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-add-remove-liquidity-header.png)
 
-"Liquidity" is central to how PancakeSwap's Exchange works. You can add liquidity for any token pair by staking both through the Liquidity page.
+«Ликвидность» — ключевой элемент работы биржи PancakeSwap. Ты можешь добавить ликвидность для любой пары токенов, разместив оба токена на странице ликвидности.
 
-In return for adding liquidity, you'll receive trading fees for that pair, and receive either an NFT or LP Tokens you can stake in [Farms](https://pancakeswap.finance/farms) to earn CAKE rewards!
+В обмен на добавление ликвидности ты будешь получать торговые комиссии за эту пару, а также NFT или LP-токены, которые можно застейкать на [Фермах](https://pancakeswap.finance/farms) для получения вознаграждений в CAKE!
 
 ## Exchange V3
 
-To provide liquidity, you’ll need to commit an amount of any token pair you like. Your lowest value (in USD) of the two tokens will be the limit to the liquidity you can provide.
+Для предоставления ликвидности тебе нужно будет определить сумму любой понравившейся пары токенов. Меньшая стоимость (в USD) из двух токенов будет ограничивать объём ликвидности, который ты можешь предоставить.
 
-You can easily trade for any tokens you need. Visit our [How to Trade on PancakeSwap](https://docs.pancakeswap.finance/get-started/trade-guide) guide if you need to.
+Ты можешь легко обменять токены на любые нужные. Воспользуйся нашим руководством [Как торговать на PancakeSwap](https://docs.pancakeswap.finance/get-started/trade-guide), если потребуется помощь.
 
-In this example, we will add V3 liquidity using ETH and USDC.
+В этом примере мы добавим ликвидность V3, используя ETH и USDC.
 
 
 
-1 - Visit the [Liquidity](https://pancakeswap.finance/liquidity) page.
+1 - Перейди на страницу [Ликвидность](https://pancakeswap.finance/liquidity).
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28243%29.png" alt=""><figcaption></figcaption></figure>
 
-2 - Click the “Add Liquidity” button.
+2 - Нажми кнопку «Add Liquidity».
 
 
 
-3 - Using the top left Input, choose the two tokens in the trading pair you want to add liquidity. Here, we are going to use ETH and USDC as an example.
+3 - С помощью поля ввода в верхнем левом углу выбери два токена в торговой паре, для которой хочешь добавить ликвидность. В качестве примера мы будем использовать ETH и USDC.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28126%29.png)
 
 
 
-4 - The interface will automatically choose the most popular trading fee tier and configure the price range for you.
+4 - Интерфейс автоматически выберет наиболее популярный уровень торговой комиссии и настроит для тебя ценовой диапазон.
 
 
 
-5 - You can confirm the version as well as the fee tier of the liquidity pool you are providing by looking for the “V3 LP - x% fee tier” displays.
+5 - Ты можешь подтвердить версию и уровень комиссии пула ликвидности, в который предоставляешь ликвидность, посмотрев на отображение «V3 LP - x% fee tier».
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2843%29.png)
 
-* If you want to customize the fee tier, click “More”, and choose the desired fee tier.
-* Please note that it is always advisable to provide liquidity to the most popular fee tier.
+* Если хочешь настроить уровень комиссии, нажми «More» и выбери нужный уровень.
+* Обрати внимание, что всегда рекомендуется предоставлять ликвидность в наиболее популярный уровень комиссии.
 
 
 
-6 - You can review and confirm the price range on the right-hand side displays.
+6 - Ты можешь просмотреть и подтвердить ценовой диапазон в отображениях справа.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2822%29.png)
 
-* The chart shows the level of liquidity across all the price ranges. You can zoom in and out using the magnifier buttons. You can pan and navigate the chart by dragging the bottom x-axis.
-* If you want to customize the price range. Simply drag the handles, click the + and - buttons on the two prices, or click the two price numbers and enter them manually.
-* Although it is not advisable, you can provide your liquidity to the whole price range by clicking the “Full Range” button.
+* На графике показан уровень ликвидности по всем ценовым диапазонам. Ты можешь увеличивать и уменьшать масштаб с помощью кнопок с лупой. Можно перемещаться по графику, перетаскивая нижнюю ось X.
+* Если хочешь настроить ценовой диапазон, просто перетащи маркеры, нажимай кнопки + и - на двух ценах или нажми на числа цен и введи их вручную.
+* Хотя это и не рекомендуется, ты можешь предоставить ликвидность по всему ценовому диапазону, нажав кнопку «Full Range».
 
 
 
-7 - Enter an amount on one of the tokens under “Deposit Amount”. The other should be calculated and filled automatically. If one of the tokens does not have enough balance. You will see an error and the button is greyed out. Please enter a lower amount to proceed or use the “MAX” button to fill in the maximum available value.
+7 - Введи сумму для одного из токенов в разделе «Deposit Amount». Другой токен должен рассчитаться и заполниться автоматически. Если для одного из токенов недостаточно баланса, ты увидишь ошибку, а кнопка будет выделена серым цветом. Введи меньшую сумму для продолжения или воспользуйся кнопкой «MAX» для заполнения максимально доступного значения.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2847%29.png)
 
 
 
-8 - Click the “Enable USDC” button. If you are adding liquidity against tokens other than ETH, you might need to click enable twice for each token in your pair. Your wallet will ask you to confirm the action.
+8 - Нажми кнопку «Enable USDC». Если ты добавляешь ликвидность для токенов, отличных от ETH, возможно, понадобится дважды нажать «Enable» для каждого токена в паре. Твой кошелёк попросит подтвердить действие.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2898%29.png)
 
 
 
-9 - The “Add” button will then light up. Click to proceed.
+9 - Кнопка «Add» станет активной. Нажми её для продолжения.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2826%29.png)
 
 
 
-10 - A new pop-up window will appear to preview your liquidity position. If everything looks good, click “Add” again to proceed.
+10 - Появится новое всплывающее окно с предварительным просмотром твоей позиции ликвидности. Если всё выглядит правильно, нажми «Add» ещё раз для продолжения.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2838%29.png)
 
 
 
-11 - Your wallet will ask you for confirmation. Confirm your transaction from your wallet.
+11 - Твой кошелёк запросит подтверждение. Подтверди транзакцию в кошельке.
 
 
 
-12 - Soon after, you will see your new liquidity position on the “My Liquidity” page. And you will be able to check its detail by clicking on the position.
+12 - Вскоре ты увидишь свою новую позицию ликвидности на странице «My Liquidity». Ты сможешь просмотреть детали, нажав на позицию.
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28211%29.png" alt=""><figcaption></figcaption></figure>
 
-### **Remove liquidity**
+### **Удаление ликвидности**
 
-To remove liquidity.
+Для удаления ликвидности:
 
-1 - Visit the [Liquidity](https://pancakeswap.finance/liquidity) pag&#x65;**.**
+1 - Перейди на страницу [Ликвидность](https://pancakeswap.finance/liquidity)**.**
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28191%29.png" alt=""><figcaption></figcaption></figure>
 
 
 
-2 - Click on the position you want to remove liquidity from under “Your Liquidity". You may use the filter to quickly check all the V3 liquidity positions.
+2 - Нажми на позицию, из которой хочешь удалить ликвидность, в разделе «Your Liquidity». Ты можешь использовать фильтр для быстрой проверки всех позиций ликвидности V3.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28251%29.png)
 
 
 
-3 - Click “Remove”. A new window will appear.
+3 - Нажми «Remove». Появится новое окно.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28286%29.png)
 
 
 
-4 - Use the buttons or slider to choose how much liquidity you want to remove. Choose “MAX” to remove all of your liquidity from this pair.
+4 - Используй кнопки или ползунок, чтобы выбрать, сколько ликвидности хочешь удалить. Выбери «MAX», чтобы удалить всю ликвидность из этой пары.
 
-5 - Click “Remove” to proceed.
+5 - Нажми «Remove» для продолжения.
 
-6 - A window will appear showing how many tokens you will receive. Click “Remove” again. Your wallet will ask you to confirm the action.
+6 - Появится окно, показывающее, сколько токенов ты получишь. Нажми «Remove» ещё раз. Твой кошелёк попросит подтвердить действие.
 
-7 - After the transaction is confirmed. You will receive two of the tokens from your pair. And if you haven't removed all of your liquidity, your remaining liquidity value will be updated on the liquidity page.
+7 - После подтверждения транзакции ты получишь два токена из своей пары. Если ты удалил не всю ликвидность, оставшаяся стоимость ликвидности обновится на странице ликвидности.
 
 
 
 ## Exchange V2
 
-### Add Liquidity
+### Добавление ликвидности
 
-In this example, we will add V2 liquidity using BNB and CAKE.
+В этом примере мы добавим ликвидность V2, используя BNB и CAKE.
 
 {% hint style="warning" %}
-Please note that the example is only for illustrative purposes, CAKE/BNB trading pair has been migrated to V3. Please always provide V3 liquidity unless one of the underlying tokens does not support Exchange V3. Or the majority of the liquidity for the token pair has not been migrated.
+Обрати внимание, что этот пример приведён исключительно в иллюстративных целях; торговая пара CAKE/BNB была перенесена в V3. Всегда предоставляй ликвидность V3, если только один из базовых токенов не поддерживает Exchange V3 или большинство ликвидности для данной пары токенов не было перенесено.
 {% endhint %}
 
-1. Visit the [Liquidity](https://pancakeswap.finance/liquidity) page.
-2. Click the “Add Liquidity” button.
-3. Using the top left Input, choose the two tokens in the trading pair you want to add liquidity. Here, we are going to use BNB and CAKE as an example.
-4. The interface will default to adding V3 liquidity with a few exceptions:
-   1. If the trading pair has an active PancakeSwap V2 Farm, it will default to adding V2 liquidity.
-   2. If the trading pair has an existing V2 liquidity pool, it will present a “Add V2 Liquidity” link. Simply click to switch to adding V2 liquidity.
-5. Confirm you are now adding V2 liquidity by looking for the “V2 LP - 0.25 fee tier” displays.
-6. Enter an amount on one of the tokens under “Deposit Amount”. The other should be calculated and filled automatically. If one of the tokens does not have enough balance. You will see an error and the button is greyed out. Please enter a lower amount to proceed or use the “MAX” button to fill in the maximum available value.
-7. Click the “Enable CAKE” button. If you are adding liquidity against tokens other than BNB, you might need to click enable twice for each token in your pair. Your wallet will ask you to confirm the action.
-8. The “Add” button will then light up. Click to proceed.
-9. Your wallet will ask you for confirmation. Confirm your transaction from your wallet.
-10. Soon after, you will see your LP Token balance on the liquidity page, among other liquidity positions from V3 and StableSwap.
+1. Перейди на страницу [Ликвидность](https://pancakeswap.finance/liquidity).
+2. Нажми кнопку «Add Liquidity».
+3. С помощью поля ввода в верхнем левом углу выбери два токена в торговой паре, для которой хочешь добавить ликвидность. В качестве примера мы будем использовать BNB и CAKE.
+4. По умолчанию интерфейс добавляет ликвидность V3 с несколькими исключениями:
+   1. Если для торговой пары есть активная Ферма PancakeSwap V2, по умолчанию будет добавляться ликвидность V2.
+   2. Если для торговой пары существует пул ликвидности V2, появится ссылка «Add V2 Liquidity». Просто нажми на неё, чтобы переключиться на добавление ликвидности V2.
+5. Убедись, что добавляешь ликвидность V2, посмотрев на отображение «V2 LP - 0.25 fee tier».
+6. Введи сумму для одного из токенов в разделе «Deposit Amount». Другой токен должен рассчитаться и заполниться автоматически. Если для одного из токенов недостаточно баланса, ты увидишь ошибку, а кнопка будет выделена серым цветом. Введи меньшую сумму для продолжения или воспользуйся кнопкой «MAX» для заполнения максимально доступного значения.
+7. Нажми кнопку «Enable CAKE». Если ты добавляешь ликвидность для токенов, отличных от BNB, возможно, понадобится дважды нажать «Enable» для каждого токена в паре. Твой кошелёк попросит подтвердить действие.
+8. Кнопка «Add» станет активной. Нажми её для продолжения.
+9. Твой кошелёк запросит подтверждение. Подтверди транзакцию в кошельке.
+10. Вскоре ты увидишь баланс своих LP-токенов на странице ликвидности вместе с другими позициями ликвидности V3 и StableSwap.
 
-### **Remove liquidity**
+### **Удаление ликвидности**
 
-To remove liquidity.
+Для удаления ликвидности:
 
-1\. Visit the [Liquidity page](https://exchange.pancakeswap.finance/#/pool)**.**
+1\. Перейди на [страницу Ликвидность](https://exchange.pancakeswap.finance/#/pool)**.**
 
-2\. Click on the pair you want to remove liquidity from under “Your Liquidity". You may use the filter to quickly check all the V2 liquidity positions.
+2\. Нажми на пару, из которой хочешь удалить ликвидность, в разделе «Your Liquidity». Ты можешь использовать фильтр для быстрой проверки всех позиций ликвидности V2.
 
-3\. Click “Remove”. A new modal will appear.
+3\. Нажми «Remove». Появится новое модальное окно.
 
-4\. Use the buttons or slider to choose how much liquidity you want to remove. Choose “MAX” to remove all of your liquidity from this pair.
+4\. Используй кнопки или ползунок, чтобы выбрать, сколько ликвидности хочешь удалить. Выбери «MAX», чтобы удалить всю ликвидность из этой пары.
 
-5\. Click “Enable”. Your wallet will ask you to sign the actio&#x6E;**.**
+5\. Нажми «Enable». Твой кошелёк попросит тебя подписать действие**.**
 
-6\. The “Remove” button will light up. Click to proceed.
+6\. Кнопка «Remove» станет активной. Нажми её для продолжения.
 
-7\. A window will appear showing how many tokens you will receive. Click “Confirm”. Your wallet will ask you to confirm the action.
+7\. Появится окно, показывающее, сколько токенов ты получишь. Нажми «Confirm». Твой кошелёк попросит подтвердить действие.
 
-8\. After the transaction is confirmed. You will receive two of the tokens from your pair. And if you haven't removed all of your liquidity, your remaining liquidity value will be updated on the liquidity page.<br>
+8\. После подтверждения транзакции ты получишь два токена из своей пары. Если ты удалил не всю ликвидность, оставшаяся стоимость ликвидности обновится на странице ликвидности.<br>

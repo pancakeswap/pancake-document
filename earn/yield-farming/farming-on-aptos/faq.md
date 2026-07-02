@@ -2,34 +2,34 @@
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28206%29.png" alt=""><figcaption></figcaption></figure>
 
-### **How do I bridge assets to Aptos and provide liquidity?**
+### **Как мне перевести активы на Aptos и предоставить ликвидность?**
 
-Please check out the guide for how to [Get Aptos Coins](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos/aptos-coin-guide.md).
+Пожалуйста, ознакомься с руководством о том, как [получить монеты Aptos](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos/aptos-coin-guide.md).
 
-### How do I bridge the earned CAKE back to BNB Smart Chain?
+### Как мне перевести заработанные CAKE обратно на BNB Smart Chain?
 
-Please check out the [CAKE Bridging Guide](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos/cake-bridging-guide.md).
+Пожалуйста, ознакомься с [Руководством по бриджингу CAKE](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos/cake-bridging-guide.md).
 
-If you are trying to bridge other assets, please check out the guide for [Get Aptos Coin](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos/aptos-coin-guide.md). You will find various bridging solutions work both ways for many popular assets.
+Если ты пытаешься перевести другие активы, ознакомься с руководством по [получению монет Aptos](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos/aptos-coin-guide.md). Ты найдёшь различные решения для бриджинга, работающие в обоих направлениях для многих популярных активов.
 
-### **Will there be more pairs?**
+### **Будет ли больше пар?**
 
-Yes, but we will be deploying in steps to ensure we prioritize the safety of user funds and CAKE inflation. Do let us know in the community chats what you think should be added to PancakeSwap on Aptos.&#x20;
+Да, но мы будем развёртывать их поэтапно, чтобы обеспечить приоритет безопасности средств пользователей и инфляции CAKE. Дай нам знать в чатах сообщества, что, по твоему мнению, следует добавить на PancakeSwap на Aptos.&#x20;
 
-If you are a project building on Aptos looking to incentivize the liquidity of your token, check out [this](/broken/pages/VB58XNVaU1vlrJ3RcHif) guide and get in touch with us!
+Если ты разрабатываешь проект на Aptos и хочешь стимулировать ликвидность своего токена, ознакомься с [этим](/broken/pages/VB58XNVaU1vlrJ3RcHif) руководством и свяжись с нами!
 
-### Why there isn't an "Enable" button?
+### Почему нет кнопки «Enable»?
 
-On Aptos, coins don't have to be enabled/approved for spending. So there is no need to enable contract spending on farms. Simply click the "deposit" button to start farming.
+На Aptos монеты не нужно разрешать/одобрять для расходования. Поэтому нет необходимости разрешать расходование контрактом на фермах. Просто нажми кнопку «deposit» для начала фарминга.
 
-### Do I earn CAKE on natively Aptos?&#x20;
+### Зарабатываю ли я CAKE нативно на Aptos?
 
-Yes, unlike crosschain farming, you will earn CAKE rewards natively on Aptos.&#x20;
+Да, в отличие от межсетевого фарминга, ты будешь зарабатывать вознаграждения CAKE нативно на Aptos.
 
-With our multichain expansion and deployment on Aptos. CAKE is now a multichain token that exists both on BNB Smart Chain and Aptos.&#x20;
+С нашим мультисетевым расширением и развёртыванием на Aptos CAKE теперь является мультисетевым токеном, который существует как на BNB Smart Chain, так и на Aptos.
 
-CAKE on Aptos is equal to CAKE on BNB Smart Chain and can always be bridged between two chains with a 1:1 ratio.&#x20;
+CAKE на Aptos равнозначен CAKE на BNB Smart Chain и всегда может быть переведён между двумя сетями в соотношении 1:1.
 
-Please note that there is only one CAKE. There are no different versions of CAKE between different chains. And the total supply of CAKE across all blockchains will be capped at 750M, according to our v2 tokenomic litepaper.
+Обрати внимание, что существует только один CAKE. Нет разных версий CAKE для разных сетей. Общее предложение CAKE во всех блокчейнах будет ограничено 750M согласно нашему v2 токеномическому документу.
 
-To bridge your CAKE to BNB Smart Chain, check out the [CAKE bridging guide](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos/cake-bridging-guide.md).
+Для перевода CAKE на BNB Smart Chain ознакомься с [руководством по бриджингу CAKE](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos/cake-bridging-guide.md).

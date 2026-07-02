@@ -1,240 +1,240 @@
 ---
-description: Yield Farming on PancakeSwap is easy!
+description: Yield Farming на PancakeSwap прост!
 ---
 
-# How to Use Farms (Legacy)
+# Как использовать фермы (устаревший вариант)
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-yield-farms-header.png)
 
-Yield Farming in Farms is a great way to earn CAKE rewards on PancakeSwap.
+Yield Farming на Фермах — это отличный способ зарабатывать вознаграждения CAKE на PancakeSwap.
 
-Unlike Syrup Pools, Farms require you to stake **two tokens** to provide liquidity and receive either a liquidity position NFT or LP Tokens, which you then stake in the Farm to earn rewards. This lets you earn CAKE while still keeping a position in your other tokens!
+В отличие от Syrup Pools, Фермы требуют от тебя стейкинга **двух токенов** для предоставления ликвидности и получения либо NFT позиции ликвидности, либо LP-токенов, которые затем стейкаются на Ферме для получения вознаграждений. Это позволяет тебе зарабатывать CAKE, сохраняя при этом позицию в других токенах!
 
 {% hint style="warning" %}
-Yield farming can give better rewards than Syrup Pools, but it comes with a risk of **Impermanent Loss**. It’s not as scary as it sounds, but it is worth learning about the concept before you get started.
+Yield Farming может приносить более высокие вознаграждения, чем Syrup Pools, но несёт в себе риск **непостоянных потерь**. Это звучит не так страшно, но стоит разобраться в концепции перед тем, как начать.
 
-Check out this great [article about Impermanent Loss ](https://academy.binance.com/en/articles/impermanent-loss-explained)from Binance Academy to learn more.
+Ознакомься с отличной [статьёй о непостоянных потерях](https://academy.binance.com/en/articles/impermanent-loss-explained) от Binance Academy, чтобы узнать больше.
 {% endhint %}
 
-## Farm V3
+## Ферма V3
 
-### **Get prepared**
+### **Подготовка**
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2832%29.png)
 
-You’re going to need a liquidity position to enter into a Farm with. Farms can only accept liquidity positions from their own exact trading pair with the exact fee tier of choice; for example, the CAKE-BNB 0.25% Farm will only accept CAKE-BNB liquidity positions with the 0.25% fee tier selected. It will not accept:
+Тебе понадобится позиция ликвидности для входа на Ферму. Фермы принимают только позиции ликвидности из своей собственной торговой пары с точным уровнем комиссии; например, Ферма CAKE-BNB 0,25% принимает только позиции ликвидности CAKE-BNB с выбранным уровнем комиссии 0,25%. Она не принимает:
 
-* Other pairs, like CAKE-BUSD
-* Same pair but with other fee tiers: like CAKE-BNB with a 0.05% fee rate
+* Другие пары, например CAKE-BUSD
+* Ту же пару, но с другими уровнями комиссии: например, CAKE-BNB со ставкой 0,05%
 
-To create the exact LP position, you'll need to provide liquidity for that trading pair with the correct fee rate selected. So to get CAKE-BNB 0.25% LP positions, you'll first have to provide liquidity for the CAKE-BNB pair with the 0.25% fee tier selected.
+Для создания точной LP-позиции тебе нужно будет предоставить ликвидность для этой торговой пары с правильно выбранной ставкой комиссии. Таким образом, для получения LP-позиций CAKE-BNB 0,25% сначала нужно предоставить ликвидность для пары CAKE-BNB с выбранным уровнем комиссии 0,25%.
 
-It may sound intimidating, but it's not too complicated. Let's go through it step by step.
+Это может показаться сложным, но на самом деле не так. Разберём по шагам.
 
-### **Locate your Farm**
+### **Найди свою Ферму**
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28239%29.png)
 
-Before you proceed, you'll want to choose a Farm that's right for you. [Visit the Farms page](https://pancakeswap.finance/farms) to see a list of available Farms.
+Прежде чем продолжить, выбери подходящую Ферму. [Перейди на страницу Ферм](https://pancakeswap.finance/farms), чтобы увидеть список доступных Ферм.
 
-You can choose another sorting option, such as by APR, for the Farms with the highest reward rate currently. Please note that the APRs are calculated globally for individual positions; it may vary depending on their price range settings.
+Ты можешь выбрать другой вариант сортировки, например по APR, для ферм с наивысшей текущей ставкой вознаграждений. Обрати внимание, что APR рассчитываются глобально для отдельных позиций; они могут варьироваться в зависимости от настроек ценового диапазона.
 
-When you find a Farm you'd like to use, note down the trading pair and its fee rate, e.g. BNB-CAKE and 0.25%, in case you need them later.
+Найдя нужную Ферму, запомни торговую пару и её ставку комиссии, например BNB-CAKE и 0,25%, на случай если они понадобятся позже.
 
-### **Provide liquidity to create a position**
+### **Предоставить ликвидность для создания позиции**
 
-Now that you've found a Farm to stake in, you will need to provide liquidity:
+Теперь, когда ты нашёл Ферму для стейкинга, нужно предоставить ликвидность:
 
-1 - If you don’t have any position available, you will see a “Add Liquidity” button, simply click it to open up the “Add Liquidity” window without leaving the Farm page.
+1 - Если у тебя нет доступных позиций, ты увидишь кнопку «Add Liquidity», нажми на неё для открытия окна «Add Liquidity», не покидая страницы Ферм.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2840%29.png)
 
-2 - Alternatively, you can click on the row of the Farm you've chosen from the list. It will open to show more details. Or with card view, click “Details” to expand for more details. Click the “Add XXX-YYY LP” link within the detail section to add liquidity.
+2 - Также ты можешь нажать на строку выбранной Фермы в списке для отображения дополнительных деталей. Или в режиме карточек нажми «Details» для раскрытия подробностей. Нажми ссылку «Add XXX-YYY LP» в секции деталей для добавления ликвидности.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28242%29.png)
 
-### **Stake your positions into a farm**
+### **Стейкинг позиций на ферме**
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28124%29.png)
 
-After finishing adding liquidity. You should see your position listed under the farm you want to use.
+После завершения добавления ликвидности ты должен увидеть свою позицию в списке под нужной фермой.
 
-If you have multiple positions, you may click “View All” to view them in a new pop-up window.
+Если у тебя несколько позиций, ты можешь нажать «View All», чтобы просмотреть их в новом всплывающем окне.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28198%29.png) ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28151%29.png)
 
-Click “Stake” on the position listed, and your wallet will ask for confirmation.
+Нажми «Stake» на позиции в списке, и кошелёк запросит подтверждение.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28229%29.png)
 
-After a short wait, the window will close, and you will see your staked position in the details.
+После небольшого ожидания окно закроется, и ты увидишь свою застейканную позицию в деталях.
 
-You can repeat the above steps to quickly stake multiple positions with different price range configurations. Each position will earn CAKE and need to be harvested separately.
+Ты можешь повторить описанные шаги для быстрого стейкинга нескольких позиций с разными конфигурациями ценовых диапазонов. Каждая позиция будет зарабатывать CAKE и требует отдельного сбора.
 
-### **Harvest farming rewards**
+### **Сбор вознаграждений от фарминга**
 
-In Farm V3, you can stake multiple positions on the same farm. Each staked position will earn CAKE and need to be harvested separately.
+В Ферме V3 ты можешь стейкать несколько позиций в одной ферме. Каждая застейканная позиция будет зарабатывать CAKE и требует отдельного сбора.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28230%29.png)
 
-To harvest CAKE rewards from a staked position, simply return to the Farm page, and locate the farm and position you want to harvest. You can use the “Staked Only” toggle to quickly filter the farms you are currently staking.
+Для сбора вознаграждений CAKE из застейканной позиции просто вернись на страницу Ферм и найди ферму и позицию, из которых хочешь собрать. Ты можешь использовать переключатель «Staked Only» для быстрой фильтрации ферм, в которых ты стейкаешь.
 
-If you have multiple staked positions, you may click “View All” to view them in a new pop-up window.
+Если у тебя несколько застейканных позиций, ты можешь нажать «View All», чтобы просмотреть их в новом всплывающем окне.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28241%29.png)
 
-Click “Harvest” on the position, and your wallet will ask for confirmation. After a short wait, the CAKE rewards will be sent to your wallet.
+Нажми «Harvest» на позиции, и кошелёк запросит подтверждение. После небольшого ожидания вознаграждения CAKE будут отправлены на твой кошелёк.
 
-### **Add or remove liquidity while staking in a farm**
+### **Добавление или удаление ликвидности при стейкинге на ферме**
 
-When staking in a farm, you can still add or remove liquidity without unstaking from the farm.
+При стейкинге на ферме ты всё равно можешь добавлять или удалять ликвидность без анстейкинга.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28230%29.png)
 
-To do so, simply return to the Farm page, and locate the farm and position you want to adjust. You can use the “Staked Only” toggle to quickly filter the farms you are currently staking.
+Для этого просто вернись на страницу Ферм и найди ферму и позицию, которую хочешь скорректировать. Ты можешь использовать переключатель «Staked Only» для быстрой фильтрации ферм, в которых ты стейкаешь.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28267%29.png)
 
-Click on the position title with the token pair, fee rate, position ID and the “>” arrow. You will be taken to the position detail page.
+Нажми на заголовок позиции с торговой парой, ставкой комиссии, ID позиции и стрелкой «>». Ты перейдёшь на страницу деталей позиции.
 
-Simply use the “Add” or “Remove” button to adjust the liquidity in the staked position.
+Используй кнопки «Add» или «Remove» для корректировки ликвидности в застейканной позиции.
 
-Please note that all the unclaimed CAKE rewards will be harvested and sent to your wallet while adjusting your position.
+Обрати внимание, что все невостребованные вознаграждения CAKE будут автоматически собраны и отправлены на твой кошелёк при корректировке позиции.
 
-### **Unstake your positions from a farm**
+### **Анстейкинг позиций из фермы**
 
-You can unstake a position at any time.
+Ты можешь вывести позицию из стейкинга в любое время.
 
-To unstake, simply return to the Farm page, and locate the farm and position you want to unstake. You can use the “Staked Only” toggle to quickly filter the farms you are currently staking.
+Для анстейкинга просто вернись на страницу Ферм и найди ферму и позицию, которую хочешь вывести. Ты можешь использовать переключатель «Staked Only» для быстрой фильтрации ферм, в которых ты стейкаешь.
 
-If you have multiple staked positions, you may click “View All” to view them in a new pop-up window.
+Если у тебя несколько застейканных позиций, ты можешь нажать «View All», чтобы просмотреть их в новом всплывающем окне.
 
-Click “Unstake” on the position, and your wallet will ask for confirmation. After a short wait, your position NFT will be returned to your wallet, along with all the pending CAKE rewards.
+Нажми «Unstake» на позиции, и кошелёк запросит подтверждение. После небольшого ожидания твой NFT позиции вернётся в кошелёк вместе со всеми ожидающими вознаграждениями CAKE.
 
-## Farm V2
+## Ферма V2
 
-### Get prepped
+### Подготовка
 
-Yield farming takes a little work to get set up.
+Для начала Yield Farming требуется небольшая подготовка.
 
-You’re going to need some "LP Tokens" to enter into a Farm with. Farms can only accept their own exact LP Token; for example, the CAKE-BNB Farm will only accept CAKE-BNB LP Tokens.
+Тебе понадобятся «LP-токены» для входа на Ферму. Фермы принимают только свои собственные LP-токены; например, Ферма CAKE-BNB принимает только LP-токены CAKE-BNB.
 
-To get the exact LP Token, you'll need to provide liquidity for that trading pair. So to get CAKE-BNB LP Tokens, you'll first have to provide liquidity for the CAKE-BNB pair.
+Для получения нужных LP-токенов потребуется предоставить ликвидность для этой торговой пары. Таким образом, для получения LP-токенов CAKE-BNB сначала нужно предоставить ликвидность для пары CAKE-BNB.
 
-It may sound intimidating, but it's not too complicated. Let's go through step by step.
+Это может показаться сложным, но на самом деле не так. Разберём по шагам.
 
-### Finding your Farm
+### Поиск Фермы
 
-Before you proceed, you'll want to choose a Farm that's right for you. [Visit the Farms page](https://pancakeswap.finance/farms) and you’ll see a list of available Farms.
+Прежде чем продолжить, выбери подходящую Ферму. [Перейди на страницу Ферм](https://pancakeswap.finance/farms), где будет список доступных Ферм.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2862%29.png)
 
-You can choose another sorting option if you like, such as by **APR** for the Farms with the highest reward rate currently.
+Ты можешь выбрать другой вариант сортировки, например по **APR**, для ферм с наивысшей текущей ставкой вознаграждений.
 
-When you find a Farm that you'd like to use, note down the trading pair, e.g. BNB-CAKE in case you need it later.
+Найдя нужную Ферму, запомни торговую пару, например BNB-CAKE, на случай если она понадобится позже.
 
-### Providing liquidity to get LP Tokens
+### Предоставление ликвидности для получения LP-токенов
 
-Now that you've found a Farm to stake in, you will need to add liquidity to get your LP Tokens.
+Теперь, когда ты нашёл Ферму для стейкинга, нужно добавить ликвидность для получения LP-токенов.
 
-1. Click on the row of the Farm you've chosen from the list. It will open to show more details.
-2. On the left, you'll see some links. Click the **Get (your pair) LP** link.
+1. Нажми на строку выбранной Фермы в списке. Откроются дополнительные детали.
+2. Слева ты увидишь несколько ссылок. Нажми ссылку **Get (твоя пара) LP**.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28131%29.png)
 
-### Putting your LP Tokens into a farm
+### Размещение LP-токенов на Ферме
 
-Now that you have your LP Tokens, you’re ready to start staking them in a Farm and earning rewards!
+Теперь, когда у тебя есть LP-токены, ты готов начать стейкать их на Ферме и зарабатывать вознаграждения!
 
-1 - Go back to the [Farms page](https://pancakeswap.finance/farms) and locate your Farm. Click anywhere on the row showing your pair. It will expand to show more details.
+1 - Вернись на [страницу Ферм](https://pancakeswap.finance/farms) и найди свою Ферму. Нажми в любом месте строки с нужной парой. Она раскроется, показав дополнительные детали.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28244%29.png)
 
-When you’re ready, click the **Enable** button and confirm your action in your wallet.
+Когда будешь готов, нажми кнопку **Enable** и подтверди действие в кошельке.
 
-2 - After a short wait, the Enable button will change to **Stake LP**. Click it and a new window will appear.
+2 - После небольшого ожидания кнопка Enable изменится на **Stake LP**. Нажми её, и появится новое окно.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28171%29.png)
 
-3 - Type the amount of LP Tokens you would like to farm with into the field, or just click **Max** to use all of your LP Tokens.
+3 - Введи количество LP-токенов для фарминга в поле или просто нажми **Max**, чтобы использовать все LP-токены.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28109%29.png)
 
-4 - When you have the amount entered, the **Confirm** button will light up. Click it. Your wallet will ask you to confirm your action.
+4 - После ввода суммы кнопка **Confirm** станет активной. Нажми её. Кошелёк запросит подтверждение действия.
 
-5 - After a short wait, the window will close, and you will see your new staked LP Token balance in the details.
+5 - После небольшого ожидания окно закроется, и ты увидишь новый баланс застейканных LP-токенов в деталях.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28261%29.png)
 
 {% hint style="info" %}
-When you are performing crosschain farming on an EVM blockchain other than the BNB chain. You will need to wait approximately 30 minutes for the cross-chain transactions to confirm.
+При выполнении межсетевого фарминга на EVM-блокчейне, отличном от BNB Chain. Тебе нужно будет подождать примерно 30 минут для подтверждения межсетевых транзакций.
 
 <img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/crosschain-farm-wait.png" alt="" data-size="original">
 
-To track the progress of a crosschain farming transaction. Click the circular icon on the side of your staked balance, or check out the "Recent Transaction" section in the top right-hand corner.
+Для отслеживания прогресса транзакции межсетевого фарминга нажми на круглый значок рядом с застейканным балансом или проверь раздел «Recent Transaction» в правом верхнем углу.
 {% endhint %}
 
 {% hint style="warning" %}
-When you are performing crosschain farming on an EVM blockchain other than the BNB chain for the first time. A small amount of native token (for example, ETH for Ethereum) is required for the first-time setup. So the first transaction will be slightly costly.
+При выполнении межсетевого фарминга на EVM-блокчейне, отличном от BNB Chain, в первый раз. Небольшое количество нативного токена (например, ETH для Ethereum) требуется для первоначальной настройки. Поэтому первая транзакция будет немного дороже.
 {% endhint %}
 
-### Adding or removing LP Tokens from a Farm
+### Добавление или удаление LP-токенов из Фермы
 
-You may decide you would like to add more LP Tokens to a Farm at a later date, or to take some out of a Farm. You can do this very easily whenever you'd like.
+Ты можешь решить добавить больше LP-токенов на Ферму позднее или вывести часть с Фермы. Это можно сделать очень легко в любое время.
 
-1. Return to the [Yield Farms page](https://pancakeswap.finance/farms). At the top of the page you'll see a **Staked only** toggle. Click the toggle.
+1. Вернись на [страницу Yield Farms](https://pancakeswap.finance/farms). Вверху страницы ты увидишь переключатель **Staked only**. Нажми на него.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28240%29.png)
 
-You should now only see the pairs you have LP Tokens in on the list, making it easier to find your Farm.
+Теперь ты увидишь только пары, в которых у тебя есть LP-токены, что упрощает поиск Фермы.
 
-1. Find the Farm you have LP Tokens in, and click the row to view details. You will see a **-** and **+** button on the right-hand side. Click **-** to remove LP Tokens, or **+** to add more LP Tokens.
+1. Найди Ферму, в которой у тебя есть LP-токены, и нажми на строку для просмотра деталей. Ты увидишь кнопки **-** и **+** справа. Нажми **-** для вывода LP-токенов или **+** для добавления большего количества.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28102%29.png)
 
-1. A window will open that looks like the one you used earlier to first stake your LP Tokens. Like last time, type the amount you would like to unstake/stake, or click **Max** to remove/add all available LP Tokens.
+1. Откроется окно, похожее на то, что ты использовал ранее для первого стейкинга LP-токенов. Как и раньше, введи нужное количество для анстейкинга/стейкинга или нажми **Max** для вывода/добавления всех доступных LP-токенов.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2879%29.png)
 
-1. Make sure your information is correct. When you are ready, click the **Confirm** button and confirm the action in your wallet.
-2. After a short wait, your new balance will show in the details section of your LP Token pair. If you've unstaked your LP Tokens, any unharvested rewards you had will automatically have been collected.
+1. Убедись, что информация верна. Когда будешь готов, нажми кнопку **Confirm** и подтверди действие в кошельке.
+2. После небольшого ожидания твой новый баланс отобразится в секции деталей твоей пары LP-токенов. При анстейкинге LP-токенов все несобранные вознаграждения будут автоматически получены.
 
-### Collecting your farming rewards
+### Получение вознаграждений от фарминга
 
-Farming will bring you CAKE rewards over time. You can collect these rewards and use them to get more LP Tokens, stake them in Syrup Pools, use them to play Lottery, or anything else you’d like.
+Фарминг принесёт тебе вознаграждения CAKE со временем. Ты можешь собирать эти вознаграждения и использовать их для получения большего количества LP-токенов, стейкать в Syrup Pools, участвовать в Лотерее или использовать любым другим способом.
 
-### Returning to your Farm to Harvest
+### Возврат на Ферму для сбора вознаграждений
 
-You can harvest your Farm and Syrup Pool rewards together from the Home page. If you'd like to collect your farming rewards only, follow along.
+Ты можешь собирать вознаграждения Фермы и Syrup Pool вместе с главной страницы. Если хочешь собрать только вознаграждения от фарминга, следуй инструкциям.
 
-To collect your rewards, you’ll need to visit your chosen Farm and collect the CAKE waiting for you.
+Для получения вознаграждений тебе нужно будет посетить выбранную Ферму и забрать ожидающие CAKE.
 
-1 - Return to the Farms page [here](https://pancakeswap.finance/farms).
+1 - Вернись на страницу Ферм [здесь](https://pancakeswap.finance/farms).
 
-2 - Find the Farm you staked your LP Tokens in, and click the row to view details. You should see an estimate of your rewards under “CAKE earned”.
+2 - Найди Ферму, где ты застейкал LP-токены, и нажми на строку для просмотра деталей. Ты должен увидеть оценку своих вознаграждений в разделе «CAKE earned».
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28181%29.png)
 
-3 - Click the **Harvest** button and confirm the action in your wallet. After a short wait, the CAKE will be claimed to your wallet for you to use as you like.
+3 - Нажми кнопку **Harvest** и подтверди действие в кошельке. После небольшого ожидания CAKE будут отправлены на твой кошелёк для любого использования.
 
 {% hint style="info" %}
-When you are performing crosschain farming on an EVM blockchain other than the BNB chain. You will need to always switch to BNB Smart Chain to harvest your farming rewards.
+При выполнении межсетевого фарминга на EVM-блокчейне, отличном от BNB Chain. Для сбора вознаграждений от фарминга тебе нужно будет всегда переключаться на BNB Smart Chain.
 
-If your wallet doesn't support chain switching. Staking or unstaking LP tokens will always harvest your CAKE. Please note the harvested CAKE will be distributed on BNB Smart Chain.
+Если твой кошелёк не поддерживает переключение сетей. Стейкинг или анстейкинг LP-токенов всегда будет собирать твои CAKE. Обрати внимание, что собранные CAKE будут распределены на BNB Smart Chain.
 
 <img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28164%29.png" alt="" data-size="original">
 {% endhint %}
 
-## How often should I harvest my rewards?
+## Как часто нужно собирать вознаграждения?
 
-How often you harvest your rewards is up to you, but it does help to remember that there is a small fee involved in harvesting.
+Как часто собирать вознаграждения — зависит от тебя, но полезно помнить, что при сборе взимается небольшая комиссия.
 
-You can see this fee in your wallet when confirming after clicking **Harvest**.
+Ты можешь увидеть эту комиссию в кошельке при подтверждении после нажатия **Harvest**.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28281%29.png)
 
-This shows the fee for harvesting as it appears in the MetaMask wallet. Different wallets will show the information a little differently. Consider leaving your rewards to grow for a while so you pay fees less often.
+Здесь показана комиссия за сбор вознаграждений в кошельке MetaMask. Разные кошельки будут отображать информацию немного по-разному. Рассмотри возможность позволить вознаграждениям накапливаться некоторое время, чтобы реже платить комиссии.
 
-And that's all there is to it! You may also want to look at [how to use PancakeSwap Syrup Pools](https://docs.pancakeswap.finance/get-started/syrup-pool-guide) to earn rewards.
+Вот и всё! Возможно, ты также захочешь узнать [как использовать Syrup Pools PancakeSwap](https://docs.pancakeswap.finance/get-started/syrup-pool-guide) для получения вознаграждений.
 
-Happy farming!
+Удачного фарминга!

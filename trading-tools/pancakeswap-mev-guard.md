@@ -1,24 +1,24 @@
 ---
-description: Protect your trades with bloXroute <> PancakeSwap Private RPC!
+description: Защити свои сделки с помощью приватного RPC bloXroute <> PancakeSwap!
 ---
 
 # 🛡️ PancakeSwap MEV Guard
 
-Are you worried about your trades being frontrun by MEV bots onchain? Worry no more - use PancakeSwap’s MEV Guard to protect your trades.
+Беспокоишься о том, что MEV-боты могут применить фронтраннинг к твоим сделкам в сети? Не переживай — используй MEV Guard от PancakeSwap для защиты своих сделок.
 
-Available on BNB Chain.
+Доступно на BNB Chain.
 
-### Highlights
+### Основные преимущества
 
-1. Enjoy safe, secure and private Swaps without frontrunning and sandwich attacks.
-2. Fast and reliable RPC endpoint for your daily usage, beyond Swapping and trading.
-3. Easy to set up and completely free solution for all kinds of Swappers.
+1. Наслаждайся безопасными, защищёнными и приватными Обменами без фронтраннинга и сэндвич-атак.
+2. Быстрый и надёжный RPC-эндпоинт для повседневного использования, помимо Обмена и торговли.
+3. Простое в настройке и полностью бесплатное решение для всех видов Обменов.
 
-### How to use?
+### Как использовать?
 
-Visit [https://pancakeswap.finance/mev](https://pancakeswap.finance/mev) to learn more.
+Посети [https://pancakeswap.finance/mev](https://pancakeswap.finance/mev) для получения подробной информации.
 
-Or use the following info to add to your wallet manually:
+Или используй следующие данные для добавления в кошелёк вручную:
 
 * Network Name: PancakeSwap MEV Guard New&#x20;
 * RPC URL: https://bscrpc.pancakeswap.finance&#x20;

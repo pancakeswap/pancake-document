@@ -1,15 +1,15 @@
-# 🍯 Syrup Pools - Stake CAKE
+# 🍯 Syrup Pools — Стейкинг CAKE
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/syrup-poos-header.png)
 
-### **What are Syrup Pools?**
+### **Что такое Syrup Pools?**
 
-Syrup Pools are the simplest way to earn free tokens on PancakeSwap.\
-Stake CAKE, earn free tokens. It’s really that easy.
+Syrup Pools — самый простой способ зарабатывать бесплатные токены на PancakeSwap.\
+Делай стейкинг CAKE и получай бесплатные токены. Всё действительно так просто.
 
-Some special pools let you stake other tokens besides CAKE, too!
+Некоторые специальные пулы позволяют размещать в стейкинге и другие токены, помимо CAKE!
 
-### **How can I use Syrup Pools?**
+### **Как пользоваться Syrup Pools?**
 
 {% content-ref url="../../../archive/legacy-products/new-cake-pool/" %}
 [new-cake-pool](../../../archive/legacy-products/new-cake-pool/)
@@ -27,7 +27,7 @@ Some special pools let you stake other tokens besides CAKE, too!
 [syrup-pool-guide.md](syrup-pool-guide.md)
 {% endcontent-ref %}
 
-### Syrup Pool FAQs & Troubleshooting
+### FAQ и устранение неполадок в Syrup Pools
 
 {% content-ref url="../../earn-faq/cake-staking-faq/cake-syrup-pool-faq.md" %}
 [cake-syrup-pool-faq.md](../../earn-faq/cake-staking-faq/cake-syrup-pool-faq.md)
@@ -37,15 +37,14 @@ Some special pools let you stake other tokens besides CAKE, too!
 [syrup-pool-faq.md](../../earn-faq/cake-staking-faq/syrup-pool-faq.md)
 {% endcontent-ref %}
 
-### **How can I run a Syrup Pool for my project?**
+### **Как запустить Syrup Pool для своего проекта?**
 
-Find more information about our Syrup Pools [here](../../../welcome-to-pancakeswap/contact-us/business-partnerships/syrup-pools.md) and apply using the relevant application form in the link.
+Подробнее о Syrup Pools [здесь](../../../welcome-to-pancakeswap/contact-us/business-partnerships/syrup-pools.md) и подай заявку через соответствующую форму по ссылке.
 
-### Syrup Pool Smart Contracts <a href="#docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86" id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
+### Смарт-контракты Syrup Pool <a href="#docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86" id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
 
 [CAKE Syrup Pool](/broken/pages/cFidohif6VdJE7LuwvlB)
 
 ### &#x20;<a href="#docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86" id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
-
 
 
