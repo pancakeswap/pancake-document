@@ -1,61 +1,60 @@
 # FAQ
 
 {% hint style="info" %}
-Use the sidebar to quickly find the answers to your questions!
+Используй боковую панель для быстрого поиска ответов на свои вопросы!
 {% endhint %}
 
-## Limit Orders and TWAP
+## Лимитные ордера и TWAP
 
-Please refer to FAQ provided by Orbs:
+Пожалуйста, обратись к FAQ от Orbs:
 
 [https://www.orbs.com/dtwap-and-dlimit-faq/](https://www.orbs.com/dtwap-and-dlimit-faq/)
 
-## Limit V2 (Deprecated)
+## Limit V2 (устарело)
 
-### Why I can’t find my orders?
+### Почему я не могу найти свои ордера?
 
-V2 limit orders is now deprecated, please access using this link:
+Лимитные ордера V2 устарели, пожалуйста, воспользуйся этой ссылкой:
 
 [https://pancakeswap.finance/limit-orders](https://pancakeswap.finance/limit-orders)
 
-### Why was my order not executed?
+### Почему мой ордер не был исполнен?
 
-Limit orders are executed when they reach their desired price, however, due to gas fluctuations, the actual execution price might vary from the price you specified on the interface. Usually, the execution price and the desired price should be almost identical, however, if you submitted a particularly small order (\~<1000$) the execution price might be slightly higher to account for fees.&#x20;
+Лимитные ордера исполняются при достижении желаемой цены. Однако из-за колебаний газа фактическая цена исполнения может отличаться от цены, указанной тобой в интерфейсе. Как правило, цена исполнения и желаемая цена должны быть почти одинаковы. Тем не менее, если ты разместил особенно небольшой ордер (приблизительно менее $1 000), цена исполнения может быть немного выше для учёта комиссий.
 
-Therefore your order may not be executed because:
+Поэтому твой ордер может не исполниться по следующим причинам:
 
-* It wasn’t possible to fill the whole order at the desired price and amount due to price impact.
-* One of the tokens in the limit order has fee on transfer (see below).
+* Не удалось исполнить весь ордер по желаемой цене и объёму из-за ценового импакта.
+* Один из токенов в лимитном ордере имеет комиссию при переводе (см. ниже).
 
-**Before submitting an order, please consult the UI denoting the real execution price.**
+**Перед размещением ордера проверь в интерфейсе реальную цену исполнения.**
 
 {% hint style="info" %}
-Please note: the order history table gets the data from Subgraph and can show slightly delayed information.
+Обрати внимание: таблица истории ордеров получает данные из Subgraph и может отображать немного устаревшую информацию.
 {% endhint %}
 
-### Can I submit a limit order for tokens with fee on transfer?
+### Можно ли размещать лимитный ордер для токенов с комиссией при переводе?
 
-**No.** The tokens with a fee on transfer should not be used with limit orders. Proceed at your own risk.
+**Нет.** Токены с комиссией при переводе не следует использовать с лимитными ордерами. Действуй на свой страх и риск.
 
-### How do I set slippage while using limit orders?
+### Как установить проскальзывание при использовании лимитных ордеров?
 
-Slippage is not relevant in limit orders. You specify input amount (e.g. 1000 CAKE) and output amount (e.g. 20 BNB), Limit orders guarantee that you will receive no less than the specified output amount (20 BNB) for your input amount (1000 CAKE) if the price for the pair reaches the desired price. **Note that tokens with fee on transfer should not be used with limit orders** (read above)
+Проскальзывание не актуально для лимитных ордеров. Ты указываешь входную сумму (например, 1000 CAKE) и выходную сумму (например, 20 BNB). Лимитные ордера гарантируют, что ты получишь не меньше указанной выходной суммы (20 BNB) за свою входную сумму (1000 CAKE), если цена пары достигнет желаемой цены. **Обрати внимание, что токены с комиссией при переводе не следует использовать с лимитными ордерами** (читай выше)
 
-### The real execution price shows "never executes". What's this?
+### Реальная цена исполнения показывает «никогда не исполнится». Что это означает?
 
-It basically means that you're trying to swap a very small amount of tokens therefore there are not enough tokens to be accounted for the gas fee. In general, you need to increase the amount of the "input" field to get rid of this error.&#x20;
+Это означает, что ты пытаешься обменять очень маленькое количество токенов, и их недостаточно для учёта комиссии за газ. Как правило, нужно увеличить сумму в поле «input», чтобы устранить эту ошибку.
 
-### Is there an expiration date for my limit orders?
+### Есть ли у лимитных ордеров срок действия?
 
-Open orders have an expiration date of 90 days. After your order is expired it might never be executed. Please cancel your order once expired.&#x20;
+Открытые ордера имеют срок действия 90 дней. По истечении срока ордер может так и не исполниться. Пожалуйста, отмени свой ордер после истечения срока действия.
 
-A customizable expiration date feature is planned for the near future.
+В ближайшем будущем планируется добавить функцию настраиваемого срока действия.
 
-### Why can’t I create limit orders below the market price?
+### Почему я не могу создавать лимитные ордера ниже рыночной цены?
 
-To sell below market price, you need **Stop Limit Orders**, not limit orders. Stop Limit Orders feature is coming soon.
+Для продажи ниже рыночной цены тебе нужны **Стоп-лимитные ордера**, а не лимитные ордера. Функция стоп-лимитных ордеров скоро появится.
 
-### I made an order and it is not shown in the order table or stuck at “pending” status.
+### Я разместил ордер, и он не отображается в таблице ордеров или застрял в статусе «pending».
 
-The order history comes from the subgraph and therefore might show slightly delayed information. Usually, delays are no longer than a couple of minutes at worst. Please refer to the subgraph indicator at the bottom right corner of the order history table.
-
+История ордеров поступает из subgraph и поэтому может отображать немного устаревшую информацию. Как правило, задержки в худшем случае не превышают пары минут. Обратись к индикатору subgraph в правом нижнем углу таблицы истории ордеров.
