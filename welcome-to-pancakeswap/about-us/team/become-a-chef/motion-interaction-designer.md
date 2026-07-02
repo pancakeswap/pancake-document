@@ -2,34 +2,34 @@
 hidden: true
 ---
 
-# Motion / Interaction Designer
+# Дизайнер движения / взаимодействия
 
-### **General Information**
+### **Общая информация**
 
-* Salary range: Competitive, negotiable
-* Position: Full-time
-* Location: Remote
+* Уровень зарплаты: Конкурентный, по договорённости
+* Занятость: Полная
+* Местонахождение: Удалённо
 
-### Roles & Responsibilities:
+### Роли и обязанности:
 
-* Create compelling interaction designs and videos for products, tutorials, and marketing purposes, delivering engaging motion experiences for a diverse DeFi audience. (in both 2D or 3D motion effects)
-* Develop interactive elements to enhance seamless user interactions, including motion graphics and interactive icons.
-* Collaborate effectively with marketing, product operations, and business development teams to drive design initiatives and maintain a cohesive brand vision.
-* Take ownership of motion design, from storyboard collaboration with the marketing team, to post-production of the visual effects; ensure alignment with project goals and deliver high-quality results.
-* Stay informed about industry trends to keep designs innovative and relevant.
+* Создавать захватывающие дизайны взаимодействий и видео для продуктов, туториалов и маркетинговых целей, обеспечивая вовлекающие моушн-впечатления для разнообразной DeFi-аудитории (в 2D и 3D эффектах движения).
+* Разрабатывать интерактивные элементы для улучшения бесперебойного взаимодействия с пользователем, включая моушн-графику и интерактивные иконки.
+* Эффективно сотрудничать с командами маркетинга, продуктовых операций и развития бизнеса для реализации дизайн-инициатив и поддержания единого видения бренда.
+* Брать на себя ответственность за моушн-дизайн: от сотрудничества со сторибордами с командой маркетинга до постпродакшна визуальных эффектов; обеспечивать соответствие целям проекта и высокое качество результатов.
+* Следить за отраслевыми тенденциями для поддержания инновационности и актуальности дизайна.
 
-### Requirements
+### Требования
 
-* Strong audience- and content-focused mindset.
-* Standard verbal and written English skills.
-* Skilled in motion design tools such as After Effects, 3D design tools, or AI-based tools. Experience with Figma.
-* Minimum of 3 years of full-time experience as a Motion Designer.
+* Сильная ориентация на аудиторию и контент.
+* Стандартное владение письменным и устным английским языком.
+* Владение инструментами моушн-дизайна, такими как After Effects, 3D-инструменты или AI-инструменты. Опыт работы с Figma.
+* Не менее 3 лет работы на полной занятости в качестве моушн-дизайнера.
 
-### Nice to have:
+### Желательно:
 
-* Familiarity with fintech apps, PancakeSwap products, or experience in the crypto/Web3 space.
-* Previous experience working in distributed teams.
+* Знакомство с финтех-приложениями, продуктами PancakeSwap или опыт в крипто/Web3-пространстве.
+* Предыдущий опыт работы в распределённых командах.
 
-### **How to apply**
+### **Как подать заявку**
 
-Email _hiring@pancakeswap.com_ with your CV & Portfolio!
+Отправь своё резюме и портфолио на _hiring@pancakeswap.com_!

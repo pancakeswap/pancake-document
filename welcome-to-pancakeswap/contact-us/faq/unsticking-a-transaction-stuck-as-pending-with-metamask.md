@@ -1,73 +1,73 @@
 ---
-description: How to "unstick" any pending transactions that are stuck in your MetaMask
+description: Как «разблокировать» ожидающие транзакции, зависшие в MetaMask
 ---
 
-# Fixing Stuck Pending Transactions on MetaMask
+# Исправление зависших ожидающих транзакций в MetaMask
 
-![](../../../.gitbook/assets/how-to-fix-a-stuck-transaction-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-fix-a-stuck-transaction-header.png)
 
-If your transaction is stuck on pending in Metamask, and the “Cancel” button isn’t helping, you might need to use this method to clear your backlog.
+Если твоя транзакция зависла в режиме ожидания в Metamask, а кнопка «Cancel» не помогает, возможно, тебе нужно воспользоваться этим методом для очистки очереди.
 
-This method works by essentially overwriting the stuck transaction with another, higher-priority transaction.
+Этот метод работает путём замены зависшей транзакции другой транзакцией с более высоким приоритетом.
 
-### **1. Enable Customized Transaction Nonce**
+### **1. Включи настраиваемый Nonce транзакции**
 
-1\. Open your MetaMask plugin.
+1\. Открой плагин MetaMask.
 
-![](../../../.gitbook/assets/1-1-MetaMask_plugin.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-1-MetaMask_plugin.png)
 
-2\. Click on the colorful circle icon on the top-right and click **Settings** from the dropdown menu.
+2\. Нажми на цветной значок круга в правом верхнем углу и выбери **Settings** в выпадающем меню.
 
-![](<../../../.gitbook/assets/1-2-MetaMask_settings (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-2-MetaMask_settings%20%281%29.png)
 
-3\. In the Settings menu, select **Advanced**.
+3\. В меню Settings выбери **Advanced**.
 
-![](../../../.gitbook/assets/1-3-MetaMask_advanced.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-3-MetaMask_advanced.png)
 
-4\. Scroll down until you see **Advanced gas controls**. Toggle this to ON.
+4\. Прокрути вниз до **Advanced gas controls**. Переключи в положение ON.
 
-![](../../../.gitbook/assets/1-4-MetaMask_gas_control_on.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-4-MetaMask_gas_control_on.png)
 
-5\. Still in Advanced settings, keep scrolling until you see **Customize transaction nonce**. Toggle this to ON.
+5\. Оставаясь в настройках Advanced, продолжай прокручивать вниз до **Customize transaction nonce**. Переключи в положение ON.
 
-![](../../../.gitbook/assets/1-4-MetaMask_gas_control_on.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-4-MetaMask_gas_control_on.png)
 
-### **2. Find Your Stuck Transaction**
+### **2. Найди зависшую транзакцию**
 
-We’re now going to find the transaction that’s stuck, and make a note of the “nonce”. That’s a kind of identifier, which we’ll re-use later.
+Теперь мы найдём зависшую транзакцию и запишем её «nonce». Это своеобразный идентификатор, который мы используем повторно позже.
 
 ![](https://lh4.googleusercontent.com/xKBEnt5a62c5Wzg_MCLIbVUWuL4fws1ohBAX9LAkGS71vslHk7QuMF24jAfkAdmsLunPVfT9c3FxCmGar5z7jNZnd4WMgzQsoxxbYw1Lp59Az5kG72COn0JblFXktHbmgMnF1LeY)
 
-6\. Go back to the top page of MetaMask. In the “Assets” tab, find the token type of your stuck transaction (in this case, CAKE).
+6\. Вернись на главную страницу MetaMask. На вкладке «Assets» найди тип токена зависшей транзакции (в данном случае CAKE).
 
 ![](https://lh5.googleusercontent.com/9qVjhK1kEKDL8l4TTdOFo4o547PDIIeQpCCY18gPyaUFJrpFbyYhMfBQ1CRzjjrllgrcqVbwkhxKCZBNlIad8J1yCpMVhsBKjIAcwfsQHQb7jnl2RD2ufQU-zNEn2Hn2g4LGvYDU)
 
-6\. In the token’s menu, find your **Pending** transaction in the Queue area. Click on your transaction for more details.
+6\. В меню токена найди свою **ожидающую** транзакцию в разделе Queue. Нажми на транзакцию для получения подробностей.
 
 ![](https://lh4.googleusercontent.com/HMd5iKjIvm-f7Xi7xtecTsq56x1i15GjUkwCm5Z_83xMfOXDd2jabcCDyUwELf51IHseEeCk2WnvWfHwTSUlFnLAJrmjkkOfm_fA5fimgdABnYfdjmBxxst8TOaUJUhc2iO_CN-k)
 
-7\. Look for the **Nonce** entry, and take note of this number.
+7\. Найди запись **Nonce** и запомни это число.
 
-### **3. Overwrite the Stuck Transaction**
+### **3. Перезапиши зависшую транзакцию**
 
-Now we’re going to make a new transaction to replace the stuck one. We’ll customize the Nonce number, so that it’s the same as the one that you just wrote down.
+Теперь мы создадим новую транзакцию для замены зависшей. Настроим число Nonce так, чтобы оно совпадало с тем, которое ты только что записал.
 
 ![](<../../../.gitbook/assets/image (176).png>)
 
-8\. Create a new transaction to replace your stuck transaction. This time around, increase the **Transaction Fee**. Here we’ve increased it from 9 to 20. This will make it more likely for your transaction to be added to a block.
+8\. Создай новую транзакцию для замены зависшей. На этот раз увеличь **Transaction Fee**. Здесь мы увеличили его с 9 до 20. Это повысит вероятность включения твоей транзакции в блок.
 
 ![](<../../../.gitbook/assets/image (34).png>)
 
-9\. On the confirmation page, make sure your Gas Price is now at your new, higher amount.
+9\. На странице подтверждения убедись, что Gas Price теперь соответствует новому более высокому значению.
 
-10\. Find the **CUSTOM NONCE** entry and change the nonce to the number you wrote down in step 7. Now click Confirm.
+10\. Найди запись **CUSTOM NONCE** и измени nonce на число, которое ты записал на шаге 7. Теперь нажми Confirm.
 
 ![](https://lh6.googleusercontent.com/PYhYm2ro0SVzerBo5qguFIPOYl0DjLSfl0JT8UdfN3T4i-0hjBq-CQvr-UA0bSyG-ZndrWmLGptfZUcnGBlvUk118GGZn7ciDNaC4hmfovH9v_M5XMIYmkAmB-Fr-6TTpYnnDX1p)
 
-11\. Your new transaction should now be accepted into a block. To check, open MetaMask and click the **Activity** tab.
+11\. Твоя новая транзакция должна быть теперь принята в блок. Для проверки открой MetaMask и нажми на вкладку **Activity**.
 
-![](https://lh6.googleusercontent.com/Iw3e0YP4ORhPgw8-MNxvzlDlfgG5nD226P4ixiziPC_9j3_LfU3o1-_LA2yDmegbRw5x9Sgk3RACFJJkyJDrFJA1j2J93H21uGhhWabkdDQUHsU_oVdkZVQTTWaQPzXHAWClpsb4)
+![](https://lh6.googleusercontent.com/Iw3e0YP4ORhPgw8-MNxvzlDlfgG5nD226P4ixiziPC_9j3_LfU3o1-_LA2yDmegbRw5x9Sgk3RACFJJkyJDrFJA1j2J93H21uGhhWabkdDQUJTTWaQPzXHAWClpsb4)
 
-12\. Your completed transaction should show at the top of your Activity list. If it still says “Pending” in orange you’ll need to wait a little longer, or try the process again with an even higher transaction fee (gas price).
+12\. Завершённая транзакция должна отображаться вверху списка Activity. Если она всё ещё отображается как «Pending» оранжевым цветом, тебе нужно немного подождать или повторить процесс с ещё более высокой комиссией за транзакцию (ценой газа).
 
-Since no wallet can create two transactions of the same nonce, if the replacement transaction you make is successful, your stuck transaction will be canceled.<br>
+Поскольку ни один кошелёк не может создать две транзакции с одинаковым nonce, если замещающая транзакция выполнена успешно, зависшая транзакция будет отменена.<br>
