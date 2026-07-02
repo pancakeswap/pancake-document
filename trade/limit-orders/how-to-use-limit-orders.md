@@ -2,38 +2,38 @@
 hidden: true
 ---
 
-# How to use Limit Orders
+# Como usar Ordens Limitadas
 
-## What is Limit Orders
+## O que são Ordens Limitadas
 
-A limit order is a tool to enable users to buy or sell assets at a specified price or better, instead of relying on the market price at the time of execution. In a limit order, while the price is guaranteed, the order being executed is not - limit orders will be executed only if the price meets the order qualifications.
+Uma ordem limitada é uma ferramenta que permite aos usuários comprar ou vender ativos a um preço especificado ou melhor, em vez de depender do preço de mercado no momento da execução. Em uma ordem limitada, embora o preço seja garantido, a execução da ordem não é — as ordens limitadas serão executadas apenas se o preço atender às qualificações da ordem.
 
-## How to set up a limit order
+## Como configurar uma ordem limitada
 
-1. Go to the Swap page and select the limit order option by clicking “LIMIT”, or, use this link: [https://pancakeswap.finance/swap/limit](https://pancakeswap.finance/swap/limit)
-2. Select the “From” and “To” tokens you wish to trade. In this example we chose USDC and ETH respectively, meaning we want to buy ETH with USDC.
+1. Vá para a página de Swap e selecione a opção de ordem limitada clicando em "LIMIT", ou use este link: [https://pancakeswap.finance/swap/limit](https://pancakeswap.finance/swap/limit)
+2. Selecione os tokens "De" e "Para" que deseja negociar. Neste exemplo, escolhemos USDC e ETH respectivamente, o que significa que queremos comprar ETH com USDC.
 
-![](<../../.gitbook/assets/image (4) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%284%29%20%281%29.png)
 
-1. Enter the amount you wish to trade. Notice the limit price will show the current market price which will then estimate the output amount of destination tokens (ETH)
-2. Set the desired limit price. Trades will ONLY be executed when the available market price is better than or equal to the limit price. The destination token output amount will update accordingly.
+1. Insira o valor que deseja negociar. Observe que o preço limite mostrará o preço de mercado atual, que então estimará o valor de saída dos tokens de destino (ETH)
+2. Defina o preço limite desejado. As negociações SOMENTE serão executadas quando o preço de mercado disponível for melhor ou igual ao preço limite. O valor de saída do token de destino será atualizado de acordo.
 
-In the example below, we wish to buy ETH when the price is $1,900 or better. The amount of ETH received will be equal or greater than 0.037 ETH. Only bids equal or better than this amount will be eligible to fill the order. This amount takes into account gas costs and fees. &#x20;
+No exemplo abaixo, desejamos comprar ETH quando o preço for $1.900 ou melhor. A quantidade de ETH recebida será igual ou maior que 0,037 ETH. Apenas lances iguais ou melhores que esse valor serão elegíveis para preencher a ordem. Esse valor leva em conta os custos de gas e as taxas. &#x20;
 
 {% hint style="info" %}
-Important note: As the fees are paid from the output token amount, the limit price includes the gas & trading fees and so users should take this into account when setting up the price. For example, a very small order’s gas fees can total a very large percentage of the order output, reflecting an actual limit price that is not competitive with the spot market price.
+Nota importante: Como as taxas são pagas a partir do valor do token de saída, o preço limite inclui as taxas de gas e de negociação, portanto, os usuários devem levar isso em conta ao configurar o preço. Por exemplo, as taxas de gas de uma ordem muito pequena podem totalizar uma porcentagem muito grande do resultado da ordem, refletindo um preço limite real que não é competitivo com o preço de mercado à vista.
 {% endhint %}
 
-3.  Press “Place order”. Double check your order details, accept the disclaimer and press “Confirm order”.
+3.  Pressione "Colocar ordem". Verifique novamente os detalhes da sua ordem, aceite o aviso de isenção de responsabilidade e pressione "Confirmar ordem".
 
-    <figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
-4. Once the transaction is through, you will be able to see your order in the order history section, under “Open orders”. \
-   ![](<../../.gitbook/assets/image (2) (1) (1) (1).png>)
-5. Open orders can be canceled at any time by expanding the order and clicking the “Cancel Order” button.
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%283%29%20%281%29%20%281%29.png" alt="" width="375"><figcaption></figcaption></figure>
+4. Após a confirmação da transação, você poderá ver sua ordem na seção de histórico de ordens, em "Ordens abertas". \
+   ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%282%29%20%281%29%20%281%29%20%281%29.png)
+5. As ordens abertas podem ser canceladas a qualquer momento expandindo a ordem e clicando no botão "Cancelar Ordem".
 
-Things to take into consideration:
+Pontos a considerar:
 
-* Your order may not be executed if the available market price is worse than the limit price you have set.
-* The trades are based on a decentralized protocol that utilizes off-chain takers which compete to fill orders. These takers are entitled to request a fee, which the protocol removes for the winning taker from the output tokens.&#x20;
-* Takers may take into account gas fees for your transactions when setting their fees, which may result in fluctuations in the fee amounts.
-* When specifying a limit price, users will see in the UI the minimum amount of destination tokens they will receive if the order is filled. Only takers making bids equal or better than this amount will be eligible to fill the order. This amount takes into account gas costs and trading fees.
+* Sua ordem pode não ser executada se o preço de mercado disponível for pior do que o preço limite definido.
+* As negociações são baseadas em um protocolo descentralizado que utiliza tomadores off-chain que competem para preencher as ordens. Esses tomadores têm o direito de solicitar uma taxa, que o protocolo desconta do tomador vencedor a partir dos tokens de saída.&#x20;
+* Os tomadores podem levar em conta as taxas de gas das suas transações ao definir suas taxas, o que pode resultar em flutuações nos valores das taxas.
+* Ao especificar um preço limite, os usuários verão na interface o valor mínimo de tokens de destino que receberão se a ordem for preenchida. Apenas tomadores que fizerem lances iguais ou melhores que esse valor serão elegíveis para preencher a ordem. Esse valor leva em conta os custos de gas e as taxas de negociação.

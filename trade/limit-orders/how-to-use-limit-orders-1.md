@@ -1,83 +1,83 @@
-# How to use Limit Orders
+# Como usar Ordens Limitadas
 
-Fee-earning limit orders on PancakeSwap work differently from traditional limit orders. When a user places a limit order, they are effectively providing **one-sided liquidity** to a PancakeSwap Infinity pool.
+As ordens limitadas com geração de taxas na PancakeSwap funcionam de forma diferente das ordens limitadas tradicionais. Quando um usuário coloca uma ordem limitada, ele está efetivamente fornecendo **liquidez unilateral** a um pool PancakeSwap Infinity.
 
-As the market price moves, swaps in the pool can use the user’s liquidity. When this happens, the deposited tokens are fully converted into the output tokens, and the user receives:
+À medida que o preço de mercado se move, os swaps no pool podem usar a liquidez do usuário. Quando isso acontece, os tokens depositados são totalmente convertidos nos tokens de saída, e o usuário recebe:
 
-* The output tokens, and
-* The trading fees earned from swaps executed against their liquidity.
-
-***
-
-**Example: Selling BNB for USDT**
-
-* **Current price in BNB/USDT pool:** 600 USDT per BNB
-* **User’s target / limit price:** 700 USDT per BNB
-
-Process:
-
-1. The user sets a limit order to sell BNB at 700 USDT.
-2. Their BNB is deposited into the tick closest to price 700 USDT per BNB in the pool.
-3. When the external market price reaches 700 USDT, the pool price adjusts to match (due to arbitrage opportunities / better pricing).
-4. At that point, the user’s BNB is swapped into USDT.
-5. During this process, the user earns fees from each swap that consumes their liquidity.
-6. Once the liquidity is fully consumed, the converted USDT (plus fees) is automatically withdrawn and sent to the user’s wallet.
+* Os tokens de saída, e
+* As taxas de negociação ganhas com os swaps executados contra sua liquidez.
 
 ***
 
-### Step-by-step guide
+**Exemplo: Vendendo BNB por USDT**
 
-Choose a token pair (e.g., BNB/CAKE) and amount you would like to sell / buy
+* **Preço atual no pool BNB/USDT:** 600 USDT por BNB
+* **Preço alvo / limite do usuário:** 700 USDT por BNB
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-09-28 at 11.07.07 AM.png" alt="" width="375"><figcaption></figcaption></figure>
+Processo:
 
-Set your target / limit price
+1. O usuário define uma ordem limitada para vender BNB a 700 USDT.
+2. Seu BNB é depositado no tick mais próximo do preço de 700 USDT por BNB no pool.
+3. Quando o preço de mercado externo atingir 700 USDT, o preço do pool se ajusta para corresponder (devido a oportunidades de arbitragem / melhor precificação).
+4. Nesse ponto, o BNB do usuário é convertido em USDT.
+5. Durante esse processo, o usuário ganha taxas de cada swap que consome sua liquidez.
+6. Uma vez que a liquidez é totalmente consumida, o USDT convertido (mais as taxas) é automaticamente retirado e enviado para a carteira do usuário.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-09-28 at 11.07.35 AM.png" alt="" width="375"><figcaption></figcaption></figure>
+***
 
-Place the limit order and “Confirm”. Liquidity is placed on your behalf at the tick closest to limit price
+### Guia passo a passo
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-09-28 at 11.08.49 AM.png" alt="" width="375"><figcaption></figcaption></figure>
+Escolha um par de tokens (ex.: BNB/CAKE) e o valor que deseja vender / comprar
 
-Once the pool price hits your target, your order executes. Desired output tokens + fees are automatically withdrawn and sent to your wallet.
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%2011.07.07%20AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-09-28 at 1.01.47 PM.png" alt="" width="370"><figcaption></figcaption></figure>
+Defina seu preço alvo / limite
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%2011.07.35%20AM.png" alt="" width="375"><figcaption></figcaption></figure>
+
+Coloque a ordem limitada e "Confirme". A liquidez é colocada em seu nome no tick mais próximo do preço limite
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%2011.08.49%20AM.png" alt="" width="375"><figcaption></figcaption></figure>
+
+Quando o preço do pool atingir seu alvo, sua ordem é executada. Os tokens de saída desejados + taxas são automaticamente retirados e enviados para sua carteira.
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%201.01.47%20PM.png" alt="" width="370"><figcaption></figcaption></figure>
 
 
 
-### Order Status
+### Status da Ordem
 
-You can view your order status by clicking here
+Você pode ver o status da sua ordem clicando aqui
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-09-28 at 2.12.50 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%202.12.50%20PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-**Your order can be in one of the following states:**
+**Sua ordem pode estar em um dos seguintes estados:**
 
-| Status           | Description                                                                              |
-| ---------------- | ---------------------------------------------------------------------------------------- |
-| Pending          | Waiting for price to reach your target                                                   |
-| Filled           | Order executed and funds sent to your wallet                                             |
-| Partially Filled | Only part of your order is executed. You’ll hold both tokens (e.g., part BNB, part USDT) |
-| Cancelled        | You cancelled the order. All your funds are returned to you                              |
+| Status               | Descrição                                                                                            |
+| -------------------- | ---------------------------------------------------------------------------------------------------- |
+| Pendente             | Aguardando o preço atingir seu alvo                                                                  |
+| Executada            | Ordem executada e fundos enviados para sua carteira                                                  |
+| Parcialmente Execut. | Apenas parte da sua ordem foi executada. Você manterá ambos os tokens (ex.: parte BNB, parte USDT)  |
+| Cancelada            | Você cancelou a ordem. Todos os seus fundos são devolvidos a você                                    |
 
 ### FAQs
 
-**Q: Do I need to pay fees to place a limit order?**
+**P: Preciso pagar taxas para colocar uma ordem limitada?**
 
-A: No. Instead, you earn 0.1% in trading fees when your order executes.
+R: Não. Em vez disso, você ganha 0,1% em taxas de negociação quando sua ordem é executada.
 
-**Q: Can I place orders for any pair?**
+**P: Posso colocar ordens para qualquer par?**
 
-A: At launch, only selected pairs are supported. More pairs will be added later.
+R: No lançamento, apenas pares selecionados são suportados. Mais pares serão adicionados posteriormente.
 
-**Q: What’s the minimum order size?**
+**P: Qual é o tamanho mínimo da ordem?**
 
-A: $50. This prevents tiny orders that could result in excess gas.&#x20;
+R: $50. Isso evita ordens muito pequenas que poderiam resultar em excesso de gas.&#x20;
 
-**Q: What happens if only part of my order is filled?**
+**P: O que acontece se apenas parte da minha ordem for executada?**
 
-A: You’ll hold both tokens. You can cancel anytime and withdraw both tokens plus earned fees.
+R: Você manterá ambos os tokens. Você pode cancelar a qualquer momento e retirar ambos os tokens mais as taxas ganhas.
 
-**Q: My order is filled but I haven't received funds yet in my wallet?**
+**P: Minha ordem foi executada, mas ainda não recebi os fundos na minha carteira?**
 
-A: In very rare scenarios this could happen but your funds are always safe. Just use the "Withdraw" button in the order details UI to claim the funds manually.
+R: Em cenários muito raros isso pode acontecer, mas seus fundos estão sempre seguros. Basta usar o botão "Sacar" nos detalhes da ordem para reivindicar os fundos manualmente.

@@ -1,61 +1,60 @@
 # FAQ
 
 {% hint style="info" %}
-Use the sidebar to quickly find the answers to your questions!
+Use a barra lateral para encontrar rapidamente as respostas às suas perguntas!
 {% endhint %}
 
-## Limit Orders and TWAP
+## Ordens Limitadas e TWAP
 
-Please refer to FAQ provided by Orbs:
+Consulte o FAQ fornecido pela Orbs:
 
 [https://www.orbs.com/dtwap-and-dlimit-faq/](https://www.orbs.com/dtwap-and-dlimit-faq/)
 
-## Limit V2 (Deprecated)
+## Limit V2 (Descontinuado)
 
-### Why I can’t find my orders?
+### Por que não consigo encontrar minhas ordens?
 
-V2 limit orders is now deprecated, please access using this link:
+As ordens limitadas V2 foram descontinuadas, acesse usando este link:
 
 [https://pancakeswap.finance/limit-orders](https://pancakeswap.finance/limit-orders)
 
-### Why was my order not executed?
+### Por que minha ordem não foi executada?
 
-Limit orders are executed when they reach their desired price, however, due to gas fluctuations, the actual execution price might vary from the price you specified on the interface. Usually, the execution price and the desired price should be almost identical, however, if you submitted a particularly small order (\~<1000$) the execution price might be slightly higher to account for fees.&#x20;
+As ordens limitadas são executadas quando atingem o preço desejado; no entanto, devido a flutuações de gas, o preço de execução real pode variar do preço especificado na interface. Normalmente, o preço de execução e o preço desejado devem ser quase idênticos; no entanto, se você enviou uma ordem particularmente pequena (\~<1000$), o preço de execução pode ser ligeiramente mais alto para contabilizar as taxas.&#x20;
 
-Therefore your order may not be executed because:
+Portanto, sua ordem pode não ter sido executada porque:
 
-* It wasn’t possible to fill the whole order at the desired price and amount due to price impact.
-* One of the tokens in the limit order has fee on transfer (see below).
+* Não foi possível preencher toda a ordem ao preço e valor desejados devido ao impacto de preço.
+* Um dos tokens na ordem limitada tem taxa de transferência (veja abaixo).
 
-**Before submitting an order, please consult the UI denoting the real execution price.**
+**Antes de enviar uma ordem, consulte a interface que indica o preço de execução real.**
 
 {% hint style="info" %}
-Please note: the order history table gets the data from Subgraph and can show slightly delayed information.
+Observação: a tabela de histórico de ordens obtém os dados do Subgraph e pode mostrar informações com leve atraso.
 {% endhint %}
 
-### Can I submit a limit order for tokens with fee on transfer?
+### Posso enviar uma ordem limitada para tokens com taxa de transferência?
 
-**No.** The tokens with a fee on transfer should not be used with limit orders. Proceed at your own risk.
+**Não.** Os tokens com taxa de transferência não devem ser usados com ordens limitadas. Prossiga por sua conta e risco.
 
-### How do I set slippage while using limit orders?
+### Como defino o Slippage ao usar ordens limitadas?
 
-Slippage is not relevant in limit orders. You specify input amount (e.g. 1000 CAKE) and output amount (e.g. 20 BNB), Limit orders guarantee that you will receive no less than the specified output amount (20 BNB) for your input amount (1000 CAKE) if the price for the pair reaches the desired price. **Note that tokens with fee on transfer should not be used with limit orders** (read above)
+O Slippage não é relevante em ordens limitadas. Você especifica o valor de entrada (ex.: 1000 CAKE) e o valor de saída (ex.: 20 BNB). As ordens limitadas garantem que você receberá no mínimo o valor de saída especificado (20 BNB) pelo seu valor de entrada (1000 CAKE) se o preço do par atingir o preço desejado. **Observe que tokens com taxa de transferência não devem ser usados com ordens limitadas** (leia acima)
 
-### The real execution price shows "never executes". What's this?
+### O preço de execução real mostra "nunca executa". O que isso significa?
 
-It basically means that you're trying to swap a very small amount of tokens therefore there are not enough tokens to be accounted for the gas fee. In general, you need to increase the amount of the "input" field to get rid of this error.&#x20;
+Basicamente significa que você está tentando fazer swap de um valor muito pequeno de tokens, portanto não há tokens suficientes para cobrir a taxa de gas. Em geral, você precisa aumentar o valor do campo "entrada" para eliminar esse erro.&#x20;
 
-### Is there an expiration date for my limit orders?
+### Há uma data de expiração para minhas ordens limitadas?
 
-Open orders have an expiration date of 90 days. After your order is expired it might never be executed. Please cancel your order once expired.&#x20;
+As ordens abertas têm uma data de expiração de 90 dias. Após a expiração, sua ordem pode nunca ser executada. Cancele sua ordem após o vencimento.&#x20;
 
-A customizable expiration date feature is planned for the near future.
+Um recurso de data de expiração personalizável está planejado para o futuro próximo.
 
-### Why can’t I create limit orders below the market price?
+### Por que não consigo criar ordens limitadas abaixo do preço de mercado?
 
-To sell below market price, you need **Stop Limit Orders**, not limit orders. Stop Limit Orders feature is coming soon.
+Para vender abaixo do preço de mercado, você precisa de **Ordens Stop Limit**, não de ordens limitadas. O recurso de Ordens Stop Limit está chegando em breve.
 
-### I made an order and it is not shown in the order table or stuck at “pending” status.
+### Fiz uma ordem e ela não aparece na tabela de ordens ou está presa em status "pendente".
 
-The order history comes from the subgraph and therefore might show slightly delayed information. Usually, delays are no longer than a couple of minutes at worst. Please refer to the subgraph indicator at the bottom right corner of the order history table.
-
+O histórico de ordens vem do subgraph e, portanto, pode mostrar informações com leve atraso. Normalmente, os atrasos não são maiores que alguns minutos no pior caso. Consulte o indicador do subgraph no canto inferior direito da tabela de histórico de ordens.

@@ -1,37 +1,37 @@
-# How to use TWAP
+# Como usar TWAP
 
-## What is TWAP?
+## O que é TWAP?
 
-TWAP (Time-weighted Average Price) is a common order type used in CeFi that breaks an order into smaller trade sizes and executes them at regular intervals. The main goal of a TWAP order is to reduce the order’s price impact. It can also be useful if a user wants to implement a dollar-cost averaging strategy (DCA) and buy a certain token on a consistent schedule (i.e. once a month).
+TWAP (Time-weighted Average Price) é um tipo de ordem comum usado em CeFi que divide uma ordem em tamanhos menores e as executa em intervalos regulares. O principal objetivo de uma ordem TWAP é reduzir o impacto de preço da ordem. Também pode ser útil se um usuário quiser implementar uma estratégia de custo médio em dólares (DCA) e comprar um determinado token em um cronograma consistente (ou seja, uma vez por mês).
 
-Therefore, TWAP is best used when the order size is large compared to the available liquidity, or when a user anticipates a high price volatility period with no clear up or downward trend.
+Portanto, o TWAP é melhor utilizado quando o tamanho da ordem é grande em comparação com a liquidez disponível, ou quando um usuário antecipa um período de alta volatilidade de preços sem uma tendência clara de alta ou baixa.
 
-## How to set up a TWAP order?
+## Como configurar uma ordem TWAP?
 
-1. Go to the Swap page and select the TWAP order option by clicking TWAP
-2. Select the “From” and “To” tokens and enter the amount you wish to trade.
-3. The UI enables both dTWAP-market orders, which execute all trades at the available market price, and dTWAP-limit orders, which only execute individual trades if they are within the price limit set by the user. \
-   In this example we chose to execute the TWAP orders at market price.
-4. Next, we specify the TWAP parameters. There are 3 main parameters that control the effectiveness of the dTWAP order:
-   1. Total trades: Allows the user to specify the number of individual trades that their order will be broken into. The UI slider starts with 1 trade and allows the user to increase the amount of individual trades, or allows the user to manually input the total trades in the input field directly.\
-      Users should note that there is a certain tradeoff when specifying this parameter: more trades means smaller individual trade size, which means smaller price impact. However, more trades also means more transactions and higher overall gas fees.&#x20;
-   2. Trade Interval: Sets the time gap between each individual trade. The UI starts with the minimum allowed (2 mins), which leaves the minimum amount of time for the taker bidding war and block settlement between each chunk. The user can set it to be any duration desired. A trade will never execute before this time elapses after the previous trade.\
-      Again users should be mindful when setting this parameter: longer intervals would allow arbitrageurs a longer window to close any price discrepancies on the affected pools and bring the reserves back to equilibrium (on par with spot price). However, it would take longer for the order to be filled would add uncertainty to the final fill price, especially in times of heightened volatility
-   3. Max Duration: The maximum time during which the total amount of all individual trades making up the full dTWAP order may be executed. After this deadline the trade expires, regardless of actual amounts swapped.\
-      Note that all chunks may not execute in limit orders, depending on whether the price stays within the set parameters. \
-      The default recommended duration is calculated by multiplying the number of intervals by the trade interval, and then doubling this amount in order to serve as a buffer to allow sufficient time for on-chain activity. (note that setting a duration that is shorter than the above default may result in a partially filled order).
+1. Vá para a página de Swap e selecione a opção de ordem TWAP clicando em TWAP
+2. Selecione os tokens "De" e "Para" e insira o valor que deseja negociar.
+3. A interface habilita tanto ordens dTWAP de mercado, que executam todas as negociações ao preço de mercado disponível, quanto ordens dTWAP limitadas, que só executam negociações individuais se estiverem dentro do limite de preço definido pelo usuário. \
+   Neste exemplo, optamos por executar as ordens TWAP ao preço de mercado.
+4. Em seguida, especificamos os parâmetros do TWAP. Existem 3 parâmetros principais que controlam a eficácia da ordem dTWAP:
+   1. Total de negociações: Permite ao usuário especificar o número de negociações individuais nas quais sua ordem será dividida. O controle deslizante da interface começa com 1 negociação e permite ao usuário aumentar a quantidade de negociações individuais, ou permite que o usuário insira manualmente o total de negociações diretamente no campo de entrada.\
+      Os usuários devem notar que há uma certa troca ao especificar este parâmetro: mais negociações significa tamanhos menores por negociação, o que significa menor impacto de preço. No entanto, mais negociações também significa mais transações e taxas de gas totais mais altas.&#x20;
+   2. Intervalo de Negociação: Define o intervalo de tempo entre cada negociação individual. A interface começa com o mínimo permitido (2 min), o que deixa o tempo mínimo para a guerra de lances dos tomadores e liquidação de bloco entre cada tranche. O usuário pode definir qualquer duração desejada. Uma negociação nunca será executada antes que esse tempo decorra após a negociação anterior.\
+      Novamente, os usuários devem estar atentos ao definir este parâmetro: intervalos mais longos permitem que os arbitragistas tenham uma janela mais longa para fechar quaisquer discrepâncias de preço nos pools afetados e trazer as reservas de volta ao equilíbrio (em linha com o preço à vista). No entanto, levaria mais tempo para a ordem ser preenchida e adicionaria incerteza ao preço final de preenchimento, especialmente em momentos de maior volatilidade.
+   3. Duração Máxima: O tempo máximo durante o qual o valor total de todas as negociações individuais que compõem a ordem dTWAP completa pode ser executado. Após esse prazo, a negociação expira, independentemente dos valores realmente trocados.\
+      Observe que todas as tranches podem não ser executadas em ordens limitadas, dependendo se o preço permanece dentro dos parâmetros definidos. \
+      A duração padrão recomendada é calculada multiplicando o número de intervalos pelo intervalo de negociação e, em seguida, dobrando esse valor para servir como buffer e permitir tempo suficiente para a atividade on-chain. (observe que definir uma duração mais curta do que o padrão acima pode resultar em uma ordem parcialmente preenchida).
 
-As can be seen, these parameters provide significant flexibility in customizing each order, taking into account factors like market conditions, current gas fees, etc.
+Como pode ser visto, esses parâmetros fornecem flexibilidade significativa na personalização de cada ordem, levando em consideração fatores como condições de mercado, taxas de gas atuais, etc.
 
-8. Press “Place order”. Double check your order details, accept the disclaimer and press “Confirm order”.
-9. Once the transaction is processed, you will be able to see your order’s status in the order history section, under “Open orders”.
-10. Open orders can be canceled at any time by expanding the order and clicking the “Cancel Order” button.
+8. Pressione "Colocar ordem". Verifique novamente os detalhes da sua ordem, aceite o aviso de isenção de responsabilidade e pressione "Confirmar ordem".
+9. Após o processamento da transação, você poderá ver o status da sua ordem na seção de histórico de ordens, em "Ordens abertas".
+10. As ordens abertas podem ser canceladas a qualquer momento expandindo a ordem e clicando no botão "Cancelar Ordem".
 
-Things to take into consideration
+Pontos a considerar
 
-* Orders are executed in smaller trades over a specified period of time and are subject to market conditions and other risks.
-* Your trade may be executed at a price that is significantly different from the current market price (although not worse than your limit price, if you set one), which could result in significant losses. If the available market price is worse than the limit price you have set, some of the trades of your order may not be executed, resulting in a partially filled order.
-* The trades are based on a decentralized protocol that utilizes off-chain takers which compete to fill orders. These takers are entitled to request a fee, which the protocol removes for the winning taker from the output tokens.&#x20;
-* Takers may take into account gas fees for your transactions when setting their fees, which may result in fluctuations in the fee amounts.
+* As ordens são executadas em negociações menores ao longo de um período de tempo especificado e estão sujeitas às condições de mercado e outros riscos.
+* Sua negociação pode ser executada a um preço significativamente diferente do preço de mercado atual (embora não pior do que o preço limite definido, se você tiver definido um), o que pode resultar em perdas significativas. Se o preço de mercado disponível for pior do que o preço limite definido, algumas das negociações da sua ordem podem não ser executadas, resultando em uma ordem parcialmente preenchida.
+* As negociações são baseadas em um protocolo descentralizado que utiliza tomadores off-chain que competem para preencher as ordens. Esses tomadores têm o direito de solicitar uma taxa, que o protocolo desconta do tomador vencedor a partir dos tokens de saída.&#x20;
+* Os tomadores podem levar em conta as taxas de gas das suas transações ao definir suas taxas, o que pode resultar em flutuações nos valores das taxas.
 
 <br>
