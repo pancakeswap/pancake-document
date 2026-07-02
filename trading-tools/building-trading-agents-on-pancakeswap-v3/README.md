@@ -1,54 +1,54 @@
 # 🤖 BNB AI Agent Studio
 
-> A guide for developers building autonomous agents — with [BNB Agent Studio](https://www.bnbchain.org/en/bnb-agent-studio) or any framework — that interact with PancakeSwap V3 liquidity pools and farms on BNB Smart Chain.
+> Um guia para desenvolvedores criando agentes autônomos — com o [BNB Agent Studio](https://www.bnbchain.org/en/bnb-agent-studio) ou qualquer framework — que interagem com os pools de Liquidez e farms V3 da PancakeSwap na BNB Smart Chain.
 >
-> You describe a strategy; your agent executes it on-chain, unattended. This page covers the PancakeSwap half: the contracts to call, the safe order to call them in, and a complete worked example (an automated V3 range rebalancer). For how to describe, build, and deploy the agent itself, see the BNB Agent Studio docs.
+> Você descreve uma estratégia; seu agente a executa onchain, sem supervisão. Esta página aborda a parte da PancakeSwap: os contratos a serem chamados, a ordem segura para chamá-los e um exemplo completo de trabalho (um rebalanceador de intervalo V3 automatizado). Para saber como descrever, criar e implantar o próprio agente, consulte a documentação do BNB Agent Studio.
 
-PancakeSwap requires **no integration** for this to work. V3 pools and farms are permissionless smart contracts — your agent calls them directly, the same way the PancakeSwap front end does. Everything below is public on-chain surface.
-
-***
-
-### 1. What an agent can do against PancakeSwap
-
-Concentrated liquidity (V3) gives LPs far better capital efficiency than V2, at the cost of active management: a position only earns fees while the price is inside its tick range, and rewards/yields shift constantly. That operational overhead is exactly what an agent removes. Common strategies:
-
-* **Range rebalancer** — watch an LP position; when price drifts toward the edge of the range, withdraw and re-mint around the new price so the position keeps earning fees. _(Worked example in §6.)_
-* **Farm APR router** — track CAKE + fee yield across pools and move liquidity to the highest total yield.
-* **Swap/quote bots** — route trades through the Smart Router for best execution across V2 + V3.
-
-All of these are compositions of the same handful of contract calls below.
+A PancakeSwap **não requer integração** para que isso funcione. Os pools V3 e farms são contratos inteligentes sem permissão — seu agente os chama diretamente, da mesma forma que o frontend da PancakeSwap faz. Tudo abaixo é superfície pública onchain.
 
 ***
 
-### 2. Contract surface (BNB Smart Chain, chainId 56)
+### 1. O que um agente pode fazer na PancakeSwap
 
-| Contract                              | Address                                      | Your agent uses it to                                                                            |
-| ------------------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| **NonfungiblePositionManager** (NFPM) | `0x46A15B0b27311cedF172AB29E4f4766fbE7F4364` | Create/manage LP positions — `mint`, `increaseLiquidity`, `decreaseLiquidity`, `collect`, `burn` |
-| **SmartRouter**                       | `0x13f4EA83D0bd40E75C8222255bc855a974568Dd4` | Execute swaps with best V2+V3 routing                                                            |
-| **MasterChefV3**                      | `0x556B9306565093C855AEA9AE92A594704c2Cd59e` | Stake a position NFT to farm CAKE — `harvest`, `withdraw`                                        |
-| **V3 Quoter**                         | `0xB048Bbc1Ee6b733FFfCFb9e9CeF7375518e25997` | Quote a swap before sending it                                                                   |
-| **PancakeV3Factory**                  | `0x0BFbCF9fa4f9C56B0F40a671Ad40E0805A091865` | Resolve a pool address from `(token0, token1, fee)`                                              |
-| **Permit2**                           | `0x31c2F6fcFf4F8759b3Bd5Bf0e1084A055615c768` | Gasless/batched token approvals for **Smart Router swaps** (see §5.1)                            |
+A Liquidez concentrada (V3) oferece aos LPs uma eficiência de capital muito melhor do que a V2, ao custo de gerenciamento ativo: uma posição só ganha taxas enquanto o preço estiver dentro de seu intervalo de tick, e recompensas/rendimentos mudam constantemente. Essa sobrecarga operacional é exatamente o que um agente remove. Estratégias comuns:
 
-> ⚠️ **Always reconfirm addresses** against the canonical PancakeSwap deployment list before sending real value. Treat the table above as a starting point.
+* **Rebalanceador de intervalo** — monitora uma posição LP; quando o preço se aproxima da borda do intervalo, retira e reminta em torno do novo preço para que a posição continue ganhando taxas. _(Exemplo trabalhado no §6.)_
+* **Roteador de APR de Farm** — rastreia rendimento de CAKE + taxas em pools e move Liquidez para o maior rendimento total.
+* **Bots de Swap/cotação** — roteia negociações pelo Smart Router para melhor execução em V2 + V3.
 
-A V3 **pool** is identified by `(token0, token1, fee)`. Fee tiers and their tick spacing:
-
-| Fee   | `fee` value | Tick spacing | Typical use               |
-| ----- | ----------- | ------------ | ------------------------- |
-| 0.01% | `100`       | 1            | Stable–stable             |
-| 0.05% | `500`       | 10           | Correlated (e.g. ETH/BTC) |
-| 0.25% | `2500`      | 50           | Most pairs                |
-| 1.00% | `10000`     | 200          | Exotic / volatile         |
-
-A V3 **position** is an ERC-721 NFT held in the NonfungiblePositionManager. It stores `tickLower`, `tickUpper`, `liquidity`, and accrued fees. You reference it by `tokenId`.
+Todas essas são composições das mesmas poucas chamadas de contrato abaixo.
 
 ***
 
-### 3. Tooling
+### 2. Superfície de contratos (BNB Smart Chain, chainId 56)
 
-You can talk to these contracts with raw ABIs and any web3 library, but the **`@pancakeswap/v3-sdk`** and **`@pancakeswap/smart-router`** packages do the hard math (tick ↔ price, slippage-adjusted minimums, calldata encoding) for you. The examples below use them with [viem](https://viem.sh/).
+| Contrato                              | Endereço                                     | Seu agente o usa para                                                                                  |
+| ------------------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| **NonfungiblePositionManager** (NFPM) | `0x46A15B0b27311cedF172AB29E4f4766fbE7F4364` | Criar/gerenciar posições LP — `mint`, `increaseLiquidity`, `decreaseLiquidity`, `collect`, `burn`      |
+| **SmartRouter**                       | `0x13f4EA83D0bd40E75C8222255bc855a974568Dd4` | Executar Swaps com melhor roteamento V2+V3                                                             |
+| **MasterChefV3**                      | `0x556B9306565093C855AEA9AE92A594704c2Cd59e` | Fazer Staking de um NFT de posição para ganhar CAKE — `harvest`, `withdraw`                            |
+| **V3 Quoter**                         | `0xB048Bbc1Ee6b733FFfCFb9e9CeF7375518e25997` | Cotar um Swap antes de enviá-lo                                                                        |
+| **PancakeV3Factory**                  | `0x0BFbCF9fa4f9C56B0F40a671Ad40E0805A091865` | Resolver um endereço de pool a partir de `(token0, token1, fee)`                                       |
+| **Permit2**                           | `0x31c2F6fcFf4F8759b3Bd5Bf0e1084A055615c768` | Aprovações de tokens sem gas/em lote para **Swaps no Smart Router** (ver §5.1)                         |
+
+> ⚠️ **Sempre reconfirme os endereços** na lista de implantação canônica da PancakeSwap antes de enviar valor real. Trate a tabela acima como um ponto de partida.
+
+Um **pool** V3 é identificado por `(token0, token1, fee)`. Camadas de taxa e seus espaçamentos de tick:
+
+| Taxa  | valor `fee` | Espaçamento de tick | Uso típico                  |
+| ----- | ----------- | ------------------- | --------------------------- |
+| 0,01% | `100`       | 1                   | Stable–stable               |
+| 0,05% | `500`       | 10                  | Correlacionados (ex.: ETH/BTC) |
+| 0,25% | `2500`      | 50                  | Maioria dos pares           |
+| 1,00% | `10000`     | 200                 | Exóticos / voláteis         |
+
+Uma **posição** V3 é um NFT ERC-721 mantido no NonfungiblePositionManager. Armazena `tickLower`, `tickUpper`, `liquidity` e taxas acumuladas. Você o referencia por `tokenId`.
+
+***
+
+### 3. Ferramentas
+
+Você pode se comunicar com esses contratos com ABIs brutos e qualquer biblioteca web3, mas os pacotes **`@pancakeswap/v3-sdk`** e **`@pancakeswap/smart-router`** fazem as contas difíceis (tick ↔ preço, mínimos ajustados por Slippage, codificação calldata) por você. Os exemplos abaixo os usam com [viem](https://viem.sh/).
 
 ```bash
 pnpm add @pancakeswap/v3-sdk @pancakeswap/smart-router @pancakeswap/sdk viem
@@ -65,20 +65,20 @@ const publicClient = createPublicClient({ chain: bsc, transport: http() })
 const walletClient = createWalletClient({ chain: bsc, account, transport: http() })
 ```
 
-Your agent is just this wallet executing transactions on a schedule or trigger. The wallet is funded and managed by Agent Studio — see the BNB docs.
+Seu agente é apenas esta Carteira executando transações em um cronograma ou gatilho. A Carteira é financiada e gerenciada pelo Agent Studio — consulte a documentação do BNB.
 
 ***
 
-### 4. Reading state (do this before every action)
+### 4. Lendo o estado (faça isso antes de cada ação)
 
-An agent decides _whether_ to act by reading the chain. The three reads that drive most strategies:
+Um agente decide _se_ deve agir lendo o chain. As três leituras que impulsionam a maioria das estratégias:
 
-**Pool price and current tick** — build a `Pool` entity from on-chain `slot0` + `liquidity`:
+**Preço do pool e tick atual** — construa uma entidade `Pool` a partir de `slot0` + `liquidity` onchain:
 
 ```tsx
 import { Pool, FeeAmount } from '@pancakeswap/v3-sdk'
 
-// poolAddress resolved from the factory or computePoolAddress()
+// poolAddress resolvido a partir da factory ou computePoolAddress()
 const [slot0, liquidity] = await Promise.all([
   publicClient.readContract({ address: poolAddress, abi: pancakeV3PoolABI, functionName: 'slot0' }),
   publicClient.readContract({ address: poolAddress, abi: pancakeV3PoolABI, functionName: 'liquidity' }),
@@ -91,11 +91,11 @@ const pool = new Pool(
   slot0[1],      // tick
 )
 
-console.log('price token0→token1:', pool.token0Price.toSignificant(6))
-console.log('current tick:', pool.tickCurrent)
+console.log('preço token0→token1:', pool.token0Price.toSignificant(6))
+console.log('tick atual:', pool.tickCurrent)
 ```
 
-**A position you own** — read it from the NonfungiblePositionManager by `tokenId`:
+**Uma posição que você possui** — leia do NonfungiblePositionManager por `tokenId`:
 
 ```tsx
 const p = await publicClient.readContract({
@@ -105,83 +105,83 @@ const p = await publicClient.readContract({
 const inRange = pool.tickCurrent >= p.tickLower && pool.tickCurrent < p.tickUpper
 ```
 
-**Is the position in range?** That single boolean is the trigger for a rebalancer. You can tighten it to "within N ticks of the boundary" to act _before_ it goes out of range.
+**A posição está no intervalo?** Esse único booleano é o gatilho para um rebalanceador. Você pode restringi-lo para "dentro de N ticks da fronteira" para agir _antes_ de sair do intervalo.
 
 ***
 
-### 5. Safe transaction sequences
+### 5. Sequências de transações seguras
 
-This is the part to get exactly right. An unattended agent has no human to catch a bad transaction, so every state-changing call must be defended with the four guardrails below.
+Esta é a parte que deve ser feita exatamente certa. Um agente sem supervisão não tem um humano para captar uma transação ruim, então toda chamada de mudança de estado deve ser defendida com os quatro controles abaixo.
 
-#### 5.1 Approvals
+#### 5.1 Aprovações
 
-Before a contract can move your tokens it needs an allowance. The right mechanism depends on which contract you're calling — all three below are permissionless:
+Antes que um contrato possa mover seus tokens, ele precisa de uma permissão. O mecanismo correto depende de qual contrato você está chamando — todos os três abaixo são sem permissão:
 
-* **ERC-20 `approve`** — works for both the Smart Router and the NonfungiblePositionManager, with any token. One tx per token/spender. Simplest, but a standing infinite approval is a standing risk.
-* **`selfPermit` (EIP-2612)** — for **NonfungiblePositionManager** liquidity ops. If the token supports EIP-2612, the SDK can bundle a signed, amount-scoped permit _inline_ with `mint`/`increaseLiquidity` via multicall — no separate approve tx. Falls back to `approve` for tokens without EIP-2612.
-* **Permit2** — for **Smart Router** swaps. Approve Permit2 once per token, then grant short-lived, signed, amount-scoped allowances per swap.
+* **ERC-20 `approve`** — funciona tanto para o Smart Router quanto para o NonfungiblePositionManager, com qualquer token. Uma tx por token/gastador. O mais simples, mas uma aprovação infinita permanente é um risco permanente.
+* **`selfPermit` (EIP-2612)** — para operações de Liquidez do **NonfungiblePositionManager**. Se o token suporta EIP-2612, o SDK pode agrupar uma permissão assinada com escopo de valor _inline_ com `mint`/`increaseLiquidity` via multicall — sem tx de aprovação separada. Retorna para `approve` para tokens sem EIP-2612.
+* **Permit2** — para Swaps do **Smart Router**. Aprove o Permit2 uma vez por token, depois conceda permissões assinadas de curta duração com escopo de valor por Swap.
 
-For an autonomous agent: scope every permit to the exact amount and a short expiry. **Never grant an unbounded approval from an agent wallet that holds meaningful balances.**
+Para um agente autônomo: limite toda permissão ao valor exato e a uma expiração curta. **Nunca conceda uma aprovação ilimitada de uma Carteira de agente que mantém saldos significativos.**
 
-#### 5.2 Slippage — never send `amountMin = 0`
+#### 5.2 Slippage — nunca envie `amountMin = 0`
 
-Every add/remove/swap must specify a minimum acceptable output. Let the SDK derive it from a tolerance instead of hand-rolling it:
+Toda adição/remoção/Swap deve especificar uma saída mínima aceitável. Deixe o SDK derivá-la de uma tolerância em vez de calcular manualmente:
 
 ```tsx
 import { Percent, Position } from '@pancakeswap/v3-sdk'
 
-const slippage = new Percent(50, 10_000) // 0.50%
+const slippage = new Percent(50, 10_000) // 0,50%
 
-// when minting / adding:
+// ao fazer mint / adicionar:
 const { amount0: amount0Min, amount1: amount1Min } =
   position.mintAmountsWithSlippage(slippage)
 
-// when removing:
+// ao remover:
 const { amount0: amount0Min, amount1: amount1Min } =
   position.burnAmountsWithSlippage(slippage)
 ```
 
-For swaps, the Smart Router applies `slippageTolerance` and computes `amountOutMinimum` for you (§6, step 0). **A zero minimum is an open invitation to sandwich bots** — on an unattended wallet that can mean repeated, silent losses.
+Para Swaps, o Smart Router aplica `slippageTolerance` e computa `amountOutMinimum` para você (§6, passo 0). **Um mínimo zero é um convite aberto para bots de ataque sandwich** — em uma Carteira sem supervisão, isso pode significar perdas repetidas e silenciosas.
 
-#### 5.3 Deadlines — always set one
+#### 5.3 Prazos — sempre defina um
 
-Every call takes a `deadline` (unix seconds). If the tx is still pending at that time it reverts instead of executing at a stale price. Keep it short for an agent:
+Toda chamada recebe um `deadline` (segundos unix). Se a tx ainda estiver pendente nesse momento, ela é revertida em vez de executar com um preço desatualizado. Mantenha curto para um agente:
 
 ```tsx
-const deadline = BigInt(Math.floor(Date.now() / 1000) + 60 * 5) // 5 minutes
+const deadline = BigInt(Math.floor(Date.now() / 1000) + 60 * 5) // 5 minutos
 ```
 
-#### 5.4 Multicall — make multi-step actions atomic
+#### 5.4 Multicall — torne ações de múltiplos passos atômicas
 
-The NonfungiblePositionManager and Smart Router support `multicall`: several calls bundled into **one transaction** that all succeed or all revert. This is not just gas savings — it's a safety property. A rebalance that does `decreaseLiquidity` then `collect` must never half-execute. The SDK bundles for you:
+O NonfungiblePositionManager e o Smart Router suportam `multicall`: várias chamadas agrupadas em **uma transação** que todas são bem-sucedidas ou todas são revertidas. Isso não é apenas economia de gas — é uma propriedade de segurança. Um rebalanceamento que faz `decreaseLiquidity` e depois `collect` nunca deve ser executado parcialmente. O SDK agrupa para você:
 
 ```tsx
 import { Multicall } from '@pancakeswap/v3-sdk'
 const calldata = Multicall.encodeMulticall([decreaseCalldata, collectCalldata, burnCalldata])
 ```
 
-> **There is no atomic "rebalance" function.** Moving a range is a _composed_ sequence (remove → collect → mint). Removal and the new mint happen in separate transactions; the price can move between them. Re-read state and recompute minimums for the mint after the removal confirms — don't reuse pre-removal numbers.
+> **Não existe uma função atômica de "rebalanceamento".** Mover um intervalo é uma sequência _composta_ (remover → coletar → mintar). A remoção e o novo mint acontecem em transações separadas; o preço pode se mover entre elas. Releia o estado e recalcule os mínimos para o mint após a remoção confirmar — não reutilize números pré-remoção.
 
-#### Guardrail checklist (apply to every agent action)
+#### Lista de verificação de controles (aplique a cada ação do agente)
 
-* \[ ] Token allowance scoped to the amount (Permit2), not infinite
-* \[ ] `amount*Min` / `amountOutMinimum` derived from an explicit slippage tolerance, never `0`
-* \[ ] Short `deadline` on every call
-* \[ ] Multi-step actions bundled via `multicall`
-* \[ ] State re-read between separate transactions of a sequence
-* \[ ] A per-run cap on value moved, and a sanity check that the pool price is within expected bounds before acting (cheap defense against acting into a manipulated/illiquid pool)
+* \[ ] Permissão de token limitada ao valor (Permit2), não infinita
+* \[ ] `amount*Min` / `amountOutMinimum` derivado de uma tolerância de Slippage explícita, nunca `0`
+* \[ ] `deadline` curto em toda chamada
+* \[ ] Ações de múltiplos passos agrupadas via `multicall`
+* \[ ] Estado relido entre transações separadas de uma sequência
+* \[ ] Um limite por execução no valor movido, e uma verificação de sanidade de que o preço do pool está dentro dos limites esperados antes de agir (defesa barata contra agir em um pool manipulado/com pouca Liquidez)
 
 ***
 
-### 6. Worked example — automated V3 range rebalancer
+### 6. Exemplo trabalhado — rebalanceador de intervalo V3 automatizado
 
-The reference agent. It watches one position; when price approaches the range boundary, it pulls liquidity out and re-mints a fresh range centered on the current price. Five steps.
+O agente de referência. Ele monitora uma posição; quando o preço se aproxima da fronteira do intervalo, retira Liquidez e reminta um novo intervalo centrado no preço atual. Cinco passos.
 
-**Trigger:** `pool.tickCurrent` is within a buffer of `tickLower`/`tickUpper` (from §4).
+**Gatilho:** `pool.tickCurrent` está dentro de um buffer de `tickLower`/`tickUpper` (do §4).
 
-#### Step 0 — (optional) rebalance the token ratio
+#### Passo 0 — (opcional) rebalancear a proporção de tokens
 
-After you withdraw, you'll hold token0 and token1 in whatever ratio the old range produced. A new, recentered range usually needs a different ratio, so swap the excess via the Smart Router:
+Após retirar, você terá token0 e token1 na proporção que o antigo intervalo produziu. Um novo intervalo recentrado geralmente precisa de uma proporção diferente, então troque o excesso pelo Smart Router:
 
 ```tsx
 import { SmartRouter, SwapRouter } from '@pancakeswap/smart-router'
@@ -203,17 +203,17 @@ const { calldata, value } = SwapRouter.swapCallParameters(trade, {
 await walletClient.sendTransaction({ to: SMART_ROUTER_ADDRESS, data: calldata, value: BigInt(value) })
 ```
 
-#### Step 1–3 — remove liquidity, collect, burn (one transaction)
+#### Passos 1–3 — remover Liquidez, coletar, queimar (uma transação)
 
-`removeCallParameters` builds the whole bundle: it `decreaseLiquidity` to zero, `collect`s both the withdrawn principal and accrued fees, and `burn`s the now-empty NFT — as a single atomic `multicall`.
+`removeCallParameters` constrói o pacote inteiro: faz `decreaseLiquidity` para zero, `collect` tanto o principal retirado quanto as taxas acumuladas, e `burn` do NFT agora vazio — como um único `multicall` atômico.
 
 ```tsx
 import { NonfungiblePositionManager, Percent } from '@pancakeswap/v3-sdk'
 
 const { calldata, value } = NonfungiblePositionManager.removeCallParameters(oldPosition, {
   tokenId,
-  liquidityPercentage: new Percent(1),            // 100% — full exit
-  slippageTolerance: new Percent(50, 10_000),     // 0.50% — sets amount0Min/amount1Min
+  liquidityPercentage: new Percent(1),            // 100% — saída total
+  slippageTolerance: new Percent(50, 10_000),     // 0,50% — define amount0Min/amount1Min
   deadline,
   collectOptions: {
     expectedCurrencyOwed0: feesOwed0,
@@ -223,21 +223,21 @@ const { calldata, value } = NonfungiblePositionManager.removeCallParameters(oldP
 })
 
 const hash = await walletClient.sendTransaction({ to: NFPM_ADDRESS, data: calldata, value: BigInt(value) })
-await publicClient.waitForTransactionReceipt({ hash }) // wait — the next mint depends on these tokens
+await publicClient.waitForTransactionReceipt({ hash }) // aguarde — o próximo mint depende desses tokens
 ```
 
-> If the position is **staked in MasterChefV3**, you don't remove from the NFPM. Call `MasterChefV3.withdraw(tokenId, to)` first to unstake (this also harvests pending CAKE), which returns the NFT to your wallet — then run the removal above. See §7.
+> Se a posição estiver **em Staking no MasterChefV3**, você não remove do NFPM. Chame `MasterChefV3.withdraw(tokenId, to)` primeiro para remover o Staking (isso também colhe CAKE pendente), que devolve o NFT à sua Carteira — depois execute a remoção acima. Veja §7.
 
-#### Step 4 — mint the new range
+#### Passo 4 — mintar o novo intervalo
 
-Recompute ticks around the _current_ price (re-read the pool — see §5.4), snap them to the fee tier's spacing, build a `Position` from the tokens you now hold, and mint.
+Recalcule os ticks em torno do preço _atual_ (releia o pool — veja §5.4), ajuste-os ao espaçamento de tick da camada de taxa, construa uma `Position` a partir dos tokens que você agora tem e faça o mint.
 
 ```tsx
 import { Position, NonfungiblePositionManager, nearestUsableTick } from '@pancakeswap/v3-sdk'
 
-const freshPool = /* re-read slot0 + liquidity → new Pool (§4) */
+const freshPool = /* releia slot0 + liquidity → novo Pool (§4) */
 const spacing = freshPool.tickSpacing
-const halfWidth = 10 * spacing // strategy-defined range width
+const halfWidth = 10 * spacing // largura de intervalo definida pela estratégia
 
 const tickLower = nearestUsableTick(freshPool.tickCurrent - halfWidth, spacing)
 const tickUpper = nearestUsableTick(freshPool.tickCurrent + halfWidth, spacing)
@@ -252,50 +252,50 @@ const newPosition = Position.fromAmounts({
 })
 
 const { calldata, value } = NonfungiblePositionManager.addCallParameters(newPosition, {
-  slippageTolerance: new Percent(50, 10_000), // sets amount0Min/amount1Min for the mint
+  slippageTolerance: new Percent(50, 10_000), // define amount0Min/amount1Min para o mint
   deadline,
   recipient: account.address,
 })
 await walletClient.sendTransaction({ to: NFPM_ADDRESS, data: calldata, value: BigInt(value) })
 ```
 
-The agent now holds a fresh in-range NFT. If it was farming, re-stake it (§7). Loop back to the §4 read on the next tick.
+O agente agora possui um NFT novo e dentro do intervalo. Se estava em farming, refaça o Staking (§7). Volte para a leitura do §4 no próximo tick.
 
 ***
 
-### 7. Farm interactions (MasterChefV3)
+### 7. Interações com o Farm (MasterChefV3)
 
-Staking a V3 position NFT in MasterChefV3 earns CAKE on top of swap fees.
+Fazer Staking de um NFT de posição V3 no MasterChefV3 ganha CAKE além das taxas de Swap.
 
-> **Only positions from pools with an active farm earn CAKE.** PancakeSwap governance registers which pools are farmable (each gets a `pid`). Staking a position whose pool isn't registered reverts with `InvalidPid`. This is the one place agent activity depends on a PancakeSwap-side list — and it's pool-level, not agent-level: any wallet can stake into any active farm. (Managing a position via the NonfungiblePositionManager — mint/collect/rebalance — needs no farm and works for every pool.)
+> **Apenas posições de pools com um farm ativo ganham CAKE.** A Governança da PancakeSwap registra quais pools são farmáveis (cada um recebe um `pid`). Fazer Staking de uma posição cujo pool não está registrado reverte com `InvalidPid`. Este é o único lugar onde a atividade do agente depende de uma lista da PancakeSwap — e é no nível do pool, não do agente: qualquer Carteira pode fazer Staking em qualquer farm ativo. (Gerenciar uma posição via NonfungiblePositionManager — mint/coletar/rebalancear — não precisa de farm e funciona para todo pool.)
 
-> **Only positions from pools with an active farm earn CAKE.** PancakeSwap governance registers which pools are farmable (each gets a `pid`). Staking a position whose pool isn't registered reverts with `InvalidPid`. This is the _one_ place agent activity depends on a PancakeSwap-side list — and it's pool-level, not agent-level: any wallet can stake into any _active_ farm. Check the pool has a live farm before building a farming strategy around it. (Managing a position via the NonfungiblePositionManager — mint/collect/rebalance — needs no farm and works for every pool.)
+> **Apenas posições de pools com um farm ativo ganham CAKE.** A Governança da PancakeSwap registra quais pools são farmáveis (cada um recebe um `pid`). Fazer Staking de uma posição cujo pool não está registrado reverte com `InvalidPid`. Este é o _único_ lugar onde a atividade do agente depende de uma lista da PancakeSwap — e é no nível do pool, não do agente: qualquer Carteira pode fazer Staking em qualquer farm _ativo_. Verifique se o pool tem um farm ativo antes de construir uma estratégia de farming em torno dele. (Gerenciar uma posição via NonfungiblePositionManager — mint/coletar/rebalancear — não precisa de farm e funciona para todo pool.)
 
-* **Stake** — transfer the position NFT to MasterChefV3 (`safeTransferFrom(owner, masterChefV3, tokenId)`). The farm now custodies the NFT.
-* **Harvest** — `harvest(tokenId, to)` claims pending CAKE without unstaking. Use `batchHarvest` to claim across several positions in one tx.
-* **Withdraw / exit** — `withdraw(tokenId, to)` unstakes, harvests pending CAKE, and returns the NFT to your wallet. You must withdraw before you can `decreaseLiquidity`/`burn` (the NFPM calls in §6 only work on an NFT your wallet holds).
+* **Staking** — transfira o NFT de posição para o MasterChefV3 (`safeTransferFrom(owner, masterChefV3, tokenId)`). O farm agora custodia o NFT.
+* **Harvest** — `harvest(tokenId, to)` reivindica CAKE pendente sem remover o Staking. Use `batchHarvest` para reivindicar em várias posições em uma tx.
+* **Withdraw / sair** — `withdraw(tokenId, to)` remove o Staking, colhe CAKE pendente e devolve o NFT à sua Carteira. Você deve fazer o withdraw antes de poder fazer `decreaseLiquidity`/`burn` (as chamadas NFPM no §6 só funcionam em um NFT que sua Carteira possui).
 
-A rebalancer for a **farmed** position therefore runs: `withdraw` → remove/collect/burn → mint → `safeTransferFrom` back into MasterChefV3.
-
-***
-
-### 8. Safety, limits & disclaimers
-
-Read this before deploying an agent that moves real funds.
-
-* **Autonomy is irreversible.** A deployed agent signs and sends transactions with no human confirmation. A bug, a bad trigger, or a manipulated price feed executes for real. Test on BSC testnet, then cap mainnet exposure (per-trade and per-day limits) before scaling.
-* **Slippage and deadlines are mandatory**, not optional (§5). An agent that omits them will eventually be sandwiched.
-* **Price-manipulation defense.** Before acting, sanity-check the pool price against an independent reference and skip the run if they diverge — cheap insurance against trading into a manipulated or thin pool.
-* **Gas and funding.** Keep the agent wallet funded with BNB for gas; a starved agent can leave a position mid-rebalance (removed but not re-minted). Re-reading state on each run (§4) lets it recover on the next tick.
-* **Scaled-UI / RWA tokens.** Some BSC tokens (e.g. Binance Stock Tokens) use on-chain UI multipliers (ERC-8056). On-chain raw amounts differ from displayed amounts. If your agent trades these, do all contract math in raw units and only apply the multiplier for human-facing display.
-* **You are responsible for your agent.** PancakeSwap pools are permissionless contracts; deploying an autonomous agent against them is your decision and your risk. This guide is technical reference, not financial advice, and PancakeSwap makes no warranty as to outcomes.
+Um rebalanceador para uma posição **em farming** portanto executa: `withdraw` → remover/coletar/queimar → mintar → `safeTransferFrom` de volta para o MasterChefV3.
 
 ***
 
-### 9. Reference
+### 8. Segurança, limites e isenções de responsabilidade
 
-* **`@pancakeswap/smart-router`** — routing + swap calldata (best in-repo examples are in its README)
-* **`@pancakeswap/v3-sdk`** — `Pool`, `Position`, `NonfungiblePositionManager`, `Multicall`, tick/price math
-* **BNB Agent Studio** — describing, building, and deploying the agent (BNB docs)
-* **PancakeSwap deployment addresses** — canonical contract list (verify before use)
+Leia isto antes de implantar um agente que move fundos reais.
+
+* **Autonomia é irreversível.** Um agente implantado assina e envia transações sem confirmação humana. Um bug, um gatilho ruim ou um feed de preços manipulado executa de verdade. Teste na testnet BSC, depois limite a exposição na mainnet (limites por negociação e por dia) antes de escalar.
+* **Slippage e prazos são obrigatórios**, não opcionais (§5). Um agente que os omite eventualmente será vítima de ataque sandwich.
+* **Defesa contra manipulação de preço.** Antes de agir, verifique o preço do pool em relação a uma referência independente e pule a execução se eles divergirem — seguro barato contra trading em um pool manipulado ou com pouca Liquidez.
+* **Gas e financiamento.** Mantenha a Carteira do agente financiada com BNB para gas; um agente sem fundos pode deixar uma posição no meio do rebalanceamento (removida mas não remintada). Reler o estado em cada execução (§4) permite que ele se recupere no próximo tick.
+* **Tokens Scaled-UI / RWA.** Alguns tokens BSC (ex.: Binance Stock Tokens) usam multiplicadores de UI onchain (ERC-8056). Os valores brutos onchain diferem dos valores exibidos. Se seu agente negocia esses tokens, faça todo cálculo contratual em unidades brutas e aplique o multiplicador apenas para exibição humana.
+* **Você é responsável pelo seu agente.** Os pools da PancakeSwap são contratos sem permissão; implantar um agente autônomo contra eles é sua decisão e seu risco. Este guia é referência técnica, não conselho financeiro, e a PancakeSwap não faz nenhuma garantia sobre os resultados.
+
+***
+
+### 9. Referência
+
+* **`@pancakeswap/smart-router`** — roteamento + calldata de Swap (os melhores exemplos no repositório estão no README)
+* **`@pancakeswap/v3-sdk`** — `Pool`, `Position`, `NonfungiblePositionManager`, `Multicall`, matemática de tick/preço
+* **BNB Agent Studio** — descrição, criação e implantação do agente (documentação BNB)
+* **Endereços de implantação PancakeSwap** — lista canônica de contratos (verifique antes de usar)
 * **ERC-8056 (Scaled UI Amount)** — [https://github.com/bnb-chain/BEPs/pull/677](https://github.com/bnb-chain/BEPs/pull/677)

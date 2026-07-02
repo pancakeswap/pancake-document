@@ -1,18 +1,18 @@
-# How to Set Slippage on PancakeSwap
+# Como Definir o Slippage na PancakeSwap
 
-#### How to Set Slippage on PancakeSwap
+#### Como Definir o Slippage na PancakeSwap
 
-PancakeSwap offers two options for setting slippage:
+A PancakeSwap oferece duas opções para definir o Slippage:
 
-* Auto Slippage: Automatically adjusts based on the token and market conditions.
-* Fixed Slippage: Allows you to set a specific slippage percentage for more control.
+* Auto Slippage: Ajuste automático com base no token e nas condições do mercado.
+* Slippage Fixo: Permite definir uma porcentagem específica de Slippage para maior controle.
 
 
 
-You may access these settings from:
+Você pode acessar essas configurações em:
 
-1. Clicking the settings icon (Top right panel of Swap)
-2. Edit icon in the Swap details -> Slippage Tolerance
+1. Clicando no ícone de configurações (painel superior direito do Swap)
+2. Ícone de edição nos detalhes do Swap -> Tolerância de Slippage
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXew-6qib2x649vtCDOdxY0PXlE2SS-lDhfxHffTsG-_uvTQKgWkh20GOuiqThlJtaXmtHbFQoIdC3TSv6I1Fvh-vmnD15r85KUhiRo-CTG_bM5l3lOMejcfnfEPVHZRpEvdnkdYYg?key=TNLdJ0jw6EBh-FaH6ZdZ7i11" alt=""><figcaption></figcaption></figure>
 

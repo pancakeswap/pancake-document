@@ -1,80 +1,80 @@
 # 🛍️ CAKE.PAD
 
-We’re excited to introduce **CAKE.PAD**, the new and improved early token access experience on PancakeSwap, giving you exclusive early access to new tokens before they hit exchanges.
+Temos o prazer de apresentar o **CAKE.PAD**, a experiência nova e aprimorada de acesso antecipado a tokens na PancakeSwap, oferecendo acesso exclusivo antecipado a novos tokens antes de chegarem às exchanges.
 
-Evolved from our IFO (Initial Farm Offering), CAKE.PAD is built with simplicity, inclusivity, and CAKE utility in mind. No staking, no lock-ups. Just commit CAKE and get early access to new tokens from exciting projects before they hit exchanges.
+Evoluído do nosso IFO (Initial Farm Offering), o CAKE.PAD é construído com simplicidade, inclusividade e utilidade do CAKE em mente. Sem Staking, sem bloqueios. Basta comprometer CAKE e ter acesso antecipado a novos tokens de projetos interessantes antes de chegarem às exchanges.
 
-### What’s CAKE.PAD?
+### O que é o CAKE.PAD?
 
-A CAKE.PAD event on PancakeSwap lets you get early access to new project tokens right as they launch.
+Um evento CAKE.PAD na PancakeSwap permite que você tenha acesso antecipado aos tokens de novos projetos bem no momento do lançamento.
 
-* Be among the first to own new tokens
-* Potentially enjoy higher rewards by entering early
-* Available only for a **very limited time**, so prepare in advance!
+* Esteja entre os primeiros a possuir novos tokens
+* Potencialmente desfrute de recompensas maiores ao entrar cedo
+* Disponível apenas por um **tempo muito limitado**, então prepare-se com antecedência!
 
-👉 The flow is simple:
+👉 O fluxo é simples:
 
-* **You deposit CAKE**
-* **The project receives CAKE** (up to its raise target)
-* **PancakeSwap burns 100% of participation fees (in CAKE)**
-* **You get the new CAKE.PAD partner tokens**
+* **Você deposita CAKE**
+* **O projeto recebe CAKE** (até sua meta de captação)
+* **A PancakeSwap queima 100% das taxas de participação (em CAKE)**
+* **Você recebe os novos tokens parceiros CAKE.PAD**
 
-As part of the [Tokenomics 3.0 upgrade](https://pancakeswap.finance/voting/proposal/0x79ef496c9737e48d9677a6e291ff2a549dee6729c9996398e453af8ecbf0ceb3), we’ve made **CAKE.PAD** simpler, leaner, and easier to participate.
+Como parte da [atualização Tokenomics 3.0](https://pancakeswap.finance/voting/proposal/0x79ef496c9737e48d9677a6e291ff2a549dee6729c9996398e453af8ecbf0ceb3), tornamos o **CAKE.PAD** mais simples, enxuto e fácil de participar.
 
-### What’s Changed?
+### O que Mudou?
 
-| Updated CAKE.PAD Format                                                                                                                                                  | Previous IFO Format                                      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- |
-| Only **1 type** of event- Anyone with CAKE can participate                                                                                                               | Multiple types: **Basic / Private / Public**             |
-| **No extra requirements** — just deposit CAKE                                                                                                                            | Requirements included **CAKE staking** + **NFT Profile** |
-| **No iCAKE / veCAKE** (deprecated with [Tokenomics 3.0](https://pancakeswap.finance/voting/proposal/0x79ef496c9737e48d9677a6e291ff2a549dee6729c9996398e453af8ecbf0ceb3)) | Used **iCAKE / veCAKE** concepts                         |
-| **Tiered tax** (applies only if oversubscribed, decreases as oversubscription grows)                                                                                     | Flat participation fee (e.g., 1%)                        |
+| Formato Atualizado CAKE.PAD                                                                                                                                              | Formato IFO Anterior                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------ |
+| Apenas **1 tipo** de evento — Qualquer pessoa com CAKE pode participar                                                                                                   | Múltiplos tipos: **Basic / Private / Public**                |
+| **Sem requisitos extras** — basta depositar CAKE                                                                                                                         | Requisitos incluíam **Staking de CAKE** + **Perfil NFT**     |
+| **Sem iCAKE / veCAKE** (descontinuado com [Tokenomics 3.0](https://pancakeswap.finance/voting/proposal/0x79ef496c9737e48d9677a6e291ff2a549dee6729c9996398e453af8ecbf0ceb3)) | Usava conceitos de **iCAKE / veCAKE**                        |
+| **Taxa escalonada** (aplica-se somente se houver sobresubscrição; diminui conforme a sobresubscrição cresce)                                                             | Taxa de participação fixa (ex.: 1%)                          |
 
-### What’s Unchanged?
+### O que Permanece Igual?
 
-* No individual cap — users can commit any amount of $CAKE to participate
-* Users can still join **multiple CAKE.PAD events at the same time** (if more than one is live)
-* **100% of CAKE.PAD event fees are burnt** — keeping CAKE’s burn mechanism strong
+* Sem limite individual — os usuários podem comprometer qualquer valor de $CAKE para participar
+* Os usuários ainda podem participar de **múltiplos eventos CAKE.PAD ao mesmo tempo** (se mais de um estiver ativo)
+* **100% das taxas de eventos CAKE.PAD são queimadas** — mantendo forte o mecanismo de queima do CAKE
 
-#### Fee Tiers
+#### Níveis de Taxa
 
-* Applies **only if the CAKE.PAD event is oversubscribed**
-* Tax is only deducted from participants' excess committed funds, no fees are paid by the **CAKE.PAD** project partner
-* The **CAKE.PAD** project partner receives 100% of its targeted raise amount
-* PancakeSwap will burn 100% of **CAKE.PAD event** fees as CAKE
+* Aplica-se **somente se o evento CAKE.PAD estiver sobresubscrito**
+* A taxa é deduzida apenas dos fundos excedentes comprometidos pelos participantes; nenhuma taxa é paga pelo **parceiro do projeto CAKE.PAD**
+* O **parceiro do projeto CAKE.PAD** recebe 100% do valor alvo de captação
+* A PancakeSwap queimará 100% das **taxas do evento CAKE.PAD** como CAKE
 
 {% hint style="info" %}
-For a numerical example, please refer to [how-cake.pad-taxes-work-in-overflow-sales-with-example.md](how-cake.pad-taxes-work-in-overflow-sales-with-example.md "mention")&#x20;
+Para um exemplo numérico, consulte [how-cake.pad-taxes-work-in-overflow-sales-with-example.md](how-cake.pad-taxes-work-in-overflow-sales-with-example.md "mention")&#x20;
 {% endhint %}
 
-**Oversubscription rate <> Fee Tier**&#x20;
+**Taxa de Sobresubscrição <> Nível de Taxa**&#x20;
 
-| Oversubscription Rate | Fee Tier |
-| --------------------- | -------- |
-| ≥ 0x                  | 1.00%    |
-| ≥ 50x                 | 0.80%    |
-| ≥ 100x                | 0.60%    |
-| ≥ 150x                | 0.50%    |
-| ≥ 200x                | 0.40%    |
-| ≥ 250x                | 0.30%    |
-| ≥ 300x                | 0.25%    |
-| ≥ 400x                | 0.20%    |
-| ≥ 500x                | 0.15%    |
-| ≥ 650x                | 0.12%    |
-| ≥ 800x                | 0.10%    |
-| ≥ 1500x               | 0.05%    |
+| Taxa de Sobresubscrição | Nível de Taxa |
+| ----------------------- | ------------- |
+| ≥ 0x                    | 1,00%         |
+| ≥ 50x                   | 0,80%         |
+| ≥ 100x                  | 0,60%         |
+| ≥ 150x                  | 0,50%         |
+| ≥ 200x                  | 0,40%         |
+| ≥ 250x                  | 0,30%         |
+| ≥ 300x                  | 0,25%         |
+| ≥ 400x                  | 0,20%         |
+| ≥ 500x                  | 0,15%         |
+| ≥ 650x                  | 0,12%         |
+| ≥ 800x                  | 0,10%         |
+| ≥ 1500x                 | 0,05%         |
 
-### Contract Details
+### Detalhes do Contrato
 
-Each **CAKE.PAD event** has its **own smart contract**. You can find the contract link directly on the [projects' event page on  PancakeSwap.](https://pancakeswap.finance/cakepad)
+Cada **evento CAKE.PAD** tem seu **próprio contrato inteligente**. Você pode encontrar o link do contrato diretamente na [página do evento dos projetos na PancakeSwap.](https://pancakeswap.finance/cakepad)
 
-### Want to Launch Your Own CAKE.PAD event?
+### Quer Lançar Seu Próprio Evento CAKE.PAD?
 
-Bring your project directly to the **largest community on BNB Smart Chain**.
+Traga seu projeto diretamente para a **maior comunidade da BNB Smart Chain**.
 
-* Tap into PancakeSwap’s massive liquidity and user base
-* Get exposure right from launch
+* Aproveite a enorme liquidez e base de usuários da PancakeSwap
+* Obtenha exposição desde o lançamento
 
-View more information here: [https://pancakeswap.notion.site/cakepad](https://pancakeswap.notion.site/cakepad)
+Veja mais informações aqui: [https://pancakeswap.notion.site/cakepad](https://pancakeswap.notion.site/cakepad)
 
-👉 [Apply to launch now!](https://docs.google.com/forms/d/e/1FAIpQLScmZu87SG41J_eGfzlbyJ_olFohlGOXfOJer04Dr1yCEJy2NA/viewform)
+👉 [Candidate-se para lançar agora!](https://docs.google.com/forms/d/e/1FAIpQLScmZu87SG41J_eGfzlbyJ_olFohlGOXfOJer04Dr1yCEJy2NA/viewform)

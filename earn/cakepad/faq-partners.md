@@ -1,68 +1,68 @@
-# FAQ (Partners)
+# FAQ (Parceiros)
 
 {% hint style="success" %}
-For more information visit: [https://pancakeswap.notion.site/cakepad](https://pancakeswap.notion.site/cakepad)
+Para mais informações, visite: [https://pancakeswap.notion.site/cakepad](https://pancakeswap.notion.site/cakepad)
 
-👉 [Apply to launch now!](https://docs.google.com/forms/d/e/1FAIpQLScmZu87SG41J_eGfzlbyJ_olFohlGOXfOJer04Dr1yCEJy2NA/viewform)
+👉 [Candidate-se para lançar agora!](https://docs.google.com/forms/d/e/1FAIpQLScmZu87SG41J_eGfzlbyJ_olFohlGOXfOJer04Dr1yCEJy2NA/viewform)
 {% endhint %}
 
-### 1. Who can apply to launch an CAKE.PAD event?
+### 1. Quem pode se candidatar para lançar um evento CAKE.PAD?
 
-Eligible projects must:
+Os projetos elegíveis devem:
 
-* Have a functioning product or MVP.
-* Be ready to launch a token and liquidity on PancakeSwap (BNB, Base, ARB, ETH, ZKsync, Linea, opBNB).
-* Allow 3–4 weeks of lead time before TGE.
-* Demonstrate strong community growth potential.
-* Pass PancakeSwap’s due diligence review.
+* Ter um produto funcional ou MVP.
+* Estar prontos para lançar um token e liquidez na PancakeSwap (BNB, Base, ARB, ETH, ZKsync, Linea, opBNB).
+* Permitir 3 a 4 semanas de tempo de preparação antes do TGE.
+* Demonstrar forte potencial de crescimento da comunidade.
+* Passar pela análise de due diligence da PancakeSwap.
 
-**How to apply:**
+**Como se candidatar:**
 
-* Fill out the [application form](https://docs.google.com/forms/d/e/1FAIpQLScmZu87SG41J_eGfzlbyJ_olFohlGOXfOJer04Dr1yCEJy2NA/viewform).
-* If suitable, PancakeSwap will contact you for further due diligence.
-* Once approved, the team will align on tokenomics, marketing, and launch timeline.
-* Marketing and community onboarding begins.
-* Launch CAKE.PAD event.
+* Preencha o [formulário de candidatura](https://docs.google.com/forms/d/e/1FAIpQLScmZu87SG41J_eGfzlbyJ_olFohlGOXfOJer04Dr1yCEJy2NA/viewform).
+* Se adequado, a PancakeSwap entrará em contato para due diligence adicional.
+* Após aprovação, a equipe se alinhará sobre tokenomics, marketing e cronograma de lançamento.
+* O marketing e a integração da comunidade começam.
+* Lançamento do evento CAKE.PAD.
 
-### 2. What are the launch fees?
+### 2. Quais são as taxas de lançamento?
 
-* Launching a CAKE.PAD event on PancakeSwap is **completely free**.
-* PancakeSwap does not charge any fees to projects.
+* Lançar um evento CAKE.PAD na PancakeSwap é **completamente gratuito**.
+* A PancakeSwap não cobra nenhuma taxa dos projetos.
 
-### 3. Do CAKE.PAD events support lockups or cliffing schedules?
+### 3. Os eventos CAKE.PAD suportam bloqueios ou cronogramas de cliff?
 
-* Yes, but current CAKE.PAD event launches are conducted **without any lockups**.
+* Sim, mas os lançamentos atuais de eventos CAKE.PAD são realizados **sem nenhum bloqueio**.
 
-### 4. How PancakeSwap Supports CAKE.PAD Partner Projects
+### 4. Como a PancakeSwap Apoia os Projetos Parceiros CAKE.PAD
 
 {% hint style="success" %}
-See stats and past performance of CAKE.PAD partner projects launched with PancakeSwap: [https://pancakeswap.notion.site/cakepad](https://pancakeswap.notion.site/cakepad)
+Veja estatísticas e desempenho passado dos projetos parceiros CAKE.PAD lançados com a PancakeSwap: [https://pancakeswap.notion.site/cakepad](https://pancakeswap.notion.site/cakepad)
 {% endhint %}
 
 #### Co-Marketing
 
-* Access to >400k DAUs and >2M social media followers.
-* PancakeSwap provides co-marketing support **before, during, and after** the CAKE.PAD event.
-* Could include social media announcements, KOL marketing, ads on PCS home page, and incentives for users to try your product.
-* Projects should allocate a marketing budget for these activities.
+* Acesso a mais de 400 mil DAUs e mais de 2 milhões de seguidores nas mídias sociais.
+* A PancakeSwap fornece suporte de co-marketing **antes, durante e após** o evento CAKE.PAD.
+* Pode incluir anúncios em mídias sociais, marketing com KOLs, anúncios na página inicial do PCS e incentivos para os usuários experimentarem seu produto.
+* Os projetos devem alocar um orçamento de marketing para essas atividades.
 
-🔗 [Example social media announcement](https://x.com/PancakeSwap/status/1879107402752245982)
+🔗 [Exemplo de anúncio em mídia social](https://x.com/PancakeSwap/status/1879107402752245982)
 
-#### LP Incentives
+#### Incentivos de LP
 
-* Reward users providing liquidity (e.g., XYZ-BNB or XYZ-USDT).
-* Builds deep liquidity for your token pair on a DEX with >$2B TVL and >$3B daily volume.
-* Improves trading experience with low slippage.
-* Boosts token visibility and market traction.
+* Recompense os usuários que fornecem liquidez (ex.: XYZ-BNB ou XYZ-USDT).
+* Cria liquidez profunda para seu par de tokens em uma DEX com mais de $2B em TVL e mais de $3B em volume diário.
+* Melhora a experiência de negociação com baixo Slippage.
+* Aumenta a visibilidade do token e a tração no mercado.
 
-#### Syrup Pool Campaign
+#### Campanha no Syrup Pool
 
-* Launch a **“Stake XYZ, Earn CAKE”** staking campaign to increase token utility and encourage user acquisition and retention.
-* Typically attracts **4,500 to 6,000 unique wallet address**.
+* Lance uma campanha de Staking **"Stake XYZ, Ganhe CAKE"** para aumentar a utilidade do token e incentivar a aquisição e retenção de usuários.
+* Tipicamente atrai **4.500 a 6.000 endereços de carteira únicos**.
 
-#### Trading Contests
+#### Concursos de Trading
 
-* Post-CAKE.PAD event trading contests amplify trading activity and visibility.
-* Historically, campaigns see **5x to 10x boost in trading volume**.
+* Os concursos de Trading após o evento CAKE.PAD amplificam a atividade de negociação e a visibilidade.
+* Historicamente, as campanhas veem um **aumento de 5x a 10x no volume de negociação**.
 
-**Note:** PancakeSwap reserves the final right to decide which campaigns to support based on oversubscription and raise amount.
+**Nota:** A PancakeSwap reserva o direito final de decidir quais campanhas apoiar com base na sobresubscrição e no valor captado.

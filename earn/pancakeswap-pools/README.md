@@ -1,109 +1,109 @@
-# 🌊 Liquidity Pools
+# 🌊 Pools de Liquidez
 
-![](../../.gitbook/assets/liquidity-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/liquidity-header.png)
 
 ## Exchange V3 <a href="#id-03e94594-5a75-4687-b260-0dc69574b953" id="id-03e94594-5a75-4687-b260-0dc69574b953"></a>
 
-In the new Exchange V3, liquidity will be managed in the form of non-fungible positions. You will still earn a share in the fees while providing liquidity.
+No novo Exchange V3, a liquidez será gerenciada na forma de posições não fungíveis. Você ainda receberá uma parte das taxas enquanto fornece liquidez.
 
-When you add your token to a Liquidity Pool you will receive Liquidity Provider NFT tokens and share in the fees.
+Quando você adiciona seus tokens a um Pool de Liquidez, receberá tokens NFT de Provedor de Liquidez e participará das taxas.
 
-### **Non-fungible liquidity positions**
+### **Posições de liquidez não fungíveis**
 
-<figure><img src="../../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28238%29.png" alt=""><figcaption></figcaption></figure>
 
-In V3, liquidity providers now have more control over what price range they want to deploy their liquidity. So, when you add your token to a Liquidity Pool in V3, you will create a new non-fungible liquidity position with its unique settings.
+No V3, os provedores de liquidez agora têm mais controle sobre qual faixa de preço desejam implantar sua liquidez. Portanto, ao adicionar seus tokens a um Pool de Liquidez no V3, você criará uma nova posição de liquidez não fungível com suas configurações exclusivas.
 
-Therefore, in V3, liquidity positions are NFTs. Please note that these NFTs are transferable, and they represent the ownership of the underlying assets and the trading fees they earned.
+Portanto, no V3, as posições de liquidez são NFTs. Observe que esses NFTs são transferíveis e representam a propriedade dos ativos subjacentes e das taxas de negociação que geraram.
 
-In V3, trading fees will no longer be automatically compounded in the position. You can manually claim them on each of the position detail pages.
+No V3, as taxas de negociação não serão mais automaticamente compostas na posição. Você pode reivindicá-las manualmente em cada uma das páginas de detalhes da posição.
 
-You can redeem your funds at any time by removing your liquidity.
+Você pode resgatar seus fundos a qualquer momento removendo sua liquidez.
 
-### **Active liquidity and price ranges**
+### **Liquidez ativa e faixas de preço**
 
-In V3, liquidity providers can configure their positions to only provide liquidity when the price is within a certain range. If the trading price moves out of the range, the position will consist of only one type of token in the pair and become inactive.
+No V3, os provedores de liquidez podem configurar suas posições para fornecer liquidez apenas quando o preço estiver dentro de um determinado intervalo. Se o preço de negociação sair do intervalo, a posição consistirá em apenas um tipo de token do par e se tornará inativa.
 
-Inactive liquidity positions will not participate in trading or earn any trading fees.
+As posições de liquidez inativas não participarão das negociações nem gerarão taxas de negociação.
 
-### **Concentrated liquidity**
+### **Liquidez concentrada**
 
-In V3, because of liquidity providers can concentrate their token deposits to provide liquidity only within a specific price range. With the same amount of underlying assets, V3 can support a much bigger trade.
+No V3, os provedores de liquidez podem concentrar seus depósitos de tokens para fornecer liquidez apenas dentro de uma faixa de preço específica. Com a mesma quantidade de ativos subjacentes, o V3 pode suportar uma negociação muito maior.
 
-It results in a much higher relative liquidity level when compared to V2. And liquidity providers can earn more trading fees with the same amount of capital.
+Isso resulta em um nível de liquidez relativa muito maior em comparação ao V2. E os provedores de liquidez podem ganhar mais taxas de negociação com a mesma quantidade de capital.
 
-Here is an example:
+Aqui está um exemplo:
 
-> Baller and Claire both provided liquidity in CAKE/USDT pool with $1,000 USD worth of token assets. The current price of CAKE is 5 USDT.
+> Baller e Claire forneceram liquidez no pool CAKE/USDT com $1.000 USD em ativos de tokens. O preço atual do CAKE é 5 USDT.
 >
-> Similar to PancakeSwap v2, Baller provided his liquidity across the entire price range. Therefore he deposited all of his capital, 500 USDT and 100 CAKE.
+> Similar ao PancakeSwap v2, Baller forneceu sua liquidez em toda a faixa de preço. Portanto, ele depositou todo o seu capital: 500 USDT e 100 CAKE.
 >
-> Claire utilize the new concentrated liquidity feature in PancakeSwap v3 and created a position with a price range of 2 to 12.5 USDT per CAKE. She deposited 185 USDT and 37 CAKE, worth a total of $370. She is now able to spend the remaining $630 elsewhere, like locking CAKE in the Syrup pool to enjoy high CAKE yield while receiving a series of PancakeSwap ecosystem benefits.
+> Claire utiliza o novo recurso de liquidez concentrada do PancakeSwap v3 e criou uma posição com faixa de preço de 2 a 12,5 USDT por CAKE. Ela depositou 185 USDT e 37 CAKE, totalizando $370. Agora ela pode usar os $630 restantes em outro lugar, como bloquear CAKE no Syrup Pool para desfrutar de alto rendimento de CAKE enquanto recebe uma série de benefícios do ecossistema PancakeSwap.
 >
-> As long as CAKE stays within the price range of 2 to 12.5, both Baller and Claire will receive the same amount of trading fee rewards while Claire deposited way less capital to the liquidity pool.
+> Enquanto o CAKE permanecer na faixa de preço de 2 a 12,5, tanto Baller quanto Claire receberão a mesma quantidade de recompensas de taxas de negociação, enquanto Claire depositou muito menos capital no pool de liquidez.
 
-### **Trading fees**&#x20;
+### **Taxas de negociação**&#x20;
 
-Providing liquidity gives you a reward in the form of trading fees when people use your liquidity pool to complete swaps.
+Fornecer liquidez garante uma recompensa na forma de taxas de negociação quando as pessoas usam seu pool de liquidez para realizar swaps.
 
-Whenever someone trades on PancakeSwap, for each hop (swap) in each Exchange V3 liquidity pool, depending on the liquidity pool fee tier, the trader pays a fee ranging from 0.01% to 1%. Their fee rates and fee breakdowns are shown as follows:
+Sempre que alguém negocia na PancakeSwap, para cada salto (swap) em cada pool de liquidez Exchange V3, dependendo do nível de taxa do pool de liquidez, o trader paga uma taxa que varia de 0,01% a 1%. As taxas e seus detalhamentos são mostrados da seguinte forma:
 
 <details>
 
-<summary>Trading Fees (EVM)</summary>
+<summary>Taxas de Negociação (EVM)</summary>
 
-| Fee Component / Fee tier | 0.01% | 0.05% | 0.25% | 1%  |
-| ------------------------ | ----- | ----- | ----- | --- |
-| Liquidity Provider       | 67%   | 66%   | 68%   | 68% |
-| CAKE Burn                | 15%   | 15%   | 23%   | 23% |
-| Treasury                 | 18%   | 19%   | 9%    | 9%  |
+| Componente de Taxa / Nível de taxa | 0,01% | 0,05% | 0,25% | 1%  |
+| ---------------------------------- | ----- | ----- | ----- | --- |
+| Provedor de Liquidez                | 67%   | 66%   | 68%   | 68% |
+| Queima de CAKE                     | 15%   | 15%   | 23%   | 23% |
+| Tesouro                            | 18%   | 19%   | 9%    | 9%  |
 
-For example, in a 0.25% fee tier pool:
+Por exemplo, em um pool com nível de taxa de 0,25%:
 
-* Among all the active (in-range) liquidity positions, there are a total of 10 CAKE and 10 BNB tokens.
-* Someone trades 1 CAKE for 1 BNB.
-* Someone else trades 1 BNB for 1 CAKE.
-* The liquidity providers who are in the range providing active liquidity earned a total of 0.0017 CAKE and 0.0017 BNB from the trades.
-* Positions with price ranges that are not covering the current price, therefore being inactive, will not contribute to trading or earn any fees.
+* Entre todas as posições de liquidez ativas (dentro do intervalo), há um total de 10 CAKE e 10 BNB tokens.
+* Alguém troca 1 CAKE por 1 BNB.
+* Outra pessoa troca 1 BNB por 1 CAKE.
+* Os provedores de liquidez que estão no intervalo fornecendo liquidez ativa ganharam um total de 0,0017 CAKE e 0,0017 BNB com as negociações.
+* Posições com faixas de preço que não cobrem o preço atual, portanto inativas, não contribuirão para a negociação nem ganharão taxas.
 
 </details>
 
 <details>
 
-<summary><strong>Trading fees (Solana)</strong></summary>
+<summary><strong>Taxas de negociação (Solana)</strong></summary>
 
-**Available V3 CLMM Pool Fee Tiers:**\
-0.01%, 0.02%, 0.03%, 0.04%, 0.05%, 0.1%, 0.15%, 0.16%, 0.18%, 0.2%, 0.25%, 0.4%, 0.6%, 0.8%, 1%, 2%, 3%, 4%
+**Níveis de taxa disponíveis para pools V3 CLMM:**\
+0,01%, 0,02%, 0,03%, 0,04%, 0,05%, 0,1%, 0,15%, 0,16%, 0,18%, 0,2%, 0,25%, 0,4%, 0,6%, 0,8%, 1%, 2%, 3%, 4%
 
-**Note:** The fee **distribution remains the same** across all fee tiers.
+**Nota:** A **distribuição de taxas permanece a mesma** em todos os níveis de taxa.
 
-| Fee Component                 | % of Total Swap Fee | Description                                                   |
-| ----------------------------- | ------------------- | ------------------------------------------------------------- |
-| **LPs (Liquidity Providers)** | 84%                 | Earned by LPs who provide liquidity in the active price range |
-| **Burn**                      | 8%                  | Permanently removed to reduce CAKE supply                     |
-| **Treasury**                  | 8%                  | Allocated to the PancakeSwap protocol treasury                |
+| Componente de Taxa                | % da Taxa Total de Swap | Descrição                                                      |
+| --------------------------------- | ----------------------- | -------------------------------------------------------------- |
+| **LPs (Provedores de Liquidez)**  | 84%                     | Ganho pelos LPs que fornecem liquidez na faixa de preço ativa  |
+| **Queima**                        | 8%                      | Removido permanentemente para reduzir o fornecimento de CAKE   |
+| **Tesouro**                       | 8%                      | Alocado ao tesouro do protocolo PancakeSwap                    |
 
-**Example: Fee Distribution in a 0.25% CAKE/SOL Pool**
+**Exemplo: Distribuição de Taxas em um Pool CAKE/SOL de 0,25%**
 
-1. **Pool Setup:** Total active liquidity: 10 CAKE and 10 SOL (in-range positions).
-2. **Swaps Occur:**
-   * User A swaps 1 CAKE → 1 SOL.
-   * User B swaps 1 SOL → 1 CAKE.
-3. **Total Fees Collected:**
-   * 0.25% per trade × 2 trades = **0.005 CAKE + 0.005 SOL**.
-4. **Fee Distribution:**
-   * **84% to LPs:** 0.0042 CAKE + 0.0042 SOL
-   * **8% to Burn:** 0.0004 CAKE + 0.0004 SOL
-   * **8% to Treasury:** 0.0004 CAKE + 0.0004 SOL
-5. **LP Earnings:**
-   * Only **in-range LPs** earn fees. Fees are distributed proportionally based on each LP’s share.
-   * **Out-of-range LPs** earn **no fees**.
+1. **Configuração do Pool:** Liquidez ativa total: 10 CAKE e 10 SOL (posições dentro do intervalo).
+2. **Swaps Realizados:**
+   * Usuário A troca 1 CAKE → 1 SOL.
+   * Usuário B troca 1 SOL → 1 CAKE.
+3. **Total de Taxas Coletadas:**
+   * 0,25% por trade × 2 trades = **0,005 CAKE + 0,005 SOL**.
+4. **Distribuição de Taxas:**
+   * **84% para LPs:** 0,0042 CAKE + 0,0042 SOL
+   * **8% para Queima:** 0,0004 CAKE + 0,0004 SOL
+   * **8% para Tesouro:** 0,0004 CAKE + 0,0004 SOL
+5. **Ganhos dos LPs:**
+   * Apenas os **LPs dentro do intervalo** ganham taxas. As taxas são distribuídas proporcionalmente com base na participação de cada LP.
+   * **LPs fora do intervalo** não ganham **nenhuma taxa**.
 
 </details>
 
-### **Earning CAKE**
+### **Ganhando CAKE**
 
-To make being a liquidity provider even more worth your while, you can also put your liquidity positions to work whipping up some fresh yield on the [CAKE Farms](https://pancakeswap.finance/liquidity/pools), while still earning trading fee rewards.
+Para tornar ainda mais vantajoso ser um provedor de liquidez, você também pode colocar suas posições de liquidez para trabalhar e gerar rendimento fresco nas [CAKE Farms](https://pancakeswap.finance/liquidity/pools), enquanto ainda ganha recompensas de taxas de negociação.
 
 ***
 
@@ -111,26 +111,26 @@ To make being a liquidity provider even more worth your while, you can also put 
 
 ### LP Tokens
 
-<figure><img src="../../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28142%29.png" alt=""><figcaption></figcaption></figure>
 
-As an example, if you deposited **CAKE** and **BNB** into a Liquidity Pool, you'd receive **CAKE-BNB LP** tokens.
+Como exemplo, se você depositou **CAKE** e **BNB** em um Pool de Liquidez, você receberia tokens **CAKE-BNB LP**.
 
-The number of LP tokens you receive represents your portion of the CAKE-BNB Liquidity Pool.
+O número de LP Tokens que você recebe representa sua porção do Pool de Liquidez CAKE-BNB.
 
-You can also redeem your funds at any time by removing your liquidity.
+Você também pode resgatar seus fundos a qualquer momento removendo sua liquidez.
 
-### **Earning trading fees**
+### **Ganhando taxas de negociação**
 
-Whenever someone trades on PancakeSwap, for each hop (swap) in each Exchange V2 liquidity pool, the trader pays a fixed 0.25% fee, **of which 0.17%** is added back to the Liquidity Pool in a form of trading fees.
+Sempre que alguém negocia na PancakeSwap, para cada salto (swap) em cada pool de liquidez Exchange V2, o trader paga uma taxa fixa de 0,25%, **sendo 0,17%** adicionado de volta ao Pool de Liquidez na forma de taxas de negociação.
 
-### **Earning CAKE**
+### **Ganhando CAKE**
 
-The old Exchange V2 will be running in parallel with the new Exchange V3. So, some trading pairs will remain on PancakeSwap Exchange V2 and have their corresponding V2 Farms. Please check the tags to identify the exchange versions.
+O antigo Exchange V2 continuará funcionando em paralelo com o novo Exchange V3. Portanto, alguns pares de negociação permanecerão na PancakeSwap Exchange V2 e terão seus Farms V2 correspondentes. Verifique as etiquetas para identificar as versões do exchange.
 
 
 
-## Impermanent Loss
+## Perda Impermanente
 
-Providing liquidity is not without risk, as you may be exposed to impermanent loss.
+Fornecer liquidez não está isento de riscos, pois você pode estar exposto à perda impermanente.
 
-[“Simply put, impermanent loss is the difference between holding tokens in an AMM and holding them in your wallet.” - Nate Hindman](https://blog.bancor.network/beginners-guide-to-getting-rekt-by-impermanent-loss-7c9510cb2f22)
+["Simplificando, a perda impermanente é a diferença entre manter tokens em um AMM e mantê-los na sua carteira." - Nate Hindman](https://blog.bancor.network/beginners-guide-to-getting-rekt-by-impermanent-loss-7c9510cb2f22)

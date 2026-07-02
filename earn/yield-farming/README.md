@@ -1,52 +1,52 @@
 # 🚜 Yield Farming
 
-![](../../.gitbook/assets/yield-farms-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/yield-farms-header.png)
 
-Yield Farms allow users to earn CAKE while supporting PancakeSwap by staking LP Tokens.
+Os Farms de Yield Farming permitem que os usuários ganhem CAKE enquanto apoiam a PancakeSwap fazendo Staking de LP Tokens.
 
-Check out our [How to Use Farms guide](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) to get started with farming.
+Confira nosso [guia Como Usar os Farms](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) para começar a fazer farming.
 
-Learn [how to find Farm smart contracts](../../archive/how-to-use-farms-with-bscscan.md)
+Saiba [como encontrar contratos inteligentes dos Farms](../../archive/how-to-use-farms-with-bscscan.md)
 
 {% hint style="warning" %}
-Yield farming can give better rewards than Syrup Pools, but it comes with a risk of **Impermanent Loss**. It’s not as scary as it sounds, but it is worth learning about the concept before you get started.
+O Yield Farming pode oferecer recompensas melhores do que os Syrup Pools, mas apresenta o risco de **Perda Impermanente**. Não é tão assustador quanto parece, mas vale a pena aprender o conceito antes de começar.
 
-Check out this great [article about Impermanent Loss ](https://academy.binance.com/en/articles/impermanent-loss-explained)from Binance Academy to learn more.
+Confira este excelente [artigo sobre Perda Impermanente](https://academy.binance.com/en/articles/impermanent-loss-explained) da Binance Academy para saber mais.
 {% endhint %}
 
-## Reward calculations
+## Cálculos de recompensa
 
-Yield Farm APR calculations include both:
+Os cálculos de APR do Yield Farming incluem tanto:
 
-* **LP rewards APR** earned through providing liquidity and;
-* **Farm base rewards APR** earned staking LP Tokens in the Farm.
+* **APR de recompensas LP** ganho ao fornecer liquidez e;
+* **APR de recompensas base do Farm** ganho fazendo Staking de LP Tokens no Farm.
 
-Why? Because when you stake your LP tokens in a farm to earn CAKE, you're still providing liquidity to the liquidity pool, so you earn LP rewards as well!
+Por quê? Porque quando você faz Staking dos seus LP tokens em um farm para ganhar CAKE, você ainda está fornecendo liquidez ao pool de liquidez, portanto também ganha recompensas LP!
 
-![](<../../.gitbook/assets/Frame 1.png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Frame%201.png)
 
-So how do we calculate those figures?
+Então como calculamos esses valores?
 
-### Calculating Farm Base Reward APR
+### Calculando o APR de Recompensa Base do Farm
 
-The **Farm Base APR** is calculated according to the farm multiplier and the total amount of liquidity in the farm -- this is the amount of CAKE distributed to the farm.
+O **APR Base do Farm** é calculado de acordo com o multiplicador do farm e a quantidade total de liquidez no farm — esse é o valor de CAKE distribuído ao farm.
 
-### Calculating LP Reward APR
+### Calculando o APR de Recompensa LP
 
-On top of that, farmers receive **LP rewards** for providing liquidity. Here's an example of calculating **LP rewards**:
+Além disso, os farmers recebem **recompensas LP** por fornecer liquidez. Aqui está um exemplo de cálculo das **recompensas LP**:
 
 ![](https://lh4.googleusercontent.com/rJswz2qvCNTcODcClHxqlLpanSLsfbGtVw75MMPicBN1iKTKCuEYlPuoFAqskoy24DB9JBmATWb8dk3WmY1_BFDZoS94sWTBZhZrcnG711rC8ltDXPR3gdl8D50eWq_cfiBriKcl)
 
-In the WBNB/BUSD pair above, we see these values:
+No par WBNB/BUSD acima, vemos estes valores:
 
-**Liquidity:** $387.42M\
-**Volume 24H:** $96.97M\
-**Volume 7D:** 709.73M
+**Liquidez:** $387,42M\
+**Volume 24H:** $96,97M\
+**Volume 7D:** 709,73M
 
-* Calculate yearly fees
-  * Use the 24H volume to calculate the **fee share** of liquidity providers in the pool (based on the 0.17% trading fee structure):\
-    $96,970,000\*0.17/100 = **$164,849**
-  * Next, use that **fee share** to estimate the projected **yearly fees** earned by the pool (based on the current 24h volume):\
-    $164,849\*365 = **$60,169,885**
-* We can now use the yearly fees to calculate the **LP rewards APR:** That's **yearly fees** divided by **liquidity:**\
-  ($60,169,885/$387,420,000)\*100 = **15.53% LP reward APR**
+* Calcular as taxas anuais
+  * Use o volume de 24H para calcular a **participação nas taxas** dos provedores de liquidez no pool (baseado na estrutura de taxa de negociação de 0,17%):\
+    $96.970.000\*0,17/100 = **$164.849**
+  * Em seguida, use essa **participação nas taxas** para estimar as **taxas anuais projetadas** ganhas pelo pool (com base no volume atual de 24h):\
+    $164.849\*365 = **$60.169.885**
+* Agora podemos usar as taxas anuais para calcular o **APR de recompensas LP:** São as **taxas anuais** divididas pela **liquidez:**\
+  ($60.169.885/$387.420.000)\*100 = **15,53% APR de recompensa LP**

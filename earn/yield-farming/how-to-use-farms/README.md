@@ -1,121 +1,121 @@
 ---
-description: Find, Provide LP, Fram
+description: Encontre, Forneça LP, Faça Farming
 ---
 
-# How to Use Farms
+# Como Usar os Farms
 
-![](../../../.gitbook/assets/how-to-yield-farms-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-yield-farms-header.png)
 
-Yield Farming in Farms is a great way to earn CAKE rewards on PancakeSwap.
+O Yield Farming nos Farms é uma ótima forma de ganhar recompensas de CAKE na PancakeSwap.
 
-Farms require you to stake **two tokens** to provide liquidity and receive either a liquidity position NFT or LP Tokens, which you then stake in the Farm to earn rewards. This lets you earn CAKE while still keeping a position in your other tokens!
+Os Farms exigem que você faça Staking de **dois tokens** para fornecer liquidez e receber um NFT de posição de liquidez ou LP Tokens, que você então coloca em Staking no Farm para ganhar recompensas. Isso permite que você ganhe CAKE enquanto ainda mantém uma posição nos seus outros tokens!
 
 {% hint style="warning" %}
-Yield farming can give better rewards than Syrup Pools or single token staking, but it comes with a risk of **Impermanent Loss**. It’s not as scary as it sounds, but it is worth learning about the concept before you get started.
+O Yield Farming pode oferecer recompensas melhores do que os Syrup Pools ou o Staking de token único, mas apresenta o risco de **Perda Impermanente**. Não é tão assustador quanto parece, mas vale a pena aprender o conceito antes de começar.
 
-Check out this great [article about Impermanent Loss ](https://academy.binance.com/en/articles/impermanent-loss-explained)from Binance Academy to learn more.
+Confira este excelente [artigo sobre Perda Impermanente](https://academy.binance.com/en/articles/impermanent-loss-explained) da Binance Academy para saber mais.
 {% endhint %}
 
-## Find the Pairs to Provide Liquidity
+## Encontre os Pares para Fornecer Liquidez
 
-<figure><img src="../../../.gitbook/assets/image (360).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28360%29.png" alt=""><figcaption></figcaption></figure>
 
-Now with Universal Farm Page, you can find liquidity pairs by tokens, check their fees, volume, APRs, across all the PancakeSwap supported networks, without the need of switching networks in the wallet.
+Agora com a Página Universal de Farms, você pode encontrar pares de liquidez por tokens, verificar suas taxas, volumes e APRs em todas as redes suportadas pela PancakeSwap, sem precisar trocar de rede na carteira.
 
-Head to: [https://pancakeswap.finance/liquidity/pools](https://pancakeswap.finance/liquidity/pools) to start
+Acesse: [https://pancakeswap.finance/liquidity/pools](https://pancakeswap.finance/liquidity/pools) para começar.
 
-#### Features Breakdown
+#### Detalhamento dos Recursos
 
-<figure><img src="../../../.gitbook/assets/image (361).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28361%29.png" alt=""><figcaption></figcaption></figure>
 
-1. All the liquidity pools/pairs that are trending, or have a PancakeSwap farm attached.
-2. All the liquidity positions you have.
-3. All the legacy farms. If you don't find your previously staked farms in "All Pools" try searching here.
-4. On default the page shows farms and tokens from all the supported chains. Use this drop down to filter pools by networks/chains.
-5. Use this dropdown to filter pools by tokens.
-6. Use this tab to filter pools by DEX type.
-7. Click the arrow button on APR, TVL, or VOLUME 24H to order the pools with the selected metrics.
-8. Sections for bCAKE - farm yield booster. [Learn more](../../../welcome-to-pancakeswap/vecake-sunset/bcake/)
-9. Use this link to go back to the legacy farm page if you head into any issue with the new version.
+1. Todos os pools/pares de liquidez que estão em alta ou têm um farm PancakeSwap vinculado.
+2. Todas as posições de liquidez que você possui.
+3. Todos os farms legados. Se você não encontrar seus farms previamente colocados em Staking em "All Pools", pesquise aqui.
+4. Por padrão, a página mostra farms e tokens de todas as redes suportadas. Use este menu suspenso para filtrar pools por redes/cadeias.
+5. Use este menu suspenso para filtrar pools por tokens.
+6. Use esta aba para filtrar pools por tipo de DEX.
+7. Clique no botão de seta em APR, TVL ou VOLUME 24H para ordenar os pools com as métricas selecionadas.
+8. Seções para bCAKE - impulsionador de rendimento do farm. [Saiba mais](../../../welcome-to-pancakeswap/vecake-sunset/bcake/)
+9. Use este link para voltar à página de farm legada se encontrar algum problema com a nova versão.
 
-## Provide LP
+## Fornecer LP
 
-<figure><img src="../../../.gitbook/assets/image (362).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28362%29.png" alt=""><figcaption></figcaption></figure>
 
-Once you find a pair to provide liquidity, click to go to the detail page to check on more info like:
+Depois de encontrar um par para fornecer liquidez, clique para ir para a página de detalhes e verificar mais informações como:
 
 * TVL&#x20;
 * Volume
-* Fees
+* Taxas
 * APR
-* Your Existing Positions
+* Suas Posições Existentes
 
-To create an LP, click "Add Liquidity +" and follow the instructions here:
+Para criar um LP, clique em "Add Liquidity +" e siga as instruções aqui:
 
 {% content-ref url="../../pancakeswap-pools/liquidity-guide.md" %}
 [liquidity-guide.md](../../pancakeswap-pools/liquidity-guide.md)
 {% endcontent-ref %}
 
-## Stake Your Position to Earn
+## Coloque Sua Posição em Staking para Ganhar
 
-<figure><img src="../../../.gitbook/assets/image (363).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28363%29.png" alt=""><figcaption></figcaption></figure>
 
-Once liquidity is added, they will appear in the upper right table. Or in the "My Position" tab.
+Depois de adicionada a liquidez, ela aparecerá na tabela no canto superior direito. Ou na aba "My Position".
 
-* For V3, simply click "Stake" to stake your position and start earning CAKE. As in V3 users can create multiple positions,  you can repeat the above steps to stake multiple positions with different price ranges.
-* For V2 and StableSwap, after clicking "Stake", you need to specify the amount of LP tokens to stake. In most cases you should stake 100% of your LP tokens to maximise your yield.
+* Para V3, basta clicar em "Stake" para colocar sua posição em Staking e começar a ganhar CAKE. Como no V3 os usuários podem criar múltiplas posições, você pode repetir as etapas acima para colocar em Staking múltiplas posições com diferentes faixas de preço.
+* Para V2 e StableSwap, após clicar em "Stake", você precisa especificar a quantidade de LP tokens a colocar em Staking. Na maioria dos casos, você deve colocar 100% dos seus LP tokens em Staking para maximizar seu rendimento.
 
-## Harvest Farming Rewards
+## Colher Recompensas de Farming
 
-<figure><img src="../../../.gitbook/assets/image (364).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28364%29.png" alt=""><figcaption></figcaption></figure>
 
-In the new Universal Farm Page, locating all your farming positions has never been easier. Simply go to "My Positions" and click "Farms only" in the top right corner. All the farming positions will be filtered, regardless of which network you are selecting.
+Na nova Página Universal de Farms, localizar todas as suas posições de farming nunca foi tão fácil. Basta ir em "My Positions" e clicar em "Farms only" no canto superior direito. Todas as posições de farming serão filtradas, independentemente da rede selecionada.
 
-Just like the list of pools/pairs, you may use the toolbar to filter positions by networks/chains, tokens, and DEX type.
+Assim como a lista de pools/pares, você pode usar a barra de ferramentas para filtrar posições por redes/cadeias, tokens e tipo de DEX.
 
-To harvest CAKE rewards from a staked position, simply click "Harvest" and confirm in your wallet popup.
+Para colher recompensas de CAKE de uma posição em Staking, basta clicar em "Harvest" e confirmar no pop-up da sua carteira.
 
-If you have multiple staked positions, you need to harvest them separately.&#x20;
+Se você tiver múltiplas posições em Staking, precisará colhê-las separadamente.&#x20;
 
-## **Add or Remove Liquidity While Staking in a Farm**
+## **Adicionar ou Remover Liquidez Enquanto Faz Staking em um Farm**
 
-In V3, when staking in a farm, you can still add or remove liquidity without unstaking.
+No V3, ao fazer Staking em um farm, você ainda pode adicionar ou remover liquidez sem precisar retirar o Staking.
 
-To do so, simply return to the "My Positions" page, and position you want to adjust.
+Para isso, basta retornar à página "My Positions" e encontrar a posição que deseja ajustar.
 
-<figure><img src="../../../.gitbook/assets/image (365).png" alt="" width="280"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28365%29.png" alt="" width="280"><figcaption></figcaption></figure>
 
-Click on the position title with the token pair, and position ID to open up the position detail page.
+Clique no título da posição com o par de tokens e o ID da posição para abrir a página de detalhes da posição.
 
-Simply use the “Add” or “Remove” button to adjust the liquidity in the staked position.
+Use os botões "Add" ou "Remove" para ajustar a liquidez na posição em Staking.
 
-<figure><img src="../../../.gitbook/assets/image (366).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28366%29.png" alt=""><figcaption></figcaption></figure>
 
-Please note that all the unclaimed CAKE rewards will be harvested and sent to your wallet while adjusting your position.
+Observe que todas as recompensas de CAKE não reivindicadas serão colhidas e enviadas para sua carteira ao ajustar sua posição.
 
-## **Unstake**
+## **Retirar do Staking**
 
-You can unstake a position at any time.
+Você pode retirar uma posição do Staking a qualquer momento.
 
-<figure><img src="../../../.gitbook/assets/image (367).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28367%29.png" alt=""><figcaption></figcaption></figure>
 
-To unstake, simply return to the "My Positions", locate the position, and click:
+Para retirar do Staking, basta retornar a "My Positions", localizar a posição e clicar em:
 
-* "Unstake" (for V3 positions)&#x20;
-* "-" (for V2, StableSwap LPs), and then select the amount to unstake
+* "Unstake" (para posições V3)&#x20;
+* "-" (para LPs V2, StableSwap), e então selecionar a quantidade a retirar do Staking
 
-Then confirm in the wallet pop up. After a short wait, your position NFT or LP tokens will be returned to your wallet, along with all the pending CAKE rewards.
+Em seguida, confirme no pop-up da carteira. Após uma breve espera, seu NFT de posição ou LP tokens serão devolvidos para sua carteira, juntamente com todas as recompensas de CAKE pendentes.
 
-## How often should I harvest my rewards?
+## Com que frequência devo colher minhas recompensas?
 
-How often you harvest your rewards is up to you, but it does help to remember that there is a small fee involved in harvesting.
+A frequência de colheita das recompensas é sua decisão, mas lembre-se de que há uma pequena taxa envolvida na colheita.
 
-You can see this fee in your wallet when confirming after clicking **Harvest**.
+Você pode ver essa taxa na sua carteira ao confirmar após clicar em **Harvest**.
 
-![](<../../../.gitbook/assets/image (281).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28281%29.png)
 
-This shows the fee for harvesting as it appears in the MetaMask wallet. Different wallets will show the information a little differently. Consider leaving your rewards to grow for a while so you pay fees less often.
+Isso mostra a taxa de colheita conforme aparece na carteira MetaMask. Carteiras diferentes mostrarão as informações de forma ligeiramente diferente. Considere deixar suas recompensas crescerem por um tempo para pagar taxas com menos frequência.
 
 
 
-**Happy farming!**
+**Bom farming!**

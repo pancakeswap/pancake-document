@@ -1,95 +1,95 @@
 # 🎁 Pancake Gifts
 
-### 🎯 What is Pancake Gifts?
+### 🎯 O que são os Pancake Gifts?
 
-**Pancake Gifts** lets anyone send tokens — including optional gas — to friends, users, or communities using just a **link** or **QR code**. It’s a simple, secure, and gasless experience for the recipient.
+Os **Pancake Gifts** permitem que qualquer pessoa envie tokens — incluindo gas opcional — para amigos, usuários ou comunidades usando apenas um **link** ou **código QR**. É uma experiência simples, segura e sem gas para o destinatário.
 
-It’s built to make onboarding into crypto as easy as sending a message — no wallet funding, no bridging, no upfront fees.
+Foi criado para tornar a integração ao cripto tão fácil quanto enviar uma mensagem — sem necessidade de financiar Carteira, fazer Bridge ou pagar taxas antecipadas.
 
-### 🤝 Why We Built Pancake Gifts
+### 🤝 Por que Criamos os Pancake Gifts
 
-Onboarding to Web3 is still full of friction. New users often give up before they even get started due to:
+A integração ao Web3 ainda está repleta de atrito. Novos usuários frequentemente desistem antes mesmo de começar devido a:
 
-* **No gas in wallet** → Can’t perform any onchain action
-* **No funds on the correct chain** → Bridging is required before using dApps
-* **Need to buy crypto just to get started** → Requires CEX signup or fiat on-ramp
+* **Sem gas na Carteira** → Não é possível realizar nenhuma ação onchain
+* **Sem fundos na rede correta** → Bridge necessário antes de usar dApps
+* **Precisar comprar cripto apenas para começar** → Requer cadastro em CEX ou rampa fiat
 
-Pancake Gifts eliminates these blockers by:
+Os Pancake Gifts eliminam esses obstáculos ao:
 
-* ✅ **Including native gas tokens** in the gift so recipients can interact instantly
-* ✅ **Sponsoring the gas fee upfront** (sender pays a small fee)
-* ✅ **Enabling claim via a simple link or QR** — no complex onboarding
+* ✅ **Incluir tokens de gas nativos** no presente para que os destinatários possam interagir instantaneamente
+* ✅ **Patrocinar a taxa de gas antecipadamente** (o remetente paga uma pequena taxa)
+* ✅ **Habilitar resgate via link simples ou QR** — sem integração complexa
 
 
 
-It’s a tool for both:
+É uma ferramenta tanto para:
 
-* New users getting started onchain
-* Web3-native communities looking to **boost adoption, reward users, or run campaigns** in a friendlier way
-
-***
-
-### ⚙️ Feature Summary
-
-| Feature                | Description                                                      |
-| ---------------------- | ---------------------------------------------------------------- |
-| **Chain Support**      | BNB Chain (initial launch)                                       |
-| **Gift Code Types**    | Link **or** QR Code                                              |
-| **One-time Use**       | Each code can only be claimed once                               |
-| **Token Support**      | Max 2 tokens: 1 BEP-20 (required), 1 native gas token (optional) |
-| **Custom Amounts**     | Set different values per token                                   |
-| **Gift Claim Gas Fee** | Sender prepays gas (\~$0.05 in BNB)                              |
-| **Gift History**       | Users can view all sent gifts, claim status, expiry              |
-| **Security Checks**    | Fee-on-transfer and complex logic tokens are disallowed          |
-
-### 🚫 Limitations
-
-1. **One gift per code** — Mass gifting is not yet supported.
-2. **Gifts cannot be reinstated** — Once cancelled or expired, they cannot be reused.
-3. **Unsupported tokens are blocked** — Tokens with transfer fees or special logic will show an error on creation.
-4. **Unsuccessful claims are retried** — Backend retries a few times. If still failed, the gift is marked **unclaimable** and must be cancelled manually to retrieve funds.
-5. **Gift must be claimed on the same chain** — e.g. ETH gift must be claimed on Ethereum. Cross-chain claiming is not supported yet.
+* Novos usuários começando onchain
+* Comunidades nativas de Web3 que desejam **aumentar a adoção, recompensar usuários ou executar campanhas** de forma mais amigável
 
 ***
 
-### 🕒 Cancel & Expiry Logic
+### ⚙️ Resumo de Recursos
 
-Gifts follow a defined lifecycle based on status and time:
+| Recurso                      | Descrição                                                              |
+| ---------------------------- | ---------------------------------------------------------------------- |
+| **Suporte a Redes**          | BNB Chain (lançamento inicial)                                         |
+| **Tipos de Código de Presente** | Link **ou** Código QR                                               |
+| **Uso Único**                | Cada código só pode ser resgatado uma vez                              |
+| **Suporte a Tokens**         | Máx. 2 tokens: 1 BEP-20 (obrigatório), 1 token de gas nativo (opcional) |
+| **Valores Personalizados**   | Defina valores diferentes por token                                    |
+| **Taxa de Gas do Resgate**   | Remetente paga o gas antecipadamente (\~$0,05 em BNB)                  |
+| **Histórico de Presentes**   | Usuários podem ver todos os presentes enviados, status de resgate, expiração |
+| **Verificações de Segurança** | Tokens com taxa de transferência e lógica complexa são bloqueados     |
 
-#### Manual Cancel
+### 🚫 Limitações
 
-* The **creator** can cancel any gift that is still **unclaimed** and **within the expiry window**.
-* Tokens (minus the initial Gift Claim Gas Fee) will be returned to the sender.
-* Cancelled gifts **cannot** be reactivated or reused.
-
-#### Auto Expiry
-
-* Gifts **automatically expire** after a user-defined period (default: 7 days).
-* Unclaimed tokens will be **auto-returned** to the sender’s wallet.
-* Expired gifts are also non-reusable.
-
-***
-
-### 🔄 Gift Statuses & What They Mean
-
-| Status          | Description                                                              |
-| --------------- | ------------------------------------------------------------------------ |
-| **Pending**     | Gift has been created and is awaiting claim                              |
-| **Claimed**     | Gift was successfully claimed by a recipient                             |
-| **Cancelled**   | Gift was manually cancelled by the sender                                |
-| **Expired**     | Gift passed the expiry time without being claimed                        |
-| **Unclaimable** | Number of retries exceeded; gift needs to be cancelled to retrieve funds |
+1. **Um presente por código** — Envio em massa ainda não é suportado.
+2. **Presentes não podem ser restaurados** — Uma vez cancelados ou expirados, não podem ser reutilizados.
+3. **Tokens não suportados são bloqueados** — Tokens com taxas de transferência ou lógica especial exibirão um erro na criação.
+4. **Tentativas de resgate mal-sucedidas são repetidas** — O backend tenta novamente algumas vezes. Se ainda falhar, o presente é marcado como **não resgatável** e deve ser cancelado manualmente para recuperar os fundos.
+5. **O presente deve ser resgatado na mesma rede** — ex.: um presente em ETH deve ser resgatado no Ethereum. O resgate cross-chain ainda não é suportado.
 
 ***
 
-### ⚠️ Error Handling & Edge Cases
+### 🕒 Lógica de Cancelamento e Expiração
 
-1. **Unsupported Token**
-   * Gift creation is blocked for tokens with transfer fees or special logic.
-2. **Gas Mismatch**
-   * If **actual claim gas cost ≥** the sender’s prepaid fee, the claim fails automatically to prevent overuse. This will be retried once gas fee levels are within range.
-3. **Failed Claim Attempts**
-   * Retries will be attempted upon first unsuccessful claim.
-   * If still unsuccessful:
-     * Recipient sees “Unclaimable”
-     * Sender must manually cancel the gift to retrieve funds and receipient will have to request or a new gift code.
+Os presentes seguem um ciclo de vida definido com base no status e no tempo:
+
+#### Cancelamento Manual
+
+* O **criador** pode cancelar qualquer presente que ainda esteja **não resgatado** e **dentro do prazo de expiração**.
+* Os tokens (menos a Taxa de Gas do Resgate inicial) serão devolvidos ao remetente.
+* Presentes cancelados **não podem** ser reativados ou reutilizados.
+
+#### Expiração Automática
+
+* Os presentes **expiram automaticamente** após um período definido pelo usuário (padrão: 7 dias).
+* Tokens não resgatados serão **devolvidos automaticamente** à Carteira do remetente.
+* Presentes expirados também não são reutilizáveis.
+
+***
+
+### 🔄 Status dos Presentes e Seus Significados
+
+| Status          | Descrição                                                                      |
+| --------------- | ------------------------------------------------------------------------------ |
+| **Pendente**    | O presente foi criado e aguarda resgate                                        |
+| **Resgatado**   | O presente foi resgatado com sucesso pelo destinatário                         |
+| **Cancelado**   | O presente foi cancelado manualmente pelo remetente                            |
+| **Expirado**    | O presente passou do prazo de expiração sem ser resgatado                      |
+| **Não Resgatável** | Número de tentativas excedido; o presente precisa ser cancelado para recuperar fundos |
+
+***
+
+### ⚠️ Tratamento de Erros e Casos Especiais
+
+1. **Token Não Suportado**
+   * A criação do presente é bloqueada para tokens com taxas de transferência ou lógica especial.
+2. **Incompatibilidade de Gas**
+   * Se o **custo real de gas do resgate ≥** à taxa pré-paga pelo remetente, o resgate falha automaticamente para evitar uso excessivo. Será tentado novamente quando os níveis de taxa de gas estiverem dentro do intervalo.
+3. **Tentativas de Resgate Mal-sucedidas**
+   * Novas tentativas serão feitas após o primeiro resgate mal-sucedido.
+   * Se ainda mal-sucedido:
+     * O destinatário vê "Não Resgatável"
+     * O remetente deve cancelar manualmente o presente para recuperar os fundos e o destinatário terá que solicitar um novo código de presente.

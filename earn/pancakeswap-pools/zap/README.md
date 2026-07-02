@@ -1,103 +1,102 @@
 ---
-description: Adding liquidity in one click
+description: Adicionando liquidez com um clique
 ---
 
 # Zap
 
-### What is Zap <a href="#id-27eed32c-a46a-44f9-98ee-2a3f74e0dadd" id="id-27eed32c-a46a-44f9-98ee-2a3f74e0dadd"></a>
+### O que é o Zap <a href="#id-27eed32c-a46a-44f9-98ee-2a3f74e0dadd" id="id-27eed32c-a46a-44f9-98ee-2a3f74e0dadd"></a>
 
-Zap is a feature that allows you to add liquidity with ease. With Zap, you can provide liquidity with any token you have balance in irrespective of the tokens required in the pool. Simply set the price range, choose the amount to provide, and execute. Your tokens will be automatically balanced to form the liquidity position while being traded in the most efficient way, with the lowest price impact and slippage.
+O Zap é um recurso que permite adicionar liquidez com facilidade. Com o Zap, você pode fornecer liquidez com qualquer token que tenha saldo, independentemente dos tokens exigidos no pool. Basta definir a faixa de preço, escolher o valor a fornecer e executar. Seus tokens serão automaticamente balanceados para formar a posição de liquidez, sendo negociados da forma mais eficiente, com o menor impacto de preço e Slippage.
 
-### Supported Chains
+### Redes Suportadas
 
-* v3 - All pools on BNB Chain, selected pools on Ethereum & Arbitrum networks
-* Infinity - All CLAMM pools (without hook) on BNB Chain
+* v3 - Todos os pools na BNB Chain, pools selecionados nas redes Ethereum e Arbitrum
+* Infinity - Todos os pools CLAMM (sem Hooks) na BNB Chain
 
-### How to Use <a href="#id-438fff0f-f1da-4147-9fe3-6dc1dc2ef352" id="id-438fff0f-f1da-4147-9fe3-6dc1dc2ef352"></a>
+### Como Usar <a href="#id-438fff0f-f1da-4147-9fe3-6dc1dc2ef352" id="id-438fff0f-f1da-4147-9fe3-6dc1dc2ef352"></a>
 
-For now, Zap supports:
+Por enquanto, o Zap suporta:
 
-* 🆕 Any token!
-* Using single token
-* 🆕 Using duo tokens
-* 🆕 Or... using multiple tokens (yes it's can be used like dust collector)
+* 🆕 Qualquer token!
+* Usando token único
+* 🆕 Usando dois tokens
+* 🆕 Ou... usando múltiplos tokens (sim, pode ser usado como coletor de dust)
 
-#### Start <a href="#e43d56cd-978e-4503-8b7a-974428d4142c" id="e43d56cd-978e-4503-8b7a-974428d4142c"></a>
+#### Iniciar <a href="#e43d56cd-978e-4503-8b7a-974428d4142c" id="e43d56cd-978e-4503-8b7a-974428d4142c"></a>
 
-<figure><img src="../../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%283%29%20%282%29.png" alt=""><figcaption></figcaption></figure>
 
-To use Zap, simply go to Add Liquidity page, select the trading pair you want to provide liquidity to, fee tier, and the price range.
+Para usar o Zap, basta ir para a página Adicionar Liquidez, selecionar o par de negociação para o qual deseja fornecer liquidez, o nível de taxa e a faixa de preço.
 
-Then select the token amount you want to provide liquidity to.
+Em seguida, selecione a quantidade de tokens que deseja fornecer como liquidez.
 
-Option to Zap will automatically appear when one or more tokens are short on balance.
+A opção de Zap aparecerá automaticamente quando um ou mais tokens tiverem saldo insuficiente.
 
-Click the link to bring up the Zap modal.
+Clique no link para abrir o modal do Zap.
 
-#### Initiate Zap <a href="#d65281e2-90db-4280-afd0-f24157c88a9b" id="d65281e2-90db-4280-afd0-f24157c88a9b"></a>
+#### Iniciar Zap <a href="#d65281e2-90db-4280-afd0-f24157c88a9b" id="d65281e2-90db-4280-afd0-f24157c88a9b"></a>
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%282%29.png" alt=""><figcaption></figcaption></figure>
 
-Within the new “Zap in” modal. You may find the following fields:
+No novo modal "Zap in", você pode encontrar os seguintes campos:
 
-1. The trading pair you are Zapping (providing liquidity) to.
-2. The deposit token(s) and the amount(s) to deposit. You may freely add in or remove any tokens for the Zap.
-3. The price range of the new position. You may also click the arrows to flip between different price displays.
-4. A detailed breakdown of how the Zap feature will handle your deposit tokens.
-5. A summary of the stats including:
-   1. Estimated value in USD for the new liquidity position.
-   2. Estimate token amount in the new liquidity position.
-   3. Estimated leftover funds in USD after Zapping. In most cases it should be 0. If the liquidity pool or the tokens have very little liquidity, this value may increase.
-   4. The price impact for the token swaps and rebalances while Zapping.
-   5. The price impact for the liquidity adding and position building.
-   6. Zap fee. Depending on the liquidity pair, fee rate may vary.
+1. O par de negociação para o qual você está fazendo Zap (fornecendo liquidez).
+2. O(s) token(s) de depósito e o(s) valor(es) a depositar. Você pode adicionar ou remover tokens livremente para o Zap.
+3. A faixa de preço da nova posição. Você também pode clicar nas setas para alternar entre diferentes exibições de preço.
+4. Um detalhamento de como o recurso Zap tratará seus tokens de depósito.
+5. Um resumo das estatísticas incluindo:
+   1. Valor estimado em USD para a nova posição de liquidez.
+   2. Quantidade estimada de tokens na nova posição de liquidez.
+   3. Fundos sobrando estimados em USD após o Zap. Na maioria dos casos, deve ser 0. Se o pool de liquidez ou os tokens tiverem muito pouca liquidez, esse valor pode aumentar.
+   4. O impacto de preço para os swaps e rebalanceamentos de tokens durante o Zap.
+   5. O impacto de preço para a adição de liquidez e construção de posição.
+   6. Taxa do Zap. Dependendo do par de liquidez, a taxa pode variar.
 
 {% hint style="warning" %}
-Note that you may need to reconfigure the amount to Zap based on your available balance. If you don't have balance on one of the tokens, please remove them.
+Observe que pode ser necessário reconfigurar o valor do Zap com base no saldo disponível. Se você não tiver saldo em um dos tokens, remova-os.
 {% endhint %}
 
 {% hint style="info" %}
-You may notice that the settings from “Add V3 Liquidity” are automatically carried to the Zap modal. Including the deposit amount and price range settings.
+Você pode notar que as configurações de "Add V3 Liquidity" são automaticamente transferidas para o modal do Zap, incluindo o valor do depósito e as configurações de faixa de preço.
 {% endhint %}
 
-#### Start Zapping <a href="#id-6cc5fa08-d336-46d9-8fdd-199bcbae8267" id="id-6cc5fa08-d336-46d9-8fdd-199bcbae8267"></a>
+#### Iniciando o Zap <a href="#id-6cc5fa08-d336-46d9-8fdd-199bcbae8267" id="id-6cc5fa08-d336-46d9-8fdd-199bcbae8267"></a>
 
-<figure><img src="../../../.gitbook/assets/image (2) (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%282%29%20%282%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Finally click “Approve” and confirm in the wallet popup for token allowance.
+Por fim, clique em "Approve" e confirme no pop-up da carteira para a permissão de token.
 
-Then, click “Preview” to bring up the final confirmation modal. Before proceeding, please kindly review all the stats and estimates shown in the final confirmations modal. Especially the impact figures and max slippage.
+Em seguida, clique em "Preview" para abrir o modal de confirmação final. Antes de prosseguir, revise todas as estatísticas e estimativas mostradas no modal de confirmação final. Especialmente os valores de impacto e Slippage máximo.
 
-Finally, click “Add Liquidity” and confirm in your wallet popup.
+Por fim, clique em "Add Liquidity" e confirme no pop-up da sua carteira.
 
-After the tx is confirmed, you shall see your shiny new position in “My Position” page
+Após a transação ser confirmada, você verá sua nova posição na página "My Position".
 
-<figure><img src="../../../.gitbook/assets/image (3) (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%283%29%20%282%29%20%281%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-#### More Settings <a href="#id-217348b6-db9d-4336-9060-d8cbd8171cd9" id="id-217348b6-db9d-4336-9060-d8cbd8171cd9"></a>
+#### Mais Configurações <a href="#id-217348b6-db9d-4336-9060-d8cbd8171cd9" id="id-217348b6-db9d-4336-9060-d8cbd8171cd9"></a>
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%284%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-If you want to further customise your Zap experience. Simply click the gear icon in top right hand corner. In the settings, you may configure:
+Se quiser personalizar ainda mais sua experiência de Zap, basta clicar no ícone de engrenagem no canto superior direito. Nas configurações, você pode configurar:
 
-* The max slippage while zapping.
-* The timeline on the transaction deadline.
-* Whether to use KyberSwap’s aggregated liquidity to perform token rebalance. Toggle this off if you only want to trade in PancakeSwap Pools.
-* Degen mode can be used to perform super high slippage Zaps. Not recommended for normal use cases, use it at your own risk.
+* O Slippage máximo durante o Zap.
+* O prazo da transação.
+* Se deseja usar a liquidez agregada do KyberSwap para realizar o rebalanceamento de tokens. Desative isso se quiser negociar apenas nos Pools PancakeSwap.
+* O modo Degen pode ser usado para realizar Zaps com Slippage muito alto. Não recomendado para uso normal; use por sua conta e risco.
 
 {% hint style="warning" %}
-Please note that the Slippage and Deadline settings are independent to the Swap and Liquidity page.
+Observe que as configurações de Slippage e Prazo são independentes da página de Swap e Liquidez.
 {% endhint %}
 
-#### Zap in using duo tokens
+#### Zap com dois tokens
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29%20%281%29%20%281%29%20%281%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Now you may Zap in your liquidity with duo tokens. This is useful when your available balance is not matching with the price settings, and the required token amount and ratio it is calling for. Simply Zap, and the ratio will be automatically rebalanced.
+Agora você pode fazer Zap com dois tokens. Isso é útil quando seu saldo disponível não corresponde às configurações de preço e à quantidade e proporção de tokens exigida. Basta usar o Zap e a proporção será automaticamente rebalanceada.
 
-#### Zap in using many tokens
+#### Zap com muitos tokens
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%282%29%20%281%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Yes it works just like a dust token collector. It is suitable for cleaning up small balances in your wallet, and put them into a position to start earning from trading fees.&#x20;
-
+Sim, funciona como um coletor de tokens dust. É adequado para limpar pequenos saldos na sua carteira e colocá-los em uma posição para começar a ganhar com taxas de negociação.&#x20;

@@ -1,25 +1,25 @@
 # FAQ
 
-## What is MEV and Sandwich Attack?
+## O que é MEV e Ataque Sandwich?
 
-MEV (Maximal Extractable Value) refers to the additional profit can earn by reordering or including transactions within a block.
+MEV (Maximal Extractable Value — Valor Máximo Extraível) refere-se ao lucro adicional que pode ser obtido reordenando ou incluindo transações dentro de um bloco.
 
-A sandwich attack is a specific type of MEV attack where an attacker places one transaction before and one after a target transaction to manipulate the price of an asset for profit. This results in increased costs or worse outcomes for the victim.
+Um ataque sandwich é um tipo específico de ataque MEV onde um atacante coloca uma transação antes e outra depois de uma transação-alvo para manipular o preço de um ativo com fins lucrativos. Isso resulta em custos maiores ou piores resultados para a vítima.
 
-## What is an MEV protected RPC endpoint?
+## O que é um endpoint RPC protegido contra MEV?
 
-It is a specialized gateway for interacting with a blockchain that helps safeguard users against MEV (Maximal Extractable Value) exploitation, such as sandwich attacks.
+É um gateway especializado para interagir com um blockchain que ajuda a proteger os usuários contra exploração de MEV (Maximal Extractable Value), como ataques sandwich.
 
-## How does MEV Guard protect me from attacks?
+## Como o MEV Guard me protege de ataques?
 
-The endpoint routes transactions through private relays, along with other protection mechanisms to ensure that users’ transactions are processed securely and without interference, reducing the risk of slippage, price manipulation, or lost value.
+O endpoint roteia as transações por meio de relays privados, juntamente com outros mecanismos de proteção, para garantir que as transações dos usuários sejam processadas com segurança e sem interferência, reduzindo o risco de Slippage, manipulação de preços ou perda de valor.
 
-## How do I Install MEV Guard?
+## Como instalo o MEV Guard?
 
-Follow the page instructions to switch or add the MEV protected endpoint to your wallet.
+Siga as instruções da página para trocar ou adicionar o endpoint protegido contra MEV à sua Carteira.
 
-If you are using MetaMask, it can be done via clicking the button. If you are using other wallets, please refer to the detail guides to add the network manually.
+Se você estiver usando MetaMask, isso pode ser feito clicando no botão. Se você estiver usando outras Carteiras, consulte os guias detalhados para adicionar a rede manualmente.
 
-## How do I disable or remove MEV Guard?
+## Como desativo ou removo o MEV Guard?
 
-If you are using MetaMask, simply switch your rpc endpoint back to the regular public nodes. If you are using other wallets, please refer to the detail guides to switch the network back to public nodes manually.
+Se você estiver usando MetaMask, basta trocar seu endpoint RPC de volta para os nós públicos regulares. Se você estiver usando outras Carteiras, consulte os guias detalhados para trocar a rede de volta para os nós públicos manualmente.
