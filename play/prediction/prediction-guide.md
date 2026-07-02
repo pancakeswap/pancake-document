@@ -1,152 +1,152 @@
-# How to Use Prediction
+# Как пользоваться Прогнозом
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-porediction-header.png)
 
-Playing PancakeSwap’s Prediction lets you test your foresight to earn rewards. Use your market knowledge or gut feeling to predict if the BNBUSD, BTCUSD or ETHUSD price will go up or down in the near future. Get it right and you’ll collect a share of the round’s prize pool!
+Игра в Прогноз PancakeSwap позволяет проверить свою интуицию и заработать награды. Используй знания рынка или чутьё, чтобы предсказать, вырастет или упадёт цена BNBUSD, BTCUSD или ETHUSD в ближайшем будущем. Угадаешь — получишь долю призового фонда раунда!
 
-## Switch between two prediction markets
+## Переключение между двумя рынками прогнозов
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28453%29.png" alt=""><figcaption></figcaption></figure>
 
-PancakeSwap offers three separate prediction markets for every player to choose from (BNBUSD, BTCUSD, ETHUSD). All these markets accepts BNB as the betting asset.
+PancakeSwap предлагает три отдельных рынка прогнозов на выбор (BNBUSD, BTCUSD, ETHUSD). Все эти рынки принимают BNB в качестве актива для ставок.
 
-To switch between two prediction markets, simply click or tap the currency switcher on the top left corner.
+Чтобы переключиться между рынками прогнозов, просто нажми на переключатель валют в левом верхнем углу.
 
-## Making a prediction for the next round
+## Прогноз на следующий раунд
 
-The Prediction page shows quite a bit of information. Predictions operate in 5 minute rounds. Make your prediction before a round goes live to join in.
+На странице Прогноза отображается довольно много информации. Прогнозы работают раундами по 5 минут. Сделай прогноз до начала раунда, чтобы принять в нём участие.
 
-### Checking the timer
+### Проверка таймера
 
-To enter a round of Prediction, you'll want to check how long is left in the current round. You'll find the timer in the top-right area.
+Чтобы войти в раунд Прогноза, нужно узнать, сколько времени осталось до конца текущего раунда. Таймер находится в правом верхнем углу.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28147%29.png)
 
-If the timer is too low your prediction may not confirm in time, so check there's still plenty of time left before you make a prediction (30 seconds should be plenty, but give yourself more time if you're following along with this guide).
+Если таймер слишком мал, твой прогноз может не успеть подтвердиться, поэтому убедись, что до конца раунда ещё достаточно времени (30 секунд должно хватить, но лучше заложи больше, если читаешь это руководство по ходу).
 
-### Predicting the next round
+### Прогноз на следующий раунд
 
-When you're sure you have enough time, you can place your prediction for the next round.
+Когда убедишься, что времени достаточно, можно сделать ставку на следующий раунд.
 
-1\. In the "Next" section you'll see a green **Enter UP** button and a red **Enter DOWN** button. Click **Enter UP** if you want to predict a rise in price, and click **Enter DOWN** if you want to predict a drop in price.
+1\. В секции «Next» ты увидишь зелёную кнопку **Enter UP** и красную кнопку **Enter DOWN**. Нажми **Enter UP**, если хочешь предсказать рост цены, и **Enter DOWN** — если падение.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2830%29.png)
 
-Each will have a different reward multiplier. The multiplier will change over time as the "Prize Pool" increases depending on people's predictions. The Prize Pool is shown just above the buttons.
+У каждой кнопки будет свой множитель вознаграждения. Множитель будет меняться по мере роста «Призового фонда» в зависимости от ставок участников. Призовой фонд отображается прямо над кнопками.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2858%29.png)
 
-We'll choose **Enter UP** for this example.
+В этом примере мы выберем **Enter UP**.
 
-2\. A new window will open. In the window, you'll see "Commit" to commit BNB for your prediction. Type the number of tokens you would like to commit to your prediction for this round in the field. You can also use the bunny slider or click the percent buttons if you prefer.
+2\. Откроется новое окно. В нём ты увидишь поле «Commit» для внесения BNB в качестве прогноза. Введи количество токенов, которые хочешь поставить в этом раунде. Можно также воспользоваться ползунком зайчика или кнопками с процентами.
 
-Before placing your first bet, you may need to click "Enable" to approve BNB.
+Перед первой ставкой может потребоваться нажать «Enable», чтобы подтвердить работу с BNB.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28172%29.png)
 
-3\. Once you've decided the amount to commit, click **Confirm** and confirm your action in your wallet.
+3\. Определившись с суммой, нажми **Confirm** и подтверди действие в своём кошельке.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28111%29.png)
 
-The confirm button will fade out as your transaction confirms. This short wait is why we checked the round timer earlier to make sure we would have time to make our prediction.
+Кнопка подтверждения потускнеет, пока транзакция обрабатывается. Именно поэтому мы заранее проверили таймер раунда — чтобы убедиться, что успеем сделать прогноз.
 
-4\. After your transaction confirms, an "ENTERED" message will appear.
+4\. После подтверждения транзакции появится сообщение «ENTERED».
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2875%29.png)
 
-There's nothing left to do now but wait for your Prediction round to go live.
+Теперь остаётся только ждать начала раунда Прогноза.
 
-## While your entered round is live
+## Пока твой раунд идёт в прямом эфире
 
-A live round will last for 5 minutes. You can watch the price update during the 5 minutes if you'd like.&#x20;
+Активный раунд длится 5 минут. Если хочешь, можешь наблюдать за изменением цены в течение этих 5 минут.&#x20;
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28155%29.png)
 
-You cannot change your prediction during a live round, however. You are locked into your prediction from earlier.
+Изменить прогноз во время активного раунда нельзя — ты зафиксирован на своём прогнозе с момента его размещения.
 
-## Once your entered round finishes
+## После завершения твоего раунда
 
-After 5/10 minutes as the live round, your entered round will finish. Everything is automatic, so there's nothing you need to do to end the round.
+По истечении 5/10 минут активного раунда твой раунд завершится. Всё происходит автоматически, никаких дополнительных действий для завершения раунда не требуется.
 
-### Seeing the results
+### Просмотр результатов
 
-1\. As the 5 minutes finish, the "LIVE" section will change to "Calculating". Calculating the results only takes a moment.
+1\. По истечении 5 минут секция «LIVE» изменится на «Calculating». Подсчёт результатов занимает совсем немного времени.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28125%29.png)
 
-2\. After a short wait, the finished round will move left and say "Expired". The result of the round will display with either UP colored in green, or DOWN colored in red.
+2\. После небольшого ожидания завершённый раунд сдвинется влево и отобразится как «Expired». Результат раунда будет показан: UP — зелёным цветом, DOWN — красным.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28179%29.png)
 
-3\. If you've been busy and missed the results, you can scroll back a few rounds by clicking the **left arrow** on the purple bunny cards.
+3\. Если ты был занят и пропустил результаты, можно прокрутить назад на несколько раундов, нажав **стрелку влево** на карточках с фиолетовым зайчиком.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2899%29.png)
 
-### Seeing results for older rounds
+### Просмотр результатов более ранних раундов
 
-If you want to see the results for rounds you've entered that are older than a few rounds, you'll need to follow the steps below to find the results.
+Если ты хочешь посмотреть результаты раундов, в которых участвовал давно, следуй инструкции ниже.
 
-1\. Click on the **reversing clock icon** next to the round timer.
+1\. Нажми на **иконку часов с обратным ходом** рядом с таймером раунда.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28135%29.png)
 
-2\. A "History" panel will open. By default, you should see your most recent round at the top of the list. Click anywhere on the round to see more information.
+2\. Откроется панель «History». По умолчанию вверху списка отображается твой последний раунд. Нажми на любой раунд, чтобы увидеть подробную информацию.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28105%29.png)
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28208%29.png)
 
-### Collecting any winnings
+### Получение выигрыша
 
-1\. If you won your entered round, a **Collect Winnings** button will appear next to a gold trophy. Click the button.
+1\. Если ты выиграл в своём раунде, рядом с золотым кубком появится кнопка **Collect Winnings**. Нажми её.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2851%29.png)
 
-2\. A new window will appear showing the amount of winnings you can collect with a **Confirm** button. Click the button and confirm the action in your wallet.
+2\. Откроется новое окно с суммой выигрыша и кнопкой **Confirm**. Нажми кнопку и подтверди действие в кошельке.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28214%29.png)
 
-Your token winnings will now be in your wallet.
+Выигранные токены теперь находятся в твоём кошельке.
 
-### Collecting winnings from older rounds
+### Получение выигрыша за более ранние раунды
 
-Sometimes you may be away from PancakeSwap's Prediction page for a while or may have forgotten to collect winnings from older rounds. You can still collect winnings owed to you from older rounds at any time.
+Иногда ты можешь отсутствовать на странице Прогноза PancakeSwap или забыть забрать выигрыш за прошлые раунды. Ты можешь получить причитающийся выигрыш за более ранние раунды в любое время.
 
-1\. Find more information on past rounds you've entered by clicking on the **reversing clock icon** next to the round timer.
+1\. Найди информацию о прошлых раундах, в которых ты участвовал, нажав на **иконку часов с обратным ходом** рядом с таймером раунда.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28135%29.png)
 
-2\. A "History" panel will open. You can click "Uncollected" to view all rounds you've not collected the winnings for yet (click a the transaction if you want to see more details). Click the **Collect** button.
+2\. Откроется панель «History». Нажми «Uncollected», чтобы просмотреть все раунды, выигрыш за которые ещё не получен (нажми на транзакцию, чтобы узнать подробности). Затем нажми кнопку **Collect**.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28132%29.png)
 
-3\. A new window will appear showing the amount of winnings you can collect with a **Confirm** button. Click the button and confirm the action in your wallet.
+3\. Откроется новое окно с суммой выигрыша и кнопкой **Confirm**. Нажми кнопку и подтверди действие в кошельке.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28214%29.png)
 
-Your winnings will now be in your wallet.
+Выигрыш теперь находится в твоём кошельке.
 
-## Viewing historic profit and loss data
+## Просмотр исторических данных о прибылях и убытках
 
-If you'd like to see how you've done overall in Prediction, you can view PNL (Profit and Loss) data whenever you'd like.
+Если хочешь посмотреть свои общие результаты в Прогнозе, можно в любой момент просмотреть данные PNL (прибыль и убытки).
 
-1\. On the Prediction page, click the **reversing clock icon** next to the round timer. A "History" panel will open.
+1\. На странице Прогноза нажми **иконку часов с обратным ходом** рядом с таймером раунда. Откроется панель «History».
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28135%29.png)
 
-2\. On the history panel, click the **PNL** tab.
+2\. На панели истории нажми вкладку **PNL**.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28323%29.png)
 
-The tab will open with stats for your historic performance in Prediction, including your net results, average return, best round, and other information.
+Вкладка откроется со статистикой твоих исторических результатов в Прогнозе: чистые результаты, средняя доходность, лучший раунд и другая информация.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28194%29.png)
 
-3\. You can click the **View Reclaimed & Won** button at the bottom of the PNL tab to view those transactions on the BscScan explorer.
+3\. Можно нажать кнопку **View Reclaimed & Won** внизу вкладки PNL, чтобы просмотреть эти транзакции в обозревателе BscScan.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28192%29.png)
 
-That's all there is to using Prediction. Good luck making the right calls!
+Вот и всё, что нужно знать о Прогнозе. Удачи в твоих предсказаниях!
 
 
 

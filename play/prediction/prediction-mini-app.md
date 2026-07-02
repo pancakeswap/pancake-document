@@ -1,65 +1,65 @@
 # Prediction Mini App
 
-### What is mini app?
+### Что такое мини-приложение?
 
-Telegram mini app allows you to quickly access PancakeSwap features within Telegram.
+Telegram мини-приложение позволяет быстро получить доступ к функциям PancakeSwap прямо в Telegram.
 
-### How to connect my wallet?
+### Как подключить кошелёк?
 
 {% tabs %}
 {% tab title="Desktop" %}
-**Use MetaMask**
+**Использование MetaMask**
 
-You can connect your mobile MetaMask wallet to the desktop Telegram mini app using QR code. To connect, choose “MetaMask”, click “Mobile”, and scan the QR code using MetaMask on your phone.
+Ты можешь подключить мобильный кошелёк MetaMask к десктопному Telegram мини-приложению с помощью QR-кода. Для подключения выбери «MetaMask», нажми «Mobile» и отсканируй QR-код с помощью MetaMask на телефоне.
 
-**Use WalletConnect**
+**Использование WalletConnect**
 
-You can connect any mobile wallet to the desktop Telegram mini app using QR code. To connect, choose “WalletConnect”, click QR code, and scan the QR code using the mobile on your phone.
+Ты можешь подключить любой мобильный кошелёк к десктопному Telegram мини-приложению с помощью QR-кода. Для подключения выбери «WalletConnect», нажми на QR-код и отсканируй его с помощью мобильного телефона.
 
 {% hint style="warning" %}
-“Desktop” option for MetaMask is not functional. You can only connect mobile MetaMask to desktop Telegram mini app.
+Опция «Desktop» для MetaMask не работает. К десктопному Telegram мини-приложению можно подключить только мобильный MetaMask.
 {% endhint %}
 {% endtab %}
 
 {% tab title="iPhone" %}
-**Use MetaMask**
+**Использование MetaMask**
 
-You can connect your MetaMask wallet to your Telegram mini app. To connect, choose “MetaMask”. If a prompt appear to ask if you want to be taken to the MetaMask app, click Open. Then follow the instructions in the MetaMask app to connect.
+Ты можешь подключить кошелёк MetaMask к Telegram мини-приложению. Для подключения выбери «MetaMask». Если появится запрос о переходе в приложение MetaMask, нажми «Open». Затем следуй инструкциям в приложении MetaMask для подключения.
 
-**Use WalletConnect**
+**Использование WalletConnect**
 
-You can connect any supported mobile wallet to your Telegram mini app. To connect, choose “WalletConnect”, click “View All”, and select your wallet. If a prompt appear to ask if you want to be taken to the wallet app, click Open. Then follow the instructions in the wallet app to connect.
+Ты можешь подключить любой поддерживаемый мобильный кошелёк к Telegram мини-приложению. Для подключения выбери «WalletConnect», нажми «View All» и выбери свой кошелёк. Если появится запрос о переходе в приложение кошелька, нажми «Open». Затем следуй инструкциям в приложении кошелька для подключения.
 {% endtab %}
 
 {% tab title="Android" %}
-**Use MetaMask**
+**Использование MetaMask**
 
-You can connect your MetaMask wallet to your Telegram mini app. To connect, choose “MetaMask”. You will be redirected to MetaMask, then simply follow the instructions in the MetaMask app to connect.
+Ты можешь подключить кошелёк MetaMask к Telegram мини-приложению. Для подключения выбери «MetaMask». Ты будешь перенаправлен в MetaMask — просто следуй инструкциям в приложении MetaMask для подключения.
 
-**Use WalletConnect**
+**Использование WalletConnect**
 
-You can connect any supported mobile wallet to your Telegram mini app. To connect, choose “WalletConnect”, click “View All”, and select your wallet. You will be redirected to the wallet app, then follow the instructions in the wallet app to connect.
+Ты можешь подключить любой поддерживаемый мобильный кошелёк к Telegram мини-приложению. Для подключения выбери «WalletConnect», нажми «View All» и выбери свой кошелёк. Ты будешь перенаправлен в приложение кошелька — следуй инструкциям для подключения.
 
 {% hint style="warning" %}
-Wallet Connect may not work on some of the Android phones. In that case, please connect via other methods.
+WalletConnect может не работать на некоторых Android-устройствах. В этом случае воспользуйся другими способами подключения.
 {% endhint %}
 {% endtab %}
 {% endtabs %}
 
-### Which PancakeSwap Market is supported?
+### Какой рынок PancakeSwap поддерживается?
 
-Currently the mini app supports the BNBUSD market on BNB Chain.
+На данный момент мини-приложение поддерживает рынок BNBUSD на BNB Chain.
 
-### How do I sign and confirm transactions for mini app?
+### Как подписывать и подтверждать транзакции в мини-приложении?
 
-You will need to sign and execute transactions in your connected wallet app.
+Для подписи и выполнения транзакций нужно использовать подключённое приложение кошелька.
 
 {% hint style="warning" %}
-On iPhone, you may need to manually switch between wallet apps and Telegram. Please follow the onscreen instructions.
+На iPhone может потребоваться вручную переключаться между приложениями кошелька и Telegram. Следуй инструкциям на экране.
 {% endhint %}
 
-### Can I use my extension wallets on Desktop?
+### Можно ли использовать расширения кошелька на десктопе?
 
-Unfortunately Telegram mini app only supports mobile wallets at the moment.
+К сожалению, Telegram мини-приложение на данный момент поддерживает только мобильные кошельки.
 
 <br>

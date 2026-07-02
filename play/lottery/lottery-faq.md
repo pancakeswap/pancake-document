@@ -1,80 +1,80 @@
-# Lottery FAQ
+# FAQ по Лотерее
 
-## What if there are no winners?
+## Что если нет победителей?
 
-If CAKE in the prize pools isn't won it doesn't go to waste! Unclaimed CAKE rolls over to the next Lottery round.
+Если CAKE из призового фонда не выигран, он не пропадает! Невостребованный CAKE переходит в следующий раунд Лотереи.
 
-## My ticket matches several numbers but I can't claim a prize
+## Мой билет совпадает по нескольким числам, но я не могу получить приз
 
-Tickets are only eligible for prizes if matching numbers from left to right. See the [Lottery v2 documentation](./) for a thorough explanation.
+Билеты имеют право на призы только при совпадении чисел слева направо. Смотри [документацию Lottery v2](./) для подробного объяснения.
 
-## How is Lottery v2 different from Lottery v1?
+## Чем Lottery v2 отличается от Lottery v1?
 
-Lottery v2 distributes prizes more widely than Lottery v1. It gives each ticket a 1 in 10 chance to match the first number, which means more tickets will at least win a small prize. It also has 6 (up from 4) numbers that need to be matched sequentially to win the biggest prize.
+Lottery v2 распределяет призы шире, чем Lottery v1. Она даёт каждому билету шанс 1 из 10 совпасть по первому числу, то есть больше билетов выиграют хотя бы небольшой приз. Также увеличено количество чисел для последовательного совпадения с 4 до 6, необходимых для получения наибольшего приза.
 
-Overall this means more tickets can win a prize, but the largest prize jackpot will be won less frequently, making for huge top prize pools!
+В целом это означает, что больше билетов может выиграть приз, но самый крупный джекпот будет выигрываться реже — что приводит к огромным первым призам!
 
-**Lottery v2 introduces:**
+**Lottery v2 вводит:**
 
-* cheaper ticket prices (\~$5 USD in CAKE per ticket) that don't swing wildly with the price of CAKE
-* bulk ticket discounts
-* 6-tiered prize pool brackets with increasing prize pools as more numbers are matched
-* manual number selection (optional), so users can use their lucky numbers
-* [Chainlink’s implementation of VRF](https://docs.chain.link/docs/chainlink-vrf/) for true, secure randomness
-* lower overall fees (see [lower down this page](lottery-faq.md#what-transaction-fee-will-i-pay-for-buying-tickets) for more information)
+* более низкие цены на билеты (~$5 USD в CAKE за билет), которые не колеблются резко вместе с ценой CAKE
+* скидки при оптовой покупке
+* 6-уровневые категории призового фонда с возрастающими суммами по мере совпадения большего числа чисел
+* ручной выбор чисел (по желанию), позволяющий использовать счастливые числа
+* [реализацию VRF от Chainlink](https://docs.chain.link/docs/chainlink-vrf/) для настоящей, безопасной случайности
+* меньшие общие комиссии (подробнее [ниже на этой странице](lottery-faq.md#what-transaction-fee-will-i-pay-for-buying-tickets))
 
-[Learn more about Lottery v2 features, gameplay, and prizes](./)
+[Узнай больше о функциях, игровом процессе и призах Lottery v2](./)
 
-## How are prizes broken down between brackets?
+## Как призы распределяются между категориями?
 
-Each bracket's prize pool is a portion of the total CAKE in each Lottery round.
+Призовой фонд каждой категории — это доля от общего количества CAKE в каждом раунде Лотереи.
 
-* | Bracket (numbers matched in order) | CAKE Allocation |
-  | ---------------------------------- | --------------- |
-  | First 1 number                     | 2%              |
-  | First 2 numbers                    | 3%              |
-  | First 3 numbers                    | 5%              |
-  | First 4 numbers                    | 10%             |
-  | First 5 numbers                    | 20%             |
-  | First 6 numbers                    | 40%             |
-  | Burn                               | 20%             |
+* | Категория (числа, совпавшие по порядку) | Доля CAKE |
+  | --------------------------------------- | --------- |
+  | Первое 1 число                          | 2%        |
+  | Первые 2 числа                          | 3%        |
+  | Первые 3 числа                          | 5%        |
+  | Первые 4 числа                          | 10%       |
+  | Первые 5 чисел                          | 20%       |
+  | Первые 6 чисел                          | 40%       |
+  | Сжигание                                | 20%       |
 
-## Can I swap my tickets back to CAKE?
+## Могу ли я обменять билеты обратно на CAKE?
 
-No, once purchased you will not be able to convert your ticket back to CAKE.
+Нет, после покупки ты не сможешь конвертировать билет обратно в CAKE.
 
-## If I win, do I need to manually claim the prize?
+## Если я выиграю, нужно ли вручную получать приз?
 
-Yes, you will need to click the **Check Now** button under "Are you a winner?" on the Lottery page.
+Да, нужно нажать кнопку **Check Now** в разделе «Are you a winner?» на странице Лотереи.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2868%29.png)
 
-## How often is the lottery?
+## Как часто проводится лотерея?
 
-A lottery draw occurs every 12 or 36 hours. One lottery draw occurs every day alternating between 0 AM UTC and 12 PM UTC, next rounds after the 0 AM UTC rounds will be after 36 hours, next rounds after the 12 PM UTC rounds will be after 12 hours.
+Розыгрыш лотереи происходит каждые 12 или 36 часов. Один розыгрыш проводится каждый день, чередуясь между 0:00 UTC и 12:00 UTC; следующие раунды после 0:00 UTC начинаются через 36 часов, следующие раунды после 12:00 UTC начинаются через 12 часов.
 
 ![Lottery injection schedule](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Lottery%20Schedule%20Update%20Feb%204.png)
 
-## What transaction fee will I pay for buying tickets?
+## Какую комиссию за транзакцию я заплачу при покупке билетов?
 
-Every ticket purchase you make will be one transaction. Purchasing a single ticket in a Lottery purchase will cost the normal amount of fees for a transaction.
+Каждая покупка билетов — это одна транзакция. Покупка одного билета обойдётся в обычную сумму комиссии за транзакцию.
 
-However, buying more tickets in that purchase will increase the fee. Buying 100 tickets rather than 1 will not multiply the fee by 100, but may increase the fee amount by 5-6 times (though this varies).
+Однако покупка большего количества билетов за раз увеличит комиссию. Покупка 100 билетов вместо 1 не умножит комиссию на 100, но может увеличить её примерно в 5–6 раз (хотя это варьируется).
 
-## How does the bulk discount work?
+## Как работает оптовая скидка?
 
-The bulk discount rewards buying larger amounts of tickets with a scaling discount. If you're only buying 2 tickets, the discount is negligible, but will add up quickly as you increase the number of tickets to buy in one transaction.
+Оптовая скидка вознаграждает покупку большего количества билетов нарастающей скидкой. При покупке 2 билетов скидка незначительна, но быстро растёт по мере увеличения количества билетов в одной транзакции.
 
-The discount only applies to each transaction up to 100 tickets. The discount does not carry over to the next transaction or next round.
+Скидка применяется только в рамках одной транзакции на сумму до 100 билетов. Скидка не переносится на следующую транзакцию или следующий раунд.
 
-## Why can I only buy 100 tickets?
+## Почему я могу купить только 100 билетов?
 
-You can only buy a maximum of 100 tickets in one purchase, but you can make multiple purchases. There's nothing to stop you buying more tickets after your first 100.
+За одну покупку можно купить максимум 100 билетов, но можно делать несколько покупок. Ничто не мешает купить больше билетов после первых 100.
 
-## If I manually create two or more tickets with the same numbers and they win, am I eligible for prizes for each ticket?
+## Если я вручную создам два или более билета с одинаковыми числами и они выиграют, могу ли я получить призы за каждый билет?
 
-Yes, each ticket is treated as a separate entry to the Lottery. Keep in mind that the prizes will not be 1:1 though, as each winning ticket you have dilutes each share of the bracket's total prizes.
+Да, каждый билет считается отдельной записью в Лотерее. Имей в виду, что призы не будут 1:1, поскольку каждый твой выигрышный билет уменьшает долю каждого из общих призов категории.
 
-## Injection schedule: When is CAKE added to the lottery?
+## График инъекций: когда CAKE добавляется в лотерею?
 
-When people buy tickets, the CAKE they spend is added to the lottery pot. In addition, 8,000 CAKE is also added (injected) to the lottery pot every other round on a regular schedule over the course of seven rounds per week as shown above in the lottery schedule figure.
+Когда люди покупают билеты, потраченный ими CAKE добавляется в лотерейный банк. Кроме того, 8 000 CAKE также добавляются (инъецируются) в лотерейный банк каждые два раунда по регулярному расписанию — семь раундов в неделю, как показано на рисунке с расписанием лотереи выше.
