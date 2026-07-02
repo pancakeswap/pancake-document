@@ -2,5 +2,5 @@
 hidden: true
 ---
 
-# Liquidity Pool FAQ
+# FAQ do Pool de Liquidez
 

@@ -2,164 +2,164 @@
 hidden: true
 ---
 
-# veCAKE FAQ
+# FAQ do veCAKE
 
-<figure><img src="../../../.gitbook/assets/image (340).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28340%29.png" alt=""><figcaption></figcaption></figure>
 
-#### What’s the difference between locked CAKE and veCAKE? <a href="#bb73a991-c71b-402c-a0c3-64b8666626c2" id="bb73a991-c71b-402c-a0c3-64b8666626c2"></a>
+#### Qual é a diferença entre CAKE bloqueado e veCAKE? <a href="#bb73a991-c71b-402c-a0c3-64b8666626c2" id="bb73a991-c71b-402c-a0c3-64b8666626c2"></a>
 
-veCAKE is a new version of fixed-term CAKE staking with more benefits and power for locked CAKE holders. Including gauge weight voting, extra incentives, yield boosting, and more.
+O veCAKE é uma nova versão do Staking de CAKE com prazo fixo com mais benefícios e poder para os detentores de CAKE bloqueado. Incluindo Votação de peso de gauge, incentivos extras, impulsionamento de rendimento e muito mais.
 
-#### What happens to CAKE pool rewards when the new veCAKE is deployed <a href="#a078f885-3eed-4b91-98fc-1d7062415da3" id="a078f885-3eed-4b91-98fc-1d7062415da3"></a>
+#### O que acontece com as recompensas do pool CAKE quando o novo veCAKE for implantado <a href="#a078f885-3eed-4b91-98fc-1d7062415da3" id="a078f885-3eed-4b91-98fc-1d7062415da3"></a>
 
-CAKE pool reward emissions will be diverted to reward all veCAKE holders according to their veCAKE balance against the total supply.
+As emissões de recompensas do pool CAKE serão redirecionadas para recompensar todos os detentores de veCAKE de acordo com o saldo de veCAKE em relação ao fornecimento total.
 
-CAKE rewards and the weekly revenue-sharing rewards can now be claimed weekly on Thursday.
+As recompensas de CAKE e as recompensas semanais de compartilhamento de receita agora podem ser reivindicadas semanalmente às quintas-feiras.
 
-Please note that to continue receiving rewards, users will need to migrate to the new veCAKE staking.
+Observe que para continuar recebendo recompensas, os usuários precisarão migrar para o novo Staking de veCAKE.
 
-#### What is the maximum duration I can lock my CAKE <a href="#id-9224ca4c-1f31-4052-8ed7-3bb896e396f3" id="id-9224ca4c-1f31-4052-8ed7-3bb896e396f3"></a>
+#### Qual é a duração máxima que posso bloquear meu CAKE <a href="#id-9224ca4c-1f31-4052-8ed7-3bb896e396f3" id="id-9224ca4c-1f31-4052-8ed7-3bb896e396f3"></a>
 
-The maximum duration you can lock your CAKE has now been extended to 4 years.
+A duração máxima que você pode bloquear seu CAKE agora foi estendida para 4 anos.
 
-#### Is veCAKE a new token? Can it be transferred? <a href="#id-26bce2a7-fb4c-453c-b4bb-e2d446660c77" id="id-26bce2a7-fb4c-453c-b4bb-e2d446660c77"></a>
+#### O veCAKE é um novo token? Pode ser transferido? <a href="#id-26bce2a7-fb4c-453c-b4bb-e2d446660c77" id="id-26bce2a7-fb4c-453c-b4bb-e2d446660c77"></a>
 
-veCAKE is a live-generated number based on the number of CAKE locked and the remaining lock time. It is not a standard token and can not be transferred.
+O veCAKE é um número gerado em tempo real com base na quantidade de CAKE bloqueado e no tempo de bloqueio restante. Não é um token padrão e não pode ser transferido.
 
-#### Why did my veCAKE balance change? How to calculate its balance? <a href="#id-52f27118-bbf3-448b-9ffe-e9e1a9dd97ef" id="id-52f27118-bbf3-448b-9ffe-e9e1a9dd97ef"></a>
+#### Por que meu saldo de veCAKE mudou? Como calcular seu saldo? <a href="#id-52f27118-bbf3-448b-9ffe-e9e1a9dd97ef" id="id-52f27118-bbf3-448b-9ffe-e9e1a9dd97ef"></a>
 
-veCAKE balance is linearly decreasing to 0 based on the remaining lock duration. Therefore when we are approaching the unlock time, your balance decreases.
+O saldo de veCAKE diminui linearmente para 0 com base na duração restante do bloqueio. Portanto, à medida que nos aproximamos do tempo de desbloqueio, seu saldo diminui.
 
-veCAKE balance can be calculated by:
+O saldo de veCAKE pode ser calculado por:
 
 ```javascript
-lockedAmount // amount of CAKE locked
-currentTime // current time
-lockEndTime // the unlock time
-maxLockTime = 209 * 7 * 24 * 60 * 60 - 1 = 126403199 // max lock time (4 years)
+lockedAmount // quantidade de CAKE bloqueado
+currentTime // tempo atual
+lockEndTime // o tempo de desbloqueio
+maxLockTime = 209 * 7 * 24 * 60 * 60 - 1 = 126403199 // tempo máximo de bloqueio (4 anos)
 
 remainingLockTime = lockEndTime - currentTime
 veCAKE = lockedAmount * (remainingLockTime / maxLockTime)
 ```
 
-#### How to increase my veCAKE? <a href="#dddbafc4-7361-46a3-a040-09812f8a660e" id="dddbafc4-7361-46a3-a040-09812f8a660e"></a>
+#### Como aumentar meu veCAKE? <a href="#dddbafc4-7361-46a3-a040-09812f8a660e" id="dddbafc4-7361-46a3-a040-09812f8a660e"></a>
 
-Once you have an active veCAKE position, you can either add more CAKE or renew/extend your lock duration to boost your veCAKE balance.
+Uma vez que você tem uma posição de veCAKE ativa, você pode adicionar mais CAKE ou renovar/estender sua duração de bloqueio para aumentar seu saldo de veCAKE.
 
-#### What happens when the position unlocks? Can I renew rightaway? <a href="#a819a132-aa20-41f1-9d92-3227ad0e2ead" id="a819a132-aa20-41f1-9d92-3227ad0e2ead"></a>
+#### O que acontece quando a posição é desbloqueada? Posso renovar imediatamente? <a href="#a819a132-aa20-41f1-9d92-3227ad0e2ead" id="a819a132-aa20-41f1-9d92-3227ad0e2ead"></a>
 
-When the veCAKE staking position is unlocked, you may withdraw all the staked CAKE.
+Quando a posição de Staking de veCAKE é desbloqueada, você pode retirar todo o CAKE em Staking.
 
-To renew your position, you need to withdraw all the CAKE and set up a new staking position by choosing the amount to lock and the lock duration.
+Para renovar sua posição, você precisa retirar todo o CAKE e configurar uma nova posição de Staking escolhendo a quantidade a bloquear e a duração do bloqueio.
 
-#### I locked for 1 week, why the remaining lock time is less than 1 week? <a href="#id-79f8be72-0138-48da-a609-e47a091be03c" id="id-79f8be72-0138-48da-a609-e47a091be03c"></a>
+#### Bloqueei por 1 semana, por que o tempo de bloqueio restante é menor que 1 semana? <a href="#id-79f8be72-0138-48da-a609-e47a091be03c" id="id-79f8be72-0138-48da-a609-e47a091be03c"></a>
 
-When you lock with the new veCAKE, the unlock time is being rounded forward to the nearest Thursday with UTC time. For example, when you lock for 1 week on Tuesday, your actual unlock time will be the upcoming Thursday, which is 2 days later.
+Ao bloquear com o novo veCAKE, o tempo de desbloqueio é arredondado para a quinta-feira mais próxima no horário UTC. Por exemplo, ao bloquear por 1 semana na terça-feira, seu tempo de desbloqueio real será a quinta-feira seguinte, que é 2 dias depois.
 
-You can preview your actual unlock time at the bottom.
+Você pode visualizar seu tempo de desbloqueio real na parte inferior.
 
-#### Can I lock more CAKE in CAKE pool? <a href="#id-2cc44f53-8e03-48dd-8caa-66c4942c9d39" id="id-2cc44f53-8e03-48dd-8caa-66c4942c9d39"></a>
+#### Posso bloquear mais CAKE no pool CAKE? <a href="#id-2cc44f53-8e03-48dd-8caa-66c4942c9d39" id="id-2cc44f53-8e03-48dd-8caa-66c4942c9d39"></a>
 
-No.
+Não.
 
-Once veCAKE is deployed, the CAKE staking pool will be deprecated and no longer accepts any further CAKE extension or deposits.
+Assim que o veCAKE for implantado, o pool de Staking de CAKE será descontinuado e não aceitará mais extensões ou depósitos de CAKE.
 
-To lock CAKE and enjoy its benefits, go to the veCAKE page.
+Para bloquear CAKE e desfrutar de seus benefícios, vá para a página do veCAKE.
 
-#### Why can’t I migrate? <a href="#id-4d8fd967-e743-4496-b030-5955be861373" id="id-4d8fd967-e743-4496-b030-5955be861373"></a>
+#### Por que não consigo migrar? <a href="#id-4d8fd967-e743-4496-b030-5955be861373" id="id-4d8fd967-e743-4496-b030-5955be861373"></a>
 
-Migrating from CAKE pool to veCAKE requires you to have an active position. If your CAKE pool staking position is already unlocked, simply withdraw those CAKE and create a native veCAKE staking position.
+Migrar do pool CAKE para o veCAKE requer que você tenha uma posição ativa. Se sua posição de Staking no pool CAKE já estiver desbloqueada, basta retirar esse CAKE e criar uma posição nativa de Staking de veCAKE.
 
-In some cases, migration can not be performed when your remaining CAKE pool lock time is less than 7 days. In such case, simply wait for the unlock, withdraw those CAKE and create a native veCAKE staking position.
+Em alguns casos, a migração não pode ser realizada quando o tempo de bloqueio restante no pool CAKE for menor que 7 dias. Nesse caso, basta aguardar o desbloqueio, retirar esse CAKE e criar uma posição nativa de Staking de veCAKE.
 
-#### Can I early withdraw my locked CAKE? <a href="#id-5972f3cf-81dd-46d4-8a85-7972d722a53c" id="id-5972f3cf-81dd-46d4-8a85-7972d722a53c"></a>
+#### Posso retirar antecipadamente meu CAKE bloqueado? <a href="#id-5972f3cf-81dd-46d4-8a85-7972d722a53c" id="id-5972f3cf-81dd-46d4-8a85-7972d722a53c"></a>
 
-No.
+Não.
 
-Once locked, CAKE will be staked in the veCAKE contract until the unlock time.
+Uma vez bloqueado, o CAKE ficará em Staking no contrato veCAKE até o tempo de desbloqueio.
 
-#### Can I partially migrate my CAKE? <a href="#id-0c4cdba6-7994-4fed-80d1-76597444f761" id="id-0c4cdba6-7994-4fed-80d1-76597444f761"></a>
+#### Posso migrar parcialmente meu CAKE? <a href="#id-0c4cdba6-7994-4fed-80d1-76597444f761" id="id-0c4cdba6-7994-4fed-80d1-76597444f761"></a>
 
-No.
+Não.
 
-You can only migrate your entire CAKE pool position at once.
+Você só pode migrar toda a sua posição no pool CAKE de uma só vez.
 
-#### What will happen to iCAKE, bCAKE, vCAKE and rCAKE? <a href="#d828038d-6066-469e-a8d3-5bf4b95699b2" id="d828038d-6066-469e-a8d3-5bf4b95699b2"></a>
+#### O que acontecerá com iCAKE, bCAKE, vCAKE e rCAKE? <a href="#d828038d-6066-469e-a8d3-5bf4b95699b2" id="d828038d-6066-469e-a8d3-5bf4b95699b2"></a>
 
-**For iCAKE:**
+**Para o iCAKE:**
 
-IFO iCAKE has now been upgraded to support veCAKE. Check out:
+O IFO iCAKE agora foi atualizado para suportar veCAKE. Confira:
 
 {% content-ref url="../../../welcome-to-pancakeswap/vecake-sunset/icake.md" %}
 [icake.md](../../../welcome-to-pancakeswap/vecake-sunset/icake.md)
 {% endcontent-ref %}
 
-**For bCAKE:**
+**Para o bCAKE:**
 
-Farm boosting bCAKE has now been upgraded to support veCAKE. Check out:
+O bCAKE de impulsionamento de rendimento do Farm agora foi atualizado para suportar veCAKE. Confira:
 
 {% content-ref url="../../../welcome-to-pancakeswap/vecake-sunset/bcake/" %}
 [bcake](../../../welcome-to-pancakeswap/vecake-sunset/bcake/)
 {% endcontent-ref %}
 
-**For vCAKE:**
+**Para o vCAKE:**
 
-Voting vCAKE has now been upgraded to support veCAKE. Check out:
+O vCAKE de Votação agora foi atualizado para suportar veCAKE. Confira:
 
 {% content-ref url="../../../protocol/voting/voting-guide/" %}
 [voting-guide](../../../protocol/voting/voting-guide/)
 {% endcontent-ref %}
 
-**For rCAKE:**
+**Para o rCAKE:**
 
-All veCAKE holders (either native or migrated) will automatically enrolled in the new revenue sharing pool. Revenue shares are distributed according to the existing schedule. The old revenue sharing pool will be discontinued, users can claim their pending rewards by going to the benefit card. Check out:
+Todos os detentores de veCAKE (nativos ou migrados) serão automaticamente inscritos no novo pool de compartilhamento de receita. As parcelas de receita são distribuídas de acordo com o cronograma existente. O antigo pool de compartilhamento de receita será descontinuado; os usuários podem reivindicar suas recompensas pendentes pelo card de benefícios. Confira:
 
 {% content-ref url="/broken/pages/wQegezs7c6A2HzQjPEjh" %}
 [Broken link](/broken/pages/wQegezs7c6A2HzQjPEjh)
 {% endcontent-ref %}
 
-#### Can multisig wallets be used for interacting with veCAKE?
+#### Carteiras multisig podem ser usadas para interagir com o veCAKE?
 
-Yes
+Sim
 
-However, there was a `noContract` modifier implemented in the veCAKE staking contract for addresses that are not whitelisted. To enable staking or migrating from fixed-term CAKE staking pool. All contract-based multisig wallets must perform a one-time, self-whitelisting action.
+No entanto, havia um modificador `noContract` implementado no contrato de Staking de veCAKE para endereços que não estão na whitelist. Para habilitar o Staking ou a migração do pool de Staking de CAKE com prazo fixo, todas as carteiras multisig baseadas em contratos devem realizar uma ação de autowhitelist única.
 
-To whitelist, visit either of the following pages:
+Para fazer whitelist, visite qualquer uma das seguintes páginas:
 
 * [https://pancakeswap.finance/cake-staking](https://pancakeswap.finance/cake-staking)
 * [https://pancakeswap.finance/gauge-voting](https://pancakeswap.finance/gauge-voting)
 * [https://pancakeswap.finance/pools](https://pancakeswap.finance/pools)
 
-A prompt should appear. Click "Whitelist" and proceed with the tx in your multisig wallet.
+Um prompt deverá aparecer. Clique em "Whitelist" e prossiga com a transação na sua carteira multisig.
 
-A tx will be fired to the owner of the veCAKE, which is a contract with a permission-less write function to allow any contract to perform self-whitelisting.
+Uma transação será enviada ao proprietário do veCAKE, que é um contrato com uma função de escrita sem permissão para permitir que qualquer contrato realize o autowhitelist.
 
-If the prompt doesn't appear, follow this instruction to execute the tx from [BscScan](https://bscscan.com/address/0xe6cdC66A96458FbF11F632B50964153fBDa78548#writeContract#F11):
+Se o prompt não aparecer, siga estas instruções para executar a transação pelo [BscScan](https://bscscan.com/address/0xe6cdC66A96458FbF11F632B50964153fBDa78548#writeContract#F11):
 
 ```
-// call:
+// chamar:
 VECakeOwner.setWhitelist(bool _status = true)
 
-// VECakeOwner address:
+// Endereço do VECakeOwner:
 https://bscscan.com/address/0xe6cdC66A96458FbF11F632B50964153fBDa78548#writeContract#F11
 ```
 
-#### Why there are multiple APRs?
+#### Por que há múltiplos APRs?
 
-Locking CAKE to get veCAKE provides a number of great benefits around the suite of products built by PancakeSwap. Benefits and incentives come in different forms and from different sources. Therefore, there are multiple APRs.
+Bloquear CAKE para obter veCAKE oferece uma série de grandes benefícios em toda a suíte de produtos construídos pela PancakeSwap. Os benefícios e incentivos vêm em diferentes formas e de diferentes fontes. Portanto, há múltiplos APRs.
 
-You can earn all of them concurrently therefore the combined APR will be the sum of all the APRs.
+Você pode ganhar todos eles simultaneamente, portanto o APR combinado será a soma de todos os APRs.
 
-Please note that many other benefits from veCAKE can not be quantified in the format of APRs, such as [Farm Yield Booster bCAKE](../../../welcome-to-pancakeswap/vecake-sunset/bcake/), or [IFO iCAKE](../../../welcome-to-pancakeswap/vecake-sunset/icake.md). Be sure to check those out too.
+Observe que muitos outros benefícios do veCAKE não podem ser quantificados no formato de APRs, como o [Impulsionador de Rendimento do Farm bCAKE](../../../welcome-to-pancakeswap/vecake-sunset/bcake/) ou o [IFO iCAKE](../../../welcome-to-pancakeswap/vecake-sunset/icake.md). Certifique-se de conferí-los também.
 
-#### What is veCAKE Pool APR?
+#### O que é o APR do Pool veCAKE?
 
-This is the incentive coming from CAKE emissions, with its rate controlled by the veCAKE Pool voting gauge.
+Este é o incentivo proveniente das emissões de CAKE, com sua taxa controlada pelo gauge de Votação do Pool veCAKE.
 
-To increase the emission to this gauge, check out [Gauge Voting](../../../welcome-to-pancakeswap/vecake-sunset/gauges-voting/).
+Para aumentar a emissão para este gauge, confira a [Votação de Gauge](../../../welcome-to-pancakeswap/vecake-sunset/gauges-voting/).
 
-#### What is Revenue Sharing APR?
+#### O que é o APR de Compartilhamento de Receita?
 
-This is the incentive coming from protocol revenue sharing, coming from swap fees collected in DEX products.
+Este é o incentivo proveniente do compartilhamento de receita do protocolo, proveniente das taxas de swap coletadas nos produtos DEX.
 
-Check out [Revenue Sharing](/broken/pages/wQegezs7c6A2HzQjPEjh) for more info.
+Confira [Compartilhamento de Receita](/broken/pages/wQegezs7c6A2HzQjPEjh) para mais informações.

@@ -1,54 +1,54 @@
 ---
-description: Thank you for expressing your interest in contributing to PancakeSwap!
+description: Obrigado por manifestar interesse em contribuir com o PancakeSwap!
 ---
 
-# Contributing
+# Contribuindo
 
-![](../../../.gitbook/assets/developers-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/developers-header.png)
 
-PancakeSwap is an open-source project. If you want to contribute to the project, this section is here to guide you through your first steps with the PancakeSwap team 🥞
+O PancakeSwap é um projeto de código aberto. Se você quiser contribuir com o projeto, esta seção está aqui para guiá-lo nos primeiros passos com a equipe do PancakeSwap 🥞
 
-Before starting any development, we highly encourage you to submit an issue on Github in order to discuss the problem, and the solution with the team.
+Antes de iniciar qualquer desenvolvimento, recomendamos fortemente que você envie uma issue no Github para discutir o problema e a solução com a equipe.
 
-## Setup your dev environment
+## Configure seu ambiente de desenvolvimento
 
-Install [yarn](https://classic.yarnpkg.com/lang/en/docs/install/) If you haven't.
+Instale o [yarn](https://classic.yarnpkg.com/lang/en/docs/install/) se ainda não tiver instalado.
 
-1.  Fork and clone the [repository](https://github.com/pancakeswap/pancake-frontend)
+1.  Faça um fork e clone o [repositório](https://github.com/pancakeswap/pancake-frontend)
 
     ```bash
     $ git clone [fork_repo_url]
     ```
-2.  Add [upstream](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/configuring-a-remote-for-a-fork) remote. E.g.
+2.  Adicione o remote [upstream](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/configuring-a-remote-for-a-fork). Por exemplo:
 
     ```bash
     $ git remote add upstream git@github.com:pancakeswap/pancake-frontend.git
     ```
-3.  Make sure you have the latest version of the default branch ( `develop` )
+3.  Certifique-se de ter a versão mais recente do branch padrão ( `develop` )
 
     ```bash
     $ git checkout develop
     $ git pull upstream develop
     ```
-4.  Create your own branch and install dependencies
+4.  Crie seu próprio branch e instale as dependências
 
     ```bash
-    $ git checkout -b branch-name
+    $ git checkout -b nome-do-branch
     $ yarn
     ```
-5. Happy coding 🎉
+5. Bom desenvolvimento 🎉
 
-## Coding rules
+## Regras de codificação
 
-We try to maintain as much consistency as we can between each of our repository. Your pull request has more chances to be accepted if you follow the following rules, and write high quality code. **Let's get started** 💪
+Buscamos manter o máximo de consistência possível entre cada um de nossos repositórios. Seu pull request terá mais chances de ser aceito se você seguir as regras abaixo e escrever código de alta qualidade. **Vamos começar** 💪
 
-### Use the UIKit
+### Use o UIKit
 
 {% hint style="warning" %}
-Check the [UI Kit](https://github.com/pancakeswap/pancake-frontend/tree/master/packages/uikit) before you start doing anything. A lot of components are already created, and we don't want that you waste your time reinventing the wheel 😉
+Verifique o [UI Kit](https://github.com/pancakeswap/pancake-frontend/tree/master/packages/uikit) antes de começar qualquer coisa. Muitos componentes já estão criados, e não queremos que você perca tempo reinventando a roda 😉
 {% endhint %}
 
-If a variant of a component needs to be created, use the corresponding component in the UI Kit as a base. For example:
+Se uma variante de um componente precisar ser criada, use o componente correspondente no UI Kit como base. Por exemplo:
 
 ```javascript
 import styled from 'styled-components'
@@ -59,48 +59,48 @@ const NewButtonVariant = styled(Button)`
 `
 ```
 
-### Use the tools!
+### Use as ferramentas!
 
-Most of our repos use [Typescript](https://www.typescriptlang.org/docs), [ESLint](https://eslint.org/docs/user-guide/getting-started), and [Prettier](https://prettier.io). Make sure you're familiar with Typescript’s best practices and enable an ESLint and Prettier plugin for your IDE.
+A maioria dos nossos repositórios usa [Typescript](https://www.typescriptlang.org/docs), [ESLint](https://eslint.org/docs/user-guide/getting-started) e [Prettier](https://prettier.io). Certifique-se de estar familiarizado com as boas práticas do Typescript e habilite um plugin de ESLint e Prettier na sua IDE.
 
 {% hint style="warning" %}
-Make sure your code is formatted with Prettier and is free from any ESLint error before you submit a pull request.
+Certifique-se de que seu código está formatado com Prettier e sem erros de ESLint antes de enviar um pull request.
 {% endhint %}
 
-### Some good practices
+### Algumas boas práticas
 
-* Keep components as small and ["dumb"](https://en.wikipedia.org/wiki/Pure_function) as possible.
-* Use [Composition over Inheritance](https://reactjs.org/docs/composition-vs-inheritance.html).
-* Keep in mind that your code will be read and maintained by several other developers. Make it as clear and easy to update as possible._​_
+* Mantenha os componentes o menores e mais ["puros"](https://en.wikipedia.org/wiki/Pure_function) possível.
+* Use [Composição em vez de Herança](https://reactjs.org/docs/composition-vs-inheritance.html).
+* Lembre-se de que seu código será lido e mantido por vários outros desenvolvedores. Torne-o o mais claro e fácil de atualizar possível._​_
 
-## Creating your pull request
+## Criando seu pull request
 
-Your code is ready to be submitted for review, congratulations🥳
+Seu código está pronto para ser enviado para revisão, parabéns 🥳
 
-* All pull requests **must** have a description of what the PR is trying to accomplish.
-* Keep pull requests **as small as possible**. Larger pull requests should be broken up into smaller chunks with a dedicated base branch. Please tag the PR's that are merging into your base branch with the `epic` tag.
-* If possible self-review your PR and **add comments** where additional clarification is needed.
+* Todos os pull requests **devem** ter uma descrição do que o PR está tentando realizar.
+* Mantenha os pull requests **o menores possível**. Pull requests maiores devem ser divididos em partes menores com um branch base dedicado. Por favor, marque os PRs que estão sendo mesclados no seu branch base com a tag `epic`.
+* Se possível, faça uma auto-revisão do seu PR e **adicione comentários** onde for necessária uma esclarecimento adicional.
 
 {% hint style="info" %}
-Create a [draft PR](https://github.blog/2019-02-14-introducing-draft-pull-requests/) as soon as possible so we can view your ongoing progress.
+Crie um [draft PR](https://github.blog/2019-02-14-introducing-draft-pull-requests/) o mais cedo possível para que possamos acompanhar seu progresso.
 {% endhint %}
 
-### Pull Request Title
+### Título do Pull Request
 
-Our Pull Request Title follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) using [commitlint](https://commitlint.js.org/#/).‌
+Nossos Títulos de Pull Request seguem o [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) usando [commitlint](https://commitlint.js.org/#/).‌
 
-_More at_ [_Angular's guidelines_](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#type)
+_Mais em_ [_Diretrizes do Angular_](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#type)
 
-| Type         | Description                                                                                                 |
-| ------------ | ----------------------------------------------------------------------------------------------------------- |
-| **build**    | Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)         |
-| **ci**       | Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs) |
-| **docs**     | Documentation only changes                                                                                  |
-| **feat**     | A new feature                                                                                               |
-| **fix**      | A bug fix                                                                                                   |
-| **perf**     | A code change that improves performance                                                                     |
-| **refactor** | A code change that neither fixes a bug nor adds a feature                                                   |
-| **style**    | Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)      |
-| **test**     | Adding missing tests or correcting existing tests                                                           |
+| Tipo         | Descrição                                                                                                      |
+| ------------ | -------------------------------------------------------------------------------------------------------------- |
+| **build**    | Mudanças que afetam o sistema de build ou dependências externas (exemplos de escopos: gulp, broccoli, npm)     |
+| **ci**       | Mudanças em arquivos e scripts de configuração de CI (exemplos de escopos: Travis, Circle, BrowserStack, SauceLabs) |
+| **docs**     | Mudanças somente na documentação                                                                               |
+| **feat**     | Uma nova funcionalidade                                                                                        |
+| **fix**      | Uma correção de bug                                                                                            |
+| **perf**     | Uma mudança de código que melhora o desempenho                                                                 |
+| **refactor** | Uma mudança de código que não corrige um bug nem adiciona uma funcionalidade                                   |
+| **style**    | Mudanças que não afetam o significado do código (espaços em branco, formatação, ponto e vírgula ausente, etc)  |
+| **test**     | Adição de testes ausentes ou correção de testes existentes                                                     |
 
-**Thanks for helping us making PancakeSwap even more awesome** ❤
+**Obrigado por nos ajudar a tornar o PancakeSwap ainda mais incrível** ❤

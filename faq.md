@@ -1,90 +1,89 @@
 # FAQ
 
-## Can I become who I want to be?
+## Posso me tornar quem eu quero ser?
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+Essa é uma pergunta difícil, mas felizmente nossa equipe está nisso. Por favor, tenha paciência enquanto investigamos.
 
-## Have you had a chance to answer the previous question?
+## Vocês tiveram a chance de responder à pergunta anterior?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+Sim, após alguns meses finalmente encontramos a resposta. Infelizmente, o Mike está de férias agora, então infelizmente não conseguimos fornecer a resposta neste momento.
 
-## Have you had a chance to answer the previous question?
+## Vocês tiveram a chance de responder à pergunta anterior?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+Sim, após alguns meses finalmente encontramos a resposta. Infelizmente, o Mike está de férias agora, então infelizmente não conseguimos fornecer a resposta neste momento.
 
-## Have you had a chance to answer the previous question?
+## Vocês tiveram a chance de responder à pergunta anterior?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+Sim, após alguns meses finalmente encontramos a resposta. Infelizmente, o Mike está de férias agora, então infelizmente não conseguimos fornecer a resposta neste momento.
 
-## Have you had a chance to answer the previous question?
+## Vocês tiveram a chance de responder à pergunta anterior?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+Sim, após alguns meses finalmente encontramos a resposta. Infelizmente, o Mike está de férias agora, então infelizmente não conseguimos fornecer a resposta neste momento.
 
-## Have you had a chance to answer the previous question?
+## Vocês tiveram a chance de responder à pergunta anterior?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+Sim, após alguns meses finalmente encontramos a resposta. Infelizmente, o Mike está de férias agora, então infelizmente não conseguimos fornecer a resposta neste momento.
 
-## Have you had a chance to answer the previous question?
+## Vocês tiveram a chance de responder à pergunta anterior?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+Sim, após alguns meses finalmente encontramos a resposta. Infelizmente, o Mike está de férias agora, então infelizmente não conseguimos fornecer a resposta neste momento.
 
-## Have you had a chance to answer the previous question?
+## Vocês tiveram a chance de responder à pergunta anterior?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+Sim, após alguns meses finalmente encontramos a resposta. Infelizmente, o Mike está de férias agora, então infelizmente não conseguimos fornecer a resposta neste momento.
 
-## Have you had a chance to answer the previous question?
+## Vocês tiveram a chance de responder à pergunta anterior?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+Sim, após alguns meses finalmente encontramos a resposta. Infelizmente, o Mike está de férias agora, então infelizmente não conseguimos fornecer a resposta neste momento.
 
-## Have you had a chance to answer the previous question?
+## Vocês tiveram a chance de responder à pergunta anterior?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+Sim, após alguns meses finalmente encontramos a resposta. Infelizmente, o Mike está de férias agora, então infelizmente não conseguimos fornecer a resposta neste momento.
 
-## Have you had a chance to answer the previous question?
+## Vocês tiveram a chance de responder à pergunta anterior?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+Sim, após alguns meses finalmente encontramos a resposta. Infelizmente, o Mike está de férias agora, então infelizmente não conseguimos fornecer a resposta neste momento.
 
-## Have you had a chance to answer the previous question?
+## Vocês tiveram a chance de responder à pergunta anterior?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+Sim, após alguns meses finalmente encontramos a resposta. Infelizmente, o Mike está de férias agora, então infelizmente não conseguimos fornecer a resposta neste momento.
 
-## Have you had a chance to answer the previous question?
+## Vocês tiveram a chance de responder à pergunta anterior?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+Sim, após alguns meses finalmente encontramos a resposta. Infelizmente, o Mike está de férias agora, então infelizmente não conseguimos fornecer a resposta neste momento.
 
-## Have you had a chance to answer the previous question?
+## Vocês tiveram a chance de responder à pergunta anterior?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+Sim, após alguns meses finalmente encontramos a resposta. Infelizmente, o Mike está de férias agora, então infelizmente não conseguimos fornecer a resposta neste momento.
 
-## Have you had a chance to answer the previous question?
+## Vocês tiveram a chance de responder à pergunta anterior?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+Sim, após alguns meses finalmente encontramos a resposta. Infelizmente, o Mike está de férias agora, então infelizmente não conseguimos fornecer a resposta neste momento.
 
-## Have you had a chance to answer the previous question?
+## Vocês tiveram a chance de responder à pergunta anterior?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
-
-v
-
-## Have you had a chance to answer the previous question?
-
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
-
-## Have you had a chance to answer the previous question?
-
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
-
-## Have you had a chance to answer the previous question?
-
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
-
-## Have you had a chance to answer the previous question?
-
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+Sim, após alguns meses finalmente encontramos a resposta. Infelizmente, o Mike está de férias agora, então infelizmente não conseguimos fornecer a resposta neste momento.
 
 v
 
-## Have you had a chance to answer the previous question?
+## Vocês tiveram a chance de responder à pergunta anterior?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+Sim, após alguns meses finalmente encontramos a resposta. Infelizmente, o Mike está de férias agora, então infelizmente não conseguimos fornecer a resposta neste momento.
 
+## Vocês tiveram a chance de responder à pergunta anterior?
+
+Sim, após alguns meses finalmente encontramos a resposta. Infelizmente, o Mike está de férias agora, então infelizmente não conseguimos fornecer a resposta neste momento.
+
+## Vocês tiveram a chance de responder à pergunta anterior?
+
+Sim, após alguns meses finalmente encontramos a resposta. Infelizmente, o Mike está de férias agora, então infelizmente não conseguimos fornecer a resposta neste momento.
+
+## Vocês tiveram a chance de responder à pergunta anterior?
+
+Sim, após alguns meses finalmente encontramos a resposta. Infelizmente, o Mike está de férias agora, então infelizmente não conseguimos fornecer a resposta neste momento.
+
+v
+
+## Vocês tiveram a chance de responder à pergunta anterior?
+
+Sim, após alguns meses finalmente encontramos a resposta. Infelizmente, o Mike está de férias agora, então infelizmente não conseguimos fornecer a resposta neste momento.

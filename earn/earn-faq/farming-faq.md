@@ -2,121 +2,121 @@
 hidden: true
 ---
 
-# Farming FAQ
+# FAQ de Farming
 
-### Why are there multiple APRs?
+### Por que há múltiplos APRs?
 
-In V3, you can concentrate your assets while providing liquidity to boost your share against the total available liquidity, earning a higher % of rewards.&#x20;
+No V3, você pode concentrar seus ativos enquanto fornece liquidez para aumentar sua participação em relação à liquidez total disponível, ganhando uma % maior de recompensas.&#x20;
 
-Therefore, depending on the position price-range settings, each liquidity position will have its own LP fee APR and its own farming APR.
+Portanto, dependendo das configurações de faixa de preço da posição, cada posição de liquidez terá seu próprio APR de taxa LP e seu próprio APR de farming.
 
-The global APR is calculated with the total amount of CAKE rewards in USD, divided by the total amount of assets, with in the active positions, which are currently staked in the farm. So, global farming APR is only a generic reference, and will not represent individual APRs for each positions.
+O APR global é calculado com a quantidade total de recompensas de CAKE em USD, dividida pela quantidade total de ativos nas posições ativas que estão atualmente em Staking no farm. Portanto, o APR global de farming é apenas uma referência genérica e não representará APRs individuais para cada posição.
 
-To view your farming APR, check out your positions listed under each farm.
+Para ver seu APR de farming, verifique suas posições listadas em cada farm.
 
 ###
 
-### What happens if my liquidity position goes out of range while staking in the Farm?
+### O que acontece se minha posição de liquidez sair do intervalo enquanto estou em Staking no Farm?
 
-In V3, only active (in-range) liquidity positions will earn CAKE from farms.
+No V3, apenas posições de liquidez ativas (dentro do intervalo) ganharão CAKE dos farms.
 
-The position will stop receiving CAKE rewards when the price goes out of the range.
+A posição deixará de receber recompensas de CAKE quando o preço sair do intervalo.
 
-If the price moves back in range, the position will start receiving CAKE rewards again. No additional actions are required from stakers.
-
-
-
-### Are there any ways to automatically adjust my position so it is always in range and earning fee rewards?
-
-PancakeSwap v3 supports one-click liquidity depositing via Zap, available on BNB Chain and Ethereum.
+Se o preço voltar ao intervalo, a posição começará a receber recompensas de CAKE novamente. Nenhuma ação adicional é necessária dos usuários em Staking.
 
 
 
-### Is it better to always farm with a liquidity position with a smaller range?
+### Há alguma maneira de ajustar automaticamente minha posição para que ela esteja sempre no intervalo e ganhando recompensas de taxa?
 
-Providing liquidity to a smaller price range will help concentrate your liquidity, boosting your relative shares again the total liquidity within the price range, potentially earning more CAKE rewards.
-
-However, please bear in mind that only active liquidity positions will earn CAKE rewards. This means you will only earn rewards when the current trading price is within the price range defined in the liquidity position.
-
-If you need to adjust your position price range, you will need to unstake, remove liquidity and create a new position with the updated price range. Please bear in mind that frequent adjustments are not always the most optimal strategy as it realises the impermanent loss and costs a certain amount of gas to complete multiple transactions.
+O PancakeSwap v3 suporta depósito de liquidez com um clique via Zap, disponível na BNB Chain e Ethereum.
 
 
 
-### How many positions I can stake in one single farm?
+### É melhor sempre fazer farming com uma posição de liquidez com um intervalo menor?
 
-There is no maximum limit of positions you can stake in one farm.
+Fornecer liquidez a uma faixa de preço menor ajudará a concentrar sua liquidez, aumentando suas parcelas relativas em relação à liquidez total dentro da faixa de preço, potencialmente ganhando mais recompensas de CAKE.
 
-But please bear in mind that you will need to spend gas to manually harvest from each one of the positions. Please always factor gas cost in the yield operations.
+No entanto, lembre-se de que apenas posições de liquidez ativas ganharão recompensas de CAKE. Isso significa que você só ganhará recompensas quando o preço de negociação atual estiver dentro da faixa de preço definida na posição de liquidez.
 
-
-
-### How often should I harvest my rewards?
-
-How often you harvest your rewards is up to you, but it does help to remember that there is a small fee involved in harvesting. You can see this fee in your wallet when confirming after clicking “Harvest”**.**
-
-This shows the fee for harvesting as it appears in the MetaMask wallet. Different wallets will show the information a little differently. Consider leaving your rewards to grow for a while so you pay fees less often.
+Se precisar ajustar a faixa de preço da sua posição, você precisará retirar do Staking, remover a liquidez e criar uma nova posição com a faixa de preço atualizada. Lembre-se de que ajustes frequentes nem sempre são a estratégia mais ideal, pois realizam a perda impermanente e custam uma certa quantidade de gas para completar múltiplas transações.
 
 
 
-### What if I want to adjust my position while staking in the farm?
+### Quantas posições posso colocar em Staking em um único farm?
 
-While staking in the farm, you are able to add or remove liquidity without unstaking it. Simply locate the liquidity position you want to adjust, and click its title/id, and you should be presented with the position detail page where you can use the “Add” and “Remove” buttons.
+Não há limite máximo de posições que você pode colocar em Staking em um farm.
 
-If you want to adjust the price range configurations of a liquidity position, you will need to unstake it from the farm, remove all liquidity and re-create a new position by adding liquidity.
-
-
-
-### What affects Farming APR?
-
-In Farm v3, CAKE reward APR could vary between liquidity positions. It is based on the following factors:
-
-* CAKE emission rate to Farms\
-  \- more CAKE will generate a higher yield for all the farms. Read more on [our tokenomics page](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics)
-* Farm multiplier\
-  \- farms with a higher multiplier will get more CAKE proportionate to all the farms. Please note that v3 and v2 + stable swap farms are using two separate sets of multipliers. And farms on Ethereum and BNB Chains are also using two separate sets of multipliers.
-* The number of tokens deposited in the position\
-  \- more token in the position translates to a larger relative share against the total active liquidity in the farm pool and gets more CAKE rewards
-* The selected price range\
-  \- smaller price range allows a higher concentration for the same amount of token deposited, which translates to a larger relative share against the total active liquidity in the farm pool, and gets more CAKE rewards
-* The amount of liquidity currently active\
-  \- if there are more users who deposit and concentrate their liquidity with the same range as you, you will earn CAKE rewards due to a smaller relative share against the total
-* Whether the liquidity position is active\
-  \- only active liquidity positions will earn CAKE rewards from farm
+Mas lembre-se de que você precisará gastar gas para colher manualmente cada uma das posições. Sempre considere o custo de gas nas operações de rendimento.
 
 
 
-### Why am I seeing an "Update Positions" pop-up?
+### Com que frequência devo colher minhas recompensas?
 
-![](<../../.gitbook/assets/image (321).png>)
+A frequência de colheita das recompensas é sua decisão, mas lembre-se de que há uma pequena taxa envolvida na colheita. Você pode ver essa taxa na sua carteira ao confirmar após clicar em "Harvest"**.**
 
-Soon after the V3 launch, Chefs implemented an update on Farms to make reward calculations more accurate and reliable. If you are seeing this pop-up, that means some of your positions will require an update.
-
-Simply click "Update All", and confirm in your wallet pop-up.
-
-Please note that Chefs are also applying this update to the historical staking data between the launch of Farm V3 and when this update is implemented. If there are any extra CAKE rewards, they will be airdropped to your wallet before 1st May 2023.
+Isso mostra a taxa de colheita conforme aparece na carteira MetaMask. Carteiras diferentes mostrarão as informações de forma ligeiramente diferente. Considere deixar suas recompensas crescerem por um tempo para pagar taxas com menos frequência.
 
 
 
-### Why a 2x farm in V3 has less APR than a 1x farm in V2?
+### E se eu quiser ajustar minha posição enquanto estou em Staking no farm?
 
-First, when comparing APRs, you need to ensure the total staked liquidity between two farms is equal.
+Enquanto estiver em Staking no farm, você pode adicionar ou remover liquidez sem retirar do Staking. Basta localizar a posição de liquidez que deseja ajustar, clicar em seu título/ID e você deverá ver a página de detalhes da posição onde pode usar os botões "Add" e "Remove".
 
-On top of that, we now have multiple groups of farms which have their own stream of CAKE emissions. And each group of farms shares separated sets of multipliers.
-
-An individual farm will receive CAKE emissions based on:
-
-* A = Total CAKE per second/block for the farm group it belongs to
-* B = Total number of multipliers within the group it belongs to
-* C = The multiplier has
-
-`CAKE per block/second = C / B * A`
-
-The above numbers can be found in each of the [MasterChef](/broken/pages/-MeTWzQOSmb1ej51HT0I) contracts.
+Se quiser ajustar as configurações de faixa de preço de uma posição de liquidez, você precisará retirá-la do Staking no farm, remover toda a liquidez e criar uma nova posição adicionando liquidez.
 
 
 
-### Can I use bCAKE in v3 Farms?
+### O que afeta o APR de Farming?
 
-Yes
+No Farm v3, o APR de recompensa de CAKE pode variar entre posições de liquidez. Ele é baseado nos seguintes fatores:
 
-bCAKE for V3 Farms will come very soon after the deployment of PancakeSwap Farm V3. Stay tuned.
+* Taxa de emissão de CAKE para os Farms\
+  \- mais CAKE gerará um rendimento maior para todos os farms. Leia mais na [nossa página de tokenomics](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics)
+* Multiplicador do Farm\
+  \- farms com um multiplicador maior receberão mais CAKE proporcionalmente a todos os farms. Observe que os farms v3 e v2 + stable swap usam dois conjuntos separados de multiplicadores. E os farms no Ethereum e BNB Chain também usam dois conjuntos separados de multiplicadores.
+* A quantidade de tokens depositados na posição\
+  \- mais tokens na posição se traduz em uma participação relativa maior em relação à liquidez ativa total no pool do farm e obtém mais recompensas de CAKE
+* A faixa de preço selecionada\
+  \- uma faixa de preço menor permite uma maior concentração para a mesma quantidade de tokens depositados, o que se traduz em uma participação relativa maior em relação à liquidez ativa total no pool do farm e obtém mais recompensas de CAKE
+* A quantidade de liquidez atualmente ativa\
+  \- se houver mais usuários que depositam e concentram sua liquidez com o mesmo intervalo que você, você ganhará recompensas de CAKE em razão de uma participação relativa menor em relação ao total
+* Se a posição de liquidez está ativa\
+  \- apenas posições de liquidez ativas ganharão recompensas de CAKE do farm
+
+
+
+### Por que estou vendo um pop-up de "Update Positions"?
+
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28321%29.png)
+
+Logo após o lançamento do V3, os Chefs implementaram uma atualização nos Farms para tornar os cálculos de recompensa mais precisos e confiáveis. Se você estiver vendo este pop-up, significa que algumas de suas posições precisarão de uma atualização.
+
+Basta clicar em "Update All" e confirmar no pop-up da sua carteira.
+
+Observe que os Chefs também estão aplicando esta atualização aos dados históricos de Staking entre o lançamento do Farm V3 e quando esta atualização for implementada. Se houver recompensas extras de CAKE, elas serão lançadas via airdrop para sua carteira antes de 1º de maio de 2023.
+
+
+
+### Por que um farm de 2x no V3 tem menos APR do que um farm de 1x no V2?
+
+Primeiro, ao comparar APRs, você precisa garantir que a liquidez total em Staking entre dois farms seja igual.
+
+Além disso, agora temos múltiplos grupos de farms que têm seu próprio fluxo de emissões de CAKE. E cada grupo de farms compartilha conjuntos separados de multiplicadores.
+
+Um farm individual receberá emissões de CAKE com base em:
+
+* A = Total de CAKE por segundo/bloco para o grupo de farm ao qual pertence
+* B = Número total de multiplicadores dentro do grupo ao qual pertence
+* C = O multiplicador que possui
+
+`CAKE por bloco/segundo = C / B * A`
+
+Os números acima podem ser encontrados em cada um dos contratos [MasterChef](/broken/pages/-MeTWzQOSmb1ej51HT0I).
+
+
+
+### Posso usar bCAKE nos farms v3?
+
+Sim
+
+O bCAKE para os Farms V3 chegará muito em breve após a implantação do Farm V3 da PancakeSwap. Fique atento.

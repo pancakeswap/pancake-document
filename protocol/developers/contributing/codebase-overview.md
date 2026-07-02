@@ -1,26 +1,25 @@
 ---
-description: Find your way on Pancake Github
+description: Encontre seu caminho no Github do Pancake
 ---
 
-# Codebase Overview
+# Visão Geral do Código-Base
 
-## Introduction
+## Introdução
 
-All our repositories are stored on [Github](https://github.com/pancakeswap). Most of them are public, and you can freely submit an issue or a pull request. Make sure you read this whole guide, and the guidelines specific to each repository before.
+Todos os nossos repositórios estão armazenados no [Github](https://github.com/pancakeswap). A maioria deles é pública, e você pode enviar livremente uma issue ou um pull request. Certifique-se de ler este guia completo e as diretrizes específicas de cada repositório antes.
 
-## Github repositories
+## Repositórios do Github
 
-* Frontend: The main frontend. It contains all the features that are not listed below.
-  * [sdk](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/swap-sdk) - An SDK for building applications on top of Pancakeswap
-  * [aptos-swap-sdk](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/aptos-swap-sdk) - Aptos version of Swap SDK
-  * [swap-sdk-core](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/swap-sdk-core) - Swap SDK Shared code
-  * [wagmi](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/wagmi) - Extension for [wagmi](https://github.com/wagmi-dev/wagmi), including bsc chain and binance wallet connector
-  * [awgmi](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/awgmi) - connect to Aptos with similar wagmi React hooks. Including wallet adapters.
-* Smart Contract: All the smart contracts that is deployed on BSC and ETH.
-* Smart Contract: All the Move version of smart contracts that is deployed on Aptos.
-* Subgraph: GraphQL endpoint to query the events and entities.
+* Frontend: O frontend principal. Contém todas as funcionalidades que não estão listadas abaixo.
+  * [sdk](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/swap-sdk) - Um SDK para criar aplicações em cima do Pancakeswap
+  * [aptos-swap-sdk](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/aptos-swap-sdk) - Versão Aptos do SDK de Swap
+  * [swap-sdk-core](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/swap-sdk-core) - Código compartilhado do SDK de Swap
+  * [wagmi](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/wagmi) - Extensão para [wagmi](https://github.com/wagmi-dev/wagmi), incluindo a chain BSC e o conector da Binance Wallet
+  * [awgmi](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/awgmi) - conecte-se ao Aptos com hooks React semelhantes ao wagmi. Inclui adaptadores de carteira.
+* Smart Contract: Todos os contratos inteligentes implantados na BSC e na ETH.
+* Smart Contract: Todos os contratos inteligentes na versão Move implantados no Aptos.
+* Subgraph: Endpoint GraphQL para consultar eventos e entidades.
 
 
 
-<table><thead><tr><th width="227">Project</th><th>Github</th><th data-hidden>Website</th></tr></thead><tbody><tr><td>Frontend Monorepo</td><td><a href="https://github.com/pancakeswap/pancake-frontend">https://github.com/pancakeswap/pancake-frontend</a></td><td><a href="https://pancakeswap.finance">🔗PancakeSwap</a></td></tr><tr><td>Smart Contract</td><td><a href="https://github.com/pancakeswap/pancake-smart-contracts">https://github.com/pancakeswap/pancake-smart-contracts</a></td><td></td></tr><tr><td>Smart Contract Move</td><td><a href="https://github.com/pancakeswap/pancake-contracts-move">https://github.com/pancakeswap/pancake-contracts-move</a></td><td></td></tr><tr><td>Subgraph</td><td><a href="https://github.com/pancakeswap/pancake-subgraph">https://github.com/pancakeswap/pancake-subgraph </a></td><td></td></tr></tbody></table>
-
+<table><thead><tr><th width="227">Projeto</th><th>Github</th><th data-hidden>Website</th></tr></thead><tbody><tr><td>Frontend Monorepo</td><td><a href="https://github.com/pancakeswap/pancake-frontend">https://github.com/pancakeswap/pancake-frontend</a></td><td><a href="https://pancakeswap.finance">🔗PancakeSwap</a></td></tr><tr><td>Smart Contract</td><td><a href="https://github.com/pancakeswap/pancake-smart-contracts">https://github.com/pancakeswap/pancake-smart-contracts</a></td><td></td></tr><tr><td>Smart Contract Move</td><td><a href="https://github.com/pancakeswap/pancake-contracts-move">https://github.com/pancakeswap/pancake-contracts-move</a></td><td></td></tr><tr><td>Subgraph</td><td><a href="https://github.com/pancakeswap/pancake-subgraph">https://github.com/pancakeswap/pancake-subgraph </a></td><td></td></tr></tbody></table>

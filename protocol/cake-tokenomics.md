@@ -1,45 +1,45 @@
 # 🍰 CAKE Tokenomics
 
-<figure><img src="../.gitbook/assets/0422.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/0422.png" alt="" width="563"><figcaption></figcaption></figure>
 
-## CAKE Tokenomics 3.0 Overview <a href="#emission-rate" id="emission-rate"></a>
+## Visão Geral do CAKE Tokenomics 3.0 <a href="#emission-rate" id="emission-rate"></a>
 
-Our goal at PancakeSwap is to build a decentralized ecosystem that prioritizes flexibility and sustainability of the CAKE community, liquidity providers, and PancakeSwap supporters.
+Nosso objetivo no PancakeSwap é construir um ecossistema descentralizado que priorize a flexibilidade e a sustentabilidade da comunidade CAKE, dos provedores de liquidez e dos apoiadores do PancakeSwap.
 
-**PancakeSwap’s target is an annual deflation rate of at least \~4% per year and a total CAKE supply reduction of \~20% by 2030.** To achieve this, PancakeSwap implements a buy-back-and-burn strategy, ultimately leading to a deflationary CAKE token.
+**A meta do PancakeSwap é uma taxa de deflação anual de pelo menos \~4% ao ano e uma redução total do fornecimento de CAKE de \~20% até 2030.** Para alcançar isso, o PancakeSwap implementa uma estratégia de recompra e queima, levando, em última instância, a um token CAKE deflacionário.
 
-**Burns are driven by every product in the PancakeSwap ecosystem**, specifically a large share of fees from:
+**As queimas são impulsionadas por todos os produtos do ecossistema PancakeSwap**, especificamente uma grande parcela das taxas de:
 
-* [Spot trading](https://docs.pancakeswap.finance/earn/pancakeswap-pools#trading-fees) (15-23% of trading fees)
-* Perpetual trading (20% of all profits)
-* CAKE.PADs (100% of all fees)
-* Prediction (3% of each round)
-* Lottery (20% of all CAKE played)
+* [Negociação Spot](https://docs.pancakeswap.finance/earn/pancakeswap-pools#trading-fees) (15-23% das taxas de negociação)
+* Trading Perpétuo (20% de todos os lucros)
+* CAKE.PADs (100% de todas as taxas)
+* Previsão (3% de cada rodada)
+* Loteria (20% de todo CAKE jogado)
 
-**Emissions are carefully managed to ensure liquidity is directed to the most productive pools and products.** PancakeSwap’s focus is on scaling volume growth by optimizing liquidity incentives and boosting revenue per CAKE spent. Every decision revolves around the goal of creating real revenue and contributing to long-term success for the entire community. Products that receive CAKE emissions include:
+**As emissões são gerenciadas com cuidado para garantir que a liquidez seja direcionada para os pools e produtos mais produtivos.** O foco do PancakeSwap está em escalar o crescimento do volume otimizando os incentivos de liquidez e aumentando a receita por CAKE gasto. Cada decisão gira em torno do objetivo de criar receita real e contribuir para o sucesso a longo prazo de toda a comunidade. Os produtos que recebem emissões de CAKE incluem:
 
-* Multichain farms
-* Lottery
-* Ecosystem Growth
+* Farms multichain
+* Loteria
+* Crescimento do Ecossistema
 
-## How to Confirm CAKE Supply for yourself <a href="#distribution" id="distribution"></a>
+## Como Confirmar o Fornecimento de CAKE por Conta Própria <a href="#distribution" id="distribution"></a>
 
-To confirm that the circulating CAKE supply shown on the PancakeSwap homepage is correct:
+Para confirmar que o fornecimento circulante de CAKE exibido na página inicial do PancakeSwap está correto:
 
-1. Head to the CAKE token contract on BscScan and [see how much CAKE is held by the Burn Address.](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82#balances) That's the total amount of CAKE that's been burned (removed from circulation FOREVER, and impossible to ever retrieve).
-2. Then, subtract this burned amount from the "Total Supply" that BscScan shows.
-3. This gives you the actual CAKE supply.
+1. Acesse o contrato do token CAKE no BscScan e [veja quanto CAKE está no Endereço de Queima.](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82#balances) Esse é o total de CAKE que foi queimado (removido da circulação PARA SEMPRE, impossível de recuperar).
+2. Em seguida, subtraia esse valor queimado do "Fornecimento Total" exibido pelo BscScan.
+3. Isso fornece o fornecimento real de CAKE.
 
-Note: CAKE locked forever in the legacy CAKE pool is also considered burned as it is irretrievable. This [Dune dashboard](https://dune.com/pancakeswap/PancakeSwap-CAKE-Tokenomics) accounts for this.
+Observação: O CAKE bloqueado permanentemente no pool legado de CAKE também é considerado queimado, pois é irrecuperável. Este [painel do Dune](https://dune.com/pancakeswap/PancakeSwap-CAKE-Tokenomics) leva isso em conta.
 
-## Does CAKE have a hard cap? <a href="#other-deflationary-mechanics" id="other-deflationary-mechanics"></a>
+## O CAKE tem um limite máximo? <a href="#other-deflationary-mechanics" id="other-deflationary-mechanics"></a>
 
-Yes, CAKE now has a hard cap set at 400M.
+Sim, o CAKE agora tem um limite máximo definido em 400M.
 
-A proposal for the latest cap adjustment was put forward on January 16, 2026 to decrease the cap from 450M to 400M. It was successfully passed.
+Uma proposta para o ajuste mais recente do limite foi apresentada em 16 de janeiro de 2026 para reduzir o limite de 450M para 400M. Foi aprovada com sucesso.
 
-For more details on the voting proposal, please follow this link: [https://pancakeswap.finance/voting/proposal/0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5](https://pancakeswap.finance/voting/proposal/0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5)
+Para mais detalhes sobre a proposta de votação, siga este link: [https://pancakeswap.finance/voting/proposal/0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5](https://pancakeswap.finance/voting/proposal/0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5)
 
-## How is CAKE supply reduced?
+## Como o fornecimento de CAKE é reduzido?
 
-The Chefs aim to make deflation higher than emission by building deflationary mechanisms into PancakeSwap's products. The goal is for more CAKE to leave circulation than the amount of CAKE that's produced. Check the [CAKE Burn Dashboard](https://dune.com/pancakeswap/PancakeSwap-CAKE-Tokenomics) for details on present and upcoming deflationary mechanisms.
+Os Chefs têm como objetivo tornar a deflação maior do que a emissão, incorporando mecanismos deflacionários nos produtos do PancakeSwap. O objetivo é que mais CAKE saia de circulação do que a quantidade de CAKE produzida. Confira o [Painel de Queima de CAKE](https://dune.com/pancakeswap/PancakeSwap-CAKE-Tokenomics) para detalhes sobre os mecanismos deflacionários presentes e futuros.
