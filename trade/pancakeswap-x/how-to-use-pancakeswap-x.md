@@ -1,43 +1,43 @@
-# How to use PancakeSwap X
+# Как использовать PancakeSwap X
 
-PancakeSwap X is built directly into the familiar “Swap” interface and enabled for all users by default. To use PancakeSwap X, simply head to the [Swap](https://pancakeswap.finance/swap) page and start trading.
+PancakeSwap X встроен прямо в привычный интерфейс «Обмен» и включён для всех пользователей по умолчанию. Чтобы использовать PancakeSwap X, просто перейди на страницу [Обмена](https://pancakeswap.finance/swap) и начни торговать.
 
-### Enable PancakeSwap X
+### Включить PancakeSwap X
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28470%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-In case X is not enabled. Click the settings icon in “Route” to open the settings modal, and then click “Customise Routing” to bring up the routing preference.
+Если X не включён, нажми значок настроек в разделе «Маршрут», чтобы открыть модальное окно настроек, затем нажми «Настройка маршрутизации».
 
-Within the “Customize Routing” modal, there will be a new switch for toggling PancakeSwap X for trade routes. Simply click or tap to toggle it on.
+В модальном окне «Настройка маршрутизации» появится новый переключатель для активации PancakeSwap X для торговых маршрутов. Просто нажми или коснись его, чтобы включить.
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28471%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Once toggled, you may head back to the main Swap page. If the current Swap is available for PancakeSwap X, an indicator will show up in the “Route” section. With price impact and fees all being 0.
+После включения можно вернуться на главную страницу Обмена. Если текущий обмен доступен через PancakeSwap X, в разделе «Маршрут» появится соответствующий индикатор. При этом ценовое влияние и комиссии будут равны 0.
 
-Please note that PancakeSwap X is not available for all the swaps. Its availability is subject to input, and output tokens, as well as the trade size and the network. If the swap can not be processed by PancakeSwap X, it will be routed through the AMM liquidity pools.
+Обрати внимание, что PancakeSwap X доступен не для всех обменов. Его доступность зависит от входных и выходных токенов, размера сделки и сети. Если обмен не может быть обработан через PancakeSwap X, он будет направлен через пулы ликвидности AMM.
 
-When a trade is going through PancakeSwap X, it will be highlighted in the “Route” section.
+Когда сделка проходит через PancakeSwap X, она будет выделена в разделе «Маршрут».
 
-### Submit Order
+### Отправить ордер
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28472%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-To submit the order, click “Swap”, then verify all the parameters in the “Confirm Swap” modal. If everything looks good, click “Confirm Swap” to continue.
+Для отправки ордера нажми «Обменять», затем проверь все параметры в модальном окне «Подтвердить обмен». Если всё выглядит правильно, нажми «Подтвердить обмен» для продолжения.
 
-If you haven’t approved the input token, your wallet will prompt you to approve. Please note that although swapping through PancakeSwap X does not require any gas token, approving for token spending does require gas.
+Если ты не одобрил входной токен, кошелёк запросит одобрение. Обрати внимание, что хотя обмен через PancakeSwap X не требует газового токена, одобрение расходования токенов всё равно требует газа.
 
-After token approval, another wallet popup will appear to ask for signing on the order. Simple click “Confirm” to proceed. No gas cost or onchain transaction will be involved.
+После одобрения токена появится ещё одно всплывающее окно кошелька с запросом на подписание ордера. Просто нажми «Подтвердить» для продолжения. Газ и транзакции в блокчейне при этом не потребуются.
 
-Once the order is submitted, a modal with progress bar will appear. You may close the modal, while your order will continue to be filled in the background.
+После отправки ордера появится модальное окно с индикатором прогресса. Можно закрыть это окно — ордер продолжит исполняться в фоновом режиме.
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28473%29.png" alt="" width="367"><figcaption></figcaption></figure>
 
-Note that unlike regular AMM DEX liquidity pool swaps, once a PancakeSwap X order is submitted, it will take some time for the liquidity providers to respond and fill your order. It could take up to 2 minutes until the order is successfully filled.
+Обрати внимание, что в отличие от обычных обменов через пулы ликвидности AMM DEX, после отправки ордера PancakeSwap X потребуется некоторое время для того, чтобы поставщики ликвидности ответили и исполнили твой ордер. На успешное исполнение ордера может уйти до 2 минут.
 
-### Track your order status
+### Отслеживать статус ордера
 
-To track your order status, open the wallet modal from wallet dropdown on top right. Click the “Transaction” button to bring up the list of orders. To see more detail of a specific order, simply click and open up the detail modal.
+Чтобы отслеживать статус ордера, открой модальное окно кошелька из выпадающего меню кошелька в правом верхнем углу. Нажми кнопку «Транзакции», чтобы вызвать список ордеров. Чтобы просмотреть подробности конкретного ордера, просто нажми и открой модальное окно деталей.
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28474%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Once an order is successfully filled, you will see a green check mark on the order, while the purchased tokens being sent to your wallet automatically.
+После успешного исполнения ордера на нём появится зелёная галочка, а купленные токены будут автоматически отправлены в твой кошелёк.

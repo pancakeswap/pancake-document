@@ -1,37 +1,37 @@
-# FAQs
+# FAQ
 
-#### Which network is currently supported?
+#### Какие сети в настоящее время поддерживаются?
 
-PancakeSwap X is live on Arbitrum and Ethereum, supporting crypto tokens, and on BNB Chain, it supports real-world assets (RWAs) like tokenised stocks, bonds, and ETFs.
+PancakeSwap X работает на Arbitrum и Ethereum, поддерживая криптотокены, а на BNB Chain — активы реального мира (RWA), такие как токенизированные акции, облигации и ETF.
 
-#### Is PancakeSwap X on by default?
+#### Включён ли PancakeSwap X по умолчанию?
 
-Yes.
+Да.
 
-#### Why is my swap not going through PancakeSwap X?
+#### Почему мой обмен не проходит через PancakeSwap X?
 
-PancakeSwap X is a part of the “Swap” product. The Swap interface automatically compare and choose the most optimal liquidity source with the best price for you. Therefore PancakeSwap X will be utilised only when:
+PancakeSwap X является частью продукта «Swap». Интерфейс Swap автоматически сравнивает и выбирает наиболее оптимальный источник ликвидности с лучшей ценой. Поэтому PancakeSwap X будет использоваться только в том случае, если:
 
-* The current network supports PancakeSwap X
-* The current trading pair supports PancakeSwap X
-* The pricing is better on PancakeSwap X than other liquidity sources
+* Текущая сеть поддерживает PancakeSwap X
+* Текущая торговая пара поддерживает PancakeSwap X
+* Цена на PancakeSwap X лучше, чем в других источниках ликвидности
 
-If your order is not going through PancakeSwap X, you are not missing anything, as you are already enjoying the best price.
+Если твой ордер не проходит через PancakeSwap X, ты ничего не теряешь — ты уже получаешь лучшую цену.
 
-#### Why is my swap failing with PancakeSwap X?
+#### Почему мой обмен через PancakeSwap X завершается ошибкой?
 
-When trading via PancakeSwap X, orders are actively filled by liquidity providers. Therefore, in some rare cases, often due to rapid market movements, liquidity providers may fail to fill the orders in time, resulting in failed orders.
+При торговле через PancakeSwap X ордера активно исполняются поставщиками ликвидности. Поэтому в редких случаях, часто из-за резких движений рынка, поставщики ликвидности могут не успеть исполнить ордера вовремя, что приводит к сбою.
 
-In this case, simply retry by re-submitting the order. If the error persists, please disable the PancakeSwap X from the settings.
+В этом случае просто повтори попытку, повторно отправив ордер. Если ошибка сохраняется, отключи PancakeSwap X в настройках.
 
-#### Is there any fee when using PancakeSwap X?
+#### Взимается ли комиссия при использовании PancakeSwap X?
 
-For now, PancakeSwap X does not charge any fee. Fee rate is subject to change in the future.
+На данный момент PancakeSwap X не взимает никаких комиссий. Ставка комиссии может измениться в будущем.
 
-#### How does PancakeSwap X work without gas fees?
+#### Как PancakeSwap X работает без комиссий за газ?
 
-Orders are sent to a network of fillers off-chain who bear the gas cost while executing the order on-chain.
+Ордера отправляются в сеть исполнителей вне блокчейна, которые берут на себя расходы на газ при исполнении ордера в блокчейне.
 
-#### What happens if a transaction fails on PancakeSwap X?
+#### Что произойдёт, если транзакция на PancakeSwap X не удастся?
 
-Nothing to worry. Your funds are safe in your wallet.&#x20;
+Не беспокойся. Твои средства в безопасности в твоём кошельке.&#x20;

@@ -1,50 +1,50 @@
-# 💳 Buy Crypto
+# 💳 Купить криптовалюту
 
-PancakeSwap introduces the ability to purchase your favourite tokens using a credit card, debit card or bank transfer. Integrating on-ramp services into our platform aims to provide users with a seamless and convenient way to purchase cryptocurrencies using fiat currencies. Using our on-ramp quote interface, users can choose between different providers and get the best rates in Web3.
+PancakeSwap предоставляет возможность приобрести любимые токены с помощью кредитной карты, дебетовой карты или банковского перевода. Интеграция сервисов on-ramp в нашу платформу призвана обеспечить пользователям удобный и бесшовный способ покупки криптовалют за фиатные деньги. С помощью нашего интерфейса котировок on-ramp пользователи могут выбирать между разными провайдерами и получать лучшие курсы в Web3.
 
-### Benefits for Users
+### Преимущества для пользователей
 
-The on-ramp integration and quote system offers several key benefits for our users:
+Интеграция on-ramp и система котировок предлагают несколько ключевых преимуществ:
 
-1. Easy Purchase of Cryptocurrencies: Users can now conveniently purchase cryptocurrencies directly from our platform using their preferred fiat currency, eliminating the need for multiple transactions across different platforms.
-2. Wide Range of Supported Currencies and Regions: Our esteemed partners, including Mercuryo, support various fiat currencies, ensuring users from various regions can actively participate in the ever-expanding crypto market.
-3. Multiple Payment Methods: We support various payment methods, such as credit/debit cards and bank transfers, providing users with great flexibility and convenience to complete transactions in a way that suits their preferences.
-4. Secure and Compliant: Our trusted partners adhere to stringent security standards and comply with all applicable regulations, prioritizing protecting user data and ensuring that transactions are carried out in a secure environment.
-5. Transparent Fee Structure: We maintain a transparent fee structure with no hidden charges. Users will have complete visibility of the exact amount they will be charged before finalizing their purchases, ensuring a fair and informed transaction process.
+1. Простая покупка криптовалют: теперь ты можешь удобно покупать криптовалюты прямо с нашей платформы в любой предпочтительной фиатной валюте — не нужно совершать несколько операций на разных платформах.
+2. Широкий спектр поддерживаемых валют и регионов: наши уважаемые партнёры, в том числе Mercuryo, поддерживают различные фиатные валюты, что позволяет пользователям из разных регионов активно участвовать в постоянно расширяющемся крипторынке.
+3. Несколько способов оплаты: мы поддерживаем различные способы оплаты — кредитные/дебетовые карты и банковские переводы — обеспечивая высокую гибкость и удобство для завершения транзакций так, как тебе удобно.
+4. Безопасность и соответствие требованиям: наши надёжные партнёры придерживаются строгих стандартов безопасности и соблюдают все применимые нормативные требования, приоритизируя защиту данных пользователей и обеспечивая проведение транзакций в безопасной среде.
+5. Прозрачная структура комиссий: мы придерживаемся прозрачной структуры комиссий без скрытых платежей. Ты будешь видеть точную сумму списания перед окончательным оформлением покупки, что обеспечивает справедливый и осознанный процесс транзакции.
 
-### Structure and Fees
+### Структура и комиссии
 
-On-ramp services are available on **BNB, Ethereum, Arbitrum, Base, Linea, and zkSync Era** chains. Major cryptocurrencies and stablecoins are available and outlined in the table below:
+Сервисы on-ramp доступны в сетях **BNB, Ethereum, Arbitrum, Base, Linea и zkSync Era**. Основные криптовалюты и стейблкоины доступны и указаны в таблице ниже:
 
 
 
-<table><thead><tr><th width="145">Provider</th><th>Fees^</th><th>Fiat Currencies Supported</th><th>Tokens Supported**</th></tr></thead><tbody><tr><td>Mercuryo</td><td>3.95% for Debit/Credit, 3.95% for Bank Transfers/SEPA (EU)</td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY, KRW, VND</td><td><p>BTC: BTC<br><br>ERC-20: ETH, USDT, DAI</p><p></p><p>BEP-20: BNB<br><br>ARB: ETH, USDC</p></td></tr><tr><td>Moonpay</td><td><p>2.75% for Debit/Credit</p><p>1.25% for SEPA (EU), FPS (UK)</p><p>2.95% for PIX (Brazil)</p></td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY, KRW, TWD, IDR, VND</td><td><p>ERC-20: ETH, USDT, USDC, DAI<br></p><p>BEP-20: BNB (Non-US)<br><br>ARB: ETH, USDC.e</p></td></tr><tr><td>Transak***</td><td>3.5%-5.5% for Debit/Credit/Apple Pay/Google Pay, 0.99% for SEPA (EU), FPS (UK), Cash App (USD)</td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY, KRW, VND</td><td><p>ERC-20: ETH, USDT, USDC, DAI, WBTC<br></p><p>BEP-20: BNB (Non-US), USDC<br><br>ARB: ETH, ARB, USDC.e, USDC<br><br>Base: USDC, ETH<br><br>Linea: USDC, ETH<br><br>Polygon ZkEVM, ZkSync Era: ETH</p></td></tr><tr><td>Topper</td><td>2.49% for Debit/Credit/Apple Pay/Google Pay, Pix (Brazil)</td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY</td><td>BTC: BTC<br><br>ERC-20: ETH, USDT, USDC, DAI, WBTC<br><br>BEP-20: BNB, CAKE, USDT<br><br>ARB: ETH, USDC</td></tr></tbody></table>
+<table><thead><tr><th width="145">Провайдер</th><th>Комиссии^</th><th>Поддерживаемые фиатные валюты</th><th>Поддерживаемые токены**</th></tr></thead><tbody><tr><td>Mercuryo</td><td>3,95% для дебетовых/кредитных карт, 3,95% для банковских переводов/SEPA (ЕС)</td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY, KRW, VND</td><td><p>BTC: BTC<br><br>ERC-20: ETH, USDT, DAI</p><p></p><p>BEP-20: BNB<br><br>ARB: ETH, USDC</p></td></tr><tr><td>Moonpay</td><td><p>2,75% для дебетовых/кредитных карт</p><p>1,25% для SEPA (ЕС), FPS (Великобритания)</p><p>2,95% для PIX (Бразилия)</p></td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY, KRW, TWD, IDR, VND</td><td><p>ERC-20: ETH, USDT, USDC, DAI<br></p><p>BEP-20: BNB (не США)<br><br>ARB: ETH, USDC.e</p></td></tr><tr><td>Transak***</td><td>3,5%–5,5% для дебетовых/кредитных карт/Apple Pay/Google Pay, 0,99% для SEPA (ЕС), FPS (Великобритания), Cash App (USD)</td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY, KRW, VND</td><td><p>ERC-20: ETH, USDT, USDC, DAI, WBTC<br></p><p>BEP-20: BNB (не США), USDC<br><br>ARB: ETH, ARB, USDC.e, USDC<br><br>Base: USDC, ETH<br><br>Linea: USDC, ETH<br><br>Polygon ZkEVM, ZkSync Era: ETH</p></td></tr><tr><td>Topper</td><td>2,49% для дебетовых/кредитных карт/Apple Pay/Google Pay, Pix (Бразилия)</td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY</td><td>BTC: BTC<br><br>ERC-20: ETH, USDT, USDC, DAI, WBTC<br><br>BEP-20: BNB, CAKE, USDT<br><br>ARB: ETH, USDC</td></tr></tbody></table>
 
-^Fees are subject to minimum spend and maximum- most likely above 30 USD and below 10,000 USD, respectively, depending on the token. Pancakeswap will charge an additional 1% for services provided.
+^Комиссии зависят от минимальной и максимальной суммы — как правило, выше 30 USD и ниже 10 000 USD соответственно, в зависимости от токена. PancakeSwap взимает дополнительные 1% за предоставляемые услуги.
 
-\*Minimum of $3.99 for card payments or local currency equivalent
+\*Минимальная сумма — $3,99 для карточных платежей или эквивалент в местной валюте
 
-\*\*Please note that the availability of particular cryptocurrencies may vary based on the user's region
+\*\*Обрати внимание, что доступность конкретных криптовалют может варьироваться в зависимости от региона пользователя
 
-\*\*\*USD currency on-ramp not available for Base, Arbitrum, Linea. Please use another currency (EU, GBP) for on-ramping. Credit/Debit Fees by region can be found [here](https://transak.notion.site/On-Ramp-Payment-Methods-Fees-Other-Details-b0761634feed4b338a69f4f186d906a5)
+\*\*\*On-ramp в валюте USD недоступен для Base, Arbitrum, Linea. Используй другую валюту (EUR, GBP) для on-ramp. Комиссии за кредитные/дебетовые карты по регионам можно найти [здесь](https://transak.notion.site/On-Ramp-Payment-Methods-Fees-Other-Details-b0761634feed4b338a69f4f186d906a5)
 
-Please note that the quote system will provide full transparency of the exchange rate, including fees, to recommend the best option.
+Обрати внимание, что система котировок обеспечит полную прозрачность обменного курса, включая комиссии, чтобы рекомендовать лучший вариант.
 
-### How do I buy crypto?
+### Как купить криптовалюту?
 
-1. Click on the "Buy Crypto" button on the PancakeSwap platform.
+1. Нажми кнопку «Buy Crypto» на платформе PancakeSwap.
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Onramp1.png" alt=""><figcaption></figcaption></figure>
 
-2. Select your desired fiat currency and token pair from the pop-up menu.
+2. Выбери нужную пару фиатной валюты и токена во всплывающем меню.
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Onramp%202M.png" alt="" width="285"><figcaption></figcaption></figure>
 
-3. Click on "Get Quote"
+3. Нажми «Get Quote»
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Onramp%203M.png" alt="" width="294"><figcaption></figcaption></figure>
 
-4. Select recommended quote.&#x20;
+4. Выбери рекомендованную котировку.&#x20;
 
 <div>
 
@@ -56,7 +56,7 @@ Please note that the quote system will provide full transparency of the exchange
 
 </div>
 
-5. Proceed to follow the on-screen steps with the on-ramp provider.
+5. Следуй инструкциям на экране от провайдера on-ramp.
 
 <div>
 
@@ -68,24 +68,24 @@ Please note that the quote system will provide full transparency of the exchange
 
 </div>
 
-6. Your cryptocurrency should arrive in your wallet within minutes.
+6. Твоя криптовалюта должна поступить в кошелёк в течение нескольких минут.
 
-### Do I need proof of identity?
+### Нужно ли подтверждать личность?
 
-To purchase crypto through our providers, different levels of evidence are required to prove identity to our on-ramp partners. These levels will depend on the payment mode and payment amount required. Users will have to comply with provider requirements to use the buy crypto product. To learn more about this, please visit our partner documentation. **PancakeSwap does not collect and store any financial or personal data.**
+Для покупки криптовалюты через наших провайдеров требуются разные уровни подтверждения личности в зависимости от способа и суммы платежа. Пользователи обязаны соблюдать требования провайдеров для использования продукта покупки криптовалюты. Подробнее читай в документации наших партнёров. **PancakeSwap не собирает и не хранит никакие финансовые или персональные данные.**
 
-### Is buy crypto available where I'm located?
+### Доступна ли покупка криптовалюты в моём регионе?
 
-Buy crypto is available for select regions based on provider availability. Please visit our partner documentation for more information.
+Покупка криптовалюты доступна в отдельных регионах в зависимости от наличия провайдера. Подробнее читай в документации наших партнёров.
 
-### Where can I find out more?
+### Где можно узнать больше?
 
-You can visit our partner documentation here:
+Документацию наших партнёров можно найти здесь:
 
 * [Mercuryo](https://help.mercuryo.io/en/articles/6122838-on-and-off-ramps)
 * [MoonPay](https://support.moonpay.com/hc/en-gb/sections/360003486437-Buying-Cryptocurrency-)
 * [Transak](https://support.transak.com/en/collections/3985810-customer-help-center)
 
-### **What's next?**
+### **Что дальше?**
 
-The kitchen believes the onboarding experience is important to adoption in the DeFI space. We will continue improving the buy crypto experience by integrating with more partners while exploring off-ramp solutions for our users.&#x20;
+Команда считает, что процесс подключения новых пользователей важен для распространения DeFi. Мы продолжим улучшать опыт покупки криптовалюты, интегрируя новых партнёров и изучая решения off-ramp для наших пользователей.&#x20;

@@ -1,23 +1,23 @@
 # Classic StableSwap
 
-The Classic StableSwap is an implementation of Curve Finance’s AMM on PancakeSwap. It adds linear invariant constant sum curve (x+y=k) on top of the constant product formula (x\*y=k) to keep prices more equal as long as the liquidity pool is not extremely unbalanced. As a result, since StableSwaps are restricted to similarly priced assets, impermanent loss is not as much of a concern (except in extreme depeg cases) and the slippage is lower than normal AMM which just uses the constant product formula.
+Classic StableSwap — это реализация AMM Curve Finance на PancakeSwap. Он добавляет линейную инвариантную кривую постоянной суммы (x+y=k) поверх формулы постоянного произведения (x\*y=k), чтобы поддерживать цены более равными, пока пул ликвидности не является крайне несбалансированным. В результате, поскольку StableSwap ограничен активами со схожими ценами, непостоянные потери не являются такой же проблемой (за исключением крайних случаев отвязки), а проскальзывание ниже, чем в обычном AMM, который использует только формулу постоянного произведения.
 
-When you conduct a Swap (trade) on the StableSwap you will pay lower trading fees, than the usual 0.25% on normal PancakeSwap AMM. The fee attribution is broken down as follows:
+При обмене на StableSwap ты будешь платить более низкие торговые комиссии, чем обычные 0,25% в нормальном AMM PancakeSwap. Распределение комиссий выглядит следующим образом:
 
-* 50% to the LP as rewards&#x20;
-* 40% to CAKE buyback and burn&#x20;
-* 10% to the PancakeSwap Treasury
+* 50% — поставщикам ликвидности в качестве вознаграждения&#x20;
+* 40% — на обратный выкуп и сжигание CAKE&#x20;
+* 10% — в казначейство PancakeSwap
 
-## Stableswap Fees
+## Комиссии StableSwap
 
-Fees for pairs are broken down in the table below:
+Комиссии для пар разбиты в таблице ниже:
 
-<table><thead><tr><th width="150">Stablepair</th><th width="132">Trading Fees</th><th width="118.33333333333331">LP Rewards</th><th width="124">CAKE Buyback</th><th>PancakeSwap Treasury</th></tr></thead><tbody><tr><td>USDT-BUSD</td><td>0.01%</td><td>0.005%</td><td>0.004%</td><td>0.001%</td></tr><tr><td>USDC-BUSD</td><td>0.01%</td><td>0.005%</td><td>0.004%</td><td>0.001%</td></tr><tr><td>USDC-USDT</td><td>0.01%</td><td>0.005%</td><td>0.004%</td><td>0.001%</td></tr><tr><td>HAY-BUSD</td><td>0.04%</td><td>0.02%</td><td>0.016%</td><td>0.004%</td></tr><tr><td>HAY-USDT</td><td>0.04%</td><td>0.02%</td><td>0.016%</td><td>0.004%</td></tr><tr><td>axlUSDC-USDT</td><td>0.04%</td><td>0.02%</td><td>0.016%</td><td>0.004%</td></tr><tr><td>BNBx-WBNB</td><td>0.04%</td><td>0.02%</td><td>0.016%</td><td>0.004%</td></tr><tr><td>stkBNB-WBNB</td><td>0.04%</td><td>0.02%</td><td>0.016%</td><td>0.004%</td></tr></tbody></table>
+<table><thead><tr><th width="150">Стабильная пара</th><th width="132">Торговая комиссия</th><th width="118.33333333333331">Вознаграждение LP</th><th width="124">Выкуп CAKE</th><th>Казначейство PancakeSwap</th></tr></thead><tbody><tr><td>USDT-BUSD</td><td>0,01%</td><td>0,005%</td><td>0,004%</td><td>0,001%</td></tr><tr><td>USDC-BUSD</td><td>0,01%</td><td>0,005%</td><td>0,004%</td><td>0,001%</td></tr><tr><td>USDC-USDT</td><td>0,01%</td><td>0,005%</td><td>0,004%</td><td>0,001%</td></tr><tr><td>HAY-BUSD</td><td>0,04%</td><td>0,02%</td><td>0,016%</td><td>0,004%</td></tr><tr><td>HAY-USDT</td><td>0,04%</td><td>0,02%</td><td>0,016%</td><td>0,004%</td></tr><tr><td>axlUSDC-USDT</td><td>0,04%</td><td>0,02%</td><td>0,016%</td><td>0,004%</td></tr><tr><td>BNBx-WBNB</td><td>0,04%</td><td>0,02%</td><td>0,016%</td><td>0,004%</td></tr><tr><td>stkBNB-WBNB</td><td>0,04%</td><td>0,02%</td><td>0,016%</td><td>0,004%</td></tr></tbody></table>
 
-The Kitchen will gradually roll out StableSwap pairs and revise the fees to test and improve the product further.
+Кухня будет постепенно добавлять пары StableSwap и пересматривать комиссии для дальнейшего тестирования и совершенствования продукта.
 
-## Why should I use the StableSwap instead of the normal AMM Swap?
+## Почему следует использовать StableSwap вместо обычного AMM?
 
-* Swap your stablecoins or other pairs with similar asset prices more efficiently with the same trade steps&#x20;
-* With the StableSwap function, the trading slippage is lower than normal AMM&#x20;
-* The StableSwap trading fees are lower compared to the normal AMM
+* Обменивай стейблкоины или другие пары со схожими ценами активов более эффективно с теми же шагами торговли&#x20;
+* Функция StableSwap обеспечивает меньшее проскальзывание, чем обычный AMM&#x20;
+* Торговые комиссии StableSwap ниже по сравнению с обычным AMM

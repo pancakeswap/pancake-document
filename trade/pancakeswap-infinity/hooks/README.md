@@ -1,33 +1,33 @@
 # Hooks
 
 {% hint style="info" %}
-If you're a developer or looking for detailed technical documentation on developing a hook, please visit [here](https://developer.pancakeswap.finance/contracts/infinity/guides/develop-a-hook).
+Если ты разработчик или ищешь подробную техническую документацию по разработке хука, посети [эту страницу](https://developer.pancakeswap.finance/contracts/infinity/guides/develop-a-hook).
 {% endhint %}
 
-Hooks are powerful add-ons that let developers extend and customize the behavior of liquidity pools in PancakeSwap Infinity. Think of them as "plugins" or "widgets" that add new features to liquidity pools.
+Hooks — это мощные дополнения, позволяющие разработчикам расширять и настраивать поведение пулов ликвидности в PancakeSwap Infinity. Думай о них как о «плагинах» или «виджетах», добавляющих новые функции в пулы ликвидности.
 
-#### 🔍 What Are Hooks?
+#### 🔍 Что такое хуки?
 
-* Hooks are external smart contracts created by anyone — developers, protocols, or community members — and attached to liquidity pools to enhance or modify their behavior.
-* Each pool can have only one hook attached, but a single hook can serve many pools.
-* Hooks can run custom code before or after key actions like:
-  * Initializing a pool
-  * Swapping
-  * Adding/removing liquidity
-  * Donating<br>
+* Хуки — это внешние смарт-контракты, которые может создать любой желающий: разработчики, протоколы или члены сообщества — и прикрепить их к пулам ликвидности для расширения или изменения их поведения.
+* К каждому пулу может быть прикреплён только один хук, но один хук может обслуживать множество пулов.
+* Хуки могут выполнять пользовательский код до или после ключевых действий:
+  * Инициализация пула
+  * Обмен
+  * Добавление/удаление ликвидности
+  * Донат<br>
 
-**⛓️ How Hooks Work:**
+**⛓️ Как работают хуки:**
 
-* A hook is selected during pool creation and can’t be changed later.
-* A hook contract triggers on specific actions (swap, add liquidity, etc) and executes logic before or after those actions as defined within the contract.
-* For example, a hook could:
-  * Offer swap fee discounts to CAKE holders
-  * Charge custom fees and distribute rewards
-  * Enable new swap logic like stableswaps or TWAMM-style orders<br>
+* Хук выбирается при создании пула и не может быть изменён впоследствии.
+* Контракт хука срабатывает при конкретных действиях (обмен, добавление ликвидности и т. д.) и выполняет логику до или после этих действий, как определено в контракте.
+* Например, хук может:
+  * Предоставлять скидки на комиссию за обмен держателям CAKE
+  * Взимать пользовательские комиссии и распределять вознаграждения
+  * Включать новую логику обмена, например StableSwaps или ордера в стиле TWAMM<br>
 
-#### ⚙️ Hook Callbacks
+#### ⚙️ Колбэки хуков
 
-Hooks can be triggered during ten specific moments. Developers can choose which ones they want to implement:
+Хуки могут срабатывать в десяти конкретных моментах. Разработчики могут выбирать, какие из них реализовывать:
 
 * beforeInitialize / afterInitialize
 * beforeAddLiquidity / afterAddLiquidity
@@ -35,69 +35,69 @@ Hooks can be triggered during ten specific moments. Developers can choose which 
 * beforeSwap / afterSwap
 * beforeDonate / afterDonate<br>
 
-These allow to implement highly customizable and modular behavior through hooks.
+Это позволяет реализовывать высоконастраиваемое и модульное поведение через хуки.
 
-#### 🔧 Two Types of Hooks
+#### 🔧 Два типа хуков
 
-**Type 1: No Authorization Needed**
+**Тип 1: Авторизация не требуется**
 
-These hooks run automatically and do not require user permission. They are triggered by actions like swaps or liquidity changes.
-
-
-
-Examples:
-
-* Dynamic Fees: Adjust swap fees based on market volatility
-* Fee Rebates: Give discounts to users holding CAKE or trading high volumes
+Эти хуки работают автоматически и не требуют разрешения пользователя. Они срабатывают при таких действиях, как обмены или изменения ликвидности.
 
 
 
-Example Flow (CAKE Fee Discount):
+Примеры:
 
-1. A user initiates a swap.
-2. The hook checks their CAKE balance via `beforeSwap` hook callback.
-3. If the user holds enough CAKE as per defined thresholds, they get a 50% discount on pool fees.
-4. The rest of the transaction proceeds as usual.<br>
+* Динамические комиссии: регулировка комиссий за обмен в зависимости от волатильности рынка
+* Скидки на комиссии: предоставление скидок пользователям, держащим CAKE или торгующим с большим объёмом
+
+
+
+Пример работы (скидка на комиссии за CAKE):
+
+1. Пользователь инициирует обмен.
+2. Хук проверяет баланс CAKE пользователя через колбэк `beforeSwap`.
+3. Если пользователь держит достаточно CAKE согласно определённым порогам, он получает скидку 50% на комиссии пула.
+4. Остальная часть транзакции выполняется как обычно.<br>
 
 {% hint style="success" %}
-These hooks don’t need a special UI or additional interaction. The benefits are applied automatically.
+Эти хуки не требуют специального интерфейса или дополнительного взаимодействия. Преимущества применяются автоматически.
 {% endhint %}
 
-**Type 2: User Authorization Required**
+**Тип 2: Требуется авторизация пользователя**
 
-These hooks need users to interact directly with them, provide authorisation and may require to transfer funds, often to create or manage positions.
-
-
-
-Examples:
-
-* Limit Orders: Execute a swap only when target price is reached.
-* TWAMM: Break large orders into smaller pieces for better execution.
-* Active Liquidity Management: Automatically manage LP positions for optimal returns.
+Эти хуки требуют от пользователей прямого взаимодействия с ними, предоставления авторизации, а в некоторых случаях — перевода средств, часто для создания позиций или управления ими.
 
 
 
-Example Flow (Limit Order Hook):
+Примеры:
 
-1. User interacts directly with the hook contract (not the usual swap UI).
-2. They enter details like limit price, token pair, amount.
-3. The hook issues a receipt token representing the order.
-4. Later, when pool price hits the target, the hook executes the order using afterSwap.
-5. The user can return the receipt token to claim the swapped assets.
+* Лимитные ордера: исполнение обмена только при достижении целевой цены.
+* TWAMM: разбивка крупных ордеров на более мелкие части для лучшего исполнения.
+* Активное управление ликвидностью: автоматическое управление LP-позициями для оптимальных доходов.
+
+
+
+Пример работы (хук лимитного ордера):
+
+1. Пользователь напрямую взаимодействует с контрактом хука (не через обычный интерфейс обмена).
+2. Указывает детали: лимитную цену, пару токенов, сумму.
+3. Хук выпускает квитанционный токен, представляющий ордер.
+4. Позже, когда цена в пуле достигает целевой отметки, хук исполняет ордер через afterSwap.
+5. Пользователь может вернуть квитанционный токен для получения обменянных активов.
 
 {% hint style="info" %}
-These hooks often need a custom UI and users must trust and approve the hook contract to hold their funds.
+Такие хуки часто требуют пользовательского интерфейса, и пользователи должны доверять контракту хука и одобрить его для хранения своих средств.
 {% endhint %}
 
-#### 🚀 Use Cases & Innovation
+#### 🚀 Варианты использования и инновации
 
-Hooks unlock limitless possibilities, including:
+Хуки открывают безграничные возможности, в том числе:
 
-* Custom AMMs (e.g., stablecoin curves)
-* Liquidity mining rewards
-* Automated trading strategies, liquidity management
-* On-chain limit orders, other order types
-* Dynamic pricing and fee adjustments
-* Yield-enhancing LP strategies<br>
+* Пользовательские AMM (например, кривые для стейблкоинов)
+* Вознаграждения за добычу ликвидности
+* Автоматизированные торговые стратегии, управление ликвидностью
+* Лимитные ордера на блокчейне, другие типы ордеров
+* Динамическое ценообразование и настройка комиссий
+* Стратегии LP с повышенной доходностью<br>
 
-With hooks, developers can build an entirely new DeFi experience using the existing infrastructure of PancakeSwap Infinity — speeding up development and lowering costs.
+С помощью хуков разработчики могут создавать совершенно новый DeFi-опыт, используя существующую инфраструктуру PancakeSwap Infinity — ускоряя разработку и снижая затраты.

@@ -1,122 +1,122 @@
 # Infinity StableSwap
 
-### Overview
+### Обзор
 
-Infinity StableSwap is a pool type within[ PancakeSwap Infinity](https://docs.pancakeswap.finance/trade/pancakeswap-infinity) optimized for swapping assets that should trade near the same price — such as stablecoins (e.g., USDC/USDT) or tightly-pegged assets (e.g., wrapped token pairs, liquid staking tokens, and liquid restaking tokens).
+Infinity StableSwap — это тип пула в рамках [PancakeSwap Infinity](https://docs.pancakeswap.finance/trade/pancakeswap-infinity), оптимизированный для обмена активов, которые должны торговаться близко к одной цене — таких как стейблкоины (например, USDC/USDT) или активы с жёсткой привязкой (например, пары обёрнутых токенов, токены ликвидного стейкинга и токены ликвидного рестейкинга).
 
-It is powered by a StableSwap hook running on the Infinity architecture, inspired by Curve's StableSwap NG design. It is currently available on BNB Chain, with plans to expand to additional chains in the future.
-
-***
-
-### How It Works
-
-Infinity StableSwap uses a stable invariant curve — a hybrid between constant-sum and constant-product:
-
-* Near the peg → the curve behaves close to constant-sum, resulting in very low slippage for trades around 1:1.
-* Away from the peg → the curve gradually transitions toward constant-product, which helps restore balance and protects the pool during large imbalances or depeg events.
-
-This makes it especially effective for stable pairs where tight pricing and low slippage matter most.
+Работает на основе хука StableSwap, запущенного на архитектуре Infinity, вдохновлённого дизайном Curve StableSwap NG. В настоящее время доступен на BNB Chain, с планами расширения на дополнительные сети в будущем.
 
 ***
 
-### Key Features
+### Как это работает
 
-Optimized for near-peg swaps: Low slippage for trades between assets that are expected to trade at roughly the same price.
+Infinity StableSwap использует стабильную инвариантную кривую — гибрид между постоянной суммой и постоянным произведением:
 
-Simple liquidity provisioning: Liquidity providers (LPs) deposit both tokens proportionally without needing to select or manage price ranges — unlike CLAMM pools.
+* Вблизи привязки → кривая ведёт себя близко к постоянной сумме, что приводит к очень низкому проскальзыванию для сделок вокруг 1:1.
+* Далеко от привязки → кривая постепенно переходит к постоянному произведению, что помогает восстановить баланс и защитить пул при больших дисбалансах или событиях отвязки.
 
-ERC-20 LP tokens: Your LP position is represented as a standard ERC-20 token, making it easy to use with yield programs, points campaigns, and other DeFi protocols.
-
-Dynamic fees: Fees can adjust based on pool balance conditions, rewarding trades that help restore the pool toward equilibrium and discouraging those that worsen imbalance.
-
-Infinity routing support: Trades route automatically through StableSwap pools when they offer the best price — no extra steps required for traders.
-
-Adjustable Amplification (A) parameter: Pool operators can ramp the A parameter up or down over time to adapt to changing market conditions, with safeguards to prevent abrupt changes.
+Это делает его особенно эффективным для стабильных пар, где наиболее важны точное ценообразование и низкое проскальзывание.
 
 ***
 
-### Pool Parameters
+### Ключевые функции
 
-StableSwap pool behavior is governed by a small set of parameters, typically set at pool creation time.
+Оптимизирован для обменов вблизи привязки: низкое проскальзывание для сделок между активами, которые ожидаются торгующимися примерно по одной цене.
 
-#### Amplification Coefficient (A)
+Простое предоставление ликвидности: поставщики ликвидности вносят оба токена пропорционально, без необходимости выбирать или управлять ценовыми диапазонами — в отличие от пулов CLAMM.
 
-The A parameter controls how tightly the pool hugs the 1:1 price peg.
+LP-токены ERC-20: твоя LP-позиция представлена в виде стандартного токена ERC-20, что упрощает его использование в программах доходности, кампаниях по очкам и других DeFi-протоколах.
 
-| A value  | Effect                                                                         |
-| -------- | ------------------------------------------------------------------------------ |
-| Higher A | Tighter curve around peg; lower slippage near 1:1; more sensitive to imbalance |
-| Lower A  | Looser curve; behaves more like a standard constant-product pool               |
+Динамические комиссии: комиссии могут корректироваться в зависимости от состояния баланса пула, вознаграждая сделки, которые помогают восстановить пул до равновесия, и препятствуя тем, которые ухудшают дисбаланс.
 
-Rule of thumb: Use a higher A for assets with a strong, reliable peg (e.g., USDC/USDT). Use a lower A for assets with looser or more volatile pegs (e.g., some LST pairs).
+Поддержка маршрутизации Infinity: сделки автоматически маршрутизируются через пулы StableSwap, когда они предлагают лучшую цену — дополнительных шагов от трейдеров не требуется.
 
-The A parameter can be gradually ramped up or down by the pool operator over a defined period of time. Changes are applied gradually with safeguards to prevent manipulation or sudden pricing shifts.
-
-#### Off-Peg Fee Multiplier
-
-An additional parameter that adjusts effective fees when the pool moves away from equilibrium. It helps discourage trades that would further imbalance the pool and makes the pool more robust during market stress or depeg events.
-
-#### Dynamic Fees
-
-A fee charged on each swap, paid to liquidity providers. Infinity StableSwap supports dynamic fees — meaning the effective fee on a given trade can vary depending on the current state of the pool (e.g., whether the trade improves or worsens balance).
+Регулируемый параметр усиления (A): операторы пула могут постепенно увеличивать или уменьшать параметр A с течением времени для адаптации к изменяющимся рыночным условиям, с защитными механизмами для предотвращения резких изменений.
 
 ***
 
-### Infinity StableSwap vs. Classic StableSwap
+### Параметры пула
 
-If you've used PancakeSwap's existing StableSwap before, here's what changes — and what stays the same.
+Поведение пула StableSwap определяется небольшим набором параметров, как правило, устанавливаемых при создании пула.
 
-| <p><br></p>                 | Classic StableSwap                                        | Infinity StableSwap                                                |
-| --------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------ |
-| Pricing curve               | Stable invariant (hybrid constant-sum / constant-product) | Same stable invariant curve, same low slippage near peg            |
-| ERC-20 LP tokens            | ✅ Yes                                                     | ✅ Yes                                                              |
-| Pool creation               | Ops-heavy; requires manual setup by the team              | Permissionless — anyone can create a pool                          |
-| Swap fees                   | Fixed per pair (e.g. 0.01% for USDC/USDT)                 | Dynamic fees — adjusts based on how the trade affects pool balance |
-| Amplification (A) parameter | Static — set once, cannot be changed                      | Adjustable — can be ramped up or down gradually over time          |
-| Off-peg fee multiplier      | ❌ Not supported                                           | ✅ Supported — helps protect the pool during depeg events           |
-| Gas efficiency              | Standard                                                  | Improved — benefits from Infinity's Singleton and Flash Accounting |
+#### Коэффициент усиления (A)
 
-#### What stays the same
+Параметр A контролирует, насколько тесно кривая пула прижимается к ценовой привязке 1:1.
 
-* The core pricing curve and the near-peg low slippage behavior is unchanged.
+| Значение A | Эффект                                                                                |
+| ---------- | ------------------------------------------------------------------------------------- |
+| Высокий A  | Более жёсткая кривая вокруг привязки; меньше проскальзывания вблизи 1:1; более чувствительна к дисбалансу |
+| Низкий A   | Более мягкая кривая; ведёт себя больше как стандартный пул с постоянным произведением |
 
-#### What's new and better
+Практическое правило: используй более высокий A для активов с сильной надёжной привязкой (например, USDC/USDT). Используй более низкий A для активов с менее жёсткой или более волатильной привязкой (например, некоторые пары LST).
 
-* Permissionless Pool Creation: Pools can be created permissionlessly without requiring manual team setup.
-* Dynamic fees protect LPs: Instead of a single fixed fee, the fee can adjust per trade based on whether the trade helps or hurts pool balance — making the pool more resilient during volatile conditions.
-* Adaptable A parameter: The amplification coefficient can be tuned over time as market conditions change, rather than being locked in at deployment forever.
+Параметр A может быть постепенно увеличен или уменьшен оператором пула в течение определённого периода времени. Изменения применяются постепенно с защитными механизмами для предотвращения манипуляций или внезапных ценовых сдвигов.
+
+#### Множитель комиссии за отклонение от привязки
+
+Дополнительный параметр, который корректирует эффективные комиссии при отклонении пула от равновесия. Помогает препятствовать сделкам, которые дополнительно дестабилизируют пул, и делает пул более устойчивым при рыночном стрессе или событиях отвязки.
+
+#### Динамические комиссии
+
+Комиссия, взимаемая при каждом обмене и выплачиваемая поставщикам ликвидности. Infinity StableSwap поддерживает динамические комиссии — это означает, что эффективная комиссия за конкретную сделку может варьироваться в зависимости от текущего состояния пула (например, улучшает или ухудшает ли сделка баланс).
 
 ***
 
-### Frequently Asked Questions
+### Infinity StableSwap против Classic StableSwap
 
-What assets are suitable for Infinity StableSwap?
+Если ты раньше пользовался существующим StableSwap на PancakeSwap, вот что изменилось — и что осталось прежним.
 
-Assets that are expected to trade near the same price: stablecoins (USDC, USDT, BUSD, etc.), wrapped equivalents of the same asset (e.g., WBTC/cbBTC), and select liquid staking tokens / liquid restaking tokens (LST/LRT) pairs where peg volatility is low.
+| <p><br></p>                    | Classic StableSwap                                                | Infinity StableSwap                                                        |
+| ------------------------------ | ----------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| Ценовая кривая                 | Стабильный инвариант (гибрид постоянной суммы / постоянного произведения) | Та же стабильная инвариантная кривая, то же низкое проскальзывание вблизи привязки |
+| LP-токены ERC-20               | ✅ Да                                                              | ✅ Да                                                                       |
+| Создание пула                  | Требует ручной настройки командой                                  | Без разрешений — любой может создать пул                                   |
+| Комиссии за обмен              | Фиксированные на пару (например, 0,01% для USDC/USDT)             | Динамические комиссии — корректируются в зависимости от влияния сделки на баланс пула |
+| Параметр усиления (A)          | Статический — устанавливается один раз, не может быть изменён      | Регулируемый — может быть постепенно увеличен или уменьшен со временем     |
+| Множитель комиссии за отклонение | ❌ Не поддерживается                                              | ✅ Поддерживается — помогает защитить пул при событиях отвязки              |
+| Газовая эффективность          | Стандартная                                                       | Улучшенная — выгоды от Singleton и Flash Accounting в Infinity              |
+
+#### Что остаётся неизменным
+
+* Основная ценовая кривая и поведение с низким проскальзыванием вблизи привязки остаются неизменными.
+
+#### Что нового и лучше
+
+* Создание пула без разрешений: пулы могут создаваться без разрешений, без необходимости ручной настройки командой.
+* Динамические комиссии защищают поставщиков ликвидности: вместо единой фиксированной комиссии она может корректироваться для каждой сделки в зависимости от того, помогает ли сделка или ухудшает баланс пула — делая пул более устойчивым в условиях волатильности.
+* Адаптируемый параметр A: коэффициент усиления может быть настроен со временем по мере изменения рыночных условий, а не фиксироваться навсегда при развёртывании.
+
+***
+
+### Часто задаваемые вопросы
+
+Какие активы подходят для Infinity StableSwap?
+
+Активы, которые ожидаются торгующимися близко к одной цене: стейблкоины (USDC, USDT, BUSD и т.д.), обёрнутые эквиваленты одного и того же актива (например, WBTC/cbBTC) и отдельные пары токенов ликвидного стейкинга/ликвидного рестейкинга (LST/LRT), где волатильность привязки низкая.
 
 <br>
 
-How is Infinity StableSwap different from the old PancakeSwap StableSwap?
+Чем Infinity StableSwap отличается от старого PancakeSwap StableSwap?
 
-Infinity StableSwap is implemented as a hook on PancakeSwap Infinity, which means it inherits all of Infinity's infrastructure benefits, including lower gas costs via Singleton and Flash Accounting, and a more flexible fee system. It also supports new capabilities like dynamic fees and adjustable amplification that the legacy StableSwap did not offer.
-
-<br>
-
-Do I need to manage my position over time?
-
-No. Unlike CLAMM, you don't need to set or adjust price ranges. Your liquidity is always active across the full curve, so there's no risk of your position going "out of range."
+Infinity StableSwap реализован как хук на PancakeSwap Infinity, что означает, что он наследует все преимущества инфраструктуры Infinity, включая более низкие затраты на газ через Singleton и Flash Accounting, и более гибкую систему комиссий. Он также поддерживает новые возможности, такие как динамические комиссии и регулируемое усиление, которых не было в устаревшем StableSwap.
 
 <br>
 
-Can I provide liquidity with just one token?
+Нужно ли мне управлять своей позицией со временем?
 
-Yes, single-token deposits are supported.
+Нет. В отличие от CLAMM, тебе не нужно устанавливать или корректировать ценовые диапазоны. Твоя ликвидность всегда активна по всей кривой, поэтому нет риска выхода позиции «за пределы диапазона».
 
 <br>
 
-How do dynamic fees work?
+Могу ли я предоставлять ликвидность только одним токеном?
 
-In Infinity StableSwap, the swap fee can vary per trade based on how the trade affects the pool's balance. Trades that help bring the pool back toward equilibrium may pay lower effective fees, while trades that worsen imbalance may pay higher fees. This is designed to protect LPs and maintain healthier pool conditions.
+Да, поддерживаются депозиты с одним токеном.
+
+<br>
+
+Как работают динамические комиссии?
+
+В Infinity StableSwap комиссия за обмен может варьироваться для каждой сделки в зависимости от того, как сделка влияет на баланс пула. Сделки, которые помогают вернуть пул к равновесию, могут платить более низкие эффективные комиссии, тогда как сделки, ухудшающие дисбаланс, могут платить более высокие комиссии. Это разработано для защиты поставщиков ликвидности и поддержания более здоровых условий пула.
 
 
 
@@ -124,74 +124,73 @@ In Infinity StableSwap, the swap fee can vary per trade based on how the trade a
 
 
 
-## Creating an Infinity StableSwap Pool
+## Создание пула Infinity StableSwap
 
 
 
-Infinity StableSwap pools are permissionless — anyone can create one without needing approval from the PancakeSwap team.
+Пулы Infinity StableSwap не требуют разрешений — любой может создать пул без необходимости одобрения от команды PancakeSwap.
 
 <br>
 
-### Step-by-step
+### Пошаговая инструкция
 
-1\. Go to the Farm/Liquidity page and click Create Pool.
+1\. Перейди на страницу Фарминга/Ликвидности и нажми «Создать пул».
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
 
 <br>
 
-2\. Select StableSwap Pool from the pool type options.
+2\. Выбери пул StableSwap из вариантов типа пула.
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unknown%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 <br>
 
-3\. Select the token pair for your pool (e.g. USDC / USDT).
+3\. Выбери торговую пару для своего пула (например, USDC / USDT).
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unknown%20%282%29.png" alt=""><figcaption></figcaption></figure>
 
 <br>
 
-4\. Pool Parameters
+4\. Параметры пула
 
-| Parameter             | What it does                                                                                                    |
-| --------------------- | --------------------------------------------------------------------------------------------------------------- |
-| Swap Fee              | Fee charged on each swap, paid to LPs. Default is 0.01% for tight stable pairs.                                 |
-| A (Amplification)     | Controls how tightly the curve hugs the peg. Higher = lower slippage near 1:1, but more sensitive to imbalance. |
-| Offpeg Fee Multiplier | Scales up fees when the pool moves away from balance, discouraging trades that worsen imbalance.                |
-| Moving Average Time   | Time window used to calculate the moving average price for dynamic fee adjustments.                             |
+| Параметр                    | Описание                                                                                                           |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Комиссия за обмен           | Комиссия, взимаемая при каждом обмене и выплачиваемая поставщикам ликвидности. По умолчанию 0,01% для жёстких стабильных пар. |
+| A (Усиление)                | Управляет тем, насколько тесно кривая прижимается к привязке. Выше = меньше проскальзывания вблизи 1:1, но чувствительнее к дисбалансу. |
+| Множитель комиссии за отклонение | Увеличивает комиссии при отклонении пула от баланса, препятствуя сделкам, ухудшающим дисбаланс.           |
+| Время скользящего среднего  | Временное окно, используемое для расчёта скользящей средней цены для динамической корректировки комиссий.          |
 
-⚠️ Set parameters carefully. Incorrect parameters — especially a very high A on a loosely-pegged asset — can increase risk for LPs. If unsure, use the preset for your asset type and avoid changing Advanced settings.
+⚠️ Устанавливай параметры осторожно. Неправильные параметры — особенно очень высокий A для актива с нежёсткой привязкой — могут увеличить риски для поставщиков ликвидности. В случае сомнений используй пресет для своего типа активов и избегай изменения расширенных настроек.
 
 <br>
 
-Choose a Pool Parameter Preset — this automatically sets the recommended parameters for your asset type. You can still manually adjust them via the Advanced toggle.
+Выбери пресет параметров пула — это автоматически установит рекомендуемые параметры для твоего типа активов. Ты всё равно можешь вручную настроить их через переключатель «Дополнительно».
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unknown%20%283%29.png" alt=""><figcaption></figcaption></figure>
 
-| Preset                            | A    | Offpeg Fee Multiplier | Moving Average Time (seconds) |
-| --------------------------------- | ---- | --------------------- | ----------------------------- |
-| Fiat Redeemable Stablecoins       | 1000 | 10                    | 600                           |
-| Crypto Collateralized Stablecoins | 100  | 12.5                  | 600                           |
-| Liquid Restaking Tokens           | 500  | 10                    | 600                           |
+| Пресет                                | A    | Множитель комиссии за отклонение | Время скользящего среднего (секунды) |
+| ------------------------------------- | ---- | -------------------------------- | ------------------------------------ |
+| Фиатные погашаемые стейблкоины        | 1000 | 10                               | 600                                  |
+| Стейблкоины с крипто-обеспечением     | 100  | 12,5                             | 600                                  |
+| Токены ликвидного рестейкинга         | 500  | 10                               | 600                                  |
 
 <br>
 
-&#x20; Not sure which to pick?&#x20;
+&#x20; Не знаешь, что выбрать?&#x20;
 
-* Use Fiat Redeemable Stablecoins for pairs like USDC/USDT
-* Use Crypto Collateralized Stablecoins for algo or crypto-backed stablecoins
-* Use Liquid Restaking Tokens for LRT pairs like stkBNB/WBNB.
+* Используй «Фиатные погашаемые стейблкоины» для пар вроде USDC/USDT
+* Используй «Стейблкоины с крипто-обеспечением» для алгоритмических или обеспеченных криптовалютой стейблкоинов
+* Используй «Токены ликвидного рестейкинга» для пар LRT, таких как stkBNB/WBNB.
 
 <br>
 
-5\. Enter the deposit amount to seed initial liquidity. Both token amounts must be equal (e.g. 1 USDC and 1 USDT).
+5\. Введи сумму депозита для начального пополнения ликвидности. Суммы обоих токенов должны быть равны (например, 1 USDC и 1 USDT).
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unknown%20%284%29.png" alt=""><figcaption></figcaption></figure>
 
 <br>
 
-6\. Click Preview Pool, review your settings, check the confirmation box, then click Create Pool.
+6\. Нажми «Предпросмотр пула», проверь настройки, отметь флажок подтверждения, затем нажми «Создать пул».
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unknown%20%285%29.png" alt=""><figcaption></figcaption></figure>
-

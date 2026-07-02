@@ -1,17 +1,17 @@
-# How to StableSwap
+# Как использовать StableSwap
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-stableswap.png" alt=""><figcaption></figcaption></figure>
 
-## **Trading on the StableSwap**
+## **Торговля на StableSwap**
 
-Trading on the StableSwap is very similar to using the existing PancakeSwap AMM. Before we start, it also requires a BNB Smart Chain-compatible wallet and BNB for gas fees. Please check our [wallet guide](https://docs.pancakeswap.finance/get-started/wallet-guide) for more details.
+Торговля на StableSwap очень похожа на использование обычного AMM PancakeSwap. Прежде чем начать, потребуется кошелёк, совместимый с BNB Smart Chain, и BNB для оплаты газа. Подробнее читай в нашем [руководстве по кошелькам](https://docs.pancakeswap.finance/get-started/wallet-guide).
 
-1 - Go to the Swap page [here](https://pancakeswap.finance/swap)
+1 - Перейди на страницу Обмена [здесь](https://pancakeswap.finance/swap)
 
-2 - Choose the token pairs you would like to trade.&#x20;
+2 - Выбери торговую пару.&#x20;
 
-3 - Your all set! The following Swap process is the same as usual! If it’s your first time trading please check the guide [here.](../pancakeswap-exchange/trade-guide.md)
+3 - Всё готово! Дальнейший процесс обмена такой же, как обычно! Если ты торгуешь впервые, ознакомься с руководством [здесь.](../pancakeswap-exchange/trade-guide.md)
 
-**Adding & Removing Liquidity**
+**Добавление и удаление ликвидности**
 
-Adding and removing liquidity for the StableSwap is also very important and similar to the normal PancakeSwap AMM. Please refer to the guide [here](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide) for a more detailed explanation. PancakeSwap StableSwap liquidity pools will show "Stable LP" in the pool name.
+Добавление и удаление ликвидности для StableSwap также очень важно и аналогично обычному AMM PancakeSwap. Обратись к руководству [здесь](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide) для более подробного объяснения. Пулы ликвидности PancakeSwap StableSwap будут отображать «Stable LP» в названии пула.

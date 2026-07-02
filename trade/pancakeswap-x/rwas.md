@@ -1,26 +1,26 @@
-# RWAs
+# RWA
 
-PancakeSwap X supports real-world assets onchain to BNB Chain at scale. Users can trade 100+ tokenized stocks, bonds and ETFs directly on PancakeSwap powered by Ondo Finance.
+PancakeSwap X поддерживает реальные активы в блокчейне на BNB Chain в масштабе. Пользователи могут торговать более чем 100 токенизированными акциями, облигациями и ETF непосредственно на PancakeSwap при поддержке Ondo Finance.
 
-### What is Ondo Finance?
+### Что такое Ondo Finance?
 
-Ondo Finance is a leading provider of tokenized real-world assets (RWAs), including U.S. stocks, ETFs, Treasuries, and tokenized assets. All assets are fully backed 1:1 by corresponding traditional securities held with licensed custodial broker-dealers and made available to eligible users through compliant and transparent infrastructure.
+Ondo Finance — ведущий поставщик токенизированных реальных активов (RWA), включая акции США, ETF, казначейские облигации и токенизированные активы. Все активы полностью обеспечены в соотношении 1:1 соответствующими традиционными ценными бумагами, хранящимися у лицензированных кастодиальных брокеров-дилеров, и предоставляются подходящим пользователям через совместимую и прозрачную инфраструктуру.
 
-### The Opportunity: Real-World Assets, Now Onchain
+### Возможность: реальные активы теперь в блокчейне
 
-Tokenized assets represent one of the fastest-growing categories in both DeFi and the broader blockchain ecosystem:
+Токенизированные активы представляют собой одну из наиболее быстро растущих категорий как в DeFi, так и в более широкой экосистеме блокчейна:
 
-* The global tokenized assets market has seen triple-digit growth year-over-year
-* Tokenized RWAs are projected to surpass $10 trillion in value by 2030, with tokenized assets playing a key role in that growth
+* Глобальный рынок токенизированных активов демонстрирует трёхзначный рост год от года
+* Токенизированные RWA, по прогнозам, превысят $10 трлн по стоимости к 2030 году, причём токенизированные активы будут играть ключевую роль в этом росте
 
-By bringing these assets onchain via PancakeSwapX, PancakeSwap unlocks powerful new use cases for users on BNB Chain, bridging traditional finance with decentralized infrastructure.
+Выводя эти активы в блокчейн через PancakeSwap X, PancakeSwap открывает мощные новые сценарии использования для пользователей на BNB Chain, соединяя традиционные финансы с децентрализованной инфраструктурой.
 
-You can view the full list of eligible Ondo Finance tokenized assets [**here**](https://tokenlists.org/token-list?url=https://tokens.pancakeswap.finance/ondo-rwa-tokens.json).
+Полный список доступных токенизированных активов Ondo Finance можно просмотреть [**здесь**](https://tokenlists.org/token-list?url=https://tokens.pancakeswap.finance/ondo-rwa-tokens.json).
 
 {% hint style="info" %}
-Note: Tokenized assets offered through Ondo Finance on PancakeSwap are not available in certain jurisdictions due to regulatory requirements. Please refer to this [list](https://docs.ondo.finance/ondo-global-markets/eligibility) of supported countries to check your eligibility.
+Примечание: токенизированные активы, предлагаемые через Ondo Finance на PancakeSwap, недоступны в определённых юрисдикциях в связи с регуляторными требованиями. Пожалуйста, обратись к этому [списку](https://docs.ondo.finance/ondo-global-markets/eligibility) поддерживаемых стран, чтобы проверить свою доступность.
 {% endhint %}
 
 {% hint style="success" %}
-**You can access these assets directly from Swap page on PancakeSwap.**
+**Доступ к этим активам можно получить непосредственно со страницы Обмена на PancakeSwap.**
 {% endhint %}
