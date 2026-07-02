@@ -2,25 +2,24 @@
 hidden: true
 ---
 
-# How to Vote with SafePal Wallet
+# Как голосовать с кошельком SafePal
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-voting-with-safepal-header.png)
 
-You can use the SafePal wallet to vote on open issues in PancakeSwap. Follow the steps below to cast your vote from inside the SafePal wallet.
+Ты можешь использовать кошелёк SafePal для голосования по открытым вопросам в PancakeSwap. Следуй приведённым ниже шагам, чтобы подать голос из кошелька SafePal.
 
-1\. Open your SafePal wallet and select the dApp browser icon in the menu down the bottom.
+1\. Открой кошелёк SafePal и выбери иконку браузера dApp в меню внизу экрана.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Safepal-1.PNG)
 
-2\. Enter the URL of the voting page in the address bar. If you don't know the direct URL to the vote you want to vote on, you can go to the [PancakeSwap voting page](https://voting.pancakeswap.finance/) and find the vote from there.
+2\. Введи URL страницы голосования в адресную строку. Если ты не знаешь прямую ссылку на нужное голосование, перейди на [страницу голосования PancakeSwap](https://voting.pancakeswap.finance/) и найди его там.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Safepal-2.PNG)
 
-3\. Click on the connect wallet button at the top of your screen (see the image).&#x20;
+3\. Нажми кнопку подключения кошелька в верхней части экрана (см. изображение).&#x20;
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Safepal-3.PNG)
 
-4\. Click on **Injected** as the wallet. Your wallet will now be connected and you can now vote on PancakeSwap proposals.
+4\. Выбери **Injected** в качестве кошелька. Твой кошелёк будет подключён, и теперь ты сможешь голосовать по предложениям PancakeSwap.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Safepal-4.PNG)
-
