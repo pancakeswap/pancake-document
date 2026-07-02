@@ -1,73 +1,73 @@
-# 🔮 Prediction
+# 🔮 Previsão
 
-![](../../.gitbook/assets/prediction-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/prediction-header.png)
 
-PancakeSwap Prediction is a fun and simple decentralized prediction market.
+PancakeSwap Prediction é um mercado de Previsão descentralizado, divertido e simples.
 
-> **Predict whether BNB, BTC, or ETH price will rise or fall – guess correctly to win!**
+> **Preveja se o preço de BNB, BTC ou ETH vai subir ou cair – acerte para ganhar!**
 
-### Platforms
+### Plataformas
 
-You can play PancakeSwap Prediction on:
+Você pode jogar PancakeSwap Prediction em:
 
-* **Desktop/ dApp**: [PancakeSwap Prediction Guide](https://docs.pancakeswap.finance/play/prediction/prediction-guide)
-* **Telegram Mini App (BNBUSD only)**: [Prediction Bot](https://docs.pancakeswap.finance/play/prediction/prediction-mini-app)
+* **Desktop / dApp**: [Guia de Previsão PancakeSwap](https://docs.pancakeswap.finance/play/prediction/prediction-guide)
+* **Telegram Mini App (apenas BNBUSD)**: [Bot de Previsão](https://docs.pancakeswap.finance/play/prediction/prediction-mini-app)
 
-### Summary: How It Works
+### Resumo: Como Funciona
 
-1. **Choose an asset to bet on**: Currently available on **BNB Chain**, **zkSync Era**, and **Arbitrum One**.
-2. **Pick UP or DOWN**: Predict if the asset price will be higher or lower when the “LIVE” phase ends (each round = 5 minutes).
-3. Place your bet amount: Any BNB amount
-4. **Lock in your position**: Once placed, your bet cannot be changed.
-5. **Win or lose**:
-   * If you chose **UP**, you win if the _Closed Price_ > _Locked Price_ at the end of the round.
-   * If you chose **DOWN**, you win if the _Closed Price_ < _Locked Price_ at the end of the round.
+1. **Escolha um ativo para apostar**: Disponível atualmente na **BNB Chain**, **zkSync Era** e **Arbitrum One**.
+2. **Escolha CIMA ou BAIXO**: Preveja se o preço do ativo estará mais alto ou mais baixo quando a fase "AO VIVO" terminar (cada rodada = 5 minutos).
+3. Informe o valor da aposta: Qualquer quantidade de BNB
+4. **Confirme sua posição**: Uma vez registrada, sua aposta não pode ser alterada.
+5. **Ganhe ou perca**:
+   * Se você escolheu **CIMA**, você ganha se o _Preço de Fechamento_ > _Preço Bloqueado_ ao final da rodada.
+   * Se você escolheu **BAIXO**, você ganha se o _Preço de Fechamento_ < _Preço Bloqueado_ ao final da rodada.
 
-### Mechanics & Fees
+### Mecânicas e Taxas
 
-* **Supported Chains: BNB Chain, zkSync Era, Arbitrum One**
-* **Round frequency**: Every **5 minutes** (rolling rounds).
-* **Participation fee**: **3%** of each round’s total prize pool, a portion of which goes to **CAKE buybacks**.
-* **Winnings**: Claim anytime after results are finalized.
-* **Payouts** are based on the ratio of bets in each pool:
-  * Payout Ratio (UP Pool) = _(Total value of both pools ÷ Value of UP Pool)_
-  * Payout Ratio (DOWN Pool) = _(Total value of both pools ÷ Value of DOWN Pool)_
-  * See: [FAQ](prediction-faq.md) for worked example
+* **Redes suportadas: BNB Chain, zkSync Era, Arbitrum One**
+* **Frequência das rodadas**: A cada **5 minutos** (rodadas contínuas).
+* **Taxa de participação**: **3%** do prêmio total de cada rodada, parte do qual é destinado à recompra de CAKE.
+* **Ganhos**: Resgate a qualquer momento após a finalização dos resultados.
+* **Pagamentos** são baseados na proporção das apostas em cada pool:
+  * Razão de Pagamento (Pool CIMA) = _(Valor total de ambos os pools ÷ Valor do Pool CIMA)_
+  * Razão de Pagamento (Pool BAIXO) = _(Valor total de ambos os pools ÷ Valor do Pool BAIXO)_
+  * Veja: [FAQ](prediction-faq.md) para exemplo detalhado
 
-### Outcomes
+### Resultados
 
-* **Win:** You share the total pot with other winners (minus 3% fee)
-* **Lose:** You lose your entire bet amount
+* **Ganhou:** Você divide o prêmio total com os outros vencedores (menos a taxa de 3%)
+* **Perdeu:** Você perde o valor total da sua aposta
 
-**Special Cases**:
+**Casos Especiais**:
 
-* **Tie** (Locked Price = Closed Price): House wins all bets.
-* If there are no opposing bets:
-  * If you win: reclaim 97% of your initial bet (3% fee applies).
-  * If you lose: forfeits your full bet to the house.
-* **Cancelled:** e.g. Oracle failure, users are refunded their initial bet amount
+* **Empate** (Preço Bloqueado = Preço de Fechamento): A casa ganha todas as apostas.
+* Se não houver apostas opostas:
+  * Se você ganhar: recupera 97% da sua aposta inicial (taxa de 3% aplicada).
+  * Se você perder: perde o valor total da aposta para a casa.
+* **Cancelada:** ex.: falha no Oracle, os usuários recebem o reembolso do valor apostado
 
-### Price Feeds (Oracles)
+### Feeds de Preço (Oracles)
 
-| Chain     | Markets                                  | Purpose                                                                 | Oracle                     |
-| --------- | ---------------------------------------- | ----------------------------------------------------------------------- | -------------------------- |
-| BNB Chain | BNBUSD, BTCUSD, ETHUSD, CAKEUSD (paused) | Sets the _Lock Price_ and _Closed Price_ (updated \~ up to 20 seconds). | **Chainlink**              |
-| BNB Chain | All                                      | Powers the live chart on the UI (for reference only).                   | Binance / TradingView Feed |
+| Rede      | Mercados                                 | Finalidade                                                                         | Oracle                     |
+| --------- | ---------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------- |
+| BNB Chain | BNBUSD, BTCUSD, ETHUSD, CAKEUSD (pausado) | Define o _Preço Bloqueado_ e o _Preço de Fechamento_ (atualizado \~ a cada 20 segundos). | **Chainlink**              |
+| BNB Chain | Todos                                    | Alimenta o gráfico ao vivo na interface (apenas para referência).                  | Binance / TradingView Feed |
 
-#### **ChainLink Oracle**
+#### **Oracle ChainLink**
 
-* Used for the Lock price and End price of each prediction market round. This updates in intervals of up to 20 seconds.
-* Our prediction contract uses the ChainLink Oracle price feed on BNB Chain to set the prices used to dictate whether a user has won or not.
-* Used for the "Chainlink" chart on the interface.
+* Utilizado para o Preço Bloqueado e o Preço Final de cada rodada do mercado de previsão. É atualizado em intervalos de até 20 segundos.
+* Nosso contrato de previsão usa o feed de preço do Oracle ChainLink na BNB Chain para definir os preços que determinam se o usuário ganhou ou não.
+* Utilizado para o gráfico "Chainlink" na interface.
 
 #### **Binance**
 
-* Used for real-time price updates on the PancakeSwap prediction market interface.
-* Used for the "TradingView" chart on the interface.
+* Utilizado para atualizações de preço em tempo real na interface do mercado de previsão PancakeSwap.
+* Utilizado para o gráfico "TradingView" na interface.
 
-Since we’re using two different price feeds, the real-time price updates from Binance and the ChainLink Oracle price may differ by a small amount. However, they shouldn’t vary significantly.
+Como estamos usando dois feeds de preço diferentes, as atualizações de preço em tempo real da Binance e o preço do Oracle ChainLink podem diferir levemente. No entanto, essa diferença não deve ser significativa.
 
-### Contract Addresses
+### Endereços dos Contratos
 
 BNB Chain:
 

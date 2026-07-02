@@ -2,6 +2,6 @@
 hidden: true
 ---
 
-# ❓ Play FAQ
+# ❓ FAQ de Jogos
 
-(To be populated)
+(A ser preenchido)

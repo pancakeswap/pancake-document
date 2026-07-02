@@ -1,33 +1,33 @@
-# Prediction FAQ
+# FAQ de Previsão
 
 {% hint style="info" %}
-Use the sidebar to quickly find the answers to your questions!
+Use a barra lateral para encontrar rapidamente as respostas às suas perguntas!
 {% endhint %}
 
-## A) General Questions
+## A) Perguntas Gerais
 
-### **1. What are the fees?**
+### **1. Quais são as taxas?**
 
-3% of each round's total pot will go to the treasury, of which 100% will be used to buyback and burn CAKE.
+3% do prêmio total de cada rodada irá para o tesouro, do qual 100% será usado para recompra e queima de CAKE.
 
-### 2. How is the payout calculated?
+### 2. Como o pagamento é calculado?
 
-* Payout Ratio for UP Pool = Total Value of Both Pools ÷ Value of UP Pool
-* Payout Ratio for DOWN Pool = Total Value of Both Pools ÷ Value of DOWN Pool
+* Razão de Pagamento para Pool CIMA = Valor Total de Ambos os Pools ÷ Valor do Pool CIMA
+* Razão de Pagamento para Pool BAIXO = Valor Total de Ambos os Pools ÷ Valor do Pool BAIXO
 
-**Example - Bet 2 BNB "DOWN", outcome = "DOWN":**
+**Exemplo - Apostar 2 BNB em "BAIXO", resultado = "BAIXO":**
 
-* DOWN side = 15 BNB, total prize pool = 150 BNB&#x20;
-* DOWN payout ratio = 150 BNB / 15 BNB = 10x
-* Payout Amount = Payout Ratio × Position × (1 - Treasury Fee)
-  * If you bet 2 BNB on DOWN, payout = (2 × 10) × (1 − 0.03) = 19.4 BNB
-* Profit = 19.4 − 2 = 17.4 BNB
+* Lado BAIXO = 15 BNB, prêmio total = 150 BNB&#x20;
+* Razão de pagamento BAIXO = 150 BNB / 15 BNB = 10x
+* Valor do Pagamento = Razão de Pagamento × Posição × (1 - Taxa do Tesouro)
+  * Se você apostou 2 BNB em BAIXO, pagamento = (2 × 10) × (1 − 0,03) = 19,4 BNB
+* Lucro = 19,4 − 2 = 17,4 BNB
 
-### 3. Is there a time limit before I can collect my winnings?
+### 3. Há um prazo para coletar meus ganhos?
 
-No, you’ll be able to collect your winnings at any time in the future.
+Não, você poderá coletar seus ganhos a qualquer momento no futuro.
 
-### 4. What’s the PancakeSwap Prediction contract address?
+### 4. Qual é o endereço do contrato de Previsão da PancakeSwap?
 
 **BNB Chain**
 
@@ -37,149 +37,148 @@ No, you’ll be able to collect your winnings at any time in the future.
 
 
 
-## B) Positions & Results
+## B) Posições e Resultados
 
-### 1. **Can I change or remove my position?**
+### 1. **Posso alterar ou remover minha posição?**
 
-No. Once you enter a position, you can NOT change the direction, add to, or remove your position. It's locked in, so make sure you're 100% happy with your position direction before confirming. &#x20;
+Não. Uma vez que você registra uma posição, NÃO é possível alterar a direção, adicionar ou remover sua posição. Ela está bloqueada, então certifique-se de estar 100% satisfeito com a direção da sua posição antes de confirmar. &#x20;
 
-### 2. When will markets be cancelled? What happens then?
+### 2. Quando os mercados serão cancelados? O que acontece então?
 
-* **When:** Oracle or backend service failure, or other extraneous circumstances.
-* **Outcome:** Users can claim 100% of their original bet amount (no fee).
+* **Quando:** Falha do Oracle ou do serviço de backend, ou outras circunstâncias extraordinárias.
+* **Resultado:** Os usuários podem reivindicar 100% do valor original de sua aposta (sem taxa).
 
-### 3. The round's result changed after the round ended! Why?
+### 3. O resultado da rodada mudou depois que a rodada terminou! Por quê?
 
-Sometimes, after a round closes, the final result may be different from the last result shown while the round was live. If you watch a round end on "DOWN", it may appear to flip to "UP" a few seconds later.
+Às vezes, após o encerramento de uma rodada, o resultado final pode ser diferente do último resultado exibido durante a rodada ao vivo. Se você observar uma rodada terminar em "BAIXO", ela pode parecer mudar para "CIMA" alguns segundos depois.
 
-This is because we use the Oracle price feed to determine the final outcome of a round. The period between the end of one round and the start of the next is 30 seconds, but the Oracle refreshes every 20 seconds. It's possible that during this short period, the Oracle might send an update while the transaction to trigger the next round is being minted. This can appear to "flip" the outcome of the previous round.
+Isso acontece porque usamos o feed de preço do Oracle para determinar o resultado final de uma rodada. O período entre o fim de uma rodada e o início da próxima é de 30 segundos, mas o Oracle é atualizado a cada 20 segundos. É possível que, durante esse curto período, o Oracle envie uma atualização enquanto a transação para iniciar a próxima rodada está sendo processada. Isso pode parecer "inverter" o resultado da rodada anterior.
 
-### 4. What is Locked Price & Closed Price?
+### 4. O que é Preço Bloqueado e Preço de Fechamento?
 
-* **Locked Price:** Price at the start of the LIVE phase.
-* **Closed Price:** Price at the end of the round, used to determine winners.
+* **Preço Bloqueado:** Preço no início da fase AO VIVO.
+* **Preço de Fechamento:** Preço ao final da rodada, usado para determinar os vencedores.
 
-**Example – Round 400 (BNB Prediction):**
+**Exemplo – Rodada 400 (Previsão BNB):**
 
-1. **12:00–12:05:** Place Bet → User bets 0.1 BNB on "UP"
-2. **12:05–12:10:** Lock Phase → Locked Price = $850
-3. **12:10:** Close Phase → Closed Price = $860
-4. **Result: "UP"** bet wins
+1. **12:00–12:05:** Registrar Aposta → Usuário aposta 0,1 BNB em "CIMA"
+2. **12:05–12:10:** Fase de Bloqueio → Preço Bloqueado = $850
+3. **12:10:** Fase de Fechamento → Preço de Fechamento = $860
+4. **Resultado: aposta "CIMA"** vence
 
-**Notes:**
+**Observações:**
 
-* Oracle price may take up to 20 seconds to update.
-* House win: All bets goes to the House
+* O preço do Oracle pode levar até 20 segundos para ser atualizado.
+* Vitória da casa: Todas as apostas vão para a Casa
 
-### 5. What situations are considered a HOUSE WIN?
+### 5. Quais situações são consideradas VITÓRIA DA CASA?
 
-**Scenarios:**
+**Cenários:**
 
-1. No opposing bets exist and the user loses (e.g., only one user bets UP and outcome = DOWN)
-2. Locked Price = Closed Price
+1. Não existem apostas opostas e o usuário perde (ex.: apenas um usuário aposta CIMA e o resultado = BAIXO)
+2. Preço Bloqueado = Preço de Fechamento
 
-**What happens:**
+**O que acontece:**
 
-* PancakeSwap takes 100% of the pool; all funds go to CAKE burn.
-* Users on either side lose their initial bet amount.
+* A PancakeSwap fica com 100% do pool; todos os fundos são destinados à queima de CAKE.
+* Os usuários de ambos os lados perdem o valor inicial da aposta.
 
-**Example - No opposing bets:**
+**Exemplo - Sem apostas opostas:**
 
-* User A bets UP, no DOWN bets exist, outcome = DOWN → User A loses; 100% of funds go to treasury.
-* User B bets UP, no DOWN bets exist, outcome = UP → User B reclaims 97% of deposit.
-
-
-
-## C) Market Pauses
-
-### 1. What does it mean when markets are paused?
-
-Markets are paused when there are conditions which affect the reliability of the contract. Markets being paused means that no bets will be taking place for any rounds.
-
-### 2. What causes PancakeSwap Prediction market to pause?
-
-The prediction market will pause under the following conditions:
-
-1. The prediction contract has been unable to obtain the price from the ChainLink oracle due to the oracle not having posted the price at the time the round has ended.
-2. The prediction contract has been unable to execute an action (ending a round or getting a price from the oracle) due to the tx being stuck in the mempool for longer than 15 blocks.
-3. PancakeSwap has decided to discontinue prediction for that market / asset.
-
-### 3. What happens to my position if the market pauses?
-
-If the markets pause while you have a live position, your funds will be available to reclaim, the same way as you would normally claim your winnings.
-
-To reclaim funds, you’ll need to pay some gas fees. We can’t compensate you for the gas fees, so please bear this small risk in mind before participating.
-
-### 4. When will the markets resume after being paused?
-
-The markets will resume when an admin (one of the chefs) manually resumes the market.
+* Usuário A aposta CIMA, sem apostas BAIXO, resultado = BAIXO → Usuário A perde; 100% dos fundos vão para o tesouro.
+* Usuário B aposta CIMA, sem apostas BAIXO, resultado = CIMA → Usuário B recupera 97% do depósito.
 
 
 
-## D) Troubleshooting & Claims
+## C) Pausas de Mercado
 
-### 1. How do I claim past winnings from the CAKEUSD market on BNB Chain?&#x20;
+### 1. O que significa quando os mercados estão pausados?
 
-* Go to [https://pancakeswap.finance/prediction?token=CAKE\&chain=bsc](https://pancakeswap.finance/prediction?token=CAKE\&chain=bsc)
-* Check the history tab for historical round winnings
+Os mercados são pausados quando há condições que afetam a confiabilidade do contrato. Mercados pausados significam que nenhuma aposta será registrada em nenhuma rodada.
 
-### 2. Why can’t I see my winnings in my wallet?
+### 2. O que causa a pausa do mercado de Previsão da PancakeSwap?
 
-When you collect winnings, they might not appear in your wallet’s transaction logs as usual.\
-This is because they use a different type of transaction: Internal transactions.\
-Enter your wallet address on BscScan, then check the “Internal Txns” tab to confirm that they’ve arrived.\
+O mercado de previsão será pausado nas seguintes condições:
+
+1. O contrato de previsão não conseguiu obter o preço do Oracle ChainLink porque o Oracle não publicou o preço no momento em que a rodada terminou.
+2. O contrato de previsão não conseguiu executar uma ação (encerrar uma rodada ou obter um preço do Oracle) porque a transação ficou presa no mempool por mais de 15 blocos.
+3. A PancakeSwap decidiu descontinuar a previsão para aquele mercado / ativo.
+
+### 3. O que acontece com minha posição se o mercado pausar?
+
+Se os mercados pausarem enquanto você tiver uma posição ao vivo, seus fundos estarão disponíveis para resgate, da mesma forma que você normalmente resgataria seus ganhos.
+
+Para resgatar os fundos, você precisará pagar algumas taxas de gas. Não podemos compensá-lo pelas taxas de gas, então tenha esse pequeno risco em mente antes de participar.
+
+### 4. Quando os mercados serão retomados após serem pausados?
+
+Os mercados serão retomados quando um administrador (um dos chefs) retomar o mercado manualmente.
+
+
+
+## D) Solução de Problemas e Resgates
+
+### 1. Como faço para resgatar ganhos antigos do mercado CAKEUSD na BNB Chain?&#x20;
+
+* Acesse [https://pancakeswap.finance/prediction?token=CAKE\&chain=bsc](https://pancakeswap.finance/prediction?token=CAKE\&chain=bsc)
+* Verifique a aba de histórico para ganhos de rodadas anteriores
+
+### 2. Por que não consigo ver meus ganhos na minha carteira?
+
+Quando você coleta ganhos, eles podem não aparecer nos registros de transações da sua carteira como de costume.\
+Isso porque eles usam um tipo diferente de transação: Transações internas.\
+Insira o endereço da sua carteira no BscScan e verifique a aba "Internal Txns" para confirmar que chegaram.\
 ![](https://lh5.googleusercontent.com/9NoIvK-oztyEaizCfgrj-poPIP_uWeFDYsa0_nxN3sKUiIwFdACy_BemrtRLJn-ZkyW3LprfRn4s9lL24BOGb-I-t1vHoh5wkuTx7bObHQl5sS7xPmuZEOTVPUXr7LPNAfPfqr12)
 
-### 3. Why aren't the results of my round showing?
+### 3. Por que os resultados da minha rodada não estão aparecendo?
 
-There’s a 15 block buffer on each round, which can cause delays of up to 45 seconds after the end of a round.\
-This buffer is to accommodate for the fact that we may not be able to reliably fetch a price and end a round immediately: various blockchain factors affect the speed in which transactions get confirmed on the network.
+Há um buffer de 15 blocos em cada rodada, o que pode causar atrasos de até 45 segundos após o término de uma rodada.\
+Esse buffer existe para acomodar o fato de que pode não ser possível obter um preço de forma confiável e encerrar uma rodada imediatamente: vários fatores da blockchain afetam a velocidade com que as transações são confirmadas na rede.
 
-### 4. I can’t collect my winnings, what should I do?
+### 4. Não consigo coletar meus ganhos, o que devo fazer?
 
-Make sure you have enough BNB in your wallet to pay for gas fees. You’ll need a little BNB to trigger the smart contract.
+Certifique-se de ter BNB suficiente em sua carteira para pagar as taxas de gas. Você precisará de um pouco de BNB para acionar o contrato inteligente.
 
-### **5. What if I can't claim winnings from the website?**
+### **5. E se eu não conseguir resgatar os ganhos pelo site?**
 
-You might be able to claim your winnings directly from the contract. Follow the steps in the 3 tabs below.
+Você pode conseguir resgatar seus ganhos diretamente do contrato. Siga os passos nas 3 abas abaixo.
 
 {% tabs %}
-{% tab title="Check rounds you played" %}
-How to check the history of rounds you played
+{% tab title="Verificar rodadas que você jogou" %}
+Como verificar o histórico das rodadas em que você jogou
 
-1. Go to BscScan page of the [Prediction contract](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (e.g. BNBUSD).
-2. Scroll down to “8. getUserRounds”.
-3. Type in your wallet address under “user(address)”.
-4. Set “cursor(uint256)" to 0 and “size(uint256)" to 1000.
-5. Tap “Query”
-6. Rounds you entered will show below in the first row. (after “uint256\[]:”)
+1. Acesse a página BscScan do [contrato de Previsão](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (ex.: BNBUSD).
+2. Role para baixo até "8. getUserRounds".
+3. Digite o endereço da sua carteira em "user(address)".
+4. Defina "cursor(uint256)" como 0 e "size(uint256)" como 1000.
+5. Clique em "Query"
+6. As rodadas em que você participou serão exibidas abaixo na primeira linha. (após "uint256\[]:")
 {% endtab %}
 
-{% tab title="Check if you can claim" %}
-First, check whether you should actually be able to claim from the round you played.
+{% tab title="Verificar se você pode resgatar" %}
+Primeiro, verifique se você realmente deve poder resgatar da rodada em que jogou.
 
-1. Go to BscScan page of the [Prediction contract](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (e.g. BNBUSD), and go to the Read tab
-2. Scroll down to “4. claimable”.
-3. Type in the round id you want to check under "epoch(uint256)”.
-4. Type in your wallet address under “user(address)”.
-5. Tap “Query”
-6. If a round is claimable, it will show “true”.
-7. If the result is "false". Please repeat the above steps and try with "19. refundable".&#x20;
-8. Note: ⬆️ If you see a round returns "false" on both "4. claimable" and "19. refundable", but it shows on the website, it's probably been claimed already and the website is lagging.
+1. Acesse a página BscScan do [contrato de Previsão](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (ex.: BNBUSD) e vá para a aba Read
+2. Role para baixo até "4. claimable".
+3. Digite o id da rodada que deseja verificar em "epoch(uint256)".
+4. Digite o endereço da sua carteira em "user(address)".
+5. Clique em "Query"
+6. Se uma rodada for resgatável, exibirá "true".
+7. Se o resultado for "false", repita os passos acima e tente com "19. refundable".&#x20;
+8. Observação: ⬆️ Se uma rodada retornar "false" tanto em "4. claimable" quanto em "19. refundable", mas aparecer no site, provavelmente já foi resgatada e o site está desatualizado.
 {% endtab %}
 
-{% tab title="Claim from a round" %}
-How to claim
+{% tab title="Resgatar de uma rodada" %}
+Como resgatar
 
-1. Go to BscScan page of the [Prediction contract](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (e.g. BNBUSD), and go to the Write tab
-2. Tap “🔴 Connect to Web3”
-3. Use MetaMask or WalletConnect to connect.
-4. Scroll down to “3. claim”
-5.  Type in the round number you want to claim in this format, including the \[] brackets: `[12345]`&#x20;
+1. Acesse a página BscScan do [contrato de Previsão](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (ex.: BNBUSD) e vá para a aba Write
+2. Clique em "🔴 Conectar ao Web3"
+3. Use MetaMask ou WalletConnect para conectar.
+4. Role para baixo até "3. claim"
+5.  Digite o número da rodada que deseja resgatar neste formato, incluindo os colchetes \[]: `[12345]`&#x20;
 
-    If you want to claim from multiple rounds together, separate the rounds with a comma like this: `[12345,12346,12347]`
-6. Tap “Write”
-7. Confirm on wallet&#x20;
+    Se quiser resgatar de várias rodadas ao mesmo tempo, separe as rodadas com vírgula assim: `[12345,12346,12347]`
+6. Clique em "Write"
+7. Confirme na carteira&#x20;
 {% endtab %}
 {% endtabs %}
-
