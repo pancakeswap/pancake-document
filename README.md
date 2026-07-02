@@ -1,88 +1,78 @@
-# Introdução à PancakeSwap
+# Product Overview
 
 ![](.gitbook/assets/intro-header.png)
 
 {% hint style="success" %}
-**PancakeSwap ajuda você a tirar o máximo proveito das suas criptos de três maneiras:**
+**PancakeSwap helps you make the most out of your crypto in three ways:**
 
-**Trade, Renda, e Ganhe.**
+**Trade, Earn, and Win.**
 {% endhint %}
 
-## ↔️ Trade
+## Trade
 
-> Negocie instantaneamente tokens cripto: sem necessidade de registro ou conta.
+> Instantly swap crypto tokens: no registration or account needed.
 
-### A Escolha do Povo
+### The people's choice
 
-PancakeSwap é a principal exchange descentralizada da BNB Smart Chain, com os maiores volumes de negociação do mercado (fontes: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
+PancakeSwap is a leading decentralized exchange. Available across ten chains: BNB Chain, Ethereum, Solana, Base, Arbitrum, Aptos, ZKsync, Linea, Monad, and opBNB, with the highest trading volumes in the market (sources: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
 
-### Taxas baixas
+### Low fees
 
-Por que pagar mais? A PancakeSwap é executada na BNB Smart Chain, uma blockchain com custos de transação muito mais baixos do que a Ethereum ou o Bitcoin. \
-As taxas de negociação também são mais baixas do que outras exchanges descentralizadas, então isso é uma vitória dupla para você!
+Why pay more?\
+Trading fees are lower than other top decentralized exchanges too, so that's a win for you!
 
-### Descentralizado
+### Decentralized
 
-Negocie diretamente do seu aplicativo de carteira. Ao contrário das exchanges centralizadas como Binance ou Coinbase, a PancakeSwap não retém seus fundos quando você negocia: **você tem 100% de posse das suas criptomoedas.**
+Trade directly from your wallet app.\
+Unlike centralized exchanges like Binance or Coinbase, PancakeSwap doesn’t hold your funds when you trade: **you have 100% ownership of your own crypto**.
 
-## 💸 Renda
+## Earn
 
-> Ganhe CAKE e outros tokens gratuitamente com taxas de rendimemto super altas.
+> Earn CAKE and other tokens for free with super high interest rates.
 
-### Ganhe tokens com Pools de Syrup
+### Earn tokens with Syrup Pools
 
-Faça Stake de CAKE, ganhe tokens grátis. É realmente muito fácil. \
-Os Holders de CAKE agora estão ganhando dezenas de milhões de dólares em tokens gratuitos de grandes projetos a cada semana. Novos projetos se juntam à festa com frequência, para que você possa ganhar mais por ainda mais tempo.
+Stake CAKE, earn free tokens. It’s really that easy.\
+CAKE holders right now are earning tens of millions of USD worth of free tokens each week from major projects. New projects join the party frequently, so you can earn more, for even longer.
 
-### Ganhe CAKE com Farms de Rendimento
+### Earn CAKE with Yield Farms
 
-Faça stake de tokens LP, ganhe CAKE. Você assume um pouco mais de exposição às flutuações do mercado do que com as pools de syrup, mas pode ganhar um APR mais alto para compensar o risco.
+Stake LP tokens, earn CAKE. You take on a little more exposure to market fluctuations than with the Syrup Pools, but can earn higher APR to offset the risk.
 
-### Ganhe das Taxas de Trade
+### Earn Trading Fees
 
-Sem farm? Sem problemas. Mesmo que seu par de negociação não seja suportado na página de Farms, você ainda pode ganhar taxas de negociação ao colocar seus tokens em Pools de Liquidez (LPs).
+No farm? No problem. Even if your trading pair isn’t supported on the Farms page, you can still earn trading fees when you stake your tokens in Liquidity Pools (LPs).
 
-## 🎲 Ganhe
+## Win
 
-> PancakeSwap faz ganhar dinheiro ser divertido.
+> PancakeSwap makes making money fun.
 
-### Loteria
+### Lottery
 
-**Milhões de doláres** regularmente para ganhar na loteria PancakeSwap\
-Junte-se a mais de **11.000 jogadores diários** por sua chance de ganhar um grande prêmio!
+**Millions of dollars** regularly go up for grabs on the PancakeSwap Lottery.\
+Join as many as **11,000 daily players** for your chance to win big!
 
-### NFT Colecionáveis&#x20;
+### Prediction
 
-Ganhe NFTs colecionáveis ​​por participar de competições de Trade e mais diversão e jogos.
+Predict whether BNB, BTC, or ETH price will rise or fall. New rounds every 5 minutes!
 
-### Previsão
+## Is PancakeSwap safe?
 
-Ganhe BNB se puder prever se o preço do BNB subirá ou cairá.\
-Novas rodadas a cada 5 minutos!
+### See for yourself:
 
-### Pottery
+Check out these PancakeSwap security audits [here](welcome-to-pancakeswap/audits.md).
 
-Ganhe um rendimento maior em seu depósito CAKE, uma combinação de stake bloqueado de CAKE e loteria!
+### Transparent:
 
-## PancakeSwap é segura?
+* We’re built on open-source software: our site and all our Smart Contracts are publicly visible for maximum transparency.
+* Our contracts are verified on BscScan so you know that what you see is what you get: [1](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E) [2](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#code) [3](https://bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812) [4](https://bscscan.com/address/0x1b96b92314c44b159149f7e0303511fb2fc4774f#code) [5](https://bscscan.com/address/0x92E8CeB7eAeD69fB6E4d9dA43F605D2610214E68)
 
-### Veja por você mesmo:
+### Security best practices:
 
-* Cheque as auditorias de segurança da PancakeSwap [aqui](auditorias.md).
+* The chefs use multisig for all contracts.
+* Our contracts’ time-locks give you peace of mind.
 
-### Transparência:
-
-* Somos construídos em software de código aberto: nosso site e todos os nossos contratos inteligentes são visíveis publicamente para máxima transparência.
-* Nossos contratos são verificados na BscScan então o que você vê é o que é: [1](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E) [2](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#code) [3](https://bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812) [4](https://bscscan.com/address/0x1b96b92314c44b159149f7e0303511fb2fc4774f#code) [5](https://bscscan.com/address/0x92E8CeB7eAeD69fB6E4d9dA43F605D2610214E68)
-
-### Melhores práticas de segurança:
-
-* Os chefs usam multisig para todos os contratos.
-* O timelock dos nossos contratos dão tranquilidade para você.
-
-**Parece divertido?**\
-**Então vamos empilhar!** 🐰 🥞
-
-***
+**Sounds like fun?**\
+**Then get flipping!** 🐰 🥞
 
 ***
