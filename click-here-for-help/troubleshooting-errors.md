@@ -21,7 +21,7 @@ description: >-
 3. Увеличьте проскальзывание:
    1. Нажмите значок настроек на странице ликвидности.
    2. Увеличьте проскальзывание в большую сторону и повторите попытку.\
-      ![](<../.gitbook/assets/image (9) (4) (2).png>)
+      ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%289%29%20%284%29%20%282%29.png)
 4. Напоследок попробуйте ввести сумму с меньшим количеством знаков после запятой.
 {% endtab %}
 
@@ -51,7 +51,7 @@ description: >-
 1. Нажмите значок настроек на странице ликвидности.
 2. Увеличьте проскальзывание в большую сторону и повторите попытку.
 
-![](<../.gitbook/assets/image (9) (4) (2).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%289%29%20%284%29%20%282%29.png)
 {% endtab %}
 
 {% tab title="Причина" %}
@@ -88,7 +88,7 @@ description: >-
 2. строка **5. balanceOf**, введите адрес своего кошелька и нажмите **Query**.
 3. Запомните число, которое экспортируется. Оно показывает ваш баланс в пределах LP в формате uint256, которое понадобится в следующем шаге.
 
-![](<../.gitbook/assets/image (7).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%287%29.png)
 
 ### Добавить или извлечь Ликвидность
 
@@ -102,7 +102,7 @@ description: >-
 6. Добавьте адрес вашего кошелька в **to (address)**.
 7. Крайний срок (deadline) должен быть epoch (Unix-время) больше чем время исполнении транзакции.
 
-![](<../.gitbook/assets/image (5).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%285%29.png)
 
 {% hint style="warning" %}
 Это может привести к очень высокому проскальзыванию, и может привести к потере пользователем средств, в случае фронтрана ботом.
@@ -184,7 +184,7 @@ description: >-
 
 Лимита в 200000 почти всегда достаточно.
 
-![](<../.gitbook/assets/image (2).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%282%29.png)
 
 Пример выше из Metamask; Если вы не уверены, как настроить лимит газа, то проверьте документацию кошелька, которым вы пользуетесь.
 {% endtab %}

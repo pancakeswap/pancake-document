@@ -52,7 +52,7 @@ In such a case, you will still be able to reclaim all the CAKE-BNB LP tokens you
 
 
 
-![Three models of possible outcomes for the Overflow method.](../../.gitbook/assets/image.png)
+![Three models of possible outcomes for the Overflow method.](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image.png)
 
 ## What happens if the IFO doesn't raise all the funds targeted?
 

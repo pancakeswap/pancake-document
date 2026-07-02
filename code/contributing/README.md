@@ -6,7 +6,7 @@ description: Thank you for expressing your interest in contributing to PancakeSw
 
 Pancake is an open-source project. If you want to contribute to the project, this section is here to guide you through your first steps with the Pancake team :pancakes:&#x20;
 
-Before starting any development, we highly encourage you to submit an issue on Github in order to discuss the problem, and the solution with the team. If you want to reach out to the dev team directly, contact **@chef\_chungus** on Telegram ![](../../.gitbook/assets/Logo.svg)&#x20;
+Before starting any development, we highly encourage you to submit an issue on Github in order to discuss the problem, and the solution with the team. If you want to reach out to the dev team directly, contact **@chef\_chungus** on Telegram ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Logo.svg)&#x20;
 
 ### Setup your dev environment
 
