@@ -1,65 +1,65 @@
-# How to Vote
+# Как голосовать
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-voting-header.png)
 
-Participating in governance voting is easy, and it is absolutely **FREE**. You don't even need to pay gas fees! Learn more about how to vote, catch the next proposal and cast your vote.
+Участвовать в управлении через голосование легко, и это абсолютно **БЕСПЛАТНО**. Тебе даже не нужно платить газ! Узнай, как голосовать, следи за новыми предложениями и подавай свой голос.
 
-### How to vote
+### Как голосовать
 
-#### Navigate to the vote proposal
+#### Перейди к предложению для голосования
 
-Whenever we publish a new proposal, we always attach the link to the voting page. So be sure to follow [our social channels](../../../welcome-to-pancakeswap/contact-us/social-accounts.md) for the news and updates.
+Всякий раз, когда мы публикуем новое предложение, мы всегда прикладываем ссылку на страницу голосования. Поэтому следи за [нашими социальными каналами](../../../welcome-to-pancakeswap/contact-us/social-accounts.md) для получения новостей и обновлений.
 
-Alternatively, you can visit [PancakeSwap's native voting portal](https://voting.pancakeswap.finance/?_gl=1*pc8o0h*_ga*MTUzNDEzNDQxMy4xNjAwNzkzNDM4*_ga_334KNG3DMQ*MTYwNDMwMTk4Ni42MC4xLjE2MDQzMDM3MDIuMA..#/)[ ](https://pancakeswap.finance/voting)to browse the proposals in a list. If you don't see the proposal, it may be in the "soon" tab.
+Кроме того, ты можешь посетить [нативный портал голосования PancakeSwap](https://voting.pancakeswap.finance/?_gl=1*pc8o0h*_ga*MTUzNDEzNDQxMy4xNjAwNzkzNDM4*_ga_334KNG3DMQ*MTYwNDMwMTk4Ni42MC4xLjE2MDQzMDM3MDIuMA..#/)[ ](https://pancakeswap.finance/voting), чтобы просмотреть список предложений. Если ты не видишь нужного предложения, оно может находиться во вкладке «soon».
 
-#### Read and pick the choice to vote
+#### Прочитай предложение и выбери вариант голосования
 
-![the proposal page](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-vote-1.png)
+![страница предложения](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-vote-1.png)
 
-On the proposal page. You will find:
+На странице предложения ты найдёшь:
 
-* The content of the proposal
-* The choices to vote
-* The detail of the proposal such as snapshot block and voting window
-* The latest voting result
-* The list of votes
+* Содержание предложения
+* Варианты для голосования
+* Детали предложения: блок снимка и окно голосования
+* Актуальные результаты голосования
+* Список голосов
 
-Read the proposal carefully and click the choice you want to vote on.
+Внимательно прочитай предложение и нажми на вариант, за который хочешь проголосовать.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-vote-2.png)
 
-#### Confirm and cast your vote
+#### Подтверди и подай голос
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-vote-6.png)
 
-Confirm all the details and click "Confirm Vote", then confirm in your wallet to sign the message.
+Проверь все детали и нажми «Confirm Vote», затем подтверди в кошельке подпись сообщения.
 
-Done, you just successfully cast your vote.
+Готово, ты успешно проголосовал.
 
-### How to check the details
+### Как проверить детали
 
 {% tabs %}
-{% tab title="Check the voting power" %}
-Before casting your vote, you will see a "Confirm Vote" window.
+{% tab title="Проверить силу голоса" %}
+Перед подачей голоса ты увидишь окно «Confirm Vote».
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/cc%202025-05-15T13_38_57.460Z.png" alt="" width="188"><figcaption></figcaption></figure>
 
-In this window, you will be able to view the following items:
+В этом окне ты сможешь просмотреть следующие элементы:
 
-* The choice you picked
-* Your voting power
+* Выбранный тобой вариант
+* Твою силу голоса
 
-Your voting power is equal to your CAKE balance at the snapshot block.
+Твоя сила голоса равна балансу CAKE на блоке снимка.
 {% endtab %}
 
-{% tab title="Check the snapshot block" %}
-**Check the snapshot block**
+{% tab title="Проверить блок снимка" %}
+**Проверить блок снимка**
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-vote-3.png)
 
-Voting power is calculated based on a snapshot taken on the snapshot block. Therefore, purchasing or depositing more CAKE after the proposal is posted is not going to increase the voting power for that particular proposal.
+Сила голоса рассчитывается на основе снимка, сделанного на блоке снимка. Поэтому покупка или внесение дополнительного CAKE после публикации предложения не увеличит силу голоса для этого конкретного предложения.
 
-If you want to know the exact time of the snapshot block. Simple click on the block number and look for the timestamp on the BscScan page.
+Если ты хочешь узнать точное время блока снимка, просто нажми на номер блока и найди временну́ю метку на странице BscScan.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-vote-7.png)
 {% endtab %}

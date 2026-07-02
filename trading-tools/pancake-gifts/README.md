@@ -1,95 +1,95 @@
 # 🎁 Pancake Gifts
 
-### 🎯 What is Pancake Gifts?
+### 🎯 Что такое Pancake Gifts?
 
-**Pancake Gifts** lets anyone send tokens — including optional gas — to friends, users, or communities using just a **link** or **QR code**. It’s a simple, secure, and gasless experience for the recipient.
+**Pancake Gifts** позволяет любому пользователю отправлять токены — включая опциональный газ — друзьям, пользователям или сообществам просто по **ссылке** или **QR-коду**. Это простой, безопасный и не требующий газа опыт для получателя.
 
-It’s built to make onboarding into crypto as easy as sending a message — no wallet funding, no bridging, no upfront fees.
+Сервис создан для того, чтобы онбординг в криптовалюту был таким же простым, как отправка сообщения — без пополнения кошелька, бриджинга и предварительных комиссий.
 
-### 🤝 Why We Built Pancake Gifts
+### 🤝 Почему мы создали Pancake Gifts
 
-Onboarding to Web3 is still full of friction. New users often give up before they even get started due to:
+Онбординг в Web3 до сих пор полон трудностей. Новые пользователи часто сдаются ещё до начала работы из-за:
 
-* **No gas in wallet** → Can’t perform any onchain action
-* **No funds on the correct chain** → Bridging is required before using dApps
-* **Need to buy crypto just to get started** → Requires CEX signup or fiat on-ramp
+* **Нет газа в кошельке** → Невозможно выполнить никакое действие в сети
+* **Нет средств в нужной сети** → Для использования dApp требуется бриджинг
+* **Нужно купить криптовалюту просто для начала** → Требуется регистрация на CEX или фиатный ввод средств
 
-Pancake Gifts eliminates these blockers by:
+Pancake Gifts устраняет эти барьеры:
 
-* ✅ **Including native gas tokens** in the gift so recipients can interact instantly
-* ✅ **Sponsoring the gas fee upfront** (sender pays a small fee)
-* ✅ **Enabling claim via a simple link or QR** — no complex onboarding
+* ✅ **Включает нативные газовые токены** в подарок, чтобы получатели могли сразу взаимодействовать с сетью
+* ✅ **Предварительно оплачивает комиссию за газ** (отправитель платит небольшую комиссию)
+* ✅ **Позволяет получить подарок по простой ссылке или QR** — никакого сложного онбординга
 
 
 
-It’s a tool for both:
+Это инструмент как для:
 
-* New users getting started onchain
-* Web3-native communities looking to **boost adoption, reward users, or run campaigns** in a friendlier way
-
-***
-
-### ⚙️ Feature Summary
-
-| Feature                | Description                                                      |
-| ---------------------- | ---------------------------------------------------------------- |
-| **Chain Support**      | BNB Chain (initial launch)                                       |
-| **Gift Code Types**    | Link **or** QR Code                                              |
-| **One-time Use**       | Each code can only be claimed once                               |
-| **Token Support**      | Max 2 tokens: 1 BEP-20 (required), 1 native gas token (optional) |
-| **Custom Amounts**     | Set different values per token                                   |
-| **Gift Claim Gas Fee** | Sender prepays gas (\~$0.05 in BNB)                              |
-| **Gift History**       | Users can view all sent gifts, claim status, expiry              |
-| **Security Checks**    | Fee-on-transfer and complex logic tokens are disallowed          |
-
-### 🚫 Limitations
-
-1. **One gift per code** — Mass gifting is not yet supported.
-2. **Gifts cannot be reinstated** — Once cancelled or expired, they cannot be reused.
-3. **Unsupported tokens are blocked** — Tokens with transfer fees or special logic will show an error on creation.
-4. **Unsuccessful claims are retried** — Backend retries a few times. If still failed, the gift is marked **unclaimable** and must be cancelled manually to retrieve funds.
-5. **Gift must be claimed on the same chain** — e.g. ETH gift must be claimed on Ethereum. Cross-chain claiming is not supported yet.
+* Новых пользователей, начинающих работу в сети
+* Сообществ Web3, которые хотят **повысить уровень принятия, вознаградить пользователей или проводить кампании** более удобным способом
 
 ***
 
-### 🕒 Cancel & Expiry Logic
+### ⚙️ Краткое описание функций
 
-Gifts follow a defined lifecycle based on status and time:
+| Функция                    | Описание                                                                              |
+| -------------------------- | ------------------------------------------------------------------------------------- |
+| **Поддержка сетей**        | BNB Chain (первоначальный запуск)                                                     |
+| **Типы кодов подарков**    | Ссылка **или** QR-код                                                                 |
+| **Одноразовое использование** | Каждый код можно получить только один раз                                          |
+| **Поддержка токенов**      | Максимум 2 токена: 1 BEP-20 (обязательно), 1 нативный газовый токен (опционально)    |
+| **Произвольные суммы**     | Устанавливай разные значения для каждого токена                                       |
+| **Комиссия за получение подарка** | Отправитель предварительно оплачивает газ (~$0.05 в BNB)                       |
+| **История подарков**       | Пользователи могут просматривать все отправленные подарки, статус получения, срок действия |
+| **Проверки безопасности**  | Токены с комиссией за перевод и сложной логикой не допускаются                        |
 
-#### Manual Cancel
+### 🚫 Ограничения
 
-* The **creator** can cancel any gift that is still **unclaimed** and **within the expiry window**.
-* Tokens (minus the initial Gift Claim Gas Fee) will be returned to the sender.
-* Cancelled gifts **cannot** be reactivated or reused.
-
-#### Auto Expiry
-
-* Gifts **automatically expire** after a user-defined period (default: 7 days).
-* Unclaimed tokens will be **auto-returned** to the sender’s wallet.
-* Expired gifts are also non-reusable.
-
-***
-
-### 🔄 Gift Statuses & What They Mean
-
-| Status          | Description                                                              |
-| --------------- | ------------------------------------------------------------------------ |
-| **Pending**     | Gift has been created and is awaiting claim                              |
-| **Claimed**     | Gift was successfully claimed by a recipient                             |
-| **Cancelled**   | Gift was manually cancelled by the sender                                |
-| **Expired**     | Gift passed the expiry time without being claimed                        |
-| **Unclaimable** | Number of retries exceeded; gift needs to be cancelled to retrieve funds |
+1. **Один подарок на код** — Массовое дарение пока не поддерживается.
+2. **Подарки нельзя восстановить** — После отмены или истечения срока их нельзя использовать повторно.
+3. **Неподдерживаемые токены заблокированы** — Токены с комиссией за перевод или специальной логикой покажут ошибку при создании.
+4. **Неудачные попытки получения повторяются** — Система несколько раз повторяет попытку. Если по-прежнему неудачно, подарок помечается как **невозможный для получения** и его необходимо отменить вручную для возврата средств.
+5. **Подарок должен быть получен в той же сети** — например, подарок ETH необходимо получить в сети Ethereum. Межсетевое получение подарков пока не поддерживается.
 
 ***
 
-### ⚠️ Error Handling & Edge Cases
+### 🕒 Логика отмены и истечения срока
 
-1. **Unsupported Token**
-   * Gift creation is blocked for tokens with transfer fees or special logic.
-2. **Gas Mismatch**
-   * If **actual claim gas cost ≥** the sender’s prepaid fee, the claim fails automatically to prevent overuse. This will be retried once gas fee levels are within range.
-3. **Failed Claim Attempts**
-   * Retries will be attempted upon first unsuccessful claim.
-   * If still unsuccessful:
-     * Recipient sees “Unclaimable”
-     * Sender must manually cancel the gift to retrieve funds and receipient will have to request or a new gift code.
+Подарки следуют определённому жизненному циклу в зависимости от статуса и времени:
+
+#### Ручная отмена
+
+* **Создатель** может отменить любой подарок, который ещё **не получен** и **в пределах срока действия**.
+* Токены (за вычетом начальной комиссии за получение подарка) будут возвращены отправителю.
+* Отменённые подарки **не могут** быть повторно активированы или использованы.
+
+#### Автоматическое истечение срока
+
+* Подарки **автоматически истекают** через определённый пользователем период (по умолчанию: 7 дней).
+* Неполученные токены будут **автоматически возвращены** в кошелёк отправителя.
+* Подарки с истёкшим сроком также не подлежат повторному использованию.
+
+***
+
+### 🔄 Статусы подарков и их значение
+
+| Статус              | Описание                                                                          |
+| ------------------- | --------------------------------------------------------------------------------- |
+| **Pending**         | Подарок создан и ожидает получения                                                |
+| **Claimed**         | Подарок был успешно получен получателем                                           |
+| **Cancelled**       | Подарок был вручную отменён отправителем                                          |
+| **Expired**         | Истёк срок действия подарка без его получения                                    |
+| **Unclaimable**     | Превышено количество попыток; подарок необходимо отменить для возврата средств    |
+
+***
+
+### ⚠️ Обработка ошибок и граничные случаи
+
+1. **Неподдерживаемый токен**
+   * Создание подарка заблокировано для токенов с комиссией за перевод или специальной логикой.
+2. **Несоответствие газа**
+   * Если **фактическая стоимость газа для получения ≥** предоплаченной комиссии отправителя, получение автоматически завершается с ошибкой для предотвращения перерасхода. Попытка будет повторена, когда уровни комиссии за газ окажутся в допустимом диапазоне.
+3. **Неудачные попытки получения**
+   * При первой неудачной попытке будут выполнены повторные попытки.
+   * Если по-прежнему неудачно:
+     * Получатель видит "Unclaimable"
+     * Отправитель должен вручную отменить подарок для возврата средств, а получателю придётся запросить новый код подарка.

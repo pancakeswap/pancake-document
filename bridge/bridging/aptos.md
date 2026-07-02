@@ -1,106 +1,106 @@
 ---
-description: Bridge CAKE between EVM chains and Aptos
+description: Бриджинг CAKE между EVM-сетями и Aptos
 ---
 
-# How to Bridge - EVM <> Aptos
+# Как осуществить бриджинг — EVM <> Aptos
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28113%29.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-The following guide uses BNB Chain as an example of an EVM chain. The same process can be applied to Ethereum.
+В следующем руководстве в качестве примера EVM-сети используется BNB Chain. Тот же процесс применим к Ethereum.
 {% endhint %}
 
-## Bridge CAKE from BNB Smart Chain to Aptos
+## Бриджинг CAKE из BNB Smart Chain в Aptos
 
-1 - Make sure your wallet supports both BNB Smart Chain and Aptos Mainnet. Or you have both of the wallets installed in your browser.
+1 — Убедись, что твой кошелёк поддерживает как BNB Smart Chain, так и Aptos Mainnet. Либо у тебя установлены оба кошелька в браузере.
 
-Then open the [PancakeSwap CAKE Bridge](https://bridge.pancakeswap.finance/)
+Затем открой [PancakeSwap CAKE Bridge](https://bridge.pancakeswap.finance/)
 
-2 - First, we need to connect our BNB Smart Chain wallet.
+2 — Сначала нам нужно подключить кошелёк BNB Smart Chain.
 
-Click "Connect" and choose the wallet you prefer under the "EVM" section. Then confirm and approve in your wallet popup.
+Нажми «Connect» и выбери предпочтительный кошелёк в разделе «EVM». Затем подтверди и одобри действие во всплывающем окне кошелька.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-wallet-connect-modal.png)
 
-3 - Then, we need to connect our Aptos wallet.
+3 — Затем нам нужно подключить кошелёк Aptos.
 
-In the wallet connect modal, choose the wallet you prefer under the "Aptos" section. Then confirm and approve in your wallet popup.
+В модальном окне подключения кошелька выбери предпочтительный кошелёк в разделе «Aptos». Затем подтверди и одобри действие во всплывающем окне кошелька.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-default-state.png)
 
-4 - Click the "v" in the upper token selection field and choose "CAKE".
+4 — Нажми «v» в верхнем поле выбора токена и выбери «CAKE».
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/upper-field.png)
 
-5 - Input the number of CAKE you want to bridge to Aptos.
+5 — Введи количество CAKE, которое ты хочешь перевести в Aptos.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-amount-entered.png)
 
-6 - If your Aptos wallet is freshly created and doesn't have any APT (Aptos Coin) balance. We recommend keeping the "gas on destination" option at its default. The bridge will deposit a small amount of APT to your wallet, not only to help you kickstart your journey on Aptos, but you will also need APT for gas to register and claim your bridged CAKE.
+6 — Если твой кошелёк Aptos только что создан и на нём нет баланса APT (Aptos Coin), рекомендуем оставить опцию «gas on destination» в значении по умолчанию. Мост зачислит небольшое количество APT на твой кошелёк — это не только поможет тебе начать работу в сети Aptos, но и APT понадобится тебе для оплаты газа при регистрации и получении переведённого CAKE.
 
-Altering this option might cause bridging to fail.
+Изменение этой опции может привести к сбою бриджинга.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-gas-on-dest.png)
 
-7 - Click "Transfer" to initiate the bridging transaction and confirm via the wallet confirmation pop up.
+7 — Нажми «Transfer», чтобы инициировать транзакцию бриджинга, и подтверди её во всплывающем окне кошелька.
 
-Please note that depending on the condition on your BNB Smart Chain wallet and Aptos wallet. You may need to approve **multiple** wallet confirmations. For example if you are bridging CAKE to Aptos for the first time, you will need to:
+Обрати внимание, что в зависимости от состояния твоего кошелька BNB Smart Chain и кошелька Aptos тебе может потребоваться подтвердить **несколько** операций в кошельке. Например, если ты впервые переводишь CAKE в Aptos, тебе нужно будет:
 
-* Approve CAKE spending on the bridging contract (coming from your BNB Smart Chain wallet)
-* Register CAKE (coming from your Aptos wallet)
+* Одобрить расходование CAKE в контракте моста (из кошелька BNB Smart Chain)
+* Зарегистрировать CAKE (из кошелька Aptos)
 
-For more detail please check out [this breakdown](aptos.md#bridging-cake-to-aptos-for-the-first-time).
+Подробнее об этом читай в [разделе ниже](aptos.md#bridging-cake-to-aptos-for-the-first-time).
 
-8 - Sit back and relax. It should only take a few minutes. Once the bridging is complete, CAKE will be deposited into your Aptos wallet. You can track the progress by the progress bar.
+8 — Откинься на спинку кресла и расслабься. Это займёт всего несколько минут. После завершения бриджинга CAKE будет зачислен на твой кошелёк Aptos. Ты можешь отслеживать прогресс с помощью индикатора выполнения.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-complete-half.png)
 
-## Bridging CAKE to Aptos for the First Time
+## Бриджинг CAKE в Aptos в первый раз
 
-Bridging CAKE to Aptos wallets requires registration and claim transactions. This is done to enhance user security and is unique to Aptos.
+Для бриджинга CAKE в кошельки Aptos требуются транзакции регистрации и получения средств. Это сделано для повышения безопасности пользователей и является особенностью Aptos.
 
-### **If you already have APT (Aptos Coin) in your wallet:**
+### **Если у тебя уже есть APT (Aptos Coin) в кошельке:**
 
-You’ll be prompted to register CAKE on your Aptos wallet if it’s not registered yet. No additional claim transaction is needed in this case.
+Тебе будет предложено зарегистрировать CAKE в кошельке Aptos, если он ещё не зарегистрирован. В этом случае дополнительная транзакция получения средств не требуется.
 
-### **If you don’t have APT (Aptos Coin) in your wallet:**
+### **Если у тебя нет APT (Aptos Coin) в кошельке:**
 
-After the bridge transaction completes, you’ll need to manually claim your CAKE. To cover the gas fees for claiming, APT tokens will be sent to your Aptos wallet from your source wallet.
+После завершения транзакции бриджинга тебе нужно будет вручную получить свои CAKE. Для покрытия комиссий за газ при получении токены APT будут отправлены на твой кошелёк Aptos из исходного кошелька.
 
-These registration and claim steps only apply the first time you interact with a token on Aptos. Subsequent transfers of the same token won’t require these actions.
+Эти шаги регистрации и получения применяются только при первом взаимодействии с токеном в Aptos. При последующих переводах того же токена эти действия не потребуются.
 
-Before bridging CAKE to Aptos for the first time, ensure your Aptos address has enough APT for gas fees. For more details, check out Aptos’s explanation here: [https://theaptosbridge.com/faq#registering-claiming-assets](https://theaptosbridge.com/faq#registering-claiming-assets)
+Прежде чем впервые переводить CAKE в Aptos, убедись, что на твоём адресе Aptos достаточно APT для оплаты газа. Подробнее читай в объяснении Aptos здесь: [https://theaptosbridge.com/faq#registering-claiming-assets](https://theaptosbridge.com/faq#registering-claiming-assets)
 
-## Bridge CAKE from Aptos to BNB Smart Chain
+## Бриджинг CAKE из Aptos в BNB Smart Chain
 
-1 - Make sure your wallet supports both BNB Smart Chain and Aptos Mainnet. Or you have both of the wallets installed in your browser.
+1 — Убедись, что твой кошелёк поддерживает как BNB Smart Chain, так и Aptos Mainnet. Либо у тебя установлены оба кошелька в браузере.
 
-Then open the [PancakeSwap CAKE Bridge](https://bridge.pancakeswap.finance/)
+Затем открой [PancakeSwap CAKE Bridge](https://bridge.pancakeswap.finance/)
 
-2 - First, we need to connect our BNB Smart Chain wallet.
+2 — Сначала нам нужно подключить кошелёк BNB Smart Chain.
 
-Click "Connect" and choose the wallet you prefer under the "EVM" section. Then confirm and approve in your wallet popup.
+Нажми «Connect» и выбери предпочтительный кошелёк в разделе «EVM». Затем подтверди и одобри действие во всплывающем окне кошелька.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-wallet-connect-modal.png)
 
-3 - Then, we need to connect our Aptos wallet.
+3 — Затем нам нужно подключить кошелёк Aptos.
 
-In the wallet connect modal, choose the wallet you prefer under the "Aptos" section. Then confirm and approve in your wallet popup.
+В модальном окне подключения кошелька выбери предпочтительный кошелёк в разделе «Aptos». Затем подтверди и одобри действие во всплывающем окне кошелька.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-default-state.png)
 
-4 - Click the "v" in the upper token selection field and choose "CAKE". Then click the double arrow button in the middle of the page to flip the direction of the bridging.
+4 — Нажми «v» в верхнем поле выбора токена и выбери «CAKE». Затем нажми кнопку с двойной стрелкой в центре страницы, чтобы изменить направление бриджинга.
 
-Please make sure the "Aptos" network is in the upper field.
+Убедись, что сеть «Aptos» находится в верхнем поле.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/upper-field-aptos.png)
 
-5 - Input the number of CAKE you want to bridge to BNB Smart Chain.
+5 — Введи количество CAKE, которое ты хочешь перевести в BNB Smart Chain.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-aptos-to-bsc-with-amount.png)
 
-6 - If your BNB Smart Chain wallet is freshly created and doesn't have any BNB (gas token) balance. We recommend keeping the "gas on destination" option at its default. The bridge will deposit a small amount of BNB into your wallet. It will help you kickstart your journey on BNB Smart Chain and explore the vivid PancakeSwap ecosystem.
+6 — Если твой кошелёк BNB Smart Chain только что создан и на нём нет баланса BNB (газового токена), рекомендуем оставить опцию «gas on destination» в значении по умолчанию. Мост зачислит небольшое количество BNB на твой кошелёк. Это поможет тебе начать работу в BNB Smart Chain и изучить яркую экосистему PancakeSwap.
 
-7 - Click "Transfer" and approve the transactions from your wallet popup.
+7 — Нажми «Transfer» и подтверди транзакции во всплывающем окне кошелька.
 
-8 - Sit back and relax. It should only take a few minutes. Once the bridging is complete, CAKE will be deposited into your BNB Smart Chain wallet. You can track the progress by the progress bar.
+8 — Откинься на спинку кресла и расслабься. Это займёт всего несколько минут. После завершения бриджинга CAKE будет зачислен на твой кошелёк BNB Smart Chain. Ты можешь отслеживать прогресс с помощью индикатора выполнения.

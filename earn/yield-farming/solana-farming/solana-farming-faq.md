@@ -1,48 +1,48 @@
-# Solana Farming FAQ
+# FAQ по фармингу на Solana
 
-### 1. How does SOL Farming work?
+### 1. Как работает фарминг SOL?
 
-* V3 Farming is **campaign-based**, meaning farms are active only for a set duration.
-* During the campaign:
-  * Reward tokens are distributed **every second** to **active liquidity positions**.
-  * Farming APR will be shown on the pool list page and my positions page
-* After the campaign ends:
-  1. **No more rewards** will be distributed.
-  2. **Farming APR will no longer be shown** on the pool list page and my positions page
-  3. The farm becomes **inactive**, but may be restarted by the creator by adding more rewards.
+* Фарминг V3 **основан на кампаниях**, то есть фермы активны только в течение определённого периода.
+* Во время кампании:
+  * Токены вознаграждений распределяются **каждую секунду** на **активные позиции ликвидности**.
+  * APR фарминга будет отображаться на странице списка пулов и странице моих позиций.
+* После завершения кампании:
+  1. **Вознаграждения больше не будут** распределяться.
+  2. **APR фарминга больше не будет отображаться** на странице списка пулов и странице моих позиций.
+  3. Ферма становится **неактивной**, но может быть перезапущена создателем путём добавления новых вознаграждений.
 
-### 2. Do I need to stake my LP NFT to earn farming rewards?
+### 2. Нужно ли стейкать NFT LP для получения вознаграждений от фарминга?
 
-* **No staking is required**.
-* As long as your liquidity position is **active (in-range)** in a pool with an active farm, you will earn rewards automatically.
+* **Стейкинг не требуется**.
+* Пока твоя позиция ликвидности **активна (в диапазоне)** в пуле с активной фермой, ты будешь получать вознаграждения автоматически.
 
-### 3. Are there any farm boosters?
+### 3. Есть ли бустеры для ферм?
 
-* **No**, V3 farms do **not** support any boosting mechanisms.
-* Rewards are solely based on your share of active liquidity in the pool.
+* **Нет**, фермы V3 **не** поддерживают никаких механизмов буста.
+* Вознаграждения основаны исключительно на твоей доле активной ликвидности в пуле.
 
-### 4. Can multiple farms be created for the same pool?
+### 4. Можно ли создать несколько ферм для одного пула?
 
-* **No**, only **one farm per token pair and fee tier** can exist.
+* **Нет**, может существовать только **одна ферма на пару токенов и уровень комиссии**.
 
-### 5. How are SOL farms configured?
+### 5. Как настраиваются фермы SOL?
 
-#### A. Token Rewards
+#### A. Токены вознаграждений
 
-* Up to **3 different reward tokens** can be assigned per farm.
-* Once set, the reward token types **cannot be changed**.
-* The farm creator can:
-  * **Top up** the allocated reward tokens.
-  * **Extend the farming duration** after the campaign ends.
+* На каждую ферму можно назначить до **3 различных токенов вознаграждений**.
+* После настройки типы токенов вознаграждений **не могут быть изменены**.
+* Создатель фермы может:
+  * **Пополнять** выделенные токены вознаграждений.
+  * **Продлевать срок фарминга** после завершения кампании.
 
-#### B. Campaign Duration
+#### B. Продолжительность кампании
 
-* Campaigns must last a minimum of **7 days** and a maximum of **90 days**.
+* Кампании должны длиться минимум **7 дней** и максимум **90 дней**.
 
-### 6. Can a farm be edited after creation?
+### 6. Можно ли редактировать ферму после создания?
 
-Farm creators can edit the following parameters **after farm creation**:
+Создатели ферм могут редактировать следующие параметры **после создания фермы**:
 
-1. Reward distribution rate (per second)
-2. Campaign end date
-3. Add a reward token and corresponding reward amount (only if fewer than 3 tokens were initially assigned)
+1. Скорость распределения вознаграждений (в секунду)
+2. Дата окончания кампании
+3. Добавить токен вознаграждения и соответствующую сумму (только если изначально было назначено менее 3 токенов)

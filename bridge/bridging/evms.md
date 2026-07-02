@@ -1,55 +1,55 @@
 ---
-description: Bridge between EVMs like Ethereum and BNB Chain
+description: Бриджинг между EVM-сетями, такими как Ethereum и BNB Chain
 ---
 
-# How to Bridge – Between EVMs
+# Как осуществить бриджинг — между EVM-сетями
 
 {% hint style="success" %}
-**EVMs:** EVM chains are blockchains that use the Ethereum Virtual Machine to run Ethereum-compatible smart contracts and dApps. Examples include Ethereum, BNB Smart Chain, etc.
+**EVM-сети:** EVM-сети — это блокчейны, использующие Ethereum Virtual Machine для выполнения совместимых с Ethereum смарт-контрактов и децентрализованных приложений. Примеры: Ethereum, BNB Smart Chain и др.
 {% endhint %}
 
-1. Navigate to [https://pancakeswap.finance/bridge](https://pancakeswap.finance/bridge)
-2. Ensure your wallet is connected
+1. Перейди на [https://pancakeswap.finance/bridge](https://pancakeswap.finance/bridge)
+2. Убедись, что твой кошелёк подключён
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29%20%283%29.png" alt=""><figcaption></figcaption></figure>
 
-3. Select your **source** and **destination** chains via the network selectors
+3. Выбери **исходную** и **целевую** сети с помощью селекторов сетей
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%282%29%20%283%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-4. Input the amount you wish to send and select the token from the dropdown
+4. Введи сумму, которую ты хочешь отправить, и выбери токен из выпадающего списка
 
-* **Tip:** Always double-check the token contract address before sending!
+* **Совет:** всегда дважды проверяй адрес контракта токена перед отправкой!
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%283%29%20%283%29.png" alt="" width="374"><figcaption></figcaption></figure>
 
-5. Select the **received token** – In some cases where token symbols are identical (e.g., USDC / USDT), variants will appear for you to choose from
+5. Выбери **получаемый токен** — в случаях, когда символы токенов совпадают (например, USDC / USDT), появятся варианты для выбора
 
-* **Tip:** Hover over the token or click on the link to verify the token name and address
+* **Совет:** наведи курсор на токен или нажми на ссылку, чтобы проверить название и адрес токена
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%284%29%20%282%29.png" alt="" width="375"><figcaption><p>USDC</p></figcaption></figure>
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%285%29%20%282%29.png" alt="" width="375"><figcaption><p>USDC (Wormhole)</p></figcaption></figure>
 
-6. Review the “You Receive” section to confirm all details are correct
+6. Проверь раздел «Ты получаешь», чтобы убедиться, что все данные верны
 
-* PancakeSwap selects from multiple bridge providers based on your source and destination chains.
-* Providers differ in fees, processing times, and possible restrictions—these will be clearly shown.
+* PancakeSwap выбирает из нескольких провайдеров мостов на основе твоих исходной и целевой сетей.
+* Провайдеры отличаются по комиссиям, времени обработки и возможным ограничениям — всё это будет чётко отображено.
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28385%29.png" alt=""><figcaption></figcaption></figure>
 
-* Tags help you compare routes:
-  * **Best Return** = highest received amount
-  * **Fastest** = quickest transfer time
+* Метки помогают сравнивать маршруты:
+  * **Best Return** = наибольшая получаемая сумма
+  * **Fastest** = наименьшее время перевода
 
-Use these tags to balance speed and value according to your needs.
+Используй эти метки, чтобы сбалансировать скорость и выгоду в соответствии со своими потребностями.
 
 {% hint style="warning" %}
-On your **first transaction** with a bridge provider, you’ll be prompted to approve the token transfer (this is a one-time action)
+При **первой транзакции** с провайдером моста тебе будет предложено одобрить перевод токена (это разовое действие)
 
-* For your **second transaction**, simply click “Send” and your bridge transfer will begin
+* Для **второй транзакции** просто нажми «Send», и перевод через мост начнётся
 {% endhint %}
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%286%29%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
-7. Sit back and relax! Most bridge transfers complete in just a few minutes. Once completed, your tokens will appear in your Ethereum address.
+7. Откинься на спинку кресла и расслабься! Большинство переводов через мост завершается всего за несколько минут. После завершения твои токены появятся на твоём адресе Ethereum.

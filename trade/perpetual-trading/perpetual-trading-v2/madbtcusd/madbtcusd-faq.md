@@ -1,4 +1,4 @@
-# FAQ по MADBTCUSD
+# FAQ MADBTCUSD
 
 ### Как рассчитывается индекс MADBTCUSD?
 
@@ -33,36 +33,36 @@ $$
 import hashlib
 from decimal import Decimal
 
-# Assume the current price of Bitcoin is 48923.56789101
+# Предположим, текущая цена Bitcoin составляет 48923.56789101
 bitcoin_price = Decimal("48923.56789101")
 
-# Calculate the SHA-256 hash of the Bitcoin price
+# Рассчитываем SHA-256 хеш цены Bitcoin
 price_hash = hashlib.sha256(str(bitcoin_price).encode('utf-8')).hexdigest()
 
-# Extract the first 8 hexadecimal numbers from the hash
+# Извлекаем первые 8 шестнадцатеричных символов хеша
 hash_substring = price_hash[:8]
 
-# Converts a hexadecimal string to an integer
+# Конвертируем шестнадцатеричную строку в целое число
 hash_integer = int(hash_substring, 16)
 
-# Divide the integer by 4294967296 (the decimal number corresponding to the hexadecimal number FFFFFFFF) to get a num
+# Делим целое число на 4294967296 (десятичное число, соответствующее шестнадцатеричному FFFFFFFF) для получения числа
 random_number = hash_integer / 4294967296
-# Print the random number
+# Выводим случайное число
 print(random_number)
 ```
 
-Если определённое случайное число равно 0, оно будет пересчитано заново
+Если определённое случайное число равно 0, расчёт повторяется.
 
-### Где можно перекрёстно проверить историческую цену BTC и MADBTCUSD?
+### Где можно верифицировать исторические цены BTC и MADBTCUSD?
 
-Потоки цен BTC и MADBTCUSD можно найти здесь:
+Ценовые потоки BTC и MADBTCUSD можно найти здесь:
 
 [BTCUSD](https://www.apollox.finance/bapi/futures/v1/public/future/apx/V2MarkPriceKline?symbol=BTCUSD\&limit=1800)
 
 [MADBTCUSD](https://www.apollox.finance/bapi/futures/v1/public/future/apx/V2MarkPriceKline?symbol=MADBTCUSD\&limit=1800)
 
-### Исторические данные бэктестинга BTC и MADBTC
+### Исторические данные бэктестирования BTC & MADBTC
 
-Для перекрёстной проверки исторических цен BTC и MADBTC мы предоставили граф бэктестинга ниже.&#x20;
+Для верификации исторических цен BTC & MADBTC мы предоставляем ниже график бэктестирования.&#x20;
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/photo_2023-10-26_19-24-40.jpg" alt=""><figcaption></figcaption></figure>

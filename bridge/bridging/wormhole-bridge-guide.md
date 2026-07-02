@@ -2,32 +2,31 @@
 hidden: true
 ---
 
-# Wormhole Bridge Guide
+# Руководство по Wormhole Bridge
 
-### Disclaimer
+### Отказ от ответственности
 
-It is essential to read this guide before you start using the Wormhole bridge. This guide explains how to use the bridge in a step-by-step manner, as well as demonstrating some valuable features that it supports out of the box, such as translation searching and transaction resuming. This guide also provides troubleshooting actions to take.
+Перед началом использования Wormhole Bridge необходимо прочитать это руководство. В нём пошагово объясняется, как пользоваться мостом, а также демонстрируются некоторые полезные функции, которые он поддерживает из коробки, такие как поиск по транзакциям и возобновление транзакций. Руководство также содержит действия по устранению неполадок.
 
-### Performing a Bridge
+### Выполнение бриджинга
 
 <figure><img src="https://lh7-us.googleusercontent.com/ZnR2zSNBpjyrzAs_JVlYdKCMDVYmOw4AVdJj_VIk0dmkvqTNxAC1ror2bEQlmSLeVGNV-PwhQSZdyquv-nCBPsHLjACy6LQsyM7M98dFrT9xKnZqC0aWYgUj0fjwC5pbZ9g1UwLalAU6DV-ORgPs-UY" alt=""><figcaption></figcaption></figure>
 
-1. **Head to PancakeSwap Wormhole Bridge -** [**https://bridge.pancakeswap.finance/wormhole**](https://bridge.pancakeswap.finance/wormhole)
-2. **Connect Source Chain Wallet** - The first step is to connect a wallet. When using the widget it's not important to have your wallet preset to the network you're trying to bridge from. Wormhole will automatically set the correct network for you based on the one you have chosen. For EVM chains only Metamask is supported
-3. **Select Source Chain Network** - PancakeSwap currently support 4 networks with the Wormhole Bridge (Ethereum, Binance Smart Chain, Arbitrum and Base)
-4. **Select Source Chain Asset** - Select the token you want to bridge.&#x20;
-5. **For Steps 4,5 and 6** - Repeat steps 1,2 and 3 with the destination chain
-6. Enter Bridge Amount - Enter bridge amount and proceed to approve transaction. Route and bridge will be shown similar to this:
+1. **Перейди на PancakeSwap Wormhole Bridge -** [**https://bridge.pancakeswap.finance/wormhole**](https://bridge.pancakeswap.finance/wormhole)
+2. **Подключи кошелёк исходной сети** — первый шаг — подключить кошелёк. При использовании виджета не обязательно заранее устанавливать кошелёк на ту сеть, из которой ты хочешь выполнить бриджинг. Wormhole автоматически установит правильную сеть на основе той, которую ты выбрал. Для EVM-сетей поддерживается только Metamask.
+3. **Выбери сеть исходной цепочки** — PancakeSwap в настоящее время поддерживает 4 сети через Wormhole Bridge (Ethereum, Binance Smart Chain, Arbitrum и Base)
+4. **Выбери актив исходной цепочки** — выбери токен, который хочешь перевести через мост.
+5. **Для шагов 4, 5 и 6** — повтори шаги 1, 2 и 3 для целевой сети
+6. Введи сумму бриджинга — введи сумму и подтверди транзакцию. Маршрут и мост будут отображены примерно так:
 
 <figure><img src="https://lh7-us.googleusercontent.com/k6VhFctTcH__ojn3fMScEUUONGP_uPHk-s8OvVonboim7Cm37xCQhNiReTpUuo90_c81jg51pHVKsxhok50I6dwHWjBGZgB-yaIksikYP0aQB7uUaI1Wm6wK9uoYdZdygkViWnXWZcGnsBrPnivbij0" alt="" width="563"><figcaption></figcaption></figure>
 
-7. Once approved and transaction is sent, a transaction status page will show up:
+7. После подтверждения и отправки транзакции появится страница со статусом транзакции:
 
 <figure><img src="https://lh7-us.googleusercontent.com/RpERMKVOpXOJn56_-awggVO63Pl_KkkvQBzrwlD3jdEssKk7H6gznb7Np8ampHm3quG3doPGReqKFMyU1Fa4b0nlxjmSiZgSlY1WfEEAzbM_PcpZVRtESmXWol50wku4SE5oT8MgjfIwdoj8-rf-IBE" alt="" width="563"><figcaption></figcaption></figure>
 
-There are three steps to the bridge process. These steps may take some time and usually require a certain amount of block confirmations on the source chain transaction. Once this confirmation threshold is reached. Wormhole will generate proof confirming that the transaction was successful. This proof is needed in order to be able to claim your bridged asset on the destination chain.
+Процесс бриджинга состоит из трёх шагов. Эти шаги могут занять некоторое время и, как правило, требуют определённого количества подтверждений блоков в транзакции исходной сети. Как только этот порог подтверждений будет достигнут, Wormhole сгенерирует доказательство, подтверждающее успешность транзакции. Это доказательство необходимо для того, чтобы получить переведённый актив в целевой сети.
 
-8. Once verification is complete, you'll be able to claim your bridged assets by clicking the claim button shown:&#x20;
+8. После завершения верификации ты сможешь получить переведённые активы, нажав показанную кнопку получения:
 
 <figure><img src="https://lh7-us.googleusercontent.com/1OQVN7yTv2LcyZVpuwdZx4xxHsWFkGoSmfNSDDwJDSib47EVxmY-c_mD5EcfVGyb72KNdtZ-BC3CH_cWZtXNXVflFV8PP_577nIb4dG_Z1_O3rdoXETRWORZmgn4eUKyGAdmavmdzzA6YRA3aVA8_R8" alt="" width="563"><figcaption></figcaption></figure>
-

@@ -2,121 +2,121 @@
 hidden: true
 ---
 
-# Farming FAQ
+# FAQ по Yield Farming
 
-### Why are there multiple APRs?
+### Почему отображается несколько APR?
 
-In V3, you can concentrate your assets while providing liquidity to boost your share against the total available liquidity, earning a higher % of rewards.&#x20;
+В V3 можно концентрировать активы при предоставлении ликвидности, чтобы увеличить свою долю относительно общей доступной ликвидности и зарабатывать более высокий % наград.
 
-Therefore, depending on the position price-range settings, each liquidity position will have its own LP fee APR and its own farming APR.
+Поэтому, в зависимости от настроек ценового диапазона позиции, каждая позиция ликвидности будет иметь собственный APR комиссии LP и собственный APR фарминга.
 
-The global APR is calculated with the total amount of CAKE rewards in USD, divided by the total amount of assets, with in the active positions, which are currently staked in the farm. So, global farming APR is only a generic reference, and will not represent individual APRs for each positions.
+Глобальный APR рассчитывается как общая сумма наград CAKE в USD, делённая на общую сумму активов в активных позициях, находящихся в стейкинге на ферме. Поэтому глобальный APR фарминга является лишь общим ориентиром и не отражает индивидуальные APR каждой позиции.
 
-To view your farming APR, check out your positions listed under each farm.
+Для просмотра APR фарминга проверь свои позиции, перечисленные под каждой фермой.
 
 ###
 
-### What happens if my liquidity position goes out of range while staking in the Farm?
+### Что происходит, если моя позиция ликвидности выходит из диапазона во время стейкинга на ферме?
 
-In V3, only active (in-range) liquidity positions will earn CAKE from farms.
+В V3 CAKE от ферм зарабатывают только активные (в диапазоне) позиции ликвидности.
 
-The position will stop receiving CAKE rewards when the price goes out of the range.
+Когда цена выходит за пределы диапазона, позиция прекращает получать награды CAKE.
 
-If the price moves back in range, the position will start receiving CAKE rewards again. No additional actions are required from stakers.
-
-
-
-### Are there any ways to automatically adjust my position so it is always in range and earning fee rewards?
-
-PancakeSwap v3 supports one-click liquidity depositing via Zap, available on BNB Chain and Ethereum.
+Когда цена возвращается в диапазон, позиция снова начинает получать награды CAKE. Никаких дополнительных действий от стейкеров не требуется.
 
 
 
-### Is it better to always farm with a liquidity position with a smaller range?
+### Есть ли способы автоматически корректировать позицию, чтобы она всегда находилась в диапазоне и зарабатывала комиссионные награды?
 
-Providing liquidity to a smaller price range will help concentrate your liquidity, boosting your relative shares again the total liquidity within the price range, potentially earning more CAKE rewards.
-
-However, please bear in mind that only active liquidity positions will earn CAKE rewards. This means you will only earn rewards when the current trading price is within the price range defined in the liquidity position.
-
-If you need to adjust your position price range, you will need to unstake, remove liquidity and create a new position with the updated price range. Please bear in mind that frequent adjustments are not always the most optimal strategy as it realises the impermanent loss and costs a certain amount of gas to complete multiple transactions.
+PancakeSwap v3 поддерживает одноклоичное внесение ликвидности через Zap, доступное на BNB Chain и Ethereum.
 
 
 
-### How many positions I can stake in one single farm?
+### Всегда ли лучше фармить с позицией ликвидности меньшего диапазона?
 
-There is no maximum limit of positions you can stake in one farm.
+Предоставление ликвидности в более узком ценовом диапазоне помогает концентрировать ликвидность, увеличивая относительную долю по сравнению с общей ликвидностью в ценовом диапазоне и потенциально зарабатывая больше наград CAKE.
 
-But please bear in mind that you will need to spend gas to manually harvest from each one of the positions. Please always factor gas cost in the yield operations.
+Однако имей в виду, что только активные позиции ликвидности зарабатывают награды CAKE. Это означает, что ты будешь зарабатывать только тогда, когда текущая торговая цена находится в ценовом диапазоне, определённом в позиции ликвидности.
 
-
-
-### How often should I harvest my rewards?
-
-How often you harvest your rewards is up to you, but it does help to remember that there is a small fee involved in harvesting. You can see this fee in your wallet when confirming after clicking “Harvest”**.**
-
-This shows the fee for harvesting as it appears in the MetaMask wallet. Different wallets will show the information a little differently. Consider leaving your rewards to grow for a while so you pay fees less often.
+Если нужно скорректировать ценовой диапазон позиции, потребуется вывести из стейкинга, убрать ликвидность и создать новую позицию с обновлённым ценовым диапазоном. Учти, что частые корректировки не всегда являются оптимальной стратегией, поскольку реализуют непостоянные потери и требуют газа для выполнения нескольких транзакций.
 
 
 
-### What if I want to adjust my position while staking in the farm?
+### Сколько позиций можно поставить в стейкинг на одной ферме?
 
-While staking in the farm, you are able to add or remove liquidity without unstaking it. Simply locate the liquidity position you want to adjust, and click its title/id, and you should be presented with the position detail page where you can use the “Add” and “Remove” buttons.
+Нет максимального ограничения на количество позиций в стейкинге на одной ферме.
 
-If you want to adjust the price range configurations of a liquidity position, you will need to unstake it from the farm, remove all liquidity and re-create a new position by adding liquidity.
-
-
-
-### What affects Farming APR?
-
-In Farm v3, CAKE reward APR could vary between liquidity positions. It is based on the following factors:
-
-* CAKE emission rate to Farms\
-  \- more CAKE will generate a higher yield for all the farms. Read more on [our tokenomics page](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics)
-* Farm multiplier\
-  \- farms with a higher multiplier will get more CAKE proportionate to all the farms. Please note that v3 and v2 + stable swap farms are using two separate sets of multipliers. And farms on Ethereum and BNB Chains are also using two separate sets of multipliers.
-* The number of tokens deposited in the position\
-  \- more token in the position translates to a larger relative share against the total active liquidity in the farm pool and gets more CAKE rewards
-* The selected price range\
-  \- smaller price range allows a higher concentration for the same amount of token deposited, which translates to a larger relative share against the total active liquidity in the farm pool, and gets more CAKE rewards
-* The amount of liquidity currently active\
-  \- if there are more users who deposit and concentrate their liquidity with the same range as you, you will earn CAKE rewards due to a smaller relative share against the total
-* Whether the liquidity position is active\
-  \- only active liquidity positions will earn CAKE rewards from farm
+Но имей в виду, что потребуется тратить газ на ручной сбор наград с каждой позиции. Всегда учитывай стоимость газа при операциях с доходностью.
 
 
 
-### Why am I seeing an "Update Positions" pop-up?
+### Как часто следует собирать награды?
+
+Как часто собирать награды — решаешь ты сам, но помни, что при сборе есть небольшая комиссия. Её можно увидеть в кошельке при подтверждении после нажатия «Harvest».
+
+Это отображает комиссию за сбор в кошельке MetaMask. В разных кошельках информация может отображаться немного по-разному. Рекомендуем давать наградам расти некоторое время, чтобы реже платить комиссии.
+
+
+
+### Что делать, если нужно скорректировать позицию во время стейкинга на ферме?
+
+Во время стейкинга на ферме можно добавлять или убирать ликвидность без вывода из стейкинга. Просто найди позицию ликвидности, которую хочешь скорректировать, и нажми её заголовок/ID — откроется страница деталей позиции, где можно использовать кнопки «Add» и «Remove».
+
+Если нужно изменить конфигурацию ценового диапазона позиции ликвидности, потребуется вывести её из стейкинга, убрать всю ликвидность и создать новую позицию, добавив ликвидность заново.
+
+
+
+### Что влияет на APR фарминга?
+
+В Farm v3 APR наград CAKE может варьироваться в зависимости от позиций ликвидности. Он основан на следующих факторах:
+
+* Ставка эмиссии CAKE на фермы\
+  \- больше CAKE генерирует более высокую доходность для всех ферм. Подробнее на [странице токеномики](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics)
+* Множитель фермы\
+  \- фермы с более высоким множителем получают больше CAKE пропорционально всем фермам. Обрати внимание, что фермы v3 и v2 + StableSwap используют два отдельных набора множителей. Фермы на Ethereum и BNB Chain также используют два отдельных набора множителей.
+* Количество токенов, внесённых в позицию\
+  \- больше токенов в позиции означает большую относительную долю по сравнению с общей активной ликвидностью в пуле фермы и больше наград CAKE
+* Выбранный ценовой диапазон\
+  \- более узкий диапазон позволяет добиться более высокой концентрации при одном и том же количестве токенов, что означает большую относительную долю по сравнению с общей активной ликвидностью в пуле фермы и больше наград CAKE
+* Текущий объём активной ликвидности\
+  \- если больше пользователей вносят и концентрируют свою ликвидность в том же диапазоне, что и ты, ты будешь зарабатывать меньше наград CAKE из-за меньшей относительной доли
+* Активна ли позиция ликвидности\
+  \- только активные позиции ликвидности зарабатывают награды CAKE от фермы
+
+
+
+### Почему появляется всплывающее окно «Update Positions»?
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28321%29.png)
 
-Soon after the V3 launch, Chefs implemented an update on Farms to make reward calculations more accurate and reliable. If you are seeing this pop-up, that means some of your positions will require an update.
+Вскоре после запуска V3 шефы внедрили обновление ферм для повышения точности и надёжности расчётов наград. Если ты видишь это всплывающее окно, это означает, что некоторые позиции требуют обновления.
 
-Simply click "Update All", and confirm in your wallet pop-up.
+Просто нажми «Update All» и подтверди во всплывающем окне кошелька.
 
-Please note that Chefs are also applying this update to the historical staking data between the launch of Farm V3 and when this update is implemented. If there are any extra CAKE rewards, they will be airdropped to your wallet before 1st May 2023.
-
-
-
-### Why a 2x farm in V3 has less APR than a 1x farm in V2?
-
-First, when comparing APRs, you need to ensure the total staked liquidity between two farms is equal.
-
-On top of that, we now have multiple groups of farms which have their own stream of CAKE emissions. And each group of farms shares separated sets of multipliers.
-
-An individual farm will receive CAKE emissions based on:
-
-* A = Total CAKE per second/block for the farm group it belongs to
-* B = Total number of multipliers within the group it belongs to
-* C = The multiplier has
-
-`CAKE per block/second = C / B * A`
-
-The above numbers can be found in each of the [MasterChef](/broken/pages/-MeTWzQOSmb1ej51HT0I) contracts.
+Обрати внимание: шефы также применяют это обновление к историческим данным стейкинга между запуском Farm V3 и внедрением этого обновления. Если будут дополнительные награды CAKE, они будут отправлены на твой кошелёк до 1 мая 2023 года.
 
 
 
-### Can I use bCAKE in v3 Farms?
+### Почему ферма 2x в V3 имеет меньший APR, чем ферма 1x в V2?
 
-Yes
+Во-первых, при сравнении APR необходимо убедиться, что общая застейканная ликвидность между двумя фермами равна.
 
-bCAKE for V3 Farms will come very soon after the deployment of PancakeSwap Farm V3. Stay tuned.
+Кроме того, теперь есть несколько групп ферм с собственным потоком эмиссий CAKE. И каждая группа ферм имеет отдельные наборы множителей.
+
+Отдельная ферма получает эмиссии CAKE на основе:
+
+* A = Общий CAKE в секунду/блок для группы ферм, к которой она принадлежит
+* B = Общее количество множителей в группе, к которой она принадлежит
+* C = Множитель фермы
+
+`CAKE в блок/секунду = C / B * A`
+
+Указанные числа можно найти в каждом из контрактов [MasterChef](/broken/pages/-MeTWzQOSmb1ej51HT0I).
+
+
+
+### Можно ли использовать bCAKE в фермах v3?
+
+Да
+
+bCAKE для ферм V3 появится очень скоро после развёртывания PancakeSwap Farm V3. Следи за обновлениями.

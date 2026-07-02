@@ -1,68 +1,68 @@
-# Syrup Pool FAQ & Troubleshooting
+# FAQ и устранение неполадок Syrup Pool
 
-## Troubleshooting
+## Устранение неполадок
 
-### **I can't find the Syrup Pool I was staking in!**
+### **Не могу найти Syrup Pool, в котором делал стейкинг!**
 
-You should be able to find the Syrup Pool under the “Finished” tab on the Syrup Pools page.&#x20;
+Syrup Pool можно найти на вкладке «Finished» на странице Syrup Pools.
 
-By selecting “Staked Only”, it will make it easier to find your assets.
+Выбрав «Staked Only», можно легче найти свои активы.
 
-### **Why can’t I unstake my tokens from a Syrup Pool?**
+### **Почему не могу вывести токены из Syrup Pool?**
 
-If you are unable to unstake from the Stake Cake, Earn CAKE pools, please check to make sure that you haven’t sold the SYRUP tokens in your wallet. This token acts as a \`proof of ownership\` over your CAKE in the Manual CAKE pool.&#x20;
+Если не получается вывести из пула Stake Cake, Earn CAKE, проверь, не продал ли ты токены SYRUP в своём кошельке. Этот токен служит `подтверждением права собственности` на твои CAKE в ручном пуле CAKE.
 
-### **Why did my earned tokens go to zero after staking/unstaking?**
+### **Почему мои заработанные токены обнулились после стейкинга/вывода?**
 
-Don’t worry! They’re in your wallet already.
+Не беспокойся! Они уже в твоём кошельке.
 
-Whenever you stake or unstake from a Syrup Pool or farm, your earned tokens get harvested and sent to your wallet at the same time.
+Каждый раз, когда ты делаешь стейкинг или выводишь из Syrup Pool или фермы, твои заработанные токены автоматически собираются и отправляются в кошелёк.
 
-## **General Questions**
+## **Общие вопросы**
 
-### How is APR for Syrup Pools calculated?
+### Как рассчитывается APR для Syrup Pools?
 
-> Syrup Pool APR = Annualized rewards (USD) / User funds staked in Syrup Pool (USD) \* 100
+> APR Syrup Pool = Годовые награды (USD) / Средства пользователей в стейкинге Syrup Pool (USD) \* 100
 
-As a basic example, let's take a 60-day pool with 300,000 USD worth of rewards, and 3,000,000 USD worth of CAKE staked in it.
+Для базового примера возьмём 60-дневный пул с наградами стоимостью 300 000 USD и 3 000 000 USD в CAKE в стейкинге.
 
-The APR fluctuates as more CAKE is staked by users, and as the price of CAKE, and the reward token, vary.
+APR колеблется по мере того, как пользователи добавляют CAKE в стейкинг, а также при изменении цены CAKE и токена вознаграждения.
 
-|                                                       | **Calculation**                   | Amount                                     |
-| ----------------------------------------------------- | --------------------------------- | ------------------------------------------ |
-| Total rewards to distribute (USD value)               |                                   | 300,000 USD                                |
-| Distribution period                                   |                                   | 60 days                                    |
-| Daily distribution                                    | 300,000 / 60 =                    | 5,000 USD daily                            |
-| **Annualised rewards (USD value)**                    | 5,000 \* 365 =                    | **1,825,000 USD**                          |
-| **Value of CAKE staked by users in pool (USD value)** |                                   | **3,000,000 USD**                          |
-| **APR**                                               | (1,825,000 / 3,000,000) \* 100 =  | <p></p><p><strong>60.833% APR</strong></p> |
+|                                                             | **Расчёт**                        | Сумма                                      |
+| ----------------------------------------------------------- | --------------------------------- | ------------------------------------------ |
+| Всего наград для распределения (USD)                        |                                   | 300 000 USD                                |
+| Период распределения                                        |                                   | 60 дней                                    |
+| Ежедневное распределение                                    | 300 000 / 60 =                    | 5 000 USD в день                           |
+| **Годовые награды (USD)**                                   | 5 000 \* 365 =                    | **1 825 000 USD**                          |
+| **Стоимость CAKE в стейкинге пользователей в пуле (USD)**  |                                   | **3 000 000 USD**                          |
+| **APR**                                                     | (1 825 000 / 3 000 000) \* 100 =  | <p></p><p><strong>60,833% APR</strong></p> |
 
-### **What does the “End” number on my Syrup Pool refer to?**
+### **Что означает число «End» в моём Syrup Pool?**
 
-This shows the amount of blocks left until the rewards for that pool stop being distributed. Once the pool has reached that block, you should unstake your tokens, because you won’t be receiving any rewards after that.
+Это показывает количество блоков, оставшихся до прекращения распределения наград для этого пула. После достижения этого блока следует вывести токены из стейкинга, так как после этого ты не будешь получать награды.
 
-### **Where do the rewards from Syrup Pools come from?**
+### **Откуда берутся награды Syrup Pools?**
 
-There are three main types of Syrup Pools.
+Существует три основных типа Syrup Pools.
 
-1. Stake CAKE, earn CAKE
-2. Stake CAKE, earn other tokens.&#x20;
-3. Stake other tokens, earn CAKE
+1. Стейкинг CAKE, заработок CAKE
+2. Стейкинг CAKE, заработок других токенов.
+3. Стейкинг других токенов, заработок CAKE
 
-The rewards for the "Stake CAKE, earn CAKE" Syrup Pools come from the [CAKE emissions](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics). Each block, a number of CAKE tokens are allocated as rewards for these pools.
+Награды для Syrup Pools «Стейкинг CAKE, Заработок CAKE» поступают из [эмиссий CAKE](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics). С каждым блоком определённое количество токенов CAKE выделяется в качестве наград для этих пулов.
 
-The rewards for the "Stake CAKE, earn other tokens" type are provided by the project teams who sponsor a Syrup Pool.
+Награды для типа «Стейкинг CAKE, Заработок других токенов» предоставляются командами проектов, спонсирующих Syrup Pool.
 
-For the "Stake other tokens, earn CAKE" type, the PancakeSwap treasury buys back CAKE from the market to distribute as rewards. These pools are funded by PancakeSwap, not by the projects themselves.
+Для типа «Стейкинг других токенов, Заработок CAKE» казначейство PancakeSwap выкупает CAKE с рынка для распределения в качестве наград. Эти пулы финансируются PancakeSwap, а не самими проектами.
 
-### What’s SYRUP Token?
+### Что такое токен SYRUP?
 
-PancakeSwap’s SYRUP Token is deposited in your wallet when you interact with the **Manual** “Stake CAKE, Earn CAKE” Syrup Pool. It's not staked for&#x20;
+Токен SYRUP от PancakeSwap зачисляется в твой кошелёк при взаимодействии с **ручным** Syrup Pool «Стейкинг CAKE, Заработок CAKE». Он не находится в стейкинге
 
-It’s basically an IOU that shows how much CAKE you’ve staked in the pool.
+По сути, это долговая расписка (IOU), показывающая, сколько CAKE ты разместил в пуле.
 
-It’ll be returned automatically when you unstake your CAKE from that pool.
+Он автоматически вернётся при выводе CAKE из этого пула.
 
 {% hint style="warning" %}
-Don’t sell your SYRUP tokens! You need to return your SYRUP to unstake your CAKE from the Manual CAKE pool. The amount of SYRUP you return must be the same as the amount of CAKE you unstake.
+Не продавай токены SYRUP! Их нужно вернуть, чтобы вывести CAKE из ручного пула CAKE. Количество возвращаемых SYRUP должно равняться количеству выводимых CAKE.
 {% endhint %}

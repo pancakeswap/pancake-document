@@ -1,250 +1,250 @@
-# Swap FAQ
+# FAQ по Обмену
 
-## Swap
+## Обмен
 
-### What’s new in Exchange V3?
+### Что нового в Exchange V3?
 
-* Concentrated liquidity - liquidity will be concentrated on the most actively traded price range, which means:
-  * Lower trading slippage for traders
-  * Potentially more LP fee rewards for liquidity providers
-* A flexible trading fee structure - Liquidity providers can choose between multiple trading fee tiers when creating liquidity pairs or providing liquidity
-* Customisable price range - Liquidity providers can also choose what price ranges they want to provide liquidity to
-* Non-fungible liquidity positions - Each liquidity position will have its own unique ID corresponding to its configurations (such as price range). Therefore, you will be able to create and maintain multiple positions with the same trading pair but with different configurations and liquidity amount
-* Backwards compatible - v3 Exchange will also utilise the legacy v2 and stable swap liquidity pairs to always provide the best trading route
-* Built-in limit order - Pro users can utilise the new customisable price range in liquidity provisioning to effectively create a limit order which will convert all the tokens to the desired one when the price hits the target
+* Концентрированная ликвидность — ликвидность будет сосредоточена на наиболее активно торгуемом ценовом диапазоне, что означает:
+  * Меньшее проскальзывание при торговле для трейдеров
+  * Потенциально более высокие вознаграждения LP за комиссии для поставщиков ликвидности
+* Гибкая структура торговых комиссий — поставщики ликвидности могут выбирать между несколькими уровнями торговых комиссий при создании пар ликвидности или предоставлении ликвидности
+* Настраиваемый ценовой диапазон — поставщики ликвидности также могут выбирать, для каких ценовых диапазонов предоставлять ликвидность
+* Невзаимозаменяемые позиции ликвидности — каждая позиция ликвидности будет иметь свой уникальный идентификатор, соответствующий её конфигурации (например, ценовому диапазону). Таким образом, можно создавать и поддерживать несколько позиций по одной торговой паре, но с разными конфигурациями и суммой ликвидности
+* Обратная совместимость — Exchange v3 также будет использовать устаревшие пары ликвидности v2 и stable swap для обеспечения наилучшего торгового маршрута
+* Встроенный лимитный ордер — профессиональные пользователи могут использовать новый настраиваемый ценовой диапазон при предоставлении ликвидности для эффективного создания лимитного ордера, который конвертирует все токены в желаемый при достижении целевой цены
 
 
 
-### Can I add my own tokens to Exchange V3?
+### Можно ли добавлять собственные токены в Exchange V3?
 
-Everyone can create liquidity pools by depositing liquidity on V3.
+Любой может создавать пулы ликвидности, внося ликвидность в V3.
 
-However, the following tokens are currently **NOT** supported:
+Однако следующие токены в настоящее время **НЕ** поддерживаются:
 
-* Fee-on-transfer tokens
-* Rebase tokens
+* Токены с комиссией за перевод
+* Rebasing-токены
 
-For these token, please do **NOT** add liquidity on Exchange V3. Your assets may stuck in the liquidity position.
+Для этих токенов, пожалуйста, **НЕ** добавляй ликвидность в Exchange V3. Твои активы могут застрять в позиции ликвидности.
 
 
 
-### **How come my transaction won't go through?**
+### **Почему моя транзакция не проходит?**
 
-PancakeSwap is a DeFi application such that it interacts with the wallet to complete on-chain transactions for swapping, creating LPs, staking in farms and pools, etc.
+PancakeSwap — это приложение DeFi, которое взаимодействует с кошельком для выполнения ончейн-транзакций обмена, создания LP, стейкинга на фермах и в пулах и т.д.
 
-**Gas Fees**
+**Комиссии за газ**
 
-As such, the first thing is to **make sure you have enough BNB to pay for the gas fee** of the on-chain transactions. Typically, gas fee fluctuates depending on the number of transactions in the queue, if there are more transactions, a higher gas fee may be required to push through the transaction. On BNB Smart Chain, the gas fee typically ranges from cents to a dollar USD in BNB. Learn more about [gas fee here](https://academy.binance.com/en/glossary/gas).
+Поэтому первое, что нужно сделать — **убедиться, что у тебя достаточно BNB для оплаты комиссий за газ** для ончейн-транзакций. Как правило, комиссия за газ колеблется в зависимости от количества транзакций в очереди: чем больше транзакций, тем выше комиссия, необходимая для прохождения транзакции. На BNB Smart Chain комиссия за газ обычно составляет от нескольких центов до одного доллара США в BNB. Подробнее о [комиссиях за газ здесь](https://academy.binance.com/en/glossary/gas).
 
-**Transaction Fees**
+**Комиссии за транзакцию**
 
-If your swapping action still doesn't go through and it is displaying an error for you to revise the slippage -- you may want to check if the tokens you are trying to swap has **any fees and restrictions on transactions**.
+Если твои действия по обмену всё ещё не проходят и отображается ошибка с предложением пересмотреть проскальзывание — возможно, стоит проверить, есть ли у токенов, которые ты пытаешься обменять, **какие-либо комиссии и ограничения на транзакции**.
 
-It is not uncommon for tokens on BNB Smart Chain to include a **transaction fee** in their contracts, usually these fees could be used for burning, funding a treasury of a fair launch project -- for example, this [APX token has an 1% tax on every transaction](https://apollox-finance.gitbook.io/apollox-finance/apx-token/tax) for sending to a burn address, such that more transactions would mean more burning, accruing value to APX token holders.
+Нередко токены на BNB Smart Chain включают **комиссию за транзакцию** в своих контрактах. Обычно эти комиссии могут использоваться для сжигания, пополнения казначейства проектов с честным запуском — например, [этот токен APX имеет 1% налог на каждую транзакцию](https://apollox-finance.gitbook.io/apollox-finance/apx-token/tax) для отправки на адрес сжигания, чтобы больше транзакций означало больше сжигания, повышая ценность для держателей токена APX.
 
-With the transaction fee, whether it is inclusive (a portion of the swap amount is sent elsewhere than your address so the output is less than expected for the estimated input) or exclusive (requiring an additional transfer from your address to send extra tokens so the input is more than expected for the estimated output), it affects the input and output amount that you agree for signing the transaction. In many cases, the transaction cannot meet the input and output requirements because of the tax.
+С комиссией за транзакцию, будь она инклюзивной (часть суммы обмена отправляется не на твой адрес, поэтому выход меньше ожидаемого для расчётного ввода) или эксклюзивной (требуется дополнительный перевод с твоего адреса для отправки дополнительных токенов, поэтому ввод больше ожидаемого для расчётного вывода), это влияет на суммы ввода и вывода, с которыми ты соглашаешься при подписании транзакции. Во многих случаях транзакция не может выполнить требования к вводу и выводу из-за налога.
 
-**Swapping with Transaction Fees**
+**Обмен с комиссиями за транзакцию**
 
-Before you swap any tokens, make sure you have visited their website to understand if they have a transaction fee mechanism (or _tax_ as many projects put it). If there is, make sure you set a slippage that is sufficient to accommodate the transaction fee -- e.g. if there is a transaction fee of 5%, your slippage will have to be set at least 5% plus the normal trading slippage depending on your trading amount and the token's liquidity, say 5.5%-6%.
+Прежде чем обменивать токены, убедись, что ты посетил их сайт, чтобы понять, есть ли у них механизм комиссии за транзакцию (или _налог_, как называют это многие проекты). Если есть, убедись, что ты устанавливаешь проскальзывание, достаточное для учёта комиссии за транзакцию — например, если комиссия за транзакцию составляет 5%, твоё проскальзывание должно быть не менее 5% плюс обычное проскальзывание в зависимости от суммы торговли и ликвидности токена, скажем, 5,5–6%.
 
-In some extreme cases including some scams, some tokens even have a block on most or all transfers on chain, or only allowing certain addresses to sell, in such case it is impossible to swap the token successfully. Do learn about the token you are trying to swap and be aware of any fees and restrictions!
+В некоторых крайних случаях, включая некоторые мошенничества, некоторые токены даже имеют блокировку на большинстве или всех переводах в сети, или разрешают продажу только определённым адресам — в этом случае невозможно успешно обменять токен. Изучай токен, который пытаешься обменять, и помни о возможных комиссиях и ограничениях!
 
 
 
-### Does the new Swap interface use v2 or stable swap liquidity?
+### Использует ли новый интерфейс Обмена ликвидность v2 или stable swap?
 
-Yes. The new Swap v3 uses liquidity from PancakeSwap v3, v2 and stable swap to get the best trading route.
+Да. Новый Обмен v3 использует ликвидность из PancakeSwap v3, v2 и stable swap для получения наилучшего торгового маршрута.
 
 
 
-### What is split routing?
+### Что такое разделённая маршрутизация?
 
-In Swap v3, your trade might be broken into multiple routes to execute your trade with the best rate.
+В Обмене v3 твоя сделка может быть разбита на несколько маршрутов для исполнения с наилучшим курсом.
 
-To view more detail of how your trade is routed, tap the “v” button on the “Route” section to expand and view the details.
+Для просмотра подробностей маршрутизации твоей сделки нажми кнопку «v» в разделе «Route» для развёртывания и просмотра деталей.
 
-Learn more in [here](../pancakeswap-exchange/fees-and-routes.md#customize-routing-preferences).
+Подробнее [здесь](../pancakeswap-exchange/fees-and-routes.md#customize-routing-preferences).
 
 
 
-### How to customise or disable certain liquidity sources?
+### Как настроить или отключить определённые источники ликвидности?
 
-The new Swap v3 uses liquidity from PancakeSwap v3, v2 and stable swap to get the best trading route. However, you can customize or disable certain liquidity sources if you do not want your trade to route through them.
+Новый Обмен v3 использует ликвидность из PancakeSwap v3, v2 и stable swap для получения наилучшего торгового маршрута. Однако ты можешь настроить или отключить определённые источники ликвидности, если не хочешь, чтобы твоя сделка проходила через них.
 
-When viewing a trading route, click the “Customize Routing” button. Or click the cog ⚙️ button on the top right hand corner of the Swap interface and choose “Customize Routing”.
+При просмотре торгового маршрута нажми кнопку «Customize Routing». Или нажми кнопку шестерёнки ⚙️ в правом верхнем углу интерфейса Обмена и выбери «Customize Routing».
 
-Within the “Customize Routing” pop up, you are able to choose which liquidity source you want to utilise. Or disable multihops completely.
+Во всплывающем окне «Customize Routing» ты можешь выбрать источники ликвидности для использования. Или полностью отключить мультихопы.
 
-Note: disabling multihops could lead to increased slippage or worse trading rate on specific trading pairs. Proceed with caution.
+Примечание: отключение мультихопов может привести к увеличению проскальзывания или ухудшению торгового курса для определённых торговых пар. Действуй осторожно.
 
-Learn more in [here](../pancakeswap-exchange/fees-and-routes.md#customize-liquidity-sources).
+Подробнее [здесь](../pancakeswap-exchange/fees-and-routes.md#customize-liquidity-sources).
 
 
 
-## Liquidity
+## Ликвидность
 
-### What are fee tiers and how to pick the correct one?
+### Что такое уровни комиссий и как выбрать правильный?
 
-In Exchange v3, when you are providing liquidity, you can choose between several different trading fees (0.01%, 0.05%, 0.25%, and 1%) for the same token pair.
+В Exchange v3 при предоставлении ликвидности ты можешь выбирать между несколькими торговыми комиссиями (0,01%, 0,05%, 0,25% и 1%) для одной и той же пары токенов.
 
-For example, for CAKE-BNB, there might be a 0.25% pair, which means a 0.25% trading fee is in place for every trade. However, some liquidity providers might choose to provide liquidity to a CAKE-BNB trading pair with a 0.05% fee rate, offers a better quote and attract more trading volume.
+Например, для CAKE-BNB может существовать пара с комиссией 0,25%, что означает торговую комиссию 0,25% для каждой сделки. Однако некоторые поставщики ликвидности могут выбрать предоставление ликвидности в торговую пару CAKE-BNB со ставкой комиссии 0,05%, предлагая более выгодную котировку и привлекая больший объём торгов.
 
-There is no “correct” answer for which trading fee configuration to choose. It depends on the tokens within the trading pair. Usually, volatile tokens should have a higher trading fee to better compensate for the impermanent loss brought by the volatility. On the other hand, tokens like stable coins have smaller price movements and lower impermanent losses, therefore their trading fee should be lower.
+Не существует «правильного» ответа на вопрос, какую конфигурацию торговой комиссии выбрать. Это зависит от токенов в торговой паре. Как правило, волатильные токены должны иметь более высокую торговую комиссию, чтобы лучше компенсировать непостоянный убыток от волатильности. С другой стороны, такие токены, как стейблкоины, имеют меньшие ценовые движения и меньшие непостоянные убытки, поэтому их торговая комиссия должна быть ниже.
 
-When selecting a token pair, the “Add Liquidity” interface will automatically choose the most popular fee tier for you.
+При выборе пары токенов интерфейс «Add Liquidity» автоматически выберет наиболее популярный уровень комиссии.
 
 
 
-### Why two of my deposit tokens are not equal in USD value?
+### Почему два моих депозитных токена не равны по стоимости в USD?
 
-In Exchange V3, underlying assets in a liquidity position will not always have an equal value in USD. It will depend on the price range settings of a position and the current price of the pair.
+В Exchange V3 базовые активы в позиции ликвидности не всегда будут иметь равную стоимость в USD. Это будет зависеть от настроек ценового диапазона позиции и текущей цены пары.
 
-In fact. If your position goes out of range, all tokens will be converted to one single asset. Plus, you can provide liquidity to a price range that does not cover the current price and deposit one single asset only. Continue reading to learn more ⬇️
+Фактически, если твоя позиция выходит за пределы диапазона, все токены будут конвертированы в один актив. Плюс ты можешь предоставлять ликвидность в ценовой диапазон, не охватывающий текущую цену, и вносить только один актив. Продолжай читать, чтобы узнать больше ⬇️
 
 
 
-### What happens if my liquidity position goes out of range?
+### Что произойдёт, если моя позиция ликвидности выйдет за пределы диапазона?
 
-You will not earn any trading fee rewards if the current price goes out of the price range defined in your position.
+Ты не будешь получать вознаграждения за торговые комиссии, если текущая цена выходит за пределы ценового диапазона, указанного в твоей позиции.
 
-On top of that, all tokens will be converted to one single asset depending on the direction of the price condition.
+Помимо этого, все токены будут конвертированы в один актив в зависимости от направления движения цены.
 
-For example, if a position of CAKE/BUSD is configured with a price range of 3 BUSD per CAKE to 5 BUSD per CAKE. And all assets in the position will be converted to BUSD if the CAKE price is higher or equal to 5 BUSD per CAKE, and vice versa.
+Например, если позиция CAKE/BUSD настроена с ценовым диапазоном от 3 BUSD за CAKE до 5 BUSD за CAKE, то все активы в позиции будут конвертированы в BUSD, если цена CAKE равна или выше 5 BUSD за CAKE, и наоборот.
 
-Please not that if the price moves back in the range, you will start receiving trading fee rewards again. No additional actions are required.
+Обрати внимание, что если цена вернётся в диапазон, ты снова начнёшь получать вознаграждения за торговые комиссии. Никаких дополнительных действий не требуется.
 
 
 
-### Is it better to always provide liquidity with a smaller range?
+### Всегда ли лучше предоставлять ликвидность с меньшим диапазоном?
 
-Providing liquidity to a smaller price range will help concentrate your liquidity to a spesific price range, boosting your relative shares again the total liquidity within the price range, potentially earning more trading fee rewards.
+Предоставление ликвидности в более узкий ценовой диапазон поможет сконцентрировать ликвидность на определённом ценовом диапазоне, увеличивая относительную долю по сравнению с общей ликвидностью в этом ценовом диапазоне и потенциально получая больше вознаграждений за торговые комиссии.
 
-However, please bear in mind that only active liquidity positions will earn trading fee rewards from trades. This means you will only earn rewards when the current trading price is within the price range defined in the liquidity position.
+Однако помни, что только активные позиции ликвидности будут получать вознаграждения за торговые комиссии. Это означает, что ты будешь получать вознаграждения только тогда, когда текущая торговая цена находится в ценовом диапазоне, указанном в позиции ликвидности.
 
 
 
-### Are there any ways to automatically adjust my position so it is always in range and earning fee rewards?
+### Есть ли способы автоматически корректировать позицию, чтобы она всегда была в диапазоне и приносила вознаграждения?
 
-PancakeSwap v3 supports one-click liquidity depositing via Zap, available on BNB Chain and Ethereum.
+PancakeSwap v3 поддерживает внесение ликвидности в один клик через Zap, доступный на BNB Chain и Ethereum.
 
 
 
-### What will be the trading fee breakdown for v3 Exchange?
+### Каким будет распределение торговых комиссий для Exchange v3?
 
-|                    | 0.01% | 0.05% | 0.25% | 1%  |
+|                    | 0,01% | 0,05% | 0,25% | 1%  |
 | ------------------ | ----- | ----- | ----- | --- |
-| Liquidity Provider | 67%   | 66%   | 68%   | 68% |
-| CAKE Burn          | 15%   | 15%   | 23%   | 23% |
-| Treasury           | 18%   | 19%   | 9%    | 9%  |
+| Поставщик ликвидности | 67%   | 66%   | 68%   | 68% |
+| Сжигание CAKE      | 15%   | 15%   | 23%   | 23% |
+| Казначейство       | 18%   | 19%   | 9%    | 9%  |
 
-### Are LP fee rewards automatically compounded like Exchange v2?
+### Автоматически ли компаундируются вознаграждения за комиссии LP, как в Exchange v2?
 
-No.
+Нет.
 
-In Exchange v3 you will need to claim trading fee rewards manually. You may do that on the position detail page. You may find all your v3 liquidity positions on the liquidity page.
-
-
-
-### What affects LP APR?
-
-In Exchange v3, LP fee reward APR could vary between liquidity positions. It is based on the following factors:
-
-* Trading volume\
-  \- more volume generates more fee rewards
-* Liquidity pair fee tier\
-  \- higher fee tier generates more fee rewards from individual trades
-* The number of tokens deposited\
-  \- more token in the position translates to a larger relative share against the total active liquidity, which gets more trading fee rewards from trades
-* The selected price range\
-  \- smaller price range allows a higher concentration for the same amount of token deposited, which translates to a larger relative share against the total active liquidity, and gets more trading fee rewards from trades
-* The amount of liquidity currently active\
-  \- if there are more users who deposit and concentrate their liquidity with the same range as you, you will earn less trading fee due to a smaller relative share against the total
-* Whether the liquidity position is active\
-  \- only active liquidity positions will earn trading fee rewards
+В Exchange v3 нужно вручную получать вознаграждения за торговые комиссии. Это можно сделать на странице деталей позиции. Все свои позиции ликвидности v3 можно найти на странице ликвидности.
 
 
 
-### Can I provide v2 liquidity?
+### Что влияет на APR LP?
 
-Providing v2 liquidity is no longer advisable. We recommend using v3 liquidity to take advantage of the new features to improve efficiency.
+В Exchange v3 APR вознаграждений за комиссии LP может варьироваться между позициями ликвидности. Он основан на следующих факторах:
 
-If you want to proceed with adding v2 liquidity:
+* Объём торгов\
+  \- больший объём генерирует больше вознаграждений за комиссии
+* Уровень комиссий торговой пары\
+  \- более высокий уровень комиссий генерирует больше вознаграждений за комиссии от отдельных сделок
+* Количество внесённых токенов\
+  \- больше токенов в позиции означает большую относительную долю по сравнению с общей активной ликвидностью, что даёт больше вознаграждений за торговые комиссии
+* Выбранный ценовой диапазон\
+  \- более узкий ценовой диапазон позволяет более высокую концентрацию для одного и того же количества внесённых токенов, что переводится в большую относительную долю по сравнению с общей активной ликвидностью и приносит больше вознаграждений
+* Количество активной ликвидности в настоящее время\
+  \- если больше пользователей вносят и концентрируют ликвидность в том же диапазоне, что и ты, ты будешь получать меньше торговых комиссий из-за меньшей относительной доли
+* Является ли позиция ликвидности активной\
+  \- только активные позиции ликвидности будут получать вознаграждения за торговые комиссии
 
-* If the token pair does not have a v3 pool, or it has more liquidity in v2 than the largest pool in v3. A “Add V2 Liquidity” will appear. Simply click to switch to adding v2 liquidity
-* Alternatively, use `/v2` in the URL to always use v2 liquidity provisioning
+
+
+### Могу ли я предоставлять ликвидность v2?
+
+Предоставление ликвидности v2 больше не рекомендуется. Рекомендуем использовать ликвидность v3 для использования преимуществ новых функций и повышения эффективности.
+
+Если хочешь продолжить добавление ликвидности v2:
+
+* Если для пары токенов нет пула v3, или в v2 больше ликвидности, чем в крупнейшем пуле v3 — появится кнопка «Add V2 Liquidity». Просто нажми, чтобы переключиться на добавление ликвидности v2.
+* Как вариант, используй `/v2` в URL, чтобы всегда использовать предоставление ликвидности v2.
 
 
 
-### Why can’t I add liquidity to a pair I just created?
+### Почему я не могу добавить ликвидность в только что созданную пару?
 
-Due to a bug from the legacy Exchange V2 (present in every UniSwap V2 forks), you will not be able to add liquidity to a pair using the normal PancakeSwap liquidity UI and its contract calls if a pair is:
+Из-за ошибки в устаревшем Exchange V2 (присутствующей в каждом форке UniSwap V2), невозможно добавить ликвидность в пару с использованием обычного интерфейса ликвидности PancakeSwap и его вызовов контракта, если пара:
 
-* Created by calling `createPair` on FactoryV2 without depositing initial liquidity and minting the initial LP tokens
-* Then, one of the tokens in the pair has been manually transferred into the pool contract while calling `sync`
+* Создана путём вызова `createPair` на FactoryV2 без внесения начальной ликвидности и чеканки начальных LP-токенов
+* Затем один из токенов в паре был вручную переведён в контракт пула при вызове `sync`
 
 {% hint style="info" %}
-Recently, an increase amount of such attacks were spotted on PancakeSwap Exchange V2 on BNB Chain.&#x20;
+Недавно было замечено увеличение числа подобных атак на Exchange V2 PancakeSwap на BNB Chain.
 
-We strongly recommend using our UI to create the trading pair for your token by adding the initial liquidity with the pair creation.
+Настоятельно рекомендуем использовать наш интерфейс для создания торговой пары для твоего токена, добавив начальную ликвидность при создании пары.
 {% endhint %}
 
-While Chefs are working hard on a solution to resolve this issue, here is a step-by-step guide to resolve this using BscScan:
+Пока Чефы усердно работают над решением этой проблемы, вот пошаговое руководство по устранению проблемы с помощью BscScan:
 
-#### Locate the pool address and its BscScan page
+#### Найди адрес пула и его страницу в BscScan
 
 <div align="left"><figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/cannot%20add%20v2%20liquidity-error%20pump.jpg" alt="" width="280"><figcaption></figcaption></figure></div>
 
-If your pair is affected, you will see the link to the BscScan page for the trading pair/pool in the error prompt.
+Если твоя пара затронута, ты увидишь ссылку на страницу BscScan для торговой пары/пула в сообщении об ошибке.
 
-Alternatively, you can head to Factory V2 ([Bsc](https://bscscan.com/address/0xca143ce32fe78f1f7019d7d551a6402fc5350c73#readContract)), go to “Read Contract”, “6. getPair”, enter the address of the two tokens in your trading pair, and click “Query”. You should see the pair address in the return field.
+Как вариант, можно перейти на Factory V2 ([Bsc](https://bscscan.com/address/0xca143ce32fe78f1f7019d7d551a6402fc5350c73#readContract)), перейти к «Read Contract», «6. getPair», ввести адреса двух токенов в твоей торговой паре и нажать «Query». Адрес пары должен отображаться в поле возврата.
 
-#### Check which token has been deposited and transfer the other token into the pair manually
+#### Проверь, какой токен был внесён, и переведи другой токен в пару вручную
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28335%29.png)
 
-From the token balance field on BscScan, you can check which token has been deposited into the pool. Usually, it should be the paired token. (Like WBNB, USDT, etc…)
+По полю баланса токена в BscScan можно проверить, какой токен был внесён в пул. Как правило, это должен быть парный токен (например, WBNB, USDT и т.д.)
 
-Once confirmed, you must manually transfer the other asset into the pool contract. You may do that in the wallet app you prefer by entering the pool address as the receiver.
+После подтверждения необходимо вручную перевести другой актив в контракт пула. Это можно сделать в предпочтительном кошельке, введя адрес пула в качестве получателя.
 
-You can transfer any amount but since this is effectively “donating” assets to a pool. You will be transfering your assets into a liquidity without minting liquidity tokens. So we recommend keeping this amount minimal.
+Можно перевести любую сумму, но поскольку это фактически «дарение» активов в пул, ты будешь переводить свои активы в ликвидность без чеканки токенов ликвидности. Поэтому рекомендуем держать эту сумму минимальной.
 
 {% hint style="warning" %}
-IMPORTANT: Once you’ve transferred the token, you must call `sync()`immediately on the pool.
+ВАЖНО: после перевода токена необходимо немедленно вызвать `sync()` в пуле.
 {% endhint %}
 
-You can do so by heading to the BscScan page for the trading pair, going to “Write Contract”, “8. Sync”, and clicking the “Write” button. You will need to connect your wallet before performing the transaction.
+Это можно сделать, перейдя на страницу BscScan для торговой пары, нажав «Write Contract», «8. Sync» и нажав кнопку «Write». Перед выполнением транзакции нужно подключить кошелёк.
 
-Once the transaction is confirmed, you can add the subsequent liquidity on PancakeSwap UI.
+После подтверждения транзакции можно добавить последующую ликвидность через интерфейс PancakeSwap.
 
-#### What if I want to define the launch price?
+#### Что если я хочу задать цену запуска?
 
-You must adjust the pool to the launch price while transferring the token and fixing the pool.
+Необходимо скорректировать пул до цены запуска при переводе токена и исправлении пула.
 
-The amount to transfer can be calculated using:
+Сумму для перевода можно рассчитать с помощью:
 
-* `tokenInside`: the token that is already transferred into the pool. Usually it should be the paired token. (Like WBNB, USDT, etc…)
-* `tokenToSend`: the token that is about to be sent to the pool. Usually it should be your project token
-* `tokenInside.price`: the USD price of tokenInside
-* `tokenToSend.price`: the USD price of tokenToSend (the launch price)
-* `pool`: the V2 pool
+* `tokenInside`: токен, уже переведённый в пул. Как правило, это должен быть парный токен (например, WBNB, USDT и т.д.)
+* `tokenToSend`: токен, который нужно отправить в пул. Как правило, это должен быть токен твоего проекта.
+* `tokenInside.price`: цена tokenInside в USD
+* `tokenToSend.price`: цена tokenToSend в USD (цена запуска)
+* `pool`: пул V2
 
-With the following formula:
+По следующей формуле:
 
 `amountToSend = tokenInside.balanceOf(pool) / tokenInside.decimal() * tokenInside.price / tokenToSend.price * tokenToSend.decimal()`
 
-If the result is smaller than 0 (usually happens when the launch price is very large. You may need to first deposit more `tokenInside` into the pool)
+Если результат меньше 0 (обычно происходит, когда цена запуска очень высока), возможно, сначала нужно внести больше `tokenInside` в пул.
 
 
 
-### How to manage stable LP, and legacy v2 LP?
+### Как управлять stable LP и устаревшим v2 LP?
 
-You can manage them as usual by going to the [Liquidity](https://pancakeswap.finance/liquidity) page.
+Ими можно управлять как обычно, перейдя на страницу [Ликвидности](https://pancakeswap.finance/liquidity).
 
 
 
-### Why do I need to reset approval on USDT before enabling/approving?
+### Почему мне нужно сбросить разрешение USDT перед включением/подтверждением?
 
-When operating on the Ethereum mainnet, the USDT token follows a different logic for managing approvals and token allowance.&#x20;
+При работе в основной сети Ethereum токен USDT следует другой логике для управления разрешениями и допустимым количеством токенов.&#x20;
 
-Therefore, when spending allowances are too low. It requires you to reset the approval before setting a new one.
+Поэтому при слишком низком разрешении на расходование необходимо сбросить разрешение перед установкой нового.

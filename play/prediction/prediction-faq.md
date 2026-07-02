@@ -1,33 +1,33 @@
-# Prediction FAQ
+# FAQ по Прогнозу
 
 {% hint style="info" %}
-Use the sidebar to quickly find the answers to your questions!
+Используй боковую панель для быстрого поиска ответов на свои вопросы!
 {% endhint %}
 
-## A) General Questions
+## A) Общие вопросы
 
-### **1. What are the fees?**
+### **1. Какие комиссии?**
 
-3% of each round's total pot will go to the treasury, of which 100% will be used to buyback and burn CAKE.
+3% от общего банка каждого раунда поступает в казну, из которых 100% используется для выкупа и сжигания CAKE.
 
-### 2. How is the payout calculated?
+### 2. Как рассчитывается выплата?
 
-* Payout Ratio for UP Pool = Total Value of Both Pools ÷ Value of UP Pool
-* Payout Ratio for DOWN Pool = Total Value of Both Pools ÷ Value of DOWN Pool
+* Коэффициент выплаты для пула UP = Общая стоимость обоих пулов ÷ Стоимость пула UP
+* Коэффициент выплаты для пула DOWN = Общая стоимость обоих пулов ÷ Стоимость пула DOWN
 
-**Example - Bet 2 BNB "DOWN", outcome = "DOWN":**
+**Пример — ставка 2 BNB на «DOWN», результат = «DOWN»:**
 
-* DOWN side = 15 BNB, total prize pool = 150 BNB&#x20;
-* DOWN payout ratio = 150 BNB / 15 BNB = 10x
-* Payout Amount = Payout Ratio × Position × (1 - Treasury Fee)
-  * If you bet 2 BNB on DOWN, payout = (2 × 10) × (1 − 0.03) = 19.4 BNB
-* Profit = 19.4 − 2 = 17.4 BNB
+* Сторона DOWN = 15 BNB, общий призовой фонд = 150 BNB&#x20;
+* Коэффициент выплаты DOWN = 150 BNB / 15 BNB = 10x
+* Сумма выплаты = Коэффициент выплаты × Позиция × (1 - Комиссия казны)
+  * Если поставил 2 BNB на DOWN, выплата = (2 × 10) × (1 − 0.03) = 19.4 BNB
+* Прибыль = 19.4 − 2 = 17.4 BNB
 
-### 3. Is there a time limit before I can collect my winnings?
+### 3. Есть ли ограничение по времени для получения выигрыша?
 
-No, you’ll be able to collect your winnings at any time in the future.
+Нет, ты сможешь забрать выигрыш в любое время.
 
-### 4. What’s the PancakeSwap Prediction contract address?
+### 4. Каков адрес контракта PancakeSwap Прогноз?
 
 **BNB Chain**
 
@@ -37,149 +37,148 @@ No, you’ll be able to collect your winnings at any time in the future.
 
 
 
-## B) Positions & Results
+## B) Позиции и результаты
 
-### 1. **Can I change or remove my position?**
+### 1. **Могу ли я изменить или отозвать свою позицию?**
 
-No. Once you enter a position, you can NOT change the direction, add to, or remove your position. It's locked in, so make sure you're 100% happy with your position direction before confirming. &#x20;
+Нет. После размещения позиции ты НЕ МОЖЕШЬ изменить направление, добавить к ней или отозвать её. Позиция зафиксирована — убедись, что полностью доволен выбором направления, прежде чем подтверждать.&#x20;
 
-### 2. When will markets be cancelled? What happens then?
+### 2. При каких условиях рынки приостанавливаются? Что происходит в таком случае?
 
-* **When:** Oracle or backend service failure, or other extraneous circumstances.
-* **Outcome:** Users can claim 100% of their original bet amount (no fee).
+* **Когда:** сбой оракула или внутреннего сервиса, либо другие непредвиденные обстоятельства.
+* **Результат:** пользователи могут вернуть 100% начальной суммы ставки (без комиссии).
 
-### 3. The round's result changed after the round ended! Why?
+### 3. Результат раунда изменился после его завершения! Почему?
 
-Sometimes, after a round closes, the final result may be different from the last result shown while the round was live. If you watch a round end on "DOWN", it may appear to flip to "UP" a few seconds later.
+Иногда после закрытия раунда итоговый результат может отличаться от последнего показанного во время активного раунда. Если ты видел завершение раунда на «DOWN», через несколько секунд он может переключиться на «UP».
 
-This is because we use the Oracle price feed to determine the final outcome of a round. The period between the end of one round and the start of the next is 30 seconds, but the Oracle refreshes every 20 seconds. It's possible that during this short period, the Oracle might send an update while the transaction to trigger the next round is being minted. This can appear to "flip" the outcome of the previous round.
+Это происходит потому, что для определения итогового результата раунда мы используем ценовой поток оракула. Период между окончанием одного раунда и началом следующего составляет 30 секунд, но оракул обновляется каждые 20 секунд. Возможно, в этот короткий промежуток оракул отправит обновление, пока транзакция запуска следующего раунда ещё обрабатывается. Это может создать эффект «переключения» результата предыдущего раунда.
 
-### 4. What is Locked Price & Closed Price?
+### 4. Что такое Цена фиксации и Цена закрытия?
 
-* **Locked Price:** Price at the start of the LIVE phase.
-* **Closed Price:** Price at the end of the round, used to determine winners.
+* **Цена фиксации:** цена в начале фазы LIVE.
+* **Цена закрытия:** цена в конце раунда, используемая для определения победителей.
 
-**Example – Round 400 (BNB Prediction):**
+**Пример — Раунд 400 (Прогноз BNB):**
 
-1. **12:00–12:05:** Place Bet → User bets 0.1 BNB on "UP"
-2. **12:05–12:10:** Lock Phase → Locked Price = $850
-3. **12:10:** Close Phase → Closed Price = $860
-4. **Result: "UP"** bet wins
+1. **12:00–12:05:** Размещение ставки → Пользователь ставит 0.1 BNB на «UP»
+2. **12:05–12:10:** Фаза фиксации → Цена фиксации = $850
+3. **12:10:** Фаза закрытия → Цена закрытия = $860
+4. **Результат: ставка «UP»** выигрывает
 
-**Notes:**
+**Примечания:**
 
-* Oracle price may take up to 20 seconds to update.
-* House win: All bets goes to the House
+* Цена оракула может обновляться с задержкой до 20 секунд.
+* Выигрыш дома: все ставки уходят дому.
 
-### 5. What situations are considered a HOUSE WIN?
+### 5. В каких случаях считается ВЫИГРЫШ ДОМА?
 
-**Scenarios:**
+**Сценарии:**
 
-1. No opposing bets exist and the user loses (e.g., only one user bets UP and outcome = DOWN)
-2. Locked Price = Closed Price
+1. Нет противоположных ставок, и пользователь проигрывает (например, только один пользователь ставит UP, а результат = DOWN)
+2. Цена фиксации = Цена закрытия
 
-**What happens:**
+**Что происходит:**
 
-* PancakeSwap takes 100% of the pool; all funds go to CAKE burn.
-* Users on either side lose their initial bet amount.
+* PancakeSwap забирает 100% пула; все средства идут на сжигание CAKE.
+* Пользователи с обеих сторон теряют начальную сумму ставки.
 
-**Example - No opposing bets:**
+**Пример — Нет противоположных ставок:**
 
-* User A bets UP, no DOWN bets exist, outcome = DOWN → User A loses; 100% of funds go to treasury.
-* User B bets UP, no DOWN bets exist, outcome = UP → User B reclaims 97% of deposit.
-
-
-
-## C) Market Pauses
-
-### 1. What does it mean when markets are paused?
-
-Markets are paused when there are conditions which affect the reliability of the contract. Markets being paused means that no bets will be taking place for any rounds.
-
-### 2. What causes PancakeSwap Prediction market to pause?
-
-The prediction market will pause under the following conditions:
-
-1. The prediction contract has been unable to obtain the price from the ChainLink oracle due to the oracle not having posted the price at the time the round has ended.
-2. The prediction contract has been unable to execute an action (ending a round or getting a price from the oracle) due to the tx being stuck in the mempool for longer than 15 blocks.
-3. PancakeSwap has decided to discontinue prediction for that market / asset.
-
-### 3. What happens to my position if the market pauses?
-
-If the markets pause while you have a live position, your funds will be available to reclaim, the same way as you would normally claim your winnings.
-
-To reclaim funds, you’ll need to pay some gas fees. We can’t compensate you for the gas fees, so please bear this small risk in mind before participating.
-
-### 4. When will the markets resume after being paused?
-
-The markets will resume when an admin (one of the chefs) manually resumes the market.
+* Пользователь A ставит UP, ставок DOWN нет, результат = DOWN → Пользователь A проигрывает; 100% средств уходят в казну.
+* Пользователь B ставит UP, ставок DOWN нет, результат = UP → Пользователь B возвращает 97% депозита.
 
 
 
-## D) Troubleshooting & Claims
+## C) Паузы рынка
 
-### 1. How do I claim past winnings from the CAKEUSD market on BNB Chain?&#x20;
+### 1. Что означает пауза рынков?
 
-* Go to [https://pancakeswap.finance/prediction?token=CAKE\&chain=bsc](https://pancakeswap.finance/prediction?token=CAKE\&chain=bsc)
-* Check the history tab for historical round winnings
+Рынки приостанавливаются при условиях, влияющих на надёжность контракта. Пауза рынков означает, что в течение всех раундов ставки не принимаются.
 
-### 2. Why can’t I see my winnings in my wallet?
+### 2. Что вызывает паузу рынка прогнозов PancakeSwap?
 
-When you collect winnings, they might not appear in your wallet’s transaction logs as usual.\
-This is because they use a different type of transaction: Internal transactions.\
-Enter your wallet address on BscScan, then check the “Internal Txns” tab to confirm that they’ve arrived.\
+Рынок прогнозов приостанавливается в следующих случаях:
+
+1. Контракт прогнозов не смог получить цену от оракула ChainLink, так как оракул не опубликовал цену к моменту завершения раунда.
+2. Контракт прогнозов не смог выполнить действие (завершение раунда или получение цены от оракула), так как транзакция была задержана в мемпуле более чем на 15 блоков.
+3. PancakeSwap принял решение прекратить прогноз для данного рынка / актива.
+
+### 3. Что происходит с моей позицией, если рынок приостанавливается?
+
+Если рынки приостанавливаются, когда у тебя есть активная позиция, твои средства будут доступны для возврата так же, как ты обычно получаешь выигрыш.
+
+Для возврата средств потребуется оплатить газ. Мы не можем компенсировать расходы на газ, поэтому имей в виду этот небольшой риск перед участием.
+
+### 4. Когда рынки возобновятся после паузы?
+
+Рынки возобновятся, когда администратор (один из шеф-поваров) вручную возобновит работу рынка.
+
+
+
+## D) Устранение неполадок и возврат средств
+
+### 1. Как получить прошлые выигрыши с рынка CAKEUSD на BNB Chain?&#x20;
+
+* Перейди по адресу [https://pancakeswap.finance/prediction?token=CAKE\&chain=bsc](https://pancakeswap.finance/prediction?token=CAKE\&chain=bsc)
+* Проверь вкладку истории для выигрышей прошлых раундов
+
+### 2. Почему я не вижу выигрыш в своём кошельке?
+
+При получении выигрыша он может не отображаться в журнале транзакций кошелька как обычно.\
+Это связано с тем, что используется другой тип транзакций: внутренние транзакции.\
+Введи адрес своего кошелька на BscScan, затем проверь вкладку «Internal Txns», чтобы убедиться в их поступлении.\
 ![](https://lh5.googleusercontent.com/9NoIvK-oztyEaizCfgrj-poPIP_uWeFDYsa0_nxN3sKUiIwFdACy_BemrtRLJn-ZkyW3LprfRn4s9lL24BOGb-I-t1vHoh5wkuTx7bObHQl5sS7xPmuZEOTVPUXr7LPNAfPfqr12)
 
-### 3. Why aren't the results of my round showing?
+### 3. Почему результаты моего раунда не отображаются?
 
-There’s a 15 block buffer on each round, which can cause delays of up to 45 seconds after the end of a round.\
-This buffer is to accommodate for the fact that we may not be able to reliably fetch a price and end a round immediately: various blockchain factors affect the speed in which transactions get confirmed on the network.
+После каждого раунда есть буфер в 15 блоков, что может вызвать задержку до 45 секунд.\
+Этот буфер необходим, поскольку мы не всегда можем мгновенно получить цену и завершить раунд: различные факторы блокчейна влияют на скорость подтверждения транзакций в сети.
 
-### 4. I can’t collect my winnings, what should I do?
+### 4. Не могу получить выигрыш, что делать?
 
-Make sure you have enough BNB in your wallet to pay for gas fees. You’ll need a little BNB to trigger the smart contract.
+Убедись, что в кошельке достаточно BNB для оплаты газа. Для вызова смарт-контракта понадобится небольшое количество BNB.
 
-### **5. What if I can't claim winnings from the website?**
+### **5. Что если не получается получить выигрыш через сайт?**
 
-You might be able to claim your winnings directly from the contract. Follow the steps in the 3 tabs below.
+Возможно, ты сможешь получить выигрыш напрямую из контракта. Следуй инструкциям в трёх вкладках ниже.
 
 {% tabs %}
 {% tab title="Check rounds you played" %}
-How to check the history of rounds you played
+Как проверить историю сыгранных раундов
 
-1. Go to BscScan page of the [Prediction contract](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (e.g. BNBUSD).
-2. Scroll down to “8. getUserRounds”.
-3. Type in your wallet address under “user(address)”.
-4. Set “cursor(uint256)" to 0 and “size(uint256)" to 1000.
-5. Tap “Query”
-6. Rounds you entered will show below in the first row. (after “uint256\[]:”)
+1. Перейди на страницу BscScan [контракта Прогноза](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (например, BNBUSD).
+2. Прокрути вниз до «8. getUserRounds».
+3. Введи адрес своего кошелька в поле «user(address)».
+4. Установи «cursor(uint256)» = 0 и «size(uint256)» = 1000.
+5. Нажми «Query».
+6. Раунды, в которых ты участвовал, появятся ниже в первой строке (после «uint256\[]»).
 {% endtab %}
 
 {% tab title="Check if you can claim" %}
-First, check whether you should actually be able to claim from the round you played.
+Сначала проверь, можешь ли ты фактически получить выигрыш за сыгранный раунд.
 
-1. Go to BscScan page of the [Prediction contract](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (e.g. BNBUSD), and go to the Read tab
-2. Scroll down to “4. claimable”.
-3. Type in the round id you want to check under "epoch(uint256)”.
-4. Type in your wallet address under “user(address)”.
-5. Tap “Query”
-6. If a round is claimable, it will show “true”.
-7. If the result is "false". Please repeat the above steps and try with "19. refundable".&#x20;
-8. Note: ⬆️ If you see a round returns "false" on both "4. claimable" and "19. refundable", but it shows on the website, it's probably been claimed already and the website is lagging.
+1. Перейди на страницу BscScan [контракта Прогноза](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (например, BNBUSD) и открой вкладку Read.
+2. Прокрути вниз до «4. claimable».
+3. Введи ID раунда, который хочешь проверить, в поле «epoch(uint256)».
+4. Введи адрес своего кошелька в поле «user(address)».
+5. Нажми «Query».
+6. Если раунд доступен для получения выигрыша, отобразится «true».
+7. Если результат «false», повтори описанные шаги и попробуй с «19. refundable».&#x20;
+8. Примечание: ⬆️ Если раунд возвращает «false» и для «4. claimable», и для «19. refundable», но отображается на сайте — скорее всего, выигрыш уже получен, а сайт просто не обновился.
 {% endtab %}
 
 {% tab title="Claim from a round" %}
-How to claim
+Как получить выигрыш
 
-1. Go to BscScan page of the [Prediction contract](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (e.g. BNBUSD), and go to the Write tab
-2. Tap “🔴 Connect to Web3”
-3. Use MetaMask or WalletConnect to connect.
-4. Scroll down to “3. claim”
-5.  Type in the round number you want to claim in this format, including the \[] brackets: `[12345]`&#x20;
+1. Перейди на страницу BscScan [контракта Прогноза](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (например, BNBUSD) и открой вкладку Write.
+2. Нажми «🔴 Connect to Web3».
+3. Подключись через MetaMask или WalletConnect.
+4. Прокрути вниз до «3. claim».
+5.  Введи номер раунда, за который хочешь получить выигрыш, в таком формате (включая скобки \[]): `[12345]`&#x20;
 
-    If you want to claim from multiple rounds together, separate the rounds with a comma like this: `[12345,12346,12347]`
-6. Tap “Write”
-7. Confirm on wallet&#x20;
+    Если хочешь получить выигрыш за несколько раундов одновременно, перечисли раунды через запятую: `[12345,12346,12347]`
+6. Нажми «Write».
+7. Подтверди в кошельке.&#x20;
 {% endtab %}
 {% endtabs %}
-

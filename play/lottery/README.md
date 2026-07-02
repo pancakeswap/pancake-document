@@ -1,61 +1,61 @@
-# 🎟️ Lottery
+# 🎟️ Лотерея
 
-Playing the PancakeSwap Lottery gives you a chance to win huge CAKE prizes! It's easy, fair, and you can enter as often as you like as long as you have the CAKE to buy a ticket.
+Участие в Лотерее PancakeSwap даёт тебе шанс выиграть огромные призы в CAKE! Это просто, честно, и ты можешь участвовать столько раз, сколько захочешь, пока есть CAKE для покупки билетов.
 
-[View smart contract](https://bscscan.com/address/0x5aF6D33DE2ccEC94efb1bDF8f92Bd58085432d2c)
+[Посмотреть смарт-контракт](https://bscscan.com/address/0x5aF6D33DE2ccEC94efb1bDF8f92Bd58085432d2c)
 
-## **Specifics:**
+## **Подробности:**
 
-* Lottery ticket cost for 1 ticket: \~$5 USD in CAKE.
-* Individual user Lottery entry limit: No overall limit, but only 100 tickets can be bought at a time.
-* Paying for one ticket will give users a random 6-digit combination with each digit being between 0-9, for e.g. “1-9-3-2-0-4”. Match numbers from the left to win prizes—the more numbers that match, the bigger the prize pool you'll share in.
-* Lottery uses Chainlink's implementation of VRF for true, secure randomness.
+* Стоимость одного лотерейного билета: ~$5 USD в CAKE.
+* Лимит участия для одного пользователя: без общего ограничения, но за раз можно купить не более 100 билетов.
+* При покупке одного билета пользователю случайным образом назначается 6-значная комбинация, каждая цифра которой от 0 до 9, например «1-9-3-2-0-4». Совпадения считаются слева направо — чем больше цифр совпадает, тем большую долю призового фонда ты получишь.
+* В Лотерее используется реализация VRF от Chainlink для настоящей, безопасной случайности.
 
-## Ticket costs and bulk purchase discount
+## Стоимость билетов и скидка при оптовой покупке
 
-Lottery ticket prices are set at the start of the new lottery round, and target $5 USD (may vary slightly with sudden price fluctuations).
+Цены на лотерейные билеты устанавливаются в начале нового раунда Лотереи и ориентированы на $5 USD (могут незначительно варьироваться при резких колебаниях цены).
 
-Buying multiple Lottery tickets at once gives a bulk discount on your purchase. You can buy as many as 100 tickets in one purchase, with the discount starting small at 2 tickets, and scaling up to 10% at 100 tickets.
+Покупка нескольких лотерейных билетов за раз даёт оптовую скидку. Можно купить до 100 билетов за одну покупку; скидка начинается с 2 билетов и достигает 10% при покупке 100 билетов.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-22%20at%209.59.52%E2%80%AFPM.png)
 
-## **How to win**
+## **Как выиграть**
 
-Match numbers, **from the left side of your ticket**, to the winning numbers drawn at the end of a Lottery round.
+Совмещай числа **слева от своего билета** с выигрышными числами, выпавшими в конце раунда Лотереи.
 
-* Matching even just the first number will win you a small prize.&#x20;
-* Match more numbers to win a share of a larger prize pool.
+* Совпадение даже первого числа принесёт небольшой приз.&#x20;
+* Чем больше цифр совпадёт, тем большую долю крупного призового фонда ты получишь.
 
-## **‌**Prize eligibility
+## **‌**Условия получения приза
 
-‌There are a total of six lottery balls, from 0 to 9, on each ticket. To win, your numbers need to match the drawn numbers in the same order as the lottery balls, starting from the left of the ticket. For example:
+‌На каждом билете всего шесть лотерейных шаров с цифрами от 0 до 9. Чтобы выиграть, твои числа должны совпадать с выпавшими числами в том же порядке, начиная слева от билета. Например:
 
-Drawn numbers
+Выпавшие числа
 
 ![Drawn Numbers](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28285%29.png)
 
-Your ticket's numbers
+Числа твоего билета
 
 ![Your Ticket A](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2895%29%20%281%29.png)
 
-In the example above, Ticket A, five of the ticket's numbers match the same drawn numbers, in the exact same order: all except the fourth one.
+В примере выше, Билет A: пять чисел билета совпадают с выпавшими в точно таком же порядке — все, кроме четвёртого.
 
-However, since the fourth digit does **not** match the drawn number, only the first three digits count as matching in order. This would win a "Match first 3" prize.
+Однако поскольку четвёртая цифра **не** совпадает с выпавшим числом, засчитываются как совпадающие только первые три цифры по порядку. Это соответствует призу «Совпадение первых 3».
 
 ![Your Ticket B](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28205%29.png)
 
-Example Ticket B. Here's an unlucky one. Even though the last five digits match, the first digit doesn't match, so this ticket doesn't win anything at all.
+Пример Билет B. Неудачный вариант. Несмотря на то что последние пять цифр совпадают, первая цифра не совпадает, поэтому этот билет вообще ничего не выигрывает.
 
-You will only share in prizes from the highest prize bracket you are eligible for. A ticket matching the first three numbers will only be eligible for prizes from the match-three bracket, and not for the match-one or match-two brackets.
+Ты можешь получить призы только из высшей категории, в которую попадаешь. Билет, совпадающий по первым трём числам, имеет право только на призы категории «совпадение трёх», но не категорий «совпадение одного» или «совпадение двух».
 
-**Remember: The digits must match in order, starting from left to right.**
+**Помни: цифры должны совпадать по порядку, слева направо.**
 
-## Prize sharing across prize brackets
+## Распределение призов между категориями
 
-‌After a round is drawn, and tickets with matching numbers are determined, the prizes are awarded. The amount won by each ticket will depend on how many other tickets won in the same prize bracket.
+‌После розыгрыша раунда и определения выигрышных билетов вручаются призы. Сумма выигрыша по каждому билету зависит от того, сколько других билетов выиграло в той же призовой категории.
 
-‌For example, if you have the only ticket that matched three numbers in order, and the predetermined share of the prize pool for your bracket was 2000 CAKE, you'll receive the full 2000 CAKE.
+‌Например, если у тебя единственный билет с тремя совпавшими числами по порядку, а заранее установленная доля призового фонда для твоей категории составляла 2000 CAKE, ты получишь все 2000 CAKE.
 
-‌If, however, you and three other people match three numbers in order, the 2000 CAKE would be split between the four winning tickets, meaning you would receive 500 CAKE.
+‌Однако если ты и ещё три человека совпали по трём числам по порядку, 2000 CAKE будут разделены между четырьмя выигрышными билетами, и ты получишь 500 CAKE.
 
-See the [Lottery FAQ for a breakdown of prizes](lottery-faq.md#how-are-prizes-broken-down-between-brackets) across each bracket.
+Смотри [FAQ по Лотерее для разбивки призов](lottery-faq.md#how-are-prizes-broken-down-between-brackets) по каждой категории.

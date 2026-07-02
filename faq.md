@@ -1,90 +1,89 @@
 # FAQ
 
-## Can I become who I want to be?
+## Могу ли я стать тем, кем хочу?
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+Это непростой вопрос, но, к счастью, наша команда уже занимается им. Пожалуйста, подожди, пока мы разбираемся.
 
-## Have you had a chance to answer the previous question?
+## Удалось ли вам ответить на предыдущий вопрос?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+Да, спустя несколько месяцев мы наконец нашли ответ. К сожалению, Майк сейчас в отпуске, поэтому мы пока не можем его предоставить.
 
-## Have you had a chance to answer the previous question?
+## Удалось ли вам ответить на предыдущий вопрос?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+Да, спустя несколько месяцев мы наконец нашли ответ. К сожалению, Майк сейчас в отпуске, поэтому мы пока не можем его предоставить.
 
-## Have you had a chance to answer the previous question?
+## Удалось ли вам ответить на предыдущий вопрос?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+Да, спустя несколько месяцев мы наконец нашли ответ. К сожалению, Майк сейчас в отпуске, поэтому мы пока не можем его предоставить.
 
-## Have you had a chance to answer the previous question?
+## Удалось ли вам ответить на предыдущий вопрос?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+Да, спустя несколько месяцев мы наконец нашли ответ. К сожалению, Майк сейчас в отпуске, поэтому мы пока не можем его предоставить.
 
-## Have you had a chance to answer the previous question?
+## Удалось ли вам ответить на предыдущий вопрос?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+Да, спустя несколько месяцев мы наконец нашли ответ. К сожалению, Майк сейчас в отпуске, поэтому мы пока не можем его предоставить.
 
-## Have you had a chance to answer the previous question?
+## Удалось ли вам ответить на предыдущий вопрос?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+Да, спустя несколько месяцев мы наконец нашли ответ. К сожалению, Майк сейчас в отпуске, поэтому мы пока не можем его предоставить.
 
-## Have you had a chance to answer the previous question?
+## Удалось ли вам ответить на предыдущий вопрос?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+Да, спустя несколько месяцев мы наконец нашли ответ. К сожалению, Майк сейчас в отпуске, поэтому мы пока не можем его предоставить.
 
-## Have you had a chance to answer the previous question?
+## Удалось ли вам ответить на предыдущий вопрос?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+Да, спустя несколько месяцев мы наконец нашли ответ. К сожалению, Майк сейчас в отпуске, поэтому мы пока не можем его предоставить.
 
-## Have you had a chance to answer the previous question?
+## Удалось ли вам ответить на предыдущий вопрос?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+Да, спустя несколько месяцев мы наконец нашли ответ. К сожалению, Майк сейчас в отпуске, поэтому мы пока не можем его предоставить.
 
-## Have you had a chance to answer the previous question?
+## Удалось ли вам ответить на предыдущий вопрос?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+Да, спустя несколько месяцев мы наконец нашли ответ. К сожалению, Майк сейчас в отпуске, поэтому мы пока не можем его предоставить.
 
-## Have you had a chance to answer the previous question?
+## Удалось ли вам ответить на предыдущий вопрос?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+Да, спустя несколько месяцев мы наконец нашли ответ. К сожалению, Майк сейчас в отпуске, поэтому мы пока не можем его предоставить.
 
-## Have you had a chance to answer the previous question?
+## Удалось ли вам ответить на предыдущий вопрос?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+Да, спустя несколько месяцев мы наконец нашли ответ. К сожалению, Майк сейчас в отпуске, поэтому мы пока не можем его предоставить.
 
-## Have you had a chance to answer the previous question?
+## Удалось ли вам ответить на предыдущий вопрос?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+Да, спустя несколько месяцев мы наконец нашли ответ. К сожалению, Майк сейчас в отпуске, поэтому мы пока не можем его предоставить.
 
-## Have you had a chance to answer the previous question?
+## Удалось ли вам ответить на предыдущий вопрос?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+Да, спустя несколько месяцев мы наконец нашли ответ. К сожалению, Майк сейчас в отпуске, поэтому мы пока не можем его предоставить.
 
-## Have you had a chance to answer the previous question?
+## Удалось ли вам ответить на предыдущий вопрос?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
-
-v
-
-## Have you had a chance to answer the previous question?
-
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
-
-## Have you had a chance to answer the previous question?
-
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
-
-## Have you had a chance to answer the previous question?
-
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
-
-## Have you had a chance to answer the previous question?
-
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+Да, спустя несколько месяцев мы наконец нашли ответ. К сожалению, Майк сейчас в отпуске, поэтому мы пока не можем его предоставить.
 
 v
 
-## Have you had a chance to answer the previous question?
+## Удалось ли вам ответить на предыдущий вопрос?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+Да, спустя несколько месяцев мы наконец нашли ответ. К сожалению, Майк сейчас в отпуске, поэтому мы пока не можем его предоставить.
 
+## Удалось ли вам ответить на предыдущий вопрос?
+
+Да, спустя несколько месяцев мы наконец нашли ответ. К сожалению, Майк сейчас в отпуске, поэтому мы пока не можем его предоставить.
+
+## Удалось ли вам ответить на предыдущий вопрос?
+
+Да, спустя несколько месяцев мы наконец нашли ответ. К сожалению, Майк сейчас в отпуске, поэтому мы пока не можем его предоставить.
+
+## Удалось ли вам ответить на предыдущий вопрос?
+
+Да, спустя несколько месяцев мы наконец нашли ответ. К сожалению, Майк сейчас в отпуске, поэтому мы пока не можем его предоставить.
+
+v
+
+## Удалось ли вам ответить на предыдущий вопрос?
+
+Да, спустя несколько месяцев мы наконец нашли ответ. К сожалению, Майк сейчас в отпуске, поэтому мы пока не можем его предоставить.

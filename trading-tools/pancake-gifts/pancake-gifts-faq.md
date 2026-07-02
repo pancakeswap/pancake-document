@@ -1,90 +1,89 @@
 # Pancake Gifts FAQ
 
-This FAQ covers how Pancake Gifts work behind the scenes, what to expect in different scenarios, and why certain design choices were made.
+В этом FAQ описывается, как работает Pancake Gifts за кулисами, чего ожидать в различных ситуациях и почему были приняты определённые технические решения.
 
 ***
 
-## 1. 🔐 Gift Code Behavior & Access
+## 1. 🔐 Поведение кода подарка и доступ
 
-### **1.1 Why isn’t the gift code stored?**
+### **1.1 Почему код подарка не сохраняется?**
 
-We **intentionally do not store** the gift code in:
+Мы **намеренно не храним** код подарка в:
 
-* Frontend local storage
-* Backend databases
+* Локальном хранилище браузера
+* Базах данных на сервере
 
-This protects:
+Это защищает:
 
-* User privacy
-* Security against device compromise
-* Accidental or malicious gift claims
+* Конфиденциальность пользователей
+* Безопасность от компрометации устройства
+* Случайное или злонамеренное получение подарков
 
-### **1.2 Can I regenerate or retrieve the gift code later?**
+### **1.2 Могу ли я перегенерировать или получить код подарка позже?**
 
-No. The gift code:
+Нет. Код подарка:
 
-* Is shown **only once** during creation
-* Is embedded in the **link** or **QR code** generated
-* Will **not be displayed again** in the UI or history
+* Отображается **только один раз** при создании
+* Встроен в сгенерированную **ссылку** или **QR-код**
+* **Больше не будет отображаться** в интерфейсе или истории
 
 {% hint style="warning" %}
-If the code is lost and you didn’t save the link or QR, the gift cannot be claimed manually. Instead, to retrieve your gift amount, you may manually cancel it.
+Если код потерян и ты не сохранил ссылку или QR, подарок нельзя получить вручную. Вместо этого, чтобы вернуть сумму подарка, ты можешь вручную отменить его.
 {% endhint %}
 
-### **1.3 Will the gift code still be embedded in the share link or QR?**
+### **1.3 Будет ли код подарка по-прежнему встроен в ссылку или QR?**
 
-Yes:
+Да:
 
-* Share link includes the gift code (e.g. `pancakeswap.finance/gift#code=xxxx`)
-* QR code also embeds the gift code, but **cannot be regenerated later.**&#x20;
+* Ссылка для совместного использования содержит код подарка (например, `pancakeswap.finance/gift#code=xxxx`)
+* QR-код также содержит код подарка, но **не может быть перегенерирован позже.**&#x20;
 
 {% hint style="success" %}
-**Pro Tip:**  Download the image once its generated
+**Совет:** Скачай изображение сразу после его генерации
 {% endhint %}
 
-* Manual claims require the actual gift code — no fallback if the link/QR is lost
+* Ручное получение требует фактического кода подарка — резервного варианта нет, если ссылка/QR потеряны
 
-## 2. 🎁 Gift Status & Expiry
+## 2. 🎁 Статус подарка и срок действия
 
-### **2.1 Can I view whether a gift has been claimed, cancelled, or expired?**
+### **2.1 Могу ли я узнать, был ли подарок получен, отменён или истёк его срок?**
 
-Yes. The **Gift History** section shows:
+Да. Раздел **История подарков** показывает:
 
-* Status: Pending / Claimed / Cancelled / Expired / Unclaimable
-* Gift details (token, amount, type, chain, timestamps)
+* Статус: Pending / Claimed / Cancelled / Expired / Unclaimable
+* Детали подарка (токен, сумма, тип, сеть, временные метки)
 
-### **2.2 What happens when a gift expires?**
+### **2.2 Что происходит при истечении срока подарка?**
 
-If a gift is not claimed within the default **7-day window**:
+Если подарок не был получен в течение стандартного **7-дневного периода**:
 
-* The **entire gift amount is refunded** to the creator’s wallet
-* The fixed **claim gas fee (\~$0.05) is not returned**
+* **Полная сумма подарка возвращается** в кошелёк создателя
+* Фиксированная **комиссия за получение (~$0.05) не возвращается**
 
-## 3. 🧠 Claim Logic & Limitations
+## 3. 🧠 Логика получения и ограничения
 
-### **3.1 Can users claim a gift on a different chain from the one it was created on?**
+### **3.1 Могут ли пользователи получить подарок в другой сети, отличной от той, в которой он был создан?**
 
-No. A gift is **chain-bound**:
+Нет. Подарок **привязан к сети**:
 
-* A gift created on **BSC** must be claimed on **BSC**
-* Cross-chain gifting is not currently supported
+* Подарок, созданный в **BSC**, должен быть получен в **BSC**
+* Межсетевое дарение в настоящее время не поддерживается
 
-## 4. ⛽ Gas Fees & Design
+## 4. ⛽ Комиссии за газ и дизайн
 
-### **4.1 How is the fixed gas amount for gift creation decided?**
+### **4.1 Как определяется фиксированная сумма газа для создания подарка?**
 
-We set a flat gas price based on current BNB chain conditions (\~5 times current recommended Gas amount).
+Мы устанавливаем фиксированную цену газа на основе текущих условий BNB Chain (~5 раз от текущей рекомендуемой суммы газа).
 
-This buffer:
+Этот буфер:
 
-* Protects against sudden gas spikes
-* Ensures gifts remain claimable under normal volatility
+* Защищает от внезапных скачков цен на газ
+* Обеспечивает возможность получения подарков при нормальной волатильности
 
 \
-Example
+Пример
 
-* **Current recommended: 0.1 Gwei** (see: [BNB Gas Tracker](https://bscscan.com/gastracker))
-* **Therefore, Fixed gas claim fee= 0.1 Gwei x 5 = 0.5 Gwei**
-
+* **Текущая рекомендуемая: 0.1 Gwei** (см.: [BNB Gas Tracker](https://bscscan.com/gastracker))
+* **Поэтому, Фиксированная комиссия за получение = 0.1 Gwei x 5 = 0.5 Gwei**
 
 
