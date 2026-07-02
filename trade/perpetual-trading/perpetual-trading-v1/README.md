@@ -2,5 +2,4 @@
 hidden: true
 ---
 
-# Perpetuals V1
-
+# Perpétuos V1

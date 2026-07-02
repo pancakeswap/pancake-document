@@ -1,45 +1,45 @@
-# Dynamic Fee Hook
+# Hook de Taxa Dinâmica
 
-PancakeSwap’s official Dynamic Fee Hook is designed to create a fairer value exchange between Liquidity Providers and Traders. It protects LPs from excessive impermanent loss (IL) while keeping the market efficient for traders.
+O Hook de Taxa Dinâmica oficial do PancakeSwap foi projetado para criar uma troca de valor mais justa entre Provedores de Liquidez e Traders. Ele protege os LPs de perda impermanente (IL) excessiva enquanto mantém o mercado eficiente para os traders.
 
-Built by the PancakeSwap core team, this hook is tailored specifically to offer a smart, adaptive alternative to conventional fixed-fee models.
+Construído pela equipe central do PancakeSwap, este hook é especificamente adaptado para oferecer uma alternativa inteligente e adaptativa aos modelos tradicionais de taxa fixa.
 
-#### 🔍 Why Dynamic Fees?
+#### 🔍 Por que Taxas Dinâmicas?
 
-Large Arbitrage trades cause greater price divergence in pools, increasing IL for LPs. Our dynamic fee model charges proportionally higher fees on larger arbitrage trades to offset this risk — while still leaving enough room for arbitrageurs to profit and keep prices aligned.
+Grandes negociações de arbitragem causam maior divergência de preços nos pools, aumentando a IL para os LPs. Nosso modelo de taxa dinâmica cobra taxas proporcionalmente maiores em negociações de arbitragem maiores para compensar esse risco — deixando espaço suficiente para os arbitradores lucrarem e manter os preços alinhados.
 
-#### 📊 How Is This Different From Other Models?
+#### 📊 Como isso é diferente de outros modelos?
 
-Other models in the past have used historical data to estimate volatility, other factors to adjust fees. However:
+Outros modelos no passado usaram dados históricos para estimar a volatilidade e outros fatores para ajustar as taxas. No entanto:
 
-* Historical data is a lagging indicator and may not accurately predict future volatility.
-* External market events (like regulatory changes or economic shifts) can render past trends unreliable.
-* Complex, parameter-heavy models risk overfitting — performing well on past data but poorly on new, unseen conditions.
+* Dados históricos são um indicador defasado e podem não prever com precisão a volatilidade futura.
+* Eventos externos de mercado (como mudanças regulatórias ou mudanças econômicas) podem tornar as tendências passadas não confiáveis.
+* Modelos complexos e cheios de parâmetros correm o risco de overfitting — funcionando bem em dados passados, mas mal em condições novas e não previstas.
 
-Our approach is simpler, adaptive, and grounded in real-time trading behaviour.
+Nossa abordagem é mais simples, adaptativa e baseada no comportamento de negociação em tempo real.
 
-#### ⚙️ How It Works
+#### ⚙️ Como Funciona
 
-* **We don’t predict volatility or other macro factors**\
-  Instead, our model inherently benefits from the behaviour of arbitrageurs under different market regimes:
-  * **High volatility:** More arbitrage trades at larger sizes → Higher fees for LPs, covering a larger share of IL.
-  * **Low volatility:** Fewer, smaller trades → IL is lower by nature, but LPs still earn higher fees than in a fixed-fee model.
-* **Our model uses**
-  * An exponentially weighted pool price to detect arbitrage trades.
-  * An exponential fee curve based on the price impact of each swap.
-  * A maximum fee cap of 5% to maintain trader fairness.
+* **Não prevemos volatilidade ou outros fatores macro**\
+  Em vez disso, nosso modelo se beneficia inerentemente do comportamento dos arbitradores sob diferentes regimes de mercado:
+  * **Alta volatilidade:** Mais negociações de arbitragem em tamanhos maiores → Taxas mais altas para os LPs, cobrindo uma parcela maior da IL.
+  * **Baixa volatilidade:** Negociações menos frequentes e menores → A IL é menor por natureza, mas os LPs ainda ganham taxas maiores do que em um modelo de taxa fixa.
+* **Nosso modelo usa**
+  * Um preço de pool ponderado exponencialmente para detectar negociações de arbitragem.
+  * Uma curva de taxa exponencial baseada no impacto de preço de cada Swap.
+  * Uma taxa máxima de 5% para manter a equidade para os traders.
 
 {% hint style="success" %}
-This ensures fees scale dynamically with trade impact while adapting automatically to changing market conditions.
+Isso garante que as taxas escalem dinamicamente com o impacto da negociação enquanto se adaptam automaticamente às condições de mercado em mudança.
 {% endhint %}
 
-* **Balanced Incentives**\
-  Arbitrageurs still retain \~50% of their profits after dynamic fees, ensuring they're motivated to keep pool prices in line with the market.
+* **Incentivos Equilibrados**\
+  Os arbitradores ainda retêm \~50% de seus lucros após as taxas dinâmicas, garantindo que estejam motivados a manter os preços do pool alinhados com o mercado.
 
-#### 📌 Key Takeaways
+#### 📌 Pontos-chave
 
-* No reliance on volatility or other macro factor predictions.
-* Adapts automatically to market volatility based on actual trade behaviour.
-* Protects LPs from IL on a per-swap basis.
-* Maintains strong incentives for arbitrageurs to close price gaps.
-* Benefits traders with deeper liquidity and lower base fees.
+* Sem dependência de previsões de volatilidade ou outros fatores macro.
+* Adapta-se automaticamente à volatilidade do mercado com base no comportamento real de negociação.
+* Protege os LPs de IL por Swap.
+* Mantém fortes incentivos para arbitradores fecharem lacunas de preço.
+* Beneficia os traders com Liquidez mais profunda e taxas base mais baixas.

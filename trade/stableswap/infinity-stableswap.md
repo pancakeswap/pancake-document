@@ -1,197 +1,196 @@
 # Infinity StableSwap
 
-### Overview
+### Visão Geral
 
-Infinity StableSwap is a pool type within[ PancakeSwap Infinity](https://docs.pancakeswap.finance/trade/pancakeswap-infinity) optimized for swapping assets that should trade near the same price — such as stablecoins (e.g., USDC/USDT) or tightly-pegged assets (e.g., wrapped token pairs, liquid staking tokens, and liquid restaking tokens).
+O Infinity StableSwap é um tipo de pool dentro do [PancakeSwap Infinity](https://docs.pancakeswap.finance/trade/pancakeswap-infinity) otimizado para trocar ativos que devem ser negociados próximos ao mesmo preço — como stablecoins (por exemplo, USDC/USDT) ou ativos com peg próximo (por exemplo, pares de tokens embrulhados, tokens de liquid staking e tokens de liquid restaking).
 
-It is powered by a StableSwap hook running on the Infinity architecture, inspired by Curve's StableSwap NG design. It is currently available on BNB Chain, with plans to expand to additional chains in the future.
-
-***
-
-### How It Works
-
-Infinity StableSwap uses a stable invariant curve — a hybrid between constant-sum and constant-product:
-
-* Near the peg → the curve behaves close to constant-sum, resulting in very low slippage for trades around 1:1.
-* Away from the peg → the curve gradually transitions toward constant-product, which helps restore balance and protects the pool during large imbalances or depeg events.
-
-This makes it especially effective for stable pairs where tight pricing and low slippage matter most.
+Ele é alimentado por um hook StableSwap rodando na arquitetura Infinity, inspirado no design StableSwap NG da Curve. Atualmente está disponível na BNB Chain, com planos de expansão para redes adicionais no futuro.
 
 ***
 
-### Key Features
+### Como Funciona
 
-Optimized for near-peg swaps: Low slippage for trades between assets that are expected to trade at roughly the same price.
+O Infinity StableSwap usa uma curva invariante estável — um híbrido entre soma constante e produto constante:
 
-Simple liquidity provisioning: Liquidity providers (LPs) deposit both tokens proportionally without needing to select or manage price ranges — unlike CLAMM pools.
+* Próximo ao peg → a curva se comporta próximo à soma constante, resultando em Slippage muito baixo para negociações em torno de 1:1.
+* Longe do peg → a curva gradualmente transiciona para produto constante, o que ajuda a restaurar o equilíbrio e protege o pool durante grandes desequilíbrios ou eventos de depeg.
 
-ERC-20 LP tokens: Your LP position is represented as a standard ERC-20 token, making it easy to use with yield programs, points campaigns, and other DeFi protocols.
-
-Dynamic fees: Fees can adjust based on pool balance conditions, rewarding trades that help restore the pool toward equilibrium and discouraging those that worsen imbalance.
-
-Infinity routing support: Trades route automatically through StableSwap pools when they offer the best price — no extra steps required for traders.
-
-Adjustable Amplification (A) parameter: Pool operators can ramp the A parameter up or down over time to adapt to changing market conditions, with safeguards to prevent abrupt changes.
+Isso o torna especialmente eficaz para pares estáveis onde precificação precisa e baixo Slippage são mais importantes.
 
 ***
 
-### Pool Parameters
+### Principais Recursos
 
-StableSwap pool behavior is governed by a small set of parameters, typically set at pool creation time.
+Otimizado para Swaps próximos ao peg: Baixo Slippage para negociações entre ativos que se espera que sejam negociados aproximadamente ao mesmo preço.
 
-#### Amplification Coefficient (A)
+Provisão de Liquidez simples: Os provedores de Liquidez (LPs) depositam ambos os tokens proporcionalmente sem precisar selecionar ou gerenciar intervalos de preço — ao contrário dos pools CLAMM.
 
-The A parameter controls how tightly the pool hugs the 1:1 price peg.
+Tokens LP ERC-20: Sua posição LP é representada como um token ERC-20 padrão, facilitando o uso com programas de rendimento, campanhas de pontos e outros protocolos DeFi.
 
-| A value  | Effect                                                                         |
-| -------- | ------------------------------------------------------------------------------ |
-| Higher A | Tighter curve around peg; lower slippage near 1:1; more sensitive to imbalance |
-| Lower A  | Looser curve; behaves more like a standard constant-product pool               |
+Taxas dinâmicas: As taxas podem ser ajustadas com base nas condições de equilíbrio do pool, recompensando negociações que ajudam a restaurar o pool para o equilíbrio e desencorajando aquelas que pioram o desequilíbrio.
 
-Rule of thumb: Use a higher A for assets with a strong, reliable peg (e.g., USDC/USDT). Use a lower A for assets with looser or more volatile pegs (e.g., some LST pairs).
+Suporte de roteamento Infinity: As negociações são roteadas automaticamente pelos pools StableSwap quando oferecem o melhor preço — sem etapas extras necessárias para os traders.
 
-The A parameter can be gradually ramped up or down by the pool operator over a defined period of time. Changes are applied gradually with safeguards to prevent manipulation or sudden pricing shifts.
+Parâmetro de Amplificação (A) ajustável: Os operadores do pool podem aumentar ou diminuir gradualmente o parâmetro A ao longo do tempo para se adaptar às condições de mercado em mudança, com salvaguardas para evitar mudanças abruptas.
 
-#### Off-Peg Fee Multiplier
+***
 
-An additional parameter that adjusts effective fees when the pool moves away from equilibrium. It helps discourage trades that would further imbalance the pool and makes the pool more robust during market stress or depeg events.
+### Parâmetros do Pool
 
-#### Dynamic Fees
+O comportamento do pool StableSwap é governado por um pequeno conjunto de parâmetros, geralmente definidos no momento da criação do pool.
 
-A fee charged on each swap, paid to liquidity providers. Infinity StableSwap supports dynamic fees — meaning the effective fee on a given trade can vary depending on the current state of the pool (e.g., whether the trade improves or worsens balance).
+#### Coeficiente de Amplificação (A)
+
+O parâmetro A controla quão firmemente o pool segue o peg de preço 1:1.
+
+| Valor de A  | Efeito                                                                              |
+| ----------- | ------------------------------------------------------------------------------------ |
+| A mais alto | Curva mais estreita em torno do peg; menor Slippage próximo a 1:1; mais sensível ao desequilíbrio |
+| A mais baixo | Curva mais ampla; comporta-se mais como um pool de produto constante padrão        |
+
+Regra geral: Use um A maior para ativos com um peg forte e confiável (por exemplo, USDC/USDT). Use um A menor para ativos com pegs mais soltos ou mais voláteis (por exemplo, alguns pares LST).
+
+O parâmetro A pode ser gradualmente aumentado ou diminuído pelo operador do pool durante um período de tempo definido. As alterações são aplicadas gradualmente com salvaguardas para evitar manipulação ou mudanças repentinas de precificação.
+
+#### Multiplicador de Taxa Fora do Peg
+
+Um parâmetro adicional que ajusta as taxas efetivas quando o pool se afasta do equilíbrio. Ele ajuda a desencorajar negociações que desequilibrariam ainda mais o pool e torna o pool mais robusto durante estresse de mercado ou eventos de depeg.
+
+#### Taxas Dinâmicas
+
+Uma taxa cobrada em cada Swap, paga aos provedores de Liquidez. O Infinity StableSwap suporta taxas dinâmicas — o que significa que a taxa efetiva em uma determinada negociação pode variar dependendo do estado atual do pool (por exemplo, se a negociação melhora ou piora o equilíbrio).
 
 ***
 
 ### Infinity StableSwap vs. Classic StableSwap
 
-If you've used PancakeSwap's existing StableSwap before, here's what changes — and what stays the same.
+Se você já usou o StableSwap existente do PancakeSwap, aqui está o que muda — e o que permanece igual.
 
-| <p><br></p>                 | Classic StableSwap                                        | Infinity StableSwap                                                |
-| --------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------ |
-| Pricing curve               | Stable invariant (hybrid constant-sum / constant-product) | Same stable invariant curve, same low slippage near peg            |
-| ERC-20 LP tokens            | ✅ Yes                                                     | ✅ Yes                                                              |
-| Pool creation               | Ops-heavy; requires manual setup by the team              | Permissionless — anyone can create a pool                          |
-| Swap fees                   | Fixed per pair (e.g. 0.01% for USDC/USDT)                 | Dynamic fees — adjusts based on how the trade affects pool balance |
-| Amplification (A) parameter | Static — set once, cannot be changed                      | Adjustable — can be ramped up or down gradually over time          |
-| Off-peg fee multiplier      | ❌ Not supported                                           | ✅ Supported — helps protect the pool during depeg events           |
-| Gas efficiency              | Standard                                                  | Improved — benefits from Infinity's Singleton and Flash Accounting |
+| <p><br></p>                   | Classic StableSwap                                        | Infinity StableSwap                                                     |
+| ----------------------------- | --------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Curva de precificação         | Invariante estável (híbrido soma constante / produto constante) | Mesma curva invariante estável, mesmo baixo Slippage próximo ao peg |
+| Tokens LP ERC-20              | ✅ Sim                                                     | ✅ Sim                                                                   |
+| Criação de pool               | Pesada em operações; requer configuração manual pela equipe | Sem permissão — qualquer pessoa pode criar um pool                   |
+| Taxas de Swap                 | Fixa por par (por exemplo, 0,01% para USDC/USDT)          | Taxas dinâmicas — ajusta com base em como a negociação afeta o equilíbrio do pool |
+| Parâmetro de Amplificação (A) | Estático — definido uma vez, não pode ser alterado        | Ajustável — pode ser aumentado ou diminuído gradualmente ao longo do tempo |
+| Multiplicador de taxa fora do peg | ❌ Não suportado                                       | ✅ Suportado — ajuda a proteger o pool durante eventos de depeg         |
+| Eficiência de gas             | Padrão                                                    | Melhorada — beneficia-se do Singleton e Flash Accounting do Infinity   |
 
-#### What stays the same
+#### O que permanece igual
 
-* The core pricing curve and the near-peg low slippage behavior is unchanged.
+* A curva de precificação central e o comportamento de baixo Slippage próximo ao peg são inalterados.
 
-#### What's new and better
+#### O que é novo e melhor
 
-* Permissionless Pool Creation: Pools can be created permissionlessly without requiring manual team setup.
-* Dynamic fees protect LPs: Instead of a single fixed fee, the fee can adjust per trade based on whether the trade helps or hurts pool balance — making the pool more resilient during volatile conditions.
-* Adaptable A parameter: The amplification coefficient can be tuned over time as market conditions change, rather than being locked in at deployment forever.
-
-***
-
-### Frequently Asked Questions
-
-What assets are suitable for Infinity StableSwap?
-
-Assets that are expected to trade near the same price: stablecoins (USDC, USDT, BUSD, etc.), wrapped equivalents of the same asset (e.g., WBTC/cbBTC), and select liquid staking tokens / liquid restaking tokens (LST/LRT) pairs where peg volatility is low.
-
-<br>
-
-How is Infinity StableSwap different from the old PancakeSwap StableSwap?
-
-Infinity StableSwap is implemented as a hook on PancakeSwap Infinity, which means it inherits all of Infinity's infrastructure benefits, including lower gas costs via Singleton and Flash Accounting, and a more flexible fee system. It also supports new capabilities like dynamic fees and adjustable amplification that the legacy StableSwap did not offer.
-
-<br>
-
-Do I need to manage my position over time?
-
-No. Unlike CLAMM, you don't need to set or adjust price ranges. Your liquidity is always active across the full curve, so there's no risk of your position going "out of range."
-
-<br>
-
-Can I provide liquidity with just one token?
-
-Yes, single-token deposits are supported.
-
-<br>
-
-How do dynamic fees work?
-
-In Infinity StableSwap, the swap fee can vary per trade based on how the trade affects the pool's balance. Trades that help bring the pool back toward equilibrium may pay lower effective fees, while trades that worsen imbalance may pay higher fees. This is designed to protect LPs and maintain healthier pool conditions.
-
-
+* Criação de Pool Sem Permissão: Os pools podem ser criados sem permissão sem necessitar de configuração manual pela equipe.
+* Taxas dinâmicas protegem os LPs: Em vez de uma única taxa fixa, a taxa pode ser ajustada por negociação com base em se ela ajuda ou prejudica o equilíbrio do pool — tornando o pool mais resiliente durante condições voláteis.
+* Parâmetro A adaptável: O coeficiente de amplificação pode ser ajustado ao longo do tempo conforme as condições de mercado mudam, em vez de ser bloqueado na implantação para sempre.
 
 ***
 
+### Perguntas Frequentes
 
+Quais ativos são adequados para Infinity StableSwap?
 
-## Creating an Infinity StableSwap Pool
-
-
-
-Infinity StableSwap pools are permissionless — anyone can create one without needing approval from the PancakeSwap team.
+Ativos que se espera que sejam negociados próximos ao mesmo preço: stablecoins (USDC, USDT, BUSD, etc.), equivalentes embrulhados do mesmo ativo (por exemplo, WBTC/cbBTC), e pares seletos de tokens de liquid staking / liquid restaking tokens (LST/LRT) onde a volatilidade do peg é baixa.
 
 <br>
 
-### Step-by-step
+Como o Infinity StableSwap é diferente do antigo StableSwap do PancakeSwap?
 
-1\. Go to the Farm/Liquidity page and click Create Pool.
-
-<figure><img src="../../.gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
+O Infinity StableSwap é implementado como um hook no PancakeSwap Infinity, o que significa que ele herda todos os benefícios de infraestrutura do Infinity, incluindo menores custos de gas via Singleton e Flash Accounting, e um sistema de taxas mais flexível. Ele também suporta novas capacidades como taxas dinâmicas e amplificação ajustável que o StableSwap legado não oferecia.
 
 <br>
 
-2\. Select StableSwap Pool from the pool type options.
+Preciso gerenciar minha posição ao longo do tempo?
 
-<figure><img src="../../.gitbook/assets/unknown (1).png" alt=""><figcaption></figcaption></figure>
-
-<br>
-
-3\. Select the token pair for your pool (e.g. USDC / USDT).
-
-<figure><img src="../../.gitbook/assets/unknown (2).png" alt=""><figcaption></figcaption></figure>
+Não. Ao contrário do CLAMM, você não precisa definir ou ajustar intervalos de preço. Sua Liquidez está sempre ativa em toda a curva, portanto não há risco de sua posição ficar "fora do intervalo".
 
 <br>
 
-4\. Pool Parameters
+Posso fornecer Liquidez com apenas um token?
 
-| Parameter             | What it does                                                                                                    |
-| --------------------- | --------------------------------------------------------------------------------------------------------------- |
-| Swap Fee              | Fee charged on each swap, paid to LPs. Default is 0.01% for tight stable pairs.                                 |
-| A (Amplification)     | Controls how tightly the curve hugs the peg. Higher = lower slippage near 1:1, but more sensitive to imbalance. |
-| Offpeg Fee Multiplier | Scales up fees when the pool moves away from balance, discouraging trades that worsen imbalance.                |
-| Moving Average Time   | Time window used to calculate the moving average price for dynamic fee adjustments.                             |
-
-⚠️ Set parameters carefully. Incorrect parameters — especially a very high A on a loosely-pegged asset — can increase risk for LPs. If unsure, use the preset for your asset type and avoid changing Advanced settings.
+Sim, depósitos de token único são suportados.
 
 <br>
 
-Choose a Pool Parameter Preset — this automatically sets the recommended parameters for your asset type. You can still manually adjust them via the Advanced toggle.
+Como as taxas dinâmicas funcionam?
 
-<figure><img src="../../.gitbook/assets/unknown (3).png" alt=""><figcaption></figcaption></figure>
+No Infinity StableSwap, a taxa de Swap pode variar por negociação com base em como a negociação afeta o equilíbrio do pool. Negociações que ajudam a trazer o pool de volta ao equilíbrio podem pagar taxas efetivas menores, enquanto negociações que pioram o desequilíbrio podem pagar taxas maiores. Isso é projetado para proteger os LPs e manter condições de pool mais saudáveis.
 
-| Preset                            | A    | Offpeg Fee Multiplier | Moving Average Time (seconds) |
-| --------------------------------- | ---- | --------------------- | ----------------------------- |
-| Fiat Redeemable Stablecoins       | 1000 | 10                    | 600                           |
-| Crypto Collateralized Stablecoins | 100  | 12.5                  | 600                           |
-| Liquid Restaking Tokens           | 500  | 10                    | 600                           |
 
-<br>
 
-&#x20; Not sure which to pick?&#x20;
+***
 
-* Use Fiat Redeemable Stablecoins for pairs like USDC/USDT
-* Use Crypto Collateralized Stablecoins for algo or crypto-backed stablecoins
-* Use Liquid Restaking Tokens for LRT pairs like stkBNB/WBNB.
+
+
+## Criando um Pool Infinity StableSwap
+
+
+
+Os pools Infinity StableSwap são sem permissão — qualquer pessoa pode criar um sem precisar de aprovação da equipe PancakeSwap.
 
 <br>
 
-5\. Enter the deposit amount to seed initial liquidity. Both token amounts must be equal (e.g. 1 USDC and 1 USDT).
+### Passo a passo
 
-<figure><img src="../../.gitbook/assets/unknown (4).png" alt=""><figcaption></figcaption></figure>
+1\. Acesse a página Farm/Liquidez e clique em Criar Pool.
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
 
 <br>
 
-6\. Click Preview Pool, review your settings, check the confirmation box, then click Create Pool.
+2\. Selecione Pool StableSwap nas opções de tipo de pool.
 
-<figure><img src="../../.gitbook/assets/unknown (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unknown%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
+<br>
+
+3\. Selecione o par de tokens para seu pool (por exemplo, USDC / USDT).
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unknown%20%282%29.png" alt=""><figcaption></figcaption></figure>
+
+<br>
+
+4\. Parâmetros do Pool
+
+| Parâmetro               | O que faz                                                                                                           |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| Taxa de Swap            | Taxa cobrada em cada Swap, paga aos LPs. O padrão é 0,01% para pares estáveis próximos.                            |
+| A (Amplificação)        | Controla quão firmemente a curva segue o peg. Maior = menor Slippage próximo a 1:1, mas mais sensível ao desequilíbrio. |
+| Multiplicador de Taxa Fora do Peg | Escala as taxas quando o pool se afasta do equilíbrio, desencorajando negociações que pioram o desequilíbrio. |
+| Tempo de Média Móvel    | Janela de tempo usada para calcular o preço médio móvel para ajustes de taxa dinâmica.                              |
+
+⚠️ Defina os parâmetros com cuidado. Parâmetros incorretos — especialmente um A muito alto em um ativo com peg solto — podem aumentar o risco para os LPs. Em caso de dúvida, use o preset para o tipo de ativo e evite alterar as configurações Avançadas.
+
+<br>
+
+Escolha um Preset de Parâmetros de Pool — isso define automaticamente os parâmetros recomendados para o tipo de ativo. Você ainda pode ajustá-los manualmente via alternância Avançada.
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unknown%20%283%29.png" alt=""><figcaption></figcaption></figure>
+
+| Preset                                   | A    | Multiplicador de Taxa Fora do Peg | Tempo de Média Móvel (segundos) |
+| ---------------------------------------- | ---- | --------------------------------- | ------------------------------- |
+| Stablecoins Resgatáveis por Fiat         | 1000 | 10                                | 600                             |
+| Stablecoins com Garantia em Criptomoeda  | 100  | 12.5                              | 600                             |
+| Tokens de Liquid Restaking               | 500  | 10                                | 600                             |
+
+<br>
+
+&#x20; Não tem certeza de qual escolher?&#x20;
+
+* Use Stablecoins Resgatáveis por Fiat para pares como USDC/USDT
+* Use Stablecoins com Garantia em Criptomoeda para stablecoins algorítmicas ou lastreadas em criptomoedas
+* Use Tokens de Liquid Restaking para pares LRT como stkBNB/WBNB.
+
+<br>
+
+5\. Insira o valor do depósito para semear a Liquidez inicial. Ambos os valores de tokens devem ser iguais (por exemplo, 1 USDC e 1 USDT).
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unknown%20%284%29.png" alt=""><figcaption></figcaption></figure>
+
+<br>
+
+6\. Clique em Visualizar Pool, revise suas configurações, marque a caixa de confirmação e clique em Criar Pool.
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unknown%20%285%29.png" alt=""><figcaption></figcaption></figure>

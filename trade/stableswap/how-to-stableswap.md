@@ -1,17 +1,17 @@
-# How to StableSwap
+# Como usar o StableSwap
 
-<figure><img src="../../.gitbook/assets/how-to-stableswap.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-stableswap.png" alt=""><figcaption></figcaption></figure>
 
-## **Trading on the StableSwap**
+## **Negociando no StableSwap**
 
-Trading on the StableSwap is very similar to using the existing PancakeSwap AMM. Before we start, it also requires a BNB Smart Chain-compatible wallet and BNB for gas fees. Please check our [wallet guide](https://docs.pancakeswap.finance/get-started/wallet-guide) for more details.
+Negociar no StableSwap é muito semelhante ao uso do AMM existente do PancakeSwap. Antes de começar, também é necessária uma Carteira compatível com a BNB Smart Chain e BNB para taxas de gas. Verifique nosso [guia de carteiras](https://docs.pancakeswap.finance/get-started/wallet-guide) para mais detalhes.
 
-1 - Go to the Swap page [here](https://pancakeswap.finance/swap)
+1 - Acesse a página de Swap [aqui](https://pancakeswap.finance/swap)
 
-2 - Choose the token pairs you would like to trade.&#x20;
+2 - Escolha os pares de tokens que deseja negociar.&#x20;
 
-3 - Your all set! The following Swap process is the same as usual! If it’s your first time trading please check the guide [here.](../pancakeswap-exchange/trade-guide.md)
+3 - Está pronto! O processo de Swap a seguir é o mesmo de sempre! Se esta for sua primeira negociação, consulte o guia [aqui.](../pancakeswap-exchange/trade-guide.md)
 
-**Adding & Removing Liquidity**
+**Adicionando e Removendo Liquidez**
 
-Adding and removing liquidity for the StableSwap is also very important and similar to the normal PancakeSwap AMM. Please refer to the guide [here](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide) for a more detailed explanation. PancakeSwap StableSwap liquidity pools will show "Stable LP" in the pool name.
+Adicionar e remover Liquidez no StableSwap também é muito importante e semelhante ao AMM normal do PancakeSwap. Consulte o guia [aqui](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide) para uma explicação mais detalhada. Os pools de Liquidez StableSwap do PancakeSwap mostrarão "Stable LP" no nome do pool.

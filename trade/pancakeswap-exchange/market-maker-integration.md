@@ -2,77 +2,77 @@
 hidden: true
 ---
 
-# Market Maker Integration
+# Integração com Formadores de Mercado
 
 <figure><img src="https://lh3.googleusercontent.com/pHBaGjeEHE3pCfmOWyBxvRThu0HiDK9K3jAhAN9dLka4c3zBDij-n0e9yY4LA6YjqYj2m4tBPjfoGoZunt2VCwTcDqtlWU5Km61x2IQ_T66olebgLn-yy1VodKww4Fn2YQuR_fwcJSAbR0MgsHkD0RY" alt=""><figcaption></figcaption></figure>
 
-### Market Maker Integration on Ethereum
+### Integração com Formadores de Mercado no Ethereum
 
-PancakeSwap is integrated with market makers on Ethereum and Binance Smart Chain to help traders execute trades at a lower cost.
+O PancakeSwap está integrado com formadores de mercado no Ethereum e na Binance Smart Chain para ajudar os traders a executarem negociações com menor custo.
 
-In addition to the AMM, trades on PancakeSwap can now be routed to designated white-listed market makers if they offer trade execution that is better than the AMM’s current prices. This routing is done automatically by a [Smart Router](smart-router-v2/) so that trades are only routed to market makers when they are actively quoting better prices. Where the AMM is more competitive, traders will be routed to the AMMs for execution.
+Além do AMM, as negociações no PancakeSwap agora podem ser roteadas para formadores de mercado autorizados na lista branca caso eles ofereçam execução de negociações com preços melhores do que os preços atuais do AMM. Esse roteamento é feito automaticamente pelo [Smart Router](smart-router-v2/) para que as negociações só sejam roteadas para os formadores de mercado quando eles estiverem ativamente cotando preços melhores. Onde o AMM for mais competitivo, os traders serão roteados para os AMMs.
 
-There are 2 scenarios in which market makers operate on PancakeSwap.
+Existem 2 cenários nos quais os formadores de mercado operam no PancakeSwap.
 
-**Scenario 1: Existing AMM liquidity pools**
+**Cenário 1: Pools de Liquidez AMM existentes**
 
-If PancakeSwap already has liquidity for a given token (e.g. WETH/USDC) in the AMM, PancakeSwap will ask market makers for a quote on the same trade. PancakeSwap’s smart router will then route the trade request to the AMM or the market makers depending on which source of liquidity is giving the best price at any given time.
+Se o PancakeSwap já tiver Liquidez para um determinado token (por exemplo, WETH/USDC) no AMM, o PancakeSwap solicitará uma cotação aos formadores de mercado para a mesma negociação. O Smart Router do PancakeSwap então roteará a solicitação de negociação para o AMM ou para os formadores de mercado, dependendo de qual fonte de Liquidez estiver oferecendo o melhor preço em um determinado momento.
 
-**Scenario 2: No existing AMM liquidity pools**
+**Cenário 2: Sem pools de Liquidez AMM existentes**
 
-In such a scenario, the smart router will automatically route the trade to the market makers. However, this does not stop projects from setting up their AMM liquidity pool subsequently and working with us to maintain decentralized DEX liquidity.
+Nesse cenário, o Smart Router roteará automaticamente a negociação para os formadores de mercado. No entanto, isso não impede que projetos configurem seu Pool de Liquidez AMM posteriormente e trabalhem conosco para manter a Liquidez DEX descentralizada.
 
-### Fees
+### Taxas
 
 <figure><img src="https://lh6.googleusercontent.com/FKgYOPK6ykAbonNz4naPupdPg4W5XocmUJOEYeH7MsmY-0TrkSepYB2qir4PGlfgY6CKTS0nOq5XIXzm3dO9wGr-9pvXz1NXLSGMg3Ff9IlqIokcHiNDsB9eaoy3l395TL-O71480hetL-iRq1ILhUw" alt=""><figcaption></figcaption></figure>
 
-PancakeSwap does not charge traders any fees executed through us and which are executed by the market makers. However, PancakeSwap receives **0.05%** **trading fees** from whitelisted market makers for volumes executed by them. PancakeSwap receives a reduced **0.01%** **trading fee** if the trades executed are between stablecoin pairs. Please refer to the fee breakdown below:<br>
+O PancakeSwap não cobra taxas dos traders executadas por meio de nós e que são executadas pelos formadores de mercado. No entanto, o PancakeSwap recebe **0,05%** **de taxas de negociação** dos formadores de mercado autorizados pelos volumes executados por eles. O PancakeSwap recebe uma **taxa de negociação** reduzida de **0,01%** se as negociações executadas forem entre pares de stablecoins. Consulte o detalhamento de taxas abaixo:<br>
 
-<table><thead><tr><th width="178">Trades</th><th width="138">Trading Fees</th><th width="182">PCS fee from MM</th><th width="147">Cake Burn</th><th align="center">Pancakeswap Treasury</th></tr></thead><tbody><tr><td>Bridged coins from other networks</td><td>N/A</td><td>0.25%</td><td>0.083%</td><td align="center">0.167%</td></tr><tr><td>Non-stablecoin on Ethereum (e.g. ETH/USDC)</td><td>N/A</td><td>0.05%</td><td>0.017%</td><td align="center">0.033%</td></tr><tr><td>Non-stablecoin on BSC (e.g. BNB/USDT)</td><td>N/A</td><td>0.05%</td><td>0.017% </td><td align="center">0.033%</td></tr><tr><td>Stablecoin to Stablecoin on Ethereum</td><td>N/A</td><td>0.01%</td><td>0.003%</td><td align="center">0.007%</td></tr></tbody></table>
+<table><thead><tr><th width="178">Negociações</th><th width="138">Taxas de Negociação</th><th width="182">Taxa PCS do MM</th><th width="147">Queima de CAKE</th><th align="center">Tesouro PancakeSwap</th></tr></thead><tbody><tr><td>Moedas com Bridge de outras redes</td><td>N/A</td><td>0,25%</td><td>0,083%</td><td align="center">0,167%</td></tr><tr><td>Não-stablecoin no Ethereum (ex: ETH/USDC)</td><td>N/A</td><td>0,05%</td><td>0,017%</td><td align="center">0,033%</td></tr><tr><td>Não-stablecoin na BSC (ex: BNB/USDT)</td><td>N/A</td><td>0,05%</td><td>0,017% </td><td align="center">0,033%</td></tr><tr><td>Stablecoin para Stablecoin no Ethereum</td><td>N/A</td><td>0,01%</td><td>0,003%</td><td align="center">0,007%</td></tr></tbody></table>
 
-#### Assets currently supported
+#### Ativos atualmente suportados
 
-The following assets are currently supported and may increase/decrease depending on the market maker(s):
+Os seguintes ativos são suportados atualmente e podem aumentar/diminuir dependendo dos formadores de mercado:
 
-**On Ethereum**
+**No Ethereum**
 
-* **Majors:** WETH, WBTC
+* **Principais:** WETH, WBTC
 * **Stablecoins:** USDT, USDC, DAI, BUSD
-* **Other popular ERC-20 assets:** MATIC, DYDX, CRV, LINK, APE, CVX, STG, LDO, SNX, RNDR, FET
+* **Outros ativos ERC-20 populares:** MATIC, DYDX, CRV, LINK, APE, CVX, STG, LDO, SNX, RNDR, FET
 
-**On Binance Smart Chain:**
+**Na Binance Smart Chain:**
 
-* **Majors:** BNB, ETH, BTCB
-* Non-native BNB tokens: ARB, OP
+* **Principais:** BNB, ETH, BTCB
+* Tokens BNB não nativos: ARB, OP
 
-Please note that unlike AMMs, market makers will not be able to trade at any amount and the amounts they are willing to execute will depend on their own liquidity. It is not unusual that sometimes very large orders cannot be totally fulfilled. We advise users to please review the quotes carefully to ensure that each trade reflects the price and quantity according to their needs.
+Observe que, ao contrário dos AMMs, os formadores de mercado não poderão negociar em qualquer valor, e os valores que estão dispostos a executar dependerão de sua própria Liquidez. Não é incomum que às vezes ordens muito grandes não possam ser totalmente preenchidas. Aconselhamos os usuários a revisar cuidadosamente as cotações para garantir que cada negociação reflita o preço e a quantidade de acordo com suas necessidades.
 
-**Market maker downtimes**
+**Períodos de inatividade dos formadores de mercado**
 
-Market makers are not expected to quote 24-7. There are some instances (e.g. key economic events, system upgrades) where the market maker may be temporarily unavailable to provide a quote. Please note during these periods, these tokens will simply not be tradable, and we advise users to wait for some time before the market maker comes back online.
+Não se espera que os formadores de mercado cotem 24 horas por dia, 7 dias por semana. Há alguns casos (por exemplo, eventos econômicos importantes, atualizações de sistema) em que o formador de mercado pode estar temporariamente indisponível para fornecer uma cotação. Observe que durante esses períodos, esses tokens simplesmente não serão negociáveis, e aconselhamos os usuários a aguardar algum tempo antes que o formador de mercado volte online.
 
 #### FAQs
 
-**Q.** Will the market makers be integrated on Aptos?
+**P.** Os formadores de mercado serão integrados no Aptos?
 
-**Ans:** Possibly, we are only launching market makers integration on Ethereum and Binance Smart Chain for now to boost the liquidity for a better user experience. We will continue to monitor other chains.
+**R:** Possivelmente. Estamos lançando a integração com formadores de mercado apenas no Ethereum e na Binance Smart Chain por enquanto para impulsionar a Liquidez para uma melhor experiência do usuário. Continuaremos a monitorar outras redes.
 
-**Q.** How will PancakeSwap generate revenue if it does not charge users a fee?
+**P.** Como o PancakeSwap gerará receita se não cobra taxa dos usuários?
 
-**Ans:** PancakeSwap will not charge any fees from users, but PancakeSwap will receive a small commission from market makers and use that to fund the CAKE buyback and burn.
+**R:** O PancakeSwap não cobrará nenhuma taxa dos usuários, mas receberá uma pequena comissão dos formadores de mercado e a usará para financiar a recompra e queima de CAKE.
 
-**Q.** Will Liquidity providers continue to earn LP fees?
+**P.** Os provedores de Liquidez continuarão a ganhar taxas LP?
 
-**Ans:** Yes, liquidity providers will continue to earn 0.17% trading fee reward (LP fees) and yield on the CAKE farms.
+**R:** Sim, os provedores de Liquidez continuarão a ganhar 0,17% de recompensa de taxa de negociação (taxas LP) e rendimento nas Farms de CAKE.
 
-**Q.** Will the market makers add liquidity to the AMM? Will that cause APR to go down?
+**P.** Os formadores de mercado adicionarão Liquidez ao AMM? Isso causará queda no APR?
 
-**Ans:** Market makers maintain their own separate liquidity, and hence won’t be earning any APR from trades on the AMM. Only LPs will earn fees and APRs from providing liquidity to the AMM pools.
+**R:** Os formadores de mercado mantêm sua própria Liquidez separada e, portanto, não ganharão nenhum APR com negociações nos pools AMM. Apenas os LPs ganharão taxas e APRs por fornecerem Liquidez aos pools AMM.
 
-**Q.** I’m providing liquidity on Ethereum PancakeSwap. Do I need to do anything?
+**P.** Estou fornecendo Liquidez no PancakeSwap no Ethereum. Preciso fazer algo?
 
-**Ans:** No, You don’t have to do anything. You will continue to earn the LP fees for the trades executed through AMM and will continue to make the yield in CAKE.
+**R:** Não, você não precisa fazer nada. Você continuará a ganhar as taxas LP pelas negociações executadas por meio do AMM e continuará a obter rendimento em CAKE.
 
-**Q.** How can someone become a market maker?
+**P.** Como alguém pode se tornar um formador de mercado?
 
-**Ans:** We screen and work with market makers on an individual basis. Please approach us directly or through our admins if you have an interest in working with us.
+**R:** Avaliamos e trabalhamos com formadores de mercado individualmente. Entre em contato conosco diretamente ou por meio de nossos administradores se tiver interesse em trabalhar conosco.

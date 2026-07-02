@@ -1,63 +1,63 @@
-# ALP Buying & Selling Fees
+# Taxas de Compra e Venda do ALP
 
-## Buying fee:
+## Taxa de Compra:
 
-Basic Rate Parameter 1: FeeBasisPoints，USDT is currently set at 0.25%
+Parâmetro de Taxa Base 1: FeeBasisPoints, USDT atualmente definido em 0,25%
 
-Basic Rate Parameter 2: TaxBasisPoints，USDT is currently set at 0.05%
+Parâmetro de Taxa Base 2: TaxBasisPoints, USDT atualmente definido em 0,05%
 
-The current asset value: InitialValue=AssetValueInPool+AssetUnrealizedpnl\_usd
+O valor atual do ativo: InitialValue=AssetValueInPool+AssetUnrealizedpnl\_usd
 
-The current asset value after minting: AfterMinValue=InitialValue+MinValue
+O valor atual do ativo após a cunhagem: AfterMinValue=InitialValue+MinValue
 
-Calculate the Asset value according to the target weight: TargetValue=(Total Value\_usd+totalUnrealizedpnl\_Usd)\*Target weight，Total Value=sum(InitialValue)
+Calcule o valor do ativo de acordo com o peso alvo: TargetValue=(Total Value\_usd+totalUnrealizedpnl\_Usd)\*Peso alvo，Total Value=sum(InitialValue)
 
 
 
-The current Asset value and the target value (absolute value): InitialDiff=InitialValue-TargetValue
+A diferença entre o valor atual do ativo e o valor alvo (valor absoluto): InitialDiff=InitialValue-TargetValue
 
-After Minting, the asset value and target mechanism (absolute value): AfterDiff=AfterMintValue-TargetValue
+Após a Cunhagem, a diferença entre o valor do ativo e o mecanismo alvo (valor absoluto): AfterDiff=AfterMintValue-TargetValue
 
-* if AfterDiff\<InitialDiffValue&#x20;
+* se AfterDiff\<InitialDiffValue&#x20;
 
 MintFee=Max(FeeBasisPoints-TaxBasisPoints\*InitialDiff/TargetValue，0)
 
-* if AfterDiff>=InitialDiff&#x20;
+* se AfterDiff>=InitialDiff&#x20;
 
 MintFee=FeeBasisPoints+TaxBasisPoints\*Min((InitialDiff+AfterDiff)/2,TargetValue)/TargetValue
 
-## Selling fee:
+## Taxa de Venda:
 
-Basic Rate Parameter 1: FeeBasisPoints，USDT is currently set at 0.25%
+Parâmetro de Taxa Base 1: FeeBasisPoints, USDT atualmente definido em 0,25%
 
-Max Base Rate Parameter 2: TaxBasisPoints，USDT is currently set at 0.05%
+Parâmetro de Taxa Base Máxima 2: TaxBasisPoints, USDT atualmente definido em 0,05%
 
-The current asset value: InitialValue=AssetValueInPool+AssetUnreliazedpnl\_usd
+O valor atual do ativo: InitialValue=AssetValueInPool+AssetUnreliazedpnl\_usd
 
-The current asset value after Burn: AfterMaxValue=InitialValue-MinValue
+O valor atual do ativo após a Queima: AfterMaxValue=InitialValue-MinValue
 
-Calculating the Asset value according to the target weight: TargetValue=Total Value\*Target weight
-
-
-
-The current asset value and target value (absolute value): InitialDiff=InitialValue-TargetValue
+Calculando o valor do ativo de acordo com o peso alvo: TargetValue=Total Value\*Peso alvo
 
 
 
-After Burn, the asset value and target mechanism (absolute value): AfterMaxDiff=AfterBurnValue-TargetValue
+A diferença entre o valor atual do ativo e o valor alvo (valor absoluto): InitialDiff=InitialValue-TargetValue
 
-* if AfterDiff\<InitialDiffValue
+
+
+Após a Queima, a diferença entre o valor do ativo e o mecanismo alvo (valor absoluto): AfterMaxDiff=AfterBurnValue-TargetValue
+
+* se AfterDiff\<InitialDiffValue
 
 BurnFee=Max(FeeBasisPoints-MTaxBasisPoints\*InitialDiff/TargetValue，0)
 
-* if AfterDiff>=InitialDiff&#x20;
+* se AfterDiff>=InitialDiff&#x20;
 
 BurnFee=FeeBasisPoints+TaxBasisPoints\*Min((InitialDiff+AfterDiff)/2,TargetValue)/TargetValue<br>
 
-For example:
+Por exemplo:
 
-If the value of the ALP pool is $10,000,000, the unrealized PnL is $+10,000, the value of BTC in the liquidity pool is $1,000;
+Se o valor do pool ALP for $10.000.000, o PnL não realizado for $+10.000, e o valor do BTC no pool de liquidez for $1.000;
 
-The BTC target weight is 2%, and the current weight is 0.01%. The base rate parameter 1 of BTC is 0.25%, and the base rate parameter 2 is 0.45%.
+O peso alvo do BTC é 2%, e o peso atual é 0,01%. O parâmetro de taxa base 1 do BTC é 0,25%, e o parâmetro de taxa base 2 é 0,45%.
 
-According to the calculation, the rate of buying ALP with 1 BTC at this time is 0% = 0 BTC. The transaction fee for selling ALP to get 1 BTC is 0.7% = 0.007BTC.
+De acordo com o cálculo, a taxa de compra de ALP com 1 BTC neste momento é de 0% = 0 BTC. A taxa de transação para vender ALP para obter 1 BTC é de 0,7% = 0,007BTC.

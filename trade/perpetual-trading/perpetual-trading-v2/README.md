@@ -1,29 +1,29 @@
 ---
-description: What's new in V2?
+description: O que há de novo na V2?
 ---
 
-# Perpetual Trading V2
+# Trading Perpétuo V2
 
-In Pancakeswap Perpetuals V2, we've streamlined our interface by **removing the order book and market depth displays**. Instead, our partners Aster have introduced the ALP pool, which now provides liquidity for all trading pairs, maximizing your capital usage. The ALP pool will actively participate in the market-making process for our V2 perpetual contracts. Please [visit this page](https://docs.asterdex.com/product/asterex-simple/price-oracles) to read more on the V2 low latency oracle model.
+No PancakeSwap Perpetuals V2, simplificamos nossa interface **removendo o order book e as exibições de profundidade de mercado**. Em vez disso, nossos parceiros Aster introduziram o pool ALP, que agora fornece liquidez para todos os pares de trading, maximizando o uso do seu capital. O pool ALP participará ativamente do processo de formação de mercado para nossos contratos perpétuos V2. Visite [esta página](https://docs.asterdex.com/product/asterex-simple/price-oracles) para ler mais sobre o modelo de oracle de baixa latência da V2.
 
-The new mechanism will bring added benefits to Pancakeswap Perpetual Users:
+O novo mecanismo trará benefícios adicionais para os usuários do PancakeSwap Perpetuals:
 
-#### Enhanced Security
+#### Segurança Aprimorada
 
-By tapping into Pyth, Binance Oracle and Chainlink price feeds, we dodge any unexpected price behaviours due to manipulation or scarce liquidity from either Oracle source. This savvy move keeps those surprise liquidations at bay.
+Ao utilizar os feeds de preço Pyth, Binance Oracle e Chainlink, evitamos comportamentos de preço inesperados devido à manipulação ou liquidez escassa de qualquer fonte de Oracle. Essa medida inteligente mantém as Liquidações surpresa à distância.
 
-#### Self-Custody Freedom
+#### Liberdade de Autocustódia
 
-No more tedious deposits and withdrawals to trade with Pancakeswap Perpertuals V2. Users will trade fully on-chain, and no deposit and withdrawal requirements exist. Users can be assured that no protocol can manage, increase or reduce trading positions outside of a liquidation event.
+Não há mais depósitos e saques tediosos para negociar com o PancakeSwap Perpetuals V2. Os usuários negociarão totalmente onchain, e não existem requisitos de depósito e saque. Os usuários podem ter certeza de que nenhum protocolo pode gerenciar, aumentar ou reduzir posições de trading fora de um evento de Liquidação.
 
-#### Higher Liquidity
+#### Maior Liquidez
 
-Trading pairs on the platform share liquidity via the ALP pool. Hence, adding liquidity for each newly listed trading pair is not required separately. Capital efficiency is maximized and users can open bigger position sizes.
+Os pares de trading na plataforma compartilham liquidez por meio do pool ALP. Portanto, não é necessário adicionar liquidez para cada novo par de trading listado separadamente. A eficiência do capital é maximizada e os usuários podem abrir posições maiores.
 
-#### More Pairs
+#### Mais Pares
 
-With Perpetuals V2 consolidating liquidity for all trading pairs into one pool, users can expect more trading pairs from potentially different asset classes moving forward. At launch, V2 will support BTCUSD, ETHUSD and BNBUSD pairs for cryptocurrencies and Forex pairs EURUSD and GBPUSD. More pairs will be rollout in the coming months.
+Com o Perpetuals V2 consolidando a liquidez para todos os pares de trading em um único pool, os usuários podem esperar mais pares de trading de potencialmente diferentes classes de ativos no futuro. No lançamento, a V2 suportará os pares BTCUSD, ETHUSD e BNBUSD para criptomoedas e os pares Forex EURUSD e GBPUSD. Mais pares serão lançados nos próximos meses.
 
 {% hint style="success" %}
-**PancakeSwap Perpetuals V2 is now available on BNB Chain, Arbitrum, opBNB and Base.**
+**O PancakeSwap Perpetuals V2 está agora disponível em BNB Chain, Arbitrum, opBNB e Base.**
 {% endhint %}

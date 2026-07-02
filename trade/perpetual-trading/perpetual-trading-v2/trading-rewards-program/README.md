@@ -1,76 +1,76 @@
 ---
-description: ApolloX will launch Trading Rewards Program on V2
+description: A ApolloX lançará o Programa de Recompensas de Trading na V2
 hidden: true
 ---
 
-# Trading Rewards Program
+# Programa de Recompensas de Trading
 
-### Reward Program Overview
+### Visão Geral do Programa de Recompensas
 
-The details are as follows:
+Os detalhes são os seguintes:
 
-Activity period: Dates vary from cycle to cycle and for different chains
+Período de atividade: As datas variam de ciclo para ciclo e para diferentes chains
 
-Rewards Distribution Time: Each cycle is 00:00 (UTC) to 23:59 (UTC) daily. Rewards are issued on the next day at around 03:00 (UTC). Users have to claim their rewards within 30 days after the rewards are issued. If they do not, the platform will revoke the rewards.&#x20;
+Tempo de Distribuição de Recompensas: Cada ciclo é de 00:00 (UTC) a 23:59 (UTC) diariamente. As recompensas são emitidas no dia seguinte por volta das 03:00 (UTC). Os usuários devem reivindicar suas recompensas dentro de 30 dias após as recompensas serem emitidas. Caso contrário, a plataforma revogará as recompensas.&#x20;
 
-Reward amount: Capped at $15,000 USD worth of APX per day
+Valor da recompensa: Limitado a $15.000 USD em APX por dia
 
-Activity rules: Users who trade on V2 earn from a reward prize pool. Those who stake APX in DAO to obtain veNFT will enjoy boosting multipliers corresponding to the Power value calculated from the veNFT.&#x20;
+Regras de atividade: Os usuários que negociam na V2 ganham de um pool de prêmios de recompensas. Aqueles que fazem staking de APX no DAO para obter veNFT desfrutarão de multiplicadores de impulso correspondentes ao valor de Poder calculado a partir do veNFT.&#x20;
 
-| Power Value               | Boosting Multiplier  |
-| ------------------------- | -------------------- |
-| 50,000 < Power =<100,000  | 1.5                  |
-| 100,000 < Power =<300,000 | 2                    |
-| Power > 300,000           | 2.5                  |
+| Valor de Poder                | Multiplicador de Impulso |
+| ----------------------------- | ------------------------ |
+| 50.000 < Poder =<100.000      | 1,5                      |
+| 100.000 < Poder =<300.000     | 2                        |
+| Poder > 300.000               | 2,5                      |
 
-Trading Rewards calculation formula:&#x20;
+Fórmula de cálculo das Recompensas de Trading:&#x20;
 
-At the end of each trading reward cycle, the user’s effective trading fees and staking amount in that cycle will be calculated to determine the weightage and amount of APX rewards. The formula is as follows:
+Ao final de cada ciclo de recompensas de trading, as taxas de trading efetivas e o valor de staking do usuário naquele ciclo serão calculados para determinar o peso e o valor das recompensas em APX. A fórmula é a seguinte:
 
 r = R\*W / sum(Wi)
 
 
 
-Parameters:
+Parâmetros:
 
-| r       | User’s APX reward for this cycle                                                                                                                                                                                                                                                                                        |
-| ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| R       | Determined by the user’s V2 trading fee contribution on the previous day and latest APX token price                                                                                                                                                                                                                     |
-| W       | <p>Individual total weight score W=f*w, where;</p><p>f refers to the effective trading fees contributed by the user in this cycle, which will be converted into USD.</p><p>w is the Boosting Multiplier obtained by the user in this cycle from staking APX in DAO. (Refer to the above table for more information)</p> |
-| sum(Wi) | The total score of all users. Wi represents any individual user’s score, and sum(Wi) represents the sum of all user scores                                                                                                                                                                                              |
+| r       | Recompensa em APX do usuário para este ciclo                                                                                                                                                                                                                                                                                                          |
+| ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| R       | Determinado pela contribuição em taxas de trading V2 do usuário no dia anterior e pelo preço mais recente do token APX                                                                                                                                                                                                                               |
+| W       | <p>Pontuação de peso total individual W=f*w, onde;</p><p>f refere-se às taxas de trading efetivas contribuídas pelo usuário neste ciclo, que serão convertidas em USD.</p><p>w é o Multiplicador de Impulso obtido pelo usuário neste ciclo ao fazer staking de APX no DAO. (Consulte a tabela acima para mais informações)</p> |
+| sum(Wi) | A pontuação total de todos os usuários. Wi representa a pontuação de qualquer usuário individual, e sum(Wi) representa a soma de todas as pontuações dos usuários                                                                                                                                                                                     |
 
 &#x20;
 
-The calculation formula for R is as follows:
+A fórmula de cálculo para R é a seguinte:
 
-R=Min(Dollar value multiplier \* Trading Fee, Dollar value Cap)/ Max(APX Last Price,APX Price Floor)
+R=Min(multiplicador de valor em dólar \* Taxa de Trading, Limite de valor em dólar)/ Max(Último Preço APX, Preço Mínimo APX)
 
-* Dollar value multiplier: 0.70 this epoch
-* Trading Fee: Value of previous day’s V2 fee income converted into USD
-* Dollar value Cap: 15,000 based on system configuration
-* APX Last Price: Based on latest APX token price
-* APX Price Floor: 0.04 this epoch
+* Multiplicador de valor em dólar: 0,70 nesta época
+* Taxa de Trading: Valor da receita de taxa V2 do dia anterior convertida em USD
+* Limite de valor em dólar: 15.000 baseado na configuração do sistema
+* Último Preço APX: Baseado no preço mais recente do token APX
+* Preço Mínimo APX: 0,04 nesta época
 
-Terms and Conditions
+Termos e Condições
 
-* After the end of each cycle, ApolloX may adjust the program rules according to users’ feedback and market conditions. Rewards will be released non-linearly.
-* During the activity, the platform will reduce the percentage of V2 trading fee income injected into the ALP pool from 50% to 20%. The remaining 30% will be used to repurchase APX.
-* Due to the difference in trading fees for each trading pair on V2, the rewards users receive may vary even though their effective trading volumes are the same.
-* The rewards to be distributed for each cycle will be stored in the following contract address: 0x6bE863e01E17A226c945e3629D0D9Cb6E52Ce90E
-* ApolloX reserves the right of final interpretation for this activity.
+* Após o fim de cada ciclo, a ApolloX pode ajustar as regras do programa de acordo com o feedback dos usuários e as condições de mercado. As recompensas serão liberadas de forma não-linear.
+* Durante a atividade, a plataforma reduzirá a porcentagem da receita de taxa de trading V2 injetada no pool ALP de 50% para 20%. Os 30% restantes serão usados para recomprar APX.
+* Devido à diferença nas taxas de trading para cada par de trading na V2, as recompensas que os usuários recebem podem variar mesmo que seus volumes de trading efetivos sejam iguais.
+* As recompensas a serem distribuídas para cada ciclo serão armazenadas no seguinte endereço de contrato: 0x6bE863e01E17A226c945e3629D0D9Cb6E52Ce90E
+* A ApolloX reserva o direito de interpretação final para esta atividade.
 
-Risk Warning: Crypto futures trading carries a substantial risk. All trading activities are done at your discretion and at your own risk. The information here should not be regarded as financial or investment advice from ApolloX. ApolloX will not be liable for any loss that might arise from your use of ApolloX.
+Aviso de Risco: O trading de futuros de criptomoedas carrega um risco substancial. Todas as atividades de trading são feitas a seu critério e por sua conta e risco. As informações aqui não devem ser consideradas como conselho financeiro ou de investimento da ApolloX. A ApolloX não será responsável por qualquer perda que possa surgir do seu uso da ApolloX.
 
-### Claiming Rewards
+### Resgatando Recompensas
 
-As the trading reward program is hosted by our friends at ApolloX, please proceed with the following steps to claim your reward:\
+Como o programa de recompensas de trading é hospedado por nossos amigos da ApolloX, siga os seguintes passos para resgatar sua recompensa:\
 \
-Step 1: Head to our [PancakeSwap Perpetuals Page](https://perp.pancakeswap.finance/en/futures/v2/)
+Passo 1: Vá para nossa [Página de Perpetuals do PancakeSwap](https://perp.pancakeswap.finance/en/futures/v2/)
 
-Step 2: Click the Trading Reward (V2) tab at the top of the page
+Passo 2: Clique na aba Trading Reward (V2) no topo da página
 
-<figure><img src="../../../../.gitbook/assets/Trading Reward.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Trading%20Reward.png" alt=""><figcaption></figcaption></figure>
 
-Step 3: You'll be redirected to ApolloX rewards claim page to check your current reward status. Click "Claim" to claim your rewards during the activity period.
+Passo 3: Você será redirecionado para a página de resgate de recompensas da ApolloX para verificar seu status de recompensa atual. Clique em "Resgatar" para resgatar suas recompensas durante o período de atividade.
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2023-06-29 at 10.26.11 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202023-06-29%20at%2010.26.11%20AM.png" alt=""><figcaption></figcaption></figure>

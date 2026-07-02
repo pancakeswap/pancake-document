@@ -4,53 +4,53 @@ hidden: true
 
 # Dumb Mode
 
-### Overview
+### Visão Geral
 
-[**Dumb Mode**](https://perp.pancakeswap.finance/en/futures/v2/BTCUSD?theme=light\&chain=bsc) on PancakeSwap Perpetuals offers a simplified trading experience, ideal for traders who prefer to trade on the minute-by-minute fluctuations of an underlying asset’s value. Dumb Mode simplifies trading by reducing the noise, allowing users to enter and exit short-term positions easily.
+O [**Dumb Mode**](https://perp.pancakeswap.finance/en/futures/v2/BTCUSD?theme=light\&chain=bsc) no PancakeSwap Perpetuals oferece uma experiência de trading simplificada, ideal para traders que preferem negociar nas flutuações minuto a minuto do valor de um ativo subjacente. O Dumb Mode simplifica o trading reduzindo o ruído, permitindo que os usuários entrem e saiam de posições de curto prazo facilmente.
 
-### How It Works
+### Como Funciona
 
-Users are given a selection of 5-minute, 15-minute, 30-minute and 1-hour expiration windows with different return-on-investment ratios. Users can choose to long or short an underlying asset.
+Os usuários recebem uma seleção de janelas de expiração de 5 minutos, 15 minutos, 30 minutos e 1 hora com diferentes proporções de retorno sobre o investimento. Os usuários podem escolher fazer long ou short de um ativo subjacente.
 
-At the end of the expiration period, if the underlying asset is in a winning position (price greater than open price for long, price lower than open price for short), users will stand to profit.
+Ao final do período de expiração, se o ativo subjacente estiver em uma posição vencedora (preço maior que o preço de abertura para long, preço menor que o preço de abertura para short), os usuários poderão lucrar.
 
-Each expiration period has a different return-on-investment (ROI). The longer the expiration period, the higher the ROI. Percentages and fees are as follows:<br>
+Cada período de expiração tem um retorno sobre o investimento (ROI) diferente. Quanto maior o período de expiração, maior o ROI. As porcentagens e taxas são as seguintes:<br>
 
-| Expiration Period | Winning ROI (Net of fees)\* | Losing ROI | Fees (on Winning) |
-| ----------------- | --------------------------- | ---------- | ----------------- |
-| 5 minutes         | 50%                         | -100%      | 6% on collateral  |
-| 15 minutes        | 55%                         | -100%      | 6% on collateral  |
-| 30 minutes        | 70%                         | -100%      | 6% on collateral  |
-| 1 hour            | 83%                         | -100%      | 6% on collateral  |
+| Período de Expiração | ROI Vencedor (líquido de taxas)\* | ROI Perdedor | Taxas (em ganhos) |
+| -------------------- | --------------------------------- | ------------ | ----------------- |
+| 5 minutos            | 50%                               | -100%        | 6% do colateral   |
+| 15 minutos           | 55%                               | -100%        | 6% do colateral   |
+| 30 minutos           | 70%                               | -100%        | 6% do colateral   |
+| 1 hora               | 83%                               | -100%        | 6% do colateral   |
 
-\*Winning ROI may be adjusted occasionally depending on market conditions. Please check this page for any updates
+\*O ROI vencedor pode ser ajustado ocasionalmente dependendo das condições de mercado. Verifique esta página para quaisquer atualizações
 
-For example, in the following scenario:
+Por exemplo, no seguinte cenário:
 
-* Position Selected: Long
-* Collateral Placed: 100 USDT
-* Expiration Period: 60 seconds
-* BTCUSD price at open: $50,000
-* BTCUSD price after 60s: $50,001
+* Posição Selecionada: Long
+* Colateral Colocado: 100 USDT
+* Período de Expiração: 60 segundos
+* Preço BTCUSD na abertura: $50.000
+* Preço BTCUSD após 60s: $50.001
 
-User will profit **100USDT \* 75%= 75USDT**
+O usuário lucrará **100USDT \* 75%= 75USDT**
 
-For more information on how to open a Dumb Mode position, click [here](dumb-mode-guide.md).
+Para mais informações sobre como abrir uma posição no Dumb Mode, clique [aqui](dumb-mode-guide.md).
 
-### Markets and Margin Assets
+### Mercados e Ativos de Margem
 
-Dumb Mode supports trading in the following markets and margin assets on **BNB Chain**:
+O Dumb Mode suporta trading nos seguintes mercados e ativos de margem na **BNB Chain**:
 
-<table data-header-hidden><thead><tr><th width="330"></th><th></th></tr></thead><tbody><tr><td>Market</td><td>Margin Assets</td></tr><tr><td><p>BTCUSD</p><p>ETHUSD</p><p>CAKEUSD</p><p>BNBUSD</p><p>SOLUSD</p></td><td><p>USDC</p><p>USDT</p><p>CAKE</p><p>ETH</p><p>BTC</p><p>HAY</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="330"></th><th></th></tr></thead><tbody><tr><td>Mercado</td><td>Ativos de Margem</td></tr><tr><td><p>BTCUSD</p><p>ETHUSD</p><p>CAKEUSD</p><p>BNBUSD</p><p>SOLUSD</p></td><td><p>USDC</p><p>USDT</p><p>CAKE</p><p>ETH</p><p>BTC</p><p>HAY</p></td></tr></tbody></table>
 
-Dumb Mode supports trading in the following markets and margin assets on **Arbitrum, opBNB and Base Chains**:
+O Dumb Mode suporta trading nos seguintes mercados e ativos de margem nas **Chains Arbitrum, opBNB e Base**:
 
-<table data-header-hidden><thead><tr><th width="330"></th><th></th></tr></thead><tbody><tr><td>Market</td><td>Margin Assets</td></tr><tr><td><p>BTCUSD</p><p>ETHUSD</p></td><td><p>USDC</p><p>USDT</p><p>ETH</p><p>BTC</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="330"></th><th></th></tr></thead><tbody><tr><td>Mercado</td><td>Ativos de Margem</td></tr><tr><td><p>BTCUSD</p><p>ETHUSD</p></td><td><p>USDC</p><p>USDT</p><p>ETH</p><p>BTC</p></td></tr></tbody></table>
 
-Support for more assets/chains is in development.
+O suporte para mais ativos/chains está em desenvolvimento.
 
-### Fees
+### Taxas
 
-A fee of **6%** of the principal or collateral is charged in case of a winning trade. This is already calculated before ROI.
+Uma taxa de **6%** do principal ou colateral é cobrada em caso de trade vencedor. Isso já é calculado antes do ROI.
 
 <br>

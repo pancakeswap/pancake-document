@@ -1,10 +1,10 @@
-# MADBTCUSD FAQ
+# FAQ do MADBTCUSD
 
-### How is MADBTCUSD Index Calculated?
+### Como o Índice MADBTCUSD é Calculado?
 
-MADBTCUSD is calculated based on the following formula:
+O MADBTCUSD é calculado com base na seguinte fórmula:
 
-**MADBTCUSD Index**
+**Índice MADBTCUSD**
 
 $$
 \begin{align*}
@@ -20,49 +20,49 @@ $$
 
 
 
-where:
+onde:
 
-* Initial Sn=1000 &#x20;
+* Sn inicial=1000 &#x20;
 * dt=1
-* expected vol：100%(expected vol is the expected time volatility of the MADBTC)
-* the "**Random number**" is calculated based on the current **BTC price with 8 decimal places of precision**
+* vol esperado：100% (o vol esperado é a volatilidade temporal esperada do MADBTC)
+* o "**Número aleatório**" é calculado com base no **preço atual do BTC com 8 casas decimais de precisão**
 
-**Calculation of Random Number:**
+**Cálculo do Número Aleatório:**
 
 ```python
 import hashlib
 from decimal import Decimal
 
-# Assume the current price of Bitcoin is 48923.56789101
+# Assuma que o preço atual do Bitcoin é 48923.56789101
 bitcoin_price = Decimal("48923.56789101")
 
-# Calculate the SHA-256 hash of the Bitcoin price
+# Calcule o hash SHA-256 do preço do Bitcoin
 price_hash = hashlib.sha256(str(bitcoin_price).encode('utf-8')).hexdigest()
 
-# Extract the first 8 hexadecimal numbers from the hash
+# Extraia os primeiros 8 números hexadecimais do hash
 hash_substring = price_hash[:8]
 
-# Converts a hexadecimal string to an integer
+# Converte uma string hexadecimal em um inteiro
 hash_integer = int(hash_substring, 16)
 
-# Divide the integer by 4294967296 (the decimal number corresponding to the hexadecimal number FFFFFFFF) to get a num
+# Divide o inteiro por 4294967296 (o número decimal correspondente ao número hexadecimal FFFFFFFF) para obter um num
 random_number = hash_integer / 4294967296
-# Print the random number
+# Imprima o número aleatório
 print(random_number)
 ```
 
-If the random number determined is 0, it will be recalculated again
+Se o número aleatório determinado for 0, ele será recalculado novamente
 
-### Where can I cross-verify the BTC and MADBTCUSD historical price?
+### Onde posso verificar o histórico de preços do BTC e MADBTCUSD?
 
-The BTC and MADBTCUSD price feed can be found here:
+O feed de preços do BTC e MADBTCUSD pode ser encontrado aqui:
 
 [BTCUSD](https://www.apollox.finance/bapi/futures/v1/public/future/apx/V2MarkPriceKline?symbol=BTCUSD\&limit=1800)
 
 [MADBTCUSD](https://www.apollox.finance/bapi/futures/v1/public/future/apx/V2MarkPriceKline?symbol=MADBTCUSD\&limit=1800)
 
-### Historical backtest data of BTC & MADBTC
+### Dados históricos de backtest do BTC e MADBTC
 
-To cross-verify the BTC & MADBTC historical prices, we've provided a backtest graph below.&#x20;
+Para verificar os preços históricos do BTC e MADBTC, fornecemos um gráfico de backtest abaixo.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/photo_2023-10-26_19-24-40.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/photo_2023-10-26_19-24-40.jpg" alt=""><figcaption></figcaption></figure>

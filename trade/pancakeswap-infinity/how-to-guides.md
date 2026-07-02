@@ -2,17 +2,17 @@
 hidden: true
 ---
 
-# How-To Guides
+# Guias Práticos
 
-#### 1. How to Swap on PancakeSwap Infinity?
+#### 1. Como fazer Swap no PancakeSwap Infinity?
 
-#### 2. How to Add Liquidity to CLAMM pools?
+#### 2. Como adicionar Liquidez a pools CLAMM?
 
-#### 3. How to Add Liquidity to LBAMM pools?
+#### 3. Como adicionar Liquidez a pools LBAMM?
 
-#### 4. How to Farm on PancakeSwap Infinity?
+#### 4. Como fazer Farm no PancakeSwap Infinity?
 
-#### 5. How to create an Infinity pool?
+#### 5. Como criar um pool Infinity?
 
 
 

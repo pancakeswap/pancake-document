@@ -1,43 +1,43 @@
-# How to use PancakeSwap X
+# Como usar o PancakeSwap X
 
-PancakeSwap X is built directly into the familiar “Swap” interface and enabled for all users by default. To use PancakeSwap X, simply head to the [Swap](https://pancakeswap.finance/swap) page and start trading.
+O PancakeSwap X está integrado diretamente à interface familiar de "Swap" e habilitado para todos os usuários por padrão. Para usar o PancakeSwap X, basta acessar a página de [Swap](https://pancakeswap.finance/swap) e começar a negociar.
 
-### Enable PancakeSwap X
+### Habilitar PancakeSwap X
 
-<figure><img src="../../.gitbook/assets/image (470).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28470%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-In case X is not enabled. Click the settings icon in “Route” to open the settings modal, and then click “Customise Routing” to bring up the routing preference.
+Caso o X não esteja habilitado. Clique no ícone de configurações em "Rota" para abrir o modal de configurações e, em seguida, clique em "Personalizar Roteamento" para abrir a preferência de roteamento.
 
-Within the “Customize Routing” modal, there will be a new switch for toggling PancakeSwap X for trade routes. Simply click or tap to toggle it on.
+No modal "Personalizar Roteamento", haverá um novo interruptor para ativar o PancakeSwap X para rotas de negociação. Basta clicar ou tocar para ativá-lo.
 
-<figure><img src="../../.gitbook/assets/image (471).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28471%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Once toggled, you may head back to the main Swap page. If the current Swap is available for PancakeSwap X, an indicator will show up in the “Route” section. With price impact and fees all being 0.
+Uma vez ativado, você pode voltar à página principal de Swap. Se o Swap atual estiver disponível para PancakeSwap X, um indicador será exibido na seção "Rota", com impacto de preço e taxas iguais a 0.
 
-Please note that PancakeSwap X is not available for all the swaps. Its availability is subject to input, and output tokens, as well as the trade size and the network. If the swap can not be processed by PancakeSwap X, it will be routed through the AMM liquidity pools.
+Observe que o PancakeSwap X não está disponível para todos os Swaps. Sua disponibilidade depende dos tokens de entrada e saída, bem como do tamanho da negociação e da rede. Se o Swap não puder ser processado pelo PancakeSwap X, ele será roteado pelos pools de Liquidez AMM.
 
-When a trade is going through PancakeSwap X, it will be highlighted in the “Route” section.
+Quando uma negociação está passando pelo PancakeSwap X, ela será destacada na seção "Rota".
 
-### Submit Order
+### Enviar Ordem
 
-<figure><img src="../../.gitbook/assets/image (472).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28472%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-To submit the order, click “Swap”, then verify all the parameters in the “Confirm Swap” modal. If everything looks good, click “Confirm Swap” to continue.
+Para enviar a ordem, clique em "Swap" e, em seguida, verifique todos os parâmetros no modal "Confirmar Swap". Se tudo estiver correto, clique em "Confirmar Swap" para continuar.
 
-If you haven’t approved the input token, your wallet will prompt you to approve. Please note that although swapping through PancakeSwap X does not require any gas token, approving for token spending does require gas.
+Se você ainda não aprovou o token de entrada, sua Carteira solicitará que você aprove. Observe que, embora fazer Swap pelo PancakeSwap X não exija nenhum token de gas, aprovar o gasto de tokens requer gas.
 
-After token approval, another wallet popup will appear to ask for signing on the order. Simple click “Confirm” to proceed. No gas cost or onchain transaction will be involved.
+Após a aprovação do token, outro popup de Carteira aparecerá pedindo para assinar a ordem. Basta clicar em "Confirmar" para prosseguir. Nenhum custo de gas ou transação on-chain será envolvido.
 
-Once the order is submitted, a modal with progress bar will appear. You may close the modal, while your order will continue to be filled in the background.
+Após o envio da ordem, um modal com barra de progresso será exibido. Você pode fechar o modal, enquanto sua ordem continuará sendo preenchida em segundo plano.
 
-<figure><img src="../../.gitbook/assets/image (473).png" alt="" width="367"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28473%29.png" alt="" width="367"><figcaption></figcaption></figure>
 
-Note that unlike regular AMM DEX liquidity pool swaps, once a PancakeSwap X order is submitted, it will take some time for the liquidity providers to respond and fill your order. It could take up to 2 minutes until the order is successfully filled.
+Observe que, ao contrário dos Swaps regulares de pools de Liquidez AMM DEX, uma vez que uma ordem PancakeSwap X é enviada, levará algum tempo para que os provedores de Liquidez respondam e preencham sua ordem. Pode levar até 2 minutos até que a ordem seja preenchida com sucesso.
 
-### Track your order status
+### Acompanhar o status da sua ordem
 
-To track your order status, open the wallet modal from wallet dropdown on top right. Click the “Transaction” button to bring up the list of orders. To see more detail of a specific order, simply click and open up the detail modal.
+Para acompanhar o status da sua ordem, abra o modal de Carteira no menu suspenso da Carteira no canto superior direito. Clique no botão "Transação" para exibir a lista de ordens. Para ver mais detalhes de uma ordem específica, basta clicar e abrir o modal de detalhes.
 
-<figure><img src="../../.gitbook/assets/image (474).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28474%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Once an order is successfully filled, you will see a green check mark on the order, while the purchased tokens being sent to your wallet automatically.
+Quando uma ordem for preenchida com sucesso, você verá uma marca de verificação verde na ordem, enquanto os tokens comprados serão enviados automaticamente para sua Carteira.

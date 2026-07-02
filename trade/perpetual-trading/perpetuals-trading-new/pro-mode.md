@@ -1,60 +1,60 @@
-# Pro Mode
+# Modo Pro
 
-Pro Mode gives you full control over your trades — order types, leverage, TP/SL, and position management all in one place. Follow the steps below to open your first position. For definitions of key terms, refer to the PCS Perps Glossary.
+O Modo Pro oferece controle total sobre seus trades — tipos de ordem, alavancagem, TP/SL e gerenciamento de posição, tudo em um só lugar. Siga os passos abaixo para abrir sua primeira posição. Para definições dos termos principais, consulte o Glossário do PCS Perps.
 
-### **Go to the PCS Perps page**
+### **Acesse a página do PCS Perps**
 
-Head to [pancakeswap.finance/perps](https://pancakeswap.finance/perps) or click Perps in the main PancakeSwap navigation bar.
+Vá para [pancakeswap.finance/perps](https://pancakeswap.finance/perps) ou clique em Perps na barra de navegação principal do PancakeSwap.
 
-### **Connect your wallet**
+### **Conecte sua carteira**
 
-Click Connect Wallet in the top right corner. No account creation or KYC required — your wallet is your account.
+Clique em Conectar Carteira no canto superior direito. Não é necessário criar conta ou passar por KYC — sua carteira é sua conta.
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt="" width="507"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(7).png" alt="" width="507"><figcaption></figcaption></figure>
 
-### **Choose your mode**
+### **Escolha seu modo**
 
-Select **Simple Mode** for a fast one-tap long or short with preset sizes. Switch to **Pro Mode** if you want to set limit orders, configure TP/SL, or manage positions in more detail.
+Selecione o **Modo Simples** para uma posição long ou short rápida com um único toque e tamanhos predefinidos. Mude para o **Modo Pro** se quiser definir ordens limitadas, configurar TP/SL ou gerenciar posições com mais detalhe.
 
-<figure><img src="../../../.gitbook/assets/image (249).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(249).png" alt=""><figcaption></figcaption></figure>
 
-### **Choose a trading pair**
+### **Escolha um par de trading**
 
-Click on the pair name at the top of the page to open the asset selector. A huge variety of token pairs are available.
+Clique no nome do par no topo da página para abrir o seletor de ativos. Uma grande variedade de pares de tokens está disponível.
 
-<figure><img src="../../../.gitbook/assets/image (228).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(228).png" alt="" width="375"><figcaption></figcaption></figure>
 
-### **Analyze the chart and decide your strategy**
+### **Analise o gráfico e decida sua estratégia**
 
-Use the built-in TradingView chart to analyze price action before placing your trade. All standard charting tools are available.
+Use o gráfico TradingView integrado para analisar a ação do preço antes de fazer seu trade. Todas as ferramentas de análise gráfica padrão estão disponíveis.
 
-<figure><img src="../../../.gitbook/assets/image (264).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(264).png" alt=""><figcaption></figcaption></figure>
 
-### **Set your position parameters**
+### **Defina os parâmetros da sua posição**
 
-In the order panel, configure the following:
+No painel de ordens, configure o seguinte:
 
-1. **Long or Short** — select the direction of your trade
-2. **Leverage** — use the slider or type manually to set your leverage. Up to 200× is available on BTC.
+1. **Long ou Short** — selecione a direção do seu trade
+2. **Alavancagem** — use o slider ou digite manualmente para definir sua alavancagem. Até 200× está disponível em BTC.
 
-⚠️ High leverage carries significant risk. Use it carefully.
+⚠️ Alta alavancagem carrega risco significativo. Use com cuidado.
 
-3. **Order type** — Market (fills immediately) or Limit (fills at your chosen price)
-4. **Position size** — enter the size of your trade in your preferred reference currency
+3. **Tipo de ordem** — Mercado (preenchida imediatamente) ou Limite (preenchida no preço escolhido)
+4. **Tamanho da posição** — insira o tamanho do seu trade na moeda de referência de sua preferência
 
-**Set Take Profit and Stop Loss** _(optional)_
+**Defina Take Profit e Stop Loss** _(opcional)_
 
-* **Take Profit** — your position closes automatically when your target gain is reached
-* **Stop Loss** — your position closes automatically to limit losses at a set threshold
+* **Take Profit** — sua posição fecha automaticamente quando seu ganho alvo é atingido
+* **Stop Loss** — sua posição fecha automaticamente para limitar perdas em um limite definido
 
-Once all parameters are set, click Buy / Long Or Sell / Short to submit your order.
+Depois de definir todos os parâmetros, clique em Comprar / Long ou Vender / Short para enviar sua ordem.
 
-<figure><img src="../../../.gitbook/assets/image (284).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(284).png" alt=""><figcaption></figcaption></figure>
 
-### **Check your order status**
+### **Verifique o status da sua ordem**
 
-Your order will appear under **Positions** while it waits to be filled.
+Sua ordem aparecerá em **Posições** enquanto aguarda ser preenchida.
 
-<figure><img src="../../../.gitbook/assets/image (287).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(287).png" alt=""><figcaption></figcaption></figure>
 
-Good luck with your trades!
+Boa sorte nos seus trades!

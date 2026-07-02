@@ -1,16 +1,15 @@
-# What is Perpetual Trading?
+# O que é Trading Perpétuo?
 
-### **What are Perpetuals?**
+### **O que são Perpétuos?**
 
-Perpetuals, perpetual swaps, or perps are a special type of futures contract without an expiration date.
+Perpétuos, swaps perpétuos ou perps são um tipo especial de contrato futuro sem data de vencimento.
 
-Futures trading allows users to enter positions on margin (leverage) using borrowed funds to optimize capital. Using leverage allows a user to enter a position with a larger size than their account balance. For example, a user could take 10× leverage and trade 100 CAKE for the price of 10 CAKE — in this case, the initial margin would be 10 CAKE, used to collateralize the leveraged position.
+O Trading de futuros permite que os usuários entrem em posições com margem (alavancagem) usando fundos emprestados para otimizar o capital. Usar alavancagem permite que um usuário entre em uma posição com um tamanho maior do que o saldo da sua conta. Por exemplo, um usuário poderia usar 10× de alavancagem e negociar 100 CAKE pelo preço de 10 CAKE — neste caso, a margem inicial seria de 10 CAKE, usada como colateral para a posição alavancada.
 
-In addition to leverage, futures open the possibility of trading in both directions — buying (long) and selling (short). Perpetual contracts don't expire and allow the holder to trade the price action of an underlying asset without owning it.
+Além da alavancagem, os futuros abrem a possibilidade de negociar em ambas as direções — comprando (long) e vendendo (short). Os contratos perpétuos não expiram e permitem que o titular negocie a ação de preço de um ativo subjacente sem possuí-lo.
 
-### **Perpetuals on PancakeSwap**
+### **Perpétuos no PancakeSwap**
 
-PancakeSwap has offered perpetuals trading since V1. Our latest version — PCS Perps — is powered by Aster's orderbook infrastructure and represents a full rebuild of the experience: CEX-grade execution, up to 200× leverage, and a PCS-native frontend accessible directly from your wallet.
+O PancakeSwap oferece Trading Perpétuo desde a V1. Nossa versão mais recente — PCS Perps — é alimentada pela infraestrutura de order book da Aster e representa uma reconstrução completa da experiência: execução de nível CEX, até 200× de alavancagem e um frontend nativo do PCS acessível diretamente da sua carteira.
 
-Previous versions (V1 and V2) are now legacy products.
-
+As versões anteriores (V1 e V2) são agora produtos legados.

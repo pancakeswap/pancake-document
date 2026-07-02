@@ -1,48 +1,48 @@
-# Dumb Mode Guide
+# Guia do Dumb Mode
 
-### How to Place Orders in Dumb Mode
+### Como Fazer Ordens no Dumb Mode
 
-To place an order in Dumb Mode on PancakeSwap, follow these steps:
+Para fazer uma ordem no Dumb Mode no PancakeSwap, siga estes passos:
 
-1. Select a Market: Go to [**Pancakeswap Perpertuals**](https://perp.pancakeswap.finance/en/futures/v2/BTCUSD?theme=light\&chain=bsc) on BSC. Choose from the available markets like BTCUSD, ETHUSD, etc.
+1. Selecione um Mercado: Vá para o [**PancakeSwap Perpetuals**](https://perp.pancakeswap.finance/en/futures/v2/BTCUSD?theme=light\&chain=bsc) na BSC. Escolha entre os mercados disponíveis como BTCUSD, ETHUSD, etc.
 
-<figure><img src="../../../../.gitbook/assets/Module_Order.png" alt="" width="338"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Module_Order.png" alt="" width="338"><figcaption></figcaption></figure>
 
-2. Click on **Dumb (Beta) Icon.** The position interface will change to Dumb mode.
+2. Clique no **Ícone Dumb (Beta).** A interface de posição mudará para o modo Dumb.
 
-<figure><img src="../../../../.gitbook/assets/Module_Order (1).png" alt="" width="338"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Module_Order%20(1).png" alt="" width="338"><figcaption></figcaption></figure>
 
-2. Select Position: Choose to long or short the underlying asset\*
-   1. For long positions: If the expiry price is greater than the entry price, user will win the trade and make profit.&#x20;
-   2. For short positions: If the expiry price is less than the entry price, users will win the trade and make profit.
-   3. Otherwise, user will lose the entire collateral.
-   4. Refer to notes for more details on position
-3.  Set Margin and Amount: Select your margin asset (USDC, USDT, CAKE, etc.) and specify the amount for collateral.
+2. Selecione a Posição: Escolha fazer long ou short do ativo subjacente\*
+   1. Para posições long: Se o preço de expiração for maior que o preço de entrada, o usuário vencerá o trade e terá lucro.&#x20;
+   2. Para posições short: Se o preço de expiração for menor que o preço de entrada, o usuário vencerá o trade e terá lucro.
+   3. Caso contrário, o usuário perderá todo o colateral.
+   4. Consulte as notas para mais detalhes sobre a posição
+3.  Defina a Margem e o Valor: Selecione seu ativo de margem (USDC, USDT, CAKE, etc.) e especifique o valor do colateral.
 
-    <figure><img src="../../../../.gitbook/assets/Frame 48097008.jpg" alt=""><figcaption></figcaption></figure>
-4. Choose Duration: Decide on the expiration of your trade - 60s, 5m, or 10m.
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Frame%2048097008.jpg" alt=""><figcaption></figcaption></figure>
+4. Escolha a Duração: Decida sobre a expiração do seu trade - 60s, 5m ou 10m.
 
-<figure><img src="../../../../.gitbook/assets/Info.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Info.png" alt=""><figcaption></figcaption></figure>
 
-5. Place Order: Review the ROI, confirm details and place your trade by clicking **Open Position**\*
+5. Faça a Ordem: Revise o ROI, confirme os detalhes e faça seu trade clicando em **Abrir Posição**\*
 
-<figure><img src="../../../../.gitbook/assets/Info.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Info.jpg" alt=""><figcaption></figcaption></figure>
 
-5. Monitor Trade: Once the trade is placed, monitor its progress until completion via the “Position” tab. **Users cannot close trades before expiration**
+5. Monitore o Trade: Após o trade ser feito, monitore seu progresso até a conclusão por meio da aba "Posição". **Os usuários não podem fechar trades antes da expiração**
 
-<figure><img src="../../../../.gitbook/assets/Module_Bottom.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Module_Bottom.png" alt=""><figcaption></figcaption></figure>
 
-7. Settlement: Upon the trade's conclusion, if successful, your ROI will be credited minus the 6% fee. If the trade is not successful, the loss will be 100%.
+7. Liquidação: Após a conclusão do trade, se bem-sucedido, seu ROI será creditado menos a taxa de 6%. Se o trade não for bem-sucedido, a perda será de 100%.
 
-<figure><img src="../../../../.gitbook/assets/Module_Bottom (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Module_Bottom%20(1).png" alt=""><figcaption></figcaption></figure>
 
-### Extra Note on Position
+### Nota Extra sobre a Posição
 
-* Please note that the expiration timer doesn't start when you click on the 'OpenPosition' button; instead, the 60-second / selected duration countdown commences from the instant the transaction gets confirmed on the blockchain
-* The price you see displayed serves only as a reference. The final entry price will be determined by the price point at the exact moment the transaction is confirmed on the blockchain. This will be updated on the “position” tab
+* Observe que o temporizador de expiração não começa quando você clica no botão 'AbrirPosição'; em vez disso, a contagem regressiva de 60 segundos / duração selecionada começa a partir do instante em que a transação é confirmada na blockchain
+* O preço exibido serve apenas como referência. O preço de entrada final será determinado pelo ponto de preço no momento exato em que a transação é confirmada na blockchain. Isso será atualizado na aba "posição"
 
-### Tips for Using Dumb Mode
+### Dicas para Usar o Dumb Mode
 
-* Understand the Risks: Be aware of the high risks involved, especially with the -100% ROI on losses.
-* Manage Your Collateral: Only invest what you can afford to lose.
-* Stay Informed: Keep up to date with market trends for the assets you're trading.
+* Entenda os Riscos: Esteja ciente dos altos riscos envolvidos, especialmente com o ROI de -100% nas perdas.
+* Gerencie seu Colateral: Invista apenas o que você pode se dar ao luxo de perder.
+* Mantenha-se Informado: Acompanhe as tendências do mercado para os ativos que está negociando.
