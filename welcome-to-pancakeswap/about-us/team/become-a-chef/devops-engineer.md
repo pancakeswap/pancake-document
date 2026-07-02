@@ -2,33 +2,33 @@
 hidden: true
 ---
 
-# DevOps Engineer
+# DevOps-инженер
 
-### General information
+### Общая информация
 
-* Salary range: Competitive, negotiable
-* Position: Full-time
-* Location: Remote
-* Time-zone preference: Any
+* Уровень зарплаты: Конкурентный, по договорённости
+* Занятость: Полная
+* Местонахождение: Удалённо
+* Предпочтение по часовому поясу: Любой
 
-### Your Responsibilities
+### Твои обязанности
 
-* Take care of our existing cloud infrastructure.
-* Investigate and resolve technical issues.
-* Plan and develop new cloud-based services.
-* Write extensive documentation.
+* Поддерживать нашу существующую облачную инфраструктуру.
+* Расследовать и устранять технические проблемы.
+* Планировать и разрабатывать новые облачные сервисы.
+* Писать подробную документацию.
 
-### Skills & Qualification
+### Навыки и квалификация
 
-* Good understanding of Go, NodeJS or Python.
-* Experience with cloud platforms (AWS/GCP/Azure).
-* Experience configuring and maintaining databases (MongoDB, PostgresSQL, Redis).
-* Good understanding of Docker, Kubernetes and adjacent technologies.
-* Ability to evaluate scaling issues and take action.
-* Solid experience with GraphQL.
-* Experience with testing tools.
-* Experience with Web3, Smart Contracts, Nodes and other crypto technologies.
+* Хорошее понимание Go, NodeJS или Python.
+* Опыт работы с облачными платформами (AWS/GCP/Azure).
+* Опыт настройки и обслуживания баз данных (MongoDB, PostgresSQL, Redis).
+* Хорошее понимание Docker, Kubernetes и смежных технологий.
+* Умение оценивать проблемы масштабирования и принимать меры.
+* Уверенный опыт работы с GraphQL.
+* Опыт работы с инструментами тестирования.
+* Опыт работы с Web3, смарт-контрактами, нодами и другими крипто-технологиями.
 
-### How to apply
+### Как подать заявку
 
-Email hiring@pancakeswap.com with your resume!
+Отправь своё резюме на hiring@pancakeswap.com!

@@ -2,41 +2,41 @@
 hidden: true
 ---
 
-# Business Development Manager
+# Менеджер по развитию бизнеса
 
-### General Information
+### Общая информация
 
-* Salary range: Competitive, negotiable
-* Position: Full-time
-* Location: Remote
-* Time-zone preference: Any
+* Уровень зарплаты: Конкурентный, по договорённости
+* Занятость: Полная
+* Местонахождение: Удалённо
+* Предпочтение по часовому поясу: Любой
 
-### Your Responsibilities
+### Твои обязанности
 
-* Coordinate with partners to ensure a healthy Farm/Syrup Pool and IFO pipeline.
-* Review and conduct due diligence on projects that apply for Farm/Syrup Pools and IFOs.
-* Liaise with project teams to explore potential partnership opportunities.
-* Execute operational matters relating to PancakeSwap products.
-* Implement best practices between the business development team & the wider team.
-* Review the latest developments in the crypto space and explore new business lines.
+* Координировать работу с партнёрами для обеспечения здорового конвейера Yield Farm/Syrup Pool и IFO.
+* Проверять и проводить проверку благонадёжности проектов, подающих заявки на Yield Farm/Syrup Pools и IFO.
+* Взаимодействовать с командами проектов для изучения потенциальных партнёрских возможностей.
+* Выполнять операционные задачи, связанные с продуктами PancakeSwap.
+* Внедрять лучшие практики в команду развития бизнеса и более широкую команду.
+* Следить за последними разработками в крипто-пространстве и исследовать новые направления бизнеса.
 
-### Skills & Qualifications
+### Навыки и квалификация
 
-* 2+ years of experience in a business development and/or corporate finance role.
-* Solid understanding of the cryptocurrency space, especially DeFi.
-* Ability to speak, read and write in English fluently.
-* Articulate and able to hold effective conversations with project teams.
-* Proactive in keeping up with the latest trends in the blockchain/crypto space.
-* Strong attention to detail when analyzing projects.
-* Ability to work independently and innovate.
-* Can handle high pressure and a fast-paced work environment.
+* 2+ лет опыта в развитии бизнеса и/или корпоративных финансах.
+* Твёрдое понимание криптовалютного пространства, особенно DeFi.
+* Умение свободно говорить, читать и писать на английском языке.
+* Умение вести эффективные переговоры с командами проектов.
+* Проактивный подход к отслеживанию последних тенденций в сфере блокчейна/крипто.
+* Высокое внимание к деталям при анализе проектов.
+* Способность работать самостоятельно и проявлять инициативу.
+* Умение работать под давлением в быстро меняющейся среде.
 
-### Good to have
+### Желательно
 
-* Fluent in a second language.
-* Bachelor's degree in Finance, Accounting or other related areas.
-* Experience with smart contracts and Solidity.
+* Свободное владение вторым языком.
+* Степень бакалавра в области финансов, бухгалтерии или смежных областях.
+* Опыт работы со смарт-контрактами и Solidity.
 
-### How to apply
+### Как подать заявку
 
-Email hiring@pancakeswap.com with your resume!
+Отправь своё резюме на hiring@pancakeswap.com!

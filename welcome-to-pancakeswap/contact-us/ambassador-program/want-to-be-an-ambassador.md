@@ -1,33 +1,32 @@
-# Want to be an Ambassador?
+# Хочешь стать амбассадором?
 
-If you’re passionate about DeFi and believe you have what it takes to educate and inspire others, this is your chance!&#x20;
+Если ты увлечён DeFi и считаешь, что у тебя есть всё необходимое для того, чтобы обучать и вдохновлять других — это твой шанс!&#x20;
 
-**We’re expanding our Ambassador Program to key regions**, and we need local leaders to host meetups, workshops, and events to bring the PancakeSwap experience to the masses. Help us strengthen local communities and take DeFi education to the next level—one event, one connection at a time.
+**Мы расширяем программу амбассадоров в ключевых регионах** и ищем местных лидеров для проведения встреч, воркшопов и мероприятий, чтобы принести опыт PancakeSwap массовой аудитории. Помоги нам укрепить местные сообщества и поднять образование в DeFi на новый уровень — одно мероприятие, один контакт за раз.
 
-### **Where We Need Ambassadors & What You’ll Do**
+### **Где нам нужны амбассадоры и что ты будешь делать**
 
-We’re looking for passionate Ambassadors in key regions to help bring the PancakeSwap experience to life and drive DeFi education on a local level. If you’re based in one of these regions and ready to take on the challenge, we want to hear from you:
+Мы ищем увлечённых амбассадоров в ключевых регионах, чтобы воплотить опыт PancakeSwap в жизнь и развивать образование в сфере DeFi на местном уровне. Если ты находишься в одном из этих регионов и готов принять вызов, мы хотим тебя услышать:
 
-* **Japan** 🇯🇵
-* **Thailand** 🇹🇭
-* **Taiwan** 🇹🇼
+* **Япония** 🇯🇵
+* **Таиланд** 🇹🇭
+* **Тайвань** 🇹🇼
 
-_Last Update: March 10th, 2025_
+_Последнее обновление: 10 марта 2025 г._
 
-### **Requirements to Apply**
+### **Требования для подачи заявки**
 
-We’re looking for Ambassadors who:
+Мы ищем амбассадоров, которые:
 
-* Are fluent in **English** and the **native language** of the region you're applying to, with **business-level proficiency** in written and spoken communication.
-* Have a strong understanding of PancakeSwap, DeFi, and community-building.
-* Are proactive, reliable, and passionate about organizing events.
-* Have excellent communication and leadership skills to engage, inspire, and grow local communities.
+* Свободно владеют **английским** и **родным языком** региона, на который они подают заявку, с **деловым уровнем владения** письменной и устной речью.
+* Хорошо понимают PancakeSwap, DeFi и принципы построения сообщества.
+* Проявляют инициативу, надёжны и увлечены организацией мероприятий.
+* Обладают отличными коммуникативными и лидерскими навыками для вовлечения, вдохновения и развития местных сообществ.
 
-### **How to Apply & Selection Timeline**
+### **Как подать заявку и сроки отбора**
 
-Ready to become a PancakeSwap Ambassador? Follow these steps to apply:
+Готов стать амбассадором PancakeSwap? Следуй этим шагам для подачи заявки:
 
-1. **Complete the Application Form:**  [https://forms.gle/aqK61GiL1QjU7Tqb8](https://forms.gle/aqK61GiL1QjU7Tqb8)
-2. **Prepare for an Interview**: If shortlisted, we'll schedule a video interview to assess your communication skills and knowledge of PancakeSwap.
-3. **Get Onboarded:** If selected, you'll receive onboarding materials and support to help you plan your first local event.
-
+1. **Заполни форму заявки:**  [https://forms.gle/aqK61GiL1QjU7Tqb8](https://forms.gle/aqK61GiL1QjU7Tqb8)
+2. **Подготовься к интервью**: Если тебя выберут в шорт-лист, мы назначим видеоинтервью для оценки твоих коммуникативных навыков и знания PancakeSwap.
+3. **Пройди онбординг:** Если тебя выберут, ты получишь материалы для онбординга и поддержку в планировании первого локального мероприятия.

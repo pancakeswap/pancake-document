@@ -1,117 +1,117 @@
 ---
-description: Migrate your farms and pools staking to the new PancakeSwap MasterChef
+description: Перенеси стейкинг ферм и пулов в новый PancakeSwap MasterChef
 ---
 
-# Migrate Your Stakings
+# Перенос стейкинга
 
-![ICYDK: you are currently reading the "tutorial" mentioned in this banner](<../../../../.gitbook/assets/migration pre heat.png>)
+![ICYDK: ты сейчас читаешь то самое «руководство», упомянутое в этом баннере](<https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration%20pre%20heat.png>)
 
-In order to keep earning staking rewards, you will need to migrate your farms and pools staking to the new MasterChef. Relax, it's gonna be easy.
+Чтобы продолжить получать вознаграждения за стейкинг, тебе нужно перенести стейкинг ферм и пулов в новый MasterChef. Не переживай — это будет легко.
 
 {% hint style="info" %}
-**But wait! Do I need to migrate?**
+**Но подожди! Нужно ли мне выполнять миграцию?**
 
-You need to migrate if you are:
+Тебе нужно выполнить миграцию, если ты:
 
-* Farming on PancakeSwap **Farms**.
-* Staking in PancakeSwap **CAKE Syrup Pools** (Manual, Auto, IFO).
+* Занимаешься фармингом на **Farms** PancakeSwap.
+* Стейкируешь в **CAKE Syrup Pools** PancakeSwap (Manual, Auto, IFO).
 
-\*other Syrup Pools aren’t affected
+\*другие Syrup Pools не затронуты
 {% endhint %}
 
-## How to migrate?
+## Как выполнить миграцию?
 
-![At the time of the migration, Chefs will deploy a step-by-step helper to walk you through the process ](../../../../.gitbook/assets/migration-helper-overview.png)
+![В момент миграции Chefs развернут пошаговый помощник, который проведёт тебя через весь процесс](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration-helper-overview.png)
 
-### 1. Navigate to the migration helper
+### 1. Переход к помощнику по миграции
 
-Go to [https://pancakeswap.finance/migration](https://pancakeswap.finance/migration), and connect your wallet.
+Перейди на [https://pancakeswap.finance/migration](https://pancakeswap.finance/migration) и подключи кошелёк.
 
-### 2. Unstake from the old farms
+### 2. Вывод стейкинга со старых ферм
 
-There are two steps in the migration helper. In the first step, you should see a list of three CAKE syrup pools and farms you are currently staking.
+В помощнике по миграции два шага. На первом шаге ты увидишь список трёх пулов CAKE syrup и ферм, в которых ты сейчас стейкируешь.
 
-![](../../../../.gitbook/assets/migration-helper-steps-guide-3.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration-helper-steps-guide-3.png)
 
-Click "**Unstake All**" on each of the farms and pools to unstake all your assets.
+Нажми «**Unstake All**» на каждой из ферм и пулов, чтобы вывести все свои активы из стейкинга.
 
-![](<../../../../.gitbook/assets/migration-helper-steps-guide-4 (1).png>)
+![](<https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration-helper-steps-guide-4%20%281%29.png>)
 
-After unstaking, click "**Go to Stake**" to proceed to step 2.
+После вывода стейкинга нажми «**Go to Stake**» для перехода к шагу 2.
 
-### 3. Stake your LP tokens and CAKE into the new farms and pools.
+### 3. Стейкинг LP-токенов и CAKE в новых фермах и пулах.
 
-Here you should see the brand new CAKE syrup pool and the new farms. Before staking, you will need to enable them.
+Здесь ты увидишь новый пул CAKE syrup и новые фермы. Перед стейкингом их нужно включить.
 
-![](<../../../../.gitbook/assets/migration-helper-steps-guide-5 (1).png>)
+![](<https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration-helper-steps-guide-5%20%281%29.png>)
 
-Click "**Enable**" to enable staking on each of the farms and the CAKE syrup pool. If you are using a mobile device, please click the “**v**” (downward arrow) to expand the card while looking for the "**Enable**" button.
+Нажми «**Enable**», чтобы включить стейкинг на каждой ферме и в пуле CAKE syrup. Если ты используешь мобильное устройство, нажми «**v**» (стрелку вниз), чтобы развернуть карточку при поиске кнопки «**Enable**».
 
-After enabling, you will be able to start staking in the pool and farms.
+После включения ты сможешь начать стейкинг в пуле и фермах.
 
 {% tabs %}
 {% tab title="CAKE Syrup Pool" %}
-![](<../../../../.gitbook/assets/migration-helper-steps-guide-7 (2).png>)
+![](<https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration-helper-steps-guide-7%20%282%29.png>)
 
-For CAKE syrup pool. Please:
+Для CAKE syrup pool. Пожалуйста:
 
-1. Click "**Flexible**" under the "Stake CAKE" section.
-2. Enter the amount of CAKE you want to stake.
-3. Click "**Confirm**".
+1. Нажми «**Flexible**» в разделе «Stake CAKE».
+2. Введи количество CAKE, которое хочешь застейкировать.
+3. Нажми «**Confirm**».
 
 
 
 {% hint style="info" %}
-The locked (fixed-term) staking option will become available a few days after the migration. You will be able to convert your flexible staking position to a locked one. To learn more about the new CAKE syrup pool with fixed-term staking, please check out [this doc](../../../../archive/legacy-products/new-cake-pool/).
+Опция стейкинга с блокировкой (фиксированный срок) станет доступна через несколько дней после миграции. Ты сможешь конвертировать гибкую позицию в заблокированную. Чтобы узнать больше о новом CAKE syrup pool с фиксированным сроком стейкинга, прочитай [этот документ](../../../../archive/legacy-products/new-cake-pool/).
 {% endhint %}
 {% endtab %}
 
 {% tab title="Farms" %}
-![](../../../../.gitbook/assets/migration-helper-steps-guide-8.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration-helper-steps-guide-8.png)
 
-For farms, please:
+Для ферм, пожалуйста:
 
-1. Click "**Stake**".
-2. Enter the amount of LP tokens you want to stake.
-3. Click "**Confirm**"
+1. Нажми «**Stake**».
+2. Введи количество LP-токенов, которое хочешь застейкировать.
+3. Нажми «**Confirm**»
 {% endtab %}
 {% endtabs %}
 
-### 4. Done!
+### 4. Готово!
 
-![](<../../../../.gitbook/assets/migration-helper-steps-guide-9 (1).png>)
+![](<https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration-helper-steps-guide-9%20%281%29.png>)
 
-You are now staking in the new MasterChef and continue earning CAKE rewards! Click "**Finish**" to go back and explore some other great products PancakeSwap offers.
+Теперь ты стейкируешь в новом MasterChef и продолжаешь получать вознаграждения CAKE! Нажми «**Finish**», чтобы вернуться и исследовать другие отличные продукты PancakeSwap.
 
-## Migration Timeline
+## Сроки миграции
 
-![](<../../../../.gitbook/assets/en - migration timeline - 2.png>)
+![](<https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/en%20-%20migration%20timeline%20-%202.png>)
 
-Make sure to follow our [Twitter](https://twitter.com/pancakeswap/) or [Telegram](https://t.me/PancakeSwapAnn) announcement channel for detailed timing and the latest updates! Need any help? Learn more about how to reach for help [here](../../../contact-us/#help).
+Обязательно подпишись на наш [Twitter](https://twitter.com/pancakeswap/) или [Telegram](https://t.me/PancakeSwapAnn) для получения точных сроков и последних обновлений! Нужна помощь? Узнай, как её получить, [здесь](../../../contact-us/#help).
 
 ## FAQ
 
-#### **When will it finish?**
+#### **Когда закончится миграция?**
 
-Migration will take several hours, but it should be totally finished upon the launch of the migration helper page. Follow our [Twitter](https://twitter.com/pancakeswap/) or [Telegram](https://t.me/PancakeSwapAnn) announcement channel for the latest updates!
+Миграция займёт несколько часов, но должна полностью завершиться к моменту запуска страницы помощника по миграции. Следи за обновлениями в нашем [Twitter](https://twitter.com/pancakeswap/) или [Telegram](https://t.me/PancakeSwapAnn)!
 
-#### **When must I migrate?**
+#### **Когда мне нужно выполнить миграцию?**
 
-1. You will be able to migrate at any time. There’s no time limit.&#x20;
-2. It’s better to migrate sooner so you can continue to earn rewards from farms and pools.
+1. Ты сможешь выполнить миграцию в любое время. Никакого ограничения по времени нет.
+2. Лучше мигрировать как можно скорее, чтобы продолжать получать вознаграждения с ферм и пулов.
 
-#### I don’t see the migration helper!
+#### Я не вижу помощника по миграции!
 
-It will only be deployed once smart contract deployments and configurations are completed. It could take serval hours. Follow our [Twitter](https://twitter.com/pancakeswap/) or [Telegram](https://t.me/PancakeSwapAnn) announcement channel for the latest updates!
+Он будет развёрнут только после завершения развёртывания и настройки смарт-контрактов. Это может занять несколько часов. Следи за обновлениями в нашем [Twitter](https://twitter.com/pancakeswap/) или [Telegram](https://t.me/PancakeSwapAnn)!
 
-#### Why lock staking is not available?
+#### Почему стейкинг с блокировкой недоступен?
 
-SOON! To achieve a smooth migration. Lock (fixed-term) staking will be enabled a few days after the migrations.
+СКОРО! Для обеспечения плавной миграции стейкинг с блокировкой (фиксированный срок) будет включён через несколько дней после миграции.
 
-#### I can't find my farms in the migration helper!
+#### Я не могу найти свои фермы в помощнике по миграции!
 
-It might be due to the farm being discontinued before the migration. Please:
+Это может быть связано с тем, что ферма была закрыта до миграции. Пожалуйста:
 
-1. Go to **Farms**.
-2. Choose “**Finished**” at the top of the farm list.
-3. Click “**Check out v1 farms**” to look for your farm.
+1. Перейди на страницу **Farms**.
+2. Выбери «**Finished**» в верхней части списка ферм.
+3. Нажми «**Check out v1 farms**», чтобы найти свою ферму.

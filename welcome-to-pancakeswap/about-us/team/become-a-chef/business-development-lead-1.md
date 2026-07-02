@@ -1,32 +1,32 @@
-# Business Development Manager (AMM)
+# Менеджер по развитию бизнеса (AMM)
 
-PancakeSwap is transitioning from the leading AMM DEX on BNB Chain to a full Liquidity Hub — aggregating and managing liquidity from native AMM pools, institutional capital, and external distribution channels. This role leads one of three specialized BD divisions in that build-out.
+PancakeSwap переходит от ведущего AMM DEX на BNB Chain к полноценному Liquidity Hub — агрегируя и управляя Ликвидностью из нативных AMM-пулов, институционального капитала и внешних каналов дистрибуции. Эта роль руководит одним из трёх специализированных подразделений BD в рамках этого перехода.
 
-### Traditional AMM
+### Традиционный AMM
 
-* Own CAKE emission efficiency, project onboarding (V2/V3/Infinity CLAMM), and cross-chain launchpad pipeline across BNB Chain, Base, and SOL.&#x20;
-* Primary metric: volume per unit of CAKE emitted.&#x20;
-* Secondary: new active pools per quarter, first-launch projects per chain.
+* Управлять эффективностью эмиссии CAKE, онбордингом проектов (V2/V3/Infinity CLAMM) и конвейером межсетевого launchpad'а для BNB Chain, Base и SOL.&#x20;
+* Основная метрика: объём на единицу эмитированного CAKE.&#x20;
+* Вторичная: новые активные пулы за квартал, проекты первого запуска по каждой сети.
 
-**Urgent now:** Base + SOL ecosystem fund relationships · Infinity CLAMM project pipeline
+**Срочно сейчас:** отношения с экосистемными фондами Base + SOL · конвейер проектов Infinity CLAMM
 
-### What you will do
+### Что ты будешь делать
 
-* Own the full partnership lifecycle : sourcing, negotiation, integration, and ongoing health metrics
-* Participate in weekly cross-division BD sync to surface pipeline overlaps and coordinate joint approaches
-* Conduct ongoing competitor intelligence specific to your division's domain; translate findings into actionable differentiation
-* As the division matures, build and mentor a small team of BD managers under you
+* Управлять полным жизненным циклом партнёрства: поиск, переговоры, интеграция и метрики текущего состояния
+* Участвовать в еженедельных кросс-дивизиональных BD-синхронизациях для выявления пересечений в конвейере и координации совместных подходов
+* Проводить постоянный конкурентный анализ, специфичный для домена твоего подразделения; переводить выводы в практические меры дифференциации
+* По мере развития подразделения формировать команду BD-менеджеров и наставлять её
 
-### What we are looking for
+### Что мы ищем
 
-**Required**
+**Обязательно**
 
-* 3+ years of BD, partnerships, or growth in DeFi, crypto, or fintech — with a track record of signed deals, not just pipeline
-* Quantitative mindset: comfortable reading on-chain data, TVL/volume dashboards, and setting your own KPI targets from first principles
-* Familiar with AMM/uniswap/Pancakeswap V2 V3 Infinity
-* Autonomous and structured: able to manage multiple parallel deals with zero hand-holding, and communicate blockers early
-* Ownership mind-set
+* 3+ лет опыта в BD, партнёрствах или росте в DeFi, крипто или финтех — с подтверждёнными подписанными сделками, а не только конвейером
+* Количественное мышление: умение читать on-chain данные, дашборды TVL/объёма и самостоятельно устанавливать KPI-цели с нуля
+* Знакомство с AMM/uniswap/Pancakeswap V2 V3 Infinity
+* Самостоятельность и структурированность: способность управлять несколькими параллельными сделками без постоянного контроля и своевременно сообщать о блокерах
+* Ориентация на владение результатом
 
 
 
-**How to Apply:** Shoot your resume over to hiring@pancakeswap.com, we’d love to hear from you!
+**Как подать заявку:** Отправь своё резюме на hiring@pancakeswap.com, мы будем рады тебя услышать!

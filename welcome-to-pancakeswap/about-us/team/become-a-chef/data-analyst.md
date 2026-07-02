@@ -2,34 +2,34 @@
 hidden: true
 ---
 
-# Data Analyst
+# Аналитик данных
 
-#### Responsibilities
+#### Обязанности
 
-* Collect, analyze, and interpret large datasets from on-chain transactions, including betting volumes, market resolutions, odds fluctuations, open interest and user participation in prediction events.
-* Partner with product and engineering teams to design analytics solutions that transform raw blockchain data into insights on protocol health, liquidity trends, and market efficiency.
-* Build and maintain data dashboards (using tools like Dune Analytics, Tableau, datawind or similar) to monitor key metrics such as Total Value Locked (TVL), user engagement, prediction accuracy rates, and event outcomes.
-* Lead analytical support for on-chain campaigns, such as token airdrops, staking incentives, or market promotions, including tracking eligibility, rewards distribution, and ROI analysis.
-* Query public blockchain data to uncover trends in user behavior, such as betting patterns, oracle integrations for event resolutions, and potential market manipulations.
-* Communicate complex insights through visualizations and reports, translating blockchain data into actionable recommendations for stakeholders.
-* Stay updated on blockchain advancements, prediction market protocols, and regulatory changes to inform data-driven strategies.
-* Collaborate in a fast-paced environment where time-to-insight is critical for market competitiveness.
+* Собирать, анализировать и интерпретировать большие массивы данных из on-chain транзакций, включая объёмы ставок, разрешение рынков, изменения коэффициентов, открытый интерес и участие пользователей в событиях прогнозирования.
+* Сотрудничать с командами по продукту и разработке для создания аналитических решений, преобразующих необработанные данные блокчейна в инсайты о здоровье протокола, тенденциях Ликвидности и эффективности рынка.
+* Создавать и поддерживать дашборды данных (с использованием таких инструментов, как Dune Analytics, Tableau, datawind или аналогичных) для мониторинга ключевых метрик: TVL, вовлечённость пользователей, точность прогнозов и результаты событий.
+* Обеспечивать аналитическую поддержку on-chain кампаний, таких как аирдропы токенов, стейкинговые стимулы или рыночные акции, включая отслеживание приемлемости, распределение вознаграждений и анализ ROI.
+* Запрашивать публичные данные блокчейна для выявления тенденций поведения пользователей: паттерны ставок, интеграции оракулов для разрешения событий и потенциальные манипуляции рынком.
+* Передавать сложные инсайты через визуализации и отчёты, переводя данные блокчейна в практические рекомендации для заинтересованных сторон.
+* Следить за достижениями в области блокчейна, протоколами рынков прогнозов и регуляторными изменениями для информирования стратегий, основанных на данных.
+* Работать в быстро меняющейся среде, где скорость получения инсайтов критична для конкурентоспособности рынка.
 
-#### Requirements
+#### Требования
 
-* Bachelor's degree in a quantitative field such as Computer Science, Statistics, Mathematics, Economics, or a related discipline.
-* 3+ years of experience in data analysis, preferably in blockchain, crypto, or fintech environments.
-* Deep understanding of blockchain fundamentals, including EVM-based chains (e.g. Ethereum, BNB Chain), smart contracts, transaction structures, and event logs.
-* Proficiency in SQL for querying blockchain data (e.g., via Dune Analytics, BigQuery) and at least one programming language (e.g., Python, R) for data processing and scripting.
-* Experience with data visualization tools like Tableau, Power BI, or Matplotlib.
-* Familiarity with on-chain metrics in DeFi or prediction markets, such as liquiditypools, oracle data feeds, and resolution mechanisms.
-* Strong analytical mindset with the ability to handle large, unstructured datasets and derive meaningful insights.
-* Excellent communication skills to present findings to non-technical teams.
+* Степень бакалавра в количественной области: информатика, статистика, математика, экономика или смежная дисциплина.
+* 3+ лет опыта в анализе данных, предпочтительно в среде блокчейна, крипто или финтех.
+* Глубокое понимание основ блокчейна, включая EVM-совместимые сети (например, Ethereum, BNB Chain), смарт-контракты, структуры транзакций и журналы событий.
+* Владение SQL для запросов данных блокчейна (например, через Dune Analytics, BigQuery) и хотя бы одним языком программирования (например, Python, R) для обработки и скриптинга данных.
+* Опыт работы с инструментами визуализации данных, такими как Tableau, Power BI или Matplotlib.
+* Знакомство с on-chain метриками в DeFi или рынках прогнозов: пулы Ликвидности, фиды данных оракулов и механизмы разрешения.
+* Сильное аналитическое мышление с умением работать с большими неструктурированными наборами данных и извлекать значимые инсайты.
+* Отличные коммуникативные навыки для представления выводов нетехническим командам.
 
-#### Preferred Qualifications
+#### Предпочтительная квалификация
 
-* Experience working with prediction market platforms (e.g., Polymarket, Augur, or similar) or analyzing on-chain gaming/betting data.
-* Knowledge of advanced analytics techniques, including machine learning for predictive modeling of market outcomes.
-* Proficiency in additional tools like Nansen, Glassnode, or GraphQL for blockchain querying.
-* Understanding of non-EVM chains (e.g., Solana) is a plus.
-* Prior experience in Web3 startups or decentralized organizations.
+* Опыт работы с платформами рынков прогнозов (например, Polymarket, Augur или аналогичными) или анализа on-chain игровых/ставочных данных.
+* Знание продвинутых аналитических техник, включая машинное обучение для прогностического моделирования результатов рынка.
+* Владение дополнительными инструментами, такими как Nansen, Glassnode или GraphQL для запросов блокчейна.
+* Понимание не-EVM сетей (например, Solana) является плюсом.
+* Предыдущий опыт в Web3-стартапах или децентрализованных организациях.

@@ -1,75 +1,75 @@
 ---
-description: Migrate to MasterChef v2
+description: Миграция на MasterChef v2
 ---
 
 # MasterChef v2
 
-PancakeSwap MasterChef v2 is a new main staking contract for Farms while providing more flexibility for adjusting the $CAKE emissions, including CAKE pool, burn and other PancakeSwap products.
+PancakeSwap MasterChef v2 — это новый основной контракт стейкинга для Farms, предоставляющий большую гибкость для управления эмиссией $CAKE, включая CAKE пул, сжигание и другие продукты PancakeSwap.
 
-### Do I need to migrate?
+### Нужно ли мне выполнять миграцию?
 
-If you are currently using PancakeSwap MasterChef ([0x73feaa1eE314F8c655E354234017bE2193C9E24E](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E)), you will need to migrate to the new contract ([0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652](https://bscscan.com/address/0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652)).
+Если ты сейчас используешь PancakeSwap MasterChef ([0x73feaa1eE314F8c655E354234017bE2193C9E24E](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E)), тебе нужно мигрировать на новый контракт ([0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652](https://bscscan.com/address/0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652)).
 
-### Overview
+### Обзор
 
-#### Deposit&#x20;
+#### Депозит
 
-If you are currently using the `enterStaking(uint256 _amount)` on the current PancakeSwap MasterChef. You need to migrate to the new CAKE pool contract. Check out the related documentation [here](../cake-syrup-pool.md).
+Если ты сейчас используешь `enterStaking(uint256 _amount)` в текущем PancakeSwap MasterChef, тебе нужно перейти на новый контракт CAKE pool. Ознакомься с соответствующей документацией [здесь](../cake-syrup-pool.md).
 
-The deposit function for the farm pools is unchanged. However, you will need to upgrade the MasterChef address and the `pid` , check out the [list of farms](list-of-farms.md) for the list of new `pids` on MasterChef v2.
+Функция депозита для пулов ферм не изменилась. Однако тебе нужно будет обновить адрес MasterChef и `pid` — смотри [список ферм](list-of-farms.md) для новых `pid` в MasterChef v2.
 
-#### Pool types
+#### Типы пулов
 
-MasterChef v2 have 2 types of pool: Regular farm pools and Special farm pools, which you can use `poolInfo(_pid).isRegular` to query the pool type. They share a different `totalAllocPoint`, making them two sets of independent pools.
+MasterChef v2 имеет 2 типа пулов: обычные фермерские пулы и специальные фермерские пулы. Ты можешь использовать `poolInfo(_pid).isRegular` для запроса типа пула. Они используют разные `totalAllocPoint`, образуя два независимых набора пулов.
 
-Special farm pools: only whitelisted addresses can deposit. They are usually utilized by internal PancakeSwap products for rewards distributions.
+Специальные фермерские пулы: только адреса из белого списка могут вносить депозиты. Обычно они используются внутренними продуктами PancakeSwap для распределения вознаграждений.
 
-Regular farm pools: the regular LP tokens farms. For example CAKE-BNB, BNB-BUSD, etc…
+Обычные фермерские пулы: стандартные фермы LP-токенов. Например, CAKE-BNB, BNB-BUSD и т.д.
 
-#### Withdraw
+#### Вывод
 
-If you are currently using the `leaveStaking(uint256 _amount)` on the current PancakeSwap MasterChef. You need to migrate to the new CAKE pool contract. Check out the related documentation [here](../cake-syrup-pool.md).
+Если ты сейчас используешь `leaveStaking(uint256 _amount)` в текущем PancakeSwap MasterChef, тебе нужно перейти на новый контракт CAKE pool. Ознакомься с соответствующей документацией [здесь](../cake-syrup-pool.md).
 
-The withdraw function for the farm pools is unchanged. However, you will need to update the MasterChef address and the `pid` , check out the [list of farms](list-of-farms.md) for the list of new `pids` on MasterChef v2.
+Функция вывода для пулов ферм не изменилась. Однако тебе нужно будет обновить адрес MasterChef и `pid` — смотри [список ферм](list-of-farms.md) для новых `pid` в MasterChef v2.
 
-#### Staking Balance
+#### Баланс стейкинга
 
-Use `userInfo[_pid][_user].amount` to query the staking balance.
+Используй `userInfo[_pid][_user].amount` для запроса баланса стейкинга.
 
-#### Staking Token&#x20;
+#### Токен стейкинга
 
-Note that the new `PoolInfo` struct **does not** contain the lp token address field, you will need to use `lpToken(_pid)` to query any given pool's staking token.&#x20;
+Обрати внимание, что новая структура `PoolInfo` **не** содержит поля адреса LP-токена — тебе нужно использовать `lpToken(_pid)` для запроса токена стейкинга любого пула.
 
-#### Total Staking Shares/Amount
+#### Общие доли/суммы стейкинга
 
-Use `lpToken.balanceOf(MasterChef.address)` to get the total staking amount for any given farm pool.
+Используй `lpToken.balanceOf(MasterChef.address)` для получения общей суммы стейкинга для любого фермерского пула.
 
-However, In MasterChef v2, the users' share can be boosted (coming soon). Therefore, rewards are calculated using a new `totalBoostedShare` field in `PoolInfo` as each pool’s total shares. For example, if pool 0 has 2 users, user1 stake 100 LPs (without boost), user2 stake 100 (with `boostMultiplier` being 1.05), then the `totalBoostedShare` will become 205. Resulting in user2 gaining more rewards.
+Однако в MasterChef v2 доли пользователей могут быть усилены (скоро). Поэтому вознаграждения рассчитываются с использованием нового поля `totalBoostedShare` в `PoolInfo` в качестве общих долей каждого пула. Например, если в пуле 0 есть 2 пользователя — user1 стейкирует 100 LP (без буста), user2 стейкирует 100 (с `boostMultiplier` равным 1.05), то `totalBoostedShare` станет равным 205, что приведёт к получению user2 большего количества вознаграждений.
 
 #### CakePerBlock
 
-You can use `cakePerBlock(bool _isRegular)` to query the CAKE reward per block that goes to all the PancakeSwap farms.
+Ты можешь использовать `cakePerBlock(bool _isRegular)` для запроса вознаграждения CAKE за блок, которое идёт на все фермы PancakeSwap.
 
-### Mainnet Contract Address
+### Адрес контракта в основной сети
 
-**Contract name:** MasterChef v2\
-**Contract address:** `0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652`
+**Название контракта:** MasterChef v2\
+**Адрес контракта:** `0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652`
 
-[View the PancakeSwap: Main Staking Contract v2 on BscScan.](https://bscscan.com/address/0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652)
+[Посмотреть PancakeSwap: Main Staking Contract v2 на BscScan.](https://bscscan.com/address/0xa5f8C5Dbd5F286960b9d90548680aE5ebFf07652)
 
-### Testnet Environment
+### Тестовая среда
 
-You can use the following testnet environment to test the integration of your project with the new PancakeSwap MasterChef v2. If you have any questions, please contact our team via the existing channels, or reach out to bun@pancakeswap.com via Email.
+Ты можешь использовать следующую тестовую среду для проверки интеграции своего проекта с новым PancakeSwap MasterChef v2. Если у тебя есть вопросы, обращайся к нашей команде через существующие каналы или по электронной почте bun@pancakeswap.com.
 
-**Dummy Tokens:**
+**Тестовые токены:**
 
 * $CAKE: `0xFa60D973F7642B748046464e165A65B7323b0DEE`\
-  (mintable by using `mint(address _to, uint256 _amount) public`)
+  (можно создавать с помощью `mint(address _to, uint256 _amount) public`)
 * $BUSD: `0x8516Fc284AEEaa0374E66037BD2309349FF728eA`\
-  (mintable by using `mint(uint256 amount) public`)
+  (можно создавать с помощью `mint(uint256 amount) public`)
 * $WBNB: `0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd`
 
-#### Factory and Router
+#### Factory и Router
 
 * Factory v2: `0x6725F303b657a9451d8BA641348b6761A6CC7a17`
 * Router v2: `0xD99D1c33F9fC3444f8101754aBC46c52416550D1`
@@ -89,4 +89,3 @@ You can use the following testnet environment to test the integration of your pr
 * v2: `0xB4A466911556e39210a6bB2FaECBB59E4eB7E43d`
   * pid3: CAKE-BUSD: `0xb98C30fA9f5e9cf6749B7021b4DDc0DBFe73b73e`
   * pid4: CAKE-WBNB: `0xa96818CA65B57bEc2155Ba5c81a70151f63300CD`
-

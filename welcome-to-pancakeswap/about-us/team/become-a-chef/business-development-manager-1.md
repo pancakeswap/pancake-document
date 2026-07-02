@@ -2,32 +2,30 @@
 hidden: true
 ---
 
-# Business Development Manager
+# Менеджер по развитию бизнеса
 
-#### Job Summary
+#### Краткое описание вакансии
 
-As a Business Development Manager, you will be responsible for identifying, negotiating, and closing strategic partnerships that enhance our platform's liquidity, market diversity, and global reach. You'll work closely with product, marketing, and engineering teams to integrate new features, onboard key stakeholders, and foster growth in the crypto prediction space. This role requires a deep understanding of blockchain technology, prediction markets, and business strategy in a decentralized environment.
+В качестве менеджера по развитию бизнеса ты будешь отвечать за выявление, переговоры и заключение стратегических партнёрств, которые расширяют Ликвидность платформы, разнообразие рынков и глобальный охват. Ты будешь тесно работать с командами по продукту, маркетингу и разработке для интеграции новых функций, онбординга ключевых участников и стимулирования роста в сфере крипто-прогнозов. Эта роль требует глубокого понимания технологии блокчейн, рынков прогнозов и бизнес-стратегии в децентрализованной среде.
 
-#### Key Responsibilities
+#### Ключевые обязанности
 
-* Partnership Development: Identify and pursue partnerships with crypto exchanges, DeFi protocols, data oracles, influencers, and traditional institutions to integrate our prediction markets into broader ecosystems.
-* Market Expansion: Drive user acquisition and retention strategies, including collaborations with DAOs, NFT communities, and Web3 projects to increase platform liquidity and market creation.
-* Business Strategy: Analyze market trends in crypto, prediction markets, and blockchain to develop go-to-market plans, revenue models, and growth initiatives.
-* Relationship Management: Build and maintain long-term relationships with key stakeholders, including investors, regulators, and industry leaders, ensuring compliance with crypto regulations (e.g., KYC/AML where applicable).
-* Sales and Negotiation: Lead negotiations for integrations, sponsorships, and co-marketing deals, aiming to boost platform TVL (Total Value Locked) and trading volume.
-* Performance Tracking: Monitor KPIs such as partnership ROI, user growth, and market volume; provide regular reports and insights to senior leadership.
-* Event Participation: Represent the company at crypto conferences, hackathons, and industry events to network and promote our platform.
-* Cross-Functional Collaboration: Work with legal, product, and tech teams to ensure seamless execution of business deals in a decentralized context.
+* Развитие партнёрств: Выявлять и развивать партнёрства с криптобиржами, DeFi-протоколами, оракулами данных, инфлюенсерами и традиционными институтами для интеграции наших рынков прогнозов в более широкие экосистемы.
+* Расширение рынка: Разрабатывать стратегии привлечения и удержания пользователей, включая сотрудничество с DAO, NFT-сообществами и Web3-проектами для увеличения Ликвидности платформы и создания новых рынков.
+* Бизнес-стратегия: Анализировать тенденции рынка крипто, рынков прогнозов и блокчейна для разработки планов выхода на рынок, моделей дохода и инициатив роста.
+* Управление отношениями: Выстраивать и поддерживать долгосрочные отношения с ключевыми участниками, включая инвесторов, регуляторов и лидеров отрасли, обеспечивая соответствие крипто-регулированию (например, KYC/AML там, где применимо).
+* Продажи и переговоры: Вести переговоры по интеграциям, спонсорствам и совместным маркетинговым сделкам с целью увеличения TVL (Total Value Locked) и торгового объёма платформы.
+* Отслеживание результатов: Отслеживать KPI, такие как ROI партнёрств, рост пользователей и объём рынка; предоставлять регулярные отчёты и аналитику руководству.
+* Участие в мероприятиях: Представлять компанию на крипто-конференциях, хакатонах и отраслевых мероприятиях для нетворкинга и продвижения платформы.
+* Межфункциональное сотрудничество: Работать с юридической, продуктовой и технической командами для обеспечения бесперебойного исполнения деловых сделок в децентрализованном контексте.
 
-#### Qualifications and Skills
+#### Квалификация и навыки
 
-* Experience: 3+ years in business development, sales, or partnerships within the crypto, blockchain, or fintech sectors. Experience in prediction markets, DeFi, or gambling/gaming industries is highly preferred.
-* Knowledge: Strong understanding of blockchain fundamentals, smart contracts, tokenomics, and prediction market mechanics (e.g., how markets resolve via oracles). Familiarity with platforms like Augur, Polymarket, or similar Skills: order-book based knowledge.
-* Proven track record of closing high-value deals and building strategic alliances.
-* Excellent communication, negotiation, and presentation skills.
-* Analytical mindset with experience using tools like Google Analytics, Dune
-* Analytics, or CRM software (e.g., Salesforce).
-* Ability to thrive in a remote, fast-paced startup environment.
-* Education: Bachelor's degree in Business, Marketing, Finance, or a related field;
-* MBA or certifications in blockchain (e.g., Certified Blockchain Expert) are a plus.
-* Personal Attributes: Entrepreneurial spirit, passion for crypto and decentralized technologies, adaptability to regulatory changes, and a results-oriented approach.
+* Опыт: 3+ лет в развитии бизнеса, продажах или партнёрствах в сфере крипто, блокчейна или финтех. Опыт на рынках прогнозов, в DeFi или игровой/гемблинг-индустрии является большим преимуществом.
+* Знания: Глубокое понимание основ блокчейна, смарт-контрактов, Токеномики и механики рынков прогнозов (например, как рынки разрешаются через оракулы). Знакомство с такими платформами, как Augur, Polymarket или аналогичные.
+* Подтверждённый опыт заключения крупных сделок и построения стратегических альянсов.
+* Отличные коммуникативные, переговорные и презентационные навыки.
+* Аналитическое мышление с опытом работы с такими инструментами, как Google Analytics, Dune Analytics или CRM-ПО (например, Salesforce).
+* Способность успешно работать в удалённой, динамичной стартап-среде.
+* Образование: степень бакалавра в области бизнеса, маркетинга, финансов или смежной области; MBA или сертификаты в области блокчейна (например, Certified Blockchain Expert) являются плюсом.
+* Личные качества: предпринимательский дух, страсть к крипто и децентрализованным технологиям, адаптивность к регуляторным изменениям и ориентация на результат.

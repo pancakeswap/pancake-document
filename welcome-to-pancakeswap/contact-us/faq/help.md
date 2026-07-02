@@ -1,37 +1,37 @@
-# I need help
+# Мне нужна помощь
 
 
 
-![](../../../.gitbook/assets/help-area-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/help-area-header.png)
 
-If you find yourself stuck, if something isn't working like it's meant to, or you're not sure if something has worked or not, this help section may be able to, well, help.
+Если ты оказался в затруднении, что-то работает не так, как должно, или ты не уверен, выполнилось ли что-то — этот раздел помощи может помочь тебе разобраться.
 
-## Help sections
+## Разделы помощи
 
-We have broken the help topic down into sections to help you find what you're after. Below is an overview on what you'll find.
+Мы разбили тему помощи на разделы, чтобы помочь тебе найти то, что ищешь. Ниже — обзор содержимого.
 
-### Troubleshooting Errors
+### Устранение ошибок
 
-The [Troubleshooting Errors page](https://docs.pancakeswap.finance/help/troubleshooting) has a collection of errors users may run into while using PancakeSwap. It shows the problem with both a solution to the problem, and a reason explaining why the problem happened.
+На [странице устранения ошибок](https://docs.pancakeswap.finance/help/troubleshooting) собрана коллекция ошибок, с которыми пользователи могут столкнуться при использовании PancakeSwap. Показана проблема, её решение и объяснение причины возникновения.
 
-### General FAQ
+### Общий FAQ
 
-The [General FAQ page](https://docs.pancakeswap.finance/help/faq) answers the common questions we get from PancakeSwap users. The answers to these questions give advice, an explanation, or a link to a useful resource.
+На [странице общего FAQ](https://docs.pancakeswap.finance/help/faq) даются ответы на распространённые вопросы от пользователей PancakeSwap. Ответы содержат советы, пояснения или ссылки на полезные ресурсы.
 
-### Other Guides
+### Другие руководства
 
-There are also a number of guides in the help topic that will walk you through technical problems. We add guides when a problem that may be difficult to solve comes up often, so if you're having trouble be sure to check here for a guide to your problem.
+В разделе помощи также есть ряд руководств, которые проведут тебя через технические проблемы. Мы добавляем руководства, когда часто возникает проблема, которую может быть сложно решить, — поэтому если у тебя возникли трудности, обязательно проверь здесь наличие подходящего руководства.
 
-## Seeking support
+## Получение поддержки
 
-PancakeSwap doesn't have a dedicated support service. Instead, if you find yourself with a problem that has no answer here, you can ask for help on [PancakeSwap's Telegram channel](https://t.me/pancakeswap). For your safety, make sure you read the notice about scams if it's your first time on our Telegram.
+У PancakeSwap нет специализированной службы поддержки. Вместо этого, если у тебя возникла проблема, которой нет здесь, ты можешь обратиться за помощью в [Telegram-канале PancakeSwap](https://t.me/pancakeswap). Для своей безопасности обязательно прочитай уведомление о мошенниках, если ты впервые в нашем Telegram.
 
 
 
 {% hint style="warning" %}
-**Looking for v1 Exchange?**
+**Ищешь биржу v1?**
 
 [https://v1exchange.pancakeswap.finance/#/swap](https://v1exchange.pancakeswap.finance/#/swap)
 
-⚠️ PancakeSwap V1 Exchange was deprecated on May 2021. Go to the [V2 Exchange](https://pancakeswap.finance/swap?chainId=56) instead for better prices on most pairs.
+⚠️ Биржа PancakeSwap V1 была упразднена в мае 2021 года. Переходи на [биржу V2](https://pancakeswap.finance/swap?chainId=56) для получения лучших цен по большинству пар.
 {% endhint %}

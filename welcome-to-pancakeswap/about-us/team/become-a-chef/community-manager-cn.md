@@ -1,30 +1,30 @@
-# Community Manager (CN)
+# Менеджер сообщества (CN)
 
-* Position: Full-time
-* Location: Remote
-* Timezone: UTC+8
+* Занятость: Полная
+* Местонахождение: Удалённо
+* Часовой пояс: UTC+8
 
-We are looking for an experienced, Chinese-speaking Community Manager to activate, engage, and grow the PancakeSwap community. The ideal candidate has experience in Chinese-language crypto communities, understands DeFi communities and users, and has a proven track record of growing and activating communities in the region.
+Мы ищем опытного менеджера сообщества со знанием китайского языка для активации, вовлечения и развития сообщества PancakeSwap. Идеальный кандидат имеет опыт в китайскоязычных крипто-сообществах, понимает DeFi-сообщества и пользователей, а также имеет подтверждённый опыт развития и активации сообществ в этом регионе.
 
-### **Responsibilities:**
+### **Обязанности:**
 
-* Activate and grow PancakeSwap’s Chinese-speaking communities through organic and community initiatives
-* Represent PancakeSwap as a spokesperson across Chinese-speaking community channels, discussions, AMAs, and advocates for our products, brand, and ecosystem
-* Plan and execute Chinese-language community campaigns, AMAs, online initiatives, and local community meetups with clear growth and engagement outcomes
-* Build and maintain relationships with crypto projects, communities, and ecosystem partners to increase community activation
-* Manage PancakeSwap’s ambassadors and ambassador program for Chinese-speaking markets to support the community user, content, and regional events initiatives
-* Act as a bridge between PancakeSwap’s Chinese-speaking community and internal teams, relaying community and product feedback to drive PancakeSwap’s growth and success
-* Identify, engage, and collaborate with Chinese-speaking community content creators and influencers to produce relevant, high-quality content in the community
-* Track community performance and provide weekly reports on activities, engagement metrics, sentiment, and actionable insights
+* Активировать и развивать китайскоязычные сообщества PancakeSwap через органические и общественные инициативы
+* Представлять PancakeSwap в качестве представителя в китайскоязычных каналах сообщества, дискуссиях, AMA и выступать адвокатом наших продуктов, бренда и экосистемы
+* Планировать и проводить китайскоязычные кампании сообщества, AMA, онлайн-инициативы и локальные встречи с чёткими показателями роста и вовлечённости
+* Выстраивать и поддерживать отношения с крипто-проектами, сообществами и партнёрами по экосистеме для увеличения активации сообщества
+* Управлять амбассадорами и программой амбассадоров PancakeSwap для китайскоязычных рынков в поддержку инициатив пользователей, контента и региональных мероприятий
+* Выступать мостом между китайскоязычным сообществом PancakeSwap и внутренними командами, передавая отзывы сообщества и продукта для стимулирования роста и успеха PancakeSwap
+* Выявлять, вовлекать и сотрудничать с китайскоязычными создателями контента и инфлюенсерами для создания актуального высококачественного контента в сообществе
+* Отслеживать эффективность сообщества и предоставлять еженедельные отчёты об активностях, метриках вовлечённости, настроениях и практических инсайтах
 
-### **Requirements**
+### **Требования**
 
-* 2+ years of experience as a community manager in the DeFi or crypto space
-* Language: Native Proficiency in Chinese required, working proficiency in English.
-* Understanding of Chinese-speaking crypto communities, DeFi, and community growth
-* Excellent Chinese written and verbal communication skills
-* Experience with community platforms and tools on Discord, Telegram, X, etc.
-* Proactive, results-oriented, and able to operate in a fast-paced environment
+* 2+ лет опыта менеджера сообщества в DeFi или крипто-пространстве
+* Язык: Обязательно свободное владение китайским языком на уровне носителя, рабочий уровень английского.
+* Понимание китайскоязычных крипто-сообществ, DeFi и развития сообщества
+* Отличные письменные и устные коммуникативные навыки на китайском языке
+* Опыт работы с платформами и инструментами сообщества: Discord, Telegram, X и др.
+* Проактивный, ориентированный на результат подход, умение работать в быстро меняющейся среде
 
-**How to Apply:**\
-Shoot your resume over to hiring@pancakeswap.com, we’d love to hear from you!
+**Как подать заявку:**\
+Отправь своё резюме на hiring@pancakeswap.com, мы будем рады тебя услышать!

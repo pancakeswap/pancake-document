@@ -1,7 +1,7 @@
-# Become a Chef
+# Стань шеф-поваром
 
-![](../../../../.gitbook/assets/become-a-chef-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/become-a-chef-header.png)
 
-Interested in joining the PancakeSwap team? If you're passionate, dedicated, and a fan of all things fluffy, syrupy, and brownish-gold, we'd love to hear from you!
+Хочешь присоединиться к команде PancakeSwap? Если ты полон энергии, целеустремлён и неравнодушен ко всему пушистому, сиропному и золотисто-коричневому — мы будем рады тебя услышать!
 
-Check out the positions available for more information. Nothing there that suits your talents? Check back later. We'll have more openings in the future.&#x20;
+Ознакомься с открытыми вакансиями, чтобы узнать подробнее. Не нашёл подходящей? Заходи позже — у нас будут новые открытые позиции.&#x20;

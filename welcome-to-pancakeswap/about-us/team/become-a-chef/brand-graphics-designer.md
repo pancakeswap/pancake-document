@@ -2,34 +2,34 @@
 hidden: true
 ---
 
-# Brand / Graphics Designer
+# Дизайнер бренда / графики
 
-### **General Information**
+### **Общая информация**
 
-* Salary range: Competitive, negotiable
-* Position: Full-time
-* Location: Remote
+* Уровень зарплаты: Конкурентный, по договорённости
+* Занятость: Полная
+* Местонахождение: Удалённо
 
-### Roles & Responsibilities:
+### Роли и обязанности:
 
-* Design and develop characters and graphics for our brand in both 2D and 3D visuals.
-* Ensure visual consistency across the brand.
-* Create visual assets to support the Marketing team’s requirements, including banners, infographics, mockups, event collaterals, and more.
-* Take ownership of the design process on marketing event materials, ensuring designs are optimized for printing.
-* Work effectively with marketing, product operations, and business development teams to drive design initiatives and maintain a unified brand vision.
+* Разрабатывать персонажей и графику для нашего бренда в 2D- и 3D-формате.
+* Обеспечивать визуальную согласованность бренда.
+* Создавать визуальные материалы в поддержку требований команды маркетинга: баннеры, инфографику, макеты, материалы к мероприятиям и многое другое.
+* Брать на себя ответственность за процесс дизайна маркетинговых материалов для мероприятий, обеспечивая их оптимизацию для печати.
+* Эффективно взаимодействовать с командами маркетинга, продуктовых операций и развития бизнеса для реализации дизайн-инициатив и поддержания единого видения бренда.
 
-### Requirements
+### Требования
 
-* Design Tools: Proficiency in tools that create consistent, high-quality visuals (e.g., Adobe Creative Suite, 3D design tools, Figma, or even AI design tools).
-* Experience: Minimum of 3 years of full-time experience as a Brand/Graphics Designer.
+* Инструменты дизайна: владение инструментами для создания стабильных высококачественных визуальных материалов (например, Adobe Creative Suite, 3D-инструменты, Figma или AI-инструменты для дизайна).
+* Опыт: не менее 3 лет работы на полной занятости в качестве дизайнера бренда/графики.
 
-### Nice to have:
+### Желательно:
 
-* Strong audience- and content-focused mindset.
-* Experience using fintech apps or PancakeSwap products/ with crypto / Web3 Familiarity.
-* Experience of handling design assets and material for print and merch items is a big plus.
-* Experience working in distributed teams.&#x20;
+* Сильная ориентация на аудиторию и контент.
+* Опыт использования финтех-приложений или продуктов PancakeSwap, знакомство с крипто / Web3.
+* Опыт работы с дизайн-материалами и материалами для печати и мерча является большим плюсом.
+* Опыт работы в распределённых командах.&#x20;
 
-### **How to apply**
+### **Как подать заявку**
 
-Email _hiring@pancakeswap.com_ with your CV & Portfolio!
+Отправь своё резюме и портфолио на _hiring@pancakeswap.com_!

@@ -1,61 +1,61 @@
-# How v3 APR is calculated
+# Как рассчитывается APR в V3
 
 {% hint style="info" %}
-In V3 Liquidity and Farms, with the new non-fungible liquidity and customizable price range ability. Each LP position will have its own LP fee and CAKE farming APR.
+В V3 Ликвидности и Farms с новой нефункгибельной ликвидностью и настраиваемым ценовым диапазоном каждая позиция LP имеет собственный APR по комиссиям LP и APR по Yield Farming CAKE.
 {% endhint %}
 
-The total APR is combined by the LP fee APR and CAKE reward APR
+Итоговый APR складывается из APR по комиссиям LP и APR по наградам CAKE.
 
-### LP fee
+### Комиссии LP
 
-Theoretically speaking, given a price range and liquidity user about to add, we can estimate the expected future 7 days fee as following&#x20;
+Теоретически, при заданном ценовом диапазоне и объёме ликвидности, которую пользователь собирается добавить, мы можем оценить ожидаемые комиссии за следующие 7 дней следующим образом:
 
 $$
 fee_{next7d} = fee_{in} \frac{\Delta{L}}{L_{in} + \Delta{L}}
 $$
 
-* $$fee_{in}$$ : Fee amount accrued in the user specified price range in last 7 days
-* $$L_{in}$$: Current liquidity in the user specified price range
-* $$\Delta{L}$$: Liquidity user want to add to the price range
+* $$fee_{in}$$ : Сумма комиссий, накопленных в указанном пользователем ценовом диапазоне за последние 7 дней
+* $$L_{in}$$: Текущая ликвидность в указанном пользователем ценовом диапазоне
+* $$\Delta{L}$$: Ликвидность, которую пользователь хочет добавить в ценовой диапазон
 
-#### Fee in range
+#### Комиссии в диапазоне
 
-For $$fee_{in}$$, we use the historical trading volume data, fee tier and historical price data to estimate the price in range
+Для $$fee_{in}$$ мы используем исторические данные о торговом объёме, уровень комиссии и исторические данные о ценах для оценки нахождения цены в диапазоне:
 
 $$fee_{in} = f_tV_{7d}\frac{T_{in}}{T_{7d}}$$
 
-* $$f_t$$: Fee tier
-* $$V_{7d}$$: Total trading volume of last 7 days
-* $$T_{in}$$: Duration, measured in seconds, of prices staying within the price range in the past 7 days
-* $$T_{7d}$$: 7 days measured in seconds
+* $$f_t$$: Уровень комиссии
+* $$V_{7d}$$: Общий торговый объём за последние 7 дней
+* $$T_{in}$$: Продолжительность (в секундах), в течение которой цены оставались в заданном ценовом диапазоне за последние 7 дней
+* $$T_{7d}$$: 7 дней в секундах
 
-### Cake APR
+### APR по CAKE
 
-#### Pool Allocation
+#### Распределение наград пула
 
-The total reward cake per second in MC v3 using upkeep and can be derived by `latestPeriodCakePerSecond`&#x20;
+Общее количество CAKE в секунду в MC v3 использует upkeep и может быть получено через `latestPeriodCakePerSecond`
 
 `cakePerSecond = lastestPeriodCakePerSecond / 1e12 / 1e18`
 
-In each pool, we can use `poolInfo` to get the `poolWeight` by dividing  `poolInfo.allocPoint / totalAllocPoint`
+В каждом пуле можно использовать `poolInfo` для получения `poolWeight` путём деления `poolInfo.allocPoint / totalAllocPoint`
 
-#### Global Cake APR
+#### Глобальный APR CAKE
 
-Global APR calculated using the total amount of active & staked liquidity with the pool CAKE reward emissions.
+Глобальный APR рассчитывается с использованием общей суммы активной и застейканной ликвидности с учётом эмиссии наград CAKE пула.
 
 `APR (global) = (cakePerSecond * 31536000) / (totalAllocPoint / pool.allocPoint) * 100 * cakeUSD / totalStakedLiquidityUSD`
 
-`totalStakedLiquidityUSD` represents the current pool active staked liquidity in USD, composing by all the position ticks in range staked in MasterChef v3.
+`totalStakedLiquidityUSD` представляет текущую активную застейканную ликвидность пула в USD, состоящую из всех тиков позиций в диапазоне, размещённых в MasterChef v3.
 
-#### Position Cake APR
+#### APR CAKE для позиции
 
-APRs for individual positions may vary depend on their price range settings.
+APR для отдельных позиций может варьироваться в зависимости от настроек ценового диапазона.
 
 $$
 ARP_p = {\frac{USD_{r}}{USD_{p}}} {\frac{L_{p}}{L_{lm}}}
 $$
 
-* $$USD_r$$: CAKE reward earn USD per year in pool
-* $$USD_p$$: Total USD value in position
-* $$L_{p}$$: Position liquidity
-* $$L_{lm}$$: Total staking liquidity which tracked by LMPool
+* $$USD_r$$: Награды CAKE в USD в год в пуле
+* $$USD_p$$: Общая стоимость позиции в USD
+* $$L_{p}$$: Ликвидность позиции
+* $$L_{lm}$$: Общая застейканная ликвидность, отслеживаемая LMPool

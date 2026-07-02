@@ -1,43 +1,43 @@
 # FAQ
 
-<figure><img src="../../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2894%29.png" alt=""><figcaption></figcaption></figure>
 
-### **Is there a deadline for the migration?**
+### **Есть ли крайний срок для миграции?**
 
-No
+Нет.
 
-You will be able to unstake from V2 farms at any time.
+Ты сможешь снять стейкинг с ферм V2 в любое время.
 
-You will be able to remove liquidity from V2 at any time.
+Ты сможешь удалить ликвидность из V2 в любое время.
 
-However, Chefs will gradually migrate the CAKE reward emissions from those selected V2 farms to their corresponding V3 farms. To continue earning CAKE rewards. We would recommend that you complete the migrations as early as possible.
+Однако разработчики постепенно перенесут эмиссию наград CAKE с выбранных ферм V2 на соответствующие фермы V3. Чтобы продолжать получать награды CAKE, рекомендуем завершить миграцию как можно раньше.
 
-For more news and updates on the migration timeline, please [follow our social channels on Twitter or Telegram announcement.](../../contact-us/social-accounts.md)
+Следи за новостями и обновлениями о сроках миграции в наших [социальных сетях Twitter или Telegram](../../contact-us/social-accounts.md).
 
-### When can I start migrating?
+### Когда можно начать миграцию?
 
-If you are reading this, the migration is likely started already. Visit [https://pancakeswap.finance/migration](https://pancakeswap.finance/migration) for more details.
+Если ты читаешь это, миграция, скорее всего, уже началась. Посети [https://pancakeswap.finance/migration](https://pancakeswap.finance/migration) для получения подробной информации.
 
-### I can’t find the pair I’m staking
+### Не могу найти пару, в которой держу стейкинг
 
-Some V2 farms and liquidity will continue to operate in parallel with V3.
+Некоторые фермы V2 и позиции ликвидности продолжат работать параллельно с V3.
 
-Some V2 farms will not be migrated on day 1. If your staked farms do not appear in “Step 1”, they do not require to be migrated at the moment.
+Некоторые фермы V2 не будут мигрированы в первый день. Если твои фермы в стейкинге не отображаются в «Шаге 1», они пока не требуют миграции.
 
-If your V2 liquidity positions do not appear in “Step 2”, it is likely due to they have V2 farms running and do not require to be migrated at the moment.
+Если твои позиции ликвидности V2 не отображаются в «Шаге 2», скорее всего, для них ещё работают фермы V2 и они пока не требуют миграции.
 
-You can manually migrate your farm stakings and liquidity. Continue reading.
+Ты можешь мигрировать стейкинг ферм и ликвидность вручную. Читай далее.
 
-### Can I manually migrate my farm stakings or liquidity without using the migration helper?
+### Можно ли вручную мигрировать стейкинг ферм или ликвидность без помощника миграции?
 
-Yes.
+Да.
 
-You can unstake LP tokens from V2 farms by going to the “Farms” page and looking for farms with the “V2” tag. You can use the “Staked only” toggle to filter farms you are currently staking.
+Ты можешь снять LP токены с ферм V2, перейдя на страницу «Farms» и найдя фермы с пометкой «V2». Используй переключатель «Staked only» для фильтрации ферм, в которых ты держишь стейкинг.
 
-You can remove V2 liquidity by going to the “Liquidity” page and looking for positions with the “V2” tag. You can use the V2 tab to filter only V2 positions.
+Ты можешь убрать ликвидность V2, перейдя на страницу «Liquidity» и найдя позиции с пометкой «V2». Используй вкладку V2 для фильтрации только позиций V2.
 
-For adding your liquidity to V3 and staking LP positions to V3, follow the standard V3 steps.&#x20;
+Для добавления ликвидности в V3 и размещения LP позиций в стейкинг в V3 следуй стандартным шагам V3.
 
-For a detailed tutorial on how to add liquidity in V3, read [here](../../../earn/pancakeswap-pools/liquidity-guide.md).&#x20;
+Подробное руководство по добавлению ликвидности в V3 читай [здесь](../../../earn/pancakeswap-pools/liquidity-guide.md).
 
-For a tutorial on how to farm in V3, read [here](../../../earn/yield-farming/how-to-use-farms/).
+Руководство по Yield Farming в V3 читай [здесь](../../../earn/yield-farming/how-to-use-farms/).

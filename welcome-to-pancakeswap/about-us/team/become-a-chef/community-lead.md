@@ -2,38 +2,38 @@
 hidden: true
 ---
 
-# Community Lead
+# Руководитель сообщества
 
-## General Information:
+## Общая информация:
 
-* Location: Remote
-* Position: Full-time
-* Time-zone Preference: GMT+8, +/-4 hours flexibility
+* Местонахождение: Удалённо
+* Занятость: Полная
+* Предпочтение по часовому поясу: GMT+8, ±4 часа гибкости
 
-We’re seeking a highly motivated and experienced Community Lead to join our team at PancakeSwap. This remote, full-time position offers an exciting opportunity to shape and drive our global community strategy, with a particular emphasis on expanding our presence in Asia and Europe. As the Community Lead, you will spearhead our ambassador program, enhance engagement across our community channels, and represent PancakeSwap at key events and public forums. The ideal candidate will have a deep understanding of the DeFi landscape, excellent bilingual communication skills, and a proven track record in community management.&#x20;
+Мы ищем высокомотивированного и опытного руководителя сообщества для нашей команды PancakeSwap. Эта удалённая позиция на полной занятости открывает захватывающую возможность формировать и развивать нашу глобальную стратегию сообщества, с особым акцентом на расширение присутствия в Азии и Европе. Руководитель сообщества будет возглавлять нашу программу амбассадоров, усиливать вовлечённость в каналах сообщества и представлять PancakeSwap на ключевых мероприятиях и публичных форумах. Идеальный кандидат должен глубоко понимать DeFi-пространство, обладать отличными двуязычными коммуникативными навыками и иметь подтверждённый опыт управления сообществом.&#x20;
 
-## Key Responsibilities:
+## Ключевые обязанности:
 
-* Develop and execute a comprehensive global community strategy for PancakeSwap, focusing on increasing engagement and presence in Asia and Europe.
-* Lead and expand the ambassador program by recruiting, training, and supporting ambassadors to grow PancakeSwap’s presence globally through content creation, meet-ups, and events.
-* Act as the primary spokesperson for PancakeSwap, representing the team in AMAs, conferences, and other public speaking engagements.
-* Organize and coordinate meet-ups, workshops, and other community events globally. Travel as required to attend and support events.
-* Drive the growth and engagement of community channels such as Telegram, Discord, and other relevant platforms.
-* Collaborate with local content creators and influencers to produce engaging and relevant content that aligns with PancakeSwap’s brand and goals.
+* Разрабатывать и реализовывать комплексную глобальную стратегию сообщества для PancakeSwap, ориентируясь на увеличение вовлечённости и присутствия в Азии и Европе.
+* Руководить и расширять программу амбассадоров: нанимать, обучать и поддерживать амбассадоров для глобального роста присутствия PancakeSwap через создание контента, встречи и мероприятия.
+* Выступать основным представителем PancakeSwap, представляя команду на AMA, конференциях и других публичных мероприятиях.
+* Организовывать и координировать встречи, воркшопы и другие мероприятия сообщества по всему миру. Выезжать на мероприятия по мере необходимости.
+* Стимулировать рост и вовлечённость каналов сообщества, таких как Telegram, Discord и другие платформы.
+* Сотрудничать с локальными создателями контента и инфлюенсерами для создания вовлекающего и актуального контента, соответствующего бренду и целям PancakeSwap.
 
-## Skills & Qualifications:
+## Навыки и квалификация:
 
-* Bachelor’s degree in Marketing, Communications, Journalism, or a related field.
-* Minimum of 3 years of experience in crypto community management, with a strong focus on Asia and Europe.
-* Fluent in English and Chinese (both spoken and written). Additional languages are a plus.
-* Deep understanding of DeFi, degen marketing strategies, and the broader cryptocurrency ecosystem.
-* Excellent verbal and written communication skills, with the ability to engage and motivate a global audience.
-* Proven ability to manage and prioritize multiple projects and meet deadlines in a fast-paced environment.
-* Proactive, results-oriented, and capable of taking initiative to drive community growth and engagement.
-* Experience in facilitating collaboration and communication across a diverse, international team.
+* Степень бакалавра в области маркетинга, коммуникаций, журналистики или смежной области.
+* Не менее 3 лет опыта в управлении крипто-сообществом, с акцентом на Азию и Европу.
+* Свободное владение английским и китайским языками (устно и письменно). Знание дополнительных языков является плюсом.
+* Глубокое понимание DeFi, degen-маркетинговых стратегий и более широкой криптовалютной экосистемы.
+* Отличные устные и письменные коммуникативные навыки, умение вовлекать и мотивировать глобальную аудиторию.
+* Подтверждённая способность управлять несколькими проектами и соблюдать сроки в быстро меняющейся среде.
+* Проактивный, ориентированный на результат подход и способность брать инициативу для развития сообщества.
+* Опыт в обеспечении сотрудничества и коммуникации в разнообразной международной команде.
 
-## How to apply:
+## Как подать заявку:
 
-Email hiring@pancakeswap.com with your resume!
+Отправь своё резюме на hiring@pancakeswap.com!
 
 <br>

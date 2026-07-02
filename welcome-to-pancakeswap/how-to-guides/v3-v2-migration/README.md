@@ -1,3 +1,3 @@
-# 3⃣ V3 Migration
+# 3⃣ Миграция на V3
 
-Here are some useful documents for the migration of Exchange V3 and Farm V3.
+Здесь собраны полезные документы по миграции Exchange V3 и Farm V3.

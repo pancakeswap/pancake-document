@@ -1,32 +1,31 @@
-# ❓ FAQs Page
+# ❓ Страница FAQ
 
-### **Who can apply to be a PancakeSwap Ambassador?**
+### **Кто может подать заявку на роль амбассадора PancakeSwap?**
 
-Anyone who meets the requirements outlined in the document, including native in both English and the local language of the region they’re applying to, has business-level fluency in written and spoken communication, a strong understanding of PancakeSwap, and a genuine enthusiasm for community building.
+Любой, кто соответствует требованиям, указанным в документе: является носителем английского языка и местного языка региона, на который подаёт заявку, имеет деловой уровень владения письменной и устной речью, хорошо понимает PancakeSwap и искренне увлечён построением сообщества.
 
-### **Do I need prior experience in event planning or community management?**
+### **Нужен ли предыдущий опыт в организации мероприятий или управлении сообществом?**
 
-While prior experience is a plus, it’s not required. We’ll provide all the guidance and support you need to succeed.
+Предыдущий опыт является преимуществом, но не обязателен. Мы предоставим все необходимые руководства и поддержку для достижения успеха.
 
-### **What is the time commitment for an Ambassador?**
+### **Какова временнáя нагрузка для амбассадора?**
 
-Time commitment will vary depending on your activities, but hosting events and engaging with your community will require an ongoing effort.
+Временная нагрузка будет варьироваться в зависимости от твоих активностей, но организация мероприятий и взаимодействие с сообществом требуют постоянных усилий.
 
-### **Will I receive resources to support my events?**
+### **Получу ли я ресурсы для поддержки своих мероприятий?**
 
-Absolutely! Our community team will provide you with onboarding materials, event planning support, and ongoing guidance.
+Безусловно! Наша команда по работе с сообществом предоставит тебе материалы для онбординга, поддержку в планировании мероприятий и постоянное руководство.
 
-### **What rewards can I expect?**
+### **Каких вознаграждений стоит ожидать?**
 
-Rewards include financial compensation for completed tasks, exclusive PancakeSwap merchandise, and global recognition within the DeFi community.
+Вознаграждения включают финансовую компенсацию за выполненные задания, эксклюзивный мерч PancakeSwap и мировое признание в DeFi-сообществе.
 
-### **How will interviews be conducted?**
+### **Как будут проводиться интервью?**
 
-Interviews will be held online via video call, so make sure you’re ready to communicate effectively with an open camera.
+Интервью будут проходить онлайн в формате видеозвонка, поэтому убедись, что ты готов эффективно общаться с включённой камерой.
 
-### **What happens if I’m selected?**
+### **Что произойдёт, если меня выберут?**
 
-You’ll be onboarded into the PancakeSwap Ambassador Program, where you’ll get the support you need to host your first event and represent PancakeSwap in your community.
+Ты пройдёшь онбординг в программу амбассадоров PancakeSwap, где получишь необходимую поддержку для проведения первого мероприятия и представления PancakeSwap в своём сообществе.
 
 ###
-

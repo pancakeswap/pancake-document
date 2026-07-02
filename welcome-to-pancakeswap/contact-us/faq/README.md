@@ -1,123 +1,123 @@
-# General FAQ
+# Общий FAQ
 
-![](<../../../.gitbook/assets/general-faq-header (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/general-faq-header%20%281%29.png)
 
-This FAQ page answers some of the more commonly asked questions from the PancakeSwap community.
+На этой странице FAQ даются ответы на наиболее часто задаваемые вопросы от сообщества PancakeSwap.
 
-## Is PancakeSwap safe? Has PancakeSwap been Audited?
+## Безопасен ли PancakeSwap? Проходил ли PancakeSwap аудит?
 
-See for yourself:
+Убедись сам:
 
-* Check out [these PancakeSwap security audits](../../../#is-pancakeswap-safe)
-* Transparent:
-  * We’re built on open-source software: our site and all our Smart Contracts are publicly visible for maximum transparency.
-  * Our contracts are verified on blockchain explorers, so you know that what you see is what you get. Check them out [here](/broken/pages/-MeTcIwNOfhTYrz1V3xJ).
-* Security best practices:
-  * The chefs use multisig for all contracts.
-  * Our contracts’ time-lock gives you peace of mind.
+* Ознакомься с [аудитами безопасности PancakeSwap](../../../#is-pancakeswap-safe)
+* Прозрачность:
+  * Мы построены на программном обеспечении с открытым исходным кодом: наш сайт и все наши смарт-контракты публично видны для максимальной прозрачности.
+  * Наши контракты верифицированы на обозревателях блоков, так что ты получаешь именно то, что видишь. Проверь их [здесь](/broken/pages/-MeTcIwNOfhTYrz1V3xJ).
+* Лучшие практики безопасности:
+  * Шеф-повара используют мультиподпись для всех контрактов.
+  * Таймлок наших контрактов даёт тебе спокойствие.
 
-## How can I stake CAKE?
+## Как застейкать CAKE?
 
-You can stake your CAKE in PancakeSwap Syrup Pools. Visit the [Syrup Pools page](https://pancakeswap.finance/pools).
+Ты можешь застейкать свои CAKE в Syrup Pools PancakeSwap. Посети [страницу Syrup Pools](https://pancakeswap.finance/pools).
 
-Read our [How to Stake in Syrup Pools guide](https://docs.pancakeswap.finance/products/syrup-pool/syrup-pool-guide) if you'd like a hand getting started with staking.
+Прочитай наше [руководство по Стейкингу в Syrup Pools](https://docs.pancakeswap.finance/products/syrup-pool/syrup-pool-guide), если нужна помощь в начале работы со Стейкингом.
 
-## What is the difference between staking and farming?
+## В чём разница между Стейкингом и Фармингом?
 
-Staking in Syrup Pools and farming with Yield Farming are both ways to earn more CAKE by supporting PancakeSwap.
+Стейкинг в Syrup Pools и Yield Farming — это оба способа заработать больше CAKE, поддерживая PancakeSwap.
 
-Staking only needs some CAKE to be added to a Syrup Pool to earn CAKE or other tokens.\
-[Learn more about Syrup Pool staking.](https://docs.pancakeswap.finance/products/syrup-pool)
+Стейкинг требует только добавления CAKE в Syrup Pool для получения CAKE или других токенов.\
+[Подробнее о Стейкинге в Syrup Pool.](https://docs.pancakeswap.finance/products/syrup-pool)
 
-Farming is more complicated and needs LP Tokens to earn CAKE.\
-[Learn more about Yield Farming.](https://docs.pancakeswap.finance/products/yield-farming)
+Yield Farming более сложный и требует LP-токенов для получения CAKE.\
+[Подробнее о Yield Farming.](https://docs.pancakeswap.finance/products/yield-farming)
 
-## How do I farm?
+## Как заниматься Фармингом?
 
-We have a [Yield Farming guide](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) if you're interested in learning how to farm.
+У нас есть [руководство по Yield Farming](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms), если тебе интересно узнать, как фармить.
 
-## Where can I view the PancakeSwap roadmap?
+## Где можно посмотреть дорожную карту PancakeSwap?
 
-You can [view our to-do list here, but don't call it a roadmap](https://docs.pancakeswap.finance/roadmap).
+Ты можешь [посмотреть наш список задач здесь, но не называй это дорожной картой](https://docs.pancakeswap.finance/roadmap).
 
-## How do I connect my wallet to BNB Smart Chain and PancakeSwap?
+## Как подключить кошелёк к BNB Smart Chain и PancakeSwap?
 
-We have a [Connect Your Wallet to PancakeSwap guide](https://docs.pancakeswap.finance/get-started/connection-guide) covering this in detail.
+У нас есть [руководство по подключению кошелька к PancakeSwap](https://docs.pancakeswap.finance/get-started/connection-guide), подробно описывающее этот процесс.
 
-## What's the best wallet for PancakeSwap?
+## Какой кошелёк лучше всего подходит для PancakeSwap?
 
-It depends on your needs. We have an [in-depth guide to selecting and creating a wallet](https://docs.pancakeswap.finance/get-started/wallet-guide) that's right for you.
+Это зависит от твоих потребностей. У нас есть [подробное руководство по выбору и созданию кошелька](https://docs.pancakeswap.finance/get-started/wallet-guide), подходящего именно тебе.
 
-## Why is my transaction failing?
+## Почему моя транзакция не выполняется?
 
-You can check the status of a transaction on [https://bscscan.com/](https://bscscan.com).
+Ты можешь проверить статус транзакции на [https://bscscan.com/](https://bscscan.com).
 
-Our [Troubleshooting Errors guide](https://docs.pancakeswap.finance/help/troubleshooting) may have a solution for your problem if you're having issues.
+Наше [руководство по устранению ошибок](https://docs.pancakeswap.finance/help/troubleshooting) может содержать решение твоей проблемы, если у тебя возникли трудности.
 
-You can also see our [Fixing Stuck Pending Transactions guide](https://docs.pancakeswap.finance/help/unsticking-a-transaction-stuck-as-pending-with-metamask) if you have a stuck transaction.
+Ты также можешь воспользоваться [руководством по исправлению зависших ожидающих транзакций](https://docs.pancakeswap.finance/help/unsticking-a-transaction-stuck-as-pending-with-metamask), если транзакция зависла.
 
-## When will you open more pools?
+## Когда откроются новые пулы?
 
-New Pools are added to PancakeSwap frequently. There will always be an announcement before the launch of new pools.
+Новые пулы добавляются в PancakeSwap регулярно. Перед запуском новых пулов всегда будет объявление.
 
-Join the [announcements Telegram group](https://t.me/PancakeSwapAnn) to learn about new Pools as early as possible.
+Вступи в [группу объявлений в Telegram](https://t.me/PancakeSwapAnn), чтобы узнавать о новых пулах как можно раньше.
 
-## Did Farm APR calculation change?
+## Изменился ли расчёт APR для Фарминга?
 
-Previously, rewards earned by LP Token-holders generated from trading fees were not included in Farm APR calculations. APR calculations now include these rewards, and better reflect the expected APR for Farm pairs.
+Ранее доходы, получаемые держателями LP-токенов от торговых комиссий, не включались в расчёты APR для Фарминга. Теперь эти доходы включены в расчёты APR, что лучше отражает ожидаемый APR для торговых пар Фарминга.
 
-## How do I get airdrops?
+## Как получить аирдропы?
 
-Whenever there is an official airdrop on PancakeSwap it will be announced along with the requirements.
+Если на PancakeSwap будет официальный аирдроп, он будет объявлен вместе с требованиями к участию.
 
-Please remember anyone can airdrop tokens to PancakeSwap users since every transaction is public on BscScan. Be sure to do your own research when it comes to non-official airdrops. To protect your funds, we recommend you don't use a smart contract you don't understand from a source you don't trust.
+Помни, что любой может отправить токены пользователям PancakeSwap, поскольку каждая транзакция публична в BscScan. Обязательно проводи собственное исследование в отношении неофициальных аирдропов. Для защиты своих средств мы рекомендуем не использовать смарт-контракт, который ты не понимаешь, от источника, которому не доверяешь.
 
-## How can I report a bug?
+## Как сообщить об ошибке?
 
-Learn about our [bug bounty and potential bounty payouts](https://docs.pancakeswap.finance/code/bug-bounty).
+Узнай о нашей [программе поиска уязвимостей и возможных выплатах](https://docs.pancakeswap.finance/code/bug-bounty).
 
-## Where can I view smart contracts?
+## Где можно посмотреть смарт-контракты?
 
-Learn how to find smart contracts on our [Finding Contracts page](https://docs.pancakeswap.finance/code/smart-contracts).
+Узнай, как найти смарт-контракты, на нашей [странице поиска контрактов](https://docs.pancakeswap.finance/code/smart-contracts).
 
-## Why does it say I have no BNB balance?
+## Почему отображается, что у меня нулевой баланс BNB?
 
-If you've already [transferred BNB into your BNB Smart Chain-enabled wallet](https://docs.pancakeswap.finance/get-started/bep20-guide) but still have this error, you're most likely not [connected to BNB Smart Chain](https://docs.pancakeswap.finance/get-started/connection-guide) within your wallet. Check your wallet's selected network and make sure you have BNB Smart Chain (BSC) selected.
+Если ты уже [перевёл BNB в кошелёк с поддержкой BNB Smart Chain](https://docs.pancakeswap.finance/get-started/bep20-guide), но всё равно видишь эту ошибку, скорее всего, ты не [подключён к BNB Smart Chain](https://docs.pancakeswap.finance/get-started/connection-guide) в своём кошельке. Проверь выбранную сеть в кошельке и убедись, что выбрана BNB Smart Chain (BSC).
 
-## How do I vote?
+## Как голосовать?
 
-To learn more about voting, you can [read our section on Voting](https://docs.pancakeswap.finance/products/voting), including voting guides.
+Чтобы узнать больше о голосовании, ты можешь [прочитать наш раздел о Голосовании](https://docs.pancakeswap.finance/products/voting), включая руководства по Голосованию.
 
-## What is the max supply of CAKE?
+## Каков максимальный объём предложения CAKE?
 
-Yes, CAKE now has a hard cap of 400M as outlined in [our latest proposal](https://pancakeswap.finance/voting/proposal/0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5?id=0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5\&chain=bsc).
+Да, у CAKE теперь есть жёсткий лимит в 400 млн, как указано в [нашем последнем предложении](https://pancakeswap.finance/voting/proposal/0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5?id=0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5\&chain=bsc).
 
-## What are the treasury funds used for?
+## На что используются средства казначейства?
 
-The treasury funds are used to cover the expenses involved in running PancakeSwap. These expenses include salaries, audits, prizes, hosting, upkeep, bounties, etc.
+Средства казначейства используются для покрытия расходов, связанных с работой PancakeSwap. Эти расходы включают зарплаты, аудиты, призы, хостинг, техническое обслуживание, вознаграждения и т. д.
 
-## Where can I check the Analytics?
+## Где можно проверить аналитику?
 
-You can check the analytics of PancakeSwap by click on the "Analytics" tab on the top menu or by clicking the link below.
+Ты можешь проверить аналитику PancakeSwap, нажав на вкладку «Analytics» в верхнем меню или перейдя по ссылке ниже.
 
-Analytics: [https://pancakeswap.info/](https://pancakeswap.info)
+Аналитика: [https://pancakeswap.info/](https://pancakeswap.info)
 
-## Is PancakeSwap protected from flashloan attacks?
+## Защищён ли PancakeSwap от атак с флэш-займами?
 
-PancakeSwap's vault has anti-flashloan protection. PancakeSwap’s CAKE token isn’t vulnerable to flash loan attacks. Unlike vulnerable tokens, CAKE token minting is predefined, and can’t be adjusted in a single transaction. Ownership cannot be transferred outside of MasterChef contract.
+Хранилище PancakeSwap имеет защиту от флэш-займов. Токен CAKE PancakeSwap не подвержен атакам с флэш-займами. В отличие от уязвимых токенов, чеканка токенов CAKE заранее определена и не может быть скорректирована в одной транзакции. Право собственности не может быть передано за пределы контракта MasterChef.
 
-PancakeSwap’s other smart contracts, like IFO and AutoPool, are protected as well; they prevent other contracts from interacting with them, reducing the scope of vector attacks.
+Другие смарт-контракты PancakeSwap, такие как IFO и AutoPool, также защищены: они предотвращают взаимодействие с ними других контрактов, сокращая область возможных векторов атак.
 
-## Can I join the PancakeSwap team?
+## Могу ли я вступить в команду PancakeSwap?
 
-Check the [Become a Chef](https://docs.pancakeswap.finance/hiring/become-a-chef) area for information on open positions we're looking to fill.
+Проверь раздел [«Стать шеф-поваром»](https://docs.pancakeswap.finance/hiring/become-a-chef) для получения информации об открытых вакансиях.
 
-We advertise new positions we're looking to fill on our [official social media channels](https://docs.pancakeswap.finance/contact-us/telegram), so be sure to follow us to get the latest hiring information.
+Мы объявляем о новых вакансиях в наших [официальных социальных сетях](https://docs.pancakeswap.finance/contact-us/telegram), поэтому обязательно подпишись, чтобы получать актуальную информацию о найме.
 
-## What is SYRUP?
+## Что такое SYRUP?
 
-SYRUP was a part of the staking process earlier in PancakeSwap's life. SYRUP was discontinued when a security issue was discovered and is no longer a part of PancakeSwap.
+SYRUP ранее был частью процесса Стейкинга в начале существования PancakeSwap. SYRUP был прекращён после обнаружения проблемы безопасности и больше не является частью PancakeSwap.
 
-## I can't find an answer for my question. Where do I find an answer?
+## Я не нашёл ответа на свой вопрос. Где его найти?
 
-If you can't find what you're looking for in PancakeSwap's documentation, ask your question on [PancakeSwap's official social media platforms](https://docs.pancakeswap.finance/contact-us/telegram) and someone will do their best to help you out.
+Если ты не можешь найти нужную информацию в документации PancakeSwap, задай свой вопрос на [официальных платформах социальных сетей PancakeSwap](https://docs.pancakeswap.finance/contact-us/telegram) — кто-нибудь постарается тебе помочь.
