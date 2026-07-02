@@ -1,89 +1,89 @@
 # ❓ FAQ
 
-### 1. How does slippage tolerance work for Crosschain swaps?
+### 1. Como funciona a tolerância de Slippage nos swaps Cross-chain?
 
-For Crosschain swaps, your selected slippage tolerance percentage is applied independently to swaps on both the source and destination chains.
+Para swaps Cross-chain, a porcentagem de tolerância de Slippage selecionada é aplicada de forma independente aos swaps tanto na blockchain de origem quanto na de destino.
 
-**Example:**
+**Exemplo:**
 
-* Swap BNB on BNB Chain to ARB on Arbitrum
-* Slippage tolerance set to 1%
-* The route could be:
-  1. Swap BNB to USDC on BNB Chain
-  2. Bridge USDC from BNB Chain to Arbitrum via Across
-  3. Swap USDC to ARB on Arbitrum
-* In this case, the 1% slippage tolerance applies separately to:
-  * The swap on BNB Chain
-  * The swap on Arbitrum
+* Swap de BNB na BNB Chain para ARB no Arbitrum
+* Tolerância de Slippage configurada em 1%
+* A rota poderia ser:
+  1. Fazer swap de BNB para USDC na BNB Chain
+  2. Fazer bridge de USDC da BNB Chain para o Arbitrum via Across
+  3. Fazer swap de USDC para ARB no Arbitrum
+* Nesse caso, a tolerância de Slippage de 1% se aplica separadamente a:
+  * O swap na BNB Chain
+  * O swap no Arbitrum
 
-This ensures you’re protected from excessive price movements on both legs of the transaction while keeping the bridging process itself unaffected by slippage settings.
+Isso garante que você esteja protegido contra movimentos de preço excessivos em ambas as etapas da transação, enquanto o processo de bridging em si não é afetado pelas configurações de Slippage.
 
-### 2. What happens if my transaction fails?
+### 2. O que acontece se minha transação falhar?
 
-If your Crosschain swap encounters a failure at any stage, here’s how it’s handled:
+Se o seu swap Cross-chain encontrar uma falha em qualquer etapa, veja como ela é tratada:
 
-1.  **Swap/Transaction Failure on Source Chain**
+1.  **Falha de Swap/Transação na Blockchain de Origem**
 
-    ➝ You’ll instantly receive your original token back on the source chain.
-2.  **Bridge Transaction Failure**
+    ➝ Você receberá instantaneamente seu token original de volta na blockchain de origem.
+2.  **Falha na Transação de Bridge**
 
-    ➝ Across will process a refund within 90 minutes to 2 hours, and you’ll receive the bridged asset back on the source chain. While Relay processes the refund within a minute in such scenarios between SOL <> EVM.
-3.  **Swap Failure on Destination Chain**
+    ➝ O Across processará um reembolso em até 90 minutos a 2 horas, e você receberá o ativo bridgeado de volta na blockchain de origem. Já o Relay processa o reembolso em menos de um minuto nesses cenários entre SOL <> EVM.
+3.  **Falha de Swap na Blockchain de Destino**
 
-    ➝ You’ll receive the bridged asset on the destination chain, without the final swap to your target token.
+    ➝ Você receberá o ativo bridgeado na blockchain de destino, sem o swap final para o token desejado.
 
 {% hint style="info" %}
-**Note:** You can always check the status of your transactions through the transaction history tab under wallet connect UI.
+**Nota:** Você pode sempre verificar o status das suas transações através da aba de histórico de transações na interface de conexão da carteira.
 {% endhint %}
 
-### 3. Are my Crosschain swaps MEV protected?
+### 3. Meus swaps Cross-chain são protegidos contra MEV?
 
-MEV Guard is only supported on the BNB Chain when swaps are initiated directly from a connected wallet with MEV Guard enabled.
+O MEV Guard só é suportado na BNB Chain quando os swaps são iniciados diretamente de uma carteira conectada com o MEV Guard habilitado.
 
-* If your Crosschain swap involves a swap on BNB Chain as the source chain, and you have MEV Guard enabled, that swap will be MEV protected.
-* If BNB Chain is the destination chain, the swap is executed by the bridging relayer/system and will not be MEV protected, since it’s not initiated by your connected wallet.
+* Se o seu swap Cross-chain envolver um swap na BNB Chain como blockchain de origem, e você tiver o MEV Guard habilitado, esse swap será protegido contra MEV.
+* Se a BNB Chain for a blockchain de destino, o swap é executado pelo relayer/sistema de bridging e não será protegido contra MEV, pois não é iniciado pela sua carteira conectada.
 
 {% hint style="info" %}
-**Note:** Other chains like Arbitrum and Base currently do not support MEV Guard protection on PancakeSwap.
+**Nota:** Outras blockchains como Arbitrum e Base atualmente não suportam proteção MEV Guard na PancakeSwap.
 {% endhint %}
 
-### 4. Can I swap stablecoins between chains?
+### 4. Posso fazer swap de stablecoins entre blockchains?
 
-Yes — you can swap and bridge stablecoins like USDC, USDT, and DAI directly between any supported chains.
+Sim — você pode fazer swap e bridge de stablecoins como USDC, USDT e DAI diretamente entre quaisquer blockchains suportadas.
 
-You have two options:
+Você tem duas opções:
 
-1.  **Direct Bridge:**
+1.  **Bridge Direto:**
 
-    Bridge supported stablecoins (like USDC, USDT, etc) directly from one chain to another.
-2.  **Swap to Other Tokens:**
+    Fazer bridge de stablecoins suportadas (como USDC, USDT, etc) diretamente de uma blockchain para outra.
+2.  **Swap para Outros Tokens:**
 
-    You can also swap a stablecoin to any other token supported on the destination chain using PancakeSwap’s liquidity pools — either before or after bridging.
+    Você também pode fazer swap de uma stablecoin para qualquer outro token suportado na blockchain de destino usando os pools de liquidez da PancakeSwap — antes ou depois do bridging.
 
 {% hint style="info" %}
-**Note:** Supported stablecoins for direct bridging may vary by chain.
+**Nota:** As stablecoins suportadas para bridging direto podem variar por blockchain.
 {% endhint %}
 
-### 5. Will my swaps use PCSX?
+### 5. Meus swaps usarão PCSX?
 
-No — PCSX is not supported for servicing Crosschain swaps.
+Não — PCSX não é suportado para execução de swaps Cross-chain.
 
-Crosschain swaps on PancakeSwap are exclusively routed through:
+Os swaps Cross-chain na PancakeSwap são roteados exclusivamente por:
 
-* **PancakeSwap’s liquidity pools** (v2, v3, Infinity, StableSwap) for on-chain swaps, and
-* **Across & Relay protocols** for bridging assets between chains.
+* **Pools de liquidez da PancakeSwap** (v2, v3, Infinity, StableSwap) para swaps on-chain, e
+* **Protocolos Across & Relay** para bridging de ativos entre blockchains.
 
-PCSX cannot be used to facilitate or route any part of a Crosschain swap transaction.
+PCSX não pode ser usado para facilitar ou rotear nenhuma parte de uma transação de swap Cross-chain.
 
-### 6. Is there a minimum or maximum limit on swap amount?
+### 6. Existe um limite mínimo ou máximo para o valor do swap?
 
-Yes — both minimum and maximum limits apply to Crosschain transactions.
+Sim — tanto limites mínimos quanto máximos se aplicam às transações Cross-chain.
 
-* **Maximum Limit:**\
-  Depends on the available bridge liquidity for the selected token and chain. This value can fluctuate in real-time based on network and liquidity conditions.
-* **Minimum Limit:**\
-  Set to ensure it’s economically viable for relayers to process the bridge transaction.
+* **Limite Máximo:**\
+  Depende da liquidez de bridge disponível para o token e blockchain selecionados. Esse valor pode flutuar em tempo real com base nas condições de rede e liquidez.
+* **Limite Mínimo:**\
+  Definido para garantir que seja economicamente viável para os relayers processarem a transação de bridge.
 
 {% hint style="info" %}
-**Note:** The exact min and max limits vary by bridge token. If your transaction amount is outside the allowed range, the interface will show a clear error message and prompt you to adjust the amount.
+**Nota:** Os limites mínimos e máximos exatos variam conforme o token de bridge. Se o valor da sua transação estiver fora do intervalo permitido, a interface exibirá uma mensagem de erro clara e solicitará que você ajuste o valor.
 {% endhint %}

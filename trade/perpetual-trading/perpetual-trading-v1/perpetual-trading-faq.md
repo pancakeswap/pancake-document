@@ -1,25 +1,25 @@
-# V1 Perpetual Trading FAQ
+# FAQ de Trading Perpétuo V1
 
-### What is the value contribution of this new feature to the cake holders?
+### Qual é a contribuição de valor deste novo recurso para os detentores de CAKE?
 
-We expect this new feature to bring in a lot of new users, traders and volume. We want to ensure the value goes back to our CAKE token on top of offering the trading fee discount. 20% of all trading fees from users who sign up on PancakeSwap will be converted to CAKE and burnt.
+Esperamos que este novo recurso traga muitos novos usuários, traders e volume. Queremos garantir que o valor retorne ao nosso token CAKE além de oferecer o desconto na taxa de trading. 20% de todas as taxas de trading de usuários que se cadastram no PancakeSwap serão convertidas em CAKE e queimadas.
 
-**And the rest of it?**
+**E o restante?**
 
-The rest are currently reserved for the treasury for ongoing expansion and development of this feature, as well as for an insurance fund for unexpected market events. As the feature matures, we expect to increase the burn portion gradually based on community feedback and governance.
+O restante está atualmente reservado para o tesouro para expansão e desenvolvimento contínuos deste recurso, bem como para um fundo de seguro para eventos de mercado inesperados. À medida que o recurso amadurece, esperamos aumentar gradualmente a parcela de queima com base no feedback da comunidade e na Governança.
 
-### I can’t see my funds! What happened?
+### Não consigo ver meus fundos! O que aconteceu?
 
-Remember that you must first deposit your funds into the Futures account!
+Lembre-se de que você deve primeiro depositar seus fundos na conta de Futuros!
 
-### Are there deposit limits?
+### Há limites de depósito?
 
-| Assets | Limit     | Margin Value |
-| ------ | --------- | ------------ |
-| USDT   | No Limit  | 99.99%       |
-| BUSD   | No Limit  | 100%         |
-| CAKE   | 5000 CAKE | 90%          |
+| Ativos | Limite      | Valor de Margem |
+| ------ | ----------- | --------------- |
+| USDT   | Sem Limite  | 99,99%          |
+| BUSD   | Sem Limite  | 100%            |
+| CAKE   | 5000 CAKE   | 90%             |
 
-### Are we gonna switch to showing only PCS’s volume on the frontend on the PCS’s version?
+### Vamos mudar para mostrar apenas o volume do PCS no frontend na versão do PCS?
 
-The frontend is the combined volume since the liquidity is combined and it shows the deep liquidity which also brings the tight spread
+O frontend é o volume combinado, pois a liquidez é combinada e mostra a liquidez profunda que também traz o spread estreito

@@ -1,30 +1,30 @@
-# 🎯 Limit & TWAP Orders
+# 🎯 Ordens Limitadas e TWAP
 
 {% hint style="warning" %}
-**Limit Order (Orbs) has been deprecated.** If you have any pending orders, please manage them [here](https://pancakeswap.finance/swap/limit-v1). Please ensure you are using the latest limit order feature here: [https://pancakeswap.finance/swap/limit](https://pancakeswap.finance/swap/limit)
+**As Ordens Limitadas (Orbs) foram descontinuadas.** Se você tiver ordens pendentes, gerencie-as [aqui](https://pancakeswap.finance/swap/limit-v1). Certifique-se de usar o recurso de ordem limitada mais recente aqui: [https://pancakeswap.finance/swap/limit](https://pancakeswap.finance/swap/limit)
 {% endhint %}
 
 {% hint style="success" %}
-**Fee-Earning Limit Orders** are a **first-of-its-kind trading feature** available exclusively on PancakeSwap.
+**Ordens Limitadas com Geração de Taxas** são um **recurso de negociação inédito** disponível exclusivamente na PancakeSwap.
 {% endhint %}
 
-#### What is it?
+#### O que é isso?
 
-Fee-Earning Limit Orders let you set a target price to buy or sell tokens automatically, while **earning fees**. Once the pool price reaches your target, your order executes and desired output tokens + fees are sent directly to your wallet.
+As Ordens Limitadas com Geração de Taxas permitem que você defina um preço alvo para comprar ou vender tokens automaticamente, enquanto **ganha taxas**. Quando o preço do pool atingir o seu alvo, a ordem é executada e os tokens de saída desejados + taxas são enviados diretamente para a sua carteira.
 
-* **Supported chain:** BNB Chain
-* **Minimum order size:** $50
+* **Blockchain suportada:** BNB Chain
+* **Tamanho mínimo da ordem:** $50
 
-#### Why use it?
+#### Por que usar?
 
-* No need to constantly monitor charts.
-* No execution fees — instead, you **earn fees (0.1%)** when your order is filled.
-* Works seamlessly — fully on-chain, powered by PancakeSwap Infinity architecture.
+* Sem necessidade de monitorar gráficos constantemente.
+* Sem taxas de execução — em vez disso, você **ganha taxas (0,1%)** quando sua ordem é executada.
+* Funciona perfeitamente — totalmente on-chain, impulsionado pela arquitetura PancakeSwap Infinity.
 
 ***
 
-TWAP (Time-weighted Average Price) is a common order type that breaks an order into smaller trade sizes and executes them at regular intervals. The main goal of a TWAP order is to reduce the order’s price impact.
+TWAP (Time-weighted Average Price) é um tipo de ordem comum que divide uma ordem em tamanhos menores e as executa em intervalos regulares. O principal objetivo de uma ordem TWAP é reduzir o impacto de preço da ordem.
 
 {% hint style="info" %}
-The TWAP feature is developed by [Orbs](https://www.orbs.com/) and powered by Orbs’ [L3 technology](https://www.orbs.com/overview/).
+O recurso TWAP é desenvolvido pela [Orbs](https://www.orbs.com/) e utiliza a [tecnologia L3](https://www.orbs.com/overview/) da Orbs.
 {% endhint %}

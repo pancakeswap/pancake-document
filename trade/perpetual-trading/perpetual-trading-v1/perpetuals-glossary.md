@@ -1,86 +1,85 @@
-# Perpetuals V1 Glossary
+# Glossário de Perpétuos V1
 
-**Here you will find defined all the terms inherent in futures trading**
+**Aqui você encontrará definidos todos os termos inerentes ao trading de futuros**
 
-### **Perpetual Trading**
+### **Trading Perpétuo**
 
-&#x20;Perpetuals, perpetual swaps, or perps are a special type of futures contract without an expiration date.
+&#x20;Perpétuos, swaps perpétuos ou perps são um tipo especial de contrato futuro sem data de vencimento.
 
 
 
-### **Leverage**
+### **Alavancagem**
 
-Leverage is a trading mechanism. Traders can use it to increase their exposure to the market by allowing them to pay less than the full amount of the investment. In simple words, you borrow money to leverage your investment.
+A alavancagem é um mecanismo de trading. Os traders podem usá-la para aumentar sua exposição ao mercado, permitindo que paguem menos do que o valor total do investimento. Em termos simples, você toma dinheiro emprestado para alavancar seu investimento.
 
 ![](https://lh5.googleusercontent.com/S4CpgIaapprJpet3GI9UvkGA2Vncl6ywSA8848SLOG5M73v2ILcSunlPMOxpWg9UJmKui4Vb6BDQcUugWP1aYMAVl9_QPioIxT9sFRuY-EEtuSXgCn_D8Muwqh60PFr3EcEu3kkH)
 
-### **Margin**
+### **Margem**
 
-is the guarantee you put for your leveraged positions. It has two Modes to use it:
+é a garantia que você coloca para suas posições alavancadas. Tem dois Modos de uso:
 
-* Cross Margin Mode: All cross positions under the same margin asset share the same asset cross margin balance. In the event of liquidation, your assets full margin balance along with any remaining open positions under the asset may be forfeited.
-* Isolated Margin Mode: Manage your risk on individual positions by restricting the amount of margin allocated to each. If the margin ratio of a position reached 100%, the position will be liquidated. Margin can be added or removed to positions using this mode.
+* Modo de Margem Cross: Todas as posições cross sob o mesmo ativo de margem compartilham o mesmo saldo de margem cross do ativo. Em caso de Liquidação, o saldo de margem completo dos seus ativos juntamente com quaisquer posições abertas restantes sob o ativo podem ser perdidos.
+* Modo de Margem Isolada: Gerencie seu risco em posições individuais restringindo a quantidade de margem alocada para cada uma. Se a taxa de margem de uma posição atingir 100%, a posição será liquidada. A margem pode ser adicionada ou removida das posições usando este modo.
 
 ![](https://lh3.googleusercontent.com/zVEa2C_uhxdfB83PnT0jPQ3lbs5hJ8IY4cOe5KgxOiypTxV0CC1mXHouC9EhR2ukRmnMIXzk71JkEwPLmXAeK0RuP0xDsqX7c6P-X-7bPdqN3Xrfzxhub2wV55_ZKRNTy8WoCpUs)
 
-**Margin Ratio**: Margin Ratio = Maintenance Margin / Margin Balance. Your positions will be liquidated once Margin Ratio reaches 100%.
+**Taxa de Margem**: Taxa de Margem = Margem de Manutenção / Saldo de Margem. Suas posições serão liquidadas quando a Taxa de Margem atingir 100%.
 
-**Maintenance Ratio**: The minimum amount of margin balance required to keep your open positions.
+**Taxa de Manutenção**: O valor mínimo de saldo de margem necessário para manter suas posições abertas.
 
-**Margin Balance** = Wallet Balance + Unrealized PNL. Your positions will be liquidated once Margin Balance <= Maintenance Margin.
+**Saldo de Margem** = Saldo da Carteira + PNL Não Realizado. Suas posições serão liquidadas quando o Saldo de Margem <= Margem de Manutenção.
 
 ![](https://lh6.googleusercontent.com/BGaNOmsOkew_Cf9f6zcP2bW4Die0-uZnoui7QVYY24oDFtQkgIB5Vq1dLo7XgkA3LKyisoK-5Cs0uSN7fl19aa9nvDDAzWCVdgnJ3xNGHkDchaJMQf1G0gvXmDDvR2DvAih1D7tS)
 
-### Assets:
+### Ativos:
 
-**Deposit**: Deposit your funds into your futures account
+**Depósito**: Deposite seus fundos na sua conta de futuros
 
-**Withdraw**: Withdraw your funds from your futures account to your wallet
+**Saque**: Retire seus fundos da sua conta de futuros para sua carteira
 
-**Balance**: Wallet Balance = Total Net Transfer + Total Realized Profit + Total Net Funding Fee - Total Commission.
+**Saldo**: Saldo da Carteira = Total de Transferências Líquidas + Total de Lucro Realizado + Total de Taxa de Financiamento Líquida - Total de Comissões.
 
-**Unrealized PNL**: Unrealized profit and loss on this position calculated based on Mark Price, and return on equity percentage.
+**PNL Não Realizado**: Lucro e perda não realizados nesta posição calculados com base no Preço de Marcação, e porcentagem de retorno sobre o patrimônio.
 
-**Modes:**&#x20;
+**Modos:**&#x20;
 
-* Single Asset Mode: Supports USDⓈ-M Futures trading by only using the single margin asset of the symbol. PNL of the same margin asset positions can be offset. Supports Cross Margin Mode and Isolated Margin Mode.
-* Multi-Assets Mode: USDⓈ-M Futures trading across multiple margin assets. PNL can be offset among the different margin asset positions. Only supports Cross Margin Mode.
+* Modo de Ativo Único: Suporta trading de Futuros USDⓈ-M usando apenas o ativo de margem único do símbolo. O PNL das posições do mesmo ativo de margem pode ser compensado. Suporta Modo de Margem Cross e Modo de Margem Isolada.
+* Modo Multi-Ativos: Trading de Futuros USDⓈ-M em múltiplos ativos de margem. O PNL pode ser compensado entre as diferentes posições de ativos de margem. Suporta apenas o Modo de Margem Cross.
 
 {% hint style="info" %}
-Note: If there are open positions or open orders in USDⓈ-M Futures, Multi-Assets Mode cannot be activated. Multi-Assets Mode only applies to USDⓈ-M Futures. Before activating Multi-Assets Mode, please read the guide in detail to better manage USDⓈ-M Futures account risk accordingly when using Multi-Assets Mode.<br>
+Nota: Se houver posições abertas ou ordens abertas em Futuros USDⓈ-M, o Modo Multi-Ativos não pode ser ativado. O Modo Multi-Ativos se aplica apenas a Futuros USDⓈ-M. Antes de ativar o Modo Multi-Ativos, leia o guia em detalhes para gerenciar melhor o risco da conta de Futuros USDⓈ-M ao usar o Modo Multi-Ativos.<br>
 {% endhint %}
 
-![](https://lh3.googleusercontent.com/iupB9UR3QMDCEO5RwjfMpqKZaQtoT53G0Sa_cYH9Neui8ttgqeFybtqOSIncZD74-4p3O-sQd6Lis2QKxGBsdgDmgutRaTUw1qKpjT-UXbpdKo-_3KzjAl3f8VSGyoLrtudoUqBr)
+![](https://lh3.googleusercontent.com/iupB9UR3QMDCEO5RwjfMpet3GI9UvkGA2Vncl6ywSA8848SLOG5M73v2ILcSunlPMOxpWg9UJmKui4Vb6BDQcUugWP1aYMAVl9_QPioIxT9sFRuY-EEtuSXgCn_D8Muwqh60PFr3EcEu3kkH)
 
-### Orders
+### Ordens
 
-**Buy/Long:** Open a Long order. In this order you purchase an asset and wait to sell when the price goes up. "Buy" and "long" are used interchangeably.
+**Comprar/Long:** Abrir uma ordem Long. Nesta ordem você compra um ativo e espera para vender quando o preço subir. "Comprar" e "long" são usados de forma intercambiável.
 
-**Sell/Short:** Open a Short order. In this order, you borrow an asset, sell it, and hope to buy it back when the price goes down. "Sell" and "short" are used interchangeably.
+**Vender/Short:** Abrir uma ordem Short. Nesta ordem, você toma emprestado um ativo, vende-o e espera recomprá-lo quando o preço cair. "Vender" e "short" são usados de forma intercambiável.
 
-**Limit Order:** A limit order is an order to buy or sell at a specific price or better. Limit orders are not guaranteed to execute.
+**Ordem Limitada:** Uma ordem limitada é uma ordem para comprar ou vender a um preço específico ou melhor. Ordens limitadas não têm execução garantida.
 
-**Market Order:** A market order is an order to buy or sell at the best available current price. It is executed against the limit orders that were previously placed on the order book. When placing a market order, you will pay fees as a market taker.
+**Ordem de Mercado:** Uma ordem de mercado é uma ordem para comprar ou vender ao melhor preço corrente disponível. É executada contra as ordens limitadas que foram colocadas anteriormente no order book. Ao fazer uma ordem de mercado, você pagará taxas como taker de mercado.
 
-**Stop Limit Order:** The easiest way to understand a stop-limit order is to break it down into stop price, and limit price. The stop price is simply the price that triggers the limit order, and the limit price is the price of the limit order that is triggered. This means that once your stop price has been reached, your limit order will be immediately placed on the order book.
+**Ordem Stop Limitada:** A maneira mais fácil de entender uma ordem stop limitada é dividi-la em preço stop e preço limite. O preço stop é simplesmente o preço que aciona a ordem limitada, e o preço limite é o preço da ordem limitada que é acionada. Isso significa que quando seu preço stop for atingido, sua ordem limitada será imediatamente colocada no order book.
 
-**Stop Market Order:** Similar to a stop-limit order, a stop market order uses a stop price as a trigger. However, when the stop price is reached, it triggers a market order instead.
+**Ordem Stop de Mercado:** Semelhante a uma ordem stop limitada, uma ordem stop de mercado usa um preço stop como gatilho. No entanto, quando o preço stop é atingido, ele aciona uma ordem de mercado em vez disso.
 
-**Trailing Stop:** A trailing stop is an order type designed to lock in profits or limit losses as a trade moves favorably. Trailing stops only move if the price moves favorably. Once it moves to lock in a profit or reduce a loss, it does not move back in the other direction.
+**Trailing Stop:** Um trailing stop é um tipo de ordem projetada para bloquear lucros ou limitar perdas à medida que um trade se move favoravelmente. Trailing stops só se movem se o preço se mover favoravelmente. Uma vez que se move para bloquear um lucro ou reduzir uma perda, não se move de volta na outra direção.
 
-**Post Only:** Post-only Mode means that Traders can only place an Order if it would be posted to the Order Book as a Maker Order. An Order which would be posted as a Taker Order will be rejected. No Market Orders may be placed and no Orders will be filled. Resting orders may be canceled in post-only mode.
+**Somente Post:** O Modo Post-only significa que os Traders só podem colocar uma Ordem se ela for postada no Order Book como uma Ordem Maker. Uma Ordem que seria postada como uma Ordem Taker será rejeitada. Nenhuma Ordem de Mercado pode ser colocada e nenhuma Ordem será preenchida. Ordens em espera podem ser canceladas no modo post-only.
 
 ![](https://lh6.googleusercontent.com/uV8UuuqGxCwGmu9jxuL2Gf_Nt8QwkYoYCfJinEfINffyr6QjV03tZVXA46GnIxY-XKSxcrAPtrtD8JZYBHSc4ILmLd8Rm6LqHmVdSAgMK8m-4WOdt3FsnPO2MD32EG9j3ym_aSz_)
 
-**Reduce Only:** Reduce-Only order will only reduce your position, not increase it.
+**Somente Reduzir:** A ordem Reduce-Only apenas reduzirá sua posição, não a aumentará.
 
 ![](https://lh3.googleusercontent.com/HlbLU90VSn76W1xHVgSBoke83uQpAPFzl2JBME_Dn2mElSDAYSbA51GRx2cOaAqxBe6wH02MbJxmwjrLuLoSx7Ei4AwzrnmqFjy4VEG5aUrYas7oFKVQ0CGNuiIAXjD1CdPaQurO)
 
-**TIF instructions** allow you to specify the amount of time that your orders will remain active before they are executed or expired. You can select one of these options for TIF instructions:
+**Instruções TIF** permitem que você especifique a quantidade de tempo que suas ordens permanecerão ativas antes de serem executadas ou expirarem. Você pode selecionar uma dessas opções para instruções TIF:
 
 ![](https://lh6.googleusercontent.com/-QaqTJU0jCsjznhULix7i2ThVM7_u7IP5a0i42TYhImt8xPLODjYCjLL5JNbRXrIDsgJRxIIGoYD8Tlq5gSdCjkAyMDat53r5WNTepB93_7bq7gDmyg1-jyblSQ8eANv_fH9bvJ-)
 
-* **GTC** (Good Till Cancel): The order will remain active until it is either filled or canceled.&#x20;
-* **IOC** (Immediate Or Cancel): The order will execute immediately (either fully or partially). If it is only partially executed, the unfilled portion of the order will be canceled.&#x20;
-* **FOK** (Fill Or Kill): The order must be fully filled immediately. If not, it won’t be executed at all.
-
+* **GTC** (Good Till Cancel / Válido até Cancelar): A ordem permanecerá ativa até ser preenchida ou cancelada.&#x20;
+* **IOC** (Immediate Or Cancel / Imediata ou Cancelar): A ordem será executada imediatamente (total ou parcialmente). Se for executada apenas parcialmente, a parte não preenchida da ordem será cancelada.&#x20;
+* **FOK** (Fill Or Kill / Preencher ou Cancelar): A ordem deve ser totalmente preenchida imediatamente. Caso contrário, não será executada.
