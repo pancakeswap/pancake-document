@@ -1,34 +1,34 @@
 # ALP Syrup Pool (Arbitrum)
 
-ALP is a token that powers liquidity on PancakeSwap Perpertuals V2. Users mint/buy ALP using collateral tokens such as USDC, USDT, DAI, ETH and BTC. These tokens supply liquidity to the PancakeSwap Perpetuals trade engine powered by ApolloX. ALP tokens **cannot be transferred between wallets** and can only be **minted/sold through ALP contract and staked in ALP pool**.
+ALP — это токен, обеспечивающий ликвидность на PancakeSwap Perpetuals V2. Пользователи минтят/покупают ALP, используя залоговые токены, такие как USDC, USDT, DAI, ETH и BTC. Эти токены обеспечивают ликвидность для торгового движка PancakeSwap Perpetuals на базе ApolloX. Токены ALP **нельзя передавать между кошельками** — их можно только **минтить/продавать через контракт ALP и стейкать в пуле ALP**.
 
-### Step-By-Step Guide
+### Пошаговое руководство
 
-#### Buying/Minting ALP
+#### Покупка/Минтинг ALP
 
-1. Click to access the [PancakeSwap ALP Pool (V2)](https://perp.pancakeswap.finance/en/ALP) page and connect your wallet
-2. After connecting your wallet, click **Buy ALP**. You can use any ALP pool asset to buy ALP.
-3. After confirming the information, click **Buy ALP** to complete the transaction.
+1. Перейди на страницу [PancakeSwap ALP Pool (V2)](https://perp.pancakeswap.finance/en/ALP) и подключи кошелёк
+2. После подключения кошелька нажми **Buy ALP**. Для покупки ALP можно использовать любой актив пула ALP.
+3. После подтверждения информации нажми **Buy ALP** для завершения транзакции.
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Buy%20ALP%20Module.png" alt=""><figcaption></figcaption></figure>
 
-**Staking ALP (Arbitrum)**
+**Стейкинг ALP (Arbitrum)**
 
-1. Click **Stake Now** on the Pancake ALP Dashboard Page, or click [here](https://pancakeswap.finance/pools?chain=arb)
+1. Нажми **Stake Now** на странице Pancake ALP Dashboard или перейди [сюда](https://pancakeswap.finance/pools?chain=arb)
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/png%20%284%29.png" alt=""><figcaption></figcaption></figure>
 
-2. Select the CAKE-ALP syrup pool
-3. **Enable** ALP and click **Stake**
-4. Select amount of ALP to stake and click **confirm**
+2. Выбери CAKE-ALP Syrup Pool
+3. **Активируй** ALP и нажми **Stake**
+4. Выбери количество ALP для стейкинга и нажми **confirm**
 
-**Selling ALP**
+**Продажа ALP**
 
-1. &#x20;Click to access the ALP Pool (V2) page and connect your wallet
-2. After connecting your wallet, click on **Sell ALP**.
+1. &#x20;Перейди на страницу ALP Pool (V2) и подключи кошелёк
+2. После подключения кошелька нажми **Sell ALP**.
 
-Selling ALP Conditions:
+Условия продажи ALP:
 
-* &#x20;User may sell ALP 48 hours from the time of buying
-* &#x20;Amount of ALP tokens that can be sold: min\[(Value of the liquidity pool - Value of user’s positions)\*50%]/ALP Market Price. For instance, the value of the liquidity pool is 10,000,000 USDT, the value of the user's position is 5,000,000 USDT and ALP Market Price is 2 USDT, the maximum amount the ALP user can sell is 1,250,000.&#x20;
-* At the same time, the amount of assets that users receive after selling their ALP tokens cannot exceed the ALP liquidity pool. For instance, if the liquidity pool only has 1000 USDT, the maximum amount of USDT users receive will be 1000 USDT and the remaining ALPs can be sold for other cryptocurrencies.
+* &#x20;Пользователь может продать ALP через 48 часов с момента покупки
+* &#x20;Количество токенов ALP, которое можно продать: min\[(Стоимость пула ликвидности - Стоимость позиций пользователя)\*50%] / Рыночная цена ALP. Например, если стоимость пула ликвидности составляет 10,000,000 USDT, стоимость позиций пользователя — 5,000,000 USDT, а рыночная цена ALP — 2 USDT, то максимальное количество ALP, которое пользователь может продать, составляет 1,250,000.&#x20;
+* При этом количество активов, которые пользователи получают после продажи токенов ALP, не может превышать пул ликвидности ALP. Например, если в пуле ликвидности только 1000 USDT, максимальная сумма USDT, которую получат пользователи, составит 1000 USDT, а оставшиеся ALP можно продать за другие криптовалюты.

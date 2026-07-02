@@ -1,63 +1,63 @@
-# ALP Buying & Selling Fees
+# Комиссии за покупку и продажу ALP
 
-## Buying fee:
+## Комиссия за покупку:
 
-Basic Rate Parameter 1: FeeBasisPoints，USDT is currently set at 0.25%
+Базовый параметр ставки 1: FeeBasisPoints — для USDT текущее значение 0.25%
 
-Basic Rate Parameter 2: TaxBasisPoints，USDT is currently set at 0.05%
+Базовый параметр ставки 2: TaxBasisPoints — для USDT текущее значение 0.05%
 
-The current asset value: InitialValue=AssetValueInPool+AssetUnrealizedpnl\_usd
+Текущая стоимость актива: InitialValue=AssetValueInPool+AssetUnrealizedpnl\_usd
 
-The current asset value after minting: AfterMinValue=InitialValue+MinValue
+Текущая стоимость актива после минтинга: AfterMinValue=InitialValue+MinValue
 
-Calculate the Asset value according to the target weight: TargetValue=(Total Value\_usd+totalUnrealizedpnl\_Usd)\*Target weight，Total Value=sum(InitialValue)
+Рассчитать стоимость актива согласно целевому весу: TargetValue=(Total Value\_usd+totalUnrealizedpnl\_Usd)\*Целевой вес, Total Value=sum(InitialValue)
 
 
 
-The current Asset value and the target value (absolute value): InitialDiff=InitialValue-TargetValue
+Текущая стоимость актива и целевое значение (абсолютное): InitialDiff=InitialValue-TargetValue
 
-After Minting, the asset value and target mechanism (absolute value): AfterDiff=AfterMintValue-TargetValue
+Стоимость актива после минтинга и целевой механизм (абсолютное): AfterDiff=AfterMintValue-TargetValue
 
-* if AfterDiff\<InitialDiffValue&#x20;
+* если AfterDiff\<InitialDiffValue&#x20;
 
 MintFee=Max(FeeBasisPoints-TaxBasisPoints\*InitialDiff/TargetValue，0)
 
-* if AfterDiff>=InitialDiff&#x20;
+* если AfterDiff>=InitialDiff&#x20;
 
 MintFee=FeeBasisPoints+TaxBasisPoints\*Min((InitialDiff+AfterDiff)/2,TargetValue)/TargetValue
 
-## Selling fee:
+## Комиссия за продажу:
 
-Basic Rate Parameter 1: FeeBasisPoints，USDT is currently set at 0.25%
+Базовый параметр ставки 1: FeeBasisPoints — для USDT текущее значение 0.25%
 
-Max Base Rate Parameter 2: TaxBasisPoints，USDT is currently set at 0.05%
+Максимальный базовый параметр ставки 2: TaxBasisPoints — для USDT текущее значение 0.05%
 
-The current asset value: InitialValue=AssetValueInPool+AssetUnreliazedpnl\_usd
+Текущая стоимость актива: InitialValue=AssetValueInPool+AssetUnreliazedpnl\_usd
 
-The current asset value after Burn: AfterMaxValue=InitialValue-MinValue
+Текущая стоимость актива после сжигания: AfterMaxValue=InitialValue-MinValue
 
-Calculating the Asset value according to the target weight: TargetValue=Total Value\*Target weight
-
-
-
-The current asset value and target value (absolute value): InitialDiff=InitialValue-TargetValue
+Расчёт стоимости актива согласно целевому весу: TargetValue=Total Value\*Целевой вес
 
 
 
-After Burn, the asset value and target mechanism (absolute value): AfterMaxDiff=AfterBurnValue-TargetValue
+Текущая стоимость актива и целевое значение (абсолютное): InitialDiff=InitialValue-TargetValue
 
-* if AfterDiff\<InitialDiffValue
+
+
+Стоимость актива после сжигания и целевой механизм (абсолютное): AfterMaxDiff=AfterBurnValue-TargetValue
+
+* если AfterDiff\<InitialDiffValue
 
 BurnFee=Max(FeeBasisPoints-MTaxBasisPoints\*InitialDiff/TargetValue，0)
 
-* if AfterDiff>=InitialDiff&#x20;
+* если AfterDiff>=InitialDiff&#x20;
 
 BurnFee=FeeBasisPoints+TaxBasisPoints\*Min((InitialDiff+AfterDiff)/2,TargetValue)/TargetValue<br>
 
-For example:
+Например:
 
-If the value of the ALP pool is $10,000,000, the unrealized PnL is $+10,000, the value of BTC in the liquidity pool is $1,000;
+Если стоимость пула ALP составляет $10,000,000, нереализованный PnL — $+10,000, а стоимость BTC в пуле ликвидности — $1,000;
 
-The BTC target weight is 2%, and the current weight is 0.01%. The base rate parameter 1 of BTC is 0.25%, and the base rate parameter 2 is 0.45%.
+Целевой вес BTC — 2%, текущий вес — 0.01%. Базовый параметр ставки 1 для BTC — 0.25%, базовый параметр ставки 2 — 0.45%.
 
-According to the calculation, the rate of buying ALP with 1 BTC at this time is 0% = 0 BTC. The transaction fee for selling ALP to get 1 BTC is 0.7% = 0.007BTC.
+По расчётам, ставка покупки ALP за 1 BTC в данный момент составляет 0% = 0 BTC. Комиссия за продажу ALP для получения 1 BTC — 0.7% = 0.007 BTC.

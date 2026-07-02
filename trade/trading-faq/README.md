@@ -1,2 +1,2 @@
-# ❓ Trading FAQ
+# ❓ FAQ по торговле
 
