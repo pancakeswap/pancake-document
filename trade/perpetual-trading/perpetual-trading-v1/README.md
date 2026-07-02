@@ -2,5 +2,5 @@
 hidden: true
 ---
 
-# Perpetuals V1
+# Бессрочная торговля V1
 

@@ -1,30 +1,30 @@
-# Degen Mode Dynamic Fee
+# Динамическая комиссия Degen Mode
 
-PancakeSwap Perpetuals Degen Mode uses a dynamic fee model. This fee is designed to charge fees by PnL and protect users from losses.\
-**How does it work?**
+PancakeSwap Perpetuals Degen Mode использует модель динамических комиссий. Эта комиссия рассчитывается на основе PnL и защищает пользователей от убытков.\
+**Как это работает?**
 
 $$
 \text{closeFeeRate} = \max\left(\frac{\text{pnl} \cdot \text{shareRate}}{\text{notional}}, \text{closeMinRate}\right)
 $$
 
-where:
+где:
 
-* Pnl is the profit or loss on the position
-* shareRate is the share rate, which is the percentage of the notional that is paid in fees (15% as default)
-* Notional is the amount of money that is used to open the position
-* closeMinRate is the minimum closing fee rate, which is the lowest amount that you can pay to close a position (0.03% as default)
+* Pnl — прибыль или убыток по позиции
+* shareRate — доля, то есть процент от номинальной стоимости, выплачиваемый в виде комиссии (по умолчанию 15%)
+* Notional — сумма, используемая для открытия позиции
+* closeMinRate — минимальная ставка комиссии за закрытие — наименьшая сумма для закрытия позиции (по умолчанию 0.03%)
 
 \
-**Example:**
+**Пример:**
 
-If you have a position with a profit of $100, a share rate of 15%, and a notional of $600, then the closing fee rate would be:
+Если у тебя позиция с прибылью $100, доля 15% и номинальная стоимость $600, то ставка комиссии за закрытие составит:
 
-Closing fee rate = Max(100 \* 15% / 600, 0.03%) = 0.03%
+Ставка комиссии за закрытие = Max(100 \* 15% / 600, 0.03%) = 0.03%
 
-In this case, the closing fee rate would be 0.03%, the minimum closing fee rate.<br>
+В этом случае ставка комиссии за закрытие составит 0.03% — минимальная ставка закрытия.<br>
 
-Note:
+Примечание:
 
-The execution fee will only be charged when a position is opened. It is set at 0.3 USD (BNB Chain)/ 0.2 USD (Arbitrum)/ 0.01 USD (opBNB)/ 0.3 USD (Base), similar to what is being charged when trading classic perpetual trading pairs. There is no opening position fee.
+Комиссия за исполнение взимается только при открытии позиции. Она составляет 0.3 USD (BNB Chain) / 0.2 USD (Arbitrum) / 0.01 USD (opBNB) / 0.3 USD (Base) — аналогично тому, что взимается при торговле классическими бессрочными парами. Комиссия за открытие позиции отсутствует.
 
-In the event of liquidation, the 90% liquid lost rate includes close fee.
+В случае ликвидации показатель потери 90% ликвидности включает комиссию за закрытие.

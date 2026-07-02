@@ -4,29 +4,29 @@ hidden: true
 
 # Degen Mode
 
-The Degen Trading Mode offers traders an alternative way of trading compared to conventional trading methods. Traders who prefer to reduce screen time analyzing the market and have a more hands-off approach can choose this trading mode. During periods of high volatility, traders can maximize their gains with 0 slippage, high leverage and extremely low fees. In low volatility, traders can speculate on minor price movements.
+Degen Trading Mode предлагает трейдерам альтернативный способ торговли по сравнению с классическими методами. Трейдеры, предпочитающие тратить меньше времени на анализ рынка и придерживающиеся более пассивного подхода, могут выбрать этот режим. В периоды высокой волатильности трейдеры могут максимизировать прибыль с нулевым проскальзыванием, высоким кредитным плечом и крайне низкими комиссиями. При низкой волатильности трейдеры могут спекулировать на незначительных ценовых движениях.
 
-Initially, Degen Trading Mode will be available for BTCUSD, supporting maximum leverage of 1001x for long and short market orders. Traders must input the principal (collateral amount) before opening a position with zero slippage.
+Изначально Degen Trading Mode доступен для BTCUSD с максимальным кредитным плечом 1001x для рыночных ордеров лонг и шорт. Перед открытием позиции с нулевым проскальзыванием трейдеры должны ввести основную сумму (размер залога).
 
-Degen mode is available on both BNB Chain, Arbitrum, opBNB and Base chain on Perpetuals V2.
+Degen Mode доступен как на BNB Chain, так и на Arbitrum, opBNB и Base в Perpetuals V2.
 
-### Degen Mode Format
+### Особенности Degen Mode
 
-Degen mode offers the following gameplay characteristics and benefits to our perpetual traders:
+Degen Mode предлагает следующие характеристики и преимущества для наших трейдеров бессрочных контрактов:
 
-**High Leverage, Lower Upfront Collateral -** With higher leverage of 1001x, users can participate and amplify their trading strategies through Degen Mode. Users can now enjoy a higher upside without posting significant upfront collateral.
+**Высокое кредитное плечо, меньший первоначальный залог —** Благодаря более высокому кредитному плечу 1001x пользователи могут участвовать и усиливать свои торговые стратегии через Degen Mode. Теперь можно наслаждаться более высоким потенциалом прибыли без значительного первоначального залога.
 
-**Lower Fees -** With zero-slippage trading, users can enjoy a better trading experience. Users are not charged open position fees. This increases users' trading upsides as open position fees can now be saved and used as collateral.
+**Более низкие комиссии —** Благодаря торговле с нулевым проскальзыванием пользователи получают лучший торговый опыт. Комиссии за открытие позиции не взимаются. Это увеличивает торговый потенциал пользователей, так как сэкономленные комиссии за открытие позиции можно использовать как залог.
 
-**Dynamic Fee Structure -** Uniquely tailored for Degen Mode, the Dynamic Fee Structure for closing positions is meticulously designed to charge fees based on Profit and Loss (PnL). For more information on dynamic fee structure [here](degen-mode-dynamic-fee.md).
+**Динамическая структура комиссий —** Специально разработанная для Degen Mode динамическая структура комиссий для закрытия позиций тщательно рассчитывает комиссии на основе прибыли и убытков (PnL). Подробнее о динамической структуре комиссий [здесь](degen-mode-dynamic-fee.md).
 
-**Pair Offerings -** Degen Mode is available for BTCUSD on BNB Chain, Arbitrum, opBNB and Base chain.
+**Доступные пары —** Degen Mode доступен для BTCUSD на BNB Chain, Arbitrum, opBNB и Base.
 
-### How it works
+### Как это работает
 
-1. Go to [https://perp.pancakeswap.finance/en/futures/v2/](https://perp.pancakeswap.finance/en/futures/v2/) or select "Perpetuals" on our home page.
-2. On the top right of the screen, select "Long" or "Short" position and click on leverage editor to select 1001x leverage.
-3. Select the amount and appropriate leverage.
-4. Select take profit amount (between 50% and 300%) and select **open position**.
-5. Your position will be reflected in the "positions" tab at the bottom of the screen.
-6. To close the position, hit the "close" button at the side of the position. Otherwise, Degen Mode close will automatically be executed at take profit or liquidation period. For more information, please refer to [perpetuals-glossary.md](../perpetuals-glossary.md "mention") and [perpetual-trading-faq](../perpetual-trading-faq/ "mention").
+1. Перейди на [https://perp.pancakeswap.finance/en/futures/v2/](https://perp.pancakeswap.finance/en/futures/v2/) или выбери «Perpetuals» на главной странице.
+2. В правом верхнем углу экрана выбери позицию «Long» или «Short» и нажми на редактор кредитного плеча для выбора 1001x.
+3. Выбери сумму и подходящее кредитное плечо.
+4. Укажи сумму take profit (от 50% до 300%) и нажми **open position**.
+5. Твоя позиция отобразится на вкладке «positions» внизу экрана.
+6. Для закрытия позиции нажми кнопку «close» рядом с позицией. В противном случае Degen Mode автоматически закроется при достижении take profit или наступлении ликвидации. Для получения дополнительной информации обратись к [perpetuals-glossary.md](../perpetuals-glossary.md "mention") и [perpetual-trading-faq](../perpetual-trading-faq/ "mention").

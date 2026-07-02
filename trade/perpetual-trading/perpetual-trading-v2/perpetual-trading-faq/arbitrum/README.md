@@ -4,22 +4,22 @@ hidden: true
 
 # Arbitrum
 
-### What are the fees for PancakeSwap Perpetuals V2 on Arbitrum?
+### Каковы комиссии для PancakeSwap Perpetuals V2 на Arbitrum?
 
-For our launch on Arbitrum, fees will be **0.05% on opening and closing trades**. 50% of the fees collected will be shared with the ALP pool for providing liquidity. Other fees include execution, liquidation and funding fees. More information on fees can be found [here](https://blog.pancakeswap.finance/articles/ep-6-4-pancake-swap-perpetuals-v2-fee-structure-a-comprehensive-overview).
+При запуске на Arbitrum комиссии составят **0.05% за открытие и закрытие сделок**. 50% собранных комиссий будут распределяться в пул ALP за предоставление ликвидности. Другие комиссии включают комиссии за исполнение, ликвидацию и финансирование. Подробнее о комиссиях можно узнать [здесь](https://blog.pancakeswap.finance/articles/ep-6-4-pancake-swap-perpetuals-v2-fee-structure-a-comprehensive-overview).
 
-### What is ALP?
+### Что такое ALP?
 
-Perpetuals v2 on Arbitrum features a separate liquidity pool, the ALP Pool, powered by the Aster platform's liquidity provider token, $ALP. Comprising assets such as USDC, USDT, DAI, ETH, and BTC, the ALP Pool allows users to become a liquidity provider and earn significant yield by minting $ALP with any of the aforementioned assets. A remarkable 50% of the total platform fee revenues are distributed to ALP liquidity providers, encompassing various components like opening/closing position fees, execution fees, funding fees, and liquidation fees. A guide to staking ALP can be found [here.](alp-syrup-pool-arbitrum/)
+Perpetuals v2 на Arbitrum имеет отдельный пул ликвидности — пул ALP, работающий на основе токена поставщика ликвидности платформы Aster — $ALP. Состоящий из таких активов, как USDC, USDT, DAI, ETH и BTC, пул ALP позволяет пользователям стать поставщиками ликвидности и получать значительный доход путём минтинга $ALP с любым из упомянутых активов. Замечательные 50% от общего дохода от комиссий платформы распределяются поставщикам ликвидности ALP, включая различные составляющие, такие как комиссии за открытие/закрытие позиций, комиссии за исполнение, финансирование и ликвидацию. Руководство по стейкингу ALP можно найти [здесь.](alp-syrup-pool-arbitrum/)
 
-### What is the ALP Syrup Pool?
+### Что такое ALP Syrup Pool?
 
-The new Aster ($ALP) Syrup Pool on Arbitrum allows users to earn a boosted yield. Users can stake $ALP tokens to earn rewards in $CAKE tokens with over 20% APY at launch. ALP syrup pool on PancakeSwap . For more details on the syrup pool, including emissions and start and end dates, please refer to the proposal [here](https://pancakeswap.finance/voting/proposal/0x52455da15b4f1ff4d324c1e7645163d6b78b2221a98a4782bff16b27de409ce9).
+Новый Syrup Pool Aster ($ALP) на Arbitrum позволяет пользователям получать повышенный доход. Пользователи могут стейкать токены $ALP для получения вознаграждений в токенах $CAKE с доходностью свыше 20% APY при запуске. ALP Syrup Pool на PancakeSwap. Для получения подробной информации о Syrup Pool, включая эмиссию и даты начала и окончания, обратись к предложению [здесь](https://pancakeswap.finance/voting/proposal/0x52455da15b4f1ff4d324c1e7645163d6b78b2221a98a4782bff16b27de409ce9).
 
-### What are the available tokens for Arbitrum?
+### Какие токены доступны на Arbitrum?
 
-Supported trading pairs on Arbitrum One are ARBUSD, XRPUSD, DOGEUSD, ETHUSD and BTCUSD. For Degen mode, ETHUSD and BTCUSD are supported. We will look to roll out more pairs in the coming weeks.
+Поддерживаемые торговые пары на Arbitrum One: ARBUSD, XRPUSD, DOGEUSD, ETHUSD и BTCUSD. Для Degen Mode поддерживаются ETHUSD и BTCUSD. В ближайшие недели мы планируем добавить больше пар.
 
-### I topped up my wallet with USDC on Arbitrum; why can't I see it?
+### Я пополнил кошелёк USDC на Arbitrum, но не могу его увидеть. В чём причина?
 
-It is most likely that you've topped up native USDC on Aribtrum ([0xaf88d065e77c8cC2239327C5EDb3A432268e5831](https://arbiscan.io/token/0xaf88d065e77c8cC2239327C5EDb3A432268e5831)). However, PancakeSwap Perpetuals supports Bridged USDC, USDC.e ([0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8](https://arbiscan.io/token/0xff970a61a04b1ca14834a43f5de4533ebddb5cc8)) as it has higher liquidity. You can swap USDC to USDC.e seamlessly [here](https://pancakeswap.finance/swap?chain=arb\&outputCurrency=0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8\&inputCurrency=0xaf88d065e77c8cC2239327C5EDb3A432268e5831). For more information on the difference between USDC and USDC.e, please refer to the [Circle USDC ](https://www.circle.com/blog/arbitrum-usdc-now-available)press release.
+Скорее всего, ты пополнил нативный USDC на Arbitrum ([0xaf88d065e77c8cC2239327C5EDb3A432268e5831](https://arbiscan.io/token/0xaf88d065e77c8cC2239327C5EDb3A432268e5831)). Однако PancakeSwap Perpetuals поддерживает Bridged USDC — USDC.e ([0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8](https://arbiscan.io/token/0xff970a61a04b1ca14834a43f5de4533ebddb5cc8)), поскольку он имеет более высокую ликвидность. Ты можешь обменять USDC на USDC.e без труда [здесь](https://pancakeswap.finance/swap?chain=arb\&outputCurrency=0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8\&inputCurrency=0xaf88d065e77c8cC2239327C5EDb3A432268e5831). Для получения дополнительной информации о разнице между USDC и USDC.e обратись к [пресс-релизу Circle USDC](https://www.circle.com/blog/arbitrum-usdc-now-available).

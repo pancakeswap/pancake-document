@@ -1,45 +1,45 @@
 # Arbitrum
 
-On 31st August 2023, PancakeSwap Perpetuals will launch the V2 Trading Rewards Program on Arbitrum. Users who stake [ALP in CAKE syrup pool](https://pancakeswap.finance/pools?chain=arb) on Arbitrum can enjoy boosting multipliers. In addition, there is no vesting period for rewards earned in this program. Users may claim their USDC rewards at any time. Details are as follows:
+31 августа 2023 года PancakeSwap Perpetuals запустит Программу торговых вознаграждений V2 на Arbitrum. Пользователи, стейкающие [ALP в CAKE Syrup Pool](https://pancakeswap.finance/pools?chain=arb) на Arbitrum, могут получать повышающие множители. Кроме того, для вознаграждений, заработанных в этой программе, нет периода вестинга. Пользователи могут получать вознаграждения в USDC в любое время. Подробности следующие:
 
-Starting time: 31st August 2023, 08:00 (UTC)
+Время начала: 31 августа 2023 года, 08:00 (UTC)
 
-Activity (Epoch) period: Every Thursday 08:00:00 UTC to the next Thursday 07:59:59, lasting 1 week
+Период активности (эпоха): Каждый четверг с 08:00:00 UTC до следующего четверга 07:59:59 — продолжительность 1 неделя
 
-Reward Distribution Time: Each cycle is 00:00 (UTC) to 23:59 (UTC) daily. Rewards are issued on every Thursday at around 08:00 (UTC). After user's tier is update, rewards will be calculated and distributed. Users have to claim their rewards within 30 days after the rewards are issued. If they do not, the platform will revoke the rewards.&#x20;
+Время распределения вознаграждений: Каждый цикл — ежедневно с 00:00 (UTC) до 23:59 (UTC). Вознаграждения выдаются каждый четверг примерно в 08:00 (UTC). После обновления уровня пользователя вознаграждения рассчитываются и распределяются. Пользователи должны получить вознаграждения в течение 30 дней после их выдачи. В противном случае платформа отзовёт вознаграждения.&#x20;
 
-Reward amount: For the first 5 weeks, 25% of trading fees (in USDC). This prize pool will then be distributed according to tiers.
+Размер вознаграждений: Первые 5 недель — 25% торговых комиссий (в USDC). Этот призовой пул затем распределяется по уровням.
 
-Activity rules: Users who trade on PancakeSwap Perpetuals V2 on Arbitrum will qualify for the prize pool
+Правила активности: Пользователи, торгующие на PancakeSwap Perpetuals V2 на Arbitrum, имеют право на участие в призовом пуле.
 
-### Tier Breakdown
+### Разбивка по уровням
 
-Every Thursday at 08:00:00 UTC, we calculate the trading data from last Thursday 08:00:00 UTC to this Thursday at 07:59:59 and then update the user's Tier according to the Tier rules. The Tier rules are as follows (configuration is supported):
+Каждый четверг в 08:00:00 UTC мы рассчитываем торговые данные с прошлого четверга 08:00:00 UTC до этого четверга 07:59:59 и обновляем уровень пользователя согласно правилам уровней. Правила уровней следующие (конфигурация поддерживается):
 
-<table><thead><tr><th width="161">Tier</th><th width="249.33333333333331">Description</th><th>Weight</th></tr></thead><tbody><tr><td>Diamond</td><td>Epoch trading amount >=1M USD</td><td>5</td></tr><tr><td>Gold</td><td>Epoch trading amount >=500K USD</td><td>3</td></tr><tr><td>Silver</td><td>Epoch trading amount >=250K USD</td><td>1</td></tr></tbody></table>
+<table><thead><tr><th width="161">Уровень</th><th width="249.33333333333331">Описание</th><th>Вес</th></tr></thead><tbody><tr><td>Diamond</td><td>Торговый объём за эпоху >=1M USD</td><td>5</td></tr><tr><td>Gold</td><td>Торговый объём за эпоху >=500K USD</td><td>3</td></tr><tr><td>Silver</td><td>Торговый объём за эпоху >=250K USD</td><td>1</td></tr></tbody></table>
 
-**Note: The tier criteria and weights are subject to change based on pool liquidity and overall trading activity on the platform**
+**Примечание: Критерии уровней и веса могут меняться в зависимости от ликвидности пула и общей торговой активности на платформе**
 
-Rewards will be distributed equally across all users who qualify for a certain tier
+Вознаграждения распределяются равномерно между всеми пользователями, соответствующими требованиям определённого уровня.
 
-### Trading Rewards calculation formula:&#x20;
+### Формула расчёта торговых вознаграждений:&#x20;
 
-At the end of each trading reward cycle, the user’s effective trading volume in that cycle will be calculated to determine the weightage and amount of USDC rewards.
+В конце каждого цикла торговых вознаграждений рассчитывается эффективный торговый объём пользователя в этом цикле для определения весового коэффициента и суммы вознаграждений в USDC.
 
-The formula for the number of specific rewards is: r = min{R \* W/Sum(Wi), R \* 20%\}, the parameters are as follows:
+Формула для конкретного количества вознаграждений: r = min{R \* W/Sum(Wi), R \* 20%\}, параметры следующие:
 
-<table data-header-hidden><thead><tr><th width="139"></th><th></th></tr></thead><tbody><tr><td>r</td><td>Amount of USDC reward to be mined by the user for the current epoch</td></tr><tr><td>R</td><td>The reward of the current epoch R=(USDC value of ETH fee + USDC value of DAI fee + USDC value of BTC fee + USDC fee)*0.25, of which 1% Swap fee needs to be deducted when it comes to the settlement, for example: when the weekly ETH fee is 1 and the ETH Price is 2,000, the ETH fee for the USDC value = 1 * 2000 * 0.99</td></tr><tr><td>W</td><td>Weight corresponding to the user's Tier level</td></tr><tr><td>Sum(Wi)</td><td>Total weight score of all users. Wi represents the weight of any user, and sum(Wi) represents sum weight scores of all users.</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="139"></th><th></th></tr></thead><tbody><tr><td>r</td><td>Сумма вознаграждений в USDC, добываемых пользователем за текущую эпоху</td></tr><tr><td>R</td><td>Вознаграждение текущей эпохи R=(стоимость комиссий ETH в USDC + стоимость комиссий DAI в USDC + стоимость комиссий BTC в USDC + комиссия в USDC)*0.25, при этом при расчёте необходимо вычесть 1% комиссии Swap, например: когда еженедельная комиссия ETH составляет 1 и цена ETH равна 2,000, стоимость комиссии ETH в USDC = 1 * 2000 * 0.99</td></tr><tr><td>W</td><td>Вес, соответствующий уровню пользователя</td></tr><tr><td>Sum(Wi)</td><td>Общий весовой балл всех пользователей. Wi представляет вес любого пользователя, sum(Wi) — сумму весовых баллов всех пользователей.</td></tr></tbody></table>
 
-* The max revenue share per user is capped at 20% of the revenue reserved for the program
+* Максимальная доля дохода на одного пользователя ограничена 20% от дохода, зарезервированного для программы
 
-Terms and Conditions
+Условия использования
 
-* Due to the difference in trading fees for each trading pair on V2, the rewards users receive may vary even though their effective trading volumes are the same.
-* The rewards to be distributed for each cycle will be stored in the following contract address:&#x20;
-* PancakeSwap/ApolloX reserves the right of final interpretation for this activity.
+* Из-за разницы в торговых комиссиях для каждой торговой пары на V2, вознаграждения пользователей могут различаться даже при одинаковых эффективных торговых объёмах.
+* Вознаграждения для каждого цикла будут храниться по следующему адресу контракта:&#x20;
+* PancakeSwap/ApolloX оставляет за собой право окончательного толкования данной активности.
 
 
 
-Risk Warning: Crypto futures trading carries a substantial risk. All trading activities are done at your discretion and at your own risk. The information here should not be regarded as financial or investment advice from PancakeSwap/ApolloX. PancakeSwap/ApolloX will not be liable for any loss that might arise from your use of PancakeSwap/ApolloX.
+Предупреждение о рисках: Торговля фьючерсами на криптовалюты несёт существенный риск. Все торговые операции осуществляются по твоему усмотрению и на твой страх и риск. Информация здесь не должна расцениваться как финансовый или инвестиционный совет от PancakeSwap/ApolloX. PancakeSwap/ApolloX не несёт ответственности за любые убытки, которые могут возникнуть в результате использования PancakeSwap/ApolloX.
 
 <br>

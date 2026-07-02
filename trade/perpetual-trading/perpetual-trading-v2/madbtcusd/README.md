@@ -1,24 +1,24 @@
 ---
-description: Higher Volatility BTC Trading
+description: Торговля BTC с повышенной волатильностью
 hidden: true
 ---
 
 # MADBTCUSD
 
-**1. What is MADBTCUSD Index?**
+**1. Что такое индекс MADBTCUSD?**
 
-The MADBTCUSD Index is an algorithmically generated price index that encapsulates the dynamic movements of BTC but with an added twist – it exhibits significantly higher volatility. This index is derived using the Geometric Brownian Motion (GBM) derivatives pricing methodology, a mathematical model commonly used in the world of finance to simulate the unpredictable nature of assets.
+Индекс MADBTCUSD — это алгоритмически генерируемый ценовой индекс, отражающий динамические движения BTC, но с дополнительной особенностью — он демонстрирует значительно более высокую волатильность. Этот индекс рассчитывается с использованием методологии ценообразования производных инструментов Геометрического Броуновского Движения (GBM) — математической модели, широко применяемой в финансовом мире для моделирования непредсказуемого поведения активов.
 
-**2. How Does It Work?**
+**2. Как это работает?**
 
-The MADBTCUSD Index is primarily based on the price of Bitcoin. It mirrors the general ups and downs of BTCUSD, but it does so at an amplified rate (expected volatility of 100%), resulting in an index with significantly more pronounced price swings. To maintain transparency and fairness, the MADBTC price can be cross-verified through the BTC price and MADBTC historical price data ([here](madbtcusd-faq.md)). This ensures that the index accurately reflects the movements in the underlying BTC market.
+Индекс MADBTCUSD основан прежде всего на цене Bitcoin. Он отражает общие подъёмы и падения BTCUSD, но в усиленном виде (ожидаемая волатильность 100%), что приводит к значительно более выраженным ценовым колебаниям. Для обеспечения прозрачности и честности цена MADBTC может быть перекрёстно проверена через цену BTC и исторические данные MADBTC ([здесь](madbtcusd-faq.md)). Это гарантирует, что индекс точно отражает движения базового рынка BTC.
 
-One key feature that sets MADBTCUSD apart from traditional cryptocurrencies is the element of randomness. The price of the MADBTCUSD contract is algorithmically generated using a combination of the corresponding contract's data and a random number. There is no impact of buyers and sellers on price of the MADBTCUSD index.
+Одна из ключевых особенностей, отличающих MADBTCUSD от традиционных криптовалют, — элемент случайности. Цена контракта MADBTCUSD алгоритмически генерируется с использованием комбинации данных соответствующего контракта и случайного числа. Покупатели и продавцы не влияют на цену индекса MADBTCUSD.
 
-**3. Market Availability:**
+**3. Доступность на рынке:**
 
-Currently, MADBTCUSD Index is available in Classic Mode on BNB Chain, alongside other major markets like BTCUSD, and ETHUSD. The contract offers additional benefits such as zero position open fee, PnL based position close fee and up to 250x leverage.
+В настоящее время индекс MADBTCUSD доступен в Classic Mode на BNB Chain наряду с другими основными рынками, такими как BTCUSD и ETHUSD. Контракт предлагает дополнительные преимущества: нулевая комиссия за открытие позиции, комиссия за закрытие позиции на основе PnL и кредитное плечо до 250x.
 
-If you're intrigued by the concept of MADBTCUSD and want to explore the intricacies of this contract further, here’s a dedicated [FAQ](madbtcusd-faq.md) page to provide you with a comprehensive methodology.
+Если тебя интересует концепция MADBTCUSD и ты хочешь изучить тонкости этого контракта, вот специальная страница [FAQ](madbtcusd-faq.md) с исчерпывающей методологией.
 
-_**It's important to note that due to its extreme volatility, MADBTCUSD may not be suitable for all traders, so it's essential to conduct your research and fully understand the risks involved before participating**_
+_**Важно отметить, что из-за экстремальной волатильности MADBTCUSD может подходить не всем трейдерам — необходимо провести собственное исследование и полностью понять связанные риски перед участием**_

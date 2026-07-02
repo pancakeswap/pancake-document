@@ -2,38 +2,38 @@
 hidden: true
 ---
 
-# How to use Limit Orders
+# Как использовать лимитные ордера
 
-## What is Limit Orders
+## Что такое лимитные ордера
 
-A limit order is a tool to enable users to buy or sell assets at a specified price or better, instead of relying on the market price at the time of execution. In a limit order, while the price is guaranteed, the order being executed is not - limit orders will be executed only if the price meets the order qualifications.
+Лимитный ордер — инструмент, позволяющий пользователям покупать или продавать активы по указанной цене или лучше, вместо того чтобы полагаться на рыночную цену в момент исполнения. При лимитном ордере цена гарантирована, но не гарантировано исполнение — лимитные ордера исполняются только при достижении ценой условий ордера.
 
-## How to set up a limit order
+## Как настроить лимитный ордер
 
-1. Go to the Swap page and select the limit order option by clicking “LIMIT”, or, use this link: [https://pancakeswap.finance/swap/limit](https://pancakeswap.finance/swap/limit)
-2. Select the “From” and “To” tokens you wish to trade. In this example we chose USDC and ETH respectively, meaning we want to buy ETH with USDC.
+1. Перейди на страницу Обмена и выбери опцию лимитного ордера, нажав «LIMIT», или воспользуйся ссылкой: [https://pancakeswap.finance/swap/limit](https://pancakeswap.finance/swap/limit)
+2. Выбери токены «From» и «To» для торговли. В этом примере мы выбрали USDC и ETH соответственно — это означает, что мы хотим купить ETH за USDC.
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%284%29%20%281%29.png)
+![](<https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%284%29%20%281%29.png>)
 
-1. Enter the amount you wish to trade. Notice the limit price will show the current market price which will then estimate the output amount of destination tokens (ETH)
-2. Set the desired limit price. Trades will ONLY be executed when the available market price is better than or equal to the limit price. The destination token output amount will update accordingly.
+1. Введи сумму для торговли. Обрати внимание, что лимитная цена будет отражать текущую рыночную цену, что поможет оценить количество получаемых токенов назначения (ETH).
+2. Задай желаемую лимитную цену. Сделки будут исполняться ТОЛЬКО при условии, что доступная рыночная цена равна или лучше лимитной цены. Количество получаемых токенов назначения обновится соответствующим образом.
 
-In the example below, we wish to buy ETH when the price is $1,900 or better. The amount of ETH received will be equal or greater than 0.037 ETH. Only bids equal or better than this amount will be eligible to fill the order. This amount takes into account gas costs and fees. &#x20;
+В примере ниже мы хотим купить ETH по цене $1 900 или лучше. Количество получаемого ETH будет равно или больше 0,037 ETH. Только заявки с суммой, равной или выше этой, будут приняты к исполнению ордера. Эта сумма учитывает стоимость газа и комиссии. &#x20;
 
 {% hint style="info" %}
-Important note: As the fees are paid from the output token amount, the limit price includes the gas & trading fees and so users should take this into account when setting up the price. For example, a very small order’s gas fees can total a very large percentage of the order output, reflecting an actual limit price that is not competitive with the spot market price.
+Важное замечание: поскольку комиссии выплачиваются из суммы выходных токенов, лимитная цена уже включает газ и торговые комиссии — пользователям следует учитывать это при выставлении цены. Например, для небольших ордеров газовые комиссии могут составлять значительный процент от объёма сделки, что отражает фактическую лимитную цену, неконкурентоспособную со спотовой рыночной ценой.
 {% endhint %}
 
-3.  Press “Place order”. Double check your order details, accept the disclaimer and press “Confirm order”.
+3.  Нажми «Place order». Проверь детали ордера, прими условия и нажми «Confirm order».
 
     <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%283%29%20%281%29%20%281%29.png" alt="" width="375"><figcaption></figcaption></figure>
-4. Once the transaction is through, you will be able to see your order in the order history section, under “Open orders”. \
-   ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%282%29%20%281%29%20%281%29%20%281%29.png)
-5. Open orders can be canceled at any time by expanding the order and clicking the “Cancel Order” button.
+4. После проведения транзакции ты сможешь увидеть свой ордер в разделе истории ордеров под «Open orders». \
+   ![](<https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%282%29%20%281%29%20%281%29%20%281%29.png>)
+5. Открытые ордера можно отменить в любое время, развернув ордер и нажав кнопку «Cancel Order».
 
-Things to take into consideration:
+Что следует учитывать:
 
-* Your order may not be executed if the available market price is worse than the limit price you have set.
-* The trades are based on a decentralized protocol that utilizes off-chain takers which compete to fill orders. These takers are entitled to request a fee, which the protocol removes for the winning taker from the output tokens.&#x20;
-* Takers may take into account gas fees for your transactions when setting their fees, which may result in fluctuations in the fee amounts.
-* When specifying a limit price, users will see in the UI the minimum amount of destination tokens they will receive if the order is filled. Only takers making bids equal or better than this amount will be eligible to fill the order. This amount takes into account gas costs and trading fees.
+* Твой ордер может не исполниться, если доступная рыночная цена хуже указанной тобой лимитной цены.
+* Сделки основаны на децентрализованном протоколе, использующем внецепочечных тейкеров, которые конкурируют за исполнение ордеров. Эти тейкеры вправе запросить комиссию, которую протокол удерживает для победившего тейкера из выходных токенов.&#x20;
+* При установке своих комиссий тейкеры могут учитывать стоимость газа для твоих транзакций, что может приводить к колебаниям сумм комиссий.
+* При указании лимитной цены в интерфейсе отображается минимальное количество токенов назначения, которое ты получишь при исполнении ордера. К исполнению допускаются только заявки тейкеров на сумму, равную или превышающую это количество. Эта сумма учитывает стоимость газа и торговые комиссии.

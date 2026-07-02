@@ -1,21 +1,21 @@
-# Perpetual Trading FAQ
+# FAQ по бессрочной торговле
 
-### What is the value contribution of this new feature to the cake holders?
+### Каков вклад этой новой функции в ценность для держателей CAKE?
 
-We expect this new feature to bring in a lot of new users, traders and volume. We want to ensure the value goes back to our CAKE token on top of offering the trading fee discount. A portion of all opening and closing fees from users who sign up on PancakeSwap will be converted to CAKE and burnt.&#x20;
+Мы ожидаем, что эта новая функция привлечёт много новых пользователей, трейдеров и объёма. Мы хотим убедиться, что ценность возвращается к нашему токену CAKE помимо предоставления скидки на торговые комиссии. Часть всех комиссий за открытие и закрытие позиций пользователей, зарегистрировавшихся на PancakeSwap, будет конвертирована в CAKE и сожжена.&#x20;
 
-**And the rest of it?**
+**А остальное?**
 
-The rest are currently reserved for the treasury for ongoing expansion and development of this feature. As the feature matures, we expect to increase the burn portion gradually based on community feedback and governance. Moving forward, we'll look to reward CAKE holders with the increasing adoption of Perpetual Trading V2.
+Остальное в настоящее время зарезервировано для казны для продолжения расширения и разработки этой функции. По мере зрелости функции мы планируем постепенно увеличивать долю сжигания на основе отзывов сообщества и управления. В дальнейшем мы будем стремиться вознаграждать держателей CAKE по мере роста принятия Бессрочной торговли V2.
 
-### How does Aster determine which user is from PancakeSwap and which user is from their own website?
+### Как Aster определяет, кто из пользователей пришёл с PancakeSwap, а кто — с их собственного сайта?
 
-This is based on the platform where users trade. If users open and close trades on [https://perp.pancakeswap.finance/](https://perp.pancakeswap.finance/), they will be considered PancakeSwap user.
+Это определяется по платформе, на которой пользователи торгуют. Если пользователи открывают и закрывают сделки на [https://perp.pancakeswap.finance/](https://perp.pancakeswap.finance/), они считаются пользователями PancakeSwap.
 
-### Fees
+### Комиссии
 
-Fees for PancakeSwap Perpetuals on different chains are as follows:
+Комиссии для PancakeSwap Perpetuals на разных сетях:
 
-<table><thead><tr><th width="201.33333333333331">Mode</th><th width="248">BSC, opBNB, Base</th><th>Arbitrum</th></tr></thead><tbody><tr><td>Perpetuals V2 opening position fee</td><td>0.08%</td><td>0.05%</td></tr><tr><td>Perpetuals V2 closing position fee</td><td>0.08%</td><td>0.05%</td></tr><tr><td>Perpetuals V2 FX fee</td><td>0.02%</td><td>0.02%</td></tr><tr><td><a href="../degen-mode/">Degen Mode</a></td><td>Minimum 0.03%</td><td>Minimum 0.03%</td></tr><tr><td><a href="../dumb-mode/">Dumb Mode</a></td><td>6% collateral on wins</td><td>6% collateral on wins</td></tr></tbody></table>
+<table><thead><tr><th width="201.33333333333331">Режим</th><th width="248">BSC, opBNB, Base</th><th>Arbitrum</th></tr></thead><tbody><tr><td>Комиссия за открытие позиции Perpetuals V2</td><td>0.08%</td><td>0.05%</td></tr><tr><td>Комиссия за закрытие позиции Perpetuals V2</td><td>0.08%</td><td>0.05%</td></tr><tr><td>FX-комиссия Perpetuals V2</td><td>0.02%</td><td>0.02%</td></tr><tr><td><a href="../degen-mode/">Degen Mode</a></td><td>Минимум 0.03%</td><td>Минимум 0.03%</td></tr><tr><td><a href="../dumb-mode/">Dumb Mode</a></td><td>6% залога при выигрыше</td><td>6% залога при выигрыше</td></tr></tbody></table>
 
-All trades are subject to an execution fee of 0.5 USD (BNB Chain)/ 0.2 USD (Arbitrum)/ 0.01 USD (opBNB)/ 0.3 USD (Base) when a position is opened.
+За все сделки взимается комиссия за исполнение в размере 0.5 USD (BNB Chain) / 0.2 USD (Arbitrum) / 0.01 USD (opBNB) / 0.3 USD (Base) при открытии позиции.

@@ -1,48 +1,48 @@
-# Dumb Mode Guide
+# Руководство по Dumb Mode
 
-### How to Place Orders in Dumb Mode
+### Как размещать ордера в Dumb Mode
 
-To place an order in Dumb Mode on PancakeSwap, follow these steps:
+Чтобы разместить ордер в Dumb Mode на PancakeSwap, выполни следующие шаги:
 
-1. Select a Market: Go to [**Pancakeswap Perpertuals**](https://perp.pancakeswap.finance/en/futures/v2/BTCUSD?theme=light\&chain=bsc) on BSC. Choose from the available markets like BTCUSD, ETHUSD, etc.
+1. Выбери рынок: Перейди на [**Pancakeswap Perpetuals**](https://perp.pancakeswap.finance/en/futures/v2/BTCUSD?theme=light\&chain=bsc) на BSC. Выбери один из доступных рынков: BTCUSD, ETHUSD и т.д.
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Module_Order.png" alt="" width="338"><figcaption></figcaption></figure>
 
-2. Click on **Dumb (Beta) Icon.** The position interface will change to Dumb mode.
+2. Нажми на **иконку Dumb (Beta).** Интерфейс позиции изменится на режим Dumb.
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Module_Order%20%281%29.png" alt="" width="338"><figcaption></figcaption></figure>
 
-2. Select Position: Choose to long or short the underlying asset\*
-   1. For long positions: If the expiry price is greater than the entry price, user will win the trade and make profit.&#x20;
-   2. For short positions: If the expiry price is less than the entry price, users will win the trade and make profit.
-   3. Otherwise, user will lose the entire collateral.
-   4. Refer to notes for more details on position
-3.  Set Margin and Amount: Select your margin asset (USDC, USDT, CAKE, etc.) and specify the amount for collateral.
+2. Выбери позицию: выбери лонг или шорт по базовому активу\*
+   1. Для лонг-позиций: если цена при истечении выше цены входа, пользователь выиграет сделку и получит прибыль.&#x20;
+   2. Для шорт-позиций: если цена при истечении ниже цены входа, пользователь выиграет сделку и получит прибыль.
+   3. В противном случае пользователь потеряет весь залог.
+   4. Обратись к примечаниям для получения подробной информации о позиции.
+3.  Задай маржу и сумму: выбери маржинальный актив (USDC, USDT, CAKE и т.д.) и укажи сумму залога.
 
     <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Frame%2048097008.jpg" alt=""><figcaption></figcaption></figure>
-4. Choose Duration: Decide on the expiration of your trade - 60s, 5m, or 10m.
+4. Выбери длительность: определи срок истечения сделки — 60 сек, 5 мин или 10 мин.
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Info.png" alt=""><figcaption></figcaption></figure>
 
-5. Place Order: Review the ROI, confirm details and place your trade by clicking **Open Position**\*
+5. Разместить ордер: проверь ROI, подтверди детали и размести сделку, нажав **Open Position**\*
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Info.jpg" alt=""><figcaption></figcaption></figure>
 
-5. Monitor Trade: Once the trade is placed, monitor its progress until completion via the “Position” tab. **Users cannot close trades before expiration**
+5. Следи за сделкой: после размещения сделки следи за её ходом до завершения через вкладку «Position». **Пользователи не могут закрыть сделки до истечения срока**
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Module_Bottom.png" alt=""><figcaption></figcaption></figure>
 
-7. Settlement: Upon the trade's conclusion, if successful, your ROI will be credited minus the 6% fee. If the trade is not successful, the loss will be 100%.
+7. Расчёт: по завершении сделки, в случае успеха, твой ROI будет зачислен за вычетом комиссии 6%. В случае неудачи убыток составит 100%.
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Module_Bottom%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
-### Extra Note on Position
+### Дополнительное примечание о позиции
 
-* Please note that the expiration timer doesn't start when you click on the 'OpenPosition' button; instead, the 60-second / selected duration countdown commences from the instant the transaction gets confirmed on the blockchain
-* The price you see displayed serves only as a reference. The final entry price will be determined by the price point at the exact moment the transaction is confirmed on the blockchain. This will be updated on the “position” tab
+* Обрати внимание: таймер истечения не начинается в момент нажатия кнопки «OpenPosition» — обратный отсчёт на 60 секунд / выбранную длительность начинается с момента подтверждения транзакции в блокчейне
+* Отображаемая цена является лишь справочной. Окончательная цена входа определяется ценой на точный момент подтверждения транзакции в блокчейне. Она будет обновлена на вкладке «position»
 
-### Tips for Using Dumb Mode
+### Советы по использованию Dumb Mode
 
-* Understand the Risks: Be aware of the high risks involved, especially with the -100% ROI on losses.
-* Manage Your Collateral: Only invest what you can afford to lose.
-* Stay Informed: Keep up to date with market trends for the assets you're trading.
+* Понимай риски: будь осведомлён о высоких рисках, особенно с ROI -100% при убытках.
+* Управляй залогом: инвестируй только то, что можешь позволить себе потерять.
+* Будь в курсе: следи за рыночными тенденциями по торгуемым активам.

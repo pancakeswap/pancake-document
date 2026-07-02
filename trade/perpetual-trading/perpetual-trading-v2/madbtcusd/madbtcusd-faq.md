@@ -1,10 +1,10 @@
-# MADBTCUSD FAQ
+# FAQ по MADBTCUSD
 
-### How is MADBTCUSD Index Calculated?
+### Как рассчитывается индекс MADBTCUSD?
 
-MADBTCUSD is calculated based on the following formula:
+MADBTCUSD рассчитывается по следующей формуле:
 
-**MADBTCUSD Index**
+**Индекс MADBTCUSD**
 
 $$
 \begin{align*}
@@ -20,14 +20,14 @@ $$
 
 
 
-where:
+где:
 
-* Initial Sn=1000 &#x20;
+* Начальное Sn=1000 &#x20;
 * dt=1
-* expected vol：100%(expected vol is the expected time volatility of the MADBTC)
-* the "**Random number**" is calculated based on the current **BTC price with 8 decimal places of precision**
+* ожидаемая волатильность：100% (ожидаемая временная волатильность MADBTC)
+* «**Случайное число**» рассчитывается на основе текущей **цены BTC с точностью до 8 знаков после запятой**
 
-**Calculation of Random Number:**
+**Расчёт случайного числа:**
 
 ```python
 import hashlib
@@ -51,18 +51,18 @@ random_number = hash_integer / 4294967296
 print(random_number)
 ```
 
-If the random number determined is 0, it will be recalculated again
+Если определённое случайное число равно 0, оно будет пересчитано заново
 
-### Where can I cross-verify the BTC and MADBTCUSD historical price?
+### Где можно перекрёстно проверить историческую цену BTC и MADBTCUSD?
 
-The BTC and MADBTCUSD price feed can be found here:
+Потоки цен BTC и MADBTCUSD можно найти здесь:
 
 [BTCUSD](https://www.apollox.finance/bapi/futures/v1/public/future/apx/V2MarkPriceKline?symbol=BTCUSD\&limit=1800)
 
 [MADBTCUSD](https://www.apollox.finance/bapi/futures/v1/public/future/apx/V2MarkPriceKline?symbol=MADBTCUSD\&limit=1800)
 
-### Historical backtest data of BTC & MADBTC
+### Исторические данные бэктестинга BTC и MADBTC
 
-To cross-verify the BTC & MADBTC historical prices, we've provided a backtest graph below.&#x20;
+Для перекрёстной проверки исторических цен BTC и MADBTC мы предоставили граф бэктестинга ниже.&#x20;
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/photo_2023-10-26_19-24-40.jpg" alt=""><figcaption></figcaption></figure>

@@ -1,76 +1,76 @@
 ---
-description: ApolloX will launch Trading Rewards Program on V2
+description: ApolloX запустит Программу торговых вознаграждений на V2
 hidden: true
 ---
 
-# Trading Rewards Program
+# Программа торговых вознаграждений
 
-### Reward Program Overview
+### Обзор программы вознаграждений
 
-The details are as follows:
+Подробности следующие:
 
-Activity period: Dates vary from cycle to cycle and for different chains
+Период активности: Даты варьируются от цикла к циклу и для разных сетей
 
-Rewards Distribution Time: Each cycle is 00:00 (UTC) to 23:59 (UTC) daily. Rewards are issued on the next day at around 03:00 (UTC). Users have to claim their rewards within 30 days after the rewards are issued. If they do not, the platform will revoke the rewards.&#x20;
+Время распределения вознаграждений: Каждый цикл — ежедневно с 00:00 (UTC) до 23:59 (UTC). Вознаграждения выдаются на следующий день примерно в 03:00 (UTC). Пользователи должны получить вознаграждения в течение 30 дней после их выдачи. В противном случае платформа отзовёт вознаграждения.&#x20;
 
-Reward amount: Capped at $15,000 USD worth of APX per day
+Размер вознаграждений: Ограничен $15,000 USD в виде APX в день
 
-Activity rules: Users who trade on V2 earn from a reward prize pool. Those who stake APX in DAO to obtain veNFT will enjoy boosting multipliers corresponding to the Power value calculated from the veNFT.&#x20;
+Правила активности: Пользователи, торгующие на V2, получают вознаграждения из призового пула. Те, кто стейкает APX в DAO для получения veNFT, получат повышающие множители, соответствующие значению Power, рассчитанному из veNFT.&#x20;
 
-| Power Value               | Boosting Multiplier  |
+| Значение Power            | Повышающий множитель |
 | ------------------------- | -------------------- |
 | 50,000 < Power =<100,000  | 1.5                  |
 | 100,000 < Power =<300,000 | 2                    |
 | Power > 300,000           | 2.5                  |
 
-Trading Rewards calculation formula:&#x20;
+Формула расчёта торговых вознаграждений:&#x20;
 
-At the end of each trading reward cycle, the user’s effective trading fees and staking amount in that cycle will be calculated to determine the weightage and amount of APX rewards. The formula is as follows:
+В конце каждого цикла торговых вознаграждений рассчитываются эффективные торговые комиссии пользователя и сумма стейкинга за этот цикл для определения весового коэффициента и суммы вознаграждений APX. Формула следующая:
 
 r = R\*W / sum(Wi)
 
 
 
-Parameters:
+Параметры:
 
-| r       | User’s APX reward for this cycle                                                                                                                                                                                                                                                                                        |
-| ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| R       | Determined by the user’s V2 trading fee contribution on the previous day and latest APX token price                                                                                                                                                                                                                     |
-| W       | <p>Individual total weight score W=f*w, where;</p><p>f refers to the effective trading fees contributed by the user in this cycle, which will be converted into USD.</p><p>w is the Boosting Multiplier obtained by the user in this cycle from staking APX in DAO. (Refer to the above table for more information)</p> |
-| sum(Wi) | The total score of all users. Wi represents any individual user’s score, and sum(Wi) represents the sum of all user scores                                                                                                                                                                                              |
+| r       | Вознаграждение APX пользователя за этот цикл                                                                                                                                                                                                                                                                                                           |
+| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| R       | Определяется вкладом пользователя в торговые комиссии V2 за предыдущий день и последней ценой токена APX                                                                                                                                                                                                                                               |
+| W       | <p>Индивидуальный общий весовой балл W=f*w, где;</p><p>f — эффективные торговые комиссии, внесённые пользователем в этом цикле, конвертированные в USD.</p><p>w — повышающий множитель, полученный пользователем в этом цикле от стейкинга APX в DAO. (Обратись к таблице выше для получения дополнительной информации)</p> |
+| sum(Wi) | Общий балл всех пользователей. Wi представляет балл отдельного пользователя, sum(Wi) — сумму всех пользовательских баллов                                                                                                                                                                                                                              |
 
 &#x20;
 
-The calculation formula for R is as follows:
+Формула расчёта R следующая:
 
-R=Min(Dollar value multiplier \* Trading Fee, Dollar value Cap)/ Max(APX Last Price,APX Price Floor)
+R=Min(Множитель долларовой стоимости \* Торговая комиссия, Лимит долларовой стоимости) / Max(Последняя цена APX, Нижний порог цены APX)
 
-* Dollar value multiplier: 0.70 this epoch
-* Trading Fee: Value of previous day’s V2 fee income converted into USD
-* Dollar value Cap: 15,000 based on system configuration
-* APX Last Price: Based on latest APX token price
-* APX Price Floor: 0.04 this epoch
+* Множитель долларовой стоимости: 0.70 в этой эпохе
+* Торговая комиссия: Стоимость дохода от комиссий V2 за предыдущий день, конвертированная в USD
+* Лимит долларовой стоимости: 15,000 согласно конфигурации системы
+* Последняя цена APX: Основана на последней цене токена APX
+* Нижний порог цены APX: 0.04 в этой эпохе
 
-Terms and Conditions
+Условия использования
 
-* After the end of each cycle, ApolloX may adjust the program rules according to users’ feedback and market conditions. Rewards will be released non-linearly.
-* During the activity, the platform will reduce the percentage of V2 trading fee income injected into the ALP pool from 50% to 20%. The remaining 30% will be used to repurchase APX.
-* Due to the difference in trading fees for each trading pair on V2, the rewards users receive may vary even though their effective trading volumes are the same.
-* The rewards to be distributed for each cycle will be stored in the following contract address: 0x6bE863e01E17A226c945e3629D0D9Cb6E52Ce90E
-* ApolloX reserves the right of final interpretation for this activity.
+* После окончания каждого цикла ApolloX может скорректировать правила программы в соответствии с отзывами пользователей и рыночными условиями. Вознаграждения будут выпускаться нелинейно.
+* В ходе активности платформа уменьшит долю дохода от торговых комиссий V2, направляемую в пул ALP, с 50% до 20%. Оставшиеся 30% будут использоваться для выкупа APX.
+* Из-за разницы в торговых комиссиях для каждой торговой пары на V2, вознаграждения пользователей могут различаться даже при одинаковых эффективных торговых объёмах.
+* Вознаграждения для каждого цикла будут храниться по следующему адресу контракта: 0x6bE863e01E17A226c945e3629D0D9Cb6E52Ce90E
+* ApolloX оставляет за собой право окончательного толкования данной активности.
 
-Risk Warning: Crypto futures trading carries a substantial risk. All trading activities are done at your discretion and at your own risk. The information here should not be regarded as financial or investment advice from ApolloX. ApolloX will not be liable for any loss that might arise from your use of ApolloX.
+Предупреждение о рисках: Торговля фьючерсами на криптовалюты несёт существенный риск. Все торговые операции осуществляются по твоему усмотрению и на твой страх и риск. Информация здесь не должна расцениваться как финансовый или инвестиционный совет от ApolloX. ApolloX не несёт ответственности за любые убытки, которые могут возникнуть в результате использования ApolloX.
 
-### Claiming Rewards
+### Получение вознаграждений
 
-As the trading reward program is hosted by our friends at ApolloX, please proceed with the following steps to claim your reward:\
+Поскольку программа торговых вознаграждений проводится нашими друзьями из ApolloX, выполни следующие шаги для получения вознаграждения:\
 \
-Step 1: Head to our [PancakeSwap Perpetuals Page](https://perp.pancakeswap.finance/en/futures/v2/)
+Шаг 1: Перейди на [страницу PancakeSwap Perpetuals](https://perp.pancakeswap.finance/en/futures/v2/)
 
-Step 2: Click the Trading Reward (V2) tab at the top of the page
+Шаг 2: Нажми на вкладку Trading Reward (V2) в верхней части страницы
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Trading%20Reward.png" alt=""><figcaption></figcaption></figure>
 
-Step 3: You'll be redirected to ApolloX rewards claim page to check your current reward status. Click "Claim" to claim your rewards during the activity period.
+Шаг 3: Ты будешь перенаправлен на страницу получения вознаграждений ApolloX для проверки текущего статуса вознаграждений. Нажми «Claim», чтобы получить вознаграждения в период активности.
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202023-06-29%20at%2010.26.11%20AM.png" alt=""><figcaption></figcaption></figure>

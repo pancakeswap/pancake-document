@@ -1,37 +1,37 @@
-# How to use TWAP
+# Как использовать TWAP
 
-## What is TWAP?
+## Что такое TWAP?
 
-TWAP (Time-weighted Average Price) is a common order type used in CeFi that breaks an order into smaller trade sizes and executes them at regular intervals. The main goal of a TWAP order is to reduce the order’s price impact. It can also be useful if a user wants to implement a dollar-cost averaging strategy (DCA) and buy a certain token on a consistent schedule (i.e. once a month).
+TWAP (Time-weighted Average Price, средневзвешенная по времени цена) — распространённый тип ордера в CeFi, который разбивает заявку на меньшие сделки и исполняет их через регулярные промежутки времени. Основная цель TWAP-ордера — снизить ценовой импакт заявки. Он также полезен, когда пользователь хочет применить стратегию усреднения стоимости (DCA) и регулярно покупать определённый токен (например, раз в месяц).
 
-Therefore, TWAP is best used when the order size is large compared to the available liquidity, or when a user anticipates a high price volatility period with no clear up or downward trend.
+Таким образом, TWAP лучше всего использовать, когда размер ордера велик по отношению к доступной ликвидности, или когда пользователь ожидает периода высокой волатильности без явного восходящего или нисходящего тренда.
 
-## How to set up a TWAP order?
+## Как настроить TWAP-ордер?
 
-1. Go to the Swap page and select the TWAP order option by clicking TWAP
-2. Select the “From” and “To” tokens and enter the amount you wish to trade.
-3. The UI enables both dTWAP-market orders, which execute all trades at the available market price, and dTWAP-limit orders, which only execute individual trades if they are within the price limit set by the user. \
-   In this example we chose to execute the TWAP orders at market price.
-4. Next, we specify the TWAP parameters. There are 3 main parameters that control the effectiveness of the dTWAP order:
-   1. Total trades: Allows the user to specify the number of individual trades that their order will be broken into. The UI slider starts with 1 trade and allows the user to increase the amount of individual trades, or allows the user to manually input the total trades in the input field directly.\
-      Users should note that there is a certain tradeoff when specifying this parameter: more trades means smaller individual trade size, which means smaller price impact. However, more trades also means more transactions and higher overall gas fees.&#x20;
-   2. Trade Interval: Sets the time gap between each individual trade. The UI starts with the minimum allowed (2 mins), which leaves the minimum amount of time for the taker bidding war and block settlement between each chunk. The user can set it to be any duration desired. A trade will never execute before this time elapses after the previous trade.\
-      Again users should be mindful when setting this parameter: longer intervals would allow arbitrageurs a longer window to close any price discrepancies on the affected pools and bring the reserves back to equilibrium (on par with spot price). However, it would take longer for the order to be filled would add uncertainty to the final fill price, especially in times of heightened volatility
-   3. Max Duration: The maximum time during which the total amount of all individual trades making up the full dTWAP order may be executed. After this deadline the trade expires, regardless of actual amounts swapped.\
-      Note that all chunks may not execute in limit orders, depending on whether the price stays within the set parameters. \
-      The default recommended duration is calculated by multiplying the number of intervals by the trade interval, and then doubling this amount in order to serve as a buffer to allow sufficient time for on-chain activity. (note that setting a duration that is shorter than the above default may result in a partially filled order).
+1. Перейди на страницу Обмена и выбери опцию TWAP-ордера, нажав TWAP
+2. Выбери токены «From» и «To» и введи сумму для торговли.
+3. Интерфейс позволяет размещать как dTWAP-рыночные ордера, исполняющие все сделки по доступной рыночной цене, так и dTWAP-лимитные ордера, исполняющие отдельные сделки только в рамках установленного пользователем ценового лимита. \
+   В этом примере мы выбрали исполнение TWAP-ордеров по рыночной цене.
+4. Далее задаём параметры TWAP. Существует 3 основных параметра, определяющих эффективность dTWAP-ордера:
+   1. Общее количество сделок: позволяет указать количество отдельных сделок, на которые разбивается ордер. Слайдер начинается с 1 сделки и позволяет увеличивать их количество, либо вводить значение вручную.\
+      Пользователям следует учитывать компромисс: больше сделок означает меньший размер каждой отдельной сделки и меньший ценовой импакт. Однако это также означает больше транзакций и более высокие общие комиссии за газ.&#x20;
+   2. Интервал сделки: задаёт временной промежуток между отдельными сделками. В интерфейсе установлен минимально допустимый интервал (2 минуты), оставляющий минимальное время для аукциона тейкеров и урегулирования блока между чанками. Пользователь может установить любую желаемую продолжительность. Сделка никогда не будет исполнена до истечения этого времени после предыдущей сделки.\
+      Пользователям следует помнить о компромиссе: более длинные интервалы дают арбитражникам больше времени для закрытия ценовых расхождений в затронутых пулах и восстановления резервов до равновесия (соответствие спотовой цене). Однако исполнение ордера займёт больше времени и добавит неопределённость к итоговой цене исполнения, особенно в периоды повышенной волатильности.
+   3. Максимальная продолжительность: максимальное время, в течение которого могут исполняться все отдельные сделки, составляющие полный dTWAP-ордер. По истечении этого срока сделка истекает, независимо от фактически обменянных сумм.\
+      Обрати внимание, что не все чанки могут исполниться в лимитных ордерах, в зависимости от того, остаётся ли цена в заданных параметрах. \
+      Рекомендуемая по умолчанию продолжительность рассчитывается путём умножения количества интервалов на интервал сделки с последующим удвоением для создания буфера, обеспечивающего достаточное время для ончейн-активности (обрати внимание, что установка продолжительности меньше рекомендованной по умолчанию может привести к частичному исполнению ордера).
 
-As can be seen, these parameters provide significant flexibility in customizing each order, taking into account factors like market conditions, current gas fees, etc.
+Как видно, эти параметры обеспечивают значительную гибкость в настройке каждого ордера с учётом рыночных условий, текущих комиссий за газ и других факторов.
 
-8. Press “Place order”. Double check your order details, accept the disclaimer and press “Confirm order”.
-9. Once the transaction is processed, you will be able to see your order’s status in the order history section, under “Open orders”.
-10. Open orders can be canceled at any time by expanding the order and clicking the “Cancel Order” button.
+8. Нажми «Place order». Проверь детали ордера, прими условия и нажми «Confirm order».
+9. После обработки транзакции ты сможешь видеть статус своего ордера в разделе истории ордеров под «Open orders».
+10. Открытые ордера можно отменить в любое время, развернув ордер и нажав кнопку «Cancel Order».
 
-Things to take into consideration
+Что следует учитывать
 
-* Orders are executed in smaller trades over a specified period of time and are subject to market conditions and other risks.
-* Your trade may be executed at a price that is significantly different from the current market price (although not worse than your limit price, if you set one), which could result in significant losses. If the available market price is worse than the limit price you have set, some of the trades of your order may not be executed, resulting in a partially filled order.
-* The trades are based on a decentralized protocol that utilizes off-chain takers which compete to fill orders. These takers are entitled to request a fee, which the protocol removes for the winning taker from the output tokens.&#x20;
-* Takers may take into account gas fees for your transactions when setting their fees, which may result in fluctuations in the fee amounts.
+* Ордера исполняются меньшими сделками в течение указанного периода времени и подвержены рыночным условиям и другим рискам.
+* Твоя сделка может быть исполнена по цене, существенно отличающейся от текущей рыночной (хотя не хуже твоей лимитной цены, если она установлена), что может привести к значительным убыткам. Если доступная рыночная цена хуже установленной тобой лимитной цены, часть сделок ордера может не исполниться, что приведёт к частичному исполнению ордера.
+* Сделки основаны на децентрализованном протоколе, использующем внецепочечных тейкеров, которые конкурируют за исполнение ордеров. Эти тейкеры вправе запросить комиссию, которую протокол удерживает для победившего тейкера из выходных токенов.&#x20;
+* При установке своих комиссий тейкеры могут учитывать стоимость газа для твоих транзакций, что может приводить к колебаниям сумм комиссий.
 
 <br>

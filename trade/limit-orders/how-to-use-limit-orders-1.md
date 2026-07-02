@@ -1,83 +1,83 @@
-# How to use Limit Orders
+# Как использовать лимитные ордера
 
-Fee-earning limit orders on PancakeSwap work differently from traditional limit orders. When a user places a limit order, they are effectively providing **one-sided liquidity** to a PancakeSwap Infinity pool.
+Лимитные ордера с начислением комиссий на PancakeSwap работают иначе, чем традиционные лимитные ордера. Когда пользователь размещает лимитный ордер, он фактически предоставляет **одностороннюю ликвидность** в пул PancakeSwap Infinity.
 
-As the market price moves, swaps in the pool can use the user’s liquidity. When this happens, the deposited tokens are fully converted into the output tokens, and the user receives:
+По мере движения рыночной цены свопы в пуле могут использовать ликвидность пользователя. Когда это происходит, депонированные токены полностью конвертируются в выходные токены, и пользователь получает:
 
-* The output tokens, and
-* The trading fees earned from swaps executed against their liquidity.
-
-***
-
-**Example: Selling BNB for USDT**
-
-* **Current price in BNB/USDT pool:** 600 USDT per BNB
-* **User’s target / limit price:** 700 USDT per BNB
-
-Process:
-
-1. The user sets a limit order to sell BNB at 700 USDT.
-2. Their BNB is deposited into the tick closest to price 700 USDT per BNB in the pool.
-3. When the external market price reaches 700 USDT, the pool price adjusts to match (due to arbitrage opportunities / better pricing).
-4. At that point, the user’s BNB is swapped into USDT.
-5. During this process, the user earns fees from each swap that consumes their liquidity.
-6. Once the liquidity is fully consumed, the converted USDT (plus fees) is automatically withdrawn and sent to the user’s wallet.
+* выходные токены, и
+* торговые комиссии, заработанные на свопах, исполненных против его ликвидности.
 
 ***
 
-### Step-by-step guide
+**Пример: продажа BNB за USDT**
 
-Choose a token pair (e.g., BNB/CAKE) and amount you would like to sell / buy
+* **Текущая цена в пуле BNB/USDT:** 600 USDT за BNB
+* **Целевая / лимитная цена пользователя:** 700 USDT за BNB
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%2011.07.07%E2%80%AFAM.png" alt="" width="375"><figcaption></figcaption></figure>
+Процесс:
 
-Set your target / limit price
+1. Пользователь устанавливает лимитный ордер на продажу BNB по 700 USDT.
+2. BNB депонируется в тик, ближайший к цене 700 USDT за BNB в пуле.
+3. Когда внешняя рыночная цена достигает 700 USDT, цена пула корректируется для соответствия (благодаря арбитражным возможностям / более выгодному ценообразованию).
+4. В этот момент BNB пользователя обменивается на USDT.
+5. В ходе этого процесса пользователь зарабатывает комиссии с каждого свопа, потребляющего его ликвидность.
+6. Как только ликвидность полностью потреблена, конвертированные USDT (плюс комиссии) автоматически выводятся и отправляются в кошелёк пользователя.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%2011.07.35%E2%80%AFAM.png" alt="" width="375"><figcaption></figcaption></figure>
+***
 
-Place the limit order and “Confirm”. Liquidity is placed on your behalf at the tick closest to limit price
+### Пошаговое руководство
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%2011.08.49%E2%80%AFAM.png" alt="" width="375"><figcaption></figcaption></figure>
+Выбери торговую пару (например, BNB/CAKE) и сумму, которую хочешь продать / купить
 
-Once the pool price hits your target, your order executes. Desired output tokens + fees are automatically withdrawn and sent to your wallet.
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%2011.07.07%20AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%201.01.47%E2%80%AFPM.png" alt="" width="370"><figcaption></figcaption></figure>
+Задай свою целевую / лимитную цену
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%2011.07.35%20AM.png" alt="" width="375"><figcaption></figcaption></figure>
+
+Разместите лимитный ордер и нажми «Confirm». Ликвидность будет размещена от твоего имени в тике, ближайшем к лимитной цене
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%2011.08.49%20AM.png" alt="" width="375"><figcaption></figcaption></figure>
+
+Как только цена пула достигнет твоей цели, ордер исполнится. Желаемые выходные токены и комиссии автоматически выводятся и отправляются в твой кошелёк.
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%201.01.47%20PM.png" alt="" width="370"><figcaption></figcaption></figure>
 
 
 
-### Order Status
+### Статус ордера
 
-You can view your order status by clicking here
+Ты можешь просмотреть статус ордера, нажав здесь
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%202.12.50%E2%80%AFPM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%202.12.50%20PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-**Your order can be in one of the following states:**
+**Твой ордер может находиться в одном из следующих состояний:**
 
-| Status           | Description                                                                              |
-| ---------------- | ---------------------------------------------------------------------------------------- |
-| Pending          | Waiting for price to reach your target                                                   |
-| Filled           | Order executed and funds sent to your wallet                                             |
-| Partially Filled | Only part of your order is executed. You’ll hold both tokens (e.g., part BNB, part USDT) |
-| Cancelled        | You cancelled the order. All your funds are returned to you                              |
+| Статус           | Описание                                                                                         |
+| ---------------- | ------------------------------------------------------------------------------------------------ |
+| Pending          | Ожидание достижения ценой твоей цели                                                             |
+| Filled           | Ордер исполнен, средства отправлены в кошелёк                                                    |
+| Partially Filled | Исполнена только часть ордера. Ты держишь оба токена (например, часть BNB, часть USDT)           |
+| Cancelled        | Ты отменил ордер. Все средства возвращены тебе                                                   |
 
-### FAQs
+### FAQ
 
-**Q: Do I need to pay fees to place a limit order?**
+**В: Нужно ли платить комиссию за размещение лимитного ордера?**
 
-A: No. Instead, you earn 0.1% in trading fees when your order executes.
+О: Нет. Вместо этого ты зарабатываешь 0,1% торговых комиссий при исполнении ордера.
 
-**Q: Can I place orders for any pair?**
+**В: Можно ли размещать ордера для любых пар?**
 
-A: At launch, only selected pairs are supported. More pairs will be added later.
+О: На момент запуска поддерживаются только выбранные пары. Позже будут добавлены новые пары.
 
-**Q: What’s the minimum order size?**
+**В: Каков минимальный размер ордера?**
 
-A: $50. This prevents tiny orders that could result in excess gas.&#x20;
+О: $50. Это предотвращает крошечные ордера, которые могут привести к избыточному расходу газа.&#x20;
 
-**Q: What happens if only part of my order is filled?**
+**В: Что происходит, если исполнена лишь часть ордера?**
 
-A: You’ll hold both tokens. You can cancel anytime and withdraw both tokens plus earned fees.
+О: Ты держишь оба токена. Можно отменить ордер в любой момент и вывести оба токена плюс заработанные комиссии.
 
-**Q: My order is filled but I haven't received funds yet in my wallet?**
+**В: Ордер исполнен, но средства ещё не поступили в кошелёк?**
 
-A: In very rare scenarios this could happen but your funds are always safe. Just use the "Withdraw" button in the order details UI to claim the funds manually.
+О: В крайне редких случаях такое может произойти, но твои средства всегда в безопасности. Просто воспользуйся кнопкой «Withdraw» в интерфейсе деталей ордера для ручного получения средств.
