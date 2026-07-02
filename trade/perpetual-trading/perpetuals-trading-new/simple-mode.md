@@ -1,58 +1,58 @@
 # Simple Mode
 
-Simple Mode is designed for traders who want to act fast. Set your size, pick your leverage, and tap UP or DOWN — that's it.
+Simple Mode создан для трейдеров, которым важна скорость. Задай размер, выбери кредитное плечо и нажми UP или DOWN — вот и всё.
 
-### **Go to the PCS Perps page**
+### **Перейди на страницу PCS Perps**
 
-Head to [pancakeswap.finance/perps](https://pancakeswap.finance/perps) or click Perps in the main PancakeSwap navigation bar.
+Открой [pancakeswap.finance/perps](https://pancakeswap.finance/perps) или нажми Perps в главной навигационной панели PancakeSwap.
 
-### **Connect your wallet**
+### **Подключи кошелёк**
 
-Click Connect Wallet in the top right corner. No account creation or KYC required — your wallet is your account.
+Нажми Connect Wallet в правом верхнем углу. Создание аккаунта и KYC не требуются — твой кошелёк и есть твой аккаунт.
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt="" width="507"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(7).png" alt="" width="507"><figcaption></figcaption></figure>
 
-### **Choose a trading pair**
+### **Выбери торговую пару**
 
-Click on the pair name at the top of the page to open the asset selector. A huge variety of token pairs are available.
+Нажми на название пары в верхней части страницы, чтобы открыть селектор активов. Доступно огромное количество токен-пар.
 
-<figure><img src="../../../.gitbook/assets/image (300).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(300).png" alt=""><figcaption></figcaption></figure>
 
-### **My Bet — Position Size**
+### **Моя ставка — размер позиции**
 
-Enter how much you want to put in, or tap the preset buttons — **25%**, **50%**, or **MAX** — to size your position as a portion of your available perp fund balance.
+Введи сумму, которую хочешь вложить, или нажми одну из предустановленных кнопок — **25%**, **50%** или **MAX** — чтобы задать размер позиции как долю от доступного баланса perp-фонда.
 
-<figure><img src="../../../.gitbook/assets/image (337).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(337).png" alt=""><figcaption></figcaption></figure>
 
-### **Leverage**
+### **Кредитное плечо**
 
-Use the slider or tap a preset — **50×**, **100×**, **150×**, or **200×** — to set your leverage. Your current multiplier is shown in large text above the slider.
+Используй слайдер или нажми на предустановленное значение — **50×**, **100×**, **150×** или **200×** — чтобы задать кредитное плечо. Текущий множитель отображается крупным текстом над слайдером.
 
-When leverage is high enough to carry meaningful liquidation risk, an **Amplified Risk** indicator appears as a reminder.
+Когда кредитное плечо достаточно высокое и несёт значительный риск ликвидации, появляется индикатор **Amplified Risk** в качестве напоминания.
 
-<figure><img src="../../../.gitbook/assets/image (319).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(319).png" alt=""><figcaption></figcaption></figure>
 
-### **One tap to open**
+### **Одно нажатие — и позиция открыта**
 
-Tap **UP** to go long, or **DOWN** to go short. Your position opens immediately at the best available market price.
+Нажми **UP**, чтобы открыть лонг, или **DOWN**, чтобы открыть шорт. Позиция немедленно открывается по лучшей доступной рыночной цене.
 
-<figure><img src="../../../.gitbook/assets/image (341).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(341).png" alt=""><figcaption></figcaption></figure>
 
-### **Tapping multiple times**
+### **Повторные нажатия**
 
-Simple Mode is designed to let you build or reduce your position with repeated taps — no need to manually adjust size each time.
+Simple Mode позволяет наращивать или уменьшать позицию повторными нажатиями — не нужно вручную корректировать размер каждый раз.
 
-* **Tap UP twice** — your position doubles. Each tap adds one unit to your existing long.
-* **Tap UP then DOWN** — the positions cancel out, returning you to flat.
+* **Нажать UP дважды** — позиция удваивается. Каждое нажатие добавляет одну единицу к существующему лонгу.
+* **Нажать UP, затем DOWN** — позиции компенсируют друг друга, возвращая тебя к нулю.
 
-Think of each tap as adding or subtracting one unit in a direction. It's a fun way to scale in or out of a trade.
+Думай о каждом нажатии как о прибавлении или вычитании одной единицы в направлении. Это удобный способ наращивать или сокращать сделку.
 
-### **Check your order status**
+### **Проверь статус ордера**
 
-Your order will appear under **Positions** while it waits to be filled.
+Твой ордер появится в разделе **Positions**, пока ожидает исполнения.
 
-<figure><img src="../../../.gitbook/assets/image (352).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(352).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-💡 Want to set limit orders, TP/SL, or manage positions in more detail? Switch to **Pro Mode** at any time — your open positions are not affected.
+💡 Хочешь устанавливать лимитные ордера, TP/SL или более детально управлять позициями? Переключись в **Pro Mode** в любой момент — открытые позиции это не затронет.

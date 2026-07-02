@@ -24,4 +24,4 @@ _Некоторые проекты, принимавшие участие ран
 5. После запуска
    * Мы остаёмся на связи и изучаем будущие возможности для сотрудничества
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (438).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28438%29.png" alt=""><figcaption></figcaption></figure></div>

@@ -4,7 +4,7 @@ description: Receive the same juicy CAKE rewards by farming on Aptos
 
 # Farming on Aptos
 
-<figure><img src="../../../.gitbook/assets/farming-on-aptos.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/farming-on-aptos.png" alt=""><figcaption></figcaption></figure>
 
 With our multichain deployment, PancakeSwap is now bringing the iconic yield farming experience to liquidity providers on Aptos. Yield Farms allow users to earn CAKE while supporting PancakeSwap by staking LP Tokens.
 

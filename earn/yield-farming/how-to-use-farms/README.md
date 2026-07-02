@@ -4,7 +4,7 @@ description: Find, Provide LP, Fram
 
 # How to Use Farms
 
-![](../../../.gitbook/assets/how-to-yield-farms-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-yield-farms-header.png)
 
 Yield Farming in Farms is a great way to earn CAKE rewards on PancakeSwap.
 
@@ -18,7 +18,7 @@ Check out this great [article about Impermanent Loss ](https://academy.binance.c
 
 ## Find the Pairs to Provide Liquidity
 
-<figure><img src="../../../.gitbook/assets/image (360).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28360%29.png" alt=""><figcaption></figcaption></figure>
 
 Now with Universal Farm Page, you can find liquidity pairs by tokens, check their fees, volume, APRs, across all the PancakeSwap supported networks, without the need of switching networks in the wallet.
 
@@ -26,7 +26,7 @@ Head to: [https://pancakeswap.finance/liquidity/pools](https://pancakeswap.finan
 
 #### Features Breakdown
 
-<figure><img src="../../../.gitbook/assets/image (361).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28361%29.png" alt=""><figcaption></figcaption></figure>
 
 1. All the liquidity pools/pairs that are trending, or have a PancakeSwap farm attached.
 2. All the liquidity positions you have.
@@ -40,7 +40,7 @@ Head to: [https://pancakeswap.finance/liquidity/pools](https://pancakeswap.finan
 
 ## Provide LP
 
-<figure><img src="../../../.gitbook/assets/image (362).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28362%29.png" alt=""><figcaption></figcaption></figure>
 
 Once you find a pair to provide liquidity, click to go to the detail page to check on more info like:
 
@@ -58,7 +58,7 @@ To create an LP, click "Add Liquidity +" and follow the instructions here:
 
 ## Stake Your Position to Earn
 
-<figure><img src="../../../.gitbook/assets/image (363).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28363%29.png" alt=""><figcaption></figcaption></figure>
 
 Once liquidity is added, they will appear in the upper right table. Or in the "My Position" tab.
 
@@ -67,7 +67,7 @@ Once liquidity is added, they will appear in the upper right table. Or in the "M
 
 ## Harvest Farming Rewards
 
-<figure><img src="../../../.gitbook/assets/image (364).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28364%29.png" alt=""><figcaption></figcaption></figure>
 
 In the new Universal Farm Page, locating all your farming positions has never been easier. Simply go to "My Positions" and click "Farms only" in the top right corner. All the farming positions will be filtered, regardless of which network you are selecting.
 
@@ -83,13 +83,13 @@ In V3, when staking in a farm, you can still add or remove liquidity without uns
 
 To do so, simply return to the "My Positions" page, and position you want to adjust.
 
-<figure><img src="../../../.gitbook/assets/image (365).png" alt="" width="280"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28365%29.png" alt="" width="280"><figcaption></figcaption></figure>
 
 Click on the position title with the token pair, and position ID to open up the position detail page.
 
 Simply use the “Add” or “Remove” button to adjust the liquidity in the staked position.
 
-<figure><img src="../../../.gitbook/assets/image (366).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28366%29.png" alt=""><figcaption></figcaption></figure>
 
 Please note that all the unclaimed CAKE rewards will be harvested and sent to your wallet while adjusting your position.
 
@@ -97,7 +97,7 @@ Please note that all the unclaimed CAKE rewards will be harvested and sent to yo
 
 You can unstake a position at any time.
 
-<figure><img src="../../../.gitbook/assets/image (367).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28367%29.png" alt=""><figcaption></figcaption></figure>
 
 To unstake, simply return to the "My Positions", locate the position, and click:
 
@@ -112,7 +112,7 @@ How often you harvest your rewards is up to you, but it does help to remember th
 
 You can see this fee in your wallet when confirming after clicking **Harvest**.
 
-![](<../../../.gitbook/assets/image (281).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28281%29.png)
 
 This shows the fee for harvesting as it appears in the MetaMask wallet. Different wallets will show the information a little differently. Consider leaving your rewards to grow for a while so you pay fees less often.
 

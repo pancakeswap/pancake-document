@@ -61,7 +61,7 @@ description: Руководство и загружаемые материалы
 
 После того как ты ознакомился со всем вышесказанным, скачай логотипы PancakeSwap и CAKE ниже.
 
-{% file src="../../.gitbook/assets/PancakeSwap Logos.zip" %}
+{% file src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/PancakeSwap%20Logos.zip" %}
 Скачай официальные логотипы PancakeSwap и CAKE.
 {% endfile %}
 

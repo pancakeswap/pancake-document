@@ -34,25 +34,25 @@ Please note that the quote system will provide full transparency of the exchange
 
 1. Click on the "Buy Crypto" button on the PancakeSwap platform.
 
-<figure><img src="../.gitbook/assets/Onramp1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Onramp1.png" alt=""><figcaption></figcaption></figure>
 
 2. Select your desired fiat currency and token pair from the pop-up menu.
 
-<figure><img src="../.gitbook/assets/Onramp 2M.png" alt="" width="285"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Onramp%202M.png" alt="" width="285"><figcaption></figcaption></figure>
 
 3. Click on "Get Quote"
 
-<figure><img src="../.gitbook/assets/Onramp 3M.png" alt="" width="294"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Onramp%203M.png" alt="" width="294"><figcaption></figcaption></figure>
 
 4. Select recommended quote.&#x20;
 
 <div>
 
-<figure><img src="../.gitbook/assets/Mercuryo Onramp 4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Mercuryo%20Onramp%204.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Moonpay Onramp 4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Moonpay%20Onramp%204.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -60,11 +60,11 @@ Please note that the quote system will provide full transparency of the exchange
 
 <div>
 
-<figure><img src="../.gitbook/assets/Onramp5m.png" alt="" width="303"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Onramp5m.png" alt="" width="303"><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Moonpay Onramp 5.png" alt="" width="306"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Moonpay%20Onramp%205.png" alt="" width="306"><figcaption></figcaption></figure>
 
 </div>
 

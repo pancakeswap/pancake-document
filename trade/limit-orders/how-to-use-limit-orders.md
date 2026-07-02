@@ -13,7 +13,7 @@ A limit order is a tool to enable users to buy or sell assets at a specified pri
 1. Go to the Swap page and select the limit order option by clicking “LIMIT”, or, use this link: [https://pancakeswap.finance/swap/limit](https://pancakeswap.finance/swap/limit)
 2. Select the “From” and “To” tokens you wish to trade. In this example we chose USDC and ETH respectively, meaning we want to buy ETH with USDC.
 
-![](<../../.gitbook/assets/image (4) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%284%29%20%281%29.png)
 
 1. Enter the amount you wish to trade. Notice the limit price will show the current market price which will then estimate the output amount of destination tokens (ETH)
 2. Set the desired limit price. Trades will ONLY be executed when the available market price is better than or equal to the limit price. The destination token output amount will update accordingly.
@@ -26,9 +26,9 @@ Important note: As the fees are paid from the output token amount, the limit pri
 
 3.  Press “Place order”. Double check your order details, accept the disclaimer and press “Confirm order”.
 
-    <figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%283%29%20%281%29%20%281%29.png" alt="" width="375"><figcaption></figcaption></figure>
 4. Once the transaction is through, you will be able to see your order in the order history section, under “Open orders”. \
-   ![](<../../.gitbook/assets/image (2) (1) (1) (1).png>)
+   ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%282%29%20%281%29%20%281%29%20%281%29.png)
 5. Open orders can be canceled at any time by expanding the order and clicking the “Cancel Order” button.
 
 Things to take into consideration:

@@ -4,20 +4,20 @@ hidden: true
 
 # Smart Router (V2)
 
-<figure><img src="../../../.gitbook/assets/Smart Router.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Smart%20Router.png" alt=""><figcaption></figcaption></figure>
 
-PancakeSwap Smart Router is a routing algorithm that links the AMM and stableswap (BNB Chain), and the AMM and market makers (Ethereum), to provide better liquidity and pricing. It uses a smart order routing algorithm that executes trades across multiple pools to find the best price for traders. For more information on StableSwap [click here](/broken/pages/nNPogTZMxocdyFIBYbkE) and for the Market Maker integration [click here](../market-maker-integration.md).
+Smart Router PancakeSwap — это алгоритм маршрутизации, связывающий AMM и StableSwap (BNB Chain), а также AMM и маркет-мейкеров (Ethereum), для обеспечения лучшей ликвидности и ценообразования. Он использует алгоритм умной маршрутизации заявок, исполняя сделки через несколько пулов для поиска лучшей цены для трейдеров. Подробнее о StableSwap [нажми здесь](/broken/pages/nNPogTZMxocdyFIBYbkE), а об интеграции маркет-мейкеров — [здесь](../market-maker-integration.md).
 
-The Kitchen will gradually roll out StableSwap pairs to further test and improve the product.
+Kitchen постепенно будет добавлять пары StableSwap для дальнейшего тестирования и улучшения продукта.
 
-## Why should I use the Smart Router for my AMM swaps?&#x20;
+## Зачем использовать Smart Router для обменов через AMM?&#x20;
 
-* Swap your stablecoins or other pairs with similar asset prices more efficiently with the same trade steps.
-* Swap against market makers, who may provide better execution on trades than the normal PancakeSwap AMM.
-* With the StableSwap function, the trading slippage is lower than normal AMM.
-* The StableSwap trading fees are lower compared to the normal AMM.
+* Обменивай стейблкоины или другие пары с похожими ценами более эффективно при тех же торговых шагах.
+* Торгуй с маркет-мейкерами, которые могут предложить более выгодное исполнение сделок, чем обычный AMM PancakeSwap.
+* Благодаря функции StableSwap проскальзывание при торговле ниже, чем в обычном AMM.
+* Торговые комиссии StableSwap ниже по сравнению с обычным AMM.
 
-## Still Cooking&#x20;
+## В разработке&#x20;
 
-* Better UI on output.
-* Split routes for more efficient trades. Eg. Router sends 50% of the pair to a different route to save fees depending on the trade size and liquidity.&#x20;
+* Улучшенный UI для отображения результатов.
+* Разделённые маршруты для более эффективных сделок. Например, роутер отправляет 50% пары по другому маршруту для экономии на комиссиях в зависимости от размера сделки и ликвидности.&#x20;

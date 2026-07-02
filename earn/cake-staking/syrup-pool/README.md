@@ -1,6 +1,6 @@
 # 🍯 Syrup Pools - Stake CAKE
 
-![](../../../.gitbook/assets/syrup-poos-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/syrup-poos-header.png)
 
 ### **What are Syrup Pools?**
 

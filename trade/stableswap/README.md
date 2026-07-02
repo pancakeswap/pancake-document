@@ -1,6 +1,6 @@
 # 🏦 Stableswap
 
-<figure><img src="../../.gitbook/assets/en-stableswap.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/en-stableswap.png" alt=""><figcaption></figcaption></figure>
 
 StableSwap on PancakeSwap is a feature to trade stable pairs with a lower slippage based on an invariant curve slippage function. It is designed to swap specific assets that are priced closely – such as USD stablecoins (e.g. HAY, BUSD and USDT) or liquid staking tokens (e.g. stkBNB and BNBx).
 

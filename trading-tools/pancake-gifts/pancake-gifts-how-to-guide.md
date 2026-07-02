@@ -17,7 +17,7 @@ This guide walks you through:
 
 Go to the **Gift tab** inside the PancakeSwap Wallet UI.
 
-<figure><img src="../../.gitbook/assets/image (418).png" alt="" width="306"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28418%29.png" alt="" width="306"><figcaption></figcaption></figure>
 
 #### 2. Select Tokens and Amounts
 
@@ -31,7 +31,7 @@ This setup lets you:
 * Send usable tokens to the recipient
 *   Cover their gas so they can transact immediately
 
-    <figure><img src="../../.gitbook/assets/image (419).png" alt="" width="311"><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28419%29.png" alt="" width="311"><figcaption></figcaption></figure>
 
 #### 3. Choose Gift Type
 
@@ -42,9 +42,9 @@ Select one of the following:
 
 > 💡 Each gift can only be claimed once, and only supports one delivery format (link or QR).
 
-<figure><img src="../../.gitbook/assets/image (420).png" alt="" width="316"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28420%29.png" alt="" width="316"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (421).png" alt="" width="311"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28421%29.png" alt="" width="311"><figcaption></figcaption></figure>
 
 #### 4. Review Summary & Pay
 
@@ -62,7 +62,7 @@ Once confirmed:
 &#x20;If you close the popup without saving, the gift code cannot be retrieved later.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (422).png" alt="" width="273"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28422%29.png" alt="" width="273"><figcaption></figcaption></figure>
 
 ***
 
@@ -92,7 +92,7 @@ Shareable Link
 
 QR Code
 
-<figure><img src="../../.gitbook/assets/image (423).png" alt="" width="320"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28423%29.png" alt="" width="320"><figcaption></figcaption></figure>
 
 ***
 
@@ -107,11 +107,11 @@ When the recipient:
 
 The app will autofill the gift code. If eligible and unclaimed, the gift claim UI will load.
 
-<figure><img src="../../.gitbook/assets/image (424).png" alt="" width="341"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28424%29.png" alt="" width="341"><figcaption></figcaption></figure>
 
 If not, an error message will show (e.g. expired or already claimed).
 
-<figure><img src="../../.gitbook/assets/image (425).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28425%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ***
 
@@ -124,11 +124,11 @@ Once approved:
 * The BEP-20 tokens (and gas token, if included) are deposited into their wallet
 *   The gift is marked as **claimed**
 
-    <figure><img src="../../.gitbook/assets/image (426).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28426%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-    <figure><img src="../../.gitbook/assets/image (427).png" alt="" width="244"><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28427%29.png" alt="" width="244"><figcaption></figcaption></figure>
 
-    <figure><img src="../../.gitbook/assets/image (428).png" alt="" width="334"><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28428%29.png" alt="" width="334"><figcaption></figcaption></figure>
 
 ***
 
@@ -143,11 +143,11 @@ To cancel:
 
 1. Go to the **Gift History** tab
 
-<figure><img src="../../.gitbook/assets/image (429).png" alt="" width="308"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28429%29.png" alt="" width="308"><figcaption></figcaption></figure>
 
 2. Find the gift
 
-<figure><img src="../../.gitbook/assets/image (431).png" alt="" width="299"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28431%29.png" alt="" width="299"><figcaption></figcaption></figure>
 
 
 
@@ -157,7 +157,7 @@ The tokens will be returned to your wallet (minus the gas sponsorship fee).
 
 > ⚠️ Cancelled gifts cannot be reactivated or reused.
 
-<figure><img src="../../.gitbook/assets/Group 1410078707.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Group%201410078707.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 

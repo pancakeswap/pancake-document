@@ -65,4 +65,4 @@ The BTC and MADBTCUSD price feed can be found here:
 
 To cross-verify the BTC & MADBTC historical prices, we've provided a backtest graph below.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/photo_2023-10-26_19-24-40.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/photo_2023-10-26_19-24-40.jpg" alt=""><figcaption></figcaption></figure>

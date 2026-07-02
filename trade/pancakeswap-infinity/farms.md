@@ -1,56 +1,56 @@
-# Farms
+# Yield Farming
 
-PancakeSwap Infinity farming is a simple, gas-efficient way for users to earn liquidity rewards without needing to stake their LP tokens. Once liquidity is added to an eligible pool, rewards begin accruing automatically.
+Yield Farming в PancakeSwap Infinity — это простой и газоэффективный способ для пользователей получать вознаграждения за ликвидность без необходимости стейкать LP-токены. После добавления ликвидности в подходящий пул вознаграждения начинают начисляться автоматически.
 
-#### ⚙️ How It Works
+#### ⚙️ Как это работает
 
-Here’s a quick breakdown of how the system tracks and distributes rewards:<br>
+Краткое описание того, как система отслеживает и распределяет вознаграждения:<br>
 
-**✅ No Staking Required**
+**✅ Стейкинг не требуется**
 
-* Just hold your LP position in your wallet.
-* No need to lock your assets or interact with additional smart contracts.
-* You start earning rewards automatically when you add liquidity.
+* Просто держи позицию LP в своём кошельке.
+* Нет необходимости блокировать активы или взаимодействовать с дополнительными смарт-контрактами.
+* Вознаграждения начинают начисляться автоматически после добавления ликвидности.
 
-#### 📈 Rewards Distribution
+#### 📈 Распределение вознаграждений
 
-* Only in-range positions (those providing active liquidity) receive rewards.
-* Rewards are proportional to the fees earned by your position during each period, called an epoch.
+* Вознаграждения получают только позиции «в диапазоне» (те, которые обеспечивают активную ликвидность).
+* Вознаграждения пропорциональны комиссиям, заработанным твоей позицией в течение каждого периода, называемого эпохой.
 
-#### ⏳ What’s an Epoch?
+#### ⏳ Что такое эпоха?
 
-* An epoch is a fixed time window — currently set to 8 hours.
-* Rewards are calculated and distributed after each epoch.
-* Epochs are currently scheduled at 00:00, 08:00, and 16:00 UTC.
+* Эпоха — это фиксированный временной интервал, в настоящее время установленный на 8 часов.
+* Вознаграждения рассчитываются и распределяются после каждой эпохи.
+* Эпохи в настоящее время запланированы на 00:00, 08:00 и 16:00 UTC.
 
 ***
 
-#### 🔄 Farming & Claim Process
+#### 🔄 Процесс Yield Farming и получения вознаграждений
 
-1. **Tracking Positions:** The backend system monitors your LP positions across all farms.
-2. **Reward Calculation:** At the end of every epoch,
-   1. The system calculates your rewards based on your liquidity and the fees generated.
-   2. It processes the rewards into a Merkle tree and submits a Merkle root to a smart contract.
-3. **Dispute Period:**
-   1. After the Merkle root is published, the 1-hour dispute period begins.
-   2. During the dispute period:
-      1. The newly calculated rewards cannot be claimed.
-      2. Rewards from previous epochs remain available to claim.
-      3. Automated and community-operated verification tools check the accuracy of the published data. If discrepancies are detected, a dispute may be raised to prevent incorrect distributions.
-4. **Claiming Rewards:**
-   1. Once the dispute period ends, you can claim your rewards for the latest epoch.
-   2. All pending rewards across all farms can be claimed in a single, gas-efficient transaction.
-5. **Unclaimed Rewards Roll Over:**
-   1. Any unclaimed rewards roll over to subsequent epochs. Each update incorporates previous rewards, ensuring no earnings are lost or expired.
+1. **Отслеживание позиций:** Серверная система отслеживает твои LP-позиции во всех фермах.
+2. **Расчёт вознаграждений:** По окончании каждой эпохи:
+   1. Система рассчитывает твои вознаграждения на основе твоей ликвидности и сгенерированных комиссий.
+   2. Она обрабатывает вознаграждения в дерево Меркла и отправляет корень Меркла в смарт-контракт.
+3. **Период оспаривания:**
+   1. После публикации корня Меркла начинается 1-часовой период оспаривания.
+   2. В течение периода оспаривания:
+      1. Вновь рассчитанные вознаграждения нельзя получить.
+      2. Вознаграждения из предыдущих эпох остаются доступными для получения.
+      3. Автоматизированные и управляемые сообществом инструменты верификации проверяют точность опубликованных данных. При обнаружении расхождений может быть инициировано оспаривание для предотвращения некорректных выплат.
+4. **Получение вознаграждений:**
+   1. После окончания периода оспаривания ты можешь получить вознаграждения за последнюю эпоху.
+   2. Все ожидающие вознаграждения по всем фермам можно получить в одной газоэффективной транзакции.
+5. **Невостребованные вознаграждения переходят на следующий период:**
+   1. Любые невостребованные вознаграждения переносятся на последующие эпохи. Каждое обновление включает предыдущие вознаграждения, гарантируя, что ни один заработок не будет потерян или истечёт.
 
 {% hint style="info" %}
-Tighter liquidity ranges generally lead to higher earnings but increase the likelihood of a position moving out of range and becoming ineligible for rewards.
+Более узкие диапазоны ликвидности, как правило, приводят к более высоким заработкам, но увеличивают вероятность выхода позиции из диапазона и потери права на вознаграждения.
 {% endhint %}
 
-#### 🌱 Summary
+#### 🌱 Краткое резюме
 
-✅ No staking\
-✅ Gas-efficient claiming\
-✅ Regular reward updates\
-✅ Fair and transparent dispute process\
-✅ Rewards accumulate until you’re ready to claim
+✅ Стейкинг не требуется\
+✅ Газоэффективное получение вознаграждений\
+✅ Регулярные обновления вознаграждений\
+✅ Честный и прозрачный процесс оспаривания\
+✅ Вознаграждения накапливаются до тех пор, пока ты не будешь готов их получить

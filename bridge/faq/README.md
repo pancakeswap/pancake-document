@@ -1,6 +1,6 @@
 # ❓ Bridging FAQ
 
-<figure><img src="../../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28144%29.png" alt=""><figcaption></figcaption></figure>
 
 ## Before Bridging
 
@@ -17,7 +17,7 @@
     Try entering the amount manually instead of using the “MAX” button, and remove decimals from the amount if necessary.
 4.  **Why does my bridging quote show “Insufficient X to cover native fee”**
 
-    ![](<../../.gitbook/assets/image (9) (3).png>)
+    ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%289%29%20%283%29.png)
 
     Bridging requires gas fees paid in the native token of the source chain, for example:
 

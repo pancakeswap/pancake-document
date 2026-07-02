@@ -1,36 +1,36 @@
-# FAQs
+# FAQ
 
-1. **How is Infinity different from PancakeSwap V3?**\
-   Infinity adds new features like programmable hooks, more [pool types](https://docs.pancakeswap.finance/trade/pancakeswap-infinity/pool-types) (like LBAMM and CLAMM), and gas savings. However, the core swap and liquidity provision mechanics are broadly similar to v3 except some minor differences in LBAMM pools for liquidity provisioning.\
+1. **Чем Infinity отличается от PancakeSwap V3?**\
+   Infinity добавляет новые функции: программируемые хуки, больше [типов пулов](https://docs.pancakeswap.finance/trade/pancakeswap-infinity/pool-types) (например, LBAMM и CLAMM) и экономию газа. При этом основная механика обмена и предоставления ликвидности в целом аналогична v3, за исключением незначительных различий в пулах LBAMM при предоставлении ликвидности.\
    <br>
-2.  **What’s the difference between LBAMM and CLAMM?**
+2.  **В чём разница между LBAMM и CLAMM?**
 
-    1. **LBAMM (Liquidity Book AMM):** Uses liquidity bins, each holding liquidity at different price levels. LPs can provide liquidity across bins, swaps are executed at a single price level within a bin.
-    2. **CLAMM (Concentrated Liquidity AMM):** Allows users to provide liquidity within custom price ranges like in PancakeSwap V3.
+    1. **LBAMM (Liquidity Book AMM):** Использует бины ликвидности, каждый из которых содержит ликвидность на разных ценовых уровнях. Поставщики ликвидности могут распределять ликвидность по бинам, а обмены исполняются на едином ценовом уровне внутри бина.
+    2. **CLAMM (Concentrated Liquidity AMM):** Позволяет пользователям предоставлять ликвидность в пользовательских ценовых диапазонах, как в PancakeSwap V3.
 
     \
-    For more details, visit [here](https://docs.pancakeswap.finance/trade/pancakeswap-infinity/pool-types). \
+    Подробнее смотри [здесь](https://docs.pancakeswap.finance/trade/pancakeswap-infinity/pool-types). \
     <br>
-3. **How do I claim my farm rewards, and why is it limited to every 8 hours?**\
-   You can claim farm rewards from your liquidity positions by clicking on "Harvest" button. Infinity allows for batch claiming across all active farm positions, saving gas cost. Rewards are computed and processed every 8 hours to optimise for gas costs and compute. \
+3. **Как получить вознаграждения за Yield Farming и почему это ограничено каждые 8 часов?**\
+   Ты можешь получить вознаграждения за Yield Farming из своих позиций ликвидности, нажав кнопку «Harvest». Infinity позволяет выполнять пакетное получение вознаграждений по всем активным позициям фарминга, экономя газ. Вознаграждения рассчитываются и обрабатываются каждые 8 часов для оптимизации затрат на газ и вычисления. \
    \
-   For more details on farming mechanism, visit [here](https://docs.pancakeswap.finance/trade/pancakeswap-infinity/farms). \
+   Подробнее о механизме Yield Farming смотри [здесь](https://docs.pancakeswap.finance/trade/pancakeswap-infinity/farms). \
    <br>
-4.  **How do the Infinity hooks work?**\
-    Hooks are customizable smart contract extensions that add extra functionality to a pool. They can trigger additional actions during swaps or liquidity events — for example, adjusting fees, offering discounts, or applying other logic.<br>
+4.  **Как работают хуки Infinity?**\
+    Хуки — это настраиваемые расширения смарт-контрактов, добавляющие дополнительные функции в пул. Они могут запускать дополнительные действия во время обменов или событий с ликвидностью — например, регулировать комиссии, предоставлять скидки или применять другую логику.<br>
 
-    Hooks are attached to a pool when it’s created. In most cases, **users don’t need to take any extra steps**. As long as you’re swapping or providing liquidity as usual, you’ll automatically benefit from the hook’s logic if it applies to that pool.<br>
+    Хуки прикрепляются к пулу при его создании. В большинстве случаев **пользователям не нужно предпринимать никаких дополнительных действий**. Пока ты совершаешь обмены или предоставляешь ликвидность в обычном режиме, логика хука применяется автоматически, если он относится к данному пулу.<br>
 
-    👉 **You can view the active hooks and their details on each pool’s page under the "Pool Features" section.**\
+    👉 **Активные хуки и их детали можно просмотреть на странице каждого пула в разделе «Pool Features».**\
     <br>
-5.  **Why didn’t I receive any fees when withdrawing my position from an LBAMM pool?**\
-    In LBAMM (Liquidity Book AMM) pools, fees are automatically added to your active liquidity bins. This means:
+5.  **Почему при выводе позиции из пула LBAMM я не получил никаких комиссий?**\
+    В пулах LBAMM (Liquidity Book AMM) комиссии автоматически добавляются к твоим активным бинам ликвидности. Это означает:
 
-    1. When you withdraw your position, your earned fees are included in the total token amounts you’re withdrawing.
-    2. Unlike traditional AMMs, there’s no separate “fees to collect” balance — it’s all bundled into your position’s value.
+    1. При выводе позиции заработанные комиссии включены в общее количество токенов, которые ты получаешь.
+    2. В отличие от традиционных AMM, здесь нет отдельного баланса «комиссий к получению» — всё включено в стоимость твоей позиции.
 
     \
-    If you didn’t notice additional tokens upon withdrawal, it could be because:
+    Если ты не заметил дополнительных токенов при выводе, это может быть связано с тем, что:
 
-    1. Your position may have incurred more impermanent loss than the fees collected due to price moves during your position’s duration.
-    2. Your liquidity wasn’t in active bins where trades occurred.
+    1. Твоя позиция могла понести больше непостоянных потерь, чем было собрано комиссий, из-за движения цены в период нахождения позиции.
+    2. Твоя ликвидность не находилась в активных бинах, через которые проходили сделки.

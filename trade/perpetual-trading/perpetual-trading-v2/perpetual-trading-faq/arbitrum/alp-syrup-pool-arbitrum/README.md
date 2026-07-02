@@ -10,13 +10,13 @@ ALP is a token that powers liquidity on PancakeSwap Perpertuals V2. Users mint/b
 2. After connecting your wallet, click **Buy ALP**. You can use any ALP pool asset to buy ALP.
 3. After confirming the information, click **Buy ALP** to complete the transaction.
 
-<figure><img src="../../../../../../.gitbook/assets/Buy ALP Module.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Buy%20ALP%20Module.png" alt=""><figcaption></figcaption></figure>
 
 **Staking ALP (Arbitrum)**
 
 1. Click **Stake Now** on the Pancake ALP Dashboard Page, or click [here](https://pancakeswap.finance/pools?chain=arb)
 
-<figure><img src="../../../../../../.gitbook/assets/png (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/png%20%284%29.png" alt=""><figcaption></figcaption></figure>
 
 2. Select the CAKE-ALP syrup pool
 3. **Enable** ALP and click **Stake**

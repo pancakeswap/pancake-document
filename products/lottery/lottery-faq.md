@@ -24,7 +24,7 @@ Each full lottery session will run for 12 hours.
 
 The bunnies at the bottom of the page.
 
-![](<../../.gitbook/assets/Screenshot 2020-10-22 at 6.02.10 PM.png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202020-10-22%20at%206.02.10%20PM.png)
 
 ## Are all ticket numbers unique?
 

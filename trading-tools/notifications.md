@@ -20,17 +20,17 @@ Web3 Notifications represent a leap forward in interacting with platforms for th
 
 1. Activate with Ease: Visit our[ homepage](https://pancakeswap.finance/). Click the settings icon at the top left of the PancakeSwap menu and select "Allow Notifications".
 
-<figure><img src="../.gitbook/assets/web-git-feat-web3-notifications-soft-launch.pancake.run__chain=bsc (1).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/web-git-feat-web3-notifications-soft-launch.pancake.run__chain%3Dbsc%20%281%29.png" alt="" width="362"><figcaption></figcaption></figure>
 
 2. Connect Wallet: Click the Bell icon on the top right and sign a message in your wallet to authorize notifications.
 
-<figure><img src="../.gitbook/assets/web-git-feat-web3-notifications-soft-launch.pancake.run__chain=bsc (6).png" alt="" width="433"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/web-git-feat-web3-notifications-soft-launch.pancake.run__chain%3Dbsc%20%286%29.png" alt="" width="433"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/web-git-feat-web3-notifications-soft-launch.pancake.run__chain=bsc (4).png" alt="" width="293"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/web-git-feat-web3-notifications-soft-launch.pancake.run__chain%3Dbsc%20%284%29.png" alt="" width="293"><figcaption></figcaption></figure>
 
 3. Customize Your Feed: Tailor your notification settings by selecting the drop-down on the left to match your interests and needs.
 
-<figure><img src="../.gitbook/assets/web-git-feat-web3-notifications-soft-launch.pancake.run__chain=bsc (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/web-git-feat-web3-notifications-soft-launch.pancake.run__chain%3Dbsc%20%285%29.png" alt=""><figcaption></figcaption></figure>
 
 4. Stay Informed: Access all your notifications conveniently from the dropdown menu by clicking the bell icon.
 

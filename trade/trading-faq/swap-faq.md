@@ -193,7 +193,7 @@ While Chefs are working hard on a solution to resolve this issue, here is a step
 
 #### Locate the pool address and its BscScan page
 
-<div align="left"><figure><img src="../../.gitbook/assets/cannot add v2 liquidity-error pump.jpg" alt="" width="280"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/cannot%20add%20v2%20liquidity-error%20pump.jpg" alt="" width="280"><figcaption></figcaption></figure></div>
 
 If your pair is affected, you will see the link to the BscScan page for the trading pair/pool in the error prompt.
 
@@ -201,7 +201,7 @@ Alternatively, you can head to Factory V2 ([Bsc](https://bscscan.com/address/0xc
 
 #### Check which token has been deposited and transfer the other token into the pair manually
 
-![](<../../.gitbook/assets/image (335).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28335%29.png)
 
 From the token balance field on BscScan, you can check which token has been deposited into the pool. Usually, it should be the paired token. (Like WBNB, USDT, etc…)
 

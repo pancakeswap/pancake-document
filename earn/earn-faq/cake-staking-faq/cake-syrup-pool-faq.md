@@ -78,7 +78,7 @@ When your fixed-term staking period ends, and your CAKE unlocks, you have 7 days
   or
 * Convert your staked CAKE to flexible staking (no 72-hour withdrawal fee).
 
-![](<../../../.gitbook/assets/Locked - lock ended - before after burning.png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Locked%20-%20lock%20ended%20-%20before%20after%20burning.png)
 
 During these 7 days, you will still earn CAKE.
 
@@ -98,4 +98,4 @@ Here is an example:
 >
 > Start a new fixed-term staking period or convert to flexible staking, and don't be like John.
 
-![](<../../../.gitbook/assets/Locked - lock ended - after burning started.png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Locked%20-%20lock%20ended%20-%20after%20burning%20started.png)

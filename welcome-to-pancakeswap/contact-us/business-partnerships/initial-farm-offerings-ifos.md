@@ -2,7 +2,7 @@
 
 Для получения дополнительной информации о наших размещениях токенов на launchpad ("[Initial Farm Offering, или IFO"](https://pancakeswap.finance/ifo)), ознакомься с этим PDF
 
-{% file src="../../../.gitbook/assets/PancakeSwap IFO One-Pager.pdf" %}
+{% file src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/PancakeSwap%20IFO%20One-Pager.pdf" %}
 
 #### Пример процесса IFO
 
@@ -28,4 +28,4 @@
 
 На каждом этапе процесса команда готова помочь — мы понимаем, что для основателей и их команд TGE чрезвычайно важен, и мы не оставляем ничего на волю случая.
 
-<figure><img src="../../../.gitbook/assets/image (1) (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29%20%284%29%20%281%29.png" alt=""><figcaption></figcaption></figure>

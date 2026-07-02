@@ -6,11 +6,11 @@ To place an order in Dumb Mode on PancakeSwap, follow these steps:
 
 1. Select a Market: Go to [**Pancakeswap Perpertuals**](https://perp.pancakeswap.finance/en/futures/v2/BTCUSD?theme=light\&chain=bsc) on BSC. Choose from the available markets like BTCUSD, ETHUSD, etc.
 
-<figure><img src="../../../../.gitbook/assets/Module_Order.png" alt="" width="338"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Module_Order.png" alt="" width="338"><figcaption></figcaption></figure>
 
 2. Click on **Dumb (Beta) Icon.** The position interface will change to Dumb mode.
 
-<figure><img src="../../../../.gitbook/assets/Module_Order (1).png" alt="" width="338"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Module_Order%20%281%29.png" alt="" width="338"><figcaption></figcaption></figure>
 
 2. Select Position: Choose to long or short the underlying asset\*
    1. For long positions: If the expiry price is greater than the entry price, user will win the trade and make profit.&#x20;
@@ -19,22 +19,22 @@ To place an order in Dumb Mode on PancakeSwap, follow these steps:
    4. Refer to notes for more details on position
 3.  Set Margin and Amount: Select your margin asset (USDC, USDT, CAKE, etc.) and specify the amount for collateral.
 
-    <figure><img src="../../../../.gitbook/assets/Frame 48097008.jpg" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Frame%2048097008.jpg" alt=""><figcaption></figcaption></figure>
 4. Choose Duration: Decide on the expiration of your trade - 60s, 5m, or 10m.
 
-<figure><img src="../../../../.gitbook/assets/Info.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Info.png" alt=""><figcaption></figcaption></figure>
 
 5. Place Order: Review the ROI, confirm details and place your trade by clicking **Open Position**\*
 
-<figure><img src="../../../../.gitbook/assets/Info.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Info.jpg" alt=""><figcaption></figcaption></figure>
 
 5. Monitor Trade: Once the trade is placed, monitor its progress until completion via the “Position” tab. **Users cannot close trades before expiration**
 
-<figure><img src="../../../../.gitbook/assets/Module_Bottom.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Module_Bottom.png" alt=""><figcaption></figcaption></figure>
 
 7. Settlement: Upon the trade's conclusion, if successful, your ROI will be credited minus the 6% fee. If the trade is not successful, the loss will be 100%.
 
-<figure><img src="../../../../.gitbook/assets/Module_Bottom (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Module_Bottom%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 ### Extra Note on Position
 

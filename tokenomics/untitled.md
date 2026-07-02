@@ -2,7 +2,7 @@
 
 \*\*\*\*
 
-![](../.gitbook/assets/group-501.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/group-501.png)
 
 \*\*\*\*
 

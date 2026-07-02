@@ -10,7 +10,7 @@ It allows players to see how they rank against others based on different metrics
 
 1.  **Access the Leaderboard** directly from the Prediction page.
 
-    <figure><img src="../../.gitbook/assets/image (454).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28454%29.png" alt=""><figcaption></figcaption></figure>
 2. **Filter by Token**
    * Choose the market (BNB, BTC, ETH) you want to view top players for.
 3. **Sort by Ranking Criteria**
@@ -22,8 +22,8 @@ It allows players to see how they rank against others based on different metrics
 
     * Enter a wallet address to display its scorecard, even if it does not meet the 10-round threshold.
 
-    <figure><img src="../../.gitbook/assets/image (455).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28455%29.png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../../.gitbook/assets/image (456).png" alt="" width="384"><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28456%29.png" alt="" width="384"><figcaption></figcaption></figure>
 
 ***

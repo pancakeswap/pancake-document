@@ -4,7 +4,7 @@ description: Bridge CAKE between EVM chains and Aptos
 
 # How to Bridge - EVM <> Aptos
 
-<figure><img src="../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28113%29.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 The following guide uses BNB Chain as an example of an EVM chain. The same process can be applied to Ethereum.
@@ -20,27 +20,27 @@ Then open the [PancakeSwap CAKE Bridge](https://bridge.pancakeswap.finance/)
 
 Click "Connect" and choose the wallet you prefer under the "EVM" section. Then confirm and approve in your wallet popup.
 
-![](../../.gitbook/assets/bridging-wallet-connect-modal.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-wallet-connect-modal.png)
 
 3 - Then, we need to connect our Aptos wallet.
 
 In the wallet connect modal, choose the wallet you prefer under the "Aptos" section. Then confirm and approve in your wallet popup.
 
-![](../../.gitbook/assets/bridging-default-state.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-default-state.png)
 
 4 - Click the "v" in the upper token selection field and choose "CAKE".
 
-![](../../.gitbook/assets/upper-field.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/upper-field.png)
 
 5 - Input the number of CAKE you want to bridge to Aptos.
 
-![](../../.gitbook/assets/bridging-amount-entered.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-amount-entered.png)
 
 6 - If your Aptos wallet is freshly created and doesn't have any APT (Aptos Coin) balance. We recommend keeping the "gas on destination" option at its default. The bridge will deposit a small amount of APT to your wallet, not only to help you kickstart your journey on Aptos, but you will also need APT for gas to register and claim your bridged CAKE.
 
 Altering this option might cause bridging to fail.
 
-![](../../.gitbook/assets/bridging-gas-on-dest.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-gas-on-dest.png)
 
 7 - Click "Transfer" to initiate the bridging transaction and confirm via the wallet confirmation pop up.
 
@@ -53,7 +53,7 @@ For more detail please check out [this breakdown](aptos.md#bridging-cake-to-apto
 
 8 - Sit back and relax. It should only take a few minutes. Once the bridging is complete, CAKE will be deposited into your Aptos wallet. You can track the progress by the progress bar.
 
-![](../../.gitbook/assets/bridging-complete-half.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-complete-half.png)
 
 ## Bridging CAKE to Aptos for the First Time
 
@@ -81,23 +81,23 @@ Then open the [PancakeSwap CAKE Bridge](https://bridge.pancakeswap.finance/)
 
 Click "Connect" and choose the wallet you prefer under the "EVM" section. Then confirm and approve in your wallet popup.
 
-![](../../.gitbook/assets/bridging-wallet-connect-modal.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-wallet-connect-modal.png)
 
 3 - Then, we need to connect our Aptos wallet.
 
 In the wallet connect modal, choose the wallet you prefer under the "Aptos" section. Then confirm and approve in your wallet popup.
 
-![](../../.gitbook/assets/bridging-default-state.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-default-state.png)
 
 4 - Click the "v" in the upper token selection field and choose "CAKE". Then click the double arrow button in the middle of the page to flip the direction of the bridging.
 
 Please make sure the "Aptos" network is in the upper field.
 
-![](../../.gitbook/assets/upper-field-aptos.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/upper-field-aptos.png)
 
 5 - Input the number of CAKE you want to bridge to BNB Smart Chain.
 
-![](../../.gitbook/assets/bridging-aptos-to-bsc-with-amount.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-aptos-to-bsc-with-amount.png)
 
 6 - If your BNB Smart Chain wallet is freshly created and doesn't have any BNB (gas token) balance. We recommend keeping the "gas on destination" option at its default. The bridge will deposit a small amount of BNB into your wallet. It will help you kickstart your journey on BNB Smart Chain and explore the vivid PancakeSwap ecosystem.
 

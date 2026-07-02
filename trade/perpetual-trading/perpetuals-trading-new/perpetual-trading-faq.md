@@ -1,64 +1,64 @@
-# Perpetual Trading FAQ
+# FAQ по бессрочной торговле
 
-### **What is PancakeSwap Perpetuals?**
+### **Что такое PancakeSwap Perpetuals?**
 
-PCS Perps is a perpetuals trading product built on Aster's orderbook infrastructure with a PCS-native frontend. It supports up to 200× leverage on BTC and major pairs, and is accessible directly from your wallet with no bridging or separate account setup.
+PCS Perps — это продукт для бессрочной торговли, построенный на инфраструктуре ордербука Aster с нативным для PCS фронтендом. Поддерживает кредитное плечо до 200× на BTC и основных парах, доступен прямо из кошелька без бриджинга и отдельного аккаунта.
 
-### **Which mode should I use — Simple or Pro?**
+### **Какой режим мне выбрать — Simple или Pro?**
 
-It depends on how you like to trade. Simple Mode is built for speed — set your size, pick your leverage, and tap UP or DOWN to open a position instantly. Pro Mode is for traders who want more control: limit orders, TP/SL configuration, and full position management. If you're new to perps or just want to move fast, start with Simple. You can switch to Pro at any time without affecting your open positions.
+Зависит от того, как ты предпочитаешь торговать. Simple Mode создан для скорости — задай размер, выбери кредитное плечо и нажми UP или DOWN, чтобы мгновенно открыть позицию. Pro Mode для трейдеров, которым нужен больший контроль: лимитные ордера, настройка TP/SL и полное управление позициями. Если ты новичок в perps или просто хочешь действовать быстро — начни с Simple. Переключиться на Pro можно в любой момент без влияния на открытые позиции.
 
-### **Do I need to create an account or complete KYC?**
+### **Нужно ли создавать аккаунт или проходить KYC?**
 
-No. PCS Perps is fully onchain. Connect your wallet and you're ready to trade — no account creation, no KYC, no deposits to a custodial platform.
+Нет. PCS Perps полностью ончейн. Подключи кошелёк и начинай торговать — никакого создания аккаунта, никакого KYC, никаких депозитов на кастодиальную платформу.
 
-### **What's the difference between Simple Mode and Pro Mode?**
+### **В чём разница между Simple Mode и Pro Mode?**
 
-Simple Mode is built for fast directional trades — one tap to go long or short with preset sizes. Pro Mode gives you full control with advanced order types, TP/SL, and position management tools. You can switch between modes at any time.
-
-***
-
-### **What fees does PancakeSwap Perpetuals charge?**
-
-There are two components to your trading fee on PCS Perps:
-
-1. **Aster base fee** — charged by Aster's orderbook infrastructure on every trade
-2. **PCS builder fee** — charged by PancakeSwap on top of the Aster base fee
-
-Both are deducted automatically at the time of your trade.
+Simple Mode создан для быстрых направленных сделок — одно нажатие, чтобы открыть лонг или шорт с предустановленными размерами. Pro Mode даёт полный контроль с расширенными типами ордеров, TP/SL и инструментами управления позициями. Переключаться между режимами можно в любой момент.
 
 ***
 
-### **What are Aster's fee rates?**
+### **Какие комиссии берёт PancakeSwap Perpetuals?**
 
-Fees vary by contract type:
+Торговая комиссия на PCS Perps состоит из двух частей:
 
-**USDT-Perpetual Contracts**
+1. **Базовая комиссия Aster** — взимается инфраструктурой ордербука Aster за каждую сделку
+2. **Комиссия builder PCS** — взимается PancakeSwap сверх базовой комиссии Aster
 
-| Order Type | Fee Rate |
-| ---------- | -------- |
-| Maker      | 0%       |
-| Taker      | 0.04%    |
+Обе автоматически вычитаются в момент совершения сделки.
 
-**USD1-Perpetual Contracts**
+***
 
-| Order Type | Fee Rate |
-| ---------- | -------- |
-| Maker      | 0%       |
-| Taker      | 0.005%   |
+### **Каковы ставки комиссий Aster?**
 
-For more details related to Aster fees please refer to this doc here: [LINK](https://docs.asterdex.com/trading/perpetuals/fees-and-specs)
+Комиссии варьируются в зависимости от типа контракта:
 
-### How does Aster determine which user is from PancakeSwap and which user is from their own website?
+**USDT-бессрочные контракты**
 
-This is based on the platform where users trade. If users open and close trades on [https://pancakeswap.finance/perps](https://pancakeswap.finance/perps), they will be considered PancakeSwap user.
+| Тип ордера | Ставка комиссии |
+| ---------- | --------------- |
+| Maker      | 0%              |
+| Taker      | 0.04%           |
 
-### PancakeSwap builder fee
+**USD1-бессрочные контракты**
 
-Fees for PancakeSwap Perpetuals as follows:
+| Тип ордера | Ставка комиссии |
+| ---------- | --------------- |
+| Maker      | 0%              |
+| Taker      | 0.005%          |
 
-<table><thead><tr><th width="201.33333333333331">Mode</th><th>Builder Fees</th></tr></thead><tbody><tr><td>All trades</td><td>0.03%</td></tr></tbody></table>
+Для получения дополнительной информации о комиссиях Aster обратись к их документации: [ССЫЛКА](https://docs.asterdex.com/trading/perpetuals/fees-and-specs)
 
-### **Which jurisdictions are restricted from using the product?** <a href="#whats-the-difference-between-a-maker-and-taker-order" id="whats-the-difference-between-a-maker-and-taker-order"></a>
+### Как Aster определяет, кто из пользователей пришёл с PancakeSwap, а кто — с их собственного сайта?
 
-Users located in or accessing the service from the United States of America, Canada, the United Kingdom, China, North Korea, Russia, Ukraine, Cuba, Iran, Venezuela, or Syria are not permitted to use the product. Access may be restricted or blocked in accordance with applicable compliance and regulatory requirements.
+Это определяется по платформе, на которой пользователи торгуют. Если пользователи открывают и закрывают сделки на [https://pancakeswap.finance/perps](https://pancakeswap.finance/perps), они считаются пользователями PancakeSwap.
+
+### Комиссия builder PancakeSwap
+
+Комиссии для PancakeSwap Perpetuals следующие:
+
+<table><thead><tr><th width="201.33333333333331">Режим</th><th>Комиссии builder</th></tr></thead><tbody><tr><td>Все сделки</td><td>0.03%</td></tr></tbody></table>
+
+### **В каких юрисдикциях доступ к продукту ограничен?** <a href="#whats-the-difference-between-a-maker-and-taker-order" id="whats-the-difference-between-a-maker-and-taker-order"></a>
+
+Пользователям, находящимся на территории или обращающимся к сервису из следующих стран, запрещено пользоваться продуктом: Соединённые Штаты Америки, Канада, Великобритания, Китай, Северная Корея, Россия, Украина, Куба, Иран, Венесуэла и Сирия. Доступ может быть ограничен или заблокирован в соответствии с применимыми требованиями комплаенса и регуляторными требованиями.

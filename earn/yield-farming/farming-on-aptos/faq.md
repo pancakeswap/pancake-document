@@ -1,6 +1,6 @@
 # FAQ
 
-<figure><img src="../../../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28206%29.png" alt=""><figcaption></figcaption></figure>
 
 ### **How do I bridge assets to Aptos and provide liquidity?**
 

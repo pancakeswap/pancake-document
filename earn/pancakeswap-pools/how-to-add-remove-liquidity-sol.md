@@ -27,7 +27,7 @@ You can add liquidity in two ways:
 
 Here you’ll see all active V3 pools on Solana.
 
-<figure><img src="../../.gitbook/assets/image (386).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28386%29.png" alt=""><figcaption></figcaption></figure>
 
 #### Step 2: Use Filters to Find Your Pool
 
@@ -35,13 +35,13 @@ You can use the filters at the top of the page to:
 
 *   **Search** for a specific token pair<br>
 
-    <figure><img src="../../.gitbook/assets/image (387).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28387%29.png" alt=""><figcaption></figcaption></figure>
 *   **Change layout view** (grid/list)<br>
 
-    <figure><img src="../../.gitbook/assets/image (388).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28388%29.png" alt=""><figcaption></figcaption></figure>
 *   **Sort pools** by TVL, Volume, Fees, or APR<br>
 
-    <figure><img src="../../.gitbook/assets/image (389).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28389%29.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 If your pool doesn’t appear immediately after creation, please allow up to 5 minutes. TVL, volume, fees, and APR stats are updated approximately every 15 minutes as swaps flow through the pool.
@@ -53,10 +53,10 @@ You can start the process by either:
 
 *   Clicking **“Deposit”** on the pool card<br>
 
-    <figure><img src="../../.gitbook/assets/image (390).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28390%29.png" alt=""><figcaption></figcaption></figure>
 *   OR clicking **“Create New Position”** under “My Positions”<br>
 
-    <figure><img src="../../.gitbook/assets/image (391).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28391%29.png" alt=""><figcaption></figcaption></figure>
 
 #### Step 4: Set Your Price Range
 
@@ -64,10 +64,10 @@ Since this is a V3 pool, you’ll need to choose a price range for your liquidit
 
 *   Use **quick preset ranges** (e.g. +- 25%) or set a custom range<br>
 
-    <figure><img src="../../.gitbook/assets/image (392).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28392%29.png" alt=""><figcaption></figcaption></figure>
 *   Use the **price direction toggle** to switch between base/quote view<br>
 
-    <figure><img src="../../.gitbook/assets/image (393).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28393%29.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Watch for **alerts** if:
@@ -82,16 +82,16 @@ Input the token amounts you want to supply
 
 \*\* APR won’t appear until you’ve entered amounts for both tokens
 
-<figure><img src="../../.gitbook/assets/image (394).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28394%29.png" alt=""><figcaption></figcaption></figure>
 
 #### Step 6: Preview & Confirm
 
 *   Click **“Add Liquidity”**
 
-    <figure><img src="../../.gitbook/assets/image (396).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28396%29.png" alt=""><figcaption></figcaption></figure>
 *   Review your position in the preview modal<br>
 
-    <figure><img src="../../.gitbook/assets/image (397).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28397%29.png" alt=""><figcaption></figcaption></figure>
 
 Once confirmed, the transaction will be submitted, and your position will be created!
 
@@ -103,23 +103,23 @@ Once confirmed, the transaction will be submitted, and your position will be cre
 
 Here you’ll see all your active V3 liquidity positions.
 
-<figure><img src="../../.gitbook/assets/image (398).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28398%29.png" alt=""><figcaption></figcaption></figure>
 
 #### Step 2: Click the “+” Button
 
 This lets you add more tokens to your current price range.
 
-<figure><img src="../../.gitbook/assets/image (399).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28399%29.png" alt=""><figcaption></figcaption></figure>
 
 #### Step 3: Enter Deposit Amount
 
 Add the token amounts you want and click **“Confirm”**.
 
-<figure><img src="../../.gitbook/assets/image (400).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28400%29.png" alt=""><figcaption></figcaption></figure>
 
 You'll see a success message upon confirmation.
 
-<figure><img src="../../.gitbook/assets/image (401).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28401%29.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -129,13 +129,13 @@ You can remove liquidity from any of your active positions directly from the **M
 
 #### 1. Go to **My Positions**
 
-<figure><img src="../../.gitbook/assets/image (402).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28402%29.png" alt=""><figcaption></figcaption></figure>
 
 #### 2. Select the Position You’d Like to Remove Liquidity From
 
 Click the **“−”** icon next to the position.
 
-<figure><img src="../../.gitbook/assets/image (403).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28403%29.png" alt=""><figcaption></figcaption></figure>
 
 #### 3. Enter the Amount You Want to Remove
 
@@ -144,7 +144,7 @@ You can either:
 * Manually input the token amounts
 * **OR** use the **slider** to select a percentage of your current position
 
-<figure><img src="../../.gitbook/assets/image (404).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28404%29.png" alt=""><figcaption></figcaption></figure>
 
 #### 4. (Optional) Keep Your Position Open After Removing Liquidity
 
@@ -157,10 +157,10 @@ If you wish to **completely close the position**, including its price range disp
 
 * Click the **“X”** icon
 
-<figure><img src="../../.gitbook/assets/image (408).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28408%29.png" alt=""><figcaption></figcaption></figure>
 
 #### 5. Reuse the Same Price Range
 
 You can also **add more liquidity** to the same price range later, following the same steps as when you first added liquidity.
 
-<figure><img src="../../.gitbook/assets/image (409).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28409%29.png" alt=""><figcaption></figcaption></figure>

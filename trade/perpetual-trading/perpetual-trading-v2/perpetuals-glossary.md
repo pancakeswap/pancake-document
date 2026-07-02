@@ -1,44 +1,44 @@
-# Perpetuals V2 Glossary
+# Глоссарий Perpetuals V2
 
-**Here you will find defined all the terms inherent in futures trading**
+**Здесь ты найдёшь определения всех терминов, связанных с торговлей фьючерсами**
 
-### **Perpetual Trading**
+### **Бессрочная торговля**
 
-&#x20;Perpetuals, perpetual swaps, or perps are a special type of futures contract without an expiration date.
+&#x20;Бессрочные контракты, бессрочные свопы или perps — это особый вид фьючерсных контрактов без даты истечения.
 
-### **Leverage**
+### **Кредитное плечо**
 
-Leverage is a trading mechanism. Traders can use it to increase their exposure to the market by allowing them to pay less than the full amount of the investment. In simple words, you borrow money to leverage your investment.
+Кредитное плечо — это торговый механизм. Трейдеры могут использовать его для увеличения своей экспозиции на рынке, позволяя платить меньше полной суммы инвестиции. Простыми словами, ты берёшь деньги в долг, чтобы увеличить инвестицию.
 
-### Orders
+### Ордера
 
-**Long:** Open a Long order. In this order, you purchase an asset and wait to sell when the price increases. "Buy" and "long" are used interchangeably.
+**Лонг:** Открытие лонг-ордера. В этом ордере ты покупаешь актив и ждёшь продажи при росте цены. «Купить» и «лонг» используются взаимозаменяемо.
 
-**Short:** Open a Short order. In this order, you borrow an asset, sell it, and hope to repurchase it when the price drops. "Sell" and "short" are used interchangeably.
+**Шорт:** Открытие шорт-ордера. В этом ордере ты занимаешь актив, продаёшь его и рассчитываешь выкупить при падении цены. «Продать» и «шорт» используются взаимозаменяемо.
 
-**Limit Order:** A limit order is buying or selling at a specific price or better. Limit orders are not guaranteed to execute.
+**Лимитный ордер:** Лимитный ордер — это покупка или продажа по конкретной цене или лучше. Исполнение лимитных ордеров не гарантировано.
 
-**Market Order:** A market order is an order to buy or sell at the best available current price.
+**Рыночный ордер:** Рыночный ордер — это ордер на покупку или продажу по лучшей доступной текущей цене.
 
-#### Position Management
+#### Управление позицией
 
-Users can check the details of their opened positions, such as the opening price, by clicking on "Position" located at the bottom of the trading page. They can view details such as opening price, number of positions, latest price and forced liquidation price.
+Пользователи могут просматривать детали открытых позиций, такие как цена открытия, нажав «Position» в нижней части торговой страницы. Можно видеть такие данные, как цена открытия, количество позиций, последняя цена и цена принудительной ликвидации.
 
-<figure><img src="../../../.gitbook/assets/Perp5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp5.png" alt=""><figcaption></figcaption></figure>
 
-**Position mode**
+**Режим позиции**
 
-PancakeSwap will use an isolated leverage mode for each v2 trading pair. Pairs operate independently:&#x20;
+PancakeSwap использует изолированный режим кредитного плеча для каждой торговой пары v2. Пары работают независимо:&#x20;
 
-* Each trading pair is an isolated position, Users can open multiple isolated positions
-* Every position (trading pair) runs independently. If users need to top up their margin, they will need to do so manually even if they have available assets in other separate positions (ApolloX will support auto top-up in the future)
-* Every isolated trading position will have its own risk rate and liquidation price and will be settled individually.
-* Liquidation risk is isolated for each trading pair. If a position is liquidated, it does not affect other positions.
+* Каждая торговая пара — это изолированная позиция; пользователи могут открывать несколько изолированных позиций
+* Каждая позиция (торговая пара) работает независимо. Если пользователям нужно пополнить маржу, это нужно делать вручную, даже если есть доступные активы в других отдельных позициях (ApolloX планирует поддержку автопополнения в будущем)
+* У каждой изолированной торговой позиции будет своя норма риска и цена ликвидации, они расчитываются индивидуально.
+* Риск ликвидации изолирован для каждой торговой пары. Если позиция ликвидируется, это не влияет на другие позиции.
 
-**Closing a position**
+**Закрытие позиции**
 
-Users can close their positions by clicking on "Close Position".
+Пользователи могут закрыть позиции, нажав «Close Position».
 
-#### Fees and Slippage
+#### Комиссии и Проскальзывание
 
-Please visit the [Aster's page](https://docs.asterdex.com/product/asterex-simple/fees-and-slippage) for more information on Fees.
+Посети [страницу Aster](https://docs.asterdex.com/product/asterex-simple/fees-and-slippage) для получения информации о комиссиях.

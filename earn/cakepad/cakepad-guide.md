@@ -62,16 +62,16 @@ The final amount of CAKE.PAD partner tokens you receive is determined using the 
 
 1. Click the Deposit button on the CAKE.PAD event sale card
 
-<figure><img src="../../.gitbook/assets/image (466).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28466%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
 2. Enter the amount of CAKE you want to commit. Any CAKE not used to buy tokens will be returned to you
 3.  Click **Confirm** and approve the transaction in your wallet<br>
 
-    <figure><img src="../../.gitbook/assets/image (467).png" alt="" width="239"><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28467%29.png" alt="" width="239"><figcaption></figcaption></figure>
 4. Your committed amount will be displayed in the sale section
 5. You can add more $CAKE any time during the CAKE.PAD event
 
-<figure><img src="../../.gitbook/assets/image (468).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28468%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Note:** If the CAKE.PAD event is oversubscribed, a **tiered participation fee** will apply. This fee is only taken from excess funds, not from the CAKE used to buy tokens.
 
@@ -104,7 +104,7 @@ Click the **Claim** button to collect any tokens currently available.
 
 Throughout the vesting period, you can return to the CAKE.PAD event page at any time to claim tokens as they are released.
 
-<figure><img src="../../.gitbook/assets/image (469).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28469%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
 #### Using Your New Tokens in Farms
 

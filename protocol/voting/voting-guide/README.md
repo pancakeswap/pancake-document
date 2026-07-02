@@ -1,6 +1,6 @@
 # How to Vote
 
-![](../../../.gitbook/assets/how-to-voting-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-voting-header.png)
 
 Participating in governance voting is easy, and it is absolutely **FREE**. You don't even need to pay gas fees! Learn more about how to vote, catch the next proposal and cast your vote.
 
@@ -14,7 +14,7 @@ Alternatively, you can visit [PancakeSwap's native voting portal](https://voting
 
 #### Read and pick the choice to vote
 
-![the proposal page](../../../.gitbook/assets/how-to-vote-1.png)
+![the proposal page](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-vote-1.png)
 
 On the proposal page. You will find:
 
@@ -26,11 +26,11 @@ On the proposal page. You will find:
 
 Read the proposal carefully and click the choice you want to vote on.
 
-![](../../../.gitbook/assets/how-to-vote-2.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-vote-2.png)
 
 #### Confirm and cast your vote
 
-![](../../../.gitbook/assets/how-to-vote-6.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-vote-6.png)
 
 Confirm all the details and click "Confirm Vote", then confirm in your wallet to sign the message.
 
@@ -42,7 +42,7 @@ Done, you just successfully cast your vote.
 {% tab title="Check the voting power" %}
 Before casting your vote, you will see a "Confirm Vote" window.
 
-<figure><img src="../../../.gitbook/assets/cc 2025-05-15T13_38_57.460Z.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/cc%202025-05-15T13_38_57.460Z.png" alt="" width="188"><figcaption></figcaption></figure>
 
 In this window, you will be able to view the following items:
 
@@ -55,12 +55,12 @@ Your voting power is equal to your CAKE balance at the snapshot block.
 {% tab title="Check the snapshot block" %}
 **Check the snapshot block**
 
-![](../../../.gitbook/assets/how-to-vote-3.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-vote-3.png)
 
 Voting power is calculated based on a snapshot taken on the snapshot block. Therefore, purchasing or depositing more CAKE after the proposal is posted is not going to increase the voting power for that particular proposal.
 
 If you want to know the exact time of the snapshot block. Simple click on the block number and look for the timestamp on the BscScan page.
 
-![](../../../.gitbook/assets/how-to-vote-7.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-vote-7.png)
 {% endtab %}
 {% endtabs %}

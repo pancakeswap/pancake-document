@@ -2,29 +2,29 @@
 hidden: true
 ---
 
-# How to trade using Smart Router
+# Как торговать с помощью Smart Router
 
-## Trading on the Smart Router
+## Торговля через Smart Router
 
-Smart Router is disabled by default on the swap page. It is similar to using the existing PancakeSwap AMM.
+Smart Router по умолчанию отключён на странице обмена. Использование аналогично существующему AMM PancakeSwap.
 
-Before starting, it requires a **BNB Chain-compatible wallet and BNB for gas fees.** Please check our [wallet guide](../../../welcome-to-pancakeswap/how-to-guides/get-started/wallet-guide.md) for more details.
+Перед началом работы потребуется **кошелёк, совместимый с BNB Chain, и BNB для оплаты газа.** Подробности смотри в нашем [руководстве по кошелькам](../../../welcome-to-pancakeswap/how-to-guides/get-started/wallet-guide.md).
 
-1. Go to the swap page [here.](https://pancakeswap.finance/swap#/swap)
-2. Choose the token pairs you would like to trade. At launch, only exact input is accepted for Smart Router due to slippage concerns.&#x20;
-3. Enter the value of the tokens you wish to trade. Check the **“Use StableSwap for better fees”** box.
+1. Перейди на страницу обмена [здесь.](https://pancakeswap.finance/swap#/swap)
+2. Выбери пары токенов, которые хочешь торговать. На момент запуска Smart Router поддерживает только ввод точной суммы из-за особенностей проскальзывания.&#x20;
+3. Введи стоимость токенов, которые хочешь обменять. Поставь галочку **«Use StableSwap for better fees»**.
 
 <img src="https://lh6.googleusercontent.com/fNM6jpqnmXBd870E-IpR0Moq1crdhh35nhICBA3ELIpLOI_Iy2JfeUtMQUZBCcL31XxqEpVSQcsYpayoTC0w5z1Z81HyQ_CgNu4TA4DV-sCqVvo8s0r8WJ63hzRRUGP9vEavHuSltMzpsNNWgidGg-VSCNA3CGoz4-n3mdc_a-HDDRHp69yN1jnbUgpeaA" alt="" data-size="original">
 
-4\.  Check the new route using the icon in the route field on the bottom row. You're all set! The following swap process is the same as usual. If it’s your first time trading please check the [guide here.](../trade-guide.md)
+4\.  Проверь новый маршрут с помощью значка в поле маршрута в нижней строке. Готово! Дальнейший процесс обмена такой же, как обычно. Если торгуешь впервые, ознакомься с [руководством здесь.](../trade-guide.md)
 
-## Turning off Smart Router
+## Отключение Smart Router
 
-Disabling the smart router routes all trades via V2 paths. Stableswap pairs will not be enabled.
+Отключение smart router направляет все сделки через маршруты V2. Пары StableSwap при этом будут недоступны.
 
-1. Hit the **Settings** icon on the top right of the swap menu.
-2. **Disable Smart Router** on the pop-up that appears.
+1. Нажми значок **Settings** в правом верхнем углу меню обмена.
+2. **Отключи Smart Router** во всплывающем окне.
 
-![](<../../../.gitbook/assets/Screenshot 2022-11-25 at 2.02.11 PM.png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202022-11-25%20at%202.02.11%20PM.png)
 
-3\. Close Settings Page.
+3\. Закрой страницу настроек.

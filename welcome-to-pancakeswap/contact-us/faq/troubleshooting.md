@@ -24,7 +24,7 @@ description: Распространённые сообщения об ошибк
 2. Попробуй торговать меньшей суммой за раз.
 3. Увеличь допустимое Проскальзывание:
    1. Нажми на иконку настроек на странице Ликвидности.
-   2. Немного увеличь Проскальзывание и повтори попытку. ![](<../../../.gitbook/assets/image (9) (4).png>)
+   2. Немного увеличь Проскальзывание и повтори попытку. ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%289%29%20%284%29.png)
 4. Наконец, попробуй ввести сумму с меньшим количеством знаков после запятой.
 {% endtab %}
 
@@ -54,7 +54,7 @@ description: Распространённые сообщения об ошибк
 1. Нажми на иконку настроек на странице Ликвидности.
 2. Немного увеличь Проскальзывание и повтори попытку.
 
-![](<../../../.gitbook/assets/image (9) (4).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%289%29%20%284%29.png)
 {% endtab %}
 
 {% tab title="Причина" %}
@@ -88,7 +88,7 @@ description: Распространённые сообщения об ошибк
 2. В **5. balanceOf** введи адрес своего кошелька и нажми **Query**.
 3. Запомни полученное число. Оно показывает твой баланс в LP в формате uint256, который понадобится на следующем шаге.
 
-![](<../../../.gitbook/assets/image (74).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2874%29.png)
 
 **Добавить или удалить Ликвидность**
 
@@ -102,7 +102,7 @@ description: Распространённые сообщения об ошибк
 6. Добавь адрес своего кошелька в **to (address)**.
 7. Deadline должен быть временем эпохи, превышающим время выполнения транзакции.
 
-![](<../../../.gitbook/assets/image (136).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28136%29.png)
 
 {% hint style="warning" %}
 Это может вызвать очень высокое Проскальзывание и привести к потере части средств пользователем при Фронтраннинге
@@ -124,7 +124,7 @@ description: Распространённые сообщения об ошибк
 
 Попробуй изменить сумму в поле «To». Таким образом, символ «(расчётное)» переместится на поле «From». Затем немедленно инициируй обмен.
 
-![](<../../../.gitbook/assets/Pancake-K-Solution (2).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Pancake-K-Solution%20%282%29.png)
 
 Обычно это происходит, когда ты пытаешься обменять токен с собственной комиссией.
 
@@ -262,7 +262,7 @@ description: Распространённые сообщения об ошибк
 
 Обычно достаточно лимита в 200000.
 
-![](<../../../.gitbook/assets/image (21).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2821%29.png)
 
 Пример выше взят из Metamask; проверь документацию своего кошелька, если не уверен, как изменить лимит газа.
 {% endtab %}

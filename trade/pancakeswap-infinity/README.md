@@ -1,23 +1,23 @@
 # ♾️ PancakeSwap Infinity
 
-> If you're a developer or looking for detailed technical documentation, please refer to this doc [https://developer.pancakeswap.finance/](https://developer.pancakeswap.finance/)
+> Если ты разработчик или ищешь подробную техническую документацию, обратись к этому ресурсу: [https://developer.pancakeswap.finance/](https://developer.pancakeswap.finance/)
 
-**PancakeSwap Infinity** is the newest version of PancakeSwap AMM, designed to make decentralized trading faster, cheaper, and more flexible. It uses a modular design that allows for more customization and supports different types of trading pools and pricing models.
+**PancakeSwap Infinity** — это новейшая версия AMM PancakeSwap, разработанная для того, чтобы сделать децентрализованную торговлю быстрее, дешевле и гибче. Она использует модульную архитектуру, которая позволяет более широко настраивать систему и поддерживает различные типы торговых пулов и ценовых моделей.
 
-With Infinity, developers can build new features more easily using "hooks"—small bits of code that run at key actions in a pool’s lifecycle. These allow for use-cases like custom oracles, dynamic fee pools, advanced trading & liquidity management features, and more.&#x20;
+С Infinity разработчики могут легче создавать новые функции с помощью «хуков» — небольших фрагментов кода, которые запускаются при ключевых действиях в жизненном цикле пула. Это открывает такие варианты использования, как пользовательские оракулы, пулы с динамическими комиссиями, расширенные функции управления торговлей и ликвидностью, и многое другое.&#x20;
 
-Compared to PancakeSwap v3, Infinity is more gas-efficient and future-proof. By decoupling core functions like accounting and trading logic, it allows for seamless integration of new pricing curves with hook capabilities—enabling the protocol to evolve without requiring redeployment.
+По сравнению с PancakeSwap v3, Infinity более газоэффективна и ориентирована на будущее. Разделяя основные функции, такие как учёт и торговая логика, она обеспечивает бесшовную интеграцию новых ценовых кривых с возможностями хуков — что позволяет протоколу развиваться без повторного развёртывания.
 
-### ⭐️ Key Features
+### ⭐️ Ключевые функции
 
 1. Singleton
 2. Flash Accounting
 3. Hooks
-4. Native Token Support
-5. Custom Pricing Curves
+4. Поддержка нативных токенов
+5. Пользовательские ценовые кривые
 6. ERC-6909
 7. `donate()`
 
 {% hint style="success" %}
-**Open-sourced:** [PancakeSwap Infinity](https://github.com/pancakeswap/infinity-core) is released under an open-source license, encouraging developers to innovate, customize, and collaborate freely.
+**Открытый исходный код:** [PancakeSwap Infinity](https://github.com/pancakeswap/infinity-core) выпущен под лицензией с открытым исходным кодом, что поощряет разработчиков свободно инновировать, настраивать и сотрудничать.
 {% endhint %}

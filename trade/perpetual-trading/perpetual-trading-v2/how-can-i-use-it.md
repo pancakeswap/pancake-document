@@ -1,103 +1,103 @@
 ---
-description: How to use V2 Perpetuals Trading
+description: Как использовать Бессрочную торговлю V2
 ---
 
-# How can I use it?
+# Как это использовать?
 
-![](<../../../.gitbook/assets/how-to-pancakeswap-without-cex-header (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-pancakeswap-without-cex-header%20(1).png)
 
-Using this functionality is really easy (the difficult thing is to trade well). We will only have to follow a series of steps so that our experience is complete. For more information, please visit the [V2 Glossary](perpetuals-glossary.md).
+Использовать этот функционал очень просто (сложнее — торговать хорошо). Нам нужно лишь выполнить ряд шагов для полноценной работы. Для получения дополнительной информации посети [Глоссарий V2](perpetuals-glossary.md).
 
-### Go to Perpetual Trading page&#x20;
+### Перейди на страницу бессрочной торговли&#x20;
 
-You can enter from the [site](https://pancakeswap.finance), in the Trade → Perpetual section, or through this [link  ](https://perp.pancakeswap.finance/en/futures/BTCUSDT)
+Войти можно с [сайта](https://pancakeswap.finance), в разделе Trade → Perpetual, или по этой [ссылке  ](https://perp.pancakeswap.finance/en/futures/BTCUSDT)
 
-### Choose the pair to trade&#x20;
+### Выбери торговую пару&#x20;
 
-You can select a tradable pair by clicking on the arrow next to the pair, at the top of the page.
+Нажми на стрелку рядом с парой в верхней части страницы, чтобы выбрать торговую пару.
 
-<figure><img src="../../../.gitbook/assets/Perp7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp7.png" alt=""><figcaption></figcaption></figure>
 
-More tradable pairs will come soon!
+Скоро появятся новые торговые пары!
 
-<figure><img src="../../../.gitbook/assets/Perp8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp8.png" alt=""><figcaption></figcaption></figure>
 
-### Analyze the chart and decide your trading strategy
+### Проанализируй график и определи торговую стратегию
 
-It’s trading time!! Let’s get serious. You can analyze the chart your way, with all the tools available
+Время торговать!! Серьёзно. Ты можешь анализировать график по-своему, используя все доступные инструменты.
 
-<figure><img src="../../../.gitbook/assets/Perp9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp9.png" alt=""><figcaption></figcaption></figure>
 
-**Do you know how to do it or do you want to improve in your analysis?**
+**Знаешь, как это делать, или хочешь улучшить навыки анализа?**
 
-Here is a guide to get started in the world of chart analysis:
+Вот руководства для начала работы в мире анализа графиков:
 
-* [How to Use TradingView on Binance Website](https://www.binance.com/en/support/faq/8419126024404348a1c6e4039fbed3fe)
-* [Candlestick charts](https://academy.binance.com/en/articles/a-beginners-guide-to-candlestick-charts)
-* [Trend Lines Explained](https://academy.binance.com/en/articles/trend-lines-explained)
+* [Как использовать TradingView на сайте Binance](https://www.binance.com/en/support/faq/8419126024404348a1c6e4039fbed3fe)
+* [Свечные графики](https://academy.binance.com/en/articles/a-beginners-guide-to-candlestick-charts)
+* [Объяснение линий тренда](https://academy.binance.com/en/articles/trend-lines-explained)
 
-### Make your position&#x20;
+### Открой позицию&#x20;
 
-Then, in the upper right part you have the board to position your order.
+В правой верхней части находится панель для размещения ордера.
 
-<figure><img src="../../../.gitbook/assets/Perp1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp1.png" alt=""><figcaption></figcaption></figure>
 
-Here you must set several parameters, like:
+Здесь нужно задать несколько параметров, например:
 
-_Not in an specific order_
+_Не в определённом порядке_
 
-1. Long Or Short&#x20;
+1. Лонг или шорт&#x20;
 
-<figure><img src="../../../.gitbook/assets/Perp2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp2.png" alt=""><figcaption></figcaption></figure>
 
-Select the trade position you would like to adopt
+Выбери направление торговой позиции
 
-&#x20; 2\. The x of the leverage
+&#x20; 2\. Размер кредитного плеча
 
-<figure><img src="../../../.gitbook/assets/Perp3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp3.png" alt=""><figcaption></figcaption></figure>
 
-Move the bunny to select the appropriate leverage position. You can also manually enter the position in the box on the left.
+Передвинь кролика, чтобы выбрать подходящее кредитное плечо. Также можно ввести значение вручную в поле слева.
 
-Disclaimer: Remember that a high level of leverage carries a very high risk, use it wisely.
+Дисклеймер: Помни, что высокий уровень кредитного плеча несёт очень высокий риск — используй его мудро.
 
-&#x20;   3\. Type of Order
+&#x20;   3\. Тип ордера
 
-<figure><img src="../../../.gitbook/assets/Perp10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp10.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;  4\. Set the order size and place a price for your order (For limit orders)
+&#x20;  4\. Задай размер ордера и укажи цену (для лимитных ордеров)
 
-![](../../../.gitbook/assets/Perp3.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp3.png)
 
-You can also choose the reference currency to see your position.
+Также можно выбрать справочную валюту для отображения позиции.
 
-5. Take Profit/Stop Loss & Slippage
+5. Take Profit/Stop Loss и Проскальзывание
 
-<figure><img src="../../../.gitbook/assets/Perp6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp6.png" alt=""><figcaption></figcaption></figure>
 
-Users can set a take profit or stop loss price when opening a position.
+Пользователи могут установить цену take profit или stop loss при открытии позиции.
 
-* Take Profit: Users' position will be liquidated once they reach the set upon P\&L percentage gain.
-* Stop Loss: Users' position will be liquidated once they reach the set upon P\&L percentage loss.
-* Slippage: Used to cancel a market order automatically if the price moved too fast in the direction of the trade before it was opened. For example if you wish to market long the current price but before your trade is opened the price moved up 1%, it will cancel automatically.
+* Take Profit: позиция пользователя будет ликвидирована при достижении установленного процента прибыли P\&L.
+* Stop Loss: позиция пользователя будет ликвидирована при достижении установленного процента убытка P\&L.
+* Проскальзывание: используется для автоматической отмены рыночного ордера, если цена двинулась слишком быстро в направлении сделки до её открытия. Например, если ты хочешь открыть лонг по рыночной цене, но до открытия сделки цена выросла на 1%, ордер будет автоматически отменён.
 
-Note: You can hover over each option for more information. Please refer to [Perpetuals V2 Glossary](perpetuals-glossary.md) for an in-depth guide.
+Примечание: наведи курсор на каждый параметр для получения дополнительной информации. Обратись к [Глоссарию Perpetuals V2](perpetuals-glossary.md) для подробного руководства.
 
-### Send your order
+### Отправь ордер
 
-When all the parameters have been set, you can send the order by clicking on Open Position
+После задания всех параметров нажми Open Position, чтобы отправить ордер.
 
-![](../../../.gitbook/assets/Perp4.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp4.png)
 
-### Checking your position
+### Проверь позицию
 
-Once the order has been sent, it will appear in "Open Orders" until filled out.
+После отправки ордер появится в разделе «Open Orders» до исполнения.
 
-![](../../../.gitbook/assets/Perp11.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp11.png)
 
-### Live!
+### В эфире!
 
-When it is filled, your position will be live. You can see it in the positions panel. Also you can view, edit, or close it.
+После исполнения твоя позиция будет активна. Её можно видеть на панели позиций. Также можно просматривать, редактировать или закрыть её.
 
-![](../../../.gitbook/assets/Perp5.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp5.png)
 
-Good luck with your trades!
+Удачи в торговле!

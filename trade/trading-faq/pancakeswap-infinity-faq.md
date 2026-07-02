@@ -17,7 +17,7 @@ description: >-
 \
 **3. Flexibility in AMM Designs:** PancakeSwap Infinity supports multiple pool types, including CLAMM and the LBAMM, allowing traders and LP to pick different pool types. This inclusive approach also allows supporting any future assets requiring new pricing curves. Check out this blog to [learn more](https://blog.pancakeswap.finance/articles/everything-you-need-to-know-about-pancake-swap-v4-what-s-in-it-for-developers-traders-liquidity-providers-and-defi-protocols)
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-03-15 at 16.16.56.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-03-15%20at%2016.16.56.png" alt=""><figcaption></figcaption></figure>
 
 **Q2** How will PancakeSwap Infinity benefit developers and defi protocols?
 
@@ -29,7 +29,7 @@ description: >-
 
 **3. Revenue Generation Opportunities:** Developers can establish a consistent revenue stream through hook fees, allowing them to set fees for utilizing their hooks. By monetizing their innovations with fees, developers can contribute to the growth and development of the PancakeSwap ecosystem. Check out this blog to[ learn more](https://blog.pancakeswap.finance/articles/everything-you-need-to-know-about-pancake-swap-v4-what-s-in-it-for-developers-traders-liquidity-providers-and-defi-protocols)
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-03-15 at 09.40.42.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-03-15%20at%2009.40.42.png" alt=""><figcaption></figcaption></figure>
 
 **Q3** What improvements does PancakeSwap Infinity bring compared to v3?
 

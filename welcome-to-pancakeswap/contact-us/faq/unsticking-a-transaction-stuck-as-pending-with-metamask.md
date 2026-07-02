@@ -52,11 +52,11 @@ description: Как «разблокировать» ожидающие тран
 
 Теперь мы создадим новую транзакцию для замены зависшей. Настроим число Nonce так, чтобы оно совпадало с тем, которое ты только что записал.
 
-![](<../../../.gitbook/assets/image (176).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28176%29.png)
 
 8\. Создай новую транзакцию для замены зависшей. На этот раз увеличь **Transaction Fee**. Здесь мы увеличили его с 9 до 20. Это повысит вероятность включения твоей транзакции в блок.
 
-![](<../../../.gitbook/assets/image (34).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2834%29.png)
 
 9\. На странице подтверждения убедись, что Gas Price теперь соответствует новому более высокому значению.
 

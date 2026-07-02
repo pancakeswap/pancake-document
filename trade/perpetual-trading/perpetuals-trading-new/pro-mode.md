@@ -1,60 +1,60 @@
 # Pro Mode
 
-Pro Mode gives you full control over your trades — order types, leverage, TP/SL, and position management all in one place. Follow the steps below to open your first position. For definitions of key terms, refer to the PCS Perps Glossary.
+Pro Mode даёт тебе полный контроль над сделками — типы ордеров, кредитное плечо, TP/SL и управление позициями — всё в одном месте. Следуй шагам ниже, чтобы открыть первую позицию. Для определений ключевых терминов обратись к глоссарию PCS Perps.
 
-### **Go to the PCS Perps page**
+### **Перейди на страницу PCS Perps**
 
-Head to [pancakeswap.finance/perps](https://pancakeswap.finance/perps) or click Perps in the main PancakeSwap navigation bar.
+Открой [pancakeswap.finance/perps](https://pancakeswap.finance/perps) или нажми Perps в главной навигационной панели PancakeSwap.
 
-### **Connect your wallet**
+### **Подключи кошелёк**
 
-Click Connect Wallet in the top right corner. No account creation or KYC required — your wallet is your account.
+Нажми Connect Wallet в правом верхнем углу. Создание аккаунта и KYC не требуются — твой кошелёк и есть твой аккаунт.
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt="" width="507"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(7).png" alt="" width="507"><figcaption></figcaption></figure>
 
-### **Choose your mode**
+### **Выбери режим**
 
-Select **Simple Mode** for a fast one-tap long or short with preset sizes. Switch to **Pro Mode** if you want to set limit orders, configure TP/SL, or manage positions in more detail.
+Выбери **Simple Mode** для быстрого лонга или шорта одним нажатием с предустановленными размерами. Переключись на **Pro Mode**, если хочешь устанавливать лимитные ордера, настраивать TP/SL или более детально управлять позициями.
 
-<figure><img src="../../../.gitbook/assets/image (249).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(249).png" alt=""><figcaption></figcaption></figure>
 
-### **Choose a trading pair**
+### **Выбери торговую пару**
 
-Click on the pair name at the top of the page to open the asset selector. A huge variety of token pairs are available.
+Нажми на название пары в верхней части страницы, чтобы открыть селектор активов. Доступно огромное количество токен-пар.
 
-<figure><img src="../../../.gitbook/assets/image (228).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(228).png" alt="" width="375"><figcaption></figcaption></figure>
 
-### **Analyze the chart and decide your strategy**
+### **Проанализируй график и определи стратегию**
 
-Use the built-in TradingView chart to analyze price action before placing your trade. All standard charting tools are available.
+Используй встроенный график TradingView для анализа ценового движения перед размещением сделки. Доступны все стандартные инструменты построения графиков.
 
-<figure><img src="../../../.gitbook/assets/image (264).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(264).png" alt=""><figcaption></figcaption></figure>
 
-### **Set your position parameters**
+### **Задай параметры позиции**
 
-In the order panel, configure the following:
+В панели ордера настрой следующее:
 
-1. **Long or Short** — select the direction of your trade
-2. **Leverage** — use the slider or type manually to set your leverage. Up to 200× is available on BTC.
+1. **Лонг или шорт** — выбери направление сделки
+2. **Кредитное плечо** — используй слайдер или введи вручную. На BTC доступно до 200×.
 
-⚠️ High leverage carries significant risk. Use it carefully.
+⚠️ Высокое кредитное плечо несёт значительный риск. Используй его осторожно.
 
-3. **Order type** — Market (fills immediately) or Limit (fills at your chosen price)
-4. **Position size** — enter the size of your trade in your preferred reference currency
+3. **Тип ордера** — Market (исполняется немедленно) или Limit (исполняется по выбранной цене)
+4. **Размер позиции** — введи размер сделки в предпочтительной валюте
 
-**Set Take Profit and Stop Loss** _(optional)_
+**Установить Take Profit и Stop Loss** _(опционально)_
 
-* **Take Profit** — your position closes automatically when your target gain is reached
-* **Stop Loss** — your position closes automatically to limit losses at a set threshold
+* **Take Profit** — позиция закрывается автоматически при достижении целевой прибыли
+* **Stop Loss** — позиция закрывается автоматически для ограничения убытков при достижении заданного порога
 
-Once all parameters are set, click Buy / Long Or Sell / Short to submit your order.
+После настройки всех параметров нажми Buy / Long или Sell / Short, чтобы разместить ордер.
 
-<figure><img src="../../../.gitbook/assets/image (284).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(284).png" alt=""><figcaption></figcaption></figure>
 
-### **Check your order status**
+### **Проверь статус ордера**
 
-Your order will appear under **Positions** while it waits to be filled.
+Твой ордер появится в разделе **Positions**, пока ожидает исполнения.
 
-<figure><img src="../../../.gitbook/assets/image (287).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(287).png" alt=""><figcaption></figcaption></figure>
 
-Good luck with your trades!
+Удачи в торговле!

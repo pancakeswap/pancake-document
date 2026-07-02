@@ -1,6 +1,6 @@
 # Product Overview
 
-![](.gitbook/assets/intro-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/intro-header.png)
 
 {% hint style="success" %}
 **PancakeSwap helps you make the most out of your crypto in three ways:**

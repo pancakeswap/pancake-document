@@ -1,33 +1,33 @@
-# Perpetuals Trading \[NEW]
+# Бессрочная торговля \[НОВОЕ]
 
-In PancakeSwap Perpetuals, we've rebuilt our trading experience from the ground up — powered by Aster infrastructure, optimized for high-leverage retail traders. Instead of managing your own bridging or dealing with fragmented liquidity, PCS Perps gives you a seamless, fully on-chain trading experience with deep liquidity and up to 200× leverage on BTC.
+В PancakeSwap Perpetuals мы полностью переработали торговый опыт — на базе инфраструктуры Aster, оптимизированной для розничных трейдеров с высоким кредитным плечом. Вместо того чтобы самостоятельно управлять бриджингом или работать с разрозненной ликвидностью, PCS Perps предлагает бесшовный, полностью ончейн торговый опыт с глубокой ликвидностью и кредитным плечом до 200× на BTC.
 
-The new experience brings meaningful upgrades to PancakeSwap Perpetuals users:
+Новый интерфейс открывает значимые улучшения для пользователей PancakeSwap Perpetuals:
 
-### **Two Modes, One Product**
+### **Два режима, один продукт**
 
-Not everyone trades the same way. Simple Mode lets you go long or short in a single tap with preset sizes — no configuration needed. Pro Mode unlocks limit orders, TP/SL, and full position management for traders who want more control. Switch between modes anytime without affecting your open positions.
+Все торгуют по-разному. Simple Mode позволяет открыть лонг или шорт одним нажатием с предустановленными размерами — никакой настройки не нужно. Pro Mode разблокирует лимитные ордера, TP/SL и полное управление позициями для трейдеров, которым нужен больший контроль. Переключайся между режимами в любой момент, не влияя на открытые позиции.
 
-### **Up to 200× Leverage**
+### **Кредитное плечо до 200×**
 
-PCS Perps supports up to 200× leverage on BTC — significantly higher than most retail perps products. This makes it one of the few platforms built to accommodate high-leverage trading behavior without forcing users onto a separate chain or interface.
+PCS Perps поддерживает кредитное плечо до 200× на BTC — значительно выше, чем у большинства розничных perps-продуктов. Это делает его одной из немногих платформ, созданных для торговли с высоким плечом, без необходимости переходить на отдельную сеть или интерфейс.
 
-### **CEX-Grade Execution, Onchain**
+### **Исполнение CEX-уровня — ончейн**
 
-PCS Perps is powered by Aster's orderbook infrastructure, bringing deep liquidity and institutional-grade execution to a fully onchain trading environment. You trade directly from your wallet — no deposits to a separate account, no custodial risk outside of liquidation events.
+PCS Perps работает на инфраструктуре ордербука Aster, обеспечивая глубокую ликвидность и институциональное исполнение в полностью ончейн торговой среде. Ты торгуешь прямо из своего кошелька — без депозитов на отдельный счёт, без кастодиального риска вне событий ликвидации.
 
-### **Unified Wallet Experience**
+### **Единый опыт кошелька**
 
-Your spot and perps activity live in one place. PCS Perps integrates directly into the PancakeSwap interface, giving you a single wallet view across all your onchain positions.
+Вся твоя спот- и perps-активность находится в одном месте. PCS Perps интегрирован прямо в интерфейс PancakeSwap, предоставляя единый вид кошелька для всех ончейн позиций.
 
 ### **AI Copilot**
 
-The AI Copilot tab in the trading panel generates AI-powered trade ideas to help you decide your position direction. When your perp account is funded, the Copilot shows Long and Short idea cards with entry context — tap one to pre-fill the order form. When unfunded, it shows an empty state with a "Generate trade ideas" prompt. AI Copilot is available in both Simple and Pro Mode alongside the Order Book and Trades tabs.
+Вкладка AI Copilot в торговой панели генерирует торговые идеи на основе ИИ, чтобы помочь тебе определить направление позиции. Когда perp-счёт пополнен, Copilot показывает карточки идей Long и Short с контекстом входа — нажми на одну, чтобы заполнить форму ордера. Когда счёт не пополнен, отображается пустое состояние с подсказкой «Создать торговые идеи». AI Copilot доступен как в Simple, так и в Pro Mode наряду со вкладками Order Book и Trades.
 
-### **CAKE VIP Fee Tiers \[Coming soon]**
+### **VIP-уровни комиссий CAKE \[Скоро]**
 
-Hold CAKE in your connected wallet to unlock fee discounts on every trade. More details coming soon.
+Держи CAKE в подключённом кошельке, чтобы получить скидки на комиссии при каждой сделке. Подробности скоро.
 
-### **Revenue Tied to CAKE**
+### **Выручка привязана к CAKE**
 
-20% of all perps trading fees is routed directly to CAKE burn, linking trading activity to long-term token value. The more volume on PCS Perps, the more CAKE is removed from circulation.
+20% всех торговых комиссий perps направляется напрямую на сжигание CAKE, связывая торговую активность с долгосрочной ценностью токена. Чем больше объём на PCS Perps, тем больше CAKE изымается из обращения.

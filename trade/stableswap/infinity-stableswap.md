@@ -136,19 +136,19 @@ Infinity StableSwap pools are permissionless — anyone can create one without n
 
 1\. Go to the Farm/Liquidity page and click Create Pool.
 
-<figure><img src="../../.gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
 
 <br>
 
 2\. Select StableSwap Pool from the pool type options.
 
-<figure><img src="../../.gitbook/assets/unknown (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unknown%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 <br>
 
 3\. Select the token pair for your pool (e.g. USDC / USDT).
 
-<figure><img src="../../.gitbook/assets/unknown (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unknown%20%282%29.png" alt=""><figcaption></figcaption></figure>
 
 <br>
 
@@ -167,7 +167,7 @@ Infinity StableSwap pools are permissionless — anyone can create one without n
 
 Choose a Pool Parameter Preset — this automatically sets the recommended parameters for your asset type. You can still manually adjust them via the Advanced toggle.
 
-<figure><img src="../../.gitbook/assets/unknown (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unknown%20%283%29.png" alt=""><figcaption></figcaption></figure>
 
 | Preset                            | A    | Offpeg Fee Multiplier | Moving Average Time (seconds) |
 | --------------------------------- | ---- | --------------------- | ----------------------------- |
@@ -187,11 +187,11 @@ Choose a Pool Parameter Preset — this automatically sets the recommended param
 
 5\. Enter the deposit amount to seed initial liquidity. Both token amounts must be equal (e.g. 1 USDC and 1 USDT).
 
-<figure><img src="../../.gitbook/assets/unknown (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unknown%20%284%29.png" alt=""><figcaption></figcaption></figure>
 
 <br>
 
 6\. Click Preview Pool, review your settings, check the confirmation box, then click Create Pool.
 
-<figure><img src="../../.gitbook/assets/unknown (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unknown%20%285%29.png" alt=""><figcaption></figcaption></figure>
 

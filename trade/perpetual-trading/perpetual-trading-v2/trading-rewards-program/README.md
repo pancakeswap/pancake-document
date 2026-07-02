@@ -69,8 +69,8 @@ Step 1: Head to our [PancakeSwap Perpetuals Page](https://perp.pancakeswap.finan
 
 Step 2: Click the Trading Reward (V2) tab at the top of the page
 
-<figure><img src="../../../../.gitbook/assets/Trading Reward.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Trading%20Reward.png" alt=""><figcaption></figcaption></figure>
 
 Step 3: You'll be redirected to ApolloX rewards claim page to check your current reward status. Click "Claim" to claim your rewards during the activity period.
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2023-06-29 at 10.26.11 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202023-06-29%20at%2010.26.11%20AM.png" alt=""><figcaption></figcaption></figure>

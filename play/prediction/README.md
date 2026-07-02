@@ -1,6 +1,6 @@
 # 🔮 Prediction
 
-![](../../.gitbook/assets/prediction-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/prediction-header.png)
 
 PancakeSwap Prediction is a fun and simple decentralized prediction market.
 
