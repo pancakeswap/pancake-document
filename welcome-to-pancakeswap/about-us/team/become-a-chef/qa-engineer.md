@@ -2,35 +2,35 @@
 hidden: true
 ---
 
-# QA Engineer
+# QA-инженер
 
-### General Information
+### Общая информация
 
-* Salary range: Competitive, negotiable
-* Position: Full-time
-* Location: Remote
-* Time-zone preference: Any
+* Уровень зарплаты: Конкурентный, по договорённости
+* Занятость: Полная
+* Местонахождение: Удалённо
+* Предпочтение по часовому поясу: Любой
 
-### Your Responsibilities
+### Твои обязанности
 
-* Collaborate in the design of test plans for new features and releases
-* Triage reported defects, verify and reproduce regressions
-* Document bug reports and update according to different phases of issues lifecycle
-* Conduct functional, integration, regression, and performance testing for Web3 dApps and crypto wallet interactions.
-* Coordination with team members on the organization and execution of testing activities
-* Ensure test coverage across blockchain-specific features such as wallet integration, transaction handling, and smart contract interactions.
-* Manual tests on mobile devices (Android, iOS) and desktop apps on Windows, Mac and Linux
+* Участвовать в разработке тест-планов для новых функций и релизов
+* Классифицировать обнаруженные дефекты, верифицировать и воспроизводить регрессии
+* Документировать отчёты об ошибках и обновлять их в соответствии с различными фазами жизненного цикла задач
+* Проводить функциональное, интеграционное, регрессионное и нагрузочное тестирование Web3 dApps и взаимодействий крипто-кошельков.
+* Координировать с членами команды организацию и выполнение тестовых активностей
+* Обеспечивать тестовое покрытие специфичных для блокчейна функций: интеграция кошельков, обработка транзакций и взаимодействия со смарт-контрактами.
+* Ручное тестирование на мобильных устройствах (Android, iOS) и настольных приложениях на Windows, Mac и Linux
 
-### Skills & Qualifications
+### Навыки и квалификация
 
-* Familiarity with blockchain technologies, DeFi, NFTs, and the broader Web3 ecosystem.
-* Proven experience with Web3 dApps and crypto wallets (e.g., MetaMask, WalletConnect, hardware wallets).
-* Strong knowledge of QA methodologies, testing strategies, and software development lifecycle.
-* Hands-on experience with both server-side and client-side QA testing.
-* Excellent problem-solving skills, with the ability to work independently and learn new technologies quickly.
-* Strong communication skills and attention to detail.
+* Знакомство с технологиями блокчейна, DeFi, NFT и более широкой экосистемой Web3.
+* Подтверждённый опыт работы с Web3 dApps и крипто-кошельками (например, MetaMask, WalletConnect, аппаратные кошельки).
+* Глубокое знание методологий QA, стратегий тестирования и жизненного цикла разработки программного обеспечения.
+* Практический опыт серверного и клиентского QA-тестирования.
+* Отличные навыки решения проблем, умение работать самостоятельно и быстро осваивать новые технологии.
+* Сильные коммуникативные навыки и внимание к деталям.
 
-### Good to have
+### Желательно
 
-* Experience with e2e testing framework (e.g. Puppeteer, Playwright, Cypress)
-* Understanding of DeFi protocols and their underlying mechanisms.
+* Опыт с фреймворками e2e-тестирования (например, Puppeteer, Playwright, Cypress)
+* Понимание DeFi-протоколов и их базовых механизмов.

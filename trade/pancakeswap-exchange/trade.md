@@ -1,23 +1,23 @@
-# Token Swaps
+# Обмен токенов
 
-![](../../.gitbook/assets/swap-trade-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/swap-trade-header.png)
 
-[**Token swaps**](https://pancakeswap.finance/swap) on PancakeSwap are a simple way to trade one token for another via automated liquidity pools on BNB Smart Chain, Ethereum and Aptos, and also with market makers when trading tokens on BNB Smart Chain and Ethereum.
+[**Обмен токенов**](https://pancakeswap.finance/swap) на PancakeSwap — это простой способ обменять один токен на другой через автоматизированные пулы ликвидности на BNB Smart Chain, Ethereum и Aptos, а также через маркет-мейкеров при торговле токенами на BNB Smart Chain и Ethereum.
 
-![](<../../.gitbook/assets/image (53).png>)
+![](<https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(53).png>)
 
-When you make a token swap (trade) on the [BNB Smart Chain](https://pancakeswap.finance/swap?chain=bsc) or [Ethereum](https://pancakeswap.finance/swap?chain=eth) PancakeSwap Exchange, you will pay trading fees according to the type of liquidity pool your trade is being routed through. You may check the route details by clicking the magnifier icon on the “Route” section.
+При обмене токенов на бирже PancakeSwap в сети [BNB Smart Chain](https://pancakeswap.finance/swap?chain=bsc) или [Ethereum](https://pancakeswap.finance/swap?chain=eth) с тебя будет взиматься торговая комиссия в зависимости от типа пула ликвидности, через который проходит сделка. Детали маршрута можно просмотреть, нажав на значок лупы в разделе «Маршрут».
 
-For Exchange V3 liquidity pools, there are currently four different fee tiers: 0.01%, 0.05%, 0.25%, and 1%.
+Для пулов ликвидности Exchange V3 в настоящее время действует четыре уровня комиссий: 0,01%, 0,05%, 0,25% и 1%.
 
-For StableSwap liquidity pools, the fee rate depends on the individual pool configurations. Please check the “Fee” section for more detail.
+Для пулов ликвидности StableSwap ставка комиссии зависит от конфигурации конкретного пула. Подробнее смотри в разделе «Комиссия».
 
-For Exchange V2 liquidity pools, a fixed 0.25% trading fee is applied, which is broken down as follows:
+Для пулов ликвидности Exchange V2 применяется фиксированная торговая комиссия 0,25%, которая распределяется следующим образом:
 
-* **0.17%** - Returned to Liquidity Pools in the form of a fee reward for liquidity providers.
-* **0.0225%** - Sent to the PancakeSwap Treasury.
-* **0.0575%** - Sent towards CAKE buyback and burn.
+* **0,17%** — возвращается в пулы ликвидности в виде вознаграждения для поставщиков ликвидности.
+* **0,0225%** — отправляется в казначейство PancakeSwap.
+* **0,0575%** — идёт на обратный выкуп и сжигание CAKE.
 
-![](<../../.gitbook/assets/image (277).png>)
+![](<https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(277).png>)
 
-Please note that on [Aptos](https://aptos.pancakeswap.finance/swap), only PancakeSwap Exchange V2 is deployed, therefore all the token swaps on Aptos will have a fixed 0.25% trading fee with the same breakdown as mentioned above.
+Обрати внимание: на [Aptos](https://aptos.pancakeswap.finance/swap) развёрнута только PancakeSwap Exchange V2, поэтому все обмены токенов на Aptos будут иметь фиксированную торговую комиссию 0,25% с тем же распределением, что указано выше.

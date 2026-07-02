@@ -1,8 +1,8 @@
-# 🔀 Crosschain Swaps
+# 🔀 Межсетевые обмены (Crosschain Swaps)
 
-Crosschain Swaps allow users to seamlessly swap tokens between chains — all within a single, streamlined transaction.
+Межсетевые обмены позволяют пользователям беспрепятственно обменивать токены между сетями — всё в рамках одной оптимизированной транзакции.
 
-Crosschain swaps are supported between:
+Межсетевые обмены поддерживаются между следующими сетями:
 
 * BNB Chain
 * Ethereum
@@ -13,61 +13,61 @@ Crosschain swaps are supported between:
 * Linea
 
 {% hint style="success" %}
-**Transactions are lightning-fast — typically completing within seconds to under a minute.**
+**Транзакции выполняются молниеносно — как правило, от нескольких секунд до минуты.**
 {% endhint %}
 
 ***
 
-### 🔍 How It Works
+### 🔍 Как это работает
 
-1. User selects From / To chain and From / To token
-2. The PancakeSwap router computes the most efficient route
-3. Swaps are executed using PancakeSwap’s liquidity pools (v2, v3, Infinity, StableSwaps) on source and destination chains
-4. Bridging is handled via our partner protocols: [Across](https://across.to/) (for EVM <> EVM), [Relay](https://relay.link/bridge) (for SOL <> EVM)
+1. Пользователь выбирает исходную / целевую сеть и токены
+2. Роутер PancakeSwap вычисляет наиболее эффективный маршрут
+3. Обмены исполняются через пулы ликвидности PancakeSwap (v2, v3, Infinity, StableSwaps) в исходной и целевой сетях
+4. Бриджинг осуществляется через партнёрские протоколы: [Across](https://across.to/) (для EVM <> EVM), [Relay](https://relay.link/bridge) (для SOL <> EVM)
 
 {% hint style="success" %}
-**Crosschain swaps are available for any token with adequate liquidity on both the source and destination chains.**
+**Межсетевые обмены доступны для любого токена при наличии достаточной ликвидности как в исходной, так и в целевой сети.**
 {% endhint %}
 
 ***
 
-### 💸 Fees
+### 💸 Комиссии
 
-* **PancakeSwap does not charge any fee for Crosschain transactions.**
-* Fees are comprised of:
-  1. **Trading Fee:** Incurred for swaps within liquidity pools on the source and destination chains
-  2. **Bridge Fee:** Paid to relayers for bridging assets
+* **PancakeSwap не взимает никаких комиссий за межсетевые транзакции.**
+* Комиссии складываются из:
+  1. **Торговая комиссия:** начисляется за обмены внутри пулов ликвидности в исходной и целевой сетях
+  2. **Комиссия за мост:** выплачивается ретрансляторам за бриджинг активов
 
 ***
 
-### 🎯 What Are Intents?
+### 🎯 Что такое интенты (Intents)?
 
-Intents let users define their desired outcome without worrying about how it’s achieved.
+Интенты позволяют пользователям определить желаемый результат, не беспокоясь о том, как он будет достигнут.
 
-Example Intents:
+Примеры интентов:
 
-* “Swap 1 ETH on Base for at least 3000 USDC on Arbitrum”
+* «Обменять 1 ETH на Base на не менее 3000 USDC на Arbitrum»
 
-Without intents, a user would need to manually:
+Без интентов пользователю пришлось бы вручную:
 
-* Bridge ETH to Arbitrum
-* Find a DEX with the best ETH → USDC price
+* Перевести ETH через мост на Arbitrum
+* Найти DEX с лучшей ценой ETH → USDC
 
 {% hint style="success" %}
-**With intents — the system handles it all automatically.**
+**С интентами — система делает всё автоматически.**
 {% endhint %}
 
-**Benefits of intent-based design:**
+**Преимущества дизайна на основе интентов:**
 
-* Seamless UX
-* Faster transaction times
-* One-click, single transactions
+* Удобный UX
+* Более быстрое выполнение транзакций
+* Одно нажатие, одна транзакция
 
 ***
 
-### 🔐 Audits
+### 🔐 Аудиты
 
-We’ve conducted multiple audit rounds with respected names in the cross-chain security space:
+Мы провели несколько раундов аудита с авторитетными специалистами в области межсетевой безопасности:
 
 * [**Pashov Audit Group**](https://developer.pancakeswap.finance/crosschain/pashov-audit.pdf)
 * [**BurraSec**](https://developer.pancakeswap.finance/crosschain/burrasec-audit.pdf)

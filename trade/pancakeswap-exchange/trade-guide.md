@@ -1,73 +1,73 @@
-# How to Trade
+# Как торговать
 
-![](../../.gitbook/assets/how-to-trade-on-pancakeswap-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-trade-on-pancakeswap-header.png)
 
-Trading on PancakeSwap is very easy compared to most exchanges. You aren't going to be overwhelmed by charts or jargon, and trading routes and calculations are all handled for you by the PancakeSwap Smart Router.
+Торговля на PancakeSwap очень проста по сравнению с большинством бирж. Тебя не перегрузят графиками или профессиональным жаргоном, а торговые маршруты и расчёты полностью берёт на себя PancakeSwap Smart Router.
 
-**Getting set up to trade**
+**Подготовка к торговле**
 
-Before you can trade, you will need a wallet that is compatible with BNB Chain or Ethereum. You can learn how to get one [here](https://docs.pancakeswap.finance/get-started/wallet-guide). You will also need to have some BEP-20 or ERC-20 tokens to trade with. You can learn how to get some [here](https://docs.pancakeswap.finance/get-started/bep20-guide).
+Прежде чем начать торговлю, тебе понадобится кошелёк, совместимый с BNB Chain или Ethereum. Как его получить, читай [здесь](https://docs.pancakeswap.finance/get-started/wallet-guide). Также потребуются токены BEP-20 или ERC-20 для торговли. Как их получить — [здесь](https://docs.pancakeswap.finance/get-started/bep20-guide).
 
-Alternatively, you can learn how to get an Aptos-compatible wallet [here](https://docs.pancakeswap.finance/get-started-aptos/wallet-guide), and how to get some Aptos coins to swap within [here](https://docs.pancakeswap.finance/get-started-aptos/aptos-coin-guide).
+Как вариант, можно узнать, как получить кошелёк, совместимый с Aptos, [здесь](https://docs.pancakeswap.finance/get-started-aptos/wallet-guide), а также как пополнить счёт монетами Aptos для обмена — [здесь](https://docs.pancakeswap.finance/get-started-aptos/aptos-coin-guide).
 
-## Trading on the PancakeSwap exchange
+## Торговля на бирже PancakeSwap
 
-1 - Go to the exchange page [here](https://pancakeswap.finance/swap).
-
-
-
-2 - Unlock your wallet by clicking Connect **Wallet** (you can also **Connect** in the top right-hand corner). If you haven't yet connected your wallet to PancakeSwap, you can view the guide [here](https://docs.pancakeswap.finance/get-started/connection-guide).
-
-![](<../../.gitbook/assets/image (200).png>)
+1 - Перейди на страницу биржи [здесь](https://pancakeswap.finance/swap).
 
 
 
-3 - Choose the token you want to trade from the dropdown menu in the upper section. Whichever token you choose, you will need to make sure you have a sufficient amount of them in your wallet to trade with. Your balance is shown above the token dropdown menu.
+2 - Разблокируй свой кошелёк, нажав «Подключить **Кошелёк**» (также можно нажать **Connect** в правом верхнем углу). Если ты ещё не подключал кошелёк к PancakeSwap, ознакомься с руководством [здесь](https://docs.pancakeswap.finance/get-started/connection-guide).
 
-![](<../../.gitbook/assets/image (50).png>)
-
-
-
-4 - Choose the token you want to trade to in the lower section as above.
+![](<https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(200).png>)
 
 
 
-5 - Next, either type an amount in the upper section to input the number of tokens you want to swap (spending amount). Or, type an amount in the lower section to input the number of tokens you want to swap to (receiving amount).&#x20;
+3 - Выбери токен для обмена в выпадающем меню в верхней части. Убедись, что у тебя достаточно выбранного токена в кошельке. Твой баланс отображается над выпадающим меню токенов.
 
-Whichever section you input your amount, the amount in the other section will be estimated automatically.
-
-
-
-6 - Check all the details, and click the **Swap** button.
-
-If you are trading a token for the first time, you may need first to click "Enable XXX (your token)" to approve.
-
-![](<../../.gitbook/assets/image (272).png>)
+![](<https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(50).png>)
 
 
 
-7 - A window with more details will appear. Check the details are correct. When you are ready, click the **Confirm Swap** button. Your wallet will ask you to confirm the action.
-
-![](<../../.gitbook/assets/image (27).png>)
+4 - Выбери токен, который хочешь получить, в нижней части аналогичным образом.
 
 
 
-8 - Done! You can check your transaction on blockchain explorer by clicking the link shown above.
+5 - Затем введи сумму в верхней части (количество токенов для отправки) или в нижней части (количество токенов для получения).&#x20;
 
-![](<../../.gitbook/assets/image (209).png>)
+Какое бы поле ты ни заполнил, второе будет рассчитано автоматически.
 
-## **What is Smart Router V3, and how to use it?**
 
-PancakeSwap Smart Router is a routing algorithm that links V3, V2, StableSwap (BNB Chain), and the AMM and market makers (BNB Chain & Ethereum), to always provide liquidity and pricing. On default, it executes trades across multiple pools to find the best price for traders.
 
-Smart Router is now the default route for PancakeSwap Exchange V3. However, users are free to customize it for their needs.
+6 - Проверь все детали и нажми кнопку **Обменять**.
 
-To learn more about how to customize your trade routes, [click here](fees-and-routes.md).&#x20;
+Если ты обмениваешь токен впервые, возможно, сначала потребуется нажать «Разрешить XXX (твой токен)» для подтверждения.
 
-For more information on StableSwap, [click here](/broken/pages/nNPogTZMxocdyFIBYbkE), and for the Market Maker integration, [click here](market-maker-integration.md).
+![](<https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(272).png>)
+
+
+
+7 - Появится окно с подробностями. Проверь правильность данных. Когда будешь готов, нажми кнопку **Подтвердить обмен**. Кошелёк попросит подтвердить действие.
+
+![](<https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(27).png>)
+
+
+
+8 - Готово! Ты можешь проверить транзакцию в обозревателе блоков, нажав на ссылку выше.
+
+![](<https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(209).png>)
+
+## **Что такое Smart Router V3 и как им пользоваться?**
+
+PancakeSwap Smart Router — это алгоритм маршрутизации, который объединяет V3, V2, StableSwap (BNB Chain), а также AMM и маркет-мейкеров (BNB Chain и Ethereum), чтобы всегда обеспечивать ликвидность и лучшие цены. По умолчанию он выполняет сделки через несколько пулов для поиска наилучшей цены.
+
+Smart Router теперь является маршрутом по умолчанию для PancakeSwap Exchange V3. При этом пользователи могут настраивать его под свои нужды.
+
+Чтобы узнать больше о настройке торговых маршрутов, [нажми здесь](fees-and-routes.md).&#x20;
+
+Подробнее о StableSwap — [здесь](/broken/pages/nNPogTZMxocdyFIBYbkE), об интеграции с маркет-мейкерами — [здесь](market-maker-integration.md).
 
 ## FAQ
 
 {% hint style="info" %}
-This section has migrated [here](../trading-faq/swap-faq.md)
+Этот раздел перенесён [сюда](../trading-faq/swap-faq.md)
 {% endhint %}

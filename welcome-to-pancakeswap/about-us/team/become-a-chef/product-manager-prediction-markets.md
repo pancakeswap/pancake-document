@@ -2,34 +2,34 @@
 hidden: true
 ---
 
-# Product Manager \[Prediction Markets]
+# Продуктовый менеджер \[Рынки прогнозов]
 
-Probable is a zero-fee, on-chain prediction market platform launched on BNB Chain, incubated by PancakeSwap and supported by YZi Labs. It focuses on user-friendly predictions across crypto, sports, global events, and regional markets, with features like automatic token conversion to USDT and outcomes resolved via UMA's Optimistic Oracle.
+Probable — это платформа для on-chain рынков прогнозов без комиссий, запущенная на BNB Chain, инкубированная PancakeSwap и поддерживаемая YZi Labs. Она ориентирована на удобные прогнозы в области крипто, спорта, мировых событий и региональных рынков, с такими функциями, как автоматическая конвертация токенов в USDT и результаты, разрешаемые через Optimistic Oracle от UMA.
 
-As a recently launched project (unveiled in December 2025), Probable appears to operate with a small or integrated team, likely leveraging PancakeSwap's pseudonymous "Kitchen" structure.
+Как недавно запущенный проект (анонсированный в декабре 2025 года), Probable, по всей видимости, работает с небольшой или интегрированной командой, скорее всего, используя псевдонимную структуру «Кухни» PancakeSwap.
 
-Given its incubation by PancakeSwap, product strategy and execution are managed through their existing team. The closest equivalent is PancakeSwap's Product Manager position, which involves end-to-end product development in a DeFi/crypto context.&#x20;
+Учитывая инкубацию со стороны PancakeSwap, продуктовая стратегия и исполнение управляются через их существующую команду. Ближайшим эквивалентом является позиция продуктового менеджера PancakeSwap, предполагающая сквозную разработку продукта в контексте DeFi/крипто.&#x20;
 
-#### Responsibilities
+#### Обязанности
 
-* Collaborate with internal stakeholders (leads, design, devs, bd, marketing, qa, data, ops) to craft future products from 0 to 1.
-* Perform market research and identify potential product use cases.
-* Turn requirements and ideas from other stakeholders into complete designs.
-* Visualise userflow with wireframe and assist design to complete the UI/UX.
-* Assist and work with the dev team to build the product.
-* Resolve product issues with qa team.
-* Plan GTM strategies and campaigns with marketing team.
-* Coordinate with external members from partners.
-* Help ops team to perform product deployment.
-* Analyse data and improve product experience with data team.
-* Gather info, provide options to other stakeholders to make critical decisions when needed.
-* Able to work remotely, autonomously with great self initiative.
+* Сотрудничать с внутренними заинтересованными сторонами (руководителями, дизайном, разработчиками, BD, маркетингом, QA, данными, операциями) для создания будущих продуктов с нуля до запуска.
+* Проводить маркетинговые исследования и выявлять потенциальные сценарии использования продукта.
+* Преобразовывать требования и идеи от других заинтересованных сторон в полные дизайны.
+* Визуализировать пользовательский поток с помощью вайрфреймов и помогать дизайну в завершении UI/UX.
+* Помогать команде разработки в создании продукта.
+* Решать проблемы продукта с командой QA.
+* Планировать GTM-стратегии и кампании с командой маркетинга.
+* Координировать работу с внешними участниками от партнёров.
+* Помогать операционной команде в развёртывании продукта.
+* Анализировать данные и улучшать продуктовый опыт с командой данных.
+* Собирать информацию, предоставлять варианты другим заинтересованным сторонам для принятия критических решений при необходимости.
+* Умение работать удалённо, самостоятельно с высокой самомотивацией.
 
-#### Skills & Qualifications
+#### Навыки и квалификация
 
-* 3+ years experience in Crypto/DeFi/DEX and financial services/products.
-* Experience in full flow of product development. Nice to Have.
-* Technical background of blockchain and Web3 (to assist dev team to plan ahead when designing products. Think inside of the blockchain limitations, but think outside of the box for solutions).
-* Skills for blockchain deep dive, tx debug (to better assist qa and ops).
-* Figma skills (to build pretty mock-ups on your own with a design system).
-* Mandarin (to communicate with some other skillful bunnies).
+* 3+ лет опыта в крипто/DeFi/DEX и финансовых услугах/продуктах.
+* Опыт полного цикла разработки продукта. Желательно:
+* Технический бэкграунд в блокчейне и Web3 (для помощи команде разработки при планировании продуктов. Думать в рамках ограничений блокчейна, но нестандартно искать решения).
+* Навыки глубокого погружения в блокчейн, отладки транзакций (для лучшей помощи QA и операциям).
+* Навыки Figma (для создания красивых макетов самостоятельно с дизайн-системой).
+* Мандарин (для общения с некоторыми другими умелыми кроликами).

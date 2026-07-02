@@ -1,56 +1,56 @@
-# Fees and Routes
+# Комиссии и маршруты
 
-<figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2861%29.png" alt=""><figcaption></figcaption></figure>
 
-In Exchange V3, on default, PancakeSwap Smart Router will utilize liquidity from V3, V2, StableSwap (BNB Chain), and the AMM and market makers (BNB Chain & Ethereum), to execute trades and find the best price for traders.
+В Exchange V3 Smart Router PancakeSwap по умолчанию использует ликвидность из V3, V2, StableSwap (BNB Chain), а также AMM и маркет-мейкеров (BNB Chain и Ethereum) для исполнения сделок и поиска лучшей цены для трейдеров.
 
-However, users are always able to customize their trade by choosing which liquidity sources the router shall utilize, and enable or disable multihops and split routing.
+Тем не менее пользователи всегда могут настроить торговлю, выбирая источники ликвидности для роутера, а также включая или отключая мультихопы и разделение маршрутов.
 
-### **Check the fee rate and fee amount that is currently applied**
+### **Проверка ставки и суммы комиссии**
 
-![](<../../.gitbook/assets/image (182).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28182%29.png)
 
-To check how much trading will be charged on your current swap, check out the “Fee” section in the swap detail section.
+Чтобы узнать, сколько будет взиматься за текущий обмен, проверь раздел «Fee» в блоке деталей обмена.
 
-![](<../../.gitbook/assets/image (296).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28296%29.png)
 
-To check which type of pool and the fee tier your trade is currently routed through, check out the “Route” section.
+Чтобы узнать тип пула и уровень комиссии, через который маршрутизируется твоя сделка, проверь раздел «Route».
 
-![](<../../.gitbook/assets/image (265).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28265%29.png)
 
-To learn more detail, click the magnifier icon to bring out the full trading route displays.
-
-
-
-### **Customize liquidity sources**
-
-![](<../../.gitbook/assets/image (289).png>)
-
-At the top of the “Customize Routing” interface, you may choose which liquidity source the route shall use while routing your trade. To bring up this interface, you can:
-
-* Click “Customize Routing” at the bottom of the trading route displays.
-* Click the cog icon in the swap interface, and then click “Customize Routing” at the bottom.
-
-By default, all of the liquidity sources are enabled and Smart Router will take full advantage of all the available liquidities within PancakeSwap.
-
-Please note that the router will NOT route trades between AMM liquidity pools and MM market makers. When your trade is executed by MM market makers, it will not go through any AMM liquidity pools.
-
-![](<../../.gitbook/assets/image (199).png>)
-
-You can click the “Reset” button on the top right-hand corner to reset the configurations to default.
+Для получения подробной информации нажми на значок лупы, чтобы отобразить полный маршрут торговли.
 
 
 
-### **Customize routing preferences**
+### **Настройка источников ликвидности**
 
-![](<../../.gitbook/assets/image (129).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28289%29.png)
 
-At the bottom of the “Customize Routing” interface, you can customize your routing preferences by enabling or disabling multihops and split routing.
+В верхней части интерфейса «Customize Routing» ты можешь выбрать, какой источник ликвидности роутер будет использовать при маршрутизации твоей сделки. Чтобы открыть этот интерфейс, можно:
 
-Multihops allow tokens to swap through multiple hops between serval liquidity pools to achieve the best deal. Turning it off will restrict trades to direct swaps, which may cause higher slippage or even fund loss.
+* Нажать «Customize Routing» в нижней части отображения торгового маршрута.
+* Нажать значок шестерёнки в интерфейсе обмена, а затем нажать «Customize Routing» внизу.
 
-Split routing enables token swaps to be broken into multiple routes to achieve the best deal. Turning it off will restrict trades from being executed with a single route, which may result in low efficiency or higher slippage.
+По умолчанию все источники ликвидности включены, и Smart Router использует всю доступную ликвидность PancakeSwap в полном объёме.
+
+Обрати внимание, что роутер НЕ будет маршрутизировать сделки между пулами ликвидности AMM и маркет-мейкерами MM. Если твоя сделка исполняется маркет-мейкерами MM, она не пройдёт через пулы ликвидности AMM.
+
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28199%29.png)
+
+Ты можешь нажать кнопку «Reset» в правом верхнем углу, чтобы сбросить настройки до значений по умолчанию.
+
+
+
+### **Настройка параметров маршрутизации**
+
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28129%29.png)
+
+В нижней части интерфейса «Customize Routing» ты можешь настроить параметры маршрутизации, включая или отключая мультихопы и разделение маршрутов.
+
+Мультихопы позволяют токенам проходить через несколько переходов между различными пулами ликвидности для достижения лучшей цены. Отключение этой опции ограничит сделки прямыми обменами, что может привести к более высокому проскальзыванию или даже к потере средств.
+
+Разделение маршрутов позволяет разбить обмен токенов на несколько маршрутов для достижения лучшей цены. Отключение этой опции ограничит сделки одним маршрутом, что может снизить эффективность или увеличить проскальзывание.
 
 {% hint style="warning" %}
-When your trade can not be executed due to a customized trading configuration, a warning will appear, you can click “Check your settings” to quickly bring up the“Customize Routing” interface. Or choose “Reset to default” to quickly reset your configurations back to default.
+Если сделка не может быть исполнена из-за настроенной конфигурации торговли, появится предупреждение. Ты можешь нажать «Check your settings», чтобы быстро открыть интерфейс «Customize Routing», или выбрать «Reset to default» для быстрого сброса настроек к значениям по умолчанию.
 {% endhint %}

@@ -1,26 +1,26 @@
-# Product Manager
+# Продуктовый менеджер
 
-**Job Overview:**
+**Обзор вакансии:**
 
-We are seeking a dynamic Product Manager to join our team. In this role, you will be responsible for defining, developing, and executing product strategies that enhance user experience and drive growth. You will work closely with cross-functional teams including engineering, design, marketing, and community to ensure the successful launch and ongoing improvement of our products.
+Мы ищем динамичного продуктового менеджера для нашей команды. В этой роли ты будешь отвечать за определение, разработку и реализацию продуктовых стратегий, улучшающих пользовательский опыт и стимулирующих рост. Ты будешь тесно работать с кросс-функциональными командами, включая разработку, дизайн, маркетинг и сообщество, для обеспечения успешного запуска и постоянного улучшения наших продуктов.
 
-**Key Responsibilities:**
+**Ключевые обязанности:**
 
-* **Product Strategy:** Define and communicate the product vision, strategy, and roadmap aligned with the company’s goals.
-* **Market Research:** Conduct competitive analysis and user research to identify trends, customer needs, and opportunities for innovation.
-* **Collaboration:** Work closely with engineering and design teams to deliver high-quality products on time. Facilitate communication between teams to ensure alignment.
-* **User-Centric Design:** Advocate for user experience by incorporating user feedback and usability testing into product development.
-* **Performance Metrics:** Establish and track key performance indicators (KPIs) to measure product success and inform decision-making.
-* **Stakeholder Engagement:** Collaborate with marketing and community teams to develop go-to-market strategies and ensure product adoption.
-* **Continuous Improvement:** Monitor product performance and iterate based on user feedback and market trends.
+* **Продуктовая стратегия:** Определять и коммуницировать видение продукта, стратегию и дорожную карту, согласованные с целями компании.
+* **Маркетинговые исследования:** Проводить конкурентный анализ и исследование пользователей для выявления тенденций, потребностей клиентов и возможностей для инноваций.
+* **Сотрудничество:** Тесно работать с командами разработки и дизайна для своевременной поставки высококачественных продуктов. Обеспечивать коммуникацию между командами для поддержания согласованности.
+* **Дизайн, ориентированный на пользователя:** Отстаивать пользовательский опыт, включая отзывы пользователей и тестирование удобства использования в разработку продукта.
+* **Метрики эффективности:** Устанавливать и отслеживать ключевые показатели эффективности (KPI) для измерения успеха продукта и информирования принятия решений.
+* **Вовлечение заинтересованных сторон:** Сотрудничать с командами маркетинга и сообщества для разработки GTM-стратегий и обеспечения принятия продукта.
+* **Непрерывное улучшение:** Отслеживать эффективность продукта и итерировать на основе отзывов пользователей и рыночных тенденций.
 
-**Qualifications:**
+**Квалификация:**
 
-* 2+ years of experience in product management, preferably in the blockchain and Defi fintech space.
-* Strong understanding of DeFi concepts, cryptocurrency markets, and decentralized applications and smart contract
-* Proficiency in product management tools (e.g., Jira, Trello) and analytics platforms (e.g., Google Analytics, Mixpanel).
-* Passion for blockchain technology and a keen interest in emerging trends in the crypto space.
+* 2+ лет опыта в управлении продуктом, предпочтительно в блокчейне и DeFi финтех-пространстве.
+* Глубокое понимание концепций DeFi, крипто-рынков, децентрализованных приложений и смарт-контрактов.
+* Владение инструментами управления продуктом (например, Jira, Trello) и аналитическими платформами (например, Google Analytics, Mixpanel).
+* Страсть к технологии блокчейн и живой интерес к новым тенденциям в крипто-пространстве.
 
 
 
-**How to Apply:** Shoot your resume over to hiring@pancakeswap.com, we’d love to hear from you!
+**Как подать заявку:** Отправь своё резюме на hiring@pancakeswap.com, мы будем рады тебя услышать!

@@ -1,38 +1,37 @@
-# 🔁 Swap Scenarios
+# 🔁 Сценарии обмена
 
-There are 4 scenarios for Crosschain transactions.
+Для межсетевых транзакций существует 4 сценария.
 
-#### 1️⃣ Bridge Only
+#### 1️⃣ Только мост (Bridge Only)
 
-* Example: **Bridge ETH on Base to ETH on Arbitrum**
-* Only supported tokens (USDC, USDT, WETH, etc) can be bridged directly. These tokens vary by source and destination chain.
+* Пример: **Перевести ETH из Base в ETH на Arbitrum**
+* Только поддерживаемые токены (USDC, USDT, WETH и др.) можно переводить напрямую через мост. Набор токенов варьируется в зависимости от исходной и целевой сети.
 
-#### 2️⃣ Swap → Bridge
+#### 2️⃣ Обмен → Мост (Swap → Bridge)
 
-* Example: **Swap BNB on BNB Chain to USDC on Arbitrum**
-* Swap BNB to a supported bridge token (e.g. USDC) using PancakeSwap pools on BNB chain
-* Bridge USDC via Across to Arbitrum
+* Пример: **Обменять BNB на BNB Chain на USDC на Arbitrum**
+* Обменять BNB на поддерживаемый токен моста (например, USDC) через пулы PancakeSwap на BNB Chain
+* Перевести USDC через Across на Arbitrum
 
-#### 3️⃣ Bridge → Swap
+#### 3️⃣ Мост → Обмен (Bridge → Swap)
 
-* Example: **Swap USDC on BNB Chain to ARB on Arbitrum**
-* Bridge USDC via Across
-* Swap USDC to ARB using PancakeSwap pools on Arbitrum
+* Пример: **Обменять USDC на BNB Chain на ARB на Arbitrum**
+* Перевести USDC через Across
+* Обменять USDC на ARB через пулы PancakeSwap на Arbitrum
 
-#### 4️⃣ Swap → Bridge → Swap
+#### 4️⃣ Обмен → Мост → Обмен (Swap → Bridge → Swap)
 
-* Example: **Swap BNB on BNB Chain to ARB on Arbitrum**
-* Swap BNB to a bridge token (maximizing user output)
-* Bridge via Across
-* Swap bridged token to ARB on Arbitrum using PancakeSwap pools
+* Пример: **Обменять BNB на BNB Chain на ARB на Arbitrum**
+* Обменять BNB на токен моста (с максимизацией выхода для пользователя)
+* Перевести через Across
+* Обменять переведённый токен на ARB на Arbitrum через пулы PancakeSwap
 
 ***
 
-### ⚠️ Fail Cases
+### ⚠️ Случаи сбоев
 
-| Scenario                              | Outcome                                                                                                                                                                                         |
-| ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Swap/Tx Failure on Source Chain**   | User instantly receives the original token on source chain                                                                                                                                      |
-| **Bridge Tx Failure**                 | Across processes a refund within 90 mins to 2 hours, and user receives the bridged asset on source chain. While Relay processes the refund within a minute in such scenario between SOL <> EVM. |
-| **Swap Failure on Destination Chain** | User receives the bridged asset on the destination chain                                                                                                                                        |
-
+| Сценарий                                        | Результат                                                                                                                                                                                                                          |
+| ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Сбой обмена/транзакции в исходной сети**      | Пользователь мгновенно получает обратно исходный токен в исходной сети                                                                                                                                                             |
+| **Сбой транзакции через мост**                  | Across обрабатывает возврат в течение 90 минут — 2 часов, и пользователь получает переведённый актив обратно в исходной сети. Relay при сбое между SOL <> EVM обрабатывает возврат в течение минуты. |
+| **Сбой обмена в целевой сети**                  | Пользователь получает переведённый актив в целевой сети                                                                                                                                                                            |

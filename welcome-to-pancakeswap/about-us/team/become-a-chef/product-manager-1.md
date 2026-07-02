@@ -2,38 +2,38 @@
 hidden: true
 ---
 
-# Product Manager
+# Продуктовый менеджер
 
-#### General Information
+#### Общая информация
 
-* Salary range: Competitive, negotiable
-* Position: Full-time
-* Location: Remote
-* Time-zone preference: Any
+* Уровень зарплаты: Конкурентный, по договорённости
+* Занятость: Полная
+* Местонахождение: Удалённо
+* Предпочтение по часовому поясу: Любой
 
-#### Your Responsibilities
+#### Твои обязанности
 
-* Collaborate with internal stakeholders (leads, design, devs, bd, marketing, qa, data, ops) to craft future PancakeSwap products from 0 to 1
+* Сотрудничать с внутренними заинтересованными сторонами (руководителями, дизайном, разработчиками, BD, маркетингом, QA, данными, операциями) для создания будущих продуктов PancakeSwap с нуля до запуска
 
-#### Skills & Qualifications
+#### Навыки и квалификация
 
-* 3+ years experience in Crypto/DeFi/DEX and financial services/products.
-* Experience in full flow of product development, including:
-  * Perform market research and identify potential product usecases.
-  * Turn requirements and ideas from other stakeholders in to complete designs.
-  * Visualise userflow with wireframe and assist design to complete the UI/UX.
-  * Assist and work with the dev team to build the product.
-  * Resolve product issues with qa team.
-  * Plan GTM strategies and campaigns with marketing team.
-  * Coordinate with external members from partners.
-  * Help ops team to perform product deployment.
-  * Analyse data and improve product experience with data team.
-* Gather info, provide options to other stakeholders to make critical decisions when needed.
-* Able to work remotely, autonomously with great self initiative.
+* 3+ лет опыта в крипто/DeFi/DEX и финансовых услугах/продуктах.
+* Опыт полного цикла разработки продукта, включая:
+  * Проведение маркетинговых исследований и выявление потенциальных сценариев использования продукта.
+  * Преобразование требований и идей от других заинтересованных сторон в полные дизайны.
+  * Визуализация пользовательского потока с помощью вайрфреймов и помощь дизайну в завершении UI/UX.
+  * Помощь команде разработки в создании продукта.
+  * Решение проблем продукта с командой QA.
+  * Планирование GTM-стратегий и кампаний с командой маркетинга.
+  * Координация с внешними участниками от партнёров.
+  * Помощь операционной команде в развёртывании продукта.
+  * Анализ данных и улучшение продуктового опыта с командой данных.
+* Сбор информации, предоставление вариантов другим заинтересованным сторонам для принятия критических решений при необходимости.
+* Умение работать удалённо, самостоятельно с высокой самомотивацией.
 
-#### Nice to Have
+#### Желательно
 
-* Technical background of blockchain and Web3. (to assist dev team to plan ahead when designing products. Think inside of the blockchain limitations, but think outside of the box for solutions)
-* Skills for blockchain deep dive, tx debug (to better assist qa and ops)
-* Figma skills (to build pretty mock-ups on your own with a design system)
-* Mandarin (to communicate with some other skillful bunnies)
+* Технический бэкграунд в блокчейне и Web3 (для помощи команде разработки при планировании продуктов. Думать в рамках ограничений блокчейна, но нестандартно искать решения)
+* Навыки глубокого погружения в блокчейн, отладки транзакций (для лучшей помощи QA и операциям)
+* Навыки Figma (для создания красивых макетов самостоятельно с дизайн-системой)
+* Мандарин (для общения с некоторыми другими умелыми кроликами)

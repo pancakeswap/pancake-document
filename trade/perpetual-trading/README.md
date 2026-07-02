@@ -1,6 +1,5 @@
-# 📈 Perpetual Trading
+# 📈 Бессрочная торговля
 
-The PancakeSwap team has partnered with Aster to bring a fully rebuilt perpetuals experience to PancakeSwap. Trade your favorite pairs directly from your wallet — no intermediaries, no bridging, no account setup. Just fast, onchain execution within reach.
+Команда PancakeSwap заключила партнёрство с Aster, чтобы предоставить полностью обновлённый опыт бессрочной торговли на PancakeSwap. Торгуй любимыми парами прямо из своего кошелька — без посредников, без бриджинга, без создания аккаунта. Просто быстрое исполнение ончейн, которое всегда под рукой.
 
-And yes — trading on PCS Perps contributes to CAKE burn. 🔥
-
+И да — торговля на PCS Perps способствует сжиганию CAKE. 🔥

@@ -1,16 +1,15 @@
-# What is Perpetual Trading?
+# Что такое бессрочная торговля?
 
-### **What are Perpetuals?**
+### **Что такое бессрочные контракты?**
 
-Perpetuals, perpetual swaps, or perps are a special type of futures contract without an expiration date.
+Бессрочные контракты, бессрочные свопы или perps — это особый вид фьючерсных контрактов без даты истечения.
 
-Futures trading allows users to enter positions on margin (leverage) using borrowed funds to optimize capital. Using leverage allows a user to enter a position with a larger size than their account balance. For example, a user could take 10× leverage and trade 100 CAKE for the price of 10 CAKE — in this case, the initial margin would be 10 CAKE, used to collateralize the leveraged position.
+Торговля фьючерсами позволяет пользователям входить в позиции с маржой (кредитным плечом), используя заёмные средства для оптимизации капитала. Использование кредитного плеча позволяет открыть позицию объёмом больше, чем баланс счёта. Например, пользователь может взять кредитное плечо 10× и торговать 100 CAKE по цене 10 CAKE — в этом случае начальная маржа составит 10 CAKE, которые используются как залог для позиции с плечом.
 
-In addition to leverage, futures open the possibility of trading in both directions — buying (long) and selling (short). Perpetual contracts don't expire and allow the holder to trade the price action of an underlying asset without owning it.
+Помимо кредитного плеча, фьючерсы открывают возможность торговать в обоих направлениях — покупать (лонг) и продавать (шорт). Бессрочные контракты не истекают и позволяют держателю торговать ценовым движением базового актива, не владея им.
 
-### **Perpetuals on PancakeSwap**
+### **Бессрочные контракты на PancakeSwap**
 
-PancakeSwap has offered perpetuals trading since V1. Our latest version — PCS Perps — is powered by Aster's orderbook infrastructure and represents a full rebuild of the experience: CEX-grade execution, up to 200× leverage, and a PCS-native frontend accessible directly from your wallet.
+PancakeSwap предлагает Бессрочную торговлю начиная с V1. Наша последняя версия — PCS Perps — работает на инфраструктуре ордербука Aster и представляет собой полную переработку интерфейса: исполнение CEX-уровня, кредитное плечо до 200× и нативный для PCS фронтенд, доступный прямо из твоего кошелька.
 
-Previous versions (V1 and V2) are now legacy products.
-
+Предыдущие версии (V1 и V2) теперь являются устаревшими продуктами.
