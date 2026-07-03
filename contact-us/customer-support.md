@@ -1,6 +1,6 @@
 # Customer Support
 
-![](../.gitbook/assets/customer-support-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/customer-support-header.png)
 
 ## There is NO customer support for PancakeSwap.
 

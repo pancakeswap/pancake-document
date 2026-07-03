@@ -1,6 +1,6 @@
 # Create a Wallet
 
-![](../.gitbook/assets/how-to-make-a-crypto-wallet-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-make-a-crypto-wallet-header.png)
 
 To get started on PancakeSwap, the first thing you'll need is to set up a wallet that supports BNB Smart Chain (BSC). Wallets are available both on desktop computers and on smartphone devices. You'll need to choose the wallet that fits your needs best.
 
@@ -50,7 +50,7 @@ You can find more in-depth information about each wallet below, as well as downl
 
 {% tabs %}
 {% tab title="Trust Wallet" %}
-![](<../.gitbook/assets/image (36).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2836%29.png)
 
 Trust Wallet is a popular wallet for smart devices. It supports DApps, NFT collectibles (with Opensea.io support), and in-wallet staking.
 
@@ -74,7 +74,7 @@ Trust Wallet is a popular wallet for smart devices. It supports DApps, NFT colle
 {% endtab %}
 
 {% tab title="MetaMask" %}
-![](<../.gitbook/assets/image (33) (3) (4) (5) (1) (2) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2833%29%20%283%29%20%284%29%20%285%29%20%281%29%20%282%29%20%281%29.png)
 
 MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethereum network) and BEP2 & BEP20 (Binance Chain and BNB Smart Chain networks).
 
@@ -100,7 +100,7 @@ MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethe
 {% endtab %}
 
 {% tab title="Coinbase Wallet" %}
-![](<../.gitbook/assets/coinbase\_wallet\_wordmark\_blue (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/coinbase%5C_wallet%5C_wordmark%5C_blue%20%281%29.png)
 
 Millions of users choose Coinbase Wallet to earn yield with DeFi, swap more than 5,500 assets, and hold their NFT collections. Coinbase wallet supports BEP2 & BEP20 (Binance Chain and BNB Smart Chain networks).
 
@@ -125,7 +125,7 @@ _Coinbase Wallet is a self-custody wallet providing software services subject to
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](<../.gitbook/assets/image (125) (3) (4) (1) (2) (1) (3).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28125%29%20%283%29%20%284%29%20%281%29%20%282%29%20%281%29%20%283%29.png)
 
 Token Pocket is a cryptocurrency management app that natively supports many cryptocurrency networks. It also has a desktop application available.
 
@@ -200,7 +200,7 @@ Now you have your private key ready to import your wallet into the desktop versi
 {% endtab %}
 
 {% tab title="SafePal" %}
-![](<../.gitbook/assets/image (26) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2826%29%20%281%29.png)
 
 SafePal is available as both a software and hardware wallet. The wallet is easy to install and create, and comes ready to support BEP2 (Binance Chain) and BEP20 (BNB Smart Chain) right away.
 
@@ -249,7 +249,7 @@ You can find more in-depth information about each wallet below, as well as downl
 
 {% tabs %}
 {% tab title="MetaMask" %}
-![](<../.gitbook/assets/image (33) (3) (4) (5) (1) (2) (1) (4).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2833%29%20%283%29%20%284%29%20%285%29%20%281%29%20%282%29%20%281%29%20%284%29.png)
 
 MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethereum network) by default, and BEP2 & BEP20 (Binance Chain and BNB Smart Chain networks) with a little work.
 
@@ -274,7 +274,7 @@ MetaMask is a very popular browser-based wallet plugin that supports ERC20 (Ethe
 {% endtab %}
 
 {% tab title="Binance Wallet" %}
-![](<../.gitbook/assets/image (39).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2839%29.png)
 
 Binance Wallet is a browser-plugin wallet that natively supports the Binance Chain (BEP2) BNB Smart Chain (BEP20) networks. Binance Wallet was developed by the Binance cryptocurrency exchange.
 
@@ -299,7 +299,7 @@ Binance Wallet is a browser-plugin wallet that natively supports the Binance Cha
 {% endtab %}
 
 {% tab title="Coinbase Wallet" %}
-![](<../.gitbook/assets/coinbase\_wallet\_wordmark\_blue (2) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/coinbase%5C_wallet%5C_wordmark%5C_blue%20%282%29%20%281%29.png)
 
 Millions of users choose Coinbase Wallet to earn yield with DeFi, swap more than 5,500 assets, and hold their NFT collections. Coinbase wallet supports ERC20 (Ethereum network) and BEP2 & BEP20 (Binance Chain and BNB Smart Chain networks).
 
@@ -329,7 +329,7 @@ _Coinbase Wallet is a self-custody wallet providing software services subject to
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](<../.gitbook/assets/image (125) (3) (4) (1) (2) (1) (2).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28125%29%20%283%29%20%284%29%20%281%29%20%282%29%20%281%29%20%282%29.png)
 
 Token Pocket is a standalone application available for both Mac OS and Win64 devices. Token Pocket allows you to manage your cryptocurrency in software independent of your browser.
 

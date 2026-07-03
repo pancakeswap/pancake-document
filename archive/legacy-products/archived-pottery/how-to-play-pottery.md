@@ -1,0 +1,59 @@
+# Potteryのプレイ方法
+
+{% hint style="danger" %}
+\[アーカイブ済み] Pottery – 2023年11月3日をもって
+{% endhint %}
+
+PancakeSwapのPotteryは、CAKEをロックしてステーキングプールにステーキングするだけでなく、CAKEを積み上げる別の方法です。このガイドではPancakeSwapウェブUIで参加する方法を説明します。
+
+プロダクトの構造、リスク、手数料については[PancakeSwap Potteryのこちら](https://docs.pancakeswap.finance/products/pottery)をご覧ください。
+
+## Potteryコホートへの参加を検討する
+
+新しいPotteryコホートは毎月最初の月曜日に作成されます。各コホートでは預けられたCAKEの量が異なり、週次賞金プールと当選確率に影響します。そのコホートにロックされている総価値が大きいほど週次賞金プールは大きくなりますが、同じCAKEのデポジットサイズでも当選確率が下がる場合があります。デポジットパネルから預けられたCAKEの量と当選確率を確認できます：
+
+![](https://lh5.googleusercontent.com/vyCTJ8XmLl4WARKHQTDzJjeX-JDLzZBiGvnO404UIuEMyrBWhAHnyWJQfC3CCz-gCVXpUs3oUGW4L7bdzaUu7X1pZV2swn6wGQA8a7HBD5NkPViHnPfG89xsCaQy6wg0rJeYgEN18ztoMqhLA)
+
+## Potteryコホートが開かれているときにデポジットする
+
+各Potteryコホートのデポジットは月に一度開かれます。デポジットは毎月最初の月曜日の23:59 UTCに締め切られ、前の金曜日の約10:00 UTCから開かれます。これはすべてのデポジットを一括してロックステーキングに预けることで、効率的なステーキング報酬の管理と配分を可能にするためです。それ以外の時間には次のように表示されます：
+
+![](https://lh4.googleusercontent.com/FZDvRS3D6RaeIwLiWAjfeMXZHN3ZBvjRvg-174b_cWds816Ixyq4rw7ZgFrxgOVtPcbaZVjt4AyiNUjxt5tNl9TgmHUIsqgrCWGB1WlAd4GmZoUsrGy5prFalV87rgTLHrtkalVN0HkS7EfsUlyhPqg)
+
+— これはデポジットが次の月の最初の月曜日の前の金曜日まで締め切られていることを意味します。デポジットが開かれている場合は次のように表示されます：
+
+![](https://lh5.googleusercontent.com/_TqVUlNGtnGvGz_wysnq-KmewS_CjmUJ0jMHwzRMLx47Rmq-x868M0q-iBXCqynotDqz3mxnUZovExx4bUb8BBv3W6OXl4u4pJWFmOz__IYASvQ_hgmccB3GPaL1oz4TutJr3PTwdz_2NoVzmnpkcD0)
+
+— この場合、APR、ロックされた総価値、当選確率が許容範囲内であれば、CAKEを预けてPotteryに参加できます。デポジット前に参加のリスクを完全に理解してください！すべてのデポジットはいかなる状況でも早期引き出しなしに10週間ロックされます。[リスクと手数料についての詳細はこちら](https://docs.pancakeswap.finance/products/pottery)をご覧ください。
+
+## **デポジットを確認する**
+
+デポジット後、Claimパネルで総デポジットと各コホートのデポジットを確認できます：
+
+![](https://lh3.googleusercontent.com/4-WegkRka1XNJS7KwB43rbk557A2mOZJVufIDZVgMsoTBdCMZszZ3rHUnrrmlpkxEEhf1DHGUmZDYo6gbzzHOHnBpfnbJf-DwISlg)
+
+サブグラフの読み込みにより遅延が生じることがあります。遅延がある場合は通知が表示されます — 通常は15分後に再確認すると正しい量が表示されます。引き出しボタンはロック日から10週間後のみ点灯して利用可能になります。
+
+## 毎週の抽選後に結果を確認する
+
+各金曜日の約UTC正午の抽選後、Finished Roundsパネルで結果と当選者を確認できます：
+
+![](https://lh3.googleusercontent.com/ClT6Dx6rJlfFmzmyxwCCwIUsDv-DuhzVAWN5Qt0sOulj2_z8_79lpw8-wuJJLf-Y8M5MNlOrjN3qvPPOb81HGKNbk1EtdbnBmieRSZ66G8krr8GUWc2s5SDw)
+
+抽選日に基づいて、確認したいコホートの対応するラウンドを見つけてください — 各金曜日には異なるコホートがあるため複数の抽選が行われる場合があります。探しているコホートの正しい抽選を確認してください。[コホート構造についての詳細はこちら](https://docs.pancakeswap.finance/products/pottery#pottery-cohort)をご覧ください。
+
+## 賞金を請求する
+
+週次抽選で当選したかどうかを確認するもう一つの方法は、Claimパネルで請求できる賞金があるかどうかを確認することです：
+
+![](https://lh5.googleusercontent.com/CjFh9_5a7PDrCgz7_F4puNVwbLJj6n0nWT_XBUXsnQQrFcDzqBL2SV-Rw2TY2kLrVveEcCfBhrk_62QVZhM_maDwwSWCpqp8eCHhN0aAPphCk4BFMJNk78GOsrQ-Kem-5lhBRkM04vBdZwwBOwNmiw4Aw)
+
+賞金がある場合、Claimボタンをクリックして承認するトランザクションで賞金を請求できます。BNB Smart Chainで賞金を請求するためにガス手数料が必要なことに注意してください。
+
+## 10週間後に引き出す
+
+コホートのデポジットとロック日から10週間後、Claimパネルでデポジットを引き出すことができ、引き出しボタンが点灯します：
+
+![](https://lh6.googleusercontent.com/1LeGKpa30KvmyKDKN5o54K_HjJAVPyJhIeEmCXQzC8pDJGAJQ1kz89iKdoOwIXH2xOE9nin5r47dCiZvAlluTkOfwf1FfQ5gZ4MtMahGiRZ0TT4sSyOpsUKWOqZxKPnMYeLtZ9F3OuRlaRO_sqr6Lvo)
+
+Withdrawボタンをクリックして承認するトランザクションで賞金を引き出すことができます。BNB Smart Chainで賞金を引き出すためにガス手数料が必要なことに注意してください。
