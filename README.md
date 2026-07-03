@@ -1,83 +1,78 @@
-# PancakeSwap Intro
+# プロダクト概要
 
-![](.gitbook/assets/intro-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/intro-header.png)
 
 {% hint style="success" %}
-**PancakeSwap helps you make the most out of your crypto in three ways:**
+**PancakeSwapは、あなたの暗号資産を最大限に活用するための3つの方法を提供しています：**
 
-**Trade, Earn, and Win.**
+**取引、稼ぐ、そして勝つ。**
 {% endhint %}
 
-## ↔️ Trade
+## 取引
 
-> Instantly swap crypto tokens: no registration or account needed.
+> 暗号資産トークンを即時にスワップできます：登録やアカウントは不要です。
 
-### The people's choice
+### みんなの選択
 
-PancakeSwap is the leading decentralized exchange on BNB Smart Chain, with the highest trading volumes in the market (sources: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
+PancakeSwapは主要な分散型取引所です。BNB Chain、Ethereum、Solana、Base、Arbitrum、Aptos、ZKsync、Linea、Monad、opBNBの10チェーンで利用可能で、市場最高の取引量を誇ります（参考：[1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)）。
 
-### Low fees
+### 低手数料
 
-Why pay more? PancakeSwap runs on BNB Smart Chain, a blockchain with much lower transaction costs than Ethereum or Bitcoin.\
-Trading fees are lower than other top decentralized exchanges too, so that's a double win for you!
+なぜ余分に支払う必要があるのでしょうか？\
+取引手数料は他のトップ分散型取引所よりも低く設定されており、あなたにとって大変お得です！
 
-### Decentralized
+### 分散型
 
-Trade directly from your wallet app.\
-Unlike centralized exchanges like Binance or Coinbase, PancakeSwap doesn’t hold your funds when you trade: **you have 100% ownership of your own crypto**.
+ウォレットアプリから直接取引できます。\
+BinanceやCoinbaseのような中央集権型取引所とは異なり、PancakeSwapは取引時にあなたの資金を保有しません：**あなたは自分の暗号資産を100%所有しています**。
 
-## 💸 Earn
+## 稼ぐ
 
-> Earn CAKE and other tokens for free with super high interest rates.
+> 超高金利でCAKEやその他のトークンを無料で獲得できます。
 
-### Earn tokens with Syrup Pools
+### シロッププールでトークンを獲得
 
-Stake CAKE, earn free tokens. It’s really that easy.\
-CAKE holders right now are earning tens of millions of USD worth of free tokens each week from major projects. New projects join the party frequently, so you can earn more, for even longer.
+CAKEをステーキングして、無料トークンを獲得しましょう。本当にそれだけです。\
+現在のCAKEホルダーは、主要プロジェクトから毎週数千万ドル相当の無料トークンを獲得しています。新しいプロジェクトが頻繁に参加しているため、より多く、より長く稼ぎ続けることができます。
 
-### Earn CAKE with Yield Farms
+### イールドファーミングでCAKEを獲得
 
-Stake LP tokens, earn CAKE. You take on a little more exposure to market fluctuations than with the Syrup Pools, but can earn higher APR to offset the risk.
+LPトークンをステーキングして、CAKEを獲得しましょう。シロッププールと比べて市場変動へのエクスポージャーが若干高くなりますが、リスクを相殺するためにより高いAPRを獲得できます。
 
-### Earn Trading Fees
+### 取引手数料を獲得
 
-No farm? No problem. Even if your trading pair isn’t supported on the Farms page, you can still earn trading fees when you stake your tokens in Liquidity Pools (LPs).
+ファームがなくても問題ありません。ファームページで取引ペアがサポートされていない場合でも、流動性プール（LP）にトークンをステーキングすることで取引手数料を獲得できます。
 
-## 🎲 Win
+## 勝つ
 
-> PancakeSwap makes making money fun.
+> PancakeSwapは資産形成を楽しくします。
 
-### Lottery
+### 宝くじ
 
-**Millions of dollars** regularly go up for grabs on the PancakeSwap Lottery.\
-Join as many as **11,000 daily players** for your chance to win big!
+PancakeSwapの宝くじでは、定期的に**数百万ドル**が賞金として用意されます。\
+**毎日最大11,000人のプレイヤー**と一緒に、大賞を狙いましょう！
 
-### NFT Collectibles
+### 予測
 
-Win collectible NFTs for participating in trading competitions and more fun & games.
+BNB、BTC、またはETHの価格が上がるか下がるかを予測しましょう。5分ごとに新しいラウンドが始まります！
 
-### Prediction
+## PancakeSwapは安全ですか？
 
-Win BNB if you can predict whether the BNB price will rise or fall.\
-New rounds every 5 minutes!
+### ご自身で確認してください：
 
-## Is PancakeSwap safe?
+PancakeSwapのセキュリティ監査は[こちら](welcome-to-pancakeswap/audits.md)からご確認いただけます。
 
-See for yourself:
+### 透明性：
 
-* Check out these PancakeSwap security audits:
-  * [Certik’s security audit of PancakeSwap](https://www.certik.org/projects/pancakeswap) and [Certik's Shield insurance](https://shield.certik.foundation)
-  * [Slowmist's security audit of PancakeSwap](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20%20-%20PancakeSwap.pdf)
-  * [Slowmist's Auto-CAKE Pool security audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20CakeVault.pdf)
-  * [Peckshield's Prediction V2 security audit](https://github.com/peckshield/publications/blob/master/audit\_reports/PeckShield-Audit-Report-PancakeSwap-PredictionV2-v1.0.pdf)
-* Transparent:
-  * We’re built on open-source software: our site and all our Smart Contracts are publicly visible for maximum transparency.
-  * Our contracts are verified on BscScan so you know that what you see is what you get: [1](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E) [2](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#code) [3](https://bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812) [4](https://bscscan.com/address/0x1b96b92314c44b159149f7e0303511fb2fc4774f#code) [5](https://bscscan.com/address/0x92E8CeB7eAeD69fB6E4d9dA43F605D2610214E68)
-* Security best practices:
-  * The chefs use multisig for all contracts.
-  * Our contracts’ time-locks give you peace of mind.
+* オープンソースソフトウェアで構築されています：最大限の透明性を確保するため、サイトとすべてのスマートコントラクトが公開されています。
+* コントラクトはBscScanで検証済みであるため、表示されている内容がそのまま実際のものであることをご確認いただけます：[1](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E) [2](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#code) [3](https://bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812) [4](https://bscscan.com/address/0x1b96b92314c44b159149f7e0303511fb2fc4774f#code) [5](https://bscscan.com/address/0x92E8CeB7eAeD69fB6E4d9dA43F605D2610214E68)
 
-**Sounds like fun?**\
-**Then get flipping!** 🐰 🥞
+### セキュリティのベストプラクティス：
+
+* 開発チームはすべてのコントラクトにマルチシグを使用しています。
+* コントラクトのタイムロックにより、安心してご利用いただけます。
+
+**楽しそうですね？**\
+**さあ、始めましょう！** 🐰 🥞
 
 ***

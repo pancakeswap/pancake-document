@@ -6,7 +6,7 @@ description: >-
 
 # Using PancakeSwap without Centralized Exchanges
 
-![](../.gitbook/assets/how-to-pancakeswap-without-cex-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-pancakeswap-without-cex-header.png)
 
 PancakeSwap is a decentralized application. That means, unlike Binance or other centralized platforms, you don't need to register account to use it... you just need a crypto wallet. So how can you get crypto onto PancakeSwap without using a centralized exchange?
 
@@ -63,7 +63,7 @@ Let's try moving USDT from Polygon (MATIC) blockchain to BSC using AnySwap.
 4. Connect your wallet and switch your network to Polygon (MATIC) Mainnet.
 5.  Select USDT on MATIC mainnet as "From", and USDT on BSC mainnet as "To". Then type in the amount of USDT you want to transfer.
 
-    ![](<../.gitbook/assets/MBP3-2021.10.19-055554AM-Google Chrome\_AnySwap - Cross Chain Protocol (1).png>)
+    ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/MBP3-2021.10.19-055554AM-Google%20Chrome%5C_AnySwap%20-%20Cross%20Chain%20Protocol%20%281%29.png)
 6. Click "Approve USDT" to approve your USDT.
 7. Additionally if you want AnySwap to deposit your USDT into another BSC address. Please use the "+ Send To" button.
 8. Click "Swap" and complete your final cross-chain transactions.
@@ -81,18 +81,18 @@ Let's try using O3 Hub to moving USDT from ERC-20 blockchain to BNB Smart Chain.
 3. Navigate to [https://o3swap.com/hub](https://o3swap.com/hub)
 4.  Connect your MetaMask or O3 wallet for both ETH and BSC. And switch your network in MetaMask to Ethereum Mainnet.
 
-    ![](<../.gitbook/assets/MBP3-2021.10.19-054852AM-Google Chrome\_O3swap.png>)
+    ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/MBP3-2021.10.19-054852AM-Google%20Chrome%5C_O3swap.png)
 5.  Select ERC-20 USDT as “You pay”, and BEP-20 USDT as "You will receive". Then type in the amount of USDT you want to transfer.
 
-    ![](<../.gitbook/assets/MBP3-2021.10.19-053358AM-Google Chrome\_O3swap.png>)
+    ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/MBP3-2021.10.19-053358AM-Google%20Chrome%5C_O3swap.png)
 6.  Double check the “To” field is showing the correct BNB Smart Chain wallet address you’ve connected.
 
-    ![](<../.gitbook/assets/MBP3-2021.10.19-053441AM-Google Chrome\_O3swap (1).png>)
+    ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/MBP3-2021.10.19-053441AM-Google%20Chrome%5C_O3swap%20%281%29.png)
 7. Make sure everything is correct. Click "Swap".
 8. Follow the on-screen instructions to approve your USDT, and complete the final cross-chain transaction.
 9.  The entire process will take around 10-30 minutes to complete depends on how congested the network is. You can keep track of the progress on history tab.
 
-    ![](<../.gitbook/assets/MBP3-2021.10.19-054520AM-Google Chrome\_O3swap (1).png>)
+    ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/MBP3-2021.10.19-054520AM-Google%20Chrome%5C_O3swap%20%281%29.png)
 10. Once finished. You should receive your funds in your BSC wallet. Now you can start using PancakeSwap to swap some tokens on BNB Smart Chain!
 
 Additionally, you can check out [this user guide](https://docs.o3swap.com/o3-swap-user-guide/hub#2.-hub-swap) from O3 Swap.
