@@ -4,7 +4,7 @@ description: Faça Stake de CAKE, Ganhe CAKE, e muito mais!
 
 # 🔷 veCAKE
 
-<figure><img src="../../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28188%29.png" alt=""><figcaption></figcaption></figure>
 
 veCAKE significa CAKE como garantia de voto (vote-escrowed). Os tokens veCAKE desempenham um papel crucial na governança da PancakeSwap, permitindo que você participe ativamente das propostas de governança da PancakeSwap e do sistema de medidores de votação. Isto permite-lhe votar em propostas de governação mais amplas e influenciar a alocação de emissões CAKE dentro das pools de liquidez.&#x20;
 

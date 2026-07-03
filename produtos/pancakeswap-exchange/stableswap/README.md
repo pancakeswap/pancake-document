@@ -1,6 +1,6 @@
 # 🔄 StableSwap
 
-<figure><img src="../../../.gitbook/assets/docs masthead.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/docs%20masthead.png" alt=""><figcaption></figcaption></figure>
 
 StableSwap na PancakeSwap é um recurso para negociar pares de stable com uma slippage/derrapagem mais baixa com base em uma função de curva de slippage  invariável. Ele foi projetado para fazer swap de ativos específicos com preços próximos - como stablecoins em dólares (por exemplo, HAY, BUSD e USDT) ou tokens de staking líquidos (por exemplo, stkBNB e aBNBc).&#x20;
 

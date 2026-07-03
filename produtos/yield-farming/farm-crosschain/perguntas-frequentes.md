@@ -1,6 +1,6 @@
 # Perguntas Frequentes
 
-<figure><img src="../../../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29%20%284%29.png" alt=""><figcaption></figcaption></figure>
 
 ### O que devo fazer na PancakeSwap na Ethereum?
 

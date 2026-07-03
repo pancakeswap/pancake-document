@@ -36,11 +36,11 @@ Estamos expandindo na Ethereum em fases escalonadas.
 
 Para obter mais informações sobre nossos programas de mineração de liquidez (“Pools de Syrup e Farms”), consulte este PDF:
 
-{% file src=".gitbook/assets/PancakeSwap Ethereum Syrup Pools & Farms.pdf" %}
+{% file src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/PancakeSwap%20Ethereum%20Syrup%20Pools%20%26%20Farms.pdf" %}
 
 Para obter mais informações sobre nosso launchpad (“Oferta inicial de farmss ou IFO”), consulte este PDF:
 
-{% file src=".gitbook/assets/Ethereum PancakeSwap IFOs.pdf" %}
+{% file src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Ethereum%20PancakeSwap%20IFOs.pdf" %}
 
 ### Um exemplo do processo de Pool de Syrup/Farm
 

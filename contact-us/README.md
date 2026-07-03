@@ -1,6 +1,6 @@
 # Fale Conosco
 
-![](../.gitbook/assets/contact-us-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/contact-us-header.png)
 
 #### Contatos para Business
 

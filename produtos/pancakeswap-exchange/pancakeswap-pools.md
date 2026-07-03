@@ -1,6 +1,6 @@
 # Pools de Liquidez
 
-![](../../.gitbook/assets/liquidity-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/liquidity-header.png)
 
 ## Exchange V3 <a href="#03e94594-5a75-4687-b260-0dc69574b953" id="03e94594-5a75-4687-b260-0dc69574b953"></a>
 
@@ -8,7 +8,7 @@ Na nova Exchange V3, a liquidez será administrada na forma de posições não-f
 
 ## **Posições de liquidez Não-fungíveis**
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2819%29.png" alt=""><figcaption></figcaption></figure>
 
 Na V3, os fornecedores de liquidez agora têm mais controle sobre a faixa(range) de preço que desejam para implantar sua liquidez. Portanto, ao adicionar seu token em uma pool de liquidez na V3, você criará uma nova posição de liquidez não-fungível com suas configurações exclusivas.&#x20;
 
@@ -68,7 +68,7 @@ Para tornar ainda mais valioso ser um provedor de liquidez, você também pode c
 
 ### LP Tokens
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2820%29.png" alt=""><figcaption></figcaption></figure>
 
 Por exemplo, se você deposita **CAKE** e **BNB** em uma pool de liquidez, recebe tokens **CAKE-BNB LP**.&#x20;
 

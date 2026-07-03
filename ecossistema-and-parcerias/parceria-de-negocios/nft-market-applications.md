@@ -2,7 +2,7 @@
 
 ## Inscreva-se para listagem no Mercado de NFT
 
-![](../../.gitbook/assets/nft-masthead.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/nft-masthead.png)
 
 Os criadores de coleções NFT podem ganhar royalties de criadores em negociações na PancakeSwap, além de obter visibilidade para seu projeto no [mercado de NFT](https://pancakeswap.finance/nfts?chain=bsc) mais proeminente na BNB Smart Chain.
 

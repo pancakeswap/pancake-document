@@ -1,6 +1,6 @@
 # Como fazer StableSwap?
 
-<figure><img src="../../../.gitbook/assets/how-to-stableswap.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-stableswap.png" alt=""><figcaption></figcaption></figure>
 
 ## Fazendo Trade no StableSwap&#x20;
 
@@ -22,19 +22,19 @@ Existem algumas diferenças para a liquidez do StableSwap:&#x20;
 
 1 - Quando você seleciona os pares de ativos que estão habilitados para StableSwap (por exemplo, HAY-BUSD), o frontend solicitará que você forneça “LP de Stable”
 
-![](<../../../.gitbook/assets/image (7) (1) (2) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%287%29%20%281%29%20%282%29%20%281%29.png)
 
 2 - O fornecimento dos dois ativos pode estar desequilibrado na fase de fornecimento, existindo uma página de confirmação para mostrar a proporção do seu fornecimento.
 
-![](<../../../.gitbook/assets/image (10) (4).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2810%29%20%284%29.png)
 
 3 - Você receberia um token Stable-LP como recibo do fornecimento de liquidez, para futuro saque e remoção.
 
-![](<../../../.gitbook/assets/image (6) (3) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%286%29%20%283%29%20%281%29.png)
 
 4 - No entanto, OBSERVE que ao remover a liquidez, você sempre obterá 50%/50% dos ativos, independentemente da proporção de quando você adicionou. Como exemplo simplificado, se você forneceu 199 HAY e 1 BUSD, ao remover a liquidez, você receberá 100 HAY e 100 BUSD assumindo 0 de slippage/derrapagem e preços estáveis de 1:1.
 
-![](<../../../.gitbook/assets/image (3) (3).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%283%29%20%283%29.png)
 
 ## Migre seu Stake de Farm USDT-BUSD, USDC-BUSD, USDC-USDT&#x20;
 
@@ -63,17 +63,17 @@ Haverá uma janela de 24 horas a partir do lançamento do StableSwap e antes que
 
 1 - Faça unstake do LP de HAY-BUSD da [página dos farms](https://pancakeswap.finance/farms)
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2022-09-21 at 7.27.18 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202022-09-21%20at%207.27.18%20PM.png" alt=""><figcaption></figcaption></figure>
 
 2 - Remova a liquidez do seu LP de HAY-BUSD na [página de liquidez](https://pancakeswap.finance/liquidity)&#x20;
 
 3 - Adicione liquidez novamente para HAY-BUSD (desta vez você deve ver que está adicionando no Stable LP durante o processo)
 
-![](<../../../.gitbook/assets/image (2) (5).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%282%29%20%285%29.png)
 
 4 - Coloque seu LP de Stable de HAY-BUSD na [página de farms](https://pancakeswap.finance/farms) - procure o card com o rótulo Stable LP
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2022-09-21 at 7.48.09 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202022-09-21%20at%207.48.09%20PM.png" alt=""><figcaption></figcaption></figure>
 
 ## Linha do Tempo <a href="#timeline" id="timeline"></a>
 

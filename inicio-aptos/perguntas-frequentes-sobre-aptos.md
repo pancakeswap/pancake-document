@@ -1,6 +1,6 @@
 # Perguntas Frequentes sobre Aptos
 
-<figure><img src="../.gitbook/assets/Aptos-faq-header.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Aptos-faq-header.png" alt=""><figcaption></figcaption></figure>
 
 Esta página de perguntas frequentes responde a algumas das perguntas mais comuns da comunidade PancakeSwap sobre nossa implantação na Aptos.
 

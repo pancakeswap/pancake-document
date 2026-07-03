@@ -2,7 +2,7 @@
 
 Para obter mais informações sobre veCAKE e medidores da perspectiva de um projeto, consulte este PDF:
 
-{% file src="../../.gitbook/assets/PancakeSwap veCAKE.pdf" %}
+{% file src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/PancakeSwap%20veCAKE.pdf" %}
 
 Resumindo, existem duas maneiras de incentivar a liquidez na PancakeSwap como um projeto:&#x20;
 

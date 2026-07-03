@@ -24,7 +24,7 @@ Você está tentando fazer swap de tokens, mas sua tolerância de Slippage está
 2. Tente negociar uma quantidade menor de uma vez.
 3. Aumente sua tolerância de Slippage:
    1. Toque no ícone de configurações na página de liquidez.
-   2. Aumente um pouco sua tolerância de Slippage e tente novamente. ![](<../../../.gitbook/assets/image (9) (4).png>)
+   2. Aumente um pouco sua tolerância de Slippage e tente novamente. ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%289%29%20%284%29.png)
 4. Por último, tente inserir uma quantidade com menos casas decimais.
 {% endtab %}
 
@@ -54,7 +54,7 @@ Ainda não funciona?
 1. Toque no ícone de configurações na página de liquidez.
 2. Aumente um pouco sua tolerância de Slippage e tente novamente.
 
-![](<../../../.gitbook/assets/image (9) (4).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%289%29%20%284%29.png)
 {% endtab %}
 
 {% tab title="Motivo" %}
@@ -88,7 +88,7 @@ Por exemplo, aqui está o par ETH/WBNB: [https://bscscan.com/address/0x70d8929d0
 2. Em **5. balanceOf**, insira o endereço da sua carteira e clique em **Query**.
 3. Anote o número exportado. Ele mostra seu saldo no LP no formato uint256, que você precisará no próximo passo.
 
-![](<../../../.gitbook/assets/image (74).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2874%29.png)
 
 **Adicionar ou Remover Liquidez**
 
@@ -102,7 +102,7 @@ Vá para o contrato do router: [https://bscscan.com/address/0x05ff2b0db69458a075
 6. Adicione o endereço da sua carteira em **to (address)**.
 7. O Deadline deve ser um tempo epoch maior do que o momento em que a transação é executada.
 
-![](<../../../.gitbook/assets/image (136).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28136%29.png)
 
 {% hint style="warning" %}
 Isso pode causar Slippage muito alto e pode fazer o usuário perder alguns fundos se houver frontrunning
@@ -124,7 +124,7 @@ Isso aconteceu porque você começou a fazer uma transação, mas não assinou e
 
 Tente modificar o valor no campo "Para". Portanto, colocando o símbolo "(estimado)" em "De". Em seguida, inicie o swap imediatamente.
 
-![](<../../../.gitbook/assets/Pancake-K-Solution (2).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Pancake-K-Solution%20%282%29.png)
 
 Isso geralmente acontece quando você está tentando fazer swap de um token que tem sua própria taxa.
 
@@ -262,7 +262,7 @@ Tente aumentar manualmente o **limite de gas** (não o preço do gas!) na sua ca
 
 Um limite de 200000 geralmente é suficiente.
 
-![](<../../../.gitbook/assets/image (21).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2821%29.png)
 
 O exemplo acima é do Metamask; verifique a documentação da sua carteira se não tiver certeza de como ajustar o limite de gas.
 {% endtab %}

@@ -1,6 +1,6 @@
 # Equipes
 
-![](../../.gitbook/assets/teams-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/teams-header.png)
 
 Fazer parte de uma equipe permite que você participe de eventos de equipe e ganhe CAKE e recompensas exclusivas, como NFTs e conquistas.&#x20;
 

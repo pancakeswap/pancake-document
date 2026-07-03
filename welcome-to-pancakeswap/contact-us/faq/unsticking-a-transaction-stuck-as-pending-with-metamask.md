@@ -52,11 +52,11 @@ Agora vamos encontrar a transação que está travada e anotar o "nonce". Isso �
 
 Agora vamos fazer uma nova transação para substituir a travada. Vamos personalizar o número do Nonce, para que seja igual ao que você acabou de anotar.
 
-![](<../../../.gitbook/assets/image (176).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28176%29.png)
 
 8\. Crie uma nova transação para substituir sua transação travada. Desta vez, aumente a **Taxa de Transação**. Aqui aumentamos de 9 para 20. Isso tornará mais provável que sua transação seja adicionada a um bloco.
 
-![](<../../../.gitbook/assets/image (34).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2834%29.png)
 
 9\. Na página de confirmação, certifique-se de que seu Preço de Gas está agora no novo valor mais alto.
 

@@ -1,6 +1,6 @@
 # Smart Router (V2)
 
-<figure><img src="../../../.gitbook/assets/Smart Router.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Smart%20Router.png" alt=""><figcaption></figcaption></figure>
 
 PancakeSwap Smart Router é um algoritmo de roteamento que liga o AMM e o stableswap para fornecer melhor liquidez e preços. Ele usa um algoritmo inteligente de roteamento de ordens que executa negociações em várias pools para encontrar o melhor preço para os traders. Para obter mais informações sobre o StableSwap, [clique aqui](https://docs.pancakeswap.finance/v/portuguese-brazilian/produtos/stableswap).&#x20;
 

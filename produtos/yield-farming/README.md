@@ -1,6 +1,6 @@
 # 🚜 Yield Farming
 
-![](../../.gitbook/assets/yield-farms-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/yield-farms-header.png)
 
 Farms de rendimento(Yield Farming) permite que os usuários ganhem CAKE enquanto apoiam a PancakeSwap fazendo stake de LP Tokens.
 
@@ -23,7 +23,7 @@ Cálculo do APR de Yield Farm inclui ambos:
 
 Por quê? Porque quando você faz stake de seus tokens LP em um farm para ganhar CAKE, você ainda está fornecendo liquidez à pool de liquidez, então você também ganha recompensas  do LP!
 
-![](<../../.gitbook/assets/Frame 1 (3).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Frame%201%20%283%29.png)
 
 Então como calculamos essas coisas?
 

@@ -4,7 +4,7 @@ description: Diretrizes e recursos baixáveis como logo da PancakeSwap SVG
 
 # Marca & Logos
 
-![](<.gitbook/assets/Frame 6.png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Frame%206.png)
 
 👇[ Pule para o download do logo](brand.md#pancakeswap-logo-downloads)
 
@@ -53,11 +53,11 @@ Divirta-se criando uma marca única que é claramente sua - se o seu produto for
 
 ## Downloads de Logo da PancakeSwap&#x20;
 
-![](<.gitbook/assets/Frame 4.png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Frame%204.png)
 
 Depois de ler tudo acima, baixe os logotipos da PancakeSwap e CAKE abaixo.
 
-{% file src=".gitbook/assets/PancakeSwap Logos.zip" %}
+{% file src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/PancakeSwap%20Logos.zip" %}
 Download dos logos oficiais da PancakeSwap e CAKE.
 {% endfile %}
 

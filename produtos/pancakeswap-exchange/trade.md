@@ -1,10 +1,10 @@
 # Swap de Tokens
 
-![](../../.gitbook/assets/swap-trade-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/swap-trade-header.png)
 
 [**Swap de Tokens**](https://exchange.pancakeswap.finance/#/swap) na PancakeSwap são uma maneira simples de fazer trade de um token por outro por meio de pools de liquidez automatizados na BNB Smart Chain, Ethereum e Aptos, e também com formadores de mercado ao negociar tokens na BNB Smart Chain e Ethereum.
 
-![](<../../.gitbook/assets/image (1) (2) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29%20%282%29%20%281%29.png)
 
 Ao fazer um swap de token (negociação) na Exchange da PancakeSwap na [BNB Smart Chain](https://pancakeswap.finance/swap?chain=bsc) ou na [Ethereum](https://pancakeswap.finance/swap?chain=eth), você pagará taxas de negociação de acordo com o tipo de pool de liquidez pelo qual sua negociação está sendo roteada. Você pode verificar os detalhes da rota clicando no ícone da lupa na seção “Rota”.
 
@@ -20,6 +20,6 @@ Para pools de liquidez da Exchange V2, é aplicada uma taxa de negociação fixa
 
 **0,0575%** - Enviado para recompra e queima de CAKE.
 
-![](<../../.gitbook/assets/image (18).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2818%29.png)
 
 Observe que na [Aptos](https://aptos.pancakeswap.finance/swap), apenas a PancakeSwap Exchange V2 é implantada, portanto, todos os swaps de token na Aptos terão uma taxa de negociação fixa de 0,25% com o mesmo detalhamento mencionado acima.

@@ -6,7 +6,7 @@ description: PancakeSwap está planejando ir pra Aptos!
 
 
 
-<figure><img src=".gitbook/assets/Aptos.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Aptos.png" alt=""><figcaption></figcaption></figure>
 
 Estamos implantando na Aptos e gostaríamos de começar a conversar com as equipes dos Projeto Aptos, potencialmente apresentando a você um dos maiores, mais engajados e ativos DApps de criptomoedas (com mais de 3 milhões de usuários ativos mensais)!&#x20;
 
@@ -31,11 +31,11 @@ Estamos lançando na Aptos em fases escalonadas.
 
 Para obter mais informações sobre nossos programas de mineração de liquidez (“Pools de Syrup e Farms”), consulte este PDF:
 
-{% file src=".gitbook/assets/PancakeSwap Aptos Syrup Pools & Farms.pdf" %}
+{% file src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/PancakeSwap%20Aptos%20Syrup%20Pools%20%26%20Farms.pdf" %}
 
 Para obter mais informações sobre nossas plataformas de lançamento (“Oferta inicial de Farm, ou IFO”), consulte este PDF:
 
-{% file src=".gitbook/assets/PancakeSwap Aptos IFOs.pdf" %}
+{% file src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/PancakeSwap%20Aptos%20IFOs.pdf" %}
 
 ### Um exemplo do processo da Pool de Syrup/Farm
 
@@ -54,7 +54,7 @@ Para obter mais informações sobre nossas plataformas de lançamento (“Oferta
 5. Ps-Lançamento
    * Continuaríamos a manter contato e trabalhar juntos sempre que possível!
 
-<figure><img src=".gitbook/assets/image1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image1.png" alt=""><figcaption></figcaption></figure>
 
 ### Um exemplo do processo IFO
 
@@ -79,4 +79,4 @@ Para obter mais informações sobre nossas plataformas de lançamento (“Oferta
 
 Em cada etapa do processo, a equipe está aqui para ajudar – entendemos que para os fundadores e suas equipes, o lançamento do IFO ou TGE é extremamente crítico e não deixamos nada ao acaso.
 
-<figure><img src=".gitbook/assets/image2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image2.png" alt=""><figcaption></figcaption></figure>

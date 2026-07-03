@@ -6,7 +6,7 @@ description: >-
 
 # Corrigindo transações presas na MetaMask
 
-![](../.gitbook/assets/how-to-fix-a-stuck-transaction-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-fix-a-stuck-transaction-header.png)
 
 Se sua transação estiver pendente na Metamask e o botão "Cancelar" não estiver ajudando, talvez seja necessário usar esse método para limpar seu backlog.&#x20;
 
@@ -16,23 +16,23 @@ Esse método funciona essencialmente substituindo a transação travada por outr
 
 1\. Abra seu plugin da MetaMask.
 
-![](../.gitbook/assets/1-1-MetaMask\_plugin.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-1-MetaMask%5C_plugin.png)
 
 2\. Clique no ícone circular colorido no canto superior direito e clique em **Configurações/Settings** do menu suspenso que abrir.
 
-![](<../.gitbook/assets/1-2-MetaMask\_settings (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-2-MetaMask%5C_settings%20%281%29.png)
 
 3\. No menu de configurações, selecione **Avançado/Advanced**.
 
-![](../.gitbook/assets/1-3-MetaMask\_advanced.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-3-MetaMask%5C_advanced.png)
 
 4\. Role para baixo até ver **Controle de gás avançado/Advanced gas controls**. Alterne isso para Ligado/ON.
 
-![](../.gitbook/assets/1-4-MetaMask\_gas\_control\_on.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-4-MetaMask%5C_gas%5C_control%5C_on.png)
 
 5\. Ainda na configurações avançadas, role até ver **Customize o Nonce da Transação/Customize transaction nonce**. Ligue isso para Ligado/ON.
 
-![](<../.gitbook/assets/1-4-MetaMask\_gas\_control\_on (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-4-MetaMask%5C_gas%5C_control%5C_on%20%281%29.png)
 
 ### **2. Encontre sua Transação Presa**&#x20;
 
@@ -54,11 +54,11 @@ Agora vamos encontrar a transação que está travada e anotar o “nonce”. Es
 
 Agora vamos fazer uma nova transação para substituir a travada. Vamos personalizar o número do Nonce, para que seja igual ao que você acabou de anotar.
 
-![](<../.gitbook/assets/image (9) (1) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%289%29%20%281%29%20%281%29.png)
 
 8\. Crie uma nova transação para substituir sua transação travada. Desta vez, aumente a **Taxa da Transação**. Aqui, aumentamos de 9 para 20. Isso aumentará a probabilidade de sua transação ser adicionada a um bloco.
 
-![](<../.gitbook/assets/image (10) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2810%29%20%281%29.png)
 
 9\. Na página de confirmação, certifique-se de que o preço do gás está agora no valor novo e mais alto.&#x20;
 

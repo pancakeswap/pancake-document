@@ -4,7 +4,7 @@
 
 Veja o site de análises nativas do PancakeSwap aqui: [https://pancakeswap.finance/info](https://pancakeswap.finance/info)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Todos os dados das métricas principais são provenientes do Indexador interno do PCS, que, por sua vez, coleta dados de eventos acionados quando o contrato é chamado.&#x20;
 

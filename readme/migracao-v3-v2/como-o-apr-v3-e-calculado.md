@@ -10,7 +10,7 @@ O APR total é combinado pelo APR da taxa de LP e APR da recompensa de CAKE
 
 Teoricamente falando, dada uma faixa de preço e usuário de liquidez prestes a adicionar, podemos estimar a taxa futura esperada de 7 dias da seguinte forma:
 
-&#x20;                    <img src="../../.gitbook/assets/image (16) (5).png" alt="" data-size="original">\
+&#x20;                    <img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2816%29%20%285%29.png" alt="" data-size="original">\
 
 
 * $$fee_{in}$$: Valor da taxa acumulado na faixa de preço especificada pelo usuário nos últimos 7 dias
@@ -50,7 +50,7 @@ APR global calculado usando a quantidade total de liquidez ativa e stake com as 
 
 APRs para posições individuais podem variar dependendo de suas configurações de faixa de preço.
 
-&#x20;                         ![](<../../.gitbook/assets/image (1) (2).png>)
+&#x20;                         ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29%20%282%29.png)
 
 * ​$$USD_r$$: A recompensa de CAKE ganha USD por ano na pool
 * ​$$USD_p$$: Valor total em USD na posição

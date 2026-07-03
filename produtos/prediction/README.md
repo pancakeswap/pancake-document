@@ -1,6 +1,6 @@
 # 🔮 Previsão
 
-![](../../.gitbook/assets/prediction-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/prediction-header.png)
 
 A Previsão da PancakeSwap é um mercado de previsão descentralizado divertido e simples.
 

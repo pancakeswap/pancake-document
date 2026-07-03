@@ -13,7 +13,7 @@
 
 Você pode consultar este resumo de uma página do nosso produto Leilões de Farm​
 
-{% file src="../.gitbook/assets/Farm Auctions One Pager (1).pdf" %}
+{% file src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Farm%20Auctions%20One%20Pager%20%281%29.pdf" %}
 
 ### Mecanismo
 

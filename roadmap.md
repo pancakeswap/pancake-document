@@ -4,7 +4,7 @@ description: '"Don''t call it a roadmap"'
 
 # Roadmap
 
-![](.gitbook/assets/roadmap-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/roadmap-header.png)
 
 _Atualizado em 3 de Janeiro de 2024_
 
@@ -16,7 +16,7 @@ Pivotar é um modo de vida.&#x20;
 
 Isso significa que não nos comprometemos publicamente com cronogramas específicos, para que possamos organizar nossas prioridades de desenvolvimento com base nas mudanças do mercado e nos recursos do desenvolvedor.
 
-<figure><img src=".gitbook/assets/image (190) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28190%29%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Devido a considerações de segurança e confidencialidade, alguns itens não estão incluídos na seção "Cozinhando no".

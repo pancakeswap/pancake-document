@@ -1,6 +1,6 @@
 # Como votar
 
-<figure><img src="../../../.gitbook/assets/spaces_-MHREX7DHcljbY5IkjgJ-1972196547_uploads_dnBWUXQhyGvDyKWRw8xF_how-to-voting-header.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/spaces_-MHREX7DHcljbY5IkjgJ-1972196547_uploads_dnBWUXQhyGvDyKWRw8xF_how-to-voting-header.webp" alt=""><figcaption></figcaption></figure>
 
 Participar da votação de governança é fácil e totalmente **GRATUITO**. Você nem precisa pagar taxas de gás! Saiba mais sobre como votar, veja a próxima proposta e vote.
 
@@ -14,7 +14,7 @@ Como alternativa, você pode visitar o [portal de votação nativo da PancakeSwa
 
 ### Leia e escolha a opção para votar.
 
-<figure><img src="../../../.gitbook/assets/spaces_-MHREX7DHcljbY5IkjgJ-1972196547_uploads_Ad7TllDzCee3DIsET1uk_how-to-vote-1.webp" alt=""><figcaption><p>a página da proposta</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/spaces_-MHREX7DHcljbY5IkjgJ-1972196547_uploads_Ad7TllDzCee3DIsET1uk_how-to-vote-1.webp" alt=""><figcaption><p>a página da proposta</p></figcaption></figure>
 
 Na página da proposta. Você encontrará:&#x20;
 
@@ -26,11 +26,11 @@ Na página da proposta. Você encontrará:&#x20;
 
 Leia a proposta com atenção e clique na opção que deseja votar.
 
-#### ![](<../../../.gitbook/assets/image (135).png>) <a href="#confirm-and-cast-your-vote" id="confirm-and-cast-your-vote"></a>
+#### ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28135%29.png) <a href="#confirm-and-cast-your-vote" id="confirm-and-cast-your-vote"></a>
 
 ### Confirme e vote
 
-<figure><img src="../../../.gitbook/assets/spaces_-MHREX7DHcljbY5IkjgJ-1972196547_uploads_Qwg5A4sRbJpAnoN7yMhB_how-to-vote-6.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/spaces_-MHREX7DHcljbY5IkjgJ-1972196547_uploads_Qwg5A4sRbJpAnoN7yMhB_how-to-vote-6.webp" alt=""><figcaption></figcaption></figure>
 
 Confirme todos os dados e clique em "Confirmar Voto", depois confirme em sua carteira para assinar a mensagem.&#x20;
 
@@ -42,7 +42,7 @@ Pronto, você acabou de votar com sucesso.
 {% tab title="Verificando o poder de voto" %}
 Antes de votar, você verá uma janela "Confirmar Voto".
 
-![](<../../../.gitbook/assets/image (146) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28146%29%20%281%29.png)
 
 Nesta janela, você pode verificar novamente os seguintes itens:&#x20;
 
@@ -51,7 +51,7 @@ Nesta janela, você pode verificar novamente os seguintes itens:&#x20;
 
 Se você não tem certeza sobre como o poder de voto é calculado, clique em ">" para abrir o detalhamento.
 
-![](<../../../.gitbook/assets/image (79) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2879%29%20%281%29.png)
 
 Observe que apenas o CAKE nos seguintes locais contribuirá para o número total de poder de voto:&#x20;
 
@@ -67,12 +67,12 @@ O CAKE em outros locais não contribui para o seu poder de voto.
 {% tab title="Verificando o snapshot do bloco" %}
 ### Verificando o snapshot do bloco
 
-![](<../../../.gitbook/assets/image (141).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28141%29.png)
 
 O poder de votação é calculado com base em um snapshot obtido em algum bloco. Portanto, comprar ou depositar mais CAKE após a publicação da proposta não aumentará o poder de voto para aquela proposta em particular.&#x20;
 
 Se você quiser saber a hora exata do bloco do snapshot. Basta clicar no número do bloco e procurar o carimbo de data/hora na página BscScan.
 
-![](<../../../.gitbook/assets/image (139).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28139%29.png)
 {% endtab %}
 {% endtabs %}

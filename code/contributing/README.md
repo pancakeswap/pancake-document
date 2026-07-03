@@ -4,7 +4,7 @@ description: Obrigado por expressar seu interesse em contribuir com a PancakeSwa
 
 # Contribuindo
 
-![](../../.gitbook/assets/developers-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/developers-header.png)
 
 PancakeSwap é um projeto de código aberto. Se você deseja contribuir com o projeto, esta seção está aqui para guiá-lo em seus primeiros passos com a equipe da PancakeSwap 🥞&#x20;
 

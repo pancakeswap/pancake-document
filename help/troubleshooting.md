@@ -6,7 +6,7 @@ description: >-
 
 # Soluções de Erros e Problemas
 
-![](../.gitbook/assets/troubleshooting-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/troubleshooting-header.png)
 
 Às vezes, você pode se deparar com um problema que não tem uma solução clara. Essas dicas de solução de problemas podem ajudá-lo a resolver os problemas que você encontrou.
 
@@ -30,7 +30,7 @@ Você está tentando fazer swap de tokens, mas sua slippage tolerance (tolerânc
 2. Tente negociar uma quantidade menor de uma vez só.
 3. Aumente seu slippage tolerance:
    1. Clique no ícone de configurações na página de liquidez.
-   2. Aumente seu slippage tolerance um pouco e tente de novo. ![](<../.gitbook/assets/image (9) (4) (2) (1) (1) (1) (1) (1) (1).png>)
+   2. Aumente seu slippage tolerance um pouco e tente de novo. ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%289%29%20%284%29%20%282%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.png)
 4. Por último, tente diminuir o numero de casas decimais.
 {% endtab %}
 
@@ -60,7 +60,7 @@ Não funcionou mesmo assim?
 1. Clique no ícone de configurações na página de liquidez.
 2. Aumente seu slippage tolerance um pouco e tente de novo.
 
-![](<../.gitbook/assets/image (9) (4) (2) (1) (1) (1) (1) (1) (1) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%289%29%20%284%29%20%282%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.png)
 {% endtab %}
 
 {% tab title="Razão" %}
@@ -93,7 +93,7 @@ Vá para o contrato do token LP que você está tentando aprovar. Por exemplo, a
 2. No **5. balanceOf**, coloque seu endereço de carteira e clique **Query**.
 3. Acompanhe o número que é exportado. Ele mostra seu saldo no LP no formato uint256, que você precisará na próxima etapa.
 
-![](<../.gitbook/assets/image (7) (1) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%287%29%20%281%29%20%281%29.png)
 
 **Adicione ou Remova Liquidez**
 
@@ -107,7 +107,7 @@ Vá para o contrato do router: [https://bscscan.com/address/0x05ff2b0db69458a075
 6. Adicione o endereço de sua carteira em **to (address)**.
 7. Deadline deve ser um tempo de época maior que o tempo em que a tx é executada.
 
-![](<../.gitbook/assets/image (5) (1) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%285%29%20%281%29%20%281%29.png)
 
 {% hint style="warning" %}
 Isso pode causar uma slippage(derrapagem) muito alta, e pode causar a perda de alguns fundo do usuários caso sofra frontrun
@@ -134,7 +134,7 @@ Isso aconteceu porque você começou a fazer uma transação, mas não a assinou
 
 Tente modificar a quantidade no campo “To”. Portanto, colocando o símbolo "(estimado)" em "From". Em seguida, inicie o swap imediatamente.
 
-![](<../.gitbook/assets/pancake-k-solution (2).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/pancake-k-solution%20%282%29.png)
 
 Isso geralmente acontece quando você está tentando trocar um token com taxa própria.
 
@@ -278,7 +278,7 @@ Tente aumentar manualmente o limite do gás (não o preço do gás!) em sua cart
 
 Um limite de 200.000 geralmente é suficiente.
 
-![](<../.gitbook/assets/image (2) (1) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%282%29%20%281%29%20%281%29.png)
 
 O exemplo acima é da Metamask; verifique a documentação da sua carteira se não tiver certeza de como ajustar o limite de gás.
 {% endtab %}

@@ -28,11 +28,11 @@ Cada Farm usado pela PancakeSwap tem seu próprio contrato inteligente. Siga as 
 
 1. Vá para a [Página dos Farms da PancakeSwap ](https://pancakeswap.finance/farms)e clique  click the row of the Farm you want to see the contract for.
 
-![](<../../.gitbook/assets/image (126).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28126%29.png)
 
 2. Quando a seção de detalhes se expandir, clique no link **Exibir contrato** à esquerda para abrir o contrato na BscScan.
 
-![](<../../.gitbook/assets/image (127) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28127%29%20%281%29.png)
 
 ## Contratos de IFO
 
@@ -42,18 +42,18 @@ Os contratos do IFO são exclusivos para cada novo IFO. Siga as etapas abaixo pa
 
 Vá para a [Página de IFO da PancakeSwap](https://pancakeswap.finance/ifo) e procure no canto inferior direito das informações do IFO no link **Visualizar Contrato**.
 
-![](<../../.gitbook/assets/image (128).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28128%29.png)
 
 ### IFOs Anteriores
 
 1. Vá para a [Página de IFO da PancakeSwap](https://pancakeswap.finance/ifo) e clique no ícone de alternar para **IFOs Anteriores** no topo da página.
 
-![](<../../.gitbook/assets/image (129).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28129%29.png)
 
 2. Encontre o banner do IFO que você gostaria de ver e clique no botão de seta para baixo para expandi-lo.
 
-![](<../../.gitbook/assets/image (130) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28130%29%20%281%29.png)
 
 3. Localize e clique no link **Exibir contrato** no canto inferior direito das informações expandidas.
 
-![](<../../.gitbook/assets/image (131).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28131%29.png)

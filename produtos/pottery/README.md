@@ -1,6 +1,6 @@
 # 🍯 Pottery
 
-![](../../.gitbook/assets/pottery-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/pottery-header.png)
 
 Pottery combina o stake bloqueado de CAKE com elementos de loteria para dar a você a chance de ganhar um rendimento maior em seu depósito de CAKE! É fácil e seguro, pois você sempre receberá de volta pelo menos todo o CAKE que depositou.
 
@@ -24,7 +24,7 @@ Cada depósito e data de bloqueio será um grupo separado - uma para cada mês -
 
 Embora os sorteios possam acontecer simultaneamente para diferentes grupos, os prêmios para cada grupo são separados para serem justos.
 
-![(Apenas para fins de ilustração, a data real de bloqueio do grupo para o primeiro Pottery foi definido para 8 de agosto de 2022)](<../../.gitbook/assets/Screenshot 2022-07-27 at 1.04.10 PM.png>)
+![(Apenas para fins de ilustração, a data real de bloqueio do grupo para o primeiro Pottery foi definido para 8 de agosto de 2022)](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202022-07-27%20at%201.04.10%20PM.png)
 
 Por exemplo, há 2 sorteios separados em 9 de setembro de 2022, um para o grupo de 1º de agosto como o sexto sorteio semanal e outro para a grupo de 5 de setembro como o primeiro sorteio semanal. Se o grupo de 1º de agosto tiver um total de 100.000 CAKE depositados e o grupo de 5 de setembro tiver um total de 300.000 CAKE depositados, o prêmio semanal para o grupo de 1º de agosto virá apenas das recompensas de stake desses 100.000 CAKE, enquanto o prêmio semanal para o grupo de 5 de setembro virá apenas das recompensas de staking desses 300.000 CAKE. Se você depositou CAKE apenas no grupo de 1º de agosto, terá a chance de ganhar o prêmio semanal em 9 de setembro com base nas recompensas de stake de 100.000 CAKE. Se você depositou CAKE no grupo de 1º de agosto e 5 de setembro, terá a chance de ganhar os dois prêmios semanais em 9 de setembro.
 
@@ -38,7 +38,7 @@ No entanto, como as recompensas de staking do Pool de CAKE são distribuídas ap
 
 No final das 10 semanas, quando as recompensas são distribuídas da pool de stake, o tesouro de CAKE será reembolsado primeiro, depois o restante será direcionado de volta ao cofre para os usuários retirarem junto com seu depósito inicial no grupo.
 
-![](<../../.gitbook/assets/Screenshot 2022-07-27 at 1.23.36 PM.png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202022-07-27%20at%201.23.36%20PM.png)
 
 Por exemplo, se o grupo de Pottery em 1º de agosto de 2022 atraiu 100.000 depósitos CAKE no total, o retorno estimado para 10 semanas de staking bloqueado é de cerca de 3.674 CAKE. O contrato emprestará 80% dele, ou cerca de 2.940 CAKE, para o prêmio total de 10 sorteios semanais, ou seja, 294 CAKE no total de prêmios para cada sorteio semanal antes das taxas.&#x20;
 

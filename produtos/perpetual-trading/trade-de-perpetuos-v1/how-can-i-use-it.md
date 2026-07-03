@@ -1,6 +1,6 @@
 # Como posso usar isso?
 
-![](../../../.gitbook/assets/how-to-pancakeswap-without-cex-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-pancakeswap-without-cex-header.png)
 
 Usar essa funcionalidade é muito fácil (o difícil é fazer o trade bem). Teremos apenas que seguir uma série de etapas para que nossa experiência seja completa
 
@@ -90,7 +90,7 @@ Você também pode escolher a moeda de referência para ver sua posição
 
 Quando todos os parâmetros estiverem definidos, você pode enviar o pedido clicando em long, se for uma ordem de compra, ou short, se for uma ordem de venda.
 
-![](<../../../.gitbook/assets/image (59) (4).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2859%29%20%284%29.png)
 
 ### Checando sua posição
 

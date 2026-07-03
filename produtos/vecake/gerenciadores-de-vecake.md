@@ -21,7 +21,7 @@ Somos gratos por suas contribuições, mas observe que este não é um endosso o
 
 ### [Cakepie (da Equipe Magpie)](https://www.pancake.magpiexyz.io/stake)
 
-<figure><img src="../../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28192%29.png" alt=""><figcaption></figcaption></figure>
 
 Produtos:&#x20;
 

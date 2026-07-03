@@ -1,6 +1,6 @@
 # 🗳 Votação
 
-![](../../.gitbook/assets/voting-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/voting-header.png)
 
 A votação dá voz à comunidade PancakeSwap, permitindo que a comunidade opine sobre como a PancakeSwap se desenvolverá no futuro.
 

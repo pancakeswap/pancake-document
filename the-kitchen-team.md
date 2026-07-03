@@ -1,6 +1,6 @@
 # A Equipe da Cozinha
 
-![](.gitbook/assets/the-kitchen-team-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/the-kitchen-team-header.png)
 
 Você pode pular para os artigos de entrevistas com os chefes clicando no nome do chef.
 
