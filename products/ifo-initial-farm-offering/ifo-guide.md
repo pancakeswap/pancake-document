@@ -1,6 +1,6 @@
 # How to Participate in an IFO
 
-![](../../.gitbook/assets/how-to-enter-an-ifo-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-enter-an-ifo-header.png)
 
 {% hint style="danger" %}
 Warning: this page is outdated. As we will be bringing several new updates to the IFO process over the coming weeks, we won't keep this page up to date for now: please refer to the details in the IFO proposal (vote) for the specifics of the IFO you want to take part in instead.
@@ -66,7 +66,7 @@ On the IFO page, look where the event start countdown was. You will now see a co
 
 There are two sales available: Basic Sale and Unlimited Sale. It's possible to participate in both sales if you want to, but each has conditions. You will need to choose which sale you would like to participate in.
 
-![](<../../.gitbook/assets/image (11).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2811%29.png)
 
 #### **Basic Sale**
 
