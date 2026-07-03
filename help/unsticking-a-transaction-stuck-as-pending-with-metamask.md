@@ -4,7 +4,7 @@ description: How to "unstick" any pending transactions that are stuck in your Me
 
 # Fixing Stuck Pending Transactions on MetaMask
 
-![](../.gitbook/assets/how-to-fix-a-stuck-transaction-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-fix-a-stuck-transaction-header.png)
 
 If your transaction is stuck on pending in Metamask, and the “Cancel” button isn’t helping, you might need to use this method to clear your backlog.
 
@@ -14,25 +14,25 @@ This method works by essentially overwriting the stuck transaction with another,
 
 1\. Open your MetaMask plugin.
 
-![](../.gitbook/assets/1-1-MetaMask\_plugin.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-1-MetaMask%5C_plugin.png)
 
 
 
 2\. Click on the colorful circle icon on the top-right and click **Settings** from the dropdown menu.
 
-![](<../.gitbook/assets/1-2-MetaMask\_settings (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-2-MetaMask%5C_settings%20%281%29.png)
 
 3\. In the Settings menu, select **Advanced**.
 
-![](../.gitbook/assets/1-3-MetaMask\_advanced.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-3-MetaMask%5C_advanced.png)
 
 4\. Scroll down until you see **Advanced gas controls**. Toggle this to ON.
 
-![](../.gitbook/assets/1-4-MetaMask\_gas\_control\_on.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-4-MetaMask%5C_gas%5C_control%5C_on.png)
 
 5\. Still in Advanced settings, keep scrolling until you see **Customize transaction nonce**. Toggle this to ON.
 
-![](<../.gitbook/assets/1-4-MetaMask\_gas\_control\_on (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-4-MetaMask%5C_gas%5C_control%5C_on%20%281%29.png)
 
 ### **2. Find Your Stuck Transaction**
 
@@ -54,11 +54,11 @@ We’re now going to find the transaction that’s stuck, and make a note of the
 
 Now we’re going to make a new transaction to replace the stuck one. We’ll customize the Nonce number, so that it’s the same as the one that you just wrote down.
 
-![](<../.gitbook/assets/image (9).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%289%29.png)
 
 8\. Create a new transaction to replace your stuck transaction. This time around, increase the **Transaction Fee**. Here we’ve increased it from 9 to 20. This will make it more likely for  your transaction to be added to a block.
 
-![](<../.gitbook/assets/image (10).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2810%29.png)
 
 9\. On the confirmation page, make sure your Gas Price is now at your new, higher amount.&#x20;
 

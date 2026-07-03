@@ -1,6 +1,6 @@
 # Business Partnerships
 
-![](../.gitbook/assets/business-partnerships-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/business-partnerships-header.png)
 
 ## Farms and Syrup Pools
 

@@ -1,6 +1,6 @@
 # Connect Your Wallet to PancakeSwap
 
-![](../.gitbook/assets/how-to-connect-wallet-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-connect-wallet-header.png)
 
 You've made a wallet and gotten your BEP20 tokens, now you just need to connect your wallet with PancakeSwap and you're good to go!
 
@@ -10,7 +10,7 @@ Check out the steps below for how to connect each of our recommended wallets to 
 
 {% tabs %}
 {% tab title="Trust Wallet" %}
-![](<../.gitbook/assets/image (36).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2836%29.png)
 
 To connect Trust Wallet follow the steps below. Note that Android and iOS devices do not use the same steps!
 
@@ -18,15 +18,15 @@ To connect Trust Wallet follow the steps below. Note that Android and iOS device
 
 1. Open Trust Wallet and tap the **DApps** button on the bottom of the screen.
 
-![](<../.gitbook/assets/image (68).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2868%29.png)
 
 1. Scroll down to "Popular" and tap on "PancakeSwap". You can also find it in "Exchanges".
 
-![](<../.gitbook/assets/image (66).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2866%29.png)
 
 1. A new page will open with the PancakeSwap logo and some information. Tap the **Connect** button.
 
-![](<../.gitbook/assets/image (67).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2867%29.png)
 
 1. PancakeSwap will open up. If you see a **Connect** button in the top-right tap that and tap **Trust Wallet** from the list.
 
@@ -47,7 +47,7 @@ Read the [Trust Wallet guide to connecting to PancakeSwap via WalletConnect](htt
 {% endtab %}
 
 {% tab title="MetaMask" %}
-![](<../.gitbook/assets/image (33) (3) (4) (5) (1) (2) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2833%29%20%283%29%20%284%29%20%285%29%20%281%29%20%282%29%20%281%29.png)
 
 To connect MetaMask to PancakeSwap follow the steps below.
 
@@ -55,19 +55,19 @@ To connect MetaMask to PancakeSwap follow the steps below.
 
 1. Open MetaMask and tap on the **burger icon** in the top-left.
 
-![](<../.gitbook/assets/image (72).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2872%29.png)
 
 1. Tap **Settings** in the menu.
 
-![](<../.gitbook/assets/image (73).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2873%29.png)
 
 1. In the Settings menu, tap on **Network**.
 
-![](<../.gitbook/assets/image (74).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2874%29.png)
 
 1. Tap on the **Add Network** button at the bottom.
 
-![](<../.gitbook/assets/image (75).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2875%29.png)
 
 1. On the page that opens, type in the following details:
 
@@ -79,12 +79,12 @@ To connect MetaMask to PancakeSwap follow the steps below.
 
 1. Once you've confirmed entry of the new network, go back to the burger menu and tap **Browser**.
 
-![](<../.gitbook/assets/image (76).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2876%29.png)
 
 1. Type "PancakeSwap" into the search field and start the search. The top result will be the PancakeSwap exchange. Tap to enter it.
 2. You wallet will ask you to connect. Tap **Connect** to connect to PancakeSwap.
 
-![](<../.gitbook/assets/image (77).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2877%29.png)
 
 ### Resources
 
@@ -93,22 +93,22 @@ To connect MetaMask to PancakeSwap follow the steps below.
 {% endtab %}
 
 {% tab title="Coinbase Wallet" %}
-![](<../.gitbook/assets/coinbase\_wallet\_wordmark\_blue (2).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/coinbase%5C_wallet%5C_wordmark%5C_blue%20%282%29.png)
 
 1. Open Coinbase Wallet and tap on the **settings icon** in the bottom-right.\
-   ![](../.gitbook/assets/CB-M-p1.png)\
-   ![](../.gitbook/assets/CB-M-p1\_5.png)
+   ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/CB-M-p1.png)\
+   ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/CB-M-p1%5C_5.png)
 2. In the Settings menu, tap on **Default Network**.\
-   ![](../.gitbook/assets/CB-M-p2.png)****
+   ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/CB-M-p2.png)****
 3. Choose **Binance Smart Chain** from the list of network options.\
-   ![](../.gitbook/assets/CB-M-p3.png)
+   ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/CB-M-p3.png)
 4. Once you've selected the Binance Smart Chain network, click the **Browser Icon** at the bottom-middle of your app.\
-   ![](../.gitbook/assets/CB-M-p4.png)\
-   ![](../.gitbook/assets/CB-M-p5.png)
+   ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/CB-M-p4.png)\
+   ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/CB-M-p5.png)
 5. Type "PancakeSwap.finance" into the search field and start the search.\
-   ![](../.gitbook/assets/CB-M-p6.png)
+   ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/CB-M-p6.png)
 6. Click **Connect** **Wallet** to connect to Coinbase Wallet.\
-   ![](../.gitbook/assets/CB-M-p7.png)
+   ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/CB-M-p7.png)
 
 ### **Resources**
 
@@ -118,7 +118,7 @@ To connect MetaMask to PancakeSwap follow the steps below.
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](<../.gitbook/assets/image (125) (3) (4) (1) (2) (1) (3).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28125%29%20%283%29%20%284%29%20%281%29%20%282%29%20%281%29%20%283%29.png)
 
 Token Pocket is a cryptocurrency management app that natively supports many cryptocurrency networks. It also has a desktop application available.
 
@@ -126,15 +126,15 @@ Token Pocket is a cryptocurrency management app that natively supports many cryp
 
 1. Tap the **Discover** button on the bottom of the main screen.
 
-![](<../.gitbook/assets/image (78).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2878%29.png)
 
 1. You'll see a DApp browser page open. Under "Recommended", find and tap the **PancakeSwap** button. If you can't see PancakeSwap under Recommended, you can also find it under "BSC".
 
-![](<../.gitbook/assets/image (79).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2879%29.png)
 
 1. A window will open saying that you will be opening a third party DApp. Tap **I got it** and you'll be taken to PancakeSwap's website connected to your wallet.
 
-![](<../.gitbook/assets/image (80).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2880%29.png)
 
 **Resources**\
 [**Download Token Pocket App**](https://www.tokenpocket.pro/en/download/app) (Automatically detects device)\
@@ -142,7 +142,7 @@ Token Pocket is a cryptocurrency management app that natively supports many cryp
 {% endtab %}
 
 {% tab title="SafePal" %}
-![](<../.gitbook/assets/image (26) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2826%29%20%281%29.png)
 
 SafePal is available as both a software and hardware wallet. The wallet is easy to install and create, and comes ready to support BEP2 (Binance Chain) and BEP20 (BNB Smart Chain) right away.
 
@@ -150,15 +150,15 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 1. Tap the **4 squares** icon button on the bottom of the main screen.
 
-![](<../.gitbook/assets/image (82).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2882%29.png)
 
 1. You'll see a DApp browser page open. Under "DeFi", find and tap the **PancakeSwap** button. If you can't see PancakeSwap under DeFi, you can also find it under "BSC".
 
-![](<../.gitbook/assets/image (83).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2883%29.png)
 
 1. A window will open saying that you will be opening a third party DApp. Tap **Confirm** and you'll be taken to PancakeSwap's website connected to your wallet.
 
-![](<../.gitbook/assets/image (81).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2881%29.png)
 
 **Resources**\
 ​[**Download SafePal**](https://safepal.io/download) (Automatically detects device)\
@@ -170,13 +170,13 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 {% tabs %}
 {% tab title="MetaMask" %}
-![](<../.gitbook/assets/image (33) (3) (4) (5) (1) (2) (1) (4).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2833%29%20%283%29%20%284%29%20%285%29%20%281%29%20%282%29%20%281%29%20%284%29.png)
 
 ### Chrome and Firefox
 
 1. Open MetaMask and click on the **network selector** at the top. By default it will show "Ethereum Mainnet". Scroll down and click **Custom RPC**.
 
-![](<../.gitbook/assets/image (84).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2884%29.png)
 
 1. A window will open. Type in the details below.
 
@@ -186,19 +186,19 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 **Currency Symbol (optional):** BNB\
 **Block Explorer URL (optional):** [http://bscscan.com](http://bscscan.com)
 
-![](<../.gitbook/assets/image (85).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2885%29.png)
 
 1. Make sure you've typed everything in correctly and click **Save**. BNB Smart Chain will now be one of your network options.
 
-![](<../.gitbook/assets/image (86).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2886%29.png)
 
 1. Visit the [PancakeSwap website](https://pancakeswap.finance). In the top right corner you'll see the **Connect** button. Click it.
 
-![](<../.gitbook/assets/image (164) (3) (3) (1) (2) (1) (2).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28164%29%20%283%29%20%283%29%20%281%29%20%282%29%20%281%29%20%282%29.png)
 
 1. A window will appear asking you to choose a wallet to connect to. Click **MetaMask** (it's the top option on the list).
 
-![](<../.gitbook/assets/image (87).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2887%29.png)
 
 ### Resources
 
@@ -207,21 +207,21 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 {% endtab %}
 
 {% tab title="Binance Wallet" %}
-![](<../.gitbook/assets/image (39).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2839%29.png)
 
 ### Chrome and Firefox
 
 1. Open Binance Chain Wallet and click on the network selector at the top. The default network will be Binance Chain. Choose **BNB Smart Chain** from the list.
 
-![](<../.gitbook/assets/image (88).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2888%29.png)
 
 1. Visit the PancakeSwap website. In the top-right, click **Connect**.
 
-![](<../.gitbook/assets/image (164) (3) (3) (1) (2) (1) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28164%29%20%283%29%20%283%29%20%281%29%20%282%29%20%281%29%20%281%29.png)
 
 1. A window will appear asking you to choose a wallet to connect to. Click **Binance Chain Wallet** (it's farther down the list).
 
-![](<../.gitbook/assets/image (89).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2889%29.png)
 
 ### Resources
 
@@ -230,17 +230,17 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 {% endtab %}
 
 {% tab title="Coinbase Wallet" %}
-![](<../.gitbook/assets/coinbase\_wallet\_wordmark\_blue (2) (2).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/coinbase%5C_wallet%5C_wordmark%5C_blue%20%282%29%20%282%29.png)
 
 1. Open Coinbase Wallet and click on the **Settings** icon at the top-right. By default it will show "Ethereum Mainnet" as the Default Network.\
-   ![](../.gitbook/assets/cb-desktop-1.png)
+   ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/cb-desktop-1.png)
 2. Click on **Default Network** and choose **Binance Smart Chain**\
-   ****![](../.gitbook/assets/cb-desktop-2.png)****
+   ****![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/cb-desktop-2.png)****
 3. Binance Smart Chain will now be your Default Network.
 4. Visit the[ ](https://pancakeswap.finance)[pancakeswap.finance](https://pancakeswap.finance), In the top right corner you'll see the **Connect** button. Click it.\
-   ![](../.gitbook/assets/cb-desktop-3.png)
+   ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/cb-desktop-3.png)
 5. A window will appear asking you to choose a wallet to connect to. Click **Coinbase Wallet** (it's the top option on the list).\
-   ![](../.gitbook/assets/cb-desktop-4.png)
+   ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/cb-desktop-4.png)
 
 ### **Resources**
 
@@ -250,18 +250,18 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](<../.gitbook/assets/image (125) (3) (4) (1) (2) (1) (2).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28125%29%20%283%29%20%284%29%20%281%29%20%282%29%20%281%29%20%282%29.png)
 
 ### Desktop Application
 
 1. When you open the application, DApps should be the default page (if not, click to the DApps page).
 2. Half way down the page you'll see a list of networks to choose from. Click **BSC**.
 
-![](<../.gitbook/assets/image (90).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2890%29.png)
 
 1. On the list of BSC DApps, you'll find PancakeSwap links. Click a **PancakeSwap** link.
 
-![](<../.gitbook/assets/image (92).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2892%29.png)
 
 {% hint style="warning" %}
 Make sure you don't choose the "PancakeSwap data analysis" option. If you do, you will not be able to connect.

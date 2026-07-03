@@ -4,7 +4,7 @@ description: Yield Farming on PancakeSwap is easy!
 
 # How to Use Farms
 
-![](../../.gitbook/assets/how-to-yield-farms-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-yield-farms-header.png)
 
 Yield Farming in Farms is a great way to earn CAKE rewards on PancakeSwap.
 
@@ -45,7 +45,7 @@ Now that you've found a Farm to stake in, you will need to add liquidity to get 
 1. Click on the row of the Farm you've chosen from the list. It will open to show more details.
 2. On the left, you'll see some links. Click the **Get (your pair) LP** link.
 
-![](<../../.gitbook/assets/image (153) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28153%29%20%281%29.png)
 
 This will open the Add Liquidity page for your Farm's pair. We have a [guide to adding liquidity](https://docs.pancakeswap.finance/get-started/liquidity-guide) you can follow to get your LP Tokens.
 
@@ -81,17 +81,17 @@ You may decide you would like to add more LP Tokens to a Farm at a later date, o
 
 1. Return to the [Yield Farms page](https://pancakeswap.finance/farms). At the top of the page you'll see a **Staked only** toggle. Click the toggle.
 
-![](<../../.gitbook/assets/image (34).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2834%29.png)
 
 You should now only see the pairs you have LP Tokens in on the list, making it easier to find your Farm.
 
 1. Find the Farm you have LP Tokens in, and click the row to view details. You will see a **-** and **+** button on the right-hand side. Click **-** to remove LP Tokens, or **+** to add more LP Tokens.
 
-![](<../../.gitbook/assets/image (102) (2) (2) (1) (2) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28102%29%20%282%29%20%282%29%20%281%29%20%282%29%20%281%29.png)
 
 1. A window will open that looks like the one you used earlier to first stake your LP Tokens. Like last time, type the amount you would like to unstake/stake, or click **Max** to remove/add all available LP Tokens.
 
-![](<../../.gitbook/assets/image (33).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2833%29.png)
 
 1. Make sure your information is correct. When you are ready, click the **Confirm** button and confirm the action in your wallet.
 2. After a short wait, your new balance will show in the details section of your LP Token pair. If you've unstaked your LP Tokens, any unharvested rewards you had will automatically have been collected.
@@ -119,7 +119,7 @@ How often you harvest your rewards is up to you, but it does help to remember th
 
 You can see this fee in your wallet when confirming after clicking **Harvest**.
 
-![](<../../.gitbook/assets/image (31).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2831%29.png)
 
 This shows the fee for harvesting as it appears in the MetaMask wallet. Different wallets will show the information a little differently. Consider leaving your rewards to grow for a while so you pay fees less often.
 
