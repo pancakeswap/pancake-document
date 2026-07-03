@@ -1,6 +1,6 @@
 # 🔄 Exchange
 
-![](../../.gitbook/assets/pancakeswap-exchange-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/pancakeswap-exchange-header.png)
 
 PancakeSwap é um Formador de Mercado Automatizado (AMM), e a Exchange é o coração da PancakeSwap. PancakeSwap é o AMM líder na BNB Smart Chain, e como dizem as estatísticas, a Exchange Descentralizada (DEX) mais popular de todos os tempos!
 

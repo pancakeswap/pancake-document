@@ -1,6 +1,6 @@
 # 🎟 Loteria v2
 
-![](../../.gitbook/assets/lottery-v2-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/lottery-v2-header.png)
 
 Jogar na Loteria PancakeSwap dá a você a chance de ganhar grandes prêmios em CAKE! É fácil, justo e você pode entrar quantas vezes quiser, desde que tenha CAKE para comprar o bilhete.
 
@@ -19,7 +19,7 @@ Os preços dos bilhetes de loteria são definidos no início da nova rodada de l
 
 A compra de vários bilhetes de loteria de uma só vez oferece um desconto de atacado na sua compra. Você pode comprar até 100 ingressos em uma compra, com o desconto começando pequeno em 2 ingressos e aumentando até 4,95% em 100 ingressos..
 
-![](<../../.gitbook/assets/image (146).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28146%29.png)
 
 ## **Como ganhar**
 
@@ -34,17 +34,17 @@ Os números devem corresponder, **em ordem a partir do lado esquerdo do seu bilh
 
 Números sorteados
 
-![Drawn Numbers](<../../.gitbook/assets/image (148) (1).png>)
+![Drawn Numbers](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28148%29%20%281%29.png)
 
 Os números do seu bilhete
 
-![Your Ticket A](<../../.gitbook/assets/image (95) (1) (1).png>)
+![Your Ticket A](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2895%29%20%281%29%20%281%29.png)
 
 No exemplo acima, Bilhete A, cinco dos números do bilhete correspondem aos mesmos números sorteados, exatamente na mesma ordem: todos, exceto o quarto.&#x20;
 
 No entanto, como o quarto dígito não corresponde ao número sorteado, apenas os três primeiros dígitos contam como correspondência na ordem. Isso ganharia um prêmio por ter acertado os 3 primeiros, "Match first 3".
 
-![Your Ticket B](<../../.gitbook/assets/image (149).png>)
+![Your Ticket B](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28149%29.png)
 
 Exemplo de Bilhete B. Aqui está um azarado. Mesmo que os últimos cinco dígitos correspondam, o primeiro dígito não corresponde, então este bilhete não ganha nada.&#x20;
 

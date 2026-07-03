@@ -1,6 +1,6 @@
 # Como Jogar a Loteria v2
 
-![](../../.gitbook/assets/how-to-lottery-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-lottery-header.png)
 
 A Loteria da PancakeSwap não é apenas uma boa maneira de empilhar mais CAKE, também é muito divertida! Este guia irá orientá-lo sobre como se envolver na loteria.
 
@@ -16,13 +16,13 @@ Quanto mais tempo uma rodada estiver aberta, mais pessoas poderão comprar um bi
 
 ‌1. Visite a[ Página da Loteria da PancakeSwap](https://pancakeswap.finance/lottery) e observe o topo da página. Você verá a pool do prêmio da rodada atual sendo mostrado em valores em doláres (estimado).
 
-![](<../../.gitbook/assets/image (93) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2893%29%20%281%29.png)
 
 Essa é a quantidade a ser compartilhada entre todos os vencedores.
 
 ‌2. Um pouco mais abaixo na página você encontrará o tempo restante antes do sorteio da atual rodada.
 
-![](<../../.gitbook/assets/image (94).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2894%29.png)
 
 Lembre-se, muita coisa pode mudar no tempo que resta. Muito bilhetes mais podem ser vendidos. Cada bilhete vendido aumenta a premiação e diminui as chances de um bilhete individual ganhar. ‌
 
@@ -42,15 +42,15 @@ Você pode optar por randomizar seus números de bilhete de loteria ou escolher 
 
 1\. Na[ Página da Loteria da PancakeSwap](https://pancakeswap.finance/lottery), clique no botão **Buy Tickets (Comprar Bilhetes)** no topo da página (há outro mais baixo na página também).
 
-![](<../../.gitbook/assets/image (96).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2896%29.png)
 
 Há um tempo entre as rodadas em que não é possível comprar bilhetes. Basta verificar novamente após a contagem regressiva, se for o caso.
 
-![](<../../.gitbook/assets/image (97).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2897%29.png)
 
 2\. Uma janela se abrirá permitindo que você escolha quantos bilhetes comprar. Digite quantos bilhetes você gostaria de comprar no campo. Você também pode usar os botões predefinidos abaixo.
 
-![](<../../.gitbook/assets/image (142).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28142%29.png)
 
 3\. Antes de continuar, vale a pena considerar os descontos de compra no atacado. Quanto mais bilhetes você comprar, maior será o desconto.&#x20;
 
@@ -58,7 +58,7 @@ O desconto começa com 2 ingressos e vai até 100 ingressos, onde você economiz
 
 4\. Quando estiver satisfeito com o número de bilhetes que deseja comprar, clique em Confirmar e confirme sua ação em sua carteira.
 
-![](<../../.gitbook/assets/image (143).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28143%29.png)
 {% endtab %}
 
 {% tab title="Manual ticket numbers" %}
@@ -66,15 +66,15 @@ O desconto começa com 2 ingressos e vai até 100 ingressos, onde você economiz
 
 1\. Na[ Página da Loteria da PancakeSwap](https://pancakeswap.finance/lottery), clique no botão **Buy Tickets (Comprar Bilhetes)** no topo da página (há outro mais baixo na página também)..
 
-![](<../../.gitbook/assets/image (96).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2896%29.png)
 
 Há um tempo entre as rodadas em que não é possível comprar bilhetes. Basta verificar novamente após a contagem regressiva, se for o caso.
 
-![](<../../.gitbook/assets/image (97).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2897%29.png)
 
 2\. Uma janela se abrirá permitindo que você escolha quantos bilhetes comprar. Digite quantos bilhetes você gostaria de comprar no campo. Você também pode usar os botões predefinidos abaixo.
 
-![](<../../.gitbook/assets/image (142).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28142%29.png)
 
 3\. Antes de continuar, vale a pena considerar os descontos de compra no atacado. Quanto mais bilhetes você comprar, maior será o desconto.&#x20;
 
@@ -82,7 +82,7 @@ O desconto começa com 2 ingressos e vai até 100 ingressos, onde você economiz
 
 1. Para personalizar os números em seus bilhetes, clique no botão **Visualizar/Editar Números**.
 
-![](<../../.gitbook/assets/image (144).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28144%29.png)
 
 5\. Uma nova janela se abrirá mostrando seus bilhetes. Clique em um número em qualquer bilhete para alterar o número nessa posição.
 
@@ -92,11 +92,11 @@ Você pode randomizar seus números novamente clicando em Randomizar ou voltar s
 
 Você receberá um aviso se criar bilhetes duplicados. É possível que seus bilhetes duplicados ganhem. Nesse caso, seus bilhetes serão divididos na premiação de sua chave.
 
-![](<../../.gitbook/assets/image (103).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28103%29.png)
 
 6\. Quando estiver satisfeito com seus números, clique no botão **Confirmar e comprar**.
 
-![](<../../.gitbook/assets/image (145).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28145%29.png)
 
 Confirme a ação em sua carteira..
 {% endtab %}
@@ -108,11 +108,11 @@ Você pode ver seus bilhetes depois de comprá-los antes que os números da roda
 
 1\. Clique em **View Your Tickets(Veja seus bilhetes)** na área "Next Draw" da página da loteria.
 
-![](<../../.gitbook/assets/image (108).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28108%29.png)
 
 2\. Uma janela será aberta mostrando todos os seus bilhetes e seus números. Também lhe dará a opção de comprar mais bilhetes, se desejar.
 
-![](<../../.gitbook/assets/image (109).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28109%29.png)
 
 ## Quando a rodada termina e os números vencedores são sorteados
 

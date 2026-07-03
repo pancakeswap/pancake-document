@@ -1,6 +1,6 @@
 # Trade de Perpétuos V2
 
-<figure><img src="../../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2862%29.png" alt=""><figcaption></figcaption></figure>
 
 Nos Perpétuos V2 da Pancakeswap, simplificamos nossa interface removendo o livro de pedidos e exibições de profundidade de mercado. Em vez disso, nossos parceiros ApolloX introduziram a pool de ALP, que agora fornece liquidez para todos os pares de negociação, maximizando seu uso de capital. A pool de ALP participará ativamente do processo de criação de mercado para nossos contratos perpétuos V2. Por favor [visite esta página](https://apollox-finance.gitbook.io/apollox-finance/welcome/trading-v2/powered-by-binance-oracle-and-chainlink) para ler mais sobre o modelo de oráculo de baixa latência V2.&#x20;
 

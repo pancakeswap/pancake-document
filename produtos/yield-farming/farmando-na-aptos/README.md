@@ -6,7 +6,7 @@ description: Receba as mesmas recompensas suculentas de CAKE fazendo farm na Apt
 
 
 
-<figure><img src="../../../.gitbook/assets/spaces_-MHREX7DHcljbY5IkjgJ-1972196547_uploads_MfvsPk6njRxvFCNjPxKZ_farming-on-aptos.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/spaces_-MHREX7DHcljbY5IkjgJ-1972196547_uploads_MfvsPk6njRxvFCNjPxKZ_farming-on-aptos.webp" alt=""><figcaption></figcaption></figure>
 
 Com nossa implantação multichain, a PancakeSwap agora está trazendo a experiência icônica do farm de rendimento para provedores de liquidez na Aptos. Os farms de rendimento permitem que os usuários ganhem CAKE enquanto apoiam a PancakeSwap fazendo stake de tokens LP.&#x20;
 

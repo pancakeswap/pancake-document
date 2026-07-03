@@ -29,9 +29,9 @@ Por exemplo, se o limite for 35 semanas:
 * Sua posição atual de stake de prazo fixo tem uma duração de 7 semanas e 200 CAKE staking. Então o número de iCAKE que você tem é igual a 200 × (7 ÷ 35) = 40.
 * Sua posição atual de stake de prazo fixo tem uma duração de 10 semanas e 200 SAKES staking. Mas a posição acabou. Então o número de iCAKE que você tem é 0.
 
-![](<../../.gitbook/assets/image (102) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28102%29%20%281%29.png)
 
-### Como verificar o número de iCAKE que tenho? ![](<../../.gitbook/assets/image (134).png>)
+### Como verificar o número de iCAKE que tenho? ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28134%29.png)
 
 Você pode verificar o número de iCAKE que você tem na página IFO [aqui](https://pancakeswap.finance/ifo).
 
@@ -42,7 +42,7 @@ Você pode aumentar o número de iCAKE que você tem:&#x20;
 * Adicionando mais CAKE à sua posição de stake de prazo fixo na pool de syrup de CAKE.&#x20;
 * Estenda sua duração de stake de prazo fixo se sua duração atual forem menores que o exigido.
 
-![](<../../.gitbook/assets/image (59) (2).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2859%29%20%282%29.png)
 
 Você pode visualizar o número de iCAKE gerado a partir de sua posição de stake ao ajustar ou inicializar o stake de prazo fixo.
 
@@ -50,7 +50,7 @@ Você pode visualizar o número de iCAKE gerado a partir de sua posição de sta
 
 Entre cada IFOs, a cozinha otimizará o limiar com base na duração média de stake da pool de CAKE de staking de prazo fixo. O reajuste será publicado em todas as redes sociais.
 
-![](<../../.gitbook/assets/image (35) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2835%29%20%281%29.png)
 
 Você pode verificar o limiar atual para cálculos de iCAKE passando o mouse ou tocando no texto iCAKE sublinhado na janela do pool de syrup CAKE.
 

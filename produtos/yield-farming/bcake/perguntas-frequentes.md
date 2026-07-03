@@ -1,6 +1,6 @@
 # Perguntas Frequentes
 
-![](../../../.gitbook/assets/how-bCAKE-FAQ.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-bCAKE-FAQ.png)
 
 ### Como são calculados os multiplicadores  de bCAKE?&#x20;
 
@@ -56,8 +56,8 @@ No bCAKE V3, as recompensas de CAKE são coletadas automaticamente em sua cartei
 
 #### Por que não consigo impulsionar uma posição
 
-1. O reforço de farm está disponível apenas para farms selecionados. Mais farms serão disponibilizadas no futuro. Por enquanto, procure a tag "Boosted" na IU.![](<../../../.gitbook/assets/image (6).png>)
-2. Há um limite para o número de posições que você pode aumentar simultaneamente. Para verificar o número de boosters restantes, consulte o painel na parte superior.![](<../../../.gitbook/assets/image (52).png>)\
+1. O reforço de farm está disponível apenas para farms selecionados. Mais farms serão disponibilizadas no futuro. Por enquanto, procure a tag "Boosted" na IU.![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%286%29.png)
+2. Há um limite para o número de posições que você pode aumentar simultaneamente. Para verificar o número de boosters restantes, consulte o painel na parte superior.![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2852%29.png)\
    Você precisará desativar um booster ativo para ativar boosters em outros farms.
 3. Devido ao envolvimento de vários contratos, algumas interações de contrato exigem um pouco mais de tokens de gás (BNB). Portanto, certifique-se de ter BNB suficiente em sua carteira.
 

@@ -1,10 +1,10 @@
 # Conecte Sua Carteira na PancakeSwap
 
-<figure><img src="../.gitbook/assets/how-to-connect-wallet-header (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-connect-wallet-header%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 ### Conecte sua carteira
 
-<figure><img src="../.gitbook/assets/wallet-connection-aptos.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/wallet-connection-aptos.png" alt=""><figcaption></figcaption></figure>
 
 1. Clique em "Connect Wallet" no canto superior direito.
 2. Para a maioria das carteiras de extensão do navegador, basta selecionar o ícone e seguir as instruções na janela pop-up.
@@ -22,18 +22,18 @@ Veja como:
 
 {% tabs %}
 {% tab title="Petra" %}
-<figure><img src="../.gitbook/assets/aptos-network-switching-petra.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/aptos-network-switching-petra.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Martian" %}
-<figure><img src="../.gitbook/assets/aptos-network-switching-martian.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/aptos-network-switching-martian.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Pontem" %}
-<figure><img src="../.gitbook/assets/aptos-network-switching-pontem.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/aptos-network-switching-pontem.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Fewcha" %}
-<figure><img src="../.gitbook/assets/aptos-network-switching-fewcha.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/aptos-network-switching-fewcha.gif" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}

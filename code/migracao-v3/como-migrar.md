@@ -6,7 +6,7 @@ description: >-
 
 # Como migrar
 
-<figure><img src="../../.gitbook/assets/image (15) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2815%29%20%283%29.png" alt=""><figcaption></figcaption></figure>
 
 Em abril de 2023, a PancakeSwap anunciou a V3 para Exchange e Farms. Alguns pares dos farms precisarão ser migrados para continuar ganhando recompensas de stake. Relaxe, como da última vez, vai ser suave.
 
@@ -46,7 +46,7 @@ Você precisa migrar se atender às seguintes condições:
 
 ## Como migrar
 
-<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2872%29.png" alt=""><figcaption></figcaption></figure>
 
 Procure o banner de migração V3 na página de Liquidez ou Farm. Em seguida, clique em “Prosseguir” para entrar na página do assistente de migração.
 

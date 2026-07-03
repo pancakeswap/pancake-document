@@ -62,4 +62,4 @@ O feed de preços BTC e MADBTCUSD pode ser encontrado aqui:&#x20;
 
 Para verificar os preços históricos do BTC e MADBTC, fornecemos um gráfico de backtest abaixo.
 
-<figure><img src="../../../../.gitbook/assets/image (187).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28187%29.png" alt=""><figcaption></figcaption></figure>

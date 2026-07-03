@@ -1,6 +1,6 @@
 # Crie uma Carteira
 
-![](../.gitbook/assets/how-to-make-a-crypto-wallet-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-make-a-crypto-wallet-header.png)
 
 Para começar a usar o PancakeSwap, a primeira coisa que você precisa é configurar uma carteira com suporte a BNB Smart Chain (BSC). As carteiras estão disponíveis em computadores desktop e em dispositivos de smartphone. Você precisará escolher a carteira que melhor se adapta às suas necessidades.
 
@@ -44,7 +44,7 @@ Você pode encontrar informações mais detalhadas sobre cada carteira abaixo, b
 
 {% tabs %}
 {% tab title="Trust Wallet" %}
-![](<../.gitbook/assets/image (36) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2836%29%20%281%29.png)
 
 Trust Wallet é uma carteira popular para smartphone. Ele suporta DApps, NFTs colecionáveis (com suporte Opensea.io) e stake na carteira.
 
@@ -68,7 +68,7 @@ Trust Wallet é uma carteira popular para smartphone. Ele suporta DApps, NFTs co
 {% endtab %}
 
 {% tab title="MetaMask" %}
-![](<../.gitbook/assets/image (33) (3) (4) (5) (1) (1) (1) (1) (1) (1) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2833%29%20%283%29%20%284%29%20%285%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.png)
 
 MetaMask é uma carteira de plugin baseada em navegador muito popular que suporta ERC20 (rede Ethereum) e BEP2 e BEP20 (redes Binance Chain e BNB Smart Chain).
 
@@ -94,7 +94,7 @@ MetaMask é uma carteira de plugin baseada em navegador muito popular que suport
 {% endtab %}
 
 {% tab title="Coinbase Wallet" %}
-![](<../.gitbook/assets/coinbase\_wallet\_wordmark\_blue (1) (1) (1) (1) (1) (3).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/coinbase%5C_wallet%5C_wordmark%5C_blue%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%283%29.png)
 
 Milhões de usuários escolhem a CarCoinbase Wallet para obter rendimento com DeFi, trocar mais de 5.500 ativos e manter suas coleções de NFT. A carteira da Coinbase suporta BEP2 e BEP20 (redes Binance Chain e BNB Smart Chain).
 
@@ -117,7 +117,7 @@ _A Coinbase Wallet é uma carteira de auto-custódia que fornece serviços de so
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](<../.gitbook/assets/image (125) (3) (4) (1) (1) (1) (1) (1) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28125%29%20%283%29%20%284%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.png)
 
 O Token Pocket é um aplicativo de gerenciamento de criptomoedas que oferece suporte nativo a muitas redes de criptomoedas. Ele também tem um aplicativo de desktop disponível.
 
@@ -170,7 +170,7 @@ Agora você tem sua chave privada pronta para importar sua carteira para a vers�
 {% endtab %}
 
 {% tab title="SafePal" %}
-![](<../.gitbook/assets/image (26) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2826%29%20%281%29.png)
 
 SafePal está disponível como carteira de software e hardware. A carteira é fácil de instalar e criar, e vem pronta para suportar BEP2 (Binance Chain) e BEP20 (BNB Smart Chain) imediatamente.
 
@@ -219,7 +219,7 @@ Você pode encontrar informações mais detalhadas sobre cada carteira abaixo, b
 
 {% tabs %}
 {% tab title="MetaMask" %}
-![](<../.gitbook/assets/image (33) (3) (4) (5) (1) (1) (1) (1) (1) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2833%29%20%283%29%20%284%29%20%285%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.png)
 
 MetaMask é um plugin de carteira baseado em navegador muito popular que suporta ERC20 (rede Ethereum) por padrão e BEP2 e BEP20 (redes Binance Chain e BNB Smart Chain) com um pouco de trabalho.
 
@@ -245,7 +245,7 @@ MetaMask é um plugin de carteira baseado em navegador muito popular que suporta
 {% endtab %}
 
 {% tab title="Binance Wallet" %}
-![](<../.gitbook/assets/image (39).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2839%29.png)
 
 A Binance Wallet é uma carteira de plug-in de navegador que suporta nativamente as redes Binance Chain (BEP2) BNB Smart Chain (BEP20). A Binance Wallet foi desenvolvida pela exchange de criptomoedas Binance.
 
@@ -270,7 +270,7 @@ A Binance Wallet é uma carteira de plug-in de navegador que suporta nativamente
 {% endtab %}
 
 {% tab title="Coinbase Wallet" %}
-![](<../.gitbook/assets/coinbase\_wallet\_wordmark\_blue (1) (1) (1) (1) (1) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/coinbase%5C_wallet%5C_wordmark%5C_blue%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.png)
 
 Milhões de usuários escolhem a Coinbase Wallet para obter rendimento com DeFi, trocar mais de 5.500 ativos e manter suas coleções de NFT. A carteira Coinbase suporta ERC20 (rede Ethereum) e BEP2 e BEP20 (redes Binance Chain e BNB Smart Chain).
 
@@ -299,7 +299,7 @@ _Coinbase Wallet é uma carteira de auto-custódia que fornece serviços de soft
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](<../.gitbook/assets/image (125) (3) (4) (1) (1) (1) (1) (1) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28125%29%20%283%29%20%284%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.png)
 
 O Token Pocket é um aplicativo independente disponível para dispositivos Mac OS e Win64. O Token Pocket permite que você gerencie sua criptomoeda em um software independente do seu navegador.
 

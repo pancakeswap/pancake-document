@@ -4,7 +4,7 @@ description: Migre seus Farms e Pools de stake para o novo MasterChef da Pancake
 
 # Migre seus Stakes
 
-![Caso não saiba: você está atualmente lendo o "tutorial" mencionado nesse banner.](../../.gitbook/assets/aaa.jpg)
+![Caso não saiba: você está atualmente lendo o "tutorial" mencionado nesse banner.](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/aaa.jpg)
 
 Para continuar ganhando suas recompensas do stake, você vai precisar migrar seus farms e pools para o novo MasterChef. Relaxa, vai ser fácil.
 
@@ -21,15 +21,15 @@ Você precisa migrar se você faz:
 
 ## Como migrar?
 
-![No momento da migração, os Chefs vão implantar um guia passo a passo para te ajudar durante todo o processo](../../.gitbook/assets/migration-helper-overview.png)
+![No momento da migração, os Chefs vão implantar um guia passo a passo para te ajudar durante todo o processo](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration-helper-overview.png)
 
 ### 1. Procure o assistente de migração
 
-<img src="../../.gitbook/assets/migration-helper-steps-guide-1.png" alt="" data-size="original">
+<img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration-helper-steps-guide-1.png" alt="" data-size="original">
 
 Vá para [https://pancakeswap.finance](https://pancakeswap.finance), conecte sua carteira, e visite os **Farms** e **Pool**. Você deve ver uma notificação de migração no topo da página.
 
-![](<../../.gitbook/assets/migration-helper-steps-guide-2 (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration-helper-steps-guide-2%20%281%29.png)
 
 Clique em "**Proceed**" para ir para o assistente da migração.
 
@@ -37,11 +37,11 @@ Clique em "**Proceed**" para ir para o assistente da migração.
 
 Há duas etapas no assistente de migração. Na primeira etapa, você deve ver uma lista de três pools de Syrup de CAKE e farms que você está fazendo stake no momento.
 
-![](<../../.gitbook/assets/migration-helper-steps-guide-3 (2).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration-helper-steps-guide-3%20%282%29.png)
 
 Clique em "**Unstake All**" em cada pool e farm para retirar todos seus ativos do stake.
 
-![](<../../.gitbook/assets/migration-helper-steps-guide-4 (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration-helper-steps-guide-4%20%281%29.png)
 
 Depois de sacar, clique em "**Go to Stake**" para ir para o passo 2.
 
@@ -49,7 +49,7 @@ Depois de sacar, clique em "**Go to Stake**" para ir para o passo 2.
 
 Aqui você deve ver a nova Pool de Syrup de CAKE e os novos Farms. Antes de fazer stake, você precisa dar permissão para eles.
 
-![](<../../.gitbook/assets/migration-helper-steps-guide-5 (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration-helper-steps-guide-5%20%281%29.png)
 
 Clique em "**Enable**" para permitir o stake em cada Pool de Syrup de CAKE e Farms. Se você está usando um dispositivo móvel, por favor clique “**v**” (setinha pra baixo) para expandir o card podendo ver o botão "**Enable**".
 
@@ -57,7 +57,7 @@ Depois da permissão, você vai estar habilitado para começar o stake na Pool e
 
 {% tabs %}
 {% tab title="Pool de Syrup de CAKE" %}
-![](<../../.gitbook/assets/migration-helper-steps-guide-7 (2).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration-helper-steps-guide-7%20%282%29.png)
 
 Para Pool de Syrup de CAKE. Por favor:
 
@@ -71,7 +71,7 @@ A opção de stake bloqueado (prazo fixo) ficará disponível alguns dias após 
 {% endtab %}
 
 {% tab title="Farms" %}
-![](<../../.gitbook/assets/migration-helper-steps-guide-8 (2).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration-helper-steps-guide-8%20%282%29.png)
 
 Para os farms, por favor:
 
@@ -83,13 +83,13 @@ Para os farms, por favor:
 
 ### 4. Feito!
 
-![](../../.gitbook/assets/migration-helper-steps-guide-9.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration-helper-steps-guide-9.png)
 
 Você agora está fazendo stake no novo MasterChef e continua ganhando recompensas em CAKE! Clique "**Finish**" para voltar e explorar alguns outros incríveis produtos oferecidos pela PancakeSwap.
 
 ## Linha do Tempop da Migração
 
-![](../../.gitbook/assets/bbbbb3.jpg)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bbbbb3.jpg)
 
 Certifique-se de seguir nosso [Twitter](https://twitter.com/pancakeswap/) ou canal de anúncios do [Telegram](https://t.me/PancakeSwapAnn) para o cronograma detalhado e ultimas atualizações! Precisa de alguma ajuda? Aprenda mais como entrar em contato conosco para ser ajudado [aqui](../../contact-us/#help).
 

@@ -1,6 +1,6 @@
 # Início (Aptos)
 
-<figure><img src="../.gitbook/assets/get-started-header (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/get-started-header%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 Usar qualquer coisa nova pode ser um pouco desafiador. Não se preocupe, criamos uma variedade de guias para ajudá-lo a se sentir confortável com a PancakeSwap!
 

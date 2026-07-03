@@ -1,6 +1,6 @@
 # Crie uma Carteira
 
-<figure><img src="../.gitbook/assets/how-to-make-a-crypto-wallet-header (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-make-a-crypto-wallet-header%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 Para começar sua jornada com a PancakeSwap na Aptos, a primeira coisa que você precisa é configurar uma carteira que suporte a Aptos Chain. As carteiras estão disponíveis em computadores desktop e em dispositivos de smartphone. Você precisará escolher a carteira que melhor se adapta às suas necessidades.
 
@@ -46,7 +46,7 @@ Você pode encontrar informações mais detalhadas sobre cada carteira abaixo, b
 
 {% tabs %}
 {% tab title="SafePal" %}
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>O SafePal está disponível como uma carteira de software e hardware. A carteira é fácil de instalar e criar e vem pronta para suportar Aptos, BEP2 (BNB Beacon Chain), BEP20 (BNB Smart Chain) imediatamente.</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%284%29%20%281%29.png" alt=""><figcaption><p>O SafePal está disponível como uma carteira de software e hardware. A carteira é fácil de instalar e criar e vem pronta para suportar Aptos, BEP2 (BNB Beacon Chain), BEP20 (BNB Smart Chain) imediatamente.</p></figcaption></figure>
 
 **Prós:**
 
@@ -67,7 +67,7 @@ Você pode encontrar informações mais detalhadas sobre cada carteira abaixo, b
 {% endtab %}
 
 {% tab title="Trust Wwallet" %}
-<figure><img src="../.gitbook/assets/image (2) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%282%29%20%284%29.png" alt=""><figcaption></figcaption></figure>
 
 Trust Wallet é uma carteira popular para smartphone. Ele suporta DApps, NFTs colecionáveis (com suporte Opensea.io) e stake na carteira.
 
@@ -88,7 +88,7 @@ Trust Wallet é uma carteira popular para smartphone. Ele suporta DApps, NFTs co
 {% endtab %}
 
 {% tab title="Blocto" %}
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%283%29%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -115,21 +115,21 @@ Blocto oferece uma solução amigável e um pacote completo para usar Dapps e ge
 
 1 - Configure inserindo seu endereço de e-mail. Em seguida, digite a senha de uso único recebida por e-mail.
 
-![](<../.gitbook/assets/image (2) (4) (2).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%282%29%20%284%29%20%282%29.png)
 
-![](<../.gitbook/assets/image (26).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2826%29.png)
 
 2 - Clique no botão de adição e escolha "APT - Aptos"
 
-![](<../.gitbook/assets/image (5) (4).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%285%29%20%284%29.png)
 
-![](<../.gitbook/assets/image (31) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2831%29%20%281%29.png)
 
 3 - Pronto! Agora você pode depositar o APT na carteira Aptos e começar a usar **a** PancakeSwap na Aptos acessando a página "Descobrir"!
 
-![](<../.gitbook/assets/image (13) (4) (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2813%29%20%284%29%20%281%29.png)
 
-![](<../.gitbook/assets/image (9) (1) (2).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%289%29%20%281%29%20%282%29.png)
 {% endtab %}
 {% endtabs %}
 
@@ -153,7 +153,7 @@ Você pode encontrar informações mais detalhadas sobre cada carteira abaixo, b
 
 {% tabs %}
 {% tab title="Petra" %}
-<figure><img src="../.gitbook/assets/image (13) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2813%29%20%283%29.png" alt=""><figcaption></figcaption></figure>
 
 A carteira Petra é uma extensão que permite explorar a Aptos no seu navegador.&#x20;
 
@@ -176,7 +176,7 @@ A carteira Petra é uma extensão que permite explorar a Aptos no seu navegador.
 {% endtab %}
 
 {% tab title="Martian" %}
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29%20%281%29%20%281%29%20%282%29%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 Martian é uma carteira na Aptos Chain que permite armazenar, enviar, receber tokens e gerenciar e mintar NFTs. Sua versão móvel está chegando em breve.
 
@@ -192,7 +192,7 @@ Martian é uma carteira na Aptos Chain que permite armazenar, enviar, receber to
 {% endtab %}
 
 {% tab title="Pontem" %}
-<figure><img src="../.gitbook/assets/pontem-setup-desktop-banner.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/pontem-setup-desktop-banner.png" alt=""><figcaption></figcaption></figure>
 
 A Pontem Wallet é uma carteira na Aptos Chain que permite armazenar, enviar, receber tokens e conectar-se a dApps no ecossistema Aptos.
 
@@ -208,7 +208,7 @@ A Pontem Wallet é uma carteira na Aptos Chain que permite armazenar, enviar, re
 {% endtab %}
 
 {% tab title="Fewcha" %}
-<figure><img src="../.gitbook/assets/image (2) (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%282%29%20%284%29%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Atualmente, a carteira Fewcha tem um problema com a importação de chaves privadas. Recomendo experimentar outras carteiras por enquanto.
@@ -228,7 +228,7 @@ A Fewcha Wallet é uma carteira na Aptos Chain que permite armazenar, enviar, re
 {% endtab %}
 
 {% tab title="Blocto" %}
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%283%29%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 Blocto oferece uma solução amigável e um pacote completo para usar Dapps e gerenciar seus ativos.&#x20;
 
@@ -251,17 +251,17 @@ Blocto oferece uma solução amigável e um pacote completo para usar Dapps e ge
 
 1 - Após selecionar "Blocto" na janela de conexão da carteira, você deverá ser apresentado a uma janela de login. Digite seu endereço de e-mail e clique em "Registrar". Se você já configurou uma conta Blocto, digite o endereço de e-mail e clique em "entrar".
 
-<figure><img src="../.gitbook/assets/blocto-setup-desktop-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/blocto-setup-desktop-1.png" alt=""><figcaption></figcaption></figure>
 
 2 - Em seguida, digite a senha de uso único recebida por e-mail.
 
-<figure><img src="../.gitbook/assets/blocto-setup-desktop-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/blocto-setup-desktop-2.png" alt=""><figcaption></figcaption></figure>
 
 3 - Clique em "Criar carteira Aptos". Em seguida, clique em "Confirmar" para se conectar.
 
-<figure><img src="../.gitbook/assets/blocto-setup-desktop-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/blocto-setup-desktop-3.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/blocto-setup-desktop-4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/blocto-setup-desktop-4.png" alt=""><figcaption></figcaption></figure>
 
 4 - Pronto! Observe que você precisará de fundos no seu endereço Aptos com o APT para começar a usar a PancakeSwap na Aptos. Se você quiser acessar a mesma conta em outros dispositivos, basta fazer login usando o mesmo endereço de e-mail.
 {% endtab %}

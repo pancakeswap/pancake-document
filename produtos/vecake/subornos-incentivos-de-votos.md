@@ -1,6 +1,6 @@
 # Subornos (Incentivos de Votos)
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Além de ganhar CAKE por meio de nossas [pools de recompensas semanais de CAKE](https://docs.pancakeswap.finance/v/portuguese-brazilian/produtos/vecake/ganhe-cake-semanalmente), os holders de veCAKE podem votar em medidores para ganhar subornos de mercados de suborno externos. Esses subornos geralmente são enviados por equipes de projeto externos em alguns de nossos [gerenciadores de veCAKE](https://docs.pancakeswap.finance/v/portuguese-brazilian/produtos/vecake/gerenciadores-de-vecake).&#x20;
 

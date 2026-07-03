@@ -1,6 +1,6 @@
 # Redes Sociais & Comunidades
 
-![](../.gitbook/assets/socials-communities-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/socials-communities-header.png)
 
 Aqui você encontrará uma lista dos canais e comunidades oficiais de redes sociais da PancakeSwap. Se o inglês não é sua primeira língua, temos várias comunidades não inglesas que adorariam que você se juntasse a elas!
 

@@ -1,6 +1,6 @@
 # Obter Aptos Coins
 
-<figure><img src="../.gitbook/assets/how-to-get-bep20-tokens-header (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-get-bep20-tokens-header%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Este guia cobre os principais serviços de bridge de Aptos para tokens convencionais. Para Bridge de CAKE entre Aptos e BNB Smart chain, use a [Bridge de Aptos da PancakeSwap](https://bridge.pancakeswap.finance/aptos).

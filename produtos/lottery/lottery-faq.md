@@ -48,13 +48,13 @@ Não, uma vez comprado, você não poderá converter seu bilhetes de volta para 
 
 Sim, você precisará clicar no botão **Check Now** em "Você é um vencedor?" na página da Loteria.
 
-![](<../../.gitbook/assets/image (150).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28150%29.png)
 
 ## Com qual frequência ocorre a loteria?&#x20;
 
 Um sorteio de loteria ocorre a cada 12 ou 36 horas. Um sorteio de loteria ocorre todos os dias alternando entre 0:00 UTC e 12:00 UTC, as próximas rodadas após as 0:00 UTC serão após 36 horas, as próximas rodadas após as 12:00 UTC serão após 12 horas.
 
-![Lottery injection schedule](<../../.gitbook/assets/Lottery Schedule Update Feb 4.png>)
+![Lottery injection schedule](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Lottery%20Schedule%20Update%20Feb%204.png)
 
 ## Qual taxa de transação pagarei pela compra dos bilhetes?&#x20;
 

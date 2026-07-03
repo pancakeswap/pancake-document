@@ -1,6 +1,6 @@
 # Clique Aqui para Ajuda
 
-![](../.gitbook/assets/help-area-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/help-area-header.png)
 
 Se você está com uma transação presa, se algo não está funcionando como deveria, ou se você não tem certeza se algo funcionou ou não, esta seção possa te ajudar.
 

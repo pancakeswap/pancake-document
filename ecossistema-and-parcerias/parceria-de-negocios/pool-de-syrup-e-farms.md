@@ -2,7 +2,7 @@
 
 Para obter mais informações sobre nossos programas de mineração de liquidez (“[Pools de Syrup](https://pancakeswap.finance/pools) e [Farms](https://pancakeswap.finance/farms)”), consulte este PDF:
 
-{% file src="../../.gitbook/assets/PancakeSwap Syrup Pools & Farms One-Pager.pdf" %}
+{% file src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/PancakeSwap%20Syrup%20Pools%20%26%20Farms%20One-Pager.pdf" %}
 
 ### Exemplo de um processo de Pool de Syrup e Farm
 
@@ -30,4 +30,4 @@ Para obter mais informações sobre nossos programas de mineração de liquidez 
 
 * Continuaríamos mantendo contato e trabalhando juntos sempre que possível!&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29%20%286%29%20%281%29.png" alt=""><figcaption></figcaption></figure>

@@ -1,6 +1,6 @@
 # Perguntas Frequentes sobre o Trade de Perpétuos
 
-![](../../../.gitbook/assets/general-faq-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/general-faq-header.png)
 
 ### Qual é a contribuição em valor deste novo recurso para os holders de CAKE?
 
@@ -26,7 +26,7 @@ Lembre-se de que você deve primeiro depositar seus fundos na conta de Futuros!
 
 ApolloX está fornecendo o [sistema de tickets de suporte](https://apolloxbroker.zendesk.com/hc/en-us/requests/new) para nosso mercado de perpétuos! Se isso estiver acontecendo com você, clique no ícone do fone de ouvido no canto superior direito da página de perpétuos para abrir um ticket!
 
-![](../../../.gitbook/assets/ApolloXSupportTicket\_Fix.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/ApolloXSupportTicket%5C_Fix.png)
 
 ### Como a ApolloX determina qual usuário é da PCS e qual usuário é do seu próprio website?
 
