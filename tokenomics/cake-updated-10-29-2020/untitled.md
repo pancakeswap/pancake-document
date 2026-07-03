@@ -1,6 +1,6 @@
 # CAKE
 
-![CAKE Token](../../.gitbook/assets/icon-square-512%20%281%29.png)
+![CAKE Token](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/icon-square-512%20%281%29.png)
 
 \*\*\*\*
 

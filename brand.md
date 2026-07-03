@@ -4,7 +4,7 @@ description: Guidlines and downloadable assets like the PancakeSwap logo SVG
 
 # Brand & Logos
 
-![](<.gitbook/assets/Frame 6.png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Frame%206.png)
 
 👇[ Jump to logo download](brand.md#pancakeswap-logo-downloads)
 
@@ -57,11 +57,11 @@ Have fun making a unique brand that's clearly yours -- if your product is strong
 
 ## PancakeSwap Logo Downloads
 
-![](<.gitbook/assets/Frame 4.png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Frame%204.png)
 
 Once you've read all the above, download the PancakeSwap and CAKE logos below.
 
-{% file src=".gitbook/assets/PancakeSwap Logos.zip" %}
+{% file src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/PancakeSwap%20Logos.zip" %}
 Download the official PancakeSwap and CAKE logos.
 {% endfile %}
 
