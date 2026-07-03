@@ -1,6 +1,6 @@
 # 🎟 Lottery v2
 
-![](../../.gitbook/assets/lottery-v2-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/lottery-v2-header.png)
 
 Playing the PancakeSwap Lottery gives you a chance to win huge CAKE prizes! It's easy, fair, and you can enter as often as you like as long as you have the CAKE to buy a ticket.
 
@@ -19,7 +19,7 @@ Lottery ticket prices are set at the start of the new lottery round, and target 
 
 Buying multiple Lottery tickets at once gives a bulk discount on your purchase. You can buy as many as 100 tickets in one purchase, with the discount starting small at 2 tickets, and scaling up to 4.95% at 100 tickets.
 
-![](<../../.gitbook/assets/image (146).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28146%29.png)
 
 ## **How to win**
 
@@ -34,17 +34,17 @@ Match numbers, **from the left side of your ticket**, to the winning numbers dra
 
 Drawn numbers
 
-![Drawn Numbers](<../../.gitbook/assets/image (148).png>)
+![Drawn Numbers](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28148%29.png)
 
 Your ticket's numbers
 
-![Your Ticket A](<../../.gitbook/assets/image (95) (1) (1).png>)
+![Your Ticket A](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2895%29%20%281%29%20%281%29.png)
 
 In the example above, Ticket A, five of the ticket's numbers match the same drawn numbers, in the exact same order: all except the fourth one.
 
 However, since the fourth digit does **not** match the drawn number, only the first three digits count as matching in order. This would win a "Match first 3" prize.
 
-![Your Ticket B](<../../.gitbook/assets/image (149).png>)
+![Your Ticket B](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28149%29.png)
 
 Example Ticket B. Here's an unlucky one. Even though the last five digits match, the first digit doesn't match, so this ticket doesn't win anything at all.
 

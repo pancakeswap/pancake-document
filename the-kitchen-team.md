@@ -1,6 +1,6 @@
 # The Kitchen Team
 
-![](.gitbook/assets/the-kitchen-team-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/the-kitchen-team-header.png)
 
 You can jump to the kitchen interviews article by clicking chef's name.
 

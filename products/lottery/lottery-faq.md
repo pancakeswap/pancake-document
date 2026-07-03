@@ -47,7 +47,7 @@ No, once purchased you will not be able to convert your ticket back to CAKE.
 
 Yes, you will need to click the **Check Now** button under "Are you a winner?" on the Lottery page.
 
-![](<../../.gitbook/assets/image (150).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28150%29.png)
 
 ## How often is the lottery?
 
@@ -79,4 +79,4 @@ When people buy tickets, the CAKE they spend is added to the lottery pot. In add
 
 This injection schedule started with round 440:
 
-![Lottery injection schedule](<../../.gitbook/assets/Lottery Schedule Update Feb 4.png>)
+![Lottery injection schedule](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Lottery%20Schedule%20Update%20Feb%204.png)

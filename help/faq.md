@@ -1,6 +1,6 @@
 # General FAQ
 
-![](../.gitbook/assets/general-faq-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/general-faq-header.png)
 
 This FAQ page answers some of the more commonly asked questions from the PancakeSwap community.
 
