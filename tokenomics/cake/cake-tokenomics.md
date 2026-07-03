@@ -1,6 +1,6 @@
 # CAKE Tokenomics
 
-![](../../.gitbook/assets/en-1129.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/en-1129.png)
 
 ## **Emission rate** <a href="#emission-rate" id="emission-rate"></a>
 
