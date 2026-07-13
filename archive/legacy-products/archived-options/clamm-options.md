@@ -1,39 +1,39 @@
 # CLAMM Options
 
 {% hint style="danger" %}
-\[ARCHIVED] Options – As of March 11, 2025\
-If you still have liquidity to withdraw, please do so immediately by visiting https://www.stryke.xyz/en/trade.
+\[ARCHIVED] Options – 11 मार्च 2025 से\
+यदि आपके पास अभी भी withdraw करने के लिए liquidity है, तो कृपया तुरंत https://www.stryke.xyz/en/trade पर जाकर ऐसा करें।
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/trading-campaign.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/trading-campaign.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
-CLAMM Options presents a novel approach to on-chain options trading, offering liquidity providers a platform to capitalize on v3 liquidity on PancakeSwap. This enables them to utilize liquidity for both the v3 liquidity pools and to sell options, earning standard AMM trading fees, options premiums, and additional rewards, while traders can utilize this liquidity to buy American-style options on various tokens.
+CLAMM Options, on-chain options trading के लिए एक नया दृष्टिकोण प्रस्तुत करता है, जो liquidity providers को PancakeSwap पर v3 liquidity का लाभ उठाने का platform प्रदान करता है। यह उन्हें v3 liquidity pools और options बेचने दोनों के लिए liquidity का उपयोग करने, standard AMM trading fees, options premiums और अतिरिक्त rewards अर्जित करने की सुविधा देता है, जबकि traders इस liquidity का उपयोग विभिन्न tokens पर American-style options खरीदने के लिए कर सकते हैं।
 
-Crafted by the Stryke (formerly Dopex) team, the CLAMM options protocol introduces an efficient dual liquidity provision system for options traders (buyers) and PancakeSwap v3 pools.
+Stryke (पूर्व में Dopex) team द्वारा तैयार, CLAMM options protocol options traders (buyers) और PancakeSwap v3 pools के लिए एक कुशल dual liquidity provision system पेश करता है।
 
-Here's a structured breakdown of how CLAMM Options operates:
+यहाँ बताया गया है कि CLAMM Options कैसे काम करता है:
 
-1. LPs adding liquidity to CLAMM options simultaneously contribute to the designated PancakeSwap v3 pool within their chosen price range.
-2. When an options trader (buyer) initiates a position, liquidity is extracted from the v3 pool to facilitate options selling. The respective LP thereby becomes an options seller and receives a premium.
-3. Liquidity unutilized by options buyers resides in the PancakeSwap v3 pool, potentially earning trading fees.
-4. The payoff from selling options and providing liquidity in a v3 pool mirrors the same impermanent loss, ensuring users face no increased risk compared to the conventional method of adding liquidity to v3 pools.
-5. LPs face some risks, as liquidity might remain unutilized due to lower options buying demand. Additionally, since liquidity is added to the pool in an inactive range, it might not earn any fees.
+1. CLAMM options में liquidity add करने वाले LPs एक साथ अपने chosen price range के भीतर designated PancakeSwap v3 pool में contribute करते हैं।
+2. जब कोई options trader (buyer) position शुरू करता है, तो options selling को facilitate करने के लिए v3 pool से liquidity निकाली जाती है। संबंधित LP इस प्रकार options seller बन जाता है और premium प्राप्त करता है।
+3. Options buyers द्वारा उपयोग न की गई liquidity PancakeSwap v3 pool में रहती है, जो संभावित रूप से trading fees अर्जित करती है।
+4. Options बेचने और v3 pool में liquidity provide करने से payoff, impermanent loss के समान ही mirror करता है, यह सुनिश्चित करते हुए कि उपयोगकर्ताओं को v3 pools में liquidity add करने की conventional method की तुलना में अधिक जोखिम नहीं है।
+5. LPs को कुछ जोखिमों का सामना करना पड़ता है, क्योंकि options buying demand कम होने के कारण liquidity unused रह सकती है। इसके अतिरिक्त, चूँकि liquidity को inactive range में pool में add किया जाता है, इसलिए इसे कोई fees नहीं मिल सकती।
 
-PancakeSwap’s American-style CLAMM options will debut on the Arbitrum chain, offering flexibility with diverse expiry durations ranging from 1 hour to 24 hours.
+PancakeSwap के American-style CLAMM options Arbitrum chain पर debut करेंगे, जिसमें 1 घंटे से 24 घंटे तक की विभिन्न expiry durations के साथ flexibility मिलेगी।
 
-| **Markets**          | ARB/USDC, ETH/USDC, and wBTC/USDC |
-| -------------------- | --------------------------------- |
-| **Options Types**    | Call & Put                        |
-| **Strike Prices**    | Based on v3 pool ticks            |
-| **Expiry Durations** | 1H, 2H, 6H, 12H, and 24H          |
+| **Markets**          | ARB/USDC, ETH/USDC, और wBTC/USDC |
+| -------------------- | ---------------------------------- |
+| **Options Types**    | Call & Put                         |
+| **Strike Prices**    | v3 pool ticks पर आधारित            |
+| **Expiry Durations** | 1H, 2H, 6H, 12H, और 24H           |
 
-**Exercise Conditions:** Users can exercise positions before closure to avoid in-the-money options expiring worthless. Auto-exercise can be enabled to realize profits automatically at expiry, skipping further actions.
+**Exercise Conditions:** उपयोगकर्ता closure से पहले positions exercise कर सकते हैं ताकि in-the-money options worthless expire न हों। Auto-exercise enable करके expiry पर automatically profits realize की जा सकती हैं, जिससे आगे कोई action नहीं लेना होगा।
 
-### Step-by-step guide
+### चरण-दर-चरण मार्गदर्शिका
 
-Here’s the step-by-step guide on how to use PancakeSwap CLAMM Options.
+PancakeSwap CLAMM Options का उपयोग कैसे करें, इसकी चरण-दर-चरण मार्गदर्शिका यहाँ दी गई है।
 
-**For Traders:** [https://blog.pancakeswap.finance/articles/how-to-trade-options-on-pancake-swap](https://blog.pancakeswap.finance/articles/how-to-trade-options-on-pancake-swap) \
-**For LPs:** [https://blog.pancakeswap.finance/articles/how-to-provide-liquidity-on-pancake-swap-s-clamm-options](https://blog.pancakeswap.finance/articles/how-to-provide-liquidity-on-pancake-swap-s-clamm-options)
+**Traders के लिए:** [https://blog.pancakeswap.finance/articles/how-to-trade-options-on-pancake-swap](https://blog.pancakeswap.finance/articles/how-to-trade-options-on-pancake-swap) \
+**LPs के लिए:** [https://blog.pancakeswap.finance/articles/how-to-provide-liquidity-on-pancake-swap-s-clamm-options](https://blog.pancakeswap.finance/articles/how-to-provide-liquidity-on-pancake-swap-s-clamm-options)

@@ -1,85 +1,85 @@
-# The Kitchen Team
+# किचन टीम
 
-![](../../../.gitbook/assets/the-kitchen-team-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/the-kitchen-team-header.png)
 
-You can jump to the kitchen interviews article by clicking chef's name.
+आप शेफ के नाम पर क्लिक करके किचन इंटरव्यू लेख पर जा सकते हैं।
 
-### The Chefs
+### शेफ्स
 
-🐰 Chef Kids - Head Chef ([Twitter](https://x.com/Headchef_pcs))
+🐰 Chef Kids - हेड शेफ ([Twitter](https://x.com/Headchef_pcs))
 
-🐰 Chef Miso - Product
+🐰 Chef Miso - प्रोडक्ट
 
-🐰 Chef Maroon - BD Lead ([Twitter](https://x.com/ChefMaroon))
+🐰 Chef Maroon - BD लीड ([Twitter](https://x.com/ChefMaroon))
 
-🐰 Chef Doxie - Business Development ([Twitter](https://x.com/ChefDoxie))
+🐰 Chef Doxie - बिज़नेस डेवलपमेंट ([Twitter](https://x.com/ChefDoxie))
 
-🐰 Chef Madeline - Business Development
+🐰 Chef Madeline - बिज़नेस डेवलपमेंट
 
-🐰 Chef Leo - Business Development
+🐰 Chef Leo - बिज़नेस डेवलपमेंट
 
-🐰 Chef Mustard - Ops ([Twitter](https://twitter.com/chef_mustard))
+🐰 Chef Mustard - ऑपरेशन्स ([Twitter](https://twitter.com/chef_mustard))
 
-🐰 Chef Pau - Ops
+🐰 Chef Pau - ऑपरेशन्स
 
-🐰 Chef Cyrus - Data
+🐰 Chef Cyrus - डेटा
 
-🐰 Chef Jackson - Dev Lead ([Twitter](https://x.com/0xchefjackson))
+🐰 Chef Jackson - डेव लीड ([Twitter](https://x.com/0xchefjackson))
 
-🐰 Chef Ryan - Frontend Dev Lead
+🐰 Chef Ryan - फ्रंटएंड डेव लीड
 
-🐰 Chef Eric - Frontend Dev
+🐰 Chef Eric - फ्रंटएंड डेव
 
-🐰 Chef Jerry - Frontend Dev
+🐰 Chef Jerry - फ्रंटएंड डेव
 
-🐰 Chef Philip - Frontend Dev
+🐰 Chef Philip - फ्रंटएंड डेव
 
-🐰 Chef Penguin - Frontend Dev
+🐰 Chef Penguin - फ्रंटएंड डेव
 
-🐰 Chef Taco - Backend Dev Lead
+🐰 Chef Taco - बैकएंड डेव लीड
 
-🐰 Chef Sanji - Backend Dev
+🐰 Chef Sanji - बैकएंड डेव
 
-🐰 Chef Curry - Backend Dev
+🐰 Chef Curry - बैकएंड डेव
 
-🐰 Chef Kiwi - Backend Dev
+🐰 Chef Kiwi - बैकएंड डेव
 
-🐰 Chef Bob - Backend Dev
+🐰 Chef Bob - बैकएंड डेव
 
-🐰 Chef Toast - Backend Dev
+🐰 Chef Toast - बैकएंड डेव
 
-🐕 Chef Snoopy - Smart Contract Dev Lead
+🐕 Chef Snoopy - स्मार्ट कॉन्ट्रैक्ट डेव लीड
 
-🐰 Chef Omelette - Smart Contract Dev
+🐰 Chef Omelette - स्मार्ट कॉन्ट्रैक्ट डेव
 
-🐰 Chef Shiba - Smart Contract Dev
+🐰 Chef Shiba - स्मार्ट कॉन्ट्रैक्ट डेव
 
-🐰 Chef Carb - Smart Contract Dev
+🐰 Chef Carb - स्मार्ट कॉन्ट्रैक्ट डेव
 
-🐰 Chef Ramen - Smart Contract Dev
+🐰 Chef Ramen - स्मार्ट कॉन्ट्रैक्ट डेव
 
 🐰 Chef Ruby - QA
 
 🐰 Chef Liam - QA
 
-🐰 Chef Rei - Security
+🐰 Chef Rei - सुरक्षा
 
-🐰 Chef Salade - Design Lead
+🐰 Chef Salade - डिज़ाइन लीड
 
-🐰 [Chef Cecy](https://medium.com/pancakeswap/kitchen-interviews-chef-cecy-the-magical-3d-artist-making-fluffy-bunnies-e1eda53742f3) - 3D Artist ([Twitter](https://twitter.com/Cecymeade))
+🐰 [Chef Cecy](https://medium.com/pancakeswap/kitchen-interviews-chef-cecy-the-magical-3d-artist-making-fluffy-bunnies-e1eda53742f3) - 3D आर्टिस्ट ([Twitter](https://twitter.com/Cecymeade))
 
-🐰 Chef Waffles - Designer
+🐰 Chef Waffles - डिज़ाइनर
 
-🐰 Chef Noodles - Brand / Motion Designer
+🐰 Chef Noodles - ब्रांड / मोशन डिज़ाइनर
 
 🐰 Chef Cola - HR
 
-🐰 Chef Cocoa - Marketing Lead ([Twitter](https://x.com/chef_cocoa_pcs))
+🐰 Chef Cocoa - मार्केटिंग लीड ([Twitter](https://x.com/chef_cocoa_pcs))
 
-🐰 Chef Pixie - Product Marketing Manager ([Twitter](https://x.com/chefpixiee))
+🐰 Chef Pixie - प्रोडक्ट मार्केटिंग मैनेजर ([Twitter](https://x.com/chefpixiee))
 
-🐰 Chef Marcus - Social Media ([Twitter](https://x.com/ChefMarcusPCS))
+🐰 Chef Marcus - सोशल मीडिया ([Twitter](https://x.com/ChefMarcusPCS))
 
-🐰 Chef Boba - Community ([Twitter](https://x.com/chefboba_pcs))
+🐰 Chef Boba - कम्युनिटी ([Twitter](https://x.com/chefboba_pcs))
 
-🐰 Chef Croissant - Events and PR
+🐰 Chef Croissant - इवेंट्स और PR

@@ -4,32 +4,32 @@ hidden: true
 
 # Product Manager \[Prediction Markets]
 
-Probable is a zero-fee, on-chain prediction market platform launched on BNB Chain, incubated by PancakeSwap and supported by YZi Labs. It focuses on user-friendly predictions across crypto, sports, global events, and regional markets, with features like automatic token conversion to USDT and outcomes resolved via UMA's Optimistic Oracle.
+Probable एक शून्य-शुल्क, ऑन-चेन प्रेडिक्शन मार्केट प्लेटफ़ॉर्म है जिसे BNB Chain पर लॉन्च किया गया है, PancakeSwap द्वारा इनक्यूबेट किया गया है और YZi Labs द्वारा समर्थित है। यह क्रिप्टो, खेल, वैश्विक घटनाओं और क्षेत्रीय बाज़ारों में उपयोगकर्ता-अनुकूल प्रेडिक्शन पर ध्यान केंद्रित करता है, जिसमें USDT में स्वचालित टोकन रूपांतरण और UMA के Optimistic Oracle के माध्यम से हल किए गए परिणाम जैसी सुविधाएँ हैं।
 
-As a recently launched project (unveiled in December 2025), Probable appears to operate with a small or integrated team, likely leveraging PancakeSwap's pseudonymous "Kitchen" structure.
+हाल ही में लॉन्च की गई परियोजना (दिसंबर 2025 में अनावरण) होने के नाते, Probable एक छोटी या एकीकृत टीम के साथ काम करती प्रतीत होती है, संभवतः PancakeSwap की छद्म नाम वाली "Kitchen" संरचना का लाभ उठाते हुए।
 
-Given its incubation by PancakeSwap, product strategy and execution are managed through their existing team. The closest equivalent is PancakeSwap's Product Manager position, which involves end-to-end product development in a DeFi/crypto context.&#x20;
+PancakeSwap द्वारा इसके इनक्यूबेशन को देखते हुए, प्रोडक्ट रणनीति और निष्पादन उनकी मौजूदा टीम के माध्यम से प्रबंधित किए जाते हैं। निकटतम समकक्ष PancakeSwap का Product Manager पद है, जिसमें DeFi/क्रिप्टो संदर्भ में end-to-end प्रोडक्ट विकास शामिल है।&#x20;
 
-#### Responsibilities
+#### जिम्मेदारियाँ
 
-* Collaborate with internal stakeholders (leads, design, devs, bd, marketing, qa, data, ops) to craft future products from 0 to 1.
-* Perform market research and identify potential product use cases.
-* Turn requirements and ideas from other stakeholders into complete designs.
-* Visualise userflow with wireframe and assist design to complete the UI/UX.
-* Assist and work with the dev team to build the product.
-* Resolve product issues with qa team.
-* Plan GTM strategies and campaigns with marketing team.
-* Coordinate with external members from partners.
-* Help ops team to perform product deployment.
-* Analyse data and improve product experience with data team.
-* Gather info, provide options to other stakeholders to make critical decisions when needed.
-* Able to work remotely, autonomously with great self initiative.
+* भविष्य के उत्पादों को 0 से 1 तक तैयार करने के लिए आंतरिक हितधारकों (लीड्स, डिज़ाइन, डेव, bd, मार्केटिंग, qa, डेटा, ऑपरेशन्स) के साथ सहयोग करें।
+* बाज़ार अनुसंधान करें और संभावित प्रोडक्ट उपयोग मामलों की पहचान करें।
+* अन्य हितधारकों की आवश्यकताओं और विचारों को पूर्ण डिज़ाइन में बदलें।
+* वायरफ्रेम के साथ उपयोगकर्ता प्रवाह विज़ुअलाइज़ करें और UI/UX पूरा करने में डिज़ाइन की सहायता करें।
+* प्रोडक्ट बनाने के लिए डेव टीम के साथ सहायता और काम करें।
+* qa टीम के साथ प्रोडक्ट समस्याओं को हल करें।
+* मार्केटिंग टीम के साथ GTM रणनीतियाँ और अभियान बनाएँ।
+* साझेदारों के बाहरी सदस्यों के साथ समन्वय करें।
+* प्रोडक्ट परिनियोजन करने में ops टीम की मदद करें।
+* डेटा टीम के साथ डेटा का विश्लेषण करें और प्रोडक्ट अनुभव को बेहतर बनाएँ।
+* जब आवश्यक हो तो महत्वपूर्ण निर्णय लेने के लिए अन्य हितधारकों को जानकारी इकट्ठा करें और विकल्प प्रदान करें।
+* महान स्व-पहल के साथ रिमोट, स्वायत्त रूप से काम करने में सक्षम।
 
-#### Skills & Qualifications
+#### कौशल और योग्यताएँ
 
-* 3+ years experience in Crypto/DeFi/DEX and financial services/products.
-* Experience in full flow of product development. Nice to Have.
-* Technical background of blockchain and Web3 (to assist dev team to plan ahead when designing products. Think inside of the blockchain limitations, but think outside of the box for solutions).
-* Skills for blockchain deep dive, tx debug (to better assist qa and ops).
-* Figma skills (to build pretty mock-ups on your own with a design system).
-* Mandarin (to communicate with some other skillful bunnies).
+* Crypto/DeFi/DEX और वित्तीय सेवाओं/उत्पादों में 3+ वर्षों का अनुभव।
+* प्रोडक्ट विकास के पूर्ण प्रवाह का अनुभव। अच्छा होगा यदि आपके पास हो।
+* ब्लॉकचेन और Web3 का तकनीकी पृष्ठभूमि (उत्पाद डिज़ाइन करते समय पहले से योजना बनाने में dev टीम की सहायता के लिए। ब्लॉकचेन की सीमाओं के भीतर सोचें, लेकिन समाधानों के लिए बॉक्स से बाहर सोचें)।
+* ब्लॉकचेन गहन जाँच, tx डीबग के लिए कौशल (qa और ops को बेहतर सहायता करने के लिए)।
+* Figma कौशल (डिज़ाइन सिस्टम के साथ अपने आप अच्छे मॉकअप बनाने के लिए)।
+* मंदारिन (कुछ अन्य कुशल बनीज़ के साथ संवाद करने के लिए)।

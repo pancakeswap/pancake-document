@@ -1,24 +1,24 @@
-# 👉 How to do a Crosschain Swap?
+# 👉 Crosschain Swap कैसे करें?
 
-1. Visit [https://pancakeswap.finance/swap](https://pancakeswap.finance/swap)
-2. Select **From / To Chains** and **Tokens** in the token selector
+1. [https://pancakeswap.finance/swap](https://pancakeswap.finance/swap) पर जाएँ
+2. टोकन सेलेक्टर में **From / To Chains** और **Tokens** चुनें
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-06-10 at 11.54.24 AM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-06-10%20at%2011.54.24%20AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-<div><figure><img src="../../.gitbook/assets/Screenshot 2025-06-10 at 10.40.16 AM.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Screenshot 2025-06-10 at 11.55.04 AM.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-06-10%20at%2010.40.16%20AM.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-06-10%20at%2011.55.04%20AM.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-3. Review Swap Details:
-   1. From / To Chain, Tokens, and respective amounts
-   2. Total Fee
-   3. Price impact
-   4. Slippage tolerance
+3. Swap विवरण की समीक्षा करें:
+   1. From / To Chain, Tokens, और संबंधित मात्राएँ
+   2. कुल शुल्क
+   3. मूल्य प्रभाव
+   4. स्लिपेज सहनशीलता
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-06-10 at 10.41.54 AM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-06-10%20at%2010.41.54%20AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-4. Click **Swap** → Confirm
+4. **Swap** पर क्लिक करें → Confirm करें
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-06-10 at 10.42.17 AM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-06-10%20at%2010.42.17%20AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-5. Track order progress
+5. ऑर्डर की प्रगति ट्रैक करें
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-06-10 at 10.43.40 AM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-06-10%20at%2010.43.40%20AM.png" alt="" width="375"><figcaption></figcaption></figure>

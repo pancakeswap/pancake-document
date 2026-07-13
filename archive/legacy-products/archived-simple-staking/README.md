@@ -1,50 +1,50 @@
 ---
-description: PancakeSwap has partnered with Binance Earn to offer Simple Staking
+description: PancakeSwap ने Simple Staking प्रदान करने के लिए Binance Earn के साथ साझेदारी की है
 ---
 
 # 🤝 \[Archived] Simple Staking
 
 {% hint style="danger" %}
-&#x20;\[Archived] Simple Staking – As of 10th March 2025
+&#x20;\[Archived] Simple Staking – 10 मार्च 2025 से
 {% endhint %}
 
-### What is Simple Staking?
+### Simple Staking क्या है?
 
-PancakeSwap has partnered with Binance Earn to offer Simple Staking. This allows PancakeSwap users to enjoy the single-sided staking of popular tokens such as CAKE, USDC and USDT on the BNB Chain, supported by Binance Simple Earn.
+PancakeSwap ने Simple Staking प्रदान करने के लिए Binance Earn के साथ साझेदारी की है। यह PancakeSwap उपयोगकर्ताओं को Binance Simple Earn द्वारा supported, BNB Chain पर CAKE, USDC और USDT जैसे popular tokens की single-sided staking का आनंद लेने देता है।
 
-Instead of the usual staking in Farms and liquidity pools with pairs of assets, Simple staking allows you to earn yield by staking a single type of asset. This simplifies the staking process for you.
+Farms और liquidity pools में assets के pairs के साथ usual staking के बजाय, Simple staking आपको एक single type की asset stake करके yield अर्जित करने देती है। यह आपके लिए staking process को सरल बनाती है।
 
-Simple Staking offers a variety of popular tokens to earn yield. As we expand this feature, you’ll have more options to choose from your favorite tokens.&#x20;
+Simple Staking yield अर्जित करने के लिए popular tokens की variety offer करती है। जैसे-जैसे हम इस feature का विस्तार करेंगे, आपके पास अपने favorite tokens में से choose करने के अधिक options होंगे।&#x20;
 
-### Benefits of Simple Staking
+### Simple Staking के लाभ
 
-**No Impermanent Loss:** Unlike AMMs, you won’t face impermanent loss because you’re staking only one token, not a pair.
+**No Impermanent Loss:** AMMs के विपरीत, आपको impermanent loss का सामना नहीं करना पड़ेगा क्योंकि आप केवल एक token stake कर रहे हैं, एक pair नहीं।
 
-**Hassle-Free Staking:** No need to manage different positions or move tokens around as with other yield Farming methods.&#x20;
+**Hassle-Free Staking:** अन्य Yield Farming methods की तरह विभिन्न positions manage करने या tokens move करने की आवश्यकता नहीं।&#x20;
 
-**Daily Accural:** You'll earn rewards daily based on the APR rate and can claim them at the end of the staking period. The longer you commit to staking, the higher your APR.
+**Daily Accural:** आप APR rate के आधार पर daily rewards अर्जित करेंगे और staking period के अंत में उन्हें claim कर सकते हैं। आप जितने लंबे समय तक staking करेंगे, आपका APR उतना ही अधिक होगा।
 
-**APR boost with CAKE staking:** Staking CAKE in our [fixed-term pool](https://pancakeswap.finance/pools) will boost APR rates, increasing your Simple Staking rewards. For more information on Boosted APR, please visit the [FAQ section.](faq.md)
+**CAKE staking के साथ APR boost:** हमारे [fixed-term pool](https://pancakeswap.finance/pools) में CAKE Staking करने से APR rates boost होगी, जिससे आपकी Simple Staking rewards बढ़ेंगी। Boosted APR पर अधिक जानकारी के लिए, कृपया [FAQ section](faq.md) देखें।
 
-### How does Simple Staking work?
+### Simple Staking कैसे काम करती है?
 
-**Simple Staking** provides a convenient and hassle-free way to stake crypto tokens and earn staking rewards. Users can earn daily rewards via staking their tokens for a locked period of 30, 60 or 90 days.&#x20;
+**Simple Staking** crypto tokens stake करने और staking rewards अर्जित करने का एक सुविधाजनक और hassle-free तरीका प्रदान करती है। उपयोगकर्ता 30, 60 या 90 दिनों की locked period के लिए अपने tokens stake करके daily rewards अर्जित कर सकते हैं।&#x20;
 
-Your tokens will earn daily rewards based on the daily APR rate for the lock period, calculated as follows:
+आपके tokens lock period के लिए daily APR rate के आधार पर daily rewards अर्जित करेंगे, जिसकी गणना इस प्रकार होती है:
 
 $$
 \text{Rewards} = \text{Deposited Assets} \times \frac{\text{APR}}{365} \quad \text{(rounded down to 8 decimal places)}
 $$
 
-The staking rewards are distributed daily from 12:00 UTC on the day after the funds are deposited into the staking pool to the end of the staking period. For example, if a user stakes 1000 CAKE in the 90D pool at 30 Sep 2023 14:00 UTC, the first reward will be distributed at 1 Oct 2023 12:00 UTC, and the last reward will be distributed at 3 Feb 2024 12:00 UTC. All the daily distributed rewards can only be claimed after the end of the staking reward.
+Staking rewards funds staking pool में जमा होने के अगले दिन 12:00 UTC से staking period के अंत तक daily distribute की जाती हैं। उदाहरण के लिए, यदि कोई उपयोगकर्ता 30 सितंबर 2023 14:00 UTC पर 90D pool में 1000 CAKE stake करता है, तो पहली reward 1 अक्टूबर 2023 12:00 UTC पर distribute होगी, और अंतिम reward 3 फरवरी 2024 12:00 UTC पर distribute होगी। सभी daily distributed rewards केवल staking reward period समाप्त होने के बाद ही claim की जा सकती हैं।
 
-Do note that APR is subject to changes daily. The estimated rewards shown at the start of the locked staking period may differ slightly from the actual rewards generated.
+ध्यान दें कि APR daily बदलने के अधीन है। Locked staking period की शुरुआत में दिखाए गए estimated rewards actual rewards से थोड़े भिन्न हो सकते हैं।
 
-### When can I claim my rewards?
+### मैं अपनी rewards कब claim कर सकता/सकती हूँ?
 
-Users can claim their rewards at the end of the simple staking period, which is 30, 60 or 90 days from the locked date. The user must unstake the tokens by interacting with the Simple Staking portal. Users can also claim rewards and restake their principal to restart the Simple Staking period. For users who have not claimed or unstake their funds, it will continue to accrue daily rewards at a significantly lower rate. More Information can be found in the [how-to guide](how-to-start-simple-staking.md).
+उपयोगकर्ता simple staking period के अंत में, जो lock date से 30, 60 या 90 दिन है, अपनी rewards claim कर सकते हैं। उपयोगकर्ता को Simple Staking portal के साथ interact करके tokens unstake करने होंगे। उपयोगकर्ता rewards claim करके अपने principal को restake करके Simple Staking period restart भी कर सकते हैं। जिन उपयोगकर्ताओं ने अपने funds claim या unstake नहीं किए हैं, उनके लिए यह काफी कम rate पर daily rewards accruing जारी रखेगा। अधिक जानकारी [how-to guide](how-to-start-simple-staking.md) में मिल सकती है।
 
-Tokens will not be withdrawable in the first third of the staking period (eg. First 10 out of 30D for 30D pool). Tokens will be withdrawable at a 15% penalty fee for the second third of the staking period and 2% for the last third of the staking period. For more information on withdrawal refer to the [FAQ section](faq.md).
+Tokens staking period के पहले तीसरे में withdrawable नहीं होंगे (जैसे 30D pool के लिए पहले 10 में से 10)। Tokens staking period के दूसरे तीसरे के लिए 15% penalty fee और अंतिम तीसरे के लिए 2% पर withdrawable होंगे। Withdrawal पर अधिक जानकारी के लिए [FAQ section](faq.md) देखें।
 
 
 

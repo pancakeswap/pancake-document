@@ -1,21 +1,21 @@
 # Perpetual Trading FAQ
 
-### What is the value contribution of this new feature to the cake holders?
+### CAKE धारकों के लिए इस नई सुविधा का मूल्य योगदान क्या है?
 
-We expect this new feature to bring in a lot of new users, traders and volume. We want to ensure the value goes back to our CAKE token on top of offering the trading fee discount. A portion of all opening and closing fees from users who sign up on PancakeSwap will be converted to CAKE and burnt.&#x20;
+हम अपेक्षा करते हैं कि यह नई सुविधा बड़ी संख्या में नए उपयोगकर्ता, ट्रेडर और वॉल्यूम लाएगी। हम यह सुनिश्चित करना चाहते हैं कि ट्रेडिंग शुल्क छूट प्रदान करने के साथ-साथ मूल्य हमारे CAKE टोकन पर वापस जाए। PancakeSwap पर साइन अप करने वाले उपयोगकर्ताओं के सभी opening और closing शुल्कों का एक भाग CAKE में परिवर्तित करके बर्न किया जाएगा।&#x20;
 
-**And the rest of it?**
+**और बाकी का क्या?**
 
-The rest are currently reserved for the treasury for ongoing expansion and development of this feature. As the feature matures, we expect to increase the burn portion gradually based on community feedback and governance. Moving forward, we'll look to reward CAKE holders with the increasing adoption of Perpetual Trading V2.
+बाकी वर्तमान में इस सुविधा के निरंतर विस्तार और विकास के लिए ट्रेज़री के लिए आरक्षित हैं। जैसे-जैसे यह सुविधा परिपक्व होगी, हम समुदाय की प्रतिक्रिया और गवर्नेंस के आधार पर धीरे-धीरे बर्न भाग बढ़ाने की उम्मीद करते हैं। आगे बढ़ते हुए, हम Perpetual Trading V2 के बढ़ते अपनाने के साथ CAKE धारकों को पुरस्कृत करने की दिशा में काम करेंगे।
 
-### How does Aster determine which user is from PancakeSwap and which user is from their own website?
+### Aster कैसे निर्धारित करता है कि कौन सा उपयोगकर्ता PancakeSwap से है और कौन उनकी अपनी वेबसाइट से?
 
-This is based on the platform where users trade. If users open and close trades on [https://perp.pancakeswap.finance/](https://perp.pancakeswap.finance/), they will be considered PancakeSwap user.
+यह उस प्लेटफॉर्म पर आधारित है जहां उपयोगकर्ता व्यापार करते हैं। यदि उपयोगकर्ता [https://perp.pancakeswap.finance/](https://perp.pancakeswap.finance/) पर ट्रेड खोलते और बंद करते हैं, तो उन्हें PancakeSwap उपयोगकर्ता माना जाएगा।
 
-### Fees
+### शुल्क
 
-Fees for PancakeSwap Perpetuals on different chains are as follows:
+विभिन्न चेन पर PancakeSwap Perpetuals के लिए शुल्क इस प्रकार हैं:
 
-<table><thead><tr><th width="201.33333333333331">Mode</th><th width="248">BSC, opBNB, Base</th><th>Arbitrum</th></tr></thead><tbody><tr><td>Perpetuals V2 opening position fee</td><td>0.08%</td><td>0.05%</td></tr><tr><td>Perpetuals V2 closing position fee</td><td>0.08%</td><td>0.05%</td></tr><tr><td>Perpetuals V2 FX fee</td><td>0.02%</td><td>0.02%</td></tr><tr><td><a href="../degen-mode/">Degen Mode</a></td><td>Minimum 0.03%</td><td>Minimum 0.03%</td></tr><tr><td><a href="../dumb-mode/">Dumb Mode</a></td><td>6% collateral on wins</td><td>6% collateral on wins</td></tr></tbody></table>
+<table><thead><tr><th width="201.33333333333331">मोड</th><th width="248">BSC, opBNB, Base</th><th>Arbitrum</th></tr></thead><tbody><tr><td>Perpetuals V2 पोजीशन खोलने का शुल्क</td><td>0.08%</td><td>0.05%</td></tr><tr><td>Perpetuals V2 पोजीशन बंद करने का शुल्क</td><td>0.08%</td><td>0.05%</td></tr><tr><td>Perpetuals V2 FX शुल्क</td><td>0.02%</td><td>0.02%</td></tr><tr><td><a href="../degen-mode/">Degen Mode</a></td><td>न्यूनतम 0.03%</td><td>न्यूनतम 0.03%</td></tr><tr><td><a href="../dumb-mode/">Dumb Mode</a></td><td>जीतने पर 6% संपार्श्विक</td><td>जीतने पर 6% संपार्श्विक</td></tr></tbody></table>
 
-All trades are subject to an execution fee of 0.5 USD (BNB Chain)/ 0.2 USD (Arbitrum)/ 0.01 USD (opBNB)/ 0.3 USD (Base) when a position is opened.
+सभी ट्रेडों पर पोजीशन खुलने पर 0.5 USD (BNB Chain)/ 0.2 USD (Arbitrum)/ 0.01 USD (opBNB)/ 0.3 USD (Base) का execution fee लगता है।

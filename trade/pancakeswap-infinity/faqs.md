@@ -1,36 +1,36 @@
-# FAQs
+# अक्सर पूछे जाने वाले सवाल (FAQ)
 
-1. **How is Infinity different from PancakeSwap V3?**\
-   Infinity adds new features like programmable hooks, more [pool types](https://docs.pancakeswap.finance/trade/pancakeswap-infinity/pool-types) (like LBAMM and CLAMM), and gas savings. However, the core swap and liquidity provision mechanics are broadly similar to v3 except some minor differences in LBAMM pools for liquidity provisioning.\
+1. **Infinity, PancakeSwap V3 से किस प्रकार भिन्न है?**\
+   Infinity में प्रोग्रामेबल hooks, अधिक [pool types](https://docs.pancakeswap.finance/trade/pancakeswap-infinity/pool-types) (जैसे LBAMM और CLAMM), और गैस बचत जैसी नई सुविधाएँ जोड़ी गई हैं। हालाँकि, मुख्य swap और तरलता प्रावधान mechanics, तरलता प्रावधान के लिए LBAMM pools में कुछ मामूली अंतरों को छोड़कर, v3 के समान ही हैं।\
    <br>
-2.  **What’s the difference between LBAMM and CLAMM?**
+2.  **LBAMM और CLAMM में क्या अंतर है?**
 
-    1. **LBAMM (Liquidity Book AMM):** Uses liquidity bins, each holding liquidity at different price levels. LPs can provide liquidity across bins, swaps are executed at a single price level within a bin.
-    2. **CLAMM (Concentrated Liquidity AMM):** Allows users to provide liquidity within custom price ranges like in PancakeSwap V3.
+    1. **LBAMM (Liquidity Book AMM):** तरलता bins का उपयोग करता है, जिनमें से प्रत्येक अलग-अलग मूल्य स्तरों पर तरलता रखता है। LPs bins में तरलता प्रदान कर सकते हैं, स्वैप एक bin के भीतर एकल मूल्य स्तर पर निष्पादित होते हैं।
+    2. **CLAMM (Concentrated Liquidity AMM):** उपयोगकर्ताओं को PancakeSwap V3 की तरह कस्टम मूल्य सीमाओं के भीतर तरलता प्रदान करने की अनुमति देता है।
 
     \
-    For more details, visit [here](https://docs.pancakeswap.finance/trade/pancakeswap-infinity/pool-types). \
+    अधिक जानकारी के लिए, [यहाँ](https://docs.pancakeswap.finance/trade/pancakeswap-infinity/pool-types) जाएँ। \
     <br>
-3. **How do I claim my farm rewards, and why is it limited to every 8 hours?**\
-   You can claim farm rewards from your liquidity positions by clicking on "Harvest" button. Infinity allows for batch claiming across all active farm positions, saving gas cost. Rewards are computed and processed every 8 hours to optimise for gas costs and compute. \
+3. **मैं अपने फार्म पुरस्कार कैसे claim करूँ, और यह हर 8 घंटे तक सीमित क्यों है?**\
+   आप "Harvest" बटन पर क्लिक करके अपनी तरलता पोजीशन से फार्म पुरस्कार claim कर सकते हैं। Infinity सभी सक्रिय फार्म पोजीशन में batch claiming की अनुमति देता है, जिससे गैस लागत बचती है। गैस लागत और कंप्यूट को अनुकूलित करने के लिए पुरस्कारों की गणना और प्रक्रिया हर 8 घंटे में होती है। \
    \
-   For more details on farming mechanism, visit [here](https://docs.pancakeswap.finance/trade/pancakeswap-infinity/farms). \
+   Farming mechanism के बारे में अधिक जानकारी के लिए, [यहाँ](https://docs.pancakeswap.finance/trade/pancakeswap-infinity/farms) जाएँ। \
    <br>
-4.  **How do the Infinity hooks work?**\
-    Hooks are customizable smart contract extensions that add extra functionality to a pool. They can trigger additional actions during swaps or liquidity events — for example, adjusting fees, offering discounts, or applying other logic.<br>
+4.  **Infinity hooks कैसे काम करते हैं?**\
+    Hooks अनुकूलन योग्य स्मार्ट कॉन्ट्रैक्ट एक्सटेंशन हैं जो एक पूल में अतिरिक्त कार्यक्षमता जोड़ते हैं। वे स्वैप या तरलता घटनाओं के दौरान अतिरिक्त क्रियाएँ शुरू कर सकते हैं — उदाहरण के लिए, शुल्क समायोजित करना, छूट प्रदान करना, या अन्य लॉजिक लागू करना।<br>
 
-    Hooks are attached to a pool when it’s created. In most cases, **users don’t need to take any extra steps**. As long as you’re swapping or providing liquidity as usual, you’ll automatically benefit from the hook’s logic if it applies to that pool.<br>
+    Hooks पूल बनाते समय उससे जोड़े जाते हैं। अधिकांश मामलों में, **उपयोगकर्ताओं को कोई अतिरिक्त कदम नहीं उठाने होते**। जब तक आप सामान्य रूप से स्वैप या तरलता प्रदान करते हैं, आप उस पूल में लागू होने पर hook के लॉजिक से स्वतः लाभ उठाएंगे।<br>
 
-    👉 **You can view the active hooks and their details on each pool’s page under the "Pool Features" section.**\
+    👉 **आप प्रत्येक पूल के पेज पर "Pool Features" सेक्शन के अंतर्गत सक्रिय hooks और उनके विवरण देख सकते हैं।**\
     <br>
-5.  **Why didn’t I receive any fees when withdrawing my position from an LBAMM pool?**\
-    In LBAMM (Liquidity Book AMM) pools, fees are automatically added to your active liquidity bins. This means:
+5.  **LBAMM pool से मेरी पोजीशन वापस लेने पर मुझे कोई शुल्क क्यों नहीं मिला?**\
+    LBAMM (Liquidity Book AMM) pools में, शुल्क स्वतः आपके सक्रिय तरलता bins में जोड़ दिए जाते हैं। इसका अर्थ है:
 
-    1. When you withdraw your position, your earned fees are included in the total token amounts you’re withdrawing.
-    2. Unlike traditional AMMs, there’s no separate “fees to collect” balance — it’s all bundled into your position’s value.
+    1. जब आप अपनी पोजीशन वापस लेते हैं, तो आपके अर्जित शुल्क आपके वापस किए जाने वाले कुल टोकन राशि में शामिल होते हैं।
+    2. पारंपरिक AMM के विपरीत, कोई अलग "collect करने योग्य शुल्क" बैलेंस नहीं होता — सब कुछ आपकी पोजीशन के मूल्य में समाहित होता है।
 
     \
-    If you didn’t notice additional tokens upon withdrawal, it could be because:
+    यदि निकासी पर अतिरिक्त टोकन नज़र नहीं आए, तो ऐसा इसलिए हो सकता है:
 
-    1. Your position may have incurred more impermanent loss than the fees collected due to price moves during your position’s duration.
-    2. Your liquidity wasn’t in active bins where trades occurred.
+    1. आपकी पोजीशन ने आपकी पोजीशन की अवधि के दौरान मूल्य परिवर्तनों के कारण अर्जित शुल्क से अधिक impermanent loss झेला हो।
+    2. आपकी तरलता उन सक्रिय bins में नहीं थी जहाँ ट्रेड हुए।

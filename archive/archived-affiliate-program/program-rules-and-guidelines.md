@@ -1,20 +1,20 @@
-# Program Rules & Guidelines
+# Program Rules और Guidelines
 
-As an affiliate, you must adhere to the following rules and guidelines:
+एक affiliate के रूप में, आपको निम्नलिखित rules और guidelines का पालन करना होगा:
 
-1. The Program offers you the opportunity to get paid different commission rates, by means of inviting new users (“Referrals”) to register and trade on PancakeSwap.&#x20;
-2. A Referral must be a new user and must not have interacted or signed with the PancakeSwap platform or used any of PancakeSwap’s services (including but not limited to V2, V3 swapping services, perpetual trading, Non-Fungible Tokens and related services, initial farm offerings and similar offerings) (“PancakeSwap Services”).&#x20;
-3. We will provide you with a unique referral link which will allow our system to track your Referrals and their trading activities. We will only pay commissions for Referrals who have signed up through your unique referral link. We will not pay commissions if someone says they signed up through you but such a sign up was not done through the referral link.&#x20;
-4. All commissions are calculated upon the completion of every on-chain transaction and denominated in U.S. dollars as follows.&#x20;
-5. All commissions will be paid out in CAKE tokens.&#x20;
-6. You may request to redeem your commissions once a month, subject to changes made in our sole discretion, with notice to you.&#x20;
-7. Any statements you make about PancakeSwap must reflect your honest opinions, beliefs, or experiences and must not be false, misleading, or unsupported.&#x20;
-8. There is no limit on the number of Referrals that you may invite.&#x20;
-9. PancakeSwap reserves the right to refuse service to anyone for any reason at any time.&#x20;
-10. You shall not engage in the following activities: \
+1. Program आपको नए उपयोगकर्ताओं ("Referrals") को PancakeSwap पर register और trade करने के लिए आमंत्रित करके विभिन्न commission rates प्राप्त करने का अवसर देता है।
+2. एक Referral एक नया उपयोगकर्ता होना चाहिए और PancakeSwap platform के साथ interact या sign नहीं किया होना चाहिए या PancakeSwap की किसी भी service का उपयोग नहीं किया होना चाहिए (जिसमें शामिल है लेकिन सीमित नहीं: V2, V3 swapping services, perpetual trading, Non-Fungible Tokens और संबंधित services, initial farm offerings और समान offerings) ("PancakeSwap Services")।
+3. हम आपको एक unique referral link प्रदान करेंगे जो हमारे system को आपके Referrals और उनकी trading activities track करने की अनुमति देगा। हम केवल उन Referrals के लिए commissions pay करेंगे जिन्होंने आपके unique referral link के माध्यम से sign up किया हो। यदि कोई कहता है कि उन्होंने आपके माध्यम से sign up किया लेकिन ऐसा referral link के माध्यम से नहीं किया, तो हम commissions नहीं देंगे।
+4. सभी commissions प्रत्येक on-chain ट्रांजेक्शन पूरा होने पर calculate की जाती हैं और U.S. dollars में denominated हैं।
+5. सभी commissions CAKE tokens में pay की जाएंगी।
+6. आप महीने में एक बार अपनी commissions redeem करने का request कर सकते हैं, हमारे sole discretion पर किए गए बदलावों के अधीन, आपको notice के साथ।
+7. PancakeSwap के बारे में आप जो भी statements करें वे आपके honest opinions, beliefs, या experiences को reflect करनी चाहिए और false, misleading, या unsupported नहीं होनी चाहिए।
+8. आप invite कर सकने वाले Referrals की संख्या पर कोई limit नहीं है।
+9. PancakeSwap किसी भी समय, किसी भी कारण से किसी को भी service देने से इनकार करने का अधिकार सुरक्षित रखता है।
+10. आप निम्नलिखित activities में शामिल नहीं होंगे:\
     \
-    (a) creating and/or publishing content that is: (i) unlawful, harmful, threatening, abusive, harassing, tortious, defamatory, vulgar, obscene, libellous, invasive of another’s privacy, hateful (racially, ethnically, or otherwise), and/or prejudicial in any form; (ii) likely to breach any contract or law or breach any duty of confidentiality, infringe any copyright or data protection rights, or constitute contempt of court; (iii) misleading, misrepresentative, fraudulent or false; (iv) constitute overly aggressive, questionable sales or marketing methods; \
-    (b) making any representations or providing advice, in the course of your performance regarding investments, investment outcomes, the likelihood of returns, or suitability for investment. For example, you should not make any price predictions over the CAKE tokens; \
-    (c) using the Program for any illegal or unauthorised purpose or in a way which violate any laws in your jurisdiction (including but not limited to copyright laws); and/or \
-    (d) self-referring yourself (or accounts/entities controlled by you) using your own referral link. \
-    (e) directing or causing existing users or previous users of PancakeSwap Services to create new addresses to sign up with your referral link
+    (a) ऐसा content बनाना और/या publish करना जो है: (i) गैरकानूनी, हानिकारक, धमकी देने वाला, abusive, उत्पीड़नकारी, tortious, मानहानिकारक, vulgar, obscene, libellous, किसी अन्य की privacy का उल्लंघन करने वाला, घृणास्पद (नस्लीय, जातीय, या अन्यथा), और/या किसी भी रूप में prejudicial; (ii) किसी contract या कानून का उल्लंघन करने, किसी confidentiality duty का उल्लंघन करने, किसी copyright या data protection rights का उल्लंघन करने, या court की अवमानना करने की संभावना; (iii) misleading, misrepresentative, fraudulent या false; (iv) अत्यधिक aggressive, questionable sales या marketing methods का गठन करें;\
+    (b) आपके performance के दौरान निवेश, निवेश परिणाम, returns की संभावना, या निवेश के लिए उपयुक्तता के बारे में कोई representations या advice देना। उदाहरण के लिए, आपको CAKE tokens पर कोई price predictions नहीं करनी चाहिए;\
+    (c) किसी भी illegal या unauthorized purpose के लिए Program का उपयोग करना या ऐसे तरीके से जो आपके jurisdiction में किसी भी कानून का उल्लंघन करे (copyright laws सहित लेकिन सीमित नहीं); और/या\
+    (d) अपने own referral link का उपयोग करके स्वयं को (या आपके द्वारा controlled accounts/entities को) self-refer करना।\
+    (e) मौजूदा उपयोगकर्ताओं या PancakeSwap Services के पिछले उपयोगकर्ताओं को आपके referral link के साथ sign up करने के लिए नए addresses बनाने के लिए direct या cause करना

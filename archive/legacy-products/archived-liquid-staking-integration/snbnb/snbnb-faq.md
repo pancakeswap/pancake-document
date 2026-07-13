@@ -1,27 +1,27 @@
 # SnBNB FAQ
 
-### How does snBNB generate staking rewards?
+### snBNB staking rewards कैसे generate करता है?
 
-Similar to ETH liquid staking, staking rewards are received for delegating BNB to snBNB’s synclub validator. The validator will take its cut from rewards before sharing it to the protocol as claimable tokens. The rewards earned are then split into two parts:
+ETH liquid staking के समान, BNB को snBNB के synclub validator को delegate करने पर staking rewards प्राप्त होती हैं। Validator protocol को claimable tokens के रूप में share करने से पहले rewards में से अपना हिस्सा लेगा। अर्जित rewards फिर दो भागों में विभाजित की जाती हैं:
 
-95% goes to snBNB holders in the form of snBNB value appreciation: snBNB holders’ share of the BNB pool keeps increasing due to the increase in the snBNB/BNB exchange rate. 5% goes to Synclub/Helio
+95% snBNB holders को snBNB value appreciation के रूप में जाती है: snBNB holders का BNB pool में हिस्सा snBNB/BNB exchange rate में वृद्धि के कारण बढ़ता रहता है। 5% Synclub/Helio को जाता है।
 
-### How is the APR calculated for snBNB?
+### snBNB के लिए APR की गणना कैसे होती है?
 
-The APR for snBNB varies between 0.5%-3%. The APR earned by validators on BNB Chain depends on two factors:
+snBNB के लिए APR 0.5%-3% के बीच होता है। BNB Chain पर validators द्वारा अर्जित APR दो कारकों पर निर्भर करता है:
 
-Commission Rate: synclub validator charges 10% commission fee. Voting Power: The staked amount for a validator determines the APR it receives.
+Commission Rate: synclub validator 10% commission fee लेता है। Voting Power: किसी validator के लिए staked राशि उसे मिलने वाले APR को निर्धारित करती है।
 
-The Synclub validator employs MEV (Miner Extractable Value) to enhance its APR. SnBNB appreciates against BNB in line with BNB’s staking APR.
+Synclub validator अपना APR बढ़ाने के लिए MEV (Miner Extractable Value) का उपयोग करता है। SnBNB, BNB के staking APR के अनुरूप BNB के मुकाबले appreciate होता है।
 
-### How can I use snBNB?
+### मैं snBNB का उपयोग कैसे कर सकता/सकती हूँ?
 
-You can use snBNB to explore other use cases such as swapping, lending/borrowing and yield farming on BnbChain. Alongside Helio, PancakeSwap will be supporting new liquid staking strategies for users to maximise utility and yield on BnbChain
+आप BnbChain पर swapping, lending/borrowing और Yield Farming जैसे अन्य use cases explore करने के लिए snBNB का उपयोग कर सकते हैं। Helio के साथ मिलकर, PancakeSwap BnbChain पर utility और yield को अधिकतम करने के लिए उपयोगकर्ताओं के लिए नई liquid staking strategies को support करेगा।
 
-### Do I need to claim staking rewards if I'm using snBNB?
+### क्या मुझे snBNB का उपयोग करते समय staking rewards claim करनी होंगी?
 
-No. Staking rewards accrue in the snBNB token. This means that the snBNB token will increase in value over BNB.
+नहीं। Staking rewards snBNB token में accrued होती हैं। इसका मतलब है कि snBNB token का मूल्य BNB की तुलना में बढ़ता रहेगा।
 
-### How do I convert snBNB back to BNB?
+### मैं snBNB को वापस BNB में कैसे convert करूँ?
 
-Please visit https://www.synclub.io/en/liquid-staking/BNB to unstake your snBNB. PancakeSwap is working to support a conversion contract on our liquid staking page to convert snBNB back to BNB seamlessly.
+अपना snBNB unstake करने के लिए कृपया https://www.synclub.io/en/liquid-staking/BNB पर जाएं। PancakeSwap snBNB को आसानी से BNB में convert करने के लिए अपने liquid staking page पर एक conversion contract को support करने पर कार्य कर रहा है।

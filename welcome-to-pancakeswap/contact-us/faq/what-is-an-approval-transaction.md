@@ -1,37 +1,37 @@
-# What is an Approval Transaction?
+# Approval Transaction क्या है?
 
-**The first time you swap or add liquidity, you have to approve the token you are swapping. This gives the PancakeSwap smart contract permission to swap that token from your wallet.**
-
-
-
-The approval transaction allows PancakeSwap permission to swap the token from your wallet. You have to complete an approval transaction for every token you want to swap using PancakeSwap.
+**पहली बार स्वैप करते या तरलता जोड़ते समय, आपको उस टोकन को अनुमोदित (approve) करना होता है जिसे आप स्वैप कर रहे हैं। इससे PancakeSwap स्मार्ट कॉन्ट्रैक्ट को आपके वॉलेट से वह टोकन स्वैप करने की अनुमति मिलती है।**
 
 
 
-Here is a guide on how to complete an approval transaction:
+Approval transaction PancakeSwap को आपके वॉलेट से टोकन स्वैप करने की अनुमति देता है। PancakeSwap का उपयोग करके जो भी टोकन आप स्वैप करना चाहते हैं, उसके लिए आपको एक approval transaction पूरी करनी होगी।
 
-1.  Enter your swap details.&#x20;
 
-    <figure><img src="../../../.gitbook/assets/step1 (1) (1).png" alt=""><figcaption></figcaption></figure>
-2.  Select “Confirm swap” after reviewing swap details.&#x20;
 
-    <figure><img src="../../../.gitbook/assets/4536.png" alt=""><figcaption></figcaption></figure>
-3. In your wallet app or wallet extension, approve the spending for the token you are swapping.
+यहाँ approval transaction पूरी करने की गाइड है:
 
-Allow the token to be used for swapping in your wallet.
+1.  अपने स्वैप का विवरण दर्ज करें।&#x20;
 
-_Your wallet may require you to enter the number of tokens you want to approve. Please enter a number that is greater than or equal to the number of tokens you are swapping._ &#x20;
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/step1%20%281%29%20%281%29.png" alt=""><figcaption></figcaption></figure>
+2.  स्वैप विवरण की समीक्षा के बाद "Confirm swap" चुनें।&#x20;
 
-<figure><img src="../../../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/4536.png" alt=""><figcaption></figcaption></figure>
+3. अपने वॉलेट ऐप या वॉलेट एक्सटेंशन में, उस टोकन के लिए खर्च को अनुमोदित करें जिसे आप स्वैप कर रहे हैं।
 
-4.  After the approval, another transaction will appear which asks you to confirm the swap.&#x20;
+टोकन को अपने वॉलेट में स्वैप के लिए उपयोग करने की अनुमति दें।
 
-    <figure><img src="../../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
-5.  Once the swap is confirmed, the transaction is submitted to the blockchain (pending).&#x20;
+_आपका वॉलेट आपसे उन टोकनों की संख्या दर्ज करने के लिए कह सकता है जिन्हें आप अनुमोदित करना चाहते हैं। कृपया वह संख्या दर्ज करें जो आप जितने टोकन स्वैप कर रहे हैं उससे अधिक या बराबर हो।_ &#x20;
 
-    <figure><img src="../../../.gitbook/assets/step 04.png" alt=""><figcaption></figcaption></figure>
-6. You will see “Success” and a green checkmark on the screen when the transaction is successfully completed.&#x20;
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
+4.  अनुमोदन के बाद, एक और ट्रांजैक्शन आएगी जो आपसे स्वैप की पुष्टि करने के लिए कहेगी।&#x20;
 
-The token approval lasts for a certain period of time, the token will have to be approved again later with a signature request. An approval signature does not require a network fee.
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+5.  स्वैप की पुष्टि होने के बाद, ट्रांजैक्शन ब्लॉकचेन पर सबमिट हो जाती है (pending)।&#x20;
+
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/step%2004.png" alt=""><figcaption></figcaption></figure>
+6. ट्रांजैक्शन सफलतापूर्वक पूरी होने पर स्क्रीन पर "Success" और एक हरा चेकमार्क दिखेगा।&#x20;
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
+
+टोकन अनुमोदन एक निश्चित अवधि तक वैध रहता है, बाद में टोकन को signature request के साथ पुनः अनुमोदित करना होगा। Approval signature के लिए कोई नेटवर्क शुल्क नहीं लगता।

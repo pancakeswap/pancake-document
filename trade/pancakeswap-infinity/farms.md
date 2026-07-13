@@ -1,56 +1,56 @@
 # Farms
 
-PancakeSwap Infinity farming is a simple, gas-efficient way for users to earn liquidity rewards without needing to stake their LP tokens. Once liquidity is added to an eligible pool, rewards begin accruing automatically.
+PancakeSwap Infinity farming उपयोगकर्ताओं के लिए तरलता पुरस्कार अर्जित करने का एक सरल, गैस-कुशल तरीका है जिसमें LP tokens को stake करने की आवश्यकता नहीं होती। एक बार पात्र पूल में तरलता जोड़ने के बाद, पुरस्कार स्वतः अर्जित होने लगते हैं।
 
-#### ⚙️ How It Works
+#### ⚙️ यह कैसे काम करता है
 
-Here’s a quick breakdown of how the system tracks and distributes rewards:<br>
+यहाँ एक संक्षिप्त विवरण दिया गया है कि सिस्टम पुरस्कारों को कैसे ट्रैक और वितरित करता है:<br>
 
-**✅ No Staking Required**
+**✅ स्टेकिंग की आवश्यकता नहीं**
 
-* Just hold your LP position in your wallet.
-* No need to lock your assets or interact with additional smart contracts.
-* You start earning rewards automatically when you add liquidity.
+* बस अपनी LP पोजीशन अपने वॉलेट में रखें।
+* अपनी संपत्तियों को लॉक करने या अतिरिक्त स्मार्ट कॉन्ट्रैक्ट से इंटरैक्ट करने की कोई आवश्यकता नहीं।
+* तरलता जोड़ने पर आप स्वतः पुरस्कार अर्जित करना शुरू कर देते हैं।
 
-#### 📈 Rewards Distribution
+#### 📈 पुरस्कार वितरण
 
-* Only in-range positions (those providing active liquidity) receive rewards.
-* Rewards are proportional to the fees earned by your position during each period, called an epoch.
+* केवल in-range पोजीशन (जो सक्रिय तरलता प्रदान कर रही हैं) को पुरस्कार मिलते हैं।
+* पुरस्कार प्रत्येक अवधि (जिसे epoch कहा जाता है) के दौरान आपकी पोजीशन द्वारा अर्जित शुल्क के अनुपात में होते हैं।
 
-#### ⏳ What’s an Epoch?
+#### ⏳ Epoch क्या होता है?
 
-* An epoch is a fixed time window — currently set to 8 hours.
-* Rewards are calculated and distributed after each epoch.
-* Epochs are currently scheduled at 00:00, 08:00, and 16:00 UTC.
+* एक epoch एक निश्चित समय विंडो है — वर्तमान में 8 घंटे पर सेट है।
+* प्रत्येक epoch के बाद पुरस्कारों की गणना और वितरण किया जाता है।
+* Epochs वर्तमान में UTC में 00:00, 08:00, और 16:00 पर निर्धारित हैं।
 
 ***
 
-#### 🔄 Farming & Claim Process
+#### 🔄 Farming और Claim प्रक्रिया
 
-1. **Tracking Positions:** The backend system monitors your LP positions across all farms.
-2. **Reward Calculation:** At the end of every epoch,
-   1. The system calculates your rewards based on your liquidity and the fees generated.
-   2. It processes the rewards into a Merkle tree and submits a Merkle root to a smart contract.
-3. **Dispute Period:**
-   1. After the Merkle root is published, the 1-hour dispute period begins.
-   2. During the dispute period:
-      1. The newly calculated rewards cannot be claimed.
-      2. Rewards from previous epochs remain available to claim.
-      3. Automated and community-operated verification tools check the accuracy of the published data. If discrepancies are detected, a dispute may be raised to prevent incorrect distributions.
-4. **Claiming Rewards:**
-   1. Once the dispute period ends, you can claim your rewards for the latest epoch.
-   2. All pending rewards across all farms can be claimed in a single, gas-efficient transaction.
-5. **Unclaimed Rewards Roll Over:**
-   1. Any unclaimed rewards roll over to subsequent epochs. Each update incorporates previous rewards, ensuring no earnings are lost or expired.
+1. **पोजीशन ट्रैकिंग:** बैकएंड सिस्टम सभी फार्म में आपकी LP पोजीशन की निगरानी करता है।
+2. **पुरस्कार गणना:** प्रत्येक epoch के अंत में,
+   1. सिस्टम आपकी तरलता और उत्पन्न शुल्क के आधार पर आपके पुरस्कारों की गणना करता है।
+   2. यह पुरस्कारों को Merkle tree में संसाधित करता है और एक स्मार्ट कॉन्ट्रैक्ट को Merkle root सबमिट करता है।
+3. **विवाद अवधि:**
+   1. Merkle root प्रकाशित होने के बाद, 1 घंटे की विवाद अवधि शुरू होती है।
+   2. विवाद अवधि के दौरान:
+      1. नए गणना किए गए पुरस्कार claim नहीं किए जा सकते।
+      2. पिछले epochs के पुरस्कार claim के लिए उपलब्ध रहते हैं।
+      3. स्वचालित और समुदाय-संचालित सत्यापन उपकरण प्रकाशित डेटा की सटीकता जाँचते हैं। यदि विसंगतियाँ पाई जाती हैं, तो गलत वितरण को रोकने के लिए विवाद उठाया जा सकता है।
+4. **पुरस्कार Claim करना:**
+   1. विवाद अवधि समाप्त होने के बाद, आप नवीनतम epoch के लिए अपने पुरस्कार claim कर सकते हैं।
+   2. सभी फार्म के सभी लंबित पुरस्कार एक एकल, गैस-कुशल लेनदेन में claim किए जा सकते हैं।
+5. **Unclaimed पुरस्कार आगे बढ़ते हैं:**
+   1. कोई भी unclaimed पुरस्कार बाद के epochs में आगे बढ़ते हैं। प्रत्येक अपडेट पिछले पुरस्कारों को शामिल करता है, यह सुनिश्चित करते हुए कि कोई भी कमाई खोई या समाप्त न हो।
 
 {% hint style="info" %}
-Tighter liquidity ranges generally lead to higher earnings but increase the likelihood of a position moving out of range and becoming ineligible for rewards.
+तंग तरलता सीमाएँ आम तौर पर अधिक कमाई की ओर ले जाती हैं, लेकिन पोजीशन के range से बाहर जाने और पुरस्कारों के लिए अपात्र होने की संभावना बढ़ जाती है।
 {% endhint %}
 
-#### 🌱 Summary
+#### 🌱 सारांश
 
-✅ No staking\
-✅ Gas-efficient claiming\
-✅ Regular reward updates\
-✅ Fair and transparent dispute process\
-✅ Rewards accumulate until you’re ready to claim
+✅ कोई स्टेकिंग नहीं\
+✅ गैस-कुशल claiming\
+✅ नियमित पुरस्कार अपडेट\
+✅ निष्पक्ष और पारदर्शी विवाद प्रक्रिया\
+✅ पुरस्कार तब तक जमा होते रहते हैं जब तक आप claim करने के लिए तैयार न हों

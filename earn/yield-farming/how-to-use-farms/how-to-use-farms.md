@@ -1,240 +1,240 @@
 ---
-description: Yield Farming on PancakeSwap is easy!
+description: PancakeSwap पर यील्ड फार्मिंग आसान है!
 ---
 
-# How to Use Farms (Legacy)
+# फार्म का उपयोग कैसे करें (लेगेसी)
 
-![](../../../.gitbook/assets/how-to-yield-farms-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-yield-farms-header.png)
 
-Yield Farming in Farms is a great way to earn CAKE rewards on PancakeSwap.
+फार्म में यील्ड फार्मिंग PancakeSwap पर CAKE पुरस्कार अर्जित करने का एक शानदार तरीका है।
 
-Unlike Syrup Pools, Farms require you to stake **two tokens** to provide liquidity and receive either a liquidity position NFT or LP Tokens, which you then stake in the Farm to earn rewards. This lets you earn CAKE while still keeping a position in your other tokens!
+सिरप पूल के विपरीत, फार्म में तरलता प्रदान करने और लिक्विडिटी पोजीशन NFT या LP टोकन प्राप्त करने के लिए आपको **दो टोकन** स्टेक करने होंगे, जिन्हें आप फिर पुरस्कार अर्जित करने के लिए फार्म में स्टेक करते हैं। इससे आप अपने अन्य टोकन में पोजीशन बनाए रखते हुए CAKE भी अर्जित कर सकते हैं!
 
 {% hint style="warning" %}
-Yield farming can give better rewards than Syrup Pools, but it comes with a risk of **Impermanent Loss**. It’s not as scary as it sounds, but it is worth learning about the concept before you get started.
+यील्ड फार्मिंग सिरप पूल की तुलना में बेहतर पुरस्कार दे सकती है, लेकिन इसमें **Impermanent Loss** का जोखिम होता है। यह सुनने में जितना डरावना लगता है, उतना है नहीं — लेकिन शुरू करने से पहले इस अवधारणा को समझना उचित होगा।
 
-Check out this great [article about Impermanent Loss ](https://academy.binance.com/en/articles/impermanent-loss-explained)from Binance Academy to learn more.
+इस विषय पर अधिक जानने के लिए Binance Academy का यह बेहतरीन [Impermanent Loss पर लेख](https://academy.binance.com/en/articles/impermanent-loss-explained) पढ़ें।
 {% endhint %}
 
 ## Farm V3
 
-### **Get prepared**
+### **तैयारी करें**
 
-![](<../../../.gitbook/assets/image (32).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2832%29.png)
 
-You’re going to need a liquidity position to enter into a Farm with. Farms can only accept liquidity positions from their own exact trading pair with the exact fee tier of choice; for example, the CAKE-BNB 0.25% Farm will only accept CAKE-BNB liquidity positions with the 0.25% fee tier selected. It will not accept:
+फार्म में प्रवेश करने के लिए आपको एक लिक्विडिटी पोजीशन की आवश्यकता होगी। फार्म केवल अपने सटीक ट्रेडिंग जोड़े की लिक्विडिटी पोजीशन स्वीकार कर सकते हैं, सटीक शुल्क टियर सहित; उदाहरण के लिए, CAKE-BNB 0.25% फार्म केवल 0.25% शुल्क टियर के साथ CAKE-BNB लिक्विडिटी पोजीशन स्वीकार करेगा। यह स्वीकार नहीं करेगा:
 
-* Other pairs, like CAKE-BUSD
-* Same pair but with other fee tiers: like CAKE-BNB with a 0.05% fee rate
+* अन्य जोड़े जैसे CAKE-BUSD
+* समान जोड़ा लेकिन अन्य शुल्क टियर के साथ: जैसे 0.05% शुल्क दर वाला CAKE-BNB
 
-To create the exact LP position, you'll need to provide liquidity for that trading pair with the correct fee rate selected. So to get CAKE-BNB 0.25% LP positions, you'll first have to provide liquidity for the CAKE-BNB pair with the 0.25% fee tier selected.
+सटीक LP पोजीशन बनाने के लिए, आपको सही शुल्क दर चुनकर उस ट्रेडिंग जोड़े के लिए तरलता प्रदान करनी होगी। तो CAKE-BNB 0.25% LP पोजीशन पाने के लिए, आपको पहले 0.25% शुल्क टियर के साथ CAKE-BNB जोड़े के लिए तरलता प्रदान करनी होगी।
 
-It may sound intimidating, but it's not too complicated. Let's go through it step by step.
+यह जटिल लग सकता है, लेकिन इतना मुश्किल नहीं है। आइए इसे चरण-दर-चरण देखें।
 
-### **Locate your Farm**
+### **अपना फार्म खोजें**
 
-![](<../../../.gitbook/assets/image (239).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28239%29.png)
 
-Before you proceed, you'll want to choose a Farm that's right for you. [Visit the Farms page](https://pancakeswap.finance/farms) to see a list of available Farms.
+आगे बढ़ने से पहले, आप अपने लिए उपयुक्त फार्म चुनना चाहेंगे। उपलब्ध फार्मों की सूची देखने के लिए [फार्म पेज](https://pancakeswap.finance/farms) पर जाएं।
 
-You can choose another sorting option, such as by APR, for the Farms with the highest reward rate currently. Please note that the APRs are calculated globally for individual positions; it may vary depending on their price range settings.
+आप वर्तमान में सबसे अधिक पुरस्कार दर वाले फार्मों के लिए APR जैसा कोई अन्य सॉर्टिंग विकल्प चुन सकते हैं। कृपया ध्यान दें कि APRs की गणना व्यक्तिगत पोजीशन के लिए वैश्विक स्तर पर की जाती है; यह उनकी प्राइस रेंज सेटिंग्स के आधार पर भिन्न हो सकती है।
 
-When you find a Farm you'd like to use, note down the trading pair and its fee rate, e.g. BNB-CAKE and 0.25%, in case you need them later.
+जब आपको पसंद का फार्म मिल जाए, तो ट्रेडिंग जोड़े और उसकी शुल्क दर नोट कर लें, जैसे BNB-CAKE और 0.25%, क्योंकि आपको बाद में इसकी आवश्यकता हो सकती है।
 
-### **Provide liquidity to create a position**
+### **पोजीशन बनाने के लिए तरलता प्रदान करें**
 
-Now that you've found a Farm to stake in, you will need to provide liquidity:
+अब जब आपने स्टेक करने के लिए फार्म खोज लिया है, तो आपको तरलता प्रदान करनी होगी:
 
-1 - If you don’t have any position available, you will see a “Add Liquidity” button, simply click it to open up the “Add Liquidity” window without leaving the Farm page.
+1 — यदि आपके पास कोई उपलब्ध पोजीशन नहीं है, तो आपको "Add Liquidity" बटन दिखेगा। फार्म पेज छोड़े बिना "Add Liquidity" विंडो खोलने के लिए बस उस पर क्लिक करें।
 
-![](<../../../.gitbook/assets/image (40).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2840%29.png)
 
-2 - Alternatively, you can click on the row of the Farm you've chosen from the list. It will open to show more details. Or with card view, click “Details” to expand for more details. Click the “Add XXX-YYY LP” link within the detail section to add liquidity.
+2 — वैकल्पिक रूप से, आप सूची से अपने चुने हुए फार्म की पंक्ति पर क्लिक कर सकते हैं। यह अधिक विवरण दिखाने के लिए खुलेगा। या कार्ड व्यू में, अधिक विवरण देखने के लिए "Details" पर क्लिक करें। तरलता जोड़ने के लिए विवरण अनुभाग के भीतर "Add XXX-YYY LP" लिंक पर क्लिक करें।
 
-![](<../../../.gitbook/assets/image (242).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28242%29.png)
 
-### **Stake your positions into a farm**
+### **अपनी पोजीशन फार्म में स्टेक करें**
 
-![](<../../../.gitbook/assets/image (124).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28124%29.png)
 
-After finishing adding liquidity. You should see your position listed under the farm you want to use.
+तरलता जोड़ने के बाद, आपको अपनी पोजीशन उस फार्म के नीचे सूचीबद्ध दिखनी चाहिए जिसे आप उपयोग करना चाहते हैं।
 
-If you have multiple positions, you may click “View All” to view them in a new pop-up window.
+यदि आपके पास एकाधिक पोजीशन हैं, तो आप उन्हें नई पॉप-अप विंडो में देखने के लिए "View All" पर क्लिक कर सकते हैं।
 
-![](<../../../.gitbook/assets/image (198).png>) ![](<../../../.gitbook/assets/image (151).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28198%29.png) ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28151%29.png)
 
-Click “Stake” on the position listed, and your wallet will ask for confirmation.
+सूचीबद्ध पोजीशन पर "Stake" पर क्लिक करें, और आपका वॉलेट पुष्टि के लिए कहेगा।
 
-![](<../../../.gitbook/assets/image (229).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28229%29.png)
 
-After a short wait, the window will close, and you will see your staked position in the details.
+थोड़े इंतज़ार के बाद, विंडो बंद हो जाएगी और आप विवरण में अपनी स्टेक की गई पोजीशन देखेंगे।
 
-You can repeat the above steps to quickly stake multiple positions with different price range configurations. Each position will earn CAKE and need to be harvested separately.
+आप अलग-अलग प्राइस रेंज कॉन्फ़िगरेशन के साथ एकाधिक पोजीशन तुरंत स्टेक करने के लिए उपरोक्त चरण दोहरा सकते हैं। प्रत्येक पोजीशन CAKE अर्जित करेगी और अलग-अलग हार्वेस्ट करनी होगी।
 
-### **Harvest farming rewards**
+### **फार्मिंग पुरस्कार हार्वेस्ट करें**
 
-In Farm V3, you can stake multiple positions on the same farm. Each staked position will earn CAKE and need to be harvested separately.
+Farm V3 में, आप एक ही फार्म पर एकाधिक पोजीशन स्टेक कर सकते हैं। प्रत्येक स्टेक की गई पोजीशन CAKE अर्जित करेगी और अलग-अलग हार्वेस्ट करनी होगी।
 
-![](<../../../.gitbook/assets/image (230).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28230%29.png)
 
-To harvest CAKE rewards from a staked position, simply return to the Farm page, and locate the farm and position you want to harvest. You can use the “Staked Only” toggle to quickly filter the farms you are currently staking.
+स्टेक की गई पोजीशन से CAKE पुरस्कार हार्वेस्ट करने के लिए, फार्म पेज पर वापस जाएं और वह फार्म और पोजीशन खोजें जिसे हार्वेस्ट करना है। वर्तमान में स्टेकिंग वाले फार्मों को जल्दी फ़िल्टर करने के लिए "Staked Only" टॉगल का उपयोग कर सकते हैं।
 
-If you have multiple staked positions, you may click “View All” to view them in a new pop-up window.
+यदि आपके पास एकाधिक स्टेक की गई पोजीशन हैं, तो आप उन्हें नई पॉप-अप विंडो में देखने के लिए "View All" पर क्लिक कर सकते हैं।
 
-![](<../../../.gitbook/assets/image (241).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28241%29.png)
 
-Click “Harvest” on the position, and your wallet will ask for confirmation. After a short wait, the CAKE rewards will be sent to your wallet.
+पोजीशन पर "Harvest" पर क्लिक करें, और आपका वॉलेट पुष्टि के लिए कहेगा। थोड़े इंतज़ार के बाद, CAKE पुरस्कार आपके वॉलेट में भेज दिए जाएंगे।
 
-### **Add or remove liquidity while staking in a farm**
+### **फार्म में स्टेकिंग करते समय तरलता जोड़ें या हटाएं**
 
-When staking in a farm, you can still add or remove liquidity without unstaking from the farm.
+फार्म में स्टेकिंग करते समय, आप फार्म से अनस्टेक किए बिना तरलता जोड़ या हटा सकते हैं।
 
-![](<../../../.gitbook/assets/image (230).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28230%29.png)
 
-To do so, simply return to the Farm page, and locate the farm and position you want to adjust. You can use the “Staked Only” toggle to quickly filter the farms you are currently staking.
+ऐसा करने के लिए, फार्म पेज पर वापस जाएं और वह फार्म और पोजीशन खोजें जिसे समायोजित करना है। वर्तमान में स्टेकिंग वाले फार्मों को जल्दी फ़िल्टर करने के लिए "Staked Only" टॉगल का उपयोग कर सकते हैं।
 
-![](<../../../.gitbook/assets/image (267).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28267%29.png)
 
-Click on the position title with the token pair, fee rate, position ID and the “>” arrow. You will be taken to the position detail page.
+टोकन जोड़े, शुल्क दर, पोजीशन ID और ">" एरो वाले पोजीशन शीर्षक पर क्लिक करें। आपको पोजीशन विवरण पेज पर ले जाया जाएगा।
 
-Simply use the “Add” or “Remove” button to adjust the liquidity in the staked position.
+स्टेक की गई पोजीशन में तरलता समायोजित करने के लिए "Add" या "Remove" बटन का उपयोग करें।
 
-Please note that all the unclaimed CAKE rewards will be harvested and sent to your wallet while adjusting your position.
+कृपया ध्यान दें कि अपनी पोजीशन समायोजित करते समय सभी अनक्लेम्ड CAKE पुरस्कार हार्वेस्ट होकर आपके वॉलेट में भेज दिए जाएंगे।
 
-### **Unstake your positions from a farm**
+### **फार्म से अपनी पोजीशन अनस्टेक करें**
 
-You can unstake a position at any time.
+आप किसी भी समय पोजीशन अनस्टेक कर सकते हैं।
 
-To unstake, simply return to the Farm page, and locate the farm and position you want to unstake. You can use the “Staked Only” toggle to quickly filter the farms you are currently staking.
+अनस्टेक करने के लिए, फार्म पेज पर वापस जाएं और वह फार्म और पोजीशन खोजें जिसे अनस्टेक करना है। वर्तमान में स्टेकिंग वाले फार्मों को जल्दी फ़िल्टर करने के लिए "Staked Only" टॉगल का उपयोग कर सकते हैं।
 
-If you have multiple staked positions, you may click “View All” to view them in a new pop-up window.
+यदि आपके पास एकाधिक स्टेक की गई पोजीशन हैं, तो आप उन्हें नई पॉप-अप विंडो में देखने के लिए "View All" पर क्लिक कर सकते हैं।
 
-Click “Unstake” on the position, and your wallet will ask for confirmation. After a short wait, your position NFT will be returned to your wallet, along with all the pending CAKE rewards.
+पोजीशन पर "Unstake" पर क्लिक करें, और आपका वॉलेट पुष्टि के लिए कहेगा। थोड़े इंतज़ार के बाद, आपकी पोजीशन NFT सभी लंबित CAKE पुरस्कारों के साथ आपके वॉलेट में वापस आ जाएगी।
 
 ## Farm V2
 
-### Get prepped
+### तैयारी करें
 
-Yield farming takes a little work to get set up.
+यील्ड फार्मिंग सेटअप करने में थोड़ा काम लगता है।
 
-You’re going to need some "LP Tokens" to enter into a Farm with. Farms can only accept their own exact LP Token; for example, the CAKE-BNB Farm will only accept CAKE-BNB LP Tokens.
+फार्म में प्रवेश करने के लिए आपको कुछ "LP टोकन" की आवश्यकता होगी। फार्म केवल अपने सटीक LP टोकन स्वीकार कर सकते हैं; उदाहरण के लिए, CAKE-BNB फार्म केवल CAKE-BNB LP टोकन स्वीकार करेगा।
 
-To get the exact LP Token, you'll need to provide liquidity for that trading pair. So to get CAKE-BNB LP Tokens, you'll first have to provide liquidity for the CAKE-BNB pair.
+सटीक LP टोकन पाने के लिए, आपको उस ट्रेडिंग जोड़े के लिए तरलता प्रदान करनी होगी। तो CAKE-BNB LP टोकन पाने के लिए, आपको पहले CAKE-BNB जोड़े के लिए तरलता प्रदान करनी होगी।
 
-It may sound intimidating, but it's not too complicated. Let's go through step by step.
+यह जटिल लग सकता है, लेकिन इतना मुश्किल नहीं है। आइए इसे चरण-दर-चरण देखें।
 
-### Finding your Farm
+### अपना फार्म खोजें
 
-Before you proceed, you'll want to choose a Farm that's right for you. [Visit the Farms page](https://pancakeswap.finance/farms) and you’ll see a list of available Farms.
+आगे बढ़ने से पहले, आप अपने लिए उपयुक्त फार्म चुनना चाहेंगे। [फार्म पेज](https://pancakeswap.finance/farms) पर जाएं और आपको उपलब्ध फार्मों की सूची दिखेगी।
 
-![](<../../../.gitbook/assets/image (62).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2862%29.png)
 
-You can choose another sorting option if you like, such as by **APR** for the Farms with the highest reward rate currently.
+आप चाहें तो कोई अन्य सॉर्टिंग विकल्प चुन सकते हैं, जैसे वर्तमान में सबसे अधिक पुरस्कार दर वाले फार्मों के लिए **APR**।
 
-When you find a Farm that you'd like to use, note down the trading pair, e.g. BNB-CAKE in case you need it later.
+जब आपको पसंद का फार्म मिल जाए, तो ट्रेडिंग जोड़ा नोट कर लें, जैसे BNB-CAKE, क्योंकि आपको बाद में इसकी आवश्यकता हो सकती है।
 
-### Providing liquidity to get LP Tokens
+### LP टोकन पाने के लिए तरलता प्रदान करें
 
-Now that you've found a Farm to stake in, you will need to add liquidity to get your LP Tokens.
+अब जब आपने स्टेक करने के लिए फार्म खोज लिया है, तो आपको अपने LP टोकन पाने के लिए तरलता जोड़नी होगी।
 
-1. Click on the row of the Farm you've chosen from the list. It will open to show more details.
-2. On the left, you'll see some links. Click the **Get (your pair) LP** link.
+1. सूची से अपने चुने हुए फार्म की पंक्ति पर क्लिक करें। यह अधिक विवरण दिखाने के लिए खुलेगा।
+2. बाईं ओर, आपको कुछ लिंक दिखेंगे। **Get (your pair) LP** लिंक पर क्लिक करें।
 
-![](<../../../.gitbook/assets/image (131).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28131%29.png)
 
-### Putting your LP Tokens into a farm
+### अपने LP टोकन फार्म में लगाएं
 
-Now that you have your LP Tokens, you’re ready to start staking them in a Farm and earning rewards!
+अब जब आपके पास LP टोकन हैं, तो आप उन्हें फार्म में स्टेक करके पुरस्कार अर्जित करना शुरू करने के लिए तैयार हैं!
 
-1 - Go back to the [Farms page](https://pancakeswap.finance/farms) and locate your Farm. Click anywhere on the row showing your pair. It will expand to show more details.
+1 — [फार्म पेज](https://pancakeswap.finance/farms) पर वापस जाएं और अपना फार्म खोजें। अपना जोड़ा दिखाने वाली पंक्ति पर कहीं भी क्लिक करें। यह अधिक विवरण दिखाने के लिए खुलेगा।
 
-![](<../../../.gitbook/assets/image (244).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28244%29.png)
 
-When you’re ready, click the **Enable** button and confirm your action in your wallet.
+जब तैयार हों, तो **Enable** बटन पर क्लिक करें और अपने वॉलेट में कार्रवाई की पुष्टि करें।
 
-2 - After a short wait, the Enable button will change to **Stake LP**. Click it and a new window will appear.
+2 — थोड़े इंतज़ार के बाद, Enable बटन बदलकर **Stake LP** हो जाएगा। उस पर क्लिक करें और एक नई विंडो खुलेगी।
 
-![](<../../../.gitbook/assets/image (171).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28171%29.png)
 
-3 - Type the amount of LP Tokens you would like to farm with into the field, or just click **Max** to use all of your LP Tokens.
+3 — फ़ील्ड में उतने LP टोकन की संख्या दर्ज करें जितने के साथ आप फार्म करना चाहते हैं, या अपने सभी LP टोकन उपयोग करने के लिए बस **Max** पर क्लिक करें।
 
-![](<../../../.gitbook/assets/image (109).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28109%29.png)
 
-4 - When you have the amount entered, the **Confirm** button will light up. Click it. Your wallet will ask you to confirm your action.
+4 — जब राशि दर्ज हो जाए, तो **Confirm** बटन जल जाएगा। उस पर क्लिक करें। आपका वॉलेट आपसे कार्रवाई की पुष्टि करने को कहेगा।
 
-5 - After a short wait, the window will close, and you will see your new staked LP Token balance in the details.
+5 — थोड़े इंतज़ार के बाद, विंडो बंद हो जाएगी और आप विवरण अनुभाग में अपना नया स्टेक किया हुआ LP टोकन बैलेंस देखेंगे।
 
-![](<../../../.gitbook/assets/image (261).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28261%29.png)
 
 {% hint style="info" %}
-When you are performing crosschain farming on an EVM blockchain other than the BNB chain. You will need to wait approximately 30 minutes for the cross-chain transactions to confirm.
+जब आप BNB Chain के अलावा किसी अन्य EVM ब्लॉकचेन पर क्रॉस-चेन फार्मिंग कर रहे हों, तो आपको क्रॉस-चेन लेनदेन की पुष्टि के लिए लगभग 30 मिनट प्रतीक्षा करनी होगी।
 
-<img src="../../../.gitbook/assets/crosschain-farm-wait.png" alt="" data-size="original">
+<img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/crosschain-farm-wait.png" alt="" data-size="original">
 
-To track the progress of a crosschain farming transaction. Click the circular icon on the side of your staked balance, or check out the "Recent Transaction" section in the top right-hand corner.
+क्रॉस-चेन फार्मिंग लेनदेन की प्रगति ट्रैक करने के लिए, अपने स्टेक किए गए बैलेंस के साइड में गोलाकार आइकन पर क्लिक करें, या ऊपरी दाईं ओर "Recent Transaction" अनुभाग देखें।
 {% endhint %}
 
 {% hint style="warning" %}
-When you are performing crosschain farming on an EVM blockchain other than the BNB chain for the first time. A small amount of native token (for example, ETH for Ethereum) is required for the first-time setup. So the first transaction will be slightly costly.
+जब आप पहली बार BNB Chain के अलावा किसी अन्य EVM ब्लॉकचेन पर क्रॉस-चेन फार्मिंग कर रहे हों, तो पहली बार सेटअप के लिए थोड़ी मात्रा में नेटिव टोकन (उदाहरण के लिए, Ethereum के लिए ETH) की आवश्यकता होती है। इसलिए पहला लेनदेन थोड़ा महंगा होगा।
 {% endhint %}
 
-### Adding or removing LP Tokens from a Farm
+### फार्म में LP टोकन जोड़ना या हटाना
 
-You may decide you would like to add more LP Tokens to a Farm at a later date, or to take some out of a Farm. You can do this very easily whenever you'd like.
+आप बाद में किसी फार्म में और LP टोकन जोड़ने या कुछ निकालने का फैसला कर सकते हैं। आप जब चाहें यह बहुत आसानी से कर सकते हैं।
 
-1. Return to the [Yield Farms page](https://pancakeswap.finance/farms). At the top of the page you'll see a **Staked only** toggle. Click the toggle.
+1. [यील्ड फार्म पेज](https://pancakeswap.finance/farms) पर वापस जाएं। पेज के शीर्ष पर आपको एक **Staked only** टॉगल दिखेगा। टॉगल पर क्लिक करें।
 
-![](<../../../.gitbook/assets/image (240).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28240%29.png)
 
-You should now only see the pairs you have LP Tokens in on the list, making it easier to find your Farm.
+अब आपको सूची में केवल वे जोड़े दिखने चाहिए जिनमें आपके LP टोकन हैं, जिससे आपका फार्म खोजना आसान हो जाता है।
 
-1. Find the Farm you have LP Tokens in, and click the row to view details. You will see a **-** and **+** button on the right-hand side. Click **-** to remove LP Tokens, or **+** to add more LP Tokens.
+1. वह फार्म खोजें जिसमें आपके LP टोकन हैं, और विवरण देखने के लिए पंक्ति पर क्लिक करें। दाईं ओर आपको **-** और **+** बटन दिखेंगे। LP टोकन हटाने के लिए **-** पर क्लिक करें, या और अधिक जोड़ने के लिए **+** पर क्लिक करें।
 
-![](<../../../.gitbook/assets/image (102).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28102%29.png)
 
-1. A window will open that looks like the one you used earlier to first stake your LP Tokens. Like last time, type the amount you would like to unstake/stake, or click **Max** to remove/add all available LP Tokens.
+1. एक विंडो खुलेगी जो उस जैसी दिखती है जिसका उपयोग आपने पहले LP टोकन स्टेक करते समय किया था। पिछली बार की तरह, वह राशि दर्ज करें जो आप अनस्टेक/स्टेक करना चाहते हैं, या सभी उपलब्ध LP टोकन हटाने/जोड़ने के लिए **Max** पर क्लिक करें।
 
-![](<../../../.gitbook/assets/image (79).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2879%29.png)
 
-1. Make sure your information is correct. When you are ready, click the **Confirm** button and confirm the action in your wallet.
-2. After a short wait, your new balance will show in the details section of your LP Token pair. If you've unstaked your LP Tokens, any unharvested rewards you had will automatically have been collected.
+1. सुनिश्चित करें कि आपकी जानकारी सही है। जब तैयार हों, तो **Confirm** बटन पर क्लिक करें और अपने वॉलेट में कार्रवाई की पुष्टि करें।
+2. थोड़े इंतज़ार के बाद, आपका नया बैलेंस आपके LP टोकन जोड़े के विवरण अनुभाग में दिखाई देगा। यदि आपने अपने LP टोकन अनस्टेक किए हैं, तो कोई भी अनहार्वेस्टेड पुरस्कार स्वचालित रूप से एकत्र हो जाएंगे।
 
-### Collecting your farming rewards
+### अपने फार्मिंग पुरस्कार एकत्र करें
 
-Farming will bring you CAKE rewards over time. You can collect these rewards and use them to get more LP Tokens, stake them in Syrup Pools, use them to play Lottery, or anything else you’d like.
+फार्मिंग समय के साथ आपको CAKE पुरस्कार देती है। आप इन पुरस्कारों को एकत्र कर सकते हैं और उनका उपयोग अधिक LP टोकन पाने, सिरप पूल में स्टेक करने, Lottery खेलने, या किसी अन्य उद्देश्य के लिए कर सकते हैं।
 
-### Returning to your Farm to Harvest
+### हार्वेस्ट के लिए अपने फार्म पर वापस लौटें
 
-You can harvest your Farm and Syrup Pool rewards together from the Home page. If you'd like to collect your farming rewards only, follow along.
+आप होम पेज से अपने फार्म और सिरप पूल पुरस्कार एक साथ हार्वेस्ट कर सकते हैं। यदि आप केवल अपने फार्मिंग पुरस्कार एकत्र करना चाहते हैं, तो यह तरीका अपनाएं।
 
-To collect your rewards, you’ll need to visit your chosen Farm and collect the CAKE waiting for you.
+अपने पुरस्कार एकत्र करने के लिए, आपको अपने चुने हुए फार्म पर जाकर वहाँ प्रतीक्षा कर रहे CAKE एकत्र करने होंगे।
 
-1 - Return to the Farms page [here](https://pancakeswap.finance/farms).
+1 — [यहाँ](https://pancakeswap.finance/farms) फार्म पेज पर वापस जाएं।
 
-2 - Find the Farm you staked your LP Tokens in, and click the row to view details. You should see an estimate of your rewards under “CAKE earned”.
+2 — वह फार्म खोजें जिसमें आपने LP टोकन स्टेक किए हैं, और विवरण देखने के लिए पंक्ति पर क्लिक करें। आपको "CAKE earned" के नीचे अपने पुरस्कारों का अनुमान दिखना चाहिए।
 
-![](<../../../.gitbook/assets/image (181).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28181%29.png)
 
-3 - Click the **Harvest** button and confirm the action in your wallet. After a short wait, the CAKE will be claimed to your wallet for you to use as you like.
+3 — **Harvest** बटन पर क्लिक करें और अपने वॉलेट में कार्रवाई की पुष्टि करें। थोड़े इंतज़ार के बाद, CAKE आपके वॉलेट में क्लेम हो जाएगा और आप इसे जैसे चाहें उपयोग कर सकते हैं।
 
 {% hint style="info" %}
-When you are performing crosschain farming on an EVM blockchain other than the BNB chain. You will need to always switch to BNB Smart Chain to harvest your farming rewards.
+जब आप BNB Chain के अलावा किसी अन्य EVM ब्लॉकचेन पर क्रॉस-चेन फार्मिंग कर रहे हों, तो आपको हमेशा अपने फार्मिंग पुरस्कार हार्वेस्ट करने के लिए BNB Smart Chain पर स्विच करना होगा।
 
-If your wallet doesn't support chain switching. Staking or unstaking LP tokens will always harvest your CAKE. Please note the harvested CAKE will be distributed on BNB Smart Chain.
+यदि आपका वॉलेट चेन स्विचिंग का समर्थन नहीं करता, तो LP टोकन स्टेक या अनस्टेक करने से हमेशा आपका CAKE हार्वेस्ट होगा। कृपया ध्यान दें कि हार्वेस्ट किया गया CAKE BNB Smart Chain पर वितरित किया जाएगा।
 
-<img src="../../../.gitbook/assets/image (164).png" alt="" data-size="original">
+<img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28164%29.png" alt="" data-size="original">
 {% endhint %}
 
-## How often should I harvest my rewards?
+## मुझे कितनी बार पुरस्कार हार्वेस्ट करने चाहिए?
 
-How often you harvest your rewards is up to you, but it does help to remember that there is a small fee involved in harvesting.
+आप कितनी बार पुरस्कार हार्वेस्ट करते हैं यह आप पर निर्भर है, लेकिन यह ध्यान रखना उपयोगी है कि हार्वेस्टिंग में एक छोटा शुल्क लगता है।
 
-You can see this fee in your wallet when confirming after clicking **Harvest**.
+**Harvest** पर क्लिक करने के बाद पुष्टि करते समय आप यह शुल्क अपने वॉलेट में देख सकते हैं।
 
-![](<../../../.gitbook/assets/image (281).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28281%29.png)
 
-This shows the fee for harvesting as it appears in the MetaMask wallet. Different wallets will show the information a little differently. Consider leaving your rewards to grow for a while so you pay fees less often.
+यह MetaMask वॉलेट में हार्वेस्टिंग शुल्क दिखाता है। अलग-अलग वॉलेट जानकारी थोड़े अलग तरीके से दिखाएंगे। कम बार शुल्क चुकाने के लिए अपने पुरस्कारों को कुछ समय के लिए बढ़ने दें।
 
-And that's all there is to it! You may also want to look at [how to use PancakeSwap Syrup Pools](https://docs.pancakeswap.finance/get-started/syrup-pool-guide) to earn rewards.
+बस इतना ही है! आप [PancakeSwap सिरप पूल का उपयोग कैसे करें](https://docs.pancakeswap.finance/get-started/syrup-pool-guide) भी पढ़ना चाहेंगे।
 
-Happy farming!
+शुभ फार्मिंग!

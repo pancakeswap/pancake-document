@@ -1,48 +1,48 @@
-# Dumb Mode Guide
+# Dumb Mode गाइड
 
-### How to Place Orders in Dumb Mode
+### Dumb Mode में ऑर्डर कैसे दें
 
-To place an order in Dumb Mode on PancakeSwap, follow these steps:
+PancakeSwap पर Dumb Mode में ऑर्डर देने के लिए, इन चरणों का पालन करें:
 
-1. Select a Market: Go to [**Pancakeswap Perpertuals**](https://perp.pancakeswap.finance/en/futures/v2/BTCUSD?theme=light\&chain=bsc) on BSC. Choose from the available markets like BTCUSD, ETHUSD, etc.
+1. एक बाजार चुनें: BSC पर [**Pancakeswap Perpetuals**](https://perp.pancakeswap.finance/en/futures/v2/BTCUSD?theme=light\&chain=bsc) पर जाएं। BTCUSD, ETHUSD आदि जैसे उपलब्ध बाजारों में से चुनें।
 
-<figure><img src="../../../../.gitbook/assets/Module_Order.png" alt="" width="338"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Module_Order.png" alt="" width="338"><figcaption></figcaption></figure>
 
-2. Click on **Dumb (Beta) Icon.** The position interface will change to Dumb mode.
+2. **Dumb (Beta) Icon** पर क्लिक करें। पोजीशन इंटरफेस Dumb mode में बदल जाएगा।
 
-<figure><img src="../../../../.gitbook/assets/Module_Order (1).png" alt="" width="338"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Module_Order%20%281%29.png" alt="" width="338"><figcaption></figcaption></figure>
 
-2. Select Position: Choose to long or short the underlying asset\*
-   1. For long positions: If the expiry price is greater than the entry price, user will win the trade and make profit.&#x20;
-   2. For short positions: If the expiry price is less than the entry price, users will win the trade and make profit.
-   3. Otherwise, user will lose the entire collateral.
-   4. Refer to notes for more details on position
-3.  Set Margin and Amount: Select your margin asset (USDC, USDT, CAKE, etc.) and specify the amount for collateral.
+2. पोजीशन चुनें: अंतर्निहित एसेट को long या short करना चुनें\*
+   1. long पोजीशन के लिए: यदि expiry price, entry price से अधिक है, तो उपयोगकर्ता ट्रेड जीतेगा और लाभ कमाएगा।&#x20;
+   2. short पोजीशन के लिए: यदि expiry price, entry price से कम है, तो उपयोगकर्ता ट्रेड जीतेगा और लाभ कमाएगा।
+   3. अन्यथा, उपयोगकर्ता पूरा संपार्श्विक खो देगा।
+   4. पोजीशन पर अधिक विवरण के लिए notes देखें
+3.  मार्जिन और राशि सेट करें: अपनी मार्जिन एसेट (USDC, USDT, CAKE, आदि) चुनें और संपार्श्विक के लिए राशि निर्दिष्ट करें।
 
-    <figure><img src="../../../../.gitbook/assets/Frame 48097008.jpg" alt=""><figcaption></figcaption></figure>
-4. Choose Duration: Decide on the expiration of your trade - 60s, 5m, or 10m.
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Frame%2048097008.jpg" alt=""><figcaption></figcaption></figure>
+4. अवधि चुनें: अपने ट्रेड की समाप्ति तय करें - 60s, 5m, या 10m।
 
-<figure><img src="../../../../.gitbook/assets/Info.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Info.png" alt=""><figcaption></figcaption></figure>
 
-5. Place Order: Review the ROI, confirm details and place your trade by clicking **Open Position**\*
+5. ऑर्डर दें: ROI की समीक्षा करें, विवरण की पुष्टि करें और **Open Position** पर क्लिक करके अपना ट्रेड दें\*
 
-<figure><img src="../../../../.gitbook/assets/Info.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Info.jpg" alt=""><figcaption></figcaption></figure>
 
-5. Monitor Trade: Once the trade is placed, monitor its progress until completion via the “Position” tab. **Users cannot close trades before expiration**
+5. ट्रेड की निगरानी करें: ट्रेड दिए जाने के बाद, "Position" टैब के माध्यम से समाप्ति तक इसकी प्रगति की निगरानी करें। **उपयोगकर्ता समाप्ति से पहले ट्रेड बंद नहीं कर सकते**
 
-<figure><img src="../../../../.gitbook/assets/Module_Bottom.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Module_Bottom.png" alt=""><figcaption></figcaption></figure>
 
-7. Settlement: Upon the trade's conclusion, if successful, your ROI will be credited minus the 6% fee. If the trade is not successful, the loss will be 100%.
+7. निपटान: ट्रेड के समाप्त होने पर, यदि सफल हो, तो आपका ROI 6% शुल्क घटाकर जमा किया जाएगा। यदि ट्रेड सफल नहीं होता, तो नुकसान 100% होगा।
 
-<figure><img src="../../../../.gitbook/assets/Module_Bottom (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Module_Bottom%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
-### Extra Note on Position
+### पोजीशन पर अतिरिक्त नोट
 
-* Please note that the expiration timer doesn't start when you click on the 'OpenPosition' button; instead, the 60-second / selected duration countdown commences from the instant the transaction gets confirmed on the blockchain
-* The price you see displayed serves only as a reference. The final entry price will be determined by the price point at the exact moment the transaction is confirmed on the blockchain. This will be updated on the “position” tab
+* कृपया ध्यान दें कि समाप्ति टाइमर तब शुरू नहीं होता जब आप 'OpenPosition' बटन पर क्लिक करते हैं; बल्कि, 60-सेकंड / चुनी गई अवधि की गिनती उस क्षण से शुरू होती है जब लेनदेन ब्लॉकचेन पर पुष्टि होता है
+* आप जो मूल्य प्रदर्शित देखते हैं वह केवल संदर्भ के रूप में काम करता है। अंतिम entry price उस मूल्य बिंदु द्वारा निर्धारित होगा जिस सटीक क्षण पर लेनदेन ब्लॉकचेन पर पुष्टि होता है। यह "position" टैब पर अपडेट किया जाएगा
 
-### Tips for Using Dumb Mode
+### Dumb Mode का उपयोग करने के सुझाव
 
-* Understand the Risks: Be aware of the high risks involved, especially with the -100% ROI on losses.
-* Manage Your Collateral: Only invest what you can afford to lose.
-* Stay Informed: Keep up to date with market trends for the assets you're trading.
+* जोखिमों को समझें: विशेष रूप से हानि पर -100% ROI के साथ उच्च जोखिमों के बारे में जागरूक रहें।
+* अपना संपार्श्विक प्रबंधित करें: केवल उतना निवेश करें जितना आप खोने का जोखिम उठा सकते हैं।
+* अपडेट रहें: जिन एसेट का आप व्यापार कर रहे हैं उनके लिए बाजार के रुझानों के बारे में जानकारी रखें।

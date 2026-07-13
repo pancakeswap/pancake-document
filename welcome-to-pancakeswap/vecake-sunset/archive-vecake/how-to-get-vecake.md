@@ -1,39 +1,39 @@
-# How to get veCAKE?
+# veCAKE कैसे प्राप्त करें?
 
-<figure><img src="../../../.gitbook/assets/image (342).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28342%29.png" alt=""><figcaption></figcaption></figure>
 
-Just like the fixed-term CAKE staking pool, to enjoy the benefits from veCAKE, simply lock CAKE for a period of time.
+fixed-term CAKE staking pool की तरह, veCAKE के लाभों का आनंद लेने के लिए, बस CAKE को एक निश्चित अवधि के लिए lock करें।
 
-## Go to the CAKE staking page <a href="#dcf081d0-9b78-4bfc-be0f-44d3d227b4d2" id="dcf081d0-9b78-4bfc-be0f-44d3d227b4d2"></a>
+## CAKE staking पेज पर जाएं <a href="#dcf081d0-9b78-4bfc-be0f-44d3d227b4d2" id="dcf081d0-9b78-4bfc-be0f-44d3d227b4d2"></a>
 
-<figure><img src="../../../.gitbook/assets/image (343).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28343%29.png" alt=""><figcaption></figcaption></figure>
 
-Navigate to [https://pancakeswap.finance/cake-staking?chain=bsc](https://pancakeswap.finance/cake-staking?chain=bsc) and connect your wallet. Please note that veCAKE staking is only available on BNB Chain.
+[https://pancakeswap.finance/cake-staking?chain=bsc](https://pancakeswap.finance/cake-staking?chain=bsc) पर जाएं और अपना वॉलेट connect करें। कृपया ध्यान दें कि veCAKE staking केवल BNB Chain पर उपलब्ध है।
 
-## Choose the lock amount and duration
+## Lock राशि और अवधि चुनें
 
-<figure><img src="../../../.gitbook/assets/image (344).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28344%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-On the left, you may input the amount of CAKE you wish to lock.
+बाईं ओर, आप वह CAKE राशि दर्ज कर सकते हैं जिसे आप lock करना चाहते हैं।
 
-<figure><img src="../../../.gitbook/assets/image (345).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28345%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-On the right, you may choose the duration for which to lock your CAKE. The minimum lock duration is 1 week, and the maximum lock duration is now extended to 4 years.
+दाईं ओर, आप अपना CAKE lock करने की अवधि चुन सकते हैं। न्यूनतम lock duration 1 सप्ताह है, और अधिकतम lock duration अब बढ़ाकर 4 वर्ष कर दी गई है।
 
-To quickly select the duration for locking, use the quick action buttons to choose between: 1 week, 1 month, 6 months, 1 year and 4 years.
+Lock करने की अवधि जल्दी से चुनने के लिए, quick action buttons का उपयोग करें: 1 सप्ताह, 1 महीना, 6 महीने, 1 वर्ष और 4 वर्ष।
 
-## Approve CAKE spend and start locking <a href="#abd2285e-6773-43d2-b6fb-135bbf93e36f" id="abd2285e-6773-43d2-b6fb-135bbf93e36f"></a>
+## CAKE spend approve करें और locking शुरू करें <a href="#abd2285e-6773-43d2-b6fb-135bbf93e36f" id="abd2285e-6773-43d2-b6fb-135bbf93e36f"></a>
 
-<figure><img src="../../../.gitbook/assets/image (346).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28346%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Once confirmed, click “Lock CAKE” to proceed. A loading modal will appear. And your wallet should prompt you to confirm CAKE spending. Confirm the transaction in the wallet to continue.
+पुष्टि होने के बाद, आगे बढ़ने के लिए "Lock CAKE" पर क्लिक करें। एक loading modal दिखेगा। और आपके वॉलेट को CAKE spending confirm करने के लिए prompt किया जाएगा। जारी रखने के लिए वॉलेट में transaction confirm करें।
 
-After the CAKE spend approval transaction is executed. Another wallet pop-up should appear. Confirm that transaction to lock CAKE and get veCAKE.
+CAKE spend approval transaction execute होने के बाद, एक और wallet pop-up दिखेगा। CAKE lock करने और veCAKE प्राप्त करने के लिए उस transaction को confirm करें।
 
-## Well done <a href="#fdf5376d-2959-47a6-aa98-4c3e39358e86" id="fdf5376d-2959-47a6-aa98-4c3e39358e86"></a>
+## बहुत अच्छा <a href="#fdf5376d-2959-47a6-aa98-4c3e39358e86" id="fdf5376d-2959-47a6-aa98-4c3e39358e86"></a>
 
-<figure><img src="../../../.gitbook/assets/image (347).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28347%29.png" alt=""><figcaption></figcaption></figure>
 
-Once confirmed, you should see your veCAKE staking position details on the left, with the amount of CAKE locked and the unlock time. And most importantly - your veCAKE number.
+एक बार पुष्टि होने के बाद, आप बाईं ओर अपनी veCAKE staking position का विवरण देखेंगे, जिसमें locked CAKE की राशि और unlock time शामिल है। और सबसे महत्वपूर्ण - आपका veCAKE number।
 
-Scroll down to check on all the veCAKE benefits.
+सभी veCAKE benefits देखने के लिए नीचे scroll करें।

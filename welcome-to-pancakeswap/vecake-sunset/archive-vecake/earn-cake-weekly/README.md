@@ -1,66 +1,66 @@
-# Earn CAKE Weekly
+# साप्ताहिक CAKE कमाएं
 
-<figure><img src="../../../../.gitbook/assets/image (354).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28354%29.png" alt=""><figcaption></figcaption></figure>
 
-Holding veCAKE automatically enrols you to two of our weekly CAKE reward pools. Both will be distributing rewards in CAKE. One of them is distributing rewards from weekly revenue shares; the other one is replacing the legacy CAKE staking pool and distributing emission-based CAKE rewards.
+veCAKE रखने से आप स्वचालित रूप से हमारे दो साप्ताहिक CAKE reward pools में नामांकित हो जाते हैं। दोनों CAKE में rewards वितरित करेंगे। उनमें से एक साप्ताहिक revenue shares से rewards वितरित करता है; दूसरा legacy CAKE staking pool की जगह लेता है और emission-based CAKE rewards वितरित करता है।
 
-## How to participate?
+## कैसे भाग लें?
 
-### 1 - Become eligible <a href="#id-8b63b3dd-b974-4e1b-9c5e-ed8eea2891ab" id="id-8b63b3dd-b974-4e1b-9c5e-ed8eea2891ab"></a>
+### 1 - पात्र बनें <a href="#id-8b63b3dd-b974-4e1b-9c5e-ed8eea2891ab" id="id-8b63b3dd-b974-4e1b-9c5e-ed8eea2891ab"></a>
 
-<figure><img src="../../../../.gitbook/assets/image (355).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28355%29.png" alt=""><figcaption></figcaption></figure>
 
-To become eligible, you must have an active veCAKE staking position.
+पात्र बनने के लिए, आपके पास एक सक्रिय veCAKE staking position होनी चाहिए।
 
-Additionally, to accumulate rewards in the next period, your position **MUST** unlock equal to or later than the second coming weekly distribution (every week at 00:00 UTC on Thursday).
+इसके अतिरिक्त, अगली अवधि में rewards जमा करने के लिए, आपकी position को दूसरे आने वाले साप्ताहिक वितरण (हर सप्ताह गुरुवार को 00:00 UTC) के बराबर या उससे बाद unlock होना **आवश्यक** है।
 
-For example, to join the week 1 distribution. You must:
+उदाहरण के लिए, सप्ताह 1 वितरण में शामिल होने के लिए, आपको:
 
-* Join before 00:00 UTC, Thursday on week 1
-* Have an active fixed-term CAKE staking position, which unlocks equal to or later than 00:00 UTC, Thursday on week 3
+* सप्ताह 1 में गुरुवार, 00:00 UTC से पहले शामिल होना होगा
+* एक सक्रिय fixed-term CAKE staking position रखनी होगी, जो सप्ताह 3 में गुरुवार, 00:00 UTC के बराबर या उससे बाद unlock हो
 
-### 2 - Check your rewards
+### 2 - अपने rewards जाँचें
 
-<figure><img src="../../../../.gitbook/assets/image (356).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28356%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Go to the CAKE staking page, scroll down, look for the "Earn CAKE" section under "Benefits of veCAKE".
+CAKE staking पेज पर जाएं, नीचे scroll करें, "Benefits of veCAKE" के अंतर्गत "Earn CAKE" सेक्शन खोजें।
 
-In the top section, you may view your veCAKE number.
+ऊपरी भाग में, आप अपना veCAKE number देख सकते हैं।
 
-At the bottom, you may find:
+नीचे, आप निम्नलिखित पा सकते हैं:
 
-* **Your shares** - shares number in the reward pool. This is equal to your veCAKE balance at the time of the next distribution. Please note that the veCAKE balance is constantly decreasing based on the remaining lock time.
-* **Next distribution** - the time till the next distribution
-* **Last distribution** - the time of the last revenue distribution and share number update
-* **Available for claiming** - the amount of CAKE available for claiming
+* **Your shares** - reward pool में shares की संख्या। यह अगले वितरण के समय आपके veCAKE balance के बराबर है। कृपया ध्यान दें कि veCAKE balance remaining lock time के आधार पर लगातार घटता रहता है।
+* **Next distribution** - अगले वितरण तक का समय
+* **Last distribution** - अंतिम revenue वितरण का समय और share number update
+* **Available for claiming** - claiming के लिए उपलब्ध CAKE की राशि
 
 {% hint style="info" %}
-Please note that your shares will only be updated upon a weekly distribution. Therefore, your shares may appear to be 0 right after you update your staking position. Check back again after the next distribution to view your shares.
+कृपया ध्यान दें कि आपके shares केवल साप्ताहिक वितरण पर अपडेट होंगे। इसलिए, अपनी staking position अपडेट करने के तुरंत बाद आपके shares 0 दिख सकते हैं। अपने shares देखने के लिए अगले वितरण के बाद वापस जाँचें।
 {% endhint %}
 
-### 3 - Claim your rewards <a href="#d99a5c97-55b7-4768-ac3e-c05e173ed63f" id="d99a5c97-55b7-4768-ac3e-c05e173ed63f"></a>
+### 3 - अपने rewards claim करें <a href="#d99a5c97-55b7-4768-ac3e-c05e173ed63f" id="d99a5c97-55b7-4768-ac3e-c05e173ed63f"></a>
 
-Your shares will be updated upon the next weekly distribution after you start locking or migrated your position to veCAKE. You will start accumulating rewards based on the number of shares you have against the whole pool.
+आपके shares veCAKE staking शुरू करने या position migrate करने के बाद अगले साप्ताहिक वितरण पर अपडेट होंगे। आप पूरे pool के विरुद्ध अपने shares की संख्या के आधार पर rewards जमा करना शुरू करेंगे।
 
-<figure><img src="../../../../.gitbook/assets/image (357).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28357%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-After a whole calendar week passes and the pool hits the next weekly distribution on Thursday. You may now claim the rewards from the last period by going back to the benefits panel and clicking the “Claim All” button.
+एक पूरा calendar सप्ताह बीतने और pool के गुरुवार को अगले साप्ताहिक वितरण पर पहुँचने के बाद, आप benefits panel पर वापस जाकर "Claim All" बटन पर क्लिक करके पिछली अवधि के rewards claim कर सकते हैं।
 
-### 4 - Stay eligible and gain more shares <a href="#id-3ca775e2-6d26-4dee-94e4-e03d89b57412" id="id-3ca775e2-6d26-4dee-94e4-e03d89b57412"></a>
+### 4 - पात्र बने रहें और अधिक shares प्राप्त करें <a href="#id-3ca775e2-6d26-4dee-94e4-e03d89b57412" id="id-3ca775e2-6d26-4dee-94e4-e03d89b57412"></a>
 
-Upon each weekly distribution, your shares are re-adjusted based on:
+प्रत्येक साप्ताहिक वितरण पर, आपके shares निम्नलिखित के आधार पर पुनः समायोजित किए जाते हैं:
 
-* Your veCAKE balance
-* At the time of the next distribution (00:00 UTC, Thursday)
-* (note that veCAKE is gradually decreasing with the remaining lock time)
+* आपका veCAKE balance
+* अगले वितरण के समय (गुरुवार, 00:00 UTC)
+* (ध्यान दें कि veCAKE remaining lock time के साथ धीरे-धीरे घटता है)
 
-For example: If a user has `50` CAKE locked and the current remaining lock time is `4.2` weeks, then the user will have `50 * (4 / 209) ~= 0.95` veCAKE/shares at the next distribution.
+उदाहरण के लिए: यदि किसी उपयोगकर्ता के पास `50` CAKE locked है और वर्तमान remaining lock time `4.2` सप्ताह है, तो उपयोगकर्ता के अगले वितरण पर `50 * (4 / 209) ~= 0.95` veCAKE/shares होंगे।
 
-To receive more shares, lock more CAKE or renew your lock durations to increase your remaining lock time.
+अधिक shares प्राप्त करने के लिए, अधिक CAKE lock करें या अपनी remaining lock time बढ़ाने के लिए lock duration नवीनीकृत करें।
 
-Additionally, since the remaining lock duration will be rounded down to weeks, to keep receiving shares, you must ensure your staking position will unlock equal to or later than the second next distribution.
+इसके अतिरिक्त, चूँकि remaining lock duration को सप्ताहों में घटाकर round किया जाएगा, shares प्राप्त करते रहने के लिए, आपको सुनिश्चित करना होगा कि आपकी staking position दूसरे अगले वितरण के बराबर या उससे बाद unlock हो।
 
-For example, to join the week 1 distribution. You must:
+उदाहरण के लिए, सप्ताह 1 वितरण में शामिल होने के लिए, आपको:
 
-* Join before 00:00 UTC, Thursday on week 1
-* Have an active fixed-term CAKE staking position, which unlocks equal to or later than 00:00 UTC, Thursday on week 3
+* सप्ताह 1 में गुरुवार, 00:00 UTC से पहले शामिल होना होगा
+* एक सक्रिय fixed-term CAKE staking position रखनी होगी, जो सप्ताह 3 में गुरुवार, 00:00 UTC के बराबर या उससे बाद unlock हो

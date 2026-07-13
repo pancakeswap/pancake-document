@@ -1,45 +1,45 @@
 # Arbitrum
 
-On 31st August 2023, PancakeSwap Perpetuals will launch the V2 Trading Rewards Program on Arbitrum. Users who stake [ALP in CAKE syrup pool](https://pancakeswap.finance/pools?chain=arb) on Arbitrum can enjoy boosting multipliers. In addition, there is no vesting period for rewards earned in this program. Users may claim their USDC rewards at any time. Details are as follows:
+31 अगस्त 2023 को, PancakeSwap Perpetuals Arbitrum पर V2 Trading Rewards Program लॉन्च करेगा। Arbitrum पर [CAKE syrup pool में ALP stake](https://pancakeswap.finance/pools?chain=arb) करने वाले उपयोगकर्ता boosting multipliers का आनंद ले सकते हैं। इसके अतिरिक्त, इस कार्यक्रम में अर्जित पुरस्कारों के लिए कोई vesting अवधि नहीं है। उपयोगकर्ता किसी भी समय अपने USDC पुरस्कारों का दावा कर सकते हैं। विवरण इस प्रकार हैं:
 
-Starting time: 31st August 2023, 08:00 (UTC)
+प्रारंभ समय: 31 अगस्त 2023, 08:00 (UTC)
 
-Activity (Epoch) period: Every Thursday 08:00:00 UTC to the next Thursday 07:59:59, lasting 1 week
+गतिविधि (Epoch) अवधि: हर गुरुवार 08:00:00 UTC से अगले गुरुवार 07:59:59 तक, 1 सप्ताह तक चलती है
 
-Reward Distribution Time: Each cycle is 00:00 (UTC) to 23:59 (UTC) daily. Rewards are issued on every Thursday at around 08:00 (UTC). After user's tier is update, rewards will be calculated and distributed. Users have to claim their rewards within 30 days after the rewards are issued. If they do not, the platform will revoke the rewards.&#x20;
+पुरस्कार वितरण समय: प्रत्येक चक्र प्रतिदिन 00:00 (UTC) से 23:59 (UTC) तक है। पुरस्कार हर गुरुवार को लगभग 08:00 (UTC) पर जारी किए जाते हैं। उपयोगकर्ता के tier अपडेट होने के बाद, पुरस्कारों की गणना और वितरण किया जाएगा। उपयोगकर्ताओं को पुरस्कार जारी होने के 30 दिनों के भीतर अपने पुरस्कारों का दावा करना होगा। यदि वे नहीं करते, तो प्लेटफॉर्म पुरस्कार वापस ले लेगा।&#x20;
 
-Reward amount: For the first 5 weeks, 25% of trading fees (in USDC). This prize pool will then be distributed according to tiers.
+पुरस्कार राशि: पहले 5 सप्ताहों के लिए, trading fees का 25% (USDC में)। यह prize pool फिर tiers के अनुसार वितरित की जाएगी।
 
-Activity rules: Users who trade on PancakeSwap Perpetuals V2 on Arbitrum will qualify for the prize pool
+गतिविधि नियम: Arbitrum पर PancakeSwap Perpetuals V2 पर व्यापार करने वाले उपयोगकर्ता prize pool के लिए योग्य होंगे।
 
-### Tier Breakdown
+### Tier विवरण
 
-Every Thursday at 08:00:00 UTC, we calculate the trading data from last Thursday 08:00:00 UTC to this Thursday at 07:59:59 and then update the user's Tier according to the Tier rules. The Tier rules are as follows (configuration is supported):
+हर गुरुवार 08:00:00 UTC पर, हम पिछले गुरुवार 08:00:00 UTC से इस गुरुवार 07:59:59 तक के trading डेटा की गणना करते हैं और फिर Tier नियमों के अनुसार उपयोगकर्ता का Tier अपडेट करते हैं। Tier नियम इस प्रकार हैं (configuration समर्थित है):
 
-<table><thead><tr><th width="161">Tier</th><th width="249.33333333333331">Description</th><th>Weight</th></tr></thead><tbody><tr><td>Diamond</td><td>Epoch trading amount >=1M USD</td><td>5</td></tr><tr><td>Gold</td><td>Epoch trading amount >=500K USD</td><td>3</td></tr><tr><td>Silver</td><td>Epoch trading amount >=250K USD</td><td>1</td></tr></tbody></table>
+<table><thead><tr><th width="161">Tier</th><th width="249.33333333333331">विवरण</th><th>भार</th></tr></thead><tbody><tr><td>Diamond</td><td>Epoch trading amount >=1M USD</td><td>5</td></tr><tr><td>Gold</td><td>Epoch trading amount >=500K USD</td><td>3</td></tr><tr><td>Silver</td><td>Epoch trading amount >=250K USD</td><td>1</td></tr></tbody></table>
 
-**Note: The tier criteria and weights are subject to change based on pool liquidity and overall trading activity on the platform**
+**नोट: Tier मानदंड और भार pool की तरलता और प्लेटफॉर्म पर समग्र ट्रेडिंग गतिविधि के आधार पर परिवर्तन के अधीन हैं**
 
-Rewards will be distributed equally across all users who qualify for a certain tier
+पुरस्कार एक निश्चित tier के लिए योग्य सभी उपयोगकर्ताओं में समान रूप से वितरित किए जाएंगे
 
-### Trading Rewards calculation formula:&#x20;
+### Trading Rewards गणना सूत्र:&#x20;
 
-At the end of each trading reward cycle, the user’s effective trading volume in that cycle will be calculated to determine the weightage and amount of USDC rewards.
+प्रत्येक trading reward चक्र के अंत में, उस चक्र में उपयोगकर्ता के प्रभावी trading volume की गणना weightage और USDC पुरस्कारों की मात्रा निर्धारित करने के लिए की जाएगी।
 
-The formula for the number of specific rewards is: r = min{R \* W/Sum(Wi), R \* 20%\}, the parameters are as follows:
+विशिष्ट पुरस्कारों की संख्या का सूत्र है: r = min{R \* W/Sum(Wi), R \* 20%\}, पैरामीटर इस प्रकार हैं:
 
-<table data-header-hidden><thead><tr><th width="139"></th><th></th></tr></thead><tbody><tr><td>r</td><td>Amount of USDC reward to be mined by the user for the current epoch</td></tr><tr><td>R</td><td>The reward of the current epoch R=(USDC value of ETH fee + USDC value of DAI fee + USDC value of BTC fee + USDC fee)*0.25, of which 1% Swap fee needs to be deducted when it comes to the settlement, for example: when the weekly ETH fee is 1 and the ETH Price is 2,000, the ETH fee for the USDC value = 1 * 2000 * 0.99</td></tr><tr><td>W</td><td>Weight corresponding to the user's Tier level</td></tr><tr><td>Sum(Wi)</td><td>Total weight score of all users. Wi represents the weight of any user, and sum(Wi) represents sum weight scores of all users.</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="139"></th><th></th></tr></thead><tbody><tr><td>r</td><td>वर्तमान epoch के लिए उपयोगकर्ता द्वारा mine किए जाने वाले USDC पुरस्कार की मात्रा</td></tr><tr><td>R</td><td>वर्तमान epoch का पुरस्कार R=(ETH fee का USDC मूल्य + DAI fee का USDC मूल्य + BTC fee का USDC मूल्य + USDC fee)*0.25, जिसमें से निपटान पर 1% Swap fee काटी जानी चाहिए, उदाहरण के लिए: जब साप्ताहिक ETH fee 1 हो और ETH Price 2,000 हो, तो ETH fee का USDC मूल्य = 1 * 2000 * 0.99</td></tr><tr><td>W</td><td>उपयोगकर्ता के Tier स्तर के अनुरूप भार</td></tr><tr><td>Sum(Wi)</td><td>सभी उपयोगकर्ताओं का कुल भार स्कोर। Wi किसी भी उपयोगकर्ता के भार का प्रतिनिधित्व करता है, और sum(Wi) सभी उपयोगकर्ताओं के भार स्कोरों का योग का प्रतिनिधित्व करता है।</td></tr></tbody></table>
 
-* The max revenue share per user is capped at 20% of the revenue reserved for the program
+* प्रति उपयोगकर्ता अधिकतम revenue share कार्यक्रम के लिए आरक्षित राजस्व के 20% पर सीमित है
 
-Terms and Conditions
+नियम और शर्तें
 
-* Due to the difference in trading fees for each trading pair on V2, the rewards users receive may vary even though their effective trading volumes are the same.
-* The rewards to be distributed for each cycle will be stored in the following contract address:&#x20;
-* PancakeSwap/ApolloX reserves the right of final interpretation for this activity.
+* V2 पर प्रत्येक trading pair के लिए trading fees में अंतर के कारण, भले ही उनके प्रभावी trading volumes समान हों, उपयोगकर्ताओं को प्राप्त होने वाले पुरस्कार भिन्न हो सकते हैं।
+* प्रत्येक चक्र के लिए वितरित किए जाने वाले पुरस्कार निम्नलिखित contract address में संग्रहीत किए जाएंगे:&#x20;
+* PancakeSwap/ApolloX इस गतिविधि की अंतिम व्याख्या का अधिकार सुरक्षित रखता है।
 
 
 
-Risk Warning: Crypto futures trading carries a substantial risk. All trading activities are done at your discretion and at your own risk. The information here should not be regarded as financial or investment advice from PancakeSwap/ApolloX. PancakeSwap/ApolloX will not be liable for any loss that might arise from your use of PancakeSwap/ApolloX.
+जोखिम चेतावनी: Crypto futures trading में पर्याप्त जोखिम होता है। सभी ट्रेडिंग गतिविधियां आपके विवेक और अपने जोखिम पर की जाती हैं। यहां दी गई जानकारी को PancakeSwap/ApolloX से वित्तीय या निवेश सलाह नहीं माना जाना चाहिए। PancakeSwap/ApolloX के उपयोग से उत्पन्न किसी भी हानि के लिए PancakeSwap/ApolloX उत्तरदायी नहीं होगा।
 
 <br>

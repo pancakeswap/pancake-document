@@ -1,55 +1,55 @@
-# Bridge your veCAKE
+# अपना veCAKE Bridge करें
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%283%29%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
-To enjoy the benefits of veCAKE such as bCAKE (Farm yield boosting) and iCAKE (IFO public sales allocation) on other chains. You need to perform a simple bridging request on BNB Chain to sync your veCAKE balance and PancakeProfile to other chains.
+अन्य chains पर veCAKE के लाभ जैसे bCAKE (Farm yield boosting) और iCAKE (IFO public sales allocation) का आनंद लेने के लिए, आपको BNB Chain पर एक सरल bridging request करनी होगी ताकि आपका veCAKE balance और PancakeProfile अन्य chains पर sync हो सके।
 
-## How to bridge? <a href="#id-734b8113-0e00-40ff-bccb-9c129460e2e2" id="id-734b8113-0e00-40ff-bccb-9c129460e2e2"></a>
+## Bridge कैसे करें? <a href="#id-734b8113-0e00-40ff-bccb-9c129460e2e2" id="id-734b8113-0e00-40ff-bccb-9c129460e2e2"></a>
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%285%29.png" alt=""><figcaption></figcaption></figure>
 
-Go to [CAKE Staking](https://pancakeswap.finance/cake-staking) page and locate the veCAKE Sync card under the veCAKE benefits. Click “View Details” to open the sync modal.
+[CAKE Staking](https://pancakeswap.finance/cake-staking) पेज पर जाएं और veCAKE benefits के अंतर्गत veCAKE Sync card खोजें। Sync modal खोलने के लिए "View Details" पर क्लिक करें।
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="253"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.png" alt="" width="253"><figcaption></figcaption></figure>
 
-In the modal. You can view the number of veCAKE you have on BNB Chain. As well as the list of destination chains, you may bridge your veCAKE and Pancake Profile to your veCAKE and Pancake Profile status on each of the chains.
+Modal में, आप BNB Chain पर अपने veCAKE की संख्या देख सकते हैं। साथ ही destination chains की सूची भी है, जहाँ आप अपना veCAKE और Pancake Profile bridge कर सकते हैं और प्रत्येक chain पर अपनी veCAKE और Pancake Profile स्थिति देख सकते हैं।
 
-To sync, select the chain, and click “Sync”, then confirm in your wallet popup.
+Sync करने के लिए, chain चुनें और "Sync" पर क्लिक करें, फिर अपने वॉलेट popup में पुष्टि करें।
 
-It may take up to 20 mins to complete the bridging. You may check the bridging progress in the sync modal.&#x20;
+Bridging पूरी होने में 20 मिनट तक का समय लग सकता है। आप sync modal में bridging की प्रगति जाँच सकते हैं।&#x20;
 
-Note:
+नोट:
 
-* You can only bridge one chain at a time. To sync your veCAKE to multiple chains, repeat the above process.
-* BNB will be charged upon the bridging request to cover the gas cost on the destination chain. The amount of BNB depends on the destination chain. Chains like the Ethereum mainnet will be significantly more expensive to sync due to the high gas cost.
-* To avoid unnecessary gas spent. Sync your veCAKE only to the chain where you want to enjoy the benefits.
-* After adding more CAKE or extending your veCAKE staking position, repeat the above process to update the veCAKE balance on the destination chains to ensure your benefits are up-to-date.
+* आप एक बार में केवल एक chain bridge कर सकते हैं। अपने veCAKE को कई chains पर sync करने के लिए, उपरोक्त प्रक्रिया दोहराएं।
+* Bridging request पर destination chain की gas cost को cover करने के लिए BNB चार्ज किया जाएगा। BNB की राशि destination chain पर निर्भर करती है। Ethereum mainnet जैसी chains पर उच्च gas cost के कारण sync काफी अधिक महंगी होगी।
+* अनावश्यक gas खर्च से बचने के लिए, अपना veCAKE केवल उस chain पर sync करें जहाँ आप लाभ उठाना चाहते हैं।
+* अधिक CAKE जोड़ने या अपनी veCAKE staking position बढ़ाने के बाद, destination chains पर veCAKE balance को अपडेट करने के लिए उपरोक्त प्रक्रिया दोहराएं ताकि आपके लाभ अद्यतित रहें।
 
-## FAQ <a href="#id-9d6ee706-cd48-4d71-a5f8-c3de3d7d3aad" id="id-9d6ee706-cd48-4d71-a5f8-c3de3d7d3aad"></a>
+## अक्सर पूछे जाने वाले सवाल (FAQ) <a href="#id-9d6ee706-cd48-4d71-a5f8-c3de3d7d3aad" id="id-9d6ee706-cd48-4d71-a5f8-c3de3d7d3aad"></a>
 
-**Q: How often do I need to sync my veCAKE and Pancake Profile?**
+**प्रश्न: मुझे अपना veCAKE और Pancake Profile कितनी बार sync करने की आवश्यकता है?**
 
-A: For veCAKE, you only need to sync whenever you add more CAKE, extend the lock duration or perform a relock. Your veCAKE balance on destination chains will linearly decrease along with the balance on the BNB Chain.
+उत्तर: veCAKE के लिए, आपको तभी sync करना होगा जब आप अधिक CAKE जोड़ें, lock duration बढ़ाएं या relock करें। Destination chains पर आपका veCAKE balance BNB Chain के balance के साथ-साथ रैखिक रूप से घटता रहेगा।
 
-For Pancake Profile and its NFT. You will need to perform two syncs to participate in the Private Sales. The first one should be performed when the IFO is published and becomes viewable on UI. Another one should be performed after the IFO sale ends to enable claiming.
+Pancake Profile और उसके NFT के लिए, Private Sales में भाग लेने के लिए आपको दो बार sync करना होगा। पहली बार तब जब IFO प्रकाशित हो और UI पर दिखने लगे। दूसरी बार IFO sale समाप्त होने के बाद claiming सक्षम करने के लिए।
 
-**Q: How long does the bridging take?**
+**प्रश्न: Bridging में कितना समय लगता है?**
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="" width="253"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%282%29%20%281%29%20%281%29.png" alt="" width="253"><figcaption></figcaption></figure>
 
-Depending on the destination chains. It usually takes around 2-5 mins to bridge and fully sync. For some slower chains, it could take up to 30 mins. To track your bridging request, check the sync modal for the LayerZero explorer link. Or head to [https://layerzeroscan.com/](https://layerzeroscan.com/) and search via the BNB Chain tx id.
+Destination chain पर निर्भर करता है। Bridge होने और पूरी तरह sync होने में आमतौर पर 2-5 मिनट लगते हैं। कुछ धीमी chains के लिए, 30 मिनट तक का समय लग सकता है। अपनी bridging request track करने के लिए, sync modal में LayerZero explorer link देखें। या [https://layerzeroscan.com/](https://layerzeroscan.com/) पर जाएं और BNB Chain tx id से खोजें।
 
-**Q: Why the bridging tx on BNB Chain is failing?**
+**प्रश्न: BNB Chain पर bridging tx क्यों fail हो रही है?**
 
-A:
+उत्तर:
 
-* It could be because the gas estimation for the destination chain is out of date. Please refresh the page and retry.
-* Please also ensure there are sufficient amounts of BNB in the wallet to settle the gas fee required on the destination chain.
+* ऐसा हो सकता है क्योंकि destination chain का gas estimation पुराना हो गया है। कृपया पेज refresh करें और पुनः प्रयास करें।
+* यह भी सुनिश्चित करें कि destination chain पर आवश्यक gas fee के लिए वॉलेट में पर्याप्त BNB हो।
 
-**Q: Why my veCAKE or Pancake Profile is not bridged?**
+**प्रश्न: मेरा veCAKE या Pancake Profile bridge क्यों नहीं हुआ?**
 
-A:
+उत्तर:
 
-* veCAKE position with less than 1 day in the remaining lock time will not be bridged. Please first extend the lock and retry the sync.
-* The sync could take up to 30 minutes to complete. Please head to https://layerzeroscan.com/ and search via the BNB Chain tx ID to confirm that the bridging status is “Delivered.”
-* If the bridging status is “Failed” or “Blocked”. Please contact one of our ambassadors via the public channel for more details.
+* जिस veCAKE position में 1 दिन से कम remaining lock time हो, उसे bridge नहीं किया जाएगा। कृपया पहले lock बढ़ाएं और sync पुनः प्रयास करें।
+* Sync पूरी होने में 30 मिनट तक का समय लग सकता है। कृपया https://layerzeroscan.com/ पर जाएं और BNB Chain tx ID से खोजकर पुष्टि करें कि bridging status "Delivered" है।
+* यदि bridging status "Failed" या "Blocked" है, तो अधिक जानकारी के लिए public channel पर हमारे किसी ambassador से संपर्क करें।

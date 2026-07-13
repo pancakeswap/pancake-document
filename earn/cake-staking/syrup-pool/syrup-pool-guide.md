@@ -1,79 +1,79 @@
 ---
-description: 'Syrup Pools: the simplest way to earn on PancakeSwap'
+description: 'सिरप पूल: PancakeSwap पर कमाई का सबसे सरल तरीका'
 ---
 
-# Syrup Pools
+# सिरप पूल
 
-![](../../../.gitbook/assets/how-to-syrup-pool-staking-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-syrup-pool-staking-header.png)
 
-Staking in [Syrup Pools](https://docs.pancakeswap.finance/products/syrup-pool) lets you earn CAKE or other tokens while you sleep!
+[सिरप पूल](https://docs.pancakeswap.finance/products/syrup-pool) में स्टेकिंग करने से आप सोते समय भी CAKE या अन्य टोकन अर्जित कर सकते हैं!
 
-It's simpler than farming with PancakeSwap's Yield Farms because unlike the Farms, you only need to stake **one token** to start earning: usually CAKE.
+यह PancakeSwap की यील्ड फार्मिंग की तुलना में अधिक सरल है, क्योंकि फार्म के विपरीत, आपको कमाई शुरू करने के लिए केवल **एक टोकन** स्टेक करना होता है: आमतौर पर CAKE।
 
-## **Getting started with Syrup Pool staking**
+## **सिरप पूल स्टेकिंग शुरू करें**
 
-1\. Go to the Pools page [here](https://pancakeswap.finance/pools).
+1\. [यहाँ](https://pancakeswap.finance/pools) Pools पेज पर जाएं।
 
-![](../../../.gitbook/assets/1-how-to-stake-in-syrup-pool.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-how-to-stake-in-syrup-pool.png)
 
-2\. Connect to your BNB Smart Chain-compatible wallet by clicking the **Connect** button (top right-hand side).
+2\. ऊपरी दाईं ओर **Connect** बटन पर क्लिक करके अपने BNB Smart Chain-संगत वॉलेट से कनेक्ट करें।
 
-![](../../../.gitbook/assets/2-how-to-stake-in-syrup-pool.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/2-how-to-stake-in-syrup-pool.png)
 
-3\. Choose your wallet and connect.
+3\. अपना वॉलेट चुनें और कनेक्ट करें।
 
-![](<../../../.gitbook/assets/3-how-to-stake-in-syrup-pool (2).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/3-how-to-stake-in-syrup-pool%20%282%29.png)
 
-4\. Choose which Syrup Pool you want to stake in.
+4\. वह सिरप पूल चुनें जिसमें आप स्टेक करना चाहते हैं।
 
-![](../../../.gitbook/assets/4-how-to-stake-in-syrup-pool.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/4-how-to-stake-in-syrup-pool.png)
 
-**IFO CAKE** automatically compounds your rewards: any CAKE you earn will be harvested and re-invested in the same pool for you. You can also earn IFO Credit during the calculation period.
+**IFO CAKE** आपके पुरस्कारों को स्वचालित रूप से कंपाउंड करता है: आपके द्वारा अर्जित कोई भी CAKE हार्वेस्ट होकर उसी पूल में पुनः निवेश हो जाएगा। आप गणना अवधि के दौरान IFO क्रेडिट भी अर्जित कर सकते हैं।
 
-**Auto CAKE** automatically compounds your rewards: any CAKE you earn will be harvested and re-invested in the same pool for you.
+**Auto CAKE** आपके पुरस्कारों को स्वचालित रूप से कंपाउंड करता है: आपके द्वारा अर्जित कोई भी CAKE हार्वेस्ट होकर उसी पूल में पुनः निवेश हो जाएगा।
 
-**Manual CAKE** doesn’t automatically compound like Auto CAKE. You’ll need to harvest and compound your earnings manually.
+**Manual CAKE** Auto CAKE की तरह स्वचालित रूप से कंपाउंड नहीं होता। आपको अपनी कमाई मैन्युअल रूप से हार्वेस्ट और कंपाउंड करनी होगी।
 
-Other Syrup Pools let you stake your CAKE to earn dozens of other cool tokens. Make sure you check them out.
+अन्य सिरप पूल आपको दर्जनों अन्य शानदार टोकन अर्जित करने के लिए CAKE स्टेक करने देते हैं। उन्हें ज़रूर देखें।
 
 ***
 
-5\. Once you choose a pool, click the **Enable** button. Your wallet will ask you to confirm the action.
+5\. एक बार जब आप पूल चुन लें, तो **Enable** बटन पर क्लिक करें। आपका वॉलेट आपसे कार्रवाई की पुष्टि करने को कहेगा।
 
-6\. The Enable button should now be replaced with **Stake**. Click the button to bring up the staking menu.
+6\. Enable बटन अब **Stake** से बदल जाना चाहिए। स्टेकिंग मेनू खोलने के लिए बटन पर क्लिक करें।
 
-![](<../../../.gitbook/assets/image (263).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28263%29.png)
 
-7\. Type in an amount or slide the rabbit to choose how much CAKE you want to stake.
+7\. वह राशि दर्ज करें या खरगोश स्लाइड करें कि आप कितना CAKE स्टेक करना चाहते हैं।
 
-![](<../../../.gitbook/assets/image (301).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28301%29.png)
 
-8\. Click **Confirm**. Your wallet will ask you to confirm the action.
+8\. **Confirm** पर क्लिक करें। आपका वॉलेट आपसे कार्रवाई की पुष्टि करने को कहेगा।
 
-![](<../../../.gitbook/assets/image (178).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28178%29.png)
 
-9\. The Confirm button will change to "Confirming", then once the transaction is successful, you’ll see your staked amount change and the button will change again.
+9\. Confirm बटन "Confirming" में बदल जाएगा, फिर एक बार लेनदेन सफल होने के बाद आपकी स्टेक की गई राशि बदल जाएगी और बटन फिर से बदल जाएगा।
 
-10\. You should now be able to see details on your Syrup Pool. Auto CAKE will show a countdown until the unstaking fee ends. The other pools will show a **Collect** button to claim your staking rewards into your wallet.
+10\. अब आप अपने सिरप पूल का विवरण देख सकते हैं। Auto CAKE अनस्टेकिंग शुल्क समाप्त होने तक काउंटडाउन दिखाएगा। अन्य पूल आपके स्टेकिंग पुरस्कार वॉलेट में क्लेम करने के लिए **Collect** बटन दिखाएंगे।
 
-![](<../../../.gitbook/assets/image (152).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28152%29.png)
 
-### **Adding and removing CAKE from a pool**
+### **पूल में CAKE जोड़ना और हटाना**
 
-You can easily add more CAKE to a Syrup Pool, or move some CAKE to a more profitable pool. Here’s how you can move your staked CAKE.
+आप आसानी से सिरप पूल में अधिक CAKE जोड़ सकते हैं, या कुछ CAKE को अधिक लाभदायक पूल में स्थानांतरित कर सकते हैं। यहाँ बताया गया है कि आप अपना स्टेक किया हुआ CAKE कैसे स्थानांतरित कर सकते हैं।
 
-1\. Click the **-** to take some CAKE out of a pool, or the **+** to add more to the pool.
+1\. पूल से कुछ CAKE निकालने के लिए **-** पर क्लिक करें, या पूल में अधिक जोड़ने के लिए **+** पर क्लिक करें।
 
-![](<../../../.gitbook/assets/image (29).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2829%29.png)
 
-Please note that unstaking from the Auto CAKE pool has a fee of 0.1% if you unstake within 72 hours.
+कृपया ध्यान दें कि 72 घंटों के भीतर अनस्टेक करने पर Auto CAKE पूल से 0.1% शुल्क लगता है।
 
-2\. A window will open. If you clicked the **+**, choose the amount you would like to add to the pool. If you clicked the **-**, choose the amount to take out of the pool.
+2\. एक विंडो खुलेगी। यदि आपने **+** पर क्लिक किया था, तो पूल में जोड़ने के लिए राशि चुनें। यदि आपने **-** पर क्लिक किया था, तो पूल से निकालने की राशि चुनें।
 
-![](<../../../.gitbook/assets/image (127).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28127%29.png)
 
-3\. Click **Confirm**.
+3\. **Confirm** पर क्लिक करें।
 
-4\. After a little wait, you'll be able to see your new amount of staked tokens.
+4\. थोड़े इंतज़ार के बाद, आप अपने नए स्टेक किए गए टोकन की मात्रा देख सकेंगे।
 
-![](<../../../.gitbook/assets/image (303).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28303%29.png)

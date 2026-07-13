@@ -1,73 +1,73 @@
 ---
-description: How to "unstick" any pending transactions that are stuck in your MetaMask
+description: MetaMask में pending के रूप में अटके ट्रांजैक्शन को कैसे ठीक करें
 ---
 
-# Fixing Stuck Pending Transactions on MetaMask
+# MetaMask पर अटके Pending ट्रांजैक्शन ठीक करना
 
-![](../../../.gitbook/assets/how-to-fix-a-stuck-transaction-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-fix-a-stuck-transaction-header.png)
 
-If your transaction is stuck on pending in Metamask, and the “Cancel” button isn’t helping, you might need to use this method to clear your backlog.
+यदि आपका ट्रांजैक्शन Metamask में pending पर अटका हुआ है और "Cancel" बटन काम नहीं कर रहा, तो आपको अपनी बैकलॉग साफ़ करने के लिए इस विधि का उपयोग करना पड़ सकता है।
 
-This method works by essentially overwriting the stuck transaction with another, higher-priority transaction.
+यह विधि मूलतः अटके हुए ट्रांजैक्शन को एक और उच्च-प्राथमिकता ट्रांजैक्शन से अधिलेखित करके काम करती है।
 
-### **1. Enable Customized Transaction Nonce**
+### **1. कस्टमाइज़ ट्रांजैक्शन Nonce सक्षम करें**
 
-1\. Open your MetaMask plugin.
+1\. अपना MetaMask plugin खोलें।
 
-![](../../../.gitbook/assets/1-1-MetaMask_plugin.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-1-MetaMask_plugin.png)
 
-2\. Click on the colorful circle icon on the top-right and click **Settings** from the dropdown menu.
+2\. ऊपर-दाईं ओर रंगीन वृत्त आइकन पर क्लिक करें और ड्रॉपडाउन मेनू से **Settings** पर क्लिक करें।
 
-![](<../../../.gitbook/assets/1-2-MetaMask_settings (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-2-MetaMask_settings%20%281%29.png)
 
-3\. In the Settings menu, select **Advanced**.
+3\. Settings मेनू में, **Advanced** चुनें।
 
-![](../../../.gitbook/assets/1-3-MetaMask_advanced.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-3-MetaMask_advanced.png)
 
-4\. Scroll down until you see **Advanced gas controls**. Toggle this to ON.
+4\. नीचे स्क्रॉल करें जब तक **Advanced gas controls** दिखे। इसे ON करें।
 
-![](../../../.gitbook/assets/1-4-MetaMask_gas_control_on.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-4-MetaMask_gas_control_on.png)
 
-5\. Still in Advanced settings, keep scrolling until you see **Customize transaction nonce**. Toggle this to ON.
+5\. Advanced settings में ही रहते हुए, नीचे स्क्रॉल करें जब तक **Customize transaction nonce** दिखे। इसे ON करें।
 
-![](../../../.gitbook/assets/1-4-MetaMask_gas_control_on.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-4-MetaMask_gas_control_on.png)
 
-### **2. Find Your Stuck Transaction**
+### **2. अपना अटका हुआ ट्रांजैक्शन खोजें**
 
-We’re now going to find the transaction that’s stuck, and make a note of the “nonce”. That’s a kind of identifier, which we’ll re-use later.
+अब हम वह ट्रांजैक्शन खोजेंगे जो अटका हुआ है और "nonce" नोट करेंगे। यह एक प्रकार का पहचानकर्ता है, जिसे हम बाद में पुनः उपयोग करेंगे।
 
 ![](https://lh4.googleusercontent.com/xKBEnt5a62c5Wzg_MCLIbVUWuL4fws1ohBAX9LAkGS71vslHk7QuMF24jAfkAdmsLunPVfT9c3FxCmGar5z7jNZnd4WMgzQsoxxbYw1Lp59Az5kG72COn0JblFXktHbmgMnF1LeY)
 
-6\. Go back to the top page of MetaMask. In the “Assets” tab, find the token type of your stuck transaction (in this case, CAKE).
+6\. MetaMask के मुख्य पृष्ठ पर वापस जाएँ। "Assets" टैब में, अपने अटके हुए ट्रांजैक्शन का टोकन प्रकार खोजें (इस मामले में, CAKE)।
 
 ![](https://lh5.googleusercontent.com/9qVjhK1kEKDL8l4TTdOFo4o547PDIIeQpCCY18gPyaUFJrpFbyYhMfBQ1CRzjjrllgrcqVbwkhxKCZBNlIad8J1yCpMVhsBKjIAcwfsQHQb7jnl2RD2ufQU-zNEn2Hn2g4LGvYDU)
 
-6\. In the token’s menu, find your **Pending** transaction in the Queue area. Click on your transaction for more details.
+6\. टोकन के मेनू में, Queue क्षेत्र में अपना **Pending** ट्रांजैक्शन खोजें। अधिक जानकारी के लिए अपने ट्रांजैक्शन पर क्लिक करें।
 
 ![](https://lh4.googleusercontent.com/HMd5iKjIvm-f7Xi7xtecTsq56x1i15GjUkwCm5Z_83xMfOXDd2jabcCDyUwELf51IHseEeCk2WnvWfHwTSUlFnLAJrmjkkOfm_fA5fimgdABnYfdjmBxxst8TOaUJUhc2iO_CN-k)
 
-7\. Look for the **Nonce** entry, and take note of this number.
+7\. **Nonce** प्रविष्टि देखें और इस नंबर को नोट करें।
 
-### **3. Overwrite the Stuck Transaction**
+### **3. अटके हुए ट्रांजैक्शन को अधिलेखित करें**
 
-Now we’re going to make a new transaction to replace the stuck one. We’ll customize the Nonce number, so that it’s the same as the one that you just wrote down.
+अब हम अटके हुए ट्रांजैक्शन को बदलने के लिए एक नया ट्रांजैक्शन बनाएंगे। हम Nonce नंबर को कस्टमाइज़ करेंगे ताकि वह वही हो जो आपने अभी नोट किया।
 
-![](<../../../.gitbook/assets/image (176).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28176%29.png)
 
-8\. Create a new transaction to replace your stuck transaction. This time around, increase the **Transaction Fee**. Here we’ve increased it from 9 to 20. This will make it more likely for your transaction to be added to a block.
+8\. अपने अटके हुए ट्रांजैक्शन को बदलने के लिए एक नया ट्रांजैक्शन बनाएँ। इस बार **Transaction Fee** बढ़ाएँ। यहाँ हमने इसे 9 से 20 कर दिया है। इससे आपका ट्रांजैक्शन किसी block में जुड़ने की अधिक संभावना होगी।
 
-![](<../../../.gitbook/assets/image (34).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2834%29.png)
 
-9\. On the confirmation page, make sure your Gas Price is now at your new, higher amount.
+9\. पुष्टि पृष्ठ पर, सुनिश्चित करें कि आपका Gas Price अब नई, अधिक राशि पर है।
 
-10\. Find the **CUSTOM NONCE** entry and change the nonce to the number you wrote down in step 7. Now click Confirm.
+10\. **CUSTOM NONCE** प्रविष्टि ढूँढें और nonce को वह नंबर बदलें जो आपने चरण 7 में नोट किया था। अब Confirm पर क्लिक करें।
 
 ![](https://lh6.googleusercontent.com/PYhYm2ro0SVzerBo5qguFIPOYl0DjLSfl0JT8UdfN3T4i-0hjBq-CQvr-UA0bSyG-ZndrWmLGptfZUcnGBlvUk118GGZn7ciDNaC4hmfovH9v_M5XMIYmkAmB-Fr-6TTpYnnDX1p)
 
-11\. Your new transaction should now be accepted into a block. To check, open MetaMask and click the **Activity** tab.
+11\. आपका नया ट्रांजैक्शन अब किसी block में स्वीकार होना चाहिए। जाँचने के लिए, MetaMask खोलें और **Activity** टैब पर क्लिक करें।
 
 ![](https://lh6.googleusercontent.com/Iw3e0YP4ORhPgw8-MNxvzlDlfgG5nD226P4ixiziPC_9j3_LfU3o1-_LA2yDmegbRw5x9Sgk3RACFJJkyJDrFJA1j2J93H21uGhhWabkdDQUHsU_oVdkZVQTTWaQPzXHAWClpsb4)
 
-12\. Your completed transaction should show at the top of your Activity list. If it still says “Pending” in orange you’ll need to wait a little longer, or try the process again with an even higher transaction fee (gas price).
+12\. आपका पूर्ण ट्रांजैक्शन आपकी Activity सूची के शीर्ष पर दिखना चाहिए। यदि अभी भी नारंगी रंग में "Pending" लिख रहा है तो थोड़ा और प्रतीक्षा करें, या और अधिक ट्रांजैक्शन शुल्क (gas price) के साथ प्रक्रिया पुनः आज़माएँ।
 
-Since no wallet can create two transactions of the same nonce, if the replacement transaction you make is successful, your stuck transaction will be canceled.<br>
+चूँकि कोई भी वॉलेट एक ही nonce के दो ट्रांजैक्शन नहीं बना सकता, यदि आपका प्रतिस्थापन ट्रांजैक्शन सफल होता है, तो आपका अटका हुआ ट्रांजैक्शन स्वतः रद्द हो जाएगा।<br>

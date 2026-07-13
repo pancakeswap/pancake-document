@@ -1,50 +1,50 @@
 # Staked Cake Redemption
 
 {% hint style="info" %}
-Staked Cake Redemption site: [https://pancakeswap.finance/cake-staking/redeem](https://pancakeswap.finance/cake-staking/redeem)
+Staked Cake Redemption साइट: [https://pancakeswap.finance/cake-staking/redeem](https://pancakeswap.finance/cake-staking/redeem)
 {% endhint %}
 
-## How does veCAKE claiming work?
+## veCAKE claiming कैसे काम करती है?
 
-#### 1. Connect Your Wallet
+#### 1. अपना वॉलेट Connect करें
 
-Before you do anything, connect your wallet to the claiming page.
+कुछ भी करने से पहले, claiming पेज पर अपना वॉलेट connect करें।
 
-> ⚠️ Note: Rewards and balances will only display after your wallet is connected. If the displayed balance is "-", there are no CAKE / CAKE rewards available to claim.
+> ⚠️ नोट: वॉलेट connect होने के बाद ही Rewards और balances प्रदर्शित होंगे। यदि प्रदर्शित balance "-" है, तो claim करने के लिए कोई CAKE / CAKE rewards उपलब्ध नहीं हैं।
 
-<figure><img src="../../.gitbook/assets/no balance (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/no%20balance%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
-#### 2. View Your Balances & Rewards
+#### 2. अपने Balances और Rewards देखें
 
-Once connected, you’ll see the following information:
+Connect होने के बाद, आपको निम्नलिखित जानकारी दिखेगी:
 
-1. **veCAKE Balance**: Your current amount of veCAKE.
-2. **Locked CAKE**: The amount of CAKE you originally staked in the veCAKE Pool.
-3. **Original Unlock Date**: Original Date veCAKE will unlock
+1. **veCAKE Balance**: आपका वर्तमान veCAKE amount।
+2. **Locked CAKE**: वह CAKE राशि जो आपने मूल रूप से veCAKE Pool में stake किया था।
+3. **Original Unlock Date**: वह मूल तारीख जब veCAKE unlock होगा।
 
-\*\* With the passing of the [Tokenomics 3.0 Proposal](https://blog.pancakeswap.finance/articles/implementation-of-cake-tokenomics-3-0-what-you-need-to-know), **all locked CAKE is now scheduled to unlock on April 23, 2025, at 9:00 UTC**.
+\*\* [Tokenomics 3.0 Proposal](https://blog.pancakeswap.finance/articles/implementation-of-cake-tokenomics-3-0-what-you-need-to-know) पारित होने के साथ, **सभी locked CAKE अब 23 अप्रैल 2025, 9:00 UTC पर unlock होने के लिए निर्धारित है**।
 
-4. **My Total Rewards**: The total CAKE you’re eligible to redeem and claim, made up of:
+4. **My Total Rewards**: वह कुल CAKE जिसे आप redeem और claim करने के पात्र हैं, जो इनसे बना है:
 
 * **Cake Pool Rewards**: Legacy CAKE Pool rewards
-* **Revenue Sharing Rewards**: Earned from staking CAKE ([More info](https://docs.pancakeswap.finance/earn/cake-staking/revenue-sharing/earn-cake-weekly))
+* **Revenue Sharing Rewards**: CAKE stake करने से अर्जित ([अधिक जानकारी](https://docs.pancakeswap.finance/earn/cake-staking/revenue-sharing/earn-cake-weekly))
 
-<figure><img src="../../.gitbook/assets/Connected view balance.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Connected%20view%20balance.png" alt=""><figcaption></figcaption></figure>
 
-#### 3. Redeem & Claim
+#### 3. Redeem और Claim करें
 
-Click **‘Redeem & Claim**’ to start. Once the transaction is successful, your CAKE will appear in your wallet.
+शुरू करने के लिए **'Redeem & Claim'** पर क्लिक करें। Transaction सफल होने पर, आपका CAKE आपके वॉलेट में दिखेगा।
 
-> 📝 You’ll need to sign and approve the transaction(s) in your wallet to complete the claim.
+> 📝 Claim पूरी करने के लिए आपको अपने वॉलेट में transaction(s) sign और approve करने होंगे।
 
-<figure><img src="../../.gitbook/assets/Txn sent.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Txn%20sent.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/claim all.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/claim%20all.png" alt=""><figcaption></figcaption></figure>
 
-#### 4. Double-Check for Multiple Claims
+#### 4. Multiple Claims के लिए दोबारा जाँचें
 
-In some cases, your rewards may be split across multiple claim sessions if the reward is large.
+कुछ मामलों में, यदि reward बड़ी है तो आपके rewards कई claim sessions में विभाजित हो सकती हैं।
 
-> ✅ To ensure you've claimed everything, check that the "My Total Rewards" balance is "-" or 0 after completing the process.
+> ✅ यह सुनिश्चित करने के लिए कि आपने सब कुछ claim किया है, जाँचें कि प्रक्रिया पूरी होने के बाद "My Total Rewards" balance "-" या 0 है।
 
-<figure><img src="../../.gitbook/assets/no balance (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/no%20balance%20%281%29.png" alt=""><figcaption></figcaption></figure>

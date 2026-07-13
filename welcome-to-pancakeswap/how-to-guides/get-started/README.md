@@ -1,31 +1,31 @@
-# Get Started (BSC)
+# शुरुआत करें (BSC)
 
-![](../../../.gitbook/assets/get-started-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/get-started-header.png)
 
-Using anything new can be a bit of a challenge. Don't worry though, we've created a range of guides to help you get comfortable with PancakeSwap!
+किसी भी नई चीज़ का उपयोग करना थोड़ा चुनौतीपूर्ण हो सकता है। लेकिन चिंता न करें — हमने आपके लिए कई गाइड्स तैयार की हैं ताकि आप PancakeSwap के साथ सहज महसूस कर सकें!
 
-## Setting up PancakeSwap
+## PancakeSwap सेट अप करें
 
-Follow these guides to get everything set up to use PancakeSwap, or feel free to jump to the guide you need if you've been doing okay but lost your way.
+PancakeSwap का उपयोग शुरू करने के लिए इन गाइड्स का पालन करें, या यदि आप बीच में कहीं अटक गए हैं तो सीधे उस गाइड पर जाएं जिसकी आपको ज़रूरत है।
 
-[Create a Wallet](https://docs.pancakeswap.finance/get-started/wallet-guide)\
-[Get BEP20 Tokens](https://docs.pancakeswap.finance/get-started/bep20-guide)\
-[Connect Your Wallet to PancakeSwap](https://docs.pancakeswap.finance/get-started/connection-guide)
+[वॉलेट बनाएं](https://docs.pancakeswap.finance/get-started/wallet-guide)\
+[BEP20 टोकन प्राप्त करें](https://docs.pancakeswap.finance/get-started/bep20-guide)\
+[अपना वॉलेट PancakeSwap से कनेक्ट करें](https://docs.pancakeswap.finance/get-started/connection-guide)
 
-## Guides for using PancakeSwap features
+## PancakeSwap की सुविधाओं के उपयोग के लिए गाइड्स
 
-Once you have a wallet set up and connected to PancakeSwap, feel free to check our other how to guides below.
+एक बार जब आपका वॉलेट सेट अप हो जाए और PancakeSwap से कनेक्ट हो जाए, तो नीचे दी गई हमारी अन्य गाइड्स देखें।
 
-[How to Trade](https://docs.pancakeswap.finance/products/pancakeswap-exchange/trade-guide)\
-[How to Add/Remove Liquidity](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide)\
-[How to Use Farms](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms)\
-[How to Stake in Syrup Pools](https://docs.pancakeswap.finance/products/syrup-pool/syrup-pool-guide)\
-[How to Play the Lottery](https://docs.pancakeswap.finance/products/lottery/lottery-guide)\
-[How to Use Prediction](https://docs.pancakeswap.finance/products/prediction/prediction-guide)\
-[How to Participate in an IFO](https://docs.pancakeswap.finance/products/ifo-initial-farm-offering/ifo-guide)\
-[How to Set Up an NFT Profile](https://docs.pancakeswap.finance/products/nft-profile-system/profile-guide)\
-[How to Vote](https://docs.pancakeswap.finance/products/voting/voting-guide)
+[व्यापार कैसे करें](https://docs.pancakeswap.finance/products/pancakeswap-exchange/trade-guide)\
+[तरलता कैसे जोड़ें/हटाएं](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide)\
+[Farm का उपयोग कैसे करें](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms)\
+[Syrup Pool में स्टेकिंग कैसे करें](https://docs.pancakeswap.finance/products/syrup-pool/syrup-pool-guide)\
+[लॉटरी कैसे खेलें](https://docs.pancakeswap.finance/products/lottery/lottery-guide)\
+[Prediction का उपयोग कैसे करें](https://docs.pancakeswap.finance/products/prediction/prediction-guide)\
+[IFO में कैसे भाग लें](https://docs.pancakeswap.finance/products/ifo-initial-farm-offering/ifo-guide)\
+[NFT प्रोफ़ाइल कैसे सेट करें](https://docs.pancakeswap.finance/products/nft-profile-system/profile-guide)\
+[मतदान कैसे करें](https://docs.pancakeswap.finance/products/voting/voting-guide)
 
-Check the menu for more documentation on the range of PancakeSwap features and services, including more advanced guides.
+PancakeSwap की सुविधाओं और सेवाओं के बारे में अधिक दस्तावेज़ीकरण के लिए मेनू देखें, जिसमें अधिक उन्नत गाइड्स भी शामिल हैं।
 
-If you can't find what you need, feel free to visit the [PancakeSwap Telegram](../../contact-us/social-accounts.md) and ask for help there!
+यदि आपको जो चाहिए वह नहीं मिल रहा है, तो बेझिझक [PancakeSwap Telegram](../../contact-us/social-accounts.md) पर जाएं और वहाँ सहायता माँगें!

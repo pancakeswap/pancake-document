@@ -1,55 +1,55 @@
 ---
-description: Bridge between EVMs like Ethereum and BNB Chain
+description: Ethereum और BNB Chain जैसे EVM के बीच Bridge करें
 ---
 
-# How to Bridge – Between EVMs
+# Bridge कैसे करें – EVM के बीच
 
 {% hint style="success" %}
-**EVMs:** EVM chains are blockchains that use the Ethereum Virtual Machine to run Ethereum-compatible smart contracts and dApps. Examples include Ethereum, BNB Smart Chain, etc.
+**EVM:** EVM चेन वे ब्लॉकचेन हैं जो Ethereum-संगत स्मार्ट कॉन्ट्रैक्ट और dApps चलाने के लिए Ethereum Virtual Machine का उपयोग करती हैं। उदाहरण में Ethereum, BNB Smart Chain आदि शामिल हैं।
 {% endhint %}
 
-1. Navigate to [https://pancakeswap.finance/bridge](https://pancakeswap.finance/bridge)
-2. Ensure your wallet is connected
+1. [https://pancakeswap.finance/bridge](https://pancakeswap.finance/bridge) पर जाएं
+2. सुनिश्चित करें कि आपका वॉलेट कनेक्ट है
 
-<figure><img src="../../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29%20%283%29.png" alt=""><figcaption></figcaption></figure>
 
-3. Select your **source** and **destination** chains via the network selectors
+3. नेटवर्क सेलेक्टर के माध्यम से अपनी **स्रोत** और **गंतव्य** चेन चुनें
 
-<figure><img src="../../.gitbook/assets/image (2) (3).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%282%29%20%283%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-4. Input the amount you wish to send and select the token from the dropdown
+4. वह राशि दर्ज करें जो आप भेजना चाहते हैं और ड्रॉपडाउन से टोकन चुनें
 
-* **Tip:** Always double-check the token contract address before sending!
+* **सुझाव:** भेजने से पहले हमेशा टोकन कॉन्ट्रैक्ट पता दोबारा जांचें!
 
-<figure><img src="../../.gitbook/assets/image (3) (3).png" alt="" width="374"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%283%29%20%283%29.png" alt="" width="374"><figcaption></figcaption></figure>
 
-5. Select the **received token** – In some cases where token symbols are identical (e.g., USDC / USDT), variants will appear for you to choose from
+5. **प्राप्त होने वाला टोकन** चुनें – कुछ मामलों में जहां टोकन सिंबल एक जैसे हों (जैसे USDC / USDT), आपके लिए विकल्प दिखाए जाएंगे
 
-* **Tip:** Hover over the token or click on the link to verify the token name and address
+* **सुझाव:** टोकन का नाम और पता सत्यापित करने के लिए उस पर होवर करें या लिंक पर क्लिक करें
 
-<figure><img src="../../.gitbook/assets/image (4) (2).png" alt="" width="375"><figcaption><p>USDC</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%284%29%20%282%29.png" alt="" width="375"><figcaption><p>USDC</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (5) (2).png" alt="" width="375"><figcaption><p>USDC (Wormhole)</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%285%29%20%282%29.png" alt="" width="375"><figcaption><p>USDC (Wormhole)</p></figcaption></figure>
 
-6. Review the “You Receive” section to confirm all details are correct
+6. "You Receive" सेक्शन की समीक्षा करें और पुष्टि करें कि सभी विवरण सही हैं
 
-* PancakeSwap selects from multiple bridge providers based on your source and destination chains.
-* Providers differ in fees, processing times, and possible restrictions—these will be clearly shown.
+* PancakeSwap आपकी स्रोत और गंतव्य चेन के आधार पर एकाधिक Bridge प्रदाताओं में से चुनता है।
+* प्रदाता शुल्क, प्रोसेसिंग समय और संभावित प्रतिबंधों में भिन्न होते हैं — ये स्पष्ट रूप से दिखाए जाएंगे।
 
-<figure><img src="../../.gitbook/assets/image (385).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28385%29.png" alt=""><figcaption></figcaption></figure>
 
-* Tags help you compare routes:
-  * **Best Return** = highest received amount
-  * **Fastest** = quickest transfer time
+* टैग आपको रूट की तुलना करने में मदद करते हैं:
+  * **Best Return** = सर्वाधिक प्राप्त राशि
+  * **Fastest** = सबसे तेज़ ट्रांसफर समय
 
-Use these tags to balance speed and value according to your needs.
+अपनी आवश्यकता के अनुसार गति और मूल्य में संतुलन बनाने के लिए इन टैग का उपयोग करें।
 
 {% hint style="warning" %}
-On your **first transaction** with a bridge provider, you’ll be prompted to approve the token transfer (this is a one-time action)
+किसी Bridge प्रदाता के साथ आपके **पहले ट्रांजैक्शन** पर, आपसे टोकन ट्रांसफर अनुमोदन के लिए कहा जाएगा (यह एक बार की कार्रवाई है)
 
-* For your **second transaction**, simply click “Send” and your bridge transfer will begin
+* आपके **दूसरे ट्रांजैक्शन** पर, बस "Send" पर क्लिक करें और आपका Bridge ट्रांसफर शुरू हो जाएगा
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%286%29%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
-7. Sit back and relax! Most bridge transfers complete in just a few minutes. Once completed, your tokens will appear in your Ethereum address.
+7. आराम से प्रतीक्षा करें! अधिकांश Bridge ट्रांसफर केवल कुछ मिनटों में पूरे हो जाते हैं। पूरा होने के बाद, आपके टोकन आपके Ethereum पते पर दिखाई देंगे।

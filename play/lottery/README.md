@@ -1,61 +1,61 @@
 # 🎟️ Lottery
 
-Playing the PancakeSwap Lottery gives you a chance to win huge CAKE prizes! It's easy, fair, and you can enter as often as you like as long as you have the CAKE to buy a ticket.
+PancakeSwap की Lottery खेलने से आप बड़े CAKE पुरस्कार जीत सकते हैं! यह आसान, निष्पक्ष और आनंददायक है — जब तक आपके पास टिकट खरीदने के लिए CAKE है, आप जितनी बार चाहें भाग ले सकते हैं।
 
-[View smart contract](https://bscscan.com/address/0x5aF6D33DE2ccEC94efb1bDF8f92Bd58085432d2c)
+[स्मार्ट कॉन्ट्रैक्ट देखें](https://bscscan.com/address/0x5aF6D33DE2ccEC94efb1bDF8f92Bd58085432d2c)
 
-## **Specifics:**
+## **विशेष जानकारी:**
 
-* Lottery ticket cost for 1 ticket: \~$5 USD in CAKE.
-* Individual user Lottery entry limit: No overall limit, but only 100 tickets can be bought at a time.
-* Paying for one ticket will give users a random 6-digit combination with each digit being between 0-9, for e.g. “1-9-3-2-0-4”. Match numbers from the left to win prizes—the more numbers that match, the bigger the prize pool you'll share in.
-* Lottery uses Chainlink's implementation of VRF for true, secure randomness.
+* 1 Lottery टिकट की कीमत: CAKE में लगभग $5 USD।
+* व्यक्तिगत उपयोगकर्ता की Lottery प्रवेश सीमा: कोई समग्र सीमा नहीं, लेकिन एक बार में केवल 100 टिकट खरीदे जा सकते हैं।
+* एक टिकट के भुगतान पर उपयोगकर्ता को 0-9 के बीच के अंकों से बनी एक यादृच्छिक 6-अंकीय संख्या मिलती है, जैसे "1-9-3-2-0-4"। बाईं ओर से संख्याएँ मिलाने पर पुरस्कार मिलते हैं — जितनी अधिक संख्याएँ मिलें, उतना बड़ा पुरस्कार पूल आप साझा करेंगे।
+* Lottery सच्ची और सुरक्षित यादृच्छिकता के लिए Chainlink के VRF कार्यान्वयन का उपयोग करती है।
 
-## Ticket costs and bulk purchase discount
+## टिकट की कीमत और बल्क खरीद छूट
 
-Lottery ticket prices are set at the start of the new lottery round, and target $5 USD (may vary slightly with sudden price fluctuations).
+Lottery टिकट की कीमतें नए Lottery राउंड की शुरुआत में निर्धारित की जाती हैं, और $5 USD को लक्ष्य रखती हैं (अचानक मूल्य उतार-चढ़ाव के साथ थोड़ा भिन्न हो सकती है)।
 
-Buying multiple Lottery tickets at once gives a bulk discount on your purchase. You can buy as many as 100 tickets in one purchase, with the discount starting small at 2 tickets, and scaling up to 10% at 100 tickets.
+एक साथ कई Lottery टिकट खरीदने पर आपकी खरीद पर बल्क छूट मिलती है। आप एक खरीद में अधिकतम 100 टिकट खरीद सकते हैं, जिसमें 2 टिकट से शुरू होकर 100 टिकट पर 10% तक की छूट मिलती है।
 
-![](<../../.gitbook/assets/Screenshot 2024-08-22 at 9.59.52 PM.png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-22%20at%209.59.52%20PM.png)
 
-## **How to win**
+## **जीतने का तरीका**
 
-Match numbers, **from the left side of your ticket**, to the winning numbers drawn at the end of a Lottery round.
+Lottery राउंड के अंत में निकाले गए विजयी नंबरों के साथ अपने **टिकट के बाईं ओर से** नंबर मिलाएं।
 
-* Matching even just the first number will win you a small prize.&#x20;
-* Match more numbers to win a share of a larger prize pool.
+* पहला नंबर मिलने पर भी एक छोटा पुरस्कार मिलेगा।&#x20;
+* अधिक नंबर मिलाने पर बड़े पुरस्कार पूल में हिस्सा मिलेगा।
 
-## **‌**Prize eligibility
+## **‌**पुरस्कार पात्रता
 
-‌There are a total of six lottery balls, from 0 to 9, on each ticket. To win, your numbers need to match the drawn numbers in the same order as the lottery balls, starting from the left of the ticket. For example:
+‌प्रत्येक टिकट पर 0 से 9 तक के कुल छह Lottery बॉल होते हैं। जीतने के लिए, आपके नंबर टिकट के बाईं ओर से शुरू होकर Lottery बॉल के समान क्रम में निकाले गए नंबरों से मिलने चाहिए। उदाहरण के लिए:
 
-Drawn numbers
+निकाले गए नंबर
 
-![Drawn Numbers](<../../.gitbook/assets/image (285).png>)
+![Drawn Numbers](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28285%29.png)
 
-Your ticket's numbers
+आपके टिकट के नंबर
 
-![Your Ticket A](<../../.gitbook/assets/image (95) (1).png>)
+![Your Ticket A](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2895%29%20%281%29.png)
 
-In the example above, Ticket A, five of the ticket's numbers match the same drawn numbers, in the exact same order: all except the fourth one.
+ऊपर के उदाहरण में, Ticket A में, टिकट के पाँच नंबर निकाले गए नंबरों से बिल्कुल उसी क्रम में मिलते हैं: चौथे को छोड़कर सभी।
 
-However, since the fourth digit does **not** match the drawn number, only the first three digits count as matching in order. This would win a "Match first 3" prize.
+हालांकि, चूँकि चौथा अंक निकाले गए नंबर से **नहीं** मिलता, इसलिए केवल पहले तीन अंक क्रम में मिलने के रूप में गिने जाते हैं। इससे "पहले 3 मिलाएं" का पुरस्कार मिलेगा।
 
-![Your Ticket B](<../../.gitbook/assets/image (205).png>)
+![Your Ticket B](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28205%29.png)
 
-Example Ticket B. Here's an unlucky one. Even though the last five digits match, the first digit doesn't match, so this ticket doesn't win anything at all.
+उदाहरण Ticket B। यह दुर्भाग्यशाली है। भले ही अंतिम पाँच अंक मिलते हों, पहला अंक नहीं मिलता, इसलिए इस टिकट को कोई पुरस्कार नहीं मिलता।
 
-You will only share in prizes from the highest prize bracket you are eligible for. A ticket matching the first three numbers will only be eligible for prizes from the match-three bracket, and not for the match-one or match-two brackets.
+आप केवल उस सबसे ऊँचे पुरस्कार ब्रैकेट के पुरस्कारों में हिस्सा लेंगे जिसके लिए आप पात्र हैं। पहले तीन नंबर मिलाने वाला टिकट केवल मिलान-तीन ब्रैकेट के पुरस्कारों के लिए पात्र होगा, न कि मिलान-एक या मिलान-दो ब्रैकेट के लिए।
 
-**Remember: The digits must match in order, starting from left to right.**
+**याद रखें: अंक बाईं से दाईं ओर क्रम में मिलने चाहिए।**
 
-## Prize sharing across prize brackets
+## पुरस्कार ब्रैकेट के बीच पुरस्कार साझाकरण
 
-‌After a round is drawn, and tickets with matching numbers are determined, the prizes are awarded. The amount won by each ticket will depend on how many other tickets won in the same prize bracket.
+‌राउंड निकाले जाने के बाद, और मिलान संख्या वाले टिकट निर्धारित होने के बाद, पुरस्कार प्रदान किए जाते हैं। प्रत्येक टिकट से जीती गई राशि इस बात पर निर्भर करेगी कि उसी पुरस्कार ब्रैकेट में कितने अन्य टिकटों ने जीत हासिल की।
 
-‌For example, if you have the only ticket that matched three numbers in order, and the predetermined share of the prize pool for your bracket was 2000 CAKE, you'll receive the full 2000 CAKE.
+‌उदाहरण के लिए, यदि आप अकेले एकमात्र टिकट हैं जिसने क्रम में तीन नंबर मिलाए, और आपके ब्रैकेट के लिए पुरस्कार पूल का पूर्वनिर्धारित हिस्सा 2000 CAKE था, तो आपको पूरे 2000 CAKE मिलेंगे।
 
-‌If, however, you and three other people match three numbers in order, the 2000 CAKE would be split between the four winning tickets, meaning you would receive 500 CAKE.
+‌लेकिन यदि आप और तीन अन्य लोगों ने क्रम में तीन नंबर मिलाए, तो 2000 CAKE को चार विजयी टिकटों के बीच बाँटा जाएगा, यानी आपको 500 CAKE मिलेंगे।
 
-See the [Lottery FAQ for a breakdown of prizes](lottery-faq.md#how-are-prizes-broken-down-between-brackets) across each bracket.
+[प्रत्येक ब्रैकेट में पुरस्कारों के विवरण के लिए Lottery FAQ देखें](lottery-faq.md#how-are-prizes-broken-down-between-brackets)

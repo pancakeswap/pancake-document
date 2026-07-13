@@ -1,39 +1,39 @@
-# Connect Your Wallet to PancakeSwap
+# अपना वॉलेट PancakeSwap से कनेक्ट करें
 
-![](../../../.gitbook/assets/how-to-connect-wallet-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-connect-wallet-header.png)
 
-## Connect your wallet
+## अपना वॉलेट कनेक्ट करें
 
-<figure><img src="../../../.gitbook/assets/wallet-connection-aptos.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/wallet-connection-aptos.png" alt=""><figcaption></figcaption></figure>
 
-1. Click "Connect Wallet" on the top-righthand corner.
-2. For most of the browser extension wallets, simple select their icon, and follow the instruction in the pop-up window.
-3. For Blocto, please use your Email address to register or sign in. To learn more, please check out [here](wallet-guide.md).
+1. ऊपर दाईं ओर "Connect Wallet" पर क्लिक करें।
+2. अधिकांश ब्राउज़र एक्सटेंशन वॉलेट के लिए, बस उनका आइकन चुनें और पॉप-अप विंडो में दिए गए निर्देशों का पालन करें।
+3. Blocto के लिए, कृपया अपने Email पते का उपयोग करके पंजीकरण करें या साइन इन करें। अधिक जानने के लिए, कृपया [यहाँ](wallet-guide.md) देखें।
 
 {% hint style="danger" %}
-**Remember - NEVER, under any situation, should you ever give someone your private key or recovery phrases.**
+**याद रखें - किसी भी परिस्थिति में, कभी भी किसी को अपनी प्राइवेट की या रिकवरी फ्रेज़ न दें।**
 {% endhint %}
 
-## **Connect to Aptos Mainnet**
+## **Aptos Mainnet से कनेक्ट करें**
 
-Aptos has multiple networks, including multiple devnets and testnets. But to use PancakeSwap on Aptos Chain, please be sure your wallet is connected to **Aptos Mainnet**.&#x20;
+Aptos में कई नेटवर्क हैं, जिनमें कई devnets और testnets शामिल हैं। लेकिन Aptos चेन पर PancakeSwap का उपयोग करने के लिए, सुनिश्चित करें कि आपका वॉलेट **Aptos Mainnet** से कनेक्ट है।&#x20;
 
-Here's how:
+यहाँ तरीका है:
 
 {% tabs %}
 {% tab title="Petra" %}
-![](../../../.gitbook/assets/aptos-network-switching-petra.gif)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/aptos-network-switching-petra.gif)
 {% endtab %}
 
 {% tab title="Martian" %}
-![](../../../.gitbook/assets/aptos-network-switching-martian.gif)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/aptos-network-switching-martian.gif)
 {% endtab %}
 
 {% tab title="Pontem" %}
-![](../../../.gitbook/assets/aptos-network-switching-pontem.gif)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/aptos-network-switching-pontem.gif)
 {% endtab %}
 
 {% tab title="Fewcha" %}
-![](../../../.gitbook/assets/aptos-network-switching-fewcha.gif)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/aptos-network-switching-fewcha.gif)
 {% endtab %}
 {% endtabs %}

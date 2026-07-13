@@ -1,37 +1,37 @@
-# FAQs
+# अक्सर पूछे जाने वाले सवाल (FAQ)
 
-#### Which network is currently supported?
+#### वर्तमान में कौन सा नेटवर्क समर्थित है?
 
-PancakeSwap X is live on Arbitrum and Ethereum, supporting crypto tokens, and on BNB Chain, it supports real-world assets (RWAs) like tokenised stocks, bonds, and ETFs.
+PancakeSwap X, Arbitrum और Ethereum पर लाइव है, जो crypto tokens का समर्थन करता है, और BNB Chain पर यह tokenised stocks, bonds, और ETFs जैसी real-world assets (RWAs) का समर्थन करता है।
 
-#### Is PancakeSwap X on by default?
+#### क्या PancakeSwap X डिफ़ॉल्ट रूप से चालू है?
 
-Yes.
+हाँ।
 
-#### Why is my swap not going through PancakeSwap X?
+#### मेरा swap PancakeSwap X के माध्यम से क्यों नहीं जा रहा?
 
-PancakeSwap X is a part of the “Swap” product. The Swap interface automatically compare and choose the most optimal liquidity source with the best price for you. Therefore PancakeSwap X will be utilised only when:
+PancakeSwap X, "Swap" उत्पाद का एक हिस्सा है। Swap इंटरफ़ेस स्वतः तुलना करता है और आपके लिए सबसे अच्छी कीमत के साथ सबसे इष्टतम तरलता स्रोत चुनता है। इसलिए PancakeSwap X का उपयोग तभी किया जाएगा जब:
 
-* The current network supports PancakeSwap X
-* The current trading pair supports PancakeSwap X
-* The pricing is better on PancakeSwap X than other liquidity sources
+* वर्तमान नेटवर्क PancakeSwap X का समर्थन करता हो
+* वर्तमान ट्रेडिंग जोड़ी PancakeSwap X का समर्थन करती हो
+* PancakeSwap X पर मूल्य अन्य तरलता स्रोतों से बेहतर हो
 
-If your order is not going through PancakeSwap X, you are not missing anything, as you are already enjoying the best price.
+यदि आपका ऑर्डर PancakeSwap X के माध्यम से नहीं जा रहा, तो आप कुछ नहीं चूक रहे, क्योंकि आप पहले से ही सबसे अच्छी कीमत का आनंद ले रहे हैं।
 
-#### Why is my swap failing with PancakeSwap X?
+#### PancakeSwap X के साथ मेरा swap विफल क्यों हो रहा है?
 
-When trading via PancakeSwap X, orders are actively filled by liquidity providers. Therefore, in some rare cases, often due to rapid market movements, liquidity providers may fail to fill the orders in time, resulting in failed orders.
+PancakeSwap X के माध्यम से ट्रेड करते समय, ऑर्डर तरलता प्रदाताओं द्वारा सक्रिय रूप से भरे जाते हैं। इसलिए, कुछ दुर्लभ मामलों में, अक्सर तेज़ बाजार उतार-चढ़ाव के कारण, तरलता प्रदाता समय पर ऑर्डर भरने में विफल हो सकते हैं, जिसके परिणामस्वरूप ऑर्डर विफल हो जाते हैं।
 
-In this case, simply retry by re-submitting the order. If the error persists, please disable the PancakeSwap X from the settings.
+इस स्थिति में, ऑर्डर पुनः सबमिट करके पुनः प्रयास करें। यदि त्रुटि बनी रहती है, तो कृपया settings से PancakeSwap X को अक्षम करें।
 
-#### Is there any fee when using PancakeSwap X?
+#### क्या PancakeSwap X का उपयोग करने पर कोई शुल्क है?
 
-For now, PancakeSwap X does not charge any fee. Fee rate is subject to change in the future.
+फिलहाल, PancakeSwap X कोई शुल्क नहीं लेता। भविष्य में शुल्क दर बदल सकती है।
 
-#### How does PancakeSwap X work without gas fees?
+#### PancakeSwap X बिना गैस शुल्क के कैसे काम करता है?
 
-Orders are sent to a network of fillers off-chain who bear the gas cost while executing the order on-chain.
+ऑर्डर off-chain fillers के एक नेटवर्क को भेजे जाते हैं जो on-chain ऑर्डर निष्पादित करते समय गैस लागत वहन करते हैं।
 
-#### What happens if a transaction fails on PancakeSwap X?
+#### यदि PancakeSwap X पर कोई लेनदेन विफल हो जाए तो क्या होता है?
 
-Nothing to worry. Your funds are safe in your wallet.&#x20;
+चिंता न करें। आपका funds आपके वॉलेट में सुरक्षित है।&#x20;

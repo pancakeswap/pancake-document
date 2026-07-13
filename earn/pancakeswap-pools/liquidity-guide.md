@@ -1,161 +1,161 @@
-# How to Add/Remove Liquidity (EVM)
+# तरलता कैसे जोड़ें/हटाएं (EVM)
 
-![](../../.gitbook/assets/how-to-add-remove-liquidity-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-add-remove-liquidity-header.png)
 
-"Liquidity" is central to how PancakeSwap's Exchange works. You can add liquidity for any token pair by staking both through the Liquidity page.
+"तरलता" PancakeSwap के Exchange के कार्य करने का केंद्रीय आधार है। आप Liquidity पृष्ठ के माध्यम से दोनों टोकन Staking करके किसी भी टोकन जोड़े के लिए तरलता जोड़ सकते हैं।
 
-In return for adding liquidity, you'll receive trading fees for that pair, and receive either an NFT or LP Tokens you can stake in [Farms](https://pancakeswap.finance/farms) to earn CAKE rewards!
+तरलता जोड़ने के बदले में, आपको उस जोड़े के लिए ट्रेडिंग शुल्क मिलेगा, और आपको एक NFT या LP टोकन प्राप्त होंगे जिन्हें आप CAKE पुरस्कार अर्जित करने के लिए [Farms](https://pancakeswap.finance/farms) में Stake कर सकते हैं!
 
 ## Exchange V3
 
-To provide liquidity, you’ll need to commit an amount of any token pair you like. Your lowest value (in USD) of the two tokens will be the limit to the liquidity you can provide.
+तरलता प्रदान करने के लिए, आपको अपनी पसंद के किसी भी टोकन जोड़े की एक निश्चित राशि जमा करनी होगी। दोनों टोकन में से जिसका USD मूल्य कम होगा, वह आपकी प्रदान की जा सकने वाली तरलता की सीमा होगी।
 
-You can easily trade for any tokens you need. Visit our [How to Trade on PancakeSwap](https://docs.pancakeswap.finance/get-started/trade-guide) guide if you need to.
+आप किसी भी आवश्यक टोकन के लिए आसानी से व्यापार कर सकते हैं। यदि आपको मदद चाहिए तो हमारी [PancakeSwap पर व्यापार कैसे करें](https://docs.pancakeswap.finance/get-started/trade-guide) गाइड देखें।
 
-In this example, we will add V3 liquidity using ETH and USDC.
+इस उदाहरण में, हम ETH और USDC का उपयोग करके V3 तरलता जोड़ेंगे।
 
 
 
-1 - Visit the [Liquidity](https://pancakeswap.finance/liquidity) page.
+1 - [Liquidity](https://pancakeswap.finance/liquidity) पृष्ठ पर जाएं।
 
-<figure><img src="../../.gitbook/assets/image (243).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28243%29.png" alt=""><figcaption></figcaption></figure>
 
-2 - Click the “Add Liquidity” button.
+2 - "Add Liquidity" बटन पर क्लिक करें।
 
 
 
-3 - Using the top left Input, choose the two tokens in the trading pair you want to add liquidity. Here, we are going to use ETH and USDC as an example.
+3 - ऊपर बाईं ओर के इनपुट का उपयोग करके, वह टोकन जोड़ा चुनें जिसमें आप तरलता जोड़ना चाहते हैं। यहां उदाहरण के रूप में हम ETH और USDC का उपयोग करेंगे।
 
-![](<../../.gitbook/assets/image (126).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28126%29.png)
 
 
 
-4 - The interface will automatically choose the most popular trading fee tier and configure the price range for you.
+4 - इंटरफ़ेस स्वचालित रूप से सबसे लोकप्रिय ट्रेडिंग शुल्क स्तर चुनेगा और आपके लिए मूल्य सीमा कॉन्फ़िगर करेगा।
 
 
 
-5 - You can confirm the version as well as the fee tier of the liquidity pool you are providing by looking for the “V3 LP - x% fee tier” displays.
+5 - "V3 LP - x% fee tier" प्रदर्शन देखकर आप जिस Liquidity Pool में तरलता प्रदान कर रहे हैं उसका संस्करण और शुल्क स्तर पुष्टि कर सकते हैं।
 
-![](<../../.gitbook/assets/image (43).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2843%29.png)
 
-* If you want to customize the fee tier, click “More”, and choose the desired fee tier.
-* Please note that it is always advisable to provide liquidity to the most popular fee tier.
+* यदि आप शुल्क स्तर कस्टमाइज़ करना चाहते हैं, तो "More" पर क्लिक करें और वांछित शुल्क स्तर चुनें।
+* कृपया ध्यान दें कि हमेशा सबसे लोकप्रिय शुल्क स्तर में तरलता प्रदान करना सलाहनीय है।
 
 
 
-6 - You can review and confirm the price range on the right-hand side displays.
+6 - आप दाईं ओर के प्रदर्शनों पर मूल्य सीमा की समीक्षा और पुष्टि कर सकते हैं।
 
-![](<../../.gitbook/assets/image (22).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2822%29.png)
 
-* The chart shows the level of liquidity across all the price ranges. You can zoom in and out using the magnifier buttons. You can pan and navigate the chart by dragging the bottom x-axis.
-* If you want to customize the price range. Simply drag the handles, click the + and - buttons on the two prices, or click the two price numbers and enter them manually.
-* Although it is not advisable, you can provide your liquidity to the whole price range by clicking the “Full Range” button.
+* चार्ट सभी मूल्य सीमाओं में तरलता का स्तर दिखाता है। आप मैग्निफायर बटन का उपयोग करके ज़ूम इन और आउट कर सकते हैं। आप नीचे x-अक्ष को खींचकर चार्ट को पैन और नेविगेट कर सकते हैं।
+* यदि आप मूल्य सीमा कस्टमाइज़ करना चाहते हैं। बस हैंडल खींचें, दो कीमतों पर + और - बटन क्लिक करें, या दो मूल्य संख्याओं पर क्लिक करके उन्हें मैन्युअल रूप से दर्ज करें।
+* हालांकि यह सलाहनीय नहीं है, आप "Full Range" बटन पर क्लिक करके पूरी मूल्य सीमा में तरलता प्रदान कर सकते हैं।
 
 
 
-7 - Enter an amount on one of the tokens under “Deposit Amount”. The other should be calculated and filled automatically. If one of the tokens does not have enough balance. You will see an error and the button is greyed out. Please enter a lower amount to proceed or use the “MAX” button to fill in the maximum available value.
+7 - "Deposit Amount" के अंतर्गत किसी एक टोकन की राशि दर्ज करें। दूसरा स्वचालित रूप से गणना होकर भर जाएगा। यदि किसी टोकन का बैलेंस पर्याप्त नहीं है। आपको एक त्रुटि दिखेगी और बटन ग्रे हो जाएगा। कृपया आगे बढ़ने के लिए कम राशि दर्ज करें या अधिकतम उपलब्ध मूल्य भरने के लिए "MAX" बटन का उपयोग करें।
 
-![](<../../.gitbook/assets/image (47).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2847%29.png)
 
 
 
-8 - Click the “Enable USDC” button. If you are adding liquidity against tokens other than ETH, you might need to click enable twice for each token in your pair. Your wallet will ask you to confirm the action.
+8 - "Enable USDC" बटन पर क्लिक करें। यदि आप ETH के अलावा अन्य टोकन के विरुद्ध तरलता जोड़ रहे हैं, तो आपको अपने जोड़े के प्रत्येक टोकन के लिए दो बार enable क्लिक करना पड़ सकता है। आपका वॉलेट आपसे कार्रवाई की पुष्टि के लिए कहेगा।
 
-![](<../../.gitbook/assets/image (98).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2898%29.png)
 
 
 
-9 - The “Add” button will then light up. Click to proceed.
+9 - तब "Add" बटन सक्रिय हो जाएगा। आगे बढ़ने के लिए क्लिक करें।
 
-![](<../../.gitbook/assets/image (26).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2826%29.png)
 
 
 
-10 - A new pop-up window will appear to preview your liquidity position. If everything looks good, click “Add” again to proceed.
+10 - आपकी तरलता पोजीशन का पूर्वावलोकन करने के लिए एक नई पॉप-अप विंडो दिखाई देगी। यदि सब कुछ ठीक लगे, तो आगे बढ़ने के लिए फिर से "Add" पर क्लिक करें।
 
-![](<../../.gitbook/assets/image (38).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2838%29.png)
 
 
 
-11 - Your wallet will ask you for confirmation. Confirm your transaction from your wallet.
+11 - आपका वॉलेट पुष्टि के लिए कहेगा। अपने वॉलेट से अपना ट्रांजैक्शन पुष्टि करें।
 
 
 
-12 - Soon after, you will see your new liquidity position on the “My Liquidity” page. And you will be able to check its detail by clicking on the position.
+12 - थोड़ी देर बाद, आपको "My Liquidity" पृष्ठ पर अपनी नई तरलता पोजीशन दिखाई देगी। और आप पोजीशन पर क्लिक करके उसका विवरण देख पाएंगे।
 
-<figure><img src="../../.gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28211%29.png" alt=""><figcaption></figcaption></figure>
 
-### **Remove liquidity**
+### **तरलता हटाएं**
 
-To remove liquidity.
+तरलता हटाने के लिए।
 
-1 - Visit the [Liquidity](https://pancakeswap.finance/liquidity) pag&#x65;**.**
+1 - [Liquidity](https://pancakeswap.finance/liquidity) पृष्ठ पर जाएं**।**
 
-<figure><img src="../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28191%29.png" alt=""><figcaption></figcaption></figure>
 
 
 
-2 - Click on the position you want to remove liquidity from under “Your Liquidity". You may use the filter to quickly check all the V3 liquidity positions.
+2 - "Your Liquidity" के अंतर्गत वह पोजीशन क्लिक करें जिससे आप तरलता हटाना चाहते हैं। आप सभी V3 तरलता पोजीशन जल्दी देखने के लिए फ़िल्टर का उपयोग कर सकते हैं।
 
-![](<../../.gitbook/assets/image (251).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28251%29.png)
 
 
 
-3 - Click “Remove”. A new window will appear.
+3 - "Remove" पर क्लिक करें। एक नई विंडो दिखाई देगी।
 
-![](<../../.gitbook/assets/image (286).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28286%29.png)
 
 
 
-4 - Use the buttons or slider to choose how much liquidity you want to remove. Choose “MAX” to remove all of your liquidity from this pair.
+4 - बटन या स्लाइडर का उपयोग करके चुनें कि आप कितनी तरलता हटाना चाहते हैं। इस जोड़े से अपनी सारी तरलता हटाने के लिए "MAX" चुनें।
 
-5 - Click “Remove” to proceed.
+5 - आगे बढ़ने के लिए "Remove" पर क्लिक करें।
 
-6 - A window will appear showing how many tokens you will receive. Click “Remove” again. Your wallet will ask you to confirm the action.
+6 - एक विंडो दिखाएगी कि आपको कितने टोकन प्राप्त होंगे। फिर से "Remove" पर क्लिक करें। आपका वॉलेट कार्रवाई की पुष्टि के लिए कहेगा।
 
-7 - After the transaction is confirmed. You will receive two of the tokens from your pair. And if you haven't removed all of your liquidity, your remaining liquidity value will be updated on the liquidity page.
+7 - ट्रांजैक्शन की पुष्टि होने के बाद। आपको अपने जोड़े के दोनों टोकन प्राप्त होंगे। और यदि आपने सारी तरलता नहीं हटाई, तो आपकी शेष तरलता का मूल्य Liquidity पृष्ठ पर अपडेट हो जाएगा।
 
 
 
 ## Exchange V2
 
-### Add Liquidity
+### तरलता जोड़ें
 
-In this example, we will add V2 liquidity using BNB and CAKE.
+इस उदाहरण में, हम BNB और CAKE का उपयोग करके V2 तरलता जोड़ेंगे।
 
 {% hint style="warning" %}
-Please note that the example is only for illustrative purposes, CAKE/BNB trading pair has been migrated to V3. Please always provide V3 liquidity unless one of the underlying tokens does not support Exchange V3. Or the majority of the liquidity for the token pair has not been migrated.
+कृपया ध्यान दें कि यह उदाहरण केवल उदाहरणात्मक उद्देश्यों के लिए है, CAKE/BNB ट्रेडिंग जोड़े को V3 में माइग्रेट किया जा चुका है। कृपया हमेशा V3 तरलता प्रदान करें, जब तक कि अंतर्निहित टोकन में से कोई Exchange V3 को सपोर्ट न करता हो। या उस टोकन जोड़े की अधिकांश तरलता माइग्रेट न हुई हो।
 {% endhint %}
 
-1. Visit the [Liquidity](https://pancakeswap.finance/liquidity) page.
-2. Click the “Add Liquidity” button.
-3. Using the top left Input, choose the two tokens in the trading pair you want to add liquidity. Here, we are going to use BNB and CAKE as an example.
-4. The interface will default to adding V3 liquidity with a few exceptions:
-   1. If the trading pair has an active PancakeSwap V2 Farm, it will default to adding V2 liquidity.
-   2. If the trading pair has an existing V2 liquidity pool, it will present a “Add V2 Liquidity” link. Simply click to switch to adding V2 liquidity.
-5. Confirm you are now adding V2 liquidity by looking for the “V2 LP - 0.25 fee tier” displays.
-6. Enter an amount on one of the tokens under “Deposit Amount”. The other should be calculated and filled automatically. If one of the tokens does not have enough balance. You will see an error and the button is greyed out. Please enter a lower amount to proceed or use the “MAX” button to fill in the maximum available value.
-7. Click the “Enable CAKE” button. If you are adding liquidity against tokens other than BNB, you might need to click enable twice for each token in your pair. Your wallet will ask you to confirm the action.
-8. The “Add” button will then light up. Click to proceed.
-9. Your wallet will ask you for confirmation. Confirm your transaction from your wallet.
-10. Soon after, you will see your LP Token balance on the liquidity page, among other liquidity positions from V3 and StableSwap.
+1. [Liquidity](https://pancakeswap.finance/liquidity) पृष्ठ पर जाएं।
+2. "Add Liquidity" बटन पर क्लिक करें।
+3. ऊपर बाईं ओर के इनपुट का उपयोग करके, वह टोकन जोड़ा चुनें जिसमें आप तरलता जोड़ना चाहते हैं। यहां उदाहरण के रूप में हम BNB और CAKE का उपयोग करेंगे।
+4. इंटरफ़ेस डिफ़ॉल्ट रूप से V3 तरलता जोड़ेगा, कुछ अपवादों के साथ:
+   1. यदि ट्रेडिंग जोड़े का एक सक्रिय PancakeSwap V2 Farm है, तो यह V2 तरलता जोड़ने पर डिफ़ॉल्ट होगा।
+   2. यदि ट्रेडिंग जोड़े का एक मौजूदा V2 Liquidity Pool है, तो यह एक "Add V2 Liquidity" लिंक प्रस्तुत करेगा। V2 तरलता जोड़ने पर स्विच करने के लिए बस क्लिक करें।
+5. "V2 LP - 0.25 fee tier" प्रदर्शन देखकर पुष्टि करें कि आप अब V2 तरलता जोड़ रहे हैं।
+6. "Deposit Amount" के अंतर्गत किसी एक टोकन की राशि दर्ज करें। दूसरा स्वचालित रूप से गणना होकर भर जाएगा। यदि किसी टोकन का बैलेंस पर्याप्त नहीं है। आपको एक त्रुटि दिखेगी और बटन ग्रे हो जाएगा। कृपया आगे बढ़ने के लिए कम राशि दर्ज करें या अधिकतम उपलब्ध मूल्य भरने के लिए "MAX" बटन का उपयोग करें।
+7. "Enable CAKE" बटन पर क्लिक करें। यदि आप BNB के अलावा अन्य टोकन के विरुद्ध तरलता जोड़ रहे हैं, तो आपको अपने जोड़े के प्रत्येक टोकन के लिए दो बार enable क्लिक करना पड़ सकता है। आपका वॉलेट आपसे कार्रवाई की पुष्टि के लिए कहेगा।
+8. तब "Add" बटन सक्रिय हो जाएगा। आगे बढ़ने के लिए क्लिक करें।
+9. आपका वॉलेट पुष्टि के लिए कहेगा। अपने वॉलेट से अपना ट्रांजैक्शन पुष्टि करें।
+10. थोड़ी देर बाद, आपको Liquidity पृष्ठ पर अपना LP टोकन बैलेंस दिखाई देगा, V3 और StableSwap की अन्य तरलता पोजीशन के साथ।
 
-### **Remove liquidity**
+### **तरलता हटाएं**
 
-To remove liquidity.
+तरलता हटाने के लिए।
 
-1\. Visit the [Liquidity page](https://exchange.pancakeswap.finance/#/pool)**.**
+1\. [Liquidity पृष्ठ](https://exchange.pancakeswap.finance/#/pool) पर जाएं**।**
 
-2\. Click on the pair you want to remove liquidity from under “Your Liquidity". You may use the filter to quickly check all the V2 liquidity positions.
+2\. "Your Liquidity" के अंतर्गत वह जोड़ा क्लिक करें जिससे आप तरलता हटाना चाहते हैं। आप सभी V2 तरलता पोजीशन जल्दी देखने के लिए फ़िल्टर का उपयोग कर सकते हैं।
 
-3\. Click “Remove”. A new modal will appear.
+3\. "Remove" पर क्लिक करें। एक नया मोडल दिखाई देगा।
 
-4\. Use the buttons or slider to choose how much liquidity you want to remove. Choose “MAX” to remove all of your liquidity from this pair.
+4\. बटन या स्लाइडर का उपयोग करके चुनें कि आप कितनी तरलता हटाना चाहते हैं। इस जोड़े से अपनी सारी तरलता हटाने के लिए "MAX" चुनें।
 
-5\. Click “Enable”. Your wallet will ask you to sign the actio&#x6E;**.**
+5\. "Enable" पर क्लिक करें। आपका वॉलेट कार्रवाई पर हस्ताक्षर करने के लिए कहेगा**।**
 
-6\. The “Remove” button will light up. Click to proceed.
+6\. "Remove" बटन सक्रिय हो जाएगा। आगे बढ़ने के लिए क्लिक करें।
 
-7\. A window will appear showing how many tokens you will receive. Click “Confirm”. Your wallet will ask you to confirm the action.
+7\. एक विंडो दिखाएगी कि आपको कितने टोकन प्राप्त होंगे। "Confirm" पर क्लिक करें। आपका वॉलेट कार्रवाई की पुष्टि के लिए कहेगा।
 
-8\. After the transaction is confirmed. You will receive two of the tokens from your pair. And if you haven't removed all of your liquidity, your remaining liquidity value will be updated on the liquidity page.<br>
+8\. ट्रांजैक्शन की पुष्टि होने के बाद। आपको अपने जोड़े के दोनों टोकन प्राप्त होंगे। और यदि आपने सारी तरलता नहीं हटाई, तो आपकी शेष तरलता का मूल्य Liquidity पृष्ठ पर अपडेट हो जाएगा।<br>

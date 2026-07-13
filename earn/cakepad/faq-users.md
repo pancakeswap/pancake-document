@@ -1,71 +1,71 @@
-# FAQ (Users)
+# अक्सर पूछे जाने वाले सवाल (FAQ) (उपयोगकर्ता)
 
-### 1. What is a CAKE.PAD event?
+### 1. CAKE.PAD इवेंट क्या है?
 
-* A CAKE.PAD event lets users get early access to new project tokens right as they launch.
-* Users obtain new project tokens with **CAKE**.
-* Projects gain liquidity, visibility, and direct access to PancakeSwap’s community.
-* This can take place on BNB, Base, ARB, ETH, Linea, or opBNB
+* CAKE.PAD इवेंट उपयोगकर्ताओं को लॉन्च होते ही नए प्रोजेक्ट टोकन तक अर्ली एक्सेस देता है।
+* उपयोगकर्ता **CAKE** के साथ नए प्रोजेक्ट टोकन प्राप्त करते हैं।
+* प्रोजेक्ट को तरलता, दृश्यता और PancakeSwap की कम्युनिटी तक सीधी पहुँच मिलती है।
+* यह BNB, Base, ARB, ETH, Linea, या opBNB पर हो सकता है।
 
-### 2. Who is eligible to participate?
+### 2. भाग लेने के लिए कौन पात्र है?
 
-* Anyone holding **CAKE**.
-* No NFT profile required.
-* No CAKE staking needed.
-* Designed as a **fair launch** for all participants.
+* **CAKE** धारण करने वाला कोई भी व्यक्ति।
+* कोई NFT प्रोफाइल आवश्यक नहीं।
+* कोई CAKE स्टेकिंग आवश्यक नहीं।
+* सभी प्रतिभागियों के लिए **फेयर लॉन्च** के रूप में डिज़ाइन किया गया है।
 
-### 3. What are the benefits of participating in a CAKE.PAD event?
+### 3. CAKE.PAD इवेंट में भाग लेने के क्या फायदे हैं?
 
-* Access new tokens early using **CAKE**.
-* Potential to acquire assets at favorable entry prices before wider trading.
+* **CAKE** का उपयोग करके जल्दी नए टोकन तक पहुँचें।
+* व्यापक ट्रेडिंग से पहले अनुकूल प्रवेश मूल्य पर संपत्तियाँ अर्जित करने की संभावना।
 
-### 4. How long does a CAKE.PAD event last?
+### 4. CAKE.PAD इवेंट कितने समय तक चलता है?
 
-* Typically **24 hours** (may be adjusted if needed).
+* आमतौर पर **24 घंटे** (आवश्यकता पड़ने पर समायोजित किया जा सकता है)।
 
-### 5. What happens if the CAKE.PAD event is oversubscribed?
+### 5. यदि CAKE.PAD इवेंट ओवरसब्सक्राइब हो तो क्या होता है?
 
-* A [**Tiered Tax** ](how-cake.pad-taxes-work-in-overflow-sales-with-example.md)applies **only to excess committed funds**.
-* The project receives **100% of its target raise**.
-* Tax rates decrease as oversubscription increases (from 1% down to 0.05%).
+* [**टियर्ड टैक्स**](how-cake.pad-taxes-work-in-overflow-sales-with-example.md) **केवल अतिरिक्त कमिटेड फंड** पर लागू होता है।
+* प्रोजेक्ट को **अपनी टार्गेट रेज़ का 100%** प्राप्त होता है।
+* टैक्स दरें ओवरसब्सक्रिप्शन बढ़ने के साथ घटती हैं (1% से घटकर 0.05% तक)।
 
-### 6. What is the smallest amount of CAKE.PAD partner token allocation possible?
+### 6. CAKE.PAD पार्टनर टोकन का सबसे कम संभव आवंटन क्या है?
 
-* Minimum CAKE.PAD partner token allocation = [**1 wei**](https://www.investopedia.com/terms/w/wei.asp)**.**
-* Committing a very small amount of CAKE compared to total commitments may result in receiving **no tokens**. In such cases, all committed CAKE will be refunded.
+* न्यूनतम CAKE.PAD पार्टनर टोकन आवंटन = [**1 wei**](https://www.investopedia.com/terms/w/wei.asp)**।**
+* कुल कमिटमेंट की तुलना में बहुत कम CAKE कमिट करने पर **कोई टोकन नहीं** मिल सकता। ऐसी स्थिति में, सभी कमिटेड CAKE वापस कर दिया जाएगा।
 
-### 7. What is the participating asset?
+### 7. भागीदारी संपत्ति क्या है?
 
-* All CAKE.PAD events use **CAKE**.
+* सभी CAKE.PAD इवेंट **CAKE** का उपयोग करते हैं।
 
-### 8. What is the “Overflow” Sale Method?
+### 8. "ओवरफ्लो" सेल विधि क्या है?
 
-* Users can commit any amount of CAKE.
-* Token allocation is proportional to how much CAKE a user committed versus the total pool at the end of the event.
-* Any leftover CAKE is refunded when claiming tokens after the sale. See [here](how-cake.pad-taxes-work-in-overflow-sales-with-example.md) for a numerical example
-* If heavily oversubscribed, small commitments may receive little or no allocation.
+* उपयोगकर्ता कोई भी मात्रा में CAKE कमिट कर सकते हैं।
+* टोकन आवंटन इस पर आधारित है कि उपयोगकर्ता ने इवेंट के अंत में कुल पूल की तुलना में कितना CAKE कमिट किया।
+* टोकन क्लेम करते समय कोई भी बचा हुआ CAKE वापस कर दिया जाता है। संख्यात्मक उदाहरण के लिए [यहाँ](how-cake.pad-taxes-work-in-overflow-sales-with-example.md) देखें।
+* यदि बहुत अधिक ओवरसब्सक्राइब हो, तो छोटे कमिटमेंट को कम या कोई आवंटन नहीं मिल सकता।
 
-### 9. What happens if the CAKE.PAD event doesn't raise all targeted funds?
+### 9. यदि CAKE.PAD इवेंट सभी टार्गेट फंड नहीं जुटाता तो क्या होता है?
 
-* The sale proceeds normally. All contributed funds are used.
-* No participation fee is charged.
+* सेल सामान्य रूप से आगे बढ़ती है। सभी योगदान किए गए फंड का उपयोग होता है।
+* कोई भागीदारी शुल्क नहीं लिया जाता।
 
-**Participants:** Receive CAKE.PAD partner tokens.
+**प्रतिभागी:** CAKE.PAD पार्टनर टोकन प्राप्त करते हैं।
 
-CAKE.PAD **Partner Project:** Receives leftover tokens and CAKE from the sale.
+CAKE.PAD **पार्टनर प्रोजेक्ट:** बचे हुए टोकन और सेल से CAKE प्राप्त करता है।
 
-### 10. Do CAKE.PAD events support lockups with cliff schedules?
+### 10. क्या CAKE.PAD इवेंट क्लिफ शेड्यूल के साथ लॉकअप का समर्थन करते हैं?
 
-* Yes, the framework supports lockups and cliff schedules.
-* Current CAKE.PAD event launches are conducted **without any lockup**.
+* हाँ, फ्रेमवर्क लॉकअप और क्लिफ शेड्यूल का समर्थन करता है।
+* वर्तमान CAKE.PAD इवेंट लॉन्च **बिना किसी लॉकअप के** आयोजित किए जाते हैं।
 
-### 11. When will I receive my purchased tokens?
+### 11. मुझे अपने खरीदे हुए टोकन कब मिलेंगे?
 
-* Tokens are available **immediately after the** CAKE.PAD event **ends** (if no vesting).
-* Users must manually claim tokens via the PancakeSwap interface.
-* For CAKE.PAD events with vesting, the schedule is displayed on the CAKE.PAD event page.
-  * See [Vesting](cakepad-guide.md#ifo-with-token-vesting) for more info
+* टोकन CAKE.PAD इवेंट **समाप्त होने के तुरंत बाद** उपलब्ध होते हैं (यदि कोई वेस्टिंग नहीं है)।
+* उपयोगकर्ताओं को PancakeSwap इंटरफेस के माध्यम से मैन्युअल रूप से टोकन क्लेम करने होंगे।
+* वेस्टिंग वाले CAKE.PAD इवेंट के लिए, शेड्यूल CAKE.PAD इवेंट पेज पर प्रदर्शित होती है।
+  * अधिक जानकारी के लिए [वेस्टिंग](cakepad-guide.md#ifo-with-token-vesting) देखें।
 
-### 12. Where can I trade CAKE.PAD partner tokens?
+### 12. CAKE.PAD पार्टनर टोकन का व्यापार कहाँ कर सकते हैं?
 
-* CAKE.PAD partner tokens are seeded and listed on PancakeSwap as soon as the CAKE.PAD event ends.
+* CAKE.PAD पार्टनर टोकन CAKE.PAD इवेंट समाप्त होते ही PancakeSwap पर सीड और लिस्ट हो जाते हैं।

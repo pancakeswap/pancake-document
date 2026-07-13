@@ -1,38 +1,37 @@
 # 🔁 Swap Scenarios
 
-There are 4 scenarios for Crosschain transactions.
+Crosschain लेनदेन के लिए 4 परिदृश्य हैं।
 
-#### 1️⃣ Bridge Only
+#### 1️⃣ केवल Bridge
 
-* Example: **Bridge ETH on Base to ETH on Arbitrum**
-* Only supported tokens (USDC, USDT, WETH, etc) can be bridged directly. These tokens vary by source and destination chain.
+* उदाहरण: **Base पर ETH को Arbitrum पर ETH के लिए Bridge करें**
+* केवल समर्थित टोकन (USDC, USDT, WETH, आदि) को सीधे Bridge किया जा सकता है। ये टोकन स्रोत और गंतव्य चेन के अनुसार भिन्न होते हैं।
 
 #### 2️⃣ Swap → Bridge
 
-* Example: **Swap BNB on BNB Chain to USDC on Arbitrum**
-* Swap BNB to a supported bridge token (e.g. USDC) using PancakeSwap pools on BNB chain
-* Bridge USDC via Across to Arbitrum
+* उदाहरण: **BNB Chain पर BNB को Arbitrum पर USDC के लिए स्वैप करें**
+* BNB chain पर PancakeSwap pools का उपयोग करके BNB को एक समर्थित Bridge टोकन (जैसे USDC) में स्वैप करें
+* Across के माध्यम से USDC को Arbitrum पर Bridge करें
 
 #### 3️⃣ Bridge → Swap
 
-* Example: **Swap USDC on BNB Chain to ARB on Arbitrum**
-* Bridge USDC via Across
-* Swap USDC to ARB using PancakeSwap pools on Arbitrum
+* उदाहरण: **BNB Chain पर USDC को Arbitrum पर ARB के लिए स्वैप करें**
+* Across के माध्यम से USDC Bridge करें
+* Arbitrum पर PancakeSwap pools का उपयोग करके USDC को ARB में स्वैप करें
 
 #### 4️⃣ Swap → Bridge → Swap
 
-* Example: **Swap BNB on BNB Chain to ARB on Arbitrum**
-* Swap BNB to a bridge token (maximizing user output)
-* Bridge via Across
-* Swap bridged token to ARB on Arbitrum using PancakeSwap pools
+* उदाहरण: **BNB Chain पर BNB को Arbitrum पर ARB के लिए स्वैप करें**
+* एक Bridge टोकन में BNB स्वैप करें (उपयोगकर्ता का आउटपुट अधिकतम करते हुए)
+* Across के माध्यम से Bridge करें
+* Arbitrum पर PancakeSwap pools का उपयोग करके Bridge किए गए टोकन को ARB में स्वैप करें
 
 ***
 
-### ⚠️ Fail Cases
+### ⚠️ विफलता के मामले
 
-| Scenario                              | Outcome                                                                                                                                                                                         |
+| परिदृश्य                              | परिणाम                                                                                                                                                                                         |
 | ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Swap/Tx Failure on Source Chain**   | User instantly receives the original token on source chain                                                                                                                                      |
-| **Bridge Tx Failure**                 | Across processes a refund within 90 mins to 2 hours, and user receives the bridged asset on source chain. While Relay processes the refund within a minute in such scenario between SOL <> EVM. |
-| **Swap Failure on Destination Chain** | User receives the bridged asset on the destination chain                                                                                                                                        |
-
+| **स्रोत चेन पर Swap/Tx विफलता**   | उपयोगकर्ता को स्रोत चेन पर तुरंत मूल टोकन प्राप्त होता है                                                                                                                                    |
+| **Bridge Tx विफलता**                 | Across 90 मिनट से 2 घंटे के भीतर धनवापसी संसाधित करता है, और उपयोगकर्ता को स्रोत चेन पर Bridge की गई संपत्ति प्राप्त होती है। जबकि SOL <> EVM के बीच ऐसे परिदृश्य में Relay एक मिनट के भीतर धनवापसी संसाधित करता है। |
+| **गंतव्य चेन पर Swap विफलता** | उपयोगकर्ता को गंतव्य चेन पर Bridge की गई संपत्ति प्राप्त होती है                                                                                                                            |

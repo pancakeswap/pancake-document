@@ -1,70 +1,70 @@
-# Create a Wallet
+# वॉलेट बनाएं
 
-![](../../../.gitbook/assets/how-to-make-a-crypto-wallet-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-make-a-crypto-wallet-header.png)
 
-To get started on your PancakeSwap journey on Aptos, the first thing you'll need is to set up a wallet that supports Aptos Chain. Wallets are available both on desktop computers and on smartphone devices. You'll need to choose the wallet that fits your needs best.
+Aptos पर अपनी PancakeSwap यात्रा शुरू करने के लिए, सबसे पहले आपको एक ऐसा वॉलेट सेट अप करना होगा जो Aptos चेन को सपोर्ट करता हो। वॉलेट डेस्कटॉप कंप्यूटर और स्मार्टफोन डिवाइस दोनों पर उपलब्ध हैं। आपको वह वॉलेट चुनना होगा जो आपकी जरूरतों के लिए सबसे उपयुक्त हो।
 
 {% hint style="danger" %}
-**When you're setting up a wallet, be sure to:**
+**वॉलेट सेट अप करते समय, निम्नलिखित बातों का ध्यान रखें:**
 
-* ✅ **Download and install only the latest version from an official source.**
-* ✅ **Follow the setup guide carefully.**
-* ✅ **Safely back up your recovery phrases.**
-* ❌ **NEVER share your recovery phrases with anyone, under any circumstances.**
-* ❌ **NEVER input your recovery phrase to a website or app, other than your wallet app.**
+* ✅ **केवल आधिकारिक स्रोत से नवीनतम संस्करण डाउनलोड और इंस्टॉल करें।**
+* ✅ **सेटअप गाइड का सावधानीपूर्वक पालन करें।**
+* ✅ **अपने रिकवरी फ्रेज़ को सुरक्षित रूप से बैकअप करें।**
+* ❌ **किसी भी परिस्थिति में अपना रिकवरी फ्रेज़ किसी के साथ साझा न करें।**
+* ❌ **अपने वॉलेट ऐप के अलावा किसी भी वेबसाइट या ऐप में अपना रिकवरी फ्रेज़ दर्ज न करें।**
 {% endhint %}
 
-## Smartphone/Mobile or Desktop wallet?
+## स्मार्टफोन/मोबाइल या डेस्कटॉप वॉलेट?
 
 {% hint style="warning" %}
-At the time of writing, there are a limited number of mobile wallets with Aptos support. Chefs will include more wallets in the tutorial when they are available.
+लेखन के समय, Aptos सपोर्ट वाले मोबाइल वॉलेट की संख्या सीमित है। जब अधिक मोबाइल वॉलेट उपलब्ध होंगे, तब Chefs उन्हें ट्यूटोरियल में शामिल करेंगे।
 
-**We recommend using** [**desktop wallets**](wallet-guide.md#desktop-web-browser-wallets) **until more mobile wallets are ready.**
+**हम तब तक [डेस्कटॉप वॉलेट](wallet-guide.md#desktop-web-browser-wallets) का उपयोग करने की सलाह देते हैं जब तक अधिक मोबाइल वॉलेट तैयार न हो जाएं।**
 {% endhint %}
 
-Mobile device wallets and desktop-based wallets have different strengths and weaknesses. Consider which fits your needs better to help decide which type of wallet to use.
+मोबाइल डिवाइस वॉलेट और डेस्कटॉप-आधारित वॉलेट की अलग-अलग शक्तियां और कमजोरियां होती हैं। यह तय करने में सहायता के लिए कि कौन सा वॉलेट प्रकार उपयोग करना है, विचार करें कि आपकी जरूरतों के लिए कौन सा बेहतर है।
 
-|                                   | Mobile | Desktop |
+|                                   | मोबाइल | डेस्कटॉप |
 | --------------------------------- | ------ | ------- |
-| Use anywhere                      | ✅      | ➖       |
-| Easy to use                       | ✅      | ➖       |
-| More secure                       | ➖      | ✅       |
-| Accessibility friendly            | ➖      | ✅       |
-| Damage/loss/theft resistant       | ➖      | ✅       |
-| Power/connection outage resistant | ✅      | ➖       |
+| कहीं भी उपयोग करें               | ✅      | ➖       |
+| उपयोग में आसान                    | ✅      | ➖       |
+| अधिक सुरक्षित                    | ➖      | ✅       |
+| पहुंच के अनुकूल                  | ➖      | ✅       |
+| क्षति/नुकसान/चोरी से सुरक्षित    | ➖      | ✅       |
+| बिजली/कनेक्शन आउटेज से सुरक्षित | ✅      | ➖       |
 
-## **Smartphone/Mobile wallets**
+## **स्मार्टफोन/मोबाइल वॉलेट**
 
-Smartphone/Mobile wallets allow you to access your crypto almost anywhere. Wallets are available on both Android and iOS devices.
+स्मार्टफोन/मोबाइल वॉलेट आपको लगभग कहीं भी अपनी क्रिप्टो एक्सेस करने की सुविधा देते हैं। वॉलेट Android और iOS डिवाइस दोनों पर उपलब्ध हैं।
 
-### Which mobile wallet should I choose?
+### कौन सा मोबाइल वॉलेट चुनें?
 
-This comparison table gives an overview of the most popular mobile wallets used with PancakeSwap.
+यह तुलना तालिका PancakeSwap के साथ उपयोग किए जाने वाले सबसे लोकप्रिय मोबाइल वॉलेट का अवलोकन प्रदान करती है।
 
-<table><thead><tr><th width="283.4285714285714"></th><th width="148">SafePal</th><th>Trust Wallet</th><th>Blocto</th></tr></thead><tbody><tr><td>Aptos Chain support</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Built-in DApp browser</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Hardware wallet compatible</td><td><p>✅</p><p>(Only SafePal)</p></td><td>➖</td><td>➖</td></tr><tr><td>Open source (auditability)</td><td>➖</td><td>✅</td><td>➖</td></tr></tbody></table>
+<table><thead><tr><th width="283.4285714285714"></th><th width="148">SafePal</th><th>Trust Wallet</th><th>Blocto</th></tr></thead><tbody><tr><td>Aptos चेन सपोर्ट</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>बिल्ट-इन DApp ब्राउज़र</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>हार्डवेयर वॉलेट संगत</td><td><p>✅</p><p>(केवल SafePal)</p></td><td>➖</td><td>➖</td></tr><tr><td>ओपन सोर्स (ऑडिटेबिलिटी)</td><td>➖</td><td>✅</td><td>➖</td></tr></tbody></table>
 
-You can find more in-depth information about each wallet below, as well as download links and installation guides.
+नीचे आप प्रत्येक वॉलेट के बारे में अधिक विस्तृत जानकारी, साथ ही डाउनलोड लिंक और इंस्टॉलेशन गाइड पा सकते हैं।
 
 {% tabs %}
 {% tab title="SafePal" %}
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2FZuCcaLK4UtU3jCU0MDaz%2F7cccc2d2-c9db-4d38-8641-5a94cfa6083d_4x.png.webp?alt=media&#x26;token=4091057f-c068-482f-8cf5-e24f856b971d" alt=""><figcaption><p>SafePal is available as both a software and hardware wallet. The wallet is easy to install and create, and comes ready to support Aptos, BEP2 (BNB Beacon Chain)<strong>,</strong> BEP20 (BNB Smart Chain) right away.</p></figcaption></figure>
+<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2FZuCcaLK4UtU3jCU0MDaz%2F7cccc2d2-c9db-4d38-8641-5a94cfa6083d_4x.png.webp?alt=media&#x26;token=4091057f-c068-482f-8cf5-e24f856b971d" alt=""><figcaption><p>SafePal एक सॉफ्टवेयर और हार्डवेयर वॉलेट दोनों के रूप में उपलब्ध है। वॉलेट को इंस्टॉल और बनाना आसान है, और यह Aptos, BEP2 (BNB Beacon Chain)<strong>,</strong> BEP20 (BNB Smart Chain) को तुरंत सपोर्ट करता है।</p></figcaption></figure>
 
-​**Pros:**
+​**लाभ:**
 
-* Easily switch between several crypto networks
-* Has the option for Google Authenticator built in
-* Supports a large number of languages
-* Setup process is very simple
-* Is available as both a software and hardware wallet (work together)
+* कई क्रिप्टो नेटवर्क के बीच आसानी से स्विच करें
+* Google Authenticator का बिल्ट-इन विकल्प
+* बड़ी संख्या में भाषाओं का समर्थन करता है
+* सेटअप प्रक्रिया बहुत सरल है
+* सॉफ्टवेयर और हार्डवेयर वॉलेट दोनों के रूप में उपलब्ध (एक साथ काम करते हैं)
 
-**Cons:**
+**नुकसान:**
 
-* Isn't fully open source
-* Does not give user notifications
-* Does not enforce strong security during initial setup and wallet creation
+* पूरी तरह ओपन सोर्स नहीं है
+* उपयोगकर्ता को नोटिफिकेशन नहीं देता
+* प्रारंभिक सेटअप और वॉलेट निर्माण के दौरान मजबूत सुरक्षा को लागू नहीं करता
 
-​[**Download SafePal**](https://safepal.io/download) (Automatically detects device)\
-[**SafePal Setup Guide for Aptos**](https://safepalsupport.zendesk.com/hc/en-us/articles/10061372532891-How-to-add-send-Aptos-mainnet-coin-APT-with-SafePal-Software-Wallet)
+​[**SafePal डाउनलोड करें**](https://safepal.io/download) (डिवाइस स्वचालित रूप से पहचानता है)\
+[**Aptos के लिए SafePal सेटअप गाइड**](https://safepalsupport.zendesk.com/hc/en-us/articles/10061372532891-How-to-add-send-Aptos-mainnet-coin-APT-with-SafePal-Software-Wallet)
 {% endtab %}
 
 {% tab title="Trust Wallet" %}
@@ -72,216 +72,216 @@ You can find more in-depth information about each wallet below, as well as downl
 
 <figure><img src="https://files.gitbook.com/v0/b/gitbook-legacy-files/o/assets%2F-MHREX7DHcljbY5IkjgJ%2F-Maajz3RNBhCbi_iel09%2F-MaaqWJXQio1awWtJiub%2Fimage.png?alt=media&#x26;token=63e7a2d9-8a05-49ac-b3dd-063f87f3a8b6" alt=""><figcaption></figcaption></figure>
 
-Trust Wallet is a popular wallet for smart devices. It supports DApps, NFT collectibles (with Opensea.io support), and in-wallet staking.
+Trust Wallet स्मार्ट डिवाइस के लिए एक लोकप्रिय वॉलेट है। यह DApps, NFT कलेक्टिबल्स (Opensea.io सपोर्ट के साथ), और इन-वॉलेट Staking का समर्थन करता है।
 
-**Pros:**
+**लाभ:**
 
-* Open source for auditability
-* Backed by the Binance cryptocurrency exchange
-* Easily switch between several crypto networks
-* Includes Aptos networks by default
+* ऑडिटेबिलिटी के लिए ओपन सोर्स
+* Binance क्रिप्टोकरेंसी एक्सचेंज द्वारा समर्थित
+* कई क्रिप्टो नेटवर्क के बीच आसानी से स्विच करें
+* डिफ़ॉल्ट रूप से Aptos नेटवर्क शामिल हैं
 
-**Cons:**
+**नुकसान:**
 
-* Limited DApps
-* Transaction notifications can be delayed
+* सीमित DApps
+* लेनदेन नोटिफिकेशन में देरी हो सकती है
 
-[**Download Trust Wallet**](https://trustwallet.com) (Automatically detects device)\
-[**Trust Wallet Setup Guide for Aptos**](https://community.trustwallet.com/t/trust-wallet-adds-native-support-for-aptos-apt/575701)
+[**Trust Wallet डाउनलोड करें**](https://trustwallet.com) (डिवाइस स्वचालित रूप से पहचानता है)\
+[**Aptos के लिए Trust Wallet सेटअप गाइड**](https://community.trustwallet.com/t/trust-wallet-adds-native-support-for-aptos-apt/575701)
 {% endtab %}
 
 {% tab title="Blocto" %}
-![](<../../../.gitbook/assets/image (295).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28295%29.png)
 
-Blocto offers a user-friendly solution and an all-in-one package for using Dapps and managing your assets.
+Blocto DApps का उपयोग करने और अपनी संपत्ति प्रबंधित करने के लिए एक उपयोगकर्ता-अनुकूल समाधान और ऑल-इन-वन पैकेज प्रदान करता है।
 
-**Highlights:**
+**विशेषताएं:**
 
-* Supports both BNB Chain and Aptos Chain and other major crypto networks out-of-the-box.
-* Easy to set up.
-* Supports both iOS and Android.
-* Email login.
-* Smart contract wallet eliminates the need for managing your own private key and also provides advanced features like account recovery
-* The initial setup gas fee for the smart contract wallet is covered
+* BNB Chain और Aptos चेन और अन्य प्रमुख क्रिप्टो नेटवर्क को आउट-ऑफ-द-बॉक्स सपोर्ट करता है।
+* सेट अप करना आसान है।
+* iOS और Android दोनों को सपोर्ट करता है।
+* Email लॉगिन।
+* स्मार्ट कॉन्ट्रैक्ट वॉलेट अपनी प्राइवेट की प्रबंधित करने की जरूरत को समाप्त करता है और account recovery जैसी उन्नत सुविधाएं भी प्रदान करता है
+* स्मार्ट कॉन्ट्रैक्ट वॉलेट के लिए प्रारंभिक सेटअप गैस फीस कवर की जाती है
 
-**Note:**
+**ध्यान दें:**
 
-* **Requires Email address to get started**
+* **शुरुआत के लिए Email पता आवश्यक है**
 * Custodial model
-* A bit complicated if you want to export your private key and manage it or use it in other wallets. [Tutorial](https://portto.zendesk.com/hc/en-us/articles/4411564072217-Can-I-export-my-private-key-from-Blocto-and-use-it-in-Metamask-Phantom-Trust-Wallet-).
+* यदि आप अपनी प्राइवेट की एक्सपोर्ट करना चाहते हैं और इसे प्रबंधित करना या अन्य वॉलेट में उपयोग करना चाहते हैं तो यह थोड़ा जटिल है। [ट्यूटोरियल](https://portto.zendesk.com/hc/en-us/articles/4411564072217-Can-I-export-my-private-key-from-Blocto-and-use-it-in-Metamask-Phantom-Trust-Wallet-)।
 
-[**Download Blocto Wallet**](https://portto.com/download)
+[**Blocto Wallet डाउनलोड करें**](https://portto.com/download)
 
-**Blocto Wallet Setup Guide**
+**Blocto Wallet सेटअप गाइड**
 
-1 - Set up by entering your Email address. Then enter the one-time password received by Email.
+1 - अपना Email पता दर्ज करके सेट अप करें। फिर Email द्वारा प्राप्त one-time password दर्ज करें।
 
-![](../../../.gitbook/assets/blocto-setup-guide-mobile-1.png) ![](../../../.gitbook/assets/blocto-setup-guide-mobile-2.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/blocto-setup-guide-mobile-1.png) ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/blocto-setup-guide-mobile-2.png)
 
-2 - Click the plus button, then choose "APT - Aptos"
+2 - प्लस बटन पर क्लिक करें, फिर "APT - Aptos" चुनें
 
-![](../../../.gitbook/assets/blocto-setup-guide-mobile-3.png) ![](../../../.gitbook/assets/blocto-setup-guide-mobile-4.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/blocto-setup-guide-mobile-3.png) ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/blocto-setup-guide-mobile-4.png)
 
-3 - Done! You can now deposit APT into the Aptos wallet and start using PancakeSwap on Aptos by going to the "Discover" page!
+3 - हो गया! अब आप Aptos वॉलेट में APT जमा कर सकते हैं और "Discover" पेज पर जाकर Aptos पर PancakeSwap का उपयोग शुरू कर सकते हैं!
 
-![](../../../.gitbook/assets/blocto-setup-guide-mobile-6.png) ![](../../../.gitbook/assets/blocto-setup-guide-mobile-7.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/blocto-setup-guide-mobile-6.png) ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/blocto-setup-guide-mobile-7.png)
 {% endtab %}
 {% endtabs %}
 
-## **Desktop/Web Browser wallets**
+## **डेस्कटॉप/वेब ब्राउज़र वॉलेट**
 
-Desktop wallets are available on your home computer or laptop computer. Wallets on your computer can run as standalone applications, or as web browser plugins for popular browsers like Chrome and Firefox.
+डेस्कटॉप वॉलेट आपके होम कंप्यूटर या लैपटॉप पर उपलब्ध हैं। आपके कंप्यूटर पर वॉलेट स्टैंडअलोन एप्लिकेशन के रूप में या Chrome और Firefox जैसे लोकप्रिय ब्राउज़र के लिए वेब ब्राउज़र प्लगइन के रूप में चल सकते हैं।
 
-### Which desktop wallet should I choose?
+### कौन सा डेस्कटॉप वॉलेट चुनें?
 
-This comparison table gives an overview of the most popular desktop wallets used with PancakeSwap on Aptos
+यह तुलना तालिका Aptos पर PancakeSwap के साथ उपयोग किए जाने वाले सबसे लोकप्रिय डेस्कटॉप वॉलेट का अवलोकन प्रदान करती है
 
-<table><thead><tr><th width="187"></th><th width="79">Petra</th><th width="97">Martian</th><th width="92">Pontem</th><th width="109">Fewcha</th><th width="94">Blocto</th></tr></thead><tbody><tr><td>Aptos Chain support</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>Hardware wallet compatible</td><td>➖</td><td>➖</td><td>➖</td><td>➖</td><td>➖</td></tr><tr><td>Open source (auditability)</td><td>✅</td><td>❓</td><td>✅</td><td>❓</td><td>❓</td></tr></tbody></table>
+<table><thead><tr><th width="187"></th><th width="79">Petra</th><th width="97">Martian</th><th width="92">Pontem</th><th width="109">Fewcha</th><th width="94">Blocto</th></tr></thead><tbody><tr><td>Aptos चेन सपोर्ट</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td><td>✅</td></tr><tr><td>हार्डवेयर वॉलेट संगत</td><td>➖</td><td>➖</td><td>➖</td><td>➖</td><td>➖</td></tr><tr><td>ओपन सोर्स (ऑडिटेबिलिटी)</td><td>✅</td><td>❓</td><td>✅</td><td>❓</td><td>❓</td></tr></tbody></table>
 
-_❓ - as of writing, we are unsure about the status of this information_
+_❓ - लेखन के समय, हमें इस जानकारी की स्थिति के बारे में निश्चित जानकारी नहीं है_
 
-You can find more in-depth information about each wallet below, as well as download links and installation guides.
+नीचे आप प्रत्येक वॉलेट के बारे में अधिक विस्तृत जानकारी, साथ ही डाउनलोड लिंक और इंस्टॉलेशन गाइड पा सकते हैं।
 
 {% tabs %}
 {% tab title="Petra" %}
-<figure><img src="../../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28110%29.png" alt=""><figcaption></figcaption></figure>
 
-Petra wallet is an extension that lets you explore Aptos in your browser.
+Petra वॉलेट एक एक्सटेंशन है जो आपको अपने ब्राउज़र में Aptos को एक्सप्लोर करने की सुविधा देता है।
 
-**Highlights:**
+**विशेषताएं:**
 
-* Built by Aptos Labs
-* Easy to use
-* Supports multiple accounts
-* Built-in NFT support
-* Supports Aptos testnet and one-click testnet APT faucet
+* Aptos Labs द्वारा निर्मित
+* उपयोग में आसान
+* कई खातों का समर्थन करता है
+* बिल्ट-इन NFT सपोर्ट
+* Aptos testnet और one-click testnet APT faucet का समर्थन करता है
 
-**Note:**
+**ध्यान दें:**
 
-* Desktop only
-* Only supports Aptos chains
+* केवल डेस्कटॉप
+* केवल Aptos चेन को सपोर्ट करता है
 
-[**Download Petra Wallet**](https://petra.app/)
+[**Petra Wallet डाउनलोड करें**](https://petra.app/)
 
-[**Petra Wallet Setup Guide**](https://petra.app/docs/use)
+[**Petra Wallet सेटअप गाइड**](https://petra.app/docs/use)
 {% endtab %}
 
 {% tab title="Martian" %}
-<figure><img src="../../../.gitbook/assets/image (298).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28298%29.png" alt=""><figcaption></figcaption></figure>
 
-Martian is an Aptos Chain wallet that allows you to store, send, receive tokens and manage & mint NFTs. Its mobile version is coming soon.
+Martian एक Aptos चेन वॉलेट है जो आपको टोकन स्टोर करने, भेजने, प्राप्त करने और NFT प्रबंधित करने व बनाने की सुविधा देता है। इसका मोबाइल संस्करण जल्द आ रहा है।
 
-**Highlights:**
+**विशेषताएं:**
 
-* Mobile version coming soon
-* Easy to use
-* Supports multiple accounts
-* Built-in NFT support
-* Supports Aptos testnet
+* मोबाइल संस्करण जल्द आ रहा है
+* उपयोग में आसान
+* कई खातों का समर्थन करता है
+* बिल्ट-इन NFT सपोर्ट
+* Aptos testnet का समर्थन करता है
 
-[**Download Martian Wallet**](https://martianwallet.xyz/)
+[**Martian Wallet डाउनलोड करें**](https://martianwallet.xyz/)
 {% endtab %}
 
 {% tab title="Pontem" %}
-<figure><img src="../../../.gitbook/assets/pontem-setup-desktop-banner.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/pontem-setup-desktop-banner.png" alt=""><figcaption></figcaption></figure>
 
-Pontem Wallet is an Aptos Chain wallet that allows you to store, send, receive tokens, and connect to dApps on the Aptos ecosystem.
+Pontem Wallet एक Aptos चेन वॉलेट है जो आपको टोकन स्टोर करने, भेजने, प्राप्त करने और Aptos इकोसिस्टम में dApps से कनेक्ट करने की सुविधा देता है।
 
-**Highlights:**
+**विशेषताएं:**
 
-* Mobile version coming soon
-* Easy to use
-* Supports multiple accounts
-* Built-in NFT support
-* Supports Aptos testnet
+* मोबाइल संस्करण जल्द आ रहा है
+* उपयोग में आसान
+* कई खातों का समर्थन करता है
+* बिल्ट-इन NFT सपोर्ट
+* Aptos testnet का समर्थन करता है
 
-[**Download Pontem Wallet**](https://pontem.network/pontem-wallet)
+[**Pontem Wallet डाउनलोड करें**](https://pontem.network/pontem-wallet)
 {% endtab %}
 
 {% tab title="Fewcha" %}
-<figure><img src="../../../.gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28196%29.png" alt=""><figcaption></figcaption></figure>
 
-Fewcha is a trusted crypto wallet optimized for Aptos and SUI ecosystem that unlocks a universe of applications in the web3.
+Fewcha Aptos और SUI इकोसिस्टम के लिए अनुकूलित एक विश्वसनीय क्रिप्टो वॉलेट है जो web3 में अनुप्रयोगों का एक विशाल संसार खोलता है।
 
-**Highlights:**
+**विशेषताएं:**
 
-* Support Aptos and Sui Blockchain
-* First wallet to support pure blockchain using Move language
-* Friendly UX/UI
-* Simple, elegant and easy to use
-* In-app Swapper
-* In-app Stake
-* Multiple languages
-* EBCI Protocol - a protocol that prevents multiple pop-ups when interacting with dApp, it’ll help users manage what dApp they are signing for a transaction.
-* Support Hardware Wallet Connection (Keystone Wallet)
+* Aptos और Sui Blockchain को सपोर्ट करता है
+* Move भाषा का उपयोग करने वाले शुद्ध ब्लॉकचेन को सपोर्ट करने वाला पहला वॉलेट
+* अनुकूल UX/UI
+* सरल, आकर्षक और उपयोग में आसान
+* इन-ऐप Swapper
+* इन-ऐप Stake
+* कई भाषाएं
+* EBCI Protocol - एक प्रोटोकॉल जो dApp के साथ इंटरैक्ट करते समय कई पॉप-अप को रोकता है, यह उपयोगकर्ताओं को यह प्रबंधित करने में मदद करता है कि वे किस dApp के लिए लेनदेन पर हस्ताक्षर कर रहे हैं।
+* हार्डवेयर वॉलेट कनेक्शन सपोर्ट (Keystone Wallet)
 
-[**Download FewCha Wallet**](https://fewcha.app/)
+[**FewCha Wallet डाउनलोड करें**](https://fewcha.app/)
 
-**Fewcha wallet setup guide**
+**Fewcha वॉलेट सेटअप गाइड**
 
-1\. Once Fewcha Wallet extension finishes downloading, a welcome tab will appear. Here you can select “Create a new wallet” (or “Use an existing wallet” if you’ve already had one.)
+1\. Fewcha Wallet एक्सटेंशन डाउनलोड होने के बाद, एक स्वागत टैब दिखाई देगा। यहाँ आप "Create a new wallet" (या "Use an existing wallet" यदि आपके पास पहले से एक है) चुन सकते हैं।
 
 <figure><img src="https://lh5.googleusercontent.com/xzkPxptL1JdM_IcX3jEH8J1JpEC9uWabA5QUJzKBRIqszgGeOUh67QuQx7Y6BCzv1UIXshZuxrCCgZe6wYhxCZ4JbjcbtYIdP_zO9A6VDiQgypsbr2wlvqUjhioyPsRDVOYTBJv_smcjhODx3zHnqrTvxiJzWMhZa3e4TvG3lfAqFtE6-47N08s" alt=""><figcaption></figcaption></figure>
 
-2\. Select your default blockchain. Create a password that’s hard to predict yet easy to remember. Make sure you have read and agreed to the Terms of Service and Privacy Policy. Then click “Continue”.
+2\. अपना डिफ़ॉल्ट ब्लॉकचेन चुनें। एक ऐसा पासवर्ड बनाएं जो अनुमान लगाना मुश्किल हो लेकिन याद रखना आसान हो। सुनिश्चित करें कि आपने Terms of Service और Privacy Policy पढ़ और स्वीकार कर ली है। फिर "Continue" पर क्लिक करें।
 
-3\. For the Recovery Phrase, please write it down or copy to save it somewhere that you can remember.
+3\. Recovery Phrase के लिए, कृपया इसे लिख लें या कॉपी करके किसी ऐसी जगह सेव करें जिसे आप याद रख सकें।
 
-<figure><img src="../../../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28108%29.png" alt=""><figcaption></figcaption></figure>
 
-> * Safely backup your recovery phrases. If you lose your recovery phrase, you may lose access to your wallet and the crypto within it forever.
-> * **NEVER** share your recovery phrases with anyone, under any circumstances.
-> * **NEVER** input your recovery phrase to a website or app, other than your wallet ap&#x70;**.**
+> * अपने रिकवरी फ्रेज़ को सुरक्षित रूप से बैकअप करें। यदि आप अपना रिकवरी फ्रेज़ खो देते हैं, तो आप अपने वॉलेट और उसमें मौजूद क्रिप्टो तक हमेशा के लिए पहुंच खो सकते हैं।
+> * **कभी नहीं** किसी भी परिस्थिति में अपने रिकवरी फ्रेज़ को किसी के साथ साझा करें।
+> * **कभी नहीं** अपने वॉलेट ऐप के अलावा किसी भी वेबसाइट या ऐप में अपना रिकवरी फ्रेज़ दर्ज करें।
 
-<figure><img src="../../../.gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28203%29.png" alt=""><figcaption></figcaption></figure>
 
-4\. Click Finish to complete this setup process. And done! Once your wallet is created, you can access it at any time by clicking on the Fewcha Wallet icon on the extension bar.
+4\. इस सेटअप प्रक्रिया को पूरा करने के लिए Finish पर क्लिक करें। और हो गया! एक बार आपका वॉलेट बन जाने के बाद, आप किसी भी समय एक्सटेंशन बार पर Fewcha Wallet आइकन पर क्लिक करके इसे एक्सेस कर सकते हैं।
 
-<figure><img src="../../../.gitbook/assets/image (324).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28324%29.png" alt=""><figcaption></figcaption></figure>
 
-To start using PancakeSwap on Aptos, you will also need to have some $APT tokens to pay gas fees. You can learn how to get some here.
+Aptos पर PancakeSwap का उपयोग शुरू करने के लिए, आपके पास गैस फीस देने के लिए कुछ $APT टोकन भी होने चाहिए। आप यहाँ जान सकते हैं कि उन्हें कैसे प्राप्त करें।
 {% endtab %}
 
 {% tab title="Blocto" %}
-![](<../../../.gitbook/assets/image (295).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28295%29.png)
 
-Blocto offers a user-friendly solution and an all-in-one package for using Dapps and managing your assets.
+Blocto DApps का उपयोग करने और अपनी संपत्ति प्रबंधित करने के लिए एक उपयोगकर्ता-अनुकूल समाधान और ऑल-इन-वन पैकेज प्रदान करता है।
 
-**Highlights:**
+**विशेषताएं:**
 
-* Supports both BNB Chain and Aptos Chain and other major crypto networks out-of-the-box.
-* No app or extension is required for using on desktop.
-* Supports both desktop and mobile.
-* Email login.
-* Smart contract wallet eliminates the need for managing your own private key and also provides advanced features like account recovery
-* The initial setup gas fee for the smart contract wallet is covered
+* BNB Chain और Aptos चेन और अन्य प्रमुख क्रिप्टो नेटवर्क को आउट-ऑफ-द-बॉक्स सपोर्ट करता है।
+* डेस्कटॉप पर उपयोग के लिए कोई ऐप या एक्सटेंशन आवश्यक नहीं है।
+* डेस्कटॉप और मोबाइल दोनों को सपोर्ट करता है।
+* Email लॉगिन।
+* स्मार्ट कॉन्ट्रैक्ट वॉलेट अपनी प्राइवेट की प्रबंधित करने की जरूरत को समाप्त करता है और account recovery जैसी उन्नत सुविधाएं भी प्रदान करता है
+* स्मार्ट कॉन्ट्रैक्ट वॉलेट के लिए प्रारंभिक सेटअप गैस फीस कवर की जाती है
 
-**Note:**
+**ध्यान दें:**
 
-* **Requires Email address to get started**
+* **शुरुआत के लिए Email पता आवश्यक है**
 * Custodial model
-* A bit complicated if you want to export your private key and manage it or use it in other wallets. [Tutorial](https://portto.zendesk.com/hc/en-us/articles/4411564072217-Can-I-export-my-private-key-from-Blocto-and-use-it-in-Metamask-Phantom-Trust-Wallet-).
+* यदि आप अपनी प्राइवेट की एक्सपोर्ट करना चाहते हैं और इसे प्रबंधित करना या अन्य वॉलेट में उपयोग करना चाहते हैं तो यह थोड़ा जटिल है। [ट्यूटोरियल](https://portto.zendesk.com/hc/en-us/articles/4411564072217-Can-I-export-my-private-key-from-Blocto-and-use-it-in-Metamask-Phantom-Trust-Wallet-)।
 
-**Blocto wallet setup guide**
+**Blocto वॉलेट सेटअप गाइड**
 
-1 - After selecting "Blocto" in the wallet connection window, you should be presented with a sign-in window. Type in your Email address and click "Register". If you have previously setup a Blocto account, please type in the Email address and click "sign in".
+1 - वॉलेट कनेक्शन विंडो में "Blocto" चुनने के बाद, आपको एक साइन-इन विंडो दिखाई देगी। अपना Email पता टाइप करें और "Register" पर क्लिक करें। यदि आपने पहले Blocto खाता सेट किया है, तो Email पता टाइप करें और "sign in" पर क्लिक करें।
 
-![](<../../../.gitbook/assets/blocto-setup-desktop-1 (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/blocto-setup-desktop-1%20%281%29.png)
 
-2 - Then enter the one-time password received by Email.
+2 - फिर Email द्वारा प्राप्त one-time password दर्ज करें।
 
-![](../../../.gitbook/assets/blocto-setup-desktop-2.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/blocto-setup-desktop-2.png)
 
-3 - Click "Create Aptos wallet". Then click "Confirm" to connect.
+3 - "Create Aptos wallet" पर क्लिक करें। फिर कनेक्ट करने के लिए "Confirm" पर क्लिक करें।
 
-![](../../../.gitbook/assets/blocto-setup-desktop-3.png) ![](../../../.gitbook/assets/blocto-setup-desktop-4.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/blocto-setup-desktop-3.png) ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/blocto-setup-desktop-4.png)
 
-4 - Done! Please note that you will need to fund your Aptos address with APT to start using PancakeSwap on Aptos. If you want to access the same account on other devices, simply sign in using the same Email address.
+4 - हो गया! कृपया ध्यान दें कि Aptos पर PancakeSwap का उपयोग शुरू करने के लिए आपको अपने Aptos पते को APT से फंड करना होगा। यदि आप अन्य डिवाइस पर एक ही खाते तक पहुंचना चाहते हैं, तो बस उसी Email पते से साइन इन करें।
 {% endtab %}
 {% endtabs %}
 
 {% hint style="danger" %}
-NEVER, in any situation, should you ever give someone your private key or recovery phrase ("seed phrase"). This will give someone complete access to your crypto!
+किसी भी परिस्थिति में, कभी भी किसी को अपनी प्राइवेट की या रिकवरी फ्रेज़ ("सीड फ्रेज़") न दें। इससे किसी को आपकी क्रिप्टो तक पूरी पहुंच मिल जाएगी!
 
-The genuine PancakeSwap site and staff will never ask you to input your seed phrase.
+असली PancakeSwap साइट और स्टाफ कभी भी आपसे आपका सीड फ्रेज़ दर्ज करने के लिए नहीं कहेंगे।
 {% endhint %}

@@ -1,30 +1,30 @@
 # Community Manager (CN)
 
-* Position: Full-time
-* Location: Remote
-* Timezone: UTC+8
+* पद: पूर्णकालिक
+* स्थान: रिमोट
+* समय क्षेत्र: UTC+8
 
-We are looking for an experienced, Chinese-speaking Community Manager to activate, engage, and grow the PancakeSwap community. The ideal candidate has experience in Chinese-language crypto communities, understands DeFi communities and users, and has a proven track record of growing and activating communities in the region.
+हम एक अनुभवी, चीनी-भाषी Community Manager की तलाश कर रहे हैं जो PancakeSwap समुदाय को सक्रिय, संलग्न और विकसित करे। आदर्श उम्मीदवार को चीनी-भाषी क्रिप्टो समुदायों का अनुभव है, DeFi समुदायों और उपयोगकर्ताओं को समझता है, और क्षेत्र में समुदायों को विकसित और सक्रिय करने का सिद्ध ट्रैक रिकॉर्ड रखता है।
 
-### **Responsibilities:**
+### **जिम्मेदारियाँ:**
 
-* Activate and grow PancakeSwap’s Chinese-speaking communities through organic and community initiatives
-* Represent PancakeSwap as a spokesperson across Chinese-speaking community channels, discussions, AMAs, and advocates for our products, brand, and ecosystem
-* Plan and execute Chinese-language community campaigns, AMAs, online initiatives, and local community meetups with clear growth and engagement outcomes
-* Build and maintain relationships with crypto projects, communities, and ecosystem partners to increase community activation
-* Manage PancakeSwap’s ambassadors and ambassador program for Chinese-speaking markets to support the community user, content, and regional events initiatives
-* Act as a bridge between PancakeSwap’s Chinese-speaking community and internal teams, relaying community and product feedback to drive PancakeSwap’s growth and success
-* Identify, engage, and collaborate with Chinese-speaking community content creators and influencers to produce relevant, high-quality content in the community
-* Track community performance and provide weekly reports on activities, engagement metrics, sentiment, and actionable insights
+* जैविक और सामुदायिक पहलों के माध्यम से PancakeSwap के चीनी-भाषी समुदायों को सक्रिय और विकसित करें
+* चीनी-भाषी समुदाय चैनलों, चर्चाओं, AMA में PancakeSwap के प्रवक्ता के रूप में प्रतिनिधित्व करें और हमारे उत्पादों, ब्रांड और पारिस्थितिकी तंत्र की वकालत करें
+* स्पष्ट वृद्धि और जुड़ाव परिणामों के साथ चीनी-भाषी समुदाय अभियान, AMA, ऑनलाइन पहल और स्थानीय समुदाय मीटअप की योजना बनाएँ और उन्हें लागू करें
+* समुदाय सक्रियण बढ़ाने के लिए क्रिप्टो परियोजनाओं, समुदायों और पारिस्थितिकी तंत्र के साझेदारों के साथ संबंध बनाएँ और बनाए रखें
+* चीनी-भाषी बाज़ारों के लिए PancakeSwap के एंबेसडर और एंबेसडर कार्यक्रम का प्रबंधन करें ताकि समुदाय उपयोगकर्ता, सामग्री और क्षेत्रीय कार्यक्रम पहलों का समर्थन हो सके
+* PancakeSwap की वृद्धि और सफलता को बढ़ावा देने के लिए समुदाय और उत्पाद प्रतिक्रिया देते हुए PancakeSwap के चीनी-भाषी समुदाय और आंतरिक टीमों के बीच सेतु का काम करें
+* समुदाय में प्रासंगिक, उच्च-गुणवत्ता वाली सामग्री बनाने के लिए चीनी-भाषी सामग्री निर्माताओं और प्रभावशाली लोगों की पहचान करें, उनसे जुड़ें और सहयोग करें
+* समुदाय प्रदर्शन को ट्रैक करें और गतिविधियों, जुड़ाव मेट्रिक्स, भावनाओं और कार्रवाई योग्य अंतर्दृष्टि पर साप्ताहिक रिपोर्ट प्रदान करें
 
-### **Requirements**
+### **आवश्यकताएँ**
 
-* 2+ years of experience as a community manager in the DeFi or crypto space
-* Language: Native Proficiency in Chinese required, working proficiency in English.
-* Understanding of Chinese-speaking crypto communities, DeFi, and community growth
-* Excellent Chinese written and verbal communication skills
-* Experience with community platforms and tools on Discord, Telegram, X, etc.
-* Proactive, results-oriented, and able to operate in a fast-paced environment
+* DeFi या क्रिप्टो क्षेत्र में Community Manager के रूप में 2+ वर्षों का अनुभव
+* भाषा: चीनी में नेटिव प्रवाह आवश्यक, अंग्रेज़ी में कार्यकारी दक्षता।
+* चीनी-भाषी क्रिप्टो समुदायों, DeFi और समुदाय वृद्धि की समझ
+* उत्कृष्ट चीनी लिखित और मौखिक संचार कौशल
+* Discord, Telegram, X आदि पर समुदाय प्लेटफ़ॉर्म और टूल्स का अनुभव
+* सक्रिय, परिणाम-उन्मुख, और तेज़-गति वाले वातावरण में काम करने में सक्षम
 
-**How to Apply:**\
-Shoot your resume over to hiring@pancakeswap.com, we’d love to hear from you!
+**आवेदन कैसे करें:**\
+अपना रेज़्यूमे hiring@pancakeswap.com पर भेजें, हम आपसे सुनना चाहेंगे!

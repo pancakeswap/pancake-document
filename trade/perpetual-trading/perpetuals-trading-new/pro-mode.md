@@ -1,60 +1,60 @@
 # Pro Mode
 
-Pro Mode gives you full control over your trades — order types, leverage, TP/SL, and position management all in one place. Follow the steps below to open your first position. For definitions of key terms, refer to the PCS Perps Glossary.
+Pro Mode आपको अपने ट्रेडों पर पूर्ण नियंत्रण देता है — ऑर्डर प्रकार, लीवरेज, TP/SL, और पोजीशन प्रबंधन सभी एक ही स्थान पर। अपनी पहली पोजीशन खोलने के लिए नीचे दिए गए चरणों का पालन करें। मुख्य शब्दों की परिभाषाओं के लिए, PCS Perps Glossary देखें।
 
-### **Go to the PCS Perps page**
+### **PCS Perps पेज पर जाएं**
 
-Head to [pancakeswap.finance/perps](https://pancakeswap.finance/perps) or click Perps in the main PancakeSwap navigation bar.
+[pancakeswap.finance/perps](https://pancakeswap.finance/perps) पर जाएं या मुख्य PancakeSwap नेविगेशन बार में Perps पर क्लिक करें।
 
-### **Connect your wallet**
+### **अपना वॉलेट कनेक्ट करें**
 
-Click Connect Wallet in the top right corner. No account creation or KYC required — your wallet is your account.
+ऊपरी दाएं कोने में Connect Wallet पर क्लिक करें। कोई खाता निर्माण या KYC आवश्यक नहीं — आपका वॉलेट ही आपका खाता है।
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt="" width="507"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%287%29.png" alt="" width="507"><figcaption></figcaption></figure>
 
-### **Choose your mode**
+### **अपना मोड चुनें**
 
-Select **Simple Mode** for a fast one-tap long or short with preset sizes. Switch to **Pro Mode** if you want to set limit orders, configure TP/SL, or manage positions in more detail.
+प्रीसेट साइज़ के साथ तेज़ one-tap long या short के लिए **Simple Mode** चुनें। यदि आप limit orders सेट करना, TP/SL कॉन्फ़िगर करना, या पोजीशन को अधिक विस्तार से प्रबंधित करना चाहते हैं तो **Pro Mode** पर स्विच करें।
 
-<figure><img src="../../../.gitbook/assets/image (249).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28249%29.png" alt=""><figcaption></figcaption></figure>
 
-### **Choose a trading pair**
+### **ट्रेडिंग जोड़ी चुनें**
 
-Click on the pair name at the top of the page to open the asset selector. A huge variety of token pairs are available.
+एसेट सेलेक्टर खोलने के लिए पेज के शीर्ष पर जोड़ी के नाम पर क्लिक करें। बड़ी संख्या में टोकन जोड़ियां उपलब्ध हैं।
 
-<figure><img src="../../../.gitbook/assets/image (228).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28228%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-### **Analyze the chart and decide your strategy**
+### **चार्ट का विश्लेषण करें और अपनी रणनीति तय करें**
 
-Use the built-in TradingView chart to analyze price action before placing your trade. All standard charting tools are available.
+अपना ट्रेड लगाने से पहले मूल्य की गतिविधि का विश्लेषण करने के लिए बिल्ट-इन TradingView चार्ट का उपयोग करें। सभी मानक चार्टिंग टूल उपलब्ध हैं।
 
-<figure><img src="../../../.gitbook/assets/image (264).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28264%29.png" alt=""><figcaption></figcaption></figure>
 
-### **Set your position parameters**
+### **अपने पोजीशन पैरामीटर सेट करें**
 
-In the order panel, configure the following:
+ऑर्डर पैनल में, निम्नलिखित कॉन्फ़िगर करें:
 
-1. **Long or Short** — select the direction of your trade
-2. **Leverage** — use the slider or type manually to set your leverage. Up to 200× is available on BTC.
+1. **Long या Short** — अपने ट्रेड की दिशा चुनें
+2. **लीवरेज** — अपना लीवरेज सेट करने के लिए स्लाइडर का उपयोग करें या मैन्युअल रूप से टाइप करें। BTC पर 200× तक उपलब्ध है।
 
-⚠️ High leverage carries significant risk. Use it carefully.
+⚠️ उच्च लीवरेज में महत्वपूर्ण जोखिम होता है। इसका सावधानी से उपयोग करें।
 
-3. **Order type** — Market (fills immediately) or Limit (fills at your chosen price)
-4. **Position size** — enter the size of your trade in your preferred reference currency
+3. **ऑर्डर प्रकार** — Market (तुरंत भरता है) या Limit (आपकी चुनी गई कीमत पर भरता है)
+4. **पोजीशन साइज़** — अपनी पसंदीदा संदर्भ मुद्रा में अपने ट्रेड का आकार दर्ज करें
 
-**Set Take Profit and Stop Loss** _(optional)_
+**Take Profit और Stop Loss सेट करें** _(वैकल्पिक)_
 
-* **Take Profit** — your position closes automatically when your target gain is reached
-* **Stop Loss** — your position closes automatically to limit losses at a set threshold
+* **Take Profit** — आपकी लक्षित लाभ पर पहुंचने पर आपकी पोजीशन स्वचालित रूप से बंद हो जाती है
+* **Stop Loss** — निर्धारित सीमा पर नुकसान सीमित करने के लिए आपकी पोजीशन स्वचालित रूप से बंद हो जाती है
 
-Once all parameters are set, click Buy / Long Or Sell / Short to submit your order.
+सभी पैरामीटर सेट होने के बाद, अपना ऑर्डर सबमिट करने के लिए Buy / Long या Sell / Short पर क्लिक करें।
 
-<figure><img src="../../../.gitbook/assets/image (284).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28284%29.png" alt=""><figcaption></figcaption></figure>
 
-### **Check your order status**
+### **अपने ऑर्डर की स्थिति जांचें**
 
-Your order will appear under **Positions** while it waits to be filled.
+भरे जाने की प्रतीक्षा के दौरान आपका ऑर्डर **Positions** के अंतर्गत दिखाई देगा।
 
-<figure><img src="../../../.gitbook/assets/image (287).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28287%29.png" alt=""><figcaption></figcaption></figure>
 
-Good luck with your trades!
+आपके ट्रेडों के लिए शुभकामनाएं!

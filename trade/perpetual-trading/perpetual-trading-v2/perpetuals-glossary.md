@@ -1,44 +1,44 @@
-# Perpetuals V2 Glossary
+# Perpetuals V2 शब्दावली
 
-**Here you will find defined all the terms inherent in futures trading**
+**यहां आपको फ्यूचर्स ट्रेडिंग से संबंधित सभी शब्दों की परिभाषाएं मिलेंगी**
 
 ### **Perpetual Trading**
 
-&#x20;Perpetuals, perpetual swaps, or perps are a special type of futures contract without an expiration date.
+&#x20;Perpetuals, perpetual swaps, या perps एक विशेष प्रकार के फ्यूचर्स कॉन्ट्रैक्ट होते हैं जिनकी कोई समाप्ति तिथि नहीं होती।
 
-### **Leverage**
+### **लीवरेज**
 
-Leverage is a trading mechanism. Traders can use it to increase their exposure to the market by allowing them to pay less than the full amount of the investment. In simple words, you borrow money to leverage your investment.
+लीवरेज एक ट्रेडिंग तंत्र है। ट्रेडर इसका उपयोग बाजार में अपने एक्सपोज़र को बढ़ाने के लिए कर सकते हैं, जिससे उन्हें निवेश की पूरी राशि से कम भुगतान करना पड़ता है। सरल शब्दों में, आप अपने निवेश को लीवरेज करने के लिए पैसे उधार लेते हैं।
 
-### Orders
+### ऑर्डर
 
-**Long:** Open a Long order. In this order, you purchase an asset and wait to sell when the price increases. "Buy" and "long" are used interchangeably.
+**Long:** एक Long ऑर्डर खोलें। इस ऑर्डर में आप एक एसेट खरीदते हैं और कीमत बढ़ने पर बेचने का इंतजार करते हैं। "Buy" और "long" का परस्पर उपयोग किया जाता है।
 
-**Short:** Open a Short order. In this order, you borrow an asset, sell it, and hope to repurchase it when the price drops. "Sell" and "short" are used interchangeably.
+**Short:** एक Short ऑर्डर खोलें। इस ऑर्डर में आप एक एसेट उधार लेते हैं, उसे बेचते हैं, और उम्मीद करते हैं कि कीमत कम होने पर उसे वापस खरीद सकेंगे। "Sell" और "short" का परस्पर उपयोग किया जाता है।
 
-**Limit Order:** A limit order is buying or selling at a specific price or better. Limit orders are not guaranteed to execute.
+**Limit Order:** एक limit order एक विशिष्ट मूल्य या बेहतर पर खरीदने या बेचने का ऑर्डर है। Limit orders के निष्पादित होने की गारंटी नहीं होती।
 
-**Market Order:** A market order is an order to buy or sell at the best available current price.
+**Market Order:** एक market order सर्वोत्तम उपलब्ध वर्तमान मूल्य पर खरीदने या बेचने का ऑर्डर है।
 
-#### Position Management
+#### पोजीशन प्रबंधन
 
-Users can check the details of their opened positions, such as the opening price, by clicking on "Position" located at the bottom of the trading page. They can view details such as opening price, number of positions, latest price and forced liquidation price.
+उपयोगकर्ता ट्रेडिंग पेज के निचले भाग में स्थित "Position" पर क्लिक करके अपनी खुली पोजीशन का विवरण देख सकते हैं, जैसे कि खुलने का मूल्य। वे खुलने का मूल्य, पोजीशनों की संख्या, नवीनतम मूल्य और जबरदस्ती लिक्विडेशन मूल्य जैसे विवरण देख सकते हैं।
 
-<figure><img src="../../../.gitbook/assets/Perp5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp5.png" alt=""><figcaption></figcaption></figure>
 
-**Position mode**
+**पोजीशन मोड**
 
-PancakeSwap will use an isolated leverage mode for each v2 trading pair. Pairs operate independently:&#x20;
+PancakeSwap प्रत्येक v2 ट्रेडिंग जोड़ी के लिए isolated leverage mode का उपयोग करेगा। जोड़ियां स्वतंत्र रूप से संचालित होती हैं:&#x20;
 
-* Each trading pair is an isolated position, Users can open multiple isolated positions
-* Every position (trading pair) runs independently. If users need to top up their margin, they will need to do so manually even if they have available assets in other separate positions (ApolloX will support auto top-up in the future)
-* Every isolated trading position will have its own risk rate and liquidation price and will be settled individually.
-* Liquidation risk is isolated for each trading pair. If a position is liquidated, it does not affect other positions.
+* प्रत्येक ट्रेडिंग जोड़ी एक isolated पोजीशन है, उपयोगकर्ता कई isolated पोजीशन खोल सकते हैं
+* प्रत्येक पोजीशन (ट्रेडिंग जोड़ी) स्वतंत्र रूप से चलती है। यदि उपयोगकर्ताओं को अपना मार्जिन टॉप अप करना हो, तो उन्हें इसे मैन्युअल रूप से करना होगा, भले ही उनके पास अन्य अलग पोजीशनों में उपलब्ध एसेट हों (ApolloX भविष्य में auto top-up का समर्थन करेगा)
+* प्रत्येक isolated ट्रेडिंग पोजीशन की अपनी जोखिम दर और लिक्विडेशन मूल्य होगा और इसे व्यक्तिगत रूप से निपटाया जाएगा।
+* लिक्विडेशन जोखिम प्रत्येक ट्रेडिंग जोड़ी के लिए isolated है। यदि एक पोजीशन का लिक्विडेशन होता है, तो यह अन्य पोजीशनों को प्रभावित नहीं करता।
 
-**Closing a position**
+**पोजीशन बंद करना**
 
-Users can close their positions by clicking on "Close Position".
+उपयोगकर्ता "Close Position" पर क्लिक करके अपनी पोजीशन बंद कर सकते हैं।
 
-#### Fees and Slippage
+#### शुल्क और स्लिपेज
 
-Please visit the [Aster's page](https://docs.asterdex.com/product/asterex-simple/fees-and-slippage) for more information on Fees.
+शुल्क के बारे में अधिक जानकारी के लिए कृपया [Aster के पेज](https://docs.asterdex.com/product/asterex-simple/fees-and-slippage) पर जाएं।

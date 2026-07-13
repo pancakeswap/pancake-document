@@ -1,107 +1,107 @@
-# How can I use it?
+# इसका उपयोग कैसे करें?
 
-![](<../../../.gitbook/assets/how-to-pancakeswap-without-cex-header (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-pancakeswap-without-cex-header%20%281%29.png)
 
-Using this functionality is really easy (the difficult thing is to trade well). We will only have to follow a series of steps so that our experience is complete
+इस कार्यक्षमता का उपयोग करना बहुत आसान है (कठिन काम अच्छी तरह व्यापार करना है)। हमें केवल कुछ चरणों का पालन करना होगा ताकि हमारा अनुभव पूर्ण हो सके।
 
-### Go to Perpetual Trading page
+### Perpetual Trading पेज पर जाएं
 
-You can enter from the [site](https://pancakeswap.finance), in the Trade → Perpetual section, or through this [link](https://perp.pancakeswap.finance/en/futures/BTCUSDT)
+आप [साइट](https://pancakeswap.finance) से Trade → Perpetual अनुभाग में, या इस [लिंक](https://perp.pancakeswap.finance/en/futures/BTCUSDT) के माध्यम से प्रवेश कर सकते हैं।
 
-### Deposit funds
+### फंड जमा करें
 
-You need to deposit funds into the Futures account first, in the box on the bottom right of the screen
+आपको पहले स्क्रीन के नीचे दाईं ओर बॉक्स में Futures खाते में फंड जमा करने होंगे।
 
 ![](https://lh6.googleusercontent.com/cz-OoCaRg3AfqTcETGTQVvsX_gfbm28fNJrUAxcljM823Bw1etFN3gArU5v8HljjzJU-lE3aV_5ENUySwioNYo_cQp__KwzEwo60ABmuWsqAzT5nM-nUse3ROcMdj2FhUChgsdGo)
 
-USDT, BUSD, APX or CAKE (with bonus!) can be used as collateral to pay for the trade.
+USDT, BUSD, APX या CAKE (बोनस के साथ!) का उपयोग ट्रेड के भुगतान के लिए संपार्श्विक के रूप में किया जा सकता है।
 
 ![](https://lh6.googleusercontent.com/3tFEo_gYD7r41o7RCFnd61NiEzJkqGc5uiZP3tRzEomAI805HPikW6tEDBzbyxK-kL5hptEqCIXax2wgASbbHcuN8FpKT4-hK6bFmkNyxmXJ2QIQxZRr38VTA_qg9HKmEbN2kNev)
 
-As mentioned, using CAKE for fees gives you a 5% discount! So, why not?
+जैसा उल्लेख किया गया है, शुल्क के लिए CAKE का उपयोग करने पर आपको 5% की छूट मिलती है! तो क्यों न करें?
 
 ![](https://lh3.googleusercontent.com/UiwXc1dgPqm07Ai0XKGuYAHLDbENm51_v93vMwHkUdb2HI-Hm5qEI2gbEVtzboatzv0-E9iesik8NF3ON74QXaXaW5jLcOJ5JjegI-8oMiidUf-MiZHjvvxnmd1HTfdnFrNgF8cG)
 
-> Note: The trading fees are 0.02% of the notional value for makers and 0.07% for the taker. CAKE will be the default payment option for trading fees, followed by APX (ApolloX’s token) and USDT. Any users who are paying the trading fees in CAKE will enjoy a 5% discount on trading fees.
+> नोट: Makers के लिए ट्रेडिंग शुल्क नोशनल मूल्य का 0.02% और Takers के लिए 0.07% है। CAKE ट्रेडिंग शुल्क के लिए डिफ़ॉल्ट भुगतान विकल्प होगा, उसके बाद APX (ApolloX का टोकन) और USDT। जो उपयोगकर्ता CAKE में ट्रेडिंग शुल्क का भुगतान कर रहे हैं उन्हें ट्रेडिंग शुल्क पर 5% की छूट मिलेगी।
 
-### Choose the pair to trade
+### व्यापार करने के लिए जोड़ी चुनें
 
-You can select a tradable pair by clicking on the arrow next to the pair, at the top of the page.
+आप पेज के शीर्ष पर जोड़ी के बगल में तीर पर क्लिक करके ट्रेड योग्य जोड़ी का चयन कर सकते हैं।
 
 ![](https://lh4.googleusercontent.com/OtHWwOgKp13zb-f-lVkgYShNPYD05B5hYrZIKasq2H-ev-05P1s4cYedXIwt4xsuGU2__7O7JwLwy66ERraUl2edkSmQSiaXcU5ilVXpTs39D-xiHB7q4p1q8NA7lpjCWuVe3E2z)
 
-More tradable pairs will come soon!
+जल्द ही और अधिक ट्रेड योग्य जोड़ियां आएंगी!
 
 ![](https://lh5.googleusercontent.com/yqnCEMigm39LpeG2tPHzXjgZOH08Je3Hhyj0tUxnqjFD2xBqwImoo4xMwjabnNWd0rXtyVcgBj5y4QuNod4QD0js4x-75S9VjsaF1LaLPbiL5G4c2KZUN9Aclqj3cf4EdUGg08Ia)
 
-### Analyze the chart and decide your trading strategy
+### चार्ट का विश्लेषण करें और अपनी ट्रेडिंग रणनीति तय करें
 
-It’s trading time!! Let’s get serious. You can analyze the chart your way, with all the tools available
+ट्रेडिंग का समय आ गया है!! गंभीर हो जाइए। आप सभी उपलब्ध टूल के साथ अपने तरीके से चार्ट का विश्लेषण कर सकते हैं।
 
-![](https://lh4.googleusercontent.com/_xJvQoCSOdq6AqB-KEMiAYtXwUp_ZS3DwNcC-x0jzNnBWTDLdKhRXwREPGwhC7fyirLJ10iKnhUPey-v1EkFDynQmqgNGuySYTpPmDx0A2bl7Pk0uZ8fBEGFPfBuwXBcWcIG2JFO)
+![](https://lh4.googleusercontent.com/_xJvQoCSOdq6AqB-KEMiAYtXwUp_ZS3DwNcC-x0jzNnBWTDLdKhRXwREPGwhC7fyirLJ10iKnhUPey-v1EkFDynQmDz0A2bl7Pk0uZ8fBEGFPfBuwXBcWcIG2JFO)
 
-**Do you know how to do it or do you want to improve in your analysis?**
+**क्या आप जानते हैं कि यह कैसे करना है या आप अपने विश्लेषण में सुधार करना चाहते हैं?**
 
-Here is a guide to get started in the world of chart analysis:
+चार्ट विश्लेषण की दुनिया में शुरुआत के लिए यहां एक गाइड है:
 
 * [How to Use TradingView on Binance Website](https://www.binance.com/en/support/faq/8419126024404348a1c6e4039fbed3fe)
 * [Candlestick charts](https://academy.binance.com/en/articles/a-beginners-guide-to-candlestick-charts)
 * [Trend Lines Explained](https://academy.binance.com/en/articles/trend-lines-explained)
 
-### Make your position
+### अपनी पोजीशन बनाएं
 
-Then, in the upper right part you have the board to position your order.
+फिर, ऊपरी दाईं ओर आपके पास अपना ऑर्डर पोजीशन करने का बोर्ड है।
 
 ![](https://lh3.googleusercontent.com/rQXCNgMoR4OzR_wXu92Mtgb22O7rAnOlrP0pL0VpXnurfrekOG0HwzUOBWQV-PtMinA1s8lo6KmtT78h3pGmTOF-ajO-G3EDg9CK56q-cPZNLUWJanE9-mEjOhJ4rWncb35PZEfq)
 
-Here you must set several parameters, like:
+यहां आपको कई पैरामीटर सेट करने होंगे, जैसे:
 
-_Not in an specific order_
+_किसी विशिष्ट क्रम में नहीं_
 
-1. The Margin Mode: Cross or Isolated
+1. Margin Mode: Cross या Isolated
 
 ![](https://lh4.googleusercontent.com/tplKHXPvrTQXPkNL9BSjVsIBAqfVDWyfh0mU0HDYDRXf4KRUEyu5xzDivGkzfw7JNsEUpQWXvPt8q1Wn26yeX21-DrhhwMTtMpFvFLyTKUxSOteAugTrlTgwvKro0zOluqFmELJQ)
 
-2\. The x of the leverage
+2\. लीवरेज का गुणांक
 
-![](https://lh5.googleusercontent.com/ikaG0tpWYcynBZbEOmoR1XLYZzaFXwHwD6MCrlqDCLGDOa3LA1KQh4Gp8uv_BAPNo8z3r1bLe_DzEGjNyI22ja_oIOF9A4vfdLEpsoAxcKj5rboH9Ip2eLkBZUfBPZJpXwL_KJ0s)
+![](https://lh5.googleusercontent.com/ikaG0tpWYcynBZbEYMD4HwHwD6MCrlqDCLGDOa3LA1KQh4Gp8uv_BAPNo8z3r1bLe_DzEGjNyI22ja_oIOF9A4vfdLEpsoAxcKj5rboH9Ip2eLkBZUfBPZJpXwL_KJ0s)
 
-Disclaimer: Remember that a high level of leverage carries a very high risk, use it wisely.
+अस्वीकरण: याद रखें कि उच्च स्तर का लीवरेज बहुत अधिक जोखिम वहन करता है, इसे समझदारी से उपयोग करें।
 
-3\. Type of Order
+3\. ऑर्डर का प्रकार
 
 ![](https://lh3.googleusercontent.com/If2SXl-FUCTuy0eNJkmF0ONspdYPeIWFBXvyLkH6Hc0B1CwAzd9EP5rMQGSjr23hK9sDDUmL0rSN9R28AL9_-x_f0jsFdfrn7WFOjEcqfPaxerPjGSq1iIpxz6tcN_A839ASRF3B)
 
-4\. Place a price for your order.
+4\. अपने ऑर्डर के लिए एक मूल्य निर्धारित करें।
 
-![](https://lh4.googleusercontent.com/J8rbXc_DhROHaZRoVCBELwIIraVg_uL2V-8bn2Ci2sm80jEmbS6q4CMuJ-Njv3Dx2L_OeoS-PTh-haPuW4uYsKIxQdWQdFttyFrTPFHp19u1nVz_V0MM6QsQdmKiyUD-imRSryU1)
+![](https://lh4.googleusercontent.com/J8rbXc_DhROHaZRoVCBELbLG4JsK1e8YKhVSInjTX2jS80kjImbS6q4CMuJ-Njv3Dx2L_OeoS-PTh-haPuW4uYsKIxQdWQdFttyFrTPFHp19u1nVz_V0MM6QsQdmKiyUD-imRSryU1)
 
-Note: You can use “Last” to fill in with the current last price.
+नोट: वर्तमान अंतिम मूल्य भरने के लिए आप "Last" का उपयोग कर सकते हैं।
 
-5\. Set the order’s size
+5\. ऑर्डर का आकार सेट करें
 
 ![](https://lh5.googleusercontent.com/OBtTNov5_h4-yWaOl17W8yZt2hnThsSiTF_ydyJdlrDEOi2mZAHRoIik0-9-bzGRFfbBAJ3QvzC7x4G65fHjrKeLAYNMsvTszr_7N8GIRdBV8P23FtD3eteEt-u3HPWutUWpFwu0)
 
-You can also choose the reference currency to see your position
+आप अपनी पोजीशन देखने के लिए संदर्भ मुद्रा भी चुन सकते हैं।
 
-> Note: there are a few more options to consider, but you can see that within the [trading glossary](perpetuals-glossary.md)<br>
+> नोट: विचार करने के लिए कुछ और विकल्प हैं, लेकिन आप उन्हें [ट्रेडिंग शब्दावली](perpetuals-glossary.md) में देख सकते हैं।<br>
 
-### Send your order
+### अपना ऑर्डर भेजें
 
-When all the parameters have been set, you can send the order by clicking on long, if it is a long order, or short, if it is a short order.
+जब सभी पैरामीटर सेट हो जाएं, तो आप long ऑर्डर के लिए long पर, या short ऑर्डर के लिए short पर क्लिक करके ऑर्डर भेज सकते हैं।
 
-![](<../../../.gitbook/assets/image (114).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28114%29.png)
 
-### Checking your position
+### अपनी पोजीशन जांचें
 
-Once the order has been sent, it will appear in "Open Orders" until it is filled out.
+ऑर्डर भेजे जाने के बाद, यह भरे जाने तक "Open Orders" में दिखाई देगा।
 
 ![](https://lh6.googleusercontent.com/dIGg0mdxTNk7N3v3RI2eQ_CUmktxBiOQ-mDVQb_aBKPQuFYNIuOdTL55KLSjFPfxZp4DwrbfImykOPaWJl35iljOA8gv7nqgXYWGtgpFdLzxSebqjOy2KzIS7oqFAhwNd3cz2wRK)
 
-### Live!
+### लाइव!
 
-When it is filled, your position will be live. You can see it in the positions panel. Also you can view, edit, or close it.
+जब यह भर जाए, तो आपकी पोजीशन लाइव हो जाएगी। आप इसे positions पैनल में देख सकते हैं। आप इसे देख, संपादित या बंद भी कर सकते हैं।
 
 ![](https://lh4.googleusercontent.com/Bx9Ri4__6BG1Z1mVcIJh42xpyP-H6ijFv7iI9JxAlHvZkYs2lxnSQm8fQjXZ7TGjCHwf7DmNuSFdb0dtw60R5Duy0VO__GvSaKwFzzgt9ovbfm9j-U93r5mLlxKZzF6r4VfZQHjz)
 
-Good luck with your trades!
+आपके ट्रेडों के लिए शुभकामनाएं!

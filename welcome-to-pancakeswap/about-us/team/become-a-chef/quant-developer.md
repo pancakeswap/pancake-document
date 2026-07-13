@@ -1,31 +1,31 @@
 # Quant Developer
 
-We are looking for a Quant Developer with experience in AMM liquidity provision and crypto market making to design and implement trading and risk strategies behind our PropAMM system.
+हम एक ऐसे Quant Developer की तलाश कर रहे हैं जिसे AMM तरलता प्रावधान और क्रिप्टो मार्केट मेकिंग का अनुभव हो, ताकि वह हमारे PropAMM सिस्टम के पीछे ट्रेडिंग और जोखिम रणनीतियाँ डिज़ाइन और लागू कर सके।
 
-This role sits at the intersection of quantitative research, DeFi protocol design, and trading infrastructure, helping connect on-chain liquidity with other exchange markets.
+यह भूमिका मात्रात्मक अनुसंधान, DeFi प्रोटोकॉल डिज़ाइन और ट्रेडिंग इन्फ्रास्ट्रक्चर के संगम पर बैठती है, जो ऑन-चेन तरलता को अन्य एक्सचेंज बाज़ारों से जोड़ने में मदद करती है।
 
-Responsibilities:
+जिम्मेदारियाँ:
 
--Design and implement pricing and liquidity strategies for PropAMM pools\
--Develop spread models, liquidity depth allocation, and volatility-based adjustments\
--Build inventory management frameworks to control token exposure\
--Design delta neutral hedging strategies\
--Integrate real-time orderbook data into pricing models\
--Backtest liquidity strategies and simulate trading performance\
--Optimize pricing and liquidity to maximize volume while minimizing risk
+-PropAMM पूल के लिए प्राइसिंग और तरलता रणनीतियाँ डिज़ाइन और लागू करें\
+-स्प्रेड मॉडल, तरलता गहराई आवंटन और अस्थिरता-आधारित समायोजन विकसित करें\
+-टोकन एक्सपोज़र को नियंत्रित करने के लिए इन्वेंटरी प्रबंधन फ्रेमवर्क बनाएँ\
+-डेल्टा न्यूट्रल हेजिंग रणनीतियाँ डिज़ाइन करें\
+-प्राइसिंग मॉडल में रियल-टाइम ऑर्डरबुक डेटा एकीकृत करें\
+-तरलता रणनीतियों का बैकटेस्ट करें और ट्रेडिंग प्रदर्शन का अनुकरण करें\
+-जोखिम को कम करते हुए वॉल्यूम अधिकतम करने के लिए प्राइसिंग और तरलता को अनुकूलित करें
 
-Requirements:
+आवश्यकताएँ:
 
--4+ years experience in quant trading, crypto market making, or DeFi liquidity provision\
--Strong understanding of AMM mechanics, arbitrage dynamics, and liquidity pools\
--Experience with CEX hedging strategies and DEX liquidity provision\
--Strong programming skills in Python, Rust, or C++\
--Experience building real-time trading or market data systems
+-quant ट्रेडिंग, क्रिप्टो मार्केट मेकिंग, या DeFi तरलता प्रावधान में 4+ वर्षों का अनुभव\
+-AMM मैकेनिक्स, आर्बिट्राज डायनेमिक्स और तरलता पूल की मजबूत समझ\
+-CEX हेजिंग रणनीतियों और DEX तरलता प्रावधान का अनुभव\
+-Python, Rust, या C++ में मजबूत प्रोग्रामिंग कौशल\
+-रियल-टाइम ट्रेडिंग या मार्केट डेटा सिस्टम बनाने का अनुभव
 
-Nice to Have:\
--Background in DeFi market making or crypto trading firms\
--Familiarity with aggregator routing and on-chain trading mechanics
+अच्छा होगा यदि आपके पास हो:\
+-DeFi मार्केट मेकिंग या क्रिप्टो ट्रेडिंग फर्म में पृष्ठभूमि\
+-एग्रीगेटर रूटिंग और ऑन-चेन ट्रेडिंग मैकेनिक्स से परिचितता
 
 
 
-**How to Apply:** Shoot your resume over to hiring@pancakeswap.com, we’d love to hear from you!
+**आवेदन कैसे करें:** अपना रेज़्यूमे hiring@pancakeswap.com पर भेजें, हम आपसे सुनना चाहेंगे!

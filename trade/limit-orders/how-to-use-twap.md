@@ -1,37 +1,37 @@
-# How to use TWAP
+# TWAP का उपयोग कैसे करें
 
-## What is TWAP?
+## TWAP क्या है?
 
-TWAP (Time-weighted Average Price) is a common order type used in CeFi that breaks an order into smaller trade sizes and executes them at regular intervals. The main goal of a TWAP order is to reduce the order’s price impact. It can also be useful if a user wants to implement a dollar-cost averaging strategy (DCA) and buy a certain token on a consistent schedule (i.e. once a month).
+TWAP (Time-weighted Average Price) CeFi में उपयोग किया जाने वाला एक सामान्य ऑर्डर प्रकार है जो एक ऑर्डर को छोटे ट्रेड साइज़ में विभाजित करता है और उन्हें नियमित अंतराल पर निष्पादित करता है। TWAP ऑर्डर का मुख्य लक्ष्य ऑर्डर के मूल्य प्रभाव को कम करना है। यह तब भी उपयोगी हो सकता है जब कोई उपयोगकर्ता एक dollar-cost averaging रणनीति (DCA) लागू करना चाहता हो और एक निश्चित शेड्यूल (यानी महीने में एक बार) पर एक निश्चित टोकन खरीदना चाहता हो।
 
-Therefore, TWAP is best used when the order size is large compared to the available liquidity, or when a user anticipates a high price volatility period with no clear up or downward trend.
+इसलिए, TWAP सबसे अच्छा तब उपयोग किया जाता है जब ऑर्डर आकार उपलब्ध तरलता की तुलना में बड़ा हो, या जब कोई उपयोगकर्ता बिना किसी स्पष्ट ऊपर या नीचे की प्रवृत्ति के उच्च मूल्य अस्थिरता अवधि का अनुमान लगाता हो।
 
-## How to set up a TWAP order?
+## TWAP ऑर्डर कैसे सेट करें?
 
-1. Go to the Swap page and select the TWAP order option by clicking TWAP
-2. Select the “From” and “To” tokens and enter the amount you wish to trade.
-3. The UI enables both dTWAP-market orders, which execute all trades at the available market price, and dTWAP-limit orders, which only execute individual trades if they are within the price limit set by the user. \
-   In this example we chose to execute the TWAP orders at market price.
-4. Next, we specify the TWAP parameters. There are 3 main parameters that control the effectiveness of the dTWAP order:
-   1. Total trades: Allows the user to specify the number of individual trades that their order will be broken into. The UI slider starts with 1 trade and allows the user to increase the amount of individual trades, or allows the user to manually input the total trades in the input field directly.\
-      Users should note that there is a certain tradeoff when specifying this parameter: more trades means smaller individual trade size, which means smaller price impact. However, more trades also means more transactions and higher overall gas fees.&#x20;
-   2. Trade Interval: Sets the time gap between each individual trade. The UI starts with the minimum allowed (2 mins), which leaves the minimum amount of time for the taker bidding war and block settlement between each chunk. The user can set it to be any duration desired. A trade will never execute before this time elapses after the previous trade.\
-      Again users should be mindful when setting this parameter: longer intervals would allow arbitrageurs a longer window to close any price discrepancies on the affected pools and bring the reserves back to equilibrium (on par with spot price). However, it would take longer for the order to be filled would add uncertainty to the final fill price, especially in times of heightened volatility
-   3. Max Duration: The maximum time during which the total amount of all individual trades making up the full dTWAP order may be executed. After this deadline the trade expires, regardless of actual amounts swapped.\
-      Note that all chunks may not execute in limit orders, depending on whether the price stays within the set parameters. \
-      The default recommended duration is calculated by multiplying the number of intervals by the trade interval, and then doubling this amount in order to serve as a buffer to allow sufficient time for on-chain activity. (note that setting a duration that is shorter than the above default may result in a partially filled order).
+1. Swap पेज पर जाएं और TWAP पर क्लिक करके TWAP ऑर्डर विकल्प चुनें।
+2. "From" और "To" टोकन चुनें और वह राशि दर्ज करें जिसका आप व्यापार करना चाहते हैं।
+3. UI dTWAP-market orders को सक्षम करता है, जो सभी ट्रेडों को उपलब्ध बाजार मूल्य पर निष्पादित करते हैं, और dTWAP-limit orders, जो केवल individual ट्रेडों को निष्पादित करते हैं यदि वे उपयोगकर्ता द्वारा निर्धारित मूल्य सीमा के भीतर हों। \
+   इस उदाहरण में हमने TWAP orders को बाजार मूल्य पर निष्पादित करने का चुना।
+4. अगला, हम TWAP पैरामीटर निर्दिष्ट करते हैं। dTWAP ऑर्डर की प्रभावशीलता को नियंत्रित करने वाले 3 मुख्य पैरामीटर हैं:
+   1. Total trades: उपयोगकर्ता को यह निर्दिष्ट करने की अनुमति देता है कि उनका ऑर्डर कितने individual ट्रेडों में विभाजित किया जाएगा। UI स्लाइडर 1 ट्रेड से शुरू होता है और उपयोगकर्ता को individual ट्रेडों की मात्रा बढ़ाने की या input field में सीधे total trades manually दर्ज करने की अनुमति देता है।\
+      उपयोगकर्ताओं को ध्यान देना चाहिए कि इस पैरामीटर को निर्दिष्ट करते समय एक निश्चित tradeoff होता है: अधिक ट्रेडों का मतलब है छोटे individual ट्रेड साइज़, जिसका मतलब है कम मूल्य प्रभाव। हालांकि, अधिक ट्रेडों का मतलब अधिक लेनदेन और समग्र रूप से उच्च gas fees भी है।&#x20;
+   2. Trade Interval: प्रत्येक individual ट्रेड के बीच समय का अंतर सेट करता है। UI न्यूनतम अनुमत (2 मिनट) से शुरू होता है, जो प्रत्येक chunk के बीच taker bidding war और block settlement के लिए न्यूनतम समय छोड़ता है। उपयोगकर्ता इसे अपनी इच्छित किसी भी अवधि पर सेट कर सकते हैं। पिछले ट्रेड के बाद यह समय समाप्त होने से पहले कोई ट्रेड कभी निष्पादित नहीं होगा।\
+      उपयोगकर्ताओं को इस पैरामीटर को सेट करते समय भी सावधान रहना चाहिए: लंबे अंतराल arbitrageurs को प्रभावित pools पर किसी भी मूल्य विसंगति को बंद करने और reserves को equilibrium पर वापस लाने के लिए लंबी विंडो की अनुमति देंगे (spot price के बराबर)। हालांकि, ऑर्डर भरने में अधिक समय लगेगा और अंतिम fill price में अनिश्चितता जोड़ेगा, विशेष रूप से उच्च अस्थिरता के समय में।
+   3. Max Duration: वह अधिकतम समय जिसके दौरान पूर्ण dTWAP ऑर्डर बनाने वाले सभी individual ट्रेडों की कुल राशि निष्पादित की जा सकती है। इस समय सीमा के बाद ट्रेड समाप्त हो जाता है, चाहे वास्तव में स्वैप की गई राशि कुछ भी हो।\
+      ध्यान दें कि सभी chunks limit orders में निष्पादित नहीं हो सकते, इस पर निर्भर करते हुए कि क्या मूल्य निर्धारित मापदंडों के भीतर रहता है। \
+      अनुशंसित default अवधि की गणना intervals की संख्या को trade interval से गुणा करके और फिर on-chain गतिविधि के लिए पर्याप्त समय की अनुमति देने के लिए buffer के रूप में इस राशि को दोगुना करके की जाती है। (ध्यान दें कि उपरोक्त default से कम अवधि सेट करने के परिणामस्वरूप आंशिक रूप से भरा ऑर्डर हो सकता है)।
 
-As can be seen, these parameters provide significant flexibility in customizing each order, taking into account factors like market conditions, current gas fees, etc.
+जैसा कि देखा जा सकता है, ये पैरामीटर प्रत्येक ऑर्डर को अनुकूलित करने में महत्वपूर्ण लचीलापन प्रदान करते हैं, बाजार की स्थितियों, वर्तमान gas fees आदि जैसे कारकों को ध्यान में रखते हुए।
 
-8. Press “Place order”. Double check your order details, accept the disclaimer and press “Confirm order”.
-9. Once the transaction is processed, you will be able to see your order’s status in the order history section, under “Open orders”.
-10. Open orders can be canceled at any time by expanding the order and clicking the “Cancel Order” button.
+8. "Place order" दबाएं। अपने ऑर्डर विवरण दोबारा जांचें, अस्वीकरण स्वीकार करें और "Confirm order" दबाएं।
+9. एक बार लेनदेन संसाधित होने के बाद, आप ऑर्डर इतिहास अनुभाग में "Open orders" के अंतर्गत अपने ऑर्डर की स्थिति देख सकेंगे।
+10. खुले ऑर्डर को ऑर्डर विस्तार करके और "Cancel Order" बटन पर क्लिक करके किसी भी समय रद्द किया जा सकता है।
 
-Things to take into consideration
+ध्यान देने योग्य बातें
 
-* Orders are executed in smaller trades over a specified period of time and are subject to market conditions and other risks.
-* Your trade may be executed at a price that is significantly different from the current market price (although not worse than your limit price, if you set one), which could result in significant losses. If the available market price is worse than the limit price you have set, some of the trades of your order may not be executed, resulting in a partially filled order.
-* The trades are based on a decentralized protocol that utilizes off-chain takers which compete to fill orders. These takers are entitled to request a fee, which the protocol removes for the winning taker from the output tokens.&#x20;
-* Takers may take into account gas fees for your transactions when setting their fees, which may result in fluctuations in the fee amounts.
+* ऑर्डर एक निर्दिष्ट अवधि में छोटे ट्रेडों में निष्पादित किए जाते हैं और बाजार की स्थितियों और अन्य जोखिमों के अधीन होते हैं।
+* आपका ट्रेड एक मूल्य पर निष्पादित हो सकता है जो वर्तमान बाजार मूल्य से काफी अलग है (हालांकि आपके limit price से खराब नहीं, यदि आपने एक सेट किया है), जिससे महत्वपूर्ण नुकसान हो सकता है। यदि उपलब्ध बाजार मूल्य आपके द्वारा निर्धारित limit price से खराब है, तो आपके ऑर्डर के कुछ ट्रेड निष्पादित नहीं हो सकते, जिसके परिणामस्वरूप आंशिक रूप से भरा ऑर्डर होगा।
+* ट्रेड एक decentralized protocol पर आधारित हैं जो off-chain takers का उपयोग करता है जो ऑर्डर भरने के लिए प्रतिस्पर्धा करते हैं। ये takers एक शुल्क का अनुरोध करने के हकदार हैं, जिसे protocol winning taker के लिए output tokens से हटाता है।&#x20;
+* Takers अपनी fees सेट करते समय आपके लेनदेन के लिए gas fees को ध्यान में रख सकते हैं, जिसके परिणामस्वरूप fee राशि में उतार-चढ़ाव हो सकता है।
 
 <br>

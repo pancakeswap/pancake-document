@@ -1,173 +1,173 @@
-# Pancake Gifts: How-To Guide
+# Pancake Gifts: उपयोग गाइड
 
-Pancake Gifts lets you send tokens — including optional gas — to friends, users, or community members using just a **link or QR code**. The process is quick, seamless, and beginner-friendly.
+Pancake Gifts आपको केवल एक **लिंक या QR कोड** का उपयोग करके दोस्तों, उपयोगकर्ताओं या सामुदायिक सदस्यों को टोकन — वैकल्पिक गैस सहित — भेजने देता है। यह प्रक्रिया त्वरित, सहज और शुरुआती-अनुकूल है।
 
-This guide walks you through:
+यह गाइड आपको बताती है:
 
-* ✅ How to **create** a Pancake Gift
-* ✅ How to **send or share** it
-* ✅ How to **claim** a gift
-* ✅ How to **cancel** a gift (if unclaimed)
+* ✅ Pancake Gift **कैसे बनाएं**
+* ✅ **भेजें या शेयर करें**
+* ✅ उपहार **दावा करें**
+* ✅ उपहार **रद्द करें** (यदि दावा न हुआ हो)
 
 ***
 
-### 🧑‍🍳 Step 1: Create a Gift
+### 🧑‍🍳 चरण 1: उपहार बनाएं
 
-#### 1. Navigate to the Gift Creation Tab
+#### 1. Gift Creation Tab पर जाएं
 
-Go to the **Gift tab** inside the PancakeSwap Wallet UI.
+PancakeSwap Wallet UI में **Gift tab** पर जाएं।
 
-<figure><img src="../../.gitbook/assets/image (418).png" alt="" width="306"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28418%29.png" alt="" width="306"><figcaption></figcaption></figure>
 
-#### 2. Select Tokens and Amounts
+#### 2. टोकन और राशियाँ चुनें
 
-Choose up to **two tokens** to include in your gift:
+अपने उपहार में शामिल करने के लिए **दो टोकन तक** चुनें:
 
-* **One BEP-20 token** (required) — e.g., CAKE
-* **One native gas token** (optional) — e.g., BNB
+* **एक BEP-20 टोकन** (आवश्यक) — जैसे CAKE
+* **एक नेटिव गैस टोकन** (वैकल्पिक) — जैसे BNB
 
-This setup lets you:
+यह सेटअप आपको देता है:
 
-* Send usable tokens to the recipient
-*   Cover their gas so they can transact immediately
+* प्राप्तकर्ता को उपयोगी टोकन भेजने की सुविधा
+*   उनकी गैस को कवर करने की सुविधा ताकि वे तुरंत ट्रांजेक्शन कर सकें
 
-    <figure><img src="../../.gitbook/assets/image (419).png" alt="" width="311"><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28419%29.png" alt="" width="311"><figcaption></figcaption></figure>
 
-#### 3. Choose Gift Type
+#### 3. Gift Type चुनें
 
-Select one of the following:
+निम्नलिखित में से एक चुनें:
 
-* 🔗 **Link** — Easy to copy and share via chat or socials
-* 📱 **QR Code** — Perfect for in-person events or mobile users
+* 🔗 **Link** — चैट या सोशल मीडिया के माध्यम से आसानी से कॉपी और शेयर करें
+* 📱 **QR Code** — व्यक्तिगत कार्यक्रमों या मोबाइल उपयोगकर्ताओं के लिए आदर्श
 
-> 💡 Each gift can only be claimed once, and only supports one delivery format (link or QR).
+> 💡 प्रत्येक उपहार केवल एक बार दावा किया जा सकता है, और केवल एक डिलीवरी फ़ॉर्मेट (लिंक या QR) का समर्थन करता है।
 
-<figure><img src="../../.gitbook/assets/image (420).png" alt="" width="316"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28420%29.png" alt="" width="316"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (421).png" alt="" width="311"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28421%29.png" alt="" width="311"><figcaption></figcaption></figure>
 
-#### 4. Review Summary & Pay
+#### 4. सारांश देखें और भुगतान करें
 
-Before confirming, review:
+पुष्टि करने से पहले, देखें:
 
-* **Gift Amount** — Total tokens included in the gift
-* **Gift Claim Gas Fee** — Native tokens sender included for recipient to enjoy gasless claiming (\~$0.05 in BNB)
+* **Gift Amount** — उपहार में शामिल कुल टोकन
+* **Gift Claim Gas Fee** — प्राप्तकर्ता के लिए गैसलेस दावे का आनंद लेने के लिए प्रेषक द्वारा शामिल नेटिव टोकन (\~$0.05 BNB में)
 
-Once confirmed:
+पुष्टि होने के बाद:
 
-* The gift is created and stored on-chain
-* You’ll receive a **link or QR code** — make sure to **save it before closing the popup**
+* उपहार बनाया और ऑन-चेन संग्रहीत होता है
+* आपको एक **लिंक या QR कोड** प्राप्त होगा — **पॉपअप बंद करने से पहले इसे सेव करना सुनिश्चित करें**
 
 {% hint style="danger" %}
-&#x20;If you close the popup without saving, the gift code cannot be retrieved later.
+&#x20;यदि आप इसे सेव किए बिना पॉपअप बंद करते हैं, तो gift code बाद में प्राप्त नहीं किया जा सकता।
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (422).png" alt="" width="273"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28422%29.png" alt="" width="273"><figcaption></figcaption></figure>
 
 ***
 
-### 📤 Step 2: Send or Share the Gift
+### 📤 चरण 2: उपहार भेजें या शेयर करें
 
-After creation, you'll receive either:
+निर्माण के बाद, आपको मिलेगा:
 
-* A **shareable Link**, and / or
-* A **scannable QR Code**
+* एक **शेयर करने योग्य Link**, और/या
+* एक **स्कैन करने योग्य QR Code**
 
-You can share this via:
+आप इसे इनके माध्यम से शेयर कर सकते हैं:
 
-* Chat apps (Telegram, WhatsApp)
-* Email
-* Social media
-* Direct message at events
+* चैट ऐप (Telegram, WhatsApp)
+* ईमेल
+* सोशल मीडिया
+* कार्यक्रमों में सीधा संदेश
 
 Shareable Link
 
-> Just sent you ${Gift\_Amount}! 🎉
+> अभी-अभी आपको ${Gift\_Amount} भेजा! 🎉
 >
-> Tap this link to claim it: 👉 [https://pancakeswap.finance/invite/{Gift\_Code}](https://pancakeswap.finance/invite/%7BGift_Code%7D)
+> दावा करने के लिए इस लिंक पर टैप करें: 👉 [https://pancakeswap.finance/invite/{Gift\_Code}](https://pancakeswap.finance/invite/%7BGift_Code%7D)
 >
-> Connect your wallet to complete the claim.
+> दावा पूरा करने के लिए अपना वॉलेट कनेक्ट करें।
 >
-> Or, enter the code `{Gift_Code}` manually in the PancakeSwap Wallet.
+> या, PancakeSwap Wallet में कोड `{Gift_Code}` मैन्युअली दर्ज करें।
 
 QR Code
 
-<figure><img src="../../.gitbook/assets/image (423).png" alt="" width="320"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28423%29.png" alt="" width="320"><figcaption></figcaption></figure>
 
 ***
 
-### 🎉 Step 3: Claim a Gift
+### 🎉 चरण 3: उपहार दावा करें
 
-#### 1. After connecting wallet, tap the Link or Scan the QR Code
+#### 1. वॉलेट कनेक्ट करने के बाद, Link खोलें या QR Code स्कैन करें
 
-When the recipient:
+जब प्राप्तकर्ता:
 
-* **Opens the link** or
-* **Scans the QR code**
+* **लिंक खोलता है** या
+* **QR कोड स्कैन करता है**
 
-The app will autofill the gift code. If eligible and unclaimed, the gift claim UI will load.
+ऐप gift code स्वचालित रूप से भर देगा। यदि पात्र है और दावा नहीं हुआ है, तो gift claim UI लोड होगा।
 
-<figure><img src="../../.gitbook/assets/image (424).png" alt="" width="341"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28424%29.png" alt="" width="341"><figcaption></figcaption></figure>
 
-If not, an error message will show (e.g. expired or already claimed).
+यदि नहीं, तो एक त्रुटि संदेश दिखाई देगा (जैसे समाप्त या पहले से दावा किया गया)।
 
-<figure><img src="../../.gitbook/assets/image (425).png" alt="" width="375"><figcaption></figcaption></figure>
-
-***
-
-#### 2. Approve & Receive Tokens
-
-The recipient can claim **without paying any gas** (it’s already covered).
-
-Once approved:
-
-* The BEP-20 tokens (and gas token, if included) are deposited into their wallet
-*   The gift is marked as **claimed**
-
-    <figure><img src="../../.gitbook/assets/image (426).png" alt="" width="375"><figcaption></figcaption></figure>
-
-    <figure><img src="../../.gitbook/assets/image (427).png" alt="" width="244"><figcaption></figcaption></figure>
-
-    <figure><img src="../../.gitbook/assets/image (428).png" alt="" width="334"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28425%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ***
 
-### ❌ Step 4: Cancel a Gift (If Unclaimed)
+#### 2. अनुमोदन करें और टोकन प्राप्त करें
 
-You can cancel a gift only if:
+प्राप्तकर्ता **बिना कोई गैस दिए** दावा कर सकता है (यह पहले से ही कवर है)।
 
-* It’s still **unclaimed**
-* It’s still **within the expiry window** (default: 7 days)
+अनुमोदन के बाद:
 
-To cancel:
+* BEP-20 टोकन (और गैस टोकन, यदि शामिल हो) उनके वॉलेट में जमा हो जाते हैं
+*   उपहार **claimed** के रूप में चिह्नित होता है
 
-1. Go to the **Gift History** tab
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28426%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (429).png" alt="" width="308"><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28427%29.png" alt="" width="244"><figcaption></figcaption></figure>
 
-2. Find the gift
-
-<figure><img src="../../.gitbook/assets/image (431).png" alt="" width="299"><figcaption></figcaption></figure>
-
-
-
-3. Click **Cancel**
-
-The tokens will be returned to your wallet (minus the gas sponsorship fee).
-
-> ⚠️ Cancelled gifts cannot be reactivated or reused.
-
-<figure><img src="../../.gitbook/assets/Group 1410078707.png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28428%29.png" alt="" width="334"><figcaption></figcaption></figure>
 
 ***
 
-### ✅ That’s It!
+### ❌ चरण 4: उपहार रद्द करें (यदि दावा न हुआ हो)
 
-You now know how to:
+आप उपहार केवल तभी रद्द कर सकते हैं जब:
 
-1. Create a Pancake Gift
-2. Send it to someone via link or QR
-3. Claim a gift sent to you
-4. Cancel a gift if needed
+* यह अभी भी **unclaimed** हो
+* यह अभी भी **समाप्ति विंडो के भीतर** हो (डिफ़ॉल्ट: 7 दिन)
 
-Want to view your full gift history or check statuses? Just return to the **Gift tab** in the PancakeSwap Wallet.
+रद्द करने के लिए:
+
+1. **Gift History** टैब पर जाएं
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28429%29.png" alt="" width="308"><figcaption></figcaption></figure>
+
+2. उपहार खोजें
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28431%29.png" alt="" width="299"><figcaption></figcaption></figure>
+
+
+
+3. **Cancel** पर क्लिक करें
+
+टोकन आपके वॉलेट में वापस आ जाएंगे (गैस प्रायोजन शुल्क घटाकर)।
+
+> ⚠️ रद्द किए गए उपहार पुनः सक्रिय या पुनः उपयोग नहीं किए जा सकते।
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Group%201410078707.png" alt="" width="563"><figcaption></figcaption></figure>
+
+***
+
+### ✅ बस इतना ही!
+
+अब आप जानते हैं:
+
+1. Pancake Gift कैसे बनाएं
+2. लिंक या QR के माध्यम से किसी को कैसे भेजें
+3. आपको भेजे गए उपहार का दावा कैसे करें
+4. यदि आवश्यक हो तो उपहार कैसे रद्द करें
+
+अपना पूरा gift इतिहास देखना चाहते हैं या स्थिति जाँचना चाहते हैं? बस PancakeSwap Wallet में **Gift tab** पर वापस जाएं।

@@ -1,87 +1,87 @@
 ---
-description: Simple liquidity provisioning with only one click
+description: केवल एक क्लिक में सरल तरलता प्रावधान
 hidden: true
 ---
 
 # Zap (V2)
 
-<img src="../../../.gitbook/assets/zap-0.png" alt="" data-size="original">
+<img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-0.png" alt="" data-size="original">
 
-### What is Zap? <a href="#h.lv839zkjvd8q" id="h.lv839zkjvd8q"></a>
+### Zap क्या है? <a href="#h.lv839zkjvd8q" id="h.lv839zkjvd8q"></a>
 
-Zap enables simple liquidity provision. Add liquidity with only one token and one single click, without manual swapping or token balancing.
+Zap सरल तरलता प्रावधान को सक्षम करता है। मैन्युअल Swap या टोकन संतुलन के बिना, केवल एक टोकन और एक क्लिक से तरलता जोड़ें।
 
-* Add liquidity with only one token: You can add liquidity using only one token in the trading pair. Zap will automatically perform swaps using the one token you provide and automatically balance the trading pair to a 50/50 split before adding liquidity.
-* Add liquidity with an imbalanced number of tokens in the trading pair: You can add liquidity even if the number of the tokens you provide in the trading pair is not perfectly balanced with the current pool. For example 30:70, which differs from the default pool weight of 50:50. Zap will automatically rebalance the tokens into a 50/50 split before adding liquidity.
-* Remove liquidity and choose what token(s) you want to receive: When removing liquidity, Zap allows you to receive only one token in the trading pair. Zap will automatically perform swaps before returning your tokens.
+* केवल एक टोकन से तरलता जोड़ें: आप ट्रेडिंग जोड़े में केवल एक टोकन का उपयोग करके तरलता जोड़ सकते हैं। Zap स्वचालित रूप से आपके द्वारा प्रदान किए गए एक टोकन का आधा हिस्सा ट्रेडिंग जोड़े के दूसरे टोकन में Swap करेगा और तरलता जोड़ने से पहले ट्रेडिंग जोड़े को 50/50 विभाजन में स्वचालित रूप से संतुलित करेगा।
+* असंतुलित संख्या में टोकन के साथ तरलता जोड़ें: आप तरलता जोड़ सकते हैं, भले ही आप ट्रेडिंग जोड़े में जो टोकन प्रदान करते हैं उनकी संख्या वर्तमान pool के डिफ़ॉल्ट 50:50 भार के साथ पूरी तरह संतुलित न हो। उदाहरण के लिए 30:70, जो डिफ़ॉल्ट pool भार 50:50 से भिन्न है। Zap तरलता जोड़ने से पहले टोकन को स्वचालित रूप से 50/50 विभाजन में रीबैलेंस करेगा।
+* तरलता हटाएं और चुनें कि आप कौन से टोकन प्राप्त करना चाहते हैं: तरलता हटाते समय, Zap आपको ट्रेडिंग जोड़े में केवल एक टोकन प्राप्त करने की अनुमति देता है। आपके टोकन वापस करने से पहले Zap स्वचालित रूप से Swap करेगा।
 
-### Enable Zap <a href="#h.8q1zrb4afp7i" id="h.8q1zrb4afp7i"></a>
+### Zap सक्षम करें <a href="#h.8q1zrb4afp7i" id="h.8q1zrb4afp7i"></a>
 
-By default, the Zap feature is turned on for every user. If you don’t see the new Zap UI when adding or removing liquidity, please enable it in the settings panel. You can bring up the settings panel by clicking the cog icon.
+डिफ़ॉल्ट रूप से, Zap सुविधा हर उपयोगकर्ता के लिए चालू है। यदि तरलता जोड़ते या हटाते समय आपको नया Zap UI नहीं दिखता, तो कृपया सेटिंग पैनल में इसे सक्षम करें। आप कॉग आइकन पर क्लिक करके सेटिंग पैनल खोल सकते हैं।
 
-![](../../../.gitbook/assets/zap-8.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-8.png)
 
 {% hint style="warning" %}
-Note: Currently, the Zap feature is in beta. Please note that It does not support some tokens, such as tokens with fees on transfers. If you experience any issue while adding or removing liquidity, please disable it in the settings panel.
+नोट: वर्तमान में, Zap सुविधा बीटा में है। कृपया ध्यान दें कि यह कुछ टोकन को सपोर्ट नहीं करती, जैसे ट्रांसफर पर शुल्क वाले टोकन। यदि तरलता जोड़ते या हटाते समय कोई समस्या आती है, तो कृपया इसे सेटिंग पैनल में अक्षम करें।
 {% endhint %}
 
-### Zap In (Add Liquidity) <a href="#h.xp3to7fwu7s6" id="h.xp3to7fwu7s6"></a>
+### Zap In (तरलता जोड़ें) <a href="#h.xp3to7fwu7s6" id="h.xp3to7fwu7s6"></a>
 
-Visit the [Liquidity page](https://pancakeswap.finance/liquidity), and choose “Add Liquidity”.
+[Liquidity पृष्ठ](https://pancakeswap.finance/liquidity) पर जाएं और "Add Liquidity" चुनें।
 
-Pick the trading pair you want to provide liquidity to by selecting two input tokens, checkout [Liquidity guide](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide) to learn more.
+दो इनपुट टोकन चुनकर वह ट्रेडिंग जोड़ा चुनें जिसमें आप तरलता प्रदान करना चाहते हैं, अधिक जानने के लिए [Liquidity गाइड](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide) देखें।
 
-![](../../../.gitbook/assets/zap-1.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-1.png)
 
-Click the “Add Liquidity” button to proceed.
+आगे बढ़ने के लिए "Add Liquidity" बटन पर क्लिक करें।
 
-If the token in the trading pair you are adding liquidity to has a balance in your wallet. The checkbox for that token will be automatically checked. If you have both the tokens have a balance in your wallet, both checkboxes will be checked.
+यदि ट्रेडिंग जोड़े के टोकन में से जिसमें आप तरलता जोड़ रहे हैं उसका आपके वॉलेट में बैलेंस है। उस टोकन का चेकबॉक्स स्वचालित रूप से चेक हो जाएगा। यदि आपके वॉलेट में दोनों टोकन का बैलेंस है, तो दोनों चेकबॉक्स चेक हो जाएंगे।
 
-![](../../../.gitbook/assets/zap-6.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-6.png)
 
-### Zap using one token <a href="#h.oc5fxca1vzfj" id="h.oc5fxca1vzfj"></a>
+### एक टोकन का उपयोग करके Zap करें <a href="#h.oc5fxca1vzfj" id="h.oc5fxca1vzfj"></a>
 
-You can add liquidity using only one token in the trading pair. Simple check only one checkbox for the token you wish to use. Zap will automatically swap half of the checked tokens into another token in the trading pair before adding liquidity. You will see a warning message indicating which token will be converted.
+आप ट्रेडिंग जोड़े में केवल एक टोकन का उपयोग करके तरलता जोड़ सकते हैं। बस उस टोकन के लिए केवल एक चेकबॉक्स चेक करें जिसे आप उपयोग करना चाहते हैं। Zap स्वचालित रूप से चेक किए गए टोकन का आधा हिस्सा ट्रेडिंग जोड़े के दूसरे टोकन में Swap करेगा, तरलता जोड़ने से पहले। आपको एक चेतावनी संदेश दिखाई देगा जो बताएगा कि कौन सा टोकन परिवर्तित किया जाएगा।
 
-![](../../../.gitbook/assets/zap-3.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-3.png)
 
 {% hint style="info" %}
-If the price impact is too high, Zap will protect you by slippage. Click “Reduce TOKEN” to reduce it to the preferred limit.
+यदि मूल्य प्रभाव बहुत अधिक है, Zap स्लिपेज के माध्यम से आपकी सुरक्षा करेगा। इसे पसंदीदा सीमा तक कम करने के लिए "Reduce TOKEN" पर क्लिक करें।
 {% endhint %}
 
-![](../../../.gitbook/assets/zap-7.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-7.png)
 
-### Zap using two tokens with imbalanced amounts <a href="#h.4k2b7plmt9t0" id="h.4k2b7plmt9t0"></a>
+### असंतुलित राशि के साथ दो टोकन का उपयोग करके Zap करें <a href="#h.4k2b7plmt9t0" id="h.4k2b7plmt9t0"></a>
 
-If both tokens are checked, the amounts of the input tokens don't match a 50/50 split. Zap balancing will be introduced. You will see a message of “Some of your Token A will be converted to Token B”.
+यदि दोनों टोकन चेक हैं और इनपुट टोकन की राशि 50/50 विभाजन से मेल नहीं खाती। Zap संतुलन शुरू होगा। आपको "Some of your Token A will be converted to Token B" का संदेश दिखाई देगा।
 
-![](../../../.gitbook/assets/zap-2.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-2.png)
 
 {% hint style="info" %}
-If you don’t want Zap to balance the number of tokens before adding liquidity, simply click “Don’t Convert”. In this case, Zap will adjust the number of input tokens to match a 50/50 split instead of trying to swap and rebalance.
+यदि आप नहीं चाहते कि Zap तरलता जोड़ने से पहले टोकन की संख्या को संतुलित करे, तो बस "Don't Convert" पर क्लिक करें। इस स्थिति में, Zap Swap और रीबैलेंस करने की कोशिश करने की बजाय इनपुट टोकन की संख्या को 50/50 विभाजन से मिलाने के लिए समायोजित करेगा।
 {% endhint %}
 
-### Proceed with Zap <a href="#h.t4trnmo4dzno" id="h.t4trnmo4dzno"></a>
+### Zap के साथ आगे बढ़ें <a href="#h.t4trnmo4dzno" id="h.t4trnmo4dzno"></a>
 
-When you click “Supply”, the details of the Zap will be shown and await you to confirm.
+जब आप "Supply" पर क्लिक करते हैं, तो Zap का विवरण दिखाया जाएगा और आपसे पुष्टि की प्रतीक्षा करेगा।
 
-You will see:
+आपको दिखाई देगा:
 
-1. How many LP tokens you will receive.
-2. What are the input tokens, and the number of tokens you are committing.
-3. How the input tokens are traded in order to match a 50/50 split.
-4. The slippage tolerance you are using.
+1. आपको कितने LP टोकन मिलेंगे।
+2. इनपुट टोकन क्या हैं और आप कितने टोकन जमा कर रहे हैं।
+3. इनपुट टोकन 50/50 विभाजन से मिलाने के लिए किस प्रकार व्यापार किए जाते हैं।
+4. आप जो स्लिपेज सहनशीलता उपयोग कर रहे हैं।
 
-![](../../../.gitbook/assets/zap-4.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-4.png)
 
-### Zap out (Remove Liquidity) <a href="#h.whuk5lgc371r" id="h.whuk5lgc371r"></a>
+### Zap out (तरलता हटाएं) <a href="#h.whuk5lgc371r" id="h.whuk5lgc371r"></a>
 
-Zap also enables you to receive one single token in the trading pair when removing liquidity.
+Zap आपको तरलता हटाते समय ट्रेडिंग जोड़े में एक ही टोकन प्राप्त करने की भी सुविधा देता है।
 
-1. Visit the[ ](https://www.google.com/url?q=https://exchange.pancakeswap.finance/%23/pool\&sa=D\&source=editors\&ust=1656322371442758\&usg=AOvVaw2ZJPj_97-YuUMQjQbYbfN4)[Liquidity page](https://pancakeswap.finance/swap#/pool).
-2. Click on the pair you want to remove liquidity under “Your Liquidity".
-3. Click “Remove”. A new pop-up will appear.
+1. [Liquidity पृष्ठ](https://pancakeswap.finance/swap#/pool) पर जाएं।
+2. "Your Liquidity" के अंतर्गत वह जोड़ा क्लिक करें जिससे आप तरलता हटाना चाहते हैं।
+3. "Remove" पर क्लिक करें। एक नया पॉप-अप दिखाई देगा।
 
-Under the “You Will Receive” section, you can uncheck the token you don’t want to receive. Zap will automatically swap and convert 100% of the returns into the checked token when removing liquidity.
+"You Will Receive" सेक्शन के अंतर्गत, आप वह टोकन अनचेक कर सकते हैं जो आप प्राप्त नहीं करना चाहते। Zap तरलता हटाते समय स्वचालित रूप से Swap करेगा और 100% रिटर्न को चेक किए गए टोकन में बदल देगा।
 
-![](../../../.gitbook/assets/zap-5.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-5.png)

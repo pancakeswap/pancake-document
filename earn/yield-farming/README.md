@@ -1,52 +1,52 @@
 # 🚜 Yield Farming
 
-![](../../.gitbook/assets/yield-farms-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/yield-farms-header.png)
 
-Yield Farms allow users to earn CAKE while supporting PancakeSwap by staking LP Tokens.
+यील्ड फार्म उपयोगकर्ताओं को LP टोकन स्टेक करके PancakeSwap का समर्थन करते हुए CAKE अर्जित करने की सुविधा देते हैं।
 
-Check out our [How to Use Farms guide](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) to get started with farming.
+फार्मिंग शुरू करने के लिए हमारी [फार्म का उपयोग कैसे करें गाइड](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) देखें।
 
-Learn [how to find Farm smart contracts](../../archive/how-to-use-farms-with-bscscan.md)
+[फार्म स्मार्ट कॉन्ट्रैक्ट कैसे खोजें](../../archive/how-to-use-farms-with-bscscan.md) यह जानें।
 
 {% hint style="warning" %}
-Yield farming can give better rewards than Syrup Pools, but it comes with a risk of **Impermanent Loss**. It’s not as scary as it sounds, but it is worth learning about the concept before you get started.
+यील्ड फार्मिंग सिरप पूल की तुलना में बेहतर पुरस्कार दे सकती है, लेकिन इसमें **Impermanent Loss** का जोखिम होता है। यह सुनने में जितना डरावना लगता है, उतना है नहीं — लेकिन शुरू करने से पहले इस अवधारणा को समझना उचित होगा।
 
-Check out this great [article about Impermanent Loss ](https://academy.binance.com/en/articles/impermanent-loss-explained)from Binance Academy to learn more.
+इस विषय पर अधिक जानने के लिए Binance Academy का यह बेहतरीन [Impermanent Loss पर लेख](https://academy.binance.com/en/articles/impermanent-loss-explained) पढ़ें।
 {% endhint %}
 
-## Reward calculations
+## पुरस्कार गणना
 
-Yield Farm APR calculations include both:
+यील्ड फार्म APR गणनाओं में दोनों शामिल हैं:
 
-* **LP rewards APR** earned through providing liquidity and;
-* **Farm base rewards APR** earned staking LP Tokens in the Farm.
+* **LP पुरस्कार APR** — तरलता प्रदान करने के माध्यम से अर्जित; और
+* **फार्म बेस पुरस्कार APR** — फार्म में LP टोकन स्टेक करके अर्जित।
 
-Why? Because when you stake your LP tokens in a farm to earn CAKE, you're still providing liquidity to the liquidity pool, so you earn LP rewards as well!
+ऐसा क्यों? क्योंकि जब आप CAKE अर्जित करने के लिए फार्म में अपने LP टोकन स्टेक करते हैं, तब भी आप तरलता पूल को तरलता प्रदान कर रहे होते हैं — इसलिए LP पुरस्कार भी मिलते हैं!
 
-![](<../../.gitbook/assets/Frame 1.png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Frame%201.png)
 
-So how do we calculate those figures?
+तो इन आँकड़ों की गणना कैसे होती है?
 
-### Calculating Farm Base Reward APR
+### फार्म बेस रिवॉर्ड APR की गणना
 
-The **Farm Base APR** is calculated according to the farm multiplier and the total amount of liquidity in the farm -- this is the amount of CAKE distributed to the farm.
+**फार्म बेस APR** की गणना फार्म मल्टीप्लायर और फार्म में कुल तरलता की मात्रा के आधार पर की जाती है — यह उस CAKE की मात्रा है जो फार्म को वितरित की जाती है।
 
-### Calculating LP Reward APR
+### LP रिवॉर्ड APR की गणना
 
-On top of that, farmers receive **LP rewards** for providing liquidity. Here's an example of calculating **LP rewards**:
+इसके अतिरिक्त, फार्म करने वाले उपयोगकर्ताओं को तरलता प्रदान करने के लिए **LP पुरस्कार** भी प्राप्त होते हैं। यहाँ **LP पुरस्कार** की गणना का एक उदाहरण दिया गया है:
 
 ![](https://lh4.googleusercontent.com/rJswz2qvCNTcODcClHxqlLpanSLsfbGtVw75MMPicBN1iKTKCuEYlPuoFAqskoy24DB9JBmATWb8dk3WmY1_BFDZoS94sWTBZhZrcnG711rC8ltDXPR3gdl8D50eWq_cfiBriKcl)
 
-In the WBNB/BUSD pair above, we see these values:
+ऊपर दिए गए WBNB/BUSD जोड़े में, हम ये मान देखते हैं:
 
-**Liquidity:** $387.42M\
-**Volume 24H:** $96.97M\
-**Volume 7D:** 709.73M
+**तरलता:** $387.42M\
+**24 घंटे का वॉल्यूम:** $96.97M\
+**7 दिन का वॉल्यूम:** 709.73M
 
-* Calculate yearly fees
-  * Use the 24H volume to calculate the **fee share** of liquidity providers in the pool (based on the 0.17% trading fee structure):\
+* वार्षिक शुल्क की गणना करें
+  * 24 घंटे के वॉल्यूम का उपयोग करके पूल में तरलता प्रदाताओं की **शुल्क हिस्सेदारी** की गणना करें (0.17% ट्रेडिंग शुल्क संरचना के आधार पर):\
     $96,970,000\*0.17/100 = **$164,849**
-  * Next, use that **fee share** to estimate the projected **yearly fees** earned by the pool (based on the current 24h volume):\
+  * इसके बाद उस **शुल्क हिस्सेदारी** का उपयोग करके पूल द्वारा अर्जित अनुमानित **वार्षिक शुल्क** की गणना करें (वर्तमान 24 घंटे के वॉल्यूम के आधार पर):\
     $164,849\*365 = **$60,169,885**
-* We can now use the yearly fees to calculate the **LP rewards APR:** That's **yearly fees** divided by **liquidity:**\
-  ($60,169,885/$387,420,000)\*100 = **15.53% LP reward APR**
+* अब वार्षिक शुल्क का उपयोग करके **LP पुरस्कार APR** की गणना की जा सकती है: वार्षिक शुल्क को तरलता से भाग दें:\
+  ($60,169,885/$387,420,000)\*100 = **15.53% LP रिवॉर्ड APR**

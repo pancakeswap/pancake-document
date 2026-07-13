@@ -1,71 +1,71 @@
 ---
-description: veCAKE Staking and Farming Boost
+description: veCAKE Staking और Farming Boost
 ---
 
-# How to use the new bCAKE
+# नए bCAKE का उपयोग कैसे करें
 
-<figure><img src="../../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2887%29.png" alt=""><figcaption></figcaption></figure>
 
-Like iCAKE and vCAKE, bCAKE is a veCAKE staking benefit designed for our loyal CAKE holders. By locking CAKE, you get veCAKE, which automatically gives you bCAKE. You can boost earning from selected farms up to 2.5x.
+iCAKE और vCAKE की तरह, bCAKE भी हमारे loyal CAKE holders के लिए डिज़ाइन किया गया veCAKE staking benefit है। CAKE lock करके, आपको veCAKE मिलता है, जो स्वचालित रूप से आपको bCAKE देता है। आप चुनिंदा farms से earning को 2.5x तक boost कर सकते हैं।
 
-The boost multiplier is calculated based on your veCAKE balance, and how much liquidity in the farm you are trying to boost.
+Boost multiplier की गणना आपके veCAKE balance और उस farm में आपकी तरलता की मात्रा के आधार पर की जाती है जिसे आप boost करने की कोशिश कर रहे हैं।
 
-## Preparations <a href="#id-9ad80126-6efe-49c2-b203-3590093b92d6" id="id-9ad80126-6efe-49c2-b203-3590093b92d6"></a>
+## तैयारी <a href="#id-9ad80126-6efe-49c2-b203-3590093b92d6" id="id-9ad80126-6efe-49c2-b203-3590093b92d6"></a>
 
-#### **Initiate a fixed-term veCAKE staking position** <a href="#id-3e485cf0-a9c5-408d-ab19-3ad2a7852589" id="id-3e485cf0-a9c5-408d-ab19-3ad2a7852589"></a>
+#### **एक fixed-term veCAKE staking position शुरू करें** <a href="#id-3e485cf0-a9c5-408d-ab19-3ad2a7852589" id="id-3e485cf0-a9c5-408d-ab19-3ad2a7852589"></a>
 
-![](<../../../.gitbook/assets/image (78).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2878%29.png)
 
-If you haven't locked any CAKE in the veCAKE pool, click "Go to Pool" and follow the instructions to initiate a fixed-term staking position.
+यदि आपने veCAKE pool में कोई CAKE lock नहीं किया है, तो "Go to Pool" पर क्लिक करें और fixed-term staking position शुरू करने के निर्देशों का पालन करें।
 
-To learn more about how to initiate a veCAKE staking position, read [here](https://docs.pancakeswap.finance/products/syrup-pool/new-cake-pool#fixed-term-staking).
+Fixed-term veCAKE staking position शुरू करने के बारे में अधिक जानने के लिए, [यहाँ](https://docs.pancakeswap.finance/products/syrup-pool/new-cake-pool#fixed-term-staking) पढ़ें।
 
-#### Locate the farm and the position you want to boost <a href="#cf04ee3e-9678-4fc4-bf79-dcc5620a83fd" id="cf04ee3e-9678-4fc4-bf79-dcc5620a83fd"></a>
+#### वह farm और position खोजें जिसे आप boost करना चाहते हैं <a href="#cf04ee3e-9678-4fc4-bf79-dcc5620a83fd" id="cf04ee3e-9678-4fc4-bf79-dcc5620a83fd"></a>
 
-You can only boost your earning from farms with bCAKE enabled. To look for those farms, check the APR section and look for a green APR figure with a green rocket icon.
+आप केवल bCAKE enabled farms से ही अपनी earning boost कर सकते हैं। उन farms को खोजने के लिए, APR section जाँचें और हरे rocket icon के साथ हरे APR figure की तलाश करें।
 
-![](<../../../.gitbook/assets/image (83).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2883%29.png)
 
-Alternatively, use the “Booster Available” filter within the “Farm Types” selector to quickly filter all the bCAKE-enabled farms.
+वैकल्पिक रूप से, सभी bCAKE-enabled farms को जल्दी से filter करने के लिए "Farm Types" selector के अंदर "Booster Available" filter का उपयोग करें।
 
-![](<../../../.gitbook/assets/image (76).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2876%29.png)
 
-#### Stake your position
+#### अपनी position stake करें
 
-In order to activate bCAKE, your position must be staking in the farm.
+bCAKE activate करने के लिए, आपकी position farm में stake होनी चाहिए।
 
-* For V3: stake your LP position by clicking “Stake”.
-* For V2 and StableSwap: stake your LP token by clicking “Add LP”.
-* For Position Managers: add liquidity by clicking “Add Liquidity”.
+* V3 के लिए: "Stake" पर क्लिक करके अपनी LP position stake करें।
+* V2 और StableSwap के लिए: "Add LP" पर क्लिक करके अपना LP token stake करें।
+* Position Managers के लिए: "Add Liquidity" पर क्लिक करके तरलता जोड़ें।
 
-To learn more about yield farming, check out [this](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) tutorial.
+यील्ड फार्मिंग के बारे में अधिक जानने के लिए, [यह](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) tutorial देखें।
 
-#### Activate bCAKE <a href="#b3a80f22-5043-4e4b-afae-93b4abec504e" id="b3a80f22-5043-4e4b-afae-93b4abec504e"></a>
+#### bCAKE activate करें <a href="#b3a80f22-5043-4e4b-afae-93b4abec504e" id="b3a80f22-5043-4e4b-afae-93b4abec504e"></a>
 
-bCAKE activation is now fully automatic.&#x20;
+bCAKE activation अब पूरी तरह स्वचालित है।&#x20;
 
-<figure><img src="../../../.gitbook/assets/Frame 883379190.png" alt="" width="174"><figcaption><p>V3 Farm</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Frame%20883379190.png" alt="" width="174"><figcaption><p>V3 Farm</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Connected - Has LP - Has veCAKE - Boosted automatically.png" alt="" width="174"><figcaption><p>V2, StableSwap</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Connected%20-%20Has%20LP%20-%20Has%20veCAKE%20-%20Boosted%20automatically.png" alt="" width="174"><figcaption><p>V2, StableSwap</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Connected - Has liquidity - Has veCAKE - Boosted automatically.png" alt="" width="174"><figcaption><p>Position Manager</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Connected%20-%20Has%20liquidity%20-%20Has%20veCAKE%20-%20Boosted%20automatically.png" alt="" width="174"><figcaption><p>Position Manager</p></figcaption></figure>
 
-Once staked, you should see the applied boost multiplier for the farm you are currently staking. To learn more about how the bCAKE multiplier is calculated, read [here](https://docs.pancakeswap.finance/products/yield-farming/bcake/faq#why-do-my-multipliers-change-even-after-activation).
+Stake होने के बाद, आप उस farm के लिए applied boost multiplier देखेंगे जिसमें आप वर्तमान में staking कर रहे हैं। bCAKE multiplier की गणना कैसे होती है, इसके बारे में अधिक जानने के लिए, [यहाँ](https://docs.pancakeswap.finance/products/yield-farming/bcake/faq#why-do-my-multipliers-change-even-after-activation) पढ़ें।
 
 {% hint style="info" %}
-Please note that any user actions to the farming position or veCAKE staking will automatically update your boost multiplier based on the latest data and statistics from farms and the CAKE staking pool.
+कृपया ध्यान दें कि farming position या veCAKE staking में कोई भी user action, farms और CAKE staking pool से नवीनतम data और statistics के आधार पर आपके boost multiplier को स्वचालित रूप से अपडेट करेगा।
 
-Learn more [here](https://docs.pancakeswap.finance/products/yield-farming/bcake/faq#why-do-my-multipliers-change-even-after-activation).
+अधिक जानें [यहाँ](https://docs.pancakeswap.finance/products/yield-farming/bcake/faq#why-do-my-multipliers-change-even-after-activation)।
 {% endhint %}
 
-There is no longer a limit to the number of farming positions that are able to boost simultaneously. As long as the veCAKE staking position is active, you may boost an unlimited number of farms, and position managers position.
+अब एक साथ boost होने वाली farming positions की संख्या की कोई सीमा नहीं है। जब तक veCAKE staking position सक्रिय है, आप असीमित संख्या में farms और position managers positions boost कर सकते हैं।
 
-#### Unset bCAKE <a href="#id-6fa438f5-eea6-4d66-9b56-24780cedd273" id="id-6fa438f5-eea6-4d66-9b56-24780cedd273"></a>
+#### bCAKE Unset करें <a href="#id-6fa438f5-eea6-4d66-9b56-24780cedd273" id="id-6fa438f5-eea6-4d66-9b56-24780cedd273"></a>
 
-bCAKE unset is now also fully automatic.
+bCAKE unset अब पूरी तरह स्वचालित है।
 
-To unset bCAKE boost, simply remove your liquidity.
+bCAKE boost unset करने के लिए, बस अपनी तरलता हटाएं।
 
-* For V3: unstake your LP position by clicking “Unstake”.
-* For V2 and StableSwap: unstake your LP token by clicking the “-” minus button.
-* For Position Managers: remove liquidity by clicking the “-” minus button.
+* V3 के लिए: "Unstake" पर क्लिक करके अपनी LP position unstake करें।
+* V2 और StableSwap के लिए: "-" minus बटन पर क्लिक करके अपना LP token unstake करें।
+* Position Managers के लिए: "-" minus बटन पर क्लिक करके तरलता हटाएं।

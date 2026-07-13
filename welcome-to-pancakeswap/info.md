@@ -1,25 +1,25 @@
-# 📈 Analytics (Info Page)
+# 📈 Analytics (Info पृष्ठ)
 
-## Info Page&#x20;
+## Info पृष्ठ&#x20;
 
-View PancakeSwap's native analytics site here: [https://pancakeswap.finance/info](https://pancakeswap.finance/info)
+PancakeSwap की मूल analytics साइट यहाँ देखें: [https://pancakeswap.finance/info](https://pancakeswap.finance/info)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-All core metrics data are sourced from the PCS internal Indexer, which, in turn, gathers data from events triggered when the contract is called.&#x20;
+सभी core metrics डेटा PCS आंतरिक Indexer से प्राप्त होते हैं, जो कॉन्ट्रैक्ट call होने पर triggered events से डेटा एकत्र करता है।&#x20;
 
-For the date dimension in the PancakeSwap's internal indexer, we use international standard time (UTC) for daily statistics. Therefore, when the horizontal axis on the Dashboard displays a date, it represents the date in international standard time (UTC).<br>
+PancakeSwap के आंतरिक indexer में दिनांक आयाम के लिए, हम दैनिक आँकड़ों के लिए अंतर्राष्ट्रीय मानक समय (UTC) का उपयोग करते हैं। इसलिए, जब Dashboard पर क्षैतिज अक्ष कोई तिथि दर्शाता है, तो वह अंतर्राष्ट्रीय मानक समय (UTC) में तिथि को दर्शाता है।<br>
 
 ## Core Metrics
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXemXpjzW0IqGPjz6IISjhcIXzWWeeFyxXU7XLRumCxM6WQsr4IKMP_mwDhiMDGY9EUDtKZAKoeYsbYUXwRc2C2KBvoSRo_-tlxq09zOJ1ajIq00cXM6z_7-2RNv3rVWj_kBmLiY4Q?key=G7-HCtdmBA4wyp9ESrWifFqi" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXemXpjzW0IqGPjz6IISjhcIXzWWeeFyxXU7XLRumCxM6WQsr4IKMP_mwDhiMDGY9EUDtKZAKoeYsbYYUXwRc2C2KBvoSRo_-tlxq09zOJ1ajIq00cXM6z_7-2RNv3rVWj_kBmLiY4Q?key=G7-HCtdmBA4wyp9ESrWifFqi" alt=""><figcaption></figcaption></figure>
 
-**Volume (Trading Volume):** We monitor the daily data for each trading pair and the daily trading data for each token. The daily trading volume is determined by multiplying the trading volume of each token for the day by its price.
+**Volume (ट्रेडिंग वॉल्यूम):** हम प्रत्येक ट्रेडिंग जोड़े के दैनिक डेटा और प्रत्येक टोकन के दैनिक ट्रेडिंग डेटा की निगरानी करते हैं। दैनिक ट्रेडिंग वॉल्यूम की गणना दिन के प्रत्येक टोकन के ट्रेडिंग वॉल्यूम को उसकी कीमत से गुणा करके की जाती है।
 
-**Total Value Locked:** Get all pools from internal Indexer and read the reserve\_usd or total\_value\_locked\_usd from each pool.&#x20;
+**Total Value Locked:** आंतरिक Indexer से सभी pools प्राप्त करें और प्रत्येक pool से reserve\_usd या total\_value\_locked\_usd पढ़ें।&#x20;
 
-**Price:** In the PCS Internal Indexer, we utilize several base pools to calculate USD-related prices. The primary pool is the stablecoin trading pool, where we use the trading pool with the highest volume as the base pool and calculate the USD price of the stablecoin based on the trading volume weight. Additionally, the trading pool of the base token to the chain's stablecoin is also considered a base pool to provide the USD price.
+**Price:** PCS आंतरिक Indexer में, हम USD-संबंधित कीमतों की गणना के लिए कई base pools का उपयोग करते हैं। प्राथमिक pool stablecoin ट्रेडिंग pool है, जहाँ हम सबसे अधिक वॉल्यूम वाले ट्रेडिंग pool को base pool के रूप में उपयोग करते हैं और ट्रेडिंग वॉल्यूम भार के आधार पर stablecoin की USD कीमत की गणना करते हैं। इसके अलावा, chain के stablecoin के साथ base token का ट्रेडिंग pool भी USD कीमत प्रदान करने के लिए base pool माना जाता है।
 
-_Tokens that are not whitelisted or not paired with whitelisted tokens are excluded from these calculations._
+_जो टोकन whitelist में नहीं हैं या whitelisted टोकनों के साथ जोड़े नहीं हैं, उन्हें इन गणनाओं से बाहर रखा जाता है।_
 
 <br>

@@ -1,130 +1,130 @@
-# Key Features
+# प्रमुख विशेषताएँ
 
 ### 1️⃣ Singleton
 
-In PancakeSwap v3, every liquidity pool had its own contract, which made creating pools and swapping across multiple pools more expensive.
+PancakeSwap v3 में, प्रत्येक तरलता पूल का अपना कॉन्ट्रैक्ट था, जिससे पूल बनाना और कई पूलों में स्वैप करना अधिक महँगा हो जाता था।
 
-Infinity fixes this by implementing the Singleton model. Now, all pools live inside a single contract called the PoolManager. This change cuts pool creation gas costs by up to 99% and makes multi-hop swaps (swaps that go through multiple pools) much cheaper by avoiding unnecessary token transfers.
+Infinity इसे Singleton मॉडल लागू करके ठीक करता है। अब, सभी पूल PoolManager नामक एक ही कॉन्ट्रैक्ट के अंदर रहते हैं। इस बदलाव से पूल निर्माण गैस लागत 99% तक कम हो जाती है और multi-hop swaps (जो कई पूलों से गुजरते हैं) को अनावश्यक टोकन ट्रांसफर से बचाकर बहुत सस्ता बनाते हैं।
 
-#### ⚙️ **How it works:**
+#### ⚙️ **यह कैसे काम करता है:**
 
-* Each pool’s data is stored in a shared contract using a unique pool ID.
-* Creating a new pool is now just a state update, not a full contract deployment.
-* Swapping across pools is faster and uses less gas.<br>
+* प्रत्येक पूल का डेटा एक अद्वितीय pool ID का उपयोग करके एक साझा कॉन्ट्रैक्ट में संग्रहीत किया जाता है।
+* एक नया पूल बनाना अब पूर्ण कॉन्ट्रैक्ट तैनाती के बजाय केवल एक state update है।
+* पूलों में स्वैप करना तेज़ है और कम गैस का उपयोग करता है।<br>
 
-This Singleton approach, along with other optimizations like Flash Accounting and ERC-6909, helps make PancakeSwap Infinity one of the most gas-efficient DEX platforms available today.
+यह Singleton दृष्टिकोण, Flash Accounting और ERC-6909 जैसे अन्य अनुकूलन के साथ, PancakeSwap Infinity को आज उपलब्ध सबसे गैस-कुशल DEX प्लेटफार्मों में से एक बनाने में मदद करता है।
 
 ***
 
 ### ⚡️ Flash Accounting
 
-Flash Accounting is a powerful optimization in PancakeSwap Infinity that helps reduce gas fees during complex transactions like multi-hop swaps and liquidity changes.
+Flash Accounting PancakeSwap Infinity में एक शक्तिशाली अनुकूलन है जो multi-hop swaps और तरलता परिवर्तन जैसे जटिल लेनदेन के दौरान गैस शुल्क को कम करने में मदद करता है।
 
-In older versions (like v3), tokens were moved in and out of each pool during every step of a transaction. This led to high gas costs, especially for multi-hop swaps.
+पुराने संस्करणों (जैसे v3) में, लेनदेन के प्रत्येक चरण में टोकन प्रत्येक पूल में और बाहर स्थानांतरित किए जाते थे। इससे विशेष रूप से multi-hop swaps के लिए उच्च गैस लागत आती थी।
 
-With Flash Accounting, that’s no longer necessary. Instead of moving tokens after each step, PancakeSwap Infinity keeps track of all token movements internally and only makes one final transfer at the end of the whole transaction. This saves a lot of gas.
+Flash Accounting के साथ, यह अब आवश्यक नहीं है। प्रत्येक चरण के बाद टोकन स्थानांतरित करने के बजाय, PancakeSwap Infinity सभी टोकन आंदोलनों को आंतरिक रूप से ट्रैक करता है और पूरे लेनदेन के अंत में केवल एक अंतिम ट्रांसफर करता है। इससे बहुत सारी गैस की बचत होती है।
 
-#### ⚙️ **How It Works:**
+#### ⚙️ **यह कैसे काम करता है:**
 
-* When you interact with Infinity (e.g., swapping or adding liquidity), the system calculates the net balance of tokens you owe or receive.
-* These net token balances are stored temporarily using Transient Storage, a new feature introduced with Ethereum’s Cancun upgrade (EIP-1153).
-* Transient Storage is cheaper than traditional storage because it only lasts for the duration of the transaction — no permanent writing or reading is needed.
+* जब आप Infinity के साथ इंटरैक्ट करते हैं (जैसे, स्वैप करना या तरलता जोड़ना), तो सिस्टम आपके द्वारा देय या प्राप्त टोकन के शुद्ध संतुलन की गणना करता है।
+* इन शुद्ध टोकन संतुलनों को Transient Storage का उपयोग करके अस्थायी रूप से संग्रहीत किया जाता है, जो Ethereum के Cancun upgrade (EIP-1153) के साथ पेश की गई एक नई सुविधा है।
+* Transient Storage पारंपरिक storage की तुलना में सस्ती है क्योंकि यह केवल लेनदेन की अवधि के लिए रहती है — कोई स्थायी लेखन या पढ़ने की आवश्यकता नहीं।
 
 ***
 
 ### 🪙 Native Token Support
 
-With the introduction of Singleton architecture and Flash Accounting, PancakeSwap Infinity now supports native gas tokens (e.g., BNB, ETH) directly in liquidity pools — no more wrapping and unwrapping required.
+Singleton architecture और Flash Accounting के परिचय के साथ, PancakeSwap Infinity अब तरलता पूलों में सीधे native gas tokens (जैसे BNB, ETH) का समर्थन करता है — अब wrapping और unwrapping की आवश्यकता नहीं।
 
-#### ✅ Key Highlights
+#### ✅ प्रमुख बिंदु
 
-* **Direct Native Token Pools:** You can now create pools like ETH/USDC, BNB/CAKE without needing WETH or WBNB.
-* **Gas Efficient:** Native token transfers are \~50% cheaper than ERC-20 token transfers, leading to lower gas costs for swaps and liquidity actions.<br>
+* **Direct Native Token Pools:** अब आप WETH या WBNB की आवश्यकता के बिना ETH/USDC, BNB/CAKE जैसे पूल बना सकते हैं।
+* **गैस कुशल:** Native token transfers, ERC-20 token transfers की तुलना में \~50% सस्ते हैं, जिससे स्वैप और तरलता क्रियाओं के लिए गैस लागत कम होती है।<br>
 
-**Previously Removed, Now Re-enabled:** Native token support was absent in earlier versions due to implementation complexity and liquidity fragmentation.
+**पहले हटाया गया, अब पुनः सक्षम:** कार्यान्वयन जटिलता और तरलता विखंडन के कारण Native token support पहले के संस्करणों में अनुपस्थित था।
 
 ***
 
 ### 📈 Custom Pricing Curves
 
-PancakeSwap Infinity gives developers the power to create custom pricing models for pools — moving beyond the traditional model used in most AMMs.
+PancakeSwap Infinity डेवलपर्स को पूलों के लिए कस्टम मूल्य निर्धारण मॉडल बनाने की शक्ति देता है — अधिकांश AMM में उपयोग किए जाने वाले पारंपरिक मॉडल से आगे जाते हुए।
 
 {% hint style="success" %}
-**Developers can build entirely new swap behaviors and liquidity models tailored to specific asset types or trading strategies.**
+**डेवलपर्स पूरी तरह से नए swap व्यवहार और तरलता मॉडल बना सकते हैं जो विशिष्ट संपत्ति प्रकारों या ट्रेडिंग रणनीतियों के अनुरूप हों।**
 {% endhint %}
 
-#### 🔧 What Are Custom Pricing Curves?
+#### 🔧 Custom Pricing Curves क्या हैं?
 
-Custom pricing curves allow developers to:
+Custom pricing curves डेवलपर्स को इसकी अनुमति देते हैं:
 
-* Bypass the native pool manager logic, creating pools with custom-defined swap behaviors.
-* Alter how token amounts are calculated for swaps or liquidity modifications.
-* Incorporate custom fee mechanics, such as:
-  * Liquidity withdrawal fees
-  * Rebates or penalties based on strategy
+* native pool manager लॉजिक को bypass करना, कस्टम-परिभाषित swap व्यवहार वाले पूल बनाना।
+* swaps या तरलता संशोधनों के लिए टोकन मात्राओं की गणना कैसे की जाती है इसे बदलना।
+* कस्टम शुल्क mechanics को शामिल करना, जैसे:
+  * तरलता निकासी शुल्क
+  * रणनीति के आधार पर Rebates या penalties
 
-All of this is made possible through before / after swap hook callbacks, which can intercept and modify swap parameters dynamically.
+यह सब before / after swap hook callbacks के माध्यम से संभव है, जो swap parameters को गतिशील रूप से intercept और संशोधित कर सकते हैं।
 
-#### 🛠 Example Use Cases
+#### 🛠 उपयोग के उदाहरण
 
-* **StableSwap Curves:** Design flatter curves around a 1:1 price ratio, reducing price impact between assets like USDC and USDT.
-* **RWAs:** Create custom behaviors for different asset types with dynamic supply.
-* **Hook-Level Fees:** Charge unique fees that differ from pool-level fees, such as developer fees.
-* **Custom Risk Models:** Adjust pricing to reflect volatility, oracle data, or external metrics.
+* **StableSwap Curves:** USDC और USDT जैसी संपत्तियों के बीच मूल्य प्रभाव को कम करते हुए 1:1 मूल्य अनुपात के आसपास flatter curves डिज़ाइन करें।
+* **RWAs:** गतिशील आपूर्ति के साथ विभिन्न संपत्ति प्रकारों के लिए कस्टम व्यवहार बनाएं।
+* **Hook-Level Fees:** अद्वितीय शुल्क लगाएं जो पूल-स्तरीय शुल्क से भिन्न हों, जैसे डेवलपर शुल्क।
+* **Custom Risk Models:** अस्थिरता, oracle डेटा, या बाहरी मेट्रिक्स को प्रतिबिंबित करने के लिए मूल्य निर्धारण समायोजित करें।
 
 {% hint style="info" %}
-In previous AMM versions (e.g., PancakeSwap v2/v3), pricing logic was hardcoded and rigid. PancakeSwap Infinity’s architecture unlocks the ability to build more capital-efficient and tailored pools.
+पिछले AMM संस्करणों (जैसे PancakeSwap v2/v3) में, मूल्य निर्धारण लॉजिक hardcoded और rigid था। PancakeSwap Infinity की architecture अधिक पूँजी-कुशल और अनुकूलित पूल बनाने की क्षमता को अनलॉक करती है।
 {% endhint %}
 
-#### 🔍 Developer Flexibility
+#### 🔍 डेवलपर लचीलापन
 
-* Developers can deploy custom hook contracts to override the pricing logic.
-* Hook callbacks such as beforeSwap and afterSwap allow full control over how token deltas are calculated and applied.
+* डेवलपर मूल्य निर्धारण लॉजिक को override करने के लिए कस्टम hook कॉन्ट्रैक्ट तैनात कर सकते हैं।
+* beforeSwap और afterSwap जैसे Hook callbacks टोकन deltas की गणना और लागू करने के तरीके पर पूर्ण नियंत्रण देते हैं।
 
 ***
 
-### 🧮 ERC-6909: Efficient Multi-Token Accounting
+### 🧮 ERC-6909: कुशल Multi-Token Accounting
 
-PancakeSwap Infinity adopts[ ERC-6909](https://eips.ethereum.org/EIPS/eip-6909), a lightweight and gas-efficient token standard designed for internal accounting of multiple tokens within a single contract. It replaces many traditional ERC-20 operations with mint and burn primitives—leading to significant gas savings and simplified transaction flows.
+PancakeSwap Infinity [ERC-6909](https://eips.ethereum.org/EIPS/eip-6909) को अपनाता है, एक हल्का और गैस-कुशल टोकन मानक जो एक ही कॉन्ट्रैक्ट में कई टोकनों के आंतरिक accounting के लिए डिज़ाइन किया गया है। यह mint और burn primitives के साथ कई पारंपरिक ERC-20 operations को प्रतिस्थापित करता है — जिससे महत्वपूर्ण गैस बचत और सरलीकृत लेनदेन प्रवाह होता है।
 
-#### ⚙️ How It Works
+#### ⚙️ यह कैसे काम करता है
 
-Rather than moving tokens in and out of the protocol with each interaction, ERC-6909 tokens represent internal balances:
+प्रत्येक इंटरैक्शन के साथ प्रोटोकॉल में और बाहर टोकन स्थानांतरित करने के बजाय, ERC-6909 tokens आंतरिक बैलेंस का प्रतिनिधित्व करते हैं:
 
-* Mint: When users deposit tokens or perform a trade, they can choose to receive ERC-6909 tokens as claims.
-* Burn: Later, instead of transferring ERC-20 tokens again, users can simply burn these ERC-6909 tokens to settle balances or fund new operations.
+* Mint: जब उपयोगकर्ता टोकन जमा करते हैं या कोई ट्रेड करते हैं, तो वे claim के रूप में ERC-6909 tokens प्राप्त करना चुन सकते हैं।
+* Burn: बाद में, ERC-20 tokens फिर से ट्रांसफर करने के बजाय, उपयोगकर्ता बैलेंस settle करने या नए operations को fund करने के लिए बस इन ERC-6909 tokens को burn कर सकते हैं।
 
-This model drastically reduces the need for external token transfers, which typically incur higher gas costs and interact with third-party logic (e.g., USDC's blacklisting checks).
+यह मॉडल बाहरी टोकन ट्रांसफर की आवश्यकता को काफी कम करता है, जो आमतौर पर उच्च गैस लागत वहन करते हैं और third-party लॉजिक (जैसे USDC की blacklisting जाँच) के साथ इंटरैक्ट करते हैं।
 
-#### 🪙 Benefits of ERC-6909
+#### 🪙 ERC-6909 के लाभ
 
-<table><thead><tr><th width="262.9921875">Feature</th><th width="497.7421875">Benefit</th></tr></thead><tbody><tr><td>✅ Internal Balance Claims</td><td>No need to transfer tokens repeatedly between user and contract</td></tr><tr><td>✅ Gas-Efficient Mint/Burn</td><td>Constant overhead regardless of token, no external contract calls</td></tr><tr><td>✅ Simpler Than ERC-1155</td><td>Smaller code size, no callbacks, no batched transfer requirements</td></tr><tr><td>✅ Multi-Token Support</td><td>A single contract can track multiple token types with isolated balances</td></tr><tr><td>✅ Seamless with PoolManager</td><td>Eliminates redundant ERC-20 approvals and transfers</td></tr></tbody></table>
+<table><thead><tr><th width="262.9921875">विशेषता</th><th width="497.7421875">लाभ</th></tr></thead><tbody><tr><td>✅ Internal Balance Claims</td><td>उपयोगकर्ता और कॉन्ट्रैक्ट के बीच बार-बार टोकन ट्रांसफर की आवश्यकता नहीं</td></tr><tr><td>✅ गैस-कुशल Mint/Burn</td><td>टोकन के बावजूद स्थिर overhead, कोई बाहरी कॉन्ट्रैक्ट calls नहीं</td></tr><tr><td>✅ ERC-1155 से सरल</td><td>छोटा कोड आकार, कोई callbacks नहीं, कोई batched transfer आवश्यकता नहीं</td></tr><tr><td>✅ Multi-Token Support</td><td>एक ही कॉन्ट्रैक्ट अलग-अलग बैलेंस के साथ कई टोकन प्रकारों को ट्रैक कर सकता है</td></tr><tr><td>✅ PoolManager के साथ निर्बाध</td><td>redundant ERC-20 approvals और transfers को समाप्त करता है</td></tr></tbody></table>
 
-#### 🚀 Use Cases
+#### 🚀 उपयोग के मामले
 
-* **High-frequency traders:** Avoid gas-heavy transfers and interact directly using internal balances.
-* **Liquidity managers:** Open and close positions more efficiently without excessive token movements.
+* **High-frequency traders:** गैस-भारी transfers से बचें और सीधे आंतरिक बैलेंस का उपयोग करके इंटरैक्ट करें।
+* **Liquidity managers:** अत्यधिक टोकन आंदोलनों के बिना पोजीशन अधिक कुशलतापूर्वक खोलें और बंद करें।
 
-#### 💡 Key Notes
+#### 💡 मुख्य नोट्स
 
-* Users opt-in to ERC-6909 flow when they don’t need to immediately settle token transfers.
-* Internal balances can be consolidated and net-settled later, giving power users greater control and flexibility.
+* उपयोगकर्ता ERC-6909 flow में तब opt-in करते हैं जब उन्हें टोकन ट्रांसफर तुरंत settle करने की आवश्यकता नहीं होती।
+* आंतरिक बैलेंस को बाद में consolidated और net-settled किया जा सकता है, जिससे power users को अधिक नियंत्रण और लचीलापन मिलता है।
 
 ***
 
 ### 💸 Donate Method
 
-The `donate()` method allows users to directly incentivize in-range liquidity providers within a pool by donating tokens. This method relies on the pool's fee accounting system to facilitate the payments, ensuring that only pool tokens are supported.
+`donate()` method उपयोगकर्ताओं को टोकन donate करके किसी पूल के भीतर in-range तरलता प्रदाताओं को सीधे प्रोत्साहित करने की अनुमति देता है। यह method पूल के शुल्क accounting system पर निर्भर करती है ताकि भुगतान सुगम हो, यह सुनिश्चित करते हुए कि केवल pool tokens समर्थित हैं।
 
-#### 🔹 Key Features:
+#### 🔹 प्रमुख विशेषताएँ:
 
-* **Direct Payments to LPs:** Donations are made directly to liquidity providers, rewarding those who maintain liquidity within the active range of the pool.
-* **Supports Pool Tokens Only:** The `donate()` method only supports donations in the pool's tokens, as it leverages the fee accounting system to ensure proper distribution.
-* **Open to All Users:** Any user can call the `donate()` method, enabling anyone to incentivize active liquidity provision.
+* **LPs को Direct Payments:** Donations सीधे तरलता प्रदाताओं को की जाती हैं, उन लोगों को पुरस्कृत करते हुए जो पूल की सक्रिय सीमा के भीतर तरलता बनाए रखते हैं।
+* **केवल Pool Tokens का समर्थन:** `donate()` method केवल पूल के टोकनों में donations का समर्थन करती है, क्योंकि यह उचित वितरण सुनिश्चित करने के लिए शुल्क accounting system का लाभ उठाती है।
+* **सभी उपयोगकर्ताओं के लिए खुला:** कोई भी उपयोगकर्ता `donate()` method को call कर सकता है, जिससे कोई भी सक्रिय तरलता प्रावधान को प्रोत्साहित कर सकता है।
 
-While the `donate()` method is a powerful tool to incentivize LPs, donors should be aware that their donations may be front run by other users. This can occur when a user quickly adds liquidity to the pool right before a donation is made, receiving a portion of the donated funds.
+हालाँकि `donate()` method LPs को प्रोत्साहित करने का एक शक्तिशाली उपकरण है, donors को ध्यान रखना चाहिए कि उनकी donations अन्य उपयोगकर्ताओं द्वारा front run की जा सकती हैं। यह तब हो सकता है जब कोई उपयोगकर्ता donation से ठीक पहले पूल में तरलता जल्दी से जोड़ता है, donated funds का एक हिस्सा प्राप्त करता है।
 
-To prevent front-running, donors may need to consider additional strategies when designing their donation mechanisms, such as:
+फ्रंटरनिंग को रोकने के लिए, donors को अपने donation mechanisms को डिज़ाइन करते समय अतिरिक्त रणनीतियों पर विचार करने की आवश्यकता हो सकती है, जैसे:
 
-* Ensuring that donations occur in a way that minimizes the ability for opportunistic front-running.
-* Adding time delays or specific conditions (using before / after donate hook callbacks) that ensure the donations are not being exploited in this way.
+* यह सुनिश्चित करना कि donations इस तरह से हों जो अवसरवादी फ्रंटरनिंग की क्षमता को कम करे।
+* time delays या विशिष्ट शर्तें जोड़ना (before / after donate hook callbacks का उपयोग करके) जो यह सुनिश्चित करें कि donations का इस तरह से शोषण न हो।

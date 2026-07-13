@@ -1,16 +1,15 @@
-# 🤙 Contact Us
+# 🤙 हमसे संपर्क करें
 
-![](../../.gitbook/assets/contact-us-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/contact-us-header.png)
 
-## Business Contacts
+## व्यावसायिक संपर्क
 
-### [List a Token](https://docs.pancakeswap.finance/ecosystem-and-partnerships/business-partnerships/commonly-asked-business-partnerships-questions#listing-on-the-exchange)
+### [टोकन सूचीबद्ध करें](https://docs.pancakeswap.finance/ecosystem-and-partnerships/business-partnerships/commonly-asked-business-partnerships-questions#listing-on-the-exchange)
 
-### [Apply for Yield Farm or Syrup Pool](business-partnerships/syrup-pools.md)
+### [Yield Farm या Syrup Pool के लिए आवेदन करें](business-partnerships/syrup-pools.md)
 
-### [Apply for an IFO (Token Sale)](business-partnerships/initial-farm-offerings-ifos.md)
+### [IFO (टोकन बिक्री) के लिए आवेदन करें](business-partnerships/initial-farm-offerings-ifos.md)
 
-### [Apply for the NFT Market](/broken/pages/DmdIaEZd9prcJiQqgZJU)
-
+### [NFT मार्केट के लिए आवेदन करें](/broken/pages/DmdIaEZd9prcJiQqgZJU)
 
 

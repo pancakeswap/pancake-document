@@ -1,147 +1,147 @@
 ---
-description: Use your veCAKE to vote and decide how CAKE emission is distributed
+description: CAKE emission का वितरण तय करने के लिए अपने veCAKE से vote करें
 hidden: true
 ---
 
 # Gauges Voting
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2811%29.png" alt=""><figcaption></figcaption></figure>
 
-#### What is a gauge?
+#### Gauge क्या है?
 
-To understand gauges voting, you may think of any products that require CAKE emissions as a series of gauges. This includes farms, CAKE weekly reward pool, position manager vaults, etc.
+Gauges voting को समझने के लिए, आप CAKE emissions की आवश्यकता वाले किसी भी उत्पाद को gauges की एक श्रृंखला के रूप में सोच सकते हैं। इसमें farms, CAKE weekly reward pool, position manager vaults आदि शामिल हैं।
 
-veCAKE holders can now use their veCAKE as votes to decide how much % of CAKE goes to which product. The more veCAKE a gauge accumulates through Gauges Voting, the more CAKE emissions will be allocated to the underlying liquidity pool / position manager vault.
+veCAKE holders अब अपने veCAKE का उपयोग votes के रूप में यह तय करने के लिए कर सकते हैं कि CAKE का कितना % किस उत्पाद को जाता है। Gauges Voting के माध्यम से एक gauge जितना अधिक veCAKE जमा करता है, उतने अधिक CAKE emissions उस अंतर्निहित तरलता पूल / position manager vault को आवंटित किए जाएंगे।
 
 {% hint style="info" %}
-The votes in each epoch (E-0) determines the CAKE emission for the next epoch (E+1), and these changes take effect only after the current epoch concludes.
+प्रत्येक epoch (E-0) के votes अगले epoch (E+1) के लिए CAKE emission निर्धारित करते हैं, और ये परिवर्तन केवल वर्तमान epoch समाप्त होने के बाद ही लागू होते हैं।
 {% endhint %}
 
 #### Gauge Types
 
-There are two types of gauges - ‘core’ and ‘non-core’. CAKE emissions to the former are controlled by the Kitchen, while the community influences emissions to ‘non-core’ pools by voting with veCAKE.
+दो प्रकार के gauges हैं - 'core' और 'non-core'। पहले प्रकार को CAKE emissions Kitchen द्वारा नियंत्रित की जाती हैं, जबकि community veCAKE के साथ vote करके 'non-core' pools को emissions को प्रभावित करती है।
 
-1. ‘Core’ gauges include pairs with major tokens and stablecoins (WBTC, ETH, BNB, USDC, USDT, etc.) - the Kitchen will make sure these pairs receive sufficient CAKE rewards as they contribute significantly to the protocol’s revenue
-2. ‘Non-core’ gauges represent all other gauges not classified as ‘core’ gauges
+1. 'Core' gauges में प्रमुख tokens और stablecoins (WBTC, ETH, BNB, USDC, USDT, आदि) के pairs शामिल हैं - Kitchen यह सुनिश्चित करेगा कि इन pairs को पर्याप्त CAKE rewards मिलें क्योंकि ये protocol की revenue में महत्वपूर्ण योगदान देते हैं।
+2. 'Non-core' gauges वे सभी gauges हैं जो 'core' gauges के रूप में वर्गीकृत नहीं हैं।
 
-## How to Vote?
+## Vote कैसे करें?
 
-### 1 - Understand the voting schedule
+### 1 - Voting schedule समझें
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2812%29.png" alt=""><figcaption></figcaption></figure>
 
-Gauges weight voting is conducted every two weeks. The beginning of an epoch, just like revenue sharing, is at 00:00 UTC every even Thursdays.
+Gauges weight voting हर दो सप्ताह में आयोजित होती है। एक epoch की शुरुआत, revenue sharing की तरह, हर सम गुरुवार को 00:00 UTC पर होती है।
 
-In the above example:
+उपरोक्त उदाहरण में:
 
-* Epoch 1 is starting at 00:00 UTC, 1st, Thursday on Week 1.
-* Epoch 1 is ending 2 weeks later, at 00:00 UTC, 15th, Thursday on Week 3.
-* Users can vote during 00:00 UTC from 1st to 14th.
-* **NO** votes can be cast during 00:00 UTC from 14th to 15th as votes are being adjusted and tallied.
-* Voting results will be snapshotted at 00:00 UTC on the 15th. The end of Epoch 1.
-* Voting results will be applied within 72 hrs after an epoch is closed.
+* Epoch 1 सप्ताह 1 में पहले गुरुवार, 00:00 UTC पर शुरू होती है।
+* Epoch 1 दो सप्ताह बाद, सप्ताह 3 में 15वें गुरुवार को 00:00 UTC पर समाप्त होती है।
+* उपयोगकर्ता 1 से 14 तारीख तक 00:00 UTC के दौरान vote कर सकते हैं।
+* votes को समायोजित और गिना जाने के कारण 14 से 15 तारीख तक 00:00 UTC के दौरान **कोई** vote नहीं दिया जा सकता।
+* Voting results का snapshot 15 तारीख को 00:00 UTC पर लिया जाएगा। Epoch 1 का अंत।
+* Voting results epoch बंद होने के 72 घंटों के भीतर लागू किए जाएंगे।
 
-### 2 - Become eligible
+### 2 - पात्र बनें
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2812%29.png" alt=""><figcaption></figcaption></figure>
 
-Since veCAKE is gradually decreasing according to the remaining lock time, voting results will be taken via a snapshot at the end of every epoch. This includes the number of total veCAKE, and the veCAKE each user has.
+चूँकि veCAKE remaining lock time के अनुसार धीरे-धीरे घटता है, voting results प्रत्येक epoch के अंत में snapshot के माध्यम से लिए जाते हैं। इसमें कुल veCAKE की संख्या और प्रत्येक उपयोगकर्ता का veCAKE शामिल है।
 
-In the above example:
+उपरोक्त उदाहरण में:
 
-* Results for Epoch 1, will be based on the veCAKE balances at 00:00 UTC, 15th.
-* Users whose veCAKE position is unlocking before or equal to 15th, will have 0 veCAKE balance at the snapshot time. Therefore they have no voting power for Epoch 1.
+* Epoch 1 के results 15 तारीख को 00:00 UTC पर veCAKE balances पर आधारित होंगे।
+* जिन उपयोगकर्ताओं की veCAKE position 15 तारीख से पहले या बराबर unlock होती है, उनका snapshot time पर veCAKE balance 0 होगा। इसलिए Epoch 1 के लिए उनके पास कोई voting power नहीं होगी।
 
-Therefore, to become eligible, you must obtain an active veCAKE position, which unlocks **LATER** than the end/snapshot time of the current epoch.
+इसलिए, पात्र बनने के लिए, आपके पास एक सक्रिय veCAKE position होनी चाहिए, जो वर्तमान epoch के end/snapshot time से **बाद** में unlock हो।
 
-In the above example:
+उपरोक्त उदाहरण में:
 
-* If you want to vote in epoch 1, you must have a veCAKE position which unlocks on the 21st or later than the 21st, or Thursday on week 3.
+* यदि आप epoch 1 में vote करना चाहते हैं, तो आपके पास एक veCAKE position होनी चाहिए जो 21 तारीख या उससे बाद, या सप्ताह 3 के गुरुवार को unlock हो।
 
-### 3 - Check the current voting results
+### 3 - वर्तमान voting results जाँचें
 
-Head to "CAKE staking", scroll down and look for the "Gauges Voting" section, then click "Check Gauges".
+"CAKE staking" पर जाएं, नीचे scroll करें और "Gauges Voting" section खोजें, फिर "Check Gauges" पर क्लिक करें।
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2813%29.png" alt=""><figcaption></figcaption></figure>
 
-At the top-left section. You may find:
+ऊपर-बाईं ओर, आप निम्नलिखित पा सकते हैं:
 
-* Your veCAKE.
-* Snapshot time and voting end time for the current epoch.
-* The total number of CAKE rewards to be distributed in the next epoch is based on the voting results from the current epoch.
-* The total amount of veCAKE votes cast.
+* आपका veCAKE।
+* वर्तमान epoch का Snapshot time और voting end time।
+* अगले epoch में वितरित होने वाले CAKE rewards की कुल संख्या, जो वर्तमान epoch के voting results पर आधारित है।
+* Cast किए गए veCAKE votes की कुल राशि।
 
-At the top-right, you may find a pie chart representing the % of each gauge received.
+ऊपर-दाईं ओर, आपको प्रत्येक gauge को प्राप्त % का प्रतिनिधित्व करने वाला pie chart मिलेगा।
 
-At the bottom, there is a complete list of every voting gauges. With the number of votes they received and the expected % weight, they are gaining in the current epoch. There is also a "boost" and "caps" field, detailing two important gauge characteristics. Continue reading for more details.
+नीचे, प्रत्येक voting gauge की एक पूरी सूची है। उनके द्वारा प्राप्त votes की संख्या और वर्तमान epoch में उन्हें मिलने वाले expected % weight के साथ। "boost" और "caps" field भी है, जो दो महत्वपूर्ण gauge विशेषताओं का विवरण देता है। अधिक जानकारी के लिए पढ़ते रहें।
 
-#### Gauge Boost and Emission Caps
+#### Gauge Boost और Emission Caps
 
-To ensure CAKE rewards go to the most productive gauges. Each gauge can be applied with a boost and/or an emission cap. Two of the characteristics can both exist at the same time.
+यह सुनिश्चित करने के लिए कि CAKE rewards सबसे उत्पादक gauges को जाएं, प्रत्येक gauge पर boost और/या emission cap लागू की जा सकती है। दोनों विशेषताएं एक साथ मौजूद हो सकती हैं।
 
-Gauge Boost is a multiplier applied to the number of votes a gauge receives, ranging from 1x to 2.5x (gauges for V3 pools are capped at 2x). This is to encourage votes and liquidity for important trading pairs.
+Gauge Boost वह multiplier है जो किसी gauge को प्राप्त votes की संख्या पर लागू होता है, जो 1x से 2.5x तक होता है (V3 pools के gauges के लिए 2x पर cap है)। यह महत्वपूर्ण trading pairs के लिए votes और तरलता को प्रोत्साहित करने के लिए है।
 
-Emission cap is a maximum cap on the % weight a gauge can receive, ranging from 2% to 20%. This is to promote fairness in allocation and prevent abuse of the gauge system.
+Emission cap किसी gauge को मिलने वाले % weight की अधिकतम सीमा है, जो 2% से 20% तक होती है। यह आवंटन में निष्पक्षता बढ़ावा देने और gauge system के दुरुपयोग को रोकने के लिए है।
 
-For example:
+उदाहरण के लिए:
 
-* A gauge has 10 votes, 2x boost and 15% cap. The total vote is 100.
-* After applying the boost, this gauge will have 20 votes, 20% weight against the total (100).
-* However, since it has a 15% cap, the final % of CAKE rewards this gauge receives in the next epoch will be adjusted to 15%.
+* एक gauge में 10 votes, 2x boost और 15% cap है। कुल vote 100 है।
+* Boost लागू करने के बाद, इस gauge के 20 votes होंगे, total (100) के विरुद्ध 20% weight।
+* हालाँकि, 15% cap होने के कारण, अगले epoch में इस gauge को मिलने वाले CAKE rewards का अंतिम % 15% पर समायोजित किया जाएगा।
 
-#### How are Gauge Boost and Emission Caps determined?
+#### Gauge Boost और Emission Caps कैसे निर्धारित होते हैं?
 
-During the process of a gauge application, we ask applicants to propose the value of the boost multiplier and emissions cap % they wish to assign to the gauge. These have to be voted on by veCAKE holders, along with the entire gauge application.
+Gauge application की प्रक्रिया के दौरान, हम आवेदकों से boost multiplier और emissions cap % के मूल्य प्रस्तावित करने के लिए कहते हैं जो वे gauge को assign करना चाहते हैं। पूरे gauge application के साथ-साथ veCAKE holders को इन पर vote करना होता है।
 
-The default option for all gauges is 1.00x multiplier and 5% emission cap. They can be changed with future proposals.
+सभी gauges के लिए default option 1.00x multiplier और 5% emission cap है। इन्हें भविष्य के proposals के साथ बदला जा सकता है।
 
 {% hint style="info" %}
-Please note that the voting results are updated weekly. Numbers are calculated based on the veCAKE balances at 00:00 UTC, the coming Thursday.
+कृपया ध्यान दें कि voting results साप्ताहिक रूप से अपडेट होते हैं। संख्याओं की गणना आने वाले गुरुवार 00:00 UTC पर veCAKE balances के आधार पर की जाती है।
 {% endhint %}
 
-### 4 - Add gauges to vote
+### 4 - Vote करने के लिए gauges जोड़ें
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2814%29.png" alt=""><figcaption></figcaption></figure>
 
-To vote on a gauge, scroll down and look for "My Votes" section. Click "Add Gauge".
+Gauge पर vote करने के लिए, नीचे scroll करें और "My Votes" section खोजें। "Add Gauge" पर क्लिक करें।
 
-In the pop-up window, you may add gauges to your list of votes by clicking the blue "+" icon. You may find the current voting results in the list, along with boost and caps.
+Pop-up window में, आप नीले "+" icon पर क्लिक करके अपनी votes की सूची में gauges जोड़ सकते हैं। आप सूची में वर्तमान voting results, boost और caps के साथ पा सकते हैं।
 
-To quickly locate a gauge, you can use filtering to filter gauges by blockchains, fee tiers and liquidity types. Or type in the token ticker into the search field.
+Gauge जल्दी से खोजने के लिए, आप blockchains, fee tiers और liquidity types द्वारा gauges filter करने के लिए filtering का उपयोग कर सकते हैं। या search field में token ticker टाइप करें।
 
-### 5 - Select how much % veCAKE to vote on each gauges
+### 5 - प्रत्येक gauge पर कितना % veCAKE vote करना है, चुनें
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2815%29.png" alt=""><figcaption></figcaption></figure>
 
-Once you have added the gauges, you may select how much % of your veCAKE goes to each of the gauges.
+Gauges जोड़ने के बाद, आप चुन सकते हैं कि आपका कितना % veCAKE प्रत्येक gauge को जाता है।
 
-This is because:
+ऐसा इसलिए है क्योंकि:
 
-* veCAKE gradually decreases with the remaining lock time. It is impractical to estimate and calculate how many exact veCAKE to vote.
-* It is troublesome to re-vote in every upcoming epoch. Therefore, gauges voting is designed to carry your voting decisions throughout all the upcoming epoch until you cast a new one.
+* veCAKE remaining lock time के साथ धीरे-धीरे घटता है। यह अनुमान लगाना और गणना करना अव्यावहारिक है कि कितने exact veCAKE vote किए जाएं।
+* हर आने वाले epoch में दोबारा vote करना झंझट भरा है। इसलिए, gauges voting को आपके voting decisions को सभी आने वाले epochs में carry करने के लिए डिज़ाइन किया गया है जब तक आप नया vote नहीं डालते।
 
-In the above example:
+उपरोक्त उदाहरण में:
 
-* At the moment, I have 2.62 veCAKE.
-* I decided to allocate 80% to CAKE-BNB, which is 2.10 veCAKE at the moment.
-* 20% to USDC-ETH, which is 0.52 veCAKE, again, at the moment.
-* My total veCAKE will gradually decrease along with the remaining lock time. At the snapshot time, I may have less veCAKE, but my decision of 80% - 20% split will still be applied to the final results.
-* On top of that, this 80% - 20% decision will be applied to every coming epoch until I update it by casting a new vote request. Or until my veCAKE goes to 0 due to unlocking.
+* इस समय, मेरे पास 2.62 veCAKE है।
+* मैंने CAKE-BNB को 80% आवंटित करने का निर्णय लिया, जो अभी 2.10 veCAKE है।
+* USDC-ETH को 20%, जो अभी 0.52 veCAKE है।
+* Remaining lock time के साथ मेरा कुल veCAKE धीरे-धीरे घटता जाएगा। Snapshot time पर, मेरे पास कम veCAKE हो सकता है, लेकिन मेरा 80% - 20% का निर्णय अंतिम results पर लागू होगा।
+* इसके अतिरिक्त, यह 80% - 20% निर्णय हर आने वाले epoch पर तब तक लागू होगा जब तक मैं नया vote request cast करके इसे अपडेट नहीं करता। या जब तक unlock के कारण मेरा veCAKE 0 नहीं हो जाता।
 
-Once you have confirmed your decision, click "Submit vote" and confirm in your wallet.
+अपना निर्णय confirm करने के बाद, "Submit vote" पर क्लिक करें और अपने वॉलेट में confirm करें।
 
-### 6 - Update your votes
+### 6 - अपने votes अपडेट करें
 
-<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2817%29.png" alt=""><figcaption></figcaption></figure>
 
-Once your vote is submitted, you may see your votes being updated to "Current Votes". And the remaining veCAKE gets updated.
+Vote submit होने के बाद, आप अपने votes "Current Votes" में अपडेट होते देख सकते हैं। और remaining veCAKE भी अपडेट होता है।
 
-Please note that the voting decision for each gauge can only be updated every 10 days. Once you submit a vote request, all voted gauges will be applied a 10-day cooldown period before you can submit another request for updates.
+कृपया ध्यान दें कि प्रत्येक gauge के लिए voting decision केवल हर 10 दिन में एक बार अपडेट की जा सकती है। Vote request submit करने के बाद, सभी voted gauges पर 10-दिन का cooldown period लागू होगा इससे पहले कि आप updates के लिए दूसरा request submit कर सकें।
 
-To update your vote decision, change the % percentage and submit again.
+अपना vote decision अपडेट करने के लिए, % बदलें और फिर से submit करें।
 
 {% hint style="info" %}
-Please note that after gaining more veCAKE by adding CAKE or extending lock time. You need to manually update every gauges by re-submitting the vote request.
+कृपया ध्यान दें कि CAKE जोड़कर या lock time बढ़ाकर अधिक veCAKE प्राप्त करने के बाद, आपको vote request फिर से submit करके हर gauge को manually अपडेट करना होगा।
 
-The 10 days cooldown period still applies regardless if you changed your % decisions.
+10 दिन का cooldown period तब भी लागू होता है चाहे आपने अपने % decisions बदले हों या नहीं।
 {% endhint %}

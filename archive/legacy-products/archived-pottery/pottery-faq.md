@@ -1,73 +1,73 @@
 # Pottery FAQ
 
 {% hint style="danger" %}
-\[Archived] Pottery – As of 3rd November 2023
+\[Archived] Pottery – 3 नवंबर 2023 से
 {% endhint %}
 
-## Why do we need Pottery when we already have the Lottery v2?
+## जब हमारे पास पहले से Lottery v2 है तो Pottery की आवश्यकता क्यों है?
 
-Pottery is a completely different product compared to Lottery v2. It is a combination of the locked CAKE pool and the lottery function utilizing the Chainlink's implementation of VRF for true, secure randomness. By participating in Pottery, you will not lose any of the CAKE you deposited, you are only risking the staking rewards of the CAKE you deposited. This product is designed for CAKErs who are more risk-averse but still would like to participate in a product of this nature. It’s an easy, fun and safe way to get a chance to win some CAKE. Learn more about [the product structure here](https://docs.pancakeswap.finance/products/pottery).
+Pottery, Lottery v2 की तुलना में एक बिल्कुल अलग product है। यह locked CAKE pool और lottery function का combination है जो true, secure randomness के लिए Chainlink के VRF implementation का उपयोग करता है। Pottery में participate करके, आप deposited CAKE में से कुछ भी नहीं खोएंगे, आप केवल deposited CAKE की staking rewards को risk कर रहे हैं। यह product उन CAKErs के लिए designed है जो अधिक risk-averse हैं लेकिन फिर भी इस प्रकार के product में participate करना चाहते हैं। यह CAKE जीतने का एक आसान, मजेदार और safe तरीका है। [Product structure के बारे में अधिक जानें यहाँ](https://docs.pancakeswap.finance/products/pottery)।
 
-## Is Pottery replacing the original Lottery v2?
+## क्या Pottery original Lottery v2 को replace कर रही है?
 
-Pottery is not replacing the original Lottery v2. These two products are operated and run separately. You can participate in both!
+Pottery, original Lottery v2 को replace नहीं कर रही है। ये दोनों products अलग-अलग operate और run होती हैं। आप दोनों में participate कर सकते हैं!
 
-## How does Pottery help PancakeSwap and CAKE?
+## Pottery PancakeSwap और CAKE की कैसे मदद करती है?
 
-Eight percent (8%) of the prize pot distributed each week will be charged as fees for burning, which accrues value to CAKE. We aim to review and adjust the fee structure accordingly after the beta stage of the product.
+प्रत्येक सप्ताह distributed prize pot का आठ प्रतिशत (8%) burning के लिए fees के रूप में charged किया जाएगा, जिससे CAKE में value accrued होती है। हम product के beta stage के बाद fee structure को review और adjust करने का लक्ष्य रखते हैं।
 
-## What is the beta stage of Pottery for?
+## Pottery का beta stage किसलिए है?
 
-Because of the operations of this new product such as borrowing from treasury, cohort management and drawing. The product will start off in the beta stage with a capped total deposit for each Pottery to make sure everything runs smoothly. Once we pass the beta stage, we may review and adjust different parameters based on operations and community feedback such as the fees, the frequency of each cohort, lock period, etc.
+इस नए product के operations जैसे treasury से borrowing, cohort management और drawing के कारण। Product, beta stage में प्रत्येक Pottery के लिए capped total deposit के साथ शुरू होगा ताकि सुनिश्चित हो कि सब कुछ सुचारू रूप से चले। Beta stage pass होने के बाद, हम operations और community feedback के आधार पर fees, प्रत्येक cohort की frequency, lock period आदि जैसे different parameters review और adjust कर सकते हैं।
 
-## Why does it have to lock my CAKE for 10 weeks?
+## मेरे CAKE को 10 सप्ताहों के लिए lock क्यों करना होगा?
 
-If the Pottery can just use the flexible staking pool, its product structure would be much simpler - similar to products like PoolTogether and Moonpot. However, the current yield from the flexible staking pool is not sufficient for us to produce a meaningful prize pool for drawing. Hence, the decision is to lock the CAKE for a moderate duration to balance the rewards that can be used to fund the prize pool. With more operations and community feedback, we may review and adjust the lock duration down the road.
+यदि Pottery flexible staking pool का उपयोग कर सके, तो इसकी product structure बहुत सरल होगी - PoolTogether और Moonpot जैसे products के समान। हालाँकि, flexible staking pool से current yield एक meaningful prize pool for drawing के लिए पर्याप्त नहीं है। इसलिए, prize pool को fund करने के लिए उपयोग की जाने वाली rewards को balance करने के लिए CAKE को moderate duration के लिए lock करने का निर्णय लिया गया है। अधिक operations और community feedback के साथ, हम lock duration को आगे review और adjust कर सकते हैं।
 
-## Why can’t I withdraw?
+## मैं withdraw क्यों नहीं कर सकता/सकती?
 
-Please note that the withdrawal button will light up and be available only after 10 weeks of the lock date. The date for withdrawal is based on 10 weeks after the lock date and time – 23:59 UTC on the first Monday of each month.
+कृपया ध्यान दें कि withdrawal button lock date के 10 सप्ताह बाद ही lit up होगा और available होगा। Withdrawal की date lock date और time से 10 सप्ताह पर based है – प्रत्येक महीने के पहले सोमवार को 23:59 UTC।
 
-## Why can’t I view my deposit?
+## मैं अपना deposit क्यों नहीं देख सकता/सकती?
 
-There might occasionally be some delay because of the Subgraph reading, there will be a signal when there are delays – usually it should show the correct amount if you check again in 15 minutes.
+Subgraph reading के कारण कभी-कभी थोड़ी delay हो सकती है, delays होने पर signal मिलेगा – आमतौर पर 15 मिनट बाद फिर से check करने पर सही amount दिखाई देगी।
 
-## How do I know if I have won in the weekly draw?
+## मुझे कैसे पता चलेगा कि मैंने साप्ताहिक draw में जीता है?
 
-After each draw on Friday at around noon UTC, you can view the results and winners in the Finished Rounds panel. Another way to check if you have won in any weekly draws is to check in the Claim panel to see if there is any prize to be claimed. Check out [this page on how to participate](https://docs.pancakeswap.finance/products/pottery/how-to-play-pottery)!
+दोपहर UTC के आसपास शुक्रवार को प्रत्येक draw के बाद, आप Finished Rounds panel में results और winners देख सकते हैं। किसी भी साप्ताहिक draw में जीतने की जाँच करने का दूसरा तरीका Claim panel में देखना है कि कोई prize claim करने के लिए है या नहीं। [यहाँ participate कैसे करें इस page को देखें](https://docs.pancakeswap.finance/products/pottery/how-to-play-pottery)!
 
-## What is the funding source of the prize?
+## Prize का funding source क्या है?
 
-The prize pools are funded by the staking rewards of the deposits. However, since the staking rewards of the CAKE locked staking pool are only distributed after the lock duration – 10 weeks in this case, for better product experience and to facilitate the weekly draws right after the deposit date, the contract is borrowing 80% of the estimated total staking rewards from the cohort from the CAKE treasury based on the APR at the time of locking. The borrowed CAKE is used for the payout for each weekly draw. Learn more about [the product structure here](https://docs.pancakeswap.finance/products/pottery)!
+Prize pools deposits की staking rewards द्वारा funded हैं। हालाँकि, चूँकि CAKE locked staking pool की staking rewards केवल lock duration के बाद distributed होती हैं – इस मामले में 10 सप्ताह – बेहतर product experience के लिए और deposit date के तुरंत बाद साप्ताहिक draws facilitate करने के लिए, contract locking के समय APR के आधार पर CAKE treasury से cohort के estimated total staking rewards का 80% borrow करता है। Borrowed CAKE का उपयोग प्रत्येक साप्ताहिक draw के payout के लिए किया जाता है। [Product structure के बारे में अधिक जानें यहाँ](https://docs.pancakeswap.finance/products/pottery)!
 
-## If I win, do I need to manually claim the prize?
+## यदि मैं जीतता/जीतती हूँ, तो क्या मुझे manually prize claim करना होगा?
 
-Yes, you will need to click the Claim button under the Claim panel on the Pottery page.
+हाँ, आपको Pottery page पर Claim panel के अंतर्गत Claim button पर click करना होगा।
 
-## How often is the Pottery?
+## Pottery कितनी बार होती है?
 
-Each Pottery cohort is open for deposit on the Friday before at around 10:00 UTC and closes on the first Monday of each month at 23:59 UTC, unless any special arrangement and notice in advance. Each cohort will have 10 weekly draws on 10 subsequent Fridays at noon UTC.
+प्रत्येक Pottery cohort लगभग 10:00 UTC पर शुक्रवार को deposit के लिए open होती है और प्रत्येक महीने के पहले सोमवार को 23:59 UTC पर बंद होती है, जब तक कि कोई special arrangement और prior notice न हो। प्रत्येक cohort के 10 subsequent Fridays पर दोपहर UTC पर 10 साप्ताहिक draws होंगे।
 
-The first Pottery will open deposit on Aug 5 2022 and lock on Aug 8 2022 at 23:59 UTC.
+पहली Pottery 5 अगस्त 2022 को deposit के लिए open होगी और 8 अगस्त 2022 को 23:59 UTC पर lock होगी।
 
-## Why does the Pottery deposit only open once a month?
+## Pottery deposit केवल महीने में एक बार क्यों open होती है?
 
-This arrangement combines the deposit to direct to the locked staking pool, such that the Pottery contract of the cohort is able to coordinate the staking rewards of the deposit from the locked staking pool. With more operations and community feedback, we may review and adjust the frequency down the road.
+यह arrangement deposits को combine करके locked staking pool की ओर direct करती है, ताकि cohort का Pottery contract locked staking pool से deposit के staking rewards coordinate कर सके। अधिक operations और community feedback के साथ, हम frequency को review और adjust कर सकते हैं।
 
-## What is the limit for depositing?
+## Deposit की limit क्या है?
 
-There is a minimum deposit of 1 CAKE. At the beta stage of the product, there will also be a maximum deposit cap for each cohort which you can view in the Deposit panel when you are making the deposit. This is to make sure everything on the operation side including the borrowing from treasury, locked staking and drawing runs smoothly. While the maximum you can deposit is the maximum deposit cap of that cohort (if no one else has deposited any CAKE), you would win all the prizes, however, that also means the final return that you will get is the same as putting your CAKE into the locked staking pool for 10 weeks, but you will also be paying the Pottery fees.
+Minimum deposit 1 CAKE है। Product के beta stage में, प्रत्येक cohort के लिए maximum deposit cap भी होगी जिसे आप deposit करते समय Deposit panel में देख सकते हैं। यह सुनिश्चित करने के लिए कि operations side पर treasury से borrowing, locked staking और drawing सुचारू रूप से चले। जबकि आप जितना maximum deposit कर सकते हैं वह उस cohort का maximum deposit cap है (यदि किसी और ने CAKE deposit नहीं किया है), आप सभी prizes जीतेंगे, हालाँकि इसका भी मतलब यह है कि आपको जो final return मिलेगा वह आपके CAKE को 10 सप्ताहों के लिए locked staking pool में रखने के समान होगा, लेकिन आप Pottery fees भी pay करेंगे।
 
-## Why do we need the cohort system? Why do we not just lump them all together?
+## Cohort system की आवश्यकता क्यों है? हम सबको एक साथ क्यों नहीं रख सकते?
 
-Since Pottery is interacting with the fixed-term staking of CAKE, any deposit can only be withdrawn after the lock duration. If we want to lump all deposits together, while we can add more deposit after the initial lock and also lock them for 10 weeks (from the time of new deposit), the initial depositors will not be able to withdraw on time.
+चूँकि Pottery CAKE की fixed-term staking के साथ interact करती है, कोई भी deposit केवल lock duration के बाद ही withdraw की जा सकती है। यदि हम सभी deposits को एक साथ रखना चाहते हैं, तो जबकि हम initial lock के बाद अधिक deposit add कर सकते हैं और उन्हें भी 10 सप्ताहों (नई deposit के समय से) के लिए lock कर सकते हैं, initial depositors समय पर withdraw नहीं कर पाएंगे।
 
-## What is SHARE token?
+## SHARE token क्या है?
 
-SHARE tokens are generated and distributed when you deposit in the pottery. It represents and serves as a credential of your share against the deposit pool.
+SHARE tokens pottery में deposit करने पर generate और distribute किए जाते हैं। यह deposit pool के विरुद्ध आपके share की credential और representative के रूप में serve करता है।
 
-Upon withdrawal, SHARE token will be transferred back to the pottery contract and burned.
+Withdrawal पर, SHARE token pottery contract को वापस transfer किया जाएगा और burn हो जाएगा।
 
-## Where can I provide feedback for this product?
+## मैं इस product के लिए feedback कहाँ दे सकता/सकती हूँ?
 
-Please feel free to reach out to us on [Telegram](https://t.me/pancakeswap) or [Discord](https://discord.gg/pancakeswap) if you're still unsure about the format or if you have any feedback for us to improve this further!
+कृपया बेझिझक हमसे [Telegram](https://t.me/pancakeswap) या [Discord](https://discord.gg/pancakeswap) पर संपर्क करें यदि आप format के बारे में अनिश्चित हैं या यदि आपके पास हमारे लिए कोई feedback है!

@@ -4,44 +4,44 @@ hidden: true
 
 # Senior Frontend Engineer
 
-### General Information
+### सामान्य जानकारी
 
-* Salary range: Competitive, negotiable
-* Position: Full-time
-* Location: Remote
-* Time-zone preference: Any
+* वेतन सीमा: प्रतिस्पर्धी, वार्ता योग्य
+* पद: पूर्णकालिक
+* स्थान: रिमोट
+* समय क्षेत्र प्राथमिकता: कोई भी
 
-### Your Responsibilities
+### आपकी जिम्मेदारियाँ
 
-* Design, scope, and estimate complex frontend products/upgrades.
-* Envision and develop features to help grow PancakeSwap.
-* Enthusiastically collaborate with a small team to plan projects at the task level.
-* Collaborate with cross-functional partners on all aspects of product development.
-* Identify and advocate for team-wide areas of improvement and best practices.
+* जटिल फ्रंटएंड उत्पादों/अपग्रेड को डिज़ाइन, स्कोप और अनुमानित करें।
+* PancakeSwap को विकसित करने में मदद करने वाले फीचर की कल्पना करें और उन्हें विकसित करें।
+* प्रोजेक्ट को कार्य स्तर पर योजना बनाने के लिए एक छोटी टीम के साथ उत्साहपूर्वक सहयोग करें।
+* प्रोडक्ट विकास के सभी पहलुओं पर क्रॉस-फंक्शनल साझेदारों के साथ सहयोग करें।
+* टीम-व्यापी सुधार के क्षेत्रों और सर्वोत्तम प्रथाओं की पहचान करें और उनकी वकालत करें।
 
-### Skills & Qualifications
+### कौशल और योग्यताएँ
 
-* Solid experience with TypeScript, React.js, and Node.js.
-* 5+ years of professional experience building responsive/adaptive web applications.
-* Strong ability to write clean, maintainable, and well-structured code.
-* Experience with JavaScript testing frameworks.
-* Proficiency with modern frontend build pipelines and tools.
-* Experience architecting and delivering scalable frontend solutions.
-* Hands-on experience with Web3 and decentralized application frontends, including familiarity with modern Web3 libraries (e.g., viem, wagmi).
-* Exposure to GraphQL.
+* TypeScript, React.js और Node.js का ठोस अनुभव।
+* रेस्पॉन्सिव/अनुकूलन योग्य वेब एप्लिकेशन बनाने में 5+ वर्षों का पेशेवर अनुभव।
+* स्वच्छ, रखरखाव योग्य और अच्छी तरह से संरचित कोड लिखने की मजबूत क्षमता।
+* JavaScript परीक्षण फ्रेमवर्क का अनुभव।
+* आधुनिक फ्रंटएंड बिल्ड पाइपलाइन और टूल्स में दक्षता।
+* स्केलेबल फ्रंटएंड समाधानों को आर्किटेक्ट करने और वितरित करने का अनुभव।
+* Web3 और विकेंद्रीकृत एप्लिकेशन फ्रंटएंड का व्यावहारिक अनुभव, जिसमें आधुनिक Web3 लाइब्रेरी (जैसे viem, wagmi) से परिचितता शामिल है।
+* GraphQL का संपर्क।
 
-### Key Traits
+### प्रमुख गुण
 
-* **Eager to learn:** Excited to dive into new tools and technologies.
-* **Self-driven:** Comfortable doing your own research and turning findings into practical solutions.
-* **Fast learner:** Able to quickly adapt to evolving requirements and environments.
-* **Innovative mindset:** Proactively looks for ways to improve products and workflows.
+* **सीखने के लिए उत्सुक:** नए टूल्स और तकनीकों में उतरने के लिए उत्साहित।
+* **स्व-संचालित:** अपना शोध स्वयं करने और निष्कर्षों को व्यावहारिक समाधानों में बदलने में सहज।
+* **तेज़ सीखने वाले:** बदलती आवश्यकताओं और वातावरण के अनुकूल तेज़ी से ढलने में सक्षम।
+* **नवाचारी सोच:** उत्पादों और कार्यप्रवाह में सुधार के तरीके सक्रिय रूप से खोजते हैं।
 
-### Good to have
+### अच्छा होगा यदि आपके पास हो
 
-* Understanding of Solidity.
-* Familiarity with DEX protocols (not limited to PancakeSwap v2, v3, and Infinity).
+* Solidity की समझ।
+* DEX प्रोटोकॉल से परिचितता (केवल PancakeSwap v2, v3, और Infinity तक सीमित नहीं)।
 
-### How to apply
+### आवेदन कैसे करें
 
-Email hiring@pancakeswap.com with your resume!
+अपना रेज़्यूमे hiring@pancakeswap.com पर ईमेल करें!

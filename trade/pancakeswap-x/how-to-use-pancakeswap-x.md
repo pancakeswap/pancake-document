@@ -1,43 +1,43 @@
-# How to use PancakeSwap X
+# PancakeSwap X का उपयोग कैसे करें
 
-PancakeSwap X is built directly into the familiar “Swap” interface and enabled for all users by default. To use PancakeSwap X, simply head to the [Swap](https://pancakeswap.finance/swap) page and start trading.
+PancakeSwap X सीधे परिचित "Swap" इंटरफ़ेस में बनाया गया है और सभी उपयोगकर्ताओं के लिए डिफ़ॉल्ट रूप से सक्षम है। PancakeSwap X का उपयोग करने के लिए, बस [Swap](https://pancakeswap.finance/swap) पेज पर जाएँ और ट्रेडिंग शुरू करें।
 
-### Enable PancakeSwap X
+### PancakeSwap X सक्षम करें
 
-<figure><img src="../../.gitbook/assets/image (470).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28470%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-In case X is not enabled. Click the settings icon in “Route” to open the settings modal, and then click “Customise Routing” to bring up the routing preference.
+यदि X सक्षम नहीं है। settings modal खोलने के लिए "Route" में settings आइकन पर क्लिक करें, और फिर routing preference लाने के लिए "Customise Routing" पर क्लिक करें।
 
-Within the “Customize Routing” modal, there will be a new switch for toggling PancakeSwap X for trade routes. Simply click or tap to toggle it on.
+"Customize Routing" modal के भीतर, ट्रेड रूट के लिए PancakeSwap X को toggle करने के लिए एक नया switch होगा। इसे चालू करने के लिए बस क्लिक या टैप करें।
 
-<figure><img src="../../.gitbook/assets/image (471).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28471%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Once toggled, you may head back to the main Swap page. If the current Swap is available for PancakeSwap X, an indicator will show up in the “Route” section. With price impact and fees all being 0.
+Toggle होने के बाद, आप मुख्य Swap पेज पर वापस जा सकते हैं। यदि वर्तमान Swap PancakeSwap X के लिए उपलब्ध है, तो "Route" सेक्शन में एक indicator दिखाई देगा। मूल्य प्रभाव और शुल्क दोनों 0 होंगे।
 
-Please note that PancakeSwap X is not available for all the swaps. Its availability is subject to input, and output tokens, as well as the trade size and the network. If the swap can not be processed by PancakeSwap X, it will be routed through the AMM liquidity pools.
+कृपया ध्यान दें कि PancakeSwap X सभी swaps के लिए उपलब्ध नहीं है। इसकी उपलब्धता input और output tokens के साथ-साथ trade size और नेटवर्क पर निर्भर करती है। यदि swap PancakeSwap X द्वारा संसाधित नहीं किया जा सकता, तो इसे AMM तरलता पूलों के माध्यम से रूट किया जाएगा।
 
-When a trade is going through PancakeSwap X, it will be highlighted in the “Route” section.
+जब कोई ट्रेड PancakeSwap X के माध्यम से जा रहा हो, तो यह "Route" सेक्शन में highlighted होगा।
 
-### Submit Order
+### ऑर्डर सबमिट करें
 
-<figure><img src="../../.gitbook/assets/image (472).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28472%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-To submit the order, click “Swap”, then verify all the parameters in the “Confirm Swap” modal. If everything looks good, click “Confirm Swap” to continue.
+ऑर्डर सबमिट करने के लिए, "Swap" पर क्लिक करें, फिर "Confirm Swap" modal में सभी parameters सत्यापित करें। यदि सब कुछ ठीक दिखे, तो आगे बढ़ने के लिए "Confirm Swap" पर क्लिक करें।
 
-If you haven’t approved the input token, your wallet will prompt you to approve. Please note that although swapping through PancakeSwap X does not require any gas token, approving for token spending does require gas.
+यदि आपने input token approve नहीं किया है, तो आपका वॉलेट आपसे approve करने के लिए कहेगा। कृपया ध्यान दें कि PancakeSwap X के माध्यम से swapping के लिए किसी gas token की आवश्यकता नहीं है, लेकिन token spending के लिए approve करने में गैस की आवश्यकता होती है।
 
-After token approval, another wallet popup will appear to ask for signing on the order. Simple click “Confirm” to proceed. No gas cost or onchain transaction will be involved.
+Token approval के बाद, ऑर्डर पर signing के लिए एक और wallet popup दिखाई देगा। आगे बढ़ने के लिए बस "Confirm" पर क्लिक करें। कोई गैस लागत या onchain लेनदेन शामिल नहीं होगा।
 
-Once the order is submitted, a modal with progress bar will appear. You may close the modal, while your order will continue to be filled in the background.
+ऑर्डर सबमिट होने के बाद, एक progress bar के साथ एक modal दिखाई देगा। आप modal बंद कर सकते हैं, जबकि आपका ऑर्डर background में भरा जाता रहेगा।
 
-<figure><img src="../../.gitbook/assets/image (473).png" alt="" width="367"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28473%29.png" alt="" width="367"><figcaption></figcaption></figure>
 
-Note that unlike regular AMM DEX liquidity pool swaps, once a PancakeSwap X order is submitted, it will take some time for the liquidity providers to respond and fill your order. It could take up to 2 minutes until the order is successfully filled.
+ध्यान दें कि नियमित AMM DEX तरलता पूल swaps के विपरीत, एक बार PancakeSwap X ऑर्डर सबमिट होने के बाद, तरलता प्रदाताओं को जवाब देने और आपका ऑर्डर भरने में कुछ समय लगेगा। ऑर्डर सफलतापूर्वक भरे जाने तक 2 मिनट तक का समय लग सकता है।
 
-### Track your order status
+### अपने ऑर्डर की स्थिति ट्रैक करें
 
-To track your order status, open the wallet modal from wallet dropdown on top right. Click the “Transaction” button to bring up the list of orders. To see more detail of a specific order, simply click and open up the detail modal.
+अपने ऑर्डर की स्थिति ट्रैक करने के लिए, ऊपर दाएँ wallet dropdown से wallet modal खोलें। ऑर्डरों की सूची लाने के लिए "Transaction" बटन पर क्लिक करें। किसी विशिष्ट ऑर्डर का अधिक विवरण देखने के लिए, बस क्लिक करें और detail modal खोलें।
 
-<figure><img src="../../.gitbook/assets/image (474).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28474%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Once an order is successfully filled, you will see a green check mark on the order, while the purchased tokens being sent to your wallet automatically.
+एक बार ऑर्डर सफलतापूर्वक भर जाने पर, आपको ऑर्डर पर एक हरा चेक मार्क दिखाई देगा, जबकि खरीदे गए टोकन स्वतः आपके वॉलेट में भेज दिए जाएंगे।

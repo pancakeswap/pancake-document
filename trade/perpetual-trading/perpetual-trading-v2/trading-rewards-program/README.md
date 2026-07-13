@@ -1,21 +1,21 @@
 ---
-description: ApolloX will launch Trading Rewards Program on V2
+description: ApolloX V2 पर Trading Rewards Program लॉन्च करेगा
 hidden: true
 ---
 
 # Trading Rewards Program
 
-### Reward Program Overview
+### पुरस्कार कार्यक्रम का अवलोकन
 
-The details are as follows:
+विवरण इस प्रकार हैं:
 
-Activity period: Dates vary from cycle to cycle and for different chains
+गतिविधि अवधि: तिथियां चक्र से चक्र और विभिन्न चेन के लिए भिन्न होती हैं
 
-Rewards Distribution Time: Each cycle is 00:00 (UTC) to 23:59 (UTC) daily. Rewards are issued on the next day at around 03:00 (UTC). Users have to claim their rewards within 30 days after the rewards are issued. If they do not, the platform will revoke the rewards.&#x20;
+पुरस्कार वितरण समय: प्रत्येक चक्र प्रतिदिन 00:00 (UTC) से 23:59 (UTC) तक है। पुरस्कार अगले दिन लगभग 03:00 (UTC) पर जारी किए जाते हैं। उपयोगकर्ताओं को पुरस्कार जारी होने के 30 दिनों के भीतर अपने पुरस्कार का दावा करना होगा। यदि वे नहीं करते, तो प्लेटफॉर्म पुरस्कार वापस ले लेगा।&#x20;
 
-Reward amount: Capped at $15,000 USD worth of APX per day
+पुरस्कार राशि: प्रति दिन APX के $15,000 USD मूल्य तक सीमित
 
-Activity rules: Users who trade on V2 earn from a reward prize pool. Those who stake APX in DAO to obtain veNFT will enjoy boosting multipliers corresponding to the Power value calculated from the veNFT.&#x20;
+गतिविधि नियम: V2 पर व्यापार करने वाले उपयोगकर्ता एक पुरस्कार prize pool से कमाते हैं। जो लोग veNFT प्राप्त करने के लिए APX को DAO में stake करते हैं, उन्हें veNFT से गणना किए गए Power value के अनुरूप boosting multipliers मिलेंगे।&#x20;
 
 | Power Value               | Boosting Multiplier  |
 | ------------------------- | -------------------- |
@@ -23,54 +23,54 @@ Activity rules: Users who trade on V2 earn from a reward prize pool. Those who s
 | 100,000 < Power =<300,000 | 2                    |
 | Power > 300,000           | 2.5                  |
 
-Trading Rewards calculation formula:&#x20;
+Trading Rewards गणना सूत्र:&#x20;
 
-At the end of each trading reward cycle, the user’s effective trading fees and staking amount in that cycle will be calculated to determine the weightage and amount of APX rewards. The formula is as follows:
+प्रत्येक trading reward चक्र के अंत में, उस चक्र में उपयोगकर्ता के प्रभावी trading fees और staking राशि की गणना weightage और APX पुरस्कारों की मात्रा निर्धारित करने के लिए की जाएगी। सूत्र इस प्रकार है:
 
 r = R\*W / sum(Wi)
 
 
 
-Parameters:
+पैरामीटर:
 
-| r       | User’s APX reward for this cycle                                                                                                                                                                                                                                                                                        |
+| r       | इस चक्र के लिए उपयोगकर्ता का APX पुरस्कार                                                                                                                                                                                                                                                                                        |
 | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| R       | Determined by the user’s V2 trading fee contribution on the previous day and latest APX token price                                                                                                                                                                                                                     |
-| W       | <p>Individual total weight score W=f*w, where;</p><p>f refers to the effective trading fees contributed by the user in this cycle, which will be converted into USD.</p><p>w is the Boosting Multiplier obtained by the user in this cycle from staking APX in DAO. (Refer to the above table for more information)</p> |
-| sum(Wi) | The total score of all users. Wi represents any individual user’s score, and sum(Wi) represents the sum of all user scores                                                                                                                                                                                              |
+| R       | पिछले दिन के उपयोगकर्ता के V2 trading fee योगदान और नवीनतम APX टोकन मूल्य द्वारा निर्धारित                                                                                                                                                                                                                                     |
+| W       | <p>Individual total weight score W=f*w, जहां;</p><p>f इस चक्र में उपयोगकर्ता द्वारा योगदान किए गए प्रभावी trading fees को संदर्भित करता है, जिसे USD में परिवर्तित किया जाएगा।</p><p>w इस चक्र में DAO में APX stake करने से प्राप्त Boosting Multiplier है। (अधिक जानकारी के लिए उपरोक्त तालिका देखें)</p> |
+| sum(Wi) | सभी उपयोगकर्ताओं का कुल स्कोर। Wi किसी भी individual उपयोगकर्ता के स्कोर का प्रतिनिधित्व करता है, और sum(Wi) सभी उपयोगकर्ता स्कोरों के योग का प्रतिनिधित्व करता है                                                                                                                                                                                                                                           |
 
 &#x20;
 
-The calculation formula for R is as follows:
+R की गणना सूत्र इस प्रकार है:
 
 R=Min(Dollar value multiplier \* Trading Fee, Dollar value Cap)/ Max(APX Last Price,APX Price Floor)
 
-* Dollar value multiplier: 0.70 this epoch
-* Trading Fee: Value of previous day’s V2 fee income converted into USD
-* Dollar value Cap: 15,000 based on system configuration
-* APX Last Price: Based on latest APX token price
-* APX Price Floor: 0.04 this epoch
+* Dollar value multiplier: इस epoch में 0.70
+* Trading Fee: पिछले दिन की V2 fee income का USD में परिवर्तित मूल्य
+* Dollar value Cap: system configuration के आधार पर 15,000
+* APX Last Price: नवीनतम APX टोकन मूल्य पर आधारित
+* APX Price Floor: इस epoch में 0.04
 
-Terms and Conditions
+नियम और शर्तें
 
-* After the end of each cycle, ApolloX may adjust the program rules according to users’ feedback and market conditions. Rewards will be released non-linearly.
-* During the activity, the platform will reduce the percentage of V2 trading fee income injected into the ALP pool from 50% to 20%. The remaining 30% will be used to repurchase APX.
-* Due to the difference in trading fees for each trading pair on V2, the rewards users receive may vary even though their effective trading volumes are the same.
-* The rewards to be distributed for each cycle will be stored in the following contract address: 0x6bE863e01E17A226c945e3629D0D9Cb6E52Ce90E
-* ApolloX reserves the right of final interpretation for this activity.
+* प्रत्येक चक्र के अंत के बाद, ApolloX उपयोगकर्ताओं की प्रतिक्रिया और बाजार की स्थितियों के अनुसार कार्यक्रम नियमों को समायोजित कर सकता है। पुरस्कार non-linearly जारी किए जाएंगे।
+* गतिविधि के दौरान, प्लेटफॉर्म ALP pool में inject की गई V2 trading fee income का प्रतिशत 50% से घटाकर 20% करेगा। शेष 30% का उपयोग APX खरीदने के लिए किया जाएगा।
+* V2 पर प्रत्येक trading pair के लिए trading fees में अंतर के कारण, भले ही उनके प्रभावी trading volumes समान हों, उपयोगकर्ताओं को प्राप्त होने वाले पुरस्कार भिन्न हो सकते हैं।
+* प्रत्येक चक्र के लिए वितरित किए जाने वाले पुरस्कार निम्नलिखित contract address में संग्रहीत किए जाएंगे: 0x6bE863e01E17A226c945e3629D0D9Cb6E52Ce90E
+* ApolloX इस गतिविधि की अंतिम व्याख्या का अधिकार सुरक्षित रखता है।
 
-Risk Warning: Crypto futures trading carries a substantial risk. All trading activities are done at your discretion and at your own risk. The information here should not be regarded as financial or investment advice from ApolloX. ApolloX will not be liable for any loss that might arise from your use of ApolloX.
+जोखिम चेतावनी: Crypto futures trading में पर्याप्त जोखिम होता है। सभी ट्रेडिंग गतिविधियां आपके विवेक और अपने जोखिम पर की जाती हैं। यहां दी गई जानकारी को ApolloX से वित्तीय या निवेश सलाह नहीं माना जाना चाहिए। ApolloX के उपयोग से उत्पन्न किसी भी हानि के लिए ApolloX उत्तरदायी नहीं होगा।
 
-### Claiming Rewards
+### पुरस्कारों का दावा करना
 
-As the trading reward program is hosted by our friends at ApolloX, please proceed with the following steps to claim your reward:\
+चूंकि trading reward program हमारे मित्रों ApolloX द्वारा होस्ट किया गया है, कृपया अपना पुरस्कार दावा करने के लिए निम्नलिखित चरणों के साथ आगे बढ़ें:\
 \
-Step 1: Head to our [PancakeSwap Perpetuals Page](https://perp.pancakeswap.finance/en/futures/v2/)
+चरण 1: हमारे [PancakeSwap Perpetuals Page](https://perp.pancakeswap.finance/en/futures/v2/) पर जाएं
 
-Step 2: Click the Trading Reward (V2) tab at the top of the page
+चरण 2: पेज के शीर्ष पर Trading Reward (V2) टैब पर क्लिक करें
 
-<figure><img src="../../../../.gitbook/assets/Trading Reward.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Trading%20Reward.png" alt=""><figcaption></figcaption></figure>
 
-Step 3: You'll be redirected to ApolloX rewards claim page to check your current reward status. Click "Claim" to claim your rewards during the activity period.
+चरण 3: आपको ApolloX rewards claim पेज पर redirect किया जाएगा जहां आप अपनी वर्तमान पुरस्कार स्थिति जांच सकते हैं। गतिविधि अवधि के दौरान अपने पुरस्कारों का दावा करने के लिए "Claim" पर क्लिक करें।
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2023-06-29 at 10.26.11 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202023-06-29%20at%2010.26.11%20AM.png" alt=""><figcaption></figcaption></figure>

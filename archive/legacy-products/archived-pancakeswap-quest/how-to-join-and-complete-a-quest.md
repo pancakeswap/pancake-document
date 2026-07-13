@@ -1,52 +1,51 @@
-# How to Join and Complete a Quest
+# Quest में कैसे Join और Complete करें
 
 {% hint style="danger" %}
-&#x20;\[Archived] PancakeSwap Quest – As of 28th February 2025
+&#x20;\[Archived] PancakeSwap Quest – 28 फरवरी 2025 से
 {% endhint %}
 
-### Exploring Quests
+### Quests Explore करना
 
-1.  Users can choose to join a quest directly via link or head to our [quest homepage](https://quest.pancakeswap.finance/quests) to browse for new items. Click into any of the quests to learn more.&#x20;
+1.  उपयोगकर्ता सीधे link के माध्यम से किसी quest में join करना चुन सकते हैं या नए items के लिए browse करने के लिए हमारे [quest homepage](https://quest.pancakeswap.finance/quests) पर जा सकते हैं। अधिक जानकारी के लिए किसी भी quest पर क्लिक करें।&#x20;
 
-    <figure><img src="../../../.gitbook/assets/Screenshot 2024-08-06 at 6.54.53 PM.png" alt="" width="563"><figcaption></figcaption></figure>
-2. From the explore page, you can browse for quests with different numbers of tasks, winners, chains and time period.
-3. Start quest
-   1. Once the quest is selected, users can click “Join Quest” in order to start participating in the quests.
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%206.54.53%20PM.png" alt="" width="563"><figcaption></figcaption></figure>
+2. Explore page से, आप अलग-अलग tasks, winners, chains और time period वाले quests के लिए browse कर सकते हैं।
+3. Quest शुरू करें
+   1. Quest select होने के बाद, उपयोगकर्ता quests में participate करना शुरू करने के लिए "Join Quest" पर क्लिक कर सकते हैं।
 
-### Performing Tasks
+### Tasks Perform करना
 
-1.  Users must fulfil tasks and actions before completing every quest. Select the tasks and follow the on-screen text to fulfil the challenge. Actions can range from social tasks to on-chain items.&#x20;
+1.  उपयोगकर्ताओं को हर quest पूरा करने से पहले tasks और actions पूरे करने होंगे। Challenge पूरा करने के लिए tasks select करें और on-screen text follow करें। Actions social tasks से लेकर on-chain items तक हो सकती हैं।&#x20;
 
-    <figure><img src="../../../.gitbook/assets/Screenshot 2024-08-06 at 7.18.31 PM.png" alt="" width="368"><figcaption></figcaption></figure>
-2.  Social Tasks - Tasks can include:
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%207.18.31%20PM.png" alt="" width="368"><figcaption></figcaption></figure>
+2.  Social Tasks - Tasks में शामिल हो सकती हैं:
 
-    1. Like a post on X
-    2. Retweet a post on X
-    3. Follow an account on X
-    4. Join Discord Server
-    5. Join Telegram Group/Channel (Note: TG quests are not available on mobile. Please use a computer to complete the task)
+    1. X पर किसी post को Like करना
+    2. X पर किसी post को Retweet करना
+    3. X पर किसी account को Follow करना
+    4. Discord Server Join करना
+    5. Telegram Group/Channel Join करना (ध्यान दें: TG quests mobile पर उपलब्ध नहीं हैं। कृपया task पूरा करने के लिए computer का उपयोग करें)
 
-    Once a task is completed, hit the verify button (if available). PancakeSwap quest will prompt user to authenticate socials in order to complete the task.&#x20;
+    Task पूरा होने पर, verify button पर क्लिक करें (यदि उपलब्ध हो)। PancakeSwap quest task पूरा करने के लिए user को socials authenticate करने का prompt देगा।&#x20;
 
-    <figure><img src="../../../.gitbook/assets/quest.pancakeswap.finance_quests_d9ce6f2a39db4b4993e25ab4ebc9be2a(iPhone 14 Pro Max).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/quest.pancakeswap.finance_quests_d9ce6f2a39db4b4993e25ab4ebc9be2a%28iPhone%2014%20Pro%20Max%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-    Once a task is verified, you should see a tick on the side of the task&#x20;
+    Task verify होने पर, आपको task के side पर tick दिखाई देनी चाहिए&#x20;
 
-    <figure><img src="../../../.gitbook/assets/quest.pancakeswap.finance_quests_d9ce6f2a39db4b4993e25ab4ebc9be2a_action=7f2ca36db2ed4a9ebebf38b8ae49a822__X_REPOST_POST(iPhone 14 Pro Max).png" alt="" width="375"><figcaption></figcaption></figure>
-3.  On Chain Tasks - Onchain Tasks Include:
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/quest.pancakeswap.finance_quests_d9ce6f2a39db4b4993e25ab4ebc9be2a_action%3D7f2ca36db2ed4a9ebebf38b8ae49a822__X_REPOST_POST%28iPhone%2014%20Pro%20Max%29.png" alt="" width="375"><figcaption></figcaption></figure>
+3.  On Chain Tasks - Onchain Tasks में शामिल हैं:
 
-    1. Swap token on x Chain - Click the swap link to head straight to our Swap page
-    2. Hold token
-    3. Add Liquidity on x pool (Upcoming)
+    1. x Chain पर token Swap करना - सीधे हमारे Swap page पर जाने के लिए swap link पर क्लिक करें
+    2. Token hold करना
+    3. x pool पर Liquidity Add करना (आगामी)
 
-    **Note: Due to data retrieval speeds, on-chain tasks might take up to 1 hour to verify on certain chains.**&#x20;
-4.  You can view the remaining tasks via the status bar at the top. Once the quest is completed, it should show "Completed" on the top left. If the quest has a token reward, you will then be eligible for a random draw of rewards.&#x20;
+    **ध्यान दें: Data retrieval speeds के कारण, कुछ chains पर on-chain tasks verify होने में 1 घंटे तक का समय लग सकता है।**&#x20;
+4.  Top पर status bar के माध्यम से remaining tasks देख सकते हैं। Quest पूरा होने पर, top left पर "Completed" दिखाई देना चाहिए। यदि quest में token reward है, तो आप rewards के random draw के लिए eligible होंगे।&#x20;
 
-    <figure><img src="../../../.gitbook/assets/Screenshot 2024-08-06 at 7.28.19 PM.png" alt=""><figcaption></figcaption></figure>
-5. Users can also choose to complete optional tasks, which do not count toward the quests' required completion.
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%207.28.19%20PM.png" alt=""><figcaption></figcaption></figure>
+5. उपयोगकर्ता optional tasks पूरे करना भी चुन सकते हैं, जो quests की required completion में नहीं गिने जाते।
 
-### Check Quest Status
+### Quest Status जांचें
 
-1. To check the quest status, hit the “My profile” page from the top right menu.
-2. You can check the quests that you have participated in and if the quest is ongoing or finished. Users can also filter quests by chain.
-
+1. Quest status जाँचने के लिए, top right menu से "My profile" page पर जाएं।
+2. आप देख सकते हैं कि आप किन quests में participate किए हैं और quest ongoing है या finished। उपयोगकर्ता chain के अनुसार quests filter भी कर सकते हैं।

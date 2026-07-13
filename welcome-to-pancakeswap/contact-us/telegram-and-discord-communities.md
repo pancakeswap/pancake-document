@@ -1,24 +1,24 @@
 ---
-description: Welcome to the PancakeSwap Community!
+description: PancakeSwap समुदाय में आपका स्वागत है!
 ---
 
-# Telegram & Discord Communities
+# Telegram और Discord समुदाय
 
-Join our official Telegram and Discord communities to connect with other users, get support and stay updated on the latest news.
+हमारे आधिकारिक Telegram और Discord समुदाय से जुड़ें — अन्य उपयोगकर्ताओं से संपर्क करें, सहायता प्राप्त करें और नवीनतम समाचारों से अवगत रहें।
 
-💡 **IMPORTANT**: Always verify that you're in the official channels to avoid scams. PancakeSwap will NEVER ask for your private keys or funds.
+💡 **महत्वपूर्ण**: स्कैम से बचने के लिए हमेशा सुनिश्चित करें कि आप आधिकारिक चैनलों में हैं। PancakeSwap कभी भी आपकी प्राइवेट की या धनराशि नहीं माँगेगा।
 
-### 🔗 **Official Links**
+### 🔗 **आधिकारिक लिंक**
 
-#### 🌐 **Global Channels**
+#### 🌐 **वैश्विक चैनल**
 
-🔹 **Telegram (English)**: [https://t.me/PancakeSwap](https://t.me/PancakeSwap)
+🔹 **Telegram (अंग्रेज़ी)**: [https://t.me/PancakeSwap](https://t.me/PancakeSwap)
 
-🔹 **Telegram Announcements (English)**: [https://t.me/PancakeSwapAnn](https://t.me/PancakeSwapAnn)
+🔹 **Telegram Announcements (अंग्रेज़ी)**: [https://t.me/PancakeSwapAnn](https://t.me/PancakeSwapAnn)
 
 🔹 **Discord**: [https://discord.gg/pancakeswap](https://t.me/PancakeSwap)
 
-#### 🌍 **Local Communities**
+#### 🌍 **स्थानीय समुदाय**
 
 * Japanese ([https://t.me/PancakeSwapJP](https://t.me/PancakeSwapJP))
 * Chinese ([http://t.me/PancakeSwap\_CN](http://t.me/PancakeSwap_CN))
@@ -33,25 +33,25 @@ Join our official Telegram and Discord communities to connect with other users, 
 * Korean ([https://t.me/PancakeSwapSouthKorea](https://t.me/PancakeSwapSouthKorea))
 * 😤 Ban Appeal ([https://t.me/pancakebanappeal](https://t.me/pancakebanappeal))
 
-### ⚠️ **Security & Warnings**
+### ⚠️ **सुरक्षा और चेतावनियाँ**
 
-🔴 **Beware of scams!**
+🔴 **स्कैम से सावधान रहें!**
 
-* PancakeSwap **DOES NOT provide support via direct messages (DMs).**
-* **Never share your private keys** or recovery phrases.
-* Always verify you're in the official channels (listed in this document).
+* PancakeSwap **सीधे संदेशों (DMs) के माध्यम से सहायता प्रदान नहीं करता।**
+* **अपनी प्राइवेट की** या रिकवरी फ्रेज़ किसी के साथ कभी साझा न करें।
+* हमेशा सुनिश्चित करें कि आप आधिकारिक चैनलों में हैं (इस दस्तावेज़ में सूचीबद्ध)।
 
 ***
 
-### 🤝 **How to Participate in the Community**
+### 🤝 **समुदाय में कैसे भाग लें**
 
-✅ **How do I join Telegram or Discord?**
+✅ **Telegram या Discord में कैसे जुड़ें?**
 
-1. Click the link for the community you want to join.
-2. Accept the rules and verify your account if required.
-3. Start engaging with the community!
+1. जिस समुदाय से जुड़ना चाहते हैं, उसका लिंक क्लिक करें।
+2. नियमों को स्वीकार करें और यदि आवश्यक हो तो अपना खाता सत्यापित करें।
+3. समुदाय के साथ जुड़ना शुरू करें!
 
-💬 **How do I ask questions or get support?**
+💬 **प्रश्न कैसे पूछें या सहायता कैसे प्राप्त करें?**
 
-* On Telegram, use the chat directly in the correct topic (Support in case of help).
-* On Discord, use our [amazing ticket system](https://discord.com/channels/897834609272840232/1135600553943109793) or write in our [#General channel](https://discord.com/channels/897834609272840232/897834609272840236).
+* Telegram पर, सहायता के लिए सही टॉपिक (Support) में सीधे चैट का उपयोग करें।
+* Discord पर, हमारे [शानदार टिकट सिस्टम](https://discord.com/channels/897834609272840232/1135600553943109793) का उपयोग करें या हमारे [#General चैनल](https://discord.com/channels/897834609272840232/897834609272840236) में लिखें।

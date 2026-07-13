@@ -1,73 +1,73 @@
 # 🔮 Prediction
 
-![](../../.gitbook/assets/prediction-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/prediction-header.png)
 
-PancakeSwap Prediction is a fun and simple decentralized prediction market.
+PancakeSwap Prediction एक मजेदार और सरल विकेंद्रीकृत प्रेडिक्शन मार्केट है।
 
-> **Predict whether BNB, BTC, or ETH price will rise or fall – guess correctly to win!**
+> **भविष्यवाणी करें कि BNB, BTC, या ETH की कीमत बढ़ेगी या गिरेगी – सही अनुमान लगाने पर जीतें!**
 
-### Platforms
+### प्लेटफ़ॉर्म
 
-You can play PancakeSwap Prediction on:
+आप PancakeSwap Prediction यहाँ खेल सकते हैं:
 
 * **Desktop/ dApp**: [PancakeSwap Prediction Guide](https://docs.pancakeswap.finance/play/prediction/prediction-guide)
-* **Telegram Mini App (BNBUSD only)**: [Prediction Bot](https://docs.pancakeswap.finance/play/prediction/prediction-mini-app)
+* **Telegram Mini App (केवल BNBUSD)**: [Prediction Bot](https://docs.pancakeswap.finance/play/prediction/prediction-mini-app)
 
-### Summary: How It Works
+### सारांश: यह कैसे काम करता है
 
-1. **Choose an asset to bet on**: Currently available on **BNB Chain**, **zkSync Era**, and **Arbitrum One**.
-2. **Pick UP or DOWN**: Predict if the asset price will be higher or lower when the “LIVE” phase ends (each round = 5 minutes).
-3. Place your bet amount: Any BNB amount
-4. **Lock in your position**: Once placed, your bet cannot be changed.
-5. **Win or lose**:
-   * If you chose **UP**, you win if the _Closed Price_ > _Locked Price_ at the end of the round.
-   * If you chose **DOWN**, you win if the _Closed Price_ < _Locked Price_ at the end of the round.
+1. **बेट लगाने के लिए एक एसेट चुनें**: वर्तमान में **BNB Chain**, **zkSync Era**, और **Arbitrum One** पर उपलब्ध है।
+2. **UP या DOWN चुनें**: अनुमान लगाएं कि "LIVE" चरण समाप्त होने पर एसेट की कीमत अधिक होगी या कम (प्रत्येक राउंड = 5 मिनट)।
+3. अपनी बेट राशि दर्ज करें: कोई भी BNB राशि
+4. **अपनी स्थिति लॉक करें**: एक बार दर्ज करने के बाद, आपकी बेट बदली नहीं जा सकती।
+5. **जीतें या हारें**:
+   * यदि आपने **UP** चुना, तो राउंड के अंत में _Closed Price_ > _Locked Price_ होने पर आप जीतते हैं।
+   * यदि आपने **DOWN** चुना, तो राउंड के अंत में _Closed Price_ < _Locked Price_ होने पर आप जीतते हैं।
 
-### Mechanics & Fees
+### यांत्रिकी और शुल्क
 
-* **Supported Chains: BNB Chain, zkSync Era, Arbitrum One**
-* **Round frequency**: Every **5 minutes** (rolling rounds).
-* **Participation fee**: **3%** of each round’s total prize pool, a portion of which goes to **CAKE buybacks**.
-* **Winnings**: Claim anytime after results are finalized.
-* **Payouts** are based on the ratio of bets in each pool:
-  * Payout Ratio (UP Pool) = _(Total value of both pools ÷ Value of UP Pool)_
-  * Payout Ratio (DOWN Pool) = _(Total value of both pools ÷ Value of DOWN Pool)_
-  * See: [FAQ](prediction-faq.md) for worked example
+* **समर्थित चेन: BNB Chain, zkSync Era, Arbitrum One**
+* **राउंड की आवृत्ति**: हर **5 मिनट** (रोलिंग राउंड)।
+* **भागीदारी शुल्क**: प्रत्येक राउंड के कुल पुरस्कार पूल का **3%**, जिसका एक हिस्सा **CAKE बायबैक** में जाता है।
+* **जीत**: परिणाम अंतिम होने के बाद कभी भी दावा करें।
+* **भुगतान** प्रत्येक पूल में बेट के अनुपात पर आधारित हैं:
+  * भुगतान अनुपात (UP Pool) = _(दोनों पूल का कुल मूल्य ÷ UP Pool का मूल्य)_
+  * भुगतान अनुपात (DOWN Pool) = _(दोनों पूल का कुल मूल्य ÷ DOWN Pool का मूल्य)_
+  * देखें: [FAQ](prediction-faq.md) उदाहरण के लिए
 
-### Outcomes
+### परिणाम
 
-* **Win:** You share the total pot with other winners (minus 3% fee)
-* **Lose:** You lose your entire bet amount
+* **जीत:** आप 3% शुल्क घटाकर अन्य विजेताओं के साथ कुल पॉट साझा करते हैं
+* **हार:** आप अपनी पूरी बेट राशि खो देते हैं
 
-**Special Cases**:
+**विशेष मामले**:
 
-* **Tie** (Locked Price = Closed Price): House wins all bets.
-* If there are no opposing bets:
-  * If you win: reclaim 97% of your initial bet (3% fee applies).
-  * If you lose: forfeits your full bet to the house.
-* **Cancelled:** e.g. Oracle failure, users are refunded their initial bet amount
+* **टाई** (Locked Price = Closed Price): हाउस सभी बेट जीत लेता है।
+* यदि कोई विपरीत बेट नहीं है:
+  * यदि आप जीतते हैं: अपनी प्रारंभिक बेट का 97% वापस पाएं (3% शुल्क लागू होता है)।
+  * यदि आप हारते हैं: आपकी पूरी बेट हाउस को जाती है।
+* **रद्द:** जैसे Oracle की विफलता, उपयोगकर्ताओं को उनकी प्रारंभिक बेट राशि वापस मिलती है
 
-### Price Feeds (Oracles)
+### मूल्य फ़ीड (Oracles)
 
-| Chain     | Markets                                  | Purpose                                                                 | Oracle                     |
+| चेन     | मार्केट                                  | उद्देश्य                                                                 | Oracle                     |
 | --------- | ---------------------------------------- | ----------------------------------------------------------------------- | -------------------------- |
-| BNB Chain | BNBUSD, BTCUSD, ETHUSD, CAKEUSD (paused) | Sets the _Lock Price_ and _Closed Price_ (updated \~ up to 20 seconds). | **Chainlink**              |
-| BNB Chain | All                                      | Powers the live chart on the UI (for reference only).                   | Binance / TradingView Feed |
+| BNB Chain | BNBUSD, BTCUSD, ETHUSD, CAKEUSD (रुकी हुई) | _Lock Price_ और _Closed Price_ सेट करता है (लगभग 20 सेकंड तक अपडेट होता है)। | **Chainlink**              |
+| BNB Chain | सभी                                      | UI पर लाइव चार्ट को शक्ति देता है (केवल संदर्भ के लिए)।                   | Binance / TradingView Feed |
 
 #### **ChainLink Oracle**
 
-* Used for the Lock price and End price of each prediction market round. This updates in intervals of up to 20 seconds.
-* Our prediction contract uses the ChainLink Oracle price feed on BNB Chain to set the prices used to dictate whether a user has won or not.
-* Used for the "Chainlink" chart on the interface.
+* प्रत्येक प्रेडिक्शन मार्केट राउंड के Lock Price और End Price के लिए उपयोग किया जाता है। यह 20 सेकंड तक के अंतराल में अपडेट होता है।
+* हमारा प्रेडिक्शन कॉन्ट्रैक्ट BNB Chain पर ChainLink Oracle मूल्य फ़ीड का उपयोग करता है यह निर्धारित करने के लिए कि कोई उपयोगकर्ता जीता है या नहीं।
+* इंटरफ़ेस पर "Chainlink" चार्ट के लिए उपयोग किया जाता है।
 
 #### **Binance**
 
-* Used for real-time price updates on the PancakeSwap prediction market interface.
-* Used for the "TradingView" chart on the interface.
+* PancakeSwap प्रेडिक्शन मार्केट इंटरफ़ेस पर रियल-टाइम मूल्य अपडेट के लिए उपयोग किया जाता है।
+* इंटरफ़ेस पर "TradingView" चार्ट के लिए उपयोग किया जाता है।
 
-Since we’re using two different price feeds, the real-time price updates from Binance and the ChainLink Oracle price may differ by a small amount. However, they shouldn’t vary significantly.
+चूँकि हम दो अलग-अलग मूल्य फ़ीड का उपयोग करते हैं, Binance से रियल-टाइम मूल्य अपडेट और ChainLink Oracle मूल्य थोड़ा भिन्न हो सकते हैं। हालांकि, वे काफी भिन्न नहीं होने चाहिए।
 
-### Contract Addresses
+### कॉन्ट्रैक्ट पते
 
 BNB Chain:
 

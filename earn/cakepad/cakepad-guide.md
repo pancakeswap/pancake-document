@@ -1,114 +1,114 @@
-# How to Participate - CAKE.PAD
+# कैसे भाग लें — CAKE.PAD
 
-### Summary
+### सारांश
 
-**Before the CAKE.PAD event**
+**CAKE.PAD इवेंट से पहले**
 
-* [Buy / Prepare CAKE](https://pancakeswap.finance/swap) tokens
+* [CAKE](https://pancakeswap.finance/swap) टोकन खरीदें / तैयार करें
 
-**During the CAKE.PAD event**
+**CAKE.PAD इवेंट के दौरान**
 
-* While the event is live, deposit your CAKE to receive CAKE.PAD partner tokens at [https://pancakeswap.finance/cakepad](https://pancakeswap.finance/cakepad)
+* जब इवेंट लाइव हो, [https://pancakeswap.finance/cakepad](https://pancakeswap.finance/cakepad) पर CAKE.PAD पार्टनर टोकन प्राप्त करने के लिए अपना CAKE जमा करें
 
-**After the CAKE.PAD event**
+**CAKE.PAD इवेंट के बाद**
 
-1. When the event is complete, claim your CAKE.PAD partner tokens.
-2. In the case of an [overflow](cakepad-guide.md#overflow-sale-method), claim your unused CAKE tokens (minus [tiered tax](how-cake.pad-taxes-work-in-overflow-sales-with-example.md)).
-3. If the CAKE.PAD event has token vesting, return throughout the vesting period to claim released tokens until the end of the vesting schedule.
+1. जब इवेंट पूरा हो जाए, तो अपने CAKE.PAD पार्टनर टोकन क्लेम करें।
+2. [ओवरफ्लो](cakepad-guide.md#overflow-sale-method) की स्थिति में, अपने अप्रयुक्त CAKE टोकन क्लेम करें (माइनस [टियर्ड टैक्स](how-cake.pad-taxes-work-in-overflow-sales-with-example.md))।
+3. यदि CAKE.PAD इवेंट में टोकन वेस्टिंग है, तो वेस्टिंग शेड्यूल के अंत तक जारी किए गए टोकन क्लेम करने के लिए समय-समय पर वापस आएं।
 
 ***
 
-## A) Before the CAKE.PAD event
+## A) CAKE.PAD इवेंट से पहले
 
-Before you can join a CAKE.PAD event, the only thing you need to prepare is your CAKE tokens.
+CAKE.PAD इवेंट में शामिल होने से पहले, आपको केवल CAKE टोकन तैयार करने की आवश्यकता है।
 
-### Get CAKE Tokens
+### CAKE टोकन प्राप्त करें
 
-CAKE tokens are used to buy the tokens being offered in the CAKE.PAD event
+CAKE.PAD इवेंट में ऑफर किए जा रहे टोकन खरीदने के लिए CAKE टोकन का उपयोग किया जाता है।
 
-* If your CAKE is staked in a Syrup Pool, unstake it before the CAKE.PAD event
-* Else, make sure to buy some CAKE tokens in advance and hold them in your wallet
+* यदि आपका CAKE सिरप पूल में स्टेक है, तो CAKE.PAD इवेंट से पहले उसे अनस्टेक करें
+* अन्यथा, सुनिश्चित करें कि आप पहले से कुछ CAKE टोकन खरीद लें और उन्हें अपने वॉलेट में रखें
 
-### Knowing when a CAKE.PAD Event will Start
+### CAKE.PAD इवेंट कब शुरू होगा यह कैसे जानें
 
-CAKE.PAD events are **time-limited**. Use the following methods to ensure you don’t miss out:
+CAKE.PAD इवेंट **समय-सीमित** होते हैं। यह सुनिश्चित करने के लिए कि आप इन्हें न चूकें, निम्नलिखित तरीके उपयोग करें:
 
-1. Visit the CAKE.PAD event page: a **countdown timer** will be displayed with the exact timing of the upcoming CAKE.PAD event.
-2. Keep a close watch on PancakeSwap’s social media: There isn’t a set time before a CAKE.PAD event goes live for the countdown to start, so check PancakeSwap’s official accounts for announcements. The countdown and updates will give you plenty of time to prepare.
-3. Check the CAKE.PAD event forum post for the exact timing.
+1. CAKE.PAD इवेंट पेज पर जाएं: आगामी CAKE.PAD इवेंट के सटीक समय के साथ एक **काउंटडाउन टाइमर** प्रदर्शित होगा।
+2. PancakeSwap के सोशल मीडिया पर नज़र रखें: CAKE.PAD इवेंट के लाइव होने से पहले काउंटडाउन शुरू होने का कोई निर्धारित समय नहीं है, इसलिए घोषणाओं के लिए PancakeSwap के आधिकारिक अकाउंट्स देखें। काउंटडाउन और अपडेट आपको तैयारी के लिए पर्याप्त समय देंगे।
+3. सटीक समय के लिए CAKE.PAD इवेंट फोरम पोस्ट देखें।
 
-## B) During the CAKE.PAD Event
+## B) CAKE.PAD इवेंट के दौरान
 
-While the CAKE.PAD event is live, you will have limited time to participate. If you have prepared CAKE in your wallet, you can readily participate in the CAKE.PAD event!
+जब CAKE.PAD इवेंट लाइव हो, तो आपके पास भाग लेने का सीमित समय होगा। यदि आपने अपने वॉलेट में CAKE तैयार कर लिया है, तो आप CAKE.PAD इवेंट में तुरंत भाग ले सकते हैं!
 
-### Checking if the CAKE.PAD Event is Live
+### यह कैसे जाँचें कि CAKE.PAD इवेंट लाइव है
 
-On the CAKE.PAD event page, the event start countdown will switch to a countdown until the CAKE.PAD event sale ends. This shows you how much time remains to obtain the offered tokens.
+CAKE.PAD इवेंट पेज पर, इवेंट शुरू होने का काउंटडाउन CAKE.PAD इवेंट सेल समाप्त होने के काउंटडाउन में बदल जाएगा। यह दिखाता है कि ऑफर किए गए टोकन प्राप्त करने के लिए कितना समय शेष है।
 
-In each CAKE.PAD event, participants can commit any amount of CAKE. To enhance CAKE utility, a tiered participation fee applies. For details, check the CAKE.PAD event page or proposal for the specific event you want to join.
+प्रत्येक CAKE.PAD इवेंट में, प्रतिभागी कोई भी मात्रा में CAKE कमिट कर सकते हैं। CAKE उपयोगिता बढ़ाने के लिए, एक टियर्ड भागीदारी शुल्क लागू होता है। विवरण के लिए, CAKE.PAD इवेंट पेज या उस विशिष्ट इवेंट का प्रपोज़ल देखें जिसमें आप शामिल होना चाहते हैं।
 
-The final amount of CAKE.PAD partner tokens you receive is determined using the **Overflow Sale Method**.
+CAKE.PAD पार्टनर टोकन की अंतिम मात्रा जो आपको मिलती है, वह **ओवरफ्लो सेल विधि** का उपयोग करके निर्धारित की जाती है।
 
-### Overflow Sale Method
+### ओवरफ्लो सेल विधि
 
-1. Users can commit any amount of $CAKE to participate, no locking or staking needed
-2. Allocation each user gets is proportional to their committed CAKE
-3. If oversubscribed, only a portion of user’s committed CAKE is exchanged for project tokens
-4. The more you commit → the more allocation you get
-5. Heavily oversubscribed? Small commits may get 0
-6. All unused $CAKE will be refunded to participants (subject to tax, if applicable)
+1. उपयोगकर्ता कोई भी मात्रा में $CAKE कमिट कर सकते हैं, कोई लॉकिंग या स्टेकिंग की आवश्यकता नहीं
+2. प्रत्येक उपयोगकर्ता को मिलने वाला आवंटन उनके कमिटेड CAKE के अनुपात में होता है
+3. यदि ओवरसब्सक्राइब हो, तो उपयोगकर्ता के कमिटेड CAKE का केवल एक हिस्सा प्रोजेक्ट टोकन के लिए एक्सचेंज होता है
+4. जितना अधिक कमिट करेंगे → उतना अधिक आवंटन मिलेगा
+5. बहुत अधिक ओवरसब्सक्राइब? छोटे कमिट को 0 मिल सकता है
+6. सभी अप्रयुक्त $CAKE प्रतिभागियों को वापस कर दिया जाएगा (लागू होने पर टैक्स के अधीन)
 
-### Committing CAKE to the CAKE.PAD event
+### CAKE.PAD इवेंट में CAKE कमिट करना
 
-1. Click the Deposit button on the CAKE.PAD event sale card
+1. CAKE.PAD इवेंट सेल कार्ड पर Deposit बटन पर क्लिक करें
 
-<figure><img src="../../.gitbook/assets/image (466).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28466%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-2. Enter the amount of CAKE you want to commit. Any CAKE not used to buy tokens will be returned to you
-3.  Click **Confirm** and approve the transaction in your wallet<br>
+2. वह CAKE राशि दर्ज करें जो आप कमिट करना चाहते हैं। टोकन खरीदने में उपयोग न हुआ कोई भी CAKE आपको वापस कर दिया जाएगा।
+3.  **Confirm** पर क्लिक करें और अपने वॉलेट में लेनदेन अनुमोदित करें<br>
 
-    <figure><img src="../../.gitbook/assets/image (467).png" alt="" width="239"><figcaption></figcaption></figure>
-4. Your committed amount will be displayed in the sale section
-5. You can add more $CAKE any time during the CAKE.PAD event
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28467%29.png" alt="" width="239"><figcaption></figcaption></figure>
+4. आपकी कमिटेड राशि सेल अनुभाग में प्रदर्शित होगी
+5. CAKE.PAD इवेंट के दौरान कभी भी अधिक $CAKE जोड़ सकते हैं
 
-<figure><img src="../../.gitbook/assets/image (468).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28468%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-**Note:** If the CAKE.PAD event is oversubscribed, a **tiered participation fee** will apply. This fee is only taken from excess funds, not from the CAKE used to buy tokens.
+**नोट:** यदि CAKE.PAD इवेंट ओवरसब्सक्राइब है, तो **टियर्ड भागीदारी शुल्क** लागू होगा। यह शुल्क केवल अतिरिक्त फंड से लिया जाता है, टोकन खरीदने में उपयोग हुए CAKE से नहीं।
 
-See: [how-cake.pad-taxes-work-in-overflow-sales-with-example.md](how-cake.pad-taxes-work-in-overflow-sales-with-example.md "mention")
+देखें: [how-cake.pad-taxes-work-in-overflow-sales-with-example.md](how-cake.pad-taxes-work-in-overflow-sales-with-example.md "mention")
 
-## C) After the CAKE.PAD event
+## C) CAKE.PAD इवेंट के बाद
 
-### Collecting Tokens
+### टोकन एकत्र करना
 
-* When the CAKE.PAD event ends, you can collect your new tokens. Some CAKE.PAD events may have token vesting periods.
-* The number of tokens you receive depends on your CAKE deposit amount relative to the total amount committed.
-* Any extra CAKE not used for obtaining CAKE.PAD partner tokens will be returned (minus any applicable participation fee).
+* जब CAKE.PAD इवेंट समाप्त हो जाए, तो आप अपने नए टोकन एकत्र कर सकते हैं। कुछ CAKE.PAD इवेंट में टोकन वेस्टिंग अवधि हो सकती है।
+* आपको मिलने वाले टोकन की संख्या कुल कमिटेड राशि के सापेक्ष आपकी CAKE जमा राशि पर निर्भर करती है।
+* CAKE.PAD पार्टनर टोकन प्राप्त करने में उपयोग न हुआ कोई भी अतिरिक्त CAKE वापस कर दिया जाएगा (किसी भी लागू भागीदारी शुल्क को घटाकर)।
 
-#### CAKE.PAD event **without token vesting**
+#### CAKE.PAD इवेंट **टोकन वेस्टिंग के बिना**
 
-Collecting your new tokens is incredibly easy. Just go back to the CAKE.PAD event page once the CAKE.PAD event is finished and click the **Claim** button under the sale window. Confirm the action with your wallet. You'll now have your new tokens. Congratulations!
+अपने नए टोकन एकत्र करना बेहद आसान है। बस CAKE.PAD इवेंट समाप्त होने के बाद CAKE.PAD इवेंट पेज पर वापस जाएं और सेल विंडो के नीचे **Claim** बटन पर क्लिक करें। अपने वॉलेट से कार्रवाई की पुष्टि करें। अब आपके पास अपने नए टोकन होंगे। बधाई!
 
-#### CAKE.PAD event **with token vesting**
+#### CAKE.PAD इवेंट **टोकन वेस्टिंग के साथ**
 
-Some CAKE.PAD events may include vesting. Details are always shared in the proposal, and the vesting schedule is displayed on the CAKE.PAD event page.
+कुछ CAKE.PAD इवेंट में वेस्टिंग शामिल हो सकती है। विवरण हमेशा प्रपोज़ल में साझा किए जाते हैं, और वेस्टिंग शेड्यूल CAKE.PAD इवेंट पेज पर प्रदर्शित होती है।
 
-The page will show:
+पेज दिखाएगा:
 
-* Total purchased tokens
-* Tokens already released
-* Tokens available to claim
-* When vesting will be complete
+* कुल खरीदे गए टोकन
+* पहले से जारी टोकन
+* क्लेम करने के लिए उपलब्ध टोकन
+* वेस्टिंग कब पूरी होगी
 
-Click the **Claim** button to collect any tokens currently available.
+वर्तमान में उपलब्ध कोई भी टोकन एकत्र करने के लिए **Claim** बटन पर क्लिक करें।
 
-Throughout the vesting period, you can return to the CAKE.PAD event page at any time to claim tokens as they are released.
+वेस्टिंग अवधि के दौरान, आप किसी भी समय CAKE.PAD इवेंट पेज पर वापस आकर जारी होने वाले टोकन क्लेम कर सकते हैं।
 
-<figure><img src="../../.gitbook/assets/image (469).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28469%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-#### Using Your New Tokens in Farms
+#### फार्म में अपने नए टोकन उपयोग करें
 
-Now that you've got your shiny new tokens, you can put them to work for you! You can add liquidity for your token to receive trading fees and farming.
+अब जब आपके पास अपने चमकदार नए टोकन हैं, तो उन्हें अपने लिए काम में लगाएं! आप ट्रेडिंग शुल्क और फार्मिंग प्राप्त करने के लिए अपने टोकन के लिए तरलता जोड़ सकते हैं।
 
-* Read about adding liquidity [here](https://docs.pancakeswap.finance/get-started/liquidity-guide).
-* Read about farming [here](../yield-farming/).
+* तरलता जोड़ने के बारे में [यहाँ](https://docs.pancakeswap.finance/get-started/liquidity-guide) पढ़ें।
+* फार्मिंग के बारे में [यहाँ](../yield-farming/) पढ़ें।

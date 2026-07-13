@@ -1,8 +1,8 @@
 # V2 (deprecated)
 
-bCAKE V2 is deprecated. Staking, unstaking or harvesting on your farming position will automatically unset your booster.
+bCAKE V2 deprecated हो चुका है। आपकी farming position पर staking, unstaking या harvesting आपके booster को स्वचालित रूप से unset कर देगी।
 
-Find legacy documents here:
+Legacy documents यहाँ देखें:
 
 {% content-ref url="how-to-use-bcake.md" %}
 [how-to-use-bcake.md](how-to-use-bcake.md)

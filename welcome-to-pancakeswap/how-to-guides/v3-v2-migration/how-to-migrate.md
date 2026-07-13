@@ -1,20 +1,20 @@
 ---
 description: >-
-  Migrate your liquidity and farm stakings to the new PancakeSwap Exchange and
-  Farm V3
+  अपनी तरलता और Farm Staking को नए PancakeSwap Exchange और
+  Farm V3 में माइग्रेट करें
 ---
 
-# How to migrate
+# माइग्रेट कैसे करें
 
-<figure><img src="../../../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28133%29.png" alt=""><figcaption></figcaption></figure>
 
-In April 2023, PancakeSwap announced V3 for Exchange and Farms. Some farming pairs will need to be migrated to keep earning staking rewards. Relax, like last time, it should be smooth.
+अप्रैल 2023 में, PancakeSwap ने Exchange और Farms के लिए v3 की घोषणा की। कुछ Farming जोड़ियों को Staking रिवॉर्ड अर्जित करते रहने के लिए माइग्रेट करना होगा। निश्चिंत रहें, पिछली बार की तरह, यह प्रक्रिया सहज होनी चाहिए।
 
-### But wait! Do I need to migrate? <a href="#id-4b9e0260-9dee-493b-b0ad-6bdba084cea6" id="id-4b9e0260-9dee-493b-b0ad-6bdba084cea6"></a>
+### लेकिन रुकिए! क्या मुझे माइग्रेट करना होगा? <a href="#id-4b9e0260-9dee-493b-b0ad-6bdba084cea6" id="id-4b9e0260-9dee-493b-b0ad-6bdba084cea6"></a>
 
-You need to migrate if you meet the following conditions:
+आपको माइग्रेट करना होगा यदि आप निम्नलिखित शर्तें पूरी करते हैं:
 
-**Farming on the following V2 PancakeSwap Farms:**
+**निम्नलिखित v2 PancakeSwap Farms पर Farming:**
 
 * BNB Chain:
   * CAKE-BNB
@@ -36,99 +36,99 @@ You need to migrate if you meet the following conditions:
   * ETH-USDT
   * WBTC-ETH
 
-The list will likely grow eventually. The easiest way to check the updated list is to visit [https://pancakeswap.finance/migration](https://pancakeswap.finance/migration) and connect your wallet
+यह सूची धीरे-धीरे बढ़ सकती है। अपडेटेड सूची देखने का सबसे आसान तरीका [https://pancakeswap.finance/migration](https://pancakeswap.finance/migration) पर जाना और अपना वॉलेट कनेक्ट करना है
 
-**Providing V2 liquidity, and meeting the following conditions:**
+**v2 तरलता प्रदान करना, और निम्नलिखित शर्तें पूरी होना:**
 
-* The majority of the liquidity for the token pair has been migrated to V3 - Please check the PancakeSwap Info page, or the website or social channels of the token project for more detail.
-* The project team of that token has announced the liquidity will be migrated to V3 - Please check the individual project websites or social channels for more detail.
+* उस टोकन जोड़े की अधिकांश तरलता v3 में माइग्रेट हो चुकी है - अधिक जानकारी के लिए कृपया PancakeSwap Info पेज, या टोकन प्रोजेक्ट की वेबसाइट या सोशल चैनल देखें।
+* उस टोकन की प्रोजेक्ट टीम ने घोषणा की है कि तरलता v3 में माइग्रेट की जाएगी - अधिक जानकारी के लिए कृपया संबंधित प्रोजेक्ट वेबसाइट या सोशल चैनल देखें।
 
-### How to migrate <a href="#c7d7b407-268c-460c-a4f1-be1b771db5e7" id="c7d7b407-268c-460c-a4f1-be1b771db5e7"></a>
+### माइग्रेट कैसे करें <a href="#c7d7b407-268c-460c-a4f1-be1b771db5e7" id="c7d7b407-268c-460c-a4f1-be1b771db5e7"></a>
 
-<figure><img src="../../../.gitbook/assets/image (283).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28283%29.png" alt=""><figcaption></figcaption></figure>
 
-Look for the V3 migration banner on the Liquidity or Farm page. Then click “Proceed” to enter the migration helper page.
-
-
-
-**Step 1 - Unstake from V2 and/or StableSwap farms**
-
-<figure><img src="../../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
-
-In step 1, the helper will list all the PancakeSwap V2 or StableSwap farms that require migrations.
-
-Click each of the “Unstake All” buttons to unstake all staked LP tokens from farms. Your wallet will ask for confirmation.
-
-When all the listed farms are unstaked, click “Next Steps” to proceed.
+Liquidity या Farm पेज पर V3 माइग्रेशन बैनर खोजें। फिर माइग्रेशन हेल्पर पेज पर जाने के लिए "Proceed" पर क्लिक करें।
 
 
 
-**Step 2 - Remove liquidity from Exchange V2 or StableSwap**
+**Step 1 - v2 और/या StableSwap Farms से अनस्टेक करें**
 
-<figure><img src="../../../.gitbook/assets/image (315).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28119%29.png" alt=""><figcaption></figcaption></figure>
 
-In step 2, the helper will list all the liquidity positions that can be migrated to V3 with CAKE yield farming.
+Step 1 में, हेल्पर उन सभी PancakeSwap v2 या StableSwap Farms की सूची दिखाएगा जिन्हें माइग्रेट करना आवश्यक है।
 
-Click each of the "Remove" buttons to bring up the remove liquidity modal with 100% selected.&#x20;
+Farms से सभी Staking किए हुए LP टोकन अनस्टेक करने के लिए प्रत्येक "Unstake All" बटन पर क्लिक करें। आपका वॉलेट पुष्टि के लिए पूछेगा।
 
-Then click “Enable”, sign the transaction in your wallet, and click “Remove”. Your wallet will ask for confirmation.
+जब सभी सूचीबद्ध Farms अनस्टेक हो जाएं, तो आगे बढ़ने के लिए "Next Steps" पर क्लिक करें।
+
+
+
+**Step 2 - Exchange v2 या StableSwap से तरलता हटाएं**
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28315%29.png" alt=""><figcaption></figcaption></figure>
+
+Step 2 में, हेल्पर उन सभी तरलता पोजीशन की सूची दिखाएगा जिन्हें CAKE Yield Farming के साथ v3 में माइग्रेट किया जा सकता है।
+
+100% चयनित के साथ तरलता हटाने का मोडल खोलने के लिए प्रत्येक "Remove" बटन पर क्लिक करें।&#x20;
+
+फिर "Enable" पर क्लिक करें, अपने वॉलेट में लेनदेन साइन करें, और "Remove" पर क्लिक करें। आपका वॉलेट पुष्टि के लिए पूछेगा।
 
 {% hint style="info" %}
-Even though some other project tokens are also migrating to V3, they will not appear in the list. Please check the individual project websites or social channels for more detail. And use the [Liquidity](https://pancakeswap.finance/liquidity) page to migrate manually.
+हालांकि कुछ अन्य प्रोजेक्ट टोकन भी v3 में माइग्रेट हो रहे हैं, वे सूची में दिखाई नहीं देंगे। अधिक जानकारी के लिए कृपया संबंधित प्रोजेक्ट वेबसाइट या सोशल चैनल देखें। और मैन्युअल रूप से माइग्रेट करने के लिए [Liquidity](https://pancakeswap.finance/liquidity) पेज का उपयोग करें।
 {% endhint %}
 
 
 
-**Step 3 - Get ready for V3**
+**Step 3 - v3 के लिए तैयार हो जाएं**
 
-<figure><img src="../../../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28186%29.png" alt=""><figcaption></figcaption></figure>
 
-No action is needed. Simply read and make sure you are familiar with how V3 works and how to provide liquidity in V3.
+कोई कार्रवाई आवश्यक नहीं है। बस पढ़ें और सुनिश्चित करें कि आप v3 के काम करने के तरीके और v3 में तरलता प्रदान करने से परिचित हैं।
 
 
 
-**Step 4 - Add V3 liquidity**
+**Step 4 - v3 तरलता जोड़ें**
 
-![](<../../../.gitbook/assets/image (325).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28325%29.png)
 
-In this step, you will add your liquidity to the new Exchange V3.
+इस चरण में, आप नए Exchange v3 में अपनी तरलता जोड़ेंगे।
 
-Click “Add Liquidity”. Your previously removed V2 liquidity will show up in the list, click “Add” to bring up the interface for adding V3 liquidity.
+"Add Liquidity" पर क्लिक करें। आपकी पहले हटाई गई v2 तरलता सूची में दिखाई देगी, v3 तरलता जोड़ने का इंटरफ़ेस खोलने के लिए "Add" पर क्लिक करें।
 
-If you don’t see the pair you want to add, click “Add Other Pairs” instead and choose the two tokens manually.
+यदि आपको वह जोड़ी नहीं दिखती जिसे आप जोड़ना चाहते हैं, तो इसके बजाय "Add Other Pairs" पर क्लिक करें और दो टोकन मैन्युअल रूप से चुनें।
 
-For a more detailed tutorial on how to provide liquidity in V3, read [here](../../../earn/pancakeswap-pools/liquidity-guide.md).
+v3 में तरलता प्रदान करने के अधिक विस्तृत ट्यूटोरियल के लिए, [यहाँ](../../../earn/pancakeswap-pools/liquidity-guide.md) पढ़ें।
 
-If you have questions while providing liquidity in V3, check here for [FAQ](../../../trade/trading-faq/swap-faq.md).
+यदि v3 में तरलता प्रदान करते समय आपके कोई प्रश्न हैं, तो [FAQ](../../../trade/trading-faq/swap-faq.md) यहाँ देखें।
 
 {% hint style="warning" %}
-Please be aware that in Exchange V3, only active (in-range) liquidity positions will earn trading fee rewards.
+कृपया ध्यान रखें कि Exchange v3 में, केवल सक्रिय (in-range) तरलता पोजीशन ही ट्रेडिंग शुल्क रिवॉर्ड अर्जित करेंगी।
 
-Please be cautious while setting the price range for the liquidity position.
+तरलता पोजीशन के लिए मूल्य सीमा निर्धारित करते समय सावधानी बरतें।
 {% endhint %}
 
 
 
-**Step 5 - Stake in V3 farms**
+**Step 5 - v3 Farms में Stake करें**
 
-<figure><img src="../../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2835%29.png" alt=""><figcaption></figcaption></figure>
 
-In this step, you will stake your freshly added V3 liquidity positions to the new V3 farms to start earning CAKE rewards!
+इस चरण में, आप CAKE रिवॉर्ड अर्जित करना शुरू करने के लिए अपनी नई जोड़ी गई v3 तरलता पोजीशन को नए v3 Farms में Stake करेंगे!
 
-Click each of the “Stake” buttons on the position to stake them into farms. Your wallet will ask for confirmation.
+पोजीशन पर प्रत्येक "Stake" बटन पर क्लिक करके उन्हें Farms में Stake करें। आपका वॉलेट पुष्टि के लिए पूछेगा।
 
-For a more detailed tutorial on how to farm in V3, read [here](../../../earn/yield-farming/how-to-use-farms/#farm-v3).
+v3 में Farm करने के अधिक विस्तृत ट्यूटोरियल के लिए, [यहाँ](../../../earn/yield-farming/how-to-use-farms/#farm-v3) पढ़ें।
 
-If you have questions while staking liquidity in V3 farms, check here for [FAQ](../../../earn/earn-faq/farming-faq.md).
+यदि v3 Farms में तरलता Staking करते समय आपके कोई प्रश्न हैं, तो [FAQ](../../../earn/earn-faq/farming-faq.md) यहाँ देखें।
 
 {% hint style="warning" %}
-Please be aware that in Farm V3, only active (in-range) liquidity positions will earn CAKE rewards.
+कृपया ध्यान रखें कि Farm v3 में, केवल सक्रिय (in-range) तरलता पोजीशन ही CAKE रिवॉर्ड अर्जित करेंगी।
 
-Please be cautious while setting the price range for the liquidity position.
+तरलता पोजीशन के लिए मूल्य सीमा निर्धारित करते समय सावधानी बरतें।
 {% endhint %}
 
 
 
-**Finished**
+**समाप्त**
 
-That's it. You've migrated your farm staking and liquidity to the new PancakeSwap V3!
+बस इतना ही। आपने अपनी Farm Staking और तरलता को नए PancakeSwap v3 में माइग्रेट कर लिया है!

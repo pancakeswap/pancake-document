@@ -1,64 +1,63 @@
-# How to use bCAKE?
+# bCAKE का उपयोग कैसे करें?
 
-![](../../../../.gitbook/assets/how-to-use-bCAKE.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-use-bCAKE.png)
 
-Similar to iCAKE and vCAKE, bCAKE is also a benefit designed for users who lock their CAKE in the fixed-term CAKE staking pool. The boost multiplier is calculated based on how much CAKE you stake, how long you are staking them for, as well as how many LP tokens you are staking in the farm that you want to boost.
+iCAKE और vCAKE की तरह, bCAKE भी उन उपयोगकर्ताओं के लिए डिज़ाइन किया गया लाभ है जो fixed-term CAKE staking pool में अपना CAKE lock करते हैं। Boost multiplier की गणना इस आधार पर की जाती है कि आप कितना CAKE stake करते हैं, कितने समय के लिए stake करते हैं, और साथ ही उस farm में आप कितने LP tokens stake कर रहे हैं जिसे आप boost करना चाहते हैं।
 
-## Preparations
+## तैयारी
 
-### Initiate a fixed-term CAKE staking position
+### Fixed-term CAKE staking position शुरू करें
 
-![](../../../../.gitbook/assets/bCAKE-no-cake-locked.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bCAKE-no-cake-locked.png)
 
-If you haven't locked any CAKE in the CAKE staking pool, click "Go to Pool" and follow the instructions to initiate a fixed-term staking position.
+यदि आपने CAKE staking pool में कोई CAKE lock नहीं किया है, तो "Go to Pool" पर क्लिक करें और fixed-term staking position शुरू करने के निर्देशों का पालन करें।
 
-To learn more about how to do fixed-term CAKE staking, read [here](../../../../archive/legacy-products/new-cake-pool/#fixed-term-staking).
+Fixed-term CAKE staking कैसे करें, इसके बारे में अधिक जानने के लिए, [यहाँ](../../../../archive/legacy-products/new-cake-pool/#fixed-term-staking) पढ़ें।
 
-### Enable farm boosters
+### Farm boosters enable करें
 
-![](../../../../.gitbook/assets/bCAKE-enable-booster.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bCAKE-enable-booster.png)
 
-To enable farm boosters, you must complete a one-time setup process. To proceed, simply click "Enable" and confirm the transaction from your wallet.
+Farm boosters enable करने के लिए, आपको एक बार का setup process पूरा करना होगा। आगे बढ़ने के लिए, बस "Enable" पर क्लिक करें और अपने वॉलेट से transaction confirm करें।
 
-### Migrate your stakings
-
-{% hint style="info" %}
-If you are not currently staking in the farm you want to activate bCAKE, you can skip this step and start by staking LP tokens in the farm.
-{% endhint %}
-
-![](../../../../.gitbook/assets/bCAKE-staking-migration-needed.png)
-
-If you have been staking in the farm you want to activate the farm booster, a one-time staking migration is also required.
-
-Click "Migrate" and follow the step-by-step guide to complete the migrations. Your CAKE rewards will be automatically harvested and sent to your wallet.
-
-![](../../../../.gitbook/assets/bCAKE-migration-inprogress.png)
-
-## Activate Boosters
-
-![](<../../../../.gitbook/assets/bCAKE-pending-activation (1).png>)
-
-Once ready, you should see the available boost multiplier and the boosted APR for the farm you are currently staking. To learn more about how the bCAKE multiplier is calculated, read [here](../faq.md#how-are-the-bcake-multipliers-calculated).
-
-To activate the boost, click the "Boost" button, and confirm the transaction from your wallet.
+### अपनी stakings Migrate करें
 
 {% hint style="info" %}
-Please note that any user actions to the farms or CAKE staking pool will automatically update your boost multiplier based on the latest data and statistics from farms and the CAKE staking pool.
-
-Learn more [here](../faq.md#why-do-my-multipliers-change-even-after-activation).
+यदि आप उस farm में staking नहीं कर रहे हैं जिसके लिए आप bCAKE activate करना चाहते हैं, तो आप इस चरण को छोड़ सकते हैं और farm में LP tokens stake करके शुरू कर सकते हैं।
 {% endhint %}
 
-### ![](../../../../.gitbook/assets/bCAKE-farm-number-limit.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bCAKE-staking-migration-needed.png)
 
-There is a limit to the number of farms that are able to boost simultaneously. To check the number of remaining boosters, refer to the panel on top.
+यदि आप उस farm में पहले से staking कर रहे हैं जिसके लिए आप farm booster activate करना चाहते हैं, तो एक बार की staking migration भी आवश्यक है।
 
-You will need to unset an active booster in order to activate boosters on other farms.
+"Migrate" पर क्लिक करें और migrations पूरी करने के लिए step-by-step guide का पालन करें। आपके CAKE rewards स्वचालित रूप से harvest होकर आपके वॉलेट में भेज दिए जाएंगे।
 
-## Unset Boosters
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bCAKE-migration-inprogress.png)
 
-![](<../../../../.gitbook/assets/bCAKE-pending-unset (1).png>)
+## Boosters Activate करें
 
-To unset a farm booster, simply click the "Unset" button, and confirm the transaction from your wallet.
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bCAKE-pending-activation%20%281%29.png)
 
-Please note upon unsetting, CAKE earned will be harvested to the farm booster contract and will be automatically sent to your wallet upon the next harvest, deposit or withdrawal. Learn more [here](../faq.md#where-are-my-cake-rewards-after-activating-or-unsetting-the-booster).
+तैयार होने पर, आपको उस farm के लिए उपलब्ध boost multiplier और boosted APR दिखेगा जिसमें आप वर्तमान में staking कर रहे हैं। bCAKE multiplier की गणना कैसे होती है, इसके बारे में अधिक जानने के लिए, [यहाँ](../faq.md#how-are-the-bcake-multipliers-calculated) पढ़ें।
 
+Boost activate करने के लिए, "Boost" बटन पर क्लिक करें और अपने वॉलेट से transaction confirm करें।
+
+{% hint style="info" %}
+कृपया ध्यान दें कि farms या CAKE staking pool में कोई भी user action, farms और CAKE staking pool से नवीनतम data और statistics के आधार पर आपके boost multiplier को स्वचालित रूप से अपडेट करेगा।
+
+अधिक जानें [यहाँ](../faq.md#why-do-my-multipliers-change-even-after-activation)।
+{% endhint %}
+
+### ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bCAKE-farm-number-limit.png)
+
+एक साथ boost होने वाली farms की संख्या की एक सीमा है। remaining boosters की संख्या जाँचने के लिए, ऊपर के panel को देखें।
+
+अन्य farms पर boosters activate करने के लिए आपको एक सक्रिय booster unset करना होगा।
+
+## Boosters Unset करें
+
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bCAKE-pending-unset%20%281%29.png)
+
+Farm booster unset करने के लिए, बस "Unset" बटन पर क्लिक करें और अपने वॉलेट से transaction confirm करें।
+
+कृपया ध्यान दें कि unset करने पर, CAKE rewards farm booster contract में harvest होंगे और अगली harvest, deposit या withdrawal पर स्वचालित रूप से आपके वॉलेट में भेजे जाएंगे। अधिक जानें [यहाँ](../faq.md#where-are-my-cake-rewards-after-activating-or-unsetting-the-booster)।

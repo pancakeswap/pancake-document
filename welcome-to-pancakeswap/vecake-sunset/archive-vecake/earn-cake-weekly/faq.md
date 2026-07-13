@@ -1,48 +1,48 @@
-# FAQ
+# अक्सर पूछे जाने वाले सवाल (FAQ)
 
-### I’ve locked my CAKE or migrated my CAKE pool position. Why do I still have 0 shares? <a href="#cae64522-4729-43a2-8fa8-6bbd2567dcea" id="cae64522-4729-43a2-8fa8-6bbd2567dcea"></a>
+### मैंने अपना CAKE lock किया या CAKE pool position migrate की। फिर भी मेरे 0 shares क्यों हैं? <a href="#cae64522-4729-43a2-8fa8-6bbd2567dcea" id="cae64522-4729-43a2-8fa8-6bbd2567dcea"></a>
 
-Shares are updated upon each weekly distribution at 00:00 UTC every Thursday.
+Shares हर गुरुवार को 00:00 UTC पर साप्ताहिक वितरण के दौरान अपडेट होते हैं।
 
-Rewards are accumulated whenever you have finished staking for a complete epoch.&#x20;
+Rewards तब जमा होते हैं जब आप एक पूरे epoch के लिए staking पूरी कर चुके होते हैं।&#x20;
 
-Epochs are 7-day periods, starting every Thursday, UTC 00:00. For example, if you stake on Tuesday. Your first epoch will start on Thursday. Once you have finished staking till the next Thursday. You will be able to claim your rewards from this Thursday to next Thursday, aka epoch 1.
+Epochs 7-दिवसीय अवधि होती हैं, जो प्रत्येक गुरुवार UTC 00:00 से शुरू होती हैं। उदाहरण के लिए, यदि आप मंगलवार को stake करते हैं, तो आपका पहला epoch गुरुवार से शुरू होगा। एक बार जब आप अगले गुरुवार तक staking पूरी कर लेते हैं, तो आप इस गुरुवार से अगले गुरुवार तक के rewards claim कर सकते हैं, यानी epoch 1।
 
-Check back again each Thursday for updated reward numbers.
+अपडेट किए गए reward numbers के लिए हर गुरुवार वापस जाँचें।
 
-### Why are my shares/rewards being 0 despite having an active staking position? <a href="#9f2843b7-1a26-4248-8c3e-f5343b2de92e" id="9f2843b7-1a26-4248-8c3e-f5343b2de92e"></a>
+### सक्रिय staking position होने के बावजूद मेरे shares/rewards 0 क्यों हैं? <a href="#9f2843b7-1a26-4248-8c3e-f5343b2de92e" id="9f2843b7-1a26-4248-8c3e-f5343b2de92e"></a>
 
-When calculating rewards. The remaining lock duration is rounded down to weeks. Therefore, to receive shares, you must ensure your staking position unlocks no earlier than the very next Thursday 00:00 UTC.
+Rewards की गणना करते समय, remaining lock duration को सप्ताहों में घटाकर round किया जाता है। इसलिए, shares प्राप्त करने के लिए, आपको सुनिश्चित करना होगा कि आपकी staking position अगले गुरुवार 00:00 UTC से पहले unlock न हो।
 
-For example, week 1 starts at 00:00 UTC, Thursday, 1 Jan. To receive rewards for the week 1 distribution. You must:
+उदाहरण के लिए, सप्ताह 1 गुरुवार, 1 जनवरी 00:00 UTC से शुरू होता है। सप्ताह 1 वितरण के लिए rewards प्राप्त करने हेतु, आपको:
 
-* Join before 00:00 UTC, 1 Jan.
-* Have an active veCAKE staking position, which unlocks equal to or later than 00:00 UTC, 15 Jan. (Thursday on week 3)
+* 1 जनवरी, 00:00 UTC से पहले शामिल होना होगा।
+* एक सक्रिय veCAKE staking position रखनी होगी, जो 15 जनवरी (सप्ताह 3 का गुरुवार) 00:00 UTC के बराबर या उससे बाद unlock हो।
 
-Please note that if your staking position unlocks at 00:00 UTC, 8 Jan (Thursday on week 2). You will still receive 0 rewards for week 1 due to your veCAKE balance turning at 00:00 UTC, 8 Jan.
+कृपया ध्यान दें कि यदि आपकी staking position 8 जनवरी (सप्ताह 2 का गुरुवार) 00:00 UTC को unlock होती है, तो आपको सप्ताह 1 के लिए 0 rewards मिलेंगे क्योंकि आपका veCAKE balance 8 जनवरी 00:00 UTC पर शून्य हो जाएगा।
 
-### Can I join a distribution period mid-week? <a href="#db254eef-09b7-41d7-bb56-310c77ce976b" id="db254eef-09b7-41d7-bb56-310c77ce976b"></a>
+### क्या मैं सप्ताह के बीच में किसी वितरण अवधि में शामिल हो सकता हूँ? <a href="#db254eef-09b7-41d7-bb56-310c77ce976b" id="db254eef-09b7-41d7-bb56-310c77ce976b"></a>
 
-No, as mentioned, rewards can only start to accumulate when you are already staking at the beginning of the epoch. Which is every week at 00:00 UTC, Thursday.&#x20;
+नहीं, जैसा उल्लेख किया गया है, rewards तभी जमा होना शुरू हो सकते हैं जब आप epoch की शुरुआत में पहले से staking कर रहे हों। यह हर सप्ताह गुरुवार को 00:00 UTC है।&#x20;
 
-### How do I receive more rewards? <a href="#db254eef-09b7-41d7-bb56-310c77ce976b" id="db254eef-09b7-41d7-bb56-310c77ce976b"></a>
+### मुझे अधिक rewards कैसे मिलेंगे? <a href="#db254eef-09b7-41d7-bb56-310c77ce976b" id="db254eef-09b7-41d7-bb56-310c77ce976b"></a>
 
-Since your shares in pools are calculated based on veCAKE balance at the distribution time, which is at 00:00 UTC next coming Thursday. To receive more rewards, simply bump up your veCAKE balance by:
+चूँकि pools में आपके shares वितरण के समय veCAKE balance के आधार पर गणना किए जाते हैं, जो अगले आने वाले गुरुवार 00:00 UTC पर होता है, अधिक rewards प्राप्त करने के लिए, बस अपना veCAKE balance बढ़ाएं:
 
-* Locking more CAKE in the veCAKE staking position
-* Renewing your staking position
+* veCAKE staking position में अधिक CAKE lock करके
+* अपनी staking position नवीनीकृत करके
 
-Please note that after adding CAKE or extending, your shares will only update after the beginning of the next epoch, which is 00:00 UTC, the coming Thursday.
+कृपया ध्यान दें कि CAKE जोड़ने या extend करने के बाद, आपके shares केवल अगले epoch की शुरुआत, यानी आने वाले गुरुवार 00:00 UTC पर ही अपडेट होंगे।
 
-### Why are the weekly injected rewards not 100% matching the volume displayed on various trackers (like the Info page)? Why are the weekly CAKE pool rewards not 100% matching the gauges voting results.
+### साप्ताहिक इंजेक्ट किए गए rewards विभिन्न trackers (जैसे Info page) पर दिखाए गए volume से 100% मेल क्यों नहीं खाते? साप्ताहिक CAKE pool rewards gauges voting results से 100% मेल क्यों नहीं खाते?
 
-The number of CAKE rewards injected weekly may not be 100% matching with the numbers calculated from the volume displayed on various trackers. Multiple external factors may impact the number of CAKE rewards that can be converted:
+साप्ताहिक इंजेक्ट किए गए CAKE rewards की संख्या विभिन्न trackers पर दिखाए गए volume से गणना की गई संख्याओं से 100% मेल नहीं खा सकती। कई बाहरी कारक CAKE rewards की उस संख्या को प्रभावित कर सकते हैं जिसे convert किया जा सकता है:
 
-* CAKE token price while the trading fee is being converted and processed
-* Underlying asset prices while the trading fee is being converted and processed
-* To save gas and operational cost. Revenues from blockchains other than BNB Chain are processed monthly. They will be injected with a one-month delay with weekly averaging.
-* Some trading pairs may have insufficient liquidity while processing the trading fee.
-* Some trading pairs may contain tokens with custom logic that prevent their fee from being processed.
-* Transaction delays due to infrastructures and supportive system performance.
+* Trading fee convert और process होते समय CAKE token की कीमत
+* Trading fee convert और process होते समय अंतर्निहित asset की कीमतें
+* Gas और operational cost बचाने के लिए, BNB Chain के अलावा अन्य blockchains से revenue मासिक रूप से process की जाती है। इन्हें साप्ताहिक औसत के साथ एक महीने की देरी से इंजेक्ट किया जाएगा।
+* Trading fee process करते समय कुछ trading pairs में अपर्याप्त तरलता हो सकती है।
+* कुछ trading pairs में ऐसे tokens हो सकते हैं जिनमें custom logic है जो उनकी fee को process होने से रोकती है।
+* Infrastructure और supportive system performance के कारण transaction में देरी।
 
-Chefs are working hard to apply tools and practices to ensure more trading fees generated can be processed and converted into CAKE.
+अधिक trading fees को process करके CAKE में convert किया जा सके, इसके लिए Chefs tools और practices लागू करने पर कड़ी मेहनत कर रहे हैं।

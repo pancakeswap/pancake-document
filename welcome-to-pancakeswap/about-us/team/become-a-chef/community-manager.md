@@ -4,31 +4,31 @@ hidden: true
 
 # Community Manager
 
-* Position: Full-time
-* Location: Remote
-* Timezone: UTC+8
+* पद: पूर्णकालिक
+* स्थान: रिमोट
+* समय क्षेत्र: UTC+8
 
-We are looking for an experienced Community Manager to activate, engage, and grow the PancakeSwap community. The ideal candidate has a strong understanding of DeFi communities and a proven track record in community management and growth.
+हम एक अनुभवी Community Manager की तलाश कर रहे हैं जो PancakeSwap समुदाय को सक्रिय, संलग्न और विकसित करे। आदर्श उम्मीदवार को DeFi समुदायों की मजबूत समझ और समुदाय प्रबंधन एवं विकास में सिद्ध ट्रैक रिकॉर्ड होगा।
 
-### **Responsibilities:**
+### **जिम्मेदारियाँ:**
 
-* Grow PancakeSwap's presence via organic and community efforts
-* ﻿﻿Represent PancakeSwap as a spokesperson in community channels (Discord, Telegram, X, community spaces, AMAs), actively advocates for our products, brand, and ecosystem
-* ﻿﻿Plan and execute regional meetups, AMAs, community events and initiatives with clear growth outcomes and results
-* ﻿Actively explore and coordinate joint efforts with relevant crypto projects and communities to increase community activations
-* ﻿﻿Manage PancakeSwap's ambassador program to support PancakeSwap's presence across community channels, content, and local community events
-* ﻿﻿Act as a bridge between the PancakeSwap community and internal teams, relaying community and product feedback to drive PancakeSwap's growth and success
-* ﻿﻿Identify and engage with community content creators and influencers to produce relevant and engaging content aligned with PancakeSwap's brand and goals
-* ﻿﻿Provide weekly reports on activities, metrics, and community feedback
+* जैविक और सामुदायिक प्रयासों के माध्यम से PancakeSwap की उपस्थिति बढ़ाएँ
+* ﻿﻿समुदाय चैनलों (Discord, Telegram, X, सामुदायिक स्थान, AMA) में PancakeSwap के प्रवक्ता के रूप में प्रतिनिधित्व करें, हमारे उत्पादों, ब्रांड और पारिस्थितिकी तंत्र की सक्रिय रूप से वकालत करें
+* ﻿﻿स्पष्ट वृद्धि परिणामों और नतीजों के साथ क्षेत्रीय मीटअप, AMA, समुदाय कार्यक्रमों और पहलों की योजना बनाएँ और उन्हें लागू करें
+* ﻿समुदाय सक्रियण बढ़ाने के लिए प्रासंगिक क्रिप्टो परियोजनाओं और समुदायों के साथ संयुक्त प्रयासों की सक्रिय रूप से खोज करें और समन्वय करें
+* ﻿﻿समुदाय चैनलों, सामग्री और स्थानीय सामुदायिक कार्यक्रमों में PancakeSwap की उपस्थिति का समर्थन करने के लिए PancakeSwap के एंबेसडर कार्यक्रम का प्रबंधन करें
+* ﻿﻿PancakeSwap की वृद्धि और सफलता को बढ़ावा देने के लिए समुदाय और उत्पाद प्रतिक्रिया देते हुए PancakeSwap समुदाय और आंतरिक टीमों के बीच सेतु का काम करें
+* ﻿﻿PancakeSwap के ब्रांड और लक्ष्यों के अनुरूप प्रासंगिक और आकर्षक सामग्री बनाने के लिए सामुदायिक कंटेंट क्रिएटर और प्रभावशाली लोगों की पहचान करें और उनसे जुड़ें
+* ﻿﻿गतिविधियों, मेट्रिक्स और समुदाय प्रतिक्रिया पर साप्ताहिक रिपोर्ट प्रदान करें
 
-### **Requirements**
+### **आवश्यकताएँ**
 
-* 2+ years of experience as a community manager in the DeFi or crypto space
-* ﻿﻿Language: Fluent in English. Additional languages a plus.
-* ﻿﻿Deep understanding of crypto-native communities, DeFi users, and on-chain culture
-* ﻿﻿Excellent communication skills and able to drive effective conversations
-* ﻿﻿Experience with community platforms and tools on Discord, Telegram, X, etc.
-* ﻿﻿Proactive, results-oriented, and able to operate in a fast-paced environment
+* DeFi या क्रिप्टो क्षेत्र में Community Manager के रूप में 2+ वर्षों का अनुभव
+* ﻿﻿भाषा: अंग्रेज़ी में प्रवाह। अतिरिक्त भाषाएँ एक प्लस हैं।
+* ﻿﻿क्रिप्टो-नेटिव समुदायों, DeFi उपयोगकर्ताओं और ऑन-चेन संस्कृति की गहरी समझ
+* ﻿﻿उत्कृष्ट संचार कौशल और प्रभावी बातचीत करने में सक्षम
+* ﻿﻿Discord, Telegram, X आदि पर समुदाय प्लेटफ़ॉर्म और टूल्स का अनुभव
+* ﻿﻿सक्रिय, परिणाम-उन्मुख, और तेज़-गति वाले वातावरण में काम करने में सक्षम
 
-**How to Apply:**\
-Shoot your resume over to hiring@pancakeswap.com, we’d love to hear from you!
+**आवेदन कैसे करें:**\
+अपना रेज़्यूमे hiring@pancakeswap.com पर भेजें, हम आपसे सुनना चाहेंगे!

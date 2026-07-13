@@ -1,23 +1,23 @@
 # Token Swaps
 
-![](../../.gitbook/assets/swap-trade-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/swap-trade-header.png)
 
-[**Token swaps**](https://pancakeswap.finance/swap) on PancakeSwap are a simple way to trade one token for another via automated liquidity pools on BNB Smart Chain, Ethereum and Aptos, and also with market makers when trading tokens on BNB Smart Chain and Ethereum.
+PancakeSwap पर [**Token swaps**](https://pancakeswap.finance/swap) BNB Smart Chain, Ethereum और Aptos पर स्वचालित तरलता पूलों के माध्यम से एक टोकन को दूसरे टोकन के लिए व्यापार करने का एक सरल तरीका है, और BNB Smart Chain तथा Ethereum पर टोकन ट्रेड करते समय मार्केट मेकर्स के साथ भी।
 
-![](<../../.gitbook/assets/image (53).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2853%29.png)
 
-When you make a token swap (trade) on the [BNB Smart Chain](https://pancakeswap.finance/swap?chain=bsc) or [Ethereum](https://pancakeswap.finance/swap?chain=eth) PancakeSwap Exchange, you will pay trading fees according to the type of liquidity pool your trade is being routed through. You may check the route details by clicking the magnifier icon on the “Route” section.
+जब आप [BNB Smart Chain](https://pancakeswap.finance/swap?chain=bsc) या [Ethereum](https://pancakeswap.finance/swap?chain=eth) PancakeSwap Exchange पर टोकन स्वैप (व्यापार) करते हैं, तो आपको ट्रेडिंग शुल्क उस तरलता पूल के प्रकार के अनुसार देना होगा जिसके माध्यम से आपका व्यापार रूट किया जा रहा है। आप "Route" सेक्शन में आवर्धक आइकन पर क्लिक करके रूट विवरण देख सकते हैं।
 
-For Exchange V3 liquidity pools, there are currently four different fee tiers: 0.01%, 0.05%, 0.25%, and 1%.
+Exchange V3 तरलता पूलों के लिए, वर्तमान में चार अलग-अलग शुल्क स्तर हैं: 0.01%, 0.05%, 0.25%, और 1%।
 
-For StableSwap liquidity pools, the fee rate depends on the individual pool configurations. Please check the “Fee” section for more detail.
+StableSwap तरलता पूलों के लिए, शुल्क दर अलग-अलग पूल के कॉन्फ़िगरेशन पर निर्भर करती है। अधिक जानकारी के लिए कृपया "Fee" सेक्शन देखें।
 
-For Exchange V2 liquidity pools, a fixed 0.25% trading fee is applied, which is broken down as follows:
+Exchange V2 तरलता पूलों के लिए, एक निश्चित 0.25% ट्रेडिंग शुल्क लागू होता है, जो निम्नानुसार विभाजित है:
 
-* **0.17%** - Returned to Liquidity Pools in the form of a fee reward for liquidity providers.
-* **0.0225%** - Sent to the PancakeSwap Treasury.
-* **0.0575%** - Sent towards CAKE buyback and burn.
+* **0.17%** - तरलता प्रदाताओं के लिए शुल्क पुरस्कार के रूप में तरलता पूलों में वापस किया जाता है।
+* **0.0225%** - PancakeSwap Treasury को भेजा जाता है।
+* **0.0575%** - CAKE buyback और burn के लिए भेजा जाता है।
 
-![](<../../.gitbook/assets/image (277).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28277%29.png)
 
-Please note that on [Aptos](https://aptos.pancakeswap.finance/swap), only PancakeSwap Exchange V2 is deployed, therefore all the token swaps on Aptos will have a fixed 0.25% trading fee with the same breakdown as mentioned above.
+कृपया ध्यान दें कि [Aptos](https://aptos.pancakeswap.finance/swap) पर केवल PancakeSwap Exchange V2 तैनात है, इसलिए Aptos पर सभी टोकन स्वैप पर ऊपर उल्लिखित समान विभाजन के साथ 0.25% का निश्चित ट्रेडिंग शुल्क लगेगा।

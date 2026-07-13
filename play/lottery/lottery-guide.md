@@ -1,129 +1,129 @@
-# How to Play Lottery
+# Lottery कैसे खेलें
 
-![](../../.gitbook/assets/how-to-lottery-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-lottery-header.png)
 
-PancakeSwap's Lottery is not only a good way to make stacks of CAKE, it's also loads of fun! This guide will walk you through getting involved in the Lottery.
+PancakeSwap की Lottery न केवल CAKE कमाने का एक अच्छा तरीका है, बल्कि यह बहुत मजेदार भी है! यह गाइड आपको Lottery में भाग लेने में मदद करेगी।
 
 {% hint style="info" %}
-The Lottery has changed a little since its first iteration. Lottery v2 lets you win more often, have some control over your tickets, and has more potential for huge CAKE jackpots to get your mouth watering. Learn more about [PancakeSwap Lottery v2 here](https://docs.pancakeswap.finance/products/lottery).
+Lottery पहले संस्करण के बाद थोड़ी बदल गई है। Lottery v2 आपको अधिक बार जीतने, अपने टिकटों पर कुछ नियंत्रण रखने का मौका देती है, और CAKE के बड़े जैकपॉट की अधिक संभावना प्रदान करती है। [PancakeSwap Lottery v2 के बारे में यहाँ अधिक जानें](https://docs.pancakeswap.finance/products/lottery)।
 {% endhint %}
 
-## Deciding if you'd like to enter a round
+## यह तय करना कि क्या आप किसी राउंड में भाग लेना चाहते हैं
 
-‌Not all Lottery rounds are equal. When a lottery jackpot isn't won, the next round's prize pool will increase; the longer it's been since someone has won the jackpot, the larger the Lottery prize pool will be.
+‌सभी Lottery राउंड समान नहीं होते। जब Lottery जैकपॉट नहीं जीती जाती, तो अगले राउंड का पुरस्कार पूल बढ़ जाता है; जितने अधिक समय से किसी ने जैकपॉट नहीं जीता, Lottery पुरस्कार पूल उतना ही बड़ा होगा।
 
-‌The longer a round is open, the more people can buy a ticket. Each ticket sold increases the prize pool further. Here's how to check the current round's prize pool and remaining time.
+‌राउंड जितना लंबा चलता है, उतने अधिक लोग टिकट खरीद सकते हैं। बिका प्रत्येक टिकट पुरस्कार पूल को और बढ़ाता है। यहाँ बताया गया है कि वर्तमान राउंड के पुरस्कार पूल और शेष समय की जाँच कैसे करें।
 
-‌1. Visit the[ PancakeSwap Lottery page](https://pancakeswap.finance/lottery) and look at the top of the page. You'll see the current round's prize pool shown in (estimated) US dollar value.
+‌1. [PancakeSwap Lottery पृष्ठ](https://pancakeswap.finance/lottery) पर जाएं और पृष्ठ के शीर्ष को देखें। आपको वर्तमान राउंड का पुरस्कार पूल (अनुमानित) USD मूल्य में दिखेगा।
 
-![](<../../.gitbook/assets/image (213).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28213%29.png)
 
-This is the amount to be shared between all winners.
+यह सभी विजेताओं के बीच साझा की जाने वाली राशि है।
 
-‌2. A little lower down the page you'll find the remaining time before the current round is drawn.
+‌2. पृष्ठ पर थोड़ा नीचे आपको वर्तमान राउंड के समाप्त होने से पहले का शेष समय मिलेगा।
 
-![](<../../.gitbook/assets/image (234).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28234%29.png)
 
-Remember, a lot can change in the remaining time. Many more tickets may be sold. Each sold ticket both increases the prize pool, and lowers the odds of an individual ticket winning.
+याद रखें, शेष समय में बहुत कुछ बदल सकता है। कई और टिकट बिक सकते हैं। बेचा गया प्रत्येक टिकट पुरस्कार पूल को बढ़ाता है और साथ ही किसी एकल टिकट के जीतने की संभावना को कम करता है।
 
-‌If you're unsure, you can always wait until later into the round to decide with more information. Just don't wait too long and miss out!
+‌यदि आप अनिश्चित हैं, तो आप अधिक जानकारी के साथ निर्णय लेने के लिए राउंड में बाद तक प्रतीक्षा कर सकते हैं। बस बहुत देर मत करें!
 
-## Buying Lottery tickets
+## Lottery टिकट खरीदना
 
-‌Buying tickets is easy.
+‌टिकट खरीदना आसान है।
 
-You just need a little CAKE though: each ticket costs approximately $5 USD (the exact CAKE price is set at the start of the round).
+आपको बस थोड़ी CAKE चाहिए: प्रत्येक टिकट की कीमत लगभग $5 USD है (सटीक CAKE मूल्य राउंड की शुरुआत में निर्धारित होता है)।
 
-You can choose to either randomize your lottery ticket numbers, or to choose your ticket numbers manually. Choose between the randomized numbers and manual numbers tabs below for a guide to each method.
+आप अपने Lottery टिकट नंबर यादृच्छिक रूप से चुन सकते हैं या मैन्युअली अपने नंबर चुन सकते हैं। प्रत्येक विधि के लिए नीचे दिए गए यादृच्छिक नंबर और मैनुअल नंबर टैब के बीच चुनाव करें।
 
 {% tabs %}
 {% tab title="Randomized ticket numbers" %}
-**Randomized ticket numbers**
+**यादृच्छिक टिकट नंबर**
 
-1\. On the[ PancakeSwap Lottery page](https://pancakeswap.finance/lottery), click the **Buy Tickets** button at the top of the page (there's another lower on the page also).
+1\. [PancakeSwap Lottery पृष्ठ](https://pancakeswap.finance/lottery) पर, पृष्ठ के शीर्ष पर **टिकट खरीदें** बटन पर क्लिक करें (पृष्ठ पर नीचे एक और बटन भी है)।
 
-![](<../../.gitbook/assets/image (42).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2842%29.png)
 
-There is a time between rounds where purchasing tickets isn't possible. Just check back after the countdown if that's the case.
+राउंड के बीच एक समय होता है जब टिकट खरीदना संभव नहीं होता। यदि ऐसा है तो काउंटडाउन के बाद वापस देखें।
 
-![](<../../.gitbook/assets/image (193).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28193%29.png)
 
-2\. A window will open letting you choose how many ticket to buy. Type how many tickets you'd like to buy into the field. You can also use the preset buttons underneath.
+2\. एक विंडो खुलेगी जिसमें आप चुन सकते हैं कि कितने टिकट खरीदने हैं। फ़ील्ड में वह संख्या टाइप करें जितने टिकट आप खरीदना चाहते हैं। आप नीचे दिए गए प्रीसेट बटन का भी उपयोग कर सकते हैं।
 
-![](<../../.gitbook/assets/image (86).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2886%29.png)
 
-3\. Before you continue, it's worth considering the bulk purchase discounts. The more tickets you buy, the greater the discount.
+3\. जारी रखने से पहले, बल्क खरीद छूटों पर विचार करना उचित है। आप जितने अधिक टिकट खरीदेंगे, छूट उतनी ही अधिक होगी।
 
-The discount starts at 2 tickets, and scales all the way to 100 tickets where you will save almost 5% on your purchase (4.95%).
+छूट 2 टिकट से शुरू होती है और 100 टिकट तक जाती है जहाँ आप अपनी खरीद पर लगभग 5% (4.95%) बचाएंगे।
 
-4\. When you're happy with the number of tickets you want to buy, click **Confirm** and confirm your action in your wallet.
+4\. जब आप खरीदने के लिए टिकटों की संख्या से संतुष्ट हों, तो **पुष्टि करें** पर क्लिक करें और अपने वॉलेट में कार्रवाई की पुष्टि करें।
 
-![](<../../.gitbook/assets/image (91).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2891%29.png)
 {% endtab %}
 
 {% tab title="Manual ticket numbers" %}
-**Manual ticket numbers**
+**मैनुअल टिकट नंबर**
 
-1\. On the[ PancakeSwap Lottery page](https://pancakeswap.finance/lottery), click the **Buy Tickets** button at the top of the page (there's another lower on the page also).
+1\. [PancakeSwap Lottery पृष्ठ](https://pancakeswap.finance/lottery) पर, पृष्ठ के शीर्ष पर **टिकट खरीदें** बटन पर क्लिक करें (पृष्ठ पर नीचे एक और बटन भी है)।
 
-![](<../../.gitbook/assets/image (42).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2842%29.png)
 
-There is a time between rounds where purchasing tickets isn't possible. Just check back after the countdown if that's the case.
+राउंड के बीच एक समय होता है जब टिकट खरीदना संभव नहीं होता। यदि ऐसा है तो काउंटडाउन के बाद वापस देखें।
 
-![](<../../.gitbook/assets/image (193).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28193%29.png)
 
-2\. A window will open letting you choose how many ticket to buy. Type how many tickets you'd like to buy into the field. You can also use the preset buttons underneath.
+2\. एक विंडो खुलेगी जिसमें आप चुन सकते हैं कि कितने टिकट खरीदने हैं। फ़ील्ड में वह संख्या टाइप करें जितने टिकट आप खरीदना चाहते हैं। आप नीचे दिए गए प्रीसेट बटन का भी उपयोग कर सकते हैं।
 
-![](<../../.gitbook/assets/image (86).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2886%29.png)
 
-3\. Before you continue, it's worth considering the bulk purchase discounts. The more tickets you buy, the greater the discount.
+3\. जारी रखने से पहले, बल्क खरीद छूटों पर विचार करना उचित है। आप जितने अधिक टिकट खरीदेंगे, छूट उतनी ही अधिक होगी।
 
-The discount starts at 2 tickets, and scales all the way to 100 tickets where you will save almost 5% on your purchase.
+छूट 2 टिकट से शुरू होती है और 100 टिकट तक जाती है जहाँ आप अपनी खरीद पर लगभग 5% बचाएंगे।
 
-4\. To customize the numbers on your tickets, click the **View/Edit Numbers** button.
+4\. अपने टिकटों पर नंबर कस्टमाइज़ करने के लिए, **नंबर देखें/संपादित करें** बटन पर क्लिक करें।
 
-![](<../../.gitbook/assets/image (81).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2881%29.png)
 
-5\. A new window will open showing your tickets. Click onto a number for any ticket to change the number in that position.
+5\. एक नई विंडो खुलेगी जिसमें आपके टिकट दिखेंगे। किसी भी टिकट के किसी नंबर पर क्लिक करें उस स्थिति का नंबर बदलने के लिए।
 
-You can randomize your numbers again by clicking **Randomize**, or go back if you change your mind by clicking **Go back**.
+**यादृच्छिक बनाएं** पर क्लिक करके आप अपने नंबर फिर से यादृच्छिक कर सकते हैं, या **वापस जाएं** पर क्लिक करके अपना मन बदल सकते हैं।
 
 ![](https://lh4.googleusercontent.com/229uStQBb-Uzj-Tu9kRDXxfux4wWNjeHjPXJBULwhKbCR5UEgWnb3jzzj1-KeWeBfxfGlctR9aH_S1P_l6_VgtrZR0Eb2AVqrJLF8oNkpoVFlpeHaOIsUij-bs12QBOwDAIJEJiU)
 
-You'll get a warning if you create duplicate tickets. It's possible your duplicate tickets will win. In this case your tickets will share in the prize pool for their bracket.
+यदि आप डुप्लीकेट टिकट बनाते हैं तो आपको चेतावनी मिलेगी। आपके डुप्लीकेट टिकट जीत सकते हैं। इस मामले में आपके टिकट उनके ब्रैकेट के पुरस्कार पूल में हिस्सा लेंगे।
 
-![](<../../.gitbook/assets/image (39).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2839%29.png)
 
-6\. When you're happy with your numbers, click the **Confirm and buy** button.
+6\. जब आप अपने नंबरों से संतुष्ट हों, तो **पुष्टि करें और खरीदें** बटन पर क्लिक करें।
 
-![](<../../.gitbook/assets/image (202).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28202%29.png)
 
-Confirm the action in your wallet.
+अपने वॉलेट में कार्रवाई की पुष्टि करें।
 {% endtab %}
 {% endtabs %}
 
-## Viewing your tickets after buying
+## खरीदने के बाद अपने टिकट देखना
 
-You can view your tickets after buying them before the round's numbers are drawn.
+आप राउंड के नंबर निकाले जाने से पहले खरीदे गए अपने टिकट देख सकते हैं।
 
-1\. Click **View Your Tickets** in the "Next Draw" area of the Lottery page.
+1\. Lottery पृष्ठ के "अगला ड्रॉ" क्षेत्र में **अपने टिकट देखें** पर क्लिक करें।
 
-![](<../../.gitbook/assets/image (279).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28279%29.png)
 
-2\. A window will open showing all of your tickets and their numbers. It'll also give you the option to buy more tickets if you'd like.
+2\. एक विंडो खुलेगी जिसमें आपके सभी टिकट और उनके नंबर दिखेंगे। यदि आप चाहें तो और टिकट खरीदने का विकल्प भी मिलेगा।
 
-![](<../../.gitbook/assets/image (226).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28226%29.png)
 
-## When the round ends and winning numbers are drawn
+## जब राउंड समाप्त हो और विजयी नंबर निकाले जाएं
 
-‌When the round has ended and the winning numbers are available, you can check your tickets to see if you won.
+‌जब राउंड समाप्त हो जाए और विजयी नंबर उपलब्ध हों, तो आप अपने टिकट जाँच सकते हैं कि आपने जीता या नहीं।
 
-### ‌View your winning tickets
+### ‌अपने विजयी टिकट देखें
 
-‌You can view your winning tickets in the same way you viewed your tickets after buying them.
+‌आप अपने विजयी टिकट उसी तरह देख सकते हैं जैसे आपने खरीदने के बाद देखे थे।
 
-‌1. Click **View Your Tickets** in the "Finished Rounds" area of the Lottery page.
+‌1. Lottery पृष्ठ के "समाप्त राउंड" क्षेत्र में **अपने टिकट देखें** पर क्लिक करें।
 
 ![](https://lh3.googleusercontent.com/p3QxWcrxCcBwHrhwPU55vnAN-BmelgNwKRWse8yEQQVfehXsIOvUX_tCo1gC7LpHxL-crIMS19RxpnMxn5yBuShNwXfH7qzCSdCOtnBeXhUuecrqRvhdI97rX_CuVuWAawaor6Mi)
 
-2\. A window will open showing the winning numbers and all of your tickets and their numbers.\\
+2\. एक विंडो खुलेगी जिसमें विजयी नंबर और आपके सभी टिकट और उनके नंबर दिखेंगे।\\

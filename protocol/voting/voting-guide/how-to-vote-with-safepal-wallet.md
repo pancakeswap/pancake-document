@@ -2,25 +2,24 @@
 hidden: true
 ---
 
-# How to Vote with SafePal Wallet
+# SafePal Wallet से Vote कैसे करें
 
-![](../../../.gitbook/assets/how-to-voting-with-safepal-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-voting-with-safepal-header.png)
 
-You can use the SafePal wallet to vote on open issues in PancakeSwap. Follow the steps below to cast your vote from inside the SafePal wallet.
+आप PancakeSwap में open issues पर vote करने के लिए SafePal wallet उपयोग कर सकते हैं। SafePal wallet के अंदर से अपना vote डालने के लिए नीचे दिए गए चरणों का पालन करें।
 
-1\. Open your SafePal wallet and select the dApp browser icon in the menu down the bottom.
+1\. अपना SafePal wallet खोलें और नीचे menu में dApp browser icon चुनें।
 
-![](../../../.gitbook/assets/Safepal-1.PNG)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Safepal-1.PNG)
 
-2\. Enter the URL of the voting page in the address bar. If you don't know the direct URL to the vote you want to vote on, you can go to the [PancakeSwap voting page](https://voting.pancakeswap.finance/) and find the vote from there.
+2\. Address bar में voting page का URL दर्ज करें। यदि आप उस vote का direct URL नहीं जानते जिस पर vote करना चाहते हैं, तो आप [PancakeSwap voting page](https://voting.pancakeswap.finance/) पर जाकर वहाँ से vote ढूंढ सकते हैं।
 
-![](../../../.gitbook/assets/Safepal-2.PNG)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Safepal-2.PNG)
 
-3\. Click on the connect wallet button at the top of your screen (see the image).&#x20;
+3\. अपनी screen के ऊपर connect wallet button पर क्लिक करें (image देखें)।
 
-![](../../../.gitbook/assets/Safepal-3.PNG)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Safepal-3.PNG)
 
-4\. Click on **Injected** as the wallet. Your wallet will now be connected and you can now vote on PancakeSwap proposals.
+4\. Wallet के रूप में **Injected** पर क्लिक करें। आपका wallet अब connect हो जाएगा और आप PancakeSwap proposals पर vote कर सकते हैं।
 
-![](../../../.gitbook/assets/Safepal-4.PNG)
-
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Safepal-4.PNG)

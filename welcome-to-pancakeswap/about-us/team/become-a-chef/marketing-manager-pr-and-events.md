@@ -4,34 +4,34 @@ hidden: true
 
 # Marketing Manager (PR & Events)
 
-### **General Information**
+### **सामान्य जानकारी**
 
-* Job Title: Marketing Manager (PR & Events)
-* Location: Remote
-* Position: Full-time
+* पद का शीर्षक: Marketing Manager (PR & Events)
+* स्थान: रिमोट
+* पद: पूर्णकालिक
 
-### **Job Description:**
+### **कार्य विवरण:**
 
-We’re looking for a Marketing Manager with expertise in crypto media, PR, and events management. You’ll act as a bridge between PancakeSwap and the broader market - shaping our brand narrative, landing top-tier media coverage, and leading activations at major global crypto events.
+हम क्रिप्टो मीडिया, PR और इवेंट प्रबंधन में विशेषज्ञता वाले एक Marketing Manager की तलाश कर रहे हैं। आप PancakeSwap और व्यापक बाज़ार के बीच सेतु का काम करेंगे — हमारी ब्रांड कहानी को आकार देंगे, शीर्ष मीडिया कवरेज प्राप्त करेंगे, और प्रमुख वैश्विक क्रिप्टो इवेंट में सक्रियताओं का नेतृत्व करेंगे।
 
-### Key Responsibilities:
+### प्रमुख जिम्मेदारियाँ:
 
-* Plan and execute marketing activations at major global crypto events and conferences.
-* Pitch and secure coverage with top-tier crypto media outlets for product launches, announcements, and thought leadership stories.
-* Collaborate with social, content, and design teams to ensure consistent branding and maximize the impact of all media and event initiatives.
-* Track media coverage, monitor performance metrics, and report on PR and event activities.
-* Build and maintain relationships with media outlets, events organizers, and key opinion leaders in the DeFi and broader Web3 ecosystem.
+* प्रमुख वैश्विक क्रिप्टो इवेंट और कॉन्फ्रेंस में मार्केटिंग सक्रियताओं की योजना बनाएँ और उन्हें लागू करें।
+* प्रोडक्ट लॉन्च, घोषणाओं और विचार नेतृत्व कहानियों के लिए शीर्ष क्रिप्टो मीडिया आउटलेट्स के साथ कवरेज प्रस्तुत करें और सुरक्षित करें।
+* सभी मीडिया और इवेंट पहलों के प्रभाव को अधिकतम करने के लिए सोशल, कंटेंट और डिज़ाइन टीमों के साथ सहयोग करें और ब्रांड की एकरूपता सुनिश्चित करें।
+* मीडिया कवरेज ट्रैक करें, प्रदर्शन मेट्रिक्स की निगरानी करें, और PR और इवेंट गतिविधियों पर रिपोर्ट करें।
+* DeFi और व्यापक Web3 पारिस्थितिकी तंत्र में मीडिया आउटलेट्स, इवेंट आयोजकों और प्रमुख राय नेताओं के साथ संबंध बनाएँ और बनाए रखें।
 
-### Requirements
+### आवश्यकताएँ
 
-* 2+ years of experience in PR and events marketing, within crypto, DeFi, or Web3
-* Proven experience organizing and executing high-impact brand activations at industry events
-* Demonstrated success in pitching stories and securing coverage with crypto media outlets
-* Strong content writing skills for brand communications and media materials
-* Excellent written and spoken English
-* Willingness and ability to travel occasionally for events
-* Comfortable working in a fast-paced, remote work environment
+* क्रिप्टो, DeFi, या Web3 में PR और इवेंट मार्केटिंग में 2+ वर्षों का अनुभव
+* उद्योग इवेंट में उच्च-प्रभाव ब्रांड सक्रियताओं को आयोजित और निष्पादित करने का सिद्ध अनुभव
+* क्रिप्टो मीडिया आउटलेट्स के साथ कहानियाँ प्रस्तुत करने और कवरेज सुरक्षित करने में प्रदर्शित सफलता
+* ब्रांड संचार और मीडिया सामग्री के लिए मजबूत लेखन कौशल
+* उत्कृष्ट लिखित और मौखिक अंग्रेज़ी
+* इवेंट के लिए कभी-कभी यात्रा करने की इच्छा और क्षमता
+* तेज़-गति वाले, रिमोट कार्य वातावरण में काम करने में सहज
 
-### **How to apply**
+### **आवेदन कैसे करें**
 
-Email _hiring@pancakeswap.com_ with your CV & Portfolio!
+_hiring@pancakeswap.com_ पर अपना CV और पोर्टफोलियो ईमेल करें!

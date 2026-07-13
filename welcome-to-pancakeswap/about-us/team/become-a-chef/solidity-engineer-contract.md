@@ -4,38 +4,38 @@ hidden: true
 
 # Solidity Engineer (Contract)
 
-### **General Information**
+### **सामान्य जानकारी**
 
-* Salary range: Competitive, negotiable
-* **Duration: 1 - 2 quarters**
-* Position: Full-time / Part-time
-* Location: Remote
-* Time-zone preference: Any
+* वेतन सीमा: प्रतिस्पर्धी, वार्ता योग्य
+* **अवधि: 1 - 2 तिमाहियाँ**
+* पद: पूर्णकालिक / अंशकालिक
+* स्थान: रिमोट
+* समय क्षेत्र प्राथमिकता: कोई भी
 
-### Your Responsibilities
+### आपकी जिम्मेदारियाँ
 
-* Build smart contracts in Solidity.
-* Design, scope, and estimate complex contract based on requirements given.
-* Envision and develop features to help grow product.
-* Enthusiastically collaborate with a small team to plan projects at the task level.
-* Collaborate with cross-functional partners on all aspects of product development.
-* Identify and advocate for team-wide areas of improvement and best practices.
+* Solidity में स्मार्ट कॉन्ट्रैक्ट बनाएँ।
+* दी गई आवश्यकताओं के आधार पर जटिल कॉन्ट्रैक्ट डिज़ाइन, स्कोप और अनुमानित करें।
+* प्रोडक्ट को विकसित करने में मदद करने वाले फीचर की कल्पना करें और उन्हें विकसित करें।
+* प्रोजेक्ट को कार्य स्तर पर योजना बनाने के लिए एक छोटी टीम के साथ उत्साहपूर्वक सहयोग करें।
+* प्रोडक्ट विकास के सभी पहलुओं पर क्रॉस-फंक्शनल साझेदारों के साथ सहयोग करें।
+* टीम-व्यापी सुधार के क्षेत्रों और सर्वोत्तम प्रथाओं की पहचान करें और उनकी वकालत करें।
 
-### Skills & Qualifications
+### कौशल और योग्यताएँ
 
-* 3-5 years of industry experience in software engineering.
-* Understands and applies Solidity patterns to solve common problems.
-* Understands gas optimization the tradeoff between efficient code and readable code.
-* Knows how to write migrations and deploy code to EVM-compatible networks.
-* Familiar with Hardhat and Foundry and the pros and cons of each framework.
-  * Specifically familiar with Hardhat as this is the framework used by PancakeSwap.
-* Possesses exceptional judgment, problem-solving skills, and an analytical mindset.
-* Understands engineering best practices such as continuous integration.
-* Ability to work in areas outside of your comfort zone and motivated by personal growth.
-* Be able to work autonomously.
-* The candidate should be independent enough to make important technical decisions on their own.
-* The candidate should be driven and innovative.
+* सॉफ़्टवेयर इंजीनियरिंग में 3-5 वर्षों का उद्योग अनुभव।
+* सामान्य समस्याओं को हल करने के लिए Solidity पैटर्न को समझता और लागू करता है।
+* गैस ऑप्टिमाइज़ेशन और कुशल कोड तथा पठनीय कोड के बीच ट्रेडऑफ़ को समझता है।
+* EVM-संगत नेटवर्क पर माइग्रेशन कैसे लिखें और कोड कैसे परिनियोजित करें, यह जानता है।
+* Hardhat और Foundry और प्रत्येक फ्रेमवर्क के फायदे और नुकसान से परिचित है।
+  * विशेष रूप से Hardhat से परिचित क्योंकि PancakeSwap द्वारा उपयोग किया जाने वाला यही फ्रेमवर्क है।
+* असाधारण निर्णय, समस्या-समाधान कौशल और विश्लेषणात्मक सोच रखता है।
+* निरंतर एकीकरण जैसी इंजीनियरिंग सर्वोत्तम प्रथाओं को समझता है।
+* अपने कम्फर्ट ज़ोन से बाहर के क्षेत्रों में काम करने और व्यक्तिगत विकास से प्रेरित होने की क्षमता।
+* स्वायत्त रूप से काम करने में सक्षम।
+* उम्मीदवार को स्वतंत्र रूप से महत्वपूर्ण तकनीकी निर्णय लेने के लिए पर्याप्त स्वतंत्र होना चाहिए।
+* उम्मीदवार को संचालित और नवाचारी होना चाहिए।
 
-### How to apply:
+### आवेदन कैसे करें:
 
-Email hiring@pancakeswap.com with your resume!
+अपना रेज़्यूमे hiring@pancakeswap.com पर ईमेल करें!

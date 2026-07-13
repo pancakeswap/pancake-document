@@ -1,68 +1,68 @@
-# Syrup Pool FAQ & Troubleshooting
+# सिरप पूल अक्सर पूछे जाने वाले सवाल (FAQ) और समस्या निवारण
 
-## Troubleshooting
+## समस्या निवारण
 
-### **I can't find the Syrup Pool I was staking in!**
+### **वह सिरप पूल नहीं मिल रहा जिसमें मैं स्टेकिंग कर रहा/रही था/थी!**
 
-You should be able to find the Syrup Pool under the “Finished” tab on the Syrup Pools page.&#x20;
+आपको सिरप पूल पेज पर "Finished" टैब के अंतर्गत सिरप पूल मिलना चाहिए।&#x20;
 
-By selecting “Staked Only”, it will make it easier to find your assets.
+"Staked Only" चुनकर, आपकी संपत्तियाँ खोजना आसान हो जाएगा।
 
-### **Why can’t I unstake my tokens from a Syrup Pool?**
+### **मैं सिरप पूल से अपने टोकन अनस्टेक क्यों नहीं कर पा रहा/रही?**
 
-If you are unable to unstake from the Stake Cake, Earn CAKE pools, please check to make sure that you haven’t sold the SYRUP tokens in your wallet. This token acts as a \`proof of ownership\` over your CAKE in the Manual CAKE pool.&#x20;
+यदि आप Stake Cake, Earn CAKE पूल से अनस्टेक नहीं कर पा रहे, तो कृपया जाँचें कि आपने अपने वॉलेट में SYRUP टोकन तो नहीं बेच दिए। यह टोकन Manual CAKE पूल में आपके CAKE पर `स्वामित्व के प्रमाण` का काम करता है।&#x20;
 
-### **Why did my earned tokens go to zero after staking/unstaking?**
+### **स्टेकिंग/अनस्टेकिंग के बाद मेरे अर्जित टोकन शून्य पर क्यों चले गए?**
 
-Don’t worry! They’re in your wallet already.
+चिंता न करें! वे पहले से आपके वॉलेट में हैं।
 
-Whenever you stake or unstake from a Syrup Pool or farm, your earned tokens get harvested and sent to your wallet at the same time.
+जब भी आप सिरप पूल या फार्म में स्टेक या अनस्टेक करते हैं, तो आपके अर्जित टोकन उसी समय हार्वेस्ट होकर आपके वॉलेट में भेज दिए जाते हैं।
 
-## **General Questions**
+## **सामान्य प्रश्न**
 
-### How is APR for Syrup Pools calculated?
+### सिरप पूलों के लिए APR की गणना कैसे होती है?
 
-> Syrup Pool APR = Annualized rewards (USD) / User funds staked in Syrup Pool (USD) \* 100
+> सिरप पूल APR = वार्षिकीकृत पुरस्कार (USD) / सिरप पूल में उपयोगकर्ता द्वारा स्टेक किए गए फंड (USD) \* 100
 
-As a basic example, let's take a 60-day pool with 300,000 USD worth of rewards, and 3,000,000 USD worth of CAKE staked in it.
+एक बुनियादी उदाहरण के रूप में, आइए 300,000 USD के पुरस्कार और 3,000,000 USD के CAKE स्टेक वाला 60-दिन का पूल लें।
 
-The APR fluctuates as more CAKE is staked by users, and as the price of CAKE, and the reward token, vary.
+APR में उतार-चढ़ाव होता है जैसे उपयोगकर्ताओं द्वारा अधिक CAKE स्टेक होता है, और जैसे CAKE और पुरस्कार टोकन का मूल्य बदलता है।
 
-|                                                       | **Calculation**                   | Amount                                     |
+|                                                          | **गणना**                          | राशि                                       |
 | ----------------------------------------------------- | --------------------------------- | ------------------------------------------ |
-| Total rewards to distribute (USD value)               |                                   | 300,000 USD                                |
-| Distribution period                                   |                                   | 60 days                                    |
-| Daily distribution                                    | 300,000 / 60 =                    | 5,000 USD daily                            |
-| **Annualised rewards (USD value)**                    | 5,000 \* 365 =                    | **1,825,000 USD**                          |
-| **Value of CAKE staked by users in pool (USD value)** |                                   | **3,000,000 USD**                          |
-| **APR**                                               | (1,825,000 / 3,000,000) \* 100 =  | <p></p><p><strong>60.833% APR</strong></p> |
+| वितरित करने के लिए कुल पुरस्कार (USD मूल्य)            |                                   | 300,000 USD                                |
+| वितरण अवधि                                             |                                   | 60 दिन                                     |
+| दैनिक वितरण                                            | 300,000 / 60 =                    | 5,000 USD दैनिक                            |
+| **वार्षिकीकृत पुरस्कार (USD मूल्य)**                   | 5,000 \* 365 =                    | **1,825,000 USD**                          |
+| **पूल में उपयोगकर्ताओं द्वारा स्टेक CAKE का मूल्य (USD मूल्य)** |                            | **3,000,000 USD**                          |
+| **APR**                                                 | (1,825,000 / 3,000,000) \* 100 =  | <p></p><p><strong>60.833% APR</strong></p> |
 
-### **What does the “End” number on my Syrup Pool refer to?**
+### **मेरे सिरप पूल पर "End" नंबर का क्या मतलब है?**
 
-This shows the amount of blocks left until the rewards for that pool stop being distributed. Once the pool has reached that block, you should unstake your tokens, because you won’t be receiving any rewards after that.
+यह उस पूल के पुरस्कार वितरण बंद होने तक शेष ब्लॉकों की संख्या दिखाता है। एक बार जब पूल उस ब्लॉक तक पहुँच जाए, तो आपको अपने टोकन अनस्टेक कर लेने चाहिए, क्योंकि उसके बाद आपको कोई पुरस्कार नहीं मिलेगा।
 
-### **Where do the rewards from Syrup Pools come from?**
+### **सिरप पूलों के पुरस्कार कहाँ से आते हैं?**
 
-There are three main types of Syrup Pools.
+मुख्यतः तीन प्रकार के सिरप पूल हैं।
 
-1. Stake CAKE, earn CAKE
-2. Stake CAKE, earn other tokens.&#x20;
-3. Stake other tokens, earn CAKE
+1. CAKE स्टेक करें, CAKE अर्जित करें
+2. CAKE स्टेक करें, अन्य टोकन अर्जित करें।&#x20;
+3. अन्य टोकन स्टेक करें, CAKE अर्जित करें
 
-The rewards for the "Stake CAKE, earn CAKE" Syrup Pools come from the [CAKE emissions](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics). Each block, a number of CAKE tokens are allocated as rewards for these pools.
+"CAKE स्टेक करें, CAKE अर्जित करें" सिरप पूलों के पुरस्कार [CAKE एमिशन](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics) से आते हैं। प्रत्येक ब्लॉक में, कुछ CAKE टोकन इन पूलों के लिए पुरस्कार के रूप में आवंटित किए जाते हैं।
 
-The rewards for the "Stake CAKE, earn other tokens" type are provided by the project teams who sponsor a Syrup Pool.
+"CAKE स्टेक करें, अन्य टोकन अर्जित करें" प्रकार के पुरस्कार उन प्रोजेक्ट टीमों द्वारा प्रदान किए जाते हैं जो सिरप पूल को प्रायोजित करती हैं।
 
-For the "Stake other tokens, earn CAKE" type, the PancakeSwap treasury buys back CAKE from the market to distribute as rewards. These pools are funded by PancakeSwap, not by the projects themselves.
+"अन्य टोकन स्टेक करें, CAKE अर्जित करें" प्रकार के लिए, PancakeSwap ट्रेजरी पुरस्कार के रूप में वितरित करने के लिए बाज़ार से CAKE वापस खरीदता है। ये पूल PancakeSwap द्वारा वित्त पोषित हैं, प्रोजेक्ट द्वारा नहीं।
 
-### What’s SYRUP Token?
+### SYRUP टोकन क्या है?
 
-PancakeSwap’s SYRUP Token is deposited in your wallet when you interact with the **Manual** “Stake CAKE, Earn CAKE” Syrup Pool. It's not staked for&#x20;
+PancakeSwap का SYRUP टोकन आपके वॉलेट में जमा होता है जब आप **Manual** "Stake CAKE, Earn CAKE" सिरप पूल के साथ इंटरैक्ट करते हैं। इसे स्टेक नहीं किया जाता।
 
-It’s basically an IOU that shows how much CAKE you’ve staked in the pool.
+यह मूलतः एक IOU है जो दिखाता है कि आपने पूल में कितना CAKE स्टेक किया है।
 
-It’ll be returned automatically when you unstake your CAKE from that pool.
+जब आप उस पूल से अपना CAKE अनस्टेक करते हैं तो यह स्वचालित रूप से वापस कर दिया जाएगा।
 
 {% hint style="warning" %}
-Don’t sell your SYRUP tokens! You need to return your SYRUP to unstake your CAKE from the Manual CAKE pool. The amount of SYRUP you return must be the same as the amount of CAKE you unstake.
+अपने SYRUP टोकन मत बेचें! Manual CAKE पूल से अपना CAKE अनस्टेक करने के लिए आपको SYRUP वापस करना होगा। जितना SYRUP आप वापस करते हैं वह उतना ही होना चाहिए जितना CAKE आप अनस्टेक करते हैं।
 {% endhint %}

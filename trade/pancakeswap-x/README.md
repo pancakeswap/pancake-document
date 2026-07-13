@@ -1,15 +1,14 @@
 # ✖️ PancakeSwap X
 
-PancakeSwap X introduces a whole new way to trade your favourite assets on PancakeSwap by aggregating a wide range of third-party liquidity and building straight into the popular PancakeSwap dApp. It enables more assets to trade, deeper liquidity, gas-less swaps, and much more:
+PancakeSwap X, PancakeSwap पर आपकी पसंदीदा संपत्तियों को ट्रेड करने का एक बिल्कुल नया तरीका प्रस्तुत करता है — तृतीय-पक्ष तरलता की एक विस्तृत श्रृंखला को एकत्रित करके और सीधे लोकप्रिय PancakeSwap dApp में निर्मित करके। यह अधिक संपत्तियों की ट्रेडिंग, गहरी तरलता, gas-less swaps, और बहुत कुछ सक्षम करता है:
 
-* Better prices
-* More tokens to swap
-* Built-in MEV protection
+* बेहतर मूल्य
+* स्वैप के लिए अधिक टोकन
+* अंतर्निहित MEV सुरक्षा
 * Gas-free swaps
 
 {% hint style="success" %}
-**PancakeSwap X is live on Arbitrum, Ethereum, and Base, supporting crypto tokens, and on BNB Chain, it supports real-world assets (RWAs) only.**
+**PancakeSwap X, Arbitrum, Ethereum, और Base पर लाइव है, जो crypto tokens का समर्थन करता है, और BNB Chain पर यह केवल real-world assets (RWAs) का समर्थन करता है।**
 {% endhint %}
 
-> **Looking to integrate? Check out the technical guide for PancakeSwap X integration** [**here**](https://www.notion.so/PCSX-Tech-Integration-Guide-0eb33e93295644e9855ec2c34b58b0c4?source=copy_link)**.**
-
+> **एकीकरण करना चाहते हैं? PancakeSwap X integration के लिए तकनीकी गाइड** [**यहाँ**](https://www.notion.so/PCSX-Tech-Integration-Guide-0eb33e93295644e9855ec2c34b58b0c4?source=copy_link) **देखें।**

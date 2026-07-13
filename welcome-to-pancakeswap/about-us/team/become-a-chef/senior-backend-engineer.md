@@ -4,52 +4,52 @@ hidden: true
 
 # Senior Backend Engineer
 
-### General Information
+### सामान्य जानकारी
 
-* Salary range: Competitive, negotiable
-* Position: Full-time
-* Location: Remote
-* Time-zone preference: Any
+* वेतन सीमा: प्रतिस्पर्धी, वार्ता योग्य
+* पद: पूर्णकालिक
+* स्थान: रिमोट
+* समय क्षेत्र प्राथमिकता: कोई भी
 
-### Role Overview
+### भूमिका अवलोकन
 
-We are seeking an experienced Backend Engineer who is passionate about crypto and DeFi, and has a deep understanding of micro-services architecture. You will work closely with a diverse team of engineers to design, develop, and maintain backend services that support our crypto platform.
+हम एक अनुभवी Backend Engineer की तलाश कर रहे हैं जो क्रिप्टो और DeFi के प्रति जुनूनी हो, और माइक्रो-सर्विस आर्किटेक्चर की गहरी समझ रखता हो। आप हमारे क्रिप्टो प्लेटफ़ॉर्म का समर्थन करने वाली बैकएंड सेवाओं को डिज़ाइन, विकसित और बनाए रखने के लिए इंजीनियरों की एक विविध टीम के साथ मिलकर काम करेंगे।
 
-### Your Responsibilities
+### आपकी जिम्मेदारियाँ
 
-* Design, develop, and maintain scalable backend services and micro-services.
-* Work with cross-functional teams to integrate with DeFi protocols and other blockchain solutions.
-* Implement secure, efficient, and reliable APIs to power our crypto services.
-* Develop and deploy infrastructure on cloud environments to ensure scalability and performance.
-* Analyze and optimize system performance and stability.
-* Stay current with the latest developments in blockchain, DeFi, and backend technologies.
+* स्केलेबल बैकएंड सेवाएँ और माइक्रो-सर्विस डिज़ाइन, विकसित और बनाए रखें।
+* DeFi प्रोटोकॉल और अन्य ब्लॉकचेन समाधानों के साथ एकीकृत करने के लिए क्रॉस-फंक्शनल टीमों के साथ काम करें।
+* हमारी क्रिप्टो सेवाओं को संचालित करने के लिए सुरक्षित, कुशल और विश्वसनीय API लागू करें।
+* स्केलेबिलिटी और प्रदर्शन सुनिश्चित करने के लिए क्लाउड वातावरण पर इन्फ्रास्ट्रक्चर विकसित और परिनियोजित करें।
+* सिस्टम प्रदर्शन और स्थिरता का विश्लेषण और अनुकूलन करें।
+* ब्लॉकचेन, DeFi और बैकएंड तकनीकों में नवीनतम विकास से अद्यतन रहें।
 
-### Skills & Qualifications
+### कौशल और योग्यताएँ
 
-* 5+ years of experience in backend development.
-* Strong knowledge of modern backend programming languages such as Typescript
-* &#x20;(must have), Rust (nice to have).
-* Experience working with smart contracts and Ethereum-based / Solana-based applications.
-* Experience working with microservices and distributed systems.
-* Deep understanding of blockchain, cryptocurrency, and DeFi concepts.
-* Hands-on experience building APIs and integrating with third-party services.
-* Experience with cloud platforms (e.g., AWS, DigitalOcean).
-* Strong problem-solving skills and attention to detail.
-* Excellent communication skills and a collaborative mindset.
+* बैकएंड विकास में 5+ वर्षों का अनुभव।
+* Typescript (अनिवार्य) जैसी आधुनिक बैकएंड प्रोग्रामिंग भाषाओं का मजबूत ज्ञान&#x20;
+* Rust (अच्छा होगा यदि आपके पास हो)।
+* स्मार्ट कॉन्ट्रैक्ट और Ethereum-आधारित / Solana-आधारित एप्लिकेशन के साथ काम करने का अनुभव।
+* माइक्रोसर्विस और वितरित प्रणालियों के साथ काम करने का अनुभव।
+* ब्लॉकचेन, क्रिप्टोकरेंसी और DeFi अवधारणाओं की गहरी समझ।
+* API बनाने और तृतीय-पक्ष सेवाओं के साथ एकीकृत करने का व्यावहारिक अनुभव।
+* क्लाउड प्लेटफ़ॉर्म (जैसे AWS, DigitalOcean) का अनुभव।
+* मजबूत समस्या-समाधान कौशल और विवरण पर ध्यान।
+* उत्कृष्ट संचार कौशल और सहयोगी मानसिकता।
 
-### Good to have
+### अच्छा होगा यदि आपके पास हो
 
-* Knowledge of container orchestration technologies like Kubernetes.
-* Familiarity with database technologies like PostgreSQL, Redis, or similar.
-* Previous experience working in a startup or fast-paced environment.
-* Experience with indexing solutions such as TheGraph or Subsquid.
+* Kubernetes जैसी कंटेनर ऑर्केस्ट्रेशन तकनीकों का ज्ञान।
+* PostgreSQL, Redis, या समान जैसी डेटाबेस तकनीकों से परिचितता।
+* स्टार्टअप या तेज़-गति वाले वातावरण में काम करने का पूर्व अनुभव।
+* TheGraph या Subsquid जैसे इंडेक्सिंग समाधानों का अनुभव।
 
-### Why Join Us?
+### हमसे क्यों जुड़ें?
 
-* Work on cutting-edge technology in the exciting field of blockchain and DeFi.
-* Join a passionate, knowledgeable, and supportive team.
-* Opportunities for growth and development in the fast-evolving crypto space
+* ब्लॉकचेन और DeFi के रोमांचक क्षेत्र में अत्याधुनिक तकनीक पर काम करें।
+* एक जुनूनी, जानकार और सहयोगी टीम में शामिल हों।
+* तेज़ी से विकसित हो रहे क्रिप्टो क्षेत्र में विकास और प्रगति के अवसर
 
-### How to apply
+### आवेदन कैसे करें
 
-Email hiring@pancakeswap.com with your resume!
+अपना रेज़्यूमे hiring@pancakeswap.com पर ईमेल करें!

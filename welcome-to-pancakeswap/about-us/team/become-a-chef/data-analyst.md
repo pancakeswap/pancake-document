@@ -4,32 +4,32 @@ hidden: true
 
 # Data Analyst
 
-#### Responsibilities
+#### जिम्मेदारियाँ
 
-* Collect, analyze, and interpret large datasets from on-chain transactions, including betting volumes, market resolutions, odds fluctuations, open interest and user participation in prediction events.
-* Partner with product and engineering teams to design analytics solutions that transform raw blockchain data into insights on protocol health, liquidity trends, and market efficiency.
-* Build and maintain data dashboards (using tools like Dune Analytics, Tableau, datawind or similar) to monitor key metrics such as Total Value Locked (TVL), user engagement, prediction accuracy rates, and event outcomes.
-* Lead analytical support for on-chain campaigns, such as token airdrops, staking incentives, or market promotions, including tracking eligibility, rewards distribution, and ROI analysis.
-* Query public blockchain data to uncover trends in user behavior, such as betting patterns, oracle integrations for event resolutions, and potential market manipulations.
-* Communicate complex insights through visualizations and reports, translating blockchain data into actionable recommendations for stakeholders.
-* Stay updated on blockchain advancements, prediction market protocols, and regulatory changes to inform data-driven strategies.
-* Collaborate in a fast-paced environment where time-to-insight is critical for market competitiveness.
+* ऑन-चेन लेनदेन से बड़े डेटासेट एकत्रित करें, उनका विश्लेषण करें और व्याख्या करें, जिसमें बेटिंग वॉल्यूम, बाज़ार समाधान, ऑड्स उतार-चढ़ाव, ओपन इंटरेस्ट और प्रेडिक्शन इवेंट में उपयोगकर्ता भागीदारी शामिल है।
+* कच्चे ब्लॉकचेन डेटा को प्रोटोकॉल स्वास्थ्य, तरलता के रुझान और बाज़ार दक्षता पर अंतर्दृष्टि में बदलने वाले विश्लेषण समाधान डिज़ाइन करने के लिए प्रोडक्ट और इंजीनियरिंग टीमों के साथ साझेदारी करें।
+* TVL, उपयोगकर्ता जुड़ाव, प्रेडिक्शन सटीकता दर और इवेंट परिणाम जैसे प्रमुख मेट्रिक्स की निगरानी के लिए डेटा डैशबोर्ड बनाएँ और बनाए रखें (Dune Analytics, Tableau, datawind या समान टूल्स का उपयोग करके)।
+* टोकन एयरड्रॉप, स्टेकिंग प्रोत्साहन या बाज़ार प्रमोशन जैसे ऑन-चेन अभियानों के लिए विश्लेषणात्मक समर्थन का नेतृत्व करें, जिसमें पात्रता ट्रैकिंग, पुरस्कार वितरण और ROI विश्लेषण शामिल हो।
+* उपयोगकर्ता व्यवहार में रुझान उजागर करने के लिए सार्वजनिक ब्लॉकचेन डेटा की क्वेरी करें, जैसे बेटिंग पैटर्न, इवेंट समाधान के लिए ओरेकल एकीकरण, और संभावित बाज़ार हेरफेर।
+* विज़ुअलाइज़ेशन और रिपोर्ट के माध्यम से जटिल अंतर्दृष्टि संप्रेषित करें, ब्लॉकचेन डेटा को हितधारकों के लिए कार्रवाई योग्य सिफारिशों में बदलें।
+* डेटा-संचालित रणनीतियों को सूचित करने के लिए ब्लॉकचेन प्रगति, प्रेडिक्शन मार्केट प्रोटोकॉल और नियामक परिवर्तनों से अद्यतन रहें।
+* तेज़-गति वाले वातावरण में सहयोग करें जहाँ बाज़ार प्रतिस्पर्धात्मकता के लिए शीघ्र अंतर्दृष्टि महत्वपूर्ण है।
 
-#### Requirements
+#### आवश्यकताएँ
 
-* Bachelor's degree in a quantitative field such as Computer Science, Statistics, Mathematics, Economics, or a related discipline.
-* 3+ years of experience in data analysis, preferably in blockchain, crypto, or fintech environments.
-* Deep understanding of blockchain fundamentals, including EVM-based chains (e.g. Ethereum, BNB Chain), smart contracts, transaction structures, and event logs.
-* Proficiency in SQL for querying blockchain data (e.g., via Dune Analytics, BigQuery) and at least one programming language (e.g., Python, R) for data processing and scripting.
-* Experience with data visualization tools like Tableau, Power BI, or Matplotlib.
-* Familiarity with on-chain metrics in DeFi or prediction markets, such as liquiditypools, oracle data feeds, and resolution mechanisms.
-* Strong analytical mindset with the ability to handle large, unstructured datasets and derive meaningful insights.
-* Excellent communication skills to present findings to non-technical teams.
+* कंप्यूटर विज्ञान, सांख्यिकी, गणित, अर्थशास्त्र, या संबंधित अनुशासन जैसे मात्रात्मक क्षेत्र में स्नातक की डिग्री।
+* ब्लॉकचेन, क्रिप्टो, या फिनटेक वातावरण में डेटा विश्लेषण का 3+ वर्षों का अनुभव।
+* ब्लॉकचेन की बुनियादी बातों की गहरी समझ, जिसमें EVM-आधारित चेन (जैसे Ethereum, BNB Chain), स्मार्ट कॉन्ट्रैक्ट, लेनदेन संरचनाएँ और इवेंट लॉग शामिल हैं।
+* ब्लॉकचेन डेटा क्वेरी करने के लिए SQL में दक्षता (जैसे Dune Analytics, BigQuery के माध्यम से) और डेटा प्रोसेसिंग और स्क्रिप्टिंग के लिए कम से कम एक प्रोग्रामिंग भाषा (जैसे Python, R)।
+* Tableau, Power BI, या Matplotlib जैसे डेटा विज़ुअलाइज़ेशन टूल्स का अनुभव।
+* DeFi या प्रेडिक्शन मार्केट में ऑन-चेन मेट्रिक्स से परिचितता, जैसे तरलता पूल, ओरेकल डेटा फीड और समाधान तंत्र।
+* बड़े, असंरचित डेटासेट को संभालने और सार्थक अंतर्दृष्टि निकालने की क्षमता के साथ मजबूत विश्लेषणात्मक सोच।
+* गैर-तकनीकी टीमों को निष्कर्ष प्रस्तुत करने के लिए उत्कृष्ट संचार कौशल।
 
-#### Preferred Qualifications
+#### पसंदीदा योग्यताएँ
 
-* Experience working with prediction market platforms (e.g., Polymarket, Augur, or similar) or analyzing on-chain gaming/betting data.
-* Knowledge of advanced analytics techniques, including machine learning for predictive modeling of market outcomes.
-* Proficiency in additional tools like Nansen, Glassnode, or GraphQL for blockchain querying.
-* Understanding of non-EVM chains (e.g., Solana) is a plus.
-* Prior experience in Web3 startups or decentralized organizations.
+* प्रेडिक्शन मार्केट प्लेटफ़ॉर्म (जैसे Polymarket, Augur, या समान) के साथ काम करने या ऑन-चेन गेमिंग/बेटिंग डेटा का विश्लेषण करने का अनुभव।
+* बाज़ार परिणामों के पूर्वानुमान मॉडलिंग के लिए मशीन लर्निंग सहित उन्नत विश्लेषण तकनीकों का ज्ञान।
+* ब्लॉकचेन क्वेरी के लिए Nansen, Glassnode, या GraphQL जैसे अतिरिक्त टूल्स में दक्षता।
+* नॉन-EVM चेन (जैसे Solana) की समझ एक प्लस है।
+* Web3 स्टार्टअप या विकेंद्रीकृत संगठनों में पूर्व अनुभव।

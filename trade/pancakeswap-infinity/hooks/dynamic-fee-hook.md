@@ -1,45 +1,45 @@
 # Dynamic Fee Hook
 
-PancakeSwap’s official Dynamic Fee Hook is designed to create a fairer value exchange between Liquidity Providers and Traders. It protects LPs from excessive impermanent loss (IL) while keeping the market efficient for traders.
+PancakeSwap का आधिकारिक Dynamic Fee Hook तरलता प्रदाताओं और Traders के बीच एक अधिक निष्पक्ष मूल्य विनिमय बनाने के लिए डिज़ाइन किया गया है। यह LPs को अत्यधिक impermanent loss (IL) से सुरक्षित करता है जबकि Traders के लिए बाजार को कुशल बनाए रखता है।
 
-Built by the PancakeSwap core team, this hook is tailored specifically to offer a smart, adaptive alternative to conventional fixed-fee models.
+PancakeSwap core team द्वारा निर्मित, यह hook विशेष रूप से पारंपरिक निश्चित-शुल्क मॉडलों का एक स्मार्ट, अनुकूली विकल्प प्रदान करने के लिए तैयार किया गया है।
 
-#### 🔍 Why Dynamic Fees?
+#### 🔍 Dynamic Fees क्यों?
 
-Large Arbitrage trades cause greater price divergence in pools, increasing IL for LPs. Our dynamic fee model charges proportionally higher fees on larger arbitrage trades to offset this risk — while still leaving enough room for arbitrageurs to profit and keep prices aligned.
+बड़े Arbitrage trades पूलों में अधिक मूल्य विचलन उत्पन्न करते हैं, जिससे LPs के लिए IL बढ़ता है। हमारा dynamic fee model इस जोखिम को offset करने के लिए बड़े arbitrage trades पर आनुपातिक रूप से अधिक शुल्क लगाता है — जबकि arbitrageurs के लिए लाभ कमाने और मूल्यों को aligned रखने के लिए पर्याप्त जगह छोड़ता है।
 
-#### 📊 How Is This Different From Other Models?
+#### 📊 यह अन्य Models से कैसे अलग है?
 
-Other models in the past have used historical data to estimate volatility, other factors to adjust fees. However:
+अतीत में अन्य models ने अस्थिरता और अन्य कारकों का अनुमान लगाने के लिए historical data का उपयोग किया है। हालाँकि:
 
-* Historical data is a lagging indicator and may not accurately predict future volatility.
-* External market events (like regulatory changes or economic shifts) can render past trends unreliable.
-* Complex, parameter-heavy models risk overfitting — performing well on past data but poorly on new, unseen conditions.
+* Historical data एक lagging indicator है और भविष्य की अस्थिरता का सटीक पूर्वानुमान नहीं कर सकता।
+* बाहरी बाजार घटनाएँ (जैसे नियामक परिवर्तन या आर्थिक बदलाव) पिछले रुझानों को अविश्वसनीय बना सकती हैं।
+* जटिल, parameter-heavy models overfitting का जोखिम रखते हैं — पिछले डेटा पर अच्छा प्रदर्शन करते हैं लेकिन नई, अनदेखी परिस्थितियों पर कमज़ोर।
 
-Our approach is simpler, adaptive, and grounded in real-time trading behaviour.
+हमारा दृष्टिकोण सरल, अनुकूली और रियल-टाइम ट्रेडिंग व्यवहार पर आधारित है।
 
-#### ⚙️ How It Works
+#### ⚙️ यह कैसे काम करता है
 
-* **We don’t predict volatility or other macro factors**\
-  Instead, our model inherently benefits from the behaviour of arbitrageurs under different market regimes:
-  * **High volatility:** More arbitrage trades at larger sizes → Higher fees for LPs, covering a larger share of IL.
-  * **Low volatility:** Fewer, smaller trades → IL is lower by nature, but LPs still earn higher fees than in a fixed-fee model.
-* **Our model uses**
-  * An exponentially weighted pool price to detect arbitrage trades.
-  * An exponential fee curve based on the price impact of each swap.
-  * A maximum fee cap of 5% to maintain trader fairness.
+* **हम अस्थिरता या अन्य macro कारकों की भविष्यवाणी नहीं करते**\
+  इसके बजाय, हमारा model विभिन्न बाजार स्थितियों में arbitrageurs के व्यवहार से स्वाभाविक रूप से लाभ उठाता है:
+  * **उच्च अस्थिरता:** अधिक arbitrage trades बड़े आकार में → LPs के लिए अधिक शुल्क, IL का बड़ा हिस्सा cover करते हुए।
+  * **कम अस्थिरता:** कम, छोटे trades → IL स्वभाव से कम होता है, लेकिन LPs निश्चित-शुल्क model की तुलना में फिर भी अधिक शुल्क अर्जित करते हैं।
+* **हमारा model उपयोग करता है**
+  * Arbitrage trades का पता लगाने के लिए एक exponentially weighted pool price।
+  * प्रत्येक swap के मूल्य प्रभाव के आधार पर एक exponential fee curve।
+  * Trader की निष्पक्षता बनाए रखने के लिए 5% की अधिकतम शुल्क सीमा।
 
 {% hint style="success" %}
-This ensures fees scale dynamically with trade impact while adapting automatically to changing market conditions.
+यह सुनिश्चित करता है कि शुल्क trade impact के साथ गतिशील रूप से बढ़ें जबकि बदलती बाजार स्थितियों के अनुसार स्वतः अनुकूलित हों।
 {% endhint %}
 
-* **Balanced Incentives**\
-  Arbitrageurs still retain \~50% of their profits after dynamic fees, ensuring they're motivated to keep pool prices in line with the market.
+* **संतुलित प्रोत्साहन**\
+  Dynamic fees के बाद Arbitrageurs अपने लाभ का \~50% बनाए रखते हैं, यह सुनिश्चित करते हुए कि वे pool prices को बाजार के अनुरूप रखने के लिए प्रेरित हों।
 
-#### 📌 Key Takeaways
+#### 📌 मुख्य निष्कर्ष
 
-* No reliance on volatility or other macro factor predictions.
-* Adapts automatically to market volatility based on actual trade behaviour.
-* Protects LPs from IL on a per-swap basis.
-* Maintains strong incentives for arbitrageurs to close price gaps.
-* Benefits traders with deeper liquidity and lower base fees.
+* अस्थिरता या अन्य macro कारक भविष्यवाणियों पर कोई निर्भरता नहीं।
+* वास्तविक trade व्यवहार के आधार पर बाजार की अस्थिरता के अनुसार स्वतः अनुकूलित होता है।
+* प्रति-swap आधार पर LPs को IL से सुरक्षित करता है।
+* मूल्य अंतरों को बंद करने के लिए arbitrageurs के लिए मजबूत प्रोत्साहन बनाए रखता है।
+* Traders को गहरी तरलता और कम base fees के साथ लाभ पहुँचाता है।

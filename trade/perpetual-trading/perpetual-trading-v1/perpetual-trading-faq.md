@@ -1,25 +1,25 @@
 # V1 Perpetual Trading FAQ
 
-### What is the value contribution of this new feature to the cake holders?
+### CAKE धारकों के लिए इस नई सुविधा का मूल्य योगदान क्या है?
 
-We expect this new feature to bring in a lot of new users, traders and volume. We want to ensure the value goes back to our CAKE token on top of offering the trading fee discount. 20% of all trading fees from users who sign up on PancakeSwap will be converted to CAKE and burnt.
+हम अपेक्षा करते हैं कि यह नई सुविधा बड़ी संख्या में नए उपयोगकर्ता, ट्रेडर और वॉल्यूम लाएगी। हम यह सुनिश्चित करना चाहते हैं कि ट्रेडिंग शुल्क छूट प्रदान करने के साथ-साथ मूल्य हमारे CAKE टोकन पर वापस जाए। PancakeSwap पर साइन अप करने वाले उपयोगकर्ताओं के सभी ट्रेडिंग शुल्कों का 20% CAKE में परिवर्तित करके बर्न किया जाएगा।
 
-**And the rest of it?**
+**और बाकी का क्या?**
 
-The rest are currently reserved for the treasury for ongoing expansion and development of this feature, as well as for an insurance fund for unexpected market events. As the feature matures, we expect to increase the burn portion gradually based on community feedback and governance.
+बाकी वर्तमान में इस सुविधा के निरंतर विस्तार और विकास के साथ-साथ अप्रत्याशित बाजार घटनाओं के लिए बीमा कोष के लिए ट्रेज़री के लिए आरक्षित हैं। जैसे-जैसे यह सुविधा परिपक्व होगी, हम समुदाय की प्रतिक्रिया और गवर्नेंस के आधार पर धीरे-धीरे बर्न भाग बढ़ाने की उम्मीद करते हैं।
 
-### I can’t see my funds! What happened?
+### मुझे अपना फंड नहीं दिख रहा! क्या हुआ?
 
-Remember that you must first deposit your funds into the Futures account!
+याद रखें कि आपको पहले अपने फंड Futures खाते में जमा करने होंगे!
 
-### Are there deposit limits?
+### क्या जमा सीमाएं हैं?
 
-| Assets | Limit     | Margin Value |
+| एसेट | सीमा     | मार्जिन मूल्य |
 | ------ | --------- | ------------ |
-| USDT   | No Limit  | 99.99%       |
-| BUSD   | No Limit  | 100%         |
+| USDT   | कोई सीमा नहीं  | 99.99%       |
+| BUSD   | कोई सीमा नहीं  | 100%         |
 | CAKE   | 5000 CAKE | 90%          |
 
-### Are we gonna switch to showing only PCS’s volume on the frontend on the PCS’s version?
+### क्या हम फ्रंटएंड पर PCS के केवल वॉल्यूम दिखाने की ओर स्विच करेंगे?
 
-The frontend is the combined volume since the liquidity is combined and it shows the deep liquidity which also brings the tight spread
+फ्रंटएंड संयुक्त वॉल्यूम दिखाता है क्योंकि तरलता संयुक्त है और यह गहरी तरलता दिखाता है जो तंग स्प्रेड भी लाता है।
