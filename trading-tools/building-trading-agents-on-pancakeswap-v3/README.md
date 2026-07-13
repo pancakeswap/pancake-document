@@ -267,8 +267,6 @@ The agent now holds a fresh in-range NFT. If it was farming, re-stake it (§7). 
 
 Staking a V3 position NFT in MasterChefV3 earns CAKE on top of swap fees.
 
-> **Only positions from pools with an active farm earn CAKE.** PancakeSwap governance registers which pools are farmable (each gets a `pid`). Staking a position whose pool isn't registered reverts with `InvalidPid`. This is the one place agent activity depends on a PancakeSwap-side list — and it's pool-level, not agent-level: any wallet can stake into any active farm. (Managing a position via the NonfungiblePositionManager — mint/collect/rebalance — needs no farm and works for every pool.)
-
 > **Only positions from pools with an active farm earn CAKE.** PancakeSwap governance registers which pools are farmable (each gets a `pid`). Staking a position whose pool isn't registered reverts with `InvalidPid`. This is the _one_ place agent activity depends on a PancakeSwap-side list — and it's pool-level, not agent-level: any wallet can stake into any _active_ farm. Check the pool has a live farm before building a farming strategy around it. (Managing a position via the NonfungiblePositionManager — mint/collect/rebalance — needs no farm and works for every pool.)
 
 * **Stake** — transfer the position NFT to MasterChefV3 (`safeTransferFrom(owner, masterChefV3, tokenId)`). The farm now custodies the NFT.

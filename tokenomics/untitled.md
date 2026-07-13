@@ -1,10 +1,6 @@
 # CAKE Basics
 
-\*\*\*\*
-
 ![](../.gitbook/assets/group-501.png)
-
-\*\*\*\*
 
 **Token:** CAKE
 
@@ -14,7 +10,7 @@
 
 **Emission rate:**
 
-* **Reward per block -**  40 CAKE                                                                                                       _\*\*_
+* **Reward per block -**  40 CAKE
 * **Daily emission \(Based on 30k blocks per day\) -**  1,200,000 CAKE per day
 
 **Distribution:**
