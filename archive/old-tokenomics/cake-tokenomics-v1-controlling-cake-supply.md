@@ -1,23 +1,23 @@
-# Controlling CAKE supply v1
+# CAKE supply v1 को नियंत्रित करना
 
-## Why CAKE has no hard cap
+## CAKE का कोई hard cap क्यों नहीं है
 
-There's currently no hard cap on the supply of CAKE token, making it an inflationary token.
+CAKE token की supply पर वर्तमान में कोई hard cap नहीं है, जिससे यह एक inflationary token बनता है।
 
-Community members often point to this as a cause for concern, and while the chefs certainly understand the wish for a hard cap, there's a big reason we don't expect to set one in the near future:
+Community members अक्सर इसे चिंता के कारण के रूप में point out करते हैं, और जबकि chefs निश्चित रूप से hard cap की इच्छा को समझते हैं, एक बड़ा कारण है कि हम निकट भविष्य में एक set करने की उम्मीद नहीं करते:
 
-> CAKE's primary function is to incentivize providing liquidity to the exchange. _Without block rewards, there would be much less incentive to provide liquidity (LP fees etc. would remain)._
+> CAKE का primary function exchange को liquidity provide करने के लिए incentivize करना है। _बिना block rewards के, liquidity provide करने के लिए बहुत कम incentive होगा (LP fees आदि रहेंगे)।_
 
-**So what are the other ways CAKE's supply is limited, to counter inflation?**
+**तो CAKE की supply को limit करने के अन्य तरीके क्या हैं, inflation को counter करने के लिए?**
 
-## How CAKE supply is reduced without a hard cap
+## Hard cap के बिना CAKE supply कैसे कम की जाती है
 
-The chefs aim to **make deflation higher than emission** by building deflationary mechanisms into PancakeSwap's products. The goal is for more CAKE to leave circulation than the amount of CAKE that's produced.
+Chefs का लक्ष्य PancakeSwap के products में deflationary mechanisms build करके **deflation को emission से अधिक बनाना** है। लक्ष्य यह है कि circulation से जितना CAKE निकले उससे अधिक CAKE produced होने की तुलना में कम हो।
 
-### Reducing block emissions
+### Block emissions को कम करना
 
-By reducing the amount of CAKE made per block, we slow inflation. This has already been done once: Since the [first reduction in block emissions](https://voting.pancakeswap.finance/#/pancake/proposal/QmWSQZsqakCMQ1bmcoEsKzStdtdFHL6cohSjnMV9ira1EC), we've already effectively reduced the number of CAKE entering circulation from 40 CAKE per block to 14.5. But we don't want to do this too frequently, too early, for the same reason we don't want a hard cap: we still need to incentivize people to provide liquidity.
+प्रति block बनाई गई CAKE की राशि कम करके, हम inflation को धीमा करते हैं। यह पहले ही एक बार किया जा चुका है: [block emissions में पहली कमी](https://voting.pancakeswap.finance/#/pancake/proposal/QmWSQZsqakCMQ1bmcoEsKzStdtdFHL6cohSjnMV9ira1EC) के बाद से, हमने effectively circulation में enter होने वाली CAKE की संख्या 40 CAKE per block से घटाकर 14.5 कर दी है। लेकिन हम इसे बहुत जल्दी, बहुत शुरुआत में नहीं करना चाहते, उसी कारण से जो hard cap नहीं चाहते: हमें अभी भी लोगों को liquidity provide करने के लिए incentivize करना है।
 
 ### Deflationary mechanisms
 
-Regular token burns ([view burn address](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82?a=0x000000000000000000000000000000000000dead)) are built into many of PancakeSwap's products (like a 10% burn of CAKE spent on lottery tickets), with more on the way. Check the \*\*\*\* [**CAKE Tokenomics page**](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics) \*\*\*\* for details on present and upcoming deflationary mechanisms.
+नियमित token burns ([burn address देखें](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82?a=0x000000000000000000000000000000000000dead)) PancakeSwap के कई products में built-in हैं (जैसे lottery tickets पर खर्च की गई CAKE का 10% burn), और अधिक आने वाले हैं। वर्तमान और upcoming deflationary mechanisms के details के लिए [**CAKE Tokenomics page**](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics) देखें।

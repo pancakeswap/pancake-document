@@ -1,67 +1,67 @@
 # Monad FAQ
 
-#### 1. What fee tiers are available on PancakeSwap liquidity pools?
+#### 1. PancakeSwap तरलता पूल पर कौन से शुल्क स्तर उपलब्ध हैं?
 
-**Supported Fee Tiers:**
+**समर्थित शुल्क स्तर:**
 
-* The following fee tiers are available for V3 (concentrated liquidity) pools: `0.01%, 0.05%, 0.25%, 1%`&#x20;
-* For V2 pools only 0.25% fee tier pools are supported
+* V3 (संकेंद्रित तरलता) पूल के लिए निम्नलिखित शुल्क स्तर उपलब्ध हैं: `0.01%, 0.05%, 0.25%, 1%`&#x20;
+* V2 पूल के लिए केवल 0.25% शुल्क स्तर पूल समर्थित हैं
 
-#### 2. Can anyone create a pool?
+#### 2. क्या कोई भी पूल बना सकता है?
 
-Yes. Pool creation is permissionless, with a few exceptions:
+हाँ। पूल निर्माण बिना अनुमति के होता है, कुछ अपवादों के साथ:
 
-* Only one pool can exist for a given **token pair + fee tier** combination (e.g. only one WMON <> USDC 0.05% pool can exist at one time)
+* किसी दिए गए **टोकन जोड़ी + शुल्क स्तर** संयोजन के लिए केवल एक पूल मौजूद हो सकता है (जैसे एक समय में केवल एक WMON <> USDC 0.05% पूल मौजूद हो सकता है)
 
-#### 3. How long does it take for a newly created pool to appear?
+#### 3. नव-निर्मित पूल को दिखने में कितना समय लगता है?
 
-* Pools typically appear in the pool list approximately **5 minutes** after creation.
-* If it doesn't appear:
-  * Use the **search bar** to locate it manually.
-  * Pools may be filtered from the list due to **low TVL**.
+* पूल आमतौर पर निर्माण के बाद लगभग **5 मिनट** में पूल सूची में दिखाई देते हैं।
+* यदि यह दिखाई न दे:
+  * इसे मैन्युअल रूप से खोजने के लिए **सर्च बार** का उपयोग करें।
+  * **कम TVL** के कारण पूल सूची से फ़िल्टर किए जा सकते हैं।
 
-#### 4. Why does my pool’s APR or TVL still show as zero?
+#### 4. मेरे पूल का APR या TVL अभी भी शून्य क्यों दिखाता है?
 
-This is expected right after a new pool is created:
+यह एक नया पूल बनाने के तुरंत बाद अपेक्षित है:
 
-* APR and TVL data will only populate once **at least one swap** has occurred in the pool.
-* After a swap, these metrics will begin displaying within approximately **15 minutes**.
+* APR और TVL डेटा तभी भरेगा जब पूल में **कम से कम एक स्वैप** हुआ हो।
+* एक स्वैप के बाद, ये मेट्रिक्स लगभग **15 मिनट** के भीतर दिखाई देने लगेंगे।
 
-#### **5. Why do my transactions sometimes fail if my wallet has less than 10 MON?**
+#### **5. मेरे वॉलेट में 10 MON से कम होने पर ट्रांजेक्शन कभी-कभी विफल क्यों होते हैं?**
 
-Monad has a rule that every account should keep a **minimum safety buffer of 10 MON**. If your balance is low and you send too many transactions too quickly, the network may **stop accepting new ones**.
+Monad का एक नियम है कि प्रत्येक अकाउंट में **न्यूनतम सुरक्षा बफर 10 MON** रखना आवश्यक है। यदि आपका बैलेंस कम है और आप बहुत तेज़ी से बहुत सारे ट्रांजेक्शन भेजते हैं, तो नेटवर्क **नए ट्रांजेक्शन स्वीकार करना बंद कर सकता है**।
 
-#### **6. Why do the first 1–2 transactions work, but the next ones fail?**
+#### **6. पहले 1-2 ट्रांजेक्शन काम क्यों करते हैं, लेकिन अगले विफल हो जाते हैं?**
 
-Monad processes blocks using a slightly “behind” view of your balance. So:
+Monad आपके बैलेंस के थोड़े "पीछे" दृश्य का उपयोग करके ब्लॉक प्रोसेस करता है। इसलिए:
 
-* Your **first** transaction is usually fine.
-* Your **second** might also go through.
-* But if you send **multiple transactions within a short time**, the network thinks you might not have enough MON to pay all the gas fees.
+* आपका **पहला** ट्रांजेक्शन आमतौर पर ठीक होता है।
+* आपका **दूसरा** भी हो सकता है।
+* लेकिन यदि आप **थोड़े समय में कई ट्रांजेक्शन** भेजते हैं, तो नेटवर्क सोचता है कि आपके पास सभी गैस शुल्क का भुगतान करने के लिए पर्याप्त MON नहीं है।
 
-So it **blocks** the next transaction. This is normal and part of the safety system.
+इसलिए यह अगले ट्रांजेक्शन को **ब्लॉक** कर देता है। यह सामान्य है और सुरक्षा प्रणाली का हिस्सा है।
 
-#### **7. Why does it feel stricter on smart accounts (contract wallets)?**
+#### **7. स्मार्ट अकाउंट (कॉन्ट्रैक्ट वॉलेट) पर यह अधिक सख्त क्यों लगता है?**
 
-Smart accounts follow **stricter rules**:
+स्मार्ट अकाउंट **सख्त नियमों** का पालन करते हैं:
 
-* They must **always** keep at least **10 MON** while running contract code.
-* If your smart account is below 10 MON, the transaction can **revert immediately**, even if EOAs still work for a couple of tx.
+* कॉन्ट्रैक्ट कोड चलाते समय उन्हें **हमेशा** कम से कम **10 MON** रखना आवश्यक है।
+* यदि आपका स्मार्ट अकाउंट 10 MON से कम है, तो ट्रांजेक्शन **तुरंत रिवर्ट** हो सकता है, भले ही EOAs अभी भी कुछ tx के लिए काम करें।
 
-This is why smart-account users see failures sooner.
+इसीलिए स्मार्ट-अकाउंट उपयोगकर्ता जल्दी विफलताएं देखते हैं।
 
-#### **8. Does this mean I can’t use Monad with less than 10 MON?**
+#### **8. क्या इसका मतलब है कि मैं 10 MON से कम के साथ Monad का उपयोग नहीं कर सकता?**
 
-You _can_ still use it, especially with a normal EOA — but:
+आप _अभी भी_ इसका उपयोग कर सकते हैं, विशेष रूप से एक सामान्य EOA के साथ — लेकिन:
 
-* Don’t send several transactions back-to-back.
-* Wait a few blocks between transactions.
-* Keep a little MON in your wallet to avoid issues.
+* एक के बाद एक कई ट्रांजेक्शन न भेजें।
+* ट्रांजेक्शन के बीच कुछ ब्लॉक प्रतीक्षा करें।
+* समस्याओं से बचने के लिए अपने वॉलेट में थोड़ा MON रखें।
 
-#### **9. How do I avoid these failures?**
+#### **9. इन विफलताओं से कैसे बचें?**
 
-Simple tips:
+सरल सुझाव:
 
-* Keep **10 MON or more** in your wallet if possible.
-* If you’re low on MON, **space out your transactions** (don’t spam them).
-* Smart-account users should keep a **bit more than 10 MON**, since contract calls use extra gas.
+* यदि संभव हो तो अपने वॉलेट में **10 MON या अधिक** रखें।
+* यदि आपके पास MON कम है, तो **अपने ट्रांजेक्शन के बीच अंतराल रखें** (स्पैम न करें)।
+* स्मार्ट-अकाउंट उपयोगकर्ताओं को **10 MON से थोड़ा अधिक** रखना चाहिए, क्योंकि कॉन्ट्रैक्ट कॉल अतिरिक्त गैस उपयोग करते हैं।

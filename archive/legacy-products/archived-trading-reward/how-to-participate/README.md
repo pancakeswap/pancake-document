@@ -1,26 +1,26 @@
-# How to Participate
+# Participate कैसे करें
 
 {% hint style="danger" %}
-\[Archived] Trading Reward – As of 23rd August 2024
+\[Archived] Trading Reward – 23 अगस्त 2024 से
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/how-to-tradingreward.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-tradingreward.png" alt=""><figcaption></figcaption></figure>
 
-Currently there are two different campaigns:
+वर्तमान में दो अलग-अलग campaigns हैं:
 
 ### Top Traders
 
-In Top traders campaigns, users who ranked within certain rankings across all the traders will be eligible to claim up to a 3% trading fee rebate in CAKE from trading eligible PancakeSwap V3 pairs on BNB Chain and Ethereum mainnet.
+Top traders campaigns में, जो users सभी traders में certain rankings के भीतर ranked होते हैं वे BNB Chain और Ethereum mainnet पर eligible PancakeSwap V3 pairs trade करने से CAKE में 3% तक trading fee rebate claim करने के eligible होंगे।
 
 ### CAKE Stakers
 
-In CAKE stakers campaigns, eligible users with active CAKE staking positions can claim up to a ~~5%~~ 10% trading fee rebate in CAKE from trading eligible PancakeSwap V3 pairs on BNB Chain and Ethereum mainnet.
+CAKE stakers campaigns में, active CAKE staking positions वाले eligible users BNB Chain और Ethereum mainnet पर eligible PancakeSwap V3 pairs trade करने से CAKE में ~~5%~~ 10% तक trading fee rebate claim कर सकते हैं।
 
 {% hint style="warning" %}
-**Note:** The two types of campaigns mentioned above are usually run in parallel. Although your trading volume/fee generated will be shared across both. When the campaigns end, you can only claim rewards from **ONE** of the campaigns. Once you've claimed from one campaign, you can NOT claim from the other one.
+**ध्यान दें:** ऊपर उल्लिखित दोनों प्रकार की campaigns आमतौर पर parallel में चलती हैं। हालाँकि आपका trading volume/fee generated दोनों में share होगा। Campaigns समाप्त होने पर, आप केवल **एक** campaign से rewards claim कर सकते हैं। एक बार एक campaign से claim करने के बाद, आप दूसरे से claim **नहीं** कर सकते।
 {% endhint %}
 
-Check out the following tutorial to learn more about how to participate in:
+Participate करने का तरीका जानने के लिए निम्नलिखित tutorial देखें:
 
 {% content-ref url="top-traders-campaign.md" %}
 [top-traders-campaign.md](top-traders-campaign.md)

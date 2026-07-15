@@ -1,95 +1,95 @@
 # 🎁 Pancake Gifts
 
-### 🎯 What is Pancake Gifts?
+### 🎯 Pancake Gifts क्या है?
 
-**Pancake Gifts** lets anyone send tokens — including optional gas — to friends, users, or communities using just a **link** or **QR code**. It’s a simple, secure, and gasless experience for the recipient.
+**Pancake Gifts** किसी को भी केवल एक **लिंक** या **QR कोड** का उपयोग करके दोस्तों, उपयोगकर्ताओं या समुदायों को टोकन — वैकल्पिक गैस सहित — भेजने देता है। यह प्राप्तकर्ता के लिए एक सरल, सुरक्षित और गैसलेस अनुभव है।
 
-It’s built to make onboarding into crypto as easy as sending a message — no wallet funding, no bridging, no upfront fees.
+यह क्रिप्टो में ऑनबोर्डिंग को एक संदेश भेजने जितना आसान बनाने के लिए बनाया गया है — कोई वॉलेट फंडिंग नहीं, कोई Bridging नहीं, कोई अग्रिम शुल्क नहीं।
 
-### 🤝 Why We Built Pancake Gifts
+### 🤝 हमने Pancake Gifts क्यों बनाया
 
-Onboarding to Web3 is still full of friction. New users often give up before they even get started due to:
+Web3 में ऑनबोर्डिंग अभी भी बहुत जटिल है। नए उपयोगकर्ता अक्सर शुरू होने से पहले ही हार मान लेते हैं क्योंकि:
 
-* **No gas in wallet** → Can’t perform any onchain action
-* **No funds on the correct chain** → Bridging is required before using dApps
-* **Need to buy crypto just to get started** → Requires CEX signup or fiat on-ramp
+* **वॉलेट में कोई गैस नहीं** → कोई भी ऑनचेन कार्रवाई नहीं कर सकते
+* **सही चेन पर कोई फंड नहीं** → dApps का उपयोग करने से पहले Bridging आवश्यक है
+* **शुरू करने के लिए क्रिप्टो खरीदनी होगी** → CEX साइनअप या फिएट ऑन-रैंप की आवश्यकता है
 
-Pancake Gifts eliminates these blockers by:
+Pancake Gifts इन बाधाओं को समाप्त करता है:
 
-* ✅ **Including native gas tokens** in the gift so recipients can interact instantly
-* ✅ **Sponsoring the gas fee upfront** (sender pays a small fee)
-* ✅ **Enabling claim via a simple link or QR** — no complex onboarding
+* ✅ उपहार में **नेटिव गैस टोकन शामिल** करके ताकि प्राप्तकर्ता तुरंत इंटरैक्ट कर सकें
+* ✅ **गैस शुल्क अग्रिम में प्रायोजित करके** (प्रेषक एक छोटा शुल्क देता है)
+* ✅ **सरल लिंक या QR के माध्यम से दावा सक्षम करके** — कोई जटिल ऑनबोर्डिंग नहीं
 
 
 
-It’s a tool for both:
+यह दोनों के लिए एक उपकरण है:
 
-* New users getting started onchain
-* Web3-native communities looking to **boost adoption, reward users, or run campaigns** in a friendlier way
+* ऑनचेन शुरू होने वाले नए उपयोगकर्ता
+* Web3-नेटिव समुदाय जो अधिक सरल तरीके से **उपयोगकर्ताओं को पुरस्कृत करना, अभियान चलाना या अपनाना बढ़ाना** चाहते हैं
 
 ***
 
-### ⚙️ Feature Summary
+### ⚙️ सुविधा सारांश
 
-| Feature                | Description                                                      |
+| सुविधा                | विवरण                                                      |
 | ---------------------- | ---------------------------------------------------------------- |
-| **Chain Support**      | BNB Chain (initial launch)                                       |
-| **Gift Code Types**    | Link **or** QR Code                                              |
-| **One-time Use**       | Each code can only be claimed once                               |
-| **Token Support**      | Max 2 tokens: 1 BEP-20 (required), 1 native gas token (optional) |
-| **Custom Amounts**     | Set different values per token                                   |
-| **Gift Claim Gas Fee** | Sender prepays gas (\~$0.05 in BNB)                              |
-| **Gift History**       | Users can view all sent gifts, claim status, expiry              |
-| **Security Checks**    | Fee-on-transfer and complex logic tokens are disallowed          |
+| **चेन समर्थन**      | BNB Chain (प्रारंभिक लॉन्च)                                       |
+| **Gift Code प्रकार**    | लिंक **या** QR Code                                              |
+| **एकल उपयोग**       | प्रत्येक कोड केवल एक बार दावा किया जा सकता है                               |
+| **टोकन समर्थन**      | अधिकतम 2 टोकन: 1 BEP-20 (आवश्यक), 1 नेटिव गैस टोकन (वैकल्पिक) |
+| **कस्टम राशियाँ**     | प्रति टोकन अलग-अलग मूल्य सेट करें                                   |
+| **Gift Claim Gas Fee** | प्रेषक गैस प्रीपे करता है (\~$0.05 BNB में)                              |
+| **Gift History**       | उपयोगकर्ता सभी भेजे गए उपहार, दावे की स्थिति, समाप्ति देख सकते हैं              |
+| **सुरक्षा जाँच**    | ट्रांसफर शुल्क और जटिल लॉजिक टोकन अस्वीकृत हैं          |
 
-### 🚫 Limitations
+### 🚫 सीमाएं
 
-1. **One gift per code** — Mass gifting is not yet supported.
-2. **Gifts cannot be reinstated** — Once cancelled or expired, they cannot be reused.
-3. **Unsupported tokens are blocked** — Tokens with transfer fees or special logic will show an error on creation.
-4. **Unsuccessful claims are retried** — Backend retries a few times. If still failed, the gift is marked **unclaimable** and must be cancelled manually to retrieve funds.
-5. **Gift must be claimed on the same chain** — e.g. ETH gift must be claimed on Ethereum. Cross-chain claiming is not supported yet.
-
-***
-
-### 🕒 Cancel & Expiry Logic
-
-Gifts follow a defined lifecycle based on status and time:
-
-#### Manual Cancel
-
-* The **creator** can cancel any gift that is still **unclaimed** and **within the expiry window**.
-* Tokens (minus the initial Gift Claim Gas Fee) will be returned to the sender.
-* Cancelled gifts **cannot** be reactivated or reused.
-
-#### Auto Expiry
-
-* Gifts **automatically expire** after a user-defined period (default: 7 days).
-* Unclaimed tokens will be **auto-returned** to the sender’s wallet.
-* Expired gifts are also non-reusable.
+1. **प्रति कोड एक उपहार** — बड़े पैमाने पर उपहार देना अभी समर्थित नहीं है।
+2. **उपहार बहाल नहीं किए जा सकते** — एक बार रद्द या समाप्त होने के बाद, उनका पुनः उपयोग नहीं किया जा सकता।
+3. **असमर्थित टोकन ब्लॉक किए जाते हैं** — ट्रांसफर शुल्क या विशेष लॉजिक वाले टोकन निर्माण के समय त्रुटि दिखाएंगे।
+4. **असफल दावों का पुनः प्रयास किया जाता है** — बैकएंड कुछ बार पुनः प्रयास करता है। यदि फिर भी विफल रहे, तो उपहार **unclaimable** के रूप में चिह्नित होता है और फंड वापस पाने के लिए मैन्युअली रद्द करना होगा।
+5. **उपहार उसी चेन पर दावा करना होगा** — जैसे ETH उपहार Ethereum पर दावा होना चाहिए। क्रॉस-चेन दावा अभी समर्थित नहीं है।
 
 ***
 
-### 🔄 Gift Statuses & What They Mean
+### 🕒 रद्द करना और समाप्ति तर्क
 
-| Status          | Description                                                              |
+उपहार स्थिति और समय के आधार पर एक निर्धारित जीवनचक्र का पालन करते हैं:
+
+#### मैनुअल रद्द करना
+
+* **निर्माता** किसी भी उपहार को रद्द कर सकता है जो अभी भी **unclaimed** है और **समाप्ति विंडो के भीतर** है।
+* टोकन (प्रारंभिक Gift Claim Gas Fee घटाकर) प्रेषक को वापस लौटाए जाएंगे।
+* रद्द किए गए उपहार **पुनः सक्रिय या पुनः उपयोग नहीं** किए जा सकते।
+
+#### ऑटो समाप्ति
+
+* उपहार उपयोगकर्ता-परिभाषित अवधि (डिफ़ॉल्ट: 7 दिन) के बाद **स्वचालित रूप से समाप्त** हो जाते हैं।
+* दावा न किए गए टोकन **स्वचालित रूप से** प्रेषक के वॉलेट में वापस आ जाएंगे।
+* समाप्त उपहार भी पुनः उपयोग योग्य नहीं हैं।
+
+***
+
+### 🔄 Gift की स्थिति और उनका अर्थ
+
+| स्थिति          | विवरण                                                              |
 | --------------- | ------------------------------------------------------------------------ |
-| **Pending**     | Gift has been created and is awaiting claim                              |
-| **Claimed**     | Gift was successfully claimed by a recipient                             |
-| **Cancelled**   | Gift was manually cancelled by the sender                                |
-| **Expired**     | Gift passed the expiry time without being claimed                        |
-| **Unclaimable** | Number of retries exceeded; gift needs to be cancelled to retrieve funds |
+| **Pending**     | उपहार बनाया गया है और दावे का इंतजार कर रहा है                              |
+| **Claimed**     | उपहार सफलतापूर्वक प्राप्तकर्ता द्वारा दावा किया गया                             |
+| **Cancelled**   | उपहार प्रेषक द्वारा मैन्युअली रद्द किया गया                                |
+| **Expired**     | उपहार दावे के बिना समाप्ति समय से गुज़र गया                        |
+| **Unclaimable** | पुनः प्रयासों की संख्या अधिक हो गई; फंड वापस पाने के लिए उपहार रद्द करना होगा |
 
 ***
 
-### ⚠️ Error Handling & Edge Cases
+### ⚠️ त्रुटि प्रबंधन और एज मामले
 
-1. **Unsupported Token**
-   * Gift creation is blocked for tokens with transfer fees or special logic.
-2. **Gas Mismatch**
-   * If **actual claim gas cost ≥** the sender’s prepaid fee, the claim fails automatically to prevent overuse. This will be retried once gas fee levels are within range.
-3. **Failed Claim Attempts**
-   * Retries will be attempted upon first unsuccessful claim.
-   * If still unsuccessful:
-     * Recipient sees “Unclaimable”
-     * Sender must manually cancel the gift to retrieve funds and receipient will have to request or a new gift code.
+1. **असमर्थित टोकन**
+   * ट्रांसफर शुल्क या विशेष लॉजिक वाले टोकनों के लिए उपहार निर्माण अवरुद्ध है।
+2. **Gas मेल न खाना**
+   * यदि **वास्तविक दावा गैस लागत ≥** प्रेषक का प्रीपेड शुल्क है, तो अत्यधिक उपयोग को रोकने के लिए दावा स्वचालित रूप से विफल हो जाता है। गैस शुल्क स्तर सीमा के भीतर आने पर इसे पुनः प्रयास किया जाएगा।
+3. **विफल दावे के प्रयास**
+   * पहले असफल दावे पर पुनः प्रयास किए जाएंगे।
+   * यदि फिर भी असफल:
+     * प्राप्तकर्ता को "Unclaimable" दिखेगा
+     * फंड वापस पाने के लिए प्रेषक को उपहार मैन्युअली रद्द करना होगा और प्राप्तकर्ता को नए उपहार कोड का अनुरोध करना होगा।

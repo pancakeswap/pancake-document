@@ -1,80 +1,80 @@
 # Lottery FAQ
 
-## What if there are no winners?
+## यदि कोई विजेता न हो तो क्या होगा?
 
-If CAKE in the prize pools isn't won it doesn't go to waste! Unclaimed CAKE rolls over to the next Lottery round.
+यदि पुरस्कार पूल में मौजूद CAKE नहीं जीती जाती, तो वह बर्बाद नहीं होती! दावा न की गई CAKE अगले Lottery राउंड में जुड़ जाती है।
 
-## My ticket matches several numbers but I can't claim a prize
+## मेरा टिकट कई नंबरों से मेल खाता है लेकिन मैं पुरस्कार का दावा नहीं कर सकता
 
-Tickets are only eligible for prizes if matching numbers from left to right. See the [Lottery v2 documentation](./) for a thorough explanation.
+टिकट केवल तभी पुरस्कार के लिए पात्र होते हैं जब बाईं से दाईं ओर नंबर मिलते हों। विस्तृत स्पष्टीकरण के लिए [Lottery v2 दस्तावेज़](./) देखें।
 
-## How is Lottery v2 different from Lottery v1?
+## Lottery v2, Lottery v1 से कैसे अलग है?
 
-Lottery v2 distributes prizes more widely than Lottery v1. It gives each ticket a 1 in 10 chance to match the first number, which means more tickets will at least win a small prize. It also has 6 (up from 4) numbers that need to be matched sequentially to win the biggest prize.
+Lottery v2 Lottery v1 की तुलना में अधिक व्यापक रूप से पुरस्कार वितरित करती है। यह प्रत्येक टिकट को पहले नंबर से मिलान करने का 1 में 10 का मौका देती है, जिसका अर्थ है कि अधिक टिकटों को कम से कम एक छोटा पुरस्कार मिलेगा। इसमें 6 (4 से बढ़ाकर) नंबर हैं जिन्हें सबसे बड़ा पुरस्कार जीतने के लिए क्रमिक रूप से मिलाना होगा।
 
-Overall this means more tickets can win a prize, but the largest prize jackpot will be won less frequently, making for huge top prize pools!
+कुल मिलाकर इसका मतलब है कि अधिक टिकट पुरस्कार जीत सकते हैं, लेकिन सबसे बड़ा जैकपॉट कम बार जीता जाएगा, जिससे बहुत बड़े शीर्ष पुरस्कार पूल बनेंगे!
 
-**Lottery v2 introduces:**
+**Lottery v2 में शामिल है:**
 
-* cheaper ticket prices (\~$5 USD in CAKE per ticket) that don't swing wildly with the price of CAKE
-* bulk ticket discounts
-* 6-tiered prize pool brackets with increasing prize pools as more numbers are matched
-* manual number selection (optional), so users can use their lucky numbers
-* [Chainlink’s implementation of VRF](https://docs.chain.link/docs/chainlink-vrf/) for true, secure randomness
-* lower overall fees (see [lower down this page](lottery-faq.md#what-transaction-fee-will-i-pay-for-buying-tickets) for more information)
+* सस्ती टिकट कीमतें (प्रति टिकट CAKE में \~$5 USD) जो CAKE की कीमत के साथ बहुत अधिक नहीं बदलतीं
+* बल्क टिकट छूट
+* 6-स्तरीय पुरस्कार पूल ब्रैकेट जिसमें अधिक नंबर मिलाने पर बढ़ते पुरस्कार पूल
+* मैन्युअल नंबर चयन (वैकल्पिक), ताकि उपयोगकर्ता अपने भाग्यशाली नंबरों का उपयोग कर सकें
+* सच्ची, सुरक्षित यादृच्छिकता के लिए [Chainlink के VRF कार्यान्वयन](https://docs.chain.link/docs/chainlink-vrf/)
+* समग्र रूप से कम शुल्क (अधिक जानकारी के लिए [इस पृष्ठ पर नीचे देखें](lottery-faq.md#what-transaction-fee-will-i-pay-for-buying-tickets))
 
-[Learn more about Lottery v2 features, gameplay, and prizes](./)
+[Lottery v2 की विशेषताओं, गेमप्ले और पुरस्कारों के बारे में अधिक जानें](./)
 
-## How are prizes broken down between brackets?
+## ब्रैकेट के बीच पुरस्कार कैसे विभाजित होते हैं?
 
-Each bracket's prize pool is a portion of the total CAKE in each Lottery round.
+प्रत्येक ब्रैकेट का पुरस्कार पूल प्रत्येक Lottery राउंड में कुल CAKE का एक हिस्सा है।
 
-* | Bracket (numbers matched in order) | CAKE Allocation |
+* | ब्रैकेट (क्रम में मिलाए गए नंबर) | CAKE आवंटन |
   | ---------------------------------- | --------------- |
-  | First 1 number                     | 2%              |
-  | First 2 numbers                    | 3%              |
-  | First 3 numbers                    | 5%              |
-  | First 4 numbers                    | 10%             |
-  | First 5 numbers                    | 20%             |
-  | First 6 numbers                    | 40%             |
-  | Burn                               | 20%             |
+  | पहला 1 नंबर                     | 2%              |
+  | पहले 2 नंबर                    | 3%              |
+  | पहले 3 नंबर                    | 5%              |
+  | पहले 4 नंबर                    | 10%             |
+  | पहले 5 नंबर                    | 20%             |
+  | पहले 6 नंबर                    | 40%             |
+  | बर्न                               | 20%             |
 
-## Can I swap my tickets back to CAKE?
+## क्या मैं अपने टिकट वापस CAKE में बदल सकता/सकती हूँ?
 
-No, once purchased you will not be able to convert your ticket back to CAKE.
+नहीं, एक बार खरीदे जाने के बाद आप अपना टिकट वापस CAKE में नहीं बदल सकते।
 
-## If I win, do I need to manually claim the prize?
+## यदि मैं जीत जाऊँ, तो क्या मुझे पुरस्कार का दावा मैन्युअली करना होगा?
 
-Yes, you will need to click the **Check Now** button under "Are you a winner?" on the Lottery page.
+हाँ, आपको Lottery पृष्ठ पर "क्या आप विजेता हैं?" के अंतर्गत **अभी जाँचें** बटन पर क्लिक करना होगा।
 
-![](<../../.gitbook/assets/image (68).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2868%29.png)
 
-## How often is the lottery?
+## Lottery कितनी बार होती है?
 
-A lottery draw occurs every 12 or 36 hours. One lottery draw occurs every day alternating between 0 AM UTC and 12 PM UTC, next rounds after the 0 AM UTC rounds will be after 36 hours, next rounds after the 12 PM UTC rounds will be after 12 hours.
+Lottery का ड्रॉ हर 12 या 36 घंटे में एक बार होता है। हर दिन एक Lottery ड्रॉ 0 AM UTC और 12 PM UTC के बीच बारी-बारी होता है; 0 AM UTC राउंड के बाद अगला राउंड 36 घंटे बाद होगा, और 12 PM UTC राउंड के बाद अगला राउंड 12 घंटे बाद होगा।
 
-![Lottery injection schedule](<../../.gitbook/assets/Lottery Schedule Update Feb 4.png>)
+![Lottery injection schedule](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Lottery%20Schedule%20Update%20Feb%204.png)
 
-## What transaction fee will I pay for buying tickets?
+## टिकट खरीदने के लिए मुझे कितना ट्रांजेक्शन शुल्क देना होगा?
 
-Every ticket purchase you make will be one transaction. Purchasing a single ticket in a Lottery purchase will cost the normal amount of fees for a transaction.
+आपकी प्रत्येक टिकट खरीद एक ट्रांजेक्शन होगी। एक Lottery खरीद में एक टिकट खरीदने पर सामान्य ट्रांजेक्शन शुल्क लगेगा।
 
-However, buying more tickets in that purchase will increase the fee. Buying 100 tickets rather than 1 will not multiply the fee by 100, but may increase the fee amount by 5-6 times (though this varies).
+हालांकि, उसी खरीद में अधिक टिकट खरीदने पर शुल्क बढ़ेगा। 1 की बजाय 100 टिकट खरीदने पर शुल्क 100 गुना नहीं बढ़ेगा, लेकिन यह 5-6 गुना बढ़ सकता है (हालांकि यह भिन्न होता है)।
 
-## How does the bulk discount work?
+## बल्क छूट कैसे काम करती है?
 
-The bulk discount rewards buying larger amounts of tickets with a scaling discount. If you're only buying 2 tickets, the discount is negligible, but will add up quickly as you increase the number of tickets to buy in one transaction.
+बल्क छूट स्केलिंग छूट के साथ अधिक टिकट खरीदने को प्रोत्साहित करती है। यदि आप केवल 2 टिकट खरीद रहे हैं, तो छूट नगण्य है, लेकिन एक ट्रांजेक्शन में टिकटों की संख्या बढ़ाने पर यह तेजी से बढ़ती है।
 
-The discount only applies to each transaction up to 100 tickets. The discount does not carry over to the next transaction or next round.
+छूट केवल प्रत्येक ट्रांजेक्शन पर 100 टिकट तक लागू होती है। छूट अगले ट्रांजेक्शन या अगले राउंड में नहीं जाती।
 
-## Why can I only buy 100 tickets?
+## मैं केवल 100 टिकट ही क्यों खरीद सकता/सकती हूँ?
 
-You can only buy a maximum of 100 tickets in one purchase, but you can make multiple purchases. There's nothing to stop you buying more tickets after your first 100.
+आप एक खरीद में अधिकतम 100 टिकट खरीद सकते हैं, लेकिन आप कई खरीद कर सकते हैं। पहले 100 के बाद और टिकट खरीदने पर कोई रोक नहीं है।
 
-## If I manually create two or more tickets with the same numbers and they win, am I eligible for prizes for each ticket?
+## यदि मैं मैन्युअली एक जैसे नंबरों के दो या अधिक टिकट बनाऊँ और वे जीतें, तो क्या मैं प्रत्येक टिकट के लिए पुरस्कार का दावा कर सकता/सकती हूँ?
 
-Yes, each ticket is treated as a separate entry to the Lottery. Keep in mind that the prizes will not be 1:1 though, as each winning ticket you have dilutes each share of the bracket's total prizes.
+हाँ, प्रत्येक टिकट को Lottery में एक अलग प्रविष्टि माना जाता है। ध्यान रखें कि पुरस्कार 1:1 नहीं होंगे, क्योंकि आपके प्रत्येक विजयी टिकट से ब्रैकेट के कुल पुरस्कारों का प्रत्येक हिस्सा पतला हो जाता है।
 
-## Injection schedule: When is CAKE added to the lottery?
+## इंजेक्शन शेड्यूल: CAKE Lottery में कब जोड़ी जाती है?
 
-When people buy tickets, the CAKE they spend is added to the lottery pot. In addition, 8,000 CAKE is also added (injected) to the lottery pot every other round on a regular schedule over the course of seven rounds per week as shown above in the lottery schedule figure.
+जब लोग टिकट खरीदते हैं, तो वे जो CAKE खर्च करते हैं वह Lottery पॉट में जुड़ जाती है। इसके अलावा, ऊपर Lottery शेड्यूल में दिखाए अनुसार प्रति सप्ताह सात राउंड के दौरान एक नियमित शेड्यूल पर हर दूसरे राउंड में Lottery पॉट में 8,000 CAKE भी जोड़ी (इंजेक्ट की) जाती है।

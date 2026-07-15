@@ -1,78 +1,78 @@
-# Product Overview
+# उत्पाद अवलोकन
 
-![](.gitbook/assets/intro-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/intro-header.png)
 
 {% hint style="success" %}
-**PancakeSwap helps you make the most out of your crypto in three ways:**
+**PancakeSwap आपको तीन तरीकों से आपकी क्रिप्टो का अधिकतम लाभ उठाने में मदद करता है:**
 
-**Trade, Earn, and Win.**
+**व्यापार करें, कमाएं और जीतें।**
 {% endhint %}
 
-## Trade
+## व्यापार
 
-> Instantly swap crypto tokens: no registration or account needed.
+> क्रिप्टो टोकन तुरंत स्वैप करें: किसी पंजीकरण या खाते की आवश्यकता नहीं।
 
-### The people's choice
+### लोगों की पसंद
 
-PancakeSwap is a leading decentralized exchange. Available across ten chains: BNB Chain, Ethereum, Solana, Base, Arbitrum, Aptos, ZKsync, Linea, Monad, and opBNB, with the highest trading volumes in the market (sources: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
+PancakeSwap एक प्रमुख विकेंद्रीकृत एक्सचेंज है। यह दस चेन पर उपलब्ध है: BNB Chain, Ethereum, Solana, Base, Arbitrum, Aptos, ZKsync, Linea, Monad और opBNB, जिसमें बाज़ार में सबसे अधिक ट्रेडिंग वॉल्यूम है (स्रोत: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/))।
 
-### Low fees
+### कम शुल्क
 
-Why pay more?\
-Trading fees are lower than other top decentralized exchanges too, so that's a win for you!
+अधिक भुगतान क्यों करें?\
+ट्रेडिंग शुल्क अन्य शीर्ष विकेंद्रीकृत एक्सचेंजों से भी कम है, तो यह आपके लिए फायदेमंद है!
 
-### Decentralized
+### विकेंद्रीकृत
 
-Trade directly from your wallet app.\
-Unlike centralized exchanges like Binance or Coinbase, PancakeSwap doesn’t hold your funds when you trade: **you have 100% ownership of your own crypto**.
+अपने वॉलेट ऐप से सीधे व्यापार करें।\
+Binance या Coinbase जैसे केंद्रीकृत एक्सचेंजों के विपरीत, PancakeSwap व्यापार के दौरान आपकी धनराशि नहीं रखता: **आपके पास अपनी क्रिप्टो का 100% स्वामित्व है।**
 
-## Earn
+## कमाएं
 
-> Earn CAKE and other tokens for free with super high interest rates.
+> CAKE और अन्य टोकन बेहद उच्च ब्याज दरों पर मुफ़्त में कमाएं।
 
-### Earn tokens with Syrup Pools
+### Syrup Pools के साथ टोकन कमाएं
 
-Stake CAKE, earn free tokens. It’s really that easy.\
-CAKE holders right now are earning tens of millions of USD worth of free tokens each week from major projects. New projects join the party frequently, so you can earn more, for even longer.
+CAKE स्टेक करें, मुफ़्त टोकन कमाएं। यह सच में इतना आसान है।\
+CAKE धारक अभी प्रमुख परियोजनाओं से हर सप्ताह करोड़ों डॉलर मूल्य के मुफ़्त टोकन कमा रहे हैं। नई परियोजनाएं अक्सर जुड़ती रहती हैं, इसलिए आप और अधिक, और लंबे समय तक कमा सकते हैं।
 
-### Earn CAKE with Yield Farms
+### Yield Farms के साथ CAKE कमाएं
 
-Stake LP tokens, earn CAKE. You take on a little more exposure to market fluctuations than with the Syrup Pools, but can earn higher APR to offset the risk.
+LP टोकन स्टेक करें, CAKE कमाएं। Syrup Pools की तुलना में आप बाज़ार के उतार-चढ़ाव के प्रति थोड़े अधिक संवेदनशील होते हैं, लेकिन जोखिम की भरपाई के लिए उच्च APR कमा सकते हैं।
 
-### Earn Trading Fees
+### ट्रेडिंग शुल्क कमाएं
 
-No farm? No problem. Even if your trading pair isn’t supported on the Farms page, you can still earn trading fees when you stake your tokens in Liquidity Pools (LPs).
+कोई फार्म नहीं? कोई समस्या नहीं। भले ही आपकी ट्रेडिंग जोड़ी Farms पृष्ठ पर समर्थित न हो, आप तरलता पूल (LPs) में अपने टोकन स्टेक करके ट्रेडिंग शुल्क कमा सकते हैं।
 
-## Win
+## जीतें
 
-> PancakeSwap makes making money fun.
+> PancakeSwap पैसा कमाने को मज़ेदार बनाता है।
 
 ### Lottery
 
-**Millions of dollars** regularly go up for grabs on the PancakeSwap Lottery.\
-Join as many as **11,000 daily players** for your chance to win big!
+PancakeSwap Lottery पर नियमित रूप से **लाखों डॉलर** दांव पर लगे होते हैं।\
+**11,000 दैनिक खिलाड़ियों** के साथ जुड़ें और बड़ा जीतने का मौका पाएं!
 
 ### Prediction
 
-Predict whether BNB, BTC, or ETH price will rise or fall. New rounds every 5 minutes!
+अनुमान लगाएं कि BNB, BTC या ETH की कीमत बढ़ेगी या गिरेगी। हर 5 मिनट में नया राउंड!
 
-## Is PancakeSwap safe?
+## क्या PancakeSwap सुरक्षित है?
 
-### See for yourself:
+### स्वयं देखें:
 
-Check out these PancakeSwap security audits [here](welcome-to-pancakeswap/audits.md).
+PancakeSwap के सुरक्षा ऑडिट [यहां](welcome-to-pancakeswap/audits.md) देखें।
 
-### Transparent:
+### पारदर्शी:
 
-* We’re built on open-source software: our site and all our Smart Contracts are publicly visible for maximum transparency.
-* Our contracts are verified on BscScan so you know that what you see is what you get: [1](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E) [2](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#code) [3](https://bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812) [4](https://bscscan.com/address/0x1b96b92314c44b159149f7e0303511fb2fc4774f#code) [5](https://bscscan.com/address/0x92E8CeB7eAeD69fB6E4d9dA43F605D2610214E68)
+* हम ओपन-सोर्स सॉफ़्टवेयर पर बने हैं: अधिकतम पारदर्शिता के लिए हमारी साइट और सभी स्मार्ट कॉन्ट्रैक्ट सार्वजनिक रूप से दृश्यमान हैं।
+* हमारे कॉन्ट्रैक्ट BscScan पर सत्यापित हैं, इसलिए आप जानते हैं कि जो आप देखते हैं वही आपको मिलता है: [1](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E) [2](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#code) [3](https://bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812) [4](https://bscscan.com/address/0x1b96b92314c44b159149f7e0303511fb2fc4774f#code) [5](https://bscscan.com/address/0x92E8CeB7eAeD69fB6E4d9dA43F605D2610214E68)
 
-### Security best practices:
+### सुरक्षा की सर्वोत्तम प्रथाएं:
 
-* The chefs use multisig for all contracts.
-* Our contracts’ time-locks give you peace of mind.
+* शेफ़ सभी कॉन्ट्रैक्ट के लिए मल्टीसिग का उपयोग करते हैं।
+* हमारे कॉन्ट्रैक्ट के टाइम-लॉक आपको मन की शांति देते हैं।
 
-**Sounds like fun?**\
-**Then get flipping!** 🐰 🥞
+**रोचक लगता है?**\
+**तो शुरू हो जाइए!** 🐰 🥞
 
 ***

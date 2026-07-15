@@ -2,5 +2,5 @@
 hidden: true
 ---
 
-# Liquidity Pool FAQ
+# तरलता पूल अक्सर पूछे जाने वाले सवाल (FAQ)
 

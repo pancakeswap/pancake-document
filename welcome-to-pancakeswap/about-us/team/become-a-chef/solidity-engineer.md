@@ -4,31 +4,31 @@ hidden: true
 
 # Senior Solidity Engineer
 
-### **General Information**
+### **सामान्य जानकारी**
 
-* **Salary range:** Competitive, negotiable
-* **Position:** Full-time
-* **Location:** Remote
-* **Time-zone preference:** Any
+* **वेतन सीमा:** प्रतिस्पर्धी, वार्ता योग्य
+* **पद:** पूर्णकालिक
+* **स्थान:** रिमोट
+* **समय क्षेत्र प्राथमिकता:** कोई भी
 
-### Your Responsibilities
+### आपकी जिम्मेदारियाँ
 
-* Architect, implement, and test smart contracts in **Solidity** across EVM-compatible chains.
-* Scope, design, and deliver complex systems end-to-end, from idea to deployment.
-* Collaborate with cross functional partners on all aspects of product development.
-* Conduct code reviews and enforce best practices for security, efficiency, and maintainability.
-* Continuously evaluate and improve gas optimization, security design patterns, and upgradeability.
-* Proactively identify areas for improvement and innovation within PancakeSwap’s protocol architecture.
+* EVM-संगत चेन में **Solidity** में स्मार्ट कॉन्ट्रैक्ट आर्किटेक्ट, लागू और परीक्षण करें।
+* जटिल प्रणालियों को विचार से परिनियोजन तक end-to-end स्कोप, डिज़ाइन और वितरित करें।
+* प्रोडक्ट विकास के सभी पहलुओं पर क्रॉस-फंक्शनल साझेदारों के साथ सहयोग करें।
+* सुरक्षा, दक्षता और रखरखाव योग्यता के लिए सर्वोत्तम प्रथाओं को लागू करते हुए कोड समीक्षाएँ करें।
+* गैस ऑप्टिमाइज़ेशन, सुरक्षा डिज़ाइन पैटर्न और अपग्रेडेबिलिटी का निरंतर मूल्यांकन और सुधार करें।
+* PancakeSwap की प्रोटोकॉल आर्किटेक्चर में सुधार और नवाचार के क्षेत्रों की सक्रिय रूप से पहचान करें।
 
-### Skills & Qualifications
+### कौशल और योग्यताएँ
 
-* **5+ years** of software engineering experience, with **2+ years** focused on Solidity smart contracts.
-* Deep understanding of **Solidity design patterns**, gas optimization, and contract upgradeability.
-* Hands-on experience with **Hardhat** and **Foundry** (understands the trade-offs and tooling ecosystems).
-* Strong understanding of **EVM internals**, **DeFi protocols**, and **on-chain architecture**.
-* Excellent analytical, debugging, and problem-solving skills.
-* Comfortable working autonomously in a fast-paced, globally distributed team.
+* सॉफ़्टवेयर इंजीनियरिंग में **5+ वर्षों** का अनुभव, जिसमें Solidity स्मार्ट कॉन्ट्रैक्ट पर केंद्रित **2+ वर्ष** शामिल हैं।
+* **Solidity डिज़ाइन पैटर्न**, गैस ऑप्टिमाइज़ेशन और कॉन्ट्रैक्ट अपग्रेडेबिलिटी की गहरी समझ।
+* **Hardhat** और **Foundry** के साथ व्यावहारिक अनुभव (ट्रेड-ऑफ और टूलिंग इकोसिस्टम को समझता है)।
+* **EVM इंटर्नल**, **DeFi प्रोटोकॉल** और **ऑन-चेन आर्किटेक्चर** की मजबूत समझ।
+* उत्कृष्ट विश्लेषणात्मक, डीबगिंग और समस्या-समाधान कौशल।
+* तेज़-गति वाली, वैश्विक रूप से वितरित टीम में स्वायत्त रूप से काम करने में सहज।
 
-### How to apply:
+### आवेदन कैसे करें:
 
-Email hiring@pancakeswap.com with your resume!
+अपना रेज़्यूमे hiring@pancakeswap.com पर ईमेल करें!

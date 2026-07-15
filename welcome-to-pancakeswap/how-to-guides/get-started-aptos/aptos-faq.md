@@ -1,46 +1,45 @@
 # Aptos FAQ
 
-<figure><img src="../../../.gitbook/assets/Aptos-faq-header.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Aptos-faq-header.png" alt=""><figcaption></figcaption></figure>
 
-This FAQ page answers some of the more commonly asked questions from the PancakeSwap community about our Aptos Deployment.
+यह FAQ पेज PancakeSwap समुदाय द्वारा हमारे Aptos Deployment के बारे में अक्सर पूछे जाने वाले सवालों (FAQ) का जवाब देता है।
 
-## General
+## सामान्य प्रश्न
 
-### How to bridge from BSC (Binance Smart Chain) to Aptos?
+### BSC (Binance Smart Chain) से Aptos पर Bridge कैसे करें?
 
-Check out [our bridging guide](aptos-coin-guide.md) for various bridging solutions.
+विभिन्न ब्रिजिंग समाधानों के लिए [हमारी ब्रिजिंग गाइड](aptos-coin-guide.md) देखें।
 
-If you want to bridge CAKE token, check out our [CAKE bridging guide](cake-bridging-guide.md).
+यदि आप CAKE टोकन Bridge करना चाहते हैं, तो हमारी [CAKE ब्रिजिंग गाइड](cake-bridging-guide.md) देखें।
 
-### Which wallet I can use for Aptos Chain?
+### Aptos चेन के लिए मैं कौन सा वॉलेट उपयोग कर सकता/सकती हूँ?
 
-Check out [our wallet guide](wallet-guide.md) to download and set up your wallet for Aptos.
+Aptos के लिए अपना वॉलेट डाउनलोड करने और सेट अप करने के लिए [हमारी वॉलेट गाइड](wallet-guide.md) देखें।
 
-### Showing "Price Impact Too High" when swapping coins
+### कॉइन Swap करते समय "Price Impact Too High" दिखा रहा है
 
-This is likely due to bad network connections to blockchain nodes. Refresh the page, and check your network connection.
+यह संभवतः ब्लॉकचेन नोड्स से खराब नेटवर्क कनेक्शन के कारण है। पेज रिफ्रेश करें और अपना नेटवर्क कनेक्शन जांचें।
 
-If the error persists, it means the pair of coins you are trying to swap has insufficient liquidity for the amount you are trying to swap. The liquidity for major coins will slowly and steadily be improved over time, and the liquidity issue will likely be solved when our Aptos Farms are deployed. (SOON!)
+यदि त्रुटि बनी रहती है, तो इसका अर्थ है कि जिन कॉइन का आप Swap करने का प्रयास कर रहे हैं, उस जोड़े में आपकी Swap राशि के लिए पर्याप्त तरलता नहीं है। प्रमुख कॉइन के लिए तरलता धीरे-धीरे और स्थिर रूप से बेहतर होगी, और जब हमारे Aptos Farms तैनात होंगे तो तरलता की समस्या सुलझ जाएगी। (जल्द आ रहा है!)
 
-### I couldn't find the coin I wanted to swap
+### मुझे वह कॉइन नहीं मिला जिसे मैं Swap करना चाहता/चाहती था
 
-The default list on Aptos Swap only shows coins from well-known projects with a sufficient amount of liquidity.
+Aptos Swap पर डिफ़ॉल्ट सूची केवल पर्याप्त तरलता वाले प्रसिद्ध परियोजनाओं के कॉइन दिखाती है।
 
-If you want to swap other coins that are not on the default list, import them using their coin address.
+यदि आप ऐसे अन्य कॉइन Swap करना चाहते हैं जो डिफ़ॉल्ट सूची में नहीं हैं, तो उन्हें उनके कॉइन पते का उपयोग करके आयात करें।
 
-### Why I can’t trade CAKE on Aptos Swap?
+### मैं Aptos Swap पर CAKE का व्यापार क्यों नहीं कर सकता/सकती?
 
-_updated on 2022-12-13_
+_2022-12-13 को अपडेट किया गया_
 
-CAKE token/coin is now live on Aptos. Check out our [CAKE bridging guide](cake-bridging-guide.md) to learn more about bridging CAKE tokens between Aptos and BNB Smart Chain.
+CAKE टोकन/कॉइन अब Aptos पर उपलब्ध है। Aptos और BNB Smart Chain के बीच CAKE टोकन Bridge करने के बारे में अधिक जानने के लिए हमारी [CAKE ब्रिजिंग गाइड](cake-bridging-guide.md) देखें।
 
-### Do I need to stake CAKE on Aptos to participate in Aptos IFOs?
+### क्या मुझे Aptos IFO में भाग लेने के लिए Aptos पर CAKE Staking करना होगा?
 
-PancakeSwap IFO has not yet been deployed on Aptos. (SOON!) Keep staking your CAKE, and stay tuned for more news.
+PancakeSwap IFO अभी तक Aptos पर तैनात नहीं हुआ है। (जल्द आ रहा है!) अपना CAKE Staking करते रहें और अधिक समाचारों के लिए सतर्क रहें।
 
 ## CAKE Bridging
 
 {% hint style="info" %}
-This document has been migrated [here](../../../bridge/faq/)
+यह दस्तावेज़ [यहाँ](../../../bridge/faq/) स्थानांतरित कर दिया गया है
 {% endhint %}
-

@@ -1,63 +1,63 @@
-# ALP Buying & Selling Fees
+# ALP खरीदने और बेचने के शुल्क
 
-## Buying fee:
+## खरीदने का शुल्क:
 
-Basic Rate Parameter 1: FeeBasisPoints，USDT is currently set at 0.25%
+Basic Rate Parameter 1: FeeBasisPoints, USDT वर्तमान में 0.25% पर सेट है
 
-Basic Rate Parameter 2: TaxBasisPoints，USDT is currently set at 0.05%
+Basic Rate Parameter 2: TaxBasisPoints, USDT वर्तमान में 0.05% पर सेट है
 
-The current asset value: InitialValue=AssetValueInPool+AssetUnrealizedpnl\_usd
+वर्तमान एसेट मूल्य: InitialValue=AssetValueInPool+AssetUnrealizedpnl\_usd
 
-The current asset value after minting: AfterMinValue=InitialValue+MinValue
+मिंटिंग के बाद वर्तमान एसेट मूल्य: AfterMinValue=InitialValue+MinValue
 
-Calculate the Asset value according to the target weight: TargetValue=(Total Value\_usd+totalUnrealizedpnl\_Usd)\*Target weight，Total Value=sum(InitialValue)
+लक्ष्य वजन के अनुसार एसेट मूल्य की गणना करें: TargetValue=(Total Value\_usd+totalUnrealizedpnl\_Usd)\*Target weight, Total Value=sum(InitialValue)
 
 
 
-The current Asset value and the target value (absolute value): InitialDiff=InitialValue-TargetValue
+वर्तमान एसेट मूल्य और लक्ष्य मूल्य (निरपेक्ष मूल्य): InitialDiff=InitialValue-TargetValue
 
-After Minting, the asset value and target mechanism (absolute value): AfterDiff=AfterMintValue-TargetValue
+मिंटिंग के बाद, एसेट मूल्य और लक्ष्य तंत्र (निरपेक्ष मूल्य): AfterDiff=AfterMintValue-TargetValue
 
-* if AfterDiff\<InitialDiffValue&#x20;
+* यदि AfterDiff\<InitialDiffValue&#x20;
 
 MintFee=Max(FeeBasisPoints-TaxBasisPoints\*InitialDiff/TargetValue，0)
 
-* if AfterDiff>=InitialDiff&#x20;
+* यदि AfterDiff>=InitialDiff&#x20;
 
 MintFee=FeeBasisPoints+TaxBasisPoints\*Min((InitialDiff+AfterDiff)/2,TargetValue)/TargetValue
 
-## Selling fee:
+## बेचने का शुल्क:
 
-Basic Rate Parameter 1: FeeBasisPoints，USDT is currently set at 0.25%
+Basic Rate Parameter 1: FeeBasisPoints, USDT वर्तमान में 0.25% पर सेट है
 
-Max Base Rate Parameter 2: TaxBasisPoints，USDT is currently set at 0.05%
+Max Base Rate Parameter 2: TaxBasisPoints, USDT वर्तमान में 0.05% पर सेट है
 
-The current asset value: InitialValue=AssetValueInPool+AssetUnreliazedpnl\_usd
+वर्तमान एसेट मूल्य: InitialValue=AssetValueInPool+AssetUnreliazedpnl\_usd
 
-The current asset value after Burn: AfterMaxValue=InitialValue-MinValue
+Burn के बाद वर्तमान एसेट मूल्य: AfterMaxValue=InitialValue-MinValue
 
-Calculating the Asset value according to the target weight: TargetValue=Total Value\*Target weight
-
-
-
-The current asset value and target value (absolute value): InitialDiff=InitialValue-TargetValue
+लक्ष्य वजन के अनुसार एसेट मूल्य की गणना करना: TargetValue=Total Value\*Target weight
 
 
 
-After Burn, the asset value and target mechanism (absolute value): AfterMaxDiff=AfterBurnValue-TargetValue
+वर्तमान एसेट मूल्य और लक्ष्य मूल्य (निरपेक्ष मूल्य): InitialDiff=InitialValue-TargetValue
 
-* if AfterDiff\<InitialDiffValue
+
+
+Burn के बाद, एसेट मूल्य और लक्ष्य तंत्र (निरपेक्ष मूल्य): AfterMaxDiff=AfterBurnValue-TargetValue
+
+* यदि AfterDiff\<InitialDiffValue
 
 BurnFee=Max(FeeBasisPoints-MTaxBasisPoints\*InitialDiff/TargetValue，0)
 
-* if AfterDiff>=InitialDiff&#x20;
+* यदि AfterDiff>=InitialDiff&#x20;
 
 BurnFee=FeeBasisPoints+TaxBasisPoints\*Min((InitialDiff+AfterDiff)/2,TargetValue)/TargetValue<br>
 
-For example:
+उदाहरण के लिए:
 
-If the value of the ALP pool is $10,000,000, the unrealized PnL is $+10,000, the value of BTC in the liquidity pool is $1,000;
+यदि ALP pool का मूल्य $10,000,000 है, unrealized PnL $+10,000 है, तरलता पूल में BTC का मूल्य $1,000 है;
 
-The BTC target weight is 2%, and the current weight is 0.01%. The base rate parameter 1 of BTC is 0.25%, and the base rate parameter 2 is 0.45%.
+BTC का लक्ष्य वजन 2% है, और वर्तमान वजन 0.01% है। BTC का base rate parameter 1 0.25% है, और base rate parameter 2 0.45% है।
 
-According to the calculation, the rate of buying ALP with 1 BTC at this time is 0% = 0 BTC. The transaction fee for selling ALP to get 1 BTC is 0.7% = 0.007BTC.
+गणना के अनुसार, इस समय 1 BTC के साथ ALP खरीदने की दर 0% = 0 BTC है। ALP बेचकर 1 BTC प्राप्त करने का transaction fee 0.7% = 0.007BTC है।

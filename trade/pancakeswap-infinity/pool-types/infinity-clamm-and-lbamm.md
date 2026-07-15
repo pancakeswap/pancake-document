@@ -2,80 +2,80 @@
 
 #### 🔷 CLAMM (Concentrated Liquidity AMM)
 
-CLAMM enables liquidity providers to allocate their capital within **specific price ranges**. This leads to:
+CLAMM तरलता प्रदाताओं को अपनी पूँजी **विशिष्ट मूल्य सीमाओं** के भीतर आवंटित करने में सक्षम बनाता है। इससे होता है:
 
-* **Higher capital efficiency**: More liquidity at active trading prices.
-* **Deeper liquidity**: Better execution for traders.
-* **Active LP management**: LPs need to adjust positions as prices move.
-* **Higher impermanent loss** potential for out-of-range positions.
+* **उच्च पूँजी दक्षता**: सक्रिय ट्रेडिंग मूल्यों पर अधिक तरलता।
+* **गहरी तरलता**: Traders के लिए बेहतर निष्पादन।
+* **सक्रिय LP प्रबंधन**: LPs को मूल्य बदलने पर पोजीशन समायोजित करनी होती है।
+* out-of-range पोजीशन के लिए **अधिक impermanent loss** की संभावना।
 
 {% hint style="info" %}
-CLAMM operates on the constant product formula (X \* Y = K). Each liquidity position is non-fungible and represented as an NFT.
+CLAMM constant product formula (X \* Y = K) पर काम करता है। प्रत्येक तरलता पोजीशन non-fungible है और NFT के रूप में प्रदर्शित होती है।
 {% endhint %}
 
-#### 🔷 LBAMM (Liquidity Book AMM or “Bin Pool”)
+#### 🔷 LBAMM (Liquidity Book AMM या "Bin Pool")
 
-LBAMM implements **discrete price bins**, each holding liquidity at a specific price level. LBAMM follows the **constant sum formula (X + Y = K).**
+LBAMM **discrete price bins** लागू करता है, जिनमें से प्रत्येक एक विशिष्ट मूल्य स्तर पर तरलता रखता है। LBAMM **constant sum formula (X + Y = K)** का पालन करता है।
 
 
 
-**Key characteristics:**
+**प्रमुख विशेषताएँ:**
 
-* **0 price impact** trades within a bin.
-* **Fungible liquidity** (liquidity within each bin is an ERC-20 token).
-* **Lower gas costs** for adjusting LP positions.
-* **Support for different liquidity shapes** (e.g., skewed, uniform).
-* More suitable for **low volatility** pairs due to the flat pricing curve per bin.
+* एक bin के भीतर trades पर **0 मूल्य प्रभाव**।
+* **Fungible तरलता** (प्रत्येक bin के भीतर तरलता एक ERC-20 token है)।
+* LP पोजीशन समायोजित करने के लिए **कम गैस लागत**।
+* **विभिन्न liquidity shapes का समर्थन** (जैसे skewed, uniform)।
+* flat pricing curve per bin के कारण **कम अस्थिरता** वाली जोड़ियों के लिए अधिक उपयुक्त।
 
-> 🥞 **PancakeSwap is the first protocol to offer LBAMM pools with hooks.**
+> 🥞 **PancakeSwap hooks के साथ LBAMM pools प्रदान करने वाला पहला प्रोटोकॉल है।**
 
 {% hint style="success" %}
-Both CLAMM and LBAMM pools support **hooks**, which allow developers to customize pool behavior. Pool types are extendable via new Pool Managers, which can be added without protocol redeployment.
+CLAMM और LBAMM दोनों pools **hooks** का समर्थन करते हैं, जो डेवलपर्स को pool व्यवहार अनुकूलित करने देते हैं। Pool types नए Pool Managers के माध्यम से extensible हैं, जिन्हें बिना प्रोटोकॉल पुनः-तैनाती के जोड़ा जा सकता है।
 {% endhint %}
 
-<table data-header-hidden><thead><tr><th width="170.94921875"></th><th width="284.57421875"></th><th></th></tr></thead><tbody><tr><td>Feature</td><td><strong>CLAMM</strong></td><td><strong>LBAMM</strong></td></tr><tr><td><strong>Pricing Curve</strong></td><td>Constant Product (X * Y = K)</td><td>Constant Sum (X + Y = K)</td></tr><tr><td><strong>Liquidity Token</strong></td><td>Non-fungible (NFT)</td><td>Fungible (ERC-20 per bin)</td></tr><tr><td><strong>Best For</strong></td><td>Both high/low volatility pairs</td><td>Low volatility pairs</td></tr><tr><td><strong>Advantages</strong></td><td><ol><li>Capital efficiency</li><li>Gas efficient in wide/full range</li><li>Widely adopted</li></ol></td><td><ol><li>0 price impact within bin</li><li>Cheaper LP management</li><li>Flexible liquidity shapes</li></ol></td></tr><tr><td><strong>Hook Support</strong></td><td>✅</td><td>✅</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="170.94921875"></th><th width="284.57421875"></th><th></th></tr></thead><tbody><tr><td>विशेषता</td><td><strong>CLAMM</strong></td><td><strong>LBAMM</strong></td></tr><tr><td><strong>Pricing Curve</strong></td><td>Constant Product (X * Y = K)</td><td>Constant Sum (X + Y = K)</td></tr><tr><td><strong>Liquidity Token</strong></td><td>Non-fungible (NFT)</td><td>Fungible (ERC-20 per bin)</td></tr><tr><td><strong>के लिए सर्वोत्तम</strong></td><td>उच्च/कम दोनों अस्थिरता वाली जोड़ियाँ</td><td>कम अस्थिरता वाली जोड़ियाँ</td></tr><tr><td><strong>लाभ</strong></td><td><ol><li>पूँजी दक्षता</li><li>wide/full range में गैस कुशल</li><li>व्यापक रूप से अपनाया गया</li></ol></td><td><ol><li>bin के भीतर 0 मूल्य प्रभाव</li><li>सस्ता LP प्रबंधन</li><li>लचीली liquidity shapes</li></ol></td></tr><tr><td><strong>Hook Support</strong></td><td>✅</td><td>✅</td></tr></tbody></table>
 
 ***
 
 ### 🧮 Fees
 
-PancakeSwap Infinity supports a flexible and extensible fee system through Static and Dynamic fee settings. This setup gives both pool creators and LPs powerful tools to optimize for different trading strategies and risk profiles.
+PancakeSwap Infinity Static और Dynamic शुल्क सेटिंग्स के माध्यम से एक लचीली और extensible शुल्क प्रणाली का समर्थन करता है। यह सेटअप pool creators और LPs दोनों को विभिन्न ट्रेडिंग रणनीतियों और जोखिम प्रोफाइल के लिए अनुकूलित करने के लिए शक्तिशाली उपकरण देता है।
 
 #### 🔁 Dynamic Fees
 
-* Dynamic Fees are determined in real-time via hook contracts.
-* These fees can fluctuate based on external factors such as volatility, trading volume, user status (e.g., CAKE holdings), or any custom logic coded into the hook.
-* Pools with dynamic fees must enable the setting at the time of pool creation and attach a hook capable of modifying fees via `beforeSwap`.
-* Once a pool is initialized, the fee type (dynamic or static) is immutable.
+* Dynamic Fees, hook contracts के माध्यम से रियल-टाइम में निर्धारित किए जाते हैं।
+* ये शुल्क बाहरी कारकों जैसे अस्थिरता, ट्रेडिंग वॉल्यूम, उपयोगकर्ता की स्थिति (जैसे CAKE holdings), या hook में coded किसी भी कस्टम लॉजिक के आधार पर उतार-चढ़ाव कर सकते हैं।
+* Dynamic fees वाले pools को pool creation के समय setting सक्षम करनी होती है और एक hook attach करना होता है जो `beforeSwap` के माध्यम से fees को संशोधित करने में सक्षम हो।
+* एक बार pool initialize होने के बाद, शुल्क प्रकार (dynamic या static) अपरिवर्तनीय होता है।
 
-Dynamic fees offer maximum flexibility and optimize fee structures for both LPs and swappers based on market conditions.
+Dynamic fees अधिकतम लचीलापन प्रदान करते हैं और बाजार की स्थितियों के आधार पर LPs और swappers दोनों के लिए शुल्क संरचनाओं को अनुकूलित करते हैं।
 
 #### 📌 Static Fees
 
-* Static Fee pools have a fixed fee set during pool creation.
-* These fees cannot be changed after the pool is initialized.
-* Suitable for simpler use cases or where predictability of fee structure is important.<br>
+* Static Fee pools में pool creation के दौरान एक निश्चित शुल्क सेट किया जाता है।
+* pool initialize होने के बाद ये शुल्क बदले नहीं जा सकते।
+* सरल उपयोग-मामलों या जहाँ शुल्क संरचना की पूर्वानुमेयता महत्वपूर्ण हो, के लिए उपयुक्त।<br>
 
-**🔒 Max Fee Caps:**
+**🔒 अधिकतम शुल्क सीमाएँ:**
 
-* CLAMM Pools: Up to 100% (mostly for specialized or experimental use cases)
-* LBAMM Pools: Capped at 10%<br>
+* CLAMM Pools: 100% तक (अधिकतर विशेष या प्रयोगात्मक उपयोग-मामलों के लिए)
+* LBAMM Pools: 10% पर सीमित<br>
 
-**🏛 Protocol Fee (for static fee pools):**
+**🏛 Protocol Fee (static fee pools के लिए):**
 
-* PancakeSwap applies a protocol fee on Infinity pools
-* 33% of LP fee, capped at 0.4%
+* PancakeSwap, Infinity pools पर एक protocol fee लागू करता है
+* LP fee का 33%, 0.4% पर सीमित
 
 | **LP Fee**       | **Protocol Fee** |
 | ---------------- | ---------------- |
 | 1%               | 0.33%            |
-| 2%               | 0.4% (capped)    |
+| 2%               | 0.4% (सीमित)    |
 | Dynamic Fee Pool | 0%               |
 
-#### 🛠️ Setup Notes for Pool Creators
+#### 🛠️ Pool Creators के लिए Setup Notes
 
-* When initializing a pool via PoolManager, the creator must choose:
-  * Whether the pool uses a static or dynamic fee
-  * Whether a hook contract is attached (required for dynamic fees)
+* PoolManager के माध्यम से pool initialize करते समय, creator को चुनना होगा:
+  * क्या pool static या dynamic fee का उपयोग करता है
+  * क्या कोई hook contract attach है (dynamic fees के लिए आवश्यक)
 
-These settings are permanent and define how the pool behaves throughout its lifetime.
+ये settings स्थायी हैं और define करती हैं कि pool अपने पूरे जीवनकाल में कैसे व्यवहार करता है।

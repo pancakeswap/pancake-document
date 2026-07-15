@@ -1,79 +1,79 @@
-# Create a wallet (Monad)
+# वॉलेट बनाएं (Monad)
 
-### 1. **Why You Need a Wallet**
+### 1. **वॉलेट की आवश्यकता क्यों है**
 
-To use **PancakeSwap on Monad**, you need a **crypto wallet** — it’s your personal vault for digital assets and your passport to DeFi. Without a wallet, you won’t be able to:
+**Monad पर PancakeSwap** का उपयोग करने के लिए, आपको एक **क्रिप्टो वॉलेट** चाहिए — यह डिजिटल एसेट के लिए आपका व्यक्तिगत तिजोरी और DeFi का आपका पासपोर्ट है। वॉलेट के बिना, आप निम्नलिखित नहीं कर पाएंगे:
 
-* **Swap tokens** on Monad
-* **Provide liquidity** to PancakeSwap’s **V2 & V3 Pools**
-* Interact with any dApp or store tokens on Monad
+* Monad पर **टोकन स्वैप** करना
+* PancakeSwap के **V2 & V3 Pools** में **तरलता प्रदान** करना
+* Monad पर किसी भी dApp के साथ इंटरैक्ट करना या टोकन संग्रहीत करना
 
 ***
 
-### 2. **Wallet Setup Essentials (Security First!)**
+### 2. **वॉलेट सेटअप की आवश्यकताएं (पहले सुरक्षा!)**
 
-Crypto wallets give you full control over your assets — but with great power comes great responsibility. Keep your wallet safe by following these best practices:
+क्रिप्टो वॉलेट आपको अपनी एसेट पर पूर्ण नियंत्रण देते हैं — लेकिन बड़ी शक्ति के साथ बड़ी जिम्मेदारी भी आती है। इन सर्वोत्तम तरीकों का पालन करके अपना वॉलेट सुरक्षित रखें:
 
-| ✅ Do’s                                                                | ❌ Don’ts                                                 |
+| ✅ करें                                                                | ❌ न करें                                                 |
 | --------------------------------------------------------------------- | -------------------------------------------------------- |
-| ✅ **Download from official sources** (app stores, verified websites)  | ❌ Don’t install from random links or DMs                 |
-| ✅ **Follow the setup instructions** carefully                         | ❌ Don’t rush or skip the backup process                  |
-| ✅ **Back up your recovery phrase** and store it offline               | ❌ Don’t screenshot or store it on your phone or computer |
-| ✅ **Keep your phrase private** — it's your only way to recover access | ❌ Never share it, even if someone claims to be "support" |
-| ✅ Only enter your recovery phrase **inside the wallet app**           | ❌ Never input it into websites, popups, or other apps    |
+| ✅ **आधिकारिक स्रोतों से डाउनलोड करें** (ऐप स्टोर, सत्यापित वेबसाइट)  | ❌ रैंडम लिंक या DM से इंस्टॉल न करें                 |
+| ✅ **सेटअप निर्देशों का** सावधानी से पालन करें                         | ❌ बैकअप प्रक्रिया में जल्दबाजी न करें या इसे छोड़ें नहीं  |
+| ✅ अपना **रिकवरी फ्रेज़ बैकअप** करें और इसे ऑफलाइन सुरक्षित जगह रखें               | ❌ इसका स्क्रीनशॉट न लें या अपने फोन/कंप्यूटर पर स्टोर न करें |
+| ✅ **अपना फ्रेज़ निजी रखें** — यह एक्सेस रिकवर करने का आपका एकमात्र तरीका है | ❌ इसे कभी साझा न करें, भले ही कोई "सपोर्ट" होने का दावा करे |
+| ✅ अपना रिकवरी फ्रेज़ केवल **वॉलेट ऐप के अंदर** दर्ज करें           | ❌ इसे वेबसाइट, पॉपअप या अन्य ऐप में कभी दर्ज न करें    |
 
-> 🧠 Your recovery phrase = access to your wallet
+> 🧠 आपका रिकवरी फ्रेज़ = आपके वॉलेट तक पहुँच
 
 ***
 
-### 3. **Choosing Your Wallet: Mobile vs. Desktop**
+### 3. **अपना वॉलेट चुनें: मोबाइल या डेस्कटॉप**
 
-Not sure which type of wallet to use? Here’s a quick breakdown of mobile vs. desktop/web wallets so you can choose what fits your style:
+कौन सा प्रकार का वॉलेट उपयोग करें, यह तय नहीं कर पा रहे? यहाँ मोबाइल बनाम डेस्कटॉप/वेब वॉलेट का त्वरित विवरण है ताकि आप अपनी पसंद के अनुसार चुन सकें:
 
-| Feature         | **Mobile Wallets**                 | **Browser/Desktop Wallets**            |
+| विशेषता         | **मोबाइल वॉलेट**                 | **ब्राउज़र/डेस्कटॉप वॉलेट**            |
 | --------------- | ---------------------------------- | -------------------------------------- |
-| **Use case**    | Swap & track on-the-go             | Best for multitasking or deep dApp use |
-| **Ease of use** | Intuitive, beginner-friendly       | Lightweight extensions, quick access   |
-| **Security**    | Depends on phone security          | Easier hardware wallet integration     |
-| **Convenience** | All-in-one app                     | More manual, but powerful              |
-| **Best for...** | Casual users, mobile-first traders | Desktop users, more advanced flows     |
+| **उपयोग का मामला**    | चलते-फिरते स्वैप और ट्रैक करें             | मल्टीटास्किंग या गहरे dApp उपयोग के लिए सर्वश्रेष्ठ |
+| **उपयोग में आसानी** | सहज, शुरुआती-अनुकूल       | हल्के एक्सटेंशन, त्वरित पहुँच   |
+| **सुरक्षा**    | फोन सुरक्षा पर निर्भर          | हार्डवेयर वॉलेट एकीकरण आसान     |
+| **सुविधा** | ऑल-इन-वन ऐप                     | अधिक मैन्युअल, लेकिन शक्तिशाली              |
+| **सर्वश्रेष्ठ...** | आकस्मिक उपयोगकर्ता, मोबाइल-प्रथम ट्रेडर | डेस्कटॉप उपयोगकर्ता, अधिक उन्नत प्रक्रियाएं     |
 
-> 📱 Mobile wallets can offer a smoother experience for trading, managing portfolios, and browsing NFTs — all from your phone.
+> 📱 मोबाइल वॉलेट ट्रेडिंग, पोर्टफोलियो प्रबंधन और NFT ब्राउज़ करने के लिए एक सहज अनुभव प्रदान कर सकते हैं — सब कुछ आपके फोन से।
 
 ***
 
 {% hint style="success" %}
-**Some popular** [**wallets**](https://docs.monad.xyz/tooling-and-infra/wallets/software-wallets) **that you may use for Monad ecoystem!**
+**Monad इकोसिस्टम के लिए आप जो कुछ लोकप्रिय** [**वॉलेट**](https://docs.monad.xyz/tooling-and-infra/wallets/software-wallets) **उपयोग कर सकते हैं!**
 {% endhint %}
 
 ***
 
-#### 🔌 **WalletConnect-Compatible Options**
+#### 🔌 **WalletConnect-संगत विकल्प**
 
-Using **WalletConnect**, you can connect wallets to PancakeSwap on Monad — directly from desktop or mobile:
+**WalletConnect** का उपयोग करके, आप डेस्कटॉप या मोबाइल से सीधे Monad पर PancakeSwap से वॉलेट कनेक्ट कर सकते हैं:
 
 * **Leap wallet**
 * **Bitget wallet**
 * **HaHa wallet**
-* **Backpack,** and more
+* **Backpack,** और अधिक
 
-> You’ll see a full list of supported wallets when connecting on the PancakeSwap UI via WalletConnect.
+> WalletConnect के माध्यम से PancakeSwap UI पर कनेक्ट करते समय आपको समर्थित वॉलेट की पूरी सूची दिखेगी।
 
 ***
 
-### 4. **General Wallet Setup Steps (Quick Guide)**
+### 4. **सामान्य वॉलेट सेटअप चरण (त्वरित गाइड)**
 
-No matter which wallet you choose, the process is generally similar:
+चाहे आप कोई भी वॉलेट चुनें, प्रक्रिया आमतौर पर समान होती है:
 
-1. **Download** the wallet app or browser extension from its **official source**
-2. Launch the app and tap **“Create a new wallet”**
-   * (Or select **“Import”** if you already have one)
-3. Set a strong **password or PIN** (if required)
-4.  You’ll be shown a **recovery phrase** (12 or 24 words) —
+1. इसके **आधिकारिक स्रोत** से वॉलेट ऐप या ब्राउज़र एक्सटेंशन **डाउनलोड** करें
+2. ऐप लॉन्च करें और **"Create a new wallet"** पर टैप करें
+   * (या **"Import"** चुनें यदि आपके पास पहले से एक है)
+3. एक मजबूत **पासवर्ड या PIN** सेट करें (यदि आवश्यक हो)
+4.  आपको एक **रिकवरी फ्रेज़** (12 या 24 शब्द) दिखाया जाएगा —
 
-    → **Write it down and store it somewhere safe, offline**
-5. **Confirm your recovery phrase** to complete setup
-6.  **Fund your wallet with MON**
+    → **इसे लिख लें और इसे ऑफलाइन किसी सुरक्षित जगह पर रखें**
+5. सेटअप पूरा करने के लिए **अपने रिकवरी फ्रेज़ की पुष्टि करें**
+6.  **अपने वॉलेट में MON डालें**
 
-    → You’ll need **MON** to pay for gas fees when swapping or adding liquidity on PancakeSwap
-7. You can bridge assets to Monad using this [cross-chain bridge](https://monadbridge.com/)
+    → PancakeSwap पर स्वैप करने या तरलता जोड़ने के लिए आपको गैस शुल्क के रूप में **MON** की आवश्यकता होगी
+7. आप इस [क्रॉस-चेन ब्रिज](https://monadbridge.com/) का उपयोग करके Monad पर एसेट ब्रिज कर सकते हैं

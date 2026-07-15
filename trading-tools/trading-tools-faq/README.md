@@ -1,3 +1,3 @@
 # ❓ Trading Tools FAQ
 
-(To be populated)
+(जल्द ही भरा जाएगा)

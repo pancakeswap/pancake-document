@@ -1,55 +1,55 @@
 # 🛍️ CAKE.PAD
 
-We’re excited to introduce **CAKE.PAD**, the new and improved early token access experience on PancakeSwap, giving you exclusive early access to new tokens before they hit exchanges.
+हम **CAKE.PAD** पेश करते हुए उत्साहित हैं — PancakeSwap पर नया और बेहतर अर्ली टोकन एक्सेस अनुभव, जो आपको एक्सचेंजों पर आने से पहले नए टोकन तक एक्सक्लूसिव अर्ली एक्सेस देता है।
 
-Evolved from our IFO (Initial Farm Offering), CAKE.PAD is built with simplicity, inclusivity, and CAKE utility in mind. No staking, no lock-ups. Just commit CAKE and get early access to new tokens from exciting projects before they hit exchanges.
+हमारे IFO (Initial Farm Offering) से विकसित, CAKE.PAD सरलता, समावेशिता और CAKE उपयोगिता को ध्यान में रखकर बनाया गया है। कोई स्टेकिंग नहीं, कोई लॉक-अप नहीं। बस CAKE कमिट करें और एक्सचेंजों पर आने से पहले रोमांचक प्रोजेक्ट के नए टोकन तक अर्ली एक्सेस पाएं।
 
-### What’s CAKE.PAD?
+### CAKE.PAD क्या है?
 
-A CAKE.PAD event on PancakeSwap lets you get early access to new project tokens right as they launch.
+PancakeSwap पर एक CAKE.PAD इवेंट आपको लॉन्च होते ही नए प्रोजेक्ट टोकन तक अर्ली एक्सेस देता है।
 
-* Be among the first to own new tokens
-* Potentially enjoy higher rewards by entering early
-* Available only for a **very limited time**, so prepare in advance!
+* नए टोकन का मालिक बनने वाले पहले लोगों में शामिल हों
+* जल्दी प्रवेश करके संभावित रूप से अधिक पुरस्कार पाएं
+* **बहुत सीमित समय** के लिए उपलब्ध, इसलिए पहले से तैयारी करें!
 
-👉 The flow is simple:
+👉 प्रक्रिया सरल है:
 
-* **You deposit CAKE**
-* **The project receives CAKE** (up to its raise target)
-* **PancakeSwap burns 100% of participation fees (in CAKE)**
-* **You get the new CAKE.PAD partner tokens**
+* **आप CAKE जमा करते हैं**
+* **प्रोजेक्ट को CAKE मिलता है** (अपने रेज़ टार्गेट तक)
+* **PancakeSwap भागीदारी शुल्क का 100% बर्न करता है (CAKE में)**
+* **आपको नए CAKE.PAD पार्टनर टोकन मिलते हैं**
 
-As part of the [Tokenomics 3.0 upgrade](https://pancakeswap.finance/voting/proposal/0x79ef496c9737e48d9677a6e291ff2a549dee6729c9996398e453af8ecbf0ceb3), we’ve made **CAKE.PAD** simpler, leaner, and easier to participate.
+[Tokenomics 3.0 अपग्रेड](https://pancakeswap.finance/voting/proposal/0x79ef496c9737e48d9677a6e291ff2a549dee6729c9996398e453af8ecbf0ceb3) के हिस्से के रूप में, हमने **CAKE.PAD** को सरल, हल्का और भाग लेने में आसान बनाया है।
 
-### What’s Changed?
+### क्या बदला है?
 
-| Updated CAKE.PAD Format                                                                                                                                                  | Previous IFO Format                                      |
+| अपडेटेड CAKE.PAD फॉर्मेट                                                                                                                                                        | पिछला IFO फॉर्मेट                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- |
-| Only **1 type** of event- Anyone with CAKE can participate                                                                                                               | Multiple types: **Basic / Private / Public**             |
-| **No extra requirements** — just deposit CAKE                                                                                                                            | Requirements included **CAKE staking** + **NFT Profile** |
-| **No iCAKE / veCAKE** (deprecated with [Tokenomics 3.0](https://pancakeswap.finance/voting/proposal/0x79ef496c9737e48d9677a6e291ff2a549dee6729c9996398e453af8ecbf0ceb3)) | Used **iCAKE / veCAKE** concepts                         |
-| **Tiered tax** (applies only if oversubscribed, decreases as oversubscription grows)                                                                                     | Flat participation fee (e.g., 1%)                        |
+| केवल **1 प्रकार** का इवेंट — CAKE वाला कोई भी भाग ले सकता है                                                                                                             | कई प्रकार: **Basic / Private / Public**                  |
+| **कोई अतिरिक्त आवश्यकता नहीं** — बस CAKE जमा करें                                                                                                                        | आवश्यकताओं में **CAKE स्टेकिंग** + **NFT Profile** शामिल था |
+| **कोई iCAKE / veCAKE नहीं** ([Tokenomics 3.0](https://pancakeswap.finance/voting/proposal/0x79ef496c9737e48d9677a6e291ff2a549dee6729c9996398e453af8ecbf0ceb3) के साथ बंद) | **iCAKE / veCAKE** अवधारणाओं का उपयोग किया जाता था      |
+| **टियर्ड टैक्स** (केवल ओवरसब्सक्राइब होने पर लागू, ओवरसब्सक्रिप्शन बढ़ने के साथ घटता है)                                                                               | फ्लैट भागीदारी शुल्क (जैसे 1%)                           |
 
-### What’s Unchanged?
+### क्या अपरिवर्तित रहा है?
 
-* No individual cap — users can commit any amount of $CAKE to participate
-* Users can still join **multiple CAKE.PAD events at the same time** (if more than one is live)
-* **100% of CAKE.PAD event fees are burnt** — keeping CAKE’s burn mechanism strong
+* कोई व्यक्तिगत सीमा नहीं — उपयोगकर्ता भाग लेने के लिए कोई भी मात्रा में $CAKE कमिट कर सकते हैं
+* उपयोगकर्ता अभी भी **एक साथ कई CAKE.PAD इवेंट में भाग ले सकते हैं** (यदि एक से अधिक लाइव हों)
+* **CAKE.PAD इवेंट शुल्क का 100% बर्न किया जाता है** — CAKE के बर्न तंत्र को मजबूत रखता है
 
-#### Fee Tiers
+#### शुल्क टियर
 
-* Applies **only if the CAKE.PAD event is oversubscribed**
-* Tax is only deducted from participants' excess committed funds, no fees are paid by the **CAKE.PAD** project partner
-* The **CAKE.PAD** project partner receives 100% of its targeted raise amount
-* PancakeSwap will burn 100% of **CAKE.PAD event** fees as CAKE
+* केवल तभी लागू **होता है जब CAKE.PAD इवेंट ओवरसब्सक्राइब हो**
+* टैक्स केवल प्रतिभागियों के अतिरिक्त कमिटेड फंड से काटा जाता है, **CAKE.PAD** प्रोजेक्ट पार्टनर द्वारा कोई शुल्क नहीं दिया जाता
+* **CAKE.PAD** प्रोजेक्ट पार्टनर को अपनी टार्गेट रेज़ राशि का 100% प्राप्त होता है
+* PancakeSwap **CAKE.PAD इवेंट** शुल्क का 100% CAKE के रूप में बर्न करेगा
 
 {% hint style="info" %}
-For a numerical example, please refer to [how-cake.pad-taxes-work-in-overflow-sales-with-example.md](how-cake.pad-taxes-work-in-overflow-sales-with-example.md "mention")&#x20;
+संख्यात्मक उदाहरण के लिए, कृपया [how-cake.pad-taxes-work-in-overflow-sales-with-example.md](how-cake.pad-taxes-work-in-overflow-sales-with-example.md "mention") देखें।&#x20;
 {% endhint %}
 
-**Oversubscription rate <> Fee Tier**&#x20;
+**ओवरसब्सक्रिप्शन दर <> शुल्क टियर**&#x20;
 
-| Oversubscription Rate | Fee Tier |
+| ओवरसब्सक्रिप्शन दर | शुल्क टियर |
 | --------------------- | -------- |
 | ≥ 0x                  | 1.00%    |
 | ≥ 50x                 | 0.80%    |
@@ -64,17 +64,17 @@ For a numerical example, please refer to [how-cake.pad-taxes-work-in-overflow-sa
 | ≥ 800x                | 0.10%    |
 | ≥ 1500x               | 0.05%    |
 
-### Contract Details
+### कॉन्ट्रैक्ट विवरण
 
-Each **CAKE.PAD event** has its **own smart contract**. You can find the contract link directly on the [projects' event page on  PancakeSwap.](https://pancakeswap.finance/cakepad)
+प्रत्येक **CAKE.PAD इवेंट** का अपना **स्मार्ट कॉन्ट्रैक्ट** होता है। आप कॉन्ट्रैक्ट लिंक सीधे [PancakeSwap पर प्रोजेक्ट के इवेंट पेज](https://pancakeswap.finance/cakepad) पर पा सकते हैं।
 
-### Want to Launch Your Own CAKE.PAD event?
+### क्या आप अपना खुद का CAKE.PAD इवेंट लॉन्च करना चाहते हैं?
 
-Bring your project directly to the **largest community on BNB Smart Chain**.
+अपने प्रोजेक्ट को सीधे **BNB Smart Chain की सबसे बड़ी कम्युनिटी** तक पहुँचाएं।
 
-* Tap into PancakeSwap’s massive liquidity and user base
-* Get exposure right from launch
+* PancakeSwap की विशाल तरलता और उपयोगकर्ता आधार का लाभ उठाएं
+* लॉन्च के समय से ही एक्सपोज़र प्राप्त करें
 
-View more information here: [https://pancakeswap.notion.site/cakepad](https://pancakeswap.notion.site/cakepad)
+अधिक जानकारी यहाँ देखें: [https://pancakeswap.notion.site/cakepad](https://pancakeswap.notion.site/cakepad)
 
-👉 [Apply to launch now!](https://docs.google.com/forms/d/e/1FAIpQLScmZu87SG41J_eGfzlbyJ_olFohlGOXfOJer04Dr1yCEJy2NA/viewform)
+👉 [अभी लॉन्च के लिए आवेदन करें!](https://docs.google.com/forms/d/e/1FAIpQLScmZu87SG41J_eGfzlbyJ_olFohlGOXfOJer04Dr1yCEJy2NA/viewform)

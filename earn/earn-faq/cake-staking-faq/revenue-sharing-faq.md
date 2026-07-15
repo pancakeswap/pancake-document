@@ -2,61 +2,61 @@
 hidden: true
 ---
 
-# Revenue Sharing FAQ
+# राजस्व साझाकरण अक्सर पूछे जाने वाले सवाल (FAQ)
 
-<figure><img src="../../../.gitbook/assets/faq-revenuesharing.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/faq-revenuesharing.png" alt=""><figcaption></figcaption></figure>
 
-### How are the shares (rCAKE) calculated? <a href="#id-50b7c683-feb0-47f6-809f-39c1a0976bb5" id="id-50b7c683-feb0-47f6-809f-39c1a0976bb5"></a>
+### शेयर (rCAKE) की गणना कैसे होती है? <a href="#id-50b7c683-feb0-47f6-809f-39c1a0976bb5" id="id-50b7c683-feb0-47f6-809f-39c1a0976bb5"></a>
 
-Upon each weekly distribution, each user’s shares are re-calculated based on:
+प्रत्येक साप्ताहिक वितरण पर, प्रत्येक उपयोगकर्ता के शेयर की पुनः गणना निम्नलिखित के आधार पर होती है:
 
-1. The amount of locked CAKE they have
-2. The remaining lock duration of their locked CAKE rounded down to weeks, and the maximum allowed lock time (currently 52 weeks)
+1. उनके पास लॉक किए गए CAKE की मात्रा।
+2. उनके लॉक किए गए CAKE की शेष लॉक अवधि सप्ताहों में नीचे की ओर पूर्णांकित, और अधिकतम अनुमत लॉक समय (वर्तमान में 52 सप्ताह)।
 
-For example:
+उदाहरण के लिए:
 
-If a user has 50 CAKE locked and the remaining lock time is 10.3 weeks, then the user has `50 * (10 / 52 ) ~= 9.61` shares.
+यदि किसी उपयोगकर्ता के पास 50 CAKE लॉक है और शेष लॉक समय 10.3 सप्ताह है, तो उपयोगकर्ता के पास `50 * (10 / 52 ) ~= 9.61` शेयर हैं।
 
-### I’ve updated my position; why do I still have 0 shares? <a href="#cae64522-4729-43a2-8fa8-6bbd2567dcea" id="cae64522-4729-43a2-8fa8-6bbd2567dcea"></a>
+### मैंने अपनी पोजीशन अपडेट की; फिर भी मेरे 0 शेयर क्यों हैं? <a href="#cae64522-4729-43a2-8fa8-6bbd2567dcea" id="cae64522-4729-43a2-8fa8-6bbd2567dcea"></a>
 
-Shares (rCAKE) are updated upon each weekly distribution at 23:59 UTC every Wednesday. Check back again after the very next weekly distribution to view your updated shares.
+शेयर (rCAKE) प्रत्येक साप्ताहिक वितरण पर हर बुधवार को 23:59 UTC पर अपडेट होते हैं। अपने अपडेट किए गए शेयर देखने के लिए अगले साप्ताहिक वितरण के बाद फिर से देखें।
 
-### Why are my shares being 0 despite having an active staking position? <a href="#id-9f2843b7-1a26-4248-8c3e-f5343b2de92e" id="id-9f2843b7-1a26-4248-8c3e-f5343b2de92e"></a>
+### सक्रिय स्टेकिंग पोजीशन होने के बावजूद मेरे शेयर 0 क्यों हैं? <a href="#id-9f2843b7-1a26-4248-8c3e-f5343b2de92e" id="id-9f2843b7-1a26-4248-8c3e-f5343b2de92e"></a>
 
-When calculating shares (rCAKE), the remaining lock duration is rounded down to weeks. Therefore to receive shares, you must ensure your staking position unlocks no earlier than the very next distribution.
+शेयर (rCAKE) की गणना करते समय, शेष लॉक अवधि को सप्ताहों में नीचे की ओर पूर्णांकित किया जाता है। इसलिए शेयर प्राप्त करने के लिए, आपको यह सुनिश्चित करना होगा कि आपकी स्टेकिंग पोजीशन अगले वितरण से पहले अनलॉक न हो।
 
-For example, to receive shares for the week 1 distribution. You must:
+उदाहरण के लिए, सप्ताह 1 वितरण के लिए शेयर प्राप्त करने के लिए। आपको:
 
-* Join before 23:59 UTC, 2 August.
-* Have an active fixed-term CAKE staking position which unlocks later than 23:59 UTC, 9 August.
+* 23:59 UTC, 2 अगस्त से पहले शामिल होना होगा।
+* एक सक्रिय फिक्स्ड-टर्म CAKE स्टेकिंग पोजीशन होनी चाहिए जो 23:59 UTC, 9 अगस्त के बाद अनलॉक हो।
 
-If your staking position unlocks earlier than 23:59 UTC, 9 August, you will receive 0 shares for week 1.
+यदि आपकी स्टेकिंग पोजीशन 23:59 UTC, 9 अगस्त से पहले अनलॉक होती है, तो आपको सप्ताह 1 के लिए 0 शेयर मिलेंगे।
 
-### Can I join a distribution period mid-week? <a href="#db254eef-09b7-41d7-bb56-310c77ce976b" id="db254eef-09b7-41d7-bb56-310c77ce976b"></a>
+### क्या मैं वितरण अवधि के बीच में शामिल हो सकता/सकती हूँ? <a href="#db254eef-09b7-41d7-bb56-310c77ce976b" id="db254eef-09b7-41d7-bb56-310c77ce976b"></a>
 
-No, as mentioned shares are calculated at the beginning of the distribution period at 23:59 UTC on Wednesday every week. Therefore you will receive shares starting from the next distribution and start accumulating rewards by then.
+नहीं, जैसा कि उल्लेख किया गया है, शेयर वितरण अवधि की शुरुआत में हर सप्ताह बुधवार को 23:59 UTC पर गणना किए जाते हैं। इसलिए आपको अगले वितरण से शेयर मिलना शुरू होंगे और तब से पुरस्कार संचित होने लगेंगे।
 
-### How do I receive more shares? <a href="#db254eef-09b7-41d7-bb56-310c77ce976b" id="db254eef-09b7-41d7-bb56-310c77ce976b"></a>
+### मुझे अधिक शेयर कैसे मिल सकते हैं? <a href="#db254eef-09b7-41d7-bb56-310c77ce976b" id="db254eef-09b7-41d7-bb56-310c77ce976b"></a>
 
-Since shares are calculated based on CAKE amount and remaining lock duration, to receive more shares, you may:
+चूँकि शेयर CAKE राशि और शेष लॉक अवधि के आधार पर गणना किए जाते हैं, अधिक शेयर प्राप्त करने के लिए आप:
 
-* Lock more CAKE
-* Extend your staking position
+* अधिक CAKE लॉक करें।
+* अपनी स्टेकिंग पोजीशन बढ़ाएं।
 
-Please note that after adding CAKE or extending, shares are NOT updated in real time and only updated upon each week’s weekly distributions.
+कृपया ध्यान दें कि CAKE जोड़ने या बढ़ाने के बाद, शेयर रियल-टाइम में अपडेट नहीं होते और केवल प्रत्येक सप्ताह के साप्ताहिक वितरण पर अपडेट होते हैं।
 
-### Do I need to update my staking position when I add more CAKE or extend the staking? <a href="#id-71d1d397-ac1c-454b-abd9-15492860f05c" id="id-71d1d397-ac1c-454b-abd9-15492860f05c"></a>
+### क्या अधिक CAKE जोड़ते या स्टेकिंग बढ़ाते समय मुझे अपनी स्टेकिंग पोजीशन अपडेट करनी होगी? <a href="#id-71d1d397-ac1c-454b-abd9-15492860f05c" id="id-71d1d397-ac1c-454b-abd9-15492860f05c"></a>
 
-No, you will only need to enrol once. All subsequent CAKE staking pool operations will automatically inform the revenue sharing pool and update your shares upon the next weekly distributions.
+नहीं, आपको केवल एक बार एनरोल करना होगा। सभी बाद के CAKE स्टेकिंग पूल ऑपरेशन स्वचालित रूप से राजस्व साझाकरण पूल को सूचित करेंगे और अगले साप्ताहिक वितरण पर आपके शेयर अपडेट करेंगे।
 
-### Why are the weekly injected rewards not 100% matching the volume displayed on various trackers (like the Info page)?
+### साप्ताहिक इंजेक्ट किए गए पुरस्कार विभिन्न ट्रैकर (जैसे Info पेज) पर दिखाए गए वॉल्यूम से 100% मेल क्यों नहीं खाते?
 
-The number of CAKE rewards injected weekly may not be 100% matching with the numbers calculated from the volume displayed on various trackers. Multiple external factors may impact the number of CAKE rewards that can be converted:
+साप्ताहिक रूप से इंजेक्ट किए गए CAKE पुरस्कारों की संख्या विभिन्न ट्रैकर पर दिखाए गए वॉल्यूम से गणना की गई संख्याओं से 100% मेल नहीं खा सकती। कई बाहरी कारक CAKE पुरस्कारों की उस संख्या को प्रभावित कर सकते हैं जो परिवर्तित की जा सकती है:
 
-* CAKE token price while the trading fee is being converted and processed
-* Underlying asset prices while the trading fee is being converted and processed
-* To save gas and operational cost. Revenues from blockchains other than BNB Chain are processed monthly. They will be injected with a one-month delay with weekly averaging.
-* Some trading pairs may have insufficient liquidity while processing the trading fee.
-* Some trading pairs may contain tokens with custom logic that prevent their fee from being processed.
+* ट्रेडिंग शुल्क के परिवर्तित और संसाधित होते समय CAKE टोकन मूल्य।
+* ट्रेडिंग शुल्क के परिवर्तित और संसाधित होते समय अंतर्निहित संपत्ति मूल्य।
+* गैस और परिचालन लागत बचाने के लिए। BNB Chain के अलावा अन्य ब्लॉकचेन से राजस्व मासिक रूप से संसाधित किया जाता है। उन्हें साप्ताहिक औसत के साथ एक महीने की देरी से इंजेक्ट किया जाएगा।
+* कुछ ट्रेडिंग जोड़ों में ट्रेडिंग शुल्क संसाधित करते समय अपर्याप्त तरलता हो सकती है।
+* कुछ ट्रेडिंग जोड़ों में ऐसे कस्टम लॉजिक वाले टोकन हो सकते हैं जो उनके शुल्क को संसाधित होने से रोकते हैं।
 
-Chefs are working hard to apply tools and practices to ensure more trading fees generated can be processed and converted into CAKE.
+Chefs अधिक से अधिक जनरेट ट्रेडिंग शुल्क को CAKE में परिवर्तित और संसाधित करने के लिए टूल और प्रथाएं लागू करने पर कड़ी मेहनत कर रहे हैं।

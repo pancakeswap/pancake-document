@@ -1,117 +1,117 @@
 ---
-description: Migrate your farms and pools staking to the new PancakeSwap MasterChef
+description: अपनी Farms और Pools Staking को नए PancakeSwap MasterChef में माइग्रेट करें
 ---
 
-# Migrate Your Stakings
+# अपनी Staking माइग्रेट करें
 
-![ICYDK: you are currently reading the "tutorial" mentioned in this banner](<../../../../.gitbook/assets/migration pre heat.png>)
+![ICYDK: you are currently reading the "tutorial" mentioned in this banner](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration%20pre%20heat.png)
 
-In order to keep earning staking rewards, you will need to migrate your farms and pools staking to the new MasterChef. Relax, it's gonna be easy.
+Staking रिवॉर्ड अर्जित करते रहने के लिए, आपको अपनी Farms और Pools Staking को नए MasterChef में माइग्रेट करना होगा। निश्चिंत रहें, यह आसान होगा।
 
 {% hint style="info" %}
-**But wait! Do I need to migrate?**
+**लेकिन रुकिए! क्या मुझे माइग्रेट करना होगा?**
 
-You need to migrate if you are:
+आपको माइग्रेट करना होगा यदि आप:
 
-* Farming on PancakeSwap **Farms**.
-* Staking in PancakeSwap **CAKE Syrup Pools** (Manual, Auto, IFO).
+* PancakeSwap **Farms** पर Farming कर रहे हैं।
+* PancakeSwap **CAKE Syrup Pools** (Manual, Auto, IFO) में Staking कर रहे हैं।
 
-\*other Syrup Pools aren’t affected
+\*अन्य Syrup Pools प्रभावित नहीं हैं
 {% endhint %}
 
-## How to migrate?
+## माइग्रेट कैसे करें?
 
-![At the time of the migration, Chefs will deploy a step-by-step helper to walk you through the process ](../../../../.gitbook/assets/migration-helper-overview.png)
+![At the time of the migration, Chefs will deploy a step-by-step helper to walk you through the process ](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration-helper-overview.png)
 
-### 1. Navigate to the migration helper
+### 1. माइग्रेशन हेल्पर पर जाएं
 
-Go to [https://pancakeswap.finance/migration](https://pancakeswap.finance/migration), and connect your wallet.
+[https://pancakeswap.finance/migration](https://pancakeswap.finance/migration) पर जाएं और अपना वॉलेट कनेक्ट करें।
 
-### 2. Unstake from the old farms
+### 2. पुराने Farms से अनस्टेक करें
 
-There are two steps in the migration helper. In the first step, you should see a list of three CAKE syrup pools and farms you are currently staking.
+माइग्रेशन हेल्पर में दो चरण हैं। पहले चरण में, आपको तीन CAKE Syrup Pools और उन Farms की सूची दिखनी चाहिए जिनमें आप वर्तमान में Staking कर रहे हैं।
 
-![](../../../../.gitbook/assets/migration-helper-steps-guide-3.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration-helper-steps-guide-3.png)
 
-Click "**Unstake All**" on each of the farms and pools to unstake all your assets.
+अपनी सभी संपत्ति अनस्टेक करने के लिए प्रत्येक Farm और Pool पर "**Unstake All**" पर क्लिक करें।
 
-![](<../../../../.gitbook/assets/migration-helper-steps-guide-4 (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration-helper-steps-guide-4%20%281%29.png)
 
-After unstaking, click "**Go to Stake**" to proceed to step 2.
+अनस्टेक करने के बाद, चरण 2 पर जाने के लिए "**Go to Stake**" पर क्लिक करें।
 
-### 3. Stake your LP tokens and CAKE into the new farms and pools.
+### 3. नए Farms और Pools में अपने LP टोकन और CAKE Stake करें।
 
-Here you should see the brand new CAKE syrup pool and the new farms. Before staking, you will need to enable them.
+यहाँ आपको बिल्कुल नया CAKE Syrup Pool और नए Farms दिखाई देंगे। Staking से पहले, आपको उन्हें enable करना होगा।
 
-![](<../../../../.gitbook/assets/migration-helper-steps-guide-5 (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration-helper-steps-guide-5%20%281%29.png)
 
-Click "**Enable**" to enable staking on each of the farms and the CAKE syrup pool. If you are using a mobile device, please click the “**v**” (downward arrow) to expand the card while looking for the "**Enable**" button.
+प्रत्येक Farm और CAKE Syrup Pool पर Staking enable करने के लिए "**Enable**" पर क्लिक करें। यदि आप मोबाइल डिवाइस का उपयोग कर रहे हैं, तो "**Enable**" बटन खोजते समय कार्ड विस्तृत करने के लिए "**v**" (नीचे तीर) पर क्लिक करें।
 
-After enabling, you will be able to start staking in the pool and farms.
+Enable करने के बाद, आप Pool और Farms में Staking शुरू कर सकेंगे।
 
 {% tabs %}
 {% tab title="CAKE Syrup Pool" %}
-![](<../../../../.gitbook/assets/migration-helper-steps-guide-7 (2).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration-helper-steps-guide-7%20%282%29.png)
 
-For CAKE syrup pool. Please:
+CAKE Syrup Pool के लिए, कृपया:
 
-1. Click "**Flexible**" under the "Stake CAKE" section.
-2. Enter the amount of CAKE you want to stake.
-3. Click "**Confirm**".
+1. "Stake CAKE" अनुभाग के अंतर्गत "**Flexible**" पर क्लिक करें।
+2. वह CAKE राशि दर्ज करें जिसे आप Stake करना चाहते हैं।
+3. "**Confirm**" पर क्लिक करें।
 
 
 
 {% hint style="info" %}
-The locked (fixed-term) staking option will become available a few days after the migration. You will be able to convert your flexible staking position to a locked one. To learn more about the new CAKE syrup pool with fixed-term staking, please check out [this doc](../../../../archive/legacy-products/new-cake-pool/).
+locked (fixed-term) Staking विकल्प माइग्रेशन के कुछ दिन बाद उपलब्ध होगा। आप अपनी flexible Staking पोजीशन को locked पोजीशन में बदल सकेंगे। fixed-term Staking के साथ नए CAKE Syrup Pool के बारे में अधिक जानने के लिए, कृपया [यह दस्तावेज़](../../../../archive/legacy-products/new-cake-pool/) देखें।
 {% endhint %}
 {% endtab %}
 
 {% tab title="Farms" %}
-![](../../../../.gitbook/assets/migration-helper-steps-guide-8.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration-helper-steps-guide-8.png)
 
-For farms, please:
+Farms के लिए, कृपया:
 
-1. Click "**Stake**".
-2. Enter the amount of LP tokens you want to stake.
-3. Click "**Confirm**"
+1. "**Stake**" पर क्लिक करें।
+2. वह LP टोकन राशि दर्ज करें जिसे आप Stake करना चाहते हैं।
+3. "**Confirm**" पर क्लिक करें
 {% endtab %}
 {% endtabs %}
 
-### 4. Done!
+### 4. हो गया!
 
-![](<../../../../.gitbook/assets/migration-helper-steps-guide-9 (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/migration-helper-steps-guide-9%20%281%29.png)
 
-You are now staking in the new MasterChef and continue earning CAKE rewards! Click "**Finish**" to go back and explore some other great products PancakeSwap offers.
+आप अब नए MasterChef में Staking कर रहे हैं और CAKE रिवॉर्ड अर्जित करना जारी रख रहे हैं! वापस जाने और PancakeSwap के कुछ अन्य बेहतरीन उत्पाद एक्सप्लोर करने के लिए "**Finish**" पर क्लिक करें।
 
-## Migration Timeline
+## माइग्रेशन टाइमलाइन
 
-![](<../../../../.gitbook/assets/en - migration timeline - 2.png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/en%20-%20migration%20timeline%20-%202.png)
 
-Make sure to follow our [Twitter](https://twitter.com/pancakeswap/) or [Telegram](https://t.me/PancakeSwapAnn) announcement channel for detailed timing and the latest updates! Need any help? Learn more about how to reach for help [here](../../../contact-us/#help).
+विस्तृत समय और नवीनतम अपडेट के लिए हमारा [Twitter](https://twitter.com/pancakeswap/) या [Telegram](https://t.me/PancakeSwapAnn) announcement चैनल फॉलो करना सुनिश्चित करें! कोई सहायता चाहिए? सहायता कैसे प्राप्त करें इसके बारे में [यहाँ](../../../contact-us/#help) अधिक जानें।
 
-## FAQ
+## अक्सर पूछे जाने वाले सवाल (FAQ)
 
-#### **When will it finish?**
+#### **यह कब समाप्त होगा?**
 
-Migration will take several hours, but it should be totally finished upon the launch of the migration helper page. Follow our [Twitter](https://twitter.com/pancakeswap/) or [Telegram](https://t.me/PancakeSwapAnn) announcement channel for the latest updates!
+माइग्रेशन में कई घंटे लगेंगे, लेकिन माइग्रेशन हेल्पर पेज लॉन्च होने पर यह पूरी तरह से समाप्त हो जाना चाहिए। नवीनतम अपडेट के लिए हमारा [Twitter](https://twitter.com/pancakeswap/) या [Telegram](https://t.me/PancakeSwapAnn) announcement चैनल फॉलो करें!
 
-#### **When must I migrate?**
+#### **मुझे कब तक माइग्रेट करना होगा?**
 
-1. You will be able to migrate at any time. There’s no time limit.&#x20;
-2. It’s better to migrate sooner so you can continue to earn rewards from farms and pools.
+1. आप किसी भी समय माइग्रेट कर सकते हैं। कोई समय सीमा नहीं है।&#x20;
+2. जल्दी माइग्रेट करना बेहतर है ताकि आप Farms और Pools से रिवॉर्ड अर्जित करना जारी रख सकें।
 
-#### I don’t see the migration helper!
+#### मुझे माइग्रेशन हेल्पर नहीं दिख रहा!
 
-It will only be deployed once smart contract deployments and configurations are completed. It could take serval hours. Follow our [Twitter](https://twitter.com/pancakeswap/) or [Telegram](https://t.me/PancakeSwapAnn) announcement channel for the latest updates!
+यह केवल तब तैनात किया जाएगा जब स्मार्ट कॉन्ट्रैक्ट तैनाती और कॉन्फ़िगरेशन पूरे हो जाएंगे। इसमें कई घंटे लग सकते हैं। नवीनतम अपडेट के लिए हमारा [Twitter](https://twitter.com/pancakeswap/) या [Telegram](https://t.me/PancakeSwapAnn) announcement चैनल फॉलो करें!
 
-#### Why lock staking is not available?
+#### Lock Staking उपलब्ध क्यों नहीं है?
 
-SOON! To achieve a smooth migration. Lock (fixed-term) staking will be enabled a few days after the migrations.
+जल्द आ रहा है! सहज माइग्रेशन के लिए, Lock (fixed-term) Staking माइग्रेशन के कुछ दिन बाद enable की जाएगी।
 
-#### I can't find my farms in the migration helper!
+#### मुझे माइग्रेशन हेल्पर में मेरे Farms नहीं मिल रहे!
 
-It might be due to the farm being discontinued before the migration. Please:
+यह माइग्रेशन से पहले Farm बंद होने के कारण हो सकता है। कृपया:
 
-1. Go to **Farms**.
-2. Choose “**Finished**” at the top of the farm list.
-3. Click “**Check out v1 farms**” to look for your farm.
+1. **Farms** पर जाएं।
+2. Farm सूची के शीर्ष पर "**Finished**" चुनें।
+3. अपना Farm खोजने के लिए "**Check out v1 farms**" पर क्लिक करें।

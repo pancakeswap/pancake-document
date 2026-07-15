@@ -1,64 +1,64 @@
 # Perpetual Trading FAQ
 
-### **What is PancakeSwap Perpetuals?**
+### **PancakeSwap Perpetuals क्या है?**
 
-PCS Perps is a perpetuals trading product built on Aster's orderbook infrastructure with a PCS-native frontend. It supports up to 200× leverage on BTC and major pairs, and is accessible directly from your wallet with no bridging or separate account setup.
+PCS Perps एक परपेचुअल ट्रेडिंग उत्पाद है जो Aster के ऑर्डरबुक इंफ्रास्ट्रक्चर पर PCS-नेटिव फ्रंटएंड के साथ बनाया गया है। यह BTC और प्रमुख जोड़ों पर 200× तक लीवरेज का समर्थन करता है, और बिना किसी ब्रिजिंग या अलग खाता सेटअप के आपके वॉलेट से सीधे सुलभ है।
 
-### **Which mode should I use — Simple or Pro?**
+### **मुझे कौन सा मोड उपयोग करना चाहिए — Simple या Pro?**
 
-It depends on how you like to trade. Simple Mode is built for speed — set your size, pick your leverage, and tap UP or DOWN to open a position instantly. Pro Mode is for traders who want more control: limit orders, TP/SL configuration, and full position management. If you're new to perps or just want to move fast, start with Simple. You can switch to Pro at any time without affecting your open positions.
+यह इस पर निर्भर करता है कि आप कैसे व्यापार करना पसंद करते हैं। Simple Mode गति के लिए बनाया गया है — अपना साइज़ सेट करें, अपना लीवरेज चुनें, और तुरंत पोजीशन खोलने के लिए UP या DOWN टैप करें। Pro Mode उन ट्रेडर्स के लिए है जो अधिक नियंत्रण चाहते हैं: limit orders, TP/SL कॉन्फ़िगरेशन, और पूर्ण पोजीशन प्रबंधन। यदि आप परपेचुअल में नए हैं या बस तेज़ी से आगे बढ़ना चाहते हैं, तो Simple से शुरू करें। आप अपनी खुली पोजीशन को प्रभावित किए बिना किसी भी समय Pro पर स्विच कर सकते हैं।
 
-### **Do I need to create an account or complete KYC?**
+### **क्या मुझे खाता बनाना होगा या KYC पूरा करना होगा?**
 
-No. PCS Perps is fully onchain. Connect your wallet and you're ready to trade — no account creation, no KYC, no deposits to a custodial platform.
+नहीं। PCS Perps पूरी तरह ऑनचेन है। अपना वॉलेट कनेक्ट करें और आप ट्रेड करने के लिए तैयार हैं — कोई खाता निर्माण नहीं, कोई KYC नहीं, किसी कस्टोडियल प्लेटफॉर्म पर कोई जमा नहीं।
 
-### **What's the difference between Simple Mode and Pro Mode?**
+### **Simple Mode और Pro Mode में क्या अंतर है?**
 
-Simple Mode is built for fast directional trades — one tap to go long or short with preset sizes. Pro Mode gives you full control with advanced order types, TP/SL, and position management tools. You can switch between modes at any time.
-
-***
-
-### **What fees does PancakeSwap Perpetuals charge?**
-
-There are two components to your trading fee on PCS Perps:
-
-1. **Aster base fee** — charged by Aster's orderbook infrastructure on every trade
-2. **PCS builder fee** — charged by PancakeSwap on top of the Aster base fee
-
-Both are deducted automatically at the time of your trade.
+Simple Mode तेज़ दिशात्मक ट्रेडों के लिए बनाया गया है — प्रीसेट साइज़ के साथ long या short जाने के लिए एक टैप। Pro Mode आपको उन्नत ऑर्डर प्रकारों, TP/SL और पोजीशन प्रबंधन टूल के साथ पूर्ण नियंत्रण देता है। आप किसी भी समय मोड के बीच स्विच कर सकते हैं।
 
 ***
 
-### **What are Aster's fee rates?**
+### **PancakeSwap Perpetuals कौन से शुल्क लेता है?**
 
-Fees vary by contract type:
+PCS Perps पर आपके ट्रेडिंग शुल्क में दो घटक हैं:
+
+1. **Aster base fee** — हर ट्रेड पर Aster के ऑर्डरबुक इंफ्रास्ट्रक्चर द्वारा लिया जाता है
+2. **PCS builder fee** — Aster base fee के ऊपर PancakeSwap द्वारा लिया जाता है
+
+दोनों आपके ट्रेड के समय स्वचालित रूप से काटे जाते हैं।
+
+***
+
+### **Aster की शुल्क दरें क्या हैं?**
+
+शुल्क कॉन्ट्रैक्ट प्रकार के अनुसार भिन्न होते हैं:
 
 **USDT-Perpetual Contracts**
 
-| Order Type | Fee Rate |
+| ऑर्डर प्रकार | शुल्क दर |
 | ---------- | -------- |
 | Maker      | 0%       |
 | Taker      | 0.04%    |
 
 **USD1-Perpetual Contracts**
 
-| Order Type | Fee Rate |
+| ऑर्डर प्रकार | शुल्क दर |
 | ---------- | -------- |
 | Maker      | 0%       |
 | Taker      | 0.005%   |
 
-For more details related to Aster fees please refer to this doc here: [LINK](https://docs.asterdex.com/trading/perpetuals/fees-and-specs)
+Aster शुल्क से संबंधित अधिक विवरण के लिए कृपया इस दस्तावेज़ को देखें: [LINK](https://docs.asterdex.com/trading/perpetuals/fees-and-specs)
 
-### How does Aster determine which user is from PancakeSwap and which user is from their own website?
+### Aster कैसे निर्धारित करता है कि कौन सा उपयोगकर्ता PancakeSwap से है और कौन उनकी अपनी वेबसाइट से?
 
-This is based on the platform where users trade. If users open and close trades on [https://pancakeswap.finance/perps](https://pancakeswap.finance/perps), they will be considered PancakeSwap user.
+यह उस प्लेटफॉर्म पर आधारित है जहां उपयोगकर्ता व्यापार करते हैं। यदि उपयोगकर्ता [https://pancakeswap.finance/perps](https://pancakeswap.finance/perps) पर ट्रेड खोलते और बंद करते हैं, तो उन्हें PancakeSwap उपयोगकर्ता माना जाएगा।
 
 ### PancakeSwap builder fee
 
-Fees for PancakeSwap Perpetuals as follows:
+PancakeSwap Perpetuals के लिए शुल्क इस प्रकार हैं:
 
-<table><thead><tr><th width="201.33333333333331">Mode</th><th>Builder Fees</th></tr></thead><tbody><tr><td>All trades</td><td>0.03%</td></tr></tbody></table>
+<table><thead><tr><th width="201.33333333333331">मोड</th><th>Builder Fees</th></tr></thead><tbody><tr><td>सभी ट्रेड</td><td>0.03%</td></tr></tbody></table>
 
-### **Which jurisdictions are restricted from using the product?** <a href="#whats-the-difference-between-a-maker-and-taker-order" id="whats-the-difference-between-a-maker-and-taker-order"></a>
+### **कौन से क्षेत्राधिकार उत्पाद का उपयोग करने से प्रतिबंधित हैं?** <a href="#whats-the-difference-between-a-maker-and-taker-order" id="whats-the-difference-between-a-maker-and-taker-order"></a>
 
-Users located in or accessing the service from the United States of America, Canada, the United Kingdom, China, North Korea, Russia, Ukraine, Cuba, Iran, Venezuela, or Syria are not permitted to use the product. Access may be restricted or blocked in accordance with applicable compliance and regulatory requirements.
+संयुक्त राज्य अमेरिका, कनाडा, यूनाइटेड किंगडम, चीन, उत्तर कोरिया, रूस, यूक्रेन, क्यूबा, ईरान, वेनेजुएला या सीरिया में स्थित या वहां से सेवा का उपयोग करने वाले उपयोगकर्ताओं को उत्पाद का उपयोग करने की अनुमति नहीं है। लागू अनुपालन और नियामक आवश्यकताओं के अनुसार पहुंच प्रतिबंधित या अवरुद्ध की जा सकती है।

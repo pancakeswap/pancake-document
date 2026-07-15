@@ -1,43 +1,43 @@
 # FAQ
 
-<figure><img src="../../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2894%29.png" alt=""><figcaption></figcaption></figure>
 
-### **Is there a deadline for the migration?**
+### **क्या माइग्रेशन की कोई समय सीमा है?**
 
-No
+नहीं
 
-You will be able to unstake from V2 farms at any time.
+आप किसी भी समय v2 Farms से अनस्टेक कर सकते हैं।
 
-You will be able to remove liquidity from V2 at any time.
+आप किसी भी समय v2 से तरलता हटा सकते हैं।
 
-However, Chefs will gradually migrate the CAKE reward emissions from those selected V2 farms to their corresponding V3 farms. To continue earning CAKE rewards. We would recommend that you complete the migrations as early as possible.
+हालांकि, Chefs धीरे-धीरे उन चुनिंदा v2 Farms से संबंधित v3 Farms में CAKE रिवॉर्ड एमिशन स्थानांतरित करेंगे। CAKE रिवॉर्ड अर्जित करते रहने के लिए, हम अनुशंसा करते हैं कि आप जितनी जल्दी हो सके माइग्रेशन पूरा करें।
 
-For more news and updates on the migration timeline, please [follow our social channels on Twitter or Telegram announcement.](../../contact-us/social-accounts.md)
+माइग्रेशन टाइमलाइन पर अधिक समाचार और अपडेट के लिए, कृपया [Twitter या Telegram announcement पर हमारे सोशल चैनल फॉलो करें।](../../contact-us/social-accounts.md)
 
-### When can I start migrating?
+### मैं माइग्रेशन कब शुरू कर सकता/सकती हूँ?
 
-If you are reading this, the migration is likely started already. Visit [https://pancakeswap.finance/migration](https://pancakeswap.finance/migration) for more details.
+यदि आप यह पढ़ रहे हैं, तो माइग्रेशन संभवतः पहले से शुरू हो चुका है। अधिक जानकारी के लिए [https://pancakeswap.finance/migration](https://pancakeswap.finance/migration) पर जाएं।
 
-### I can’t find the pair I’m staking
+### मुझे वह जोड़ी नहीं मिल रही जो मैं Staking कर रहा/रही हूँ
 
-Some V2 farms and liquidity will continue to operate in parallel with V3.
+कुछ v2 Farms और तरलता v3 के साथ समानांतर में काम करती रहेगी।
 
-Some V2 farms will not be migrated on day 1. If your staked farms do not appear in “Step 1”, they do not require to be migrated at the moment.
+कुछ v2 Farms को पहले दिन माइग्रेट नहीं किया जाएगा। यदि आपके Staking किए हुए Farms "Step 1" में दिखाई नहीं देते, तो उन्हें अभी माइग्रेट करने की जरूरत नहीं है।
 
-If your V2 liquidity positions do not appear in “Step 2”, it is likely due to they have V2 farms running and do not require to be migrated at the moment.
+यदि आपकी v2 तरलता पोजीशन "Step 2" में दिखाई नहीं देती, तो इसकी संभावना है कि उनमें v2 Farms चल रहे हैं और उन्हें अभी माइग्रेट करने की जरूरत नहीं है।
 
-You can manually migrate your farm stakings and liquidity. Continue reading.
+आप अपनी Farm Staking और तरलता को मैन्युअल रूप से माइग्रेट कर सकते हैं। आगे पढ़ते रहें।
 
-### Can I manually migrate my farm stakings or liquidity without using the migration helper?
+### क्या मैं माइग्रेशन हेल्पर का उपयोग किए बिना अपनी Farm Staking या तरलता को मैन्युअल रूप से माइग्रेट कर सकता/सकती हूँ?
 
-Yes.
+हाँ।
 
-You can unstake LP tokens from V2 farms by going to the “Farms” page and looking for farms with the “V2” tag. You can use the “Staked only” toggle to filter farms you are currently staking.
+आप "Farms" पेज पर जाकर और "V2" टैग वाले Farms खोजकर v2 Farms से LP टोकन अनस्टेक कर सकते हैं। वर्तमान में Staking कर रहे Farms को फ़िल्टर करने के लिए "Staked only" टॉगल का उपयोग कर सकते हैं।
 
-You can remove V2 liquidity by going to the “Liquidity” page and looking for positions with the “V2” tag. You can use the V2 tab to filter only V2 positions.
+आप "Liquidity" पेज पर जाकर और "V2" टैग वाली पोजीशन खोजकर v2 तरलता हटा सकते हैं। केवल v2 पोजीशन फ़िल्टर करने के लिए v2 टैब का उपयोग कर सकते हैं।
 
-For adding your liquidity to V3 and staking LP positions to V3, follow the standard V3 steps.&#x20;
+v3 में तरलता जोड़ने और LP पोजीशन को v3 में Staking करने के लिए, मानक v3 चरणों का पालन करें।&#x20;
 
-For a detailed tutorial on how to add liquidity in V3, read [here](../../../earn/pancakeswap-pools/liquidity-guide.md).&#x20;
+v3 में तरलता जोड़ने के विस्तृत ट्यूटोरियल के लिए, [यहाँ](../../../earn/pancakeswap-pools/liquidity-guide.md) पढ़ें।&#x20;
 
-For a tutorial on how to farm in V3, read [here](../../../earn/yield-farming/how-to-use-farms/).
+v3 में Farm करने के ट्यूटोरियल के लिए, [यहाँ](../../../earn/yield-farming/how-to-use-farms/) पढ़ें।

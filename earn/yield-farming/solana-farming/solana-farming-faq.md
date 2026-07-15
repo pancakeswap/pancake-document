@@ -1,48 +1,48 @@
-# Solana Farming FAQ
+# Solana Farming अक्सर पूछे जाने वाले सवाल (FAQ)
 
-### 1. How does SOL Farming work?
+### 1. SOL Farming कैसे काम करती है?
 
-* V3 Farming is **campaign-based**, meaning farms are active only for a set duration.
-* During the campaign:
-  * Reward tokens are distributed **every second** to **active liquidity positions**.
-  * Farming APR will be shown on the pool list page and my positions page
-* After the campaign ends:
-  1. **No more rewards** will be distributed.
-  2. **Farming APR will no longer be shown** on the pool list page and my positions page
-  3. The farm becomes **inactive**, but may be restarted by the creator by adding more rewards.
+* V3 Farming **कैम्पेन-आधारित** है, जिसका अर्थ है कि फार्म केवल एक निर्धारित अवधि के लिए सक्रिय रहते हैं।
+* कैम्पेन के दौरान:
+  * पुरस्कार टोकन **प्रति सेकंड** **सक्रिय तरलता पोजीशन** में वितरित किए जाते हैं।
+  * फार्मिंग APR पूल सूची पेज और My Positions पेज पर दिखाया जाएगा।
+* कैम्पेन समाप्त होने के बाद:
+  1. **कोई और पुरस्कार** वितरित नहीं किए जाएंगे।
+  2. **फार्मिंग APR पूल सूची पेज और My Positions पेज पर नहीं दिखाई देगी।**
+  3. फार्म **निष्क्रिय** हो जाता है, लेकिन क्रिएटर द्वारा अधिक पुरस्कार जोड़कर इसे पुनः शुरू किया जा सकता है।
 
-### 2. Do I need to stake my LP NFT to earn farming rewards?
+### 2. क्या फार्मिंग पुरस्कार अर्जित करने के लिए LP NFT स्टेक करना ज़रूरी है?
 
-* **No staking is required**.
-* As long as your liquidity position is **active (in-range)** in a pool with an active farm, you will earn rewards automatically.
+* **कोई स्टेकिंग आवश्यक नहीं है**।
+* जब तक आपकी तरलता पोजीशन एक सक्रिय फार्म वाले पूल में **सक्रिय (इन-रेंज)** है, आप स्वचालित रूप से पुरस्कार अर्जित करेंगे।
 
-### 3. Are there any farm boosters?
+### 3. क्या कोई फार्म बूस्टर हैं?
 
-* **No**, V3 farms do **not** support any boosting mechanisms.
-* Rewards are solely based on your share of active liquidity in the pool.
+* **नहीं**, V3 फार्म किसी भी बूस्टिंग तंत्र का **समर्थन नहीं करते**।
+* पुरस्कार केवल पूल में आपकी सक्रिय तरलता की हिस्सेदारी पर आधारित होते हैं।
 
-### 4. Can multiple farms be created for the same pool?
+### 4. क्या एक ही पूल के लिए एकाधिक फार्म बनाए जा सकते हैं?
 
-* **No**, only **one farm per token pair and fee tier** can exist.
+* **नहीं**, प्रति टोकन जोड़े और शुल्क टियर केवल **एक फार्म** हो सकता है।
 
-### 5. How are SOL farms configured?
+### 5. SOL फार्म कैसे कॉन्फ़िगर किए जाते हैं?
 
-#### A. Token Rewards
+#### A. टोकन पुरस्कार
 
-* Up to **3 different reward tokens** can be assigned per farm.
-* Once set, the reward token types **cannot be changed**.
-* The farm creator can:
-  * **Top up** the allocated reward tokens.
-  * **Extend the farming duration** after the campaign ends.
+* प्रति फार्म अधिकतम **3 अलग-अलग पुरस्कार टोकन** असाइन किए जा सकते हैं।
+* एक बार सेट होने के बाद, पुरस्कार टोकन के प्रकार **बदले नहीं जा सकते**।
+* फार्म क्रिएटर निम्नलिखित कर सकते हैं:
+  * आवंटित पुरस्कार टोकन **टॉप अप** करें।
+  * कैम्पेन समाप्त होने के बाद **फार्मिंग अवधि बढ़ाएं**।
 
-#### B. Campaign Duration
+#### B. कैम्पेन अवधि
 
-* Campaigns must last a minimum of **7 days** and a maximum of **90 days**.
+* कैम्पेन कम से कम **7 दिन** और अधिकतम **90 दिन** तक चलनी चाहिए।
 
-### 6. Can a farm be edited after creation?
+### 6. क्या फार्म निर्माण के बाद संपादित किया जा सकता है?
 
-Farm creators can edit the following parameters **after farm creation**:
+फार्म क्रिएटर **फार्म निर्माण के बाद** निम्नलिखित पैरामीटर संपादित कर सकते हैं:
 
-1. Reward distribution rate (per second)
-2. Campaign end date
-3. Add a reward token and corresponding reward amount (only if fewer than 3 tokens were initially assigned)
+1. पुरस्कार वितरण दर (प्रति सेकंड)
+2. कैम्पेन की समाप्ति तिथि
+3. एक पुरस्कार टोकन और संबंधित पुरस्कार राशि जोड़ें (केवल तभी जब शुरू में 3 से कम टोकन असाइन किए गए थे)

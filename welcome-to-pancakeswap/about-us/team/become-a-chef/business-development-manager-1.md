@@ -4,30 +4,28 @@ hidden: true
 
 # Business Development Manager
 
-#### Job Summary
+#### कार्य सारांश
 
-As a Business Development Manager, you will be responsible for identifying, negotiating, and closing strategic partnerships that enhance our platform's liquidity, market diversity, and global reach. You'll work closely with product, marketing, and engineering teams to integrate new features, onboard key stakeholders, and foster growth in the crypto prediction space. This role requires a deep understanding of blockchain technology, prediction markets, and business strategy in a decentralized environment.
+एक Business Development Manager के रूप में, आप ऐसी रणनीतिक साझेदारियों की पहचान करने, बातचीत करने और उन्हें अंजाम देने के लिए जिम्मेदार होंगे जो हमारे प्लेटफ़ॉर्म की तरलता, बाज़ार विविधता और वैश्विक पहुँच को बढ़ाएँ। आप नए फीचर एकीकृत करने, प्रमुख हितधारकों को ऑनबोर्ड करने और क्रिप्टो प्रेडिक्शन क्षेत्र में विकास को बढ़ावा देने के लिए प्रोडक्ट, मार्केटिंग और इंजीनियरिंग टीमों के साथ मिलकर काम करेंगे। इस भूमिका के लिए ब्लॉकचेन तकनीक, प्रेडिक्शन मार्केट और विकेंद्रीकृत वातावरण में व्यावसायिक रणनीति की गहरी समझ आवश्यक है।
 
-#### Key Responsibilities
+#### प्रमुख जिम्मेदारियाँ
 
-* Partnership Development: Identify and pursue partnerships with crypto exchanges, DeFi protocols, data oracles, influencers, and traditional institutions to integrate our prediction markets into broader ecosystems.
-* Market Expansion: Drive user acquisition and retention strategies, including collaborations with DAOs, NFT communities, and Web3 projects to increase platform liquidity and market creation.
-* Business Strategy: Analyze market trends in crypto, prediction markets, and blockchain to develop go-to-market plans, revenue models, and growth initiatives.
-* Relationship Management: Build and maintain long-term relationships with key stakeholders, including investors, regulators, and industry leaders, ensuring compliance with crypto regulations (e.g., KYC/AML where applicable).
-* Sales and Negotiation: Lead negotiations for integrations, sponsorships, and co-marketing deals, aiming to boost platform TVL (Total Value Locked) and trading volume.
-* Performance Tracking: Monitor KPIs such as partnership ROI, user growth, and market volume; provide regular reports and insights to senior leadership.
-* Event Participation: Represent the company at crypto conferences, hackathons, and industry events to network and promote our platform.
-* Cross-Functional Collaboration: Work with legal, product, and tech teams to ensure seamless execution of business deals in a decentralized context.
+* साझेदारी विकास: हमारे प्रेडिक्शन मार्केट को व्यापक पारिस्थितिकी तंत्र में एकीकृत करने के लिए क्रिप्टो एक्सचेंज, DeFi प्रोटोकॉल, डेटा ओरेकल, प्रभावशाली लोगों और पारंपरिक संस्थानों के साथ साझेदारी की पहचान करें और उसे आगे बढ़ाएँ।
+* बाज़ार विस्तार: प्लेटफ़ॉर्म तरलता और बाज़ार निर्माण बढ़ाने के लिए DAO, NFT समुदायों और Web3 परियोजनाओं के साथ सहयोग सहित उपयोगकर्ता अधिग्रहण और प्रतिधारण रणनीतियाँ चलाएँ।
+* व्यावसायिक रणनीति: go-to-market योजनाएँ, राजस्व मॉडल और विकास पहलों को विकसित करने के लिए क्रिप्टो, प्रेडिक्शन मार्केट और ब्लॉकचेन में बाज़ार के रुझानों का विश्लेषण करें।
+* संबंध प्रबंधन: निवेशकों, नियामकों और उद्योग के नेताओं सहित प्रमुख हितधारकों के साथ दीर्घकालिक संबंध बनाएँ और बनाए रखें, क्रिप्टो विनियमों (जैसे KYC/AML जहाँ लागू हो) के अनुपालन को सुनिश्चित करें।
+* बिक्री और बातचीत: प्लेटफ़ॉर्म TVL (कुल मूल्य लॉक्ड) और ट्रेडिंग वॉल्यूम बढ़ाने के लिए एकीकरण, प्रायोजन और सह-मार्केटिंग सौदों की बातचीत का नेतृत्व करें।
+* प्रदर्शन ट्रैकिंग: साझेदारी ROI, उपयोगकर्ता वृद्धि और बाज़ार वॉल्यूम जैसे KPI की निगरानी करें; वरिष्ठ नेतृत्व को नियमित रिपोर्ट और अंतर्दृष्टि प्रदान करें।
+* कार्यक्रम में भागीदारी: नेटवर्क बनाने और हमारे प्लेटफ़ॉर्म को बढ़ावा देने के लिए क्रिप्टो कॉन्फ्रेंस, हैकाथॉन और उद्योग कार्यक्रमों में कंपनी का प्रतिनिधित्व करें।
+* क्रॉस-फंक्शनल सहयोग: विकेंद्रीकृत संदर्भ में व्यावसायिक सौदों के निर्बाध निष्पादन को सुनिश्चित करने के लिए कानूनी, प्रोडक्ट और तकनीकी टीमों के साथ काम करें।
 
-#### Qualifications and Skills
+#### योग्यताएँ और कौशल
 
-* Experience: 3+ years in business development, sales, or partnerships within the crypto, blockchain, or fintech sectors. Experience in prediction markets, DeFi, or gambling/gaming industries is highly preferred.
-* Knowledge: Strong understanding of blockchain fundamentals, smart contracts, tokenomics, and prediction market mechanics (e.g., how markets resolve via oracles). Familiarity with platforms like Augur, Polymarket, or similar Skills: order-book based knowledge.
-* Proven track record of closing high-value deals and building strategic alliances.
-* Excellent communication, negotiation, and presentation skills.
-* Analytical mindset with experience using tools like Google Analytics, Dune
-* Analytics, or CRM software (e.g., Salesforce).
-* Ability to thrive in a remote, fast-paced startup environment.
-* Education: Bachelor's degree in Business, Marketing, Finance, or a related field;
-* MBA or certifications in blockchain (e.g., Certified Blockchain Expert) are a plus.
-* Personal Attributes: Entrepreneurial spirit, passion for crypto and decentralized technologies, adaptability to regulatory changes, and a results-oriented approach.
+* अनुभव: क्रिप्टो, ब्लॉकचेन, या फिनटेक क्षेत्रों में बिज़नेस डेवलपमेंट, बिक्री, या साझेदारी में 3+ वर्षों का अनुभव। प्रेडिक्शन मार्केट, DeFi, या जुआ/गेमिंग उद्योगों का अनुभव अत्यधिक पसंद किया जाएगा।
+* ज्ञान: ब्लॉकचेन की बुनियादी बातों, स्मार्ट कॉन्ट्रैक्ट, टोकनोमिक्स और प्रेडिक्शन मार्केट मैकेनिक्स (जैसे ओरेकल के माध्यम से बाज़ार कैसे हल होते हैं) की मजबूत समझ। Augur, Polymarket, या समान प्लेटफ़ॉर्म से परिचितता।
+* उच्च-मूल्य के सौदे बंद करने और रणनीतिक गठबंधन बनाने का सिद्ध ट्रैक रिकॉर्ड।
+* उत्कृष्ट संचार, बातचीत और प्रस्तुति कौशल।
+* Google Analytics, Dune Analytics, या CRM सॉफ़्टवेयर (जैसे Salesforce) जैसे टूल्स के उपयोग के अनुभव के साथ विश्लेषणात्मक सोच।
+* रिमोट, तेज़-गति वाले स्टार्टअप वातावरण में काम करने की क्षमता।
+* शिक्षा: व्यवसाय, मार्केटिंग, वित्त, या संबंधित क्षेत्र में स्नातक की डिग्री; MBA या ब्लॉकचेन में प्रमाणन (जैसे Certified Blockchain Expert) एक प्लस है।
+* व्यक्तिगत गुण: उद्यमशीलता की भावना, क्रिप्टो और विकेंद्रीकृत तकनीकों के प्रति जुनून, नियामक परिवर्तनों के अनुकूल होने की क्षमता, और परिणाम-उन्मुख दृष्टिकोण।

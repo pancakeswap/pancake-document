@@ -1,40 +1,40 @@
-# What is veCAKE?
+# veCAKE क्या है?
 
-<figure><img src="../../../.gitbook/assets/image (340).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28340%29.png" alt=""><figcaption></figcaption></figure>
 
-## **What is veCAKE?**
+## **veCAKE क्या है?**
 
-veCAKE stands for vote-escrowed CAKE. It is not transferable, and the only way to acquire veCAKE is by staking CAKE. The maximum lock time is 4 years; the longer you lock your CAKE, the more veCAKE you’ll receive.
+veCAKE का अर्थ है vote-escrowed CAKE। यह transferable नहीं है, और veCAKE प्राप्त करने का एकमात्र तरीका CAKE stake करना है। अधिकतम lock time 4 वर्ष है; आप जितने अधिक समय के लिए अपना CAKE lock करेंगे, आपको उतना अधिक veCAKE मिलेगा।
 
-## **What is the purpose of veCAKE?**
+## **veCAKE का उद्देश्य क्या है?**
 
-veCAKE tokens serve a crucial role in PancakeSwap's governance, enabling you to actively participate in PancakeSwap’s [governance proposals ](https://pancakeswap.finance/voting)and Gauges Voting system. This allows you to vote on broader governance proposals and influence the allocation of CAKE emissions within liquidity pools.
+veCAKE tokens PancakeSwap के गवर्नेंस में एक महत्वपूर्ण भूमिका निभाते हैं, जिससे आप PancakeSwap के [governance proposals](https://pancakeswap.finance/voting) और Gauges Voting प्रणाली में सक्रिय रूप से भाग ले सकते हैं। इससे आप व्यापक governance proposals पर मतदान कर सकते हैं और तरलता pools में CAKE emissions के आवंटन को प्रभावित कर सकते हैं।
 
-## **What are the benefits of holding veCAKE?**
+## **veCAKE रखने के क्या लाभ हैं?**
 
-**Weekly Rewards:** Claim CAKE rewards regularly through CAKE Staking and Revenue Sharing.
+**साप्ताहिक Rewards:** CAKE Staking और Revenue Sharing के माध्यम से नियमित रूप से CAKE rewards claim करें।
 
 {% content-ref url="earn-cake-weekly/" %}
 [earn-cake-weekly](earn-cake-weekly/)
 {% endcontent-ref %}
 
-**Gauges Voting Participation:** Influence and boost CAKE emissions in your preferred pools, by engaging in Gauges Voting every 2 weeks, with results applied bi-weekly. Adjust your voting preferences for each gauge at intervals less frequent than 10 days.
+**Gauges Voting में भागीदारी:** हर 2 सप्ताह में Gauges Voting में भाग लेकर अपनी पसंदीदा pools में CAKE emissions को प्रभावित करें और बढ़ाएं, परिणाम द्वि-साप्ताहिक लागू होते हैं। प्रत्येक gauge के लिए अपनी voting preferences को 10 दिन से कम अंतराल पर समायोजित करें।
 
 {% content-ref url="../gauges-voting/" %}
 [gauges-voting](../gauges-voting/)
 {% endcontent-ref %}
 
-**Vote Incentives:** Access additional incentives by claiming bribes from our [veCAKE Managers](vecake-managers.md)
+**Vote Incentives:** हमारे [veCAKE Managers](vecake-managers.md) से bribes claim करके अतिरिक्त incentives प्राप्त करें।
 
 {% content-ref url="../bribes-vote-incentives.md" %}
 [bribes-vote-incentives.md](../bribes-vote-incentives.md)
 {% endcontent-ref %}
 
-**Governance:** Vote on governance proposals for matters related to gauge approvals, protocol changes, emission adjustments, etc.
+**गवर्नेंस:** gauge approvals, protocol changes, emission adjustments आदि से संबंधित मामलों के लिए governance proposals पर मतदान करें।
 
-**Liquidity Rewards:** Amplify CAKE rewards akin to bCAKE when providing liquidity to v3, v2, stableswap, or position managers sequentially. This sequence commences with BNB Chain v3 on November 27th, 2023, followed by BNB Chain v2 and Position Managers.
+**तरलता Rewards:** v3, v2, stableswap, या position managers में तरलता प्रदान करते समय bCAKE की तरह CAKE rewards को क्रमशः बढ़ाएं। यह क्रम 27 नवंबर 2023 को BNB Chain v3 से शुरू होता है, उसके बाद BNB Chain v2 और Position Managers।
 
-**IFO:** veCAKE balance gives you iCAKE to participate in PancakeSwap IFOs
+**IFO:** veCAKE balance आपको PancakeSwap IFOs में भाग लेने के लिए iCAKE देता है।
 
 {% content-ref url="../icake.md" %}
 [icake.md](../icake.md)

@@ -1,15 +1,15 @@
-# Ambassador Program
+# Ambassador कार्यक्रम
 
-The PancakeSwap Ambassador Program is designed to empower our most dedicated users and supporters, giving them the opportunity to actively contribute to the growth of our ecosystem. Our ambassadors play a crucial role in representing PancakeSwap, educating new users, and fostering community engagement worldwide.
+PancakeSwap Ambassador कार्यक्रम हमारे सबसे समर्पित उपयोगकर्ताओं और समर्थकों को सशक्त बनाने के लिए बनाया गया है, उन्हें हमारे पारिस्थितिकी तंत्र के विकास में सक्रिय रूप से योगदान करने का अवसर देता है। हमारे Ambassador PancakeSwap का प्रतिनिधित्व करने, नए उपयोगकर्ताओं को शिक्षित करने और विश्व भर में समुदायिक जुड़ाव बढ़ाने में महत्वपूर्ण भूमिका निभाते हैं।
 
-#### 🔹 Ambassador Roles
+#### 🔹 Ambassador भूमिकाएँ
 
-To ensure clarity in responsibilities, the program is structured into distinct roles:
+ज़िम्मेदारियों में स्पष्टता सुनिश्चित करने के लिए, कार्यक्रम को अलग-अलग भूमिकाओं में संरचित किया गया है:
 
-🔹 Moderation – Community moderators help maintain a safe, welcoming, and informative environment across our platforms. They assist users, enforce community guidelines, and ensure smooth communication.
+🔹 Moderation – Community moderators हमारे प्लेटफॉर्म पर एक सुरक्षित, स्वागत योग्य और जानकारीपूर्ण वातावरण बनाए रखने में मदद करते हैं। वे उपयोगकर्ताओं की सहायता करते हैं, समुदाय के दिशानिर्देशों का पालन सुनिश्चित करते हैं, और सुचारू संचार बनाए रखते हैं।
 
-📢 Content Creation – Ambassadors passionate about content can contribute through articles, videos, social media posts, and other creative materials that promote PancakeSwap and educate the community.
+📢 Content Creation – सामग्री निर्माण के प्रति उत्साही Ambassador लेख, वीडियो, सोशल मीडिया पोस्ट और अन्य रचनात्मक सामग्री के माध्यम से योगदान दे सकते हैं जो PancakeSwap को बढ़ावा देती है और समुदाय को शिक्षित करती है।
 
-🎤 Events (Online & Offline) – Ambassadors can organize and participate in workshops, meetups, and local events to spread awareness and onboard new users to PancakeSwap.
+🎤 Events (ऑनलाइन और ऑफलाइन) – Ambassador PancakeSwap के प्रति जागरूकता फैलाने और नए उपयोगकर्ताओं को onboard करने के लिए कार्यशालाएँ, meetups और स्थानीय कार्यक्रम आयोजित और उनमें भाग ले सकते हैं।
 
 <br>

@@ -1,17 +1,17 @@
-# How to StableSwap
+# StableSwap का उपयोग कैसे करें
 
-<figure><img src="../../.gitbook/assets/how-to-stableswap.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-stableswap.png" alt=""><figcaption></figcaption></figure>
 
-## **Trading on the StableSwap**
+## **StableSwap पर ट्रेडिंग**
 
-Trading on the StableSwap is very similar to using the existing PancakeSwap AMM. Before we start, it also requires a BNB Smart Chain-compatible wallet and BNB for gas fees. Please check our [wallet guide](https://docs.pancakeswap.finance/get-started/wallet-guide) for more details.
+StableSwap पर ट्रेडिंग मौजूदा PancakeSwap AMM का उपयोग करने के समान है। शुरू करने से पहले, इसके लिए एक BNB Smart Chain-compatible वॉलेट और gas fees के लिए BNB की भी आवश्यकता है। अधिक विवरण के लिए कृपया हमारी [वॉलेट गाइड](https://docs.pancakeswap.finance/get-started/wallet-guide) देखें।
 
-1 - Go to the Swap page [here](https://pancakeswap.finance/swap)
+1 - [यहां](https://pancakeswap.finance/swap) Swap पेज पर जाएं
 
-2 - Choose the token pairs you would like to trade.&#x20;
+2 - वे टोकन जोड़ियां चुनें जिनका आप व्यापार करना चाहते हैं।&#x20;
 
-3 - Your all set! The following Swap process is the same as usual! If it’s your first time trading please check the guide [here.](../pancakeswap-exchange/trade-guide.md)
+3 - सब तैयार है! आगे की Swap प्रक्रिया सामान्य जैसी ही है! यदि यह आपकी पहली बार ट्रेडिंग है तो कृपया [यहां](../pancakeswap-exchange/trade-guide.md) गाइड देखें।
 
-**Adding & Removing Liquidity**
+**तरलता जोड़ना और हटाना**
 
-Adding and removing liquidity for the StableSwap is also very important and similar to the normal PancakeSwap AMM. Please refer to the guide [here](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide) for a more detailed explanation. PancakeSwap StableSwap liquidity pools will show "Stable LP" in the pool name.
+StableSwap के लिए तरलता जोड़ना और हटाना भी बहुत महत्वपूर्ण है और सामान्य PancakeSwap AMM के समान है। अधिक विस्तृत व्याख्या के लिए कृपया [यहां](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide) गाइड देखें। PancakeSwap StableSwap तरलता पूल pool के नाम में "Stable LP" दिखाएंगे।

@@ -1,37 +1,37 @@
-# I need help
+# मुझे सहायता चाहिए
 
 
 
-![](../../../.gitbook/assets/help-area-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/help-area-header.png)
 
-If you find yourself stuck, if something isn't working like it's meant to, or you're not sure if something has worked or not, this help section may be able to, well, help.
+यदि आप किसी समस्या में फँसे हैं, कुछ ठीक से काम नहीं कर रहा, या आप यह नहीं समझ पा रहे कि कुछ हुआ है या नहीं, तो यह सहायता अनुभाग आपकी मदद कर सकता है।
 
-## Help sections
+## सहायता अनुभाग
 
-We have broken the help topic down into sections to help you find what you're after. Below is an overview on what you'll find.
+हमने सहायता विषय को अलग-अलग अनुभागों में विभाजित किया है ताकि आप अपनी ज़रूरत की चीज़ आसानी से खोज सकें। नीचे इसका अवलोकन दिया गया है।
 
-### Troubleshooting Errors
+### त्रुटि समाधान
 
-The [Troubleshooting Errors page](https://docs.pancakeswap.finance/help/troubleshooting) has a collection of errors users may run into while using PancakeSwap. It shows the problem with both a solution to the problem, and a reason explaining why the problem happened.
+[त्रुटि समाधान पृष्ठ](https://docs.pancakeswap.finance/help/troubleshooting) में उन त्रुटियों का संग्रह है जो उपयोगकर्ताओं को PancakeSwap का उपयोग करते समय आ सकती हैं। इसमें समस्या के साथ-साथ उसका समाधान और समस्या उत्पन्न होने का कारण भी बताया गया है।
 
-### General FAQ
+### सामान्य FAQ
 
-The [General FAQ page](https://docs.pancakeswap.finance/help/faq) answers the common questions we get from PancakeSwap users. The answers to these questions give advice, an explanation, or a link to a useful resource.
+[सामान्य FAQ पृष्ठ](https://docs.pancakeswap.finance/help/faq) PancakeSwap उपयोगकर्ताओं के आम प्रश्नों के उत्तर देता है। इन प्रश्नों के उत्तरों में सुझाव, स्पष्टीकरण या उपयोगी संसाधन का लिंक होता है।
 
-### Other Guides
+### अन्य गाइड
 
-There are also a number of guides in the help topic that will walk you through technical problems. We add guides when a problem that may be difficult to solve comes up often, so if you're having trouble be sure to check here for a guide to your problem.
+सहायता विषय में कई गाइड भी हैं जो आपको तकनीकी समस्याओं से निपटने में मार्गदर्शन करती हैं। जब कोई कठिन समस्या बार-बार आती है तो हम गाइड जोड़ते हैं, इसलिए समस्या होने पर यहाँ अवश्य देखें।
 
-## Seeking support
+## सहायता प्राप्त करना
 
-PancakeSwap doesn't have a dedicated support service. Instead, if you find yourself with a problem that has no answer here, you can ask for help on [PancakeSwap's Telegram channel](https://t.me/pancakeswap). For your safety, make sure you read the notice about scams if it's your first time on our Telegram.
+PancakeSwap के पास कोई समर्पित सहायता सेवा नहीं है। इसके बजाय, यदि आपकी कोई समस्या यहाँ नहीं मिलती, तो आप [PancakeSwap के Telegram चैनल](https://t.me/pancakeswap) पर मदद माँग सकते हैं। अपनी सुरक्षा के लिए, यदि आप पहली बार हमारे Telegram पर हैं तो स्कैम संबंधी नोटिस अवश्य पढ़ें।
 
 
 
 {% hint style="warning" %}
-**Looking for v1 Exchange?**
+**v1 Exchange ढूँढ रहे हैं?**
 
 [https://v1exchange.pancakeswap.finance/#/swap](https://v1exchange.pancakeswap.finance/#/swap)
 
-⚠️ PancakeSwap V1 Exchange was deprecated on May 2021. Go to the [V2 Exchange](https://pancakeswap.finance/swap?chainId=56) instead for better prices on most pairs.
+⚠️ PancakeSwap V1 Exchange को मई 2021 में बंद कर दिया गया था। अधिकांश जोड़ों पर बेहतर कीमत के लिए [V2 Exchange](https://pancakeswap.finance/swap?chainId=56) पर जाएँ।
 {% endhint %}

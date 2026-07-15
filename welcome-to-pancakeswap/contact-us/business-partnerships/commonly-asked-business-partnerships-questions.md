@@ -1,49 +1,49 @@
-# ❓ Commonly Asked Business Partnerships Questions
+# ❓ व्यावसायिक साझेदारी के अक्सर पूछे जाने वाले सवाल
 
-#### How long will it take to get a response?
+#### प्रतिक्रिया मिलने में कितना समय लगेगा?
 
-We aim to respond to applications within a week, but due to a large number of requests, we’re unable to respond to every single applicant. If you don’t hear back from us within two weeks of applying, try reaching out to[ @PancakeSwapBD](https://t.me/PancakeSwapBD) on Telegram, with the name of your project, your project’s website, and the date you applied.
+हम एक सप्ताह के भीतर आवेदनों का जवाब देने का प्रयास करते हैं, लेकिन बड़ी संख्या में अनुरोधों के कारण हम हर आवेदक को जवाब देने में असमर्थ हैं। यदि आवेदन के दो सप्ताह के भीतर हमारी ओर से कोई उत्तर न मिले, तो अपने प्रोजेक्ट का नाम, प्रोजेक्ट की वेबसाइट और आवेदन की तिथि के साथ Telegram पर[ @PancakeSwapBD](https://t.me/PancakeSwapBD) से संपर्क करने का प्रयास करें।
 
-#### Can I extend my Syrup Pool?
+#### क्या मैं अपना Syrup Pool बढ़ा सकता/सकती हूँ?
 
-If you’ve already got an ongoing Syrup Pool, you can extend the timeline with additional release of tokens. Contact us via your existing PancakeSwap communication channels for enquiries.
+यदि आपका पहले से चल रहा Syrup Pool है, तो आप अतिरिक्त टोकन जारी करके समयसीमा बढ़ा सकते हैं। पूछताछ के लिए अपने मौजूदा PancakeSwap संचार चैनलों के माध्यम से हमसे संपर्क करें।
 
-### Listing on the Exchange
+### एक्सचेंज पर सूचीबद्ध करना
 
-#### How can I list my token on the exchange?
+#### मैं अपना टोकन एक्सचेंज पर कैसे सूचीबद्ध करूँ?
 
-Anybody can "list" any ERC-20 / BEP-20 network token on PancakeSwap. You don't need to contact us or ask permission. You just need to [add liquidity to a liquidity pool](https://docs.pancakeswap.finance/products/pancakeswap-exchange/pancakeswap-pools) - that's it. Traders can then trade your token by entering your token's contract address.
+कोई भी व्यक्ति PancakeSwap पर किसी भी ERC-20 / BEP-20 नेटवर्क टोकन को "सूचीबद्ध" कर सकता है। आपको हमसे संपर्क करने या अनुमति माँगने की ज़रूरत नहीं है। आपको केवल [तरलता पूल में तरलता जोड़नी](https://docs.pancakeswap.finance/products/pancakeswap-exchange/pancakeswap-pools) है — बस इतना ही। इसके बाद ट्रेडर आपके टोकन का कॉन्ट्रैक्ट पता दर्ज करके आपके टोकन का व्यापार कर सकते हैं।
 
-#### How can I add my token to the default list?
+#### मैं अपने टोकन को डिफ़ॉल्ट सूची में कैसे जोड़वाऊँ?
 
-Projects hosting Farms will usually be added to the Extended token list, and other tokens chosen by the PancakeSwap core team may also be added.
+Farm होस्ट करने वाले प्रोजेक्ट आमतौर पर विस्तारित टोकन सूची में जोड़े जाते हैं, और PancakeSwap की core टीम द्वारा चुने गए अन्य टोकन भी जोड़े जा सकते हैं।
 
-We don’t take applications for the list. Users can still add your token manually by entering its contract address.
+हम सूची के लिए आवेदन स्वीकार नहीं करते। उपयोगकर्ता कॉन्ट्रैक्ट पता दर्ज करके आपका टोकन मैन्युअल रूप से जोड़ सकते हैं।
 
-#### How can I add my token's logo/icon?
+#### मैं अपने टोकन का लोगो/आइकन कैसे जोड़वाऊँ?
 
-Please add your icon to Trust Wallet’s assets repo, which PancakeSwap references:[ https://github.com/trustwallet/assets](https://github.com/trustwallet/assets)
+कृपया अपना आइकन Trust Wallet के assets repo में जोड़ें, जिसे PancakeSwap संदर्भित करता है:[ https://github.com/trustwallet/assets](https://github.com/trustwallet/assets)
 
-#### Someone made a fake copy of my token! Can you block it?
+#### किसी ने मेरे टोकन की नकली प्रति बना दी! क्या आप इसे ब्लॉक कर सकते हैं?
 
-Due to PancakeSwap’s nature as an AMM-based DEX, we’re not able to prevent the trading of any token. We recommend ensuring that your token contract is clearly visible and verifiable on your site and educating your users about how to safely trade your token.
+PancakeSwap के AMM-आधारित DEX होने की प्रकृति के कारण, हम किसी भी टोकन के व्यापार को रोकने में असमर्थ हैं। हम अनुशंसा करते हैं कि आप सुनिश्चित करें कि आपका टोकन कॉन्ट्रैक्ट आपकी साइट पर स्पष्ट रूप से दिखाई दे और सत्यापन योग्य हो, और अपने उपयोगकर्ताओं को अपने टोकन का सुरक्षित तरीके से व्यापार करने के बारे में शिक्षित करें।
 
-#### People get an error when trading my token. What can I do?
+#### लोगों को मेरे टोकन का व्यापार करते समय त्रुटि आ रही है। मैं क्या करूँ?
 
-Check our [Troubleshooting page](https://docs.pancakeswap.finance/readme/help/troubleshooting) for a list of common errors on the exchange, and how to solve them.
+एक्सचेंज पर सामान्य त्रुटियों और उनके समाधान की सूची के लिए हमारा [त्रुटि समाधान पृष्ठ](https://docs.pancakeswap.finance/readme/help/troubleshooting) देखें।
 
-#### Why are some statistics of my tokens not shown on the Info page?
+#### Info पृष्ठ पर मेरे टोकन के कुछ आँकड़े क्यों नहीं दिखते?
 
-Tokens need to be paired with a “common” token, and have a minimum amount of liquidity denominated in the “common” token for the Info page to start indexing the token pair. The statistics of the underlying token will be shown once the token pair is indexed.&#x20;
+टोकन को किसी "common" टोकन के साथ जोड़ा जाना चाहिए, और Info पृष्ठ पर टोकन जोड़े की इंडेक्सिंग शुरू होने के लिए "common" टोकन में दर्शाई न्यूनतम तरलता होनी चाहिए। टोकन जोड़े की इंडेक्सिंग होने के बाद अंतर्निहित टोकन के आँकड़े दिखने लगेंगे।&#x20;
 
-These are our liquidity requirements across the different chains:
+विभिन्न chain पर हमारी तरलता आवश्यकताएँ इस प्रकार हैं:
 
-| Chain         | Liquidity Requirement  | "Common" Tokens                                           |
+| Chain         | तरलता आवश्यकता         | "Common" Tokens                                           |
 | ------------- | ---------------------- | --------------------------------------------------------- |
 | BNB Chain     | 10 BNB                 | WBNB, USDT, BUSD, USDC, BTCB, WETH, CAKE                  |
 | Ethereum      | 5 ETH                  | WETH, DAI, USDC, USDT, WBTC, LINK, FEI, MATIC, AAVE, CAKE |
 | Base          | 1 ETH                  | USDC, cbETH, rETH, DAI, crvUSD                            |
 | opBNB         | 1 BNB                  | WBNB, USDT                                                |
-| Arbitrum      | No requirement for now | USDT, USDC, USDC.e, ARB, WBTC, DAI                        |
-| zkSync        | No requirement for now | USDT, USDC, BUSD, WBTC                                    |
-| Linea         | No requirement for now | USDC, USDT, DAI, BUSD, WBTC                               |
+| Arbitrum      | अभी कोई आवश्यकता नहीं | USDT, USDC, USDC.e, ARB, WBTC, DAI                        |
+| zkSync        | अभी कोई आवश्यकता नहीं | USDT, USDC, BUSD, WBTC                                    |
+| Linea         | अभी कोई आवश्यकता नहीं | USDC, USDT, DAI, BUSD, WBTC                               |

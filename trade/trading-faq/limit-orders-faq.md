@@ -1,61 +1,60 @@
-# FAQ
+# अक्सर पूछे जाने वाले सवाल (FAQ)
 
 {% hint style="info" %}
-Use the sidebar to quickly find the answers to your questions!
+अपने सवालों के जवाब जल्दी खोजने के लिए sidebar का उपयोग करें!
 {% endhint %}
 
-## Limit Orders and TWAP
+## Limit Orders और TWAP
 
-Please refer to FAQ provided by Orbs:
+कृपया Orbs द्वारा प्रदान किए गए FAQ देखें:
 
 [https://www.orbs.com/dtwap-and-dlimit-faq/](https://www.orbs.com/dtwap-and-dlimit-faq/)
 
-## Limit V2 (Deprecated)
+## Limit V2 (बंद)
 
-### Why I can’t find my orders?
+### मुझे अपने orders क्यों नहीं मिल रहे?
 
-V2 limit orders is now deprecated, please access using this link:
+V2 limit orders अब बंद हो गए हैं, कृपया इस लिंक का उपयोग करके एक्सेस करें:
 
 [https://pancakeswap.finance/limit-orders](https://pancakeswap.finance/limit-orders)
 
-### Why was my order not executed?
+### मेरा ऑर्डर निष्पादित क्यों नहीं हुआ?
 
-Limit orders are executed when they reach their desired price, however, due to gas fluctuations, the actual execution price might vary from the price you specified on the interface. Usually, the execution price and the desired price should be almost identical, however, if you submitted a particularly small order (\~<1000$) the execution price might be slightly higher to account for fees.&#x20;
+Limit orders उनके इच्छित मूल्य तक पहुंचने पर निष्पादित होते हैं, हालांकि, gas में उतार-चढ़ाव के कारण, वास्तविक execution price आपके द्वारा इंटरफेस पर निर्दिष्ट मूल्य से भिन्न हो सकती है। आमतौर पर, execution price और इच्छित मूल्य लगभग समान होने चाहिए, हालांकि, यदि आपने एक विशेष रूप से छोटा ऑर्डर (~<1000$) सबमिट किया है तो execution price शुल्कों के लिए account करने के लिए थोड़ी अधिक हो सकती है।&#x20;
 
-Therefore your order may not be executed because:
+इसलिए आपका ऑर्डर निष्पादित नहीं हो सकता क्योंकि:
 
-* It wasn’t possible to fill the whole order at the desired price and amount due to price impact.
-* One of the tokens in the limit order has fee on transfer (see below).
+* मूल्य प्रभाव के कारण इच्छित मूल्य और राशि पर पूरे ऑर्डर को भरना संभव नहीं था।
+* Limit order में एक टोकन में fee on transfer है (नीचे देखें)।
 
-**Before submitting an order, please consult the UI denoting the real execution price.**
+**ऑर्डर सबमिट करने से पहले, कृपया UI से वास्तविक execution price देखें।**
 
 {% hint style="info" %}
-Please note: the order history table gets the data from Subgraph and can show slightly delayed information.
+कृपया ध्यान दें: ऑर्डर इतिहास तालिका Subgraph से डेटा प्राप्त करती है और थोड़ी देरी से जानकारी दिखा सकती है।
 {% endhint %}
 
-### Can I submit a limit order for tokens with fee on transfer?
+### क्या मैं fee on transfer वाले टोकन के लिए limit order सबमिट कर सकता/सकती हूं?
 
-**No.** The tokens with a fee on transfer should not be used with limit orders. Proceed at your own risk.
+**नहीं।** Fee on transfer वाले टोकन का उपयोग limit orders के साथ नहीं किया जाना चाहिए। अपने जोखिम पर आगे बढ़ें।
 
-### How do I set slippage while using limit orders?
+### Limit orders का उपयोग करते समय मैं स्लिपेज कैसे सेट करूं?
 
-Slippage is not relevant in limit orders. You specify input amount (e.g. 1000 CAKE) and output amount (e.g. 20 BNB), Limit orders guarantee that you will receive no less than the specified output amount (20 BNB) for your input amount (1000 CAKE) if the price for the pair reaches the desired price. **Note that tokens with fee on transfer should not be used with limit orders** (read above)
+Limit orders में स्लिपेज प्रासंगिक नहीं है। आप input राशि (जैसे 1000 CAKE) और output राशि (जैसे 20 BNB) निर्दिष्ट करते हैं, Limit orders गारंटी देते हैं कि यदि जोड़ी के लिए मूल्य इच्छित मूल्य तक पहुंचता है तो आपको अपनी input राशि (1000 CAKE) के लिए निर्दिष्ट output राशि (20 BNB) से कम नहीं मिलेगा। **ध्यान दें कि fee on transfer वाले टोकन का उपयोग limit orders के साथ नहीं किया जाना चाहिए** (ऊपर पढ़ें)
 
-### The real execution price shows "never executes". What's this?
+### Real execution price "never executes" दिखाता है। यह क्या है?
 
-It basically means that you're trying to swap a very small amount of tokens therefore there are not enough tokens to be accounted for the gas fee. In general, you need to increase the amount of the "input" field to get rid of this error.&#x20;
+इसका मूल रूप से मतलब है कि आप बहुत कम मात्रा में टोकन swap करने की कोशिश कर रहे हैं इसलिए gas fee के लिए account करने के लिए पर्याप्त टोकन नहीं हैं। सामान्य तौर पर, इस त्रुटि से छुटकारा पाने के लिए आपको "input" field की राशि बढ़ानी होगी।&#x20;
 
-### Is there an expiration date for my limit orders?
+### क्या मेरे limit orders की कोई expiration date है?
 
-Open orders have an expiration date of 90 days. After your order is expired it might never be executed. Please cancel your order once expired.&#x20;
+खुले ऑर्डरों की expiration date 90 दिनों की है। आपका ऑर्डर समाप्त होने के बाद कभी निष्पादित नहीं हो सकता। कृपया समाप्त होने पर अपना ऑर्डर रद्द करें।&#x20;
 
-A customizable expiration date feature is planned for the near future.
+निकट भविष्य में एक customizable expiration date सुविधा की योजना है।
 
-### Why can’t I create limit orders below the market price?
+### मैं बाजार मूल्य से नीचे limit orders क्यों नहीं बना सकता/सकती?
 
-To sell below market price, you need **Stop Limit Orders**, not limit orders. Stop Limit Orders feature is coming soon.
+बाजार मूल्य से नीचे बेचने के लिए, आपको **Stop Limit Orders** चाहिए, limit orders नहीं। Stop Limit Orders सुविधा जल्द आ रही है।
 
-### I made an order and it is not shown in the order table or stuck at “pending” status.
+### मैंने एक ऑर्डर दिया और यह ऑर्डर तालिका में नहीं दिख रहा या "pending" स्थिति पर अटका हुआ है।
 
-The order history comes from the subgraph and therefore might show slightly delayed information. Usually, delays are no longer than a couple of minutes at worst. Please refer to the subgraph indicator at the bottom right corner of the order history table.
-
+ऑर्डर इतिहास subgraph से आता है और इसलिए थोड़ी देरी से जानकारी दिखा सकता है। आमतौर पर, देरी अधिकतम कुछ मिनटों से अधिक नहीं होती। कृपया ऑर्डर इतिहास तालिका के नीचे दाएं कोने में subgraph संकेतक देखें।

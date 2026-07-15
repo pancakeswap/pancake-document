@@ -1,106 +1,106 @@
 ---
-description: Bridge CAKE between EVM chains and Aptos
+description: EVM चेन और Aptos के बीच CAKE Bridge करें
 ---
 
-# How to Bridge - EVM <> Aptos
+# Bridge कैसे करें - EVM <> Aptos
 
-<figure><img src="../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28113%29.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-The following guide uses BNB Chain as an example of an EVM chain. The same process can be applied to Ethereum.
+निम्नलिखित गाइड में EVM चेन के उदाहरण के रूप में BNB Chain का उपयोग किया गया है। यही प्रक्रिया Ethereum पर भी लागू होती है।
 {% endhint %}
 
-## Bridge CAKE from BNB Smart Chain to Aptos
+## BNB Smart Chain से Aptos पर CAKE Bridge करें
 
-1 - Make sure your wallet supports both BNB Smart Chain and Aptos Mainnet. Or you have both of the wallets installed in your browser.
+1 - सुनिश्चित करें कि आपका वॉलेट BNB Smart Chain और Aptos Mainnet दोनों को सपोर्ट करता हो। या आपके ब्राउज़र में दोनों वॉलेट इंस्टॉल हों।
 
-Then open the [PancakeSwap CAKE Bridge](https://bridge.pancakeswap.finance/)
+फिर [PancakeSwap CAKE Bridge](https://bridge.pancakeswap.finance/) खोलें।
 
-2 - First, we need to connect our BNB Smart Chain wallet.
+2 - पहले, हमें अपना BNB Smart Chain वॉलेट कनेक्ट करना होगा।
 
-Click "Connect" and choose the wallet you prefer under the "EVM" section. Then confirm and approve in your wallet popup.
+"Connect" पर क्लिक करें और "EVM" सेक्शन के अंतर्गत अपना पसंदीदा वॉलेट चुनें। फिर अपने वॉलेट पॉपअप में पुष्टि करें और अनुमति दें।
 
-![](../../.gitbook/assets/bridging-wallet-connect-modal.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-wallet-connect-modal.png)
 
-3 - Then, we need to connect our Aptos wallet.
+3 - फिर, हमें अपना Aptos वॉलेट कनेक्ट करना होगा।
 
-In the wallet connect modal, choose the wallet you prefer under the "Aptos" section. Then confirm and approve in your wallet popup.
+वॉलेट कनेक्ट मोडल में, "Aptos" सेक्शन के अंतर्गत अपना पसंदीदा वॉलेट चुनें। फिर अपने वॉलेट पॉपअप में पुष्टि करें और अनुमति दें।
 
-![](../../.gitbook/assets/bridging-default-state.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-default-state.png)
 
-4 - Click the "v" in the upper token selection field and choose "CAKE".
+4 - ऊपरी टोकन चयन फ़ील्ड में "v" पर क्लिक करें और "CAKE" चुनें।
 
-![](../../.gitbook/assets/upper-field.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/upper-field.png)
 
-5 - Input the number of CAKE you want to bridge to Aptos.
+5 - वह CAKE की संख्या दर्ज करें जिसे आप Aptos पर Bridge करना चाहते हैं।
 
-![](../../.gitbook/assets/bridging-amount-entered.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-amount-entered.png)
 
-6 - If your Aptos wallet is freshly created and doesn't have any APT (Aptos Coin) balance. We recommend keeping the "gas on destination" option at its default. The bridge will deposit a small amount of APT to your wallet, not only to help you kickstart your journey on Aptos, but you will also need APT for gas to register and claim your bridged CAKE.
+6 - यदि आपका Aptos वॉलेट नया बना है और उसमें कोई APT (Aptos Coin) बैलेंस नहीं है। हम सुझाव देते हैं कि "gas on destination" विकल्प को उसके डिफ़ॉल्ट पर रखें। Bridge आपके वॉलेट में थोड़ी मात्रा में APT जमा करेगा — यह न केवल Aptos पर आपकी यात्रा शुरू करने में मदद करेगा, बल्कि Bridge किए गए CAKE को रजिस्टर और क्लेम करने के लिए आपको APT गैस की भी आवश्यकता होगी।
 
-Altering this option might cause bridging to fail.
+इस विकल्प को बदलने से Bridging विफल हो सकती है।
 
-![](../../.gitbook/assets/bridging-gas-on-dest.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-gas-on-dest.png)
 
-7 - Click "Transfer" to initiate the bridging transaction and confirm via the wallet confirmation pop up.
+7 - Bridging ट्रांजैक्शन शुरू करने के लिए "Transfer" पर क्लिक करें और वॉलेट कन्फर्मेशन पॉपअप के माध्यम से पुष्टि करें।
 
-Please note that depending on the condition on your BNB Smart Chain wallet and Aptos wallet. You may need to approve **multiple** wallet confirmations. For example if you are bridging CAKE to Aptos for the first time, you will need to:
+कृपया ध्यान दें कि आपके BNB Smart Chain वॉलेट और Aptos वॉलेट की स्थिति के आधार पर, आपको **एकाधिक** वॉलेट कन्फर्मेशन की आवश्यकता हो सकती है। उदाहरण के लिए, यदि आप पहली बार Aptos पर CAKE Bridge कर रहे हैं, तो आपको:
 
-* Approve CAKE spending on the bridging contract (coming from your BNB Smart Chain wallet)
-* Register CAKE (coming from your Aptos wallet)
+* Bridging कॉन्ट्रैक्ट पर CAKE खर्च की अनुमति देनी होगी (आपके BNB Smart Chain वॉलेट से)
+* CAKE रजिस्टर करना होगा (आपके Aptos वॉलेट से)
 
-For more detail please check out [this breakdown](aptos.md#bridging-cake-to-aptos-for-the-first-time).
+अधिक जानकारी के लिए कृपया [यह विवरण](aptos.md#bridging-cake-to-aptos-for-the-first-time) देखें।
 
-8 - Sit back and relax. It should only take a few minutes. Once the bridging is complete, CAKE will be deposited into your Aptos wallet. You can track the progress by the progress bar.
+8 - आराम से प्रतीक्षा करें। इसमें केवल कुछ मिनट लगने चाहिए। Bridging पूरी होने के बाद, CAKE आपके Aptos वॉलेट में जमा हो जाएगा। आप प्रोग्रेस बार से प्रगति ट्रैक कर सकते हैं।
 
-![](../../.gitbook/assets/bridging-complete-half.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-complete-half.png)
 
-## Bridging CAKE to Aptos for the First Time
+## पहली बार Aptos पर CAKE Bridge करना
 
-Bridging CAKE to Aptos wallets requires registration and claim transactions. This is done to enhance user security and is unique to Aptos.
+Aptos वॉलेट पर CAKE Bridge करने के लिए रजिस्ट्रेशन और क्लेम ट्रांजैक्शन की आवश्यकता होती है। यह उपयोगकर्ता सुरक्षा बढ़ाने के लिए किया जाता है और Aptos के लिए विशिष्ट है।
 
-### **If you already have APT (Aptos Coin) in your wallet:**
+### **यदि आपके वॉलेट में पहले से APT (Aptos Coin) है:**
 
-You’ll be prompted to register CAKE on your Aptos wallet if it’s not registered yet. No additional claim transaction is needed in this case.
+यदि आपके Aptos वॉलेट में CAKE अभी तक रजिस्टर नहीं है, तो आपसे उसे रजिस्टर करने के लिए कहा जाएगा। इस स्थिति में कोई अतिरिक्त क्लेम ट्रांजैक्शन की आवश्यकता नहीं है।
 
-### **If you don’t have APT (Aptos Coin) in your wallet:**
+### **यदि आपके वॉलेट में APT (Aptos Coin) नहीं है:**
 
-After the bridge transaction completes, you’ll need to manually claim your CAKE. To cover the gas fees for claiming, APT tokens will be sent to your Aptos wallet from your source wallet.
+Bridge ट्रांजैक्शन पूरी होने के बाद, आपको अपना CAKE मैन्युअल रूप से क्लेम करना होगा। क्लेम करने के लिए गैस शुल्क को कवर करने हेतु, आपके स्रोत वॉलेट से आपके Aptos वॉलेट में APT टोकन भेजे जाएंगे।
 
-These registration and claim steps only apply the first time you interact with a token on Aptos. Subsequent transfers of the same token won’t require these actions.
+ये रजिस्ट्रेशन और क्लेम चरण केवल पहली बार Aptos पर किसी टोकन के साथ इंटरैक्ट करने पर लागू होते हैं। उसी टोकन के बाद के ट्रांसफर में इन चरणों की आवश्यकता नहीं होगी।
 
-Before bridging CAKE to Aptos for the first time, ensure your Aptos address has enough APT for gas fees. For more details, check out Aptos’s explanation here: [https://theaptosbridge.com/faq#registering-claiming-assets](https://theaptosbridge.com/faq#registering-claiming-assets)
+पहली बार Aptos पर CAKE Bridge करने से पहले, सुनिश्चित करें कि आपके Aptos पते पर गैस शुल्क के लिए पर्याप्त APT हो। अधिक जानकारी के लिए, Aptos का यह विवरण देखें: [https://theaptosbridge.com/faq#registering-claiming-assets](https://theaptosbridge.com/faq#registering-claiming-assets)
 
-## Bridge CAKE from Aptos to BNB Smart Chain
+## Aptos से BNB Smart Chain पर CAKE Bridge करें
 
-1 - Make sure your wallet supports both BNB Smart Chain and Aptos Mainnet. Or you have both of the wallets installed in your browser.
+1 - सुनिश्चित करें कि आपका वॉलेट BNB Smart Chain और Aptos Mainnet दोनों को सपोर्ट करता हो। या आपके ब्राउज़र में दोनों वॉलेट इंस्टॉल हों।
 
-Then open the [PancakeSwap CAKE Bridge](https://bridge.pancakeswap.finance/)
+फिर [PancakeSwap CAKE Bridge](https://bridge.pancakeswap.finance/) खोलें।
 
-2 - First, we need to connect our BNB Smart Chain wallet.
+2 - पहले, हमें अपना BNB Smart Chain वॉलेट कनेक्ट करना होगा।
 
-Click "Connect" and choose the wallet you prefer under the "EVM" section. Then confirm and approve in your wallet popup.
+"Connect" पर क्लिक करें और "EVM" सेक्शन के अंतर्गत अपना पसंदीदा वॉलेट चुनें। फिर अपने वॉलेट पॉपअप में पुष्टि करें और अनुमति दें।
 
-![](../../.gitbook/assets/bridging-wallet-connect-modal.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-wallet-connect-modal.png)
 
-3 - Then, we need to connect our Aptos wallet.
+3 - फिर, हमें अपना Aptos वॉलेट कनेक्ट करना होगा।
 
-In the wallet connect modal, choose the wallet you prefer under the "Aptos" section. Then confirm and approve in your wallet popup.
+वॉलेट कनेक्ट मोडल में, "Aptos" सेक्शन के अंतर्गत अपना पसंदीदा वॉलेट चुनें। फिर अपने वॉलेट पॉपअप में पुष्टि करें और अनुमति दें।
 
-![](../../.gitbook/assets/bridging-default-state.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-default-state.png)
 
-4 - Click the "v" in the upper token selection field and choose "CAKE". Then click the double arrow button in the middle of the page to flip the direction of the bridging.
+4 - ऊपरी टोकन चयन फ़ील्ड में "v" पर क्लिक करें और "CAKE" चुनें। फिर Bridging की दिशा पलटने के लिए पृष्ठ के बीच में दोहरे तीर बटन पर क्लिक करें।
 
-Please make sure the "Aptos" network is in the upper field.
+कृपया सुनिश्चित करें कि ऊपरी फ़ील्ड में "Aptos" नेटवर्क हो।
 
-![](../../.gitbook/assets/upper-field-aptos.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/upper-field-aptos.png)
 
-5 - Input the number of CAKE you want to bridge to BNB Smart Chain.
+5 - वह CAKE की संख्या दर्ज करें जिसे आप BNB Smart Chain पर Bridge करना चाहते हैं।
 
-![](../../.gitbook/assets/bridging-aptos-to-bsc-with-amount.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bridging-aptos-to-bsc-with-amount.png)
 
-6 - If your BNB Smart Chain wallet is freshly created and doesn't have any BNB (gas token) balance. We recommend keeping the "gas on destination" option at its default. The bridge will deposit a small amount of BNB into your wallet. It will help you kickstart your journey on BNB Smart Chain and explore the vivid PancakeSwap ecosystem.
+6 - यदि आपका BNB Smart Chain वॉलेट नया बना है और उसमें कोई BNB (गैस टोकन) बैलेंस नहीं है। हम सुझाव देते हैं कि "gas on destination" विकल्प को उसके डिफ़ॉल्ट पर रखें। Bridge आपके वॉलेट में थोड़ी मात्रा में BNB जमा करेगा। यह BNB Smart Chain पर आपकी यात्रा शुरू करने और जीवंत PancakeSwap इकोसिस्टम को एक्सप्लोर करने में मदद करेगा।
 
-7 - Click "Transfer" and approve the transactions from your wallet popup.
+7 - "Transfer" पर क्लिक करें और अपने वॉलेट पॉपअप से ट्रांजैक्शन को अनुमति दें।
 
-8 - Sit back and relax. It should only take a few minutes. Once the bridging is complete, CAKE will be deposited into your BNB Smart Chain wallet. You can track the progress by the progress bar.
+8 - आराम से प्रतीक्षा करें। इसमें केवल कुछ मिनट लगने चाहिए। Bridging पूरी होने के बाद, CAKE आपके BNB Smart Chain वॉलेट में जमा हो जाएगा। आप प्रोग्रेस बार से प्रगति ट्रैक कर सकते हैं।

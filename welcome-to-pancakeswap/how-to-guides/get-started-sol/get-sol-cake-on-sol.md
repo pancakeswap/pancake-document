@@ -1,95 +1,94 @@
-# Get SOL / CAKE on SOL
+# SOL / CAKE प्राप्त करें (SOL पर)
 
-### 1. **Why You Need SOL**
+### 1. **SOL की आवश्यकता क्यों है**
 
-SOL is the **native token** of the Solana blockchain. You’ll need it to:
+SOL Solana ब्लॉकचेन का **नेटिव टोकन** है। आपको इसकी ज़रूरत होगी:
 
-* **Pay gas fees** for any transaction (swaps, adding liquidity etc.)
-* **Create and manage V3 positions** on PancakeSwap
-* **Interact with any Solana dApp**
+* किसी भी ट्रांजेक्शन (स्वैप, तरलता जोड़ना आदि) के लिए **गैस शुल्क देने** हेतु
+* PancakeSwap पर **V3 पोजीशन बनाने और प्रबंधित करने** के लिए
+* **किसी भी Solana dApp के साथ इंटरैक्ट** करने के लिए
 
-Think of SOL as the "fuel" that powers all actions on the Solana network — just like ETH on Ethereum or BNB on BNB Smart Chain. Without SOL in your wallet, you won’t be able to do anything on-chain, even if you already hold other tokens.
+SOL को Solana नेटवर्क पर सभी क्रियाओं को शक्ति देने वाले "ईंधन" के रूप में सोचें — जैसे Ethereum पर ETH या BNB Smart Chain पर BNB। आपके वॉलेट में SOL के बिना, आप ऑन-चेन कुछ भी नहीं कर पाएंगे, भले ही आपके पास अन्य टोकन हों।
 
 ***
 
-### 2. **Main Ways to Get SOL**
+### 2. **SOL प्राप्त करने के मुख्य तरीके**
 
-There are **four main ways** to get SOL, depending on your starting point and preferences.
+SOL प्राप्त करने के **चार मुख्य तरीके** हैं, आपके शुरुआती बिंदु और पसंद के आधार पर।
 
-| Method                           | Best for                                            | Requires a Wallet?      | Notes                               |
+| तरीका                           | सर्वश्रेष्ठ                                            | वॉलेट आवश्यक?      | नोट                               |
 | -------------------------------- | --------------------------------------------------- | ----------------------- | ----------------------------------- |
-| **Centralized Exchanges (CEXs)** | Beginners or users buying with fiat                 | ✅ Yes (to access dApps) | Most common entry point             |
-| **PancakeSwap (DEX)**            | DeFi-native users with tokens already on Solana     | ✅ Yes                   | Swap into SOL directly              |
-| **Buy via Wallet App**           | Mobile-first users                                  | ✅ Yes                   | Some wallets offer in-app purchases |
-| **Bridge from Another Chain**    | Users with funds on Ethereum, BNB Chain, Base, etc. | ✅ Yes                   | Bring assets over to Solana         |
+| **केंद्रीकृत एक्सचेंज (CEXs)** | शुरुआती या फिएट से खरीदने वाले उपयोगकर्ता                 | ✅ हाँ (dApps तक पहुँचने के लिए) | सबसे सामान्य प्रवेश बिंदु             |
+| **PancakeSwap (DEX)**            | Solana पर पहले से टोकन रखने वाले DeFi-नेटिव उपयोगकर्ता     | ✅ हाँ                   | सीधे SOL में स्वैप करें              |
+| **वॉलेट ऐप से खरीदें**           | मोबाइल-प्रथम उपयोगकर्ता                                  | ✅ हाँ                   | कुछ वॉलेट इन-ऐप खरीदारी की सुविधा देते हैं |
+| **किसी अन्य चेन से ब्रिज करें**    | Ethereum, BNB Chain, Base आदि पर फंड रखने वाले उपयोगकर्ता | ✅ हाँ                   | Solana पर एसेट लाएं         |
 
-Let’s go through them:
+आइए उनके बारे में जानें:
 
-#### I. **Buy SOL from a Centralised Exchange (CEX)**
+#### I. **केंद्रीकृत एक्सचेंज (CEX) से SOL खरीदें**
 
-If you're new to crypto or don’t yet have a wallet, buying SOL from a **major exchange** is the most straightforward option.
+यदि आप क्रिप्टो में नए हैं या आपके पास अभी तक वॉलेट नहीं है, तो **प्रमुख एक्सचेंज** से SOL खरीदना सबसे सीधा विकल्प है।
 
-#### ✅ What you do:
+#### ✅ आप क्या करें:
 
-1. **Create an account** on a centralised exchange (e.g., Binance).
-2. **Buy SOL** using fiat (USD, EUR, etc.) or other cryptocurrencies.
-3. **Withdraw SOL** to your **self-custodial Solana wallet** (e.g. Phantom) to interact with dApps like PancakeSwap.
+1. एक केंद्रीकृत एक्सचेंज (जैसे, Binance) पर **अकाउंट बनाएं**।
+2. फिएट (USD, EUR, आदि) या अन्य क्रिप्टोकरेंसी का उपयोग करके **SOL खरीदें**।
+3. PancakeSwap जैसे dApps के साथ इंटरैक्ट करने के लिए अपने **सेल्फ-कस्टोडियल Solana वॉलेट** (जैसे Phantom) पर **SOL निकालें**।
 
 ***
 
-#### II. **Swap for SOL / CAKE on PancakeSwap (DEX)**
+#### II. **PancakeSwap (DEX) पर SOL / CAKE के लिए स्वैप करें**
 
-Already using Solana? If you have tokens like **USDC** or **USDT** on the Solana network, you can swap them directly for SOL / CAKE using **PancakeSwap**.
+क्या आप पहले से Solana का उपयोग कर रहे हैं? यदि आपके पास Solana नेटवर्क पर **USDC** या **USDT** जैसे टोकन हैं, तो आप **PancakeSwap** का उपयोग करके उन्हें सीधे SOL / CAKE के लिए स्वैप कर सकते हैं।
 
 {% hint style="success" %}
-$**CAKE is now live on Solana - Token Address:** `4qQeZ5LwSz6HuupUu8jCtgXyW1mYQcNbFAW1sWZp89HL`
+$**CAKE अब Solana पर लाइव है - Token Address:** `4qQeZ5LwSz6HuupUu8jCtgXyW1mYQcNbFAW1sWZp89HL`
 {% endhint %}
 
-#### ✅ What you do:
+#### ✅ आप क्या करें:
 
-* Connect your wallet on Solana to PancakeSwap.
-* Go to the **Swap** page.
-* Swap your Solana-based token into SOL.
+* PancakeSwap से अपना Solana वॉलेट कनेक्ट करें।
+* **Swap** पेज पर जाएं।
+* अपने Solana-आधारित टोकन को SOL में स्वैप करें।
 
-> 🧠 Note: You’ll still need a small amount of SOL to pay for the swap itself. If you have zero SOL, use the CEX or bridge method first.
-
-***
-
-#### III. **Buy SOL Directly From a Wallet App**
-
-Some wallets support **in-app crypto purchases** using Apple Pay, Google Pay, credit card, or other providers like MoonPay.&#x20;
-
-#### ✅ What you do:
-
-1. Open your wallet.
-2. Tap "Buy" or "Buy Crypto".
-3. Select **SOL**.
-4. Choose your payment method and follow the steps.
-
-This is a user-friendly option for mobile-first users who want to skip setting up an exchange account.
+> 🧠 नोट: स्वैप के लिए आपको अभी भी थोड़ी मात्रा में SOL की आवश्यकता होगी। यदि आपके पास शून्य SOL है, तो पहले CEX या ब्रिज तरीके का उपयोग करें।
 
 ***
 
-#### IV. **Bridge SOL / CAKE from Another Blockchain**
+#### III. **वॉलेट ऐप से सीधे SOL खरीदें**
 
-Already have tokens on a different chain like **BNB Chain**, **Ethereum**, or **Base**? You can bring funds over to Solana using **bridging platforms**.
+कुछ वॉलेट Apple Pay, Google Pay, क्रेडिट कार्ड, या MoonPay जैसे अन्य प्रदाताओं का उपयोग करके **इन-ऐप क्रिप्टो खरीदारी** का समर्थन करते हैं।
 
-#### ✅ What you do:
+#### ✅ आप क्या करें:
 
-1. Visit Pancakeswap's bridging site [https://pancakeswap.finance/bridge](https://pancakeswap.finance/bridge) or 3rd party bridging sites like: [https://stargate.finance/](https://stargate.finance/)
-2. Select your token and the chain you’re sending from.
-3. Choose **Solana** as your destination.
-4. Complete the bridge and receive the bridged token in your Solana wallet.
-5. Swap that token into **SOL** using PancakeSwap.
+1. अपना वॉलेट खोलें।
+2. "Buy" या "Buy Crypto" पर टैप करें।
+3. **SOL** चुनें।
+4. अपना भुगतान तरीका चुनें और चरणों का पालन करें।
 
-> 💡 Tips
+यह मोबाइल-प्रथम उपयोगकर्ताओं के लिए एक सुविधाजनक विकल्प है जो एक्सचेंज अकाउंट सेट करने से बचना चाहते हैं।
+
+***
+
+#### IV. **किसी अन्य ब्लॉकचेन से SOL / CAKE ब्रिज करें**
+
+क्या आपके पास **BNB Chain**, **Ethereum**, या **Base** जैसी किसी अलग चेन पर पहले से टोकन हैं? आप **ब्रिजिंग प्लेटफ़ॉर्म** का उपयोग करके Solana पर फंड ला सकते हैं।
+
+#### ✅ आप क्या करें:
+
+1. PancakeSwap की ब्रिजिंग साइट [https://pancakeswap.finance/bridge](https://pancakeswap.finance/bridge) पर जाएं या तृतीय पक्ष ब्रिजिंग साइट जैसे: [https://stargate.finance/](https://stargate.finance/)
+2. अपना टोकन और जिस चेन से भेज रहे हैं उसे चुनें।
+3. अपने गंतव्य के रूप में **Solana** चुनें।
+4. ब्रिज पूरा करें और अपने Solana वॉलेट में ब्रिज किया गया टोकन प्राप्त करें।
+5. PancakeSwap का उपयोग करके उस टोकन को **SOL** में स्वैप करें।
+
+> 💡 सुझाव
 >
-> 1. CAKE is now available for direct bridging via Stargate, LayerZero and deBridge
-> 2. You’ll need SOL to cover gas fees once you're on Solana. If you bridged USDC or similar, use PancakeSwap to convert a portion into SOL.
+> 1. CAKE अब Stargate, LayerZero और deBridge के माध्यम से सीधे ब्रिजिंग के लिए उपलब्ध है
+> 2. Solana पर पहुँचने के बाद गैस शुल्क कवर करने के लिए आपको SOL की आवश्यकता होगी। यदि आपने USDC या इसी तरह ब्रिज किया है, तो एक हिस्से को SOL में बदलने के लिए PancakeSwap का उपयोग करें।
 
 ***
 
-### 3. **Final Tip**
+### 3. **अंतिम सुझाव**
 
-Every Solana action — from swapping to providing liquidity — **requires SOL for gas**. Always keep a little SOL in your wallet after each transaction to avoid getting stuck.
-
+Solana की हर क्रिया — स्वैप करने से लेकर तरलता प्रदान करने तक — **गैस के लिए SOL की आवश्यकता होती है**। फंसने से बचने के लिए प्रत्येक ट्रांजेक्शन के बाद अपने वॉलेट में थोड़ा SOL हमेशा रखें।

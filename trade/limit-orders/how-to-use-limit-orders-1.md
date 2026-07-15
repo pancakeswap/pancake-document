@@ -1,83 +1,83 @@
-# How to use Limit Orders
+# Limit Orders का उपयोग कैसे करें
 
-Fee-earning limit orders on PancakeSwap work differently from traditional limit orders. When a user places a limit order, they are effectively providing **one-sided liquidity** to a PancakeSwap Infinity pool.
+PancakeSwap पर Fee-earning limit orders पारंपरिक limit orders से अलग तरीके से काम करते हैं। जब कोई उपयोगकर्ता limit order देता है, तो वे प्रभावी रूप से एक PancakeSwap Infinity pool को **एकतरफा तरलता** प्रदान कर रहे होते हैं।
 
-As the market price moves, swaps in the pool can use the user’s liquidity. When this happens, the deposited tokens are fully converted into the output tokens, and the user receives:
+जैसे-जैसे बाजार मूल्य बदलता है, pool में swap उपयोगकर्ता की तरलता का उपयोग कर सकते हैं। ऐसा होने पर, जमा किए गए टोकन पूरी तरह output टोकन में परिवर्तित हो जाते हैं, और उपयोगकर्ता को प्राप्त होता है:
 
-* The output tokens, and
-* The trading fees earned from swaps executed against their liquidity.
-
-***
-
-**Example: Selling BNB for USDT**
-
-* **Current price in BNB/USDT pool:** 600 USDT per BNB
-* **User’s target / limit price:** 700 USDT per BNB
-
-Process:
-
-1. The user sets a limit order to sell BNB at 700 USDT.
-2. Their BNB is deposited into the tick closest to price 700 USDT per BNB in the pool.
-3. When the external market price reaches 700 USDT, the pool price adjusts to match (due to arbitrage opportunities / better pricing).
-4. At that point, the user’s BNB is swapped into USDT.
-5. During this process, the user earns fees from each swap that consumes their liquidity.
-6. Once the liquidity is fully consumed, the converted USDT (plus fees) is automatically withdrawn and sent to the user’s wallet.
+* Output टोकन, और
+* उनकी तरलता के विरुद्ध निष्पादित swap से अर्जित trading fees।
 
 ***
 
-### Step-by-step guide
+**उदाहरण: USDT के लिए BNB बेचना**
 
-Choose a token pair (e.g., BNB/CAKE) and amount you would like to sell / buy
+* **BNB/USDT pool में वर्तमान मूल्य:** 600 USDT प्रति BNB
+* **उपयोगकर्ता का लक्षित / limit price:** 700 USDT प्रति BNB
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-09-28 at 11.07.07 AM.png" alt="" width="375"><figcaption></figcaption></figure>
+प्रक्रिया:
 
-Set your target / limit price
+1. उपयोगकर्ता 700 USDT पर BNB बेचने के लिए limit order सेट करता/करती है।
+2. उनका BNB pool में 700 USDT प्रति BNB के सबसे करीब के tick पर जमा किया जाता है।
+3. जब बाहरी बाजार मूल्य 700 USDT तक पहुंचता है, तो pool की कीमत मेल खाने के लिए समायोजित होती है (arbitrage अवसरों / बेहतर मूल्य निर्धारण के कारण)।
+4. उस बिंदु पर, उपयोगकर्ता का BNB USDT में स्वैप हो जाता है।
+5. इस प्रक्रिया के दौरान, उपयोगकर्ता प्रत्येक swap से शुल्क अर्जित करता/करती है जो उनकी तरलता का उपभोग करता है।
+6. एक बार तरलता पूरी तरह उपभोग हो जाने पर, परिवर्तित USDT (plus fees) स्वचालित रूप से निकाल लिया जाता है और उपयोगकर्ता के वॉलेट में भेज दिया जाता है।
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-09-28 at 11.07.35 AM.png" alt="" width="375"><figcaption></figcaption></figure>
+***
 
-Place the limit order and “Confirm”. Liquidity is placed on your behalf at the tick closest to limit price
+### चरण-दर-चरण गाइड
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-09-28 at 11.08.49 AM.png" alt="" width="375"><figcaption></figcaption></figure>
+एक टोकन जोड़ी (जैसे, BNB/CAKE) और वह मात्रा चुनें जो आप बेचना/खरीदना चाहते हैं।
 
-Once the pool price hits your target, your order executes. Desired output tokens + fees are automatically withdrawn and sent to your wallet.
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%2011.07.07%20AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-09-28 at 1.01.47 PM.png" alt="" width="370"><figcaption></figcaption></figure>
+अपना लक्षित / limit price सेट करें।
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%2011.07.35%20AM.png" alt="" width="375"><figcaption></figcaption></figure>
+
+Limit order दें और "Confirm" करें। आपकी ओर से limit price के सबसे करीब के tick पर तरलता रखी जाती है।
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%2011.08.49%20AM.png" alt="" width="375"><figcaption></figcaption></figure>
+
+एक बार जब pool की कीमत आपके लक्ष्य तक पहुंचती है, तो आपका ऑर्डर निष्पादित होता है। वांछित output टोकन + शुल्क स्वचालित रूप से निकाले जाते हैं और आपके वॉलेट में भेजे जाते हैं।
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%201.01.47%20PM.png" alt="" width="370"><figcaption></figcaption></figure>
 
 
 
-### Order Status
+### ऑर्डर स्थिति
 
-You can view your order status by clicking here
+आप यहां क्लिक करके अपनी ऑर्डर स्थिति देख सकते हैं।
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-09-28 at 2.12.50 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%202.12.50%20PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-**Your order can be in one of the following states:**
+**आपका ऑर्डर निम्नलिखित स्थितियों में से किसी एक में हो सकता है:**
 
-| Status           | Description                                                                              |
+| स्थिति           | विवरण                                                                              |
 | ---------------- | ---------------------------------------------------------------------------------------- |
-| Pending          | Waiting for price to reach your target                                                   |
-| Filled           | Order executed and funds sent to your wallet                                             |
-| Partially Filled | Only part of your order is executed. You’ll hold both tokens (e.g., part BNB, part USDT) |
-| Cancelled        | You cancelled the order. All your funds are returned to you                              |
+| Pending          | आपके लक्ष्य तक पहुंचने के लिए मूल्य की प्रतीक्षा                                                   |
+| Filled           | ऑर्डर निष्पादित और फंड आपके वॉलेट में भेजे गए                                             |
+| Partially Filled | आपके ऑर्डर का केवल एक भाग निष्पादित हुआ। आप दोनों टोकन रखेंगे (जैसे, आंशिक BNB, आंशिक USDT) |
+| Cancelled        | आपने ऑर्डर रद्द किया। आपके सभी फंड आपको वापस कर दिए गए                              |
 
-### FAQs
+### अक्सर पूछे जाने वाले सवाल (FAQ)
 
-**Q: Do I need to pay fees to place a limit order?**
+**प्र: क्या मुझे limit order देने के लिए शुल्क देना होगा?**
 
-A: No. Instead, you earn 0.1% in trading fees when your order executes.
+उ: नहीं। बल्कि, आपका ऑर्डर निष्पादित होने पर आप 0.1% trading fees अर्जित करते हैं।
 
-**Q: Can I place orders for any pair?**
+**प्र: क्या मैं किसी भी जोड़ी के लिए ऑर्डर दे सकता/सकती हूं?**
 
-A: At launch, only selected pairs are supported. More pairs will be added later.
+उ: लॉन्च पर, केवल चुनी हुई जोड़ियां समर्थित हैं। बाद में और अधिक जोड़ियां जोड़ी जाएंगी।
 
-**Q: What’s the minimum order size?**
+**प्र: न्यूनतम ऑर्डर आकार क्या है?**
 
-A: $50. This prevents tiny orders that could result in excess gas.&#x20;
+उ: $50। यह छोटे ऑर्डरों को रोकता है जिसके परिणामस्वरूप अत्यधिक gas हो सकती है।&#x20;
 
-**Q: What happens if only part of my order is filled?**
+**प्र: यदि मेरे ऑर्डर का केवल एक भाग भरा जाए तो क्या होगा?**
 
-A: You’ll hold both tokens. You can cancel anytime and withdraw both tokens plus earned fees.
+उ: आप दोनों टोकन रखेंगे। आप किसी भी समय रद्द कर सकते हैं और दोनों टोकन plus अर्जित शुल्क निकाल सकते हैं।
 
-**Q: My order is filled but I haven't received funds yet in my wallet?**
+**प्र: मेरा ऑर्डर भरा गया है लेकिन मुझे अभी तक मेरे वॉलेट में फंड नहीं मिला?**
 
-A: In very rare scenarios this could happen but your funds are always safe. Just use the "Withdraw" button in the order details UI to claim the funds manually.
+उ: बहुत दुर्लभ परिदृश्यों में ऐसा हो सकता है लेकिन आपके फंड हमेशा सुरक्षित हैं। फंड मैन्युअल रूप से दावा करने के लिए ऑर्डर विवरण UI में "Withdraw" बटन का उपयोग करें।

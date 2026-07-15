@@ -1,8 +1,8 @@
 # MADBTCUSD FAQ
 
-### How is MADBTCUSD Index Calculated?
+### MADBTCUSD Index की गणना कैसे की जाती है?
 
-MADBTCUSD is calculated based on the following formula:
+MADBTCUSD की गणना निम्नलिखित सूत्र के आधार पर की जाती है:
 
 **MADBTCUSD Index**
 
@@ -20,14 +20,14 @@ $$
 
 
 
-where:
+जहां:
 
 * Initial Sn=1000 &#x20;
 * dt=1
-* expected vol：100%(expected vol is the expected time volatility of the MADBTC)
-* the "**Random number**" is calculated based on the current **BTC price with 8 decimal places of precision**
+* expected vol：100%(expected vol MADBTC की अपेक्षित समय अस्थिरता है)
+* "**यादृच्छिक संख्या**" की गणना **8 दशमलव स्थानों की सटीकता के साथ वर्तमान BTC मूल्य** के आधार पर की जाती है
 
-**Calculation of Random Number:**
+**यादृच्छिक संख्या की गणना:**
 
 ```python
 import hashlib
@@ -51,18 +51,18 @@ random_number = hash_integer / 4294967296
 print(random_number)
 ```
 
-If the random number determined is 0, it will be recalculated again
+यदि निर्धारित यादृच्छिक संख्या 0 है, तो इसे फिर से गणना की जाएगी
 
-### Where can I cross-verify the BTC and MADBTCUSD historical price?
+### मैं BTC और MADBTCUSD ऐतिहासिक मूल्य को क्रॉस-वेरीफाई कहां कर सकता/सकती हूं?
 
-The BTC and MADBTCUSD price feed can be found here:
+BTC और MADBTCUSD मूल्य फ़ीड यहां पाई जा सकती है:
 
 [BTCUSD](https://www.apollox.finance/bapi/futures/v1/public/future/apx/V2MarkPriceKline?symbol=BTCUSD\&limit=1800)
 
 [MADBTCUSD](https://www.apollox.finance/bapi/futures/v1/public/future/apx/V2MarkPriceKline?symbol=MADBTCUSD\&limit=1800)
 
-### Historical backtest data of BTC & MADBTC
+### BTC & MADBTC का ऐतिहासिक backtest डेटा
 
-To cross-verify the BTC & MADBTC historical prices, we've provided a backtest graph below.&#x20;
+BTC & MADBTC ऐतिहासिक मूल्यों को क्रॉस-वेरीफाई करने के लिए, हमने नीचे एक backtest graph प्रदान किया है।&#x20;
 
-<figure><img src="../../../../.gitbook/assets/photo_2023-10-26_19-24-40.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/photo_2023-10-26_19-24-40.jpg" alt=""><figcaption></figcaption></figure>

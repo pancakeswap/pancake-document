@@ -1,66 +1,66 @@
-# How to Vote
+# Vote कैसे करें
 
-![](../../../.gitbook/assets/how-to-voting-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-voting-header.png)
 
-Participating in governance voting is easy, and it is absolutely **FREE**. You don't even need to pay gas fees! Learn more about how to vote, catch the next proposal and cast your vote.
+Governance voting में भाग लेना आसान है, और यह बिल्कुल **मुफ़्त** है। आपको गैस शुल्क भी नहीं देना है! जानें कि vote कैसे करें, अगला proposal कैसे पकड़ें और अपना vote कैसे डालें।
 
-### How to vote
+### Vote कैसे करें
 
-#### Navigate to the vote proposal
+#### Vote proposal पर navigate करें
 
-Whenever we publish a new proposal, we always attach the link to the voting page. So be sure to follow [our social channels](../../../welcome-to-pancakeswap/contact-us/social-accounts.md) for the news and updates.
+जब भी हम एक नया proposal publish करते हैं, हम हमेशा voting page का लिंक attach करते हैं। इसलिए news और updates के लिए [हमारे social channels](../../../welcome-to-pancakeswap/contact-us/social-accounts.md) का अनुसरण करना सुनिश्चित करें।
 
-Alternatively, you can visit [PancakeSwap's native voting portal](https://voting.pancakeswap.finance/?_gl=1*pc8o0h*_ga*MTUzNDEzNDQxMy4xNjAwNzkzNDM4*_ga_334KNG3DMQ*MTYwNDMwMTk4Ni42MC4xLjE2MDQzMDM3MDIuMA..#/)[ ](https://pancakeswap.finance/voting)to browse the proposals in a list. If you don't see the proposal, it may be in the "soon" tab.
+वैकल्पिक रूप से, आप proposals की list browse करने के लिए [PancakeSwap के native voting portal](https://voting.pancakeswap.finance/?_gl=1*pc8o0h*_ga*MTUzNDEzNDQxMy4xNjAwNzkzNDM4*_ga_334KNG3DMQ*MTYwNDMwMTk4Ni42MC4xLjE2MDQzMDM3MDIuMA..#/) पर जा सकते हैं। यदि आपको proposal नहीं दिखता, तो यह "soon" tab में हो सकता है।
 
-#### Read and pick the choice to vote
+#### पढ़ें और vote करने के लिए choice चुनें
 
-![the proposal page](../../../.gitbook/assets/how-to-vote-1.png)
+![the proposal page](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-vote-1.png)
 
-On the proposal page. You will find:
+Proposal page पर आपको मिलेगा:
 
-* The content of the proposal
-* The choices to vote
-* The detail of the proposal such as snapshot block and voting window
-* The latest voting result
-* The list of votes
+* Proposal की content
+* Vote करने के लिए choices
+* Proposal का विवरण जैसे snapshot block और voting window
+* नवीनतम voting result
+* Votes की list
 
-Read the proposal carefully and click the choice you want to vote on.
+Proposal को ध्यान से पढ़ें और जिस choice पर vote करना चाहते हैं उस पर क्लिक करें।
 
-![](../../../.gitbook/assets/how-to-vote-2.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-vote-2.png)
 
-#### Confirm and cast your vote
+#### Confirm करें और अपना vote डालें
 
-![](../../../.gitbook/assets/how-to-vote-6.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-vote-6.png)
 
-Confirm all the details and click "Confirm Vote", then confirm in your wallet to sign the message.
+सभी details confirm करें और "Confirm Vote" पर क्लिक करें, फिर message sign करने के लिए अपने wallet में confirm करें।
 
-Done, you just successfully cast your vote.
+बस, आपने सफलतापूर्वक अपना vote डाल दिया।
 
-### How to check the details
+### Details कैसे जांचें
 
 {% tabs %}
-{% tab title="Check the voting power" %}
-Before casting your vote, you will see a "Confirm Vote" window.
+{% tab title="Voting power जांचें" %}
+अपना vote डालने से पहले, आपको एक "Confirm Vote" window दिखेगी।
 
-<figure><img src="../../../.gitbook/assets/cc 2025-05-15T13_38_57.460Z.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/cc%202025-05-15T13_38_57.460Z.png" alt="" width="188"><figcaption></figcaption></figure>
 
-In this window, you will be able to view the following items:
+इस window में, आप निम्नलिखित items देख सकेंगे:
 
-* The choice you picked
-* Your voting power
+* आपने जो choice चुनी है
+* आपकी voting power
 
-Your voting power is equal to your CAKE balance at the snapshot block.
+आपकी voting power snapshot block पर आपकी CAKE balance के बराबर है।
 {% endtab %}
 
-{% tab title="Check the snapshot block" %}
-**Check the snapshot block**
+{% tab title="Snapshot block जांचें" %}
+**Snapshot block जांचें**
 
-![](../../../.gitbook/assets/how-to-vote-3.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-vote-3.png)
 
-Voting power is calculated based on a snapshot taken on the snapshot block. Therefore, purchasing or depositing more CAKE after the proposal is posted is not going to increase the voting power for that particular proposal.
+Voting power snapshot block पर लिए गए snapshot के आधार पर calculate की जाती है। इसलिए, proposal post होने के बाद अधिक CAKE खरीदना या deposit करना उस particular proposal के लिए voting power नहीं बढ़ाएगा।
 
-If you want to know the exact time of the snapshot block. Simple click on the block number and look for the timestamp on the BscScan page.
+यदि आप snapshot block का exact समय जानना चाहते हैं, तो block number पर क्लिक करें और BscScan page पर timestamp देखें।
 
-![](../../../.gitbook/assets/how-to-vote-7.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-vote-7.png)
 {% endtab %}
 {% endtabs %}

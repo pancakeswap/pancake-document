@@ -1,118 +1,117 @@
-# FAQ
+# अक्सर पूछे जाने वाले सवाल (FAQ)
 
-![](../../../.gitbook/assets/how-bCAKE-FAQ.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-bCAKE-FAQ.png)
 
-### How are the bCAKE multipliers calculated?
+### bCAKE multipliers की गणना कैसे होती है?
 
-You may notice that you get different bCAKE boost multipliers when staking in different farms.
+आप देख सकते हैं कि विभिन्न farms में stake करने पर आपको अलग-अलग bCAKE boost multipliers मिलते हैं।
 
-That's because bCAKE - Farm Boosters multipliers are calculated using the following metrics upon activation or refresh:
+ऐसा इसलिए है क्योंकि bCAKE - Farm Boosters multipliers को activation या refresh पर निम्नलिखित metrics का उपयोग करके गणना किया जाता है:
 
-* `userLpBalanceInFarm` : The amount of liquidity you are staking in the farm.&#x20;
+* `userLpBalanceInFarm` : farm में आप जितनी तरलता stake कर रहे हैं।&#x20;
   * `NonfungiblePositionManager.positions(uint256 tokenId).liquidity`
-* `totalLpBalanceInFarm` : The total amount of liquidity staking in the farm or the current active amount of liquidity in the V3 LP pool. bCAKE will choose the smaller number between the two.
+* `totalLpBalanceInFarm` : farm में stake की गई कुल तरलता राशि या V3 LP pool में वर्तमान सक्रिय तरलता राशि। bCAKE दोनों में से छोटी संख्या चुनेगा।
   * `MasterChefV3.poolInfo(uint256 pid).totalLiquidity`
   * `PancakeV3Pool.liquidity`
-* `veCAKE.balanceOf(user)` : The real-time number of veCAKE you have
-* `veCAKE.totalSupply` : The real-time total supply of veCAKE
+* `veCAKE.balanceOf(user)` : आपके पास real-time में veCAKE की संख्या
+* `veCAKE.totalSupply` : veCAKE की real-time total supply
 
-The multiplier is calculated using the following method:
+Multiplier की गणना निम्नलिखित method का उपयोग करके की जाती है:
 
 1. `resultA = constantA *`` ``userLpBalanceInFarm`
 2. `resultB = totalLpBalanceInFarm * veCAKE.balanceOf(user) / veCAKE.totalSupply * constantB`
 3. `boostMultiplier = min(``userLpBalanceInFarm, (resultA + resultB)) / resultA`
 
-`constantA` and `constantB` are set by the kitchen and subject to future adjustments based on community feedback and market conditions. `constantB` varies between different farms to compensate for the LP price differences.
+`constantA` और `constantB` kitchen द्वारा निर्धारित किए जाते हैं और community feedback और बाजार की स्थितियों के आधार पर भविष्य में समायोजन के अधीन हैं। `constantB` LP price के अंतर की भरपाई के लिए विभिन्न farms में भिन्न होता है।
 
-`constantA` and `constantB` can be fethced via:
+`constantA` और `constantB` को इस प्रकार प्राप्त किया जा सकता है:
 
 * `FarmBooster.cA`
 * `FarmBooster.cBOverride(uint256 pid) > 0 ? FarmBooster.cBOverride(uint256 pid) : FarmBooster.cB`
 
-But:
+लेकिन:
 
 {% hint style="info" %}
-**TL;DR**
+**संक्षेप में**
 
-The more LP (liquidity) you want to boost
+आप जितनी अधिक LP (तरलता) boost करना चाहते हैं
 
-The more CAKE you need to lock for longer durations
+आपको उतने अधिक CAKE को अधिक लंबे समय के लिए lock करना होगा
 {% endhint %}
 
-### Why do my multipliers change even after activation?
+### Activation के बाद भी मेरे multipliers क्यों बदलते हैं?
 
-Please note that **any user actions to the farming position or CAKE staking pool will automatically update your boost multiplier** based on the latest data and statistics from farms and the CAKE staking pool, including but not limited to:
+कृपया ध्यान दें कि **farming position या CAKE staking pool में कोई भी user action, farms और CAKE staking pool से नवीनतम data और statistics के आधार पर आपके boost multiplier को स्वचालित रूप से अपडेट करेगा**, जिसमें शामिल हैं लेकिन इन्हीं तक सीमित नहीं:
 
-* Stake/Unstake position to/from the farm
-* Harvest CAKE rewards from farm
-* Extend your CAKE staking duration
-* Add more CAKE into your fixed-term staking position
-* Convert your CAKE staking position to flexible
+* Farm में position stake/unstake करना
+* Farm से CAKE rewards harvest करना
+* अपनी CAKE staking duration extend करना
+* अपनी fixed-term staking position में अधिक CAKE जोड़ना
+* अपनी CAKE staking position को flexible में convert करना
 
 {% hint style="warning" %}
-Please note:&#x20;
+कृपया ध्यान दें:&#x20;
 
-To ensure fairness and prevent potential abuse and cheating using out-of-date data. Farm booster is designed to be permissionless and community governance. Therefore, **anyone** can call `updateLiquidity(address _tokenId)` function on the MasterChef V3 contract to refresh anyone's boost multipliers using the latest data.
+पुराने data का उपयोग करके संभावित दुरुपयोग और धोखाधड़ी को रोकने और निष्पक्षता सुनिश्चित करने के लिए, Farm booster को permissionless और community governance के रूप में डिज़ाइन किया गया है। इसलिए, **कोई भी** नवीनतम data का उपयोग करके किसी के भी boost multipliers को refresh करने के लिए MasterChef V3 contract पर `updateLiquidity(address _tokenId)` function call कर सकता है।
 
-On top of that, the kitchen will also monitor all bCAKE-enabled farming positions and will refresh any position with an out-of-date multiplier.
+इसके अतिरिक्त, kitchen सभी bCAKE-enabled farming positions की निगरानी करेगा और पुराने multiplier वाली किसी भी position को refresh करेगा।
 {% endhint %}
 
-### Why I'm not able to boost a position
+### मैं किसी position को boost क्यों नहीं कर पा रहा हूँ?
 
-1. Farm booster is only available for selected farms. More farms will be made available in the future. For now, **look for the green APR figure with a green rocket icon.**\
-   ![](../../../.gitbook/assets/bCAKE-boost-tag.png)<br>
-2. Due to multiple contracts' involvement, some contract interactions require slightly more gas tokens (BNB). So please make sure you have enough BNB in your wallet. If the error persists, try manually increase the gas limit of the transaction.
+1. Farm booster केवल चुनिंदा farms के लिए उपलब्ध है। भविष्य में अधिक farms उपलब्ध कराई जाएंगी। अभी के लिए, **हरे rocket icon के साथ हरे APR figure की तलाश करें।**\
+   ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bCAKE-boost-tag.png)<br>
+2. कई contracts की संलिप्तता के कारण, कुछ contract interactions के लिए थोड़े अधिक gas tokens (BNB) की आवश्यकता होती है। इसलिए कृपया सुनिश्चित करें कि आपके वॉलेट में पर्याप्त BNB हो। यदि error बनी रहे, तो transaction का gas limit मैन्युअल रूप से बढ़ाने का प्रयास करें।
 
-### What is the maximum bCAKE Boost Multiplier I can get?
+### मुझे अधिकतम bCAKE Boost Multiplier कितना मिल सकता है?
 
-Currently, the maximum boost a user can get for a farm booster is 2.5x, which offers them 2.5x the original APRs.
+वर्तमान में, एक उपयोगकर्ता को farm booster के लिए अधिकतम 2.5x boost मिल सकता है, जो उन्हें मूल APRs का 2.5x प्रदान करता है।
 
-Please note that the maximum boost you can get varies between types of liquidity you are trying to stake:
+कृपया ध्यान दें कि आप जिस प्रकार की तरलता stake करने की कोशिश कर रहे हैं, उसके अनुसार अधिकतम boost भिन्न होता है:
 
-* V3: 2x max
-* V2, StableSwap: 2.5x max
-* Position Managers: 2.5x max
+* V3: अधिकतम 2x
+* V2, StableSwap: अधिकतम 2.5x
+* Position Managers: अधिकतम 2.5x
 
-### How can I increase my bCAKE Boost Multipliers?
+### मैं अपने bCAKE Boost Multipliers कैसे बढ़ा सकता हूँ?
 
-* Add more CAKE into the veCAKE staking position
-* Extend or renew the duration of your veCAKE staking position
+* veCAKE staking position में अधिक CAKE जोड़ें
+* अपनी veCAKE staking position की duration extend या renew करें
 
-Simply put:
+सरल शब्दों में:
 
-**Stake more CAKE, stake for longer**
+**अधिक CAKE stake करें, अधिक समय के लिए stake करें**
 
-[Learn more about how the bCAKE boost multipliers are calculated](faq.md#how-are-the-bcake-multipliers-calculated).
+[bCAKE boost multipliers की गणना कैसे होती है, इसके बारे में अधिक जानें](faq.md#how-are-the-bcake-multipliers-calculated)।
 
-### Where are the extra boosted CAKE rewards coming from?
+### अतिरिक्त boosted CAKE rewards कहाँ से आते हैं?
 
-**Relax, no extra emissions are allocated in order to make bCAKE possible.**
+**निश्चिंत रहें, bCAKE को संभव बनाने के लिए कोई अतिरिक्त emissions आवंटित नहीं की जाती हैं।**
 
-Similar to veCAKE CAKE staking. bCAKE boosts individual users' share against others.
+veCAKE CAKE staking की तरह, bCAKE individual users की share को दूसरों के मुकाबले बढ़ाता है।
 
-Even though the baseline APR may drop after the deployment of bCAKE. Chefs believe it is a good tradeoff as it benefits loyal CAKE lovers by boosting their farming yield, creates more demand for CAKE, and serves as a great incentive for CAKE staking.
+हालाँकि bCAKE deployment के बाद baseline APR घट सकता है, Chefs का मानना है कि यह एक अच्छा tradeoff है क्योंकि यह loyal CAKE प्रेमियों को उनकी farming yield boost करके लाभान्वित करता है, CAKE की अधिक मांग बनाता है और CAKE staking के लिए एक बेहतरीन incentive के रूप में काम करता है।
 
-### Why the multiplier I receive is low?&#x20;
+### मुझे प्राप्त multiplier कम क्यों है?&#x20;
 
-bCAKE - farm booster works in a way by evaluating both your veCAKE staking position and your liquidity farming position against other users. Simply put:
+bCAKE - farm booster इस प्रकार काम करता है कि यह आपकी veCAKE staking position और आपकी liquidity farming position दोनों का मूल्यांकन अन्य उपयोगकर्ताओं के मुकाबले करता है। सरल शब्दों में:
 
-> If users want to boost more liquidity in the farm, they must lock more CAKE for longer durations in the pool.
+> यदि उपयोगकर्ता farm में अधिक तरलता boost करना चाहते हैं, तो उन्हें pool में अधिक CAKE को अधिक लंबे समय के लिए lock करना होगा।
 
-This design ensures the benefits are not only offered to large holders, but to any user who has a sizable CAKE staking position when compared to the farming position.
+यह डिज़ाइन सुनिश्चित करता है कि लाभ केवल बड़े holders को नहीं, बल्कि किसी भी ऐसे उपयोगकर्ता को मिले जिसकी farming position की तुलना में CAKE staking position उल्लेखनीय हो।
 
-Learn more about how the multiplier is calculated [here](https://docs.pancakeswap.finance/products/yield-farming/bcake/faq#how-are-the-bcake-multipliers-calculated).
+Multiplier की गणना कैसे होती है, इसके बारे में अधिक जानें [यहाँ](https://docs.pancakeswap.finance/products/yield-farming/bcake/faq#how-are-the-bcake-multipliers-calculated)।
 
-### Why are there only x number of farms that are booster-available?
+### केवल x संख्या की farms ही booster-available क्यों हैं?
 
-Since bCAKE involves updating one of PancakeSwap's core products, which is liquidity farming. Chefs want to take a slower and more steady approach to the launch.
+चूँकि bCAKE में PancakeSwap के एक core उत्पाद, यानी liquidity farming को अपडेट करना शामिल है, Chefs launch के प्रति धीमे और अधिक स्थिर दृष्टिकोण अपनाना चाहते हैं।
 
-Therefore, in the initial product release phase. Many of the parameters are very conservative. Including the number of farms users can boost, which farm users can boost, as well as the difficulty parameter in receiving the boost multiplier.
+इसलिए, प्रारंभिक product release phase में, कई parameters बहुत conservative हैं। जिसमें उन farms की संख्या शामिल है जिन्हें उपयोगकर्ता boost कर सकते हैं, कौन सी farm को boost कर सकते हैं, साथ ही boost multiplier प्राप्त करने की कठिनाई parameter।
 
-**Chefs will adjust the parameters based on the community feedback.**
+**Chefs community feedback के आधार पर parameters समायोजित करेंगे।**
 
-### **Is bCAKE V3 audited?** <a href="#id-68559543-51e4-438c-9a0a-1e6ece7d2133" id="id-68559543-51e4-438c-9a0a-1e6ece7d2133"></a>
+### **क्या bCAKE V3 audited है?** <a href="#id-68559543-51e4-438c-9a0a-1e6ece7d2133" id="id-68559543-51e4-438c-9a0a-1e6ece7d2133"></a>
 
-bCAKE has been audited by both internal and external auditors.
+bCAKE को internal और external दोनों auditors द्वारा audit किया गया है।
 
-Check out audit reports here: [https://docs.pancakeswap.finance/readme/audits](https://docs.pancakeswap.finance/readme/audits)
-
+Audit reports यहाँ देखें: [https://docs.pancakeswap.finance/readme/audits](https://docs.pancakeswap.finance/readme/audits)

@@ -2,87 +2,86 @@
 hidden: true
 ---
 
-# Get MON on Monad
+# Monad पर MON प्राप्त करें
 
-### 1. **Why You Need MON**
+### 1. **MON की आवश्यकता क्यों है**
 
-MON is the **native token** of the Monad blockchain. You’ll need it to:
+MON Monad ब्लॉकचेन का **नेटिव टोकन** है। आपको इसकी ज़रूरत होगी:
 
-* **Pay gas fees** for any transaction (swaps, adding liquidity etc.)
-* **Create and manage liquidity positions** on PancakeSwap
-* **Interact with any Monad dApp**
+* किसी भी ट्रांजेक्शन (स्वैप, तरलता जोड़ना आदि) के लिए **गैस शुल्क देने** हेतु
+* PancakeSwap पर **तरलता पोजीशन बनाने और प्रबंधित करने** के लिए
+* **किसी भी Monad dApp के साथ इंटरैक्ट** करने के लिए
 
 ***
 
-### 2. **Main Ways to Get MON**
+### 2. **MON प्राप्त करने के मुख्य तरीके**
 
-There are **four main ways** to get MON, depending on your starting point and preferences.
+MON प्राप्त करने के **चार मुख्य तरीके** हैं, आपके शुरुआती बिंदु और पसंद के आधार पर।
 
-| Method                           | Best for                                            | Requires a Wallet?      | Notes                               |
+| तरीका                           | सर्वश्रेष्ठ                                            | वॉलेट आवश्यक?      | नोट                               |
 | -------------------------------- | --------------------------------------------------- | ----------------------- | ----------------------------------- |
-| **Centralized Exchanges (CEXs)** | Beginners or users buying with fiat                 | ✅ Yes (to access dApps) | Most common entry point             |
-| **PancakeSwap (DEX)**            | DeFi-native users with tokens already on Monad      | ✅ Yes                   | Swap into MON directly              |
-| **Buy via Wallet App**           | Mobile-first users                                  | ✅ Yes                   | Some wallets offer in-app purchases |
-| **Bridge from Another Chain**    | Users with funds on Ethereum, BNB Chain, Base, etc. | ✅ Yes                   | Bring assets over to Monad          |
+| **केंद्रीकृत एक्सचेंज (CEXs)** | शुरुआती या फिएट से खरीदने वाले उपयोगकर्ता                 | ✅ हाँ (dApps तक पहुँचने के लिए) | सबसे सामान्य प्रवेश बिंदु             |
+| **PancakeSwap (DEX)**            | Monad पर पहले से टोकन रखने वाले DeFi-नेटिव उपयोगकर्ता      | ✅ हाँ                   | सीधे MON में स्वैप करें              |
+| **वॉलेट ऐप से खरीदें**           | मोबाइल-प्रथम उपयोगकर्ता                                  | ✅ हाँ                   | कुछ वॉलेट इन-ऐप खरीदारी की सुविधा देते हैं |
+| **किसी अन्य चेन से ब्रिज करें**    | Ethereum, BNB Chain, Base आदि पर फंड रखने वाले उपयोगकर्ता | ✅ हाँ                   | Monad पर एसेट लाएं          |
 
-Let’s go through them:
+आइए उनके बारे में जानें:
 
-#### I. **Buy MON from a Centralised Exchange (CEX)**
+#### I. **केंद्रीकृत एक्सचेंज (CEX) से MON खरीदें**
 
-If you're new to crypto or don’t yet have a wallet, buying MON from a **major exchange** is the most straightforward option.
+यदि आप क्रिप्टो में नए हैं या आपके पास अभी तक वॉलेट नहीं है, तो **प्रमुख एक्सचेंज** से MON खरीदना सबसे सीधा विकल्प है।
 
-#### ✅ What you do:
+#### ✅ आप क्या करें:
 
-1. **Create an account** on a centralised exchange (e.g., Binance).
-2. **Buy MON** using fiat (USD, EUR, etc.) or other cryptocurrencies.
-3. **Withdraw MON** to your **self-custodial Monad wallet** to interact with dApps like PancakeSwap.
-
-***
-
-#### II. **Swap for MON on PancakeSwap (DEX)**
-
-Already using Monad? If you have tokens like **USDC** or **USDT** on the Monad network, you can swap them directly for MON using **PancakeSwap**.
-
-#### ✅ What you do:
-
-* Connect your wallet on Monad to PancakeSwap.
-* Go to the **Swap** page.
-* Swap your Monad-based token into MON.
-
-> 🧠 Note: You’ll still need a small amount of MON to pay for the swap itself. If you have zero MON, use the CEX or bridge method first.
+1. एक केंद्रीकृत एक्सचेंज (जैसे, Binance) पर **अकाउंट बनाएं**।
+2. फिएट (USD, EUR, आदि) या अन्य क्रिप्टोकरेंसी का उपयोग करके **MON खरीदें**।
+3. PancakeSwap जैसे dApps के साथ इंटरैक्ट करने के लिए अपने **सेल्फ-कस्टोडियल Monad वॉलेट** पर **MON निकालें**।
 
 ***
 
-#### III. **Buy MON Directly From a Wallet App**
+#### II. **PancakeSwap (DEX) पर MON के लिए स्वैप करें**
 
-Some wallets support **in-app crypto purchases** using Apple Pay, Google Pay, credit card, or other providers like MoonPay.&#x20;
+क्या आप पहले से Monad का उपयोग कर रहे हैं? यदि आपके पास Monad नेटवर्क पर **USDC** या **USDT** जैसे टोकन हैं, तो आप **PancakeSwap** का उपयोग करके उन्हें सीधे MON के लिए स्वैप कर सकते हैं।
 
-#### ✅ What you do:
+#### ✅ आप क्या करें:
 
-1. Open your wallet.
-2. Tap "Buy" or "Buy Crypto".
-3. Select **MON**.
-4. Choose your payment method and follow the steps.
+* PancakeSwap से अपना Monad वॉलेट कनेक्ट करें।
+* **Swap** पेज पर जाएं।
+* अपने Monad-आधारित टोकन को MON में स्वैप करें।
 
-This is a user-friendly option for mobile-first users who want to skip setting up an exchange account.
-
-***
-
-#### IV. **Bridge MON from Another Blockchain**
-
-Already have tokens on a different chain like **BNB Chain**, **Ethereum**, or **Base**? You can bring funds over to Solana using **bridging platforms**.
-
-#### ✅ What you do:
-
-1. Visit [https://monadbridge.com/](https://monadbridge.com/)
-2. Select your token and the chain you’re sending from.
-3. Choose **Monad** as your destination.
-4. Complete the bridge and receive the bridged token in your Monad wallet.
-5. Swap that token into **MON** using PancakeSwap.
+> 🧠 नोट: स्वैप के लिए आपको अभी भी थोड़ी मात्रा में MON की आवश्यकता होगी। यदि आपके पास शून्य MON है, तो पहले CEX या ब्रिज तरीके का उपयोग करें।
 
 ***
 
-### 3. **Final Tip**
+#### III. **वॉलेट ऐप से सीधे MON खरीदें**
 
-Every Monad action — from swapping to providing liquidity — **requires MON for gas**. Always keep a little MON in your wallet after each transaction to avoid getting stuck.
+कुछ वॉलेट Apple Pay, Google Pay, क्रेडिट कार्ड, या MoonPay जैसे अन्य प्रदाताओं का उपयोग करके **इन-ऐप क्रिप्टो खरीदारी** का समर्थन करते हैं।
 
+#### ✅ आप क्या करें:
+
+1. अपना वॉलेट खोलें।
+2. "Buy" या "Buy Crypto" पर टैप करें।
+3. **MON** चुनें।
+4. अपना भुगतान तरीका चुनें और चरणों का पालन करें।
+
+यह मोबाइल-प्रथम उपयोगकर्ताओं के लिए एक सुविधाजनक विकल्प है जो एक्सचेंज अकाउंट सेट करने से बचना चाहते हैं।
+
+***
+
+#### IV. **किसी अन्य ब्लॉकचेन से MON ब्रिज करें**
+
+क्या आपके पास **BNB Chain**, **Ethereum**, या **Base** जैसी किसी अलग चेन पर पहले से टोकन हैं? आप **ब्रिजिंग प्लेटफ़ॉर्म** का उपयोग करके Solana पर फंड ला सकते हैं।
+
+#### ✅ आप क्या करें:
+
+1. [https://monadbridge.com/](https://monadbridge.com/) पर जाएं
+2. अपना टोकन और जिस चेन से भेज रहे हैं उसे चुनें।
+3. अपने गंतव्य के रूप में **Monad** चुनें।
+4. ब्रिज पूरा करें और अपने Monad वॉलेट में ब्रिज किया गया टोकन प्राप्त करें।
+5. PancakeSwap का उपयोग करके उस टोकन को **MON** में स्वैप करें।
+
+***
+
+### 3. **अंतिम सुझाव**
+
+Monad की हर क्रिया — स्वैप करने से लेकर तरलता प्रदान करने तक — **गैस के लिए MON की आवश्यकता होती है**। फंसने से बचने के लिए प्रत्येक ट्रांजेक्शन के बाद अपने वॉलेट में थोड़ा MON हमेशा रखें।

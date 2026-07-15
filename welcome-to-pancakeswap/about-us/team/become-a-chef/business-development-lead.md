@@ -1,63 +1,63 @@
 # Business Development Lead
 
-PancakeSwap is transitioning from the leading AMM DEX on BNB Chain to a full Liquidity Hub — aggregating and managing liquidity from native AMM pools, institutional capital, and external distribution channels. This role leads one of three specialized BD divisions in that build-out.
+PancakeSwap अग्रणी AMM DEX से BNB Chain पर एक पूर्ण Liquidity Hub में परिवर्तित हो रहा है — जो नेटिव AMM पूल, संस्थागत पूंजी और बाहरी वितरण चैनलों से तरलता को एकत्रित और प्रबंधित करता है। यह भूमिका उस निर्माण में तीन विशेषीकृत BD विभागों में से एक को संपूर्ण रूप से संचालित करती है।
 
-### About the role
+### भूमिका के बारे में
 
-We are restructuring our BD team around three liquidity sources, not chains. As the BD Lead owning end-to-end: Traditional AMM, Institutional Liquidity + RWA, New Product Distribution. You will be the internal subject-matter expert — owning partnerships, KPIs, and the pipeline from first contact to live integration.
+हम अपनी BD टीम को चेन के बजाय तीन तरलता स्रोतों के इर्द-गिर्द पुनर्गठित कर रहे हैं। BD Lead के रूप में आप संपूर्ण नियंत्रण रखेंगे: पारंपरिक AMM, संस्थागत तरलता + RWA, नए उत्पाद वितरण। आप आंतरिक विषय-विशेषज्ञ होंगे — साझेदारी, KPI और पहले संपर्क से लाइव एकीकरण तक की पाइपलाइन के मालिक।
 
-This is an operator role, not a relationship role. We measure outcomes: volume generated per CAKE emitted, institutional trading volume, aggregator API integrations shipped. You will be expected to show weekly progress against a concrete Q2 2026 priority list from day one.
-
-
-
-1. **Traditional AMM**
-
-* Own CAKE emission efficiency, project onboarding (V2/V3/Infinity CLAMM), and cross-chain launchpad pipeline across BNB Chain, Base, and SOL.&#x20;
-* Primary metric: volume per unit of CAKE emitted.&#x20;
-* Secondary: new active pools per quarter, first-launch projects per chain.
-* **Urgent now:** Base + SOL ecosystem fund relationships · Infinity CLAMM project pipeline
+यह एक ऑपरेटर भूमिका है, न कि रिलेशनशिप भूमिका। हम परिणाम मापते हैं: प्रति CAKE उत्सर्जित वॉल्यूम, संस्थागत ट्रेडिंग वॉल्यूम, शिप किए गए एग्रीगेटर API एकीकरण। पहले दिन से Q2 2026 की ठोस प्राथमिकता सूची के विरुद्ध साप्ताहिक प्रगति दिखाने की अपेक्षा की जाएगी।
 
 
 
-2. **Institutional Liquidity + RWA**
+1. **पारंपरिक AMM**
 
-* Own tokenized stock and RWA issuer onboarding (xStocks/Backed Finance/Ondo/Robinhood), market maker onboarding (Wintermute, Jump, GSR), and PancakeSwap X RFQ distribution into Kraken, Bybit, OKX.&#x20;
-* Build PropAMM institutional pipeline. Primary metric: PancakeSwap X monthly trading volume, RWA issuers onboarded.
-* **Urgent now:** xStocks pools on BNB + Base · Backed Finance / Kraken partnership
-
-
-
-3. **New Product Distribution**
-
-* Replace 1inch as the default aggregator API for wallets (OKX, Binance, MetaMask, Trust) and DeFi protocols (Aave, Venus, Morpho).&#x20;
-* Own revenue share program design, white-label API packaging, and competitor switching analysis. Secondary: perps institutional onboarding (\~20% of role).&#x20;
-* Primary metric: API integrations shipped per quarter, monthly aggregator routed volume.
-* **Urgent now:** Deep competitor analysis of 1inch, LiFi, Liquid Mesh · target list build
-
-### What you will do
-
-* Own the full partnership lifecycle : sourcing, negotiation, integration, and ongoing health metrics\
-  Report weekly on pipeline status and division KPIs to the CEO; flag blockers with proposed solutions, not just problems
-* Participate in weekly cross-division BD sync to surface pipeline overlaps and coordinate joint approaches
-* Conduct ongoing competitor intelligence specific to your division's domain; translate findings into actionable differentiation
-* As the division matures, build and mentor a small team of BD managers under you
-
-### What we are looking for
-
-**Required**
-
-* 3+ years of BD, partnerships, or growth in DeFi, crypto, or fintech — with a track record of signed deals, not just pipeline
-* Quantitative mindset: comfortable reading on-chain data, TVL/volume dashboards, and setting your own KPI targets from first principles
-* Strong existing network in your target division's domain (AMM projects / institutional/RWA issuers / wallet or protocol ecosystem teams)
-* Autonomous and structured: able to manage multiple parallel deals with zero hand-holding, and communicate blockers early
-* Ownership mind-set
-
-**Nice to have**
-
-* Prior experience at a DEX, AMM, aggregator, or RWA platform
-* Ability to read smart contract interactions or interpret Dune dashboards independently
-* Experience building or managing a BD team from scratch
+* CAKE उत्सर्जन दक्षता, प्रोजेक्ट ऑनबोर्डिंग (V2/V3/Infinity CLAMM), और BNB Chain, Base, और SOL में क्रॉस-चेन लॉन्चपैड पाइपलाइन की जिम्मेदारी संभालें।&#x20;
+* प्राथमिक मेट्रिक: प्रति CAKE उत्सर्जित इकाई पर वॉल्यूम।&#x20;
+* द्वितीयक: प्रति तिमाही नए सक्रिय पूल, प्रति चेन पहली-लॉन्च परियोजनाएँ।
+* **अभी तुरंत:** Base + SOL इकोसिस्टम फंड संबंध · Infinity CLAMM प्रोजेक्ट पाइपलाइन
 
 
 
-**How to Apply:** Shoot your resume over to hiring@pancakeswap.com, we’d love to hear from you!
+2. **संस्थागत तरलता + RWA**
+
+* टोकनाइज़्ड स्टॉक और RWA जारीकर्ता ऑनबोर्डिंग (xStocks/Backed Finance/Ondo/Robinhood), मार्केट मेकर ऑनबोर्डिंग (Wintermute, Jump, GSR), और Kraken, Bybit, OKX में PancakeSwap X RFQ वितरण की जिम्मेदारी संभालें।&#x20;
+* PropAMM संस्थागत पाइपलाइन बनाएँ। प्राथमिक मेट्रिक: PancakeSwap X मासिक ट्रेडिंग वॉल्यूम, ऑनबोर्ड किए गए RWA जारीकर्ता।
+* **अभी तुरंत:** BNB + Base पर xStocks पूल · Backed Finance / Kraken साझेदारी
+
+
+
+3. **नए उत्पाद वितरण**
+
+* वॉलेट (OKX, Binance, MetaMask, Trust) और DeFi प्रोटोकॉल (Aave, Venus, Morpho) के लिए 1inch को डिफ़ॉल्ट एग्रीगेटर API के रूप में प्रतिस्थापित करें।&#x20;
+* राजस्व साझाकरण कार्यक्रम डिज़ाइन, व्हाइट-लेबल API पैकेजिंग, और प्रतिस्पर्धी स्विचिंग विश्लेषण की जिम्मेदारी लें। द्वितीयक: perps संस्थागत ऑनबोर्डिंग (\~भूमिका का 20%)।&#x20;
+* प्राथमिक मेट्रिक: प्रति तिमाही शिप किए गए API एकीकरण, मासिक एग्रीगेटर रूटेड वॉल्यूम।
+* **अभी तुरंत:** 1inch, LiFi, Liquid Mesh का गहन प्रतिस्पर्धी विश्लेषण · लक्ष्य सूची निर्माण
+
+### आप क्या करेंगे
+
+* पूर्ण साझेदारी जीवनचक्र की जिम्मेदारी लें: सोर्सिंग, बातचीत, एकीकरण, और चल रहे स्वास्थ्य मेट्रिक्स\
+  CEO को पाइपलाइन स्थिति और डिवीजन KPI पर साप्ताहिक रिपोर्ट दें; बाधाओं को प्रस्तावित समाधानों के साथ flag करें, न कि केवल समस्याएँ
+* पाइपलाइन ओवरलैप की पहचान करने और संयुक्त दृष्टिकोण समन्वित करने के लिए साप्ताहिक क्रॉस-डिवीजन BD सिंक में भाग लें
+* अपने विभाग के क्षेत्र के लिए निरंतर प्रतिस्पर्धी जानकारी एकत्रित करें; निष्कर्षों को कार्रवाई योग्य भिन्नता में बदलें
+* जैसे-जैसे विभाग परिपक्व होता है, आपके अधीन BD मैनेजरों की एक छोटी टीम बनाएँ और उसका मार्गदर्शन करें
+
+### हम क्या खोज रहे हैं
+
+**आवश्यक**
+
+* DeFi, क्रिप्टो, या फिनटेक में BD, साझेदारी, या विकास में 3+ वर्षों का अनुभव — हस्ताक्षरित सौदों के ट्रैक रिकॉर्ड के साथ, न केवल पाइपलाइन
+* मात्रात्मक सोच: ऑन-चेन डेटा, TVL/वॉल्यूम डैशबोर्ड पढ़ने और पहले सिद्धांतों से अपने KPI लक्ष्य निर्धारित करने में सहज
+* आपके लक्षित विभाग के क्षेत्र में मजबूत मौजूदा नेटवर्क (AMM प्रोजेक्ट / संस्थागत/RWA जारीकर्ता / वॉलेट या प्रोटोकॉल इकोसिस्टम टीमें)
+* स्वायत्त और संरचित: बिना किसी सहायता के एकाधिक समानांतर सौदों को प्रबंधित करने में सक्षम, और बाधाओं को जल्दी संप्रेषित करने में कुशल
+* स्वामित्व की मानसिकता
+
+**अच्छा होगा यदि आपके पास हो**
+
+* DEX, AMM, एग्रीगेटर, या RWA प्लेटफ़ॉर्म में पूर्व अनुभव
+* स्मार्ट कॉन्ट्रैक्ट इंटरैक्शन पढ़ने या Dune डैशबोर्ड स्वतंत्र रूप से समझने की क्षमता
+* शुरू से BD टीम बनाने या प्रबंधित करने का अनुभव
+
+
+
+**आवेदन कैसे करें:** अपना रेज़्यूमे hiring@pancakeswap.com पर भेजें, हम आपसे सुनना चाहेंगे!

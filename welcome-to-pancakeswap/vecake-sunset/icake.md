@@ -1,67 +1,67 @@
 ---
-description: veCAKE Staking and IFO Allocations
+description: veCAKE Staking और IFO Allocations
 hidden: true
 ---
 
 # iCAKE
 
-### **What is the new iCAKE?**
+### **नया iCAKE क्या है?**
 
-After transitioning to veCAKE, the new iCAKE will be based on the veCAKE balance
+veCAKE में transition के बाद, नया iCAKE veCAKE balance पर आधारित होगा।
 
-* Just like the old iCAKE, it determines the maximum CAKE commit limit in the PancakeSwap IFO public sales. For example, if you have 200 iCAKE, you can commit 200 CAKE in IFO public sales.
-* The new iCAKE number is calculated using the veCAKE balance at the end of each IFO. Therefore, you will have different iCAKE numbers for each IFO.
-* Since veCAKE balance gradually decreases with your remaining lock time. Therefore, your iCAKE in future IFOs will decrease with your veCAKE balance. To maintain your iCAKE number, add more CAKE to the stakings, or renew/extend your lock.
+* पुराने iCAKE की तरह, यह PancakeSwap IFO public sales में अधिकतम CAKE commit सीमा निर्धारित करता है। उदाहरण के लिए, यदि आपके पास 200 iCAKE है, तो आप IFO public sales में 200 CAKE commit कर सकते हैं।
+* नया iCAKE number प्रत्येक IFO के अंत में veCAKE balance का उपयोग करके गणना किया जाता है। इसलिए, प्रत्येक IFO के लिए आपके अलग-अलग iCAKE numbers होंगे।
+* चूँकि veCAKE balance आपके remaining lock time के साथ धीरे-धीरे घटता है, इसलिए भविष्य के IFOs में आपका iCAKE आपके veCAKE balance के साथ घटेगा। अपना iCAKE number बनाए रखने के लिए, stakings में अधिक CAKE जोड़ें, या अपना lock renew/extend करें।
 
-**iCAKE is NOT a new token, it is a numerical metric being used by the PancakeSwap IFO system.**
+**iCAKE कोई नया token नहीं है, यह PancakeSwap IFO प्रणाली द्वारा उपयोग की जाने वाली एक संख्यात्मक metric है।**
 
-### How is iCAKE calculated?
+### iCAKE की गणना कैसे होती है?
 
-The number of iCAKE you have is based on the veCAKE balance at the end of each IFO, multiplied by a predefined ratio.
+आपके पास iCAKE की संख्या प्रत्येक IFO के अंत में veCAKE balance पर आधारित होती है, एक पूर्वनिर्धारित ratio से गुणा करके।
 
-veCAKE is a dynamically calculated value based on how much CAKE you lock and how much time is left in the lock. To learn more about how veCAKE is calculated, check out [here](https://docs.pancakeswap.finance/products/vecake/faq#52f27118-bbf3-448b-9ffe-e9e1a9dd97ef).
+veCAKE एक dynamically calculated मूल्य है जो इस पर निर्भर करता है कि आप कितना CAKE lock करते हैं और lock में कितना समय बचा है। veCAKE की गणना कैसे होती है, इसके बारे में अधिक जानने के लिए, [यहाँ](https://docs.pancakeswap.finance/products/vecake/faq#52f27118-bbf3-448b-9ffe-e9e1a9dd97ef) देखें।
 
-An additional ratio is being applied on top of the veCAKE balance, which is adjusted by the Kitchen for each IFO. For example, if the ratio is 2x, and you have 1 veCAKE at the end of the next IFO, you can commit up to 2 CAKE.
+veCAKE balance के ऊपर एक अतिरिक्त ratio लागू किया जाता है, जिसे Kitchen प्रत्येक IFO के लिए समायोजित करता है। उदाहरण के लिए, यदि ratio 2x है, और अगले IFO के अंत में आपके पास 1 veCAKE है, तो आप 2 CAKE तक commit कर सकते हैं।
 
-Example:
+उदाहरण:
 
-* You locked 100 CAKE for 2 years.
-  * Your remaining lock time is: `2 * 52 * 7 * 24 * 60 * 60 = 62899200`  (seconds)
-  * The max lock time is: `(209 * 7 * 24 * 60 * 60) - 1 = 126403199` (seconds)
-  * At the current moment, you have: `100 * (62899200 / 126403199) ~= 49.76` veCAKE
-* The very next IFO is scheduled; its end time is exactly 1 week later, which is `604800` seconds after the current moment.
-  * At the time, your remaining lock time is: `62899200 - 604800 = 62294400` (seconds)
-  * At that time, you have: `100 * (62294400 / 126403199) ~= 49.28` veCAKE
-* For this IFO, the ratio is set to `3x`
-* Therefore, for this IFO, you have: `49.28 * 3 = 147.84` iCAKE, which means you can commit up to 147.84 CAKE in the public sale.
+* आपने 100 CAKE को 2 वर्षों के लिए lock किया।
+  * आपका remaining lock time है: `2 * 52 * 7 * 24 * 60 * 60 = 62899200` (सेकंड)
+  * अधिकतम lock time है: `(209 * 7 * 24 * 60 * 60) - 1 = 126403199` (सेकंड)
+  * वर्तमान क्षण में, आपके पास है: `100 * (62899200 / 126403199) ~= 49.76` veCAKE
+* अगला IFO scheduled है; इसकी end time ठीक 1 सप्ताह बाद है, जो वर्तमान क्षण से `604800` सेकंड बाद है।
+  * उस समय, आपका remaining lock time होगा: `62899200 - 604800 = 62294400` (सेकंड)
+  * उस समय, आपके पास होगा: `100 * (62294400 / 126403199) ~= 49.28` veCAKE
+* इस IFO के लिए, ratio `3x` निर्धारित है।
+* इसलिए, इस IFO के लिए, आपके पास है: `49.28 * 3 = 147.84` iCAKE, जिसका अर्थ है कि आप public sale में 147.84 CAKE तक commit कर सकते हैं।
 
-### How to check the number of iCAKE I have?
+### मेरे पास iCAKE की संख्या कैसे जाँचें?
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%289%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-You can check the number of iCAKE you have on the IFO page [here](https://pancakeswap.finance/ifo).
+आप IFO पेज पर [यहाँ](https://pancakeswap.finance/ifo) अपने iCAKE की संख्या जाँच सकते हैं।
 
-Please keep in mind that when there is no upcoming IFO, your iCAKE will be calculated using real-time veCAKE balance, which gradually decreases second by second.
+कृपया ध्यान रखें कि जब कोई upcoming IFO नहीं है, तो आपका iCAKE real-time veCAKE balance का उपयोग करके गणना किया जाएगा, जो प्रति सेकंड धीरे-धीरे घटता है।
 
-When there is an upcoming IFO, your iCAKE will be calculated using the veCAKE balance at the snapshot time, which is the end of the IFO. Your iCAKE will not decrease or change until the IFO ends.
+जब कोई upcoming IFO हो, तो आपका iCAKE snapshot time पर veCAKE balance का उपयोग करके गणना किया जाएगा, जो IFO का अंत है। IFO समाप्त होने तक आपका iCAKE घटेगा या बदलेगा नहीं।
 
-### **How do I increase the number of iCAKE I have?**
+### **मैं अपने iCAKE की संख्या कैसे बढ़ाऊँ?**
 
-You can increase the number of iCAKE anytime by:
+आप कभी भी निम्नलिखित तरीकों से iCAKE की संख्या बढ़ा सकते हैं:
 
-* Adding more CAKE to your veCAKE staking position.
-* Extend your veCAKE staking position.
+* अपनी veCAKE staking position में अधिक CAKE जोड़ें।
+* अपनी veCAKE staking position extend करें।
 
-on the [CAKE Staking Page](https://pancakeswap.finance/cake-staking)
+[CAKE Staking Page](https://pancakeswap.finance/cake-staking) पर
 
-### What is the "Ratio" in iCAKE calculation?
+### iCAKE गणना में "Ratio" क्या है?
 
-Ratio is an additional control factor being applied on top of the veCAKE balance when calculating iCAKE.
+Ratio iCAKE की गणना करते समय veCAKE balance के ऊपर लागू एक अतिरिक्त control factor है।
 
-For example, if the ratio is 2x, and you have 1 veCAKE at the end of the next IFO, you can commit up to 2 CAKE.
+उदाहरण के लिए, यदि ratio 2x है, और अगले IFO के अंत में आपके पास 1 veCAKE है, तो आप 2 CAKE तक commit कर सकते हैं।
 
-Between each IFO, the kitchen will optimise the "Ratio" based on various metrics. The adjustment will be published on all social channels.
+प्रत्येक IFO के बीच, kitchen विभिन्न metrics के आधार पर "Ratio" को अनुकूलित करेगा। यह समायोजन सभी social channels पर प्रकाशित किया जाएगा।
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2810%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-You can check the current "Ratio" number for iCAKE calculations by going to [the IFO page](https://pancakeswap.finance/ifo).
+आप [IFO page](https://pancakeswap.finance/ifo) पर जाकर iCAKE गणना के लिए वर्तमान "Ratio" number जाँच सकते हैं।

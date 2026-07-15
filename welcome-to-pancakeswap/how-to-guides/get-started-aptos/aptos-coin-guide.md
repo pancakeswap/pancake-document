@@ -1,58 +1,58 @@
-# Get Aptos Coins
+# Aptos Coins प्राप्त करें
 
-![](../../../.gitbook/assets/how-to-get-aptos-coins-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-get-aptos-coins-header.png)
 
 {% hint style="info" %}
-This guide covers major Aptos bridging services for mainstream tokens. To Bridge CAKE between Aptos and BNB Smart chain, use [PancakeSwap Aptos Bridge](https://bridge.pancakeswap.finance/aptos).
+यह गाइड मुख्यधारा के टोकन के लिए प्रमुख Aptos ब्रिजिंग सेवाओं को कवर करती है। Aptos और BNB Smart chain के बीच CAKE को Bridge करने के लिए, [PancakeSwap Aptos Bridge](https://bridge.pancakeswap.finance/aptos) का उपयोग करें।
 {% endhint %}
 
-The native token of Aptos Chain is **Aptos Coin (APT)**.
+Aptos चेन का मूल टोकन **Aptos Coin (APT)** है।
 
-To do most things on Aptos Chain, you will need to pay gas, which comes in the form of APT.
+Aptos चेन पर अधिकतर काम करने के लिए, आपको गैस फीस देनी होगी, जो APT के रूप में होती है।
 
-You will also need the tokens you want to trade or stake on Aptos Chain. There are a few ways to bring your assets to Aptos Chain, but here are the ones we recommend:
+आपको Aptos चेन पर व्यापार या Staking के लिए भी टोकन की आवश्यकता होगी। अपनी संपत्ति को Aptos चेन पर लाने के कई तरीके हैं, लेकिन हम निम्नलिखित तरीके सुझाते हैं:
 
 {% tabs %}
 {% tab title="🌉 Aptos Bridge" %}
 [**Aptos Bridge - LayerZero**](https://theaptosbridge.com/bridge)
 
-* The Aptos Bridge allows you to bridge mainstream tokens and stablecoins to Aptos
-* Supports "gas on destination" - receive a tiny amount of Aptos Coin (APT) for gas to kickstart your Aptos chain adventure
-* **⚠️ Note: for now assets are wrapped when bridged.** **(marked as "LayerZero")**\
-  Before bridging your tokens, be sure to double-check the token list to see which wrapped version of the tokens you are trading.
+* Aptos Bridge मुख्यधारा के टोकन और स्टेबलकॉइन को Aptos पर Bridge करने की सुविधा देता है
+* "gas on destination" का समर्थन करता है - Aptos चेन पर शुरुआत के लिए थोड़ी मात्रा में Aptos Coin (APT) प्राप्त करें
+* **⚠️ ध्यान दें: अभी के लिए Bridge किए जाने पर संपत्तियां wrapped हो जाती हैं।** **(जिन्हें "LayerZero" के रूप में चिह्नित किया जाता है)**\
+  अपने टोकन Bridge करने से पहले, टोकन सूची को ध्यान से जांचें ताकि आप जान सकें कि आप किस wrapped संस्करण के टोकन का व्यापार कर रहे हैं।
 {% endtab %}
 
 {% tab title="🌉 cBridge" %}
 [**cBridge**](https://cbridge.celer.network/1/12360001/)
 
-* The cBridge allows you to bridge mainstream tokens and stablecoins to Aptos
-* **⚠️ Note: for now assets are wrapped when bridged.** **(marked as "Celer")**\
-  Before bridging your tokens, be sure to double-check the token list to see which wrapped version of the tokens you are trading.
+* cBridge मुख्यधारा के टोकन और स्टेबलकॉइन को Aptos पर Bridge करने की सुविधा देता है
+* **⚠️ ध्यान दें: अभी के लिए Bridge किए जाने पर संपत्तियां wrapped हो जाती हैं।** **(जिन्हें "Celer" के रूप में चिह्नित किया जाता है)**\
+  अपने टोकन Bridge करने से पहले, टोकन सूची को ध्यान से जांचें ताकि आप जान सकें कि आप किस wrapped संस्करण के टोकन का व्यापार कर रहे हैं।
 
-**📖** [**cBridge Tutorial Provided by Celer**](https://cbridge-docs.celer.network/tutorial/cross-chain-transfer)
+**📖** [**cBridge ट्यूटोरियल (Celer द्वारा प्रदान)**](https://cbridge-docs.celer.network/tutorial/cross-chain-transfer)
 {% endtab %}
 
 {% tab title="🌉 Wormhole" %}
 [**Wormhole - Portal Token Bridge**](https://www.portalbridge.com/#/transfer)
 
-* The Portal Token Bridge allows you to bridge mainstream tokens and stablecoins to Aptos
-* **⚠️ Note: assets are wrapped when bridged.** **(marked as "Wormhole")**\
-  Before bridging your tokens, be sure to double-check the token list to see which wrapped version of the tokens you are trading.
+* Portal Token Bridge मुख्यधारा के टोकन और स्टेबलकॉइन को Aptos पर Bridge करने की सुविधा देता है
+* **⚠️ ध्यान दें: Bridge किए जाने पर संपत्तियां wrapped हो जाती हैं।** **(जिन्हें "Wormhole" के रूप में चिह्नित किया जाता है)**\
+  अपने टोकन Bridge करने से पहले, टोकन सूची को ध्यान से जांचें ताकि आप जान सकें कि आप किस wrapped संस्करण के टोकन का व्यापार कर रहे हैं।
 
-[**📖 Tutorial provided by Wormhole**](https://docs.wormhole.com/wormhole/video-tutorial-how-to-use-portal)
+[**📖 Wormhole द्वारा प्रदान ट्यूटोरियल**](https://docs.wormhole.com/wormhole/video-tutorial-how-to-use-portal)
 {% endtab %}
 
 {% tab title="🥞 CAKE Bridging" %}
-To Bridge CAKE token between Aptos and BNB Smart chain, use [PancakeSwap Aptos Bridge](https://bridge.pancakeswap.finance/aptos). Check out the [guide](cake-bridging-guide.md) to learn how to use it.
+Aptos और BNB Smart chain के बीच CAKE टोकन Bridge करने के लिए, [PancakeSwap Aptos Bridge](https://bridge.pancakeswap.finance/aptos) का उपयोग करें। इसे कैसे उपयोग करें, यह जानने के लिए [गाइड](cake-bridging-guide.md) देखें।
 {% endtab %}
 
 {% tab title="💰 Binance.com" %}
 [**Binance.com**](https://www.binance.com/en/)
 
-* You can withdraw Aptos Coin (APT) on Aptos Chain via your Binance account.&#x20;
-* **⚠️ Currently only Aptos Coin (APT) is supported. To bridge other assets, check out other available bridging options above.**
-* **⚠️ You need an account to do so.**
+* आप अपने Binance खाते के माध्यम से Aptos चेन पर Aptos Coin (APT) निकाल सकते हैं।&#x20;
+* **⚠️ वर्तमान में केवल Aptos Coin (APT) समर्थित है। अन्य संपत्तियां Bridge करने के लिए, ऊपर दिए गए अन्य ब्रिजिंग विकल्प देखें।**
+* **⚠️ इसके लिए आपके पास एक खाता होना आवश्यक है।**
 
-📖 [Here's a quick guide they made to help you out.](https://www.binance.com/en/support/faq/85a1c394ac1d489fb0bfac0ef2fceafd)
+📖 [यहाँ उनकी त्वरित गाइड है जो आपकी सहायता करेगी।](https://www.binance.com/en/support/faq/85a1c394ac1d489fb0bfac0ef2fceafd)
 {% endtab %}
 {% endtabs %}

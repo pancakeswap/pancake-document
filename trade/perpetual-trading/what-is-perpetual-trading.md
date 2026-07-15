@@ -1,16 +1,15 @@
-# What is Perpetual Trading?
+# Perpetual Trading क्या है?
 
-### **What are Perpetuals?**
+### **Perpetuals क्या हैं?**
 
-Perpetuals, perpetual swaps, or perps are a special type of futures contract without an expiration date.
+Perpetuals, perpetual swaps, या perps एक विशेष प्रकार के फ्यूचर्स कॉन्ट्रैक्ट होते हैं जिनकी कोई समाप्ति तिथि नहीं होती।
 
-Futures trading allows users to enter positions on margin (leverage) using borrowed funds to optimize capital. Using leverage allows a user to enter a position with a larger size than their account balance. For example, a user could take 10× leverage and trade 100 CAKE for the price of 10 CAKE — in this case, the initial margin would be 10 CAKE, used to collateralize the leveraged position.
+फ्यूचर्स ट्रेडिंग उपयोगकर्ताओं को पूंजी को अनुकूलित करने के लिए उधार लिए गए फंड का उपयोग करके मार्जिन (लीवरेज) पर पोजीशन लेने की अनुमति देती है। लीवरेज का उपयोग करने से उपयोगकर्ता अपने खाते की शेष राशि से अधिक आकार की पोजीशन ले सकता है। उदाहरण के लिए, एक उपयोगकर्ता 10× लीवरेज ले सकता है और 10 CAKE की कीमत पर 100 CAKE का व्यापार कर सकता है — इस स्थिति में, प्रारंभिक मार्जिन 10 CAKE होगा, जिसका उपयोग लीवरेज्ड पोजीशन को संपार्श्विक करने के लिए किया जाएगा।
 
-In addition to leverage, futures open the possibility of trading in both directions — buying (long) and selling (short). Perpetual contracts don't expire and allow the holder to trade the price action of an underlying asset without owning it.
+लीवरेज के अतिरिक्त, फ्यूचर्स दोनों दिशाओं में व्यापार करने की संभावना खोलते हैं — खरीदना (long) और बेचना (short)। परपेचुअल कॉन्ट्रैक्ट की समाप्ति नहीं होती और धारक को अंतर्निहित संपत्ति के स्वामित्व के बिना उसके मूल्य की गतिविधि का व्यापार करने की अनुमति देते हैं।
 
-### **Perpetuals on PancakeSwap**
+### **PancakeSwap पर Perpetuals**
 
-PancakeSwap has offered perpetuals trading since V1. Our latest version — PCS Perps — is powered by Aster's orderbook infrastructure and represents a full rebuild of the experience: CEX-grade execution, up to 200× leverage, and a PCS-native frontend accessible directly from your wallet.
+PancakeSwap ने V1 से परपेचुअल ट्रेडिंग की पेशकश की है। हमारा नवीनतम संस्करण — PCS Perps — Aster के ऑर्डरबुक इंफ्रास्ट्रक्चर द्वारा संचालित है और अनुभव का एक संपूर्ण पुनर्निर्माण का प्रतिनिधित्व करता है: CEX-स्तरीय एक्ज़िक्यूशन, 200× तक लीवरेज, और एक PCS-नेटिव फ्रंटएंड जो सीधे आपके वॉलेट से सुलभ है।
 
-Previous versions (V1 and V2) are now legacy products.
-
+पिछले संस्करण (V1 और V2) अब लीगेसी उत्पाद हैं।

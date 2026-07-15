@@ -1,25 +1,25 @@
 # 🔄 Exchange
 
-![](../../.gitbook/assets/pancakeswap-exchange-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/pancakeswap-exchange-header.png)
 
-PancakeSwap is an Automated Market Maker (AMM), and the Exchange is at the heart of PancakeSwap. PancakeSwap is the leading AMM on the BNB Smart Chain, and as statistics tell, the most popular Decentralized Exchange (DEX) ever!
+PancakeSwap एक Automated Market Maker (AMM) है, और Exchange, PancakeSwap का मुख्य केंद्र है। PancakeSwap, BNB Smart Chain पर अग्रणी AMM है, और आँकड़ों के अनुसार, यह अब तक का सबसे लोकप्रिय Decentralized Exchange (DEX) है!
 
-The PancakeSwap Exchange offers several features that support decentralized trading:
+PancakeSwap Exchange कई ऐसी सुविधाएँ प्रदान करता है जो विकेंद्रीकृत ट्रेडिंग को सुगम बनाती हैं:
 
 ### Swapping/Trading
 
-PancakeSwap lets users trade without the need to go through a Centralized Exchange. Everything you do on PancakeSwap is routed directly through your own wallet—no need to trust someone else with your coins!
+PancakeSwap उपयोगकर्ताओं को किसी Centralized Exchange के माध्यम से जाए बिना व्यापार करने की सुविधा देता है। PancakeSwap पर आप जो कुछ भी करते हैं, वह सीधे आपके वॉलेट से रूट किया जाता है — आपको अपने सिक्के किसी और को सौंपने की कोई आवश्यकता नहीं!
 
 ### Liquidity Pools
 
-You can only swap tokens on PancakeSwap if there is enough liquidity for those tokens. If nobody has added much liquidity for the token or tokens you want to swap, it will be difficult, expensive, or impossible to do so.
+आप PancakeSwap पर टोकन तभी स्वैप कर सकते हैं जब उन टोकन के लिए पर्याप्त तरलता उपलब्ध हो। यदि किसी ने उस टोकन या उन टोकनों के लिए जिन्हें आप स्वैप करना चाहते हैं, पर्याप्त तरलता नहीं जोड़ी है, तो ऐसा करना कठिन, महँगा या असंभव हो सकता है।
 
-Providing liquidity will get you LP Tokens, which will earn you rewards in the form of trading fees for making sure there's always liquidity for the exchange to use.
+तरलता प्रदान करने पर आपको LP Tokens मिलते हैं, जिनसे आप ट्रेडिंग शुल्क के रूप में पुरस्कार अर्जित करेंगे — यह सुनिश्चित करने के लिए कि Exchange के उपयोग के लिए हमेशा तरलता उपलब्ध रहे।
 
 ### Yield Farming
 
-Yield farming lets users that are providing liquidity earn CAKE rewards by locking their LP tokens into a smart contract. The incentive is to balance out the risk of [impermanent loss](https://academy.binance.com/en/articles/impermanent-loss-explained) that comes along with locking in your liquidity.
+Yield Farming उन उपयोगकर्ताओं को तरलता प्रदान करते हुए CAKE पुरस्कार अर्जित करने देता है जो अपने LP tokens को एक स्मार्ट कॉन्ट्रैक्ट में लॉक करते हैं। इसका उद्देश्य [impermanent loss](https://academy.binance.com/en/articles/impermanent-loss-explained) के जोखिम को संतुलित करना है जो आपकी तरलता लॉक करने के साथ आता है।
 
 ### Initial Farm Offerings (IFOs)
 
-An Initial Farm Offering is an event that lets users buy into a limited-time offer to purchase new tokens. The IFO price is usually very generous.
+एक Initial Farm Offering एक ऐसा आयोजन है जो उपयोगकर्ताओं को सीमित समय के लिए नए टोकन खरीदने का अवसर देता है। IFO की कीमत आमतौर पर बहुत अनुकूल होती है।

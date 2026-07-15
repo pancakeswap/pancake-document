@@ -1,173 +1,173 @@
 # Infinity StableSwap
 
-### Overview
+### अवलोकन
 
-Infinity StableSwap is a pool type within[ PancakeSwap Infinity](https://docs.pancakeswap.finance/trade/pancakeswap-infinity) optimized for swapping assets that should trade near the same price — such as stablecoins (e.g., USDC/USDT) or tightly-pegged assets (e.g., wrapped token pairs, liquid staking tokens, and liquid restaking tokens).
+Infinity StableSwap [ PancakeSwap Infinity](https://docs.pancakeswap.finance/trade/pancakeswap-infinity) के भीतर एक pool प्रकार है जो उन एसेट की swap के लिए अनुकूलित है जो समान मूल्य के करीब व्यापार करते हैं — जैसे stablecoins (जैसे USDC/USDT) या तंग-pegged एसेट (जैसे wrapped token जोड़ियां, liquid staking tokens और liquid restaking tokens)।
 
-It is powered by a StableSwap hook running on the Infinity architecture, inspired by Curve's StableSwap NG design. It is currently available on BNB Chain, with plans to expand to additional chains in the future.
-
-***
-
-### How It Works
-
-Infinity StableSwap uses a stable invariant curve — a hybrid between constant-sum and constant-product:
-
-* Near the peg → the curve behaves close to constant-sum, resulting in very low slippage for trades around 1:1.
-* Away from the peg → the curve gradually transitions toward constant-product, which helps restore balance and protects the pool during large imbalances or depeg events.
-
-This makes it especially effective for stable pairs where tight pricing and low slippage matter most.
+यह Infinity आर्किटेक्चर पर चलने वाले StableSwap hook द्वारा संचालित है, जो Curve के StableSwap NG डिज़ाइन से प्रेरित है। यह वर्तमान में BNB Chain पर उपलब्ध है, भविष्य में अतिरिक्त चेन पर विस्तार की योजना के साथ।
 
 ***
 
-### Key Features
+### यह कैसे काम करता है
 
-Optimized for near-peg swaps: Low slippage for trades between assets that are expected to trade at roughly the same price.
+Infinity StableSwap एक stable invariant curve का उपयोग करता है — constant-sum और constant-product के बीच एक संकर:
 
-Simple liquidity provisioning: Liquidity providers (LPs) deposit both tokens proportionally without needing to select or manage price ranges — unlike CLAMM pools.
+* peg के पास → curve constant-sum के करीब व्यवहार करता है, जिसके परिणामस्वरूप 1:1 के करीब ट्रेडों के लिए बहुत कम स्लिपेज होती है।
+* peg से दूर → curve धीरे-धीरे constant-product की ओर जाता है, जो बड़े असंतुलन या depeg घटनाओं के दौरान संतुलन बहाल करने और pool की रक्षा करने में मदद करता है।
 
-ERC-20 LP tokens: Your LP position is represented as a standard ERC-20 token, making it easy to use with yield programs, points campaigns, and other DeFi protocols.
-
-Dynamic fees: Fees can adjust based on pool balance conditions, rewarding trades that help restore the pool toward equilibrium and discouraging those that worsen imbalance.
-
-Infinity routing support: Trades route automatically through StableSwap pools when they offer the best price — no extra steps required for traders.
-
-Adjustable Amplification (A) parameter: Pool operators can ramp the A parameter up or down over time to adapt to changing market conditions, with safeguards to prevent abrupt changes.
+यह इसे विशेष रूप से stable जोड़ियों के लिए प्रभावी बनाता है जहां तंग मूल्य निर्धारण और कम स्लिपेज सबसे महत्वपूर्ण हैं।
 
 ***
 
-### Pool Parameters
+### प्रमुख विशेषताएं
 
-StableSwap pool behavior is governed by a small set of parameters, typically set at pool creation time.
+Near-peg swaps के लिए अनुकूलित: उन एसेट के बीच ट्रेडों के लिए कम स्लिपेज जो लगभग समान मूल्य पर व्यापार करने की उम्मीद है।
+
+सरल तरलता प्रावधान: Liquidity providers (LPs) बिना मूल्य सीमा का चयन या प्रबंधन किए बिना दोनों टोकन आनुपातिक रूप से जमा करते हैं — CLAMM pools के विपरीत।
+
+ERC-20 LP tokens: आपकी LP पोजीशन एक मानक ERC-20 टोकन के रूप में प्रदर्शित होती है, जिससे yield कार्यक्रमों, points campaigns और अन्य DeFi प्रोटोकॉल के साथ उपयोग करना आसान हो जाता है।
+
+Dynamic fees: Pool balance की स्थितियों के आधार पर शुल्क समायोजित हो सकते हैं, उन ट्रेडों को पुरस्कृत करते हुए जो pool को equilibrium की ओर बहाल करने में मदद करते हैं और उन लोगों को हतोत्साहित करते हैं जो असंतुलन को खराब करते हैं।
+
+Infinity routing support: ट्रेड स्वचालित रूप से StableSwap pools के माध्यम से route होते हैं जब वे सर्वोत्तम मूल्य प्रदान करते हैं — ट्रेडर्स के लिए कोई अतिरिक्त कदम की आवश्यकता नहीं।
+
+Adjustable Amplification (A) parameter: Pool operators समय के साथ A parameter को ऊपर या नीचे ramp कर सकते हैं जो बदलती बाजार स्थितियों के अनुकूल होते हैं, अचानक परिवर्तनों को रोकने के लिए सुरक्षा उपायों के साथ।
+
+***
+
+### Pool पैरामीटर
+
+StableSwap pool का व्यवहार पैरामीटर के एक छोटे सेट द्वारा नियंत्रित होता है, जो आमतौर पर pool निर्माण के समय सेट किए जाते हैं।
 
 #### Amplification Coefficient (A)
 
-The A parameter controls how tightly the pool hugs the 1:1 price peg.
+A parameter नियंत्रित करता है कि pool 1:1 मूल्य peg को कितनी तंगी से पकड़ता है।
 
-| A value  | Effect                                                                         |
+| A मूल्य  | प्रभाव                                                                         |
 | -------- | ------------------------------------------------------------------------------ |
-| Higher A | Tighter curve around peg; lower slippage near 1:1; more sensitive to imbalance |
-| Lower A  | Looser curve; behaves more like a standard constant-product pool               |
+| उच्च A | peg के चारों ओर तंग curve; 1:1 के पास कम स्लिपेज; असंतुलन के प्रति अधिक संवेदनशील |
+| कम A  | ढीला curve; एक मानक constant-product pool की तरह अधिक व्यवहार करता है               |
 
-Rule of thumb: Use a higher A for assets with a strong, reliable peg (e.g., USDC/USDT). Use a lower A for assets with looser or more volatile pegs (e.g., some LST pairs).
+अंगूठे का नियम: मजबूत, विश्वसनीय peg वाली एसेट के लिए उच्च A का उपयोग करें (जैसे USDC/USDT)। ढीले या अधिक अस्थिर pegs वाली एसेट के लिए कम A का उपयोग करें (जैसे कुछ LST जोड़ियां)।
 
-The A parameter can be gradually ramped up or down by the pool operator over a defined period of time. Changes are applied gradually with safeguards to prevent manipulation or sudden pricing shifts.
+A parameter को pool operator द्वारा एक निर्धारित समय अवधि में धीरे-धीरे ऊपर या नीचे ramped किया जा सकता है। परिवर्तन धीरे-धीरे लागू होते हैं जिसमें हेरफेर या अचानक मूल्य बदलावों को रोकने के लिए सुरक्षा उपाय होते हैं।
 
 #### Off-Peg Fee Multiplier
 
-An additional parameter that adjusts effective fees when the pool moves away from equilibrium. It helps discourage trades that would further imbalance the pool and makes the pool more robust during market stress or depeg events.
+एक अतिरिक्त पैरामीटर जो equilibrium से दूर जाने पर प्रभावी शुल्क को समायोजित करता है। यह उन ट्रेडों को हतोत्साहित करने में मदद करता है जो pool को और असंतुलित करेंगे और बाजार के तनाव या depeg घटनाओं के दौरान pool को अधिक मजबूत बनाता है।
 
 #### Dynamic Fees
 
-A fee charged on each swap, paid to liquidity providers. Infinity StableSwap supports dynamic fees — meaning the effective fee on a given trade can vary depending on the current state of the pool (e.g., whether the trade improves or worsens balance).
+प्रत्येक swap पर लिया जाने वाला शुल्क, liquidity providers को भुगतान किया जाता है। Infinity StableSwap dynamic fees का समर्थन करता है — जिसका अर्थ है कि किसी दिए गए ट्रेड पर प्रभावी शुल्क pool की वर्तमान स्थिति (जैसे ट्रेड balance में सुधार या बिगाड़ता है) के आधार पर भिन्न हो सकता है।
 
 ***
 
-### Infinity StableSwap vs. Classic StableSwap
+### Infinity StableSwap बनाम Classic StableSwap
 
-If you've used PancakeSwap's existing StableSwap before, here's what changes — and what stays the same.
+यदि आपने पहले PancakeSwap के मौजूदा StableSwap का उपयोग किया है, तो यहां क्या बदलता है — और क्या समान रहता है।
 
 | <p><br></p>                 | Classic StableSwap                                        | Infinity StableSwap                                                |
 | --------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------ |
-| Pricing curve               | Stable invariant (hybrid constant-sum / constant-product) | Same stable invariant curve, same low slippage near peg            |
-| ERC-20 LP tokens            | ✅ Yes                                                     | ✅ Yes                                                              |
-| Pool creation               | Ops-heavy; requires manual setup by the team              | Permissionless — anyone can create a pool                          |
-| Swap fees                   | Fixed per pair (e.g. 0.01% for USDC/USDT)                 | Dynamic fees — adjusts based on how the trade affects pool balance |
-| Amplification (A) parameter | Static — set once, cannot be changed                      | Adjustable — can be ramped up or down gradually over time          |
-| Off-peg fee multiplier      | ❌ Not supported                                           | ✅ Supported — helps protect the pool during depeg events           |
-| Gas efficiency              | Standard                                                  | Improved — benefits from Infinity's Singleton and Flash Accounting |
+| मूल्य निर्धारण curve               | Stable invariant (hybrid constant-sum / constant-product) | वही stable invariant curve, peg के पास वही कम स्लिपेज            |
+| ERC-20 LP tokens            | ✅ हां                                                     | ✅ हां                                                              |
+| Pool निर्माण               | Ops-heavy; team द्वारा manual setup की आवश्यकता              | Permissionless — कोई भी pool बना सकता है                          |
+| Swap fees                   | प्रति जोड़ी निश्चित (जैसे USDC/USDT के लिए 0.01%)                 | Dynamic fees — ट्रेड pool balance को कैसे प्रभावित करता है इसके आधार पर समायोजित होता है |
+| Amplification (A) parameter | Static — एक बार सेट, बदला नहीं जा सकता                      | Adjustable — समय के साथ धीरे-धीरे ऊपर या नीचे ramped किया जा सकता है          |
+| Off-peg fee multiplier      | ❌ समर्थित नहीं                                           | ✅ समर्थित — depeg घटनाओं के दौरान pool की रक्षा करने में मदद करता है           |
+| Gas efficiency              | मानक                                                  | बेहतर — Infinity के Singleton और Flash Accounting से लाभ |
 
-#### What stays the same
+#### क्या समान रहता है
 
-* The core pricing curve and the near-peg low slippage behavior is unchanged.
+* मूल मूल्य निर्धारण curve और near-peg कम स्लिपेज व्यवहार अपरिवर्तित है।
 
-#### What's new and better
+#### क्या नया और बेहतर है
 
-* Permissionless Pool Creation: Pools can be created permissionlessly without requiring manual team setup.
-* Dynamic fees protect LPs: Instead of a single fixed fee, the fee can adjust per trade based on whether the trade helps or hurts pool balance — making the pool more resilient during volatile conditions.
-* Adaptable A parameter: The amplification coefficient can be tuned over time as market conditions change, rather than being locked in at deployment forever.
-
-***
-
-### Frequently Asked Questions
-
-What assets are suitable for Infinity StableSwap?
-
-Assets that are expected to trade near the same price: stablecoins (USDC, USDT, BUSD, etc.), wrapped equivalents of the same asset (e.g., WBTC/cbBTC), and select liquid staking tokens / liquid restaking tokens (LST/LRT) pairs where peg volatility is low.
-
-<br>
-
-How is Infinity StableSwap different from the old PancakeSwap StableSwap?
-
-Infinity StableSwap is implemented as a hook on PancakeSwap Infinity, which means it inherits all of Infinity's infrastructure benefits, including lower gas costs via Singleton and Flash Accounting, and a more flexible fee system. It also supports new capabilities like dynamic fees and adjustable amplification that the legacy StableSwap did not offer.
-
-<br>
-
-Do I need to manage my position over time?
-
-No. Unlike CLAMM, you don't need to set or adjust price ranges. Your liquidity is always active across the full curve, so there's no risk of your position going "out of range."
-
-<br>
-
-Can I provide liquidity with just one token?
-
-Yes, single-token deposits are supported.
-
-<br>
-
-How do dynamic fees work?
-
-In Infinity StableSwap, the swap fee can vary per trade based on how the trade affects the pool's balance. Trades that help bring the pool back toward equilibrium may pay lower effective fees, while trades that worsen imbalance may pay higher fees. This is designed to protect LPs and maintain healthier pool conditions.
-
-
+* Permissionless Pool Creation: Pool को manual team setup की आवश्यकता के बिना permissionlessly बनाया जा सकता है।
+* Dynamic fees LPs की रक्षा करती हैं: एकल निश्चित शुल्क के बजाय, शुल्क प्रति ट्रेड समायोजित हो सकता है इस आधार पर कि ट्रेड pool balance में मदद करता है या नुकसान पहुंचाता है — अस्थिर परिस्थितियों के दौरान pool को अधिक लचीला बनाता है।
+* Adaptable A parameter: amplification coefficient को समय के साथ बाजार की स्थितियों के अनुसार tuned किया जा सकता है, बजाय हमेशा के लिए deployment पर locked होने के।
 
 ***
 
+### अक्सर पूछे जाने वाले सवाल (FAQ)
 
+Infinity StableSwap के लिए कौन सी एसेट उपयुक्त हैं?
 
-## Creating an Infinity StableSwap Pool
-
-
-
-Infinity StableSwap pools are permissionless — anyone can create one without needing approval from the PancakeSwap team.
+वे एसेट जो समान मूल्य के करीब व्यापार करने की उम्मीद है: stablecoins (USDC, USDT, BUSD, आदि), एक ही एसेट के wrapped equivalents (जैसे WBTC/cbBTC), और चुनिंदा liquid staking tokens / liquid restaking tokens (LST/LRT) जोड़ियां जहां peg अस्थिरता कम हो।
 
 <br>
 
-### Step-by-step
+Infinity StableSwap पुराने PancakeSwap StableSwap से कैसे अलग है?
 
-1\. Go to the Farm/Liquidity page and click Create Pool.
-
-<figure><img src="../../.gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
+Infinity StableSwap को PancakeSwap Infinity पर एक hook के रूप में लागू किया गया है, जिसका अर्थ है कि यह Infinity के सभी infrastructure लाभों को प्राप्त करता है, जिसमें Singleton और Flash Accounting के माध्यम से कम gas costs, और एक अधिक लचीली शुल्क प्रणाली शामिल है। यह dynamic fees और adjustable amplification जैसी नई क्षमताओं का भी समर्थन करता है जो legacy StableSwap में नहीं थीं।
 
 <br>
 
-2\. Select StableSwap Pool from the pool type options.
+क्या मुझे समय के साथ अपनी पोजीशन प्रबंधित करनी होगी?
 
-<figure><img src="../../.gitbook/assets/unknown (1).png" alt=""><figcaption></figcaption></figure>
-
-<br>
-
-3\. Select the token pair for your pool (e.g. USDC / USDT).
-
-<figure><img src="../../.gitbook/assets/unknown (2).png" alt=""><figcaption></figcaption></figure>
+नहीं। CLAMM के विपरीत, आपको मूल्य सीमा सेट या समायोजित करने की आवश्यकता नहीं है। आपकी तरलता हमेशा पूरे curve में सक्रिय रहती है, इसलिए आपकी पोजीशन के "out of range" जाने का कोई जोखिम नहीं है।
 
 <br>
 
-4\. Pool Parameters
+क्या मैं केवल एक टोकन के साथ तरलता प्रदान कर सकता/सकती हूं?
 
-| Parameter             | What it does                                                                                                    |
+हां, single-token deposits समर्थित हैं।
+
+<br>
+
+Dynamic fees कैसे काम करती हैं?
+
+Infinity StableSwap में, swap fee प्रति ट्रेड इस आधार पर भिन्न हो सकती है कि ट्रेड pool के balance को कैसे प्रभावित करता है। जो ट्रेड pool को equilibrium की ओर वापस लाने में मदद करते हैं वे कम प्रभावी fees दे सकते हैं, जबकि जो ट्रेड असंतुलन को बिगाड़ते हैं वे उच्च fees दे सकते हैं। यह LPs की रक्षा करने और स्वस्थ pool की स्थितियों को बनाए रखने के लिए डिज़ाइन किया गया है।
+
+
+
+***
+
+
+
+## Infinity StableSwap Pool बनाना
+
+
+
+Infinity StableSwap pools permissionless हैं — कोई भी PancakeSwap team से अनुमोदन की आवश्यकता के बिना एक बना सकता है।
+
+<br>
+
+### चरण-दर-चरण
+
+1\. Farm/Liquidity पेज पर जाएं और Create Pool पर क्लिक करें।
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
+
+<br>
+
+2\. Pool type options से StableSwap Pool चुनें।
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unknown%20%281%29.png" alt=""><figcaption></figcaption></figure>
+
+<br>
+
+3\. अपने pool के लिए टोकन जोड़ी चुनें (जैसे USDC / USDT)।
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unknown%20%282%29.png" alt=""><figcaption></figcaption></figure>
+
+<br>
+
+4\. Pool पैरामीटर
+
+| पैरामीटर             | यह क्या करता है                                                                                                    |
 | --------------------- | --------------------------------------------------------------------------------------------------------------- |
-| Swap Fee              | Fee charged on each swap, paid to LPs. Default is 0.01% for tight stable pairs.                                 |
-| A (Amplification)     | Controls how tightly the curve hugs the peg. Higher = lower slippage near 1:1, but more sensitive to imbalance. |
-| Offpeg Fee Multiplier | Scales up fees when the pool moves away from balance, discouraging trades that worsen imbalance.                |
-| Moving Average Time   | Time window used to calculate the moving average price for dynamic fee adjustments.                             |
+| Swap Fee              | प्रत्येक swap पर लिया जाने वाला शुल्क, LPs को भुगतान किया जाता है। तंग stable जोड़ियों के लिए डिफ़ॉल्ट 0.01% है।                                 |
+| A (Amplification)     | नियंत्रित करता है कि curve peg को कितनी तंगी से पकड़ता है। उच्च = 1:1 के पास कम स्लिपेज, लेकिन असंतुलन के प्रति अधिक संवेदनशील। |
+| Offpeg Fee Multiplier | जब pool balance से दूर जाता है तो fees बढ़ाता है, उन ट्रेडों को हतोत्साहित करता है जो असंतुलन को खराब करते हैं।                |
+| Moving Average Time   | dynamic fee adjustments के लिए moving average price की गणना के लिए उपयोग की जाने वाली समय विंडो।                             |
 
-⚠️ Set parameters carefully. Incorrect parameters — especially a very high A on a loosely-pegged asset — can increase risk for LPs. If unsure, use the preset for your asset type and avoid changing Advanced settings.
+⚠️ पैरामीटर सावधानी से सेट करें। गलत पैरामीटर — विशेष रूप से ढीले-pegged एसेट पर बहुत उच्च A — LPs के लिए जोखिम बढ़ा सकते हैं। यदि आप अनिश्चित हैं, तो अपने एसेट प्रकार के लिए preset का उपयोग करें और Advanced settings बदलने से बचें।
 
 <br>
 
-Choose a Pool Parameter Preset — this automatically sets the recommended parameters for your asset type. You can still manually adjust them via the Advanced toggle.
+एक Pool Parameter Preset चुनें — यह आपके एसेट प्रकार के लिए अनुशंसित पैरामीटर स्वचालित रूप से सेट करता है। आप फिर भी Advanced toggle के माध्यम से उन्हें manually समायोजित कर सकते हैं।
 
-<figure><img src="../../.gitbook/assets/unknown (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unknown%20%283%29.png" alt=""><figcaption></figcaption></figure>
 
 | Preset                            | A    | Offpeg Fee Multiplier | Moving Average Time (seconds) |
 | --------------------------------- | ---- | --------------------- | ----------------------------- |
@@ -177,21 +177,20 @@ Choose a Pool Parameter Preset — this automatically sets the recommended param
 
 <br>
 
-&#x20; Not sure which to pick?&#x20;
+&#x20; कौन सा चुनना है, इसके बारे में अनिश्चित हैं?&#x20;
 
-* Use Fiat Redeemable Stablecoins for pairs like USDC/USDT
-* Use Crypto Collateralized Stablecoins for algo or crypto-backed stablecoins
-* Use Liquid Restaking Tokens for LRT pairs like stkBNB/WBNB.
-
-<br>
-
-5\. Enter the deposit amount to seed initial liquidity. Both token amounts must be equal (e.g. 1 USDC and 1 USDT).
-
-<figure><img src="../../.gitbook/assets/unknown (4).png" alt=""><figcaption></figcaption></figure>
+* USDC/USDT जैसी जोड़ियों के लिए Fiat Redeemable Stablecoins का उपयोग करें
+* algo या crypto-backed stablecoins के लिए Crypto Collateralized Stablecoins का उपयोग करें
+* stkBNB/WBNB जैसी LRT जोड़ियों के लिए Liquid Restaking Tokens का उपयोग करें।
 
 <br>
 
-6\. Click Preview Pool, review your settings, check the confirmation box, then click Create Pool.
+5\. प्रारंभिक तरलता seed करने के लिए जमा राशि दर्ज करें। दोनों टोकन की राशि समान होनी चाहिए (जैसे 1 USDC और 1 USDT)।
 
-<figure><img src="../../.gitbook/assets/unknown (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unknown%20%284%29.png" alt=""><figcaption></figcaption></figure>
 
+<br>
+
+6\. Preview Pool पर क्लिक करें, अपनी settings की समीक्षा करें, confirmation box चेक करें, फिर Create Pool पर क्लिक करें।
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unknown%20%285%29.png" alt=""><figcaption></figcaption></figure>

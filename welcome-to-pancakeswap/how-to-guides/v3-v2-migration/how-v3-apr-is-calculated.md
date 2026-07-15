@@ -1,61 +1,61 @@
-# How v3 APR is calculated
+# v3 APR की गणना कैसे की जाती है
 
 {% hint style="info" %}
-In V3 Liquidity and Farms, with the new non-fungible liquidity and customizable price range ability. Each LP position will have its own LP fee and CAKE farming APR.
+v3 Liquidity और Farms में, नई non-fungible तरलता और अनुकूलन योग्य मूल्य सीमा क्षमता के साथ। प्रत्येक LP पोजीशन का अपना LP शुल्क और CAKE Farming APR होगा।
 {% endhint %}
 
-The total APR is combined by the LP fee APR and CAKE reward APR
+कुल APR, LP शुल्क APR और CAKE रिवॉर्ड APR के संयोजन से बनता है
 
-### LP fee
+### LP शुल्क
 
-Theoretically speaking, given a price range and liquidity user about to add, we can estimate the expected future 7 days fee as following&#x20;
+सैद्धांतिक रूप से, दी गई मूल्य सीमा और उपयोगकर्ता द्वारा जोड़ी जाने वाली तरलता को देखते हुए, हम अगले 7 दिनों की अपेक्षित शुल्क का अनुमान निम्नानुसार लगा सकते हैं&#x20;
 
 $$
 fee_{next7d} = fee_{in} \frac{\Delta{L}}{L_{in} + \Delta{L}}
 $$
 
-* $$fee_{in}$$ : Fee amount accrued in the user specified price range in last 7 days
-* $$L_{in}$$: Current liquidity in the user specified price range
-* $$\Delta{L}$$: Liquidity user want to add to the price range
+* $$fee_{in}$$ : पिछले 7 दिनों में उपयोगकर्ता द्वारा निर्दिष्ट मूल्य सीमा में अर्जित शुल्क राशि
+* $$L_{in}$$: उपयोगकर्ता द्वारा निर्दिष्ट मूल्य सीमा में वर्तमान तरलता
+* $$\Delta{L}$$: उपयोगकर्ता द्वारा मूल्य सीमा में जोड़ी जाने वाली तरलता
 
-#### Fee in range
+#### सीमा में शुल्क
 
-For $$fee_{in}$$, we use the historical trading volume data, fee tier and historical price data to estimate the price in range
+$$fee_{in}$$ के लिए, हम ऐतिहासिक ट्रेडिंग वॉल्यूम डेटा, शुल्क स्तर और ऐतिहासिक मूल्य डेटा का उपयोग करके मूल्य सीमा में अनुमान लगाते हैं
 
 $$fee_{in} = f_tV_{7d}\frac{T_{in}}{T_{7d}}$$
 
-* $$f_t$$: Fee tier
-* $$V_{7d}$$: Total trading volume of last 7 days
-* $$T_{in}$$: Duration, measured in seconds, of prices staying within the price range in the past 7 days
-* $$T_{7d}$$: 7 days measured in seconds
+* $$f_t$$: शुल्क स्तर
+* $$V_{7d}$$: पिछले 7 दिनों का कुल ट्रेडिंग वॉल्यूम
+* $$T_{in}$$: पिछले 7 दिनों में मूल्य सीमा के भीतर रहने की अवधि, सेकंड में मापी गई
+* $$T_{7d}$$: 7 दिन सेकंड में मापे गए
 
 ### Cake APR
 
-#### Pool Allocation
+#### Pool आवंटन
 
-The total reward cake per second in MC v3 using upkeep and can be derived by `latestPeriodCakePerSecond`&#x20;
+MC v3 में upkeep का उपयोग करके प्रति सेकंड कुल रिवॉर्ड CAKE `latestPeriodCakePerSecond` द्वारा प्राप्त किया जा सकता है&#x20;
 
 `cakePerSecond = lastestPeriodCakePerSecond / 1e12 / 1e18`
 
-In each pool, we can use `poolInfo` to get the `poolWeight` by dividing  `poolInfo.allocPoint / totalAllocPoint`
+प्रत्येक Pool में, हम `poolInfo` का उपयोग करके `poolInfo.allocPoint / totalAllocPoint` विभाजित करके `poolWeight` प्राप्त कर सकते हैं
 
-#### Global Cake APR
+#### वैश्विक Cake APR
 
-Global APR calculated using the total amount of active & staked liquidity with the pool CAKE reward emissions.
+वैश्विक APR की गणना Pool CAKE रिवॉर्ड एमिशन के साथ कुल सक्रिय और Staked तरलता राशि का उपयोग करके की जाती है।
 
 `APR (global) = (cakePerSecond * 31536000) / (totalAllocPoint / pool.allocPoint) * 100 * cakeUSD / totalStakedLiquidityUSD`
 
-`totalStakedLiquidityUSD` represents the current pool active staked liquidity in USD, composing by all the position ticks in range staked in MasterChef v3.
+`totalStakedLiquidityUSD` USD में वर्तमान Pool सक्रिय Staked तरलता का प्रतिनिधित्व करता है, जो MasterChef v3 में Staked सभी in-range पोजीशन टिक्स से बना है।
 
-#### Position Cake APR
+#### पोजीशन Cake APR
 
-APRs for individual positions may vary depend on their price range settings.
+व्यक्तिगत पोजीशन के APR उनकी मूल्य सीमा सेटिंग के आधार पर भिन्न हो सकते हैं।
 
 $$
 ARP_p = {\frac{USD_{r}}{USD_{p}}} {\frac{L_{p}}{L_{lm}}}
 $$
 
-* $$USD_r$$: CAKE reward earn USD per year in pool
-* $$USD_p$$: Total USD value in position
-* $$L_{p}$$: Position liquidity
-* $$L_{lm}$$: Total staking liquidity which tracked by LMPool
+* $$USD_r$$: Pool में प्रति वर्ष अर्जित CAKE रिवॉर्ड USD में
+* $$USD_p$$: पोजीशन में कुल USD मूल्य
+* $$L_{p}$$: पोजीशन तरलता
+* $$L_{lm}$$: LMPool द्वारा ट्रैक की गई कुल Staking तरलता

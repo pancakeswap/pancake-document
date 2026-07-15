@@ -1,44 +1,44 @@
 # FAQ
 
 {% hint style="danger" %}
-\[ARCHIVED] Options – As of March 11, 2025\
-If you still have liquidity to withdraw, please do so immediately by visiting https://www.stryke.xyz/en/trade.
+\[ARCHIVED] Options – 11 मार्च 2025 से\
+यदि आपके पास अभी भी withdraw करने के लिए liquidity है, तो कृपया तुरंत https://www.stryke.xyz/en/trade पर जाकर ऐसा करें।
 {% endhint %}
 
-1. **What are CLAMM Options?**
+1. **CLAMM Options क्या हैं?**
 
-CLAMM Options is a novel solution for on-chain options trading. It offers liquidity providers a platform to utilize v3 liquidity on PancakeSwap for selling options, enabling them to earn standard trading fees, premiums, and additional rewards. Traders can leverage this liquidity to trade American-style options on a variety of tokens.
+CLAMM Options, on-chain options trading के लिए एक novel solution है। यह liquidity providers को options बेचने के लिए PancakeSwap पर v3 liquidity का उपयोग करने का platform प्रदान करता है, जिससे वे standard trading fees, premiums और अतिरिक्त rewards अर्जित कर सकते हैं। Traders इस liquidity का उपयोग विभिन्न tokens पर American-style options trade करने के लिए कर सकते हैं।
 
-2. **What markets are available at launch?**
+2. **Launch पर कौन से markets उपलब्ध हैं?**
 
-Initially, we will launch on Arbitrum and offer markets for ETH/USDC, wBTC/USDC, and ARB/USDC. Additional markets will be gradually introduced, to enable option trading for all tokens in the future.
+शुरुआत में, हम Arbitrum पर launch करेंगे और ETH/USDC, wBTC/USDC, और ARB/USDC के लिए markets offer करेंगे। भविष्य में सभी tokens के लिए option trading enable करने के लिए अतिरिक्त markets धीरे-धीरे introduce किए जाएंगे।
 
-3. **How do CLAMM Options benefit liquidity providers (LPs)?**
+3. **CLAMM Options liquidity providers (LPs) को कैसे लाभ देते हैं?**
 
-CLAMM Options allow LPs to deposit v3 liquidity on PancakeSwap through Stryke (formerly Dopex), unlocking inactive capital while offering superior yield compared to standard DEX LPing. By becoming a CLAMM LP, you gain far more efficient utilization of your liquidity with minimal opportunity cost, as unutilized liquidity remains in its original AMM, eligible for standard trading fees. While the liquidity utilized for selling options earns high premiums with a similar payoff as a CLAMM v3 liquidity position.
+CLAMM Options LPs को Stryke (पूर्व में Dopex) के माध्यम से PancakeSwap पर v3 liquidity deposit करने की अनुमति देते हैं, जिससे inactive capital unlocked होती है और standard DEX LPing की तुलना में बेहतर yield मिलती है। CLAMM LP बनने से आपकी liquidity का न्यूनतम opportunity cost के साथ अधिक कुशल उपयोग होता है, क्योंकि unused liquidity अपने original AMM में बनी रहती है, जो standard trading fees के लिए eligible है। जबकि options बेचने के लिए उपयोग की गई liquidity CLAMM v3 liquidity position के समान payoff के साथ उच्च premiums अर्जित करती है।
 
-4. **What happens to unutilized liquidity as a CLAMM Options LP?**
+4. **CLAMM Options LP के रूप में unused liquidity का क्या होता है?**
 
-If your liquidity remains unutilized, it stays in PancakeSwap v3 pools, ensuring no opportunity cost relative to normal v3 LPing. However, when options buyers utilize your liquidity, it is withdrawn from PancakeSwap, and reserved, and you earn a premium paid by options traders.
+यदि आपकी liquidity unused रहती है, तो यह PancakeSwap v3 pools में बनी रहती है, जिससे normal v3 LPing की तुलना में कोई opportunity cost नहीं होती। हालाँकि, जब options buyers आपकी liquidity का उपयोग करते हैं, तो इसे PancakeSwap से withdraw करके reserve किया जाता है, और आप options traders द्वारा paid premium अर्जित करते हैं।
 
-5. **What are the key benefits of CLAMM Options for LPs?**
+5. **LPs के लिए CLAMM Options के प्रमुख लाभ क्या हैं?**
 
-* Positions remain on the underlying AMM if unutilized, allowing continued earning of trading fees.
-* Options Premiums earned are significantly more lucrative than standard trading fees.
-* Out-of-range v3 liquidity that doesn't earn trading fees becomes eligible for premiums.
-* CLAMM LPs have identical exposure as standard LPing.
+* Unused रहने पर positions underlying AMM पर बनी रहती हैं, जिससे trading fees अर्जित होती रहती हैं।
+* Options Premiums standard trading fees की तुलना में काफी अधिक lucrative होती हैं।
+* Out-of-range v3 liquidity जो trading fees नहीं कमाती, premiums के लिए eligible हो जाती है।
+* CLAMM LPs का exposure standard LPing के समान होता है।
 
-6. **What features do CLAMM Options offer for traders?**
+6. **CLAMM Options traders को कौन सी features प्रदान करते हैं?**
 
-* Instant fills for both long and short option positions through accessibility to deep on-chain liquidity.
-* Ability to close positions at any time (American-style options).
-* Portfolio margin for superior capital efficiency.
-* One-click option strategies for streamlined trading.
+* Deep on-chain liquidity तक पहुँच के माध्यम से long और short option positions दोनों के लिए instant fills।
+* किसी भी समय positions close करने की क्षमता (American-style options)।
+* बेहतर capital efficiency के लिए portfolio margin।
+* Streamlined trading के लिए one-click option strategies।
 
-7. **What advantages do CLAMM Options provide in terms of strike prices and expiries?**
+7. **CLAMM Options strike prices और expiries के मामले में क्या लाभ प्रदान करते हैं?**
 
-CLAMM offers a significantly wider range of strikes, utilizing any tick as the strike price. This grants traders more flexibility in hedging or speculating on prices. Additionally, traders can enjoy expiries ranging from 1 hour to 24 hours.
+CLAMM किसी भी tick को strike price के रूप में उपयोग करते हुए significantly wider range of strikes प्रदान करता है। यह traders को prices को hedge करने या speculate करने में अधिक flexibility देता है। इसके अतिरिक्त, traders 1 घंटे से 24 घंटे तक की expiries का आनंद ले सकते हैं।
 
-8. **How do American-style options benefit traders?**
+8. **American-style options traders को कैसे लाभ देते हैं?**
 
-American-style options allow traders to close their positions at any time before expiry. This flexibility empowers traders to manage their positions more effectively, enhancing their trading experience.
+American-style options traders को expiry से पहले किसी भी समय अपनी positions close करने की अनुमति देते हैं। यह लचीलापन traders को अपनी positions अधिक प्रभावी ढंग से manage करने का अधिकार देता है, जिससे उनका trading experience बेहतर होता है।

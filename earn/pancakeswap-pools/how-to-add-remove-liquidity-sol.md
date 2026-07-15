@@ -1,166 +1,166 @@
-# How to Add / Remove Liquidity (SOL)
+# तरलता कैसे जोड़ें / हटाएं (SOL)
 
-"Liquidity" is central to how PancakeSwap's Exchange works. You can add liquidity for any token pair by staking both through the Liquidity page.
+"तरलता" PancakeSwap के Exchange के कार्य करने का केंद्रीय आधार है। आप Liquidity पृष्ठ के माध्यम से दोनों टोकन Staking करके किसी भी टोकन जोड़े के लिए तरलता जोड़ सकते हैं।
 
-In return for adding liquidity, you'll receive trading fees for that pair and farming rewards (if applicable)
+तरलता जोड़ने के बदले में, आपको उस जोड़े के लिए ट्रेडिंग शुल्क और यील्ड फार्मिंग पुरस्कार (यदि लागू हो) प्राप्त होंगे।
 
-PancakeSwap V3 lets you provide **concentrated liquidity** — meaning you choose the price range where your liquidity is active. This gives you more control and efficiency over how your capital is used.
+PancakeSwap V3 आपको **केंद्रित तरलता** प्रदान करने देता है — अर्थात आप वह मूल्य सीमा चुनते हैं जहां आपकी तरलता सक्रिय रहे। यह आपको अपनी पूंजी के उपयोग पर अधिक नियंत्रण और दक्षता देता है।
 
 {% hint style="warning" %}
-**Note:** Images shown in this guide are for illustrative purposes only and may not reflect real-time data or current pool statistics.
+**नोट:** इस गाइड में दिखाई गई छवियां केवल उदाहरण के उद्देश्य से हैं और वास्तविक समय के डेटा या वर्तमान pool आंकड़ों को नहीं दर्शाती हैं।
 {% endhint %}
 
 ***
 
-## Add Liquidity
+## तरलता जोड़ें
 
-You can add liquidity in two ways:
+आप दो तरीकों से तरलता जोड़ सकते हैं:
 
-* **Option 1:** Add to an existing pool
-* **Option 2:** Add more tokens to a position you've already created
+* **विकल्प 1:** किसी मौजूदा pool में जोड़ें
+* **विकल्प 2:** आपके द्वारा पहले से बनाई गई पोजीशन में और टोकन जोड़ें
 
 ***
 
-### Option 1: Add to an Existing Pool
+### विकल्प 1: किसी मौजूदा Pool में जोड़ें
 
-#### Step 1: Go to the Pool List Page
+#### चरण 1: Pool सूची पृष्ठ पर जाएं
 
-Here you’ll see all active V3 pools on Solana.
+यहां आपको Solana पर सभी सक्रिय V3 pool दिखेंगे।
 
-<figure><img src="../../.gitbook/assets/image (386).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28386%29.png" alt=""><figcaption></figcaption></figure>
 
-#### Step 2: Use Filters to Find Your Pool
+#### चरण 2: अपना Pool खोजने के लिए फ़िल्टर का उपयोग करें
 
-You can use the filters at the top of the page to:
+आप पृष्ठ के शीर्ष पर फ़िल्टर का उपयोग करके:
 
-*   **Search** for a specific token pair<br>
+*   किसी विशेष टोकन जोड़े के लिए **खोज** कर सकते हैं<br>
 
-    <figure><img src="../../.gitbook/assets/image (387).png" alt=""><figcaption></figcaption></figure>
-*   **Change layout view** (grid/list)<br>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28387%29.png" alt=""><figcaption></figcaption></figure>
+*   **लेआउट व्यू बदल** सकते हैं (ग्रिड/सूची)<br>
 
-    <figure><img src="../../.gitbook/assets/image (388).png" alt=""><figcaption></figcaption></figure>
-*   **Sort pools** by TVL, Volume, Fees, or APR<br>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28388%29.png" alt=""><figcaption></figcaption></figure>
+*   pool को TVL, Volume, Fees, या APR के आधार पर **सॉर्ट** कर सकते हैं<br>
 
-    <figure><img src="../../.gitbook/assets/image (389).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28389%29.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
-If your pool doesn’t appear immediately after creation, please allow up to 5 minutes. TVL, volume, fees, and APR stats are updated approximately every 15 minutes as swaps flow through the pool.
+यदि आपका pool बनाने के तुरंत बाद दिखाई नहीं देता, तो कृपया 5 मिनट तक प्रतीक्षा करें। TVL, volume, fees और APR आंकड़े लगभग हर 15 मिनट में अपडेट होते हैं क्योंकि pool के माध्यम से Swap प्रवाहित होते हैं।
 {% endhint %}
 
-#### Step 3: Choose How You Want to Add Liquidity
+#### चरण 3: तरलता जोड़ने का तरीका चुनें
 
-You can start the process by either:
+आप निम्न में से किसी एक तरीके से प्रक्रिया शुरू कर सकते हैं:
 
-*   Clicking **“Deposit”** on the pool card<br>
+*   pool कार्ड पर **"Deposit"** पर क्लिक करें<br>
 
-    <figure><img src="../../.gitbook/assets/image (390).png" alt=""><figcaption></figcaption></figure>
-*   OR clicking **“Create New Position”** under “My Positions”<br>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28390%29.png" alt=""><figcaption></figcaption></figure>
+*   या "My Positions" के अंतर्गत **"Create New Position"** पर क्लिक करें<br>
 
-    <figure><img src="../../.gitbook/assets/image (391).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28391%29.png" alt=""><figcaption></figcaption></figure>
 
-#### Step 4: Set Your Price Range
+#### चरण 4: अपनी मूल्य सीमा निर्धारित करें
 
-Since this is a V3 pool, you’ll need to choose a price range for your liquidity:
+चूंकि यह V3 pool है, आपको अपनी तरलता के लिए एक मूल्य सीमा चुननी होगी:
 
-*   Use **quick preset ranges** (e.g. +- 25%) or set a custom range<br>
+*   **त्वरित प्रीसेट सीमाओं** (जैसे +- 25%) का उपयोग करें या कस्टम सीमा निर्धारित करें<br>
 
-    <figure><img src="../../.gitbook/assets/image (392).png" alt=""><figcaption></figcaption></figure>
-*   Use the **price direction toggle** to switch between base/quote view<br>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28392%29.png" alt=""><figcaption></figcaption></figure>
+*   बेस/कोट व्यू के बीच स्विच करने के लिए **मूल्य दिशा टॉगल** का उपयोग करें<br>
 
-    <figure><img src="../../.gitbook/assets/image (393).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28393%29.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-Watch for **alerts** if:
+निम्नलिखित स्थितियों में **अलर्ट** देखें:
 
-* Your selected range is far from the market price
-* The pool has low liquidity
+* आपकी चुनी गई सीमा बाज़ार मूल्य से बहुत दूर हो
+* Pool में कम तरलता हो
 {% endhint %}
 
-#### Step 5: Enter Deposit Amount
+#### चरण 5: जमा राशि दर्ज करें
 
-Input the token amounts you want to supply
+वह टोकन राशि दर्ज करें जो आप प्रदान करना चाहते हैं
 
-\*\* APR won’t appear until you’ve entered amounts for both tokens
+\*\* APR तब तक नहीं दिखेगा जब तक आप दोनों टोकन के लिए राशि दर्ज नहीं करते
 
-<figure><img src="../../.gitbook/assets/image (394).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28394%29.png" alt=""><figcaption></figcaption></figure>
 
-#### Step 6: Preview & Confirm
+#### चरण 6: पूर्वावलोकन और पुष्टि
 
-*   Click **“Add Liquidity”**
+*   **"Add Liquidity"** पर क्लिक करें
 
-    <figure><img src="../../.gitbook/assets/image (396).png" alt=""><figcaption></figcaption></figure>
-*   Review your position in the preview modal<br>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28396%29.png" alt=""><figcaption></figcaption></figure>
+*   पूर्वावलोकन मोडल में अपनी पोजीशन की समीक्षा करें<br>
 
-    <figure><img src="../../.gitbook/assets/image (397).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28397%29.png" alt=""><figcaption></figcaption></figure>
 
-Once confirmed, the transaction will be submitted, and your position will be created!
-
-***
-
-### Option 2: Add More Liquidity to an Existing Position
-
-#### Step 1: Go to “My Positions”
-
-Here you’ll see all your active V3 liquidity positions.
-
-<figure><img src="../../.gitbook/assets/image (398).png" alt=""><figcaption></figcaption></figure>
-
-#### Step 2: Click the “+” Button
-
-This lets you add more tokens to your current price range.
-
-<figure><img src="../../.gitbook/assets/image (399).png" alt=""><figcaption></figcaption></figure>
-
-#### Step 3: Enter Deposit Amount
-
-Add the token amounts you want and click **“Confirm”**.
-
-<figure><img src="../../.gitbook/assets/image (400).png" alt=""><figcaption></figcaption></figure>
-
-You'll see a success message upon confirmation.
-
-<figure><img src="../../.gitbook/assets/image (401).png" alt=""><figcaption></figcaption></figure>
+पुष्टि होने के बाद, ट्रांजैक्शन सबमिट हो जाएगी और आपकी पोजीशन बन जाएगी!
 
 ***
 
-## Remove Liquidity
+### विकल्प 2: किसी मौजूदा पोजीशन में और तरलता जोड़ें
 
-You can remove liquidity from any of your active positions directly from the **My Positions** tab.
+#### चरण 1: "My Positions" पर जाएं
 
-#### 1. Go to **My Positions**
+यहां आपको अपनी सभी सक्रिय V3 तरलता पोजीशन दिखेंगी।
 
-<figure><img src="../../.gitbook/assets/image (402).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28398%29.png" alt=""><figcaption></figcaption></figure>
 
-#### 2. Select the Position You’d Like to Remove Liquidity From
+#### चरण 2: "+" बटन पर क्लिक करें
 
-Click the **“−”** icon next to the position.
+यह आपको अपनी वर्तमान मूल्य सीमा में और टोकन जोड़ने देता है।
 
-<figure><img src="../../.gitbook/assets/image (403).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28399%29.png" alt=""><figcaption></figcaption></figure>
 
-#### 3. Enter the Amount You Want to Remove
+#### चरण 3: जमा राशि दर्ज करें
 
-You can either:
+वह टोकन राशि दर्ज करें जो आप जोड़ना चाहते हैं और **"Confirm"** पर क्लिक करें।
 
-* Manually input the token amounts
-* **OR** use the **slider** to select a percentage of your current position
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28400%29.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (404).png" alt=""><figcaption></figcaption></figure>
+पुष्टि होने पर आपको सफलता संदेश दिखाई देगा।
 
-#### 4. (Optional) Keep Your Position Open After Removing Liquidity
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28401%29.png" alt=""><figcaption></figcaption></figure>
 
-If you select **"Keep my position open"** when removing **100%** of your liquidity:
+***
 
-* Your tokens will be withdrawn
-* But the position’s history and your original price range will **remain visible** under **My Positions**
+## तरलता हटाएं
 
-If you wish to **completely close the position**, including its price range display:
+आप **My Positions** टैब से अपनी किसी भी सक्रिय पोजीशन से सीधे तरलता हटा सकते हैं।
 
-* Click the **“X”** icon
+#### 1. **My Positions** पर जाएं
 
-<figure><img src="../../.gitbook/assets/image (408).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28402%29.png" alt=""><figcaption></figcaption></figure>
 
-#### 5. Reuse the Same Price Range
+#### 2. वह पोजीशन चुनें जिससे तरलता हटानी है
 
-You can also **add more liquidity** to the same price range later, following the same steps as when you first added liquidity.
+पोजीशन के बगल में **"−"** आइकन पर क्लिक करें।
 
-<figure><img src="../../.gitbook/assets/image (409).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28403%29.png" alt=""><figcaption></figcaption></figure>
+
+#### 3. वह राशि दर्ज करें जो आप हटाना चाहते हैं
+
+आप या तो:
+
+* टोकन राशि मैन्युअल रूप से दर्ज करें
+* **या** अपनी वर्तमान पोजीशन का प्रतिशत चुनने के लिए **स्लाइडर** का उपयोग करें
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28404%29.png" alt=""><figcaption></figcaption></figure>
+
+#### 4. (वैकल्पिक) तरलता हटाने के बाद पोजीशन खुली रखें
+
+यदि आप अपनी तरलता का **100%** हटाते समय **"Keep my position open"** चुनते हैं:
+
+* आपके टोकन निकाल लिए जाएंगे
+* लेकिन पोजीशन का इतिहास और आपकी मूल मूल्य सीमा **My Positions** के अंतर्गत **दिखती रहेगी**
+
+यदि आप मूल्य सीमा प्रदर्शन सहित **पोजीशन पूरी तरह बंद** करना चाहते हैं:
+
+* **"X"** आइकन पर क्लिक करें
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28408%29.png" alt=""><figcaption></figcaption></figure>
+
+#### 5. उसी मूल्य सीमा का पुनः उपयोग करें
+
+आप बाद में उसी मूल्य सीमा में **और तरलता जोड़** सकते हैं, पहली बार तरलता जोड़ते समय के समान चरणों का पालन करके।
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28409%29.png" alt=""><figcaption></figcaption></figure>

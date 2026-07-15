@@ -1,103 +1,103 @@
 ---
-description: How to use V2 Perpetuals Trading
+description: V2 Perpetuals Trading का उपयोग कैसे करें
 ---
 
-# How can I use it?
+# इसका उपयोग कैसे करें?
 
-![](<../../../.gitbook/assets/how-to-pancakeswap-without-cex-header (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-pancakeswap-without-cex-header%20%281%29.png)
 
-Using this functionality is really easy (the difficult thing is to trade well). We will only have to follow a series of steps so that our experience is complete. For more information, please visit the [V2 Glossary](perpetuals-glossary.md).
+इस कार्यक्षमता का उपयोग करना बहुत आसान है (कठिन काम अच्छी तरह व्यापार करना है)। हमें केवल कुछ चरणों का पालन करना होगा ताकि हमारा अनुभव पूर्ण हो सके। अधिक जानकारी के लिए, कृपया [V2 शब्दावली](perpetuals-glossary.md) देखें।
 
-### Go to Perpetual Trading page&#x20;
+### Perpetual Trading पेज पर जाएं&#x20;
 
-You can enter from the [site](https://pancakeswap.finance), in the Trade → Perpetual section, or through this [link  ](https://perp.pancakeswap.finance/en/futures/BTCUSDT)
+आप [साइट](https://pancakeswap.finance) से Trade → Perpetual अनुभाग में, या इस [लिंक  ](https://perp.pancakeswap.finance/en/futures/BTCUSDT) के माध्यम से प्रवेश कर सकते हैं।
 
-### Choose the pair to trade&#x20;
+### व्यापार करने के लिए जोड़ी चुनें&#x20;
 
-You can select a tradable pair by clicking on the arrow next to the pair, at the top of the page.
+आप पेज के शीर्ष पर जोड़ी के बगल में तीर पर क्लिक करके ट्रेड योग्य जोड़ी का चयन कर सकते हैं।
 
-<figure><img src="../../../.gitbook/assets/Perp7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp7.png" alt=""><figcaption></figcaption></figure>
 
-More tradable pairs will come soon!
+जल्द ही और अधिक ट्रेड योग्य जोड़ियां आएंगी!
 
-<figure><img src="../../../.gitbook/assets/Perp8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp8.png" alt=""><figcaption></figcaption></figure>
 
-### Analyze the chart and decide your trading strategy
+### चार्ट का विश्लेषण करें और अपनी ट्रेडिंग रणनीति तय करें
 
-It’s trading time!! Let’s get serious. You can analyze the chart your way, with all the tools available
+ट्रेडिंग का समय आ गया है!! गंभीर हो जाइए। आप सभी उपलब्ध टूल के साथ अपने तरीके से चार्ट का विश्लेषण कर सकते हैं।
 
-<figure><img src="../../../.gitbook/assets/Perp9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp9.png" alt=""><figcaption></figcaption></figure>
 
-**Do you know how to do it or do you want to improve in your analysis?**
+**क्या आप जानते हैं कि यह कैसे करना है या आप अपने विश्लेषण में सुधार करना चाहते हैं?**
 
-Here is a guide to get started in the world of chart analysis:
+चार्ट विश्लेषण की दुनिया में शुरुआत के लिए यहां एक गाइड है:
 
 * [How to Use TradingView on Binance Website](https://www.binance.com/en/support/faq/8419126024404348a1c6e4039fbed3fe)
 * [Candlestick charts](https://academy.binance.com/en/articles/a-beginners-guide-to-candlestick-charts)
 * [Trend Lines Explained](https://academy.binance.com/en/articles/trend-lines-explained)
 
-### Make your position&#x20;
+### अपनी पोजीशन बनाएं&#x20;
 
-Then, in the upper right part you have the board to position your order.
+फिर, ऊपरी दाईं ओर आपके पास अपना ऑर्डर पोजीशन करने का बोर्ड है।
 
-<figure><img src="../../../.gitbook/assets/Perp1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp1.png" alt=""><figcaption></figcaption></figure>
 
-Here you must set several parameters, like:
+यहां आपको कई पैरामीटर सेट करने होंगे, जैसे:
 
-_Not in an specific order_
+_किसी विशिष्ट क्रम में नहीं_
 
-1. Long Or Short&#x20;
+1. Long या Short&#x20;
 
-<figure><img src="../../../.gitbook/assets/Perp2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp2.png" alt=""><figcaption></figcaption></figure>
 
-Select the trade position you would like to adopt
+वह ट्रेड पोजीशन चुनें जो आप लेना चाहते हैं।
 
-&#x20; 2\. The x of the leverage
+&#x20; 2\. लीवरेज का गुणांक
 
-<figure><img src="../../../.gitbook/assets/Perp3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp3.png" alt=""><figcaption></figcaption></figure>
 
-Move the bunny to select the appropriate leverage position. You can also manually enter the position in the box on the left.
+उचित लीवरेज पोजीशन चुनने के लिए bunny को मूव करें। आप बाईं ओर बॉक्स में पोजीशन मैन्युअल रूप से भी दर्ज कर सकते हैं।
 
-Disclaimer: Remember that a high level of leverage carries a very high risk, use it wisely.
+अस्वीकरण: याद रखें कि उच्च स्तर का लीवरेज बहुत अधिक जोखिम वहन करता है, इसे समझदारी से उपयोग करें।
 
-&#x20;   3\. Type of Order
+&#x20;   3\. ऑर्डर का प्रकार
 
-<figure><img src="../../../.gitbook/assets/Perp10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp10.png" alt=""><figcaption></figcaption></figure>
 
-&#x20;  4\. Set the order size and place a price for your order (For limit orders)
+&#x20;  4\. ऑर्डर साइज़ सेट करें और अपने ऑर्डर के लिए मूल्य निर्धारित करें (Limit orders के लिए)
 
-![](../../../.gitbook/assets/Perp3.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp3.png)
 
-You can also choose the reference currency to see your position.
+आप अपनी पोजीशन देखने के लिए संदर्भ मुद्रा भी चुन सकते हैं।
 
-5. Take Profit/Stop Loss & Slippage
+5. Take Profit/Stop Loss & स्लिपेज
 
-<figure><img src="../../../.gitbook/assets/Perp6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp6.png" alt=""><figcaption></figcaption></figure>
 
-Users can set a take profit or stop loss price when opening a position.
+उपयोगकर्ता पोजीशन खोलते समय take profit या stop loss मूल्य सेट कर सकते हैं।
 
-* Take Profit: Users' position will be liquidated once they reach the set upon P\&L percentage gain.
-* Stop Loss: Users' position will be liquidated once they reach the set upon P\&L percentage loss.
-* Slippage: Used to cancel a market order automatically if the price moved too fast in the direction of the trade before it was opened. For example if you wish to market long the current price but before your trade is opened the price moved up 1%, it will cancel automatically.
+* Take Profit: निर्धारित P\&L प्रतिशत लाभ तक पहुंचने पर उपयोगकर्ताओं की पोजीशन का लिक्विडेशन हो जाएगा।
+* Stop Loss: निर्धारित P\&L प्रतिशत हानि तक पहुंचने पर उपयोगकर्ताओं की पोजीशन का लिक्विडेशन हो जाएगा।
+* स्लिपेज: खुलने से पहले ट्रेड की दिशा में कीमत बहुत तेज़ी से बढ़ने पर market order को स्वचालित रूप से रद्द करने के लिए उपयोग किया जाता है। उदाहरण के लिए, यदि आप वर्तमान मूल्य पर market long करना चाहते हैं लेकिन आपका ट्रेड खुलने से पहले कीमत 1% ऊपर चली जाती है, तो यह स्वचालित रूप से रद्द हो जाएगा।
 
-Note: You can hover over each option for more information. Please refer to [Perpetuals V2 Glossary](perpetuals-glossary.md) for an in-depth guide.
+नोट: अधिक जानकारी के लिए प्रत्येक विकल्प पर hover कर सकते हैं। विस्तृत गाइड के लिए कृपया [Perpetuals V2 शब्दावली](perpetuals-glossary.md) देखें।
 
-### Send your order
+### अपना ऑर्डर भेजें
 
-When all the parameters have been set, you can send the order by clicking on Open Position
+जब सभी पैरामीटर सेट हो जाएं, तो Open Position पर क्लिक करके ऑर्डर भेज सकते हैं।
 
-![](../../../.gitbook/assets/Perp4.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp4.png)
 
-### Checking your position
+### अपनी पोजीशन जांचें
 
-Once the order has been sent, it will appear in "Open Orders" until filled out.
+ऑर्डर भेजे जाने के बाद, यह भरे जाने तक "Open Orders" में दिखाई देगा।
 
-![](../../../.gitbook/assets/Perp11.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp11.png)
 
-### Live!
+### लाइव!
 
-When it is filled, your position will be live. You can see it in the positions panel. Also you can view, edit, or close it.
+जब यह भर जाए, तो आपकी पोजीशन लाइव हो जाएगी। आप इसे positions पैनल में देख सकते हैं। आप इसे देख, संपादित या बंद भी कर सकते हैं।
 
-![](../../../.gitbook/assets/Perp5.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp5.png)
 
-Good luck with your trades!
+आपके ट्रेडों के लिए शुभकामनाएं!

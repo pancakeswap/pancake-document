@@ -1,35 +1,35 @@
 # Terms & Conditions
 
 {% hint style="danger" %}
-&#x20;\[Archived] Simple Staking – As of 10th March 2025
+&#x20;\[Archived] Simple Staking – 10 मार्च 2025 से
 {% endhint %}
 
 1\. Simple Staking
 
-1.1 For Simple Staking:
+1.1 Simple Staking के लिए:
 
 1.1.1 Simple Staking Rewards:
 
-1.1.1.1 start accruing at the Simple Staking Rewards Rate from the day after staking. Simple Staking Rewards will accrue from day to day and will be calculated on the basis of the number of days elapsed and a 365-day year. You do not earn any Simple Staking Rewards for the first day;
+1.1.1.1 staking के अगले दिन से Simple Staking Rewards Rate पर accruing शुरू होती हैं। Simple Staking Rewards दिन-प्रतिदिन accrued होंगी और elapsed दिनों की संख्या और 365-दिन के वर्ष के आधार पर calculated होंगी। पहले दिन आप कोई Simple Staking Rewards नहीं अर्जित करते;
 
-1.1.1.2 are provided in the same digital currency as your Simple Staking tokens, unless otherwise stated;
+1.1.1.2 आपके Simple Staking tokens के समान digital currency में प्रदान की जाती हैं, जब तक अन्यथा stated न हो;
 
-1.1.1.3 will be calculated by reference to the Simple Staking Rewards Rate on the day the Simple Staking Rewards accrues;
+1.1.1.3 उस दिन Simple Staking Rewards Rate के reference से calculated होंगी जिस दिन Simple Staking Rewards accrued होती हैं;
 
-1.1.1.4 are rounded down to decimal places which may differ depending on the Digital Currency.
+1.1.1.4 decimal places पर rounded down होती हैं जो Digital Currency के आधार पर अलग-अलग हो सकते हैं।
 
-1.1.2 the Simple Staking Rewards Rate:
+1.1.2 Simple Staking Rewards Rate:
 
-1.1.2.1 may vary from time to time; and
+1.1.2.1 समय-समय पर vary हो सकती है; और
 
-1.1.2.2 if it is changed, it will apply from the time and date specified by PancakeSwap in partnership with the Binance Earn team. If no time is specified, it will be 00:00 UTC on the day PancakeSwap announces the change will take effect.
+1.1.2.2 यदि यह बदली जाती है, तो यह PancakeSwap द्वारा Binance Earn team के साथ साझेदारी में specified time और date से apply होगी। यदि कोई time specified नहीं है, तो यह उस दिन 00:00 UTC होगी जिस दिन PancakeSwap बदलाव के लागू होने की घोषणा करता है।
 
 1.1.3 Redemption:
 
-1.1.3.1 PancakeSwap will return Simple Staking Assets to you within 72 hours from the end of the Locked Simple Staking Term;
+1.1.3.1 PancakeSwap Locked Simple Staking Term की समाप्ति के 72 घंटों के भीतर आपको Simple Staking Assets वापस करेगा;
 
-1.1.3.2 in some circumstances, including but not limited to events of extreme market volatility, network delays, a significant number of simultaneous instructions to Redeem from other PancakeSwap users, or there are any other unanticipated events that or mean that your Redemption may be delayed;
+1.1.3.2 कुछ circumstances में, जिनमें extreme market volatility, network delays, अन्य PancakeSwap users से Redeem करने के लिए एक साथ बड़ी संख्या में instructions, या कोई अन्य unanticipated events शामिल हैं लेकिन इन तक सीमित नहीं, आपका Redemption delayed हो सकता है;
 
-1.1.3.4 PancakeSwap may specify a maximum number of Simple Staking Assets available for Redemption each day.
+1.1.3.4 PancakeSwap प्रत्येक दिन Redemption के लिए available Simple Staking Assets की maximum संख्या specify कर सकता है।
 
 <br>

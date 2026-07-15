@@ -1,33 +1,33 @@
 # Hooks
 
 {% hint style="info" %}
-If you're a developer or looking for detailed technical documentation on developing a hook, please visit [here](https://developer.pancakeswap.finance/contracts/infinity/guides/develop-a-hook).
+यदि आप एक डेवलपर हैं या hook विकसित करने के बारे में विस्तृत तकनीकी दस्तावेज़ीकरण खोज रहे हैं, तो कृपया [यहाँ](https://developer.pancakeswap.finance/contracts/infinity/guides/develop-a-hook) जाएँ।
 {% endhint %}
 
-Hooks are powerful add-ons that let developers extend and customize the behavior of liquidity pools in PancakeSwap Infinity. Think of them as "plugins" or "widgets" that add new features to liquidity pools.
+Hooks शक्तिशाली add-ons हैं जो डेवलपर्स को PancakeSwap Infinity में तरलता पूलों के व्यवहार को विस्तारित और अनुकूलित करने देते हैं। इन्हें "plugins" या "widgets" के रूप में सोचें जो तरलता पूलों में नई सुविधाएँ जोड़ते हैं।
 
-#### 🔍 What Are Hooks?
+#### 🔍 Hooks क्या हैं?
 
-* Hooks are external smart contracts created by anyone — developers, protocols, or community members — and attached to liquidity pools to enhance or modify their behavior.
-* Each pool can have only one hook attached, but a single hook can serve many pools.
-* Hooks can run custom code before or after key actions like:
-  * Initializing a pool
+* Hooks बाहरी स्मार्ट कॉन्ट्रैक्ट हैं जो किसी के द्वारा भी — डेवलपर्स, प्रोटोकॉल, या समुदाय के सदस्यों द्वारा — बनाए जाते हैं और तरलता पूलों से जोड़े जाते हैं ताकि उनके व्यवहार को बढ़ाया या संशोधित किया जा सके।
+* प्रत्येक पूल में केवल एक hook जोड़ा जा सकता है, लेकिन एक ही hook कई पूलों की सेवा कर सकता है।
+* Hooks इन जैसी प्रमुख क्रियाओं से पहले या बाद में कस्टम कोड चला सकते हैं:
+  * एक पूल initialize करना
   * Swapping
-  * Adding/removing liquidity
+  * तरलता जोड़ना/हटाना
   * Donating<br>
 
-**⛓️ How Hooks Work:**
+**⛓️ Hooks कैसे काम करते हैं:**
 
-* A hook is selected during pool creation and can’t be changed later.
-* A hook contract triggers on specific actions (swap, add liquidity, etc) and executes logic before or after those actions as defined within the contract.
-* For example, a hook could:
-  * Offer swap fee discounts to CAKE holders
-  * Charge custom fees and distribute rewards
-  * Enable new swap logic like stableswaps or TWAMM-style orders<br>
+* एक hook पूल बनाते समय चुना जाता है और बाद में बदला नहीं जा सकता।
+* एक hook कॉन्ट्रैक्ट विशिष्ट क्रियाओं (swap, तरलता जोड़ना, आदि) पर ट्रिगर होता है और कॉन्ट्रैक्ट में परिभाषित अनुसार उन क्रियाओं से पहले या बाद में लॉजिक निष्पादित करता है।
+* उदाहरण के लिए, एक hook:
+  * CAKE holders को swap शुल्क में छूट दे सकता है
+  * कस्टम शुल्क लगा सकता है और पुरस्कार वितरित कर सकता है
+  * नया swap लॉजिक सक्षम कर सकता है जैसे stableswaps या TWAMM-style orders<br>
 
 #### ⚙️ Hook Callbacks
 
-Hooks can be triggered during ten specific moments. Developers can choose which ones they want to implement:
+Hooks दस विशिष्ट क्षणों के दौरान ट्रिगर हो सकते हैं। डेवलपर चुन सकते हैं कि वे कौन से लागू करना चाहते हैं:
 
 * beforeInitialize / afterInitialize
 * beforeAddLiquidity / afterAddLiquidity
@@ -35,69 +35,69 @@ Hooks can be triggered during ten specific moments. Developers can choose which 
 * beforeSwap / afterSwap
 * beforeDonate / afterDonate<br>
 
-These allow to implement highly customizable and modular behavior through hooks.
+ये hooks के माध्यम से अत्यधिक अनुकूलन योग्य और मॉड्यूलर व्यवहार लागू करने की अनुमति देते हैं।
 
-#### 🔧 Two Types of Hooks
+#### 🔧 दो प्रकार के Hooks
 
-**Type 1: No Authorization Needed**
+**प्रकार 1: कोई Authorization आवश्यक नहीं**
 
-These hooks run automatically and do not require user permission. They are triggered by actions like swaps or liquidity changes.
-
-
-
-Examples:
-
-* Dynamic Fees: Adjust swap fees based on market volatility
-* Fee Rebates: Give discounts to users holding CAKE or trading high volumes
+ये hooks स्वतः चलते हैं और उपयोगकर्ता की अनुमति की आवश्यकता नहीं होती। ये swaps या तरलता परिवर्तन जैसी क्रियाओं द्वारा ट्रिगर होते हैं।
 
 
 
-Example Flow (CAKE Fee Discount):
+उदाहरण:
 
-1. A user initiates a swap.
-2. The hook checks their CAKE balance via `beforeSwap` hook callback.
-3. If the user holds enough CAKE as per defined thresholds, they get a 50% discount on pool fees.
-4. The rest of the transaction proceeds as usual.<br>
+* Dynamic Fees: बाजार की अस्थिरता के आधार पर swap शुल्क समायोजित करें
+* Fee Rebates: CAKE रखने वाले या उच्च मात्रा में ट्रेड करने वाले उपयोगकर्ताओं को छूट दें
+
+
+
+उदाहरण प्रवाह (CAKE Fee Discount):
+
+1. एक उपयोगकर्ता swap शुरू करता है।
+2. hook, `beforeSwap` hook callback के माध्यम से उनका CAKE बैलेंस जाँचता है।
+3. यदि उपयोगकर्ता परिभाषित सीमाओं के अनुसार पर्याप्त CAKE रखता है, तो उन्हें pool fees पर 50% छूट मिलती है।
+4. शेष लेनदेन सामान्य रूप से आगे बढ़ता है।<br>
 
 {% hint style="success" %}
-These hooks don’t need a special UI or additional interaction. The benefits are applied automatically.
+इन hooks को किसी विशेष UI या अतिरिक्त इंटरैक्शन की आवश्यकता नहीं। लाभ स्वतः लागू होते हैं।
 {% endhint %}
 
-**Type 2: User Authorization Required**
+**प्रकार 2: उपयोगकर्ता Authorization आवश्यक**
 
-These hooks need users to interact directly with them, provide authorisation and may require to transfer funds, often to create or manage positions.
-
-
-
-Examples:
-
-* Limit Orders: Execute a swap only when target price is reached.
-* TWAMM: Break large orders into smaller pieces for better execution.
-* Active Liquidity Management: Automatically manage LP positions for optimal returns.
+इन hooks को उपयोगकर्ताओं को उनके साथ सीधे इंटरैक्ट करने, authorization प्रदान करने और अक्सर funds ट्रांसफर करने की आवश्यकता होती है, अक्सर पोजीशन बनाने या प्रबंधित करने के लिए।
 
 
 
-Example Flow (Limit Order Hook):
+उदाहरण:
 
-1. User interacts directly with the hook contract (not the usual swap UI).
-2. They enter details like limit price, token pair, amount.
-3. The hook issues a receipt token representing the order.
-4. Later, when pool price hits the target, the hook executes the order using afterSwap.
-5. The user can return the receipt token to claim the swapped assets.
+* Limit Orders: लक्ष्य मूल्य पर पहुँचने पर ही swap निष्पादित करें।
+* TWAMM: बेहतर निष्पादन के लिए बड़े ऑर्डरों को छोटे टुकड़ों में विभाजित करें।
+* Active Liquidity Management: इष्टतम रिटर्न के लिए LP पोजीशन को स्वचालित रूप से प्रबंधित करें।
+
+
+
+उदाहरण प्रवाह (Limit Order Hook):
+
+1. उपयोगकर्ता सीधे hook कॉन्ट्रैक्ट के साथ इंटरैक्ट करता है (सामान्य swap UI से नहीं)।
+2. वे limit price, token pair, amount जैसे विवरण दर्ज करते हैं।
+3. hook ऑर्डर का प्रतिनिधित्व करने वाला एक receipt token जारी करता है।
+4. बाद में, जब pool price लक्ष्य पर पहुँचती है, hook afterSwap का उपयोग करके ऑर्डर निष्पादित करता है।
+5. उपयोगकर्ता स्वैप की गई संपत्तियाँ claim करने के लिए receipt token वापस कर सकता है।
 
 {% hint style="info" %}
-These hooks often need a custom UI and users must trust and approve the hook contract to hold their funds.
+इन hooks को अक्सर एक कस्टम UI की आवश्यकता होती है और उपयोगकर्ताओं को hook कॉन्ट्रैक्ट को अपने funds रखने के लिए trust और approve करना होता है।
 {% endhint %}
 
-#### 🚀 Use Cases & Innovation
+#### 🚀 उपयोग के मामले और नवाचार
 
-Hooks unlock limitless possibilities, including:
+Hooks असीमित संभावनाओं को अनलॉक करते हैं, जिनमें शामिल हैं:
 
-* Custom AMMs (e.g., stablecoin curves)
-* Liquidity mining rewards
-* Automated trading strategies, liquidity management
-* On-chain limit orders, other order types
-* Dynamic pricing and fee adjustments
-* Yield-enhancing LP strategies<br>
+* Custom AMMs (जैसे stablecoin curves)
+* Liquidity mining पुरस्कार
+* स्वचालित ट्रेडिंग रणनीतियाँ, तरलता प्रबंधन
+* On-chain limit orders, अन्य order प्रकार
+* Dynamic pricing और शुल्क समायोजन
+* Yield-enhancing LP रणनीतियाँ<br>
 
-With hooks, developers can build an entirely new DeFi experience using the existing infrastructure of PancakeSwap Infinity — speeding up development and lowering costs.
+Hooks के साथ, डेवलपर PancakeSwap Infinity की मौजूदा infrastructure का उपयोग करके एक पूरी तरह से नया DeFi अनुभव बना सकते हैं — विकास में तेज़ी लाते और लागत कम करते हुए।

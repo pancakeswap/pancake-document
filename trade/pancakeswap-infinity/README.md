@@ -1,14 +1,14 @@
 # ♾️ PancakeSwap Infinity
 
-> If you're a developer or looking for detailed technical documentation, please refer to this doc [https://developer.pancakeswap.finance/](https://developer.pancakeswap.finance/)
+> यदि आप एक डेवलपर हैं या विस्तृत तकनीकी दस्तावेज़ीकरण खोज रहे हैं, तो कृपया इस दस्तावेज़ को देखें [https://developer.pancakeswap.finance/](https://developer.pancakeswap.finance/)
 
-**PancakeSwap Infinity** is the newest version of PancakeSwap AMM, designed to make decentralized trading faster, cheaper, and more flexible. It uses a modular design that allows for more customization and supports different types of trading pools and pricing models.
+**PancakeSwap Infinity** PancakeSwap AMM का सबसे नया संस्करण है, जिसे विकेंद्रीकृत ट्रेडिंग को तेज़, सस्ता और अधिक लचीला बनाने के लिए डिज़ाइन किया गया है। यह एक मॉड्यूलर डिज़ाइन का उपयोग करता है जो अधिक अनुकूलन की अनुमति देता है और विभिन्न प्रकार के ट्रेडिंग पूलों और मूल्य निर्धारण मॉडलों का समर्थन करता है।
 
-With Infinity, developers can build new features more easily using "hooks"—small bits of code that run at key actions in a pool’s lifecycle. These allow for use-cases like custom oracles, dynamic fee pools, advanced trading & liquidity management features, and more.&#x20;
+Infinity के साथ, डेवलपर "hooks" का उपयोग करके नई सुविधाएँ अधिक आसानी से बना सकते हैं — कोड के छोटे टुकड़े जो पूल के जीवनचक्र में प्रमुख क्रियाओं पर चलते हैं। ये कस्टम oracles, dynamic fee pools, उन्नत ट्रेडिंग और तरलता प्रबंधन सुविधाओं, और बहुत कुछ जैसे उपयोग-मामलों की अनुमति देते हैं।&#x20;
 
-Compared to PancakeSwap v3, Infinity is more gas-efficient and future-proof. By decoupling core functions like accounting and trading logic, it allows for seamless integration of new pricing curves with hook capabilities—enabling the protocol to evolve without requiring redeployment.
+PancakeSwap v3 की तुलना में, Infinity अधिक गैस-कुशल और भविष्य के लिए तैयार है। accounting और ट्रेडिंग लॉजिक जैसे मुख्य कार्यों को अलग करके, यह hook क्षमताओं के साथ नए मूल्य निर्धारण curves के निर्बाध एकीकरण की अनुमति देता है — जिससे प्रोटोकॉल को पुनः तैनाती की आवश्यकता के बिना विकसित होने में सक्षम बनाता है।
 
-### ⭐️ Key Features
+### ⭐️ प्रमुख विशेषताएँ
 
 1. Singleton
 2. Flash Accounting
@@ -19,5 +19,5 @@ Compared to PancakeSwap v3, Infinity is more gas-efficient and future-proof. By 
 7. `donate()`
 
 {% hint style="success" %}
-**Open-sourced:** [PancakeSwap Infinity](https://github.com/pancakeswap/infinity-core) is released under an open-source license, encouraging developers to innovate, customize, and collaborate freely.
+**ओपन-सोर्स:** [PancakeSwap Infinity](https://github.com/pancakeswap/infinity-core) एक ओपन-सोर्स लाइसेंस के तहत जारी किया गया है, जो डेवलपर्स को स्वतंत्र रूप से नवाचार, अनुकूलन और सहयोग करने के लिए प्रोत्साहित करता है।
 {% endhint %}

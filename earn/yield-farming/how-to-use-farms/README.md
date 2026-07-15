@@ -1,121 +1,121 @@
 ---
-description: Find, Provide LP, Fram
+description: खोजें, LP प्रदान करें, फार्म करें
 ---
 
-# How to Use Farms
+# फार्म का उपयोग कैसे करें
 
-![](../../../.gitbook/assets/how-to-yield-farms-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-yield-farms-header.png)
 
-Yield Farming in Farms is a great way to earn CAKE rewards on PancakeSwap.
+फार्म में यील्ड फार्मिंग PancakeSwap पर CAKE पुरस्कार अर्जित करने का एक शानदार तरीका है।
 
-Farms require you to stake **two tokens** to provide liquidity and receive either a liquidity position NFT or LP Tokens, which you then stake in the Farm to earn rewards. This lets you earn CAKE while still keeping a position in your other tokens!
+फार्म में तरलता प्रदान करने और लिक्विडिटी पोजीशन NFT या LP टोकन प्राप्त करने के लिए आपको **दो टोकन** स्टेक करने होंगे, जिन्हें आप फिर पुरस्कार अर्जित करने के लिए फार्म में स्टेक करते हैं। इससे आप अपने अन्य टोकन में पोजीशन बनाए रखते हुए CAKE भी अर्जित कर सकते हैं!
 
 {% hint style="warning" %}
-Yield farming can give better rewards than Syrup Pools or single token staking, but it comes with a risk of **Impermanent Loss**. It’s not as scary as it sounds, but it is worth learning about the concept before you get started.
+यील्ड फार्मिंग सिरप पूल या सिंगल टोकन स्टेकिंग की तुलना में बेहतर पुरस्कार दे सकती है, लेकिन इसमें **Impermanent Loss** का जोखिम होता है। यह सुनने में जितना डरावना लगता है, उतना है नहीं — लेकिन शुरू करने से पहले इस अवधारणा को समझना उचित होगा।
 
-Check out this great [article about Impermanent Loss ](https://academy.binance.com/en/articles/impermanent-loss-explained)from Binance Academy to learn more.
+इस विषय पर अधिक जानने के लिए Binance Academy का यह बेहतरीन [Impermanent Loss पर लेख](https://academy.binance.com/en/articles/impermanent-loss-explained) पढ़ें।
 {% endhint %}
 
-## Find the Pairs to Provide Liquidity
+## तरलता प्रदान करने के लिए जोड़े खोजें
 
-<figure><img src="../../../.gitbook/assets/image (360).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28360%29.png" alt=""><figcaption></figcaption></figure>
 
-Now with Universal Farm Page, you can find liquidity pairs by tokens, check their fees, volume, APRs, across all the PancakeSwap supported networks, without the need of switching networks in the wallet.
+अब Universal Farm Page के साथ, आप टोकन द्वारा लिक्विडिटी जोड़े खोज सकते हैं, उनके शुल्क, वॉल्यूम, APRs को PancakeSwap के सभी समर्थित नेटवर्क पर देख सकते हैं — बिना वॉलेट में नेटवर्क बदले।
 
-Head to: [https://pancakeswap.finance/liquidity/pools](https://pancakeswap.finance/liquidity/pools) to start
+शुरू करने के लिए यहाँ जाएं: [https://pancakeswap.finance/liquidity/pools](https://pancakeswap.finance/liquidity/pools)
 
-#### Features Breakdown
+#### सुविधाओं का विवरण
 
-<figure><img src="../../../.gitbook/assets/image (361).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28361%29.png" alt=""><figcaption></figcaption></figure>
 
-1. All the liquidity pools/pairs that are trending, or have a PancakeSwap farm attached.
-2. All the liquidity positions you have.
-3. All the legacy farms. If you don't find your previously staked farms in "All Pools" try searching here.
-4. On default the page shows farms and tokens from all the supported chains. Use this drop down to filter pools by networks/chains.
-5. Use this dropdown to filter pools by tokens.
-6. Use this tab to filter pools by DEX type.
-7. Click the arrow button on APR, TVL, or VOLUME 24H to order the pools with the selected metrics.
-8. Sections for bCAKE - farm yield booster. [Learn more](../../../welcome-to-pancakeswap/vecake-sunset/bcake/)
-9. Use this link to go back to the legacy farm page if you head into any issue with the new version.
+1. सभी तरलता पूल/जोड़े जो ट्रेंडिंग हैं, या जिनमें PancakeSwap फार्म संलग्न है।
+2. आपकी सभी तरलता पोजीशन।
+3. सभी लेगेसी फार्म। यदि आप "All Pools" में अपने पहले से स्टेक किए गए फार्म नहीं पाते, तो यहाँ खोजें।
+4. डिफ़ॉल्ट रूप से पेज सभी समर्थित चेन के फार्म और टोकन दिखाता है। नेटवर्क/चेन द्वारा पूल फ़िल्टर करने के लिए इस ड्रॉपडाउन का उपयोग करें।
+5. टोकन द्वारा पूल फ़िल्टर करने के लिए इस ड्रॉपडाउन का उपयोग करें।
+6. DEX प्रकार द्वारा पूल फ़िल्टर करने के लिए इस टैब का उपयोग करें।
+7. APR, TVL, या VOLUME 24H पर एरो बटन पर क्लिक करके चुने गए मेट्रिक्स के साथ पूल को क्रमबद्ध करें।
+8. bCAKE — फार्म यील्ड बूस्टर के लिए अनुभाग। [अधिक जानें](../../../welcome-to-pancakeswap/vecake-sunset/bcake/)
+9. यदि नए संस्करण में कोई समस्या हो, तो लेगेसी फार्म पेज पर वापस जाने के लिए इस लिंक का उपयोग करें।
 
-## Provide LP
+## LP प्रदान करें
 
-<figure><img src="../../../.gitbook/assets/image (362).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28362%29.png" alt=""><figcaption></figcaption></figure>
 
-Once you find a pair to provide liquidity, click to go to the detail page to check on more info like:
+एक बार जब आप तरलता प्रदान करने के लिए कोई जोड़ा खोज लें, तो विवरण पेज पर जाने के लिए क्लिक करें और निम्नलिखित जानकारी देखें:
 
 * TVL&#x20;
-* Volume
-* Fees
+* वॉल्यूम
+* शुल्क
 * APR
-* Your Existing Positions
+* आपकी मौजूदा पोजीशन
 
-To create an LP, click "Add Liquidity +" and follow the instructions here:
+LP बनाने के लिए "Add Liquidity +" पर क्लिक करें और यहाँ दिए गए निर्देशों का पालन करें:
 
 {% content-ref url="../../pancakeswap-pools/liquidity-guide.md" %}
 [liquidity-guide.md](../../pancakeswap-pools/liquidity-guide.md)
 {% endcontent-ref %}
 
-## Stake Your Position to Earn
+## CAKE अर्जित करने के लिए अपनी पोजीशन स्टेक करें
 
-<figure><img src="../../../.gitbook/assets/image (363).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28363%29.png" alt=""><figcaption></figcaption></figure>
 
-Once liquidity is added, they will appear in the upper right table. Or in the "My Position" tab.
+तरलता जोड़े जाने के बाद, वे ऊपरी दाईं ओर टेबल में दिखाई देंगी। या "My Position" टैब में।
 
-* For V3, simply click "Stake" to stake your position and start earning CAKE. As in V3 users can create multiple positions,  you can repeat the above steps to stake multiple positions with different price ranges.
-* For V2 and StableSwap, after clicking "Stake", you need to specify the amount of LP tokens to stake. In most cases you should stake 100% of your LP tokens to maximise your yield.
+* V3 के लिए, बस "Stake" पर क्लिक करें अपनी पोजीशन स्टेक करने और CAKE अर्जित करना शुरू करने के लिए। V3 में उपयोगकर्ता एकाधिक पोजीशन बना सकते हैं, इसलिए आप अलग-अलग प्राइस रेंज के साथ एकाधिक पोजीशन स्टेक करने के लिए उपरोक्त चरण दोहरा सकते हैं।
+* V2 और StableSwap के लिए, "Stake" पर क्लिक करने के बाद आपको स्टेक करने के लिए LP टोकन की मात्रा निर्दिष्ट करनी होगी। अधिकांश मामलों में अपनी यील्ड को अधिकतम करने के लिए आपको 100% LP टोकन स्टेक करने चाहिए।
 
-## Harvest Farming Rewards
+## फार्मिंग पुरस्कार हार्वेस्ट करें
 
-<figure><img src="../../../.gitbook/assets/image (364).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28364%29.png" alt=""><figcaption></figcaption></figure>
 
-In the new Universal Farm Page, locating all your farming positions has never been easier. Simply go to "My Positions" and click "Farms only" in the top right corner. All the farming positions will be filtered, regardless of which network you are selecting.
+नए Universal Farm Page में, आपकी सभी फार्मिंग पोजीशन खोजना पहले से कहीं आसान हो गया है। बस "My Positions" पर जाएं और ऊपरी दाईं ओर "Farms only" पर क्लिक करें। सभी फार्मिंग पोजीशन फ़िल्टर हो जाएंगी, चाहे आप कोई भी नेटवर्क चुन रहे हों।
 
-Just like the list of pools/pairs, you may use the toolbar to filter positions by networks/chains, tokens, and DEX type.
+पूल/जोड़ों की सूची की तरह, आप टूलबार का उपयोग करके पोजीशन को नेटवर्क/चेन, टोकन और DEX प्रकार द्वारा फ़िल्टर कर सकते हैं।
 
-To harvest CAKE rewards from a staked position, simply click "Harvest" and confirm in your wallet popup.
+स्टेक की गई पोजीशन से CAKE पुरस्कार हार्वेस्ट करने के लिए, बस "Harvest" पर क्लिक करें और अपने वॉलेट पॉपअप में पुष्टि करें।
 
-If you have multiple staked positions, you need to harvest them separately.&#x20;
+यदि आपके पास एकाधिक स्टेक की गई पोजीशन हैं, तो उन्हें अलग-अलग हार्वेस्ट करना होगा।&#x20;
 
-## **Add or Remove Liquidity While Staking in a Farm**
+## **फार्म में स्टेकिंग करते समय तरलता जोड़ें या हटाएं**
 
-In V3, when staking in a farm, you can still add or remove liquidity without unstaking.
+V3 में, फार्म में स्टेकिंग करते समय, आप बिना अनस्टेक किए तरलता जोड़ या हटा सकते हैं।
 
-To do so, simply return to the "My Positions" page, and position you want to adjust.
+ऐसा करने के लिए, "My Positions" पेज पर वापस जाएं और जो पोजीशन आप समायोजित करना चाहते हैं, उसे खोजें।
 
-<figure><img src="../../../.gitbook/assets/image (365).png" alt="" width="280"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28365%29.png" alt="" width="280"><figcaption></figcaption></figure>
 
-Click on the position title with the token pair, and position ID to open up the position detail page.
+टोकन जोड़े और पोजीशन ID वाले पोजीशन शीर्षक पर क्लिक करके पोजीशन विवरण पेज खोलें।
 
-Simply use the “Add” or “Remove” button to adjust the liquidity in the staked position.
+स्टेक की गई पोजीशन में तरलता समायोजित करने के लिए "Add" या "Remove" बटन का उपयोग करें।
 
-<figure><img src="../../../.gitbook/assets/image (366).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28366%29.png" alt=""><figcaption></figcaption></figure>
 
-Please note that all the unclaimed CAKE rewards will be harvested and sent to your wallet while adjusting your position.
+कृपया ध्यान दें कि अपनी पोजीशन समायोजित करते समय सभी अनक्लेम्ड CAKE पुरस्कार हार्वेस्ट होकर आपके वॉलेट में भेज दिए जाएंगे।
 
-## **Unstake**
+## **अनस्टेक करें**
 
-You can unstake a position at any time.
+आप किसी भी समय पोजीशन अनस्टेक कर सकते हैं।
 
-<figure><img src="../../../.gitbook/assets/image (367).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28367%29.png" alt=""><figcaption></figcaption></figure>
 
-To unstake, simply return to the "My Positions", locate the position, and click:
+अनस्टेक करने के लिए, "My Positions" पर वापस जाएं, पोजीशन खोजें और क्लिक करें:
 
-* "Unstake" (for V3 positions)&#x20;
-* "-" (for V2, StableSwap LPs), and then select the amount to unstake
+* "Unstake" (V3 पोजीशन के लिए)&#x20;
+* "-" (V2, StableSwap LPs के लिए), और फिर अनस्टेक करने की मात्रा चुनें।
 
-Then confirm in the wallet pop up. After a short wait, your position NFT or LP tokens will be returned to your wallet, along with all the pending CAKE rewards.
+फिर वॉलेट पॉपअप में पुष्टि करें। थोड़े इंतज़ार के बाद, आपकी पोजीशन NFT या LP टोकन सभी लंबित CAKE पुरस्कारों के साथ आपके वॉलेट में वापस आ जाएंगे।
 
-## How often should I harvest my rewards?
+## मुझे कितनी बार पुरस्कार हार्वेस्ट करने चाहिए?
 
-How often you harvest your rewards is up to you, but it does help to remember that there is a small fee involved in harvesting.
+आप कितनी बार पुरस्कार हार्वेस्ट करते हैं यह आप पर निर्भर है, लेकिन यह ध्यान रखना उपयोगी है कि हार्वेस्टिंग में एक छोटा शुल्क लगता है।
 
-You can see this fee in your wallet when confirming after clicking **Harvest**.
+**Harvest** पर क्लिक करने के बाद पुष्टि करते समय आप यह शुल्क अपने वॉलेट में देख सकते हैं।
 
-![](<../../../.gitbook/assets/image (281).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28281%29.png)
 
-This shows the fee for harvesting as it appears in the MetaMask wallet. Different wallets will show the information a little differently. Consider leaving your rewards to grow for a while so you pay fees less often.
+यह MetaMask वॉलेट में हार्वेस्टिंग शुल्क दिखाता है। अलग-अलग वॉलेट जानकारी थोड़े अलग तरीके से दिखाएंगे। कम बार शुल्क चुकाने के लिए अपने पुरस्कारों को कुछ समय के लिए बढ़ने दें।
 
 
 
-**Happy farming!**
+**शुभ फार्मिंग!**

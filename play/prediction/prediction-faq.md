@@ -1,33 +1,33 @@
 # Prediction FAQ
 
 {% hint style="info" %}
-Use the sidebar to quickly find the answers to your questions!
+अपने सवालों के जवाब जल्दी खोजने के लिए साइडबार का उपयोग करें!
 {% endhint %}
 
-## A) General Questions
+## A) सामान्य प्रश्न
 
-### **1. What are the fees?**
+### **1. शुल्क क्या हैं?**
 
-3% of each round's total pot will go to the treasury, of which 100% will be used to buyback and burn CAKE.
+प्रत्येक राउंड के कुल पॉट का 3% ट्रेजरी को जाएगा, जिसमें से 100% का उपयोग CAKE को बायबैक और बर्न करने के लिए किया जाएगा।
 
-### 2. How is the payout calculated?
+### 2. भुगतान की गणना कैसे की जाती है?
 
-* Payout Ratio for UP Pool = Total Value of Both Pools ÷ Value of UP Pool
-* Payout Ratio for DOWN Pool = Total Value of Both Pools ÷ Value of DOWN Pool
+* UP Pool के लिए भुगतान अनुपात = दोनों पूल का कुल मूल्य ÷ UP Pool का मूल्य
+* DOWN Pool के लिए भुगतान अनुपात = दोनों पूल का कुल मूल्य ÷ DOWN Pool का मूल्य
 
-**Example - Bet 2 BNB "DOWN", outcome = "DOWN":**
+**उदाहरण - 2 BNB "DOWN" बेट, परिणाम = "DOWN":**
 
-* DOWN side = 15 BNB, total prize pool = 150 BNB&#x20;
-* DOWN payout ratio = 150 BNB / 15 BNB = 10x
-* Payout Amount = Payout Ratio × Position × (1 - Treasury Fee)
-  * If you bet 2 BNB on DOWN, payout = (2 × 10) × (1 − 0.03) = 19.4 BNB
-* Profit = 19.4 − 2 = 17.4 BNB
+* DOWN पक्ष = 15 BNB, कुल पुरस्कार पूल = 150 BNB&#x20;
+* DOWN भुगतान अनुपात = 150 BNB / 15 BNB = 10x
+* भुगतान राशि = भुगतान अनुपात × स्थिति × (1 - ट्रेजरी शुल्क)
+  * यदि आपने DOWN पर 2 BNB बेट लगाई, भुगतान = (2 × 10) × (1 − 0.03) = 19.4 BNB
+* लाभ = 19.4 − 2 = 17.4 BNB
 
-### 3. Is there a time limit before I can collect my winnings?
+### 3. क्या मेरी जीत इकट्ठा करने के लिए कोई समय सीमा है?
 
-No, you’ll be able to collect your winnings at any time in the future.
+नहीं, आप भविष्य में किसी भी समय अपनी जीत इकट्ठा कर सकते हैं।
 
-### 4. What’s the PancakeSwap Prediction contract address?
+### 4. PancakeSwap Prediction कॉन्ट्रैक्ट का पता क्या है?
 
 **BNB Chain**
 
@@ -37,149 +37,148 @@ No, you’ll be able to collect your winnings at any time in the future.
 
 
 
-## B) Positions & Results
+## B) स्थिति और परिणाम
 
-### 1. **Can I change or remove my position?**
+### 1. **क्या मैं अपनी स्थिति बदल या हटा सकता/सकती हूँ?**
 
-No. Once you enter a position, you can NOT change the direction, add to, or remove your position. It's locked in, so make sure you're 100% happy with your position direction before confirming. &#x20;
+नहीं। एक बार स्थिति दर्ज करने के बाद, आप दिशा नहीं बदल सकते, उसमें जोड़ नहीं सकते, या अपनी स्थिति हटा नहीं सकते। यह लॉक हो जाती है, इसलिए पुष्टि करने से पहले सुनिश्चित करें कि आप 100% अपनी स्थिति की दिशा से संतुष्ट हैं।&#x20;
 
-### 2. When will markets be cancelled? What happens then?
+### 2. मार्केट कब रद्द होते हैं? तब क्या होता है?
 
-* **When:** Oracle or backend service failure, or other extraneous circumstances.
-* **Outcome:** Users can claim 100% of their original bet amount (no fee).
+* **कब:** Oracle या बैकएंड सेवा विफलता, या अन्य असाधारण परिस्थितियाँ।
+* **परिणाम:** उपयोगकर्ता अपनी मूल बेट राशि का 100% दावा कर सकते हैं (कोई शुल्क नहीं)।
 
-### 3. The round's result changed after the round ended! Why?
+### 3. राउंड समाप्त होने के बाद राउंड का परिणाम बदल गया! क्यों?
 
-Sometimes, after a round closes, the final result may be different from the last result shown while the round was live. If you watch a round end on "DOWN", it may appear to flip to "UP" a few seconds later.
+कभी-कभी, राउंड बंद होने के बाद, अंतिम परिणाम राउंड के लाइव होने के दौरान दिखाए गए अंतिम परिणाम से भिन्न हो सकता है। यदि आपने देखा कि राउंड "DOWN" पर समाप्त हुआ, तो कुछ सेकंड बाद यह "UP" पर पलट सकता है।
 
-This is because we use the Oracle price feed to determine the final outcome of a round. The period between the end of one round and the start of the next is 30 seconds, but the Oracle refreshes every 20 seconds. It's possible that during this short period, the Oracle might send an update while the transaction to trigger the next round is being minted. This can appear to "flip" the outcome of the previous round.
+इसका कारण यह है कि हम Oracle मूल्य फ़ीड का उपयोग राउंड के अंतिम परिणाम निर्धारित करने के लिए करते हैं। एक राउंड के अंत और अगले की शुरुआत के बीच का समय 30 सेकंड है, लेकिन Oracle हर 20 सेकंड में ताज़ा होता है। इस छोटी अवधि के दौरान, जब अगले राउंड को ट्रिगर करने का ट्रांजेक्शन माइन हो रहा होता है, तो Oracle एक अपडेट भेज सकता है। इससे पिछले राउंड के परिणाम में "पलट" दिखाई दे सकती है।
 
-### 4. What is Locked Price & Closed Price?
+### 4. Locked Price और Closed Price क्या है?
 
-* **Locked Price:** Price at the start of the LIVE phase.
-* **Closed Price:** Price at the end of the round, used to determine winners.
+* **Locked Price:** LIVE चरण की शुरुआत में मूल्य।
+* **Closed Price:** राउंड के अंत में मूल्य, जो विजेताओं का निर्धारण करने के लिए उपयोग किया जाता है।
 
-**Example – Round 400 (BNB Prediction):**
+**उदाहरण – राउंड 400 (BNB Prediction):**
 
-1. **12:00–12:05:** Place Bet → User bets 0.1 BNB on "UP"
+1. **12:00–12:05:** बेट लगाएं → उपयोगकर्ता "UP" पर 0.1 BNB बेट लगाता है
 2. **12:05–12:10:** Lock Phase → Locked Price = $850
 3. **12:10:** Close Phase → Closed Price = $860
-4. **Result: "UP"** bet wins
+4. **परिणाम: "UP"** बेट जीतती है
 
-**Notes:**
+**नोट:**
 
-* Oracle price may take up to 20 seconds to update.
-* House win: All bets goes to the House
+* Oracle मूल्य को अपडेट होने में 20 सेकंड तक लग सकते हैं।
+* हाउस जीत: सभी बेट हाउस को जाती हैं
 
-### 5. What situations are considered a HOUSE WIN?
+### 5. HOUSE WIN कौन सी परिस्थितियों में माना जाता है?
 
-**Scenarios:**
+**परिदृश्य:**
 
-1. No opposing bets exist and the user loses (e.g., only one user bets UP and outcome = DOWN)
+1. कोई विपरीत बेट नहीं है और उपयोगकर्ता हारता है (जैसे, केवल एक उपयोगकर्ता UP बेट लगाता है और परिणाम = DOWN)
 2. Locked Price = Closed Price
 
-**What happens:**
+**क्या होता है:**
 
-* PancakeSwap takes 100% of the pool; all funds go to CAKE burn.
-* Users on either side lose their initial bet amount.
+* PancakeSwap पूल का 100% लेता है; सभी फंड CAKE बर्न के लिए जाते हैं।
+* दोनों तरफ के उपयोगकर्ता अपनी प्रारंभिक बेट राशि खो देते हैं।
 
-**Example - No opposing bets:**
+**उदाहरण - कोई विपरीत बेट नहीं:**
 
-* User A bets UP, no DOWN bets exist, outcome = DOWN → User A loses; 100% of funds go to treasury.
-* User B bets UP, no DOWN bets exist, outcome = UP → User B reclaims 97% of deposit.
-
-
-
-## C) Market Pauses
-
-### 1. What does it mean when markets are paused?
-
-Markets are paused when there are conditions which affect the reliability of the contract. Markets being paused means that no bets will be taking place for any rounds.
-
-### 2. What causes PancakeSwap Prediction market to pause?
-
-The prediction market will pause under the following conditions:
-
-1. The prediction contract has been unable to obtain the price from the ChainLink oracle due to the oracle not having posted the price at the time the round has ended.
-2. The prediction contract has been unable to execute an action (ending a round or getting a price from the oracle) due to the tx being stuck in the mempool for longer than 15 blocks.
-3. PancakeSwap has decided to discontinue prediction for that market / asset.
-
-### 3. What happens to my position if the market pauses?
-
-If the markets pause while you have a live position, your funds will be available to reclaim, the same way as you would normally claim your winnings.
-
-To reclaim funds, you’ll need to pay some gas fees. We can’t compensate you for the gas fees, so please bear this small risk in mind before participating.
-
-### 4. When will the markets resume after being paused?
-
-The markets will resume when an admin (one of the chefs) manually resumes the market.
+* उपयोगकर्ता A UP बेट लगाता है, कोई DOWN बेट नहीं है, परिणाम = DOWN → उपयोगकर्ता A हारता है; सभी फंड ट्रेजरी को जाते हैं।
+* उपयोगकर्ता B UP बेट लगाता है, कोई DOWN बेट नहीं है, परिणाम = UP → उपयोगकर्ता B अपनी जमा राशि का 97% वापस पाता है।
 
 
 
-## D) Troubleshooting & Claims
+## C) मार्केट पॉज़
 
-### 1. How do I claim past winnings from the CAKEUSD market on BNB Chain?&#x20;
+### 1. मार्केट पॉज़ होने का क्या मतलब है?
 
-* Go to [https://pancakeswap.finance/prediction?token=CAKE\&chain=bsc](https://pancakeswap.finance/prediction?token=CAKE\&chain=bsc)
-* Check the history tab for historical round winnings
+मार्केट तब पॉज़ होते हैं जब ऐसी परिस्थितियाँ होती हैं जो कॉन्ट्रैक्ट की विश्वसनीयता को प्रभावित करती हैं। मार्केट पॉज़ होने का मतलब है कि किसी भी राउंड के लिए कोई बेट नहीं होगी।
 
-### 2. Why can’t I see my winnings in my wallet?
+### 2. PancakeSwap Prediction मार्केट पॉज़ क्यों होता है?
 
-When you collect winnings, they might not appear in your wallet’s transaction logs as usual.\
-This is because they use a different type of transaction: Internal transactions.\
-Enter your wallet address on BscScan, then check the “Internal Txns” tab to confirm that they’ve arrived.\
+प्रेडिक्शन मार्केट निम्नलिखित परिस्थितियों में पॉज़ होगा:
+
+1. प्रेडिक्शन कॉन्ट्रैक्ट ChainLink Oracle से मूल्य प्राप्त करने में असमर्थ रहा क्योंकि राउंड समाप्त होने के समय Oracle ने मूल्य पोस्ट नहीं किया था।
+2. प्रेडिक्शन कॉन्ट्रैक्ट एक कार्रवाई (राउंड समाप्त करना या Oracle से मूल्य प्राप्त करना) करने में असमर्थ रहा क्योंकि tx 15 ब्लॉक से अधिक समय के लिए mempool में अटकी रही।
+3. PancakeSwap ने उस मार्केट/एसेट के लिए प्रेडिक्शन बंद करने का निर्णय लिया है।
+
+### 3. यदि मार्केट पॉज़ हो जाए तो मेरी स्थिति का क्या होगा?
+
+यदि मार्केट पॉज़ हो जाए जबकि आपकी एक लाइव स्थिति है, तो आपके फंड दावा करने योग्य होंगे, उसी तरह जैसे आप सामान्य रूप से अपनी जीत का दावा करते हैं।
+
+फंड वापस पाने के लिए, आपको कुछ गैस शुल्क देने होंगे। हम गैस शुल्क की भरपाई नहीं कर सकते, इसलिए भाग लेने से पहले इस छोटे जोखिम को ध्यान में रखें।
+
+### 4. पॉज़ होने के बाद मार्केट कब फिर से शुरू होंगे?
+
+मार्केट तब फिर शुरू होंगे जब कोई एडमिन (रसोइयों में से एक) मार्केट को मैन्युअली फिर शुरू करेगा।
+
+
+
+## D) समस्या निवारण और दावे
+
+### 1. BNB Chain पर CAKEUSD मार्केट की पिछली जीत का दावा कैसे करूँ?&#x20;
+
+* [https://pancakeswap.finance/prediction?token=CAKE\&chain=bsc](https://pancakeswap.finance/prediction?token=CAKE\&chain=bsc) पर जाएं
+* पिछले राउंड की जीत के लिए इतिहास टैब देखें
+
+### 2. मुझे अपने वॉलेट में अपनी जीत क्यों नहीं दिख रही?
+
+जब आप जीत इकट्ठा करते हैं, तो वे आपके वॉलेट के ट्रांजेक्शन लॉग में सामान्य रूप से नहीं दिख सकती हैं।\
+इसका कारण यह है कि वे एक अलग प्रकार के ट्रांजेक्शन का उपयोग करती हैं: Internal transactions.\
+BscScan पर अपना वॉलेट पता दर्ज करें, फिर "Internal Txns" टैब देखकर पुष्टि करें कि वे आए हैं।\
 ![](https://lh5.googleusercontent.com/9NoIvK-oztyEaizCfgrj-poPIP_uWeFDYsa0_nxN3sKUiIwFdACy_BemrtRLJn-ZkyW3LprfRn4s9lL24BOGb-I-t1vHoh5wkuTx7bObHQl5sS7xPmuZEOTVPUXr7LPNAfPfqr12)
 
-### 3. Why aren't the results of my round showing?
+### 3. मेरे राउंड के परिणाम क्यों नहीं दिख रहे?
 
-There’s a 15 block buffer on each round, which can cause delays of up to 45 seconds after the end of a round.\
-This buffer is to accommodate for the fact that we may not be able to reliably fetch a price and end a round immediately: various blockchain factors affect the speed in which transactions get confirmed on the network.
+प्रत्येक राउंड पर 15 ब्लॉक का बफर है, जिससे राउंड समाप्त होने के बाद 45 सेकंड तक की देरी हो सकती है।\
+यह बफर इस तथ्य को समायोजित करने के लिए है कि हम तुरंत एक मूल्य विश्वसनीय रूप से प्राप्त नहीं कर सकते और राउंड समाप्त नहीं कर सकते: विभिन्न ब्लॉकचेन कारक नेटवर्क पर ट्रांजेक्शन की पुष्टि की गति को प्रभावित करते हैं।
 
-### 4. I can’t collect my winnings, what should I do?
+### 4. मैं अपनी जीत इकट्ठा नहीं कर सकता/सकती, मुझे क्या करना चाहिए?
 
-Make sure you have enough BNB in your wallet to pay for gas fees. You’ll need a little BNB to trigger the smart contract.
+सुनिश्चित करें कि आपके वॉलेट में गैस शुल्क के लिए पर्याप्त BNB है। स्मार्ट कॉन्ट्रैक्ट को ट्रिगर करने के लिए आपको थोड़ी BNB चाहिए।
 
-### **5. What if I can't claim winnings from the website?**
+### **5. यदि मैं वेबसाइट से जीत का दावा नहीं कर सकता/सकती तो क्या करूँ?**
 
-You might be able to claim your winnings directly from the contract. Follow the steps in the 3 tabs below.
+आप सीधे कॉन्ट्रैक्ट से अपनी जीत का दावा कर सकते हैं। नीचे दिए गए 3 टैब में चरणों का पालन करें।
 
 {% tabs %}
 {% tab title="Check rounds you played" %}
-How to check the history of rounds you played
+आपने जो राउंड खेले उनका इतिहास कैसे देखें
 
-1. Go to BscScan page of the [Prediction contract](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (e.g. BNBUSD).
-2. Scroll down to “8. getUserRounds”.
-3. Type in your wallet address under “user(address)”.
-4. Set “cursor(uint256)" to 0 and “size(uint256)" to 1000.
-5. Tap “Query”
-6. Rounds you entered will show below in the first row. (after “uint256\[]:”)
+1. [Prediction contract](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (जैसे BNBUSD) के BscScan पृष्ठ पर जाएं।
+2. "8. getUserRounds" तक स्क्रॉल करें।
+3. "user(address)" के अंतर्गत अपना वॉलेट पता टाइप करें।
+4. "cursor(uint256)" को 0 और "size(uint256)" को 1000 पर सेट करें।
+5. "Query" पर टैप करें
+6. आपने जो राउंड दर्ज किए वे पहली पंक्ति में नीचे दिखाई देंगे। ("uint256\[]:" के बाद)
 {% endtab %}
 
 {% tab title="Check if you can claim" %}
-First, check whether you should actually be able to claim from the round you played.
+पहले, जाँचें कि आप वास्तव में उस राउंड से दावा कर सकते हैं जो आपने खेला।
 
-1. Go to BscScan page of the [Prediction contract](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (e.g. BNBUSD), and go to the Read tab
-2. Scroll down to “4. claimable”.
-3. Type in the round id you want to check under "epoch(uint256)”.
-4. Type in your wallet address under “user(address)”.
-5. Tap “Query”
-6. If a round is claimable, it will show “true”.
-7. If the result is "false". Please repeat the above steps and try with "19. refundable".&#x20;
-8. Note: ⬆️ If you see a round returns "false" on both "4. claimable" and "19. refundable", but it shows on the website, it's probably been claimed already and the website is lagging.
+1. [Prediction contract](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (जैसे BNBUSD) के BscScan पृष्ठ पर जाएं और Read टैब पर जाएं
+2. "4. claimable" तक स्क्रॉल करें।
+3. "epoch(uint256)" के अंतर्गत वह राउंड ID टाइप करें जिसे आप जाँचना चाहते हैं।
+4. "user(address)" के अंतर्गत अपना वॉलेट पता टाइप करें।
+5. "Query" पर टैप करें
+6. यदि कोई राउंड दावा योग्य है, तो यह "true" दिखाएगा।
+7. यदि परिणाम "false" है। कृपया ऊपर के चरण दोहराएं और "19. refundable" के साथ प्रयास करें।&#x20;
+8. नोट: ⬆️ यदि आप देखते हैं कि कोई राउंड "4. claimable" और "19. refundable" दोनों पर "false" दिखाता है, लेकिन यह वेबसाइट पर दिखता है, तो शायद यह पहले ही दावा किया जा चुका है और वेबसाइट पिछड़ रही है।
 {% endtab %}
 
 {% tab title="Claim from a round" %}
-How to claim
+दावा कैसे करें
 
-1. Go to BscScan page of the [Prediction contract](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (e.g. BNBUSD), and go to the Write tab
-2. Tap “🔴 Connect to Web3”
-3. Use MetaMask or WalletConnect to connect.
-4. Scroll down to “3. claim”
-5.  Type in the round number you want to claim in this format, including the \[] brackets: `[12345]`&#x20;
+1. [Prediction contract](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (जैसे BNBUSD) के BscScan पृष्ठ पर जाएं और Write टैब पर जाएं
+2. "🔴 Connect to Web3" पर टैप करें
+3. MetaMask या WalletConnect का उपयोग करके कनेक्ट करें।
+4. "3. claim" तक स्क्रॉल करें
+5.  जो राउंड नंबर आप दावा करना चाहते हैं उसे इस फ़ॉर्मेट में टाइप करें, \[] ब्रैकेट सहित: `[12345]`&#x20;
 
-    If you want to claim from multiple rounds together, separate the rounds with a comma like this: `[12345,12346,12347]`
-6. Tap “Write”
-7. Confirm on wallet&#x20;
+    यदि आप एक साथ कई राउंड से दावा करना चाहते हैं, तो राउंड को कॉमा से अलग करें: `[12345,12346,12347]`
+6. "Write" पर टैप करें
+7. वॉलेट में पुष्टि करें&#x20;
 {% endtab %}
 {% endtabs %}
-

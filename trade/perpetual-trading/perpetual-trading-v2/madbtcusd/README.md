@@ -1,24 +1,24 @@
 ---
-description: Higher Volatility BTC Trading
+description: उच्च अस्थिरता BTC ट्रेडिंग
 hidden: true
 ---
 
 # MADBTCUSD
 
-**1. What is MADBTCUSD Index?**
+**1. MADBTCUSD Index क्या है?**
 
-The MADBTCUSD Index is an algorithmically generated price index that encapsulates the dynamic movements of BTC but with an added twist – it exhibits significantly higher volatility. This index is derived using the Geometric Brownian Motion (GBM) derivatives pricing methodology, a mathematical model commonly used in the world of finance to simulate the unpredictable nature of assets.
+MADBTCUSD Index एक एल्गोरिदमिक रूप से उत्पन्न मूल्य सूचकांक है जो BTC की गतिशील गतिविधियों को समेटता है लेकिन एक अतिरिक्त विशेषता के साथ — यह काफी अधिक अस्थिरता प्रदर्शित करता है। यह सूचकांक Geometric Brownian Motion (GBM) derivatives pricing methodology का उपयोग करके प्राप्त किया जाता है, जो वित्त की दुनिया में एसेट की अप्रत्याशित प्रकृति को अनुकरण करने के लिए आमतौर पर उपयोग किया जाने वाला गणितीय मॉडल है।
 
-**2. How Does It Work?**
+**2. यह कैसे काम करता है?**
 
-The MADBTCUSD Index is primarily based on the price of Bitcoin. It mirrors the general ups and downs of BTCUSD, but it does so at an amplified rate (expected volatility of 100%), resulting in an index with significantly more pronounced price swings. To maintain transparency and fairness, the MADBTC price can be cross-verified through the BTC price and MADBTC historical price data ([here](madbtcusd-faq.md)). This ensures that the index accurately reflects the movements in the underlying BTC market.
+MADBTCUSD Index मुख्य रूप से Bitcoin के मूल्य पर आधारित है। यह BTCUSD के सामान्य उतार-चढ़ाव को दर्शाता है, लेकिन यह एक प्रवर्धित दर (100% की अपेक्षित अस्थिरता) पर करता है, जिसके परिणामस्वरूप काफी अधिक स्पष्ट मूल्य उतार-चढ़ाव वाला एक सूचकांक बनता है। पारदर्शिता और निष्पक्षता बनाए रखने के लिए, MADBTC मूल्य को BTC मूल्य और MADBTC ऐतिहासिक मूल्य डेटा ([यहां](madbtcusd-faq.md)) के माध्यम से क्रॉस-वेरीफाई किया जा सकता है। यह सुनिश्चित करता है कि सूचकांक अंतर्निहित BTC बाजार में गतिविधियों को सटीक रूप से दर्शाता है।
 
-One key feature that sets MADBTCUSD apart from traditional cryptocurrencies is the element of randomness. The price of the MADBTCUSD contract is algorithmically generated using a combination of the corresponding contract's data and a random number. There is no impact of buyers and sellers on price of the MADBTCUSD index.
+एक प्रमुख विशेषता जो MADBTCUSD को पारंपरिक क्रिप्टोकरेंसी से अलग करती है वह यादृच्छिकता का तत्व है। MADBTCUSD कॉन्ट्रैक्ट का मूल्य संबंधित कॉन्ट्रैक्ट के डेटा और एक यादृच्छिक संख्या के संयोजन का उपयोग करके एल्गोरिदमिक रूप से उत्पन्न किया जाता है। MADBTCUSD सूचकांक की कीमत पर खरीदारों और विक्रेताओं का कोई प्रभाव नहीं है।
 
-**3. Market Availability:**
+**3. बाजार उपलब्धता:**
 
-Currently, MADBTCUSD Index is available in Classic Mode on BNB Chain, alongside other major markets like BTCUSD, and ETHUSD. The contract offers additional benefits such as zero position open fee, PnL based position close fee and up to 250x leverage.
+वर्तमान में, MADBTCUSD Index BNB Chain पर Classic Mode में उपलब्ध है, BTCUSD और ETHUSD जैसे अन्य प्रमुख बाजारों के साथ। कॉन्ट्रैक्ट शून्य पोजीशन ओपन फी, PnL आधारित पोजीशन क्लोज फी और 250x तक लीवरेज जैसे अतिरिक्त लाभ प्रदान करता है।
 
-If you're intrigued by the concept of MADBTCUSD and want to explore the intricacies of this contract further, here’s a dedicated [FAQ](madbtcusd-faq.md) page to provide you with a comprehensive methodology.
+यदि आप MADBTCUSD की अवधारणा से उत्सुक हैं और इस कॉन्ट्रैक्ट की जटिलताओं को और जानना चाहते हैं, तो यहां एक समर्पित [FAQ](madbtcusd-faq.md) पेज है जो आपको एक व्यापक methodology प्रदान करेगा।
 
-_**It's important to note that due to its extreme volatility, MADBTCUSD may not be suitable for all traders, so it's essential to conduct your research and fully understand the risks involved before participating**_
+_**यह ध्यान रखना महत्वपूर्ण है कि इसकी अत्यधिक अस्थिरता के कारण, MADBTCUSD सभी ट्रेडर्स के लिए उपयुक्त नहीं हो सकता, इसलिए भाग लेने से पहले अपना शोध करना और शामिल जोखिमों को पूरी तरह समझना आवश्यक है**_

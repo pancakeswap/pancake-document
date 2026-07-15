@@ -1,63 +1,63 @@
 ---
-description: '"Don''t call it a roadmap"'
+description: '"इसे रोडमैप मत कहो"'
 ---
 
-# 🗺️ Roadmap
+# 🗺️ रोडमैप
 
-_Updated on Jun 1, 2026_
+_अपडेट: 1 जून, 2026_
 
-## Our vision: the universal liquidity layer of crypto
+## हमारी दृष्टि: क्रिप्टो की सार्वभौमिक तरलता परत
 
-All of crypto should route through PancakeSwap. Our **AMMs** and **PCSX** are the rails every trade settles against; our **aggregator** wins the customer with the best price anywhere and routes that demand back into our own liquidity. More flow deepens liquidity, which sharpens execution, which wins more users — and the revenue it generates buys back and burns **CAKE**, tying the token directly to real usage. Increasingly, the traders won't even be human: as AI agents become crypto's newest economic actors, we intend to be the liquidity layer they plug into. Liquidity in, supply out.
-
-***
-
-#### Aggregator — owning the customer relationship
-
-Best price in crypto, every time, on one surface across every chain — then we route that demand into our own rails.
-
-* **Now:** best-price routing across PancakeSwap + external venues; multichain (BNB, ETH, Base, Arbitrum, Solana, and more); sub-second quotes on our own infra
-* **Next:** cross-chain aggregated swaps; broader venue and chain coverage
-
-#### AMM — the foundation of liquidity
-
-PancakeSwap Infinity makes our AMM the most extensible, capital-efficient liquidity primitive in DeFi.
-
-* **Now:** more v4 hooks, e.g. dynamic fees hooks, stableswap hooks
-* **Next:** a growing ecosystem of hooks; more chains; advanced LP tooling
-
-#### PCSX — the rail specifically built for RWA
-
-Intent-based settlement that connects users to professional market makers, covering fills the pool model can't.
-
-* **Now:** RFQ fills with pro market makers; powering tokenized RWAs
-* **Next:** deeper MM network; cross-chain settlement
-
-#### Perps — pro-grade derivatives onchain
-
-A derivatives venue that rivals any platform, without giving up self-custody.
-
-* **Now:** advanced order types (limit, stop, TP/SL); AI copilot for one-click strategies; precise position management, loss rebate mechanisms
-* **Next:** advanced trader tooling, more gamified features
-
-#### Agentic — trading that acts for you
-
-The next interface isn't a screen, it's an agent. We're evolving from assisting trades to executing them — and opening our rails to the AI agents becoming crypto's newest traders.
-
-* **Now:** AI skills, AI copilot that turns intent into one-click strategies
-* **Next:** autonomous agents that execute and rebalance on your behalf; natural-language trading; agent-accessible APIs so third-party AI routes its flow through our liquidity
-
-#### Tokenized Stock — real-world markets on our rails
-
-A dedicated EVM home for trading tokenized equities, settling through our own liquidity.
-
-* **Now:** dedicated stock terminal; live charts and on-chain data; expanding asset list
-* **Next:** more equities and RWAs; more chains; limit order and DCA
-
-#### Other optimizations
-
-The invisible work that compounds: faster flows, simpler onboarding, a stronger mobile experience, deeper multichain reach, and higher reliability at scale.
+क्रिप्टो में सभी व्यापार PancakeSwap के माध्यम से होने चाहिए। हमारे **AMMs** और **PCSX** वे rails हैं जिन पर हर व्यापार settle होता है; हमारा **aggregator** हर जगह सबसे अच्छी कीमत के साथ ग्राहक को जीतता है और उस माँग को वापस हमारी अपनी तरलता में लाता है। अधिक flow से तरलता गहरी होती है, जिससे execution बेहतर होता है, जिससे अधिक उपयोगकर्ता जुड़ते हैं — और इससे उत्पन्न राजस्व **CAKE** को वापस खरीदकर burn करता है, टोकन को वास्तविक उपयोग से सीधे जोड़ता है। तेज़ी से, व्यापारी इंसान भी नहीं होंगे: जैसे-जैसे AI एजेंट क्रिप्टो के नए आर्थिक अभिनेता बनते हैं, हम वह तरलता परत बनना चाहते हैं जिससे वे जुड़ें। तरलता अंदर, आपूर्ति बाहर।
 
 ***
 
-_Crypto moves fast, and so do we — no fixed timelines, just a constant direction: become the universal liquidity layer of crypto, win the customer with the best execution anywhere, route the world's onchain trading (human and agent) through our rails, and return that value to CAKE._
+#### Aggregator — ग्राहक संबंध का स्वामित्व
+
+क्रिप्टो में हर बार सबसे अच्छी कीमत, एक ही सतह पर हर chain पर — फिर हम उस माँग को अपनी rails में भेजते हैं।
+
+* **अभी:** PancakeSwap + बाहरी venues पर सर्वोत्तम-कीमत routing; multichain (BNB, ETH, Base, Arbitrum, Solana, और अधिक); हमारी अपनी infra पर sub-second quotes
+* **आगे:** क्रॉस-चेन aggregated swaps; व्यापक venue और chain coverage
+
+#### AMM — तरलता की नींव
+
+PancakeSwap Infinity हमारे AMM को DeFi में सबसे विस्तार योग्य, पूंजी-कुशल तरलता primitive बनाता है।
+
+* **अभी:** अधिक v4 hooks, जैसे dynamic fees hooks, stableswap hooks
+* **आगे:** hooks का बढ़ता पारिस्थितिकी तंत्र; अधिक chain; उन्नत LP tooling
+
+#### PCSX — विशेष रूप से RWA के लिए बनाई गई rail
+
+Intent-based settlement जो उपयोगकर्ताओं को professional market makers से जोड़ता है, pool model की सीमाओं को पूरा करता है।
+
+* **अभी:** pro market makers के साथ RFQ fills; tokenized RWAs को शक्ति देना
+* **आगे:** गहरा MM network; क्रॉस-चेन settlement
+
+#### Perps — ऑन-चेन पेशेवर-स्तरीय derivatives
+
+एक derivatives venue जो किसी भी प्लेटफॉर्म से मुकाबला करता है, self-custody के बिना समझौता किए बिना।
+
+* **अभी:** उन्नत order types (limit, stop, TP/SL); एक-क्लिक strategies के लिए AI copilot; सटीक position management, loss rebate mechanisms
+* **आगे:** उन्नत trader tooling, अधिक gamified features
+
+#### Agentic — आपके लिए काम करने वाला व्यापार
+
+अगला interface कोई स्क्रीन नहीं है, यह एक एजेंट है। हम व्यापार में सहायता से लेकर उसे निष्पादित करने की ओर विकसित हो रहे हैं — और अपनी rails को AI एजेंटों के लिए खोल रहे हैं जो क्रिप्टो के नए व्यापारी बन रहे हैं।
+
+* **अभी:** AI skills, AI copilot जो intent को एक-क्लिक strategies में बदलता है
+* **आगे:** स्वायत्त एजेंट जो आपकी ओर से निष्पादन और rebalancing करते हैं; natural-language trading; agent-accessible APIs ताकि third-party AI अपना flow हमारी तरलता के माध्यम से route करे
+
+#### Tokenized Stock — हमारी rails पर वास्तविक दुनिया के बाज़ार
+
+tokenized equities का व्यापार करने के लिए एक समर्पित EVM, हमारी अपनी तरलता के माध्यम से settle होता है।
+
+* **अभी:** समर्पित stock terminal; live charts और on-chain data; expanding asset list
+* **आगे:** अधिक equities और RWAs; अधिक chains; limit order और DCA
+
+#### अन्य अनुकूलन
+
+वह अदृश्य कार्य जो जुड़ता है: तेज़ flows, सरल onboarding, बेहतर mobile experience, गहरी multichain पहुँच, और बड़े पैमाने पर उच्च विश्वसनीयता।
+
+***
+
+_क्रिप्टो तेज़ी से आगे बढ़ता है, और हम भी — कोई निश्चित समयसीमा नहीं, बस एक निरंतर दिशा: क्रिप्टो की सार्वभौमिक तरलता परत बनना, सर्वश्रेष्ठ execution के साथ ग्राहक को जीतना, दुनिया के ऑन-चेन व्यापार (मानव और एजेंट) को हमारी rails के माध्यम से route करना, और वह मूल्य CAKE को वापस देना।_

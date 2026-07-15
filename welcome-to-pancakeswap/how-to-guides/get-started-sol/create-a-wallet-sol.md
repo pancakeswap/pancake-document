@@ -1,120 +1,120 @@
-# Create a wallet (SOL)
+# वॉलेट बनाएं (SOL)
 
-### 1. **Why You Need a Wallet**
+### 1. **वॉलेट की आवश्यकता क्यों है**
 
-To use **PancakeSwap on Solana**, you need a **crypto wallet** — it’s your personal vault for digital assets and your passport to DeFi. Without a wallet, you won’t be able to:
+**Solana पर PancakeSwap** का उपयोग करने के लिए, आपको एक **क्रिप्टो वॉलेट** चाहिए — यह डिजिटल एसेट के लिए आपका व्यक्तिगत तिजोरी और DeFi का आपका पासपोर्ट है। वॉलेट के बिना, आप निम्नलिखित नहीं कर पाएंगे:
 
-* **Swap tokens** on Solana
-* **Provide liquidity** to PancakeSwap’s **V3 Pools** (our capital-efficient, concentrated liquidity model)
-* Interact with any dApp or store tokens on Solana
+* Solana पर **टोकन स्वैप** करना
+* PancakeSwap के **V3 Pools** (हमारा पूंजी-कुशल, संकेंद्रित तरलता मॉडल) में **तरलता प्रदान** करना
+* Solana पर किसी भी dApp के साथ इंटरैक्ट करना या टोकन संग्रहीत करना
 
 ***
 
-### 2. **Wallet Setup Essentials (Security First!)**
+### 2. **वॉलेट सेटअप की आवश्यकताएं (पहले सुरक्षा!)**
 
-Crypto wallets give you full control over your assets — but with great power comes great responsibility. Keep your wallet safe by following these best practices:
+क्रिप्टो वॉलेट आपको अपनी एसेट पर पूर्ण नियंत्रण देते हैं — लेकिन बड़ी शक्ति के साथ बड़ी जिम्मेदारी भी आती है। इन सर्वोत्तम तरीकों का पालन करके अपना वॉलेट सुरक्षित रखें:
 
-| ✅ Do’s                                                                | ❌ Don’ts                                                 |
+| ✅ करें                                                                | ❌ न करें                                                 |
 | --------------------------------------------------------------------- | -------------------------------------------------------- |
-| ✅ **Download from official sources** (app stores, verified websites)  | ❌ Don’t install from random links or DMs                 |
-| ✅ **Follow the setup instructions** carefully                         | ❌ Don’t rush or skip the backup process                  |
-| ✅ **Back up your recovery phrase** and store it offline               | ❌ Don’t screenshot or store it on your phone or computer |
-| ✅ **Keep your phrase private** — it's your only way to recover access | ❌ Never share it, even if someone claims to be "support" |
-| ✅ Only enter your recovery phrase **inside the wallet app**           | ❌ Never input it into websites, popups, or other apps    |
+| ✅ **आधिकारिक स्रोतों से डाउनलोड करें** (ऐप स्टोर, सत्यापित वेबसाइट)  | ❌ रैंडम लिंक या DM से इंस्टॉल न करें                 |
+| ✅ **सेटअप निर्देशों का** सावधानी से पालन करें                         | ❌ बैकअप प्रक्रिया में जल्दबाजी न करें या इसे छोड़ें नहीं  |
+| ✅ अपना **रिकवरी फ्रेज़ बैकअप** करें और इसे ऑफलाइन सुरक्षित जगह रखें               | ❌ इसका स्क्रीनशॉट न लें या अपने फोन/कंप्यूटर पर स्टोर न करें |
+| ✅ **अपना फ्रेज़ निजी रखें** — यह एक्सेस रिकवर करने का आपका एकमात्र तरीका है | ❌ इसे कभी साझा न करें, भले ही कोई "सपोर्ट" होने का दावा करे |
+| ✅ अपना रिकवरी फ्रेज़ केवल **वॉलेट ऐप के अंदर** दर्ज करें           | ❌ इसे वेबसाइट, पॉपअप या अन्य ऐप में कभी दर्ज न करें    |
 
-> 🧠 Your recovery phrase = access to your wallet
+> 🧠 आपका रिकवरी फ्रेज़ = आपके वॉलेट तक पहुँच
 
 ***
 
-### 3. **Choosing Your Wallet: Mobile vs. Desktop**
+### 3. **अपना वॉलेट चुनें: मोबाइल या डेस्कटॉप**
 
-Not sure which type of wallet to use? Here’s a quick breakdown of mobile vs. desktop/web wallets so you can choose what fits your style:
+कौन सा प्रकार का वॉलेट उपयोग करें, यह तय नहीं कर पा रहे? यहाँ मोबाइल बनाम डेस्कटॉप/वेब वॉलेट का त्वरित विवरण है ताकि आप अपनी पसंद के अनुसार चुन सकें:
 
-| Feature         | **Mobile Wallets**                 | **Browser/Desktop Wallets**            |
+| विशेषता         | **मोबाइल वॉलेट**                 | **ब्राउज़र/डेस्कटॉप वॉलेट**            |
 | --------------- | ---------------------------------- | -------------------------------------- |
-| **Use case**    | Swap & track on-the-go             | Best for multitasking or deep dApp use |
-| **Ease of use** | Intuitive, beginner-friendly       | Lightweight extensions, quick access   |
-| **Security**    | Depends on phone security          | Easier hardware wallet integration     |
-| **Convenience** | All-in-one app                     | More manual, but powerful              |
-| **Best for...** | Casual users, mobile-first traders | Desktop users, more advanced flows     |
+| **उपयोग का मामला**    | चलते-फिरते स्वैप और ट्रैक करें             | मल्टीटास्किंग या गहरे dApp उपयोग के लिए सर्वश्रेष्ठ |
+| **उपयोग में आसानी** | सहज, शुरुआती-अनुकूल       | हल्के एक्सटेंशन, त्वरित पहुँच   |
+| **सुरक्षा**    | फोन सुरक्षा पर निर्भर          | हार्डवेयर वॉलेट एकीकरण आसान     |
+| **सुविधा** | ऑल-इन-वन ऐप                     | अधिक मैन्युअल, लेकिन शक्तिशाली              |
+| **सर्वश्रेष्ठ...** | आकस्मिक उपयोगकर्ता, मोबाइल-प्रथम ट्रेडर | डेस्कटॉप उपयोगकर्ता, अधिक उन्नत प्रक्रियाएं     |
 
-> 📱 Mobile wallets can offer a smoother experience for trading, managing portfolios, and browsing NFTs — all from your phone.
+> 📱 मोबाइल वॉलेट ट्रेडिंग, पोर्टफोलियो प्रबंधन और NFT ब्राउज़ करने के लिए एक सहज अनुभव प्रदान कर सकते हैं — सब कुछ आपके फोन से।
 
 ***
 
-### 4. **Recommended Solana Wallets**
+### 4. **अनुशंसित Solana वॉलेट**
 
-> ⚠️ Note: These are some Solana-compatible wallets based on current ecosystem adoption. Always DYOR (Do Your Own Research).
+> ⚠️ नोट: ये वर्तमान इकोसिस्टम अपनाने के आधार पर कुछ Solana-संगत वॉलेट हैं। हमेशा DYOR (अपना स्वयं का अनुसंधान करें)।
 
-#### ✅ **Multi-Platform Wallets (Mobile & Desktop)**
+#### ✅ **मल्टी-प्लेटफ़ॉर्म वॉलेट (मोबाइल और डेस्कटॉप)**
 
-Some popular wallets that you may use for the Solana ecosystem (not limited to):
+Solana इकोसिस्टम के लिए आप जो लोकप्रिय वॉलेट उपयोग कर सकते हैं (इन तक सीमित नहीं):
 
 * Phantom: [https://phantom.com/](https://phantom.com/)
 * Solflare: [https://www.solflare.com/](https://www.solflare.com/)
 
-Both Phantom and Solflare are available on:
+Phantom और Solflare दोनों निम्नलिखित पर उपलब्ध हैं:
 
-* **iOS & Android apps**
-* **Web Browser extensions**
+* **iOS और Android ऐप**
+* **वेब ब्राउज़र एक्सटेंशन**
 
 ***
 
-#### 🔌 **WalletConnect-Compatible Options**
+#### 🔌 **WalletConnect-संगत विकल्प**
 
-Using **WalletConnect**, you can connect other wallets to PancakeSwap on Solana — directly from desktop or mobile:
+**WalletConnect** का उपयोग करके, आप डेस्कटॉप या मोबाइल से सीधे Solana पर PancakeSwap से अन्य वॉलेट कनेक्ट कर सकते हैं:
 
 * **Binance Wallet**
 * **OKX Wallet**
 * **Jupiter Wallet**
-* **Backpack,** and more
+* **Backpack,** और अधिक
 
-> You’ll see a full list of supported wallets when connecting on the PancakeSwap UI via WalletConnect.
-
-***
-
-### 5. **General Wallet Setup Steps (Quick Guide)**
-
-No matter which wallet you choose, the process is generally similar:
-
-1. **Download** the wallet app or browser extension from its **official source**
-2. Launch the app and tap **“Create a new wallet”**
-   * (Or select **“Import”** if you already have one)
-3. Set a strong **password or PIN** (if required)
-4.  You’ll be shown a **recovery phrase** (12 or 24 words) —
-
-    → **Write it down and store it somewhere safe, offline**
-5. **Confirm your recovery phrase** to complete setup
-6.  **Fund your wallet with SOL**
-
-    → You’ll need **SOL** to pay for gas fees when swapping or adding liquidity on PancakeSwap
+> WalletConnect के माध्यम से PancakeSwap UI पर कनेक्ट करते समय आपको समर्थित वॉलेट की पूरी सूची दिखेगी।
 
 ***
 
-> Why SOL?
->
-> SOL is the **native token of the Solana blockchain** — it’s used to pay for transaction fees.
->
-> Before you can interact with PancakeSwap, you’ll need to hold some SOL in your wallet.
+### 5. **सामान्य वॉलेट सेटअप चरण (त्वरित गाइड)**
 
-You can:
+चाहे आप कोई भी वॉलेट चुनें, प्रक्रिया आमतौर पर समान होती है:
 
-* Buy SOL on a centralised exchange and transfer it in
-* Or bridge assets to Solana using a cross-chain bridge at [pancakeswap.finance/bridge](https://pancakeswap.finance/bridge)
+1. इसके **आधिकारिक स्रोत** से वॉलेट ऐप या ब्राउज़र एक्सटेंशन **डाउनलोड** करें
+2. ऐप लॉन्च करें और **"Create a new wallet"** पर टैप करें
+   * (या **"Import"** चुनें यदि आपके पास पहले से एक है)
+3. एक मजबूत **पासवर्ड या PIN** सेट करें (यदि आवश्यक हो)
+4.  आपको एक **रिकवरी फ्रेज़** (12 या 24 शब्द) दिखाया जाएगा —
 
-View here to see how to [Get SOL](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-sol/get-sol)
+    → **इसे लिख लें और इसे ऑफलाइन किसी सुरक्षित जगह पर रखें**
+5. सेटअप पूरा करने के लिए **अपने रिकवरी फ्रेज़ की पुष्टि करें**
+6.  **अपने वॉलेट में SOL डालें**
+
+    → PancakeSwap पर स्वैप करने या तरलता जोड़ने के लिए आपको गैस शुल्क के रूप में **SOL** की आवश्यकता होगी
 
 ***
 
-### Ready for the Next Step?
-
-Once your wallet is set up and funded with SOL, you’re ready to:
-
-* **Swap tokens** using PancakeSwap on Solana:
-* **Add liquidity to V3 Pools** and start earning:
-
-> 💡 What are V3 Pools?
+> SOL क्यों?
 >
-> PancakeSwap V3 uses a **concentrated liquidity** model, designed to maximise capital efficiency.
+> SOL **Solana ब्लॉकचेन का नेटिव टोकन** है — इसका उपयोग ट्रांजेक्शन शुल्क के लिए किया जाता है।
 >
-> Want to learn more? Check out the [Liquidity Pools](https://docs.pancakeswap.finance/earn/pancakeswap-pools) section.
+> PancakeSwap के साथ इंटरैक्ट करने से पहले, आपको अपने वॉलेट में कुछ SOL रखना होगा।
+
+आप:
+
+* किसी केंद्रीकृत एक्सचेंज पर SOL खरीद सकते हैं और इसे ट्रांसफर कर सकते हैं
+* या [pancakeswap.finance/bridge](https://pancakeswap.finance/bridge) पर क्रॉस-चेन ब्रिज का उपयोग करके Solana पर एसेट ब्रिज कर सकते हैं
+
+[SOL कैसे प्राप्त करें](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-sol/get-sol) यहाँ देखें
+
+***
+
+### अगले चरण के लिए तैयार?
+
+एक बार जब आपका वॉलेट सेट अप हो जाए और SOL से फंड हो जाए, तो आप तैयार हैं:
+
+* Solana पर PancakeSwap का उपयोग करके **टोकन स्वैप** करें:
+* **V3 Pools में तरलता जोड़ें** और कमाई शुरू करें:
+
+> 💡 V3 Pools क्या हैं?
+>
+> PancakeSwap V3 एक **संकेंद्रित तरलता** मॉडल का उपयोग करता है, जो पूंजी दक्षता को अधिकतम करने के लिए डिज़ाइन किया गया है।
+>
+> अधिक जानना चाहते हैं? [Liquidity Pools](https://docs.pancakeswap.finance/earn/pancakeswap-pools) अनुभाग देखें।

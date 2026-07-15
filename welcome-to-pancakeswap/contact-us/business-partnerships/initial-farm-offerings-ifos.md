@@ -1,31 +1,31 @@
 # 🧑‍🌾 Initial Farm Offerings - IFOs
 
-For more information about our token launchpad offerings (“[Initial Farm Offering, or IFO”](https://pancakeswap.finance/ifo)), please view this PDF
+हमारे टोकन लॉन्चपैड ("Initial Farm Offering, या IFO") के बारे में अधिक जानकारी के लिए, कृपया यह PDF देखें
 
-{% file src="../../../.gitbook/assets/PancakeSwap IFO One-Pager.pdf" %}
+{% file src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/PancakeSwap%20IFO%20One-Pager.pdf" %}
 
-#### Example of an IFO Process
+#### IFO प्रक्रिया का उदाहरण
 
-1. Initial Outreach
-   * **Apply via our form** [**here**](https://docs.google.com/forms/d/e/1FAIpQLScmZu87SG41J_eGfzlbyJ_olFohlGOXfOJer04Dr1yCEJy2NA/viewform) **- (Average time to fill up form: ≤14 minutes)**
-   * We have a lovely chat about your target launch date, your goals for TGE, and your team decides to commit to an IFO - let's go!
-2. Due Diligence
-   * Using the information in the form, we would clarify some points
-   * For our IFOs, compared to our Syrup Pools/Farms, there is a bit more discussion: we are happy to share our knowledge of best practices with regard to tokenomics, product, Go-To-Market (GTM) Strategy, etc.
-   * Team passes due diligence – congrats!
-3. Marketing Preparation
-   * We will ask for some design assets, and some project info, and create both a lovely banner (Solv example below) and a [forum post](https://forum.pancakeswap.finance/t/solv-ifo-discussion-thread/993)
-   * We will also start collating questions for the AMA
-   * We will typically run a week-long [marketing campaign](https://x.com/PancakeSwap/status/1879169881742217229) which can include activities like social engagement, meme competitions, airdrops, project-specific quests, etc.
-   * Please note that prior to launch, PancakeSwap or Project Teams should not communicate the news of the collaboration.
-4. [AMA](https://x.com/PancakeSwap/status/1881366701213974999) (usually 1 day before IFO)
-   * An interactive session with our community to clarify any questions and establish ✨vibes✨
-5. IFO Launch
-   * We will launch the IFO, and through our team of community admins, we will monitor, collate, and communicate any feedback raised by the community
-   * We will also publish some marketing materials on our [Twitter](https://app.gitbook.com/o/-MHRKTpKSfYQBsO7YgOo/s/fxRem6Hv7x6dAU7rlR7a/) and [Telegram](https://t.me/PancakeSwapAnn/6131)
-6. Post-Launch
-   * We will continue to stay in touch, and work together wherever possible!&#x20;
+1. प्रारंभिक संपर्क
+   * **हमारे फॉर्म के माध्यम से आवेदन करें** [**यहाँ**](https://docs.google.com/forms/d/e/1FAIpQLScmZu87SG41J_eGfzlbyJ_olFohlGOXfOJer04Dr1yCEJy2NA/viewform) **- (फॉर्म भरने का औसत समय: ≤14 मिनट)**
+   * हम आपकी लक्षित लॉन्च तिथि, TGE के लिए आपके लक्ष्यों के बारे में एक अच्छी बातचीत करते हैं, और आपकी टीम IFO के लिए प्रतिबद्ध होने का निर्णय लेती है — चलिए शुरू करते हैं!
+2. उचित परिश्रम (Due Diligence)
+   * फॉर्म में दी गई जानकारी का उपयोग करके, हम कुछ बिंदुओं को स्पष्ट करेंगे
+   * हमारे IFOs के लिए, Syrup Pools/Farms की तुलना में थोड़ी अधिक चर्चा होती है: हम टोकनोमिक्स, उत्पाद, Go-To-Market (GTM) Strategy आदि के संदर्भ में सर्वोत्तम प्रथाओं का अपना ज्ञान साझा करने में प्रसन्न हैं।
+   * टीम उचित परिश्रम पास करती है — बधाई!
+3. मार्केटिंग तैयारी
+   * हम कुछ डिज़ाइन सामग्री और प्रोजेक्ट जानकारी माँगेंगे, और एक सुंदर बैनर (नीचे Solv का उदाहरण) और एक [forum post](https://forum.pancakeswap.finance/t/solv-ifo-discussion-thread/993) बनाएंगे
+   * हम AMA के लिए प्रश्न भी एकत्र करना शुरू करेंगे
+   * हम आमतौर पर एक सप्ताह का [मार्केटिंग अभियान](https://x.com/PancakeSwap/status/1879169881742217229) चलाएंगे जिसमें सोशल एंगेजमेंट, meme प्रतियोगिताएँ, एयरड्रॉप, प्रोजेक्ट-विशिष्ट quests आदि गतिविधियाँ शामिल हो सकती हैं
+   * कृपया ध्यान दें कि लॉन्च से पहले, PancakeSwap या प्रोजेक्ट टीमों को सहयोग की खबर सार्वजनिक नहीं करनी चाहिए।
+4. [AMA](https://x.com/PancakeSwap/status/1881366701213974999) (आमतौर पर IFO से 1 दिन पहले)
+   * किसी भी प्रश्न को स्पष्ट करने और ✨माहौल✨ स्थापित करने के लिए हमारे समुदाय के साथ एक इंटरैक्टिव सत्र
+5. IFO लॉन्च
+   * हम IFO लॉन्च करेंगे, और अपनी community admins की टीम के माध्यम से, समुदाय द्वारा उठाई गई किसी भी प्रतिक्रिया की निगरानी, संग्रह और संचार करेंगे
+   * हम अपने [Twitter](https://app.gitbook.com/o/-MHRKTpKSfYQBsO7YgOo/s/fxRem6Hv7x6dAU7rlR7a/) और [Telegram](https://t.me/PancakeSwapAnn/6131) पर कुछ मार्केटिंग सामग्री भी प्रकाशित करेंगे
+6. लॉन्च के बाद
+   * हम संपर्क में रहेंगे और जहाँ भी संभव हो साथ मिलकर काम करेंगे!&#x20;
 
-At every step of the process, the team is here to help – we understand that for founders and their teams, the TGE is extremely critical, and we leave nothing to chance.
+प्रक्रिया के हर चरण पर, टीम मदद के लिए यहाँ है — हम समझते हैं कि संस्थापकों और उनकी टीमों के लिए TGE अत्यंत महत्वपूर्ण है, और हम कुछ भी संयोग पर नहीं छोड़ते।
 
-<figure><img src="../../../.gitbook/assets/image (1) (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29%20%284%29%20%281%29.png" alt=""><figcaption></figcaption></figure>

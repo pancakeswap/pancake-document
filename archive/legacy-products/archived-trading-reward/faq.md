@@ -5,85 +5,85 @@ description: Trading Reward FAQ
 # FAQ
 
 {% hint style="danger" %}
-\[Archived] Trading Reward – As of 23rd August 2024
+\[Archived] Trading Reward – 23 अगस्त 2024 से
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/faq-tradingreward.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/faq-tradingreward.png" alt=""><figcaption></figcaption></figure>
 
-## Generic
+## General
 
-#### Why my traded volume was not tracked?
+#### मेरा traded volume track क्यों नहीं हुआ?
 
-* Volume numbers take time to update and are subject to SubGraph delays. Please check back in a later time
-* Your trade must be routed through the **exact** trading pair being highlighted on the [Trading Reward page](https://pancakeswap.finance/trading-reward#rewards-breakdown), including the fee tier. Check out [this tutorial](https://docs.pancakeswap.finance/products/pancakeswap-exchange/fees-and-routes#check-the-fee-rate-and-fee-amount-that-is-currently-applied) for how to view your trading routes
-* Only V3 trading pairs are eligible for this program
-* Please use the same wallet address eligible for the trading reward program on both Ethereum and BNB Chain
-* If your trading volume within a pair is too small, you may not be eligible to claim any rewards
-* Using third-party trading aggregators may result in trades being routed through other liquidity providers and not being tracked
+* Volume numbers update होने में समय लगता है और SubGraph delays के अधीन हैं। कृपया बाद में फिर से check करें
+* आपका trade **exactly** [Trading Reward page](https://pancakeswap.finance/trading-reward#rewards-breakdown) पर highlighted trading pair से, fee tier सहित, route होना चाहिए। Trading routes कैसे view करें इसके लिए [यह tutorial](https://docs.pancakeswap.finance/products/pancakeswap-exchange/fees-and-routes#check-the-fee-rate-and-fee-amount-that-is-currently-applied) देखें
+* केवल V3 trading pairs इस program के लिए eligible हैं
+* Ethereum और BNB Chain दोनों पर trading reward program के लिए eligible same wallet address उपयोग करें
+* यदि किसी pair में आपका trading volume बहुत कम है, तो आप कोई rewards claim करने के लिए eligible नहीं हो सकते
+* Third-party trading aggregators का उपयोग करने से trades अन्य liquidity providers के माध्यम से route हो सकती हैं और track नहीं होंगी
 
-#### Why I traded a lot but only received a very small amount of rewards
+#### मैंने बहुत trade किया लेकिन बहुत कम rewards मिलीं, ऐसा क्यों?
 
-The amount of the trading reward is based on the trading fee paid in those trades.
+Trading reward की राशि उन trades में paid trading fee पर आधारित होती है।
 
-If your trades are routed through pairs with a low fee tier, for example, 0.01%, you are paying a very small fee for your trade. Therefore the number of rewards will become lower accordingly.
+यदि आपकी trades कम fee tier वाले pairs, उदाहरण के लिए 0.01%, के माध्यम से route होती हैं, तो आप अपने trade के लिए बहुत कम fee pay कर रहे हैं। इसलिए rewards की संख्या उसी के अनुरूप कम हो जाएगी।
 
 ## Top Traders Campaign
 
-#### Do I need to stay within the required ranking for the whole time to win the campaign?
+#### क्या campaign जीतने के लिए मुझे पूरे समय required ranking के भीतर रहना होगा?
 
-No, you only need to be ranked higher than the required ranking **at the end of the campaign**. But it is recommended to rank higher and maintain the rank. And make sure to check back often to ensure you are not falling out of the required ranking.
+नहीं, आपको केवल **campaign के अंत में** required ranking से higher ranked होना चाहिए। लेकिन यह recommended है कि higher rank रखें और rank maintain करें। और यह सुनिश्चित करने के लिए अक्सर check back करें कि आप required ranking से बाहर नहीं जा रहे।
 
-#### What number the ranking is based on?
+#### Ranking किस number पर based है?
 
-The ranking is based on the number of rewards each user accumulates by trading. The reward amount equals a fixed % of the trading they pay in the trades.
+Ranking उस rewards की संख्या पर based है जो प्रत्येक user trading करके accumulate करता है। Reward amount उनके trades में paid trading का एक fixed % के बराबर है।
 
 ## CAKE Stakers Campaign
 
-#### My address was eligible for the previous campaign. Why is it not eligible for the latest one?
+#### मेरा address previous campaign के लिए eligible था। यह latest campaign के लिए eligible क्यों नहीं है?
 
-Each campaign has its own eligibility requirements, like the minimum threshold for veCAKE amount at snapshot time.
+प्रत्येक campaign की अपनी eligibility requirements होती हैं, जैसे snapshot time पर minimum threshold veCAKE amount।
 
-Also, snapshot time is set to be each campaign's end time. With veCAKE decreasing with time, your veCAKE balance may drop below threshold for future campaigns.
+साथ ही, snapshot time प्रत्येक campaign की end time होती है। veCAKE समय के साथ घटते रहने के कारण, आपका veCAKE balance future campaigns के लिए threshold से नीचे गिर सकता है।
 
-You may need to increase your veCAKE. Simply follow the instructions on the page.
+आपको अपनी veCAKE बढ़ानी पड़ सकती है। बस page पर दिए गए instructions follow करें।
 
-#### Why is it telling me I have additional rewards that can not be claimed?
+#### यह क्यों बता रहा है कि मेरे पास additional rewards हैं जो claim नहीं किए जा सकते?
 
-![](<../../../.gitbook/assets/image (227).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28227%29.png)
 
-The amount of veCAKE at snapshot time will determine the maximum amount of rewards you can earn from the campaign. Check out the footnote from the “Max Reward Cap” section.
+Snapshot time पर veCAKE की राशि campaign से अर्जित की जा सकने वाली rewards की maximum राशि निर्धारित करेगी। "Max Reward Cap" section से footnote check करें।
 
-While a campaign is active, you can increase your veCAKE and raise this cap at any time.
+जबकि campaign active है, आप किसी भी समय अपनी veCAKE बढ़ा सकते हैं और यह cap raise कर सकते हैं।
 
-#### What is “veCAKE at snapshot time”
+#### "veCAKE at snapshot time" क्या है?
 
-veCAKE is gradually decreasing with time as the remaining lock time decreases. Therefore, similar to IFO iCAKE, a snapshot veCAKE balance - the veCAKE balance at a specific time, which is static, is better suited to be utilised as a qualification metric.
+veCAKE धीरे-धीरे समय के साथ घटती है क्योंकि remaining lock time कम होती है। इसलिए, IFO iCAKE के समान, एक snapshot veCAKE balance - एक specific time पर veCAKE balance, जो static है - qualification metric के रूप में उपयोग करने के लिए बेहतर suited है।
 
-In Trading Reward, snapshot time refers to the end of each campaign. Therefore, your “veCAKE balance at snapshot time” means “your veCAKE balance at the campaign end time”.
+Trading Reward में, snapshot time प्रत्येक campaign के अंत को refer करती है। इसलिए, आपका "veCAKE balance at snapshot time" का अर्थ है "campaign end time पर आपका veCAKE balance"।
 
-#### How is “veCAKE at snapshot time” related to the campaign
+#### "veCAKE at snapshot time" campaign से कैसे related है?
 
-* Your number of veCAKE balance at snapshot time is higher than the required threshold
-* The maximum amount of rewards you can earn is linked to y % of your veCAKE balance at snapshot time
+* Snapshot time पर आपका veCAKE balance number required threshold से अधिक है
+* आप जो maximum rewards अर्जित कर सकते हैं वह snapshot time पर आपके veCAKE balance के y % से linked है
 
-For example:
+उदाहरण के लिए:
 
-1. Alice locked 300 CAKE for 2 years (104 weeks) on day 1. On day 1, Alice will have a veCAKE balance of `300 * 104 * 7 * 24 * 60 * 60 / 126403199 ~= 149` .
-2. A trading reward campaign is launched on day 1, with a threshold veCAKE of 100, and a 1% reward cap. The campaign is ending in 30 days.
-3. After 30 days, Alice’s position will have a remaining lock time of roughly 99.71 weeks, therefore a veCAKE balance of `300 * 99.71 * 7 * 24 * 60 * 60 / 126403199 ~= 143`.
-4. Therefore, for this campaign, Alice will have `143` veCAKE at snapshot time.
-5. 143 is larger than 100 so Alice is eligible for the campaign, she may start trading eligible pairs to earn trading rewards.
-6. With 1% reward cap, the maximum amount of CAKE Alice may earn from this campaign is `143 * 1% = 1.43` CAKE.
-7. Alice may increase her veCAKE any time before the campaign ends, either by locking more CAKE, or extending her position.
+1. Alice ने day 1 पर 2 साल (104 सप्ताह) के लिए 300 CAKE lock किए। Day 1 पर, Alice का veCAKE balance `300 * 104 * 7 * 24 * 60 * 60 / 126403199 ~= 149` होगा।
+2. Day 1 पर एक trading reward campaign launch किया जाता है, जिसमें threshold veCAKE 100 और 1% reward cap है। Campaign 30 दिनों में समाप्त हो रहा है।
+3. 30 दिनों के बाद, Alice की position में लगभग 99.71 सप्ताहों का remaining lock time होगा, इसलिए veCAKE balance `300 * 99.71 * 7 * 24 * 60 * 60 / 126403199 ~= 143` होगा।
+4. इसलिए, इस campaign के लिए, Alice का snapshot time पर `143` veCAKE होगा।
+5. 143, 100 से अधिक है इसलिए Alice campaign के लिए eligible है, वह trading rewards अर्जित करने के लिए eligible pairs trade करना शुरू कर सकती है।
+6. 1% reward cap के साथ, Alice इस campaign से अर्जित कर सकने वाली maximum CAKE राशि `143 * 1% = 1.43` CAKE है।
+7. Alice campaign समाप्त होने से पहले किसी भी समय अपनी veCAKE बढ़ा सकती है, या तो अधिक CAKE lock करके, या अपनी position extend करके।
 
-#### How can I check my veCAKE at snapshot time during the campaign?
+#### Campaign के दौरान मैं snapshot time पर अपनी veCAKE कैसे check करूँ?
 
-You may check on the Trading Reward page.
+आप Trading Reward page पर check कर सकते हैं।
 
-The page will alert you when your veCAKE at snapshot time is lower than the threshold or your rewards are currently being capped by it.
+यदि snapshot time पर आपकी veCAKE threshold से कम है या आपकी rewards currently उससे capped हो रही हैं, तो page आपको alert करेगा।
 
-In those cases, you may click the “Increase veCAKE” button to increase your veCAKE without leaving the page.
+उन cases में, आप page छोड़े बिना अपनी veCAKE बढ़ाने के लिए "Increase veCAKE" button पर click कर सकते हैं।
 
-#### Can I increase my veCAKE during the campaign?
+#### क्या मैं campaign के दौरान अपनी veCAKE बढ़ा सकता/सकती हूँ?
 
-Yes, you may increase your veCAKE any time before the campaign ends. Your “veCAKE at snapshot time” will get updated accordingly.
+हाँ, आप campaign समाप्त होने से पहले किसी भी समय अपनी veCAKE बढ़ा सकते हैं। आपका "veCAKE at snapshot time" accordingly update होगा।

@@ -1,36 +1,36 @@
 ---
-description: Thank you for expressing your interest in contributing to PancakeSwap!
+description: PancakeSwap में योगदान देने में अपनी रुचि व्यक्त करने के लिए धन्यवाद!
 ---
 
 # Contributing
 
-![](../../../.gitbook/assets/developers-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/developers-header.png)
 
-PancakeSwap is an open-source project. If you want to contribute to the project, this section is here to guide you through your first steps with the PancakeSwap team 🥞
+PancakeSwap एक open-source project है। यदि आप project में योगदान करना चाहते हैं, तो यह section PancakeSwap team के साथ आपके पहले कदमों के माध्यम से आपका मार्गदर्शन करने के लिए यहाँ है 🥞
 
-Before starting any development, we highly encourage you to submit an issue on Github in order to discuss the problem, and the solution with the team.
+कोई भी development शुरू करने से पहले, हम आपको Github पर एक issue submit करने के लिए प्रोत्साहित करते हैं ताकि team के साथ समस्या और समाधान पर चर्चा की जा सके।
 
-## Setup your dev environment
+## अपना dev environment सेटअप करें
 
-Install [yarn](https://classic.yarnpkg.com/lang/en/docs/install/) If you haven't.
+यदि आपने नहीं किया है तो [yarn](https://classic.yarnpkg.com/lang/en/docs/install/) Install करें।
 
-1.  Fork and clone the [repository](https://github.com/pancakeswap/pancake-frontend)
+1.  [repository](https://github.com/pancakeswap/pancake-frontend) को Fork और clone करें
 
     ```bash
     $ git clone [fork_repo_url]
     ```
-2.  Add [upstream](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/configuring-a-remote-for-a-fork) remote. E.g.
+2.  [upstream](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/configuring-a-remote-for-a-fork) remote जोड़ें। उदाहरण के लिए
 
     ```bash
     $ git remote add upstream git@github.com:pancakeswap/pancake-frontend.git
     ```
-3.  Make sure you have the latest version of the default branch ( `develop` )
+3.  सुनिश्चित करें कि आपके पास default branch (`develop`) का नवीनतम version है
 
     ```bash
     $ git checkout develop
     $ git pull upstream develop
     ```
-4.  Create your own branch and install dependencies
+4.  अपनी own branch बनाएं और dependencies install करें
 
     ```bash
     $ git checkout -b branch-name
@@ -40,15 +40,15 @@ Install [yarn](https://classic.yarnpkg.com/lang/en/docs/install/) If you haven't
 
 ## Coding rules
 
-We try to maintain as much consistency as we can between each of our repository. Your pull request has more chances to be accepted if you follow the following rules, and write high quality code. **Let's get started** 💪
+हम अपने प्रत्येक repository के बीच यथासंभव अधिक consistency बनाए रखने का प्रयास करते हैं। यदि आप निम्नलिखित rules का पालन करते हैं और उच्च गुणवत्ता का code लिखते हैं तो आपके pull request को accept होने की अधिक संभावना है। **आइए शुरू करते हैं** 💪
 
-### Use the UIKit
+### UIKit उपयोग करें
 
 {% hint style="warning" %}
-Check the [UI Kit](https://github.com/pancakeswap/pancake-frontend/tree/master/packages/uikit) before you start doing anything. A lot of components are already created, and we don't want that you waste your time reinventing the wheel 😉
+कुछ भी शुरू करने से पहले [UI Kit](https://github.com/pancakeswap/pancake-frontend/tree/master/packages/uikit) देखें। बहुत सारे components पहले से बने हैं, और हम नहीं चाहते कि आप पहिया फिर से बनाने में अपना समय बर्बाद करें 😉
 {% endhint %}
 
-If a variant of a component needs to be created, use the corresponding component in the UI Kit as a base. For example:
+यदि किसी component का एक variant बनाना है, तो UI Kit में संबंधित component को base के रूप में उपयोग करें। उदाहरण के लिए:
 
 ```javascript
 import styled from 'styled-components'
@@ -59,48 +59,48 @@ const NewButtonVariant = styled(Button)`
 `
 ```
 
-### Use the tools!
+### Tools का उपयोग करें!
 
-Most of our repos use [Typescript](https://www.typescriptlang.org/docs), [ESLint](https://eslint.org/docs/user-guide/getting-started), and [Prettier](https://prettier.io). Make sure you're familiar with Typescript’s best practices and enable an ESLint and Prettier plugin for your IDE.
+हमारे अधिकांश repos [Typescript](https://www.typescriptlang.org/docs), [ESLint](https://eslint.org/docs/user-guide/getting-started), और [Prettier](https://prettier.io) उपयोग करते हैं। सुनिश्चित करें कि आप Typescript की best practices से परिचित हैं और अपने IDE के लिए ESLint और Prettier plugin enable करें।
 
 {% hint style="warning" %}
-Make sure your code is formatted with Prettier and is free from any ESLint error before you submit a pull request.
+pull request submit करने से पहले सुनिश्चित करें कि आपका code Prettier के साथ formatted है और किसी भी ESLint error से मुक्त है।
 {% endhint %}
 
-### Some good practices
+### कुछ अच्छी practices
 
-* Keep components as small and ["dumb"](https://en.wikipedia.org/wiki/Pure_function) as possible.
-* Use [Composition over Inheritance](https://reactjs.org/docs/composition-vs-inheritance.html).
-* Keep in mind that your code will be read and maintained by several other developers. Make it as clear and easy to update as possible._​_
+* Components को यथासंभव छोटा और ["dumb"](https://en.wikipedia.org/wiki/Pure_function) रखें।
+* [Composition over Inheritance](https://reactjs.org/docs/composition-vs-inheritance.html) का उपयोग करें।
+* ध्यान रखें कि आपका code कई अन्य developers द्वारा पढ़ा और maintain किया जाएगा। इसे यथासंभव clear और update करने में आसान बनाएं।
 
-## Creating your pull request
+## अपना pull request बनाएं
 
-Your code is ready to be submitted for review, congratulations🥳
+आपका code review के लिए submit करने के लिए तैयार है, बधाई 🥳
 
-* All pull requests **must** have a description of what the PR is trying to accomplish.
-* Keep pull requests **as small as possible**. Larger pull requests should be broken up into smaller chunks with a dedicated base branch. Please tag the PR's that are merging into your base branch with the `epic` tag.
-* If possible self-review your PR and **add comments** where additional clarification is needed.
+* सभी pull requests में **PR क्या accomplish करने की कोशिश कर रहा है** इसका description होना **चाहिए**।
+* Pull requests को **यथासंभव छोटा** रखें। बड़े pull requests को dedicated base branch के साथ छोटे chunks में तोड़ा जाना चाहिए। कृपया उन PRs को `epic` tag से tag करें जो आपकी base branch में merge हो रहे हैं।
+* यदि संभव हो तो अपना PR self-review करें और **comments जोड़ें** जहाँ अतिरिक्त स्पष्टीकरण आवश्यक हो।
 
 {% hint style="info" %}
-Create a [draft PR](https://github.blog/2019-02-14-introducing-draft-pull-requests/) as soon as possible so we can view your ongoing progress.
+जितनी जल्दी हो सके एक [draft PR](https://github.blog/2019-02-14-introducing-draft-pull-requests/) बनाएं ताकि हम आपकी ongoing progress देख सकें।
 {% endhint %}
 
 ### Pull Request Title
 
-Our Pull Request Title follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) using [commitlint](https://commitlint.js.org/#/).‌
+हमारे Pull Request Title [commitlint](https://commitlint.js.org/#/) का उपयोग करके [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) का पालन करते हैं।
 
-_More at_ [_Angular's guidelines_](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#type)
+_अधिक जानकारी [Angular's guidelines](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#type) पर_
 
-| Type         | Description                                                                                                 |
-| ------------ | ----------------------------------------------------------------------------------------------------------- |
-| **build**    | Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)         |
-| **ci**       | Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs) |
-| **docs**     | Documentation only changes                                                                                  |
-| **feat**     | A new feature                                                                                               |
-| **fix**      | A bug fix                                                                                                   |
-| **perf**     | A code change that improves performance                                                                     |
-| **refactor** | A code change that neither fixes a bug nor adds a feature                                                   |
-| **style**    | Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)      |
-| **test**     | Adding missing tests or correcting existing tests                                                           |
+| Type         | विवरण                                                                                                  |
+| ------------ | ----------------------------------------------------------------------------------------------------- |
+| **build**    | build system या external dependencies को प्रभावित करने वाले परिवर्तन (उदाहरण scopes: gulp, broccoli, npm) |
+| **ci**       | हमारी CI configuration files और scripts में परिवर्तन (उदाहरण scopes: Travis, Circle, BrowserStack, SauceLabs) |
+| **docs**     | केवल Documentation में परिवर्तन                                                                        |
+| **feat**     | एक नई सुविधा                                                                                          |
+| **fix**      | एक bug fix                                                                                            |
+| **perf**     | एक code परिवर्तन जो performance में सुधार करता है                                                      |
+| **refactor** | एक code परिवर्तन जो न तो bug fix करता है और न ही feature जोड़ता है                                    |
+| **style**    | परिवर्तन जो code के अर्थ को प्रभावित नहीं करते (white-space, formatting, missing semi-colons, आदि)    |
+| **test**     | missing tests जोड़ना या existing tests सही करना                                                       |
 
-**Thanks for helping us making PancakeSwap even more awesome** ❤
+**PancakeSwap को और भी अधिक awesome बनाने में मदद करने के लिए धन्यवाद** ❤

@@ -3,72 +3,72 @@
 ##
 
 {% hint style="danger" %}
-This product has been deprecated. Check out the new veCAKE for CAKE staking.
+यह product deprecated हो गया है। CAKE staking के लिए नया veCAKE देखें।
 {% endhint %}
 
-## Stake CAKE, earn CAKE!
+## CAKE Stake करें, CAKE अर्जित करें!
 
-PancakeSwap now offers one CAKE Syrup Pool with two staking options: flexible staking or fixed-term staking. Note that the Auto CAKE, IFO CAKE, and Manual CAKE pools will be retired upon the launch of the new CAKE Syrup Pool with flexible and fixed-term staking. Keep reading on to learn more!
+PancakeSwap अब दो staking options के साथ एक CAKE Syrup Pool offer करता है: flexible staking या fixed-term staking। ध्यान दें कि Auto CAKE, IFO CAKE, और Manual CAKE pools को flexible और fixed-term staking के साथ नए CAKE Syrup Pool के launch पर retire किया जाएगा। अधिक जानने के लिए पढ़ते रहें!
 
-![\*Note that actual values will vary](<../../../.gitbook/assets/Stake - before enable.png>)
+![\*ध्यान दें कि actual values अलग-अलग होंगी](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Stake%20-%20before%20enable.png)
 
-## What’s the difference between “Flexible” and “Fixed-Term” staking?
+## "Flexible" और "Fixed-Term" staking में क्या अंतर है?
 
-With both, you can simply stake your CAKE tokens to earn more CAKE tokens with no deposit fees. Flexible staking allows users to stake CAKE and earn rewards with the ability to unstake whenever they please. Fixed-term staking allows users to maximise their yield and earn even more CAKE by locking their staked CAKE for a period of time they choose, earning a linearly boosted yield compared to flexible staking.
+दोनों के साथ, आप simply अपने CAKE tokens को stake कर सकते हैं और बिना किसी deposit fees के अधिक CAKE tokens अर्जित कर सकते हैं। Flexible staking उपयोगकर्ताओं को CAKE stake करने और जब चाहें unstake करने की क्षमता के साथ rewards अर्जित करने देती है। Fixed-term staking उपयोगकर्ताओं को अपने staked CAKE को एक period के लिए lock करके अपनी yield को maximize करने और और भी अधिक CAKE अर्जित करने देती है, जो flexible staking की तुलना में linearly boosted yield प्रदान करती है।
 
-Flexible staking and fixed-term staking are both part of the same pool to allow users easy migration between the two staking options. However, when you do fixed-term staking, there is an option to perform flexible CAKE staking on the side.
+Flexible staking और fixed-term staking दोनों एक ही pool के हिस्से हैं ताकि उपयोगकर्ता दो staking options के बीच आसानी से migrate कर सकें। हालाँकि, जब आप fixed-term staking करते हैं, तो side पर flexible CAKE staking perform करने का option होता है।
 
 ### Flexible Staking
 
-Stake your CAKE and forget about it! CAKE rewards will be automatically distributed and included in your staking balance, minus a small fee (same as the old Auto CAKE Syrup Pool).
+अपना CAKE stake करें और इसके बारे में भूल जाएं! CAKE rewards automatically distribute और आपके staking balance में include होंगी, एक छोटी fee के साथ (पुराने Auto CAKE Syrup Pool के समान)।
 
-**If you have CAKE staked in flexible staking**
+**यदि आपके पास flexible staking में CAKE staked है**
 
-* ✅ Add more CAKE to flexible staking
-* ✅ Harvest rewards any time
-* ✅ Withdraw any time (fees apply for the first 72 hours, see below)
-* ✅ Convert all staked CAKE in flexible to fixed-term staking
-* ❌ Add CAKE to fixed-term staking if you have any CAKE in flexible staking
-* ❌ Convert part of the staked CAKE in flexible to fixed-term staking
+* ✅ Flexible staking में अधिक CAKE add करें
+* ✅ कभी भी rewards harvest करें
+* ✅ कभी भी withdraw करें (पहले 72 घंटों के लिए fees applicable, नीचे देखें)
+* ✅ Flexible में सभी staked CAKE को fixed-term staking में convert करें
+* ❌ Flexible staking में कोई CAKE होने पर fixed-term staking में CAKE add करें
+* ❌ Flexible में staked CAKE का कुछ हिस्सा fixed-term staking में convert करें
 
 **Unstaking fee**
 
-* **0.1%  if you unstake (withdraw) within 72 hours.**
-* Only applies within 3 days of manually staking.
-* After 3 days, you can unstake with **no fee**.
-* The 3-day timer resets every time you manually stake more CAKE in the pool.
-* This fee only applies to manual unstaking: it does not apply to automatic compounding.
+* **0.1% यदि आप 72 घंटों के भीतर unstake (withdraw) करते हैं।**
+* केवल manually staking के 3 दिनों के भीतर applicable।
+* 3 दिनों के बाद, आप **बिना किसी fee के** unstake कर सकते हैं।
+* 3-दिन का timer हर बार जब आप pool में manually अधिक CAKE stake करते हैं तो reset होता है।
+* यह fee केवल manual unstaking पर applicable है: यह automatic compounding पर apply नहीं होती।
 
 **Performance fee**
 
-* **2%, subtracted automatically from each yield harvest**.
-* For example, if the harvest were 1 CAKE, then 0.02 CAKE would be subtracted as the performance fee.
+* **2%, प्रत्येक yield harvest से automatically घटाया जाता है।**
+* उदाहरण के लिए, यदि harvest 1 CAKE था, तो performance fee के रूप में 0.02 CAKE घटाया जाएगा।
 
-The CAKE collected via the unstaking fee and performance fee is **burned every week** as part of the regular CAKE token burns.
+Unstaking fee और performance fee के माध्यम से collected CAKE **हर हफ्ते** regular CAKE token burns के हिस्से के रूप में **burn** किया जाता है।
 
-This is a good thing for CAKE holders because it reduces the overall amount of CAKE tokens in existence, which helps reduce inflation.
+यह CAKE holders के लिए अच्छा है क्योंकि यह existing CAKE tokens की overall मात्रा को कम करता है, जो inflation कम करने में मदद करता है।
 
 ### Fixed-Term Staking
 
-Stake your CAKE for a fixed amount of time to maximise yields and receive additional benefits! CAKE rewards will be locked along with the staked CAKE until the staking duration ends.
+Yield maximize करने और अतिरिक्त benefits प्राप्त करने के लिए एक fixed समय के लिए अपना CAKE stake करें! CAKE rewards staking के साथ lock होंगी जब तक staking duration समाप्त नहीं हो जाती।
 
-* No performance fees
-* The longer you lock, the higher the boost applied to the yield! Always offering a higher yield compared to flexible staking!
-* CAKE rewards will unlock, along with your staked CAKE, when your lock duration expires
-* Once staked in fixed-term staking, you cannot withdraw until the end of your lock duration.
-* 🎁 Enjoy benefits such as:
+* कोई performance fees नहीं
+* आप जितने लंबे समय तक lock करेंगे, yield पर उतना ही अधिक boost apply होगा! हमेशा flexible staking की तुलना में अधिक yield offer करता है!
+* CAKE rewards आपके staked CAKE के साथ unlock होंगी जब आपकी lock duration expire होगी
+* Fixed-term staking में stake होने पर, आप अपनी lock duration के अंत तक withdraw नहीं कर सकते।
+* 🎁 इस तरह के benefits का आनंद लें:
   * 🗳️ Boosted voting power: [vCAKE](../../../welcome-to-pancakeswap/vecake-sunset/archive-vecake/vecake.md)
   * 🚜 Boosted farm yields: [bCAKE](../../../welcome-to-pancakeswap/vecake-sunset/bcake/)
   * 🛍️ IFO public sale entry: [iCAKE](../../../welcome-to-pancakeswap/vecake-sunset/icake.md)
-  * ✨ Priority access or special events
-  * and so much more in our ongoing multichain expansion!
+  * ✨ Priority access या special events
+  * और हमारे ongoing multichain expansion में बहुत कुछ!
 
-**If you have CAKE locked in fixed-term staking**
+**यदि आपके पास fixed-term staking में CAKE locked है**
 
-* ✅ Add more CAKE to lock
-* ✅ Extend the lock period
-* ✅ Perform flexible staking on the side
-* ❌ Harvest rewards
-* ❌ Withdraw before the lock ends
+* ✅ Lock करने के लिए अधिक CAKE add करें
+* ✅ Lock period extend करें
+* ✅ Side पर flexible staking perform करें
+* ❌ Rewards harvest करें
+* ❌ Lock समाप्त होने से पहले Withdraw करें
 
 _\*page updated on: 2022-12-05_

@@ -16,10 +16,10 @@ description: >-
 
 5\. The **Enable** button should now be replaced with **Flexible** and Locked. Click the button to bring up the staking menu.
 
-![Note that actual values will vary](<../../../.gitbook/assets/Stake - before enable (2).png>)
+![Note that actual values will vary](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Stake%20-%20before%20enable%20%282%29.png)
 
 6\. For Flexible Staking simply press **Flexible**, which will present a new window, enter the amount of CAKE you wish to stake, click **Confirm** and confirm the transaction in your wallet.
 
 Want to convert your flexible staking to fixed-term staking to earn more CAKE? Simply click **Convert to Lock** and choose how long you want to lock your CAKE.
 
-![Note that actual values will vary](../../../.gitbook/assets/cake-pool-flex-convert.png)
+![Note that actual values will vary](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/cake-pool-flex-convert.png)

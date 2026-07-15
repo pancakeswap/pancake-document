@@ -1,16 +1,16 @@
 # FAQ
 
 {% hint style="danger" %}
-&#x20;\[Archived] Simple Staking – As of 10th March 2025
+&#x20;\[Archived] Simple Staking – 10 मार्च 2025 से
 {% endhint %}
 
-### What happens if I do not withdraw after lock period ends?
+### Lock period समाप्त होने के बाद यदि मैं withdraw नहीं करता/करती तो क्या होगा?
 
-Once the lock period ends, users will be able to withdraw their staking rewards and principle amount. If a user does not withdraw, the funds will still receive flexible daily rewards, which have a lower payout than locked staking rewards.&#x20;
+Lock period समाप्त होने पर, उपयोगकर्ता अपनी staking rewards और principal amount withdraw करने में सक्षम होंगे। यदि कोई उपयोगकर्ता withdraw नहीं करता/करती, तो funds अभी भी flexible daily rewards प्राप्त करते रहेंगे, जिनका payout locked staking rewards से कम होता है।&#x20;
 
-### What are the fees for early withdrawal?
+### Early withdrawal के लिए fees क्या हैं?
 
-Should you choose to withdraw your funds early, schedules and penalties are as follows:
+यदि आप अपने funds early withdraw करना चुनते हैं, तो schedules और penalties इस प्रकार हैं:
 
 | Withdrawl Fees/Pool   | 30 Day        | 60 Day        | 90 Day        |
 | --------------------- | ------------- | ------------- | ------------- |
@@ -19,32 +19,32 @@ Should you choose to withdraw your funds early, schedules and penalties are as f
 | 2% of deposit amount  | 21-30 Days    | 41-60 Days    | 61-90 Days    |
 | No Fee                | 30 Day Unlock | 60 Day Unlock | 90 Day Unlock |
 
-For more clarity on how the days are counted, refer to the following example of a 30D pool starting Oct 1 at 11:00hrs:
+दिन कैसे गिने जाते हैं, इसकी अधिक स्पष्टता के लिए, 1 अक्टूबर को 11:00 बजे शुरू होने वाले 30D pool के निम्नलिखित उदाहरण को देखें:
 
-From Oct 1 11:00hrs to Oct 11 11:59hrs -> No Withdrawal
+1 अक्टूबर 11:00 बजे से 11 अक्टूबर 11:59 बजे तक -> No Withdrawal
 
-From  Oct 11 12:00hrs to Oct 21 12:00hrs  -> 15% Fee
+11 अक्टूबर 12:00 बजे से 21 अक्टूबर 12:00 बजे तक -> 15% Fee
 
-From  Oct 21 12:00hrs to Oct 31 11:59hrs  -> 2% Fee
+21 अक्टूबर 12:00 बजे से 31 अक्टूबर 11:59 बजे तक -> 2% Fee
 
-After Oct 31 12:00hrs -> No Fee
+31 अक्टूबर 12:00 बजे के बाद -> No Fee
 
-### How are daily rewards accrued by PancakeSwap?
+### PancakeSwap द्वारा daily rewards कैसे accrued होती हैं?
 
-PancakeSwap is offering Simple Staking in partnership with Binance Earn. By using PancakeSwap Simple Staking, your funds will be managed by Binance Earn for the locked period.
+PancakeSwap, Binance Earn के साथ साझेदारी में Simple Staking offer कर रहा है। PancakeSwap Simple Staking का उपयोग करके, आपके funds locked period के लिए Binance Earn द्वारा manage किए जाएंगे।
 
-Assets may be used for on-chain staking in a tightly controlled manner. Binance may stake through official staking pools, or operate validators and nodes to participate in Proof-of-Stake (POS) network staking. The staking pool selection is determined via stringent risk assessment protocols. Validators and nodes operated by Binance are set up with security as the utmost priority.
+Assets को on-chain staking में tightly controlled manner में उपयोग किया जा सकता है। Binance official staking pools के माध्यम से stake कर सकता है, या Proof-of-Stake (POS) network staking में participate करने के लिए validators और nodes operate कर सकता है। Staking pool selection stringent risk assessment protocols के माध्यम से निर्धारित किया जाता है। Binance द्वारा operate किए जाने वाले validators और nodes security को सर्वोच्च priority के साथ setup किए जाते हैं।
 
-Binance may also run promotional campaigns from time to time that are sponsored by partnered projects in order to attract more users.
+Binance समय-समय पर अधिक उपयोगकर्ताओं को आकर्षित करने के लिए partner projects द्वारा sponsored promotional campaigns भी चला सकता है।
 
-### How do PancakeSwap and CAKE Holders benefit from this?
+### PancakeSwap और CAKE Holders को इससे कैसे लाभ होता है?
 
-PancakeSwap takes a small % of APR rewards for offering the service to our users. This will be converted into CAKE and burnt. For CAKE holders, fixed-term CAKE stakers will receive boosted APRs if they have locked at least 100 CAKE.
+PancakeSwap अपने उपयोगकर्ताओं को service offer करने के लिए APR rewards का एक छोटा % लेता है। इसे CAKE में convert करके burn किया जाएगा। CAKE holders के लिए, fixed-term CAKE stakers को boosted APRs प्राप्त होंगे यदि उन्होंने कम से कम 100 CAKE lock किए हों।
 
-### What happens in the withdrawal process when "Withdrawal approval is pending"?
+### "Withdrawal approval is pending" होने पर withdrawal process में क्या होता है?
 
-Once withdrawal/unstake is requested, users will receive the funds in their wallet along with the principal amount. If you receive a "Withdrawal approval is pending" alert, it represents a slight delay during the withdrawal due to an administrative process. Users will have to request unstake in a couple of hours and will receive the funds on the same day.
+Withdrawal/unstake request होने पर, उपयोगकर्ताओं को उनके वॉलेट में principal amount के साथ funds प्राप्त होंगे। यदि आपको "Withdrawal approval is pending" alert मिलता है, तो यह administrative process के कारण withdrawal में थोड़ी delay को represent करता है। उपयोगकर्ताओं को कुछ घंटों में unstake request करनी होगी और उसी दिन funds प्राप्त होंगे।
 
-### What's next for Simple Staking?
+### Simple Staking के लिए अगला क्या है?
 
-The next plan for Simple Staking is to offer more tokens and have the product go multichain in Q4.
+Simple Staking के लिए अगली योजना Q4 में अधिक tokens offer करना और product को multichain बनाना है।

@@ -4,57 +4,56 @@ description: Allora X PancakeSwap Prediction
 
 # AI Prediction
 
-<figure><img src="../../.gitbook/assets/ARB.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/ARB.png" alt=""><figcaption></figcaption></figure>
 
-### What is PancakeSwap AI prediction?
+### PancakeSwap AI prediction क्या है?
 
-PancakeSwap will use the Allora Network’s AI price predictions to create a new AI-powered prediction market. In PancakeSwap’s current prediction market, users predict whether the price of ETH will rise or fall within a 20-minute window. If a user's prediction is correct, they win; if it's incorrect, they lose.
+PancakeSwap एक नया AI-powered prediction market बनाने के लिए Allora Network के AI price predictions का उपयोग करेगा। PancakeSwap के current prediction market में, उपयोगकर्ता predict करते हैं कि ETH की price 20-मिनट की window में बढ़ेगी या गिरेगी। यदि उपयोगकर्ता की prediction सही है, तो वे जीतते हैं; यदि गलत है, तो वे हारते हैं।
 
-In this new addition to the prediction market using Allora’s AI price predictions, users will predict the future price of ETH with or against AI. This next phase introduces a novel AI-powered dynamic to the platform’s popular prediction market. By integrating Allora’s ML-powered collective intelligence network, PancakeSwap can offer an engaging user experience at the forefront of DeFi's AI development.
+Allora के AI price predictions का उपयोग करके prediction market में इस नए addition में, उपयोगकर्ता AI के साथ या उसके विरुद्ध ETH की भविष्य की price predict करेंगे। यह अगला phase platform के लोकप्रिय prediction market में एक novel AI-powered dynamic पेश करता है। Allora के ML-powered collective intelligence network को integrate करके, PancakeSwap DeFi के AI development के अग्रभाग में एक engaging user experience offer कर सकता है।
 
-### Rules for AI-powered Prediction:
+### AI-powered Prediction के नियम:
 
-AI-prediction works similar to regular prediction on BNB change, with little twists and differences:
+AI-prediction BNB change पर regular prediction के समान काम करती है, कुछ बदलावों और अंतरों के साथ:
 
-1. Rounds are 20 minutes - 10 minutes for users to place bets, 10 minutes for the round to settle against market price.
-2. Users can bid during the first 10 minutes with the options "Follow" or "Against", referring to betting with or against AI. At this time, AI has not locked a position or price.
-3. Once round bets are closed, the AI will generate a price prediction that is higher or lower than the current locked price. AI will be positioned "higher" or "lower" than the current price.
-4. After 10 minutes, the round is resolved and the AI either wins or loses. Users are paid out accordingly.
+1. Rounds 20 मिनट के हैं - उपयोगकर्ताओं के bets लगाने के लिए 10 मिनट, market price के विरुद्ध round settle होने के लिए 10 मिनट।
+2. उपयोगकर्ता पहले 10 मिनट के दौरान "Follow" या "Against" के options के साथ bid कर सकते हैं, AI के साथ या उसके विरुद्ध betting का संदर्भ देते हुए। इस समय, AI ने कोई position या price lock नहीं की है।
+3. एक बार round bets बंद हो जाती हैं, AI एक price prediction generate करेगी जो current locked price से अधिक या कम है। AI "higher" या "lower" positioned होगी current price से।
+4. 10 मिनट के बाद, round resolve होता है और AI या तो जीतती है या हारती है। उपयोगकर्ताओं को accordingly pay out किया जाता है।
 
-### **How to use AI-powered Prediction :**
+### **AI-powered Prediction का उपयोग कैसे करें:**
 
-1\. Go to [PancakeSwap Prediction](https://pancakeswap.finance/prediction?token=ETH\&chain=arb) on Arbitrum
+1\. Arbitrum पर [PancakeSwap Prediction](https://pancakeswap.finance/prediction?token=ETH\&chain=arb) पर जाएं
 
-2\. Select the prediction round you want to participate in and make your prediction based on either the AI's forecast or going against it.
+2\. वह prediction round चुनें जिसमें आप participate करना चाहते हैं और AI के forecast के आधार पर या उसके विरुद्ध जाकर अपनी prediction करें।
 
-* On the interface, you can align with the AI's forecast by selecting "Follow" or go "Against" the AI by not following it. Please note that you will only see whether the AI predicts the price to rise or fall after placing your bet. Both "Follow" and "Against" bets will be placed by users, meaning the AI will not predict against any user. Instead, users choose to either trust the AI or go against it based on their judgment.
-* Example: Let's say the current ETH price is $3,500. If the AI forecast predicts the ETH price will rise/fall in the next 10 minutes, and you want to follow the AI's prediction, select "Follow" to align with the AI's prediction. On the other hand, if you think the AI may be wrong, click "Against" to go against the AI's prediction. Please note that you can only see whether AI is betting up or down after you place the bet!
+* Interface पर, आप "Follow" select करके AI के forecast के साथ align कर सकते हैं या "Against" पर click करके AI के खिलाफ जा सकते हैं। कृपया ध्यान दें कि आप bet लगाने के बाद ही देख पाएंगे कि AI price बढ़ने या गिरने की predict करती है या नहीं। "Follow" और "Against" दोनों bets उपयोगकर्ताओं द्वारा लगाई जाएंगी, जिसका अर्थ है कि AI किसी भी उपयोगकर्ता के विरुद्ध predict नहीं करेगी। इसके बजाय, उपयोगकर्ता अपने judgment के आधार पर AI पर trust करने या उसके खिलाफ जाने का choice करते हैं।
+* उदाहरण: मान लीजिए current ETH price $3,500 है। यदि AI forecast predict करती है कि अगले 10 मिनट में ETH price बढ़ेगी/गिरेगी, और आप AI की prediction follow करना चाहते हैं, तो AI की prediction के साथ align करने के लिए "Follow" select करें। दूसरी ओर, यदि आपको लगता है कि AI गलत हो सकती है, तो AI की prediction के खिलाफ जाने के लिए "Against" पर click करें। कृपया ध्यान दें कि bet लगाने के बाद ही आप देख सकते हैं कि AI ऊपर या नीचे bet कर रही है!
 
-Disclaimer and Risk Warning: The AI prediction is powered by Allora, and after initial testing, the accuracy is 65%. This means the AI can predict correctly or incorrectly, users should exercise caution and make informed decisions when choosing to follow or go against the AI's predictions.. This content is for general information and educational purposes only, without representation or warranty. It should not be construed as financial, legal, or other professional advice, nor intended to recommend purchasing any specific product or service. You should seek advice from appropriate professional advisors.
+Disclaimer और Risk Warning: AI prediction Allora द्वारा powered है, और initial testing के बाद, accuracy 65% है। इसका मतलब है कि AI सही या गलत predict कर सकती है, उपयोगकर्ताओं को AI की predictions follow करने या उनके खिलाफ जाने का choice करते समय सावधानी बरतनी चाहिए और informed decisions लेने चाहिए। यह content केवल सामान्य जानकारी और educational purposes के लिए है, बिना किसी representation या warranty के। इसे financial, legal, या अन्य professional advice के रूप में नहीं लिया जाना चाहिए, और न ही किसी specific product या service खरीदने की recommendation है। आपको appropriate professional advisors से advice लेनी चाहिए।
 
-<figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXex7mNP3NhmuFzjNB-TFlQUaEs1o7y1G0RcgFD8xzg5LJpE2GYYrtJkckmakQH-RISlxyccBMJ_Nu4yOr4l9dActfzZXtxZEp_Ox5Cfk45OWNJJVUS_81aVbqQXYYSKvyThG42LKlNghE0igMQCmidmVsoV?key=LPLyajok5JakzjdWZLiP9A" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXex7mNP3NhmuFzjNB-TFlQUaEs1o7y1G0RcgFD8xzg5LJpE2GYYrtJkckmakQH-RISlxyccBMJ_Nu4yOr4l9dActfzZXtxZEp_Ox5OWNJJVUS_81aVbqQXYYSKvyThG42LKlNghE0igMQCmidmVsoV?key=LPLyajok5JakzjdWZLiP9A" alt=""><figcaption></figcaption></figure>
 
-3\. Place your prediction by entering the amount you wish to predict (minimum is 0.00001 ETH), confirming your transaction, and signing it in your wallet.
+3\. अपनी prediction की amount दर्ज करके (minimum 0.00001 ETH है), ट्रांजेक्शन confirm करके, और wallet में sign करके अपनी prediction लगाएं।
 
-4\. Wait for the Round to Close: Watch the result after 10 minutes.
+4\. Round बंद होने का इंतज़ार करें: 10 मिनट बाद result देखें।
 
-* For example, if the current ETH price was $3,500 and you followed the AI prediction that it would rise in the next 10 minutes, and the price increases to $3,505, your prediction was correct, and you win a share of the round's prize pool. Conversely, if the price falls to $3,498, you would lose for making the wrong prediction.
+* उदाहरण के लिए, यदि current ETH price $3,500 थी और आपने AI prediction follow की कि यह अगले 10 मिनट में बढ़ेगी, और price $3,505 तक बढ़ती है, तो आपकी prediction सही थी, और आप round के prize pool का एक हिस्सा जीतते हैं। इसके विपरीत, यदि price $3,498 तक गिरती है, तो आप गलत prediction के लिए हार जाएंगे।
 
-<figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXfDrnGpRw1KEptobDUwzHx-jEnRR3a14vufC_Ifjg2KRBtf2Kcc-83F9cqWXei-m_QR63eEJp7TMeitPKaqHrBu47yqDmfSUP0X5k06PWgw4mMXyFDks8ia-Mv5jFDkLwUcP0WxRCHB25AiQXuHnyQA2e7N?key=LPLyajok5JakzjdWZLiP9A" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXfDrnGpRw1KEptobDUwzHx-jEnRR3a14vufC_Ifjg2KRBtf2Kcc-83F9cqWXei-m_QR63eEJp7TMeitPKaqHrBu47yqDmfSUP0X5k06PWgw4mMXyFDkLwUcP0WxRCHB25AiQXuHnyQA2e7N?key=LPLyajok5JakzjdWZLiP9A" alt=""><figcaption></figcaption></figure>
 
-5\. Collect Your Winnings: If your prediction is correct once the round ends, collect your winnings! You can also view the history of previous rounds in the "history section".
+5\. अपनी Winnings Collect करें: यदि round समाप्त होने पर आपकी prediction सही है, तो अपनी winnings collect करें! आप "history section" में पिछले rounds का इतिहास भी देख सकते हैं।
 
-Please note that the payout multiplier for each round will vary based on the bets placed by users on each side.
+कृपया ध्यान दें कि प्रत्येक round के लिए payout multiplier प्रत्येक side पर उपयोगकर्ताओं द्वारा लगाई गई bets के आधार पर vary करेगा।
 
 Supported Tokens: ETH
 
-Fees: 3% of each round's total pot to the treasury, with a portion of the fees used for buyback and burn. The remaining fees will be used in the treasury for future marketing and development.
+Fees: प्रत्येक round के total pot का 3% treasury को, जिसमें से एक हिस्सा fees का buyback और burn के लिए उपयोग किया जाता है। शेष fees treasury में future marketing और development के लिए उपयोग की जाएंगी।
 
-### &#x20;How do I check the AI's performance?
+### AI के performance की जांच कैसे करूँ?
 
-You can refer to the Round History on the history tab to check the previous round price and AI decision. All rounds are settled on-chain; refer to the [prediction contract](https://arbiscan.io/address/0x1cdc19B13729f16C5284a0ACE825F83fC9d799f4) for more information.
+आप previous round price और AI decision जांचने के लिए history tab पर Round History देख सकते हैं। सभी rounds on-chain settle होते हैं; अधिक जानकारी के लिए [prediction contract](https://arbiscan.io/address/0x1cdc19B13729f16C5284a0ACE825F83fC9d799f4) देखें।
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-06-26 at 8.02.17 PM.png" alt=""><figcaption><p>Refer to history tab on the right</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-06-26%20at%208.02.17%20PM.png" alt=""><figcaption><p>दाईं ओर history tab देखें</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-06-26 at 8.01.26 PM.png" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-06-26%20at%208.01.26%20PM.png" alt=""><figcaption></figcaption></figure>

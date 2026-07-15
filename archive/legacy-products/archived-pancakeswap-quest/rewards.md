@@ -1,19 +1,19 @@
 # Rewards
 
 {% hint style="danger" %}
-&#x20;\[Archived] PancakeSwap Quest – As of 28th February 2025
+&#x20;\[Archived] PancakeSwap Quest – 28 फरवरी 2025 से
 {% endhint %}
 
-For beta mode, quests are split into two types - **quests with rewards and without rewards**. For quests without rewards, users will complete the tasks in order to learn more about DeFi or specific products and campaigns, with no token rewards or points at the moment.&#x20;
+Beta mode में, quests दो प्रकार में विभाजित हैं - **rewards वाले quests और बिना rewards वाले quests**। बिना rewards वाले quests के लिए, उपयोगकर्ता DeFi या specific products और campaigns के बारे में अधिक जानने के लिए tasks पूरे करेंगे, जिसमें अभी कोई token rewards या points नहीं हैं।&#x20;
 
-For quests with rewards, users can earn token rewards by completing them. The rewards will be distributed via a lucky draw to all users completing the quest, as shown below.&#x20;
+Rewards वाले quests के लिए, उपयोगकर्ता उन्हें पूरा करके token rewards अर्जित कर सकते हैं। Rewards को नीचे दिखाए अनुसार, quest पूरा करने वाले सभी उपयोगकर्ताओं के बीच lucky draw के माध्यम से distribute किया जाएगा।&#x20;
 
-For example, if the total reward is 1000 USDT with 10 stipulated winners, 10 users will be drawn to receive the reward.<br>
+उदाहरण के लिए, यदि 10 निर्धारित winners के साथ कुल reward 1000 USDT है, तो 10 उपयोगकर्ताओं को reward प्राप्त करने के लिए draw किया जाएगा।<br>
 
-<figure><img src="../../../.gitbook/assets/gamification-git-setup-dev-gamification.pancake.run_quests_705143d4efa243209b70f07eb824b908(iPhone 14 Pro Max).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/gamification-git-setup-dev-gamification.pancake.run_quests_705143d4efa243209b70f07eb824b908%28iPhone%2014%20Pro%20Max%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-How to claim rewards:
+Rewards claim करने का तरीका:
 
-1. To claim rewards at the end of the quest, check if you have won the quest via the quest page. Winners should see a “Claim reward” button below the prize amount.
-2. Click “Claim Reward” and sign the transaction.
-3. Check your wallet for the token reward.
+1. Quest के अंत में rewards claim करने के लिए, quest page के माध्यम से जांचें कि आपने जीता है या नहीं। Winners को prize amount के नीचे "Claim reward" button दिखाई देना चाहिए।
+2. "Claim Reward" पर क्लिक करें और ट्रांजेक्शन sign करें।
+3. Token reward के लिए अपना वॉलेट जांचें।

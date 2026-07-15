@@ -4,33 +4,33 @@ hidden: true
 
 # QA Engineer
 
-### General Information
+### सामान्य जानकारी
 
-* Salary range: Competitive, negotiable
-* Position: Full-time
-* Location: Remote
-* Time-zone preference: Any
+* वेतन सीमा: प्रतिस्पर्धी, वार्ता योग्य
+* पद: पूर्णकालिक
+* स्थान: रिमोट
+* समय क्षेत्र प्राथमिकता: कोई भी
 
-### Your Responsibilities
+### आपकी जिम्मेदारियाँ
 
-* Collaborate in the design of test plans for new features and releases
-* Triage reported defects, verify and reproduce regressions
-* Document bug reports and update according to different phases of issues lifecycle
-* Conduct functional, integration, regression, and performance testing for Web3 dApps and crypto wallet interactions.
-* Coordination with team members on the organization and execution of testing activities
-* Ensure test coverage across blockchain-specific features such as wallet integration, transaction handling, and smart contract interactions.
-* Manual tests on mobile devices (Android, iOS) and desktop apps on Windows, Mac and Linux
+* नए फीचर और रिलीज़ के लिए परीक्षण योजनाओं के डिज़ाइन में सहयोग करें
+* रिपोर्ट किए गए दोषों को ट्राइएज करें, रिग्रेशन की जाँच और पुनर्उत्पादन करें
+* बग रिपोर्ट दस्तावेज़ित करें और समस्याओं के जीवनचक्र के विभिन्न चरणों के अनुसार अद्यतन करें
+* Web3 dApps और क्रिप्टो वॉलेट इंटरैक्शन के लिए कार्यात्मक, एकीकरण, रिग्रेशन और प्रदर्शन परीक्षण करें।
+* परीक्षण गतिविधियों के संगठन और निष्पादन पर टीम के सदस्यों के साथ समन्वय
+* वॉलेट एकीकरण, लेनदेन प्रबंधन और स्मार्ट कॉन्ट्रैक्ट इंटरैक्शन जैसी ब्लॉकचेन-विशिष्ट सुविधाओं में परीक्षण कवरेज सुनिश्चित करें।
+* Android, iOS पर मोबाइल डिवाइस और Windows, Mac और Linux पर डेस्कटॉप ऐप पर मैन्युअल परीक्षण
 
-### Skills & Qualifications
+### कौशल और योग्यताएँ
 
-* Familiarity with blockchain technologies, DeFi, NFTs, and the broader Web3 ecosystem.
-* Proven experience with Web3 dApps and crypto wallets (e.g., MetaMask, WalletConnect, hardware wallets).
-* Strong knowledge of QA methodologies, testing strategies, and software development lifecycle.
-* Hands-on experience with both server-side and client-side QA testing.
-* Excellent problem-solving skills, with the ability to work independently and learn new technologies quickly.
-* Strong communication skills and attention to detail.
+* ब्लॉकचेन तकनीकों, DeFi, NFT और व्यापक Web3 पारिस्थितिकी तंत्र से परिचितता।
+* Web3 dApps और क्रिप्टो वॉलेट (जैसे MetaMask, WalletConnect, हार्डवेयर वॉलेट) का सिद्ध अनुभव।
+* QA पद्धतियों, परीक्षण रणनीतियों और सॉफ़्टवेयर विकास जीवनचक्र का मजबूत ज्ञान।
+* सर्वर-साइड और क्लाइंट-साइड QA परीक्षण दोनों का व्यावहारिक अनुभव।
+* स्वतंत्र रूप से काम करने और नई तकनीकों को तेज़ी से सीखने की क्षमता के साथ उत्कृष्ट समस्या-समाधान कौशल।
+* मजबूत संचार कौशल और विवरण पर ध्यान।
 
-### Good to have
+### अच्छा होगा यदि आपके पास हो
 
-* Experience with e2e testing framework (e.g. Puppeteer, Playwright, Cypress)
-* Understanding of DeFi protocols and their underlying mechanisms.
+* end-to-end परीक्षण फ्रेमवर्क का अनुभव (जैसे Puppeteer, Playwright, Cypress)
+* DeFi प्रोटोकॉल और उनके अंतर्निहित तंत्र की समझ।

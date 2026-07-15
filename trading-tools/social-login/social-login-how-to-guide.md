@@ -1,88 +1,88 @@
-# Social login: How-To Guide
+# Social Login: उपयोग गाइड
 
-Get started with DeFi in seconds — no wallet extensions or seed phrases needed. Follow the steps below to create your social login wallet, set a recovery password, and recover your wallet on a new device.
+सेकंडों में DeFi शुरू करें — कोई वॉलेट एक्सटेंशन या seed phrase आवश्यक नहीं। अपना social login वॉलेट बनाने, recovery password सेट करने और नए डिवाइस पर वॉलेट recover करने के लिए नीचे दिए गए चरणों का पालन करें।
 
-### 1. Creating Your Social Login Wallet
+### 1. अपना Social Login Wallet बनाएं
 
-1. Go to pancakeswap.finance
-2.  Click **Connect Wallet** → Select **Connect with Social Login**
+1. pancakeswap.finance पर जाएं
+2.  **Connect Wallet** पर क्लिक करें → **Connect with Social Login** चुनें
 
-    <figure><img src="../../.gitbook/assets/image (440).png" alt="" width="375"><figcaption></figcaption></figure>
-3.  Choose your preferred social login method:
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28440%29.png" alt="" width="375"><figcaption></figcaption></figure>
+3.  अपना पसंदीदा social login तरीका चुनें:
 
     * **Google**
     * **X (Twitter)**
     * **Telegram**
     * **Discord**
 
-    > 💡 Each social account creates one unique wallet for use on PancakeSwap.
+    > 💡 प्रत्येक social खाता PancakeSwap पर उपयोग के लिए एक अनोखा वॉलेट बनाता है।
 
-<figure><img src="../../.gitbook/assets/image (441).png" alt="" width="298"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28441%29.png" alt="" width="298"><figcaption></figcaption></figure>
 
-4.  Log in with your selected social account credentials
+4.  अपने चुने गए social खाते की credentials से लॉगिन करें
 
-    <figure><img src="../../.gitbook/assets/image (443).png" alt="" width="375"><figcaption></figcaption></figure>
-5.  Once login is successful, your wallet will be created and ready to use
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28443%29.png" alt="" width="375"><figcaption></figcaption></figure>
+5.  लॉगिन सफल होने पर, आपका वॉलेट बन जाएगा और उपयोग के लिए तैयार होगा
 
-    <figure><img src="../../.gitbook/assets/image (444).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28444%29.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-### 2. Setting a Recovery Password
+### 2. Recovery Password सेट करें
 
-After your first login, you'll be prompted to set a **recovery password**. This step is optional but highly recommended for full wallet control.
+अपने पहले लॉगिन के बाद, आपको **recovery password** सेट करने के लिए प्रेरित किया जाएगा। यह चरण वैकल्पिक है लेकिन पूर्ण वॉलेट नियंत्रण के लिए अत्यधिक अनुशंसित है।
 
-1.  Click **Set Recovery Password** when prompted
+1.  जब prompt आए तो **Set Recovery Password** पर क्लिक करें
 
-    > 🔒 If left unset, the recovery share will be stored by Privy by default
+    > 🔒 यदि सेट नहीं किया गया, तो recovery share डिफ़ॉल्ट रूप से Privy द्वारा संग्रहीत किया जाएगा
     >
-    > 🔑 [Learn more about recovery shares](https://docs.privy.io/security/wallet-infrastructure/advanced/user-device#securing-the-recovery-share)
+    > 🔑 [recovery shares के बारे में अधिक जानें](https://docs.privy.io/security/wallet-infrastructure/advanced/user-device#securing-the-recovery-share)
 
 {% hint style="success" %}
-If you dismiss this prompt, it will reappear again after 1 week, as part of PancakeSwap’s commitment to wallet security.
+यदि आप इस prompt को अनदेखा करते हैं, तो यह wallet security के प्रति PancakeSwap की प्रतिबद्धता के हिस्से के रूप में 1 सप्ताह बाद फिर से दिखाई देगा।
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (445).png" alt="" width="263"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28445%29.png" alt="" width="263"><figcaption></figcaption></figure>
 
-2. Choose a **memorable password** — you'll need it for logging in on a new device or when your session expires
+2. एक **यादगार password** चुनें — आपको नए डिवाइस पर लॉगिन करते समय या जब आपकी session समाप्त हो, तब इसकी आवश्यकता होगी
 
-> ⚠️ If forgotten, wallet access may be permanently lost
+> ⚠️ यदि भुला दिया गया, तो वॉलेट तक पहुँच स्थायी रूप से खो सकती है
 
-<figure><img src="../../.gitbook/assets/image (446).png" alt="" width="280"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28446%29.png" alt="" width="280"><figcaption></figcaption></figure>
 
-3. Save your password securely by **copying or downloading** it
+3. अपने password को **copy या download** करके सुरक्षित रूप से सहेजें
 
-<figure><img src="../../.gitbook/assets/image (447).png" alt="" width="274"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28447%29.png" alt="" width="274"><figcaption></figcaption></figure>
 
-4. Re-enter your password to confirm
+4. पुष्टि के लिए अपना password फिर से दर्ज करें
 
-> ❗ An error will appear if your passwords don’t match
+> ❗ यदि passwords मेल नहीं खाते तो एक त्रुटि दिखाई देगी
 
-<figure><img src="../../.gitbook/assets/image (448).png" alt="" width="269"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28448%29.png" alt="" width="269"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (449).png" alt="" width="266"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28449%29.png" alt="" width="266"><figcaption></figcaption></figure>
 
-5. Review the **disclaimer** and confirm you understand the recovery password risk
+5. **अस्वीकरण** की समीक्षा करें और पुष्टि करें कि आप recovery password के जोखिम को समझते हैं
 
-<figure><img src="../../.gitbook/assets/image (450).png" alt="" width="279"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28450%29.png" alt="" width="279"><figcaption></figcaption></figure>
 
-6. 🎉 Success! Your recovery password is now set
+6. 🎉 सफलता! आपका recovery password अब सेट हो गया है
 
-> Reminder: You’ll be asked to enter it again when your session ends or you switch devices
+> याद रखें: आपसे इसे फिर से दर्ज करने के लिए कहा जाएगा जब आपकी session समाप्त होगी या आप डिवाइस बदलेंगे
 
-<figure><img src="../../.gitbook/assets/image (451).png" alt="" width="275"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28451%29.png" alt="" width="275"><figcaption></figcaption></figure>
 
 >
 
 ***
 
-### 3. Recovering Your Wallet (New Device Login)
+### 3. अपना वॉलेट Recover करें (नए डिवाइस पर लॉगिन)
 
-If you access PancakeSwap on a new device, follow these steps to recover your wallet:
+यदि आप नए डिवाइस पर PancakeSwap एक्सेस करते हैं, तो अपना वॉलेट recover करने के लिए इन चरणों का पालन करें:
 
-1. Log in with your **social account** on the new device
-2. When you attempt your first transaction or on-chain action, you’ll be prompted to **enter your recovery password**
+1. नए डिवाइस पर अपने **social खाते** से लॉगिन करें
+2. जब आप अपना पहला ट्रांजेक्शन या ऑन-चेन action करने का प्रयास करते हैं, तो आपको **अपना recovery password दर्ज करने** के लिए प्रेरित किया जाएगा
 
-<figure><img src="../../.gitbook/assets/image (452).png" alt="" width="297"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28452%29.png" alt="" width="297"><figcaption></figcaption></figure>
 
-3. Once confirmed, you can continue transacting as usual — no further setup required!
+3. पुष्टि होने के बाद, आप हमेशा की तरह ट्रांजेक्शन जारी रख सकते हैं — कोई और सेटअप आवश्यक नहीं!

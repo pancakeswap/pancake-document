@@ -1,49 +1,49 @@
-# How CAKE.PAD Taxes Work in Overflow Sales – With Example
+# ओवरफ्लो सेल में CAKE.PAD टैक्स कैसे काम करता है — उदाहरण सहित
 
-1. Taxes are only charged **if the** CAKE.PAD event **is oversubscribed**
-   1. Oversubscription = Total deposits by all users > Raise goal amount.
-   * Tax is only deducted from participants' excess committed funds. No fees are paid by the CAKE.PAD partner project.
-   * The CAKE.PAD partner project receives 100% of its targeted raise amount.
-   * CAKE.PAD taxes are collected in CAKE, and 100% of it will be burned.
-   * Fees are based on the **total subscription rate of the pool** (% of raise goal):
+1. टैक्स केवल तभी लिया जाता है **जब** CAKE.PAD इवेंट **ओवरसब्सक्राइब हो**
+   1. ओवरसब्सक्रिप्शन = सभी उपयोगकर्ताओं द्वारा कुल जमा राशि > रेज़ लक्ष्य राशि।
+   * टैक्स केवल प्रतिभागियों के अतिरिक्त कमिटेड फंड से काटा जाता है। CAKE.PAD पार्टनर प्रोजेक्ट द्वारा कोई शुल्क नहीं दिया जाता।
+   * CAKE.PAD पार्टनर प्रोजेक्ट को अपनी टार्गेट रेज़ राशि का 100% प्राप्त होता है।
+   * CAKE.PAD टैक्स CAKE में एकत्र किया जाता है, और इसका 100% बर्न किया जाएगा।
+   * शुल्क पूल की **कुल सब्सक्रिप्शन दर** (रेज़ लक्ष्य के %) पर आधारित होते हैं:
 
-**Oversubscription rate <> Fee Tier**&#x20;
+**ओवरसब्सक्रिप्शन दर <> शुल्क टियर**&#x20;
 
-<table data-full-width="false"><thead><tr><th>Oversubscription Rate</th><th>Fee Tier</th></tr></thead><tbody><tr><td>≥ 0x</td><td>1.00%</td></tr><tr><td>≥ 50x</td><td>0.80%</td></tr><tr><td>≥ 100x</td><td>0.60%</td></tr><tr><td>≥ 150x</td><td>0.50%</td></tr><tr><td>≥ 200x</td><td>0.40%</td></tr><tr><td>≥ 250x</td><td>0.30%</td></tr><tr><td>≥ 300x</td><td>0.25%</td></tr><tr><td>≥ 400x</td><td>0.20%</td></tr><tr><td>≥ 500x</td><td>0.15%</td></tr><tr><td>≥ 650x</td><td>0.12%</td></tr><tr><td>≥ 800x</td><td>0.10%</td></tr><tr><td>≥ 1500x</td><td>0.05%</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th>ओवरसब्सक्रिप्शन दर</th><th>शुल्क टियर</th></tr></thead><tbody><tr><td>≥ 0x</td><td>1.00%</td></tr><tr><td>≥ 50x</td><td>0.80%</td></tr><tr><td>≥ 100x</td><td>0.60%</td></tr><tr><td>≥ 150x</td><td>0.50%</td></tr><tr><td>≥ 200x</td><td>0.40%</td></tr><tr><td>≥ 250x</td><td>0.30%</td></tr><tr><td>≥ 300x</td><td>0.25%</td></tr><tr><td>≥ 400x</td><td>0.20%</td></tr><tr><td>≥ 500x</td><td>0.15%</td></tr><tr><td>≥ 650x</td><td>0.12%</td></tr><tr><td>≥ 800x</td><td>0.10%</td></tr><tr><td>≥ 1500x</td><td>0.05%</td></tr></tbody></table>
 
 
 
-2. **Time period – When is tax charged**
+2. **समय अवधि — टैक्स कब लिया जाता है**
 
-* Tax is charged at the **end of the** CAKE.PAD event, when the user redeems their allocation.
-* Even if a user subscribes early (e.g., when the subscription is 30% of the raise goal), the final tax is based on the **final pool oversubscription level**.
-  * Example: If the pool ends up at 50x over-subscribed, the applicable tax is the 50x tier (0.8%).
+* टैक्स CAKE.PAD इवेंट के **अंत में** लिया जाता है, जब उपयोगकर्ता अपना आवंटन रिडीम करता है।
+* यहाँ तक कि यदि कोई उपयोगकर्ता जल्दी सब्सक्राइब करता है (जैसे जब सब्सक्रिप्शन रेज़ लक्ष्य का 30% हो), अंतिम टैक्स **पूल के अंतिम ओवरसब्सक्रिप्शन स्तर** पर आधारित होता है।
+  * उदाहरण: यदि पूल अंत में 50x ओवर-सब्सक्राइब होता है, तो लागू टैक्स 50x टियर (0.8%) है।
 
-#### Calculation Steps
+#### गणना के चरण
 
-1.  **User allocation** = % of total CAKE.PAD partner token pool the user receives
+1.  **उपयोगकर्ता आवंटन** = उपयोगकर्ता को CAKE.PAD पार्टनर टोकन पूल का % हिस्सा
 
     ```jsx
     user_allocation = user_deposit_amount / totalAmountPool
     ```
-2.  **User pay amount** = Portion of the user’s deposit used to redeem CAKE.PAD partner tokens
+2.  **उपयोगकर्ता भुगतान राशि** = CAKE.PAD पार्टनर टोकन रिडीम करने के लिए उपयोगकर्ता की जमा राशि का उपयोग किया गया हिस्सा
 
     ```jsx
     user_pay_amount = raisingAmountPool * user_allocation
     ```
-3.  **Refund amount** = Excess from the user’s deposit not used for CAKE.PAD partner token purchase
+3.  **वापसी राशि** = CAKE.PAD पार्टनर टोकन खरीद में उपयोग न हुई उपयोगकर्ता की जमा राशि का अतिरिक्त हिस्सा
 
     ```jsx
     refund_amount = user_deposit_amount - user_pay_amount
     ```
-4.  **Tax amount** = Deduction applied on the user’s refunded amount
+4.  **टैक्स राशि** = उपयोगकर्ता की वापसी राशि पर लागू कटौती
 
-    * Fee tier is based on the % of raise goal (see table above).
+    * शुल्क टियर रेज़ लक्ष्य के % पर आधारित है (ऊपर तालिका देखें)।
 
     ```jsx
     tax_amount = fee tier * refund_amount
     ```
-5.  **Final output for the user**
+5.  **उपयोगकर्ता के लिए अंतिम आउटपुट**
 
     ```jsx
     1. Token allocation = user_allocation * totalTokensOffered
@@ -51,14 +51,14 @@
     3. final_refund = refund_amount - tax_amount (if applicable, else = refund_amount)
     ```
 
-#### Numerical Example
+#### संख्यात्मक उदाहरण
 
-* **Target raise (raisingAmountPool):** 100 CAKE
-* **Your deposit (user\_deposit\_amount):** 10 CAKE
-* **Total deposits incl. of Your deposit (totalAmountPool):** 5,100 CAKE (51x subscribed = 5,100% of raise goal, implies 50x oversubscription rate)
-  * Corresponding fee tier = 0.80% (based on the tax rate table above)
+* **टार्गेट रेज़ (raisingAmountPool):** 100 CAKE
+* **आपकी जमा राशि (user\_deposit\_amount):** 10 CAKE
+* **आपकी जमा राशि सहित कुल जमा (totalAmountPool):** 5,100 CAKE (51x सब्सक्राइब = रेज़ लक्ष्य का 5,100%, अर्थात 50x ओवरसब्सक्रिप्शन दर)
+  * संगत शुल्क टियर = 0.80% (ऊपर टैक्स दर तालिका के आधार पर)
 
-**Steps:**
+**चरण:**
 
 1. `user_allocation = 10 / 5,100 = 0.00196 (0.196% pool allocation)`
 2. `user_pay_amount = 100 × 0.00196 = 0.196 CAKE`
@@ -66,7 +66,7 @@
 4. `tax_amount = 9.804 × 0.008 = 0.0784 CAKE`
 5. `final_refund = 9.804 − 0.0784 = ~9.72 CAKE`
 
-**Final User received amounts**
+**उपयोगकर्ता को मिली अंतिम राशियाँ**
 
-1. **Token allocation:** 0.196 CAKE worth of CAKE.PAD partner tokens
-2. **Final refund:** \~9.72 CAKE (from 10 CAKE deposit − 0.196 CAKE for token allocation − 0.0784 CAKE tax)
+1. **टोकन आवंटन:** 0.196 CAKE मूल्य के CAKE.PAD पार्टनर टोकन
+2. **अंतिम वापसी:** ~9.72 CAKE (10 CAKE जमा − 0.196 CAKE टोकन आवंटन के लिए − 0.0784 CAKE टैक्स)

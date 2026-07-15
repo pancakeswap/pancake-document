@@ -2,34 +2,34 @@
 hidden: true
 ---
 
-# Brand / Graphics Designer
+# ब्रांड / ग्राफिक्स डिज़ाइनर
 
-### **General Information**
+### **सामान्य जानकारी**
 
-* Salary range: Competitive, negotiable
-* Position: Full-time
-* Location: Remote
+* वेतन सीमा: प्रतिस्पर्धी, वार्ता योग्य
+* पद: पूर्णकालिक
+* स्थान: रिमोट
 
-### Roles & Responsibilities:
+### भूमिकाएँ और जिम्मेदारियाँ:
 
-* Design and develop characters and graphics for our brand in both 2D and 3D visuals.
-* Ensure visual consistency across the brand.
-* Create visual assets to support the Marketing team’s requirements, including banners, infographics, mockups, event collaterals, and more.
-* Take ownership of the design process on marketing event materials, ensuring designs are optimized for printing.
-* Work effectively with marketing, product operations, and business development teams to drive design initiatives and maintain a unified brand vision.
+* 2D और 3D दोनों विज़ुअल में हमारे ब्रांड के लिए पात्र और ग्राफिक्स डिज़ाइन और विकसित करें।
+* पूरे ब्रांड में दृश्य एकरूपता सुनिश्चित करें।
+* मार्केटिंग टीम की आवश्यकताओं के समर्थन में दृश्य सामग्री बनाएँ, जिसमें बैनर, इन्फोग्राफिक्स, मॉकअप, इवेंट सामग्री और अन्य शामिल हैं।
+* मार्केटिंग इवेंट सामग्री की डिज़ाइन प्रक्रिया की जिम्मेदारी लें और सुनिश्चित करें कि डिज़ाइन प्रिंटिंग के लिए अनुकूलित हों।
+* डिज़ाइन पहलों को आगे बढ़ाने और एकीकृत ब्रांड दृष्टिकोण बनाए रखने के लिए मार्केटिंग, प्रोडक्ट ऑपरेशन्स और बिज़नेस डेवलपमेंट टीमों के साथ प्रभावी ढंग से काम करें।
 
-### Requirements
+### आवश्यकताएँ
 
-* Design Tools: Proficiency in tools that create consistent, high-quality visuals (e.g., Adobe Creative Suite, 3D design tools, Figma, or even AI design tools).
-* Experience: Minimum of 3 years of full-time experience as a Brand/Graphics Designer.
+* डिज़ाइन टूल्स: उन टूल्स में दक्षता जो सुसंगत, उच्च-गुणवत्ता वाले विज़ुअल बनाते हैं (जैसे Adobe Creative Suite, 3D डिज़ाइन टूल्स, Figma, या AI डिज़ाइन टूल्स)।
+* अनुभव: ब्रांड/ग्राफिक्स डिज़ाइनर के रूप में न्यूनतम 3 वर्षों का पूर्णकालिक अनुभव।
 
-### Nice to have:
+### अच्छा होगा यदि आपके पास हो:
 
-* Strong audience- and content-focused mindset.
-* Experience using fintech apps or PancakeSwap products/ with crypto / Web3 Familiarity.
-* Experience of handling design assets and material for print and merch items is a big plus.
-* Experience working in distributed teams.&#x20;
+* दर्शकों और सामग्री पर केंद्रित मजबूत सोच।
+* फिनटेक ऐप्स या PancakeSwap उत्पादों / क्रिप्टो / Web3 से परिचितता का अनुभव।
+* प्रिंट और मर्चेंडाइज़ के लिए डिज़ाइन संपत्तियों और सामग्री को संभालने का अनुभव एक बड़ा प्लस है।
+* वितरित टीमों में काम करने का अनुभव।&#x20;
 
-### **How to apply**
+### **आवेदन कैसे करें**
 
-Email _hiring@pancakeswap.com_ with your CV & Portfolio!
+_hiring@pancakeswap.com_ पर अपना CV और पोर्टफोलियो ईमेल करें!

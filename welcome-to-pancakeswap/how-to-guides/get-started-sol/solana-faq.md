@@ -1,71 +1,71 @@
 # Solana FAQ
 
-### V3 Pools – Frequently Asked Questions (FAQ)
+### V3 Pools – अक्सर पूछे जाने वाले सवाल (FAQ)
 
-#### 1. What fee tiers are available?
+#### 1. कौन से शुल्क स्तर उपलब्ध हैं?
 
-**Supported Fee Tiers:**\
-The following fee tiers are available for V3 (concentrated liquidity) pools:
+**समर्थित शुल्क स्तर:**\
+V3 (संकेंद्रित तरलता) पूल के लिए निम्नलिखित शुल्क स्तर उपलब्ध हैं:
 
 `0.01%, 0.02%, 0.03%, 0.04%, 0.05%, 0.1%, 0.15%, 0.16%, 0.18%, 0.2%, 0.25%, 0.4%, 0.6%, 0.8%, 1%, 2%, 3%, 4%`
 
-**Fee Distribution (applies to all fee tiers):**
+**शुल्क वितरण (सभी शुल्क स्तरों पर लागू):**
 
-* 84% to liquidity providers (LPs)
-* 16% to the protocol
-  * 8% is burned
-  * 8% goes to the protocol treasury
+* 84% तरलता प्रदाताओं (LPs) को
+* 16% प्रोटोकॉल को
+  * 8% बर्न किया जाता है
+  * 8% प्रोटोकॉल ट्रेजरी में जाता है
 
-#### 2. Can anyone create a pool?
+#### 2. क्या कोई भी पूल बना सकता है?
 
-Yes. Pool creation is permissionless, with a few exceptions:
+हाँ। पूल निर्माण बिना अनुमति के होता है, कुछ अपवादों के साथ:
 
-* Only one pool can exist for a given **token pair + fee tier** combination (e.g. only one SOL<> USDC 0.1% pool can exist at one time)
-* Only **SPL tokens** and selected **Token-2022** tokens are supported at this time.
+* किसी दिए गए **टोकन जोड़ी + शुल्क स्तर** संयोजन के लिए केवल एक पूल मौजूद हो सकता है (जैसे एक समय में केवल एक SOL<> USDC 0.1% पूल मौजूद हो सकता है)
+* इस समय केवल **SPL टोकन** और चयनित **Token-2022** टोकन समर्थित हैं।
 
-#### 3. How long does it take for a newly created pool to appear?
+#### 3. नव-निर्मित पूल को दिखने में कितना समय लगता है?
 
-* Pools typically appear in the pool list approximately **5 minutes** after creation.
-* If it doesn't appear:
-  * Use the **search bar** to locate it manually.
-  * Pools may be filtered from the list due to **low TVL**.
+* पूल आमतौर पर निर्माण के बाद लगभग **5 मिनट** में पूल सूची में दिखाई देते हैं।
+* यदि यह दिखाई न दे:
+  * इसे मैन्युअल रूप से खोजने के लिए **सर्च बार** का उपयोग करें।
+  * **कम TVL** के कारण पूल सूची से फ़िल्टर किए जा सकते हैं।
 
-#### 4. Why does my pool’s APR or TVL still show as zero?
+#### 4. मेरे पूल का APR या TVL अभी भी शून्य क्यों दिखाता है?
 
-This is expected right after a new pool is created:
+यह एक नया पूल बनाने के तुरंत बाद अपेक्षित है:
 
-* APR and TVL data will only populate once **at least one swap** has occurred in the pool.
-* After a swap, these metrics will begin displaying within approximately **15 minutes**.
+* APR और TVL डेटा तभी भरेगा जब पूल में **कम से कम एक स्वैप** हुआ हो।
+* एक स्वैप के बाद, ये मेट्रिक्स लगभग **15 मिनट** के भीतर दिखाई देने लगेंगे।
 
-#### 5. How do I add a custom token to create a pool?
+#### 5. पूल बनाने के लिए कस्टम टोकन कैसे जोड़ें?
 
-To add a new token:
+नया टोकन जोड़ने के लिए:
 
-* In the pool creation interface, open the token selector.
+* पूल निर्माण इंटरफ़ेस में, टोकन सेलेक्टर खोलें।
 
-<figure><img src="../../../.gitbook/assets/image (410).png" alt="" width="248"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28410%29.png" alt="" width="248"><figcaption></figcaption></figure>
 
-* Paste the token’s address into the search bar.
+* सर्च बार में टोकन का पता पेस्ट करें।
 
-<figure><img src="../../../.gitbook/assets/image (411).png" alt="" width="247"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28411%29.png" alt="" width="247"><figcaption></figcaption></figure>
 
-* Click **"Add Token"**.
+* **"Add Token"** पर क्लिक करें।
 
-<figure><img src="../../../.gitbook/assets/image (414).png" alt="" width="251"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28414%29.png" alt="" width="251"><figcaption></figcaption></figure>
 
-* The token will now be searchable in the list.
+* टोकन अब सूची में खोजा जा सकेगा।
 
-<figure><img src="../../../.gitbook/assets/image (412).png" alt="" width="249"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28412%29.png" alt="" width="249"><figcaption></figcaption></figure>
 
-* To manage tokens:
-  * Click **"View Token List"**.
-  *   Toggle different lists on or off, including the **User Added Token List**, which includes any manually added tokens.
+* टोकन प्रबंधित करने के लिए:
+  * **"View Token List"** पर क्लिक करें।
+  *   विभिन्न सूचियों को चालू या बंद करें, जिसमें **User Added Token List** भी शामिल है, जिसमें मैन्युअल रूप से जोड़े गए टोकन शामिल हैं।
 
-      <figure><img src="../../../.gitbook/assets/image (413).png" alt="" width="247"><figcaption></figcaption></figure>
+      <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28413%29.png" alt="" width="247"><figcaption></figcaption></figure>
 
-#### 6. Why does my first transaction on Solana seem more expensive?
+#### 6. Solana पर मेरा पहला ट्रांजेक्शन अधिक महंगा क्यों लगता है?
 
-Solana uses **Associated Token Accounts (ATAs)** to manage token balances for each wallet. When interacting with a token for the first time, your wallet must create an ATA, which incurs an initial one-time cost (paid in SOL).
+Solana प्रत्येक वॉलेट के लिए टोकन बैलेंस प्रबंधित करने के लिए **Associated Token Accounts (ATAs)** का उपयोग करता है। पहली बार किसी टोकन के साथ इंटरैक्ट करने पर, आपके वॉलेट को एक ATA बनाना होता है, जिसमें एक प्रारंभिक एक-बार की लागत (SOL में भुगतान) लगती है।
 
-* This ATA creation fee is required by the Solana protocol and is not specific to PancakeSwap.
-* If the ATA is later closed, the **original SOL used can be refunded** back to your wallet.
+* यह ATA निर्माण शुल्क Solana प्रोटोकॉल द्वारा आवश्यक है और PancakeSwap के लिए विशिष्ट नहीं है।
+* यदि ATA बाद में बंद किया जाता है, तो **उपयोग किया गया मूल SOL वापस** आपके वॉलेट में किया जा सकता है।

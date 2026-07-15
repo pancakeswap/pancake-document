@@ -1,68 +1,68 @@
-# FAQ (Partners)
+# अक्सर पूछे जाने वाले सवाल (FAQ) (पार्टनर)
 
 {% hint style="success" %}
-For more information visit: [https://pancakeswap.notion.site/cakepad](https://pancakeswap.notion.site/cakepad)
+अधिक जानकारी के लिए यहाँ जाएं: [https://pancakeswap.notion.site/cakepad](https://pancakeswap.notion.site/cakepad)
 
-👉 [Apply to launch now!](https://docs.google.com/forms/d/e/1FAIpQLScmZu87SG41J_eGfzlbyJ_olFohlGOXfOJer04Dr1yCEJy2NA/viewform)
+👉 [अभी लॉन्च के लिए आवेदन करें!](https://docs.google.com/forms/d/e/1FAIpQLScmZu87SG41J_eGfzlbyJ_olFohlGOXfOJer04Dr1yCEJy2NA/viewform)
 {% endhint %}
 
-### 1. Who can apply to launch an CAKE.PAD event?
+### 1. CAKE.PAD इवेंट लॉन्च करने के लिए कौन आवेदन कर सकता है?
 
-Eligible projects must:
+पात्र प्रोजेक्ट के लिए निम्नलिखित शर्तें आवश्यक हैं:
 
-* Have a functioning product or MVP.
-* Be ready to launch a token and liquidity on PancakeSwap (BNB, Base, ARB, ETH, ZKsync, Linea, opBNB).
-* Allow 3–4 weeks of lead time before TGE.
-* Demonstrate strong community growth potential.
-* Pass PancakeSwap’s due diligence review.
+* एक कार्यशील उत्पाद या MVP होना।
+* PancakeSwap (BNB, Base, ARB, ETH, ZKsync, Linea, opBNB) पर टोकन और तरलता लॉन्च करने के लिए तैयार होना।
+* TGE से पहले 3-4 सप्ताह का लीड टाइम देना।
+* मजबूत कम्युनिटी विकास क्षमता प्रदर्शित करना।
+* PancakeSwap की उचित परिश्रम समीक्षा पास करना।
 
-**How to apply:**
+**आवेदन कैसे करें:**
 
-* Fill out the [application form](https://docs.google.com/forms/d/e/1FAIpQLScmZu87SG41J_eGfzlbyJ_olFohlGOXfOJer04Dr1yCEJy2NA/viewform).
-* If suitable, PancakeSwap will contact you for further due diligence.
-* Once approved, the team will align on tokenomics, marketing, and launch timeline.
-* Marketing and community onboarding begins.
-* Launch CAKE.PAD event.
+* [आवेदन फॉर्म](https://docs.google.com/forms/d/e/1FAIpQLScmZu87SG41J_eGfzlbyJ_olFohlGOXfOJer04Dr1yCEJy2NA/viewform) भरें।
+* यदि उपयुक्त हो, तो PancakeSwap आगे की उचित परिश्रम के लिए आपसे संपर्क करेगा।
+* एक बार अनुमोदित होने पर, टीम टोकनोमिक्स, मार्केटिंग और लॉन्च टाइमलाइन पर सहमति बनाएगी।
+* मार्केटिंग और कम्युनिटी ऑनबोर्डिंग शुरू होगी।
+* CAKE.PAD इवेंट लॉन्च।
 
-### 2. What are the launch fees?
+### 2. लॉन्च शुल्क क्या हैं?
 
-* Launching a CAKE.PAD event on PancakeSwap is **completely free**.
-* PancakeSwap does not charge any fees to projects.
+* PancakeSwap पर CAKE.PAD इवेंट लॉन्च करना **पूरी तरह मुफ़्त** है।
+* PancakeSwap प्रोजेक्ट से कोई शुल्क नहीं लेता।
 
-### 3. Do CAKE.PAD events support lockups or cliffing schedules?
+### 3. क्या CAKE.PAD इवेंट लॉकअप या क्लिफिंग शेड्यूल का समर्थन करते हैं?
 
-* Yes, but current CAKE.PAD event launches are conducted **without any lockups**.
+* हाँ, लेकिन वर्तमान CAKE.PAD इवेंट लॉन्च **बिना किसी लॉकअप के** आयोजित किए जाते हैं।
 
-### 4. How PancakeSwap Supports CAKE.PAD Partner Projects
+### 4. PancakeSwap CAKE.PAD पार्टनर प्रोजेक्ट का कैसे समर्थन करता है
 
 {% hint style="success" %}
-See stats and past performance of CAKE.PAD partner projects launched with PancakeSwap: [https://pancakeswap.notion.site/cakepad](https://pancakeswap.notion.site/cakepad)
+PancakeSwap के साथ लॉन्च किए गए CAKE.PAD पार्टनर प्रोजेक्ट के आँकड़े और पिछले प्रदर्शन देखें: [https://pancakeswap.notion.site/cakepad](https://pancakeswap.notion.site/cakepad)
 {% endhint %}
 
-#### Co-Marketing
+#### सह-मार्केटिंग
 
-* Access to >400k DAUs and >2M social media followers.
-* PancakeSwap provides co-marketing support **before, during, and after** the CAKE.PAD event.
-* Could include social media announcements, KOL marketing, ads on PCS home page, and incentives for users to try your product.
-* Projects should allocate a marketing budget for these activities.
+* >400k DAUs और >2M सोशल मीडिया फॉलोअर्स तक पहुँच।
+* PancakeSwap CAKE.PAD इवेंट से **पहले, दौरान और बाद** में सह-मार्केटिंग सहायता प्रदान करता है।
+* इसमें सोशल मीडिया घोषणाएं, KOL मार्केटिंग, PCS होम पेज पर विज्ञापन, और उपयोगकर्ताओं को आपके उत्पाद आज़माने के लिए प्रोत्साहन शामिल हो सकते हैं।
+* प्रोजेक्ट को इन गतिविधियों के लिए मार्केटिंग बजट आवंटित करना चाहिए।
 
-🔗 [Example social media announcement](https://x.com/PancakeSwap/status/1879107402752245982)
+🔗 [सोशल मीडिया घोषणा का उदाहरण](https://x.com/PancakeSwap/status/1879107402752245982)
 
-#### LP Incentives
+#### LP प्रोत्साहन
 
-* Reward users providing liquidity (e.g., XYZ-BNB or XYZ-USDT).
-* Builds deep liquidity for your token pair on a DEX with >$2B TVL and >$3B daily volume.
-* Improves trading experience with low slippage.
-* Boosts token visibility and market traction.
+* तरलता प्रदान करने वाले उपयोगकर्ताओं को पुरस्कृत करें (जैसे XYZ-BNB या XYZ-USDT)।
+* >$2B TVL और >$3B दैनिक वॉल्यूम वाले DEX पर आपके टोकन जोड़े के लिए गहरी तरलता बनाता है।
+* कम स्लिपेज के साथ ट्रेडिंग अनुभव में सुधार करता है।
+* टोकन की दृश्यता और बाज़ार आकर्षण बढ़ाता है।
 
-#### Syrup Pool Campaign
+#### सिरप पूल कैम्पेन
 
-* Launch a **“Stake XYZ, Earn CAKE”** staking campaign to increase token utility and encourage user acquisition and retention.
-* Typically attracts **4,500 to 6,000 unique wallet address**.
+* टोकन उपयोगिता बढ़ाने और उपयोगकर्ता अधिग्रहण और प्रतिधारण प्रोत्साहित करने के लिए एक **"Stake XYZ, Earn CAKE"** स्टेकिंग कैम्पेन लॉन्च करें।
+* आमतौर पर **4,500 से 6,000 अद्वितीय वॉलेट पते** आकर्षित करता है।
 
-#### Trading Contests
+#### ट्रेडिंग प्रतियोगिताएं
 
-* Post-CAKE.PAD event trading contests amplify trading activity and visibility.
-* Historically, campaigns see **5x to 10x boost in trading volume**.
+* CAKE.PAD इवेंट के बाद की ट्रेडिंग प्रतियोगिताएं ट्रेडिंग गतिविधि और दृश्यता को बढ़ाती हैं।
+* ऐतिहासिक रूप से, कैम्पेन में ट्रेडिंग वॉल्यूम में **5x से 10x वृद्धि** देखी गई है।
 
-**Note:** PancakeSwap reserves the final right to decide which campaigns to support based on oversubscription and raise amount.
+**नोट:** PancakeSwap ओवरसब्सक्रिप्शन और रेज़ राशि के आधार पर यह तय करने का अंतिम अधिकार सुरक्षित रखता है कि किन कैम्पेन का समर्थन करना है।

@@ -1,12 +1,12 @@
-# 🏦 Stableswap
+# 🏦 StableSwap
 
-<figure><img src="../../.gitbook/assets/en-stableswap.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/en-stableswap.png" alt=""><figcaption></figcaption></figure>
 
-StableSwap on PancakeSwap is a feature to trade stable pairs with a lower slippage based on an invariant curve slippage function. It is designed to swap specific assets that are priced closely – such as USD stablecoins (e.g. HAY, BUSD and USDT) or liquid staking tokens (e.g. stkBNB and BNBx).
+PancakeSwap पर StableSwap एक invariant curve स्लिपेज फ़ंक्शन के आधार पर कम स्लिपेज के साथ stable जोड़ियों का व्यापार करने की एक सुविधा है। इसे विशिष्ट एसेट की swap के लिए डिज़ाइन किया गया है जिनकी कीमत करीब होती है — जैसे USD stablecoins (जैसे HAY, BUSD और USDT) या liquid staking tokens (जैसे stkBNB और BNBx)।
 
 
 
-PancakeSwap currently offers two StableSwap models: [**Infinity StableSwap**](https://docs.pancakeswap.finance/~/revisions/4JQRJCuMPHEJgYdxdVME/trade/stableswap/infinity-stableswap) and [**Classic StableSwap**](https://docs.pancakeswap.finance/~/revisions/4JQRJCuMPHEJgYdxdVME/trade/stableswap/classic-stableswap). Infinity StableSwap is built on PancakeSwap’s latest Infinity architecture, offering improved flexibility, efficiency, and future extensibility. Classic StableSwap refers to the original StableSwap implementation, which continues to support existing pools and liquidity.
+PancakeSwap वर्तमान में दो StableSwap मॉडल प्रदान करता है: [**Infinity StableSwap**](https://docs.pancakeswap.finance/~/revisions/4JQRJCuMPHEJgYdxdVME/trade/stableswap/infinity-stableswap) और [**Classic StableSwap**](https://docs.pancakeswap.finance/~/revisions/4JQRJCuMPHEJgYdxdVME/trade/stableswap/classic-stableswap)। Infinity StableSwap PancakeSwap की नवीनतम Infinity आर्किटेक्चर पर बनाया गया है, जो बेहतर लचीलापन, दक्षता और भविष्य की विस्तारयोग्यता प्रदान करता है। Classic StableSwap मूल StableSwap कार्यान्वयन को संदर्भित करता है, जो मौजूदा pools और तरलता का समर्थन जारी रखता है।
 
 
 

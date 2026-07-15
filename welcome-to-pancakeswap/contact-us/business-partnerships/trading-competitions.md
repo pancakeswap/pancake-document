@@ -1,27 +1,27 @@
-# 🏎️ Trading Competitions
+# 🏎️ ट्रेडिंग प्रतियोगिताएँ
 
-Interested in boosting volumes and gaining mindshare for your project? Consider running a trading competition with PancakeSwap to reward users that trade your token.
+अपने प्रोजेक्ट के लिए वॉल्यूम बढ़ाना और mindshare हासिल करना चाहते हैं? अपने टोकन का व्यापार करने वाले उपयोगकर्ताओं को पुरस्कृत करने के लिए PancakeSwap के साथ ट्रेडिंग प्रतियोगिता चलाने पर विचार करें।
 
-We'll handle the set-up, tracking, and announcement - you provide the rewards, we run the show.
+सेटअप, ट्रैकिंग और घोषणा हम संभालते हैं — आप पुरस्कार प्रदान करें, हम कार्यक्रम चलाते हैं।
 
-This is available across BNB Chain, Solana, Base, Arbitrum, Ethereum, ZKsync, Linea, opBNB, and Polygon zkEVM.
+यह BNB Chain, Solana, Base, Arbitrum, Ethereum, ZKsync, Linea, opBNB, और Polygon zkEVM पर उपलब्ध है।
 
-_Some projects who took part previously saw a 3-7x increase in trading volume and actively traded addresses_
+_पहले भाग लेने वाले कुछ प्रोजेक्टों ने ट्रेडिंग वॉल्यूम में 3-7x वृद्धि और सक्रिय रूप से व्यापार करने वाले पतों में वृद्धि देखी_
 
-**Example of a Trading Competition process**
+**ट्रेडिंग प्रतियोगिता प्रक्रिया का उदाहरण**
 
-1. Initial Outreach
-   * The PancakeSwap BD team will reach out to prospective partners who might be a good fit
-   * Projects interested in running one can also contact us directly via [Telegram](https://t.me/pancakeswapbd)
-2. Terms Finalization
-   * We’ll go through a few key points to finalize the details - covering timeline, rewards, rules, etc.
-3. Marketing Preparation
-   * We’ll request design assets and some project information to create a clean, professional banner (see example below)
-4. Launch
-   * We’ll kick off the trading competition to drive onchain trading volume and increase mindshare for your token
-   * Promotional posts will also go live on [Twitter](https://x.com/PancakeSwap/status/1937095943268237433), [Telegram](https://t.me/PancakeSwapAnn/6339), and on our [blog site](https://blog.pancakeswap.finance/articles/binance-alpha-trading-competition)
-   * If you're keen, you could also join us on an AMA and/or a podcast to share more about your project with our community
-5. Post-Launch
-   * We’ll stay connected and explore future opportunities to collaborate
+1. प्रारंभिक संपर्क
+   * PancakeSwap BD टीम संभावित साझेदारों तक पहुँचेगी जो उपयुक्त हो सकते हैं
+   * जो प्रोजेक्ट एक चलाने में रुचि रखते हैं वे [Telegram](https://t.me/pancakeswapbd) के माध्यम से सीधे भी संपर्क कर सकते हैं
+2. शर्तों को अंतिम रूप देना
+   * हम विवरण को अंतिम रूप देने के लिए कुछ मुख्य बिंदुओं पर चर्चा करेंगे — समयसीमा, पुरस्कार, नियम आदि
+3. मार्केटिंग तैयारी
+   * हम डिज़ाइन सामग्री और कुछ प्रोजेक्ट जानकारी माँगेंगे ताकि एक स्वच्छ, पेशेवर बैनर बनाया जा सके (नीचे उदाहरण देखें)
+4. लॉन्च
+   * हम ट्रेडिंग प्रतियोगिता शुरू करेंगे ताकि ऑन-चेन ट्रेडिंग वॉल्यूम बढ़े और आपके टोकन का mindshare बढ़े
+   * प्रमोशनल पोस्ट [Twitter](https://x.com/PancakeSwap/status/1937095943268237433), [Telegram](https://t.me/PancakeSwapAnn/6339), और हमारी [blog साइट](https://blog.pancakeswap.finance/articles/binance-alpha-trading-competition) पर भी लाइव होंगे
+   * यदि आप चाहें, तो हमारे समुदाय के साथ अपने प्रोजेक्ट के बारे में अधिक साझा करने के लिए AMA और/या podcast में भी शामिल हो सकते हैं
+5. लॉन्च के बाद
+   * हम जुड़े रहेंगे और भविष्य में सहयोग के अवसर तलाशेंगे
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (438).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28438%29.png" alt=""><figcaption></figcaption></figure></div>

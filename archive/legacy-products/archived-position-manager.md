@@ -1,33 +1,33 @@
 # \[Archived] Position Manager
 
 {% hint style="success" %}
-A dedicated link will remain available for users to withdraw unmanaged positions after the sunset date: [**https://pancakeswap.finance/position-managers**](https://pancakeswap.finance/position-managers)
+Sunset date के बाद उपयोगकर्ताओं के लिए unmanaged positions withdraw करने के लिए एक dedicated link उपलब्ध रहेगा: [**https://pancakeswap.finance/position-managers**](https://pancakeswap.finance/position-managers)
 {% endhint %}
 
 {% hint style="warning" %}
-For more information refer to the official blogpost: [https://blog.pancakeswap.finance/articles/action-required-retirement-of-position-managers-bril-defiedge-teahouse-range-and-alpaca](https://blog.pancakeswap.finance/articles/action-required-retirement-of-position-managers-bril-defiedge-teahouse-range-and-alpaca)
+अधिक जानकारी के लिए official blogpost देखें: [https://blog.pancakeswap.finance/articles/action-required-retirement-of-position-managers-bril-defiedge-teahouse-range-and-alpaca](https://blog.pancakeswap.finance/articles/action-required-retirement-of-position-managers-bril-defiedge-teahouse-range-and-alpaca)
 {% endhint %}
 
 ## Position Managers Sunset
 
 **Overview**\
-Position Managers on PancakeSwap—**Bril, Defiedge, Teahouse, Range, and Alpaca**—were integrated third-party vault strategies that automatically managed V3 liquidity positions. They helped optimize liquidity placement, rebalance ranges, and reduce the need for manual position management.
+PancakeSwap पर Position Managers—**Bril, Defiedge, Teahouse, Range, और Alpaca**—integrated third-party vault strategies थे जो automatically V3 liquidity positions manage करते थे। इन्होंने liquidity placement optimize करने, ranges rebalance करने और manual position management की आवश्यकता कम करने में मदद की।
 
-**What’s changing?**\
-As part of product streamlining, Position Managers will be retired from the PancakeSwap interface.
+**क्या बदल रहा है?**\
+Product streamlining के हिस्से के रूप में, Position Managers को PancakeSwap interface से retire किया जाएगा।
 
-**Key dates**
+**प्रमुख तारीखें**
 
-* **May 21, 2025, 08:00 UTC** – Deposits into Position Manager vaults via PancakeSwap will be disabled. Withdrawals remain available.
-* **June 21, 2025, 08:00 UTC** – Final deadline to withdraw via the main interface. After this, the feature will be removed from the main UI, but withdrawals will still be possible through [**pancakeswap.finance/position-managers**](https://pancakeswap.finance/position-managers).
+* **21 मई 2025, 08:00 UTC** – PancakeSwap के माध्यम से Position Manager vaults में Deposits disabled हो जाएंगी। Withdrawals उपलब्ध रहेंगी।
+* **21 जून 2025, 08:00 UTC** – Main interface के माध्यम से withdraw करने की अंतिम deadline। इसके बाद, feature को main UI से हटा दिया जाएगा, लेकिन [**pancakeswap.finance/position-managers**](https://pancakeswap.finance/position-managers) के माध्यम से withdrawals अभी भी possible होंगी।
 
-**After the sunset date**
+**Sunset date के बाद**
 
-* No new deposits will be possible via PancakeSwap’s interface.
-* Withdrawals will only be available through [**pancakeswap.finance/position-managers**](https://pancakeswap.finance/position-managers)
-* As position managers may not actively manage your positions, vaults may shift to wide, unmanaged ranges. Please withdraw your positions to prevent any potential rebalancing losses.
+* PancakeSwap के interface के माध्यम से कोई नई deposits possible नहीं होंगी।
+* Withdrawals केवल [**pancakeswap.finance/position-managers**](https://pancakeswap.finance/position-managers) के माध्यम से उपलब्ध होंगी।
+* चूँकि position managers आपकी positions को actively manage नहीं कर सकते, vaults wide, unmanaged ranges पर shift हो सकती हैं। किसी भी संभावित rebalancing losses से बचने के लिए कृपया अपनी positions withdraw करें।
 
-**What should you do?**
+**आपको क्या करना चाहिए?**
 
-* Withdraw assets from Position Manager vaults before **June 21, 2025** to maintain full control.
-* After withdrawal, you can manage your V3 liquidity manually on PancakeSwap
+* **21 जून 2025** से पहले Position Manager vaults से assets withdraw करें ताकि पूर्ण नियंत्रण बना रहे।
+* Withdrawal के बाद, आप PancakeSwap पर manually अपनी V3 liquidity manage कर सकते हैं।

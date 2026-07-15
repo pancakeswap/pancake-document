@@ -4,38 +4,38 @@ hidden: true
 
 # Frontend Engineer (Contract)
 
-### General Information
+### सामान्य जानकारी
 
-* Salary range: Competitive, negotiable
-* **Duration: 1 - 2 quarters**
-* Position: Full-time / Part-time
-* Location: Remote
-* Time-zone preference: Any
+* वेतन सीमा: प्रतिस्पर्धी, वार्ता योग्य
+* **अवधि: 1 - 2 तिमाहियाँ**
+* पद: पूर्णकालिक / अंशकालिक
+* स्थान: रिमोट
+* समय क्षेत्र प्राथमिकता: कोई भी
 
-### Your Responsibilities
+### आपकी जिम्मेदारियाँ
 
-* Design and build an iOS / Android application for PancakeSwap in accordance to our requirements.
-* Envision and develop features to help grow the application.
-* Enthusiastically collaborate with a small team to plan projects at the task level.
-* Collaborate with cross-functional partners on all aspects of product development.
+* हमारी आवश्यकताओं के अनुसार PancakeSwap के लिए iOS / Android एप्लिकेशन डिज़ाइन और बनाएँ।
+* एप्लिकेशन को विकसित करने में मदद करने वाले फीचर की कल्पना करें और उन्हें विकसित करें।
+* प्रोजेक्ट को कार्य स्तर पर योजना बनाने के लिए एक छोटी टीम के साथ उत्साहपूर्वक सहयोग करें।
+* प्रोडक्ट विकास के सभी पहलुओं पर क्रॉस-फंक्शनल साझेदारों के साथ सहयोग करें।
 
-### Skills & Qualifications
+### कौशल और योग्यताएँ
 
-* 3-5 years of experience in building decentralised applications
-* Solid experience in Typescript and React JS.
-* Ability to write structured and clean code.
-* Experience with Javascript testing tools.
-* Experience with modern front-end build pipelines and tools.
-* Experience with defining and delivering scalable frontend architectures.
-* Some experience with GraphQL.
-* Experience working with Web3 and a decentralized application frontend.
-* Ability to work independently and innovate.
+* विकेंद्रीकृत एप्लिकेशन बनाने में 3-5 वर्षों का अनुभव
+* Typescript और React JS में ठोस अनुभव।
+* संरचित और स्वच्छ कोड लिखने की क्षमता।
+* Javascript परीक्षण टूल्स का अनुभव।
+* आधुनिक फ्रंट-एंड बिल्ड पाइपलाइन और टूल्स का अनुभव।
+* स्केलेबल फ्रंटएंड आर्किटेक्चर परिभाषित करने और वितरित करने का अनुभव।
+* GraphQL का कुछ अनुभव।
+* Web3 और विकेंद्रीकृत एप्लिकेशन फ्रंटएंड के साथ काम करने का अनुभव।
+* स्वतंत्र रूप से काम करने और नवाचार करने की क्षमता।
 
-### Good to have
+### अच्छा होगा यदि आपके पास हो
 
-* Understanding of Solidity and AMMs
-* Understanding of PancakeSwap products
+* Solidity और AMM की समझ
+* PancakeSwap उत्पादों की समझ
 
-### How to apply:
+### आवेदन कैसे करें:
 
-Email hiring@pancakeswap.com with your resume!
+अपना रेज़्यूमे hiring@pancakeswap.com पर ईमेल करें!

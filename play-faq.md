@@ -2,6 +2,6 @@
 hidden: true
 ---
 
-# ❓ Play FAQ
+# ❓ Play अक्सर पूछे जाने वाले सवाल (FAQ)
 
-(To be populated)
+(जल्द भरा जाएगा)

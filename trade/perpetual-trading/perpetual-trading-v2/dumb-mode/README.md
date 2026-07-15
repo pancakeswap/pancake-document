@@ -4,53 +4,53 @@ hidden: true
 
 # Dumb Mode
 
-### Overview
+### अवलोकन
 
-[**Dumb Mode**](https://perp.pancakeswap.finance/en/futures/v2/BTCUSD?theme=light\&chain=bsc) on PancakeSwap Perpetuals offers a simplified trading experience, ideal for traders who prefer to trade on the minute-by-minute fluctuations of an underlying asset’s value. Dumb Mode simplifies trading by reducing the noise, allowing users to enter and exit short-term positions easily.
+PancakeSwap Perpetuals पर [**Dumb Mode**](https://perp.pancakeswap.finance/en/futures/v2/BTCUSD?theme=light\&chain=bsc) एक सरलीकृत ट्रेडिंग अनुभव प्रदान करता है, जो उन ट्रेडर्स के लिए आदर्श है जो किसी अंतर्निहित एसेट के मूल्य में मिनट-दर-मिनट उतार-चढ़ाव पर व्यापार करना पसंद करते हैं। Dumb Mode शोर को कम करके ट्रेडिंग को सरल बनाता है, जिससे उपयोगकर्ता आसानी से अल्पकालिक पोजीशन में प्रवेश और निकास कर सकते हैं।
 
-### How It Works
+### यह कैसे काम करता है
 
-Users are given a selection of 5-minute, 15-minute, 30-minute and 1-hour expiration windows with different return-on-investment ratios. Users can choose to long or short an underlying asset.
+उपयोगकर्ताओं को अलग-अलग return-on-investment अनुपात के साथ 5-मिनट, 15-मिनट, 30-मिनट और 1-घंटे की समाप्ति विंडो का चयन दिया जाता है। उपयोगकर्ता किसी अंतर्निहित एसेट को long या short चुन सकते हैं।
 
-At the end of the expiration period, if the underlying asset is in a winning position (price greater than open price for long, price lower than open price for short), users will stand to profit.
+समाप्ति अवधि के अंत में, यदि अंतर्निहित एसेट एक विजेता स्थिति में है (long के लिए open price से अधिक मूल्य, short के लिए open price से कम मूल्य), तो उपयोगकर्ता लाभ उठाने की स्थिति में होंगे।
 
-Each expiration period has a different return-on-investment (ROI). The longer the expiration period, the higher the ROI. Percentages and fees are as follows:<br>
+प्रत्येक समाप्ति अवधि में एक अलग return-on-investment (ROI) होता है। समाप्ति अवधि जितनी लंबी होगी, ROI उतना ही अधिक होगा। प्रतिशत और शुल्क इस प्रकार हैं:<br>
 
-| Expiration Period | Winning ROI (Net of fees)\* | Losing ROI | Fees (on Winning) |
+| समाप्ति अवधि | जीतने पर ROI (शुल्क के बाद)\* | हारने पर ROI | शुल्क (जीतने पर) |
 | ----------------- | --------------------------- | ---------- | ----------------- |
-| 5 minutes         | 50%                         | -100%      | 6% on collateral  |
-| 15 minutes        | 55%                         | -100%      | 6% on collateral  |
-| 30 minutes        | 70%                         | -100%      | 6% on collateral  |
-| 1 hour            | 83%                         | -100%      | 6% on collateral  |
+| 5 मिनट         | 50%                         | -100%      | संपार्श्विक का 6%  |
+| 15 मिनट        | 55%                         | -100%      | संपार्श्विक का 6%  |
+| 30 मिनट        | 70%                         | -100%      | संपार्श्विक का 6%  |
+| 1 घंटा            | 83%                         | -100%      | संपार्श्विक का 6%  |
 
-\*Winning ROI may be adjusted occasionally depending on market conditions. Please check this page for any updates
+\*जीतने वाला ROI बाजार की स्थितियों के आधार पर समय-समय पर समायोजित किया जा सकता है। किसी भी अपडेट के लिए कृपया इस पेज की जांच करें।
 
-For example, in the following scenario:
+उदाहरण के लिए, निम्नलिखित परिदृश्य में:
 
-* Position Selected: Long
-* Collateral Placed: 100 USDT
-* Expiration Period: 60 seconds
-* BTCUSD price at open: $50,000
-* BTCUSD price after 60s: $50,001
+* चुनी गई पोजीशन: Long
+* लगाया गया संपार्श्विक: 100 USDT
+* समाप्ति अवधि: 60 सेकंड
+* खुलने पर BTCUSD मूल्य: $50,000
+* 60 सेकंड के बाद BTCUSD मूल्य: $50,001
 
-User will profit **100USDT \* 75%= 75USDT**
+उपयोगकर्ता को **100USDT \* 75%= 75USDT** का लाभ होगा
 
-For more information on how to open a Dumb Mode position, click [here](dumb-mode-guide.md).
+Dumb Mode पोजीशन खोलने के तरीके के बारे में अधिक जानकारी के लिए, [यहां](dumb-mode-guide.md) क्लिक करें।
 
-### Markets and Margin Assets
+### बाजार और मार्जिन एसेट
 
-Dumb Mode supports trading in the following markets and margin assets on **BNB Chain**:
+Dumb Mode **BNB Chain** पर निम्नलिखित बाजारों और मार्जिन एसेट में ट्रेडिंग का समर्थन करता है:
 
-<table data-header-hidden><thead><tr><th width="330"></th><th></th></tr></thead><tbody><tr><td>Market</td><td>Margin Assets</td></tr><tr><td><p>BTCUSD</p><p>ETHUSD</p><p>CAKEUSD</p><p>BNBUSD</p><p>SOLUSD</p></td><td><p>USDC</p><p>USDT</p><p>CAKE</p><p>ETH</p><p>BTC</p><p>HAY</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="330"></th><th></th></tr></thead><tbody><tr><td>बाजार</td><td>मार्जिन एसेट</td></tr><tr><td><p>BTCUSD</p><p>ETHUSD</p><p>CAKEUSD</p><p>BNBUSD</p><p>SOLUSD</p></td><td><p>USDC</p><p>USDT</p><p>CAKE</p><p>ETH</p><p>BTC</p><p>HAY</p></td></tr></tbody></table>
 
-Dumb Mode supports trading in the following markets and margin assets on **Arbitrum, opBNB and Base Chains**:
+Dumb Mode **Arbitrum, opBNB और Base Chains** पर निम्नलिखित बाजारों और मार्जिन एसेट में ट्रेडिंग का समर्थन करता है:
 
-<table data-header-hidden><thead><tr><th width="330"></th><th></th></tr></thead><tbody><tr><td>Market</td><td>Margin Assets</td></tr><tr><td><p>BTCUSD</p><p>ETHUSD</p></td><td><p>USDC</p><p>USDT</p><p>ETH</p><p>BTC</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="330"></th><th></th></tr></thead><tbody><tr><td>बाजार</td><td>मार्जिन एसेट</td></tr><tr><td><p>BTCUSD</p><p>ETHUSD</p></td><td><p>USDC</p><p>USDT</p><p>ETH</p><p>BTC</p></td></tr></tbody></table>
 
-Support for more assets/chains is in development.
+अधिक एसेट/चेन के लिए समर्थन विकास में है।
 
-### Fees
+### शुल्क
 
-A fee of **6%** of the principal or collateral is charged in case of a winning trade. This is already calculated before ROI.
+जीतने वाले ट्रेड के मामले में principal या संपार्श्विक का **6%** शुल्क लिया जाता है। यह ROI से पहले ही गणना की जाती है।
 
 <br>

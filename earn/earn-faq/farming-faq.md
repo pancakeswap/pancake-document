@@ -2,121 +2,121 @@
 hidden: true
 ---
 
-# Farming FAQ
+# फार्मिंग अक्सर पूछे जाने वाले सवाल (FAQ)
 
-### Why are there multiple APRs?
+### कई APR क्यों हैं?
 
-In V3, you can concentrate your assets while providing liquidity to boost your share against the total available liquidity, earning a higher % of rewards.&#x20;
+V3 में, आप तरलता प्रदान करते समय अपनी संपत्तियाँ केंद्रित कर सकते हैं ताकि कुल उपलब्ध तरलता के विरुद्ध अपनी हिस्सेदारी बढ़ा सकें, जिससे पुरस्कारों का उच्च % अर्जित हो।&#x20;
 
-Therefore, depending on the position price-range settings, each liquidity position will have its own LP fee APR and its own farming APR.
+इसलिए, पोजीशन प्राइस-रेंज सेटिंग्स के आधार पर, प्रत्येक तरलता पोजीशन का अपना LP शुल्क APR और अपना फार्मिंग APR होगा।
 
-The global APR is calculated with the total amount of CAKE rewards in USD, divided by the total amount of assets, with in the active positions, which are currently staked in the farm. So, global farming APR is only a generic reference, and will not represent individual APRs for each positions.
+Global APR की गणना USD में कुल CAKE पुरस्कारों को, फार्म में वर्तमान में स्टेक की गई सक्रिय पोजीशन में कुल संपत्तियों की मात्रा से भाग देकर की जाती है। इसलिए, global फार्मिंग APR केवल एक सामान्य संदर्भ है, और प्रत्येक पोजीशन के लिए व्यक्तिगत APR का प्रतिनिधित्व नहीं करेगा।
 
-To view your farming APR, check out your positions listed under each farm.
+अपना फार्मिंग APR देखने के लिए, प्रत्येक फार्म के अंतर्गत सूचीबद्ध अपनी पोजीशन देखें।
 
 ###
 
-### What happens if my liquidity position goes out of range while staking in the Farm?
+### यदि फार्म में स्टेकिंग के दौरान मेरी तरलता पोजीशन रेंज से बाहर चली जाए तो क्या होगा?
 
-In V3, only active (in-range) liquidity positions will earn CAKE from farms.
+V3 में, केवल सक्रिय (इन-रेंज) तरलता पोजीशन ही फार्म से CAKE अर्जित करेंगी।
 
-The position will stop receiving CAKE rewards when the price goes out of the range.
+जब मूल्य रेंज से बाहर जाएगा तो पोजीशन को CAKE पुरस्कार मिलना बंद हो जाएगा।
 
-If the price moves back in range, the position will start receiving CAKE rewards again. No additional actions are required from stakers.
-
-
-
-### Are there any ways to automatically adjust my position so it is always in range and earning fee rewards?
-
-PancakeSwap v3 supports one-click liquidity depositing via Zap, available on BNB Chain and Ethereum.
+यदि मूल्य वापस रेंज में आता है, तो पोजीशन फिर से CAKE पुरस्कार प्राप्त करना शुरू कर देगी। स्टेकर्स से कोई अतिरिक्त कार्रवाई की आवश्यकता नहीं है।
 
 
 
-### Is it better to always farm with a liquidity position with a smaller range?
+### क्या ऐसे कोई तरीके हैं जिनसे मेरी पोजीशन स्वचालित रूप से समायोजित हो ताकि वह हमेशा रेंज में रहे और शुल्क पुरस्कार अर्जित करे?
 
-Providing liquidity to a smaller price range will help concentrate your liquidity, boosting your relative shares again the total liquidity within the price range, potentially earning more CAKE rewards.
-
-However, please bear in mind that only active liquidity positions will earn CAKE rewards. This means you will only earn rewards when the current trading price is within the price range defined in the liquidity position.
-
-If you need to adjust your position price range, you will need to unstake, remove liquidity and create a new position with the updated price range. Please bear in mind that frequent adjustments are not always the most optimal strategy as it realises the impermanent loss and costs a certain amount of gas to complete multiple transactions.
+PancakeSwap v3 BNB Chain और Ethereum पर Zap के माध्यम से एक-क्लिक तरलता जमा करने का समर्थन करता है।
 
 
 
-### How many positions I can stake in one single farm?
+### क्या हमेशा छोटी रेंज वाली तरलता पोजीशन से फार्मिंग करना बेहतर है?
 
-There is no maximum limit of positions you can stake in one farm.
+छोटी प्राइस रेंज में तरलता प्रदान करने से आपकी तरलता केंद्रित होती है, जिससे प्राइस रेंज के भीतर कुल तरलता के विरुद्ध आपकी सापेक्षिक हिस्सेदारी बढ़ती है, और संभावित रूप से अधिक CAKE पुरस्कार मिलते हैं।
 
-But please bear in mind that you will need to spend gas to manually harvest from each one of the positions. Please always factor gas cost in the yield operations.
+हालाँकि, कृपया ध्यान रखें कि केवल सक्रिय तरलता पोजीशन ही CAKE पुरस्कार अर्जित करेंगी। इसका मतलब है कि आप केवल तभी पुरस्कार अर्जित करेंगे जब वर्तमान ट्रेडिंग मूल्य तरलता पोजीशन में परिभाषित प्राइस रेंज के भीतर हो।
 
-
-
-### How often should I harvest my rewards?
-
-How often you harvest your rewards is up to you, but it does help to remember that there is a small fee involved in harvesting. You can see this fee in your wallet when confirming after clicking “Harvest”**.**
-
-This shows the fee for harvesting as it appears in the MetaMask wallet. Different wallets will show the information a little differently. Consider leaving your rewards to grow for a while so you pay fees less often.
+यदि आपको अपनी पोजीशन प्राइस रेंज समायोजित करने की आवश्यकता है, तो आपको अनस्टेक करना होगा, तरलता हटानी होगी और अपडेट की गई प्राइस रेंज के साथ एक नई पोजीशन बनानी होगी। कृपया ध्यान रखें कि बार-बार समायोजन हमेशा सबसे अनुकूल रणनीति नहीं होती, क्योंकि इससे Impermanent Loss वास्तविक हो जाता है और कई लेनदेन पूरे करने में कुछ गैस खर्च होती है।
 
 
 
-### What if I want to adjust my position while staking in the farm?
+### एक फार्म में मैं कितनी पोजीशन स्टेक कर सकता/सकती हूँ?
 
-While staking in the farm, you are able to add or remove liquidity without unstaking it. Simply locate the liquidity position you want to adjust, and click its title/id, and you should be presented with the position detail page where you can use the “Add” and “Remove” buttons.
+एक फार्म में आप जितनी पोजीशन स्टेक कर सकते हैं उसकी कोई अधिकतम सीमा नहीं है।
 
-If you want to adjust the price range configurations of a liquidity position, you will need to unstake it from the farm, remove all liquidity and re-create a new position by adding liquidity.
-
-
-
-### What affects Farming APR?
-
-In Farm v3, CAKE reward APR could vary between liquidity positions. It is based on the following factors:
-
-* CAKE emission rate to Farms\
-  \- more CAKE will generate a higher yield for all the farms. Read more on [our tokenomics page](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics)
-* Farm multiplier\
-  \- farms with a higher multiplier will get more CAKE proportionate to all the farms. Please note that v3 and v2 + stable swap farms are using two separate sets of multipliers. And farms on Ethereum and BNB Chains are also using two separate sets of multipliers.
-* The number of tokens deposited in the position\
-  \- more token in the position translates to a larger relative share against the total active liquidity in the farm pool and gets more CAKE rewards
-* The selected price range\
-  \- smaller price range allows a higher concentration for the same amount of token deposited, which translates to a larger relative share against the total active liquidity in the farm pool, and gets more CAKE rewards
-* The amount of liquidity currently active\
-  \- if there are more users who deposit and concentrate their liquidity with the same range as you, you will earn CAKE rewards due to a smaller relative share against the total
-* Whether the liquidity position is active\
-  \- only active liquidity positions will earn CAKE rewards from farm
+लेकिन कृपया ध्यान रखें कि आपको प्रत्येक पोजीशन से मैन्युअल रूप से हार्वेस्ट करने के लिए गैस खर्च करनी होगी। यील्ड ऑपरेशन में हमेशा गैस लागत को ध्यान में रखें।
 
 
 
-### Why am I seeing an "Update Positions" pop-up?
+### मुझे कितनी बार पुरस्कार हार्वेस्ट करने चाहिए?
 
-![](<../../.gitbook/assets/image (321).png>)
+आप कितनी बार पुरस्कार हार्वेस्ट करते हैं यह आप पर निर्भर है, लेकिन यह ध्यान रखना उपयोगी है कि हार्वेस्टिंग में एक छोटा शुल्क लगता है। "Harvest" पर क्लिक करने के बाद पुष्टि करते समय आप यह शुल्क अपने वॉलेट में देख सकते हैं।
 
-Soon after the V3 launch, Chefs implemented an update on Farms to make reward calculations more accurate and reliable. If you are seeing this pop-up, that means some of your positions will require an update.
-
-Simply click "Update All", and confirm in your wallet pop-up.
-
-Please note that Chefs are also applying this update to the historical staking data between the launch of Farm V3 and when this update is implemented. If there are any extra CAKE rewards, they will be airdropped to your wallet before 1st May 2023.
+यह MetaMask वॉलेट में हार्वेस्टिंग शुल्क दिखाता है। अलग-अलग वॉलेट जानकारी थोड़े अलग तरीके से दिखाएंगे। कम बार शुल्क चुकाने के लिए अपने पुरस्कारों को कुछ समय के लिए बढ़ने दें।
 
 
 
-### Why a 2x farm in V3 has less APR than a 1x farm in V2?
+### यदि मैं फार्म में स्टेकिंग के दौरान अपनी पोजीशन समायोजित करना चाहूँ तो क्या करें?
 
-First, when comparing APRs, you need to ensure the total staked liquidity between two farms is equal.
+फार्म में स्टेकिंग के दौरान, आप बिना अनस्टेक किए तरलता जोड़ या हटा सकते हैं। बस वह तरलता पोजीशन खोजें जिसे आप समायोजित करना चाहते हैं, उसके शीर्षक/id पर क्लिक करें, और आपको पोजीशन विवरण पेज दिखाया जाएगा जहाँ आप "Add" और "Remove" बटन का उपयोग कर सकते हैं।
 
-On top of that, we now have multiple groups of farms which have their own stream of CAKE emissions. And each group of farms shares separated sets of multipliers.
+यदि आप तरलता पोजीशन की प्राइस रेंज कॉन्फ़िगरेशन समायोजित करना चाहते हैं, तो आपको इसे फार्म से अनस्टेक करना होगा, सारी तरलता हटानी होगी और तरलता जोड़कर एक नई पोजीशन पुनः बनानी होगी।
 
-An individual farm will receive CAKE emissions based on:
 
-* A = Total CAKE per second/block for the farm group it belongs to
-* B = Total number of multipliers within the group it belongs to
-* C = The multiplier has
+
+### फार्मिंग APR को क्या प्रभावित करता है?
+
+Farm v3 में, CAKE रिवॉर्ड APR तरलता पोजीशन के बीच भिन्न हो सकता है। यह निम्नलिखित कारकों पर आधारित है:
+
+* फार्मों के लिए CAKE एमिशन दर\
+  \- अधिक CAKE सभी फार्मों के लिए अधिक यील्ड उत्पन्न करेगा। [हमारे टोकनोमिक्स पेज](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics) पर अधिक पढ़ें।
+* फार्म मल्टीप्लायर\
+  \- उच्च मल्टीप्लायर वाले फार्मों को सभी फार्मों के अनुपात में अधिक CAKE मिलेगा। कृपया ध्यान दें कि v3 और v2 + stable swap फार्म दो अलग-अलग मल्टीप्लायर सेट का उपयोग करते हैं। और Ethereum और BNB Chain के फार्म भी दो अलग-अलग मल्टीप्लायर सेट का उपयोग करते हैं।
+* पोजीशन में जमा टोकन की संख्या\
+  \- पोजीशन में अधिक टोकन होने से फार्म पूल में कुल सक्रिय तरलता के विरुद्ध अधिक सापेक्षिक हिस्सेदारी मिलती है और अधिक CAKE पुरस्कार मिलते हैं।
+* चुनी गई प्राइस रेंज\
+  \- छोटी प्राइस रेंज एक ही मात्रा के टोकन के लिए उच्च एकाग्रता की अनुमति देती है, जो फार्म पूल में कुल सक्रिय तरलता के विरुद्ध अधिक सापेक्षिक हिस्सेदारी में परिणत होती है, और अधिक CAKE पुरस्कार मिलते हैं।
+* वर्तमान में सक्रिय तरलता की मात्रा\
+  \- यदि आपके जैसी ही रेंज में अधिक उपयोगकर्ता जमा करते और अपनी तरलता केंद्रित करते हैं, तो आप कुल तरलता के विरुद्ध छोटी सापेक्षिक हिस्सेदारी के कारण कम CAKE पुरस्कार अर्जित करेंगे।
+* क्या तरलता पोजीशन सक्रिय है\
+  \- केवल सक्रिय तरलता पोजीशन ही फार्म से CAKE पुरस्कार अर्जित करेंगी।
+
+
+
+### मुझे "Update Positions" पॉप-अप क्यों दिख रहा है?
+
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28321%29.png)
+
+V3 लॉन्च के तुरंत बाद, Chefs ने पुरस्कार गणनाओं को अधिक सटीक और विश्वसनीय बनाने के लिए फार्मों पर एक अपडेट लागू किया। यदि आपको यह पॉप-अप दिख रहा है, तो इसका मतलब है कि आपकी कुछ पोजीशन को अपडेट की आवश्यकता है।
+
+बस "Update All" पर क्लिक करें, और अपने वॉलेट पॉप-अप में पुष्टि करें।
+
+कृपया ध्यान दें कि Chefs Farm V3 के लॉन्च और इस अपडेट के लागू होने के बीच के ऐतिहासिक स्टेकिंग डेटा पर भी यह अपडेट लागू कर रहे हैं। यदि कोई अतिरिक्त CAKE पुरस्कार हैं, तो उन्हें 1 मई 2023 से पहले आपके वॉलेट में एयरड्रॉप किया जाएगा।
+
+
+
+### V3 में 2x फार्म का APR V2 में 1x फार्म से कम क्यों है?
+
+पहले, APR की तुलना करते समय, आपको यह सुनिश्चित करना होगा कि दोनों फार्मों के बीच कुल स्टेक तरलता बराबर हो।
+
+इसके अलावा, अब हमारे पास फार्मों के कई समूह हैं जिनकी CAKE एमिशन की अपनी अलग धारा है। और फार्मों का प्रत्येक समूह मल्टीप्लायर के अलग-अलग सेट साझा करता है।
+
+एक व्यक्तिगत फार्म को CAKE एमिशन मिलेगा:
+
+* A = उस फार्म समूह के लिए प्रति सेकंड/ब्लॉक कुल CAKE जिससे यह संबंधित है
+* B = उस समूह में मल्टीप्लायर की कुल संख्या जिससे यह संबंधित है
+* C = मल्टीप्लायर जो इसके पास है
 
 `CAKE per block/second = C / B * A`
 
-The above numbers can be found in each of the [MasterChef](/broken/pages/-MeTWzQOSmb1ej51HT0I) contracts.
+उपरोक्त संख्याएँ [MasterChef](/broken/pages/-MeTWzQOSmb1ej51HT0I) कॉन्ट्रैक्ट में से प्रत्येक में पाई जा सकती हैं।
 
 
 
-### Can I use bCAKE in v3 Farms?
+### क्या मैं v3 फार्मों में bCAKE का उपयोग कर सकता/सकती हूँ?
 
-Yes
+हाँ
 
-bCAKE for V3 Farms will come very soon after the deployment of PancakeSwap Farm V3. Stay tuned.
+V3 फार्मों के लिए bCAKE, PancakeSwap Farm V3 की तैनाती के तुरंत बाद आएगा। बने रहें।

@@ -1,90 +1,89 @@
 # Pancake Gifts FAQ
 
-This FAQ covers how Pancake Gifts work behind the scenes, what to expect in different scenarios, and why certain design choices were made.
+यह FAQ बताता है कि Pancake Gifts पर्दे के पीछे कैसे काम करते हैं, विभिन्न परिदृश्यों में क्या अपेक्षा करें, और कुछ डिज़ाइन निर्णय क्यों किए गए।
 
 ***
 
-## 1. 🔐 Gift Code Behavior & Access
+## 1. 🔐 Gift Code व्यवहार और एक्सेस
 
-### **1.1 Why isn’t the gift code stored?**
+### **1.1 Gift Code संग्रहीत क्यों नहीं किया जाता?**
 
-We **intentionally do not store** the gift code in:
+हम जानबूझकर gift code **संग्रहीत नहीं करते** हैं:
 
-* Frontend local storage
-* Backend databases
+* Frontend लोकल स्टोरेज में
+* बैकएंड डेटाबेस में
 
-This protects:
+यह सुरक्षित करता है:
 
-* User privacy
-* Security against device compromise
-* Accidental or malicious gift claims
+* उपयोगकर्ता की गोपनीयता
+* डिवाइस से समझौते के विरुद्ध सुरक्षा
+* आकस्मिक या दुर्भावनापूर्ण उपहार दावों से सुरक्षा
 
-### **1.2 Can I regenerate or retrieve the gift code later?**
+### **1.2 क्या मैं बाद में gift code पुनः उत्पन्न या पुनः प्राप्त कर सकता/सकती हूँ?**
 
-No. The gift code:
+नहीं। gift code:
 
-* Is shown **only once** during creation
-* Is embedded in the **link** or **QR code** generated
-* Will **not be displayed again** in the UI or history
+* निर्माण के दौरान **केवल एक बार** दिखाया जाता है
+* उत्पन्न **लिंक** या **QR कोड** में एम्बेड किया जाता है
+* UI या इतिहास में **फिर से प्रदर्शित नहीं होगा**
 
 {% hint style="warning" %}
-If the code is lost and you didn’t save the link or QR, the gift cannot be claimed manually. Instead, to retrieve your gift amount, you may manually cancel it.
+यदि कोड खो जाए और आपने लिंक या QR सेव नहीं किया, तो उपहार मैन्युअली दावा नहीं किया जा सकता। इसके बजाय, अपनी उपहार राशि वापस पाने के लिए, आप इसे मैन्युअली रद्द कर सकते हैं।
 {% endhint %}
 
-### **1.3 Will the gift code still be embedded in the share link or QR?**
+### **1.3 क्या gift code अभी भी शेयर लिंक या QR में एम्बेड रहेगा?**
 
-Yes:
+हाँ:
 
-* Share link includes the gift code (e.g. `pancakeswap.finance/gift#code=xxxx`)
-* QR code also embeds the gift code, but **cannot be regenerated later.**&#x20;
+* शेयर लिंक में gift code शामिल है (जैसे `pancakeswap.finance/gift#code=xxxx`)
+* QR कोड में भी gift code एम्बेड है, लेकिन **बाद में पुनः उत्पन्न नहीं किया जा सकता।**&#x20;
 
 {% hint style="success" %}
-**Pro Tip:**  Download the image once its generated
+**प्रो टिप:**  इसे उत्पन्न होने के बाद छवि डाउनलोड करें
 {% endhint %}
 
-* Manual claims require the actual gift code — no fallback if the link/QR is lost
+* मैनुअल दावों के लिए वास्तविक gift code आवश्यक है — यदि लिंक/QR खो जाए तो कोई विकल्प नहीं है
 
-## 2. 🎁 Gift Status & Expiry
+## 2. 🎁 Gift की स्थिति और समाप्ति
 
-### **2.1 Can I view whether a gift has been claimed, cancelled, or expired?**
+### **2.1 क्या मैं देख सकता/सकती हूँ कि कोई उपहार दावा, रद्द या समाप्त हुआ है?**
 
-Yes. The **Gift History** section shows:
+हाँ। **Gift History** सेक्शन दिखाता है:
 
-* Status: Pending / Claimed / Cancelled / Expired / Unclaimable
-* Gift details (token, amount, type, chain, timestamps)
+* स्थिति: Pending / Claimed / Cancelled / Expired / Unclaimable
+* Gift विवरण (टोकन, राशि, प्रकार, चेन, टाइमस्टैम्प)
 
-### **2.2 What happens when a gift expires?**
+### **2.2 उपहार समाप्त होने पर क्या होता है?**
 
-If a gift is not claimed within the default **7-day window**:
+यदि कोई उपहार डिफ़ॉल्ट **7-दिन की विंडो** के भीतर दावा नहीं किया जाता:
 
-* The **entire gift amount is refunded** to the creator’s wallet
-* The fixed **claim gas fee (\~$0.05) is not returned**
+* **पूरी उपहार राशि** निर्माता के वॉलेट में वापस आ जाती है
+* निश्चित **claim gas fee (\~$0.05) वापस नहीं की जाती**
 
-## 3. 🧠 Claim Logic & Limitations
+## 3. 🧠 दावा तर्क और सीमाएं
 
-### **3.1 Can users claim a gift on a different chain from the one it was created on?**
+### **3.1 क्या उपयोगकर्ता किसी ऐसी चेन पर उपहार दावा कर सकते हैं जो उस चेन से अलग हो जिस पर बनाया गया था?**
 
-No. A gift is **chain-bound**:
+नहीं। एक उपहार **चेन-बाउंड** है:
 
-* A gift created on **BSC** must be claimed on **BSC**
-* Cross-chain gifting is not currently supported
+* **BSC** पर बनाया गया उपहार **BSC** पर ही दावा किया जाना चाहिए
+* क्रॉस-चेन gifting वर्तमान में समर्थित नहीं है
 
-## 4. ⛽ Gas Fees & Design
+## 4. ⛽ गैस शुल्क और डिज़ाइन
 
-### **4.1 How is the fixed gas amount for gift creation decided?**
+### **4.1 उपहार निर्माण के लिए निश्चित गैस राशि कैसे तय की जाती है?**
 
-We set a flat gas price based on current BNB chain conditions (\~5 times current recommended Gas amount).
+हम वर्तमान BNB चेन स्थितियों के आधार पर एक फ्लैट गैस मूल्य निर्धारित करते हैं (\~5 गुना वर्तमान अनुशंसित Gas राशि)।
 
-This buffer:
+यह बफर:
 
-* Protects against sudden gas spikes
-* Ensures gifts remain claimable under normal volatility
+* अचानक गैस उछाल से सुरक्षित करता है
+* सामान्य उतार-चढ़ाव में उपहारों को दावा योग्य रखता है
 
 \
-Example
+उदाहरण
 
-* **Current recommended: 0.1 Gwei** (see: [BNB Gas Tracker](https://bscscan.com/gastracker))
-* **Therefore, Fixed gas claim fee= 0.1 Gwei x 5 = 0.5 Gwei**
-
+* **वर्तमान अनुशंसित: 0.1 Gwei** (देखें: [BNB Gas Tracker](https://bscscan.com/gastracker))
+* **इसलिए, निश्चित gas claim fee= 0.1 Gwei x 5 = 0.5 Gwei**
 
 

@@ -6,73 +6,73 @@ hidden: true
 
 <figure><img src="https://lh3.googleusercontent.com/pHBaGjeEHE3pCfmOWyBxvRThu0HiDK9K3jAhAN9dLka4c3zBDij-n0e9yY4LA6YjqYj2m4tBPjfoGoZunt2VCwTcDqtlWU5Km61x2IQ_T66olebgLn-yy1VodKww4Fn2YQuR_fwcJSAbR0MgsHkD0RY" alt=""><figcaption></figcaption></figure>
 
-### Market Maker Integration on Ethereum
+### Ethereum पर Market Maker Integration
 
-PancakeSwap is integrated with market makers on Ethereum and Binance Smart Chain to help traders execute trades at a lower cost.
+PancakeSwap, Ethereum और Binance Smart Chain पर मार्केट मेकर्स के साथ एकीकृत है ताकि ट्रेडर्स कम लागत पर ट्रेड निष्पादित कर सकें।
 
-In addition to the AMM, trades on PancakeSwap can now be routed to designated white-listed market makers if they offer trade execution that is better than the AMM’s current prices. This routing is done automatically by a [Smart Router](smart-router-v2/) so that trades are only routed to market makers when they are actively quoting better prices. Where the AMM is more competitive, traders will be routed to the AMMs for execution.
+AMM के अतिरिक्त, PancakeSwap पर ट्रेड अब निर्दिष्ट श्वेतसूचीबद्ध (whitelisted) मार्केट मेकर्स को रूट किए जा सकते हैं यदि वे AMM के वर्तमान मूल्यों से बेहतर ट्रेड निष्पादन प्रदान करते हैं। यह रूटिंग एक [Smart Router](smart-router-v2/) द्वारा स्वतः की जाती है ताकि ट्रेड केवल तभी मार्केट मेकर्स को रूट किए जाएं जब वे सक्रिय रूप से बेहतर मूल्य उद्धृत कर रहे हों। जहाँ AMM अधिक प्रतिस्पर्धी हो, वहाँ ट्रेडर्स को निष्पादन के लिए AMM की ओर रूट किया जाएगा।
 
-There are 2 scenarios in which market makers operate on PancakeSwap.
+PancakeSwap पर मार्केट मेकर्स दो परिदृश्यों में कार्य करते हैं।
 
-**Scenario 1: Existing AMM liquidity pools**
+**परिदृश्य 1: मौजूदा AMM तरलता पूल**
 
-If PancakeSwap already has liquidity for a given token (e.g. WETH/USDC) in the AMM, PancakeSwap will ask market makers for a quote on the same trade. PancakeSwap’s smart router will then route the trade request to the AMM or the market makers depending on which source of liquidity is giving the best price at any given time.
+यदि PancakeSwap के पास AMM में किसी टोकन (जैसे WETH/USDC) के लिए पहले से तरलता है, तो PancakeSwap उसी ट्रेड के लिए मार्केट मेकर्स से उद्धरण माँगेगा। PancakeSwap का smart router फिर किसी भी समय सबसे अच्छा मूल्य देने वाले तरलता स्रोत — AMM या मार्केट मेकर्स — को ट्रेड अनुरोध रूट करेगा।
 
-**Scenario 2: No existing AMM liquidity pools**
+**परिदृश्य 2: कोई मौजूदा AMM तरलता पूल नहीं**
 
-In such a scenario, the smart router will automatically route the trade to the market makers. However, this does not stop projects from setting up their AMM liquidity pool subsequently and working with us to maintain decentralized DEX liquidity.
+ऐसे परिदृश्य में, smart router स्वतः ट्रेड को मार्केट मेकर्स को रूट करेगा। हालाँकि, इससे प्रोजेक्ट्स को बाद में अपना AMM तरलता पूल स्थापित करने और विकेंद्रीकृत DEX तरलता बनाए रखने के लिए हमारे साथ काम करने से नहीं रोका जाता।
 
 ### Fees
 
 <figure><img src="https://lh6.googleusercontent.com/FKgYOPK6ykAbonNz4naPupdPg4W5XocmUJOEYeH7MsmY-0TrkSepYB2qir4PGlfgY6CKTS0nOq5XIXzm3dO9wGr-9pvXz1NXLSGMg3Ff9IlqIokcHiNDsB9eaoy3l395TL-O71480hetL-iRq1ILhUw" alt=""><figcaption></figcaption></figure>
 
-PancakeSwap does not charge traders any fees executed through us and which are executed by the market makers. However, PancakeSwap receives **0.05%** **trading fees** from whitelisted market makers for volumes executed by them. PancakeSwap receives a reduced **0.01%** **trading fee** if the trades executed are between stablecoin pairs. Please refer to the fee breakdown below:<br>
+PancakeSwap हमारे माध्यम से मार्केट मेकर्स द्वारा निष्पादित ट्रेड पर ट्रेडर्स से कोई शुल्क नहीं लेता। हालाँकि, PancakeSwap को श्वेतसूचीबद्ध मार्केट मेकर्स से निष्पादित वॉल्यूम के लिए **0.05%** **ट्रेडिंग शुल्क** प्राप्त होता है। यदि निष्पादित ट्रेड stablecoin जोड़ियों के बीच हों तो PancakeSwap को घटाकर **0.01%** **ट्रेडिंग शुल्क** मिलता है। कृपया नीचे दिया गया शुल्क विवरण देखें:<br>
 
-<table><thead><tr><th width="178">Trades</th><th width="138">Trading Fees</th><th width="182">PCS fee from MM</th><th width="147">Cake Burn</th><th align="center">Pancakeswap Treasury</th></tr></thead><tbody><tr><td>Bridged coins from other networks</td><td>N/A</td><td>0.25%</td><td>0.083%</td><td align="center">0.167%</td></tr><tr><td>Non-stablecoin on Ethereum (e.g. ETH/USDC)</td><td>N/A</td><td>0.05%</td><td>0.017%</td><td align="center">0.033%</td></tr><tr><td>Non-stablecoin on BSC (e.g. BNB/USDT)</td><td>N/A</td><td>0.05%</td><td>0.017% </td><td align="center">0.033%</td></tr><tr><td>Stablecoin to Stablecoin on Ethereum</td><td>N/A</td><td>0.01%</td><td>0.003%</td><td align="center">0.007%</td></tr></tbody></table>
+<table><thead><tr><th width="178">Trades</th><th width="138">Trading Fees</th><th width="182">PCS fee from MM</th><th width="147">Cake Burn</th><th align="center">Pancakeswap Treasury</th></tr></thead><tbody><tr><td>अन्य नेटवर्क से ब्रिज किए गए सिक्के</td><td>N/A</td><td>0.25%</td><td>0.083%</td><td align="center">0.167%</td></tr><tr><td>Ethereum पर Non-stablecoin (जैसे ETH/USDC)</td><td>N/A</td><td>0.05%</td><td>0.017%</td><td align="center">0.033%</td></tr><tr><td>BSC पर Non-stablecoin (जैसे BNB/USDT)</td><td>N/A</td><td>0.05%</td><td>0.017% </td><td align="center">0.033%</td></tr><tr><td>Ethereum पर Stablecoin से Stablecoin</td><td>N/A</td><td>0.01%</td><td>0.003%</td><td align="center">0.007%</td></tr></tbody></table>
 
-#### Assets currently supported
+#### वर्तमान में समर्थित संपत्तियाँ
 
-The following assets are currently supported and may increase/decrease depending on the market maker(s):
+निम्नलिखित संपत्तियाँ वर्तमान में समर्थित हैं और मार्केट मेकर(ों) के आधार पर बढ़/घट सकती हैं:
 
-**On Ethereum**
+**Ethereum पर**
 
 * **Majors:** WETH, WBTC
 * **Stablecoins:** USDT, USDC, DAI, BUSD
-* **Other popular ERC-20 assets:** MATIC, DYDX, CRV, LINK, APE, CVX, STG, LDO, SNX, RNDR, FET
+* **अन्य लोकप्रिय ERC-20 संपत्तियाँ:** MATIC, DYDX, CRV, LINK, APE, CVX, STG, LDO, SNX, RNDR, FET
 
-**On Binance Smart Chain:**
+**Binance Smart Chain पर:**
 
 * **Majors:** BNB, ETH, BTCB
 * Non-native BNB tokens: ARB, OP
 
-Please note that unlike AMMs, market makers will not be able to trade at any amount and the amounts they are willing to execute will depend on their own liquidity. It is not unusual that sometimes very large orders cannot be totally fulfilled. We advise users to please review the quotes carefully to ensure that each trade reflects the price and quantity according to their needs.
+कृपया ध्यान दें कि AMM के विपरीत, मार्केट मेकर्स किसी भी मात्रा में व्यापार नहीं कर सकते और वे जिस मात्रा को निष्पादित करने के लिए तैयार हैं वह उनकी अपनी तरलता पर निर्भर करती है। यह असामान्य नहीं है कि कभी-कभी बहुत बड़े आदेश पूरी तरह से पूरे नहीं किए जा सकते। हम उपयोगकर्ताओं को सलाह देते हैं कि वे उद्धरणों की सावधानीपूर्वक समीक्षा करें ताकि यह सुनिश्चित हो सके कि प्रत्येक ट्रेड उनकी आवश्यकताओं के अनुसार मूल्य और मात्रा को दर्शाता है।
 
-**Market maker downtimes**
+**मार्केट मेकर का डाउनटाइम**
 
-Market makers are not expected to quote 24-7. There are some instances (e.g. key economic events, system upgrades) where the market maker may be temporarily unavailable to provide a quote. Please note during these periods, these tokens will simply not be tradable, and we advise users to wait for some time before the market maker comes back online.
+मार्केट मेकर्स से 24-7 उद्धरण देने की उम्मीद नहीं की जाती। कुछ स्थितियों (जैसे प्रमुख आर्थिक घटनाएँ, सिस्टम अपग्रेड) में मार्केट मेकर अस्थायी रूप से उद्धरण देने में असमर्थ हो सकता है। कृपया ध्यान दें कि इन अवधियों के दौरान, ये टोकन सीधे ट्रेड योग्य नहीं होंगे, और हम उपयोगकर्ताओं को सलाह देते हैं कि मार्केट मेकर के वापस ऑनलाइन आने तक कुछ समय प्रतीक्षा करें।
 
-#### FAQs
+#### अक्सर पूछे जाने वाले सवाल (FAQ)
 
-**Q.** Will the market makers be integrated on Aptos?
+**प्र.** क्या मार्केट मेकर्स Aptos पर एकीकृत किए जाएंगे?
 
-**Ans:** Possibly, we are only launching market makers integration on Ethereum and Binance Smart Chain for now to boost the liquidity for a better user experience. We will continue to monitor other chains.
+**उ.:** संभवतः, हम फिलहाल केवल Ethereum और Binance Smart Chain पर मार्केट मेकर्स का एकीकरण लॉन्च कर रहे हैं ताकि बेहतर उपयोगकर्ता अनुभव के लिए तरलता बढ़ाई जा सके। हम अन्य चेन की निगरानी जारी रखेंगे।
 
-**Q.** How will PancakeSwap generate revenue if it does not charge users a fee?
+**प्र.** यदि PancakeSwap उपयोगकर्ताओं से शुल्क नहीं लेता तो राजस्व कैसे उत्पन्न होगा?
 
-**Ans:** PancakeSwap will not charge any fees from users, but PancakeSwap will receive a small commission from market makers and use that to fund the CAKE buyback and burn.
+**उ.:** PancakeSwap उपयोगकर्ताओं से कोई शुल्क नहीं लेगा, लेकिन PancakeSwap को मार्केट मेकर्स से एक छोटा कमीशन प्राप्त होगा और उसका उपयोग CAKE buyback और burn के लिए किया जाएगा।
 
-**Q.** Will Liquidity providers continue to earn LP fees?
+**प्र.** क्या Liquidity providers LP शुल्क अर्जित करना जारी रखेंगे?
 
-**Ans:** Yes, liquidity providers will continue to earn 0.17% trading fee reward (LP fees) and yield on the CAKE farms.
+**उ.:** हाँ, तरलता प्रदाता 0.17% ट्रेडिंग शुल्क पुरस्कार (LP fees) और CAKE फार्म पर yield अर्जित करना जारी रखेंगे।
 
-**Q.** Will the market makers add liquidity to the AMM? Will that cause APR to go down?
+**प्र.** क्या मार्केट मेकर्स AMM में तरलता जोड़ेंगे? क्या इससे APR कम होगी?
 
-**Ans:** Market makers maintain their own separate liquidity, and hence won’t be earning any APR from trades on the AMM. Only LPs will earn fees and APRs from providing liquidity to the AMM pools.
+**उ.:** मार्केट मेकर्स अपनी अलग तरलता बनाए रखते हैं, और इसलिए AMM पर ट्रेड से कोई APR नहीं अर्जित करेंगे। केवल LPs ही AMM पूलों को तरलता प्रदान करने से शुल्क और APR अर्जित करेंगे।
 
-**Q.** I’m providing liquidity on Ethereum PancakeSwap. Do I need to do anything?
+**प्र.** मैं Ethereum PancakeSwap पर तरलता प्रदान कर रहा/रही हूँ। क्या मुझे कुछ करना होगा?
 
-**Ans:** No, You don’t have to do anything. You will continue to earn the LP fees for the trades executed through AMM and will continue to make the yield in CAKE.
+**उ.:** नहीं, आपको कुछ नहीं करना है। आप AMM के माध्यम से निष्पादित ट्रेड के लिए LP शुल्क अर्जित करना जारी रखेंगे और CAKE में yield बनाना जारी रखेंगे।
 
-**Q.** How can someone become a market maker?
+**प्र.** कोई मार्केट मेकर कैसे बन सकता है?
 
-**Ans:** We screen and work with market makers on an individual basis. Please approach us directly or through our admins if you have an interest in working with us.
+**उ.:** हम मार्केट मेकर्स के साथ व्यक्तिगत आधार पर जाँच और कार्य करते हैं। यदि आप हमारे साथ काम करने में रुचि रखते हैं तो कृपया सीधे हमसे या हमारे एडमिन के माध्यम से संपर्क करें।

@@ -4,36 +4,36 @@ hidden: true
 
 # Product Manager
 
-#### General Information
+#### सामान्य जानकारी
 
-* Salary range: Competitive, negotiable
-* Position: Full-time
-* Location: Remote
-* Time-zone preference: Any
+* वेतन सीमा: प्रतिस्पर्धी, वार्ता योग्य
+* पद: पूर्णकालिक
+* स्थान: रिमोट
+* समय क्षेत्र प्राथमिकता: कोई भी
 
-#### Your Responsibilities
+#### आपकी जिम्मेदारियाँ
 
-* Collaborate with internal stakeholders (leads, design, devs, bd, marketing, qa, data, ops) to craft future PancakeSwap products from 0 to 1
+* भविष्य के PancakeSwap उत्पादों को 0 से 1 तक तैयार करने के लिए आंतरिक हितधारकों (लीड्स, डिज़ाइन, डेव, bd, मार्केटिंग, qa, डेटा, ऑपरेशन्स) के साथ सहयोग करें
 
-#### Skills & Qualifications
+#### कौशल और योग्यताएँ
 
-* 3+ years experience in Crypto/DeFi/DEX and financial services/products.
-* Experience in full flow of product development, including:
-  * Perform market research and identify potential product usecases.
-  * Turn requirements and ideas from other stakeholders in to complete designs.
-  * Visualise userflow with wireframe and assist design to complete the UI/UX.
-  * Assist and work with the dev team to build the product.
-  * Resolve product issues with qa team.
-  * Plan GTM strategies and campaigns with marketing team.
-  * Coordinate with external members from partners.
-  * Help ops team to perform product deployment.
-  * Analyse data and improve product experience with data team.
-* Gather info, provide options to other stakeholders to make critical decisions when needed.
-* Able to work remotely, autonomously with great self initiative.
+* Crypto/DeFi/DEX और वित्तीय सेवाओं/उत्पादों में 3+ वर्षों का अनुभव।
+* प्रोडक्ट विकास के पूर्ण प्रवाह का अनुभव, जिसमें शामिल हैं:
+  * बाज़ार अनुसंधान करें और संभावित प्रोडक्ट उपयोग मामलों की पहचान करें।
+  * अन्य हितधारकों की आवश्यकताओं और विचारों को पूर्ण डिज़ाइन में बदलें।
+  * वायरफ्रेम के साथ उपयोगकर्ता प्रवाह विज़ुअलाइज़ करें और UI/UX पूरा करने में डिज़ाइन की सहायता करें।
+  * प्रोडक्ट बनाने के लिए डेव टीम के साथ सहायता और काम करें।
+  * qa टीम के साथ प्रोडक्ट समस्याओं को हल करें।
+  * मार्केटिंग टीम के साथ GTM रणनीतियाँ और अभियान बनाएँ।
+  * साझेदारों के बाहरी सदस्यों के साथ समन्वय करें।
+  * प्रोडक्ट परिनियोजन करने में ops टीम की मदद करें।
+  * डेटा टीम के साथ डेटा का विश्लेषण करें और प्रोडक्ट अनुभव को बेहतर बनाएँ।
+* जब आवश्यक हो तो महत्वपूर्ण निर्णय लेने के लिए अन्य हितधारकों को जानकारी इकट्ठा करें और विकल्प प्रदान करें।
+* महान स्व-पहल के साथ रिमोट, स्वायत्त रूप से काम करने में सक्षम।
 
-#### Nice to Have
+#### अच्छा होगा यदि आपके पास हो
 
-* Technical background of blockchain and Web3. (to assist dev team to plan ahead when designing products. Think inside of the blockchain limitations, but think outside of the box for solutions)
-* Skills for blockchain deep dive, tx debug (to better assist qa and ops)
-* Figma skills (to build pretty mock-ups on your own with a design system)
-* Mandarin (to communicate with some other skillful bunnies)
+* ब्लॉकचेन और Web3 का तकनीकी पृष्ठभूमि। (उत्पाद डिज़ाइन करते समय पहले से योजना बनाने में dev टीम की सहायता के लिए। ब्लॉकचेन की सीमाओं के भीतर सोचें, लेकिन समाधानों के लिए बॉक्स से बाहर सोचें)
+* ब्लॉकचेन गहन जाँच, tx डीबग के लिए कौशल (qa और ops को बेहतर सहायता करने के लिए)
+* Figma कौशल (डिज़ाइन सिस्टम के साथ अपने आप अच्छे मॉकअप बनाने के लिए)
+* मंदारिन (कुछ अन्य कुशल बनीज़ के साथ संवाद करने के लिए)

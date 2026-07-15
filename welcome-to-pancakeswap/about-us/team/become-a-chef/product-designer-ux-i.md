@@ -4,45 +4,45 @@ hidden: true
 
 # Product Designer (UX/I)
 
-### **General Information**
+### **सामान्य जानकारी**
 
-* Salary range: Competitive, negotiable
-* Position: Full-time
-* Location: Remote
-* Time-zone preference: Any
+* वेतन सीमा: प्रतिस्पर्धी, वार्ता योग्य
+* पद: पूर्णकालिक
+* स्थान: रिमोट
+* समय क्षेत्र प्राथमिकता: कोई भी
 
-### About the role
+### भूमिका के बारे में
 
-* You see the endless potential to differentiate DeFi experiences with exciting new features and user experiences that make crypto more accessible to the masses.
-* You’re passionate about crypto and DeFi, NFTs, DAO, tokenomics, and the overall Web 3.0
-* You can think big, push the boundaries of what is possible and are able to communicate and influence these ideas effectively. You live and breathe Figma.
-* You're agile and can thrive in fast moving environments - especially since Web3 is constantly evolving. What you worked on last month may not be what you work on the next day, and that excites you. You’re not looking for a traditional web2 job.
-* You share the mindset that ‘Nothing should be someone else’s problem’. Owning a problem doesn’t scare you but empowers you to take 100% responsibility for achieving goals and results. You want to be part of a winning and agile team with a global and diverse background
+* आप रोमांचक नए फीचर और उपयोगकर्ता अनुभवों के साथ DeFi अनुभवों को अलग करने की असीमित संभावना देखते हैं जो क्रिप्टो को आम लोगों के लिए अधिक सुलभ बनाते हैं।
+* आप क्रिप्टो और DeFi, NFT, DAO, टोकनोमिक्स और समग्र Web 3.0 के प्रति जुनूनी हैं।
+* आप बड़ा सोच सकते हैं, संभव की सीमाओं को धकेल सकते हैं और इन विचारों को प्रभावी ढंग से संप्रेषित और प्रभावित कर सकते हैं। आप Figma में जीते-जागते हैं।
+* आप चुस्त हैं और तेज़-गति वाले वातावरण में पनप सकते हैं — विशेष रूप से क्योंकि Web3 लगातार विकसित हो रहा है। पिछले महीने आपने जो काम किया वह अगले दिन वही नहीं हो सकता, और यह आपको उत्साहित करता है। आप पारंपरिक web2 नौकरी नहीं ढूंढ रहे हैं।
+* आप इस सोच को साझा करते हैं कि 'कोई भी समस्या किसी और की नहीं होनी चाहिए'। किसी समस्या का स्वामित्व लेना आपको डराता नहीं बल्कि आपको लक्ष्य और परिणाम प्राप्त करने की 100% जिम्मेदारी लेने का अधिकार देता है। आप एक वैश्विक और विविध पृष्ठभूमि वाली जीतने वाली और चुस्त टीम का हिस्सा बनना चाहते हैं।
 
-### What you will do
+### आप क्या करेंगे
 
-* You will participate in the roadmap of the design team
-* Design both web and mobile experiences that solve the needs for a wide range of DeFi users, from the newbie to the crypto expert
-* Take new features from ideation to prototyping, user testing and production
-* Collaborate closely with product managers, engineering, business development and marketing teams
-* You will be interacting directly with end-users and developers to collect feedback and develop user empathy
-* You'll be a key part of a small agile team.
+* आप डिज़ाइन टीम के रोडमैप में भाग लेंगे
+* नौसिखिए से लेकर क्रिप्टो विशेषज्ञ तक DeFi उपयोगकर्ताओं की विस्तृत श्रृंखला की जरूरतों को हल करने वाले वेब और मोबाइल अनुभव दोनों डिज़ाइन करें
+* नए फीचर को विचार से प्रोटोटाइप, उपयोगकर्ता परीक्षण और उत्पादन तक ले जाएँ
+* प्रोडक्ट मैनेजरों, इंजीनियरिंग, बिज़नेस डेवलपमेंट और मार्केटिंग टीमों के साथ घनिष्ठ सहयोग करें
+* आप प्रतिक्रिया एकत्र करने और उपयोगकर्ता सहानुभूति विकसित करने के लिए अंतिम-उपयोगकर्ताओं और डेवलपर्स के साथ सीधे बातचीत करेंगे
+* आप एक छोटी चुस्त टीम का महत्वपूर्ण हिस्सा होंगे।
 
-### **Key skills**
+### **प्रमुख कौशल**
 
-* Extremely user-focused mindset
-* 3+ years full-time Product Designer experience or
-* 3+ years full-time experience of designing consumer-facing experiences for web and mobile apps
-* Knowledgeable and interested in Web3 space
-* Ability to provide end-to-end design solution - from user research to prototyping.
-* Ability to create thoughtful UI and UX and written communication to both frame and explain concepts
-* Demonstrated interest in open and community-driven platforms
-* Thrive in uncertainty and challenges: proactive, hands-on, self-starter and perseverant
-* Collaborative and open-minded
-* Strong communication in oral and written English
-* Strong values, ethics and integrity
-* Strong intellectual curiosity and honesty, Bachelor’s or Master's Degree
+* अत्यधिक उपयोगकर्ता-केंद्रित सोच
+* 3+ वर्षों का पूर्णकालिक Product Designer अनुभव या
+* वेब और मोबाइल ऐप के लिए उपभोक्ता-सामना करने वाले अनुभव डिज़ाइन करने का 3+ वर्षों का पूर्णकालिक अनुभव
+* Web3 क्षेत्र का ज्ञान और रुचि
+* उपयोगकर्ता अनुसंधान से लेकर प्रोटोटाइप तक end-to-end डिज़ाइन समाधान प्रदान करने की क्षमता।
+* विचारशील UI और UX बनाने और अवधारणाओं को स्पष्ट करने और समझाने के लिए लिखित संचार की क्षमता
+* खुले और समुदाय-संचालित प्लेटफ़ॉर्म में प्रदर्शित रुचि
+* अनिश्चितता और चुनौतियों में पनपना: सक्रिय, व्यावहारिक, स्व-प्रारंभकर्ता और दृढ़
+* सहयोगी और खुले विचारों वाले
+* मौखिक और लिखित अंग्रेज़ी में मजबूत संचार
+* मजबूत मूल्य, नैतिकता और ईमानदारी
+* मजबूत बौद्धिक जिज्ञासा और ईमानदारी, स्नातक या मास्टर डिग्री
 
-### **How to apply**
+### **आवेदन कैसे करें**
 
-Email [hiring@pancakeswap.com](mailto:hiring@pancakeswap.com) with your resume! A portfolio or UX/I Case-study is a must.
+अपना रेज़्यूमे [hiring@pancakeswap.com](mailto:hiring@pancakeswap.com) पर ईमेल करें! पोर्टफोलियो या UX/I केस-स्टडी अनिवार्य है।

@@ -1,136 +1,136 @@
 # 🌊 Liquidity Pools
 
-![](../../.gitbook/assets/liquidity-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/liquidity-header.png)
 
 ## Exchange V3 <a href="#id-03e94594-5a75-4687-b260-0dc69574b953" id="id-03e94594-5a75-4687-b260-0dc69574b953"></a>
 
-In the new Exchange V3, liquidity will be managed in the form of non-fungible positions. You will still earn a share in the fees while providing liquidity.
+नए Exchange V3 में, तरलता को नॉन-फंजिबल पोजीशन के रूप में प्रबंधित किया जाएगा। तरलता प्रदान करते समय आप शुल्क में अपना हिस्सा अर्जित करते रहेंगे।
 
-When you add your token to a Liquidity Pool you will receive Liquidity Provider NFT tokens and share in the fees.
+जब आप किसी Liquidity Pool में अपना टोकन जोड़ते हैं, तो आपको Liquidity Provider NFT टोकन प्राप्त होंगे और शुल्क में हिस्सा मिलेगा।
 
-### **Non-fungible liquidity positions**
+### **नॉन-फंजिबल तरलता पोजीशन**
 
-<figure><img src="../../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28238%29.png" alt=""><figcaption></figcaption></figure>
 
-In V3, liquidity providers now have more control over what price range they want to deploy their liquidity. So, when you add your token to a Liquidity Pool in V3, you will create a new non-fungible liquidity position with its unique settings.
+V3 में, तरलता प्रदाताओं को अब इस पर अधिक नियंत्रण मिलता है कि वे किस मूल्य सीमा में अपनी तरलता तैनात करना चाहते हैं। इसलिए, जब आप V3 में किसी Liquidity Pool में अपना टोकन जोड़ते हैं, तो आप अपनी विशिष्ट सेटिंग के साथ एक नई नॉन-फंजिबल तरलता पोजीशन बनाएंगे।
 
-Therefore, in V3, liquidity positions are NFTs. Please note that these NFTs are transferable, and they represent the ownership of the underlying assets and the trading fees they earned.
+अतः V3 में, तरलता पोजीशन NFT हैं। कृपया ध्यान दें कि ये NFT हस्तांतरणीय हैं, और ये अंतर्निहित संपत्ति और अर्जित ट्रेडिंग शुल्क के स्वामित्व का प्रतिनिधित्व करते हैं।
 
-In V3, trading fees will no longer be automatically compounded in the position. You can manually claim them on each of the position detail pages.
+V3 में, ट्रेडिंग शुल्क अब पोजीशन में स्वचालित रूप से कम्पाउंड नहीं होंगे। आप प्रत्येक पोजीशन विवरण पृष्ठ पर उन्हें मैन्युअल रूप से क्लेम कर सकते हैं।
 
-You can redeem your funds at any time by removing your liquidity.
+आप अपनी तरलता हटाकर किसी भी समय अपना धन वापस ले सकते हैं।
 
-### **Active liquidity and price ranges**
+### **सक्रिय तरलता और मूल्य सीमाएं**
 
-In V3, liquidity providers can configure their positions to only provide liquidity when the price is within a certain range. If the trading price moves out of the range, the position will consist of only one type of token in the pair and become inactive.
+V3 में, तरलता प्रदाता अपनी पोजीशन को केवल तभी तरलता प्रदान करने के लिए कॉन्फ़िगर कर सकते हैं जब मूल्य एक निश्चित सीमा के भीतर हो। यदि ट्रेडिंग मूल्य उस सीमा से बाहर चला जाता है, तो पोजीशन में केवल एक प्रकार का टोकन रहेगा और वह निष्क्रिय हो जाएगी।
 
-Inactive liquidity positions will not participate in trading or earn any trading fees.
+निष्क्रिय तरलता पोजीशन ट्रेडिंग में भाग नहीं लेंगी और कोई ट्रेडिंग शुल्क नहीं अर्जित करेंगी।
 
-### **Concentrated liquidity**
+### **केंद्रित तरलता**
 
-In V3, because of liquidity providers can concentrate their token deposits to provide liquidity only within a specific price range. With the same amount of underlying assets, V3 can support a much bigger trade.
+V3 में, क्योंकि तरलता प्रदाता अपनी टोकन जमा को केवल एक विशिष्ट मूल्य सीमा के भीतर तरलता प्रदान करने के लिए केंद्रित कर सकते हैं। समान मात्रा में अंतर्निहित संपत्ति के साथ, V3 बहुत बड़े व्यापार को सपोर्ट कर सकता है।
 
-It results in a much higher relative liquidity level when compared to V2. And liquidity providers can earn more trading fees with the same amount of capital.
+यह V2 की तुलना में बहुत उच्च सापेक्ष तरलता स्तर में परिणत होता है। और तरलता प्रदाता उसी पूंजी से अधिक ट्रेडिंग शुल्क अर्जित कर सकते हैं।
 
-Here is an example:
+यहां एक उदाहरण है:
 
-> Baller and Claire both provided liquidity in CAKE/USDT pool with $1,000 USD worth of token assets. The current price of CAKE is 5 USDT.
+> Baller और Claire दोनों ने CAKE/USDT pool में $1,000 USD मूल्य की टोकन संपत्ति के साथ तरलता प्रदान की। CAKE की वर्तमान कीमत 5 USDT है।
 >
-> Similar to PancakeSwap v2, Baller provided his liquidity across the entire price range. Therefore he deposited all of his capital, 500 USDT and 100 CAKE.
+> PancakeSwap v2 की तरह, Baller ने पूरी मूल्य सीमा में अपनी तरलता प्रदान की। इसलिए उसने अपनी पूरी पूंजी, 500 USDT और 100 CAKE जमा की।
 >
-> Claire utilize the new concentrated liquidity feature in PancakeSwap v3 and created a position with a price range of 2 to 12.5 USDT per CAKE. She deposited 185 USDT and 37 CAKE, worth a total of $370. She is now able to spend the remaining $630 elsewhere, like locking CAKE in the Syrup pool to enjoy high CAKE yield while receiving a series of PancakeSwap ecosystem benefits.
+> Claire ने PancakeSwap v3 में नई केंद्रित तरलता सुविधा का उपयोग किया और प्रति CAKE 2 से 12.5 USDT की मूल्य सीमा के साथ एक पोजीशन बनाई। उसने 185 USDT और 37 CAKE जमा किए, जिनकी कुल कीमत $370 है। अब वह शेष $630 अन्यत्र खर्च कर सकती है, जैसे उच्च CAKE यील्ड का आनंद लेने और PancakeSwap इकोसिस्टम के लाभ प्राप्त करने के लिए Syrup pool में CAKE लॉक करना।
 >
-> As long as CAKE stays within the price range of 2 to 12.5, both Baller and Claire will receive the same amount of trading fee rewards while Claire deposited way less capital to the liquidity pool.
+> जब तक CAKE 2 से 12.5 की मूल्य सीमा के भीतर रहे, Baller और Claire दोनों को समान ट्रेडिंग शुल्क पुरस्कार मिलेंगे, जबकि Claire ने Liquidity Pool में बहुत कम पूंजी जमा की।
 
-### **Trading fees**&#x20;
+### **ट्रेडिंग शुल्क**&#x20;
 
-Providing liquidity gives you a reward in the form of trading fees when people use your liquidity pool to complete swaps.
+तरलता प्रदान करने पर आपको ट्रेडिंग शुल्क के रूप में पुरस्कार मिलता है, जब लोग Swap पूरा करने के लिए आपके Liquidity Pool का उपयोग करते हैं।
 
-Whenever someone trades on PancakeSwap, for each hop (swap) in each Exchange V3 liquidity pool, depending on the liquidity pool fee tier, the trader pays a fee ranging from 0.01% to 1%. Their fee rates and fee breakdowns are shown as follows:
+जब भी कोई PancakeSwap पर व्यापार करता है, तो Exchange V3 के प्रत्येक Liquidity Pool में प्रत्येक हॉप (Swap) के लिए, Liquidity Pool शुल्क स्तर के आधार पर, व्यापारी 0.01% से 1% तक का शुल्क देता है। उनकी शुल्क दरें और शुल्क विवरण निम्नानुसार दर्शाए गए हैं:
 
 <details>
 
-<summary>Trading Fees (EVM)</summary>
+<summary>ट्रेडिंग शुल्क (EVM)</summary>
 
-| Fee Component / Fee tier | 0.01% | 0.05% | 0.25% | 1%  |
+| शुल्क घटक / शुल्क स्तर | 0.01% | 0.05% | 0.25% | 1%  |
 | ------------------------ | ----- | ----- | ----- | --- |
 | Liquidity Provider       | 67%   | 66%   | 68%   | 68% |
 | CAKE Burn                | 15%   | 15%   | 23%   | 23% |
 | Treasury                 | 18%   | 19%   | 9%    | 9%  |
 
-For example, in a 0.25% fee tier pool:
+उदाहरण के लिए, 0.25% शुल्क स्तर वाले pool में:
 
-* Among all the active (in-range) liquidity positions, there are a total of 10 CAKE and 10 BNB tokens.
-* Someone trades 1 CAKE for 1 BNB.
-* Someone else trades 1 BNB for 1 CAKE.
-* The liquidity providers who are in the range providing active liquidity earned a total of 0.0017 CAKE and 0.0017 BNB from the trades.
-* Positions with price ranges that are not covering the current price, therefore being inactive, will not contribute to trading or earn any fees.
+* सभी सक्रिय (इन-रेंज) तरलता पोजीशन में कुल 10 CAKE और 10 BNB टोकन हैं।
+* कोई व्यक्ति 1 CAKE से 1 BNB का व्यापार करता है।
+* कोई अन्य व्यक्ति 1 BNB से 1 CAKE का व्यापार करता है।
+* जो तरलता प्रदाता सक्रिय तरलता प्रदान कर रहे थे, उन्होंने व्यापारों से कुल 0.0017 CAKE और 0.0017 BNB अर्जित किया।
+* ऐसी पोजीशन जिनकी मूल्य सीमाएं वर्तमान कीमत को कवर नहीं करतीं, इसलिए निष्क्रिय हैं, वे ट्रेडिंग में योगदान नहीं करेंगी या कोई शुल्क नहीं अर्जित करेंगी।
 
 </details>
 
 <details>
 
-<summary><strong>Trading fees (Solana)</strong></summary>
+<summary><strong>ट्रेडिंग शुल्क (Solana)</strong></summary>
 
-**Available V3 CLMM Pool Fee Tiers:**\
+**उपलब्ध V3 CLMM Pool शुल्क स्तर:**\
 0.01%, 0.02%, 0.03%, 0.04%, 0.05%, 0.1%, 0.15%, 0.16%, 0.18%, 0.2%, 0.25%, 0.4%, 0.6%, 0.8%, 1%, 2%, 3%, 4%
 
-**Note:** The fee **distribution remains the same** across all fee tiers.
+**नोट:** शुल्क **वितरण सभी शुल्क स्तरों पर समान** रहता है।
 
-| Fee Component                 | % of Total Swap Fee | Description                                                   |
+| शुल्क घटक                    | कुल Swap शुल्क का % | विवरण                                                   |
 | ----------------------------- | ------------------- | ------------------------------------------------------------- |
-| **LPs (Liquidity Providers)** | 84%                 | Earned by LPs who provide liquidity in the active price range |
-| **Burn**                      | 8%                  | Permanently removed to reduce CAKE supply                     |
-| **Treasury**                  | 8%                  | Allocated to the PancakeSwap protocol treasury                |
+| **LP (Liquidity Providers)**  | 84%                 | सक्रिय मूल्य सीमा में तरलता प्रदान करने वाले LP द्वारा अर्जित |
+| **Burn**                      | 8%                  | CAKE आपूर्ति कम करने के लिए स्थायी रूप से हटाया गया           |
+| **Treasury**                  | 8%                  | PancakeSwap प्रोटोकॉल treasury को आवंटित                      |
 
-**Example: Fee Distribution in a 0.25% CAKE/SOL Pool**
+**उदाहरण: 0.25% CAKE/SOL Pool में शुल्क वितरण**
 
-1. **Pool Setup:** Total active liquidity: 10 CAKE and 10 SOL (in-range positions).
-2. **Swaps Occur:**
-   * User A swaps 1 CAKE → 1 SOL.
-   * User B swaps 1 SOL → 1 CAKE.
-3. **Total Fees Collected:**
-   * 0.25% per trade × 2 trades = **0.005 CAKE + 0.005 SOL**.
-4. **Fee Distribution:**
-   * **84% to LPs:** 0.0042 CAKE + 0.0042 SOL
-   * **8% to Burn:** 0.0004 CAKE + 0.0004 SOL
-   * **8% to Treasury:** 0.0004 CAKE + 0.0004 SOL
-5. **LP Earnings:**
-   * Only **in-range LPs** earn fees. Fees are distributed proportionally based on each LP’s share.
-   * **Out-of-range LPs** earn **no fees**.
+1. **Pool सेटअप:** कुल सक्रिय तरलता: 10 CAKE और 10 SOL (इन-रेंज पोजीशन)।
+2. **Swap होते हैं:**
+   * उपयोगकर्ता A, 1 CAKE → 1 SOL स्वैप करता है।
+   * उपयोगकर्ता B, 1 SOL → 1 CAKE स्वैप करता है।
+3. **कुल अर्जित शुल्क:**
+   * 0.25% प्रति व्यापार × 2 व्यापार = **0.005 CAKE + 0.005 SOL**।
+4. **शुल्क वितरण:**
+   * **LP को 84%:** 0.0042 CAKE + 0.0042 SOL
+   * **Burn को 8%:** 0.0004 CAKE + 0.0004 SOL
+   * **Treasury को 8%:** 0.0004 CAKE + 0.0004 SOL
+5. **LP की कमाई:**
+   * केवल **इन-रेंज LP** ही शुल्क अर्जित करते हैं। शुल्क प्रत्येक LP के हिस्से के अनुपात में वितरित होता है।
+   * **आउट-ऑफ-रेंज LP** को **कोई शुल्क नहीं** मिलता।
 
 </details>
 
-### **Earning CAKE**
+### **CAKE अर्जित करना**
 
-To make being a liquidity provider even more worth your while, you can also put your liquidity positions to work whipping up some fresh yield on the [CAKE Farms](https://pancakeswap.finance/liquidity/pools), while still earning trading fee rewards.
+तरलता प्रदाता होना और भी फायदेमंद बनाने के लिए, आप ट्रेडिंग शुल्क पुरस्कार अर्जित करते हुए [CAKE Farms](https://pancakeswap.finance/liquidity/pools) पर ताज़ा यील्ड तैयार करने के लिए अपनी तरलता पोजीशन को भी काम में लगा सकते हैं।
 
 ***
 
 ## Exchange V2
 
-### LP Tokens
+### LP टोकन
 
-<figure><img src="../../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28142%29.png" alt=""><figcaption></figcaption></figure>
 
-As an example, if you deposited **CAKE** and **BNB** into a Liquidity Pool, you'd receive **CAKE-BNB LP** tokens.
+उदाहरण के रूप में, यदि आपने **CAKE** और **BNB** को किसी Liquidity Pool में जमा किया, तो आपको **CAKE-BNB LP** टोकन प्राप्त होंगे।
 
-The number of LP tokens you receive represents your portion of the CAKE-BNB Liquidity Pool.
+आपको मिलने वाले LP टोकन की संख्या CAKE-BNB Liquidity Pool में आपके हिस्से को दर्शाती है।
 
-You can also redeem your funds at any time by removing your liquidity.
+आप अपनी तरलता हटाकर किसी भी समय अपना धन वापस ले सकते हैं।
 
-### **Earning trading fees**
+### **ट्रेडिंग शुल्क अर्जित करना**
 
-Whenever someone trades on PancakeSwap, for each hop (swap) in each Exchange V2 liquidity pool, the trader pays a fixed 0.25% fee, **of which 0.17%** is added back to the Liquidity Pool in a form of trading fees.
+जब भी कोई PancakeSwap पर व्यापार करता है, Exchange V2 के प्रत्येक Liquidity Pool में प्रत्येक हॉप (Swap) के लिए, व्यापारी 0.25% का निश्चित शुल्क देता है, **जिसमें से 0.17%** ट्रेडिंग शुल्क के रूप में Liquidity Pool में वापस जोड़ा जाता है।
 
-### **Earning CAKE**
+### **CAKE अर्जित करना**
 
-The old Exchange V2 will be running in parallel with the new Exchange V3. So, some trading pairs will remain on PancakeSwap Exchange V2 and have their corresponding V2 Farms. Please check the tags to identify the exchange versions.
+पुराना Exchange V2, नए Exchange V3 के साथ-साथ चलता रहेगा। इसलिए, कुछ ट्रेडिंग जोड़े PancakeSwap Exchange V2 पर बने रहेंगे और उनके संबंधित V2 Farm होंगे। एक्सचेंज संस्करणों की पहचान करने के लिए टैग देखें।
 
 
 
 ## Impermanent Loss
 
-Providing liquidity is not without risk, as you may be exposed to impermanent loss.
+तरलता प्रदान करना जोखिम रहित नहीं है, क्योंकि आप impermanent loss के शिकार हो सकते हैं।
 
-[“Simply put, impermanent loss is the difference between holding tokens in an AMM and holding them in your wallet.” - Nate Hindman](https://blog.bancor.network/beginners-guide-to-getting-rekt-by-impermanent-loss-7c9510cb2f22)
+["सरल शब्दों में, impermanent loss AMM में टोकन रखने और उन्हें अपने वॉलेट में रखने के बीच का अंतर है।" - Nate Hindman](https://blog.bancor.network/beginners-guide-to-getting-rekt-by-impermanent-loss-7c9510cb2f22)

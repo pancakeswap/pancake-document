@@ -4,15 +4,15 @@ hidden: true
 
 # How-To Guides
 
-#### 1. How to Swap on PancakeSwap Infinity?
+#### 1. PancakeSwap Infinity पर Swap कैसे करें?
 
-#### 2. How to Add Liquidity to CLAMM pools?
+#### 2. CLAMM pools में तरलता कैसे जोड़ें?
 
-#### 3. How to Add Liquidity to LBAMM pools?
+#### 3. LBAMM pools में तरलता कैसे जोड़ें?
 
-#### 4. How to Farm on PancakeSwap Infinity?
+#### 4. PancakeSwap Infinity पर Farm कैसे करें?
 
-#### 5. How to create an Infinity pool?
+#### 5. Infinity pool कैसे बनाएं?
 
 
 

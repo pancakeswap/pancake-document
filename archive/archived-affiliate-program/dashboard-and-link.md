@@ -1,27 +1,26 @@
-# Dashboard & Link
+# Dashboard और Link
 
-<figure><img src="../../.gitbook/assets/affiliate-landing-page-07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/affiliate-landing-page-07.png" alt=""><figcaption></figcaption></figure>
 
-The affiliate dashboard is the headquarters of the affiliate program. Here, you will be able to create and share links while also tracking and redeeming rewards.
+Affiliate dashboard, affiliate program का मुख्यालय है। यहाँ, आप links बना और share कर सकेंगे, साथ ही rewards track और redeem कर सकेंगे।
 
-Here are the following steps to access the dashboard and generate an affiliate link:
+Dashboard तक पहुँचने और affiliate link generate करने के चरण यहाँ दिए गए हैं:
 
-1. **Access Affiliate Dashboard**&#x20;
-   1. Head to [Affiliate Program](https://pancakeswap.finance/affiliates-program) Page&#x20;
-   2. Sign in with the wallet used in the application submission
-   3. Click on the ‘Dashboard tab’
-   4. You might be prompted to login. Login with your crypto wallet of choice.
-2.  **Generate Link**
+1. **Affiliate Dashboard Access करें**
+   1. [Affiliate Program](https://pancakeswap.finance/affiliates-program) Page पर जाएं
+   2. Application submission में उपयोग किए गए wallet से sign in करें
+   3. 'Dashboard tab' पर क्लिक करें
+   4. आपको login करने के लिए prompt किया जा सकता है। अपने पसंदीदा crypto wallet से Login करें।
+2.  **Link Generate करें**
 
-    1. On the Dashboard page, head to the generate link section.&#x20;
-    2.  Set the unique code and profit-sharing rate for the specific link. More information on this can be found [here](commission-structure-and-payment.md)\
+    1. Dashboard page पर, generate link section पर जाएं।
+    2.  Specific link के लिए unique code और profit-sharing rate सेट करें। इस बारे में अधिक जानकारी [यहाँ](commission-structure-and-payment.md) मिल सकती है\
         &#x20;
 
-        <figure><img src="../../.gitbook/assets/affiliate-landing-page-10.png" alt=""><figcaption></figcaption></figure>
-    3. Hit “Generate Link” and approve the signature. There should be a popup notifying you that a link has been generated.
-    4.  Move to the links section at the bottom and copy the link created. <br>
+        <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/affiliate-landing-page-10.png" alt=""><figcaption></figcaption></figure>
+    3. "Generate Link" पर क्लिक करें और signature approve करें। आपको एक popup notification मिलनी चाहिए कि एक link generate हुआ है।
+    4.  नीचे links section पर जाएं और बनाया गया link copy करें।
 
-        <figure><img src="../../.gitbook/assets/affiliate-landing-page-09.png" alt=""><figcaption></figcaption></figure>
+        <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/affiliate-landing-page-09.png" alt=""><figcaption></figcaption></figure>
 
-    Once completed, you can share the affiliate link with your community and earn a commission fee when your friends trade on PancakeSwap. For more information on how we qualify a new user, please visit the [Terms & Conditions](terms-and-conditions.md) page.
-
+    पूरा होने पर, आप affiliate link अपने community के साथ share कर सकते हैं और जब आपके दोस्त PancakeSwap पर trade करें तो commission fee अर्जित करें। यह निर्धारित करने के बारे में अधिक जानकारी के लिए कि हम एक नए उपयोगकर्ता को कैसे qualify करते हैं, कृपया [Terms & Conditions](terms-and-conditions.md) page देखें।

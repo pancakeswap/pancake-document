@@ -1,89 +1,89 @@
-# ❓ FAQ
+# ❓ अक्सर पूछे जाने वाले सवाल (FAQ)
 
-### 1. How does slippage tolerance work for Crosschain swaps?
+### 1. Crosschain swaps के लिए स्लिपेज सहनशीलता कैसे काम करती है?
 
-For Crosschain swaps, your selected slippage tolerance percentage is applied independently to swaps on both the source and destination chains.
+Crosschain swaps के लिए, आपकी चुनी गई स्लिपेज सहनशीलता प्रतिशत स्रोत और गंतव्य दोनों चेनों पर स्वैप पर स्वतंत्र रूप से लागू होती है।
 
-**Example:**
+**उदाहरण:**
 
-* Swap BNB on BNB Chain to ARB on Arbitrum
-* Slippage tolerance set to 1%
-* The route could be:
-  1. Swap BNB to USDC on BNB Chain
-  2. Bridge USDC from BNB Chain to Arbitrum via Across
-  3. Swap USDC to ARB on Arbitrum
-* In this case, the 1% slippage tolerance applies separately to:
-  * The swap on BNB Chain
-  * The swap on Arbitrum
+* BNB Chain पर BNB को Arbitrum पर ARB के लिए स्वैप करें
+* स्लिपेज सहनशीलता 1% पर सेट है
+* रूट इस प्रकार हो सकता है:
+  1. BNB Chain पर BNB को USDC में स्वैप करें
+  2. Across के माध्यम से BNB Chain से Arbitrum पर USDC Bridge करें
+  3. Arbitrum पर USDC को ARB में स्वैप करें
+* इस स्थिति में, 1% स्लिपेज सहनशीलता अलग-अलग लागू होती है:
+  * BNB Chain पर स्वैप पर
+  * Arbitrum पर स्वैप पर
 
-This ensures you’re protected from excessive price movements on both legs of the transaction while keeping the bridging process itself unaffected by slippage settings.
+यह सुनिश्चित करता है कि लेनदेन के दोनों चरणों पर अत्यधिक मूल्य उतार-चढ़ाव से आपकी सुरक्षा हो, जबकि ब्रिजिंग प्रक्रिया स्वयं स्लिपेज सेटिंग्स से अप्रभावित रहे।
 
-### 2. What happens if my transaction fails?
+### 2. यदि मेरा लेनदेन विफल हो जाए तो क्या होगा?
 
-If your Crosschain swap encounters a failure at any stage, here’s how it’s handled:
+यदि आपके Crosschain swap में किसी भी चरण पर विफलता आती है, तो इसे इस प्रकार संभाला जाता है:
 
-1.  **Swap/Transaction Failure on Source Chain**
+1.  **स्रोत चेन पर Swap/लेनदेन विफलता**
 
-    ➝ You’ll instantly receive your original token back on the source chain.
-2.  **Bridge Transaction Failure**
+    ➝ आपको तुरंत स्रोत चेन पर आपका मूल टोकन वापस मिल जाएगा।
+2.  **Bridge लेनदेन विफलता**
 
-    ➝ Across will process a refund within 90 minutes to 2 hours, and you’ll receive the bridged asset back on the source chain. While Relay processes the refund within a minute in such scenarios between SOL <> EVM.
-3.  **Swap Failure on Destination Chain**
+    ➝ Across 90 मिनट से 2 घंटे के भीतर धनवापसी संसाधित करेगा, और आपको स्रोत चेन पर ब्रिज की गई संपत्ति वापस मिलेगी। जबकि SOL <> EVM के बीच ऐसे परिदृश्यों में Relay एक मिनट के भीतर धनवापसी संसाधित करता है।
+3.  **गंतव्य चेन पर Swap विफलता**
 
-    ➝ You’ll receive the bridged asset on the destination chain, without the final swap to your target token.
-
-{% hint style="info" %}
-**Note:** You can always check the status of your transactions through the transaction history tab under wallet connect UI.
-{% endhint %}
-
-### 3. Are my Crosschain swaps MEV protected?
-
-MEV Guard is only supported on the BNB Chain when swaps are initiated directly from a connected wallet with MEV Guard enabled.
-
-* If your Crosschain swap involves a swap on BNB Chain as the source chain, and you have MEV Guard enabled, that swap will be MEV protected.
-* If BNB Chain is the destination chain, the swap is executed by the bridging relayer/system and will not be MEV protected, since it’s not initiated by your connected wallet.
+    ➝ आपको गंतव्य चेन पर ब्रिज की गई संपत्ति प्राप्त होगी, आपके लक्ष्य टोकन में अंतिम स्वैप के बिना।
 
 {% hint style="info" %}
-**Note:** Other chains like Arbitrum and Base currently do not support MEV Guard protection on PancakeSwap.
+**नोट:** आप वॉलेट कनेक्ट UI के अंतर्गत लेनदेन इतिहास टैब के माध्यम से अपने लेनदेन की स्थिति हमेशा देख सकते हैं।
 {% endhint %}
 
-### 4. Can I swap stablecoins between chains?
+### 3. क्या मेरे Crosschain swaps MEV सुरक्षित हैं?
 
-Yes — you can swap and bridge stablecoins like USDC, USDT, and DAI directly between any supported chains.
+MEV Guard केवल BNB Chain पर तभी समर्थित है जब स्वैप सीधे MEV Guard सक्षम कनेक्टेड वॉलेट से शुरू किए जाएं।
 
-You have two options:
+* यदि आपके Crosschain swap में स्रोत चेन के रूप में BNB Chain पर एक स्वैप शामिल है, और आपके पास MEV Guard सक्षम है, तो वह स्वैप MEV सुरक्षित होगा।
+* यदि BNB Chain गंतव्य चेन है, तो स्वैप bridging relayer/system द्वारा निष्पादित किया जाता है और MEV सुरक्षित नहीं होगा, क्योंकि यह आपके कनेक्टेड वॉलेट द्वारा शुरू नहीं किया गया है।
+
+{% hint style="info" %}
+**नोट:** Arbitrum और Base जैसी अन्य चेन वर्तमान में PancakeSwap पर MEV Guard सुरक्षा का समर्थन नहीं करतीं।
+{% endhint %}
+
+### 4. क्या मैं चेनों के बीच stablecoins स्वैप कर सकता/सकती हूँ?
+
+हाँ — आप किसी भी समर्थित चेन के बीच सीधे USDC, USDT, और DAI जैसे stablecoins स्वैप और Bridge कर सकते हैं।
+
+आपके पास दो विकल्प हैं:
 
 1.  **Direct Bridge:**
 
-    Bridge supported stablecoins (like USDC, USDT, etc) directly from one chain to another.
-2.  **Swap to Other Tokens:**
+    समर्थित stablecoins (जैसे USDC, USDT, आदि) को सीधे एक चेन से दूसरी चेन पर Bridge करें।
+2.  **अन्य टोकनों के लिए स्वैप:**
 
-    You can also swap a stablecoin to any other token supported on the destination chain using PancakeSwap’s liquidity pools — either before or after bridging.
+    आप PancakeSwap के तरलता पूलों का उपयोग करके — ब्रिजिंग से पहले या बाद में — गंतव्य चेन पर किसी भी अन्य समर्थित टोकन के लिए एक stablecoin भी स्वैप कर सकते हैं।
 
 {% hint style="info" %}
-**Note:** Supported stablecoins for direct bridging may vary by chain.
+**नोट:** Direct bridging के लिए समर्थित stablecoins चेन के अनुसार भिन्न हो सकते हैं।
 {% endhint %}
 
-### 5. Will my swaps use PCSX?
+### 5. क्या मेरे स्वैप PCSX का उपयोग करेंगे?
 
-No — PCSX is not supported for servicing Crosschain swaps.
+नहीं — Crosschain swaps के लिए PCSX समर्थित नहीं है।
 
-Crosschain swaps on PancakeSwap are exclusively routed through:
+PancakeSwap पर Crosschain swaps विशेष रूप से इनके माध्यम से रूट किए जाते हैं:
 
-* **PancakeSwap’s liquidity pools** (v2, v3, Infinity, StableSwap) for on-chain swaps, and
-* **Across & Relay protocols** for bridging assets between chains.
+* **PancakeSwap के तरलता पूल** (v2, v3, Infinity, StableSwap) ऑन-चेन स्वैप के लिए, और
+* चेनों के बीच संपत्तियों की ब्रिजिंग के लिए **Across और Relay प्रोटोकॉल**।
 
-PCSX cannot be used to facilitate or route any part of a Crosschain swap transaction.
+PCSX का उपयोग Crosschain swap लेनदेन के किसी भी भाग को सुविधाजनक बनाने या रूट करने के लिए नहीं किया जा सकता।
 
-### 6. Is there a minimum or maximum limit on swap amount?
+### 6. क्या स्वैप राशि पर कोई न्यूनतम या अधिकतम सीमा है?
 
-Yes — both minimum and maximum limits apply to Crosschain transactions.
+हाँ — Crosschain लेनदेन पर न्यूनतम और अधिकतम दोनों सीमाएँ लागू होती हैं।
 
-* **Maximum Limit:**\
-  Depends on the available bridge liquidity for the selected token and chain. This value can fluctuate in real-time based on network and liquidity conditions.
-* **Minimum Limit:**\
-  Set to ensure it’s economically viable for relayers to process the bridge transaction.
+* **अधिकतम सीमा:**\
+  चुने गए टोकन और चेन के लिए उपलब्ध Bridge तरलता पर निर्भर करती है। यह मूल्य नेटवर्क और तरलता की स्थितियों के आधार पर रियल-टाइम में उतार-चढ़ाव कर सकता है।
+* **न्यूनतम सीमा:**\
+  यह सुनिश्चित करने के लिए निर्धारित है कि Bridge लेनदेन को संसाधित करना relayers के लिए आर्थिक रूप से व्यवहार्य हो।
 
 {% hint style="info" %}
-**Note:** The exact min and max limits vary by bridge token. If your transaction amount is outside the allowed range, the interface will show a clear error message and prompt you to adjust the amount.
+**नोट:** सटीक न्यूनतम और अधिकतम सीमाएँ Bridge टोकन के अनुसार भिन्न होती हैं। यदि आपकी लेनदेन राशि अनुमत सीमा से बाहर है, तो इंटरफ़ेस एक स्पष्ट त्रुटि संदेश दिखाएगा और आपको राशि समायोजित करने के लिए कहेगा।
 {% endhint %}

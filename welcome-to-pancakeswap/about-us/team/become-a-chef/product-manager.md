@@ -1,26 +1,26 @@
 # Product Manager
 
-**Job Overview:**
+**कार्य अवलोकन:**
 
-We are seeking a dynamic Product Manager to join our team. In this role, you will be responsible for defining, developing, and executing product strategies that enhance user experience and drive growth. You will work closely with cross-functional teams including engineering, design, marketing, and community to ensure the successful launch and ongoing improvement of our products.
+हम एक गतिशील Product Manager की तलाश कर रहे हैं जो हमारी टीम में शामिल हो। इस भूमिका में, आप उन प्रोडक्ट रणनीतियों को परिभाषित करने, विकसित करने और निष्पादित करने के लिए जिम्मेदार होंगे जो उपयोगकर्ता अनुभव को बेहतर बनाती हैं और विकास को बढ़ावा देती हैं। आप उत्पादों के सफल लॉन्च और निरंतर सुधार को सुनिश्चित करने के लिए इंजीनियरिंग, डिज़ाइन, मार्केटिंग और समुदाय सहित क्रॉस-फंक्शनल टीमों के साथ मिलकर काम करेंगे।
 
-**Key Responsibilities:**
+**प्रमुख जिम्मेदारियाँ:**
 
-* **Product Strategy:** Define and communicate the product vision, strategy, and roadmap aligned with the company’s goals.
-* **Market Research:** Conduct competitive analysis and user research to identify trends, customer needs, and opportunities for innovation.
-* **Collaboration:** Work closely with engineering and design teams to deliver high-quality products on time. Facilitate communication between teams to ensure alignment.
-* **User-Centric Design:** Advocate for user experience by incorporating user feedback and usability testing into product development.
-* **Performance Metrics:** Establish and track key performance indicators (KPIs) to measure product success and inform decision-making.
-* **Stakeholder Engagement:** Collaborate with marketing and community teams to develop go-to-market strategies and ensure product adoption.
-* **Continuous Improvement:** Monitor product performance and iterate based on user feedback and market trends.
+* **प्रोडक्ट रणनीति:** कंपनी के लक्ष्यों के अनुरूप प्रोडक्ट दृष्टिकोण, रणनीति और रोडमैप को परिभाषित और संप्रेषित करें।
+* **बाज़ार अनुसंधान:** रुझानों, ग्राहक आवश्यकताओं और नवाचार के अवसरों की पहचान करने के लिए प्रतिस्पर्धी विश्लेषण और उपयोगकर्ता अनुसंधान करें।
+* **सहयोग:** समय पर उच्च-गुणवत्ता वाले उत्पाद वितरित करने के लिए इंजीनियरिंग और डिज़ाइन टीमों के साथ मिलकर काम करें। तालमेल सुनिश्चित करने के लिए टीमों के बीच संचार को सुगम बनाएँ।
+* **उपयोगकर्ता-केंद्रित डिज़ाइन:** प्रोडक्ट विकास में उपयोगकर्ता प्रतिक्रिया और उपयोगिता परीक्षण को शामिल करके उपयोगकर्ता अनुभव की वकालत करें।
+* **प्रदर्शन मेट्रिक्स:** प्रोडक्ट सफलता मापने और निर्णय लेने में सहायता के लिए प्रमुख प्रदर्शन संकेतक (KPI) स्थापित करें और ट्रैक करें।
+* **हितधारक संलग्नता:** go-to-market रणनीतियाँ विकसित करने और प्रोडक्ट अपनाने को सुनिश्चित करने के लिए मार्केटिंग और समुदाय टीमों के साथ सहयोग करें।
+* **निरंतर सुधार:** प्रोडक्ट प्रदर्शन की निगरानी करें और उपयोगकर्ता प्रतिक्रिया और बाज़ार के रुझानों के आधार पर पुनरावृत्ति करें।
 
-**Qualifications:**
+**योग्यताएँ:**
 
-* 2+ years of experience in product management, preferably in the blockchain and Defi fintech space.
-* Strong understanding of DeFi concepts, cryptocurrency markets, and decentralized applications and smart contract
-* Proficiency in product management tools (e.g., Jira, Trello) and analytics platforms (e.g., Google Analytics, Mixpanel).
-* Passion for blockchain technology and a keen interest in emerging trends in the crypto space.
+* ब्लॉकचेन और DeFi फिनटेक क्षेत्र में प्रोडक्ट प्रबंधन में 2+ वर्षों का अनुभव।
+* DeFi अवधारणाओं, क्रिप्टोकरेंसी बाज़ारों, विकेंद्रीकृत एप्लिकेशन और स्मार्ट कॉन्ट्रैक्ट की मजबूत समझ।
+* प्रोडक्ट प्रबंधन टूल्स (जैसे Jira, Trello) और एनालिटिक्स प्लेटफ़ॉर्म (जैसे Google Analytics, Mixpanel) में दक्षता।
+* ब्लॉकचेन तकनीक के प्रति जुनून और क्रिप्टो क्षेत्र में उभरते रुझानों में गहरी रुचि।
 
 
 
-**How to Apply:** Shoot your resume over to hiring@pancakeswap.com, we’d love to hear from you!
+**आवेदन कैसे करें:** अपना रेज़्यूमे hiring@pancakeswap.com पर भेजें, हम आपसे सुनना चाहेंगे!
