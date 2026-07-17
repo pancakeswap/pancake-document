@@ -159,6 +159,7 @@
   * [Market Maker Integration](trade/pancakeswap-exchange/market-maker-integration.md)
   * [Smart Router (V2)](trade/pancakeswap-exchange/smart-router-v2/README.md)
     * [How to trade using Smart Router](trade/pancakeswap-exchange/smart-router-v2/how-to-trade-using-smart-router.md)
+  * [Tokenized Stocks - Geo-block](trade/pancakeswap-exchange/tokenized-stocks-geo-block.md)
 * [🔀 Crosschain Swaps](trade/crosschain-swaps/README.md)
   * [👉 How to do a Crosschain Swap?](trade/crosschain-swaps/how-to-do-a-crosschain-swap.md)
   * [🔁 Swap Scenarios](trade/crosschain-swaps/swap-scenarios.md)
