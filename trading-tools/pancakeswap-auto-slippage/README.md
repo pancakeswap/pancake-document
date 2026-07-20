@@ -26,7 +26,7 @@ Example:
 If you set a 1% slippage tolerance and the price changes by more than 1% before the trade is completed, the trade won’t go through.
 {% endhint %}
 
-## What happens if my Slippage Tolernace is too low?
+## What happens if my Slippage Tolerance is too low?
 
 If your slippage tolerance is **set too low**, there’s a higher chance your transaction will fail — especially when:
 

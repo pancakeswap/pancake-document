@@ -20,7 +20,7 @@ Visit [https://pancakeswap.finance/mev](https://pancakeswap.finance/mev) to lear
 
 Or use the following info to add to your wallet manually:
 
-* Network Name: PancakeSwap MEV Guard New&#x20;
+* Network Name: PancakeSwap MEV Guard&#x20;
 * RPC URL: https://bscrpc.pancakeswap.finance&#x20;
 * Chain ID: 56&#x20;
 * Currency symbol: BNB&#x20;
