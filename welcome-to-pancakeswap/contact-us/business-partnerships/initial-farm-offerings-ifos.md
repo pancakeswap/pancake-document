@@ -22,7 +22,7 @@ For more information about our token launchpad offerings (“[Initial Farm Offer
    * An interactive session with our community to clarify any questions and establish ✨vibes✨
 5. IFO Launch
    * We will launch the IFO, and through our team of community admins, we will monitor, collate, and communicate any feedback raised by the community
-   * We will also publish some marketing materials on our [Twitter](https://app.gitbook.com/o/-MHRKTpKSfYQBsO7YgOo/s/fxRem6Hv7x6dAU7rlR7a/) and [Telegram](https://t.me/PancakeSwapAnn/6131)
+   * We will also publish some marketing materials on our [Twitter](https://twitter.com/PancakeSwap) and [Telegram](https://t.me/PancakeSwapAnn/6131)
 6. Post-Launch
    * We will continue to stay in touch, and work together wherever possible!&#x20;
 

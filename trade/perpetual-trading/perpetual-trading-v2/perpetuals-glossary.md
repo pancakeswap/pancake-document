@@ -31,7 +31,7 @@ Users can check the details of their opened positions, such as the opening price
 PancakeSwap will use an isolated leverage mode for each v2 trading pair. Pairs operate independently:&#x20;
 
 * Each trading pair is an isolated position, Users can open multiple isolated positions
-* Every position (trading pair) runs independently. If users need to top up their margin, they will need to do so manually even if they have available assets in other separate positions (ApolloX will support auto top-up in the future)
+* Every position (trading pair) runs independently. If users need to top up their margin, they will need to do so manually even if they have available assets in other separate positions (Aster will support auto top-up in the future)
 * Every isolated trading position will have its own risk rate and liquidation price and will be settled individually.
 * Liquidation risk is isolated for each trading pair. If a position is liquidated, it does not affect other positions.
 

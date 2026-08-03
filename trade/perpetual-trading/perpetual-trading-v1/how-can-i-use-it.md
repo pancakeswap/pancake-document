@@ -22,7 +22,7 @@ As mentioned, using CAKE for fees gives you a 5% discount! So, why not?
 
 ![](https://lh3.googleusercontent.com/UiwXc1dgPqm07Ai0XKGuYAHLDbENm51_v93vMwHkUdb2HI-Hm5qEI2gbEVtzboatzv0-E9iesik8NF3ON74QXaXaW5jLcOJ5JjegI-8oMiidUf-MiZHjvvxnmd1HTfdnFrNgF8cG)
 
-> Note: The trading fees are 0.02% of the notional value for makers and 0.07% for the taker. CAKE will be the default payment option for trading fees, followed by APX (ApolloX’s token) and USDT. Any users who are paying the trading fees in CAKE will enjoy a 5% discount on trading fees.
+> Note: The trading fees are 0.02% of the notional value for makers and 0.07% for the taker. CAKE will be the default payment option for trading fees, followed by APX (Aster’s token) and USDT. Any users who are paying the trading fees in CAKE will enjoy a 5% discount on trading fees.
 
 ### Choose the pair to trade
 

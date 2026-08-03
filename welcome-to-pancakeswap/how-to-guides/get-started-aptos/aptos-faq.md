@@ -36,7 +36,7 @@ CAKE token/coin is now live on Aptos. Check out our [CAKE bridging guide](cake-b
 
 ### Do I need to stake CAKE on Aptos to participate in Aptos IFOs?
 
-PancakeSwap IFO has not yet been deployed on Aptos. (SOON!) Keep staking your CAKE, and stay tuned for more news.
+PancakeSwap IFO is available on Aptos. Keep staking your CAKE to participate.
 
 ## CAKE Bridging
 

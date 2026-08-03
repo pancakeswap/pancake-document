@@ -2,7 +2,7 @@
 
 ## Apply for NFT Marketplace Listing
 
-![](../../.gitbook/assets/nft-masthead.png)
+![](<../../.gitbook/assets/nft masthead.png>)
 
 NFT collection creators can earn creator royalties on trades on PancakeSwap, as well as getting visibility for their project on the most prominent [NFT marketplace](https://pancakeswap.finance/nfts?chain=bsc) on BNB Smart Chain.
 
@@ -31,4 +31,4 @@ We aim to respond to applications within a week, but due to a large number of re
 
 You can shoot us an email at info@pancakeswap.com if the above parts don't cover your questions.
 
-Please don't try to contact us via this email for [customer support](../../contact-us/customer-support.md), that's not what it's for and we won't respond: your best option for getting help with the product is via the [Telegram or Reddit community](../../contact-us/social-accounts-and-communities.md).
+Please don't try to contact us via this email for [customer support](../../welcome-to-pancakeswap/contact-us/faq/README.md), that's not what it's for and we won't respond: your best option for getting help with the product is via the [Telegram or Reddit community](../../welcome-to-pancakeswap/contact-us/social-accounts.md).
