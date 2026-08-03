@@ -18,7 +18,7 @@ Fee-Earning Limit Orders let you set a target price to buy or sell tokens automa
 #### Why use it?
 
 * No need to constantly monitor charts.
-* No execution fees — instead, you **earn fees (0.1%)** when your order is filled.
+* No execution fees — instead, you **earn fees (0.01% or 0.1%, selectable)** when your order is filled.
 * Works seamlessly — fully on-chain, powered by PancakeSwap Infinity architecture.
 
 ***

@@ -64,7 +64,7 @@ You can view your order status by clicking here
 
 **Q: Do I need to pay fees to place a limit order?**
 
-A: No. Instead, you earn 0.1% in trading fees when your order executes.
+A: No. Instead, you earn trading fees when your order executes — choose a 0.01% (faster execution) or 0.1% (best returns) fee tier.
 
 **Q: Can I place orders for any pair?**
 

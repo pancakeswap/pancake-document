@@ -4,6 +4,6 @@
 
 For projects that wish to incentivize liquidity via the veCAKE system, please visit here:
 
-{% content-ref url="/broken/pages/A92bGrvvUwSv2C1TnvLi" %}
-[Broken link](/broken/pages/A92bGrvvUwSv2C1TnvLi)
+{% content-ref url="../bribes-vote-incentives.md" %}
+[Bribes / Vote Incentives](../bribes-vote-incentives.md)
 {% endcontent-ref %}

@@ -57,9 +57,9 @@ If the random number determined is 0, it will be recalculated again
 
 The BTC and MADBTCUSD price feed can be found here:
 
-[BTCUSD](https://www.apollox.finance/bapi/futures/v1/public/future/apx/V2MarkPriceKline?symbol=BTCUSD\&limit=1800)
+[BTCUSD](https://www.asterdex.com/bapi/futures/v1/public/future/apx/V2MarkPriceKline?symbol=BTCUSD\&limit=1800)
 
-[MADBTCUSD](https://www.apollox.finance/bapi/futures/v1/public/future/apx/V2MarkPriceKline?symbol=MADBTCUSD\&limit=1800)
+[MADBTCUSD](https://www.asterdex.com/bapi/futures/v1/public/future/apx/V2MarkPriceKline?symbol=MADBTCUSD\&limit=1800)
 
 ### Historical backtest data of BTC & MADBTC
 
