@@ -1,7 +1,5 @@
 # Get Started (SOL)
 
-![](../../../.gitbook/assets/get-started-header.png)
-
 {% hint style="success" %}
 $**CAKE is now live on Solana - Token Address:** `4qQeZ5LwSz6HuupUu8jCtgXyW1mYQcNbFAW1sWZp89HL`
 {% endhint %}

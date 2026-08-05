@@ -1,7 +1,5 @@
 # Connect Your Wallet to PancakeSwap
 
-![](../../../.gitbook/assets/how-to-connect-wallet-header.png)
-
 ## Connect your wallet
 
 <figure><img src="../../../.gitbook/assets/wallet-connection-aptos.png" alt=""><figcaption></figcaption></figure>
@@ -16,7 +14,7 @@
 
 ## **Connect to Aptos Mainnet**
 
-Aptos has multiple networks, including multiple devnets and testnets. But to use PancakeSwap on Aptos Chain, please be sure your wallet is connected to **Aptos Mainnet**.&#x20;
+Aptos has multiple networks, including multiple devnets and testnets. But to use PancakeSwap on Aptos Chain, please be sure your wallet is connected to **Aptos Mainnet**.
 
 Here's how:
 

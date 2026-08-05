@@ -1,7 +1,5 @@
 # Get Started (BSC)
 
-![](../../../.gitbook/assets/get-started-header.png)
-
 Using anything new can be a bit of a challenge. Don't worry though, we've created a range of guides to help you get comfortable with PancakeSwap!
 
 ## Setting up PancakeSwap

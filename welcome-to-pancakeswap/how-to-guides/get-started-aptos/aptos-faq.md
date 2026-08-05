@@ -1,7 +1,5 @@
 # Aptos FAQ
 
-<figure><img src="../../../.gitbook/assets/Aptos-faq-header.png" alt=""><figcaption></figcaption></figure>
-
 This FAQ page answers some of the more commonly asked questions from the PancakeSwap community about our Aptos Deployment.
 
 ## General
@@ -43,4 +41,3 @@ PancakeSwap IFO has not yet been deployed on Aptos. (SOON!) Keep staking your CA
 {% hint style="info" %}
 This document has been migrated [here](../../../bridge/faq/)
 {% endhint %}
-

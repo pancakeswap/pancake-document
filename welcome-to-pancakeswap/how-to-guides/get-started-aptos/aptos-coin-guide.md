@@ -1,7 +1,5 @@
 # Get Aptos Coins
 
-![](../../../.gitbook/assets/how-to-get-aptos-coins-header.png)
-
 {% hint style="info" %}
 This guide covers major Aptos bridging services for mainstream tokens. To Bridge CAKE between Aptos and BNB Smart chain, use [PancakeSwap Aptos Bridge](https://bridge.pancakeswap.finance/aptos).
 {% endhint %}
@@ -49,7 +47,7 @@ To Bridge CAKE token between Aptos and BNB Smart chain, use [PancakeSwap Aptos B
 {% tab title="💰 Binance.com" %}
 [**Binance.com**](https://www.binance.com/en/)
 
-* You can withdraw Aptos Coin (APT) on Aptos Chain via your Binance account.&#x20;
+* You can withdraw Aptos Coin (APT) on Aptos Chain via your Binance account.
 * **⚠️ Currently only Aptos Coin (APT) is supported. To bridge other assets, check out other available bridging options above.**
 * **⚠️ You need an account to do so.**
 
