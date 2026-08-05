@@ -10,13 +10,7 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Miso - Product
 
-🐰 Chef Maroon - BD Lead ([Twitter](https://x.com/ChefMaroon))
-
-🐰 Chef Doxie - Business Development ([Twitter](https://x.com/ChefDoxie))
-
-🐰 Chef Madeline - Business Development
-
-🐰 Chef Leo - Business Development
+🐰 Chef Kocha - Product
 
 🐰 Chef Mustard - Ops ([Twitter](https://twitter.com/chef_mustard))
 
@@ -24,15 +18,35 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Cyrus - Data
 
+🐰 Chef Salade - Design Lead
+
+🐰 Chef Waffles - Designer
+
+🐰 Chef Noodles - Designer
+
+🐰 Chef Cocoa - Marketing Lead ([Twitter](https://x.com/chef_cocoa_pcs))
+
+🐰 Chef Marcus - Social Media &#x20;
+
+🐰 Chef Boba - Community &#x20;
+
+🐰 Chef Pixie - Product Marketing &#x20;
+
+🐰 Chef Leo - Business Development Lead ([Twitter](https://x.com/DYOR_WAGMI))
+
+🐰 Chef Madeline - Business Development&#x20;
+
+🐰 Chef Olive - Business Development&#x20;
+
 🐰 Chef Jackson - Dev Lead ([Twitter](https://x.com/0xchefjackson))
 
 🐰 Chef Ryan - Frontend Dev Lead
 
+🐰 Chef Philip - AI Dev
+
 🐰 Chef Eric - Frontend Dev
 
 🐰 Chef Jerry - Frontend Dev
-
-🐰 Chef Philip - Frontend Dev
 
 🐰 Chef Penguin - Frontend Dev
 
@@ -64,22 +78,4 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Rei - Security
 
-🐰 Chef Salade - Design Lead
-
-🐰 [Chef Cecy](https://medium.com/pancakeswap/kitchen-interviews-chef-cecy-the-magical-3d-artist-making-fluffy-bunnies-e1eda53742f3) - 3D Artist ([Twitter](https://twitter.com/Cecymeade))
-
-🐰 Chef Waffles - Designer
-
-🐰 Chef Noodles - Brand / Motion Designer
-
 🐰 Chef Cola - HR
-
-🐰 Chef Cocoa - Marketing Lead ([Twitter](https://x.com/chef_cocoa_pcs))
-
-🐰 Chef Pixie - Product Marketing Manager ([Twitter](https://x.com/chefpixiee))
-
-🐰 Chef Marcus - Social Media ([Twitter](https://x.com/ChefMarcusPCS))
-
-🐰 Chef Boba - Community ([Twitter](https://x.com/chefboba_pcs))
-
-🐰 Chef Croissant - Events and PR
