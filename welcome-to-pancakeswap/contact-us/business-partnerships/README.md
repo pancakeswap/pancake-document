@@ -8,11 +8,11 @@ PancakeSwap (PCS) is the leading multi-chain decentralized exchange (DEX), curre
 
 We would love to speak with project teams, potentially introducing you to one of crypto’s largest, most engaged, and active DApps (with over 400k Daily Active Users)!
 
-Since our start, PancakeSwap has thrived in the Retail DeFi landscape, establishing ourselves as the leading DEX, with multiple industry-leading products – liquidity pools; launchpads; prediction and perpetual products;  – and, of course, the best community 😉.
+Since our start, PancakeSwap has thrived in the Retail DeFi landscape, establishing ourselves as the leading DEX, with multiple industry-leading products – liquidity pools; launchpads; prediction and perpetual products; – and, of course, the best community 😉.
 
 While this page serves as a quick FAQ for Project Teams to find out a bit more about us – please do reach out if you have more queries:
 
-* BD Team on Telegram (https://t.me/PancakeSwapBD)
+* **BD Team on Telegram: https://t.me/PancakeSwapBD (@PancakeSwapBD)**
 
 ### Interested in a partnership? Let’s build together
 
@@ -44,9 +44,7 @@ For commonly asked business partnerships questions
 
 ### The people's choice for all things DeFi
 
-Simple is sexy, and so is safety!&#x20;
-
-With more than $1.5B in TVL, we like to move quickly and do so responsibly. Having more than four years of experience in the crypto markets, from bull to bear, we have been effectively delivering DeFi to our community. Don’t just trust us, [verify](https://docs.pancakeswap.finance/audits).&#x20;
+With more than $1.5B in TVL, we like to move quickly and do so responsibly. Having more than four years of experience in the crypto markets, from bull to bear, we have been effectively delivering DeFi to our community. Don’t just trust us, [verify](https://docs.pancakeswap.finance/audits).
 
 Our partnerships with projects go beyond just token distribution programs (“Syrup Pools”) and token launch opportunities (“Initial Farm Offerings”). We genuinely recognize the impact of community in crypto – our dedicated team of Ambassadors help us keep a pulse on the diverse communities we serve, and we regularly host events with high engagement with partners: podcasts, AMAs, meme contests, and many more!
 
