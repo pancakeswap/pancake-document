@@ -6,7 +6,7 @@ StableSwap on PancakeSwap is a feature to trade stable pairs with a lower slippa
 
 
 
-PancakeSwap currently offers two StableSwap models: [**Infinity StableSwap**](https://docs.pancakeswap.finance/~/revisions/4JQRJCuMPHEJgYdxdVME/trade/stableswap/infinity-stableswap) and [**Classic StableSwap**](https://docs.pancakeswap.finance/~/revisions/4JQRJCuMPHEJgYdxdVME/trade/stableswap/classic-stableswap). Infinity StableSwap is built on PancakeSwap’s latest Infinity architecture, offering improved flexibility, efficiency, and future extensibility. Classic StableSwap refers to the original StableSwap implementation, which continues to support existing pools and liquidity.
+PancakeSwap currently offers two StableSwap models: [**Infinity StableSwap**](https://docs.pancakeswap.finance/trade/stableswap/infinity-stableswap) and [**Classic StableSwap**](https://docs.pancakeswap.finance/trade/stableswap/classic-stableswap). Infinity StableSwap is built on PancakeSwap’s latest Infinity architecture, offering improved flexibility, efficiency, and future extensibility. Classic StableSwap refers to the original StableSwap implementation, which continues to support existing pools and liquidity.
 
 
 
