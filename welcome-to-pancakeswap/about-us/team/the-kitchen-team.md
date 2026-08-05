@@ -2,8 +2,6 @@
 
 ![](../../../.gitbook/assets/the-kitchen-team-header.png)
 
-You can jump to the kitchen interviews article by clicking chef's name.
-
 ### The Chefs
 
 🐰 Chef Kids - Head Chef ([Twitter](https://x.com/Headchef_pcs))
