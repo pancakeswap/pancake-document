@@ -1,10 +1,6 @@
----
-description: >-
-  While this page provides an overview, please visit the site: pancakeswap.ai
-  for more info
----
-
 # 🤖 Building Trading Agents on PancakeSwap V3
+
+While this page provides an overview, please visit [pancakeswap.ai](https://pancakeswap.ai) for more info
 
 > A guide for developers building autonomous agents — with [BNB Agent Studio](https://www.bnbchain.org/en/bnb-agent-studio) or any framework — that interact with PancakeSwap V3 liquidity pools and farms on BNB Smart Chain.
 >
