@@ -18,6 +18,12 @@ You can jump to the kitchen interviews article by clicking chef's name.
 
 🐰 Chef Cyrus - Data
 
+🐰 Chef Leo - Business Development Lead ([Twitter](https://x.com/DYOR_WAGMI))
+
+🐰 Chef Madeline - Business Development&#x20;
+
+🐰 Chef Olive - Business Development&#x20;
+
 🐰 Chef Salade - Design Lead
 
 🐰 Chef Waffles - Designer
@@ -31,12 +37,6 @@ You can jump to the kitchen interviews article by clicking chef's name.
 🐰 Chef Boba - Community &#x20;
 
 🐰 Chef Pixie - Product Marketing &#x20;
-
-🐰 Chef Leo - Business Development Lead ([Twitter](https://x.com/DYOR_WAGMI))
-
-🐰 Chef Madeline - Business Development&#x20;
-
-🐰 Chef Olive - Business Development&#x20;
 
 🐰 Chef Jackson - Dev Lead ([Twitter](https://x.com/0xchefjackson))
 
