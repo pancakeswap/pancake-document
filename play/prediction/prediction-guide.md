@@ -66,7 +66,7 @@ You cannot change your prediction during a live round, however. You are locked i
 
 ## Once your entered round finishes
 
-After 5/10 minutes as the live round, your entered round will finish. Everything is automatic, so there's nothing you need to do to end the round.
+After 5 minutes as the live round, your entered round will finish. Everything is automatic, so there's nothing you need to do to end the round.
 
 ### Seeing the results
 
