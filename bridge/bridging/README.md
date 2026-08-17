@@ -83,6 +83,7 @@ We currently integrate with:
 * opBNB
 * ZKsync
 * Linea
+* Solana
 * Aptos (V1 site)
 
 #### Tokens Available for Bridging
