@@ -2,94 +2,38 @@
 hidden: true
 ---
 
-# Senior Back End Developer (DeFi)
+# Product Manager
 
-### General Information
+#### General Information
 
-\- Salary range: Competitive, negotiable
+* Salary range: Competitive, negotiable
+* Position: Full-time
+* Location: Remote
+* Time-zone preference: Any
 
-\- Position: Full-time
+#### Your Responsibilities
 
-\- Location: Remote
+* Collaborate with internal stakeholders (leads, design, devs, bd, marketing, qa, data, ops) to craft future PancakeSwap products from 0 to 1
 
-### Role Overview
+#### Skills & Qualifications
 
-We are seeking an experienced Backend Engineer who is passionate about crypto and DeFi,
+* 3+ years experience in Crypto/DeFi/DEX and financial services/products.
+* Experience in full flow of product development, including:
+  * Perform market research and identify potential product usecases.
+  * Turn requirements and ideas from other stakeholders in to complete designs.
+  * Visualise userflow with wireframe and assist design to complete the UI/UX.
+  * Assist and work with the dev team to build the product.
+  * Resolve product issues with qa team.
+  * Plan GTM strategies and campaigns with marketing team.
+  * Coordinate with external members from partners.
+  * Help ops team to perform product deployment.
+  * Analyse data and improve product experience with data team.
+* Gather info, provide options to other stakeholders to make critical decisions when needed.
+* Able to work remotely, autonomously with great self initiative.
 
-and has a deep understanding of micro-services architecture. You will work closely with a
+#### Nice to Have
 
-diverse team of engineers to design, develop, and maintain backend services that support our
-
-crypto platform.
-
-### Your Responsibilities
-
-\- Design, develop, and maintain scalable backend services and micro-services.
-
-\- Work with cross-functional teams to integrate with DeFi protocols and other blockchain
-
-solutions.
-
-\- Implement secure, efficient, and reliable APIs to power our crypto services.
-
-\- Develop and deploy infrastructure on cloud environments to ensure scalability and
-
-performance.
-
-\- Build and operate containerized services on Kubernetes, managing deployments, scaling, and
-
-reliability.
-
-\- Design systems that safely handle high concurrency, ensuring data consistency and stability
-
-under heavy load.
-
-\- Analyze and optimize system performance and stability.
-
-\- Stay current with the latest developments in blockchain, DeFi, and backend technologies.
-
-### Skills & Qualifications
-
-\- 5+ years of experience in backend development.
-
-\- Strong knowledge of modern backend programming languages such as Typescript (must
-
-have), Rust (nice to have).
-
-\- Hands-on experience with Kubernetes and container orchestration in production environments.
-
-\- Strong understanding of concurrency management — handling concurrent requests, race
-
-conditions, distributed locking, async processing, and message queues.
-
-\- Experience working with smart contracts and Ethereum-based / Solana-based applications.
-
-\- Experience working with microservices and distributed systems.
-
-\- Deep understanding of blockchain, cryptocurrency, and DeFi concepts.
-
-\- Hands-on experience building APIs and integrating with third-party services.- Experience with cloud platforms (e.g., AWS, DigitalOcean).
-
-\- Strong problem-solving skills and attention to detail.
-
-\- Excellent communication skills and a collaborative mindset.
-
-#### Good to Have
-
-\- Familiarity with database technologies like PostgreSQL, Redis, or similar.
-
-\- Previous experience working in a startup or fast-paced environment.
-
-\- Experience with indexing solutions such as TheGraph or Subsquid.
-
-### Why Join Us?
-
-\- Work on cutting-edge technology in the exciting field of blockchain and DeFi.
-
-\- Join a passionate, knowledgeable, and supportive team.
-
-\- Opportunities for growth and development in the fast-evolving crypto space.
-
-
-
-**How to Apply:** Shoot your resume over to hiring@pancakeswap.com, we’d love to hear from you!
+* Technical background of blockchain and Web3. (to assist dev team to plan ahead when designing products. Think inside of the blockchain limitations, but think outside of the box for solutions)
+* Skills for blockchain deep dive, tx debug (to better assist qa and ops)
+* Figma skills (to build pretty mock-ups on your own with a design system)
+* Mandarin (to communicate with some other skillful bunnies)
