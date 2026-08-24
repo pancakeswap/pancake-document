@@ -117,6 +117,4 @@ The above numbers can be found in each of the [MasterChef](https://developer.pan
 
 ### Can I use bCAKE in v3 Farms?
 
-Yes
-
-bCAKE for V3 Farms will come very soon after the deployment of PancakeSwap Farm V3. Stay tuned.
+Yes.

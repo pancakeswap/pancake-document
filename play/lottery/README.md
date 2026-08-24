@@ -15,7 +15,7 @@ Playing the PancakeSwap Lottery gives you a chance to win huge CAKE prizes! It's
 
 Lottery ticket prices are set at the start of the new lottery round, and target $5 USD (may vary slightly with sudden price fluctuations).
 
-Buying multiple Lottery tickets at once gives a bulk discount on your purchase. You can buy as many as 100 tickets in one purchase, with the discount starting small at 2 tickets, and scaling up to 10% at 100 tickets.
+Buying multiple Lottery tickets at once gives a bulk discount on your purchase. You can buy as many as 100 tickets in one purchase, with the discount starting small at 2 tickets, and scaling up to almost 5% (4.95%) at 100 tickets.
 
 ![](<../../.gitbook/assets/Screenshot 2024-08-22 at 9.59.52 PM.png>)
 

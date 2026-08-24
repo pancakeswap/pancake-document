@@ -92,4 +92,4 @@ Gifts follow a defined lifecycle based on status and time:
    * Retries will be attempted upon first unsuccessful claim.
    * If still unsuccessful:
      * Recipient sees “Unclaimable”
-     * Sender must manually cancel the gift to retrieve funds and receipient will have to request or a new gift code.
+     * Sender must manually cancel the gift to retrieve funds and the recipient will have to request a new gift code.

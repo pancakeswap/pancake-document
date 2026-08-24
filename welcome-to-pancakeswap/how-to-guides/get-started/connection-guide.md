@@ -34,7 +34,7 @@ If you find you are unable to connect at step 4, go back to the DApps menu and f
 
 **iOS**
 
-To connect to PancakeSwap through iOS, Trust Wallet have prepared a detailed guide on using WallteConnect.
+To connect to PancakeSwap through iOS, Trust Wallet has prepared a detailed guide on using WalletConnect.
 
 Read the [Trust Wallet guide to connecting to PancakeSwap via WalletConnect](https://community.trustwallet.com/t/using-walletconnect-to-access-pancakeswap/212307).
 

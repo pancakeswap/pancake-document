@@ -6,5 +6,5 @@
 
 Infinity currently supports the following pool types:
 
-* [Infinity CLAMM & LBAMM](https://docs.pancakeswap.finance/~/revisions/dR1OpdERU6eEn0BRwIs6/trade/pancakeswap-infinity/pool-types/infinity-clamm-and-lbamm)
-* [Infinity StableSwap](https://docs.pancakeswap.finance/~/revisions/dR1OpdERU6eEn0BRwIs6/trade/stableswap/infinity-stableswap)
+* [Infinity CLAMM & LBAMM](infinity-clamm-and-lbamm.md)
+* [Infinity StableSwap](../../stableswap/infinity-stableswap.md)

@@ -52,7 +52,7 @@ Global APR calculated using the total amount of active & staked liquidity with t
 APRs for individual positions may vary depend on their price range settings.
 
 $$
-ARP_p = {\frac{USD_{r}}{USD_{p}}} {\frac{L_{p}}{L_{lm}}}
+APR_p = {\frac{USD_{r}}{USD_{p}}} {\frac{L_{p}}{L_{lm}}}
 $$
 
 * $$USD_r$$: CAKE reward earn USD per year in pool

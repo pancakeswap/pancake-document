@@ -1,6 +1,6 @@
 # 🧑‍🌾 Initial Farm Offerings - IFOs
 
-For more information about our token launchpad offerings (“[Initial Farm Offering, or IFO”](https://pancakeswap.finance/ifo)), please view this PDF
+For more information about our token launchpad offerings (“[Initial Farm Offering, or IFO](https://pancakeswap.finance/ifo)”), please view this PDF
 
 {% file src="../../../.gitbook/assets/PancakeSwap IFO One-Pager.pdf" %}
 

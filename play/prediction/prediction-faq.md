@@ -147,7 +147,7 @@ You might be able to claim your winnings directly from the contract. Follow the 
 {% tab title="Check rounds you played" %}
 How to check the history of rounds you played
 
-1. Go to BscScan page of the [Prediction contract](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (e.g. BNBUSD).
+1. Go to BscScan page of the [Prediction contract](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract) (e.g. BNBUSD).
 2. Scroll down to “8. getUserRounds”.
 3. Type in your wallet address under “user(address)”.
 4. Set “cursor(uint256)" to 0 and “size(uint256)" to 1000.
@@ -158,7 +158,7 @@ How to check the history of rounds you played
 {% tab title="Check if you can claim" %}
 First, check whether you should actually be able to claim from the round you played.
 
-1. Go to BscScan page of the [Prediction contract](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (e.g. BNBUSD), and go to the Read tab
+1. Go to BscScan page of the [Prediction contract](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract) (e.g. BNBUSD), and go to the Read tab
 2. Scroll down to “4. claimable”.
 3. Type in the round id you want to check under "epoch(uint256)”.
 4. Type in your wallet address under “user(address)”.
@@ -171,7 +171,7 @@ First, check whether you should actually be able to claim from the round you pla
 {% tab title="Claim from a round" %}
 How to claim
 
-1. Go to BscScan page of the [Prediction contract](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (e.g. BNBUSD), and go to the Write tab
+1. Go to BscScan page of the [Prediction contract](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract) (e.g. BNBUSD), and go to the Write tab
 2. Tap “🔴 Connect to Web3”
 3. Use MetaMask or WalletConnect to connect.
 4. Scroll down to “3. claim”

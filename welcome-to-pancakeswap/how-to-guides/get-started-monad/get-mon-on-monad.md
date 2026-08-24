@@ -70,7 +70,7 @@ This is a user-friendly option for mobile-first users who want to skip setting u
 
 #### IV. **Bridge MON from Another Blockchain**
 
-Already have tokens on a different chain like **BNB Chain**, **Ethereum**, or **Base**? You can bring funds over to Solana using **bridging platforms**.
+Already have tokens on a different chain like **BNB Chain**, **Ethereum**, or **Base**? You can bring funds over to Monad using **bridging platforms**.
 
 #### ✅ What you do:
 

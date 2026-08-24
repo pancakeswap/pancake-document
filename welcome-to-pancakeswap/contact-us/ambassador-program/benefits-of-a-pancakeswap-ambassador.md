@@ -1,4 +1,4 @@
-# Benefits of  a PancakeSwap Ambassador
+# Benefits of a PancakeSwap Ambassador
 
 ### **Global Recognition**
 

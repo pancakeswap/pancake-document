@@ -8,7 +8,7 @@ PancakeSwap has introduced Auto Slippage to make trading easier and more efficie
 
 * Market volatility – Prices can move quickly between when you place and confirm
 * Low liquidity – there aren’t enough tokens available at your expected price
-* Blockchain delays – confirmation times can cause the price to change before the trade is completed finalized
+* Blockchain delays – confirmation times can cause the price to change before the trade is finalized
 
 {% hint style="info" %}
 Example:
@@ -26,7 +26,7 @@ Example:
 If you set a 1% slippage tolerance and the price changes by more than 1% before the trade is completed, the trade won’t go through.
 {% endhint %}
 
-## What happens if my Slippage Tolernace is too low?
+## What happens if my Slippage Tolerance is too low?
 
 If your slippage tolerance is **set too low**, there’s a higher chance your transaction will fail — especially when:
 

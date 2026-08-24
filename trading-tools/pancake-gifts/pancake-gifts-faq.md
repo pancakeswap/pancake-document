@@ -39,7 +39,7 @@ Yes:
 * QR code also embeds the gift code, but **cannot be regenerated later.**&#x20;
 
 {% hint style="success" %}
-**Pro Tip:**  Download the image once its generated
+**Pro Tip:** Download the image once it's generated
 {% endhint %}
 
 * Manual claims require the actual gift code — no fallback if the link/QR is lost

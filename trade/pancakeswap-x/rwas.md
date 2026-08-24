@@ -1,6 +1,6 @@
 # RWAs
 
-PancakeSwap X supports real-world assets onchain to BNB Chain at scale. Users can trade 100+ tokenized stocks, bonds and ETFs directly on PancakeSwap powered by Ondo Finance.
+PancakeSwap supports real-world assets onchain across BNB Chain, Ethereum, and Robinhood Chain at scale, with RWA trading also available on Solana. Users can trade 100+ tokenized stocks, bonds and ETFs directly on PancakeSwap, powered by Ondo Finance and other issuers.
 
 ### What is Ondo Finance?
 

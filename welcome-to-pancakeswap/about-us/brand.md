@@ -1,5 +1,5 @@
 ---
-description: Guidlines and downloadable assets like the PancakeSwap logo SVG
+description: Guidelines and downloadable assets like the PancakeSwap logo SVG
 ---
 
 # Brand & Logos
