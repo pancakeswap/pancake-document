@@ -29,7 +29,7 @@ Here are some reasons you may want to bridge:
 
 ## CAKE, a multichain token
 
-With our multichain expansion and deployment, CAKE is now a multichain token that is native to BNB Chain, but also available across Base, Arbitrum, Solana, Ethereum, ZKsync, Linea, opBNB, and Aptos.
+With our multichain expansion and deployment, CAKE is now a multichain token that is native to BNB Chain, but also available across Base, Arbitrum, Solana, Ethereum, ZKsync, Linea, opBNB, Monad, and Aptos.
 
 CAKE on any of the other chains is equal to CAKE on BNB Smart Chain. It can always be bridged between these chains at a 1:1 ratio and without any fee in CAKE.
 
@@ -67,6 +67,7 @@ We currently integrate with:
 * LayerZero
 * Stargate
 * Meson
+* Mayan
 
 > Note: Each provider has different bridging mechanics, supported chains, fees, and limits.
 
@@ -198,4 +199,6 @@ If a transaction is stuck for a long time, check the relevant explorer or reach 
    * `cakeOFT`: `0x3055913c90Fcc1A6CE9a358911721eEb942013A1` ([link](https://basescan.org/address/0x3055913c90Fcc1A6CE9a358911721eEb942013A1#code))
 8. **opBNB**
    * `cakeOFT`: `0x2779106e4F4A8A28d77A24c18283651a2AE22D1C` ([link](https://opbnbscan.com/address/0x2779106e4F4A8A28d77A24c18283651a2AE22D1C?tab=Contract\&p=1))
+9. **Solana**
+   * `cakeOFT`: `4qQeZ5LwSz6HuupUu8jCtgXyW1mYQcNbFAW1sWZp89HL`
 

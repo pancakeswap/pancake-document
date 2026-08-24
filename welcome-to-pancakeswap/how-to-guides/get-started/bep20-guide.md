@@ -20,7 +20,7 @@ This bridge allows you to seamlessly move your stablecoins over to BNB Chain, an
 {% endtab %}
 
 {% tab title="💰 Binance" %}
-[**Binance.com**](https://github.com/pancakeswap/pancake-document/tree/255db0c7af28df2f9c1209daa5cdbd774490a666/get-started/www.binance.com)
+[**Binance.com**](https://www.binance.com)
 
 You can withdraw tokens as BEP20 via your Binance account (if you have one). Bear in mind you need an account to do so.
 

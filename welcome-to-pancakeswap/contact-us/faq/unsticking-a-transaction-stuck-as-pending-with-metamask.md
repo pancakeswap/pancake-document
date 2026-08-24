@@ -42,11 +42,11 @@ We’re now going to find the transaction that’s stuck, and make a note of the
 
 ![](https://lh5.googleusercontent.com/9qVjhK1kEKDL8l4TTdOFo4o547PDIIeQpCCY18gPyaUFJrpFbyYhMfBQ1CRzjjrllgrcqVbwkhxKCZBNlIad8J1yCpMVhsBKjIAcwfsQHQb7jnl2RD2ufQU-zNEn2Hn2g4LGvYDU)
 
-6\. In the token’s menu, find your **Pending** transaction in the Queue area. Click on your transaction for more details.
+7\. In the token’s menu, find your **Pending** transaction in the Queue area. Click on your transaction for more details.
 
 ![](https://lh4.googleusercontent.com/HMd5iKjIvm-f7Xi7xtecTsq56x1i15GjUkwCm5Z_83xMfOXDd2jabcCDyUwELf51IHseEeCk2WnvWfHwTSUlFnLAJrmjkkOfm_fA5fimgdABnYfdjmBxxst8TOaUJUhc2iO_CN-k)
 
-7\. Look for the **Nonce** entry, and take note of this number.
+8\. Look for the **Nonce** entry, and take note of this number.
 
 ### **3. Overwrite the Stuck Transaction**
 
@@ -54,20 +54,20 @@ Now we’re going to make a new transaction to replace the stuck one. We’ll cu
 
 ![](<../../../.gitbook/assets/image (176).png>)
 
-8\. Create a new transaction to replace your stuck transaction. This time around, increase the **Transaction Fee**. Here we’ve increased it from 9 to 20. This will make it more likely for your transaction to be added to a block.
+9\. Create a new transaction to replace your stuck transaction. This time around, increase the **Transaction Fee**. Here we’ve increased it from 9 to 20. This will make it more likely for your transaction to be added to a block.
 
 ![](<../../../.gitbook/assets/image (34).png>)
 
-9\. On the confirmation page, make sure your Gas Price is now at your new, higher amount.
+10\. On the confirmation page, make sure your Gas Price is now at your new, higher amount.
 
-10\. Find the **CUSTOM NONCE** entry and change the nonce to the number you wrote down in step 7. Now click Confirm.
+11\. Find the **CUSTOM NONCE** entry and change the nonce to the number you wrote down in step 8. Now click Confirm.
 
 ![](https://lh6.googleusercontent.com/PYhYm2ro0SVzerBo5qguFIPOYl0DjLSfl0JT8UdfN3T4i-0hjBq-CQvr-UA0bSyG-ZndrWmLGptfZUcnGBlvUk118GGZn7ciDNaC4hmfovH9v_M5XMIYmkAmB-Fr-6TTpYnnDX1p)
 
-11\. Your new transaction should now be accepted into a block. To check, open MetaMask and click the **Activity** tab.
+12\. Your new transaction should now be accepted into a block. To check, open MetaMask and click the **Activity** tab.
 
 ![](https://lh6.googleusercontent.com/Iw3e0YP4ORhPgw8-MNxvzlDlfgG5nD226P4ixiziPC_9j3_LfU3o1-_LA2yDmegbRw5x9Sgk3RACFJJkyJDrFJA1j2J93H21uGhhWabkdDQUHsU_oVdkZVQTTWaQPzXHAWClpsb4)
 
-12\. Your completed transaction should show at the top of your Activity list. If it still says “Pending” in orange you’ll need to wait a little longer, or try the process again with an even higher transaction fee (gas price).
+13\. Your completed transaction should show at the top of your Activity list. If it still says “Pending” in orange you’ll need to wait a little longer, or try the process again with an even higher transaction fee (gas price).
 
 Since no wallet can create two transactions of the same nonce, if the replacement transaction you make is successful, your stuck transaction will be canceled.<br>

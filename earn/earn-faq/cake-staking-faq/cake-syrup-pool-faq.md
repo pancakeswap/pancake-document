@@ -8,7 +8,7 @@ hidden: true
 
 ### What lock duration can we choose?
 
-You can choose from 1-52 weeks. What do you prefer?
+You can choose from 1 week up to 4 years.
 
 ### What variables affect the new CAKE Syrup Pool yield %s (Flexible and Fixed-Term Staking options)?
 

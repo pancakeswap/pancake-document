@@ -305,7 +305,7 @@ Firstly,[ let the team know](../social-accounts.md) which pool you're trying to 
 You can perform an “emergencyWithdraw” from the contract directly to unstake your staked tokens.
 
 1. Find the contract address of the Syrup Pool you're trying to unstake from. You can find it in your wallet's transaction log.
-2. Go to [https://bscscan.com/](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract) and in the search bar, enter the contract address.
+2. Go to [https://bscscan.com/](https://bscscan.com/) and in the search bar, enter the contract address.
 3. Select **Write Contract.**
 4. Click **“Connect to Web3”** and connect your wallet.![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
 5. In section **“3. emergencyWithdraw”,** and click “Write”.

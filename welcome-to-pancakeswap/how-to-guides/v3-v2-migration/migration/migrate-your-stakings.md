@@ -102,7 +102,7 @@ Migration will take several hours, but it should be totally finished upon the la
 
 #### I don’t see the migration helper!
 
-It will only be deployed once smart contract deployments and configurations are completed. It could take serval hours. Follow our [Twitter](https://twitter.com/pancakeswap/) or [Telegram](https://t.me/PancakeSwapAnn) announcement channel for the latest updates!
+It will only be deployed once smart contract deployments and configurations are completed. It could take several hours. Follow our [Twitter](https://twitter.com/pancakeswap/) or [Telegram](https://t.me/PancakeSwapAnn) announcement channel for the latest updates!
 
 #### Why lock staking is not available?
 

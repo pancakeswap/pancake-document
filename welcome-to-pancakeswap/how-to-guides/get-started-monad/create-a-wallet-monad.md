@@ -43,7 +43,7 @@ Not sure which type of wallet to use? Here’s a quick breakdown of mobile vs. d
 ***
 
 {% hint style="success" %}
-**Some popular** [**wallets**](https://docs.monad.xyz/tooling-and-infra/wallets/software-wallets) **that you may use for Monad ecoystem!**
+**Some popular** [**wallets**](https://docs.monad.xyz/tooling-and-infra/wallets/software-wallets) **that you may use for the Monad ecosystem!**
 {% endhint %}
 
 ***

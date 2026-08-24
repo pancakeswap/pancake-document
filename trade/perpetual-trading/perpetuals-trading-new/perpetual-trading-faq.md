@@ -61,4 +61,4 @@ Fees for PancakeSwap Perpetuals as follows:
 
 ### **Which jurisdictions are restricted from using the product?** <a href="#whats-the-difference-between-a-maker-and-taker-order" id="whats-the-difference-between-a-maker-and-taker-order"></a>
 
-Users located in or accessing the service from the United States of America, Canada, the United Kingdom, China, North Korea, Russia, Ukraine, Cuba, Iran, Venezuela, or Syria are not permitted to use the product. Access may be restricted or blocked in accordance with applicable compliance and regulatory requirements.
+Users located in or accessing the service from the United States of America, Canada, the United Kingdom, China, North Korea, South Korea, Russia, Ukraine, Cuba, Iran, Venezuela, or Syria are not permitted to use the product. Access may be restricted or blocked in accordance with applicable compliance and regulatory requirements.

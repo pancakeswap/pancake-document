@@ -70,7 +70,7 @@ Dynamic fees offer maximum flexibility and optimize fee structures for both LPs 
 | ---------------- | ---------------- |
 | 1%               | 0.33%            |
 | 2%               | 0.4% (capped)    |
-| Dynamic Fee Pool | 0%               |
+| Dynamic Fee Pool | 0.03% (current default) |
 
 #### 🛠️ Setup Notes for Pool Creators
 

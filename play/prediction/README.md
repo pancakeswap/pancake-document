@@ -15,7 +15,7 @@ You can play PancakeSwap Prediction on:
 
 ### Summary: How It Works
 
-1. **Choose an asset to bet on**: Currently available on **BNB Chain**, **zkSync Era**, and **Arbitrum One**.
+1. **Choose an asset to bet on**: Currently available on **BNB Chain**; markets on **zkSync Era** and **Arbitrum One** are temporarily paused.
 2. **Pick UP or DOWN**: Predict if the asset price will be higher or lower when the “LIVE” phase ends (each round = 5 minutes).
 3. Place your bet amount: Any BNB amount
 4. **Lock in your position**: Once placed, your bet cannot be changed.
@@ -25,7 +25,7 @@ You can play PancakeSwap Prediction on:
 
 ### Mechanics & Fees
 
-* **Supported Chains: BNB Chain, zkSync Era, Arbitrum One**
+* **Supported Chains: BNB Chain (live); zkSync Era, Arbitrum One (paused)**
 * **Round frequency**: Every **5 minutes** (rolling rounds).
 * **Participation fee**: **3%** of each round’s total prize pool, a portion of which goes to **CAKE buybacks**.
 * **Winnings**: Claim anytime after results are finalized.
