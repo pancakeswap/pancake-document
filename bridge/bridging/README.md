@@ -84,6 +84,7 @@ We currently integrate with:
 * opBNB
 * ZKsync
 * Linea
+* Monad
 * Solana
 * Aptos (V1 site)
 
