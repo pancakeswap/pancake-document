@@ -22,5 +22,5 @@ Note: Tokenized assets offered through Ondo Finance on PancakeSwap are not avail
 {% endhint %}
 
 {% hint style="success" %}
-**You can access these assets directly from Swap page on PancakeSwap.**
+**You can access these assets from the dedicated** [**Stocks page**](https://pancakeswap.finance/stocks) **or directly from the Swap page on PancakeSwap.**
 {% endhint %}
