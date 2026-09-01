@@ -80,6 +80,7 @@
     * [Become a Chef](welcome-to-pancakeswap/about-us/team/become-a-chef/README.md)
       * [Business Development Lead](welcome-to-pancakeswap/about-us/team/become-a-chef/business-development-lead.md)
       * [Business Development Manager (AMM)](welcome-to-pancakeswap/about-us/team/become-a-chef/business-development-lead-1.md)
+      * [Business Development Manager (Liquidity Hub)](welcome-to-pancakeswap/about-us/team/become-a-chef/business-development-lead-1-1.md)
       * [Community Manager (CN)](welcome-to-pancakeswap/about-us/team/become-a-chef/community-manager-cn.md)
       * [Community Manager](welcome-to-pancakeswap/about-us/team/become-a-chef/community-manager.md)
       * [Senior Frontend Engineer](welcome-to-pancakeswap/about-us/team/become-a-chef/frontend-engineer.md)
