@@ -96,7 +96,7 @@ Mapped back to what issuers care about:
 
 Build intuition for how SIH behaves with our interactive comparison tool **→** [https://pancakeswap-shared-inventory.netlify.app/](https://pancakeswap-shared-inventory.netlify.app/)
 
-<figure><img src="../../../../.gitbook/assets/image (405).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (406).png" alt=""><figcaption></figcaption></figure>
 
 This is a **high-level, normalised comparison** of SIH against a traditional CLAMM book — a number of real-world factors are held constant on both sides so the capital-efficiency mechanic can be isolated cleanly. It's a model for understanding, not a P\&L.
 
