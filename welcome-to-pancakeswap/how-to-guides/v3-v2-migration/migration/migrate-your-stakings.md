@@ -87,7 +87,7 @@ You are now staking in the new MasterChef and continue earning CAKE rewards! Cli
 
 ![](<../../../../.gitbook/assets/en - migration timeline - 2.png>)
 
-Make sure to follow our [Twitter](https://twitter.com/pancakeswap/) or [Telegram](https://t.me/PancakeSwapAnn) announcement channel for detailed timing and the latest updates! Need any help? Learn more about how to reach for help [here](../../../contact-us/#help).
+Make sure to follow our [Twitter](https://twitter.com/pancakeswap/) or [Telegram](https://t.me/PancakeSwapAnn) announcement channel for detailed timing and the latest updates! Need any help? Learn more about how to reach for help [here](../../../contact-us/faq/help.md).
 
 ## FAQ
 

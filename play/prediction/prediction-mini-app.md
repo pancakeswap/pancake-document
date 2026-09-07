@@ -24,11 +24,11 @@ You can connect any mobile wallet to the desktop Telegram mini app using QR code
 {% tab title="iPhone" %}
 **Use MetaMask**
 
-You can connect your MetaMask wallet to your Telegram mini app. To connect, choose “MetaMask”. If a prompt appear to ask if you want to be taken to the MetaMask app, click Open. Then follow the instructions in the MetaMask app to connect.
+You can connect your MetaMask wallet to your Telegram mini app. To connect, choose “MetaMask”. If a prompt appears to ask if you want to be taken to the MetaMask app, click Open. Then follow the instructions in the MetaMask app to connect.
 
 **Use WalletConnect**
 
-You can connect any supported mobile wallet to your Telegram mini app. To connect, choose “WalletConnect”, click “View All”, and select your wallet. If a prompt appear to ask if you want to be taken to the wallet app, click Open. Then follow the instructions in the wallet app to connect.
+You can connect any supported mobile wallet to your Telegram mini app. To connect, choose “WalletConnect”, click “View All”, and select your wallet. If a prompt appears to ask if you want to be taken to the wallet app, click Open. Then follow the instructions in the wallet app to connect.
 {% endtab %}
 
 {% tab title="Android" %}

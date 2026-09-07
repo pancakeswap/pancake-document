@@ -1,5 +1,5 @@
 ---
-description: Find, Provide LP, Fram
+description: Find, Provide LP, Farm
 ---
 
 # How to Use Farms

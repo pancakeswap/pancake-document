@@ -7,7 +7,7 @@ description: Bridge CAKE between EVM chains and Aptos
 <figure><img src="../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-The following guide uses BNB Chain as an example of an EVM chain. The same process can be applied to Ethereum.
+The following guide uses BNB Chain as an example of an EVM chain. The same process can be applied to Ethereum for bridging **into** Aptos. Bridging **out of** Aptos currently only supports BNB Smart Chain as the destination.
 {% endhint %}
 
 ## Bridge CAKE from BNB Smart Chain to Aptos
