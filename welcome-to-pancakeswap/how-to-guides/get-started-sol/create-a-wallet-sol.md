@@ -31,7 +31,7 @@ Crypto wallets give you full control over your assets — but with great power c
 Not sure which type of wallet to use? Here’s a quick breakdown of mobile vs. desktop/web wallets so you can choose what fits your style:
 
 | Feature         | **Mobile Wallets**                 | **Browser/Desktop Wallets**            |
-| --------------- | ---------------------------------- | -------------------------------------- |
+| --------------- | ----------------------------------- | --------------------------------------- |
 | **Use case**    | Swap & track on-the-go             | Best for multitasking or deep dApp use |
 | **Ease of use** | Intuitive, beginner-friendly       | Lightweight extensions, quick access   |
 | **Security**    | Depends on phone security          | Easier hardware wallet integration     |
@@ -102,7 +102,7 @@ You can:
 * Buy SOL on a centralised exchange and transfer it in
 * Or bridge assets to Solana using a cross-chain bridge at [pancakeswap.finance/bridge](https://pancakeswap.finance/bridge)
 
-View here to see how to [Get SOL](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-sol/get-sol)
+View here to see how to [Get SOL](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-sol/get-sol-cake-on-sol)
 
 ***
 
