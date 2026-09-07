@@ -85,6 +85,7 @@ We currently integrate with:
 * ZKsync
 * Linea
 * Monad
+* Robinhood
 * Solana
 * Aptos (V1 site)
 
@@ -200,6 +201,7 @@ If a transaction is stuck for a long time, check the relevant explorer or reach 
    * `cakeOFT`: `0x3055913c90Fcc1A6CE9a358911721eEb942013A1` ([link](https://basescan.org/address/0x3055913c90Fcc1A6CE9a358911721eEb942013A1#code))
 8. **opBNB**
    * `cakeOFT`: `0x2779106e4F4A8A28d77A24c18283651a2AE22D1C` ([link](https://opbnbscan.com/address/0x2779106e4F4A8A28d77A24c18283651a2AE22D1C?tab=Contract\&p=1))
-9. **Solana**
-   * `cakeOFT`: `4qQeZ5LwSz6HuupUu8jCtgXyW1mYQcNbFAW1sWZp89HL`
-
+9. **Monad**
+   * `cakeOFT`: `0xF59D81cd43f620E722E07f9Cb3f6E41B031017a3`
+10. **Solana**
+    * `cakeOFT`: `4qQeZ5LwSz6HuupUu8jCtgXyW1mYQcNbFAW1sWZp89HL`
