@@ -88,7 +88,7 @@ To learn more about voting, you can [read our section on Voting](https://docs.pa
 
 ## What is the max supply of CAKE?
 
-Yes, CAKE now has a hard cap of 400M as outlined in [our latest proposal](https://pancakeswap.finance/voting/proposal/0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5?id=0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5\&chain=bsc).
+CAKE now has a hard cap of 400M as outlined in [our latest proposal](https://pancakeswap.finance/voting/proposal/0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5?id=0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5\&chain=bsc).
 
 ## What are the treasury funds used for?
 

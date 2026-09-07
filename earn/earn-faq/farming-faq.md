@@ -10,7 +10,7 @@ In V3, you can concentrate your assets while providing liquidity to boost your s
 
 Therefore, depending on the position price-range settings, each liquidity position will have its own LP fee APR and its own farming APR.
 
-The global APR is calculated with the total amount of CAKE rewards in USD, divided by the total amount of assets, with in the active positions, which are currently staked in the farm. So, global farming APR is only a generic reference, and will not represent individual APRs for each positions.
+The global APR is calculated with the total amount of CAKE rewards in USD, divided by the total amount of assets, within the active positions, which are currently staked in the farm. So, global farming APR is only a generic reference, and will not represent individual APRs for each positions.
 
 To view your farming APR, check out your positions listed under each farm.
 
