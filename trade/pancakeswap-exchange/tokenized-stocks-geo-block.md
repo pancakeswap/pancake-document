@@ -59,3 +59,11 @@ United States
 ### St0X
 
 No region-based restrictions.
+
+### rStocks
+
+**70 countries**
+
+Afghanistan, Algeria, Angola, Austria, Belarus, Belgium, Bulgaria, Burundi, Canada, Central African Republic, Côte d'Ivoire, Croatia, Cuba, Cyprus, Czechia, North Korea, DR Congo, Denmark, Eritrea, Estonia, Ethiopia, Finland, France, Germany, Greece, Guinea-Bissau, Haiti, Hong Kong, Hungary, Iran, Iraq, Ireland, Italy, Japan, Kazakhstan, Kenya, Laos, Latvia, Lebanon, Libya, Lithuania, Luxembourg, Mali, Malta, Monaco, Myanmar, Namibia, Nepal, Netherlands, Nicaragua, Poland, Portugal, Romania, Russia, Singapore, Slovakia, Slovenia, Somalia, South Sudan, Spain, Sudan, Sweden, Syria, Ukraine, United Arab Emirates, United Kingdom, United States, Venezuela, Yemen, Zimbabwe
+
+`AF, DZ, AO, AT, BY, BE, BG, BI, CA, CF, CI, HR, CU, CY, CZ, KP, CD, DK, ER, EE, ET, FI, FR, DE, GR, GW, HT, HK, HU, IR, IQ, IE, IT, JP, KZ, KE, LA, LV, LB, LY, LT, LU, ML, MT, MC, MM, NA, NP, NL, NI, PL, PT, RO, RU, SG, SK, SI, SO, SS, ES, SD, SE, SY, UA, AE, GB, US, VE, YE, ZW`
