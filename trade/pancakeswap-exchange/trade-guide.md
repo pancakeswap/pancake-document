@@ -6,9 +6,9 @@ Trading on PancakeSwap is very easy compared to most exchanges. You aren't going
 
 **Getting set up to trade**
 
-Before you can trade, you will need a wallet that is compatible with BNB Chain or Ethereum. You can learn how to get one [here](https://docs.pancakeswap.finance/get-started/wallet-guide). You will also need to have some BEP-20 or ERC-20 tokens to trade with. You can learn how to get some [here](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/bep20-guide).
+Before you can trade, you will need a wallet that is compatible with BNB Chain or Ethereum. You can learn how to get one [here](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/wallet-guide). You will also need to have some BEP-20 or ERC-20 tokens to trade with. You can learn how to get some [here](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/bep20-guide).
 
-Alternatively, you can learn how to get an Aptos-compatible wallet [here](https://docs.pancakeswap.finance/get-started-aptos/wallet-guide), and how to get some Aptos coins to swap within [here](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-aptos/aptos-coin-guide).
+Alternatively, you can learn how to get an Aptos-compatible wallet [here](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-aptos/wallet-guide), and how to get some Aptos coins to swap within [here](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-aptos/aptos-coin-guide).
 
 ## Trading on the PancakeSwap exchange
 

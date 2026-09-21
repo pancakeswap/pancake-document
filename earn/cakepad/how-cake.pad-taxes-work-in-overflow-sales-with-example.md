@@ -9,7 +9,7 @@
 
 **Oversubscription rate <> Fee Tier**&#x20;
 
-<table data-full-width="false"><thead><tr><th>Oversubscription Rate</th><th>Fee Tier</th></tr></thead><tbody><tr><td>≥ 0x</td><td>1.00%</td></tr><tr><td>≥ 50x</td><td>0.80%</td></tr><tr><td>≥ 100x</td><td>0.60%</td></tr><tr><td>≥ 150x</td><td>0.50%</td></tr><tr><td>≥ 200x</td><td>0.40%</td></tr><tr><td>≥ 250x</td><td>0.30%</td></tr><tr><td>≥ 300x</td><td>0.25%</td></tr><tr><td>≥ 400x</td><td>0.20%</td></tr><tr><td>≥ 500x</td><td>0.15%</td></tr><tr><td>≥ 650x</td><td>0.12%</td></tr><tr><td>≥ 800x</td><td>0.10%</td></tr><tr><td>≥ 1000x</td><td>0.080%</td></tr><tr><td>≥ 1250x</td><td>0.065%</td></tr><tr><td>≥ 1500x</td><td>0.055%</td></tr><tr><td>≥ 1800x</td><td>0.045%</td></tr><tr><td>≥ 2200x</td><td>0.037%</td></tr><tr><td>≥ 2700x</td><td>0.030%</td></tr><tr><td>≥ 3300x</td><td>0.025%</td></tr><tr><td>≥ 4000x</td><td>0.020%</td></tr><tr><td>≥ 5000x</td><td>0.017%</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th>Oversubscription Rate</th><th>Fee Tier</th></tr></thead><tbody><tr><td>≥ 0x</td><td>1.00%</td></tr><tr><td>≥ 50x</td><td>0.80%</td></tr><tr><td>≥ 100x</td><td>0.60%</td></tr><tr><td>≥ 150x</td><td>0.50%</td></tr><tr><td>≥ 200x</td><td>0.40%</td></tr><tr><td>≥ 250x</td><td>0.30%</td></tr><tr><td>≥ 300x</td><td>0.25%</td></tr><tr><td>≥ 400x</td><td>0.20%</td></tr><tr><td>≥ 500x</td><td>0.15%</td></tr><tr><td>≥ 650x</td><td>0.12%</td></tr><tr><td>≥ 800x</td><td>0.10%</td></tr><tr><td>≥ 1500x</td><td>0.05%</td></tr></tbody></table>
 
 
 

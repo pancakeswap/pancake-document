@@ -62,15 +62,7 @@ For a numerical example, please refer to [how-cake.pad-taxes-work-in-overflow-sa
 | ≥ 500x                | 0.15%    |
 | ≥ 650x                | 0.12%    |
 | ≥ 800x                | 0.10%    |
-| ≥ 1000x               | 0.080%   |
-| ≥ 1250x               | 0.065%   |
-| ≥ 1500x               | 0.055%   |
-| ≥ 1800x               | 0.045%   |
-| ≥ 2200x               | 0.037%   |
-| ≥ 2700x               | 0.030%   |
-| ≥ 3300x               | 0.025%   |
-| ≥ 4000x               | 0.020%   |
-| ≥ 5000x               | 0.017%   |
+| ≥ 1500x               | 0.05%    |
 
 ### Contract Details
 
