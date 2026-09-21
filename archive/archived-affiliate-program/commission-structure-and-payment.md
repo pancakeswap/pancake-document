@@ -12,9 +12,9 @@ Our commission structure is as follows:
 * includes at least **1 major token** (i.e., BNB, BTC, BUSD, ETH, USDT and/or USDC)
 * Limited to swap trades on **BNB Smart Chain and Ethereum chain only**
 
-**\*\***&#x50;erpetuals are prohibited from certain jurisdiction, please ensure you are eligible to trade derivatives on this platform.
+**Perpetuals are prohibited from certain jurisdictions.** Please ensure you are eligible to trade derivatives on this platform.
 
-\*\*\*Trading fees on perpetual trades (or any Referral’s position which may incur liquidation fees) do not include any liquidation fees for liquidating your Referrals’ position. Limited to perpetual trades on **BNB Smart Chain and Ethereum chain only.**
+Trading fees on perpetual trades (or any Referral’s position which may incur liquidation fees) do not include any liquidation fees for liquidating your Referrals’ position. Limited to perpetual trades on **BNB Smart Chain and Ethereum chain only.**
 
 ### Payment
 

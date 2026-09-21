@@ -22,7 +22,7 @@ Simple Staking offers a variety of popular tokens to earn yield. As we expand th
 
 **Hassle-Free Staking:** No need to manage different positions or move tokens around as with other yield Farming methods.&#x20;
 
-**Daily Accural:** You'll earn rewards daily based on the APR rate and can claim them at the end of the staking period. The longer you commit to staking, the higher your APR.
+**Daily Accrual:** You'll earn rewards daily based on the APR rate and can claim them at the end of the staking period. The longer you commit to staking, the higher your APR.
 
 **APR boost with CAKE staking:** Staking CAKE in our [fixed-term pool](https://pancakeswap.finance/pools) will boost APR rates, increasing your Simple Staking rewards. For more information on Boosted APR, please visit the [FAQ section.](faq.md)
 

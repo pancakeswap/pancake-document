@@ -74,7 +74,7 @@ Eight percent (8%) of the prize pot distributed each week will be charged as fee
 
 ## **Ready to Participate?**
 
-If you are clear about the product structure, the risks and the fees – see this page on [how to participate](https://docs.pancakeswap.finance/products/pottery/how-to-play-pottery) from the PancakeSwap web UI and other [Pottery FAQ](https://docs.pancakeswap.finance/products/pottery/pottery-faq)!
+If you are clear about the product structure, the risks and the fees – see this page on [how to participate](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery/how-to-play-pottery) from the PancakeSwap web UI and other [Pottery FAQ](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery/pottery-faq)!
 
 
 

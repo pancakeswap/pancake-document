@@ -27,7 +27,7 @@
 
 * A [**Tiered Tax** ](how-cake.pad-taxes-work-in-overflow-sales-with-example.md)applies **only to excess committed funds**.
 * The project receives **100% of its target raise**.
-* Tax rates decrease as oversubscription increases (from 1% down to 0.05%).
+* Tax rates decrease as oversubscription increases (from 1% down to 0.017%).
 
 ### 6. What is the smallest amount of CAKE.PAD partner token allocation possible?
 

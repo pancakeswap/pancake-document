@@ -37,7 +37,7 @@ You may find this APR display under:
 
 <figure><img src="../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
 
-Whenever you see the automatic APR displays, you can click and bring up the new ROI calculator. The new ROI calculator has been redesigned with serval added features to fit the needs for V3 concentrated liquidity providing and farming.
+Whenever you see the automatic APR displays, you can click and bring up the new ROI calculator. The new ROI calculator has been redesigned with several added features to fit the needs for V3 concentrated liquidity providing and farming.
 
 Let’s go through each of the sections together:
 

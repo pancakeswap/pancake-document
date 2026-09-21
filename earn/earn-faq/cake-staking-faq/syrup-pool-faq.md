@@ -49,7 +49,7 @@ There are three main types of Syrup Pools.
 2. Stake CAKE, earn other tokens.&#x20;
 3. Stake other tokens, earn CAKE
 
-The rewards for the "Stake CAKE, earn CAKE" Syrup Pools come from the [CAKE emissions](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics). Each block, a number of CAKE tokens are allocated as rewards for these pools.
+The rewards for the "Stake CAKE, earn CAKE" Syrup Pools come from the [CAKE emissions](https://docs.pancakeswap.finance/protocol/cake-tokenomics). Each block, a number of CAKE tokens are allocated as rewards for these pools.
 
 The rewards for the "Stake CAKE, earn other tokens" type are provided by the project teams who sponsor a Syrup Pool.
 

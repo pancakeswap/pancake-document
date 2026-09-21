@@ -110,5 +110,5 @@ Throughout the vesting period, you can return to the CAKE.PAD event page at any 
 
 Now that you've got your shiny new tokens, you can put them to work for you! You can add liquidity for your token to receive trading fees and farming.
 
-* Read about adding liquidity [here](https://docs.pancakeswap.finance/get-started/liquidity-guide).
+* Read about adding liquidity [here](https://docs.pancakeswap.finance/earn/pancakeswap-pools/liquidity-guide).
 * Read about farming [here](../yield-farming/).

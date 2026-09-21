@@ -28,7 +28,7 @@ Once migrated, you should see your veCAKE balance, the number of CAKE locked, an
 
 However, the migrated position can not be updated. If you want to get more veCAKE, create a new native veCAKE staking position on the right by locking extra CAKE.&#x20;
 
-After creating a native position, you can start extending its lock duration, as well as adding more CAKE, using the pannel on the right.
+After creating a native position, you can start extending its lock duration, as well as adding more CAKE, using the panel on the right.
 
 ## Check the breakdown of the number of CAKE and unlock time <a href="#id-10ffc408-be58-4fa8-af56-be9f74d03f42" id="id-10ffc408-be58-4fa8-af56-be9f74d03f42"></a>
 

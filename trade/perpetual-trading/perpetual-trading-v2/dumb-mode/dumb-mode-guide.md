@@ -4,7 +4,7 @@
 
 To place an order in Dumb Mode on PancakeSwap, follow these steps:
 
-1. Select a Market: Go to [**Pancakeswap Perpertuals**](https://perp.pancakeswap.finance/en/futures/v2/BTCUSD?theme=light\&chain=bsc) on BSC. Choose from the available markets like BTCUSD, ETHUSD, etc.
+1. Select a Market: Go to [**PancakeSwap Perpetuals**](https://perp.pancakeswap.finance/en/futures/v2/BTCUSD?theme=light\&chain=bsc) on BSC. Choose from the available markets like BTCUSD, ETHUSD, etc.
 
 <figure><img src="../../../../.gitbook/assets/Module_Order.png" alt="" width="338"><figcaption></figcaption></figure>
 

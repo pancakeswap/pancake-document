@@ -27,7 +27,7 @@ Once connected, you’ll see the following information:
 4. **My Total Rewards**: The total CAKE you’re eligible to redeem and claim, made up of:
 
 * **Cake Pool Rewards**: Legacy CAKE Pool rewards
-* **Revenue Sharing Rewards**: Earned from staking CAKE ([More info](https://docs.pancakeswap.finance/earn/cake-staking/revenue-sharing/earn-cake-weekly))
+* **Revenue Sharing Rewards**: Earned from staking CAKE ([More info](https://docs.pancakeswap.finance/welcome-to-pancakeswap/vecake-sunset/archive-vecake/earn-cake-weekly))
 
 <figure><img src="../../.gitbook/assets/Connected view balance.png" alt=""><figcaption></figcaption></figure>
 

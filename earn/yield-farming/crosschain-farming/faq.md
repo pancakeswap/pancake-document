@@ -83,8 +83,6 @@ This fee only charges once upon the first "stake" transaction.
 
 ### Where are the emissions coming from?&#x20;
 
-_updated on Oct 10 2022_
-
 For now, Chefs have diverted 0.0189 CAKE per block from the CAKE pool to all crosschain farms.&#x20;
 
 Here is the emissions breakdown:

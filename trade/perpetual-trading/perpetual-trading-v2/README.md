@@ -14,7 +14,7 @@ By tapping into Pyth, Binance Oracle and Chainlink price feeds, we dodge any une
 
 #### Self-Custody Freedom
 
-No more tedious deposits and withdrawals to trade with Pancakeswap Perpertuals V2. Users will trade fully on-chain, and no deposit and withdrawal requirements exist. Users can be assured that no protocol can manage, increase or reduce trading positions outside of a liquidation event.
+No more tedious deposits and withdrawals to trade with PancakeSwap Perpetuals V2. Users will trade fully on-chain, and no deposit and withdrawal requirements exist. Users can be assured that no protocol can manage, increase or reduce trading positions outside of a liquidation event.
 
 #### Higher Liquidity
 

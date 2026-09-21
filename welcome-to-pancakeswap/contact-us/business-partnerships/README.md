@@ -44,7 +44,7 @@ For commonly asked business partnerships questions
 
 ### The people's choice for all things DeFi
 
-With more than $1.5B in TVL, we like to move quickly and do so responsibly. Having more than four years of experience in the crypto markets, from bull to bear, we have been effectively delivering DeFi to our community. Don’t just trust us, [verify](https://docs.pancakeswap.finance/audits).
+With more than $1.5B in TVL, we like to move quickly and do so responsibly. Having more than four years of experience in the crypto markets, from bull to bear, we have been effectively delivering DeFi to our community. Don’t just trust us, [verify](https://docs.pancakeswap.finance/welcome-to-pancakeswap/audits).
 
 Our partnerships with projects go beyond just token distribution programs (“Syrup Pools”) and token launch opportunities (“Initial Farm Offerings”). We genuinely recognize the impact of community in crypto – our dedicated team of Ambassadors help us keep a pulse on the diverse communities we serve, and we regularly host events with high engagement with partners: podcasts, AMAs, meme contests, and many more!
 

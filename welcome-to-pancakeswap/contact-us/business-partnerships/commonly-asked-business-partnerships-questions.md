@@ -12,7 +12,7 @@ If you’ve already got an ongoing Syrup Pool, you can extend the timeline with 
 
 #### How can I list my token on the exchange?
 
-Anybody can "list" any ERC-20 / BEP-20 network token on PancakeSwap. You don't need to contact us or ask permission. You just need to [add liquidity to a liquidity pool](https://docs.pancakeswap.finance/products/pancakeswap-exchange/pancakeswap-pools) - that's it. Traders can then trade your token by entering your token's contract address.
+Anybody can "list" any ERC-20 / BEP-20 network token on PancakeSwap. You don't need to contact us or ask permission. You just need to [add liquidity to a liquidity pool](https://docs.pancakeswap.finance/earn/pancakeswap-pools) - that's it. Traders can then trade your token by entering your token's contract address.
 
 #### How can I add my token to the default list?
 
@@ -30,7 +30,7 @@ Due to PancakeSwap’s nature as an AMM-based DEX, we’re not able to prevent t
 
 #### People get an error when trading my token. What can I do?
 
-Check our [Troubleshooting page](https://docs.pancakeswap.finance/readme/help/troubleshooting) for a list of common errors on the exchange, and how to solve them.
+Check our [Troubleshooting page](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/faq/troubleshooting) for a list of common errors on the exchange, and how to solve them.
 
 #### Why are some statistics of my tokens not shown on the Info page?
 

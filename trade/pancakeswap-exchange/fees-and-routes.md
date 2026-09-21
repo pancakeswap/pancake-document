@@ -47,7 +47,7 @@ You can click the “Reset” button on the top right-hand corner to reset the c
 
 At the bottom of the “Customize Routing” interface, you can customize your routing preferences by enabling or disabling multihops and split routing.
 
-Multihops allow tokens to swap through multiple hops between serval liquidity pools to achieve the best deal. Turning it off will restrict trades to direct swaps, which may cause higher slippage or even fund loss.
+Multihops allow tokens to swap through multiple hops between several liquidity pools to achieve the best deal. Turning it off will restrict trades to direct swaps, which may cause higher slippage or even fund loss.
 
 Split routing enables token swaps to be broken into multiple routes to achieve the best deal. Turning it off will restrict trades from being executed with a single route, which may result in low efficiency or higher slippage.
 

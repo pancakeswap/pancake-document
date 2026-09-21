@@ -12,7 +12,7 @@ On the bridge status page. You can see a link which will take you to your transa
 
 <figure><img src="https://lh7-us.googleusercontent.com/yORDYXyM5E3AL_vFxZZ1Q5qeHv59yDodX5sFz2LNxLmjcBEYLJva6KyaHacpuc2VPdccB7GjUflXRcus4l6gh7HD1Y6x0S6GU1xX03Z-9E9xA6JDFSnNgeErRHSF2wV_98qqyrgAL8p_9EBgXWKXRZU" alt=""><figcaption></figcaption></figure>
 
-The find redeem option is an alternative method that you can follow to complete your destination chain transaction. You can use this method in the case that the wormhole bridge stalls or fails to update your bridge transactions’s status. To redeem your transaction first click the redeem button
+The find redeem option is an alternative method that you can follow to complete your destination chain transaction. You can use this method in the case that the wormhole bridge stalls or fails to update your bridge transaction's status. To redeem your transaction first click the redeem button
 
 <figure><img src="https://lh7-us.googleusercontent.com/DJTsB2sz0KxIuhUfFbqbb01acekDiLJzEVws1pYWfiNGFRaFnQa0lCW8Wv4L-W7GBdYBvDIB7wUgkFF7tk8zrVCS1EuarMROR0bECQS2NHqMiGpcMrVfaVWGGqJPJXZmOxQIPUcjceDgE8WUk9wJviQ" alt=""><figcaption></figcaption></figure>
 
