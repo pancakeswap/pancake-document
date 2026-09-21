@@ -24,7 +24,7 @@ The multiplier is calculated using the following method:
 
 `constantA` and `constantB` are set by the kitchen and subject to future adjustments based on community feedback and market conditions. `constantB` varies between different farms to compensate for the LP price differences.
 
-`constantA` and `constantB` can be fethced via:
+`constantA` and `constantB` can be fetched via:
 
 * `FarmBooster.cA`
 * `FarmBooster.cBOverride(uint256 pid) > 0 ? FarmBooster.cBOverride(uint256 pid) : FarmBooster.cB`
@@ -114,5 +114,5 @@ Therefore, in the initial product release phase. Many of the parameters are very
 
 bCAKE has been audited by both internal and external auditors.
 
-Check out audit reports here: [https://docs.pancakeswap.finance/readme/audits](https://docs.pancakeswap.finance/readme/audits)
+Check out audit reports here: [https://docs.pancakeswap.finance/welcome-to-pancakeswap/audits](https://docs.pancakeswap.finance/welcome-to-pancakeswap/audits)
 

@@ -10,7 +10,7 @@ In return for adding liquidity, you'll receive trading fees for that pair, and r
 
 To provide liquidity, you’ll need to commit an amount of any token pair you like. Your lowest value (in USD) of the two tokens will be the limit to the liquidity you can provide.
 
-You can easily trade for any tokens you need. Visit our [How to Trade on PancakeSwap](https://docs.pancakeswap.finance/get-started/trade-guide) guide if you need to.
+You can easily trade for any tokens you need. Visit our [How to Trade on PancakeSwap](https://docs.pancakeswap.finance/trade/pancakeswap-exchange/trade-guide) guide if you need to.
 
 In this example, we will add V3 liquidity using ETH and USDC.
 

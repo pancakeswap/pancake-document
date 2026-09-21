@@ -18,7 +18,7 @@ See for yourself:
 
 You can stake your CAKE in PancakeSwap Syrup Pools. Visit the [Syrup Pools page](https://pancakeswap.finance/pools).
 
-Read our [How to Stake in Syrup Pools guide](https://docs.pancakeswap.finance/products/syrup-pool/syrup-pool-guide) if you'd like a hand getting started with staking.
+Read our [How to Stake in Syrup Pools guide](https://docs.pancakeswap.finance/earn/cake-staking/syrup-pool/syrup-pool-guide) if you'd like a hand getting started with staking.
 
 ## What is the difference between staking and farming?
 
@@ -28,19 +28,19 @@ Staking only needs some CAKE to be added to a Syrup Pool to earn CAKE or other t
 [Learn more about Syrup Pool staking.](https://docs.pancakeswap.finance/products/syrup-pool)
 
 Farming is more complicated and needs LP Tokens to earn CAKE.\
-[Learn more about Yield Farming.](https://docs.pancakeswap.finance/products/yield-farming)
+[Learn more about Yield Farming.](https://docs.pancakeswap.finance/earn/yield-farming)
 
 ## How do I farm?
 
-We have a [Yield Farming guide](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) if you're interested in learning how to farm.
+We have a [Yield Farming guide](https://docs.pancakeswap.finance/earn/yield-farming/how-to-use-farms/how-to-use-farms) if you're interested in learning how to farm.
 
 ## Where can I view the PancakeSwap roadmap?
 
-You can [view our to-do list here, but don't call it a roadmap](https://docs.pancakeswap.finance/roadmap).
+You can [view our to-do list here, but don't call it a roadmap](https://docs.pancakeswap.finance/welcome-to-pancakeswap/roadmap).
 
 ## How do I connect my wallet to BNB Smart Chain and PancakeSwap?
 
-We have a [Connect Your Wallet to PancakeSwap guide](https://docs.pancakeswap.finance/get-started/connection-guide) covering this in detail.
+We have a [Connect Your Wallet to PancakeSwap guide](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/connection-guide) covering this in detail.
 
 ## What's the best wallet for PancakeSwap?
 
@@ -50,9 +50,9 @@ It depends on your needs. We have an [in-depth guide to selecting and creating a
 
 You can check the status of a transaction on [https://bscscan.com/](https://bscscan.com).
 
-Our [Troubleshooting Errors guide](https://docs.pancakeswap.finance/help/troubleshooting) may have a solution for your problem if you're having issues.
+Our [Troubleshooting Errors guide](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/faq/troubleshooting) may have a solution for your problem if you're having issues.
 
-You can also see our [Fixing Stuck Pending Transactions guide](https://docs.pancakeswap.finance/help/unsticking-a-transaction-stuck-as-pending-with-metamask) if you have a stuck transaction.
+You can also see our [Fixing Stuck Pending Transactions guide](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/faq/unsticking-a-transaction-stuck-as-pending-with-metamask) if you have a stuck transaction.
 
 ## When will you open more pools?
 
@@ -80,11 +80,11 @@ Learn how to find smart contracts on our [Finding Contracts page](https://docs.p
 
 ## Why does it say I have no BNB balance?
 
-If you've already [transferred BNB into your BNB Smart Chain-enabled wallet](https://docs.pancakeswap.finance/get-started/bep20-guide) but still have this error, you're most likely not [connected to BNB Smart Chain](https://docs.pancakeswap.finance/get-started/connection-guide) within your wallet. Check your wallet's selected network and make sure you have BNB Smart Chain (BSC) selected.
+If you've already [transferred BNB into your BNB Smart Chain-enabled wallet](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/bep20-guide) but still have this error, you're most likely not [connected to BNB Smart Chain](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/connection-guide) within your wallet. Check your wallet's selected network and make sure you have BNB Smart Chain (BSC) selected.
 
 ## How do I vote?
 
-To learn more about voting, you can [read our section on Voting](https://docs.pancakeswap.finance/products/voting), including voting guides.
+To learn more about voting, you can [read our section on Voting](https://docs.pancakeswap.finance/protocol/voting), including voting guides.
 
 ## What is the max supply of CAKE?
 
@@ -110,7 +110,7 @@ PancakeSwap’s other smart contracts, like IFO and AutoPool, are protected as w
 
 Check the [Become a Chef](https://docs.pancakeswap.finance/hiring/become-a-chef) area for information on open positions we're looking to fill.
 
-We advertise new positions we're looking to fill on our [official social media channels](https://docs.pancakeswap.finance/contact-us/telegram), so be sure to follow us to get the latest hiring information.
+We advertise new positions we're looking to fill on our [Telegram and Discord communities](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/telegram-and-discord-communities), so be sure to follow us to get the latest hiring information.
 
 ## What is SYRUP?
 
@@ -118,4 +118,4 @@ SYRUP was a part of the staking process earlier in PancakeSwap's life. SYRUP was
 
 ## I can't find an answer for my question. Where do I find an answer?
 
-If you can't find what you're looking for in PancakeSwap's documentation, ask your question on [PancakeSwap's official social media platforms](https://docs.pancakeswap.finance/contact-us/telegram) and someone will do their best to help you out.
+If you can't find what you're looking for in PancakeSwap's documentation, ask your question on our [Telegram and Discord communities](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/telegram-and-discord-communities) and someone will do their best to help you out.

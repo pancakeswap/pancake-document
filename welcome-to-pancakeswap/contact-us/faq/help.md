@@ -12,7 +12,7 @@ We have broken the help topic down into sections to help you find what you're af
 
 ### Troubleshooting Errors
 
-The [Troubleshooting Errors page](https://docs.pancakeswap.finance/help/troubleshooting) has a collection of errors users may run into while using PancakeSwap. It shows the problem with both a solution to the problem, and a reason explaining why the problem happened.
+The [Troubleshooting Errors page](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/faq/troubleshooting) has a collection of errors users may run into while using PancakeSwap. It shows the problem with both a solution to the problem, and a reason explaining why the problem happened.
 
 ### General FAQ
 

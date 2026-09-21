@@ -76,7 +76,7 @@ Already have tokens on a different chain like **BNB Chain**, **Ethereum**, or **
 
 #### ✅ What you do:
 
-1. Visit Pancakeswap's bridging site [https://pancakeswap.finance/bridge](https://pancakeswap.finance/bridge) or 3rd party bridging sites like: [https://stargate.finance/](https://stargate.finance/)
+1. Visit PancakeSwap's bridging site [https://pancakeswap.finance/bridge](https://pancakeswap.finance/bridge) or 3rd party bridging sites like: [https://stargate.finance/](https://stargate.finance/)
 2. Select your token and the chain you’re sending from.
 3. Choose **Solana** as your destination.
 4. Complete the bridge and receive the bridged token in your Solana wallet.

@@ -28,8 +28,6 @@ If you want to swap other coins that are not on the default list, import them us
 
 ### Why I can’t trade CAKE on Aptos Swap?
 
-_updated on 2022-12-13_
-
 CAKE token/coin is now live on Aptos. Check out our [CAKE bridging guide](cake-bridging-guide.md) to learn more about bridging CAKE tokens between Aptos and BNB Smart Chain.
 
 ### Do I need to stake CAKE on Aptos to participate in Aptos IFOs?

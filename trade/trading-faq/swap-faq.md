@@ -118,7 +118,7 @@ Please not that if the price moves back in the range, you will start receiving t
 
 ### Is it better to always provide liquidity with a smaller range?
 
-Providing liquidity to a smaller price range will help concentrate your liquidity to a spesific price range, boosting your relative shares again the total liquidity within the price range, potentially earning more trading fee rewards.
+Providing liquidity to a smaller price range will help concentrate your liquidity to a specific price range, boosting your relative shares against the total liquidity within the price range, potentially earning more trading fee rewards.
 
 However, please bear in mind that only active liquidity positions will earn trading fee rewards from trades. This means you will only earn rewards when the current trading price is within the price range defined in the liquidity position.
 
@@ -207,7 +207,7 @@ From the token balance field on BscScan, you can check which token has been depo
 
 Once confirmed, you must manually transfer the other asset into the pool contract. You may do that in the wallet app you prefer by entering the pool address as the receiver.
 
-You can transfer any amount but since this is effectively “donating” assets to a pool. You will be transfering your assets into a liquidity without minting liquidity tokens. So we recommend keeping this amount minimal.
+You can transfer any amount but since this is effectively “donating” assets to a pool. You will be transferring your assets into a liquidity pool without minting liquidity tokens. So we recommend keeping this amount minimal.
 
 {% hint style="warning" %}
 IMPORTANT: Once you’ve transferred the token, you must call `sync()`immediately on the pool.

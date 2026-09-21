@@ -12,7 +12,7 @@ Once the lock period ends, users will be able to withdraw their staking rewards 
 
 Should you choose to withdraw your funds early, schedules and penalties are as follows:
 
-| Withdrawl Fees/Pool   | 30 Day        | 60 Day        | 90 Day        |
+| Withdrawal Fees/Pool  | 30 Day        | 60 Day        | 90 Day        |
 | --------------------- | ------------- | ------------- | ------------- |
 | No Withdrawal         | First 10 Days | First 20 Days | First 30 Days |
 | 15% of deposit amount | 11-20 Days    | 21-40 Days    | 31-60 Days    |

@@ -71,7 +71,7 @@ If you want to adjust the price range configurations of a liquidity position, yo
 In Farm v3, CAKE reward APR could vary between liquidity positions. It is based on the following factors:
 
 * CAKE emission rate to Farms\
-  \- more CAKE will generate a higher yield for all the farms. Read more on [our tokenomics page](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics)
+  \- more CAKE will generate a higher yield for all the farms. Read more on [our tokenomics page](https://docs.pancakeswap.finance/protocol/cake-tokenomics)
 * Farm multiplier\
   \- farms with a higher multiplier will get more CAKE proportionate to all the farms. Please note that v3 and v2 + stable swap farms are using two separate sets of multipliers. And farms on Ethereum and BNB Chains are also using two separate sets of multipliers.
 * The number of tokens deposited in the position\

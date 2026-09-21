@@ -6,7 +6,7 @@
 
 ## Why do we need Pottery when we already have the Lottery v2?
 
-Pottery is a completely different product compared to Lottery v2. It is a combination of the locked CAKE pool and the lottery function utilizing the Chainlink's implementation of VRF for true, secure randomness. By participating in Pottery, you will not lose any of the CAKE you deposited, you are only risking the staking rewards of the CAKE you deposited. This product is designed for CAKErs who are more risk-averse but still would like to participate in a product of this nature. It’s an easy, fun and safe way to get a chance to win some CAKE. Learn more about [the product structure here](https://docs.pancakeswap.finance/products/pottery).
+Pottery is a completely different product compared to Lottery v2. It is a combination of the locked CAKE pool and the lottery function utilizing the Chainlink's implementation of VRF for true, secure randomness. By participating in Pottery, you will not lose any of the CAKE you deposited, you are only risking the staking rewards of the CAKE you deposited. This product is designed for CAKErs who are more risk-averse but still would like to participate in a product of this nature. It’s an easy, fun and safe way to get a chance to win some CAKE. Learn more about [the product structure here](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery).
 
 ## Is Pottery replacing the original Lottery v2?
 
@@ -34,11 +34,11 @@ There might occasionally be some delay because of the Subgraph reading, there wi
 
 ## How do I know if I have won in the weekly draw?
 
-After each draw on Friday at around noon UTC, you can view the results and winners in the Finished Rounds panel. Another way to check if you have won in any weekly draws is to check in the Claim panel to see if there is any prize to be claimed. Check out [this page on how to participate](https://docs.pancakeswap.finance/products/pottery/how-to-play-pottery)!
+After each draw on Friday at around noon UTC, you can view the results and winners in the Finished Rounds panel. Another way to check if you have won in any weekly draws is to check in the Claim panel to see if there is any prize to be claimed. Check out [this page on how to participate](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery/how-to-play-pottery)!
 
 ## What is the funding source of the prize?
 
-The prize pools are funded by the staking rewards of the deposits. However, since the staking rewards of the CAKE locked staking pool are only distributed after the lock duration – 10 weeks in this case, for better product experience and to facilitate the weekly draws right after the deposit date, the contract is borrowing 80% of the estimated total staking rewards from the cohort from the CAKE treasury based on the APR at the time of locking. The borrowed CAKE is used for the payout for each weekly draw. Learn more about [the product structure here](https://docs.pancakeswap.finance/products/pottery)!
+The prize pools are funded by the staking rewards of the deposits. However, since the staking rewards of the CAKE locked staking pool are only distributed after the lock duration – 10 weeks in this case, for better product experience and to facilitate the weekly draws right after the deposit date, the contract is borrowing 80% of the estimated total staking rewards from the cohort from the CAKE treasury based on the APR at the time of locking. The borrowed CAKE is used for the payout for each weekly draw. Learn more about [the product structure here](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery)!
 
 ## If I win, do I need to manually claim the prize?
 
