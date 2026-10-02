@@ -18,8 +18,6 @@
 
 🐰 Chef Leo - Business Development Lead ([Twitter](https://x.com/DYOR_WAGMI))
 
-🐰 Chef Madeline - Business Development&#x20;
-
 🐰 Chef Olive - Business Development&#x20;
 
 🐰 Chef Salade - Design Lead
@@ -34,9 +32,7 @@
 
 🐰 Chef Boba - Community &#x20;
 
-🐰 Chef Pixie - Product Marketing &#x20;
-
-🐰 Chef Jackson - Dev Lead ([Twitter](https://x.com/0xchefjackson))
+🐰 Chef Mist - Dev Lead&#x20;
 
 🐰 Chef Ryan - Frontend Dev Lead
 
