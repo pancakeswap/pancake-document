@@ -28,6 +28,8 @@
 
 🐰 Chef Cocoa - Marketing Lead ([Twitter](https://x.com/chef_cocoa_pcs))
 
+🐰 Chef Alina - Partnership Marketing
+
 🐰 Chef Marcus - Social Media &#x20;
 
 🐰 Chef Boba - Community &#x20;
