@@ -301,6 +301,7 @@
   * [MEV Guard FAQ](trading-tools/trading-tools-faq/mev-guard-faq.md)
 * [🤖 Building Trading Agents on PancakeSwap V3](trading-tools/building-trading-agents-on-pancakeswap-v3/README.md)
   * [Reference Agent — Order/Intents Settlement Agent](trading-tools/building-trading-agents-on-pancakeswap-v3/reference-agent-order-intents-settlement-agent.md)
+* [🧙 Page 1](trading-tools/page-1.md)
 
 ## Protocol
 
