@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Community Manager (CN)
 
 * Position: Full-time
