@@ -4,21 +4,29 @@
 
 ### The Chefs
 
-🐰 Chef Kids - Head Chef ([Twitter](https://x.com/Headchef_pcs))
+🐰 Chef Kids - Head Chef ([X/Twitter](https://x.com/Headchef_pcs))
 
 🐰 Chef Miso - Product
 
 🐰 Chef Kocha - Product
 
-🐰 Chef Mustard - Ops ([Twitter](https://twitter.com/chef_mustard))
+🐰 Chef Mustard - Ops ([X/Twitter](https://twitter.com/chef_mustard))
 
 🐰 Chef Pau - Ops
 
-🐰 Chef Cyrus - Data
-
-🐰 Chef Leo - Business Development Lead ([Twitter](https://x.com/DYOR_WAGMI))
+🐰 Chef Leo - Business Development Lead ([X/Twitter](https://x.com/DYOR_WAGMI))
 
 🐰 Chef Olive - Business Development&#x20;
+
+🐰 Chef Cocoa - Marketing Lead ([X/Twitter](https://x.com/chef_cocoa_pcs))
+
+🐰 Chef Alina - Partnership Marketing ([X/Twitter](https://x.com/0xalinatyng))
+
+🐰 Chef Sake - Community ([X/Twitter](https://x.com/KayraMeow))
+
+🐰 Chef Marcus - Social Media &#x20;
+
+🐰 Chef Boba - Community &#x20;
 
 🐰 Chef Salade - Design Lead
 
@@ -26,13 +34,7 @@
 
 🐰 Chef Noodles - Designer
 
-🐰 Chef Cocoa - Marketing Lead ([Twitter](https://x.com/chef_cocoa_pcs))
-
-🐰 Chef Alina - Partnership Marketing
-
-🐰 Chef Marcus - Social Media &#x20;
-
-🐰 Chef Boba - Community &#x20;
+🐰 Chef Cyrus - Data
 
 🐰 Chef Mist - Dev Lead&#x20;
 
