@@ -270,6 +270,7 @@
     * [Gauges Voting FAQ](earn/earn-faq/cake-staking-faq/gauges-voting-faq.md)
     * [Syrup Pool FAQ & Troubleshooting](earn/earn-faq/cake-staking-faq/syrup-pool-faq.md)
     * [CAKE Syrup Pool FAQ](earn/earn-faq/cake-staking-faq/cake-syrup-pool-faq.md)
+* [🍩 Dual Investment](earn/dual-investment.md)
 
 ## Play
 
