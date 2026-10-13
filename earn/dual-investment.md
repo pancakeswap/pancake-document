@@ -107,11 +107,7 @@ The countdown next to each settlement date shows how long you have left to subsc
 
 Click **Subscribe** on the target you want, then enter an amount or tap **MAX**. Each product has a minimum and maximum per subscription, and a fixed total capacity. Once a target is fully subscribed, it cannot reopen, so you will need to pick another target price.
 
-The **Return Overview** shows exactly what you would receive in each of the two settlement outcomes. Tap **Show calculations** to see how each amount is worked out.
-
 <figure><img src="../.gitbook/assets/image (476).png" alt="" width="375"><figcaption></figcaption></figure>
-
-
 
 #### **5. Review and confirm**
 
