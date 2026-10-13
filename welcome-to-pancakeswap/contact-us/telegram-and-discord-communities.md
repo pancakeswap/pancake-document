@@ -14,20 +14,7 @@ Join our official Telegram and Discord communities to connect with other users, 
 
 🔹 **Discord**: [https://discord.gg/pancakeswap](https://discord.gg/pancakeswap)
 
-#### 🌍 **Local Communities**
 
-* Japanese ([https://t.me/PancakeSwapJP](https://t.me/PancakeSwapJP))
-* Chinese ([http://t.me/PancakeSwap\_CN](http://t.me/PancakeSwap_CN))
-* Indonesian ([http://t.me/PancakeSwapIndonesia](http://t.me/PancakeSwapIndonesia))
-* Vietnamese ([https://t.me/PancakeSwapVN](https://t.me/PancakeSwapVN))
-* Spanish ([https://t.me/PancakeSwapES](https://t.me/PancakeSwapES))
-* Nigerian ([https://t.me/pancakeswap\_ng](https://t.me/pancakeswap_ng))
-* Russian ([http://t.me/pancakeswap\_ru](http://t.me/pancakeswap_ru))
-* Portuguese/Brazilian ([https://t.me/PancakeSwapPortuguese](https://t.me/PancakeSwapPortuguese))
-* Filipino ([https://t.me/Pancakeswap\_Ph](https://t.me/Pancakeswap_Ph))
-* Indian ([https://t.me/PancakeSwap\_India](https://t.me/PancakeSwap_India))
-* Korean ([https://t.me/PancakeSwapSouthKorea](https://t.me/PancakeSwapSouthKorea))
-* 😤 Ban Appeal ([https://t.me/pancakebanappeal](https://t.me/pancakebanappeal))
 
 ### ⚠️ **Security & Warnings**
 
