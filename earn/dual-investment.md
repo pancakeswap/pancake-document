@@ -7,7 +7,7 @@ Dual Investment lets you commit funds at a target price and earn a fixed reward,
 Dual Investment is live on BNB Chain with **BTCB** and **BNB**, paired against **USDT**.
 
 {% hint style="info" %}
-Dual Investment is not a savings product, and your principal is not protected. Depending on the settlement price, your funds may be converted into another asset at your target price, and that asset may be worth less than what you deposited.
+Dual Investment is not a savings product. Depending on the settlement price, your funds may be converted into another asset at your target price, and that asset may be worth less than what you deposited.
 {% endhint %}
 
 ***
