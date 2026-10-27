@@ -1,86 +1,85 @@
-# Perpetuals V1 Glossary
+# 무기한 선물 V1 용어집
 
-**Here you will find defined all the terms inherent in futures trading**
+**선물 거래와 관련된 모든 용어의 정의를 확인할 수 있습니다**
 
-### **Perpetual Trading**
+### **무기한 선물 거래**
 
-&#x20;Perpetuals, perpetual swaps, or perps are a special type of futures contract without an expiration date.
+&#x20;무기한 선물(Perpetuals), 무기한 스왑(perpetual swaps), 또는 퍼프(perps)는 만기일이 없는 특별한 유형의 선물 계약입니다.
 
 
 
-### **Leverage**
+### **레버리지**
 
-Leverage is a trading mechanism. Traders can use it to increase their exposure to the market by allowing them to pay less than the full amount of the investment. In simple words, you borrow money to leverage your investment.
+레버리지는 거래 메커니즘입니다. 트레이더는 투자 금액 전체를 내지 않고도 시장에 대한 노출을 늘릴 수 있습니다. 쉽게 말해, 돈을 빌려 투자 규모를 키우는 것입니다.
 
 ![](https://lh5.googleusercontent.com/S4CpgIaapprJpet3GI9UvkGA2Vncl6ywSA8848SLOG5M73v2ILcSunlPMOxpWg9UJmKui4Vb6BDQcUugWP1aYMAVl9_QPioIxT9sFRuY-EEtuSXgCn_D8Muwqh60PFr3EcEu3kkH)
 
-### **Margin**
+### **마진**
 
-is the guarantee you put for your leveraged positions. It has two Modes to use it:
+레버리지 포지션을 위해 걸어 두는 보증금입니다. 사용 모드는 두 가지입니다.
 
-* Cross Margin Mode: All cross positions under the same margin asset share the same asset cross margin balance. In the event of liquidation, your assets full margin balance along with any remaining open positions under the asset may be forfeited.
-* Isolated Margin Mode: Manage your risk on individual positions by restricting the amount of margin allocated to each. If the margin ratio of a position reached 100%, the position will be liquidated. Margin can be added or removed to positions using this mode.
+* 교차 마진 모드(Cross Margin Mode): 동일한 마진 자산을 사용하는 모든 교차 포지션이 해당 자산의 교차 마진 잔액을 공유합니다. 청산이 발생하면 해당 자산의 전체 마진 잔액과 그 자산으로 보유한 나머지 미결제 포지션이 모두 소실될 수 있습니다.
+* 격리 마진 모드(Isolated Margin Mode): 각 포지션에 배정된 마진 금액을 제한하여 개별 포지션의 위험을 관리합니다. 포지션의 마진 비율이 100%에 도달하면 해당 포지션이 청산됩니다. 이 모드에서는 포지션에 마진을 추가하거나 제거할 수 있습니다.
 
 ![](https://lh3.googleusercontent.com/zVEa2C_uhxdfB83PnT0jPQ3lbs5hJ8IY4cOe5KgxOiypTxV0CC1mXHouC9EhR2ukRmnMIXzk71JkEwPLmXAeK0RuP0xDsqX7c6P-X-7bPdqN3Xrfzxhub2wV55_ZKRNTy8WoCpUs)
 
-**Margin Ratio**: Margin Ratio = Maintenance Margin / Margin Balance. Your positions will be liquidated once Margin Ratio reaches 100%.
+**마진 비율(Margin Ratio)**: 마진 비율 = 유지 마진 / 마진 잔액. 마진 비율이 100%에 도달하면 포지션이 청산됩니다.
 
-**Maintenance Ratio**: The minimum amount of margin balance required to keep your open positions.
+**유지 비율(Maintenance Ratio)**: 미결제 포지션을 유지하는 데 필요한 최소 마진 잔액입니다.
 
-**Margin Balance** = Wallet Balance + Unrealized PNL. Your positions will be liquidated once Margin Balance <= Maintenance Margin.
+**마진 잔액(Margin Balance)** = 지갑 잔액 + 미실현 손익. 마진 잔액이 유지 마진 이하가 되면 포지션이 청산됩니다.
 
 ![](https://lh6.googleusercontent.com/BGaNOmsOkew_Cf9f6zcP2bW4Die0-uZnoui7QVYY24oDFtQkgIB5Vq1dLo7XgkA3LKyisoK-5Cs0uSN7fl19aa9nvDDAzWCVdgnJ3xNGHkDchaJMQf1G0gvXmDDvR2DvAih1D7tS)
 
-### Assets:
+### 자산:
 
-**Deposit**: Deposit your funds into your futures account
+**입금(Deposit)**: 선물 계정에 자금을 입금합니다.
 
-**Withdraw**: Withdraw your funds from your futures account to your wallet
+**출금(Withdraw)**: 선물 계정의 자금을 지갑으로 출금합니다.
 
-**Balance**: Wallet Balance = Total Net Transfer + Total Realized Profit + Total Net Funding Fee - Total Commission.
+**잔액(Balance)**: 지갑 잔액 = 총 순이체 + 총 실현 수익 + 총 순 펀딩 수수료 - 총 수수료.
 
-**Unrealized PNL**: Unrealized profit and loss on this position calculated based on Mark Price, and return on equity percentage.
+**미실현 손익(Unrealized PNL)**: 마크 가격을 기준으로 계산한 해당 포지션의 미실현 손익과 자기자본 수익률(%)입니다.
 
-**Modes:**&#x20;
+**모드:**&#x20;
 
-* Single Asset Mode: Supports USDⓈ-M Futures trading by only using the single margin asset of the symbol. PNL of the same margin asset positions can be offset. Supports Cross Margin Mode and Isolated Margin Mode.
-* Multi-Assets Mode: USDⓈ-M Futures trading across multiple margin assets. PNL can be offset among the different margin asset positions. Only supports Cross Margin Mode.
+* 단일 자산 모드(Single Asset Mode): 해당 심볼의 단일 마진 자산만 사용하여 USDⓈ-M 선물 거래를 지원합니다. 동일한 마진 자산 포지션끼리 손익을 상계할 수 있습니다. 교차 마진 모드와 격리 마진 모드를 모두 지원합니다.
+* 다중 자산 모드(Multi-Assets Mode): 여러 마진 자산에 걸쳐 USDⓈ-M 선물 거래를 할 수 있습니다. 서로 다른 마진 자산 포지션 간에 손익을 상계할 수 있습니다. 교차 마진 모드만 지원합니다.
 
 {% hint style="info" %}
-Note: If there are open positions or open orders in USDⓈ-M Futures, Multi-Assets Mode cannot be activated. Multi-Assets Mode only applies to USDⓈ-M Futures. Before activating Multi-Assets Mode, please read the guide in detail to better manage USDⓈ-M Futures account risk accordingly when using Multi-Assets Mode.<br>
+참고: USDⓈ-M 선물에 미결제 포지션이나 미체결 주문이 있으면 다중 자산 모드를 활성화할 수 없습니다. 다중 자산 모드는 USDⓈ-M 선물에만 적용됩니다. 다중 자산 모드를 활성화하기 전에 가이드를 자세히 읽고, 해당 모드를 사용할 때 USDⓈ-M 선물 계정의 위험을 적절히 관리하시기 바랍니다.<br>
 {% endhint %}
 
 ![](https://lh3.googleusercontent.com/iupB9UR3QMDCEO5RwjfMpqKZaQtoT53G0Sa_cYH9Neui8ttgqeFybtqOSIncZD74-4p3O-sQd6Lis2QKxGBsdgDmgutRaTUw1qKpjT-UXbpdKo-_3KzjAl3f8VSGyoLrtudoUqBr)
 
-### Orders
+### 주문
 
-**Buy/Long:** Open a Long order. In this order you purchase an asset and wait to sell when the price goes up. "Buy" and "long" are used interchangeably.
+**매수/롱(Buy/Long):** 롱 주문을 개시합니다. 이 주문에서는 자산을 매수한 뒤 가격이 오르면 매도하기를 기다립니다. "매수"와 "롱"은 같은 의미로 사용됩니다.
 
-**Sell/Short:** Open a Short order. In this order, you borrow an asset, sell it, and hope to buy it back when the price goes down. "Sell" and "short" are used interchangeably.
+**매도/숏(Sell/Short):** 숏 주문을 개시합니다. 이 주문에서는 자산을 빌려서 매도한 뒤, 가격이 내려가면 다시 매수하기를 기대합니다. "매도"와 "숏"은 같은 의미로 사용됩니다.
 
-**Limit Order:** A limit order is an order to buy or sell at a specific price or better. Limit orders are not guaranteed to execute.
+**지정가 주문(Limit Order):** 지정가 주문은 특정 가격 또는 그보다 유리한 가격으로 매수 또는 매도하는 주문입니다. 지정가 주문은 체결이 보장되지 않습니다.
 
-**Market Order:** A market order is an order to buy or sell at the best available current price. It is executed against the limit orders that were previously placed on the order book. When placing a market order, you will pay fees as a market taker.
+**시장가 주문(Market Order):** 시장가 주문은 현재 가장 유리한 가격으로 매수 또는 매도하는 주문입니다. 오더북에 먼저 등록되어 있던 지정가 주문과 체결됩니다. 시장가 주문을 넣으면 마켓 테이커로서 수수료를 지불하게 됩니다.
 
-**Stop Limit Order:** The easiest way to understand a stop-limit order is to break it down into stop price, and limit price. The stop price is simply the price that triggers the limit order, and the limit price is the price of the limit order that is triggered. This means that once your stop price has been reached, your limit order will be immediately placed on the order book.
+**스톱 리밋 주문(Stop Limit Order):** 스톱 리밋 주문은 스톱 가격과 지정가로 나누어 보면 이해하기 쉽습니다. 스톱 가격은 지정가 주문을 발동시키는 가격이고, 지정가는 발동된 지정가 주문의 가격입니다. 즉, 스톱 가격에 도달하면 지정가 주문이 즉시 오더북에 등록됩니다.
 
-**Stop Market Order:** Similar to a stop-limit order, a stop market order uses a stop price as a trigger. However, when the stop price is reached, it triggers a market order instead.
+**스톱 마켓 주문(Stop Market Order):** 스톱 리밋 주문과 비슷하게 스톱 마켓 주문도 스톱 가격을 발동 조건으로 사용합니다. 다만 스톱 가격에 도달하면 지정가 주문 대신 시장가 주문이 발동됩니다.
 
-**Trailing Stop:** A trailing stop is an order type designed to lock in profits or limit losses as a trade moves favorably. Trailing stops only move if the price moves favorably. Once it moves to lock in a profit or reduce a loss, it does not move back in the other direction.
+**트레일링 스톱(Trailing Stop):** 트레일링 스톱은 거래가 유리하게 진행될 때 수익을 확정하거나 손실을 제한하도록 설계된 주문 유형입니다. 트레일링 스톱은 가격이 유리한 방향으로 움직일 때만 이동합니다. 수익을 확정하거나 손실을 줄이는 방향으로 한 번 이동하면 반대 방향으로는 되돌아가지 않습니다.
 
-**Post Only:** Post-only Mode means that Traders can only place an Order if it would be posted to the Order Book as a Maker Order. An Order which would be posted as a Taker Order will be rejected. No Market Orders may be placed and no Orders will be filled. Resting orders may be canceled in post-only mode.
+**포스트 온리(Post Only):** 포스트 온리 모드에서는 오더북에 메이커 주문으로 등록되는 경우에만 주문할 수 있습니다. 테이커 주문으로 등록될 주문은 거부됩니다. 시장가 주문은 넣을 수 없고 체결되는 주문도 없습니다. 포스트 온리 모드에서도 대기 중인 주문은 취소할 수 있습니다.
 
 ![](https://lh6.googleusercontent.com/uV8UuuqGxCwGmu9jxuL2Gf_Nt8QwkYoYCfJinEfINffyr6QjV03tZVXA46GnIxY-XKSxcrAPtrtD8JZYBHSc4ILmLd8Rm6LqHmVdSAgMK8m-4WOdt3FsnPO2MD32EG9j3ym_aSz_)
 
-**Reduce Only:** Reduce-Only order will only reduce your position, not increase it.
+**감소 전용(Reduce Only):** 감소 전용 주문은 포지션을 줄이기만 하며 늘리지는 않습니다.
 
 ![](https://lh3.googleusercontent.com/HlbLU90VSn76W1xHVgSBoke83uQpAPFzl2JBME_Dn2mElSDAYSbA51GRx2cOaAqxBe6wH02MbJxmwjrLuLoSx7Ei4AwzrnmqFjy4VEG5aUrYas7oFKVQ0CGNuiIAXjD1CdPaQurO)
 
-**TIF instructions** allow you to specify the amount of time that your orders will remain active before they are executed or expired. You can select one of these options for TIF instructions:
+**TIF 지시**를 사용하면 주문이 체결되거나 만료되기 전까지 유효하게 유지되는 시간을 지정할 수 있습니다. TIF 지시에는 다음 옵션 중 하나를 선택할 수 있습니다.
 
 ![](https://lh6.googleusercontent.com/-QaqTJU0jCsjznhULix7i2ThVM7_u7IP5a0i42TYhImt8xPLODjYCjLL5JNbRXrIDsgJRxIIGoYD8Tlq5gSdCjkAyMDat53r5WNTepB93_7bq7gDmyg1-jyblSQ8eANv_fH9bvJ-)
 
-* **GTC** (Good Till Cancel): The order will remain active until it is either filled or canceled.&#x20;
-* **IOC** (Immediate Or Cancel): The order will execute immediately (either fully or partially). If it is only partially executed, the unfilled portion of the order will be canceled.&#x20;
-* **FOK** (Fill Or Kill): The order must be fully filled immediately. If not, it won’t be executed at all.
-
+* **GTC** (Good Till Cancel): 주문이 체결되거나 취소될 때까지 유효하게 유지됩니다.&#x20;
+* **IOC** (Immediate Or Cancel): 주문이 즉시 (전량 또는 일부) 체결됩니다. 일부만 체결된 경우 나머지 미체결 수량은 취소됩니다.&#x20;
+* **FOK** (Fill Or Kill): 주문이 즉시 전량 체결되어야 합니다. 그렇지 않으면 전혀 체결되지 않습니다.

@@ -1,23 +1,23 @@
 # Classic StableSwap
 
-The Classic StableSwap is an implementation of Curve Finance’s AMM on PancakeSwap. It adds linear invariant constant sum curve (x+y=k) on top of the constant product formula (x\*y=k) to keep prices more equal as long as the liquidity pool is not extremely unbalanced. As a result, since StableSwaps are restricted to similarly priced assets, impermanent loss is not as much of a concern (except in extreme depeg cases) and the slippage is lower than normal AMM which just uses the constant product formula.
+Classic StableSwap은 Curve Finance의 AMM을 PancakeSwap에 구현한 것입니다. 곱셈 상수 공식(x\*y=k) 위에 선형 불변 합 상수 곡선(x+y=k)을 더하여, 유동성 풀이 극단적으로 불균형하지 않은 한 가격을 더 균등하게 유지합니다. 그 결과 StableSwap은 가격이 비슷한 자산으로 한정되므로 비영구적 손실(IL)은 (극단적인 디페깅 상황을 제외하면) 큰 걱정거리가 아니며, 곱셈 상수 공식만 사용하는 일반 AMM보다 슬리피지가 낮습니다.
 
-When you conduct a Swap (trade) on the StableSwap you will pay lower trading fees, than the usual 0.25% on normal PancakeSwap AMM. The fee attribution is broken down as follows:
+StableSwap에서 스왑(거래)을 하면 일반 PancakeSwap AMM의 기본 수수료 0.25%보다 낮은 거래 수수료를 지불합니다. 수수료 배분은 다음과 같습니다.
 
-* 50% to the LP as rewards&#x20;
-* 40% to CAKE buyback and burn&#x20;
-* 10% to the PancakeSwap Treasury
+* 50%는 LP에게 보상으로&#x20;
+* 40%는 CAKE 바이백 및 소각에&#x20;
+* 10%는 PancakeSwap 트레저리에
 
-## Stableswap Fees
+## Stableswap 수수료
 
-Fees for pairs are broken down in the table below:
+페어별 수수료는 아래 표와 같습니다.
 
-<table><thead><tr><th width="150">Stablepair</th><th width="132">Trading Fees</th><th width="118.33333333333331">LP Rewards</th><th width="124">CAKE Buyback</th><th>PancakeSwap Treasury</th></tr></thead><tbody><tr><td>USDT-BUSD</td><td>0.01%</td><td>0.005%</td><td>0.004%</td><td>0.001%</td></tr><tr><td>USDC-BUSD</td><td>0.01%</td><td>0.005%</td><td>0.004%</td><td>0.001%</td></tr><tr><td>USDC-USDT</td><td>0.01%</td><td>0.005%</td><td>0.004%</td><td>0.001%</td></tr><tr><td>HAY-BUSD</td><td>0.04%</td><td>0.02%</td><td>0.016%</td><td>0.004%</td></tr><tr><td>HAY-USDT</td><td>0.04%</td><td>0.02%</td><td>0.016%</td><td>0.004%</td></tr><tr><td>axlUSDC-USDT</td><td>0.04%</td><td>0.02%</td><td>0.016%</td><td>0.004%</td></tr><tr><td>BNBx-WBNB</td><td>0.04%</td><td>0.02%</td><td>0.016%</td><td>0.004%</td></tr><tr><td>stkBNB-WBNB</td><td>0.04%</td><td>0.02%</td><td>0.016%</td><td>0.004%</td></tr></tbody></table>
+<table><thead><tr><th width="150">스테이블 페어</th><th width="132">거래 수수료</th><th width="118.33333333333331">LP 보상</th><th width="124">CAKE 바이백</th><th>PancakeSwap 트레저리</th></tr></thead><tbody><tr><td>USDT-BUSD</td><td>0.01%</td><td>0.005%</td><td>0.004%</td><td>0.001%</td></tr><tr><td>USDC-BUSD</td><td>0.01%</td><td>0.005%</td><td>0.004%</td><td>0.001%</td></tr><tr><td>USDC-USDT</td><td>0.01%</td><td>0.005%</td><td>0.004%</td><td>0.001%</td></tr><tr><td>HAY-BUSD</td><td>0.04%</td><td>0.02%</td><td>0.016%</td><td>0.004%</td></tr><tr><td>HAY-USDT</td><td>0.04%</td><td>0.02%</td><td>0.016%</td><td>0.004%</td></tr><tr><td>axlUSDC-USDT</td><td>0.04%</td><td>0.02%</td><td>0.016%</td><td>0.004%</td></tr><tr><td>BNBx-WBNB</td><td>0.04%</td><td>0.02%</td><td>0.016%</td><td>0.004%</td></tr><tr><td>stkBNB-WBNB</td><td>0.04%</td><td>0.02%</td><td>0.016%</td><td>0.004%</td></tr></tbody></table>
 
-The Kitchen will gradually roll out StableSwap pairs and revise the fees to test and improve the product further.
+키친(Kitchen)은 제품을 더욱 테스트하고 개선하기 위해 StableSwap 페어를 점진적으로 출시하고 수수료를 조정할 예정입니다.
 
-## Why should I use the StableSwap instead of the normal AMM Swap?
+## 일반 AMM 스왑 대신 StableSwap을 사용해야 하는 이유는?
 
-* Swap your stablecoins or other pairs with similar asset prices more efficiently with the same trade steps&#x20;
-* With the StableSwap function, the trading slippage is lower than normal AMM&#x20;
-* The StableSwap trading fees are lower compared to the normal AMM
+* 동일한 거래 단계로 스테이블코인이나 자산 가격이 비슷한 다른 페어를 더 효율적으로 스왑할 수 있습니다&#x20;
+* StableSwap 기능을 사용하면 거래 슬리피지가 일반 AMM보다 낮습니다&#x20;
+* StableSwap 거래 수수료는 일반 AMM보다 저렴합니다

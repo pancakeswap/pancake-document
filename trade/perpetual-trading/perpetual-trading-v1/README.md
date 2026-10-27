@@ -2,5 +2,5 @@
 hidden: true
 ---
 
-# Perpetuals V1
+# 무기한 선물 V1
 

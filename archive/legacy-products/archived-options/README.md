@@ -1,9 +1,8 @@
-# 💸 Options \[Archived]
+# 💸 옵션 \[보관됨]
 
 
 
 {% hint style="danger" %}
-Options  \[ARCHIVED] – As of March 11, 2025\
-If you still have liquidity to withdraw, please do so immediately by visiting https://www.stryke.xyz/en/trade.
+옵션  \[보관됨] – 2025년 3월 11일 기준\
+아직 출금할 유동성이 있다면 https://www.stryke.xyz/en/trade 를 방문하여 즉시 출금하세요.
 {% endhint %}
-

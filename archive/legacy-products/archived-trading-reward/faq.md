@@ -1,89 +1,89 @@
 ---
-description: Trading Reward FAQ
+description: 트레이딩 리워드 자주 묻는 질문 (FAQ)
 ---
 
-# FAQ
+# 자주 묻는 질문 (FAQ)
 
 {% hint style="danger" %}
-\[Archived] Trading Reward – As of 23rd August 2024
+\[보관됨] 트레이딩 리워드 – 2024년 8월 23일 기준
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/faq-tradingreward.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/faq-tradingreward.png" alt=""><figcaption></figcaption></figure>
 
-## Generic
+## 일반
 
-#### Why my traded volume was not tracked?
+#### 내 거래량이 집계되지 않은 이유는 무엇인가요?
 
-* Volume numbers take time to update and are subject to SubGraph delays. Please check back in a later time
-* Your trade must be routed through the **exact** trading pair being highlighted on the [Trading Reward page](https://pancakeswap.finance/trading-reward#rewards-breakdown), including the fee tier. Check out [this tutorial](https://docs.pancakeswap.finance/trade/pancakeswap-exchange/fees-and-routes) for how to view your trading routes
-* Only V3 trading pairs are eligible for this program
-* Please use the same wallet address eligible for the trading reward program on both Ethereum and BNB Chain
-* If your trading volume within a pair is too small, you may not be eligible to claim any rewards
-* Using third-party trading aggregators may result in trades being routed through other liquidity providers and not being tracked
+* 거래량 수치가 업데이트되는 데 시간이 걸리며 서브그래프 지연의 영향을 받습니다. 나중에 다시 확인해 주세요.
+* 거래는 수수료 등급을 포함하여 [트레이딩 리워드 페이지](https://pancakeswap.finance/trading-reward#rewards-breakdown)에 강조 표시된 **정확한** 거래 페어를 통해 라우팅되어야 합니다. 거래 경로를 확인하는 방법은 [이 튜토리얼](https://docs.pancakeswap.finance/trade/pancakeswap-exchange/fees-and-routes)을 참조하세요.
+* V3 거래 페어만 이 프로그램의 대상입니다.
+* Ethereum과 BNB 체인 모두에서 트레이딩 리워드 프로그램 대상인 동일한 지갑 주소를 사용해 주세요.
+* 페어 내 거래량이 너무 적으면 보상을 수령할 자격이 없을 수 있습니다.
+* 서드파티 거래 애그리게이터를 사용하면 거래가 다른 유동성 공급자를 통해 라우팅되어 집계되지 않을 수 있습니다.
 
-#### Why I traded a lot but only received a very small amount of rewards
+#### 거래를 많이 했는데 보상을 아주 적게 받은 이유는 무엇인가요?
 
-The amount of the trading reward is based on the trading fee paid in those trades.
+트레이딩 리워드의 금액은 해당 거래에서 지불한 거래 수수료를 기준으로 합니다.
 
-If your trades are routed through pairs with a low fee tier, for example, 0.01%, you are paying a very small fee for your trade. Therefore the number of rewards will become lower accordingly.
+거래가 수수료 등급이 낮은 페어(예: 0.01%)를 통해 라우팅되었다면 거래에 대해 매우 적은 수수료를 지불한 것입니다. 따라서 보상 수량도 그에 따라 줄어듭니다.
 
-## Top Traders Campaign
+## 탑 트레이더 캠페인
 
-#### Do I need to stay within the required ranking for the whole time to win the campaign?
+#### 캠페인에서 우승하려면 계속 요구되는 순위를 유지해야 하나요?
 
-No, you only need to be ranked higher than the required ranking **at the end of the campaign**. But it is recommended to rank higher and maintain the rank. And make sure to check back often to ensure you are not falling out of the required ranking.
+아니요, **캠페인이 끝날 때** 요구되는 순위보다 높은 순위에 있기만 하면 됩니다. 하지만 더 높은 순위를 기록하고 유지하는 것이 좋습니다. 요구되는 순위에서 밀려나지 않았는지 자주 확인하세요.
 
-#### What number the ranking is based on?
+#### 순위는 어떤 수치를 기준으로 하나요?
 
-The ranking is based on the number of rewards each user accumulates by trading. The reward amount equals a fixed % of the trading they pay in the trades.
+순위는 각 사용자가 트레이딩으로 누적한 보상 수량을 기준으로 합니다. 보상 금액은 거래에서 지불한 수수료의 일정 비율과 같습니다.
 
-## CAKE Stakers Campaign
+## CAKE 스테이커 캠페인
 
-#### My address was eligible for the previous campaign. Why is it not eligible for the latest one?
+#### 내 주소는 이전 캠페인에서는 대상이었는데 최신 캠페인에서는 대상이 아닌 이유는 무엇인가요?
 
-Each campaign has its own eligibility requirements, like the minimum threshold for veCAKE amount at snapshot time.
+각 캠페인에는 스냅샷 시점의 veCAKE 수량 최소 기준과 같은 고유한 자격 요건이 있습니다.
 
-Also, snapshot time is set to be each campaign's end time. With veCAKE decreasing with time, your veCAKE balance may drop below threshold for future campaigns.
+또한 스냅샷 시점은 각 캠페인의 종료 시간으로 설정됩니다. veCAKE는 시간이 지남에 따라 감소하므로 향후 캠페인에서는 veCAKE 잔액이 기준 아래로 떨어질 수 있습니다.
 
-You may need to increase your veCAKE. Simply follow the instructions on the page.
+veCAKE를 늘려야 할 수도 있습니다. 페이지의 안내를 따르기만 하면 됩니다.
 
-#### Why is it telling me I have additional rewards that can not be claimed?
+#### 수령할 수 없는 추가 보상이 있다고 표시되는 이유는 무엇인가요?
 
-![](<../../../.gitbook/assets/image (227).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28227%29.png)
 
-The amount of veCAKE at snapshot time will determine the maximum amount of rewards you can earn from the campaign. Check out the footnote from the “Max Reward Cap” section.
+스냅샷 시점의 veCAKE 수량이 캠페인에서 얻을 수 있는 최대 보상 금액을 결정합니다. "최대 보상 한도" 섹션의 각주를 확인하세요.
 
-While a campaign is active, you can increase your veCAKE and raise this cap at any time.
+캠페인이 진행되는 동안에는 언제든지 veCAKE를 늘려 이 한도를 높일 수 있습니다.
 
-#### What is “veCAKE at snapshot time”
+#### "스냅샷 시점의 veCAKE"란 무엇인가요?
 
-veCAKE is gradually decreasing with time as the remaining lock time decreases. Therefore, similar to IFO iCAKE, a snapshot veCAKE balance - the veCAKE balance at a specific time, which is static, is better suited to be utilised as a qualification metric.
+veCAKE는 남은 락 시간이 줄어듦에 따라 시간이 지나면서 점차 감소합니다. 따라서 IFO iCAKE와 마찬가지로 특정 시점의 정적인 veCAKE 잔액인 스냅샷 veCAKE 잔액이 자격 지표로 활용하기에 더 적합합니다.
 
-In Trading Reward, snapshot time refers to the end of each campaign. Therefore, your “veCAKE balance at snapshot time” means “your veCAKE balance at the campaign end time”.
+트레이딩 리워드에서 스냅샷 시점은 각 캠페인의 종료 시점을 의미합니다. 따라서 "스냅샷 시점의 veCAKE 잔액"은 "캠페인 종료 시점의 veCAKE 잔액"을 의미합니다.
 
-#### How is “veCAKE at snapshot time” related to the campaign
+#### "스냅샷 시점의 veCAKE"는 캠페인과 어떤 관련이 있나요?
 
-* Your number of veCAKE balance at snapshot time is higher than the required threshold
-* The maximum amount of rewards you can earn is linked to y % of your veCAKE balance at snapshot time
+* 스냅샷 시점의 veCAKE 잔액이 요구되는 기준보다 높아야 합니다.
+* 얻을 수 있는 최대 보상 금액은 스냅샷 시점 veCAKE 잔액의 y%와 연동됩니다.
 
-For example:
+예시:
 
-1. Alice locked 300 CAKE for 2 years (104 weeks) on day 1. On day 1, Alice will have a veCAKE balance of `300 * 104 * 7 * 24 * 60 * 60 / 126403199 ~= 149` .
-2. A trading reward campaign is launched on day 1, with a threshold veCAKE of 100, and a 1% reward cap. The campaign is ending in 30 days.
-3. After 30 days, Alice’s position will have a remaining lock time of roughly 99.71 weeks, therefore a veCAKE balance of `300 * 99.71 * 7 * 24 * 60 * 60 / 126403199 ~= 143`.
-4. Therefore, for this campaign, Alice will have `143` veCAKE at snapshot time.
-5. 143 is larger than 100 so Alice is eligible for the campaign, she may start trading eligible pairs to earn trading rewards.
-6. With 1% reward cap, the maximum amount of CAKE Alice may earn from this campaign is `143 * 1% = 1.43` CAKE.
-7. Alice may increase her veCAKE any time before the campaign ends, either by locking more CAKE, or extending her position.
+1. Alice가 첫날에 300 CAKE를 2년(104주) 동안 락했습니다. 첫날 Alice의 veCAKE 잔액은 `300 * 104 * 7 * 24 * 60 * 60 / 126403199 ~= 149`입니다.
+2. 첫날에 veCAKE 기준 100, 보상 한도 1%인 트레이딩 리워드 캠페인이 시작됩니다. 캠페인은 30일 후에 종료됩니다.
+3. 30일 후 Alice의 포지션은 남은 락 시간이 약 99.71주이므로 veCAKE 잔액은 `300 * 99.71 * 7 * 24 * 60 * 60 / 126403199 ~= 143`입니다.
+4. 따라서 이 캠페인에서 Alice의 스냅샷 시점 veCAKE는 `143`입니다.
+5. 143이 100보다 크므로 Alice는 캠페인 대상이며, 적격 페어를 거래하여 트레이딩 리워드를 얻을 수 있습니다.
+6. 1% 보상 한도로 Alice가 이 캠페인에서 얻을 수 있는 최대 CAKE는 `143 * 1% = 1.43` CAKE입니다.
+7. Alice는 캠페인이 끝나기 전 언제든지 CAKE를 더 락하거나 포지션을 연장하여 veCAKE를 늘릴 수 있습니다.
 
-#### How can I check my veCAKE at snapshot time during the campaign?
+#### 캠페인 중에 스냅샷 시점의 veCAKE는 어떻게 확인할 수 있나요?
 
-You may check on the Trading Reward page.
+트레이딩 리워드 페이지에서 확인할 수 있습니다.
 
-The page will alert you when your veCAKE at snapshot time is lower than the threshold or your rewards are currently being capped by it.
+스냅샷 시점의 veCAKE가 기준보다 낮거나 현재 보상이 이에 의해 제한되고 있는 경우 페이지에서 알려 드립니다.
 
-In those cases, you may click the “Increase veCAKE” button to increase your veCAKE without leaving the page.
+이 경우 "veCAKE 늘리기" 버튼을 클릭하여 페이지를 떠나지 않고도 veCAKE를 늘릴 수 있습니다.
 
-#### Can I increase my veCAKE during the campaign?
+#### 캠페인 중에 veCAKE를 늘릴 수 있나요?
 
-Yes, you may increase your veCAKE any time before the campaign ends. Your “veCAKE at snapshot time” will get updated accordingly.
+네, 캠페인이 끝나기 전 언제든지 veCAKE를 늘릴 수 있습니다. "스냅샷 시점의 veCAKE"가 그에 따라 업데이트됩니다.

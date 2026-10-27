@@ -1,25 +1,25 @@
-# V1 Perpetual Trading FAQ
+# V1 무기한 선물 거래 자주 묻는 질문 (FAQ)
 
-### What is the value contribution of this new feature to the cake holders?
+### 이 새로운 기능은 CAKE 보유자에게 어떤 가치를 제공하나요?
 
-We expect this new feature to bring in a lot of new users, traders and volume. We want to ensure the value goes back to our CAKE token on top of offering the trading fee discount. 20% of all trading fees from users who sign up on PancakeSwap will be converted to CAKE and burnt.
+이 새로운 기능이 많은 신규 사용자, 트레이더, 거래량을 가져올 것으로 기대합니다. 거래 수수료 할인 혜택에 더해, 그 가치가 CAKE 토큰으로 돌아가도록 하고자 합니다. PancakeSwap을 통해 가입한 사용자가 지불한 모든 거래 수수료의 20%는 CAKE로 전환되어 소각됩니다.
 
-**And the rest of it?**
+**나머지는 어떻게 되나요?**
 
-The rest are currently reserved for the treasury for ongoing expansion and development of this feature, as well as for an insurance fund for unexpected market events. As the feature matures, we expect to increase the burn portion gradually based on community feedback and governance.
+나머지는 현재 이 기능의 지속적인 확장과 개발을 위한 트레저리, 그리고 예기치 못한 시장 상황에 대비한 보험 기금으로 적립됩니다. 기능이 성숙해짐에 따라 커뮤니티 의견과 거버넌스를 바탕으로 소각 비중을 점진적으로 늘려 갈 계획입니다.
 
-### I can’t see my funds! What happened?
+### 내 자금이 보이지 않아요! 어떻게 된 건가요?
 
-Remember that you must first deposit your funds into the Futures account!
+먼저 선물 계정에 자금을 입금해야 한다는 점을 기억하세요!
 
-### Are there deposit limits?
+### 입금 한도가 있나요?
 
-| Assets | Limit     | Margin Value |
-| ------ | --------- | ------------ |
-| USDT   | No Limit  | 99.99%       |
-| BUSD   | No Limit  | 100%         |
-| CAKE   | 5000 CAKE | 90%          |
+| 자산   | 한도        | 마진 가치  |
+| ------ | --------- | ------ |
+| USDT   | 한도 없음   | 99.99% |
+| BUSD   | 한도 없음   | 100%   |
+| CAKE   | 5000 CAKE | 90%    |
 
-### Are we gonna switch to showing only PCS’s volume on the frontend on the PCS’s version?
+### PCS 버전의 프론트엔드에서 PCS의 거래량만 표시하도록 바뀌나요?
 
-The frontend is the combined volume since the liquidity is combined and it shows the deep liquidity which also brings the tight spread
+유동성이 통합되어 있으므로 프론트엔드에는 합산된 거래량이 표시됩니다. 이는 깊은 유동성을 보여 주며, 그 결과 스프레드도 좁아집니다.

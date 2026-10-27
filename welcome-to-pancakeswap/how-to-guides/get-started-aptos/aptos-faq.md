@@ -1,41 +1,41 @@
-# Aptos FAQ
+# Aptos 자주 묻는 질문 (FAQ)
 
-This FAQ page answers some of the more commonly asked questions from the PancakeSwap community about our Aptos Deployment.
+이 FAQ 페이지에서는 Aptos 배포와 관련하여 PancakeSwap 커뮤니티에서 자주 묻는 질문에 답변합니다.
 
-## General
+## 일반
 
-### How to bridge from BSC (Binance Smart Chain) to Aptos?
+### BSC (Binance Smart Chain)에서 Aptos로 브릿지하려면 어떻게 하나요?
 
-Check out [our bridging guide](aptos-coin-guide.md) for various bridging solutions.
+다양한 브릿지 방법은 [브릿지 가이드](aptos-coin-guide.md)를 확인하세요.
 
-If you want to bridge CAKE token, check out our [CAKE bridging guide](cake-bridging-guide.md).
+CAKE 토큰을 브릿지하려면 [CAKE 브릿징 가이드](cake-bridging-guide.md)를 확인하세요.
 
-### Which wallet I can use for Aptos Chain?
+### Aptos 체인에는 어떤 지갑을 사용할 수 있나요?
 
-Check out [our wallet guide](wallet-guide.md) to download and set up your wallet for Aptos.
+Aptos용 지갑을 다운로드하고 설정하려면 [지갑 가이드](wallet-guide.md)를 확인하세요.
 
-### Showing "Price Impact Too High" when swapping coins
+### 코인을 스왑할 때 "Price Impact Too High"(가격 영향이 너무 높음)가 표시됩니다
 
-This is likely due to bad network connections to blockchain nodes. Refresh the page, and check your network connection.
+블록체인 노드와의 네트워크 연결 상태가 좋지 않아서 발생했을 가능성이 높습니다. 페이지를 새로고침하고 네트워크 연결을 확인하세요.
 
-If the error persists, it means the pair of coins you are trying to swap has insufficient liquidity for the amount you are trying to swap. The liquidity for major coins will slowly and steadily be improved over time, and the liquidity issue will likely be solved when our Aptos Farms are deployed. (SOON!)
+오류가 계속된다면, 스왑하려는 코인 페어의 유동성이 해당 스왑 수량에 비해 부족하다는 의미입니다. 주요 코인의 유동성은 시간이 지남에 따라 꾸준히 개선될 예정이며, Aptos 파밍이 배포되면 유동성 문제도 해결될 것으로 보입니다. (곧 출시됩니다!)
 
-### I couldn't find the coin I wanted to swap
+### 스왑하려는 코인을 찾을 수 없습니다
 
-The default list on Aptos Swap only shows coins from well-known projects with a sufficient amount of liquidity.
+Aptos 스왑의 기본 목록에는 충분한 유동성을 갖춘, 잘 알려진 프로젝트의 코인만 표시됩니다.
 
-If you want to swap other coins that are not on the default list, import them using their coin address.
+기본 목록에 없는 다른 코인을 스왑하려면 코인 주소를 사용해 직접 가져오세요.
 
-### Why I can’t trade CAKE on Aptos Swap?
+### Aptos 스왑에서 CAKE를 거래할 수 없는 이유는 무엇인가요?
 
-CAKE token/coin is now live on Aptos. Check out our [CAKE bridging guide](cake-bridging-guide.md) to learn more about bridging CAKE tokens between Aptos and BNB Smart Chain.
+CAKE 토큰/코인은 이제 Aptos에서 사용할 수 있습니다. Aptos와 BNB 스마트 체인 간에 CAKE 토큰을 브릿지하는 방법은 [CAKE 브릿징 가이드](cake-bridging-guide.md)에서 자세히 알아보세요.
 
-### Do I need to stake CAKE on Aptos to participate in Aptos IFOs?
+### Aptos IFO에 참여하려면 Aptos에서 CAKE를 스테이킹해야 하나요?
 
-PancakeSwap IFO has not yet been deployed on Aptos. (SOON!) Keep staking your CAKE, and stay tuned for more news.
+PancakeSwap IFO는 아직 Aptos에 배포되지 않았습니다. (곧 출시됩니다!) 계속 CAKE를 스테이킹하시고 앞으로의 소식을 기다려 주세요.
 
-## CAKE Bridging
+## CAKE 브릿징
 
 {% hint style="info" %}
-This document has been migrated [here](../../../bridge/faq/)
+이 문서는 [이곳](../../../bridge/faq/)으로 이전되었습니다
 {% endhint %}

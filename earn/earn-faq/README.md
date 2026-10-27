@@ -1,2 +1,2 @@
-# ❓ Earn FAQ
+# ❓ Earn 자주 묻는 질문 (FAQ)
 

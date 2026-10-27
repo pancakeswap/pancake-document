@@ -1,48 +1,48 @@
-# Solana Farming FAQ
+# Solana 파밍 자주 묻는 질문 (FAQ)
 
-### 1. How does SOL Farming work?
+### 1. SOL 파밍은 어떻게 작동하나요?
 
-* V3 Farming is **campaign-based**, meaning farms are active only for a set duration.
-* During the campaign:
-  * Reward tokens are distributed **every second** to **active liquidity positions**.
-  * Farming APR will be shown on the pool list page and my positions page
-* After the campaign ends:
-  1. **No more rewards** will be distributed.
-  2. **Farming APR will no longer be shown** on the pool list page and my positions page
-  3. The farm becomes **inactive**, but may be restarted by the creator by adding more rewards.
+* v3 파밍은 **캠페인 기반**으로, 파밍이 정해진 기간 동안에만 활성화됩니다.
+* 캠페인 기간 중:
+  * 보상 토큰이 **매초** **활성 유동성 포지션**에 분배됩니다.
+  * 파밍 APR은 풀 목록 페이지와 내 포지션 페이지에 표시됩니다.
+* 캠페인 종료 후:
+  1. **더 이상 보상이 분배되지 않습니다**.
+  2. **파밍 APR이 더 이상 표시되지 않습니다**(풀 목록 페이지와 내 포지션 페이지).
+  3. 파밍은 **비활성** 상태가 되지만, 생성자가 보상을 추가하여 다시 시작할 수 있습니다.
 
-### 2. Do I need to stake my LP NFT to earn farming rewards?
+### 2. 파밍 보상을 받으려면 LP NFT를 스테이킹해야 하나요?
 
-* **No staking is required**.
-* As long as your liquidity position is **active (in-range)** in a pool with an active farm, you will earn rewards automatically.
+* **스테이킹은 필요하지 않습니다**.
+* 활성 파밍이 있는 풀에서 유동성 포지션이 **활성(범위 내)** 상태이기만 하면 자동으로 보상을 획득합니다.
 
-### 3. Are there any farm boosters?
+### 3. 파밍 부스터가 있나요?
 
-* **No**, V3 farms do **not** support any boosting mechanisms.
-* Rewards are solely based on your share of active liquidity in the pool.
+* **아니요**, v3 파밍은 어떤 부스팅 메커니즘도 지원하지 **않습니다**.
+* 보상은 오직 풀의 활성 유동성에서 내가 차지하는 비중에 따라 결정됩니다.
 
-### 4. Can multiple farms be created for the same pool?
+### 4. 같은 풀에 여러 개의 파밍을 만들 수 있나요?
 
-* **No**, only **one farm per token pair and fee tier** can exist.
+* **아니요**, 토큰 페어와 수수료 등급당 **하나의 파밍만** 존재할 수 있습니다.
 
-### 5. How are SOL farms configured?
+### 5. SOL 파밍은 어떻게 구성되나요?
 
-#### A. Token Rewards
+#### A. 토큰 보상
 
-* Up to **3 different reward tokens** can be assigned per farm.
-* Once set, the reward token types **cannot be changed**.
-* The farm creator can:
-  * **Top up** the allocated reward tokens.
-  * **Extend the farming duration** after the campaign ends.
+* 파밍당 최대 **3가지 서로 다른 보상 토큰**을 지정할 수 있습니다.
+* 한 번 설정하면 보상 토큰 종류는 **변경할 수 없습니다**.
+* 파밍 생성자는 다음을 할 수 있습니다.
+  * 할당된 보상 토큰을 **추가 충전(top up)**
+  * 캠페인 종료 후 **파밍 기간 연장**
 
-#### B. Campaign Duration
+#### B. 캠페인 기간
 
-* Campaigns must last a minimum of **7 days** and a maximum of **90 days**.
+* 캠페인은 최소 **7일**, 최대 **90일** 동안 진행되어야 합니다.
 
-### 6. Can a farm be edited after creation?
+### 6. 파밍을 생성한 후에 수정할 수 있나요?
 
-Farm creators can edit the following parameters **after farm creation**:
+파밍 생성자는 **파밍 생성 후** 다음 매개변수를 수정할 수 있습니다.
 
-1. Reward distribution rate (per second)
-2. Campaign end date
-3. Add a reward token and corresponding reward amount (only if fewer than 3 tokens were initially assigned)
+1. 보상 분배 속도(초당)
+2. 캠페인 종료일
+3. 보상 토큰 및 해당 보상 수량 추가(처음에 지정된 토큰이 3개 미만인 경우에만 가능)

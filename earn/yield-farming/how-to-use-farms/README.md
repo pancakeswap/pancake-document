@@ -1,121 +1,121 @@
 ---
-description: Find, Provide LP, Farm
+description: 찾기, LP 공급, 파밍
 ---
 
-# How to Use Farms
+# 파밍 이용 방법
 
-![](../../../.gitbook/assets/how-to-yield-farms-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-yield-farms-header.png)
 
-Yield Farming in Farms is a great way to earn CAKE rewards on PancakeSwap.
+파밍을 통한 일드 파밍은 PancakeSwap에서 CAKE 보상을 얻는 훌륭한 방법입니다.
 
-Farms require you to stake **two tokens** to provide liquidity and receive either a liquidity position NFT or LP Tokens, which you then stake in the Farm to earn rewards. This lets you earn CAKE while still keeping a position in your other tokens!
+파밍에서는 **두 가지 토큰**을 스테이킹하여 유동성을 공급하고, 유동성 포지션 NFT 또는 LP 토큰을 받은 다음 이를 파밍에 스테이킹하여 보상을 얻습니다. 이를 통해 다른 토큰의 포지션을 유지하면서도 CAKE를 획득할 수 있습니다!
 
 {% hint style="warning" %}
-Yield farming can give better rewards than Syrup Pools or single token staking, but it comes with a risk of **Impermanent Loss**. It’s not as scary as it sounds, but it is worth learning about the concept before you get started.
+일드 파밍은 시럽 풀이나 단일 토큰 스테이킹보다 더 높은 보상을 제공할 수 있지만, **비영구적 손실(Impermanent Loss)** 위험이 따릅니다. 이름처럼 그렇게 무서운 것은 아니지만, 시작하기 전에 개념을 알아 두는 것이 좋습니다.
 
-Check out this great [article about Impermanent Loss ](https://academy.binance.com/en/articles/impermanent-loss-explained)from Binance Academy to learn more.
+자세한 내용은 Binance Academy의 [비영구적 손실에 대한 훌륭한 글](https://academy.binance.com/en/articles/impermanent-loss-explained)을 확인하세요.
 {% endhint %}
 
-## Find the Pairs to Provide Liquidity
+## 유동성을 공급할 페어 찾기
 
-<figure><img src="../../../.gitbook/assets/image (360).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28360%29.png" alt=""><figcaption></figcaption></figure>
 
-Now with Universal Farm Page, you can find liquidity pairs by tokens, check their fees, volume, APRs, across all the PancakeSwap supported networks, without the need of switching networks in the wallet.
+이제 유니버설 파밍 페이지에서 지갑의 네트워크를 전환하지 않고도 PancakeSwap이 지원하는 모든 네트워크에 걸쳐 토큰별로 유동성 페어를 찾고, 수수료, 거래량, APR을 확인할 수 있습니다.
 
-Head to: [https://pancakeswap.finance/liquidity/pools](https://pancakeswap.finance/liquidity/pools) to start
+시작하려면 다음 주소로 이동하세요: [https://pancakeswap.finance/liquidity/pools](https://pancakeswap.finance/liquidity/pools)
 
-#### Features Breakdown
+#### 기능 상세 설명
 
-<figure><img src="../../../.gitbook/assets/image (361).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28361%29.png" alt=""><figcaption></figcaption></figure>
 
-1. All the liquidity pools/pairs that are trending, or have a PancakeSwap farm attached.
-2. All the liquidity positions you have.
-3. All the legacy farms. If you don't find your previously staked farms in "All Pools" try searching here.
-4. On default the page shows farms and tokens from all the supported chains. Use this drop down to filter pools by networks/chains.
-5. Use this dropdown to filter pools by tokens.
-6. Use this tab to filter pools by DEX type.
-7. Click the arrow button on APR, TVL, or VOLUME 24H to order the pools with the selected metrics.
-8. Sections for bCAKE - farm yield booster. [Learn more](../../../welcome-to-pancakeswap/vecake-sunset/bcake/)
-9. Use this link to go back to the legacy farm page if you head into any issue with the new version.
+1. 인기 있거나 PancakeSwap 파밍이 연결된 모든 유동성 풀/페어입니다.
+2. 내가 보유한 모든 유동성 포지션입니다.
+3. 모든 레거시 파밍입니다. 이전에 스테이킹한 파밍이 "전체 풀"에서 보이지 않으면 여기에서 검색해 보세요.
+4. 기본적으로 이 페이지는 지원되는 모든 체인의 파밍과 토큰을 보여줍니다. 이 드롭다운을 사용하여 네트워크/체인별로 풀을 필터링하세요.
+5. 이 드롭다운을 사용하여 토큰별로 풀을 필터링하세요.
+6. 이 탭을 사용하여 DEX 유형별로 풀을 필터링하세요.
+7. APR, TVL 또는 24시간 거래량의 화살표 버튼을 클릭하면 선택한 지표 기준으로 풀을 정렬할 수 있습니다.
+8. 파밍 수익 부스터인 bCAKE 섹션입니다. [자세히 알아보기](../../../welcome-to-pancakeswap/vecake-sunset/bcake/)
+9. 새 버전에서 문제가 발생하면 이 링크를 사용하여 레거시 파밍 페이지로 돌아갈 수 있습니다.
 
-## Provide LP
+## LP 공급
 
-<figure><img src="../../../.gitbook/assets/image (362).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28362%29.png" alt=""><figcaption></figcaption></figure>
 
-Once you find a pair to provide liquidity, click to go to the detail page to check on more info like:
+유동성을 공급할 페어를 찾았다면, 클릭하여 상세 페이지로 이동해 다음과 같은 정보를 확인하세요.
 
 * TVL&#x20;
-* Volume
-* Fees
+* 거래량
+* 수수료
 * APR
-* Your Existing Positions
+* 내 기존 포지션
 
-To create an LP, click "Add Liquidity +" and follow the instructions here:
+LP를 생성하려면 "Add Liquidity +"를 클릭하고 다음 가이드의 안내를 따르세요.
 
 {% content-ref url="../../pancakeswap-pools/liquidity-guide.md" %}
 [liquidity-guide.md](../../pancakeswap-pools/liquidity-guide.md)
 {% endcontent-ref %}
 
-## Stake Your Position to Earn
+## 포지션을 스테이킹하여 보상 받기
 
-<figure><img src="../../../.gitbook/assets/image (363).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28363%29.png" alt=""><figcaption></figcaption></figure>
 
-Once liquidity is added, they will appear in the upper right table. Or in the "My Position" tab.
+유동성을 추가하면 오른쪽 상단의 표 또는 "My Position" 탭에 표시됩니다.
 
-* For V3, simply click "Stake" to stake your position and start earning CAKE. As in V3 users can create multiple positions,  you can repeat the above steps to stake multiple positions with different price ranges.
-* For V2 and StableSwap, after clicking "Stake", you need to specify the amount of LP tokens to stake. In most cases you should stake 100% of your LP tokens to maximise your yield.
+* v3의 경우 "Stake"를 클릭하여 포지션을 스테이킹하고 CAKE 획득을 시작하세요. v3에서는 여러 개의 포지션을 만들 수 있으므로, 위 단계를 반복하여 서로 다른 가격 범위의 여러 포지션을 스테이킹할 수 있습니다.
+* v2와 StableSwap의 경우 "Stake"를 클릭한 후 스테이킹할 LP 토큰의 수량을 지정해야 합니다. 대부분의 경우 수익을 극대화하려면 LP 토큰의 100%를 스테이킹하는 것이 좋습니다.
 
-## Harvest Farming Rewards
+## 파밍 보상 수확하기
 
-<figure><img src="../../../.gitbook/assets/image (364).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28364%29.png" alt=""><figcaption></figcaption></figure>
 
-In the new Universal Farm Page, locating all your farming positions has never been easier. Simply go to "My Positions" and click "Farms only" in the top right corner. All the farming positions will be filtered, regardless of which network you are selecting.
+새로운 유니버설 파밍 페이지에서는 모든 파밍 포지션을 그 어느 때보다 쉽게 찾을 수 있습니다. "My Positions"로 이동하여 오른쪽 상단의 "Farms only"를 클릭하세요. 어떤 네트워크를 선택했는지와 관계없이 모든 파밍 포지션이 필터링됩니다.
 
-Just like the list of pools/pairs, you may use the toolbar to filter positions by networks/chains, tokens, and DEX type.
+풀/페어 목록과 마찬가지로, 도구 모음을 사용하여 네트워크/체인, 토큰, DEX 유형별로 포지션을 필터링할 수 있습니다.
 
-To harvest CAKE rewards from a staked position, simply click "Harvest" and confirm in your wallet popup.
+스테이킹한 포지션에서 CAKE 보상을 수확하려면 "Harvest"를 클릭하고 지갑 팝업에서 확인하세요.
 
-If you have multiple staked positions, you need to harvest them separately.&#x20;
+스테이킹한 포지션이 여러 개인 경우 각각 별도로 수확해야 합니다.&#x20;
 
-## **Add or Remove Liquidity While Staking in a Farm**
+## **파밍에 스테이킹한 상태에서 유동성 추가 또는 제거**
 
-In V3, when staking in a farm, you can still add or remove liquidity without unstaking.
+v3에서는 파밍에 스테이킹한 상태에서도 언스테이킹하지 않고 유동성을 추가하거나 제거할 수 있습니다.
 
-To do so, simply return to the "My Positions" page, and position you want to adjust.
+이렇게 하려면 "My Positions" 페이지로 돌아가 조정하려는 포지션을 선택하세요.
 
-<figure><img src="../../../.gitbook/assets/image (365).png" alt="" width="280"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28365%29.png" alt="" width="280"><figcaption></figcaption></figure>
 
-Click on the position title with the token pair, and position ID to open up the position detail page.
+토큰 페어와 포지션 ID가 표시된 포지션 제목을 클릭하여 포지션 상세 페이지를 여세요.
 
-Simply use the “Add” or “Remove” button to adjust the liquidity in the staked position.
+"Add" 또는 "Remove" 버튼을 사용하여 스테이킹한 포지션의 유동성을 조정하면 됩니다.
 
-<figure><img src="../../../.gitbook/assets/image (366).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28366%29.png" alt=""><figcaption></figcaption></figure>
 
-Please note that all the unclaimed CAKE rewards will be harvested and sent to your wallet while adjusting your position.
+포지션을 조정하는 동안 아직 수령하지 않은 모든 CAKE 보상이 수확되어 지갑으로 전송된다는 점에 유의하세요.
 
-## **Unstake**
+## **언스테이킹**
 
-You can unstake a position at any time.
+포지션은 언제든지 언스테이킹할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (367).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28367%29.png" alt=""><figcaption></figcaption></figure>
 
-To unstake, simply return to the "My Positions", locate the position, and click:
+언스테이킹하려면 "My Positions"로 돌아가 포지션을 찾은 다음 다음을 클릭하세요.
 
-* "Unstake" (for V3 positions)&#x20;
-* "-" (for V2, StableSwap LPs), and then select the amount to unstake
+* "Unstake" (v3 포지션의 경우)&#x20;
+* "-" (v2, StableSwap LP의 경우)를 클릭한 후 언스테이킹할 수량 선택
 
-Then confirm in the wallet pop up. After a short wait, your position NFT or LP tokens will be returned to your wallet, along with all the pending CAKE rewards.
+그런 다음 지갑 팝업에서 확인하세요. 잠시 기다리면 포지션 NFT 또는 LP 토큰이 대기 중인 모든 CAKE 보상과 함께 지갑으로 반환됩니다.
 
-## How often should I harvest my rewards?
+## 보상은 얼마나 자주 수확해야 하나요?
 
-How often you harvest your rewards is up to you, but it does help to remember that there is a small fee involved in harvesting.
+보상을 얼마나 자주 수확할지는 본인의 선택이지만, 수확 시 소액의 수수료가 발생한다는 점을 기억해 두면 도움이 됩니다.
 
-You can see this fee in your wallet when confirming after clicking **Harvest**.
+**Harvest**를 클릭한 후 확인 단계에서 지갑에 이 수수료가 표시됩니다.
 
-![](<../../../.gitbook/assets/image (281).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28281%29.png)
 
-This shows the fee for harvesting as it appears in the MetaMask wallet. Different wallets will show the information a little differently. Consider leaving your rewards to grow for a while so you pay fees less often.
+이 이미지는 MetaMask 지갑에 표시되는 수확 수수료를 보여줍니다. 지갑마다 정보가 약간 다르게 표시될 수 있습니다. 보상을 한동안 쌓아 두었다가 수확하면 수수료를 덜 자주 지불할 수 있습니다.
 
 
 
-**Happy farming!**
+**즐거운 파밍 되세요!**

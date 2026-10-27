@@ -2,33 +2,33 @@
 hidden: true
 ---
 
-# Senior Solidity Engineer
+# 시니어 Solidity 엔지니어
 
-### **General Information**
+### **일반 정보**
 
-* **Salary range:** Competitive, negotiable
-* **Position:** Full-time
-* **Location:** Remote
-* **Time-zone preference:** Any
+* **급여 범위:** 경쟁력 있는 수준, 협의 가능
+* **근무 형태:** 정규직
+* **근무지:** 원격
+* **선호 시간대:** 무관
 
-### Your Responsibilities
+### 담당 업무
 
-* Architect, implement, and test smart contracts in **Solidity** across EVM-compatible chains.
-* Scope, design, and deliver complex systems end-to-end, from idea to deployment.
-* Collaborate with cross functional partners on all aspects of product development.
-* Conduct code reviews and enforce best practices for security, efficiency, and maintainability.
-* Continuously evaluate and improve gas optimization, security design patterns, and upgradeability.
-* Proactively identify areas for improvement and innovation within PancakeSwap’s protocol architecture.
+* EVM 호환 체인 전반에서 **Solidity**로 스마트 컨트랙트를 설계, 구현, 테스트합니다.
+* 아이디어부터 배포까지, 복잡한 시스템의 범위를 정하고 설계하며 엔드투엔드로 제공합니다.
+* 제품 개발의 모든 측면에서 유관 부서 파트너와 협업합니다.
+* 코드 리뷰를 수행하고 보안, 효율성, 유지보수성에 대한 모범 사례를 정착시킵니다.
+* 가스 최적화, 보안 설계 패턴, 업그레이드 가능성을 지속적으로 평가하고 개선합니다.
+* PancakeSwap의 프로토콜 아키텍처 내에서 개선 및 혁신이 필요한 영역을 능동적으로 발굴합니다.
 
-### Skills & Qualifications
+### 역량 및 자격 요건
 
-* **5+ years** of software engineering experience, with **2+ years** focused on Solidity smart contracts.
-* Deep understanding of **Solidity design patterns**, gas optimization, and contract upgradeability.
-* Hands-on experience with **Hardhat** and **Foundry** (understands the trade-offs and tooling ecosystems).
-* Strong understanding of **EVM internals**, **DeFi protocols**, and **on-chain architecture**.
-* Excellent analytical, debugging, and problem-solving skills.
-* Comfortable working autonomously in a fast-paced, globally distributed team.
+* 소프트웨어 엔지니어링 경력 **5년 이상**, 그중 Solidity 스마트 컨트랙트 집중 경력 **2년 이상**.
+* **Solidity 설계 패턴**, 가스 최적화, 컨트랙트 업그레이드 가능성에 대한 깊은 이해.
+* **Hardhat**과 **Foundry** 실무 경험 (트레이드오프와 툴링 생태계를 이해하고 있어야 합니다).
+* **EVM 내부 구조**, **DeFi 프로토콜**, **온체인 아키텍처**에 대한 탄탄한 이해.
+* 뛰어난 분석, 디버깅, 문제 해결 능력.
+* 빠르게 변화하는 글로벌 분산 팀에서 자율적으로 일하는 데 익숙한 분.
 
-### How to apply:
+### 지원 방법:
 
-Email hiring@pancakeswap.com with your resume!
+이력서를 hiring@pancakeswap.com 으로 이메일 보내 주세요!

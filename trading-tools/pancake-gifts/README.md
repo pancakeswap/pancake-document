@@ -1,95 +1,95 @@
 # 🎁 Pancake Gifts
 
-### 🎯 What is Pancake Gifts?
+### 🎯 Pancake Gifts란 무엇인가요?
 
-**Pancake Gifts** lets anyone send tokens — including optional gas — to friends, users, or communities using just a **link** or **QR code**. It’s a simple, secure, and gasless experience for the recipient.
+**Pancake Gifts**를 사용하면 **링크** 또는 **QR 코드**만으로 누구나 친구, 사용자 또는 커뮤니티에 토큰(선택 사항으로 가스비 포함)을 보낼 수 있습니다. 받는 사람에게는 간단하고 안전하며 가스비가 필요 없는 경험입니다.
 
-It’s built to make onboarding into crypto as easy as sending a message — no wallet funding, no bridging, no upfront fees.
+메시지를 보내는 것만큼 쉽게 암호화폐를 시작할 수 있도록 만들어졌습니다. 지갑 충전도, 브릿징도, 선불 수수료도 필요 없습니다.
 
-### 🤝 Why We Built Pancake Gifts
+### 🤝 Pancake Gifts를 만든 이유
 
-Onboarding to Web3 is still full of friction. New users often give up before they even get started due to:
+Web3 온보딩에는 여전히 많은 걸림돌이 있습니다. 신규 사용자는 다음과 같은 이유로 시작하기도 전에 포기하는 경우가 많습니다.
 
-* **No gas in wallet** → Can’t perform any onchain action
-* **No funds on the correct chain** → Bridging is required before using dApps
-* **Need to buy crypto just to get started** → Requires CEX signup or fiat on-ramp
+* **지갑에 가스비가 없음** → 어떤 온체인 작업도 수행할 수 없음
+* **올바른 체인에 자금이 없음** → dApp을 사용하기 전에 브릿징이 필요함
+* **시작하려면 암호화폐를 구매해야 함** → CEX 가입 또는 법정화폐 온램프가 필요함
 
-Pancake Gifts eliminates these blockers by:
+Pancake Gifts는 다음과 같은 방법으로 이러한 장벽을 없앱니다.
 
-* ✅ **Including native gas tokens** in the gift so recipients can interact instantly
-* ✅ **Sponsoring the gas fee upfront** (sender pays a small fee)
-* ✅ **Enabling claim via a simple link or QR** — no complex onboarding
+* ✅ 선물에 **네이티브 가스 토큰 포함**으로 받는 사람이 즉시 이용 가능
+* ✅ **가스비를 미리 대납**(보내는 사람이 소액의 수수료 부담)
+* ✅ **간단한 링크 또는 QR로 수령 가능** — 복잡한 온보딩 불필요
 
 
 
-It’s a tool for both:
+다음 두 경우 모두를 위한 도구입니다.
 
-* New users getting started onchain
-* Web3-native communities looking to **boost adoption, reward users, or run campaigns** in a friendlier way
+* 온체인을 막 시작하는 신규 사용자
+* **채택 확대, 사용자 보상 또는 캠페인 진행**을 더 친근한 방식으로 하려는 Web3 네이티브 커뮤니티
 
 ***
 
-### ⚙️ Feature Summary
+### ⚙️ 기능 요약
 
-| Feature                | Description                                                      |
+| 기능                | 설명                                                      |
 | ---------------------- | ---------------------------------------------------------------- |
-| **Chain Support**      | BNB Chain (initial launch)                                       |
-| **Gift Code Types**    | Link **or** QR Code                                              |
-| **One-time Use**       | Each code can only be claimed once                               |
-| **Token Support**      | Max 2 tokens: 1 BEP-20 (required), 1 native gas token (optional) |
-| **Custom Amounts**     | Set different values per token                                   |
-| **Gift Claim Gas Fee** | Sender prepays gas (\~$0.05 in BNB)                              |
-| **Gift History**       | Users can view all sent gifts, claim status, expiry              |
-| **Security Checks**    | Fee-on-transfer and complex logic tokens are disallowed          |
+| **지원 체인**      | BNB 체인(초기 출시)                                       |
+| **선물 코드 유형**    | 링크 **또는** QR 코드                                              |
+| **1회 사용**       | 각 코드는 한 번만 수령할 수 있습니다                           |
+| **지원 토큰**      | 최대 2개 토큰: BEP-20 1개(필수), 네이티브 가스 토큰 1개(선택) |
+| **사용자 지정 금액**     | 토큰별로 다른 값을 설정할 수 있습니다                           |
+| **선물 수령 가스비** | 보내는 사람이 가스비를 미리 지불합니다(BNB로 약 \~$0.05)                              |
+| **선물 내역**       | 보낸 모든 선물, 수령 상태, 만료 시점을 확인할 수 있습니다              |
+| **보안 검사**    | 전송 수수료 토큰 및 복잡한 로직의 토큰은 허용되지 않습니다          |
 
-### 🚫 Limitations
+### 🚫 제한 사항
 
-1. **One gift per code** — Mass gifting is not yet supported.
-2. **Gifts cannot be reinstated** — Once cancelled or expired, they cannot be reused.
-3. **Unsupported tokens are blocked** — Tokens with transfer fees or special logic will show an error on creation.
-4. **Unsuccessful claims are retried** — Backend retries a few times. If still failed, the gift is marked **unclaimable** and must be cancelled manually to retrieve funds.
-5. **Gift must be claimed on the same chain** — e.g. ETH gift must be claimed on Ethereum. Cross-chain claiming is not supported yet.
-
-***
-
-### 🕒 Cancel & Expiry Logic
-
-Gifts follow a defined lifecycle based on status and time:
-
-#### Manual Cancel
-
-* The **creator** can cancel any gift that is still **unclaimed** and **within the expiry window**.
-* Tokens (minus the initial Gift Claim Gas Fee) will be returned to the sender.
-* Cancelled gifts **cannot** be reactivated or reused.
-
-#### Auto Expiry
-
-* Gifts **automatically expire** after a user-defined period (default: 7 days).
-* Unclaimed tokens will be **auto-returned** to the sender’s wallet.
-* Expired gifts are also non-reusable.
+1. **코드당 선물 1개** — 대량 선물은 아직 지원되지 않습니다.
+2. **선물은 복구할 수 없음** — 취소되었거나 만료된 후에는 다시 사용할 수 없습니다.
+3. **지원되지 않는 토큰은 차단됨** — 전송 수수료가 있거나 특수한 로직이 있는 토큰은 생성 시 오류가 표시됩니다.
+4. **수령 실패 시 재시도** — 백엔드에서 몇 차례 재시도합니다. 그래도 실패하면 선물은 **수령 불가**로 표시되며 자금을 되찾으려면 수동으로 취소해야 합니다.
+5. **선물은 같은 체인에서 수령해야 함** — 예를 들어 ETH 선물은 Ethereum에서 수령해야 합니다. 크로스체인 수령은 아직 지원되지 않습니다.
 
 ***
 
-### 🔄 Gift Statuses & What They Mean
+### 🕒 취소 및 만료 로직
 
-| Status          | Description                                                              |
+선물은 상태와 시간에 따라 정해진 수명 주기를 따릅니다.
+
+#### 수동 취소
+
+* **생성자**는 아직 **수령되지 않았고** **만료 기간 내**에 있는 모든 선물을 취소할 수 있습니다.
+* 토큰(최초 선물 수령 가스비 제외)은 보낸 사람에게 반환됩니다.
+* 취소된 선물은 다시 활성화하거나 재사용할 수 **없습니다**.
+
+#### 자동 만료
+
+* 선물은 사용자가 정한 기간(기본값: 7일) 이후 **자동으로 만료**됩니다.
+* 수령되지 않은 토큰은 보낸 사람의 지갑으로 **자동 반환**됩니다.
+* 만료된 선물도 재사용할 수 없습니다.
+
+***
+
+### 🔄 선물 상태 및 의미
+
+| 상태          | 설명                                                              |
 | --------------- | ------------------------------------------------------------------------ |
-| **Pending**     | Gift has been created and is awaiting claim                              |
-| **Claimed**     | Gift was successfully claimed by a recipient                             |
-| **Cancelled**   | Gift was manually cancelled by the sender                                |
-| **Expired**     | Gift passed the expiry time without being claimed                        |
-| **Unclaimable** | Number of retries exceeded; gift needs to be cancelled to retrieve funds |
+| **대기 중**     | 선물이 생성되어 수령을 기다리고 있습니다                           |
+| **수령 완료**     | 수령자가 선물을 성공적으로 수령했습니다                             |
+| **취소됨**   | 보낸 사람이 선물을 수동으로 취소했습니다                                |
+| **만료됨**     | 수령되지 않은 채 만료 시간이 지났습니다                        |
+| **수령 불가** | 재시도 횟수를 초과했습니다. 자금을 되찾으려면 선물을 취소해야 합니다 |
 
 ***
 
-### ⚠️ Error Handling & Edge Cases
+### ⚠️ 오류 처리 및 예외 상황
 
-1. **Unsupported Token**
-   * Gift creation is blocked for tokens with transfer fees or special logic.
-2. **Gas Mismatch**
-   * If **actual claim gas cost ≥** the sender’s prepaid fee, the claim fails automatically to prevent overuse. This will be retried once gas fee levels are within range.
-3. **Failed Claim Attempts**
-   * Retries will be attempted upon first unsuccessful claim.
-   * If still unsuccessful:
-     * Recipient sees “Unclaimable”
-     * Sender must manually cancel the gift to retrieve funds and the recipient will have to request a new gift code.
+1. **지원되지 않는 토큰**
+   * 전송 수수료가 있거나 특수한 로직이 있는 토큰은 선물 생성이 차단됩니다.
+2. **가스 불일치**
+   * **실제 수령 가스 비용이 ≥** 보낸 사람이 미리 지불한 수수료인 경우 과다 사용을 방지하기 위해 수령이 자동으로 실패합니다. 가스비 수준이 범위 내로 돌아오면 다시 시도됩니다.
+3. **수령 시도 실패**
+   * 첫 수령 시도가 실패하면 재시도가 이루어집니다.
+   * 그래도 실패하면:
+     * 수령자에게 "수령 불가"가 표시됩니다.
+     * 보낸 사람은 자금을 되찾기 위해 선물을 수동으로 취소해야 하며, 수령자는 새 선물 코드를 요청해야 합니다.

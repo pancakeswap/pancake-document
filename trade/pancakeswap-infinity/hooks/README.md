@@ -1,33 +1,33 @@
 # Hooks
 
 {% hint style="info" %}
-If you're a developer or looking for detailed technical documentation on developing a hook, please visit [here](https://developer.pancakeswap.finance/contracts/infinity/guides/develop-a-hook).
+개발자이거나 Hook 개발에 대한 자세한 기술 문서가 필요하시다면 [여기](https://developer.pancakeswap.finance/contracts/infinity/guides/develop-a-hook)를 방문하세요.
 {% endhint %}
 
-Hooks are powerful add-ons that let developers extend and customize the behavior of liquidity pools in PancakeSwap Infinity. Think of them as "plugins" or "widgets" that add new features to liquidity pools.
+Hooks는 개발자가 PancakeSwap Infinity 유동성 풀의 동작을 확장하고 커스터마이징할 수 있게 해 주는 강력한 애드온입니다. 유동성 풀에 새로운 기능을 더해 주는 "플러그인"이나 "위젯"이라고 생각하시면 됩니다.
 
-#### 🔍 What Are Hooks?
+#### 🔍 Hooks란 무엇인가요?
 
-* Hooks are external smart contracts created by anyone — developers, protocols, or community members — and attached to liquidity pools to enhance or modify their behavior.
-* Each pool can have only one hook attached, but a single hook can serve many pools.
-* Hooks can run custom code before or after key actions like:
-  * Initializing a pool
-  * Swapping
-  * Adding/removing liquidity
-  * Donating<br>
+* Hooks는 개발자, 프로토콜, 커뮤니티 구성원 등 누구나 만들 수 있는 외부 스마트 컨트랙트로, 유동성 풀에 연결되어 풀의 동작을 향상하거나 수정합니다.
+* 각 풀에는 하나의 Hook만 연결할 수 있지만, 하나의 Hook이 여러 풀을 지원할 수 있습니다.
+* Hooks는 다음과 같은 주요 동작 전후에 커스텀 코드를 실행할 수 있습니다.
+  * 풀 초기화
+  * 스왑
+  * 유동성 추가/제거
+  * 도네이션(Donate)<br>
 
-**⛓️ How Hooks Work:**
+**⛓️ Hooks의 작동 방식:**
 
-* A hook is selected during pool creation and can’t be changed later.
-* A hook contract triggers on specific actions (swap, add liquidity, etc) and executes logic before or after those actions as defined within the contract.
-* For example, a hook could:
-  * Offer swap fee discounts to CAKE holders
-  * Charge custom fees and distribute rewards
-  * Enable new swap logic like stableswaps or TWAMM-style orders<br>
+* Hook은 풀 생성 시 선택되며 이후에는 변경할 수 없습니다.
+* Hook 컨트랙트는 특정 동작(스왑, 유동성 추가 등)에서 트리거되어, 컨트랙트에 정의된 대로 해당 동작 전후에 로직을 실행합니다.
+* 예를 들어 Hook은 다음을 할 수 있습니다.
+  * CAKE 보유자에게 스왑 수수료 할인 제공
+  * 커스텀 수수료 부과 및 보상 분배
+  * 스테이블스왑이나 TWAMM 방식 주문 같은 새로운 스왑 로직 활성화<br>
 
-#### ⚙️ Hook Callbacks
+#### ⚙️ Hook 콜백
 
-Hooks can be triggered during ten specific moments. Developers can choose which ones they want to implement:
+Hooks는 열 가지 특정 시점에 트리거될 수 있습니다. 개발자는 구현하려는 시점을 선택할 수 있습니다.
 
 * beforeInitialize / afterInitialize
 * beforeAddLiquidity / afterAddLiquidity
@@ -35,69 +35,69 @@ Hooks can be triggered during ten specific moments. Developers can choose which 
 * beforeSwap / afterSwap
 * beforeDonate / afterDonate<br>
 
-These allow to implement highly customizable and modular behavior through hooks.
+이를 통해 Hooks로 매우 커스터마이징 가능한 모듈식 동작을 구현할 수 있습니다.
 
-#### 🔧 Two Types of Hooks
+#### 🔧 두 가지 유형의 Hooks
 
-**Type 1: No Authorization Needed**
+**유형 1: 승인이 필요 없음**
 
-These hooks run automatically and do not require user permission. They are triggered by actions like swaps or liquidity changes.
-
-
-
-Examples:
-
-* Dynamic Fees: Adjust swap fees based on market volatility
-* Fee Rebates: Give discounts to users holding CAKE or trading high volumes
+이 Hooks는 자동으로 실행되며 사용자 권한이 필요하지 않습니다. 스왑이나 유동성 변경 같은 동작에 의해 트리거됩니다.
 
 
 
-Example Flow (CAKE Fee Discount):
+예시:
 
-1. A user initiates a swap.
-2. The hook checks their CAKE balance via `beforeSwap` hook callback.
-3. If the user holds enough CAKE as per defined thresholds, they get a 50% discount on pool fees.
-4. The rest of the transaction proceeds as usual.<br>
+* 동적 수수료: 시장 변동성에 따라 스왑 수수료 조정
+* 수수료 리베이트: CAKE를 보유했거나 거래량이 많은 사용자에게 할인 제공
+
+
+
+예시 흐름 (CAKE 수수료 할인):
+
+1. 사용자가 스왑을 시작합니다.
+2. Hook이 `beforeSwap` Hook 콜백을 통해 사용자의 CAKE 잔액을 확인합니다.
+3. 정의된 기준에 따라 사용자가 충분한 CAKE를 보유하고 있으면 풀 수수료를 50% 할인받습니다.
+4. 나머지 트랜잭션은 평소대로 진행됩니다.<br>
 
 {% hint style="success" %}
-These hooks don’t need a special UI or additional interaction. The benefits are applied automatically.
+이 Hooks는 별도의 UI나 추가 상호작용이 필요하지 않습니다. 혜택이 자동으로 적용됩니다.
 {% endhint %}
 
-**Type 2: User Authorization Required**
+**유형 2: 사용자 승인이 필요함**
 
-These hooks need users to interact directly with them, provide authorisation and may require to transfer funds, often to create or manage positions.
-
-
-
-Examples:
-
-* Limit Orders: Execute a swap only when target price is reached.
-* TWAMM: Break large orders into smaller pieces for better execution.
-* Active Liquidity Management: Automatically manage LP positions for optimal returns.
+이 Hooks는 사용자가 직접 상호작용하고 승인을 제공해야 하며, 자금 전송이 필요할 수 있습니다. 주로 포지션을 생성하거나 관리하기 위한 용도입니다.
 
 
 
-Example Flow (Limit Order Hook):
+예시:
 
-1. User interacts directly with the hook contract (not the usual swap UI).
-2. They enter details like limit price, token pair, amount.
-3. The hook issues a receipt token representing the order.
-4. Later, when pool price hits the target, the hook executes the order using afterSwap.
-5. The user can return the receipt token to claim the swapped assets.
+* 지정가 주문: 목표 가격에 도달했을 때만 스왑을 실행합니다.
+* TWAMM: 큰 주문을 작은 조각으로 나누어 더 나은 체결을 제공합니다.
+* 액티브 유동성 관리: 최적의 수익을 위해 LP 포지션을 자동으로 관리합니다.
+
+
+
+예시 흐름 (지정가 주문 Hook):
+
+1. 사용자가 (일반적인 스왑 UI가 아니라) Hook 컨트랙트와 직접 상호작용합니다.
+2. 지정가, 토큰 페어, 수량 같은 정보를 입력합니다.
+3. Hook이 주문을 나타내는 영수증 토큰을 발행합니다.
+4. 이후 풀 가격이 목표에 도달하면 Hook이 afterSwap을 사용해 주문을 실행합니다.
+5. 사용자는 영수증 토큰을 반환하여 스왑된 자산을 수령할 수 있습니다.
 
 {% hint style="info" %}
-These hooks often need a custom UI and users must trust and approve the hook contract to hold their funds.
+이 Hooks는 커스텀 UI가 필요한 경우가 많으며, 사용자는 Hook 컨트랙트가 자금을 보관하도록 신뢰하고 승인해야 합니다.
 {% endhint %}
 
-#### 🚀 Use Cases & Innovation
+#### 🚀 활용 사례와 혁신
 
-Hooks unlock limitless possibilities, including:
+Hooks는 다음을 포함한 무한한 가능성을 열어 줍니다.
 
-* Custom AMMs (e.g., stablecoin curves)
-* Liquidity mining rewards
-* Automated trading strategies, liquidity management
-* On-chain limit orders, other order types
-* Dynamic pricing and fee adjustments
-* Yield-enhancing LP strategies<br>
+* 커스텀 AMM (예: 스테이블코인 곡선)
+* 유동성 마이닝 보상
+* 자동화된 거래 전략, 유동성 관리
+* 온체인 지정가 주문 및 기타 주문 유형
+* 동적 가격 책정 및 수수료 조정
+* 수익을 높이는 LP 전략<br>
 
-With hooks, developers can build an entirely new DeFi experience using the existing infrastructure of PancakeSwap Infinity — speeding up development and lowering costs.
+Hooks를 사용하면 개발자는 PancakeSwap Infinity의 기존 인프라를 활용해 완전히 새로운 DeFi 경험을 구축할 수 있으며, 개발 속도를 높이고 비용을 줄일 수 있습니다.

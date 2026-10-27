@@ -2,33 +2,33 @@
 hidden: true
 ---
 
-# Community Manager (CN)
+# 커뮤니티 매니저 (CN)
 
-* Position: Full-time
-* Location: Remote
-* Timezone: UTC+8
+* 근무 형태: 정규직
+* 근무지: 원격
+* 시간대: UTC+8
 
-We are looking for an experienced, Chinese-speaking Community Manager to activate, engage, and grow the PancakeSwap community. The ideal candidate has experience in Chinese-language crypto communities, understands DeFi communities and users, and has a proven track record of growing and activating communities in the region.
+PancakeSwap 커뮤니티를 활성화하고, 소통하며, 성장시킬 중국어 사용 커뮤니티 매니저를 찾고 있습니다. 이상적인 후보자는 중국어권 암호화폐 커뮤니티 경험이 있고, DeFi 커뮤니티와 사용자를 이해하며, 해당 지역에서 커뮤니티를 성장시키고 활성화한 검증된 실적을 갖추고 있습니다.
 
-### **Responsibilities:**
+### **담당 업무:**
 
-* Activate and grow PancakeSwap’s Chinese-speaking communities through organic and community initiatives
-* Represent PancakeSwap as a spokesperson across Chinese-speaking community channels, discussions, AMAs, and advocates for our products, brand, and ecosystem
-* Plan and execute Chinese-language community campaigns, AMAs, online initiatives, and local community meetups with clear growth and engagement outcomes
-* Build and maintain relationships with crypto projects, communities, and ecosystem partners to increase community activation
-* Manage PancakeSwap’s ambassadors and ambassador program for Chinese-speaking markets to support the community user, content, and regional events initiatives
-* Act as a bridge between PancakeSwap’s Chinese-speaking community and internal teams, relaying community and product feedback to drive PancakeSwap’s growth and success
-* Identify, engage, and collaborate with Chinese-speaking community content creators and influencers to produce relevant, high-quality content in the community
-* Track community performance and provide weekly reports on activities, engagement metrics, sentiment, and actionable insights
+* 유기적 활동과 커뮤니티 이니셔티브를 통해 PancakeSwap의 중국어권 커뮤니티를 활성화하고 성장시킵니다.
+* 중국어권 커뮤니티 채널, 토론, AMA에서 PancakeSwap의 대변인으로서 당사의 제품, 브랜드, 생태계를 알리고 지지합니다.
+* 명확한 성장 및 참여 성과를 목표로 중국어 커뮤니티 캠페인, AMA, 온라인 이니셔티브, 현지 커뮤니티 밋업을 기획하고 실행합니다.
+* 암호화폐 프로젝트, 커뮤니티, 생태계 파트너와의 관계를 구축하고 유지하여 커뮤니티 활성화를 확대합니다.
+* 커뮤니티 사용자, 콘텐츠, 지역 행사 이니셔티브를 지원하기 위해 중국어권 시장의 PancakeSwap 앰배서더와 앰배서더 프로그램을 관리합니다.
+* PancakeSwap의 중국어권 커뮤니티와 내부 팀 사이의 가교 역할을 하며, 커뮤니티와 제품에 대한 피드백을 전달하여 PancakeSwap의 성장과 성공을 이끕니다.
+* 중국어권 커뮤니티 콘텐츠 크리에이터 및 인플루언서를 발굴하고 협업하여 커뮤니티에 적합한 양질의 콘텐츠를 제작합니다.
+* 커뮤니티 성과를 추적하고 활동, 참여 지표, 여론, 실행 가능한 인사이트에 대한 주간 보고서를 제공합니다.
 
-### **Requirements**
+### **요구 사항**
 
-* 2+ years of experience as a community manager in the DeFi or crypto space
-* Language: Native Proficiency in Chinese required, working proficiency in English.
-* Understanding of Chinese-speaking crypto communities, DeFi, and community growth
-* Excellent Chinese written and verbal communication skills
-* Experience with community platforms and tools on Discord, Telegram, X, etc.
-* Proactive, results-oriented, and able to operate in a fast-paced environment
+* DeFi 또는 암호화폐 분야에서 커뮤니티 매니저로서 2년 이상의 경력
+* 언어: 중국어 원어민 수준 필수, 영어 업무 가능 수준.
+* 중국어권 암호화폐 커뮤니티, DeFi, 커뮤니티 성장에 대한 이해
+* 뛰어난 중국어 서면 및 구두 커뮤니케이션 능력
+* Discord, Telegram, X 등의 커뮤니티 플랫폼 및 도구 사용 경험
+* 능동적이고 성과 지향적이며 빠르게 변화하는 환경에서 일할 수 있는 분
 
-**How to Apply:**\
-Shoot your resume over to hiring@pancakeswap.com, we’d love to hear from you!
+**지원 방법:**\
+이력서를 hiring@pancakeswap.com 으로 보내 주세요. 여러분의 이야기를 기다립니다!

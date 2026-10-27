@@ -1,49 +1,49 @@
-# ❓ Commonly Asked Business Partnerships Questions
+# ❓ 비즈니스 파트너십에 관해 자주 묻는 질문
 
-#### How long will it take to get a response?
+#### 답변을 받기까지 얼마나 걸리나요?
 
-We aim to respond to applications within a week, but due to a large number of requests, we’re unable to respond to every single applicant. If you don’t hear back from us within two weeks of applying, try reaching out to[ @PancakeSwapBD](https://t.me/PancakeSwapBD) on Telegram, with the name of your project, your project’s website, and the date you applied.
+신청서는 일주일 이내에 답변드리는 것을 목표로 하지만, 요청이 많아 모든 신청자에게 일일이 답변드리지는 못하고 있습니다. 신청 후 2주 이내에 연락을 받지 못하셨다면, 텔레그램에서[ @PancakeSwapBD](https://t.me/PancakeSwapBD)로 프로젝트 이름, 프로젝트 웹사이트, 신청 날짜를 함께 보내 문의해 주세요.
 
-#### Can I extend my Syrup Pool?
+#### 시럽 풀을 연장할 수 있나요?
 
-If you’ve already got an ongoing Syrup Pool, you can extend the timeline with additional release of tokens. Contact us via your existing PancakeSwap communication channels for enquiries.
+이미 진행 중인 시럽 풀이 있다면, 토큰을 추가로 배포하여 기간을 연장할 수 있습니다. 문의는 기존에 사용 중인 PancakeSwap 소통 채널로 연락해 주세요.
 
-### Listing on the Exchange
+### 거래소 상장
 
-#### How can I list my token on the exchange?
+#### 제 토큰을 거래소에 상장하려면 어떻게 해야 하나요?
 
-Anybody can "list" any ERC-20 / BEP-20 network token on PancakeSwap. You don't need to contact us or ask permission. You just need to [add liquidity to a liquidity pool](https://docs.pancakeswap.finance/earn/pancakeswap-pools) - that's it. Traders can then trade your token by entering your token's contract address.
+누구나 ERC-20 / BEP-20 네트워크 토큰을 PancakeSwap에 "상장"할 수 있습니다. 저희에게 연락하거나 허락을 구할 필요가 없습니다. [유동성 풀에 유동성을 추가](https://docs.pancakeswap.finance/earn/pancakeswap-pools)하기만 하면 됩니다. 그러면 트레이더가 토큰의 컨트랙트 주소를 입력하여 해당 토큰을 거래할 수 있습니다.
 
-#### How can I add my token to the default list?
+#### 제 토큰을 기본 목록에 추가하려면 어떻게 해야 하나요?
 
-Projects hosting Farms will usually be added to the Extended token list, and other tokens chosen by the PancakeSwap core team may also be added.
+일드 파밍을 운영하는 프로젝트는 대개 확장 토큰 목록에 추가되며, PancakeSwap 코어 팀이 선정한 다른 토큰도 추가될 수 있습니다.
 
-We don’t take applications for the list. Users can still add your token manually by entering its contract address.
+목록에 대한 신청은 받지 않습니다. 사용자는 컨트랙트 주소를 입력하여 토큰을 직접 추가할 수 있습니다.
 
-#### How can I add my token's logo/icon?
+#### 제 토큰의 로고/아이콘을 추가하려면 어떻게 해야 하나요?
 
-Please add your icon to Trust Wallet’s assets repo, which PancakeSwap references:[ https://github.com/trustwallet/assets](https://github.com/trustwallet/assets)
+PancakeSwap이 참조하는 Trust Wallet의 assets 저장소에 아이콘을 추가해 주세요.[ https://github.com/trustwallet/assets](https://github.com/trustwallet/assets)
 
-#### Someone made a fake copy of my token! Can you block it?
+#### 누군가 제 토큰의 가짜 복사본을 만들었어요! 차단해 주실 수 있나요?
 
-Due to PancakeSwap’s nature as an AMM-based DEX, we’re not able to prevent the trading of any token. We recommend ensuring that your token contract is clearly visible and verifiable on your site and educating your users about how to safely trade your token.
+PancakeSwap은 AMM 기반 DEX라는 특성상 어떤 토큰의 거래도 막을 수 없습니다. 토큰 컨트랙트가 사이트에서 명확하게 보이고 검증 가능하도록 하고, 사용자에게 토큰을 안전하게 거래하는 방법을 교육할 것을 권장합니다.
 
-#### People get an error when trading my token. What can I do?
+#### 사람들이 제 토큰을 거래할 때 오류가 발생합니다. 어떻게 해야 하나요?
 
-Check our [Troubleshooting page](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/faq/troubleshooting) for a list of common errors on the exchange, and how to solve them.
+거래소에서 자주 발생하는 오류와 해결 방법은 [문제 해결 페이지](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/faq/troubleshooting)에서 확인해 주세요.
 
-#### Why are some statistics of my tokens not shown on the Info page?
+#### 제 토큰의 일부 통계가 Info 페이지에 표시되지 않는 이유는 무엇인가요?
 
-Tokens need to be paired with a “common” token, and have a minimum amount of liquidity denominated in the “common” token for the Info page to start indexing the token pair. The statistics of the underlying token will be shown once the token pair is indexed.&#x20;
+Info 페이지가 토큰 페어의 인덱싱을 시작하려면 토큰이 "공통" 토큰과 페어를 이루고, "공통" 토큰 기준으로 최소 유동성을 갖추고 있어야 합니다. 토큰 페어가 인덱싱되면 해당 토큰의 통계가 표시됩니다.&#x20;
 
-These are our liquidity requirements across the different chains:
+체인별 유동성 요건은 다음과 같습니다.
 
-| Chain         | Liquidity Requirement  | "Common" Tokens                                           |
-| ------------- | ---------------------- | --------------------------------------------------------- |
-| BNB Chain     | 10 BNB                 | WBNB, USDT, BUSD, USDC, BTCB, WETH, CAKE                  |
-| Ethereum      | 5 ETH                  | WETH, DAI, USDC, USDT, WBTC, LINK, FEI, MATIC, AAVE, CAKE |
-| Base          | 1 ETH                  | USDC, cbETH, rETH, DAI, crvUSD                            |
-| opBNB         | 1 BNB                  | WBNB, USDT                                                |
-| Arbitrum      | No requirement for now | USDT, USDC, USDC.e, ARB, WBTC, DAI                        |
-| zkSync        | No requirement for now | USDT, USDC, BUSD, WBTC                                    |
-| Linea         | No requirement for now | USDC, USDT, DAI, BUSD, WBTC                               |
+| 체인        | 유동성 요건        | "공통" 토큰                                                   |
+| --------- | ------------- | --------------------------------------------------------- |
+| BNB Chain | 10 BNB        | WBNB, USDT, BUSD, USDC, BTCB, WETH, CAKE                  |
+| Ethereum  | 5 ETH         | WETH, DAI, USDC, USDT, WBTC, LINK, FEI, MATIC, AAVE, CAKE |
+| Base      | 1 ETH         | USDC, cbETH, rETH, DAI, crvUSD                            |
+| opBNB     | 1 BNB         | WBNB, USDT                                                |
+| Arbitrum  | 현재는 요건 없음 | USDT, USDC, USDC.e, ARB, WBTC, DAI                        |
+| zkSync    | 현재는 요건 없음 | USDT, USDC, BUSD, WBTC                                    |
+| Linea     | 현재는 요건 없음 | USDC, USDT, DAI, BUSD, WBTC                               |

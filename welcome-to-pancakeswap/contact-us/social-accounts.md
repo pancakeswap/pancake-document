@@ -1,22 +1,22 @@
-# Social Accounts
+# 소셜 계정
 
 ## 🐦 X (Twitter)
 
 [https://twitter.com/pancakeswap](https://twitter.com/pancakeswap)
 
-## 📰 Blog
+## 📰 블로그
 
 [https://blog.pancakeswap.finance/](https://blog.pancakeswap.finance/)
 
-## [📺](https://emojipedia.org/es/televisi%C3%B3n) Youtube
+## [📺](https://emojipedia.org/es/televisi%C3%B3n) 유튜브
 
 [https://www.youtube.com/@pancakeswap\_official](https://www.youtube.com/@pancakeswap_official)
 
 {% hint style="danger" %}
-Nobody from PancakeSwap will EVER send you a direct message. If anybody approaches you directly on e.g. Telegram pretending to represent customer support, please block them and report spam.
+PancakeSwap에서는 그 누구도 절대로 먼저 다이렉트 메시지를 보내지 않습니다. 텔레그램 등에서 고객 지원 담당자를 사칭하여 직접 접근하는 사람이 있다면 차단하고 스팸으로 신고해 주세요.
 {% endhint %}
 
 {% hint style="danger" %}
-NEVER, under any situation, should you ever give someone your private key or recovery phrases. Immediately block and report anyone that asks for them.
+어떤 상황에서도 개인 키나 복구 구문을 다른 사람에게 절대 알려 주지 마세요. 이를 요구하는 사람은 즉시 차단하고 신고해 주세요.
 {% endhint %}
 

@@ -1,66 +1,66 @@
-# Earn CAKE Weekly
+# 매주 CAKE 획득
 
-<figure><img src="../../../../.gitbook/assets/image (354).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28354%29.png" alt=""><figcaption></figcaption></figure>
 
-Holding veCAKE automatically enrols you to two of our weekly CAKE reward pools. Both will be distributing rewards in CAKE. One of them is distributing rewards from weekly revenue shares; the other one is replacing the legacy CAKE staking pool and distributing emission-based CAKE rewards.
+veCAKE를 보유하면 주간 CAKE 보상 풀 두 곳에 자동으로 등록됩니다. 두 풀 모두 CAKE로 보상을 분배합니다. 하나는 주간 수익 공유에서 나온 보상을 분배하고, 다른 하나는 기존 CAKE 스테이킹 풀을 대체하여 발행량 기반의 CAKE 보상을 분배합니다.
 
-## How to participate?
+## 참여 방법
 
-### 1 - Become eligible <a href="#id-8b63b3dd-b974-4e1b-9c5e-ed8eea2891ab" id="id-8b63b3dd-b974-4e1b-9c5e-ed8eea2891ab"></a>
+### 1 - 자격 갖추기 <a href="#id-8b63b3dd-b974-4e1b-9c5e-ed8eea2891ab" id="id-8b63b3dd-b974-4e1b-9c5e-ed8eea2891ab"></a>
 
-<figure><img src="../../../../.gitbook/assets/image (355).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28355%29.png" alt=""><figcaption></figcaption></figure>
 
-To become eligible, you must have an active veCAKE staking position.
+자격을 갖추려면 활성 상태의 veCAKE 스테이킹 포지션이 있어야 합니다.
 
-Additionally, to accumulate rewards in the next period, your position **MUST** unlock equal to or later than the second coming weekly distribution (every week at 00:00 UTC on Thursday).
+또한 다음 기간에 보상을 적립하려면, 포지션이 다음 다음 주간 분배 시점(매주 목요일 00:00 UTC) 이후이거나 그 시점과 같은 때에 언락되어야 **합니다**.
 
-For example, to join the week 1 distribution. You must:
+예를 들어 1주차 분배에 참여하려면 다음 조건을 충족해야 합니다.
 
-* Join before 00:00 UTC, Thursday on week 1
-* Have an active fixed-term CAKE staking position, which unlocks equal to or later than 00:00 UTC, Thursday on week 3
+* 1주차 목요일 00:00 UTC 이전에 참여
+* 3주차 목요일 00:00 UTC 이후이거나 그 시점과 같은 때에 언락되는 활성 고정 기간 CAKE 스테이킹 포지션 보유
 
-### 2 - Check your rewards
+### 2 - 보상 확인하기
 
-<figure><img src="../../../../.gitbook/assets/image (356).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28356%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Go to the CAKE staking page, scroll down, look for the "Earn CAKE" section under "Benefits of veCAKE".
+CAKE 스테이킹 페이지로 이동해 아래로 스크롤하여 "Benefits of veCAKE" 아래의 "Earn CAKE" 섹션을 찾으세요.
 
-In the top section, you may view your veCAKE number.
+상단에서 보유한 veCAKE 수량을 확인할 수 있습니다.
 
-At the bottom, you may find:
+하단에서는 다음을 확인할 수 있습니다.
 
-* **Your shares** - shares number in the reward pool. This is equal to your veCAKE balance at the time of the next distribution. Please note that the veCAKE balance is constantly decreasing based on the remaining lock time.
-* **Next distribution** - the time till the next distribution
-* **Last distribution** - the time of the last revenue distribution and share number update
-* **Available for claiming** - the amount of CAKE available for claiming
+* **내 지분(Your shares)** - 보상 풀에서의 지분 수입니다. 이는 다음 분배 시점의 veCAKE 잔액과 같습니다. veCAKE 잔액은 남은 락업 기간에 따라 계속 감소한다는 점에 유의하세요.
+* **다음 분배(Next distribution)** - 다음 분배까지 남은 시간
+* **마지막 분배(Last distribution)** - 마지막 수익 분배 및 지분 수 업데이트 시각
+* **수령 가능(Available for claiming)** - 수령할 수 있는 CAKE 수량
 
 {% hint style="info" %}
-Please note that your shares will only be updated upon a weekly distribution. Therefore, your shares may appear to be 0 right after you update your staking position. Check back again after the next distribution to view your shares.
+지분은 주간 분배 시점에만 업데이트된다는 점에 유의하세요. 따라서 스테이킹 포지션을 업데이트한 직후에는 지분이 0으로 표시될 수 있습니다. 다음 분배 이후 다시 확인하여 지분을 확인하세요.
 {% endhint %}
 
-### 3 - Claim your rewards <a href="#d99a5c97-55b7-4768-ac3e-c05e173ed63f" id="d99a5c97-55b7-4768-ac3e-c05e173ed63f"></a>
+### 3 - 보상 수령하기 <a href="#d99a5c97-55b7-4768-ac3e-c05e173ed63f" id="d99a5c97-55b7-4768-ac3e-c05e173ed63f"></a>
 
-Your shares will be updated upon the next weekly distribution after you start locking or migrated your position to veCAKE. You will start accumulating rewards based on the number of shares you have against the whole pool.
+락업을 시작하거나 포지션을 veCAKE로 마이그레이션한 후, 다음 주간 분배 시점에 지분이 업데이트됩니다. 이후 전체 풀 대비 보유한 지분 수에 따라 보상이 적립되기 시작합니다.
 
-<figure><img src="../../../../.gitbook/assets/image (357).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28357%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-After a whole calendar week passes and the pool hits the next weekly distribution on Thursday. You may now claim the rewards from the last period by going back to the benefits panel and clicking the “Claim All” button.
+한 주 전체가 지나고 풀이 목요일의 다음 주간 분배에 도달하면, 혜택 패널로 돌아가 "Claim All" 버튼을 클릭하여 지난 기간의 보상을 수령할 수 있습니다.
 
-### 4 - Stay eligible and gain more shares <a href="#id-3ca775e2-6d26-4dee-94e4-e03d89b57412" id="id-3ca775e2-6d26-4dee-94e4-e03d89b57412"></a>
+### 4 - 자격 유지 및 지분 늘리기 <a href="#id-3ca775e2-6d26-4dee-94e4-e03d89b57412" id="id-3ca775e2-6d26-4dee-94e4-e03d89b57412"></a>
 
-Upon each weekly distribution, your shares are re-adjusted based on:
+주간 분배가 있을 때마다 지분은 다음을 기준으로 재조정됩니다.
 
-* Your veCAKE balance
-* At the time of the next distribution (00:00 UTC, Thursday)
-* (note that veCAKE is gradually decreasing with the remaining lock time)
+* 보유한 veCAKE 잔액
+* 다음 분배 시점(목요일 00:00 UTC)의 잔액
+* (veCAKE는 남은 락업 기간에 따라 점차 감소합니다)
 
-For example: If a user has `50` CAKE locked and the current remaining lock time is `4.2` weeks, then the user will have `50 * (4 / 209) ~= 0.95` veCAKE/shares at the next distribution.
+예를 들어 사용자가 `50` CAKE를 락업했고 현재 남은 락업 시간이 `4.2`주라면, 다음 분배 시점에 사용자는 `50 * (4 / 209) ~= 0.95` veCAKE/지분을 갖게 됩니다.
 
-To receive more shares, lock more CAKE or renew your lock durations to increase your remaining lock time.
+지분을 더 받으려면 CAKE를 더 락업하거나 락업 기간을 갱신하여 남은 락업 시간을 늘리세요.
 
-Additionally, since the remaining lock duration will be rounded down to weeks, to keep receiving shares, you must ensure your staking position will unlock equal to or later than the second next distribution.
+또한 남은 락업 기간은 주 단위로 내림 처리되므로, 계속 지분을 받으려면 스테이킹 포지션이 다음 다음 분배 시점 이후이거나 그 시점과 같은 때에 언락되도록 해야 합니다.
 
-For example, to join the week 1 distribution. You must:
+예를 들어 1주차 분배에 참여하려면 다음 조건을 충족해야 합니다.
 
-* Join before 00:00 UTC, Thursday on week 1
-* Have an active fixed-term CAKE staking position, which unlocks equal to or later than 00:00 UTC, Thursday on week 3
+* 1주차 목요일 00:00 UTC 이전에 참여
+* 3주차 목요일 00:00 UTC 이후이거나 그 시점과 같은 때에 언락되는 활성 고정 기간 CAKE 스테이킹 포지션 보유

@@ -1,2 +1,1 @@
-# ❓ Trading FAQ
-
+# ❓ 거래 자주 묻는 질문 (FAQ)

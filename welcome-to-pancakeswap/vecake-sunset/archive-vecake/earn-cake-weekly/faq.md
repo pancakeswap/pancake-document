@@ -1,48 +1,48 @@
-# FAQ
+# 자주 묻는 질문 (FAQ)
 
-### I’ve locked my CAKE or migrated my CAKE pool position. Why do I still have 0 shares? <a href="#cae64522-4729-43a2-8fa8-6bbd2567dcea" id="cae64522-4729-43a2-8fa8-6bbd2567dcea"></a>
+### CAKE를 락업했거나 CAKE 풀 포지션을 마이그레이션했는데 왜 지분이 여전히 0인가요? <a href="#cae64522-4729-43a2-8fa8-6bbd2567dcea" id="cae64522-4729-43a2-8fa8-6bbd2567dcea"></a>
 
-Shares are updated upon each weekly distribution at 00:00 UTC every Thursday.
+지분은 매주 목요일 00:00 UTC의 주간 분배 시점마다 업데이트됩니다.
 
-Rewards are accumulated whenever you have finished staking for a complete epoch.&#x20;
+보상은 하나의 Epoch 전체 동안 스테이킹을 마친 경우에 적립됩니다.&#x20;
 
-Epochs are 7-day periods, starting every Thursday, UTC 00:00. For example, if you stake on Tuesday. Your first epoch will start on Thursday. Once you have finished staking till the next Thursday. You will be able to claim your rewards from this Thursday to next Thursday, aka epoch 1.
+Epoch는 매주 목요일 UTC 00:00에 시작하는 7일 단위의 기간입니다. 예를 들어 화요일에 스테이킹하면 첫 번째 Epoch는 목요일에 시작됩니다. 다음 목요일까지 스테이킹을 마치면, 이번 목요일부터 다음 목요일까지의 보상(즉 Epoch 1)을 수령할 수 있습니다.
 
-Check back again each Thursday for updated reward numbers.
+매주 목요일에 다시 확인하여 업데이트된 보상 수치를 확인하세요.
 
-### Why are my shares/rewards being 0 despite having an active staking position? <a href="#9f2843b7-1a26-4248-8c3e-f5343b2de92e" id="9f2843b7-1a26-4248-8c3e-f5343b2de92e"></a>
+### 활성 스테이킹 포지션이 있는데도 지분/보상이 0인 이유는 무엇인가요? <a href="#id-9f2843b7-1a26-4248-8c3e-f5343b2de92e" id="id-9f2843b7-1a26-4248-8c3e-f5343b2de92e"></a>
 
-When calculating rewards. The remaining lock duration is rounded down to weeks. Therefore, to receive shares, you must ensure your staking position unlocks no earlier than the very next Thursday 00:00 UTC.
+보상을 계산할 때 남은 락업 기간은 주 단위로 내림 처리됩니다. 따라서 지분을 받으려면 스테이킹 포지션이 바로 다음 목요일 00:00 UTC보다 빠르지 않게 언락되도록 해야 합니다.
 
-For example, week 1 starts at 00:00 UTC, Thursday, 1 Jan. To receive rewards for the week 1 distribution. You must:
+예를 들어 1주차는 1월 1일 목요일 00:00 UTC에 시작합니다. 1주차 분배의 보상을 받으려면 다음 조건을 충족해야 합니다.
 
-* Join before 00:00 UTC, 1 Jan.
-* Have an active veCAKE staking position, which unlocks equal to or later than 00:00 UTC, 15 Jan. (Thursday on week 3)
+* 1월 1일 00:00 UTC 이전에 참여
+* 1월 15일 00:00 UTC(3주차 목요일) 이후이거나 그 시점과 같은 때에 언락되는 활성 veCAKE 스테이킹 포지션 보유
 
-Please note that if your staking position unlocks at 00:00 UTC, 8 Jan (Thursday on week 2). You will still receive 0 rewards for week 1 due to your veCAKE balance turning at 00:00 UTC, 8 Jan.
+스테이킹 포지션이 1월 8일(2주차 목요일) 00:00 UTC에 언락되는 경우, veCAKE 잔액이 1월 8일 00:00 UTC에 0이 되므로 1주차 보상은 여전히 0이라는 점에 유의하세요.
 
-### Can I join a distribution period mid-week? <a href="#db254eef-09b7-41d7-bb56-310c77ce976b" id="db254eef-09b7-41d7-bb56-310c77ce976b"></a>
+### 주중에 분배 기간에 참여할 수 있나요? <a href="#db254eef-09b7-41d7-bb56-310c77ce976b" id="db254eef-09b7-41d7-bb56-310c77ce976b"></a>
 
-No, as mentioned, rewards can only start to accumulate when you are already staking at the beginning of the epoch. Which is every week at 00:00 UTC, Thursday.&#x20;
+아니요. 앞서 설명했듯이 보상은 Epoch가 시작되는 시점, 즉 매주 목요일 00:00 UTC에 이미 스테이킹하고 있는 경우에만 적립되기 시작합니다.&#x20;
 
-### How do I receive more rewards? <a href="#db254eef-09b7-41d7-bb56-310c77ce976b" id="db254eef-09b7-41d7-bb56-310c77ce976b"></a>
+### 더 많은 보상을 받으려면 어떻게 해야 하나요? <a href="#db254eef-09b7-41d7-bb56-310c77ce976b" id="db254eef-09b7-41d7-bb56-310c77ce976b"></a>
 
-Since your shares in pools are calculated based on veCAKE balance at the distribution time, which is at 00:00 UTC next coming Thursday. To receive more rewards, simply bump up your veCAKE balance by:
+풀에서의 지분은 분배 시점, 즉 다가오는 목요일 00:00 UTC의 veCAKE 잔액을 기준으로 계산됩니다. 더 많은 보상을 받으려면 다음 방법으로 veCAKE 잔액을 늘리세요.
 
-* Locking more CAKE in the veCAKE staking position
-* Renewing your staking position
+* veCAKE 스테이킹 포지션에 CAKE를 더 락업
+* 스테이킹 포지션 갱신
 
-Please note that after adding CAKE or extending, your shares will only update after the beginning of the next epoch, which is 00:00 UTC, the coming Thursday.
+CAKE를 추가하거나 연장한 후에는 다음 Epoch가 시작된 이후, 즉 다가오는 목요일 00:00 UTC 이후에야 지분이 업데이트된다는 점에 유의하세요.
 
-### Why are the weekly injected rewards not 100% matching the volume displayed on various trackers (like the Info page)? Why are the weekly CAKE pool rewards not 100% matching the gauges voting results.
+### 주간 주입 보상이 다양한 트래커(예: Info 페이지)에 표시된 거래량과 100% 일치하지 않는 이유는 무엇인가요? 주간 CAKE 풀 보상이 게이지 투표 결과와 100% 일치하지 않는 이유는 무엇인가요?
 
-The number of CAKE rewards injected weekly may not be 100% matching with the numbers calculated from the volume displayed on various trackers. Multiple external factors may impact the number of CAKE rewards that can be converted:
+주간으로 주입되는 CAKE 보상의 수량은 다양한 트래커에 표시된 거래량으로 계산한 수치와 100% 일치하지 않을 수 있습니다. 여러 외부 요인이 CAKE 보상으로 전환될 수 있는 수량에 영향을 줄 수 있습니다.
 
-* CAKE token price while the trading fee is being converted and processed
-* Underlying asset prices while the trading fee is being converted and processed
-* To save gas and operational cost. Revenues from blockchains other than BNB Chain are processed monthly. They will be injected with a one-month delay with weekly averaging.
-* Some trading pairs may have insufficient liquidity while processing the trading fee.
-* Some trading pairs may contain tokens with custom logic that prevent their fee from being processed.
-* Transaction delays due to infrastructures and supportive system performance.
+* 거래 수수료가 전환 및 처리되는 동안의 CAKE 토큰 가격
+* 거래 수수료가 전환 및 처리되는 동안의 기초 자산 가격
+* 가스 및 운영 비용을 절약하기 위해 BNB 체인 이외의 블록체인에서 발생한 수익은 매월 처리됩니다. 이 수익은 주간 평균화를 거쳐 한 달 지연되어 주입됩니다.
+* 일부 거래 페어는 거래 수수료를 처리하는 동안 유동성이 부족할 수 있습니다.
+* 일부 거래 페어에는 수수료 처리를 방해하는 커스텀 로직이 포함된 토큰이 있을 수 있습니다.
+* 인프라 및 지원 시스템 성능으로 인한 트랜잭션 지연.
 
-Chefs are working hard to apply tools and practices to ensure more trading fees generated can be processed and converted into CAKE.
+셰프들은 더 많은 거래 수수료를 처리하여 CAKE로 전환할 수 있도록 도구와 방식을 적용하기 위해 노력하고 있습니다.

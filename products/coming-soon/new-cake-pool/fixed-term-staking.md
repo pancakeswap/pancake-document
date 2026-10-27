@@ -16,13 +16,13 @@ description: >-
 
 5\. The **Enable** button should now be replaced with **Flexible** and **Locked**. Click the button to bring up the staking menu.
 
-![Note that actual values will vary](<../../../.gitbook/assets/Stake - before enable (2).png>)
+![Note that actual values will vary](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Stake%20-%20before%20enable%20%282%29.png)
 
 6\. For Fixed-Term Staking simply press **Locked**, which will present you with a new window, enter the amount of CAKE you wish to stake and for how long you want to lock your CAKE for.
 
 Below that, you will find a summary of your position, including yield, lock duration, and unlock date and time. Double-check to make sure you are okay with the lock duration and amount staked, click **Confirm** and confirm the transaction in your wallet.
 
-![Note that actual values will vary](<../../../.gitbook/assets/first time lock.png>)
+![Note that actual values will vary](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/first%20time%20lock.png)
 
 Please note that we are still refining our UI including more precise unlock durations and a possible countdown.
 
@@ -40,13 +40,13 @@ On 18th June 2022 (6 weeks later, 4 weeks until the user's CAKE unlocks), the us
 
 1\. Navigate to the CAKE Syrup Pool and click **Extend**.&#x20;
 
-![Note that actual values will vary](<../../../.gitbook/assets/Locked - in the lock (1).png>)
+![Note that actual values will vary](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Locked%20-%20in%20the%20lock%20%281%29.png)
 
 2\. Select the duration you would like to add (5 weeks in this example).\
 \
 Note that your new lock duration will equal your initial lock duration of 10 weeks plus the added 5 weeks for a new lock duration of 15 weeks.
 
-![Note that actual values will vary](<../../../.gitbook/assets/Adjust Lock - add duration.png>)
+![Note that actual values will vary](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Adjust%20Lock%20-%20add%20duration.png)
 
 3\. Double-check to make sure you are okay with the new extended lock duration and click **Confirm**.
 
@@ -66,11 +66,11 @@ On 18th June 2022 (6 weeks later, 4 weeks until the user's CAKE unlocks), the us
 
 1\. Navigate to the CAKE Syrup Pool and click **Add CAKE**.&#x20;
 
-![Note that actual values will vary](<../../../.gitbook/assets/Locked - in the lock (2).png>)
+![Note that actual values will vary](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Locked%20-%20in%20the%20lock%20%282%29.png)
 
 2\. Select the amount of CAKE you would like to add to your locked balance (for this example, we are adding 100 CAKE which is our max wallet balance). Note that your yield boost is lower than the initial yield boost because it is calculated using a 4 week lock duration instead of the initial 10 week lock duration.
 
-![Note that actual values will vary](<../../../.gitbook/assets/Adjust Lock - add CAKE.png>)
+![Note that actual values will vary](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Adjust%20Lock%20-%20add%20CAKE.png)
 
 2.1. Alternatively, users can check the box next to "Renew and extend your lock to keep similar benefits." to maintain a similar yield boost setting the lock duration equal to the initial lock duration (in this example, 10 weeks).
 

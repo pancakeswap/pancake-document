@@ -1,52 +1,52 @@
-# What can you do as an Ambassador?
+# 앰배서더로서 무엇을 할 수 있나요?
 
-### &#x20;**Meetups & Education!**&#x20;
+### &#x20;**밋업 및 교육!**&#x20;
 
-As an Ambassador, you’ll lead local **meetups and educational events**, creating spaces for DeFi enthusiasts to connect, learn, and grow.&#x20;
+앰배서더는 지역 **밋업과 교육 행사**를 이끌며, DeFi 애호가들이 서로 연결되고 배우고 성장할 수 있는 공간을 만듭니다.&#x20;
 
-Your role includes:\
-✅ Organizing **community meetups** to strengthen connections.\
-✅ Hosting **workshops** on DeFi, PancakeSwap products, and security best practices.\
-✅ Gathering **valuable feedback** to enhance future events.
+담당 업무는 다음과 같습니다.\
+✅ 유대감을 강화하는 **커뮤니티 밋업** 기획\
+✅ DeFi, PancakeSwap 제품, 보안 모범 사례에 관한 **워크숍** 개최\
+✅ 향후 행사를 개선하기 위한 **소중한 피드백** 수집
 
-By fostering engagement and education, you’ll help build a more informed and connected PancakeSwap community worldwide!&#x20;
+참여와 교육을 촉진함으로써 전 세계 PancakeSwap 커뮤니티가 더 많이 알고 더 긴밀히 연결되도록 도와주세요!&#x20;
 
-### Online Activities
+### 온라인 활동
 
-💻 Expanding Our Reach, One Event at a Time!
+💻 이벤트 하나씩, 도달 범위를 넓혀 갑니다!
 
-The impact of our ambassadors goes beyond in-person events—it extends online! We encourage you to actively grow PancakeSwap’s presence by:
+앰배서더의 영향력은 오프라인 행사에 그치지 않고 온라인으로도 확장됩니다. 다음과 같은 활동으로 PancakeSwap의 존재감을 적극적으로 키워 주세요.
 
-🎤 Hosting and participating in AMAs, Twitter Spaces, and online workshops to engage the community.\
-📣 Expanding our reach by connecting with a broader audience across different platforms.
+🎤 AMA, 트위터 스페이스, 온라인 워크숍을 개최하고 참여하여 커뮤니티와 소통합니다.\
+📣 다양한 플랫폼에서 더 폭넓은 대상과 연결하여 도달 범위를 넓힙니다.
 
-Your online activities will play a crucial role in strengthening PancakeSwap’s visibility and educating our users!&#x20;
+여러분의 온라인 활동은 PancakeSwap의 가시성을 강화하고 사용자를 교육하는 데 중요한 역할을 합니다!&#x20;
 
-### Community Moderation
+### 커뮤니티 모더레이션
 
-🛡️ Keeping Our Community Safe & Engaged!
+🛡️ 커뮤니티를 안전하고 활기차게 유지합니다!
 
-The PancakeSwap community spans multiple platforms, including Telegram and Discord, and we’re looking for dedicated individuals to help moderate and manage these spaces.
+PancakeSwap 커뮤니티는 텔레그램과 디스코드를 비롯한 여러 플랫폼에 걸쳐 있으며, 이러한 공간을 관리하고 운영해 줄 헌신적인 분들을 찾고 있습니다.
 
-As a Community Moderator, you’ll play a crucial role in:
+커뮤니티 모더레이터는 다음과 같은 중요한 역할을 맡습니다.
 
-✅ Maintaining a positive and welcoming environment for all users.\
-✅ Enforcing community guidelines to ensure respectful and meaningful discussions.\
-✅ Providing support and guidance to users by answering questions and addressing concerns.
+✅ 모든 사용자에게 긍정적이고 친근한 환경 유지\
+✅ 존중하고 의미 있는 토론을 위한 커뮤니티 가이드라인 적용\
+✅ 질문에 답하고 우려 사항을 해결하며 사용자를 지원하고 안내
 
-You’ll help create a safe, engaging, and informative space for our growing global community! 💬
+성장하는 글로벌 커뮤니티를 위한 안전하고, 활기차고, 유익한 공간을 만들어 주세요! 💬
 
-### Content Creation
+### 콘텐츠 제작
 
-Let’s take PancakeSwap content to the next level!
+PancakeSwap 콘텐츠를 한 단계 더 끌어올려 봅시다!
 
-As an ambassador, you’ll play a key role in crafting high-quality, engaging, and educational content, including:
+앰배서더는 다음과 같은 고품질의 흥미롭고 교육적인 콘텐츠를 만드는 핵심적인 역할을 합니다.
 
-* 📘 Guides – Clear, well-structured resources to help users navigate PancakeSwap effortlessly.
-* 🎥 Tutorials – Step-by-step explanations to simplify complex DeFi concepts.
-* 📚 In-Depth Content – Comprehensive materials that dive deep into PancakeSwap’s features and the DeFi ecosystem.
+* 📘 가이드 – 사용자가 PancakeSwap을 수월하게 이용하도록 돕는 명확하고 체계적인 자료
+* 🎥 튜토리얼 – 복잡한 DeFi 개념을 쉽게 풀어 주는 단계별 설명
+* 📚 심층 콘텐츠 – PancakeSwap의 기능과 DeFi 에코시스템을 깊이 있게 다루는 종합 자료
 
-Your creativity and expertise will help bridge the knowledge gap, making DeFi more accessible to everyone. Together, we’ll build a valuable content hub that empowers and educates the PancakeSwap community! 💡✨
+여러분의 창의력과 전문성은 지식 격차를 메우고 DeFi를 모두가 더 쉽게 접할 수 있게 해 줄 것입니다. 함께 PancakeSwap 커뮤니티에 힘이 되고 지식을 전하는 가치 있는 콘텐츠 허브를 만들어 갑시다! 💡✨
 
 <br>
 

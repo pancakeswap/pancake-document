@@ -1,56 +1,56 @@
-# Get Aptos Coins
+# Aptos Coin 받기
 
 {% hint style="info" %}
-This guide covers major Aptos bridging services for mainstream tokens. To Bridge CAKE between Aptos and BNB Smart chain, use [PancakeSwap Aptos Bridge](https://bridge.pancakeswap.finance/aptos).
+이 가이드는 주요 토큰을 위한 대표적인 Aptos 브릿지 서비스를 다룹니다. CAKE를 Aptos와 BNB 스마트 체인 간에 브릿지하려면 [PancakeSwap Aptos Bridge](https://bridge.pancakeswap.finance/aptos)를 사용하세요.
 {% endhint %}
 
-The native token of Aptos Chain is **Aptos Coin (APT)**.
+Aptos 체인의 네이티브 토큰은 **Aptos Coin (APT)**입니다.
 
-To do most things on Aptos Chain, you will need to pay gas, which comes in the form of APT.
+Aptos 체인에서 대부분의 작업을 하려면 APT 형태의 가스비를 지불해야 합니다.
 
-You will also need the tokens you want to trade or stake on Aptos Chain. There are a few ways to bring your assets to Aptos Chain, but here are the ones we recommend:
+또한 Aptos 체인에서 거래하거나 스테이킹할 토큰도 필요합니다. 자산을 Aptos 체인으로 가져오는 방법은 여러 가지가 있으며, 그중 추천하는 방법은 다음과 같습니다.
 
 {% tabs %}
 {% tab title="🌉 Aptos Bridge" %}
 [**Aptos Bridge - LayerZero**](https://theaptosbridge.com/bridge)
 
-* The Aptos Bridge allows you to bridge mainstream tokens and stablecoins to Aptos
-* Supports "gas on destination" - receive a tiny amount of Aptos Coin (APT) for gas to kickstart your Aptos chain adventure
-* **⚠️ Note: for now assets are wrapped when bridged.** **(marked as "LayerZero")**\
-  Before bridging your tokens, be sure to double-check the token list to see which wrapped version of the tokens you are trading.
+* Aptos Bridge를 통해 주요 토큰과 스테이블코인을 Aptos로 브릿지할 수 있습니다
+* "목적지 가스(gas on destination)"를 지원하여, 소량의 Aptos Coin (APT)을 가스비로 받아 Aptos 체인에서의 여정을 시작할 수 있습니다
+* **⚠️ 참고: 현재 브릿지된 자산은 래핑(wrapped)됩니다.** **("LayerZero"로 표시)**\
+  토큰을 브릿지하기 전에 토큰 목록을 다시 확인하여 거래하려는 토큰이 어떤 래핑 버전인지 꼭 확인하세요.
 {% endtab %}
 
 {% tab title="🌉 cBridge" %}
 [**cBridge**](https://cbridge.celer.network/1/12360001/)
 
-* The cBridge allows you to bridge mainstream tokens and stablecoins to Aptos
-* **⚠️ Note: for now assets are wrapped when bridged.** **(marked as "Celer")**\
-  Before bridging your tokens, be sure to double-check the token list to see which wrapped version of the tokens you are trading.
+* cBridge를 통해 주요 토큰과 스테이블코인을 Aptos로 브릿지할 수 있습니다
+* **⚠️ 참고: 현재 브릿지된 자산은 래핑(wrapped)됩니다.** **("Celer"로 표시)**\
+  토큰을 브릿지하기 전에 토큰 목록을 다시 확인하여 거래하려는 토큰이 어떤 래핑 버전인지 꼭 확인하세요.
 
-**📖** [**cBridge Tutorial Provided by Celer**](https://cbridge-docs.celer.network/tutorial/cross-chain-transfer)
+**📖** [**Celer에서 제공하는 cBridge 튜토리얼**](https://cbridge-docs.celer.network/tutorial/cross-chain-transfer)
 {% endtab %}
 
 {% tab title="🌉 Wormhole" %}
 [**Wormhole - Portal Token Bridge**](https://www.portalbridge.com/#/transfer)
 
-* The Portal Token Bridge allows you to bridge mainstream tokens and stablecoins to Aptos
-* **⚠️ Note: assets are wrapped when bridged.** **(marked as "Wormhole")**\
-  Before bridging your tokens, be sure to double-check the token list to see which wrapped version of the tokens you are trading.
+* Portal Token Bridge를 통해 주요 토큰과 스테이블코인을 Aptos로 브릿지할 수 있습니다
+* **⚠️ 참고: 브릿지된 자산은 래핑(wrapped)됩니다.** **("Wormhole"로 표시)**\
+  토큰을 브릿지하기 전에 토큰 목록을 다시 확인하여 거래하려는 토큰이 어떤 래핑 버전인지 꼭 확인하세요.
 
-[**📖 Tutorial provided by Wormhole**](https://docs.wormhole.com/wormhole/video-tutorial-how-to-use-portal)
+[**📖 Wormhole에서 제공하는 튜토리얼**](https://docs.wormhole.com/wormhole/video-tutorial-how-to-use-portal)
 {% endtab %}
 
-{% tab title="🥞 CAKE Bridging" %}
-To Bridge CAKE token between Aptos and BNB Smart chain, use [PancakeSwap Aptos Bridge](https://bridge.pancakeswap.finance/aptos). Check out the [guide](cake-bridging-guide.md) to learn how to use it.
+{% tab title="🥞 CAKE 브릿징" %}
+CAKE 토큰을 Aptos와 BNB 스마트 체인 간에 브릿지하려면 [PancakeSwap Aptos Bridge](https://bridge.pancakeswap.finance/aptos)를 사용하세요. 사용 방법은 [가이드](cake-bridging-guide.md)에서 확인하세요.
 {% endtab %}
 
 {% tab title="💰 Binance.com" %}
 [**Binance.com**](https://www.binance.com/en/)
 
-* You can withdraw Aptos Coin (APT) on Aptos Chain via your Binance account.
-* **⚠️ Currently only Aptos Coin (APT) is supported. To bridge other assets, check out other available bridging options above.**
-* **⚠️ You need an account to do so.**
+* Binance 계정을 통해 Aptos 체인으로 Aptos Coin (APT)을 출금할 수 있습니다.
+* **⚠️ 현재는 Aptos Coin (APT)만 지원됩니다. 다른 자산을 브릿지하려면 위의 다른 브릿지 옵션을 확인하세요.**
+* **⚠️ 이를 위해서는 계정이 필요합니다.**
 
-📖 [Here's a quick guide they made to help you out.](https://www.binance.com/en/support/faq/85a1c394ac1d489fb0bfac0ef2fceafd)
+📖 [Binance에서 제공하는 간단한 가이드입니다.](https://www.binance.com/en/support/faq/85a1c394ac1d489fb0bfac0ef2fceafd)
 {% endtab %}
 {% endtabs %}

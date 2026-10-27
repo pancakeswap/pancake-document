@@ -2,34 +2,34 @@
 hidden: true
 ---
 
-# Brand / Graphics Designer
+# 브랜드 / 그래픽 디자이너
 
-### **General Information**
+### **일반 정보**
 
-* Salary range: Competitive, negotiable
-* Position: Full-time
-* Location: Remote
+* 급여 범위: 경쟁력 있는 수준, 협의 가능
+* 근무 형태: 정규직
+* 근무지: 원격
 
-### Roles & Responsibilities:
+### 역할 및 책임:
 
-* Design and develop characters and graphics for our brand in both 2D and 3D visuals.
-* Ensure visual consistency across the brand.
-* Create visual assets to support the Marketing team’s requirements, including banners, infographics, mockups, event collaterals, and more.
-* Take ownership of the design process on marketing event materials, ensuring designs are optimized for printing.
-* Work effectively with marketing, product operations, and business development teams to drive design initiatives and maintain a unified brand vision.
+* 2D와 3D 비주얼 모두로 브랜드를 위한 캐릭터와 그래픽을 디자인하고 개발합니다.
+* 브랜드 전반의 시각적 일관성을 유지합니다.
+* 배너, 인포그래픽, 목업, 이벤트 홍보물 등 마케팅 팀이 요구하는 시각 자산을 제작합니다.
+* 마케팅 이벤트 자료의 디자인 프로세스를 책임지고, 인쇄에 최적화된 디자인을 보장합니다.
+* 마케팅, 프로덕트 운영, 비즈니스 개발 팀과 효과적으로 협업하여 디자인 이니셔티브를 추진하고 통일된 브랜드 비전을 유지합니다.
 
-### Requirements
+### 요구 사항
 
-* Design Tools: Proficiency in tools that create consistent, high-quality visuals (e.g., Adobe Creative Suite, 3D design tools, Figma, or even AI design tools).
-* Experience: Minimum of 3 years of full-time experience as a Brand/Graphics Designer.
+* 디자인 도구: 일관되고 품질 높은 비주얼을 만들 수 있는 도구(예: Adobe Creative Suite, 3D 디자인 도구, Figma, 또는 AI 디자인 도구)에 능숙해야 합니다.
+* 경력: 브랜드/그래픽 디자이너로서 정규직 경력 3년 이상.
 
-### Nice to have:
+### 우대 사항:
 
-* Strong audience- and content-focused mindset.
-* Experience using fintech apps or PancakeSwap products/ with crypto / Web3 Familiarity.
-* Experience of handling design assets and material for print and merch items is a big plus.
-* Experience working in distributed teams.&#x20;
+* 오디언스와 콘텐츠 중심의 강한 사고방식.
+* 핀테크 앱 또는 PancakeSwap 제품 사용 경험 / 암호화폐 및 Web3에 대한 이해.
+* 인쇄물 및 굿즈용 디자인 자산과 자료를 다뤄 본 경험이 있다면 큰 강점입니다.
+* 분산 팀에서 근무한 경험.&#x20;
 
-### **How to apply**
+### **지원 방법**
 
-Email _hiring@pancakeswap.com_ with your CV & Portfolio!
+이력서와 포트폴리오를 _hiring@pancakeswap.com_ 으로 이메일 보내 주세요!

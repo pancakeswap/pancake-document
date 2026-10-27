@@ -2,34 +2,34 @@
 hidden: true
 ---
 
-# Motion / Interaction Designer
+# 모션 / 인터랙션 디자이너
 
-### **General Information**
+### **일반 정보**
 
-* Salary range: Competitive, negotiable
-* Position: Full-time
-* Location: Remote
+* 급여 범위: 경쟁력 있는 수준, 협의 가능
+* 근무 형태: 정규직
+* 근무지: 원격
 
-### Roles & Responsibilities:
+### 역할 및 책임:
 
-* Create compelling interaction designs and videos for products, tutorials, and marketing purposes, delivering engaging motion experiences for a diverse DeFi audience. (in both 2D or 3D motion effects)
-* Develop interactive elements to enhance seamless user interactions, including motion graphics and interactive icons.
-* Collaborate effectively with marketing, product operations, and business development teams to drive design initiatives and maintain a cohesive brand vision.
-* Take ownership of motion design, from storyboard collaboration with the marketing team, to post-production of the visual effects; ensure alignment with project goals and deliver high-quality results.
-* Stay informed about industry trends to keep designs innovative and relevant.
+* 제품, 튜토리얼, 마케팅 목적의 매력적인 인터랙션 디자인과 영상을 제작하여 다양한 DeFi 사용자에게 몰입감 있는 모션 경험을 제공합니다. (2D 또는 3D 모션 효과 모두 포함)
+* 모션 그래픽과 인터랙티브 아이콘을 포함해 매끄러운 사용자 인터랙션을 향상시키는 인터랙티브 요소를 개발합니다.
+* 마케팅, 프로덕트 운영, 비즈니스 개발 팀과 효과적으로 협업하여 디자인 이니셔티브를 추진하고 일관된 브랜드 비전을 유지합니다.
+* 마케팅 팀과의 스토리보드 협업부터 시각 효과 후반 작업까지 모션 디자인을 책임지고, 프로젝트 목표에 부합하는 높은 품질의 결과물을 제공합니다.
+* 업계 트렌드를 꾸준히 파악하여 디자인을 혁신적이고 시의성 있게 유지합니다.
 
-### Requirements
+### 요구 사항
 
-* Strong audience- and content-focused mindset.
-* Standard verbal and written English skills.
-* Skilled in motion design tools such as After Effects, 3D design tools, or AI-based tools. Experience with Figma.
-* Minimum of 3 years of full-time experience as a Motion Designer.
+* 오디언스와 콘텐츠 중심의 강한 사고방식.
+* 일반적인 수준의 영어 말하기 및 쓰기 능력.
+* After Effects, 3D 디자인 도구, AI 기반 도구 등 모션 디자인 도구에 능숙. Figma 사용 경험.
+* 모션 디자이너로서 정규직 경력 3년 이상.
 
-### Nice to have:
+### 우대 사항:
 
-* Familiarity with fintech apps, PancakeSwap products, or experience in the crypto/Web3 space.
-* Previous experience working in distributed teams.
+* 핀테크 앱, PancakeSwap 제품에 대한 이해 또는 암호화폐/Web3 분야 경험.
+* 분산 팀에서 근무한 경험.
 
-### **How to apply**
+### **지원 방법**
 
-Email _hiring@pancakeswap.com_ with your CV & Portfolio!
+이력서와 포트폴리오를 _hiring@pancakeswap.com_ 으로 이메일 보내 주세요!

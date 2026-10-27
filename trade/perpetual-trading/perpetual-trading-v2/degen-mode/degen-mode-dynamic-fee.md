@@ -1,30 +1,30 @@
-# Degen Mode Dynamic Fee
+# 디젠 모드 동적 수수료
 
-PancakeSwap Perpetuals Degen Mode uses a dynamic fee model. This fee is designed to charge fees by PnL and protect users from losses.\
-**How does it work?**
+PancakeSwap 무기한 선물 디젠 모드는 동적 수수료 모델을 사용합니다. 이 수수료는 손익(PnL)에 따라 수수료를 부과하고 사용자를 손실로부터 보호하도록 설계되었습니다.\
+**어떻게 작동하나요?**
 
 $$
 \text{closeFeeRate} = \max\left(\frac{\text{pnl} \cdot \text{shareRate}}{\text{notional}}, \text{closeMinRate}\right)
 $$
 
-where:
+여기서:
 
-* Pnl is the profit or loss on the position
-* shareRate is the share rate, which is the percentage of the notional that is paid in fees (15% as default)
-* Notional is the amount of money that is used to open the position
-* closeMinRate is the minimum closing fee rate, which is the lowest amount that you can pay to close a position (0.03% as default)
+* Pnl은 포지션의 수익 또는 손실입니다
+* shareRate는 분담률로, 명목 금액 중 수수료로 지불되는 비율입니다(기본값 15%)
+* Notional은 포지션을 여는 데 사용된 금액(명목 금액)입니다
+* closeMinRate는 최소 종료 수수료율로, 포지션을 종료할 때 지불하는 가장 낮은 금액입니다(기본값 0.03%)
 
 \
-**Example:**
+**예시:**
 
-If you have a position with a profit of $100, a share rate of 15%, and a notional of $600, then the closing fee rate would be:
+수익이 $100이고, 분담률이 15%이며, 명목 금액이 $600인 포지션이 있다면 종료 수수료율은 다음과 같습니다.
 
-Closing fee rate = Max(100 \* 15% / 600, 0.03%) = 0.03%
+종료 수수료율 = Max(100 \* 15% / 600, 0.03%) = 0.03%
 
-In this case, the closing fee rate would be 0.03%, the minimum closing fee rate.<br>
+이 경우 종료 수수료율은 최소 종료 수수료율인 0.03%가 됩니다.<br>
 
-Note:
+참고:
 
-The execution fee will only be charged when a position is opened. It is set at 0.3 USD (BNB Chain)/ 0.2 USD (Arbitrum)/ 0.01 USD (opBNB)/ 0.3 USD (Base), similar to what is being charged when trading classic perpetual trading pairs. There is no opening position fee.
+실행 수수료는 포지션을 열 때만 부과됩니다. 일반 무기한 선물 거래 페어를 거래할 때 부과되는 것과 마찬가지로 0.3 USD (BNB 체인) / 0.2 USD (Arbitrum) / 0.01 USD (opBNB) / 0.3 USD (Base)로 설정되어 있습니다. 포지션 개시 수수료는 없습니다.
 
-In the event of liquidation, the 90% liquid lost rate includes close fee.
+청산이 발생하는 경우, 90%의 청산 손실률에는 종료 수수료가 포함됩니다.

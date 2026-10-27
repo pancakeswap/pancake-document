@@ -1,9 +1,9 @@
-# 🤙 Contact Us
+# 🤙 문의하기
 
-_For ecosystem & partnership inquiries, TG handle: @PancakeSwapBD_
+_에코시스템 및 파트너십 문의: TG 핸들 @PancakeSwapBD_
 
-### [List a Token](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/business-partnerships/commonly-asked-business-partnerships-questions)
+### [토큰 상장하기](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/business-partnerships/commonly-asked-business-partnerships-questions)
 
-### [Apply for Yield Farm or Syrup Pool](business-partnerships/syrup-pools.md)
+### [일드 파밍 또는 시럽 풀 신청하기](business-partnerships/syrup-pools.md)
 
-### [Apply for an IFO (Token Sale)](business-partnerships/initial-farm-offerings-ifos.md)
+### [IFO(토큰 세일) 신청하기](business-partnerships/initial-farm-offerings-ifos.md)
