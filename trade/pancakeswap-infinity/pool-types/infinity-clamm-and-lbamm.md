@@ -2,80 +2,78 @@
 
 #### 🔷 CLAMM (Concentrated Liquidity AMM)
 
-CLAMM은 유동성 공급자가 자본을 **특정 가격 범위** 내에 배치할 수 있게 해 줍니다. 이를 통해 다음과 같은 효과가 있습니다.
+CLAMM enables liquidity providers to allocate their capital within **specific price ranges**. This leads to:
 
-* **더 높은 자본 효율성**: 활발히 거래되는 가격대에 더 많은 유동성이 모입니다.
-* **더 깊은 유동성**: 트레이더에게 더 나은 체결을 제공합니다.
-* **LP의 적극적인 관리 필요**: 가격이 움직이면 LP가 포지션을 조정해야 합니다.
-* 범위를 벗어난 포지션은 **비영구적 손실**이 커질 가능성이 있습니다.
+* **Higher capital efficiency**: More liquidity at active trading prices.
+* **Deeper liquidity**: Better execution for traders.
+* **Active LP management**: LPs need to adjust positions as prices move.
+* **Higher impermanent loss** potential for out-of-range positions.
 
 {% hint style="info" %}
-CLAMM은 곱셈 상수 공식(X \* Y = K)으로 작동합니다. 각 유동성 포지션은 대체 불가능하며 NFT로 표현됩니다.
+CLAMM operates on the constant product formula (X \* Y = K). Each liquidity position is non-fungible and represented as an NFT.
 {% endhint %}
 
-#### 🔷 LBAMM (Liquidity Book AMM 또는 "Bin Pool")
+#### 🔷 LBAMM (Liquidity Book AMM or “Bin Pool”)
 
-LBAMM은 각각 특정 가격 수준의 유동성을 담고 있는 **이산적인 가격 빈(bin)**을 구현합니다. LBAMM은 **합계 상수 공식(X + Y = K)**을 따릅니다.
+LBAMM implements **discrete price bins**, each holding liquidity at a specific price level. LBAMM follows the **constant sum formula (X + Y = K).**
 
+**Key characteristics:**
 
+* **0 price impact** trades within a bin.
+* **Fungible liquidity** (liquidity within each bin is an ERC-20 token).
+* **Lower gas costs** for adjusting LP positions.
+* **Support for different liquidity shapes** (e.g., skewed, uniform).
+* More suitable for **low volatility** pairs due to the flat pricing curve per bin.
 
-**주요 특징:**
-
-* 빈 내 거래는 **가격 영향 0**입니다.
-* **대체 가능한 유동성** (각 빈 내의 유동성은 ERC-20 토큰입니다).
-* LP 포지션 조정 시 **더 낮은 가스 비용**이 듭니다.
-* **다양한 유동성 형태 지원** (예: 비대칭, 균등).
-* 빈마다 가격 곡선이 평평하므로 **변동성이 낮은** 페어에 더 적합합니다.
-
-> 🥞 **PancakeSwap은 Hooks를 지원하는 LBAMM 풀을 제공하는 최초의 프로토콜입니다.**
+> 🥞 **PancakeSwap is the first protocol to offer LBAMM pools with hooks.**
 
 {% hint style="success" %}
-CLAMM과 LBAMM 풀 모두 개발자가 풀의 동작을 커스터마이징할 수 있는 **Hooks**를 지원합니다. 풀 유형은 프로토콜 재배포 없이 추가할 수 있는 새로운 풀 매니저를 통해 확장할 수 있습니다.
+Both CLAMM and LBAMM pools support **hooks**, which allow developers to customize pool behavior. Pool types are extendable via new Pool Managers, which can be added without protocol redeployment.
 {% endhint %}
 
-<table data-header-hidden><thead><tr><th width="170.94921875"></th><th width="284.57421875"></th><th></th></tr></thead><tbody><tr><td>항목</td><td><strong>CLAMM</strong></td><td><strong>LBAMM</strong></td></tr><tr><td><strong>가격 곡선</strong></td><td>곱셈 상수 (X * Y = K)</td><td>합계 상수 (X + Y = K)</td></tr><tr><td><strong>유동성 토큰</strong></td><td>대체 불가능 (NFT)</td><td>대체 가능 (빈별 ERC-20)</td></tr><tr><td><strong>적합한 경우</strong></td><td>변동성이 높거나 낮은 페어 모두</td><td>변동성이 낮은 페어</td></tr><tr><td><strong>장점</strong></td><td><ol><li>자본 효율성</li><li>넓은 범위/전체 범위에서 가스 효율적</li><li>널리 채택됨</li></ol></td><td><ol><li>빈 내 가격 영향 0</li><li>더 저렴한 LP 관리</li><li>유연한 유동성 형태</li></ol></td></tr><tr><td><strong>Hook 지원</strong></td><td>✅</td><td>✅</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="170.94921875"></th><th width="284.57421875"></th><th></th></tr></thead><tbody><tr><td>Feature</td><td><strong>CLAMM</strong></td><td><strong>LBAMM</strong></td></tr><tr><td><strong>Pricing Curve</strong></td><td>Constant Product (X * Y = K)</td><td>Constant Sum (X + Y = K)</td></tr><tr><td><strong>Liquidity Token</strong></td><td>Non-fungible (NFT)</td><td>Fungible (ERC-20 per bin)</td></tr><tr><td><strong>Best For</strong></td><td>Both high/low volatility pairs</td><td>Low volatility pairs</td></tr><tr><td><strong>Advantages</strong></td><td><ol><li>Capital efficiency</li><li>Gas efficient in wide/full range</li><li>Widely adopted</li></ol></td><td><ol><li>0 price impact within bin</li><li>Cheaper LP management</li><li>Flexible liquidity shapes</li></ol></td></tr><tr><td><strong>Hook Support</strong></td><td>✅</td><td>✅</td></tr></tbody></table>
 
 ***
 
-### 🧮 수수료
+### 🧮 Fees
 
-PancakeSwap Infinity는 정적(Static) 및 동적(Dynamic) 수수료 설정을 통해 유연하고 확장 가능한 수수료 시스템을 지원합니다. 이 구조는 풀 생성자와 LP 모두에게 다양한 거래 전략과 위험 성향에 맞게 최적화할 수 있는 강력한 도구를 제공합니다.
+PancakeSwap Infinity supports a flexible and extensible fee system through Static and Dynamic fee settings. This setup gives both pool creators and LPs powerful tools to optimize for different trading strategies and risk profiles.
 
-#### 🔁 동적 수수료
+#### 🔁 Dynamic Fees
 
-* 동적 수수료는 Hook 컨트랙트를 통해 실시간으로 결정됩니다.
-* 이 수수료는 변동성, 거래량, 사용자 상태(예: CAKE 보유량) 같은 외부 요인이나 Hook에 코딩된 임의의 커스텀 로직에 따라 변동될 수 있습니다.
-* 동적 수수료를 사용하는 풀은 풀 생성 시점에 해당 설정을 활성화하고 `beforeSwap`을 통해 수수료를 수정할 수 있는 Hook을 연결해야 합니다.
-* 풀이 초기화된 후에는 수수료 유형(동적 또는 정적)을 변경할 수 없습니다.
+* Dynamic Fees are determined in real-time via hook contracts.
+* These fees can fluctuate based on external factors such as volatility, trading volume, user status (e.g., CAKE holdings), or any custom logic coded into the hook.
+* Pools with dynamic fees must enable the setting at the time of pool creation and attach a hook capable of modifying fees via `beforeSwap`.
+* Once a pool is initialized, the fee type (dynamic or static) is immutable.
 
-동적 수수료는 최대한의 유연성을 제공하며, 시장 상황에 따라 LP와 스왑 사용자 모두에게 최적의 수수료 구조를 만들어 줍니다.
+Dynamic fees offer maximum flexibility and optimize fee structures for both LPs and swappers based on market conditions.
 
-#### 📌 정적 수수료
+#### 📌 Static Fees
 
-* 정적 수수료 풀은 풀 생성 시 고정된 수수료가 설정됩니다.
-* 이 수수료는 풀이 초기화된 후 변경할 수 없습니다.
-* 단순한 활용 사례나 수수료 구조의 예측 가능성이 중요한 경우에 적합합니다.<br>
+* Static Fee pools have a fixed fee set during pool creation.
+* These fees cannot be changed after the pool is initialized.
+* Suitable for simpler use cases or where predictability of fee structure is important.<br>
 
-**🔒 최대 수수료 한도:**
+**🔒 Max Fee Caps:**
 
-* CLAMM 풀: 최대 100% (주로 특수하거나 실험적인 활용 사례용)
-* LBAMM 풀: 최대 10%<br>
+* CLAMM Pools: Up to 100% (mostly for specialized or experimental use cases)
+* LBAMM Pools: Capped at 10%<br>
 
-**🏛 프로토콜 수수료 (정적 수수료 풀):**
+**🏛 Protocol Fee (for static fee pools):**
 
-* PancakeSwap은 Infinity 풀에 프로토콜 수수료를 적용합니다.
-* LP 수수료의 33%, 최대 0.4%
+* PancakeSwap applies a protocol fee on Infinity pools
+* 33% of LP fee, capped at 0.4%
 
-| **LP 수수료**    | **프로토콜 수수료**         |
-| ------------- | -------------------- |
-| 1%            | 0.33%                |
-| 2%            | 0.4% (상한)            |
-| 동적 수수료 풀      | 0.03% (현재 기본값)       |
+| **LP Fee**       | **Protocol Fee**        |
+| ---------------- | ----------------------- |
+| 1%               | 0.33%                   |
+| 2%               | 0.4% (capped)           |
+| Dynamic Fee Pool | 0.03% (current default) |
 
-#### 🛠️ 풀 생성자를 위한 설정 참고 사항
+#### 🛠️ Setup Notes for Pool Creators
 
-* PoolManager를 통해 풀을 초기화할 때 생성자는 다음을 선택해야 합니다.
-  * 풀이 정적 수수료를 사용할지 동적 수수료를 사용할지
-  * Hook 컨트랙트를 연결할지 여부 (동적 수수료에는 필수)
+* When initializing a pool via PoolManager, the creator must choose:
+  * Whether the pool uses a static or dynamic fee
+  * Whether a hook contract is attached (required for dynamic fees)
 
-이 설정은 영구적이며 풀의 전체 수명 동안 풀의 동작 방식을 결정합니다.
+These settings are permanent and define how the pool behaves throughout its lifetime.

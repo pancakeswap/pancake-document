@@ -1,51 +1,51 @@
 ---
-description: PancakeSwap 로고 SVG 등 가이드라인 및 다운로드 가능한 자산
+description: Guidelines and downloadable assets like the PancakeSwap logo SVG
 ---
 
-# 브랜드 및 로고
+# Brand & Logos
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Frame%206.png)
+![](<../../.gitbook/assets/Frame 6.png>)
 
-👇[ 로고 다운로드로 이동](brand.md#pancakeswap-logo-downloads)
+👇[ Jump to logo download](brand.md#pancakeswap-logo-downloads)
 
-## 소개
+## Intro
 
-**PancakeSwap 브랜드 키트 다운로드는 이 페이지 하단에 있지만, 먼저 이 가이드라인을 반드시 읽어 주세요.**
+**The PancakeSwap brand-kit download is at the bottom of this page, but please be sure to read these guidelines first.**
 
-다음 PancakeSwap "브랜드 자산"은 저작권으로 보호되는 자료이며, 아래에 명시된 정책에 따라서만 사용할 수 있습니다.
+The following PancakeSwap "Brand Assets" are copyrighted material, and you may only use them in accordance with the policy detailed below:
 
-* PancakeSwap 및 CAKE 로고, 워드마크, 아이콘
-* PancakeSwap 이름
-* 일러스트레이션과 3D 모델을 포함하되 이에 국한되지 않는, PancakeSwap이 제작한 기타 시각 자산
+* The PancakeSwap and CAKE logos, wordmark, and icon
+* The PancakeSwap name
+* Other visual assets produced by PancakeSwap including but not limited to illustrations and 3D models
 
-## 허용되는 사용
+## What you may do
 
-다음의 경우 PancakeSwap의 브랜드 자산을 사용할 수 있습니다.
+You may use PancakeSwap's Brand Assets when you are:
 
-* 👌 공식 파트너십을 발표하거나 공식 파트너십 마케팅 목적으로 사용하는 경우&#x20;
-* 👌 당사의 제품과 서비스를 언급하는 경우
-* 👌 당사의 공식 사이트를 언급하는 경우&#x20;
+* 👌 Announcing an official partnership or for official partnership marketing purposes.
+* 👌 Referring to our products and services.
+* 👌 Referring to our official site.
 
-## 허용되지 않는 사용
+## What you may not do
 
-저희는 오픈 소스 정신을 굳게 믿고 따르지만, PancakeSwap 브랜드를 보호하는 일은 사용자의 보안과 진짜 제품/지지 보증을 그렇지 않은 것과 구분하기 위해 매우 중요합니다.
+While we strongly believe in and follow the open source ethos, protecting the PancakeSwap brand is extremely important for our users' security and to differentiate what is a genuine product/endorsement and what isn't.
 
-브랜드 자산의 금지된 사용 예시는 다음과 같습니다.
+Here are a few examples of forbidden uses of our Brand Assets:
 
-* ⛔️ 브랜드 자산을 수정하지 마세요&#x20;
-* ⛔️ 당사가 알지 못하는 상태에서 브랜드 자산을 이용해 굿즈, NFT 등 판매용 디지털 또는 실물 제품을 만들지 마세요.&#x20;
-*   ⛔️ 공식 지지를 암시하는 파생 명칭을 만들지 마세요.
+* ⛔️ Do not modify our Brand Assets
+* ⛔️ Do not use our Brand Assets to create digital or physical products for sale without our knowledge, including but not limited to Merchandise, NFTs, and other products.
+*   ⛔️ Do not create derivative names that imply official endorsement.
 
-    예를 들어 "PancakeSwap Italy"라는 소셜 미디어 그룹을 만들지 마세요. 공식 그룹처럼 들립니다. "PancakeSwap Fans of Italy"는 허용될 수 있습니다.
+    For example, don't make a social media group called "PancakeSwap Italy" - this sounds official. "PancakeSwap Fans of Italy" may be permitted.
 
-## PancakeSwap 로고 다운로드
+## PancakeSwap Logo Downloads
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Frame%204.png)
+![](<../../.gitbook/assets/Frame 4.png>)
 
-PancakeSwap 및 CAKE 로고는 여기에서 다운로드하세요.&#x20;
+Download the PancakeSwap and CAKE logos here:
 
-{% file src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/PancakeSwap%20Logos.zip" %}
-공식 PancakeSwap 및 CAKE 로고를 다운로드하세요.
+{% file src="../../.gitbook/assets/PancakeSwap Logos.zip" %}
+Download the official PancakeSwap and CAKE logos.
 {% endfile %}
 
-_이 파일을 다운로드하면 이 페이지에 명시된 약관이 허용하는 범위 내에서만 사용하겠다는 데 동의하는 것으로 간주됩니다._
+_By downloading this file, you confirm that you will only use it to the extent permitted by the Terms detailed in this page._

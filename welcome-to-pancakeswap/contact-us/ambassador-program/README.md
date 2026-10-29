@@ -1,15 +1,15 @@
-# 앰배서더 프로그램
+# Ambassador Program
 
-PancakeSwap 앰배서더 프로그램은 가장 열정적인 사용자와 지지자에게 힘을 실어 주고, 에코시스템 성장에 적극적으로 기여할 기회를 제공하기 위해 마련되었습니다. 앰배서더는 PancakeSwap을 대표하고, 신규 사용자를 교육하며, 전 세계 커뮤니티 참여를 활성화하는 중요한 역할을 합니다.
+The PancakeSwap Ambassador Program is designed to empower our most dedicated users and supporters, giving them the opportunity to actively contribute to the growth of our ecosystem. Our ambassadors play a crucial role in representing PancakeSwap, educating new users, and fostering community engagement worldwide.
 
-#### 🔹 앰배서더 역할
+#### 🔹 Ambassador Roles
 
-책임을 명확히 하기 위해 프로그램은 다음과 같은 역할로 구성됩니다.
+To ensure clarity in responsibilities, the program is structured into distinct roles:
 
-🔹 모더레이션 – 커뮤니티 모더레이터는 모든 플랫폼에서 안전하고 친근하며 유익한 환경을 유지하도록 돕습니다. 사용자를 지원하고, 커뮤니티 가이드라인을 적용하며, 원활한 소통을 보장합니다.
+🔹 Moderation – Community moderators help maintain a safe, welcoming, and informative environment across our platforms. They assist users, enforce community guidelines, and ensure smooth communication.
 
-📢 콘텐츠 제작 – 콘텐츠에 열정이 있는 앰배서더는 PancakeSwap을 알리고 커뮤니티를 교육하는 기사, 영상, 소셜 미디어 게시물 등 다양한 창작물로 기여할 수 있습니다.
+📢 Content Creation – Ambassadors passionate about content can contribute through articles, videos, social media posts, and other creative materials that promote PancakeSwap and educate the community.
 
-🎤 이벤트(온라인 및 오프라인) – 앰배서더는 워크숍, 밋업, 지역 행사를 기획하고 참여하여 인지도를 높이고 신규 사용자가 PancakeSwap을 시작하도록 도울 수 있습니다.
+🎤 Events (Online & Offline) – Ambassadors can organize and participate in workshops, meetups, and local events to spread awareness and onboard new users to PancakeSwap.
 
 <br>

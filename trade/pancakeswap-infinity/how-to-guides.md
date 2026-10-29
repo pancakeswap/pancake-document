@@ -2,17 +2,14 @@
 hidden: true
 ---
 
-# 사용 가이드
+# How-To Guides
 
-#### 1. PancakeSwap Infinity에서 스왑하는 방법
+#### 1. How to Swap on PancakeSwap Infinity?
 
-#### 2. CLAMM 풀에 유동성을 추가하는 방법
+#### 2. How to Add Liquidity to CLAMM pools?
 
-#### 3. LBAMM 풀에 유동성을 추가하는 방법
+#### 3. How to Add Liquidity to LBAMM pools?
 
-#### 4. PancakeSwap Infinity에서 파밍하는 방법
+#### 4. How to Farm on PancakeSwap Infinity?
 
-#### 5. Infinity 풀을 생성하는 방법
-
-
-
+#### 5. How to create an Infinity pool?

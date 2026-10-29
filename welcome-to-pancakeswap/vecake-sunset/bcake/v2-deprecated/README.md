@@ -1,8 +1,8 @@
-# V2 (지원 중단)
+# V2 (deprecated)
 
-bCAKE V2는 지원이 중단되었습니다. 파밍 포지션에서 스테이킹, 언스테이킹 또는 수확을 하면 부스터가 자동으로 해제됩니다.
+bCAKE V2 is deprecated. Staking, unstaking or harvesting on your farming position will automatically unset your booster.
 
-이전 문서는 여기에서 확인할 수 있습니다.
+Find legacy documents here:
 
 {% content-ref url="how-to-use-bcake.md" %}
 [how-to-use-bcake.md](how-to-use-bcake.md)

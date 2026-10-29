@@ -1,88 +1,88 @@
-# Social Login: 사용 가이드
+# Social login: How-To Guide
 
-몇 초 만에 DeFi를 시작하세요. 지갑 확장 프로그램이나 시드 구문이 필요 없습니다. 아래 단계에 따라 소셜 로그인 지갑을 만들고, 복구 비밀번호를 설정하고, 새 기기에서 지갑을 복구하세요.
+Get started with DeFi in seconds — no wallet extensions or seed phrases needed. Follow the steps below to create your social login wallet, set a recovery password, and recover your wallet on a new device.
 
-### 1. 소셜 로그인 지갑 만들기
+### 1. Creating Your Social Login Wallet
 
-1. pancakeswap.finance로 이동합니다.
-2.  **지갑 연결**을 클릭하고 → **Social Login으로 연결**을 선택합니다.
+1. Go to pancakeswap.finance
+2.  Click **Connect Wallet** → Select **Connect with Social Login**
 
-    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28440%29.png" alt="" width="375"><figcaption></figcaption></figure>
-3.  선호하는 소셜 로그인 방법을 선택합니다.
+    <figure><img src="../../.gitbook/assets/image (437).png" alt="" width="375"><figcaption></figcaption></figure>
+3.  Choose your preferred social login method:
 
     * **Google**
     * **X (Twitter)**
     * **Telegram**
     * **Discord**
 
-    > 💡 각 소셜 계정마다 PancakeSwap에서 사용할 고유한 지갑이 하나씩 생성됩니다.
+    > 💡 Each social account creates one unique wallet for use on PancakeSwap.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28441%29.png" alt="" width="298"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (438).png" alt="" width="298"><figcaption></figcaption></figure>
 
-4.  선택한 소셜 계정 정보로 로그인합니다.
+4.  Log in with your selected social account credentials
 
-    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28443%29.png" alt="" width="375"><figcaption></figcaption></figure>
-5.  로그인에 성공하면 지갑이 생성되어 바로 사용할 수 있습니다.
+    <figure><img src="../../.gitbook/assets/image (440).png" alt="" width="375"><figcaption></figcaption></figure>
+5.  Once login is successful, your wallet will be created and ready to use
 
-    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28444%29.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (441).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-### 2. 복구 비밀번호 설정하기
+### 2. Setting a Recovery Password
 
-첫 로그인 후 **복구 비밀번호**를 설정하라는 안내가 표시됩니다. 이 단계는 선택 사항이지만 지갑을 완전히 제어하기 위해 강력히 권장합니다.
+After your first login, you'll be prompted to set a **recovery password**. This step is optional but highly recommended for full wallet control.
 
-1.  안내가 표시되면 **복구 비밀번호 설정**을 클릭합니다.
+1.  Click **Set Recovery Password** when prompted
 
-    > 🔒 설정하지 않으면 복구 셰어는 기본적으로 Privy에 저장됩니다.
+    > 🔒 If left unset, the recovery share will be stored by Privy by default
     >
-    > 🔑 [복구 셰어에 대해 자세히 알아보기](https://docs.privy.io/security/wallet-infrastructure/advanced/user-device#securing-the-recovery-share)
+    > 🔑 [Learn more about recovery shares](https://docs.privy.io/security/wallet-infrastructure/advanced/user-device#securing-the-recovery-share)
 
 {% hint style="success" %}
-이 안내를 닫으면 PancakeSwap의 지갑 보안 노력의 일환으로 1주일 후 다시 표시됩니다.
+If you dismiss this prompt, it will reappear again after 1 week, as part of PancakeSwap’s commitment to wallet security.
 {% endhint %}
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28445%29.png" alt="" width="263"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (442).png" alt="" width="263"><figcaption></figcaption></figure>
 
-2. **기억하기 쉬운 비밀번호**를 선택합니다. 새 기기에서 로그인하거나 세션이 만료되었을 때 필요합니다.
+2. Choose a **memorable password** — you'll need it for logging in on a new device or when your session expires
 
-> ⚠️ 잊어버리면 지갑 접근 권한을 영구적으로 잃을 수 있습니다.
+> ⚠️ If forgotten, wallet access may be permanently lost
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28446%29.png" alt="" width="280"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (443).png" alt="" width="280"><figcaption></figcaption></figure>
 
-3. 비밀번호를 **복사하거나 다운로드**하여 안전하게 보관합니다.
+3. Save your password securely by **copying or downloading** it
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28447%29.png" alt="" width="274"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (444).png" alt="" width="274"><figcaption></figcaption></figure>
 
-4. 확인을 위해 비밀번호를 다시 입력합니다.
+4. Re-enter your password to confirm
 
-> ❗ 비밀번호가 일치하지 않으면 오류가 표시됩니다.
+> ❗ An error will appear if your passwords don’t match
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28448%29.png" alt="" width="269"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (445).png" alt="" width="269"><figcaption></figcaption></figure>
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28449%29.png" alt="" width="266"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (446).png" alt="" width="266"><figcaption></figcaption></figure>
 
-5. **면책 조항**을 검토하고 복구 비밀번호의 위험성을 이해했음을 확인합니다.
+5. Review the **disclaimer** and confirm you understand the recovery password risk
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28450%29.png" alt="" width="279"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (447).png" alt="" width="279"><figcaption></figcaption></figure>
 
-6. 🎉 완료되었습니다! 이제 복구 비밀번호가 설정되었습니다.
+6. 🎉 Success! Your recovery password is now set
 
-> 알림: 세션이 종료되거나 기기를 변경하면 다시 입력하라는 안내가 표시됩니다.
+> Reminder: You’ll be asked to enter it again when your session ends or you switch devices
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28451%29.png" alt="" width="275"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (448).png" alt="" width="275"><figcaption></figcaption></figure>
 
 >
 
 ***
 
-### 3. 지갑 복구하기 (새 기기 로그인)
+### 3. Recovering Your Wallet (New Device Login)
 
-새 기기에서 PancakeSwap에 접속하는 경우 다음 단계에 따라 지갑을 복구하세요.
+If you access PancakeSwap on a new device, follow these steps to recover your wallet:
 
-1. 새 기기에서 **소셜 계정**으로 로그인합니다.
-2. 첫 거래 또는 온체인 작업을 시도하면 **복구 비밀번호를 입력**하라는 안내가 표시됩니다.
+1. Log in with your **social account** on the new device
+2. When you attempt your first transaction or on-chain action, you’ll be prompted to **enter your recovery password**
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28452%29.png" alt="" width="297"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (449).png" alt="" width="297"><figcaption></figcaption></figure>
 
-3. 확인이 완료되면 평소처럼 거래를 계속할 수 있습니다. 추가 설정은 필요 없습니다!
+3. Once confirmed, you can continue transacting as usual — no further setup required!

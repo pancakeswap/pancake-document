@@ -1,10 +1,10 @@
-# MADBTCUSD 자주 묻는 질문 (FAQ)
+# MADBTCUSD FAQ
 
-### MADBTCUSD 지수는 어떻게 계산되나요?
+### How is MADBTCUSD Index Calculated?
 
-MADBTCUSD는 다음 공식을 기반으로 계산됩니다.
+MADBTCUSD is calculated based on the following formula:
 
-**MADBTCUSD 지수**
+**MADBTCUSD Index**
 
 $$
 \begin{align*}
@@ -18,16 +18,14 @@ S_{n+1} &= S_{n} \times e^{\left[\left(\text{drift} - \frac{\sigma^2}{2}\right) 
 \end{align*}
 $$
 
+where:
 
-
-여기서:
-
-* 초기 Sn=1000 &#x20;
+* Initial Sn=1000
 * dt=1
-* expected vol：100%(expected vol은 MADBTC의 예상 시간 변동성입니다)
-* "**난수(Random number)**"는 현재 **소수점 8자리 정밀도의 BTC 가격**을 기반으로 계산됩니다
+* expected vol：100%(expected vol is the expected time volatility of the MADBTC)
+* the "**Random number**" is calculated based on the current **BTC price with 8 decimal places of precision**
 
-**난수 계산:**
+**Calculation of Random Number:**
 
 ```python
 import hashlib
@@ -51,18 +49,18 @@ random_number = hash_integer / 4294967296
 print(random_number)
 ```
 
-산출된 난수가 0이면 다시 계산합니다.
+If the random number determined is 0, it will be recalculated again
 
-### BTC와 MADBTCUSD의 과거 가격은 어디에서 교차 검증할 수 있나요?
+### Where can I cross-verify the BTC and MADBTCUSD historical price?
 
-BTC와 MADBTCUSD 가격 피드는 다음에서 확인할 수 있습니다.
+The BTC and MADBTCUSD price feed can be found here:
 
 [BTCUSD](https://www.apollox.finance/bapi/futures/v1/public/future/apx/V2MarkPriceKline?symbol=BTCUSD\&limit=1800)
 
 [MADBTCUSD](https://www.apollox.finance/bapi/futures/v1/public/future/apx/V2MarkPriceKline?symbol=MADBTCUSD\&limit=1800)
 
-### BTC 및 MADBTC 과거 백테스트 데이터
+### Historical backtest data of BTC & MADBTC
 
-BTC와 MADBTC의 과거 가격을 교차 검증할 수 있도록 아래에 백테스트 그래프를 제공합니다.&#x20;
+To cross-verify the BTC & MADBTC historical prices, we've provided a backtest graph below.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/photo_2023-10-26_19-24-40.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/photo_2023-10-26_19-24-40.jpg" alt=""><figcaption></figcaption></figure>

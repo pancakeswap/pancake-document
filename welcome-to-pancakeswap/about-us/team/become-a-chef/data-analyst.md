@@ -2,34 +2,34 @@
 hidden: true
 ---
 
-# 데이터 분석가
+# Data Analyst
 
-#### 담당 업무
+#### Responsibilities
 
-* 베팅 거래량, 시장 결과 확정, 배당률 변동, 미결제약정, 예측 이벤트에 대한 사용자 참여 등 온체인 트랜잭션의 대규모 데이터셋을 수집, 분석, 해석합니다.
-* 프로덕트 및 엔지니어링 팀과 협력하여 원시 블록체인 데이터를 프로토콜 건전성, 유동성 추세, 시장 효율성에 대한 인사이트로 전환하는 분석 솔루션을 설계합니다.
-* Dune Analytics, Tableau, datawind 등의 도구를 사용해 총 예치 자산(TVL), 사용자 참여, 예측 정확도, 이벤트 결과와 같은 핵심 지표를 모니터링하는 데이터 대시보드를 구축하고 유지합니다.
-* 토큰 에어드롭, 스테이킹 인센티브, 시장 프로모션 등 온체인 캠페인의 분석 지원을 이끌며, 자격 조건 추적, 보상 분배, ROI 분석을 포함합니다.
-* 공개 블록체인 데이터를 조회하여 베팅 패턴, 이벤트 결과 확정을 위한 오라클 연동, 잠재적 시장 조작 등 사용자 행동의 트렌드를 발견합니다.
-* 복잡한 인사이트를 시각화와 보고서로 전달하여 블록체인 데이터를 이해관계자를 위한 실행 가능한 제안으로 바꿉니다.
-* 블록체인 발전, 예측 시장 프로토콜, 규제 변화를 지속적으로 파악하여 데이터 기반 전략에 반영합니다.
-* 인사이트 도출 시간이 시장 경쟁력에 중요한 빠른 환경에서 협업합니다.
+* Collect, analyze, and interpret large datasets from on-chain transactions, including betting volumes, market resolutions, odds fluctuations, open interest and user participation in prediction events.
+* Partner with product and engineering teams to design analytics solutions that transform raw blockchain data into insights on protocol health, liquidity trends, and market efficiency.
+* Build and maintain data dashboards (using tools like Dune Analytics, Tableau, datawind or similar) to monitor key metrics such as Total Value Locked (TVL), user engagement, prediction accuracy rates, and event outcomes.
+* Lead analytical support for on-chain campaigns, such as token airdrops, staking incentives, or market promotions, including tracking eligibility, rewards distribution, and ROI analysis.
+* Query public blockchain data to uncover trends in user behavior, such as betting patterns, oracle integrations for event resolutions, and potential market manipulations.
+* Communicate complex insights through visualizations and reports, translating blockchain data into actionable recommendations for stakeholders.
+* Stay updated on blockchain advancements, prediction market protocols, and regulatory changes to inform data-driven strategies.
+* Collaborate in a fast-paced environment where time-to-insight is critical for market competitiveness.
 
-#### 요구 사항
+#### Requirements
 
-* 컴퓨터 공학, 통계학, 수학, 경제학 등 정량적 분야 또는 관련 분야의 학사 학위.
-* 데이터 분석 경력 3년 이상, 블록체인, 암호화폐 또는 핀테크 환경 경험 우대.
-* EVM 기반 체인(예: Ethereum, BNB 체인), 스마트 컨트랙트, 트랜잭션 구조, 이벤트 로그를 포함한 블록체인 기본 원리에 대한 깊은 이해.
-* 블록체인 데이터 조회를 위한 SQL(예: Dune Analytics, BigQuery) 활용 능력과, 데이터 처리 및 스크립팅을 위한 하나 이상의 프로그래밍 언어(예: Python, R) 능숙도.
-* Tableau, Power BI, Matplotlib 등 데이터 시각화 도구 사용 경험.
-* 유동성 풀, 오라클 데이터 피드, 결과 확정 메커니즘 등 DeFi 또는 예측 시장의 온체인 지표에 대한 이해.
-* 대규모 비정형 데이터셋을 다루고 의미 있는 인사이트를 도출할 수 있는 강한 분석적 사고방식.
-* 비기술 팀에게 분석 결과를 발표할 수 있는 뛰어난 커뮤니케이션 능력.
+* Bachelor's degree in a quantitative field such as Computer Science, Statistics, Mathematics, Economics, or a related discipline.
+* 3+ years of experience in data analysis, preferably in blockchain, crypto, or fintech environments.
+* Deep understanding of blockchain fundamentals, including EVM-based chains (e.g. Ethereum, BNB Chain), smart contracts, transaction structures, and event logs.
+* Proficiency in SQL for querying blockchain data (e.g., via Dune Analytics, BigQuery) and at least one programming language (e.g., Python, R) for data processing and scripting.
+* Experience with data visualization tools like Tableau, Power BI, or Matplotlib.
+* Familiarity with on-chain metrics in DeFi or prediction markets, such as liquiditypools, oracle data feeds, and resolution mechanisms.
+* Strong analytical mindset with the ability to handle large, unstructured datasets and derive meaningful insights.
+* Excellent communication skills to present findings to non-technical teams.
 
-#### 우대 자격
+#### Preferred Qualifications
 
-* Polymarket, Augur 등 예측 시장 플랫폼에서의 업무 경험 또는 온체인 게임/베팅 데이터 분석 경험.
-* 시장 결과를 예측 모델링하기 위한 머신러닝 등 고급 분석 기법에 대한 지식.
-* Nansen, Glassnode, GraphQL 등 블록체인 조회용 추가 도구 활용 능력.
-* Solana 등 비 EVM 체인에 대한 이해는 강점입니다.
-* Web3 스타트업 또는 탈중앙화 조직에서의 경험.
+* Experience working with prediction market platforms (e.g., Polymarket, Augur, or similar) or analyzing on-chain gaming/betting data.
+* Knowledge of advanced analytics techniques, including machine learning for predictive modeling of market outcomes.
+* Proficiency in additional tools like Nansen, Glassnode, or GraphQL for blockchain querying.
+* Understanding of non-EVM chains (e.g., Solana) is a plus.
+* Prior experience in Web3 startups or decentralized organizations.

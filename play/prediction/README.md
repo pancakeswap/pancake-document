@@ -1,75 +1,75 @@
-# 🔮 예측
+# 🔮 Prediction
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/prediction-header.png)
+![](../../.gitbook/assets/prediction-header.png)
 
-PancakeSwap 예측은 재미있고 간단한 탈중앙화 예측 시장입니다.
+PancakeSwap Prediction is a fun and simple decentralized prediction market.
 
-> **BNB, BTC 또는 ETH 가격이 오를지 내릴지 예측하세요. 정확히 맞히면 보상을 받습니다!**
+> **Predict whether BNB, BTC, or ETH price will rise or fall – guess correctly to win!**
 
-### 플랫폼
+### Platforms
 
-다음 환경에서 PancakeSwap 예측을 플레이할 수 있습니다.
+You can play PancakeSwap Prediction on:
 
-* **데스크톱/dApp**: [PancakeSwap 예측 가이드](https://docs.pancakeswap.finance/play/prediction/prediction-guide)
-* **Telegram 미니 앱 (BNBUSD 전용)**: [예측 봇](https://docs.pancakeswap.finance/play/prediction/prediction-mini-app)
+* **Desktop/ dApp**: [PancakeSwap Prediction Guide](https://docs.pancakeswap.finance/play/prediction/prediction-guide)
+* **Telegram Mini App (BNBUSD only)**: [Prediction Bot](https://docs.pancakeswap.finance/play/prediction/prediction-mini-app)
 
-### 요약: 작동 방식
+### Summary: How It Works
 
-1. **베팅할 자산 선택**: 현재 **BNB 체인**에서 이용할 수 있으며, **zkSync Era**와 **Arbitrum One**의 마켓은 일시 중단되었습니다.
-2. **상승(UP) 또는 하락(DOWN) 선택**: "LIVE" 단계가 끝날 때 자산 가격이 더 높을지 낮을지 예측합니다(각 라운드 = 5분).
-3. 베팅 금액 입력: 원하는 BNB 금액
-4. **포지션 확정**: 한 번 베팅하면 변경할 수 없습니다.
-5. **승리 또는 패배**:
-   * **UP**을 선택했다면 라운드 종료 시 _종가_ > _잠금 가격_ 일 때 승리합니다.
-   * **DOWN**을 선택했다면 라운드 종료 시 _종가_ < _잠금 가격_ 일 때 승리합니다.
+1. **Choose an asset to bet on**: Currently available on **BNB Chain**; markets on **zkSync Era** and **Arbitrum One** are temporarily paused.
+2. **Pick UP or DOWN**: Predict if the asset price will be higher or lower when the “LIVE” phase ends (each round = 5 minutes).
+3. Place your bet amount: Any BNB amount
+4. **Lock in your position**: Once placed, your bet cannot be changed.
+5. **Win or lose**:
+   * If you chose **UP**, you win if the _Closed Price_ > _Locked Price_ at the end of the round.
+   * If you chose **DOWN**, you win if the _Closed Price_ < _Locked Price_ at the end of the round.
 
-### 메커니즘 및 수수료
+### Mechanics & Fees
 
-* **지원 체인: BNB 체인(운영 중), zkSync Era, Arbitrum One(일시 중단)**
-* **라운드 주기**: **5분**마다(연속 라운드).
-* **참여 수수료**: 각 라운드 전체 상금 풀의 **3%**이며, 그 일부는 **CAKE 바이백**에 사용됩니다.
-* **상금**: 결과가 확정된 후 언제든지 수령할 수 있습니다.
-* **지급금**은 각 풀의 베팅 비율에 따라 결정됩니다.
-  * 지급 비율(UP 풀) = _(두 풀의 총 가치 ÷ UP 풀의 가치)_
-  * 지급 비율(DOWN 풀) = _(두 풀의 총 가치 ÷ DOWN 풀의 가치)_
-  * 계산 예시는 [FAQ](prediction-faq.md)를 참조하세요.
+* **Supported Chains: BNB Chain (live); zkSync Era, Arbitrum One (paused)**
+* **Round frequency**: Every **5 minutes** (rolling rounds).
+* **Participation fee**: **3%** of each round’s total prize pool, a portion of which goes to **CAKE buybacks**.
+* **Winnings**: Claim anytime after results are finalized.
+* **Payouts** are based on the ratio of bets in each pool:
+  * Payout Ratio (UP Pool) = _(Total value of both pools ÷ Value of UP Pool)_
+  * Payout Ratio (DOWN Pool) = _(Total value of both pools ÷ Value of DOWN Pool)_
+  * See: [FAQ](prediction-faq.md) for worked example
 
-### 결과
+### Outcomes
 
-* **승리:** 다른 승자들과 전체 상금을 나누어 받습니다(3% 수수료 제외).
-* **패배:** 베팅한 금액 전액을 잃습니다.
+* **Win:** You share the total pot with other winners (minus 3% fee)
+* **Lose:** You lose your entire bet amount
 
-**특수한 경우**:
+**Special Cases**:
 
-* **무승부**(잠금 가격 = 종가): 모든 베팅금은 하우스가 가져갑니다.
-* 반대편 베팅이 없는 경우:
-  * 승리하면: 최초 베팅금의 97%를 되찾습니다(3% 수수료 적용).
-  * 패배하면: 베팅금 전액을 하우스에 몰수당합니다.
-* **취소:** 예를 들어 오라클 장애가 발생하면 사용자는 최초 베팅 금액을 환불받습니다.
+* **Tie** (Locked Price = Closed Price): House wins all bets.
+* If there are no opposing bets:
+  * If you win: reclaim 97% of your initial bet (3% fee applies).
+  * If you lose: forfeits your full bet to the house.
+* **Cancelled:** e.g. Oracle failure, users are refunded their initial bet amount
 
-### 가격 피드(오라클)
+### Price Feeds (Oracles)
 
-| 체인     | 마켓                                  | 용도                                                                 | 오라클                     |
+| Chain     | Markets                                  | Purpose                                                                 | Oracle                     |
 | --------- | ---------------------------------------- | ----------------------------------------------------------------------- | -------------------------- |
-| BNB 체인 | BNBUSD, BTCUSD, ETHUSD, CAKEUSD (일시 중단) | _잠금 가격_과 _종가_를 설정합니다(최대 약 20초마다 업데이트). | **Chainlink**              |
-| BNB 체인 | 전체                                      | UI의 실시간 차트에 사용됩니다(참고용).                   | Binance / TradingView 피드 |
+| BNB Chain | BNBUSD, BTCUSD, ETHUSD, CAKEUSD (paused) | Sets the _Lock Price_ and _Closed Price_ (updated \~ up to 20 seconds). | **Chainlink**              |
+| BNB Chain | All                                      | Powers the live chart on the UI (for reference only).                   | Binance / TradingView Feed |
 
-#### **ChainLink 오라클**
+#### **ChainLink Oracle**
 
-* 각 예측 시장 라운드의 잠금 가격과 종료 가격에 사용됩니다. 최대 20초 간격으로 업데이트됩니다.
-* 예측 컨트랙트는 BNB 체인의 ChainLink 오라클 가격 피드를 사용하여 사용자의 승패를 결정하는 가격을 설정합니다.
-* 인터페이스의 "Chainlink" 차트에 사용됩니다.
+* Used for the Lock price and End price of each prediction market round. This updates in intervals of up to 20 seconds.
+* Our prediction contract uses the ChainLink Oracle price feed on BNB Chain to set the prices used to dictate whether a user has won or not.
+* Used for the "Chainlink" chart on the interface.
 
 #### **Binance**
 
-* PancakeSwap 예측 시장 인터페이스의 실시간 가격 업데이트에 사용됩니다.
-* 인터페이스의 "TradingView" 차트에 사용됩니다.
+* Used for real-time price updates on the PancakeSwap prediction market interface.
+* Used for the "TradingView" chart on the interface.
 
-두 가지 다른 가격 피드를 사용하기 때문에 Binance의 실시간 가격 업데이트와 ChainLink 오라클 가격은 약간 다를 수 있습니다. 그러나 크게 차이 나지는 않습니다.
+Since we’re using two different price feeds, the real-time price updates from Binance and the ChainLink Oracle price may differ by a small amount. However, they shouldn’t vary significantly.
 
-### 컨트랙트 주소
+### Contract Addresses
 
-BNB 체인:
+BNB Chain:
 
 * **BNBUSD**: [0x18b2a687610328590bc8f2e5fedde3b582a49cda](https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda)
 * **BTCUSD**: [0x48781a7d35f6137a9135Bbb984AF65fd6AB25618](https://bscscan.com/address/0x48781a7d35f6137a9135Bbb984AF65fd6AB25618#code)

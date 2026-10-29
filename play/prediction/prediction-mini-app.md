@@ -1,65 +1,65 @@
-# 예측 미니 앱
+# Prediction Mini App
 
-### 미니 앱이란 무엇인가요?
+### What is mini app?
 
-Telegram 미니 앱을 사용하면 Telegram 안에서 PancakeSwap 기능에 빠르게 접근할 수 있습니다.
+Telegram mini app allows you to quickly access PancakeSwap features within Telegram.
 
-### 지갑은 어떻게 연결하나요?
+### How to connect my wallet?
 
 {% tabs %}
 {% tab title="Desktop" %}
-**MetaMask 사용**
+**Use MetaMask**
 
-QR 코드를 사용하여 모바일 MetaMask 지갑을 데스크톱 Telegram 미니 앱에 연결할 수 있습니다. 연결하려면 "MetaMask"를 선택하고 "모바일"을 클릭한 다음 휴대폰의 MetaMask로 QR 코드를 스캔하세요.
+You can connect your mobile MetaMask wallet to the desktop Telegram mini app using QR code. To connect, choose “MetaMask”, click “Mobile”, and scan the QR code using MetaMask on your phone.
 
-**WalletConnect 사용**
+**Use WalletConnect**
 
-QR 코드를 사용하여 모든 모바일 지갑을 데스크톱 Telegram 미니 앱에 연결할 수 있습니다. 연결하려면 "WalletConnect"를 선택하고 QR 코드를 클릭한 다음 휴대폰의 모바일 지갑으로 QR 코드를 스캔하세요.
+You can connect any mobile wallet to the desktop Telegram mini app using QR code. To connect, choose “WalletConnect”, click QR code, and scan the QR code using the mobile on your phone.
 
 {% hint style="warning" %}
-MetaMask의 "데스크톱" 옵션은 작동하지 않습니다. 데스크톱 Telegram 미니 앱에는 모바일 MetaMask만 연결할 수 있습니다.
+“Desktop” option for MetaMask is not functional. You can only connect mobile MetaMask to desktop Telegram mini app.
 {% endhint %}
 {% endtab %}
 
 {% tab title="iPhone" %}
-**MetaMask 사용**
+**Use MetaMask**
 
-MetaMask 지갑을 Telegram 미니 앱에 연결할 수 있습니다. 연결하려면 "MetaMask"를 선택하세요. MetaMask 앱으로 이동할지 묻는 메시지가 나타나면 열기를 클릭하세요. 그런 다음 MetaMask 앱의 안내에 따라 연결하세요.
+You can connect your MetaMask wallet to your Telegram mini app. To connect, choose “MetaMask”. If a prompt appears to ask if you want to be taken to the MetaMask app, click Open. Then follow the instructions in the MetaMask app to connect.
 
-**WalletConnect 사용**
+**Use WalletConnect**
 
-지원되는 모든 모바일 지갑을 Telegram 미니 앱에 연결할 수 있습니다. 연결하려면 "WalletConnect"를 선택하고 "모두 보기"를 클릭한 다음 사용하는 지갑을 선택하세요. 지갑 앱으로 이동할지 묻는 메시지가 나타나면 열기를 클릭하세요. 그런 다음 지갑 앱의 안내에 따라 연결하세요.
+You can connect any supported mobile wallet to your Telegram mini app. To connect, choose “WalletConnect”, click “View All”, and select your wallet. If a prompt appears to ask if you want to be taken to the wallet app, click Open. Then follow the instructions in the wallet app to connect.
 {% endtab %}
 
 {% tab title="Android" %}
-**MetaMask 사용**
+**Use MetaMask**
 
-MetaMask 지갑을 Telegram 미니 앱에 연결할 수 있습니다. 연결하려면 "MetaMask"를 선택하세요. MetaMask로 이동하며, 이후 MetaMask 앱의 안내에 따라 연결하면 됩니다.
+You can connect your MetaMask wallet to your Telegram mini app. To connect, choose “MetaMask”. You will be redirected to MetaMask, then simply follow the instructions in the MetaMask app to connect.
 
-**WalletConnect 사용**
+**Use WalletConnect**
 
-지원되는 모든 모바일 지갑을 Telegram 미니 앱에 연결할 수 있습니다. 연결하려면 "WalletConnect"를 선택하고 "모두 보기"를 클릭한 다음 사용하는 지갑을 선택하세요. 지갑 앱으로 이동하며, 이후 지갑 앱의 안내에 따라 연결하세요.
+You can connect any supported mobile wallet to your Telegram mini app. To connect, choose “WalletConnect”, click “View All”, and select your wallet. You will be redirected to the wallet app, then follow the instructions in the wallet app to connect.
 
 {% hint style="warning" %}
-일부 Android 휴대폰에서는 WalletConnect가 작동하지 않을 수 있습니다. 이 경우 다른 방법으로 연결해 주세요.
+Wallet Connect may not work on some of the Android phones. In that case, please connect via other methods.
 {% endhint %}
 {% endtab %}
 {% endtabs %}
 
-### 어떤 PancakeSwap 마켓이 지원되나요?
+### Which PancakeSwap Market is supported?
 
-현재 미니 앱은 BNB 체인의 BNBUSD 마켓을 지원합니다.
+Currently the mini app supports the BNBUSD market on BNB Chain.
 
-### 미니 앱에서 거래는 어떻게 서명하고 확인하나요?
+### How do I sign and confirm transactions for mini app?
 
-연결된 지갑 앱에서 거래에 서명하고 실행해야 합니다.
+You will need to sign and execute transactions in your connected wallet app.
 
 {% hint style="warning" %}
-iPhone에서는 지갑 앱과 Telegram 사이를 수동으로 전환해야 할 수 있습니다. 화면에 표시되는 안내를 따라 주세요.
+On iPhone, you may need to manually switch between wallet apps and Telegram. Please follow the onscreen instructions.
 {% endhint %}
 
-### 데스크톱에서 확장 프로그램 지갑을 사용할 수 있나요?
+### Can I use my extension wallets on Desktop?
 
-안타깝게도 Telegram 미니 앱은 현재 모바일 지갑만 지원합니다.
+Unfortunately Telegram mini app only supports mobile wallets at the moment.
 
 <br>

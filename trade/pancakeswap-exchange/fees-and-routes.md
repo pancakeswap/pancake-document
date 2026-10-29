@@ -1,56 +1,52 @@
-# 수수료와 라우트
+# Fees and Routes
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2861%29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
-Exchange V3에서는 기본적으로 PancakeSwap Smart Router가 V3, V2, StableSwap(BNB 체인), AMM, 그리고 마켓 메이커(BNB 체인 및 Ethereum)의 유동성을 활용하여 거래를 체결하고 트레이더에게 최적의 가격을 찾아 줍니다.
+In Exchange V3, on default, PancakeSwap Smart Router will utilize liquidity from V3, V2, StableSwap (BNB Chain), and the AMM and market makers (BNB Chain & Ethereum), to execute trades and find the best price for traders.
 
-다만 사용자는 언제든지 라우터가 사용할 유동성 소스를 직접 선택하고, 멀티홉과 분할 라우팅을 켜거나 끄는 방식으로 거래를 커스터마이징할 수 있습니다.
+However, users are always able to customize their trade by choosing which liquidity sources the router shall utilize, and enable or disable multihops and split routing.
 
-### **현재 적용되는 수수료율과 수수료 금액 확인하기**
+### **Check the fee rate and fee amount that is currently applied**
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28182%29.png)
+![](<../../.gitbook/assets/image (192).png>)
 
-현재 스왑에 부과되는 거래 수수료를 확인하려면 스왑 상세 정보 영역의 "Fee" 섹션을 확인하세요.
+To check how much trading will be charged on your current swap, check out the “Fee” section in the swap detail section.
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28296%29.png)
+![](<../../.gitbook/assets/image (298).png>)
 
-거래가 현재 어떤 종류의 풀과 수수료 등급을 통해 라우팅되는지 확인하려면 "Route" 섹션을 확인하세요.
+To check which type of pool and the fee tier your trade is currently routed through, check out the “Route” section.
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28265%29.png)
+![](<../../.gitbook/assets/image (270).png>)
 
-더 자세히 알아보려면 돋보기 아이콘을 클릭하여 전체 거래 경로를 표시하세요.
+To learn more detail, click the magnifier icon to bring out the full trading route displays.
 
+### **Customize liquidity sources**
 
+![](<../../.gitbook/assets/image (291).png>)
 
-### **유동성 소스 커스터마이징**
+At the top of the “Customize Routing” interface, you may choose which liquidity source the route shall use while routing your trade. To bring up this interface, you can:
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28289%29.png)
+* Click “Customize Routing” at the bottom of the trading route displays.
+* Click the cog icon in the swap interface, and then click “Customize Routing” at the bottom.
 
-"Customize Routing" 화면 상단에서 거래를 라우팅할 때 사용할 유동성 소스를 선택할 수 있습니다. 이 화면을 열려면 다음 중 하나를 하세요.
+By default, all of the liquidity sources are enabled and Smart Router will take full advantage of all the available liquidities within PancakeSwap.
 
-* 거래 경로 화면 하단의 "Customize Routing"을 클릭합니다.
-* 스왑 화면의 톱니바퀴 아이콘을 클릭한 뒤, 하단의 "Customize Routing"을 클릭합니다.
+Please note that the router will NOT route trades between AMM liquidity pools and MM market makers. When your trade is executed by MM market makers, it will not go through any AMM liquidity pools.
 
-기본적으로 모든 유동성 소스가 활성화되어 있으며, Smart Router는 PancakeSwap 내에서 사용 가능한 모든 유동성을 최대한 활용합니다.
+![](<../../.gitbook/assets/image (209).png>)
 
-라우터는 AMM 유동성 풀과 MM 마켓 메이커 사이에서 거래를 라우팅하지 않는다는 점에 유의하세요. 거래가 MM 마켓 메이커를 통해 체결되는 경우, 어떤 AMM 유동성 풀도 거치지 않습니다.
+You can click the “Reset” button on the top right-hand corner to reset the configurations to default.
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28199%29.png)
+### **Customize routing preferences**
 
-오른쪽 상단의 "Reset" 버튼을 클릭하면 설정을 기본값으로 초기화할 수 있습니다.
+![](<../../.gitbook/assets/image (140).png>)
 
+At the bottom of the “Customize Routing” interface, you can customize your routing preferences by enabling or disabling multihops and split routing.
 
+Multihops allow tokens to swap through multiple hops between several liquidity pools to achieve the best deal. Turning it off will restrict trades to direct swaps, which may cause higher slippage or even fund loss.
 
-### **라우팅 환경설정 커스터마이징**
-
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28129%29.png)
-
-"Customize Routing" 화면 하단에서 멀티홉과 분할 라우팅을 켜거나 끄는 방식으로 라우팅 환경설정을 조정할 수 있습니다.
-
-멀티홉은 여러 유동성 풀을 여러 단계에 걸쳐 거쳐 가며 토큰을 스왑하여 최적의 조건을 얻는 기능입니다. 이를 끄면 거래가 직접 스왑으로 제한되어 슬리피지가 커지거나 자금 손실이 발생할 수도 있습니다.
-
-분할 라우팅은 토큰 스왑을 여러 경로로 나누어 최적의 조건을 얻는 기능입니다. 이를 끄면 거래가 단일 경로로만 체결되어 효율이 낮아지거나 슬리피지가 커질 수 있습니다.
+Split routing enables token swaps to be broken into multiple routes to achieve the best deal. Turning it off will restrict trades from being executed with a single route, which may result in low efficiency or higher slippage.
 
 {% hint style="warning" %}
-커스터마이징한 거래 설정 때문에 거래를 체결할 수 없는 경우 경고가 표시됩니다. "Check your settings"를 클릭하면 "Customize Routing" 화면을 빠르게 열 수 있고, "Reset to default"를 선택하면 설정을 기본값으로 빠르게 되돌릴 수 있습니다.
+When your trade can not be executed due to a customized trading configuration, a warning will appear, you can click “Check your settings” to quickly bring up the“Customize Routing” interface. Or choose “Reset to default” to quickly reset your configurations back to default.
 {% endhint %}

@@ -2,46 +2,46 @@
 hidden: true
 ---
 
-# 시니어 프론트엔드 엔지니어
+# Senior Frontend Engineer
 
-### 일반 정보
+### General Information
 
-* 급여 범위: 경쟁력 있는 수준, 협의 가능
-* 근무 형태: 정규직
-* 근무지: 원격
-* 선호 시간대: 무관
+* Salary range: Competitive, negotiable
+* Position: Full-time
+* Location: Remote
+* Time-zone preference: Any
 
-### 담당 업무
+### Your Responsibilities
 
-* 복잡한 프론트엔드 제품/업그레이드를 설계하고, 범위를 정하며, 공수를 산정합니다.
-* PancakeSwap의 성장에 도움이 되는 기능을 구상하고 개발합니다.
-* 소규모 팀과 열정적으로 협업하여 태스크 단위로 프로젝트를 계획합니다.
-* 제품 개발의 모든 측면에서 유관 부서 파트너와 협업합니다.
-* 팀 전체의 개선 영역과 모범 사례를 발굴하고 이를 적극 제안합니다.
+* Design, scope, and estimate complex frontend products/upgrades.
+* Envision and develop features to help grow PancakeSwap.
+* Enthusiastically collaborate with a small team to plan projects at the task level.
+* Collaborate with cross-functional partners on all aspects of product development.
+* Identify and advocate for team-wide areas of improvement and best practices.
 
-### 역량 및 자격 요건
+### Skills & Qualifications
 
-* TypeScript, React.js, Node.js에 대한 탄탄한 경험.
-* 반응형/적응형 웹 애플리케이션 구축 실무 경력 5년 이상.
-* 깔끔하고 유지보수하기 쉬우며 잘 구조화된 코드를 작성하는 뛰어난 능력.
-* JavaScript 테스트 프레임워크 사용 경험.
-* 최신 프론트엔드 빌드 파이프라인과 도구에 능숙.
-* 확장 가능한 프론트엔드 솔루션을 설계하고 구현한 경험.
-* Web3 및 탈중앙화 애플리케이션 프론트엔드에 대한 실무 경험, viem, wagmi 등 최신 Web3 라이브러리에 대한 이해 포함.
-* GraphQL 경험.
+* Solid experience with TypeScript, React.js, and Node.js.
+* 5+ years of professional experience building responsive/adaptive web applications.
+* Strong ability to write clean, maintainable, and well-structured code.
+* Experience with JavaScript testing frameworks.
+* Proficiency with modern frontend build pipelines and tools.
+* Experience architecting and delivering scalable frontend solutions.
+* Hands-on experience with Web3 and decentralized application frontends, including familiarity with modern Web3 libraries (e.g., viem, wagmi).
+* Exposure to GraphQL.
 
-### 핵심 특성
+### Key Traits
 
-* **배우려는 열정:** 새로운 도구와 기술에 기꺼이 뛰어드는 분.
-* **자기 주도성:** 스스로 조사하고 그 결과를 실용적인 솔루션으로 바꾸는 데 익숙한 분.
-* **빠른 학습 능력:** 변화하는 요구 사항과 환경에 빠르게 적응할 수 있는 분.
-* **혁신적인 마인드셋:** 제품과 워크플로를 개선할 방법을 능동적으로 찾는 분.
+* **Eager to learn:** Excited to dive into new tools and technologies.
+* **Self-driven:** Comfortable doing your own research and turning findings into practical solutions.
+* **Fast learner:** Able to quickly adapt to evolving requirements and environments.
+* **Innovative mindset:** Proactively looks for ways to improve products and workflows.
 
-### 우대 사항
+### Good to have
 
-* Solidity에 대한 이해.
-* PancakeSwap v2, v3, Infinity에 국한되지 않는 DEX 프로토콜에 대한 이해.
+* Understanding of Solidity.
+* Familiarity with DEX protocols (not limited to PancakeSwap v2, v3, and Infinity).
 
-### 지원 방법
+### How to apply
 
-이력서를 hiring@pancakeswap.com 으로 이메일 보내 주세요!
+Email hiring@pancakeswap.com with your resume!

@@ -1,24 +1,24 @@
 ---
-description: 변동성이 더 큰 BTC 거래
+description: Higher Volatility BTC Trading
 hidden: true
 ---
 
 # MADBTCUSD
 
-**1. MADBTCUSD 지수란?**
+**1. What is MADBTCUSD Index?**
 
-MADBTCUSD 지수는 BTC의 동적인 움직임을 담되 한 가지 변화를 더한 알고리즘 기반 가격 지수로, 변동성이 훨씬 더 큽니다. 이 지수는 금융 분야에서 자산의 예측 불가능한 특성을 시뮬레이션하는 데 흔히 쓰이는 수학적 모델인 기하 브라운 운동(GBM) 파생상품 가격 결정 방법론을 사용해 산출됩니다.
+The MADBTCUSD Index is an algorithmically generated price index that encapsulates the dynamic movements of BTC but with an added twist – it exhibits significantly higher volatility. This index is derived using the Geometric Brownian Motion (GBM) derivatives pricing methodology, a mathematical model commonly used in the world of finance to simulate the unpredictable nature of assets.
 
-**2. 어떻게 작동하나요?**
+**2. How Does It Work?**
 
-MADBTCUSD 지수는 주로 비트코인 가격을 기반으로 합니다. BTCUSD의 전반적인 등락을 그대로 따르되 더 증폭된 비율(예상 변동성 100%)로 반영하므로, 가격 변동폭이 훨씬 뚜렷한 지수가 됩니다. 투명성과 공정성을 유지하기 위해 MADBTC 가격은 BTC 가격 및 MADBTC 과거 가격 데이터([여기](madbtcusd-faq.md))를 통해 교차 검증할 수 있습니다. 이를 통해 지수가 기초가 되는 BTC 시장의 움직임을 정확하게 반영하도록 보장합니다.
+The MADBTCUSD Index is primarily based on the price of Bitcoin. It mirrors the general ups and downs of BTCUSD, but it does so at an amplified rate (expected volatility of 100%), resulting in an index with significantly more pronounced price swings. To maintain transparency and fairness, the MADBTC price can be cross-verified through the BTC price and MADBTC historical price data ([here](madbtcusd-faq.md)). This ensures that the index accurately reflects the movements in the underlying BTC market.
 
-MADBTCUSD를 기존 암호화폐와 구별하는 핵심 특징은 무작위성입니다. MADBTCUSD 계약의 가격은 해당 계약의 데이터와 난수를 조합하여 알고리즘으로 생성됩니다. 매수자와 매도자는 MADBTCUSD 지수의 가격에 영향을 미치지 않습니다.
+One key feature that sets MADBTCUSD apart from traditional cryptocurrencies is the element of randomness. The price of the MADBTCUSD contract is algorithmically generated using a combination of the corresponding contract's data and a random number. There is no impact of buyers and sellers on price of the MADBTCUSD index.
 
-**3. 마켓 이용 가능 여부:**
+**3. Market Availability:**
 
-현재 MADBTCUSD 지수는 BNB 체인의 클래식 모드에서 BTCUSD, ETHUSD와 같은 다른 주요 마켓과 함께 이용할 수 있습니다. 이 계약은 포지션 개시 수수료 없음, 손익 기반 포지션 종료 수수료, 최대 250배 레버리지와 같은 추가 혜택을 제공합니다.
+Currently, MADBTCUSD Index is available in Classic Mode on BNB Chain, alongside other major markets like BTCUSD, and ETHUSD. The contract offers additional benefits such as zero position open fee, PnL based position close fee and up to 250x leverage.
 
-MADBTCUSD의 개념에 관심이 있고 이 계약의 세부 사항을 더 알아보고 싶으시다면, 포괄적인 방법론을 제공하는 전용 [자주 묻는 질문 (FAQ)](madbtcusd-faq.md) 페이지를 확인하세요.
+If you're intrigued by the concept of MADBTCUSD and want to explore the intricacies of this contract further, here’s a dedicated [FAQ](madbtcusd-faq.md) page to provide you with a comprehensive methodology.
 
-_**극심한 변동성 때문에 MADBTCUSD는 모든 트레이더에게 적합하지 않을 수 있으므로, 참여하기 전에 충분히 조사하고 관련 위험을 완전히 이해하는 것이 중요합니다**_
+_**It's important to note that due to its extreme volatility, MADBTCUSD may not be suitable for all traders, so it's essential to conduct your research and fully understand the risks involved before participating**_

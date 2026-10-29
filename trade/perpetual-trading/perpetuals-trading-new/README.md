@@ -1,33 +1,33 @@
-# 무기한 선물 거래 \[NEW]
+# Perpetuals Trading \[NEW]
 
-PancakeSwap 무기한 선물에서는 Aster 인프라를 기반으로 고레버리지 개인 트레이더에 최적화된 거래 경험을 처음부터 새로 구축했습니다. 직접 브릿징을 관리하거나 분산된 유동성을 다룰 필요 없이, PCS Perps는 깊은 유동성과 BTC 최대 200배 레버리지를 갖춘 매끄러운 완전 온체인 거래 경험을 제공합니다.
+In PancakeSwap Perpetuals, we've rebuilt our trading experience from the ground up — powered by Aster infrastructure, optimized for high-leverage retail traders. Instead of managing your own bridging or dealing with fragmented liquidity, PCS Perps gives you a seamless, fully on-chain trading experience with deep liquidity and up to 200× leverage on BTC.
 
-새로운 경험은 PancakeSwap 무기한 선물 사용자에게 다음과 같은 의미 있는 업그레이드를 제공합니다.
+The new experience brings meaningful upgrades to PancakeSwap Perpetuals users:
 
-### **두 가지 모드, 하나의 상품**
+### **Two Modes, One Product**
 
-모든 사람이 같은 방식으로 거래하지는 않습니다. 심플 모드에서는 프리셋 수량으로 탭 한 번에 롱 또는 숏 포지션을 열 수 있으며 별도의 설정이 필요 없습니다. 프로 모드에서는 더 많은 제어를 원하는 트레이더를 위해 지정가 주문, TP/SL, 전체 포지션 관리 기능을 사용할 수 있습니다. 열려 있는 포지션에 영향을 주지 않고 언제든지 모드를 전환할 수 있습니다.
+Not everyone trades the same way. Simple Mode lets you go long or short in a single tap with preset sizes — no configuration needed. Pro Mode unlocks limit orders, TP/SL, and full position management for traders who want more control. Switch between modes anytime without affecting your open positions.
 
-### **최대 200배 레버리지**
+### **Up to 200× Leverage**
 
-PCS Perps는 BTC에 대해 최대 200배 레버리지를 지원하며, 이는 대부분의 개인용 무기한 선물 상품보다 훨씬 높은 수준입니다. 덕분에 사용자를 별도의 체인이나 인터페이스로 옮기지 않고도 고레버리지 거래를 수용하도록 만들어진 몇 안 되는 플랫폼 중 하나입니다.
+PCS Perps supports up to 200× leverage on BTC — significantly higher than most retail perps products. This makes it one of the few platforms built to accommodate high-leverage trading behavior without forcing users onto a separate chain or interface.
 
-### **CEX 수준의 체결, 온체인에서**
+### **CEX-Grade Execution, Onchain**
 
-PCS Perps는 Aster의 오더북 인프라를 기반으로 하며, 깊은 유동성과 기관급 체결을 완전한 온체인 거래 환경에 제공합니다. 지갑에서 바로 거래하므로 별도 계정에 입금할 필요가 없으며, 청산 이벤트를 제외하면 수탁 위험도 없습니다.
+PCS Perps is powered by Aster's orderbook infrastructure, bringing deep liquidity and institutional-grade execution to a fully onchain trading environment. You trade directly from your wallet — no deposits to a separate account, no custodial risk outside of liquidation events.
 
-### **통합 지갑 경험**
+### **Unified Wallet Experience**
 
-현물과 무기한 선물 활동이 한곳에 모입니다. PCS Perps는 PancakeSwap 인터페이스에 직접 통합되어, 모든 온체인 포지션을 하나의 지갑 화면에서 확인할 수 있습니다.
+Your spot and perps activity live in one place. PCS Perps integrates directly into the PancakeSwap interface, giving you a single wallet view across all your onchain positions.
 
-### **AI 코파일럿**
+### **AI Copilot**
 
-트레이딩 패널의 AI Copilot 탭은 AI 기반 거래 아이디어를 생성하여 포지션 방향을 결정하는 데 도움을 줍니다. 무기한 선물 계정에 자금이 있으면 Copilot이 진입 맥락과 함께 롱 및 숏 아이디어 카드를 보여 주며, 카드를 탭하면 주문 양식이 미리 채워집니다. 자금이 없으면 "Generate trade ideas" 안내와 함께 빈 상태가 표시됩니다. AI Copilot은 심플 모드와 프로 모드 모두에서 Order Book 및 Trades 탭과 함께 사용할 수 있습니다.
+The AI Copilot tab in the trading panel generates AI-powered trade ideas to help you decide your position direction. When your perp account is funded, the Copilot shows Long and Short idea cards with entry context — tap one to pre-fill the order form. When unfunded, it shows an empty state with a "Generate trade ideas" prompt. AI Copilot is available in both Simple and Pro Mode alongside the Order Book and Trades tabs.
 
-### **CAKE VIP 수수료 등급 \[출시 예정]**
+### **CAKE VIP Fee Tiers \[Coming soon]**
 
-연결된 지갑에 CAKE를 보유하면 모든 거래에서 수수료 할인을 받을 수 있습니다. 자세한 내용은 곧 공개됩니다.
+Hold CAKE in your connected wallet to unlock fee discounts on every trade. More details coming soon.
 
-### **CAKE와 연결된 수익**
+### **Revenue Tied to CAKE**
 
-모든 무기한 선물 거래 수수료의 20%는 CAKE 소각으로 직접 연결되어, 거래 활동을 장기적인 토큰 가치와 연결합니다. PCS Perps의 거래량이 늘어날수록 더 많은 CAKE가 유통에서 제거됩니다.
+20% of all perps trading fees is routed directly to CAKE burn, linking trading activity to long-term token value. The more volume on PCS Perps, the more CAKE is removed from circulation.

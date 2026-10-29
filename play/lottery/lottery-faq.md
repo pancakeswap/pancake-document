@@ -1,80 +1,80 @@
-# 복권 자주 묻는 질문 (FAQ)
+# Lottery FAQ
 
-## 당첨자가 없으면 어떻게 되나요?
+## What if there are no winners?
 
-상금 풀의 CAKE가 당첨되지 않아도 낭비되지 않습니다! 수령되지 않은 CAKE는 다음 복권 라운드로 이월됩니다.
+If CAKE in the prize pools isn't won it doesn't go to waste! Unclaimed CAKE rolls over to the next Lottery round.
 
-## 티켓의 여러 숫자가 일치하는데 상금을 받을 수 없습니다
+## My ticket matches several numbers but I can't claim a prize
 
-티켓은 왼쪽에서 오른쪽으로 순서대로 일치하는 경우에만 상금을 받을 수 있습니다. 자세한 설명은 [복권 v2 문서](./)를 참조하세요.
+Tickets are only eligible for prizes if matching numbers from left to right. See the [Lottery v2 documentation](./) for a thorough explanation.
 
-## 복권 v2는 복권 v1과 어떻게 다른가요?
+## How is Lottery v2 different from Lottery v1?
 
-복권 v2는 복권 v1보다 상금을 더 폭넓게 분배합니다. 각 티켓이 첫 번째 숫자를 맞힐 확률이 10분의 1이므로 더 많은 티켓이 최소한 소액의 상금이라도 받게 됩니다. 또한 최고 상금을 받으려면 순서대로 일치해야 하는 숫자가 4개에서 6개로 늘어났습니다.
+Lottery v2 distributes prizes more widely than Lottery v1. It gives each ticket a 1 in 10 chance to match the first number, which means more tickets will at least win a small prize. It also has 6 (up from 4) numbers that need to be matched sequentially to win the biggest prize.
 
-전체적으로 더 많은 티켓이 상금을 받을 수 있는 반면, 최고 상금 잭팟은 당첨 빈도가 낮아져 매우 큰 최고 상금 풀이 만들어집니다!
+Overall this means more tickets can win a prize, but the largest prize jackpot will be won less frequently, making for huge top prize pools!
 
-**복권 v2에서 도입된 사항:**
+**Lottery v2 introduces:**
 
-* CAKE 가격에 따라 크게 변동하지 않는 더 저렴한 티켓 가격(티켓당 CAKE로 약 \~$5 USD)
-* 대량 티켓 구매 할인
-* 일치하는 숫자가 많을수록 상금 풀이 커지는 6단계 상금 풀 등급
-* 수동 숫자 선택(선택 사항)으로 행운의 숫자 사용 가능
-* 진정하고 안전한 무작위성을 위한 [Chainlink의 VRF 구현](https://docs.chain.link/docs/chainlink-vrf/)
-* 전체적으로 더 낮은 수수료(자세한 내용은 [이 페이지 아래쪽](lottery-faq.md#what-transaction-fee-will-i-pay-for-buying-tickets) 참조)
+* cheaper ticket prices (\~$5 USD in CAKE per ticket) that don't swing wildly with the price of CAKE
+* bulk ticket discounts
+* 6-tiered prize pool brackets with increasing prize pools as more numbers are matched
+* manual number selection (optional), so users can use their lucky numbers
+* [Chainlink’s implementation of VRF](https://docs.chain.link/docs/chainlink-vrf/) for true, secure randomness
+* lower overall fees (see [lower down this page](lottery-faq.md#what-transaction-fee-will-i-pay-for-buying-tickets) for more information)
 
-[복권 v2의 기능, 게임 방식, 상금에 대해 자세히 알아보기](./)
+[Learn more about Lottery v2 features, gameplay, and prizes](./)
 
-## 등급별 상금은 어떻게 나뉘나요?
+## How are prizes broken down between brackets?
 
-각 등급의 상금 풀은 각 복권 라운드의 전체 CAKE 중 일부입니다.
+Each bracket's prize pool is a portion of the total CAKE in each Lottery round.
 
-* | 등급 (순서대로 일치한 숫자) | CAKE 배분 |
+* | Bracket (numbers matched in order) | CAKE Allocation |
   | ---------------------------------- | --------------- |
-  | 앞 1자리                     | 2%              |
-  | 앞 2자리                    | 3%              |
-  | 앞 3자리                    | 5%              |
-  | 앞 4자리                    | 10%             |
-  | 앞 5자리                    | 20%             |
-  | 앞 6자리                    | 40%             |
-  | 소각                               | 20%             |
+  | First 1 number                     | 2%              |
+  | First 2 numbers                    | 3%              |
+  | First 3 numbers                    | 5%              |
+  | First 4 numbers                    | 10%             |
+  | First 5 numbers                    | 20%             |
+  | First 6 numbers                    | 40%             |
+  | Burn                               | 20%             |
 
-## 티켓을 다시 CAKE로 스왑할 수 있나요?
+## Can I swap my tickets back to CAKE?
 
-아니요, 한 번 구매한 티켓은 다시 CAKE로 전환할 수 없습니다.
+No, once purchased you will not be able to convert your ticket back to CAKE.
 
-## 당첨되면 상금을 직접 수령해야 하나요?
+## If I win, do I need to manually claim the prize?
 
-네, 복권 페이지의 "당첨자이신가요?" 아래에 있는 **지금 확인** 버튼을 클릭해야 합니다.
+Yes, you will need to click the **Check Now** button under "Are you a winner?" on the Lottery page.
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2868%29.png)
+![](<../../.gitbook/assets/image (79).png>)
 
-## 복권은 얼마나 자주 추첨하나요?
+## How often is the lottery?
 
-복권 추첨은 12시간 또는 36시간마다 진행됩니다. 매일 한 번 추첨이 진행되며 UTC 0시와 UTC 12시에 번갈아 진행됩니다. UTC 0시 라운드 이후의 다음 라운드는 36시간 후, UTC 12시 라운드 이후의 다음 라운드는 12시간 후에 진행됩니다.
+A lottery draw occurs every 12 or 36 hours. One lottery draw occurs every day alternating between 0 AM UTC and 12 PM UTC, next rounds after the 0 AM UTC rounds will be after 36 hours, next rounds after the 12 PM UTC rounds will be after 12 hours.
 
-![Lottery injection schedule](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Lottery%20Schedule%20Update%20Feb%204.png)
+![Lottery injection schedule](<../../.gitbook/assets/Lottery Schedule Update Feb 4.png>)
 
-## 티켓 구매 시 어떤 거래 수수료를 내나요?
+## What transaction fee will I pay for buying tickets?
 
-티켓을 한 번 구매할 때마다 하나의 거래가 발생합니다. 복권 구매에서 티켓 1장을 구매하면 일반적인 거래 수수료가 부과됩니다.
+Every ticket purchase you make will be one transaction. Purchasing a single ticket in a Lottery purchase will cost the normal amount of fees for a transaction.
 
-그러나 한 번에 더 많은 티켓을 구매하면 수수료가 늘어납니다. 1장이 아닌 100장을 구매한다고 해서 수수료가 100배가 되는 것은 아니며, 5\~6배 정도 늘어날 수 있습니다(다만 상황에 따라 다릅니다).
+However, buying more tickets in that purchase will increase the fee. Buying 100 tickets rather than 1 will not multiply the fee by 100, but may increase the fee amount by 5-6 times (though this varies).
 
-## 대량 구매 할인은 어떻게 적용되나요?
+## How does the bulk discount work?
 
-대량 구매 할인은 더 많은 티켓을 구매할수록 할인 폭이 커지는 방식으로 보상합니다. 티켓을 2장만 구매하면 할인은 미미하지만, 한 번의 거래에서 구매하는 티켓 수를 늘릴수록 빠르게 누적됩니다.
+The bulk discount rewards buying larger amounts of tickets with a scaling discount. If you're only buying 2 tickets, the discount is negligible, but will add up quickly as you increase the number of tickets to buy in one transaction.
 
-할인은 거래당 최대 100장까지만 적용됩니다. 할인은 다음 거래나 다음 라운드로 이월되지 않습니다.
+The discount only applies to each transaction up to 100 tickets. The discount does not carry over to the next transaction or next round.
 
-## 왜 100장까지만 구매할 수 있나요?
+## Why can I only buy 100 tickets?
 
-한 번에 최대 100장까지 구매할 수 있지만, 여러 번 구매할 수 있습니다. 처음 100장을 구매한 후에 더 많은 티켓을 구매하는 것을 막는 제한은 없습니다.
+You can only buy a maximum of 100 tickets in one purchase, but you can make multiple purchases. There's nothing to stop you buying more tickets after your first 100.
 
-## 같은 숫자의 티켓을 직접 두 장 이상 만들었고 당첨되면 각 티켓의 상금을 모두 받을 수 있나요?
+## If I manually create two or more tickets with the same numbers and they win, am I eligible for prizes for each ticket?
 
-네, 각 티켓은 별개의 복권 참여로 취급됩니다. 다만 당첨 티켓이 늘어날수록 해당 등급의 전체 상금에서 각 티켓이 받는 몫이 줄어들기 때문에 상금이 1:1로 늘어나지는 않는다는 점에 유의하세요.
+Yes, each ticket is treated as a separate entry to the Lottery. Keep in mind that the prizes will not be 1:1 though, as each winning ticket you have dilutes each share of the bracket's total prizes.
 
-## 주입 일정: 복권에 CAKE는 언제 추가되나요?
+## Injection schedule: When is CAKE added to the lottery?
 
-사람들이 티켓을 구매하면 사용한 CAKE가 복권 팟에 추가됩니다. 또한 위의 복권 일정 그림과 같이 일주일에 7번의 라운드 동안 정해진 일정에 따라 격 라운드마다 8,000 CAKE가 복권 팟에 추가(주입)됩니다.
+When people buy tickets, the CAKE they spend is added to the lottery pot. In addition, 8,000 CAKE is also added (injected) to the lottery pot every other round on a regular schedule over the course of seven rounds per week as shown above in the lottery schedule figure.

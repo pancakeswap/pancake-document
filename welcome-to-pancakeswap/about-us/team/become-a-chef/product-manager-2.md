@@ -2,67 +2,67 @@
 hidden: true
 ---
 
-# 프로덕트 마케팅 매니저
+# Product Marketing Manager
 
-### 회사 소개
+### About Us
 
-저희는 지갑 앱과 PancakeSwap(DEX)을 아우르는 암호화폐 제품군을 구축하고 성장시키고 있습니다.
+We're building and growing a crypto product suite spanning both a wallet app and PancakeSwap (DEX).
 
-지갑과 DEX/트레이딩 분야를 모두 깊이 이해하고, 지갑 온보딩부터 온체인 거래 활동에 이르기까지 서로 연결되어 있지만 구별되는 두 사용자 경험 전반의 성장 전략을 이끌 프로덕트 마케팅 매니저를 찾고 있습니다.
+We're looking for a Product Marketing Manager who deeply understands both the wallet and DEX/trading space, and can drive growth strategy across these two connected but distinct user experiences, from wallet onboarding through on-chain trading activity.
 
-### 담당 업무
+### Responsibilities
 
-* 신규 서비스의 콜드 스타트 사용자 확보, 시드 사용자(암호화폐 네이티브 사용자, KOC, DeFi 파워 유저) 육성, 콘텐츠 생태계 구축을 포함하여 지갑 앱과 PancakeSwap 전반의 시장 진출 및 성장 전략을 총괄합니다.
-* 지갑 사용자(온보딩, 보안, 자산 관리)와 DEX 사용자(트레이딩, 유동성 공급, 일드 파밍, 스왑)의 서로 다른 사용자 여정과 마인드셋을 고려한 전략을 수립합니다.
-* KOL/KOC 파트너십, 콘텐츠 전략, 유료 광고 최적화, 커뮤니티 성장을 포함하여 Douyin, TikTok, X (Twitter), Telegram, Discord 전반의 성장을 이끕니다.
-* 지갑 기능 출시, PancakeSwap 제품 업데이트(신규 풀, 팜, IFO, V3/V4 기능, 크로스체인 확장 등), 토큰 관련 이벤트, 에어드롭 등 주요 마일스톤에 맞춘 시장 진출 캠페인을 기획하고 실행합니다.
-* 각 제품에 맞는 성장 퍼널을 구축하고 최적화합니다.
-  * **지갑:** 다운로드 → 지갑 생성/가져오기 → 첫 트랜잭션 → 유지
-  * **PancakeSwap:** 방문 → 지갑 연결 → 첫 스왑/LP 활동 → 반복 거래 행동
-* 지갑과 DEX 제품 라인 전반에서 일관된 브랜드 포지셔닝과 메시징을 책임지되, 캐주얼한 지갑 사용자와 활발한 DeFi 트레이더라는 각 오디언스에 맞게 톤을 조정합니다.
-* 두 카테고리 전반의 경쟁사 활동을 지속적으로 추적합니다.
-  * **지갑:** MetaMask, OKX Wallet, imToken, Phantom, Trust Wallet, Rabby
-  * **DEX:** Uniswap, Curve, Raydium, Aerodrome 등
-  * 분석 결과를 실행 가능한 포지셔닝 및 성장 전략으로 전환합니다.
-* 성장 효과와 규제 준수 리스크의 균형을 맞추며, 암호화폐 네이티브 성장 인센티브 프로그램(트레이딩 대회, LP 인센티브, 에어드롭 퀘스트, 추천 보상, 포인트 시스템)을 설계하고 운영합니다.
-* 마케팅 예산과 ROI를 관리하고, 두 제품 전반의 핵심 성장 지표(CAC, 지갑 활성화율, DEX 거래량, TVL 성장, 월간 활성 주소 수, 유지율 등)를 책임집니다.
-* 거래소, 체인 생태계, DeFi 프로토콜, 유동성 파트너와의 파트너십을 구축하고 관리하여 공동 마케팅과 생태계 유통 기회를 창출합니다.
+* Own go-to-market and growth strategy across both the wallet app and PancakeSwap, including cold-start acquisition for new surfaces, seed user cultivation (crypto-native users, KOCs, DeFi power users), and content ecosystem build-out.
+* Develop strategies that account for the different user journeys and mindsets between wallet users (onboarding, security, asset management) and DEX users (trading, liquidity provision, yield farming, swaps).
+* Drive growth across Douyin, TikTok, X (Twitter), Telegram, and Discord, including KOL/KOC partnerships, content strategy, paid acquisition optimization, and community growth.
+* Plan and execute go-to-market campaigns around key milestones, including wallet feature launches, PancakeSwap product updates (new pools, farms, IFOs, V3/V4 features, cross-chain expansion, etc.), token-related events, and airdrops.
+* Build and optimize growth funnels tailored to each product:
+  * **Wallet:** download → wallet creation/import → first transaction → retention
+  * **PancakeSwap:** visit → connect wallet → first swap/LP action → repeat trading behavior
+* Own brand positioning and messaging that stays consistent across the wallet and DEX product lines, while tailoring tone to each audience: casual wallet users vs. active DeFi traders.
+* Continuously track competitor activity across both categories:
+  * **Wallets:** MetaMask, OKX Wallet, imToken, Phantom, Trust Wallet, Rabby
+  * **DEXs:** Uniswap, Curve, Raydium, Aerodrome, etc.
+  * Translate findings into actionable positioning and growth strategies.
+* Design and run crypto-native growth incentive programs (trading competitions, LP incentives, airdrop quests, referral rewards, points systems), balancing growth impact with compliance risk.
+* Manage marketing budget and ROI, owning core growth metrics across both products (CAC, wallet activation rate, DEX trading volume, TVL growth, monthly active addresses, retention, etc.).
+* Build and manage partnerships with exchanges, chain ecosystems, DeFi protocols, and liquidity partners to unlock co-marketing and ecosystem distribution opportunities.
 
-### 요구 사항
+### Requirements
 
-#### 핵심 경험
+#### Core Experience
 
-* 프로덕트 마케팅 또는 그로스 마케팅 경력 3년 이상, 0에서 1까지의 완결된 경험 최소 1회, 이상적으로는 소비자용 지갑 제품과 DeFi/트레이딩 제품을 모두 아우르는 경험.
-* Douyin, TikTok 또는 유사한 숏폼 영상 플랫폼에서 팔로워 증가, 전환율, GMV 등 구체적이고 검증 가능한 성과를 낸 입증된 성장 실적.
-* 지갑 업계와 DEX/DeFi 트레이딩 분야 모두에 대한 깊은 실무 이해. 다음을 이해하고 계셔야 합니다.
-  * **지갑 메커니즘:** 수탁형 vs. 비수탁형, 시드 구문, 멀티체인 지원, 가스비
-  * **DEX 메커니즘:** AMM 모델, 유동성 풀, 집중 유동성/V3, 비영구적 손실, 일드 파밍, IFO
-* 암호화폐 거래소, 지갑 제품, DEX 또는 DeFi 프로토콜의 마케팅 경험을 적극 우대합니다. PancakeSwap 또는 이에 준하는 AMM에 대한 직접적인 경험은 큰 강점입니다.
+* 3+ years in product marketing or growth marketing, with at least one complete 0-to-1 experience, ideally spanning both consumer wallet products and DeFi/trading products.
+* Proven growth track record on Douyin, TikTok, or similar short-video platforms, with concrete, verifiable results (follower growth, conversion rates, GMV, etc.).
+* Deep, hands-on familiarity with both the wallet industry and DEX/DeFi trading space. You understand:
+  * **Wallet mechanics:** custodial vs. non-custodial, seed phrases, multi-chain support, gas fees
+  * **DEX mechanics:** AMM models, liquidity pools, concentrated liquidity/V3, impermanent loss, yield farming, IFOs
+* Prior experience marketing a crypto exchange, wallet product, DEX, or DeFi protocol strongly preferred. Direct experience with PancakeSwap or a comparable AMM is a strong plus.
 
-#### 역량 및 능력
+#### Skills & Capabilities
 
-* 암호화폐 네이티브 성장 채널과 문화(X/Twitter Spaces, Telegram 커뮤니티, Discord, Dune, DeFiLlama 등 온체인 분석 플랫폼)에 능숙.
-* 성장 방법론(AARRR 프레임워크, 그로스 해킹 전술)에 대한 탄탄한 이해와, 이를 다양한 제품 유형과 암호화폐 시장 사이클에 맞게 적용하는 능력.
-* 브랜드 일관성을 잃지 않으면서 서로 연결된 여러 제품 접점의 마케팅 전략을 동시에 관리하는 데 익숙한 분.
-* 데이터에 능숙한 분: 온체인 지표(TVL, 거래량, 활성 주소 수, LP 활동)를 읽고 이를 성장 의사결정으로 전환하는 데 익숙해야 합니다.
-* 보안 중심의 지갑 제품과 기술적으로 복잡한 DEX 제품을 모두 단순하고 공유하고 싶게 만들 수 있는 뛰어난 스토리텔링 및 콘텐츠 감각.
-* 두 워크스트림 전반에서 프로덕트, 엔지니어링, 운영, 컴플라이언스, 커뮤니티 팀과 긴밀히 협업할 수 있는 뛰어난 부서 간 협업 능력.
-* 암호화폐의 규제 민감성과 변동성 높은 시장 심리(강세/약세 사이클)에 대한 예리한 감각과, 이에 맞춰 마케팅 전술을 조정하는 능력.
+* Fluent in crypto-native growth channels and culture (X/Twitter Spaces, Telegram communities, Discord, on-chain analytics platforms like Dune, DeFiLlama, etc.).
+* Strong grasp of growth methodology (AARRR framework, growth hacking tactics) with the ability to adapt these frameworks across different product types and crypto's market cycles.
+* Comfortable managing marketing strategy for multiple, connected product surfaces simultaneously without losing brand consistency.
+* Data-fluent: comfortable reading on-chain metrics (TVL, trading volume, active addresses, LP activity) and translating them into growth decisions.
+* Excellent storytelling and content instincts, able to make both a security-focused wallet product and a technically dense DEX product feel simple and shareable.
+* Strong cross-functional collaboration skills, able to work closely with product, engineering, operations, compliance, and community teams across both workstreams.
+* Sharp awareness of crypto's regulatory sensitivities and volatile market sentiment (bull/bear cycles), with the ability to adjust marketing tactics accordingly.
 
-### 우대 사항
+### Nice to Have
 
-* 동남아시아, 중남미 또는 서구 시장 등 해외 시장에서의 성장 경험.
-* PancakeSwap 또는 유사한 AMM에서 트레이딩, 유동성 공급, 파밍을 직접 해 본 실무 경험.
-* 가격/ROI를 암시하지 않기, 토큰 홍보 규정 등 암호화폐 마케팅에 특화된 컴플라이언스 금지선에 대한 이해.
-* 에어드롭, 트레이딩 대회, LP 인센티브 캠페인을 완전한 성장 루프와 함께 독립적으로 기획하고 실행한 실적.
-* 실제 사용자로서의 Web3 내 적극적이고 신뢰받는 활동, 그리고 온체인 활동과 커뮤니티 관계.
+* Growth experience in overseas markets (Southeast Asia, LatAm, or Western markets).
+* Direct hands-on experience trading, providing liquidity, or farming on PancakeSwap or a similar AMM.
+* Familiarity with compliance red lines specific to crypto marketing (e.g. avoiding price/ROI implications, token promotion regulations).
+* A track record of independently planning and executing airdrop, trading competition, or LP incentive campaigns with a full growth loop.
+* An active, credible presence in Web3 as a real user, with genuine on-chain activity and community relationships in the space.
 
-### 제공하는 혜택
+### What We Offer
 
-* 전체 제품군의 성장 전략에 직접 영향을 미치는 창립/핵심 팀 멤버 자리.
-* 경쟁력 있는 급여 + 지분/토큰 인센티브 (세부 사항은 개별 협의).
-* 의사결정 주기가 짧고 빠르게 움직이는 수평적인 팀.
+* A founding/core team seat with direct influence on growth strategy across the full product suite.
+* Competitive salary + equity/token incentives (details discussed individually).
+* A flat, fast-moving team with short decision cycles.
 
 
 
-**지원 방법:** 이력서를 hiring@pancakeswap.com 으로 보내 주세요. 여러분의 이야기를 기다립니다!
+**How to Apply:** Shoot your resume over to hiring@pancakeswap.com, we’d love to hear from you!

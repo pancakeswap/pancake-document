@@ -2,38 +2,38 @@
 hidden: true
 ---
 
-# 커뮤니티 리드
+# Community Lead
 
-## 일반 정보:
+## General Information:
 
-* 근무지: 원격
-* 근무 형태: 정규직
-* 선호 시간대: GMT+8, 앞뒤 4시간 유연성
+* Location: Remote
+* Position: Full-time
+* Time-zone Preference: GMT+8, +/-4 hours flexibility
 
-PancakeSwap 팀에 합류할 의욕적이고 경험 많은 커뮤니티 리드를 찾고 있습니다. 이 원격 정규직 포지션은 특히 아시아와 유럽에서의 입지를 넓히는 데 중점을 두고, 글로벌 커뮤니티 전략을 만들고 이끌어 갈 흥미로운 기회입니다. 커뮤니티 리드로서 앰배서더 프로그램을 주도하고, 커뮤니티 채널 전반의 참여를 높이며, 주요 행사와 공개 포럼에서 PancakeSwap을 대표하게 됩니다. 이상적인 후보자는 DeFi 환경에 대한 깊은 이해, 뛰어난 이중 언어 커뮤니케이션 능력, 그리고 커뮤니티 관리 분야의 검증된 실적을 갖추고 있습니다.&#x20;
+We’re seeking a highly motivated and experienced Community Lead to join our team at PancakeSwap. This remote, full-time position offers an exciting opportunity to shape and drive our global community strategy, with a particular emphasis on expanding our presence in Asia and Europe. As the Community Lead, you will spearhead our ambassador program, enhance engagement across our community channels, and represent PancakeSwap at key events and public forums. The ideal candidate will have a deep understanding of the DeFi landscape, excellent bilingual communication skills, and a proven track record in community management.
 
-## 주요 책임:
+## Key Responsibilities:
 
-* 아시아와 유럽에서의 참여와 입지를 높이는 데 중점을 둔 PancakeSwap의 포괄적인 글로벌 커뮤니티 전략을 수립하고 실행합니다.
-* 앰배서더를 모집, 교육, 지원하여 콘텐츠 제작, 밋업, 행사를 통해 PancakeSwap의 글로벌 입지를 키우는 앰배서더 프로그램을 이끌고 확장합니다.
-* AMA, 컨퍼런스 및 기타 공개 발표 자리에서 팀을 대표하는 PancakeSwap의 주 대변인 역할을 수행합니다.
-* 전 세계 밋업, 워크숍 및 기타 커뮤니티 행사를 기획하고 조율합니다. 행사 참석과 지원을 위해 필요 시 출장합니다.
-* Telegram, Discord 등 관련 플랫폼과 같은 커뮤니티 채널의 성장과 참여를 이끕니다.
-* 현지 콘텐츠 크리에이터 및 인플루언서와 협업하여 PancakeSwap의 브랜드와 목표에 부합하는 흥미롭고 적절한 콘텐츠를 제작합니다.
+* Develop and execute a comprehensive global community strategy for PancakeSwap, focusing on increasing engagement and presence in Asia and Europe.
+* Lead and expand the ambassador program by recruiting, training, and supporting ambassadors to grow PancakeSwap’s presence globally through content creation, meet-ups, and events.
+* Act as the primary spokesperson for PancakeSwap, representing the team in AMAs, conferences, and other public speaking engagements.
+* Organize and coordinate meet-ups, workshops, and other community events globally. Travel as required to attend and support events.
+* Drive the growth and engagement of community channels such as Telegram, Discord, and other relevant platforms.
+* Collaborate with local content creators and influencers to produce engaging and relevant content that aligns with PancakeSwap’s brand and goals.
 
-## 역량 및 자격 요건:
+## Skills & Qualifications:
 
-* 마케팅, 커뮤니케이션, 저널리즘 또는 관련 분야 학사 학위.
-* 아시아와 유럽에 중점을 둔 암호화폐 커뮤니티 관리 경력 최소 3년.
-* 영어와 중국어(말하기와 쓰기 모두) 유창. 추가 언어 구사 시 우대.
-* DeFi, 디겐(degen) 마케팅 전략, 그리고 폭넓은 암호화폐 생태계에 대한 깊은 이해.
-* 글로벌 오디언스와 소통하고 동기를 부여할 수 있는 뛰어난 구두 및 서면 커뮤니케이션 능력.
-* 빠르게 변화하는 환경에서 여러 프로젝트의 우선순위를 정하고 관리하며 마감 기한을 지키는 검증된 능력.
-* 능동적이고 성과 지향적이며, 커뮤니티 성장과 참여를 이끌기 위해 주도적으로 행동할 수 있는 분.
-* 다양한 국제 팀 전반에서 협업과 소통을 이끈 경험.
+* Bachelor’s degree in Marketing, Communications, Journalism, or a related field.
+* Minimum of 3 years of experience in crypto community management, with a strong focus on Asia and Europe.
+* Fluent in English and Chinese (both spoken and written). Additional languages are a plus.
+* Deep understanding of DeFi, degen marketing strategies, and the broader cryptocurrency ecosystem.
+* Excellent verbal and written communication skills, with the ability to engage and motivate a global audience.
+* Proven ability to manage and prioritize multiple projects and meet deadlines in a fast-paced environment.
+* Proactive, results-oriented, and capable of taking initiative to drive community growth and engagement.
+* Experience in facilitating collaboration and communication across a diverse, international team.
 
-## 지원 방법:
+## How to apply:
 
-이력서를 hiring@pancakeswap.com 으로 이메일 보내 주세요!
+Email hiring@pancakeswap.com with your resume!
 
 <br>

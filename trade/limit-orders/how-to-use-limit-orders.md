@@ -2,38 +2,38 @@
 hidden: true
 ---
 
-# 지정가 주문 사용 방법
+# How to use Limit Orders (Legacy)
 
-## 지정가 주문이란?
+## What is Limit Orders
 
-지정가 주문은 실행 시점의 시장 가격에 의존하는 대신, 사용자가 지정한 가격 또는 그보다 유리한 가격으로 자산을 매수하거나 매도할 수 있게 해 주는 도구입니다. 지정가 주문에서는 가격은 보장되지만 주문 체결 자체는 보장되지 않습니다. 지정가 주문은 가격이 주문 조건을 충족할 때만 체결됩니다.
+A limit order is a tool to enable users to buy or sell assets at a specified price or better, instead of relying on the market price at the time of execution. In a limit order, while the price is guaranteed, the order being executed is not - limit orders will be executed only if the price meets the order qualifications.
 
-## 지정가 주문 설정 방법
+## How to set up a limit order
 
-1. 스왑 페이지로 이동하여 "LIMIT"을 클릭해 지정가 주문 옵션을 선택하거나, 다음 링크를 사용하세요: [https://pancakeswap.finance/swap/limit](https://pancakeswap.finance/swap/limit)
-2. 거래하려는 "From" 토큰과 "To" 토큰을 선택합니다. 이 예시에서는 각각 USDC와 ETH를 선택했으며, 이는 USDC로 ETH를 매수하려 한다는 의미입니다.
+1. Go to the Swap page and select the limit order option by clicking “LIMIT”, or, use this link: [https://pancakeswap.finance/swap/limit](https://pancakeswap.finance/swap/limit)
+2. Select the “From” and “To” tokens you wish to trade. In this example we chose USDC and ETH respectively, meaning we want to buy ETH with USDC.
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%284%29%20%281%29.png)
+![](<../../.gitbook/assets/image (9).png>)
 
-1. 거래하려는 수량을 입력합니다. 지정가에는 현재 시장 가격이 표시되며, 이를 바탕으로 도착 토큰(ETH)의 예상 수령량이 계산됩니다.
-2. 원하는 지정가를 설정합니다. 거래는 이용 가능한 시장 가격이 지정가와 같거나 더 유리할 때만 실행됩니다. 도착 토큰 수령량도 그에 맞게 업데이트됩니다.
+1. Enter the amount you wish to trade. Notice the limit price will show the current market price which will then estimate the output amount of destination tokens (ETH)
+2. Set the desired limit price. Trades will ONLY be executed when the available market price is better than or equal to the limit price. The destination token output amount will update accordingly.
 
-아래 예시에서는 가격이 $1,900 이하일 때 ETH를 매수하려고 합니다. 수령하는 ETH의 양은 0.037 ETH 이상이 됩니다. 이 수량과 같거나 그보다 유리한 입찰만 주문을 체결할 자격이 있습니다. 이 수량에는 가스 비용과 수수료가 반영되어 있습니다. &#x20;
+In the example below, we wish to buy ETH when the price is $1,900 or better. The amount of ETH received will be equal or greater than 0.037 ETH. Only bids equal or better than this amount will be eligible to fill the order. This amount takes into account gas costs and fees.
 
 {% hint style="info" %}
-중요 참고 사항: 수수료는 출력 토큰 수량에서 지불되므로 지정가에는 가스비와 거래 수수료가 포함됩니다. 따라서 사용자는 가격을 설정할 때 이를 고려해야 합니다. 예를 들어 아주 작은 주문의 경우 가스비가 출력 수량에서 매우 큰 비중을 차지하여, 실제 지정가가 현물 시장 가격에 비해 경쟁력이 없는 수준이 될 수 있습니다.
+Important note: As the fees are paid from the output token amount, the limit price includes the gas & trading fees and so users should take this into account when setting up the price. For example, a very small order’s gas fees can total a very large percentage of the order output, reflecting an actual limit price that is not competitive with the spot market price.
 {% endhint %}
 
-3.  "Place order"를 누릅니다. 주문 세부 정보를 다시 한번 확인하고, 면책 조항에 동의한 뒤 "Confirm order"를 누릅니다.
+3.  Press “Place order”. Double check your order details, accept the disclaimer and press “Confirm order”.
 
-    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%283%29%20%281%29%20%281%29.png" alt="" width="375"><figcaption></figcaption></figure>
-4. 트랜잭션이 완료되면 주문 내역 섹션의 "Open orders" 아래에서 주문을 확인할 수 있습니다. \
-   ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%282%29%20%281%29%20%281%29%20%281%29.png)
-5. 열려 있는 주문은 주문을 펼친 뒤 "Cancel Order" 버튼을 클릭하여 언제든지 취소할 수 있습니다.
+    <figure><img src="../../.gitbook/assets/image (11).png" alt="" width="375"><figcaption></figcaption></figure>
+4. Once the transaction is through, you will be able to see your order in the order history section, under “Open orders”.\
+   ![](<../../.gitbook/assets/image (10).png>)
+5. Open orders can be canceled at any time by expanding the order and clicking the “Cancel Order” button.
 
-고려해야 할 사항:
+Things to take into consideration:
 
-* 이용 가능한 시장 가격이 설정한 지정가보다 불리하면 주문이 체결되지 않을 수 있습니다.
-* 거래는 오프체인 테이커들이 주문을 체결하기 위해 경쟁하는 탈중앙화 프로토콜을 기반으로 합니다. 이 테이커들은 수수료를 요청할 수 있으며, 프로토콜은 낙찰된 테이커를 위해 출력 토큰에서 해당 수수료를 차감합니다.&#x20;
-* 테이커는 수수료를 설정할 때 사용자 트랜잭션의 가스비를 고려할 수 있으며, 이로 인해 수수료 금액이 변동될 수 있습니다.
-* 지정가를 설정하면 UI에서 주문이 체결될 경우 받게 될 도착 토큰의 최소 수량을 확인할 수 있습니다. 이 수량과 같거나 더 유리한 입찰을 하는 테이커만 주문을 체결할 자격이 있습니다. 이 수량에는 가스 비용과 거래 수수료가 반영되어 있습니다.
+* Your order may not be executed if the available market price is worse than the limit price you have set.
+* The trades are based on a decentralized protocol that utilizes off-chain takers which compete to fill orders. These takers are entitled to request a fee, which the protocol removes for the winning taker from the output tokens.
+* Takers may take into account gas fees for your transactions when setting their fees, which may result in fluctuations in the fee amounts.
+* When specifying a limit price, users will see in the UI the minimum amount of destination tokens they will receive if the order is filled. Only takers making bids equal or better than this amount will be eligible to fill the order. This amount takes into account gas costs and trading fees.

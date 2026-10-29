@@ -2,31 +2,31 @@
 hidden: true
 ---
 
-# 디젠 모드
+# Degen Mode
 
-디젠 트레이딩 모드는 기존 거래 방식과는 다른 대안적인 거래 방법을 제공합니다. 시장 분석에 화면을 보는 시간을 줄이고 보다 느긋하게 거래하려는 트레이더가 이 거래 모드를 선택할 수 있습니다. 변동성이 큰 시기에는 슬리피지 0, 높은 레버리지, 극도로 낮은 수수료로 수익을 극대화할 수 있습니다. 변동성이 낮을 때는 작은 가격 변동에 베팅할 수 있습니다.
+The Degen Trading Mode offers traders an alternative way of trading compared to conventional trading methods. Traders who prefer to reduce screen time analyzing the market and have a more hands-off approach can choose this trading mode. During periods of high volatility, traders can maximize their gains with 0 slippage, high leverage and extremely low fees. In low volatility, traders can speculate on minor price movements.
 
-초기에 디젠 트레이딩 모드는 BTCUSD에서 이용할 수 있으며, 롱 및 숏 시장가 주문에 대해 최대 1001배 레버리지를 지원합니다. 트레이더는 슬리피지 없이 포지션을 열기 전에 원금(담보 수량)을 입력해야 합니다.
+Initially, Degen Trading Mode will be available for BTCUSD, supporting maximum leverage of 1001x for long and short market orders. Traders must input the principal (collateral amount) before opening a position with zero slippage.
 
-디젠 모드는 무기한 선물 V2의 BNB 체인, Arbitrum, opBNB, Base 체인에서 모두 이용할 수 있습니다.
+Degen mode is available on both BNB Chain, Arbitrum, opBNB and Base chain on Perpetuals V2.
 
-### 디젠 모드 구성
+### Degen Mode Format
 
-디젠 모드는 무기한 선물 트레이더에게 다음과 같은 플레이 특성과 혜택을 제공합니다.
+Degen mode offers the following gameplay characteristics and benefits to our perpetual traders:
 
-**높은 레버리지, 낮은 초기 담보 -** 1001배의 높은 레버리지로 사용자는 디젠 모드를 통해 거래 전략에 참여하고 이를 증폭할 수 있습니다. 이제 상당한 초기 담보를 예치하지 않고도 더 높은 수익 가능성을 누릴 수 있습니다.
+**High Leverage, Lower Upfront Collateral -** With higher leverage of 1001x, users can participate and amplify their trading strategies through Degen Mode. Users can now enjoy a higher upside without posting significant upfront collateral.
 
-**낮은 수수료 -** 슬리피지 없는 거래로 사용자는 더 나은 거래 경험을 누릴 수 있습니다. 포지션 개시 수수료가 부과되지 않습니다. 따라서 포지션 개시 수수료를 절약하여 담보로 활용할 수 있어 사용자의 수익 가능성이 높아집니다.
+**Lower Fees -** With zero-slippage trading, users can enjoy a better trading experience. Users are not charged open position fees. This increases users' trading upsides as open position fees can now be saved and used as collateral.
 
-**동적 수수료 구조 -** 디젠 모드에 맞춰 설계된 포지션 종료 시의 동적 수수료 구조는 손익(PnL)에 따라 수수료를 부과하도록 세심하게 설계되었습니다. 동적 수수료 구조에 대한 자세한 내용은 [여기](degen-mode-dynamic-fee.md)를 참고하세요.
+**Dynamic Fee Structure -** Uniquely tailored for Degen Mode, the Dynamic Fee Structure for closing positions is meticulously designed to charge fees based on Profit and Loss (PnL). For more information on dynamic fee structure [here](degen-mode-dynamic-fee.md).
 
-**제공 페어 -** 디젠 모드는 BNB 체인, Arbitrum, opBNB, Base 체인의 BTCUSD에서 이용할 수 있습니다.
+**Pair Offerings -** Degen Mode is available for BTCUSD on BNB Chain, Arbitrum, opBNB and Base chain.
 
-### 이용 방법
+### How it works
 
-1. [https://perp.pancakeswap.finance/en/futures/v2/](https://perp.pancakeswap.finance/en/futures/v2/)로 이동하거나 홈페이지에서 "Perpetuals"를 선택합니다.
-2. 화면 오른쪽 상단에서 "Long" 또는 "Short" 포지션을 선택하고 레버리지 편집기를 클릭하여 1001x 레버리지를 선택합니다.
-3. 수량과 적절한 레버리지를 선택합니다.
-4. 익절 수량(50%에서 300% 사이)을 선택하고 **open position**을 선택합니다.
-5. 포지션은 화면 하단의 "positions" 탭에 표시됩니다.
-6. 포지션을 종료하려면 포지션 옆의 "close" 버튼을 누르세요. 그렇지 않으면 디젠 모드 종료가 익절 또는 청산 시점에 자동으로 실행됩니다. 자세한 내용은 [perpetuals-glossary.md](../perpetuals-glossary.md "mention") 및 [perpetual-trading-faq](../perpetual-trading-faq/ "mention")를 참고하세요.
+1. Go to [https://perp.pancakeswap.finance/en/futures/v2/](https://perp.pancakeswap.finance/en/futures/v2/) or select "Perpetuals" on our home page.
+2. On the top right of the screen, select "Long" or "Short" position and click on leverage editor to select 1001x leverage.
+3. Select the amount and appropriate leverage.
+4. Select take profit amount (between 50% and 300%) and select **open position**.
+5. Your position will be reflected in the "positions" tab at the bottom of the screen.
+6. To close the position, hit the "close" button at the side of the position. Otherwise, Degen Mode close will automatically be executed at take profit or liquidation period. For more information, please refer to [perpetuals-glossary.md](../perpetuals-glossary.md "mention") and [perpetual-trading-faq](../perpetual-trading-faq/ "mention").

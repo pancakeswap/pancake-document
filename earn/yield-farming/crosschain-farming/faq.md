@@ -1,112 +1,112 @@
-# 자주 묻는 질문 (FAQ)
+# FAQ
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28101%29.png" alt=""><figcaption><p>\</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (113).png" alt=""><figcaption><p>\</p></figcaption></figure>
 
-### 다른 블록체인의 PancakeSwap에서는 무엇을 하면 되나요?
+### What should I do on PancakeSwap on other blockchains?
 
-지금까지 해 오신 것처럼 유동성을 공급하고, 거래하고, 파밍하세요. 이미 멀티체인 사용자라면 Ethereum 등 PancakeSwap이 배포된 다른 블록체인에서도 유동성을 공급해 보세요. BNB Smart Chain에서 CAKE 보상을 제공하므로, 자산을 브릿지하지 않고도 더 많은 CAKE를 획득할 수 있습니다!
+Provide liquidity, trade and farm as you always have been. If you are a multichain user already, remember to provide liquidity on PancakeSwap on other blockchains that we've deployed on (like Ethereum), as we have CAKE rewards on BNB Smart Chain for you, allowing you to earn even more CAKE without bridging those assets over!
 
-### **더 많은 페어가 추가되나요?**
+### **Will there be more pairs?**
 
-네, 하지만 사용자 자금의 안전과 CAKE 인플레이션을 우선시하기 위해 단계적으로 배포할 예정입니다. 다른 블록체인의 PancakeSwap에 어떤 것을 추가하면 좋을지, 그리고 PancakeSwap을 어떤 다른 블록체인에 배포해야 할지 커뮤니티 채팅에서 의견을 들려주세요.
+Yes, but we will be deploying in steps to ensure we prioritize the safety of user funds and CAKE inflation. Do let us know in the community chats what you think should be added to PancakeSwap on other blockchains, as well as what other blockchains we should deploy PancakeSwap on.
 
-### **LP 토큰을 스테이킹할 때 가스 비용이 높은 이유는 무엇인가요?**
+### **Why the gas cost for staking LP tokens is high?**
 
-최초 설정을 위해 소량의 네이티브 토큰(예: Ethereum의 ETH)이 필요합니다. 따라서 첫 번째 트랜잭션은 비용이 약간 더 듭니다.
+A small amount of native token (for example, ETH on Ethereum) is required for the first-time setup. So the first transaction will be slightly costly.
 
-또한 크로스체인 파밍에는 다른 수수료(대부분 가스 비용)가 포함됩니다. 자세한 내용은 [이](faq.md#are-there-any-fees-when-i-do-crosschain-farming) 전용 섹션을 확인하세요.
+Plus, there are other fees (mostly gas costs) involved in cross-chain farming. Check out [this](faq.md#are-there-any-fees-when-i-do-crosschain-farming) dedicated section to learn more.
 
-### **스테이킹 및 언스테이킹이 완료되기까지 30분이 걸리는 이유는 무엇인가요?**
+### **Why do staking and unstaking take 30 minutes to complete?**
 
-모든 크로스체인 트랜잭션은 완료되기까지 약 30분이 걸립니다. 이유는 다음과 같습니다.
+All cross-chain transactions will take around 30 minutes to complete. It is because:
 
-* 파밍이 이루어지는 블록체인(예: Ethereum)과 BNB 체인 양쪽에서 트랜잭션이 실행되어야 합니다.
-* 크로스체인 메시지를 전달하는 데 시간이 걸립니다.
-* 안전을 보장하고 서로 다른 블록체인 간의 모든 데이터가 동기화되고 일관성을 유지하도록 하기 위해서입니다.
+* Transactions have to be executed on both the farming blockchain (like Ethereum) and the BNB Chain.
+* Delivering cross-chain messages takes time.
+* To ensure safety and all the data are synced and consistent between different blockchains.
 
-### **수확한 CAKE 보상은 어디에 있나요?**
+### **Where are my harvested CAKE rewards?**
 
-수확한 CAKE는 BNB Smart Chain으로 분배됩니다. CAKE 잔액을 확인하려면 지갑의 블록체인 네트워크를 전환하세요.
+Your harvested CAKE will be distributed on BNB Smart Chain. Please switch the blockchain network in your wallet to check the balance of CAKE.
 
-### **지갑이 다른 블록체인 간 전환을 지원하지 않아 수확할 수 없습니다!**
+### **I can't harvest because my wallet doesn't support switching between different blockchains!**
 
-멀티체인과 체인 전환을 지원하는 다른 지갑 앱을 사용해 보세요.
+Please try using a different wallet app that supports multichain and chain switching.
 
-LP 토큰을 스테이킹하거나 언스테이킹하면 획득한 모든 CAKE도 BNB Smart Chain의 지갑으로 수확된다는 점에 유의하세요. 따라서 다른 지갑 앱을 사용하고 싶지 않다면, 소량의 LP 토큰을 추가로 스테이킹하거나 언스테이킹하여 획득한 CAKE를 수확하세요.
+Please note that staking and unstaking LP tokens will also harvest all the earned CAKE to your wallet on BNB Smart Chain. Therefore if you don't want to use a different wallet app, simply stake more, or unstake a tiny amount of LP tokens to harvest your earned CAKE.
 
-### 크로스체인 파밍을 할 때 수수료가 있나요?
+### Are there any fees when I do crosschain farming?
 
-BNB 체인에서 네이티브로 파밍하는 것과 달리, 다른 블록체인에서의 파밍에는 크로스체인 활동이 필요합니다. 관련 수수료는 다음과 같습니다.
+Unlike farming natively on BNB Chain, farming on other blockchains requires cross-chain activities. Here are the fees involved:
 
-**1 - 프록시 컨트랙트 생성 가스비**
+**1 - Gas fee to create a proxy contract**
 
-크로스체인 파밍을 위해서는 BNB 체인에 프록시 컨트랙트를 생성해야 합니다. 프록시 컨트랙트 생성에 필요한 가스 비용은 트랜잭션에 포함됩니다.
+A proxy contract has to be created on the BNB Chain for cross-chain farming. The gas cost for proxy contract creation is included in the transaction.
 
-이 수수료는 첫 번째 "스테이킹" 트랜잭션 시 한 번만 부과됩니다.
+This fee only charges once upon the first "stake" transaction.
 
-**2 - BNB 체인 호출 가스비**
+**2 - Gas fee for calls on BNB Chain**
 
-사용자가 LP 토큰을 예치하거나 출금할 때, 실행자(executor)가 BNB 체인에서 사용자를 대신하여 트랜잭션 호출을 수행합니다. 이러한 호출에 필요한 가스 비용은 트랜잭션에 포함됩니다.
+When users deposit or withdraw LP tokens. An executor will perform transactions calling on behave of the users on the BNB Chain. The gas cost for these calls is included in the transaction.
 
-이 수수료는 모든 예치 또는 출금 트랜잭션마다 부과됩니다.
+This fee is charged in every deposit or withdrawal transaction.
 
-**3 - 다른 블록체인 호출 가스비**
+**3 - Gas fee for calls on other blockchains**
 
-사용자가 LP 토큰을 출금할 때, 실행자가 다른 블록체인(예: Ethereum)에서 LP 토큰을 해제하는 최종 트랜잭션 호출을 수행합니다. 이러한 호출에 필요한 가스 비용은 트랜잭션에 포함됩니다.
+When users withdraw LP tokens. An executor will perform the final transactions calling to release the LP tokens on other blockchains (like Ethereum). The gas cost for these calls is included in the transaction.
 
-이 수수료는 출금 트랜잭션에만 부과됩니다.
+This fee is only charged in withdrawal transactions.
 
-**4 - 크로스체인 메시징 수수료**
+**4 - Cross-chain messaging fee**
 
-크로스체인 메시지를 전달하기 위해 Celer가 제공하는 메시지 버스를 사용합니다. 따라서 메시지의 바이트 길이에 따라 메시지 수수료가 포함됩니다.
+We utilise a message bus powered by Celer to route our cross-chain messages. Therefore a messages fee is included based on the byte length of the message.
 
-이 수수료는 모든 스테이킹 트랜잭션마다 부과됩니다. 언스테이킹 트랜잭션에서는 안전을 위해 BNB 체인과 다른 블록체인 간 양방향 통신이 필요하므로 이 수수료가 두 번 부과됩니다.
+This fee is charged in every stake transaction. In unstake transactions, this fee is charged twice since a two-way communication between BNB Chain and other blockchains is required for safety.
 
 ```
 messagingFee = feeBase + message.length * feePerByte;
 ```
 
-공식의 변수는 메시지 버스 컨트랙트에서 확인할 수 있습니다.
+You may find the variables in the formula with in the message bus contract:
 
 * Ethereum: `0x4066d196a423b2b3b8b054f4f40efb47a74e200c`
 * BNB Chain: `0x95714818fdd7a5454f73da9c777b3ee6ebaeea6b`
 
-**5 - 스타터 펀드**
+**5 - The starter fund**
 
-이것은 엄밀히 말해 "수수료"가 아닙니다.&#x20;
+This is not strictly a "fee".
 
-PancakeSwap 크로스체인 파밍을 처음 시작하는 모든 신규 사용자에게는 첫 번째 "스테이킹" 트랜잭션에서 0.005 BNB를 BNB 체인 지갑에 입금해 드립니다. 이에 해당하는 파밍 체인의 네이티브 토큰(예: Ethereum의 ETH) 금액은 가격 오라클이 제공하는 시장 환율을 사용하여 예치 트랜잭션에서 차감됩니다.
+For every new user who started doing PancakeSwap cross-chain farming. In the first “stake” transaction, we will deposit 0.005 BNB into their BNB Chain wallet. The corresponding amount of native tokens on the farming chain (like ETH on Ethereum) will be charged from the deposit transaction, using the market rate provided by the price oracle.
 
-이는 사용자가 BNB 체인 여정을 쉽게 시작할 수 있도록 돕기 위한 것입니다. 수확한 CAKE는 모두 가지고 있는데 가스비로 사용할 BNB를 얻을 다른 방법을 찾지 못해 생동감 넘치는 PancakeSwap 생태계를 탐험하지 못하는 불편함을 저희도 잘 알고 있습니다.
+This is to help users start their BNB Chain journey with ease. We understand the painfulness of having all the harvested CAKE but not being able to explore the vivid PancakeSwap ecosystem without finding another way to acquire BNB for gas.
 
-이 수수료는 첫 번째 "스테이킹" 트랜잭션 시 한 번만 부과됩니다.
+This fee only charges once upon the first "stake" transaction.
 
-### 배출량은 어디에서 오나요?&#x20;
+### Where are the emissions coming from?
 
-현재 셰프들은 블록당 0.0189 CAKE를 CAKE 풀에서 모든 크로스체인 파밍으로 돌렸습니다.&#x20;
+For now, Chefs have diverted 0.0189 CAKE per block from the CAKE pool to all crosschain farms.
 
-배출량 내역은 다음과 같습니다.
+Here is the emissions breakdown:
 
-<table><thead><tr><th width="249"></th><th>배수</th><th>블록당 CAKE</th></tr></thead><tbody><tr><td><strong>CAKE 풀</strong></td><td>-</td><td><strong>8.9811</strong></td></tr><tr><td><strong>모든 크로스체인 파밍</strong></td><td>-</td><td><strong>0.0189</strong></td></tr><tr><td>Ethereum ETH/USDC</td><td>0.5x</td><td>0.0105</td></tr><tr><td>Ethereum ETH/USDT</td><td>0.2x</td><td>0.0042</td></tr><tr><td>Ethereum WBTC/ETH</td><td>0.2x</td><td>0.0042</td></tr></tbody></table>
+<table><thead><tr><th width="249"></th><th>Multiplier</th><th>CAKE per block</th></tr></thead><tbody><tr><td><strong>CAKE Pool</strong></td><td>-</td><td><strong>8.9811</strong></td></tr><tr><td><strong>All Crosschain Farms</strong></td><td>-</td><td><strong>0.0189</strong></td></tr><tr><td>Ethereum ETH/USDC</td><td>0.5x</td><td>0.0105</td></tr><tr><td>Ethereum ETH/USDT</td><td>0.2x</td><td>0.0042</td></tr><tr><td>Ethereum WBTC/ETH</td><td>0.2x</td><td>0.0042</td></tr></tbody></table>
 
-### 예치, 수확, 출금 시 어떤 일이 일어나나요?
+### What happened during the deposit, harvest and withdrawal?
 
-PancakeSwap 크로스체인 파밍은 동일한 PancakeSwap MasterChef를 사용하여 BNB 체인에서 "대역(stand-in)" LP 토큰으로 파밍하는 것과 같습니다. CAKE 보상은 BNB 체인에서 계산되고 분배되며, 동일한 MasterChef 컨트랙트가 이를 제어하고 보호합니다.
+PancakeSwap crosschain farming is like using a "stand-in" LP token to farm on the BNB Chain, with the same PancakeSwap MasterChef. The CAKE rewards are calculated and distributed on BNB Chain, controlled and guarded by the same MasterChef contract.
 
-#### 예치 시:
+#### Upon Deposit:
 
-1. 사용자가 파밍 블록체인(예: Ethereum)에서 LP 토큰 예치를 요청합니다.
-2. LP 토큰이 파밍 볼트 컨트랙트로 전송됩니다.
-3. Celer 메시지 버스를 사용하여 "예치" 메시지를 BNB 체인으로 전달합니다.
-4. BNB 체인의 실행자가 "대역"으로서 동일한 수량의 파밍 토큰을 발행한 다음 이를 파밍에 예치합니다.
+1. Users request depositing LP tokens on farming blockchains (like Ethereum).
+2. LP tokens are being transferred to farming vault contracts.
+3. Celer message bus is utilised to deliver the "deposit" message to BNB Chain.
+4. An executor on BNB Chain mints the same amount of farming tokens as "stand-ins", and then deposits them into the farms.
 
-#### 수확 시:
+#### Upon Harvesting:
 
-CAKE 보상은 BNB 체인에서 계산되고 분배되므로, 사용자는 크로스체인 작업 없이 한 번의 BNB 체인 트랜잭션으로 CAKE 보상을 수령할 수 있습니다.
+Since CAKE rewards are calculated and distributed on BNB Chain. Users can claim their CAKE rewards with a single BNB Chain transaction without the need for cross-chain operations.
 
-#### 출금 시:
+#### Upon Withdrawal:
 
-1. 사용자가 파밍 블록체인(예: Ethereum)에서 LP 토큰 출금을 요청합니다.
-2. Celer 메시지 버스를 사용하여 "출금" 메시지를 BNB 체인으로 전달합니다.
-3. BNB 체인의 실행자가 파밍에서 파밍 토큰을 출금하고, 해당 토큰을 소각하고, 획득한 CAKE를 사용자에게 전송하며, Celer 메시지 버스를 사용하여 확인 메시지를 원래의 파밍 블록체인으로 다시 전달합니다.
-4. 파밍 블록체인의 실행자가 모든 것을 확인한 다음 볼트 컨트랙트에서 LP 토큰을 해제합니다.
+1. Users request withdrawing LP tokens on farming blockchains (like Ethereum).
+2. Celer message bus is utilised to deliver the "withdraw" message to BNB Chain.
+3. An executor on BNB Chain withdraws the farming tokens from the farms, burns those tokens, transfers the earned CAKE to users, and utilises the Celer message bus to deliver the confirmation message back to the original farming blockchain.
+4. An executor on the farming blockchain confirms everything and then releases the LP tokens from the vault contracts.

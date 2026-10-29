@@ -1,27 +1,25 @@
-# 대시보드 및 링크
+# Dashboard & Link
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/affiliate-landing-page-07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/affiliate-landing-page-07.png" alt=""><figcaption></figcaption></figure>
 
-제휴 대시보드는 제휴 프로그램의 본부입니다. 이곳에서 링크를 만들고 공유할 수 있으며 보상을 추적하고 교환할 수도 있습니다.
+The affiliate dashboard is the headquarters of the affiliate program. Here, you will be able to create and share links while also tracking and redeeming rewards.
 
-대시보드에 접근하고 제휴 링크를 생성하는 단계는 다음과 같습니다.
+Here are the following steps to access the dashboard and generate an affiliate link:
 
-1. **제휴 대시보드 접속**&#x20;
-   1. [제휴 프로그램](https://pancakeswap.finance/affiliates-program) 페이지로 이동합니다.&#x20;
-   2. 신청서 제출에 사용한 지갑으로 로그인합니다.
-   3. '대시보드 탭'을 클릭합니다.
-   4. 로그인하라는 메시지가 표시될 수 있습니다. 원하는 암호화폐 지갑으로 로그인하세요.
-2.  **링크 생성**
+1. **Access Affiliate Dashboard**
+   1. Head to [Affiliate Program](https://pancakeswap.finance/affiliates-program) Page
+   2. Sign in with the wallet used in the application submission
+   3. Click on the ‘Dashboard tab’
+   4. You might be prompted to login. Login with your crypto wallet of choice.
+2.  **Generate Link**
 
-    1. 대시보드 페이지에서 링크 생성 섹션으로 이동합니다.&#x20;
-    2.  해당 링크의 고유 코드와 수익 공유 비율을 설정합니다. 이에 대한 자세한 내용은 [여기](commission-structure-and-payment.md)에서 확인할 수 있습니다.\
-        &#x20;
+    1. On the Dashboard page, head to the generate link section.
+    2.  Set the unique code and profit-sharing rate for the specific link. More information on this can be found [here](commission-structure-and-payment.md)<br>
 
-        <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/affiliate-landing-page-10.png" alt=""><figcaption></figcaption></figure>
-    3. "링크 생성"을 누르고 서명을 승인합니다. 링크가 생성되었다는 팝업이 표시됩니다.
-    4.  하단의 링크 섹션으로 이동하여 생성된 링크를 복사합니다. <br>
+        <figure><img src="../../.gitbook/assets/affiliate-landing-page-10.png" alt=""><figcaption></figcaption></figure>
+    3. Hit “Generate Link” and approve the signature. There should be a popup notifying you that a link has been generated.
+    4.  Move to the links section at the bottom and copy the link created.<br>
 
-        <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/affiliate-landing-page-09.png" alt=""><figcaption></figcaption></figure>
+        <figure><img src="../../.gitbook/assets/affiliate-landing-page-09.png" alt=""><figcaption></figcaption></figure>
 
-    완료되면 커뮤니티와 제휴 링크를 공유할 수 있으며, 친구들이 PancakeSwap에서 거래할 때 수수료를 받게 됩니다. 신규 사용자 자격 기준에 대한 자세한 내용은 [이용 약관](terms-and-conditions.md) 페이지를 참조하세요.
-
+    Once completed, you can share the affiliate link with your community and earn a commission fee when your friends trade on PancakeSwap. For more information on how we qualify a new user, please visit the [Terms & Conditions](terms-and-conditions.md) page.

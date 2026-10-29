@@ -2,77 +2,77 @@
 hidden: true
 ---
 
-# 마켓 메이커 통합
+# Market Maker Integration
 
 <figure><img src="https://lh3.googleusercontent.com/pHBaGjeEHE3pCfmOWyBxvRThu0HiDK9K3jAhAN9dLka4c3zBDij-n0e9yY4LA6YjqYj2m4tBPjfoGoZunt2VCwTcDqtlWU5Km61x2IQ_T66olebgLn-yy1VodKww4Fn2YQuR_fwcJSAbR0MgsHkD0RY" alt=""><figcaption></figcaption></figure>
 
-### Ethereum의 마켓 메이커 통합
+### Market Maker Integration on Ethereum
 
-PancakeSwap은 Ethereum과 Binance Smart Chain에서 마켓 메이커와 통합되어 트레이더가 더 낮은 비용으로 거래를 체결할 수 있도록 돕습니다.
+PancakeSwap is integrated with market makers on Ethereum and Binance Smart Chain to help traders execute trades at a lower cost.
 
-이제 PancakeSwap의 거래는 AMM 외에도, 지정된 화이트리스트 마켓 메이커가 AMM의 현재 가격보다 더 좋은 체결을 제공하는 경우 해당 마켓 메이커로 라우팅될 수 있습니다. 이 라우팅은 [Smart Router](smart-router-v2/)가 자동으로 처리하며, 마켓 메이커가 더 좋은 가격을 적극적으로 제시할 때에만 거래가 마켓 메이커로 라우팅됩니다. AMM이 더 경쟁력 있는 경우에는 AMM으로 라우팅되어 체결됩니다.
+In addition to the AMM, trades on PancakeSwap can now be routed to designated white-listed market makers if they offer trade execution that is better than the AMM’s current prices. This routing is done automatically by a [Smart Router](smart-router-v2/) so that trades are only routed to market makers when they are actively quoting better prices. Where the AMM is more competitive, traders will be routed to the AMMs for execution.
 
-PancakeSwap에서 마켓 메이커가 운영되는 시나리오는 두 가지입니다.
+There are 2 scenarios in which market makers operate on PancakeSwap.
 
-**시나리오 1: 기존 AMM 유동성 풀이 있는 경우**
+**Scenario 1: Existing AMM liquidity pools**
 
-특정 토큰(예: WETH/USDC)에 대한 유동성이 이미 PancakeSwap AMM에 있다면, PancakeSwap은 동일한 거래에 대해 마켓 메이커에게 견적을 요청합니다. 그러면 PancakeSwap의 Smart Router가 그 시점에 가장 좋은 가격을 제공하는 유동성 소스에 따라 거래 요청을 AMM 또는 마켓 메이커로 라우팅합니다.
+If PancakeSwap already has liquidity for a given token (e.g. WETH/USDC) in the AMM, PancakeSwap will ask market makers for a quote on the same trade. PancakeSwap’s smart router will then route the trade request to the AMM or the market makers depending on which source of liquidity is giving the best price at any given time.
 
-**시나리오 2: 기존 AMM 유동성 풀이 없는 경우**
+**Scenario 2: No existing AMM liquidity pools**
 
-이 경우 Smart Router가 거래를 마켓 메이커로 자동 라우팅합니다. 다만 프로젝트가 이후에 AMM 유동성 풀을 만들고 저희와 협력하여 탈중앙화 DEX 유동성을 유지하는 것을 막지는 않습니다.
+In such a scenario, the smart router will automatically route the trade to the market makers. However, this does not stop projects from setting up their AMM liquidity pool subsequently and working with us to maintain decentralized DEX liquidity.
 
-### 수수료
+### Fees
 
 <figure><img src="https://lh6.googleusercontent.com/FKgYOPK6ykAbonNz4naPupdPg4W5XocmUJOEYeH7MsmY-0TrkSepYB2qir4PGlfgY6CKTS0nOq5XIXzm3dO9wGr-9pvXz1NXLSGMg3Ff9IlqIokcHiNDsB9eaoy3l395TL-O71480hetL-iRq1ILhUw" alt=""><figcaption></figcaption></figure>
 
-PancakeSwap은 마켓 메이커가 체결하는 거래에 대해 트레이더에게 어떠한 수수료도 부과하지 않습니다. 대신 PancakeSwap은 화이트리스트 마켓 메이커가 체결한 거래량에 대해 마켓 메이커로부터 **0.05%**의 **거래 수수료**를 받습니다. 스테이블코인 페어 간 거래의 경우에는 낮아진 **0.01%**의 **거래 수수료**를 받습니다. 아래 수수료 내역을 참고하세요.<br>
+PancakeSwap does not charge traders any fees executed through us and which are executed by the market makers. However, PancakeSwap receives **0.05%** **trading fees** from whitelisted market makers for volumes executed by them. PancakeSwap receives a reduced **0.01%** **trading fee** if the trades executed are between stablecoin pairs. Please refer to the fee breakdown below:<br>
 
-<table><thead><tr><th width="178">거래</th><th width="138">거래 수수료</th><th width="182">MM으로부터의 PCS 수수료</th><th width="147">CAKE 소각</th><th align="center">PancakeSwap 트레저리</th></tr></thead><tbody><tr><td>다른 네트워크에서 브릿지된 코인</td><td>해당 없음</td><td>0.25%</td><td>0.083%</td><td align="center">0.167%</td></tr><tr><td>Ethereum의 비스테이블코인 (예: ETH/USDC)</td><td>해당 없음</td><td>0.05%</td><td>0.017%</td><td align="center">0.033%</td></tr><tr><td>BSC의 비스테이블코인 (예: BNB/USDT)</td><td>해당 없음</td><td>0.05%</td><td>0.017% </td><td align="center">0.033%</td></tr><tr><td>Ethereum의 스테이블코인 간 거래</td><td>해당 없음</td><td>0.01%</td><td>0.003%</td><td align="center">0.007%</td></tr></tbody></table>
+<table><thead><tr><th width="178">Trades</th><th width="138">Trading Fees</th><th width="182">PCS fee from MM</th><th width="147">Cake Burn</th><th align="center">PancakeSwap Treasury</th></tr></thead><tbody><tr><td>Bridged coins from other networks</td><td>N/A</td><td>0.25%</td><td>0.083%</td><td align="center">0.167%</td></tr><tr><td>Non-stablecoin on Ethereum (e.g. ETH/USDC)</td><td>N/A</td><td>0.05%</td><td>0.017%</td><td align="center">0.033%</td></tr><tr><td>Non-stablecoin on BSC (e.g. BNB/USDT)</td><td>N/A</td><td>0.05%</td><td>0.017%</td><td align="center">0.033%</td></tr><tr><td>Stablecoin to Stablecoin on Ethereum</td><td>N/A</td><td>0.01%</td><td>0.003%</td><td align="center">0.007%</td></tr></tbody></table>
 
-#### 현재 지원되는 자산
+#### Assets currently supported
 
-현재 다음 자산이 지원되며, 마켓 메이커에 따라 늘어나거나 줄어들 수 있습니다.
+The following assets are currently supported and may increase/decrease depending on the market maker(s):
 
-**Ethereum**
+**On Ethereum**
 
-* **메이저 자산:** WETH, WBTC
-* **스테이블코인:** USDT, USDC, DAI, BUSD
-* **기타 인기 ERC-20 자산:** MATIC, DYDX, CRV, LINK, APE, CVX, STG, LDO, SNX, RNDR, FET
+* **Majors:** WETH, WBTC
+* **Stablecoins:** USDT, USDC, DAI, BUSD
+* **Other popular ERC-20 assets:** MATIC, DYDX, CRV, LINK, APE, CVX, STG, LDO, SNX, RNDR, FET
 
-**Binance Smart Chain**
+**On Binance Smart Chain:**
 
-* **메이저 자산:** BNB, ETH, BTCB
-* BNB 네이티브가 아닌 토큰: ARB, OP
+* **Majors:** BNB, ETH, BTCB
+* Non-native BNB tokens: ARB, OP
 
-AMM과 달리 마켓 메이커는 모든 수량을 거래할 수 있는 것은 아니며, 체결 가능한 수량은 각 마켓 메이커의 유동성에 따라 달라진다는 점에 유의하세요. 매우 큰 주문은 전량 체결되지 않는 경우도 드물지 않습니다. 각 거래가 원하는 가격과 수량을 반영하는지 견적을 꼼꼼히 확인하시기 바랍니다.
+Please note that unlike AMMs, market makers will not be able to trade at any amount and the amounts they are willing to execute will depend on their own liquidity. It is not unusual that sometimes very large orders cannot be totally fulfilled. We advise users to please review the quotes carefully to ensure that each trade reflects the price and quantity according to their needs.
 
-**마켓 메이커 중단 시간**
+**Market maker downtimes**
 
-마켓 메이커가 24시간 내내 견적을 제시하는 것은 아닙니다. 주요 경제 이벤트나 시스템 업그레이드 등으로 마켓 메이커가 일시적으로 견적을 제공하지 못하는 경우가 있습니다. 이 기간에는 해당 토큰을 거래할 수 없으며, 마켓 메이커가 다시 온라인 상태가 될 때까지 잠시 기다려 주시기 바랍니다.
+Market makers are not expected to quote 24-7. There are some instances (e.g. key economic events, system upgrades) where the market maker may be temporarily unavailable to provide a quote. Please note during these periods, these tokens will simply not be tradable, and we advise users to wait for some time before the market maker comes back online.
 
-#### 자주 묻는 질문 (FAQ)
+#### FAQs
 
-**Q.** 마켓 메이커가 Aptos에도 통합되나요?
+**Q.** Will the market makers be integrated on Aptos?
 
-**답변:** 가능성은 있습니다. 더 나은 사용자 경험을 위한 유동성 확대를 위해 현재는 Ethereum과 Binance Smart Chain에만 마켓 메이커 통합을 출시하며, 다른 체인도 계속 살펴보겠습니다.
+**Ans:** Possibly, we are only launching market makers integration on Ethereum and Binance Smart Chain for now to boost the liquidity for a better user experience. We will continue to monitor other chains.
 
-**Q.** 사용자에게 수수료를 부과하지 않는다면 PancakeSwap은 어떻게 수익을 얻나요?
+**Q.** How will PancakeSwap generate revenue if it does not charge users a fee?
 
-**답변:** PancakeSwap은 사용자에게 어떠한 수수료도 부과하지 않지만, 마켓 메이커로부터 소정의 수수료를 받아 CAKE 바이백 및 소각에 사용합니다.
+**Ans:** PancakeSwap will not charge any fees from users, but PancakeSwap will receive a small commission from market makers and use that to fund the CAKE buyback and burn.
 
-**Q.** 유동성 공급자는 계속 LP 수수료를 받나요?
+**Q.** Will Liquidity providers continue to earn LP fees?
 
-**답변:** 네, 유동성 공급자는 앞으로도 0.17%의 거래 수수료 보상(LP 수수료)과 CAKE 파밍 수익을 계속 받게 됩니다.
+**Ans:** Yes, liquidity providers will continue to earn 0.17% trading fee reward (LP fees) and yield on the CAKE farms.
 
-**Q.** 마켓 메이커가 AMM에 유동성을 공급하나요? 그러면 APR이 낮아지나요?
+**Q.** Will the market makers add liquidity to the AMM? Will that cause APR to go down?
 
-**답변:** 마켓 메이커는 별도의 자체 유동성을 운용하므로 AMM 거래로부터 APR을 얻지 않습니다. AMM 풀에 유동성을 공급하는 LP만 수수료와 APR을 받습니다.
+**Ans:** Market makers maintain their own separate liquidity, and hence won’t be earning any APR from trades on the AMM. Only LPs will earn fees and APRs from providing liquidity to the AMM pools.
 
-**Q.** Ethereum PancakeSwap에서 유동성을 공급하고 있습니다. 따로 해야 할 일이 있나요?
+**Q.** I’m providing liquidity on Ethereum PancakeSwap. Do I need to do anything?
 
-**답변:** 아니요, 아무것도 하실 필요가 없습니다. AMM을 통해 체결된 거래에 대한 LP 수수료를 계속 받으시고, CAKE 수익도 계속 얻으실 수 있습니다.
+**Ans:** No, You don’t have to do anything. You will continue to earn the LP fees for the trades executed through AMM and will continue to make the yield in CAKE.
 
-**Q.** 마켓 메이커가 되려면 어떻게 해야 하나요?
+**Q.** How can someone become a market maker?
 
-**답변:** 저희는 마켓 메이커를 개별적으로 심사하고 협력합니다. 협력에 관심이 있으시면 저희 또는 운영진을 통해 직접 문의해 주세요.
+**Ans:** We screen and work with market makers on an individual basis. Please approach us directly or through our admins if you have an interest in working with us.

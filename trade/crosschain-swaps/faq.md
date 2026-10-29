@@ -1,89 +1,89 @@
-# ❓ 자주 묻는 질문 (FAQ)
+# ❓ FAQ
 
-### 1. 크로스체인 스왑에서 슬리피지 허용치는 어떻게 작동하나요?
+### 1. How does slippage tolerance work for Crosschain swaps?
 
-크로스체인 스왑에서는 선택한 슬리피지 허용 비율이 출발 체인과 도착 체인의 스왑에 각각 독립적으로 적용됩니다.
+For Crosschain swaps, your selected slippage tolerance percentage is applied independently to swaps on both the source and destination chains.
 
-**예시:**
+**Example:**
 
-* BNB Chain의 BNB를 Arbitrum의 ARB로 스왑
-* 슬리피지 허용치를 1%로 설정
-* 경로는 다음과 같을 수 있습니다.
-  1. BNB Chain에서 BNB를 USDC로 스왑
-  2. Across를 통해 BNB Chain에서 Arbitrum으로 USDC 브릿징
-  3. Arbitrum에서 USDC를 ARB로 스왑
-* 이 경우 1% 슬리피지 허용치는 다음 각각에 별도로 적용됩니다.
-  * BNB Chain에서의 스왑
-  * Arbitrum에서의 스왑
+* Swap BNB on BNB Chain to ARB on Arbitrum
+* Slippage tolerance set to 1%
+* The route could be:
+  1. Swap BNB to USDC on BNB Chain
+  2. Bridge USDC from BNB Chain to Arbitrum via Across
+  3. Swap USDC to ARB on Arbitrum
+* In this case, the 1% slippage tolerance applies separately to:
+  * The swap on BNB Chain
+  * The swap on Arbitrum
 
-이를 통해 트랜잭션의 양쪽 구간 모두에서 과도한 가격 변동으로부터 보호받으면서, 브릿징 과정 자체는 슬리피지 설정의 영향을 받지 않습니다.
+This ensures you’re protected from excessive price movements on both legs of the transaction while keeping the bridging process itself unaffected by slippage settings.
 
-### 2. 트랜잭션이 실패하면 어떻게 되나요?
+### 2. What happens if my transaction fails?
 
-크로스체인 스왑이 어느 단계에서든 실패하면 다음과 같이 처리됩니다.
+If your Crosschain swap encounters a failure at any stage, here’s how it’s handled:
 
-1.  **출발 체인에서의 스왑/트랜잭션 실패**
+1.  **Swap/Transaction Failure on Source Chain**
 
-    ➝ 출발 체인에서 원래 토큰을 즉시 돌려받습니다.
-2.  **브릿지 트랜잭션 실패**
+    ➝ You’ll instantly receive your original token back on the source chain.
+2.  **Bridge Transaction Failure**
 
-    ➝ Across는 90분에서 2시간 이내에 환불을 처리하며, 브릿징한 자산을 출발 체인에서 돌려받게 됩니다. SOL <> EVM 간에는 Relay가 이러한 경우 1분 이내에 환불을 처리합니다.
-3.  **도착 체인에서의 스왑 실패**
+    ➝ Across will process a refund within 90 minutes to 2 hours, and you’ll receive the bridged asset back on the source chain. While Relay processes the refund within a minute in such scenarios between SOL <> EVM.
+3.  **Swap Failure on Destination Chain**
 
-    ➝ 최종 목표 토큰으로의 스왑 없이, 브릿징된 자산을 도착 체인에서 받게 됩니다.
+    ➝ You’ll receive the bridged asset on the destination chain, without the final swap to your target token.
 
 {% hint style="info" %}
-**참고:** 지갑 연결 UI의 트랜잭션 내역 탭에서 언제든지 트랜잭션 상태를 확인할 수 있습니다.
+**Note:** You can always check the status of your transactions through the transaction history tab under wallet connect UI.
 {% endhint %}
 
-### 3. 크로스체인 스왑도 MEV로부터 보호되나요?
+### 3. Are my Crosschain swaps MEV protected?
 
-MEV Guard는 MEV Guard가 활성화된 연결된 지갑에서 스왑을 직접 시작하는 경우에 한해 BNB Chain에서만 지원됩니다.
+MEV Guard is only supported on the BNB Chain when swaps are initiated directly from a connected wallet with MEV Guard enabled.
 
-* 크로스체인 스왑에서 BNB Chain이 출발 체인이고 MEV Guard를 활성화했다면, 해당 스왑은 MEV로부터 보호됩니다.
-* BNB Chain이 도착 체인인 경우, 스왑은 연결된 지갑이 아니라 브릿지 릴레이어/시스템이 실행하므로 MEV로부터 보호되지 않습니다.
+* If your Crosschain swap involves a swap on BNB Chain as the source chain, and you have MEV Guard enabled, that swap will be MEV protected.
+* If BNB Chain is the destination chain, the swap is executed by the bridging relayer/system and will not be MEV protected, since it’s not initiated by your connected wallet.
 
 {% hint style="info" %}
-**참고:** Arbitrum, Base 등 다른 체인은 현재 PancakeSwap에서 MEV Guard 보호를 지원하지 않습니다.
+**Note:** Other chains like Arbitrum and Base currently do not support MEV Guard protection on PancakeSwap.
 {% endhint %}
 
-### 4. 체인 간에 스테이블코인을 스왑할 수 있나요?
+### 4. Can I swap stablecoins between chains?
 
-네. USDC, USDT, DAI 같은 스테이블코인을 지원되는 어떤 체인 간에서도 직접 스왑하고 브릿징할 수 있습니다.
+Yes — you can swap and bridge stablecoins like USDC, USDT, and DAI directly between any supported chains.
 
-두 가지 방법이 있습니다.
+You have two options:
 
-1.  **직접 브릿지:**
+1.  **Direct Bridge:**
 
-    지원되는 스테이블코인(USDC, USDT 등)을 한 체인에서 다른 체인으로 직접 브릿징합니다.
-2.  **다른 토큰으로 스왑:**
+    Bridge supported stablecoins (like USDC, USDT, etc) directly from one chain to another.
+2.  **Swap to Other Tokens:**
 
-    브릿징 전이나 후에 PancakeSwap의 유동성 풀을 사용해 스테이블코인을 도착 체인에서 지원되는 다른 토큰으로 스왑할 수도 있습니다.
+    You can also swap a stablecoin to any other token supported on the destination chain using PancakeSwap’s liquidity pools — either before or after bridging.
 
 {% hint style="info" %}
-**참고:** 직접 브릿징을 지원하는 스테이블코인은 체인에 따라 다를 수 있습니다.
+**Note:** Supported stablecoins for direct bridging may vary by chain.
 {% endhint %}
 
-### 5. 제 스왑에 PCSX가 사용되나요?
+### 5. Will my swaps use PCSX?
 
-아니요. 크로스체인 스왑 처리에는 PCSX가 지원되지 않습니다.
+No — PCSX is not supported for servicing Crosschain swaps.
 
-PancakeSwap의 크로스체인 스왑은 다음을 통해서만 라우팅됩니다.
+Crosschain swaps on PancakeSwap are exclusively routed through:
 
-* 온체인 스왑에는 **PancakeSwap의 유동성 풀**(v2, v3, Infinity, StableSwap)
-* 체인 간 자산 브릿징에는 **Across 및 Relay 프로토콜**
+* **PancakeSwap’s liquidity pools** (v2, v3, Infinity, StableSwap) for on-chain swaps, and
+* **Across & Relay protocols** for bridging assets between chains.
 
-PCSX는 크로스체인 스왑 트랜잭션의 어떤 부분도 처리하거나 라우팅하는 데 사용할 수 없습니다.
+PCSX cannot be used to facilitate or route any part of a Crosschain swap transaction.
 
-### 6. 스왑 금액에 최소 또는 최대 한도가 있나요?
+### 6. Is there a minimum or maximum limit on swap amount?
 
-네. 크로스체인 트랜잭션에는 최소 및 최대 한도가 모두 적용됩니다.
+Yes — both minimum and maximum limits apply to Crosschain transactions.
 
-* **최대 한도:**\
-  선택한 토큰과 체인의 브릿지 유동성에 따라 달라집니다. 이 값은 네트워크와 유동성 상황에 따라 실시간으로 변동될 수 있습니다.
-* **최소 한도:**\
-  릴레이어가 브릿지 트랜잭션을 처리하는 것이 경제적으로 타당하도록 설정됩니다.
+* **Maximum Limit:**\
+  Depends on the available bridge liquidity for the selected token and chain. This value can fluctuate in real-time based on network and liquidity conditions.
+* **Minimum Limit:**\
+  Set to ensure it’s economically viable for relayers to process the bridge transaction.
 
 {% hint style="info" %}
-**참고:** 정확한 최소/최대 한도는 브릿지 토큰마다 다릅니다. 트랜잭션 금액이 허용 범위를 벗어나면 인터페이스에 명확한 오류 메시지가 표시되며 금액을 조정하도록 안내합니다.
+**Note:** The exact min and max limits vary by bridge token. If your transaction amount is outside the allowed range, the interface will show a clear error message and prompt you to adjust the amount.
 {% endhint %}

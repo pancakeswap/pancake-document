@@ -1,120 +1,120 @@
-# 지갑 만들기 (SOL)
+# Create a wallet (SOL)
 
-### 1. **지갑이 필요한 이유**
+### 1. **Why You Need a Wallet**
 
-**Solana에서 PancakeSwap**을 이용하려면 **암호화폐 지갑**이 필요합니다. 지갑은 디지털 자산을 보관하는 개인 금고이자 DeFi로 들어가는 여권입니다. 지갑이 없으면 다음을 할 수 없습니다.
+To use **PancakeSwap on Solana**, you need a **crypto wallet** — it’s your personal vault for digital assets and your passport to DeFi. Without a wallet, you won’t be able to:
 
-* Solana에서 **토큰 스왑**
-* PancakeSwap의 **V3 풀**(자본 효율적인 집중 유동성 모델)에 **유동성 공급**
-* 모든 dApp 이용 또는 Solana에서 토큰 보관
+* **Swap tokens** on Solana
+* **Provide liquidity** to PancakeSwap’s **V3 Pools** (our capital-efficient, concentrated liquidity model)
+* Interact with any dApp or store tokens on Solana
 
 ***
 
-### 2. **지갑 설정 필수 사항 (보안이 최우선!)**
+### 2. **Wallet Setup Essentials (Security First!)**
 
-암호화폐 지갑은 자산을 완전히 통제할 수 있게 해 주지만, 큰 권한에는 큰 책임이 따릅니다. 다음 모범 사례를 따라 지갑을 안전하게 지키세요.
+Crypto wallets give you full control over your assets — but with great power comes great responsibility. Keep your wallet safe by following these best practices:
 
-| ✅ 해야 할 일                                                           | ❌ 하지 말아야 할 일                                         |
+| ✅ Do’s                                                                | ❌ Don’ts                                                 |
 | --------------------------------------------------------------------- | -------------------------------------------------------- |
-| ✅ **공식 출처에서 다운로드** (앱 스토어, 검증된 웹사이트)                 | ❌ 임의의 링크나 DM을 통해 설치하지 마세요                   |
-| ✅ 설정 안내를 **꼼꼼히 따르기**                                         | ❌ 서두르거나 백업 과정을 건너뛰지 마세요                    |
-| ✅ **복구 구문을 백업**하고 오프라인에 보관                               | ❌ 스크린샷을 찍거나 휴대폰/컴퓨터에 저장하지 마세요          |
-| ✅ **구문을 비공개로 유지** — 접근 권한을 복구할 수 있는 유일한 방법입니다 | ❌ "고객 지원"이라고 주장하는 사람에게도 절대 공유하지 마세요   |
-| ✅ 복구 구문은 **지갑 앱 내부에서만** 입력                                | ❌ 웹사이트, 팝업, 다른 앱에는 절대 입력하지 마세요           |
+| ✅ **Download from official sources** (app stores, verified websites)  | ❌ Don’t install from random links or DMs                 |
+| ✅ **Follow the setup instructions** carefully                         | ❌ Don’t rush or skip the backup process                  |
+| ✅ **Back up your recovery phrase** and store it offline               | ❌ Don’t screenshot or store it on your phone or computer |
+| ✅ **Keep your phrase private** — it's your only way to recover access | ❌ Never share it, even if someone claims to be "support" |
+| ✅ Only enter your recovery phrase **inside the wallet app**           | ❌ Never input it into websites, popups, or other apps    |
 
-> 🧠 복구 구문 = 지갑에 대한 접근 권한
-
-***
-
-### 3. **지갑 선택하기: 모바일 vs. 데스크톱**
-
-어떤 유형의 지갑을 사용할지 고민되시나요? 모바일 지갑과 데스크톱/웹 지갑을 간단히 비교했으니 본인에게 맞는 것을 선택하세요.
-
-| 특징             | **모바일 지갑**                       | **브라우저/데스크톱 지갑**                 |
-| --------------- | ----------------------------------- | --------------------------------------- |
-| **사용 사례**     | 이동 중 스왑 및 확인                   | 멀티태스킹 또는 심층적인 dApp 사용에 적합     |
-| **사용 편의성**   | 직관적이며 초보자 친화적               | 가벼운 확장 프로그램, 빠른 접근             |
-| **보안**         | 휴대폰 보안에 따라 다름                | 하드웨어 지갑 연동이 더 쉬움                |
-| **편의성**       | 올인원 앱                            | 더 수동적이지만 강력함                     |
-| **추천 대상**     | 일반 사용자, 모바일 중심 트레이더       | 데스크톱 사용자, 더 고급 작업               |
-
-> 📱 모바일 지갑은 거래, 포트폴리오 관리, NFT 탐색 등을 휴대폰 하나로 더 원활하게 이용할 수 있습니다.
+> 🧠 Your recovery phrase = access to your wallet
 
 ***
 
-### 4. **추천 Solana 지갑**
+### 3. **Choosing Your Wallet: Mobile vs. Desktop**
 
-> ⚠️ 참고: 현재 생태계 채택 현황을 기준으로 한 Solana 호환 지갑 일부입니다. 항상 DYOR(직접 조사)하세요.
+Not sure which type of wallet to use? Here’s a quick breakdown of mobile vs. desktop/web wallets so you can choose what fits your style:
 
-#### ✅ **멀티 플랫폼 지갑 (모바일 및 데스크톱)**
+| Feature         | **Mobile Wallets**                 | **Browser/Desktop Wallets**            |
+| --------------- | ---------------------------------- | -------------------------------------- |
+| **Use case**    | Swap & track on-the-go             | Best for multitasking or deep dApp use |
+| **Ease of use** | Intuitive, beginner-friendly       | Lightweight extensions, quick access   |
+| **Security**    | Depends on phone security          | Easier hardware wallet integration     |
+| **Convenience** | All-in-one app                     | More manual, but powerful              |
+| **Best for...** | Casual users, mobile-first traders | Desktop users, more advanced flows     |
 
-Solana 생태계에서 사용할 수 있는 인기 지갑(이에 국한되지 않음):
+> 📱 Mobile wallets can offer a smoother experience for trading, managing portfolios, and browsing NFTs — all from your phone.
+
+***
+
+### 4. **Recommended Solana Wallets**
+
+> ⚠️ Note: These are some Solana-compatible wallets based on current ecosystem adoption. Always DYOR (Do Your Own Research).
+
+#### ✅ **Multi-Platform Wallets (Mobile & Desktop)**
+
+Some popular wallets that you may use for the Solana ecosystem (not limited to):
 
 * Phantom: [https://phantom.com/](https://phantom.com/)
 * Solflare: [https://www.solflare.com/](https://www.solflare.com/)
 
-Phantom과 Solflare는 모두 다음 환경에서 사용할 수 있습니다.
+Both Phantom and Solflare are available on:
 
-* **iOS 및 Android 앱**
-* **웹 브라우저 확장 프로그램**
+* **iOS & Android apps**
+* **Web Browser extensions**
 
 ***
 
-#### 🔌 **WalletConnect 호환 옵션**
+#### 🔌 **WalletConnect-Compatible Options**
 
-**WalletConnect**를 사용하면 데스크톱 또는 모바일에서 다른 지갑을 Solana의 PancakeSwap에 바로 연결할 수 있습니다.
+Using **WalletConnect**, you can connect other wallets to PancakeSwap on Solana — directly from desktop or mobile:
 
 * **Binance Wallet**
 * **OKX Wallet**
 * **Jupiter Wallet**
-* **Backpack** 등
+* **Backpack,** and more
 
-> WalletConnect를 통해 PancakeSwap UI에서 연결할 때 지원되는 전체 지갑 목록이 표시됩니다.
-
-***
-
-### 5. **일반적인 지갑 설정 단계 (간단 가이드)**
-
-어떤 지갑을 선택하든 과정은 대체로 비슷합니다.
-
-1. **공식 출처**에서 지갑 앱 또는 브라우저 확장 프로그램을 **다운로드**합니다
-2. 앱을 실행하고 **"Create a new wallet"** 을 탭합니다
-   * (이미 지갑이 있다면 **"Import"** 를 선택합니다)
-3. 강력한 **비밀번호 또는 PIN**을 설정합니다 (필요한 경우)
-4.  **복구 구문**(12 또는 24단어)이 표시됩니다 —
-
-    → **적어서 오프라인의 안전한 곳에 보관하세요**
-5. **복구 구문을 확인**하여 설정을 완료합니다
-6.  **지갑에 SOL을 입금합니다**
-
-    → PancakeSwap에서 스왑하거나 유동성을 추가할 때 가스비를 지불하려면 **SOL**이 필요합니다
+> You’ll see a full list of supported wallets when connecting on the PancakeSwap UI via WalletConnect.
 
 ***
 
-> 왜 SOL인가요?
->
-> SOL은 **Solana 블록체인의 네이티브 토큰**이며 트랜잭션 수수료를 지불하는 데 사용됩니다.
->
-> PancakeSwap을 이용하기 전에 지갑에 일정량의 SOL을 보유하고 있어야 합니다.
+### 5. **General Wallet Setup Steps (Quick Guide)**
 
-다음과 같은 방법이 있습니다.
+No matter which wallet you choose, the process is generally similar:
 
-* 중앙화 거래소에서 SOL을 구매해 전송하기
-* 또는 [pancakeswap.finance/bridge](https://pancakeswap.finance/bridge)의 크로스체인 브릿지를 사용해 Solana로 자산 브릿지하기
+1. **Download** the wallet app or browser extension from its **official source**
+2. Launch the app and tap **“Create a new wallet”**
+   * (Or select **“Import”** if you already have one)
+3. Set a strong **password or PIN** (if required)
+4.  You’ll be shown a **recovery phrase** (12 or 24 words) —
 
-[SOL 받기](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-sol/get-sol-cake-on-sol)에서 방법을 확인하세요.
+    → **Write it down and store it somewhere safe, offline**
+5. **Confirm your recovery phrase** to complete setup
+6.  **Fund your wallet with SOL**
+
+    → You’ll need **SOL** to pay for gas fees when swapping or adding liquidity on PancakeSwap
 
 ***
 
-### 다음 단계로 넘어갈 준비가 되셨나요?
-
-지갑을 설정하고 SOL을 입금했다면 이제 다음을 할 수 있습니다.
-
-* Solana의 PancakeSwap에서 **토큰 스왑**:
-* **V3 풀에 유동성을 추가**하고 수익 창출 시작:
-
-> 💡 V3 풀이란?
+> Why SOL?
 >
-> PancakeSwap V3는 자본 효율을 극대화하도록 설계된 **집중 유동성** 모델을 사용합니다.
+> SOL is the **native token of the Solana blockchain** — it’s used to pay for transaction fees.
 >
-> 더 알고 싶으신가요? [유동성 풀](https://docs.pancakeswap.finance/earn/pancakeswap-pools) 섹션을 확인해 보세요.
+> Before you can interact with PancakeSwap, you’ll need to hold some SOL in your wallet.
+
+You can:
+
+* Buy SOL on a centralised exchange and transfer it in
+* Or bridge assets to Solana using a cross-chain bridge at [pancakeswap.finance/bridge](https://pancakeswap.finance/bridge)
+
+View here to see how to [Get SOL](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-sol/get-sol-cake-on-sol)
+
+***
+
+### Ready for the Next Step?
+
+Once your wallet is set up and funded with SOL, you’re ready to:
+
+* **Swap tokens** using PancakeSwap on Solana:
+* **Add liquidity to V3 Pools** and start earning:
+
+> 💡 What are V3 Pools?
+>
+> PancakeSwap V3 uses a **concentrated liquidity** model, designed to maximise capital efficiency.
+>
+> Want to learn more? Check out the [Liquidity Pools](https://docs.pancakeswap.finance/earn/pancakeswap-pools) section.

@@ -1,58 +1,58 @@
-# 심플 모드
+# Simple Mode
 
-심플 모드는 빠르게 행동하려는 트레이더를 위해 설계되었습니다. 수량을 정하고, 레버리지를 고르고, UP 또는 DOWN을 누르면 끝입니다.
+Simple Mode is designed for traders who want to act fast. Set your size, pick your leverage, and tap UP or DOWN — that's it.
 
-### **PCS Perps 페이지로 이동하기**
+### **Go to the PCS Perps page**
 
-[pancakeswap.finance/perps](https://pancakeswap.finance/perps)로 이동하거나 PancakeSwap 메인 내비게이션 바에서 Perps를 클릭하세요.
+Head to [pancakeswap.finance/perps](https://pancakeswap.finance/perps) or click Perps in the main PancakeSwap navigation bar.
 
-### **지갑 연결하기**
+### **Connect your wallet**
 
-오른쪽 상단의 Connect Wallet을 클릭하세요. 계정 생성이나 KYC가 필요 없으며, 지갑이 곧 계정입니다.
+Click Connect Wallet in the top right corner. No account creation or KYC required — your wallet is your account.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%287%29.png" alt="" width="507"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (472).png" alt="" width="507"><figcaption></figcaption></figure>
 
-### **거래 페어 선택하기**
+### **Choose a trading pair**
 
-페이지 상단의 페어 이름을 클릭하여 자산 선택기를 엽니다. 매우 다양한 토큰 페어를 이용할 수 있습니다.
+Click on the pair name at the top of the page to open the asset selector. A huge variety of token pairs are available.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28300%29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (480).png" alt=""><figcaption></figcaption></figure>
 
-### **My Bet — 포지션 규모**
+### **My Bet — Position Size**
 
-투입하려는 금액을 입력하거나 프리셋 버튼 **25%**, **50%**, **MAX**를 눌러 사용 가능한 무기한 선물 자금 잔액의 일부로 포지션 규모를 정하세요.
+Enter how much you want to put in, or tap the preset buttons — **25%**, **50%**, or **MAX** — to size your position as a portion of your available perp fund balance.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28337%29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (483).png" alt=""><figcaption></figcaption></figure>
 
-### **레버리지**
+### **Leverage**
 
-슬라이더를 사용하거나 프리셋 **50×**, **100×**, **150×**, **200×** 중 하나를 눌러 레버리지를 설정하세요. 현재 배율은 슬라이더 위에 큰 글씨로 표시됩니다.
+Use the slider or tap a preset — **50×**, **100×**, **150×**, or **200×** — to set your leverage. Your current multiplier is shown in large text above the slider.
 
-레버리지가 청산 위험을 의미 있게 높일 만큼 높아지면, 알림 차원에서 **Amplified Risk** 표시가 나타납니다.
+When leverage is high enough to carry meaningful liquidation risk, an **Amplified Risk** indicator appears as a reminder.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28319%29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (482).png" alt=""><figcaption></figcaption></figure>
 
-### **탭 한 번으로 포지션 열기**
+### **One tap to open**
 
-**UP**을 누르면 롱, **DOWN**을 누르면 숏 포지션을 엽니다. 포지션은 이용 가능한 최적의 시장 가격으로 즉시 열립니다.
+Tap **UP** to go long, or **DOWN** to go short. Your position opens immediately at the best available market price.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28341%29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (484).png" alt=""><figcaption></figcaption></figure>
 
-### **여러 번 탭하기**
+### **Tapping multiple times**
 
-심플 모드는 반복해서 탭하여 포지션을 늘리거나 줄일 수 있도록 설계되었습니다. 매번 수량을 직접 조정할 필요가 없습니다.
+Simple Mode is designed to let you build or reduce your position with repeated taps — no need to manually adjust size each time.
 
-* **UP을 두 번 탭** — 포지션이 두 배가 됩니다. 탭할 때마다 기존 롱에 한 단위가 추가됩니다.
-* **UP 다음 DOWN을 탭** — 포지션이 상쇄되어 포지션이 없는 상태로 돌아갑니다.
+* **Tap UP twice** — your position doubles. Each tap adds one unit to your existing long.
+* **Tap UP then DOWN** — the positions cancel out, returning you to flat.
 
-각 탭을 한 방향으로 한 단위를 더하거나 빼는 것으로 생각하세요. 거래에 분할 진입하거나 분할 청산하는 재미있는 방법입니다.
+Think of each tap as adding or subtracting one unit in a direction. It's a fun way to scale in or out of a trade.
 
-### **주문 상태 확인하기**
+### **Check your order status**
 
-주문은 체결을 기다리는 동안 **Positions** 아래에 표시됩니다.
+Your order will appear under **Positions** while it waits to be filled.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28352%29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (485).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-💡 지정가 주문, TP/SL을 설정하거나 포지션을 더 세부적으로 관리하고 싶으신가요? 언제든지 **프로 모드**로 전환하세요. 열려 있는 포지션에는 영향이 없습니다.
+💡 Want to set limit orders, TP/SL, or manage positions in more detail? Switch to **Pro Mode** at any time — your open positions are not affected.

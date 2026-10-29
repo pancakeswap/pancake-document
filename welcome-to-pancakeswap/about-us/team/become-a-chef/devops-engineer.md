@@ -2,33 +2,33 @@
 hidden: true
 ---
 
-# DevOps 엔지니어
+# DevOps Engineer
 
-### 일반 정보
+### General information
 
-* 급여 범위: 경쟁력 있는 수준, 협의 가능
-* 근무 형태: 정규직
-* 근무지: 원격
-* 선호 시간대: 무관
+* Salary range: Competitive, negotiable
+* Position: Full-time
+* Location: Remote
+* Time-zone preference: Any
 
-### 담당 업무
+### Your Responsibilities
 
-* 기존 클라우드 인프라를 관리합니다.
-* 기술적 문제를 조사하고 해결합니다.
-* 새로운 클라우드 기반 서비스를 계획하고 개발합니다.
-* 충실한 문서를 작성합니다.
+* Take care of our existing cloud infrastructure.
+* Investigate and resolve technical issues.
+* Plan and develop new cloud-based services.
+* Write extensive documentation.
 
-### 역량 및 자격 요건
+### Skills & Qualification
 
-* Go, NodeJS 또는 Python에 대한 이해.
-* 클라우드 플랫폼(AWS/GCP/Azure) 사용 경험.
-* 데이터베이스(MongoDB, PostgresSQL, Redis) 구성 및 유지 관리 경험.
-* Docker, Kubernetes 및 관련 기술에 대한 이해.
-* 확장성 문제를 평가하고 조치할 수 있는 능력.
-* GraphQL에 대한 탄탄한 경험.
-* 테스트 도구 사용 경험.
-* Web3, 스마트 컨트랙트, 노드 및 기타 암호화폐 기술 경험.
+* Good understanding of Go, NodeJS or Python.
+* Experience with cloud platforms (AWS/GCP/Azure).
+* Experience configuring and maintaining databases (MongoDB, PostgresSQL, Redis).
+* Good understanding of Docker, Kubernetes and adjacent technologies.
+* Ability to evaluate scaling issues and take action.
+* Solid experience with GraphQL.
+* Experience with testing tools.
+* Experience with Web3, Smart Contracts, Nodes and other crypto technologies.
 
-### 지원 방법
+### How to apply
 
-이력서를 hiring@pancakeswap.com 으로 이메일 보내 주세요!
+Email hiring@pancakeswap.com with your resume!

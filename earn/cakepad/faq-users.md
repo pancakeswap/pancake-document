@@ -1,71 +1,71 @@
-# 자주 묻는 질문 (FAQ) (사용자)
+# FAQ (Users)
 
-### 1. CAKE.PAD 이벤트란 무엇인가요?
+### 1. What is a CAKE.PAD event?
 
-* CAKE.PAD 이벤트에서는 새로운 프로젝트 토큰이 출시되는 즉시 얼리 액세스를 받을 수 있습니다.
-* 사용자는 **CAKE**로 새로운 프로젝트 토큰을 얻습니다.
-* 프로젝트는 유동성, 가시성, 그리고 PancakeSwap 커뮤니티에 대한 직접적인 접근 기회를 얻습니다.
-* BNB Chain, Base 또는 Monad에서 진행될 수 있습니다.
+* A CAKE.PAD event lets users get early access to new project tokens right as they launch.
+* Users obtain new project tokens with **CAKE**.
+* Projects gain liquidity, visibility, and direct access to PancakeSwap’s community.
+* This can take place on BNB Chain, Base, or Monad
 
-### 2. 누가 참여할 수 있나요?
+### 2. Who is eligible to participate?
 
-* **CAKE**를 보유한 누구나 가능합니다.
-* NFT 프로필이 필요하지 않습니다.
-* CAKE 스테이킹이 필요하지 않습니다.
-* 모든 참가자를 위한 **페어 런치(fair launch)**로 설계되었습니다.
+* Anyone holding **CAKE**.
+* No NFT profile required.
+* No CAKE staking needed.
+* Designed as a **fair launch** for all participants.
 
-### 3. CAKE.PAD 이벤트에 참여하면 어떤 이점이 있나요?
+### 3. What are the benefits of participating in a CAKE.PAD event?
 
-* **CAKE**로 새로운 토큰을 일찍 얻을 수 있습니다.
-* 본격적인 거래가 시작되기 전에 유리한 진입 가격으로 자산을 확보할 가능성이 있습니다.
+* Access new tokens early using **CAKE**.
+* Potential to acquire assets at favorable entry prices before wider trading.
 
-### 4. CAKE.PAD 이벤트는 얼마나 지속되나요?
+### 4. How long does a CAKE.PAD event last?
 
-* 일반적으로 **24시간**입니다(필요한 경우 조정될 수 있음).
+* Typically **24 hours** (may be adjusted if needed).
 
-### 5. CAKE.PAD 이벤트가 초과 청약되면 어떻게 되나요?
+### 5. What happens if the CAKE.PAD event is oversubscribed?
 
-* [**단계별 세금(Tiered Tax)** ](how-cake.pad-taxes-work-in-overflow-sales-with-example.md)은 **초과 커밋된 자금에만** 적용됩니다.
-* 프로젝트는 **목표 모금액의 100%**를 받습니다.
-* 초과 청약이 커질수록 세율이 낮아집니다(1%에서 0.05%까지).
+* A [**Tiered Tax** ](how-cake.pad-taxes-work-in-overflow-sales-with-example.md)applies **only to excess committed funds**.
+* The project receives **100% of its target raise**.
+* Tax rates decrease as oversubscription increases (from 1% down to 0.05%).
 
-### 6. CAKE.PAD 파트너 토큰의 최소 할당량은 얼마인가요?
+### 6. What is the smallest amount of CAKE.PAD partner token allocation possible?
 
-* CAKE.PAD 파트너 토큰 최소 할당량 = [**1 wei**](https://www.investopedia.com/terms/w/wei.asp)**.**
-* 총 커밋량에 비해 매우 적은 양의 CAKE를 커밋하면 **토큰을 받지 못할** 수 있습니다. 이 경우 커밋한 CAKE는 모두 환불됩니다.
+* Minimum CAKE.PAD partner token allocation = [**1 wei**](https://www.investopedia.com/terms/w/wei.asp)**.**
+* Committing a very small amount of CAKE compared to total commitments may result in receiving **no tokens**. In such cases, all committed CAKE will be refunded.
 
-### 7. 참여에 사용되는 자산은 무엇인가요?
+### 7. What is the participating asset?
 
-* 모든 CAKE.PAD 이벤트는 **CAKE**를 사용합니다.
+* All CAKE.PAD events use **CAKE**.
 
-### 8. "오버플로(Overflow)" 세일 방식이란 무엇인가요?
+### 8. What is the “Overflow” Sale Method?
 
-* 사용자는 원하는 만큼의 CAKE를 커밋할 수 있습니다.
-* 토큰 할당량은 이벤트 종료 시점의 전체 풀 대비 사용자가 커밋한 CAKE의 비율에 비례합니다.
-* 남은 CAKE는 세일 종료 후 토큰을 수령할 때 환불됩니다. 수치 예시는 [여기](how-cake.pad-taxes-work-in-overflow-sales-with-example.md)를 참조하세요
-* 초과 청약이 매우 큰 경우, 소액 커밋은 할당량이 적거나 없을 수 있습니다.
+* Users can commit any amount of CAKE.
+* Token allocation is proportional to how much CAKE a user committed versus the total pool at the end of the event.
+* Any leftover CAKE is refunded when claiming tokens after the sale. See [here](how-cake.pad-taxes-work-in-overflow-sales-with-example.md) for a numerical example
+* If heavily oversubscribed, small commitments may receive little or no allocation.
 
-### 9. CAKE.PAD 이벤트가 목표 금액을 모두 모금하지 못하면 어떻게 되나요?
+### 9. What happens if the CAKE.PAD event doesn't raise all targeted funds?
 
-* 세일은 정상적으로 진행됩니다. 모든 기여 자금이 사용됩니다.
-* 참여 수수료는 부과되지 않습니다.
+* The sale proceeds normally. All contributed funds are used.
+* No participation fee is charged.
 
-**참가자:** CAKE.PAD 파트너 토큰을 받습니다.
+**Participants:** Receive CAKE.PAD partner tokens.
 
-CAKE.PAD **파트너 프로젝트:** 세일에서 남은 토큰과 CAKE를 받습니다.
+CAKE.PAD **Partner Project:** Receives leftover tokens and CAKE from the sale.
 
-### 10. CAKE.PAD 이벤트는 클리프 스케줄이 있는 락업을 지원하나요?
+### 10. Do CAKE.PAD events support lockups with cliff schedules?
 
-* 네, 프레임워크는 락업과 클리프 스케줄을 지원합니다.
-* 현재 CAKE.PAD 이벤트 출시는 **락업 없이** 진행됩니다.
+* Yes, the framework supports lockups and cliff schedules.
+* Current CAKE.PAD event launches are conducted **without any lockup**.
 
-### 11. 구매한 토큰은 언제 받을 수 있나요?
+### 11. When will I receive my purchased tokens?
 
-* 토큰은 CAKE.PAD 이벤트가 **종료된 직후** 수령할 수 있습니다(베스팅이 없는 경우).
-* 사용자는 PancakeSwap 인터페이스를 통해 토큰을 직접 수령해야 합니다.
-* 베스팅이 있는 CAKE.PAD 이벤트의 경우 일정이 CAKE.PAD 이벤트 페이지에 표시됩니다.
-  * 자세한 내용은 [베스팅](cakepad-guide.md#ifo-with-token-vesting)을 참조하세요
+* Tokens are available **immediately after the** CAKE.PAD event **ends** (if no vesting).
+* Users must manually claim tokens via the PancakeSwap interface.
+* For CAKE.PAD events with vesting, the schedule is displayed on the CAKE.PAD event page.
+  * See [Vesting](cakepad-guide.md#ifo-with-token-vesting) for more info
 
-### 12. CAKE.PAD 파트너 토큰은 어디에서 거래할 수 있나요?
+### 12. Where can I trade CAKE.PAD partner tokens?
 
-* CAKE.PAD 파트너 토큰은 CAKE.PAD 이벤트가 종료되는 즉시 PancakeSwap에 유동성이 공급되고 상장됩니다.
+* CAKE.PAD partner tokens are seeded and listed on PancakeSwap as soon as the CAKE.PAD event ends.

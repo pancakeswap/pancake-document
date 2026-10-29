@@ -1,59 +1,59 @@
-# 비즈니스 개발 리드
+# Business Development Lead
 
-PancakeSwap은 BNB 체인을 대표하는 AMM DEX에서, 자체 AMM 풀·기관 자본·외부 유통 채널의 유동성을 집계하고 관리하는 완전한 Liquidity Hub로 전환하고 있습니다. 이 포지션은 이를 구축하기 위한 세 개의 전문 BD 부서 중 하나를 이끕니다.
+PancakeSwap is transitioning from the leading AMM DEX on BNB Chain to a full Liquidity Hub — aggregating and managing liquidity from native AMM pools, institutional capital, and external distribution channels. This role leads one of three specialized BD divisions in that build-out.
 
-### 포지션 소개
+### About the role
 
-저희는 BD 팀을 체인이 아닌 세 가지 유동성 원천을 중심으로 재편하고 있습니다. BD 리드는 전통 AMM, 기관 유동성 + RWA, 신규 제품 유통을 처음부터 끝까지 책임집니다. 내부 전문가로서 파트너십, KPI, 첫 접촉부터 실제 통합까지의 파이프라인을 총괄하게 됩니다.
+We are restructuring our BD team around three liquidity sources, not chains. As the BD Lead owning end-to-end: Traditional AMM, Institutional Liquidity + RWA, New Product Distribution. You will be the internal subject-matter expert — owning partnerships, KPIs, and the pipeline from first contact to live integration.
 
-이 포지션은 관계 중심이 아닌 실행 중심(operator) 역할입니다. 저희는 성과를 측정합니다. 발행된 CAKE당 발생 거래량, 기관 거래량, 출시된 애그리게이터 API 통합 건수 등입니다. 첫날부터 2026년 2분기의 구체적인 우선순위 목록에 대해 매주 진척 상황을 보여 주셔야 합니다.
+This is an operator role, not a relationship role. We measure outcomes: volume generated per CAKE emitted, institutional trading volume, aggregator API integrations shipped. You will be expected to show weekly progress against a concrete Q2 2026 priority list from day one.
 
-#### 1. 전통 AMM
+#### 1. Traditional AMM
 
-* CAKE 발행 효율성, 프로젝트 온보딩(V2/V3/Infinity CLAMM), BNB 체인·Base·SOL 전반의 크로스체인 런치패드 파이프라인을 총괄합니다.
-* **핵심 지표:** 발행된 CAKE 단위당 거래량.
-* **보조 지표:** 분기별 신규 활성 풀 수, 체인별 최초 런칭 프로젝트 수.
-* **현재 긴급 과제:** Base + SOL 생태계 펀드 관계 구축 · Infinity CLAMM 프로젝트 파이프라인
+* Own CAKE emission efficiency, project onboarding (V2/V3/Infinity CLAMM), and cross-chain launchpad pipeline across BNB Chain, Base, and SOL.
+* **Primary metric:** volume per unit of CAKE emitted.
+* **Secondary:** new active pools per quarter, first-launch projects per chain.
+* **Urgent now:** Base + SOL ecosystem fund relationships · Infinity CLAMM project pipeline
 
-#### 2. 기관 유동성 + RWA
+#### 2. Institutional Liquidity + RWA
 
-* 토큰화 주식 및 RWA 발행사 온보딩(xStocks/Backed Finance/Ondo/Robinhood), 마켓 메이커 온보딩(Wintermute, Jump, GSR), Kraken, Bybit, OKX로의 PancakeSwap X RFQ 유통을 총괄합니다.
-* PropAMM 기관 파이프라인을 구축합니다.
-* **핵심 지표:** PancakeSwap X 월간 거래량, 온보딩한 RWA 발행사 수.
-* **현재 긴급 과제:** BNB + Base의 xStocks 풀 · Backed Finance / Kraken 파트너십
+* Own tokenized stock and RWA issuer onboarding (xStocks/Backed Finance/Ondo/Robinhood), market maker onboarding (Wintermute, Jump, GSR), and PancakeSwap X RFQ distribution into Kraken, Bybit, OKX.
+* Build PropAMM institutional pipeline.
+* **Primary metric:** PancakeSwap X monthly trading volume, RWA issuers onboarded.
+* **Urgent now:** xStocks pools on BNB + Base · Backed Finance / Kraken partnership
 
-#### 3. 신규 제품 유통
+#### 3. New Product Distribution
 
-* 지갑(OKX, Binance, MetaMask, Trust)과 DeFi 프로토콜(Aave, Venus, Morpho)의 기본 애그리게이터 API로서 1inch를 대체합니다.
-* 수익 분배 프로그램 설계, 화이트라벨 API 패키징, 경쟁사 전환 분석을 총괄합니다.
-* **보조 지표:** 무기한 선물(perps) 기관 온보딩(역할의 약 20%).
-* **핵심 지표:** 분기별 출시한 API 통합 건수, 월간 애그리게이터 라우팅 거래량.
-* **현재 긴급 과제:** 1inch, LiFi, Liquid Mesh에 대한 심층 경쟁사 분석 · 타깃 리스트 구축
+* Replace 1inch as the default aggregator API for wallets (OKX, Binance, MetaMask, Trust) and DeFi protocols (Aave, Venus, Morpho).
+* Own revenue share program design, white-label API packaging, and competitor switching analysis.
+* **Secondary:** perps institutional onboarding (\~20% of role).
+* **Primary metric:** API integrations shipped per quarter, monthly aggregator routed volume.
+* **Urgent now:** Deep competitor analysis of 1inch, LiFi, Liquid Mesh · target list build
 
-### 담당 업무
+### What you will do
 
-* 소싱, 협상, 통합, 지속적인 상태 지표 관리에 이르는 전체 파트너십 라이프사이클을 책임집니다.
-* 파이프라인 현황과 부서 KPI를 CEO에게 매주 보고하고, 문제만 전달하지 말고 해결책과 함께 장애 요인을 공유합니다.
-* 주간 부서 간 BD 싱크에 참여하여 파이프라인 중복을 파악하고 공동 접근 방식을 조율합니다.
-* 담당 부서 영역에 특화된 경쟁사 분석을 지속적으로 수행하고, 그 결과를 실행 가능한 차별화 전략으로 전환합니다.
-* 부서가 성숙해지면 산하에 소규모 BD 매니저 팀을 구성하고 멘토링합니다.
+* Own the full partnership lifecycle: sourcing, negotiation, integration, and ongoing health metrics.
+* Report weekly on pipeline status and division KPIs to the CEO; flag blockers with proposed solutions, not just problems.
+* Participate in weekly cross-division BD sync to surface pipeline overlaps and coordinate joint approaches.
+* Conduct ongoing competitor intelligence specific to your division's domain; translate findings into actionable differentiation.
+* As the division matures, build and mentor a small team of BD managers under you.
 
-### 이런 분을 찾습니다
+### What we are looking for
 
-#### 필수
+#### Required
 
-* DeFi, 암호화폐 또는 핀테크 분야의 BD, 파트너십 또는 그로스 경력 3년 이상, 파이프라인뿐 아니라 실제 체결한 딜의 실적 보유
-* 정량적 사고방식: 온체인 데이터와 TVL/거래량 대시보드를 읽는 데 익숙하고, 기본 원리부터 스스로 KPI 목표를 설정할 수 있는 분
-* 지원하는 부서 영역(AMM 프로젝트 / 기관·RWA 발행사 / 지갑 또는 프로토콜 생태계 팀)에서의 탄탄한 기존 네트워크
-* 자율적이고 체계적인 분: 세세한 지도 없이도 여러 딜을 병행하여 관리하고 장애 요인을 조기에 공유할 수 있는 분
-* 오너십 마인드셋
+* 3+ years of BD, partnerships, or growth in DeFi, crypto, or fintech — with a track record of signed deals, not just pipeline
+* Quantitative mindset: comfortable reading on-chain data, TVL/volume dashboards, and setting your own KPI targets from first principles
+* Strong existing network in your target division's domain (AMM projects / institutional/RWA issuers / wallet or protocol ecosystem teams)
+* Autonomous and structured: able to manage multiple parallel deals with zero hand-holding, and communicate blockers early
+* Ownership mind-set
 
-#### 우대 사항
+#### Nice to have
 
-* DEX, AMM, 애그리게이터 또는 RWA 플랫폼에서의 근무 경험
-* 스마트 컨트랙트 상호작용을 읽거나 Dune 대시보드를 독립적으로 해석할 수 있는 능력
-* BD 팀을 처음부터 구축하거나 운영해 본 경험
+* Prior experience at a DEX, AMM, aggregator, or RWA platform
+* Ability to read smart contract interactions or interpret Dune dashboards independently
+* Experience building or managing a BD team from scratch
 
-### 지원 방법
+### How to apply
 
-이력서를 hiring@pancakeswap.com 으로 보내 주세요. 여러분의 이야기를 기다립니다!
+Shoot your resume over to hiring@pancakeswap.com, we’d love to hear from you!

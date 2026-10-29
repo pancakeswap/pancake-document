@@ -2,33 +2,33 @@
 hidden: true
 ---
 
-# 커뮤니티 매니저
+# Community Manager
 
-* 근무 형태: 정규직
-* 근무지: 원격
-* 시간대: UTC+8
+* Position: Full-time
+* Location: Remote
+* Timezone: UTC+8
 
-PancakeSwap 커뮤니티를 활성화하고, 소통하며, 성장시킬 경험 많은 커뮤니티 매니저를 찾고 있습니다. 이상적인 후보자는 DeFi 커뮤니티에 대한 깊은 이해와 커뮤니티 관리 및 성장 분야의 검증된 실적을 갖추고 있습니다.
+We are looking for an experienced Community Manager to activate, engage, and grow the PancakeSwap community. The ideal candidate has a strong understanding of DeFi communities and a proven track record in community management and growth.
 
-### **담당 업무:**
+### **Responsibilities:**
 
-* 유기적 활동과 커뮤니티 활동을 통해 PancakeSwap의 입지를 키웁니다.
-* 커뮤니티 채널(Discord, Telegram, X, 커뮤니티 스페이스, AMA)에서 PancakeSwap의 대변인 역할을 하며 당사의 제품, 브랜드, 생태계를 적극적으로 알립니다.
-* 명확한 성장 목표와 성과를 가진 지역 밋업, AMA, 커뮤니티 행사 및 이니셔티브를 기획하고 실행합니다.
-* 관련 암호화폐 프로젝트 및 커뮤니티와의 공동 활동을 적극적으로 모색하고 조율하여 커뮤니티 활성화를 확대합니다.
-* 커뮤니티 채널, 콘텐츠, 지역 커뮤니티 행사 전반에서 PancakeSwap의 입지를 지원하기 위해 PancakeSwap 앰배서더 프로그램을 관리합니다.
-* PancakeSwap 커뮤니티와 내부 팀 사이의 가교 역할을 하며, 커뮤니티와 제품에 대한 피드백을 전달하여 PancakeSwap의 성장과 성공을 이끕니다.
-* 커뮤니티 콘텐츠 크리에이터 및 인플루언서를 발굴하고 소통하여 PancakeSwap의 브랜드와 목표에 부합하는 적절하고 흥미로운 콘텐츠를 제작합니다.
-* 활동, 지표, 커뮤니티 피드백에 대한 주간 보고서를 제공합니다.
+* Grow PancakeSwap's presence via organic and community efforts
+* ﻿﻿Represent PancakeSwap as a spokesperson in community channels (Discord, Telegram, X, community spaces, AMAs), actively advocates for our products, brand, and ecosystem
+* ﻿﻿Plan and execute regional meetups, AMAs, community events and initiatives with clear growth outcomes and results
+* ﻿Actively explore and coordinate joint efforts with relevant crypto projects and communities to increase community activations
+* ﻿﻿Manage PancakeSwap's ambassador program to support PancakeSwap's presence across community channels, content, and local community events
+* ﻿﻿Act as a bridge between the PancakeSwap community and internal teams, relaying community and product feedback to drive PancakeSwap's growth and success
+* ﻿﻿Identify and engage with community content creators and influencers to produce relevant and engaging content aligned with PancakeSwap's brand and goals
+* ﻿﻿Provide weekly reports on activities, metrics, and community feedback
 
-### **요구 사항**
+### **Requirements**
 
-* DeFi 또는 암호화폐 분야에서 커뮤니티 매니저로서 2년 이상의 경력
-* 언어: 유창한 영어. 추가 언어 구사 시 우대.
-* 암호화폐 네이티브 커뮤니티, DeFi 사용자, 온체인 문화에 대한 깊은 이해
-* 뛰어난 커뮤니케이션 능력과 효과적인 대화를 이끄는 능력
-* Discord, Telegram, X 등의 커뮤니티 플랫폼 및 도구 사용 경험
-* 능동적이고 성과 지향적이며 빠르게 변화하는 환경에서 일할 수 있는 분
+* 2+ years of experience as a community manager in the DeFi or crypto space
+* ﻿﻿Language: Fluent in English. Additional languages a plus.
+* ﻿﻿Deep understanding of crypto-native communities, DeFi users, and on-chain culture
+* ﻿﻿Excellent communication skills and able to drive effective conversations
+* ﻿﻿Experience with community platforms and tools on Discord, Telegram, X, etc.
+* ﻿﻿Proactive, results-oriented, and able to operate in a fast-paced environment
 
-**지원 방법:**\
-이력서를 hiring@pancakeswap.com 으로 보내 주세요. 여러분의 이야기를 기다립니다!
+**How to Apply:**\
+Shoot your resume over to hiring@pancakeswap.com, we’d love to hear from you!

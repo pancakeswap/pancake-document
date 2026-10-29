@@ -1,18 +1,18 @@
 ---
-description: veCAKE에 대한 추가 정보,
+description: More information on veCAKE,
 hidden: true
 ---
 
 # veCAKE
 
-### [veCAKE란 무엇인가요?](what-is-vecake.md#what-is-vecake)
+### [What is veCAKE?](what-is-vecake.md#what-is-vecake)
 
-### [veCAKE는 어떻게 계산되나요?](../../../earn/earn-faq/cake-staking-faq/vecake-faq.md#id-52f27118-bbf3-448b-9ffe-e9e1a9dd97ef)
+### [How is veCAKE calculated?](../../../earn/earn-faq/cake-staking-faq/vecake-faq.md#id-52f27118-bbf3-448b-9ffe-e9e1a9dd97ef)
 
-### veCAKE 수량은 어떻게 확인하나요?
+### How to check the veCAKE number?
 
-투표를 하는 경우, "Confirm Vote" 창에서 ">" 버튼을 클릭하면 투표권 상세 내역에서 vCAKE 수량을 확인할 수 있습니다.
+If you are casting a vote, you will find the number of vCAKE in the voting power breakdown by clicking the ">" button on the "Confirm Vote" window.
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-vote-5.png)
+![](../../../.gitbook/assets/how-to-vote-5.png)
 
-커뮤니티 제안을 작성하는 경우, "Actions" 패널 하단의 "Check your voting power"를 클릭하여 투표권을 확인할 수 있습니다.
+If you are making a community proposal, you can check your voting power by clicking "Check your voting power" at the bottom of the "Actions" panel.

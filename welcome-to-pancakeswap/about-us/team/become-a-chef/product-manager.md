@@ -2,29 +2,29 @@
 hidden: true
 ---
 
-# 프로덕트 매니저
+# Product Manager
 
-**직무 개요:**
+**Job Overview:**
 
-역동적인 프로덕트 매니저를 찾고 있습니다. 이 역할에서는 사용자 경험을 향상시키고 성장을 이끄는 제품 전략을 정의, 개발, 실행하게 됩니다. 엔지니어링, 디자인, 마케팅, 커뮤니티를 포함한 유관 팀과 긴밀히 협력하여 제품의 성공적인 출시와 지속적인 개선을 보장합니다.
+We are seeking a dynamic Product Manager to join our team. In this role, you will be responsible for defining, developing, and executing product strategies that enhance user experience and drive growth. You will work closely with cross-functional teams including engineering, design, marketing, and community to ensure the successful launch and ongoing improvement of our products.
 
-**주요 책임:**
+**Key Responsibilities:**
 
-* **제품 전략:** 회사의 목표에 부합하는 제품 비전, 전략, 로드맵을 정의하고 공유합니다.
-* **시장 조사:** 경쟁 분석과 사용자 리서치를 수행하여 트렌드, 고객 니즈, 혁신 기회를 파악합니다.
-* **협업:** 엔지니어링 및 디자인 팀과 긴밀히 협력하여 높은 품질의 제품을 기한 내에 제공합니다. 팀 간 소통을 촉진하여 방향성을 일치시킵니다.
-* **사용자 중심 디자인:** 사용자 피드백과 사용성 테스트를 제품 개발에 반영하여 사용자 경험을 옹호합니다.
-* **성과 지표:** 제품 성공을 측정하고 의사결정에 활용하기 위한 핵심 성과 지표(KPI)를 수립하고 추적합니다.
-* **이해관계자 참여:** 마케팅 및 커뮤니티 팀과 협력하여 시장 진출 전략을 수립하고 제품 도입을 보장합니다.
-* **지속적 개선:** 제품 성과를 모니터링하고 사용자 피드백과 시장 트렌드에 따라 개선합니다.
+* **Product Strategy:** Define and communicate the product vision, strategy, and roadmap aligned with the company’s goals.
+* **Market Research:** Conduct competitive analysis and user research to identify trends, customer needs, and opportunities for innovation.
+* **Collaboration:** Work closely with engineering and design teams to deliver high-quality products on time. Facilitate communication between teams to ensure alignment.
+* **User-Centric Design:** Advocate for user experience by incorporating user feedback and usability testing into product development.
+* **Performance Metrics:** Establish and track key performance indicators (KPIs) to measure product success and inform decision-making.
+* **Stakeholder Engagement:** Collaborate with marketing and community teams to develop go-to-market strategies and ensure product adoption.
+* **Continuous Improvement:** Monitor product performance and iterate based on user feedback and market trends.
 
-**자격 요건:**
+**Qualifications:**
 
-* 프로덕트 매니지먼트 경력 2년 이상, 블록체인 및 DeFi 핀테크 분야 우대.
-* DeFi 개념, 암호화폐 시장, 탈중앙화 애플리케이션 및 스마트 컨트랙트에 대한 탄탄한 이해
-* Jira, Trello 등 프로덕트 관리 도구와 Google Analytics, Mixpanel 등 분석 플랫폼 활용 능력
-* 블록체인 기술에 대한 열정과 암호화폐 분야의 신흥 트렌드에 대한 높은 관심
+* 2+ years of experience in product management, preferably in the blockchain and Defi fintech space.
+* Strong understanding of DeFi concepts, cryptocurrency markets, and decentralized applications and smart contract
+* Proficiency in product management tools (e.g., Jira, Trello) and analytics platforms (e.g., Google Analytics, Mixpanel).
+* Passion for blockchain technology and a keen interest in emerging trends in the crypto space.
 
 
 
-**지원 방법:** 이력서를 hiring@pancakeswap.com 으로 보내 주세요. 여러분의 이야기를 기다립니다!
+**How to Apply:** Shoot your resume over to hiring@pancakeswap.com, we’d love to hear from you!

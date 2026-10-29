@@ -1,35 +1,36 @@
 # Shared Inventory Hook
 
-PancakeSwap의 공식 Shared Inventory Hook(SIH)은 각 풀마다 별도의 유동성을 묶어 두는 대신, 하나의 자본 풀이 동일한 토큰을 공유하는 모든 풀에서 마켓 메이킹을 할 수 있도록 설계되었습니다. 트레이더에게는 더 깊은 호가와 더 낮은 가격 영향을 제공하고, 유동성 공급자는 동일한 커버리지를 위해 더 적은 자본을 투입할 수 있게 해 줍니다.
+PancakeSwap's official Shared Inventory Hook (SIH) is designed to allow a single pool of capital market-make across every pool that shares its tokens, instead of locking separate liquidity into each one. It give traders deeper quotes and lower price impact, while letting liquidity providers deploy less capital for the same coverage.
 
-PancakeSwap 코어 팀이 만든 이 Hook은 인벤토리를 분산시키지 않고 온체인에서 여러 페어에 호가를 제시하려는 자산 발행사와 마켓 메이커를 위해 특별히 설계되었습니다.
+Built by the PancakeSwap core team, this hook is tailored for asset issuers and market makers who want to quote multiple pairs on-chain without fragmenting their inventory.
 
-#### 🔍 왜 Shared Inventory인가요?
+#### 🔍 Why Shared Inventory?
 
-기존 방식으로 여러 페어에 유동성을 공급하려면 별도의 풀마다 전용 자본을 묶어 두어야 하며, 그 대부분은 거래 사이에 유휴 상태로 남아 있습니다. 반면 SIH는 토큰별로 하나의 잔액을 보유하고 스왑에 필요할 때만 이를 유동성으로 투입하므로, 동일한 자본이 해당 토큰을 공유하는 모든 풀을 뒷받침할 수 있습니다.
+Providing liquidity to multiple pairs the conventional way means locking dedicated capital into separate pools, most of it sitting idle between trades. SIH instead holds one balance per token and injects it as liquidity only when a swap needs it, so the same capital can back every pool that shares that token.
 
-#### 📊 다른 모델과 어떻게 다른가요?
+#### 📊 How Is This Different From Other Models?
 
-기존의 집중 유동성 방식은 전체 원금을 하나의 풀에 투입해야 합니다. 가상 잔액 정산 레이어 같은 다른 크로스 풀 방식은 보통 AMM 자체 밖에 위치하므로, 유동성이 온체인 풀 깊이로 보이지 않을 수 있고 애그리게이터가 직접 라우팅하지 못할 수 있습니다.
+Conventional concentrated liquidity requires committing the full principal to a single pool. Other cross-pool approaches such as virtual-balance settlement layers typically sit outside the AMM itself, where liquidity might not be visible as on-chain pool depth and routed directly by aggregators.
 
-SIH의 유동성은 매 스왑마다 Hook이 PancakeSwap Infinity CLAMM 풀에 투입하고 회수하므로, 라우터가 확인하고 체결할 수 있는 실제 풀 깊이로 나타납니다.
+SIH's liquidity enters and exits PancakeSwap Infinity CLAMM pool by the hook on every swap, so it shows up as genuine pool depth that routers can see and fill against.
 
-#### ⚙️ 작동 방식
+#### ⚙️ How It Works
 
-* **JIT(Just-in-time) 투입**\
-  각 스왑 전에 Hook이 설정된 집중 유동성 포지션을 풀에 민팅하고, 스왑이 실행된 후에는 이를 소각하여 순 결과를 정산합니다. 포지션은 한 번의 스왑 동안에만 존재하므로, 잔액은 곧바로 다음에 필요한 풀을 위해 사용할 수 있습니다.
-* **하나의 잔액, 여러 개의 풀**\
-  인벤토리는 Hook이 보유한 자체 토큰 잔액이며, 풀별 예치는 없습니다. 둘 이상의 풀에서 사용되는 토큰은 모든 풀에서 공유됩니다.
+* **Just-in-time (JIT) injection**\
+  Before each swap, the hook mints a configured concentrated liquidity position into the pool; after the swap executes, it burns and settles the net result. The position exists only for the duration of one swap, the balance is free to serve the very next pool that needs it.
+* **One balance, many pools**\
+  Inventory is the hook's own token balance, there is no per-pool deposit. Any token that is to be used in more than one pool is shared across all of them.
 
 {% hint style="success" %}
-이를 통해 풀이 제시하는 깊이와 풀이 직접 보유한 자본이 분리됩니다. 자금이 충전된 Hook은 토큰을 공유하는 여러 풀에서 깊고 촘촘한 유동성을 제시할 수 있습니다.
+This decouples the depth a pool quotes from the in-pool capital directly holds: a funded hook can quote deep, tight liquidity across a number of pools that share a token.
 {% endhint %}
 
-* **설정 가능한 Hook**\
-  Hook은 서비스하는 모든 풀에 대해 가격 범위와 깊이를 독립적으로 조정할 수 있는 설정을 보유합니다. 범위를 옮기는 데는 설정 업데이트만 필요하므로, 움직이는 기준 가격을 중심으로 호가를 다시 맞추기가 간단합니다.
+* **Configurable hook**\
+  For every pool it serves, the hook holds an adjustable independent configuration for price range and depth. Moving the band requires just a configuration update, making it simple to recenter the quotes around a moving reference price.
 
-#### 📌 핵심 요약
+#### 📌 Key Takeaways
 
-* 하나의 공유 토큰 잔액이 해당 토큰을 사용하는 모든 풀을 뒷받침합니다. 새 풀을 추가해도 새로운 원금이 필요하지 않습니다.
-* 완전한 온체인 및 컴포저블: SIH 유동성은 PancakeSwap과 서드파티 애그리게이터 모두가 라우팅할 수 있는 실제 풀 깊이입니다.
-* 트레이더는 대규모 거래에서 더 깊은 호가와 더 낮은 가격 영향을 얻고, 운영자는 기존 자본의 일부만으로 동일한 거래 수수료를 얻습니다.
+* One shared token balance backs every pool that uses that token. Adding a new pool utilises no new principal.
+* Fully on-chain and composable: SIH liquidity is real pool depth, routable by PancakeSwap and third-party aggregators alike.
+* Traders get deeper quotes and lower price impact on size; operators earn the same trading fees on a fraction of the conventional capital.
+

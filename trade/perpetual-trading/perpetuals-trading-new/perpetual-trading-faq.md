@@ -1,64 +1,64 @@
-# 무기한 선물 거래 자주 묻는 질문 (FAQ)
+# Perpetual Trading FAQ
 
-### **PancakeSwap 무기한 선물이란 무엇인가요?**
+### **What is PancakeSwap Perpetuals?**
 
-PCS Perps는 Aster의 오더북 인프라 위에 PCS 전용 프론트엔드를 얹어 구축한 무기한 선물 거래 상품입니다. BTC와 주요 페어에서 최대 200배 레버리지를 지원하며, 브릿징이나 별도의 계정 설정 없이 지갑에서 바로 이용할 수 있습니다.
+PCS Perps is a perpetuals trading product built on Aster's orderbook infrastructure with a PCS-native frontend. It supports up to 200× leverage on BTC and major pairs, and is accessible directly from your wallet with no bridging or separate account setup.
 
-### **심플 모드와 프로 모드 중 어느 것을 사용해야 하나요?**
+### **Which mode should I use — Simple or Pro?**
 
-거래 스타일에 따라 다릅니다. 심플 모드는 속도를 위해 만들어졌습니다. 수량을 정하고 레버리지를 고른 뒤 UP 또는 DOWN을 탭하면 즉시 포지션이 열립니다. 프로 모드는 지정가 주문, TP/SL 설정, 전체 포지션 관리 등 더 많은 제어를 원하는 트레이더를 위한 모드입니다. 무기한 선물이 처음이거나 빠르게 움직이고 싶다면 심플 모드로 시작하세요. 열려 있는 포지션에 영향을 주지 않고 언제든지 프로 모드로 전환할 수 있습니다.
+It depends on how you like to trade. Simple Mode is built for speed — set your size, pick your leverage, and tap UP or DOWN to open a position instantly. Pro Mode is for traders who want more control: limit orders, TP/SL configuration, and full position management. If you're new to perps or just want to move fast, start with Simple. You can switch to Pro at any time without affecting your open positions.
 
-### **계정을 만들거나 KYC를 완료해야 하나요?**
+### **Do I need to create an account or complete KYC?**
 
-아니요. PCS Perps는 완전한 온체인 방식입니다. 지갑을 연결하면 바로 거래할 수 있으며, 계정 생성도, KYC도, 수탁형 플랫폼으로의 입금도 필요 없습니다.
+No. PCS Perps is fully onchain. Connect your wallet and you're ready to trade — no account creation, no KYC, no deposits to a custodial platform.
 
-### **심플 모드와 프로 모드의 차이점은 무엇인가요?**
+### **What's the difference between Simple Mode and Pro Mode?**
 
-심플 모드는 빠른 방향성 거래를 위해 만들어졌으며, 프리셋 수량으로 탭 한 번에 롱 또는 숏 포지션을 열 수 있습니다. 프로 모드는 고급 주문 유형, TP/SL, 포지션 관리 도구를 통해 완전한 제어를 제공합니다. 언제든지 모드를 전환할 수 있습니다.
-
-***
-
-### **PancakeSwap 무기한 선물의 수수료는 얼마인가요?**
-
-PCS Perps의 거래 수수료는 두 가지 요소로 구성됩니다.
-
-1. **Aster 기본 수수료** — 모든 거래에 대해 Aster의 오더북 인프라에서 부과합니다
-2. **PCS 빌더 수수료** — Aster 기본 수수료에 더해 PancakeSwap이 부과합니다
-
-두 수수료 모두 거래 시점에 자동으로 차감됩니다.
+Simple Mode is built for fast directional trades — one tap to go long or short with preset sizes. Pro Mode gives you full control with advanced order types, TP/SL, and position management tools. You can switch between modes at any time.
 
 ***
 
-### **Aster의 수수료율은 얼마인가요?**
+### **What fees does PancakeSwap Perpetuals charge?**
 
-수수료는 계약 유형에 따라 다릅니다.
+There are two components to your trading fee on PCS Perps:
 
-**USDT 무기한 계약**
+1. **Aster base fee** — charged by Aster's orderbook infrastructure on every trade
+2. **PCS builder fee** — charged by PancakeSwap on top of the Aster base fee
 
-| 주문 유형 | 수수료율  |
-| ----- | ----- |
-| 메이커   | 0%    |
-| 테이커   | 0.04% |
+Both are deducted automatically at the time of your trade.
 
-**USD1 무기한 계약**
+***
 
-| 주문 유형 | 수수료율   |
-| ----- | ------ |
-| 메이커   | 0%     |
-| 테이커   | 0.005% |
+### **What are Aster's fee rates?**
 
-Aster 수수료에 대한 자세한 내용은 다음 문서를 참고하세요: [LINK](https://docs.asterdex.com/trading/perpetuals/fees-and-specs)
+Fees vary by contract type:
 
-### Aster는 어떤 사용자가 PancakeSwap 사용자이고 어떤 사용자가 자사 웹사이트 사용자인지 어떻게 구분하나요?
+**USDT-Perpetual Contracts**
 
-사용자가 거래하는 플랫폼을 기준으로 합니다. 사용자가 [https://pancakeswap.finance/perps](https://pancakeswap.finance/perps)에서 거래를 열고 닫으면 PancakeSwap 사용자로 간주됩니다.
+| Order Type | Fee Rate |
+| ---------- | -------- |
+| Maker      | 0%       |
+| Taker      | 0.04%    |
 
-### PancakeSwap 빌더 수수료
+**USD1-Perpetual Contracts**
 
-PancakeSwap 무기한 선물의 수수료는 다음과 같습니다.
+| Order Type | Fee Rate |
+| ---------- | -------- |
+| Maker      | 0%       |
+| Taker      | 0.005%   |
 
-<table><thead><tr><th width="201.33333333333331">모드</th><th>빌더 수수료</th></tr></thead><tbody><tr><td>모든 거래</td><td>0.03%</td></tr></tbody></table>
+For more details related to Aster fees please refer to this doc here: [LINK](https://docs.asterdex.com/trading/perpetuals/fees-and-specs)
 
-### **이 상품의 이용이 제한되는 관할권은 어디인가요?** <a href="#whats-the-difference-between-a-maker-and-taker-order" id="whats-the-difference-between-a-maker-and-taker-order"></a>
+### How does Aster determine which user is from PancakeSwap and which user is from their own website?
 
-미국, 캐나다, 영국, 중국, 북한, 대한민국, 러시아, 우크라이나, 쿠바, 이란, 베네수엘라, 시리아에 위치하거나 해당 국가에서 서비스에 접속하는 사용자는 이 상품을 이용할 수 없습니다. 관련 컴플라이언스 및 규제 요건에 따라 접근이 제한되거나 차단될 수 있습니다.
+This is based on the platform where users trade. If users open and close trades on [https://pancakeswap.finance/perps](https://pancakeswap.finance/perps), they will be considered PancakeSwap user.
+
+### PancakeSwap builder fee
+
+Fees for PancakeSwap Perpetuals as follows:
+
+<table><thead><tr><th width="201.33333333333331">Mode</th><th>Builder Fees</th></tr></thead><tbody><tr><td>All trades</td><td>0.03%</td></tr></tbody></table>
+
+### **Which jurisdictions are restricted from using the product?** <a href="#whats-the-difference-between-a-maker-and-taker-order" id="whats-the-difference-between-a-maker-and-taker-order"></a>
+
+Users located in or accessing the service from the United States of America, Canada, the United Kingdom, China, North Korea, South Korea, Russia, Ukraine, Cuba, Iran, Venezuela, or Syria are not permitted to use the product. Access may be restricted or blocked in accordance with applicable compliance and regulatory requirements.

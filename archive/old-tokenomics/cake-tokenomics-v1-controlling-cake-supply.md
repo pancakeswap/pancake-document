@@ -1,23 +1,23 @@
-# CAKE 공급량 제어 v1
+# Controlling CAKE supply v1
 
-## CAKE에 하드 캡이 없는 이유
+## Why CAKE has no hard cap
 
-현재 CAKE 토큰의 공급량에는 하드 캡이 없으며, 이로 인해 인플레이션 토큰입니다.
+There's currently no hard cap on the supply of CAKE token, making it an inflationary token.
 
-커뮤니티 구성원들은 이를 우려 사항으로 지적하는 경우가 많으며, 셰프들도 하드 캡에 대한 바람을 충분히 이해하지만 가까운 시일 내에 하드 캡을 설정할 것으로 예상하지 않는 큰 이유가 있습니다.
+Community members often point to this as a cause for concern, and while the chefs certainly understand the wish for a hard cap, there's a big reason we don't expect to set one in the near future:
 
-> CAKE의 주요 기능은 거래소에 유동성을 공급하도록 인센티브를 제공하는 것입니다. _블록 보상이 없다면 유동성을 공급할 인센티브가 훨씬 줄어들 것입니다(LP 수수료 등은 유지됨)._
+> CAKE's primary function is to incentivize providing liquidity to the exchange. _Without block rewards, there would be much less incentive to provide liquidity (LP fees etc. would remain)._
 
-**그렇다면 인플레이션에 대응하기 위해 CAKE의 공급량을 제한하는 다른 방법은 무엇인가요?**
+**So what are the other ways CAKE's supply is limited, to counter inflation?**
 
-## 하드 캡 없이 CAKE 공급량을 줄이는 방법
+## How CAKE supply is reduced without a hard cap
 
-셰프들은 PancakeSwap 제품에 디플레이션 메커니즘을 구축하여 **디플레이션이 발행량보다 높아지도록 하는 것**을 목표로 합니다. 생산되는 CAKE의 양보다 유통에서 빠져나가는 CAKE가 더 많아지는 것이 목표입니다.
+The chefs aim to **make deflation higher than emission** by building deflationary mechanisms into PancakeSwap's products. The goal is for more CAKE to leave circulation than the amount of CAKE that's produced.
 
-### 블록 발행량 감소
+### Reducing block emissions
 
-블록당 생성되는 CAKE의 양을 줄이면 인플레이션이 둔화됩니다. 이미 한 차례 시행되었습니다. [첫 번째 블록 발행량 감소](https://voting.pancakeswap.finance/#/pancake/proposal/QmWSQZsqakCMQ1bmcoEsKzStdtdFHL6cohSjnMV9ira1EC) 이후 유통에 진입하는 CAKE의 수는 이미 블록당 40 CAKE에서 14.5 CAKE로 실질적으로 줄었습니다. 하지만 하드 캡을 원하지 않는 것과 같은 이유로, 즉 사람들이 유동성을 공급하도록 여전히 인센티브를 제공해야 하기 때문에 이를 너무 이르게 너무 자주 하고 싶지는 않습니다.
+By reducing the amount of CAKE made per block, we slow inflation. This has already been done once: Since the [first reduction in block emissions](https://voting.pancakeswap.finance/#/pancake/proposal/QmWSQZsqakCMQ1bmcoEsKzStdtdFHL6cohSjnMV9ira1EC), we've already effectively reduced the number of CAKE entering circulation from 40 CAKE per block to 14.5. But we don't want to do this too frequently, too early, for the same reason we don't want a hard cap: we still need to incentivize people to provide liquidity.
 
-### 디플레이션 메커니즘
+### Deflationary mechanisms
 
-정기적인 토큰 소각([소각 주소 보기](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82?a=0x000000000000000000000000000000000000dead))은 PancakeSwap의 많은 제품(예: 복권 티켓에 사용된 CAKE의 10% 소각)에 내장되어 있으며, 더 많은 소각 방식이 준비 중입니다. 현재 및 예정된 디플레이션 메커니즘에 대한 자세한 내용은 \*\*\*\* [**CAKE 토크노믹스 페이지**](https://docs.pancakeswap.finance/protocol/cake-tokenomics) \*\*\*\* 를 확인하세요.
+Regular token burns ([view burn address](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82?a=0x000000000000000000000000000000000000dead)) are built into many of PancakeSwap's products (like a 10% burn of CAKE spent on lottery tickets), with more on the way. Check the \*\*\*\* [**CAKE Tokenomics page**](https://docs.pancakeswap.finance/protocol/cake-tokenomics) \*\*\*\* for details on present and upcoming deflationary mechanisms.

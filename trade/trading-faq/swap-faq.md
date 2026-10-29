@@ -1,250 +1,218 @@
-# 스왑 자주 묻는 질문 (FAQ)
+# Swap FAQ
 
-## 스왑
+## Swap
 
-### Exchange V3의 새로운 점은 무엇인가요?
+### What’s new in Exchange V3?
 
-* 집중 유동성 - 유동성이 가장 활발히 거래되는 가격 범위에 집중되므로 다음과 같은 효과가 있습니다.
-  * 트레이더의 거래 슬리피지 감소
-  * 유동성 공급자에게 더 많은 LP 수수료 보상 가능성
-* 유연한 거래 수수료 구조 - 유동성 공급자는 유동성 페어를 만들거나 유동성을 공급할 때 여러 거래 수수료 등급 중에서 선택할 수 있습니다
-* 사용자 정의 가격 범위 - 유동성 공급자는 유동성을 공급할 가격 범위도 직접 선택할 수 있습니다
-* 대체 불가능한 유동성 포지션 - 각 유동성 포지션은 가격 범위 등 설정에 대응하는 고유 ID를 갖습니다. 따라서 같은 거래 페어에서 설정과 유동성 수량이 서로 다른 여러 포지션을 만들고 유지할 수 있습니다
-* 하위 호환성 - v3 Exchange는 기존 v2 및 StableSwap 유동성 페어도 활용하여 항상 최적의 거래 경로를 제공합니다
-* 내장 지정가 주문 - 프로 사용자는 유동성 공급 시 새로운 사용자 정의 가격 범위를 활용하여, 가격이 목표에 도달하면 모든 토큰을 원하는 토큰으로 전환하는 지정가 주문을 사실상 만들 수 있습니다
+* Concentrated liquidity - liquidity will be concentrated on the most actively traded price range, which means:
+  * Lower trading slippage for traders
+  * Potentially more LP fee rewards for liquidity providers
+* A flexible trading fee structure - Liquidity providers can choose between multiple trading fee tiers when creating liquidity pairs or providing liquidity
+* Customisable price range - Liquidity providers can also choose what price ranges they want to provide liquidity to
+* Non-fungible liquidity positions - Each liquidity position will have its own unique ID corresponding to its configurations (such as price range). Therefore, you will be able to create and maintain multiple positions with the same trading pair but with different configurations and liquidity amount
+* Backwards compatible - v3 Exchange will also utilise the legacy v2 and stable swap liquidity pairs to always provide the best trading route
+* Built-in limit order - Pro users can utilise the new customisable price range in liquidity provisioning to effectively create a limit order which will convert all the tokens to the desired one when the price hits the target
 
+### Can I add my own tokens to Exchange V3?
 
+Everyone can create liquidity pools by depositing liquidity on V3.
 
-### Exchange V3에 내 토큰을 추가할 수 있나요?
+However, the following tokens are currently **NOT** supported:
 
-누구나 V3에서 유동성을 예치하여 유동성 풀을 만들 수 있습니다.
+* Fee-on-transfer tokens
+* Rebase tokens
 
-다만 다음 토큰은 현재 **지원되지 않습니다**.
+For these token, please do **NOT** add liquidity on Exchange V3. Your assets may stuck in the liquidity position.
 
-* 전송 수수료(fee-on-transfer) 토큰
-* 리베이스(Rebase) 토큰
+### **How come my transaction won't go through?**
 
-이러한 토큰은 Exchange V3에 유동성을 추가하지 **마세요**. 자산이 유동성 포지션에 묶일 수 있습니다.
+PancakeSwap is a DeFi application such that it interacts with the wallet to complete on-chain transactions for swapping, creating LPs, staking in farms and pools, etc.
 
+**Gas Fees**
 
+As such, the first thing is to **make sure you have enough BNB to pay for the gas fee** of the on-chain transactions. Typically, gas fee fluctuates depending on the number of transactions in the queue, if there are more transactions, a higher gas fee may be required to push through the transaction. On BNB Smart Chain, the gas fee typically ranges from cents to a dollar USD in BNB. Learn more about [gas fee here](https://academy.binance.com/en/glossary/gas).
 
-### **트랜잭션이 처리되지 않는 이유는 무엇인가요?**
+**Transaction Fees**
 
-PancakeSwap은 스왑, LP 생성, 파밍 및 풀 스테이킹 등을 위해 지갑과 상호작용하여 온체인 트랜잭션을 완료하는 DeFi 애플리케이션입니다.
+If your swapping action still doesn't go through and it is displaying an error for you to revise the slippage -- you may want to check if the tokens you are trying to swap has **any fees and restrictions on transactions**.
 
-**가스비**
+It is not uncommon for tokens on BNB Smart Chain to include a **transaction fee** in their contracts, usually these fees could be used for burning, funding a treasury of a fair launch project -- for example, this [APX token has an 1% tax on every transaction](https://apollox-finance.gitbook.io/apollox-finance/apx-token/tax) for sending to a burn address, such that more transactions would mean more burning, accruing value to APX token holders.
 
-따라서 가장 먼저 온체인 트랜잭션의 **가스비를 지불할 BNB가 충분한지 확인**해야 합니다. 일반적으로 가스비는 대기 중인 트랜잭션 수에 따라 변동하며, 트랜잭션이 많으면 트랜잭션을 처리하기 위해 더 높은 가스비가 필요할 수 있습니다. BNB Smart Chain에서 가스비는 보통 BNB로 몇 센트에서 1 USD 사이입니다. [가스비에 대해 여기에서](https://academy.binance.com/en/glossary/gas) 자세히 알아보세요.
+With the transaction fee, whether it is inclusive (a portion of the swap amount is sent elsewhere than your address so the output is less than expected for the estimated input) or exclusive (requiring an additional transfer from your address to send extra tokens so the input is more than expected for the estimated output), it affects the input and output amount that you agree for signing the transaction. In many cases, the transaction cannot meet the input and output requirements because of the tax.
 
-**트랜잭션 수수료**
+**Swapping with Transaction Fees**
 
-스왑이 여전히 처리되지 않고 슬리피지를 수정하라는 오류가 표시된다면, 스왑하려는 토큰에 **트랜잭션 관련 수수료나 제한**이 있는지 확인해 보세요.
+Before you swap any tokens, make sure you have visited their website to understand if they have a transaction fee mechanism (or _tax_ as many projects put it). If there is, make sure you set a slippage that is sufficient to accommodate the transaction fee -- e.g. if there is a transaction fee of 5%, your slippage will have to be set at least 5% plus the normal trading slippage depending on your trading amount and the token's liquidity, say 5.5%-6%.
 
-BNB Smart Chain의 토큰은 컨트랙트에 **트랜잭션 수수료**를 포함하는 경우가 드물지 않으며, 이 수수료는 보통 소각이나 페어 런치 프로젝트의 트레저리 자금 조달에 사용됩니다. 예를 들어 [APX 토큰은 모든 트랜잭션에 1% 세금이 부과](https://apollox-finance.gitbook.io/apollox-finance/apx-token/tax)되어 소각 주소로 전송되므로, 거래가 많을수록 소각이 늘어나 APX 토큰 보유자에게 가치가 축적됩니다.
+In some extreme cases including some scams, some tokens even have a block on most or all transfers on chain, or only allowing certain addresses to sell, in such case it is impossible to swap the token successfully. Do learn about the token you are trying to swap and be aware of any fees and restrictions!
 
-트랜잭션 수수료가 포함형(스왑 금액의 일부가 내 주소가 아닌 다른 곳으로 전송되어 예상 입력 대비 출력이 예상보다 적은 경우)이든 별도형(내 주소에서 추가 토큰을 보내야 하므로 예상 출력 대비 입력이 예상보다 많은 경우)이든, 이는 트랜잭션 서명에 동의한 입력 및 출력 수량에 영향을 줍니다. 많은 경우 세금 때문에 트랜잭션이 입력 및 출력 요건을 충족하지 못합니다.
+### Does the new Swap interface use v2 or stable swap liquidity?
 
-**트랜잭션 수수료가 있는 토큰 스왑하기**
+Yes. The new Swap v3 uses liquidity from PancakeSwap v3, v2 and stable swap to get the best trading route.
 
-토큰을 스왑하기 전에 해당 토큰의 웹사이트를 방문하여 트랜잭션 수수료 메커니즘(많은 프로젝트에서 _세금_이라고 부르는 것)이 있는지 확인하세요. 있다면 트랜잭션 수수료를 감당할 수 있을 만큼 충분한 슬리피지를 설정해야 합니다. 예를 들어 트랜잭션 수수료가 5%라면 슬리피지는 최소 5%에 거래 금액과 토큰의 유동성에 따른 일반적인 거래 슬리피지를 더한 5.5%~6% 정도로 설정해야 합니다.
+### What is split routing?
 
-일부 스캠을 포함한 몇몇 극단적인 경우에는 토큰이 온체인에서 대부분 또는 모든 전송을 차단하거나 특정 주소만 매도할 수 있도록 제한하기도 하며, 이 경우 토큰을 성공적으로 스왑하는 것이 불가능합니다. 스왑하려는 토큰에 대해 충분히 알아보고 모든 수수료와 제한 사항을 인지하세요!
+In Swap v3, your trade might be broken into multiple routes to execute your trade with the best rate.
 
+To view more detail of how your trade is routed, tap the “v” button on the “Route” section to expand and view the details.
 
+Learn more in [here](../pancakeswap-exchange/fees-and-routes.md#customize-routing-preferences).
 
-### 새로운 스왑 인터페이스는 v2 또는 StableSwap 유동성을 사용하나요?
+### How to customise or disable certain liquidity sources?
 
-네. 새로운 스왑 v3는 PancakeSwap v3, v2, StableSwap의 유동성을 사용하여 최적의 거래 경로를 찾습니다.
+The new Swap v3 uses liquidity from PancakeSwap v3, v2 and stable swap to get the best trading route. However, you can customize or disable certain liquidity sources if you do not want your trade to route through them.
 
+When viewing a trading route, click the “Customize Routing” button. Or click the cog ⚙️ button on the top right hand corner of the Swap interface and choose “Customize Routing”.
 
+Within the “Customize Routing” pop up, you are able to choose which liquidity source you want to utilise. Or disable multihops completely.
 
-### 분할 라우팅(split routing)이란 무엇인가요?
+Note: disabling multihops could lead to increased slippage or worse trading rate on specific trading pairs. Proceed with caution.
 
-스왑 v3에서는 최적의 환율로 거래를 실행하기 위해 거래가 여러 경로로 나뉠 수 있습니다.
+Learn more in [here](../pancakeswap-exchange/fees-and-routes.md#customize-liquidity-sources).
 
-거래가 어떻게 라우팅되는지 자세히 보려면 "Route" 섹션의 "v" 버튼을 눌러 펼쳐서 확인하세요.
+## Liquidity
 
-자세한 내용은 [여기](../pancakeswap-exchange/fees-and-routes.md#customize-routing-preferences)에서 확인하세요.
+### What are fee tiers and how to pick the correct one?
 
+In Exchange v3, when you are providing liquidity, you can choose between several different trading fees (0.01%, 0.05%, 0.25%, and 1%) for the same token pair.
 
+For example, for CAKE-BNB, there might be a 0.25% pair, which means a 0.25% trading fee is in place for every trade. However, some liquidity providers might choose to provide liquidity to a CAKE-BNB trading pair with a 0.05% fee rate, offers a better quote and attract more trading volume.
 
-### 특정 유동성 소스를 사용자 정의하거나 비활성화하려면 어떻게 하나요?
+There is no “correct” answer for which trading fee configuration to choose. It depends on the tokens within the trading pair. Usually, volatile tokens should have a higher trading fee to better compensate for the impermanent loss brought by the volatility. On the other hand, tokens like stable coins have smaller price movements and lower impermanent losses, therefore their trading fee should be lower.
 
-새로운 스왑 v3는 PancakeSwap v3, v2, StableSwap의 유동성을 사용하여 최적의 거래 경로를 찾습니다. 하지만 거래가 특정 유동성 소스를 거치지 않기를 원한다면 해당 소스를 사용자 정의하거나 비활성화할 수 있습니다.
+When selecting a token pair, the “Add Liquidity” interface will automatically choose the most popular fee tier for you.
 
-거래 경로를 볼 때 "Customize Routing" 버튼을 클릭하세요. 또는 스왑 인터페이스 오른쪽 상단의 톱니바퀴 ⚙️ 버튼을 클릭하고 "Customize Routing"을 선택하세요.
+### Why two of my deposit tokens are not equal in USD value?
 
-"Customize Routing" 팝업에서 사용할 유동성 소스를 선택하거나 멀티홉을 완전히 비활성화할 수 있습니다.
+In Exchange V3, underlying assets in a liquidity position will not always have an equal value in USD. It will depend on the price range settings of a position and the current price of the pair.
 
-참고: 멀티홉을 비활성화하면 특정 거래 페어에서 슬리피지가 증가하거나 거래 환율이 나빠질 수 있습니다. 주의해서 진행하세요.
+In fact. If your position goes out of range, all tokens will be converted to one single asset. Plus, you can provide liquidity to a price range that does not cover the current price and deposit one single asset only. Continue reading to learn more ⬇️
 
-자세한 내용은 [여기](../pancakeswap-exchange/fees-and-routes.md#customize-liquidity-sources)에서 확인하세요.
+### What happens if my liquidity position goes out of range?
 
+You will not earn any trading fee rewards if the current price goes out of the price range defined in your position.
 
+On top of that, all tokens will be converted to one single asset depending on the direction of the price condition.
 
-## 유동성
+For example, if a position of CAKE/BUSD is configured with a price range of 3 BUSD per CAKE to 5 BUSD per CAKE. And all assets in the position will be converted to BUSD if the CAKE price is higher or equal to 5 BUSD per CAKE, and vice versa.
 
-### 수수료 등급이란 무엇이며 올바른 등급은 어떻게 고르나요?
+Please not that if the price moves back in the range, you will start receiving trading fee rewards again. No additional actions are required.
 
-Exchange v3에서는 유동성을 공급할 때 같은 토큰 페어에 대해 여러 거래 수수료(0.01%, 0.05%, 0.25%, 1%) 중에서 선택할 수 있습니다.
+### Is it better to always provide liquidity with a smaller range?
 
-예를 들어 CAKE-BNB에는 0.25% 페어가 있을 수 있으며, 이는 모든 거래에 0.25%의 거래 수수료가 적용된다는 의미입니다. 하지만 일부 유동성 공급자는 더 좋은 견적을 제공하고 더 많은 거래량을 끌어들이기 위해 수수료율 0.05%의 CAKE-BNB 거래 페어에 유동성을 공급하기도 합니다.
+Providing liquidity to a smaller price range will help concentrate your liquidity to a specific price range, boosting your relative shares against the total liquidity within the price range, potentially earning more trading fee rewards.
 
-어떤 거래 수수료 설정을 선택해야 하는지에 대한 "정답"은 없습니다. 거래 페어에 포함된 토큰에 따라 달라집니다. 보통 변동성이 큰 토큰은 변동성으로 인한 비영구적 손실을 더 잘 보상하기 위해 거래 수수료가 더 높아야 합니다. 반면 스테이블코인 같은 토큰은 가격 변동이 작고 비영구적 손실이 적으므로 거래 수수료가 더 낮아야 합니다.
+However, please bear in mind that only active liquidity positions will earn trading fee rewards from trades. This means you will only earn rewards when the current trading price is within the price range defined in the liquidity position.
 
-토큰 페어를 선택하면 "Add Liquidity" 인터페이스가 가장 인기 있는 수수료 등급을 자동으로 선택해 줍니다.
+### Are there any ways to automatically adjust my position so it is always in range and earning fee rewards?
 
+PancakeSwap v3 supports one-click liquidity depositing via Zap, available on BNB Chain and Ethereum.
 
-
-### 예치한 두 토큰의 USD 가치가 같지 않은 이유는 무엇인가요?
-
-Exchange V3에서는 유동성 포지션의 기초 자산이 항상 같은 USD 가치를 갖지는 않습니다. 이는 포지션의 가격 범위 설정과 페어의 현재 가격에 따라 달라집니다.
-
-실제로 포지션이 범위를 벗어나면 모든 토큰이 하나의 자산으로 전환됩니다. 또한 현재 가격을 포함하지 않는 가격 범위에 유동성을 공급하고 하나의 자산만 예치할 수도 있습니다. 더 알아보려면 아래를 계속 읽어 보세요 ⬇️
-
-
-
-### 유동성 포지션이 범위를 벗어나면 어떻게 되나요?
-
-현재 가격이 포지션에 정의된 가격 범위를 벗어나면 거래 수수료 보상을 받지 못합니다.
-
-게다가 가격 변동 방향에 따라 모든 토큰이 하나의 자산으로 전환됩니다.
-
-예를 들어 CAKE/BUSD 포지션의 가격 범위를 CAKE당 3 BUSD에서 CAKE당 5 BUSD로 설정했다면, CAKE 가격이 CAKE당 5 BUSD 이상일 때 포지션의 모든 자산이 BUSD로 전환되며, 반대의 경우도 마찬가지입니다.
-
-가격이 다시 범위 안으로 돌아오면 거래 수수료 보상을 다시 받기 시작한다는 점에 유의하세요. 별도의 추가 조치는 필요하지 않습니다.
-
-
-
-### 항상 더 좁은 범위로 유동성을 공급하는 것이 더 좋은가요?
-
-더 좁은 가격 범위에 유동성을 공급하면 유동성이 특정 가격 범위에 집중되어 해당 범위 내 전체 유동성에서 차지하는 상대적 비중이 커지므로 더 많은 거래 수수료 보상을 받을 가능성이 있습니다.
-
-다만 활성 상태의 유동성 포지션만 거래에서 거래 수수료 보상을 받는다는 점을 유념하세요. 즉, 현재 거래 가격이 유동성 포지션에 정의된 가격 범위 안에 있을 때만 보상을 받습니다.
-
-
-
-### 포지션이 항상 범위 안에 있어 수수료 보상을 받도록 자동으로 조정하는 방법이 있나요?
-
-PancakeSwap v3는 BNB 체인과 Ethereum에서 이용할 수 있는 Zap을 통한 원클릭 유동성 예치를 지원합니다.
-
-
-
-### v3 Exchange의 거래 수수료 배분은 어떻게 되나요?
+### What will be the trading fee breakdown for v3 Exchange?
 
 |                    | 0.01% | 0.05% | 0.25% | 1%  |
 | ------------------ | ----- | ----- | ----- | --- |
-| 유동성 공급자 | 67%   | 66%   | 68%   | 68% |
-| CAKE 소각          | 15%   | 15%   | 23%   | 23% |
-| 트레저리           | 18%   | 19%   | 9%    | 9%  |
+| Liquidity Provider | 67%   | 66%   | 68%   | 68% |
+| CAKE Burn          | 15%   | 15%   | 23%   | 23% |
+| Treasury           | 18%   | 19%   | 9%    | 9%  |
 
-### LP 수수료 보상은 Exchange v2처럼 자동으로 복리 적용되나요?
+### Are LP fee rewards automatically compounded like Exchange v2?
 
-아니요.
+No.
 
-Exchange v3에서는 거래 수수료 보상을 직접 수령해야 합니다. 포지션 상세 페이지에서 수령할 수 있습니다. 모든 v3 유동성 포지션은 유동성 페이지에서 확인할 수 있습니다.
+In Exchange v3 you will need to claim trading fee rewards manually. You may do that on the position detail page. You may find all your v3 liquidity positions on the liquidity page.
 
+### What affects LP APR?
 
+In Exchange v3, LP fee reward APR could vary between liquidity positions. It is based on the following factors:
 
-### LP APR에 영향을 미치는 요인은 무엇인가요?
+* Trading volume\
+  \- more volume generates more fee rewards
+* Liquidity pair fee tier\
+  \- higher fee tier generates more fee rewards from individual trades
+* The number of tokens deposited\
+  \- more token in the position translates to a larger relative share against the total active liquidity, which gets more trading fee rewards from trades
+* The selected price range\
+  \- smaller price range allows a higher concentration for the same amount of token deposited, which translates to a larger relative share against the total active liquidity, and gets more trading fee rewards from trades
+* The amount of liquidity currently active\
+  \- if there are more users who deposit and concentrate their liquidity with the same range as you, you will earn less trading fee due to a smaller relative share against the total
+* Whether the liquidity position is active\
+  \- only active liquidity positions will earn trading fee rewards
 
-Exchange v3에서 LP 수수료 보상 APR은 유동성 포지션마다 다를 수 있습니다. 이는 다음 요인에 따라 결정됩니다.
+### Can I provide v2 liquidity?
 
-* 거래량\
-  \- 거래량이 많을수록 더 많은 수수료 보상이 발생합니다
-* 유동성 페어의 수수료 등급\
-  \- 수수료 등급이 높을수록 개별 거래에서 더 많은 수수료 보상이 발생합니다
-* 예치한 토큰 수량\
-  \- 포지션에 토큰이 많을수록 전체 활성 유동성 대비 상대적 비중이 커져 거래에서 더 많은 거래 수수료 보상을 받습니다
-* 선택한 가격 범위\
-  \- 가격 범위가 좁을수록 같은 양의 토큰을 예치해도 더 높은 집중도를 확보할 수 있어, 전체 활성 유동성 대비 상대적 비중이 커지고 거래에서 더 많은 거래 수수료 보상을 받습니다
-* 현재 활성 상태인 유동성의 양\
-  \- 나와 같은 범위에 유동성을 예치하고 집중하는 사용자가 많을수록 전체 대비 상대적 비중이 작아져 거래 수수료를 덜 받게 됩니다
-* 유동성 포지션의 활성 여부\
-  \- 활성 상태의 유동성 포지션만 거래 수수료 보상을 받습니다
+Providing v2 liquidity is no longer advisable. We recommend using v3 liquidity to take advantage of the new features to improve efficiency.
 
+If you want to proceed with adding v2 liquidity:
 
+* If the token pair does not have a v3 pool, or it has more liquidity in v2 than the largest pool in v3. A “Add V2 Liquidity” will appear. Simply click to switch to adding v2 liquidity
+* Alternatively, use `/v2` in the URL to always use v2 liquidity provisioning
 
-### v2 유동성을 공급할 수 있나요?
+### Why can’t I add liquidity to a pair I just created?
 
-v2 유동성 공급은 더 이상 권장되지 않습니다. 효율성을 높이는 새로운 기능을 활용하려면 v3 유동성을 사용하시기를 권장합니다.
+Due to a bug from the legacy Exchange V2 (present in every UniSwap V2 forks), you will not be able to add liquidity to a pair using the normal PancakeSwap liquidity UI and its contract calls if a pair is:
 
-그래도 v2 유동성 추가를 진행하려는 경우:
-
-* 토큰 페어에 v3 풀이 없거나, v2의 유동성이 v3의 가장 큰 풀보다 많은 경우 "Add V2 Liquidity"가 표시됩니다. 클릭하여 v2 유동성 추가로 전환하면 됩니다
-* 또는 URL에 `/v2`를 사용하면 항상 v2 유동성 공급을 사용할 수 있습니다
-
-
-
-### 방금 만든 페어에 유동성을 추가할 수 없는 이유는 무엇인가요?
-
-기존 Exchange V2의 버그(모든 UniSwap V2 포크에 존재) 때문에, 페어가 다음과 같은 경우 일반 PancakeSwap 유동성 UI와 컨트랙트 호출로는 해당 페어에 유동성을 추가할 수 없습니다.
-
-* 초기 유동성을 예치하고 초기 LP 토큰을 발행(mint)하지 않은 채 FactoryV2에서 `createPair`를 호출하여 생성된 경우
-* 그 후 페어의 토큰 중 하나가 풀 컨트랙트로 수동 전송되고 `sync`가 호출된 경우
+* Created by calling `createPair` on FactoryV2 without depositing initial liquidity and minting the initial LP tokens
+* Then, one of the tokens in the pair has been manually transferred into the pool contract while calling `sync`
 
 {% hint style="info" %}
-최근 BNB 체인의 PancakeSwap Exchange V2에서 이러한 공격이 증가하는 것이 확인되었습니다.&#x20;
+Recently, an increase amount of such attacks were spotted on PancakeSwap Exchange V2 on BNB Chain.
 
-토큰의 거래 페어를 생성할 때는 페어 생성과 함께 초기 유동성을 추가하는 방식으로 당사 UI를 사용하시기를 강력히 권장합니다.
+We strongly recommend using our UI to create the trading pair for your token by adding the initial liquidity with the pair creation.
 {% endhint %}
 
-셰프들이 이 문제를 해결할 방안을 열심히 마련하는 동안, BscScan을 사용하여 이 문제를 해결하는 단계별 가이드는 다음과 같습니다.
+While Chefs are working hard on a solution to resolve this issue, here is a step-by-step guide to resolve this using BscScan:
 
-#### 풀 주소와 해당 BscScan 페이지 찾기
+#### Locate the pool address and its BscScan page
 
-<div align="left"><figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/cannot%20add%20v2%20liquidity-error%20pump.jpg" alt="" width="280"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/cannot add v2 liquidity-error pump.jpg" alt="" width="280"><figcaption></figcaption></figure></div>
 
-페어가 영향을 받은 경우 오류 안내 창에 해당 거래 페어/풀의 BscScan 페이지 링크가 표시됩니다.
+If your pair is affected, you will see the link to the BscScan page for the trading pair/pool in the error prompt.
 
-또는 Factory V2([Bsc](https://bscscan.com/address/0xca143ce32fe78f1f7019d7d551a6402fc5350c73#readContract))로 이동하여 "Read Contract", "6. getPair"를 선택하고, 거래 페어의 두 토큰 주소를 입력한 뒤 "Query"를 클릭하세요. 반환 필드에서 페어 주소를 확인할 수 있습니다.
+Alternatively, you can head to Factory V2 ([Bsc](https://bscscan.com/address/0xca143ce32fe78f1f7019d7d551a6402fc5350c73#readContract)), go to “Read Contract”, “6. getPair”, enter the address of the two tokens in your trading pair, and click “Query”. You should see the pair address in the return field.
 
-#### 어느 토큰이 예치되어 있는지 확인하고 다른 토큰을 페어로 수동 전송하기
+#### Check which token has been deposited and transfer the other token into the pair manually
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28335%29.png)
+![](<../../.gitbook/assets/image (334).png>)
 
-BscScan의 토큰 잔액 필드에서 어느 토큰이 풀에 예치되어 있는지 확인할 수 있습니다. 보통은 짝이 되는 토큰(WBNB, USDT 등)입니다.
+From the token balance field on BscScan, you can check which token has been deposited into the pool. Usually, it should be the paired token. (Like WBNB, USDT, etc…)
 
-확인했다면 다른 자산을 풀 컨트랙트로 수동 전송해야 합니다. 선호하는 지갑 앱에서 풀 주소를 수신자로 입력하여 전송할 수 있습니다.
+Once confirmed, you must manually transfer the other asset into the pool contract. You may do that in the wallet app you prefer by entering the pool address as the receiver.
 
-전송 수량은 얼마든지 가능하지만, 이는 사실상 풀에 자산을 "기부"하는 것입니다. 유동성 토큰을 발행받지 않고 자산을 유동성 풀로 전송하게 됩니다. 따라서 이 수량을 최소한으로 유지하시기를 권장합니다.
+You can transfer any amount but since this is effectively “donating” assets to a pool. You will be transferring your assets into a liquidity pool without minting liquidity tokens. So we recommend keeping this amount minimal.
 
 {% hint style="warning" %}
-중요: 토큰을 전송한 후에는 즉시 풀에서 `sync()`를 호출해야 합니다.
+IMPORTANT: Once you’ve transferred the token, you must call `sync()`immediately on the pool.
 {% endhint %}
 
-해당 거래 페어의 BscScan 페이지로 이동하여 "Write Contract", "8. Sync"를 선택하고 "Write" 버튼을 클릭하면 됩니다. 트랜잭션을 수행하기 전에 지갑을 연결해야 합니다.
+You can do so by heading to the BscScan page for the trading pair, going to “Write Contract”, “8. Sync”, and clicking the “Write” button. You will need to connect your wallet before performing the transaction.
 
-트랜잭션이 확인되면 PancakeSwap UI에서 이후 유동성을 추가할 수 있습니다.
+Once the transaction is confirmed, you can add the subsequent liquidity on PancakeSwap UI.
 
-#### 출시 가격을 직접 정하고 싶다면 어떻게 하나요?
+#### What if I want to define the launch price?
 
-토큰을 전송하고 풀을 복구하는 동안 풀을 출시 가격에 맞게 조정해야 합니다.
+You must adjust the pool to the launch price while transferring the token and fixing the pool.
 
-전송할 수량은 다음을 사용하여 계산할 수 있습니다.
+The amount to transfer can be calculated using:
 
-* `tokenInside`: 이미 풀로 전송된 토큰. 보통은 짝이 되는 토큰(WBNB, USDT 등)입니다
-* `tokenToSend`: 풀로 전송하려는 토큰. 보통은 프로젝트 토큰입니다
-* `tokenInside.price`: tokenInside의 USD 가격
-* `tokenToSend.price`: tokenToSend의 USD 가격(출시 가격)
-* `pool`: V2 풀
+* `tokenInside`: the token that is already transferred into the pool. Usually it should be the paired token. (Like WBNB, USDT, etc…)
+* `tokenToSend`: the token that is about to be sent to the pool. Usually it should be your project token
+* `tokenInside.price`: the USD price of tokenInside
+* `tokenToSend.price`: the USD price of tokenToSend (the launch price)
+* `pool`: the V2 pool
 
-다음 공식을 사용합니다.
+With the following formula:
 
 `amountToSend = tokenInside.balanceOf(pool) / tokenInside.decimal() * tokenInside.price / tokenToSend.price * tokenToSend.decimal()`
 
-결과가 0보다 작은 경우(출시 가격이 매우 클 때 보통 발생합니다. 먼저 `tokenInside`를 풀에 더 예치해야 할 수 있습니다)
+If the result is smaller than 0 (usually happens when the launch price is very large. You may need to first deposit more `tokenInside` into the pool)
 
+### How to manage stable LP, and legacy v2 LP?
 
+You can manage them as usual by going to the [Liquidity](https://pancakeswap.finance/liquidity) page.
 
-### 스테이블 LP와 기존 v2 LP는 어떻게 관리하나요?
+### Why do I need to reset approval on USDT before enabling/approving?
 
-[유동성](https://pancakeswap.finance/liquidity) 페이지에서 평소처럼 관리할 수 있습니다.
+When operating on the Ethereum mainnet, the USDT token follows a different logic for managing approvals and token allowance.
 
-
-
-### 활성화/승인 전에 USDT의 승인을 초기화해야 하는 이유는 무엇인가요?
-
-Ethereum 메인넷에서 작업할 때 USDT 토큰은 승인과 토큰 허용량을 관리하는 로직이 다릅니다.&#x20;
-
-따라서 사용 허용량이 너무 낮을 때는 새 승인을 설정하기 전에 승인을 초기화해야 합니다.
+Therefore, when spending allowances are too low. It requires you to reset the approval before setting a new one.

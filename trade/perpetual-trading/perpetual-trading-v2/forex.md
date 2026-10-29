@@ -1,20 +1,20 @@
-# 외환
+# Forex
 
-PancakeSwap 무기한 선물 V2는 외환 거래 페어를 제공합니다. 암호화폐 시장과 달리 외환 시장은 연중무휴 24시간 거래할 수 없습니다. 트레이더는 다음 시간을 참고하세요.
+PancakeSwap Perpetuals V2 offers forex trading pairs. Unlike the cryptocurrency market, the foreign exchange market is not open for trading 24/7. Traders may refer to the following timings:
 
-| 요일  | 거래 개장/폐장                                                                                  |
-| --- | ----------------------------------------------------------------------------------------- |
-| 월요일 | 개장                                                                                        |
-| 화요일 | 개장                                                                                        |
-| 수요일 | 개장                                                                                        |
-| 목요일 | 개장                                                                                        |
-| 금요일 | <p>22:00 UTC부터 폐장 (서머타임 적용)</p><p>23:00 UTC부터 폐장 (서머타임 미적용)</p>        |
-| 토요일 | 폐장                                                                                        |
-| 일요일 | <p>22:00 UTC부터 개장 (서머타임 적용)</p><p>23:00 UTC부터 개장 (서머타임 미적용)</p>        |
+| Day       | Open/Close for trading                                                                   |
+| --------- | ---------------------------------------------------------------------------------------- |
+| Monday    | Open                                                                                     |
+| Tuesday   | Open                                                                                     |
+| Wednesday | Open                                                                                     |
+| Thursday  | Open                                                                                     |
+| Friday    | <p>Closed from 22:00 UTC onwards (DST)</p><p>Closed from 23:00 UTC onwards (Non-DST)</p> |
+| Saturday  | Closed                                                                                   |
+| Sunday    | <p>Open from 22:00 UTC onwards (DST)</p><p>Open from 23:00 UTC onwards (Non-DST)</p>     |
 
-또한 외환 시장은 다음 공휴일에도 폐장합니다.
+In addition, the foreign exchange market will also be closed during the following public holidays:
 
-* 12월 25일 - 12월 27일
-* 1월 1일 - 1월 2일
+* 25th December - 27th December
+* 1st January - 2nd January
 
 <br>

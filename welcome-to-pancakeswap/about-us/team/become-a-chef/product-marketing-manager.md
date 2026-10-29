@@ -2,36 +2,36 @@
 hidden: true
 ---
 
-# 프로덕트 마케팅 매니저
+# Product Marketing Manager
 
-**일반 정보**\
-직무명: 프로덕트 마케팅 매니저\
-근무지: 원격 (시간대: UTC+8)\
-근무 형태: 정규직
+**General Information**\
+Job Title: Product Marketing Manager\
+Location: Remote (Timezone: UTC+8)\
+Position: Full-time
 
-**직무 설명:**\
-DeFi 분야에서 활동 중이며 저희와 함께 DeFi 제품과 캠페인을 선보이는 데 열정이 있는 프로덕트 마케팅 매니저를 찾고 있습니다. 이 역할에는 DeFi와 DEX 메커니즘에 대한 깊은 이해와 빠르고 효과적으로 실행하는 능력이 필요합니다.
+**Job Description:**\
+We’re looking for a Product Marketing Manager who’s active in the DeFi space and excited to ship DeFi products and campaigns with us. This role requires a strong understanding of DeFi and DEX mechanics, along with the ability to execute quickly and effectively.
 
-팀 간 협업을 좋아하고, DeFi 커뮤니티가 무엇에 열광하는지 알며, 제품 캠페인을 출시해 본 경험이 있다면 저희는 여러분의 이야기를 듣고 싶습니다.
+If you love working across teams, know what gets the DeFi community hyped, and have experience shipping product campaigns, we want to hear from you.
 
-**주요 책임:**
+**Key Responsibilities:**
 
-* PancakeSwap 제품(DEX, 유동성 등) 전반의 제품 메시징을 총괄합니다.
-* 사용자 확보, 거래량, 제품 도입을 이끄는 프로덕트 마케팅 캠페인을 기획하고 실행합니다.
-* 제품 및 GTM 출시를 이끌며 제품 내러티브, 공지, 캠페인 롤아웃을 만듭니다.
-* 제품 기능을 모든 사용자에게 명확하고 설득력 있는 메시지로 전환합니다.
-* TVL, 사용자 유지율, 거래량 등의 성과를 추적하고 데이터에 따라 캠페인을 조정합니다.
-* 프로덕트 매니저, 비즈니스 개발 매니저, 데이터 분석가, 그리고 더 넓은 마케팅 팀과 긴밀히 협력하여 성공적이고 일관된 제품 출시를 이끕니다.
+* Own product messaging across PancakeSwap’s products (DEX, liquidity, etc)
+* Create and execute product marketing campaigns that drive user acquisition, trading volumes, and product adoption.
+* Lead product and GTM launches: crafting product narratives, announcements, and campaign rollouts
+* Turn product features into clear and compelling messaging for all users
+* Track performance (like TVL, user retention, volume) and adjust campaigns based on data
+* Collaborate closely with Product Managers, Business Development Managers, Data Analysts, and the broader Marketing team to deliver successful and aligned product launches.
 
-**요구 사항:**
+**Requirements:**
 
-* 프로덕트 마케팅 직무 경력 2년 이상
-* 암호화폐, DeFi 또는 Web3 분야 근무 경력 2년 이상
-* 제품과 제품 캠페인을 출시한 검증된 실적
-* Dune, Google Analytics 등의 도구를 활용해 본 분석적 사고방식
-* 우수한 영어 쓰기 및 말하기 능력
-* DeFi 문화, 커뮤니티가 좋아하는 것, 어떤 콘텐츠가 반응을 얻는지 아는 분
-* 빠르게 변화하는 환경에서 성과 지향적인 마인드셋으로 일하는 것을 즐기는 분
+* 2+ years experience in a product marketing role
+* 2+ years working in crypto, DeFi, or Web3
+* Proven track record of launching products and product campaigns
+* Analytic mindset with experience using tools like Dune, Google Analytics
+* Strong written and spoken English
+* You know the DeFi culture, what the community likes, and what kind of content hits
+* You enjoy working in a fast-paced environment with a results-oriented mindset
 
-**지원 방법:**\
-이력서를 hiring@pancakeswap.com 으로 보내 주세요. 여러분의 이야기를 기다립니다!
+**How to Apply:**\
+Shoot your resume over to hiring@pancakeswap.com, we’d love to hear from you!

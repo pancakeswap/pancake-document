@@ -1,43 +1,43 @@
-# PancakeSwap X 사용 방법
+# How to use PancakeSwap X
 
-PancakeSwap X는 익숙한 "Swap" 인터페이스에 바로 내장되어 있으며 모든 사용자에게 기본으로 활성화되어 있습니다. PancakeSwap X를 사용하려면 [Swap](https://pancakeswap.finance/swap) 페이지로 이동하여 거래를 시작하기만 하면 됩니다.
+PancakeSwap X is built directly into the familiar “Swap” interface and enabled for all users by default. To use PancakeSwap X, simply head to the [Swap](https://pancakeswap.finance/swap) page and start trading.
 
-### PancakeSwap X 활성화
+### Enable PancakeSwap X
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28470%29.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (467).png" alt="" width="375"><figcaption></figcaption></figure>
 
-X가 활성화되어 있지 않은 경우, "Route"의 설정 아이콘을 클릭해 설정 창을 열고 "Customise Routing"을 클릭하여 라우팅 환경설정을 불러옵니다.
+In case X is not enabled. Click the settings icon in “Route” to open the settings modal, and then click “Customise Routing” to bring up the routing preference.
 
-"Customize Routing" 창 안에 거래 경로에 PancakeSwap X를 사용할지 전환하는 새 스위치가 있습니다. 클릭하거나 탭하여 켜면 됩니다.
+Within the “Customize Routing” modal, there will be a new switch for toggling PancakeSwap X for trade routes. Simply click or tap to toggle it on.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28471%29.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (468).png" alt="" width="375"><figcaption></figcaption></figure>
 
-스위치를 켠 후에는 메인 Swap 페이지로 돌아가면 됩니다. 현재 스왑이 PancakeSwap X를 사용할 수 있다면 "Route" 섹션에 표시가 나타나며, 가격 영향과 수수료는 모두 0으로 표시됩니다.
+Once toggled, you may head back to the main Swap page. If the current Swap is available for PancakeSwap X, an indicator will show up in the “Route” section. With price impact and fees all being 0.
 
-PancakeSwap X가 모든 스왑에서 사용 가능한 것은 아닙니다. 사용 가능 여부는 입력 및 출력 토큰, 거래 규모, 네트워크에 따라 달라집니다. PancakeSwap X로 스왑을 처리할 수 없는 경우 AMM 유동성 풀을 통해 라우팅됩니다.
+Please note that PancakeSwap X is not available for all the swaps. Its availability is subject to input, and output tokens, as well as the trade size and the network. If the swap can not be processed by PancakeSwap X, it will be routed through the AMM liquidity pools.
 
-거래가 PancakeSwap X를 통해 진행되면 "Route" 섹션에 강조 표시됩니다.
+When a trade is going through PancakeSwap X, it will be highlighted in the “Route” section.
 
-### 주문 제출
+### Submit Order
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28472%29.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (469).png" alt="" width="375"><figcaption></figcaption></figure>
 
-주문을 제출하려면 "Swap"을 클릭한 뒤 "Confirm Swap" 창에서 모든 파라미터를 확인하세요. 모두 이상이 없다면 "Confirm Swap"을 클릭하여 계속 진행합니다.
+To submit the order, click “Swap”, then verify all the parameters in the “Confirm Swap” modal. If everything looks good, click “Confirm Swap” to continue.
 
-입력 토큰을 아직 승인하지 않았다면 지갑에서 승인하라는 요청이 표시됩니다. PancakeSwap X를 통한 스왑에는 가스 토큰이 필요하지 않지만, 토큰 사용 승인에는 가스비가 필요하다는 점에 유의하세요.
+If you haven’t approved the input token, your wallet will prompt you to approve. Please note that although swapping through PancakeSwap X does not require any gas token, approving for token spending does require gas.
 
-토큰 승인 후 주문에 서명하라는 또 다른 지갑 팝업이 나타납니다. "Confirm"을 클릭하여 진행하면 됩니다. 가스 비용이나 온체인 트랜잭션은 발생하지 않습니다.
+After token approval, another wallet popup will appear to ask for signing on the order. Simple click “Confirm” to proceed. No gas cost or onchain transaction will be involved.
 
-주문이 제출되면 진행률 표시줄이 있는 창이 나타납니다. 창을 닫아도 주문은 백그라운드에서 계속 체결됩니다.
+Once the order is submitted, a modal with progress bar will appear. You may close the modal, while your order will continue to be filled in the background.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28473%29.png" alt="" width="367"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (470).png" alt="" width="367"><figcaption></figcaption></figure>
 
-일반적인 AMM DEX 유동성 풀 스왑과 달리, PancakeSwap X 주문은 제출된 후 유동성 공급자가 응답하여 주문을 체결하기까지 시간이 걸린다는 점에 유의하세요. 주문이 성공적으로 체결되기까지 최대 2분이 걸릴 수 있습니다.
+Note that unlike regular AMM DEX liquidity pool swaps, once a PancakeSwap X order is submitted, it will take some time for the liquidity providers to respond and fill your order. It could take up to 2 minutes until the order is successfully filled.
 
-### 주문 상태 추적
+### Track your order status
 
-주문 상태를 추적하려면 오른쪽 상단의 지갑 드롭다운에서 지갑 창을 엽니다. "Transaction" 버튼을 클릭하면 주문 목록이 표시됩니다. 특정 주문의 자세한 내용을 보려면 해당 주문을 클릭하여 상세 창을 엽니다.
+To track your order status, open the wallet modal from wallet dropdown on top right. Click the “Transaction” button to bring up the list of orders. To see more detail of a specific order, simply click and open up the detail modal.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28474%29.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (471).png" alt="" width="375"><figcaption></figcaption></figure>
 
-주문이 성공적으로 체결되면 주문에 녹색 체크 표시가 나타나며, 구매한 토큰은 자동으로 지갑으로 전송됩니다.
+Once an order is successfully filled, you will see a green check mark on the order, while the purchased tokens being sent to your wallet automatically.

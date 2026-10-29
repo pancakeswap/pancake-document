@@ -1,37 +1,37 @@
-# TWAP 사용 방법
+# How to use TWAP
 
-## TWAP이란?
+## What is TWAP?
 
-TWAP(시간 가중 평균 가격)은 CeFi에서 흔히 사용되는 주문 유형으로, 주문을 더 작은 거래 규모로 나누어 일정한 간격으로 실행합니다. TWAP 주문의 주된 목적은 주문의 가격 영향을 줄이는 것입니다. 또한 사용자가 달러 코스트 애버리징(DCA) 전략을 구현하여 특정 토큰을 일정한 주기(예: 한 달에 한 번)로 매수하려는 경우에도 유용할 수 있습니다.
+TWAP (Time-weighted Average Price) is a common order type used in CeFi that breaks an order into smaller trade sizes and executes them at regular intervals. The main goal of a TWAP order is to reduce the order’s price impact. It can also be useful if a user wants to implement a dollar-cost averaging strategy (DCA) and buy a certain token on a consistent schedule (i.e. once a month).
 
-따라서 TWAP은 주문 규모가 이용 가능한 유동성에 비해 크거나, 뚜렷한 상승 또는 하락 추세 없이 가격 변동성이 클 것으로 예상될 때 가장 적합합니다.
+Therefore, TWAP is best used when the order size is large compared to the available liquidity, or when a user anticipates a high price volatility period with no clear up or downward trend.
 
-## TWAP 주문 설정 방법
+## How to set up a TWAP order?
 
-1. 스왑 페이지로 이동하여 TWAP을 클릭해 TWAP 주문 옵션을 선택합니다.
-2. "From" 토큰과 "To" 토큰을 선택하고 거래하려는 수량을 입력합니다.
-3. UI에서는 모든 거래를 이용 가능한 시장 가격으로 실행하는 dTWAP 시장가 주문과, 사용자가 설정한 가격 한도 내에 있는 경우에만 개별 거래를 실행하는 dTWAP 지정가 주문을 모두 사용할 수 있습니다. \
-   이 예시에서는 TWAP 주문을 시장 가격으로 실행하도록 선택했습니다.
-4. 다음으로 TWAP 매개변수를 지정합니다. dTWAP 주문의 효과를 좌우하는 주요 매개변수는 세 가지입니다.
-   1. Total trades(총 거래 횟수): 주문을 몇 번의 개별 거래로 나눌지 지정할 수 있습니다. UI 슬라이더는 1회 거래에서 시작하며, 사용자가 개별 거래 횟수를 늘리거나 입력란에 총 거래 횟수를 직접 입력할 수 있습니다.\
-      이 매개변수를 지정할 때는 일정한 트레이드오프가 있다는 점에 유의해야 합니다. 거래 횟수가 많을수록 개별 거래 규모가 작아지고, 그 결과 가격 영향이 줄어듭니다. 하지만 거래 횟수가 많을수록 트랜잭션도 늘어나 전체 가스비가 높아집니다.&#x20;
-   2. Trade Interval(거래 간격): 각 개별 거래 사이의 시간 간격을 설정합니다. UI는 허용되는 최소값(2분)에서 시작하며, 이는 각 분할 거래 사이에 테이커 입찰 경쟁과 블록 정산을 위한 최소한의 시간만 남깁니다. 사용자는 원하는 어떤 기간으로든 설정할 수 있습니다. 거래는 이전 거래 이후 이 시간이 지나기 전에는 절대 실행되지 않습니다.\
-      이 매개변수를 설정할 때도 주의해야 합니다. 간격이 길수록 차익거래자들이 영향을 받은 풀의 가격 불일치를 해소하고 준비금을 균형 상태(현물 가격과 일치하는 수준)로 되돌릴 시간이 더 길어집니다. 하지만 주문이 체결되는 데 더 오래 걸려 특히 변동성이 높은 시기에는 최종 체결 가격에 불확실성이 더해집니다
-   3. Max Duration(최대 기간): 전체 dTWAP 주문을 구성하는 모든 개별 거래의 총량이 실행될 수 있는 최대 시간입니다. 이 기한이 지나면 실제로 스왑된 수량과 관계없이 거래가 만료됩니다.\
-      지정가 주문에서는 가격이 설정한 매개변수 내에 머무르는지에 따라 모든 분할 거래가 실행되지 않을 수도 있다는 점에 유의하세요. \
-      기본 권장 기간은 거래 횟수에 거래 간격을 곱한 뒤 이를 두 배로 늘려 온체인 활동을 위한 충분한 시간적 여유를 확보하도록 계산됩니다. (위의 기본값보다 짧은 기간을 설정하면 주문이 부분 체결될 수 있습니다.)
+1. Go to the Swap page and select the TWAP order option by clicking TWAP
+2. Select the “From” and “To” tokens and enter the amount you wish to trade.
+3. The UI enables both dTWAP-market orders, which execute all trades at the available market price, and dTWAP-limit orders, which only execute individual trades if they are within the price limit set by the user.\
+   In this example we chose to execute the TWAP orders at market price.
+4. Next, we specify the TWAP parameters. There are 3 main parameters that control the effectiveness of the dTWAP order:
+   1. Total trades: Allows the user to specify the number of individual trades that their order will be broken into. The UI slider starts with 1 trade and allows the user to increase the amount of individual trades, or allows the user to manually input the total trades in the input field directly.\
+      Users should note that there is a certain tradeoff when specifying this parameter: more trades means smaller individual trade size, which means smaller price impact. However, more trades also means more transactions and higher overall gas fees.
+   2. Trade Interval: Sets the time gap between each individual trade. The UI starts with the minimum allowed (2 mins), which leaves the minimum amount of time for the taker bidding war and block settlement between each chunk. The user can set it to be any duration desired. A trade will never execute before this time elapses after the previous trade.\
+      Again users should be mindful when setting this parameter: longer intervals would allow arbitrageurs a longer window to close any price discrepancies on the affected pools and bring the reserves back to equilibrium (on par with spot price). However, it would take longer for the order to be filled would add uncertainty to the final fill price, especially in times of heightened volatility
+   3. Max Duration: The maximum time during which the total amount of all individual trades making up the full dTWAP order may be executed. After this deadline the trade expires, regardless of actual amounts swapped.\
+      Note that all chunks may not execute in limit orders, depending on whether the price stays within the set parameters.\
+      The default recommended duration is calculated by multiplying the number of intervals by the trade interval, and then doubling this amount in order to serve as a buffer to allow sufficient time for on-chain activity. (note that setting a duration that is shorter than the above default may result in a partially filled order).
 
-보시다시피 이러한 매개변수는 시장 상황, 현재 가스비 등의 요소를 고려하여 각 주문을 맞춤 설정할 수 있는 상당한 유연성을 제공합니다.
+As can be seen, these parameters provide significant flexibility in customizing each order, taking into account factors like market conditions, current gas fees, etc.
 
-8. "Place order"를 누릅니다. 주문 세부 정보를 다시 한번 확인하고, 면책 조항에 동의한 뒤 "Confirm order"를 누릅니다.
-9. 트랜잭션이 처리되면 주문 내역 섹션의 "Open orders" 아래에서 주문 상태를 확인할 수 있습니다.
-10. 열려 있는 주문은 주문을 펼친 뒤 "Cancel Order" 버튼을 클릭하여 언제든지 취소할 수 있습니다.
+8. Press “Place order”. Double check your order details, accept the disclaimer and press “Confirm order”.
+9. Once the transaction is processed, you will be able to see your order’s status in the order history section, under “Open orders”.
+10. Open orders can be canceled at any time by expanding the order and clicking the “Cancel Order” button.
 
-고려해야 할 사항
+Things to take into consideration
 
-* 주문은 지정된 기간 동안 더 작은 거래로 나뉘어 실행되며 시장 상황 및 기타 위험의 영향을 받습니다.
-* 거래가 현재 시장 가격과 크게 다른 가격에 실행될 수 있으며(지정가를 설정한 경우 그 가격보다 불리하지는 않습니다), 이로 인해 상당한 손실이 발생할 수 있습니다. 이용 가능한 시장 가격이 설정한 지정가보다 불리하면 주문의 일부 거래가 실행되지 않아 주문이 부분 체결될 수 있습니다.
-* 거래는 오프체인 테이커들이 주문을 체결하기 위해 경쟁하는 탈중앙화 프로토콜을 기반으로 합니다. 이 테이커들은 수수료를 요청할 수 있으며, 프로토콜은 낙찰된 테이커를 위해 출력 토큰에서 해당 수수료를 차감합니다.&#x20;
-* 테이커는 수수료를 설정할 때 사용자 트랜잭션의 가스비를 고려할 수 있으며, 이로 인해 수수료 금액이 변동될 수 있습니다.
+* Orders are executed in smaller trades over a specified period of time and are subject to market conditions and other risks.
+* Your trade may be executed at a price that is significantly different from the current market price (although not worse than your limit price, if you set one), which could result in significant losses. If the available market price is worse than the limit price you have set, some of the trades of your order may not be executed, resulting in a partially filled order.
+* The trades are based on a decentralized protocol that utilizes off-chain takers which compete to fill orders. These takers are entitled to request a fee, which the protocol removes for the winning taker from the output tokens.
+* Takers may take into account gas fees for your transactions when setting their fees, which may result in fluctuations in the fee amounts.
 
 <br>

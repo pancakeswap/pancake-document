@@ -1,3 +1,3 @@
-# 3⃣ V3 마이그레이션
+# V3/V2 Migration
 
-Exchange V3 및 Farm V3로의 마이그레이션에 도움이 되는 문서를 모았습니다.
+Here are some useful documents for the migration of Exchange V3 and Farm V3.

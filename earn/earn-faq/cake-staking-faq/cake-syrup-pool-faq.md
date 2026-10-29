@@ -2,100 +2,100 @@
 hidden: true
 ---
 
-# CAKE 시럽 풀 자주 묻는 질문 (FAQ)
+# CAKE Syrup Pool FAQ
 
-## 자주 묻는 질문 (FAQ)
+## FAQ
 
-### 어떤 락 기간을 선택할 수 있나요?
+### What lock duration can we choose?
 
-1주일부터 최대 4년까지 선택할 수 있습니다.
+You can choose from 1 week up to 4 years.
 
-### 새로운 CAKE 시럽 풀의 수익률(%)(유연 및 고정 기간 스테이킹 옵션)에 영향을 미치는 변수는 무엇인가요?
+### What variables affect the new CAKE Syrup Pool yield %s (Flexible and Fixed-Term Staking options)?
 
-유연 스테이킹과 고정 기간 스테이킹 옵션은 동일한 풀의 일부이므로, 다음 변수가 두 옵션 모두의 수익률(APR/APY)에 영향을 미칩니다.
+Since flexible staking and fixed-term staking options are part of the same pool, the following variables affect the yield% (APR/APY) of both:
 
-* 유연 스테이킹과 고정 기간 스테이킹에 스테이킹된 총 CAKE(둘의 합계). 스테이킹된 CAKE가 많을수록 APR/APY는 낮아집니다.
-* 고정 기간 스테이킹에 락업된 총 CAKE. 락업된 CAKE가 많을수록 수익 부스트가 커져 다른 사용자(특히 유연 스테이킹)의 CAKE 보상이 줄어듭니다.
-* 고정 기간 스테이킹에 락업된 모든 CAKE의 평균 락 기간. 평균 락 기간이 늘어나면 APR/APY는 감소합니다.
+* Total CAKE staked in flexible staking and fixed-term staking (the sum of both). The more CAKE staked, the lower the APR/APY.
+* Total locked CAKE in fixed-term staking. The more CAKE locked means more yield boosts, resulting in fewer CAKE rewards for others (especially flexible staking).
+* The average lock duration of all CAKE locked in fixed-term staking. If the average lock duration increases, APR/APY will decrease.
 
-### 락업 기간 중에 보상을 수확할 수 있나요?
+### Can I harvest the rewards during the locked period?
 
-아니요. 락 기간이 종료되어야만 보상을 수확할 수 있습니다. 이는 저희가 제공하는 수익/수익률과 기술적 구현을 기반으로 합니다.
+No. You can harvest the rewards only when the locked duration is ended. This is based on the yield/return we are providing as well as the technical implementations.
 
-### 락 기간을 연장할 수 있나요?
+### Can I extend the lock duration?
 
-네. 락 기간을 연장하면 **최초 락 기간**에 시간이 추가됩니다. 락 기간 연장을 선택할 때 다음 사항에 유의하세요.
+Yes. Extending the lock duration adds more time to your **initial lock duration**. When choosing to extend your lock duration, note:
 
-새로운 연장 락 기간 = 최초 락 기간 + 추가 기간
+New extended lock duration = initial lock duration + added duration
 
-### 마음이 바뀌면 컨트랙트를 통해 고정 기간 스테이킹에서 CAKE를 제거할 수 있나요?
+### Can I remove my CAKE from Fixed-Term staking via contract if I change my mind?
 
-아니요. 락 기간이 종료되고 CAKE가 잠금 해제될 때까지는 언제든 고정 기간 스테이킹에서 CAKE를 제거하거나 출금할 수 없습니다.
+No. Your CAKE cannot be removed or withdrawn from fixed-term staking at any point in time until your lock duration ends and your CAKE is unlocked.
 
-### "CAKE Locked" 수량이란 무엇인가요?
+### What is the "CAKE Locked" amount?
 
-"CAKE Locked" 수량은 사용자의 최초 락업 CAKE 잔액에 현재까지의 CAKE 보상을 더한 값입니다.&#x20;
+The "CAKE Locked" amount is a user's initial locked CAKE balance plus CAKE rewards to date.
 
-CAKE Locked = 최초 락업 CAKE 잔액 + CAKE 보상
+CAKE Locked = Initial locked CAKE balance + CAKE rewards
 
-고정 기간 스테이킹에 CAKE를 더 추가할 때 "CAKE to be locked" 수량은 사용자의 최초 락업 CAKE 잔액, 현재까지의 CAKE 보상, 그리고 추가되는 CAKE를 합한 값입니다.
+When adding more CAKE to fixed-term staking, the "CAKE to be locked" amount is the user's initial locked CAKE balance, CAKE rewards to date, and the CAKE being added.
 
-### CAKE를 락업한 후에 고정 기간 스테이킹 CAKE 풀 APR이 변경될 수 있나요?
+### Can the Fixed-Term Staking CAKE pool APR change after I lock my CAKE?
 
-네, 고정 기간 스테이킹 CAKE 풀 APR은 이전 CAKE 풀과 마찬가지로 변동됩니다. 고정 기간 스테이킹 CAKE 풀 APR은 고정되어 있지 않으며 다음에 따라 달라집니다.
+Yes, the fixed-term staking CAKE pool APR is variable, just like the old CAKE pools. The fixed-term staking CAKE pool APR is not fixed and is dependent on:
 
-* CAKE 풀에 스테이킹된 총 CAKE(유연 + 고정 기간 스테이킹의 합계).
-* 고정 기간 스테이킹에 락업된 모든 CAKE의 평균 락 기간.
-* 사용자의 최초 락 기간에서 계산되는 수익 부스트(배수와 유사). CAKE를 오래 락업할수록 수익 부스트가 높아집니다.
+* Total CAKE staked in the CAKE pool (the sum of both Flexible + Fixed-Term Staking).
+* The average lock duration of all CAKE locked in fixed-term staking.
+* A yield boost (similar to a multiplier) calculated from a user's initial lock duration. The longer you lock your CAKE, the higher the yield boost.
 
-예를 들어 CAKE를 52주 동안 락업하면 26주 동안 락업할 때보다 수익 부스트가 더 큽니다. 수익 부스트는 CAKE를 락업하는 기간에 비례하여 선형적으로 증가합니다.
+For example, if you lock your CAKE for 52 weeks, your yield boost will be larger than if you lock your CAKE for 26 weeks. The yield boost increases linearly the longer you lock your CAKE.
 
-### CAKE가 고정 기간 스테이킹 풀에 락업되어 있어도 IFO에 참여할 수 있나요, 아니면 CAKE를 더 구매해야 하나요?
+### Can I still participate in IFOs if my CAKE is locked in the Fixed-Term Staking pool, or will I need to buy more CAKE?
 
-아니요, 별도의 CAKE가 필요합니다. 다만 락업 스테이킹은 IFO 퍼블릭 세일 참여 자격을 제공합니다. [iCAKE](../../../welcome-to-pancakeswap/vecake-sunset/icake.md)를 확인하세요.
+No, a separate amount of CAKE is needed. However, locked-staking provides entry for IFO public sales. Check out [iCAKE](../../../welcome-to-pancakeswap/vecake-sunset/icake.md).
 
-### CAKE가 고정 기간 스테이킹 풀에 락업되어 있어도 투표할 수 있나요?
+### Can I vote if my CAKE is locked in the Fixed-Term Staking pool?
 
-네! [vCAKE](../../../welcome-to-pancakeswap/vecake-sunset/archive-vecake/vecake.md)를 확인하세요.
+Yes! Check out [vCAKE](../../../welcome-to-pancakeswap/vecake-sunset/archive-vecake/vecake.md).
 
-### 유연 스테이킹 CAKE 풀과 고정 기간 스테이킹 CAKE 풀을 동시에 사용할 수 있나요?
+### Can I use both the Flexible Staking CAKE pool and the Fixed-Term Staking CAKE pool at the same time?
 
-네, 고정 기간 CAKE 스테이킹을 하는 경우 선택할 수 있는 유연 CAKE 스테이킹 사이드 풀이 자동으로 나타납니다.
+Yes, when you are doing fixed-term CAKE staking. A flexible CAKE staking side-pool will automatically appear for you to choose from.
 
-### 유연 스테이킹 CAKE를 고정 기간 스테이킹 CAKE로 전환할 때 수수료가 있나요?
+### Is there a fee for converting Flexible Staked CAKE to Fixed-Term Staked CAKE?
 
-아니요. 유연 스테이킹에서 고정 기간 스테이킹으로 CAKE를 옮길 때 추가 수수료는 없으며 가스비만 발생합니다.
+No. There are no additional fees for moving CAKE from flexible staking to fixed-term staking, only gas fees.
 
-### 락 기간이 끝나면 어떻게 되나요? "After Burning"이란 무엇인가요?
+### What happens at the end of the lock duration? What is "After Burning"?
 
 {% hint style="warning" %}
-**After Burning은 향후 CAKE 보상과 이미 획득한 CAKE 보상을 소각합니다.** 이미 획득한 CAKE 보상을 잃지 않으려면 락 스테이킹 기간이 끝날 때 새로운 고정 기간 스테이킹을 시작하거나 CAKE를 유연 스테이킹으로 전환하는 것을 권장합니다.
+**After Burning will burn the future CAKE rewards and the CAKE rewards already earned.** To avoid losing any CAKE rewards you already earned, we recommend starting a new fixed-term staking period or converting your CAKE to flexible staking at the end of your lock staking period.
 {% endhint %}
 
-고정 기간 스테이킹 기간이 끝나고 CAKE가 잠금 해제되면, 7일 이내에 다음 두 가지 옵션 중 하나를 완료해야 합니다.
+When your fixed-term staking period ends, and your CAKE unlocks, you have 7 days to complete one of two options:
 
-* CAKE를 락업하여 새로운 고정 기간 스테이킹 기간 시작\
-  또는
-* 스테이킹된 CAKE를 유연 스테이킹으로 전환(72시간 출금 수수료 없음).
+* Lock your CAKE to begin a new fixed-term staking period\
+  or
+* Convert your staked CAKE to flexible staking (no 72-hour withdrawal fee).
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Locked%20-%20lock%20ended%20-%20before%20after%20burning.png)
+![](<../../../.gitbook/assets/Locked - lock ended - before after burning.png>)
 
-이 7일 동안에도 CAKE를 계속 획득합니다.
+During these 7 days, you will still earn CAKE.
 
-7일이 지난 후에도 두 옵션 중 하나를 수행하지 않으면, 스테이킹된 CAKE는 "After Burning"이라는 상태에 들어갑니다. **"After Burning"에서는 CAKE 보상(이미 획득한 보상 포함)이 소각으로 보내지기 시작합니다.** 소각으로 보내지는 CAKE 보상의 비율은 90일간의 "After Burning" 기간 동안 100%에 도달할 때까지 선형적으로 증가하며, 이는 모든 CAKE 보상이 소각된다는 의미입니다.
+After 7 days, if you have not done one of the two options, your staked CAKE will enter what is called "After Burning". **With "After Burning", your CAKE rewards (including the rewards already earned) will start to be sent to burn.** The % of CAKE rewards being sent to burn will linearly increase in the 90 days "After Burning" period until it reaches 100%, which means all the CAKE rewards are burnt.
 
-따라서 CAKE 보상을 놓치지 않으려면 락 스테이킹 기간이 끝날 때 새로운 고정 기간 스테이킹을 시작하거나 CAKE를 유연 스테이킹으로 전환하는 것을 권장합니다.
+So, to avoid missing out on CAKE rewards, we recommend starting a new fixed-term staking period or converting your CAKE to flexible staking at the end of your lock staking period.
 
-다음은 예시입니다.
+Here is an example:
 
-> John은 100 CAKE를 52주 동안 스테이킹했고, 스테이킹 기간 동안 50 CAKE를 획득했으며, 이제 스테이킹 기간이 만료되었습니다.&#x20;
+> John staked 100 CAKE for 52 weeks, he earned 50 CAKE during his staking period, and now the staking period has expired.
 >
-> 그는 아무 조치도 하지 않았고, 그의 포지션은 "After Burning" 모드에 들어갔습니다.
+> He then didn't perform any actions, and his position went into "After Burning" mode.
 >
-> 90일간의 After Burning 기간 동안 그가 획득한 50 CAKE 전부가 새로 획득하는 CAKE와 함께 점진적으로 소각됩니다.&#x20;
+> During the 90-day After Burning period, all of the 50 CAKE he earned will be burned gradually along with any new CAKE earned.
 >
-> 90일 후에는 그가 실제로 획득하는 보상이 0이 됩니다. 다만 처음에 예치한 100 CAKE는 영향을 받지 않습니다.
+> After 90 days, the rewards he actually earns will become 0. However, the 100 CAKE he initially deposited will not be affected.
 >
-> 새로운 고정 기간 스테이킹을 시작하거나 유연 스테이킹으로 전환하세요. John처럼 되지 마세요.
+> Start a new fixed-term staking period or convert to flexible staking, and don't be like John.
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Locked%20-%20lock%20ended%20-%20after%20burning%20started.png)
+![](<../../../.gitbook/assets/Locked - lock ended - after burning started.png>)

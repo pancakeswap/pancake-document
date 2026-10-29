@@ -1,60 +1,60 @@
-# 자주 묻는 질문 (FAQ)
+# Limit Orders and TWAP FAQ
 
 {% hint style="info" %}
-사이드바를 사용하여 궁금한 내용의 답변을 빠르게 찾아보세요!
+Use the sidebar to quickly find the answers to your questions!
 {% endhint %}
 
-## 지정가 주문 및 TWAP
+## Limit Orders and TWAP
 
-Orbs에서 제공하는 자주 묻는 질문 (FAQ)을 참고하세요.
+Please refer to FAQ provided by Orbs:
 
 [https://www.orbs.com/dtwap-and-dlimit-faq/](https://www.orbs.com/dtwap-and-dlimit-faq/)
 
-## 지정가 V2 (지원 중단)
+## Limit V2 (Deprecated)
 
-### 내 주문을 찾을 수 없는 이유는 무엇인가요?
+### Why I can’t find my orders?
 
-V2 지정가 주문은 이제 지원이 중단되었습니다. 다음 링크를 통해 접속해 주세요.
+V2 limit orders is now deprecated, please access using this link:
 
 [https://pancakeswap.finance/limit-orders](https://pancakeswap.finance/limit-orders)
 
-### 내 주문이 체결되지 않은 이유는 무엇인가요?
+### Why was my order not executed?
 
-지정가 주문은 원하는 가격에 도달하면 체결되지만, 가스비 변동으로 인해 실제 체결 가격이 인터페이스에서 지정한 가격과 다를 수 있습니다. 보통 체결 가격과 원하는 가격은 거의 동일해야 하지만, 특히 소액 주문(약 $1000 미만)을 제출한 경우 수수료를 반영하기 위해 체결 가격이 다소 높아질 수 있습니다.&#x20;
+Limit orders are executed when they reach their desired price, however, due to gas fluctuations, the actual execution price might vary from the price you specified on the interface. Usually, the execution price and the desired price should be almost identical, however, if you submitted a particularly small order (\~<1000$) the execution price might be slightly higher to account for fees.
 
-따라서 다음과 같은 이유로 주문이 체결되지 않을 수 있습니다.
+Therefore your order may not be executed because:
 
-* 가격 영향 때문에 원하는 가격과 수량으로 주문 전체를 체결할 수 없었습니다.
-* 지정가 주문에 포함된 토큰 중 하나에 전송 수수료(fee on transfer)가 있습니다(아래 참고).
+* It wasn’t possible to fill the whole order at the desired price and amount due to price impact.
+* One of the tokens in the limit order has fee on transfer (see below).
 
-**주문을 제출하기 전에 실제 체결 가격이 표시된 UI를 확인해 주세요.**
+**Before submitting an order, please consult the UI denoting the real execution price.**
 
 {% hint style="info" %}
-참고: 주문 내역 표는 Subgraph에서 데이터를 가져오므로 정보가 약간 지연되어 표시될 수 있습니다.
+Please note: the order history table gets the data from Subgraph and can show slightly delayed information.
 {% endhint %}
 
-### 전송 수수료(fee on transfer)가 있는 토큰으로 지정가 주문을 제출할 수 있나요?
+### Can I submit a limit order for tokens with fee on transfer?
 
-**아니요.** 전송 수수료가 있는 토큰은 지정가 주문에 사용하면 안 됩니다. 진행에 따른 위험은 본인이 부담합니다.
+**No.** The tokens with a fee on transfer should not be used with limit orders. Proceed at your own risk.
 
-### 지정가 주문을 사용할 때 슬리피지는 어떻게 설정하나요?
+### How do I set slippage while using limit orders?
 
-지정가 주문에서는 슬리피지가 관련이 없습니다. 입력 수량(예: 1000 CAKE)과 출력 수량(예: 20 BNB)을 지정하면, 해당 페어의 가격이 원하는 가격에 도달했을 때 입력 수량(1000 CAKE)에 대해 지정한 출력 수량(20 BNB) 이상을 받는 것이 보장됩니다. **전송 수수료가 있는 토큰은 지정가 주문에 사용하면 안 됩니다**(위 내용 참고)
+Slippage is not relevant in limit orders. You specify input amount (e.g. 1000 CAKE) and output amount (e.g. 20 BNB), Limit orders guarantee that you will receive no less than the specified output amount (20 BNB) for your input amount (1000 CAKE) if the price for the pair reaches the desired price. **Note that tokens with fee on transfer should not be used with limit orders** (read above)
 
-### 실제 체결 가격에 "never executes"라고 표시됩니다. 무슨 뜻인가요?
+### The real execution price shows "never executes". What's this?
 
-이는 스왑하려는 토큰 수량이 너무 적어 가스비를 충당할 만큼의 토큰이 없다는 뜻입니다. 일반적으로 이 오류를 없애려면 "입력" 필드의 수량을 늘려야 합니다.&#x20;
+It basically means that you're trying to swap a very small amount of tokens therefore there are not enough tokens to be accounted for the gas fee. In general, you need to increase the amount of the "input" field to get rid of this error.
 
-### 지정가 주문에 만료일이 있나요?
+### Is there an expiration date for my limit orders?
 
-열려 있는 주문의 만료 기간은 90일입니다. 주문이 만료된 후에는 체결되지 않을 수 있습니다. 만료된 주문은 취소해 주세요.&#x20;
+Open orders have an expiration date of 90 days. After your order is expired it might never be executed. Please cancel your order once expired.
 
-사용자가 만료일을 직접 설정할 수 있는 기능이 가까운 시일 내에 계획되어 있습니다.
+A customizable expiration date feature is planned for the near future.
 
-### 시장 가격보다 낮은 가격으로 지정가 주문을 만들 수 없는 이유는 무엇인가요?
+### Why can’t I create limit orders below the market price?
 
-시장 가격보다 낮은 가격에 매도하려면 지정가 주문이 아닌 **스톱 리밋 주문(Stop Limit Order)**이 필요합니다. 스톱 리밋 주문 기능은 곧 출시됩니다.
+To sell below market price, you need **Stop Limit Orders**, not limit orders. Stop Limit Orders feature is coming soon.
 
-### 주문을 넣었는데 주문 표에 표시되지 않거나 "pending" 상태에서 멈춰 있습니다.
+### I made an order and it is not shown in the order table or stuck at “pending” status.
 
-주문 내역은 서브그래프에서 가져오므로 정보가 약간 지연되어 표시될 수 있습니다. 보통 지연은 길어도 몇 분을 넘지 않습니다. 주문 내역 표 오른쪽 하단의 서브그래프 표시기를 참고하세요.
+The order history comes from the subgraph and therefore might show slightly delayed information. Usually, delays are no longer than a couple of minutes at worst. Please refer to the subgraph indicator at the bottom right corner of the order history table.

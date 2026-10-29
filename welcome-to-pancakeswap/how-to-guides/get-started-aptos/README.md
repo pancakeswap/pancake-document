@@ -1,13 +1,13 @@
-# 시작하기 (Aptos)
+# Get Started (Aptos)
 
-처음 접하는 서비스는 다소 어렵게 느껴질 수 있습니다. 걱정하지 마세요. PancakeSwap에 익숙해질 수 있도록 다양한 가이드를 준비했습니다!
+Using anything new can be a bit of a challenge. Don't worry though, we've created a range of guides to help you get comfortable with PancakeSwap!
 
-## PancakeSwap 설정하기
+## Setting up PancakeSwap
 
-아래 가이드를 따라 PancakeSwap 사용을 위한 모든 준비를 마치세요. 이미 진행하다가 길을 잃었다면 필요한 가이드로 바로 이동하셔도 됩니다.
+Follow these guides to get everything set up to use PancakeSwap, or feel free to jump to the guide you need if you've been doing okay but lost your way.
 
-[Aptos 지갑 만들기](wallet-guide.md)\
-[Aptos Coin 받기 및 Aptos 체인으로 자산 가져오기](aptos-coin-guide.md)\
-[지갑을 PancakeSwap에 연결하기](connection-guide.md)
+[Create an Aptos Wallet](wallet-guide.md)\
+[Get Aptos Coin and Bring Assets to Aptos Chain](aptos-coin-guide.md)\
+[Connect Your Wallet to PancakeSwap](connection-guide.md)
 
-원하는 내용을 찾을 수 없다면 [PancakeSwap Telegram](../../contact-us/social-accounts.md)을 방문해 도움을 요청하세요!
+If you can't find what you need, feel free to visit the [PancakeSwap Telegram](../../contact-us/social-accounts.md) and ask for help there!

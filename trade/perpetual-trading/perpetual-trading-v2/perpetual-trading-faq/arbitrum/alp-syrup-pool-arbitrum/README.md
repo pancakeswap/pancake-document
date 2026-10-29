@@ -1,34 +1,34 @@
-# ALP 시럽 풀 (Arbitrum)
+# ALP Syrup Pool (Arbitrum)
 
-ALP는 PancakeSwap 무기한 선물 V2의 유동성을 뒷받침하는 토큰입니다. 사용자는 USDC, USDT, DAI, ETH, BTC 같은 담보 토큰으로 ALP를 발행(mint)/구매합니다. 이 토큰들은 ApolloX가 구동하는 PancakeSwap 무기한 선물 거래 엔진에 유동성을 공급합니다. ALP 토큰은 **지갑 간에 전송할 수 없으며**, **ALP 컨트랙트를 통해서만 발행/판매하고 ALP 풀에 스테이킹**할 수 있습니다.
+ALP is a token that powers liquidity on PancakeSwap Perpetuals V2. Users mint/buy ALP using collateral tokens such as USDC, USDT, DAI, ETH and BTC. These tokens supply liquidity to the PancakeSwap Perpetuals trade engine powered by ApolloX. ALP tokens **cannot be transferred between wallets** and can only be **minted/sold through ALP contract and staked in ALP pool**.
 
-### 단계별 가이드
+### Step-By-Step Guide
 
-#### ALP 구매/발행하기
+#### Buying/Minting ALP
 
-1. [PancakeSwap ALP 풀 (V2)](https://perp.pancakeswap.finance/en/ALP) 페이지에 접속하여 지갑을 연결합니다.
-2. 지갑을 연결한 후 **Buy ALP**를 클릭합니다. ALP 풀의 어떤 자산으로도 ALP를 구매할 수 있습니다.
-3. 정보를 확인한 후 **Buy ALP**를 클릭하여 트랜잭션을 완료합니다.
+1. Click to access the [PancakeSwap ALP Pool (V2)](https://perp.pancakeswap.finance/en/ALP) page and connect your wallet
+2. After connecting your wallet, click **Buy ALP**. You can use any ALP pool asset to buy ALP.
+3. After confirming the information, click **Buy ALP** to complete the transaction.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Buy%20ALP%20Module.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/Buy ALP Module.png" alt=""><figcaption></figcaption></figure>
 
-**ALP 스테이킹하기 (Arbitrum)**
+**Staking ALP (Arbitrum)**
 
-1. Pancake ALP 대시보드 페이지에서 **Stake Now**를 클릭하거나 [여기](https://pancakeswap.finance/pools?chain=arb)를 클릭합니다.
+1. Click **Stake Now** on the Pancake ALP Dashboard Page, or click [here](https://pancakeswap.finance/pools?chain=arb)
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/png%20%284%29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/png (4).png" alt=""><figcaption></figcaption></figure>
 
-2. CAKE-ALP 시럽 풀을 선택합니다.
-3. ALP를 **Enable**한 뒤 **Stake**를 클릭합니다.
-4. 스테이킹할 ALP 수량을 선택하고 **confirm**을 클릭합니다.
+2. Select the CAKE-ALP syrup pool
+3. **Enable** ALP and click **Stake**
+4. Select amount of ALP to stake and click **confirm**
 
-**ALP 판매하기**
+**Selling ALP**
 
-1. &#x20;ALP 풀 (V2) 페이지에 접속하여 지갑을 연결합니다.
-2. 지갑을 연결한 후 **Sell ALP**를 클릭합니다.
+1. Click to access the ALP Pool (V2) page and connect your wallet
+2. After connecting your wallet, click on **Sell ALP**.
 
-ALP 판매 조건:
+Selling ALP Conditions:
 
-* &#x20;사용자는 구매 시점으로부터 48시간 후에 ALP를 판매할 수 있습니다.
-* &#x20;판매 가능한 ALP 토큰 수량: min\[(유동성 풀의 가치 - 사용자 포지션의 가치)\*50%]/ALP 시장 가격. 예를 들어 유동성 풀의 가치가 10,000,000 USDT, 사용자 포지션의 가치가 5,000,000 USDT, ALP 시장 가격이 2 USDT라면 ALP 사용자가 판매할 수 있는 최대 수량은 1,250,000입니다.&#x20;
-* 동시에, ALP 토큰을 판매한 후 사용자가 받는 자산의 양은 ALP 유동성 풀을 초과할 수 없습니다. 예를 들어 유동성 풀에 1000 USDT만 있다면 사용자가 받을 수 있는 USDT의 최대 수량은 1000 USDT이며, 남은 ALP는 다른 암호화폐로 판매할 수 있습니다.
+* User may sell ALP 48 hours from the time of buying
+* Amount of ALP tokens that can be sold: min\[(Value of the liquidity pool - Value of user’s positions)\*50%]/ALP Market Price. For instance, the value of the liquidity pool is 10,000,000 USDT, the value of the user's position is 5,000,000 USDT and ALP Market Price is 2 USDT, the maximum amount the ALP user can sell is 1,250,000.
+* At the same time, the amount of assets that users receive after selling their ALP tokens cannot exceed the ALP liquidity pool. For instance, if the liquidity pool only has 1000 USDT, the maximum amount of USDT users receive will be 1000 USDT and the remaining ALPs can be sold for other cryptocurrencies.

@@ -1,31 +1,31 @@
-# 퀀트 개발자
+# Quant Developer
 
-AMM 유동성 공급과 암호화폐 마켓 메이킹 경험을 갖추고, 당사 PropAMM 시스템의 트레이딩 및 리스크 전략을 설계하고 구현할 퀀트 개발자를 찾고 있습니다.
+We are looking for a Quant Developer with experience in AMM liquidity provision and crypto market making to design and implement trading and risk strategies behind our PropAMM system.
 
-이 포지션은 퀀트 리서치, DeFi 프로토콜 설계, 트레이딩 인프라의 교차점에 있으며, 온체인 유동성을 다른 거래소 시장과 연결하는 역할을 합니다.
+This role sits at the intersection of quantitative research, DeFi protocol design, and trading infrastructure, helping connect on-chain liquidity with other exchange markets.
 
-담당 업무:
+Responsibilities:
 
--PropAMM 풀의 가격 책정 및 유동성 전략을 설계하고 구현합니다\
--스프레드 모델, 유동성 깊이 배분, 변동성 기반 조정을 개발합니다\
--토큰 노출을 통제하는 재고 관리 프레임워크를 구축합니다\
--델타 중립 헤징 전략을 설계합니다\
--실시간 오더북 데이터를 가격 책정 모델에 통합합니다\
--유동성 전략을 백테스트하고 트레이딩 성과를 시뮬레이션합니다\
--리스크를 최소화하면서 거래량을 극대화하도록 가격 책정과 유동성을 최적화합니다
+-Design and implement pricing and liquidity strategies for PropAMM pools\
+-Develop spread models, liquidity depth allocation, and volatility-based adjustments\
+-Build inventory management frameworks to control token exposure\
+-Design delta neutral hedging strategies\
+-Integrate real-time orderbook data into pricing models\
+-Backtest liquidity strategies and simulate trading performance\
+-Optimize pricing and liquidity to maximize volume while minimizing risk
 
-요구 사항:
+Requirements:
 
--퀀트 트레이딩, 암호화폐 마켓 메이킹 또는 DeFi 유동성 공급 경력 4년 이상\
--AMM 메커니즘, 차익거래 역학, 유동성 풀에 대한 깊은 이해\
--CEX 헤징 전략 및 DEX 유동성 공급 경험\
--Python, Rust 또는 C++의 뛰어난 프로그래밍 능력\
--실시간 트레이딩 또는 시장 데이터 시스템 구축 경험
+-4+ years experience in quant trading, crypto market making, or DeFi liquidity provision\
+-Strong understanding of AMM mechanics, arbitrage dynamics, and liquidity pools\
+-Experience with CEX hedging strategies and DEX liquidity provision\
+-Strong programming skills in Python, Rust, or C++\
+-Experience building real-time trading or market data systems
 
-우대 사항:\
--DeFi 마켓 메이킹 또는 암호화폐 트레이딩 회사 경력\
--애그리게이터 라우팅과 온체인 거래 메커니즘에 대한 이해
+Nice to Have:\
+-Background in DeFi market making or crypto trading firms\
+-Familiarity with aggregator routing and on-chain trading mechanics
 
 
 
-**지원 방법:** 이력서를 hiring@pancakeswap.com 으로 보내 주세요. 여러분의 이야기를 기다립니다!
+**How to Apply:** Shoot your resume over to hiring@pancakeswap.com, we’d love to hear from you!

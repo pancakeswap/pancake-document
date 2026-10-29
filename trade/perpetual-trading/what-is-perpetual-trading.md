@@ -1,15 +1,15 @@
-# 무기한 선물 거래란?
+# What is Perpetual Trading?
 
-### **무기한 선물이란?**
+### **What are Perpetuals?**
 
-무기한 선물(Perpetuals), 무기한 스왑(perpetual swaps), 또는 퍼프(perps)는 만기일이 없는 특별한 유형의 선물 계약입니다.
+Perpetuals, perpetual swaps, or perps are a special type of futures contract without an expiration date.
 
-선물 거래를 이용하면 차입한 자금으로 증거금(레버리지)을 활용해 포지션에 진입하여 자본을 효율적으로 운용할 수 있습니다. 레버리지를 사용하면 계정 잔액보다 더 큰 규모의 포지션에 진입할 수 있습니다. 예를 들어 10배 레버리지를 사용하면 10 CAKE의 가격으로 100 CAKE를 거래할 수 있으며, 이 경우 초기 증거금은 10 CAKE로 레버리지 포지션의 담보 역할을 합니다.
+Futures trading allows users to enter positions on margin (leverage) using borrowed funds to optimize capital. Using leverage allows a user to enter a position with a larger size than their account balance. For example, a user could take 10× leverage and trade 100 CAKE for the price of 10 CAKE — in this case, the initial margin would be 10 CAKE, used to collateralize the leveraged position.
 
-레버리지 외에도 선물은 매수(롱)와 매도(숏) 양방향 거래를 가능하게 합니다. 무기한 계약은 만기가 없으며, 보유자는 기초 자산을 소유하지 않고도 해당 자산의 가격 움직임을 거래할 수 있습니다.
+In addition to leverage, futures open the possibility of trading in both directions — buying (long) and selling (short). Perpetual contracts don't expire and allow the holder to trade the price action of an underlying asset without owning it.
 
-### **PancakeSwap의 무기한 선물**
+### **Perpetuals on PancakeSwap**
 
-PancakeSwap은 V1부터 무기한 선물 거래를 제공해 왔습니다. 최신 버전인 PCS Perps는 Aster의 오더북 인프라를 기반으로 하며, CEX 수준의 체결, 최대 200배 레버리지, 지갑에서 바로 접근할 수 있는 PCS 전용 프론트엔드를 갖춘 완전한 재구축 버전입니다.
+PancakeSwap has offered perpetuals trading since V1. Our latest version — PCS Perps — is powered by Aster's orderbook infrastructure and represents a full rebuild of the experience: CEX-grade execution, up to 200× leverage, and a PCS-native frontend accessible directly from your wallet.
 
-이전 버전(V1 및 V2)은 이제 레거시 제품입니다.
+Previous versions (V1 and V2) are now legacy products.

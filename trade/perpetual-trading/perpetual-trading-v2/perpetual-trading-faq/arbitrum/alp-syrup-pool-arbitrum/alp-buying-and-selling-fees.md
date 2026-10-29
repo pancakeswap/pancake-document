@@ -1,63 +1,57 @@
-# ALP 구매 및 판매 수수료
+# ALP Buying & Selling Fees
 
-## 구매 수수료:
+## Buying fee:
 
-기본 수수료율 매개변수 1: FeeBasisPoints，USDT는 현재 0.25%로 설정되어 있습니다.
+Basic Rate Parameter 1: FeeBasisPoints，USDT is currently set at 0.25%
 
-기본 수수료율 매개변수 2: TaxBasisPoints，USDT는 현재 0.05%로 설정되어 있습니다.
+Basic Rate Parameter 2: TaxBasisPoints，USDT is currently set at 0.05%
 
-현재 자산 가치: InitialValue=AssetValueInPool+AssetUnrealizedpnl\_usd
+The current asset value: InitialValue=AssetValueInPool+AssetUnrealizedpnl\_usd
 
-발행 후 현재 자산 가치: AfterMinValue=InitialValue+MinValue
+The current asset value after minting: AfterMinValue=InitialValue+MinValue
 
-목표 비중에 따른 자산 가치 계산: TargetValue=(Total Value\_usd+totalUnrealizedpnl\_Usd)\*Target weight，Total Value=sum(InitialValue)
+Calculate the Asset value according to the target weight: TargetValue=(Total Value\_usd+totalUnrealizedpnl\_Usd)\*Target weight，Total Value=sum(InitialValue)
 
+The current Asset value and the target value (absolute value): InitialDiff=InitialValue-TargetValue
 
+After Minting, the asset value and target mechanism (absolute value): AfterDiff=AfterMintValue-TargetValue
 
-현재 자산 가치와 목표 가치의 차이(절댓값): InitialDiff=InitialValue-TargetValue
-
-발행 후 자산 가치와 목표 가치의 차이(절댓값): AfterDiff=AfterMintValue-TargetValue
-
-* AfterDiff\<InitialDiffValue 인 경우&#x20;
+* if AfterDiff\<InitialDiffValue
 
 MintFee=Max(FeeBasisPoints-TaxBasisPoints\*InitialDiff/TargetValue，0)
 
-* AfterDiff>=InitialDiff 인 경우&#x20;
+* if AfterDiff>=InitialDiff
 
 MintFee=FeeBasisPoints+TaxBasisPoints\*Min((InitialDiff+AfterDiff)/2,TargetValue)/TargetValue
 
-## 판매 수수료:
+## Selling fee:
 
-기본 수수료율 매개변수 1: FeeBasisPoints，USDT는 현재 0.25%로 설정되어 있습니다.
+Basic Rate Parameter 1: FeeBasisPoints，USDT is currently set at 0.25%
 
-최대 기본 수수료율 매개변수 2: TaxBasisPoints，USDT는 현재 0.05%로 설정되어 있습니다.
+Max Base Rate Parameter 2: TaxBasisPoints，USDT is currently set at 0.05%
 
-현재 자산 가치: InitialValue=AssetValueInPool+AssetUnreliazedpnl\_usd
+The current asset value: InitialValue=AssetValueInPool+AssetUnreliazedpnl\_usd
 
-소각(Burn) 후 현재 자산 가치: AfterMaxValue=InitialValue-MinValue
+The current asset value after Burn: AfterMaxValue=InitialValue-MinValue
 
-목표 비중에 따른 자산 가치 계산: TargetValue=Total Value\*Target weight
+Calculating the Asset value according to the target weight: TargetValue=Total Value\*Target weight
 
+The current asset value and target value (absolute value): InitialDiff=InitialValue-TargetValue
 
+After Burn, the asset value and target mechanism (absolute value): AfterMaxDiff=AfterBurnValue-TargetValue
 
-현재 자산 가치와 목표 가치의 차이(절댓값): InitialDiff=InitialValue-TargetValue
-
-
-
-소각 후 자산 가치와 목표 가치의 차이(절댓값): AfterMaxDiff=AfterBurnValue-TargetValue
-
-* AfterDiff\<InitialDiffValue 인 경우
+* if AfterDiff\<InitialDiffValue
 
 BurnFee=Max(FeeBasisPoints-MTaxBasisPoints\*InitialDiff/TargetValue，0)
 
-* AfterDiff>=InitialDiff 인 경우&#x20;
+* if AfterDiff>=InitialDiff
 
 BurnFee=FeeBasisPoints+TaxBasisPoints\*Min((InitialDiff+AfterDiff)/2,TargetValue)/TargetValue<br>
 
-예시:
+For example:
 
-ALP 풀의 가치가 $10,000,000이고, 미실현 손익이 $+10,000이며, 유동성 풀 내 BTC의 가치가 $1,000라고 가정합니다.
+If the value of the ALP pool is $10,000,000, the unrealized PnL is $+10,000, the value of BTC in the liquidity pool is $1,000;
 
-BTC의 목표 비중은 2%이고 현재 비중은 0.01%입니다. BTC의 기본 수수료율 매개변수 1은 0.25%, 매개변수 2는 0.45%입니다.
+The BTC target weight is 2%, and the current weight is 0.01%. The base rate parameter 1 of BTC is 0.25%, and the base rate parameter 2 is 0.45%.
 
-계산에 따르면 이 시점에 1 BTC로 ALP를 구매할 때의 수수료율은 0% = 0 BTC입니다. ALP를 판매하여 1 BTC를 받을 때의 거래 수수료는 0.7% = 0.007BTC입니다.
+According to the calculation, the rate of buying ALP with 1 BTC at this time is 0% = 0 BTC. The transaction fee for selling ALP to get 1 BTC is 0.7% = 0.007BTC.

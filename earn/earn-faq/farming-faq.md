@@ -2,119 +2,101 @@
 hidden: true
 ---
 
-# 파밍 자주 묻는 질문 (FAQ)
+# Farming FAQ
 
-### APR이 여러 개인 이유는 무엇인가요?
+### Why are there multiple APRs?
 
-v3에서는 유동성을 공급할 때 자산을 집중시켜 전체 유동성 대비 내 비중을 높이고 더 높은 비율의 보상을 받을 수 있습니다.&#x20;
+In V3, you can concentrate your assets while providing liquidity to boost your share against the total available liquidity, earning a higher % of rewards.
 
-따라서 포지션의 가격 범위 설정에 따라 각 유동성 포지션은 고유한 LP 수수료 APR과 고유한 파밍 APR을 갖게 됩니다.
+Therefore, depending on the position price-range settings, each liquidity position will have its own LP fee APR and its own farming APR.
 
-전체(글로벌) APR은 CAKE 보상 총액(USD)을 현재 파밍에 스테이킹된 활성 포지션 내 자산 총액으로 나누어 계산합니다. 따라서 글로벌 파밍 APR은 일반적인 참고용일 뿐이며 각 포지션의 개별 APR을 나타내지는 않습니다.
+The global APR is calculated with the total amount of CAKE rewards in USD, divided by the total amount of assets, within the active positions, which are currently staked in the farm. So, global farming APR is only a generic reference, and will not represent individual APRs for each positions.
 
-내 파밍 APR을 확인하려면 각 파밍 아래에 나열된 내 포지션을 확인하세요.
+To view your farming APR, check out your positions listed under each farm.
 
 ###
 
-### 파밍에 스테이킹하는 동안 유동성 포지션이 범위를 벗어나면 어떻게 되나요?
+### What happens if my liquidity position goes out of range while staking in the Farm?
 
-v3에서는 활성(범위 내) 유동성 포지션만 파밍에서 CAKE를 획득합니다.
+In V3, only active (in-range) liquidity positions will earn CAKE from farms.
 
-가격이 범위를 벗어나면 해당 포지션은 CAKE 보상 수령이 중단됩니다.
+The position will stop receiving CAKE rewards when the price goes out of the range.
 
-가격이 다시 범위 안으로 돌아오면 포지션은 다시 CAKE 보상을 받기 시작합니다. 스테이커가 추가로 해야 할 작업은 없습니다.
+If the price moves back in range, the position will start receiving CAKE rewards again. No additional actions are required from stakers.
 
+### Are there any ways to automatically adjust my position so it is always in range and earning fee rewards?
 
+PancakeSwap v3 supports one-click liquidity depositing via Zap, available on BNB Chain and Ethereum.
 
-### 포지션이 항상 범위 내에 있고 수수료 보상을 획득하도록 자동으로 조정하는 방법이 있나요?
+### Is it better to always farm with a liquidity position with a smaller range?
 
-PancakeSwap v3는 BNB Chain과 Ethereum에서 사용할 수 있는 Zap을 통한 원클릭 유동성 예치를 지원합니다.
+Providing liquidity to a smaller price range will help concentrate your liquidity, boosting your relative shares again the total liquidity within the price range, potentially earning more CAKE rewards.
 
+However, please bear in mind that only active liquidity positions will earn CAKE rewards. This means you will only earn rewards when the current trading price is within the price range defined in the liquidity position.
 
+If you need to adjust your position price range, you will need to unstake, remove liquidity and create a new position with the updated price range. Please bear in mind that frequent adjustments are not always the most optimal strategy as it realises the impermanent loss and costs a certain amount of gas to complete multiple transactions.
 
-### 항상 더 좁은 범위의 유동성 포지션으로 파밍하는 것이 더 좋은가요?
+### How many positions I can stake in one single farm?
 
-더 좁은 가격 범위에 유동성을 공급하면 유동성이 집중되어 해당 가격 범위 내 전체 유동성 대비 내 상대적 비중이 높아지므로 더 많은 CAKE 보상을 받을 수 있습니다.
+There is no maximum limit of positions you can stake in one farm.
 
-하지만 활성 유동성 포지션만 CAKE 보상을 획득한다는 점을 유념하세요. 즉, 현재 거래 가격이 유동성 포지션에 설정된 가격 범위 내에 있을 때에만 보상을 받습니다.
+But please bear in mind that you will need to spend gas to manually harvest from each one of the positions. Please always factor gas cost in the yield operations.
 
-포지션의 가격 범위를 조정해야 하는 경우, 언스테이킹하고 유동성을 제거한 후 업데이트된 가격 범위로 새 포지션을 만들어야 합니다. 잦은 조정은 비영구적 손실을 확정시키고 여러 트랜잭션을 완료하는 데 일정량의 가스 비용이 들기 때문에 항상 최적의 전략은 아니라는 점을 유념하세요.
+### How often should I harvest my rewards?
 
+How often you harvest your rewards is up to you, but it does help to remember that there is a small fee involved in harvesting. You can see this fee in your wallet when confirming after clicking “Harvest”**.**
 
+This shows the fee for harvesting as it appears in the MetaMask wallet. Different wallets will show the information a little differently. Consider leaving your rewards to grow for a while so you pay fees less often.
 
-### 하나의 파밍에 몇 개의 포지션을 스테이킹할 수 있나요?
+### What if I want to adjust my position while staking in the farm?
 
-하나의 파밍에 스테이킹할 수 있는 포지션 수에는 최대 한도가 없습니다.
+While staking in the farm, you are able to add or remove liquidity without unstaking it. Simply locate the liquidity position you want to adjust, and click its title/id, and you should be presented with the position detail page where you can use the “Add” and “Remove” buttons.
 
-하지만 각 포지션마다 수동으로 수확하려면 가스비를 지불해야 한다는 점을 유념하세요. 수익 활동에서는 항상 가스 비용을 고려하세요.
+If you want to adjust the price range configurations of a liquidity position, you will need to unstake it from the farm, remove all liquidity and re-create a new position by adding liquidity.
 
+### What affects Farming APR?
 
+In Farm v3, CAKE reward APR could vary between liquidity positions. It is based on the following factors:
 
-### 보상은 얼마나 자주 수확해야 하나요?
+* CAKE emission rate to Farms\
+  \- more CAKE will generate a higher yield for all the farms. Read more on [our tokenomics page](https://docs.pancakeswap.finance/protocol/cake-tokenomics)
+* Farm multiplier\
+  \- farms with a higher multiplier will get more CAKE proportionate to all the farms. Please note that v3 and v2 + stable swap farms are using two separate sets of multipliers. And farms on Ethereum and BNB Chains are also using two separate sets of multipliers.
+* The number of tokens deposited in the position\
+  \- more token in the position translates to a larger relative share against the total active liquidity in the farm pool and gets more CAKE rewards
+* The selected price range\
+  \- smaller price range allows a higher concentration for the same amount of token deposited, which translates to a larger relative share against the total active liquidity in the farm pool, and gets more CAKE rewards
+* The amount of liquidity currently active\
+  \- if there are more users who deposit and concentrate their liquidity with the same range as you, you will earn CAKE rewards due to a smaller relative share against the total
+* Whether the liquidity position is active\
+  \- only active liquidity positions will earn CAKE rewards from farm
 
-보상을 얼마나 자주 수확할지는 본인의 선택이지만, 수확 시 소액의 수수료가 발생한다는 점을 기억해 두면 도움이 됩니다. "Harvest"를 클릭한 후 확인 단계에서 지갑에 이 수수료가 표시됩니다**.**
+### Why am I seeing an "Update Positions" pop-up?
 
-이 이미지는 MetaMask 지갑에 표시되는 수확 수수료를 보여줍니다. 지갑마다 정보가 약간 다르게 표시될 수 있습니다. 보상을 한동안 쌓아 두었다가 수확하면 수수료를 덜 자주 지불할 수 있습니다.
+![](<../../.gitbook/assets/image (320).png>)
 
+Soon after the V3 launch, Chefs implemented an update on Farms to make reward calculations more accurate and reliable. If you are seeing this pop-up, that means some of your positions will require an update.
 
+Simply click "Update All", and confirm in your wallet pop-up.
 
-### 파밍에 스테이킹한 상태에서 포지션을 조정하고 싶다면 어떻게 하나요?
+Please note that Chefs are also applying this update to the historical staking data between the launch of Farm V3 and when this update is implemented. If there are any extra CAKE rewards, they will be airdropped to your wallet before 1st May 2023.
 
-파밍에 스테이킹한 상태에서도 언스테이킹하지 않고 유동성을 추가하거나 제거할 수 있습니다. 조정하려는 유동성 포지션을 찾아 제목/ID를 클릭하면 포지션 상세 페이지가 표시되며, 여기서 "Add" 및 "Remove" 버튼을 사용할 수 있습니다.
+### Why a 2x farm in V3 has less APR than a 1x farm in V2?
 
-유동성 포지션의 가격 범위 설정을 조정하려면 파밍에서 언스테이킹하고, 모든 유동성을 제거한 다음, 유동성을 추가하여 새 포지션을 다시 만들어야 합니다.
+First, when comparing APRs, you need to ensure the total staked liquidity between two farms is equal.
 
+On top of that, we now have multiple groups of farms which have their own stream of CAKE emissions. And each group of farms shares separated sets of multipliers.
 
+An individual farm will receive CAKE emissions based on:
 
-### 파밍 APR에 영향을 미치는 요인은 무엇인가요?
-
-파밍 v3에서는 CAKE 보상 APR이 유동성 포지션마다 다를 수 있습니다. 이는 다음 요인에 따라 결정됩니다.
-
-* 파밍에 대한 CAKE 배출률\
-  \- 더 많은 CAKE는 모든 파밍에 더 높은 수익을 가져옵니다. 자세한 내용은 [토크노믹스 페이지](https://docs.pancakeswap.finance/protocol/cake-tokenomics)를 참조하세요
-* 파밍 배수\
-  \- 배수가 높은 파밍은 전체 파밍 대비 비례하여 더 많은 CAKE를 받습니다. v3와 v2 + 스테이블스왑 파밍은 각각 별도의 배수 세트를 사용한다는 점에 유의하세요. 또한 Ethereum과 BNB Chain의 파밍도 각각 별도의 배수 세트를 사용합니다.
-* 포지션에 예치된 토큰의 수량\
-  \- 포지션에 더 많은 토큰이 있으면 파밍 풀의 전체 활성 유동성 대비 상대적 비중이 커져 더 많은 CAKE 보상을 받습니다
-* 선택한 가격 범위\
-  \- 가격 범위가 좁을수록 같은 수량의 토큰을 예치하더라도 더 높은 집중도를 가질 수 있으며, 이는 파밍 풀의 전체 활성 유동성 대비 더 큰 상대적 비중으로 이어져 더 많은 CAKE 보상을 받습니다
-* 현재 활성 상태인 유동성의 양\
-  \- 나와 같은 범위에 유동성을 예치하고 집중시키는 사용자가 더 많으면, 전체 대비 상대적 비중이 작아져 CAKE 보상이 줄어듭니다
-* 유동성 포지션의 활성 여부\
-  \- 활성 유동성 포지션만 파밍에서 CAKE 보상을 획득합니다
-
-
-
-### "Update Positions" 팝업이 표시되는 이유는 무엇인가요?
-
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28321%29.png)
-
-v3 출시 직후 셰프(Chefs)들은 보상 계산을 더 정확하고 신뢰할 수 있게 만들기 위해 파밍 업데이트를 적용했습니다. 이 팝업이 표시된다면 일부 포지션에 업데이트가 필요하다는 의미입니다.
-
-"Update All"을 클릭하고 지갑 팝업에서 확인하기만 하면 됩니다.
-
-셰프들은 파밍 v3 출시부터 이 업데이트가 적용되기까지의 과거 스테이킹 데이터에도 이 업데이트를 적용하고 있다는 점에 유의하세요. 추가 CAKE 보상이 있는 경우 2023년 5월 1일 이전에 지갑으로 에어드롭됩니다.
-
-
-
-### v3의 2x 파밍이 v2의 1x 파밍보다 APR이 낮은 이유는 무엇인가요?
-
-먼저 APR을 비교할 때는 두 파밍의 총 스테이킹 유동성이 동일한지 확인해야 합니다.
-
-또한 현재는 각각 고유한 CAKE 배출 흐름을 가진 여러 파밍 그룹이 있습니다. 그리고 각 파밍 그룹은 별도의 배수 세트를 공유합니다.
-
-개별 파밍은 다음을 기준으로 CAKE 배출량을 받습니다.
-
-* A = 해당 파밍이 속한 파밍 그룹의 초당/블록당 총 CAKE
-* B = 해당 파밍이 속한 그룹 내 배수의 총합
-* C = 해당 파밍이 가진 배수
+* A = Total CAKE per second/block for the farm group it belongs to
+* B = Total number of multipliers within the group it belongs to
+* C = The multiplier has
 
 `CAKE per block/second = C / B * A`
 
-위 수치는 각 [MasterChef](https://developer.pancakeswap.finance/contracts/masterchef/addresses) 컨트랙트에서 확인할 수 있습니다.
+The above numbers can be found in each of the [MasterChef](https://developer.pancakeswap.finance/contracts/masterchef/addresses) contracts.
 
+### Can I use bCAKE in v3 Farms?
 
-
-### v3 파밍에서 bCAKE를 사용할 수 있나요?
-
-네.
+Yes.

@@ -2,22 +2,22 @@
 hidden: true
 ---
 
-# 뇌물 (투표 인센티브)
+# Bribes (Vote Incentives)
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%282%29%20%281%29%20%281%29%20%281%29%20%281%29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
-주간 [CAKE 보상 풀](archive-vecake/earn-cake-weekly/)을 통해 CAKE를 획득하는 것 외에도, veCAKE 보유자는 게이지에 투표하여 외부 뇌물 마켓플레이스의 뇌물(Bribe)을 수령할 수 있습니다. 이러한 뇌물은 대개 외부 프로젝트 팀이 일부 [veCAKE 매니저](archive-vecake/vecake-managers.md)를 통해 제공합니다.&#x20;
+Apart from earning CAKE via our weekly [CAKE reward pools](archive-vecake/earn-cake-weekly/), veCAKE holders can vote for gauges to claim bribes from external bribe marketplaces. These bribes are usually submitted by external project teams on some of our [veCAKE Managers](archive-vecake/vecake-managers.md).
 
-이는 veCAKE 보유자에게 추가적인 수익원이 되며, 수익으로 받는 토큰의 종류도 다양해집니다.
+This serves as an additional source of yield for veCAKE holders, and also diversifies the type of tokens they receive as yield.
 
-뇌물 마켓플레이스에는 두 가지 유형이 있습니다.&#x20;
+There are two types of bribe marketplaces:
 
-1. 1차 뇌물 마켓플레이스에서는 프로젝트가 원하는 게이지에 투표한 **veCAKE 보유자**에게 보상하기 위해 뇌물을 제출할 수 있습니다.
-2. 2차 뇌물 마켓플레이스에서는 프로젝트가 원하는 게이지에 투표한 **파생 프로젝트 토큰 보유자**(예: Cakepie의 vlCKP)에게 보상하기 위해 뇌물을 제출할 수 있습니다. 해당 프로토콜(예: Cakepie)은 토큰 보유자의 투표 결과에 따라 자체 보유한 veCAKE로 게이지에 투표합니다.
+1. Primary bribe marketplaces allow projects to submit bribes to reward **veCAKE holders** for voting for their desired gauges.
+2. Secondary bribe marketplaces allow projects to submit bribes to reward a **derivative project's token holders** (e.g vlCKP from Cakepie) for voting for their desired gauges. The protocol in question (e.g. Cakepie) will then vote for the gauges with their own veCAKE holdings, based on the vote outcome of their token holders.
 
-현재 veCAKE 보유자가 게이지에 투표하고 외부 팀의 뇌물을 수령할 수 있는 1차 뇌물 마켓플레이스는 두 곳입니다.
+We currently have two primary bribe marketplaces where veCAKE holders can vote for gauges and claim bribes from external teams:
 
 1. [Hidden Hand](https://hiddenhand.finance/pancakeswap)
 2. [Votemarket (by StakeDAO)](https://votemarket.stakedao.org/?market=cake\&solution=All)
 
-veCAKE 보유자는 이러한 뇌물 마켓플레이스를 정기적으로 방문하여 veCAKE 수익을 최적화할 수 있는 게이지에 투표하는 것이 좋습니다.
+veCAKE holders should visit these bribe marketplaces regularly and vote for gauges that can help optimize their yield on veCAKE.

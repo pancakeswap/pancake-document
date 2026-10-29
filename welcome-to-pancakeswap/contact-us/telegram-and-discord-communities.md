@@ -1,40 +1,40 @@
 ---
-description: PancakeSwap 커뮤니티에 오신 것을 환영합니다!
+description: Welcome to the PancakeSwap Community!
 ---
 
-# 텔레그램 및 디스코드 커뮤니티
+# Telegram & Discord Communities
 
-공식 텔레그램 및 디스코드 커뮤니티에 참여하여 다른 사용자들과 소통하고, 지원을 받고, 최신 소식을 확인해 보세요.
+Join our official Telegram and Discord communities to connect with other users, get support and stay updated on the latest news.
 
-💡 **중요**: 사기를 피하려면 반드시 공식 채널에 참여하고 있는지 확인하세요. PancakeSwap은 개인 키나 자금을 절대 요구하지 않습니다.
+💡 **IMPORTANT**: Always verify that you're in the official channels to avoid scams. PancakeSwap will NEVER ask for your private keys or funds.
 
-### 🔗 **공식 링크**
+### 🔗 **Official Links**
 
-#### 🌐 **글로벌 채널**
+#### 🌐 **Global Channels**
 
-🔹 **디스코드**: [https://discord.gg/pancakeswap](https://discord.gg/pancakeswap)
+🔹 **Discord**: [https://discord.gg/pancakeswap](https://discord.gg/pancakeswap)
 
 
 
-### ⚠️ **보안 및 주의 사항**
+### ⚠️ **Security & Warnings**
 
-🔴 **사기를 조심하세요!**
+🔴 **Beware of scams!**
 
-* PancakeSwap은 **다이렉트 메시지(DM)로 지원을 제공하지 않습니다.**
-* **개인 키**나 복구 구문을 **절대 공유하지 마세요.**
-* 공식 채널(이 문서에 기재된 채널)에 있는지 항상 확인하세요.
+* PancakeSwap **DOES NOT provide support via direct messages (DMs).**
+* **Never share your private keys** or recovery phrases.
+* Always verify you're in the official channels (listed in this document).
 
 ***
 
-### 🤝 **커뮤니티 참여 방법**
+### 🤝 **How to Participate in the Community**
 
-✅ **텔레그램이나 디스코드에는 어떻게 참여하나요?**
+✅ **How do I join Telegram or Discord?**
 
-1. 참여하려는 커뮤니티의 링크를 클릭합니다.
-2. 규칙에 동의하고, 필요한 경우 계정을 인증합니다.
-3. 커뮤니티 활동을 시작해 보세요!
+1. Click the link for the community you want to join.
+2. Accept the rules and verify your account if required.
+3. Start engaging with the community!
 
-💬 **질문하거나 지원을 받으려면 어떻게 하나요?**
+💬 **How do I ask questions or get support?**
 
-* 텔레그램에서는 알맞은 주제의 채팅을 직접 이용하세요(도움이 필요하면 Support).
-* 디스코드에서는 [멋진 티켓 시스템](https://discord.com/channels/897834609272840232/1135600553943109793)을 이용하거나 [#General 채널](https://discord.com/channels/897834609272840232/897834609272840236)에 글을 남겨 주세요.
+* On Telegram, use the chat directly in the correct topic (Support in case of help).
+* On Discord, use our [amazing ticket system](https://discord.com/channels/897834609272840232/1135600553943109793) or write in our [#General channel](https://discord.com/channels/897834609272840232/897834609272840236).

@@ -2,36 +2,36 @@
 hidden: true
 ---
 
-# 마케팅 매니저 (PR 및 이벤트)
+# Marketing Manager (PR & Events)
 
-### **일반 정보**
+### **General Information**
 
-* 직무명: 마케팅 매니저 (PR 및 이벤트)
-* 근무지: 원격
-* 근무 형태: 정규직
+* Job Title: Marketing Manager (PR & Events)
+* Location: Remote
+* Position: Full-time
 
-### **직무 설명:**
+### **Job Description:**
 
-암호화폐 미디어, PR, 이벤트 운영 전문성을 갖춘 마케팅 매니저를 찾고 있습니다. PancakeSwap과 더 넓은 시장을 잇는 가교로서 브랜드 내러티브를 만들고, 최상위 미디어 보도를 확보하며, 글로벌 주요 암호화폐 행사에서 활동을 이끌게 됩니다.
+We’re looking for a Marketing Manager with expertise in crypto media, PR, and events management. You’ll act as a bridge between PancakeSwap and the broader market - shaping our brand narrative, landing top-tier media coverage, and leading activations at major global crypto events.
 
-### 주요 책임:
+### Key Responsibilities:
 
-* 글로벌 주요 암호화폐 행사 및 컨퍼런스에서 마케팅 활동을 기획하고 실행합니다.
-* 제품 출시, 발표, 사고 리더십 스토리에 대해 최상위 암호화폐 미디어에 제안하고 보도를 확보합니다.
-* 소셜, 콘텐츠, 디자인 팀과 협업하여 일관된 브랜딩을 유지하고 모든 미디어 및 행사 이니셔티브의 효과를 극대화합니다.
-* 미디어 보도를 추적하고 성과 지표를 모니터링하며 PR 및 행사 활동을 보고합니다.
-* DeFi 및 더 넓은 Web3 생태계의 미디어, 행사 주최자, 핵심 오피니언 리더와 관계를 구축하고 유지합니다.
+* Plan and execute marketing activations at major global crypto events and conferences.
+* Pitch and secure coverage with top-tier crypto media outlets for product launches, announcements, and thought leadership stories.
+* Collaborate with social, content, and design teams to ensure consistent branding and maximize the impact of all media and event initiatives.
+* Track media coverage, monitor performance metrics, and report on PR and event activities.
+* Build and maintain relationships with media outlets, events organizers, and key opinion leaders in the DeFi and broader Web3 ecosystem.
 
-### 요구 사항
+### Requirements
 
-* 암호화폐, DeFi 또는 Web3 분야의 PR 및 이벤트 마케팅 경력 2년 이상
-* 업계 행사에서 파급력 높은 브랜드 활동을 기획하고 실행한 검증된 경험
-* 암호화폐 미디어에 스토리를 제안하고 보도를 확보한 성공 사례
-* 브랜드 커뮤니케이션과 미디어 자료를 위한 뛰어난 콘텐츠 작성 능력
-* 우수한 영어 쓰기 및 말하기 능력
-* 행사를 위해 가끔 출장 갈 의지와 능력
-* 빠르게 변화하는 원격 근무 환경에 익숙한 분
+* 2+ years of experience in PR and events marketing, within crypto, DeFi, or Web3
+* Proven experience organizing and executing high-impact brand activations at industry events
+* Demonstrated success in pitching stories and securing coverage with crypto media outlets
+* Strong content writing skills for brand communications and media materials
+* Excellent written and spoken English
+* Willingness and ability to travel occasionally for events
+* Comfortable working in a fast-paced, remote work environment
 
-### **지원 방법**
+### **How to apply**
 
-이력서와 포트폴리오를 _hiring@pancakeswap.com_ 으로 이메일 보내 주세요!
+Email _hiring@pancakeswap.com_ with your CV & Portfolio!

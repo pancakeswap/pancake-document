@@ -1,136 +1,134 @@
-# 🌊 유동성 풀
+# 🌊 Liquidity Pools
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/liquidity-header.png)
+![](../../.gitbook/assets/liquidity-header.png)
 
 ## Exchange V3 <a href="#id-03e94594-5a75-4687-b260-0dc69574b953" id="id-03e94594-5a75-4687-b260-0dc69574b953"></a>
 
-새로운 Exchange V3에서는 유동성이 대체 불가능한(non-fungible) 포지션 형태로 관리됩니다. 유동성을 공급하는 동안 수수료 일부를 받는 것은 이전과 같습니다.
+In the new Exchange V3, liquidity will be managed in the form of non-fungible positions. You will still earn a share in the fees while providing liquidity.
 
-유동성 풀에 토큰을 추가하면 유동성 공급자 NFT 토큰을 받고 수수료를 분배받습니다.
+When you add your token to a Liquidity Pool you will receive Liquidity Provider NFT tokens and share in the fees.
 
-### **대체 불가능한 유동성 포지션**
+### **Non-fungible liquidity positions**
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28238%29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (246).png" alt=""><figcaption></figcaption></figure>
 
-V3에서는 유동성 공급자가 유동성을 배치할 가격 범위를 훨씬 더 자유롭게 정할 수 있습니다. 따라서 V3에서 유동성 풀에 토큰을 추가하면 고유한 설정을 가진 새로운 대체 불가능한 유동성 포지션이 생성됩니다.
+In V3, liquidity providers now have more control over what price range they want to deploy their liquidity. So, when you add your token to a Liquidity Pool in V3, you will create a new non-fungible liquidity position with its unique settings.
 
-즉, V3에서 유동성 포지션은 NFT입니다. 이 NFT는 양도할 수 있으며, 기초 자산과 그 포지션이 벌어들인 거래 수수료에 대한 소유권을 나타냅니다.
+Therefore, in V3, liquidity positions are NFTs. Please note that these NFTs are transferable, and they represent the ownership of the underlying assets and the trading fees they earned.
 
-V3에서는 거래 수수료가 더 이상 포지션에 자동으로 복리 적용되지 않습니다. 각 포지션 상세 페이지에서 직접 수령할 수 있습니다.
+In V3, trading fees will no longer be automatically compounded in the position. You can manually claim them on each of the position detail pages.
 
-유동성을 제거하면 언제든지 자금을 환수할 수 있습니다.
+You can redeem your funds at any time by removing your liquidity.
 
-### **활성 유동성과 가격 범위**
+### **Active liquidity and price ranges**
 
-V3에서 유동성 공급자는 가격이 특정 범위 안에 있을 때만 유동성을 제공하도록 포지션을 설정할 수 있습니다. 거래 가격이 범위를 벗어나면 포지션은 쌍의 토큰 중 한 종류로만 구성되며 비활성 상태가 됩니다.
+In V3, liquidity providers can configure their positions to only provide liquidity when the price is within a certain range. If the trading price moves out of the range, the position will consist of only one type of token in the pair and become inactive.
 
-비활성 유동성 포지션은 거래에 참여하지 않으며 거래 수수료도 받지 못합니다.
+Inactive liquidity positions will not participate in trading or earn any trading fees.
 
-### **집중 유동성**
+### **Concentrated liquidity**
 
-V3에서는 유동성 공급자가 토큰 예치금을 특정 가격 범위에 집중시켜 유동성을 제공할 수 있습니다. 같은 수량의 기초 자산으로도 V3는 훨씬 더 큰 규모의 거래를 지원할 수 있습니다.
+In V3, because of liquidity providers can concentrate their token deposits to provide liquidity only within a specific price range. With the same amount of underlying assets, V3 can support a much bigger trade.
 
-그 결과 V2와 비교해 상대적인 유동성 수준이 훨씬 높아지며, 유동성 공급자는 같은 자본으로 더 많은 거래 수수료를 벌 수 있습니다.
+It results in a much higher relative liquidity level when compared to V2. And liquidity providers can earn more trading fees with the same amount of capital.
 
-예시는 다음과 같습니다.
+Here is an example:
 
-> Baller와 Claire는 둘 다 $1,000 USD 상당의 토큰 자산으로 CAKE/USDT 풀에 유동성을 공급했습니다. 현재 CAKE 가격은 5 USDT입니다.
+> Baller and Claire both provided liquidity in CAKE/USDT pool with $1,000 USD worth of token assets. The current price of CAKE is 5 USDT.
 >
-> PancakeSwap v2와 마찬가지로 Baller는 전체 가격 범위에 걸쳐 유동성을 공급했습니다. 따라서 자본 전부인 500 USDT와 100 CAKE를 예치했습니다.
+> Similar to PancakeSwap v2, Baller provided his liquidity across the entire price range. Therefore he deposited all of his capital, 500 USDT and 100 CAKE.
 >
-> Claire는 PancakeSwap v3의 새로운 집중 유동성 기능을 활용해 CAKE당 2~12.5 USDT의 가격 범위로 포지션을 만들었습니다. 그녀는 총 $370 상당인 185 USDT와 37 CAKE를 예치했습니다. 이제 나머지 $630는 다른 곳에 쓸 수 있으며, 예를 들어 시럽 풀에 CAKE를 락업해 높은 CAKE 수익을 누리면서 다양한 PancakeSwap 생태계 혜택을 받을 수 있습니다.
+> Claire utilize the new concentrated liquidity feature in PancakeSwap v3 and created a position with a price range of 2 to 12.5 USDT per CAKE. She deposited 185 USDT and 37 CAKE, worth a total of $370. She is now able to spend the remaining $630 elsewhere, like locking CAKE in the Syrup pool to enjoy high CAKE yield while receiving a series of PancakeSwap ecosystem benefits.
 >
-> CAKE가 2~12.5의 가격 범위 안에 머무르는 한 Baller와 Claire는 동일한 양의 거래 수수료 보상을 받지만, Claire는 유동성 풀에 훨씬 적은 자본을 예치했습니다.
+> As long as CAKE stays within the price range of 2 to 12.5, both Baller and Claire will receive the same amount of trading fee rewards while Claire deposited way less capital to the liquidity pool.
 
-### **거래 수수료**&#x20;
+### **Trading fees**
 
-유동성을 공급하면 사람들이 여러분의 유동성 풀을 이용해 스왑을 완료할 때 거래 수수료 형태로 보상을 받습니다.
+Providing liquidity gives you a reward in the form of trading fees when people use your liquidity pool to complete swaps.
 
-누군가 PancakeSwap에서 거래할 때마다 각 Exchange V3 유동성 풀의 각 홉(스왑)에 대해 유동성 풀의 수수료 등급에 따라 트레이더는 0.01%에서 1% 사이의 수수료를 지불합니다. 수수료율과 수수료 배분 내역은 다음과 같습니다.
+Whenever someone trades on PancakeSwap, for each hop (swap) in each Exchange V3 liquidity pool, depending on the liquidity pool fee tier, the trader pays a fee ranging from 0.01% to 1%. Their fee rates and fee breakdowns are shown as follows:
 
 <details>
 
-<summary>거래 수수료 (EVM)</summary>
+<summary>Trading Fees (EVM)</summary>
 
-| 수수료 구성 / 수수료 등급 | 0.01% | 0.05% | 0.25% | 1%  |
-| ---------------- | ----- | ----- | ----- | --- |
-| 유동성 공급자          | 67%   | 66%   | 68%   | 68% |
-| CAKE 소각          | 15%   | 15%   | 23%   | 23% |
-| 트레저리             | 18%   | 19%   | 9%    | 9%  |
+| Fee Component / Fee tier | 0.01% | 0.05% | 0.25% | 1%  |
+| ------------------------ | ----- | ----- | ----- | --- |
+| Liquidity Provider       | 67%   | 66%   | 68%   | 68% |
+| CAKE Burn                | 15%   | 15%   | 23%   | 23% |
+| Treasury                 | 18%   | 19%   | 9%    | 9%  |
 
-예를 들어 0.25% 수수료 등급 풀의 경우:
+For example, in a 0.25% fee tier pool:
 
-* 모든 활성(범위 내) 유동성 포지션에는 총 10 CAKE와 10 BNB 토큰이 있습니다.
-* 누군가 1 CAKE를 1 BNB로 거래합니다.
-* 다른 누군가 1 BNB를 1 CAKE로 거래합니다.
-* 범위 내에서 활성 유동성을 제공한 유동성 공급자들은 이 거래들로 총 0.0017 CAKE와 0.0017 BNB를 벌었습니다.
-* 가격 범위가 현재 가격을 포함하지 않아 비활성 상태인 포지션은 거래에 기여하지 않으며 수수료도 받지 못합니다.
+* Among all the active (in-range) liquidity positions, there are a total of 10 CAKE and 10 BNB tokens.
+* Someone trades 1 CAKE for 1 BNB.
+* Someone else trades 1 BNB for 1 CAKE.
+* The liquidity providers who are in the range providing active liquidity earned a total of 0.0017 CAKE and 0.0017 BNB from the trades.
+* Positions with price ranges that are not covering the current price, therefore being inactive, will not contribute to trading or earn any fees.
 
 </details>
 
 <details>
 
-<summary><strong>거래 수수료 (Solana)</strong></summary>
+<summary><strong>Trading fees (Solana)</strong></summary>
 
-**사용 가능한 V3 CLMM 풀 수수료 등급:**\
+**Available V3 CLMM Pool Fee Tiers:**\
 0.01%, 0.02%, 0.03%, 0.04%, 0.05%, 0.1%, 0.15%, 0.16%, 0.18%, 0.2%, 0.25%, 0.4%, 0.6%, 0.8%, 1%, 2%, 3%, 4%
 
-**참고:** 수수료 **배분 비율은 모든 수수료 등급에서 동일합니다.**
+**Note:** The fee **distribution remains the same** across all fee tiers.
 
-| 수수료 구성                | 총 스왑 수수료 대비 비율 | 설명                              |
-| --------------------- | -------------- | ------------------------------- |
-| **LP (유동성 공급자)**      | 84%            | 활성 가격 범위에 유동성을 제공한 LP가 받습니다     |
-| **소각**                | 8%             | CAKE 공급량을 줄이기 위해 영구적으로 제거됩니다    |
-| **트레저리**              | 8%             | PancakeSwap 프로토콜 트레저리에 할당됩니다    |
+| Fee Component                 | % of Total Swap Fee | Description                                                   |
+| ----------------------------- | ------------------- | ------------------------------------------------------------- |
+| **LPs (Liquidity Providers)** | 84%                 | Earned by LPs who provide liquidity in the active price range |
+| **Burn**                      | 8%                  | Permanently removed to reduce CAKE supply                     |
+| **Treasury**                  | 8%                  | Allocated to the PancakeSwap protocol treasury                |
 
-**예시: 0.25% CAKE/SOL 풀의 수수료 분배**
+**Example: Fee Distribution in a 0.25% CAKE/SOL Pool**
 
-1. **풀 구성:** 총 활성 유동성은 10 CAKE와 10 SOL입니다(범위 내 포지션).
-2. **스왑 발생:**
-   * 사용자 A가 1 CAKE → 1 SOL로 스왑합니다.
-   * 사용자 B가 1 SOL → 1 CAKE로 스왑합니다.
-3. **징수된 총 수수료:**
-   * 거래당 0.25% × 2회 거래 = **0.005 CAKE + 0.005 SOL**.
-4. **수수료 분배:**
-   * **LP에게 84%:** 0.0042 CAKE + 0.0042 SOL
-   * **소각에 8%:** 0.0004 CAKE + 0.0004 SOL
-   * **트레저리에 8%:** 0.0004 CAKE + 0.0004 SOL
-5. **LP 수익:**
-   * **범위 내 LP**만 수수료를 받습니다. 수수료는 각 LP의 지분에 비례하여 분배됩니다.
-   * **범위 밖 LP**는 수수료를 **받지 못합니다**.
+1. **Pool Setup:** Total active liquidity: 10 CAKE and 10 SOL (in-range positions).
+2. **Swaps Occur:**
+   * User A swaps 1 CAKE → 1 SOL.
+   * User B swaps 1 SOL → 1 CAKE.
+3. **Total Fees Collected:**
+   * 0.25% per trade × 2 trades = **0.005 CAKE + 0.005 SOL**.
+4. **Fee Distribution:**
+   * **84% to LPs:** 0.0042 CAKE + 0.0042 SOL
+   * **8% to Burn:** 0.0004 CAKE + 0.0004 SOL
+   * **8% to Treasury:** 0.0004 CAKE + 0.0004 SOL
+5. **LP Earnings:**
+   * Only **in-range LPs** earn fees. Fees are distributed proportionally based on each LP’s share.
+   * **Out-of-range LPs** earn **no fees**.
 
 </details>
 
-### **CAKE 획득**
+### **Earning CAKE**
 
-유동성 공급자로서의 보람을 더 높이기 위해, 거래 수수료 보상을 계속 받으면서 유동성 포지션을 [CAKE 파밍](https://pancakeswap.finance/liquidity/pools)에 활용해 새로운 수익을 얻을 수도 있습니다.
+To make being a liquidity provider even more worth your while, you can also put your liquidity positions to work whipping up some fresh yield on the [CAKE Farms](https://pancakeswap.finance/liquidity/pools), while still earning trading fee rewards.
 
 ***
 
 ## Exchange V2
 
-### LP 토큰
+### LP Tokens
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28142%29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
 
-예를 들어 **CAKE**와 **BNB**를 유동성 풀에 예치하면 **CAKE-BNB LP** 토큰을 받게 됩니다.
+As an example, if you deposited **CAKE** and **BNB** into a Liquidity Pool, you'd receive **CAKE-BNB LP** tokens.
 
-받은 LP 토큰의 수량은 CAKE-BNB 유동성 풀에서 여러분이 차지하는 지분을 나타냅니다.
+The number of LP tokens you receive represents your portion of the CAKE-BNB Liquidity Pool.
 
-유동성을 제거하면 언제든지 자금을 환수할 수 있습니다.
+You can also redeem your funds at any time by removing your liquidity.
 
-### **거래 수수료 획득**
+### **Earning trading fees**
 
-누군가 PancakeSwap에서 거래할 때마다 각 Exchange V2 유동성 풀의 각 홉(스왑)에 대해 트레이더는 고정 0.25%의 수수료를 지불하며, 이 중 **0.17%**가 거래 수수료 형태로 유동성 풀에 다시 추가됩니다.
+Whenever someone trades on PancakeSwap, for each hop (swap) in each Exchange V2 liquidity pool, the trader pays a fixed 0.25% fee, **of which 0.17%** is added back to the Liquidity Pool in a form of trading fees.
 
-### **CAKE 획득**
+### **Earning CAKE**
 
-기존 Exchange V2는 새로운 Exchange V3와 병행하여 운영됩니다. 따라서 일부 거래 쌍은 PancakeSwap Exchange V2에 남아 해당 V2 파밍을 갖게 됩니다. 태그를 확인해 거래소 버전을 구분하세요.
+The old Exchange V2 will be running in parallel with the new Exchange V3. So, some trading pairs will remain on PancakeSwap Exchange V2 and have their corresponding V2 Farms. Please check the tags to identify the exchange versions.
 
+## Impermanent Loss
 
+Providing liquidity is not without risk, as you may be exposed to impermanent loss.
 
-## 비영구적 손실 (Impermanent Loss)
-
-유동성 공급에는 위험이 따르며 비영구적 손실에 노출될 수 있습니다.
-
-["간단히 말해, 비영구적 손실이란 AMM에 토큰을 맡겨 두었을 때와 지갑에 그대로 보유했을 때의 차이입니다." - Nate Hindman](https://blog.bancor.network/beginners-guide-to-getting-rekt-by-impermanent-loss-7c9510cb2f22)
+[“Simply put, impermanent loss is the difference between holding tokens in an AMM and holding them in your wallet.” - Nate Hindman](https://blog.bancor.network/beginners-guide-to-getting-rekt-by-impermanent-loss-7c9510cb2f22)

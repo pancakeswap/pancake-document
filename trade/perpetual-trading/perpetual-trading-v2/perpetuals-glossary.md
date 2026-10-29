@@ -1,44 +1,44 @@
-# 무기한 선물 V2 용어집
+# Legacy Mode Glossary
 
-**선물 거래와 관련된 모든 용어의 정의를 확인할 수 있습니다**
+**Here you will find defined all the terms inherent in futures trading**
 
-### **무기한 선물 거래**
+### **Perpetual Trading**
 
-&#x20;무기한 선물(Perpetuals), 무기한 스왑(perpetual swaps), 또는 퍼프(perps)는 만기일이 없는 특별한 유형의 선물 계약입니다.
+Perpetuals, perpetual swaps, or perps are a special type of futures contract without an expiration date.
 
-### **레버리지**
+### **Leverage**
 
-레버리지는 거래 메커니즘입니다. 트레이더는 투자 금액 전체를 내지 않고도 시장에 대한 노출을 늘릴 수 있습니다. 쉽게 말해, 돈을 빌려 투자 규모를 키우는 것입니다.
+Leverage is a trading mechanism. Traders can use it to increase their exposure to the market by allowing them to pay less than the full amount of the investment. In simple words, you borrow money to leverage your investment.
 
-### 주문
+### Orders
 
-**롱(Long):** 롱 주문을 개시합니다. 이 주문에서는 자산을 매수한 뒤 가격이 오르면 매도하기를 기다립니다. "매수"와 "롱"은 같은 의미로 사용됩니다.
+**Long:** Open a Long order. In this order, you purchase an asset and wait to sell when the price increases. "Buy" and "long" are used interchangeably.
 
-**숏(Short):** 숏 주문을 개시합니다. 이 주문에서는 자산을 빌려서 매도한 뒤, 가격이 내려가면 다시 매수하기를 기대합니다. "매도"와 "숏"은 같은 의미로 사용됩니다.
+**Short:** Open a Short order. In this order, you borrow an asset, sell it, and hope to repurchase it when the price drops. "Sell" and "short" are used interchangeably.
 
-**지정가 주문(Limit Order):** 지정가 주문은 특정 가격 또는 그보다 유리한 가격으로 매수 또는 매도하는 것입니다. 지정가 주문은 체결이 보장되지 않습니다.
+**Limit Order:** A limit order is buying or selling at a specific price or better. Limit orders are not guaranteed to execute.
 
-**시장가 주문(Market Order):** 시장가 주문은 현재 가장 유리한 가격으로 매수 또는 매도하는 주문입니다.
+**Market Order:** A market order is an order to buy or sell at the best available current price.
 
-#### 포지션 관리
+#### Position Management
 
-사용자는 거래 페이지 하단의 "Position"을 클릭하여 개시가 등 열린 포지션의 세부 정보를 확인할 수 있습니다. 개시가, 포지션 수량, 최신 가격, 강제 청산 가격 등의 세부 정보를 볼 수 있습니다.
+Users can check the details of their opened positions, such as the opening price, by clicking on "Position" located at the bottom of the trading page. They can view details such as opening price, number of positions, latest price and forced liquidation price.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Perp5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Perp5.png" alt=""><figcaption></figcaption></figure>
 
-**포지션 모드**
+**Position mode**
 
-PancakeSwap은 각 v2 거래 페어에 격리 레버리지 모드를 사용합니다. 각 페어는 독립적으로 운영됩니다.&#x20;
+PancakeSwap will use an isolated leverage mode for each v2 trading pair. Pairs operate independently:
 
-* 각 거래 페어는 격리된 포지션이며, 사용자는 여러 개의 격리 포지션을 열 수 있습니다.
-* 모든 포지션(거래 페어)은 독립적으로 운영됩니다. 마진을 추가해야 하는 경우, 다른 별도 포지션에 사용 가능한 자산이 있더라도 직접 수동으로 충전해야 합니다(ApolloX는 향후 자동 충전을 지원할 예정입니다).
-* 격리된 각 거래 포지션은 고유한 위험률과 청산 가격을 가지며 개별적으로 정산됩니다.
-* 청산 위험은 거래 페어별로 격리됩니다. 한 포지션이 청산되어도 다른 포지션에는 영향을 미치지 않습니다.
+* Each trading pair is an isolated position, Users can open multiple isolated positions
+* Every position (trading pair) runs independently. If users need to top up their margin, they will need to do so manually even if they have available assets in other separate positions (ApolloX will support auto top-up in the future)
+* Every isolated trading position will have its own risk rate and liquidation price and will be settled individually.
+* Liquidation risk is isolated for each trading pair. If a position is liquidated, it does not affect other positions.
 
-**포지션 종료하기**
+**Closing a position**
 
-사용자는 "Close Position"을 클릭하여 포지션을 종료할 수 있습니다.
+Users can close their positions by clicking on "Close Position".
 
-#### 수수료 및 슬리피지
+#### Fees and Slippage
 
-수수료에 대한 자세한 내용은 [Aster 페이지](https://docs.asterdex.com/product/asterex-simple/fees-and-slippage)를 참고하세요.
+Please visit the [Aster's page](https://docs.asterdex.com/product/asterex-simple/fees-and-slippage) for more information on Fees.

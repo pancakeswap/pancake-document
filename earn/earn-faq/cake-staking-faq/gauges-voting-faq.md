@@ -2,76 +2,62 @@
 hidden: true
 ---
 
-# 게이지 투표 자주 묻는 질문 (FAQ)
+# Gauges Voting FAQ
 
-### 활성 포지션이 있는데 투표할 수 없는 이유는 무엇인가요? <a href="#cae64522-4729-43a2-8fa8-6bbd2567dcea" id="cae64522-4729-43a2-8fa8-6bbd2567dcea"></a>
+### I have an active position, why I can not vote? <a href="#cae64522-4729-43a2-8fa8-6bbd2567dcea" id="cae64522-4729-43a2-8fa8-6bbd2567dcea"></a>
 
-잠금 해제 시간이 현재 에포크의 스냅샷 시간으로부터 1주일 이후이거나 그와 같은지 확인하세요.&#x20;
+Please ensure your unlock time is equal to or later than 1 week after the snapshot time of the current epoch.
 
-포지션이 스냅샷 시점에 잠금 해제되는 경우, 스냅샷 시점에 veCAKE가 0이라는 의미입니다. 따라서 투표할 수 없습니다.
+If your position is unlocking at the snapshot time, it means you have 0 veCAKE at the snapshot time. Therefore you are not able to vote.
 
+### Can vote right after I set up a veCAKE position?
 
+Yes.
 
-### veCAKE 포지션을 설정한 직후에 투표할 수 있나요?
+Once your position is set up, you can use your cake to vote right away.
 
-네.
+However:
 
-포지션이 설정되면 CAKE를 사용하여 바로 투표할 수 있습니다.
+* No votes can be cast within the last 24 hours of an epoch.
+* You can not update your voting decision on a specific gauge more frequently than 10 days.
+* Please ensure your position is not unlocking earlier than or at the snapshot time.
 
-단, 다음 사항에 유의하세요.
+### Can I gain more veCAKE or votes?
 
-* 에포크 종료 전 마지막 24시간 동안에는 투표할 수 없습니다.
-* 특정 게이지에 대한 투표 결정은 10일보다 더 자주 변경할 수 없습니다.
-* 포지션이 스냅샷 시점보다 일찍 또는 그 시점에 잠금 해제되지 않도록 하세요.
+Yes, simply add more CAKE or extend your lock position.
 
+Please note that after gaining more veCAKE by adding CAKE or extending lock time. You need to manually update every gauges by re-submitting the vote request.
 
+### Why did the voting results change after the tallying period?
 
-### veCAKE나 투표권을 더 얻을 수 있나요?
+During tallying period, the PancakeSwap Kitchen will cast its votes based on various metrics from all the gauges.
 
-네, CAKE를 더 추가하거나 락 포지션을 연장하기만 하면 됩니다.
+The goal is to:
 
-CAKE를 추가하거나 락 기간을 연장하여 veCAKE를 더 얻은 후에는, 투표 요청을 다시 제출하여 모든 게이지를 수동으로 업데이트해야 합니다.
+* Ensuring core liquidity pools are provided a competitive return on their LP positions
+* Ensuring that existing Syrup Pool partner arrangements are met before migrating them fully to the veCAKE gauge voting system
+* Ensuring that any of the smaller farms which did not receive any votes after the launch of veCAKE will receive at least some allocation in the initial rollout, capped at their current emission levels.
 
+Check out this proposal for more detail: [https://pancakeswap.finance/voting/proposal/0x9602c8f56d01f239b88ecf914ee263cc9cdd75b8d10ae4d9536fc27b2680849c](https://pancakeswap.finance/voting/proposal/0x9602c8f56d01f239b88ecf914ee263cc9cdd75b8d10ae4d9536fc27b2680849c)
 
+### Why my vote numbers are decreasing?
 
-### 집계 기간 이후에 투표 결과가 바뀐 이유는 무엇인가요?
+Because when we vote on gauges, we vote using our veCAKE. And veCAKE balance gradually decreases with the remaining lock time.
 
-집계 기간 동안 PancakeSwap Kitchen은 모든 게이지의 다양한 지표를 기반으로 투표를 진행합니다.&#x20;
+Your votes will decrease all the way to 0 upon your veCAKE position unlocking.
 
-목표는 다음과 같습니다.
+To gain more votes, acquire more veCAKE by adding more CAKE to the lock, or extending the lock.
 
-* 핵심 유동성 풀이 LP 포지션에 대해 경쟁력 있는 수익을 제공받도록 보장
-* 기존 시럽 풀 파트너 계약을 veCAKE 게이지 투표 시스템으로 완전히 이전하기 전에 이행되도록 보장
-* veCAKE 출시 이후 투표를 받지 못한 소규모 파밍도 초기 도입 단계에서 현재 배출 수준을 상한으로 하여 최소한의 할당량을 받도록 보장
+### After getting more veCAKE, why can't I vote for more gauges?
 
-자세한 내용은 다음 제안을 확인하세요: [https://pancakeswap.finance/voting/proposal/0x9602c8f56d01f239b88ecf914ee263cc9cdd75b8d10ae4d9536fc27b2680849c](https://pancakeswap.finance/voting/proposal/0x9602c8f56d01f239b88ecf914ee263cc9cdd75b8d10ae4d9536fc27b2680849c)
+When voting on gauges, we cast our votes by defining how much % of our veCAKE goes to each gauge.
 
+Therefore, even though you gained more veCAKE. If you have allocated 100% of your veCAKE in the previous 10 days, you can not change the decision until the end of the 10-day cooldown period.
 
+### Voting results are tallied, why emission rate is not changing?
 
-### 내 투표 수가 줄어드는 이유는 무엇인가요?
+It takes roughly 72 hours to apply the voting results to various emission products on PancakeSwap. Chefs will continue to automate this process to shorten the gap as well as improve accuracy.
 
-게이지에 투표할 때 veCAKE를 사용하여 투표하기 때문입니다. veCAKE 잔액은 남은 락 기간에 따라 점차 감소합니다.&#x20;
+### Why did the gauge I voted for not receive any CAKE emissions in the next epoch?
 
-veCAKE 포지션의 잠금이 해제되면 투표 수는 0까지 감소합니다.
-
-더 많은 투표권을 얻으려면 락에 CAKE를 더 추가하거나 락을 연장하여 veCAKE를 더 확보하세요.
-
-
-
-### veCAKE를 더 얻었는데 왜 더 많은 게이지에 투표할 수 없나요?
-
-게이지에 투표할 때는 내 veCAKE의 몇 %를 각 게이지에 배분할지 정하여 투표합니다.
-
-따라서 veCAKE를 더 얻었더라도, 지난 10일 이내에 veCAKE의 100%를 배분했다면 10일의 쿨다운 기간이 끝날 때까지 결정을 변경할 수 없습니다.
-
-
-
-### 투표 결과가 집계되었는데 배출률이 변경되지 않는 이유는 무엇인가요?
-
-투표 결과를 PancakeSwap의 다양한 배출 상품에 적용하는 데 대략 72시간이 걸립니다. 셰프(Chefs)들은 이 격차를 줄이고 정확도를 높이기 위해 이 과정을 계속 자동화할 것입니다.
-
-
-
-### 내가 투표한 게이지가 다음 에포크에서 CAKE 배출을 받지 못한 이유는 무엇인가요?
-
-화이트리스트에 등록된 게이지는 CAKE를 받으려면 최소 하루 1 CAKE의 배출량에 해당하는 투표를 받아야 합니다.
+Whitelisted gauges need to receive votes that correspond to minimally 1 CAKE per day in emissions, before they can receive any CAKE.
