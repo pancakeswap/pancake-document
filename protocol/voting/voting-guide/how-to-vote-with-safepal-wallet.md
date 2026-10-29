@@ -2,25 +2,24 @@
 hidden: true
 ---
 
-# How to Vote with SafePal Wallet
+# SafePal 지갑으로 투표하는 방법
 
-![](../../../.gitbook/assets/how-to-voting-with-safepal-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-voting-with-safepal-header.png)
 
-You can use the SafePal wallet to vote on open issues in PancakeSwap. Follow the steps below to cast your vote from inside the SafePal wallet.
+SafePal 지갑을 사용하여 PancakeSwap의 진행 중인 안건에 투표할 수 있습니다. 아래 단계에 따라 SafePal 지갑 내에서 투표하세요.
 
-1\. Open your SafePal wallet and select the dApp browser icon in the menu down the bottom.
+1\. SafePal 지갑을 열고 하단 메뉴에서 dApp 브라우저 아이콘을 선택합니다.
 
-![](../../../.gitbook/assets/Safepal-1.PNG)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Safepal-1.PNG)
 
-2\. Enter the URL of the voting page in the address bar. If you don't know the direct URL to the vote you want to vote on, you can go to the [PancakeSwap voting page](https://voting.pancakeswap.finance/) and find the vote from there.
+2\. 주소 표시줄에 투표 페이지의 URL을 입력합니다. 투표하려는 안건의 직접 URL을 모른다면 [PancakeSwap 투표 페이지](https://voting.pancakeswap.finance/)로 이동하여 그곳에서 해당 투표를 찾을 수 있습니다.
 
-![](../../../.gitbook/assets/Safepal-2.PNG)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Safepal-2.PNG)
 
-3\. Click on the connect wallet button at the top of your screen (see the image).&#x20;
+3\. 화면 상단의 지갑 연결 버튼을 클릭합니다(이미지 참조).&#x20;
 
-![](../../../.gitbook/assets/Safepal-3.PNG)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Safepal-3.PNG)
 
-4\. Click on **Injected** as the wallet. Your wallet will now be connected and you can now vote on PancakeSwap proposals.
+4\. 지갑으로 **Injected**를 클릭합니다. 이제 지갑이 연결되어 PancakeSwap 제안에 투표할 수 있습니다.
 
-![](../../../.gitbook/assets/Safepal-4.PNG)
-
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Safepal-4.PNG)

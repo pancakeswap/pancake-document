@@ -2,38 +2,38 @@
 hidden: true
 ---
 
-# Product Manager
+# 프로덕트 매니저
 
-#### General Information
+#### 일반 정보
 
-* Salary range: Competitive, negotiable
-* Position: Full-time
-* Location: Remote
-* Time-zone preference: Any
+* 급여 범위: 경쟁력 있는 수준, 협의 가능
+* 근무 형태: 정규직
+* 근무지: 원격
+* 선호 시간대: 무관
 
-#### Your Responsibilities
+#### 담당 업무
 
-* Collaborate with internal stakeholders (leads, design, devs, bd, marketing, qa, data, ops) to craft future PancakeSwap products from 0 to 1
+* 내부 이해관계자(리드, 디자인, 개발, BD, 마케팅, QA, 데이터, 운영)와 협력하여 PancakeSwap의 미래 제품을 0에서 1까지 만들어 갑니다.
 
-#### Skills & Qualifications
+#### 역량 및 자격 요건
 
-* 3+ years experience in Crypto/DeFi/DEX and financial services/products.
-* Experience in full flow of product development, including:
-  * Perform market research and identify potential product usecases.
-  * Turn requirements and ideas from other stakeholders in to complete designs.
-  * Visualise userflow with wireframe and assist design to complete the UI/UX.
-  * Assist and work with the dev team to build the product.
-  * Resolve product issues with qa team.
-  * Plan GTM strategies and campaigns with marketing team.
-  * Coordinate with external members from partners.
-  * Help ops team to perform product deployment.
-  * Analyse data and improve product experience with data team.
-* Gather info, provide options to other stakeholders to make critical decisions when needed.
-* Able to work remotely, autonomously with great self initiative.
+* 암호화폐/DeFi/DEX 및 금융 서비스/제품 분야 경력 3년 이상.
+* 다음을 포함한 제품 개발 전 과정에 대한 경험:
+  * 시장 조사를 수행하고 잠재적인 제품 활용 사례를 발굴합니다.
+  * 다른 이해관계자의 요구 사항과 아이디어를 완성된 디자인으로 구체화합니다.
+  * 와이어프레임으로 사용자 흐름을 시각화하고 디자인이 UI/UX를 완성하도록 지원합니다.
+  * 개발 팀이 제품을 만들 수 있도록 지원하고 함께 일합니다.
+  * QA 팀과 함께 제품 이슈를 해결합니다.
+  * 마케팅 팀과 GTM 전략 및 캠페인을 계획합니다.
+  * 파트너 측 외부 인원과 조율합니다.
+  * 운영 팀의 제품 배포를 돕습니다.
+  * 데이터 팀과 함께 데이터를 분석하고 제품 경험을 개선합니다.
+* 필요할 때 다른 이해관계자가 중요한 결정을 내릴 수 있도록 정보를 수집하고 선택지를 제공합니다.
+* 강한 주도성으로 원격에서 자율적으로 일할 수 있는 분.
 
-#### Nice to Have
+#### 우대 사항
 
-* Technical background of blockchain and Web3. (to assist dev team to plan ahead when designing products. Think inside of the blockchain limitations, but think outside of the box for solutions)
-* Skills for blockchain deep dive, tx debug (to better assist qa and ops)
-* Figma skills (to build pretty mock-ups on your own with a design system)
-* Mandarin (to communicate with some other skillful bunnies)
+* 블록체인 및 Web3 기술 배경. (제품을 설계할 때 개발 팀이 미리 계획하도록 돕기 위함입니다. 블록체인의 한계 안에서 생각하되, 해결책은 틀을 벗어나 생각하세요)
+* 블록체인 심층 분석 및 트랜잭션 디버깅 역량 (QA와 운영을 더 잘 지원하기 위함)
+* Figma 활용 능력 (디자인 시스템을 활용해 멋진 목업을 직접 만들기 위함)
+* 중국어(Mandarin) (다른 유능한 버니들과 소통하기 위함)

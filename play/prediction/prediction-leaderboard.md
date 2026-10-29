@@ -1,29 +1,29 @@
-# Prediction - Leaderboard
+# 예측 - 리더보드
 
-The **Prediction Leaderboard** highlights the top participants in PancakeSwap Prediction.\
-It allows players to see how they rank against others based on different metrics.
+**예측 리더보드**는 PancakeSwap 예측의 상위 참가자를 보여줍니다.\
+플레이어는 다양한 지표를 기준으로 다른 사람들과 비교해 자신의 순위를 확인할 수 있습니다.
 
-> **Note**: A wallet must participate in at least **10 rounds** to appear on the leaderboard by default.\
-> Specific wallet addresses can still be searched manually.
+> **참고**: 기본적으로 리더보드에 표시되려면 지갑이 최소 **10개 라운드**에 참여해야 합니다.\
+> 특정 지갑 주소는 직접 검색할 수 있습니다.
 
-### How to Use the Leaderboard
+### 리더보드 사용 방법
 
-1.  **Access the Leaderboard** directly from the Prediction page.
+1.  예측 페이지에서 바로 **리더보드에 접속**합니다.
 
-    <figure><img src="../../.gitbook/assets/image (454).png" alt=""><figcaption></figcaption></figure>
-2. **Filter by Token**
-   * Choose the market (BNB, BTC, ETH) you want to view top players for.
-3. **Sort by Ranking Criteria**
-   * **Rounds Played**: Total number of rounds a user has participated in.
-   * **Net Winnings**: Total tokens won from successful predictions, after the 3% fee is deducted.
-   * **Total BNB**: Aggregate amount of BNB used for predictions.
-   * **Win Rate**: Ratio of rounds won to total rounds participated.
-4.  **Search by Wallet Address**
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28454%29.png" alt=""><figcaption></figcaption></figure>
+2. **토큰별 필터링**
+   * 상위 플레이어를 보고 싶은 마켓(BNB, BTC, ETH)을 선택합니다.
+3. **순위 기준별 정렬**
+   * **참여 라운드 수**: 사용자가 참여한 총 라운드 수입니다.
+   * **순수익**: 성공한 예측으로 획득한 총 토큰에서 3% 수수료를 제외한 금액입니다.
+   * **총 BNB**: 예측에 사용한 BNB의 총량입니다.
+   * **승률**: 참여한 전체 라운드 대비 승리한 라운드의 비율입니다.
+4.  **지갑 주소로 검색**
 
-    * Enter a wallet address to display its scorecard, even if it does not meet the 10-round threshold.
+    * 지갑 주소를 입력하면 10개 라운드 기준을 충족하지 않더라도 해당 지갑의 성적표가 표시됩니다.
 
-    <figure><img src="../../.gitbook/assets/image (455).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28455%29.png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../../.gitbook/assets/image (456).png" alt="" width="384"><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28456%29.png" alt="" width="384"><figcaption></figcaption></figure>
 
 ***

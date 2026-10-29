@@ -1,22 +1,22 @@
-# Want to be an Ambassador?
+# 앰배서더가 되고 싶으신가요?
 
-If you’re passionate about DeFi and believe you have what it takes to educate and inspire others, this is your chance!
+DeFi에 열정이 있고 다른 사람들을 교육하고 영감을 줄 역량이 있다고 생각하신다면, 지금이 기회입니다!
 
-**We’re expanding our Ambassador Program to key regions**, and we need local leaders to host meetups, workshops, and events to bring the PancakeSwap experience to the masses. Help us strengthen local communities and take DeFi education to the next level—one event, one connection at a time.
+**저희는 앰배서더 프로그램을 주요 지역으로 확대하고 있으며**, 밋업, 워크숍, 이벤트를 열어 PancakeSwap 경험을 대중에게 알릴 현지 리더가 필요합니다. 이벤트 하나, 만남 하나로 지역 커뮤니티를 강화하고 DeFi 교육을 한 단계 끌어올리는 데 함께해 주세요.
 
-### **Where We Need Ambassadors & What You’ll Do**
+### **앰배서더가 필요한 곳과 담당 업무**
 
-We’re looking for passionate Ambassadors in key regions to help bring the PancakeSwap experience to life and drive DeFi education on a local level. If you’re excited to take on the challenge, we want to hear from you.&#x20;
+PancakeSwap 경험을 현실로 만들고 지역 단위의 DeFi 교육을 이끌어 갈 열정적인 앰배서더를 주요 지역에서 찾고 있습니다. 이 도전에 설렘을 느끼신다면 꼭 연락해 주세요.&#x20;
 
-### **Requirements to Apply**
+### **지원 요건**
 
-We’re looking for Ambassadors who:
+다음과 같은 앰배서더를 찾고 있습니다.
 
-* Are fluent in **English** and the **native language** of the region you're applying to, with **business-level proficiency** in written and spoken communication.
-* Have a strong understanding of PancakeSwap, DeFi, and community-building.
-* Are proactive, reliable, and passionate about organizing events.
-* Have excellent communication and leadership skills to engage, inspire, and grow local communities.
+* **영어**와 지원하는 지역의 **현지 언어**에 능통하며, 서면 및 구두 의사소통에서 **업무 수준의 실력**을 갖추신 분.
+* PancakeSwap, DeFi, 커뮤니티 구축에 대한 깊은 이해가 있으신 분.
+* 적극적이고 신뢰할 수 있으며 이벤트 기획에 열정이 있으신 분.
+* 지역 커뮤니티를 참여시키고, 영감을 주고, 성장시킬 뛰어난 소통 및 리더십 역량을 갖추신 분.
 
-### **How to Apply & Selection Timeline**
+### **지원 방법 및 선발 일정**
 
-Interested in becoming a PancakeSwap Ambassador? Reach out to us across our channels on X, Discord, or Telegram.&#x20;
+PancakeSwap 앰배서더에 관심이 있으신가요? X, 디스코드 또는 텔레그램의 저희 채널로 문의해 주세요.&#x20;

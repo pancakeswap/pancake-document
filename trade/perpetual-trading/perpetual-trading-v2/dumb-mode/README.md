@@ -2,55 +2,55 @@
 hidden: true
 ---
 
-# Dumb Mode
+# 덤 모드
 
-### Overview
+### 개요
 
-[**Dumb Mode**](https://perp.pancakeswap.finance/en/futures/v2/BTCUSD?theme=light\&chain=bsc) on PancakeSwap Perpetuals offers a simplified trading experience, ideal for traders who prefer to trade on the minute-by-minute fluctuations of an underlying asset’s value. Dumb Mode simplifies trading by reducing the noise, allowing users to enter and exit short-term positions easily.
+PancakeSwap 무기한 선물의 [**덤 모드**](https://perp.pancakeswap.finance/en/futures/v2/BTCUSD?theme=light\&chain=bsc)는 기초 자산 가치의 분 단위 등락을 거래하는 것을 선호하는 트레이더에게 이상적인 간소화된 거래 경험을 제공합니다. 덤 모드는 잡음을 줄여 거래를 단순하게 만들어, 사용자가 단기 포지션에 쉽게 진입하고 종료할 수 있게 합니다.
 
-### How It Works
+### 작동 방식
 
-Users are given a selection of 5-minute, 15-minute, 30-minute and 1-hour expiration windows with different return-on-investment ratios. Users can choose to long or short an underlying asset.
+사용자는 서로 다른 투자 수익률 비율이 적용되는 5분, 15분, 30분, 1시간의 만기 구간 중에서 선택할 수 있습니다. 사용자는 기초 자산에 대해 롱 또는 숏을 선택할 수 있습니다.
 
-At the end of the expiration period, if the underlying asset is in a winning position (price greater than open price for long, price lower than open price for short), users will stand to profit.
+만기 시점에 기초 자산이 유리한 위치에 있으면(롱은 가격이 시가보다 높고, 숏은 가격이 시가보다 낮은 경우) 사용자는 수익을 얻습니다.
 
-Each expiration period has a different return-on-investment (ROI). The longer the expiration period, the higher the ROI. Percentages and fees are as follows:<br>
+만기 구간마다 투자 수익률(ROI)이 다릅니다. 만기 구간이 길수록 ROI가 높습니다. 비율과 수수료는 다음과 같습니다.<br>
 
-| Expiration Period | Winning ROI (Net of fees)\* | Losing ROI | Fees (on Winning) |
-| ----------------- | --------------------------- | ---------- | ----------------- |
-| 5 minutes         | 50%                         | -100%      | 6% on collateral  |
-| 15 minutes        | 55%                         | -100%      | 6% on collateral  |
-| 30 minutes        | 70%                         | -100%      | 6% on collateral  |
-| 1 hour            | 83%                         | -100%      | 6% on collateral  |
+| 만기 구간 | 수익 시 ROI (수수료 차감 후)\* | 손실 시 ROI | 수수료 (수익 시) |
+| ----- | --------------------- | -------- | ---------- |
+| 5분    | 50%                   | -100%    | 담보의 6%     |
+| 15분   | 55%                   | -100%    | 담보의 6%     |
+| 30분   | 70%                   | -100%    | 담보의 6%     |
+| 1시간   | 83%                   | -100%    | 담보의 6%     |
 
-\*Winning ROI may be adjusted occasionally depending on market conditions. Please check this page for any updates
+\*수익 시 ROI는 시장 상황에 따라 수시로 조정될 수 있습니다. 업데이트 사항은 이 페이지에서 확인하세요.
 
-For example, in the following scenario:
+예를 들어 다음과 같은 경우입니다.
 
-* Position Selected: Long
-* Collateral Placed: 100 USDT
-* Expiration Period: 60 seconds
-* BTCUSD price at open: $50,000
-* BTCUSD price after 60s: $50,001
+* 선택한 포지션: 롱
+* 예치한 담보: 100 USDT
+* 만기 구간: 60초
+* 개시 시점의 BTCUSD 가격: $50,000
+* 60초 후의 BTCUSD 가격: $50,001
 
-User will profit **100USDT \* 75%= 75USDT**
+사용자는 **100USDT \* 75%= 75USDT**의 수익을 얻습니다.
 
-For more information on how to open a Dumb Mode position, click [here](dumb-mode-guide.md).
+덤 모드 포지션을 여는 방법에 대한 자세한 내용은 [여기](dumb-mode-guide.md)를 클릭하세요.
 
-### Markets and Margin Assets
+### 마켓 및 마진 자산
 
-Dumb Mode supports trading in the following markets and margin assets on **BNB Chain**:
+덤 모드는 **BNB 체인**에서 다음 마켓과 마진 자산으로 거래할 수 있습니다.
 
-<table data-header-hidden><thead><tr><th width="330"></th><th></th></tr></thead><tbody><tr><td>Market</td><td>Margin Assets</td></tr><tr><td><p>BTCUSD</p><p>ETHUSD</p><p>CAKEUSD</p><p>BNBUSD</p><p>SOLUSD</p></td><td><p>USDC</p><p>USDT</p><p>CAKE</p><p>ETH</p><p>BTC</p><p>HAY</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="330"></th><th></th></tr></thead><tbody><tr><td>마켓</td><td>마진 자산</td></tr><tr><td><p>BTCUSD</p><p>ETHUSD</p><p>CAKEUSD</p><p>BNBUSD</p><p>SOLUSD</p></td><td><p>USDC</p><p>USDT</p><p>CAKE</p><p>ETH</p><p>BTC</p><p>HAY</p></td></tr></tbody></table>
 
-Dumb Mode supports trading in the following markets and margin assets on **Arbitrum, opBNB and Base Chains**:
+덤 모드는 **Arbitrum, opBNB, Base 체인**에서 다음 마켓과 마진 자산으로 거래할 수 있습니다.
 
-<table data-header-hidden><thead><tr><th width="330"></th><th></th></tr></thead><tbody><tr><td>Market</td><td>Margin Assets</td></tr><tr><td><p>BTCUSD</p><p>ETHUSD</p></td><td><p>USDC</p><p>USDT</p><p>ETH</p><p>BTC</p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="330"></th><th></th></tr></thead><tbody><tr><td>마켓</td><td>마진 자산</td></tr><tr><td><p>BTCUSD</p><p>ETHUSD</p></td><td><p>USDC</p><p>USDT</p><p>ETH</p><p>BTC</p></td></tr></tbody></table>
 
-Support for more assets/chains is in development.
+더 많은 자산과 체인에 대한 지원을 개발 중입니다.
 
-### Fees
+### 수수료
 
-A fee of **6%** of the principal or collateral is charged in case of a winning trade. This is already calculated before ROI.
+수익이 나는 거래의 경우 원금 또는 담보의 **6%**가 수수료로 부과됩니다. 이는 ROI에 이미 반영되어 계산된 값입니다.
 
 <br>

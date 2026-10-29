@@ -1,2 +1,1 @@
-# ✨ How to Guides
-
+# ✨ 이용 가이드

@@ -1,78 +1,78 @@
-# 📔 Governance
+# 📔 거버넌스
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%286%29.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-As part of the [Tokenomics 3.0 upgrade](https://pancakeswap.finance/voting/proposal/0x79ef496c9737e48d9677a6e291ff2a549dee6729c9996398e453af8ecbf0ceb3), this page has been updated on 15th May 2025
+[Tokenomics 3.0 업그레이드](https://pancakeswap.finance/voting/proposal/0x79ef496c9737e48d9677a6e291ff2a549dee6729c9996398e453af8ecbf0ceb3)의 일환으로 이 페이지는 2025년 5월 15일에 업데이트되었습니다
 {% endhint %}
 
-Voting gives a voice to the PancakeSwap community, letting the community have a say in how PancakeSwap develops into the future.
+투표는 PancakeSwap 커뮤니티에 목소리를 부여하여 PancakeSwap이 앞으로 어떻게 발전할지에 대해 커뮤니티가 의견을 낼 수 있게 합니다.
 
-Check out [PancakeSwap's native voting portal](https://pancakeswap.finance/voting) and our [Forum](https://forum.pancakeswap.finance/) page.
+[PancakeSwap 자체 투표 포털](https://pancakeswap.finance/voting)과 [포럼](https://forum.pancakeswap.finance/) 페이지를 확인해 보세요.
 
-## Voting Mechanics
+## 투표 메커니즘
 
-:notebook\_with\_decorative\_cover:Summary - What Changed (after [Tokenomics 3.0 Update](https://pancakeswap.finance/voting/proposal/0x79ef496c9737e48d9677a6e291ff2a549dee6729c9996398e453af8ecbf0ceb3))
+:notebook\_with\_decorative\_cover:요약 - 변경 사항 ([Tokenomics 3.0 업데이트](https://pancakeswap.finance/voting/proposal/0x79ef496c9737e48d9677a6e291ff2a549dee6729c9996398e453af8ecbf0ceb3) 이후)
 
-<table><thead><tr><th width="200.6015625">Governance Component</th><th width="218.01953125">Before Tokenomics 3.0</th><th width="205.1796875">After Tokenomics 3.0</th><th>Status<select><option value="q1dVFsCri7zA" label="✅ Changed" color="blue"></option><option value="4AGl26rwjYcI" label="🔁 Unchanged" color="blue"></option></select></th></tr></thead><tbody><tr><td>Voting Power</td><td>1 veCAKE = 1 voting power</td><td>1 CAKE = 1 voting power</td><td><span data-option="q1dVFsCri7zA">✅ Changed</span></td></tr><tr><td>Delegation</td><td>Allowed (via veCAKE mechanics)</td><td>Delegation is not allowed</td><td><span data-option="q1dVFsCri7zA">✅ Changed</span></td></tr><tr><td>Proposal Submission Threshold</td><td>Snapshot 100K veCAKE required</td><td>Snapshot 100K CAKE required</td><td><span data-option="q1dVFsCri7zA">✅ Changed</span></td></tr><tr><td>Core vs Community Proposals</td><td>Defined roles and purposes for each proposal type</td><td>No change</td><td><span data-option="4AGl26rwjYcI">🔁 Unchanged</span></td></tr><tr><td>Voting Period</td><td>Community: Fixed<br>Core: Variable</td><td>No change</td><td><span data-option="4AGl26rwjYcI">🔁 Unchanged</span></td></tr><tr><td>Snapshot Timing</td><td>At proposal posted block</td><td>No change</td><td><span data-option="4AGl26rwjYcI">🔁 Unchanged</span></td></tr><tr><td>Quorum</td><td>No minimum quorum</td><td>No change</td><td><span data-option="4AGl26rwjYcI">🔁 Unchanged</span></td></tr></tbody></table>
+<table><thead><tr><th width="200.6015625">거버넌스 구성 요소</th><th width="218.01953125">Tokenomics 3.0 이전</th><th width="205.1796875">Tokenomics 3.0 이후</th><th>상태<select><option value="q1dVFsCri7zA" label="✅ 변경됨" color="blue"></option><option value="4AGl26rwjYcI" label="🔁 변경 없음" color="blue"></option></select></th></tr></thead><tbody><tr><td>투표권</td><td>1 veCAKE = 1 투표권</td><td>1 CAKE = 1 투표권</td><td><span data-option="q1dVFsCri7zA">✅ 변경됨</span></td></tr><tr><td>위임</td><td>허용(veCAKE 메커니즘을 통해)</td><td>위임은 허용되지 않음</td><td><span data-option="q1dVFsCri7zA">✅ 변경됨</span></td></tr><tr><td>제안 제출 기준</td><td>Snapshot 100K veCAKE 필요</td><td>Snapshot 100K CAKE 필요</td><td><span data-option="q1dVFsCri7zA">✅ 변경됨</span></td></tr><tr><td>코어 제안 vs 커뮤니티 제안</td><td>각 제안 유형별로 역할과 목적이 정의됨</td><td>변경 없음</td><td><span data-option="4AGl26rwjYcI">🔁 변경 없음</span></td></tr><tr><td>투표 기간</td><td>커뮤니티: 고정<br>코어: 가변</td><td>변경 없음</td><td><span data-option="4AGl26rwjYcI">🔁 변경 없음</span></td></tr><tr><td>스냅샷 시점</td><td>제안이 게시된 블록 기준</td><td>변경 없음</td><td><span data-option="4AGl26rwjYcI">🔁 변경 없음</span></td></tr><tr><td>정족수</td><td>최소 정족수 없음</td><td>변경 없음</td><td><span data-option="4AGl26rwjYcI">🔁 변경 없음</span></td></tr></tbody></table>
 
-### 1. **Voting Power (Changed)**
+### 1. **투표권 (변경됨)**
 
-* **All CAKE holders have direct voting rights.**
-* **Voting power directly corresponds to the number of CAKE held in wallet address during snapshot**
-  * **1 CAKE = 1 voting power**
-  * **CAKE staked in Syrup Pools does not count** toward your voting power, as it is not part of your wallet balance at the time of the snapshot
-  * Snapshot balance = Same block proposal posted
-* **Delegation is no longer supported.** Every CAKE holder must vote individually.
+* **모든 CAKE 보유자는 직접 투표권을 가집니다.**
+* **투표권은 스냅샷 시점에 지갑 주소에 보유한 CAKE 수량과 직접 대응합니다**
+  * **1 CAKE = 1 투표권**
+  * **시럽 풀에 스테이킹된 CAKE는 투표권에 포함되지 않습니다**. 스냅샷 시점에 지갑 잔액의 일부가 아니기 때문입니다.
+  * 스냅샷 잔액 = 제안이 게시된 동일한 블록
+* **위임은 더 이상 지원되지 않습니다.** 모든 CAKE 보유자는 개별적으로 투표해야 합니다.
 
-### 2. **Proposal Submission (Unchanged)**
+### 2. **제안 제출 (변경 없음)**
 
-* **How to Submit a Proposal**
-  * Submit on [https://pancakeswap.finance/voting/proposal/create](https://pancakeswap.finance/voting/proposal/create)
-  * Must include:
-    * Title
-    * Content
-    * Description
-    * On-chain action(s) (if needed)
-    * Voting Duration
-* Types of Proposals
-  1.  Core Proposals
+* **제안 제출 방법**
+  * [https://pancakeswap.finance/voting/proposal/create](https://pancakeswap.finance/voting/proposal/create)에서 제출합니다.
+  * 다음 항목을 포함해야 합니다.
+    * 제목
+    * 내용
+    * 설명
+    * 온체인 작업(필요한 경우)
+    * 투표 기간
+* 제안 유형
+  1.  코어 제안
 
-      * Can only be proposed by the **PancakeSwap Core Team**.
-      * Require a vote by CAKE holders.
-      * If passed, will be implemented by the PancakeSwap team.
+      * **PancakeSwap 코어 팀**만 제안할 수 있습니다.
+      * CAKE 보유자의 투표가 필요합니다.
+      * 통과되면 PancakeSwap 팀이 구현합니다.
 
-      Examples
+      예시
 
-      1. Protocol adjustments (product changes, fee changes)
-      2. Significant uses of Ecosystem Growth funds not covered by previous proposals
-  2. Community Proposals
-     * **Community** proposals are posted by the PancakeSwap community. These are used to propose ideas and express the community's point of view. These are **non-binding suggestions** from the community.
-     * Anyone with **100,000 CAKE (snapshot balance)** can submit.
-     * The PancakeSwap team may adopt strong proposals into future Core Proposals
-     * Community members may also utilize our [Forum](https://forum.pancakeswap.finance/) to provide feedback and make suggestions to the protocol.
+      1. 프로토콜 조정(제품 변경, 수수료 변경)
+      2. 이전 제안에서 다루지 않은 생태계 성장 자금의 중요한 사용
+  2. 커뮤니티 제안
+     * **커뮤니티** 제안은 PancakeSwap 커뮤니티가 게시합니다. 아이디어를 제안하고 커뮤니티의 관점을 표현하는 데 사용됩니다. 이는 커뮤니티의 **구속력 없는 제안**입니다.
+     * **100,000 CAKE(스냅샷 잔액)**를 보유한 사람이면 누구나 제출할 수 있습니다.
+     * PancakeSwap 팀은 우수한 제안을 향후 코어 제안에 채택할 수 있습니다.
+     * 커뮤니티 구성원은 [포럼](https://forum.pancakeswap.finance/)을 활용하여 프로토콜에 대한 피드백과 제안을 할 수도 있습니다.
 
-### **3. Voting Duration (Unchanged)**
+### **3. 투표 기간 (변경 없음)**
 
-* All CAKE holders can vote **during the voting window** for each proposal.
-  * Community proposal: Fixed at 3 days
-  * Core Proposal: Variable, set by PancakeSwap
-* Your voting power is determined by a **snapshot of your CAKE balance at the block when the proposal is posted**.
-* **Adding more CAKE after the proposal is posted will not increase your voting power** for that specific vote.
+* 모든 CAKE 보유자는 각 제안의 **투표 기간 중에** 투표할 수 있습니다.
+  * 커뮤니티 제안: 3일로 고정
+  * 코어 제안: 가변, PancakeSwap이 설정
+* 투표권은 **제안이 게시된 블록에서의 CAKE 잔액 스냅샷**으로 결정됩니다.
+* **제안이 게시된 후 CAKE를 더 추가해도** 해당 투표의 **투표권은 늘어나지 않습니다**.
 
-For full details, see the [Voting Guide](https://docs.pancakeswap.finance/protocol/voting/voting-guide).
+자세한 내용은 [투표 가이드](https://docs.pancakeswap.finance/protocol/voting/voting-guide)를 참조하세요.
 
-### **4. Voting Outcome (Unchanged)**
+### **4. 투표 결과 (변경 없음)**
 
-* The outcome is based on **total votes cast** (total CAKE used for voting)
-* **There is currently no minimum quorum required** for a proposal to pass.
+* 결과는 **총 투표 수**(투표에 사용된 총 CAKE)를 기준으로 합니다.
+* 제안이 통과되기 위한 **최소 정족수는 현재 없습니다**.
 
-## Note: Veto Rights
+## 참고: 거부권
 
-To protect the protocol, the **PancakeSwap Core Team reserves the right to intervene in critical situations**—such as security threats or issues affecting the stable operation of the platform—**without requiring a community vote or Snapshot poll**.
+프로토콜을 보호하기 위해 **PancakeSwap 코어 팀은 보안 위협이나 플랫폼의 안정적인 운영에 영향을 미치는 문제와 같은 중대한 상황에서 개입할 권리를 보유합니다**. 이 경우 **커뮤니티 투표나 Snapshot 투표는 필요하지 않습니다**.
 
-In any case where a veto action is taken, the Core Team will **publicly share a clear explanation** of the decision.
+거부권 행사 조치가 취해지는 경우 코어 팀은 해당 결정에 대한 **명확한 설명을 공개적으로 공유**합니다.
 
-**Possible veto actions may include:**
+**가능한 거부권 행사 조치는 다음과 같습니다.**
 
-1. **Temporarily pausing smart contracts** to fix urgent bugs or vulnerabilities.
+1. 긴급 버그나 취약점을 수정하기 위해 **스마트 컨트랙트를 일시적으로 중지**.

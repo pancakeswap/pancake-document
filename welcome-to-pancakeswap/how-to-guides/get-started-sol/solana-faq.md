@@ -1,71 +1,71 @@
-# Solana FAQ
+# Solana 자주 묻는 질문 (FAQ)
 
-### V3 Pools – Frequently Asked Questions (FAQ)
+### V3 풀 – 자주 묻는 질문 (FAQ)
 
-#### 1. What fee tiers are available?
+#### 1. 어떤 수수료 등급을 사용할 수 있나요?
 
-**Supported Fee Tiers:**\
-The following fee tiers are available for V3 (concentrated liquidity) pools:
+**지원되는 수수료 등급:**\
+V3(집중 유동성) 풀에서는 다음 수수료 등급을 사용할 수 있습니다.
 
 `0.01%, 0.02%, 0.03%, 0.04%, 0.05%, 0.1%, 0.15%, 0.16%, 0.18%, 0.2%, 0.25%, 0.4%, 0.6%, 0.8%, 1%, 2%, 3%, 4%`
 
-**Fee Distribution (applies to all fee tiers):**
+**수수료 분배 (모든 수수료 등급에 적용):**
 
-* 84% to liquidity providers (LPs)
-* 16% to the protocol
-  * 8% is burned
-  * 8% goes to the protocol treasury
+* 84%는 유동성 공급자(LP)에게 지급
+* 16%는 프로토콜에 귀속
+  * 8%는 소각
+  * 8%는 프로토콜 트레저리로 이동
 
-#### 2. Can anyone create a pool?
+#### 2. 누구나 풀을 만들 수 있나요?
 
-Yes. Pool creation is permissionless, with a few exceptions:
+네. 풀 생성은 허가가 필요 없으며(permissionless), 몇 가지 예외가 있습니다.
 
-* Only one pool can exist for a given **token pair + fee tier** combination (e.g. only one SOL<> USDC 0.1% pool can exist at one time)
-* Only **SPL tokens** and selected **Token-2022** tokens are supported at this time.
+* **토큰 페어 + 수수료 등급** 조합마다 하나의 풀만 존재할 수 있습니다 (예: SOL<> USDC 0.1% 풀은 동시에 하나만 존재할 수 있습니다)
+* 현재는 **SPL 토큰**과 일부 선별된 **Token-2022** 토큰만 지원됩니다.
 
-#### 3. How long does it take for a newly created pool to appear?
+#### 3. 새로 만든 풀이 나타나기까지 얼마나 걸리나요?
 
-* Pools typically appear in the pool list approximately **5 minutes** after creation.
-* If it doesn't appear:
-  * Use the **search bar** to locate it manually.
-  * Pools may be filtered from the list due to **low TVL**.
+* 풀은 보통 생성 후 약 **5분** 뒤에 풀 목록에 나타납니다.
+* 나타나지 않는 경우:
+  * **검색창**을 사용해 직접 찾아보세요.
+  * **낮은 TVL** 때문에 목록에서 필터링되었을 수 있습니다.
 
-#### 4. Why does my pool’s APR or TVL still show as zero?
+#### 4. 풀의 APR 또는 TVL이 계속 0으로 표시되는 이유는 무엇인가요?
 
-This is expected right after a new pool is created:
+새 풀을 만든 직후에는 정상적인 현상입니다.
 
-* APR and TVL data will only populate once **at least one swap** has occurred in the pool.
-* After a swap, these metrics will begin displaying within approximately **15 minutes**.
+* APR과 TVL 데이터는 풀에서 **최소 한 번의 스왑**이 발생한 후에야 채워집니다.
+* 스왑 이후 약 **15분** 이내에 해당 지표가 표시되기 시작합니다.
 
-#### 5. How do I add a custom token to create a pool?
+#### 5. 풀을 만들기 위해 커스텀 토큰은 어떻게 추가하나요?
 
-To add a new token:
+새 토큰을 추가하는 방법입니다.
 
-* In the pool creation interface, open the token selector.
+* 풀 생성 화면에서 토큰 선택기를 엽니다.
 
-<figure><img src="../../../.gitbook/assets/image (410).png" alt="" width="248"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28410%29.png" alt="" width="248"><figcaption></figcaption></figure>
 
-* Paste the token’s address into the search bar.
+* 검색창에 토큰 주소를 붙여넣습니다.
 
-<figure><img src="../../../.gitbook/assets/image (411).png" alt="" width="247"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28411%29.png" alt="" width="247"><figcaption></figcaption></figure>
 
-* Click **"Add Token"**.
+* **"Add Token"**을 클릭합니다.
 
-<figure><img src="../../../.gitbook/assets/image (414).png" alt="" width="251"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28414%29.png" alt="" width="251"><figcaption></figcaption></figure>
 
-* The token will now be searchable in the list.
+* 이제 목록에서 해당 토큰을 검색할 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/image (412).png" alt="" width="249"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28412%29.png" alt="" width="249"><figcaption></figcaption></figure>
 
-* To manage tokens:
-  * Click **"View Token List"**.
-  *   Toggle different lists on or off, including the **User Added Token List**, which includes any manually added tokens.
+* 토큰을 관리하려면:
+  * **"View Token List"**를 클릭합니다.
+  *   수동으로 추가한 토큰이 포함된 **User Added Token List**를 비롯한 여러 목록을 켜거나 끌 수 있습니다.
 
-      <figure><img src="../../../.gitbook/assets/image (413).png" alt="" width="247"><figcaption></figcaption></figure>
+      <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28413%29.png" alt="" width="247"><figcaption></figcaption></figure>
 
-#### 6. Why does my first transaction on Solana seem more expensive?
+#### 6. Solana에서 첫 번째 트랜잭션이 더 비싸게 느껴지는 이유는 무엇인가요?
 
-Solana uses **Associated Token Accounts (ATAs)** to manage token balances for each wallet. When interacting with a token for the first time, your wallet must create an ATA, which incurs an initial one-time cost (paid in SOL).
+Solana는 **Associated Token Account(ATA)** 를 사용해 각 지갑의 토큰 잔액을 관리합니다. 토큰을 처음 사용할 때 지갑에서 ATA를 생성해야 하며, 이때 최초 1회 비용(SOL로 지불)이 발생합니다.
 
-* This ATA creation fee is required by the Solana protocol and is not specific to PancakeSwap.
-* If the ATA is later closed, the **original SOL used can be refunded** back to your wallet.
+* 이 ATA 생성 수수료는 Solana 프로토콜에서 요구하는 것이며 PancakeSwap에만 해당되는 것이 아닙니다.
+* 이후 ATA를 닫으면 **처음에 사용한 SOL을 지갑으로 환불받을 수 있습니다.**

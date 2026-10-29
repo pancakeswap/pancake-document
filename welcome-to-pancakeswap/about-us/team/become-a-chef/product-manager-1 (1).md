@@ -1,91 +1,75 @@
-# Senior Back End Developer (DeFi)
+# 시니어 백엔드 개발자 (DeFi)
 
-### General Information
+### 일반 정보
 
-\- Salary range: Competitive, negotiable
+\- 급여 범위: 경쟁력 있는 수준, 협의 가능
 
-\- Position: Full-time
+\- 근무 형태: 정규직
 
-\- Location: Remote
+\- 근무지: 원격
 
-### Role Overview
+### 포지션 개요
 
-We are seeking an experienced Backend Engineer who is passionate about crypto and DeFi,
+암호화폐와 DeFi에 열정이 있고 마이크로서비스 아키텍처에 대한 깊은 이해를 갖춘 경험 많은 백엔드 엔지니어를 찾고 있습니다.
 
-and has a deep understanding of micro-services architecture. You will work closely with a
+다양한 엔지니어 팀과 긴밀히 협력하여 당사 암호화폐 플랫폼을 지원하는 백엔드 서비스를 설계, 개발, 유지 관리하게 됩니다.
 
-diverse team of engineers to design, develop, and maintain backend services that support our
+### 담당 업무
 
-crypto platform.
+\- 확장 가능한 백엔드 서비스와 마이크로서비스를 설계, 개발, 유지 관리합니다.
 
-### Your Responsibilities
+\- 유관 부서와 협력하여 DeFi 프로토콜 및 기타 블록체인 솔루션과 통합합니다.
 
-\- Design, develop, and maintain scalable backend services and micro-services.
+\- 암호화폐 서비스를 뒷받침하는 안전하고 효율적이며 안정적인 API를 구현합니다.
 
-\- Work with cross-functional teams to integrate with DeFi protocols and other blockchain
+\- 확장성과 성능을 보장하기 위해 클라우드 환경에 인프라를 개발하고 배포합니다.
 
-solutions.
+\- Kubernetes에서 컨테이너화된 서비스를 구축하고 운영하며, 배포, 스케일링, 안정성을 관리합니다.
 
-\- Implement secure, efficient, and reliable APIs to power our crypto services.
+\- 높은 동시성을 안전하게 처리하고, 과부하 상황에서도 데이터 일관성과 안정성을 보장하는 시스템을 설계합니다.
 
-\- Develop and deploy infrastructure on cloud environments to ensure scalability and
+\- 시스템 성능과 안정성을 분석하고 최적화합니다.
 
-performance.
+\- 블록체인, DeFi, 백엔드 기술의 최신 동향을 꾸준히 파악합니다.
 
-\- Build and operate containerized services on Kubernetes, managing deployments, scaling, and
+### 역량 및 자격 요건
 
-reliability.
+\- 백엔드 개발 경력 5년 이상.
 
-\- Design systems that safely handle high concurrency, ensuring data consistency and stability
+\- Typescript(필수), Rust(우대) 등 최신 백엔드 프로그래밍 언어에 대한 탄탄한 지식.
 
-under heavy load.
+\- 프로덕션 환경에서의 Kubernetes 및 컨테이너 오케스트레이션 실무 경험.
 
-\- Analyze and optimize system performance and stability.
+\- 동시성 관리에 대한 깊은 이해 — 동시 요청 처리, 경쟁 상태, 분산 락, 비동기 처리, 메시지 큐.
 
-\- Stay current with the latest developments in blockchain, DeFi, and backend technologies.
+\- 스마트 컨트랙트 및 Ethereum 기반 / Solana 기반 애플리케이션 개발 경험.
 
-### Skills & Qualifications
+\- 마이크로서비스 및 분산 시스템 개발 경험.
 
-\- 5+ years of experience in backend development.
+\- 블록체인, 암호화폐, DeFi 개념에 대한 깊은 이해.
 
-\- Strong knowledge of modern backend programming languages such as Typescript (must
+\- API를 구축하고 서드파티 서비스와 통합한 실무 경험.- 클라우드 플랫폼(예: AWS, DigitalOcean) 사용 경험.
 
-have), Rust (nice to have).
+\- 뛰어난 문제 해결 능력과 세부 사항에 대한 주의력.
 
-\- Hands-on experience with Kubernetes and container orchestration in production environments.
+\- 뛰어난 커뮤니케이션 능력과 협력적인 마인드셋.
 
-\- Strong understanding of concurrency management — handling concurrent requests, race
+#### 우대 사항
 
-conditions, distributed locking, async processing, and message queues.
+\- PostgreSQL, Redis 등 데이터베이스 기술에 대한 이해.
 
-\- Experience working with smart contracts and Ethereum-based / Solana-based applications.
+\- 스타트업 또는 빠르게 변화하는 환경에서의 근무 경험.
 
-\- Experience working with microservices and distributed systems.
+\- TheGraph 또는 Subsquid와 같은 인덱싱 솔루션 사용 경험.
 
-\- Deep understanding of blockchain, cryptocurrency, and DeFi concepts.
+### 함께해야 하는 이유
 
-\- Hands-on experience building APIs and integrating with third-party services.- Experience with cloud platforms (e.g., AWS, DigitalOcean).
+\- 블록체인과 DeFi라는 흥미로운 분야의 최첨단 기술을 다룹니다.
 
-\- Strong problem-solving skills and attention to detail.
+\- 열정적이고 전문성 있으며 서로 지원하는 팀에 합류합니다.
 
-\- Excellent communication skills and a collaborative mindset.
-
-#### Good to Have
-
-\- Familiarity with database technologies like PostgreSQL, Redis, or similar.
-
-\- Previous experience working in a startup or fast-paced environment.
-
-\- Experience with indexing solutions such as TheGraph or Subsquid.
-
-### Why Join Us?
-
-\- Work on cutting-edge technology in the exciting field of blockchain and DeFi.
-
-\- Join a passionate, knowledgeable, and supportive team.
-
-\- Opportunities for growth and development in the fast-evolving crypto space.
+\- 빠르게 진화하는 암호화폐 분야에서 성장과 발전의 기회를 얻습니다.
 
 
 
-**How to Apply:** Shoot your resume over to hiring@pancakeswap.com, we’d love to hear from you!
+**지원 방법:** 이력서를 hiring@pancakeswap.com 으로 보내 주세요. 여러분의 이야기를 기다립니다!

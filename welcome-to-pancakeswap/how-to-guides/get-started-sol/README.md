@@ -1,17 +1,17 @@
-# Get Started (SOL)
+# 시작하기 (SOL)
 
 {% hint style="success" %}
-$**CAKE is now live on Solana - Token Address:** `4qQeZ5LwSz6HuupUu8jCtgXyW1mYQcNbFAW1sWZp89HL`
+$**CAKE가 이제 Solana에서 출시되었습니다 - 토큰 주소:** `4qQeZ5LwSz6HuupUu8jCtgXyW1mYQcNbFAW1sWZp89HL`
 {% endhint %}
 
-Using anything new can be a bit of a challenge. Don't worry though, we've created a range of guides to help you get comfortable with PancakeSwap!
+새로운 것을 처음 사용하는 일은 다소 어려울 수 있습니다. 걱정하지 마세요. PancakeSwap에 익숙해질 수 있도록 다양한 가이드를 준비했습니다!
 
-## Setting up PancakeSwap
+## PancakeSwap 설정하기
 
-Follow these guides to get everything set up to use PancakeSwap, or feel free to jump to the guide you need if you've been doing okay but lost your way.
+아래 가이드를 따라 PancakeSwap 사용을 위한 모든 설정을 완료하세요. 이미 어느 정도 진행하셨다가 막히셨다면 필요한 가이드로 바로 이동하셔도 좋습니다.
 
-* [Create a wallet (SOL)](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-sol/create-a-wallet-sol)
-* [Get SOL](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-sol/get-sol-cake-on-sol)
-* [Solana FAQ](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-sol/solana-faq)
+* [지갑 만들기 (SOL)](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-sol/create-a-wallet-sol)
+* [SOL 받기](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-sol/get-sol-cake-on-sol)
+* [Solana 자주 묻는 질문 (FAQ)](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-sol/solana-faq)
 
-If you can't find what you need, feel free to visit the [PancakeSwap Telegram](../../contact-us/social-accounts.md) and ask for help there!
+필요한 내용을 찾을 수 없다면 [PancakeSwap 텔레그램](../../contact-us/social-accounts.md)을 방문해 도움을 요청해 주세요!

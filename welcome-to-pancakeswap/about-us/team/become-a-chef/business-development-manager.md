@@ -2,41 +2,41 @@
 hidden: true
 ---
 
-# Business Development Manager
+# 비즈니스 개발 매니저
 
-### General Information
+### 일반 정보
 
-* Salary range: Competitive, negotiable
-* Position: Full-time
-* Location: Remote
-* Time-zone preference: Any
+* 급여 범위: 경쟁력 있는 수준, 협의 가능
+* 근무 형태: 정규직
+* 근무지: 원격
+* 선호 시간대: 무관
 
-### Your Responsibilities
+### 담당 업무
 
-* Coordinate with partners to ensure a healthy Farm/Syrup Pool and IFO pipeline.
-* Review and conduct due diligence on projects that apply for Farm/Syrup Pools and IFOs.
-* Liaise with project teams to explore potential partnership opportunities.
-* Execute operational matters relating to PancakeSwap products.
-* Implement best practices between the business development team & the wider team.
-* Review the latest developments in the crypto space and explore new business lines.
+* 파트너와 협력하여 건강한 파밍/시럽 풀 및 IFO 파이프라인을 유지합니다.
+* 파밍/시럽 풀 및 IFO에 지원하는 프로젝트를 검토하고 실사(due diligence)를 수행합니다.
+* 프로젝트 팀과 소통하며 잠재적인 파트너십 기회를 모색합니다.
+* PancakeSwap 제품과 관련된 운영 업무를 실행합니다.
+* 비즈니스 개발 팀과 전체 팀 간의 모범 사례를 도입합니다.
+* 암호화폐 업계의 최신 동향을 살피고 새로운 사업 영역을 탐색합니다.
 
-### Skills & Qualifications
+### 역량 및 자격 요건
 
-* 2+ years of experience in a business development and/or corporate finance role.
-* Solid understanding of the cryptocurrency space, especially DeFi.
-* Ability to speak, read and write in English fluently.
-* Articulate and able to hold effective conversations with project teams.
-* Proactive in keeping up with the latest trends in the blockchain/crypto space.
-* Strong attention to detail when analyzing projects.
-* Ability to work independently and innovate.
-* Can handle high pressure and a fast-paced work environment.
+* 비즈니스 개발 및/또는 기업 재무 분야 경력 2년 이상.
+* 암호화폐 업계, 특히 DeFi에 대한 탄탄한 이해.
+* 영어로 유창하게 말하고, 읽고, 쓸 수 있는 능력.
+* 프로젝트 팀과 효과적으로 대화할 수 있는 명확한 표현력.
+* 블록체인/암호화폐 업계의 최신 트렌드를 능동적으로 파악하는 자세.
+* 프로젝트를 분석할 때 세부 사항에 대한 높은 주의력.
+* 독립적으로 일하고 혁신할 수 있는 능력.
+* 높은 압박감과 빠르게 변화하는 업무 환경을 감당할 수 있는 능력.
 
-### Good to have
+### 우대 사항
 
-* Fluent in a second language.
-* Bachelor's degree in Finance, Accounting or other related areas.
-* Experience with smart contracts and Solidity.
+* 제2외국어 유창.
+* 금융, 회계 또는 관련 분야 학사 학위.
+* 스마트 컨트랙트 및 Solidity 경험.
 
-### How to apply
+### 지원 방법
 
-Email hiring@pancakeswap.com with your resume!
+이력서를 hiring@pancakeswap.com 으로 이메일 보내 주세요!

@@ -1,6 +1,6 @@
 # How to Stake in Syrup Pools with BscScan
 
-![](../../.gitbook/assets/docs-masthead-2-%20%282%29.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/docs-masthead-2-%20%282%29.png)
 
 Some users may want to take advantage of PancakeSwap's Syrup Pools using BscScan instead of the website UI.
 

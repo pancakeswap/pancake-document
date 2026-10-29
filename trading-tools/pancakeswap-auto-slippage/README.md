@@ -1,85 +1,82 @@
-# 🎯 PancakeSwap Auto Slippage
+# 🎯 PancakeSwap 자동 슬리피지
 
-PancakeSwap has introduced Auto Slippage to make trading easier and more efficient. Auto Slippage automatically adjusts the slippage for you based on current market conditions, helping to prevent failed trades and reduce the risk of losing money due to slippage errors.
+PancakeSwap은 트레이딩을 더 쉽고 효율적으로 만들기 위해 자동 슬리피지를 도입했습니다. 자동 슬리피지는 현재 시장 상황에 따라 슬리피지를 자동으로 조정하여 거래 실패를 방지하고 슬리피지 오류로 인한 손실 위험을 줄여 줍니다.
 
-## What is Slippage?
+## 슬리피지란 무엇인가요?
 
-**Slippage** occurs when the price you expect for a trade is different from the price at which the trade is actually completed. This can happen for several reasons:
+**슬리피지**는 예상한 거래 가격과 거래가 실제로 체결되는 가격이 다를 때 발생합니다. 여러 가지 이유로 발생할 수 있습니다.
 
-* Market volatility – Prices can move quickly between when you place and confirm
-* Low liquidity – there aren’t enough tokens available at your expected price
-* Blockchain delays – confirmation times can cause the price to change before the trade is finalized
-
-{% hint style="info" %}
-Example:
-
-You try to swap 100 CAKE for BNB, expecting 1 CAKE = 0.01 BNB. But by the time your trade goes through, the price has changed and you only get 0.0098 BNB per CAKE. This small difference is what we call slippage.
-{% endhint %}
-
-## What is Slippage Tolerance?
-
-**Slippage tolerance** is the maximum price difference you’re willing to accept before your trade is canceled. If the price moves beyond your set tolerance, your transaction will fail to prevent any unexpected losses.
+* 시장 변동성 – 거래를 요청하고 확정하는 사이에 가격이 빠르게 변동할 수 있습니다.
+* 낮은 유동성 – 예상 가격에 거래할 수 있는 토큰이 충분하지 않습니다.
+* 블록체인 지연 – 확인 시간 때문에 거래가 완료되기 전에 가격이 바뀔 수 있습니다.
 
 {% hint style="info" %}
-Example:
+예시:
 
-If you set a 1% slippage tolerance and the price changes by more than 1% before the trade is completed, the trade won’t go through.
+100 CAKE를 BNB로 스왑하면서 1 CAKE = 0.01 BNB를 예상했습니다. 하지만 거래가 체결될 때쯤 가격이 변해서 CAKE당 0.0098 BNB만 받게 됩니다. 이 작은 차이를 슬리피지라고 합니다.
 {% endhint %}
 
-## What happens if my Slippage Tolerance is too low?
+## 슬리피지 허용치란 무엇인가요?
 
-If your slippage tolerance is **set too low**, there’s a higher chance your transaction will fail — especially when:
+**슬리피지 허용치**는 거래가 취소되기 전까지 감수할 의향이 있는 최대 가격 차이입니다. 가격이 설정한 허용치를 넘어 움직이면 예상치 못한 손실을 방지하기 위해 거래가 실패합니다.
 
-* The market is volatile
-* You’re swapping tokens with low liquidity
-* Using tokens with taxes or complex mechanics
+{% hint style="info" %}
+예시:
+
+슬리피지 허용치를 1%로 설정했는데 거래가 완료되기 전에 가격이 1% 넘게 변하면 거래가 체결되지 않습니다.
+{% endhint %}
+
+## 슬리피지 허용치가 너무 낮으면 어떻게 되나요?
+
+슬리피지 허용치를 **너무 낮게 설정**하면 거래가 실패할 가능성이 높아집니다. 특히 다음과 같은 경우에 그렇습니다.
+
+* 시장 변동성이 큰 경우
+* 유동성이 낮은 토큰을 스왑하는 경우
+* 세금이 있거나 복잡한 메커니즘의 토큰을 사용하는 경우
 
 {% hint style="warning" %}
-Important: Even if the transaction fails, you’ll still consume gas fees for trying.
+중요: 거래가 실패하더라도 시도하는 데 소모된 가스비는 그대로 발생합니다.
 {% endhint %}
 
-## Introducing Auto Slippage - Why is Auto Slippage helpful?
+## 자동 슬리피지 소개 - 자동 슬리피지가 왜 유용한가요?
 
-Auto Slippage automatically adjusts your slippage based on current market conditions, saving you time and reducing the risk of failed trades.&#x20;
+자동 슬리피지는 현재 시장 상황에 따라 슬리피지를 자동으로 조정하여 시간을 절약하고 거래 실패 위험을 줄여 줍니다.&#x20;
 
-With **Auto Slippage**, there's no need to manually adjust your slippage tolerance. This helps prevent common issues such as:
+**자동 슬리피지**를 사용하면 슬리피지 허용치를 수동으로 조정할 필요가 없습니다. 이를 통해 다음과 같은 흔한 문제를 방지할 수 있습니다.
 
-* **Setting slippage too low**, which can cause transactions to fail due to minor price changes during execution.
-* **Setting slippage too high**, which may result in receiving fewer tokens than expected due to accepting a wider price range.
+* **슬리피지를 너무 낮게 설정**하면 실행 중 사소한 가격 변동으로 거래가 실패할 수 있습니다.
+* **슬리피지를 너무 높게 설정**하면 더 넓은 가격 범위를 허용하게 되어 예상보다 적은 토큰을 받을 수 있습니다.
 
 {% hint style="info" %}
-To ensure the best trading experience, auto slippage has been **toggled on automatically**. If a manual slippage tolerance has been set, the new slippage setting will be applied.
+최상의 트레이딩 경험을 위해 자동 슬리피지는 **자동으로 켜져 있습니다**. 수동 슬리피지 허용치를 설정한 경우에는 새로운 슬리피지 설정이 적용됩니다.
 {% endhint %}
 
 
 
-## How does Auto Slippage work?
+## 자동 슬리피지는 어떻게 작동하나요?
 
 <pre class="language-html"><code class="lang-html"><strong>Auto Slippage (%) = (Gas Cost in USD / Output Token Value in USD) * 100%
 </strong></code></pre>
 
-* If the gas cost is high compared to the output token’s value, Auto Slippage will set a higher slippage to ensure the trade goes through.
-* If gas is cheap and the output token's value is large, a smaller slippage will be used.
+* 출력 토큰의 가치에 비해 가스 비용이 높으면 자동 슬리피지는 거래가 체결되도록 더 높은 슬리피지를 설정합니다.
+* 가스비가 저렴하고 출력 토큰의 가치가 크면 더 작은 슬리피지가 사용됩니다.
 
-Auto Slippage will choose a value between **0.5%** and **5.0%**, depending on token and network conditions.
+자동 슬리피지는 토큰과 네트워크 상황에 따라 **0.5%**에서 **5.0%** 사이의 값을 선택합니다.
 
 
 
-## Is Auto Slippage available on all networks?
+## 자동 슬리피지는 모든 네트워크에서 사용할 수 있나요?
 
-No — Auto Slippage is only supported on Layer 1 (L1) chains like BNB Chain, Ethereum, etc.
+아니요. 자동 슬리피지는 BNB 체인, Ethereum 등과 같은 레이어 1(L1) 체인에서만 지원됩니다.
 
-It is not supported on Layer 2 (L2) chains, because:
+다음과 같은 이유로 레이어 2(L2) 체인에서는 지원되지 않습니다.
 
-* The auto slippage formula relies on meaningful gas cost values to calculate a useful slippage setting
-* Since L2 gas fees are very low, applying auto slippage on L2s wouldn’t improve trade success rates
+* 자동 슬리피지 공식은 의미 있는 가스 비용 값을 바탕으로 유용한 슬리피지 설정을 계산합니다.
+* L2의 가스비는 매우 낮기 때문에 L2에 자동 슬리피지를 적용해도 거래 성공률이 개선되지 않습니다.
 
 {% hint style="success" %}
-&#x20;If Auto Slippage is **not supported** on a network:
+&#x20;네트워크에서 자동 슬리피지가 **지원되지 않는 경우**:
 
-* Your previously used slippage setting will be applied
-* If you haven't set one before, it will default to 0.5%
+* 이전에 사용한 슬리피지 설정이 적용됩니다.
+* 설정한 적이 없다면 기본값인 0.5%로 설정됩니다.
 {% endhint %}
-
-
-

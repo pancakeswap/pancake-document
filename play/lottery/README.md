@@ -1,61 +1,61 @@
-# 🎟️ Lottery
+# 🎟️ 복권
 
-Playing the PancakeSwap Lottery gives you a chance to win huge CAKE prizes! It's easy, fair, and you can enter as often as you like as long as you have the CAKE to buy a ticket.
+PancakeSwap 복권에 참여하면 막대한 CAKE 상금을 획득할 기회가 생깁니다! 간단하고 공정하며, 티켓을 구매할 CAKE만 있다면 원하는 만큼 몇 번이든 참여할 수 있습니다.
 
-[View smart contract](https://bscscan.com/address/0x5aF6D33DE2ccEC94efb1bDF8f92Bd58085432d2c)
+[스마트 컨트랙트 보기](https://bscscan.com/address/0x5aF6D33DE2ccEC94efb1bDF8f92Bd58085432d2c)
 
-## **Specifics:**
+## **세부 사항:**
 
-* Lottery ticket cost for 1 ticket: \~$5 USD in CAKE.
-* Individual user Lottery entry limit: No overall limit, but only 100 tickets can be bought at a time.
-* Paying for one ticket will give users a random 6-digit combination with each digit being between 0-9, for e.g. “1-9-3-2-0-4”. Match numbers from the left to win prizes—the more numbers that match, the bigger the prize pool you'll share in.
-* Lottery uses Chainlink's implementation of VRF for true, secure randomness.
+* 복권 티켓 1장 가격: CAKE로 약 \~$5 USD.
+* 사용자별 복권 참여 한도: 전체 한도는 없지만, 한 번에 최대 100장까지만 구매할 수 있습니다.
+* 티켓 1장을 구매하면 각 자리가 0\~9 사이의 숫자인 무작위 6자리 조합(예: “1-9-3-2-0-4”)이 부여됩니다. 왼쪽부터 숫자가 일치하면 상금을 받으며, 일치하는 숫자가 많을수록 나누어 받는 상금 풀이 커집니다.
+* 복권은 진정하고 안전한 무작위성을 위해 Chainlink의 VRF 구현을 사용합니다.
 
-## Ticket costs and bulk purchase discount
+## 티켓 가격 및 대량 구매 할인
 
-Lottery ticket prices are set at the start of the new lottery round, and target $5 USD (may vary slightly with sudden price fluctuations).
+복권 티켓 가격은 새로운 복권 라운드가 시작될 때 설정되며, $5 USD를 목표로 합니다(가격이 급변하면 다소 달라질 수 있습니다).
 
-Buying multiple Lottery tickets at once gives a bulk discount on your purchase. You can buy as many as 100 tickets in one purchase, with the discount starting small at 2 tickets, and scaling up to almost 5% (4.95%) at 100 tickets.
+복권 티켓을 한 번에 여러 장 구매하면 대량 구매 할인이 적용됩니다. 한 번에 최대 100장까지 구매할 수 있으며, 할인은 2장부터 소폭 시작하여 100장에서는 거의 5%(4.95%)까지 늘어납니다.
 
-![](<../../.gitbook/assets/Screenshot 2024-08-22 at 9.59.52 PM.png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-22%20at%209.59.52%E2%80%AFPM.png)
 
-## **How to win**
+## **당첨 방법**
 
-Match numbers, **from the left side of your ticket**, to the winning numbers drawn at the end of a Lottery round.
+복권 라운드가 끝날 때 추첨된 당첨 번호와 **티켓의 왼쪽부터** 숫자를 맞춰 보세요.
 
-* Matching even just the first number will win you a small prize.&#x20;
-* Match more numbers to win a share of a larger prize pool.
+* 첫 번째 숫자만 일치해도 소액의 상금을 받을 수 있습니다.&#x20;
+* 더 많은 숫자가 일치할수록 더 큰 상금 풀을 나누어 받습니다.
 
-## **‌**Prize eligibility
+## **‌**상금 수령 자격
 
-‌There are a total of six lottery balls, from 0 to 9, on each ticket. To win, your numbers need to match the drawn numbers in the same order as the lottery balls, starting from the left of the ticket. For example:
+‌각 티켓에는 0부터 9까지의 복권 볼이 총 6개 있습니다. 당첨되려면 티켓의 왼쪽부터 시작하여 복권 볼의 순서와 동일한 순서로 추첨된 숫자와 일치해야 합니다. 예를 들면 다음과 같습니다.
 
-Drawn numbers
+추첨된 숫자
 
-![Drawn Numbers](<../../.gitbook/assets/image (285).png>)
+![Drawn Numbers](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28285%29.png)
 
-Your ticket's numbers
+내 티켓의 숫자
 
-![Your Ticket A](<../../.gitbook/assets/image (95) (1).png>)
+![Your Ticket A](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2895%29%20%281%29.png)
 
-In the example above, Ticket A, five of the ticket's numbers match the same drawn numbers, in the exact same order: all except the fourth one.
+위 예시의 티켓 A는 네 번째를 제외한 다섯 개의 숫자가 추첨된 숫자와 정확히 같은 순서로 일치합니다.
 
-However, since the fourth digit does **not** match the drawn number, only the first three digits count as matching in order. This would win a "Match first 3" prize.
+하지만 네 번째 숫자가 추첨된 숫자와 일치하지 **않으므로** 순서대로 일치하는 것은 앞의 세 자리뿐입니다. 이 경우 "앞 3자리 일치" 상금을 받게 됩니다.
 
-![Your Ticket B](<../../.gitbook/assets/image (205).png>)
+![Your Ticket B](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28205%29.png)
 
-Example Ticket B. Here's an unlucky one. Even though the last five digits match, the first digit doesn't match, so this ticket doesn't win anything at all.
+티켓 B 예시입니다. 안타까운 경우입니다. 마지막 다섯 자리가 일치하더라도 첫 번째 숫자가 일치하지 않으므로 이 티켓은 아무 상금도 받지 못합니다.
 
-You will only share in prizes from the highest prize bracket you are eligible for. A ticket matching the first three numbers will only be eligible for prizes from the match-three bracket, and not for the match-one or match-two brackets.
+자격이 되는 가장 높은 상금 등급의 상금만 나누어 받습니다. 앞 세 개의 숫자가 일치하는 티켓은 3개 일치 등급의 상금만 받을 수 있으며, 1개 일치 또는 2개 일치 등급의 상금은 받을 수 없습니다.
 
-**Remember: The digits must match in order, starting from left to right.**
+**기억하세요: 숫자는 왼쪽에서 오른쪽으로 순서대로 일치해야 합니다.**
 
-## Prize sharing across prize brackets
+## 상금 등급별 상금 분배
 
-‌After a round is drawn, and tickets with matching numbers are determined, the prizes are awarded. The amount won by each ticket will depend on how many other tickets won in the same prize bracket.
+‌라운드가 추첨되어 숫자가 일치하는 티켓이 확정되면 상금이 지급됩니다. 각 티켓이 받는 금액은 같은 상금 등급에서 당첨된 다른 티켓의 수에 따라 달라집니다.
 
-‌For example, if you have the only ticket that matched three numbers in order, and the predetermined share of the prize pool for your bracket was 2000 CAKE, you'll receive the full 2000 CAKE.
+‌예를 들어, 순서대로 세 개의 숫자가 일치한 티켓이 나뿐이고 해당 등급에 사전 책정된 상금 풀이 2000 CAKE라면 2000 CAKE 전액을 받게 됩니다.
 
-‌If, however, you and three other people match three numbers in order, the 2000 CAKE would be split between the four winning tickets, meaning you would receive 500 CAKE.
+‌반면, 나를 포함해 네 명이 순서대로 세 개의 숫자를 맞혔다면 2000 CAKE는 네 장의 당첨 티켓에 나뉘어 각각 500 CAKE를 받게 됩니다.
 
-See the [Lottery FAQ for a breakdown of prizes](lottery-faq.md#how-are-prizes-broken-down-between-brackets) across each bracket.
+각 등급별 상금 분배 내역은 [복권 FAQ](lottery-faq.md#how-are-prizes-broken-down-between-brackets)를 참조하세요.

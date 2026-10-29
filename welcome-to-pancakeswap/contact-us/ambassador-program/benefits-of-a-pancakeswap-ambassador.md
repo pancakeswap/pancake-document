@@ -1,17 +1,17 @@
-# Benefits of a PancakeSwap Ambassador
+# PancakeSwap 앰배서더의 혜택
 
-### **Global Recognition**
+### **글로벌 인지도**
 
-Represent one of the most innovative DeFi platforms and gain exposure within the global crypto and DeFi communities.
+가장 혁신적인 DeFi 플랫폼 중 하나를 대표하며 글로벌 크립토 및 DeFi 커뮤니티에서 입지를 넓힐 수 있습니다.
 
-### **Collaborate with the Core Team**
+### **코어 팀과의 협업**
 
-You can work directly with PancakeSwap’s team on exciting projects, beta testing, and brainstorming sessions and receive exclusive updates.
+PancakeSwap 팀과 직접 협력하여 흥미로운 프로젝트, 베타 테스트, 브레인스토밍 세션에 참여하고 독점 소식을 받아보실 수 있습니다.
 
-### **Reward System**
+### **보상 시스템**
 
-Earn financial compensation, exclusive PancakeSwap merch, and other exciting rewards for your contributions and performance.
+기여도와 성과에 따라 금전적 보상, PancakeSwap 한정 굿즈, 그 밖의 다양한 보상을 받으실 수 있습니다.
 
-### **Dynamic and Fun Environment**
+### **역동적이고 즐거운 환경**
 
-Join a fast-paced, ever-evolving ecosystem offering new challenges and growth opportunities daily.
+빠르게 변화하며 진화하는 에코시스템에 합류하여 매일 새로운 도전과 성장의 기회를 만나 보세요.

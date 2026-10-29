@@ -1,35 +1,35 @@
-# Prediction FAQ
+# 예측 자주 묻는 질문 (FAQ)
 
 {% hint style="info" %}
-Use the sidebar to quickly find the answers to your questions!
+사이드바를 사용하여 궁금한 질문의 답변을 빠르게 찾아보세요!
 {% endhint %}
 
-## A) General Questions
+## A) 일반 질문
 
-### **1. What are the fees?**
+### **1. 수수료는 얼마인가요?**
 
-3% of each round's total pot will go to the treasury, of which 100% will be used to buyback and burn CAKE.
+각 라운드 전체 팟의 3%가 트레저리로 전송되며, 그중 100%가 CAKE 바이백 및 소각에 사용됩니다.
 
-### 2. How is the payout calculated?
+### 2. 지급금은 어떻게 계산되나요?
 
-* Payout Ratio for UP Pool = Total Value of Both Pools ÷ Value of UP Pool
-* Payout Ratio for DOWN Pool = Total Value of Both Pools ÷ Value of DOWN Pool
+* UP 풀 지급 비율 = 두 풀의 총 가치 ÷ UP 풀의 가치
+* DOWN 풀 지급 비율 = 두 풀의 총 가치 ÷ DOWN 풀의 가치
 
-**Example - Bet 2 BNB "DOWN", outcome = "DOWN":**
+**예시 - 2 BNB를 "DOWN"에 베팅, 결과 = "DOWN":**
 
-* DOWN side = 15 BNB, total prize pool = 150 BNB&#x20;
-* DOWN payout ratio = 150 BNB / 15 BNB = 10x
-* Payout Amount = Payout Ratio × Position × (1 - Treasury Fee)
-  * If you bet 2 BNB on DOWN, payout = (2 × 10) × (1 − 0.03) = 19.4 BNB
-* Profit = 19.4 − 2 = 17.4 BNB
+* DOWN 측 = 15 BNB, 전체 상금 풀 = 150 BNB&#x20;
+* DOWN 지급 비율 = 150 BNB / 15 BNB = 10배
+* 지급 금액 = 지급 비율 × 포지션 × (1 - 트레저리 수수료)
+  * DOWN에 2 BNB를 베팅했다면 지급금 = (2 × 10) × (1 − 0.03) = 19.4 BNB
+* 수익 = 19.4 − 2 = 17.4 BNB
 
-### 3. Is there a time limit before I can collect my winnings?
+### 3. 상금을 수령하기까지 시간 제한이 있나요?
 
-No, you’ll be able to collect your winnings at any time in the future.
+아니요, 앞으로 언제든지 상금을 수령할 수 있습니다.
 
-### 4. What’s the PancakeSwap Prediction contract address?
+### 4. PancakeSwap 예측 컨트랙트 주소는 무엇인가요?
 
-**BNB Chain**
+**BNB 체인**
 
 * **BNBUSD**: [0x18b2a687610328590bc8f2e5fedde3b582a49cda](https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda)
 * **BTCUSD**: [0x48781a7d35f6137a9135Bbb984AF65fd6AB25618](https://bscscan.com/address/0x48781a7d35f6137a9135Bbb984AF65fd6AB25618#code)
@@ -37,149 +37,149 @@ No, you’ll be able to collect your winnings at any time in the future.
 
 
 
-## B) Positions & Results
+## B) 포지션 및 결과
 
-### 1. **Can I change or remove my position?**
+### 1. **포지션을 변경하거나 취소할 수 있나요?**
 
-No. Once you enter a position, you can NOT change the direction, add to, or remove your position. It's locked in, so make sure you're 100% happy with your position direction before confirming. &#x20;
+아니요. 포지션에 참여한 후에는 방향을 변경하거나, 추가하거나, 취소할 수 없습니다. 포지션이 확정되므로 확인하기 전에 포지션 방향에 100% 만족하는지 확인하세요.&#x20;
 
-### 2. When will markets be cancelled? What happens then?
+### 2. 마켓은 언제 취소되나요? 취소되면 어떻게 되나요?
 
-* **When:** Oracle or backend service failure, or other extraneous circumstances.
-* **Outcome:** Users can claim 100% of their original bet amount (no fee).
+* **시기:** 오라클 또는 백엔드 서비스 장애, 기타 예외적인 상황.
+* **결과:** 사용자는 원래 베팅 금액의 100%를 수령할 수 있습니다(수수료 없음).
 
-### 3. The round's result changed after the round ended! Why?
+### 3. 라운드가 끝난 후 결과가 바뀌었습니다! 왜 그런가요?
 
-Sometimes, after a round closes, the final result may be different from the last result shown while the round was live. If you watch a round end on "DOWN", it may appear to flip to "UP" a few seconds later.
+간혹 라운드가 종료된 후 최종 결과가 라운드가 진행되는 동안 마지막으로 표시된 결과와 다를 수 있습니다. 라운드가 "DOWN"으로 끝나는 것을 보았는데 몇 초 후 "UP"으로 뒤집힌 것처럼 보일 수 있습니다.
 
-This is because we use the Oracle price feed to determine the final outcome of a round. The period between the end of one round and the start of the next is 30 seconds, but the Oracle refreshes every 20 seconds. It's possible that during this short period, the Oracle might send an update while the transaction to trigger the next round is being minted. This can appear to "flip" the outcome of the previous round.
+이는 라운드의 최종 결과를 결정하는 데 오라클 가격 피드를 사용하기 때문입니다. 한 라운드의 종료와 다음 라운드의 시작 사이의 기간은 30초이지만 오라클은 20초마다 갱신됩니다. 이 짧은 기간 동안 다음 라운드를 시작하는 트랜잭션이 생성되는 중에 오라클이 업데이트를 보낼 수 있습니다. 이로 인해 이전 라운드의 결과가 "뒤집힌" 것처럼 보일 수 있습니다.
 
-### 4. What is Locked Price & Closed Price?
+### 4. 잠금 가격과 종가는 무엇인가요?
 
-* **Locked Price:** Price at the start of the LIVE phase.
-* **Closed Price:** Price at the end of the round, used to determine winners.
+* **잠금 가격:** LIVE 단계가 시작될 때의 가격입니다.
+* **종가:** 라운드 종료 시점의 가격으로, 승자를 결정하는 데 사용됩니다.
 
-**Example – Round 400 (BNB Prediction):**
+**예시 – 라운드 400 (BNB 예측):**
 
-1. **12:00–12:05:** Place Bet → User bets 0.1 BNB on "UP"
-2. **12:05–12:10:** Lock Phase → Locked Price = $850
-3. **12:10:** Close Phase → Closed Price = $860
-4. **Result: "UP"** bet wins
+1. **12:00–12:05:** 베팅 단계 → 사용자가 "UP"에 0.1 BNB 베팅
+2. **12:05–12:10:** 잠금 단계 → 잠금 가격 = $850
+3. **12:10:** 종료 단계 → 종가 = $860
+4. **결과: "UP"** 베팅 승리
 
-**Notes:**
+**참고:**
 
-* Oracle price may take up to 20 seconds to update.
-* House win: All bets goes to the House
+* 오라클 가격이 업데이트되는 데 최대 20초가 걸릴 수 있습니다.
+* 하우스 승리: 모든 베팅금이 하우스로 귀속됩니다.
 
-### 5. What situations are considered a HOUSE WIN?
+### 5. 어떤 경우가 하우스 승리로 간주되나요?
 
-**Scenarios:**
+**시나리오:**
 
-1. No opposing bets exist and the user loses (e.g., only one user bets UP and outcome = DOWN)
-2. Locked Price = Closed Price
+1. 반대편 베팅이 없고 사용자가 패배한 경우(예: 한 명의 사용자만 UP에 베팅했는데 결과가 DOWN인 경우)
+2. 잠금 가격 = 종가
 
-**What happens:**
+**결과:**
 
-* PancakeSwap takes 100% of the pool; all funds go to CAKE burn.
-* Users on either side lose their initial bet amount.
+* PancakeSwap이 풀의 100%를 가져가며 모든 자금은 CAKE 소각에 사용됩니다.
+* 어느 쪽이든 사용자는 최초 베팅 금액을 잃습니다.
 
-**Example - No opposing bets:**
+**예시 - 반대편 베팅이 없는 경우:**
 
-* User A bets UP, no DOWN bets exist, outcome = DOWN → User A loses; 100% of funds go to treasury.
-* User B bets UP, no DOWN bets exist, outcome = UP → User B reclaims 97% of deposit.
-
-
-
-## C) Market Pauses
-
-### 1. What does it mean when markets are paused?
-
-Markets are paused when there are conditions which affect the reliability of the contract. Markets being paused means that no bets will be taking place for any rounds.
-
-### 2. What causes PancakeSwap Prediction market to pause?
-
-The prediction market will pause under the following conditions:
-
-1. The prediction contract has been unable to obtain the price from the ChainLink oracle due to the oracle not having posted the price at the time the round has ended.
-2. The prediction contract has been unable to execute an action (ending a round or getting a price from the oracle) due to the tx being stuck in the mempool for longer than 15 blocks.
-3. PancakeSwap has decided to discontinue prediction for that market / asset.
-
-### 3. What happens to my position if the market pauses?
-
-If the markets pause while you have a live position, your funds will be available to reclaim, the same way as you would normally claim your winnings.
-
-To reclaim funds, you’ll need to pay some gas fees. We can’t compensate you for the gas fees, so please bear this small risk in mind before participating.
-
-### 4. When will the markets resume after being paused?
-
-The markets will resume when an admin (one of the chefs) manually resumes the market.
+* 사용자 A가 UP에 베팅했고 DOWN 베팅이 없으며 결과 = DOWN → 사용자 A는 패배하며 자금의 100%가 트레저리로 전송됩니다.
+* 사용자 B가 UP에 베팅했고 DOWN 베팅이 없으며 결과 = UP → 사용자 B는 예치금의 97%를 되찾습니다.
 
 
 
-## D) Troubleshooting & Claims
+## C) 마켓 일시 중단
 
-### 1. How do I claim past winnings from the CAKEUSD market on BNB Chain?&#x20;
+### 1. 마켓이 일시 중단된다는 것은 무슨 의미인가요?
 
-* Go to [https://pancakeswap.finance/prediction?token=CAKE\&chain=bsc](https://pancakeswap.finance/prediction?token=CAKE\&chain=bsc)
-* Check the history tab for historical round winnings
+컨트랙트의 신뢰성에 영향을 주는 상황이 발생하면 마켓이 일시 중단됩니다. 마켓이 일시 중단되면 모든 라운드에서 베팅이 이루어지지 않습니다.
 
-### 2. Why can’t I see my winnings in my wallet?
+### 2. PancakeSwap 예측 마켓은 어떤 이유로 일시 중단되나요?
 
-When you collect winnings, they might not appear in your wallet’s transaction logs as usual.\
-This is because they use a different type of transaction: Internal transactions.\
-Enter your wallet address on BscScan, then check the “Internal Txns” tab to confirm that they’ve arrived.\
+예측 마켓은 다음과 같은 조건에서 일시 중단됩니다.
+
+1. 라운드 종료 시점에 오라클이 가격을 게시하지 않아 예측 컨트랙트가 ChainLink 오라클에서 가격을 가져오지 못한 경우
+2. 트랜잭션이 15블록 이상 멤풀에 정체되어 예측 컨트랙트가 작업(라운드 종료 또는 오라클에서 가격 조회)을 실행하지 못한 경우
+3. PancakeSwap이 해당 마켓/자산의 예측을 중단하기로 결정한 경우
+
+### 3. 마켓이 일시 중단되면 내 포지션은 어떻게 되나요?
+
+라이브 포지션이 있는 상태에서 마켓이 일시 중단되면 평소 상금을 수령하는 것과 같은 방식으로 자금을 되찾을 수 있습니다.
+
+자금을 되찾으려면 약간의 가스비를 지불해야 합니다. 가스비는 보상해 드릴 수 없으므로 참여하기 전에 이 작은 위험을 염두에 두세요.
+
+### 4. 일시 중단된 마켓은 언제 재개되나요?
+
+관리자(셰프 중 한 명)가 수동으로 마켓을 재개하면 마켓이 다시 시작됩니다.
+
+
+
+## D) 문제 해결 및 수령
+
+### 1. BNB 체인의 CAKEUSD 마켓에서 과거 상금은 어떻게 수령하나요?&#x20;
+
+* [https://pancakeswap.finance/prediction?token=CAKE\&chain=bsc](https://pancakeswap.finance/prediction?token=CAKE\&chain=bsc)로 이동하세요.
+* 기록 탭에서 과거 라운드 상금을 확인하세요.
+
+### 2. 지갑에서 상금이 보이지 않는 이유는 무엇인가요?
+
+상금을 수령하면 평소처럼 지갑의 거래 내역에 표시되지 않을 수 있습니다.\
+이는 다른 유형의 거래인 내부 거래를 사용하기 때문입니다.\
+BscScan에 지갑 주소를 입력한 다음 "Internal Txns" 탭에서 입금되었는지 확인하세요.\
 ![](https://lh5.googleusercontent.com/9NoIvK-oztyEaizCfgrj-poPIP_uWeFDYsa0_nxN3sKUiIwFdACy_BemrtRLJn-ZkyW3LprfRn4s9lL24BOGb-I-t1vHoh5wkuTx7bObHQl5sS7xPmuZEOTVPUXr7LPNAfPfqr12)
 
-### 3. Why aren't the results of my round showing?
+### 3. 라운드 결과가 표시되지 않는 이유는 무엇인가요?
 
-There’s a 15 block buffer on each round, which can cause delays of up to 45 seconds after the end of a round.\
-This buffer is to accommodate for the fact that we may not be able to reliably fetch a price and end a round immediately: various blockchain factors affect the speed in which transactions get confirmed on the network.
+각 라운드에는 15블록의 버퍼가 있어 라운드 종료 후 최대 45초까지 지연될 수 있습니다.\
+이 버퍼는 가격을 안정적으로 가져와 라운드를 즉시 종료하지 못할 수 있다는 점을 감안한 것입니다. 다양한 블록체인 요인이 네트워크에서 거래가 확인되는 속도에 영향을 미칩니다.
 
-### 4. I can’t collect my winnings, what should I do?
+### 4. 상금을 수령할 수 없습니다. 어떻게 해야 하나요?
 
-Make sure you have enough BNB in your wallet to pay for gas fees. You’ll need a little BNB to trigger the smart contract.
+지갑에 가스비를 지불할 만큼 충분한 BNB가 있는지 확인하세요. 스마트 컨트랙트를 실행하려면 약간의 BNB가 필요합니다.
 
-### **5. What if I can't claim winnings from the website?**
+### **5. 웹사이트에서 상금을 수령할 수 없는 경우는 어떻게 하나요?**
 
-You might be able to claim your winnings directly from the contract. Follow the steps in the 3 tabs below.
+컨트랙트에서 직접 상금을 수령할 수 있습니다. 아래 3개 탭의 단계를 따르세요.
 
 {% tabs %}
 {% tab title="Check rounds you played" %}
-How to check the history of rounds you played
+참여한 라운드 기록 확인 방법
 
-1. Go to BscScan page of the [Prediction contract](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract) (e.g. BNBUSD).
-2. Scroll down to “8. getUserRounds”.
-3. Type in your wallet address under “user(address)”.
-4. Set “cursor(uint256)" to 0 and “size(uint256)" to 1000.
-5. Tap “Query”
-6. Rounds you entered will show below in the first row. (after “uint256\[]:”)
+1. [예측 컨트랙트](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract)(예: BNBUSD)의 BscScan 페이지로 이동합니다.
+2. “8. getUserRounds”까지 아래로 스크롤합니다.
+3. “user(address)”에 지갑 주소를 입력합니다.
+4. “cursor(uint256)”를 0으로, “size(uint256)”를 1000으로 설정합니다.
+5. “Query”를 탭합니다.
+6. 참여한 라운드가 첫 번째 행(“uint256\[]:” 뒤)에 표시됩니다.
 {% endtab %}
 
 {% tab title="Check if you can claim" %}
-First, check whether you should actually be able to claim from the round you played.
+먼저 참여한 라운드에서 실제로 수령할 수 있는지 확인하세요.
 
-1. Go to BscScan page of the [Prediction contract](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract) (e.g. BNBUSD), and go to the Read tab
-2. Scroll down to “4. claimable”.
-3. Type in the round id you want to check under "epoch(uint256)”.
-4. Type in your wallet address under “user(address)”.
-5. Tap “Query”
-6. If a round is claimable, it will show “true”.
-7. If the result is "false". Please repeat the above steps and try with "19. refundable".&#x20;
-8. Note: ⬆️ If you see a round returns "false" on both "4. claimable" and "19. refundable", but it shows on the website, it's probably been claimed already and the website is lagging.
+1. [예측 컨트랙트](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract)(예: BNBUSD)의 BscScan 페이지로 이동하여 Read 탭으로 이동합니다.
+2. “4. claimable”까지 아래로 스크롤합니다.
+3. "epoch(uint256)”에 확인하려는 라운드 ID를 입력합니다.
+4. “user(address)”에 지갑 주소를 입력합니다.
+5. “Query”를 탭합니다.
+6. 라운드를 수령할 수 있으면 “true”가 표시됩니다.
+7. 결과가 "false"이면 위 단계를 반복하여 "19. refundable"로 시도해 보세요.&#x20;
+8. 참고: ⬆️ 라운드가 "4. claimable"과 "19. refundable" 모두에서 "false"를 반환하는데 웹사이트에는 표시된다면, 이미 수령했으나 웹사이트 반영이 지연되고 있을 가능성이 높습니다.
 {% endtab %}
 
 {% tab title="Claim from a round" %}
-How to claim
+수령 방법
 
-1. Go to BscScan page of the [Prediction contract](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract) (e.g. BNBUSD), and go to the Write tab
-2. Tap “🔴 Connect to Web3”
-3. Use MetaMask or WalletConnect to connect.
-4. Scroll down to “3. claim”
-5.  Type in the round number you want to claim in this format, including the \[] brackets: `[12345]`&#x20;
+1. [예측 컨트랙트](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract)(예: BNBUSD)의 BscScan 페이지로 이동하여 Write 탭으로 이동합니다.
+2. “🔴 Connect to Web3”를 탭합니다.
+3. MetaMask 또는 WalletConnect를 사용하여 연결합니다.
+4. “3. claim”까지 아래로 스크롤합니다.
+5.  수령하려는 라운드 번호를 \[] 괄호를 포함하여 다음 형식으로 입력합니다. `[12345]`&#x20;
 
-    If you want to claim from multiple rounds together, separate the rounds with a comma like this: `[12345,12346,12347]`
-6. Tap “Write”
-7. Confirm on wallet&#x20;
+    여러 라운드를 함께 수령하려면 다음과 같이 쉼표로 라운드를 구분합니다. `[12345,12346,12347]`
+6. “Write”를 탭합니다.
+7. 지갑에서 확인합니다.&#x20;
 {% endtab %}
 {% endtabs %}
 

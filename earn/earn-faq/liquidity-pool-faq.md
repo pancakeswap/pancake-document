@@ -2,5 +2,5 @@
 hidden: true
 ---
 
-# Liquidity Pool FAQ
+# 유동성 풀 자주 묻는 질문 (FAQ)
 

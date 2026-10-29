@@ -1,27 +1,27 @@
-# SnBNB FAQ
+# SnBNB 자주 묻는 질문 (FAQ)
 
-### How does snBNB generate staking rewards?
+### snBNB는 어떻게 스테이킹 보상을 생성하나요?
 
-Similar to ETH liquid staking, staking rewards are received for delegating BNB to snBNB’s synclub validator. The validator will take its cut from rewards before sharing it to the protocol as claimable tokens. The rewards earned are then split into two parts:
+ETH 리퀴드 스테이킹과 마찬가지로 BNB를 snBNB의 synclub 검증인에게 위임하면 스테이킹 보상을 받습니다. 검증인은 보상에서 자신의 몫을 떼고 나머지를 수령 가능한 토큰으로 프로토콜에 공유합니다. 이렇게 얻은 보상은 두 부분으로 나뉩니다.
 
-95% goes to snBNB holders in the form of snBNB value appreciation: snBNB holders’ share of the BNB pool keeps increasing due to the increase in the snBNB/BNB exchange rate. 5% goes to Synclub/Helio
+95%는 snBNB 가치 상승의 형태로 snBNB 보유자에게 돌아갑니다. snBNB/BNB 환율이 상승함에 따라 BNB 풀에서 snBNB 보유자의 지분이 계속 늘어납니다. 5%는 Synclub/Helio로 돌아갑니다.
 
-### How is the APR calculated for snBNB?
+### snBNB의 APR은 어떻게 계산되나요?
 
-The APR for snBNB varies between 0.5%-3%. The APR earned by validators on BNB Chain depends on two factors:
+snBNB의 APR은 0.5%\~3% 사이에서 변동합니다. BNB 체인에서 검증인이 얻는 APR은 두 가지 요인에 따라 달라집니다.
 
-Commission Rate: synclub validator charges 10% commission fee. Voting Power: The staked amount for a validator determines the APR it receives.
+수수료율: synclub 검증인은 10%의 수수료를 부과합니다. 투표권: 검증인에게 스테이킹된 금액이 받는 APR을 결정합니다.
 
-The Synclub validator employs MEV (Miner Extractable Value) to enhance its APR. SnBNB appreciates against BNB in line with BNB’s staking APR.
+Synclub 검증인은 APR을 높이기 위해 MEV(Miner Extractable Value)를 활용합니다. SnBNB는 BNB의 스테이킹 APR에 맞춰 BNB 대비 가치가 상승합니다.
 
-### How can I use snBNB?
+### snBNB는 어떻게 사용할 수 있나요?
 
-You can use snBNB to explore other use cases such as swapping, lending/borrowing and yield farming on BnbChain. Alongside Helio, PancakeSwap will be supporting new liquid staking strategies for users to maximise utility and yield on BnbChain
+snBNB를 사용하여 BnbChain에서 스왑, 대출/차입, 일드 파밍과 같은 다른 활용 사례를 탐색할 수 있습니다. PancakeSwap은 Helio와 함께 사용자가 BnbChain에서 활용도와 수익을 극대화할 수 있도록 새로운 리퀴드 스테이킹 전략을 지원할 예정입니다.
 
-### Do I need to claim staking rewards if I'm using snBNB?
+### snBNB를 사용 중이라면 스테이킹 보상을 수령해야 하나요?
 
-No. Staking rewards accrue in the snBNB token. This means that the snBNB token will increase in value over BNB.
+아니요. 스테이킹 보상은 snBNB 토큰에 누적됩니다. 즉, snBNB 토큰의 가치가 BNB 대비 상승합니다.
 
-### How do I convert snBNB back to BNB?
+### snBNB를 다시 BNB로 전환하려면 어떻게 하나요?
 
-Please visit https://www.synclub.io/en/liquid-staking/BNB to unstake your snBNB. PancakeSwap is working to support a conversion contract on our liquid staking page to convert snBNB back to BNB seamlessly.
+snBNB를 언스테이킹하려면 https://www.synclub.io/en/liquid-staking/BNB 를 방문하세요. PancakeSwap은 snBNB를 BNB로 원활하게 다시 전환할 수 있도록 리퀴드 스테이킹 페이지에 전환 컨트랙트를 지원하기 위해 작업 중입니다.

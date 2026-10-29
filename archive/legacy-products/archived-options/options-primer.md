@@ -1,134 +1,134 @@
-# Options Primer
+# 옵션 입문
 
 
 
 {% hint style="danger" %}
-\[ARCHIVED] Options – As of March 11, 2025\
-If you still have liquidity to withdraw, please do so immediately by visiting https://www.stryke.xyz/en/trade.
+\[보관됨] 옵션 – 2025년 3월 11일 기준\
+아직 출금할 유동성이 있다면 https://www.stryke.xyz/en/trade 를 방문하여 즉시 출금하세요.
 {% endhint %}
 
 
 
-## What are Options?
+## 옵션이란 무엇인가요?
 
-Options are derivative contracts that provide the buyer with the right, but not the obligation, to buy (call option) or sell (put option) an underlying asset at a predetermined price (strike price) within a specified period (expiration date).
+옵션은 매수자에게 정해진 기간(만기일) 내에 사전에 정해진 가격(행사 가격)으로 기초 자산을 매수(콜 옵션)하거나 매도(풋 옵션)할 수 있는 권리를 부여하지만 의무는 부여하지 않는 파생상품 계약입니다.
 
-## Types of Options?
+## 옵션의 유형
 
-### Call Options
+### 콜 옵션
 
-A call option gives the holder the right to buy the underlying asset at the agreed-upon strike price at or before the expiration date. Traders buy call options when they anticipate the price of the underlying asset to rise. This allows them to benefit from potential price appreciation without having to own the underlying asset outright.
+콜 옵션은 보유자에게 만기일 또는 그 이전에 합의된 행사 가격으로 기초 자산을 매수할 권리를 부여합니다. 트레이더는 기초 자산의 가격이 오를 것으로 예상할 때 콜 옵션을 매수합니다. 이를 통해 기초 자산을 직접 소유하지 않고도 잠재적인 가격 상승의 혜택을 누릴 수 있습니다.
 
-> A trader purchases a call option on Bitcoin with a strike price of $50,000 expiring in one month. If the price of Bitcoin rises above $50,000 within that month, the investor can exercise the option to buy Bitcoin at $50,000, potentially profiting from the price difference.
+> 한 트레이더가 행사 가격 $50,000, 만기 1개월의 Bitcoin 콜 옵션을 매수합니다. 해당 월 내에 Bitcoin 가격이 $50,000 이상으로 오르면 투자자는 옵션을 행사하여 $50,000에 Bitcoin을 매수할 수 있으며, 가격 차이로 수익을 얻을 가능성이 있습니다.
 
-### Put Options
+### 풋 옵션
 
-A put option gives the holder the right to sell the underlying asset at the agreed-upon strike price at or before the expiration date. Traders buy put options when they expect the price of the underlying asset to fall. This allows them to profit from potential price declines without having to short sell the underlying asset. Typically put options are also used to hedge against any downside risks to the investment portfolios.
+풋 옵션은 보유자에게 만기일 또는 그 이전에 합의된 행사 가격으로 기초 자산을 매도할 권리를 부여합니다. 트레이더는 기초 자산의 가격이 하락할 것으로 예상할 때 풋 옵션을 매수합니다. 이를 통해 기초 자산을 공매도하지 않고도 잠재적인 가격 하락으로 수익을 얻을 수 있습니다. 일반적으로 풋 옵션은 투자 포트폴리오의 하락 위험을 헤징하는 데도 사용됩니다.
 
-> A trader buys a put option on Ethereum with a strike price of $3,000 expiring in two weeks. If the price of Ethereum falls below $3,000 within that time frame, the trader can exercise the option to sell Ethereum at $3,000, thereby mitigating potential losses.
+> 한 트레이더가 행사 가격 $3,000, 만기 2주의 Ethereum 풋 옵션을 매수합니다. 해당 기간 내에 Ethereum 가격이 $3,000 아래로 떨어지면 트레이더는 옵션을 행사하여 Ethereum을 $3,000에 매도할 수 있으므로 잠재적 손실을 줄일 수 있습니다.
 
-<figure><img src="../../../.gitbook/assets/trading-campaign (2).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/trading-campaign%20%282%29.jpg" alt=""><figcaption></figcaption></figure>
 
-## Options Positions
+## 옵션 포지션
 
-For each type of option, there exist two potential positions:
+각 옵션 유형에는 두 가지 잠재적인 포지션이 있습니다.
 
-### **Long Option (Option Buyer)**&#x20;
+### **롱 옵션 (옵션 매수자)**&#x20;
 
-This position involves paying an upfront premium to acquire the option. If the option ends up in profit, the holder receives a settlement.
+이 포지션은 옵션을 취득하기 위해 선불로 프리미엄을 지불하는 것입니다. 옵션이 수익 상태로 끝나면 보유자는 정산금을 받습니다.
 
-### **Short Option (Option Writer/Seller)**
+### **숏 옵션 (옵션 작성자/매도자)**
 
-In this position, the seller receives an upfront premium for issuing the option. However, if the option ends up in profit (for the buyer; based on the underlying price, strike price, and type of the option), the seller is obligated to pay a settlement.
+이 포지션에서 매도자는 옵션을 발행하는 대가로 선불로 프리미엄을 받습니다. 하지만 (매수자 입장에서 기초 자산 가격, 행사 가격, 옵션 유형에 따라) 옵션이 수익 상태로 끝나면 매도자는 정산금을 지불할 의무가 있습니다.
 
-## American vs. European Options
+## 아메리칸 옵션 vs. 유러피안 옵션
 
-* **American Options:** Can be exercised at any time before the expiration date. This flexibility makes them more valuable than European options.
-* **European Options:** Can only be exercised at the expiration date. They are generally less expensive than American options due to their lack of flexibility.
+* **아메리칸 옵션:** 만기일 이전에 언제든지 행사할 수 있습니다. 이러한 유연성 덕분에 유러피안 옵션보다 가치가 높습니다.
+* **유러피안 옵션:** 만기일에만 행사할 수 있습니다. 유연성이 부족하기 때문에 일반적으로 아메리칸 옵션보다 저렴합니다.
 
-## When to use Options?
+## 옵션은 언제 사용하나요?
 
-Here are some example use cases:
+몇 가지 활용 사례는 다음과 같습니다.
 
-1. **Speculation:** An investor believes that the price of Bitcoin will increase over the next month. They buy call options on Bitcoin to profit from the anticipated price rise.
-2. **Hedging:** A cryptocurrency validator wants to hedge against potential price decreases in Ethereum. They purchase put options on Ethereum to protect against losses if the price falls below a certain level.
-3. **Income Generation:** A crypto investor who holds a large amount of Ether decides to write call options on their holdings, earning premiums while still participating in potential upside price movements.
+1. **투기:** 한 투자자가 다음 달에 Bitcoin 가격이 상승할 것이라고 믿습니다. 예상되는 가격 상승으로 수익을 얻기 위해 Bitcoin 콜 옵션을 매수합니다.
+2. **헤징:** 한 암호화폐 검증인이 Ethereum의 잠재적인 가격 하락에 대비하여 헤징하려고 합니다. 가격이 특정 수준 아래로 떨어질 경우의 손실로부터 보호하기 위해 Ethereum 풋 옵션을 매수합니다.
+3. **수익 창출:** 많은 양의 Ether를 보유한 암호화폐 투자자가 보유 자산에 대한 콜 옵션을 작성하여 프리미엄을 얻으면서도 잠재적인 가격 상승에는 계속 참여합니다.
 
-## Options Pricing
+## 옵션 가격 결정
 
-Options pricing is complex and involves various factors, with the Black-Scholes model being the most commonly used.&#x20;
+옵션 가격 결정은 복잡하며 다양한 요인이 관여하고, 블랙-숄즈(Black-Scholes) 모델이 가장 일반적으로 사용됩니다.&#x20;
 
-Key factors influencing options pricing include:
+옵션 가격에 영향을 미치는 주요 요인은 다음과 같습니다.
 
-* **Underlying Asset Price:** The current market price of the underlying asset.
-* **Strike Price:** The price at which the option holder can buy or sell the underlying asset.
-* **Volatility:** The degree of price fluctuations in the underlying asset.&#x20;
-* **Time to Expiration:** The remaining time until the option expires.
-* **Interest Rates:** The risk-free rate of return.
+* **기초 자산 가격:** 기초 자산의 현재 시장 가격.
+* **행사 가격:** 옵션 보유자가 기초 자산을 매수하거나 매도할 수 있는 가격.
+* **변동성:** 기초 자산의 가격 변동 정도.&#x20;
+* **만기까지의 시간:** 옵션이 만료될 때까지 남은 시간.
+* **금리:** 무위험 수익률.
 
-Options pricing determines the premium/fee a writer receives when an option trader purchases their option. Option writers are exposed to the risk of paying settlement if their options expire In-The-Money or ITM (profitable for the buyer). As such, the premiums they earn from purchasers must fairly reflect the probability of an ITM event.
+옵션 가격 결정은 옵션 트레이더가 옵션을 매수할 때 작성자가 받는 프리미엄/수수료를 결정합니다. 옵션 작성자는 옵션이 인더머니(ITM, 매수자에게 수익)로 만료될 경우 정산금을 지불할 위험에 노출됩니다. 따라서 매수자로부터 얻는 프리미엄은 ITM 발생 확률을 공정하게 반영해야 합니다.
 
-PancakeSwap CLAMM options premiums are derived from the Black-Scholes model with the following assumptions:
+PancakeSwap CLAMM 옵션 프리미엄은 다음 가정을 바탕으로 블랙-숄즈 모델에서 도출됩니다.
 
-* The risk-free rate is assumed to be zero.
-* Volatility is based on the 30-day historical volatility of the underlying \[used as a proxy for implied volatility (IV)].
+* 무위험 이자율은 0으로 가정합니다.
+* 변동성은 기초 자산의 30일 과거 변동성을 기반으로 합니다 \[내재 변동성(IV)의 대용치로 사용].
 
-A few exceptions include:
+몇 가지 예외는 다음과 같습니다.
 
-* $ETH and $BTC IV are taken directly from Deribit if strike prices match. If strike prices do not match, the closest upper and lower strikes from Deribit are weighted based on the degree of offset to set IV.
-* $ARB uses 30-day beta-based historical volatility by calculating the effective strike price of the base asset against $ETH to extrapolate IV which is multiplied by the beta of the base asset against $ETH
+* $ETH와 $BTC의 IV는 행사 가격이 일치하는 경우 Deribit에서 직접 가져옵니다. 행사 가격이 일치하지 않는 경우 Deribit의 가장 가까운 상위 및 하위 행사 가격에 오프셋 정도에 따라 가중치를 부여하여 IV를 설정합니다.
+* $ARB는 $ETH 대비 기초 자산의 유효 행사 가격을 계산하여 IV를 추정하는 30일 베타 기반 과거 변동성을 사용하며, 여기에 $ETH 대비 기초 자산의 베타를 곱합니다.
 
-Assets with high volatility would have a more expensive premium than assets with less volatility as there is a greater risk to writers of the option expiring ITM.
+변동성이 높은 자산은 옵션이 ITM으로 만료될 위험이 작성자에게 더 크기 때문에 변동성이 낮은 자산보다 프리미엄이 더 비쌉니다.
 
-## Options Settlement
+## 옵션 정산
 
-### Settlement Conditions
+### 정산 조건
 
-* Settlement is determined based on the moneyness of the option at expiration.
-* Settlement is calculated only if the option is In-The-Money (ITM) during exercise.
+* 정산은 만기 시점의 옵션 머니니스를 기준으로 결정됩니다.
+* 정산은 행사 시점에 옵션이 인더머니(ITM)인 경우에만 계산됩니다.
 
-### ITM Conditions
+### ITM 조건
 
-* **Call Option:** If the Spot Price at Settlement > Strike Price
-* **Put Option:** If the Spot Price at Settlement < Strike Price
+* **콜 옵션:** 정산 시점의 현물 가격 > 행사 가격인 경우
+* **풋 옵션:** 정산 시점의 현물 가격 < 행사 가격인 경우
 
-### Settlement Calculation
+### 정산 계산
 
-* **Call Option:** #Options \* (Spot Price at Settlement - Strike Price)
-* **Put Option:** #Options \* (Strike Price - Spot Price at Settlement)
+* **콜 옵션:** 옵션 수 \* (정산 시점의 현물 가격 - 행사 가격)
+* **풋 옵션:** 옵션 수 \* (행사 가격 - 정산 시점의 현물 가격)
 
-### Moneyness
+### 머니니스
 
-Moneyness refers to an option's intrinsic value, determined by comparing its strike price to its spot price at the time of execution.
+머니니스는 행사 시점에 행사 가격과 현물 가격을 비교하여 결정되는 옵션의 내재 가치를 의미합니다.
 
-### Classification
+### 분류
 
-1. Out-of-The-Money (OTM):
-   1. An option is OTM if the spot price at settlement differs from the strike price and no value is to be exchanged if settlement occurs immediately.
-   2. Conditions:
-      1. Call Option: Spot Price < Strike Price
-      2. Put Option: Spot Price > Strike Price
+1. 아웃오브더머니(OTM):
+   1. 정산 시점의 현물 가격이 행사 가격과 다르고 즉시 정산이 이루어져도 교환할 가치가 없는 경우 옵션은 OTM입니다.
+   2. 조건:
+      1. 콜 옵션: 현물 가격 < 행사 가격
+      2. 풋 옵션: 현물 가격 > 행사 가격
 
 {% hint style="info" %}
-An $ETH call option with a strike price of $2,000 would be OTM if the spot price is $1,800 ($1,800 < $2,000 i.e. OTM).
+행사 가격이 $2,000인 $ETH 콜 옵션은 현물 가격이 $1,800이면 OTM입니다($1,800 < $2,000, 즉 OTM).
 {% endhint %}
 
-2. At-The-Money (ATM):
-   1. An option is ATM if the spot price at settlement is equal to the strike price and no value is to be exchanged if settlement occurs immediately.
-   2. Conditions: Both Call and Put Options: Spot Price = Strike Price
+2. 앳더머니(ATM):
+   1. 정산 시점의 현물 가격이 행사 가격과 같고 즉시 정산이 이루어져도 교환할 가치가 없는 경우 옵션은 ATM입니다.
+   2. 조건: 콜 옵션과 풋 옵션 모두: 현물 가격 = 행사 가격
 
 {% hint style="info" %}
-Both an $ETH call option and put option with a strike price of $1,800 would be ATM if the spot price is also $1,800 ($1,800 = $1,800 i.e. ATM).
+행사 가격이 $1,800인 $ETH 콜 옵션과 풋 옵션은 현물 가격도 $1,800이면 모두 ATM입니다($1,800 = $1,800, 즉 ATM).
 {% endhint %}
 
-3. In-The-Money (ITM):
-   1. An option is ITM if the spot price at settlement differs from the strike price and there is value to be exchanged if settlement were to occur immediately.
-   2. Conditions:
-      1. Call Option: Spot Price > Strike Price
-      2. Put Option: Spot Price < Strike Price
+3. 인더머니(ITM):
+   1. 정산 시점의 현물 가격이 행사 가격과 다르고 즉시 정산이 이루어질 경우 교환할 가치가 있는 경우 옵션은 ITM입니다.
+   2. 조건:
+      1. 콜 옵션: 현물 가격 > 행사 가격
+      2. 풋 옵션: 현물 가격 < 행사 가격
 
 {% hint style="info" %}
-An $ETH call option with a strike price of $1,600 would be ITM if the spot price is $1,800 ($1,800 > $1,600 i.e. ITM).
+행사 가격이 $1,600인 $ETH 콜 옵션은 현물 가격이 $1,800이면 ITM입니다($1,800 > $1,600, 즉 ITM).
 {% endhint %}
 
-Settlement earned by the option buyer equals the collateral lost by the option writer. Settlement excludes options premium paid, which are factored in when computing profits or losses for option buyers and writers.
+옵션 매수자가 얻는 정산금은 옵션 작성자가 잃는 담보와 같습니다. 정산금에는 지불한 옵션 프리미엄이 포함되지 않으며, 프리미엄은 옵션 매수자와 작성자의 손익을 계산할 때 반영됩니다.
