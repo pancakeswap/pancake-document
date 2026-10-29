@@ -106,6 +106,7 @@
       * [Business Development Manager](welcome-to-pancakeswap/about-us/team/become-a-chef/business-development-manager-1.md)
       * [Data Analyst](welcome-to-pancakeswap/about-us/team/become-a-chef/data-analyst.md)
       * [Product Manager \[Prediction Markets\]](welcome-to-pancakeswap/about-us/team/become-a-chef/product-manager-prediction-markets.md)
+      * [Head of Marketing](welcome-to-pancakeswap/about-us/team/become-a-chef/head-of-marketing.md)
   * [Brand & Logos](welcome-to-pancakeswap/about-us/brand.md)
 
 ***
