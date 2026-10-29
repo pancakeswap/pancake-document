@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Senior Back End Developer (DeFi)
 
 ### General Information

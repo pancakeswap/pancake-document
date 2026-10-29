@@ -1,18 +1,12 @@
----
-hidden: true
----
+# Business Development Manager (Liquidity Hub)
 
-# Business Development Manager (AMM)
+PancakeSwap is transitioning from the leading AMM DEX on BNB Chain to a full Liquidity Hub aggregating and managing liquidity from native AMM pools, institutional capital, and external distribution channels.
 
-PancakeSwap is transitioning from the leading AMM DEX on BNB Chain to a full Liquidity Hub — aggregating and managing liquidity from native AMM pools, institutional capital, and external distribution channels. This role leads one of three specialized BD divisions in that build-out.
+### Institutional Liquidity + RWA + Distribution Channel Expansion
 
-### Traditional AMM
-
-* Own CAKE emission efficiency, project onboarding (V2/V3/Infinity CLAMM), and cross-chain launchpad pipeline across BNB Chain, Base, and SOL.
-* Primary metric: volume per unit of CAKE emitted.
-* Secondary: new active pools per quarter, first-launch projects per chain.
-
-**Urgent now:** Base + SOL ecosystem fund relationships · Infinity CLAMM project pipeline
+* Own tokenized stock and RWA issuer onboarding, market maker onboarding, and PancakeSwap X RFQ distribution into more channels
+* Build PropAMM institutional pipeline. Primary metric: PancakeSwap X monthly trading volume, RWA issuers onboarded.
+* Replace 1inch as the default aggregator API for wallets, trading venues, and DeFi protocols.
 
 ### What you will do
 
@@ -25,10 +19,12 @@ PancakeSwap is transitioning from the leading AMM DEX on BNB Chain to a full Liq
 
 **Required**
 
-* 3+ years of BD, partnerships, or growth in DeFi, crypto, or fintech — with a track record of signed deals, not just pipeline
+* 3+ years of BD, partnerships, or growth in DeFi, crypto, or fintech with a track record of signed deals, not just pipeline
 * Quantitative mindset: comfortable reading on-chain data, TVL/volume dashboards, and setting your own KPI targets from first principles
-* Familiar with AMM/Uniswap/PancakeSwap V2 V3 Infinity
+* Domain familiarity matching your division of interest: tokenized equities/RWA infrastructure and institutional market maker relationships; DEX aggregator mechanics, wallet/trading-venue integration flows, and rev-share/white-label deal structuring
 * Autonomous and structured: able to manage multiple parallel deals with zero hand-holding, and communicate blockers early
 * Ownership mind-set
 
-**How to Apply:** Shoot your resume over to hiring@pancakeswap.com, we’d love to hear from you!
+
+
+How to Apply: Shoot your resume over to hiring@pancakeswap.com, we'd love to hear from you! Let us know which division(s) you're best suited for.
