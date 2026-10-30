@@ -1,73 +1,75 @@
 ---
-description: So entsperren Sie feststeckende ausstehende Transaktionen in MetaMask
+description: >-
+  So lösen Sie alle ausstehenden Transaktionen, die in Ihrem MetaMask
+  festhängen
 ---
 
-# Feststeckende ausstehende Transaktionen in MetaMask beheben
+# Hängende ausstehende Transaktionen in MetaMask beheben
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-fix-a-stuck-transaction-header.png)
 
-Wenn Ihre Transaktion in MetaMask im ausstehenden Zustand feststeckt und die Schaltfläche „Abbrechen" nicht hilft, müssen Sie möglicherweise diese Methode verwenden, um Ihren Rückstau zu bereinigen.
+Wenn Ihre Transaktion in Metamask auf „Ausstehend“ (Pending) hängt und die Schaltfläche „Cancel“ nicht hilft, müssen Sie möglicherweise diese Methode verwenden, um Ihren Rückstau aufzulösen.
 
-Diese Methode funktioniert, indem die feststeckende Transaktion im Wesentlichen durch eine andere Transaktion mit höherer Priorität überschrieben wird.
+Diese Methode funktioniert, indem die hängende Transaktion im Grunde durch eine andere Transaktion mit höherer Priorität überschrieben wird.
 
-### **1. Benutzerdefinierten Transaktions-Nonce aktivieren**
+### **1. Benutzerdefinierte Transaktions-Nonce aktivieren**
 
 1\. Öffnen Sie Ihr MetaMask-Plugin.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-1-MetaMask_plugin.png)
 
-2\. Klicken Sie auf das farbige Kreissymbol oben rechts und klicken Sie im Dropdown-Menü auf **Einstellungen**.
+2\. Klicken Sie oben rechts auf das bunte Kreissymbol und wählen Sie im Dropdown-Menü **Settings**.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-2-MetaMask_settings%20%281%29.png)
 
-3\. Wählen Sie im Einstellungsmenü **Erweitert** aus.
+3\. Wählen Sie im Settings-Menü **Advanced**.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-3-MetaMask_advanced.png)
 
-4\. Scrollen Sie nach unten, bis Sie **Erweiterte Gas-Kontrollen** sehen. Schalten Sie diese auf EIN.
+4\. Scrollen Sie nach unten, bis Sie **Advanced gas controls** sehen. Schalten Sie diese Option auf ON.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-4-MetaMask_gas_control_on.png)
 
-5\. Scrollen Sie weiter in den erweiterten Einstellungen, bis Sie **Transaktions-Nonce anpassen** sehen. Schalten Sie diese auf EIN.
+5\. Scrollen Sie in den Advanced-Einstellungen weiter, bis Sie **Customize transaction nonce** sehen. Schalten Sie auch diese Option auf ON.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-4-MetaMask_gas_control_on.png)
 
-### **2. Ihre feststeckende Transaktion finden**
+### **2. Ihre hängende Transaktion finden**
 
-Wir werden nun die feststeckende Transaktion suchen und die „Nonce" notieren. Das ist eine Art Kennung, die wir später wiederverwenden werden.
+Wir suchen nun die hängende Transaktion und notieren uns die „Nonce“. Das ist eine Art Kennung, die wir später wiederverwenden.
 
 ![](https://lh4.googleusercontent.com/xKBEnt5a62c5Wzg_MCLIbVUWuL4fws1ohBAX9LAkGS71vslHk7QuMF24jAfkAdmsLunPVfT9c3FxCmGar5z7jNZnd4WMgzQsoxxbYw1Lp59Az5kG72COn0JblFXktHbmgMnF1LeY)
 
-6\. Gehen Sie zurück zur Hauptseite von MetaMask. Suchen Sie im Reiter „Assets" den Token-Typ Ihrer feststeckenden Transaktion (in diesem Fall CAKE).
+6\. Gehen Sie zurück zur Startseite von MetaMask. Suchen Sie im Tab „Assets“ den Token-Typ Ihrer hängenden Transaktion (in diesem Fall CAKE).
 
 ![](https://lh5.googleusercontent.com/9qVjhK1kEKDL8l4TTdOFo4o547PDIIeQpCCY18gPyaUFJrpFbyYhMfBQ1CRzjjrllgrcqVbwkhxKCZBNlIad8J1yCpMVhsBKjIAcwfsQHQb7jnl2RD2ufQU-zNEn2Hn2g4LGvYDU)
 
-6\. Suchen Sie im Token-Menü Ihre **ausstehende** Transaktion im Warteschlangenbereich. Klicken Sie auf Ihre Transaktion, um weitere Details anzuzeigen.
+7\. Suchen Sie im Menü des Tokens Ihre **Pending**-Transaktion im Bereich Queue. Klicken Sie auf Ihre Transaktion, um weitere Details zu sehen.
 
 ![](https://lh4.googleusercontent.com/HMd5iKjIvm-f7Xi7xtecTsq56x1i15GjUkwCm5Z_83xMfOXDd2jabcCDyUwELf51IHseEeCk2WnvWfHwTSUlFnLAJrmjkkOfm_fA5fimgdABnYfdjmBxxst8TOaUJUhc2iO_CN-k)
 
-7\. Suchen Sie den Eintrag **Nonce** und notieren Sie diese Zahl.
+8\. Suchen Sie den Eintrag **Nonce** und notieren Sie sich diese Zahl.
 
-### **3. Die feststeckende Transaktion überschreiben**
+### **3. Die hängende Transaktion überschreiben**
 
-Nun erstellen wir eine neue Transaktion, um die feststeckende zu ersetzen. Wir passen die Nonce-Nummer so an, dass sie mit der übereinstimmt, die Sie sich gerade notiert haben.
+Nun erstellen wir eine neue Transaktion, die die hängende ersetzt. Wir passen die Nonce-Zahl so an, dass sie mit der soeben notierten übereinstimmt.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28176%29.png)
 
-8\. Erstellen Sie eine neue Transaktion, um Ihre feststeckende zu ersetzen. Erhöhen Sie diesmal die **Transaktionsgebühr**. Hier wurde sie von 9 auf 20 erhöht. Dadurch wird die Wahrscheinlichkeit erhöht, dass Ihre Transaktion in einen Block aufgenommen wird.
+9\. Erstellen Sie eine neue Transaktion, um Ihre hängende Transaktion zu ersetzen. Erhöhen Sie diesmal die **Transaction Fee**. Hier haben wir sie von 9 auf 20 erhöht. Dadurch wird es wahrscheinlicher, dass Ihre Transaktion in einen Block aufgenommen wird.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2834%29.png)
 
-9\. Stellen Sie auf der Bestätigungsseite sicher, dass Ihr Gas-Preis nun den neuen, höheren Betrag anzeigt.
+10\. Stellen Sie auf der Bestätigungsseite sicher, dass Ihr Gas Price nun auf dem neuen, höheren Wert steht.
 
-10\. Suchen Sie den Eintrag **CUSTOM NONCE** und ändern Sie die Nonce auf die Zahl, die Sie in Schritt 7 notiert haben. Klicken Sie nun auf „Bestätigen".
+11\. Suchen Sie den Eintrag **CUSTOM NONCE** und ändern Sie die Nonce auf die Zahl, die Sie sich in Schritt 8 notiert haben. Klicken Sie nun auf Confirm.
 
 ![](https://lh6.googleusercontent.com/PYhYm2ro0SVzerBo5qguFIPOYl0DjLSfl0JT8UdfN3T4i-0hjBq-CQvr-UA0bSyG-ZndrWmLGptfZUcnGBlvUk118GGZn7ciDNaC4hmfovH9v_M5XMIYmkAmB-Fr-6TTpYnnDX1p)
 
-11\. Ihre neue Transaktion sollte nun in einen Block aufgenommen werden. Um dies zu überprüfen, öffnen Sie MetaMask und klicken Sie auf den Reiter **Aktivität**.
+12\. Ihre neue Transaktion sollte nun in einen Block aufgenommen werden. Öffnen Sie zur Kontrolle MetaMask und klicken Sie auf den Tab **Activity**.
 
 ![](https://lh6.googleusercontent.com/Iw3e0YP4ORhPgw8-MNxvzlDlfgG5nD226P4ixiziPC_9j3_LfU3o1-_LA2yDmegbRw5x9Sgk3RACFJJkyJDrFJA1j2J93H21uGhhWabkdDQUHsU_oVdkZVQTTWaQPzXHAWClpsb4)
 
-12\. Ihre abgeschlossene Transaktion sollte oben in Ihrer Aktivitätsliste erscheinen. Wenn sie immer noch orange als „Ausstehend" angezeigt wird, müssen Sie etwas länger warten oder den Vorgang mit einer noch höheren Transaktionsgebühr (Gas-Preis) wiederholen.
+13\. Ihre abgeschlossene Transaktion sollte ganz oben in Ihrer Activity-Liste erscheinen. Wenn dort in Orange noch „Pending“ steht, müssen Sie etwas länger warten oder den Vorgang mit einer noch höheren Transaktionsgebühr (Gas Price) wiederholen.
 
-Da keine Wallet zwei Transaktionen mit derselben Nonce erstellen kann, wird Ihre feststeckende Transaktion storniert, sobald die Ersatztransaktion erfolgreich ist.<br>
+Da kein Wallet zwei Transaktionen mit derselben Nonce erstellen kann, wird Ihre hängende Transaktion storniert, sobald die von Ihnen erstellte Ersatztransaktion erfolgreich ist.<br>

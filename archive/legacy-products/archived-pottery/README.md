@@ -74,6 +74,6 @@ Acht Prozent (8 %) des jede Woche verteilten Preistopfs werden als Gebühren fü
 
 ## **Bereit zur Teilnahme?**
 
-Wenn Sie die Produktstruktur, die Risiken und die Gebühren kennen — lesen Sie diese Seite, wie Sie [an der Pottery teilnehmen](https://docs.pancakeswap.finance/products/pottery/how-to-play-pottery) können, und die anderen [Pottery-FAQ](https://docs.pancakeswap.finance/products/pottery/pottery-faq)!
+Wenn Sie die Produktstruktur, die Risiken und die Gebühren kennen — lesen Sie diese Seite, wie Sie [an der Pottery teilnehmen](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery/how-to-play-pottery) können, und die anderen [Pottery-FAQ](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery/pottery-faq)!
 
 

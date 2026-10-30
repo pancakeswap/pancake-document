@@ -52,7 +52,7 @@ Globaler APR, berechnet anhand der Gesamtmenge an aktiver und gestakter Liquidit
 Die APRs für einzelne Positionen können je nach Preisbereichseinstellungen variieren.
 
 $$
-ARP_p = {\frac{USD_{r}}{USD_{p}}} {\frac{L_{p}}{L_{lm}}}
+APR_p = {\frac{USD_{r}}{USD_{p}}} {\frac{L_{p}}{L_{lm}}}
 $$
 
 * $$USD_r$$: CAKE-Reward in USD pro Jahr im Pool

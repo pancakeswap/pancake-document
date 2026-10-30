@@ -1,30 +1,34 @@
+---
+hidden: true
+---
+
 # Community Manager (CN)
 
-* Stelle: Vollzeit
+* Position: Vollzeit
 * Standort: Remote
 * Zeitzone: UTC+8
 
-Wir suchen eine erfahrene, chinesischsprachige Community-Manager-Persönlichkeit, die die PancakeSwap-Community aktiviert, einbindet und ausbaut. Die ideale Kandidatin oder der ideale Kandidat verfügt über Erfahrung in chinesischsprachigen Krypto-Communities, versteht DeFi-Communities und -Nutzer und hat eine nachgewiesene Erfolgsbilanz beim Wachstum und der Aktivierung von Communities in der Region.
+Wir suchen einen erfahrenen, chinesischsprachigen Community Manager, um die PancakeSwap-Community zu aktivieren, einzubinden und auszubauen. Die ideale Person hat Erfahrung in chinesischsprachigen Krypto-Communities, versteht DeFi-Communities und -Nutzer und kann nachweislich Communities in der Region erfolgreich ausbauen und aktivieren.
 
 ### **Aufgaben:**
 
-* Aktivieren und erweitern Sie die chinesischsprachigen Communities von PancakeSwap durch organische und gemeinschaftsgetriebene Initiativen
-* Repräsentieren Sie PancakeSwap als Sprecherin oder Sprecher in chinesischsprachigen Community-Kanälen, Diskussionen, AMAs und treten Sie für unsere Produkte, Marke und unser Ökosystem ein
-* Planen und führen Sie chinesischsprachige Community-Kampagnen, AMAs, Online-Initiativen und lokale Community-Meetups mit klaren Wachstums- und Engagementzielen durch
-* Bauen Sie Beziehungen zu Kryptoprojekten, Communities und Ökosystempartnern auf und pflegen Sie diese, um die Community-Aktivierung zu erhöhen
-* Verwalten Sie die Botschafterinnen und Botschafter sowie das Botschafterprogramm von PancakeSwap für chinesischsprachige Märkte, um die Community-Nutzer-, Content- und regionalen Veranstaltungsinitiativen zu unterstützen
-* Fungieren Sie als Brücke zwischen der chinesischsprachigen Community von PancakeSwap und den internen Teams, indem Sie Community- und Produkt-Feedback weiterleiten, um das Wachstum und den Erfolg von PancakeSwap voranzutreiben
-* Identifizieren, binden und arbeiten Sie mit chinesischsprachigen Community-Content-Erstellern und Influencern zusammen, um relevante, hochwertige Inhalte in der Community zu produzieren
-* Verfolgen Sie die Community-Performance und erstellen Sie wöchentliche Berichte über Aktivitäten, Engagement-Metriken, Stimmung und umsetzbare Erkenntnisse
+* Aktivierung und Ausbau der chinesischsprachigen PancakeSwap-Communities durch organische und community-getriebene Initiativen
+* Vertretung von PancakeSwap als Sprecher in chinesischsprachigen Community-Kanälen, Diskussionen und AMAs sowie Fürsprache für unsere Produkte, Marke und unser Ökosystem
+* Planung und Durchführung chinesischsprachiger Community-Kampagnen, AMAs, Online-Initiativen und lokaler Community-Meetups mit klaren Wachstums- und Engagement-Zielen
+* Aufbau und Pflege von Beziehungen zu Krypto-Projekten, Communities und Ökosystempartnern, um die Community-Aktivierung zu steigern
+* Betreuung der PancakeSwap-Ambassadoren und des Ambassador-Programms für chinesischsprachige Märkte zur Unterstützung von Community-, Content- und regionalen Event-Initiativen
+* Vermittlung zwischen der chinesischsprachigen PancakeSwap-Community und den internen Teams, um Community- und Produkt-Feedback weiterzugeben und so Wachstum und Erfolg von PancakeSwap voranzutreiben
+* Identifizierung, Ansprache und Zusammenarbeit mit chinesischsprachigen Content-Erstellern und Influencern, um relevante, hochwertige Inhalte für die Community zu produzieren
+* Verfolgung der Community-Performance und wöchentliche Berichte über Aktivitäten, Engagement-Kennzahlen, Stimmung und umsetzbare Erkenntnisse
 
 ### **Anforderungen**
 
-* 2+ Jahre Erfahrung als Community Manager im DeFi- oder Krypto-Bereich
-* Sprache: Muttersprachliche Kenntnisse in Chinesisch erforderlich, arbeitsfähige Englischkenntnisse.
-* Verständnis chinesischsprachiger Krypto-Communities, DeFi und Community-Wachstum
-* Ausgezeichnete chinesische schriftliche und verbale Kommunikationsfähigkeiten
+* Mindestens 2 Jahre Erfahrung als Community Manager im DeFi- oder Krypto-Bereich
+* Sprache: Muttersprachliches Chinesisch erforderlich, fließende Arbeitskenntnisse in Englisch.
+* Verständnis chinesischsprachiger Krypto-Communities, von DeFi und Community-Wachstum
+* Hervorragende schriftliche und mündliche Kommunikationsfähigkeiten in Chinesisch
 * Erfahrung mit Community-Plattformen und -Tools auf Discord, Telegram, X usw.
-* Proaktiv, ergebnisorientiert und in der Lage, in einem schnelllebigen Umfeld zu agieren
+* Proaktiv, ergebnisorientiert und fähig, in einem schnelllebigen Umfeld zu arbeiten
 
-**Bewerbung:**\
-Senden Sie Ihren Lebenslauf an hiring@pancakeswap.com – wir freuen uns, von Ihnen zu hören!
+**So bewerben Sie sich:**\
+Senden Sie Ihren Lebenslauf an hiring@pancakeswap.com, wir freuen uns darauf, von Ihnen zu hören!

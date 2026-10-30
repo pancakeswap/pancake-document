@@ -1,4 +1,6 @@
-# 🤖 BNB AI Agent Studio
+# 🤖 Building Trading Agents on PancakeSwap V3
+
+Obwohl diese Seite einen Überblick bietet, finden Sie weitere Informationen auf [pancakeswap.ai](https://pancakeswap.ai)
 
 > Eine Anleitung für Entwickler, die autonome Agenten – mit [BNB Agent Studio](https://www.bnbchain.org/en/bnb-agent-studio) oder einem beliebigen Framework – erstellen, die mit PancakeSwap V3-Liquiditätspools und Farms auf BNB Smart Chain interagieren.
 >
@@ -8,7 +10,7 @@ PancakeSwap benötigt **keine Integration** dafür. V3-Pools und Farms sind perm
 
 ***
 
-### 1. Was ein Agent gegenüber PancakeSwap tun kann
+### 1. Was ein Agent mit PancakeSwap tun kann
 
 Concentrated Liquidity (V3) bietet LPs eine weitaus bessere Kapitaleffizienz als V2, allerdings auf Kosten des aktiven Managements: Eine Position verdient nur dann Gebühren, wenn der Preis innerhalb ihres Tick-Bereichs liegt, und Belohnungen/Erträge verschieben sich ständig. Genau dieser operative Aufwand ist es, den ein Agent beseitigt. Häufige Strategien:
 

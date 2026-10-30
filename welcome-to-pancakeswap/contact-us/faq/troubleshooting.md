@@ -305,7 +305,7 @@ Teilen Sie zunächst [dem Team mit](../social-accounts.md), von welchem Pool Sie
 Sie können ein „emergencyWithdraw" direkt über den Contract durchführen, um Ihre gestakten Token zu entstaken.
 
 1. Suchen Sie die Contract-Adresse des Syrup Pools, von dem Sie entstaken möchten. Sie finden sie im Transaktionsprotokoll Ihrer Wallet.
-2. Gehen Sie zu [https://bscscan.com/](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract) und geben Sie in der Suchleiste die Contract-Adresse ein.
+2. Gehen Sie zu [https://bscscan.com/](https://bscscan.com/) und geben Sie in der Suchleiste die Contract-Adresse ein.
 3. Wählen Sie **Write Contract.**
 4. Klicken Sie auf **„Connect to Web3"** und verbinden Sie Ihre Wallet.![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
 5. Klicken Sie im Abschnitt **„3. emergencyWithdraw"** auf „Write".
@@ -324,7 +324,7 @@ Dieser Fehler tritt häufig auf, wenn Sie versuchen, von einem alten Syrup Pool 
 
 ## **Probleme mit Prognose**
 
-Überprüfen Sie [Broken link](/broken/pages/8zN9xzaYD1DvxZvzLzug "mention")
+Überprüfen Sie [Prognose-FAQ](../../../play/prediction/prediction-faq.md "mention")
 
 ## **Sonstige Probleme**
 

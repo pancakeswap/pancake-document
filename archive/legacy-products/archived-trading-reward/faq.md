@@ -15,7 +15,7 @@ description: Trading-Reward-FAQ
 #### Warum wurde mein Handelsvolumen nicht erfasst?
 
 * Volumenzahlen brauchen Zeit zur Aktualisierung und können SubGraph-Verzögerungen unterliegen. Bitte prüfen Sie zu einem späteren Zeitpunkt erneut.
-* Ihr Handel muss über das **genaue** auf der [Trading-Reward-Seite](https://pancakeswap.finance/trading-reward#rewards-breakdown) hervorgehobene Handelspaar geleitet werden, einschließlich der Gebührenklasse. Sehen Sie sich [dieses Tutorial](https://docs.pancakeswap.finance/products/pancakeswap-exchange/fees-and-routes#check-the-fee-rate-and-fee-amount-that-is-currently-applied) an, um Ihre Handelsrouten einzusehen.
+* Ihr Handel muss über das **genaue** auf der [Trading-Reward-Seite](https://pancakeswap.finance/trading-reward#rewards-breakdown) hervorgehobene Handelspaar geleitet werden, einschließlich der Gebührenklasse. Sehen Sie sich [dieses Tutorial](https://docs.pancakeswap.finance/trade/pancakeswap-exchange/fees-and-routes) an, um Ihre Handelsrouten einzusehen.
 * Nur V3-Handelspaare sind für dieses Programm berechtigt.
 * Bitte verwenden Sie dieselbe Wallet-Adresse, die für das Trading-Reward-Programm sowohl auf Ethereum als auch auf der BNB Chain berechtigt ist.
 * Wenn Ihr Handelsvolumen innerhalb eines Paares zu gering ist, sind Sie möglicherweise nicht berechtigt, Belohnungen zu beanspruchen.

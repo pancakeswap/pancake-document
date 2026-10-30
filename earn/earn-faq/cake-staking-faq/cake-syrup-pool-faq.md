@@ -8,7 +8,7 @@ hidden: true
 
 ### Welche Sperrdauer kann ich wählen?
 
-Sie können zwischen 1 und 52 Wochen wählen. Was bevorzugen Sie?
+Sie können zwischen 1 Woche und bis zu 4 Jahren wählen.
 
 ### Welche Variablen beeinflussen die neuen CAKE-Syrup-Pool-Renditen in % (flexible und Festlaufzeit-Staking-Optionen)?
 

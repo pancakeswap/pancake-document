@@ -6,7 +6,7 @@
 
 PancakeSwaps Pottery ist eine alternative Möglichkeit, CAKE anzusammeln, anstatt Ihr CAKE nur im Staking-Pool zu sperren und zu staken. Diese Anleitung führt Sie durch die Navigation in der PancakeSwap-Web-UI zur Teilnahme.
 
-Erfahren Sie mehr über die Produktstruktur, Risiken und Gebühren der [PancakeSwap Pottery hier](https://docs.pancakeswap.finance/products/pottery).
+Erfahren Sie mehr über die Produktstruktur, Risiken und Gebühren der [PancakeSwap Pottery hier](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery).
 
 ## Entscheidung, ob Sie einer Pottery-Kohorte beitreten möchten
 
@@ -24,7 +24,7 @@ Die Einzahlung für jede Pottery-Kohorte ist einmal im Monat geöffnet. Die Einz
 
 ![](https://lh5.googleusercontent.com/_TqVUlNGtnGvGz_wysnq-KmewS_CjmUJ0jMHwzRMLx47Rmq-x868M0q-iBXCqynotDqz3mxnUZovExx4bUb8BBv3W6OXl4u4pJWFmOz__IYASvQ_hgmccB3GPaL1oz4TutJr3PTwdz_2NoVzmnpkcD0)
 
-— In diesem Fall können Sie Ihr CAKE einzahlen, um an der Pottery teilzunehmen, wenn die APR, der Gesamtwert gesperrter Mittel und die Gewinnchancen für Sie akzeptabel sind. Bevor Sie einzahlen, stellen Sie bitte sicher, dass Sie die Risiken einer Teilnahme vollständig verstehen! Alle Einzahlungen werden unter keinen Umständen für 10 Wochen gesperrt, ohne vorzeitige Abhebemöglichkeit. Erfahren Sie mehr über [die Risiken und Gebühren hier](https://docs.pancakeswap.finance/products/pottery).
+— In diesem Fall können Sie Ihr CAKE einzahlen, um an der Pottery teilzunehmen, wenn die APR, der Gesamtwert gesperrter Mittel und die Gewinnchancen für Sie akzeptabel sind. Bevor Sie einzahlen, stellen Sie bitte sicher, dass Sie die Risiken einer Teilnahme vollständig verstehen! Alle Einzahlungen werden unter keinen Umständen für 10 Wochen gesperrt, ohne vorzeitige Abhebemöglichkeit. Erfahren Sie mehr über [die Risiken und Gebühren hier](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery).
 
 ## **Ihre Einzahlung einsehen**
 
@@ -40,7 +40,7 @@ Nach jeder Auslosung am Freitag um ca. Mittag UTC können Sie die Ergebnisse und
 
 ![](https://lh3.googleusercontent.com/ClT6Dx6rJlfFmzmyxwCGwIUsDv-DuhzVAWN5Qt0sOulj2_zDrMJHDJvQqr6vS0t6IO090pstOi0BJTKADDVj7C_kspWM_f-M83EGERNiEvON-GTl_nvXANGH5etDbnBmieRSZ66G8krr8GUWc2s5SDw)
 
-Suchen Sie anhand des Auslosungsdatums die entsprechende Runde für die Kohorte, die Sie überprüfen möchten — an jedem Freitag kann es mehr als eine Auslosung geben, da es verschiedene Kohorten gibt. Stellen Sie sicher, dass Sie die richtige Auslosung für die gesuchte Kohorte überprüfen. Lesen Sie mehr über [die Kohorten-Struktur hier](https://docs.pancakeswap.finance/products/pottery#pottery-cohort).
+Suchen Sie anhand des Auslosungsdatums die entsprechende Runde für die Kohorte, die Sie überprüfen möchten — an jedem Freitag kann es mehr als eine Auslosung geben, da es verschiedene Kohorten gibt. Stellen Sie sicher, dass Sie die richtige Auslosung für die gesuchte Kohorte überprüfen. Lesen Sie mehr über [die Kohorten-Struktur hier](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery#pottery-cohort).
 
 ## Den Preis einfordern
 

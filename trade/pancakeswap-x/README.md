@@ -8,7 +8,7 @@ PancakeSwap X stellt eine völlig neue Art vor, Ihre bevorzugten Assets auf Panc
 * Gasfreie Swaps
 
 {% hint style="success" %}
-**PancakeSwap X ist live auf Arbitrum, Ethereum und Base und unterstützt Krypto-Token; auf BNB Chain unterstützt es ausschließlich Real-World-Assets (RWAs).**
+**PancakeSwap X ist live auf Arbitrum, Ethereum, BNB Chain, Base und Robinhood Chain und unterstützt Krypto-Token-Swaps. Real-World-Assets (RWAs) werden zusätzlich auf BNB Chain, Ethereum und Robinhood Chain unterstützt.**
 {% endhint %}
 
 > **Möchten Sie integrieren? Die technische Anleitung zur PancakeSwap X-Integration finden Sie** [**hier**](https://www.notion.so/PCSX-Tech-Integration-Guide-0eb33e93295644e9855ec2c34b58b0c4?source=copy_link)**.**

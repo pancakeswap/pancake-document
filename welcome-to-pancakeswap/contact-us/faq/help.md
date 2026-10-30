@@ -12,7 +12,7 @@ Wir haben die Hilfethemen in Abschnitte unterteilt, damit Sie schnell finden, wa
 
 ### Fehlerbehebung
 
-Die [Seite zur Fehlerbehebung](https://docs.pancakeswap.finance/help/troubleshooting) enthält eine Sammlung von Fehlern, auf die Nutzer bei der Verwendung von PancakeSwap stoßen können. Sie zeigt das Problem zusammen mit einer Lösung und einer Erklärung, warum das Problem aufgetreten ist.
+Die [Seite zur Fehlerbehebung](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/faq/troubleshooting) enthält eine Sammlung von Fehlern, auf die Nutzer bei der Verwendung von PancakeSwap stoßen können. Sie zeigt das Problem zusammen mit einer Lösung und einer Erklärung, warum das Problem aufgetreten ist.
 
 ### Allgemeine FAQ
 

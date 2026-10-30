@@ -44,7 +44,7 @@ Beachten Sie, dass die neue `PoolInfo`-Struktur das LP-Token-Adressfeld **nicht*
 
 Verwenden Sie `lpToken.balanceOf(MasterChef.address)`, um den Gesamt-Staking-Betrag für einen beliebigen Farm-Pool abzufragen.
 
-In MasterChef v2 kann der Anteil der Benutzer jedoch erhöht werden (demnächst verfügbar). Daher werden Rewards mit einem neuen `totalBoostedShare`-Feld in `PoolInfo` als Gesamtanteile jedes Pools berechnet. Wenn beispielsweise Pool 0 zwei Benutzer hat, Benutzer1 100 LPs stakt (ohne Boost) und Benutzer2 100 stakt (mit `boostMultiplier` von 1,05), wird `totalBoostedShare` zu 205. Dies führt dazu, dass Benutzer2 mehr Rewards erhält.
+In MasterChef v2 kann der Anteil der Benutzer jedoch erhöht werden. Daher werden Rewards mit einem neuen `totalBoostedShare`-Feld in `PoolInfo` als Gesamtanteile jedes Pools berechnet. Wenn beispielsweise Pool 0 zwei Benutzer hat, Benutzer1 100 LPs stakt (ohne Boost) und Benutzer2 100 stakt (mit `boostMultiplier` von 1,05), wird `totalBoostedShare` zu 205. Dies führt dazu, dass Benutzer2 mehr Rewards erhält.
 
 #### CakePerBlock
 

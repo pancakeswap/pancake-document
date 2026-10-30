@@ -110,5 +110,5 @@ Während des Vesting-Zeitraums können Sie jederzeit zur CAKE.PAD-Event-Seite zu
 
 Nachdem Sie Ihre neuen Token erhalten haben, können Sie sie für sich arbeiten lassen! Sie können Liquidität für Ihren Token hinzufügen, um Handelsgebühren und Farming-Rewards zu erhalten.
 
-* Informationen zum Hinzufügen von Liquidität finden Sie [hier](https://docs.pancakeswap.finance/get-started/liquidity-guide).
+* Informationen zum Hinzufügen von Liquidität finden Sie [hier](https://docs.pancakeswap.finance/earn/pancakeswap-pools/liquidity-guide).
 * Informationen zum Farming finden Sie [hier](../yield-farming/).

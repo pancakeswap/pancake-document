@@ -71,7 +71,7 @@ Wenn Sie die Preisspannenkonfiguration einer Liquiditätsposition anpassen möch
 In Farm v3 kann der CAKE-Reward-APR zwischen Liquiditätspositionen variieren. Er basiert auf folgenden Faktoren:
 
 * CAKE-Emissionsrate an Farms\
-  \- Mehr CAKE erzeugt einen höheren Ertrag für alle Farms. Lesen Sie mehr auf [unserer Tokenomics-Seite](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics).
+  \- Mehr CAKE erzeugt einen höheren Ertrag für alle Farms. Lesen Sie mehr auf [unserer Tokenomics-Seite](https://docs.pancakeswap.finance/protocol/cake-tokenomics).
 * Farm-Multiplikator\
   \- Farms mit einem höheren Multiplikator erhalten mehr CAKE im Verhältnis zu allen anderen Farms. Bitte beachten Sie, dass v3- und v2- + StableSwap-Farms zwei separate Multiplikatoren-Sätze verwenden. Auch Farms auf Ethereum und BNB Chain verwenden zwei separate Multiplikatoren-Sätze.
 * Die Anzahl der in der Position hinterlegten Token\
@@ -111,12 +111,10 @@ Eine einzelne Farm erhält CAKE-Emissionen basierend auf:
 
 `CAKE pro Block/Sekunde = C / B × A`
 
-Die oben genannten Zahlen finden Sie in den jeweiligen [MasterChef](/broken/pages/-MeTWzQOSmb1ej51HT0I)-Contracts.
+Die oben genannten Zahlen finden Sie in den jeweiligen [MasterChef](https://developer.pancakeswap.finance/contracts/masterchef/addresses)-Contracts.
 
 
 
 ### Kann ich bCAKE in v3-Farms verwenden?
 
-Ja
-
-bCAKE für V3-Farms kommt sehr bald nach der Bereitstellung von PancakeSwap Farm V3. Bleiben Sie dran.
+Ja.

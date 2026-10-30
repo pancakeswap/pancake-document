@@ -27,7 +27,7 @@ Nach der Verbindung sehen Sie folgende Informationen:
 4. **Meine Gesamtbelohnungen**: Die gesamte CAKE-Menge, die Sie einlösen und beanspruchen können, bestehend aus:
 
 * **CAKE Pool-Belohnungen**: Legacy-CAKE Pool-Belohnungen
-* **Revenue Sharing-Belohnungen**: Verdient durch CAKE-Staking ([Weitere Informationen](https://docs.pancakeswap.finance/earn/cake-staking/revenue-sharing/earn-cake-weekly))
+* **Revenue Sharing-Belohnungen**: Verdient durch CAKE-Staking ([Weitere Informationen](https://docs.pancakeswap.finance/welcome-to-pancakeswap/vecake-sunset/archive-vecake/earn-cake-weekly))
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Connected%20view%20balance.png" alt=""><figcaption></figcaption></figure>
 

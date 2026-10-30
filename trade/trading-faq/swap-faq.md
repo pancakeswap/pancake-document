@@ -207,7 +207,7 @@ Aus dem Token-Guthaben-Feld auf BscScan können Sie prüfen, welcher Token in de
 
 Nach der Bestätigung müssen Sie das andere Asset manuell in den Pool-Vertrag übertragen. Dies können Sie in der Wallet-App Ihrer Wahl tun, indem Sie die Pool-Adresse als Empfänger eingeben.
 
-Sie können einen beliebigen Betrag übertragen, aber da dies effektiv „Spenden" von Assets an einen Pool ist, übertragen Sie Ihre Assets in eine Liquiditätsposition ohne Prägung von Liquiditäts-Token. Daher empfehlen wir, diesen Betrag minimal zu halten.
+Sie können einen beliebigen Betrag übertragen, aber da dies effektiv „Spenden" von Assets an einen Pool ist, übertragen Sie Ihre Assets in einen Liquiditätspool ohne Prägung von Liquiditäts-Token. Daher empfehlen wir, diesen Betrag minimal zu halten.
 
 {% hint style="warning" %}
 WICHTIG: Nachdem Sie den Token übertragen haben, müssen Sie sofort `sync()` im Pool aufrufen.
