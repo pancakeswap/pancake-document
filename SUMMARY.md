@@ -79,9 +79,9 @@
     * [키친 팀](welcome-to-pancakeswap/about-us/team/the-kitchen-team.md)
     * [셰프 되기](welcome-to-pancakeswap/about-us/team/become-a-chef/README.md)
       * [비즈니스 개발 리드](welcome-to-pancakeswap/about-us/team/become-a-chef/business-development-lead.md)
-      * [마케팅 총괄](welcome-to-pancakeswap/about-us/team/become-a-chef/business-development-lead-1.md)
-      * [비즈니스 개발 매니저 (AMM)](welcome-to-pancakeswap/about-us/team/become-a-chef/business-development-lead-1-1.md)
-      * [비즈니스 개발 매니저 (Liquidity Hub)](welcome-to-pancakeswap/about-us/team/become-a-chef/business-development-lead-1-1-1.md)
+      * [시니어 디자이너](welcome-to-pancakeswap/about-us/team/become-a-chef/senior_designer.md)
+      * [비즈니스 개발 매니저 (AMM)](welcome-to-pancakeswap/about-us/team/become-a-chef/business-development-lead-1.md)
+      * [비즈니스 개발 매니저 (Liquidity Hub)](welcome-to-pancakeswap/about-us/team/become-a-chef/business-development-lead-1-1.md)
       * [커뮤니티 매니저 (CN)](welcome-to-pancakeswap/about-us/team/become-a-chef/community-manager-cn.md)
       * [커뮤니티 매니저](welcome-to-pancakeswap/about-us/team/become-a-chef/community-manager.md)
       * [시니어 프론트엔드 엔지니어](welcome-to-pancakeswap/about-us/team/become-a-chef/frontend-engineer.md)
@@ -106,6 +106,7 @@
       * [비즈니스 개발 매니저](welcome-to-pancakeswap/about-us/team/become-a-chef/business-development-manager-1.md)
       * [데이터 분석가](welcome-to-pancakeswap/about-us/team/become-a-chef/data-analyst.md)
       * [프로덕트 매니저 \[예측 시장\]](welcome-to-pancakeswap/about-us/team/become-a-chef/product-manager-prediction-markets.md)
+      * [마케팅 총괄](welcome-to-pancakeswap/about-us/team/become-a-chef/head-of-marketing.md)
   * [브랜드 및 로고](welcome-to-pancakeswap/about-us/brand.md)
 
 ***
