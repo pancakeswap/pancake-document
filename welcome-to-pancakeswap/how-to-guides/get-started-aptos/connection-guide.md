@@ -1,7 +1,5 @@
 # Conectar tu billetera a PancakeSwap
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-connect-wallet-header.png)
-
 ## Conectar tu billetera
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/wallet-connection-aptos.png" alt=""><figcaption></figcaption></figure>
@@ -16,7 +14,7 @@
 
 ## **Conectar a Aptos Mainnet**
 
-Aptos tiene múltiples redes, incluidas varias devnets y testnets. Pero para usar PancakeSwap en Aptos Chain, asegúrate de que tu billetera esté conectada a **Aptos Mainnet**.&#x20;
+Aptos tiene múltiples redes, incluidas varias devnets y testnets. Pero para usar PancakeSwap en Aptos Chain, asegúrate de que tu billetera esté conectada a **Aptos Mainnet**.
 
 Así es como hacerlo:
 

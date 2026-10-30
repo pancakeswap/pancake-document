@@ -29,19 +29,19 @@ Proceso:
 
 Elige un par de tokens (p. ej., BNB/CAKE) y la cantidad que deseas vender/comprar
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%2011.07.07%20AM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%2011.07.07%E2%80%AFAM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 Establece tu precio objetivo/límite
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%2011.07.35%20AM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%2011.07.35%E2%80%AFAM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 Coloca la orden límite y haz clic en "Confirmar". La liquidez se deposita en tu nombre en el tick más cercano al precio límite
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%2011.08.49%20AM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%2011.08.49%E2%80%AFAM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 Una vez que el precio del pool alcance tu objetivo, tu orden se ejecuta. Los tokens de salida deseados más las comisiones se retiran automáticamente y se envían a tu billetera.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%201.01.47%20PM.png" alt="" width="370"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%201.01.47%E2%80%AFPM.png" alt="" width="370"><figcaption></figcaption></figure>
 
 
 
@@ -49,7 +49,7 @@ Una vez que el precio del pool alcance tu objetivo, tu orden se ejecuta. Los tok
 
 Puedes ver el estado de tu orden haciendo clic aquí
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%202.12.50%20PM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%202.12.50%E2%80%AFPM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Tu orden puede encontrarse en uno de los siguientes estados:**
 

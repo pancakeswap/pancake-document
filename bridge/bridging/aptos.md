@@ -7,7 +7,7 @@ description: Puentea CAKE entre cadenas EVM y Aptos
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28113%29.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-La siguiente guía usa BNB Chain como ejemplo de cadena EVM. El mismo proceso puede aplicarse a Ethereum.
+La siguiente guía usa BNB Chain como ejemplo de cadena EVM. El mismo proceso puede aplicarse a Ethereum para puentear **hacia** Aptos. Puentear **desde** Aptos actualmente solo admite BNB Smart Chain como destino.
 {% endhint %}
 
 ## Puentea CAKE de BNB Smart Chain a Aptos

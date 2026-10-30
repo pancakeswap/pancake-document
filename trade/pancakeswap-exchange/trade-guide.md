@@ -6,9 +6,9 @@ Hacer trading en PancakeSwap es muy sencillo comparado con la mayoría de los ex
 
 **Prepararse para hacer trading**
 
-Antes de poder hacer trading, necesitarás una billetera compatible con BNB Chain o Ethereum. Puedes aprender a obtener una [aquí](https://docs.pancakeswap.finance/get-started/wallet-guide). También necesitarás algunos tokens BEP-20 o ERC-20 para intercambiar. Puedes aprender cómo obtenerlos [aquí](https://docs.pancakeswap.finance/get-started/bep20-guide).
+Antes de poder hacer trading, necesitarás una billetera compatible con BNB Chain o Ethereum. Puedes aprender a obtener una [aquí](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/wallet-guide). También necesitarás algunos tokens BEP-20 o ERC-20 para intercambiar. Puedes aprender cómo obtenerlos [aquí](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/bep20-guide).
 
-Alternativamente, puedes aprender cómo obtener una billetera compatible con Aptos [aquí](https://docs.pancakeswap.finance/get-started-aptos/wallet-guide), y cómo obtener algunas monedas de Aptos para intercambiar [aquí](https://docs.pancakeswap.finance/get-started-aptos/aptos-coin-guide).
+Alternativamente, puedes aprender cómo obtener una billetera compatible con Aptos [aquí](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-aptos/wallet-guide), y cómo obtener algunas monedas de Aptos para intercambiar [aquí](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-aptos/aptos-coin-guide).
 
 ## Trading en el exchange de PancakeSwap
 
@@ -64,7 +64,7 @@ El Smart Router es ahora la ruta predeterminada para PancakeSwap Exchange V3. Si
 
 Para aprender más sobre cómo personalizar tus rutas de trading, [haz clic aquí](fees-and-routes.md).&#x20;
 
-Para más información sobre StableSwap, [haz clic aquí](/broken/pages/nNPogTZMxocdyFIBYbkE), y para la integración con Market Makers, [haz clic aquí](market-maker-integration.md).
+Para más información sobre StableSwap, [haz clic aquí](../stableswap/classic-stableswap.md), y para la integración con Market Makers, [haz clic aquí](market-maker-integration.md).
 
 ## FAQ
 

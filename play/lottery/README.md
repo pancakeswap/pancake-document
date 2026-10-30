@@ -15,9 +15,9 @@ Jugar la Lotería de PancakeSwap te da la oportunidad de ganar enormes premios e
 
 Los precios de los boletos de Lotería se establecen al inicio de la nueva ronda de lotería, con un objetivo de $5 USD (puede variar ligeramente con fluctuaciones de precio repentinas).
 
-Comprar varios boletos de Lotería a la vez ofrece un descuento por volumen en tu compra. Puedes comprar hasta 100 boletos en una sola compra, con el descuento comenzando de forma pequeña con 2 boletos y escalando hasta un 10% con 100 boletos.
+Comprar varios boletos de Lotería a la vez ofrece un descuento por volumen en tu compra. Puedes comprar hasta 100 boletos en una sola compra, con el descuento comenzando de forma pequeña con 2 boletos y escalando hasta casi un 5% (4.95%) con 100 boletos.
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-22%20at%209.59.52%20PM.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-22%20at%209.59.52%E2%80%AFPM.png)
 
 ## **Cómo ganar**
 

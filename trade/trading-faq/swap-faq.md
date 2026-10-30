@@ -207,7 +207,7 @@ Del campo de saldo de token en BscScan, puedes verificar qué token fue deposita
 
 Una vez confirmado, debes transferir manualmente el otro activo al contrato del pool. Puedes hacerlo en la aplicación de billetera que prefieras ingresando la dirección del pool como receptor.
 
-Puedes transferir cualquier importe, pero dado que esto es efectivamente "donar" activos a un pool, estarás transfiriendo tus activos a una liquidez sin acuñar tokens de liquidez. Por lo tanto recomendamos mantener este importe al mínimo.
+Puedes transferir cualquier importe, pero dado que esto es efectivamente "donar" activos a un pool, estarás transfiriendo tus activos a un pool de liquidez sin acuñar tokens de liquidez. Por lo tanto recomendamos mantener este importe al mínimo.
 
 {% hint style="warning" %}
 IMPORTANTE: Una vez que hayas transferido el token, debes llamar a `sync()` inmediatamente en el pool.

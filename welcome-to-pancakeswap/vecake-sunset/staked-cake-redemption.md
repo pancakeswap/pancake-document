@@ -27,7 +27,7 @@ Una vez conectado, verás la siguiente información:
 4. **Mis Recompensas Totales**: El total de CAKE que eres elegible de canjear y reclamar, compuesto por:
 
 * **Recompensas del Pool de CAKE**: Recompensas heredadas del Pool de CAKE
-* **Recompensas de Compartir Ingresos**: Ganadas por hacer Staking de CAKE ([Más información](https://docs.pancakeswap.finance/earn/cake-staking/revenue-sharing/earn-cake-weekly))
+* **Recompensas de Compartir Ingresos**: Ganadas por hacer Staking de CAKE ([Más información](https://docs.pancakeswap.finance/welcome-to-pancakeswap/vecake-sunset/archive-vecake/earn-cake-weekly))
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Connected%20view%20balance.png" alt=""><figcaption></figcaption></figure>
 

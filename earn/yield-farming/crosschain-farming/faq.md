@@ -83,8 +83,6 @@ Esta tarifa solo se cobra una vez en la primera transacción de "staking".
 
 ### ¿De dónde provienen las emisiones?
 
-_actualizado el 10 de octubre de 2022_
-
 Por ahora, los Chefs han desviado 0,0189 CAKE por bloque del pool de CAKE a todas las granjas multicadena.
 
 Aquí está el desglose de emisiones:

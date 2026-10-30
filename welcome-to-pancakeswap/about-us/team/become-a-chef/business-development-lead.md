@@ -1,63 +1,59 @@
-# Líder de Desarrollo de Negocios
+# Líder de Desarrollo de Negocio
 
-PancakeSwap está haciendo la transición del principal DEX AMM en BNB Chain a un Liquidity Hub completo, agregando y gestionando liquidez de pools AMM nativos, capital institucional y canales de distribución externos. Este rol lidera una de las tres divisiones de BD especializadas en esa construcción.
+PancakeSwap está pasando de ser el principal DEX AMM de BNB Chain a convertirse en un Liquidity Hub completo, que agrega y gestiona liquidez de pools AMM nativos, capital institucional y canales de distribución externos. Este puesto lidera una de las tres divisiones especializadas de BD en esa construcción.
 
-### Sobre el rol
+### Sobre el puesto
 
-Estamos reestructurando nuestro equipo de BD en torno a tres fuentes de liquidez, no cadenas. Como Líder de BD con responsabilidad de extremo a extremo: AMM Tradicional, Liquidez Institucional + RWA, Distribución de Nuevos Productos. Serás el experto interno en la materia, responsable de las asociaciones, los KPIs y el pipeline desde el primer contacto hasta la integración en vivo.
+Estamos reestructurando nuestro equipo de BD en torno a tres fuentes de liquidez, no a cadenas. Como BD Lead, serás responsable de principio a fin de: AMM tradicional, Liquidez institucional + RWA y Distribución de nuevos productos. Serás el experto interno en la materia, responsable de las alianzas, los KPI y el pipeline desde el primer contacto hasta la integración en producción.
 
-Este es un rol de operador, no de relaciones. Medimos resultados: volumen generado por CAKE emitido, volumen de trading institucional, integraciones de API de agregador realizadas. Se espera que muestres progreso semanal contra una lista de prioridades concreta del Q2 2026 desde el primer día.
+Este es un puesto operativo, no de relaciones. Medimos resultados: volumen generado por CAKE emitido, volumen de trading institucional, integraciones de API de agregador entregadas. Se espera que muestres avances semanales frente a una lista concreta de prioridades del Q2 2026 desde el primer día.
 
+#### 1. AMM tradicional
 
+* Responsable de la eficiencia de emisión de CAKE, la incorporación de proyectos (V2/V3/Infinity CLAMM) y el pipeline de launchpad multicadena en BNB Chain, Base y SOL.
+* **Métrica principal:** volumen por unidad de CAKE emitido.
+* **Secundaria:** nuevos pools activos por trimestre, proyectos de primer lanzamiento por cadena.
+* **Urgente ahora:** relaciones con fondos del ecosistema de Base + SOL · pipeline de proyectos de Infinity CLAMM
 
-1. **AMM Tradicional**
+#### 2. Liquidez institucional + RWA
 
-* Gestionar la eficiencia de emisión de CAKE, la incorporación de proyectos (V2/V3/Infinity CLAMM) y el pipeline del launchpad multicadena en BNB Chain, Base y SOL.&#x20;
-* Métrica principal: volumen por unidad de CAKE emitido.&#x20;
-* Secundaria: nuevos pools activos por trimestre, proyectos de primer lanzamiento por cadena.
-* **Urgente ahora:** relaciones con fondos del ecosistema Base + SOL · pipeline de proyectos Infinity CLAMM
+* Responsable de la incorporación de emisores de acciones tokenizadas y RWA (xStocks/Backed Finance/Ondo/Robinhood), la incorporación de creadores de mercado (Wintermute, Jump, GSR) y la distribución de RFQ de PancakeSwap X hacia Kraken, Bybit y OKX.
+* Construir el pipeline institucional de PropAMM.
+* **Métrica principal:** volumen de trading mensual de PancakeSwap X, emisores de RWA incorporados.
+* **Urgente ahora:** pools de xStocks en BNB + Base · alianza con Backed Finance / Kraken
 
+#### 3. Distribución de nuevos productos
 
+* Reemplazar a 1inch como la API de agregador predeterminada para billeteras (OKX, Binance, MetaMask, Trust) y protocolos DeFi (Aave, Venus, Morpho).
+* Responsable del diseño del programa de reparto de ingresos, del empaquetado de API de marca blanca y del análisis de cambio de competidores.
+* **Secundaria:** incorporación institucional de perps (\~20% del puesto).
+* **Métrica principal:** integraciones de API entregadas por trimestre, volumen mensual enrutado por el agregador.
+* **Urgente ahora:** análisis profundo de la competencia de 1inch, LiFi, Liquid Mesh · elaboración de la lista de objetivos
 
-2. **Liquidez Institucional + RWA**
+### Qué harás
 
-* Gestionar la incorporación de acciones tokenizadas y emisores de RWA (xStocks/Backed Finance/Ondo/Robinhood), la incorporación de market makers (Wintermute, Jump, GSR) y la distribución RFQ de PancakeSwap X en Kraken, Bybit, OKX.&#x20;
-* Construir el pipeline institucional de PropAMM. Métrica principal: volumen mensual de trading de PancakeSwap X, emisores de RWA incorporados.
-* **Urgente ahora:** pools de xStocks en BNB + Base · asociación Backed Finance / Kraken
+* Ser responsable de todo el ciclo de vida de las alianzas: prospección, negociación, integración y métricas continuas de salud.
+* Informar semanalmente al CEO sobre el estado del pipeline y los KPI de la división; señalar los bloqueos con soluciones propuestas, no solo con problemas.
+* Participar en la sincronización semanal de BD entre divisiones para detectar solapamientos de pipeline y coordinar enfoques conjuntos.
+* Realizar inteligencia competitiva continua específica del ámbito de tu división; traducir los hallazgos en diferenciación accionable.
+* A medida que la división madure, crear y orientar a un pequeño equipo de gerentes de BD a tu cargo.
 
+### Qué buscamos
 
+#### Requisitos
 
-3. **Distribución de Nuevos Productos**
+* Más de 3 años en BD, alianzas o crecimiento en DeFi, cripto o fintech, con un historial de acuerdos firmados, no solo de pipeline
+* Mentalidad cuantitativa: cómodo leyendo datos on-chain, paneles de TVL/volumen y fijando tus propios objetivos de KPI desde primeros principios
+* Una sólida red existente en el ámbito de la división a la que apuntas (proyectos AMM / emisores institucionales/RWA / equipos de ecosistemas de billeteras o protocolos)
+* Autónomo y estructurado: capaz de gestionar varios acuerdos en paralelo sin supervisión y de comunicar los bloqueos a tiempo
+* Mentalidad de responsabilidad total
 
-* Reemplazar a 1inch como la API de agregador predeterminada para billeteras (OKX, Binance, MetaMask, Trust) y protocolos DeFi (Aave, Venus, Morpho).&#x20;
-* Gestionar el diseño del programa de reparto de ingresos, el empaquetado de API de marca blanca y el análisis de cambio de competidores. Secundaria: incorporación institucional de perps (\~20% del rol).&#x20;
-* Métrica principal: integraciones de API realizadas por trimestre, volumen mensual enrutado por el agregador.
-* **Urgente ahora:** Análisis profundo de competidores de 1inch, LiFi, Liquid Mesh · construcción de lista de objetivos
+#### Deseable
 
-### Lo que harás
+* Experiencia previa en un DEX, AMM, agregador o plataforma de RWA
+* Capacidad de leer interacciones de contratos inteligentes o interpretar paneles de Dune de forma independiente
+* Experiencia creando o gestionando un equipo de BD desde cero
 
-* Ser responsable del ciclo de vida completo de las asociaciones: búsqueda, negociación, integración y métricas de salud continuas\
-  Informar semanalmente sobre el estado del pipeline y los KPIs de la división al CEO; señalar bloqueos con soluciones propuestas, no solo problemas
-* Participar en la sincronización semanal de BD entre divisiones para identificar solapamientos en el pipeline y coordinar enfoques conjuntos
-* Realizar inteligencia competitiva continua específica al dominio de tu división; traducir los hallazgos en diferenciación accionable
-* A medida que la división madure, construir y mentorear un pequeño equipo de gerentes de BD bajo tu cargo
+### Cómo postular
 
-### Lo que buscamos
-
-**Requerido**
-
-* 3+ años de BD, asociaciones o crecimiento en DeFi, crypto o fintech, con un historial de acuerdos firmados, no solo pipeline
-* Mentalidad cuantitativa: cómodo/a leyendo datos on-chain, dashboards de TVL/volumen y estableciendo tus propios objetivos de KPI desde principios básicos
-* Sólida red existente en el dominio objetivo de tu división (proyectos AMM / emisores institucionales/RWA / equipos del ecosistema de billeteras o protocolos)
-* Autónomo/a y estructurado/a: capaz de gestionar múltiples acuerdos paralelos sin supervisión, y comunicar bloqueos con anticipación
-* Mentalidad de responsabilidad
-
-**Es un plus tener**
-
-* Experiencia previa en un DEX, AMM, agregador o plataforma RWA
-* Capacidad para leer interacciones de contratos inteligentes o interpretar dashboards de Dune de forma independiente
-* Experiencia construyendo o gestionando un equipo de BD desde cero
-
-
-
-**Cómo aplicar:** Envía tu currículum a hiring@pancakeswap.com, ¡nos encantaría saber de ti!
+Envía tu currículum a hiring@pancakeswap.com, ¡nos encantaría saber de ti!

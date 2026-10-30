@@ -52,7 +52,7 @@ El APR global se calcula usando la cantidad total de liquidez activa y en Stakin
 Los APRs para posiciones individuales pueden variar según la configuración de su rango de precios.
 
 $$
-ARP_p = {\frac{USD_{r}}{USD_{p}}} {\frac{L_{p}}{L_{lm}}}
+APR_p = {\frac{USD_{r}}{USD_{p}}} {\frac{L_{p}}{L_{lm}}}
 $$
 
 * $$USD_r$$: Recompensa de CAKE ganada en USD por año en el pool

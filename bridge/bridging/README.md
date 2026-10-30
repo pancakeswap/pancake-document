@@ -29,7 +29,7 @@ Aquí hay algunas razones por las que quizás quieras puentear:
 
 ## CAKE, un token multicadena
 
-Con nuestra expansión y despliegue multicadena, CAKE es ahora un token multicadena nativo de BNB Chain, pero también disponible en Base, Arbitrum, Solana, Ethereum, ZKsync, Linea, opBNB y Aptos.
+Con nuestra expansión y despliegue multicadena, CAKE es ahora un token multicadena nativo de BNB Chain, pero también disponible en Base, Arbitrum, Solana, Ethereum, ZKsync, Linea, opBNB, Monad y Aptos.
 
 CAKE en cualquiera de las otras cadenas equivale a CAKE en BNB Smart Chain. Siempre se puede puentear entre estas cadenas en una proporción 1:1 y sin ninguna comisión en CAKE.
 
@@ -67,6 +67,7 @@ Actualmente integramos con:
 * LayerZero
 * Stargate
 * Meson
+* Mayan
 
 > Nota: Cada proveedor tiene diferentes mecánicas de puenteo, cadenas compatibles, comisiones y límites.
 
@@ -83,6 +84,9 @@ Actualmente integramos con:
 * opBNB
 * ZKsync
 * Linea
+* Monad
+* Robinhood
+* Solana
 * Aptos (sitio V1)
 
 #### Tokens disponibles para puentear
@@ -197,3 +201,7 @@ Si una transacción está bloqueada por mucho tiempo, consulta el explorador cor
    * `cakeOFT`: `0x3055913c90Fcc1A6CE9a358911721eEb942013A1` ([link](https://basescan.org/address/0x3055913c90Fcc1A6CE9a358911721eEb942013A1#code))
 8. **opBNB**
    * `cakeOFT`: `0x2779106e4F4A8A28d77A24c18283651a2AE22D1C` ([link](https://opbnbscan.com/address/0x2779106e4F4A8A28d77A24c18283651a2AE22D1C?tab=Contract\&p=1))
+9. **Monad**
+   * `cakeOFT`: `0xF59D81cd43f620E722E07f9Cb3f6E41B031017a3`
+10. **Solana**
+    * `cakeOFT`: `4qQeZ5LwSz6HuupUu8jCtgXyW1mYQcNbFAW1sWZp89HL`

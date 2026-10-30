@@ -44,7 +44,7 @@ Ten en cuenta que el nuevo struct `PoolInfo` **no** contiene el campo de direcci
 
 Usa `lpToken.balanceOf(MasterChef.address)` para obtener el monto total de Staking para cualquier pool de farm.
 
-Sin embargo, en MasterChef v2, las participaciones de los usuarios pueden ser potenciadas (próximamente). Por lo tanto, las recompensas se calculan usando un nuevo campo `totalBoostedShare` en `PoolInfo` como el total de participaciones de cada pool. Por ejemplo, si el pool 0 tiene 2 usuarios, el usuario1 hace Staking de 100 LPs (sin potenciación), el usuario2 hace Staking de 100 (con `boostMultiplier` de 1.05), entonces el `totalBoostedShare` se convertirá en 205. Resultando en que el usuario2 gane más recompensas.
+Sin embargo, en MasterChef v2, las participaciones de los usuarios pueden ser potenciadas. Por lo tanto, las recompensas se calculan usando un nuevo campo `totalBoostedShare` en `PoolInfo` como el total de participaciones de cada pool. Por ejemplo, si el pool 0 tiene 2 usuarios, el usuario1 hace Staking de 100 LPs (sin potenciación), el usuario2 hace Staking de 100 (con `boostMultiplier` de 1.05), entonces el `totalBoostedShare` se convertirá en 205. Resultando en que el usuario2 gane más recompensas.
 
 #### CakePerBlock
 

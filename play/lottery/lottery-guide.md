@@ -5,7 +5,7 @@
 ¡La Lotería de PancakeSwap no solo es una buena forma de acumular CAKE, sino que también es muy divertida! Esta guía te explicará cómo participar en la Lotería.
 
 {% hint style="info" %}
-La Lotería ha cambiado un poco desde su primera versión. Lottery v2 te permite ganar con más frecuencia, tener algo de control sobre tus boletos y tiene más potencial para enormes jackpots de CAKE que te harán la boca agua. Aprende más sobre [PancakeSwap Lottery v2 aquí](https://docs.pancakeswap.finance/products/lottery).
+La Lotería ha cambiado un poco desde su primera versión. Lottery v2 te permite ganar con más frecuencia, tener algo de control sobre tus boletos y tiene más potencial para enormes jackpots de CAKE que te harán la boca agua. Aprende más sobre [PancakeSwap Lottery v2 aquí](https://docs.pancakeswap.finance/play/lottery).
 {% endhint %}
 
 ## Decidir si quieres participar en una ronda

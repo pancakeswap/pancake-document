@@ -1,7 +1,5 @@
 # FAQ de Aptos
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Aptos-faq-header.png" alt=""><figcaption></figcaption></figure>
-
 Esta página de FAQ responde algunas de las preguntas más frecuentes de la comunidad PancakeSwap sobre nuestro despliegue en Aptos.
 
 ## General
@@ -29,8 +27,6 @@ La lista predeterminada en Aptos Swap solo muestra monedas de proyectos conocido
 Si quieres intercambiar otras monedas que no están en la lista predeterminada, impórtalas usando su dirección de moneda.
 
 ### ¿Por qué no puedo intercambiar CAKE en Aptos Swap?
-
-_actualizado el 2022-12-13_
 
 El token/moneda CAKE ya está disponible en Aptos. Consulta nuestra [guía de CAKE Bridging](cake-bridging-guide.md) para saber más sobre cómo puentear tokens CAKE entre Aptos y BNB Smart Chain.
 
