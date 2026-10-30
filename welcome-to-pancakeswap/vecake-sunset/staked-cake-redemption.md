@@ -27,7 +27,7 @@
 4. **合計報酬**：償還・クレームできる CAKE の合計で、以下から構成されます。
 
 * **Cake プール報酬**：レガシー CAKE プールの報酬
-* **収益分配報酬**：CAKE のステーキングから獲得（[詳細情報](https://docs.pancakeswap.finance/earn/cake-staking/revenue-sharing/earn-cake-weekly)）
+* **収益分配報酬**：CAKE のステーキングから獲得（[詳細情報](https://docs.pancakeswap.finance/welcome-to-pancakeswap/vecake-sunset/archive-vecake/earn-cake-weekly)）
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Connected%20view%20balance.png" alt=""><figcaption></figcaption></figure>
 

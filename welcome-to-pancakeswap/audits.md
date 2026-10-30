@@ -80,7 +80,7 @@
 
 * [OtterSecによるPancakeSwap CAKE OFT（Aptosトークンブリッジング）セキュリティ監査](https://1397868517-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2FMa0anQ4GXvFPyVLjFRxr%2FPancakeSwap-OFT-Audit-OtterSec.pdf?alt=media\&token=cbb22eb1-124c-4b07-9a73-175e019dde53)（2022年12月）
 
-#### Aptos Pancakeswap IFO
+#### Aptos PancakeSwap IFO
 
 * [OtterSecによるPancakeSwap Aptos IFOセキュリティ監査](https://docs.pancakeswap.finance/code/smart-contracts-aptos/ifo#audits)（2022年12月）
 

@@ -1,7 +1,5 @@
 # ウォレットを作成する
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-make-a-crypto-wallet-header.png)
-
 AptosでPancakeSwapの旅を始めるには、まずAptosチェーンに対応したウォレットをセットアップする必要があります。ウォレットはデスクトップパソコンとスマートフォンの両方でご利用いただけます。ご自身のニーズに最適なウォレットをお選びください。
 
 {% hint style="danger" %}

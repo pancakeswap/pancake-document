@@ -1,7 +1,5 @@
 # BEP20 トークンを入手する
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-get-bep20-tokens-header.png)
-
 BNB Smart Chain (BSC) のネイティブトークンは **BEP20** 形式です。
 
 BSC 上でほとんどの操作を行うには、BEP20 形式の BNB でガス代を支払う必要があります。
@@ -22,7 +20,7 @@ BSC 上でほとんどの操作を行うには、BEP20 形式の BNB でガス�
 {% endtab %}
 
 {% tab title="💰 Binance" %}
-[**Binance.com**](https://github.com/pancakeswap/pancake-document/tree/255db0c7af28df2f9c1209daa5cdbd774490a666/get-started/www.binance.com)
+[**Binance.com**](https://www.binance.com)
 
 Binance アカウントをお持ちの方は、アカウントから BEP20 形式でトークンを出金できます。利用にはアカウントが必要です。
 

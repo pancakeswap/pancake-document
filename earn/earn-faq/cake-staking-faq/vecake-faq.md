@@ -114,8 +114,8 @@ Voting vCAKEはveCAKEをサポートするようにアップグレードされ�
 
 すべてのveCAKE保有者（ネイティブまたは移行済み）は、新しい収益分配プールに自動的に登録されます。収益シェアは既存のスケジュールに従って配布されます。旧収益分配プールは廃止され、ユーザーはベネフィットカードに移動して保留中の報酬をクレームできます。詳細はこちら：
 
-{% content-ref url="/broken/pages/wQegezs7c6A2HzQjPEjh" %}
-[壊れたリンク](/broken/pages/wQegezs7c6A2HzQjPEjh)
+{% content-ref url="revenue-sharing-faq.md" %}
+[Revenue Sharing FAQ](revenue-sharing-faq.md)
 {% endcontent-ref %}
 
 #### マルチシグウォレットはveCAKEの操作に使用できますか？
@@ -162,4 +162,4 @@ veCAKEからの他の多くのメリット（[Farm Yield Booster bCAKE](../../..
 
 これはDEXプロダクトで収集されたスワップ手数料から来るプロトコル収益分配によるインセンティブです。
 
-詳細は[収益分配](/broken/pages/wQegezs7c6A2HzQjPEjh)をご覧ください。
+詳細は[収益分配](revenue-sharing-faq.md)をご覧ください。

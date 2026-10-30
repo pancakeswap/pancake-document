@@ -102,7 +102,7 @@ Phantom と Solflare はいずれも以下で利用できます：
 * 中央集権型取引所で SOL を購入してウォレットに送金する
 * [pancakeswap.finance/bridge](https://pancakeswap.finance/bridge) でクロスチェーンブリッジを使って Solana にアセットをブリッジする
 
-[SOL の入手方法](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-sol/get-sol)を参照してください。
+[SOL の入手方法](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-sol/get-sol-cake-on-sol)を参照してください。
 
 ***
 

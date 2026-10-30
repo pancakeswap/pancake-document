@@ -8,20 +8,14 @@
 
 [https://blog.pancakeswap.finance/](https://blog.pancakeswap.finance/)
 
-## 🤳 Instagram
-
-[https://www.instagram.com/pancakeswap\_official](https://www.instagram.com/pancakeswap_official/)&#x20;
-
 ## [📺](https://emojipedia.org/es/televisi%C3%B3n) Youtube
 
-[https://www.youtube.com/@pancakeswap\_official](https://www.youtube.com/@pancakeswap_official)&#x20;
+[https://www.youtube.com/@pancakeswap\_official](https://www.youtube.com/@pancakeswap_official)
 
 {% hint style="danger" %}
-
-
-PancakeSwapのスタッフが皆様にダイレクトメッセージを送ることは一切ありません。例えばTelegramなどで、カスタマーサポートを名乗る人物から直接連絡があった場合は、すぐにブロックしてスパム報告を行ってください。
+PancakeSwapの関係者が、ダイレクトメッセージを送ることは決してありません。Telegramなどで、カスタマーサポートを名乗る人物から直接連絡があった場合は、ブロックしてスパムとして報告してください。
 {% endhint %}
 
 {% hint style="danger" %}
-**いかなる状況においても、シードフレーズや秘密鍵を他者に教えないでください。これらを要求する相手は、直ちにブロックして通報してください。**
+いかなる状況でも、秘密鍵やリカバリーフレーズを他人に教えてはいけません。それらを要求してくる相手は、直ちにブロックして報告してください。
 {% endhint %}

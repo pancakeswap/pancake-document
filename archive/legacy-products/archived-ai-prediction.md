@@ -54,6 +54,6 @@ AI予測はBNBチェーンの通常予測と似ていますが、いくつかの
 
 履歴タブのラウンド履歴で過去のラウンド価格とAIの決定を確認できます。すべてのラウンドはオンチェーンで精算されます。詳細は[予測コントラクト](https://arbiscan.io/address/0x1cdc19B13729f16C5284a0ACE825F83fC9d799f4)をご参照ください。
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-06-26%20at%208.02.17%20PM.png" alt=""><figcaption><p>右側の履歴タブをご参照ください</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-06-26%20at%208.02.17%E2%80%AFPM.png" alt=""><figcaption><p>右側の履歴タブをご参照ください</p></figcaption></figure>
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-06-26%20at%208.01.26%20PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-06-26%20at%208.01.26%E2%80%AFPM.png" alt=""><figcaption></figcaption></figure>

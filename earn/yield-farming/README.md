@@ -4,7 +4,7 @@
 
 Yield Farmsでは、LP Tokensをステーキングすることで、PancakeSwapをサポートしながらCAKEを獲得できます。
 
-ファーミングを始めるには、[ファームの使い方ガイド](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms)をご確認ください。
+ファーミングを始めるには、[ファームの使い方ガイド](https://docs.pancakeswap.finance/earn/yield-farming/how-to-use-farms/how-to-use-farms)をご確認ください。
 
 [ファームのスマートコントラクトの確認方法](../../archive/how-to-use-farms-with-bscscan.md)
 

@@ -1,42 +1,41 @@
-# How to Trade on the PancakeSwap Exchange
+# PancakeSwap Exchangeでの取引方法
 
 ![Image for post](https://miro.medium.com/max/1400/0*C0Ng5_d1hK28qMMh)
 
-1. Go to the exchange page [here](https://exchange.pancakeswap.finance/#/swap).
+1. [こちら](https://pancakeswap.finance/swap)から取引所のページに移動します。
 
 
 
 ![Image for post](https://miro.medium.com/max/512/0*roteFKZKRqO-IWYU)
 
-2. Unlock your BNB Smart Chain Wallet \(top right-hand side\).
+2. BNB Smart Chainウォレットのロックを解除します\(右上\)。
 
 
 
 ![Image for post](https://miro.medium.com/max/1400/0*H5TedYqYQFb5oiO0)
 
-3. Select the tokens you wish to trade and enter the amount.
+3. 取引したいトークンを選択し、数量を入力します。
 
 
 
 ![Image for post](https://miro.medium.com/max/1400/0*AgCzp3NqkIudgyWQ)
 
-4. Check the details, and click “Swap”.
+4. 内容を確認し、「Swap」をクリックします。
 
 
 
 ![Image for post](https://miro.medium.com/max/1400/0*qmhlA7jFOwtIKJ8t)
 
-5. Check the details and click “Confirm Swap”.
+5. 内容を確認し、「Confirm Swap」をクリックします。
 
 
 
 ![Image for post](https://miro.medium.com/max/1400/0*CMDlQd_FEWa6koea)
 
-6. Confirm the transaction in your wallet.
+6. ウォレットでトランザクションを承認します。
 
 
 
 ![Image for post](https://miro.medium.com/max/1400/0*wHVyuL-WED_T3wiZ)
 
-7. Done! You can click “View on bscscan” to see your transaction details.
-
+7. 完了です!「View on bscscan」をクリックすると、トランザクションの詳細を確認できます。

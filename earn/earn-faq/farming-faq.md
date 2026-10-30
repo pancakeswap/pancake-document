@@ -71,7 +71,7 @@ PancakeSwap v3はZapによるワンクリック流動性預け入れをサポー
 Farm v3では、CAKEの報酬APRは流動性ポジション間で異なる場合があります。以下の要因に基づきます：
 
 * ファームへのCAKEエミッションレート\
-  \- より多くのCAKEはすべてのファームに対してより高い利回りを生み出します。[トークノミクスページ](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics)で詳細をご覧ください。
+  \- より多くのCAKEはすべてのファームに対してより高い利回りを生み出します。[トークノミクスページ](https://docs.pancakeswap.finance/protocol/cake-tokenomics)で詳細をご覧ください。
 * ファームの乗数\
   \- 乗数が高いファームはすべてのファームに比例してより多くのCAKEを受け取ります。v3とv2 + stable swapファームは2つの別々の乗数セットを使用していることにご注意ください。EthereumとBNBチェーン上のファームも別々の乗数セットを使用しています。
 * ポジションに預け入れられたトークン数\
@@ -111,12 +111,10 @@ V3ローンチ直後、シェフたちはFarmに更新を実施して報酬計�
 
 `CAKE per block/second = C / B * A`
 
-上記の数値は各[MasterChef](/broken/pages/-MeTWzQOSmb1ej51HT0I)コントラクトで確認できます。
+上記の数値は各[MasterChef](https://developer.pancakeswap.finance/contracts/masterchef/addresses)コントラクトで確認できます。
 
 
 
 ### v3 FarmでbCAKEを使用できますか？
 
 はい。
-
-V3 Farm用のbCAKEはFarm V3のデプロイ後まもなく提供される予定です。お楽しみに。

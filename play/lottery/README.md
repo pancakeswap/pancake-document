@@ -15,9 +15,9 @@ PancakeSwapの宝くじに参加すると、巨大なCAKE賞金を獲得する�
 
 宝くじのチケット価格は新しいラウンドの開始時に設定され、5ドルUSを目安としています（急激な価格変動によりわずかに異なる場合があります）。
 
-複数の宝くじチケットをまとめて購入すると、まとめ購入割引が適用されます。1回の購入で最大100枚まで購入でき、割引は2枚から少額ずつ始まり、100枚では最大10%まで拡大されます。
+複数の宝くじチケットをまとめて購入すると、まとめ購入割引が適用されます。1回の購入で最大100枚まで購入でき、割引は2枚から少額ずつ始まり、100枚では約5%（4.95%）近くまで拡大されます。
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-22%20at%209.59.52%20PM.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-22%20at%209.59.52%E2%80%AFPM.png)
 
 ## **当選方法**
 

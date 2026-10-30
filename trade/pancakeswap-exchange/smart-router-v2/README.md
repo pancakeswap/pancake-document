@@ -6,7 +6,7 @@ hidden: true
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Smart%20Router.png" alt=""><figcaption></figcaption></figure>
 
-PancakeSwapのSmart Routerは、AMM・StableSwap（BNB Chain）およびAMMとマーケットメーカー（Ethereum）を連携させ、より優れた流動性と価格を提供するルーティングアルゴリズムです。複数のプールをまたいで取引を実行し、トレーダーに最良の価格を見つけるスマートオーダールーティングアルゴリズムを使用しています。StableSwapの詳細については[こちら](/broken/pages/nNPogTZMxocdyFIBYbkE)、マーケットメーカー連携の詳細については[こちら](../market-maker-integration.md)をご参照ください。
+PancakeSwapのSmart Routerは、AMM・StableSwap（BNB Chain）およびAMMとマーケットメーカー（Ethereum）を連携させ、より優れた流動性と価格を提供するルーティングアルゴリズムです。複数のプールをまたいで取引を実行し、トレーダーに最良の価格を見つけるスマートオーダールーティングアルゴリズムを使用しています。StableSwapの詳細については[こちら](../../stableswap/classic-stableswap.md)、マーケットメーカー連携の詳細については[こちら](../market-maker-integration.md)をご参照ください。
 
 PancakeSwap開発チームは、製品のテストと改善をさらに進めるためにStableSwapペアを段階的に展開していきます。
 

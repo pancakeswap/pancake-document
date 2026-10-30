@@ -1,7 +1,5 @@
 # ウォレットを PancakeSwap に接続する
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-connect-wallet-header.png)
-
 ウォレットを作成して BEP20 トークンを入手できたら、あとはウォレットを PancakeSwap に接続するだけです。準備完了です！
 
 推奨ウォレットごとの接続手順を以下にご確認ください。

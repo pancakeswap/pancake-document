@@ -110,5 +110,5 @@ CAKE.PADイベントページでは、イベント開始カウントダウンが
 
 新しいトークンを取得したら、それを活用しましょう！トークンに流動性を追加して取引手数料とファーミング報酬を受け取ることができます。
 
-* 流動性追加については[こちら](https://docs.pancakeswap.finance/get-started/liquidity-guide)をご覧ください。
+* 流動性追加については[こちら](https://docs.pancakeswap.finance/earn/pancakeswap-pools/liquidity-guide)をご覧ください。
 * ファーミングについては[こちら](../yield-farming/)をご覧ください。

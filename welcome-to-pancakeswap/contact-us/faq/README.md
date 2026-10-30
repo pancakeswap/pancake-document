@@ -1,7 +1,5 @@
 # よくある質問 (FAQ)
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/general-faq-header%20%281%29.png)
-
 このFAQページでは、PancakeSwapコミュニティからよく寄せられる質問にお答えしています。
 
 ## PancakeSwapは安全ですか？セキュリティ監査は受けていますか？
@@ -11,7 +9,7 @@
 * [PancakeSwapのセキュリティ監査報告書](../../../#is-pancakeswap-safe)をご覧ください
 * 透明性について：
   * オープンソースソフトウェアで構築されており、サイトおよびすべてのスマートコントラクトは最大限の透明性を確保するために公開されています。
-  * コントラクトはブロックチェーンエクスプローラーで検証済みです。表示されている内容がそのまま実際の内容です。[こちら](/broken/pages/-MeTcIwNOfhTYrz1V3xJ)からご確認ください。
+  * コントラクトはブロックチェーンエクスプローラーで検証済みです。表示されている内容がそのまま実際の内容です。[こちら](https://developer.pancakeswap.finance/)からご確認ください。
 * セキュリティのベストプラクティス：
   * 開発チームはすべてのコントラクトにマルチシグを使用しています。
   * コントラクトのタイムロックにより、安心してご利用いただけます。
@@ -20,29 +18,29 @@
 
 PancakeSwapのSyrup PoolでCAKEをステーキングできます。[Syrup Poolページ](https://pancakeswap.finance/pools)をご覧ください。
 
-ステーキングを始める際のガイドについては、[Syrup Poolステーキングガイド](https://docs.pancakeswap.finance/products/syrup-pool/syrup-pool-guide)をご参照ください。
+ステーキングを始める際のガイドについては、[Syrup Poolステーキングガイド](https://docs.pancakeswap.finance/earn/cake-staking/syrup-pool/syrup-pool-guide)をご参照ください。
 
 ## ステーキングとファーミングの違いは何ですか？
 
 Syrup Poolでのステーキングと、イールドファーミングによるFarmingは、いずれもPancakeSwapをサポートしながらより多くのCAKEを獲得する方法です。
 
 ステーキングはCAKEをSyrup Poolに預けるだけで、CAKEやその他のトークンを獲得できます。\
-[Syrup Poolステーキングについて詳しくはこちら。](https://docs.pancakeswap.finance/products/syrup-pool)
+[Syrup Poolステーキングについて詳しくはこちら。](https://docs.pancakeswap.finance/earn/cake-staking/syrup-pool)
 
 ファーミングはより複雑で、CAKEを獲得するためにLPトークンが必要です。\
-[イールドファーミングについて詳しくはこちら。](https://docs.pancakeswap.finance/products/yield-farming)
+[イールドファーミングについて詳しくはこちら。](https://docs.pancakeswap.finance/earn/yield-farming)
 
 ## ファーミングを始めるにはどうすればよいですか？
 
-ファーミングの始め方については、[イールドファーミングガイド](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms)をご覧ください。
+ファーミングの始め方については、[イールドファーミングガイド](https://docs.pancakeswap.finance/earn/yield-farming/how-to-use-farms/how-to-use-farms)をご覧ください。
 
 ## PancakeSwapのロードマップはどこで確認できますか？
 
-[こちらからToDoリストをご確認いただけますが、ロードマップとは呼ばないでください](https://docs.pancakeswap.finance/roadmap)。
+[こちらからToDoリストをご確認いただけますが、ロードマップとは呼ばないでください](https://docs.pancakeswap.finance/welcome-to-pancakeswap/roadmap)。
 
 ## ウォレットをBNB Smart ChainとPancakeSwapに接続するにはどうすればよいですか？
 
-[PancakeSwapへのウォレット接続ガイド](https://docs.pancakeswap.finance/get-started/connection-guide)に詳しく記載されています。
+[PancakeSwapへのウォレット接続ガイド](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/connection-guide)に詳しく記載されています。
 
 ## PancakeSwapに最適なウォレットはどれですか？
 
@@ -52,9 +50,9 @@ Syrup Poolでのステーキングと、イールドファーミングによるF
 
 [https://bscscan.com/](https://bscscan.com)でトランザクションの状態を確認できます。
 
-問題が発生している場合は、[トラブルシューティングガイド](https://docs.pancakeswap.finance/help/troubleshooting)に解決策が記載されている場合があります。
+問題が発生している場合は、[トラブルシューティングガイド](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/faq/troubleshooting)に解決策が記載されている場合があります。
 
-トランザクションが保留中のままになっている場合は、[保留中トランザクションの解消ガイド](https://docs.pancakeswap.finance/help/unsticking-a-transaction-stuck-as-pending-with-metamask)もご参照ください。
+トランザクションが保留中のままになっている場合は、[保留中トランザクションの解消ガイド](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/faq/unsticking-a-transaction-stuck-as-pending-with-metamask)もご参照ください。
 
 ## 新しいプールはいつ開設されますか？
 
@@ -82,11 +80,11 @@ BscScanではすべてのトランザクションが公開されているため�
 
 ## BNB残高がないと表示されるのはなぜですか？
 
-[BNB Smart Chain対応のウォレットにBNBを送金済み](https://docs.pancakeswap.finance/get-started/bep20-guide)にもかかわらずこのエラーが表示される場合、ウォレット内で[BNB Smart Chainに接続](https://docs.pancakeswap.finance/get-started/connection-guide)されていない可能性があります。ウォレットで選択されているネットワークを確認し、BNB Smart Chain（BSC）が選択されていることをご確認ください。
+[BNB Smart Chain対応のウォレットにBNBを送金済み](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/bep20-guide)にもかかわらずこのエラーが表示される場合、ウォレット内で[BNB Smart Chainに接続](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/connection-guide)されていない可能性があります。ウォレットで選択されているネットワークを確認し、BNB Smart Chain（BSC）が選択されていることをご確認ください。
 
 ## 投票に参加するにはどうすればよいですか？
 
-投票の詳細については、投票ガイドを含む[投票セクション](https://docs.pancakeswap.finance/products/voting)をご覧ください。
+投票の詳細については、投票ガイドを含む[投票セクション](https://docs.pancakeswap.finance/protocol/voting)をご覧ください。
 
 ## CAKEの最大供給量はいくつですか？
 
@@ -112,7 +110,7 @@ IFOやAutoPoolなどのPancakeSwapの他のスマートコントラクトも同�
 
 採用中のポジションについては、[Become a Chef](https://docs.pancakeswap.finance/hiring/become-a-chef)のページをご確認ください。
 
-新たな採用情報は[公式ソーシャルメディアチャンネル](https://docs.pancakeswap.finance/contact-us/telegram)でもお知らせしますので、フォローして最新情報をご確認ください。
+新たな採用情報は[TelegramおよびDiscordコミュニティ](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/telegram-and-discord-communities)でもお知らせしますので、フォローして最新情報をご確認ください。
 
 ## SYRUPとは何ですか？
 
@@ -120,4 +118,4 @@ SYRUPはPancakeSwapの初期においてステーキングプロセスの一部�
 
 ## 質問への回答が見つかりません。どこで調べればよいですか？
 
-PancakeSwapのドキュメントで答えが見つからない場合は、[PancakeSwapの公式ソーシャルメディアプラットフォーム](https://docs.pancakeswap.finance/contact-us/telegram)に質問を投稿してください。コミュニティメンバーがお答えするよう努めます。
+PancakeSwapのドキュメントで答えが見つからない場合は、当社の[TelegramおよびDiscordコミュニティ](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/telegram-and-discord-communities)に質問を投稿してください。コミュニティメンバーがお答えするよう努めます。

@@ -12,7 +12,7 @@
 
 ### トラブルシューティング
 
-[トラブルシューティングページ](https://docs.pancakeswap.finance/help/troubleshooting)では、PancakeSwapの利用中に発生する可能性のあるエラーをまとめています。各問題について、解決策とエラーが発生した原因を説明しています。
+[トラブルシューティングページ](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/faq/troubleshooting)では、PancakeSwapの利用中に発生する可能性のあるエラーをまとめています。各問題について、解決策とエラーが発生した原因を説明しています。
 
 ### よくある質問 (FAQ)
 

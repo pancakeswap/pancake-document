@@ -1,16 +1,9 @@
 # 🤙 お問い合わせ
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/contact-us-header.png)
+_エコシステムおよびパートナーシップに関するお問い合わせは、TGハンドル:@PancakeSwapBDまで_
 
-## ビジネスに関するお問い合わせ
+### [トークンを上場する](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/business-partnerships/commonly-asked-business-partnerships-questions)
 
-### [トークンの掲載申請](https://docs.pancakeswap.finance/ecosystem-and-partnerships/business-partnerships/commonly-asked-business-partnerships-questions#listing-on-the-exchange)
+### [イールドファームまたはシロッププールを申請する](business-partnerships/syrup-pools.md)
 
-### [イールドファーミング または Syrup Pool への申請](business-partnerships/syrup-pools.md)
-
-### [IFO（トークンセール）への申請](business-partnerships/initial-farm-offerings-ifos.md)
-
-### [NFTマーケットへの申請](/broken/pages/DmdIaEZd9prcJiQqgZJU)
-
-
-
+### [IFO(トークンセール)を申請する](business-partnerships/initial-farm-offerings-ifos.md)

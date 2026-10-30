@@ -1,7 +1,5 @@
 # ウォレットを作成する
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-make-a-crypto-wallet-header.png)
-
 PancakeSwap を始めるには、まず BNB Smart Chain (BSC) に対応したウォレットを用意する必要があります。ウォレットはデスクトップとスマートフォンの両方で利用できます。ご自身のニーズに合ったウォレットをお選びください。
 
 {% hint style="danger" %}

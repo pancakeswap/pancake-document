@@ -20,4 +20,4 @@
 
 ### デフレメカニズム
 
-PancakeSwapの多くのプロダクトに定期的なトークンバーン（[バーンアドレスを確認](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82?a=0x000000000000000000000000000000000000dead)）が組み込まれています（宝くじチケットに使用されたCAKEの10%バーンなど）。さらに多くのメカニズムが追加予定です。現在および予定されているデフレメカニズムの詳細については、[**CAKEトークノミクスページ**](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics)をご確認ください。
+PancakeSwapの多くのプロダクトに定期的なトークンバーン（[バーンアドレスを確認](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82?a=0x000000000000000000000000000000000000dead)）が組み込まれています（宝くじチケットに使用されたCAKEの10%バーンなど）。さらに多くのメカニズムが追加予定です。現在および予定されているデフレメカニズムの詳細については、[**CAKEトークノミクスページ**](https://docs.pancakeswap.finance/protocol/cake-tokenomics)をご確認ください。

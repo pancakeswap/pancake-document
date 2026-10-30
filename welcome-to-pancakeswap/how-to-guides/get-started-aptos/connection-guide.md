@@ -1,7 +1,5 @@
 # ウォレットをPancakeSwapに接続する
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-connect-wallet-header.png)
-
 ## ウォレットを接続する
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/wallet-connection-aptos.png" alt=""><figcaption></figcaption></figure>
@@ -16,7 +14,7 @@
 
 ## **Aptos Mainnetに接続する**
 
-Aptosには複数のdevnetやtestnetなど、さまざまなネットワークがあります。AptosチェーンでPancakeSwapを使用するには、ウォレットが必ず**Aptos Mainnet**に接続されていることをご確認ください。&#x20;
+Aptosには複数のdevnetやtestnetなど、さまざまなネットワークがあります。AptosチェーンでPancakeSwapを使用するには、ウォレットが必ず**Aptos Mainnet**に接続されていることをご確認ください。
 
 手順は以下の通りです。
 

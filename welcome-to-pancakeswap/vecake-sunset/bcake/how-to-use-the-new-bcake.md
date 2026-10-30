@@ -38,7 +38,7 @@ bCAKE を有効化するには、ポジションがファームにステーク�
 * V2 および StableSwap の場合：「Add LP」をクリックして LP トークンをステークします。
 * ポジションマネージャーの場合：「Add Liquidity」をクリックして流動性を追加します。
 
-Yield Farming の詳細については、[こちら](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms)のチュートリアルをご覧ください。
+Yield Farming の詳細については、[こちら](https://docs.pancakeswap.finance/earn/yield-farming/how-to-use-farms/how-to-use-farms)のチュートリアルをご覧ください。
 
 #### bCAKE を有効化する <a href="#b3a80f22-5043-4e4b-afae-93b4abec504e" id="b3a80f22-5043-4e4b-afae-93b4abec504e"></a>
 

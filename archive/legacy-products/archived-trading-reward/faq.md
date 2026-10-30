@@ -15,7 +15,7 @@ description: Trading Reward よくある質問 (FAQ)
 #### 取引量が追跡されないのはなぜですか？
 
 * 数値の更新には時間がかかり、サブグラフの遅延が生じる場合があります。しばらく後にもう一度ご確認ください。
-* 取引は[Trading Rewardページ](https://pancakeswap.finance/trading-reward#rewards-breakdown)で強調表示されている**正確な**取引ペア（手数料ティアを含む）を通じてルーティングされる必要があります。取引ルートの確認方法については[こちらのチュートリアル](https://docs.pancakeswap.finance/products/pancakeswap-exchange/fees-and-routes#check-the-fee-rate-and-fee-amount-that-is-currently-applied)をご確認ください。
+* 取引は[Trading Rewardページ](https://pancakeswap.finance/trading-reward#rewards-breakdown)で強調表示されている**正確な**取引ペア（手数料ティアを含む）を通じてルーティングされる必要があります。取引ルートの確認方法については[こちらのチュートリアル](https://docs.pancakeswap.finance/trade/pancakeswap-exchange/fees-and-routes)をご確認ください。
 * このプログラムはV3取引ペアのみが対象です。
 * EthereumとBNBチェーン両方でTrading Rewardプログラムの対象となる同じウォレットアドレスをご使用ください。
 * ペア内の取引量が少なすぎる場合、報酬を請求できない場合があります。

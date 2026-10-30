@@ -29,7 +29,7 @@ Bridging to/from Aptos（V1 Bridge）: [https://bridge.pancakeswap.finance/](htt
 
 ## CAKE：マルチチェーントークン
 
-マルチチェーン展開により、CAKEはBNBチェーンをネイティブとしながら、Base、Arbitrum、Solana、Ethereum、ZKsync、Linea、opBNB、Aptosでも利用可能なマルチチェーントークンになりました。
+マルチチェーン展開により、CAKEはBNBチェーンをネイティブとしながら、Base、Arbitrum、Solana、Ethereum、ZKsync、Linea、opBNB、Monad、Aptosでも利用可能なマルチチェーントークンになりました。
 
 他のチェーン上のCAKEは、BNB Smart Chain上のCAKEと同等です。これらのチェーン間で常に1:1の比率でブリッジでき、CAKEの手数料はかかりません。
 
@@ -67,6 +67,7 @@ PancakeSwap Bridgeは、信頼できるサードパーティのブリッジプ�
 * LayerZero
 * Stargate
 * Meson
+* Mayan
 
 > 注：各プロバイダーによって、ブリッジングの仕組み、対応チェーン、手数料、上限額が異なります。
 
@@ -83,6 +84,9 @@ PancakeSwap Bridgeは、信頼できるサードパーティのブリッジプ�
 * opBNB
 * ZKsync
 * Linea
+* Monad
+* Robinhood
+* Solana
 * Aptos (V1サイト)
 
 #### ブリッジング可能なトークン
@@ -197,3 +201,7 @@ UIが無効な送金を自動的に検出して表示します。
    * `cakeOFT`: `0x3055913c90Fcc1A6CE9a358911721eEb942013A1` ([link](https://basescan.org/address/0x3055913c90Fcc1A6CE9a358911721eEb942013A1#code))
 8. **opBNB**
    * `cakeOFT`: `0x2779106e4F4A8A28d77A24c18283651a2AE22D1C` ([link](https://opbnbscan.com/address/0x2779106e4F4A8A28d77A24c18283651a2AE22D1C?tab=Contract\&p=1))
+9. **Monad**
+   * `cakeOFT`: `0xF59D81cd43f620E722E07f9Cb3f6E41B031017a3`
+10. **Solana**
+    * `cakeOFT`: `4qQeZ5LwSz6HuupUu8jCtgXyW1mYQcNbFAW1sWZp89HL`

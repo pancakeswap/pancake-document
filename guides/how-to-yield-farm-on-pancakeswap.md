@@ -22,7 +22,7 @@
 
 ![](https://lh4.googleusercontent.com/Hd3RrSXeCp1Al-uoB6Aa1WO--KPZjnc6VBABhRa0IiROKE66kBFcn8yMELwAOJI5dakVQoCjMqi-RDmP3VLKlSpdS9R3QPy8Qt3x0K2wDmyhFXex142TiGPVRd23jXrn5JKkoHQ8)
 
-**4. Go to the exchange page** [**here**](https://exchange.pancakeswap.finance/?_gl=1*rbtvb8*_ga*MTUzNDEzNDQxMy4xNjAwNzkzNDM4*_ga_334KNG3DMQ*MTYwNDA2MDUwMS40OC4xLjE2MDQwNjU0NTIuMA..#/swap) **and click “Pool” and then “Add Liquidity”.**
+**4. Go to the exchange page** [**here**](https://pancakeswap.finance/swap) **and click “Pool” and then “Add Liquidity”.**
 
 \*\*\*\*
 
