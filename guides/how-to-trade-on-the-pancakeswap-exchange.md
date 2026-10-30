@@ -1,42 +1,42 @@
-# How to Trade on the PancakeSwap Exchange
+# Comment échanger sur l'exchange PancakeSwap
 
 ![Image for post](https://miro.medium.com/max/1400/0*C0Ng5_d1hK28qMMh)
 
-1. Go to the exchange page [here](https://exchange.pancakeswap.finance/#/swap).
+1. Rendez-vous sur la page de l'exchange [ici](https://pancakeswap.finance/swap).
 
 
 
 ![Image for post](https://miro.medium.com/max/512/0*roteFKZKRqO-IWYU)
 
-2. Unlock your BNB Smart Chain Wallet \(top right-hand side\).
+2. Déverrouillez votre portefeuille BNB Smart Chain \(en haut à droite\).
 
 
 
 ![Image for post](https://miro.medium.com/max/1400/0*H5TedYqYQFb5oiO0)
 
-3. Select the tokens you wish to trade and enter the amount.
+3. Sélectionnez les tokens que vous souhaitez échanger et saisissez le montant.
 
 
 
 ![Image for post](https://miro.medium.com/max/1400/0*AgCzp3NqkIudgyWQ)
 
-4. Check the details, and click “Swap”.
+4. Vérifiez les détails, puis cliquez sur « Swap ».
 
 
 
 ![Image for post](https://miro.medium.com/max/1400/0*qmhlA7jFOwtIKJ8t)
 
-5. Check the details and click “Confirm Swap”.
+5. Vérifiez les détails, puis cliquez sur « Confirm Swap ».
 
 
 
 ![Image for post](https://miro.medium.com/max/1400/0*CMDlQd_FEWa6koea)
 
-6. Confirm the transaction in your wallet.
+6. Confirmez la transaction dans votre portefeuille.
 
 
 
 ![Image for post](https://miro.medium.com/max/1400/0*wHVyuL-WED_T3wiZ)
 
-7. Done! You can click “View on bscscan” to see your transaction details.
+7. Terminé ! Vous pouvez cliquer sur « View on bscscan » pour consulter les détails de votre transaction.
 

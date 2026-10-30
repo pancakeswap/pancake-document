@@ -6,7 +6,7 @@
 
 Le Pottery de PancakeSwap est une façon alternative d'accumuler du CAKE plutôt que de simplement verrouiller et staker votre CAKE dans le pool de staking ; ce guide vous montrera comment naviguer dans l'interface web PancakeSwap pour participer.
 
-Apprenez-en plus sur la structure du produit, les risques et les frais du [Pottery PancakeSwap ici](https://docs.pancakeswap.finance/products/pottery).
+Apprenez-en plus sur la structure du produit, les risques et les frais du [Pottery PancakeSwap ici](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery).
 
 ## Décider si vous souhaitez rejoindre une cohorte Pottery
 
@@ -24,7 +24,7 @@ Le dépôt pour chaque cohorte Pottery est ouvert une fois par mois. Le dépôt 
 
 ![](https://lh5.googleusercontent.com/_TqVUlNGtnGvGz_wysnq-KmewS_CjmUJ0jMHwzRMLx47Rmq-x868M0q-iBXCqynotDqz3mxnUZovExx4bUb8BBv3W6OXl4u4pJWFmOz__IYASvQ_hgmccB3GPaL1oz4TutJr3PTwdz_2NoVzmnpkcD0)
 
-— Dans ce cas, vous pouvez déposer votre CAKE pour participer à Pottery si l'APR, la valeur totale bloquée et les chances de gagner vous conviennent. Avant de déposer, assurez-vous de bien comprendre les risques de participation ! Tous les dépôts seront verrouillés pendant 10 semaines sans retrait anticipé en aucune circonstance. Apprenez-en plus sur [les risques et frais ici](https://docs.pancakeswap.finance/products/pottery).
+— Dans ce cas, vous pouvez déposer votre CAKE pour participer à Pottery si l'APR, la valeur totale bloquée et les chances de gagner vous conviennent. Avant de déposer, assurez-vous de bien comprendre les risques de participation ! Tous les dépôts seront verrouillés pendant 10 semaines sans retrait anticipé en aucune circonstance. Apprenez-en plus sur [les risques et frais ici](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery).
 
 ## **Consulter votre dépôt**
 
@@ -40,7 +40,7 @@ Après chaque tirage le vendredi vers midi UTC, vous pouvez consulter les résul
 
 ![](https://lh3.googleusercontent.com/ClT6Dx6rJlfFmzmyxwCGwIUsDv-DuhzVAWN5Qt0sOulj2_zDrMJHDJvQqr6vS0t6IO090pstOi0BJTKAsDpWS4LLWHTnCpLGGtInEimFbRSi-FdknCk9T3MLe82PJhQX2cCfXrB0VNdpJf-DwISlg)
 
-Sur la base de la date de tirage, trouvez le round correspondant pour la cohorte que vous souhaitez vérifier — chaque vendredi, il peut y avoir plus d'un tirage puisqu'il y a différentes cohortes ; assurez-vous de vérifier le bon tirage pour la cohorte que vous recherchez. Lisez pour en savoir plus sur [la structure de cohorte ici](https://docs.pancakeswap.finance/products/pottery#pottery-cohort).
+Sur la base de la date de tirage, trouvez le round correspondant pour la cohorte que vous souhaitez vérifier — chaque vendredi, il peut y avoir plus d'un tirage puisqu'il y a différentes cohortes ; assurez-vous de vérifier le bon tirage pour la cohorte que vous recherchez. Lisez pour en savoir plus sur [la structure de cohorte ici](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery#pottery-cohort).
 
 ## Réclamer le prix
 

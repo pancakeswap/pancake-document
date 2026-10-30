@@ -6,9 +6,9 @@ Trader sur PancakeSwap est très simple comparé à la plupart des plateformes d
 
 **Préparer votre configuration pour trader**
 
-Avant de pouvoir trader, vous aurez besoin d'un portefeuille compatible avec BNB Chain ou Ethereum. Vous pouvez apprendre à en obtenir un [ici](https://docs.pancakeswap.finance/get-started/wallet-guide). Vous aurez également besoin de tokens BEP-20 ou ERC-20 pour trader. Vous pouvez apprendre à en obtenir [ici](https://docs.pancakeswap.finance/get-started/bep20-guide).
+Avant de pouvoir trader, vous aurez besoin d'un portefeuille compatible avec BNB Chain ou Ethereum. Vous pouvez apprendre à en obtenir un [ici](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/wallet-guide). Vous aurez également besoin de tokens BEP-20 ou ERC-20 pour trader. Vous pouvez apprendre à en obtenir [ici](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/bep20-guide).
 
-Vous pouvez également apprendre à obtenir un portefeuille compatible avec Aptos [ici](https://docs.pancakeswap.finance/get-started-aptos/wallet-guide), et comment obtenir des coins Aptos pour les échanger [ici](https://docs.pancakeswap.finance/get-started-aptos/aptos-coin-guide).
+Vous pouvez également apprendre à obtenir un portefeuille compatible avec Aptos [ici](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-aptos/wallet-guide), et comment obtenir des coins Aptos pour les échanger [ici](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-aptos/aptos-coin-guide).
 
 ## Trader sur l'Exchange PancakeSwap
 
@@ -64,7 +64,7 @@ Le Smart Router est désormais la route par défaut pour PancakeSwap Exchange V3
 
 Pour en savoir plus sur la personnalisation de vos routes de trading, [cliquez ici](fees-and-routes.md).&#x20;
 
-Pour plus d'informations sur StableSwap, [cliquez ici](/broken/pages/nNPogTZMxocdyFIBYbkE), et pour l'intégration des teneurs de marché, [cliquez ici](market-maker-integration.md).
+Pour plus d'informations sur StableSwap, [cliquez ici](../stableswap/classic-stableswap.md), et pour l'intégration des teneurs de marché, [cliquez ici](market-maker-integration.md).
 
 ## FAQ
 

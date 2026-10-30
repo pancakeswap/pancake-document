@@ -6,7 +6,7 @@ hidden: true
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Smart%20Router.png" alt=""><figcaption></figcaption></figure>
 
-Le Smart Router de PancakeSwap est un algorithme de routage qui relie l'AMM et le stableswap (BNB Chain), ainsi que l'AMM et les teneurs de marché (Ethereum), afin d'offrir une meilleure Liquidité et une meilleure tarification. Il utilise un algorithme de routage intelligent qui exécute les échanges sur plusieurs pools pour trouver le meilleur prix pour les traders. Pour plus d'informations sur StableSwap, [cliquez ici](/broken/pages/nNPogTZMxocdyFIBYbkE), et pour l'intégration des teneurs de marché, [cliquez ici](../market-maker-integration.md).
+Le Smart Router de PancakeSwap est un algorithme de routage qui relie l'AMM et le stableswap (BNB Chain), ainsi que l'AMM et les teneurs de marché (Ethereum), afin d'offrir une meilleure Liquidité et une meilleure tarification. Il utilise un algorithme de routage intelligent qui exécute les échanges sur plusieurs pools pour trouver le meilleur prix pour les traders. Pour plus d'informations sur StableSwap, [cliquez ici](../../stableswap/classic-stableswap.md), et pour l'intégration des teneurs de marché, [cliquez ici](../market-maker-integration.md).
 
 La Kitchen déploiera progressivement des paires StableSwap pour continuer à tester et améliorer le produit.
 

@@ -4,7 +4,7 @@
 
 PancakeSwap (PCS) est le principal exchange décentralisé (DEX) multi-chaînes, actuellement disponible sur :
 
-> BNB Chain, Solana, Base, Arbitrum One, Ethereum, ZKsync Era, Linea, opBNB, et Aptos
+> BNB Chain, Ethereum, Solana, Base, Arbitrum, Aptos, ZKsync, Linea, Monad, Robinhood et opBNB
 
 Nous serions ravis d'échanger avec les équipes de projets et de vous présenter potentiellement l'une des DApps les plus importantes, les plus engagées et les plus actives de la cryptomonnaie (avec plus de 400 000 utilisateurs actifs quotidiens) !
 
@@ -12,7 +12,7 @@ Depuis nos débuts, PancakeSwap a prospéré dans le paysage DeFi grand public, 
 
 Bien que cette page serve de FAQ rapide pour les équipes de projets souhaitant en apprendre davantage sur nous, n'hésitez pas à nous contacter si vous avez d'autres questions :
 
-* Équipe BD sur Telegram (https://t.me/PancakeSwapBD)
+* **Équipe BD sur Telegram : https://t.me/PancakeSwapBD (@PancakeSwapBD)**
 
 ### Intéressé par un partenariat ? Construisons ensemble
 
@@ -44,9 +44,7 @@ Pour les questions fréquemment posées sur les partenariats commerciaux
 
 ### Le choix de la communauté pour tout ce qui touche à DeFi
 
-Simple rime avec élégant, et la sécurité aussi !&#x20;
-
-Avec plus de 1,5 milliard de dollars de TVL, nous aimons agir rapidement tout en le faisant de manière responsable. Forts de plus de quatre ans d'expérience sur les marchés de la cryptomonnaie, aussi bien en phase haussière que baissière, nous avons su apporter DeFi à notre communauté de façon efficace. Ne nous croyez pas sur parole, [vérifiez](https://docs.pancakeswap.finance/audits).&#x20;
+Avec plus de 1,5 milliard de dollars de TVL, nous aimons agir rapidement tout en le faisant de manière responsable. Forts de plus de quatre ans d'expérience sur les marchés de la cryptomonnaie, aussi bien en phase haussière que baissière, nous avons su apporter DeFi à notre communauté de façon efficace. Ne nous croyez pas sur parole, [vérifiez](https://docs.pancakeswap.finance/welcome-to-pancakeswap/audits).&#x20;
 
 Nos partenariats avec les projets vont bien au-delà des simples programmes de distribution de tokens ("Syrup Pools") et des opportunités de lancement de tokens ("Initial Farm Offerings"). Nous reconnaissons sincèrement l'impact de la communauté dans la crypto — notre équipe dédiée d'Ambassadeurs nous aide à rester à l'écoute des diverses communautés que nous servons, et nous organisons régulièrement des événements à fort engagement avec nos partenaires : podcasts, AMAs, concours de mèmes, et bien plus encore !
 

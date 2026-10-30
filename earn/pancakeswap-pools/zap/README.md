@@ -10,7 +10,7 @@ Zap est une fonctionnalité qui vous permet d'ajouter de la Liquidité facilemen
 
 ### Chaînes prises en charge
 
-* v3 — Tous les Pools sur BNB Chain, Pools sélectionnés sur les réseaux Ethereum et Arbitrum
+* v3 — Tous les Pools sur BNB Chain et Robinhood Chain, Pools sélectionnés sur les réseaux Ethereum et Arbitrum
 * Infinity — Tous les Pools CLAMM (sans Hook) sur BNB Chain
 
 ### Comment utiliser <a href="#id-438fff0f-f1da-4147-9fe3-6dc1dc2ef352" id="id-438fff0f-f1da-4147-9fe3-6dc1dc2ef352"></a>

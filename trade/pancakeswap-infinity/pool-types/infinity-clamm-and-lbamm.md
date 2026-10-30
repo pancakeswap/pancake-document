@@ -70,7 +70,7 @@ Les frais dynamiques offrent une flexibilité maximale et optimisent les structu
 | ---------------------- | ---------------------- |
 | 1%                     | 0,33%                  |
 | 2%                     | 0,4% (plafonné)        |
-| Pool à Frais Dynamiques | 0%                    |
+| Pool à Frais Dynamiques | 0.03% (valeur par défaut actuelle) |
 
 #### 🛠️ Notes de Configuration pour les Créateurs de Pools
 

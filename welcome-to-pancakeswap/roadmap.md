@@ -1,7 +1,3 @@
----
-description: '"Ne l''appelez pas une feuille de route"'
----
-
 # 🗺️ Feuille de route
 
 _Mise à jour le 1er juin 2026_

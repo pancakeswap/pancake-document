@@ -234,7 +234,7 @@ Vous ne disposez pas de suffisamment de SYRUP dans votre Portefeuille pour retir
 
 Si cela échoue toujours, vous pouvez effectuer un "emergencyWithdraw" directement depuis le contrat pour retirer vos tokens stakés.
 
-1. Accédez à : [https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract)
+1. Accédez à : [https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract](https://bscscan.com/)
 2. Cliquez sur **"Connect to Web3"** et connectez votre Portefeuille. ![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
 3. Dans la section **"4. emergencyWithdraw"**, saisissez "0" et cliquez sur "Write".
 
@@ -305,7 +305,7 @@ Commencez par [informer l'équipe](../social-accounts.md) du pool duquel vous te
 Vous pouvez effectuer un "emergencyWithdraw" directement depuis le contrat pour retirer vos tokens stakés.
 
 1. Trouvez l'adresse du contrat du Syrup Pool duquel vous tentez de retirer votre Staking. Vous pouvez la trouver dans le journal des transactions de votre Portefeuille.
-2. Rendez-vous sur [https://bscscan.com/](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract) et saisissez l'adresse du contrat dans la barre de recherche.
+2. Rendez-vous sur [https://bscscan.com/](https://bscscan.com/) et saisissez l'adresse du contrat dans la barre de recherche.
 3. Sélectionnez **Write Contract**.
 4. Cliquez sur **"Connect to Web3"** et connectez votre Portefeuille.![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
 5. Dans la section **"3. emergencyWithdraw"**, cliquez sur "Write".
@@ -324,7 +324,7 @@ Cette erreur tend à apparaître lorsque vous tentez de retirer votre Staking d'
 
 ## **Problèmes avec Prediction**
 
-Consultez [Broken link](/broken/pages/8zN9xzaYD1DvxZvzLzug "mention")
+Consultez [Broken link](../../../play/prediction/prediction-faq.md "mention")
 
 ## **Autres problèmes**
 

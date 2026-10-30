@@ -8,7 +8,7 @@ hidden: true
 
 ### Quelle durée de verrouillage peut-on choisir ?
 
-Vous pouvez choisir entre 1 et 52 semaines. Qu'est-ce qui vous convient le mieux ?
+Vous pouvez choisir une durée allant de 1 semaine à 4 ans.
 
 ### Quelles variables influencent les rendements (%) du nouveau CAKE Syrup Pool (options de Staking flexible et à durée fixe) ?
 

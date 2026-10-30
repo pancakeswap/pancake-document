@@ -74,4 +74,4 @@ Huit pour cent (8 %) du pot de prix distribué chaque semaine seront prélevés 
 
 ## **Prêt à participer ?**
 
-Si vous avez bien compris la structure du produit, les risques et les frais — consultez cette page sur [comment participer](https://docs.pancakeswap.finance/products/pottery/how-to-play-pottery) depuis l'interface web PancakeSwap et la [FAQ Pottery](https://docs.pancakeswap.finance/products/pottery/pottery-faq) !
+Si vous avez bien compris la structure du produit, les risques et les frais — consultez cette page sur [comment participer](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery/how-to-play-pottery) depuis l'interface web PancakeSwap et la [FAQ Pottery](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery/pottery-faq) !

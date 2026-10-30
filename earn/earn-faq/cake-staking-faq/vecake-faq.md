@@ -114,8 +114,8 @@ Le Vote vCAKE a maintenant été mis à niveau pour prendre en charge veCAKE. Co
 
 Tous les détenteurs de veCAKE (natifs ou migrés) seront automatiquement inscrits dans le nouveau pool de partage des revenus. Les parts de revenus sont distribuées selon le calendrier existant. L'ancien pool de partage des revenus sera abandonné ; les utilisateurs peuvent réclamer leurs récompenses en attente en accédant à la carte des avantages. Consultez :
 
-{% content-ref url="/broken/pages/wQegezs7c6A2HzQjPEjh" %}
-[Lien rompu](/broken/pages/wQegezs7c6A2HzQjPEjh)
+{% content-ref url="revenue-sharing-faq.md" %}
+[Revenue Sharing FAQ](revenue-sharing-faq.md)
 {% endcontent-ref %}
 
 #### Les portefeuilles multisig peuvent-ils être utilisés pour interagir avec veCAKE ?
@@ -162,4 +162,4 @@ Pour augmenter les émissions vers cette jauge, consultez [le Vote des Jauges](.
 
 Il s'agit de l'incitation provenant du partage des revenus du protocole, issus des frais de Swap collectés dans les produits DEX.
 
-Consultez [le Partage des Revenus](/broken/pages/wQegezs7c6A2HzQjPEjh) pour plus d'informations.
+Consultez [le Partage des Revenus](revenue-sharing-faq.md) pour plus d'informations.

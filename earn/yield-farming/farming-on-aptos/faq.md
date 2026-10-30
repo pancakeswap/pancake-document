@@ -16,7 +16,7 @@ Si vous souhaitez Bridger d'autres actifs, veuillez consulter le guide pour [Obt
 
 Oui, mais nous procéderons par étapes afin de prioriser la sécurité des fonds des utilisateurs et l'inflation de CAKE. N'hésitez pas à nous faire part, dans les espaces communautaires, de ce que vous pensez devoir être ajouté à PancakeSwap sur Aptos.&#x20;
 
-Si vous êtes un projet en cours de développement sur Aptos et souhaitez inciter à la fourniture de Liquidité pour votre jeton, consultez [ce](/broken/pages/VB58XNVaU1vlrJ3RcHif) guide et contactez-nous !
+Si vous êtes un projet en cours de développement sur Aptos et souhaitez inciter à la fourniture de Liquidité pour votre jeton, contactez-nous !
 
 ### Pourquoi n'y a-t-il pas de bouton « Activer » ?
 
@@ -30,6 +30,6 @@ Avec notre expansion multichain et notre déploiement sur Aptos, CAKE est désor
 
 Le CAKE sur Aptos équivaut au CAKE sur BNB Smart Chain et peut toujours être Bridgé entre les deux chaînes avec un ratio 1:1.&#x20;
 
-Veuillez noter qu'il n'existe qu'un seul CAKE. Il n'existe pas de versions différentes de CAKE selon les chaînes. Et l'offre totale de CAKE sur toutes les blockchains sera plafonnée à 750 M, conformément à notre litepaper de tokenomics v2.
+Veuillez noter qu'il n'existe qu'un seul CAKE. Il n'existe pas de versions différentes de CAKE selon les chaînes. Et l'offre totale de CAKE sur toutes les blockchains est plafonnée à 400 M, comme indiqué dans [cette proposition de vote](https://pancakeswap.finance/voting/proposal/0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5).
 
 Pour Bridger vos CAKE vers BNB Smart Chain, consultez le [guide de Bridging CAKE](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos/cake-bridging-guide.md).

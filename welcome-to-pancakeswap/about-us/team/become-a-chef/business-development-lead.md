@@ -1,63 +1,59 @@
-# Responsable Développement Commercial
+# Business Development Lead
 
-PancakeSwap est en train de passer du statut de premier AMM DEX sur BNB Chain à celui de Liquidity Hub complet — agrégeant et gérant la liquidité à partir de pools AMM natifs, de capitaux institutionnels et de canaux de distribution externes. Ce poste dirige l'une des trois divisions BD spécialisées dans ce développement.
+PancakeSwap passe du statut de principal DEX AMM sur BNB Chain à celui de véritable Liquidity Hub, qui agrège et gère la liquidité issue des pools AMM natifs, des capitaux institutionnels et des canaux de distribution externes. Ce poste dirige l'une des trois divisions BD spécialisées de cette construction.
 
-### À propos du rôle
+### À propos du poste
 
-Nous restructurons notre équipe BD autour de trois sources de liquidité, et non par chaîne. En tant que Responsable BD gérant de bout en bout : AMM Traditionnel, Liquidité Institutionnelle + RWA, Distribution de Nouveaux Produits. Vous serez l'expert interne de votre domaine — pilotant les partenariats, les KPI et le pipeline du premier contact jusqu'à l'intégration en production.
+Nous restructurons notre équipe BD autour de trois sources de liquidité, et non de chaînes. En tant que BD Lead, vous êtes responsable de bout en bout de : Traditional AMM, Institutional Liquidity + RWA, New Product Distribution. Vous serez l'expert(e) référent(e) en interne, responsable des partenariats, des KPI et du pipeline, du premier contact jusqu'à l'intégration en production.
 
-Il s'agit d'un rôle opérationnel, et non d'un rôle relationnel. Nous mesurons les résultats : volume généré par CAKE émis, volume de trading institutionnel, intégrations d'API d'agrégation livrées. Vous devrez afficher des progrès hebdomadaires par rapport à une liste de priorités concrète pour le T2 2026 dès le premier jour.
+Il s'agit d'un poste d'opérateur, pas de relationnel. Nous mesurons les résultats : volume généré par CAKE émis, volume de trading institutionnel, intégrations d'API d'agrégation livrées. On attendra de vous que vous présentiez chaque semaine, dès le premier jour, vos progrès par rapport à une liste de priorités concrète pour le T2 2026.
 
+#### 1. Traditional AMM
 
+* Piloter l'efficacité des émissions de CAKE, l'onboarding des projets (V2/V3/Infinity CLAMM) et le pipeline de launchpad cross-chain sur BNB Chain, Base et SOL.
+* **Indicateur principal :** volume par unité de CAKE émise.
+* **Indicateur secondaire :** nouveaux pools actifs par trimestre, projets en premier lancement par chaîne.
+* **Urgent actuellement :** relations avec les fonds d'écosystème Base + SOL · pipeline de projets Infinity CLAMM
 
-1. **AMM Traditionnel**
+#### 2. Institutional Liquidity + RWA
 
-* Pilotez l'efficacité des émissions de CAKE, l'intégration de projets (V2/V3/Infinity CLAMM) et le pipeline de launchpad cross-chain sur BNB Chain, Base et SOL.&#x20;
-* Indicateur principal : volume par unité de CAKE émise.&#x20;
-* Indicateurs secondaires : nouveaux pools actifs par trimestre, premiers projets lancés par chaîne.
-* **Priorité immédiate :** Relations avec les fonds d'écosystème Base + SOL · Pipeline de projets Infinity CLAMM
+* Piloter l'onboarding des émetteurs d'actions tokenisées et de RWA (xStocks/Backed Finance/Ondo/Robinhood), l'onboarding des teneurs de marché (Wintermute, Jump, GSR) et la distribution RFQ de PancakeSwap X vers Kraken, Bybit, OKX.
+* Construire le pipeline institutionnel PropAMM.
+* **Indicateur principal :** volume de trading mensuel de PancakeSwap X, émetteurs RWA intégrés.
+* **Urgent actuellement :** pools xStocks sur BNB + Base · partenariat Backed Finance / Kraken
 
+#### 3. New Product Distribution
 
-
-2. **Liquidité Institutionnelle + RWA**
-
-* Pilotez l'intégration d'émetteurs d'actions tokenisées et de RWA (xStocks/Backed Finance/Ondo/Robinhood), l'intégration de market makers (Wintermute, Jump, GSR) et la distribution RFQ de PancakeSwap X vers Kraken, Bybit, OKX.&#x20;
-* Développez le pipeline institutionnel PropAMM. Indicateur principal : volume mensuel de trading PancakeSwap X, émetteurs RWA intégrés.
-* **Priorité immédiate :** Pools xStocks sur BNB + Base · Partenariat Backed Finance / Kraken
-
-
-
-3. **Distribution de Nouveaux Produits**
-
-* Remplacez 1inch en tant qu'API d'agrégation par défaut pour les portefeuilles (OKX, Binance, MetaMask, Trust) et les protocoles DeFi (Aave, Venus, Morpho).&#x20;
-* Pilotez la conception du programme de partage des revenus, le packaging de l'API en marque blanche et l'analyse des changements de concurrents. Secondairement : intégration institutionnelle des perps (\~20% du rôle).&#x20;
-* Indicateur principal : intégrations API livrées par trimestre, volume mensuel acheminé par l'agrégateur.
-* **Priorité immédiate :** Analyse concurrentielle approfondie de 1inch, LiFi, Liquid Mesh · construction de la liste cible
+* Remplacer 1inch comme API d'agrégation par défaut pour les portefeuilles (OKX, Binance, MetaMask, Trust) et les protocoles DeFi (Aave, Venus, Morpho).
+* Piloter la conception du programme de partage des revenus, le packaging d'API en marque blanche et l'analyse des changements de fournisseur par les concurrents.
+* **Indicateur secondaire :** onboarding institutionnel des perps (\~20 % du poste).
+* **Indicateur principal :** intégrations d'API livrées par trimestre, volume mensuel routé par l'agrégateur.
+* **Urgent actuellement :** analyse approfondie des concurrents 1inch, LiFi, Liquid Mesh · constitution de la liste de cibles
 
 ### Ce que vous ferez
 
-* Gérer l'intégralité du cycle de partenariat : sourcing, négociation, intégration et suivi des indicateurs de performance\
-  Rendre compte hebdomadairement de l'état du pipeline et des KPI de division au CEO ; signaler les blocages avec des solutions proposées, pas seulement des problèmes
-* Participer à la réunion hebdomadaire de synchronisation BD inter-divisions pour identifier les chevauchements de pipeline et coordonner les approches communes
-* Mener une veille concurrentielle régulière spécifique au domaine de votre division ; traduire les conclusions en actions de différenciation concrètes
-* À mesure que la division se développe, constituer et encadrer une petite équipe de responsables BD
+* Piloter le cycle de vie complet des partenariats : prospection, négociation, intégration et indicateurs de santé continus.
+* Rendre compte chaque semaine au CEO de l'état du pipeline et des KPI de la division ; signaler les blocages en proposant des solutions, et pas seulement des problèmes.
+* Participer à la synchronisation BD hebdomadaire entre divisions pour repérer les chevauchements de pipeline et coordonner les approches communes.
+* Mener une veille concurrentielle continue propre au domaine de votre division ; traduire les constats en différenciation concrète.
+* À mesure que la division gagne en maturité, constituer et encadrer une petite équipe de BD managers sous votre responsabilité.
 
 ### Ce que nous recherchons
 
-**Requis**
+#### Requis
 
-* 3+ ans d'expérience en BD, partenariats ou croissance dans la DeFi, la crypto ou la fintech — avec des contrats signés à votre actif, pas seulement un pipeline
-* Profil quantitatif : à l'aise avec les données on-chain, les tableaux de bord TVL/volume, et capable de définir vos propres objectifs KPI à partir des fondamentaux
-* Réseau existant solide dans le domaine de votre division cible (projets AMM / émetteurs institutionnels/RWA / équipes de portefeuilles ou d'écosystèmes de protocoles)
-* Autonome et méthodique : capable de gérer plusieurs négociations en parallèle sans supervision, et de communiquer les blocages de manière proactive
-* Esprit d'appropriation
+* 3 ans et plus en BD, partenariats ou growth dans la DeFi, la crypto ou la fintech, avec un historique d'accords signés, et pas seulement de pipeline
+* Esprit quantitatif : à l'aise pour lire des données on-chain, des tableaux de bord TVL/volume, et fixer vos propres objectifs de KPI à partir de principes de base
+* Solide réseau existant dans le domaine de votre division cible (projets AMM / émetteurs institutionnels/RWA / équipes d'écosystèmes de portefeuilles ou de protocoles)
+* Autonome et structuré(e) : capable de gérer plusieurs deals en parallèle sans accompagnement et de signaler les blocages tôt
+* Esprit de responsabilité
 
-**Atouts supplémentaires**
+#### Atouts appréciés
 
-* Expérience préalable dans un DEX, un AMM, un agrégateur ou une plateforme RWA
-* Capacité à lire les interactions de smart contracts ou interpréter des tableaux de bord Dune de manière autonome
-* Expérience dans la création ou la gestion d'une équipe BD from scratch
+* Expérience préalable au sein d'un DEX, d'un AMM, d'un agrégateur ou d'une plateforme RWA
+* Capacité à lire des interactions de smart contracts ou à interpréter seul(e) des tableaux de bord Dune
+* Expérience de construction ou de gestion d'une équipe BD à partir de zéro
 
+### Comment postuler
 
-
-**Comment postuler :** Envoyez votre CV à hiring@pancakeswap.com, nous serons ravis d'avoir de vos nouvelles !
+Envoyez votre CV à hiring@pancakeswap.com, nous serions ravis de vous lire !

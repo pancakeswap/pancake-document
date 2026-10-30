@@ -110,5 +110,5 @@ Tout au long de la période d'acquisition, vous pouvez revenir à la page de l'�
 
 Maintenant que vous avez vos nouveaux jetons, vous pouvez les mettre au travail ! Vous pouvez ajouter de la Liquidité pour votre jeton et recevoir des frais de trading ainsi que du farming.
 
-* Consultez le guide sur l'ajout de Liquidité [ici](https://docs.pancakeswap.finance/get-started/liquidity-guide).
+* Consultez le guide sur l'ajout de Liquidité [ici](https://docs.pancakeswap.finance/earn/pancakeswap-pools/liquidity-guide).
 * Consultez le guide sur le farming [ici](../yield-farming/).

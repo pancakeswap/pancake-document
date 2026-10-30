@@ -114,4 +114,4 @@ Par conséquent, lors de la phase initiale de lancement du produit, de nombreux 
 
 bCAKE a été audité par des auditeurs internes et externes.
 
-Consultez les rapports d'audit ici : [https://docs.pancakeswap.finance/readme/audits](https://docs.pancakeswap.finance/readme/audits)
+Consultez les rapports d'audit ici : [https://docs.pancakeswap.finance/welcome-to-pancakeswap/audits](https://docs.pancakeswap.finance/welcome-to-pancakeswap/audits)

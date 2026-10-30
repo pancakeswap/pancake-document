@@ -71,7 +71,7 @@ Si vous souhaitez ajuster les configurations de la plage de prix d'une position 
 En Farm v3, l'APR de récompense CAKE peut varier entre les positions de Liquidité. Il est basé sur les facteurs suivants :
 
 * Taux d'émission de CAKE vers les Farms\
-  \- plus de CAKE génèrera un rendement plus élevé pour toutes les Farms. En savoir plus sur [notre page de tokenomics](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics)
+  \- plus de CAKE génèrera un rendement plus élevé pour toutes les Farms. En savoir plus sur [notre page de tokenomics](https://docs.pancakeswap.finance/protocol/cake-tokenomics)
 * Multiplicateur de la Farm\
   \- les Farms avec un multiplicateur plus élevé recevront davantage de CAKE proportionnellement à toutes les Farms. Veuillez noter que les Farms v3 et v2 + StableSwap utilisent deux ensembles séparés de multiplicateurs. Et les Farms sur Ethereum et BNB Chain utilisent également deux ensembles séparés de multiplicateurs.
 * Le nombre de jetons déposés dans la position\
@@ -111,12 +111,10 @@ Une Farm individuelle recevra des émissions de CAKE basées sur :
 
 `CAKE par bloc/seconde = C / B * A`
 
-Les valeurs ci-dessus peuvent être trouvées dans chacun des contrats [MasterChef](/broken/pages/-MeTWzQOSmb1ej51HT0I).
+Les valeurs ci-dessus peuvent être trouvées dans chacun des contrats [MasterChef](https://developer.pancakeswap.finance/contracts/masterchef/addresses).
 
 
 
 ### Puis-je utiliser bCAKE dans les Farms v3 ?
 
-Oui
-
-bCAKE pour les Farms V3 arrivera très prochainement après le déploiement de PancakeSwap Farm V3. Restez à l'écoute.
+Oui.

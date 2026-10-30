@@ -12,7 +12,7 @@ Si vous avez déjà un Syrup Pool en cours, vous pouvez en prolonger la durée e
 
 #### Comment puis-je référencer mon token sur l'exchange ?
 
-N'importe qui peut "référencer" n'importe quel token de réseau ERC-20 / BEP-20 sur PancakeSwap. Il n'est pas nécessaire de nous contacter ou d'obtenir une autorisation. Il vous suffit d'[ajouter de la Liquidité à un Pool de Liquidité](https://docs.pancakeswap.finance/products/pancakeswap-exchange/pancakeswap-pools) — c'est tout. Les traders pourront ensuite échanger votre token en saisissant l'adresse de son contrat.
+N'importe qui peut "référencer" n'importe quel token de réseau ERC-20 / BEP-20 sur PancakeSwap. Il n'est pas nécessaire de nous contacter ou d'obtenir une autorisation. Il vous suffit d'[ajouter de la Liquidité à un Pool de Liquidité](https://docs.pancakeswap.finance/earn/pancakeswap-pools) — c'est tout. Les traders pourront ensuite échanger votre token en saisissant l'adresse de son contrat.
 
 #### Comment puis-je ajouter mon token à la liste par défaut ?
 
@@ -30,7 +30,7 @@ En raison de la nature de PancakeSwap en tant que DEX basé sur un AMM, nous ne 
 
 #### Les utilisateurs rencontrent une erreur lors du Trading de mon token. Que puis-je faire ?
 
-Consultez notre [page de résolution des erreurs](https://docs.pancakeswap.finance/readme/help/troubleshooting) pour une liste des erreurs courantes sur l'exchange et la manière de les résoudre.
+Consultez notre [page de résolution des erreurs](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/faq/troubleshooting) pour une liste des erreurs courantes sur l'exchange et la manière de les résoudre.
 
 #### Pourquoi certaines statistiques de mon token ne s'affichent-elles pas sur la page Info ?
 

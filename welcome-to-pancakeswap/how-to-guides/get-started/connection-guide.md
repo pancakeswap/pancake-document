@@ -1,7 +1,5 @@
 # Connecter votre Portefeuille à PancakeSwap
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-connect-wallet-header.png)
-
 Vous avez créé un portefeuille et obtenu vos tokens BEP20, il vous suffit maintenant de connecter votre portefeuille à PancakeSwap et vous êtes prêt à commencer !
 
 Suivez les étapes ci-dessous pour connecter chacun de nos portefeuilles recommandés à PancakeSwap.

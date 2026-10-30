@@ -6,7 +6,7 @@
 
 ## Pourquoi avons-nous besoin de Pottery alors que nous avons déjà la Loterie v2 ?
 
-Pottery est un produit complètement différent de la Loterie v2. C'est une combinaison du pool de CAKE verrouillé et de la fonction de loterie utilisant l'implémentation VRF de Chainlink pour un vrai aléatoire sécurisé. En participant à Pottery, vous ne perdrez aucun des CAKE que vous avez déposés ; vous risquez uniquement les récompenses de staking des CAKE que vous avez déposés. Ce produit est conçu pour les détenteurs de CAKE qui sont plus réticents au risque mais souhaitent tout de même participer à un produit de cette nature. C'est une façon facile, amusante et sûre d'avoir une chance de gagner du CAKE. Apprenez-en plus sur [la structure du produit ici](https://docs.pancakeswap.finance/products/pottery).
+Pottery est un produit complètement différent de la Loterie v2. C'est une combinaison du pool de CAKE verrouillé et de la fonction de loterie utilisant l'implémentation VRF de Chainlink pour un vrai aléatoire sécurisé. En participant à Pottery, vous ne perdrez aucun des CAKE que vous avez déposés ; vous risquez uniquement les récompenses de staking des CAKE que vous avez déposés. Ce produit est conçu pour les détenteurs de CAKE qui sont plus réticents au risque mais souhaitent tout de même participer à un produit de cette nature. C'est une façon facile, amusante et sûre d'avoir une chance de gagner du CAKE. Apprenez-en plus sur [la structure du produit ici](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery).
 
 ## Pottery remplace-t-il la Loterie v2 originale ?
 
@@ -34,11 +34,11 @@ Il peut y avoir parfois un certain délai en raison de la lecture du Subgraph ; 
 
 ## Comment savoir si j'ai gagné lors du tirage hebdomadaire ?
 
-Après chaque tirage le vendredi vers midi UTC, vous pouvez consulter les résultats et les gagnants dans le panneau des rounds terminés. Une autre façon de vérifier si vous avez gagné lors d'un tirage hebdomadaire est de vérifier dans le panneau de réclamation s'il y a des prix à réclamer. Consultez [cette page sur comment participer](https://docs.pancakeswap.finance/products/pottery/how-to-play-pottery) !
+Après chaque tirage le vendredi vers midi UTC, vous pouvez consulter les résultats et les gagnants dans le panneau des rounds terminés. Une autre façon de vérifier si vous avez gagné lors d'un tirage hebdomadaire est de vérifier dans le panneau de réclamation s'il y a des prix à réclamer. Consultez [cette page sur comment participer](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery/how-to-play-pottery) !
 
 ## Quelle est la source de financement du prix ?
 
-Les pools de prix sont financés par les récompenses de staking des dépôts. Cependant, comme les récompenses de staking du pool de staking CAKE verrouillé ne sont distribuées qu'après la durée de verrouillage — 10 semaines dans ce cas — pour une meilleure expérience produit et pour faciliter les tirages hebdomadaires juste après la date de dépôt, le contrat emprunte 80 % des récompenses de staking totales estimées de la cohorte depuis le trésor CAKE sur la base de l'APR au moment du verrouillage. Le CAKE emprunté est utilisé pour le paiement de chaque tirage hebdomadaire. Apprenez-en plus sur [la structure du produit ici](https://docs.pancakeswap.finance/products/pottery) !
+Les pools de prix sont financés par les récompenses de staking des dépôts. Cependant, comme les récompenses de staking du pool de staking CAKE verrouillé ne sont distribuées qu'après la durée de verrouillage — 10 semaines dans ce cas — pour une meilleure expérience produit et pour faciliter les tirages hebdomadaires juste après la date de dépôt, le contrat emprunte 80 % des récompenses de staking totales estimées de la cohorte depuis le trésor CAKE sur la base de l'APR au moment du verrouillage. Le CAKE emprunté est utilisé pour le paiement de chaque tirage hebdomadaire. Apprenez-en plus sur [la structure du produit ici](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery) !
 
 ## Si je gagne, dois-je réclamer manuellement le prix ?
 

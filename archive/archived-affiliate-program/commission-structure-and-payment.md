@@ -12,9 +12,9 @@ Notre structure de commissions est la suivante :
 * qui inclut au moins **1 token majeur** (c.-à-d. BNB, BTC, BUSD, ETH, USDT et/ou USDC)
 * Limité aux Swaps sur **BNB Smart Chain et Ethereum uniquement**
 
-**\*\*** Les Perpetuals sont interdits dans certaines juridictions, veuillez vous assurer que vous êtes éligible pour trader des dérivés sur cette plateforme.
+**Les Perpetuals sont interdits dans certaines juridictions.** Veuillez vous assurer que vous êtes éligible pour trader des dérivés sur cette plateforme.
 
-\*\*\*Les frais de trading sur les transactions Perpetuals (ou toute position d'un Référé pouvant entraîner des frais de Liquidation) n'incluent pas les frais de Liquidation pour la liquidation de la position de vos Référés. Limité aux transactions Perpetuals sur **BNB Smart Chain et Ethereum uniquement.**
+Les frais de trading sur les transactions Perpetuals (ou toute position d'un Référé pouvant entraîner des frais de Liquidation) n'incluent pas les frais de Liquidation pour la liquidation de la position de vos Référés. Limité aux transactions Perpetuals sur **BNB Smart Chain et Ethereum uniquement.**
 
 ### Paiement
 

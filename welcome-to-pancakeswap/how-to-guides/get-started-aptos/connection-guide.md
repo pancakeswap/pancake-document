@@ -1,7 +1,5 @@
 # Connecter votre Portefeuille à PancakeSwap
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-connect-wallet-header.png)
-
 ## Connecter votre Portefeuille
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/wallet-connection-aptos.png" alt=""><figcaption></figcaption></figure>

@@ -15,9 +15,9 @@ Participer à la Lottery de PancakeSwap vous donne la chance de remporter d'impo
 
 Les prix des tickets de Lottery sont fixés au début de chaque nouveau tour et visent 5 USD (des variations légères peuvent survenir en cas de fluctuations soudaines des prix).
 
-L'achat de plusieurs tickets à la fois donne droit à une réduction sur l'achat groupé. Vous pouvez acheter jusqu'à 100 tickets en une seule transaction ; la réduction commence modestement à partir de 2 tickets et atteint 10 % pour 100 tickets.
+L'achat de plusieurs tickets à la fois donne droit à une réduction sur l'achat groupé. Vous pouvez acheter jusqu'à 100 tickets en une seule transaction ; la réduction commence modestement à partir de 2 tickets et atteint près de 5 % (4,95 %) pour 100 tickets.
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-22%20at%209.59.52%20PM.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-22%20at%209.59.52%E2%80%AFPM.png)
 
 ## **Comment gagner**
 

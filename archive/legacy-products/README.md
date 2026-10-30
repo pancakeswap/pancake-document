@@ -12,7 +12,7 @@ description: Points d'entrée et références pour les produits hérités
 * [PancakeSwap Quest](archived-pancakeswap-quest/) (28 février 2025)
 * [Liquid Staking](https://pancakeswap.finance/liquid-staking)
 * [Classement par équipes](https://pancakeswap.finance/teams)
-* [PancakeSwap Mini-Program](/broken/pages/ORNMTC8QPBoziOExV3BW)
+* PancakeSwap Mini-Program
 * [Options](archived-options/)
 * [Page d'historique LP](https://pancakeswap.finance/farms/history)
 * [Position Manager](archived-position-manager.md) (21 juin 2025)

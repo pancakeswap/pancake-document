@@ -1,62 +1,74 @@
-# L'équipe de la Cuisine
+# La Kitchen Team
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/the-kitchen-team-header.png)
 
-Vous pouvez accéder aux articles d'interviews de la cuisine en cliquant sur le nom du chef.
-
 ### Les Chefs
 
-🐰 Chef Kids - Chef en Chef ([Twitter](https://x.com/Headchef_pcs))
+🐰 Chef Kids - Head Chef ([X/Twitter](https://x.com/Headchef_pcs))
 
 🐰 Chef Miso - Produit
 
-🐰 Chef Maroon - Responsable BD ([Twitter](https://x.com/ChefMaroon))
+🐰 Chef Kocha - Produit
 
-🐰 Chef Doxie - Développement commercial ([Twitter](https://x.com/ChefDoxie))
+🐰 Chef Mustard - Ops ([X/Twitter](https://twitter.com/chef_mustard))
 
-🐰 Chef Madeline - Développement commercial
+🐰 Chef Pau - Ops
 
-🐰 Chef Leo - Développement commercial
+🐰 Chef Leo - Business Development Lead ([X/Twitter](https://x.com/DYOR_WAGMI))
 
-🐰 Chef Mustard - Opérations ([Twitter](https://twitter.com/chef_mustard))
+🐰 Chef Olive - Business Development&#x20;
 
-🐰 Chef Pau - Opérations
+🐰 Chef Cocoa - Marketing Lead ([X/Twitter](https://x.com/chef_cocoa_pcs))
 
-🐰 Chef Cyrus - Données
+🐰 Chef Alina - Marketing des partenariats ([X/Twitter](https://x.com/0xalinatyng))
 
-🐰 Chef Jackson - Responsable Dev ([Twitter](https://x.com/0xchefjackson))
+🐰 Chef Sake - Communauté ([X/Twitter](https://x.com/KayraMeow))
 
-🐰 Chef Ryan - Responsable Dev Frontend
+🐰 Chef Marcus - Réseaux sociaux &#x20;
 
-🐰 Chef Eric - Dev Frontend
+🐰 Chef Boba - Communauté &#x20;
 
-🐰 Chef Jerry - Dev Frontend
+🐰 Chef Salade - Design Lead
 
-🐰 Chef Philip - Dev Frontend
+🐰 Chef Waffles - Designer
 
-🐰 Chef Penguin - Dev Frontend
+🐰 Chef Noodles - Designer
 
-🐰 Chef Taco - Responsable Dev Backend
+🐰 Chef Cyrus - Data
 
-🐰 Chef Sanji - Dev Backend
+🐰 Chef Mist - Dev Lead&#x20;
 
-🐰 Chef Curry - Dev Backend
+🐰 Chef Ryan - Frontend Dev Lead
 
-🐰 Chef Kiwi - Dev Backend
+🐰 Chef Philip - AI Dev
 
-🐰 Chef Bob - Dev Backend
+🐰 Chef Eric - Frontend Dev
 
-🐰 Chef Toast - Dev Backend
+🐰 Chef Jerry - Frontend Dev
 
-🐕 Chef Snoopy - Responsable Dev Smart Contract
+🐰 Chef Penguin - Frontend Dev
 
-🐰 Chef Omelette - Dev Smart Contract
+🐰 Chef Taco - Backend Dev Lead
 
-🐰 Chef Shiba - Dev Smart Contract
+🐰 Chef Sanji - Backend Dev
 
-🐰 Chef Carb - Dev Smart Contract
+🐰 Chef Curry - Backend Dev
 
-🐰 Chef Ramen - Dev Smart Contract
+🐰 Chef Kiwi - Backend Dev
+
+🐰 Chef Bob - Backend Dev
+
+🐰 Chef Toast - Backend Dev
+
+🐕 Chef Snoopy - Smart Contract Dev Lead
+
+🐰 Chef Omelette - Smart Contract Dev
+
+🐰 Chef Shiba - Smart Contract Dev
+
+🐰 Chef Carb - Smart Contract Dev
+
+🐰 Chef Ramen - Smart Contract Dev
 
 🐰 Chef Ruby - QA
 
@@ -64,22 +76,4 @@ Vous pouvez accéder aux articles d'interviews de la cuisine en cliquant sur le 
 
 🐰 Chef Rei - Sécurité
 
-🐰 Chef Salade - Responsable Design
-
-🐰 [Chef Cecy](https://medium.com/pancakeswap/kitchen-interviews-chef-cecy-the-magical-3d-artist-making-fluffy-bunnies-e1eda53742f3) - Artiste 3D ([Twitter](https://twitter.com/Cecymeade))
-
-🐰 Chef Waffles - Designer
-
-🐰 Chef Noodles - Designer Marque / Motion
-
 🐰 Chef Cola - RH
-
-🐰 Chef Cocoa - Responsable Marketing ([Twitter](https://x.com/chef_cocoa_pcs))
-
-🐰 Chef Pixie - Responsable Marketing Produit ([Twitter](https://x.com/chefpixiee))
-
-🐰 Chef Marcus - Réseaux sociaux ([Twitter](https://x.com/ChefMarcusPCS))
-
-🐰 Chef Boba - Communauté ([Twitter](https://x.com/chefboba_pcs))
-
-🐰 Chef Croissant - Événements et Relations Presse
