@@ -4,45 +4,45 @@ hidden: true
 
 # Product Designer (UX/I)
 
-### **General Information**
+### **Informações Gerais**
 
-* Salary range: Competitive, negotiable
-* Position: Full-time
-* Location: Remote
-* Time-zone preference: Any
+* Faixa salarial: competitiva, negociável
+* Posição: tempo integral
+* Local: remoto
+* Preferência de fuso horário: qualquer
 
-### About the role
+### Sobre a vaga
 
-* You see the endless potential to differentiate DeFi experiences with exciting new features and user experiences that make crypto more accessible to the masses.
-* You’re passionate about crypto and DeFi, NFTs, DAO, tokenomics, and the overall Web 3.0
-* You can think big, push the boundaries of what is possible and are able to communicate and influence these ideas effectively. You live and breathe Figma.
-* You're agile and can thrive in fast moving environments - especially since Web3 is constantly evolving. What you worked on last month may not be what you work on the next day, and that excites you. You’re not looking for a traditional web2 job.
-* You share the mindset that ‘Nothing should be someone else’s problem’. Owning a problem doesn’t scare you but empowers you to take 100% responsibility for achieving goals and results. You want to be part of a winning and agile team with a global and diverse background
+* Você enxerga o potencial infinito de diferenciar as experiências DeFi com novas funcionalidades empolgantes e experiências de usuário que tornam o cripto mais acessível às massas.
+* Você é apaixonado por cripto e DeFi, NFTs, DAO, tokenomics e pela Web 3.0 como um todo.
+* Você sabe pensar grande, ampliar os limites do que é possível e consegue comunicar e influenciar essas ideias de forma eficaz. Você vive e respira Figma.
+* Você é ágil e prospera em ambientes que mudam rápido, ainda mais porque a Web3 está em constante evolução. O que você fez no mês passado pode não ser o que você vai fazer amanhã, e isso te empolga. Você não procura um emprego tradicional de web2.
+* Você compartilha a mentalidade de que "nenhum problema deve ser problema de outra pessoa". Assumir um problema não te assusta, mas te dá poder para assumir 100% da responsabilidade por atingir metas e resultados. Você quer fazer parte de uma equipe ágil e vencedora, com perfis globais e diversos.
 
-### What you will do
+### O que você vai fazer
 
-* You will participate in the roadmap of the design team
-* Design both web and mobile experiences that solve the needs for a wide range of DeFi users, from the newbie to the crypto expert
-* Take new features from ideation to prototyping, user testing and production
-* Collaborate closely with product managers, engineering, business development and marketing teams
-* You will be interacting directly with end-users and developers to collect feedback and develop user empathy
-* You'll be a key part of a small agile team.
+* Você participará do roadmap da equipe de design.
+* Desenhar experiências web e mobile que atendam às necessidades de uma ampla gama de usuários de DeFi, do iniciante ao especialista em cripto.
+* Levar novas funcionalidades da ideação ao protótipo, aos testes com usuários e à produção.
+* Colaborar de perto com as equipes de gerentes de produto, engenharia, desenvolvimento de negócios e marketing.
+* Você vai interagir diretamente com usuários finais e desenvolvedores para coletar feedback e desenvolver empatia com o usuário.
+* Você será uma peça-chave de uma pequena equipe ágil.
 
-### **Key skills**
+### **Principais habilidades**
 
-* Extremely user-focused mindset
-* 3+ years full-time Product Designer experience or
-* 3+ years full-time experience of designing consumer-facing experiences for web and mobile apps
-* Knowledgeable and interested in Web3 space
-* Ability to provide end-to-end design solution - from user research to prototyping.
-* Ability to create thoughtful UI and UX and written communication to both frame and explain concepts
-* Demonstrated interest in open and community-driven platforms
-* Thrive in uncertainty and challenges: proactive, hands-on, self-starter and perseverant
-* Collaborative and open-minded
-* Strong communication in oral and written English
-* Strong values, ethics and integrity
-* Strong intellectual curiosity and honesty, Bachelor’s or Master's Degree
+* Mentalidade extremamente focada no usuário
+* 3+ anos de experiência em tempo integral como Product Designer ou
+* 3+ anos de experiência em tempo integral desenhando experiências voltadas ao consumidor para aplicativos web e mobile
+* Conhecimento e interesse no universo Web3
+* Capacidade de entregar uma solução de design de ponta a ponta, da pesquisa com usuários ao protótipo
+* Capacidade de criar UI e UX bem pensados e de se comunicar por escrito para estruturar e explicar conceitos
+* Interesse comprovado em plataformas abertas e orientadas pela comunidade
+* Prosperar em meio a incertezas e desafios: proativo, mão na massa, autônomo e perseverante
+* Colaborativo e de mente aberta
+* Boa comunicação oral e escrita em inglês
+* Valores, ética e integridade sólidos
+* Forte curiosidade intelectual e honestidade, graduação ou mestrado
 
-### **How to apply**
+### **Como se candidatar**
 
-Email [hiring@pancakeswap.com](mailto:hiring@pancakeswap.com) with your resume! A portfolio or UX/I Case-study is a must.
+Envie um e-mail para [hiring@pancakeswap.com](mailto:hiring@pancakeswap.com) com seu currículo! Um portfólio ou estudo de caso de UX/I é indispensável.

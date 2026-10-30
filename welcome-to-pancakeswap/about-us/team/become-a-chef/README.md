@@ -2,6 +2,6 @@
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/become-a-chef-header.png)
 
-Interested in joining the PancakeSwap team? If you're passionate, dedicated, and a fan of all things fluffy, syrupy, and brownish-gold, we'd love to hear from you!
+Interessado em entrar para a equipe da PancakeSwap? Se você é apaixonado, dedicado e fã de tudo que é fofinho, com calda e dourado-amarronzado, adoraríamos ouvir você!
 
-Check out the positions available for more information. Nothing there that suits your talents? Check back later. We'll have more openings in the future.&#x20;
+Confira as vagas disponíveis para saber mais. Nada que combine com os seus talentos? Volte mais tarde. Teremos mais oportunidades no futuro.&#x20;

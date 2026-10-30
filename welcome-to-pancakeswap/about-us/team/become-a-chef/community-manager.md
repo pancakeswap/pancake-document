@@ -4,31 +4,31 @@ hidden: true
 
 # Community Manager
 
-* Position: Full-time
-* Location: Remote
-* Timezone: UTC+8
+* Posição: tempo integral
+* Local: remoto
+* Fuso horário: UTC+8
 
-We are looking for an experienced Community Manager to activate, engage, and grow the PancakeSwap community. The ideal candidate has a strong understanding of DeFi communities and a proven track record in community management and growth.
+Estamos procurando um Community Manager experiente para ativar, engajar e fazer crescer a comunidade da PancakeSwap. O candidato ideal tem um forte entendimento de comunidades DeFi e um histórico comprovado em gestão e crescimento de comunidades.
 
-### **Responsibilities:**
+### **Responsabilidades:**
 
-* Grow PancakeSwap's presence via organic and community efforts
-* ﻿﻿Represent PancakeSwap as a spokesperson in community channels (Discord, Telegram, X, community spaces, AMAs), actively advocates for our products, brand, and ecosystem
-* ﻿﻿Plan and execute regional meetups, AMAs, community events and initiatives with clear growth outcomes and results
-* ﻿Actively explore and coordinate joint efforts with relevant crypto projects and communities to increase community activations
-* ﻿﻿Manage PancakeSwap's ambassador program to support PancakeSwap's presence across community channels, content, and local community events
-* ﻿﻿Act as a bridge between the PancakeSwap community and internal teams, relaying community and product feedback to drive PancakeSwap's growth and success
-* ﻿﻿Identify and engage with community content creators and influencers to produce relevant and engaging content aligned with PancakeSwap's brand and goals
-* ﻿﻿Provide weekly reports on activities, metrics, and community feedback
+* Expandir a presença da PancakeSwap por meio de esforços orgânicos e da comunidade
+* ﻿﻿Representar a PancakeSwap como porta-voz nos canais da comunidade (Discord, Telegram, X, espaços da comunidade, AMAs), defendendo ativamente nossos produtos, nossa marca e nosso ecossistema
+* ﻿﻿Planejar e executar meetups regionais, AMAs, eventos e iniciativas da comunidade com metas e resultados de crescimento claros
+* ﻿Explorar e coordenar ativamente ações conjuntas com projetos e comunidades de cripto relevantes para aumentar as ativações da comunidade
+* ﻿﻿Gerenciar o programa de embaixadores da PancakeSwap para apoiar a presença da PancakeSwap nos canais da comunidade, em conteúdo e em eventos comunitários locais
+* ﻿﻿Atuar como ponte entre a comunidade da PancakeSwap e as equipes internas, repassando o feedback da comunidade e dos produtos para impulsionar o crescimento e o sucesso da PancakeSwap
+* ﻿﻿Identificar e engajar criadores de conteúdo e influenciadores da comunidade para produzir conteúdo relevante e envolvente, alinhado à marca e aos objetivos da PancakeSwap
+* ﻿﻿Entregar relatórios semanais sobre atividades, métricas e feedback da comunidade
 
-### **Requirements**
+### **Requisitos**
 
-* 2+ years of experience as a community manager in the DeFi or crypto space
-* ﻿﻿Language: Fluent in English. Additional languages a plus.
-* ﻿﻿Deep understanding of crypto-native communities, DeFi users, and on-chain culture
-* ﻿﻿Excellent communication skills and able to drive effective conversations
-* ﻿﻿Experience with community platforms and tools on Discord, Telegram, X, etc.
-* ﻿﻿Proactive, results-oriented, and able to operate in a fast-paced environment
+* 2+ anos de experiência como community manager no universo DeFi ou cripto
+* ﻿﻿Idioma: inglês fluente. Outros idiomas são um diferencial.
+* ﻿﻿Entendimento profundo de comunidades nativas de cripto, usuários de DeFi e cultura on-chain
+* ﻿﻿Excelentes habilidades de comunicação e capacidade de conduzir conversas eficazes
+* ﻿﻿Experiência com plataformas e ferramentas de comunidade no Discord, Telegram, X etc.
+* ﻿﻿Proativo, orientado a resultados e capaz de atuar em um ambiente acelerado
 
-**How to Apply:**\
-Shoot your resume over to hiring@pancakeswap.com, we’d love to hear from you!
+**Como se Candidatar:**\
+Mande seu currículo para hiring@pancakeswap.com, adoraríamos ouvir você!
