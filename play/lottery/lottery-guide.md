@@ -5,7 +5,7 @@
 Lottery PancakeSwap bukan hanya cara yang baik untuk mendapatkan tumpukan CAKE, tetapi juga sangat menyenangkan! Panduan ini akan memandu Anda untuk terlibat dalam Lottery.
 
 {% hint style="info" %}
-Lottery telah sedikit berubah sejak iterasi pertamanya. Lottery v2 memungkinkan Anda menang lebih sering, memiliki sedikit kendali atas tiket Anda, dan memiliki lebih banyak potensi untuk jackpot CAKE besar yang menggiurkan. Pelajari lebih lanjut tentang [PancakeSwap Lottery v2 di sini](https://docs.pancakeswap.finance/products/lottery).
+Lottery telah sedikit berubah sejak iterasi pertamanya. Lottery v2 memungkinkan Anda menang lebih sering, memiliki sedikit kendali atas tiket Anda, dan memiliki lebih banyak potensi untuk jackpot CAKE besar yang menggiurkan. Pelajari lebih lanjut tentang [PancakeSwap Lottery v2 di sini](https://docs.pancakeswap.finance/play/lottery).
 {% endhint %}
 
 ## Memutuskan apakah Anda ingin masuk putaran

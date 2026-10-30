@@ -49,7 +49,7 @@ Ada tiga jenis utama Syrup Pools.
 2. Stake CAKE, dapatkan token lainnya.&#x20;
 3. Stake token lain, dapatkan CAKE
 
-Hadiah untuk Syrup Pools "Stake CAKE, dapatkan CAKE" berasal dari [emisi CAKE](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics). Setiap blok, sejumlah token CAKE dialokasikan sebagai hadiah untuk pool-pool ini.
+Hadiah untuk Syrup Pools "Stake CAKE, dapatkan CAKE" berasal dari [emisi CAKE](https://docs.pancakeswap.finance/protocol/cake-tokenomics). Setiap blok, sejumlah token CAKE dialokasikan sebagai hadiah untuk pool-pool ini.
 
 Hadiah untuk jenis "Stake CAKE, dapatkan token lain" disediakan oleh tim proyek yang mensponsori Syrup Pool.
 

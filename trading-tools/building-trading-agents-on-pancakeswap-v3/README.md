@@ -1,4 +1,6 @@
-# 🤖 BNB AI Agent Studio
+# 🤖 Membangun Agen Trading di PancakeSwap V3
+
+Meskipun halaman ini menyajikan gambaran umum, silakan kunjungi [pancakeswap.ai](https://pancakeswap.ai) untuk informasi lebih lanjut
 
 > Panduan bagi pengembang yang membangun agen otonom — dengan [BNB Agent Studio](https://www.bnbchain.org/en/bnb-agent-studio) atau kerangka kerja apa pun — yang berinteraksi dengan pool Likuiditas dan farm PancakeSwap V3 di BNB Smart Chain.
 >
@@ -8,7 +10,7 @@ PancakeSwap **tidak memerlukan integrasi** agar ini berfungsi. Pool dan farm V3 
 
 ***
 
-### 1. Apa yang dapat dilakukan agen terhadap PancakeSwap
+### 1. Apa yang dapat dilakukan agen dengan PancakeSwap
 
 Likuiditas terkonsentrasi (V3) memberikan efisiensi modal yang jauh lebih baik bagi LP dibandingkan V2, dengan biaya manajemen aktif: posisi hanya mendapatkan biaya selama harga berada dalam rentang tick-nya, dan hadiah/imbal hasil terus bergeser. Overhead operasional itulah yang dihilangkan oleh agen. Strategi umum:
 

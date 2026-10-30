@@ -1,7 +1,5 @@
 # Menghubungkan Dompet Anda ke PancakeSwap
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-connect-wallet-header.png)
-
 Anda telah membuat Dompet dan mendapatkan token BEP20, sekarang Anda hanya perlu menghubungkan Dompet Anda dengan PancakeSwap dan Anda siap untuk memulai!
 
 Lihat langkah-langkah di bawah ini tentang cara menghubungkan setiap Dompet yang kami rekomendasikan ke PancakeSwap.

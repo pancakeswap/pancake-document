@@ -8,7 +8,7 @@ hidden: true
 
 ### Berapa lama durasi kunci yang dapat kita pilih?
 
-Anda dapat memilih antara 1-52 minggu. Mana yang Anda sukai?
+Anda dapat memilih dari 1 minggu hingga 4 tahun.
 
 ### Variabel apa yang mempengaruhi persentase yield (%) CAKE Syrup Pool baru (opsi Flexible Staking dan Fixed-Term Staking)?
 

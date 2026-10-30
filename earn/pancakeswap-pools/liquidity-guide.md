@@ -10,7 +10,7 @@ Sebagai imbalan atas penambahan Likuiditas, Anda akan mendapatkan biaya Trading 
 
 Untuk menyediakan Likuiditas, Anda perlu menyetorkan sejumlah pasangan token yang Anda inginkan. Nilai terendah Anda (dalam USD) dari kedua token akan menjadi batas Likuiditas yang dapat Anda sediakan.
 
-Anda dapat dengan mudah menukar token yang Anda butuhkan. Kunjungi panduan [Cara Trading di PancakeSwap](https://docs.pancakeswap.finance/get-started/trade-guide) jika Anda membutuhkannya.
+Anda dapat dengan mudah menukar token yang Anda butuhkan. Kunjungi panduan [Cara Trading di PancakeSwap](https://docs.pancakeswap.finance/trade/pancakeswap-exchange/trade-guide) jika Anda membutuhkannya.
 
 Dalam contoh ini, kami akan menambahkan Likuiditas v3 menggunakan ETH dan USDC.
 

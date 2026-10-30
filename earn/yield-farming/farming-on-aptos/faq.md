@@ -16,7 +16,7 @@ Jika Anda mencoba melakukan Bridge aset lain, silakan lihat panduan [Mendapatkan
 
 Ya, tetapi kami akan melakukan penerapan secara bertahap untuk memastikan keamanan dana pengguna dan inflasi CAKE tetap menjadi prioritas. Sampaikan kepada kami di obrolan komunitas apa yang menurut Anda harus ditambahkan ke PancakeSwap di Aptos.&#x20;
 
-Jika Anda adalah proyek yang sedang membangun di Aptos dan ingin memberikan insentif untuk likuiditas token Anda, lihat panduan [ini](/broken/pages/VB58XNVaU1vlrJ3RcHif) dan hubungi kami!
+Jika Anda adalah proyek yang sedang membangun di Aptos dan ingin memberikan insentif untuk likuiditas token Anda, hubungi kami!
 
 ### Mengapa tidak ada tombol "Enable"?
 
@@ -30,6 +30,6 @@ Dengan ekspansi multichain kami dan penerapan di Aptos. CAKE kini menjadi token 
 
 CAKE di Aptos setara dengan CAKE di BNB Smart Chain dan selalu dapat di-bridge antara dua chain dengan rasio 1:1.&#x20;
 
-Harap diperhatikan bahwa hanya ada satu CAKE. Tidak ada versi CAKE yang berbeda antara berbagai chain. Dan total pasokan CAKE di semua blockchain akan dibatasi pada 750 Juta, sesuai dengan litepaper tokenomik v2 kami.
+Harap diperhatikan bahwa hanya ada satu CAKE. Tidak ada versi CAKE yang berbeda antara berbagai chain. Dan total pasokan CAKE di semua blockchain dibatasi pada 400 Juta, sebagaimana dijelaskan dalam [proposal pemungutan suara ini](https://pancakeswap.finance/voting/proposal/0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5).
 
 Untuk melakukan Bridge CAKE Anda ke BNB Smart Chain, lihat [panduan CAKE bridging](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos/cake-bridging-guide.md).

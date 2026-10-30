@@ -14,7 +14,7 @@ Dengan memanfaatkan umpan harga Pyth, Binance Oracle, dan Chainlink, kami menghi
 
 #### Kebebasan Self-Custody
 
-Tidak perlu lagi melakukan setoran dan penarikan yang membosankan untuk berdagang dengan Pancakeswap Perpetuals V2. Pengguna akan berdagang sepenuhnya on-chain, dan tidak ada persyaratan setoran dan penarikan. Pengguna dapat yakin bahwa tidak ada protokol yang dapat mengelola, meningkatkan, atau mengurangi posisi trading di luar kejadian Likuidasi.
+Tidak perlu lagi melakukan setoran dan penarikan yang membosankan untuk berdagang dengan PancakeSwap Perpetuals V2. Pengguna akan berdagang sepenuhnya on-chain, dan tidak ada persyaratan setoran dan penarikan. Pengguna dapat yakin bahwa tidak ada protokol yang dapat mengelola, meningkatkan, atau mengurangi posisi trading di luar kejadian Likuidasi.
 
 #### Likuiditas yang Lebih Tinggi
 

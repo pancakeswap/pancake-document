@@ -11,7 +11,7 @@ Semua repositori kami disimpan di [Github](https://github.com/pancakeswap). Seba
 ## Repositori Github
 
 * Frontend: Frontend utama. Berisi semua fitur yang tidak tercantum di bawah ini.
-  * [sdk](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/swap-sdk) - SDK untuk membangun aplikasi di atas Pancakeswap
+  * [sdk](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/swap-sdk) - SDK untuk membangun aplikasi di atas PancakeSwap
   * [aptos-swap-sdk](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/aptos-swap-sdk) - Versi Aptos dari Swap SDK
   * [swap-sdk-core](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/swap-sdk-core) - Kode bersama Swap SDK
   * [wagmi](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/wagmi) - Ekstensi untuk [wagmi](https://github.com/wagmi-dev/wagmi), termasuk chain bsc dan konektor dompet binance

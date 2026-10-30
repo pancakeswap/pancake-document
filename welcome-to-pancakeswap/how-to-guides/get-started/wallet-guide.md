@@ -1,7 +1,5 @@
 # Membuat Dompet
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-make-a-crypto-wallet-header.png)
-
 Untuk memulai di PancakeSwap, hal pertama yang Anda butuhkan adalah menyiapkan Dompet yang mendukung BNB Smart Chain (BSC). Dompet tersedia baik di komputer desktop maupun perangkat smartphone. Anda perlu memilih Dompet yang paling sesuai dengan kebutuhan Anda.
 
 {% hint style="danger" %}

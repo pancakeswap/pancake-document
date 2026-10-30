@@ -10,7 +10,7 @@ Zap adalah fitur yang memungkinkan Anda menambahkan Likuiditas dengan mudah. Den
 
 ### Rantai yang Didukung
 
-* v3 - Semua pool di BNB Chain, pool tertentu di jaringan Ethereum & Arbitrum
+* v3 - Semua pool di BNB Chain dan Robinhood Chain, pool tertentu di jaringan Ethereum & Arbitrum
 * Infinity - Semua pool CLAMM (tanpa hook) di BNB Chain
 
 ### Cara Penggunaan <a href="#id-438fff0f-f1da-4147-9fe3-6dc1dc2ef352" id="id-438fff0f-f1da-4147-9fe3-6dc1dc2ef352"></a>

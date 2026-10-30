@@ -25,7 +25,7 @@ Untuk memeriksa apakah ada kampanye yang sedang berlangsung. Anda dapat:
 *   Cari ikon 💝 dari daftar "Hot Token" di [halaman Swap](https://pancakeswap.finance/swap). Atau gunakan filter untuk memeriksa pasangan dengan Trading Reward.
 
     <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28183%29.png" alt=""><figcaption></figcaption></figure>
-* Lihat [saluran media sosial kami](/broken/pages/QqND39S2UhktBbu09Doj).
+* Lihat [saluran media sosial kami](../../../../welcome-to-pancakeswap/contact-us/social-accounts.md).
 
 ## Periksa apakah alamat Anda memenuhi syarat <a href="#ced8a6c5-803a-4a60-80d0-44e823571d84" id="ced8a6c5-803a-4a60-80d0-44e823571d84"></a>
 

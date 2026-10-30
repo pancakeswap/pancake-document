@@ -15,9 +15,9 @@ Bermain PancakeSwap Lottery memberi Anda kesempatan untuk memenangkan hadiah CAK
 
 Harga tiket Lottery ditetapkan di awal putaran Lottery baru, dan menargetkan $5 USD (mungkin sedikit bervariasi dengan fluktuasi harga yang tiba-tiba).
 
-Membeli beberapa tiket Lottery sekaligus memberikan diskon massal untuk pembelian Anda. Anda dapat membeli hingga 100 tiket dalam satu pembelian, dengan diskon yang dimulai kecil pada 2 tiket, dan meningkat hingga 10% pada 100 tiket.
+Membeli beberapa tiket Lottery sekaligus memberikan diskon massal untuk pembelian Anda. Anda dapat membeli hingga 100 tiket dalam satu pembelian, dengan diskon yang dimulai kecil pada 2 tiket, dan meningkat hingga hampir 5% (4,95%) pada 100 tiket.
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-22%20at%209.59.52%20PM.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-22%20at%209.59.52%E2%80%AFPM.png)
 
 ## **Cara menang**
 

@@ -1,7 +1,5 @@
 # Mendapatkan Token BEP20
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-get-bep20-tokens-header.png)
-
 Token asli BNB Smart Chain (BSC) adalah **BEP20**.
 
 Untuk melakukan sebagian besar hal di BSC, Anda perlu membayar biaya gas, yang berbentuk BEP20 BNB.
@@ -22,7 +20,7 @@ Bridge ini memungkinkan Anda memindahkan stablecoin dengan mudah ke BNB Chain, d
 {% endtab %}
 
 {% tab title="💰 Binance" %}
-[**Binance.com**](https://github.com/pancakeswap/pancake-document/tree/255db0c7af28df2f9c1209daa5cdbd774490a666/get-started/www.binance.com)
+[**Binance.com**](https://www.binance.com)
 
 Anda dapat menarik token sebagai BEP20 melalui akun Binance Anda (jika Anda memilikinya). Harap diingat bahwa Anda memerlukan akun untuk melakukan ini.
 

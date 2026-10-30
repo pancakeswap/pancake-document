@@ -15,7 +15,7 @@ description: FAQ Trading Reward
 #### Mengapa volume perdagangan saya tidak terlacak?
 
 * Angka volume membutuhkan waktu untuk diperbarui dan tunduk pada penundaan SubGraph. Silakan periksa kembali nanti
-* Perdagangan Anda harus dirutekkan melalui pasangan perdagangan yang **tepat** yang disorot di [halaman Trading Reward](https://pancakeswap.finance/trading-reward#rewards-breakdown), termasuk tingkat biaya. Lihat [tutorial ini](https://docs.pancakeswap.finance/products/pancakeswap-exchange/fees-and-routes#check-the-fee-rate-and-fee-amount-that-is-currently-applied) tentang cara melihat rute perdagangan Anda
+* Perdagangan Anda harus dirutekkan melalui pasangan perdagangan yang **tepat** yang disorot di [halaman Trading Reward](https://pancakeswap.finance/trading-reward#rewards-breakdown), termasuk tingkat biaya. Lihat [tutorial ini](https://docs.pancakeswap.finance/trade/pancakeswap-exchange/fees-and-routes) tentang cara melihat rute perdagangan Anda
 * Hanya pasangan perdagangan V3 yang memenuhi syarat untuk program ini
 * Gunakan alamat dompet yang sama yang memenuhi syarat untuk program Trading Reward di Ethereum maupun BNB Chain
 * Jika volume perdagangan Anda dalam suatu pasangan terlalu kecil, Anda mungkin tidak memenuhi syarat untuk mengklaim hadiah apa pun

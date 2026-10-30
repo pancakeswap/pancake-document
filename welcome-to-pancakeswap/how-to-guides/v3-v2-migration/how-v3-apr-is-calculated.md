@@ -52,7 +52,7 @@ APR global dihitung menggunakan total jumlah Likuiditas aktif & yang di-stake de
 APR untuk posisi individual dapat bervariasi tergantung pada pengaturan rentang harga mereka.
 
 $$
-ARP_p = {\frac{USD_{r}}{USD_{p}}} {\frac{L_{p}}{L_{lm}}}
+APR_p = {\frac{USD_{r}}{USD_{p}}} {\frac{L_{p}}{L_{lm}}}
 $$
 
 * $$USD_r$$: Hadiah CAKE yang diperoleh dalam USD per tahun di pool

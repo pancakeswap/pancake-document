@@ -235,6 +235,6 @@ Anda dapat melihat biaya ini di dompet Anda saat mengonfirmasi setelah mengklik 
 
 Ini menunjukkan biaya pemanenan seperti yang terlihat di dompet MetaMask. Dompet yang berbeda akan menampilkan informasi dengan cara yang sedikit berbeda. Pertimbangkan untuk membiarkan hadiah Anda tumbuh terlebih dahulu sehingga Anda lebih jarang membayar biaya.
 
-Dan itulah semua yang perlu Anda ketahui! Anda mungkin juga ingin melihat [cara menggunakan Syrup Pools PancakeSwap](https://docs.pancakeswap.finance/get-started/syrup-pool-guide) untuk mendapatkan hadiah.
+Dan itulah semua yang perlu Anda ketahui! Anda mungkin juga ingin melihat [cara menggunakan Syrup Pools PancakeSwap](https://docs.pancakeswap.finance/earn/cake-staking/syrup-pool/syrup-pool-guide) untuk mendapatkan hadiah.
 
 Selamat farming!

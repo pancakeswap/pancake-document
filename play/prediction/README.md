@@ -15,7 +15,7 @@ Anda dapat bermain PancakeSwap Prediction di:
 
 ### Ringkasan: Cara Kerjanya
 
-1. **Pilih aset untuk dipertaruhkan**: Saat ini tersedia di **BNB Chain**, **zkSync Era**, dan **Arbitrum One**.
+1. **Pilih aset untuk dipertaruhkan**: Saat ini tersedia di **BNB Chain**; pasar di **zkSync Era** dan **Arbitrum One** dijeda sementara.
 2. **Pilih NAIK atau TURUN**: Prediksi apakah harga aset akan lebih tinggi atau lebih rendah ketika fase "LIVE" berakhir (setiap putaran = 5 menit).
 3. Tempatkan jumlah taruhan Anda: Jumlah BNB berapa pun
 4. **Kunci posisi Anda**: Setelah ditempatkan, taruhan Anda tidak dapat diubah.
@@ -25,7 +25,7 @@ Anda dapat bermain PancakeSwap Prediction di:
 
 ### Mekanisme & Biaya
 
-* **Rantai yang Didukung: BNB Chain, zkSync Era, Arbitrum One**
+* **Rantai yang Didukung: BNB Chain (aktif); zkSync Era, Arbitrum One (dijeda)**
 * **Frekuensi putaran**: Setiap **5 menit** (putaran bergulir).
 * **Biaya partisipasi**: **3%** dari total pool hadiah setiap putaran, sebagian digunakan untuk **buyback CAKE**.
 * **Kemenangan**: Klaim kapan saja setelah hasil diselesaikan.

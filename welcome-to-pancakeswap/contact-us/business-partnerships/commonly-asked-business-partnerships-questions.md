@@ -12,7 +12,7 @@ Jika Anda sudah memiliki Syrup Pool yang sedang berjalan, Anda dapat memperpanja
 
 #### Bagaimana cara mendaftarkan token saya di bursa?
 
-Siapa pun dapat "mendaftarkan" token jaringan ERC-20 / BEP-20 apa pun di PancakeSwap. Anda tidak perlu menghubungi kami atau meminta izin. Anda hanya perlu [menambahkan Likuiditas ke Pool Likuiditas](https://docs.pancakeswap.finance/products/pancakeswap-exchange/pancakeswap-pools) - hanya itu. Pedagang kemudian dapat memperdagangkan token Anda dengan memasukkan alamat kontrak token Anda.
+Siapa pun dapat "mendaftarkan" token jaringan ERC-20 / BEP-20 apa pun di PancakeSwap. Anda tidak perlu menghubungi kami atau meminta izin. Anda hanya perlu [menambahkan Likuiditas ke Pool Likuiditas](https://docs.pancakeswap.finance/earn/pancakeswap-pools) - hanya itu. Pedagang kemudian dapat memperdagangkan token Anda dengan memasukkan alamat kontrak token Anda.
 
 #### Bagaimana cara menambahkan token saya ke daftar default?
 
@@ -30,7 +30,7 @@ Karena sifat PancakeSwap sebagai DEX berbasis AMM, kami tidak dapat mencegah per
 
 #### Pengguna mendapatkan error saat memperdagangkan token saya. Apa yang bisa saya lakukan?
 
-Periksa [halaman Pemecahan Masalah](https://docs.pancakeswap.finance/readme/help/troubleshooting) kami untuk daftar kesalahan umum di bursa, dan cara mengatasinya.
+Periksa [halaman Pemecahan Masalah](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/faq/troubleshooting) kami untuk daftar kesalahan umum di bursa, dan cara mengatasinya.
 
 #### Mengapa beberapa statistik token saya tidak ditampilkan di halaman Info?
 

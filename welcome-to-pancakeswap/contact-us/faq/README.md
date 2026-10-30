@@ -1,7 +1,5 @@
 # FAQ Umum
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/general-faq-header%20%281%29.png)
-
 Halaman FAQ ini menjawab beberapa pertanyaan yang paling sering diajukan dari komunitas PancakeSwap.
 
 ## Apakah PancakeSwap aman? Apakah PancakeSwap telah diaudit?
@@ -11,7 +9,7 @@ Lihat sendiri:
 * Periksa [audit keamanan PancakeSwap ini](../../../#is-pancakeswap-safe)
 * Transparan:
   * Kami dibangun di atas perangkat lunak sumber terbuka: situs kami dan semua Smart Contract kami dapat dilihat secara publik untuk transparansi maksimal.
-  * Kontrak kami diverifikasi di penjelajah blockchain, sehingga Anda tahu bahwa apa yang Anda lihat adalah apa yang Anda dapatkan. Periksa di [sini](/broken/pages/-MeTcIwNOfhTYrz1V3xJ).
+  * Kontrak kami diverifikasi di penjelajah blockchain, sehingga Anda tahu bahwa apa yang Anda lihat adalah apa yang Anda dapatkan. Periksa di [sini](https://developer.pancakeswap.finance/).
 * Praktik keamanan terbaik:
   * Para chef menggunakan multisig untuk semua kontrak.
   * Kunci waktu kontrak kami memberi Anda ketenangan pikiran.
@@ -20,7 +18,7 @@ Lihat sendiri:
 
 Anda dapat melakukan Staking CAKE Anda di PancakeSwap Syrup Pools. Kunjungi [halaman Syrup Pools](https://pancakeswap.finance/pools).
 
-Baca [panduan Cara Staking di Syrup Pools](https://docs.pancakeswap.finance/products/syrup-pool/syrup-pool-guide) jika Anda membutuhkan bantuan untuk memulai Staking.
+Baca [panduan Cara Staking di Syrup Pools](https://docs.pancakeswap.finance/earn/cake-staking/syrup-pool/syrup-pool-guide) jika Anda membutuhkan bantuan untuk memulai Staking.
 
 ## Apa perbedaan antara Staking dan Farming?
 
@@ -30,19 +28,19 @@ Staking hanya memerlukan sejumlah CAKE untuk ditambahkan ke Syrup Pool guna mend
 [Pelajari lebih lanjut tentang Staking Syrup Pool.](https://docs.pancakeswap.finance/products/syrup-pool)
 
 Farming lebih kompleks dan memerlukan LP Token untuk mendapatkan CAKE.\
-[Pelajari lebih lanjut tentang Yield Farming.](https://docs.pancakeswap.finance/products/yield-farming)
+[Pelajari lebih lanjut tentang Yield Farming.](https://docs.pancakeswap.finance/earn/yield-farming)
 
 ## Bagaimana cara melakukan Farm?
 
-Kami memiliki [panduan Yield Farming](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) jika Anda tertarik mempelajari cara melakukan Farm.
+Kami memiliki [panduan Yield Farming](https://docs.pancakeswap.finance/earn/yield-farming/how-to-use-farms/how-to-use-farms) jika Anda tertarik mempelajari cara melakukan Farm.
 
 ## Di mana saya dapat melihat peta jalan PancakeSwap?
 
-Anda dapat [melihat daftar tugas kami di sini, tetapi jangan menyebutnya peta jalan](https://docs.pancakeswap.finance/roadmap).
+Anda dapat [melihat daftar tugas kami di sini, tetapi jangan menyebutnya peta jalan](https://docs.pancakeswap.finance/welcome-to-pancakeswap/roadmap).
 
 ## Bagaimana cara menghubungkan dompet saya ke BNB Smart Chain dan PancakeSwap?
 
-Kami memiliki [panduan Hubungkan Dompet Anda ke PancakeSwap](https://docs.pancakeswap.finance/get-started/connection-guide) yang membahas hal ini secara terperinci.
+Kami memiliki [panduan Hubungkan Dompet Anda ke PancakeSwap](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/connection-guide) yang membahas hal ini secara terperinci.
 
 ## Apa dompet terbaik untuk PancakeSwap?
 
@@ -52,9 +50,9 @@ Bergantung pada kebutuhan Anda. Kami memiliki [panduan mendalam untuk memilih da
 
 Anda dapat memeriksa status transaksi di [https://bscscan.com/](https://bscscan.com).
 
-[Panduan Pemecahan Masalah Kesalahan](https://docs.pancakeswap.finance/help/troubleshooting) kami mungkin memiliki solusi untuk masalah Anda jika Anda mengalami kendala.
+[Panduan Pemecahan Masalah Kesalahan](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/faq/troubleshooting) kami mungkin memiliki solusi untuk masalah Anda jika Anda mengalami kendala.
 
-Anda juga dapat melihat [panduan Memperbaiki Transaksi Tertunda yang Macet](https://docs.pancakeswap.finance/help/unsticking-a-transaction-stuck-as-pending-with-metamask) jika transaksi Anda macet.
+Anda juga dapat melihat [panduan Memperbaiki Transaksi Tertunda yang Macet](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/faq/unsticking-a-transaction-stuck-as-pending-with-metamask) jika transaksi Anda macet.
 
 ## Kapan lebih banyak pool akan dibuka?
 
@@ -82,15 +80,15 @@ Pelajari cara menemukan smart contract di [halaman Menemukan Kontrak](https://do
 
 ## Mengapa tertulis bahwa saya tidak memiliki saldo BNB?
 
-Jika Anda sudah [mentransfer BNB ke dompet yang mendukung BNB Smart Chain](https://docs.pancakeswap.finance/get-started/bep20-guide) tetapi masih mendapatkan error ini, kemungkinan besar Anda belum [terhubung ke BNB Smart Chain](https://docs.pancakeswap.finance/get-started/connection-guide) di dalam dompet Anda. Periksa jaringan yang dipilih oleh dompet Anda dan pastikan Anda telah memilih BNB Smart Chain (BSC).
+Jika Anda sudah [mentransfer BNB ke dompet yang mendukung BNB Smart Chain](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/bep20-guide) tetapi masih mendapatkan error ini, kemungkinan besar Anda belum [terhubung ke BNB Smart Chain](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/connection-guide) di dalam dompet Anda. Periksa jaringan yang dipilih oleh dompet Anda dan pastikan Anda telah memilih BNB Smart Chain (BSC).
 
 ## Bagaimana cara melakukan Pemungutan suara?
 
-Untuk mempelajari lebih lanjut tentang Pemungutan suara, Anda dapat [membaca bagian kami tentang Pemungutan suara](https://docs.pancakeswap.finance/products/voting), termasuk panduan pemungutan suara.
+Untuk mempelajari lebih lanjut tentang Pemungutan suara, Anda dapat [membaca bagian kami tentang Pemungutan suara](https://docs.pancakeswap.finance/protocol/voting), termasuk panduan pemungutan suara.
 
 ## Berapa batas pasokan maksimum CAKE?
 
-Ya, CAKE sekarang memiliki batas keras sebesar 400 juta sebagaimana diuraikan dalam [proposal terbaru kami](https://pancakeswap.finance/voting/proposal/0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5?id=0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5\&chain=bsc).
+CAKE sekarang memiliki batas keras sebesar 400 juta sebagaimana diuraikan dalam [proposal terbaru kami](https://pancakeswap.finance/voting/proposal/0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5?id=0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5\&chain=bsc).
 
 ## Untuk apa dana perbendaharaan digunakan?
 
@@ -112,7 +110,7 @@ Smart contract PancakeSwap lainnya, seperti IFO dan AutoPool, juga dilindungi; k
 
 Periksa area [Menjadi Chef](https://docs.pancakeswap.finance/hiring/become-a-chef) untuk informasi tentang posisi yang sedang kami cari.
 
-Kami mengiklankan posisi baru yang kami cari di [saluran media sosial resmi kami](https://docs.pancakeswap.finance/contact-us/telegram), jadi pastikan untuk mengikuti kami untuk mendapatkan informasi rekrutmen terbaru.
+Kami mengiklankan posisi baru yang kami cari di [komunitas Telegram dan Discord kami](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/telegram-and-discord-communities), jadi pastikan untuk mengikuti kami untuk mendapatkan informasi rekrutmen terbaru.
 
 ## Apa itu SYRUP?
 
@@ -120,4 +118,4 @@ SYRUP adalah bagian dari proses Staking di awal kehidupan PancakeSwap. SYRUP dih
 
 ## Saya tidak dapat menemukan jawaban atas pertanyaan saya. Di mana saya dapat menemukan jawabannya?
 
-Jika Anda tidak dapat menemukan apa yang Anda cari dalam dokumentasi PancakeSwap, ajukan pertanyaan Anda di [platform media sosial resmi PancakeSwap](https://docs.pancakeswap.finance/contact-us/telegram) dan seseorang akan berusaha sebaik mungkin untuk membantu Anda.
+Jika Anda tidak dapat menemukan apa yang Anda cari dalam dokumentasi PancakeSwap, ajukan pertanyaan Anda di [komunitas Telegram dan Discord](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/telegram-and-discord-communities) kami dan seseorang akan berusaha sebaik mungkin untuk membantu Anda.

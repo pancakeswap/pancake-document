@@ -1,7 +1,5 @@
 # Hubungkan Dompet Anda ke PancakeSwap
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-connect-wallet-header.png)
-
 ## Hubungkan dompet Anda
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/wallet-connection-aptos.png" alt=""><figcaption></figcaption></figure>
@@ -16,7 +14,7 @@
 
 ## **Hubungkan ke Aptos Mainnet**
 
-Aptos memiliki beberapa jaringan, termasuk beberapa devnet dan testnet. Namun untuk menggunakan PancakeSwap di Aptos Chain, pastikan dompet Anda terhubung ke **Aptos Mainnet**.&#x20;
+Aptos memiliki beberapa jaringan, termasuk beberapa devnet dan testnet. Namun untuk menggunakan PancakeSwap di Aptos Chain, pastikan dompet Anda terhubung ke **Aptos Mainnet**.
 
 Berikut caranya:
 

@@ -114,4 +114,4 @@ Oleh karena itu, pada fase rilis produk awal. Banyak parameter yang sangat konse
 
 bCAKE telah diaudit oleh auditor internal maupun eksternal.
 
-Lihat laporan audit di sini: [https://docs.pancakeswap.finance/readme/audits](https://docs.pancakeswap.finance/readme/audits)
+Lihat laporan audit di sini: [https://docs.pancakeswap.finance/welcome-to-pancakeswap/audits](https://docs.pancakeswap.finance/welcome-to-pancakeswap/audits)

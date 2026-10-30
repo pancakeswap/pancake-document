@@ -11,7 +11,7 @@ Dengan penerapan multichain, PancakeSwap kini menghadirkan pengalaman Yield Farm
 
 Lihat [bagian utama](../) untuk mempelajari lebih lanjut tentang Yield Farming.
 
-Lihat [panduan Cara Menggunakan Farm](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) kami untuk mulai farming.
+Lihat [panduan Cara Menggunakan Farm](https://docs.pancakeswap.finance/earn/yield-farming/how-to-use-farms/how-to-use-farms) kami untuk mulai farming.
 
 {% hint style="warning" %}
 Yield farming dapat memberikan hadiah yang lebih baik daripada Syrup Pools, tetapi mengandung risiko **Impermanent Loss**. Ini tidak semenakutkan kedengarannya, namun tetap penting untuk memahami konsep ini sebelum Anda mulai.

@@ -1,7 +1,3 @@
----
-description: '"Jangan sebut itu peta jalan"'
----
-
 # 🗺️ Roadmap
 
 _Diperbarui pada 1 Juni 2026_

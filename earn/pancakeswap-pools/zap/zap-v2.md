@@ -29,7 +29,7 @@ Catatan: Saat ini, fitur Zap masih dalam versi beta. Harap dicatat bahwa fitur i
 
 Kunjungi [halaman Likuiditas](https://pancakeswap.finance/liquidity), dan pilih "Add Liquidity".
 
-Pilih pasangan Trading yang ingin Anda sediakan Likuiditasnya dengan memilih dua token input, lihat [panduan Likuiditas](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide) untuk mempelajari lebih lanjut.
+Pilih pasangan Trading yang ingin Anda sediakan Likuiditasnya dengan memilih dua token input, lihat [panduan Likuiditas](https://docs.pancakeswap.finance/earn/pancakeswap-pools/liquidity-guide) untuk mempelajari lebih lanjut.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-1.png)
 

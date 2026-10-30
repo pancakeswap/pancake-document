@@ -29,7 +29,7 @@ Berikut beberapa alasan mengapa Anda mungkin ingin melakukan bridge:
 
 ## CAKE, sebuah token multichain
 
-Dengan ekspansi dan penerapan multichain kami, CAKE kini menjadi token multichain yang asli di BNB Chain, tetapi juga tersedia di Base, Arbitrum, Solana, Ethereum, ZKsync, Linea, opBNB, dan Aptos.
+Dengan ekspansi dan penerapan multichain kami, CAKE kini menjadi token multichain yang asli di BNB Chain, tetapi juga tersedia di Base, Arbitrum, Solana, Ethereum, ZKsync, Linea, opBNB, Monad, dan Aptos.
 
 CAKE di rantai mana pun setara dengan CAKE di BNB Smart Chain. CAKE selalu dapat di-bridge antar rantai dengan rasio 1:1 dan tanpa biaya apa pun dalam bentuk CAKE.
 
@@ -67,6 +67,7 @@ Saat ini kami berintegrasi dengan:
 * LayerZero
 * Stargate
 * Meson
+* Mayan
 
 > Catatan: Setiap penyedia memiliki mekanisme bridging, rantai yang didukung, biaya, dan batas yang berbeda.
 
@@ -83,6 +84,9 @@ Saat ini kami berintegrasi dengan:
 * opBNB
 * ZKsync
 * Linea
+* Monad
+* Robinhood
+* Solana
 * Aptos (Situs V1)
 
 #### Token yang Tersedia untuk Bridging
@@ -197,3 +201,7 @@ Jika transaksi macet dalam waktu lama, periksa penjelajah yang relevan atau hubu
    * `cakeOFT`: `0x3055913c90Fcc1A6CE9a358911721eEb942013A1` ([link](https://basescan.org/address/0x3055913c90Fcc1A6CE9a358911721eEb942013A1#code))
 8. **opBNB**
    * `cakeOFT`: `0x2779106e4F4A8A28d77A24c18283651a2AE22D1C` ([link](https://opbnbscan.com/address/0x2779106e4F4A8A28d77A24c18283651a2AE22D1C?tab=Contract\&p=1))
+9. **Monad**
+   * `cakeOFT`: `0xF59D81cd43f620E722E07f9Cb3f6E41B031017a3`
+10. **Solana**
+    * `cakeOFT`: `4qQeZ5LwSz6HuupUu8jCtgXyW1mYQcNbFAW1sWZp89HL`

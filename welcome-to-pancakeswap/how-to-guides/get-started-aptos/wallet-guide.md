@@ -1,7 +1,5 @@
 # Buat Dompet
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-make-a-crypto-wallet-header.png)
-
 Untuk memulai perjalanan PancakeSwap Anda di Aptos, hal pertama yang perlu Anda lakukan adalah menyiapkan dompet yang mendukung Aptos Chain. Dompet tersedia baik di komputer desktop maupun perangkat smartphone. Anda perlu memilih dompet yang paling sesuai dengan kebutuhan Anda.
 
 {% hint style="danger" %}

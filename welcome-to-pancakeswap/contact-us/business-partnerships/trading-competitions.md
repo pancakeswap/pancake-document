@@ -4,7 +4,7 @@ Tertarik untuk meningkatkan volume dan mendapatkan perhatian lebih untuk proyek 
 
 Kami akan mengurus pengaturan, pelacakan, dan pengumuman - Anda menyediakan hadiahnya, kami yang mengelola acaranya.
 
-Ini tersedia di BNB Chain, Solana, Base, Arbitrum, Ethereum, ZKsync, Linea, opBNB, dan Polygon zkEVM.
+Ini tersedia di BNB Chain, Solana, Base, Arbitrum, Ethereum, ZKsync, Linea, dan opBNB.
 
 _Beberapa proyek yang berpartisipasi sebelumnya melihat peningkatan 3-7 kali lipat dalam volume perdagangan dan alamat yang aktif diperdagangkan_
 

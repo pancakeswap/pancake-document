@@ -6,7 +6,7 @@
 
 ## Mengapa kita membutuhkan Pottery saat sudah ada Lottery v2?
 
-Pottery adalah produk yang sepenuhnya berbeda dibandingkan Lottery v2. Ini adalah kombinasi dari pool CAKE yang dikunci dan fungsi Lotere yang memanfaatkan implementasi VRF dari Chainlink untuk keacakan yang benar dan aman. Dengan berpartisipasi dalam Pottery, Anda tidak akan kehilangan CAKE yang Anda setorkan, Anda hanya mempertaruhkan hadiah Staking dari CAKE yang Anda setorkan. Produk ini dirancang untuk pengguna CAKE yang lebih menghindari risiko tetapi masih ingin berpartisipasi dalam produk yang sifatnya seperti ini. Ini adalah cara yang mudah, menyenangkan, dan aman untuk mendapatkan kesempatan memenangkan sejumlah CAKE. Pelajari lebih lanjut tentang [struktur produk di sini](https://docs.pancakeswap.finance/products/pottery).
+Pottery adalah produk yang sepenuhnya berbeda dibandingkan Lottery v2. Ini adalah kombinasi dari pool CAKE yang dikunci dan fungsi Lotere yang memanfaatkan implementasi VRF dari Chainlink untuk keacakan yang benar dan aman. Dengan berpartisipasi dalam Pottery, Anda tidak akan kehilangan CAKE yang Anda setorkan, Anda hanya mempertaruhkan hadiah Staking dari CAKE yang Anda setorkan. Produk ini dirancang untuk pengguna CAKE yang lebih menghindari risiko tetapi masih ingin berpartisipasi dalam produk yang sifatnya seperti ini. Ini adalah cara yang mudah, menyenangkan, dan aman untuk mendapatkan kesempatan memenangkan sejumlah CAKE. Pelajari lebih lanjut tentang [struktur produk di sini](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery).
 
 ## Apakah Pottery menggantikan Lottery v2 yang asli?
 
@@ -34,11 +34,11 @@ Terkadang mungkin ada sedikit keterlambatan karena pembacaan Subgraph, akan ada 
 
 ## Bagaimana saya tahu jika saya menang dalam undian mingguan?
 
-Setelah setiap undian pada Jumat sekitar siang UTC, Anda dapat melihat hasil dan pemenang di panel Ronde Selesai. Cara lain untuk memeriksa apakah Anda menang dalam undian mingguan mana pun adalah dengan memeriksa di panel Klaim untuk melihat apakah ada hadiah yang dapat diklaim. Lihat [halaman ini tentang cara berpartisipasi](https://docs.pancakeswap.finance/products/pottery/how-to-play-pottery)!
+Setelah setiap undian pada Jumat sekitar siang UTC, Anda dapat melihat hasil dan pemenang di panel Ronde Selesai. Cara lain untuk memeriksa apakah Anda menang dalam undian mingguan mana pun adalah dengan memeriksa di panel Klaim untuk melihat apakah ada hadiah yang dapat diklaim. Lihat [halaman ini tentang cara berpartisipasi](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery/how-to-play-pottery)!
 
 ## Apa sumber pendanaan hadiah?
 
-Pool hadiah didanai oleh hadiah Staking dari setoran. Namun, karena hadiah Staking dari pool CAKE locked staking hanya didistribusikan setelah durasi kunci — 10 minggu dalam kasus ini, untuk pengalaman produk yang lebih baik dan untuk memfasilitasi undian mingguan tepat setelah tanggal setoran, kontrak meminjam 80% dari perkiraan total hadiah Staking dari kelompok tersebut dari perbendaharaan CAKE berdasarkan APR pada saat penguncian. CAKE yang dipinjam digunakan untuk pembayaran setiap undian mingguan. Pelajari lebih lanjut tentang [struktur produk di sini](https://docs.pancakeswap.finance/products/pottery)!
+Pool hadiah didanai oleh hadiah Staking dari setoran. Namun, karena hadiah Staking dari pool CAKE locked staking hanya didistribusikan setelah durasi kunci — 10 minggu dalam kasus ini, untuk pengalaman produk yang lebih baik dan untuk memfasilitasi undian mingguan tepat setelah tanggal setoran, kontrak meminjam 80% dari perkiraan total hadiah Staking dari kelompok tersebut dari perbendaharaan CAKE berdasarkan APR pada saat penguncian. CAKE yang dipinjam digunakan untuk pembayaran setiap undian mingguan. Pelajari lebih lanjut tentang [struktur produk di sini](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery)!
 
 ## Jika saya menang, apakah saya perlu mengklaim hadiah secara manual?
 

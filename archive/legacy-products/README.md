@@ -12,7 +12,7 @@ description: Titik masuk dan referensi untuk produk-produk lawas
 * [PancakeSwap Quest](archived-pancakeswap-quest/) (28 Februari 2025)
 * [Liquid Staking](https://pancakeswap.finance/liquid-staking)
 * [Team Leaderboard](https://pancakeswap.finance/teams)
-* [PancakeSwap Mini-Program](/broken/pages/ORNMTC8QPBoziOExV3BW)
+* PancakeSwap Mini-Program
 * [Options](archived-options/)
 * [Halaman Riwayat LP](https://pancakeswap.finance/farms/history)
 * [Position Manager ](archived-position-manager.md)(21 Juni 2025)

@@ -44,7 +44,7 @@ Perlu diperhatikan bahwa struct `PoolInfo` baru **tidak** berisi kolom alamat to
 
 Gunakan `lpToken.balanceOf(MasterChef.address)` untuk mendapatkan total jumlah staking untuk farm pool mana pun.
 
-Namun, di MasterChef v2, saham pengguna dapat ditingkatkan (segera hadir). Oleh karena itu, hadiah dihitung menggunakan kolom `totalBoostedShare` baru di `PoolInfo` sebagai total saham setiap pool. Misalnya, jika pool 0 memiliki 2 pengguna, pengguna1 melakukan staking 100 LP (tanpa boost), pengguna2 melakukan staking 100 (dengan `boostMultiplier` sebesar 1,05), maka `totalBoostedShare` akan menjadi 205. Mengakibatkan pengguna2 mendapatkan hadiah lebih banyak.
+Namun, di MasterChef v2, saham pengguna dapat ditingkatkan. Oleh karena itu, hadiah dihitung menggunakan kolom `totalBoostedShare` baru di `PoolInfo` sebagai total saham setiap pool. Misalnya, jika pool 0 memiliki 2 pengguna, pengguna1 melakukan staking 100 LP (tanpa boost), pengguna2 melakukan staking 100 (dengan `boostMultiplier` sebesar 1,05), maka `totalBoostedShare` akan menjadi 205. Mengakibatkan pengguna2 mendapatkan hadiah lebih banyak.
 
 #### CakePerBlock
 

@@ -234,7 +234,7 @@ Anda tidak memiliki cukup SYRUP di dompet Anda untuk melakukan unstake dari pool
 
 Jika masih gagal, Anda dapat melakukan "emergencyWithdraw" dari kontrak secara langsung untuk melakukan unstake token yang di-stake.
 
-1. Buka: [https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract)
+1. Buka: [https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract](https://bscscan.com/)
 2. Klik **"Connect to Web3"** dan hubungkan dompet Anda. ![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
 3. Di bagian **"4. emergencyWithdraw"**, masukkan "0" dan klik "Write".
 
@@ -305,7 +305,7 @@ Pertama, [beri tahu tim](../social-accounts.md) pool mana yang Anda coba unstake
 Anda dapat melakukan "emergencyWithdraw" dari kontrak secara langsung untuk melakukan unstake token yang di-stake.
 
 1. Temukan alamat kontrak Syrup Pool yang ingin Anda unstake. Anda dapat menemukannya di log transaksi dompet Anda.
-2. Buka [https://bscscan.com/](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract) dan di bilah pencarian, masukkan alamat kontrak.
+2. Buka [https://bscscan.com/](https://bscscan.com/) dan di bilah pencarian, masukkan alamat kontrak.
 3. Pilih **Write Contract.**
 4. Klik **"Connect to Web3"** dan hubungkan dompet Anda.![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
 5. Di bagian **"3. emergencyWithdraw",** dan klik "Write".
@@ -324,7 +324,7 @@ Kesalahan ini cenderung muncul saat Anda mencoba melakukan unstake dari Syrup Po
 
 ## **Masalah dengan Prediksi**
 
-Periksa [Broken link](/broken/pages/8zN9xzaYD1DvxZvzLzug "mention")
+Periksa [FAQ Prediction](../../../play/prediction/prediction-faq.md "mention")
 
 ## **Masalah lainnya**
 

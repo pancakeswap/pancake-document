@@ -11,7 +11,7 @@ Untuk informasi lebih lanjut kunjungi: [https://pancakeswap.notion.site/cakepad]
 Proyek yang memenuhi syarat harus:
 
 * Memiliki produk yang berfungsi atau MVP.
-* Siap meluncurkan token dan likuiditas di PancakeSwap (BNB, Base, ARB, ETH, ZKsync, Linea, opBNB).
+* Siap meluncurkan token dan likuiditas di PancakeSwap (BNB Chain, Base, Monad).
 * Memberikan waktu persiapan 3–4 minggu sebelum TGE.
 * Menunjukkan potensi pertumbuhan komunitas yang kuat.
 * Lulus tinjauan uji tuntas PancakeSwap.

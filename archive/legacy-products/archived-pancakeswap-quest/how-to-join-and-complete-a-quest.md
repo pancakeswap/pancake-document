@@ -8,7 +8,7 @@
 
 1.  Pengguna dapat memilih untuk bergabung dalam quest langsung melalui tautan atau menuju ke [halaman utama quest](https://quest.pancakeswap.finance/quests) kami untuk menelusuri item baru. Klik ke salah satu quest untuk mempelajari lebih lanjut.&#x20;
 
-    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%206.54.53%20PM.png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%206.54.53%E2%80%AFPM.png" alt="" width="563"><figcaption></figcaption></figure>
 2. Dari halaman jelajah, Anda dapat menelusuri quest dengan jumlah tugas, pemenang, rantai, dan periode waktu yang berbeda.
 3. Mulai quest
    1. Setelah quest dipilih, pengguna dapat mengklik "Join Quest" untuk mulai berpartisipasi dalam quest.
@@ -17,7 +17,7 @@
 
 1.  Pengguna harus memenuhi tugas dan tindakan sebelum menyelesaikan setiap quest. Pilih tugas dan ikuti teks yang muncul di layar untuk memenuhi tantangan. Tindakan dapat berkisar dari tugas sosial hingga item on-chain.&#x20;
 
-    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%207.18.31%20PM.png" alt="" width="368"><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%207.18.31%E2%80%AFPM.png" alt="" width="368"><figcaption></figcaption></figure>
 2.  Tugas Sosial - Tugas dapat mencakup:
 
     1. Menyukai postingan di X
@@ -42,7 +42,7 @@
     **Catatan: Karena kecepatan pengambilan data, tugas on-chain mungkin memerlukan waktu hingga 1 jam untuk diverifikasi di rantai tertentu.**&#x20;
 4.  Anda dapat melihat tugas yang tersisa melalui bilah status di bagian atas. Setelah quest selesai, akan ditampilkan "Completed" di kiri atas. Jika quest memiliki hadiah token, Anda kemudian akan memenuhi syarat untuk undian acak hadiah.&#x20;
 
-    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%207.28.19%20PM.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%207.28.19%E2%80%AFPM.png" alt=""><figcaption></figcaption></figure>
 5. Pengguna juga dapat memilih untuk menyelesaikan tugas opsional, yang tidak dihitung menuju penyelesaian yang diperlukan dalam quest.
 
 ### Periksa Status Quest

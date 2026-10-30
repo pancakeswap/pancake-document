@@ -114,8 +114,8 @@ Pemungutan suara vCAKE kini telah ditingkatkan untuk mendukung veCAKE. Lihat:
 
 Semua pemegang veCAKE (baik native maupun yang telah bermigrasi) akan secara otomatis terdaftar dalam pool berbagi pendapatan baru. Bagian pendapatan didistribusikan sesuai jadwal yang ada. Pool berbagi pendapatan lama akan dihentikan, pengguna dapat mengklaim hadiah tertunda mereka dengan membuka kartu manfaat. Lihat:
 
-{% content-ref url="/broken/pages/wQegezs7c6A2HzQjPEjh" %}
-[Broken link](/broken/pages/wQegezs7c6A2HzQjPEjh)
+{% content-ref url="revenue-sharing-faq.md" %}
+[Revenue Sharing FAQ](revenue-sharing-faq.md)
 {% endcontent-ref %}
 
 #### Bisakah dompet multisig digunakan untuk berinteraksi dengan veCAKE?
@@ -162,4 +162,4 @@ Untuk meningkatkan emisi ke gauge ini, lihat [Gauge Voting](../../../welcome-to-
 
 Ini adalah insentif yang berasal dari berbagi pendapatan protokol, yang berasal dari biaya swap yang dikumpulkan dalam produk DEX.
 
-Lihat [Berbagi Pendapatan](/broken/pages/wQegezs7c6A2HzQjPEjh) untuk info lebih lanjut.
+Lihat [Berbagi Pendapatan](revenue-sharing-faq.md) untuk info lebih lanjut.
