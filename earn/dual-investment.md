@@ -1,164 +1,164 @@
-# 🍩 Dual Investment
+# 🍩 듀얼 인베스트먼트 (Dual Investment)
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Frame%201%20%282%29.png" alt=""><figcaption></figcaption></figure>
 
-Dual Investment lets you commit funds at a target price and earn a fixed reward, whichever way the market settles. Pick an asset, choose whether you want to **Buy Low** or **Sell High**, and select a target price and settlement date. At settlement, you receive your principal plus the reward, either in the asset you deposited or converted at your target price.
+듀얼 인베스트먼트는 목표 가격에 자금을 투자하고, 시장이 어느 방향으로 결정되든 고정 보상을 받을 수 있는 상품입니다. 자산을 고르고 **Buy Low**(저가 매수) 또는 **Sell High**(고가 매도) 중 하나를 선택한 뒤, 목표 가격과 정산일을 정합니다. 정산 시점에 원금과 보상을 받게 되며, 예치한 자산 그대로 받거나 목표 가격으로 환산된 자산으로 받게 됩니다.
 
-Dual Investment is live on BNB Chain with **BTCB** and **BNB**, paired against **USDT**.
+듀얼 인베스트먼트는 BNB 체인에서 **BTCB**와 **BNB**를 **USDT**와 짝지어 제공합니다.
 
 {% hint style="info" %}
-Dual Investment is not a savings product. Depending on the settlement price, your funds may be converted into another asset at your target price, and that asset may be worth less than what you deposited.
+듀얼 인베스트먼트는 예금 상품이 아닙니다. 정산 가격에 따라 투자금이 목표 가격으로 다른 자산으로 전환될 수 있으며, 그 자산의 가치가 예치한 금액보다 낮을 수 있습니다.
 {% endhint %}
 
 ***
 
-## What is Dual Investment?
+## 듀얼 인베스트먼트란?
 
-#### **Two outcomes, one fixed reward**
+#### **두 가지 결과, 하나의 고정 보상**
 
-Each Dual Investment product has a target price and a settlement date. When you subscribe, your reward is locked in at the APR shown. At settlement, the market price decides which of two outcomes you get:
+각 듀얼 인베스트먼트 상품에는 목표 가격과 정산일이 있습니다. 가입하는 시점에 표시된 APR로 보상이 확정됩니다. 정산 시점에는 시장 가격에 따라 다음 두 가지 결과 중 하나가 적용됩니다.
 
-* **The price does not reach your target.** You get back your original asset plus the reward.
-* **The price reaches your target.** Your principal and reward are converted into the other asset at your target price.
+* **가격이 목표에 도달하지 않은 경우.** 원래 자산에 보상을 더해 돌려받습니다.
+* **가격이 목표에 도달한 경우.** 원금과 보상이 목표 가격으로 다른 자산으로 전환됩니다.
 
-You earn the reward in both cases. The only thing that changes is which asset you receive.
+어느 경우든 보상은 받게 됩니다. 달라지는 것은 어떤 자산으로 받느냐뿐입니다.
 
 #### **Buy Low**
 
-Use Buy Low when you would be happy to buy BTCB or BNB below today's price. You deposit **USDT** and pick a target price below the current price.
+오늘 가격보다 낮은 가격에 BTCB나 BNB를 사도 좋다고 생각할 때 Buy Low를 사용합니다. **USDT**를 예치하고 현재 가격보다 낮은 목표 가격을 선택합니다.
 
-| Settlement price        | You receive                                                     |
-| ----------------------- | --------------------------------------------------------------- |
-| At or above your target | USDT (principal + reward)                                       |
-| Below your target       | BTCB or BNB, bought at your target price along with your reward |
+| 정산 가격        | 받는 자산                                             |
+| ---------------- | ----------------------------------------------------- |
+| 목표 가격 이상   | USDT (원금 + 보상)                                    |
+| 목표 가격 미만   | 목표 가격으로 매수한 BTCB 또는 BNB와 보상             |
 
 #### **Sell High**
 
-Use Sell High when you would be happy to sell BTCB or BNB above today's price. You deposit **BTCB or BNB** and pick a target price above the current price.
+오늘 가격보다 높은 가격에 BTCB나 BNB를 팔아도 좋다고 생각할 때 Sell High를 사용합니다. **BTCB 또는 BNB**를 예치하고 현재 가격보다 높은 목표 가격을 선택합니다.
 
-| Settlement price        | You receive                                            |
-| ----------------------- | ------------------------------------------------------ |
-| At or below your target | BTCB or BNB (principal + reward)                       |
-| Above your target       | USDT, sold at your target price along with your reward |
+| 정산 가격        | 받는 자산                                             |
+| ---------------- | ----------------------------------------------------- |
+| 목표 가격 이하   | BTCB 또는 BNB (원금 + 보상)                           |
+| 목표 가격 초과   | 목표 가격으로 매도한 USDT와 보상                      |
 
-#### **How the APR works**
+#### **APR 산정 방식**
 
-The APR depends on how close the target price is to the current price and how long the product runs. Targets closer to the current price pay a higher APR because they are more likely to be converted. Targets further away pay less but are more likely to return your original asset.
+APR은 목표 가격이 현재 가격과 얼마나 가까운지, 그리고 상품 기간이 얼마나 긴지에 따라 달라집니다. 현재 가격에 가까운 목표 가격일수록 전환될 가능성이 높아 APR이 더 높습니다. 멀리 떨어진 목표 가격은 APR이 낮은 대신 원래 자산을 돌려받을 가능성이 높습니다.
 
-Your reward is calculated as:
+보상은 다음과 같이 계산됩니다.
 
-`Reward = Subscription amount × APR × (Days to settlement ÷ 365)`
+`보상 = 가입 금액 × APR × (정산까지 남은 일수 ÷ 365)`
 
-#### **Example: Buy Low**
+#### **예시: Buy Low**
 
-BTCB is trading at $83,467. You subscribe 1,000 USDT to a 1-day Buy Low product with a $82,000 target at 14.68% APR. Your reward is about 0.40 USDT.
+BTCB가 $83,467에 거래되고 있습니다. 목표 가격 $82,000, APR 14.68%인 1일짜리 Buy Low 상품에 1,000 USDT를 가입합니다. 보상은 약 0.40 USDT입니다.
 
-| Settlement price | You receive                           |
-| ---------------- | ------------------------------------- |
-| $82,000 or above | 1,000.40 USDT                         |
-| Below $82,000    | 0.0122 BTCB (1,000.40 USDT ÷ $82,000) |
+| 정산 가격         | 받는 자산                                  |
+| ----------------- | ------------------------------------------ |
+| $82,000 이상      | 1,000.40 USDT                              |
+| $82,000 미만      | 0.0122 BTCB (1,000.40 USDT ÷ $82,000)      |
 
-If BTCB settles at $78,000, you still buy at $82,000. You would hold 0.0122 BTCB worth about 951.60 USDT, which is less than you deposited.
+BTCB가 $78,000에 정산되더라도 매수 가격은 $82,000입니다. 약 951.60 USDT 가치의 0.0122 BTCB를 보유하게 되며, 이는 예치한 금액보다 적습니다.
 
-#### **Example: Sell High**
+#### **예시: Sell High**
 
-BTCB is trading at $83,467. You subscribe 0.01 BTCB to a 1-day Sell High product with a $84,500 target at 89.28% APR. Your reward is about 0.0000245 BTCB.
+BTCB가 $83,467에 거래되고 있습니다. 목표 가격 $84,500, APR 89.28%인 1일짜리 Sell High 상품에 0.01 BTCB를 가입합니다. 보상은 약 0.0000245 BTCB입니다.
 
-| Settlement price | You receive                            |
-| ---------------- | -------------------------------------- |
-| $84,500 or below | 0.0100245 BTCB                         |
-| Above $84,500    | 847.07 USDT (0.0100245 BTCB × $84,500) |
+| 정산 가격         | 받는 자산                                    |
+| ----------------- | -------------------------------------------- |
+| $84,500 이하      | 0.0100245 BTCB                               |
+| $84,500 초과      | 847.07 USDT (0.0100245 BTCB × $84,500)       |
 
-If BTCB settles at $88,000, you still sell at $84,500. You would receive 847.07 USDT for BTCB that would have been worth about 882 USDT.
+BTCB가 $88,000에 정산되더라도 매도 가격은 $84,500입니다. 약 882 USDT의 가치가 있었을 BTCB에 대해 847.07 USDT를 받게 됩니다.
 
-#### **Who is on the other side?**
+#### **상대방은 누구인가요?**
 
-Each product is quoted by a market maker, who takes the other side of your position. Market makers post a bond that secures your payout. If a market maker defaults, your claim is covered by their bond.
+각 상품은 마켓 메이커가 호가를 제시하며, 마켓 메이커가 여러분의 포지션 상대방이 됩니다. 마켓 메이커는 지급을 보장하는 담보를 예치합니다. 마켓 메이커가 이행하지 못하면 해당 담보로 여러분의 청구권이 보전됩니다.
 
 ***
 
-## How to use Dual Investment
+## 듀얼 인베스트먼트 이용 방법
 
-#### **Go to the Dual Investment page**
+#### **듀얼 인베스트먼트 페이지로 이동**
 
-Head to [pancakeswap.finance/dual-investment](https://pancakeswap.finance/dual-investment?chain=bsc) or click **Dual Investment** in the main PancakeSwap navigation bar.
+[pancakeswap.finance/dual-investment](https://pancakeswap.finance/dual-investment?chain=bsc)로 이동하거나, PancakeSwap 메인 내비게이션 바에서 **Dual Investment**를 클릭하세요.
 
-#### **1. Choose a target asset**
+#### **1. 대상 자산 선택**
 
-Select **BTCB** or **BNB**. Each card shows the current price and the APR range available across all products for that asset.
+**BTCB** 또는 **BNB**를 선택합니다. 각 카드에는 현재 가격과 해당 자산의 모든 상품에서 제공되는 APR 범위가 표시됩니다.
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28407%29.png" alt=""><figcaption></figcaption></figure>
 
-#### **2. Choose a direction**
+#### **2. 방향 선택**
 
-Select **Buy Low** to deposit USDT and buy the asset at a lower price, or **Sell High** to deposit the asset and sell it at a higher price.
+USDT를 예치해 더 낮은 가격에 자산을 매수하려면 **Buy Low**를, 자산을 예치해 더 높은 가격에 매도하려면 **Sell High**를 선택합니다.
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28430%29.png" alt=""><figcaption></figcaption></figure>
 
-#### **3. Pick a settlement date and target price**
+#### **3. 정산일과 목표 가격 선택**
 
-Use the duration filters (**1 Day**, **< 3 Days**, **< 7 Days**, and longer) to narrow the list. Products are grouped by settlement date. Each row shows the target price, its distance from the current price, and the APR.
+기간 필터(**1 Day**, **< 3 Days**, **< 7 Days** 및 그 이상)로 목록을 좁힐 수 있습니다. 상품은 정산일별로 묶여 있으며, 각 행에는 목표 가격, 현재 가격과의 차이, APR이 표시됩니다.
 
-The countdown next to each settlement date shows how long you have left to subscribe. Subscriptions close before settlement.
+각 정산일 옆의 카운트다운은 가입 가능한 남은 시간을 보여줍니다. 가입은 정산 전에 마감됩니다.
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28475%29.png" alt=""><figcaption></figcaption></figure>
 
-#### **4. Enter your subscription amount**
+#### **4. 가입 금액 입력**
 
-Click **Subscribe** on the target you want, then enter an amount or tap **MAX**. Each product has a minimum and maximum per subscription, and a fixed total capacity. Once a target is fully subscribed, it cannot reopen, so you will need to pick another target price.
+원하는 목표 가격에서 **Subscribe**를 클릭한 다음 금액을 입력하거나 **MAX**를 누릅니다. 각 상품에는 가입 건당 최소/최대 금액과 고정된 총 한도가 있습니다. 목표 가격의 한도가 모두 채워지면 다시 열리지 않으므로 다른 목표 가격을 선택해야 합니다.
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28476%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-#### **5. Review and confirm**
+#### **5. 검토 및 확인**
 
-Review the direction, target price, settlement date and both outcomes.&#x20;
+방향, 목표 가격, 정산일, 그리고 두 가지 결과를 확인합니다.&#x20;
 
-The rate is held for a short time while you confirm. If it expires or moves, the page fetches a new rate and asks you to accept it before you continue.
+확인하는 동안 일정 시간 동안만 해당 요율이 유지됩니다. 요율이 만료되거나 변동되면 페이지가 새 요율을 가져와 계속하기 전에 수락을 요청합니다.
 
-#### **6. Claim your payout**
+#### **6. 지급금 수령**
 
-After settlement, click **Claim** on a position, or **Claim all** to claim every settled position at once. Your payout is sent to your wallet in the asset determined by the settlement outcome.
+정산 후 포지션에서 **Claim**을 클릭하거나, **Claim all**로 정산된 모든 포지션을 한 번에 수령합니다. 지급금은 정산 결과에 따라 결정된 자산으로 지갑에 전송됩니다.
 
 ***
 
-## Dual Investment FAQ
+## 듀얼 인베스트먼트 FAQ
 
-#### **What is Dual Investment?**
+#### **듀얼 인베스트먼트란 무엇인가요?**
 
-Dual Investment is a product that lets you commit funds at a target price and earn a fixed reward. At settlement, you receive your principal plus the reward, either in your original asset or converted into the other asset at your target price.
+듀얼 인베스트먼트는 목표 가격에 자금을 투자하고 고정 보상을 받을 수 있는 상품입니다. 정산 시점에 원금과 보상을 원래 자산으로 받거나, 목표 가격으로 다른 자산으로 전환되어 받게 됩니다.
 
-#### **Which assets are supported?**
+#### **어떤 자산을 지원하나요?**
 
-BTCB and BNB, paired against USDT, on BNB Chain.
+BNB 체인에서 USDT와 짝지어진 BTCB와 BNB를 지원합니다.
 
-#### **What is the difference between Buy Low and Sell High?**
+#### **Buy Low와 Sell High의 차이는 무엇인가요?**
 
-Buy Low lets you deposit USDT and buy BTCB or BNB at a target price below the current price. Sell High lets you deposit BTCB or BNB and sell it at a target price above the current price.
+Buy Low는 USDT를 예치하고 현재 가격보다 낮은 목표 가격에 BTCB 또는 BNB를 매수하는 방식입니다. Sell High는 BTCB 또는 BNB를 예치하고 현재 가격보다 높은 목표 가격에 매도하는 방식입니다.
 
-#### **Do I earn the reward in both outcomes?**
+#### **두 가지 결과 모두에서 보상을 받나요?**
 
-Yes. The reward is fixed when you subscribe and is paid in both outcomes. It is paid together with your principal, in whichever asset you receive at settlement.
+네. 보상은 가입 시점에 확정되며 두 가지 결과 모두에서 지급됩니다. 정산 시 받게 되는 자산으로 원금과 함께 지급됩니다.
 
-#### **Can I withdraw before the settlement date?**
+#### **정산일 전에 출금할 수 있나요?**
 
-No. Once you subscribe, your funds are locked until settlement and the subscription cannot be cancelled.
+아니요. 가입하면 정산 시까지 자금이 잠기며 가입을 취소할 수 없습니다.
 
-#### **Why do APRs differ between products?**
+#### **상품마다 APR이 다른 이유는 무엇인가요?**
 
-Targets closer to the current price, and shorter settlement dates, generally pay higher APRs because they carry a higher chance of conversion. Rates are quoted live and can change between when you open a product and when you confirm.
+현재 가격에 가까운 목표 가격과 짧은 정산일은 전환 가능성이 높아 일반적으로 더 높은 APR을 제공합니다. 요율은 실시간으로 제시되며, 상품을 열었을 때와 확정하는 시점 사이에 변동될 수 있습니다.
 
-#### **Why did the rate change while I was subscribing?**
+#### **가입하는 동안 요율이 바뀐 이유는 무엇인가요?**
 
-Rates are quoted live by market makers and are only held for a short time. If the rate expires, moves, or another user fills that price first, the page fetches a new rate and asks you to accept it before you continue.
+요율은 마켓 메이커가 실시간으로 제시하며 짧은 시간 동안만 유지됩니다. 요율이 만료되거나 변동되거나 다른 사용자가 먼저 해당 가격을 체결하면, 페이지가 새 요율을 가져와 계속하기 전에 수락을 요청합니다.
 
-#### **Do I need to claim my payout?**
+#### **지급금을 직접 수령해야 하나요?**
 
-Yes. After settlement, claim your payout from **Your Holdings**. You can claim positions one by one or use **Claim all**.
+네. 정산 후 **Your Holdings**에서 지급금을 수령하세요. 포지션을 하나씩 수령하거나 **Claim all**을 사용할 수 있습니다.
 
-#### **Who takes the other side of my position?**
+#### **누가 제 포지션의 상대방이 되나요?**
 
-Market makers quote each product and take the other side of your position. They post a bond that secures your payout, and if a market maker defaults, your claim is covered by that bond.
+마켓 메이커가 각 상품의 호가를 제시하고 여러분의 포지션 상대방이 됩니다. 마켓 메이커는 지급을 보장하는 담보를 예치하며, 이행하지 못할 경우 해당 담보로 여러분의 청구권이 보전됩니다.
 
-#### **What fees are charged?**
+#### **어떤 수수료가 부과되나요?**
 
-It's free of charge.
+무료입니다.
