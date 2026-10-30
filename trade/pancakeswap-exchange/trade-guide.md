@@ -6,9 +6,9 @@ Giao dịch trên PancakeSwap rất dễ dàng so với hầu hết các sàn gi
 
 **Thiết lập để bắt đầu giao dịch**
 
-Trước khi giao dịch, bạn cần có ví tương thích với BNB Chain hoặc Ethereum. Bạn có thể tìm hiểu cách tạo ví [tại đây](https://docs.pancakeswap.finance/get-started/wallet-guide). Bạn cũng cần có một số token BEP-20 hoặc ERC-20 để giao dịch. Bạn có thể tìm hiểu cách lấy [tại đây](https://docs.pancakeswap.finance/get-started/bep20-guide).
+Trước khi giao dịch, bạn cần có ví tương thích với BNB Chain hoặc Ethereum. Bạn có thể tìm hiểu cách tạo ví [tại đây](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/wallet-guide). Bạn cũng cần có một số token BEP-20 hoặc ERC-20 để giao dịch. Bạn có thể tìm hiểu cách lấy [tại đây](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/bep20-guide).
 
-Ngoài ra, bạn có thể tìm hiểu cách lấy ví tương thích Aptos [tại đây](https://docs.pancakeswap.finance/get-started-aptos/wallet-guide), và cách lấy một số Aptos coin để hoán đổi [tại đây](https://docs.pancakeswap.finance/get-started-aptos/aptos-coin-guide).
+Ngoài ra, bạn có thể tìm hiểu cách lấy ví tương thích Aptos [tại đây](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-aptos/wallet-guide), và cách lấy một số Aptos coin để hoán đổi [tại đây](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-aptos/aptos-coin-guide).
 
 ## Giao Dịch Trên Sàn Giao Dịch PancakeSwap
 
@@ -64,7 +64,7 @@ Smart Router hiện là lộ trình mặc định cho PancakeSwap Exchange V3. T
 
 Để tìm hiểu thêm về cách tùy chỉnh lộ trình giao dịch, [nhấp vào đây](fees-and-routes.md).&#x20;
 
-Để biết thêm thông tin về StableSwap, [nhấp vào đây](/broken/pages/nNPogTZMxocdyFIBYbkE), và để biết về tích hợp Nhà Tạo Lập Thị Trường, [nhấp vào đây](market-maker-integration.md).
+Để biết thêm thông tin về StableSwap, [nhấp vào đây](../stableswap/classic-stableswap.md), và để biết về tích hợp Nhà Tạo Lập Thị Trường, [nhấp vào đây](market-maker-integration.md).
 
 ## FAQ
 

@@ -5,7 +5,7 @@
 * Sự kiện CAKE.PAD cho phép người dùng tiếp cận sớm các token dự án mới ngay khi ra mắt.
 * Người dùng nhận token dự án mới bằng **CAKE**.
 * Dự án nhận thanh khoản, khả năng hiển thị và quyền truy cập trực tiếp vào cộng đồng PancakeSwap.
-* Có thể diễn ra trên BNB, Base, ARB, ETH, Linea hoặc opBNB
+* Có thể diễn ra trên BNB Chain, Base hoặc Monad
 
 ### 2. Ai đủ điều kiện tham gia?
 

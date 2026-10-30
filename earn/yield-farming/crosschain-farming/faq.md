@@ -83,8 +83,6 @@ Phí này chỉ tính một lần trong giao dịch "stake" đầu tiên.
 
 ### Emissions đến từ đâu?&#x20;
 
-_cập nhật vào ngày 10 tháng 10 năm 2022_
-
 Hiện tại, các Chefs đã chuyển hướng 0,0189 CAKE mỗi block từ CAKE pool sang tất cả crosschain farms.&#x20;
 
 Đây là phân tích emissions:

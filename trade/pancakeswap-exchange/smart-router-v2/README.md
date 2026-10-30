@@ -6,7 +6,7 @@ hidden: true
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Smart%20Router.png" alt=""><figcaption></figcaption></figure>
 
-PancakeSwap Smart Router là thuật toán định tuyến liên kết AMM và StableSwap (BNB Chain), cũng như AMM và nhà tạo lập thị trường (Ethereum), để cung cấp thanh khoản và giá cả tốt hơn. Nó sử dụng thuật toán định tuyến lệnh thông minh thực hiện giao dịch trên nhiều pool để tìm giá tốt nhất cho trader. Để biết thêm thông tin về StableSwap [nhấp vào đây](/broken/pages/nNPogTZMxocdyFIBYbkE) và để biết thêm về tích hợp Nhà Tạo Lập Thị Trường [nhấp vào đây](../market-maker-integration.md).
+PancakeSwap Smart Router là thuật toán định tuyến liên kết AMM và StableSwap (BNB Chain), cũng như AMM và nhà tạo lập thị trường (Ethereum), để cung cấp thanh khoản và giá cả tốt hơn. Nó sử dụng thuật toán định tuyến lệnh thông minh thực hiện giao dịch trên nhiều pool để tìm giá tốt nhất cho trader. Để biết thêm thông tin về StableSwap [nhấp vào đây](../../stableswap/classic-stableswap.md) và để biết thêm về tích hợp Nhà Tạo Lập Thị Trường [nhấp vào đây](../market-maker-integration.md).
 
 The Kitchen sẽ dần triển khai thêm các cặp StableSwap để kiểm tra và cải tiến sản phẩm.
 

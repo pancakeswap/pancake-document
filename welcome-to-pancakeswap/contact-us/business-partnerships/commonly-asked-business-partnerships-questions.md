@@ -12,7 +12,7 @@ Nếu bạn đã có Syrup Pool đang hoạt động, bạn có thể gia hạn 
 
 #### Làm thế nào để niêm yết token của tôi trên sàn giao dịch?
 
-Bất kỳ ai cũng có thể "niêm yết" bất kỳ token ERC-20 / BEP-20 nào trên PancakeSwap. Bạn không cần phải liên hệ chúng tôi hoặc xin phép. Bạn chỉ cần [thêm thanh khoản vào nhóm thanh khoản](https://docs.pancakeswap.finance/products/pancakeswap-exchange/pancakeswap-pools) - đó là tất cả. Sau đó các trader có thể giao dịch token của bạn bằng cách nhập địa chỉ hợp đồng token.
+Bất kỳ ai cũng có thể "niêm yết" bất kỳ token ERC-20 / BEP-20 nào trên PancakeSwap. Bạn không cần phải liên hệ chúng tôi hoặc xin phép. Bạn chỉ cần [thêm thanh khoản vào nhóm thanh khoản](https://docs.pancakeswap.finance/earn/pancakeswap-pools) - đó là tất cả. Sau đó các trader có thể giao dịch token của bạn bằng cách nhập địa chỉ hợp đồng token.
 
 #### Làm thế nào để thêm token của tôi vào danh sách mặc định?
 
@@ -30,7 +30,7 @@ Do tính chất của PancakeSwap là DEX dựa trên AMM, chúng tôi không th
 
 #### Người dùng gặp lỗi khi giao dịch token của tôi. Tôi có thể làm gì?
 
-Kiểm tra [trang Khắc Phục Sự Cố](https://docs.pancakeswap.finance/readme/help/troubleshooting) của chúng tôi để có danh sách các lỗi phổ biến trên sàn giao dịch và cách giải quyết chúng.
+Kiểm tra [trang Khắc Phục Sự Cố](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/faq/troubleshooting) của chúng tôi để có danh sách các lỗi phổ biến trên sàn giao dịch và cách giải quyết chúng.
 
 #### Tại sao một số số liệu thống kê của token tôi không được hiển thị trên trang Info?
 

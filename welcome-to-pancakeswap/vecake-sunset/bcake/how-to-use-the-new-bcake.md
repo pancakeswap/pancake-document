@@ -38,7 +38,7 @@ Ngoài ra, hãy sử dụng bộ lọc "Booster Available" trong bộ chọn "Fa
 * Đối với V2 và StableSwap: stake token LP của bạn bằng cách nhấp "Add LP".
 * Đối với Position Manager: thêm thanh khoản bằng cách nhấp "Add Liquidity".
 
-Để tìm hiểu thêm về Yield Farming, hãy xem hướng dẫn [này](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms).
+Để tìm hiểu thêm về Yield Farming, hãy xem hướng dẫn [này](https://docs.pancakeswap.finance/earn/yield-farming/how-to-use-farms/how-to-use-farms).
 
 #### Kích hoạt bCAKE <a href="#b3a80f22-5043-4e4b-afae-93b4abec504e" id="b3a80f22-5043-4e4b-afae-93b4abec504e"></a>
 

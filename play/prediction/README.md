@@ -15,7 +15,7 @@ Bạn có thể chơi PancakeSwap Prediction trên:
 
 ### Tóm tắt: Cách hoạt động
 
-1. **Chọn tài sản để đặt cược**: Hiện có trên **BNB Chain**, **zkSync Era** và **Arbitrum One**.
+1. **Chọn tài sản để đặt cược**: Hiện có trên **BNB Chain**; thị trường trên **zkSync Era** và **Arbitrum One** tạm thời bị tạm dừng.
 2. **Chọn LÊN hay XUỐNG**: Dự đoán giá tài sản sẽ cao hơn hay thấp hơn khi giai đoạn "LIVE" kết thúc (mỗi vòng = 5 phút).
 3. Đặt số tiền cược: Bất kỳ số lượng BNB nào
 4. **Khóa vị thế của bạn**: Sau khi đặt, cược của bạn không thể thay đổi.
@@ -25,7 +25,7 @@ Bạn có thể chơi PancakeSwap Prediction trên:
 
 ### Cơ chế & Phí
 
-* **Chuỗi được hỗ trợ: BNB Chain, zkSync Era, Arbitrum One**
+* **Chuỗi được hỗ trợ: BNB Chain (đang hoạt động); zkSync Era, Arbitrum One (tạm dừng)**
 * **Tần suất vòng**: Mỗi **5 phút** (các vòng cuốn chiếu).
 * **Phí tham gia**: **3%** tổng quỹ thưởng của mỗi vòng, một phần sẽ đi vào **mua lại CAKE**.
 * **Tiền thắng**: Nhận bất cứ lúc nào sau khi kết quả được xác định.

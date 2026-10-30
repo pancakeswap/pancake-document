@@ -13,7 +13,6 @@ Mục tiêu của PancakeSwap là xây dựng một hệ sinh thái phi tập tr
 * [Giao dịch giao ngay](https://docs.pancakeswap.finance/earn/pancakeswap-pools#trading-fees) (15-23% phí giao dịch)
 * Giao dịch hợp đồng vĩnh viễn (20% toàn bộ lợi nhuận)
 * CAKE.PADs (100% toàn bộ phí)
-* Dự đoán (3% mỗi vòng)
 * Xổ số (20% toàn bộ CAKE tham gia)
 
 **Lượng phát hành được quản lý cẩn thận để đảm bảo thanh khoản được phân bổ đến các nhóm và sản phẩm hiệu quả nhất.** PancakeSwap tập trung vào việc mở rộng tăng trưởng khối lượng bằng cách tối ưu hóa các ưu đãi thanh khoản và nâng cao doanh thu trên mỗi CAKE chi tiêu. Mọi quyết định đều xoay quanh mục tiêu tạo ra doanh thu thực và đóng góp vào sự thành công lâu dài cho toàn bộ cộng đồng. Các sản phẩm nhận phát thải CAKE bao gồm:

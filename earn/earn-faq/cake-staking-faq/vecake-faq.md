@@ -114,8 +114,8 @@ Bỏ phiếu vCAKE đã được nâng cấp để hỗ trợ veCAKE. Xem:
 
 Tất cả những người giữ veCAKE (gốc hoặc đã chuyển đổi) sẽ tự động được đăng ký vào pool chia sẻ doanh thu mới. Cổ phần doanh thu được phân phối theo lịch trình hiện có. Pool chia sẻ doanh thu cũ sẽ bị ngừng hoạt động, người dùng có thể nhận phần thưởng đang chờ xử lý bằng cách đến thẻ lợi ích. Xem:
 
-{% content-ref url="/broken/pages/wQegezs7c6A2HzQjPEjh" %}
-[Broken link](/broken/pages/wQegezs7c6A2HzQjPEjh)
+{% content-ref url="revenue-sharing-faq.md" %}
+[Revenue Sharing FAQ](revenue-sharing-faq.md)
 {% endcontent-ref %}
 
 #### Ví multisig có thể được sử dụng để tương tác với veCAKE không?
@@ -162,4 +162,4 @@ Lưu ý rằng nhiều lợi ích khác từ veCAKE không thể được địn
 
 Đây là ưu đãi đến từ chia sẻ doanh thu giao thức, đến từ phí hoán đổi thu được trong các sản phẩm DEX.
 
-Xem [Revenue Sharing](/broken/pages/wQegezs7c6A2HzQjPEjh) để biết thêm thông tin.
+Xem [Revenue Sharing](revenue-sharing-faq.md) để biết thêm thông tin.

@@ -114,4 +114,4 @@ Do đó, trong giai đoạn phát hành sản phẩm ban đầu. Nhiều tham s�
 
 bCAKE đã được kiểm toán bởi cả kiểm toán viên nội bộ và bên ngoài.
 
-Xem các báo cáo kiểm toán tại đây: [https://docs.pancakeswap.finance/readme/audits](https://docs.pancakeswap.finance/readme/audits)
+Xem các báo cáo kiểm toán tại đây: [https://docs.pancakeswap.finance/welcome-to-pancakeswap/audits](https://docs.pancakeswap.finance/welcome-to-pancakeswap/audits)

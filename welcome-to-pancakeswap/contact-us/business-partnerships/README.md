@@ -4,7 +4,7 @@
 
 PancakeSwap (PCS) là sàn giao dịch phi tập trung (DEX) đa chuỗi hàng đầu, hiện đang hoạt động trên:
 
-> BNB Chain, Solana, Base, Arbitrum One, Ethereum, ZKsync Era, Linea, opBNB và Aptos
+> BNB Chain, Ethereum, Solana, Base, Arbitrum, Aptos, ZKsync, Linea, Monad, Robinhood và opBNB
 
 Chúng tôi rất muốn trò chuyện với các đội dự án, tiềm năng giới thiệu bạn đến một trong những DApp lớn nhất, tích cực và hoạt động nhất của crypto (với hơn 400 nghìn Người Dùng Hoạt Động Hàng Ngày)!
 
@@ -12,7 +12,7 @@ Kể từ khi bắt đầu, PancakeSwap đã phát triển mạnh mẽ trong b�
 
 Mặc dù trang này đóng vai trò như FAQ nhanh cho các Đội Dự Án để tìm hiểu thêm về chúng tôi – vui lòng liên hệ nếu bạn có thêm câu hỏi:
 
-* Đội BD trên Telegram (https://t.me/PancakeSwapBD)
+* **Đội BD trên Telegram: https://t.me/PancakeSwapBD (@PancakeSwapBD)**
 
 ### Quan tâm đến quan hệ đối tác? Hãy cùng xây dựng
 
@@ -44,9 +44,7 @@ Các câu hỏi thường gặp về quan hệ đối tác kinh doanh
 
 ### Lựa chọn hàng đầu của mọi người cho tất cả mọi thứ DeFi
 
-Đơn giản là hấp dẫn, và an toàn cũng vậy!&#x20;
-
-Với hơn 1,5 tỷ USD TVL, chúng tôi thích di chuyển nhanh chóng và làm điều đó có trách nhiệm. Với hơn bốn năm kinh nghiệm trong thị trường crypto, từ tăng trưởng đến suy giảm, chúng tôi đã cung cấp DeFi hiệu quả cho cộng đồng của mình. Đừng chỉ tin tưởng chúng tôi, hãy [xác minh](https://docs.pancakeswap.finance/audits).&#x20;
+Với hơn 1,5 tỷ USD TVL, chúng tôi thích di chuyển nhanh chóng và làm điều đó có trách nhiệm. Với hơn bốn năm kinh nghiệm trong thị trường crypto, từ tăng trưởng đến suy giảm, chúng tôi đã cung cấp DeFi hiệu quả cho cộng đồng của mình. Đừng chỉ tin tưởng chúng tôi, hãy [xác minh](https://docs.pancakeswap.finance/welcome-to-pancakeswap/audits).
 
 Các quan hệ đối tác của chúng tôi với các dự án vượt ra ngoài chỉ các chương trình phân phối token ("Syrup Pool") và cơ hội phát hành token ("Initial Farm Offerings"). Chúng tôi thực sự nhận ra tác động của cộng đồng trong crypto – đội Đại Sứ tận tâm của chúng tôi giúp chúng tôi giữ liên lạc với các cộng đồng đa dạng mà chúng tôi phục vụ, và chúng tôi thường xuyên tổ chức các sự kiện với sự tham gia cao cùng các đối tác: podcast, AMA, cuộc thi meme và nhiều hơn nữa!
 

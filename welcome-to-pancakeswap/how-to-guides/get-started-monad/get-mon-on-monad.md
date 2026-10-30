@@ -70,7 +70,7 @@ Một số ví hỗ trợ **mua crypto trong ứng dụng** bằng Apple Pay, Go
 
 #### IV. **Kết Nối Chuỗi MON từ Blockchain Khác**
 
-Đã có token trên chuỗi khác như **BNB Chain**, **Ethereum**, hoặc **Base**? Bạn có thể đưa vốn sang Solana bằng **các nền tảng kết nối chuỗi**.
+Đã có token trên chuỗi khác như **BNB Chain**, **Ethereum**, hoặc **Base**? Bạn có thể đưa vốn sang Monad bằng **các nền tảng kết nối chuỗi**.
 
 #### ✅ Bạn cần làm:
 

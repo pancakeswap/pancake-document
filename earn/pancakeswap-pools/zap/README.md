@@ -10,7 +10,7 @@ Zap là tính năng cho phép bạn thêm thanh khoản một cách dễ dàng. 
 
 ### Các Chuỗi Được Hỗ trợ
 
-* v3 - Tất cả pool trên BNB Chain, các pool được chọn trên mạng Ethereum & Arbitrum
+* v3 - Tất cả pool trên BNB Chain và Robinhood Chain, các pool được chọn trên mạng Ethereum & Arbitrum
 * Infinity - Tất cả pool CLAMM (không có hook) trên BNB Chain
 
 ### Cách Sử dụng <a href="#id-438fff0f-f1da-4147-9fe3-6dc1dc2ef352" id="id-438fff0f-f1da-4147-9fe3-6dc1dc2ef352"></a>

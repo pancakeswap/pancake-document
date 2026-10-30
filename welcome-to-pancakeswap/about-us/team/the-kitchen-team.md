@@ -1,85 +1,79 @@
-# Đội Ngũ Nhà Bếp
+# Đội ngũ Kitchen
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/the-kitchen-team-header.png)
 
-Bạn có thể chuyển đến bài viết phỏng vấn nhà bếp bằng cách nhấp vào tên đầu bếp.
+### Các đầu bếp
 
-### Các Đầu Bếp
+🐰 Chef Kids - Head Chef ([X/Twitter](https://x.com/Headchef_pcs))
 
-🐰 Chef Kids - Bếp Trưởng ([Twitter](https://x.com/Headchef_pcs))
+🐰 Chef Miso - Sản phẩm
 
-🐰 Chef Miso - Sản Phẩm
+🐰 Chef Kocha - Sản phẩm
 
-🐰 Chef Maroon - Trưởng BD ([Twitter](https://x.com/ChefMaroon))
+🐰 Chef Mustard - Vận hành ([X/Twitter](https://twitter.com/chef_mustard))
 
-🐰 Chef Doxie - Phát Triển Kinh Doanh ([Twitter](https://x.com/ChefDoxie))
+🐰 Chef Pau - Vận hành
 
-🐰 Chef Madeline - Phát Triển Kinh Doanh
+🐰 Chef Leo - Trưởng nhóm Phát triển kinh doanh ([X/Twitter](https://x.com/DYOR_WAGMI))
 
-🐰 Chef Leo - Phát Triển Kinh Doanh
+🐰 Chef Olive - Phát triển kinh doanh&#x20;
 
-🐰 Chef Mustard - Vận Hành ([Twitter](https://twitter.com/chef_mustard))
+🐰 Chef Cocoa - Trưởng nhóm Marketing ([X/Twitter](https://x.com/chef_cocoa_pcs))
 
-🐰 Chef Pau - Vận Hành
+🐰 Chef Alina - Marketing đối tác ([X/Twitter](https://x.com/0xalinatyng))
 
-🐰 Chef Cyrus - Dữ Liệu
+🐰 Chef Sake - Cộng đồng ([X/Twitter](https://x.com/KayraMeow))
 
-🐰 Chef Jackson - Trưởng Dev ([Twitter](https://x.com/0xchefjackson))
+🐰 Chef Marcus - Mạng xã hội &#x20;
 
-🐰 Chef Ryan - Trưởng Dev Frontend
+🐰 Chef Boba - Cộng đồng &#x20;
 
-🐰 Chef Eric - Dev Frontend
+🐰 Chef Salade - Trưởng nhóm Thiết kế
 
-🐰 Chef Jerry - Dev Frontend
+🐰 Chef Waffles - Nhà thiết kế
 
-🐰 Chef Philip - Dev Frontend
+🐰 Chef Noodles - Nhà thiết kế
 
-🐰 Chef Penguin - Dev Frontend
+🐰 Chef Cyrus - Dữ liệu
 
-🐰 Chef Taco - Trưởng Dev Backend
+🐰 Chef Mist - Trưởng nhóm Dev&#x20;
 
-🐰 Chef Sanji - Dev Backend
+🐰 Chef Ryan - Trưởng nhóm Frontend Dev
 
-🐰 Chef Curry - Dev Backend
+🐰 Chef Philip - AI Dev
 
-🐰 Chef Kiwi - Dev Backend
+🐰 Chef Eric - Frontend Dev
 
-🐰 Chef Bob - Dev Backend
+🐰 Chef Jerry - Frontend Dev
 
-🐰 Chef Toast - Dev Backend
+🐰 Chef Penguin - Frontend Dev
 
-🐕 Chef Snoopy - Trưởng Dev Hợp Đồng Thông Minh
+🐰 Chef Taco - Trưởng nhóm Backend Dev
 
-🐰 Chef Omelette - Dev Hợp Đồng Thông Minh
+🐰 Chef Sanji - Backend Dev
 
-🐰 Chef Shiba - Dev Hợp Đồng Thông Minh
+🐰 Chef Curry - Backend Dev
 
-🐰 Chef Carb - Dev Hợp Đồng Thông Minh
+🐰 Chef Kiwi - Backend Dev
 
-🐰 Chef Ramen - Dev Hợp Đồng Thông Minh
+🐰 Chef Bob - Backend Dev
+
+🐰 Chef Toast - Backend Dev
+
+🐕 Chef Snoopy - Trưởng nhóm Smart Contract Dev
+
+🐰 Chef Omelette - Smart Contract Dev
+
+🐰 Chef Shiba - Smart Contract Dev
+
+🐰 Chef Carb - Smart Contract Dev
+
+🐰 Chef Ramen - Smart Contract Dev
 
 🐰 Chef Ruby - QA
 
 🐰 Chef Liam - QA
 
-🐰 Chef Rei - Bảo Mật
+🐰 Chef Rei - Bảo mật
 
-🐰 Chef Salade - Trưởng Thiết Kế
-
-🐰 [Chef Cecy](https://medium.com/pancakeswap/kitchen-interviews-chef-cecy-the-magical-3d-artist-making-fluffy-bunnies-e1eda53742f3) - Họa Sĩ 3D ([Twitter](https://twitter.com/Cecymeade))
-
-🐰 Chef Waffles - Nhà Thiết Kế
-
-🐰 Chef Noodles - Nhà Thiết Kế Thương Hiệu / Motion
-
-🐰 Chef Cola - HR
-
-🐰 Chef Cocoa - Trưởng Marketing ([Twitter](https://x.com/chef_cocoa_pcs))
-
-🐰 Chef Pixie - Quản Lý Marketing Sản Phẩm ([Twitter](https://x.com/chefpixiee))
-
-🐰 Chef Marcus - Mạng Xã Hội ([Twitter](https://x.com/ChefMarcusPCS))
-
-🐰 Chef Boba - Cộng Đồng ([Twitter](https://x.com/chefboba_pcs))
-
-🐰 Chef Croissant - Sự Kiện và PR
+🐰 Chef Cola - Nhân sự

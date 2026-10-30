@@ -2,7 +2,7 @@
 
 #### Mạng lưới nào hiện đang được hỗ trợ?
 
-PancakeSwap X đang hoạt động trên Arbitrum và Ethereum, hỗ trợ token tiền điện tử, và trên BNB Chain, nó hỗ trợ tài sản thực (RWA) như cổ phiếu, trái phiếu và ETF được token hóa.
+PancakeSwap X đang hoạt động trên Arbitrum, Ethereum, BNB Chain, Base và Robinhood Chain, hỗ trợ hoán đổi token tiền điện tử. Tài sản thực (RWA) như cổ phiếu, trái phiếu và ETF được token hóa được hỗ trợ thêm trên BNB Chain, Ethereum và Robinhood Chain.
 
 #### PancakeSwap X có được bật theo mặc định không?
 

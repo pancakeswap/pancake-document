@@ -70,7 +70,7 @@ Phí động cung cấp tính linh hoạt tối đa và tối ưu hóa cấu tr�
 | ----------------- | ----------------- |
 | 1%                | 0,33%             |
 | 2%                | 0,4% (giới hạn)   |
-| Pool Phí Động     | 0%                |
+| Pool Phí Động     | 0,03% (mặc định hiện tại) |
 
 #### 🛠️ Lưu Ý Thiết Lập Cho Người Tạo Pool
 

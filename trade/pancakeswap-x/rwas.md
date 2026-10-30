@@ -1,6 +1,6 @@
 # RWA
 
-PancakeSwap X hỗ trợ tài sản thực trên chuỗi lên BNB Chain ở quy mô lớn. Người dùng có thể giao dịch hơn 100 cổ phiếu, trái phiếu và ETF được token hóa trực tiếp trên PancakeSwap được hỗ trợ bởi Ondo Finance.
+PancakeSwap hỗ trợ tài sản thực trên chuỗi ở quy mô lớn trên BNB Chain, Ethereum và Robinhood Chain, đồng thời giao dịch RWA cũng khả dụng trên Solana. Người dùng có thể giao dịch hơn 100 cổ phiếu, trái phiếu và ETF được token hóa trực tiếp trên PancakeSwap, được hỗ trợ bởi Ondo Finance và các nhà phát hành khác.
 
 ### Ondo Finance Là Gì?
 

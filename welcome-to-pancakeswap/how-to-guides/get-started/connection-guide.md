@@ -1,7 +1,5 @@
 # Kết Nối Ví của Bạn với PancakeSwap
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-connect-wallet-header.png)
-
 Bạn đã tạo ví và nhận token BEP20, bây giờ bạn chỉ cần kết nối ví với PancakeSwap và bạn đã sẵn sàng!
 
 Xem các bước bên dưới để biết cách kết nối từng ví được khuyến nghị của chúng tôi với PancakeSwap.

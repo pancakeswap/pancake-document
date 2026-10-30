@@ -14,7 +14,7 @@
 
 ### Lựa chọn của mọi người
 
-PancakeSwap là một sàn giao dịch phi tập trung hàng đầu. Có mặt trên mười chuỗi: BNB Chain, Ethereum, Solana, Base, Arbitrum, Aptos, ZKsync, Linea, Monad và opBNB, với khối lượng giao dịch cao nhất trên thị trường (nguồn: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
+PancakeSwap là một sàn giao dịch phi tập trung hàng đầu. Có mặt trên mười một chuỗi: BNB Chain, Ethereum, Solana, Base, Arbitrum, Aptos, ZKsync, Linea, Monad, Robinhood và opBNB, với khối lượng giao dịch cao nhất trên thị trường (nguồn: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
 
 ### Phí thấp
 

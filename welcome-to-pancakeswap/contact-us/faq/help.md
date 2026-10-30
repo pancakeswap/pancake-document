@@ -12,7 +12,7 @@ Chúng tôi đã chia nhỏ chủ đề trợ giúp thành các phần để gi�
 
 ### Khắc Phục Lỗi
 
-[Trang Khắc Phục Lỗi](https://docs.pancakeswap.finance/help/troubleshooting) có bộ sưu tập các lỗi người dùng có thể gặp khi sử dụng PancakeSwap. Nó hiển thị vấn đề với cả giải pháp và lý do giải thích tại sao vấn đề xảy ra.
+[Trang Khắc Phục Lỗi](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/faq/troubleshooting) có bộ sưu tập các lỗi người dùng có thể gặp khi sử dụng PancakeSwap. Nó hiển thị vấn đề với cả giải pháp và lý do giải thích tại sao vấn đề xảy ra.
 
 ### FAQ Chung
 

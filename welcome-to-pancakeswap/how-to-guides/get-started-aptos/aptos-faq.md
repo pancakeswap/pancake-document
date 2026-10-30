@@ -1,7 +1,5 @@
 # FAQ Aptos
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Aptos-faq-header.png" alt=""><figcaption></figcaption></figure>
-
 Trang FAQ này trả lời một số câu hỏi thường gặp nhất từ cộng đồng PancakeSwap về việc triển khai Aptos của chúng tôi.
 
 ## Chung
@@ -29,8 +27,6 @@ Danh sách mặc định trên Aptos Swap chỉ hiển thị các coin từ các
 Nếu bạn muốn hoán đổi các coin khác không có trong danh sách mặc định, hãy nhập chúng bằng địa chỉ coin.
 
 ### Tại sao tôi không thể giao dịch CAKE trên Aptos Swap?
-
-_cập nhật vào 2022-12-13_
 
 Token/coin CAKE hiện đã hoạt động trên Aptos. Xem [hướng dẫn kết nối chuỗi CAKE](cake-bridging-guide.md) của chúng tôi để tìm hiểu thêm về việc kết nối chuỗi token CAKE giữa Aptos và BNB Smart Chain.
 

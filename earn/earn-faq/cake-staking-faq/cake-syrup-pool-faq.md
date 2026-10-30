@@ -8,7 +8,7 @@ hidden: true
 
 ### Chúng tôi có thể chọn thời gian khóa bao lâu?
 
-Bạn có thể chọn từ 1-52 tuần. Bạn thích thế nào?
+Bạn có thể chọn từ 1 tuần đến 4 năm.
 
 ### Những biến số nào ảnh hưởng đến APR/APY của CAKE Syrup Pool mới (các lựa chọn Flexible và Fixed-Term Staking)?
 

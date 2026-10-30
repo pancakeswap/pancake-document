@@ -10,7 +10,7 @@ Với việc triển khai multichain, PancakeSwap hiện đang mang trải nghi�
 
 Xem [phần chính](../) để tìm hiểu thêm về Yield Farming.
 
-Chúng tôi đã thiết kế trải nghiệm sản phẩm nhất quán trên các blockchain khác nhau. Do đó, nếu bạn là người dùng Farm thường xuyên trên BSC, bạn sẽ cảm thấy như ở nhà khi farming trên Aptos. Nếu bạn mới với liquidity farming, hãy xem hướng dẫn [Cách Sử dụng Farms](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) để bắt đầu.
+Chúng tôi đã thiết kế trải nghiệm sản phẩm nhất quán trên các blockchain khác nhau. Do đó, nếu bạn là người dùng Farm thường xuyên trên BSC, bạn sẽ cảm thấy như ở nhà khi farming trên Aptos. Nếu bạn mới với liquidity farming, hãy xem hướng dẫn [Cách Sử dụng Farms](https://docs.pancakeswap.finance/earn/yield-farming/how-to-use-farms/how-to-use-farms) để bắt đầu.
 
 Để tìm hiểu thêm về cách bridge tài sản và CAKE giữa BSC và Aptos. Xem [Hướng dẫn Bridge CAKE](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos/cake-bridging-guide.md).
 

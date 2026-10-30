@@ -305,7 +305,7 @@ Nếu không, bạn có thể đang cố gắng gửi token mà bạn không có
 Bạn có thể thực hiện "emergencyWithdraw" từ hợp đồng trực tiếp để hủy staking token của bạn.
 
 1. Tìm địa chỉ hợp đồng của Syrup Pool bạn đang cố gắng hủy staking. Bạn có thể tìm thấy nó trong nhật ký giao dịch của ví.
-2. Truy cập [https://bscscan.com/](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract) và trong thanh tìm kiếm, nhập địa chỉ hợp đồng.
+2. Truy cập [https://bscscan.com/](https://bscscan.com/) và trong thanh tìm kiếm, nhập địa chỉ hợp đồng.
 3. Chọn **Write Contract.**
 4. Nhấp vào **"Connect to Web3"** và kết nối ví của bạn.![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
 5. Trong phần **"3. emergencyWithdraw",** và nhấp vào "Write".
@@ -324,7 +324,7 @@ Lỗi này thường xuất hiện khi bạn đang cố gắng hủy staking t�
 
 ## **Sự Cố Với Dự Đoán**
 
-Kiểm tra [Broken link](/broken/pages/8zN9xzaYD1DvxZvzLzug "mention")
+Kiểm tra [FAQ Dự đoán](../../../play/prediction/prediction-faq.md "mention")
 
 ## **Các Sự Cố Khác**
 
