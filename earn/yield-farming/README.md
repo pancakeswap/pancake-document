@@ -4,7 +4,7 @@
 
 यील्ड फार्म उपयोगकर्ताओं को LP टोकन स्टेक करके PancakeSwap का समर्थन करते हुए CAKE अर्जित करने की सुविधा देते हैं।
 
-फार्मिंग शुरू करने के लिए हमारी [फार्म का उपयोग कैसे करें गाइड](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) देखें।
+फार्मिंग शुरू करने के लिए हमारी [फार्म का उपयोग कैसे करें गाइड](https://docs.pancakeswap.finance/earn/yield-farming/how-to-use-farms/how-to-use-farms) देखें।
 
 [फार्म स्मार्ट कॉन्ट्रैक्ट कैसे खोजें](../../archive/how-to-use-farms-with-bscscan.md) यह जानें।
 

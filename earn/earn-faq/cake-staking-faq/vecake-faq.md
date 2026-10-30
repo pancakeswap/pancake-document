@@ -114,8 +114,8 @@ IFO iCAKE को अब veCAKE का समर्थन करने के ल
 
 सभी veCAKE धारक (चाहे नेटिव हों या माइग्रेट किए गए) स्वचालित रूप से नए राजस्व साझाकरण पूल में नामांकित हो जाएंगे। राजस्व शेयर मौजूदा शेड्यूल के अनुसार वितरित किए जाते हैं। पुराना राजस्व साझाकरण पूल बंद कर दिया जाएगा, उपयोगकर्ता benefit कार्ड पर जाकर अपने लंबित पुरस्कार क्लेम कर सकते हैं। देखें:
 
-{% content-ref url="/broken/pages/wQegezs7c6A2HzQjPEjh" %}
-[Broken link](/broken/pages/wQegezs7c6A2HzQjPEjh)
+{% content-ref url="revenue-sharing-faq.md" %}
+[Revenue Sharing FAQ](revenue-sharing-faq.md)
 {% endcontent-ref %}
 
 #### क्या veCAKE के साथ इंटरैक्ट करने के लिए मल्टीसिग वॉलेट का उपयोग किया जा सकता है?
@@ -162,4 +162,4 @@ veCAKE पाने के लिए CAKE लॉक करने से PancakeS
 
 यह DEX उत्पादों में एकत्र स्वैप शुल्क से आने वाले प्रोटोकॉल राजस्व साझाकरण से आने वाला प्रोत्साहन है।
 
-अधिक जानकारी के लिए [राजस्व साझाकरण](/broken/pages/wQegezs7c6A2HzQjPEjh) देखें।
+अधिक जानकारी के लिए [राजस्व साझाकरण](revenue-sharing-faq.md) देखें।

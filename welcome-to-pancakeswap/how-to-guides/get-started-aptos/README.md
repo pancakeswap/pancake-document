@@ -1,17 +1,13 @@
-# Get Started (Aptos)
+# शुरू करें (Aptos)
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/get-started-header.png)
-
-किसी भी नई चीज़ का उपयोग करना थोड़ा चुनौतीपूर्ण हो सकता है। लेकिन चिंता न करें, हमने आपको PancakeSwap के साथ सहज महसूस कराने के लिए कई गाइड तैयार की हैं!
+कुछ भी नया उपयोग करना थोड़ा चुनौतीपूर्ण हो सकता है। चिंता न करें, हमने PancakeSwap के साथ सहज होने में आपकी मदद के लिए कई गाइड बनाई हैं!
 
 ## PancakeSwap सेट अप करना
 
-PancakeSwap का उपयोग शुरू करने के लिए इन गाइड्स का पालन करें, या अगर आप पहले से आगे हैं लेकिन कहीं भटक गए हैं, तो जरूरी गाइड पर सीधे जाएं।
+PancakeSwap का उपयोग करने के लिए सब कुछ सेट अप करने हेतु इन गाइड का पालन करें, या यदि आप ठीक चल रहे थे लेकिन रास्ता भटक गए हैं तो सीधे अपनी ज़रूरत की गाइड पर जाएँ।
 
-[Aptos वॉलेट बनाएं](wallet-guide.md)\
-[Aptos Coin प्राप्त करें और अपनी संपत्ति Aptos चेन पर लाएं](aptos-coin-guide.md)\
+[Aptos वॉलेट बनाएँ](wallet-guide.md)\
+[Aptos Coin प्राप्त करें और एसेट Aptos Chain पर लाएँ](aptos-coin-guide.md)\
 [अपना वॉलेट PancakeSwap से कनेक्ट करें](connection-guide.md)
 
-
-
-अगर आपको जो चाहिए वो नहीं मिल रहा, तो [PancakeSwap Telegram](../../contact-us/social-accounts.md) पर जाकर सहायता मांग सकते हैं!
+यदि आपको अपनी ज़रूरत की चीज़ नहीं मिल रही है, तो बेझिझक [PancakeSwap Telegram](../../contact-us/social-accounts.md) पर जाएँ और वहाँ मदद माँगें!

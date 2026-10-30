@@ -7,7 +7,7 @@ description: EVM चेन और Aptos के बीच CAKE Bridge करे�
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28113%29.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-निम्नलिखित गाइड में EVM चेन के उदाहरण के रूप में BNB Chain का उपयोग किया गया है। यही प्रक्रिया Ethereum पर भी लागू होती है।
+निम्नलिखित गाइड में EVM चेन के उदाहरण के रूप में BNB Chain का उपयोग किया गया है। यही प्रक्रिया Aptos में bridging **into** के लिए Ethereum पर भी लागू होती है। Aptos से bridging **out of** फिलहाल गंतव्य के रूप में केवल BNB Smart Chain को सपोर्ट करती है।
 {% endhint %}
 
 ## BNB Smart Chain से Aptos पर CAKE Bridge करें

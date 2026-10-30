@@ -44,7 +44,7 @@ Staking शेष query करने के लिए `userInfo[_pid][_user].amo
 
 किसी भी Farm Pool के लिए कुल Staking राशि प्राप्त करने के लिए `lpToken.balanceOf(MasterChef.address)` का उपयोग करें।
 
-हालांकि, MasterChef v2 में, उपयोगकर्ताओं का शेयर बूस्ट किया जा सकता है (जल्द आ रहा है)। इसलिए, रिवॉर्ड की गणना प्रत्येक Pool के कुल शेयर के रूप में `PoolInfo` में एक नए `totalBoostedShare` फ़ील्ड का उपयोग करके की जाती है। उदाहरण के लिए, यदि Pool 0 में 2 उपयोगकर्ता हैं, user1 ने 100 LP (बिना boost के) stake किए हैं, user2 ने 100 stake किए हैं (`boostMultiplier` 1.05 के साथ), तो `totalBoostedShare` 205 हो जाएगा। जिसके परिणामस्वरूप user2 को अधिक रिवॉर्ड मिलेगा।
+हालांकि, MasterChef v2 में, उपयोगकर्ताओं का शेयर बूस्ट किया जा सकता है। इसलिए, रिवॉर्ड की गणना प्रत्येक Pool के कुल शेयर के रूप में `PoolInfo` में एक नए `totalBoostedShare` फ़ील्ड का उपयोग करके की जाती है। उदाहरण के लिए, यदि Pool 0 में 2 उपयोगकर्ता हैं, user1 ने 100 LP (बिना boost के) stake किए हैं, user2 ने 100 stake किए हैं (`boostMultiplier` 1.05 के साथ), तो `totalBoostedShare` 205 हो जाएगा। जिसके परिणामस्वरूप user2 को अधिक रिवॉर्ड मिलेगा।
 
 #### CakePerBlock
 

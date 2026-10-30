@@ -6,7 +6,7 @@
 
 PancakeSwap की Pottery CAKE stack करने का एक alternative तरीका है, बजाय केवल अपने CAKE को staking pool में lock और stake करने के। यह guide आपको PancakeSwap web UI में navigate करने और participate करने के बारे में बताएगी।
 
-[PancakeSwap Pottery की product structure, risks, fees के बारे में अधिक जानें यहाँ](https://docs.pancakeswap.finance/products/pottery)।
+[PancakeSwap Pottery की product structure, risks, fees के बारे में अधिक जानें यहाँ](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery)।
 
 ## Pottery cohort में enter करने का निर्णय लेना
 
@@ -24,7 +24,7 @@ PancakeSwap की Pottery CAKE stack करने का एक alternative त
 
 ![](https://lh5.googleusercontent.com/_TqVUlNGtnGvGz_wysnq-KmewS_CjmUJ0jMHwzRMLx47Rmq-x868M0q-iBXCqynotDqz3mxnUZovExx4bUb8BBv3W6OXl4u4pJWFmOz__IYASvQ_hgmccB3GPaL1oz4TutJr3PTwdz_2NoVzmnpkcD0)
 
-– इस मामले में, आप Pottery में participate करने के लिए अपना CAKE deposit कर सकते हैं यदि APR, total value locked और जीतने की odds आपको acceptable लगती हैं। Deposit से पहले, कृपया सुनिश्चित करें कि आप participate करने के risks को पूरी तरह समझते हैं! सभी deposits किसी भी परिस्थिति में बिना early withdrawal के 10 सप्ताहों के लिए locked रहेंगी। कृपया [यहाँ risks और fees के बारे में अधिक जानें](https://docs.pancakeswap.finance/products/pottery)।
+– इस मामले में, आप Pottery में participate करने के लिए अपना CAKE deposit कर सकते हैं यदि APR, total value locked और जीतने की odds आपको acceptable लगती हैं। Deposit से पहले, कृपया सुनिश्चित करें कि आप participate करने के risks को पूरी तरह समझते हैं! सभी deposits किसी भी परिस्थिति में बिना early withdrawal के 10 सप्ताहों के लिए locked रहेंगी। कृपया [यहाँ risks और fees के बारे में अधिक जानें](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery)।
 
 ## **अपना deposit देखना**
 
@@ -40,7 +40,7 @@ Subgraph reading के कारण कभी-कभी थोड़ी delay �
 
 ![](https://lh3.googleusercontent.com/ClT6Dx6rJlfFmzmyxwCEwIUsDv-DuhzVAWN5Qt0sOulj2_zDrMJHDJvQqr6vS0t6IO090pstOi0BJTKADDVj7C_kspWM_f-M83EGERNiEvON-GTl_nvXANGH5etDbnBmieRSZ66G8krr8GUWc2s5SDw)
 
-Drawn date के आधार पर, जिस cohort को आप check करना चाहते हैं उसके corresponding round खोजें – प्रत्येक शुक्रवार पर, एक से अधिक draw हो सकते हैं क्योंकि different cohorts होती हैं, इसलिए सुनिश्चित करें कि आप जिस cohort की तलाश कर रहे हैं उसके सही draw को check कर रहे हैं। [Cohort structure के बारे में अधिक जानने के लिए यहाँ पढ़ें](https://docs.pancakeswap.finance/products/pottery#pottery-cohort)।
+Drawn date के आधार पर, जिस cohort को आप check करना चाहते हैं उसके corresponding round खोजें – प्रत्येक शुक्रवार पर, एक से अधिक draw हो सकते हैं क्योंकि different cohorts होती हैं, इसलिए सुनिश्चित करें कि आप जिस cohort की तलाश कर रहे हैं उसके सही draw को check कर रहे हैं। [Cohort structure के बारे में अधिक जानने के लिए यहाँ पढ़ें](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery#pottery-cohort)।
 
 ## Prize claim करना
 

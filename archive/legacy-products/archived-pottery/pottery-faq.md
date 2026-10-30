@@ -6,7 +6,7 @@
 
 ## जब हमारे पास पहले से Lottery v2 है तो Pottery की आवश्यकता क्यों है?
 
-Pottery, Lottery v2 की तुलना में एक बिल्कुल अलग product है। यह locked CAKE pool और lottery function का combination है जो true, secure randomness के लिए Chainlink के VRF implementation का उपयोग करता है। Pottery में participate करके, आप deposited CAKE में से कुछ भी नहीं खोएंगे, आप केवल deposited CAKE की staking rewards को risk कर रहे हैं। यह product उन CAKErs के लिए designed है जो अधिक risk-averse हैं लेकिन फिर भी इस प्रकार के product में participate करना चाहते हैं। यह CAKE जीतने का एक आसान, मजेदार और safe तरीका है। [Product structure के बारे में अधिक जानें यहाँ](https://docs.pancakeswap.finance/products/pottery)।
+Pottery, Lottery v2 की तुलना में एक बिल्कुल अलग product है। यह locked CAKE pool और lottery function का combination है जो true, secure randomness के लिए Chainlink के VRF implementation का उपयोग करता है। Pottery में participate करके, आप deposited CAKE में से कुछ भी नहीं खोएंगे, आप केवल deposited CAKE की staking rewards को risk कर रहे हैं। यह product उन CAKErs के लिए designed है जो अधिक risk-averse हैं लेकिन फिर भी इस प्रकार के product में participate करना चाहते हैं। यह CAKE जीतने का एक आसान, मजेदार और safe तरीका है। [Product structure के बारे में अधिक जानें यहाँ](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery)।
 
 ## क्या Pottery original Lottery v2 को replace कर रही है?
 
@@ -34,11 +34,11 @@ Subgraph reading के कारण कभी-कभी थोड़ी delay �
 
 ## मुझे कैसे पता चलेगा कि मैंने साप्ताहिक draw में जीता है?
 
-दोपहर UTC के आसपास शुक्रवार को प्रत्येक draw के बाद, आप Finished Rounds panel में results और winners देख सकते हैं। किसी भी साप्ताहिक draw में जीतने की जाँच करने का दूसरा तरीका Claim panel में देखना है कि कोई prize claim करने के लिए है या नहीं। [यहाँ participate कैसे करें इस page को देखें](https://docs.pancakeswap.finance/products/pottery/how-to-play-pottery)!
+दोपहर UTC के आसपास शुक्रवार को प्रत्येक draw के बाद, आप Finished Rounds panel में results और winners देख सकते हैं। किसी भी साप्ताहिक draw में जीतने की जाँच करने का दूसरा तरीका Claim panel में देखना है कि कोई prize claim करने के लिए है या नहीं। [यहाँ participate कैसे करें इस page को देखें](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery/how-to-play-pottery)!
 
 ## Prize का funding source क्या है?
 
-Prize pools deposits की staking rewards द्वारा funded हैं। हालाँकि, चूँकि CAKE locked staking pool की staking rewards केवल lock duration के बाद distributed होती हैं – इस मामले में 10 सप्ताह – बेहतर product experience के लिए और deposit date के तुरंत बाद साप्ताहिक draws facilitate करने के लिए, contract locking के समय APR के आधार पर CAKE treasury से cohort के estimated total staking rewards का 80% borrow करता है। Borrowed CAKE का उपयोग प्रत्येक साप्ताहिक draw के payout के लिए किया जाता है। [Product structure के बारे में अधिक जानें यहाँ](https://docs.pancakeswap.finance/products/pottery)!
+Prize pools deposits की staking rewards द्वारा funded हैं। हालाँकि, चूँकि CAKE locked staking pool की staking rewards केवल lock duration के बाद distributed होती हैं – इस मामले में 10 सप्ताह – बेहतर product experience के लिए और deposit date के तुरंत बाद साप्ताहिक draws facilitate करने के लिए, contract locking के समय APR के आधार पर CAKE treasury से cohort के estimated total staking rewards का 80% borrow करता है। Borrowed CAKE का उपयोग प्रत्येक साप्ताहिक draw के payout के लिए किया जाता है। [Product structure के बारे में अधिक जानें यहाँ](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery)!
 
 ## यदि मैं जीतता/जीतती हूँ, तो क्या मुझे manually prize claim करना होगा?
 

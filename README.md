@@ -14,7 +14,7 @@
 
 ### लोगों की पसंद
 
-PancakeSwap एक प्रमुख विकेंद्रीकृत एक्सचेंज है। यह दस चेन पर उपलब्ध है: BNB Chain, Ethereum, Solana, Base, Arbitrum, Aptos, ZKsync, Linea, Monad और opBNB, जिसमें बाज़ार में सबसे अधिक ट्रेडिंग वॉल्यूम है (स्रोत: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/))।
+PancakeSwap एक प्रमुख विकेंद्रीकृत एक्सचेंज है। यह ग्यारह चेन पर उपलब्ध है: BNB Chain, Ethereum, Solana, Base, Arbitrum, Aptos, ZKsync, Linea, Monad, Robinhood और opBNB, जिसमें बाज़ार में सबसे अधिक ट्रेडिंग वॉल्यूम है (स्रोत: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/))।
 
 ### कम शुल्क
 

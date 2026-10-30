@@ -5,7 +5,7 @@
 PancakeSwap के साथ Farms का उपयोग करना पहली बार में कठिन लग सकता है क्योंकि इसमें कई चरण शामिल हैं। यह गाइड आपको सीधे BscScan के माध्यम से Farms contract का उपयोग करने के बारे में बताएगी।
 
 {% hint style="warning" %}
-कृपया समझें कि contracts के साथ interact करने के लिए BscScan का उपयोग करना शुरुआती लोगों के लिए अनुशंसित नहीं है। यदि आप confident नहीं हैं, तो हम सुझाव देते हैं कि इसके बजाय [How to Use Farms guide](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) उपयोग करें।
+कृपया समझें कि contracts के साथ interact करने के लिए BscScan का उपयोग करना शुरुआती लोगों के लिए अनुशंसित नहीं है। यदि आप confident नहीं हैं, तो हम सुझाव देते हैं कि इसके बजाय [How to Use Farms guide](https://docs.pancakeswap.finance/earn/yield-farming/how-to-use-farms/how-to-use-farms) उपयोग करें।
 {% endhint %}
 
 ## Farm process identifier खोजना

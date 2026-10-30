@@ -4,7 +4,7 @@
 
 PancakeSwap पर Dumb Mode में ऑर्डर देने के लिए, इन चरणों का पालन करें:
 
-1. एक बाजार चुनें: BSC पर [**Pancakeswap Perpetuals**](https://perp.pancakeswap.finance/en/futures/v2/BTCUSD?theme=light\&chain=bsc) पर जाएं। BTCUSD, ETHUSD आदि जैसे उपलब्ध बाजारों में से चुनें।
+1. एक बाजार चुनें: BSC पर [**PancakeSwap Perpetuals**](https://perp.pancakeswap.finance/en/futures/v2/BTCUSD?theme=light\&chain=bsc) पर जाएं। BTCUSD, ETHUSD आदि जैसे उपलब्ध बाजारों में से चुनें।
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Module_Order.png" alt="" width="338"><figcaption></figcaption></figure>
 

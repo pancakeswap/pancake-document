@@ -1,15 +1,9 @@
 # 🤙 हमसे संपर्क करें
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/contact-us-header.png)
+_इकोसिस्टम और पार्टनरशिप संबंधी पूछताछ के लिए, TG हैंडल: @PancakeSwapBD_
 
-## व्यावसायिक संपर्क
-
-### [टोकन सूचीबद्ध करें](https://docs.pancakeswap.finance/ecosystem-and-partnerships/business-partnerships/commonly-asked-business-partnerships-questions#listing-on-the-exchange)
+### [टोकन लिस्ट करें](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/business-partnerships/commonly-asked-business-partnerships-questions)
 
 ### [Yield Farm या Syrup Pool के लिए आवेदन करें](business-partnerships/syrup-pools.md)
 
-### [IFO (टोकन बिक्री) के लिए आवेदन करें](business-partnerships/initial-farm-offerings-ifos.md)
-
-### [NFT मार्केट के लिए आवेदन करें](/broken/pages/DmdIaEZd9prcJiQqgZJU)
-
-
+### [IFO (टोकन सेल) के लिए आवेदन करें](business-partnerships/initial-farm-offerings-ifos.md)

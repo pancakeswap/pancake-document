@@ -1,7 +1,5 @@
 # अपना वॉलेट PancakeSwap से कनेक्ट करें
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-connect-wallet-header.png)
-
 ## अपना वॉलेट कनेक्ट करें
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/wallet-connection-aptos.png" alt=""><figcaption></figcaption></figure>
@@ -16,7 +14,7 @@
 
 ## **Aptos Mainnet से कनेक्ट करें**
 
-Aptos में कई नेटवर्क हैं, जिनमें कई devnets और testnets शामिल हैं। लेकिन Aptos चेन पर PancakeSwap का उपयोग करने के लिए, सुनिश्चित करें कि आपका वॉलेट **Aptos Mainnet** से कनेक्ट है।&#x20;
+Aptos में कई नेटवर्क हैं, जिनमें कई devnets और testnets शामिल हैं। लेकिन Aptos चेन पर PancakeSwap का उपयोग करने के लिए, सुनिश्चित करें कि आपका वॉलेट **Aptos Mainnet** से कनेक्ट है।
 
 यहाँ तरीका है:
 

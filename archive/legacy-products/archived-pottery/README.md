@@ -74,7 +74,7 @@ Pottery में participate करके, आप staking rewards को, स�
 
 ## **Participate करने के लिए तैयार हैं?**
 
-यदि आप product structure, risks और fees के बारे में clear हैं – PancakeSwap web UI से [participate कैसे करें](https://docs.pancakeswap.finance/products/pottery/how-to-play-pottery) और अन्य [Pottery FAQ](https://docs.pancakeswap.finance/products/pottery/pottery-faq) के लिए यह page देखें!
+यदि आप product structure, risks और fees के बारे में clear हैं – PancakeSwap web UI से [participate कैसे करें](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery/how-to-play-pottery) और अन्य [Pottery FAQ](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery/pottery-faq) के लिए यह page देखें!
 
 
 

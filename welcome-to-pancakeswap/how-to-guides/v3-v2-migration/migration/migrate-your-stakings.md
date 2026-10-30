@@ -87,7 +87,7 @@ Farms के लिए, कृपया:
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/en%20-%20migration%20timeline%20-%202.png)
 
-विस्तृत समय और नवीनतम अपडेट के लिए हमारा [Twitter](https://twitter.com/pancakeswap/) या [Telegram](https://t.me/PancakeSwapAnn) announcement चैनल फॉलो करना सुनिश्चित करें! कोई सहायता चाहिए? सहायता कैसे प्राप्त करें इसके बारे में [यहाँ](../../../contact-us/#help) अधिक जानें।
+विस्तृत समय और नवीनतम अपडेट के लिए हमारा [Twitter](https://twitter.com/pancakeswap/) या [Telegram](https://t.me/PancakeSwapAnn) announcement चैनल फॉलो करना सुनिश्चित करें! कोई सहायता चाहिए? सहायता कैसे प्राप्त करें इसके बारे में [यहाँ](../../../contact-us/faq/help.md) अधिक जानें।
 
 ## अक्सर पूछे जाने वाले सवाल (FAQ)
 

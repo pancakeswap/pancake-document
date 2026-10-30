@@ -4,7 +4,7 @@
 
 सेटअप, ट्रैकिंग और घोषणा हम संभालते हैं — आप पुरस्कार प्रदान करें, हम कार्यक्रम चलाते हैं।
 
-यह BNB Chain, Solana, Base, Arbitrum, Ethereum, ZKsync, Linea, opBNB, और Polygon zkEVM पर उपलब्ध है।
+यह BNB Chain, Solana, Base, Arbitrum, Ethereum, ZKsync, Linea, और opBNB पर उपलब्ध है।
 
 _पहले भाग लेने वाले कुछ प्रोजेक्टों ने ट्रेडिंग वॉल्यूम में 3-7x वृद्धि और सक्रिय रूप से व्यापार करने वाले पतों में वृद्धि देखी_
 

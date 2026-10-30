@@ -8,7 +8,7 @@
 
 1.  उपयोगकर्ता सीधे link के माध्यम से किसी quest में join करना चुन सकते हैं या नए items के लिए browse करने के लिए हमारे [quest homepage](https://quest.pancakeswap.finance/quests) पर जा सकते हैं। अधिक जानकारी के लिए किसी भी quest पर क्लिक करें।&#x20;
 
-    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%206.54.53%20PM.png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%206.54.53%E2%80%AFPM.png" alt="" width="563"><figcaption></figcaption></figure>
 2. Explore page से, आप अलग-अलग tasks, winners, chains और time period वाले quests के लिए browse कर सकते हैं।
 3. Quest शुरू करें
    1. Quest select होने के बाद, उपयोगकर्ता quests में participate करना शुरू करने के लिए "Join Quest" पर क्लिक कर सकते हैं।
@@ -17,7 +17,7 @@
 
 1.  उपयोगकर्ताओं को हर quest पूरा करने से पहले tasks और actions पूरे करने होंगे। Challenge पूरा करने के लिए tasks select करें और on-screen text follow करें। Actions social tasks से लेकर on-chain items तक हो सकती हैं।&#x20;
 
-    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%207.18.31%20PM.png" alt="" width="368"><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%207.18.31%E2%80%AFPM.png" alt="" width="368"><figcaption></figcaption></figure>
 2.  Social Tasks - Tasks में शामिल हो सकती हैं:
 
     1. X पर किसी post को Like करना
@@ -42,7 +42,7 @@
     **ध्यान दें: Data retrieval speeds के कारण, कुछ chains पर on-chain tasks verify होने में 1 घंटे तक का समय लग सकता है।**&#x20;
 4.  Top पर status bar के माध्यम से remaining tasks देख सकते हैं। Quest पूरा होने पर, top left पर "Completed" दिखाई देना चाहिए। यदि quest में token reward है, तो आप rewards के random draw के लिए eligible होंगे।&#x20;
 
-    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%207.28.19%20PM.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%207.28.19%E2%80%AFPM.png" alt=""><figcaption></figcaption></figure>
 5. उपयोगकर्ता optional tasks पूरे करना भी चुन सकते हैं, जो quests की required completion में नहीं गिने जाते।
 
 ### Quest Status जांचें

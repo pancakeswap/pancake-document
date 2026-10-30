@@ -4,14 +4,14 @@
 
 ## **StableSwap पर ट्रेडिंग**
 
-StableSwap पर ट्रेडिंग मौजूदा PancakeSwap AMM का उपयोग करने के समान है। शुरू करने से पहले, इसके लिए एक BNB Smart Chain-compatible वॉलेट और gas fees के लिए BNB की भी आवश्यकता है। अधिक विवरण के लिए कृपया हमारी [वॉलेट गाइड](https://docs.pancakeswap.finance/get-started/wallet-guide) देखें।
+StableSwap पर ट्रेडिंग करना मौजूदा PancakeSwap AMM के उपयोग के बहुत समान है। शुरू करने से पहले, आपको BNB Smart Chain-संगत वॉलेट और गैस फीस के लिए BNB की भी आवश्यकता होगी। अधिक जानकारी के लिए कृपया हमारी [वॉलेट गाइड](https://docs.pancakeswap.finance/get-started/wallet-guide) देखें।
 
-1 - [यहां](https://pancakeswap.finance/swap) Swap पेज पर जाएं
+1 - [यहाँ](https://pancakeswap.finance/swap) Swap पेज पर जाएँ
 
-2 - वे टोकन जोड़ियां चुनें जिनका आप व्यापार करना चाहते हैं।&#x20;
+2 - वे टोकन पेयर चुनें जिन्हें आप ट्रेड करना चाहते हैं।&#x20;
 
-3 - सब तैयार है! आगे की Swap प्रक्रिया सामान्य जैसी ही है! यदि यह आपकी पहली बार ट्रेडिंग है तो कृपया [यहां](../pancakeswap-exchange/trade-guide.md) गाइड देखें।
+3 - आप पूरी तरह तैयार हैं! इसके बाद की स्वैप प्रक्रिया पहले की तरह ही है! यदि आप पहली बार ट्रेड कर रहे हैं, तो कृपया [यहाँ](../pancakeswap-exchange/trade-guide.md) दी गई गाइड देखें।
 
-**तरलता जोड़ना और हटाना**
+**तरलता जोड़ना और निकालना**
 
-StableSwap के लिए तरलता जोड़ना और हटाना भी बहुत महत्वपूर्ण है और सामान्य PancakeSwap AMM के समान है। अधिक विस्तृत व्याख्या के लिए कृपया [यहां](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide) गाइड देखें। PancakeSwap StableSwap तरलता पूल pool के नाम में "Stable LP" दिखाएंगे।
+StableSwap के लिए तरलता जोड़ना और निकालना भी बहुत महत्वपूर्ण है और यह सामान्य PancakeSwap AMM के समान ही है। अधिक विस्तृत जानकारी के लिए कृपया [यहाँ](https://docs.pancakeswap.finance/earn/pancakeswap-pools/liquidity-guide) दी गई गाइड देखें। PancakeSwap StableSwap तरलता पूल के नाम में "Stable LP" दिखाई देगा।

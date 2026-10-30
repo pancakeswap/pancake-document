@@ -29,19 +29,19 @@ PancakeSwap पर Fee-earning limit orders पारंपरिक limit order
 
 एक टोकन जोड़ी (जैसे, BNB/CAKE) और वह मात्रा चुनें जो आप बेचना/खरीदना चाहते हैं।
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%2011.07.07%20AM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%2011.07.07%E2%80%AFAM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 अपना लक्षित / limit price सेट करें।
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%2011.07.35%20AM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%2011.07.35%E2%80%AFAM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 Limit order दें और "Confirm" करें। आपकी ओर से limit price के सबसे करीब के tick पर तरलता रखी जाती है।
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%2011.08.49%20AM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%2011.08.49%E2%80%AFAM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 एक बार जब pool की कीमत आपके लक्ष्य तक पहुंचती है, तो आपका ऑर्डर निष्पादित होता है। वांछित output टोकन + शुल्क स्वचालित रूप से निकाले जाते हैं और आपके वॉलेट में भेजे जाते हैं।
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%201.01.47%20PM.png" alt="" width="370"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%201.01.47%E2%80%AFPM.png" alt="" width="370"><figcaption></figcaption></figure>
 
 
 
@@ -49,7 +49,7 @@ Limit order दें और "Confirm" करें। आपकी ओर स�
 
 आप यहां क्लिक करके अपनी ऑर्डर स्थिति देख सकते हैं।
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%202.12.50%20PM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%202.12.50%E2%80%AFPM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 **आपका ऑर्डर निम्नलिखित स्थितियों में से किसी एक में हो सकता है:**
 

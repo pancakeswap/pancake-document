@@ -71,7 +71,7 @@ PancakeSwap v3 BNB Chain और Ethereum पर Zap के माध्यम �
 Farm v3 में, CAKE रिवॉर्ड APR तरलता पोजीशन के बीच भिन्न हो सकता है। यह निम्नलिखित कारकों पर आधारित है:
 
 * फार्मों के लिए CAKE एमिशन दर\
-  \- अधिक CAKE सभी फार्मों के लिए अधिक यील्ड उत्पन्न करेगा। [हमारे टोकनोमिक्स पेज](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics) पर अधिक पढ़ें।
+  \- अधिक CAKE सभी फार्मों के लिए अधिक यील्ड उत्पन्न करेगा। [हमारे टोकनोमिक्स पेज](https://docs.pancakeswap.finance/protocol/cake-tokenomics) पर अधिक पढ़ें।
 * फार्म मल्टीप्लायर\
   \- उच्च मल्टीप्लायर वाले फार्मों को सभी फार्मों के अनुपात में अधिक CAKE मिलेगा। कृपया ध्यान दें कि v3 और v2 + stable swap फार्म दो अलग-अलग मल्टीप्लायर सेट का उपयोग करते हैं। और Ethereum और BNB Chain के फार्म भी दो अलग-अलग मल्टीप्लायर सेट का उपयोग करते हैं।
 * पोजीशन में जमा टोकन की संख्या\
@@ -111,12 +111,10 @@ V3 लॉन्च के तुरंत बाद, Chefs ने पुरस�
 
 `CAKE per block/second = C / B * A`
 
-उपरोक्त संख्याएँ [MasterChef](/broken/pages/-MeTWzQOSmb1ej51HT0I) कॉन्ट्रैक्ट में से प्रत्येक में पाई जा सकती हैं।
+उपरोक्त संख्याएँ [MasterChef](https://developer.pancakeswap.finance/contracts/masterchef/addresses) कॉन्ट्रैक्ट में से प्रत्येक में पाई जा सकती हैं।
 
 
 
 ### क्या मैं v3 फार्मों में bCAKE का उपयोग कर सकता/सकती हूँ?
 
-हाँ
-
-V3 फार्मों के लिए bCAKE, PancakeSwap Farm V3 की तैनाती के तुरंत बाद आएगा। बने रहें।
+हाँ।
