@@ -12,7 +12,7 @@
 
 #### トークンをExchangeに掲載するにはどうすればよいですか？
 
-PancakeSwapでは、誰でもERC-20/BEP-20ネットワークのトークンを「掲載」できます。私どもへの連絡や許可は必要ありません。[流動性プールに流動性を追加する](https://docs.pancakeswap.finance/products/pancakeswap-exchange/pancakeswap-pools)だけで完了です。その後、トレーダーはトークンのコントラクトアドレスを入力することであなたのトークンを取引できます。
+PancakeSwapでは、誰でもERC-20/BEP-20ネットワークのトークンを「掲載」できます。私どもへの連絡や許可は必要ありません。[流動性プールに流動性を追加する](https://docs.pancakeswap.finance/earn/pancakeswap-pools)だけで完了です。その後、トレーダーはトークンのコントラクトアドレスを入力することであなたのトークンを取引できます。
 
 #### トークンをデフォルトリストに追加するにはどうすればよいですか？
 
@@ -30,7 +30,7 @@ PancakeSwapはAMMベースのDEXという性質上、いかなるトークンの
 
 #### 私のトークンを取引するとエラーが発生します。どうすればよいですか？
 
-Exchangeでのよくあるエラーとその解決策については、[トラブルシューティングページ](https://docs.pancakeswap.finance/readme/help/troubleshooting)をご確認ください。
+Exchangeでのよくあるエラーとその解決策については、[トラブルシューティングページ](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/faq/troubleshooting)をご確認ください。
 
 #### なぜ私のトークンの一部の統計がInfoページに表示されないのですか？
 

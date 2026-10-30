@@ -49,7 +49,7 @@ APRはユーザーによってより多くのCAKEがステーキングされる�
 2. CAKEをステーク、他のトークンを獲得。&#x20;
 3. 他のトークンをステーク、CAKEを獲得
 
-「CAKEをステーク、CAKEを獲得」シロッププールの報酬は、[CAKEエミッション](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics)から来ています。各ブロックで、一定数のCAKEトークンがこれらのプールの報酬として割り当てられます。
+「CAKEをステーク、CAKEを獲得」シロッププールの報酬は、[CAKEエミッション](https://docs.pancakeswap.finance/protocol/cake-tokenomics)から来ています。各ブロックで、一定数のCAKEトークンがこれらのプールの報酬として割り当てられます。
 
 「CAKEをステーク、他のトークンを獲得」タイプの報酬は、シロッププールをスポンサーするプロジェクトチームによって提供されます。
 

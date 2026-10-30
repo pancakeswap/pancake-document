@@ -114,4 +114,4 @@ bCAKE は PancakeSwap のコアプロダクトである流動性ファーミン�
 
 bCAKE は内部および外部の監査人によって監査されています。
 
-監査レポートはこちらでご確認いただけます：[https://docs.pancakeswap.finance/readme/audits](https://docs.pancakeswap.finance/readme/audits)
+監査レポートはこちらでご確認いただけます：[https://docs.pancakeswap.finance/welcome-to-pancakeswap/audits](https://docs.pancakeswap.finance/welcome-to-pancakeswap/audits)

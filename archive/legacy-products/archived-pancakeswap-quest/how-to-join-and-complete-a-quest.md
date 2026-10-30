@@ -8,7 +8,7 @@
 
 1.  ユーザーはリンク経由で直接クエストに参加するか、[クエストホームページ](https://quest.pancakeswap.finance/quests)にアクセスして新しいアイテムを閲覧できます。クエストをクリックして詳細を確認してください。
 
-    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%206.54.53%20PM.png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%206.54.53%E2%80%AFPM.png" alt="" width="563"><figcaption></figcaption></figure>
 2. 探索ページから、タスク数、勝者数、チェーン、期間の異なるクエストを閲覧できます。
 3. クエストを開始する
    1. クエストを選択したら、ユーザーは「Join Quest」をクリックしてクエストへの参加を開始できます。
@@ -17,7 +17,7 @@
 
 1.  ユーザーはすべてのクエストを完了する前にタスクとアクションを実行する必要があります。タスクを選択して画面上のテキストに従ってチャレンジを完了してください。アクションはソーシャルタスクからオンチェーンアイテムまで様々です。
 
-    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%207.18.31%20PM.png" alt="" width="368"><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%207.18.31%E2%80%AFPM.png" alt="" width="368"><figcaption></figcaption></figure>
 2.  ソーシャルタスク — タスクには以下が含まれます：
 
     1. Xの投稿にいいねをする
@@ -42,7 +42,7 @@
     **注意：データ取得速度により、特定のチェーンではオンチェーンタスクの確認に最大1時間かかる場合があります。**
 4.  上部のステータスバーで残りのタスクを確認できます。クエストが完了すると、左上に「完了」と表示されます。クエストにトークン報酬がある場合、報酬の無作為抽選の対象になります。
 
-    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%207.28.19%20PM.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%207.28.19%E2%80%AFPM.png" alt=""><figcaption></figcaption></figure>
 5. ユーザーはオプションのタスクを完了することもできますが、これはクエストの必須完了にはカウントされません。
 
 ### クエストのステータスを確認する

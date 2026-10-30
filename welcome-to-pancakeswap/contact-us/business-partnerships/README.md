@@ -4,7 +4,7 @@
 
 PancakeSwap（PCS）は主要なマルチチェーン分散型取引所（DEX）であり、現在以下のチェーンで稼働しています：
 
-> BNB Chain、Solana、Base、Arbitrum One、Ethereum、ZKsync Era、Linea、opBNB、Aptos
+> BNB Chain、Ethereum、Solana、Base、Arbitrum、Aptos、ZKsync、Linea、Monad、Robinhood、opBNB
 
 プロジェクトチームとぜひお話しさせていただき、日次アクティブユーザー数40万以上を誇るクリプト最大規模で最も活発なDAppsの一つをご紹介したいと思います！
 
@@ -12,7 +12,7 @@ PancakeSwap（PCS）は主要なマルチチェーン分散型取引所（DEX）
 
 このページはプロジェクトチーム向けの簡単なFAQとして機能しますが、さらにご質問がある場合はお気軽にご連絡ください：
 
-* Telegram上のBDチーム (https://t.me/PancakeSwapBD)
+* **Telegram上のBDチーム：https://t.me/PancakeSwapBD (@PancakeSwapBD)**
 
 ### パートナーシップにご興味がありますか？一緒に構築しましょう
 
@@ -44,9 +44,7 @@ PancakeSwap（PCS）は主要なマルチチェーン分散型取引所（DEX）
 
 ### DeFi全般におけるユーザーの選択肢
 
-シンプルさは魅力であり、安全性も同様です！
-
-15億ドル以上のTVLを持つ私たちは、迅速かつ責任ある行動を心がけています。強気相場から弱気相場まで、4年以上の暗号資産市場での経験を持ち、コミュニティにDeFiを効果的に届けてきました。口だけでなく、[監査報告書](https://docs.pancakeswap.finance/audits)でご確認ください。
+15億ドル以上のTVLを持つ私たちは、迅速かつ責任ある行動を心がけています。強気相場から弱気相場まで、4年以上の暗号資産市場での経験を持ち、コミュニティにDeFiを効果的に届けてきました。口だけでなく、[監査報告書](https://docs.pancakeswap.finance/welcome-to-pancakeswap/audits)でご確認ください。
 
 プロジェクトとのパートナーシップは、トークン配布プログラム（「Syrup Pools」）やトークンローンチ機会（「Initial Farm Offerings」）にとどまりません。私たちはクリプトにおけるコミュニティの影響力を深く理解しており、専任のアンバサダーチームが私たちが提供する多様なコミュニティの動向を把握し、パートナーと高エンゲージメントのイベント（ポッドキャスト、AMA、ミームコンテストなど多数）を定期的に開催しています。
 

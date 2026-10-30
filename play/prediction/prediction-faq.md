@@ -147,7 +147,7 @@ BscScanでウォレットアドレスを入力し、「Internal Txns」タブを
 {% tab title="参加したラウンドを確認する" %}
 参加したラウンドの履歴を確認する方法
 
-1. [Predictionコントラクト](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract)（例：BNBUSD）のBscScanページにアクセスします。
+1. [Predictionコントラクト](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract)（例：BNBUSD）のBscScanページにアクセスします。
 2. 「8. getUserRounds」までスクロールします。
 3. 「user(address)」にウォレットアドレスを入力します。
 4. 「cursor(uint256)」を0、「size(uint256)」を1000に設定します。
@@ -158,7 +158,7 @@ BscScanでウォレットアドレスを入力し、「Internal Txns」タブを
 {% tab title="請求可能かどうかを確認する" %}
 まず、プレイしたラウンドから実際に請求できるかどうかを確認します。
 
-1. [Predictionコントラクト](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract)（例：BNBUSD）のBscScanページにアクセスし、Readタブに移動します。
+1. [Predictionコントラクト](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract)（例：BNBUSD）のBscScanページにアクセスし、Readタブに移動します。
 2. 「4. claimable」までスクロールします。
 3. 「epoch(uint256)」に確認したいラウンドIDを入力します。
 4. 「user(address)」にウォレットアドレスを入力します。
@@ -171,7 +171,7 @@ BscScanでウォレットアドレスを入力し、「Internal Txns」タブを
 {% tab title="ラウンドから請求する" %}
 請求方法
 
-1. [Predictionコントラクト](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract)（例：BNBUSD）のBscScanページにアクセスし、Writeタブに移動します。
+1. [Predictionコントラクト](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract)（例：BNBUSD）のBscScanページにアクセスし、Writeタブに移動します。
 2. 「🔴 Connect to Web3」をタップします。
 3. MetaMaskまたはWalletConnectで接続します。
 4. 「3. claim」までスクロールします。

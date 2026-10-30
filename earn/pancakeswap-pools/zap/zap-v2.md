@@ -29,7 +29,7 @@ Zapはシンプルな流動性提供を可能にします。手動でスワッ�
 
 [流動性ページ](https://pancakeswap.finance/liquidity)にアクセスし、「Add Liquidity」を選択します。
 
-流動性を提供したいトレーディングペアを2つの入力トークンを選択して選びます。詳細は[流動性ガイド](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide)をご確認ください。
+流動性を提供したいトレーディングペアを2つの入力トークンを選択して選びます。詳細は[流動性ガイド](https://docs.pancakeswap.finance/earn/pancakeswap-pools/liquidity-guide)をご確認ください。
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-1.png)
 

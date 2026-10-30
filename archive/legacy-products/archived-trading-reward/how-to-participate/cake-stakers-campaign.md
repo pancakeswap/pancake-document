@@ -25,7 +25,7 @@ CAKE StakersキャンペーンはveCAKE Stakersキャンペーンになりまし
 *   [スワップページ](https://pancakeswap.finance/swap)の「Hot Token」リストから💝アイコンを探す。またはフィルターを使用してTrading Rewardのあるペアを確認する。
 
     <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28183%29.png" alt=""><figcaption></figcaption></figure>
-* [ソーシャルメディアチャンネル](/broken/pages/QqND39S2UhktBbu09Doj)を確認する。
+* [ソーシャルメディアチャンネル](../../../../welcome-to-pancakeswap/contact-us/social-accounts.md)を確認する。
 
 ## アドレスが対象かどうかを確認する <a href="#ced8a6c5-803a-4a60-80d0-44e823571d84" id="ced8a6c5-803a-4a60-80d0-44e823571d84"></a>
 

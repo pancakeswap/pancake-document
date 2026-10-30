@@ -235,6 +235,6 @@ BNBチェーン以外のEVMブロックチェーンでクロスチェーンフ�
 
 これはMetaMaskウォレットに表示されるハーベスト手数料の例です。ウォレットによって表示方法が若干異なる場合があります。手数料をあまり頻繁に支払わないよう、しばらく報酬を積み立てることをご検討ください。
 
-以上で完了です！[PancakeSwap シロッププールの使い方](https://docs.pancakeswap.finance/get-started/syrup-pool-guide)も確認して報酬を獲得してみてください。
+以上で完了です！[PancakeSwap シロッププールの使い方](https://docs.pancakeswap.finance/earn/cake-staking/syrup-pool/syrup-pool-guide)も確認して報酬を獲得してみてください。
 
 楽しいファーミングを！

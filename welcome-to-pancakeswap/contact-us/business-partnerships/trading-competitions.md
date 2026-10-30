@@ -4,7 +4,7 @@
 
 セットアップ、集計、アナウンスはすべて私たちが担当します。報酬を提供していただければ、あとはお任せください。
 
-BNB Chain、Solana、Base、Arbitrum、Ethereum、ZKsync、Linea、opBNB、Polygon zkEVMにて対応しています。
+BNB Chain、Solana、Base、Arbitrum、Ethereum、ZKsync、Linea、opBNBにて対応しています。
 
 _過去に参加したプロジェクトの中には、取引量と活発に取引するアドレス数が3〜7倍に増加したケースもあります。_
 

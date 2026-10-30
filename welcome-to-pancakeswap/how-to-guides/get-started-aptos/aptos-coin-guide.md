@@ -1,7 +1,5 @@
 # Aptos Coinを入手する
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-get-aptos-coins-header.png)
-
 {% hint style="info" %}
 このガイドでは、主要トークンのための主なAptosブリッジングサービスを紹介しています。AptosとBNB Smart Chain間でCAKEをBridgeする場合は、[PancakeSwap Aptos Bridge](https://bridge.pancakeswap.finance/aptos)をご利用ください。
 {% endhint %}
@@ -49,7 +47,7 @@ AptosとBNB Smart Chain間でCAKEトークンをBridgeするには、[PancakeSwa
 {% tab title="💰 Binance.com" %}
 [**Binance.com**](https://www.binance.com/en/)
 
-* Binanceアカウントを通じて、AptosチェーンでAptos Coin（APT）を出金することができます。&#x20;
+* Binanceアカウントを通じて、AptosチェーンでAptos Coin（APT）を出金することができます。
 * **⚠️ 現在はAptos Coin（APT）のみ対応しています。その他のアセットをブリッジする場合は、上記のブリッジングオプションをご確認ください。**
 * **⚠️ ご利用にはアカウントが必要です。**
 

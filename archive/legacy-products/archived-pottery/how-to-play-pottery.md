@@ -6,7 +6,7 @@
 
 PancakeSwapのPotteryは、CAKEをロックしてステーキングプールにステーキングするだけでなく、CAKEを積み上げる別の方法です。このガイドではPancakeSwapウェブUIで参加する方法を説明します。
 
-プロダクトの構造、リスク、手数料については[PancakeSwap Potteryのこちら](https://docs.pancakeswap.finance/products/pottery)をご覧ください。
+プロダクトの構造、リスク、手数料については[PancakeSwap Potteryのこちら](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery)をご覧ください。
 
 ## Potteryコホートへの参加を検討する
 
@@ -24,7 +24,7 @@ PancakeSwapのPotteryは、CAKEをロックしてステーキングプールに�
 
 ![](https://lh5.googleusercontent.com/_TqVUlNGtnGvGz_wysnq-KmewS_CjmUJ0jMHwzRMLx47Rmq-x868M0q-iBXCqynotDqz3mxnUZovExx4bUb8BBv3W6OXl4u4pJWFmOz__IYASvQ_hgmccB3GPaL1oz4TutJr3PTwdz_2NoVzmnpkcD0)
 
-— この場合、APR、ロックされた総価値、当選確率が許容範囲内であれば、CAKEを预けてPotteryに参加できます。デポジット前に参加のリスクを完全に理解してください！すべてのデポジットはいかなる状況でも早期引き出しなしに10週間ロックされます。[リスクと手数料についての詳細はこちら](https://docs.pancakeswap.finance/products/pottery)をご覧ください。
+— この場合、APR、ロックされた総価値、当選確率が許容範囲内であれば、CAKEを预けてPotteryに参加できます。デポジット前に参加のリスクを完全に理解してください！すべてのデポジットはいかなる状況でも早期引き出しなしに10週間ロックされます。[リスクと手数料についての詳細はこちら](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery)をご覧ください。
 
 ## **デポジットを確認する**
 
@@ -40,7 +40,7 @@ PancakeSwapのPotteryは、CAKEをロックしてステーキングプールに�
 
 ![](https://lh3.googleusercontent.com/ClT6Dx6rJlfFmzmyxwCCwIUsDv-DuhzVAWN5Qt0sOulj2_z8_79lpw8-wuJJLf-Y8M5MNlOrjN3qvPPOb81HGKNbk1EtdbnBmieRSZ66G8krr8GUWc2s5SDw)
 
-抽選日に基づいて、確認したいコホートの対応するラウンドを見つけてください — 各金曜日には異なるコホートがあるため複数の抽選が行われる場合があります。探しているコホートの正しい抽選を確認してください。[コホート構造についての詳細はこちら](https://docs.pancakeswap.finance/products/pottery#pottery-cohort)をご覧ください。
+抽選日に基づいて、確認したいコホートの対応するラウンドを見つけてください — 各金曜日には異なるコホートがあるため複数の抽選が行われる場合があります。探しているコホートの正しい抽選を確認してください。[コホート構造についての詳細はこちら](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery#pottery-cohort)をご覧ください。
 
 ## 賞金を請求する
 

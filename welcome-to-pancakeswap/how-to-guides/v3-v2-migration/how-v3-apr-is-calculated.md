@@ -52,7 +52,7 @@ MC v3における1秒あたりの合計報酬CAKEはアップキープを使用�
 個々のポジションのAPRは価格範囲の設定によって異なる場合があります。
 
 $$
-ARP_p = {\frac{USD_{r}}{USD_{p}}} {\frac{L_{p}}{L_{lm}}}
+APR_p = {\frac{USD_{r}}{USD_{p}}} {\frac{L_{p}}{L_{lm}}}
 $$
 
 * $$USD_r$$: プールで年間獲得するCAKE報酬のUSD換算額

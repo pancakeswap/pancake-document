@@ -8,7 +8,7 @@ PancakeSwap Xは、幅広いサードパーティ流動性を集約し、人気�
 * ガス不要のスワップ
 
 {% hint style="success" %}
-**PancakeSwap XはArbitrum、Ethereum、Baseで稼働しており、暗号通貨トークンをサポートしています。BNB Chainでは、実物資産（RWA）のみサポートしています。**
+**PancakeSwap XはArbitrum、Ethereum、BNB Chain、Base、Robinhood Chainで稼働しており、暗号通貨トークンのスワップをサポートしています。実物資産（RWA）は、BNB Chain、Ethereum、Robinhood Chainでも追加でサポートされています。**
 {% endhint %}
 
 > **連携をご希望の方は、PancakeSwap Xの技術的な連携ガイドを[こちら](https://www.notion.so/PCSX-Tech-Integration-Guide-0eb33e93295644e9855ec2c34b58b0c4?source=copy_link)でご確認ください。**

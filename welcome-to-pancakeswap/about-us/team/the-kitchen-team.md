@@ -2,37 +2,49 @@
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/the-kitchen-team-header.png)
 
-シェフの名前をクリックすると、キッチンインタビュー記事にジャンプできます。
+### The Chefs
 
-### シェフたち
-
-🐰 Chef Kids - ヘッドシェフ ([Twitter](https://x.com/Headchef_pcs))
+🐰 Chef Kids - ヘッドシェフ ([X/Twitter](https://x.com/Headchef_pcs))
 
 🐰 Chef Miso - プロダクト
 
-🐰 Chef Maroon - BD リード ([Twitter](https://x.com/ChefMaroon))
+🐰 Chef Kocha - プロダクト
 
-🐰 Chef Doxie - ビジネスデベロップメント ([Twitter](https://x.com/ChefDoxie))
-
-🐰 Chef Madeline - ビジネスデベロップメント
-
-🐰 Chef Leo - ビジネスデベロップメント
-
-🐰 Chef Mustard - オペレーション ([Twitter](https://twitter.com/chef_mustard))
+🐰 Chef Mustard - オペレーション ([X/Twitter](https://twitter.com/chef_mustard))
 
 🐰 Chef Pau - オペレーション
 
+🐰 Chef Leo - ビジネスデベロップメントリード ([X/Twitter](https://x.com/DYOR_WAGMI))
+
+🐰 Chef Olive - ビジネスデベロップメント&#x20;
+
+🐰 Chef Cocoa - マーケティングリード ([X/Twitter](https://x.com/chef_cocoa_pcs))
+
+🐰 Chef Alina - パートナーシップマーケティング ([X/Twitter](https://x.com/0xalinatyng))
+
+🐰 Chef Sake - コミュニティ ([X/Twitter](https://x.com/KayraMeow))
+
+🐰 Chef Marcus - ソーシャルメディア &#x20;
+
+🐰 Chef Boba - コミュニティ &#x20;
+
+🐰 Chef Salade - デザインリード
+
+🐰 Chef Waffles - デザイナー
+
+🐰 Chef Noodles - デザイナー
+
 🐰 Chef Cyrus - データ
 
-🐰 Chef Jackson - 開発リード ([Twitter](https://x.com/0xchefjackson))
+🐰 Chef Mist - 開発リード&#x20;
 
 🐰 Chef Ryan - フロントエンド開発リード
+
+🐰 Chef Philip - AI開発
 
 🐰 Chef Eric - フロントエンド開発
 
 🐰 Chef Jerry - フロントエンド開発
-
-🐰 Chef Philip - フロントエンド開発
 
 🐰 Chef Penguin - フロントエンド開発
 
@@ -64,22 +76,4 @@
 
 🐰 Chef Rei - セキュリティ
 
-🐰 Chef Salade - デザインリード
-
-🐰 [Chef Cecy](https://medium.com/pancakeswap/kitchen-interviews-chef-cecy-the-magical-3d-artist-making-fluffy-bunnies-e1eda53742f3) - 3D アーティスト ([Twitter](https://twitter.com/Cecymeade))
-
-🐰 Chef Waffles - デザイナー
-
-🐰 Chef Noodles - ブランド / モーションデザイナー
-
 🐰 Chef Cola - 人事
-
-🐰 Chef Cocoa - マーケティングリード ([Twitter](https://x.com/chef_cocoa_pcs))
-
-🐰 Chef Pixie - プロダクトマーケティングマネージャー ([Twitter](https://x.com/chefpixiee))
-
-🐰 Chef Marcus - ソーシャルメディア ([Twitter](https://x.com/ChefMarcusPCS))
-
-🐰 Chef Boba - コミュニティ ([Twitter](https://x.com/chefboba_pcs))
-
-🐰 Chef Croissant - イベント & PR

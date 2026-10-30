@@ -22,7 +22,7 @@
    * コミュニティとのインタラクティブなセッションで、質問に答えて良い雰囲気を作ります✨
 5. IFOローンチ
    * IFOをローンチし、コミュニティ管理チームを通じてコミュニティからのフィードバックを監視・収集・共有します。
-   * [Twitter](https://app.gitbook.com/o/-MHRKTpKSfYQBsO7YgOo/s/fxRem6Hv7x6dAU7rlR7a/)と[Telegram](https://t.me/PancakeSwapAnn/6131)でマーケティング素材も公開します。
+   * [Twitter](https://x.com/PancakeSwap)と[Telegram](https://t.me/PancakeSwapAnn/6131)でマーケティング素材も公開します。
 6. ローンチ後
    * 引き続き連絡を取り合い、可能な限り協力して取り組みます！
 

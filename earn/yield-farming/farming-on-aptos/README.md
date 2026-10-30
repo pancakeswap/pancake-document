@@ -10,7 +10,7 @@ description: Aptosでファーミングして同じ豊富なCAKE報酬を受け�
 
 Yield Farmingについて詳しくは、[メインセクション](../)をご覧ください。
 
-異なるブロックチェーン間で一貫した製品体験を設計しています。そのため、BSC上でFarmを長年使用されている方は、Aptosでファーミングする際も親しみやすく感じていただけるでしょう。流動性ファーミングが初めての方は、[ファームの使い方ガイド](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms)をご確認ください。
+異なるブロックチェーン間で一貫した製品体験を設計しています。そのため、BSC上でFarmを長年使用されている方は、Aptosでファーミングする際も親しみやすく感じていただけるでしょう。流動性ファーミングが初めての方は、[ファームの使い方ガイド](https://docs.pancakeswap.finance/earn/yield-farming/how-to-use-farms/how-to-use-farms)をご確認ください。
 
 BSCとAptos間でアセットとCAKEをブリッジする方法については、[CAKEブリッジングガイド](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos/cake-bridging-guide.md)をご覧ください。
 

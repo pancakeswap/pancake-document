@@ -6,9 +6,9 @@ PancakeSwapでの取引は、ほとんどの取引所と比べて非常に簡単
 
 **取引の準備**
 
-取引を始める前に、BNB ChainまたはEthereumに対応したウォレットが必要です。取得方法は[こちら](https://docs.pancakeswap.finance/get-started/wallet-guide)でご確認いただけます。また、取引に使用するBEP-20またはERC-20トークンも必要です。取得方法は[こちら](https://docs.pancakeswap.finance/get-started/bep20-guide)でご確認いただけます。
+取引を始める前に、BNB ChainまたはEthereumに対応したウォレットが必要です。取得方法は[こちら](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/wallet-guide)でご確認いただけます。また、取引に使用するBEP-20またはERC-20トークンも必要です。取得方法は[こちら](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/bep20-guide)でご確認いただけます。
 
-あるいは、Aptos対応ウォレットの取得方法は[こちら](https://docs.pancakeswap.finance/get-started-aptos/wallet-guide)、スワップに使用するAptosコインの取得方法は[こちら](https://docs.pancakeswap.finance/get-started-aptos/aptos-coin-guide)をご参照ください。
+あるいは、Aptos対応ウォレットの取得方法は[こちら](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-aptos/wallet-guide)、スワップに使用するAptosコインの取得方法は[こちら](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-aptos/aptos-coin-guide)をご参照ください。
 
 ## PancakeSwap Exchangeでの取引
 
@@ -64,7 +64,7 @@ Smart Routerは現在、PancakeSwap Exchange v3のデフォルトルートとな
 
 取引ルートのカスタマイズ方法については、[こちら](fees-and-routes.md)をご参照ください。&#x20;
 
-StableSwapの詳細については[こちら](/broken/pages/nNPogTZMxocdyFIBYbkE)、マーケットメーカー連携については[こちら](market-maker-integration.md)をご参照ください。
+StableSwapの詳細については[こちら](../stableswap/classic-stableswap.md)、マーケットメーカー連携については[こちら](market-maker-integration.md)をご参照ください。
 
 ## FAQ
 

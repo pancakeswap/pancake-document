@@ -1,7 +1,5 @@
 # Aptos よくある質問 (FAQ)
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Aptos-faq-header.png" alt=""><figcaption></figcaption></figure>
-
 このFAQページでは、PancakeSwapコミュニティからよく寄せられるAptosデプロイメントに関する質問にお答えしています。
 
 ## 全般
@@ -29,8 +27,6 @@ Aptos Swapのデフォルトリストには、十分な流動性を持つ有名�
 デフォルトリストに掲載されていないその他のコインをスワップしたい場合は、コインアドレスを使用してインポートしてください。
 
 ### AptosSwapでCAKEを取引できない理由は？
-
-_2022年12月13日更新_
 
 CAKEトークン/コインがAptosで利用可能になりました。AptosとBNB Smart Chain間でCAKEトークンをブリッジする方法については、[CAKEブリッジングガイド](cake-bridging-guide.md)をご覧ください。
 

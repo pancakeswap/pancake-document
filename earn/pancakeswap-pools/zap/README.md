@@ -10,7 +10,7 @@ Zapは流動性を簡単に追加できる機能です。Zapを使えば、プ�
 
 ### 対応チェーン
 
-* v3 - BNB Chain上のすべてのプール、EthereumおよびArbitrumネットワークの選択されたプール
+* v3 - BNB ChainおよびRobinhood Chain上のすべてのプール、EthereumおよびArbitrumネットワークの選択されたプール
 * Infinity - BNB Chain上のすべてのCLAMMプール（Hookなし）
 
 ### 使い方 <a href="#id-438fff0f-f1da-4147-9fe3-6dc1dc2ef352" id="id-438fff0f-f1da-4147-9fe3-6dc1dc2ef352"></a>

@@ -29,19 +29,19 @@ PancakeSwapの手数料獲得型指値注文は従来の指値注文とは異な
 
 売買したいトークンペア（例：BNB/CAKE）と金額を選択します
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%2011.07.07%20AM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%2011.07.07%E2%80%AFAM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 目標/指値価格を設定します
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%2011.07.35%20AM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%2011.07.35%E2%80%AFAM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 指値注文を出し「確認」します。指値価格に最も近いティックに代わりに流動性が配置されます
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%2011.08.49%20AM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%2011.08.49%E2%80%AFAM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 プール価格が目標に達すると、注文が実行されます。希望する出力トークンと手数料が自動的に引き出されウォレットに送られます。
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%201.01.47%20PM.png" alt="" width="370"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%201.01.47%E2%80%AFPM.png" alt="" width="370"><figcaption></figcaption></figure>
 
 
 
@@ -49,7 +49,7 @@ PancakeSwapの手数料獲得型指値注文は従来の指値注文とは異な
 
 こちらをクリックして注文状況を確認できます
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%202.12.50%20PM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202025-09-28%20at%202.12.50%E2%80%AFPM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 **注文は以下のいずれかの状態になります：**
 

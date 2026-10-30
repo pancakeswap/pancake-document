@@ -11,7 +11,7 @@ hidden: true
 
 Yield Farmingについて詳しくは、[メインセクション](../)をご覧ください。
 
-ファーミングを始めるには、[ファームの使い方ガイド](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms)をご確認ください。
+ファーミングを始めるには、[ファームの使い方ガイド](https://docs.pancakeswap.finance/earn/yield-farming/how-to-use-farms/how-to-use-farms)をご確認ください。
 
 {% hint style="warning" %}
 Yield farmingはシロッププールよりも高い報酬が得られる場合がありますが、**インパーマネントロス（Impermanent Loss）**のリスクが伴います。思ったほど怖くはありませんが、始める前にこの概念を理解しておくことをお勧めします。

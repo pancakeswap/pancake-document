@@ -14,7 +14,7 @@
 
 ### みんなの選択
 
-PancakeSwapは主要な分散型取引所です。BNB Chain、Ethereum、Solana、Base、Arbitrum、Aptos、ZKsync、Linea、Monad、opBNBの10チェーンで利用可能で、市場最高の取引量を誇ります（参考：[1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)）。
+PancakeSwapは主要な分散型取引所です。BNB Chain、Ethereum、Solana、Base、Arbitrum、Aptos、ZKsync、Linea、Monad、Robinhood、opBNBの11チェーンで利用可能で、市場最高の取引量を誇ります（参考：[1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)）。
 
 ### 低手数料
 

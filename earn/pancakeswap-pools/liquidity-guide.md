@@ -10,7 +10,7 @@
 
 流動性を提供するには、好みのトークンペアの数量をコミットする必要があります。2つのトークンのうちUSD価値が低い方が、提供できる流動性の上限となります。
 
-必要なトークンは簡単に取引で入手できます。必要な場合は[PancakeSwapでのトレード方法](https://docs.pancakeswap.finance/get-started/trade-guide)ガイドをご確認ください。
+必要なトークンは簡単に取引で入手できます。必要な場合は[PancakeSwapでのトレード方法](https://docs.pancakeswap.finance/trade/pancakeswap-exchange/trade-guide)ガイドをご確認ください。
 
 この例では、ETHとUSDCを使用してV3流動性を追加します。
 

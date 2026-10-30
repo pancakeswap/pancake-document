@@ -1,6 +1,6 @@
 # RWA
 
-PancakeSwap XはBNB Chain上でオンチェーンの実物資産を大規模にサポートしています。ユーザーはOndo Financeを活用したPancakeSwap上で、100種類以上のトークン化された株式、債券、ETFを直接取引できます。
+PancakeSwapは、BNB Chain、Ethereum、Robinhood Chainにわたってオンチェーンの実物資産を大規模にサポートしており、SolanaでもRWA取引をご利用いただけます。ユーザーは、Ondo Financeおよびその他の発行体が提供する100種類以上のトークン化された株式、債券、ETFをPancakeSwap上で直接取引できます。
 
 ### Ondo Financeとは何ですか？
 

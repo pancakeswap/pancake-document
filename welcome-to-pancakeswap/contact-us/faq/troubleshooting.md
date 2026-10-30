@@ -234,7 +234,7 @@ CAKE-CAKEプールからのステーキング解除に必要なSYRUPがウォレ
 
 それでも失敗する場合は、コントラクトから直接「emergencyWithdraw」を実行してステーキングを解除できます。
 
-1. こちらにアクセスしてください：[https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract)
+1. こちらにアクセスしてください：[https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract](https://bscscan.com/)
 2. **「Connect to Web3」**をクリックしてウォレットを接続します。 ![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
 3. セクション**「4. emergencyWithdraw」**で「0」を入力し、「Write」をクリックします。
 
@@ -305,7 +305,7 @@ CAKE-CAKEプールからのステーキング解除に必要なSYRUPがウォレ
 コントラクトから直接「emergencyWithdraw」を実行してステーキングを解除できます。
 
 1. アンステーキングしようとしているSyrup Poolのコントラクトアドレスをウォレットのトランザクション履歴から確認します。
-2. [https://bscscan.com/](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract)にアクセスし、検索バーにコントラクトアドレスを入力します。
+2. [https://bscscan.com/](https://bscscan.com/)にアクセスし、検索バーにコントラクトアドレスを入力します。
 3. **Write Contract**を選択します。
 4. **「Connect to Web3」**をクリックしてウォレットを接続します。![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
 5. セクション**「3. emergencyWithdraw」**で「Write」をクリックします。
@@ -324,7 +324,7 @@ CAKE-CAKEプールからのステーキング解除に必要なSYRUPがウォレ
 
 ## **予測（Prediction）に関する問題**
 
-[Broken link](/broken/pages/8zN9xzaYD1DvxZvzLzug "mention")をご確認ください。
+[Broken link](../../../play/prediction/prediction-faq.md "mention")をご確認ください。
 
 ## **その他の問題**
 

@@ -19,7 +19,7 @@
        <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unnamed%20%287%29.png" alt=""><figcaption></figcaption></figure>
 
        <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unnamed%20%286%29.png" alt="" width="375"><figcaption></figcaption></figure>
-3.  プロフィール設定画面の手順に従うか、[Broken link](/broken/pages/-MYdfYNF3jEh_f1HFdcj "mention")のメイクプロフィールガイドのステップ7以降を参照してください。セットアップは無料ですが、BNBチェーン上でプロフィールを設定するために少量のガスが必要です。
+3.  プロフィール設定画面の手順に従うか、メイクプロフィールガイドのステップ7以降を参照してください。セットアップは無料ですが、BNBチェーン上でプロフィールを設定するために少量のガスが必要です。
 
     <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unnamed%20%285%29.png" alt="" width="375"><figcaption><p>バニーを選択してください — クエストの旅のための一般的なスターターバニーです</p></figcaption></figure>
 

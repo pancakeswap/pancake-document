@@ -74,4 +74,4 @@ Potteryに参加することで、預けたCAKEのステーキング報酬をリ
 
 ## **参加する準備はできましたか？**
 
-プロダクトの構造、リスク、手数料について理解できたら、PancakeSwapウェブUIからの[参加方法](https://docs.pancakeswap.finance/products/pottery/how-to-play-pottery)と[Pottery FAQ](https://docs.pancakeswap.finance/products/pottery/pottery-faq)についてのこのページをご確認ください！
+プロダクトの構造、リスク、手数料について理解できたら、PancakeSwapウェブUIからの[参加方法](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery/how-to-play-pottery)と[Pottery FAQ](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery/pottery-faq)についてのこのページをご確認ください！

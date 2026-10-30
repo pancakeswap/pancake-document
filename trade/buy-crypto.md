@@ -20,7 +20,7 @@ PancakeSwapでは、クレジットカード、デビットカード、または
 
 <table><thead><tr><th width="145">プロバイダー</th><th>手数料^</th><th>対応法定通貨</th><th>対応トークン**</th></tr></thead><tbody><tr><td>Mercuryo</td><td>デビット/クレジットで3.95%、銀行振込/SEPA（EU）で3.95%</td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY, KRW, VND</td><td><p>BTC: BTC<br><br>ERC-20: ETH, USDT, DAI</p><p></p><p>BEP-20: BNB<br><br>ARB: ETH, USDC</p></td></tr><tr><td>Moonpay</td><td><p>デビット/クレジットで2.75%</p><p>SEPA（EU）、FPS（UK）で1.25%</p><p>PIX（ブラジル）で2.95%</p></td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY, KRW, TWD, IDR, VND</td><td><p>ERC-20: ETH, USDT, USDC, DAI<br></p><p>BEP-20: BNB（米国外）<br><br>ARB: ETH, USDC.e</p></td></tr><tr><td>Transak***</td><td>デビット/クレジット/Apple Pay/Google Payで3.5%〜5.5%、SEPA（EU）、FPS（UK）、Cash App（USD）で0.99%</td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY, KRW, VND</td><td><p>ERC-20: ETH, USDT, USDC, DAI, WBTC<br></p><p>BEP-20: BNB（米国外）, USDC<br><br>ARB: ETH, ARB, USDC.e, USDC<br><br>Base: USDC, ETH<br><br>Linea: USDC, ETH<br><br>Polygon ZkEVM, ZkSync Era: ETH</p></td></tr><tr><td>Topper</td><td>デビット/クレジット/Apple Pay/Google Pay、Pix（ブラジル）で2.49%</td><td>USD, EUR, GBP, HKD, CAD, AUD, BRL, JPY</td><td>BTC: BTC<br><br>ERC-20: ETH, USDT, USDC, DAI, WBTC<br><br>BEP-20: BNB, CAKE, USDT<br><br>ARB: ETH, USDC</td></tr></tbody></table>
 
-^手数料は最低および最大利用額の影響を受け、トークンによって異なりますが、概ね30 USD以上、10,000 USD以下です。Pancakeswapは提供サービスに対して追加で1%を請求します。
+^手数料は最低および最大利用額の影響を受け、トークンによって異なりますが、概ね30 USD以上、10,000 USD以下です。PancakeSwapは提供サービスに対して追加で1%を請求します。
 
 \*カード払いの最低金額は$3.99または現地通貨相当額
 

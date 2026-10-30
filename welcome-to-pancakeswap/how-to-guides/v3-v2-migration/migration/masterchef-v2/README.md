@@ -44,7 +44,7 @@ MasterChef v2には2種類のプールがあります。通常のファームプ
 
 任意のファームプールの合計ステーキング量を取得するには`lpToken.balanceOf(MasterChef.address)`を使用します。
 
-ただし、MasterChef v2ではユーザーのシェアをブーストできます（近日公開予定）。そのため、報酬は各プールの合計シェアとして`PoolInfo`の新しい`totalBoostedShare`フィールドを使用して計算されます。例えば、プール0に2人のユーザーがいて、user1が100 LPをステーキング（ブーストなし）、user2が100 LPをステーキング（`boostMultiplier`が1.05）の場合、`totalBoostedShare`は205になります。結果として、user2がより多くの報酬を獲得します。
+ただし、MasterChef v2ではユーザーのシェアをブーストできます。そのため、報酬は各プールの合計シェアとして`PoolInfo`の新しい`totalBoostedShare`フィールドを使用して計算されます。例えば、プール0に2人のユーザーがいて、user1が100 LPをステーキング（ブーストなし）、user2が100 LPをステーキング（`boostMultiplier`が1.05）の場合、`totalBoostedShare`は205になります。結果として、user2がより多くの報酬を獲得します。
 
 #### CakePerBlock
 

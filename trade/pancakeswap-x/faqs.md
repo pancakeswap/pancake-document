@@ -2,7 +2,7 @@
 
 #### 現在サポートされているネットワークはどれですか？
 
-PancakeSwap XはArbitrumとEthereumで稼働しており、暗号通貨トークンをサポートしています。BNB Chainでは、トークン化された株式、債券、ETFなどの実物資産（RWA）のみサポートしています。
+PancakeSwap XはArbitrum、Ethereum、BNB Chain、Base、Robinhood Chainで稼働しており、暗号通貨トークンのスワップをサポートしています。トークン化された株式、債券、ETFなどの実物資産（RWA）は、BNB Chain、Ethereum、Robinhood Chainでも追加でサポートされています。
 
 #### PancakeSwap Xはデフォルトで有効ですか？
 

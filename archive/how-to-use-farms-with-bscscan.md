@@ -5,7 +5,7 @@
 PancakeSwapでFarmを使用するには複数の手順があり、最初は難しく感じるかもしれません。このガイドでは、BscScanを通じてFarmのコントラクトを直接操作する方法を説明します。
 
 {% hint style="warning" %}
-BscScanを使用してコントラクトと直接やり取りすることは、初心者にはお勧めしません。自信がない場合は、代わりに[Farmの使い方ガイド](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms)をお使いください。
+BscScanを使用してコントラクトと直接やり取りすることは、初心者にはお勧めしません。自信がない場合は、代わりに[Farmの使い方ガイド](https://docs.pancakeswap.finance/earn/yield-farming/how-to-use-farms/how-to-use-farms)をお使いください。
 {% endhint %}
 
 ## FarmのプロセスID（PID）を見つける

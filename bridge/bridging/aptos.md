@@ -7,7 +7,7 @@ description: Bridge CAKE between EVM chains and Aptos
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28113%29.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-以下のガイドでは、EVMチェーンの例としてBNB Chainを使用しています。同じ手順をEthereumにも適用できます。
+以下のガイドでは、EVMチェーンの例としてBNB Chainを使用しています。同じ手順をEthereumにも適用して、Aptosへ**ブリッジ**できます。Aptosから**ブリッジアウト**する場合、現在は送信先としてBNB Smart Chainのみがサポートされています。
 {% endhint %}
 
 ## BNB Smart ChainからAptosへのCAKEのブリッジ

@@ -79,7 +79,9 @@
     * [キッチンチーム](welcome-to-pancakeswap/about-us/team/the-kitchen-team.md)
     * [シェフになる](welcome-to-pancakeswap/about-us/team/become-a-chef/README.md)
       * [ビジネス開発リード](welcome-to-pancakeswap/about-us/team/become-a-chef/business-development-lead.md)
+      * [シニアデザイナー](welcome-to-pancakeswap/about-us/team/become-a-chef/senior_designer.md)
       * [ビジネス開発マネージャー (AMM)](welcome-to-pancakeswap/about-us/team/become-a-chef/business-development-lead-1.md)
+      * [ビジネス開発マネージャー (Liquidity Hub)](welcome-to-pancakeswap/about-us/team/become-a-chef/business-development-lead-1-1.md)
       * [コミュニティマネージャー (CN)](welcome-to-pancakeswap/about-us/team/become-a-chef/community-manager-cn.md)
       * [コミュニティマネージャー](welcome-to-pancakeswap/about-us/team/become-a-chef/community-manager.md)
       * [シニアフロントエンドエンジニア](welcome-to-pancakeswap/about-us/team/become-a-chef/frontend-engineer.md)
@@ -91,6 +93,8 @@
       * [マーケティングマネージャー (PR & イベント)](welcome-to-pancakeswap/about-us/team/become-a-chef/marketing-manager-pr-and-events.md)
       * [クオンツ開発者](welcome-to-pancakeswap/about-us/team/become-a-chef/quant-developer.md)
       * [プロダクトマネージャー](welcome-to-pancakeswap/about-us/team/become-a-chef/product-manager.md)
+      * [シニアバックエンド開発者 (DeFi)](<welcome-to-pancakeswap/about-us/team/become-a-chef/product-manager-1 (1).md>)
+      * [プロダクトマーケティングマネージャー](welcome-to-pancakeswap/about-us/team/become-a-chef/product-manager-2.md)
       * [コミュニティリード](welcome-to-pancakeswap/about-us/team/become-a-chef/community-lead.md)
       * [Solidityエンジニア（契約）](welcome-to-pancakeswap/about-us/team/become-a-chef/solidity-engineer-contract.md)
       * [フロントエンドエンジニア（契約）](welcome-to-pancakeswap/about-us/team/become-a-chef/frontend-engineer-contract.md)
@@ -102,6 +106,7 @@
       * [ビジネス開発マネージャー](welcome-to-pancakeswap/about-us/team/become-a-chef/business-development-manager-1.md)
       * [データアナリスト](welcome-to-pancakeswap/about-us/team/become-a-chef/data-analyst.md)
       * [プロダクトマネージャー \[予測マーケット\]](welcome-to-pancakeswap/about-us/team/become-a-chef/product-manager-prediction-markets.md)
+      * [マーケティング責任者](welcome-to-pancakeswap/about-us/team/become-a-chef/head-of-marketing.md)
   * [ブランドとロゴ](welcome-to-pancakeswap/about-us/brand.md)
 
 ***
@@ -159,15 +164,18 @@
   * [マーケットメーカー統合](trade/pancakeswap-exchange/market-maker-integration.md)
   * [Smart Router (V2)](trade/pancakeswap-exchange/smart-router-v2/README.md)
     * [Smart Routerを使った取引方法](trade/pancakeswap-exchange/smart-router-v2/how-to-trade-using-smart-router.md)
+  * [トークン化株式 - 地域制限](trade/pancakeswap-exchange/tokenized-stocks-geo-block.md)
 * [🔀 クロスチェーンスワップ](trade/crosschain-swaps/README.md)
   * [👉 クロスチェーンスワップの方法](trade/crosschain-swaps/how-to-do-a-crosschain-swap.md)
   * [🔁 スワップシナリオ](trade/crosschain-swaps/swap-scenarios.md)
-  * [🔁 スワップシナリオのコピー](trade/crosschain-swaps/copy-of-swap-scenarios.md)
   * [❓ よくある質問 (FAQ)](trade/crosschain-swaps/faq.md)
 * [♾️ PancakeSwap Infinity](trade/pancakeswap-infinity/README.md)
   * [主な機能](trade/pancakeswap-infinity/key-features.md)
   * [Hooks](trade/pancakeswap-infinity/hooks/README.md)
     * [ダイナミックフィーフック](trade/pancakeswap-infinity/hooks/dynamic-fee-hook.md)
+    * [Shared Inventory Hook](trade/pancakeswap-infinity/hooks/shared-inventory-hook/README.md)
+      * [Shared Inventory Hookの紹介](trade/pancakeswap-infinity/hooks/shared-inventory-hook/introducing-shared-inventory-hook.md)
+      * [RWAの資本非効率性とShared Inventoryによる解決](trade/pancakeswap-infinity/hooks/shared-inventory-hook/rwa-capital-inefficiency-and-how-shared-inventory-solves-for-it.md)
   * [プールタイプ](trade/pancakeswap-infinity/pool-types/README.md)
     * [Infinity CLAMM & LBAMM](trade/pancakeswap-infinity/pool-types/infinity-clamm-and-lbamm.md)
     * [Infinity StableSwap](trade/pancakeswap-infinity/pool-types/infinity-stableswap.md)
@@ -263,6 +271,7 @@
     * [ゲージ投票 よくある質問 (FAQ)](earn/earn-faq/cake-staking-faq/gauges-voting-faq.md)
     * [シロッププール よくある質問 (FAQ) & トラブルシューティング](earn/earn-faq/cake-staking-faq/syrup-pool-faq.md)
     * [CAKE シロッププール よくある質問 (FAQ)](earn/earn-faq/cake-staking-faq/cake-syrup-pool-faq.md)
+* [🍩 Dual Investment](earn/dual-investment.md)
 
 ## プレイ
 
@@ -295,6 +304,7 @@
   * [MEV Guard よくある質問 (FAQ)](trading-tools/trading-tools-faq/mev-guard-faq.md)
 * [🤖 PancakeSwap V3でのトレーディングエージェント構築](trading-tools/building-trading-agents-on-pancakeswap-v3/README.md)
   * [リファレンスエージェント — 注文/インテント決済エージェント](trading-tools/building-trading-agents-on-pancakeswap-v3/reference-agent-order-intents-settlement-agent.md)
+* [🧙 NFTの引き出し](trading-tools/withdrawing-nft.md)
 
 ## プロトコル
 

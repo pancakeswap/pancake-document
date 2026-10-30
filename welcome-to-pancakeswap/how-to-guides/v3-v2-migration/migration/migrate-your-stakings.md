@@ -87,7 +87,7 @@ CAKE Syrup Poolの場合は以下の手順を実行してください。
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/en%20-%20migration%20timeline%20-%202.png)
 
-詳細なタイミングと最新情報については、[Twitter](https://twitter.com/pancakeswap/)または[Telegram](https://t.me/PancakeSwapAnn)アナウンスチャンネルをフォローしてください！サポートが必要な場合は、[こちら](../../../contact-us/#help)でヘルプの求め方をご確認ください。
+詳細なタイミングと最新情報については、[Twitter](https://twitter.com/pancakeswap/)または[Telegram](https://t.me/PancakeSwapAnn)アナウンスチャンネルをフォローしてください！サポートが必要な場合は、[こちら](../../../contact-us/faq/help.md)でヘルプの求め方をご確認ください。
 
 ## よくある質問 (FAQ)
 

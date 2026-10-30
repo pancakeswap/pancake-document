@@ -14,4 +14,4 @@ StableSwapでの取引は、既存のPancakeSwap AMMの使用と非常に似て�
 
 **流動性の追加と削除**
 
-StableSwapへの流動性の追加と削除も非常に重要で、通常のPancakeSwap AMMと同様の操作です。より詳細な説明は[こちら](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide)のガイドをご参照ください。PancakeSwap StableSwapの流動性プールはプール名に「Stable LP」と表示されます。
+StableSwapへの流動性の追加と削除も非常に重要で、通常のPancakeSwap AMMと同様の操作です。より詳細な説明は[こちら](https://docs.pancakeswap.finance/earn/pancakeswap-pools/liquidity-guide)のガイドをご参照ください。PancakeSwap StableSwapの流動性プールはプール名に「Stable LP」と表示されます。
