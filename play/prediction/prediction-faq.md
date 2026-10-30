@@ -147,7 +147,7 @@ Es posible que puedas reclamar tus ganancias directamente desde el contrato. Sig
 {% tab title="Verificar rondas en las que jugaste" %}
 Cómo verificar el historial de rondas en las que jugaste
 
-1. Ve a la página de BscScan del [contrato de Predicción](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (p.ej. BNBUSD).
+1. Ve a la página de BscScan del [contrato de Predicción](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract) (p.ej. BNBUSD).
 2. Desplázate hacia abajo hasta "8. getUserRounds".
 3. Escribe tu dirección de billetera en "user(address)".
 4. Establece "cursor(uint256)" en 0 y "size(uint256)" en 1000.
@@ -158,7 +158,7 @@ Cómo verificar el historial de rondas en las que jugaste
 {% tab title="Verificar si puedes reclamar" %}
 Primero, verifica si realmente deberías poder reclamar de la ronda en la que jugaste.
 
-1. Ve a la página de BscScan del [contrato de Predicción](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (p.ej. BNBUSD), y ve a la pestaña Read
+1. Ve a la página de BscScan del [contrato de Predicción](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract) (p.ej. BNBUSD), y ve a la pestaña Read
 2. Desplázate hacia abajo hasta "4. claimable".
 3. Escribe el ID de la ronda que quieres verificar en "epoch(uint256)".
 4. Escribe tu dirección de billetera en "user(address)".
@@ -171,7 +171,7 @@ Primero, verifica si realmente deberías poder reclamar de la ronda en la que ju
 {% tab title="Reclamar de una ronda" %}
 Cómo reclamar
 
-1. Ve a la página de BscScan del [contrato de Predicción](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (p.ej. BNBUSD), y ve a la pestaña Write
+1. Ve a la página de BscScan del [contrato de Predicción](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract) (p.ej. BNBUSD), y ve a la pestaña Write
 2. Toca "🔴 Connect to Web3"
 3. Usa MetaMask o WalletConnect para conectarte.
 4. Desplázate hacia abajo hasta "3. claim"

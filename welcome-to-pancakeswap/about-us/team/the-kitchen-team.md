@@ -1,38 +1,50 @@
-# El Equipo de la Cocina
+# El equipo de cocina
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/the-kitchen-team-header.png)
 
-Puedes ir al artículo de entrevistas de la cocina haciendo clic en el nombre del chef.
-
 ### Los Chefs
 
-🐰 Chef Kids - Chef Principal ([Twitter](https://x.com/Headchef_pcs))
+🐰 Chef Kids - Head Chef ([X/Twitter](https://x.com/Headchef_pcs))
 
 🐰 Chef Miso - Producto
 
-🐰 Chef Maroon - Líder de BD ([Twitter](https://x.com/ChefMaroon))
+🐰 Chef Kocha - Producto
 
-🐰 Chef Doxie - Desarrollo de Negocios ([Twitter](https://x.com/ChefDoxie))
-
-🐰 Chef Madeline - Desarrollo de Negocios
-
-🐰 Chef Leo - Desarrollo de Negocios
-
-🐰 Chef Mustard - Operaciones ([Twitter](https://twitter.com/chef_mustard))
+🐰 Chef Mustard - Operaciones ([X/Twitter](https://twitter.com/chef_mustard))
 
 🐰 Chef Pau - Operaciones
 
+🐰 Chef Leo - Líder de Desarrollo de Negocio ([X/Twitter](https://x.com/DYOR_WAGMI))
+
+🐰 Chef Olive - Desarrollo de Negocio&#x20;
+
+🐰 Chef Cocoa - Líder de Marketing ([X/Twitter](https://x.com/chef_cocoa_pcs))
+
+🐰 Chef Alina - Marketing de Alianzas ([X/Twitter](https://x.com/0xalinatyng))
+
+🐰 Chef Sake - Comunidad ([X/Twitter](https://x.com/KayraMeow))
+
+🐰 Chef Marcus - Redes sociales &#x20;
+
+🐰 Chef Boba - Comunidad &#x20;
+
+🐰 Chef Salade - Líder de Diseño
+
+🐰 Chef Waffles - Diseñador
+
+🐰 Chef Noodles - Diseñador
+
 🐰 Chef Cyrus - Datos
 
-🐰 Chef Jackson - Líder de Desarrollo ([Twitter](https://x.com/0xchefjackson))
+🐰 Chef Mist - Líder de Desarrollo&#x20;
 
 🐰 Chef Ryan - Líder de Desarrollo Frontend
+
+🐰 Chef Philip - Desarrollo de IA
 
 🐰 Chef Eric - Desarrollo Frontend
 
 🐰 Chef Jerry - Desarrollo Frontend
-
-🐰 Chef Philip - Desarrollo Frontend
 
 🐰 Chef Penguin - Desarrollo Frontend
 
@@ -48,15 +60,15 @@ Puedes ir al artículo de entrevistas de la cocina haciendo clic en el nombre de
 
 🐰 Chef Toast - Desarrollo Backend
 
-🐕 Chef Snoopy - Líder de Desarrollo de Contratos Inteligentes
+🐕 Chef Snoopy - Líder de Desarrollo de Smart Contracts
 
-🐰 Chef Omelette - Desarrollo de Contratos Inteligentes
+🐰 Chef Omelette - Desarrollo de Smart Contracts
 
-🐰 Chef Shiba - Desarrollo de Contratos Inteligentes
+🐰 Chef Shiba - Desarrollo de Smart Contracts
 
-🐰 Chef Carb - Desarrollo de Contratos Inteligentes
+🐰 Chef Carb - Desarrollo de Smart Contracts
 
-🐰 Chef Ramen - Desarrollo de Contratos Inteligentes
+🐰 Chef Ramen - Desarrollo de Smart Contracts
 
 🐰 Chef Ruby - QA
 
@@ -64,22 +76,4 @@ Puedes ir al artículo de entrevistas de la cocina haciendo clic en el nombre de
 
 🐰 Chef Rei - Seguridad
 
-🐰 Chef Salade - Líder de Diseño
-
-🐰 [Chef Cecy](https://medium.com/pancakeswap/kitchen-interviews-chef-cecy-the-magical-3d-artist-making-fluffy-bunnies-e1eda53742f3) - Artista 3D ([Twitter](https://twitter.com/Cecymeade))
-
-🐰 Chef Waffles - Diseño
-
-🐰 Chef Noodles - Diseñador/a de Marca y Movimiento
-
-🐰 Chef Cola - RRHH
-
-🐰 Chef Cocoa - Líder de Marketing ([Twitter](https://x.com/chef_cocoa_pcs))
-
-🐰 Chef Pixie - Gerente de Marketing de Producto ([Twitter](https://x.com/chefpixiee))
-
-🐰 Chef Marcus - Redes Sociales ([Twitter](https://x.com/ChefMarcusPCS))
-
-🐰 Chef Boba - Comunidad ([Twitter](https://x.com/chefboba_pcs))
-
-🐰 Chef Croissant - Eventos y PR
+🐰 Chef Cola - RR. HH.

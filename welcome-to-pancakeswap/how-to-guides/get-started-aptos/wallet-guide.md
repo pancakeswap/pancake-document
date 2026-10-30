@@ -1,7 +1,5 @@
 # Crear una billetera
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-make-a-crypto-wallet-header.png)
-
 Para comenzar tu aventura con PancakeSwap en Aptos, lo primero que necesitas es configurar una billetera compatible con Aptos Chain. Las billeteras están disponibles tanto en computadoras de escritorio como en dispositivos móviles. Deberás elegir la que mejor se adapte a tus necesidades.
 
 {% hint style="danger" %}

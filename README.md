@@ -14,7 +14,7 @@
 
 ### La elección de todos
 
-PancakeSwap es uno de los principales intercambios descentralizados. Disponible en diez cadenas: BNB Chain, Ethereum, Solana, Base, Arbitrum, Aptos, ZKsync, Linea, Monad y opBNB, con los mayores volúmenes de trading del mercado (fuentes: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
+PancakeSwap es uno de los principales intercambios descentralizados. Disponible en once cadenas: BNB Chain, Ethereum, Solana, Base, Arbitrum, Aptos, ZKsync, Linea, Monad, Robinhood y opBNB, con los mayores volúmenes de trading del mercado (fuentes: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
 
 ### Comisiones bajas
 

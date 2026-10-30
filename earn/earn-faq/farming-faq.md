@@ -71,7 +71,7 @@ Si deseas ajustar las configuraciones del rango de precios de una posición de l
 En Farm v3, el APR de recompensas de CAKE puede variar entre posiciones de liquidez. Se basa en los siguientes factores:
 
 * Tasa de emisión de CAKE a las Granjas\
-  \- más CAKE generará un mayor rendimiento para todas las granjas. Lee más en [nuestra página de tokenomics](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics)
+  \- más CAKE generará un mayor rendimiento para todas las granjas. Lee más en [nuestra página de tokenomics](https://docs.pancakeswap.finance/protocol/cake-tokenomics)
 * Multiplicador de la Granja\
   \- las granjas con un multiplicador mayor obtendrán más CAKE proporcional a todas las granjas. Ten en cuenta que las granjas v3 y v2 + stable swap usan dos conjuntos separados de multiplicadores. Y las granjas en Ethereum y BNB Chains también usan dos conjuntos separados de multiplicadores.
 * La cantidad de tokens depositados en la posición\
@@ -111,12 +111,10 @@ Una granja individual recibirá emisiones de CAKE basadas en:
 
 `CAKE por bloque/segundo = C / B * A`
 
-Los números anteriores se pueden encontrar en cada uno de los contratos [MasterChef](/broken/pages/-MeTWzQOSmb1ej51HT0I).
+Los números anteriores se pueden encontrar en cada uno de los contratos [MasterChef](https://developer.pancakeswap.finance/contracts/masterchef/addresses).
 
 
 
 ### ¿Puedo usar bCAKE en las Granjas v3?
 
-Sí
-
-bCAKE para las Granjas V3 llegará muy pronto después del despliegue de PancakeSwap Farm V3. Mantente atento.
+Sí.

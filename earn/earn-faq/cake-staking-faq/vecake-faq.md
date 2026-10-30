@@ -114,8 +114,8 @@ El vCAKE de votación ha sido actualizado ahora para admitir veCAKE. Consulta:
 
 Todos los titulares de veCAKE (ya sea nativos o migrados) se inscribirán automáticamente en el nuevo pool de distribución de ingresos. Las participaciones de ingresos se distribuyen según el cronograma existente. El antiguo pool de distribución de ingresos se discontinuará; los usuarios pueden reclamar sus recompensas pendientes yendo a la tarjeta de beneficios. Consulta:
 
-{% content-ref url="/broken/pages/wQegezs7c6A2HzQjPEjh" %}
-[Broken link](/broken/pages/wQegezs7c6A2HzQjPEjh)
+{% content-ref url="revenue-sharing-faq.md" %}
+[Revenue Sharing FAQ](revenue-sharing-faq.md)
 {% endcontent-ref %}
 
 #### ¿Se pueden usar billeteras multifirma para interactuar con veCAKE?
@@ -162,4 +162,4 @@ Para aumentar la emisión a este gauge, consulta [Gauge Voting](../../../welcome
 
 Este es el incentivo proveniente de la distribución de ingresos del protocolo, procedente de las comisiones de intercambio cobradas en los productos DEX.
 
-Consulta [Revenue Sharing](/broken/pages/wQegezs7c6A2HzQjPEjh) para más información.
+Consulta [Revenue Sharing](revenue-sharing-faq.md) para más información.

@@ -11,7 +11,7 @@ Para más información visita: [https://pancakeswap.notion.site/cakepad](https:/
 Los proyectos elegibles deben:
 
 * Tener un producto funcional o MVP.
-* Estar listos para lanzar un token y liquidez en PancakeSwap (BNB, Base, ARB, ETH, ZKsync, Linea, opBNB).
+* Estar listos para lanzar un token y liquidez en PancakeSwap (BNB Chain, Base, Monad).
 * Permitir de 3 a 4 semanas de anticipación antes del TGE.
 * Demostrar un fuerte potencial de crecimiento comunitario.
 * Pasar la revisión de diligencia debida de PancakeSwap.

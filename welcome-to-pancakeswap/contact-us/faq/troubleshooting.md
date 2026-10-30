@@ -305,7 +305,7 @@ Primero,[ informa al equipo](../social-accounts.md) de qué pool estás intentan
 Puedes realizar un "emergencyWithdraw" directamente desde el contrato para retirar tus tokens apostados.
 
 1. Encuentra la dirección del contrato del Syrup Pool del que estás intentando retirar. Puedes encontrarla en el registro de transacciones de tu billetera.
-2. Ve a [https://bscscan.com/](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract) y en la barra de búsqueda, ingresa la dirección del contrato.
+2. Ve a [https://bscscan.com/](https://bscscan.com/) y en la barra de búsqueda, ingresa la dirección del contrato.
 3. Selecciona **Write Contract.**
 4. Haz clic en **"Connect to Web3"** y conecta tu billetera.![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
 5. En la sección **"3. emergencyWithdraw",** haz clic en "Write".
@@ -324,7 +324,7 @@ Este error tiende a aparecer cuando intentas retirar de un Syrup Pool antiguo, p
 
 ## **Problemas con Prediction**
 
-Consulta [Enlace roto](/broken/pages/8zN9xzaYD1DvxZvzLzug "mention")
+Consulta [Prediction FAQ](../../../play/prediction/prediction-faq.md "mention")
 
 ## **Otros problemas**
 

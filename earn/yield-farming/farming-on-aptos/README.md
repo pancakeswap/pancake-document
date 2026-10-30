@@ -10,7 +10,7 @@ Con nuestro despliegue multicadena, PancakeSwap ahora está llevando la icónica
 
 Consulta la [sección principal](../) para obtener más información sobre el yield farming.
 
-Diseñamos la experiencia del producto para que sea consistente en diferentes blockchains. Por lo tanto, si eres un usuario habitual de Farm en BSC, te sentirás como en casa cuando hagas farming en Aptos. Si eres nuevo en el farming de liquidez, consulta nuestra [guía de Cómo Usar las Granjas](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) para comenzar.
+Diseñamos la experiencia del producto para que sea consistente en diferentes blockchains. Por lo tanto, si eres un usuario habitual de Farm en BSC, te sentirás como en casa cuando hagas farming en Aptos. Si eres nuevo en el farming de liquidez, consulta nuestra [guía de Cómo Usar las Granjas](https://docs.pancakeswap.finance/earn/yield-farming/how-to-use-farms/how-to-use-farms) para comenzar.
 
 Para obtener más información sobre cómo puentear tus activos y CAKE entre BSC y Aptos, consulta la [Guía de Puenteo de CAKE](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos/cake-bridging-guide.md).
 

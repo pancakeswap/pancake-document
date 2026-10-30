@@ -102,7 +102,7 @@ Puedes:
 * Comprar SOL en un intercambio centralizado y transferirlo
 * O puentear activos a Solana usando un puente multicadena en [pancakeswap.finance/bridge](https://pancakeswap.finance/bridge)
 
-Consulta aquí cómo [Obtener SOL](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-sol/get-sol)
+Consulta aquí cómo [Obtener SOL](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-sol/get-sol-cake-on-sol)
 
 ***
 

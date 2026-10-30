@@ -114,4 +114,4 @@ Por lo tanto, en la fase inicial de lanzamiento del producto. Muchos de los par�
 
 bCAKE ha sido auditado tanto por auditores internos como externos.
 
-Consulta los informes de auditoría aquí: [https://docs.pancakeswap.finance/readme/audits](https://docs.pancakeswap.finance/readme/audits)
+Consulta los informes de auditoría aquí: [https://docs.pancakeswap.finance/welcome-to-pancakeswap/audits](https://docs.pancakeswap.finance/welcome-to-pancakeswap/audits)

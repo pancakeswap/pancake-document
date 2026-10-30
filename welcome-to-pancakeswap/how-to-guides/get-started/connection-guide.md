@@ -1,7 +1,5 @@
 # Conectar tu billetera a PancakeSwap
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-connect-wallet-header.png)
-
 Has creado una billetera y obtenido tus tokens BEP20, ahora solo necesitas conectar tu billetera a PancakeSwap y ya estás listo.
 
 Consulta los pasos a continuación para saber cómo conectar cada una de nuestras billeteras recomendadas a PancakeSwap.

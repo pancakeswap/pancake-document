@@ -4,14 +4,14 @@
 
 ## **Trading en StableSwap**
 
-Operar en StableSwap es muy similar a usar el AMM existente de PancakeSwap. Antes de comenzar, también requiere una billetera compatible con BNB Smart Chain y BNB para las comisiones de gas. Consulta nuestra [guía de billeteras](https://docs.pancakeswap.finance/get-started/wallet-guide) para más detalles.
+Hacer trading en StableSwap es muy similar a usar el AMM de PancakeSwap existente. Antes de empezar, también necesitas una billetera compatible con BNB Smart Chain y BNB para las comisiones de gas. Consulta nuestra [guía de billeteras](https://docs.pancakeswap.finance/get-started/wallet-guide) para más detalles.
 
-1 - Ve a la página de Intercambio [aquí](https://pancakeswap.finance/swap)
+1 - Ve a la página de Swap [aquí](https://pancakeswap.finance/swap)
 
-2 - Elige los pares de tokens que deseas intercambiar.&#x20;
+2 - Elige el par de tokens que quieras intercambiar.&#x20;
 
-3 - ¡Ya está todo listo! El proceso de Intercambio que sigue es el mismo de siempre. Si es tu primera vez operando, consulta la guía [aquí.](../pancakeswap-exchange/trade-guide.md)
+3 - ¡Listo! El resto del proceso de intercambio es el mismo de siempre. Si es la primera vez que haces trading, consulta la guía [aquí.](../pancakeswap-exchange/trade-guide.md)
 
-**Añadir y Retirar Liquidez**
+**Añadir y retirar liquidez**
 
-Añadir y retirar liquidez para StableSwap también es muy importante y similar al AMM normal de PancakeSwap. Consulta la guía [aquí](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide) para una explicación más detallada. Los pools de liquidez de PancakeSwap StableSwap mostrarán "Stable LP" en el nombre del pool.
+Añadir y retirar liquidez en StableSwap también es muy importante y similar al AMM normal de PancakeSwap. Consulta la guía [aquí](https://docs.pancakeswap.finance/earn/pancakeswap-pools/liquidity-guide) para una explicación más detallada. Los pools de liquidez StableSwap de PancakeSwap mostrarán "Stable LP" en el nombre del pool.

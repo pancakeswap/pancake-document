@@ -235,6 +235,6 @@ Puedes ver esta tarifa en tu billetera al confirmar después de hacer clic en **
 
 Esto muestra la tarifa de cosecha tal como aparece en la billetera MetaMask. Las diferentes billeteras mostrarán la información de manera ligeramente diferente. Considera dejar que tus recompensas crezcan por un tiempo para pagar tarifas con menos frecuencia.
 
-¡Y eso es todo! También puede que quieras ver [cómo usar los Syrup Pools de PancakeSwap](https://docs.pancakeswap.finance/get-started/syrup-pool-guide) para ganar recompensas.
+¡Y eso es todo! También puede que quieras ver [cómo usar los Syrup Pools de PancakeSwap](https://docs.pancakeswap.finance/earn/cake-staking/syrup-pool/syrup-pool-guide) para ganar recompensas.
 
 ¡Feliz farming!

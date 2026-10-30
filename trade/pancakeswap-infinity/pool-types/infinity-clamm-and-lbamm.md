@@ -70,7 +70,7 @@ Las comisiones dinámicas ofrecen máxima flexibilidad y optimizan las estructur
 | ---------------------- | ------------------------- |
 | 1%                     | 0,33%                     |
 | 2%                     | 0,4% (limitada)           |
-| Pool de Comisión Dinámica | 0%                     |
+| Pool de Comisión Dinámica | 0.03% (valor predeterminado actual) |
 
 #### 🛠️ Notas de Configuración para Creadores de Pools
 
