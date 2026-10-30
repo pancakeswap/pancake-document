@@ -2,7 +2,7 @@
 
 #### Jaringan apa yang saat ini didukung?
 
-PancakeSwap X tersedia di Arbitrum dan Ethereum, mendukung token kripto, dan di BNB Chain, hanya mendukung real-world assets (RWA) seperti saham, obligasi, dan ETF yang ditokenisasi.
+PancakeSwap X tersedia di Arbitrum, Ethereum, BNB Chain, Base, dan Robinhood Chain, mendukung swap token kripto. Real-world assets (RWA) seperti saham, obligasi, dan ETF yang ditokenisasi juga didukung di BNB Chain, Ethereum, dan Robinhood Chain.
 
 #### Apakah PancakeSwap X aktif secara default?
 

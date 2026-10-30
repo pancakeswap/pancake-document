@@ -20,4 +20,4 @@ Dengan mengurangi jumlah CAKE yang dibuat per blok, kami memperlambat inflasi. H
 
 ### Mekanisme deflasioner
 
-Pembakaran token reguler ([lihat alamat pembakaran](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82?a=0x000000000000000000000000000000000000dead)) sudah tertanam dalam banyak produk PancakeSwap (seperti pembakaran 10% dari CAKE yang digunakan untuk tiket lotere), dengan lebih banyak yang akan segera hadir. Periksa halaman [**CAKE Tokenomics**](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics) untuk detail tentang mekanisme deflasioner yang ada dan yang akan datang.
+Pembakaran token reguler ([lihat alamat pembakaran](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82?a=0x000000000000000000000000000000000000dead)) sudah tertanam dalam banyak produk PancakeSwap (seperti pembakaran 10% dari CAKE yang digunakan untuk tiket lotere), dengan lebih banyak yang akan segera hadir. Periksa halaman [**CAKE Tokenomics**](https://docs.pancakeswap.finance/protocol/cake-tokenomics) untuk detail tentang mekanisme deflasioner yang ada dan yang akan datang.

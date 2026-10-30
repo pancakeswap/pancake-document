@@ -7,7 +7,7 @@ description: Bridge CAKE antara rantai EVM dan Aptos
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28113%29.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Panduan berikut menggunakan BNB Chain sebagai contoh rantai EVM. Proses yang sama dapat diterapkan pada Ethereum.
+Panduan berikut menggunakan BNB Chain sebagai contoh rantai EVM. Proses yang sama dapat diterapkan pada Ethereum untuk melakukan bridging **ke** Aptos. Bridging **keluar dari** Aptos saat ini hanya mendukung BNB Smart Chain sebagai tujuan.
 {% endhint %}
 
 ## Bridge CAKE dari BNB Smart Chain ke Aptos

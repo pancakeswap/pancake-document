@@ -79,7 +79,9 @@
     * [Tim Kitchen](welcome-to-pancakeswap/about-us/team/the-kitchen-team.md)
     * [Jadilah Chef](welcome-to-pancakeswap/about-us/team/become-a-chef/README.md)
       * [Pimpinan Pengembangan Bisnis](welcome-to-pancakeswap/about-us/team/become-a-chef/business-development-lead.md)
+      * [Desainer Senior](welcome-to-pancakeswap/about-us/team/become-a-chef/senior_designer.md)
       * [Manajer Pengembangan Bisnis (AMM)](welcome-to-pancakeswap/about-us/team/become-a-chef/business-development-lead-1.md)
+      * [Manajer Pengembangan Bisnis (Liquidity Hub)](welcome-to-pancakeswap/about-us/team/become-a-chef/business-development-lead-1-1.md)
       * [Manajer Komunitas (CN)](welcome-to-pancakeswap/about-us/team/become-a-chef/community-manager-cn.md)
       * [Manajer Komunitas](welcome-to-pancakeswap/about-us/team/become-a-chef/community-manager.md)
       * [Insinyur Frontend Senior](welcome-to-pancakeswap/about-us/team/become-a-chef/frontend-engineer.md)
@@ -91,6 +93,8 @@
       * [Manajer Pemasaran (PR & Acara)](welcome-to-pancakeswap/about-us/team/become-a-chef/marketing-manager-pr-and-events.md)
       * [Pengembang Kuantitatif](welcome-to-pancakeswap/about-us/team/become-a-chef/quant-developer.md)
       * [Manajer Produk](welcome-to-pancakeswap/about-us/team/become-a-chef/product-manager.md)
+      * [Pengembang Back End Senior (DeFi)](<welcome-to-pancakeswap/about-us/team/become-a-chef/product-manager-1 (1).md>)
+      * [Manajer Pemasaran Produk](welcome-to-pancakeswap/about-us/team/become-a-chef/product-manager-2.md)
       * [Pimpinan Komunitas](welcome-to-pancakeswap/about-us/team/become-a-chef/community-lead.md)
       * [Insinyur Solidity (Kontrak)](welcome-to-pancakeswap/about-us/team/become-a-chef/solidity-engineer-contract.md)
       * [Insinyur Frontend (Kontrak)](welcome-to-pancakeswap/about-us/team/become-a-chef/frontend-engineer-contract.md)
@@ -102,6 +106,7 @@
       * [Manajer Pengembangan Bisnis](welcome-to-pancakeswap/about-us/team/become-a-chef/business-development-manager-1.md)
       * [Analis Data](welcome-to-pancakeswap/about-us/team/become-a-chef/data-analyst.md)
       * [Manajer Produk \[Pasar Prediksi\]](welcome-to-pancakeswap/about-us/team/become-a-chef/product-manager-prediction-markets.md)
+      * [Kepala Pemasaran](welcome-to-pancakeswap/about-us/team/become-a-chef/head-of-marketing.md)
   * [Merek & Logo](welcome-to-pancakeswap/about-us/brand.md)
 
 ***
@@ -159,15 +164,18 @@
   * [Integrasi Market Maker](trade/pancakeswap-exchange/market-maker-integration.md)
   * [Smart Router (V2)](trade/pancakeswap-exchange/smart-router-v2/README.md)
     * [Cara trading menggunakan Smart Router](trade/pancakeswap-exchange/smart-router-v2/how-to-trade-using-smart-router.md)
+  * [Tokenized Stocks - Pemblokiran Geografis](trade/pancakeswap-exchange/tokenized-stocks-geo-block.md)
 * [🔀 Swap Cross-chain](trade/crosschain-swaps/README.md)
   * [👉 Cara melakukan Swap Cross-chain?](trade/crosschain-swaps/how-to-do-a-crosschain-swap.md)
   * [🔁 Skenario Swap](trade/crosschain-swaps/swap-scenarios.md)
-  * [🔁 Salinan Skenario Swap](trade/crosschain-swaps/copy-of-swap-scenarios.md)
   * [❓ FAQ](trade/crosschain-swaps/faq.md)
 * [♾️ PancakeSwap Infinity](trade/pancakeswap-infinity/README.md)
   * [Fitur Utama](trade/pancakeswap-infinity/key-features.md)
   * [Hooks](trade/pancakeswap-infinity/hooks/README.md)
     * [Dynamic Fee Hook](trade/pancakeswap-infinity/hooks/dynamic-fee-hook.md)
+    * [Shared Inventory Hook](trade/pancakeswap-infinity/hooks/shared-inventory-hook/README.md)
+      * [Memperkenalkan Shared Inventory Hook](trade/pancakeswap-infinity/hooks/shared-inventory-hook/introducing-shared-inventory-hook.md)
+      * [Inefisiensi Modal RWA — dan Bagaimana Shared Inventory Mengatasinya](trade/pancakeswap-infinity/hooks/shared-inventory-hook/rwa-capital-inefficiency-and-how-shared-inventory-solves-for-it.md)
   * [Jenis Pool](trade/pancakeswap-infinity/pool-types/README.md)
     * [Infinity CLAMM & LBAMM](trade/pancakeswap-infinity/pool-types/infinity-clamm-and-lbamm.md)
     * [Infinity StableSwap](trade/pancakeswap-infinity/pool-types/infinity-stableswap.md)
@@ -263,6 +271,7 @@
     * [FAQ Pemungutan Suara Gauges](earn/earn-faq/cake-staking-faq/gauges-voting-faq.md)
     * [FAQ & Pemecahan Masalah Syrup Pool](earn/earn-faq/cake-staking-faq/syrup-pool-faq.md)
     * [FAQ CAKE Syrup Pool](earn/earn-faq/cake-staking-faq/cake-syrup-pool-faq.md)
+* [🍩 Dual Investment](earn/dual-investment.md)
 
 ## Bermain
 
@@ -295,6 +304,7 @@
   * [FAQ MEV Guard](trading-tools/trading-tools-faq/mev-guard-faq.md)
 * [🤖 Membangun Agen Trading di PancakeSwap V3](trading-tools/building-trading-agents-on-pancakeswap-v3/README.md)
   * [Agen Referensi — Agen Penyelesaian Order/Intent](trading-tools/building-trading-agents-on-pancakeswap-v3/reference-agent-order-intents-settlement-agent.md)
+* [🧙 Penarikan NFT](trading-tools/withdrawing-nft.md)
 
 ## Protokol
 

@@ -6,7 +6,7 @@
 
 Pottery PancakeSwap adalah cara alternatif untuk menumpuk CAKE selain sekadar mengunci dan melakukan Staking CAKE di pool staking, panduan ini akan memandu Anda tentang cara menavigasi di UI web PancakeSwap untuk berpartisipasi.
 
-Pelajari lebih lanjut tentang struktur produk, risiko, biaya dari [PancakeSwap Pottery di sini](https://docs.pancakeswap.finance/products/pottery).
+Pelajari lebih lanjut tentang struktur produk, risiko, biaya dari [PancakeSwap Pottery di sini](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery).
 
 ## Memutuskan apakah Anda ingin memasuki kelompok Pottery
 
@@ -24,7 +24,7 @@ Setoran untuk setiap kelompok Pottery dibuka sekali sebulan. Setoran ditutup dan
 
 ![](https://lh5.googleusercontent.com/_TqVUlNGtnGvGz_wysnq-KmewS_CjmUJ0jMHwzRMLx47Rmq-x868M0q-iBXCqynotDqz3mxnUZovExx4bUb8BBv3W6OXl4u4pJWFmOz__IYASvQ_hgmccB3GPaL1oz4TutJr3PTwdz_2NoVzmnpkcD0)
 
-— Dalam hal ini, Anda dapat menyetorkan CAKE untuk berpartisipasi dalam Pottery jika APR, total nilai yang dikunci, dan peluang menang dapat diterima oleh Anda. Sebelum menyetorkan, pastikan Anda sepenuhnya memahami risiko berpartisipasi! Semua setoran akan dikunci selama 10 minggu tanpa penarikan dini dalam keadaan apa pun. Silakan pelajari lebih lanjut tentang [risiko dan biaya di sini](https://docs.pancakeswap.finance/products/pottery).
+— Dalam hal ini, Anda dapat menyetorkan CAKE untuk berpartisipasi dalam Pottery jika APR, total nilai yang dikunci, dan peluang menang dapat diterima oleh Anda. Sebelum menyetorkan, pastikan Anda sepenuhnya memahami risiko berpartisipasi! Semua setoran akan dikunci selama 10 minggu tanpa penarikan dini dalam keadaan apa pun. Silakan pelajari lebih lanjut tentang [risiko dan biaya di sini](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery).
 
 ## **Melihat setoran Anda**
 
@@ -40,7 +40,7 @@ Setelah setiap undian pada Jumat sekitar siang UTC, Anda dapat melihat hasil dan
 
 ![](https://lh3.googleusercontent.com/ClT6Dx6rJlfFmzmyxwCIEvON-GTl_nvXANGH5etDbnBmieRSZ66G8krr8GUWc2s5SDw)
 
-Berdasarkan tanggal undian, temukan ronde yang sesuai untuk kelompok yang ingin Anda periksa — pada setiap Jumat, mungkin ada lebih dari satu undian karena ada kelompok yang berbeda, pastikan Anda memeriksa undian yang tepat untuk kelompok yang Anda cari. Silakan baca untuk mempelajari lebih lanjut tentang [struktur kelompok di sini](https://docs.pancakeswap.finance/products/pottery#pottery-cohort).
+Berdasarkan tanggal undian, temukan ronde yang sesuai untuk kelompok yang ingin Anda periksa — pada setiap Jumat, mungkin ada lebih dari satu undian karena ada kelompok yang berbeda, pastikan Anda memeriksa undian yang tepat untuk kelompok yang Anda cari. Silakan baca untuk mempelajari lebih lanjut tentang [struktur kelompok di sini](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery#pottery-cohort).
 
 ## Mengklaim hadiah
 

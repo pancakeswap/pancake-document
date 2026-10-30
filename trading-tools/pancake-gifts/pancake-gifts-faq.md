@@ -39,7 +39,7 @@ Ya:
 * Kode QR juga menyematkan kode hadiah, tetapi **tidak dapat diregenerasi nanti.**&#x20;
 
 {% hint style="success" %}
-**Tip Pro:**  Unduh gambar setelah dihasilkan
+**Tip Pro:** Unduh gambar setelah dihasilkan
 {% endhint %}
 
 * Klaim manual memerlukan kode hadiah aktual — tidak ada cadangan jika tautan/kode QR hilang

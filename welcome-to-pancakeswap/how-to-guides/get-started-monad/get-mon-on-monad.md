@@ -70,7 +70,7 @@ Ini adalah opsi yang ramah pengguna untuk pengguna mobile-first yang ingin melew
 
 #### IV. **Bridge MON dari Blockchain Lain**
 
-Sudah memiliki token di rantai yang berbeda seperti **BNB Chain**, **Ethereum**, atau **Base**? Anda dapat membawa dana ke Solana menggunakan **platform bridging**.
+Sudah memiliki token di rantai yang berbeda seperti **BNB Chain**, **Ethereum**, atau **Base**? Anda dapat membawa dana ke Monad menggunakan **platform bridging**.
 
 #### ✅ Yang perlu Anda lakukan:
 

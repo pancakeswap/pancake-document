@@ -74,6 +74,6 @@ Delapan persen (8%) dari pot hadiah yang didistribusikan setiap minggu akan dike
 
 ## **Siap Berpartisipasi?**
 
-Jika Anda sudah paham tentang struktur produk, risiko, dan biaya — lihat halaman ini tentang [cara berpartisipasi](https://docs.pancakeswap.finance/products/pottery/how-to-play-pottery) dari UI web PancakeSwap dan [FAQ Pottery](https://docs.pancakeswap.finance/products/pottery/pottery-faq) lainnya!
+Jika Anda sudah paham tentang struktur produk, risiko, dan biaya — lihat halaman ini tentang [cara berpartisipasi](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery/how-to-play-pottery) dari UI web PancakeSwap dan [FAQ Pottery](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery/pottery-faq) lainnya!
 
 

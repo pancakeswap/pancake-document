@@ -207,7 +207,7 @@ Dari kolom saldo token di BscScan, Anda dapat memeriksa token mana yang telah di
 
 Setelah dikonfirmasi, Anda harus mentransfer aset lainnya secara manual ke dalam kontrak pool. Anda dapat melakukannya di aplikasi dompet yang Anda pilih dengan memasukkan alamat pool sebagai penerima.
 
-Anda dapat mentransfer jumlah berapa pun tetapi karena ini secara efektif "menyumbangkan" aset ke pool. Anda akan mentransfer aset Anda ke likuiditas tanpa mencetak token likuiditas. Jadi kami merekomendasikan untuk meminimalkan jumlah ini.
+Anda dapat mentransfer jumlah berapa pun tetapi karena ini secara efektif "menyumbangkan" aset ke pool. Anda akan mentransfer aset Anda ke pool likuiditas tanpa mencetak token likuiditas. Jadi kami merekomendasikan untuk meminimalkan jumlah ini.
 
 {% hint style="warning" %}
 PENTING: Setelah mentransfer token, Anda harus segera memanggil `sync()` pada pool.

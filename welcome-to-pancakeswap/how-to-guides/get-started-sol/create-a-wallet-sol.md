@@ -102,7 +102,7 @@ Anda dapat:
 * Membeli SOL di bursa terpusat dan mentransfernya ke sana
 * Atau menjembatani aset ke Solana menggunakan Bridge cross-chain di [pancakeswap.finance/bridge](https://pancakeswap.finance/bridge)
 
-Lihat di sini untuk mengetahui cara [Mendapatkan SOL](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-sol/get-sol)
+Lihat di sini untuk mengetahui cara [Mendapatkan SOL](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-sol/get-sol-cake-on-sol)
 
 ***
 

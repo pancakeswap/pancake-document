@@ -70,7 +70,7 @@ Biaya dinamis menawarkan fleksibilitas maksimum dan mengoptimalkan struktur biay
 | ------------------ | ------------------ |
 | 1%                 | 0,33%              |
 | 2%                 | 0,4% (dibatasi)    |
-| Pool Biaya Dinamis | 0%                 |
+| Pool Biaya Dinamis | 0,03% (default saat ini) |
 
 #### 🛠️ Catatan Pengaturan untuk Pembuat Pool
 

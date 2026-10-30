@@ -19,7 +19,7 @@
        <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unnamed%20%287%29.png" alt=""><figcaption></figcaption></figure>
 
        <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unnamed%20%286%29.png" alt="" width="375"><figcaption></figcaption></figure>
-3.  Ikuti langkah-langkah pada layar pengaturan profil atau rujuk ke panduan make profile di sini[Tautan Rusak](/broken/pages/-MYdfYNF3jEh_f1HFdcj "mention"), dari langkah 7 dan seterusnya. Pengaturan ini gratis, namun diperlukan sejumlah kecil gas di BNB Chain untuk mengatur profil.
+3.  Ikuti langkah-langkah pada layar pengaturan profil atau rujuk ke panduan make profile di sini, dari langkah 7 dan seterusnya. Pengaturan ini gratis, namun diperlukan sejumlah kecil gas di BNB Chain untuk mengatur profil.
 
     <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unnamed%20%285%29.png" alt="" width="375"><figcaption><p>Pilih Bunny - Bunny pemula generik untuk perjalanan quest Anda</p></figcaption></figure>
 

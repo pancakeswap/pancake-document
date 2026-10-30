@@ -110,5 +110,5 @@ Selama periode vesting, Anda dapat kembali ke halaman acara CAKE.PAD kapan saja 
 
 Sekarang Anda memiliki token baru yang mengkilap, Anda dapat membuatnya bekerja untuk Anda! Anda dapat menambah likuiditas untuk token Anda guna menerima biaya perdagangan dan farming.
 
-* Baca tentang penambahan likuiditas [di sini](https://docs.pancakeswap.finance/get-started/liquidity-guide).
+* Baca tentang penambahan likuiditas [di sini](https://docs.pancakeswap.finance/earn/pancakeswap-pools/liquidity-guide).
 * Baca tentang farming [di sini](../yield-farming/).

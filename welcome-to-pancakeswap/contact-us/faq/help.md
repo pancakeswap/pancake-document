@@ -12,7 +12,7 @@ Kami telah membagi topik bantuan ke dalam beberapa bagian untuk membantu Anda me
 
 ### Pemecahan Masalah Kesalahan
 
-[Halaman Pemecahan Masalah Kesalahan](https://docs.pancakeswap.finance/help/troubleshooting) berisi kumpulan kesalahan yang mungkin dihadapi pengguna saat menggunakan PancakeSwap. Halaman ini menampilkan masalah beserta solusi dan penjelasan mengapa masalah tersebut terjadi.
+[Halaman Pemecahan Masalah Kesalahan](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/faq/troubleshooting) berisi kumpulan kesalahan yang mungkin dihadapi pengguna saat menggunakan PancakeSwap. Halaman ini menampilkan masalah beserta solusi dan penjelasan mengapa masalah tersebut terjadi.
 
 ### FAQ Umum
 

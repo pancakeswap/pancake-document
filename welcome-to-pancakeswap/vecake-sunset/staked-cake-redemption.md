@@ -27,7 +27,7 @@ Setelah terhubung, Anda akan melihat informasi berikut:
 4. **Total Hadiah Saya**: Total CAKE yang berhak Anda tebus dan klaim, terdiri dari:
 
 * **Hadiah Cake Pool**: Hadiah CAKE Pool lama
-* **Hadiah Bagi Hasil Pendapatan**: Diperoleh dari Staking CAKE ([Info lebih lanjut](https://docs.pancakeswap.finance/earn/cake-staking/revenue-sharing/earn-cake-weekly))
+* **Hadiah Bagi Hasil Pendapatan**: Diperoleh dari Staking CAKE ([Info lebih lanjut](https://docs.pancakeswap.finance/welcome-to-pancakeswap/vecake-sunset/archive-vecake/earn-cake-weekly))
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Connected%20view%20balance.png" alt=""><figcaption></figcaption></figure>
 

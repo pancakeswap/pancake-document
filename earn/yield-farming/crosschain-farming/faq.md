@@ -83,8 +83,6 @@ Biaya ini hanya dikenakan sekali pada transaksi "stake" pertama.
 
 ### Dari mana emisi berasal?&#x20;
 
-_diperbarui pada 10 Oktober 2022_
-
 Saat ini, Chefs telah mengalihkan 0,0189 CAKE per blok dari pool CAKE ke semua crosschain farm.&#x20;
 
 Berikut adalah rincian emisi:

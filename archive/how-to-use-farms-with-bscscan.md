@@ -5,7 +5,7 @@
 Karena memerlukan beberapa langkah, menggunakan Farm dengan PancakeSwap mungkin terasa mengintimidasi pada awalnya. Panduan ini akan memandu Anda menggunakan kontrak Farm secara langsung melalui BscScan.
 
 {% hint style="warning" %}
-Harap dipahami bahwa menggunakan BscScan untuk berinteraksi dengan kontrak tidak disarankan bagi pemula. Jika Anda tidak merasa percaya diri, kami sarankan menggunakan panduan [Cara Menggunakan Farm](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) sebagai gantinya.
+Harap dipahami bahwa menggunakan BscScan untuk berinteraksi dengan kontrak tidak disarankan bagi pemula. Jika Anda tidak merasa percaya diri, kami sarankan menggunakan panduan [Cara Menggunakan Farm](https://docs.pancakeswap.finance/earn/yield-farming/how-to-use-farms/how-to-use-farms) sebagai gantinya.
 {% endhint %}
 
 ## Menemukan pengidentifikasi proses Farm

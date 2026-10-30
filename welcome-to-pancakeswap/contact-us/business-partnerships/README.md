@@ -4,7 +4,7 @@
 
 PancakeSwap (PCS) adalah bursa terdesentralisasi (DEX) multi-chain terdepan, yang saat ini aktif di:
 
-> BNB Chain, Solana, Base, Arbitrum One, Ethereum, ZKsync Era, Linea, opBNB, dan Aptos
+> BNB Chain, Ethereum, Solana, Base, Arbitrum, Aptos, ZKsync, Linea, Monad, Robinhood, dan opBNB
 
 Kami ingin berbicara dengan tim proyek, dan memperkenalkan Anda pada salah satu DApp terbesar, paling aktif, dan paling terlibat di dunia kripto (dengan lebih dari 400 ribu Pengguna Aktif Harian)!
 
@@ -12,7 +12,7 @@ Sejak awal berdiri, PancakeSwap telah berkembang pesat di lanskap DeFi ritel, me
 
 Sementara halaman ini berfungsi sebagai FAQ singkat bagi Tim Proyek untuk mengetahui lebih lanjut tentang kami – jangan ragu untuk menghubungi kami jika Anda memiliki pertanyaan lebih lanjut:
 
-* Tim BD di Telegram (https://t.me/PancakeSwapBD)
+* **Tim BD di Telegram: https://t.me/PancakeSwapBD (@PancakeSwapBD)**
 
 ### Tertarik bermitra? Mari membangun bersama
 
@@ -44,9 +44,7 @@ Untuk pertanyaan kemitraan bisnis yang sering diajukan
 
 ### Pilihan utama untuk semua hal DeFi
 
-Sederhana itu menarik, begitu pula keamanan!&#x20;
-
-Dengan lebih dari $1,5 miliar dalam TVL, kami bergerak cepat dan melakukannya dengan bertanggung jawab. Dengan pengalaman lebih dari empat tahun di pasar kripto, dari kondisi bull hingga bear, kami telah secara efektif menghadirkan DeFi kepada komunitas kami. Jangan hanya percaya kami, [verifikasi](https://docs.pancakeswap.finance/audits) sendiri.&#x20;
+Dengan lebih dari $1,5 miliar dalam TVL, kami bergerak cepat dan melakukannya dengan bertanggung jawab. Dengan pengalaman lebih dari empat tahun di pasar kripto, dari kondisi bull hingga bear, kami telah secara efektif menghadirkan DeFi kepada komunitas kami. Jangan hanya percaya kami, [verifikasi](https://docs.pancakeswap.finance/welcome-to-pancakeswap/audits) sendiri.
 
 Kemitraan kami dengan proyek-proyek melampaui sekadar program distribusi token ("Syrup Pools") dan kesempatan peluncuran token ("Initial Farm Offerings"). Kami benar-benar mengakui dampak komunitas dalam kripto – tim Ambassador kami yang berdedikasi membantu kami memahami beragam komunitas yang kami layani, dan kami secara rutin menyelenggarakan acara dengan keterlibatan tinggi bersama mitra: podcast, AMA, kontes meme, dan masih banyak lagi!
 

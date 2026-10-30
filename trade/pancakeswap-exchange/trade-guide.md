@@ -6,9 +6,9 @@ Trading di PancakeSwap sangat mudah dibandingkan dengan kebanyakan exchange. And
 
 **Persiapan untuk trading**
 
-Sebelum dapat berdagang, Anda memerlukan dompet yang kompatibel dengan BNB Chain atau Ethereum. Anda dapat mempelajari cara mendapatkannya [di sini](https://docs.pancakeswap.finance/get-started/wallet-guide). Anda juga perlu memiliki beberapa token BEP-20 atau ERC-20 untuk diperdagangkan. Anda dapat mempelajari cara mendapatkannya [di sini](https://docs.pancakeswap.finance/get-started/bep20-guide).
+Sebelum dapat berdagang, Anda memerlukan dompet yang kompatibel dengan BNB Chain atau Ethereum. Anda dapat mempelajari cara mendapatkannya [di sini](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/wallet-guide). Anda juga perlu memiliki beberapa token BEP-20 atau ERC-20 untuk diperdagangkan. Anda dapat mempelajari cara mendapatkannya [di sini](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/bep20-guide).
 
-Sebagai alternatif, Anda dapat mempelajari cara mendapatkan dompet yang kompatibel dengan Aptos [di sini](https://docs.pancakeswap.finance/get-started-aptos/wallet-guide), dan cara mendapatkan koin Aptos untuk ditukar [di sini](https://docs.pancakeswap.finance/get-started-aptos/aptos-coin-guide).
+Sebagai alternatif, Anda dapat mempelajari cara mendapatkan dompet yang kompatibel dengan Aptos [di sini](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-aptos/wallet-guide), dan cara mendapatkan koin Aptos untuk ditukar [di sini](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-aptos/aptos-coin-guide).
 
 ## Trading di PancakeSwap exchange
 
@@ -64,7 +64,7 @@ Smart Router kini menjadi rute default untuk PancakeSwap Exchange V3. Namun, pen
 
 Untuk mempelajari lebih lanjut tentang cara menyesuaikan rute trading Anda, [klik di sini](fees-and-routes.md).&#x20;
 
-Untuk informasi lebih lanjut tentang StableSwap, [klik di sini](/broken/pages/nNPogTZMxocdyFIBYbkE), dan untuk integrasi Market Maker, [klik di sini](market-maker-integration.md).
+Untuk informasi lebih lanjut tentang StableSwap, [klik di sini](../stableswap/classic-stableswap.md), dan untuk integrasi Market Maker, [klik di sini](market-maker-integration.md).
 
 ## FAQ
 

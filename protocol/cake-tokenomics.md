@@ -13,7 +13,6 @@ Tujuan kami di PancakeSwap adalah membangun ekosistem terdesentralisasi yang men
 * [Perdagangan spot](https://docs.pancakeswap.finance/earn/pancakeswap-pools#trading-fees) (15-23% dari biaya Trading)
 * Trading Perpetual (20% dari semua keuntungan)
 * CAKE.PADs (100% dari semua biaya)
-* Prediksi (3% dari setiap putaran)
 * Lotere (20% dari semua CAKE yang dimainkan)
 
 **Emisi dikelola dengan cermat untuk memastikan Likuiditas diarahkan ke pool dan produk yang paling produktif.** Fokus PancakeSwap adalah pada pertumbuhan volume dengan mengoptimalkan insentif Likuiditas dan meningkatkan pendapatan per CAKE yang dikeluarkan. Setiap keputusan berkisar pada tujuan untuk menciptakan pendapatan nyata dan berkontribusi pada keberhasilan jangka panjang bagi seluruh komunitas. Produk yang menerima emisi CAKE meliputi:

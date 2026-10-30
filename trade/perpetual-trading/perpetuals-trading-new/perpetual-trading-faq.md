@@ -61,4 +61,4 @@ Biaya untuk PancakeSwap Perpetuals adalah sebagai berikut:
 
 ### **Yurisdiksi mana yang dibatasi dari penggunaan produk ini?** <a href="#whats-the-difference-between-a-maker-and-taker-order" id="whats-the-difference-between-a-maker-and-taker-order"></a>
 
-Pengguna yang berlokasi di atau mengakses layanan dari Amerika Serikat, Kanada, Inggris Raya, China, Korea Utara, Rusia, Ukraina, Kuba, Iran, Venezuela, atau Suriah tidak diizinkan menggunakan produk ini. Akses dapat dibatasi atau diblokir sesuai dengan persyaratan kepatuhan dan regulasi yang berlaku.
+Pengguna yang berlokasi di atau mengakses layanan dari Amerika Serikat, Kanada, Inggris Raya, China, Korea Utara, Korea Selatan, Rusia, Ukraina, Kuba, Iran, Venezuela, atau Suriah tidak diizinkan menggunakan produk ini. Akses dapat dibatasi atau diblokir sesuai dengan persyaratan kepatuhan dan regulasi yang berlaku.

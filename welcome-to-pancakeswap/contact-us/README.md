@@ -1,16 +1,9 @@
 # 🤙 Hubungi Kami
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/contact-us-header.png)
+_Untuk pertanyaan seputar ekosistem & kemitraan, TG handle: @PancakeSwapBD_
 
-## Kontak Bisnis
+### [Daftarkan Token](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/business-partnerships/commonly-asked-business-partnerships-questions)
 
-### [Daftarkan Token](https://docs.pancakeswap.finance/ecosystem-and-partnerships/business-partnerships/commonly-asked-business-partnerships-questions#listing-on-the-exchange)
+### [Ajukan Yield Farm atau Syrup Pool](business-partnerships/syrup-pools.md)
 
-### [Daftar untuk Yield Farm atau Syrup Pool](business-partnerships/syrup-pools.md)
-
-### [Daftar untuk IFO (Penjualan Token)](business-partnerships/initial-farm-offerings-ifos.md)
-
-### [Daftar untuk Pasar NFT](/broken/pages/DmdIaEZd9prcJiQqgZJU)
-
-
-
+### [Ajukan IFO (Penjualan Token)](business-partnerships/initial-farm-offerings-ifos.md)

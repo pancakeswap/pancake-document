@@ -4,7 +4,7 @@
 
 Yield Farms memungkinkan pengguna untuk mendapatkan CAKE sambil mendukung PancakeSwap dengan melakukan Staking pada LP Token.
 
-Lihat [panduan Cara Menggunakan Farm](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) kami untuk mulai farming.
+Lihat [panduan Cara Menggunakan Farm](https://docs.pancakeswap.finance/earn/yield-farming/how-to-use-farms/how-to-use-farms) kami untuk mulai farming.
 
 Pelajari [cara menemukan smart contract Farm](../../archive/how-to-use-farms-with-bscscan.md)
 

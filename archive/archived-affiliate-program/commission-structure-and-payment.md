@@ -12,9 +12,9 @@ Struktur komisi kami adalah sebagai berikut:
 * mencakup setidaknya **1 token utama** (yaitu, BNB, BTC, BUSD, ETH, USDT dan/atau USDC)
 * Terbatas pada perdagangan Swap di **BNB Smart Chain dan rantai Ethereum saja**
 
-**\*\***&#x50;erdagangan Perpetual dilarang dari yurisdiksi tertentu, pastikan Anda memenuhi syarat untuk memperdagangkan derivatif di platform ini.
+**Perdagangan Perpetual dilarang dari yurisdiksi tertentu.** Pastikan Anda memenuhi syarat untuk memperdagangkan derivatif di platform ini.
 
-\*\*\*Biaya Trading pada perdagangan perpetual (atau posisi Referral mana pun yang mungkin menimbulkan biaya likuidasi) tidak mencakup biaya likuidasi untuk Likuidasi posisi Referral Anda. Terbatas pada perdagangan perpetual di **BNB Smart Chain dan rantai Ethereum saja.**
+Biaya Trading pada perdagangan perpetual (atau posisi Referral mana pun yang mungkin menimbulkan biaya likuidasi) tidak mencakup biaya likuidasi untuk Likuidasi posisi Referral Anda. Terbatas pada perdagangan perpetual di **BNB Smart Chain dan rantai Ethereum saja.**
 
 ### Pembayaran
 

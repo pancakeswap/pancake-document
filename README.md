@@ -14,7 +14,7 @@
 
 ### Pilihan masyarakat
 
-PancakeSwap adalah bursa terdesentralisasi terkemuka. Tersedia di sepuluh jaringan: BNB Chain, Ethereum, Solana, Base, Arbitrum, Aptos, ZKsync, Linea, Monad, dan opBNB, dengan volume perdagangan tertinggi di pasar (sumber: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
+PancakeSwap adalah bursa terdesentralisasi terkemuka. Tersedia di sebelas jaringan: BNB Chain, Ethereum, Solana, Base, Arbitrum, Aptos, ZKsync, Linea, Monad, Robinhood, dan opBNB, dengan volume perdagangan tertinggi di pasar (sumber: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
 
 ### Biaya rendah
 

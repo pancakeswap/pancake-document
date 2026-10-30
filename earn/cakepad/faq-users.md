@@ -5,7 +5,7 @@
 * Acara CAKE.PAD memungkinkan pengguna mendapatkan akses awal ke token proyek baru tepat saat diluncurkan.
 * Pengguna mendapatkan token proyek baru dengan **CAKE**.
 * Proyek mendapatkan likuiditas, visibilitas, dan akses langsung ke komunitas PancakeSwap.
-* Ini dapat berlangsung di BNB, Base, ARB, ETH, Linea, atau opBNB
+* Ini dapat berlangsung di BNB Chain, Base, atau Monad
 
 ### 2. Siapa yang memenuhi syarat untuk berpartisipasi?
 

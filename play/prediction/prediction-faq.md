@@ -147,7 +147,7 @@ Anda mungkin dapat mengklaim kemenangan langsung dari kontrak. Ikuti langkah-lan
 {% tab title="Periksa putaran yang Anda mainkan" %}
 Cara memeriksa riwayat putaran yang Anda mainkan
 
-1. Buka halaman BscScan dari [kontrak Prediction](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (misalnya BNBUSD).
+1. Buka halaman BscScan dari [kontrak Prediction](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract) (misalnya BNBUSD).
 2. Gulir ke bawah ke "8. getUserRounds".
 3. Ketikkan alamat dompet Anda di bawah "user(address)".
 4. Atur "cursor(uint256)" ke 0 dan "size(uint256)" ke 1000.
@@ -158,7 +158,7 @@ Cara memeriksa riwayat putaran yang Anda mainkan
 {% tab title="Periksa apakah Anda dapat mengklaim" %}
 Pertama, periksa apakah Anda seharusnya benar-benar dapat mengklaim dari putaran yang Anda mainkan.
 
-1. Buka halaman BscScan dari [kontrak Prediction](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (misalnya BNBUSD), dan buka tab Read
+1. Buka halaman BscScan dari [kontrak Prediction](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract) (misalnya BNBUSD), dan buka tab Read
 2. Gulir ke bawah ke "4. claimable".
 3. Ketikkan id putaran yang ingin Anda periksa di bawah "epoch(uint256)".
 4. Ketikkan alamat dompet Anda di bawah "user(address)".
@@ -171,7 +171,7 @@ Pertama, periksa apakah Anda seharusnya benar-benar dapat mengklaim dari putaran
 {% tab title="Klaim dari putaran" %}
 Cara mengklaim
 
-1. Buka halaman BscScan dari [kontrak Prediction](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (misalnya BNBUSD), dan buka tab Write
+1. Buka halaman BscScan dari [kontrak Prediction](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract) (misalnya BNBUSD), dan buka tab Write
 2. Ketuk "🔴 Connect to Web3"
 3. Gunakan MetaMask atau WalletConnect untuk terhubung.
 4. Gulir ke bawah ke "3. claim"

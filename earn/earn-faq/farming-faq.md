@@ -10,7 +10,7 @@ Dalam V3, Anda dapat mengkonsentrasikan aset saat menyediakan likuiditas untuk m
 
 Oleh karena itu, tergantung pada pengaturan rentang harga posisi, setiap posisi likuiditas akan memiliki APR biaya LP-nya sendiri dan APR farming-nya sendiri.
 
-APR global dihitung dengan total jumlah hadiah CAKE dalam USD, dibagi dengan total jumlah aset dalam posisi aktif yang saat ini di-stake di farm. Jadi APR farming global hanyalah referensi umum, dan tidak mewakili APR individual untuk setiap posisi.
+APR global dihitung dengan total jumlah hadiah CAKE dalam USD, dibagi dengan total jumlah aset di dalam posisi aktif yang saat ini di-stake di farm. Jadi APR farming global hanyalah referensi umum, dan tidak mewakili APR individual untuk setiap posisi.
 
 Untuk melihat APR farming Anda, periksa posisi Anda yang terdaftar di bawah setiap farm.
 
@@ -71,7 +71,7 @@ Jika Anda ingin menyesuaikan konfigurasi rentang harga posisi likuiditas, Anda p
 Dalam Farm v3, APR hadiah CAKE dapat bervariasi antara posisi likuiditas. Ini didasarkan pada faktor-faktor berikut:
 
 * Tingkat emisi CAKE ke Farm\
-  \- lebih banyak CAKE akan menghasilkan yield yang lebih tinggi untuk semua farm. Baca lebih lanjut di [halaman tokenomics kami](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics)
+  \- lebih banyak CAKE akan menghasilkan yield yang lebih tinggi untuk semua farm. Baca lebih lanjut di [halaman tokenomics kami](https://docs.pancakeswap.finance/protocol/cake-tokenomics)
 * Pengali farm\
   \- farm dengan pengali yang lebih tinggi akan mendapatkan lebih banyak CAKE secara proporsional terhadap semua farm. Harap diperhatikan bahwa farm v3 dan v2 + stable swap menggunakan dua kumpulan pengali yang terpisah. Dan farm di Ethereum dan BNB Chain juga menggunakan dua kumpulan pengali yang terpisah.
 * Jumlah token yang didepositkan dalam posisi\
@@ -111,12 +111,10 @@ Setiap farm individu akan menerima emisi CAKE berdasarkan:
 
 `CAKE per blok/detik = C / B * A`
 
-Angka-angka di atas dapat ditemukan di masing-masing kontrak [MasterChef](/broken/pages/-MeTWzQOSmb1ej51HT0I).
+Angka-angka di atas dapat ditemukan di masing-masing kontrak [MasterChef](https://developer.pancakeswap.finance/contracts/masterchef/addresses).
 
 
 
 ### Bisakah saya menggunakan bCAKE di farm v3?
 
-Ya
-
-bCAKE untuk Farm V3 akan segera hadir setelah penerapan Farm V3 PancakeSwap. Nantikan pembaruannya.
+Ya.

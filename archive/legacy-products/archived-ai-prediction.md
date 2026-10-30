@@ -54,6 +54,6 @@ Biaya: 3% dari total pot setiap ronde untuk perbendaharaan, dengan sebagian biay
 
 Anda dapat merujuk ke Riwayat Ronde di tab riwayat untuk memeriksa harga dan keputusan AI dari ronde sebelumnya. Semua ronde diselesaikan secara on-chain; rujuk ke [kontrak prediksi](https://arbiscan.io/address/0x1cdc19B13729f16C5284a0ACE825F83fC9d799f4) untuk informasi lebih lanjut.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-06-26%20at%208.02.17%20PM.png" alt=""><figcaption><p>Rujuk ke tab riwayat di sebelah kanan</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-06-26%20at%208.02.17%E2%80%AFPM.png" alt=""><figcaption><p>Rujuk ke tab riwayat di sebelah kanan</p></figcaption></figure>
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-06-26%20at%208.01.26%20PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-06-26%20at%208.01.26%E2%80%AFPM.png" alt=""><figcaption></figcaption></figure>
