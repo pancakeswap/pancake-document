@@ -1,38 +1,50 @@
-# Il Team della Cucina
+# The Kitchen Team
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/the-kitchen-team-header.png)
 
-Puoi accedere agli articoli delle interviste della cucina cliccando sul nome del cuoco.
+### Gli Chef
 
-### I Cuochi
-
-🐰 Chef Kids - Head Chef ([Twitter](https://x.com/Headchef_pcs))
+🐰 Chef Kids - Head Chef ([X/Twitter](https://x.com/Headchef_pcs))
 
 🐰 Chef Miso - Prodotto
 
-🐰 Chef Maroon - BD Lead ([Twitter](https://x.com/ChefMaroon))
+🐰 Chef Kocha - Prodotto
 
-🐰 Chef Doxie - Business Development ([Twitter](https://x.com/ChefDoxie))
+🐰 Chef Mustard - Operations ([X/Twitter](https://twitter.com/chef_mustard))
 
-🐰 Chef Madeline - Business Development
+🐰 Chef Pau - Operations
 
-🐰 Chef Leo - Business Development
+🐰 Chef Leo - Business Development Lead ([X/Twitter](https://x.com/DYOR_WAGMI))
 
-🐰 Chef Mustard - Ops ([Twitter](https://twitter.com/chef_mustard))
+🐰 Chef Olive - Business Development&#x20;
 
-🐰 Chef Pau - Ops
+🐰 Chef Cocoa - Marketing Lead ([X/Twitter](https://x.com/chef_cocoa_pcs))
+
+🐰 Chef Alina - Partnership Marketing ([X/Twitter](https://x.com/0xalinatyng))
+
+🐰 Chef Sake - Community ([X/Twitter](https://x.com/KayraMeow))
+
+🐰 Chef Marcus - Social Media &#x20;
+
+🐰 Chef Boba - Community &#x20;
+
+🐰 Chef Salade - Design Lead
+
+🐰 Chef Waffles - Designer
+
+🐰 Chef Noodles - Designer
 
 🐰 Chef Cyrus - Dati
 
-🐰 Chef Jackson - Dev Lead ([Twitter](https://x.com/0xchefjackson))
+🐰 Chef Mist - Dev Lead&#x20;
 
 🐰 Chef Ryan - Frontend Dev Lead
+
+🐰 Chef Philip - Sviluppatore AI
 
 🐰 Chef Eric - Frontend Dev
 
 🐰 Chef Jerry - Frontend Dev
-
-🐰 Chef Philip - Frontend Dev
 
 🐰 Chef Penguin - Frontend Dev
 
@@ -64,22 +76,4 @@ Puoi accedere agli articoli delle interviste della cucina cliccando sul nome del
 
 🐰 Chef Rei - Sicurezza
 
-🐰 Chef Salade - Design Lead
-
-🐰 [Chef Cecy](https://medium.com/pancakeswap/kitchen-interviews-chef-cecy-the-magical-3d-artist-making-fluffy-bunnies-e1eda53742f3) - Artista 3D ([Twitter](https://twitter.com/Cecymeade))
-
-🐰 Chef Waffles - Designer
-
-🐰 Chef Noodles - Brand / Motion Designer
-
-🐰 Chef Cola - HR
-
-🐰 Chef Cocoa - Marketing Lead ([Twitter](https://x.com/chef_cocoa_pcs))
-
-🐰 Chef Pixie - Product Marketing Manager ([Twitter](https://x.com/chefpixiee))
-
-🐰 Chef Marcus - Social Media ([Twitter](https://x.com/ChefMarcusPCS))
-
-🐰 Chef Boba - Community ([Twitter](https://x.com/chefboba_pcs))
-
-🐰 Chef Croissant - Eventi e PR
+🐰 Chef Cola - Risorse Umane

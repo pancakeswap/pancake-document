@@ -12,7 +12,7 @@ Abbiamo suddiviso l'argomento di aiuto in sezioni per aiutarti a trovare quello 
 
 ### Risoluzione degli Errori
 
-La [pagina Risoluzione degli Errori](https://docs.pancakeswap.finance/help/troubleshooting) contiene una raccolta di errori che gli utenti potrebbero incontrare durante l'utilizzo di PancakeSwap. Mostra il problema con sia una soluzione che una spiegazione del motivo per cui si è verificato.
+La [pagina Risoluzione degli Errori](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/faq/troubleshooting) contiene una raccolta di errori che gli utenti potrebbero incontrare durante l'utilizzo di PancakeSwap. Mostra il problema con sia una soluzione che una spiegazione del motivo per cui si è verificato.
 
 ### FAQ Generali
 

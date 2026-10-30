@@ -29,7 +29,7 @@ Nota: Attualmente, la funzione Zap è in beta. Tieni presente che non supporta a
 
 Visita la [pagina Liquidità](https://pancakeswap.finance/liquidity) e scegli "Add Liquidity".
 
-Seleziona la coppia di trading per cui vuoi fornire liquidità scegliendo due token di input; consulta la [guida alla Liquidità](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide) per saperne di più.
+Seleziona la coppia di trading per cui vuoi fornire liquidità scegliendo due token di input; consulta la [guida alla Liquidità](https://docs.pancakeswap.finance/earn/pancakeswap-pools/liquidity-guide) per saperne di più.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-1.png)
 

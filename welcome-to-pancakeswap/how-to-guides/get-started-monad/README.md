@@ -1,14 +1,12 @@
-# Inizia (Monad)
+# Get Started (Monad)
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/get-started-header.png)
+Usare qualcosa di nuovo può essere un po' una sfida. Ma non preoccuparti: abbiamo creato una serie di guide per aiutarti a sentirti a tuo agio con PancakeSwap su Monad!
 
-Usare qualcosa di nuovo può essere una piccola sfida. Non preoccuparti però, abbiamo creato una serie di guide per aiutarti a familiarizzare con PancakeSwap su Monad!
+## Configurare PancakeSwap
 
-## Configurazione di PancakeSwap
+Segui queste guide per preparare tutto il necessario per usare PancakeSwap su Monad, oppure passa direttamente alla guida che ti serve se te la sei cavata finora ma hai perso l'orientamento.
 
-Segui queste guide per configurare tutto e utilizzare PancakeSwap su Monad, o passa direttamente alla guida di cui hai bisogno se sei già a buon punto ma hai perso il filo.
+* [Create a wallet (MON)](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-monad/create-a-wallet-monad)
+* [Monad FAQ](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-monad/monad-faq)
 
-* [Crea un portafoglio (MON)](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-monad/create-a-wallet-monad)
-* [FAQ Monad](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-monad/monad-faq)
-
-Se non riesci a trovare quello di cui hai bisogno, visita il [Telegram di PancakeSwap](../../contact-us/social-accounts.md) e chiedi aiuto lì!
+Se non trovi ciò che ti serve, visita il [Telegram di PancakeSwap](../../contact-us/social-accounts.md) e chiedi aiuto lì!

@@ -1,6 +1,5 @@
 # Crea un Portafoglio
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-make-a-crypto-wallet-header.png)
 
 Per iniziare il tuo percorso su PancakeSwap su Aptos, la prima cosa di cui hai bisogno è configurare un Portafoglio che supporti Aptos Chain. I Portafogli sono disponibili sia su computer desktop che su dispositivi smartphone. Dovrai scegliere il Portafoglio più adatto alle tue esigenze.
 

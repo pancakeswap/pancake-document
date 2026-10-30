@@ -8,7 +8,7 @@ hidden: true
 
 ### Quale durata di blocco possiamo scegliere?
 
-Puoi scegliere da 1 a 52 settimane. Quale preferisci?
+Puoi scegliere da 1 settimana fino a 4 anni.
 
 ### Quali variabili influenzano le percentuali di rendimento (%) del nuovo CAKE Syrup Pool (opzioni di Staking Flessibile e a Termine Fisso)?
 

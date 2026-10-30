@@ -147,7 +147,7 @@ Potresti essere in grado di riscuotere le tue vincite direttamente dal contratto
 {% tab title="Check rounds you played" %}
 Come controllare la cronologia dei round a cui hai partecipato
 
-1. Vai alla pagina BscScan del [contratto Prediction](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (ad es. BNBUSD).
+1. Vai alla pagina BscScan del [contratto Prediction](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract) (ad es. BNBUSD).
 2. Scorri fino a "8. getUserRounds".
 3. Digita l'indirizzo del tuo portafoglio sotto "user(address)".
 4. Imposta "cursor(uint256)" a 0 e "size(uint256)" a 1000.
@@ -158,7 +158,7 @@ Come controllare la cronologia dei round a cui hai partecipato
 {% tab title="Check if you can claim" %}
 Prima, controlla se dovresti effettivamente poter riscuotere dal round a cui hai partecipato.
 
-1. Vai alla pagina BscScan del [contratto Prediction](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (ad es. BNBUSD) e vai alla scheda Read
+1. Vai alla pagina BscScan del [contratto Prediction](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract) (ad es. BNBUSD) e vai alla scheda Read
 2. Scorri fino a "4. claimable".
 3. Digita l'id del round che vuoi controllare sotto "epoch(uint256)".
 4. Digita l'indirizzo del tuo portafoglio sotto "user(address)".
@@ -171,7 +171,7 @@ Prima, controlla se dovresti effettivamente poter riscuotere dal round a cui hai
 {% tab title="Claim from a round" %}
 Come riscuotere
 
-1. Vai alla pagina BscScan del [contratto Prediction](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (ad es. BNBUSD) e vai alla scheda Write
+1. Vai alla pagina BscScan del [contratto Prediction](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract) (ad es. BNBUSD) e vai alla scheda Write
 2. Clicca "🔴 Connect to Web3"
 3. Usa MetaMask o WalletConnect per connetterti.
 4. Scorri fino a "3. claim"

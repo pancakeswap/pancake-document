@@ -15,9 +15,9 @@ Giocare alla Lottery di PancakeSwap ti dà la possibilità di vincere enormi pre
 
 I prezzi dei biglietti della Lottery vengono fissati all'inizio di ogni nuovo round e mirano a $5 USD (possono variare leggermente in caso di fluttuazioni improvvise dei prezzi).
 
-Acquistare più biglietti contemporaneamente dà diritto a uno sconto per acquisto multiplo. Puoi comprare fino a 100 biglietti in un solo acquisto: lo sconto parte da un importo minimo con 2 biglietti e sale fino al 10% con 100 biglietti.
+Acquistare più biglietti contemporaneamente dà diritto a uno sconto per acquisto multiplo. Puoi comprare fino a 100 biglietti in un solo acquisto: lo sconto parte da un importo minimo con 2 biglietti e sale fino a quasi il 5% (4,95%) con 100 biglietti.
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-22%20at%209.59.52%20PM.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-22%20at%209.59.52%E2%80%AFPM.png)
 
 ## **Come vincere**
 

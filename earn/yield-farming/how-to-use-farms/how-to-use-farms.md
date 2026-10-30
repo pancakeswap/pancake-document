@@ -235,6 +235,6 @@ Puoi vedere questa commissione nel tuo portafoglio quando confermi dopo aver cli
 
 Questo mostra la commissione per la raccolta come appare nel portafoglio MetaMask. Portafogli diversi mostreranno le informazioni in modo leggermente diverso. Considera di lasciare che le tue ricompense crescano per un po' in modo da pagare commissioni meno spesso.
 
-E questo è tutto! Potresti anche voler dare un'occhiata a [come usare i Syrup Pool di PancakeSwap](https://docs.pancakeswap.finance/get-started/syrup-pool-guide) per guadagnare ricompense.
+E questo è tutto! Potresti anche voler dare un'occhiata a [come usare i Syrup Pool di PancakeSwap](https://docs.pancakeswap.finance/earn/cake-staking/syrup-pool/syrup-pool-guide) per guadagnare ricompense.
 
 Buon farming!

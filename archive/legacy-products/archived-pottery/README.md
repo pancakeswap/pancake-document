@@ -74,6 +74,6 @@ Otto percento (8%) del pot dei premi distribuito ogni settimana sarà addebitato
 
 ## **Pronto a partecipare?**
 
-Se hai capito bene la struttura del prodotto, i rischi e le commissioni, consulta questa pagina su [come partecipare](https://docs.pancakeswap.finance/products/pottery/how-to-play-pottery) dall'interfaccia web di PancakeSwap e altre [FAQ di Pottery](https://docs.pancakeswap.finance/products/pottery/pottery-faq)!
+Se hai capito bene la struttura del prodotto, i rischi e le commissioni, consulta questa pagina su [come partecipare](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery/how-to-play-pottery) dall'interfaccia web di PancakeSwap e altre [FAQ di Pottery](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery/pottery-faq)!
 
 

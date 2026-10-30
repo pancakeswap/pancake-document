@@ -2,7 +2,7 @@
 
 #### Quale rete è attualmente supportata?
 
-PancakeSwap X è attivo su Arbitrum ed Ethereum, supportando token crypto, e su BNB Chain supporta real-world asset (RWA) come azioni, obbligazioni ed ETF tokenizzati.
+PancakeSwap X è attivo su Arbitrum, Ethereum, BNB Chain, Base e Robinhood Chain, supportando swap di token crypto. Le real-world asset (RWA) come azioni, obbligazioni ed ETF tokenizzati sono inoltre supportate su BNB Chain, Ethereum e Robinhood Chain.
 
 #### PancakeSwap X è attivo per impostazione predefinita?
 

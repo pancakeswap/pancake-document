@@ -44,7 +44,7 @@ Tieni presente che il nuovo struct `PoolInfo` **non** contiene il campo dell'ind
 
 Usa `lpToken.balanceOf(MasterChef.address)` per ottenere l'ammontare totale in Staking per qualsiasi pool di Farm.
 
-Tuttavia, in MasterChef v2, le quote degli utenti possono essere potenziate (in arrivo). Pertanto, le ricompense vengono calcolate usando un nuovo campo `totalBoostedShare` in `PoolInfo` come quote totali di ogni pool. Ad esempio, se il pool 0 ha 2 utenti, l'utente1 fa Staking di 100 LP (senza boost), l'utente2 fa Staking di 100 (con `boostMultiplier` pari a 1.05), allora `totalBoostedShare` diventerà 205. Di conseguenza l'utente2 guadagnerà più ricompense.
+Tuttavia, in MasterChef v2, le quote degli utenti possono essere potenziate. Pertanto, le ricompense vengono calcolate usando un nuovo campo `totalBoostedShare` in `PoolInfo` come quote totali di ogni pool. Ad esempio, se il pool 0 ha 2 utenti, l'utente1 fa Staking di 100 LP (senza boost), l'utente2 fa Staking di 100 (con `boostMultiplier` pari a 1.05), allora `totalBoostedShare` diventerà 205. Di conseguenza l'utente2 guadagnerà più ricompense.
 
 #### CakePerBlock
 

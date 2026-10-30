@@ -15,7 +15,7 @@ description: FAQ Trading Reward
 #### Perché il mio volume di trading non è stato tracciato?
 
 * I numeri del volume richiedono tempo per aggiornarsi e sono soggetti ai ritardi del SubGraph. Ricontrolla più tardi.
-* Il tuo scambio deve essere instradato attraverso la **esatta** coppia di trading evidenziata nella [pagina Trading Reward](https://pancakeswap.finance/trading-reward#rewards-breakdown), incluso il livello di commissione. Consulta [questo tutorial](https://docs.pancakeswap.finance/products/pancakeswap-exchange/fees-and-routes#check-the-fee-rate-and-fee-amount-that-is-currently-applied) per vedere i tuoi percorsi di trading.
+* Il tuo scambio deve essere instradato attraverso la **esatta** coppia di trading evidenziata nella [pagina Trading Reward](https://pancakeswap.finance/trading-reward#rewards-breakdown), incluso il livello di commissione. Consulta [questo tutorial](https://docs.pancakeswap.finance/trade/pancakeswap-exchange/fees-and-routes) per vedere i tuoi percorsi di trading.
 * Solo le coppie di trading V3 sono idonee per questo programma.
 * Usa lo stesso indirizzo del portafoglio idoneo per il programma di trading reward sia su Ethereum che su BNB Chain.
 * Se il tuo volume di trading in una coppia è troppo piccolo, potresti non essere idoneo a rivendicare alcuna ricompensa.

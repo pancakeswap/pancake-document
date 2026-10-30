@@ -1,16 +1,9 @@
 # 🤙 Contattaci
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/contact-us-header.png)
+_Per richieste su ecosistema e partnership, handle TG: @PancakeSwapBD_
 
-## Contatti Business
+### [Quotare un Token](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/business-partnerships/commonly-asked-business-partnerships-questions)
 
-### [Elenca un Token](https://docs.pancakeswap.finance/ecosystem-and-partnerships/business-partnerships/commonly-asked-business-partnerships-questions#listing-on-the-exchange)
+### [Candidarsi per una Yield Farm o una Syrup Pool](business-partnerships/syrup-pools.md)
 
-### [Candidati per Yield Farming o Syrup Pool](business-partnerships/syrup-pools.md)
-
-### [Candidati per un IFO (Vendita Token)](business-partnerships/initial-farm-offerings-ifos.md)
-
-### [Candidati per il Mercato NFT](/broken/pages/DmdIaEZd9prcJiQqgZJU)
-
-
-
+### [Candidarsi per un IFO (Vendita di Token)](business-partnerships/initial-farm-offerings-ifos.md)
