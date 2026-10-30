@@ -1,42 +1,42 @@
-# How to Trade on the PancakeSwap Exchange
+# PancakeSwap Exchange'de Nasıl Trade Edilir
 
 ![Image for post](https://miro.medium.com/max/1400/0*C0Ng5_d1hK28qMMh)
 
-1. Go to the exchange page [here](https://exchange.pancakeswap.finance/#/swap).
+1. Exchange sayfasına [buradan](https://pancakeswap.finance/swap) git.
 
 
 
 ![Image for post](https://miro.medium.com/max/512/0*roteFKZKRqO-IWYU)
 
-2. Unlock your BNB Smart Chain Wallet \(top right-hand side\).
+2. BNB Smart Chain Cüzdanının kilidini aç \(sağ üst köşe\).
 
 
 
 ![Image for post](https://miro.medium.com/max/1400/0*H5TedYqYQFb5oiO0)
 
-3. Select the tokens you wish to trade and enter the amount.
+3. Trade etmek istediğin tokenları seç ve miktarı gir.
 
 
 
 ![Image for post](https://miro.medium.com/max/1400/0*AgCzp3NqkIudgyWQ)
 
-4. Check the details, and click “Swap”.
+4. Ayrıntıları kontrol et ve “Swap”a tıkla.
 
 
 
 ![Image for post](https://miro.medium.com/max/1400/0*qmhlA7jFOwtIKJ8t)
 
-5. Check the details and click “Confirm Swap”.
+5. Ayrıntıları kontrol et ve “Confirm Swap”a tıkla.
 
 
 
 ![Image for post](https://miro.medium.com/max/1400/0*CMDlQd_FEWa6koea)
 
-6. Confirm the transaction in your wallet.
+6. İşlemi cüzdanında onayla.
 
 
 
 ![Image for post](https://miro.medium.com/max/1400/0*wHVyuL-WED_T3wiZ)
 
-7. Done! You can click “View on bscscan” to see your transaction details.
+7. Tamam! İşlem ayrıntılarını görmek için “View on bscscan”e tıklayabilirsin.
 

@@ -27,7 +27,7 @@ Bağlandıktan sonra aşağıdaki bilgileri göreceksin:
 4. **Toplam Ödüllerim**: Geri ödeme ve talep etmeye uygun olduğun toplam CAKE miktarı; şunlardan oluşur:
 
 * **CAKE Havuzu Ödülleri**: Eski CAKE Havuzu ödülleri
-* **Gelir Paylaşımı Ödülleri**: CAKE staking'den elde edilen gelir ([Daha fazla bilgi](https://docs.pancakeswap.finance/earn/cake-staking/revenue-sharing/earn-cake-weekly))
+* **Gelir Paylaşımı Ödülleri**: CAKE staking'den elde edilen gelir ([Daha fazla bilgi](https://docs.pancakeswap.finance/welcome-to-pancakeswap/vecake-sunset/archive-vecake/earn-cake-weekly))
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Connected%20view%20balance.png" alt=""><figcaption></figcaption></figure>
 

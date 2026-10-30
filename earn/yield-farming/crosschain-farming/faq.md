@@ -83,8 +83,6 @@ Bu ücret yalnızca ilk "stake" işleminde bir kez alınır.
 
 ### Emisyonlar nereden geliyor?&#x20;
 
-_10 Ekim 2022'de güncellendi_
-
 Şu an için Chefs, CAKE havuzundan tüm crosschain farm'lara blok başına 0,0189 CAKE yönlendirdi.&#x20;
 
 İşte emisyon dağılımı:

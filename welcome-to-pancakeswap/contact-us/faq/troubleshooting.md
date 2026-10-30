@@ -234,7 +234,7 @@ CAKE-CAKE havuzundan unstake yapmak için Cüzdan'ında yeterli SYRUP yok.
 
 Hâlâ başarısız oluyorsa, stake edilmiş token'larını unstake etmek için doğrudan sözleşme üzerinden "emergencyWithdraw" işlemi gerçekleştirebilirsin.
 
-1. Şu adrese git: [https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract)
+1. Şu adrese git: [https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract](https://bscscan.com/)
 2. **"Connect to Web3"** seçeneğine tıkla ve Cüzdan'ını bağla. ![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
 3. **"4. emergencyWithdraw"** bölümüne "0" gir ve "Write"a tıkla.
 
@@ -305,7 +305,7 @@ Değilse, Cüzdan'ında olmayan token'ları göndermeye çalışıyor olabilirsi
 Stake edilmiş token'larını unstake etmek için doğrudan sözleşme üzerinden "emergencyWithdraw" işlemi gerçekleştirebilirsin.
 
 1. Unstake yapmaya çalıştığın Syrup Pool'un sözleşme adresini bul. Bunu Cüzdan'ının işlem günlüğünde bulabilirsin.
-2. [https://bscscan.com/](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract) adresine git ve arama çubuğuna sözleşme adresini gir.
+2. [https://bscscan.com/](https://bscscan.com/) adresine git ve arama çubuğuna sözleşme adresini gir.
 3. **Write Contract** seçeneğini seç.
 4. **"Connect to Web3"** seçeneğine tıkla ve Cüzdan'ını bağla.![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
 5. **"3. emergencyWithdraw"** bölümünde "Write"a tıkla.
@@ -324,7 +324,7 @@ Bu hata genellikle eski bir Syrup Pool'dan unstake yapmaya çalışırken ortaya
 
 ## **Tahmin ile İlgili Sorunlar**
 
-[Bozuk bağlantıyı](</broken/pages/8zN9xzaYD1DvxZvzLzug> "mention") kontrol et
+[Prediction SSS](../../../play/prediction/prediction-faq.md "mention") sayfasına göz at
 
 ## **Diğer Sorunlar**
 

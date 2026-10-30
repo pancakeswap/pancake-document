@@ -5,7 +5,7 @@
 Birden fazla adım gerektirdiğinden PancakeSwap ile Farm'ları kullanmak başta göz korkutucu gelebilir. Bu rehber, BscScan aracılığıyla doğrudan Farm sözleşmesiyle nasıl etkileşim kuracağını adım adım açıklayacak.
 
 {% hint style="warning" %}
-BscScan kullanarak sözleşmelerle etkileşim kurmanın yeni başlayanlar için önerilmediğini lütfen anla. Kendini yeterince güvende hissetmiyorsan bunun yerine [Farm'ları Nasıl Kullanırım rehberini](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) kullanmanı tavsiye ederiz.
+BscScan kullanarak sözleşmelerle etkileşim kurmanın yeni başlayanlar için önerilmediğini lütfen anla. Kendini yeterince güvende hissetmiyorsan bunun yerine [Farm'ları Nasıl Kullanırım rehberini](https://docs.pancakeswap.finance/earn/yield-farming/how-to-use-farms/how-to-use-farms) kullanmanı tavsiye ederiz.
 {% endhint %}
 
 ## Farm işlem tanımlayıcısını bulma

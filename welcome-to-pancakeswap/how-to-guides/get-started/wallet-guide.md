@@ -1,7 +1,5 @@
 # Cüzdan Oluştur
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-make-a-crypto-wallet-header.png)
-
 PancakeSwap'a başlamak için önce BNB Smart Chain (BSC) destekleyen bir cüzdan kurman gerekiyor. Cüzdanlar hem masaüstü bilgisayarlarda hem de akıllı telefon cihazlarında kullanılabilir. İhtiyaçlarına en uygun cüzdanı seçmen gerekiyor.
 
 {% hint style="danger" %}

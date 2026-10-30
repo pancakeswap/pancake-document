@@ -49,7 +49,7 @@ Bu, o havuz için ödüllerin dağıtılmayı bırakacağı zamana kadar kalan b
 2. CAKE Stake Et, başka token'lar kazan.&#x20;
 3. Başka token'lar Stake Et, CAKE Kazan
 
-"CAKE Stake Et, CAKE Kazan" Syrup Pools için ödüller [CAKE emisyonlarından](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics) gelir. Her blokta bu havuzlar için ödül olarak belirli sayıda CAKE token'ı ayrılır.
+"CAKE Stake Et, CAKE Kazan" Syrup Pools için ödüller [CAKE emisyonlarından](https://docs.pancakeswap.finance/protocol/cake-tokenomics) gelir. Her blokta bu havuzlar için ödül olarak belirli sayıda CAKE token'ı ayrılır.
 
 "CAKE Stake Et, başka token'lar kazan" türü için ödüller, Syrup Pool'a sponsor olan proje ekipleri tarafından sağlanır.
 

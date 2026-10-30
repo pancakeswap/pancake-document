@@ -235,6 +235,6 @@ Bu ücreti **Topla** düğmesine tıkladıktan sonra cüzdanında onay sırasın
 
 Bu, MetaMask cüzdanında görünen toplama ücretini gösterir. Farklı cüzdanlar bilgileri biraz farklı biçimde gösterebilir. Ücretleri daha az sıklıkla ödemek için ödüllerinin bir süre büyümesini bırakmayı düşün.
 
-Hepsi bu kadar! [PancakeSwap Syrup Pools'un nasıl kullanılacağına](https://docs.pancakeswap.finance/get-started/syrup-pool-guide) da bakarak ödül kazanmak isteyebilirsin.
+Hepsi bu kadar! [PancakeSwap Syrup Pools'un nasıl kullanılacağına](https://docs.pancakeswap.finance/earn/cake-staking/syrup-pool/syrup-pool-guide) da bakarak ödül kazanmak isteyebilirsin.
 
 İyi farming'ler!

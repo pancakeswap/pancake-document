@@ -38,7 +38,7 @@ bCAKE'i etkinleştirmek için pozisyonunun farmda stake edilmiş olması gerekir
 * V2 ve StableSwap için: "LP Ekle"ye tıklayarak LP token'ını stake et.
 * Pozisyon Yöneticileri için: "Likidite Ekle"ye tıklayarak likidite ekle.
 
-Yield Farming hakkında daha fazla bilgi edinmek için [şu](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) eğitime göz at.
+Yield Farming hakkında daha fazla bilgi edinmek için [şu](https://docs.pancakeswap.finance/earn/yield-farming/how-to-use-farms/how-to-use-farms) eğitime göz at.
 
 #### bCAKE'i etkinleştir <a href="#b3a80f22-5043-4e4b-afae-93b4abec504e" id="b3a80f22-5043-4e4b-afae-93b4abec504e"></a>
 

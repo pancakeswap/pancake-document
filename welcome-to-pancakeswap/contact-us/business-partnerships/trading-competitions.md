@@ -4,7 +4,7 @@ Projen için işlem hacmini artırmak ve farkındalık kazanmak istiyor musun? T
 
 Kurulum, takip ve duyuruyu biz hallederiz — ödülleri sen sağla, gösteriyi biz yönetiriz.
 
-Bu hizmet BNB Chain, Solana, Base, Arbitrum, Ethereum, ZKsync, Linea, opBNB ve Polygon zkEVM'de mevcuttur.
+Bu hizmet BNB Chain, Solana, Base, Arbitrum, Ethereum, ZKsync, Linea ve opBNB'de mevcuttur.
 
 _Daha önce katılan bazı projeler işlem hacminde 3-7 kat artış ve aktif olarak işlem yapan adreslerde ciddi büyüme gördü_
 

@@ -70,7 +70,7 @@ Bu, borsa hesabı oluşturma adımını atlamak isteyen mobil öncelikli kullan�
 
 #### IV. **Başka Bir Blok Zincirinden MON Bridge Et**
 
-**BNB Chain**, **Ethereum** veya **Base** gibi farklı bir zincirde token'ların mı var? **Bridge platformları** kullanarak Solana'ya fon getirebilirsin.
+**BNB Chain**, **Ethereum** veya **Base** gibi farklı bir zincirde token'ların mı var? **Bridge platformları** kullanarak Monad'a fon getirebilirsin.
 
 #### ✅ Ne yapacaksın:
 

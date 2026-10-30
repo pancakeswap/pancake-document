@@ -16,7 +16,7 @@ Başka varlıkları Bridge'lemeye çalışıyorsan [Aptos Coin Edinme](../../../
 
 Evet, ancak kullanıcı fonlarının ve CAKE enflasyonunun güvenliğini ön planda tutmak için adım adım ilerliyoruz. Aptos'taki PancakeSwap'a nelerin eklenmesi gerektiğini topluluk sohbetlerinde bizimle paylaş.&#x20;
 
-Aptos üzerinde geliştirme yapan ve token likiditenizi teşvik etmek isteyen bir proje isen, [şu](/broken/pages/VB58XNVaU1vlrJ3RcHif) rehbere göz at ve bizimle iletişime geç!
+Aptos üzerinde geliştirme yapan ve token likiditenizi teşvik etmek isteyen bir proje isen, bizimle iletişime geç!
 
 ### Neden "Etkinleştir" butonu yok?
 
@@ -30,6 +30,6 @@ Evet, crosschain farming'in aksine Aptos'ta yerel olarak CAKE ödülleri kazanı
 
 Aptos üzerindeki CAKE, BNB Smart Chain üzerindeki CAKE'e eşittir ve her zaman 1:1 oranında iki zincir arasında Bridge'lenebilir.&#x20;
 
-Tek bir CAKE olduğunu unutma. Farklı zincirler arasında CAKE'in farklı versiyonları yoktur. Tüm blok zincirlerdeki toplam CAKE arzı, v2 tokenomics teknik dokümanımıza göre 750 milyonla sınırlı tutulacak.
+Tek bir CAKE olduğunu unutma. Farklı zincirler arasında CAKE'in farklı versiyonları yoktur. Tüm blok zincirlerdeki toplam CAKE arzı, [bu oylama önerisinde](https://pancakeswap.finance/voting/proposal/0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5) belirtildiği üzere 400 milyonla sınırlıdır.
 
 CAKE'ini BNB Smart Chain'e Bridge'lemek için [CAKE köprüleme rehberine](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos/cake-bridging-guide.md) göz at.

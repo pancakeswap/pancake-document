@@ -1,63 +1,59 @@
-# İş Geliştirme Lideri
+# Business Development Lead
 
-PancakeSwap, BNB Chain'deki önde gelen AMM DEX konumundan tam bir Likidite Merkezine dönüşüyor; bu süreçte yerel AMM havuzlarından, kurumsal sermayeden ve harici dağıtım kanallarından likidite toplayıp yönetiyor. Bu rol, söz konusu yapılanmadaki üç özel İş Geliştirme bölümünden birini uçtan uca yönetiyor.
+PancakeSwap, BNB Chain üzerindeki lider AMM DEX olmaktan tam bir Liquidity Hub'a dönüşüyor; yerel AMM havuzlarından, kurumsal sermayeden ve harici dağıtım kanallarından gelen likiditeyi toplayıp yönetiyor. Bu rol, söz konusu yapılanmadaki üç uzmanlaşmış BD biriminden birine liderlik eder.
 
-### Rol Hakkında
+### Rol hakkında
 
-İş Geliştirme ekibimizi zincirler değil, üç likidite kaynağı etrafında yeniden yapılandırıyoruz. İş Geliştirme Lideri olarak uçtan uca şunları üstleneceksin: Geleneksel AMM, Kurumsal Likidite + RWA, Yeni Ürün Dağıtımı. Ortaklıkları, KPI'ları ve ilk temastan canlı entegrasyona kadar olan hattı sahiplenen iç konu uzmanı sen olacaksın.
+BD ekibimizi zincirler değil, üç likidite kaynağı etrafında yeniden yapılandırıyoruz. BD Lead olarak uçtan uca şunları sahiplenirsin: Geleneksel AMM, Kurumsal Likidite + RWA, Yeni Ürün Dağıtımı. Kurum içi konu uzmanı olacak; ortaklıkları, KPI'ları ve ilk temastan canlı entegrasyona kadar olan pipeline'ı sahiplenceksin.
 
-Bu bir operatör rolüdür, ilişki rolü değil. Sonuçları ölçüyoruz: yayılan CAKE başına üretilen hacim, kurumsal işlem hacmi, sevk edilen toplayıcı API entegrasyonları. İlk günden itibaren somut 2026 Q2 öncelik listesine karşı haftalık ilerleme göstermen bekleniyor.
+Bu bir ilişki rolü değil, bir operatör rolüdür. Sonuçları ölçüyoruz: basılan CAKE başına üretilen hacim, kurumsal trading hacmi, tamamlanan aggregator API entegrasyonları. İlk günden itibaren somut bir 2026 2. çeyrek öncelik listesine karşı haftalık ilerleme göstermen beklenecek.
 
+#### 1. Geleneksel AMM
 
+* CAKE emisyon verimliliğini, proje onboarding'ini (V2/V3/Infinity CLAMM) ve BNB Chain, Base ve SOL genelindeki cross-chain launchpad pipeline'ını sahiplen.
+* **Birincil metrik:** basılan CAKE birimi başına hacim.
+* **İkincil:** çeyrek başına yeni aktif havuzlar, zincir başına ilk lansman projeleri.
+* **Şu an acil:** Base + SOL ekosistem fonu ilişkileri · Infinity CLAMM proje pipeline'ı
 
-1. **Geleneksel AMM**
+#### 2. Kurumsal Likidite + RWA
 
-* CAKE emisyon verimliliğini, proje katılımını (V2/V3/Infinity CLAMM) ve BNB Chain, Base ve SOL genelinde cross-chain launchpad hattını sahiplen.&#x20;
-* Birincil metrik: yayılan CAKE birimi başına hacim.&#x20;
-* İkincil: çeyrek başına yeni aktif havuz sayısı, zincir başına ilk lansman projeleri.
-* **Şu an acil:** Base + SOL ekosistem fonu ilişkileri · Infinity CLAMM proje hattı
+* Tokenize hisse ve RWA ihraççısı onboarding'ini (xStocks/Backed Finance/Ondo/Robinhood), market maker onboarding'ini (Wintermute, Jump, GSR) ve PancakeSwap X RFQ'nun Kraken, Bybit, OKX'e dağıtımını sahiplen.
+* PropAMM kurumsal pipeline'ını oluştur.
+* **Birincil metrik:** PancakeSwap X aylık trading hacmi, onboard edilen RWA ihraççıları.
+* **Şu an acil:** BNB + Base üzerinde xStocks havuzları · Backed Finance / Kraken ortaklığı
 
+#### 3. Yeni Ürün Dağıtımı
 
+* Cüzdanlar (OKX, Binance, MetaMask, Trust) ve DeFi protokolleri (Aave, Venus, Morpho) için varsayılan aggregator API olarak 1inch'in yerini al.
+* Gelir paylaşımı programı tasarımını, white-label API paketlemeyi ve rakibe geçiş analizini sahiplen.
+* **İkincil:** perps kurumsal onboarding'i (rolün yaklaşık %20'si).
+* **Birincil metrik:** çeyrek başına tamamlanan API entegrasyonları, aylık aggregator üzerinden yönlendirilen hacim.
+* **Şu an acil:** 1inch, LiFi, Liquid Mesh hakkında derin rakip analizi · hedef liste oluşturma
 
-2. **Kurumsal Likidite + RWA**
+### Neler yapacaksın
 
-* Tokenize edilmiş hisse ve RWA ihraçcı katılımını (xStocks/Backed Finance/Ondo/Robinhood), piyasa yapıcı katılımını (Wintermute, Jump, GSR) ve PancakeSwap X RFQ dağıtımını Kraken, Bybit, OKX'e sahiplen.&#x20;
-* PropAMM kurumsal hattını oluştur. Birincil metrik: PancakeSwap X aylık işlem hacmi, dahil edilen RWA ihraçcısı sayısı.
-* **Şu an acil:** BNB + Base'de xStocks havuzları · Backed Finance / Kraken ortaklığı
+* Tüm ortaklık yaşam döngüsünü sahiplen: kaynak bulma, müzakere, entegrasyon ve süregelen sağlık metrikleri.
+* CEO'ya pipeline durumu ve birim KPI'ları hakkında haftalık rapor ver; engelleri yalnızca sorun olarak değil, önerilen çözümlerle birlikte bildir.
+* Pipeline çakışmalarını ortaya çıkarmak ve ortak yaklaşımları koordine etmek için haftalık birimler arası BD senkronuna katıl.
+* Biriminin alanına özgü sürekli rakip istihbaratı yürüt; bulguları uygulanabilir farklılaşmaya dönüştür.
+* Birim olgunlaştıkça, altında küçük bir BD yöneticisi ekibi kur ve onlara mentorluk yap.
 
+### Ne arıyoruz
 
+#### Gerekli
 
-3. **Yeni Ürün Dağıtımı**
-
-* Cüzdanlar (OKX, Binance, MetaMask, Trust) ve DeFi protokolleri (Aave, Venus, Morpho) için varsayılan toplayıcı API olarak 1inch'in yerini al.&#x20;
-* Gelir paylaşımı programı tasarımını, beyaz etiket API paketlemeyi ve rakip geçiş analizini sahiplen. İkincil: perp kurumsal katılımı (\~rolün %20'si).&#x20;
-* Birincil metrik: çeyrek başına sevk edilen API entegrasyonları, aylık toplayıcı yönlendirilen hacim.
-* **Şu an acil:** 1inch, LiFi, Liquid Mesh'in derinlemesine rakip analizi · hedef liste oluşturma
-
-### Ne Yapacaksın
-
-* Tam ortaklık döngüsünü sahiplen: kaynak bulma, müzakere, entegrasyon ve süregelen sağlık metrikleri\
-  Hat durumu ve bölüm KPI'ları hakkında CEO'ya haftalık rapor ver; engelleri yalnızca sorun olarak değil, önerilen çözümlerle birlikte bildir
-* Bölümler arası haftalık İş Geliştirme senkronizasyonuna katılarak hat örtüşmelerini ortaya çıkar ve ortak yaklaşımları koordine et
-* Bölümünün alanına özgü süregelen rakip istihbaratı yürüt; bulguları uygulanabilir farklılaştırma stratejilerine dönüştür
-* Bölüm olgunlaştıkça altında küçük bir İş Geliştirme müdürleri ekibi oluştur ve onlara mentorluk yap
-
-### Aradığımız Kişi
-
-**Zorunlu**
-
-* DeFi, kripto veya fintech alanında İş Geliştirme, ortaklık veya büyüme konusunda 3+ yıl deneyim — yalnızca hat değil, imzalanmış anlaşmalar içeren bir sicil
-* Sayısal düşünce yapısı: zincir üstü verileri, TVL/hacim gösterge tablolarını okuyabilen ve ilk ilkelerden kendi KPI hedeflerini belirleyebilen biri
-* Hedef bölümünün alanında güçlü mevcut ağ (AMM projeleri / kurumsal/RWA ihraçcıları / cüzdan veya protokol ekosistemi ekipleri)
-* Özerk ve yapılandırılmış: sıfır el tutuşturma ile birden fazla paralel anlaşmayı yönetebilen ve engelleri erkenden iletebilen biri
+* DeFi, kripto veya fintech alanında 3+ yıllık BD, ortaklık veya büyüme deneyimi; yalnızca pipeline değil, imzalanmış anlaşmalara dair bir geçmiş
+* Nicel düşünce yapısı: on-chain verileri, TVL/hacim dashboard'larını okumada rahat ve kendi KPI hedeflerini ilk prensiplerden belirleyebilen
+* Hedef birimin alanında güçlü mevcut bir ağ (AMM projeleri / kurumsal/RWA ihraççıları / cüzdan veya protokol ekosistemi ekipleri)
+* Özerk ve düzenli: birden fazla paralel anlaşmayı elinden tutulmaya gerek kalmadan yönetebilen ve engelleri erkenden iletebilen
 * Sahiplenme zihniyeti
 
-**Artı Olacaklar**
+#### Tercih sebebi
 
-* Bir DEX, AMM, toplayıcı veya RWA platformunda önceki deneyim
-* Akıllı sözleşme etkileşimlerini okuyabilme veya Dune gösterge tablolarını bağımsız olarak yorumlayabilme
-* Sıfırdan bir İş Geliştirme ekibi kurma veya yönetme deneyimi
+* Daha önce bir DEX, AMM, aggregator veya RWA platformunda deneyim
+* Akıllı sözleşme etkileşimlerini okuyabilme veya Dune dashboard'larını bağımsız olarak yorumlayabilme
+* Sıfırdan bir BD ekibi kurma veya yönetme deneyimi
 
+### Nasıl başvurulur
 
-
-**Nasıl Başvurulur:** Özgeçmişini hiring@pancakeswap.com adresine at, senden haber almak isteriz!
+Özgeçmişini hiring@pancakeswap.com adresine gönder, seni dinlemek isteriz!

@@ -74,6 +74,6 @@ Her hafta dağıtılan ödül potunun yüzde sekizi (%8) yakma ücreti olarak al
 
 ## **Katılmaya Hazır mısın?**
 
-Ürün yapısını, riskleri ve ücretleri anladıysan — PancakeSwap web arayüzünden [nasıl katılacağına](https://docs.pancakeswap.finance/products/pottery/how-to-play-pottery) ve diğer [Pottery SSS'lerine](https://docs.pancakeswap.finance/products/pottery/pottery-faq) göz at!
+Ürün yapısını, riskleri ve ücretleri anladıysan — PancakeSwap web arayüzünden [nasıl katılacağına](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery/how-to-play-pottery) ve diğer [Pottery SSS'lerine](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery/pottery-faq) göz at!
 
 

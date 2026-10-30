@@ -1,12 +1,12 @@
-# 🏦 StableSwap
+# 🏦 Stableswap
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/en-stableswap.png" alt=""><figcaption></figcaption></figure>
 
-PancakeSwap'taki StableSwap, değişmez bir eğri Kayma fonksiyonuna dayanan daha düşük Kayma ile kararlı çiftleri takas etmek için kullanılan bir özelliktir. Birbirine yakın fiyatlandırılmış belirli varlıkları — USD kararlı coinleri (ör. HAY, BUSD ve USDT) veya likit staking tokenları (ör. stkBNB ve BNBx) — takas etmek için tasarlanmıştır.
+PancakeSwap'teki StableSwap, değişmez eğri kayma fonksiyonuna dayalı olarak stabil çiftleri daha düşük kayma ile trade etmeni sağlayan bir özelliktir. Fiyatları birbirine yakın olan belirli varlıkları swap etmek için tasarlanmıştır; örneğin USD stablecoin'leri (ör. HAY, BUSD ve USDT) veya likit staking token'ları (ör. stkBNB ve BNBx).
 
 
 
-PancakeSwap şu anda iki StableSwap modeli sunmaktadır: [**Infinity StableSwap**](https://docs.pancakeswap.finance/~/revisions/4JQRJCuMPHEJgYdxdVME/trade/stableswap/infinity-stableswap) ve [**Classic StableSwap**](https://docs.pancakeswap.finance/~/revisions/4JQRJCuMPHEJgYdxdVME/trade/stableswap/classic-stableswap). Infinity StableSwap, PancakeSwap'ın en yeni Infinity mimarisi üzerine inşa edilmiş olup geliştirilmiş esneklik, verimlilik ve gelecekteki genişletilebilirlik sunar. Classic StableSwap ise mevcut havuzları ve likiditeyi desteklemeye devam eden orijinal StableSwap uygulamasını ifade eder.
+PancakeSwap şu anda iki StableSwap modeli sunuyor: [**Infinity StableSwap**](infinity-stableswap.md) ve [**Classic StableSwap**](classic-stableswap.md). Infinity StableSwap, PancakeSwap'in en son Infinity mimarisi üzerine inşa edilmiştir ve daha iyi esneklik, verimlilik ve gelecekteki genişletilebilirlik sunar. Classic StableSwap, mevcut havuzları ve likiditeyi desteklemeye devam eden orijinal StableSwap uygulamasını ifade eder.
 
 
 

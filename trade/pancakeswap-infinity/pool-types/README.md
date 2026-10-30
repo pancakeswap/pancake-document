@@ -1,10 +1,10 @@
-# Havuz Türleri
+# Pool Types
 
-**PancakeSwap Infinity**, özel **Havuz Yöneticileri** tarafından desteklenen modüler bir mimariye sahiptir. Her havuz türü, farklı fiyatlandırma eğrilerine, likidite davranışına ve hook'lar aracılığıyla genişletilebilirliğe olanak tanıyan kendi mantık sözleşmesiyle yönetilir.
+**PancakeSwap Infinity**, özelleşmiş **Pool Manager**'lar tarafından desteklenen modüler bir mimariye sahiptir. Her havuz türü, farklı fiyatlama eğrilerini, likidite davranışını ve hook'lar aracılığıyla genişletilebilirliği mümkün kılan kendi mantık sözleşmesi tarafından yönetilir.
 
 
 
-Infinity şu anda aşağıdaki havuz türlerini desteklemektedir:
+Infinity şu anda aşağıdaki havuz türlerini destekler:
 
-* [Infinity CLAMM & LBAMM](https://docs.pancakeswap.finance/~/revisions/dR1OpdERU6eEn0BRwIs6/trade/pancakeswap-infinity/pool-types/infinity-clamm-and-lbamm)
-* [Infinity StableSwap](https://docs.pancakeswap.finance/~/revisions/dR1OpdERU6eEn0BRwIs6/trade/stableswap/infinity-stableswap)
+* [Infinity CLAMM & LBAMM](infinity-clamm-and-lbamm.md)
+* [Infinity StableSwap](../../stableswap/infinity-stableswap.md)

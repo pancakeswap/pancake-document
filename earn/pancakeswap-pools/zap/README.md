@@ -10,7 +10,7 @@ Zap, kolayca likidite eklemenizi sağlayan bir özelliktir. Zap ile havuzda gere
 
 ### Desteklenen Zincirler
 
-* v3 - BNB Chain'deki tüm havuzlar, Ethereum ve Arbitrum ağlarında seçili havuzlar
+* v3 - BNB Chain ve Robinhood Chain'deki tüm havuzlar, Ethereum ve Arbitrum ağlarında seçili havuzlar
 * Infinity - BNB Chain'deki tüm CLAMM havuzları (hook'suz)
 
 ### Nasıl Kullanılır <a href="#id-438fff0f-f1da-4147-9fe3-6dc1dc2ef352" id="id-438fff0f-f1da-4147-9fe3-6dc1dc2ef352"></a>

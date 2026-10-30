@@ -1,16 +1,9 @@
 # 🤙 Bize Ulaş
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/contact-us-header.png)
+_Ekosistem ve ortaklık talepleri için TG kullanıcı adı: @PancakeSwapBD_
 
-## İş Birlikleri
+### [Token Listeleme](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/business-partnerships/commonly-asked-business-partnerships-questions)
 
-### [Token Listele](https://docs.pancakeswap.finance/ecosystem-and-partnerships/business-partnerships/commonly-asked-business-partnerships-questions#listing-on-the-exchange)
+### [Yield Farm veya Syrup Pool için Başvur](business-partnerships/syrup-pools.md)
 
-### [Yield Farm veya Syrup Pool Başvurusu Yap](business-partnerships/syrup-pools.md)
-
-### [IFO (Token Satışı) Başvurusu Yap](business-partnerships/initial-farm-offerings-ifos.md)
-
-### [NFT Market Başvurusu Yap](/broken/pages/DmdIaEZd9prcJiQqgZJU)
-
-
-
+### [IFO (Token Satışı) için Başvur](business-partnerships/initial-farm-offerings-ifos.md)

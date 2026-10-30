@@ -6,7 +6,7 @@
 
 ## Zaten Lottery v2 varken Pottery'ye neden ihtiyacımız var?
 
-Pottery, Lottery v2 ile kıyaslandığında tamamen farklı bir üründür. Gerçek ve güvenli rastlantısallık için Chainlink'in VRF uygulamasını kullanan kilitli CAKE havuzu ile piyango işlevinin bir kombinasyonudur. Pottery'ye katılarak yatırdığın CAKE'lerin hiçbirini kaybetmeyeceksin; yalnızca yatırdığın CAKE'in Staking ödüllerini riske atmış olursun. Bu ürün, bu tür bir ürüne katılmak isteyen ancak daha düşük risk toleransına sahip CAKE tutanlar için tasarlandı. Biraz CAKE kazanma şansı için kolay, eğlenceli ve güvenli bir yoldur. [Ürün yapısı hakkında daha fazla bilgi edin](https://docs.pancakeswap.finance/products/pottery).
+Pottery, Lottery v2 ile kıyaslandığında tamamen farklı bir üründür. Gerçek ve güvenli rastlantısallık için Chainlink'in VRF uygulamasını kullanan kilitli CAKE havuzu ile piyango işlevinin bir kombinasyonudur. Pottery'ye katılarak yatırdığın CAKE'lerin hiçbirini kaybetmeyeceksin; yalnızca yatırdığın CAKE'in Staking ödüllerini riske atmış olursun. Bu ürün, bu tür bir ürüne katılmak isteyen ancak daha düşük risk toleransına sahip CAKE tutanlar için tasarlandı. Biraz CAKE kazanma şansı için kolay, eğlenceli ve güvenli bir yoldur. [Ürün yapısı hakkında daha fazla bilgi edin](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery).
 
 ## Pottery, orijinal Lottery v2'nin yerine mi geçiyor?
 
@@ -34,11 +34,11 @@ Subgraph okuma nedeniyle zaman zaman küçük gecikmeler yaşanabilir; gecikmele
 
 ## Haftalık çekilişte kazanıp kazanmadığımı nasıl öğrenebilirim?
 
-Her Cuma öğlen UTC civarındaki çekilişin ardından Tamamlanan Turlar panelinde sonuçları ve kazananları görüntüleyebilirsin. Haftalık çekilişlerin herhangi birinde kazanıp kazanmadığını kontrol etmenin başka bir yolu da Talep panelini kontrol ederek talep edilecek ödül olup olmadığını görmektir. [Nasıl katılacağına ilişkin bu sayfayı incele](https://docs.pancakeswap.finance/products/pottery/how-to-play-pottery)!
+Her Cuma öğlen UTC civarındaki çekilişin ardından Tamamlanan Turlar panelinde sonuçları ve kazananları görüntüleyebilirsin. Haftalık çekilişlerin herhangi birinde kazanıp kazanmadığını kontrol etmenin başka bir yolu da Talep panelini kontrol ederek talep edilecek ödül olup olmadığını görmektir. [Nasıl katılacağına ilişkin bu sayfayı incele](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery/how-to-play-pottery)!
 
 ## Ödülün finansman kaynağı nedir?
 
-Ödül havuzları, yatırımların Staking ödülleriyle finanse edilir. Ancak kilit Staking havuzunun CAKE Staking ödülleri yalnızca kilit süresi — bu durumda 10 hafta — geçtikten sonra dağıtıldığından, daha iyi ürün deneyimi için ve haftalık çekilişleri yatırım tarihinin hemen ardından kolaylaştırmak amacıyla sözleşme, kilit anındaki APR'ye göre hazineden kohortun tahmini toplam Staking ödüllerinin %80'ini borç alıyor. Ödünç alınan CAKE, her haftalık çekilişin ödemesinde kullanılır. [Ürün yapısı hakkında daha fazla bilgi edin](https://docs.pancakeswap.finance/products/pottery)!
+Ödül havuzları, yatırımların Staking ödülleriyle finanse edilir. Ancak kilit Staking havuzunun CAKE Staking ödülleri yalnızca kilit süresi — bu durumda 10 hafta — geçtikten sonra dağıtıldığından, daha iyi ürün deneyimi için ve haftalık çekilişleri yatırım tarihinin hemen ardından kolaylaştırmak amacıyla sözleşme, kilit anındaki APR'ye göre hazineden kohortun tahmini toplam Staking ödüllerinin %80'ini borç alıyor. Ödünç alınan CAKE, her haftalık çekilişin ödemesinde kullanılır. [Ürün yapısı hakkında daha fazla bilgi edin](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery)!
 
 ## Kazanırsam ödülü manuel olarak talep etmem gerekiyor mu?
 

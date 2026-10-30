@@ -147,7 +147,7 @@ Kazançlarını doğrudan sözleşmeden talep edebilirsin. Aşağıdaki 3 sekmed
 {% tab title="Check rounds you played" %}
 Oynadığın turların geçmişini nasıl kontrol edersin
 
-1. [Tahmin sözleşmesinin](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) BscScan sayfasına git (örn. BNBUSD).
+1. [Tahmin sözleşmesinin](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract) BscScan sayfasına git (örn. BNBUSD).
 2. "8. getUserRounds" bölümüne kaydır.
 3. "user(address)" altına cüzdan adresini yaz.
 4. "cursor(uint256)" değerini 0, "size(uint256)" değerini 1000 olarak ayarla.
@@ -158,7 +158,7 @@ Oynadığın turların geçmişini nasıl kontrol edersin
 {% tab title="Check if you can claim" %}
 Önce, oynadığın turdan gerçekten talep edebilip edemeyeceğini kontrol et.
 
-1. [Tahmin sözleşmesinin](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) BscScan sayfasına git (örn. BNBUSD) ve Okuma sekmesine git
+1. [Tahmin sözleşmesinin](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract) BscScan sayfasına git (örn. BNBUSD) ve Okuma sekmesine git
 2. "4. claimable" bölümüne kaydır.
 3. Kontrol etmek istediğin tur kimliğini "epoch(uint256)" altına yaz.
 4. Cüzdan adresini "user(address)" altına yaz.
@@ -171,7 +171,7 @@ Oynadığın turların geçmişini nasıl kontrol edersin
 {% tab title="Claim from a round" %}
 Talep etme yöntemi
 
-1. [Tahmin sözleşmesinin](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) BscScan sayfasına git (örn. BNBUSD) ve Yazma sekmesine git
+1. [Tahmin sözleşmesinin](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract) BscScan sayfasına git (örn. BNBUSD) ve Yazma sekmesine git
 2. "🔴 Connect to Web3"e tıkla
 3. Bağlanmak için MetaMask veya WalletConnect kullan.
 4. "3. claim" bölümüne kaydır

@@ -70,7 +70,7 @@ Dinamik ücretler maksimum esneklik sunar ve hem LP'ler hem de Swap yapanlar iç
 | ---------------- | ------------------- |
 | %1               | %0,33               |
 | %2               | %0,4 (sınırlı)      |
-| Dinamik Ücretli Havuz | %0               |
+| Dinamik Ücretli Havuz | %0,03 (mevcut varsayılan) |
 
 #### 🛠️ Havuz Oluşturucular için Kurulum Notları
 

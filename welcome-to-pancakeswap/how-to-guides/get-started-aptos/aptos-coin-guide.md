@@ -1,7 +1,5 @@
 # Aptos Coin Al
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-get-aptos-coins-header.png)
-
 {% hint style="info" %}
 Bu rehber, ana akım tokenlar için önemli Aptos köprüleme hizmetlerini kapsamaktadır. CAKE'i Aptos ile BNB Smart Chain arasında köprülemek için [PancakeSwap Aptos Bridge](https://bridge.pancakeswap.finance/aptos) kullanabilirsin.
 {% endhint %}
@@ -49,7 +47,7 @@ CAKE tokenini Aptos ile BNB Smart Chain arasında köprülemek için [PancakeSwa
 {% tab title="💰 Binance.com" %}
 [**Binance.com**](https://www.binance.com/en/)
 
-* Binance hesabın üzerinden Aptos Chain'de Aptos Coin (APT) çekebilirsin.&#x20;
+* Binance hesabın üzerinden Aptos Chain'de Aptos Coin (APT) çekebilirsin.
 * **⚠️ Şu an yalnızca Aptos Coin (APT) desteklenmektedir. Diğer varlıkları köprülemek için yukarıdaki mevcut köprüleme seçeneklerine bakabilirsin.**
 * **⚠️ Bu işlem için bir hesaba ihtiyacın var.**
 

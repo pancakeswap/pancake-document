@@ -1,26 +1,30 @@
-# Ürün Müdürü
+---
+hidden: true
+---
 
-**İş Genel Bakış:**
+# Product Manager
 
-Ekibimize katılacak dinamik bir Ürün Müdürü arıyoruz. Bu rolde, kullanıcı deneyimini geliştiren ve büyümeyi yönlendiren ürün stratejilerini tanımlama, geliştirme ve hayata geçirmekten sorumlu olacaksın. Ürünlerimizin başarılı lansmanını ve süregelen iyileştirilmesini sağlamak için mühendislik, tasarım, pazarlama ve topluluk dahil çapraz fonksiyonlu ekiplerle yakın çalışacaksın.
+**İş Özeti:**
+
+Ekibimize katılacak dinamik bir Product Manager arıyoruz. Bu rolde, kullanıcı deneyimini iyileştiren ve büyümeyi destekleyen ürün stratejilerini tanımlamak, geliştirmek ve uygulamaktan sorumlu olacaksın. Ürünlerimizin başarılı şekilde lansmanını ve sürekli iyileştirilmesini sağlamak için mühendislik, tasarım, pazarlama ve topluluk dahil farklı fonksiyonlardan ekiplerle yakın çalışacaksın.
 
 **Temel Sorumluluklar:**
 
-* **Ürün Stratejisi:** Şirketin hedefleriyle örtüşen ürün vizyonunu, stratejisini ve yol haritasını tanımla ve ilet.
-* **Pazar Araştırması:** Trendleri, müşteri ihtiyaçlarını ve yenilik fırsatlarını belirlemek için rekabet analizi ve kullanıcı araştırması yap.
-* **İş Birliği:** Yüksek kaliteli ürünleri zamanında sunmak için mühendislik ve tasarım ekipleriyle yakın çalış. Uyumu sağlamak için ekipler arasındaki iletişimi kolaylaştır.
-* **Kullanıcı Odaklı Tasarım:** Ürün geliştirmeye kullanıcı geri bildirimlerini ve kullanılabilirlik testlerini dahil ederek kullanıcı deneyimini savun.
-* **Performans Metrikleri:** Ürün başarısını ölçmek ve karar vermeyi bilgilendirmek için temel performans göstergelerini (KPI) belirle ve takip et.
-* **Paydaş Etkileşimi:** Pazara giriş stratejileri geliştirmek ve ürün benimsenmesini sağlamak için pazarlama ve topluluk ekipleriyle iş birliği yap.
-* **Sürekli İyileştirme:** Ürün performansını izle ve kullanıcı geri bildirimlerine ve pazar trendlerine göre iyileştir.
+* **Ürün Stratejisi:** Şirketin hedefleriyle uyumlu ürün vizyonunu, stratejisini ve yol haritasını tanımla ve ilet.
+* **Pazar Araştırması:** Trendleri, müşteri ihtiyaçlarını ve inovasyon fırsatlarını belirlemek için rekabet analizi ve kullanıcı araştırması yap.
+* **İş Birliği:** Yüksek kaliteli ürünleri zamanında teslim etmek için mühendislik ve tasarım ekipleriyle yakın çalış. Uyumu sağlamak için ekipler arası iletişimi kolaylaştır.
+* **Kullanıcı Odaklı Tasarım:** Kullanıcı geri bildirimlerini ve kullanılabilirlik testlerini ürün geliştirmeye dahil ederek kullanıcı deneyiminin savunucusu ol.
+* **Performans Metrikleri:** Ürün başarısını ölçmek ve karar vermeyi desteklemek için temel performans göstergelerini (KPI) belirle ve takip et.
+* **Paydaş Yönetimi:** Pazara çıkış stratejileri geliştirmek ve ürünün benimsenmesini sağlamak için pazarlama ve topluluk ekipleriyle iş birliği yap.
+* **Sürekli İyileştirme:** Ürün performansını izle ve kullanıcı geri bildirimlerine ve piyasa trendlerine göre iterasyon yap.
 
 **Nitelikler:**
 
-* Tercihen blokzincir ve DeFi fintech alanında ürün yönetiminde 2+ yıl deneyim.
-* DeFi kavramları, kripto para piyasaları, merkeziyetsiz uygulamalar ve akıllı sözleşmeler hakkında güçlü anlayış
-* Ürün yönetimi araçlarında (ör. Jira, Trello) ve analitik platformlarda (ör. Google Analytics, Mixpanel) yeterlilik.
-* Blokzincir teknolojisine tutku ve kripto alanındaki gelişen trendlere güçlü ilgi.
+* Ürün yönetiminde 2+ yıl deneyim, tercihen blockchain ve DeFi fintech alanında.
+* DeFi kavramlarını, kripto para piyasalarını, merkeziyetsiz uygulamaları ve akıllı kontratları güçlü şekilde anlamak.
+* Ürün yönetimi araçlarında (ör. Jira, Trello) ve analitik platformlarında (ör. Google Analytics, Mixpanel) yetkinlik.
+* Blockchain teknolojisine tutku ve kripto alanındaki yeni trendlere yoğun ilgi.
 
 
 
-**Nasıl Başvurulur:** Özgeçmişini hiring@pancakeswap.com adresine at, senden haber almak isteriz!
+**Nasıl Başvurulur:** Özgeçmişini hiring@pancakeswap.com adresine gönder, senden haber almayı çok isteriz!

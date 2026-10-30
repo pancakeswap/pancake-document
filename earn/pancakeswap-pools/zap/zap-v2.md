@@ -29,7 +29,7 @@ Not: Şu anda Zap özelliği beta sürümündedir. Transfer sırasında ücret a
 
 [Likidite sayfasını](https://pancakeswap.finance/liquidity) ziyaret et ve "Likidite Ekle"yi seç.
 
-İki giriş token'ı seçerek likidite sağlamak istediğin işlem çiftini seç; daha fazla bilgi için [Likidite kılavuzuna](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide) göz at.
+İki giriş token'ı seçerek likidite sağlamak istediğin işlem çiftini seç; daha fazla bilgi için [Likidite kılavuzuna](https://docs.pancakeswap.finance/earn/pancakeswap-pools/liquidity-guide) göz at.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-1.png)
 

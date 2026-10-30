@@ -1,7 +1,5 @@
 # Cüzdanını PancakeSwap'a Bağla
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-connect-wallet-header.png)
-
 ## Cüzdanını bağla
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/wallet-connection-aptos.png" alt=""><figcaption></figcaption></figure>
@@ -16,7 +14,7 @@
 
 ## **Aptos Mainnet'e Bağlan**
 
-Aptos'un birden fazla ağı vardır; çeşitli devnet ve testnet'ler bunlar arasında sayılabilir. Ancak Aptos Chain'de PancakeSwap'ı kullanabilmek için cüzdanının **Aptos Mainnet**'e bağlı olduğundan emin ol.&#x20;
+Aptos'un birden fazla ağı vardır; çeşitli devnet ve testnet'ler bunlar arasında sayılabilir. Ancak Aptos Chain'de PancakeSwap'ı kullanabilmek için cüzdanının **Aptos Mainnet**'e bağlı olduğundan emin ol.
 
 İşte nasıl yapacağın:
 

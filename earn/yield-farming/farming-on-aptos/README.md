@@ -10,7 +10,7 @@ description: Aptos'ta farming yaparak aynı lezzetli CAKE ödüllerini kazan
 
 Yield farming hakkında daha fazla bilgi için [ana bölüme](../) göz at.
 
-Ürün deneyimini farklı blok zincirler arasında tutarlı tutacak şekilde tasarladık. Bu nedenle BSC'de mevsim farming kullanıcısıysan, Aptos'ta farming yaparken kendin gibi hissedeceksin. Likidite farming'e yeniysen başlamak için [Farm Nasıl Kullanılır rehberimize](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) göz at.
+Ürün deneyimini farklı blok zincirler arasında tutarlı tutacak şekilde tasarladık. Bu nedenle BSC'de mevsim farming kullanıcısıysan, Aptos'ta farming yaparken kendin gibi hissedeceksin. Likidite farming'e yeniysen başlamak için [Farm Nasıl Kullanılır rehberimize](https://docs.pancakeswap.finance/earn/yield-farming/how-to-use-farms/how-to-use-farms) göz at.
 
 Varlıklarını ve CAKE'ini BSC ile Aptos arasında nasıl Bridge'leyeceğini öğrenmek için [CAKE Köprüleme Rehberine](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos/cake-bridging-guide.md) göz at.
 

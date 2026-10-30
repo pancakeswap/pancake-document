@@ -6,9 +6,9 @@ PancakeSwap üzerinde işlem yapmak, çoğu borsaya kıyasla oldukça kolaydır.
 
 **İşlem yapmaya hazırlanma**
 
-İşlem yapabilmek için BNB Chain veya Ethereum ile uyumlu bir cüzdana ihtiyacın olacak. Nasıl edinebileceğini [buradan](https://docs.pancakeswap.finance/get-started/wallet-guide) öğrenebilirsin. Ayrıca işlem yapmak için bazı BEP-20 veya ERC-20 token'larına sahip olman gerekecek. Nasıl edinebileceğini [buradan](https://docs.pancakeswap.finance/get-started/bep20-guide) öğrenebilirsin.
+İşlem yapabilmek için BNB Chain veya Ethereum ile uyumlu bir cüzdana ihtiyacın olacak. Nasıl edinebileceğini [buradan](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/wallet-guide) öğrenebilirsin. Ayrıca işlem yapmak için bazı BEP-20 veya ERC-20 token'larına sahip olman gerekecek. Nasıl edinebileceğini [buradan](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/bep20-guide) öğrenebilirsin.
 
-Alternatif olarak, Aptos uyumlu bir cüzdanı nasıl edinebileceğini [buradan](https://docs.pancakeswap.finance/get-started-aptos/wallet-guide) ve Aptos üzerinde Swap yapabileceğin bazı Aptos coinlerini nasıl alabileceğini [buradan](https://docs.pancakeswap.finance/get-started-aptos/aptos-coin-guide) öğrenebilirsin.
+Alternatif olarak, Aptos uyumlu bir cüzdanı nasıl edinebileceğini [buradan](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-aptos/wallet-guide) ve Aptos üzerinde Swap yapabileceğin bazı Aptos coinlerini nasıl alabileceğini [buradan](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-aptos/aptos-coin-guide) öğrenebilirsin.
 
 ## PancakeSwap exchange üzerinde işlem yapma
 
@@ -64,7 +64,7 @@ Smart Router artık PancakeSwap Exchange V3 için varsayılan rotadır. Ancak ku
 
 İşlem rotalarını nasıl özelleştirebileceğin hakkında daha fazla bilgi edinmek için [buraya tıkla](fees-and-routes.md).&#x20;
 
-StableSwap hakkında daha fazla bilgi için [buraya tıkla](/broken/pages/nNPogTZMxocdyFIBYbkE) ve Piyasa Yapıcı entegrasyonu hakkında daha fazla bilgi için [buraya tıkla](market-maker-integration.md).
+StableSwap hakkında daha fazla bilgi için [buraya tıkla](../stableswap/classic-stableswap.md) ve Piyasa Yapıcı entegrasyonu hakkında daha fazla bilgi için [buraya tıkla](market-maker-integration.md).
 
 ## SSS
 

@@ -1,7 +1,3 @@
----
-description: '"Buna yol haritası deme"'
----
-
 # 🗺️ Yol Haritası
 
 _1 Haziran 2026 tarihinde güncellendi_

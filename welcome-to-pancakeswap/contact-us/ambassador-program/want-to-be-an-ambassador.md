@@ -1,32 +1,22 @@
-# Elçi Olmak İster misin?
+# Ambassador Olmak İster misin?
 
-DeFi konusunda tutkulusanız ve başkalarını eğitip ilham verme konusunda gerekli niteliklere sahip olduğunu düşünüyorsan, bu senin fırsatın!&#x20;
+DeFi konusunda tutkuluysan ve başkalarını eğitip ilham verecek yetkinliğe sahip olduğuna inanıyorsan, bu senin şansın!
 
-**Elçi Programımızı kilit bölgelere genişletiyoruz** ve PancakeSwap deneyimini geniş kitlelere taşımak için buluşmalar, atölyeler ve etkinlikler düzenleyecek yerel liderler arıyoruz. Yerel toplulukları güçlendirmemize ve DeFi eğitimini bir üst seviyeye taşımamıza yardım et — bir etkinlik, bir bağlantı.
+**Ambassador Programımızı önemli bölgelere genişletiyoruz** ve PancakeSwap deneyimini geniş kitlelere ulaştırmak için buluşmalar, atölyeler ve etkinlikler düzenleyecek yerel liderlere ihtiyacımız var. Yerel toplulukları güçlendirmemize ve DeFi eğitimini bir sonraki seviyeye taşımamıza yardım et; her seferinde bir etkinlik, bir bağlantıyla.
 
-### **Elçi Aradığımız Bölgeler ve Görevler**
+### **Nerelerde Ambassador'a İhtiyacımız Var ve Neler Yapacaksın**
 
-PancakeSwap deneyimini hayata geçirmek ve yerel düzeyde DeFi eğitimini yaygınlaştırmak için kilit bölgelerde tutkulu Elçiler arıyoruz. Bu bölgelerden birinde yaşıyorsan ve bu meydan okumayı üstlenmeye hazırsan, senden haber almak istiyoruz:
-
-* **Japonya** 🇯🇵
-* **Tayland** 🇹🇭
-* **Tayvan** 🇹🇼
-
-_Son Güncelleme: 10 Mart 2025_
+PancakeSwap deneyimini hayata geçirmeye ve yerel düzeyde DeFi eğitimini yönlendirmeye yardımcı olacak, önemli bölgelerdeki tutkulu Ambassador'ları arıyoruz. Bu meydan okumayı üstlenmeye hevesliysen, senden haber almak isteriz.&#x20;
 
 ### **Başvuru Gereksinimleri**
 
-Aşağıdaki özelliklere sahip Elçiler arıyoruz:
+Şu özelliklere sahip Ambassador'lar arıyoruz:
 
-* Başvurduğun bölgenin **İngilizcesinde** ve **yerel dilinde** akıcı, yazılı ve sözlü iletişimde **iş düzeyi yeterliliğe** sahip.
-* PancakeSwap, DeFi ve topluluk oluşturma konularında güçlü bir anlayışa sahip.
-* Etkinlik düzenleme konusunda proaktif, güvenilir ve tutkulu.
-* Yerel toplulukları harekete geçirmek, ilham vermek ve büyütmek için mükemmel iletişim ve liderlik becerilerine sahip.
+* Başvurduğun bölgenin **İngilizcesine** ve **ana diline** akıcı biçimde hâkim olan, yazılı ve sözlü iletişimde **iş seviyesinde yeterliliğe** sahip olanlar.
+* PancakeSwap, DeFi ve topluluk oluşturma konusunda güçlü bir anlayışa sahip olanlar.
+* Proaktif, güvenilir ve etkinlik organize etme konusunda tutkulu olanlar.
+* Yerel toplulukları harekete geçirmek, ilham vermek ve büyütmek için mükemmel iletişim ve liderlik becerilerine sahip olanlar.
 
-### **Başvuru ve Seçim Takvimi**
+### **Nasıl Başvurulur ve Seçim Takvimi**
 
-PancakeSwap Elçisi olmaya hazır mısın? Başvurmak için şu adımları izle:
-
-1. **Başvuru Formunu Doldur:**  [https://forms.gle/aqK61GiL1QjU7Tqb8](https://forms.gle/aqK61GiL1QjU7Tqb8)
-2. **Mülakata Hazırlan**: Ön elemeden geçersen, iletişim becerilerini ve PancakeSwap bilgini değerlendirmek için bir video mülakatı planlarız.
-3. **Programa Kabul Edilirsen:** İlk yerel etkinliğini planlamana yardımcı olacak katılım materyalleri ve destek alacaksın.
+PancakeSwap Ambassador'ı olmak mı istiyorsun? X, Discord veya Telegram'daki kanallarımızdan bize ulaş.&#x20;

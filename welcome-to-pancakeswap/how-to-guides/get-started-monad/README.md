@@ -1,14 +1,12 @@
-# Başlarken (Monad)
+# Get Started (Monad)
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/get-started-header.png)
+Yeni bir şeyi kullanmak biraz zorlayıcı olabilir. Ama merak etme, Monad üzerinde PancakeSwap'e alışmana yardımcı olmak için bir dizi rehber hazırladık!
 
-Yeni bir şeyle başlamak biraz zorlayıcı olabilir. Ama merak etme, Monad'da PancakeSwap'ı rahatça kullanabilmen için bir dizi rehber hazırladık!
+## PancakeSwap'i Kurma
 
-## PancakeSwap'ı Kurma
+Monad üzerinde PancakeSwap'i kullanmaya başlamak için bu rehberleri izle ya da işlerin yolunda gitmesine rağmen yolunu kaybettiysen doğrudan ihtiyacın olan rehbere atla.
 
-Monad'da PancakeSwap'ı kullanmak için her şeyi ayarlamak amacıyla bu rehberleri takip et; ya da yolunu kaybettiysen doğrudan ihtiyacın olan rehbere atla.
+* [Create a wallet (MON)](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-monad/create-a-wallet-monad)
+* [Monad FAQ](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-monad/monad-faq)
 
-* [Cüzdan oluştur (MON)](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-monad/create-a-wallet-monad)
-* [Monad SSS](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-monad/monad-faq)
-
-İhtiyacın olanı bulamazsan, [PancakeSwap Telegram](../../contact-us/social-accounts.md) kanalımızı ziyaret etmekten çekinme ve orada yardım iste!
+İhtiyacın olanı bulamazsan [PancakeSwap Telegram](../../contact-us/social-accounts.md)'ı ziyaret edip oradan yardım isteyebilirsin!

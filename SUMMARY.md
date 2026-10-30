@@ -79,7 +79,9 @@
     * [Mutfak Ekibi](welcome-to-pancakeswap/about-us/team/the-kitchen-team.md)
     * [Şef Ol](welcome-to-pancakeswap/about-us/team/become-a-chef/README.md)
       * [İş Geliştirme Lideri](welcome-to-pancakeswap/about-us/team/become-a-chef/business-development-lead.md)
+      * [Kıdemli Tasarımcı](welcome-to-pancakeswap/about-us/team/become-a-chef/senior_designer.md)
       * [İş Geliştirme Müdürü (AMM)](welcome-to-pancakeswap/about-us/team/become-a-chef/business-development-lead-1.md)
+      * [İş Geliştirme Müdürü (Liquidity Hub)](welcome-to-pancakeswap/about-us/team/become-a-chef/business-development-lead-1-1.md)
       * [Topluluk Yöneticisi (CN)](welcome-to-pancakeswap/about-us/team/become-a-chef/community-manager-cn.md)
       * [Topluluk Yöneticisi](welcome-to-pancakeswap/about-us/team/become-a-chef/community-manager.md)
       * [Kıdemli Frontend Mühendisi](welcome-to-pancakeswap/about-us/team/become-a-chef/frontend-engineer.md)
@@ -91,6 +93,8 @@
       * [Pazarlama Müdürü (PR ve Etkinlikler)](welcome-to-pancakeswap/about-us/team/become-a-chef/marketing-manager-pr-and-events.md)
       * [Quant Geliştirici](welcome-to-pancakeswap/about-us/team/become-a-chef/quant-developer.md)
       * [Ürün Müdürü](welcome-to-pancakeswap/about-us/team/become-a-chef/product-manager.md)
+      * [Kıdemli Backend Geliştirici (DeFi)](<welcome-to-pancakeswap/about-us/team/become-a-chef/product-manager-1 (1).md>)
+      * [Ürün Pazarlama Müdürü](welcome-to-pancakeswap/about-us/team/become-a-chef/product-manager-2.md)
       * [Topluluk Lideri](welcome-to-pancakeswap/about-us/team/become-a-chef/community-lead.md)
       * [Solidity Mühendisi (Sözleşme)](welcome-to-pancakeswap/about-us/team/become-a-chef/solidity-engineer-contract.md)
       * [Frontend Mühendisi (Sözleşme)](welcome-to-pancakeswap/about-us/team/become-a-chef/frontend-engineer-contract.md)
@@ -102,6 +106,7 @@
       * [İş Geliştirme Müdürü](welcome-to-pancakeswap/about-us/team/become-a-chef/business-development-manager-1.md)
       * [Veri Analisti](welcome-to-pancakeswap/about-us/team/become-a-chef/data-analyst.md)
       * [Ürün Müdürü \[Tahmin Piyasaları\]](welcome-to-pancakeswap/about-us/team/become-a-chef/product-manager-prediction-markets.md)
+      * [Pazarlama Başkanı](welcome-to-pancakeswap/about-us/team/become-a-chef/head-of-marketing.md)
   * [Marka ve Logolar](welcome-to-pancakeswap/about-us/brand.md)
 
 ***
@@ -159,15 +164,18 @@
   * [Piyasa Yapıcı Entegrasyonu](trade/pancakeswap-exchange/market-maker-integration.md)
   * [Smart Router (V2)](trade/pancakeswap-exchange/smart-router-v2/README.md)
     * [Smart Router kullanarak nasıl trading yapılır](trade/pancakeswap-exchange/smart-router-v2/how-to-trade-using-smart-router.md)
+  * [Tokenized Stocks - Coğrafi Engelleme](trade/pancakeswap-exchange/tokenized-stocks-geo-block.md)
 * [🔀 Cross-chain Swap'lar](trade/crosschain-swaps/README.md)
   * [👉 Cross-chain Swap nasıl yapılır?](trade/crosschain-swaps/how-to-do-a-crosschain-swap.md)
   * [🔁 Swap Senaryoları](trade/crosschain-swaps/swap-scenarios.md)
-  * [🔁 Swap Senaryoları Kopyası](trade/crosschain-swaps/copy-of-swap-scenarios.md)
   * [❓ SSS](trade/crosschain-swaps/faq.md)
 * [♾️ PancakeSwap Infinity](trade/pancakeswap-infinity/README.md)
   * [Temel Özellikler](trade/pancakeswap-infinity/key-features.md)
   * [Hooks](trade/pancakeswap-infinity/hooks/README.md)
     * [Dinamik Ücret Hook'u](trade/pancakeswap-infinity/hooks/dynamic-fee-hook.md)
+    * [Shared Inventory Hook](trade/pancakeswap-infinity/hooks/shared-inventory-hook/README.md)
+      * [Shared Inventory Hook'a Giriş](trade/pancakeswap-infinity/hooks/shared-inventory-hook/introducing-shared-inventory-hook.md)
+      * [RWA Sermaye Verimsizliği ve Shared Inventory Bunu Nasıl Çözüyor](trade/pancakeswap-infinity/hooks/shared-inventory-hook/rwa-capital-inefficiency-and-how-shared-inventory-solves-for-it.md)
   * [Havuz Türleri](trade/pancakeswap-infinity/pool-types/README.md)
     * [Infinity CLAMM ve LBAMM](trade/pancakeswap-infinity/pool-types/infinity-clamm-and-lbamm.md)
     * [Infinity StableSwap](trade/pancakeswap-infinity/pool-types/infinity-stableswap.md)
@@ -263,6 +271,7 @@
     * [Gösterge Oylama SSS](earn/earn-faq/cake-staking-faq/gauges-voting-faq.md)
     * [Syrup Pool SSS ve Sorun Giderme](earn/earn-faq/cake-staking-faq/syrup-pool-faq.md)
     * [CAKE Syrup Pool SSS](earn/earn-faq/cake-staking-faq/cake-syrup-pool-faq.md)
+* [🍩 Dual Investment](earn/dual-investment.md)
 
 ## Oyna
 
@@ -295,6 +304,7 @@
   * [MEV Guard SSS](trading-tools/trading-tools-faq/mev-guard-faq.md)
 * [🤖 PancakeSwap V3 Üzerinde Trading Ajanları Geliştirme](trading-tools/building-trading-agents-on-pancakeswap-v3/README.md)
   * [Referans Ajan — Emir/Niyet Uzlaşma Ajanı](trading-tools/building-trading-agents-on-pancakeswap-v3/reference-agent-order-intents-settlement-agent.md)
+* [🧙 NFT Çekme](trading-tools/withdrawing-nft.md)
 
 ## Protokol
 

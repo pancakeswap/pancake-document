@@ -15,7 +15,7 @@ PancakeSwap Tahmin'i şuralarda oynayabilirsin:
 
 ### Özet: Nasıl Çalışır
 
-1. **Tahmin edeceğin varlığı seç**: Şu anda **BNB Chain**, **zkSync Era** ve **Arbitrum One** üzerinde kullanılabiliyor.
+1. **Tahmin edeceğin varlığı seç**: Şu anda **BNB Chain** üzerinde kullanılabiliyor; **zkSync Era** ve **Arbitrum One** üzerindeki piyasalar geçici olarak duraklatıldı.
 2. **YUKARI veya AŞAĞI seç**: Varlık fiyatının "CANLI" aşaması sona erdiğinde (her tur = 5 dakika) daha yüksek mi yoksa daha düşük mü olacağını tahmin et.
 3. Bahis miktarını belirle: Herhangi bir BNB miktarı
 4. **Pozisyonunu sabitle**: Yerleştirildikten sonra bahsin değiştirilemez.
@@ -25,7 +25,7 @@ PancakeSwap Tahmin'i şuralarda oynayabilirsin:
 
 ### Mekanikler ve Ücretler
 
-* **Desteklenen Zincirler: BNB Chain, zkSync Era, Arbitrum One**
+* **Desteklenen Zincirler: BNB Chain (aktif); zkSync Era, Arbitrum One (duraklatıldı)**
 * **Tur sıklığı**: Her **5 dakikada** bir (sürekli turlar).
 * **Katılım ücreti**: Her turun toplam ödül havuzunun **%3**'ü; bunun bir kısmı **CAKE geri alımlarına** gider.
 * **Kazançlar**: Sonuçlar kesinleştikten sonra istediğin zaman talep edebilirsin.

@@ -110,5 +110,5 @@ Vesting dönemi boyunca istediğin zaman CAKE.PAD etkinlik sayfasına geri döne
 
 Artık parlak yeni token'larına sahipsin; onları senin için çalıştırabilirsin! İşlem ücretleri ve farming almak için token'ın için likidite ekleyebilirsin.
 
-* Likidite ekleme hakkında [buradan](https://docs.pancakeswap.finance/get-started/liquidity-guide) oku.
+* Likidite ekleme hakkında [buradan](https://docs.pancakeswap.finance/earn/pancakeswap-pools/liquidity-guide) oku.
 * Farming hakkında [buradan](../yield-farming/) oku.

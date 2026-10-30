@@ -1,4 +1,6 @@
-# 🤖 BNB AI Agent Studio
+# 🤖 PancakeSwap V3 Üzerinde Trading Ajanları Oluşturma
+
+Bu sayfa genel bir bakış sunsa da daha fazla bilgi için lütfen [pancakeswap.ai](https://pancakeswap.ai) adresini ziyaret et
 
 > BNB Smart Chain üzerindeki PancakeSwap V3 likidite havuzları ve Farm'larla etkileşim kuran otonom ajanlar geliştiren geliştiriciler için bir rehber — [BNB Agent Studio](https://www.bnbchain.org/en/bnb-agent-studio) veya herhangi bir çerçeve kullanarak.
 >
@@ -8,7 +10,7 @@ Bunun çalışması için PancakeSwap **entegrasyon gerektirmez**. V3 havuzları
 
 ***
 
-### 1. Bir ajanın PancakeSwap'a karşı neler yapabileceği
+### 1. Bir ajanın PancakeSwap ile neler yapabileceği
 
 Yoğunlaştırılmış likidite (V3), LP'lere V2'ye kıyasla çok daha iyi sermaye verimliliği sağlar; ancak bunun bedeli aktif yönetimdir: Bir pozisyon yalnızca fiyat tick aralığının içindeyken ücret kazanır ve ödüller/getiriler sürekli değişir. Bu operasyonel yükü tam olarak bir ajan ortadan kaldırır. Yaygın stratejiler:
 

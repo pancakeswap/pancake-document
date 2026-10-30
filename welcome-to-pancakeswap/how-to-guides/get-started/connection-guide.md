@@ -1,7 +1,5 @@
 # Cüzdanını PancakeSwap'e Bağla
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-connect-wallet-header.png)
-
 Cüzdanını oluşturdun ve BEP20 token'larını edindin; şimdi tek yapman gereken cüzdanını PancakeSwap'e bağlamak ve hazırsın!
 
 Önerdiğimiz cüzdanların her birini PancakeSwap'e nasıl bağlayacağını öğrenmek için aşağıdaki adımlara bakabilirsin.

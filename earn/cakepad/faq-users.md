@@ -5,7 +5,7 @@
 * Bir CAKE.PAD etkinliği, kullanıcıların yeni proje token'larına tam lansmanlarında erken erişim sağlamasına olanak tanır.
 * Kullanıcılar **CAKE** ile yeni proje token'larını edinir.
 * Projeler likidite, görünürlük ve PancakeSwap topluluğuna doğrudan erişim kazanır.
-* Bu BNB, Base, ARB, ETH, Linea veya opBNB'de gerçekleşebilir.
+* Bu BNB Chain, Base veya Monad'da gerçekleşebilir.
 
 ### 2. Katılım için kimler uygun?
 

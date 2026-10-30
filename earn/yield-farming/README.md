@@ -4,7 +4,7 @@
 
 Yield Farms, kullanıcıların LP Token'larını stake ederek PancakeSwap'ı desteklerken CAKE kazanmalarını sağlar.
 
-Farming'e başlamak için [Farm Nasıl Kullanılır rehberimize](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) göz at.
+Farming'e başlamak için [Farm Nasıl Kullanılır rehberimize](https://docs.pancakeswap.finance/earn/yield-farming/how-to-use-farms/how-to-use-farms) göz at.
 
 [Farm akıllı sözleşmelerini nasıl bulacağını öğren](../../archive/how-to-use-farms-with-bscscan.md)
 

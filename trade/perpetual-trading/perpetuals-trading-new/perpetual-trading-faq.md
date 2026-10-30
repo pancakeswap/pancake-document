@@ -61,4 +61,4 @@ PancakeSwap Perpetuals ücretleri aşağıdaki gibidir:
 
 ### **Hangi yargı bölgeleri ürünü kullanmaktan kısıtlanmaktadır?** <a href="#whats-the-difference-between-a-maker-and-taker-order" id="whats-the-difference-between-a-maker-and-taker-order"></a>
 
-Amerika Birleşik Devletleri, Kanada, Birleşik Krallık, Çin, Kuzey Kore, Rusya, Ukrayna, Küba, İran, Venezuela veya Suriye'de bulunan ya da bu ülkelerden hizmete erişen kullanıcıların ürünü kullanması yasaktır. Geçerli uyumluluk ve düzenleyici gerekliliklere uygun olarak erişim kısıtlanabilir veya engellenebilir.
+Amerika Birleşik Devletleri, Kanada, Birleşik Krallık, Çin, Kuzey Kore, Güney Kore, Rusya, Ukrayna, Küba, İran, Venezuela veya Suriye'de bulunan ya da bu ülkelerden hizmete erişen kullanıcıların ürünü kullanması yasaktır. Geçerli uyumluluk ve düzenleyici gerekliliklere uygun olarak erişim kısıtlanabilir veya engellenebilir.

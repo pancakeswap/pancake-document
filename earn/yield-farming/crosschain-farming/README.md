@@ -11,7 +11,7 @@ hidden: true
 
 Yield farming hakkında daha fazla bilgi için [ana bölüme](../) göz at.
 
-Farming'e başlamak için [Farm Nasıl Kullanılır rehberimize](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) göz at.
+Farming'e başlamak için [Farm Nasıl Kullanılır rehberimize](https://docs.pancakeswap.finance/earn/yield-farming/how-to-use-farms/how-to-use-farms) göz at.
 
 {% hint style="warning" %}
 Yield farming, Syrup Pools'a kıyasla daha iyi ödüller sunabilir; ancak **Kalıcı Olmayan Kayıp** (Impermanent Loss) riski taşır. Kulağa ürkütücü gelse de, başlamadan önce bu kavramı öğrenmeye değer.

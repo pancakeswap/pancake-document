@@ -114,8 +114,8 @@ Oylama vCAKE artık veCAKE'i destekleyecek şekilde yükseltildi. Göz at:
 
 Tüm veCAKE sahipleri (yerel veya taşınmış) otomatik olarak yeni gelir paylaşımı havuzuna kaydedilecek. Gelir payları mevcut takvime göre dağıtılır. Eski gelir paylaşımı havuzu sonlandırılacak; kullanıcılar avantaj kartına giderek bekleyen ödüllerini talep edebilir. Göz at:
 
-{% content-ref url="/broken/pages/wQegezs7c6A2HzQjPEjh" %}
-[Bozuk bağlantı](/broken/pages/wQegezs7c6A2HzQjPEjh)
+{% content-ref url="revenue-sharing-faq.md" %}
+[Gelir Paylaşımı SSS](revenue-sharing-faq.md)
 {% endcontent-ref %}
 
 #### veCAKE ile etkileşim için çoklu imza cüzdanları kullanılabilir mi?
@@ -162,4 +162,4 @@ Bu göstergeye yapılan emisyonu artırmak için [Gösterge Oylama](../../../wel
 
 Bu, DEX ürünlerinde toplanan swap ücretlerinden gelen protokol geliri paylaşımından elde edilen teşviktir.
 
-Daha fazla bilgi için [Gelir Paylaşımı](/broken/pages/wQegezs7c6A2HzQjPEjh)'na göz at.
+Daha fazla bilgi için [Gelir Paylaşımı](revenue-sharing-faq.md)'na göz at.
