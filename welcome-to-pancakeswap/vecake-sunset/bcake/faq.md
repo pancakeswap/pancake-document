@@ -114,4 +114,4 @@ Portanto, na fase inicial de lançamento do produto, muitos dos parâmetros são
 
 bCAKE foi auditado por auditores internos e externos.
 
-Confira os relatórios de auditoria aqui: [https://docs.pancakeswap.finance/readme/audits](https://docs.pancakeswap.finance/readme/audits)
+Confira os relatórios de auditoria aqui: [https://docs.pancakeswap.finance/welcome-to-pancakeswap/audits](https://docs.pancakeswap.finance/welcome-to-pancakeswap/audits)

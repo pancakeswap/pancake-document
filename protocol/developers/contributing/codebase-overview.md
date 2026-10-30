@@ -11,7 +11,7 @@ Todos os nossos repositórios estão armazenados no [Github](https://github.com/
 ## Repositórios do Github
 
 * Frontend: O frontend principal. Contém todas as funcionalidades que não estão listadas abaixo.
-  * [sdk](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/swap-sdk) - Um SDK para criar aplicações em cima do Pancakeswap
+  * [sdk](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/swap-sdk) - Um SDK para criar aplicações em cima do PancakeSwap
   * [aptos-swap-sdk](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/aptos-swap-sdk) - Versão Aptos do SDK de Swap
   * [swap-sdk-core](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/swap-sdk-core) - Código compartilhado do SDK de Swap
   * [wagmi](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/wagmi) - Extensão para [wagmi](https://github.com/wagmi-dev/wagmi), incluindo a chain BSC e o conector da Binance Wallet

@@ -1,6 +1,6 @@
 # RWAs
 
-O PancakeSwap X suporta ativos do mundo real on-chain na BNB Chain em escala. Os usuários podem negociar mais de 100 ações tokenizadas, títulos e ETFs diretamente no PancakeSwap, com tecnologia da Ondo Finance.
+O PancakeSwap suporta ativos do mundo real on-chain em escala na BNB Chain, Ethereum e Robinhood Chain, com negociação de RWAs também disponível na Solana. Os usuários podem negociar mais de 100 ações tokenizadas, títulos e ETFs diretamente no PancakeSwap, com tecnologia da Ondo Finance e de outros emissores.
 
 ### O que é Ondo Finance?
 

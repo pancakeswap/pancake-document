@@ -4,31 +4,31 @@ hidden: true
 
 # Senior Solidity Engineer
 
-### **General Information**
+### **Informações Gerais**
 
-* **Salary range:** Competitive, negotiable
-* **Position:** Full-time
-* **Location:** Remote
-* **Time-zone preference:** Any
+* **Faixa salarial:** competitiva, negociável
+* **Posição:** tempo integral
+* **Local:** remoto
+* **Preferência de fuso horário:** qualquer
 
-### Your Responsibilities
+### Suas Responsabilidades
 
-* Architect, implement, and test smart contracts in **Solidity** across EVM-compatible chains.
-* Scope, design, and deliver complex systems end-to-end, from idea to deployment.
-* Collaborate with cross functional partners on all aspects of product development.
-* Conduct code reviews and enforce best practices for security, efficiency, and maintainability.
-* Continuously evaluate and improve gas optimization, security design patterns, and upgradeability.
-* Proactively identify areas for improvement and innovation within PancakeSwap’s protocol architecture.
+* Projetar, implementar e testar smart contracts em **Solidity** em chains compatíveis com EVM.
+* Definir o escopo, projetar e entregar sistemas complexos de ponta a ponta, da ideia ao deploy.
+* Colaborar com parceiros multifuncionais em todos os aspectos do desenvolvimento de produto.
+* Conduzir code reviews e fazer valer as boas práticas de segurança, eficiência e manutenibilidade.
+* Avaliar e melhorar continuamente a otimização de gas, os padrões de design de segurança e a capacidade de upgrade.
+* Identificar proativamente áreas de melhoria e inovação na arquitetura do protocolo da PancakeSwap.
 
-### Skills & Qualifications
+### Habilidades e Qualificações
 
-* **5+ years** of software engineering experience, with **2+ years** focused on Solidity smart contracts.
-* Deep understanding of **Solidity design patterns**, gas optimization, and contract upgradeability.
-* Hands-on experience with **Hardhat** and **Foundry** (understands the trade-offs and tooling ecosystems).
-* Strong understanding of **EVM internals**, **DeFi protocols**, and **on-chain architecture**.
-* Excellent analytical, debugging, and problem-solving skills.
-* Comfortable working autonomously in a fast-paced, globally distributed team.
+* **5+ anos** de experiência em engenharia de software, sendo **2+ anos** com foco em smart contracts em Solidity.
+* Entendimento profundo de **padrões de design em Solidity**, otimização de gas e capacidade de upgrade de contratos.
+* Experiência prática com **Hardhat** e **Foundry** (entende os trade-offs e os ecossistemas de ferramentas).
+* Forte entendimento de **internals da EVM**, **protocolos DeFi** e **arquitetura on-chain**.
+* Excelentes habilidades analíticas, de debug e de resolução de problemas.
+* Conforto em trabalhar com autonomia em uma equipe global e distribuída, em ritmo acelerado.
 
-### How to apply:
+### Como se candidatar:
 
-Email hiring@pancakeswap.com with your resume!
+Envie um e-mail para hiring@pancakeswap.com com seu currículo!

@@ -147,7 +147,7 @@ Você pode conseguir resgatar seus ganhos diretamente do contrato. Siga os passo
 {% tab title="Verificar rodadas que você jogou" %}
 Como verificar o histórico das rodadas em que você jogou
 
-1. Acesse a página BscScan do [contrato de Previsão](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (ex.: BNBUSD).
+1. Acesse a página BscScan do [contrato de Previsão](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract) (ex.: BNBUSD).
 2. Role para baixo até "8. getUserRounds".
 3. Digite o endereço da sua carteira em "user(address)".
 4. Defina "cursor(uint256)" como 0 e "size(uint256)" como 1000.
@@ -158,7 +158,7 @@ Como verificar o histórico das rodadas em que você jogou
 {% tab title="Verificar se você pode resgatar" %}
 Primeiro, verifique se você realmente deve poder resgatar da rodada em que jogou.
 
-1. Acesse a página BscScan do [contrato de Previsão](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (ex.: BNBUSD) e vá para a aba Read
+1. Acesse a página BscScan do [contrato de Previsão](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract) (ex.: BNBUSD) e vá para a aba Read
 2. Role para baixo até "4. claimable".
 3. Digite o id da rodada que deseja verificar em "epoch(uint256)".
 4. Digite o endereço da sua carteira em "user(address)".
@@ -171,7 +171,7 @@ Primeiro, verifique se você realmente deve poder resgatar da rodada em que jogo
 {% tab title="Resgatar de uma rodada" %}
 Como resgatar
 
-1. Acesse a página BscScan do [contrato de Previsão](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (ex.: BNBUSD) e vá para a aba Write
+1. Acesse a página BscScan do [contrato de Previsão](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract) (ex.: BNBUSD) e vá para a aba Write
 2. Clique em "🔴 Conectar ao Web3"
 3. Use MetaMask ou WalletConnect para conectar.
 4. Role para baixo até "3. claim"

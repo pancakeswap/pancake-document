@@ -4,36 +4,36 @@ hidden: true
 
 # Community Lead
 
-## General Information:
+## Informações Gerais:
 
-* Location: Remote
-* Position: Full-time
-* Time-zone Preference: GMT+8, +/-4 hours flexibility
+* Localização: Remoto
+* Posição: Tempo integral
+* Preferência de fuso horário: GMT+8, com flexibilidade de +/-4 horas
 
-We’re seeking a highly motivated and experienced Community Lead to join our team at PancakeSwap. This remote, full-time position offers an exciting opportunity to shape and drive our global community strategy, with a particular emphasis on expanding our presence in Asia and Europe. As the Community Lead, you will spearhead our ambassador program, enhance engagement across our community channels, and represent PancakeSwap at key events and public forums. The ideal candidate will have a deep understanding of the DeFi landscape, excellent bilingual communication skills, and a proven track record in community management.&#x20;
+Estamos em busca de um(a) Community Lead altamente motivado(a) e experiente para se juntar à nossa equipe na PancakeSwap. Esta vaga remota, em tempo integral, oferece uma oportunidade empolgante de moldar e conduzir nossa estratégia global de comunidade, com ênfase especial na expansão da nossa presença na Ásia e na Europa. Como Community Lead, você vai liderar nosso programa de embaixadores, aumentar o engajamento nos nossos canais de comunidade e representar a PancakeSwap em eventos-chave e fóruns públicos. O(A) candidato(a) ideal tem profundo conhecimento do universo DeFi, excelente comunicação bilíngue e histórico comprovado em gestão de comunidades.&#x20;
 
-## Key Responsibilities:
+## Principais Responsabilidades:
 
-* Develop and execute a comprehensive global community strategy for PancakeSwap, focusing on increasing engagement and presence in Asia and Europe.
-* Lead and expand the ambassador program by recruiting, training, and supporting ambassadors to grow PancakeSwap’s presence globally through content creation, meet-ups, and events.
-* Act as the primary spokesperson for PancakeSwap, representing the team in AMAs, conferences, and other public speaking engagements.
-* Organize and coordinate meet-ups, workshops, and other community events globally. Travel as required to attend and support events.
-* Drive the growth and engagement of community channels such as Telegram, Discord, and other relevant platforms.
-* Collaborate with local content creators and influencers to produce engaging and relevant content that aligns with PancakeSwap’s brand and goals.
+* Desenvolver e executar uma estratégia global de comunidade abrangente para a PancakeSwap, com foco em aumentar o engajamento e a presença na Ásia e na Europa.
+* Liderar e expandir o programa de embaixadores, recrutando, treinando e apoiando embaixadores para ampliar a presença da PancakeSwap globalmente por meio de criação de conteúdo, encontros e eventos.
+* Atuar como principal porta-voz da PancakeSwap, representando a equipe em AMAs, conferências e outras apresentações públicas.
+* Organizar e coordenar encontros, workshops e outros eventos de comunidade em todo o mundo. Viajar conforme necessário para participar dos eventos e apoiá-los.
+* Impulsionar o crescimento e o engajamento dos canais da comunidade, como Telegram, Discord e outras plataformas relevantes.
+* Colaborar com criadores de conteúdo e influenciadores locais para produzir conteúdo envolvente e relevante, alinhado à marca e aos objetivos da PancakeSwap.
 
-## Skills & Qualifications:
+## Habilidades e Qualificações:
 
-* Bachelor’s degree in Marketing, Communications, Journalism, or a related field.
-* Minimum of 3 years of experience in crypto community management, with a strong focus on Asia and Europe.
-* Fluent in English and Chinese (both spoken and written). Additional languages are a plus.
-* Deep understanding of DeFi, degen marketing strategies, and the broader cryptocurrency ecosystem.
-* Excellent verbal and written communication skills, with the ability to engage and motivate a global audience.
-* Proven ability to manage and prioritize multiple projects and meet deadlines in a fast-paced environment.
-* Proactive, results-oriented, and capable of taking initiative to drive community growth and engagement.
-* Experience in facilitating collaboration and communication across a diverse, international team.
+* Graduação em Marketing, Comunicação, Jornalismo ou área relacionada.
+* Mínimo de 3 anos de experiência em gestão de comunidades cripto, com forte foco na Ásia e na Europa.
+* Fluência em inglês e chinês (falado e escrito). Outros idiomas são um diferencial.
+* Profundo conhecimento de DeFi, de estratégias de marketing degen e do ecossistema cripto como um todo.
+* Excelentes habilidades de comunicação verbal e escrita, com capacidade de engajar e motivar um público global.
+* Capacidade comprovada de gerenciar e priorizar vários projetos e cumprir prazos em um ambiente acelerado.
+* Proativo(a), orientado(a) a resultados e capaz de tomar a iniciativa para impulsionar o crescimento e o engajamento da comunidade.
+* Experiência em facilitar a colaboração e a comunicação em uma equipe internacional e diversa.
 
-## How to apply:
+## Como se candidatar:
 
-Email hiring@pancakeswap.com with your resume!
+Envie um e-mail para hiring@pancakeswap.com com seu currículo!
 
 <br>

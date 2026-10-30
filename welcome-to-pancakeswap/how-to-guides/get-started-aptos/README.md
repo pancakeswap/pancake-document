@@ -1,17 +1,13 @@
 # Primeiros Passos (Aptos)
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/get-started-header.png)
+Usar qualquer coisa nova pode ser um pouco desafiador. Mas não se preocupe, criamos uma série de guias para ajudar você a se sentir à vontade com a PancakeSwap!
 
-Usar algo novo pode ser um pouco desafiador. Mas não se preocupe, criamos uma série de guias para ajudar você a se sentir à vontade com o PancakeSwap!
+## Configurando a PancakeSwap
 
-## Configurando o PancakeSwap
+Siga estes guias para deixar tudo pronto para usar a PancakeSwap, ou fique à vontade para pular direto para o guia de que você precisa, se já estava indo bem mas se perdeu pelo caminho.
 
-Siga estes guias para configurar tudo e começar a usar o PancakeSwap, ou pule diretamente para o guia que você precisa caso já tenha feito parte do processo.
+[Crie uma Carteira Aptos](wallet-guide.md)\
+[Obtenha Aptos Coin e leve ativos para a Aptos Chain](aptos-coin-guide.md)\
+[Conecte sua Carteira à PancakeSwap](connection-guide.md)
 
-[Criar uma Carteira Aptos](wallet-guide.md)\
-[Obter Aptos Coin e Trazer Ativos para a Aptos Chain](aptos-coin-guide.md)\
-[Conectar sua Carteira ao PancakeSwap](connection-guide.md)
-
-
-
-Se você não encontrar o que precisa, visite o [Telegram do PancakeSwap](../../contact-us/social-accounts.md) e peça ajuda lá!
+Se não encontrar o que precisa, fique à vontade para visitar o [Telegram da PancakeSwap](../../contact-us/social-accounts.md) e pedir ajuda por lá!

@@ -1,7 +1,5 @@
 # Conectar sua Carteira ao PancakeSwap
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-connect-wallet-header.png)
-
 Você criou uma carteira e obteve seus tokens BEP20, agora só precisa conectar sua carteira ao PancakeSwap e estará pronto para começar!
 
 Confira os passos abaixo para conectar cada uma das nossas carteiras recomendadas ao PancakeSwap.

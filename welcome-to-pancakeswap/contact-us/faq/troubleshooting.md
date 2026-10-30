@@ -305,7 +305,7 @@ Primeiramente,[ informe a equipe](../social-accounts.md) qual pool você está t
 Você pode realizar um "emergencyWithdraw" diretamente do contrato para retirar seus tokens do staking.
 
 1. Encontre o endereço do contrato do Syrup Pool do qual você está tentando retirar o staking. Você pode encontrá-lo no log de transações da sua carteira.
-2. Vá para [https://bscscan.com/](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract) e na barra de pesquisa, insira o endereço do contrato.
+2. Vá para [https://bscscan.com/](https://bscscan.com/) e na barra de pesquisa, insira o endereço do contrato.
 3. Selecione **Write Contract.**
 4. Clique em **"Connect to Web3"** e conecte sua carteira.![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
 5. Na seção **"3. emergencyWithdraw",** clique em "Write".
@@ -324,7 +324,7 @@ Este erro tende a aparecer quando você está tentando retirar o staking de um S
 
 ## **Problemas com Previsão**
 
-Verifique [Link Quebrado](/broken/pages/8zN9xzaYD1DvxZvzLzug "mention")
+Verifique [FAQ de Previsão](../../../play/prediction/prediction-faq.md "mention")
 
 ## **Outros problemas**
 

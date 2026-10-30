@@ -4,7 +4,7 @@ Interessado em impulsionar volumes e ganhar visibilidade para seu projeto? Consi
 
 Cuidaremos da configuração, acompanhamento e anúncios - você fornece as recompensas, nós conduzimos o evento.
 
-Isso está disponível na BNB Chain, Solana, Base, Arbitrum, Ethereum, ZKsync, Linea, opBNB e Polygon zkEVM.
+Isso está disponível na BNB Chain, Solana, Base, Arbitrum, Ethereum, ZKsync, Linea e opBNB.
 
 _Alguns projetos que participaram anteriormente registraram um aumento de 3 a 7 vezes no volume de negociação e nos endereços com negociação ativa_
 

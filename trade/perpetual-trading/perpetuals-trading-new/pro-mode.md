@@ -10,25 +10,25 @@ Vá para [pancakeswap.finance/perps](https://pancakeswap.finance/perps) ou cliqu
 
 Clique em Conectar Carteira no canto superior direito. Não é necessário criar conta ou passar por KYC — sua carteira é sua conta.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(7).png" alt="" width="507"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%287%29.png).png" alt="" width="507"><figcaption></figcaption></figure>
 
 ### **Escolha seu modo**
 
 Selecione o **Modo Simples** para uma posição long ou short rápida com um único toque e tamanhos predefinidos. Mude para o **Modo Pro** se quiser definir ordens limitadas, configurar TP/SL ou gerenciar posições com mais detalhe.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(249).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28249%29.png).png" alt=""><figcaption></figcaption></figure>
 
 ### **Escolha um par de trading**
 
 Clique no nome do par no topo da página para abrir o seletor de ativos. Uma grande variedade de pares de tokens está disponível.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(228).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28228%29.png).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### **Analise o gráfico e decida sua estratégia**
 
 Use o gráfico TradingView integrado para analisar a ação do preço antes de fazer seu trade. Todas as ferramentas de análise gráfica padrão estão disponíveis.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(264).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28264%29.png).png" alt=""><figcaption></figcaption></figure>
 
 ### **Defina os parâmetros da sua posição**
 
@@ -49,12 +49,12 @@ No painel de ordens, configure o seguinte:
 
 Depois de definir todos os parâmetros, clique em Comprar / Long ou Vender / Short para enviar sua ordem.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(284).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28284%29.png).png" alt=""><figcaption></figcaption></figure>
 
 ### **Verifique o status da sua ordem**
 
 Sua ordem aparecerá em **Posições** enquanto aguarda ser preenchida.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(287).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28287%29.png).png" alt=""><figcaption></figcaption></figure>
 
 Boa sorte nos seus trades!

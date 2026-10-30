@@ -83,8 +83,6 @@ Esta taxa é cobrada apenas uma vez na primeira transação de "stake".
 
 ### De onde vêm as emissões?&#x20;
 
-_atualizado em 10 out 2022_
-
 Por enquanto, os Chefs desviaram 0,0189 CAKE por bloco do pool CAKE para todos os farms cross-chain.&#x20;
 
 Aqui está o detalhamento das emissões:

@@ -15,9 +15,9 @@ Jogar a Loteria da PancakeSwap oferece a chance de ganhar enormes prêmios em CA
 
 Os preços dos bilhetes de Loteria são definidos no início de cada nova rodada e têm como alvo $5 USD (pode variar levemente com flutuações repentinas de preço).
 
-Comprar vários bilhetes de Loteria de uma vez oferece um desconto por volume na sua compra. Você pode comprar até 100 bilhetes em uma única compra, com o desconto começando pequeno com 2 bilhetes e escalando até 10% com 100 bilhetes.
+Comprar vários bilhetes de Loteria de uma vez oferece um desconto por volume na sua compra. Você pode comprar até 100 bilhetes em uma única compra, com o desconto começando pequeno com 2 bilhetes e escalando até quase 5% (4,95%) com 100 bilhetes.
 
-![](<https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-22%20at%209.59.52%20PM.png>)
+![](<https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-22%20at%209.59.52%E2%80%AFPM.png>)
 
 ## **Como ganhar**
 

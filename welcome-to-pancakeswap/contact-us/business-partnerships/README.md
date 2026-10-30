@@ -4,7 +4,7 @@
 
 O PancakeSwap (PCS) é a principal corretora descentralizada (DEX) multicadeia, atualmente ativa em:
 
-> BNB Chain, Solana, Base, Arbitrum One, Ethereum, ZKsync Era, Linea, opBNB e Aptos
+> BNB Chain, Ethereum, Solana, Base, Arbitrum, Aptos, ZKsync, Linea, Monad, Robinhood e opBNB
 
 Adoraríamos conversar com equipes de projetos, potencialmente apresentando você a um dos DApps mais populares, engajados e ativos do cripto (com mais de 400 mil Usuários Ativos Diários)!
 
@@ -12,7 +12,7 @@ Desde o início, o PancakeSwap prosperou no mercado DeFi de Varejo, estabelecend
 
 Enquanto esta página serve como um FAQ rápido para Equipes de Projetos aprenderem um pouco mais sobre nós — entre em contato se tiver mais dúvidas:
 
-* Time de BD no Telegram (https://t.me/PancakeSwapBD)
+* **Time de BD no Telegram: https://t.me/PancakeSwapBD (@PancakeSwapBD)**
 
 ### Interessado em uma parceria? Vamos construir juntos
 
@@ -44,9 +44,7 @@ Para perguntas frequentes sobre parcerias comerciais
 
 ### A escolha do povo para tudo em DeFi
 
-Simplicidade é atraente, e segurança também!&#x20;
-
-Com mais de US$ 1,5 bilhão em TVL, gostamos de nos mover rapidamente e fazê-lo com responsabilidade. Com mais de quatro anos de experiência nos mercados cripto, de bull a bear, temos entregado DeFi de forma eficaz à nossa comunidade. Não apenas confie em nós, [verifique](https://docs.pancakeswap.finance/audits).&#x20;
+Com mais de US$ 1,5 bilhão em TVL, gostamos de nos mover rapidamente e fazê-lo com responsabilidade. Com mais de quatro anos de experiência nos mercados cripto, de bull a bear, temos entregado DeFi de forma eficaz à nossa comunidade. Não apenas confie em nós, [verifique](https://docs.pancakeswap.finance/welcome-to-pancakeswap/audits).
 
 Nossas parcerias com projetos vão além de apenas programas de distribuição de tokens ("Syrup Pools") e oportunidades de lançamento de tokens ("Initial Farm Offerings"). Reconhecemos genuinamente o impacto da comunidade no cripto — nossa equipe dedicada de Embaixadores nos ajuda a manter o pulso nas diversas comunidades que atendemos, e regularmente organizamos eventos com alto engajamento com parceiros: podcasts, AMAs, competições de memes e muito mais!
 

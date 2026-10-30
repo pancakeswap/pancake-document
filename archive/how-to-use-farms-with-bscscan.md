@@ -1,165 +1,179 @@
-# How to Use Farms with BscScan
+# Como Usar Farms com a BscScan
 
-![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MHREX7DHcljbY5IkjgJ-1972196547%2Fuploads%2FAqdXb1HwnrSVBg6Dpg8M%2Fhow-to-yield-farms-bscscan-header.png?alt=media\&token=5329ae36-2d4e-4dc7-aedf-85337c11cc19)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-yield-farms-bscscan-header.png)
 
-Since it requires several steps, using Farms with PancakeSwap can seem intimidating at first. This guide will walk you through using the Farms contract directly through BscScan.
+Por exigir várias etapas, usar Farms na PancakeSwap pode parecer intimidante no início. Este guia mostra como usar o contrato de Farms diretamente pela BscScan.
 
-Please understand that using BscScan to interact with contracts is not recommended for beginners. If you're not feeling confident, we suggest using the
+{% hint style="warning" %}
+Saiba que usar a BscScan para interagir com contratos não é recomendado para iniciantes. Se você não se sentir confiante, sugerimos usar o guia [Como Usar Farms](https://docs.pancakeswap.finance/earn/yield-farming/how-to-use-farms/how-to-use-farms).
+{% endhint %}
 
-[How to Use Farms guide](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms)
+## Encontrando o identificador de processo da Farm
 
-instead.
+Para interagir corretamente com o smart contract de farming, você precisará do identificador de processo (PID) correspondente ao seu par de LP. Por enquanto, a forma mais fácil de encontrá-lo é consultar o GitHub.
 
-### Finding Farm process identifier <a href="#finding-farm-process-identifier" id="finding-farm-process-identifier"></a>
+1\. Abra o [código das Farms do site da PancakeSwap no GitHub](https://github.com/pancakeswap/pancake-frontend/blob/master/src/config/constants/farms.ts).
 
-To interact correctly with the farming smart contract, you’ll need the matching process identifier (PID) for your LP pair. For now, the easiest way to locate this is to check GitHub.
+2\. Pressione **Control**/**command** + **F** e procure seu par pelo ticker (não pelo nome do projeto). Por exemplo, 'CAKE-BUSD'.
 
-2\. **Control**/**command** + **F** and search for your pair by ticker (not project name). For example, 'CAKE-BUSD'.
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2871%29.png)
 
-![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbmNofkorR92isGZtMh%2F-MbouIhyaIRlEhCs9AjM%2Fimage.png?alt=media\&token=50c95e71-3b4e-4f72-b618-0a33bf493f89)
+3\. Anote ou copie o número do PID (neste caso, 389) em um lugar de fácil acesso. Você vai precisar dele mais tarde.
 
-3\. Write down or copy the PID number—in this case 389—somewhere you can access it easily. You'll need this later.
+## Depositando Tokens de LP pela BscScan
 
-### Depositing LP Tokens through BscScan <a href="#depositing-lp-tokens-through-bscscan" id="depositing-lp-tokens-through-bscscan"></a>
+Depositar Tokens de LP pela BscScan envolve algumas etapas. Dividimos o processo em passos para facilitar o acompanhamento.
 
-There are a few things involved in depositing LP Tokens using BscScan. We've broken it down into steps to make it easier to follow along.
+### Obtendo o endereço do Main Staking Contract
 
-#### Getting the Main Staking Contract address <a href="#getting-the-main-staking-contract-address" id="getting-the-main-staking-contract-address"></a>
+O endereço do Main Staking Contract é: **0x73feaa1eE314F8c655E354234017bE2193C9E24E**
 
-The address for the main staking contract is: **0x73feaa1eE314F8c655E354234017bE2193C9E24E**
+Mas, se você quiser confirmar isso, acesse a [página PancakeSwap: Main Staking Contract na BscScan](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#writeContract). Você verá o endereço no canto superior esquerdo. Clique no **ícone de páginas** para copiá-lo para a área de transferência. Você vai precisar dele em breve.
 
-![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbmNofkorR92isGZtMh%2F-Mbp1nXv8BY\_GqBCaIhY%2Fimage.png?alt=media\&token=d2d5c5f1-d0f8-4a16-9d5c-670ff7054441)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2877%29.png)
 
-#### Open the contract for your LP Token <a href="#open-the-contract-for-your-lp-token" id="open-the-contract-for-your-lp-token"></a>
+### Abra o contrato do seu Token de LP
 
-You'll need to approve the smart contract for the LP Token you wish to commit to a farm before you can spend it.
+Você precisará aprovar o smart contract para o Token de LP que deseja colocar em uma farm antes de poder gastá-lo.
 
-2\. **Control**/**command** + **F** and search for your pair by ticker (not project name). For example, 'CAKE-BNB'
+### A partir do código-fonte
 
-![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-MHREX7DHcljbY5IkjgJ%2F-McgveN\_06WzVRLK1FeR%2F-McgwmGUCIjvdfLKU9VR%2Fimage.png?alt=media\&token=a8e11b39-4458-4e87-9f17-4e01ac4d192b)
+1\. Primeiro, abra o [farms.ts no GitHub](https://github.com/pancakeswap/pancake-frontend/blob/master/src/config/constants/farms.ts).
 
-3\. When you have the code for the LP pair you're looking for up, find the address after "56:". This will be your contract address.
+2\. Pressione **Control**/**command** + **F** e procure seu par pelo ticker (não pelo nome do projeto). Por exemplo, 'CAKE-BNB'
 
-![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-MHREX7DHcljbY5IkjgJ%2F-McgveN\_06WzVRLK1FeR%2F-McgxJyVDFAxh9cZhEqt%2Fimage.png?alt=media\&token=0638fe99-b1d5-4be3-8fd7-c1b68ca59032)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28175%29.png)
 
-1\. First, visit the
+3\. Com o código do par de LP que você procura aberto, encontre o endereço depois de "56:". Esse será o endereço do seu contrato.
 
-[PancakeSwap Farms page](https://pancakeswap.finance/farms)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2849%29.png)
 
-and search for your chosen pair using the "SEARCH" field in the top right. We're using CAKE-BUSD for this example.
+### A partir da interface
 
-![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbmNofkorR92isGZtMh%2F-MboxfvCzzhDYucewEJM%2Fimage.png?alt=media\&token=a2340e87-0ac4-4db7-8868-3c021fcabe13)
+1\. Primeiro, acesse a [página de Farms da PancakeSwap](https://pancakeswap.finance/farms) e procure o par escolhido usando o campo "SEARCH" no canto superior direito. Neste exemplo, estamos usando CAKE-BUSD.
 
-2\. Click **Details** to expand the row to show more information.
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2882%29.png)
 
-![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbmNofkorR92isGZtMh%2F-MboyRav88nxt7uoSMcm%2Fimage.png?alt=media\&token=4368c32c-79bf-477b-8853-bdfab36b88cb)
+2\. Clique em **Details** para expandir a linha e mostrar mais informações.
 
-3\. Click **View Contract** to open the smart contract on BscScan.
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28236%29.png)
 
-![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbmNofkorR92isGZtMh%2F-Mboz8UGShU9TSD7lct4%2Fimage.png?alt=media\&token=d5b90a00-3fb2-4a4f-b77f-c5709b904ee5)
+3\. Clique em **View Contract** para abrir o smart contract na BscScan.
 
-#### Giving permission to the LP Token contract <a href="#giving-permission-to-the-lp-token-contract" id="giving-permission-to-the-lp-token-contract"></a>
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28145%29.png)
 
-Now that you have your LP Token's contract open on BscScan, you're going to approve the spending of your LP Tokens into the Farm.
+### Dando permissão ao contrato do Token de LP
 
-1\. On the LP Token's contract page, go to **Contract**, and then **Write Contract**.
+Agora que o contrato do seu Token de LP está aberto na BscScan, você vai aprovar o gasto dos seus Tokens de LP na Farm.
 
-![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbmNofkorR92isGZtMh%2F-Mbp2ObHkQgjgI-W5oHd%2Fimage.png?alt=media\&token=bd3301ee-86d4-4899-8256-467a591104a8)
+1\. Na página do contrato do Token de LP, vá em **Contract** e depois em **Write Contract**.
 
-2\. Click **Connect to Web3** to connect MetaMask.
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28304%29.png)
+
+2\. Clique em **Connect to Web3** para conectar a MetaMask.
 
 ![](https://lh4.googleusercontent.com/IRXfcKBWmlH8o7gDE9ThGrKuc2DHZSNb-SxF93VSTkCdv2JjtdvKciPb5jom4Uv-ngpPMrrGQI1XuM6H2SuN81NMxGLzoHAye5YgvUzR9YSM6ElZs6e3A-fpnMT21PKyJmV2F1IZ)
 
-3\. Under function 1, “approve”, you’ll see “spender:address”. Paste in the Main Staking Contract’s contract address you copied to clipboard earlier.
+Confirme a conexão.
 
-![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbmNofkorR92isGZtMh%2F-Mbp7nSuoGINXJV4b3rm%2Fimage.png?alt=media\&token=a07d5f8b-df85-4df8-8c33-8c9d74f20ff3)
+3\. Na função 1, “approve”, você verá “spender:address”. Cole o endereço do Main Staking Contract que você copiou para a área de transferência anteriormente.
 
-5\. You’re also going to need to approve the amount of LP Tokens the contract can spend. In the value field, you’ll need to enter the amount in Wei. You can use the
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28225%29.png)
 
-[BscScan Unit Converter](https://www.bscscan.com/unitconverter)
+5\. Você também precisará aprovar a quantidade de Tokens de LP que o contrato pode gastar. No campo de valor, você deve inserir a quantidade em Wei. Você pode usar o [Conversor de Unidades da BscScan](https://www.bscscan.com/unitconverter) para converter facilmente sua quantidade em Wei. Aqui vamos usar 5 Tokens de LP CAKE-BUSD.
 
-to easily change your amount into Wei. Here we'll use 5 CAKE-BUSD LP Tokens.
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28158%29.png)
 
-![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbmNofkorR92isGZtMh%2F-Mbp7ayxZbb60iG9uHfV%2Fimage.png?alt=media\&token=7fb50d56-32fc-4577-b96a-1ddf6ab74940)
+{% hint style="warning" %}
+Você também pode usar `-1` como valor para dar aprovação de gasto ilimitado. Isso não significa que você gastará tudo por padrão, apenas que uma transação de qualquer tamanho usando este contrato será permitida pela sua carteira.
+{% endhint %}
 
-You can also use `-1` as the value to give unlimited spend approval. This does not mean you will spend everything by default, but only that a transaction of any size using this contract will be allowed by your wallet.
+6\. Clique em **Write** e aceite a ação na sua carteira MetaMask. Agora você pode colocar Tokens de LP na Farm até a quantidade que aprovou.
 
-6\. Click **Write** and accept the action in your MetaMask wallet. You’re now able to commit LP Tokens to the Farm up to the amount you’ve approved.
+### Depositando Tokens de LP com o smart contract Main Staking Contract
 
-#### Deposit LP Tokens with the Main Staking Contract smart contract <a href="#deposit-lp-tokens-with-the-main-staking-contract-smart-contract" id="deposit-lp-tokens-with-the-main-staking-contract-smart-contract"></a>
+Com o Main Staking Contract agora aprovado para gastar seus Tokens de LP, é hora de fazer um depósito.
 
-With the Main Staking Contract now approved to spend your LP Tokens, it's time to make a deposit.
+1\. De volta à [página PancakeSwap: Main Staking Contract na BscScan](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#writeContract), vá em **Contract** e depois em **Write Contract**.
 
-![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbmNofkorR92isGZtMh%2F-Mbp2ObHkQgjgI-W5oHd%2Fimage.png?alt=media\&token=bd3301ee-86d4-4899-8256-467a591104a8)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28304%29.png)
 
-2\. Click **Connect to Web3** to connect MetaMask.
+2\. Clique em **Connect to Web3** para conectar a MetaMask.
 
-3\. Scroll to function 2, "deposit", and type your PID into the "\_pid" field.
+3\. Role até a função 2, "deposit", e digite seu PID no campo "\_pid".
 
-![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbpARe5bzCMd5XORkuR%2F-Mbsxc1rAB8T2\_R8rrzR%2Fimage.png?alt=media\&token=03aeb1e2-feba-4f82-b3dc-74ff9f435a19)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2884%29.png)
 
-If you didn't copy down your PID earlier, you can learn how to get it in the **Finding Farm process identifier** section higher up this page.
+Se você não copiou seu PID antes, pode aprender como obtê-lo na seção **Encontrando o identificador de processo da Farm**, mais acima nesta página.
 
-4\. Underneath \_pid you'll see "\_amount". Enter the amount for the LP contract to spend that you approved earlier.
+4\. Abaixo de \_pid você verá "\_amount". Insira a quantidade de LP que o contrato poderá gastar, que você aprovou anteriormente.
 
-![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbpARe5bzCMd5XORkuR%2F-MbsyWOLP4b1bMdQyTnA%2Fimage.png?alt=media\&token=3cb0d014-8174-420a-ad4f-1ebd6e3619dc)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28257%29.png)
 
-5\. Check the information and click **Write**. Confirm your action in MetaMask.
+5\. Confira as informações e clique em **Write**. Confirme sua ação na MetaMask.
 
-![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbpARe5bzCMd5XORkuR%2F-Mbsyp72o0h6GheA90EF%2Fimage.png?alt=media\&token=5e6148e4-a6ec-48f0-8cba-752b3b9d499e)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2857%29.png)
 
-6\. You can confirm your deposit worked by clicking **View your transaction**.
+6\. Você pode confirmar que o depósito funcionou clicando em **View your transaction**.
 
-![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbpARe5bzCMd5XORkuR%2F-Mbt6-zveDG6pEb5on0q%2Fimage.png?alt=media\&token=28a9f6aa-25cf-4089-b111-f3486a3b88ad)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28190%29.png)
 
-Withdrawing your LP Tokens from a Pool is very similar to making a deposit. The difference is which function you'll interact with.
+## Retirando de um Pool
 
-![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbmNofkorR92isGZtMh%2F-Mbp2ObHkQgjgI-W5oHd%2Fimage.png?alt=media\&token=bd3301ee-86d4-4899-8256-467a591104a8)
+Retirar seus Tokens de LP de um Pool é muito parecido com fazer um depósito. A diferença está na função com que você vai interagir.
 
-2\. Click **Connect to Web3** to connect MetaMask.
+1\. De volta à [página PancakeSwap: Main Staking Contract na BscScan](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#writeContract), vá em **Contract** e depois em **Write Contract**.
 
-3\. Scroll all the way down to function 15, "withdraw", and type your PID into the "\_pid" field.
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28304%29.png)
 
-![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbpARe5bzCMd5XORkuR%2F-MbtAvbr6T5eY7FhtaMv%2Fimage.png?alt=media\&token=61031f79-8b18-4a09-9153-09d4e41703a2)
+2\. Clique em **Connect to Web3** para conectar a MetaMask.
 
-If you didn't copy down your PID earlier, you can learn how to get it in the **Finding Farm process identifier** section higher up this page.
+3\. Role até o final, até a função 15, "withdraw", e digite seu PID no campo "\_pid".
 
-4\. Underneath \_pid you'll see "\_amount". Enter the amount of LP you'd like to withdraw from the Pool.
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28166%29.png)
 
-![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbpARe5bzCMd5XORkuR%2F-MbtBD8bokfhbBDKKTpT%2Fimage.png?alt=media\&token=b3410b45-e71b-4881-85f5-1cb3c7e8c6c9)
+Se você não copiou seu PID antes, pode aprender como obtê-lo na seção **Encontrando o identificador de processo da Farm**, mais acima nesta página.
 
-5\. Check the information and click **Write**. Confirm your action in MetaMask.
+4\. Abaixo de \_pid você verá "\_amount". Insira a quantidade de LP que você deseja retirar do Pool.
 
-![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbpARe5bzCMd5XORkuR%2F-Mbsyp72o0h6GheA90EF%2Fimage.png?alt=media\&token=5e6148e4-a6ec-48f0-8cba-752b3b9d499e)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2837%29.png)
 
-6\. You can confirm your withdrawal worked by clicking **View your transaction**.
+5\. Confira as informações e clique em **Write**. Confirme sua ação na MetaMask.
 
-![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbpARe5bzCMd5XORkuR%2F-Mbt6-zveDG6pEb5on0q%2Fimage.png?alt=media\&token=28a9f6aa-25cf-4089-b111-f3486a3b88ad)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2857%29.png)
 
-### **Making an emergency withdrawal** <a href="#making-an-emergency-withdrawal" id="making-an-emergency-withdrawal"></a>
+6\. Você pode confirmar que a retirada funcionou clicando em **View your transaction**.
 
-‌Using the emergency withdraw function allows you to draw all your funds out of a pool when no other way is working.
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28190%29.png)
 
-**Using the emergency withdraw function will forfeit your CAKE rewards!**
+## **Fazendo uma retirada de emergência**
 
-The PancakeSwap team strongly suggests avoiding this function unless advised to do so officially by the PancakeSwap team, or if you are very comfortable interacting with smart contracts and understand the underlying code.
+‌Usar a função de retirada de emergência permite sacar todos os seus fundos de um pool quando nenhuma outra forma está funcionando.
 
-![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbmNofkorR92isGZtMh%2F-Mbp2ObHkQgjgI-W5oHd%2Fimage.png?alt=media\&token=bd3301ee-86d4-4899-8256-467a591104a8)
+{% hint style="danger" %}
+**Usar a função de retirada de emergência fará você perder suas recompensas em CAKE!**
 
-2\. Click **Connect to Web3** to connect MetaMask.
+A equipe da PancakeSwap recomenda fortemente evitar esta função, a menos que isso seja orientado oficialmente pela equipe da PancakeSwap ou que você esteja muito à vontade para interagir com smart contracts e entenda o código subjacente.
+{% endhint %}
+
+‌1. Na [página PancakeSwap: Main Staking Contract na BscScan](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#writeContract), vá em **Contract** e depois em **Write Contract**.
+
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28304%29.png)
+
+2\. Clique em **Connect to Web3** para conectar a MetaMask.
 
 ![](https://lh4.googleusercontent.com/IRXfcKBWmlH8o7gDE9ThGrKuc2DHZSNb-SxF93VSTkCdv2JjtdvKciPb5jom4Uv-ngpPMrrGQI1XuM6H2SuN81NMxGLzoHAye5YgvUzR9YSM6ElZs6e3A-fpnMT21PKyJmV2F1IZ)
 
-‌3. Scroll down to function 4, "emergencyWithdraw", and type your PID into the "\_pid" field.
+‌3. Role para baixo até a função 4, "emergencyWithdraw", e digite seu PID no campo "\_pid".
 
-![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbpARe5bzCMd5XORkuR%2F-MbtDrETo2rkolLkREKD%2Fimage.png?alt=media\&token=6f0afd56-5d00-461d-bfd5-32290f83106c)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28275%29.png)
 
-If you didn't copy down your PID earlier, you can learn how to get it in the **Finding Farm process identifier** section higher up this page.
+Se você não copiou seu PID antes, pode aprender como obtê-lo na seção **Encontrando o identificador de processo da Farm**, mais acima nesta página.
 
-5\. Check the information and click **Write**. Confirm your action in MetaMask.
+5\. Confira as informações e clique em **Write**. Confirme sua ação na MetaMask.
 
-![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbpARe5bzCMd5XORkuR%2F-Mbsyp72o0h6GheA90EF%2Fimage.png?alt=media\&token=5e6148e4-a6ec-48f0-8cba-752b3b9d499e)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2857%29.png)
 
-6\. You can confirm your withdrawal worked by clicking **View your transaction**.
+6\. Você pode confirmar que a retirada funcionou clicando em **View your transaction**.
 
-![](https://1397868517-files.gitbook.io/\~/files/v0/b/gitbook-legacy-files/o/assets%2F-MHREX7DHcljbY5IkjgJ%2F-MbpARe5bzCMd5XORkuR%2F-Mbt6-zveDG6pEb5on0q%2Fimage.png?alt=media\&token=28a9f6aa-25cf-4089-b111-f3486a3b88ad)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28190%29.png)

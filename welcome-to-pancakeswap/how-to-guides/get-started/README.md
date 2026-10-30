@@ -1,31 +1,29 @@
 # Primeiros Passos (BSC)
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/get-started-header.png)
+Usar qualquer coisa nova pode ser um pouco desafiador. Mas não se preocupe, criamos uma série de guias para ajudar você a se sentir à vontade com a PancakeSwap!
 
-Usar algo novo pode ser um pouco desafiador. Mas não se preocupe, criamos uma série de guias para ajudar você a se sentir à vontade com o PancakeSwap!
+## Configurando a PancakeSwap
 
-## Configurando o PancakeSwap
+Siga estes guias para deixar tudo pronto para usar a PancakeSwap, ou fique à vontade para pular direto para o guia de que você precisa, se já estava indo bem mas se perdeu pelo caminho.
 
-Siga estes guias para configurar tudo e começar a usar o PancakeSwap, ou pule diretamente para o guia que você precisa caso já tenha feito parte do processo.
+[Crie uma Carteira](https://docs.pancakeswap.finance/get-started/wallet-guide)\
+[Obtenha Tokens BEP20](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/bep20-guide)\
+[Conecte sua Carteira à PancakeSwap](https://docs.pancakeswap.finance/get-started/connection-guide)
 
-[Criar uma Carteira](https://docs.pancakeswap.finance/get-started/wallet-guide)\
-[Obter Tokens BEP20](https://docs.pancakeswap.finance/get-started/bep20-guide)\
-[Conectar sua Carteira ao PancakeSwap](https://docs.pancakeswap.finance/get-started/connection-guide)
+## Guias para usar os recursos da PancakeSwap
 
-## Guias para usar os recursos do PancakeSwap
+Depois de configurar uma carteira e conectá-la à PancakeSwap, confira nossos outros guias práticos abaixo.
 
-Depois de configurar e conectar sua carteira ao PancakeSwap, fique à vontade para conferir nossos outros guias abaixo.
-
-[Como Negociar](https://docs.pancakeswap.finance/products/pancakeswap-exchange/trade-guide)\
-[Como Adicionar/Remover Liquidez](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide)\
-[Como Usar os Farms](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms)\
-[Como Fazer Staking nos Syrup Pools](https://docs.pancakeswap.finance/products/syrup-pool/syrup-pool-guide)\
-[Como Jogar na Loteria](https://docs.pancakeswap.finance/products/lottery/lottery-guide)\
-[Como Usar a Previsão](https://docs.pancakeswap.finance/products/prediction/prediction-guide)\
-[Como Participar de um IFO](https://docs.pancakeswap.finance/products/ifo-initial-farm-offering/ifo-guide)\
+[Como Negociar](https://docs.pancakeswap.finance/trade/pancakeswap-exchange/trade-guide)\
+[Como Adicionar/Remover Liquidez](https://docs.pancakeswap.finance/earn/pancakeswap-pools/liquidity-guide)\
+[Como Usar Farms](https://docs.pancakeswap.finance/earn/yield-farming/how-to-use-farms/how-to-use-farms)\
+[Como fazer Staking nas Syrup Pools](https://docs.pancakeswap.finance/earn/cake-staking/syrup-pool/syrup-pool-guide)\
+[Como Jogar a Loteria](https://docs.pancakeswap.finance/play/lottery/lottery-guide)\
+[Como Usar Prediction](https://docs.pancakeswap.finance/play/prediction/prediction-guide)\
+[Como Participar de uma IFO](https://docs.pancakeswap.finance/products/ifo-initial-farm-offering/ifo-guide)\
 [Como Configurar um Perfil NFT](https://docs.pancakeswap.finance/products/nft-profile-system/profile-guide)\
-[Como Votar](https://docs.pancakeswap.finance/products/voting/voting-guide)
+[Como Votar](https://docs.pancakeswap.finance/protocol/voting/voting-guide)
 
-Confira o menu para mais documentação sobre os diversos recursos e serviços do PancakeSwap, incluindo guias mais avançados.
+Confira o menu para mais documentação sobre a variedade de recursos e serviços da PancakeSwap, incluindo guias mais avançados.
 
-Se você não encontrar o que precisa, visite o [Telegram do PancakeSwap](../../contact-us/social-accounts.md) e peça ajuda lá!
+Se não encontrar o que precisa, fique à vontade para visitar o [Telegram da PancakeSwap](../../contact-us/social-accounts.md) e pedir ajuda por lá!

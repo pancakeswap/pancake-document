@@ -29,7 +29,7 @@ Nota: Atualmente, o recurso Zap está em beta. Observe que não suporta alguns t
 
 Visite a [página de Liquidez](https://pancakeswap.finance/liquidity) e escolha "Add Liquidity".
 
-Escolha o par de negociação para o qual deseja fornecer liquidez selecionando dois tokens de entrada; confira o [guia de Liquidez](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide) para saber mais.
+Escolha o par de negociação para o qual deseja fornecer liquidez selecionando dois tokens de entrada; confira o [guia de Liquidez](https://docs.pancakeswap.finance/earn/pancakeswap-pools/liquidity-guide) para saber mais.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-1.png)
 

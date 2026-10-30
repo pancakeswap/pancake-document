@@ -4,7 +4,7 @@
 
 Os Farms de Yield Farming permitem que os usuários ganhem CAKE enquanto apoiam a PancakeSwap fazendo Staking de LP Tokens.
 
-Confira nosso [guia Como Usar os Farms](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) para começar a fazer farming.
+Confira nosso [guia Como Usar os Farms](https://docs.pancakeswap.finance/earn/yield-farming/how-to-use-farms/how-to-use-farms) para começar a fazer farming.
 
 Saiba [como encontrar contratos inteligentes dos Farms](../../archive/how-to-use-farms-with-bscscan.md)
 

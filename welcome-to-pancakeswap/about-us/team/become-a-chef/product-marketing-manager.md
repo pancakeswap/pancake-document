@@ -4,34 +4,34 @@ hidden: true
 
 # Product Marketing Manager
 
-**General Information**\
-Job Title: Product Marketing Manager\
-Location: Remote (Timezone: UTC+8)\
-Position: Full-time
+**Informações Gerais**\
+Cargo: Product Marketing Manager\
+Local: remoto (fuso horário: UTC+8)\
+Posição: tempo integral
 
-**Job Description:**\
-We’re looking for a Product Marketing Manager who’s active in the DeFi space and excited to ship DeFi products and campaigns with us. This role requires a strong understanding of DeFi and DEX mechanics, along with the ability to execute quickly and effectively.
+**Descrição da Vaga:**\
+Estamos procurando um Product Marketing Manager que seja ativo no universo DeFi e animado para lançar produtos e campanhas DeFi com a gente. Esta vaga exige um forte entendimento de DeFi e da mecânica de DEXs, além da capacidade de executar com rapidez e eficiência.
 
-If you love working across teams, know what gets the DeFi community hyped, and have experience shipping product campaigns, we want to hear from you.
+Se você gosta de trabalhar com várias equipes, sabe o que anima a comunidade DeFi e tem experiência em lançar campanhas de produto, queremos ouvir você.
 
-**Key Responsibilities:**
+**Principais Responsabilidades:**
 
-* Own product messaging across PancakeSwap’s products (DEX, liquidity, etc)
-* Create and execute product marketing campaigns that drive user acquisition, trading volumes, and product adoption.
-* Lead product and GTM launches: crafting product narratives, announcements, and campaign rollouts
-* Turn product features into clear and compelling messaging for all users
-* Track performance (like TVL, user retention, volume) and adjust campaigns based on data
-* Collaborate closely with Product Managers, Business Development Managers, Data Analysts, and the broader Marketing team to deliver successful and aligned product launches.
+* Ser responsável pela mensagem dos produtos da PancakeSwap (DEX, liquidez etc.)
+* Criar e executar campanhas de product marketing que impulsionem a aquisição de usuários, os volumes de negociação e a adoção dos produtos.
+* Liderar lançamentos de produtos e de GTM: criar narrativas de produto, comunicados e planos de rollout de campanhas
+* Transformar as funcionalidades dos produtos em mensagens claras e atraentes para todos os usuários
+* Acompanhar o desempenho (como TVL, retenção de usuários, volume) e ajustar as campanhas com base nos dados
+* Colaborar de perto com Product Managers, Business Development Managers, Data Analysts e com toda a equipe de Marketing para entregar lançamentos de produtos bem-sucedidos e alinhados.
 
-**Requirements:**
+**Requisitos:**
 
-* 2+ years experience in a product marketing role
-* 2+ years working in crypto, DeFi, or Web3
-* Proven track record of launching products and product campaigns
-* Analytic mindset with experience using tools like Dune, Google Analytics
-* Strong written and spoken English
-* You know the DeFi culture, what the community likes, and what kind of content hits
-* You enjoy working in a fast-paced environment with a results-oriented mindset
+* 2+ anos de experiência em uma função de product marketing
+* 2+ anos trabalhando com cripto, DeFi ou Web3
+* Histórico comprovado de lançamento de produtos e campanhas de produto
+* Mentalidade analítica, com experiência no uso de ferramentas como Dune e Google Analytics
+* Inglês escrito e falado fluente
+* Você conhece a cultura DeFi, o que a comunidade curte e que tipo de conteúdo funciona
+* Você gosta de trabalhar em um ambiente acelerado e com foco em resultados
 
-**How to Apply:**\
-Shoot your resume over to hiring@pancakeswap.com, we’d love to hear from you!
+**Como se Candidatar:**\
+Mande seu currículo para hiring@pancakeswap.com, adoraríamos ouvir você!
