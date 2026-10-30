@@ -70,7 +70,7 @@ Dynamische Gebühren bieten maximale Flexibilität und optimieren Gebührenstruk
 | ------------------- | ------------------- |
 | 1%                  | 0,33%               |
 | 2%                  | 0,4% (begrenzt)     |
-| Dynamischer Gebühren-Pool | 0%            |
+| Dynamischer Gebühren-Pool | 0,03 % (aktueller Standard) |
 
 #### 🛠️ Einrichtungshinweise für Pool-Ersteller
 

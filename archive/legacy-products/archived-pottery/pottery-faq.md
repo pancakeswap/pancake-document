@@ -6,7 +6,7 @@
 
 ## Warum brauchen wir Pottery, wenn wir bereits die Lotterie v2 haben?
 
-Pottery ist ein völlig anderes Produkt als Lotterie v2. Es ist eine Kombination aus dem gesperrten CAKE-Pool und der Lotterie-Funktion, die Chainlinks Implementierung von VRF für echte, sichere Zufälligkeit nutzt. Durch die Teilnahme an Pottery verlieren Sie kein eingezahltes CAKE — Sie riskieren nur die Staking-Belohnungen des eingezahlten CAKE. Dieses Produkt ist für CAKE-Inhaber konzipiert, die risikoaverser sind, aber dennoch an einem Produkt dieser Art teilnehmen möchten. Es ist eine einfache, unterhaltsame und sichere Möglichkeit, eine Chance auf zusätzliches CAKE zu haben. Erfahren Sie mehr über [die Produktstruktur hier](https://docs.pancakeswap.finance/products/pottery).
+Pottery ist ein völlig anderes Produkt als Lotterie v2. Es ist eine Kombination aus dem gesperrten CAKE-Pool und der Lotterie-Funktion, die Chainlinks Implementierung von VRF für echte, sichere Zufälligkeit nutzt. Durch die Teilnahme an Pottery verlieren Sie kein eingezahltes CAKE — Sie riskieren nur die Staking-Belohnungen des eingezahlten CAKE. Dieses Produkt ist für CAKE-Inhaber konzipiert, die risikoaverser sind, aber dennoch an einem Produkt dieser Art teilnehmen möchten. Es ist eine einfache, unterhaltsame und sichere Möglichkeit, eine Chance auf zusätzliches CAKE zu haben. Erfahren Sie mehr über [die Produktstruktur hier](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery).
 
 ## Ersetzt Pottery die ursprüngliche Lotterie v2?
 
@@ -34,11 +34,11 @@ Gelegentlich kann es aufgrund des Subgraph-Lesens zu Verzögerungen kommen — e
 
 ## Wie erfahre ich, ob ich bei der wöchentlichen Auslosung gewonnen habe?
 
-Nach jeder Auslosung am Freitag um ca. Mittag UTC können Sie die Ergebnisse und Gewinner im Panel "Abgeschlossene Runden" einsehen. Eine weitere Möglichkeit zu überprüfen, ob Sie bei wöchentlichen Auslosungen gewonnen haben, ist das Claim-Panel, um zu sehen, ob es einen Preis zu beanspruchen gibt. Lesen Sie [diese Seite, wie Sie teilnehmen können](https://docs.pancakeswap.finance/products/pottery/how-to-play-pottery)!
+Nach jeder Auslosung am Freitag um ca. Mittag UTC können Sie die Ergebnisse und Gewinner im Panel "Abgeschlossene Runden" einsehen. Eine weitere Möglichkeit zu überprüfen, ob Sie bei wöchentlichen Auslosungen gewonnen haben, ist das Claim-Panel, um zu sehen, ob es einen Preis zu beanspruchen gibt. Lesen Sie [diese Seite, wie Sie teilnehmen können](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery/how-to-play-pottery)!
 
 ## Was ist die Finanzierungsquelle des Preises?
 
-Die Preispools werden durch die Staking-Belohnungen der Einzahlungen finanziert. Da die Staking-Belohnungen des CAKE-Lock-Staking-Pools jedoch nur nach der Sperrdauer — in diesem Fall 10 Wochen — verteilt werden, leiht sich der Contract für ein besseres Produkterlebnis und zur Ermöglichung der wöchentlichen Auslosungen direkt nach dem Einzahlungsdatum 80 % der geschätzten Gesamtstaking-Belohnungen der Kohorte aus dem CAKE-Treasury basierend auf der APR zum Zeitpunkt der Sperrung. Das geliehene CAKE wird für die Auszahlung bei jeder wöchentlichen Auslosung verwendet. Erfahren Sie mehr über [die Produktstruktur hier](https://docs.pancakeswap.finance/products/pottery)!
+Die Preispools werden durch die Staking-Belohnungen der Einzahlungen finanziert. Da die Staking-Belohnungen des CAKE-Lock-Staking-Pools jedoch nur nach der Sperrdauer — in diesem Fall 10 Wochen — verteilt werden, leiht sich der Contract für ein besseres Produkterlebnis und zur Ermöglichung der wöchentlichen Auslosungen direkt nach dem Einzahlungsdatum 80 % der geschätzten Gesamtstaking-Belohnungen der Kohorte aus dem CAKE-Treasury basierend auf der APR zum Zeitpunkt der Sperrung. Das geliehene CAKE wird für die Auszahlung bei jeder wöchentlichen Auslosung verwendet. Erfahren Sie mehr über [die Produktstruktur hier](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery)!
 
 ## Wenn ich gewinne, muss ich den Preis manuell einfordern?
 

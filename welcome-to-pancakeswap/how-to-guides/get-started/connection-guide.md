@@ -1,7 +1,5 @@
 # Ihr Wallet mit PancakeSwap verbinden
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-connect-wallet-header.png)
-
 Sie haben ein Wallet erstellt und Ihre BEP20-Token erhalten – jetzt müssen Sie Ihr Wallet nur noch mit PancakeSwap verbinden, und schon kann es losgehen!
 
 Lesen Sie die folgenden Schritte, um zu erfahren, wie Sie jedes unserer empfohlenen Wallets mit PancakeSwap verbinden.

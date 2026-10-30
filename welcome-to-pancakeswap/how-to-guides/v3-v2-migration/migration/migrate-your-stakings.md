@@ -87,7 +87,7 @@ Sie staken jetzt im neuen MasterChef und verdienen weiterhin CAKE-Rewards! Klick
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/en%20-%20migration%20timeline%20-%202.png)
 
-Folgen Sie unserem [Twitter](https://twitter.com/pancakeswap/)- oder [Telegram](https://t.me/PancakeSwapAnn)-Ankündigungskanal für genaue Zeitpläne und aktuelle Updates! Benötigen Sie Hilfe? Erfahren Sie [hier](../../../contact-us/#help) mehr darüber, wie Sie Hilfe erhalten.
+Folgen Sie unserem [Twitter](https://twitter.com/pancakeswap/)- oder [Telegram](https://t.me/PancakeSwapAnn)-Ankündigungskanal für genaue Zeitpläne und aktuelle Updates! Benötigen Sie Hilfe? Erfahren Sie [hier](../../../contact-us/faq/help.md) mehr darüber, wie Sie Hilfe erhalten.
 
 ## FAQ
 

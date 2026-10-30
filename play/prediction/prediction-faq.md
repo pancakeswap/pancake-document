@@ -147,7 +147,7 @@ Möglicherweise können Sie Ihre Gewinne direkt über den Vertrag einlösen. Fol
 {% tab title="Check rounds you played" %}
 So überprüfen Sie den Verlauf der gespielten Runden
 
-1. Gehen Sie zur BscScan-Seite des [Prognosevertrags](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (z. B. BNBUSD).
+1. Gehen Sie zur BscScan-Seite des [Prognosevertrags](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract) (z. B. BNBUSD).
 2. Scrollen Sie nach unten zu „8. getUserRounds".
 3. Geben Sie Ihre Wallet-Adresse unter „user(address)" ein.
 4. Setzen Sie „cursor(uint256)" auf 0 und „size(uint256)" auf 1000.
@@ -158,7 +158,7 @@ So überprüfen Sie den Verlauf der gespielten Runden
 {% tab title="Check if you can claim" %}
 Überprüfen Sie zunächst, ob Sie tatsächlich aus der gespielten Runde einlösen können.
 
-1. Gehen Sie zur BscScan-Seite des [Prognosevertrags](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (z. B. BNBUSD) und gehen Sie zum Lesen-Reiter
+1. Gehen Sie zur BscScan-Seite des [Prognosevertrags](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract) (z. B. BNBUSD) und gehen Sie zum Lesen-Reiter
 2. Scrollen Sie nach unten zu „4. claimable".
 3. Geben Sie die Runden-ID, die Sie prüfen möchten, unter „epoch(uint256)" ein.
 4. Geben Sie Ihre Wallet-Adresse unter „user(address)" ein.
@@ -171,7 +171,7 @@ So überprüfen Sie den Verlauf der gespielten Runden
 {% tab title="Claim from a round" %}
 So lösen Sie ein
 
-1. Gehen Sie zur BscScan-Seite des [Prognosevertrags](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (z. B. BNBUSD) und gehen Sie zum Schreiben-Reiter
+1. Gehen Sie zur BscScan-Seite des [Prognosevertrags](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract) (z. B. BNBUSD) und gehen Sie zum Schreiben-Reiter
 2. Tippen Sie auf „🔴 Connect to Web3"
 3. Verbinden Sie sich mit MetaMask oder WalletConnect.
 4. Scrollen Sie nach unten zu „3. claim"

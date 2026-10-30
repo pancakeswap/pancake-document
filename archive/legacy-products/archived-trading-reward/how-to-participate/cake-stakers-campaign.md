@@ -25,7 +25,7 @@ Um zu prüfen, ob es eine laufende Kampagne gibt, können Sie:
 *   Nach dem 💝-Symbol aus der Liste "Hot Token" auf der [Swap-Seite](https://pancakeswap.finance/swap) suchen. Oder verwenden Sie den Filter, um Paare mit Handelsbelohnungen zu überprüfen.
 
     <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28183%29.png" alt=""><figcaption></figcaption></figure>
-* Unsere [Social-Media-Kanäle](/broken/pages/QqND39S2UhktBbu09Doj) besuchen.
+* Unsere [Social-Media-Kanäle](../../../../welcome-to-pancakeswap/contact-us/social-accounts.md) besuchen.
 
 ## Prüfen, ob Ihre Adresse berechtigt ist <a href="#ced8a6c5-803a-4a60-80d0-44e823571d84" id="ced8a6c5-803a-4a60-80d0-44e823571d84"></a>
 

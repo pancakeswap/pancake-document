@@ -15,9 +15,9 @@ Das Spielen der PancakeSwap Lotterie gibt Ihnen die Chance, riesige CAKE-Preise 
 
 Die Lotterie-Ticketpreise werden zu Beginn jeder neuen Lotterierunde festgelegt und orientieren sich an 5 USD (können bei plötzlichen Preisschwankungen leicht abweichen).
 
-Der Kauf mehrerer Lotterie-Tickets auf einmal gewährt einen Mengenrabatt. Sie können bis zu 100 Tickets in einem Kauf erwerben, wobei der Rabatt bei 2 Tickets beginnt und bei 100 Tickets auf 10 % ansteigt.
+Der Kauf mehrerer Lotterie-Tickets auf einmal gewährt einen Mengenrabatt. Sie können bis zu 100 Tickets in einem Kauf erwerben, wobei der Rabatt bei 2 Tickets beginnt und bei 100 Tickets auf fast 5 % (4,95 %) ansteigt.
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-22%20at%209.59.52%20PM.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-22%20at%209.59.52%E2%80%AFPM.png)
 
 ## **So gewinnen Sie**
 

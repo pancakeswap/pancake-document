@@ -1,7 +1,5 @@
 # Eine Wallet erstellen
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-make-a-crypto-wallet-header.png)
-
 Um Ihre PancakeSwap-Reise auf Aptos zu beginnen, müssen Sie zunächst eine Wallet einrichten, die die Aptos Chain unterstützt. Wallets sind sowohl für Desktop-Computer als auch für Smartphones verfügbar. Sie müssen die Wallet auswählen, die Ihren Anforderungen am besten entspricht.
 
 {% hint style="danger" %}

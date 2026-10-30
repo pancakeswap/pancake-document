@@ -12,9 +12,9 @@ Unsere Provisionsstruktur ist wie folgt:
 * mindestens **1 großes Token** enthält (d. h. BNB, BTC, BUSD, ETH, USDT und/oder USDC)
 * Beschränkt auf Swap-Trades auf der **BNB Smart Chain und Ethereum-Chain only**
 
-**\*\*** Perpetual Trading ist in bestimmten Rechtsordnungen verboten. Bitte stellen Sie sicher, dass Sie berechtigt sind, Derivate auf dieser Plattform zu handeln.
+**Perpetual Trading ist in bestimmten Rechtsordnungen verboten.** Bitte stellen Sie sicher, dass Sie berechtigt sind, Derivate auf dieser Plattform zu handeln.
 
-\*\*\* Handelsgebühren für Perpetual-Trades (oder jede Empfehlungsposition, bei der Liquidierungsgebühren anfallen können) beinhalten keine Liquidierungsgebühren für die Liquidierung der Position Ihrer Empfehlungen. Beschränkt auf Perpetual-Trades auf der **BNB Smart Chain und Ethereum-Chain only.**
+Handelsgebühren für Perpetual-Trades (oder jede Empfehlungsposition, bei der Liquidierungsgebühren anfallen können) beinhalten keine Liquidierungsgebühren für die Liquidierung der Position Ihrer Empfehlungen. Beschränkt auf Perpetual-Trades auf der **BNB Smart Chain und Ethereum-Chain only.**
 
 ### Zahlung
 

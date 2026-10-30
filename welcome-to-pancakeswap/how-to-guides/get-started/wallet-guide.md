@@ -1,7 +1,5 @@
 # Wallet erstellen
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-make-a-crypto-wallet-header.png)
-
 Um mit PancakeSwap zu beginnen, müssen Sie zunächst ein Wallet einrichten, das BNB Smart Chain (BSC) unterstützt. Wallets sind sowohl auf Desktop-Computern als auch auf Smartphones verfügbar. Sie müssen das Wallet wählen, das Ihren Anforderungen am besten entspricht.
 
 {% hint style="danger" %}

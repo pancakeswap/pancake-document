@@ -235,6 +235,6 @@ Diese Gebühr ist in Ihrer Wallet sichtbar, wenn Sie nach dem Klicken auf **Ernt
 
 Dies zeigt die Erntegebühr, wie sie in der MetaMask-Wallet erscheint. Verschiedene Wallets stellen die Informationen etwas unterschiedlich dar. Überlegen Sie, Ihre Rewards eine Weile anwachsen zu lassen, damit Sie weniger häufig Gebühren zahlen.
 
-Das war schon alles! Vielleicht möchten Sie auch nachlesen, [wie Sie PancakeSwap Syrup Pools nutzen](https://docs.pancakeswap.finance/get-started/syrup-pool-guide), um Rewards zu verdienen.
+Das war schon alles! Vielleicht möchten Sie auch nachlesen, [wie Sie PancakeSwap Syrup Pools nutzen](https://docs.pancakeswap.finance/earn/cake-staking/syrup-pool/syrup-pool-guide), um Rewards zu verdienen.
 
 Viel Spaß beim Farming!

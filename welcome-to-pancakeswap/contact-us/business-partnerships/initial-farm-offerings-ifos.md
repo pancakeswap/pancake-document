@@ -1,6 +1,6 @@
 # 🧑‍🌾 Initial Farm Offerings - IFOs
 
-Weitere Informationen zu unseren Token-Launchpad-Angeboten ("[Initial Farm Offering" oder IFO](https://pancakeswap.finance/ifo)") finden Sie in diesem PDF
+Weitere Informationen zu unseren Token-Launchpad-Angeboten ("[Initial Farm Offering oder IFO](https://pancakeswap.finance/ifo)") finden Sie in diesem PDF
 
 {% file src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/PancakeSwap%20IFO%20One-Pager.pdf" %}
 
@@ -22,7 +22,7 @@ Weitere Informationen zu unseren Token-Launchpad-Angeboten ("[Initial Farm Offer
    * Eine interaktive Sitzung mit unserer Community zur Klärung offener Fragen und zum Aufbau von ✨Stimmung✨
 5. IFO-Launch
    * Wir werden das IFO starten und durch unser Team von Community-Admins alle Rückmeldungen der Community überwachen, zusammenstellen und kommunizieren
-   * Wir werden auch einige Marketing-Materialien auf unserem [Twitter](https://app.gitbook.com/o/-MHRKTpKSfYQBsO7YgOo/s/fxRem6Hv7x6dAU7rlR7a/) und [Telegram](https://t.me/PancakeSwapAnn/6131) veröffentlichen
+   * Wir werden auch einige Marketing-Materialien auf unserem [Twitter](https://x.com/PancakeSwap) und [Telegram](https://t.me/PancakeSwapAnn/6131) veröffentlichen
 6. Nach dem Launch
    * Wir bleiben in Kontakt und arbeiten wo immer möglich zusammen!&#x20;
 

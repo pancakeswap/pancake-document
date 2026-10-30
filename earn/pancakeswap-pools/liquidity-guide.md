@@ -10,7 +10,7 @@ Als Gegenleistung für das Hinzufügen von Liquidität erhalten Sie Handelsgebü
 
 Um Liquidität bereitzustellen, müssen Sie einen Betrag eines beliebigen Token-Paares einsetzen. Ihr niedrigster Wert (in USD) der beiden Token bestimmt das Limit der Liquidität, die Sie bereitstellen können.
 
-Sie können problemlos beliebige Token handeln, die Sie benötigen. Besuchen Sie unseren Leitfaden [So handeln Sie auf PancakeSwap](https://docs.pancakeswap.finance/get-started/trade-guide), falls Sie Hilfe benötigen.
+Sie können problemlos beliebige Token handeln, die Sie benötigen. Besuchen Sie unseren Leitfaden [So handeln Sie auf PancakeSwap](https://docs.pancakeswap.finance/trade/pancakeswap-exchange/trade-guide), falls Sie Hilfe benötigen.
 
 In diesem Beispiel fügen wir V3-Liquidität mit ETH und USDC hinzu.
 

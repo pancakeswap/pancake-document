@@ -6,9 +6,9 @@ Der Handel auf PancakeSwap ist im Vergleich zu den meisten Börsen sehr einfach.
 
 **Vorbereitung für den Handel**
 
-Bevor Sie handeln können, benötigen Sie eine Wallet, die mit BNB Chain oder Ethereum kompatibel ist. Sie können [hier](https://docs.pancakeswap.finance/get-started/wallet-guide) erfahren, wie Sie eine solche erhalten. Sie benötigen außerdem BEP-20- oder ERC-20-Token für den Handel. Sie können [hier](https://docs.pancakeswap.finance/get-started/bep20-guide) erfahren, wie Sie diese erhalten.
+Bevor Sie handeln können, benötigen Sie eine Wallet, die mit BNB Chain oder Ethereum kompatibel ist. Sie können [hier](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/wallet-guide) erfahren, wie Sie eine solche erhalten. Sie benötigen außerdem BEP-20- oder ERC-20-Token für den Handel. Sie können [hier](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/bep20-guide) erfahren, wie Sie diese erhalten.
 
-Alternativ können Sie [hier](https://docs.pancakeswap.finance/get-started-aptos/wallet-guide) erfahren, wie Sie eine Aptos-kompatible Wallet erhalten, und [hier](https://docs.pancakeswap.finance/get-started-aptos/aptos-coin-guide), wie Sie Aptos-Coins zum Swappen erhalten.
+Alternativ können Sie [hier](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-aptos/wallet-guide) erfahren, wie Sie eine Aptos-kompatible Wallet erhalten, und [hier](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-aptos/aptos-coin-guide), wie Sie Aptos-Coins zum Swappen erhalten.
 
 ## Handel auf der PancakeSwap Exchange
 
@@ -64,7 +64,7 @@ Smart Router ist nun die Standardroute für PancakeSwap Exchange V3. Nutzer kön
 
 Weitere Informationen zur Anpassung Ihrer Handelsrouten finden Sie [hier](fees-and-routes.md).&#x20;
 
-Weitere Informationen zu StableSwap finden Sie [hier](/broken/pages/nNPogTZMxocdyFIBYbkE), und zur Market-Maker-Integration [hier](market-maker-integration.md).
+Weitere Informationen zu StableSwap finden Sie [hier](../stableswap/classic-stableswap.md), und zur Market-Maker-Integration [hier](market-maker-integration.md).
 
 ## FAQ
 

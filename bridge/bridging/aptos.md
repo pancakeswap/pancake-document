@@ -7,7 +7,7 @@ description: CAKE zwischen EVM-Chains und Aptos bridgen
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28113%29.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Der folgende Leitfaden verwendet BNB Chain als Beispiel für eine EVM-Chain. Dasselbe Vorgehen gilt auch für Ethereum.
+Der folgende Leitfaden verwendet BNB Chain als Beispiel für eine EVM-Chain. Dasselbe Vorgehen gilt auch für Ethereum, wenn Sie **nach** Aptos bridgen. Beim Bridging **von** Aptos wird derzeit nur BNB Smart Chain als Ziel unterstützt.
 {% endhint %}
 
 ## CAKE von BNB Smart Chain nach Aptos bridgen

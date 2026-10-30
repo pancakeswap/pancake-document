@@ -61,4 +61,4 @@ Die Gebühren für PancakeSwap Perpetuals sind wie folgt:
 
 ### **Welche Regionen sind von der Nutzung des Produkts ausgeschlossen?** <a href="#whats-the-difference-between-a-maker-and-taker-order" id="whats-the-difference-between-a-maker-and-taker-order"></a>
 
-Nutzer, die sich in den Vereinigten Staaten von Amerika, Kanada, dem Vereinigten Königreich, China, Nordkorea, Russland, der Ukraine, Kuba, dem Iran, Venezuela oder Syrien befinden oder von dort auf den Dienst zugreifen, dürfen das Produkt nicht nutzen. Der Zugang kann gemäß den geltenden Compliance- und regulatorischen Anforderungen eingeschränkt oder gesperrt werden.
+Nutzer, die sich in den Vereinigten Staaten von Amerika, Kanada, dem Vereinigten Königreich, China, Nordkorea, Südkorea, Russland, der Ukraine, Kuba, dem Iran, Venezuela oder Syrien befinden oder von dort auf den Dienst zugreifen, dürfen das Produkt nicht nutzen. Der Zugang kann gemäß den geltenden Compliance- und regulatorischen Anforderungen eingeschränkt oder gesperrt werden.

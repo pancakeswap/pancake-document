@@ -1,4 +1,4 @@
-# Social-Media-Kanäle
+# Social-Media-Konten
 
 ## 🐦 X (Twitter)
 
@@ -8,20 +8,15 @@
 
 [https://blog.pancakeswap.finance/](https://blog.pancakeswap.finance/)
 
-## 🤳 Instagram
-
-[https://www.instagram.com/pancakeswap\_official](https://www.instagram.com/pancakeswap_official/)&#x20;
-
 ## [📺](https://emojipedia.org/es/televisi%C3%B3n) Youtube
 
-[https://www.youtube.com/@pancakeswap\_official](https://www.youtube.com/@pancakeswap_official)&#x20;
+[https://www.youtube.com/@pancakeswap\_official](https://www.youtube.com/@pancakeswap_official)
 
 {% hint style="danger" %}
-
-
-Kein Mitglied des PancakeSwap-Teams wird Sie jemals direkt anschreiben. Wenn Sie jemand direkt kontaktiert – z. B. über Telegram – und vorgibt, den Kundensupport zu vertreten, blockieren Sie diese Person bitte und melden Sie sie als Spam.
+Niemand von PancakeSwap wird Ihnen JEMALS eine Direktnachricht senden. Sollte Sie jemand direkt, z. B. auf Telegram, ansprechen und sich als Kundensupport ausgeben, blockieren Sie diese Person bitte und melden Sie sie als Spam.
 {% endhint %}
 
 {% hint style="danger" %}
-**Geben Sie unter KEINEN Umständen jemandem Ihren privaten Schlüssel oder Ihre Wiederherstellungsphrase. Blockieren Sie jeden, der danach fragt, und melden Sie ihn sofort.**
+Geben Sie NIEMALS und unter keinen Umständen jemandem Ihren privaten Schlüssel oder Ihre Wiederherstellungsphrasen. Blockieren und melden Sie sofort jeden, der danach fragt.
 {% endhint %}
+

@@ -114,8 +114,8 @@ Abstimmungs-vCAKE wurde nun aktualisiert, um veCAKE zu unterstützen. Mehr erfah
 
 Alle veCAKE-Inhaber (nativ oder migriert) werden automatisch in den neuen Revenue-Sharing-Pool aufgenommen. Umsatzbeteiligungen werden gemäß dem bestehenden Plan verteilt. Der alte Revenue-Sharing-Pool wird eingestellt; Nutzer können ihre ausstehenden Rewards über die Benefit-Card beanspruchen. Mehr erfahren:
 
-{% content-ref url="/broken/pages/wQegezs7c6A2HzQjPEjh" %}
-[Broken link](/broken/pages/wQegezs7c6A2HzQjPEjh)
+{% content-ref url="revenue-sharing-faq.md" %}
+[Revenue Sharing FAQ](revenue-sharing-faq.md)
 {% endcontent-ref %}
 
 #### Können Multisig-Wallets für die Interaktion mit veCAKE verwendet werden?
@@ -162,4 +162,4 @@ Um die Emissionen an diesen Gauge zu erhöhen, lesen Sie mehr zu [Gauge Voting](
 
 Dies ist der Incentive aus dem Protokoll-Revenue-Sharing, der aus Swap-Gebühren stammt, die in DEX-Produkten anfallen.
 
-Mehr zum [Revenue Sharing](/broken/pages/wQegezs7c6A2HzQjPEjh) erfahren.
+Mehr zum [Revenue Sharing](revenue-sharing-faq.md) erfahren.

@@ -14,7 +14,7 @@
 
 ### Die beliebteste Wahl
 
-PancakeSwap ist eine führende dezentralisierte Börse. Verfügbar auf zehn Chains: BNB Chain, Ethereum, Solana, Base, Arbitrum, Aptos, ZKsync, Linea, Monad und opBNB – mit den höchsten Handelsvolumen auf dem Markt (Quellen: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
+PancakeSwap ist eine führende dezentralisierte Börse. Verfügbar auf elf Chains: BNB Chain, Ethereum, Solana, Base, Arbitrum, Aptos, ZKsync, Linea, Monad, Robinhood und opBNB – mit den höchsten Handelsvolumen auf dem Markt (Quellen: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
 
 ### Niedrige Gebühren
 

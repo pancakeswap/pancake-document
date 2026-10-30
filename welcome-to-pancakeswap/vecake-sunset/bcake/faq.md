@@ -114,4 +114,4 @@ Daher sind viele Parameter in der anfänglichen Produktveröffentlichungsphase s
 
 bCAKE wurde sowohl von internen als auch von externen Prüfern geprüft.
 
-Prüfberichte finden Sie hier: [https://docs.pancakeswap.finance/readme/audits](https://docs.pancakeswap.finance/readme/audits)
+Prüfberichte finden Sie hier: [https://docs.pancakeswap.finance/welcome-to-pancakeswap/audits](https://docs.pancakeswap.finance/welcome-to-pancakeswap/audits)

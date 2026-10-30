@@ -70,7 +70,7 @@ Dies ist eine benutzerfreundliche Option für Mobile-first-Nutzer, die das Einri
 
 #### IV. **MON von einer anderen Blockchain übertragen (Bridge)**
 
-Haben Sie bereits Token auf einer anderen Chain wie **BNB Chain**, **Ethereum** oder **Base**? Sie können Mittel mithilfe von **Bridging-Plattformen** zu Solana übertragen.
+Haben Sie bereits Token auf einer anderen Chain wie **BNB Chain**, **Ethereum** oder **Base**? Sie können Mittel mithilfe von **Bridging-Plattformen** zu Monad übertragen.
 
 #### ✅ So gehen Sie vor:
 

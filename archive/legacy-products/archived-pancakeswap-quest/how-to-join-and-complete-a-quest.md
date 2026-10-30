@@ -8,7 +8,7 @@
 
 1.  Nutzer können sich entscheiden, einem Quest direkt über einen Link beizutreten oder unsere [Quest-Startseite](https://quest.pancakeswap.finance/quests) besuchen, um nach neuen Elementen zu suchen. Klicken Sie auf einen der Quests, um mehr zu erfahren.&#x20;
 
-    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%206.54.53%20PM.png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%206.54.53%E2%80%AFPM.png" alt="" width="563"><figcaption></figcaption></figure>
 2. Auf der Erkundungsseite können Sie nach Quests mit unterschiedlichen Anzahlen von Aufgaben, Gewinnern, Chains und Zeiträumen suchen.
 3. Quest starten
    1. Sobald der Quest ausgewählt wurde, können Nutzer auf "Quest beitreten" klicken, um mit der Teilnahme zu beginnen.
@@ -17,7 +17,7 @@
 
 1.  Nutzer müssen Aufgaben und Aktionen erfüllen, bevor sie jeden Quest abschließen können. Wählen Sie die Aufgaben aus und folgen Sie dem Text auf dem Bildschirm, um die Herausforderung zu erfüllen. Aktionen können von Social-Media-Aufgaben bis hin zu On-Chain-Elementen reichen.&#x20;
 
-    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%207.18.31%20PM.png" alt="" width="368"><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%207.18.31%E2%80%AFPM.png" alt="" width="368"><figcaption></figcaption></figure>
 2.  Social-Media-Aufgaben — Aufgaben können beinhalten:
 
     1. Einen Beitrag auf X liken
@@ -42,7 +42,7 @@
     **Hinweis: Aufgrund der Geschwindigkeit beim Datenabruf kann die Verifizierung von On-Chain-Aufgaben auf bestimmten Chains bis zu 1 Stunde dauern.**&#x20;
 4.  Sie können die verbleibenden Aufgaben über die Statusleiste oben einsehen. Sobald der Quest abgeschlossen ist, sollte oben links "Abgeschlossen" angezeigt werden. Wenn der Quest eine Token-Belohnung hat, sind Sie für eine zufällige Auslosung der Belohnungen berechtigt.&#x20;
 
-    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%207.28.19%20PM.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%207.28.19%E2%80%AFPM.png" alt=""><figcaption></figcaption></figure>
 5. Nutzer können auch optionale Aufgaben erledigen, die nicht zur erforderlichen Fertigstellung der Quests beitragen.
 
 ### Quest-Status überprüfen

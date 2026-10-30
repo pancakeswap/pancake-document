@@ -15,7 +15,7 @@ Sie können PancakeSwap Prediction spielen auf:
 
 ### Zusammenfassung: So funktioniert es
 
-1. **Wählen Sie einen Vermögenswert aus**: Derzeit verfügbar auf **BNB Chain**, **zkSync Era** und **Arbitrum One**.
+1. **Wählen Sie einen Vermögenswert aus**: Derzeit verfügbar auf **BNB Chain**; die Märkte auf **zkSync Era** und **Arbitrum One** sind vorübergehend pausiert.
 2. **Wählen Sie HOCH oder NIEDRIG**: Prognostizieren Sie, ob der Vermögenswertpreis höher oder niedriger liegt, wenn die „LIVE"-Phase endet (jede Runde = 5 Minuten).
 3. Setzen Sie Ihren Einsatzbetrag: Beliebiger BNB-Betrag
 4. **Sperren Sie Ihre Position**: Nach der Platzierung kann Ihr Einsatz nicht mehr geändert werden.
@@ -25,7 +25,7 @@ Sie können PancakeSwap Prediction spielen auf:
 
 ### Mechanismen und Gebühren
 
-* **Unterstützte Chains: BNB Chain, zkSync Era, Arbitrum One**
+* **Unterstützte Chains: BNB Chain (live); zkSync Era, Arbitrum One (pausiert)**
 * **Rundenfrequenz**: Alle **5 Minuten** (rollende Runden).
 * **Teilnahmegebühr**: **3 %** des gesamten Preispools jeder Runde, ein Teil davon fließt in **CAKE-Rückkäufe**.
 * **Gewinne**: Jederzeit einlösbar, nachdem die Ergebnisse finalisiert sind.

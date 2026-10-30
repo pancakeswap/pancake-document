@@ -54,6 +54,6 @@ Gebühren: 3 % des Gesamttopfs jeder Runde gehen an die Schatzkammer, wobei ein 
 
 Sie können den Rundenverlauf im Verlaufs-Tab einsehen, um den Preis und die KI-Entscheidung der vorherigen Runden zu überprüfen. Alle Runden werden On-Chain abgerechnet; weitere Informationen finden Sie im [Prognose-Contract](https://arbiscan.io/address/0x1cdc19B13729f16C5284a0ACE825F83fC9d799f4).
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-06-26%20at%208.02.17%20PM.png" alt=""><figcaption><p>Verlaufs-Tab auf der rechten Seite</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-06-26%20at%208.02.17%E2%80%AFPM.png" alt=""><figcaption><p>Verlaufs-Tab auf der rechten Seite</p></figcaption></figure>
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-06-26%20at%208.01.26%20PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-06-26%20at%208.01.26%E2%80%AFPM.png" alt=""><figcaption></figcaption></figure>

@@ -4,7 +4,7 @@ Möchten Sie Ihr Handelsvolumen steigern und die Bekanntheit Ihres Projekts erh�
 
 Wir übernehmen die Einrichtung, das Tracking und die Ankündigung – Sie stellen die Belohnungen bereit, wir führen die Veranstaltung durch.
 
-Dies ist verfügbar auf BNB Chain, Solana, Base, Arbitrum, Ethereum, ZKsync, Linea, opBNB und Polygon zkEVM.
+Dies ist verfügbar auf BNB Chain, Solana, Base, Arbitrum, Ethereum, ZKsync, Linea und opBNB.
 
 _Einige Projekte, die zuvor teilgenommen haben, verzeichneten einen 3- bis 7-fachen Anstieg des Handelsvolumens und aktiv gehandelter Adressen_
 

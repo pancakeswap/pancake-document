@@ -19,7 +19,7 @@
        <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unnamed%20%287%29.png" alt=""><figcaption></figcaption></figure>
 
        <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unnamed%20%286%29.png" alt="" width="375"><figcaption></figcaption></figure>
-3.  Folgen Sie den Schritten auf dem Profil-Einrichtungsbildschirm oder lesen Sie den Profil-Erstellungsleitfaden hier[Broken link](/broken/pages/-MYdfYNF3jEh_f1HFdcj "mention"), ab Schritt 7. Die Einrichtung ist kostenlos, es wird jedoch eine kleine Menge Gas auf der BNB Chain zur Einrichtung von Profilen benötigt.
+3.  Folgen Sie den Schritten auf dem Profil-Einrichtungsbildschirm oder lesen Sie den Profil-Erstellungsleitfaden hier, ab Schritt 7. Die Einrichtung ist kostenlos, es wird jedoch eine kleine Menge Gas auf der BNB Chain zur Einrichtung von Profilen benötigt.
 
     <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unnamed%20%285%29.png" alt="" width="375"><figcaption><p>Wählen Sie den Hasen — ein generischer Starter-Hase für Ihre Quest-Reise</p></figcaption></figure>
 

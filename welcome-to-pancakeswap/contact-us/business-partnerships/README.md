@@ -4,7 +4,7 @@
 
 PancakeSwap (PCS) ist die führende Multi-Chain-dezentralisierte Börse (DEX), die derzeit live ist auf:
 
-> BNB Chain, Solana, Base, Arbitrum One, Ethereum, ZKsync Era, Linea, opBNB und Aptos
+> BNB Chain, Ethereum, Solana, Base, Arbitrum, Aptos, ZKsync, Linea, Monad, Robinhood und opBNB
 
 Wir würden uns freuen, mit Projektteams in Kontakt zu treten und Sie möglicherweise an eine der größten, am meisten engagierten und aktivsten DApps in der Kryptowelt vorzustellen (mit über 400.000 täglich aktiven Nutzern)!
 
@@ -12,7 +12,7 @@ Seit unserer Gründung hat PancakeSwap in der Retail-DeFi-Landschaft floriert un
 
 Diese Seite dient als schnelle FAQ für Projektteams, um etwas mehr über uns zu erfahren – bitte melden Sie sich, wenn Sie weitere Fragen haben:
 
-* BD-Team auf Telegram (https://t.me/PancakeSwapBD)
+* **BD-Team auf Telegram: https://t.me/PancakeSwapBD (@PancakeSwapBD)**
 
 ### Interesse an einer Partnerschaft? Lassen Sie uns gemeinsam aufbauen
 
@@ -44,9 +44,7 @@ Für häufig gestellte Fragen zu Geschäftspartnerschaften
 
 ### Die erste Wahl der Menschen für alles rund um DeFi
 
-Einfachheit ist attraktiv, und Sicherheit ebenso!&#x20;
-
-Mit mehr als 1,5 Milliarden US-Dollar TVL bewegen wir uns schnell und verantwortungsbewusst. Mit mehr als vier Jahren Erfahrung an den Kryptomärkten, von Bullen- bis Bärenmärkte, haben wir DeFi effektiv an unsere Community geliefert. Vertrauen Sie uns nicht einfach, [überprüfen Sie es](https://docs.pancakeswap.finance/audits).&#x20;
+Mit mehr als 1,5 Milliarden US-Dollar TVL bewegen wir uns schnell und verantwortungsbewusst. Mit mehr als vier Jahren Erfahrung an den Kryptomärkten, von Bullen- bis Bärenmärkte, haben wir DeFi effektiv an unsere Community geliefert. Vertrauen Sie uns nicht einfach, [überprüfen Sie es](https://docs.pancakeswap.finance/welcome-to-pancakeswap/audits).
 
 Unsere Partnerschaften mit Projekten gehen weit über Token-Verteilungsprogramme („Syrup Pools") und Token-Launch-Möglichkeiten („Initial Farm Offerings") hinaus. Wir erkennen aufrichtig den Einfluss der Community in der Kryptowelt – unser engagiertes Team von Botschaftern hilft uns, den Puls der vielfältigen Communities, die wir betreuen, zu spüren, und wir veranstalten regelmäßig Ereignisse mit hohem Engagement mit Partnern: Podcasts, AMAs, Meme-Wettbewerbe und vieles mehr!
 

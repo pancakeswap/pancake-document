@@ -83,8 +83,6 @@ Diese Gebühr wird nur einmalig bei der ersten „Stake"-Transaktion erhoben.
 
 ### Woher stammen die Emissionen?
 
-_Aktualisiert am 10. Oktober 2022_
-
 Derzeit haben die Chefs 0,0189 CAKE pro Block vom CAKE-Pool auf alle Crosschain-Farms umgeleitet.
 
 Hier ist die Emissionsaufschlüsselung:

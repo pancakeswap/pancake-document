@@ -20,4 +20,4 @@ Indem wir die Menge an CAKE, die pro Block erzeugt wird, reduzieren, verlangsame
 
 ### Deflationäre Mechanismen
 
-Regelmäßige Token-Burns ([Burn-Adresse anzeigen](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82?a=0x000000000000000000000000000000000000dead)) sind in viele Produkte von PancakeSwap integriert (wie ein 10-prozentiger Burn von CAKE, der für Lotterie-Tickets ausgegeben wird), mit weiteren in Vorbereitung. Lesen Sie die \*\*\*\* [**CAKE Tokenomics-Seite**](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics) \*\*\*\* für Details zu den aktuellen und kommenden deflationären Mechanismen.
+Regelmäßige Token-Burns ([Burn-Adresse anzeigen](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82?a=0x000000000000000000000000000000000000dead)) sind in viele Produkte von PancakeSwap integriert (wie ein 10-prozentiger Burn von CAKE, der für Lotterie-Tickets ausgegeben wird), mit weiteren in Vorbereitung. Lesen Sie die \*\*\*\* [**CAKE Tokenomics-Seite**](https://docs.pancakeswap.finance/protocol/cake-tokenomics) \*\*\*\* für Details zu den aktuellen und kommenden deflationären Mechanismen.

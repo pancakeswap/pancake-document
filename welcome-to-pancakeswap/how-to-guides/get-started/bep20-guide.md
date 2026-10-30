@@ -1,7 +1,5 @@
 # BEP20-Token erhalten
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-get-bep20-tokens-header.png)
-
 Die nativen Token der BNB Smart Chain (BSC) sind **BEP20**.
 
 Um die meisten Aktionen auf BSC durchzuführen, müssen Sie Gas bezahlen, das in Form von BEP20 BNB anfällt.
@@ -22,7 +20,7 @@ Diese Bridge ermöglicht es Ihnen, Ihre Stablecoins nahtlos zu BNB Chain zu übe
 {% endtab %}
 
 {% tab title="💰 Binance" %}
-[**Binance.com**](https://github.com/pancakeswap/pancake-document/tree/255db0c7af28df2f9c1209daa5cdbd774490a666/get-started/www.binance.com)
+[**Binance.com**](https://www.binance.com)
 
 Sie können Token als BEP20 über Ihr Binance-Konto abheben (sofern Sie eines haben). Beachten Sie, dass Sie dafür ein Konto benötigen.
 
