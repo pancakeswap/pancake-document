@@ -1,43 +1,43 @@
-# FAQ
+# 자주 묻는 질문 (FAQ)
 
-<figure><img src="../../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2894%29.png" alt=""><figcaption></figcaption></figure>
 
-### **Is there a deadline for the migration?**
+### **마이그레이션 기한이 있나요?**
 
-No
+없습니다.
 
-You will be able to unstake from V2 farms at any time.
+V2 파밍에서는 언제든지 언스테이킹할 수 있습니다.
 
-You will be able to remove liquidity from V2 at any time.
+V2에서는 언제든지 유동성을 제거할 수 있습니다.
 
-However, Chefs will gradually migrate the CAKE reward emissions from those selected V2 farms to their corresponding V3 farms. To continue earning CAKE rewards. We would recommend that you complete the migrations as early as possible.
+다만 Chef 팀은 선별된 V2 파밍의 CAKE 보상 배출을 해당 V3 파밍으로 점진적으로 이전할 예정입니다. CAKE 보상을 계속 받으려면 가능한 한 빨리 마이그레이션을 완료하시기를 권장합니다.
 
-For more news and updates on the migration timeline, please [follow our social channels on Twitter or Telegram announcement.](../../contact-us/social-accounts.md)
+마이그레이션 일정에 대한 더 많은 소식과 업데이트는 [Twitter 또는 Telegram 공지 채널을 팔로우하세요.](../../contact-us/social-accounts.md)
 
-### When can I start migrating?
+### 언제부터 마이그레이션을 시작할 수 있나요?
 
-If you are reading this, the migration is likely started already. Visit [https://pancakeswap.finance/migration](https://pancakeswap.finance/migration) for more details.
+이 글을 읽고 계시다면 마이그레이션은 이미 시작되었을 가능성이 높습니다. 자세한 내용은 [https://pancakeswap.finance/migration](https://pancakeswap.finance/migration)에서 확인하세요.
 
-### I can’t find the pair I’m staking
+### 스테이킹 중인 페어를 찾을 수 없습니다
 
-Some V2 farms and liquidity will continue to operate in parallel with V3.
+일부 V2 파밍과 유동성은 V3와 병행하여 계속 운영됩니다.
 
-Some V2 farms will not be migrated on day 1. If your staked farms do not appear in “Step 1”, they do not require to be migrated at the moment.
+일부 V2 파밍은 첫날에 마이그레이션되지 않습니다. 스테이킹 중인 파밍이 "1단계"에 표시되지 않는다면, 현재 마이그레이션이 필요하지 않은 것입니다.
 
-If your V2 liquidity positions do not appear in “Step 2”, it is likely due to they have V2 farms running and do not require to be migrated at the moment.
+V2 유동성 포지션이 "2단계"에 표시되지 않는다면, 해당 포지션에 V2 파밍이 운영 중이어서 현재 마이그레이션이 필요하지 않기 때문일 가능성이 높습니다.
 
-You can manually migrate your farm stakings and liquidity. Continue reading.
+파밍 스테이킹과 유동성을 수동으로 마이그레이션할 수도 있습니다. 계속 읽어보세요.
 
-### Can I manually migrate my farm stakings or liquidity without using the migration helper?
+### 마이그레이션 도우미 없이 파밍 스테이킹이나 유동성을 수동으로 마이그레이션할 수 있나요?
 
-Yes.
+네, 가능합니다.
 
-You can unstake LP tokens from V2 farms by going to the “Farms” page and looking for farms with the “V2” tag. You can use the “Staked only” toggle to filter farms you are currently staking.
+"Farms" 페이지로 이동하여 "V2" 태그가 붙은 파밍을 찾아 V2 파밍에서 LP 토큰을 언스테이킹할 수 있습니다. "Staked only" 토글을 사용하면 현재 스테이킹 중인 파밍만 필터링할 수 있습니다.
 
-You can remove V2 liquidity by going to the “Liquidity” page and looking for positions with the “V2” tag. You can use the V2 tab to filter only V2 positions.
+"Liquidity" 페이지로 이동하여 "V2" 태그가 붙은 포지션을 찾아 V2 유동성을 제거할 수 있습니다. V2 탭을 사용하면 V2 포지션만 필터링할 수 있습니다.
 
-For adding your liquidity to V3 and staking LP positions to V3, follow the standard V3 steps.
+유동성을 V3에 추가하고 LP 포지션을 V3에 스테이킹하려면 표준 V3 절차를 따르세요.&#x20;
 
-For a detailed tutorial on how to add liquidity in V3, read [here](../../../earn/pancakeswap-pools/liquidity-guide.md).
+V3에서 유동성을 추가하는 방법에 대한 자세한 튜토리얼은 [여기](../../../earn/pancakeswap-pools/liquidity-guide.md)를 참고하세요.&#x20;
 
-For a tutorial on how to farm in V3, read [here](../../../earn/yield-farming/how-to-use-farms/).
+V3에서 파밍하는 방법에 대한 튜토리얼은 [여기](../../../earn/yield-farming/how-to-use-farms/)를 참고하세요.

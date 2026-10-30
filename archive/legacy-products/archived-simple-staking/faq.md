@@ -1,50 +1,50 @@
-# FAQ
+# 자주 묻는 질문 (FAQ)
 
 {% hint style="danger" %}
-\[Archived] Simple Staking – As of 10th March 2025
+&#x20;\[보관됨] 심플 스테이킹 – 2025년 3월 10일 기준
 {% endhint %}
 
-### What happens if I do not withdraw after lock period ends?
+### 락 기간이 끝난 후 출금하지 않으면 어떻게 되나요?
 
-Once the lock period ends, users will be able to withdraw their staking rewards and principle amount. If a user does not withdraw, the funds will still receive flexible daily rewards, which have a lower payout than locked staking rewards.
+락 기간이 끝나면 사용자는 스테이킹 보상과 원금을 출금할 수 있습니다. 사용자가 출금하지 않으면 자금은 여전히 유연한 일일 보상을 받게 되며, 이는 락 스테이킹 보상보다 지급액이 낮습니다.&#x20;
 
-### What are the fees for early withdrawal?
+### 조기 출금 수수료는 얼마인가요?
 
-Should you choose to withdraw your funds early, schedules and penalties are as follows:
+자금을 조기에 출금하기로 선택하는 경우 일정과 패널티는 다음과 같습니다.
 
-| Withdrawal Fees/Pool  | 30 Day        | 60 Day        | 90 Day        |
+| 출금 수수료/풀  | 30일        | 60일        | 90일        |
 | --------------------- | ------------- | ------------- | ------------- |
-| No Withdrawal         | First 10 Days | First 20 Days | First 30 Days |
-| 15% of deposit amount | 11-20 Days    | 21-40 Days    | 31-60 Days    |
-| 2% of deposit amount  | 21-30 Days    | 41-60 Days    | 61-90 Days    |
-| No Fee                | 30 Day Unlock | 60 Day Unlock | 90 Day Unlock |
+| 출금 불가         | 처음 10일 | 처음 20일 | 처음 30일 |
+| 예치 금액의 15% | 11\~20일    | 21\~40일    | 31\~60일    |
+| 예치 금액의 2%  | 21\~30일    | 41\~60일    | 61\~90일    |
+| 수수료 없음                | 30일 락 해제 | 60일 락 해제 | 90일 락 해제 |
 
-For more clarity on how the days are counted, refer to the following example of a 30D pool starting Oct 1 at 11:00hrs:
+일수가 계산되는 방식을 더 명확히 이해하려면 10월 1일 11:00시에 시작하는 30D 풀의 다음 예시를 참조하세요.
 
-From Oct 1 11:00hrs to Oct 11 11:59hrs -> No Withdrawal
+10월 1일 11:00시부터 10월 11일 11:59시까지 -> 출금 불가
 
-From Oct 11 12:00hrs to Oct 21 12:00hrs -> 15% Fee
+10월 11일 12:00시부터 10월 21일 12:00시까지 -> 15% 수수료
 
-From Oct 21 12:00hrs to Oct 31 11:59hrs -> 2% Fee
+10월 21일 12:00시부터 10월 31일 11:59시까지 -> 2% 수수료
 
-After Oct 31 12:00hrs -> No Fee
+10월 31일 12:00시 이후 -> 수수료 없음
 
-### How are daily rewards accrued by PancakeSwap?
+### PancakeSwap에서 일일 보상은 어떻게 적립되나요?
 
-PancakeSwap is offering Simple Staking in partnership with Binance Earn. By using PancakeSwap Simple Staking, your funds will be managed by Binance Earn for the locked period.
+PancakeSwap은 Binance Earn과 협력하여 심플 스테이킹을 제공합니다. PancakeSwap 심플 스테이킹을 사용하면 락 기간 동안 자금은 Binance Earn에서 관리됩니다.
 
-Assets may be used for on-chain staking in a tightly controlled manner. Binance may stake through official staking pools, or operate validators and nodes to participate in Proof-of-Stake (POS) network staking. The staking pool selection is determined via stringent risk assessment protocols. Validators and nodes operated by Binance are set up with security as the utmost priority.
+자산은 엄격하게 통제된 방식으로 온체인 스테이킹에 사용될 수 있습니다. Binance는 공식 스테이킹 풀을 통해 스테이킹하거나 검증인과 노드를 운영하여 지분 증명(POS) 네트워크 스테이킹에 참여할 수 있습니다. 스테이킹 풀 선택은 엄격한 위험 평가 프로토콜을 통해 결정됩니다. Binance가 운영하는 검증인과 노드는 보안을 최우선으로 설정됩니다.
 
-Binance may also run promotional campaigns from time to time that are sponsored by partnered projects in order to attract more users.
+Binance는 또한 더 많은 사용자를 유치하기 위해 파트너 프로젝트가 후원하는 프로모션 캠페인을 수시로 진행할 수 있습니다.
 
-### How do PancakeSwap and CAKE Holders benefit from this?
+### PancakeSwap과 CAKE 보유자는 이로부터 어떤 이점을 얻나요?
 
-PancakeSwap takes a small % of APR rewards for offering the service to our users. This will be converted into CAKE and burnt. For CAKE holders, fixed-term CAKE stakers will receive boosted APRs if they have locked at least 100 CAKE.
+PancakeSwap은 사용자에게 서비스를 제공하는 대가로 APR 보상의 소정 비율을 가져갑니다. 이는 CAKE로 전환되어 소각됩니다. CAKE 보유자의 경우 최소 100 CAKE를 락한 고정 기간 CAKE 스테이커는 부스트된 APR을 받습니다.
 
-### What happens in the withdrawal process when "Withdrawal approval is pending"?
+### "출금 승인 대기 중"일 때 출금 과정은 어떻게 되나요?
 
-Once withdrawal/unstake is requested, users will receive the funds in their wallet along with the principal amount. If you receive a "Withdrawal approval is pending" alert, it represents a slight delay during the withdrawal due to an administrative process. Users will have to request unstake in a couple of hours and will receive the funds on the same day.
+출금/언스테이킹을 요청하면 사용자는 원금과 함께 지갑으로 자금을 받게 됩니다. "출금 승인 대기 중" 알림을 받았다면 행정 절차로 인해 출금이 약간 지연되고 있음을 나타냅니다. 사용자는 몇 시간 후에 언스테이킹을 요청해야 하며 같은 날 자금을 받게 됩니다.
 
-### What's next for Simple Staking?
+### 심플 스테이킹의 다음 계획은 무엇인가요?
 
-The next plan for Simple Staking is to offer more tokens and have the product go multichain in Q4.
+심플 스테이킹의 다음 계획은 더 많은 토큰을 제공하고 4분기에 제품을 멀티체인으로 확장하는 것입니다.

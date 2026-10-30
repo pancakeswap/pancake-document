@@ -1,72 +1,72 @@
-# Senior Designer
+# 시니어 디자이너 (Senior Designer)
 
-We are hiring one Senior Designer to own how PancakeSwap looks, feels and converts — across product, brand and marketing — and to prove it with data.
+PancakeSwap의 룩앤필과 전환율을 제품, 브랜드, 마케팅 전반에 걸쳐 책임지고, 그 성과를 데이터로 증명할 시니어 디자이너 1명을 채용합니다.
 
-### About PancakeSwap and why this role now
+### PancakeSwap과 지금 이 포지션이 필요한 이유
 
-PancakeSwap is one of the largest DEXs by volume, live on 10+ chains with BNB Chain as its home. In June 2025 it processed $325B in a single month, with 7.4M unique users in Q2 2025 and $1.8T+ lifetime volume (The Defiant).
+PancakeSwap은 거래량 기준 최대 규모의 DEX 중 하나로, BNB 체인을 거점으로 10개 이상의 체인에서 운영되고 있습니다. 2025년 6월 한 달 동안 3,250억 달러를 처리했고, 2025년 2분기에는 740만 명의 고유 사용자를 기록했으며 누적 거래량은 1조 8천억 달러 이상입니다(The Defiant).
 
-At that scale, small UX changes move real money. A 1-point lift in swap completion, or one fewer failed transaction per thousand, is worth more than most new features.
+이 정도 규모에서는 작은 UX 변경도 실제 자금 흐름을 움직입니다. 스왑 완료율 1%p 상승이나 1,000건당 실패 트랜잭션 1건 감소는 대부분의 신규 기능보다 가치가 큽니다.
 
-We need this role now for three reasons:
+지금 이 포지션이 필요한 이유는 세 가지입니다.
 
-* Product surface keeps growing. Infinity (hooks, CLAMM, LBAMM), multichain, new trading products and LP incentive changes all need clear UX for traders and LPs.
-* Design is not yet measured. We ship screens, but we do not consistently track whether they improve conversion, retention or error rates.
-* Marketing needs a design partner. Our content and campaigns team needs fast, on-brand creative at a steady weekly cadence.
+* 제품의 범위가 계속 넓어지고 있습니다. Infinity(훅, CLAMM, LBAMM), 멀티체인, 신규 트레이딩 상품, LP 인센티브 변경 모두 트레이더와 LP를 위한 명확한 UX가 필요합니다.
+* 디자인 성과가 아직 측정되지 않고 있습니다. 화면은 출시하고 있지만, 그것이 전환율, 리텐션, 오류율을 개선하는지는 일관되게 추적하지 못하고 있습니다.
+* 마케팅에 디자인 파트너가 필요합니다. 콘텐츠 및 캠페인 팀은 브랜드에 맞는 크리에이티브를 매주 꾸준히, 빠르게 제공받아야 합니다.
 
-### The role
+### 역할
 
-You report directly to the CEO and own design end to end: product UX/UI, brand identity, and marketing creative. This is a player-coach role. Expect to spend about 60% of your time designing yourself and 40% on systems, processes and people in year one.
+CEO에게 직접 보고하며, 제품 UX/UI, 브랜드 아이덴티티, 마케팅 크리에이티브 등 디자인 전반을 책임집니다. 플레이어-코치 역할로, 첫 1년 동안은 시간의 약 60%를 직접 디자인에, 40%를 시스템, 프로세스, 사람에 쓰게 됩니다.
 
-### Responsibilities
+### 담당 업무
 
-#### 1. Product design (about 50%)
+#### 1. 제품 디자인 (약 50%)
 
-* Own UX/UI for core flows: swap, add/remove liquidity, Infinity pools and hooks, farms, staking and new trading products on website and App
-* Map and instrument key funnels with Data and Engineering: wallet connect → quote → approve → swap success; LP deposit → position management.
-* Diagnose drop-off and failed transactions with on-chain and front-end data, then design and ship fixes.
-* Run A/B tests and usability tests; every major redesign ships with a hypothesis, a metric and a readout.
-* Design for two very different users: retail traders on mobile, and professional LPs who need dense information.
+* 웹사이트와 앱의 핵심 플로우 UX/UI 총괄: 스왑, 유동성 추가/제거, Infinity 풀과 훅, 파밍, 스테이킹, 신규 트레이딩 상품
+* 데이터 및 엔지니어링 팀과 함께 핵심 퍼널을 정의하고 계측: 지갑 연결 → 견적 → 승인 → 스왑 성공, LP 예치 → 포지션 관리
+* 온체인 및 프론트엔드 데이터로 이탈 지점과 실패한 트랜잭션을 진단하고, 해결책을 디자인하여 출시
+* A/B 테스트와 사용성 테스트 진행: 모든 주요 리디자인은 가설, 지표, 결과 보고와 함께 출시
+* 매우 다른 두 사용자를 위한 디자인: 모바일 리테일 트레이더, 그리고 밀도 높은 정보가 필요한 전문 LP
 
-#### 2. Brand and design system (about 20%)
+#### 2. 브랜드 및 디자인 시스템 (약 20%)
 
-* Own the PancakeSwap brand: identity, illustration, motion, tone, and the bunny/kitchen character world.
-* Build and maintain one design system (Figma + code components with Engineering) used by product and marketing.
-* Keep brand consistent across 10+ chains, partner co-branding and multiple languages (English, Chinese and others).
+* PancakeSwap 브랜드 총괄: 아이덴티티, 일러스트레이션, 모션, 톤, 그리고 버니/키친 캐릭터 세계관
+* 제품과 마케팅에서 함께 사용하는 단일 디자인 시스템 구축 및 유지(Figma + 엔지니어링과 함께하는 코드 컴포넌트)
+* 10개 이상의 체인, 파트너 공동 브랜딩, 여러 언어(영어, 중국어 등)에 걸쳐 브랜드 일관성 유지
 
-#### 3. Marketing creative (about 20%)
+#### 3. 마케팅 크리에이티브 (약 20%)
 
-* Be the design partner for content, community, KOL, partnership and product marketing.
-* Set up a request intake, templates and turnaround SLAs so routine assets do not need custom design each time.
-* Produce launch assets, social and Binance Square creative, event and conference visuals, and data visuals for reports.
-* Track which creative performs (engagement, click-through, conversion per linked post) and feed it back into templates.
+* 콘텐츠, 커뮤니티, KOL, 파트너십, 프로덕트 마케팅의 디자인 파트너
+* 요청 접수 체계, 템플릿, 처리 시간 SLA를 마련하여 일상적인 자산에 매번 별도의 디자인이 필요하지 않도록 구성
+* 출시용 자산, 소셜 및 Binance Square 크리에이티브, 이벤트 및 컨퍼런스 비주얼, 보고서용 데이터 비주얼 제작
+* 어떤 크리에이티브가 성과를 내는지(참여도, 클릭률, 연결된 게시물당 전환) 추적하고 템플릿에 반영
 
-#### 4. Team and process (about 10%)
+#### 4. 팀 및 프로세스 (약 10%)
 
-* Hire and manage designers and freelancers; set quality bar and review rituals.
-* Use AI design tools to raise output per designer, and document what works.
-* Report design impact to the CEO monthly, with numbers.
+* 디자이너와 프리랜서를 채용하고 관리하며, 품질 기준과 리뷰 문화를 정립
+* AI 디자인 도구를 활용해 디자이너 1인당 산출물을 높이고, 효과적인 방식을 문서화
+* 디자인 성과를 매월 수치와 함께 CEO에게 보고
 
-### Requirements
+### 요구 사항
 
-#### Must have
+#### 필수
 
-* 5+ years in product design, including 2+ years leading design (people or a full design function).
-* Shipped work on a high-traffic consumer product, where you can show the metric your design moved.
-* Comfortable with data: you can define a funnel, read a dashboard, and design an A/B test with Data and Engineering.
-* Strong visual and brand craft, not only UX: identity, illustration direction, motion and marketing creative.
-* Hands-on in Figma; built or maintained a design system used by engineers.
-* Hands-on DeFi user: you have swapped, provided liquidity and used multiple wallets and chains yourself.
-* Fluent English; able to work async with a distributed team across Asia time zones.
+* 제품 디자인 경력 5년 이상, 그중 디자인 리딩(인력 또는 전체 디자인 조직) 경력 2년 이상.
+* 트래픽이 많은 소비자 제품을 출시한 경험이 있고, 본인의 디자인이 움직인 지표를 보여줄 수 있어야 합니다.
+* 데이터에 익숙할 것: 퍼널을 정의하고, 대시보드를 읽고, 데이터 및 엔지니어링 팀과 A/B 테스트를 설계할 수 있어야 합니다.
+* UX에 그치지 않는 뛰어난 비주얼 및 브랜드 역량: 아이덴티티, 일러스트레이션 디렉션, 모션, 마케팅 크리에이티브.
+* Figma 실무 능력, 그리고 엔지니어가 사용하는 디자인 시스템을 구축하거나 운영한 경험.
+* 직접 DeFi를 사용해 본 경험: 스왑, 유동성 공급을 해 보았고 여러 지갑과 체인을 직접 사용해 보았어야 합니다.
+* 유창한 영어. 아시아 시간대에 걸친 분산 팀과 비동기로 협업할 수 있어야 합니다.
 
-#### Nice to have
+#### 우대 사항
 
-* Experience at a DEX, wallet, exchange or other high-frequency trading product.
-* Understanding of AMM and concentrated-liquidity concepts (ranges, impermanent loss, fees) and how to explain them simply.
-* Mandarin, or experience designing for Chinese-speaking users.
-* Front-end skills (HTML/CSS/React) to prototype or ship small changes.
-* Experience using AI tools to scale design output.
+* DEX, 지갑, 거래소 등 고빈도 트레이딩 제품에서의 경험.
+* AMM과 집중 유동성 개념(범위, 비영구적 손실, 수수료)에 대한 이해와 이를 쉽게 설명하는 능력.
+* 중국어 능력 또는 중국어 사용자를 위한 디자인 경험.
+* 작은 변경을 프로토타입하거나 직접 출시할 수 있는 프론트엔드 역량(HTML/CSS/React).
+* AI 도구를 활용해 디자인 산출물을 확장해 본 경험.
 
-### How to apply
+### 지원 방법
 
-Shoot your resume over to hiring@pancakeswap.com, we’d love to hear from you!
+hiring@pancakeswap.com으로 이력서를 보내 주세요. 여러분의 이야기를 기다립니다!

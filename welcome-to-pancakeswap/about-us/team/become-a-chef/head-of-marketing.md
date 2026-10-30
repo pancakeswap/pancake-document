@@ -1,68 +1,68 @@
-# Head of Marketing
+# 마케팅 총괄 (Head of Marketing)
 
-PancakeSwap is the largest DEX on BNB Chain and consistently ranks in the global top-three by 30-day volume. In 2026 the protocol is executing across three strategic pillars: defending and growing AMM market share (Div1), expanding institutional liquidity and RWA products (Div2), and building distribution capability through Aggregator and API integrations (Div3)
+PancakeSwap은 BNB 체인 최대의 DEX이며 30일 거래량 기준 글로벌 상위 3위권을 꾸준히 유지하고 있습니다. 2026년 프로토콜은 세 가지 전략 축을 중심으로 실행하고 있습니다. AMM 시장 점유율 방어 및 확대(Div1), 기관 유동성 및 RWA 제품 확장(Div2), 애그리게이터 및 API 통합을 통한 유통 역량 구축(Div3)입니다.
 
-Marketing's role is to convert execution on those three pillars into brand equity, user mindshare, and ecosystem reputation — and to proactively open new distribution and growth channels, not simply amplify existing content. The H1 2026 internal review identified conventional execution and a static channel mix as the primary gaps in the current Marketing function. We need a lead who can diagnose this situation and drive meaningful change.
+마케팅의 역할은 이 세 가지 축의 실행 성과를 브랜드 자산, 사용자 마인드셰어, 생태계 평판으로 전환하고, 기존 콘텐츠를 단순히 확산하는 데 그치지 않고 새로운 유통 및 성장 채널을 선제적으로 개척하는 것입니다. 2026년 상반기 내부 리뷰에서는 관행적인 실행 방식과 고정된 채널 구성이 현재 마케팅 조직의 주요 한계로 지목되었습니다. 이러한 상황을 진단하고 의미 있는 변화를 이끌어 갈 리더가 필요합니다.
 
-### Responsibilities
+### 담당 업무
 
-#### 2.1 Brand Strategy & Innovative Distribution
+#### 2.1 브랜드 전략 및 혁신적인 유통
 
-Redefine PancakeSwap's brand voice and visual language to build differentiated positioning in a crowded DeFi landscape. Discover and operationalize new distribution channels beyond the standard crypto playbook (Twitter/X, Telegram) — community-led platforms, creator economies, crypto-native media, Web2 surfaces, and whatever emerges next.
+경쟁이 치열한 DeFi 환경에서 차별화된 포지셔닝을 구축하기 위해 PancakeSwap의 브랜드 보이스와 비주얼 언어를 재정의합니다. 표준적인 암호화폐 공식(Twitter/X, Telegram)을 넘어서는 새로운 유통 채널(커뮤니티 기반 플랫폼, 크리에이터 이코노미, 암호화폐 네이티브 미디어, Web2 채널, 그리고 앞으로 등장할 모든 채널)을 발굴하고 실행 체계로 만듭니다.
 
-#### 2.2 Reputation Building & Ecosystem Coverage
+#### 2.2 평판 구축 및 생태계 커버리지
 
-Build PancakeSwap's reputational equity with institutional audiences, developer communities, and mainstream crypto media. Lead the development of a multilingual, multi-regional KOL and Key Opinion Builder (KOB) system. Turn Div2 launch milestones — xStocks, RWA products, institutional partnerships — into high-impact brand moments.
+기관 투자자, 개발자 커뮤니티, 주류 암호화폐 미디어를 대상으로 PancakeSwap의 평판 자산을 구축합니다. 다국어, 다지역 KOL 및 Key Opinion Builder(KOB) 체계 개발을 이끕니다. xStocks, RWA 제품, 기관 파트너십 등 Div2의 출시 마일스톤을 파급력 높은 브랜드 모멘트로 만듭니다.
 
-#### 2.3 Growth Marketing & Data-Driven Execution
+#### 2.3 그로스 마케팅 및 데이터 기반 실행
 
-Build a growth marketing framework where channel investment and content priorities are decided by data. Partner closely with Product and BD to design GTM plans for every major feature launch: Aggregator, xStocks, PropAMM. Establish a clear Marketing funnel (Awareness → Activation → Retention) with quantitative metrics reported directly to the CEO.
+채널 투자와 콘텐츠 우선순위를 데이터로 결정하는 그로스 마케팅 프레임워크를 구축합니다. 프로덕트 및 BD와 긴밀히 협력하여 애그리게이터, xStocks, PropAMM 등 모든 주요 기능 출시의 GTM 계획을 설계합니다. 인지(Awareness) → 활성화(Activation) → 유지(Retention)에 이르는 명확한 마케팅 퍼널을 수립하고, 정량 지표를 CEO에게 직접 보고합니다.
 
-#### 2.4 Team Building & AI-Powered Efficiency
+#### 2.4 팀 빌딩 및 AI 기반 효율화
 
-Quickly assess the existing Marketing team, define clear roles and workflows aligned with your leadership style, and identify capability gaps. Propose resourcing or outsourcing strategies where needed. Drive deep adoption of AI tools across content production, channel analytics, and community operations to materially improve team output per headcount.
+기존 마케팅 팀을 신속하게 평가하고, 본인의 리더십 스타일에 맞는 명확한 역할과 워크플로를 정의하며 역량 격차를 파악합니다. 필요한 경우 인력 충원 또는 외주 전략을 제안합니다. 콘텐츠 제작, 채널 분석, 커뮤니티 운영 전반에 AI 도구를 깊이 도입하여 인원당 팀 성과를 실질적으로 높입니다.
 
-### Requirements
+### 요구 사항
 
-#### Must-Have
+#### 필수
 
-* 5+ years of crypto / Web3 marketing experience, with at least one verifiable case of building a brand or growth system from scratch.
-* Deep understanding of DeFi products (DEX, AMM, aggregators) and the ability to translate complex technical products into clear user-value narratives.
-* Demonstrated channel innovation instinct: concrete experience achieving meaningful reach through non-conventional or emerging channels, not just the standard crypto stack.
-* Data-driven decision-making as a default: able to build Marketing dashboards independently and adjust strategy based on what the numbers say.
-* Proven team leadership: able to quickly establish working cadences, give direct performance feedback, and develop team members.
-* Fluent in English; Chinese proficiency a strong plus given PancakeSwap's primary userbase.
+* 암호화폐 / Web3 마케팅 경력 5년 이상, 브랜드 또는 그로스 체계를 처음부터 구축한 검증 가능한 사례 최소 1건.
+* DeFi 제품(DEX, AMM, 애그리게이터)에 대한 깊은 이해와 복잡한 기술 제품을 명확한 사용자 가치 스토리로 풀어내는 능력.
+* 입증된 채널 혁신 감각: 표준적인 암호화폐 채널에 그치지 않고, 비관행적이거나 새로운 채널을 통해 의미 있는 도달 범위를 달성한 구체적인 경험.
+* 데이터 기반 의사결정이 기본 습관인 분: 마케팅 대시보드를 독립적으로 구축하고 수치에 따라 전략을 조정할 수 있어야 합니다.
+* 검증된 팀 리더십: 업무 리듬을 빠르게 정립하고, 직접적인 성과 피드백을 제공하며, 팀원을 성장시킬 수 있어야 합니다.
+* 유창한 영어 실력. PancakeSwap의 주요 사용자층을 고려할 때 중국어 능력은 큰 강점입니다.
 
-#### Nice-to-Have
+#### 우대 사항
 
-* Prior Marketing leadership at a major DEX, CEX, or on-chain infrastructure project.
-* Familiarity with the BNB Chain ecosystem or hands-on BSC community operations experience.
-* Experience with institutional-grade or compliant DeFi product communications (RWA, regulated assets).
-* Heavy personal use of AI productivity tools — generative content, automated workflows, channel analytics.
+* 주요 DEX, CEX 또는 온체인 인프라 프로젝트에서의 마케팅 리더십 경력.
+* BNB 체인 생태계에 대한 이해 또는 BSC 커뮤니티 운영 실무 경험.
+* 기관급 또는 규제 준수형 DeFi 제품(RWA, 규제 자산) 커뮤니케이션 경험.
+* 생성형 콘텐츠, 자동화 워크플로, 채널 분석 등 AI 생산성 도구를 개인적으로 적극 활용한 경험.
 
-### 5. This Role Is Not Right for You If…
+### 5. 이런 분은 맞지 않습니다
 
-Strong backgrounds are not sufficient if any of the following apply:
+뛰어난 배경이 있더라도 다음 중 하나라도 해당한다면 충분하지 않습니다.
 
-* You are more comfortable executing within an established marketing system than defining one from scratch. We need a system-builder, not a process-follower.
-* Your channel experience is limited to Twitter/X and Telegram, and you have no appetite or track record for channel exploration beyond those two.
-* Your work reporting defaults to qualitative descriptions rather than quantitative data. We expect to hear CAC, conversion rates, and funnel metrics — not content volume counts.
-* You need a long ramp-up period. This role expects visible, concrete outputs within the first 30 days.
+* 처음부터 마케팅 체계를 정의하는 것보다 이미 확립된 마케팅 체계 안에서 실행하는 것이 더 편한 경우. 저희에게 필요한 사람은 프로세스를 따르는 사람이 아니라 체계를 만드는 사람입니다.
+* 채널 경험이 Twitter/X와 Telegram에 한정되어 있고, 그 두 채널을 넘어 새로운 채널을 탐색하려는 의지나 실적이 없는 경우.
+* 업무 보고가 기본적으로 정량 데이터가 아닌 정성적 서술에 의존하는 경우. 저희는 콘텐츠 발행 건수가 아니라 CAC, 전환율, 퍼널 지표를 듣고 싶습니다.
+* 긴 적응 기간이 필요한 경우. 이 포지션은 입사 후 30일 이내에 눈에 보이는 구체적인 성과를 기대합니다.
 
-### 6. What We Offer
+### 6. 제공하는 혜택
 
-* Direct CEO reporting line with full strategic ownership. There is no Marketing committee here; your judgment is the decision.
-* The opportunity to lead the brand narrative of a global top-3 DEX and shape the perception of millions of users across dozens of markets.
-* Full resource authorization: tooling budget, KOL partnership budget, channel experimentation budget. Data-backed proposals will not be blocked by resource constraints.
-* Front-row seat to PancakeSwap's most consequential execution cycle in 2026, including the full rollout of Aggregator and the RWA product line.
-* Global remote team, results-oriented culture, zero micromanagement.
+* 전략에 대한 전권을 가진 CEO 직속 보고 라인. 마케팅 위원회는 없으며, 여러분의 판단이 곧 결정입니다.
+* 글로벌 상위 3위 DEX의 브랜드 내러티브를 이끌고, 수십 개 시장의 수백만 사용자가 갖는 인식을 형성할 기회.
+* 전면적인 리소스 권한: 도구 예산, KOL 파트너십 예산, 채널 실험 예산. 데이터에 기반한 제안은 리소스 제약 때문에 막히지 않습니다.
+* 애그리게이터 전면 출시와 RWA 제품 라인을 포함해 2026년 PancakeSwap에서 가장 중요한 실행 사이클을 최전선에서 경험할 수 있는 기회.
+* 글로벌 원격 팀, 성과 중심 문화, 마이크로매니지먼트 없음.
 
-### 7. How to Apply
+### 7. 지원 방법
 
-Send your CV and a written statement of no more than 300 words answering the following question:
+이력서와 함께 다음 질문에 답하는 300단어 이내의 글을 보내 주세요.
 
-What is the single most important change you would make to PancakeSwap's marketing, and why?
+PancakeSwap 마케팅에서 가장 중요하게 바꿀 단 한 가지는 무엇이며, 그 이유는 무엇입니까?
 
-Applications that do not include a response to this question will not be reviewed.
+이 질문에 대한 답변이 포함되지 않은 지원서는 검토하지 않습니다.
 
-How to Apply: Shoot your resume over to hiring@pancakeswap.com, we’d love to hear from you!
+지원 방법: hiring@pancakeswap.com으로 이력서를 보내 주세요. 여러분의 이야기를 기다립니다!

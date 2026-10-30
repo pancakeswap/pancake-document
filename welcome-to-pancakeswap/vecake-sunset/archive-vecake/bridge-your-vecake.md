@@ -1,55 +1,55 @@
-# Bridge your veCAKE
+# veCAKE 브릿지
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%283%29%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
-To enjoy the benefits of veCAKE such as bCAKE (Farm yield boosting) and iCAKE (IFO public sales allocation) on other chains. You need to perform a simple bridging request on BNB Chain to sync your veCAKE balance and PancakeProfile to other chains.
+다른 체인에서 bCAKE(파밍 수익 부스트), iCAKE(IFO 공개 판매 할당)와 같은 veCAKE 혜택을 누리려면, BNB 체인에서 간단한 브릿지 요청을 수행하여 veCAKE 잔액과 PancakeProfile을 다른 체인에 동기화해야 합니다.
 
-## How to bridge? <a href="#id-734b8113-0e00-40ff-bccb-9c129460e2e2" id="id-734b8113-0e00-40ff-bccb-9c129460e2e2"></a>
+## 브릿지는 어떻게 하나요? <a href="#id-734b8113-0e00-40ff-bccb-9c129460e2e2" id="id-734b8113-0e00-40ff-bccb-9c129460e2e2"></a>
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%285%29.png" alt=""><figcaption></figcaption></figure>
 
-Go to [CAKE Staking](https://pancakeswap.finance/cake-staking) page and locate the veCAKE Sync card under the veCAKE benefits. Click “View Details” to open the sync modal.
+[CAKE Staking](https://pancakeswap.finance/cake-staking) 페이지로 이동하여 veCAKE 혜택 아래의 veCAKE Sync 카드를 찾으세요. "View Details"를 클릭하여 동기화 창을 여세요.
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt="" width="253"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.png" alt="" width="253"><figcaption></figcaption></figure>
 
-In the modal. You can view the number of veCAKE you have on BNB Chain. As well as the list of destination chains, you may bridge your veCAKE and Pancake Profile to your veCAKE and Pancake Profile status on each of the chains.
+창에서 BNB 체인에 보유한 veCAKE 수량과 대상 체인 목록을 확인할 수 있습니다. veCAKE와 Pancake Profile을 브릿지하여 각 체인의 veCAKE 및 Pancake Profile 상태에 반영할 수 있습니다.
 
-To sync, select the chain, and click “Sync”, then confirm in your wallet popup.
+동기화하려면 체인을 선택하고 "Sync"를 클릭한 다음 지갑 팝업에서 확인하세요.
 
-It may take up to 20 mins to complete the bridging. You may check the bridging progress in the sync modal.
+브릿지를 완료하는 데 최대 20분이 걸릴 수 있습니다. 동기화 창에서 브릿지 진행 상황을 확인할 수 있습니다.&#x20;
 
-Note:
+참고:
 
-* You can only bridge one chain at a time. To sync your veCAKE to multiple chains, repeat the above process.
-* BNB will be charged upon the bridging request to cover the gas cost on the destination chain. The amount of BNB depends on the destination chain. Chains like the Ethereum mainnet will be significantly more expensive to sync due to the high gas cost.
-* To avoid unnecessary gas spent. Sync your veCAKE only to the chain where you want to enjoy the benefits.
-* After adding more CAKE or extending your veCAKE staking position, repeat the above process to update the veCAKE balance on the destination chains to ensure your benefits are up-to-date.
+* 한 번에 하나의 체인만 브릿지할 수 있습니다. 여러 체인에 veCAKE를 동기화하려면 위 과정을 반복하세요.
+* 브릿지 요청 시 대상 체인의 가스 비용을 충당하기 위해 BNB가 차감됩니다. BNB 금액은 대상 체인에 따라 다릅니다. Ethereum 메인넷과 같은 체인은 가스 비용이 높아 동기화 비용이 훨씬 비쌉니다.
+* 불필요한 가스 비용을 피하려면 혜택을 누리고자 하는 체인에만 veCAKE를 동기화하세요.
+* CAKE를 추가하거나 veCAKE 스테이킹 포지션을 연장한 후에는 위 과정을 반복하여 대상 체인의 veCAKE 잔액을 업데이트하고 혜택이 최신 상태로 유지되도록 하세요.
 
-## FAQ <a href="#id-9d6ee706-cd48-4d71-a5f8-c3de3d7d3aad" id="id-9d6ee706-cd48-4d71-a5f8-c3de3d7d3aad"></a>
+## 자주 묻는 질문 (FAQ) <a href="#id-9d6ee706-cd48-4d71-a5f8-c3de3d7d3aad" id="id-9d6ee706-cd48-4d71-a5f8-c3de3d7d3aad"></a>
 
-**Q: How often do I need to sync my veCAKE and Pancake Profile?**
+**Q: veCAKE와 Pancake Profile은 얼마나 자주 동기화해야 하나요?**
 
-A: For veCAKE, you only need to sync whenever you add more CAKE, extend the lock duration or perform a relock. Your veCAKE balance on destination chains will linearly decrease along with the balance on the BNB Chain.
+A: veCAKE의 경우 CAKE를 추가하거나, 락업 기간을 연장하거나, 재락업을 수행할 때만 동기화하면 됩니다. 대상 체인의 veCAKE 잔액은 BNB 체인의 잔액과 함께 선형적으로 감소합니다.
 
-For Pancake Profile and its NFT. You will need to perform two syncs to participate in the Private Sales. The first one should be performed when the IFO is published and becomes viewable on UI. Another one should be performed after the IFO sale ends to enable claiming.
+Pancake Profile과 해당 NFT의 경우, 프라이빗 세일에 참여하려면 두 번의 동기화가 필요합니다. 첫 번째는 IFO가 게시되어 UI에 표시될 때 수행해야 합니다. 두 번째는 수령을 활성화하기 위해 IFO 판매가 종료된 후에 수행해야 합니다.
 
-**Q: How long does the bridging take?**
+**Q: 브릿지에는 얼마나 걸리나요?**
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt="" width="253"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%282%29%20%281%29%20%281%29.png" alt="" width="253"><figcaption></figcaption></figure>
 
-Depending on the destination chains. It usually takes around 2-5 mins to bridge and fully sync. For some slower chains, it could take up to 30 mins. To track your bridging request, check the sync modal for the LayerZero explorer link. Or head to [https://layerzeroscan.com/](https://layerzeroscan.com/) and search via the BNB Chain tx id.
+대상 체인에 따라 다르지만, 브릿지와 전체 동기화에는 보통 2~5분 정도 걸립니다. 속도가 느린 일부 체인은 최대 30분까지 걸릴 수 있습니다. 브릿지 요청을 추적하려면 동기화 창에서 LayerZero 탐색기 링크를 확인하거나, [https://layerzeroscan.com/](https://layerzeroscan.com/)에 접속하여 BNB 체인 트랜잭션 ID로 검색하세요.
 
-**Q: Why the bridging tx on BNB Chain is failing?**
-
-A:
-
-* It could be because the gas estimation for the destination chain is out of date. Please refresh the page and retry.
-* Please also ensure there are sufficient amounts of BNB in the wallet to settle the gas fee required on the destination chain.
-
-**Q: Why my veCAKE or Pancake Profile is not bridged?**
+**Q: BNB 체인에서 브릿지 트랜잭션이 실패하는 이유는 무엇인가요?**
 
 A:
 
-* veCAKE position with less than 1 day in the remaining lock time will not be bridged. Please first extend the lock and retry the sync.
-* The sync could take up to 30 minutes to complete. Please head to https://layerzeroscan.com/ and search via the BNB Chain tx ID to confirm that the bridging status is “Delivered.”
-* If the bridging status is “Failed” or “Blocked”. Please contact one of our ambassadors via the public channel for more details.
+* 대상 체인의 가스 추정치가 오래되었기 때문일 수 있습니다. 페이지를 새로고침한 후 다시 시도해 주세요.
+* 또한 대상 체인에서 필요한 가스 비용을 지불할 수 있도록 지갑에 BNB가 충분한지 확인해 주세요.
+
+**Q: veCAKE 또는 Pancake Profile이 브릿지되지 않는 이유는 무엇인가요?**
+
+A:
+
+* 남은 락업 기간이 1일 미만인 veCAKE 포지션은 브릿지되지 않습니다. 먼저 락업을 연장한 후 동기화를 다시 시도해 주세요.
+* 동기화를 완료하는 데 최대 30분이 걸릴 수 있습니다. https://layerzeroscan.com/ 에 접속하여 BNB 체인 트랜잭션 ID로 검색하고 브릿지 상태가 "Delivered"인지 확인해 주세요.
+* 브릿지 상태가 "Failed" 또는 "Blocked"인 경우, 공개 채널을 통해 앰배서더에게 문의하여 자세한 내용을 확인해 주세요.

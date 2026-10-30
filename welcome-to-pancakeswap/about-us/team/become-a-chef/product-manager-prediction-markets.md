@@ -2,34 +2,34 @@
 hidden: true
 ---
 
-# Product Manager \[Prediction Markets]
+# 프로덕트 매니저 \[예측 시장]
 
-Probable is a zero-fee, on-chain prediction market platform launched on BNB Chain, incubated by PancakeSwap and supported by YZi Labs. It focuses on user-friendly predictions across crypto, sports, global events, and regional markets, with features like automatic token conversion to USDT and outcomes resolved via UMA's Optimistic Oracle.
+Probable은 BNB 체인에서 출시된 수수료 없는 온체인 예측 시장 플랫폼으로, PancakeSwap이 인큐베이팅하고 YZi Labs가 지원합니다. 암호화폐, 스포츠, 글로벌 이벤트, 지역 시장 전반에 걸친 사용자 친화적인 예측에 중점을 두며, USDT로의 자동 토큰 전환과 UMA의 Optimistic Oracle을 통한 결과 확정 등의 기능을 제공합니다.
 
-As a recently launched project (unveiled in December 2025), Probable appears to operate with a small or integrated team, likely leveraging PancakeSwap's pseudonymous "Kitchen" structure.
+최근 출시된 프로젝트(2025년 12월 공개)로서 Probable은 소규모 또는 통합된 팀으로 운영되는 것으로 보이며, PancakeSwap의 익명 "키친(Kitchen)" 구조를 활용하는 것으로 추정됩니다.
 
-Given its incubation by PancakeSwap, product strategy and execution are managed through their existing team. The closest equivalent is PancakeSwap's Product Manager position, which involves end-to-end product development in a DeFi/crypto context.
+PancakeSwap의 인큐베이팅을 받는 만큼 제품 전략과 실행은 기존 팀을 통해 관리됩니다. 가장 가까운 포지션은 DeFi/암호화폐 환경에서 엔드투엔드 제품 개발을 담당하는 PancakeSwap의 프로덕트 매니저입니다.&#x20;
 
-#### Responsibilities
+#### 담당 업무
 
-* Collaborate with internal stakeholders (leads, design, devs, bd, marketing, qa, data, ops) to craft future products from 0 to 1.
-* Perform market research and identify potential product use cases.
-* Turn requirements and ideas from other stakeholders into complete designs.
-* Visualise userflow with wireframe and assist design to complete the UI/UX.
-* Assist and work with the dev team to build the product.
-* Resolve product issues with qa team.
-* Plan GTM strategies and campaigns with marketing team.
-* Coordinate with external members from partners.
-* Help ops team to perform product deployment.
-* Analyse data and improve product experience with data team.
-* Gather info, provide options to other stakeholders to make critical decisions when needed.
-* Able to work remotely, autonomously with great self initiative.
+* 내부 이해관계자(리드, 디자인, 개발, BD, 마케팅, QA, 데이터, 운영)와 협력하여 미래 제품을 0에서 1까지 만들어 갑니다.
+* 시장 조사를 수행하고 잠재적인 제품 활용 사례를 발굴합니다.
+* 다른 이해관계자의 요구 사항과 아이디어를 완성된 디자인으로 구체화합니다.
+* 와이어프레임으로 사용자 흐름을 시각화하고 디자인이 UI/UX를 완성하도록 지원합니다.
+* 개발 팀이 제품을 만들 수 있도록 지원하고 함께 일합니다.
+* QA 팀과 함께 제품 이슈를 해결합니다.
+* 마케팅 팀과 GTM 전략 및 캠페인을 계획합니다.
+* 파트너 측 외부 인원과 조율합니다.
+* 운영 팀의 제품 배포를 돕습니다.
+* 데이터 팀과 함께 데이터를 분석하고 제품 경험을 개선합니다.
+* 필요할 때 다른 이해관계자가 중요한 결정을 내릴 수 있도록 정보를 수집하고 선택지를 제공합니다.
+* 강한 주도성으로 원격에서 자율적으로 일할 수 있는 분.
 
-#### Skills & Qualifications
+#### 역량 및 자격 요건
 
-* 3+ years experience in Crypto/DeFi/DEX and financial services/products.
-* Experience in full flow of product development. Nice to Have.
-* Technical background of blockchain and Web3 (to assist dev team to plan ahead when designing products. Think inside of the blockchain limitations, but think outside of the box for solutions).
-* Skills for blockchain deep dive, tx debug (to better assist qa and ops).
-* Figma skills (to build pretty mock-ups on your own with a design system).
-* Mandarin (to communicate with some other skillful bunnies).
+* 암호화폐/DeFi/DEX 및 금융 서비스/제품 분야 경력 3년 이상.
+* 제품 개발 전 과정에 대한 경험은 우대 사항입니다.
+* 블록체인 및 Web3 기술 배경 (제품을 설계할 때 개발 팀이 미리 계획하도록 돕기 위함입니다. 블록체인의 한계 안에서 생각하되, 해결책은 틀을 벗어나 생각하세요).
+* 블록체인 심층 분석 및 트랜잭션 디버깅 역량 (QA와 운영을 더 잘 지원하기 위함).
+* Figma 활용 능력 (디자인 시스템을 활용해 멋진 목업을 직접 만들기 위함).
+* 중국어(Mandarin) (다른 유능한 버니들과 소통하기 위함).

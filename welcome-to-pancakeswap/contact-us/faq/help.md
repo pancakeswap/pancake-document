@@ -1,33 +1,37 @@
-# I need help
+# 도움이 필요해요
 
-![](../../../.gitbook/assets/help-area-header.png)
 
-If you find yourself stuck, if something isn't working like it's meant to, or you're not sure if something has worked or not, this help section may be able to, well, help.
 
-## Help sections
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/help-area-header.png)
 
-We have broken the help topic down into sections to help you find what you're after. Below is an overview on what you'll find.
+막히는 부분이 있거나, 무언가 의도대로 작동하지 않거나, 제대로 처리되었는지 확신이 서지 않는다면 이 도움말 섹션이 도움이 될 수 있습니다.
 
-### Troubleshooting Errors
+## 도움말 섹션
 
-The [Troubleshooting Errors page](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/faq/troubleshooting) has a collection of errors users may run into while using PancakeSwap. It shows the problem with both a solution to the problem, and a reason explaining why the problem happened.
+원하는 내용을 쉽게 찾으실 수 있도록 도움말 주제를 여러 섹션으로 나누었습니다. 아래에서 각 섹션의 개요를 확인해 보세요.
 
-### General FAQ
+### 오류 문제 해결
 
-The [General FAQ page](https://docs.pancakeswap.finance/help/faq) answers the common questions we get from PancakeSwap users. The answers to these questions give advice, an explanation, or a link to a useful resource.
+[오류 문제 해결 페이지](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/faq/troubleshooting)에는 사용자가 PancakeSwap을 이용하며 마주칠 수 있는 오류가 모여 있습니다. 각 문제에 대한 해결 방법과 문제가 발생한 이유를 함께 보여 드립니다.
 
-### Other Guides
+### 일반 자주 묻는 질문 (FAQ)
 
-There are also a number of guides in the help topic that will walk you through technical problems. We add guides when a problem that may be difficult to solve comes up often, so if you're having trouble be sure to check here for a guide to your problem.
+[일반 FAQ 페이지](https://docs.pancakeswap.finance/help/faq)에서는 PancakeSwap 사용자들로부터 자주 받는 질문에 답변합니다. 답변에는 조언, 설명 또는 유용한 자료로 연결되는 링크가 담겨 있습니다.
 
-## Seeking support
+### 기타 가이드
 
-PancakeSwap doesn't have a dedicated support service. Instead, if you find yourself with a problem that has no answer here, you can ask for help on [PancakeSwap's Telegram channel](https://t.me/pancakeswap). For your safety, make sure you read the notice about scams if it's your first time on our Telegram.
+기술적인 문제를 단계별로 안내하는 가이드도 도움말 주제 안에 여러 개 준비되어 있습니다. 해결하기 어려울 수 있는 문제가 자주 발생하면 가이드를 추가하므로, 문제가 생기셨다면 이곳에서 해당 가이드를 확인해 보세요.
+
+## 지원 요청
+
+PancakeSwap에는 전담 지원 서비스가 없습니다. 대신 이곳에서 답을 찾을 수 없는 문제가 생기면 [PancakeSwap 텔레그램 채널](https://t.me/pancakeswap)에서 도움을 요청하실 수 있습니다. 안전을 위해 텔레그램에 처음 참여하셨다면 사기 관련 공지를 반드시 읽어 주세요.
+
+
 
 {% hint style="warning" %}
-**Looking for v1 Exchange?**
+**v1 익스체인지를 찾고 계신가요?**
 
 [https://v1exchange.pancakeswap.finance/#/swap](https://v1exchange.pancakeswap.finance/#/swap)
 
-⚠️ PancakeSwap V1 Exchange was deprecated on May 2021. Go to the [V2 Exchange](https://pancakeswap.finance/swap?chainId=56) instead for better prices on most pairs.
+⚠️ PancakeSwap V1 익스체인지는 2021년 5월에 지원이 종료되었습니다. 대부분의 페어에서 더 나은 가격을 제공하는 [V2 익스체인지](https://pancakeswap.finance/swap?chainId=56)를 이용해 주세요.
 {% endhint %}

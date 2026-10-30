@@ -1,87 +1,89 @@
-# Pancake Gifts FAQ
+# Pancake Gifts 자주 묻는 질문 (FAQ)
 
-This FAQ covers how Pancake Gifts work behind the scenes, what to expect in different scenarios, and why certain design choices were made.
+이 FAQ에서는 Pancake Gifts가 내부적으로 작동하는 방식, 다양한 상황에서 예상되는 동작, 그리고 특정 설계 선택의 이유를 다룹니다.
 
 ***
 
-## 1. 🔐 Gift Code Behavior & Access
+## 1. 🔐 선물 코드 동작 및 접근
 
-### **1.1 Why isn’t the gift code stored?**
+### **1.1 선물 코드는 왜 저장되지 않나요?**
 
-We **intentionally do not store** the gift code in:
+선물 코드는 다음 위치에 **의도적으로 저장하지 않습니다**.
 
-* Frontend local storage
-* Backend databases
+* 프론트엔드 로컬 스토리지
+* 백엔드 데이터베이스
 
-This protects:
+이를 통해 다음을 보호합니다.
 
-* User privacy
-* Security against device compromise
-* Accidental or malicious gift claims
+* 사용자 개인정보
+* 기기 침해에 대한 보안
+* 우발적이거나 악의적인 선물 수령
 
-### **1.2 Can I regenerate or retrieve the gift code later?**
+### **1.2 선물 코드를 나중에 다시 생성하거나 조회할 수 있나요?**
 
-No. The gift code:
+아니요. 선물 코드는 다음과 같습니다.
 
-* Is shown **only once** during creation
-* Is embedded in the **link** or **QR code** generated
-* Will **not be displayed again** in the UI or history
+* 생성 시 **한 번만** 표시됩니다.
+* 생성된 **링크** 또는 **QR 코드**에 포함되어 있습니다.
+* UI나 내역에 **다시 표시되지 않습니다**.
 
 {% hint style="warning" %}
-If the code is lost and you didn’t save the link or QR, the gift cannot be claimed manually. Instead, to retrieve your gift amount, you may manually cancel it.
+코드를 분실했고 링크나 QR을 저장하지 않았다면 선물을 수동으로 수령할 수 없습니다. 대신 선물 금액을 되찾으려면 수동으로 취소할 수 있습니다.
 {% endhint %}
 
-### **1.3 Will the gift code still be embedded in the share link or QR?**
+### **1.3 공유 링크나 QR에는 여전히 선물 코드가 포함되어 있나요?**
 
-Yes:
+네.
 
-* Share link includes the gift code (e.g. `pancakeswap.finance/gift#code=xxxx`)
-* QR code also embeds the gift code, but **cannot be regenerated later.**
+* 공유 링크에는 선물 코드가 포함됩니다(예: `pancakeswap.finance/gift#code=xxxx`).
+* QR 코드에도 선물 코드가 포함되어 있지만 **나중에 다시 생성할 수 없습니다.**&#x20;
 
 {% hint style="success" %}
-**Pro Tip:** Download the image once it's generated
+**꿀팁:** 이미지가 생성되면 바로 다운로드하세요
 {% endhint %}
 
-* Manual claims require the actual gift code — no fallback if the link/QR is lost
+* 수동 수령에는 실제 선물 코드가 필요합니다. 링크/QR을 분실한 경우 대안이 없습니다.
 
-## 2. 🎁 Gift Status & Expiry
+## 2. 🎁 선물 상태 및 만료
 
-### **2.1 Can I view whether a gift has been claimed, cancelled, or expired?**
+### **2.1 선물이 수령되었는지, 취소되었는지, 만료되었는지 확인할 수 있나요?**
 
-Yes. The **Gift History** section shows:
+네. **선물 내역** 섹션에서 다음을 확인할 수 있습니다.
 
-* Status: Pending / Claimed / Cancelled / Expired / Unclaimable
-* Gift details (token, amount, type, chain, timestamps)
+* 상태: 대기 중 / 수령 완료 / 취소됨 / 만료됨 / 수령 불가
+* 선물 상세 정보(토큰, 금액, 유형, 체인, 타임스탬프)
 
-### **2.2 What happens when a gift expires?**
+### **2.2 선물이 만료되면 어떻게 되나요?**
 
-If a gift is not claimed within the default **7-day window**:
+기본 **7일** 기간 내에 선물이 수령되지 않으면:
 
-* The **entire gift amount is refunded** to the creator’s wallet
-* The fixed **claim gas fee (\~$0.05) is not returned**
+* **선물 금액 전체가 환불**되어 생성자의 지갑으로 반환됩니다.
+* 고정 **수령 가스비(\~$0.05)는 반환되지 않습니다**.
 
-## 3. 🧠 Claim Logic & Limitations
+## 3. 🧠 수령 로직 및 제한 사항
 
-### **3.1 Can users claim a gift on a different chain from the one it was created on?**
+### **3.1 선물이 생성된 체인과 다른 체인에서 수령할 수 있나요?**
 
-No. A gift is **chain-bound**:
+아니요. 선물은 **체인에 종속**됩니다.
 
-* A gift created on **BSC** must be claimed on **BSC**
-* Cross-chain gifting is not currently supported
+* **BSC**에서 생성된 선물은 **BSC**에서 수령해야 합니다.
+* 크로스체인 선물은 현재 지원되지 않습니다.
 
-## 4. ⛽ Gas Fees & Design
+## 4. ⛽ 가스비 및 설계
 
-### **4.1 How is the fixed gas amount for gift creation decided?**
+### **4.1 선물 생성에 필요한 고정 가스 금액은 어떻게 결정되나요?**
 
-We set a flat gas price based on current BNB chain conditions (\~5 times current recommended Gas amount).
+현재 BNB 체인 상황을 기반으로 고정 가스 가격을 설정합니다(현재 권장 가스 금액의 약 5배).
 
-This buffer:
+이 버퍼는 다음 역할을 합니다.
 
-* Protects against sudden gas spikes
-* Ensures gifts remain claimable under normal volatility
+* 갑작스러운 가스비 급등으로부터 보호
+* 일반적인 변동성 하에서도 선물을 수령할 수 있도록 보장
 
 \
-Example
+예시
 
-* **Current recommended: 0.1 Gwei** (see: [BNB Gas Tracker](https://bscscan.com/gastracker))
-* **Therefore, Fixed gas claim fee= 0.1 Gwei x 5 = 0.5 Gwei**
+* **현재 권장: 0.1 Gwei** (참조: [BNB 가스 트래커](https://bscscan.com/gastracker))
+* **따라서 고정 가스 수령 수수료 = 0.1 Gwei x 5 = 0.5 Gwei**
+
+

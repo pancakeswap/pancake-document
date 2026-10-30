@@ -1,6 +1,6 @@
 # 🍩 Dual Investment
 
-<figure><img src="../.gitbook/assets/Frame 1 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Frame%201%20%282%29.png" alt=""><figcaption></figcaption></figure>
 
 Dual Investment lets you commit funds at a target price and earn a fixed reward, whichever way the market settles. Pick an asset, choose whether you want to **Buy Low** or **Sell High**, and select a target price and settlement date. At settlement, you receive your principal plus the reward, either in the asset you deposited or converted at your target price.
 
@@ -87,13 +87,13 @@ Head to [pancakeswap.finance/dual-investment](https://pancakeswap.finance/dual-i
 
 Select **BTCB** or **BNB**. Each card shows the current price and the APR range available across all products for that asset.
 
-<figure><img src="../.gitbook/assets/image (494).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28407%29.png" alt=""><figcaption></figcaption></figure>
 
 #### **2. Choose a direction**
 
 Select **Buy Low** to deposit USDT and buy the asset at a lower price, or **Sell High** to deposit the asset and sell it at a higher price.
 
-<figure><img src="../.gitbook/assets/image (495).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28430%29.png" alt=""><figcaption></figcaption></figure>
 
 #### **3. Pick a settlement date and target price**
 
@@ -101,13 +101,13 @@ Use the duration filters (**1 Day**, **< 3 Days**, **< 7 Days**, and longer) to 
 
 The countdown next to each settlement date shows how long you have left to subscribe. Subscriptions close before settlement.
 
-<figure><img src="../.gitbook/assets/image (496).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28475%29.png" alt=""><figcaption></figcaption></figure>
 
 #### **4. Enter your subscription amount**
 
 Click **Subscribe** on the target you want, then enter an amount or tap **MAX**. Each product has a minimum and maximum per subscription, and a fixed total capacity. Once a target is fully subscribed, it cannot reopen, so you will need to pick another target price.
 
-<figure><img src="../.gitbook/assets/image (497).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28476%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
 #### **5. Review and confirm**
 

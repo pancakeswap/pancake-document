@@ -1,67 +1,67 @@
-# Monad FAQ
+# Monad 자주 묻는 질문 (FAQ)
 
-#### 1. What fee tiers are available on PancakeSwap liquidity pools?
+#### 1. PancakeSwap 유동성 풀에서는 어떤 수수료 등급을 사용할 수 있나요?
 
-**Supported Fee Tiers:**
+**지원되는 수수료 등급:**
 
-* The following fee tiers are available for V3 (concentrated liquidity) pools: `0.01%, 0.05%, 0.25%, 1%`
-* For V2 pools only 0.25% fee tier pools are supported
+* V3(집중 유동성) 풀에서는 다음 수수료 등급을 사용할 수 있습니다: `0.01%, 0.05%, 0.25%, 1%`&#x20;
+* V2 풀은 0.25% 수수료 등급 풀만 지원됩니다
 
-#### 2. Can anyone create a pool?
+#### 2. 누구나 풀을 만들 수 있나요?
 
-Yes. Pool creation is permissionless, with a few exceptions:
+네. 풀 생성은 허가가 필요 없으며(permissionless), 몇 가지 예외가 있습니다.
 
-* Only one pool can exist for a given **token pair + fee tier** combination (e.g. only one WMON <> USDC 0.05% pool can exist at one time)
+* **토큰 페어 + 수수료 등급** 조합마다 하나의 풀만 존재할 수 있습니다 (예: WMON <> USDC 0.05% 풀은 동시에 하나만 존재할 수 있습니다)
 
-#### 3. How long does it take for a newly created pool to appear?
+#### 3. 새로 만든 풀이 나타나기까지 얼마나 걸리나요?
 
-* Pools typically appear in the pool list approximately **5 minutes** after creation.
-* If it doesn't appear:
-  * Use the **search bar** to locate it manually.
-  * Pools may be filtered from the list due to **low TVL**.
+* 풀은 보통 생성 후 약 **5분** 뒤에 풀 목록에 나타납니다.
+* 나타나지 않는 경우:
+  * **검색창**을 사용해 직접 찾아보세요.
+  * **낮은 TVL** 때문에 목록에서 필터링되었을 수 있습니다.
 
-#### 4. Why does my pool’s APR or TVL still show as zero?
+#### 4. 풀의 APR 또는 TVL이 계속 0으로 표시되는 이유는 무엇인가요?
 
-This is expected right after a new pool is created:
+새 풀을 만든 직후에는 정상적인 현상입니다.
 
-* APR and TVL data will only populate once **at least one swap** has occurred in the pool.
-* After a swap, these metrics will begin displaying within approximately **15 minutes**.
+* APR과 TVL 데이터는 풀에서 **최소 한 번의 스왑**이 발생한 후에야 채워집니다.
+* 스왑 이후 약 **15분** 이내에 해당 지표가 표시되기 시작합니다.
 
-#### **5. Why do my transactions sometimes fail if my wallet has less than 10 MON?**
+#### **5. 지갑에 MON이 10개 미만이면 트랜잭션이 가끔 실패하는 이유는 무엇인가요?**
 
-Monad has a rule that every account should keep a **minimum safety buffer of 10 MON**. If your balance is low and you send too many transactions too quickly, the network may **stop accepting new ones**.
+Monad에는 모든 계정이 **최소 10 MON의 안전 완충액**을 유지해야 한다는 규칙이 있습니다. 잔액이 적은 상태에서 너무 많은 트랜잭션을 너무 빠르게 보내면 네트워크가 **새 트랜잭션을 받지 않을 수** 있습니다.
 
-#### **6. Why do the first 1–2 transactions work, but the next ones fail?**
+#### **6. 처음 1~2개의 트랜잭션은 성공하는데 그다음부터 실패하는 이유는 무엇인가요?**
 
-Monad processes blocks using a slightly “behind” view of your balance. So:
+Monad는 잔액을 약간 "뒤처진" 시점의 상태로 보고 블록을 처리합니다. 따라서:
 
-* Your **first** transaction is usually fine.
-* Your **second** might also go through.
-* But if you send **multiple transactions within a short time**, the network thinks you might not have enough MON to pay all the gas fees.
+* **첫 번째** 트랜잭션은 보통 문제없이 처리됩니다.
+* **두 번째** 트랜잭션도 통과할 수 있습니다.
+* 하지만 **짧은 시간 안에 여러 트랜잭션**을 보내면, 네트워크는 모든 가스비를 지불하기에 MON이 부족할 수 있다고 판단합니다.
 
-So it **blocks** the next transaction. This is normal and part of the safety system.
+그래서 다음 트랜잭션을 **차단**합니다. 이는 정상적인 동작이며 안전 시스템의 일부입니다.
 
-#### **7. Why does it feel stricter on smart accounts (contract wallets)?**
+#### **7. 스마트 계정(컨트랙트 지갑)에서 더 엄격하게 느껴지는 이유는 무엇인가요?**
 
-Smart accounts follow **stricter rules**:
+스마트 계정에는 **더 엄격한 규칙**이 적용됩니다.
 
-* They must **always** keep at least **10 MON** while running contract code.
-* If your smart account is below 10 MON, the transaction can **revert immediately**, even if EOAs still work for a couple of tx.
+* 컨트랙트 코드를 실행하는 동안 **항상** 최소 **10 MON**을 유지해야 합니다.
+* 스마트 계정의 잔액이 10 MON 미만이면, EOA는 몇 건의 트랜잭션이 계속 처리되더라도 트랜잭션이 **즉시 revert**될 수 있습니다.
 
-This is why smart-account users see failures sooner.
+그래서 스마트 계정 사용자는 실패를 더 빨리 겪게 됩니다.
 
-#### **8. Does this mean I can’t use Monad with less than 10 MON?**
+#### **8. MON이 10개 미만이면 Monad를 사용할 수 없다는 뜻인가요?**
 
-You _can_ still use it, especially with a normal EOA — but:
+특히 일반 EOA라면 여전히 사용할 _수_ 있지만 다음 사항을 지켜 주세요.
 
-* Don’t send several transactions back-to-back.
-* Wait a few blocks between transactions.
-* Keep a little MON in your wallet to avoid issues.
+* 여러 트랜잭션을 연달아 보내지 마세요.
+* 트랜잭션 사이에 몇 개의 블록을 기다리세요.
+* 문제를 방지하려면 지갑에 소량의 MON을 남겨 두세요.
 
-#### **9. How do I avoid these failures?**
+#### **9. 이러한 실패를 피하려면 어떻게 해야 하나요?**
 
-Simple tips:
+간단한 팁입니다.
 
-* Keep **10 MON or more** in your wallet if possible.
-* If you’re low on MON, **space out your transactions** (don’t spam them).
-* Smart-account users should keep a **bit more than 10 MON**, since contract calls use extra gas.
+* 가능하면 지갑에 **10 MON 이상**을 유지하세요.
+* MON이 부족하다면 **트랜잭션 간격을 두세요** (연속으로 보내지 마세요).
+* 스마트 계정 사용자는 컨트랙트 호출에 가스가 더 사용되므로 **10 MON보다 조금 더** 유지하세요.

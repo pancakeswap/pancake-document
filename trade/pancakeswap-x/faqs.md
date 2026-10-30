@@ -1,37 +1,37 @@
-# FAQs
+# 자주 묻는 질문 (FAQ)
 
-#### Which network is currently supported?
+#### 현재 지원되는 네트워크는 무엇인가요?
 
-PancakeSwap X is live on Arbitrum, Ethereum, BNB Chain, Base, and Robinhood Chain, supporting crypto token swaps. Real-world assets (RWAs) like tokenised stocks, bonds, and ETFs are additionally supported on BNB Chain, Ethereum, and Robinhood Chain.
+PancakeSwap X는 Arbitrum, Ethereum, BNB Chain, Base, Robinhood Chain에서 운영 중이며 암호화폐 토큰 스왑을 지원합니다. 토큰화 주식, 채권, ETF 같은 실물 자산(RWA)은 BNB Chain, Ethereum, Robinhood Chain에서 추가로 지원됩니다.
 
-#### Is PancakeSwap X on by default?
+#### PancakeSwap X는 기본으로 켜져 있나요?
 
-Yes.
+네.
 
-#### Why is my swap not going through PancakeSwap X?
+#### 제 스왑이 PancakeSwap X를 통해 처리되지 않는 이유는 무엇인가요?
 
-PancakeSwap X is a part of the “Swap” product. The Swap interface automatically compare and choose the most optimal liquidity source with the best price for you. Therefore PancakeSwap X will be utilised only when:
+PancakeSwap X는 "Swap" 제품의 일부입니다. Swap 인터페이스는 가장 좋은 가격을 제공하는 최적의 유동성 소스를 자동으로 비교하여 선택합니다. 따라서 PancakeSwap X는 다음 조건을 모두 충족할 때만 사용됩니다.
 
-* The current network supports PancakeSwap X
-* The current trading pair supports PancakeSwap X
-* The pricing is better on PancakeSwap X than other liquidity sources
+* 현재 네트워크가 PancakeSwap X를 지원하는 경우
+* 현재 거래 페어가 PancakeSwap X를 지원하는 경우
+* PancakeSwap X의 가격이 다른 유동성 소스보다 더 좋은 경우
 
-If your order is not going through PancakeSwap X, you are not missing anything, as you are already enjoying the best price.
+주문이 PancakeSwap X를 통해 처리되지 않더라도 이미 최적의 가격을 누리고 있는 것이므로 놓치는 것은 없습니다.
 
-#### Why is my swap failing with PancakeSwap X?
+#### PancakeSwap X로 스왑이 실패하는 이유는 무엇인가요?
 
-When trading via PancakeSwap X, orders are actively filled by liquidity providers. Therefore, in some rare cases, often due to rapid market movements, liquidity providers may fail to fill the orders in time, resulting in failed orders.
+PancakeSwap X로 거래할 때 주문은 유동성 공급자가 적극적으로 체결합니다. 따라서 드물게, 주로 시장이 급변하는 경우 유동성 공급자가 제때 주문을 체결하지 못해 주문이 실패할 수 있습니다.
 
-In this case, simply retry by re-submitting the order. If the error persists, please disable the PancakeSwap X from the settings.
+이 경우 주문을 다시 제출하여 재시도하세요. 오류가 계속되면 설정에서 PancakeSwap X를 비활성화해 주세요.
 
-#### Is there any fee when using PancakeSwap X?
+#### PancakeSwap X를 사용할 때 수수료가 있나요?
 
-For now, PancakeSwap X does not charge any fee. Fee rate is subject to change in the future.
+현재 PancakeSwap X는 수수료를 부과하지 않습니다. 수수료율은 향후 변경될 수 있습니다.
 
-#### How does PancakeSwap X work without gas fees?
+#### PancakeSwap X는 어떻게 가스비 없이 작동하나요?
 
-Orders are sent to a network of fillers off-chain who bear the gas cost while executing the order on-chain.
+주문은 오프체인의 필러(filler) 네트워크로 전송되며, 필러가 온체인에서 주문을 실행하면서 가스 비용을 부담합니다.
 
-#### What happens if a transaction fails on PancakeSwap X?
+#### PancakeSwap X에서 트랜잭션이 실패하면 어떻게 되나요?
 
-Nothing to worry. Your funds are safe in your wallet.
+걱정하지 않으셔도 됩니다. 자금은 지갑에 안전하게 보관되어 있습니다.&#x20;

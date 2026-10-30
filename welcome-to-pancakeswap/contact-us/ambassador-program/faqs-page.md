@@ -1,31 +1,32 @@
-# ❓ FAQs Page
+# ❓ 자주 묻는 질문 (FAQ) 페이지
 
-### **Who can apply to be a PancakeSwap Ambassador?**
+### **누가 PancakeSwap 앰배서더에 지원할 수 있나요?**
 
-Anyone who meets the requirements outlined in the document, including native in both English and the local language of the region they’re applying to, has business-level fluency in written and spoken communication, a strong understanding of PancakeSwap, and a genuine enthusiasm for community building.
+문서에 명시된 요건을 충족하는 누구나 지원할 수 있습니다. 여기에는 영어와 지원하는 지역의 현지 언어에 모두 능통하고, 서면 및 구두 의사소통에서 업무 수준의 유창함을 갖추고 있으며, PancakeSwap에 대한 깊은 이해와 커뮤니티 구축에 대한 진정한 열정이 있는 경우가 포함됩니다.
 
-### **Do I need prior experience in event planning or community management?**
+### **이벤트 기획이나 커뮤니티 관리 경험이 꼭 필요한가요?**
 
-While prior experience is a plus, it’s not required. We’ll provide all the guidance and support you need to succeed.
+경험이 있으면 도움이 되지만 필수는 아닙니다. 성공에 필요한 모든 안내와 지원을 제공해 드립니다.
 
-### **What is the time commitment for an Ambassador?**
+### **앰배서더에게 요구되는 시간은 어느 정도인가요?**
 
-Time commitment will vary depending on your activities, but hosting events and engaging with your community will require an ongoing effort.
+활동에 따라 달라지지만, 이벤트를 개최하고 커뮤니티와 소통하려면 지속적인 노력이 필요합니다.
 
-### **Will I receive resources to support my events?**
+### **이벤트를 지원할 자료를 받을 수 있나요?**
 
-Absolutely! Our community team will provide you with onboarding materials, event planning support, and ongoing guidance.
+물론입니다! 저희 커뮤니티 팀이 온보딩 자료, 이벤트 기획 지원, 지속적인 가이드를 제공해 드립니다.
 
-### **What rewards can I expect?**
+### **어떤 보상을 기대할 수 있나요?**
 
-Rewards include financial compensation for completed tasks, exclusive PancakeSwap merchandise, and global recognition within the DeFi community.
+완료한 업무에 대한 금전적 보상, PancakeSwap 한정 굿즈, DeFi 커뮤니티 내 글로벌 인지도가 보상에 포함됩니다.
 
-### **How will interviews be conducted?**
+### **인터뷰는 어떻게 진행되나요?**
 
-Interviews will be held online via video call, so make sure you’re ready to communicate effectively with an open camera.
+인터뷰는 화상 통화로 온라인에서 진행되므로, 카메라를 켜고 효과적으로 소통할 수 있도록 준비해 주세요.
 
-### **What happens if I’m selected?**
+### **선발되면 어떻게 되나요?**
 
-You’ll be onboarded into the PancakeSwap Ambassador Program, where you’ll get the support you need to host your first event and represent PancakeSwap in your community.
+PancakeSwap 앰배서더 프로그램에 온보딩되어, 첫 이벤트를 개최하고 지역 커뮤니티에서 PancakeSwap을 대표하는 데 필요한 지원을 받으실 수 있습니다.
 
 ###
+

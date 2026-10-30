@@ -1,79 +1,79 @@
 ---
-description: 'Syrup Pools: the simplest way to earn on PancakeSwap'
+description: '시럽 풀: PancakeSwap에서 수익을 얻는 가장 간단한 방법'
 ---
 
-# Syrup Pools
+# 시럽 풀
 
-![](../../../.gitbook/assets/how-to-syrup-pool-staking-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-syrup-pool-staking-header.png)
 
-Staking in [Syrup Pools](https://docs.pancakeswap.finance/products/syrup-pool) lets you earn CAKE or other tokens while you sleep!
+[시럽 풀](https://docs.pancakeswap.finance/products/syrup-pool)에 스테이킹하면 잠자는 동안에도 CAKE 또는 다른 토큰을 획득할 수 있습니다!
 
-It's simpler than farming with PancakeSwap's Yield Farms because unlike the Farms, you only need to stake **one token** to start earning: usually CAKE.
+PancakeSwap의 파밍보다 더 간단합니다. 파밍과 달리 수익을 얻기 위해 **한 가지 토큰**(보통 CAKE)만 스테이킹하면 되기 때문입니다.
 
-## **Getting started with Syrup Pool staking**
+## **시럽 풀 스테이킹 시작하기**
 
-1\. Go to the Pools page [here](https://pancakeswap.finance/pools).
+1\. [여기](https://pancakeswap.finance/pools)에서 풀 페이지로 이동합니다.
 
-![](../../../.gitbook/assets/1-how-to-stake-in-syrup-pool.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1-how-to-stake-in-syrup-pool.png)
 
-2\. Connect to your BNB Smart Chain-compatible wallet by clicking the **Connect** button (top right-hand side).
+2\. 오른쪽 상단의 **Connect** 버튼을 클릭하여 BNB Smart Chain 호환 지갑에 연결합니다.
 
-![](../../../.gitbook/assets/2-how-to-stake-in-syrup-pool.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/2-how-to-stake-in-syrup-pool.png)
 
-3\. Choose your wallet and connect.
+3\. 지갑을 선택하고 연결합니다.
 
-![](<../../../.gitbook/assets/3-how-to-stake-in-syrup-pool (1).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/3-how-to-stake-in-syrup-pool%20%282%29.png)
 
-4\. Choose which Syrup Pool you want to stake in.
+4\. 스테이킹할 시럽 풀을 선택합니다.
 
-![](../../../.gitbook/assets/4-how-to-stake-in-syrup-pool.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/4-how-to-stake-in-syrup-pool.png)
 
-**IFO CAKE** automatically compounds your rewards: any CAKE you earn will be harvested and re-invested in the same pool for you. You can also earn IFO Credit during the calculation period.
+**IFO CAKE**는 보상을 자동으로 복리 투자합니다. 획득한 CAKE는 수확되어 동일한 풀에 자동으로 재투자됩니다. 또한 계산 기간 동안 IFO 크레딧을 획득할 수 있습니다.
 
-**Auto CAKE** automatically compounds your rewards: any CAKE you earn will be harvested and re-invested in the same pool for you.
+**Auto CAKE**는 보상을 자동으로 복리 투자합니다. 획득한 CAKE는 수확되어 동일한 풀에 자동으로 재투자됩니다.
 
-**Manual CAKE** doesn’t automatically compound like Auto CAKE. You’ll need to harvest and compound your earnings manually.
+**Manual CAKE**는 Auto CAKE처럼 자동으로 복리 투자되지 않습니다. 수익을 직접 수확하고 복리 투자해야 합니다.
 
-Other Syrup Pools let you stake your CAKE to earn dozens of other cool tokens. Make sure you check them out.
+다른 시럽 풀에서는 CAKE를 스테이킹하여 수십 가지의 다양한 토큰을 획득할 수 있습니다. 꼭 확인해 보세요.
 
 ***
 
-5\. Once you choose a pool, click the **Enable** button. Your wallet will ask you to confirm the action.
+5\. 풀을 선택한 후 **Enable** 버튼을 클릭합니다. 지갑이 작업 확인을 요청합니다.
 
-6\. The Enable button should now be replaced with **Stake**. Click the button to bring up the staking menu.
+6\. 이제 Enable 버튼이 **Stake**로 바뀝니다. 버튼을 클릭하여 스테이킹 메뉴를 엽니다.
 
-![](<../../../.gitbook/assets/image (269).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28263%29.png)
 
-7\. Type in an amount or slide the rabbit to choose how much CAKE you want to stake.
+7\. 수량을 입력하거나 토끼를 슬라이드하여 스테이킹할 CAKE의 양을 선택합니다.
 
-![](<../../../.gitbook/assets/image (302).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28301%29.png)
 
-8\. Click **Confirm**. Your wallet will ask you to confirm the action.
+8\. **Confirm**을 클릭합니다. 지갑이 작업 확인을 요청합니다.
 
-![](<../../../.gitbook/assets/image (188).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28178%29.png)
 
-9\. The Confirm button will change to "Confirming", then once the transaction is successful, you’ll see your staked amount change and the button will change again.
+9\. Confirm 버튼이 "Confirming"으로 바뀌고, 트랜잭션이 성공하면 스테이킹된 수량이 바뀌고 버튼도 다시 바뀝니다.
 
-10\. You should now be able to see details on your Syrup Pool. Auto CAKE will show a countdown until the unstaking fee ends. The other pools will show a **Collect** button to claim your staking rewards into your wallet.
+10\. 이제 시럽 풀의 상세 정보를 확인할 수 있습니다. Auto CAKE는 언스테이킹 수수료가 끝날 때까지의 카운트다운을 표시합니다. 다른 풀에는 스테이킹 보상을 지갑으로 수령하는 **Collect** 버튼이 표시됩니다.
 
-![](<../../../.gitbook/assets/image (164).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28152%29.png)
 
-### **Adding and removing CAKE from a pool**
+### **풀에 CAKE 추가 및 제거하기**
 
-You can easily add more CAKE to a Syrup Pool, or move some CAKE to a more profitable pool. Here’s how you can move your staked CAKE.
+시럽 풀에 CAKE를 쉽게 더 추가하거나, 일부 CAKE를 더 수익성이 높은 풀로 옮길 수 있습니다. 스테이킹한 CAKE를 옮기는 방법은 다음과 같습니다.
 
-1\. Click the **-** to take some CAKE out of a pool, or the **+** to add more to the pool.
+1\. 풀에서 CAKE를 일부 꺼내려면 **-**를, 풀에 더 추가하려면 **+**를 클릭합니다.
 
-![](<../../../.gitbook/assets/image (40).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2829%29.png)
 
-Please note that unstaking from the Auto CAKE pool has a fee of 0.1% if you unstake within 72 hours.
+Auto CAKE 풀에서 72시간 이내에 언스테이킹하면 0.1%의 수수료가 부과된다는 점에 유의하세요.
 
-2\. A window will open. If you clicked the **+**, choose the amount you would like to add to the pool. If you clicked the **-**, choose the amount to take out of the pool.
+2\. 창이 열립니다. **+**를 클릭한 경우 풀에 추가할 수량을 선택하세요. **-**를 클릭한 경우 풀에서 꺼낼 수량을 선택하세요.
 
-![](<../../../.gitbook/assets/image (138).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28127%29.png)
 
-3\. Click **Confirm**.
+3\. **Confirm**을 클릭합니다.
 
-4\. After a little wait, you'll be able to see your new amount of staked tokens.
+4\. 잠시 기다리면 새로운 스테이킹 토큰 수량을 확인할 수 있습니다.
 
-![](<../../../.gitbook/assets/image (304).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28303%29.png)

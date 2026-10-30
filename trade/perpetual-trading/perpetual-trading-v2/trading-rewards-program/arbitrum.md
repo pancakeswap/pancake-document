@@ -1,43 +1,45 @@
 # Arbitrum
 
-On 31st August 2023, PancakeSwap Perpetuals will launch the V2 Trading Rewards Program on Arbitrum. Users who stake [ALP in CAKE syrup pool](https://pancakeswap.finance/pools?chain=arb) on Arbitrum can enjoy boosting multipliers. In addition, there is no vesting period for rewards earned in this program. Users may claim their USDC rewards at any time. Details are as follows:
+2023년 8월 31일, PancakeSwap 무기한 선물은 Arbitrum에서 V2 트레이딩 리워드 프로그램을 시작합니다. Arbitrum의 [CAKE 시럽 풀에 ALP](https://pancakeswap.finance/pools?chain=arb)를 스테이킹한 사용자는 부스팅 배수를 적용받을 수 있습니다. 또한 이 프로그램에서 획득한 리워드에는 베스팅 기간이 없습니다. 사용자는 언제든지 USDC 리워드를 수령할 수 있습니다. 세부 내용은 다음과 같습니다.
 
-Starting time: 31st August 2023, 08:00 (UTC)
+시작 시간: 2023년 8월 31일 08:00 (UTC)
 
-Activity (Epoch) period: Every Thursday 08:00:00 UTC to the next Thursday 07:59:59, lasting 1 week
+활동(에포크) 기간: 매주 목요일 08:00:00 UTC부터 다음 주 목요일 07:59:59까지, 1주일 동안 진행됩니다
 
-Reward Distribution Time: Each cycle is 00:00 (UTC) to 23:59 (UTC) daily. Rewards are issued on every Thursday at around 08:00 (UTC). After user's tier is update, rewards will be calculated and distributed. Users have to claim their rewards within 30 days after the rewards are issued. If they do not, the platform will revoke the rewards.
+리워드 지급 시간: 각 주기는 매일 00:00 (UTC)부터 23:59 (UTC)까지입니다. 리워드는 매주 목요일 08:00 (UTC) 무렵에 지급됩니다. 사용자의 티어가 업데이트된 후 리워드가 계산되어 분배됩니다. 사용자는 리워드가 지급된 후 30일 이내에 리워드를 수령해야 합니다. 수령하지 않으면 플랫폼이 리워드를 회수합니다.&#x20;
 
-Reward amount: For the first 5 weeks, 25% of trading fees (in USDC). This prize pool will then be distributed according to tiers.
+리워드 금액: 처음 5주 동안은 거래 수수료의 25%(USDC)입니다. 이 상금 풀은 이후 티어에 따라 분배됩니다.
 
-Activity rules: Users who trade on PancakeSwap Perpetuals V2 on Arbitrum will qualify for the prize pool
+활동 규칙: Arbitrum의 PancakeSwap 무기한 선물 V2에서 거래하는 사용자는 상금 풀 자격을 갖게 됩니다
 
-### Tier Breakdown
+### 티어 구성
 
-Every Thursday at 08:00:00 UTC, we calculate the trading data from last Thursday 08:00:00 UTC to this Thursday at 07:59:59 and then update the user's Tier according to the Tier rules. The Tier rules are as follows (configuration is supported):
+매주 목요일 08:00:00 UTC에 지난 목요일 08:00:00 UTC부터 이번 목요일 07:59:59까지의 거래 데이터를 계산한 후 티어 규칙에 따라 사용자의 티어를 업데이트합니다. 티어 규칙은 다음과 같습니다(설정 변경이 지원됩니다).
 
-<table><thead><tr><th width="161">Tier</th><th width="249.33333333333331">Description</th><th>Weight</th></tr></thead><tbody><tr><td>Diamond</td><td>Epoch trading amount >=1M USD</td><td>5</td></tr><tr><td>Gold</td><td>Epoch trading amount >=500K USD</td><td>3</td></tr><tr><td>Silver</td><td>Epoch trading amount >=250K USD</td><td>1</td></tr></tbody></table>
+<table><thead><tr><th width="161">티어</th><th width="249.33333333333331">설명</th><th>가중치</th></tr></thead><tbody><tr><td>Diamond</td><td>에포크 거래 금액 >=1M USD</td><td>5</td></tr><tr><td>Gold</td><td>에포크 거래 금액 >=500K USD</td><td>3</td></tr><tr><td>Silver</td><td>에포크 거래 금액 >=250K USD</td><td>1</td></tr></tbody></table>
 
-**Note: The tier criteria and weights are subject to change based on pool liquidity and overall trading activity on the platform**
+**참고: 티어 기준과 가중치는 풀 유동성과 플랫폼의 전체 거래 활동에 따라 변경될 수 있습니다**
 
-Rewards will be distributed equally across all users who qualify for a certain tier
+리워드는 특정 티어의 자격을 갖춘 모든 사용자에게 균등하게 분배됩니다
 
-### Trading Rewards calculation formula:
+### 트레이딩 리워드 계산 공식:&#x20;
 
-At the end of each trading reward cycle, the user’s effective trading volume in that cycle will be calculated to determine the weightage and amount of USDC rewards.
+각 트레이딩 리워드 주기가 끝나면 해당 주기에서 사용자의 유효 거래량을 계산하여 USDC 리워드의 가중치와 수량을 결정합니다.
 
-The formula for the number of specific rewards is: r = min{R \* W/Sum(Wi), R \* 20%\}, the parameters are as follows:
+구체적인 리워드 수량 공식은 r = min{R \* W/Sum(Wi), R \* 20%\}이며, 매개변수는 다음과 같습니다.
 
-<table data-header-hidden><thead><tr><th width="139"></th><th></th></tr></thead><tbody><tr><td>r</td><td>Amount of USDC reward to be mined by the user for the current epoch</td></tr><tr><td>R</td><td>The reward of the current epoch R=(USDC value of ETH fee + USDC value of DAI fee + USDC value of BTC fee + USDC fee)*0.25, of which 1% Swap fee needs to be deducted when it comes to the settlement, for example: when the weekly ETH fee is 1 and the ETH Price is 2,000, the ETH fee for the USDC value = 1 * 2000 * 0.99</td></tr><tr><td>W</td><td>Weight corresponding to the user's Tier level</td></tr><tr><td>Sum(Wi)</td><td>Total weight score of all users. Wi represents the weight of any user, and sum(Wi) represents sum weight scores of all users.</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="139"></th><th></th></tr></thead><tbody><tr><td>r</td><td>현재 에포크에서 사용자가 채굴하게 될 USDC 리워드 수량</td></tr><tr><td>R</td><td>현재 에포크의 리워드 R=(ETH 수수료의 USDC 가치 + DAI 수수료의 USDC 가치 + BTC 수수료의 USDC 가치 + USDC 수수료)*0.25이며, 정산 시 1% 스왑 수수료를 차감해야 합니다. 예를 들어 주간 ETH 수수료가 1이고 ETH 가격이 2,000이면, USDC 가치로 환산한 ETH 수수료 = 1 * 2000 * 0.99입니다</td></tr><tr><td>W</td><td>사용자의 티어 등급에 해당하는 가중치</td></tr><tr><td>Sum(Wi)</td><td>모든 사용자의 총 가중치 점수입니다. Wi는 개별 사용자의 가중치를, sum(Wi)는 모든 사용자의 가중치 점수 합계를 나타냅니다.</td></tr></tbody></table>
 
-* The max revenue share per user is capped at 20% of the revenue reserved for the program
+* 사용자당 최대 수익 분배액은 프로그램을 위해 확보된 수익의 20%로 제한됩니다
 
-Terms and Conditions
+이용 약관
 
-* Due to the difference in trading fees for each trading pair on V2, the rewards users receive may vary even though their effective trading volumes are the same.
-* The rewards to be distributed for each cycle will be stored in the following contract address:
-* PancakeSwap/ApolloX reserves the right of final interpretation for this activity.
+* V2의 거래 페어마다 거래 수수료가 다르기 때문에, 유효 거래량이 같더라도 사용자가 받는 리워드는 달라질 수 있습니다.
+* 각 주기에 분배될 리워드는 다음 컨트랙트 주소에 보관됩니다:&#x20;
+* PancakeSwap/ApolloX는 이 활동에 대한 최종 해석 권한을 보유합니다.
 
-Risk Warning: Crypto futures trading carries a substantial risk. All trading activities are done at your discretion and at your own risk. The information here should not be regarded as financial or investment advice from PancakeSwap/ApolloX. PancakeSwap/ApolloX will not be liable for any loss that might arise from your use of PancakeSwap/ApolloX.
+
+
+위험 경고: 암호화폐 선물 거래는 상당한 위험을 수반합니다. 모든 거래 활동은 사용자의 재량과 책임하에 이루어집니다. 여기에 있는 정보는 PancakeSwap/ApolloX의 재무 또는 투자 조언으로 간주되어서는 안 됩니다. PancakeSwap/ApolloX는 사용자가 PancakeSwap/ApolloX를 이용함으로써 발생할 수 있는 어떠한 손실에 대해서도 책임지지 않습니다.
 
 <br>

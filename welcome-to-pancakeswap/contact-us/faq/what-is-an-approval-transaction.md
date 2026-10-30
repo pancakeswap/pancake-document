@@ -1,33 +1,37 @@
-# What is an Approval Transaction?
+# 승인 트랜잭션이란 무엇인가요?
 
-**The first time you swap or add liquidity, you have to approve the token you are swapping. This gives the PancakeSwap smart contract permission to swap that token from your wallet.**
+**스왑하거나 유동성을 추가할 때 처음에는 스왑할 토큰을 승인해야 합니다. 이는 PancakeSwap 스마트 컨트랙트가 지갑에서 해당 토큰을 스왑할 수 있도록 권한을 부여하는 절차입니다.**
 
-The approval transaction allows PancakeSwap permission to swap the token from your wallet. You have to complete an approval transaction for every token you want to swap using PancakeSwap.
 
-Here is a guide on how to complete an approval transaction:
 
-1.  Enter your swap details.
+승인 트랜잭션은 PancakeSwap이 지갑에서 토큰을 스왑할 수 있도록 허용합니다. PancakeSwap으로 스왑하려는 모든 토큰마다 승인 트랜잭션을 완료해야 합니다.
 
-    <figure><img src="../../../.gitbook/assets/step1 (1).png" alt=""><figcaption></figcaption></figure>
-2.  Select “Confirm swap” after reviewing swap details.
 
-    <figure><img src="../../../.gitbook/assets/4536.png" alt=""><figcaption></figcaption></figure>
-3. In your wallet app or wallet extension, approve the spending for the token you are swapping.
 
-Allow the token to be used for swapping in your wallet.
+승인 트랜잭션을 완료하는 방법은 다음과 같습니다.
 
-_Your wallet may require you to enter the number of tokens you want to approve. Please enter a number that is greater than or equal to the number of tokens you are swapping._
+1.  스왑 세부 정보를 입력합니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/step1%20%281%29%20%281%29.png" alt=""><figcaption></figcaption></figure>
+2.  스왑 세부 정보를 확인한 후 "스왑 확인"을 선택합니다.&#x20;
 
-4.  After the approval, another transaction will appear which asks you to confirm the swap.
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/4536.png" alt=""><figcaption></figcaption></figure>
+3. 지갑 앱 또는 지갑 확장 프로그램에서 스왑할 토큰의 사용을 승인합니다.
 
-    <figure><img src="../../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
-5.  Once the swap is confirmed, the transaction is submitted to the blockchain (pending).
+지갑에서 해당 토큰을 스왑에 사용할 수 있도록 허용합니다.
 
-    <figure><img src="../../../.gitbook/assets/step 04.png" alt=""><figcaption></figcaption></figure>
-6. You will see “Success” and a green checkmark on the screen when the transaction is successfully completed.
+_지갑에 따라 승인할 토큰 수량을 직접 입력해야 할 수 있습니다. 스왑하려는 토큰 수량보다 크거나 같은 숫자를 입력해 주세요._ &#x20;
 
-<figure><img src="../../../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/1%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
-The token approval lasts for a certain period of time, the token will have to be approved again later with a signature request. An approval signature does not require a network fee.
+4.  승인이 끝나면 스왑을 확인하라는 또 다른 트랜잭션이 나타납니다.&#x20;
+
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+5.  스왑을 확인하면 트랜잭션이 블록체인에 제출됩니다(대기 중).&#x20;
+
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/step%2004.png" alt=""><figcaption></figcaption></figure>
+6. 트랜잭션이 성공적으로 완료되면 화면에 "성공"과 녹색 체크 표시가 나타납니다.&#x20;
+
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
+
+토큰 승인은 일정 기간 동안 유효하며, 이후에는 서명 요청을 통해 토큰을 다시 승인해야 합니다. 승인 서명에는 네트워크 수수료가 들지 않습니다.

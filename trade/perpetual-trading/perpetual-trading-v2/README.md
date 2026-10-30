@@ -1,29 +1,29 @@
 ---
-description: What's new in V2?
+description: V2의 새로운 점은?
 ---
 
-# Perpetuals Trading \[Legacy Mode]
+# 무기한 선물 거래 V2
 
-In Pancakeswap Perpetuals V2, we've streamlined our interface by **removing the order book and market depth displays**. Instead, our partners Aster have introduced the ALP pool, which now provides liquidity for all trading pairs, maximizing your capital usage. The ALP pool will actively participate in the market-making process for our V2 perpetual contracts. Please [visit this page](https://docs.asterdex.com/product/asterex-simple/price-oracles) to read more on the V2 low latency oracle model.
+PancakeSwap 무기한 선물 V2에서는 **오더북과 시장 깊이 표시를 제거**하여 인터페이스를 간소화했습니다. 대신 파트너인 Aster가 ALP 풀을 도입했으며, 이 풀이 이제 모든 거래 페어에 유동성을 제공하여 자본 활용도를 극대화합니다. ALP 풀은 V2 무기한 선물 계약의 마켓 메이킹 과정에 적극 참여합니다. V2 저지연 오라클 모델에 대한 자세한 내용은 [이 페이지](https://docs.asterdex.com/product/asterex-simple/price-oracles)를 참고하세요.
 
-The new mechanism will bring added benefits to Pancakeswap Perpetual Users:
+이 새로운 메커니즘은 PancakeSwap 무기한 선물 사용자에게 다음과 같은 추가 혜택을 제공합니다.
 
-#### Enhanced Security
+#### 강화된 보안
 
-By tapping into Pyth, Binance Oracle and Chainlink price feeds, we dodge any unexpected price behaviours due to manipulation or scarce liquidity from either Oracle source. This savvy move keeps those surprise liquidations at bay.
+Pyth, Binance Oracle, Chainlink 가격 피드를 활용함으로써, 어느 한 오라클 소스의 조작이나 유동성 부족으로 인한 예기치 못한 가격 움직임을 피할 수 있습니다. 이 영리한 방식 덕분에 뜻밖의 청산을 방지할 수 있습니다.
 
-#### Self-Custody Freedom
+#### 자기 수탁의 자유
 
-No more tedious deposits and withdrawals to trade with PancakeSwap Perpetuals V2. Users will trade fully on-chain, and no deposit and withdrawal requirements exist. Users can be assured that no protocol can manage, increase or reduce trading positions outside of a liquidation event.
+PancakeSwap 무기한 선물 V2로 거래하기 위해 번거롭게 입금하고 출금할 필요가 없습니다. 사용자는 완전한 온체인 방식으로 거래하며, 입금 및 출금 요건이 없습니다. 청산 이벤트를 제외하고는 어떤 프로토콜도 거래 포지션을 관리하거나 늘리거나 줄일 수 없다는 점을 확신할 수 있습니다.
 
-#### Higher Liquidity
+#### 더 풍부한 유동성
 
-Trading pairs on the platform share liquidity via the ALP pool. Hence, adding liquidity for each newly listed trading pair is not required separately. Capital efficiency is maximized and users can open bigger position sizes.
+플랫폼의 거래 페어들은 ALP 풀을 통해 유동성을 공유합니다. 따라서 새로 상장되는 거래 페어마다 별도로 유동성을 추가할 필요가 없습니다. 자본 효율성이 극대화되어 사용자는 더 큰 규모의 포지션을 열 수 있습니다.
 
-#### More Pairs
+#### 더 많은 페어
 
-With Perpetuals V2 consolidating liquidity for all trading pairs into one pool, users can expect more trading pairs from potentially different asset classes moving forward. At launch, V2 will support BTCUSD, ETHUSD and BNBUSD pairs for cryptocurrencies and Forex pairs EURUSD and GBPUSD. More pairs will be rollout in the coming months.
+무기한 선물 V2가 모든 거래 페어의 유동성을 하나의 풀로 통합함에 따라, 앞으로 서로 다른 자산군의 더 많은 거래 페어를 기대할 수 있습니다. 출시 시점에 V2는 암호화폐 페어인 BTCUSD, ETHUSD, BNBUSD와 외환 페어인 EURUSD, GBPUSD를 지원합니다. 향후 몇 달 안에 더 많은 페어가 추가될 예정입니다.
 
 {% hint style="success" %}
-**PancakeSwap Perpetuals V2 is now available on BNB Chain, Arbitrum, opBNB and Base.**
+**PancakeSwap 무기한 선물 V2는 이제 BNB 체인, Arbitrum, opBNB, Base에서 이용할 수 있습니다.**
 {% endhint %}

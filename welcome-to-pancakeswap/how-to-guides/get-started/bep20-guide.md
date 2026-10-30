@@ -1,37 +1,37 @@
-# Get BEP20 Tokens
+# BEP20 토큰 받기
 
-The native tokens of BNB Smart Chain (BSC) are **BEP20**.
+BNB Smart Chain(BSC)의 네이티브 토큰은 **BEP20**입니다.
 
-To do most things on BSC, you will need to pay gas, which comes in the form of BEP20 BNB.
+BSC에서 대부분의 활동을 하려면 가스비를 지불해야 하며, 가스비는 BEP20 BNB로 지불합니다.
 
-You will also need the BEP20 version of any token you want to trade, stake etc. on BSC.
+또한 BSC에서 거래, 스테이킹 등을 하려는 모든 토큰은 BEP20 버전이 필요합니다.
 
-You can go a few ways about converting your tokens to BEP20, but here are the ones we recommend:
+토큰을 BEP20으로 변환하는 방법은 여러 가지가 있지만, 다음 방법을 추천합니다.
 
 {% tabs %}
-{% tab title="🥞🌉 Pancake Bridge" %}
-![](<../../../.gitbook/assets/image (178).png>)
+{% tab title="🥞🌉 팬케이크 브릿지" %}
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28168%29.png)
 
-[**PancakeSwap Bridge**](http://bridge.pancakeswap.finance) — a native asset cross-chain bridge, powered by Stargate.
+[**PancakeSwap 브릿지**](http://bridge.pancakeswap.finance) — Stargate 기반의 네이티브 자산 크로스체인 브릿지입니다.
 
-This bridge allows you to seamlessly move your stablecoins over to BNB Chain, and participate in the lively PancakeSwap Community and wider BNB Ecosystem!
+이 브릿지를 통해 스테이블코인을 BNB 체인으로 손쉽게 옮기고, 활발한 PancakeSwap 커뮤니티와 더 넓은 BNB 생태계에 참여할 수 있습니다!
 
-📖 [Learn how to use](https://medium.com/pancakeswap/launching-pancakeswap-bridge-a-partnership-with-stargate-21c1c9f491a8)
+📖 [사용 방법 알아보기](https://medium.com/pancakeswap/launching-pancakeswap-bridge-a-partnership-with-stargate-21c1c9f491a8)
 {% endtab %}
 
 {% tab title="💰 Binance" %}
 [**Binance.com**](https://www.binance.com)
 
-You can withdraw tokens as BEP20 via your Binance account (if you have one). Bear in mind you need an account to do so.
+Binance 계정이 있다면 BEP20으로 토큰을 출금할 수 있습니다. 이를 위해서는 계정이 필요하다는 점을 유의하세요.
 
-📖 [Here's a quick guide they made to help you out.](https://www.binance.com/en/support/faq/85a1c394ac1d489fb0bfac0ef2fceafd)
+📖 [도움이 되도록 Binance에서 만든 간단한 가이드입니다.](https://www.binance.com/en/support/faq/85a1c394ac1d489fb0bfac0ef2fceafd)
 {% endtab %}
 
 {% tab title="🔒 SafePal" %}
 [**SafePal**](https://safepal.io/download)
 
-You don't need an account, or to register etc. Execute cross-chain swaps directly from your wallet.
+계정이나 가입 절차가 필요 없습니다. 지갑에서 바로 크로스체인 스왑을 실행할 수 있습니다.
 
-📖 [Here's a quick guide they made to help you out.](https://docs.safepal.io/safepal-app/cross-chain-swap-tutorial)
+📖 [도움이 되도록 SafePal에서 만든 간단한 가이드입니다.](https://docs.safepal.io/safepal-app/cross-chain-swap-tutorial)
 {% endtab %}
 {% endtabs %}

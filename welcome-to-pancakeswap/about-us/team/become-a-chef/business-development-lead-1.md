@@ -2,33 +2,33 @@
 hidden: true
 ---
 
-# Business Development Manager (AMM)
+# 비즈니스 개발 매니저 (AMM)
 
-PancakeSwap is transitioning from the leading AMM DEX on BNB Chain to a full Liquidity Hub — aggregating and managing liquidity from native AMM pools, institutional capital, and external distribution channels. This role leads one of three specialized BD divisions in that build-out.
+PancakeSwap은 BNB 체인을 대표하는 AMM DEX에서, 자체 AMM 풀·기관 자본·외부 유통 채널의 유동성을 집계하고 관리하는 완전한 Liquidity Hub로 전환하고 있습니다. 이 포지션은 이를 구축하기 위한 세 개의 전문 BD 부서 중 하나를 이끕니다.
 
-### Traditional AMM
+### 전통 AMM
 
-* Own CAKE emission efficiency, project onboarding (V2/V3/Infinity CLAMM), and cross-chain launchpad pipeline across BNB Chain, Base, and SOL.
-* Primary metric: volume per unit of CAKE emitted.
-* Secondary: new active pools per quarter, first-launch projects per chain.
+* CAKE 발행 효율성, 프로젝트 온보딩(V2/V3/Infinity CLAMM), BNB 체인·Base·SOL 전반의 크로스체인 런치패드 파이프라인을 총괄합니다.
+* 핵심 지표: 발행된 CAKE 단위당 거래량.
+* 보조 지표: 분기별 신규 활성 풀 수, 체인별 최초 런칭 프로젝트 수.
 
-**Urgent now:** Base + SOL ecosystem fund relationships · Infinity CLAMM project pipeline
+**현재 긴급 과제:** Base + SOL 생태계 펀드 관계 구축 · Infinity CLAMM 프로젝트 파이프라인
 
-### What you will do
+### 담당 업무
 
-* Own the full partnership lifecycle : sourcing, negotiation, integration, and ongoing health metrics
-* Participate in weekly cross-division BD sync to surface pipeline overlaps and coordinate joint approaches
-* Conduct ongoing competitor intelligence specific to your division's domain; translate findings into actionable differentiation
-* As the division matures, build and mentor a small team of BD managers under you
+* 소싱, 협상, 통합, 지속적인 상태 지표 관리에 이르는 전체 파트너십 라이프사이클을 책임집니다.
+* 주간 부서 간 BD 싱크에 참여하여 파이프라인 중복을 파악하고 공동 접근 방식을 조율합니다.
+* 담당 부서 영역에 특화된 경쟁사 분석을 지속적으로 수행하고, 그 결과를 실행 가능한 차별화 전략으로 전환합니다.
+* 부서가 성숙해지면 산하에 소규모 BD 매니저 팀을 구성하고 멘토링합니다.
 
-### What we are looking for
+### 이런 분을 찾습니다
 
-**Required**
+**필수**
 
-* 3+ years of BD, partnerships, or growth in DeFi, crypto, or fintech — with a track record of signed deals, not just pipeline
-* Quantitative mindset: comfortable reading on-chain data, TVL/volume dashboards, and setting your own KPI targets from first principles
-* Familiar with AMM/Uniswap/PancakeSwap V2 V3 Infinity
-* Autonomous and structured: able to manage multiple parallel deals with zero hand-holding, and communicate blockers early
-* Ownership mind-set
+* DeFi, 암호화폐 또는 핀테크 분야의 BD, 파트너십 또는 그로스 경력 3년 이상, 파이프라인뿐 아니라 실제 체결한 딜의 실적 보유
+* 정량적 사고방식: 온체인 데이터와 TVL/거래량 대시보드를 읽는 데 익숙하고, 기본 원리부터 스스로 KPI 목표를 설정할 수 있는 분
+* AMM/Uniswap/PancakeSwap V2 V3 Infinity에 대한 이해
+* 자율적이고 체계적인 분: 세세한 지도 없이도 여러 딜을 병행하여 관리하고 장애 요인을 조기에 공유할 수 있는 분
+* 오너십 마인드셋
 
-**How to Apply:** Shoot your resume over to hiring@pancakeswap.com, we’d love to hear from you!
+**지원 방법:** 이력서를 hiring@pancakeswap.com 으로 보내 주세요. 여러분의 이야기를 기다립니다!

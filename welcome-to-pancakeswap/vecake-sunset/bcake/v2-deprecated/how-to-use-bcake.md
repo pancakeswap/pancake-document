@@ -1,63 +1,63 @@
-# How to use bCAKE?
+# bCAKE는 어떻게 사용하나요?
 
-![](../../../../.gitbook/assets/how-to-use-bCAKE.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-use-bCAKE.png)
 
-Similar to iCAKE and vCAKE, bCAKE is also a benefit designed for users who lock their CAKE in the fixed-term CAKE staking pool. The boost multiplier is calculated based on how much CAKE you stake, how long you are staking them for, as well as how many LP tokens you are staking in the farm that you want to boost.
+iCAKE 및 vCAKE와 마찬가지로 bCAKE도 CAKE를 고정 기간 CAKE 스테이킹 풀에 락업하는 사용자를 위해 설계된 혜택입니다. 부스트 배수는 스테이킹한 CAKE의 수량, 스테이킹 기간, 그리고 부스트하려는 파밍에 스테이킹한 LP 토큰의 수량을 기준으로 계산됩니다.
 
-## Preparations
+## 준비 사항
 
-### Initiate a fixed-term CAKE staking position
+### 고정 기간 CAKE 스테이킹 포지션 시작하기
 
-![](../../../../.gitbook/assets/bCAKE-no-cake-locked.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bCAKE-no-cake-locked.png)
 
-If you haven't locked any CAKE in the CAKE staking pool, click "Go to Pool" and follow the instructions to initiate a fixed-term staking position.
+CAKE 스테이킹 풀에 락업한 CAKE가 없다면 "Go to Pool"을 클릭하고 안내에 따라 고정 기간 스테이킹 포지션을 시작하세요.
 
-To learn more about how to do fixed-term CAKE staking, read [here](../../../../archive/legacy-products/new-cake-pool/#fixed-term-staking).
+고정 기간 CAKE 스테이킹 방법에 대해 자세히 알아보려면 [여기](../../../../archive/legacy-products/new-cake-pool/#fixed-term-staking)를 읽어보세요.
 
-### Enable farm boosters
+### 파밍 부스터 활성화
 
-![](../../../../.gitbook/assets/bCAKE-enable-booster.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bCAKE-enable-booster.png)
 
-To enable farm boosters, you must complete a one-time setup process. To proceed, simply click "Enable" and confirm the transaction from your wallet.
+파밍 부스터를 활성화하려면 1회 설정 과정을 완료해야 합니다. "Enable"을 클릭하고 지갑에서 트랜잭션을 확인하면 됩니다.
 
-### Migrate your stakings
-
-{% hint style="info" %}
-If you are not currently staking in the farm you want to activate bCAKE, you can skip this step and start by staking LP tokens in the farm.
-{% endhint %}
-
-![](../../../../.gitbook/assets/bCAKE-staking-migration-needed.png)
-
-If you have been staking in the farm you want to activate the farm booster, a one-time staking migration is also required.
-
-Click "Migrate" and follow the step-by-step guide to complete the migrations. Your CAKE rewards will be automatically harvested and sent to your wallet.
-
-![](../../../../.gitbook/assets/bCAKE-migration-inprogress.png)
-
-## Activate Boosters
-
-![](<../../../../.gitbook/assets/bCAKE-pending-activation (1).png>)
-
-Once ready, you should see the available boost multiplier and the boosted APR for the farm you are currently staking. To learn more about how the bCAKE multiplier is calculated, read [here](../faq.md#how-are-the-bcake-multipliers-calculated).
-
-To activate the boost, click the "Boost" button, and confirm the transaction from your wallet.
+### 스테이킹 마이그레이션
 
 {% hint style="info" %}
-Please note that any user actions to the farms or CAKE staking pool will automatically update your boost multiplier based on the latest data and statistics from farms and the CAKE staking pool.
-
-Learn more [here](../faq.md#why-do-my-multipliers-change-even-after-activation).
+bCAKE를 활성화하려는 파밍에 현재 스테이킹하고 있지 않다면 이 단계를 건너뛰고 해당 파밍에 LP 토큰을 스테이킹하는 것부터 시작하면 됩니다.
 {% endhint %}
 
-### ![](../../../../.gitbook/assets/bCAKE-farm-number-limit.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bCAKE-staking-migration-needed.png)
 
-There is a limit to the number of farms that are able to boost simultaneously. To check the number of remaining boosters, refer to the panel on top.
+파밍 부스터를 활성화하려는 파밍에 이미 스테이킹하고 있다면 1회 스테이킹 마이그레이션도 필요합니다.
 
-You will need to unset an active booster in order to activate boosters on other farms.
+"Migrate"를 클릭하고 단계별 안내에 따라 마이그레이션을 완료하세요. CAKE 보상은 자동으로 수확되어 지갑으로 전송됩니다.
 
-## Unset Boosters
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bCAKE-migration-inprogress.png)
 
-![](<../../../../.gitbook/assets/bCAKE-pending-unset (1).png>)
+## 부스터 활성화
 
-To unset a farm booster, simply click the "Unset" button, and confirm the transaction from your wallet.
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bCAKE-pending-activation%20%281%29.png)
 
-Please note upon unsetting, CAKE earned will be harvested to the farm booster contract and will be automatically sent to your wallet upon the next harvest, deposit or withdrawal. Learn more [here](../faq.md#where-are-my-cake-rewards-after-activating-or-unsetting-the-booster).
+준비가 되면 현재 스테이킹 중인 파밍에 대해 사용 가능한 부스트 배수와 부스트된 APR을 확인할 수 있습니다. bCAKE 배수가 어떻게 계산되는지 자세히 알아보려면 [여기](../faq.md#how-are-the-bcake-multipliers-calculated)를 읽어보세요.
+
+부스트를 활성화하려면 "Boost" 버튼을 클릭하고 지갑에서 트랜잭션을 확인하세요.
+
+{% hint style="info" %}
+파밍 또는 CAKE 스테이킹 풀에서 사용자가 어떤 작업을 하면 파밍과 CAKE 스테이킹 풀의 최신 데이터 및 통계를 기준으로 부스트 배수가 자동으로 업데이트됩니다.
+
+자세한 내용은 [여기](../faq.md#why-do-my-multipliers-change-even-after-activation)를 참고하세요.
+{% endhint %}
+
+### ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bCAKE-farm-number-limit.png)
+
+동시에 부스트할 수 있는 파밍의 수에는 제한이 있습니다. 남은 부스터 수를 확인하려면 상단 패널을 참고하세요.
+
+다른 파밍에서 부스터를 활성화하려면 활성화된 부스터를 해제해야 합니다.
+
+## 부스터 해제
+
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/bCAKE-pending-unset%20%281%29.png)
+
+파밍 부스터를 해제하려면 "Unset" 버튼을 클릭하고 지갑에서 트랜잭션을 확인하세요.
+
+해제 시 획득한 CAKE는 파밍 부스터 컨트랙트로 수확되며, 다음 수확, 입금 또는 출금 시 자동으로 지갑에 전송됩니다. 자세한 내용은 [여기](../faq.md#where-are-my-cake-rewards-after-activating-or-unsetting-the-booster)를 참고하세요.

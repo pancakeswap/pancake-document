@@ -1,15 +1,15 @@
-# 💧 \[Archived] Liquid Staking Integration
+# 💧 \[보관됨] 리퀴드 스테이킹 통합
 
 {% hint style="danger" %}
-\[Archived] Liquid Staking
+\[보관됨] 리퀴드 스테이킹
 {% endhint %}
 
-PancakeSwap has partnered with Binance Earn to offer the liquid staking integration for WBETH (Wrapped Beacon Ethereum) token. This allows PancakeSwap users to convert and swap ETH to WBETH easily on the Ethereum Network and BNB Chain
+PancakeSwap은 Binance Earn과 협력하여 WBETH(Wrapped Beacon Ethereum) 토큰에 대한 리퀴드 스테이킹 통합을 제공했습니다. 이를 통해 PancakeSwap 사용자는 Ethereum 네트워크와 BNB 체인에서 ETH를 WBETH로 쉽게 전환하고 스왑할 수 있습니다.
 
-### What is Liquid Staking?
+### 리퀴드 스테이킹이란 무엇인가요?
 
-Liquid staking is a method that enables users to stake while still being able to use or trade their assets through a representative token. This provides flexibility and access to the funds for other uses while still earning staking rewards. Since the Ethereum network has finished the Merge (i.e. the consensus mechanism of ETH has been upgraded to Proof of Stake), liquid staking offers users the option to stake their ETH to earn rewards. And, unlike traditional staking methods, users can still use and have the liquidity to their ETH while it is being staked. The WBETH token solves this problem.
+리퀴드 스테이킹은 사용자가 스테이킹을 하면서도 대표 토큰을 통해 자산을 사용하거나 거래할 수 있게 해 주는 방식입니다. 이를 통해 스테이킹 보상을 받으면서도 자금을 다른 용도로 활용할 수 있는 유연성과 접근성을 제공합니다.  Ethereum 네트워크가 머지(즉, ETH의 합의 메커니즘이 지분 증명으로 업그레이드됨)를 완료한 이후, 리퀴드 스테이킹은 사용자가 ETH를 스테이킹하여 보상을 받을 수 있는 옵션을 제공합니다. 그리고 기존 스테이킹 방식과 달리 사용자는 ETH가 스테이킹되어 있는 동안에도 ETH를 사용하고 유동성을 확보할 수 있습니다. WBETH 토큰이 이 문제를 해결합니다.
 
-The can be traded, used in DeFi applications, or held while the original ETH tokens are staked. Liquid staking thus provides flexibility and allows token holders to utilize their staked tokens in multiple ways without having to unstake and potentially lose out on staking rewards. [Click here to find out more on Ethereum Proof of Stake](https://academy.binance.com/en/articles/what-is-ethereum-2-0-and-why-does-it-matter).
+원래의 ETH 토큰이 스테이킹되어 있는 동안 이 토큰은 거래하거나, DeFi 애플리케이션에서 사용하거나, 보유할 수 있습니다. 따라서 리퀴드 스테이킹은 유연성을 제공하며, 토큰 보유자가 언스테이킹하여 스테이킹 보상을 놓칠 위험 없이 스테이킹된 토큰을 다양한 방식으로 활용할 수 있게 해 줍니다. [Ethereum 지분 증명에 대해 자세히 알아보려면 여기를 클릭하세요](https://academy.binance.com/en/articles/what-is-ethereum-2-0-and-why-does-it-matter).
 
 <br>

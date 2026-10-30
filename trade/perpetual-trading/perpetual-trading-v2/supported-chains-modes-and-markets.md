@@ -1,15 +1,15 @@
-# Supported Chains, Modes & Markets
+# 지원 체인, 모드 및 마켓
 
-With the launch of multichain perpetuals V2, here's a breakdown of the details and products offered on each chain.
+멀티체인 무기한 선물 V2 출시와 함께, 각 체인에서 제공되는 세부 내용과 상품을 정리했습니다.&#x20;
 
-### Supported Modes:
+### 지원 모드:
 
-<table><thead><tr><th></th><th width="215">Chains</th><th>Leverage</th></tr></thead><tbody><tr><td>Classic Mode</td><td>BNB Smart Chain<br>Arbitrum<br>opBNB<br>Base</td><td>250x</td></tr><tr><td>Degen Mode</td><td>BNB Smart Chain<br>Arbitrum<br>opBNB<br>Base</td><td>1001x</td></tr><tr><td>Dumb Mode</td><td>BNB Smart Chain<br>Arbitrum<br>opBNB<br>Base</td><td>-</td></tr></tbody></table>
+<table><thead><tr><th></th><th width="215">체인</th><th>레버리지</th></tr></thead><tbody><tr><td>클래식 모드</td><td>BNB Smart Chain<br>Arbitrum<br>opBNB<br>Base</td><td>250x</td></tr><tr><td>디젠 모드</td><td>BNB Smart Chain<br>Arbitrum<br>opBNB<br>Base</td><td>1001x</td></tr><tr><td>덤 모드</td><td>BNB Smart Chain<br>Arbitrum<br>opBNB<br>Base</td><td>-</td></tr></tbody></table>
 
-### Fees
+### 수수료
 
-Fees for PancakeSwap Perpetuals on different chains are as follows:
+체인별 PancakeSwap 무기한 선물 수수료는 다음과 같습니다.
 
-<table><thead><tr><th width="201.33333333333331">Mode</th><th width="248">BSC, opBNB, Base</th><th>Arbitrum</th></tr></thead><tbody><tr><td>Perpetuals V2 opening position fee</td><td>0.08%</td><td>0.05%</td></tr><tr><td>Perpetuals V2 closing position fee</td><td>0.08%</td><td>0.05%</td></tr><tr><td>Perpetuals V2 FX fee</td><td>0.02%</td><td>0.02%</td></tr><tr><td><a href="degen-mode/">Degen Mode</a></td><td>Minimum 0.03%</td><td>Minimum 0.03%</td></tr><tr><td><a href="dumb-mode/">Dumb Mode</a></td><td>6% collateral on wins</td><td>6% collateral on wins</td></tr></tbody></table>
+<table><thead><tr><th width="201.33333333333331">모드</th><th width="248">BSC, opBNB, Base</th><th>Arbitrum</th></tr></thead><tbody><tr><td>무기한 선물 V2 포지션 개시 수수료</td><td>0.08%</td><td>0.05%</td></tr><tr><td>무기한 선물 V2 포지션 종료 수수료</td><td>0.08%</td><td>0.05%</td></tr><tr><td>무기한 선물 V2 FX 수수료</td><td>0.02%</td><td>0.02%</td></tr><tr><td><a href="degen-mode/">디젠 모드</a></td><td>최소 0.03%</td><td>최소 0.03%</td></tr><tr><td><a href="dumb-mode/">덤 모드</a></td><td>수익 시 담보의 6%</td><td>수익 시 담보의 6%</td></tr></tbody></table>
 
-All trades are subject to an execution fee of 0.5 USD (BNB Chain)/ 0.2 USD (Arbitrum)/ 0.01 USD (opBNB)/ 0.3 USD (Base) when a position is opened.
+모든 거래에는 포지션 개시 시 실행 수수료가 부과됩니다: 0.5 USD (BNB 체인) / 0.2 USD (Arbitrum) / 0.01 USD (opBNB) / 0.3 USD (Base).

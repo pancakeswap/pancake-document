@@ -1,3 +1,3 @@
-# ❓ Trading Tools FAQ
+# ❓ 트레이딩 도구 자주 묻는 질문 (FAQ)
 
-(To be populated)
+(작성 예정)

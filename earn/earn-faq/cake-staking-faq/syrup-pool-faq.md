@@ -1,68 +1,68 @@
-# Syrup Pool FAQ & Troubleshooting
+# 시럽 풀 자주 묻는 질문 (FAQ) 및 문제 해결
 
-## Troubleshooting
+## 문제 해결
 
-### **I can't find the Syrup Pool I was staking in!**
+### **스테이킹했던 시럽 풀을 찾을 수 없어요!**
 
-You should be able to find the Syrup Pool under the “Finished” tab on the Syrup Pools page.
+시럽 풀 페이지의 "Finished" 탭에서 해당 시럽 풀을 찾을 수 있습니다.&#x20;
 
-By selecting “Staked Only”, it will make it easier to find your assets.
+"Staked Only"를 선택하면 내 자산을 더 쉽게 찾을 수 있습니다.
 
-### **Why can’t I unstake my tokens from a Syrup Pool?**
+### **시럽 풀에서 토큰을 언스테이킹할 수 없는 이유는 무엇인가요?**
 
-If you are unable to unstake from the Stake Cake, Earn CAKE pools, please check to make sure that you haven’t sold the SYRUP tokens in your wallet. This token acts as a \`proof of ownership\` over your CAKE in the Manual CAKE pool.
+Stake Cake, Earn CAKE 풀에서 언스테이킹할 수 없다면, 지갑에 있는 SYRUP 토큰을 판매하지 않았는지 확인하세요. 이 토큰은 Manual CAKE 풀에서 내 CAKE에 대한 \`소유권 증명\` 역할을 합니다.&#x20;
 
-### **Why did my earned tokens go to zero after staking/unstaking?**
+### **스테이킹/언스테이킹 후 획득한 토큰이 0으로 표시되는 이유는 무엇인가요?**
 
-Don’t worry! They’re in your wallet already.
+걱정하지 마세요! 이미 지갑에 들어 있습니다.
 
-Whenever you stake or unstake from a Syrup Pool or farm, your earned tokens get harvested and sent to your wallet at the same time.
+시럽 풀이나 파밍에서 스테이킹하거나 언스테이킹할 때마다 획득한 토큰이 동시에 수확되어 지갑으로 전송됩니다.
 
-## **General Questions**
+## **일반 질문**
 
-### How is APR for Syrup Pools calculated?
+### 시럽 풀 APR은 어떻게 계산되나요?
 
-> Syrup Pool APR = Annualized rewards (USD) / User funds staked in Syrup Pool (USD) \* 100
+> 시럽 풀 APR = 연환산 보상(USD) / 시럽 풀에 스테이킹된 사용자 자금(USD) \* 100
 
-As a basic example, let's take a 60-day pool with 300,000 USD worth of rewards, and 3,000,000 USD worth of CAKE staked in it.
+기본적인 예시로, 보상 가치가 300,000 USD이고 3,000,000 USD 상당의 CAKE가 스테이킹된 60일 풀을 가정해 보겠습니다.
 
-The APR fluctuates as more CAKE is staked by users, and as the price of CAKE, and the reward token, vary.
+APR은 사용자가 CAKE를 더 많이 스테이킹하거나 CAKE 및 보상 토큰의 가격이 변동함에 따라 달라집니다.
 
-|                                                       | **Calculation**                  | Amount            |
-| ----------------------------------------------------- | -------------------------------- | ----------------- |
-| Total rewards to distribute (USD value)               |                                  | 300,000 USD       |
-| Distribution period                                   |                                  | 60 days           |
-| Daily distribution                                    | 300,000 / 60 =                   | 5,000 USD daily   |
-| **Annualised rewards (USD value)**                    | 5,000 \* 365 =                   | **1,825,000 USD** |
-| **Value of CAKE staked by users in pool (USD value)** |                                  | **3,000,000 USD** |
-| **APR**                                               | (1,825,000 / 3,000,000) \* 100 = | **60.833% APR**   |
+|                                                       | **계산**                   | 금액                                     |
+| ----------------------------------------------------- | --------------------------------- | ------------------------------------------ |
+| 분배할 총 보상 (USD 가치)               |                                   | 300,000 USD                                |
+| 분배 기간                                   |                                   | 60일                                    |
+| 일일 분배량                                    | 300,000 / 60 =                    | 일 5,000 USD                            |
+| **연환산 보상 (USD 가치)**                    | 5,000 \* 365 =                    | **1,825,000 USD**                          |
+| **사용자가 풀에 스테이킹한 CAKE의 가치 (USD 가치)** |                                   | **3,000,000 USD**                          |
+| **APR**                                               | (1,825,000 / 3,000,000) \* 100 =  | <p></p><p><strong>60.833% APR</strong></p> |
 
-### **What does the “End” number on my Syrup Pool refer to?**
+### **시럽 풀의 "End" 숫자는 무엇을 의미하나요?**
 
-This shows the amount of blocks left until the rewards for that pool stop being distributed. Once the pool has reached that block, you should unstake your tokens, because you won’t be receiving any rewards after that.
+해당 풀의 보상 분배가 중단될 때까지 남은 블록 수를 나타냅니다. 풀이 해당 블록에 도달하면 그 이후로는 보상을 받을 수 없으므로 토큰을 언스테이킹해야 합니다.
 
-### **Where do the rewards from Syrup Pools come from?**
+### **시럽 풀의 보상은 어디에서 나오나요?**
 
-There are three main types of Syrup Pools.
+시럽 풀에는 크게 세 가지 유형이 있습니다.
 
-1. Stake CAKE, earn CAKE
-2. Stake CAKE, earn other tokens.
-3. Stake other tokens, earn CAKE
+1. CAKE 스테이킹, CAKE 획득
+2. CAKE 스테이킹, 다른 토큰 획득&#x20;
+3. 다른 토큰 스테이킹, CAKE 획득
 
-The rewards for the "Stake CAKE, earn CAKE" Syrup Pools come from the [CAKE emissions](https://docs.pancakeswap.finance/protocol/cake-tokenomics). Each block, a number of CAKE tokens are allocated as rewards for these pools.
+"CAKE 스테이킹, CAKE 획득" 시럽 풀의 보상은 [CAKE 배출](https://docs.pancakeswap.finance/protocol/cake-tokenomics)에서 나옵니다. 블록마다 일정량의 CAKE 토큰이 이러한 풀의 보상으로 할당됩니다.
 
-The rewards for the "Stake CAKE, earn other tokens" type are provided by the project teams who sponsor a Syrup Pool.
+"CAKE 스테이킹, 다른 토큰 획득" 유형의 보상은 시럽 풀을 후원하는 프로젝트 팀이 제공합니다.
 
-For the "Stake other tokens, earn CAKE" type, the PancakeSwap treasury buys back CAKE from the market to distribute as rewards. These pools are funded by PancakeSwap, not by the projects themselves.
+"다른 토큰 스테이킹, CAKE 획득" 유형의 경우, PancakeSwap 트레저리가 시장에서 CAKE를 바이백하여 보상으로 분배합니다. 이러한 풀은 프로젝트 자체가 아닌 PancakeSwap이 자금을 지원합니다.
 
-### What’s SYRUP Token?
+### SYRUP 토큰이란 무엇인가요?
 
-PancakeSwap’s SYRUP Token is deposited in your wallet when you interact with the **Manual** “Stake CAKE, Earn CAKE” Syrup Pool. It's not staked for
+**Manual** "Stake CAKE, Earn CAKE" 시럽 풀을 이용하면 PancakeSwap의 SYRUP 토큰이 지갑에 입금됩니다. 스테이킹용이 아닙니다.&#x20;
 
-It’s basically an IOU that shows how much CAKE you’ve staked in the pool.
+기본적으로 풀에 스테이킹한 CAKE의 양을 보여주는 차용증(IOU)과 같습니다.
 
-It’ll be returned automatically when you unstake your CAKE from that pool.
+해당 풀에서 CAKE를 언스테이킹하면 자동으로 반환됩니다.
 
 {% hint style="warning" %}
-Don’t sell your SYRUP tokens! You need to return your SYRUP to unstake your CAKE from the Manual CAKE pool. The amount of SYRUP you return must be the same as the amount of CAKE you unstake.
+SYRUP 토큰을 판매하지 마세요! Manual CAKE 풀에서 CAKE를 언스테이킹하려면 SYRUP을 반환해야 합니다. 반환하는 SYRUP의 양은 언스테이킹하는 CAKE의 양과 같아야 합니다.
 {% endhint %}

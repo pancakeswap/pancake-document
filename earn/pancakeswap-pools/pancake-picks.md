@@ -1,60 +1,60 @@
 # ⛏️ Pancake Picks
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%281%29%20%281%29.png" alt=""><figcaption></figcaption></figure>
 
-In the fast-moving world of crypto, it can be tough to separate the noise from the trends. Pancake Picks helps by showcasing the top token pairs from trending categories like Memecoins and AI Agents on our [Liquidity Pools](https://pancakeswap.finance/liquidity/pools) page every weekday. By highlighting these tokens based on key market and community data, Pancake Picks makes it easier for users to discover the latest trends.
+빠르게 변화하는 암호화폐 세계에서는 노이즈와 트렌드를 구분하기가 쉽지 않습니다. Pancake Picks는 영업일마다 [유동성 풀](https://pancakeswap.finance/liquidity/pools) 페이지에 밈코인, AI 에이전트 등 트렌딩 카테고리의 상위 토큰 쌍을 소개하여 이를 돕습니다. 주요 시장 및 커뮤니티 데이터를 기반으로 토큰을 부각함으로써 Pancake Picks는 사용자가 최신 트렌드를 더 쉽게 발견할 수 있도록 합니다.&#x20;
 
-### How does Pancake Picks work?
+### Pancake Picks는 어떻게 작동하나요?
 
-1. **Token Categories**: We use the CoinGecko API to find trending tokens in categories like [Memes](https://www.coingecko.com/en/categories/meme-token) and [AI Agents,](https://www.coingecko.com/en/categories/ai-agents) then match them with tokens on PancakeSwap across any of the 8 EVM chains we support.
-2. **Selecting Top Pairs**: We analyze liquidity pools and select the top 3 token pairs from this list based on significant market and community data over the previous 24 hours.
-3. **Formula**: To keep it fair and avoid gaming the system, we don’t disclose the exact formula for how we select tokens. The Kitchen will adjust it over time to reflect market trends.
-4. **Graduated Tokens**: At least one of the top 3 pairs will come from tokens that have graduated from four.meme or PancakeSwap Springboard.
+1. **토큰 카테고리**: CoinGecko API를 사용해 [밈](https://www.coingecko.com/en/categories/meme-token), [AI 에이전트](https://www.coingecko.com/en/categories/ai-agents) 등의 카테고리에서 트렌딩 토큰을 찾고, 지원하는 8개 EVM 체인 어디에서든 PancakeSwap에 있는 토큰과 매칭합니다.
+2. **상위 쌍 선정**: 유동성 풀을 분석하여 지난 24시간 동안의 중요한 시장 및 커뮤니티 데이터를 기준으로 이 목록에서 상위 3개 토큰 쌍을 선정합니다.
+3. **공식**: 공정성을 유지하고 시스템 악용을 방지하기 위해 토큰 선정에 사용하는 정확한 공식은 공개하지 않습니다. Kitchen은 시장 트렌드를 반영하여 시간이 지남에 따라 공식을 조정할 것입니다.
+4. **졸업 토큰**: 상위 3개 쌍 중 적어도 하나는 four.meme 또는 PancakeSwap Springboard에서 졸업(graduate)한 토큰에서 선정됩니다.
 
-### Benefits of Featured Tokens
+### 추천 토큰의 혜택
 
-#### Benefits from PancakeSwap:
+#### PancakeSwap이 제공하는 혜택:&#x20;
 
-If your token pair is selected for Pancake Picks, you’ll enjoy:
+토큰 쌍이 Pancake Picks에 선정되면 다음 혜택을 누릴 수 있습니다.
 
-* **Whitelisting**: If your token isn’t already on our token list, we’ll add it.
-* **CAKE Emissions**: Your token will earn CAKE emissions for the duration it is featured.
-* **Increased Visibility**: We’ll feature your token prominently on our Liquidity Pools page, making it easier for users to explore your token and its liquidity pair.
+* **화이트리스트 등록**: 토큰이 아직 토큰 목록에 없다면 추가해 드립니다.
+* **CAKE 배출**: 추천되는 기간 동안 해당 토큰은 CAKE 배출을 받습니다.
+* **노출 증가**: 유동성 풀 페이지에 토큰을 눈에 띄게 소개하여 사용자가 여러분의 토큰과 유동성 쌍을 더 쉽게 탐색할 수 있게 합니다.
 
-### Why is Pancake Picks important?
+### Pancake Picks가 중요한 이유는 무엇인가요?
 
-* **Data-Driven Selection**: Pancake Picks provides a transparent, merit-based approach to highlight tokens that are gaining momentum in the market, allowing users to discover relevant, trending projects.
-* **Simplifying Support**: The Kitchen receives many requests for support from new projects. Pancake Picks helps streamline the process by focusing on tokens with strong market and community metrics, making it easier to evaluate which projects to prioritize.
-* **Promoting PancakeSwap Liquidity**: By featuring tokens on Pancake Picks, we incentivize teams to deploy their tokens on PancakeSwap, further supporting our goal to provide liquidity for high-quality projects across multiple chains.
+* **데이터 기반 선정**: Pancake Picks는 시장에서 모멘텀을 얻고 있는 토큰을 강조하는 투명하고 실적 기반의 방식을 제공하여 사용자가 관련성 높은 트렌딩 프로젝트를 발견할 수 있게 합니다.
+* **지원 업무 간소화**: Kitchen은 신규 프로젝트로부터 많은 지원 요청을 받습니다. Pancake Picks는 시장 및 커뮤니티 지표가 강한 토큰에 집중하여 프로세스를 간소화하고, 어떤 프로젝트를 우선할지 평가하기 쉽게 해줍니다.
+* **PancakeSwap 유동성 촉진**: Pancake Picks에 토큰을 소개함으로써 팀이 PancakeSwap에 토큰을 배포하도록 유도하고, 여러 체인에서 우수한 프로젝트에 유동성을 제공하려는 목표를 더욱 뒷받침합니다.
 
-### FAQ
+### 자주 묻는 질문 (FAQ)
 
-1. My token is doing great, but why wasn’t it selected?
-   1. We don’t share the exact formula we use to pick tokens to prevent manipulation. If your token wasn’t chosen, key market or community metrics might be missing. Keep building, and your token could be featured in the future!
-2. My token’s liquidity is on another DEX, will it be considered for Pancake Picks?
-   1. No. We only consider tokens whose liquidity resides on PancakeSwap, along with their metrics from our liquidity pools. If you want your token to be considered, make sure to add liquidity to any of the 8 EVM chains we support.
-3. How long will Pancake Picks last for?
-   1. There’s no set end date, but if interest fades or if the feature no longer aligns with our goals, we may retire it. We’ll also adapt the token categories to keep up with new trends.
-4. What token categories are currently being considered for Pancake Picks?
-   1. We’re currently looking at Memecoins and AI Agents, as defined by CoinGecko, though we may expand or adjust this list in the future.
-5. Why wasn’t my token selected, even though it’s in an active category?
-   1. Make sure your token is listed on CoinGecko with the correct category tag. If it’s not, we won’t be able to pick it up through their API.
-6. Why isn’t \<insert token category> considered by Pancake Picks? It is currently trending and picking up steam in the crypto community
-   1. We’re open to suggestions! Please share your requests on [Telegram](https://t.me/pancakeswap) or [Discord](https://discord.com/invite/pancakeswap). However, to keep the filtering process efficient, we need to limit the number of categories we consider.
-7. How much CAKE emissions will the selected token pairs receive?
-   1. 1st place: 30 CAKE per day
-   2. 2nd place: 20 CAKE per day
-   3. 3rd place: 10 CAKE per day
-   4. These numbers may change as the product evolves. For now, the emissions come from the [Kitchen’s discretionary budget,](https://pancakeswap.finance/voting/proposal/0x8eff088ca5d8c07a1a0be979533b6aa36dd098edb62714f948c06cf561817432) with no new emissions. If this feature becomes popular, we might tap into the Ecosystem Growth budget to increase emissions.
-8. How do I improve my tokens’ performance to be considered for Pancake Picks?
-   1. While we are unable to share the exact formula we use, we encourage projects to continue organically growing their token traction and community, which should reflect positively when we do our internal evaluation.
-9. How often will the Pancake Picks be updated?
-   1. Pancake Picks will be updated every weekday. If your token is featured on a Friday, it will stay live for about 3 days.
-10. What time will the Pancake Picks be updated?
-    1. There’s no fixed time, but we aim to update the Picks every weekday around 0900 UTC.
-11. When will the data of the tokens be considered?
-    1. We use data from the past 24 hours, which is updated at 0000 UTC every weekday to determine the Pancake Picks.
-    2. For the top 3 pairs per epoch, they will be selected based on their frequency of appearing on Pancake Picks throughout the 2 weeks. If there is a tie, we will take the higher-scoring pair over the epoch based on our internal formula.
+1. 제 토큰의 성과가 좋은데 왜 선정되지 않았나요?
+   1. 조작을 방지하기 위해 토큰 선정에 사용하는 정확한 공식은 공유하지 않습니다. 토큰이 선정되지 않았다면 주요 시장 또는 커뮤니티 지표가 부족할 수 있습니다. 계속 성장해 나가시면 향후 추천될 수 있습니다!
+2. 제 토큰의 유동성이 다른 DEX에 있는데 Pancake Picks에서 고려되나요?
+   1. 아니요. 유동성이 PancakeSwap에 있는 토큰과 우리 유동성 풀의 지표만 고려합니다. 토큰이 고려되기를 원한다면 지원하는 8개 EVM 체인 중 하나에 유동성을 추가하세요.
+3. Pancake Picks는 얼마나 오래 지속되나요?
+   1. 정해진 종료일은 없지만, 관심이 줄어들거나 이 기능이 우리의 목표와 더 이상 맞지 않으면 종료할 수 있습니다. 또한 새로운 트렌드에 발맞춰 토큰 카테고리를 조정할 것입니다.
+4. 현재 Pancake Picks에서 고려되는 토큰 카테고리는 무엇인가요?
+   1. 현재 CoinGecko가 정의하는 밈코인과 AI 에이전트를 살펴보고 있으며, 향후 이 목록을 확대하거나 조정할 수 있습니다.
+5. 활성 카테고리에 속해 있는데도 제 토큰이 선정되지 않은 이유는 무엇인가요?
+   1. 토큰이 CoinGecko에 올바른 카테고리 태그와 함께 등록되어 있는지 확인하세요. 그렇지 않으면 CoinGecko API를 통해 토큰을 가져올 수 없습니다.
+6. 현재 트렌딩 중이며 암호화폐 커뮤니티에서 주목받고 있는 \<토큰 카테고리 입력>이 Pancake Picks에서 고려되지 않는 이유는 무엇인가요?
+   1. 제안을 환영합니다! [Telegram](https://t.me/pancakeswap) 또는 [Discord](https://discord.com/invite/pancakeswap)에 요청을 공유해 주세요. 다만 필터링 과정을 효율적으로 유지하기 위해 고려하는 카테고리 수를 제한해야 합니다.
+7. 선정된 토큰 쌍은 CAKE 배출을 얼마나 받나요?
+   1. 1위: 하루 30 CAKE
+   2. 2위: 하루 20 CAKE
+   3. 3위: 하루 10 CAKE
+   4. 이 수치는 제품이 발전함에 따라 변경될 수 있습니다. 현재 배출량은 신규 배출 없이 [Kitchen의 재량 예산](https://pancakeswap.finance/voting/proposal/0x8eff088ca5d8c07a1a0be979533b6aa36dd098edb62714f948c06cf561817432)에서 나옵니다. 이 기능이 인기를 얻으면 생태계 성장 예산을 활용해 배출량을 늘릴 수도 있습니다.
+8. 제 토큰이 Pancake Picks에서 고려되려면 성과를 어떻게 개선해야 하나요?
+   1. 정확한 공식은 공유할 수 없지만, 프로젝트가 토큰의 견인력과 커뮤니티를 자연스럽게 계속 성장시키기를 권장합니다. 이는 내부 평가 시 긍정적으로 반영될 것입니다.
+9. Pancake Picks는 얼마나 자주 업데이트되나요?
+   1. Pancake Picks는 영업일마다 업데이트됩니다. 금요일에 토큰이 선정되면 약 3일간 유지됩니다.
+10. Pancake Picks는 몇 시에 업데이트되나요?
+    1. 정해진 시간은 없지만, 영업일마다 UTC 기준 0900시경에 Picks를 업데이트하는 것을 목표로 합니다.
+11. 토큰 데이터는 언제를 기준으로 고려되나요?
+    1. Pancake Picks를 결정하기 위해 영업일마다 UTC 0000시에 업데이트되는 지난 24시간의 데이터를 사용합니다.
+    2. 에포크별 상위 3개 쌍은 2주 동안 Pancake Picks에 등장한 빈도를 기준으로 선정됩니다. 동률인 경우 내부 공식에 따라 에포크 동안 점수가 더 높은 쌍을 선택합니다.
 
 \
-**Disclaimer:** Pancake Picks is based purely on data from CoinGecko and PancakeSwap’s liquidity pools. Its sole purpose is to display trending tokens and token pairs on our Liquidity Pools page. We do not endorse or guarantee the success of any of the tokens or projects mentioned. All decisions related to investment or involvement with these tokens are the responsibility of the user.
+**면책 조항:** Pancake Picks는 오로지 CoinGecko와 PancakeSwap 유동성 풀의 데이터를 기반으로 합니다. 유일한 목적은 유동성 풀 페이지에 트렌딩 토큰과 토큰 쌍을 표시하는 것입니다. 언급된 어떤 토큰이나 프로젝트의 성공도 보증하거나 보장하지 않습니다. 이러한 토큰에 대한 투자 또는 참여와 관련된 모든 결정은 사용자의 책임입니다.

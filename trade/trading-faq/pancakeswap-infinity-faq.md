@@ -1,97 +1,97 @@
 ---
 description: >-
-  we understand you may have questions about our latest upgrade. We've compiled
-  this comprehensive FAQ to address all your inquiries. Let's dive in:
+  최신 업그레이드에 대해 궁금한 점이 있으실 수 있습니다. 모든 문의에 답하기 위해
+  이 종합 자주 묻는 질문 (FAQ)을 준비했습니다. 지금 바로 살펴보세요.
 ---
 
-# PancakeSwap Infinity FAQ
+# PancakeSwap Infinity 자주 묻는 질문 (FAQ)
 
-**Q1 How will PancakeSwap Infinity benefit traders and liquidity providers?**
+**Q1 PancakeSwap Infinity는 트레이더와 유동성 공급자에게 어떤 이점을 제공하나요?**
 
-**Ans:** PancakeSwap Infinity brings a lot of advantages for both traders and liquidity providers:
+**답변:** PancakeSwap Infinity는 트레이더와 유동성 공급자 모두에게 많은 이점을 제공합니다.
 
-**1. Streamlined Operations and Gas Savings:** Through features like Singleton and Flash Accounting, PancakeSwap Infinity drastically reduces gas fees. Singleton consolidates all pools into a single contract, slashing deployment costs by 99%. Flash Accounting optimizes accounting processes by computing net balances for transactions, minimizing gas consumption.
+**1. 간소화된 운영과 가스비 절감:** 싱글톤(Singleton)과 플래시 회계(Flash Accounting) 같은 기능을 통해 PancakeSwap Infinity는 가스비를 크게 줄입니다. 싱글톤은 모든 풀을 하나의 컨트랙트로 통합하여 배포 비용을 99% 절감합니다. 플래시 회계는 트랜잭션의 순 잔액을 계산하여 회계 처리를 최적화하고 가스 소비를 최소화합니다.
 
-**2. Direct Benefits from Advanced Features:** The integration of hooks allows for implementing dynamic fees, custom order types, and active liquidity management modules. Liquidity providers can enjoy mitigated impermanent loss (IL), MEV protection, and access to various fee tiers, ensuring more profitable and secure trading experiences.
+**2. 고급 기능에서 얻는 직접적인 혜택:** 훅(Hooks)을 통합하면 동적 수수료, 맞춤형 주문 유형, 능동적 유동성 관리 모듈을 구현할 수 있습니다. 유동성 공급자는 비영구적 손실(IL) 완화, MEV 보호, 다양한 수수료 등급을 이용할 수 있어 더 수익성 높고 안전한 거래 경험을 누릴 수 있습니다.
 
 \
-**3. Flexibility in AMM Designs:** PancakeSwap Infinity supports multiple pool types, including CLAMM and the LBAMM, allowing traders and LP to pick different pool types. This inclusive approach also allows supporting any future assets requiring new pricing curves. Check out this blog to [learn more](https://blog.pancakeswap.finance/articles/everything-you-need-to-know-about-pancake-swap-v4-what-s-in-it-for-developers-traders-liquidity-providers-and-defi-protocols)
+**3. AMM 설계의 유연성:** PancakeSwap Infinity는 CLAMM과 LBAMM을 포함한 여러 풀 유형을 지원하여 트레이더와 LP가 서로 다른 풀 유형을 선택할 수 있습니다. 이러한 포용적인 접근 방식은 새로운 가격 곡선이 필요한 미래의 모든 자산도 지원할 수 있게 합니다. 이 블로그에서 [자세히 알아보세요](https://blog.pancakeswap.finance/articles/everything-you-need-to-know-about-pancake-swap-v4-what-s-in-it-for-developers-traders-liquidity-providers-and-defi-protocols)
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-03-15 at 16.16.56.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-03-15%20at%2016.16.56.png" alt=""><figcaption></figcaption></figure>
 
-**Q2** How will PancakeSwap Infinity benefit developers and defi protocols?
+**Q2** PancakeSwap Infinity는 개발자와 DeFi 프로토콜에 어떤 이점을 제공하나요?
 
-**Ans:** PancakeSwap Infinity opens up a world of possibilities for developers and DeFi protocols.
+**답변:** PancakeSwap Infinity는 개발자와 DeFi 프로토콜에 무한한 가능성의 세계를 열어 줍니다.&#x20;
 
-**1. Endless Customization Possibilities:** With PancakeSwap Infinity, developers can build Hooks to introduce custom functionalities; from dynamic fees to on-chain limit orders and custom oracles. PancakeSwap Infinity supports deploying new pool types (CLAMM, LBAMM, and any other pool types in the future), enhancing capital efficiency and trading flexibility.
+**1. 무한한 커스터마이징 가능성:** PancakeSwap Infinity에서 개발자는 훅(Hooks)을 구축하여 동적 수수료부터 온체인 지정가 주문, 맞춤형 오라클까지 사용자 정의 기능을 도입할 수 있습니다. PancakeSwap Infinity는 새로운 풀 유형(CLAMM, LBAMM 및 향후의 모든 풀 유형)의 배포를 지원하여 자본 효율성과 거래 유연성을 높입니다.
 
-**2. Access to Robust Liquidity and User Base:** With over 1.8 million active users and $2.1 billion in liquidity, developers and DeFi protocols have an unparalleled opportunity to tap into a vast and active community, fostering product development and adoption.
+**2. 탄탄한 유동성과 사용자 기반 접근:** 180만 명이 넘는 활성 사용자와 $21억의 유동성을 갖춘 PancakeSwap에서 개발자와 DeFi 프로토콜은 방대하고 활발한 커뮤니티에 접근하여 제품 개발과 도입을 촉진할 수 있는 비할 데 없는 기회를 얻습니다.
 
-**3. Revenue Generation Opportunities:** Developers can establish a consistent revenue stream through hook fees, allowing them to set fees for utilizing their hooks. By monetizing their innovations with fees, developers can contribute to the growth and development of the PancakeSwap ecosystem. Check out this blog to[ learn more](https://blog.pancakeswap.finance/articles/everything-you-need-to-know-about-pancake-swap-v4-what-s-in-it-for-developers-traders-liquidity-providers-and-defi-protocols)
+**3. 수익 창출 기회:** 개발자는 훅 수수료를 통해 꾸준한 수익원을 확보할 수 있으며, 자신의 훅을 사용하는 데 대한 수수료를 직접 설정할 수 있습니다. 혁신을 수수료로 수익화함으로써 개발자는 PancakeSwap 생태계의 성장과 발전에 기여할 수 있습니다. 이 블로그에서[ 자세히 알아보세요](https://blog.pancakeswap.finance/articles/everything-you-need-to-know-about-pancake-swap-v4-what-s-in-it-for-developers-traders-liquidity-providers-and-defi-protocols)
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-03-15 at 09.40.42.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-03-15%20at%2009.40.42.png" alt=""><figcaption></figcaption></figure>
 
-**Q3** What improvements does PancakeSwap Infinity bring compared to v3?
+**Q3** PancakeSwap Infinity는 v3와 비교해 어떤 점이 개선되었나요?
 
-**Ans:** PancakeSwap Infinity introduces the capability to enhance liquidity pool functionalities with custom features without re-implementing the core protocol. It also supports the implementation of any pricing curve on the go and offers substantial gas savings for users.
+**답변:** PancakeSwap Infinity는 핵심 프로토콜을 다시 구현하지 않고도 사용자 정의 기능으로 유동성 풀의 기능을 강화할 수 있게 합니다. 또한 어떤 가격 곡선이든 즉석에서 구현할 수 있도록 지원하며, 사용자에게 상당한 가스비 절감 효과를 제공합니다.
 
-**Q4** Will there be any changes to the user interface or user experience in PancakeSwap Infinity?
+**Q4** PancakeSwap Infinity에서 사용자 인터페이스나 사용자 경험이 달라지나요?
 
-**Ans:** Users can swap on Infinity through PancakeSwap’s swapping page, just like the usual friendly experience. Traders and liquidity providers have multiple options to add liquidity across supported pool types, including CLAMM and LBAMM.
+**답변:** 사용자는 평소와 같은 친숙한 경험으로 PancakeSwap의 스왑 페이지에서 Infinity로 스왑할 수 있습니다. 트레이더와 유동성 공급자는 CLAMM과 LBAMM을 포함해 지원되는 풀 유형 전반에서 유동성을 추가할 수 있는 여러 옵션을 이용할 수 있습니다.
 
-**Q5** How can the community get involved in testing or providing feedback for PancakeSwap Infinity?
+**Q5** 커뮤니티는 PancakeSwap Infinity를 테스트하거나 피드백을 제공하는 데 어떻게 참여할 수 있나요?
 
-**Ans:** If you're a community member, feel free to share your feedback through our socials on [Telegram](https://t.me/PancakeSwapAnn), [Discord](https://discord.com/channels/897834609272840232/1207724381212770315), and [Twitter](https://twitter.com/PancakeSwap). If you're a developer, join our developer Discord community and share your thoughts.
+**답변:** 커뮤니티 구성원이라면 [Telegram](https://t.me/PancakeSwapAnn), [Discord](https://discord.com/channels/897834609272840232/1207724381212770315), [Twitter](https://twitter.com/PancakeSwap) 등 소셜 채널을 통해 자유롭게 피드백을 공유해 주세요. 개발자라면 개발자 Discord 커뮤니티에 참여하여 의견을 나눠 주세요.
 
-**Q6** Where can users find more information about PancakeSwap Infinity and stay updated on its development progress?
+**Q6** 사용자는 PancakeSwap Infinity에 대한 더 많은 정보와 개발 진행 상황을 어디에서 확인할 수 있나요?
 
-**Ans:** Visit our official [website](https://pancakeswap.finance/v4?utm_source=v4announcementblog\&utm_medium=blog\&utm_campaign=v4announcementblog\&utm_id=v4announcementblog) , read our [whitepaper](https://github.com/pancakeswap/pancake-v4-core/blob/main/docs/whitepaper-en.pdf) , and follow us on social media for the latest updates and developments. If you're a developer, join our developer Discord community.\
+**답변:** 공식 [웹사이트](https://pancakeswap.finance/v4?utm_source=v4announcementblog\&utm_medium=blog\&utm_campaign=v4announcementblog\&utm_id=v4announcementblog)를 방문하고, [백서](https://github.com/pancakeswap/pancake-v4-core/blob/main/docs/whitepaper-en.pdf)를 읽고, 소셜 미디어를 팔로우하여 최신 소식과 개발 상황을 확인하세요.  개발자라면 개발자 Discord 커뮤니티에 참여하세요.\
 \
-**Q7** What is the licensing mechanism for PancakeSwap Infinity?
+**Q7** PancakeSwap Infinity의 라이선스 체계는 어떻게 되나요?
 
-**Ans:** PancakeSwap Infinity is committed to open-source principles. Our code will be released under an open-source license, empowering developers to innovate freely. However, As a part of our [Affiliate initiative](https://forum.pancakeswap.finance/t/discussion-on-pancakeswap-affiliates-a-multichain-expansion-strategy/395), DeFi protocols forking PancakeSwap will be warmly welcomed and officially recognized by the Kitchen.\
+**답변:** PancakeSwap Infinity는 오픈소스 원칙을 지향합니다. 코드는 오픈소스 라이선스로 공개되어 개발자가 자유롭게 혁신할 수 있도록 합니다. 다만 [제휴(Affiliate) 이니셔티브](https://forum.pancakeswap.finance/t/discussion-on-pancakeswap-affiliates-a-multichain-expansion-strategy/395)의 일환으로, PancakeSwap을 포크하는 DeFi 프로토콜은 키친(Kitchen)에서 따뜻하게 환영받고 공식적으로 인정받게 됩니다.\
 \
-**Q8** How does PancakeSwap Infinity reduce gas fees?
+**Q8** PancakeSwap Infinity는 어떻게 가스비를 줄이나요?
 
-**Ans:** PancakeSwap Infinity leverages the Singleton and Flash accounting mechanisms to reduce gas fees significantly. By consolidating all pools into a single contract (singleton), multi-pool transactions are simplified, making them more cost-effective. Flash Accounting replaces individual transfers with net balances, computed collectively at the end of each transaction, resulting in substantial gas savings. ERC-6909 further reduces gas for frequent users by letting users keep their funds within the protocol and use them when required, eliminating transfers to/from their wallets.\
+**답변:** PancakeSwap Infinity는 싱글톤과 플래시 회계 메커니즘을 활용하여 가스비를 크게 줄입니다. 모든 풀을 하나의 컨트랙트(싱글톤)로 통합함으로써 멀티 풀 트랜잭션이 단순해져 비용 효율이 높아집니다. 플래시 회계는 개별 전송을 각 트랜잭션 종료 시 일괄 계산되는 순 잔액으로 대체하여 상당한 가스비를 절감합니다. 또한 ERC-6909는 사용자가 자금을 프로토콜 내에 보관하다가 필요할 때 사용할 수 있게 하여 지갑으로의 입출금 전송을 없애, 자주 이용하는 사용자의 가스비를 더욱 줄입니다.\
 \
-**Q9** What are Hooks in PancakeSwap Infinity, and how do they enable innovation?
+**Q9** PancakeSwap Infinity의 훅(Hooks)은 무엇이며, 어떻게 혁신을 가능하게 하나요?
 
-**Ans:** Hooks are customizable add-ons that enhance liquidity pool functionality, allowing developers to introduce custom features and fee management options. Deployed externally, Hooks can execute predefined logic during key pool actions, offering endless possibilities, including dynamic fees, order types, custom oracles, and active liquidity management strategies. Check out this blog to [learn more](https://blog.pancakeswap.finance/articles/why-should-developers-build-on-pancake-swap-v4-and-how-to-build-hooks)\
+**답변:** 훅은 유동성 풀의 기능을 강화하는 맞춤형 애드온으로, 개발자가 사용자 정의 기능과 수수료 관리 옵션을 도입할 수 있게 합니다. 외부에 배포되는 훅은 주요 풀 동작 중에 미리 정의된 로직을 실행할 수 있어 동적 수수료, 주문 유형, 맞춤형 오라클, 능동적 유동성 관리 전략 등 무한한 가능성을 제공합니다. 이 블로그에서 [자세히 알아보세요](https://blog.pancakeswap.finance/articles/why-should-developers-build-on-pancake-swap-v4-and-how-to-build-hooks)\
 \
-**Q10** What opportunities does PancakeSwap Infinity present for developers?
+**Q10** PancakeSwap Infinity는 개발자에게 어떤 기회를 제공하나요?
 
-**Ans:** Developers can build innovative solutions, generate revenue through hook fees, and tap into PancakeSwap's extensive user base and deep liquidity. Read our dedicated [blog post](https://blog.pancakeswap.finance/articles/why-should-developers-build-on-pancake-swap-v4-and-how-to-build-hooks) on why developers should build on PancakeSwap.
+**답변:** 개발자는 혁신적인 솔루션을 구축하고, 훅 수수료로 수익을 창출하며, PancakeSwap의 방대한 사용자 기반과 깊은 유동성을 활용할 수 있습니다. 개발자가 PancakeSwap에서 구축해야 하는 이유를 다룬 [전용 블로그 게시물](https://blog.pancakeswap.finance/articles/why-should-developers-build-on-pancake-swap-v4-and-how-to-build-hooks)을 읽어 보세요.
 
-**Q11** How does PancakeSwap Infinity contribute to the broader DeFi ecosystem?
+**Q11** PancakeSwap Infinity는 더 넓은 DeFi 생태계에 어떻게 기여하나요?
 
-**Ans:** PancakeSwap Infinity aims to address the shortcomings of current AMMs, enhance the DEX experience, and evolve into the highest-functionality DeFi platform supported by our open-source approach. Read our Head Chef, Chef Mochi's [vision for Infinity](https://blog.pancakeswap.finance/articles/chef-mochi-s-vision-for-pancake-swap-v4-a-leap-forward-in-de-fi-innovation) to learn more\
+**답변:** PancakeSwap Infinity는 현재 AMM의 단점을 해결하고, DEX 경험을 향상하며, 오픈소스 접근 방식을 바탕으로 기능이 가장 뛰어난 DeFi 플랫폼으로 발전하는 것을 목표로 합니다. 자세한 내용은 헤드 셰프 Chef Mochi의 [Infinity 비전](https://blog.pancakeswap.finance/articles/chef-mochi-s-vision-for-pancake-swap-v4-a-leap-forward-in-de-fi-innovation)을 읽어 보세요\
 \
-**Q12** Where can we find the hook template repository?
+**Q12** 훅 템플릿 저장소는 어디에서 찾을 수 있나요?
 
-**Ans:** Hooks template can be found at [https://github.com/pancakeswap/infinity-hooks-template](https://github.com/pancakeswap/infinity-hooks-template) and example hooks at [https://github.com/pancakeswap/infinity-hooks](https://github.com/pancakeswap/infinity-hooks)\
+**답변:** 훅 템플릿은 [https://github.com/pancakeswap/infinity-hooks-template](https://github.com/pancakeswap/infinity-hooks-template)에서, 예시 훅은 [https://github.com/pancakeswap/infinity-hooks](https://github.com/pancakeswap/infinity-hooks)에서 찾을 수 있습니다\
 \
-**Q13** Can you explain the life cycles of hooks and their examples?
+**Q13** 훅의 라이프 사이클과 예시를 설명해 주실 수 있나요?
 
-**Ans:** Hooks can be implemented before / after 5 key actions namely initialize, swap, addLiquidity, removeLiquidity, donate. For instance, when a user initiates a swap, the PoolManager contract checks if a beforeSwap hook callback exists. If it does, the logic under the beforeSwap method in the hook contract is executed; otherwise, the swap proceeds as usual. After the swap is completed, the same process occurs for the afterSwap callback.\
+**답변:** 훅은 initialize, swap, addLiquidity, removeLiquidity, donate의 5가지 주요 동작 전/후에 구현할 수 있습니다. 예를 들어 사용자가 스왑을 시작하면 PoolManager 컨트랙트는 beforeSwap 훅 콜백이 있는지 확인합니다. 있다면 훅 컨트랙트의 beforeSwap 메서드 아래 로직이 실행되고, 없다면 스왑이 평소대로 진행됩니다. 스왑이 완료된 후에는 afterSwap 콜백에 대해 같은 과정이 일어납니다.\
 \
-**Q14:** Do we need to perform address mining to ensure hooks are deployed at a specific address?\
-**Ans:** Hooks can be deployed on any address like other contracts. Callback permissions are set at PoolKey. For more info, please see the faq for hooks here
+**Q14:** 훅을 특정 주소에 배포하려면 주소 마이닝을 해야 하나요?\
+**답변:** 훅은 다른 컨트랙트와 마찬가지로 어떤 주소에든 배포할 수 있습니다. 콜백 권한은 PoolKey에서 설정됩니다. 자세한 내용은 여기의 훅 자주 묻는 질문 (FAQ)을 참고하세요.&#x20;
 
 [https://developer.pancakeswap.finance/contracts/infinity/overview/custom-layer-hook](https://developer.pancakeswap.finance/contracts/infinity/overview/custom-layer-hook)\
 \
-**Q15:** How can we verify a hook contract on etherscan?
+**Q15:** etherscan에서 훅 컨트랙트를 어떻게 검증할 수 있나요?&#x20;
 
-**Ans:** If you are using foundry, you can refer to the foundry guide here [https://book.getfoundry.sh/reference/forge/forge-verify-contract](https://book.getfoundry.sh/reference/forge/forge-verify-contract)\
-Or if you are using hardhat, refer to the hard guide here [https://hardhat.org/hardhat-runner/docs/guides/verifying](https://hardhat.org/hardhat-runner/docs/guides/verifying)\
+**답변:** foundry를 사용한다면 여기의 foundry 가이드를 참고하세요 [https://book.getfoundry.sh/reference/forge/forge-verify-contract](https://book.getfoundry.sh/reference/forge/forge-verify-contract) \
+hardhat을 사용한다면 여기의 hardhat 가이드를 참고하세요 [https://hardhat.org/hardhat-runner/docs/guides/verifying](https://hardhat.org/hardhat-runner/docs/guides/verifying)\
 \
-**Q16:** Should we use foundry or hardhat for hook development?
+**Q16:** 훅 개발에는 foundry와 hardhat 중 무엇을 사용해야 하나요?
 
-**Ans:** The template [https://github.com/pancakeswap/infinity-hooks-template](https://github.com/pancakeswap/infinity-hooks-template) is based on foundry; thus, we advise using foundry. Besides that, the foundry has been growing in popularity!
+**답변:** 템플릿 [https://github.com/pancakeswap/infinity-hooks-template](https://github.com/pancakeswap/infinity-hooks-template)은 foundry 기반이므로 foundry 사용을 권장합니다. 그 외에도 foundry는 점점 인기를 얻고 있습니다!&#x20;
 
-**Q17:** What are pool keys?
+**Q17:** 풀 키(pool keys)란 무엇인가요?&#x20;
 
-**Ans:** PoolKey is a struct that describes each pool. See more [here](https://developer.pancakeswap.finance/contracts/infinity/overview/amm-layer-poolmanager).\
+**답변:** PoolKey는 각 풀을 설명하는 구조체(struct)입니다. 자세한 내용은 [여기](https://developer.pancakeswap.finance/contracts/infinity/overview/amm-layer-poolmanager)에서 확인하세요.\
 \
 \
-PancakeSwap Infinity represents a significant milestone in the DeFi space, offering unparalleled benefits for traders, developers, liquidity providers, and the broader community. We're excited to embark on this journey with you and look forward to shaping the future of DeFi together. We hope this FAQ has answered your questions about PancakeSwap Infinity. If you have any further questions, feel free to reach out to us via ([Twitter](https://twitter.com/PancakeSwap), [Discord](https://discord.com/channels/897834609272840232/1207724381212770315), and [Telegram](https://t.me/PancakeSwap)) or check our Dev [documentation](https://developer.pancakeswap.finance).
+PancakeSwap Infinity는 DeFi 분야의 중요한 이정표로, 트레이더, 개발자, 유동성 공급자, 그리고 더 넓은 커뮤니티에 비할 데 없는 혜택을 제공합니다. 여러분과 함께 이 여정을 시작하게 되어 기쁘며, DeFi의 미래를 함께 만들어 가기를 기대합니다. 이 자주 묻는 질문 (FAQ)이 PancakeSwap Infinity에 대한 궁금증을 해소했기를 바랍니다. 추가 질문이 있으시면 ([Twitter](https://twitter.com/PancakeSwap), [Discord](https://discord.com/channels/897834609272840232/1207724381212770315), [Telegram](https://t.me/PancakeSwap))으로 언제든지 문의하시거나 개발자 [문서](https://developer.pancakeswap.finance)를 확인해 주세요.

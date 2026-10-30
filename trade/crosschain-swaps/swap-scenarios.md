@@ -1,37 +1,37 @@
-# 🔁 Swap Scenarios
+# 🔁 스왑 시나리오
 
-There are 4 scenarios for Crosschain transactions.
+크로스체인 트랜잭션에는 4가지 시나리오가 있습니다.
 
-#### 1️⃣ Bridge Only
+#### 1️⃣ 브릿지만
 
-* Example: **Bridge ETH on Base to ETH on Arbitrum**
-* Only supported tokens (USDC, USDT, WETH, etc) can be bridged directly. These tokens vary by source and destination chain.
+* 예시: **Base의 ETH를 Arbitrum의 ETH로 브릿징**
+* 지원되는 토큰(USDC, USDT, WETH 등)만 직접 브릿징할 수 있습니다. 이러한 토큰은 출발 체인과 도착 체인에 따라 다릅니다.
 
-#### 2️⃣ Swap → Bridge
+#### 2️⃣ 스왑 → 브릿지
 
-* Example: **Swap BNB on BNB Chain to USDC on Arbitrum**
-* Swap BNB to a supported bridge token (e.g. USDC) using PancakeSwap pools on BNB chain
-* Bridge USDC via Across to Arbitrum
+* 예시: **BNB Chain의 BNB를 Arbitrum의 USDC로 스왑**
+* BNB Chain의 PancakeSwap 풀을 사용해 BNB를 지원되는 브릿지 토큰(예: USDC)으로 스왑
+* Across를 통해 USDC를 Arbitrum으로 브릿징
 
-#### 3️⃣ Bridge → Swap
+#### 3️⃣ 브릿지 → 스왑
 
-* Example: **Swap USDC on BNB Chain to ARB on Arbitrum**
-* Bridge USDC via Across
-* Swap USDC to ARB using PancakeSwap pools on Arbitrum
+* 예시: **BNB Chain의 USDC를 Arbitrum의 ARB로 스왑**
+* Across를 통해 USDC 브릿징
+* Arbitrum의 PancakeSwap 풀을 사용해 USDC를 ARB로 스왑
 
-#### 4️⃣ Swap → Bridge → Swap
+#### 4️⃣ 스왑 → 브릿지 → 스왑
 
-* Example: **Swap BNB on BNB Chain to ARB on Arbitrum**
-* Swap BNB to a bridge token (maximizing user output)
-* Bridge via Across
-* Swap bridged token to ARB on Arbitrum using PancakeSwap pools
+* 예시: **BNB Chain의 BNB를 Arbitrum의 ARB로 스왑**
+* BNB를 브릿지 토큰으로 스왑(사용자 수령량 극대화)
+* Across를 통해 브릿징
+* Arbitrum의 PancakeSwap 풀을 사용해 브릿징된 토큰을 ARB로 스왑
 
 ***
 
-### ⚠️ Fail Cases
+### ⚠️ 실패 사례
 
-| Scenario                              | Outcome                                                                                                                                                                                         |
-| ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Swap/Tx Failure on Source Chain**   | User instantly receives the original token on source chain                                                                                                                                      |
-| **Bridge Tx Failure**                 | Across processes a refund within 90 mins to 2 hours, and user receives the bridged asset on source chain. While Relay processes the refund within a minute in such scenario between SOL <> EVM. |
-| **Swap Failure on Destination Chain** | User receives the bridged asset on the destination chain                                                                                                                                        |
+| 시나리오                      | 결과                                                                                                                                                                                              |
+| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **출발 체인에서의 스왑/트랜잭션 실패**   | 사용자가 출발 체인에서 원래 토큰을 즉시 돌려받습니다.                                                                                                                                                                  |
+| **브릿지 트랜잭션 실패**           | Across는 90분에서 2시간 이내에 환불을 처리하며, 사용자는 브릿징한 자산을 출발 체인에서 돌려받습니다. SOL <> EVM 간에는 Relay가 이러한 경우 1분 이내에 환불을 처리합니다. |
+| **도착 체인에서의 스왑 실패**        | 사용자가 브릿징된 자산을 도착 체인에서 받습니다.                                                                                                                                                                     |

@@ -1,8 +1,8 @@
-# 🔀 Crosschain Swaps
+# 🔀 크로스체인 스왑
 
-Crosschain Swaps allow users to seamlessly swap tokens between chains — all within a single, streamlined transaction.
+크로스체인 스왑을 사용하면 하나의 간소화된 트랜잭션으로 체인 간 토큰을 매끄럽게 스왑할 수 있습니다.
 
-Crosschain swaps are supported between:
+다음 체인 간 크로스체인 스왑이 지원됩니다.
 
 * BNB Chain
 * Ethereum
@@ -13,61 +13,61 @@ Crosschain swaps are supported between:
 * Linea
 
 {% hint style="success" %}
-**Transactions are lightning-fast — typically completing within seconds to under a minute.**
+**트랜잭션이 매우 빠르며, 보통 몇 초에서 1분 이내에 완료됩니다.**
 {% endhint %}
 
 ***
 
-### 🔍 How It Works
+### 🔍 작동 방식
 
-1. User selects From / To chain and From / To token
-2. The PancakeSwap router computes the most efficient route
-3. Swaps are executed using PancakeSwap’s liquidity pools (v2, v3, Infinity, StableSwaps) on source and destination chains
-4. Bridging is handled via our partner protocols: [Across](https://across.to/) (for EVM <> EVM), [Relay](https://relay.link/bridge) (for SOL <> EVM)
+1. 사용자가 출발/도착 체인과 출발/도착 토큰을 선택합니다.
+2. PancakeSwap 라우터가 가장 효율적인 경로를 계산합니다.
+3. 출발 체인과 도착 체인에서 PancakeSwap의 유동성 풀(v2, v3, Infinity, StableSwaps)을 사용해 스왑이 실행됩니다.
+4. 브릿징은 파트너 프로토콜을 통해 처리됩니다. EVM <> EVM은 [Across](https://across.to/), SOL <> EVM은 [Relay](https://relay.link/bridge)를 사용합니다.
 
 {% hint style="success" %}
-**Crosschain swaps are available for any token with adequate liquidity on both the source and destination chains.**
+**출발 체인과 도착 체인 모두에 충분한 유동성이 있는 토큰이라면 어떤 토큰이든 크로스체인 스왑이 가능합니다.**
 {% endhint %}
 
 ***
 
-### 💸 Fees
+### 💸 수수료
 
-* **PancakeSwap does not charge any fee for Crosschain transactions.**
-* Fees are comprised of:
-  1. **Trading Fee:** Incurred for swaps within liquidity pools on the source and destination chains
-  2. **Bridge Fee:** Paid to relayers for bridging assets
+* **PancakeSwap은 크로스체인 트랜잭션에 어떠한 수수료도 부과하지 않습니다.**
+* 수수료는 다음으로 구성됩니다.
+  1. **거래 수수료:** 출발 체인과 도착 체인의 유동성 풀에서 스왑할 때 발생합니다.
+  2. **브릿지 수수료:** 자산을 브릿징하기 위해 릴레이어에게 지급됩니다.
 
 ***
 
-### 🎯 What Are Intents?
+### 🎯 인텐트(Intent)란 무엇인가요?
 
-Intents let users define their desired outcome without worrying about how it’s achieved.
+인텐트를 사용하면 결과를 어떻게 달성할지 신경 쓰지 않고 원하는 결과만 정의할 수 있습니다.
 
-Example Intents:
+인텐트 예시:
 
-* “Swap 1 ETH on Base for at least 3000 USDC on Arbitrum”
+* "Base의 1 ETH를 Arbitrum의 최소 3000 USDC로 스왑"
 
-Without intents, a user would need to manually:
+인텐트가 없다면 사용자는 직접 다음을 해야 합니다.
 
-* Bridge ETH to Arbitrum
-* Find a DEX with the best ETH → USDC price
+* ETH를 Arbitrum으로 브릿징
+* ETH → USDC 가격이 가장 좋은 DEX 찾기
 
 {% hint style="success" %}
-**With intents — the system handles it all automatically.**
+**인텐트를 사용하면 시스템이 이 모든 것을 자동으로 처리합니다.**
 {% endhint %}
 
-**Benefits of intent-based design:**
+**인텐트 기반 설계의 장점:**
 
-* Seamless UX
-* Faster transaction times
-* One-click, single transactions
+* 매끄러운 사용자 경험
+* 더 빠른 트랜잭션 처리 시간
+* 클릭 한 번으로 끝나는 단일 트랜잭션
 
 ***
 
-### 🔐 Audits
+### 🔐 감사
 
-We’ve conducted multiple audit rounds with respected names in the cross-chain security space:
+크로스체인 보안 분야에서 인정받는 팀들과 여러 차례 감사를 진행했습니다.
 
 * [**Pashov Audit Group**](https://developer.pancakeswap.finance/crosschain/pashov-audit.pdf)
 * [**BurraSec**](https://developer.pancakeswap.finance/crosschain/burrasec-audit.pdf)

@@ -1,69 +1,69 @@
-# Tokenized Stocks - Geo-block
+# 토큰화 주식 - 지역 차단
 
-### bStocks
+### bStocks&#x20;
 
-**57 countries/territories**
+**57개 국가/지역**
 
-United States, American Samoa, Guam, Northern Mariana Islands, Puerto Rico, US Virgin Islands, US Minor Outlying Islands, Cuba, Iran, North Korea, Syria, United Arab Emirates, Austria, Australia, Åland Islands, Belgium, Bulgaria, Bahrain, Cyprus, Czechia, Germany, Denmark, Estonia, Spain, Finland, France, United Kingdom, Guernsey, Gibraltar, Greece, Hong Kong, Croatia, Hungary, Indonesia, Ireland, Isle of Man, Iceland, Italy, Jersey, Japan, Kazakhstan, Liechtenstein, Lithuania, Luxembourg, Latvia, Malta, Norway, New Zealand, Philippines, Poland, Portugal, Romania, Sweden, Slovenia, Slovakia, Thailand, Turkey
+미국, 아메리칸사모아, 괌, 북마리아나 제도, 푸에르토리코, 미국령 버진아일랜드, 미국령 소제도, 쿠바, 이란, 북한, 시리아, 아랍에미리트, 오스트리아, 호주, 올란드 제도, 벨기에, 불가리아, 바레인, 키프로스, 체코, 독일, 덴마크, 에스토니아, 스페인, 핀란드, 프랑스, 영국, 건지, 지브롤터, 그리스, 홍콩, 크로아티아, 헝가리, 인도네시아, 아일랜드, 맨섬, 아이슬란드, 이탈리아, 저지, 일본, 카자흐스탄, 리히텐슈타인, 리투아니아, 룩셈부르크, 라트비아, 몰타, 노르웨이, 뉴질랜드, 필리핀, 폴란드, 포르투갈, 루마니아, 스웨덴, 슬로베니아, 슬로바키아, 태국, 튀르키예
 
 `US, AS, GU, MP, PR, VI, UM, CU, IR, KP, SY, AE, AT, AU, AX, BE, BG, BH, CY, CZ, DE, DK, EE, ES, FI, FR, GB, GG, GI, GR, HK, HR, HU, ID, IE, IM, IS, IT, JE, JP, KZ, LI, LT, LU, LV, MT, NO, NZ, PH, PL, PT, RO, SE, SI, SK, TH, TR`
 
 ### Ondo
 
-**21 countries**
+**21개 국가**
 
-Afghanistan, Algeria, Belarus, Canada, China, Cuba, Eritrea, Iran, North Korea, Libya, Morocco, Myanmar, Nepal, Russia, Somalia, South Sudan, Sudan, Syria, Ukraine, United States, Venezuela
+아프가니스탄, 알제리, 벨라루스, 캐나다, 중국, 쿠바, 에리트레아, 이란, 북한, 리비아, 모로코, 미얀마, 네팔, 러시아, 소말리아, 남수단, 수단, 시리아, 우크라이나, 미국, 베네수엘라
 
 `AF, DZ, BY, CA, CN, CU, ER, IR, KP, LY, MA, MM, NP, RU, SO, SS, SD, SY, UA, US, VE`
 
 ### Reserve
 
-**21 countries** — identical to Ondo
+**21개 국가** — Ondo와 동일
 
-Afghanistan, Algeria, Belarus, Canada, China, Cuba, Eritrea, Iran, North Korea, Libya, Morocco, Myanmar, Nepal, Russia, Somalia, South Sudan, Sudan, Syria, Ukraine, United States, Venezuela
+아프가니스탄, 알제리, 벨라루스, 캐나다, 중국, 쿠바, 에리트레아, 이란, 북한, 리비아, 모로코, 미얀마, 네팔, 러시아, 소말리아, 남수단, 수단, 시리아, 우크라이나, 미국, 베네수엘라
 
 `AF, DZ, BY, CA, CN, CU, ER, IR, KP, LY, MA, MM, NP, RU, SO, SS, SD, SY, UA, US, VE`
 
 ### xStocks
 
-**4 countries**
+**4개 국가**
 
-United States, Canada, United Kingdom, Australia
+미국, 캐나다, 영국, 호주
 
 `US, CA, UK, AU`
 
 ### Robinhood
 
-**15 countries**
+**15개 국가**
 
-United States, Canada, United Kingdom, Switzerland, Cuba, Belarus, Iran, North Korea, Russia, Syria, Ukraine, South Sudan, Sudan, Myanmar, Venezuela
+미국, 캐나다, 영국, 스위스, 쿠바, 벨라루스, 이란, 북한, 러시아, 시리아, 우크라이나, 남수단, 수단, 미얀마, 베네수엘라
 
 `US, CA, GB, CH, CU, BY, IR, KP, RU, SY, UA, SS, SD, MM, VE`
 
 ### Colb
 
-**24 countries**
+**24개 국가**
 
-Afghanistan, Belarus, Burundi, China, DR Congo, Cuba, Guinea, Guinea-Bissau, Iran, Iraq, North Korea, Lebanon, Libya, Mali, Myanmar, Nicaragua, Russia, Somalia, South Sudan, Sudan, Syria, Venezuela, Yemen, Zimbabwe
+아프가니스탄, 벨라루스, 부룬디, 중국, 콩고민주공화국, 쿠바, 기니, 기니비사우, 이란, 이라크, 북한, 레바논, 리비아, 말리, 미얀마, 니카라과, 러시아, 소말리아, 남수단, 수단, 시리아, 베네수엘라, 예멘, 짐바브웨
 
 `AF, BY, BI, CN, CD, CU, GN, GW, IR, IQ, KP, LB, LY, ML, MM, NI, RU, SO, SS, SD, SY, VE, YE, ZW`
 
 ### Coinbase
 
-**1 country**
+**1개 국가**
 
-United States
+미국
 
 `US`
 
 ### St0X
 
-No region-based restrictions.
+지역 기반 제한이 없습니다.
 
 ### rStocks
 
-**70 countries**
+**70개 국가**
 
-Afghanistan, Algeria, Angola, Austria, Belarus, Belgium, Bulgaria, Burundi, Canada, Central African Republic, Côte d'Ivoire, Croatia, Cuba, Cyprus, Czechia, North Korea, DR Congo, Denmark, Eritrea, Estonia, Ethiopia, Finland, France, Germany, Greece, Guinea-Bissau, Haiti, Hong Kong, Hungary, Iran, Iraq, Ireland, Italy, Japan, Kazakhstan, Kenya, Laos, Latvia, Lebanon, Libya, Lithuania, Luxembourg, Mali, Malta, Monaco, Myanmar, Namibia, Nepal, Netherlands, Nicaragua, Poland, Portugal, Romania, Russia, Singapore, Slovakia, Slovenia, Somalia, South Sudan, Spain, Sudan, Sweden, Syria, Ukraine, United Arab Emirates, United Kingdom, United States, Venezuela, Yemen, Zimbabwe
+아프가니스탄, 알제리, 앙골라, 오스트리아, 벨라루스, 벨기에, 불가리아, 부룬디, 캐나다, 중앙아프리카공화국, 코트디부아르, 크로아티아, 쿠바, 키프로스, 체코, 북한, 콩고민주공화국, 덴마크, 에리트레아, 에스토니아, 에티오피아, 핀란드, 프랑스, 독일, 그리스, 기니비사우, 아이티, 홍콩, 헝가리, 이란, 이라크, 아일랜드, 이탈리아, 일본, 카자흐스탄, 케냐, 라오스, 라트비아, 레바논, 리비아, 리투아니아, 룩셈부르크, 말리, 몰타, 모나코, 미얀마, 나미비아, 네팔, 네덜란드, 니카라과, 폴란드, 포르투갈, 루마니아, 러시아, 싱가포르, 슬로바키아, 슬로베니아, 소말리아, 남수단, 스페인, 수단, 스웨덴, 시리아, 우크라이나, 아랍에미리트, 영국, 미국, 베네수엘라, 예멘, 짐바브웨
 
 `AF, DZ, AO, AT, BY, BE, BG, BI, CA, CF, CI, HR, CU, CY, CZ, KP, CD, DK, ER, EE, ET, FI, FR, DE, GR, GW, HT, HK, HU, IR, IQ, IE, IT, JP, KZ, KE, LA, LV, LB, LY, LT, LU, ML, MT, MC, MM, NA, NP, NL, NI, PL, PT, RO, RU, SG, SK, SI, SO, SS, ES, SD, SE, SY, UA, AE, GB, US, VE, YE, ZW`

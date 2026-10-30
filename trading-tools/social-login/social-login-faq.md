@@ -1,98 +1,108 @@
-# Social Login FAQ
+# Social Login 자주 묻는 질문 (FAQ)
 
 {% hint style="info" %}
-For more information view: [https://docs.privy.io/security/wallet-infrastructure/architecture#wallet-transaction](https://docs.privy.io/security/wallet-infrastructure/architecture#wallet-transaction)
+자세한 내용은 다음을 참조하세요: [https://docs.privy.io/security/wallet-infrastructure/architecture#wallet-transaction](https://docs.privy.io/security/wallet-infrastructure/architecture#wallet-transaction)
 {% endhint %}
 
-### 🔍 General Overview
+### 🔍 일반 개요
 
-**1. What is PancakeSwap’s social login and why should I use it?**
+**1. PancakeSwap의 소셜 로그인이란 무엇이며 왜 사용해야 하나요?**
 
-Social login lets you access PancakeSwap using your **Google**, **X (Twitter)**, **Discord**, or **Telegram** account — no wallet extension or seed phrase needed. A self-custodial wallet is created behind the scenes, so you can try DeFi instantly, even with small amounts. This lowers the barrier to entry, especially in time-sensitive moments.
+소셜 로그인을 사용하면 **Google**, **X (Twitter)**, **Discord** 또는 **Telegram** 계정으로 PancakeSwap에 접속할 수 있습니다. 지갑 확장 프로그램이나 시드 구문이 필요 없습니다. 백그라운드에서 자기 수탁형 지갑이 생성되므로 소액으로도 즉시 DeFi를 체험할 수 있습니다. 이를 통해 진입 장벽이 낮아지며, 특히 시간이 촉박한 순간에 유용합니다.
 
-**2. What chains does social login support?**
+**2. 소셜 로그인은 어떤 체인을 지원하나요?**
 
-Your social login wallet works across all chains currently supported by PancakeSwap:
+소셜 로그인 지갑은 현재 PancakeSwap이 지원하는 모든 체인에서 작동합니다.
 
-* **BNB Chain**
+* **BNB 체인**
 * **Ethereum**
 * **Base**
 * **Arbitrum**
 * **Linea**
 * **opBNB**
 
-All wallets are **EVM-compatible** and can be used across these networks natively through PancakeSwap. If you’d like to see support for other chains (including non-EVM), let us know!
+모든 지갑은 **EVM 호환**이며 PancakeSwap을 통해 이러한 네트워크에서 기본적으로 사용할 수 있습니다. 다른 체인(non-EVM 포함)에 대한 지원을 원하시면 알려 주세요!
 
-**3. Where can I use the social login wallet?**
+**3. 소셜 로그인 지갑은 어디에서 사용할 수 있나요?**
 
-You can use it directly in any desktop or mobile **browser** through the PancakeSwap web app. It is **not compatible** with external wallet apps or dApp browsers.
+데스크톱 또는 모바일 **브라우저**에서 PancakeSwap 웹 앱을 통해 바로 사용할 수 있습니다. 외부 지갑 앱이나 dApp 브라우저와는 **호환되지 않습니다**.
 
-### 🛠️ Wallet Setup & Usage
 
-**4. How is the wallet created and secured?**
 
-Your wallet is created automatically upon login and secured using a **2-of-2 key share system**. Both shares are required to reconstruct the key and generate a signature.
+### 🛠️ 지갑 설정 및 사용
 
-For more information on share encryption view:
+**4. 지갑은 어떻게 생성되고 보호되나요?**
+
+지갑은 로그인 시 자동으로 생성되며 **2-of-2 키 셰어 시스템**으로 보호됩니다. 키를 재구성하고 서명을 생성하려면 두 셰어가 모두 필요합니다.
+
+셰어 암호화에 대한 자세한 내용은 다음을 참조하세요.
 
 * [https://docs.privy.io/security/wallet-infrastructure/architecture](https://docs.privy.io/security/wallet-infrastructure/architecture)
 * [https://privy.io/blog/how-privy-embedded-wallets-work](https://privy.io/blog/how-privy-embedded-wallets-work)
 
-**5. How many wallets can I create?**
+**5. 지갑을 몇 개까지 만들 수 있나요?**
 
-You get **one wallet per social account per dApp**. For example, if you use your Google login on another app that also uses Privy, it will create a separate wallet.
+dApp별로 소셜 계정당 **지갑 1개**를 사용할 수 있습니다. 예를 들어 Privy를 사용하는 다른 앱에서 동일한 Google 로그인을 사용하면 별도의 지갑이 생성됩니다.
 
-### 🔐 Security & Privacy
 
-**6. Can someone access my wallet if they steal my device?**
 
-No. Even if someone gains access to your device, they would still need both your **social login** and (if set) your **recovery password**.
+### 🔐 보안 및 개인정보
 
-**7. What data is stored by PancakeSwap or Privy?**
+**6. 누군가 내 기기를 훔치면 내 지갑에 접근할 수 있나요?**
 
-* PancakeSwap **does not store** any wallet-related key shares.
-* Privy stores the **encrypted Auth Share and Recovery Share (if recovery flow is not set)**.
+아니요. 누군가 기기에 접근하더라도 **소셜 로그인**과 (설정한 경우) **복구 비밀번호**가 모두 필요합니다.
 
-> If you haven’t completed the recovery setup, your Recovery Share remains stored with Privy by default. For more info visit: [https://docs.privy.io/security/wallet-infrastructure/advanced/user-device#securing-the-recovery-share](https://docs.privy.io/security/wallet-infrastructure/advanced/user-device#securing-the-recovery-share)
+**7. PancakeSwap 또는 Privy는 어떤 데이터를 저장하나요?**
 
-### 🔄 Recovery & Session Management
+* PancakeSwap은 지갑과 관련된 키 셰어를 **저장하지 않습니다**.
+* Privy는 **암호화된 인증 셰어와 복구 셰어(복구 흐름을 설정하지 않은 경우)**를 저장합니다.
 
-**8. Can I use the same wallet on a different device or browser?**
+> 복구 설정을 완료하지 않았다면 복구 셰어는 기본적으로 Privy에 저장된 상태로 유지됩니다. 자세한 내용은 다음을 참조하세요: [https://docs.privy.io/security/wallet-infrastructure/advanced/user-device#securing-the-recovery-share](https://docs.privy.io/security/wallet-infrastructure/advanced/user-device#securing-the-recovery-share)
+>
+>
 
-Yes! Simply log in with the same social account. If it's a new device, you'll go through the recovery process using your recovery password (if set up).
+### 🔄 복구 및 세션 관리
 
-**9. What happens if I switch devices?**
+**8. 다른 기기나 브라우저에서 같은 지갑을 사용할 수 있나요?**
 
-You’ll be asked to re-login with your social account and go through the recovery flow (password setup). If you haven’t set up a recovery password, social account login is sufficient.
+네! 같은 소셜 계정으로 로그인하기만 하면 됩니다. 새 기기라면 (설정한 경우) 복구 비밀번호를 사용한 복구 과정을 거치게 됩니다.
 
-**10. What if I lose access to both my social login and recovery method?**
+**9. 기기를 변경하면 어떻게 되나요?**
 
-If you lose access to both your social account and your recovery method, **your wallet cannot be recovered**. There’s no seed phrase fallback, and private key export is not currently supported.
+소셜 계정으로 다시 로그인하고 복구 흐름(비밀번호 설정)을 거치라는 안내가 표시됩니다. 복구 비밀번호를 설정하지 않았다면 소셜 계정 로그인만으로 충분합니다.
 
-> ⚠️ Remember: Exporting your private key, if enabled in the future, would grant full control of your wallet to anyone who has it — treat it with extreme caution.
+**10. 소셜 로그인과 복구 수단에 모두 접근할 수 없게 되면 어떻게 하나요?**
 
-**11. How long do active sessions last?**
+소셜 계정과 복구 수단에 모두 접근할 수 없게 되면 **지갑을 복구할 수 없습니다**. 시드 구문을 통한 대체 수단이 없으며 개인 키 내보내기는 현재 지원되지 않습니다.
 
-Sessions last for 30 **days**. After that, you’ll be prompted to **log in again** and (if needed) re-enter your recovery credentials. During an active session, you can transact without needing to manually approve each action.
+> ⚠️ 기억하세요: 향후 활성화되더라도 개인 키를 내보내면 해당 키를 가진 누구에게나 지갑의 모든 권한이 주어지므로 극도로 주의해서 다루세요.
 
-### ⚙️ Compatibility & Limitations
+**11. 활성 세션은 얼마나 지속되나요?**
 
-**12. Can I export or import wallets?**
+세션은 30**일** 동안 지속됩니다. 이후에는 **다시 로그인**하고 (필요한 경우) 복구 자격 증명을 다시 입력하라는 안내가 표시됩니다. 활성 세션 중에는 각 작업을 수동으로 승인하지 않고도 거래할 수 있습니다.
 
-* **Export**: Not supported by default, for security reasons. This may change in future updates.
-* **Import**: Not supported. You cannot import external wallets like MetaMask or Phantom.
 
-**13. Can I connect this wallet to other dApps using WalletConnect?**
 
-Not at this time. The embedded wallet is **limited to PancakeSwap only**. If you're interested in using it more broadly, let us know — future expansions are possible.
+### ⚙️ 호환성 및 제한 사항
 
-### 🚀 Advanced Features
+**12. 지갑을 내보내거나 가져올 수 있나요?**
 
-**14. Does the social login wallet support Account Abstraction?**
+* **내보내기**: 보안상의 이유로 기본적으로 지원되지 않습니다. 향후 업데이트에서 변경될 수 있습니다.
+* **가져오기**: 지원되지 않습니다. MetaMask나 Phantom과 같은 외부 지갑은 가져올 수 없습니다.
 
-Yes. It supports **Account Abstraction features** such as transaction batching and **gas sponsorship** through integrations like Biconomy etc.
+**13. WalletConnect를 사용해 이 지갑을 다른 dApp에 연결할 수 있나요?**
 
-**15. How are signless transactions enabled?**
+현재는 불가능합니다. 임베디드 지갑은 **PancakeSwap에서만 사용할 수 있습니다**. 더 폭넓게 사용하고 싶으시다면 알려 주세요. 향후 확대될 가능성이 있습니다.
 
-* After login, your session is active for up to 30 **days**. During this time, PancakeSwap can request Privy to sign transactions on your behalf using your session credentials.
-* You won’t see a wallet popup for each action — everything is handled in the background. After 30 days, you’ll need to re-login to continue using this signless experience.
+
+
+### 🚀 고급 기능
+
+**14. 소셜 로그인 지갑은 계정 추상화(Account Abstraction)를 지원하나요?**
+
+네. Biconomy 등과의 통합을 통해 거래 일괄 처리 및 **가스비 대납**과 같은 **계정 추상화 기능**을 지원합니다.
+
+**15. 서명 없는 거래는 어떻게 가능한가요?**
+
+* 로그인 후 세션은 최대 30**일** 동안 활성 상태로 유지됩니다. 이 기간 동안 PancakeSwap은 세션 자격 증명을 사용하여 Privy에 사용자를 대신해 거래에 서명하도록 요청할 수 있습니다.&#x20;
+* 각 작업마다 지갑 팝업이 표시되지 않으며 모든 것이 백그라운드에서 처리됩니다. 30일이 지나면 이 서명 없는 경험을 계속 사용하려면 다시 로그인해야 합니다.

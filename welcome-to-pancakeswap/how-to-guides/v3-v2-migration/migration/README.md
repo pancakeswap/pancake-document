@@ -1,6 +1,6 @@
-# V2 Migration
+# 2⃣ V2 마이그레이션
 
-Here are some useful documents for the migration of MasterChef v2 and CAKE staking pool.
+MasterChef v2 및 CAKE 스테이킹 풀의 마이그레이션에 도움이 되는 문서를 모았습니다.
 
 {% content-ref url="masterchef-v2/" %}
 [masterchef-v2](masterchef-v2/)

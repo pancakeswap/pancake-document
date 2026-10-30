@@ -2,40 +2,40 @@
 hidden: true
 ---
 
-# Frontend Engineer (Contract)
+# 프론트엔드 엔지니어 (계약직)
 
-### General Information
+### 일반 정보
 
-* Salary range: Competitive, negotiable
-* **Duration: 1 - 2 quarters**
-* Position: Full-time / Part-time
-* Location: Remote
-* Time-zone preference: Any
+* 급여 범위: 경쟁력 있는 수준, 협의 가능
+* **기간: 1 - 2분기**
+* 근무 형태: 정규직 / 파트타임
+* 근무지: 원격
+* 선호 시간대: 무관
 
-### Your Responsibilities
+### 담당 업무
 
-* Design and build an iOS / Android application for PancakeSwap in accordance to our requirements.
-* Envision and develop features to help grow the application.
-* Enthusiastically collaborate with a small team to plan projects at the task level.
-* Collaborate with cross-functional partners on all aspects of product development.
+* 요구 사항에 맞춰 PancakeSwap용 iOS / Android 애플리케이션을 설계하고 구축합니다.
+* 애플리케이션 성장에 도움이 되는 기능을 구상하고 개발합니다.
+* 소규모 팀과 열정적으로 협업하여 태스크 단위로 프로젝트를 계획합니다.
+* 제품 개발의 모든 측면에서 유관 부서 파트너와 협업합니다.
 
-### Skills & Qualifications
+### 역량 및 자격 요건
 
-* 3-5 years of experience in building decentralised applications
-* Solid experience in Typescript and React JS.
-* Ability to write structured and clean code.
-* Experience with Javascript testing tools.
-* Experience with modern front-end build pipelines and tools.
-* Experience with defining and delivering scalable frontend architectures.
-* Some experience with GraphQL.
-* Experience working with Web3 and a decentralized application frontend.
-* Ability to work independently and innovate.
+* 탈중앙화 애플리케이션 구축 경력 3-5년
+* Typescript와 React JS에 대한 탄탄한 경험.
+* 구조적이고 깔끔한 코드를 작성하는 능력.
+* Javascript 테스트 도구 사용 경험.
+* 최신 프론트엔드 빌드 파이프라인과 도구 사용 경험.
+* 확장 가능한 프론트엔드 아키텍처를 정의하고 구현한 경험.
+* GraphQL 사용 경험.
+* Web3 및 탈중앙화 애플리케이션 프론트엔드 개발 경험.
+* 독립적으로 일하고 혁신할 수 있는 능력.
 
-### Good to have
+### 우대 사항
 
-* Understanding of Solidity and AMMs
-* Understanding of PancakeSwap products
+* Solidity와 AMM에 대한 이해
+* PancakeSwap 제품에 대한 이해
 
-### How to apply:
+### 지원 방법:
 
-Email hiring@pancakeswap.com with your resume!
+이력서를 hiring@pancakeswap.com 으로 이메일 보내 주세요!

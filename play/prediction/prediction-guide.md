@@ -1,149 +1,153 @@
-# How to Use Prediction
+# 예측 사용 방법
 
-![](../../.gitbook/assets/how-to-porediction-header.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-porediction-header.png)
 
-Playing PancakeSwap’s Prediction lets you test your foresight to earn rewards. Use your market knowledge or gut feeling to predict if the BNBUSD, BTCUSD or ETHUSD price will go up or down in the near future. Get it right and you’ll collect a share of the round’s prize pool!
+PancakeSwap 예측을 플레이하면 선견지명을 시험하고 보상을 얻을 수 있습니다. 시장에 대한 지식이나 직감을 활용하여 BNBUSD, BTCUSD 또는 ETHUSD 가격이 가까운 미래에 오를지 내릴지 예측해 보세요. 정확히 맞히면 해당 라운드 상금 풀의 일부를 받게 됩니다!
 
-## Switch between two prediction markets
+## 두 예측 마켓 간 전환하기
 
-<figure><img src="../../.gitbook/assets/image (450).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28453%29.png" alt=""><figcaption></figcaption></figure>
 
-PancakeSwap offers three separate prediction markets for every player to choose from (BNBUSD, BTCUSD, ETHUSD). All these markets accepts BNB as the betting asset.
+PancakeSwap은 모든 플레이어가 선택할 수 있는 세 개의 별도 예측 마켓(BNBUSD, BTCUSD, ETHUSD)을 제공합니다. 모든 마켓에서 BNB를 베팅 자산으로 사용합니다.
 
-To switch between two prediction markets, simply click or tap the currency switcher on the top left corner.
+예측 마켓을 전환하려면 왼쪽 상단의 통화 전환기를 클릭하거나 탭하세요.
 
-## Making a prediction for the next round
+## 다음 라운드 예측하기
 
-The Prediction page shows quite a bit of information. Predictions operate in 5 minute rounds. Make your prediction before a round goes live to join in.
+예측 페이지에는 꽤 많은 정보가 표시됩니다. 예측은 5분 단위의 라운드로 진행됩니다. 라운드가 시작되기 전에 예측을 해야 참여할 수 있습니다.
 
-### Checking the timer
+### 타이머 확인하기
 
-To enter a round of Prediction, you'll want to check how long is left in the current round. You'll find the timer in the top-right area.
+예측 라운드에 참여하려면 현재 라운드가 얼마나 남았는지 확인해야 합니다. 타이머는 오른쪽 상단 영역에 있습니다.
 
-![](<../../.gitbook/assets/image (159).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28147%29.png)
 
-If the timer is too low your prediction may not confirm in time, so check there's still plenty of time left before you make a prediction (30 seconds should be plenty, but give yourself more time if you're following along with this guide).
+타이머가 너무 적게 남았다면 예측이 제때 확정되지 않을 수 있으므로, 예측하기 전에 충분한 시간이 남아 있는지 확인하세요(30초면 충분하지만 이 가이드를 따라 하는 경우에는 더 여유를 두세요).
 
-### Predicting the next round
+### 다음 라운드 예측하기
 
-When you're sure you have enough time, you can place your prediction for the next round.
+시간이 충분하다고 확신하면 다음 라운드에 대한 예측을 할 수 있습니다.
 
-1\. In the "Next" section you'll see a green **Enter UP** button and a red **Enter DOWN** button. Click **Enter UP** if you want to predict a rise in price, and click **Enter DOWN** if you want to predict a drop in price.
+1\. "다음" 섹션에 녹색 **UP 참여** 버튼과 빨간색 **DOWN 참여** 버튼이 있습니다. 가격 상승을 예측하려면 **UP 참여**를, 가격 하락을 예측하려면 **DOWN 참여**를 클릭하세요.
 
-![](<../../.gitbook/assets/image (41).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2830%29.png)
 
-Each will have a different reward multiplier. The multiplier will change over time as the "Prize Pool" increases depending on people's predictions. The Prize Pool is shown just above the buttons.
+각각 보상 배수가 다릅니다. 배수는 사람들의 예측에 따라 "상금 풀"이 늘어나면서 시간이 지남에 따라 변합니다. 상금 풀은 버튼 바로 위에 표시됩니다.
 
-![](<../../.gitbook/assets/image (69).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2858%29.png)
 
-We'll choose **Enter UP** for this example.
+이 예시에서는 **UP 참여**를 선택하겠습니다.
 
-2\. A new window will open. In the window, you'll see "Commit" to commit BNB for your prediction. Type the number of tokens you would like to commit to your prediction for this round in the field. You can also use the bunny slider or click the percent buttons if you prefer.
+2\. 새 창이 열립니다. 창에서 예측에 BNB를 사용하는 "커밋" 항목을 볼 수 있습니다. 이번 라운드 예측에 사용할 토큰 수를 입력란에 입력하세요. 원하는 경우 버니 슬라이더를 사용하거나 퍼센트 버튼을 클릭할 수도 있습니다.
 
-Before placing your first bet, you may need to click "Enable" to approve BNB.
+첫 베팅 전에 "활성화"를 클릭하여 BNB를 승인해야 할 수 있습니다.
 
-![](<../../.gitbook/assets/image (182).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28172%29.png)
 
-3\. Once you've decided the amount to commit, click **Confirm** and confirm your action in your wallet.
+3\. 사용할 금액을 정했다면 **확인**을 클릭하고 지갑에서 작업을 확인하세요.
 
-![](<../../.gitbook/assets/image (122).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28111%29.png)
 
-The confirm button will fade out as your transaction confirms. This short wait is why we checked the round timer earlier to make sure we would have time to make our prediction.
+거래가 확인되는 동안 확인 버튼이 흐려집니다. 앞서 라운드 타이머를 확인한 이유가 바로 이 짧은 대기 시간 동안에도 예측을 완료할 시간이 있는지 확인하기 위해서입니다.
 
-4\. After your transaction confirms, an "ENTERED" message will appear.
+4\. 거래가 확인되면 "ENTERED" 메시지가 나타납니다.
 
-![](<../../.gitbook/assets/image (86).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2875%29.png)
 
-There's nothing left to do now but wait for your Prediction round to go live.
+이제 예측 라운드가 시작되기를 기다리는 일만 남았습니다.
 
-## While your entered round is live
+## 참여한 라운드가 진행 중일 때
 
-A live round will last for 5 minutes. You can watch the price update during the 5 minutes if you'd like.
+라이브 라운드는 5분간 지속됩니다. 원한다면 5분 동안 가격이 업데이트되는 것을 지켜볼 수 있습니다.&#x20;
 
-![](<../../.gitbook/assets/image (167).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28155%29.png)
 
-You cannot change your prediction during a live round, however. You are locked into your prediction from earlier.
+하지만 라이브 라운드 중에는 예측을 변경할 수 없습니다. 앞서 한 예측에 고정됩니다.
 
-## Once your entered round finishes
+## 참여한 라운드가 종료되면
 
-After 5/10 minutes as the live round, your entered round will finish. Everything is automatic, so there's nothing you need to do to end the round.
+라이브 라운드로 5/10분이 지나면 참여한 라운드가 종료됩니다. 모든 과정이 자동으로 이루어지므로 라운드를 종료하기 위해 해야 할 일은 없습니다.
 
-### Seeing the results
+### 결과 확인하기
 
-1\. As the 5 minutes finish, the "LIVE" section will change to "Calculating". Calculating the results only takes a moment.
+1\. 5분이 끝나면 "LIVE" 섹션이 "계산 중"으로 바뀝니다. 결과 계산은 잠깐이면 끝납니다.
 
-![](<../../.gitbook/assets/image (136).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28125%29.png)
 
-2\. After a short wait, the finished round will move left and say "Expired". The result of the round will display with either UP colored in green, or DOWN colored in red.
+2\. 잠시 기다리면 종료된 라운드가 왼쪽으로 이동하고 "만료됨"이라고 표시됩니다. 라운드 결과가 UP은 녹색, DOWN은 빨간색으로 표시됩니다.
 
-![](<../../.gitbook/assets/image (189).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28179%29.png)
 
-3\. If you've been busy and missed the results, you can scroll back a few rounds by clicking the **left arrow** on the purple bunny cards.
+3\. 바빠서 결과를 놓쳤다면 보라색 버니 카드의 **왼쪽 화살표**를 클릭하여 몇 라운드 이전으로 스크롤할 수 있습니다.
 
-![](<../../.gitbook/assets/image (111).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2899%29.png)
 
-### Seeing results for older rounds
+### 이전 라운드 결과 확인하기
 
-If you want to see the results for rounds you've entered that are older than a few rounds, you'll need to follow the steps below to find the results.
+몇 라운드보다 오래된 참여 라운드의 결과를 보려면 아래 단계에 따라 결과를 찾아야 합니다.
 
-1\. Click on the **reversing clock icon** next to the round timer.
+1\. 라운드 타이머 옆의 **되감기 시계 아이콘**을 클릭하세요.
 
-![](<../../.gitbook/assets/image (146).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28135%29.png)
 
-2\. A "History" panel will open. By default, you should see your most recent round at the top of the list. Click anywhere on the round to see more information.
+2\. "기록" 패널이 열립니다. 기본적으로 목록 맨 위에 가장 최근 라운드가 표시됩니다. 라운드의 아무 곳이나 클릭하면 더 많은 정보를 볼 수 있습니다.
 
-![](<../../.gitbook/assets/image (116).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28105%29.png)
 
-![](<../../.gitbook/assets/image (218).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28208%29.png)
 
-### Collecting any winnings
+### 상금 수령하기
 
-1\. If you won your entered round, a **Collect Winnings** button will appear next to a gold trophy. Click the button.
+1\. 참여한 라운드에서 승리했다면 금색 트로피 옆에 **상금 수령** 버튼이 나타납니다. 버튼을 클릭하세요.
 
-![](<../../.gitbook/assets/image (62).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2851%29.png)
 
-2\. A new window will appear showing the amount of winnings you can collect with a **Confirm** button. Click the button and confirm the action in your wallet.
+2\. 수령할 수 있는 상금 금액과 **확인** 버튼이 표시된 새 창이 나타납니다. 버튼을 클릭하고 지갑에서 작업을 확인하세요.
 
-![](<../../.gitbook/assets/image (224).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28214%29.png)
 
-Your token winnings will now be in your wallet.
+이제 토큰 상금이 지갑에 들어옵니다.
 
-### Collecting winnings from older rounds
+### 이전 라운드 상금 수령하기
 
-Sometimes you may be away from PancakeSwap's Prediction page for a while or may have forgotten to collect winnings from older rounds. You can still collect winnings owed to you from older rounds at any time.
+PancakeSwap 예측 페이지를 한동안 떠나 있었거나 이전 라운드의 상금 수령을 잊었을 수도 있습니다. 이전 라운드에서 받을 상금은 언제든지 수령할 수 있습니다.
 
-1\. Find more information on past rounds you've entered by clicking on the **reversing clock icon** next to the round timer.
+1\. 라운드 타이머 옆의 **되감기 시계 아이콘**을 클릭하여 참여했던 지난 라운드에 대한 자세한 정보를 확인하세요.
 
-![](<../../.gitbook/assets/image (146).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28135%29.png)
 
-2\. A "History" panel will open. You can click "Uncollected" to view all rounds you've not collected the winnings for yet (click a the transaction if you want to see more details). Click the **Collect** button.
+2\. "기록" 패널이 열립니다. "미수령"을 클릭하면 아직 상금을 수령하지 않은 모든 라운드를 볼 수 있습니다(자세한 내용을 보려면 거래를 클릭하세요). **수령** 버튼을 클릭하세요.
 
-![](<../../.gitbook/assets/image (143).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28132%29.png)
 
-3\. A new window will appear showing the amount of winnings you can collect with a **Confirm** button. Click the button and confirm the action in your wallet.
+3\. 수령할 수 있는 상금 금액과 **확인** 버튼이 표시된 새 창이 나타납니다. 버튼을 클릭하고 지갑에서 작업을 확인하세요.
 
-![](<../../.gitbook/assets/image (224).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28214%29.png)
 
-Your winnings will now be in your wallet.
+이제 상금이 지갑에 들어옵니다.
 
-## Viewing historic profit and loss data
+## 과거 손익 데이터 확인하기
 
-If you'd like to see how you've done overall in Prediction, you can view PNL (Profit and Loss) data whenever you'd like.
+예측에서 전반적으로 어떤 성과를 냈는지 궁금하다면 언제든지 PNL(손익) 데이터를 확인할 수 있습니다.
 
-1\. On the Prediction page, click the **reversing clock icon** next to the round timer. A "History" panel will open.
+1\. 예측 페이지에서 라운드 타이머 옆의 **되감기 시계 아이콘**을 클릭하세요. "기록" 패널이 열립니다.
 
-![](<../../.gitbook/assets/image (146).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28135%29.png)
 
-2\. On the history panel, click the **PNL** tab.
+2\. 기록 패널에서 **PNL** 탭을 클릭하세요.
 
-![](<../../.gitbook/assets/image (322).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28323%29.png)
 
-The tab will open with stats for your historic performance in Prediction, including your net results, average return, best round, and other information.
+탭이 열리면 순 결과, 평균 수익, 최고의 라운드 등 예측에서의 과거 성과 통계가 표시됩니다.
 
-![](<../../.gitbook/assets/image (204).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28194%29.png)
 
-3\. You can click the **View Reclaimed & Won** button at the bottom of the PNL tab to view those transactions on the BscScan explorer.
+3\. PNL 탭 하단의 **환급 및 당첨 내역 보기** 버튼을 클릭하면 BscScan 탐색기에서 해당 거래를 확인할 수 있습니다.
 
-![](<../../.gitbook/assets/image (202).png>)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28192%29.png)
 
-That's all there is to using Prediction. Good luck making the right calls!
+예측 사용 방법은 이것으로 끝입니다. 올바른 판단을 하시길 바랍니다!
+
+
+
+&#x20;

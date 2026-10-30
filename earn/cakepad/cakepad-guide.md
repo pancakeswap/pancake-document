@@ -1,114 +1,114 @@
-# How to Participate - CAKE.PAD
+# 참여 방법 - CAKE.PAD
 
-### Summary
+### 요약
 
-**Before the CAKE.PAD event**
+**CAKE.PAD 이벤트 전**
 
-* [Buy / Prepare CAKE](https://pancakeswap.finance/swap) tokens
+* [CAKE 토큰 구매/준비](https://pancakeswap.finance/swap)
 
-**During the CAKE.PAD event**
+**CAKE.PAD 이벤트 중**
 
-* While the event is live, deposit your CAKE to receive CAKE.PAD partner tokens at [https://pancakeswap.finance/cakepad](https://pancakeswap.finance/cakepad)
+* 이벤트가 진행되는 동안 [https://pancakeswap.finance/cakepad](https://pancakeswap.finance/cakepad)에서 CAKE를 예치하고 CAKE.PAD 파트너 토큰을 받으세요
 
-**After the CAKE.PAD event**
+**CAKE.PAD 이벤트 후**
 
-1. When the event is complete, claim your CAKE.PAD partner tokens.
-2. In the case of an [overflow](cakepad-guide.md#overflow-sale-method), claim your unused CAKE tokens (minus [tiered tax](how-cake.pad-taxes-work-in-overflow-sales-with-example.md)).
-3. If the CAKE.PAD event has token vesting, return throughout the vesting period to claim released tokens until the end of the vesting schedule.
+1. 이벤트가 끝나면 CAKE.PAD 파트너 토큰을 수령합니다.
+2. [초과 청약](cakepad-guide.md#overflow-sale-method)이 발생한 경우, 사용되지 않은 CAKE 토큰을 수령합니다([단계별 세금](how-cake.pad-taxes-work-in-overflow-sales-with-example.md) 차감 후).
+3. CAKE.PAD 이벤트에 토큰 베스팅이 있는 경우, 베스팅 기간 동안 다시 방문하여 베스팅 일정이 끝날 때까지 해제된 토큰을 수령합니다.
 
 ***
 
-## A) Before the CAKE.PAD event
+## A) CAKE.PAD 이벤트 전
 
-Before you can join a CAKE.PAD event, the only thing you need to prepare is your CAKE tokens.
+CAKE.PAD 이벤트에 참여하기 전에 준비해야 할 것은 CAKE 토큰뿐입니다.
 
-### Get CAKE Tokens
+### CAKE 토큰 준비하기
 
-CAKE tokens are used to buy the tokens being offered in the CAKE.PAD event
+CAKE 토큰은 CAKE.PAD 이벤트에서 제공되는 토큰을 구매하는 데 사용됩니다
 
-* If your CAKE is staked in a Syrup Pool, unstake it before the CAKE.PAD event
-* Else, make sure to buy some CAKE tokens in advance and hold them in your wallet
+* CAKE가 시럽 풀에 스테이킹되어 있다면 CAKE.PAD 이벤트 전에 언스테이킹하세요
+* 그렇지 않다면, 미리 CAKE 토큰을 구매하여 지갑에 보유해 두세요
 
-### Knowing when a CAKE.PAD Event will Start
+### CAKE.PAD 이벤트 시작 시점 확인하기
 
-CAKE.PAD events are **time-limited**. Use the following methods to ensure you don’t miss out:
+CAKE.PAD 이벤트는 **기간이 한정**되어 있습니다. 놓치지 않도록 다음 방법을 활용하세요.
 
-1. Visit the CAKE.PAD event page: a **countdown timer** will be displayed with the exact timing of the upcoming CAKE.PAD event.
-2. Keep a close watch on PancakeSwap’s social media: There isn’t a set time before a CAKE.PAD event goes live for the countdown to start, so check PancakeSwap’s official accounts for announcements. The countdown and updates will give you plenty of time to prepare.
-3. Check the CAKE.PAD event forum post for the exact timing.
+1. CAKE.PAD 이벤트 페이지를 방문하세요. 예정된 CAKE.PAD 이벤트의 정확한 시간이 **카운트다운 타이머**로 표시됩니다.
+2. PancakeSwap의 소셜 미디어를 주의 깊게 확인하세요. CAKE.PAD 이벤트가 시작되기 전에 카운트다운이 시작되는 정해진 시점이 없으므로, PancakeSwap 공식 계정의 공지를 확인하세요. 카운트다운과 업데이트를 통해 충분히 준비할 시간이 주어집니다.
+3. CAKE.PAD 이벤트 포럼 게시글에서 정확한 시간을 확인하세요.
 
-## B) During the CAKE.PAD Event
+## B) CAKE.PAD 이벤트 중
 
-While the CAKE.PAD event is live, you will have limited time to participate. If you have prepared CAKE in your wallet, you can readily participate in the CAKE.PAD event!
+CAKE.PAD 이벤트가 진행되는 동안 참여할 수 있는 시간은 제한되어 있습니다. 지갑에 CAKE를 준비해 두었다면 바로 CAKE.PAD 이벤트에 참여할 수 있습니다!
 
-### Checking if the CAKE.PAD Event is Live
+### CAKE.PAD 이벤트 진행 여부 확인하기
 
-On the CAKE.PAD event page, the event start countdown will switch to a countdown until the CAKE.PAD event sale ends. This shows you how much time remains to obtain the offered tokens.
+CAKE.PAD 이벤트 페이지에서 이벤트 시작 카운트다운은 CAKE.PAD 이벤트 세일이 종료될 때까지의 카운트다운으로 전환됩니다. 이를 통해 제공되는 토큰을 얻을 수 있는 남은 시간을 확인할 수 있습니다.
 
-In each CAKE.PAD event, participants can commit any amount of CAKE. To enhance CAKE utility, a tiered participation fee applies. For details, check the CAKE.PAD event page or proposal for the specific event you want to join.
+각 CAKE.PAD 이벤트에서 참가자는 원하는 만큼의 CAKE를 커밋할 수 있습니다. CAKE 활용성을 높이기 위해 단계별 참여 수수료가 적용됩니다. 자세한 내용은 참여하려는 이벤트의 CAKE.PAD 이벤트 페이지 또는 제안서를 확인하세요.
 
-The final amount of CAKE.PAD partner tokens you receive is determined using the **Overflow Sale Method**.
+최종적으로 받게 되는 CAKE.PAD 파트너 토큰의 수량은 **오버플로 세일 방식(Overflow Sale Method)**으로 결정됩니다.
 
-### Overflow Sale Method
+### 오버플로 세일 방식
 
-1. Users can commit any amount of $CAKE to participate, no locking or staking needed
-2. Allocation each user gets is proportional to their committed CAKE
-3. If oversubscribed, only a portion of user’s committed CAKE is exchanged for project tokens
-4. The more you commit → the more allocation you get
-5. Heavily oversubscribed? Small commits may get 0
-6. All unused $CAKE will be refunded to participants (subject to tax, if applicable)
+1. 사용자는 락업이나 스테이킹 없이 원하는 만큼의 $CAKE를 커밋하여 참여할 수 있습니다
+2. 각 사용자가 받는 할당량은 커밋한 CAKE에 비례합니다
+3. 초과 청약된 경우, 사용자가 커밋한 CAKE의 일부만 프로젝트 토큰으로 교환됩니다
+4. 더 많이 커밋할수록 → 더 많은 할당량을 받습니다
+5. 초과 청약이 매우 큰 경우, 소액 커밋은 할당량이 0일 수 있습니다
+6. 사용되지 않은 모든 $CAKE는 참가자에게 환불됩니다(해당하는 경우 세금 적용)
 
-### Committing CAKE to the CAKE.PAD event
+### CAKE.PAD 이벤트에 CAKE 커밋하기
 
-1. Click the Deposit button on the CAKE.PAD event sale card
+1. CAKE.PAD 이벤트 세일 카드에서 Deposit 버튼을 클릭합니다
 
-<figure><img src="../../.gitbook/assets/image (463).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28466%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-2. Enter the amount of CAKE you want to commit. Any CAKE not used to buy tokens will be returned to you
-3.  Click **Confirm** and approve the transaction in your wallet<br>
+2. 커밋하려는 CAKE 수량을 입력합니다. 토큰 구매에 사용되지 않은 CAKE는 반환됩니다
+3.  **Confirm**을 클릭하고 지갑에서 트랜잭션을 승인합니다<br>
 
-    <figure><img src="../../.gitbook/assets/image (464).png" alt="" width="239"><figcaption></figcaption></figure>
-4. Your committed amount will be displayed in the sale section
-5. You can add more $CAKE any time during the CAKE.PAD event
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28467%29.png" alt="" width="239"><figcaption></figcaption></figure>
+4. 커밋한 수량이 세일 섹션에 표시됩니다
+5. CAKE.PAD 이벤트 중에는 언제든지 $CAKE를 추가할 수 있습니다
 
-<figure><img src="../../.gitbook/assets/image (465).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28468%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-**Note:** If the CAKE.PAD event is oversubscribed, a **tiered participation fee** will apply. This fee is only taken from excess funds, not from the CAKE used to buy tokens.
+**참고:** CAKE.PAD 이벤트가 초과 청약된 경우 **단계별 참여 수수료**가 적용됩니다. 이 수수료는 초과 자금에서만 차감되며, 토큰 구매에 사용된 CAKE에서는 차감되지 않습니다.
 
-See: [how-cake.pad-taxes-work-in-overflow-sales-with-example.md](how-cake.pad-taxes-work-in-overflow-sales-with-example.md "mention")
+참조: [how-cake.pad-taxes-work-in-overflow-sales-with-example.md](how-cake.pad-taxes-work-in-overflow-sales-with-example.md "mention")
 
-## C) After the CAKE.PAD event
+## C) CAKE.PAD 이벤트 후
 
-### Collecting Tokens
+### 토큰 수령하기
 
-* When the CAKE.PAD event ends, you can collect your new tokens. Some CAKE.PAD events may have token vesting periods.
-* The number of tokens you receive depends on your CAKE deposit amount relative to the total amount committed.
-* Any extra CAKE not used for obtaining CAKE.PAD partner tokens will be returned (minus any applicable participation fee).
+* CAKE.PAD 이벤트가 종료되면 새로운 토큰을 수령할 수 있습니다. 일부 CAKE.PAD 이벤트에는 토큰 베스팅 기간이 있을 수 있습니다.
+* 받게 되는 토큰 수량은 전체 커밋 총량 대비 내가 예치한 CAKE 수량에 따라 달라집니다.
+* CAKE.PAD 파트너 토큰을 얻는 데 사용되지 않은 추가 CAKE는 반환됩니다(해당하는 참여 수수료 차감 후).
 
-#### CAKE.PAD event **without token vesting**
+#### **토큰 베스팅이 없는** CAKE.PAD 이벤트
 
-Collecting your new tokens is incredibly easy. Just go back to the CAKE.PAD event page once the CAKE.PAD event is finished and click the **Claim** button under the sale window. Confirm the action with your wallet. You'll now have your new tokens. Congratulations!
+새로운 토큰을 수령하는 것은 매우 쉽습니다. CAKE.PAD 이벤트가 끝난 후 CAKE.PAD 이벤트 페이지로 돌아가 세일 창 아래의 **Claim** 버튼을 클릭하세요. 지갑에서 작업을 확인하세요. 이제 새로운 토큰을 받게 됩니다. 축하합니다!
 
-#### CAKE.PAD event **with token vesting**
+#### **토큰 베스팅이 있는** CAKE.PAD 이벤트
 
-Some CAKE.PAD events may include vesting. Details are always shared in the proposal, and the vesting schedule is displayed on the CAKE.PAD event page.
+일부 CAKE.PAD 이벤트에는 베스팅이 포함될 수 있습니다. 세부 사항은 항상 제안서에 공유되며, 베스팅 일정은 CAKE.PAD 이벤트 페이지에 표시됩니다.
 
-The page will show:
+페이지에는 다음 내용이 표시됩니다.
 
-* Total purchased tokens
-* Tokens already released
-* Tokens available to claim
-* When vesting will be complete
+* 총 구매 토큰
+* 이미 해제된 토큰
+* 수령 가능한 토큰
+* 베스팅 완료 시점
 
-Click the **Claim** button to collect any tokens currently available.
+**Claim** 버튼을 클릭하여 현재 수령 가능한 토큰을 수령하세요.
 
-Throughout the vesting period, you can return to the CAKE.PAD event page at any time to claim tokens as they are released.
+베스팅 기간 동안 언제든지 CAKE.PAD 이벤트 페이지로 돌아와 해제된 토큰을 수령할 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (466).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28469%29.png" alt="" width="375"><figcaption></figcaption></figure>
 
-#### Using Your New Tokens in Farms
+#### 파밍에서 새로운 토큰 활용하기
 
-Now that you've got your shiny new tokens, you can put them to work for you! You can add liquidity for your token to receive trading fees and farming.
+이제 반짝이는 새 토큰을 얻었으니, 이를 활용해 보세요! 토큰의 유동성을 추가하여 거래 수수료와 파밍 보상을 받을 수 있습니다.
 
-* Read about adding liquidity [here](https://docs.pancakeswap.finance/earn/pancakeswap-pools/liquidity-guide).
-* Read about farming [here](../yield-farming/).
+* 유동성 추가에 대해서는 [여기](https://docs.pancakeswap.finance/earn/pancakeswap-pools/liquidity-guide)를 읽어보세요.
+* 파밍에 대해서는 [여기](../yield-farming/)를 읽어보세요.
