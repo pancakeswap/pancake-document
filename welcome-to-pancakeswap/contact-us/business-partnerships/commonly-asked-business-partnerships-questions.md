@@ -12,7 +12,7 @@ Se hai già un Syrup Pool attivo, puoi estendere la durata con un rilascio aggiu
 
 #### Come posso quotare il mio token sull'exchange?
 
-Chiunque può "quotare" qualsiasi token della rete ERC-20 / BEP-20 su PancakeSwap. Non devi contattarci o chiedere il permesso. Devi solo [aggiungere Liquidità a un Pool di Liquidità](https://docs.pancakeswap.finance/products/pancakeswap-exchange/pancakeswap-pools) - è tutto. I trader potranno poi scambiare il tuo token inserendo l'indirizzo del contratto del tuo token.
+Chiunque può "quotare" qualsiasi token della rete ERC-20 / BEP-20 su PancakeSwap. Non devi contattarci o chiedere il permesso. Devi solo [aggiungere Liquidità a un Pool di Liquidità](https://docs.pancakeswap.finance/earn/pancakeswap-pools) - è tutto. I trader potranno poi scambiare il tuo token inserendo l'indirizzo del contratto del tuo token.
 
 #### Come posso aggiungere il mio token alla lista predefinita?
 
@@ -30,7 +30,7 @@ A causa della natura di PancakeSwap come DEX basato su AMM, non siamo in grado d
 
 #### Gli utenti ricevono un errore quando scambiano il mio token. Cosa posso fare?
 
-Consulta la nostra [pagina di Risoluzione degli Errori](https://docs.pancakeswap.finance/readme/help/troubleshooting) per un elenco degli errori comuni sull'exchange e come risolverli.
+Consulta la nostra [pagina di Risoluzione degli Errori](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/faq/troubleshooting) per un elenco degli errori comuni sull'exchange e come risolverli.
 
 #### Perché alcune statistiche del mio token non vengono mostrate nella pagina Info?
 

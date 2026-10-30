@@ -1,7 +1,5 @@
 # Connetti il tuo Portafoglio a PancakeSwap
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-connect-wallet-header.png)
-
 ## Connetti il tuo Portafoglio
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/wallet-connection-aptos.png" alt=""><figcaption></figcaption></figure>
@@ -16,7 +14,7 @@
 
 ## **Connettiti alla Mainnet di Aptos**
 
-Aptos ha più reti, incluse più devnet e testnet. Ma per usare PancakeSwap su Aptos Chain, assicurati che il tuo Portafoglio sia connesso alla **Mainnet di Aptos**.&#x20;
+Aptos ha più reti, incluse più devnet e testnet. Ma per usare PancakeSwap su Aptos Chain, assicurati che il tuo Portafoglio sia connesso alla **Mainnet di Aptos**.
 
 Ecco come:
 

@@ -79,7 +79,9 @@
     * [Il Team della Cucina](welcome-to-pancakeswap/about-us/team/the-kitchen-team.md)
     * [Diventa uno Chef](welcome-to-pancakeswap/about-us/team/become-a-chef/README.md)
       * [Business Development Lead](welcome-to-pancakeswap/about-us/team/become-a-chef/business-development-lead.md)
+      * [Senior Designer](welcome-to-pancakeswap/about-us/team/become-a-chef/senior_designer.md)
       * [Business Development Manager (AMM)](welcome-to-pancakeswap/about-us/team/become-a-chef/business-development-lead-1.md)
+      * [Business Development Manager (Liquidity Hub)](welcome-to-pancakeswap/about-us/team/become-a-chef/business-development-lead-1-1.md)
       * [Community Manager (CN)](welcome-to-pancakeswap/about-us/team/become-a-chef/community-manager-cn.md)
       * [Community Manager](welcome-to-pancakeswap/about-us/team/become-a-chef/community-manager.md)
       * [Senior Frontend Engineer](welcome-to-pancakeswap/about-us/team/become-a-chef/frontend-engineer.md)
@@ -91,6 +93,8 @@
       * [Marketing Manager (PR & Events)](welcome-to-pancakeswap/about-us/team/become-a-chef/marketing-manager-pr-and-events.md)
       * [Quant Developer](welcome-to-pancakeswap/about-us/team/become-a-chef/quant-developer.md)
       * [Product Manager](welcome-to-pancakeswap/about-us/team/become-a-chef/product-manager.md)
+      * [Senior Back End Developer (DeFi)](<welcome-to-pancakeswap/about-us/team/become-a-chef/product-manager-1 (1).md>)
+      * [Product Marketing Manager](welcome-to-pancakeswap/about-us/team/become-a-chef/product-manager-2.md)
       * [Community Lead](welcome-to-pancakeswap/about-us/team/become-a-chef/community-lead.md)
       * [Solidity Engineer (Contract)](welcome-to-pancakeswap/about-us/team/become-a-chef/solidity-engineer-contract.md)
       * [Frontend Engineer (Contract)](welcome-to-pancakeswap/about-us/team/become-a-chef/frontend-engineer-contract.md)
@@ -102,6 +106,7 @@
       * [Business Development Manager](welcome-to-pancakeswap/about-us/team/become-a-chef/business-development-manager-1.md)
       * [Data Analyst](welcome-to-pancakeswap/about-us/team/become-a-chef/data-analyst.md)
       * [Product Manager \[Mercati di Previsione\]](welcome-to-pancakeswap/about-us/team/become-a-chef/product-manager-prediction-markets.md)
+      * [Head of Marketing](welcome-to-pancakeswap/about-us/team/become-a-chef/head-of-marketing.md)
   * [Brand e Logo](welcome-to-pancakeswap/about-us/brand.md)
 
 ***
@@ -159,15 +164,18 @@
   * [Integrazione Market Maker](trade/pancakeswap-exchange/market-maker-integration.md)
   * [Smart Router (V2)](trade/pancakeswap-exchange/smart-router-v2/README.md)
     * [Come fare trading usando lo Smart Router](trade/pancakeswap-exchange/smart-router-v2/how-to-trade-using-smart-router.md)
+  * [Tokenized Stocks - Geo-block](trade/pancakeswap-exchange/tokenized-stocks-geo-block.md)
 * [🔀 Swap Cross-chain](trade/crosschain-swaps/README.md)
   * [👉 Come fare uno Swap Cross-chain?](trade/crosschain-swaps/how-to-do-a-crosschain-swap.md)
   * [🔁 Scenari di Swap](trade/crosschain-swaps/swap-scenarios.md)
-  * [🔁 Copia degli Scenari di Swap](trade/crosschain-swaps/copy-of-swap-scenarios.md)
   * [❓ FAQ](trade/crosschain-swaps/faq.md)
 * [♾️ PancakeSwap Infinity](trade/pancakeswap-infinity/README.md)
   * [Caratteristiche Principali](trade/pancakeswap-infinity/key-features.md)
   * [Hooks](trade/pancakeswap-infinity/hooks/README.md)
     * [Hook a Fee Dinamica](trade/pancakeswap-infinity/hooks/dynamic-fee-hook.md)
+    * [Shared Inventory Hook](trade/pancakeswap-infinity/hooks/shared-inventory-hook/README.md)
+      * [Presentazione di Shared Inventory Hook](trade/pancakeswap-infinity/hooks/shared-inventory-hook/introducing-shared-inventory-hook.md)
+      * [Inefficienza del Capitale RWA e Come la Shared Inventory la Risolve](trade/pancakeswap-infinity/hooks/shared-inventory-hook/rwa-capital-inefficiency-and-how-shared-inventory-solves-for-it.md)
   * [Tipi di Pool](trade/pancakeswap-infinity/pool-types/README.md)
     * [Infinity CLAMM & LBAMM](trade/pancakeswap-infinity/pool-types/infinity-clamm-and-lbamm.md)
     * [Infinity StableSwap](trade/pancakeswap-infinity/pool-types/infinity-stableswap.md)
@@ -263,6 +271,7 @@
     * [FAQ Votazione Gauges](earn/earn-faq/cake-staking-faq/gauges-voting-faq.md)
     * [FAQ e Risoluzione Problemi Syrup Pool](earn/earn-faq/cake-staking-faq/syrup-pool-faq.md)
     * [FAQ CAKE Syrup Pool](earn/earn-faq/cake-staking-faq/cake-syrup-pool-faq.md)
+* [🍩 Dual Investment](earn/dual-investment.md)
 
 ## Gioca
 
@@ -295,6 +304,7 @@
   * [FAQ MEV Guard](trading-tools/trading-tools-faq/mev-guard-faq.md)
 * [🤖 Costruire Agenti di Trading su PancakeSwap V3](trading-tools/building-trading-agents-on-pancakeswap-v3/README.md)
   * [Agente di Riferimento — Agente di Liquidazione Ordini/Intenti](trading-tools/building-trading-agents-on-pancakeswap-v3/reference-agent-order-intents-settlement-agent.md)
+* [🧙 Prelevare NFT](trading-tools/withdrawing-nft.md)
 
 ## Protocollo
 

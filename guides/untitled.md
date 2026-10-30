@@ -1,4 +1,3 @@
-# How to use MetaMask on PancakeSwap
+# Come usare MetaMask su PancakeSwap
 
-[Full BNB Smart Chain wallet guides here](https://docs.binance.org/smart-chain/wallet/metamask.html)
-
+[Guide complete sui portafogli BNB Smart Chain qui](https://docs.bnbchain.org/)

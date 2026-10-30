@@ -4,7 +4,7 @@
 
 PancakeSwap (PCS) è il principale exchange decentralizzato (DEX) multi-chain, attualmente attivo su:
 
-> BNB Chain, Solana, Base, Arbitrum One, Ethereum, ZKsync Era, Linea, opBNB e Aptos
+> BNB Chain, Ethereum, Solana, Base, Arbitrum, Aptos, ZKsync, Linea, Monad, Robinhood e opBNB
 
 Ci piacerebbe parlare con i team dei progetti, presentandoti potenzialmente a una delle DApp più grandi, coinvolte e attive del mondo crypto (con oltre 400k Utenti Attivi Giornalieri)!
 
@@ -12,7 +12,7 @@ Fin dall'inizio, PancakeSwap ha prosperato nel panorama del DeFi al dettaglio, a
 
 Mentre questa pagina funge da FAQ rapida per i Team di Progetto per saperne di più su di noi – non esitare a contattarci se hai altre domande:
 
-* Team BD su Telegram (https://t.me/PancakeSwapBD)
+* **Team BD su Telegram: https://t.me/PancakeSwapBD (@PancakeSwapBD)**
 
 ### Interessato a una partnership? Costruiamo insieme
 
@@ -44,9 +44,8 @@ Per le domande più frequenti sulle partnership commerciali
 
 ### La scelta del popolo per tutto ciò che riguarda DeFi
 
-Semplicità è bellezza, e lo è anche la sicurezza!&#x20;
 
-Con più di 1,5 miliardi di dollari in TVL, ci piace muoverci velocemente e farlo in modo responsabile. Con oltre quattro anni di esperienza nei mercati crypto, dal bull al bear, abbiamo consegnato efficacemente DeFi alla nostra community. Non fidarti di noi sulla parola, [verificalo](https://docs.pancakeswap.finance/audits).&#x20;
+Con più di 1,5 miliardi di dollari in TVL, ci piace muoverci velocemente e farlo in modo responsabile. Con oltre quattro anni di esperienza nei mercati crypto, dal bull al bear, abbiamo consegnato efficacemente DeFi alla nostra community. Non fidarti di noi sulla parola, [verificalo](https://docs.pancakeswap.finance/welcome-to-pancakeswap/audits).
 
 Le nostre partnership con i progetti vanno oltre i semplici programmi di distribuzione token ("Syrup Pool") e le opportunità di lancio token ("Initial Farm Offerings"). Riconosciamo genuinamente l'impatto della community nel crypto – il nostro team dedicato di Ambasciatori ci aiuta a mantenere il polso sulle diverse community che serviamo, e organizziamo regolarmente eventi con alto coinvolgimento con i partner: podcast, AMA, contest di meme e molto altro!
 

@@ -83,8 +83,6 @@ Questa commissione viene addebitata una sola volta alla prima transazione di "st
 
 ### Da dove provengono le emissioni?&#x20;
 
-_aggiornato il 10 ottobre 2022_
-
 Per ora, i Chefs hanno dirottato 0,0189 CAKE per blocco dal pool CAKE a tutti i farm crosschain.&#x20;
 
 Ecco il dettaglio delle emissioni:

@@ -38,7 +38,7 @@ Per attivare bCAKE, la tua posizione deve essere in Staking nella Farm.
 * Per V2 e StableSwap: metti in Staking il tuo token LP cliccando su "Add LP".
 * Per i Position Manager: aggiungi Liquidità cliccando su "Add Liquidity".
 
-Per saperne di più sul Yield Farming, consulta [questo](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) tutorial.
+Per saperne di più sul Yield Farming, consulta [questo](https://docs.pancakeswap.finance/earn/yield-farming/how-to-use-farms/how-to-use-farms) tutorial.
 
 #### Attiva bCAKE <a href="#b3a80f22-5043-4e4b-afae-93b4abec504e" id="b3a80f22-5043-4e4b-afae-93b4abec504e"></a>
 

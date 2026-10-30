@@ -70,7 +70,7 @@ Le commissioni dinamiche offrono la massima flessibilità e ottimizzano le strut
 | ------------------ | -------------------------- |
 | 1%                 | 0,33%                      |
 | 2%                 | 0,4% (limite massimo)      |
-| Pool a Commissione Dinamica | 0%              |
+| Pool a Commissione Dinamica | 0.03% (attuale predefinita) |
 
 #### 🛠️ Note di Configurazione per i Creatori di Pool
 

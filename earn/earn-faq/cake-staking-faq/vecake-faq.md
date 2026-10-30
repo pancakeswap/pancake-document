@@ -114,8 +114,8 @@ La Votazione vCAKE è stata aggiornata per supportare veCAKE. Scopri:
 
 Tutti i detentori di veCAKE (sia nativi che migrati) verranno automaticamente iscritti al nuovo Pool di condivisione dei ricavi. Le quote dei ricavi vengono distribuite secondo il calendario esistente. Il vecchio Pool di condivisione dei ricavi verrà interrotto; gli utenti possono reclamare le ricompense in sospeso andando alla scheda benefici. Scopri:
 
-{% content-ref url="/broken/pages/wQegezs7c6A2HzQjPEjh" %}
-[Broken link](/broken/pages/wQegezs7c6A2HzQjPEjh)
+{% content-ref url="revenue-sharing-faq.md" %}
+[Revenue Sharing FAQ](revenue-sharing-faq.md)
 {% endcontent-ref %}
 
 #### I portafogli multisig possono essere usati per interagire con veCAKE?
@@ -162,4 +162,4 @@ Per aumentare le emissioni verso questo gauge, consulta [Votazione Gauges](../..
 
 Questo è l'incentivo proveniente dalla condivisione dei ricavi del protocollo, derivante dalle commissioni di Swap raccolte nei prodotti DEX.
 
-Consulta [Condivisione dei Ricavi](/broken/pages/wQegezs7c6A2HzQjPEjh) per ulteriori informazioni.
+Consulta [Condivisione dei Ricavi](revenue-sharing-faq.md) per ulteriori informazioni.

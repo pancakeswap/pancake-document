@@ -234,7 +234,7 @@ Non hai abbastanza SYRUP nel tuo Portafoglio per uscire dallo Staking dal pool C
 
 Se fallisce ancora, puoi eseguire un "emergencyWithdraw" direttamente dal contratto per togliere dallo Staking i tuoi token.
 
-1. Vai su: [https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract)
+1. Vai su: [https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract](https://bscscan.com/)
 2. Clicca su **"Connect to Web3"** e connetti il tuo Portafoglio. ![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
 3. Nella sezione **"4. emergencyWithdraw"**, inserisci "0" e clicca su "Write".
 
@@ -305,7 +305,7 @@ Prima di tutto,[ informa il team](../social-accounts.md) di quale pool stai cerc
 Puoi eseguire un "emergencyWithdraw" direttamente dal contratto per togliere dallo Staking i tuoi token.
 
 1. Trova l'indirizzo del contratto del Syrup Pool da cui stai cercando di uscire dallo Staking. Puoi trovarlo nel registro delle transazioni del tuo Portafoglio.
-2. Vai su [https://bscscan.com/](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract) e nella barra di ricerca inserisci l'indirizzo del contratto.
+2. Vai su [https://bscscan.com/](https://bscscan.com/) e nella barra di ricerca inserisci l'indirizzo del contratto.
 3. Seleziona **Write Contract.**
 4. Clicca su **"Connect to Web3"** e connetti il tuo Portafoglio.![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
 5. Nella sezione **"3. emergencyWithdraw",** e clicca su "Write".
@@ -324,7 +324,7 @@ Questo errore tende a comparire quando stai cercando di uscire dallo Staking da 
 
 ## **Problemi con Previsione**
 
-Check [Broken link](/broken/pages/8zN9xzaYD1DvxZvzLzug "mention")
+Check [Broken link](../../../play/prediction/prediction-faq.md "mention")
 
 ## **Altri problemi**
 

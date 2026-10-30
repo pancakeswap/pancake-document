@@ -1,7 +1,3 @@
----
-description: '"Non chiamarla roadmap"'
----
-
 # 🗺️ Roadmap
 
 _Aggiornato il 1° giugno 2026_

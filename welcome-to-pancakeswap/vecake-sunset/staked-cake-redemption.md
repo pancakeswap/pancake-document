@@ -27,7 +27,7 @@ Una volta connesso, vedrai le seguenti informazioni:
 4. **Le mie ricompense totali**: Il totale di CAKE che puoi riscuotere, composto da:
 
 * **Ricompense del Pool CAKE**: Ricompense legacy del Pool CAKE
-* **Ricompense dalla condivisione dei ricavi**: Guadagnate mettendo in Staking CAKE ([Ulteriori informazioni](https://docs.pancakeswap.finance/earn/cake-staking/revenue-sharing/earn-cake-weekly))
+* **Ricompense dalla condivisione dei ricavi**: Guadagnate mettendo in Staking CAKE ([Ulteriori informazioni](https://docs.pancakeswap.finance/welcome-to-pancakeswap/vecake-sunset/archive-vecake/earn-cake-weekly))
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Connected%20view%20balance.png" alt=""><figcaption></figcaption></figure>
 

@@ -61,4 +61,4 @@ Le commissioni per PancakeSwap Perpetuals sono le seguenti:
 
 ### **Quali giurisdizioni sono escluse dall'utilizzo del prodotto?** <a href="#whats-the-difference-between-a-maker-and-taker-order" id="whats-the-difference-between-a-maker-and-taker-order"></a>
 
-Gli utenti situati o che accedono al servizio dagli Stati Uniti d'America, Canada, Regno Unito, Cina, Corea del Nord, Russia, Ucraina, Cuba, Iran, Venezuela o Siria non sono autorizzati a utilizzare il prodotto. L'accesso può essere limitato o bloccato in conformità con i requisiti normativi e di compliance applicabili.
+Gli utenti situati o che accedono al servizio dagli Stati Uniti d'America, Canada, Regno Unito, Cina, Corea del Nord, Corea del Sud, Russia, Ucraina, Cuba, Iran, Venezuela o Siria non sono autorizzati a utilizzare il prodotto. L'accesso può essere limitato o bloccato in conformità con i requisiti normativi e di compliance applicabili.

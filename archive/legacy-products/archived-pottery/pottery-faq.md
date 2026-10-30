@@ -6,7 +6,7 @@
 
 ## Perché abbiamo bisogno di Pottery se abbiamo già la Lotteria v2?
 
-Pottery è un prodotto completamente diverso rispetto alla Lotteria v2. È una combinazione del pool CAKE bloccato e della funzione lotteria che utilizza l'implementazione VRF di Chainlink per una vera casualità sicura. Partecipando a Pottery, non perderai nessuno dei CAKE che depositi; rischi solo le ricompense di staking dei CAKE depositati. Questo prodotto è pensato per i detentori di CAKE più avversi al rischio ma che vogliono comunque partecipare a un prodotto di questo tipo. È un modo facile, divertente e sicuro per avere la possibilità di vincere qualche CAKE. Scopri di più sulla [struttura del prodotto qui](https://docs.pancakeswap.finance/products/pottery).
+Pottery è un prodotto completamente diverso rispetto alla Lotteria v2. È una combinazione del pool CAKE bloccato e della funzione lotteria che utilizza l'implementazione VRF di Chainlink per una vera casualità sicura. Partecipando a Pottery, non perderai nessuno dei CAKE che depositi; rischi solo le ricompense di staking dei CAKE depositati. Questo prodotto è pensato per i detentori di CAKE più avversi al rischio ma che vogliono comunque partecipare a un prodotto di questo tipo. È un modo facile, divertente e sicuro per avere la possibilità di vincere qualche CAKE. Scopri di più sulla [struttura del prodotto qui](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery).
 
 ## Pottery sta sostituendo la Lotteria v2 originale?
 
@@ -34,11 +34,11 @@ Potrebbe occasionalmente esserci un leggero ritardo a causa della lettura del Su
 
 ## Come faccio a sapere se ho vinto nell'estrazione settimanale?
 
-Dopo ogni estrazione il venerdì a circa mezzogiorno UTC, puoi visualizzare i risultati e i vincitori nel pannello Round Terminati. Un altro modo per verificare se hai vinto in una delle estrazioni settimanali è controllare nel pannello Richiedi se c'è qualche premio da rivendicare. Dai un'occhiata [a questa pagina su come partecipare](https://docs.pancakeswap.finance/products/pottery/how-to-play-pottery)!
+Dopo ogni estrazione il venerdì a circa mezzogiorno UTC, puoi visualizzare i risultati e i vincitori nel pannello Round Terminati. Un altro modo per verificare se hai vinto in una delle estrazioni settimanali è controllare nel pannello Richiedi se c'è qualche premio da rivendicare. Dai un'occhiata [a questa pagina su come partecipare](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery/how-to-play-pottery)!
 
 ## Qual è la fonte di finanziamento del premio?
 
-I pool premi sono finanziati dalle ricompense di staking dei depositi. Tuttavia, poiché le ricompense di staking del pool di staking bloccato di CAKE vengono distribuite solo dopo la durata del blocco — 10 settimane in questo caso — per una migliore esperienza del prodotto e per facilitare le estrazioni settimanali subito dopo la data del deposito, il contratto prende in prestito l'80% del totale stimato delle ricompense di staking dalla coorte dal treasury CAKE in base all'APR al momento del blocco. I CAKE presi in prestito vengono usati per il pagamento di ogni estrazione settimanale. Scopri di più sulla [struttura del prodotto qui](https://docs.pancakeswap.finance/products/pottery)!
+I pool premi sono finanziati dalle ricompense di staking dei depositi. Tuttavia, poiché le ricompense di staking del pool di staking bloccato di CAKE vengono distribuite solo dopo la durata del blocco — 10 settimane in questo caso — per una migliore esperienza del prodotto e per facilitare le estrazioni settimanali subito dopo la data del deposito, il contratto prende in prestito l'80% del totale stimato delle ricompense di staking dalla coorte dal treasury CAKE in base all'APR al momento del blocco. I CAKE presi in prestito vengono usati per il pagamento di ogni estrazione settimanale. Scopri di più sulla [struttura del prodotto qui](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery)!
 
 ## Se vinco, devo rivendicare manualmente il premio?
 

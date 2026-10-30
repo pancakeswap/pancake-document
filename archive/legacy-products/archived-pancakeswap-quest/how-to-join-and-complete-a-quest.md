@@ -8,7 +8,7 @@
 
 1.  Gli utenti possono scegliere di unirsi a una quest direttamente tramite link o andare alla nostra [homepage delle quest](https://quest.pancakeswap.finance/quests) per sfogliarne di nuove. Clicca su una delle quest per saperne di più.&#x20;
 
-    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%206.54.53%20PM.png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%206.54.53%E2%80%AFPM.png" alt="" width="563"><figcaption></figcaption></figure>
 2. Dalla pagina di esplorazione, puoi sfogliare le quest con diversi numeri di attività, vincitori, chain e periodi di tempo.
 3. Avvia la quest
    1. Una volta selezionata la quest, gli utenti possono cliccare "Join Quest" per iniziare a partecipare.
@@ -17,7 +17,7 @@
 
 1.  Gli utenti devono completare attività e azioni prima di terminare ogni quest. Seleziona le attività e segui il testo sullo schermo per completare la sfida. Le azioni possono variare da attività social a elementi on-chain.&#x20;
 
-    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%207.18.31%20PM.png" alt="" width="368"><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%207.18.31%E2%80%AFPM.png" alt="" width="368"><figcaption></figcaption></figure>
 2.  Attività Social - Le attività possono includere:
 
     1. Mettere like a un post su X
@@ -42,7 +42,7 @@
     **Nota: A causa delle velocità di recupero dei dati, le attività on-chain potrebbero richiedere fino a 1 ora per essere verificate su certe chain.**&#x20;
 4.  Puoi visualizzare le attività rimanenti tramite la barra di stato in alto. Una volta completata la quest, dovrebbe mostrare "Completed" in alto a sinistra. Se la quest ha un premio in token, sarai idoneo a un'estrazione casuale dei premi.&#x20;
 
-    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%207.28.19%20PM.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%207.28.19%E2%80%AFPM.png" alt=""><figcaption></figcaption></figure>
 5. Gli utenti possono anche scegliere di completare attività facoltative, che non contano verso il completamento richiesto delle quest.
 
 ### Controllare lo Stato della Quest

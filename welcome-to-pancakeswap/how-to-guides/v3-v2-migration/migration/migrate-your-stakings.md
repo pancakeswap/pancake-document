@@ -87,7 +87,7 @@ Stai ora facendo Staking nel nuovo MasterChef e continui a guadagnare ricompense
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/en%20-%20migration%20timeline%20-%202.png)
 
-Assicurati di seguire il nostro canale di annunci su [Twitter](https://twitter.com/pancakeswap/) o [Telegram](https://t.me/PancakeSwapAnn) per i dettagli sui tempi e gli ultimi aggiornamenti! Hai bisogno di aiuto? Scopri di più su come ricevere assistenza [qui](../../../contact-us/#help).
+Assicurati di seguire il nostro canale di annunci su [Twitter](https://twitter.com/pancakeswap/) o [Telegram](https://t.me/PancakeSwapAnn) per i dettagli sui tempi e gli ultimi aggiornamenti! Hai bisogno di aiuto? Scopri di più su come ricevere assistenza [qui](../../../contact-us/faq/help.md).
 
 ## FAQ
 

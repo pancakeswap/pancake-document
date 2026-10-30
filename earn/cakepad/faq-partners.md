@@ -11,7 +11,7 @@ Per ulteriori informazioni visita: [https://pancakeswap.notion.site/cakepad](htt
 I progetti idonei devono:
 
 * Avere un prodotto funzionante o un MVP.
-* Essere pronti a lanciare un token e Liquidità su PancakeSwap (BNB, Base, ARB, ETH, ZKsync, Linea, opBNB).
+* Essere pronti a lanciare un token e Liquidità su PancakeSwap (BNB Chain, Base, Monad).
 * Consentire 3-4 settimane di lead time prima del TGE.
 * Dimostrare un forte potenziale di crescita della community.
 * Superare la revisione di due diligence di PancakeSwap.

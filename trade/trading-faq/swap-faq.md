@@ -207,7 +207,7 @@ Dal campo del saldo dei token su BscScan, puoi verificare quale token è stato d
 
 Una volta confermato, devi trasferire manualmente l'altro asset nel contratto pool. Puoi farlo nell'app Portafoglio che preferisci inserendo l'indirizzo del pool come destinatario.
 
-Puoi trasferire qualsiasi importo, ma poiché si tratta effettivamente di "donare" asset a un pool, starai trasferendo i tuoi asset in una posizione di Liquidità senza coniare token di Liquidità. Quindi raccomandiamo di mantenere questo importo al minimo.
+Puoi trasferire qualsiasi importo, ma poiché si tratta effettivamente di "donare" asset a un pool, starai trasferendo i tuoi asset in un pool di Liquidità senza coniare token di Liquidità. Quindi raccomandiamo di mantenere questo importo al minimo.
 
 {% hint style="warning" %}
 IMPORTANTE: Una volta trasferito il token, devi chiamare immediatamente `sync()` sul pool.

@@ -54,6 +54,6 @@ Commissioni: 3% del pot totale di ogni round al treasury, con una parte delle co
 
 Puoi fare riferimento alla Cronologia dei Round nella scheda storico per controllare il prezzo del round precedente e la decisione dell'AI. Tutti i round vengono risolti on-chain; fai riferimento al [contratto di previsione](https://arbiscan.io/address/0x1cdc19B13729f16C5284a0ACE825F83fC9d799f4) per ulteriori informazioni.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-06-26%20at%208.02.17%20PM.png" alt=""><figcaption><p>Fai riferimento alla scheda storico a destra</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-06-26%20at%208.02.17%E2%80%AFPM.png" alt=""><figcaption><p>Fai riferimento alla scheda storico a destra</p></figcaption></figure>
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-06-26%20at%208.01.26%20PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-06-26%20at%208.01.26%E2%80%AFPM.png" alt=""><figcaption></figcaption></figure>

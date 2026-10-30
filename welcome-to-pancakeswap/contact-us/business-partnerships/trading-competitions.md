@@ -4,7 +4,7 @@ Sei interessato ad aumentare i volumi e guadagnare visibilità per il tuo proget
 
 Ci occuperemo della configurazione, del monitoraggio e degli annunci - tu fornisci i premi, noi gestiamo lo show.
 
-Questo è disponibile su BNB Chain, Solana, Base, Arbitrum, Ethereum, ZKsync, Linea, opBNB e Polygon zkEVM.
+Questo è disponibile su BNB Chain, Solana, Base, Arbitrum, Ethereum, ZKsync, Linea, e opBNB.
 
 _Alcuni progetti che hanno partecipato in precedenza hanno visto un aumento del volume di trading da 3 a 7 volte e degli indirizzi che hanno effettuato trading attivamente_
 

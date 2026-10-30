@@ -12,9 +12,9 @@ La nostra struttura delle commissioni è la seguente:
 * Include almeno **1 token principale** (ovvero BNB, BTC, BUSD, ETH, USDT e/o USDC)
 * Limitato alle operazioni di Swap su **BNB Smart Chain ed Ethereum chain soltanto**
 
-**\*\***&#x49; Perpetuals sono vietati in alcune giurisdizioni; assicurati di essere idoneo al trading di derivati su questa piattaforma.
+**I Perpetuals sono vietati in alcune giurisdizioni.** Assicurati di essere idoneo al trading di derivati su questa piattaforma.
 
-\*\*\*Le commissioni di trading sui Perpetuals (o qualsiasi posizione del Referral che potrebbe incorrere in commissioni di liquidazione) non includono alcuna commissione di liquidazione per la liquidazione della posizione del tuo Referral. Limitato ai Perpetuals su **BNB Smart Chain ed Ethereum chain soltanto.**
+Le commissioni di trading sui Perpetuals (o qualsiasi posizione del Referral che potrebbe incorrere in commissioni di liquidazione) non includono alcuna commissione di liquidazione per la liquidazione della posizione del tuo Referral. Limitato ai Perpetuals su **BNB Smart Chain ed Ethereum chain soltanto.**
 
 ### Pagamento
 

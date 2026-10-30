@@ -6,7 +6,7 @@
 
 Il Pottery di PancakeSwap è un modo alternativo per accumulare CAKE oltre al semplice blocco e staking dei tuoi CAKE nel pool di staking; questa guida ti accompagnerà nella navigazione dell'interfaccia web di PancakeSwap per partecipare.
 
-Scopri di più sulla struttura del prodotto, i rischi e le commissioni del [PancakeSwap Pottery qui](https://docs.pancakeswap.finance/products/pottery).
+Scopri di più sulla struttura del prodotto, i rischi e le commissioni del [PancakeSwap Pottery qui](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery).
 
 ## Decidere se entrare in una coorte Pottery
 
@@ -24,7 +24,7 @@ Il deposito per ogni coorte Pottery è aperto una volta al mese. Il deposito si 
 
 ![](https://lh5.googleusercontent.com/_TqVUlNGtnGvGz_wysnq-KmewS_CjmUJ0jMHwzRMLx47Rmq-x868M0q-iBXCqynotDqz3mxnUZovExx4bUb8BBv3W6OXl4u4pJWFmOz__IYASvQ_hgmccB3GPaL1oz4TutJr3PTwdz_2NoVzmnpkcD0)
 
-— In questo caso, puoi depositare i tuoi CAKE per partecipare al Pottery se l'APR, il TVL e le probabilità di vincita sono accettabili per te. Prima di depositare, assicurati di capire pienamente i rischi della partecipazione! Tutti i depositi saranno bloccati per 10 settimane senza possibilità di prelievo anticipato in nessuna circostanza. Scopri di più su [rischi e commissioni qui](https://docs.pancakeswap.finance/products/pottery).
+— In questo caso, puoi depositare i tuoi CAKE per partecipare al Pottery se l'APR, il TVL e le probabilità di vincita sono accettabili per te. Prima di depositare, assicurati di capire pienamente i rischi della partecipazione! Tutti i depositi saranno bloccati per 10 settimane senza possibilità di prelievo anticipato in nessuna circostanza. Scopri di più su [rischi e commissioni qui](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery).
 
 ## **Visualizzare il tuo deposito**
 
@@ -40,7 +40,7 @@ Dopo ogni estrazione il venerdì a circa mezzogiorno UTC, puoi visualizzare i ri
 
 ![](https://lh3.googleusercontent.com/ClT6Dx6rJlfFmzmyxwCGwIUsDv-DuhzVAGNH5etDbnBmieRSZ66G8krr8GUWc2s5SDw)
 
-In base alla data dell'estrazione, trova il round corrispondente per la coorte che vuoi controllare — ogni venerdì, potrebbe esserci più di un'estrazione poiché ci sono diverse coorti; assicurati di controllare l'estrazione giusta per la coorte che stai cercando. Leggi di più sulla [struttura delle coorti qui](https://docs.pancakeswap.finance/products/pottery#pottery-cohort).
+In base alla data dell'estrazione, trova il round corrispondente per la coorte che vuoi controllare — ogni venerdì, potrebbe esserci più di un'estrazione poiché ci sono diverse coorti; assicurati di controllare l'estrazione giusta per la coorte che stai cercando. Leggi di più sulla [struttura delle coorti qui](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery#pottery-cohort).
 
 ## Rivendicare il premio
 

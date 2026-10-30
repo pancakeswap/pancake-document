@@ -52,7 +52,7 @@ L'APR globale viene calcolato usando l'ammontare totale di Liquidità attiva in 
 Gli APR per le singole posizioni possono variare in base alle impostazioni del range di prezzo.
 
 $$
-ARP_p = {\frac{USD_{r}}{USD_{p}}} {\frac{L_{p}}{L_{lm}}}
+APR_p = {\frac{USD_{r}}{USD_{p}}} {\frac{L_{p}}{L_{lm}}}
 $$
 
 * $$USD_r$$: Ricompensa CAKE guadagnata in USD all'anno nel pool

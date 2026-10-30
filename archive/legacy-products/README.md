@@ -12,7 +12,7 @@ description: Punti di accesso e riferimenti per i prodotti legacy
 * [PancakeSwap Quest](archived-pancakeswap-quest/) (28 febbraio 2025)
 * [Liquid Staking](https://pancakeswap.finance/liquid-staking)
 * [Team Leaderboard](https://pancakeswap.finance/teams)
-* [PancakeSwap Mini-Program](/broken/pages/ORNMTC8QPBoziOExV3BW)
+* PancakeSwap Mini-Program
 * [Options](archived-options/)
 * [LP History Page](https://pancakeswap.finance/farms/history)
 * [Position Manager ](archived-position-manager.md)(21 giugno 2025)

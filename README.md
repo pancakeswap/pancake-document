@@ -14,7 +14,7 @@
 
 ### La scelta del popolo
 
-PancakeSwap è un exchange decentralizzato leader. Disponibile su dieci chain: BNB Chain, Ethereum, Solana, Base, Arbitrum, Aptos, ZKsync, Linea, Monad e opBNB, con i volumi di trading più alti sul mercato (fonti: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
+PancakeSwap è un exchange decentralizzato leader. Disponibile su undici chain: BNB Chain, Ethereum, Solana, Base, Arbitrum, Aptos, ZKsync, Linea, Monad, Robinhood e opBNB, con i volumi di trading più alti sul mercato (fonti: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
 
 ### Commissioni basse
 

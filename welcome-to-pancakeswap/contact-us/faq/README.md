@@ -1,7 +1,5 @@
 # FAQ Generali
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/general-faq-header%20%281%29.png)
-
 Questa pagina FAQ risponde ad alcune delle domande più frequenti della community di PancakeSwap.
 
 ## PancakeSwap è sicuro? PancakeSwap è stato sottoposto ad Audit?
@@ -11,7 +9,7 @@ Verificalo tu stesso:
 * Consulta [questi audit di sicurezza di PancakeSwap](../../../#is-pancakeswap-safe)
 * Trasparente:
   * Siamo costruiti su software open-source: il nostro sito e tutti i nostri Smart Contract sono pubblicamente visibili per la massima trasparenza.
-  * I nostri contratti sono verificati sugli esploratori blockchain, così sai che quello che vedi è quello che ottieni. Consultali [qui](/broken/pages/-MeTcIwNOfhTYrz1V3xJ).
+  * I nostri contratti sono verificati sugli esploratori blockchain, così sai che quello che vedi è quello che ottieni. Consultali [qui](https://developer.pancakeswap.finance/).
 * Best practice di sicurezza:
   * I chef usano il multisig per tutti i contratti.
   * Il time-lock dei nostri contratti ti offre tranquillità.
@@ -20,7 +18,7 @@ Verificalo tu stesso:
 
 Puoi mettere in Staking il tuo CAKE nei Syrup Pool di PancakeSwap. Visita la [pagina dei Syrup Pool](https://pancakeswap.finance/pools).
 
-Leggi la nostra [guida su Come fare Staking nei Syrup Pool](https://docs.pancakeswap.finance/products/syrup-pool/syrup-pool-guide) se hai bisogno di aiuto per iniziare con lo Staking.
+Leggi la nostra [guida su Come fare Staking nei Syrup Pool](https://docs.pancakeswap.finance/earn/cake-staking/syrup-pool/syrup-pool-guide) se hai bisogno di aiuto per iniziare con lo Staking.
 
 ## Qual è la differenza tra Staking e Farming?
 
@@ -30,19 +28,19 @@ Lo Staking richiede solo l'aggiunta di CAKE a un Syrup Pool per guadagnare CAKE 
 [Scopri di più sullo Staking nei Syrup Pool.](https://docs.pancakeswap.finance/products/syrup-pool)
 
 Il Farming è più complesso e richiede LP Token per guadagnare CAKE.\
-[Scopri di più sullo Yield Farming.](https://docs.pancakeswap.finance/products/yield-farming)
+[Scopri di più sullo Yield Farming.](https://docs.pancakeswap.finance/earn/yield-farming)
 
 ## Come si fa il Farming?
 
-Abbiamo una [guida allo Yield Farming](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) se sei interessato a imparare come fare Farming.
+Abbiamo una [guida allo Yield Farming](https://docs.pancakeswap.finance/earn/yield-farming/how-to-use-farms/how-to-use-farms) se sei interessato a imparare come fare Farming.
 
 ## Dove posso vedere la roadmap di PancakeSwap?
 
-Puoi [vedere la nostra lista delle attività qui, ma non chiamarla roadmap](https://docs.pancakeswap.finance/roadmap).
+Puoi [vedere la nostra lista delle attività qui, ma non chiamarla roadmap](https://docs.pancakeswap.finance/welcome-to-pancakeswap/roadmap).
 
 ## Come collego il mio Portafoglio a BNB Smart Chain e PancakeSwap?
 
-Abbiamo una [guida per Connettere il tuo Portafoglio a PancakeSwap](https://docs.pancakeswap.finance/get-started/connection-guide) che lo spiega in dettaglio.
+Abbiamo una [guida per Connettere il tuo Portafoglio a PancakeSwap](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/connection-guide) che lo spiega in dettaglio.
 
 ## Qual è il miglior Portafoglio per PancakeSwap?
 
@@ -52,9 +50,9 @@ Dipende dalle tue esigenze. Abbiamo una [guida approfondita per scegliere e crea
 
 Puoi controllare lo stato di una transazione su [https://bscscan.com/](https://bscscan.com).
 
-La nostra [guida alla Risoluzione degli Errori](https://docs.pancakeswap.finance/help/troubleshooting) potrebbe avere una soluzione al tuo problema se riscontri difficoltà.
+La nostra [guida alla Risoluzione degli Errori](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/faq/troubleshooting) potrebbe avere una soluzione al tuo problema se riscontri difficoltà.
 
-Puoi anche consultare la nostra [guida per Risolvere le Transazioni in Sospeso Bloccate](https://docs.pancakeswap.finance/help/unsticking-a-transaction-stuck-as-pending-with-metamask) se hai una transazione bloccata.
+Puoi anche consultare la nostra [guida per Risolvere le Transazioni in Sospeso Bloccate](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/faq/unsticking-a-transaction-stuck-as-pending-with-metamask) se hai una transazione bloccata.
 
 ## Quando aprirete altri Pool?
 
@@ -82,11 +80,11 @@ Scopri come trovare gli smart contract nella nostra [pagina per Trovare i Contra
 
 ## Perché mi dice che non ho saldo BNB?
 
-Se hai già [trasferito BNB nel tuo Portafoglio abilitato per BNB Smart Chain](https://docs.pancakeswap.finance/get-started/bep20-guide) ma ricevi ancora questo errore, probabilmente non sei [connesso a BNB Smart Chain](https://docs.pancakeswap.finance/get-started/connection-guide) nel tuo Portafoglio. Controlla la rete selezionata nel tuo Portafoglio e assicurati di aver selezionato BNB Smart Chain (BSC).
+Se hai già [trasferito BNB nel tuo Portafoglio abilitato per BNB Smart Chain](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/bep20-guide) ma ricevi ancora questo errore, probabilmente non sei [connesso a BNB Smart Chain](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/connection-guide) nel tuo Portafoglio. Controlla la rete selezionata nel tuo Portafoglio e assicurati di aver selezionato BNB Smart Chain (BSC).
 
 ## Come si vota?
 
-Per saperne di più sulla Votazione, puoi [leggere la nostra sezione sulla Votazione](https://docs.pancakeswap.finance/products/voting), incluse le guide alla Votazione.
+Per saperne di più sulla Votazione, puoi [leggere la nostra sezione sulla Votazione](https://docs.pancakeswap.finance/protocol/voting), incluse le guide alla Votazione.
 
 ## Qual è la fornitura massima di CAKE?
 
@@ -112,7 +110,7 @@ Gli altri smart contract di PancakeSwap, come IFO e AutoPool, sono anch'essi pro
 
 Consulta la sezione [Diventa uno Chef](https://docs.pancakeswap.finance/hiring/become-a-chef) per informazioni sulle posizioni aperte che stiamo cercando di coprire.
 
-Pubblichiamo le nuove posizioni che stiamo cercando di coprire sui nostri [canali social ufficiali](https://docs.pancakeswap.finance/contact-us/telegram), quindi assicurati di seguirci per ricevere le ultime informazioni sulle assunzioni.
+Pubblichiamo le nuove posizioni che stiamo cercando di coprire sui nostri [community Telegram e Discord](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/telegram-and-discord-communities), quindi assicurati di seguirci per ricevere le ultime informazioni sulle assunzioni.
 
 ## Cos'è SYRUP?
 
@@ -120,4 +118,4 @@ SYRUP faceva parte del processo di Staking nelle prime fasi di PancakeSwap. SYRU
 
 ## Non riesco a trovare una risposta alla mia domanda. Dove posso trovarla?
 
-Se non riesci a trovare quello che cerchi nella documentazione di PancakeSwap, fai la tua domanda sulle [piattaforme social ufficiali di PancakeSwap](https://docs.pancakeswap.finance/contact-us/telegram) e qualcuno farà del suo meglio per aiutarti.
+Se non riesci a trovare quello che cerchi nella documentazione di PancakeSwap, fai la tua domanda sulle nostre [community Telegram e Discord](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/telegram-and-discord-communities) e qualcuno farà del suo meglio per aiutarti.
