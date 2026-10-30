@@ -1,81 +1,81 @@
 ---
-description: CAKE 스테이커를 위한 트레이딩 리워드 프로그램 참여 방법
+description: How to participate in the trading reward program for CAKE Stakers
 ---
 
-# CAKE 스테이커 캠페인
+# CAKE Stakers Campaign
 
 {% hint style="danger" %}
-\[보관됨] 트레이딩 리워드 – 2024년 8월 23일 기준
+\[Archived] Trading Reward – As of 23rd August 2024
 {% endhint %}
 
 {% hint style="info" %}
-CAKE 스테이커 캠페인은 이제 veCAKE 스테이커 캠페인입니다. 고정 기간 스테이킹 풀 대신 이제 새로운 veCAKE 스테이킹 풀에 CAKE를 락하여 캠페인에 참여할 수 있습니다.
+CAKE Stakers campaign is now veCAKE Stakers campaign. Instead of fixed-term staking pool, users now may join the campaign by locking CAKE in the brand new veCAKE staking pool.
 {% endhint %}
 
-## 진행 중인 캠페인 확인하기 <a href="#id-978733be-1ca0-4eb6-a35e-44b7f8365222" id="id-978733be-1ca0-4eb6-a35e-44b7f8365222"></a>
+## Check for an ongoing campaign <a href="#id-978733be-1ca0-4eb6-a35e-44b7f8365222" id="id-978733be-1ca0-4eb6-a35e-44b7f8365222"></a>
 
-"트레이딩 대회"와 마찬가지로 트레이딩 리워드 프로그램은 개별 캠페인으로 진행됩니다. 진행 중인 캠페인이 있으면 적격 사용자는 특정 PancakeSwap V3 거래 페어를 거래하여 보상을 얻을 수 있습니다.
+Like “Trading Competition”, the trading reward program is hosted in individual campaigns. When there is an ongoing campaign, eligible users can earn rewards by trading specific PancakeSwap V3 trading pairs.
 
-진행 중인 캠페인이 있는지 확인하려면 다음을 할 수 있습니다.
+To check if there is an ongoing campaign. You can:
 
-* [트레이딩 리워드 페이지](https://pancakeswap.finance/trading-reward)에서 직접 확인
-*   [PancakeSwap 홈페이지](https://pancakeswap.finance/)에서 이벤트 배너 확인<br>
+* Check on the [Trading Reward page](https://pancakeswap.finance/trading-reward) directly
+*   Check the [PancakeSwap homepage](https://pancakeswap.finance/) for the event banner<br>
 
-    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/rebate-homepage.png" alt=""><figcaption></figcaption></figure>
-*   [스왑 페이지](https://pancakeswap.finance/swap)의 "핫 토큰" 목록에서 💝 아이콘 찾기. 또는 필터를 사용하여 트레이딩 리워드가 있는 페어 확인
+    <figure><img src="../../../../.gitbook/assets/rebate-homepage.png" alt=""><figcaption></figcaption></figure>
+*   Look for the 💝 icon from the “Hot Token” list on the [Swap page](https://pancakeswap.finance/swap). Or use the filter to check pairs with trading rewards.
 
-    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(183).png" alt=""><figcaption></figcaption></figure>
-* [소셜 미디어 채널](../../../../pancakeswap/contact-us/social-accounts.md) 확인
+    <figure><img src="../../../../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
+* Check out our [social media channels](../../../../welcome-to-pancakeswap/contact-us/social-accounts.md).
 
-## 내 주소가 대상인지 확인하기 <a href="#ced8a6c5-803a-4a60-80d0-44e823571d84" id="ced8a6c5-803a-4a60-80d0-44e823571d84"></a>
+## Check if your address is eligible <a href="#ced8a6c5-803a-4a60-80d0-44e823571d84" id="ced8a6c5-803a-4a60-80d0-44e823571d84"></a>
 
-트레이딩 리워드 캠페인에 참여하려면 주소가 다음 요건을 충족해야 합니다.
+To participate in a trading reward campaign. Your address must meet the following requirements:
 
-* 활성 Pancake 프로필이 있어야 함
-* 활성 CAKE 스테이킹 포지션이 있어야 함
-* 스냅샷 시점의 veCAKE 잔액이 요구되는 기준보다 높아야 함("스냅샷 시점의 veCAKE 잔액"에 대한 자세한 내용은 [여기](../faq.md#cake-stakers-campaign) 참조)
+* Must have an active Pancake Profile
+* Must have an active CAKE staking position
+* The number of veCAKE balance at snapshot time is higher than the required threshold (check [here](../faq.md#cake-stakers-campaign) for more info about "veCAKE balance at snapshot time")
 
-주소가 대상인지 확인하는 가장 쉬운 방법은 [트레이딩 리워드 페이지](https://pancakeswap.finance/trading-reward)를 방문하여 지갑을 연결하는 것입니다. 페이지에서 거래를 통해 CAKE를 얻을 수 있는 주소 자격을 갖추기 위한 과정을 안내해 드립니다.
+The easiest way to check if your address is eligible is to visit the [Trading Reward page](https://pancakeswap.finance/trading-reward) and connect your wallet. The page will guide you through the process to make your address eligible to earn CAKE from trades.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(1)%20(1)%20(1)%20(1)%20(1)%20(1)%20(1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-예를 들어 활성 veCAKE 스테이킹 포지션이 없거나 스냅샷 시점의 veCAKE 잔액이 0이면 위와 같은 화면이 표시됩니다. 안내에 따라 CAKE 락을 시작하기만 하면 됩니다.
+For example, you will be presented with the above screen if you do not have an active veCAKE staking position, or your veCAKE balance at snapshot time is 0. Simply follow the guide to start locking CAKE.
 
-다만 veCAKE는 시간이 지남에 따라 감소하므로 스냅샷 시점의 veCAKE 수량이 기준을 충족하도록 하려면 스냅샷 수량 미리보기와 함께 제공되는 안내를 따르세요.
+But please note that veCAKE is decreasing with time, therefore in order to ensure the amount of veCAKE at snapshot time meets the threshold, please follow the guidance with the preview of the snapshot amount.&#x20;
 
-캠페인이 진행되는 동안에는 언제든지 CAKE 락을 시작하고 캠페인에 참여할 수 있습니다. 트레이딩 리워드는 캠페인 시작 시점부터 집계됩니다. 정말 좋지 않나요?
+While a campaign is active, you can start locking CAKE and join the campaign at any time. Trading rewards will be counted from the beginning of the campaign; how good is that?
 
-## 트레이딩 시작하기 <a href="#id-5be1710d-25f3-485d-8184-91015c4dceca" id="id-5be1710d-25f3-485d-8184-91015c4dceca"></a>
+## Start trading <a href="#id-5be1710d-25f3-485d-8184-91015c4dceca" id="id-5be1710d-25f3-485d-8184-91015c4dceca"></a>
 
-이제 적격 체인의 특정 PancakeSwap V3 페어를 거래하여 CAKE를 얻을 수 있습니다.
+Now you can earn CAKE by trading certain PancakeSwap V3 pairs on eligible chains.
 
-캠페인마다 적격 페어가 다를 수 있습니다. 적격 페어를 확인하려면 다음을 할 수 있습니다.
+Each campaign may have different eligible pairs. To check which pairs are eligible, you can:
 
-* [트레이딩 리워드 페이지의 "보상 상세" 섹션](https://pancakeswap.finance/trading-reward#rewards-breakdown) 확인
-* [스왑 페이지](https://pancakeswap.finance/swap)의 "핫 토큰" 목록에서 💝 아이콘 찾기. 또는 필터를 사용하여 트레이딩 리워드가 있는 페어 확인
+* Check the [“Reward Breakdown” section of the Trading Reward page](https://pancakeswap.finance/trading-reward#rewards-breakdown)
+* Look for the 💝 icon from the “Hot Token” list on the [Swap page](https://pancakeswap.finance/swap). Or use the filter to check pairs with trading rewards.
 
-## 내 보상 수량 확인하기 <a href="#id-7d7c7391-5454-4fa7-8928-c79885a00875" id="id-7d7c7391-5454-4fa7-8928-c79885a00875"></a>
+## Check the number of your rewards <a href="#id-7d7c7391-5454-4fa7-8928-c79885a00875" id="id-7d7c7391-5454-4fa7-8928-c79885a00875"></a>
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20\(256\).png)
+![](<../../../../.gitbook/assets/image (256).png>)
 
-[트레이딩 리워드 페이지](https://pancakeswap.finance/trading-reward)에서 다음 수치를 확인할 수 있습니다.
+You may check the following numbers on the [Trading Reward page](https://pancakeswap.finance/trading-reward):
 
-* 획득한 CAKE 보상 수량
-* 캠페인에서 얻을 수 있는 최대 CAKE 금액 - 스냅샷 시점의 veCAKE 수량에 따라 결정됩니다(한도를 초과한 경우에만 표시)
-* 모든 적격 페어에서의 내 거래량
+* Number of CAKE rewards earned
+* The maximum amount of CAKE you can earn from the campaign - determined by the amount of your veCAKE at snapshot time (only visible when you are exceeding the limit)
+* Your trading volume across all the eligible pairs
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(291).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (291).png" alt=""><figcaption></figcaption></figure>
 
-또한 "보상 상세" 섹션에서 거래한 각 페어에 대한 자세한 내용을 확인할 수 있습니다.
+Additionally, you may check the “Rewards Breakdown” section for a detailed view of each pair you traded
 
-## 보상 수령하기 <a href="#id-5a0d1633-dba9-46c0-919c-77fee912f986" id="id-5a0d1633-dba9-46c0-919c-77fee912f986"></a>
+## Claim your rewards <a href="#id-5a0d1633-dba9-46c0-919c-77fee912f986" id="id-5a0d1633-dba9-46c0-919c-77fee912f986"></a>
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20\(92\).png)
+![](<../../../../.gitbook/assets/image (92).png>)
 
-캠페인이 종료되면 데이터 집계와 보상 주입이 진행되는 동안 최대 72시간을 기다려야 할 수 있습니다.
+When a campaign is finished, you may need to wait up to 72 hours while data is being tallied and rewards are being injected.
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20\(177\).png)
+![](<../../../../.gitbook/assets/image (177).png>)
 
-보상을 수령할 수 있게 되면 "모두 수령" 버튼이 활성화됩니다. 클릭하여 보상을 수령하기만 하면 됩니다.
+The “Claim All” button will light up when rewards are available for claiming. Simply click and claim your rewards.
 
-**보상이 만료되기 전에 제때 수령하세요.**
+**Please claim your rewards in time before they expire.**
