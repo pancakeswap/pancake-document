@@ -1,73 +1,73 @@
-# 포터리 자주 묻는 질문 (FAQ)
+# Pottery FAQ
 
 {% hint style="danger" %}
-\[보관됨] Pottery – 2023년 11월 3일 기준
+\[Archived] Pottery – As of 3rd November 2023
 {% endhint %}
 
-## 이미 복권 v2가 있는데 왜 Pottery가 필요한가요?
+## Why do we need Pottery when we already have the Lottery v2?
 
-Pottery는 복권 v2와 완전히 다른 제품입니다. 락된 CAKE 풀과 진정하고 안전한 무작위성을 위한 Chainlink의 VRF 구현을 활용하는 복권 기능을 결합한 제품입니다. Pottery에 참여해도 예치한 CAKE를 잃지 않으며, 예치한 CAKE의 스테이킹 보상만 위험에 노출됩니다. 이 제품은 위험을 더 회피하면서도 이러한 성격의 제품에 참여하고 싶은 CAKE 사용자를 위해 설계되었습니다. CAKE에 당첨될 기회를 얻는 쉽고 재미있고 안전한 방법입니다. [제품 구조](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery)에 대해 자세히 알아보세요.
+Pottery is a completely different product compared to Lottery v2. It is a combination of the locked CAKE pool and the lottery function utilizing the Chainlink's implementation of VRF for true, secure randomness. By participating in Pottery, you will not lose any of the CAKE you deposited, you are only risking the staking rewards of the CAKE you deposited. This product is designed for CAKErs who are more risk-averse but still would like to participate in a product of this nature. It’s an easy, fun and safe way to get a chance to win some CAKE. Learn more about [the product structure here](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery).
 
-## Pottery가 기존 복권 v2를 대체하나요?
+## Is Pottery replacing the original Lottery v2?
 
-Pottery는 기존 복권 v2를 대체하지 않습니다. 이 두 제품은 별도로 운영됩니다. 둘 다 참여할 수 있습니다!
+Pottery is not replacing the original Lottery v2. These two products are operated and run separately. You can participate in both!
 
-## Pottery는 PancakeSwap과 CAKE에 어떻게 도움이 되나요?
+## How does Pottery help PancakeSwap and CAKE?
 
-매주 분배되는 상금 팟의 8%는 소각을 위한 수수료로 부과되며, 이는 CAKE의 가치를 높입니다. 제품의 베타 단계 이후 수수료 구조를 검토하고 그에 따라 조정할 계획입니다.
+Eight percent (8%) of the prize pot distributed each week will be charged as fees for burning, which accrues value to CAKE. We aim to review and adjust the fee structure accordingly after the beta stage of the product.
 
-## Pottery의 베타 단계는 무엇을 위한 것인가요?
+## What is the beta stage of Pottery for?
 
-트레저리에서 빌리기, 코호트 관리, 추첨과 같은 이 새로운 제품의 운영 때문입니다. 모든 것이 원활하게 운영되도록 각 Pottery의 총 예치금에 한도를 두고 베타 단계로 시작합니다. 베타 단계를 통과하면 운영 및 커뮤니티 피드백을 바탕으로 수수료, 각 코호트의 주기, 락 기간 등 다양한 파라미터를 검토하고 조정할 수 있습니다.
+Because of the operations of this new product such as borrowing from treasury, cohort management and drawing. The product will start off in the beta stage with a capped total deposit for each Pottery to make sure everything runs smoothly. Once we pass the beta stage, we may review and adjust different parameters based on operations and community feedback such as the fees, the frequency of each cohort, lock period, etc.
 
-## 왜 CAKE를 10주 동안 락해야 하나요?
+## Why does it have to lock my CAKE for 10 weeks?
 
-Pottery가 플렉시블 스테이킹 풀만 사용할 수 있다면 제품 구조가 PoolTogether나 Moonpot과 같은 제품과 비슷하게 훨씬 단순해졌을 것입니다. 하지만 플렉시블 스테이킹 풀의 현재 수익률로는 추첨에 의미 있는 상금 풀을 만들기에 충분하지 않습니다. 따라서 상금 풀의 재원으로 사용할 수 있는 보상의 균형을 맞추기 위해 CAKE를 적절한 기간 동안 락하기로 결정했습니다. 더 많은 운영 경험과 커뮤니티 피드백을 바탕으로 향후 락 기간을 검토하고 조정할 수 있습니다.
+If the Pottery can just use the flexible staking pool, its product structure would be much simpler - similar to products like PoolTogether and Moonpot. However, the current yield from the flexible staking pool is not sufficient for us to produce a meaningful prize pool for drawing. Hence, the decision is to lock the CAKE for a moderate duration to balance the rewards that can be used to fund the prize pool. With more operations and community feedback, we may review and adjust the lock duration down the road.
 
-## 왜 출금할 수 없나요?
+## Why can’t I withdraw?
 
-출금 버튼은 락 날짜로부터 10주가 지난 후에만 활성화되어 사용할 수 있다는 점에 유의하세요. 출금 날짜는 락 날짜와 시간(매월 첫 번째 월요일 23:59 UTC)으로부터 10주 후를 기준으로 합니다.
+Please note that the withdrawal button will light up and be available only after 10 weeks of the lock date. The date for withdrawal is based on 10 weeks after the lock date and time – 23:59 UTC on the first Monday of each month.
 
-## 왜 예치금을 확인할 수 없나요?
+## Why can’t I view my deposit?
 
-서브그래프 읽기로 인해 간혹 지연이 있을 수 있으며, 지연이 있으면 알림이 표시됩니다. 보통 15분 후에 다시 확인하면 올바른 금액이 표시됩니다.
+There might occasionally be some delay because of the Subgraph reading, there will be a signal when there are delays – usually it should show the correct amount if you check again in 15 minutes.
 
-## 주간 추첨에서 당첨되었는지 어떻게 알 수 있나요?
+## How do I know if I have won in the weekly draw?
 
-금요일 정오 UTC경 각 추첨 후 종료된 라운드 패널에서 결과와 당첨자를 확인할 수 있습니다. 주간 추첨에서 당첨되었는지 확인하는 또 다른 방법은 수령 패널에서 수령할 상금이 있는지 확인하는 것입니다. [참여 방법에 대한 이 페이지](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery/how-to-play-pottery)를 확인하세요!
+After each draw on Friday at around noon UTC, you can view the results and winners in the Finished Rounds panel. Another way to check if you have won in any weekly draws is to check in the Claim panel to see if there is any prize to be claimed. Check out [this page on how to participate](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery/how-to-play-pottery)!
 
-## 상금의 재원은 무엇인가요?
+## What is the funding source of the prize?
 
-상금 풀은 예치금의 스테이킹 보상으로 충당됩니다. 그러나 CAKE 락 스테이킹 풀의 스테이킹 보상은 락 기간(이 경우 10주)이 지난 후에만 분배되므로, 더 나은 제품 경험을 제공하고 예치일 직후 주간 추첨을 원활하게 하기 위해 컨트랙트는 락 시점의 APR을 기준으로 코호트의 예상 총 스테이킹 보상의 80%를 CAKE 트레저리에서 빌립니다. 빌린 CAKE는 각 주간 추첨의 상금 지급에 사용됩니다. [제품 구조](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery)에 대해 자세히 알아보세요!
+The prize pools are funded by the staking rewards of the deposits. However, since the staking rewards of the CAKE locked staking pool are only distributed after the lock duration – 10 weeks in this case, for better product experience and to facilitate the weekly draws right after the deposit date, the contract is borrowing 80% of the estimated total staking rewards from the cohort from the CAKE treasury based on the APR at the time of locking. The borrowed CAKE is used for the payout for each weekly draw. Learn more about [the product structure here](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery)!
 
-## 당첨되면 상금을 직접 수령해야 하나요?
+## If I win, do I need to manually claim the prize?
 
-네, Pottery 페이지의 수령 패널에서 수령 버튼을 클릭해야 합니다.
+Yes, you will need to click the Claim button under the Claim panel on the Pottery page.
 
-## Pottery는 얼마나 자주 열리나요?
+## How often is the Pottery?
 
-각 Pottery 코호트는 그 전 금요일 오전 10:00 UTC경에 예치가 열리고 매월 첫 번째 월요일 23:59 UTC에 마감되며, 사전 특별 일정 및 공지가 있는 경우는 예외입니다. 각 코호트는 이후 10번의 금요일 정오 UTC에 10회의 주간 추첨을 진행합니다.
+Each Pottery cohort is open for deposit on the Friday before at around 10:00 UTC and closes on the first Monday of each month at 23:59 UTC, unless any special arrangement and notice in advance. Each cohort will have 10 weekly draws on 10 subsequent Fridays at noon UTC.
 
-첫 번째 Pottery는 2022년 8월 5일에 예치가 열리고 2022년 8월 8일 23:59 UTC에 락됩니다.
+The first Pottery will open deposit on Aug 5 2022 and lock on Aug 8 2022 at 23:59 UTC.
 
-## 왜 Pottery 예치는 월 1회만 열리나요?
+## Why does the Pottery deposit only open once a month?
 
-이 방식은 예치금을 합쳐 락 스테이킹 풀로 보내므로, 해당 코호트의 Pottery 컨트랙트가 락 스테이킹 풀에서 나오는 예치금의 스테이킹 보상을 조율할 수 있습니다. 더 많은 운영 경험과 커뮤니티 피드백을 바탕으로 향후 주기를 검토하고 조정할 수 있습니다.
+This arrangement combines the deposit to direct to the locked staking pool, such that the Pottery contract of the cohort is able to coordinate the staking rewards of the deposit from the locked staking pool. With more operations and community feedback, we may review and adjust the frequency down the road.
 
-## 예치 한도는 얼마인가요?
+## What is the limit for depositing?
 
-최소 예치금은 1 CAKE입니다. 제품의 베타 단계에서는 각 코호트에 최대 예치 한도도 있으며 예치할 때 예치 패널에서 확인할 수 있습니다. 이는 트레저리에서 빌리기, 락 스테이킹, 추첨을 포함한 운영 측면의 모든 것이 원활하게 진행되도록 하기 위함입니다. 예치할 수 있는 최대 금액은 해당 코호트의 최대 예치 한도이며(다른 사람이 CAKE를 예치하지 않았다면) 모든 상금을 획득하게 되지만, 이는 최종 수익이 CAKE를 10주 동안 락 스테이킹 풀에 넣은 것과 동일하다는 의미이며 그에 더해 Pottery 수수료도 지불하게 됩니다.
+There is a minimum deposit of 1 CAKE. At the beta stage of the product, there will also be a maximum deposit cap for each cohort which you can view in the Deposit panel when you are making the deposit. This is to make sure everything on the operation side including the borrowing from treasury, locked staking and drawing runs smoothly. While the maximum you can deposit is the maximum deposit cap of that cohort (if no one else has deposited any CAKE), you would win all the prizes, however, that also means the final return that you will get is the same as putting your CAKE into the locked staking pool for 10 weeks, but you will also be paying the Pottery fees.
 
-## 왜 코호트 시스템이 필요한가요? 모두 합치면 안 되나요?
+## Why do we need the cohort system? Why do we not just lump them all together?
 
-Pottery는 CAKE의 고정 기간 스테이킹과 연동되므로 모든 예치금은 락 기간이 지난 후에만 출금할 수 있습니다. 모든 예치금을 합치게 되면 최초 락 이후에 예치금을 더 추가하고 (신규 예치 시점부터) 10주 동안 잠글 수는 있지만, 처음 예치한 사용자는 제때 출금할 수 없게 됩니다.
+Since Pottery is interacting with the fixed-term staking of CAKE, any deposit can only be withdrawn after the lock duration. If we want to lump all deposits together, while we can add more deposit after the initial lock and also lock them for 10 weeks (from the time of new deposit), the initial depositors will not be able to withdraw on time.
 
-## SHARE 토큰이란 무엇인가요?
+## What is SHARE token?
 
-SHARE 토큰은 Pottery에 예치할 때 생성되어 분배됩니다. 예치 풀에 대한 내 지분을 나타내며 그 증표 역할을 합니다.
+SHARE tokens are generated and distributed when you deposit in the pottery. It represents and serves as a credential of your share against the deposit pool.
 
-출금 시 SHARE 토큰은 Pottery 컨트랙트로 반환되어 소각됩니다.
+Upon withdrawal, SHARE token will be transferred back to the pottery contract and burned.
 
-## 이 제품에 대한 피드백은 어디에서 제공할 수 있나요?
+## Where can I provide feedback for this product?
 
-형식이 여전히 불분명하거나 개선을 위한 피드백이 있으시면 [Telegram](https://t.me/pancakeswap) 또는 [Discord](https://discord.gg/pancakeswap)로 언제든지 연락해 주세요!
+Please feel free to reach out to us on [Telegram](https://t.me/pancakeswap) or [Discord](https://discord.gg/pancakeswap) if you're still unsure about the format or if you have any feedback for us to improve this further!

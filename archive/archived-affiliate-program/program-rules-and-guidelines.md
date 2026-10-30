@@ -1,20 +1,20 @@
-# 프로그램 규정 및 가이드라인
+# Program Rules & Guidelines
 
-제휴 파트너는 다음 규칙과 가이드라인을 준수해야 합니다.
+As an affiliate, you must adhere to the following rules and guidelines:
 
-1. 이 프로그램은 신규 사용자("추천 대상")를 초대하여 PancakeSwap에 가입하고 거래하게 함으로써 다양한 수수료율로 보상을 받을 기회를 제공합니다.
-2. 추천 대상은 신규 사용자여야 하며, PancakeSwap 플랫폼과 상호작용하거나 서명한 적이 없고 PancakeSwap의 어떤 서비스(V2, V3 스왑 서비스, 무기한 선물 거래, 대체 불가능 토큰 및 관련 서비스, 초기 파밍 상품 및 유사 상품을 포함하되 이에 국한되지 않음)("PancakeSwap 서비스")도 사용한 적이 없어야 합니다.
-3. 시스템이 추천 대상과 그들의 거래 활동을 추적할 수 있도록 고유한 추천 링크를 제공합니다. 고유 추천 링크를 통해 가입한 추천 대상에 대해서만 수수료를 지급합니다. 누군가 내 추천으로 가입했다고 주장하더라도 추천 링크를 통해 가입한 것이 아니라면 수수료를 지급하지 않습니다.
-4. 모든 수수료는 각 온체인 거래가 완료되는 시점에 계산되며 다음과 같이 미국 달러로 표시됩니다.
-5. 모든 수수료는 CAKE 토큰으로 지급됩니다.
-6. 한 달에 한 번 수수료 교환을 요청할 수 있으며, 이는 사전 통지와 함께 당사의 단독 재량으로 변경될 수 있습니다.
-7. PancakeSwap에 대해 하는 모든 발언은 정직한 의견, 믿음 또는 경험을 반영해야 하며 허위이거나 오해의 소지가 있거나 근거가 없어서는 안 됩니다.
-8. 초대할 수 있는 추천 대상의 수에는 제한이 없습니다.
-9. PancakeSwap은 언제든지 어떤 이유로든 누구에게나 서비스를 거부할 권리를 보유합니다.
-10. 다음 활동을 해서는 안 됩니다.\
+1. The Program offers you the opportunity to get paid different commission rates, by means of inviting new users (“Referrals”) to register and trade on PancakeSwap.&#x20;
+2. A Referral must be a new user and must not have interacted or signed with the PancakeSwap platform or used any of PancakeSwap’s services (including but not limited to V2, V3 swapping services, perpetual trading, Non-Fungible Tokens and related services, initial farm offerings and similar offerings) (“PancakeSwap Services”).&#x20;
+3. We will provide you with a unique referral link which will allow our system to track your Referrals and their trading activities. We will only pay commissions for Referrals who have signed up through your unique referral link. We will not pay commissions if someone says they signed up through you but such a sign up was not done through the referral link.&#x20;
+4. All commissions are calculated upon the completion of every on-chain transaction and denominated in U.S. dollars as follows.&#x20;
+5. All commissions will be paid out in CAKE tokens.&#x20;
+6. You may request to redeem your commissions once a month, subject to changes made in our sole discretion, with notice to you.&#x20;
+7. Any statements you make about PancakeSwap must reflect your honest opinions, beliefs, or experiences and must not be false, misleading, or unsupported.&#x20;
+8. There is no limit on the number of Referrals that you may invite.&#x20;
+9. PancakeSwap reserves the right to refuse service to anyone for any reason at any time.&#x20;
+10. You shall not engage in the following activities: \
     \
-    (a) 다음과 같은 콘텐츠의 제작 및/또는 게시: (i) 불법적이거나, 해롭거나, 위협적이거나, 모욕적이거나, 괴롭히거나, 불법행위에 해당하거나, 명예를 훼손하거나, 저속하거나, 음란하거나, 비방적이거나, 타인의 사생활을 침해하거나, 혐오적(인종적, 민족적 또는 기타)이거나, 어떤 형태로든 편견을 담은 콘텐츠, (ii) 계약이나 법률을 위반하거나, 기밀 유지 의무를 위반하거나, 저작권 또는 데이터 보호 권리를 침해하거나, 법정 모독에 해당할 가능성이 있는 콘텐츠, (iii) 오해를 불러일으키거나, 사실을 왜곡하거나, 사기적이거나 허위인 콘텐츠, (iv) 지나치게 공격적이거나 의심스러운 판매 또는 마케팅 방식을 구성하는 콘텐츠,\
-    (b) 활동 과정에서 투자, 투자 결과, 수익 가능성 또는 투자 적합성에 관한 진술이나 조언을 하는 것. 예를 들어 CAKE 토큰에 대한 가격 예측을 해서는 안 됩니다.\
-    (c) 프로그램을 불법적이거나 승인되지 않은 목적으로 사용하거나 거주 관할권의 법률(저작권법을 포함하되 이에 국한되지 않음)을 위반하는 방식으로 사용하는 것, 및/또는\
-    (d) 자신의 추천 링크를 사용하여 자기 자신(또는 본인이 통제하는 계정/법인)을 추천하는 것.\
-    (e) PancakeSwap 서비스의 기존 사용자 또는 이전 사용자가 새 주소를 만들어 내 추천 링크로 가입하도록 유도하거나 유발하는 것
+    (a) creating and/or publishing content that is: (i) unlawful, harmful, threatening, abusive, harassing, tortious, defamatory, vulgar, obscene, libellous, invasive of another’s privacy, hateful (racially, ethnically, or otherwise), and/or prejudicial in any form; (ii) likely to breach any contract or law or breach any duty of confidentiality, infringe any copyright or data protection rights, or constitute contempt of court; (iii) misleading, misrepresentative, fraudulent or false; (iv) constitute overly aggressive, questionable sales or marketing methods; \
+    (b) making any representations or providing advice, in the course of your performance regarding investments, investment outcomes, the likelihood of returns, or suitability for investment. For example, you should not make any price predictions over the CAKE tokens; \
+    (c) using the Program for any illegal or unauthorised purpose or in a way which violate any laws in your jurisdiction (including but not limited to copyright laws); and/or \
+    (d) self-referring yourself (or accounts/entities controlled by you) using your own referral link. \
+    (e) directing or causing existing users or previous users of PancakeSwap Services to create new addresses to sign up with your referral link

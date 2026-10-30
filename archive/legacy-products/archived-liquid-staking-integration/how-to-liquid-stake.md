@@ -1,30 +1,30 @@
 ---
-description: 'PancakeSwap에서 리퀴드 스테이킹하는 단계별 가이드:'
+description: 'Step-by-Step Guide to Liquid Stake on PancakeSwap:'
 ---
 
-# 리퀴드 스테이킹 방법
+# How To Liquid Stake
 
 {% hint style="danger" %}
-\[보관됨] 리퀴드 스테이킹
+\[Archived] Liquid Staking
 {% endhint %}
 
-PancakeSwap에서 ETH를 WBETH로 전환하고 스왑하는 것은 매우 간단합니다. 방법은 다음과 같습니다.
+Converting and swapping ETH to WBETH on PancakeSwap is a breeze. Here’s how to do it:
 
-ETH를 스테이킹하고 WBETH를 받으려면:
+To stake ETH and receive WBETH:
 
-1. [PancakeSwap](https://pancakeswap.finance/)으로 이동하여 지갑을 연결합니다. WBETH로 전환할 ETH가 Ethereum 또는 BNB 체인 네트워크의 지갑에 있는지 확인하세요.
-2. "Earn" 탭으로 이동하여 ["리퀴드 스테이킹"](https://pancakeswap.finance/liquid-staking)을 선택합니다.
-3.  선택한 스테이킹 페어가 ETH/WBETH인지 확인하고 "진행"을 클릭합니다.
+1. Head over to [PancakeSwap](https://pancakeswap.finance/) and connect your wallet. Ensure you have ETH in your wallet on either Ethereum or BNB Chain network to convert to WBETH.&#x20;
+2. Navigate to the "Earn" tab and select ["Liquid Staking”](https://pancakeswap.finance/liquid-staking)&#x20;
+3.  Confirm the stake pair chosen is ETH/WBETH and click “proceed”.&#x20;
 
-    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/liquid-staking%20(1).png" alt=""><figcaption></figcaption></figure>
-4.  전환하려는 ETH 금액을 입력하고 그에 해당하는 WBETH 금액을 확인합니다. 참고: WBETH 토큰의 가치는 누적된 스테이킹 보상으로 인해 ETH 대비 상승합니다.
+    <figure><img src="../../../.gitbook/assets/liquid-staking (1).png" alt=""><figcaption></figcaption></figure>
+4.  Enter the amount of ETH you want to convert and check the corresponding amount in WBETH. Reminder: The value of the WBETH token will appreciate with respect to ETH due to the staking rewards accrued.&#x20;
 
-    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/liquid-staking%20(2).png" alt=""><figcaption></figcaption></figure>
-5. 스테이킹을 클릭하여 WBETH 토큰을 활성화합니다. 다시 스테이킹을 클릭하여 지갑에서 거래를 확인하면 완료입니다! WBETH 토큰이 지갑에 입금됩니다.
+    <figure><img src="../../../.gitbook/assets/liquid-staking (2).png" alt=""><figcaption></figcaption></figure>
+5. Click stake to enable WBETH token. Click stake again to confirm the transaction in your wallet, and voila! Your WBETH tokens will be credited to your wallet.
 
-WBETH를 ETH로 스왑하려면:
+To swap WBETH to ETH:
 
-1. ["거래"](https://pancakeswap.finance/swap?inputCurrency=0xa2E3356610840701BDf5611a53974510Ae27E2e1\&outputCurrency=0x2170Ed0880ac9A755fd29B2688956BD959F933F8) 탭으로 이동합니다.
-2. 입력 토큰으로 "WBETH"를, 출력 토큰으로 "ETH"를 선택합니다.
-3. 스왑하려는 WBETH 금액을 입력하고 "스왑"을 클릭합니다.
-4. 지갑에서 거래를 확인하면 스왑된 ETH가 지갑 잔액에 추가됩니다.
+1. Navigate to the ["Trade"](https://pancakeswap.finance/swap?inputCurrency=0xa2E3356610840701BDf5611a53974510Ae27E2e1\&outputCurrency=0x2170Ed0880ac9A755fd29B2688956BD959F933F8) tab.&#x20;
+2. Choose "WBETH" as the input token and "ETH" as the output token.&#x20;
+3. Input the amount of WBETH you want to swap and click "Swap".&#x20;
+4. Confirm the transaction in your wallet, and your swapped ETH will be added to your wallet balance

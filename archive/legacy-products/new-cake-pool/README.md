@@ -1,74 +1,74 @@
-# \[아카이브] CAKE 시럽 풀
+# \[Archived] CAKE Syrup Pool
 
 ##
 
 {% hint style="danger" %}
-이 제품은 지원이 종료되었습니다. CAKE 스테이킹은 새로운 veCAKE를 확인하세요.
+This product has been deprecated. Check out the new veCAKE for CAKE staking.
 {% endhint %}
 
-## CAKE를 스테이킹하고 CAKE를 얻으세요!
+## Stake CAKE, earn CAKE!
 
-PancakeSwap은 이제 플렉시블 스테이킹 또는 고정 기간 스테이킹이라는 두 가지 스테이킹 옵션이 있는 하나의 CAKE 시럽 풀을 제공합니다. 플렉시블 및 고정 기간 스테이킹이 있는 새로운 CAKE 시럽 풀이 출시되면 Auto CAKE, IFO CAKE, Manual CAKE 풀은 종료됩니다. 자세한 내용은 계속 읽어 보세요!
+PancakeSwap now offers one CAKE Syrup Pool with two staking options: flexible staking or fixed-term staking. Note that the Auto CAKE, IFO CAKE, and Manual CAKE pools will be retired upon the launch of the new CAKE Syrup Pool with flexible and fixed-term staking. Keep reading on to learn more!
 
-![\*Note that actual values will vary](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Stake%20-%20before%20enable.png)
+![\*Note that actual values will vary](<../../../.gitbook/assets/Stake - before enable.png>)
 
-## "플렉시블"과 "고정 기간" 스테이킹의 차이점은 무엇인가요?
+## What’s the difference between “Flexible” and “Fixed-Term” staking?
 
-두 방식 모두 예치 수수료 없이 CAKE 토큰을 스테이킹하여 더 많은 CAKE 토큰을 얻을 수 있습니다. 플렉시블 스테이킹은 사용자가 CAKE를 스테이킹하고 원할 때 언제든지 언스테이킹할 수 있으면서 보상을 얻을 수 있게 합니다. 고정 기간 스테이킹은 사용자가 선택한 기간 동안 스테이킹된 CAKE를 락하여 수익을 극대화하고 플렉시블 스테이킹에 비해 선형적으로 부스트된 수익으로 더 많은 CAKE를 얻을 수 있게 합니다.
+With both, you can simply stake your CAKE tokens to earn more CAKE tokens with no deposit fees. Flexible staking allows users to stake CAKE and earn rewards with the ability to unstake whenever they please. Fixed-term staking allows users to maximise their yield and earn even more CAKE by locking their staked CAKE for a period of time they choose, earning a linearly boosted yield compared to flexible staking.
 
-플렉시블 스테이킹과 고정 기간 스테이킹은 모두 같은 풀의 일부이므로 두 스테이킹 옵션 간에 쉽게 이동할 수 있습니다. 다만 고정 기간 스테이킹을 할 때 별도로 플렉시블 CAKE 스테이킹을 함께 할 수 있는 옵션이 있습니다.
+Flexible staking and fixed-term staking are both part of the same pool to allow users easy migration between the two staking options. However, when you do fixed-term staking, there is an option to perform flexible CAKE staking on the side.
 
-### 플렉시블 스테이킹
+### Flexible Staking
 
-CAKE를 스테이킹하고 잊어버리세요! CAKE 보상은 소정의 수수료(기존 Auto CAKE 시럽 풀과 동일)를 제외하고 자동으로 분배되어 스테이킹 잔액에 포함됩니다.
+Stake your CAKE and forget about it! CAKE rewards will be automatically distributed and included in your staking balance, minus a small fee (same as the old Auto CAKE Syrup Pool).
 
-**플렉시블 스테이킹에 CAKE를 스테이킹한 경우**
+**If you have CAKE staked in flexible staking**
 
-* ✅ 플렉시블 스테이킹에 CAKE 추가
-* ✅ 언제든지 보상 수확
-* ✅ 언제든지 출금 (처음 72시간 동안은 수수료 적용, 아래 참조)
-* ✅ 플렉시블에 스테이킹된 모든 CAKE를 고정 기간 스테이킹으로 전환
-* ❌ 플렉시블 스테이킹에 CAKE가 있는 경우 고정 기간 스테이킹에 CAKE 추가
-* ❌ 플렉시블에 스테이킹된 CAKE의 일부를 고정 기간 스테이킹으로 전환
+* ✅ Add more CAKE to flexible staking
+* ✅ Harvest rewards any time
+* ✅ Withdraw any time (fees apply for the first 72 hours, see below)
+* ✅ Convert all staked CAKE in flexible to fixed-term staking
+* ❌ Add CAKE to fixed-term staking if you have any CAKE in flexible staking
+* ❌ Convert part of the staked CAKE in flexible to fixed-term staking
 
-**언스테이킹 수수료**
+**Unstaking fee**
 
-* **72시간 이내에 언스테이킹(출금)하는 경우 0.1%.**
-* 수동으로 스테이킹한 후 3일 이내에만 적용됩니다.
-* 3일 후에는 **수수료 없이** 언스테이킹할 수 있습니다.
-* 풀에 CAKE를 수동으로 더 스테이킹할 때마다 3일 타이머가 초기화됩니다.
-* 이 수수료는 수동 언스테이킹에만 적용되며 자동 복리에는 적용되지 않습니다.
+* **0.1%  if you unstake (withdraw) within 72 hours.**
+* Only applies within 3 days of manually staking.
+* After 3 days, you can unstake with **no fee**.
+* The 3-day timer resets every time you manually stake more CAKE in the pool.
+* This fee only applies to manual unstaking: it does not apply to automatic compounding.
 
-**성과 수수료**
+**Performance fee**
 
-* **2%, 수익 수확 시마다 자동으로 차감됩니다**.
-* 예를 들어 수확량이 1 CAKE라면 성과 수수료로 0.02 CAKE가 차감됩니다.
+* **2%, subtracted automatically from each yield harvest**.
+* For example, if the harvest were 1 CAKE, then 0.02 CAKE would be subtracted as the performance fee.
 
-언스테이킹 수수료와 성과 수수료로 모인 CAKE는 정기적인 CAKE 토큰 소각의 일환으로 **매주 소각**됩니다.
+The CAKE collected via the unstaking fee and performance fee is **burned every week** as part of the regular CAKE token burns.
 
-이는 존재하는 CAKE 토큰의 총량을 줄여 인플레이션을 줄이는 데 도움이 되므로 CAKE 보유자에게 좋은 일입니다.
+This is a good thing for CAKE holders because it reduces the overall amount of CAKE tokens in existence, which helps reduce inflation.
 
-### 고정 기간 스테이킹
+### Fixed-Term Staking
 
-CAKE를 일정 기간 동안 스테이킹하여 수익을 극대화하고 추가 혜택을 받으세요! CAKE 보상은 스테이킹 기간이 끝날 때까지 스테이킹된 CAKE와 함께 락됩니다.
+Stake your CAKE for a fixed amount of time to maximise yields and receive additional benefits! CAKE rewards will be locked along with the staked CAKE until the staking duration ends.
 
-* 성과 수수료 없음
-* 락 기간이 길수록 수익에 적용되는 부스트가 높아집니다! 항상 플렉시블 스테이킹보다 높은 수익을 제공합니다!
-* CAKE 보상은 락 기간이 만료되면 스테이킹된 CAKE와 함께 락이 해제됩니다.
-* 고정 기간 스테이킹에 스테이킹하면 락 기간이 끝날 때까지 출금할 수 없습니다.
-* 🎁 다음과 같은 혜택을 누리세요.
-  * 🗳️ 부스트된 투표권: [vCAKE](../../../pancakeswap/vecake-sunset/archive-vecake/vecake.md)
-  * 🚜 부스트된 파밍 수익: [bCAKE](../../../pancakeswap/vecake-sunset/bcake/)
-  * 🛍️ IFO 퍼블릭 세일 참여: [iCAKE](../../../pancakeswap/vecake-sunset/icake.md)
-  * ✨ 우선 접근 또는 특별 이벤트
-  * 그리고 진행 중인 멀티체인 확장에서 훨씬 더 많은 혜택!
+* No performance fees
+* The longer you lock, the higher the boost applied to the yield! Always offering a higher yield compared to flexible staking!
+* CAKE rewards will unlock, along with your staked CAKE, when your lock duration expires
+* Once staked in fixed-term staking, you cannot withdraw until the end of your lock duration.
+* 🎁 Enjoy benefits such as:
+  * 🗳️ Boosted voting power: [vCAKE](../../../welcome-to-pancakeswap/vecake-sunset/archive-vecake/vecake.md)
+  * 🚜 Boosted farm yields: [bCAKE](../../../welcome-to-pancakeswap/vecake-sunset/bcake/)
+  * 🛍️ IFO public sale entry: [iCAKE](../../../welcome-to-pancakeswap/vecake-sunset/icake.md)
+  * ✨ Priority access or special events
+  * and so much more in our ongoing multichain expansion!
 
-**고정 기간 스테이킹에 CAKE를 락한 경우**
+**If you have CAKE locked in fixed-term staking**
 
-* ✅ 락에 CAKE 추가
-* ✅ 락 기간 연장
-* ✅ 별도로 플렉시블 스테이킹 병행
-* ❌ 보상 수확
-* ❌ 락이 끝나기 전 출금
+* ✅ Add more CAKE to lock
+* ✅ Extend the lock period
+* ✅ Perform flexible staking on the side
+* ❌ Harvest rewards
+* ❌ Withdraw before the lock ends
 
-_\*페이지 업데이트 날짜: 2022-12-05_
+_\*page updated on: 2022-12-05_
