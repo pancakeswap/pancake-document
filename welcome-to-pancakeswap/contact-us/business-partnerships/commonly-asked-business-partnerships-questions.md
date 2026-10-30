@@ -12,7 +12,7 @@ Se você já tem um Syrup Pool em andamento, pode estender o prazo com liberaç�
 
 #### Como posso listar meu token na corretora?
 
-Qualquer pessoa pode "listar" qualquer token de rede ERC-20 / BEP-20 no PancakeSwap. Você não precisa entrar em contato conosco ou pedir permissão. Você apenas precisa [adicionar liquidez a um pool de liquidez](https://docs.pancakeswap.finance/products/pancakeswap-exchange/pancakeswap-pools) - só isso. Os traders poderão então negociar seu token inserindo o endereço do contrato do seu token.
+Qualquer pessoa pode "listar" qualquer token de rede ERC-20 / BEP-20 no PancakeSwap. Você não precisa entrar em contato conosco ou pedir permissão. Você apenas precisa [adicionar liquidez a um pool de liquidez](https://docs.pancakeswap.finance/earn/pancakeswap-pools) - só isso. Os traders poderão então negociar seu token inserindo o endereço do contrato do seu token.
 
 #### Como posso adicionar meu token à lista padrão?
 
@@ -30,7 +30,7 @@ Devido à natureza do PancakeSwap como uma DEX baseada em AMM, não podemos impe
 
 #### As pessoas recebem um erro ao negociar meu token. O que posso fazer?
 
-Verifique nossa [página de Solução de Problemas](https://docs.pancakeswap.finance/readme/help/troubleshooting) para uma lista de erros comuns na corretora e como resolvê-los.
+Verifique nossa [página de Solução de Problemas](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/faq/troubleshooting) para uma lista de erros comuns na corretora e como resolvê-los.
 
 #### Por que algumas estatísticas do meu token não aparecem na página de Informações?
 

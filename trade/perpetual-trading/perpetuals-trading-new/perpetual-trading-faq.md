@@ -61,4 +61,4 @@ As taxas para o PancakeSwap Perpetuals são as seguintes:
 
 ### **Quais jurisdições estão restritas de usar o produto?** <a href="#whats-the-difference-between-a-maker-and-taker-order" id="whats-the-difference-between-a-maker-and-taker-order"></a>
 
-Usuários localizados nos ou acessando o serviço a partir dos Estados Unidos da América, Canadá, Reino Unido, China, Coreia do Norte, Rússia, Ucrânia, Cuba, Irã, Venezuela ou Síria não estão autorizados a usar o produto. O acesso pode ser restrito ou bloqueado de acordo com os requisitos regulatórios e de conformidade aplicáveis.
+Usuários localizados nos ou acessando o serviço a partir dos Estados Unidos da América, Canadá, Reino Unido, China, Coreia do Norte, Coreia do Sul, Rússia, Ucrânia, Cuba, Irã, Venezuela ou Síria não estão autorizados a usar o produto. O acesso pode ser restrito ou bloqueado de acordo com os requisitos regulatórios e de conformidade aplicáveis.

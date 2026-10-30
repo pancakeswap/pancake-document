@@ -11,7 +11,7 @@ Com a implantação multichain, a PancakeSwap está trazendo a icônica experiê
 
 Confira a [seção principal](../) para saber mais sobre yield farming.
 
-Confira nosso [guia Como Usar os Farms](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) para começar a fazer farming.
+Confira nosso [guia Como Usar os Farms](https://docs.pancakeswap.finance/earn/yield-farming/how-to-use-farms/how-to-use-farms) para começar a fazer farming.
 
 {% hint style="warning" %}
 O Yield Farming pode oferecer recompensas melhores do que os Syrup Pools, mas apresenta o risco de **Perda Impermanente**. Não é tão assustador quanto parece, mas vale a pena aprender o conceito antes de começar.

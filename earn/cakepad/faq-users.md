@@ -5,7 +5,7 @@
 * Um evento CAKE.PAD permite que os usuários tenham acesso antecipado a tokens de novos projetos bem no momento do lançamento.
 * Os usuários obtêm novos tokens de projetos com **CAKE**.
 * Os projetos ganham liquidez, visibilidade e acesso direto à comunidade da PancakeSwap.
-* Isso pode ocorrer em BNB, Base, ARB, ETH, Linea ou opBNB
+* Isso pode ocorrer em BNB Chain, Base ou Monad
 
 ### 2. Quem é elegível para participar?
 

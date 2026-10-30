@@ -7,7 +7,7 @@ description: Faça Bridge de CAKE entre chains EVM e Aptos
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28113%29.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-O guia a seguir usa a BNB Chain como exemplo de uma chain EVM. O mesmo processo pode ser aplicado ao Ethereum.
+O guia a seguir usa a BNB Chain como exemplo de uma chain EVM. O mesmo processo pode ser aplicado ao Ethereum para fazer bridge **para** a Aptos. Fazer bridge **a partir da** Aptos atualmente só oferece suporte à BNB Smart Chain como destino.
 {% endhint %}
 
 ## Fazer Bridge de CAKE da BNB Smart Chain para Aptos

@@ -10,7 +10,7 @@ Em troca de adicionar liquidez, você receberá taxas de negociação para esse 
 
 Para fornecer liquidez, você precisará comprometer uma quantia de qualquer par de tokens que desejar. Seu menor valor (em USD) dos dois tokens será o limite para a liquidez que você pode fornecer.
 
-Você pode trocar facilmente por quaisquer tokens necessários. Visite nosso guia [Como Negociar na PancakeSwap](https://docs.pancakeswap.finance/get-started/trade-guide) se precisar.
+Você pode trocar facilmente por quaisquer tokens necessários. Visite nosso guia [Como Negociar na PancakeSwap](https://docs.pancakeswap.finance/trade/pancakeswap-exchange/trade-guide) se precisar.
 
 Neste exemplo, adicionaremos liquidez V3 usando ETH e USDC.
 

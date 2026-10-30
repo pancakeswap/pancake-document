@@ -16,7 +16,7 @@ ALP é um token que alimenta a liquidez no PancakeSwap Perpetuals V2. Os usuári
 
 1. Clique em **Fazer Staking Agora** na Página do Painel ALP do Pancake, ou clique [aqui](https://pancakeswap.finance/pools?chain=arb)
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/png%20(4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/png%20%284%29.png).png" alt=""><figcaption></figcaption></figure>
 
 2. Selecione o Syrup Pool CAKE-ALP
 3. **Habilite** o ALP e clique em **Staking**

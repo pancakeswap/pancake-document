@@ -15,7 +15,7 @@ Você pode jogar PancakeSwap Prediction em:
 
 ### Resumo: Como Funciona
 
-1. **Escolha um ativo para apostar**: Disponível atualmente na **BNB Chain**, **zkSync Era** e **Arbitrum One**.
+1. **Escolha um ativo para apostar**: Disponível atualmente na **BNB Chain**; os mercados na **zkSync Era** e na **Arbitrum One** estão temporariamente pausados.
 2. **Escolha CIMA ou BAIXO**: Preveja se o preço do ativo estará mais alto ou mais baixo quando a fase "AO VIVO" terminar (cada rodada = 5 minutos).
 3. Informe o valor da aposta: Qualquer quantidade de BNB
 4. **Confirme sua posição**: Uma vez registrada, sua aposta não pode ser alterada.
@@ -25,7 +25,7 @@ Você pode jogar PancakeSwap Prediction em:
 
 ### Mecânicas e Taxas
 
-* **Redes suportadas: BNB Chain, zkSync Era, Arbitrum One**
+* **Redes suportadas: BNB Chain (ativa); zkSync Era, Arbitrum One (pausadas)**
 * **Frequência das rodadas**: A cada **5 minutos** (rodadas contínuas).
 * **Taxa de participação**: **3%** do prêmio total de cada rodada, parte do qual é destinado à recompra de CAKE.
 * **Ganhos**: Resgate a qualquer momento após a finalização dos resultados.

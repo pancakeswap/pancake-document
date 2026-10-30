@@ -8,7 +8,7 @@ hidden: true
 
 ### Qual duração de bloqueio podemos escolher?
 
-Você pode escolher de 1 a 52 semanas. O que você prefere?
+Você pode escolher de 1 semana até 4 anos.
 
 ### Quais variáveis afetam os rendimentos (%) do novo Syrup Pool CAKE (opções de Staking Flexível e Prazo Fixo)?
 

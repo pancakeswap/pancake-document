@@ -110,5 +110,5 @@ Durante o período de vesting, você pode retornar à página do evento CAKE.PAD
 
 Agora que você tem seus novos tokens, pode colocá-los para trabalhar! Você pode adicionar liquidez para seu token para receber taxas de negociação e farming.
 
-* Leia sobre como adicionar liquidez [aqui](https://docs.pancakeswap.finance/get-started/liquidity-guide).
+* Leia sobre como adicionar liquidez [aqui](https://docs.pancakeswap.finance/earn/pancakeswap-pools/liquidity-guide).
 * Leia sobre farming [aqui](../yield-farming/).

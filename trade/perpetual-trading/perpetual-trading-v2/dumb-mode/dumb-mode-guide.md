@@ -10,7 +10,7 @@ Para fazer uma ordem no Dumb Mode no PancakeSwap, siga estes passos:
 
 2. Clique no **Ícone Dumb (Beta).** A interface de posição mudará para o modo Dumb.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Module_Order%20(1).png" alt="" width="338"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Module_Order%20%281%29.png).png" alt="" width="338"><figcaption></figcaption></figure>
 
 2. Selecione a Posição: Escolha fazer long ou short do ativo subjacente\*
    1. Para posições long: Se o preço de expiração for maior que o preço de entrada, o usuário vencerá o trade e terá lucro.&#x20;
@@ -34,7 +34,7 @@ Para fazer uma ordem no Dumb Mode no PancakeSwap, siga estes passos:
 
 7. Liquidação: Após a conclusão do trade, se bem-sucedido, seu ROI será creditado menos a taxa de 6%. Se o trade não for bem-sucedido, a perda será de 100%.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Module_Bottom%20(1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Module_Bottom%20%281%29.png).png" alt=""><figcaption></figcaption></figure>
 
 ### Nota Extra sobre a Posição
 

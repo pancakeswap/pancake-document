@@ -27,7 +27,7 @@ Após conectar, você verá as seguintes informações:
 4. **Minhas Recompensas Totais**: O total de CAKE que você tem direito a resgatar e reivindicar, composto por:
 
 * **Recompensas do Pool de CAKE**: Recompensas legadas do Pool de CAKE
-* **Recompensas de Compartilhamento de Receita**: Obtidas por fazer Staking de CAKE ([Mais informações](https://docs.pancakeswap.finance/earn/cake-staking/revenue-sharing/earn-cake-weekly))
+* **Recompensas de Compartilhamento de Receita**: Obtidas por fazer Staking de CAKE ([Mais informações](https://docs.pancakeswap.finance/welcome-to-pancakeswap/vecake-sunset/archive-vecake/earn-cake-weekly))
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Connected%20view%20balance.png" alt=""><figcaption></figcaption></figure>
 

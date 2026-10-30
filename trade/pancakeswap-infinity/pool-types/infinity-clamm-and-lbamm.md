@@ -70,7 +70,7 @@ As taxas dinâmicas oferecem máxima flexibilidade e otimizam as estruturas de t
 | ----------------- | --------------------- |
 | 1%               | 0,33%                 |
 | 2%               | 0,4% (limitado)       |
-| Pool de Taxa Dinâmica | 0%               |
+| Pool de Taxa Dinâmica | 0.03% (padrão atual) |
 
 #### 🛠️ Notas de Configuração para Criadores de Pool
 

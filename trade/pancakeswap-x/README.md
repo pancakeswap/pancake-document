@@ -8,7 +8,7 @@ PancakeSwap X apresenta uma maneira totalmente nova de negociar seus ativos favo
 * Swaps sem gas
 
 {% hint style="success" %}
-**PancakeSwap X está disponível no Arbitrum, Ethereum e Base, suportando tokens de criptomoeda, e na BNB Chain, suporta apenas ativos do mundo real (RWAs).**
+**PancakeSwap X está disponível no Arbitrum, Ethereum, BNB Chain, Base e Robinhood Chain, suportando swaps de tokens de criptomoeda. Ativos do mundo real (RWAs) são suportados adicionalmente na BNB Chain, Ethereum e Robinhood Chain.**
 {% endhint %}
 
 > **Quer integrar? Confira o guia técnico para integração do PancakeSwap X** [**aqui**](https://www.notion.so/PCSX-Tech-Integration-Guide-0eb33e93295644e9855ec2c34b58b0c4?source=copy_link)**.**

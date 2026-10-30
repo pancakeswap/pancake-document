@@ -235,6 +235,6 @@ Você pode ver essa taxa na sua carteira ao confirmar após clicar em **Harvest*
 
 Isso mostra a taxa de colheita conforme aparece na carteira MetaMask. Carteiras diferentes mostrarão as informações de forma ligeiramente diferente. Considere deixar suas recompensas crescerem por um tempo para pagar taxas com menos frequência.
 
-E é isso! Você também pode querer dar uma olhada em [como usar os Syrup Pools da PancakeSwap](https://docs.pancakeswap.finance/get-started/syrup-pool-guide) para ganhar recompensas.
+E é isso! Você também pode querer dar uma olhada em [como usar os Syrup Pools da PancakeSwap](https://docs.pancakeswap.finance/earn/cake-staking/syrup-pool/syrup-pool-guide) para ganhar recompensas.
 
 Bom farming!

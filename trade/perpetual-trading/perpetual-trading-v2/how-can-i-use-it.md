@@ -4,7 +4,7 @@ description: Como usar o Trading de Perpétuos V2
 
 # Como posso usar?
 
-![](<https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-pancakeswap-without-cex-header%20(1).png>)
+![](<https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-pancakeswap-without-cex-header%20%281%29.png).png>)
 
 Usar esta funcionalidade é muito fácil (a parte difícil é negociar bem). Só precisamos seguir uma série de passos para que nossa experiência seja completa. Para mais informações, visite o [Glossário V2](perpetuals-glossary.md).
 

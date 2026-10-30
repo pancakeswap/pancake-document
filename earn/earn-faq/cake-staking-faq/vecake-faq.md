@@ -114,8 +114,8 @@ O vCAKE de Votação agora foi atualizado para suportar veCAKE. Confira:
 
 Todos os detentores de veCAKE (nativos ou migrados) serão automaticamente inscritos no novo pool de compartilhamento de receita. As parcelas de receita são distribuídas de acordo com o cronograma existente. O antigo pool de compartilhamento de receita será descontinuado; os usuários podem reivindicar suas recompensas pendentes pelo card de benefícios. Confira:
 
-{% content-ref url="/broken/pages/wQegezs7c6A2HzQjPEjh" %}
-[Broken link](/broken/pages/wQegezs7c6A2HzQjPEjh)
+{% content-ref url="revenue-sharing-faq.md" %}
+[Revenue Sharing FAQ](revenue-sharing-faq.md)
 {% endcontent-ref %}
 
 #### Carteiras multisig podem ser usadas para interagir com o veCAKE?
@@ -162,4 +162,4 @@ Para aumentar a emissão para este gauge, confira a [Votação de Gauge](../../.
 
 Este é o incentivo proveniente do compartilhamento de receita do protocolo, proveniente das taxas de swap coletadas nos produtos DEX.
 
-Confira [Compartilhamento de Receita](/broken/pages/wQegezs7c6A2HzQjPEjh) para mais informações.
+Confira [Compartilhamento de Receita](revenue-sharing-faq.md) para mais informações.

@@ -10,19 +10,19 @@ Vá para [pancakeswap.finance/perps](https://pancakeswap.finance/perps) ou cliqu
 
 Clique em Conectar Carteira no canto superior direito. Não é necessário criar conta ou passar por KYC — sua carteira é sua conta.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(7).png" alt="" width="507"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%287%29.png).png" alt="" width="507"><figcaption></figcaption></figure>
 
 ### **Escolha um par de trading**
 
 Clique no nome do par no topo da página para abrir o seletor de ativos. Uma grande variedade de pares de tokens está disponível.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(300).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28300%29.png).png" alt=""><figcaption></figcaption></figure>
 
 ### **Minha Aposta — Tamanho da Posição**
 
 Insira o quanto você deseja investir, ou toque nos botões predefinidos — **25%**, **50%** ou **MAX** — para dimensionar sua posição como uma fração do saldo disponível no seu fundo de perps.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(337).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28337%29.png).png" alt=""><figcaption></figcaption></figure>
 
 ### **Alavancagem**
 
@@ -30,13 +30,13 @@ Use o slider ou toque em um valor predefinido — **50×**, **100×**, **150×**
 
 Quando a alavancagem é alta o suficiente para apresentar risco significativo de Liquidação, um indicador de **Risco Amplificado** aparece como aviso.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(319).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28319%29.png).png" alt=""><figcaption></figcaption></figure>
 
 ### **Um toque para abrir**
 
 Toque em **CIMA** para ir long ou em **BAIXO** para ir short. Sua posição abre imediatamente ao melhor preço de mercado disponível.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(341).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28341%29.png).png" alt=""><figcaption></figcaption></figure>
 
 ### **Tocar várias vezes**
 
@@ -51,7 +51,7 @@ Pense em cada toque como adicionar ou subtrair uma unidade em uma direção. É 
 
 Sua ordem aparecerá em **Posições** enquanto aguarda ser preenchida.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(352).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28352%29.png).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
