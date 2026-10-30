@@ -1,35 +1,35 @@
-# Terms & Conditions
+# 이용 약관
 
 {% hint style="danger" %}
-&#x20;\[Archived] Simple Staking – As of 10th March 2025
+\[보관됨] 심플 스테이킹 – 2025년 3월 10일 기준
 {% endhint %}
 
-1\. Simple Staking
+1\. 심플 스테이킹
 
-1.1 For Simple Staking:
+1.1 심플 스테이킹의 경우:
 
-1.1.1 Simple Staking Rewards:
+1.1.1 심플 스테이킹 보상:
 
-1.1.1.1 start accruing at the Simple Staking Rewards Rate from the day after staking. Simple Staking Rewards will accrue from day to day and will be calculated on the basis of the number of days elapsed and a 365-day year. You do not earn any Simple Staking Rewards for the first day;
+1.1.1.1 스테이킹 다음 날부터 심플 스테이킹 보상률로 적립되기 시작합니다. 심플 스테이킹 보상은 매일 적립되며 경과 일수와 365일 기준 연도를 바탕으로 계산됩니다. 첫날에는 심플 스테이킹 보상을 받지 못합니다.
 
-1.1.1.2 are provided in the same digital currency as your Simple Staking tokens, unless otherwise stated;
+1.1.1.2 달리 명시되지 않는 한 심플 스테이킹 토큰과 동일한 디지털 통화로 제공됩니다.
 
-1.1.1.3 will be calculated by reference to the Simple Staking Rewards Rate on the day the Simple Staking Rewards accrues;
+1.1.1.3 심플 스테이킹 보상이 적립되는 날의 심플 스테이킹 보상률을 기준으로 계산됩니다.
 
-1.1.1.4 are rounded down to decimal places which may differ depending on the Digital Currency.
+1.1.1.4 디지털 통화에 따라 달라질 수 있는 소수점 자리까지 내림하여 계산됩니다.
 
-1.1.2 the Simple Staking Rewards Rate:
+1.1.2 심플 스테이킹 보상률:
 
-1.1.2.1 may vary from time to time; and
+1.1.2.1 수시로 변동될 수 있으며, 그리고
 
-1.1.2.2 if it is changed, it will apply from the time and date specified by PancakeSwap in partnership with the Binance Earn team. If no time is specified, it will be 00:00 UTC on the day PancakeSwap announces the change will take effect.
+1.1.2.2 변경되는 경우 PancakeSwap이 Binance Earn 팀과 협력하여 지정한 시간과 날짜부터 적용됩니다. 시간이 지정되지 않은 경우 PancakeSwap이 변경 시행을 공지한 날의 00:00 UTC가 됩니다.
 
-1.1.3 Redemption:
+1.1.3 상환:
 
-1.1.3.1 PancakeSwap will return Simple Staking Assets to you within 72 hours from the end of the Locked Simple Staking Term;
+1.1.3.1 PancakeSwap은 락 심플 스테이킹 기간이 종료된 때로부터 72시간 이내에 심플 스테이킹 자산을 반환합니다.
 
-1.1.3.2 in some circumstances, including but not limited to events of extreme market volatility, network delays, a significant number of simultaneous instructions to Redeem from other PancakeSwap users, or there are any other unanticipated events that or mean that your Redemption may be delayed;
+1.1.3.2 극심한 시장 변동성, 네트워크 지연, 다른 PancakeSwap 사용자들의 다수의 동시 상환 지시, 또는 예상치 못한 기타 사건을 포함하되 이에 국한되지 않는 일부 상황에서는 상환이 지연될 수 있습니다.
 
-1.1.3.4 PancakeSwap may specify a maximum number of Simple Staking Assets available for Redemption each day.
+1.1.3.4 PancakeSwap은 하루에 상환할 수 있는 심플 스테이킹 자산의 최대 수량을 지정할 수 있습니다.
 
 <br>

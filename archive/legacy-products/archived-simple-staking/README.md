@@ -1,51 +1,49 @@
 ---
-description: PancakeSwap has partnered with Binance Earn to offer Simple Staking
+description: PancakeSwap은 Binance Earn과 협력하여 심플 스테이킹을 제공합니다
 ---
 
-# 🤝 \[Archived] Simple Staking
+# 🤝 \[아카이브] 심플 스테이킹
 
 {% hint style="danger" %}
-&#x20;\[Archived] Simple Staking – As of 10th March 2025
+\[보관됨] 심플 스테이킹 – 2025년 3월 10일 기준
 {% endhint %}
 
-### What is Simple Staking?
+### 심플 스테이킹이란 무엇인가요?
 
-PancakeSwap has partnered with Binance Earn to offer Simple Staking. This allows PancakeSwap users to enjoy the single-sided staking of popular tokens such as CAKE, USDC and USDT on the BNB Chain, supported by Binance Simple Earn.
+PancakeSwap은 Binance Earn과 협력하여 심플 스테이킹을 제공합니다. 이를 통해 PancakeSwap 사용자는 Binance Simple Earn의 지원을 받아 BNB 체인에서 CAKE, USDC, USDT와 같은 인기 토큰의 단일 자산 스테이킹을 이용할 수 있습니다.
 
-Instead of the usual staking in Farms and liquidity pools with pairs of assets, Simple staking allows you to earn yield by staking a single type of asset. This simplifies the staking process for you.
+자산 페어로 파밍과 유동성 풀에서 스테이킹하는 일반적인 방식 대신, 심플 스테이킹은 단일 유형의 자산을 스테이킹하여 수익을 얻을 수 있게 해 줍니다. 이를 통해 스테이킹 과정이 간소화됩니다.
 
-Simple Staking offers a variety of popular tokens to earn yield. As we expand this feature, you’ll have more options to choose from your favorite tokens.&#x20;
+심플 스테이킹은 수익을 얻을 수 있는 다양한 인기 토큰을 제공합니다. 이 기능을 확장함에 따라 선호하는 토큰 중에서 더 많은 옵션을 선택할 수 있게 됩니다.
 
-### Benefits of Simple Staking
+### 심플 스테이킹의 이점
 
-**No Impermanent Loss:** Unlike AMMs, you won’t face impermanent loss because you’re staking only one token, not a pair.
+**비영구적 손실 없음:** AMM과 달리 페어가 아닌 하나의 토큰만 스테이킹하므로 비영구적 손실이 발생하지 않습니다.
 
-**Hassle-Free Staking:** No need to manage different positions or move tokens around as with other yield Farming methods.&#x20;
+**번거로움 없는 스테이킹:** 다른 일드 파밍 방식처럼 여러 포지션을 관리하거나 토큰을 이동할 필요가 없습니다.
 
-**Daily Accrual:** You'll earn rewards daily based on the APR rate and can claim them at the end of the staking period. The longer you commit to staking, the higher your APR.
+**일일 적립:** APR에 따라 매일 보상이 적립되며 스테이킹 기간이 끝날 때 수령할 수 있습니다. 스테이킹 기간이 길수록 APR이 높아집니다.
 
-**APR boost with CAKE staking:** Staking CAKE in our [fixed-term pool](https://pancakeswap.finance/pools) will boost APR rates, increasing your Simple Staking rewards. For more information on Boosted APR, please visit the [FAQ section.](faq.md)
+**CAKE 스테이킹으로 APR 부스트:** [고정 기간 풀](https://pancakeswap.finance/pools)에서 CAKE를 스테이킹하면 APR이 부스트되어 심플 스테이킹 보상이 늘어납니다. 부스트 APR에 대한 자세한 내용은 [자주 묻는 질문(FAQ) 섹션](faq.md)을 참조하세요.
 
-### How does Simple Staking work?
+### 심플 스테이킹은 어떻게 작동하나요?
 
-**Simple Staking** provides a convenient and hassle-free way to stake crypto tokens and earn staking rewards. Users can earn daily rewards via staking their tokens for a locked period of 30, 60 or 90 days.&#x20;
+**심플 스테이킹**은 암호화폐 토큰을 스테이킹하고 스테이킹 보상을 얻을 수 있는 편리하고 번거로움 없는 방법을 제공합니다. 사용자는 30일, 60일 또는 90일의 락 기간 동안 토큰을 스테이킹하여 일일 보상을 얻을 수 있습니다.
 
-Your tokens will earn daily rewards based on the daily APR rate for the lock period, calculated as follows:
+토큰은 락 기간 동안의 일일 APR에 따라 일일 보상을 얻으며 다음과 같이 계산됩니다.
 
 $$
 \text{Rewards} = \text{Deposited Assets} \times \frac{\text{APR}}{365} \quad \text{(rounded down to 8 decimal places)}
 $$
 
-The staking rewards are distributed daily from 12:00 UTC on the day after the funds are deposited into the staking pool to the end of the staking period. For example, if a user stakes 1000 CAKE in the 90D pool at 30 Sep 2023 14:00 UTC, the first reward will be distributed at 1 Oct 2023 12:00 UTC, and the last reward will be distributed at 3 Feb 2024 12:00 UTC. All the daily distributed rewards can only be claimed after the end of the staking reward.
+스테이킹 보상은 자금이 스테이킹 풀에 예치된 다음 날 12:00 UTC부터 스테이킹 기간이 끝날 때까지 매일 분배됩니다. 예를 들어 사용자가 2023년 9월 30일 14:00 UTC에 90D 풀에 1000 CAKE를 스테이킹했다면 첫 번째 보상은 2023년 10월 1일 12:00 UTC에 분배되고 마지막 보상은 2024년 2월 3일 12:00 UTC에 분배됩니다. 매일 분배된 모든 보상은 스테이킹 보상 기간이 끝난 후에만 수령할 수 있습니다.
 
-Do note that APR is subject to changes daily. The estimated rewards shown at the start of the locked staking period may differ slightly from the actual rewards generated.
+APR은 매일 변경될 수 있다는 점에 유의하세요. 락 스테이킹 기간 시작 시 표시되는 예상 보상은 실제로 생성된 보상과 약간 다를 수 있습니다.
 
-### When can I claim my rewards?
+### 보상은 언제 수령할 수 있나요?
 
-Users can claim their rewards at the end of the simple staking period, which is 30, 60 or 90 days from the locked date. The user must unstake the tokens by interacting with the Simple Staking portal. Users can also claim rewards and restake their principal to restart the Simple Staking period. For users who have not claimed or unstake their funds, it will continue to accrue daily rewards at a significantly lower rate. More Information can be found in the [how-to guide](how-to-start-simple-staking.md).
+사용자는 락 날짜로부터 30일, 60일 또는 90일인 심플 스테이킹 기간이 끝나면 보상을 수령할 수 있습니다. 사용자는 심플 스테이킹 포털에서 토큰을 언스테이킹해야 합니다. 사용자는 보상을 수령하고 원금을 다시 스테이킹하여 심플 스테이킹 기간을 다시 시작할 수도 있습니다. 보상을 수령하지 않았거나 자금을 언스테이킹하지 않은 사용자는 훨씬 낮은 비율로 계속 일일 보상이 적립됩니다. 자세한 내용은 [사용 가이드](how-to-start-simple-staking.md)에서 확인할 수 있습니다.
 
-Tokens will not be withdrawable in the first third of the staking period (eg. First 10 out of 30D for 30D pool). Tokens will be withdrawable at a 15% penalty fee for the second third of the staking period and 2% for the last third of the staking period. For more information on withdrawal refer to the [FAQ section](faq.md).
-
-
+스테이킹 기간의 처음 3분의 1 동안에는 토큰을 출금할 수 없습니다(예: 30D 풀의 경우 30일 중 처음 10일). 스테이킹 기간의 두 번째 3분의 1에는 15%의 패널티 수수료로, 마지막 3분의 1에는 2%의 패널티 수수료로 토큰을 출금할 수 있습니다. 출금에 대한 자세한 내용은 [자주 묻는 질문(FAQ) 섹션](faq.md)을 참조하세요.
 
 <br>

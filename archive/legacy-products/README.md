@@ -1,25 +1,21 @@
 ---
-description: Entry points and references for legacy products
+description: 레거시 제품의 진입점 및 참고 자료
 ---
 
-# 📂 Legacy Products
+# 📂 레거시 제품
 
-* [NFT Marketplace](https://pancakeswap.finance/nfts)
-* ~~Gaming Marketplace (17th October 2023)~~ Removed 18th September 2025
-* [Pottery](https://pancakeswap.finance/pottery) (3rd November 2023)
-* [Trading Reward](archived-trading-reward/) (23rd August 2024)
-* [Simple Staking](https://pancakeswap.finance/simple-staking) (10th March 2025)
-* [PancakeSwap Quest](archived-pancakeswap-quest/) (28th February 2025)
-* [Liquid Staking](https://pancakeswap.finance/liquid-staking)
-* [Team Leaderboard](https://pancakeswap.finance/teams)
-* PancakeSwap Mini-Program
-* [Options](archived-options/)
-* [LP History Page](https://pancakeswap.finance/farms/history)
-* [Position Manager ](archived-position-manager.md)(21st June 2025)
-* [Polygon zkEVM](https://legacy-zkevm.pancakeswap.finance/liquidity/positions) (30 Sep 2025)
-* [Bridge](https://pancakeswap.finance/bridge) (6 Nov 2025)
-* [veCAKE Redeem](https://pancakeswap.finance/cake-staking/redeem) (15 Jan 2026)
-
-
-
-
+* [NFT 마켓플레이스](https://pancakeswap.finance/nfts)
+* ~~게이밍 마켓플레이스 (2023년 10월 17일)~~ 2025년 9월 18일 제거됨
+* [Pottery](https://pancakeswap.finance/pottery) (2023년 11월 3일)
+* [트레이딩 리워드](archived-trading-reward/) (2024년 8월 23일)
+* [심플 스테이킹](https://pancakeswap.finance/simple-staking) (2025년 3월 10일)
+* [PancakeSwap 퀘스트](archived-pancakeswap-quest/) (2025년 2월 28일)
+* [리퀴드 스테이킹](https://pancakeswap.finance/liquid-staking)
+* [팀 리더보드](https://pancakeswap.finance/teams)
+* PancakeSwap 미니 프로그램
+* [옵션](archived-options/)
+* [LP 히스토리 페이지](https://pancakeswap.finance/farms/history)
+* [포지션 매니저 ](archived-position-manager.md)(2025년 6월 21일)
+* [Polygon zkEVM](https://legacy-zkevm.pancakeswap.finance/liquidity/positions) (2025년 9월 30일)
+* [브릿지](https://pancakeswap.finance/bridge) (2025년 11월 6일)
+* [veCAKE 상환](https://pancakeswap.finance/cake-staking/redeem) (2026년 1월 15일)

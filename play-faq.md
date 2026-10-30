@@ -2,6 +2,6 @@
 hidden: true
 ---
 
-# ❓ Play FAQ
+# ❓ 플레이 자주 묻는 질문 (FAQ)
 
-(To be populated)
+(작성 예정)

@@ -1,19 +1,19 @@
-# Rewards
+# 보상
 
 {% hint style="danger" %}
-&#x20;\[Archived] PancakeSwap Quest – As of 28th February 2025
+\[보관됨] PancakeSwap 퀘스트 – 2025년 2월 28일 기준
 {% endhint %}
 
-For beta mode, quests are split into two types - **quests with rewards and without rewards**. For quests without rewards, users will complete the tasks in order to learn more about DeFi or specific products and campaigns, with no token rewards or points at the moment.&#x20;
+베타 모드에서 퀘스트는 **보상이 있는 퀘스트와 보상이 없는 퀘스트**의 두 가지 유형으로 나뉩니다. 보상이 없는 퀘스트의 경우 사용자는 DeFi나 특정 제품 및 캠페인에 대해 더 배우기 위해 작업을 완료하며, 현재 토큰 보상이나 포인트는 없습니다.
 
-For quests with rewards, users can earn token rewards by completing them. The rewards will be distributed via a lucky draw to all users completing the quest, as shown below.&#x20;
+보상이 있는 퀘스트의 경우 사용자는 퀘스트를 완료하여 토큰 보상을 받을 수 있습니다. 보상은 아래와 같이 퀘스트를 완료한 모든 사용자를 대상으로 한 럭키 드로우를 통해 배포됩니다.
 
-For example, if the total reward is 1000 USDT with 10 stipulated winners, 10 users will be drawn to receive the reward.<br>
+예를 들어 총 보상이 1000 USDT이고 당첨자가 10명으로 정해져 있다면 10명의 사용자가 추첨되어 보상을 받습니다.<br>
 
-<figure><img src="../../../.gitbook/assets/gamification-git-setup-dev-gamification.pancake.run_quests_705143d4efa243209b70f07eb824b908(iPhone 14 Pro Max).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/gamification-git-setup-dev-gamification.pancake.run_quests_705143d4efa243209b70f07eb824b908(iPhone%2014%20Pro%20Max).png" alt="" width="375"><figcaption></figcaption></figure>
 
-How to claim rewards:
+보상 수령 방법:
 
-1. To claim rewards at the end of the quest, check if you have won the quest via the quest page. Winners should see a “Claim reward” button below the prize amount.
-2. Click “Claim Reward” and sign the transaction.
-3. Check your wallet for the token reward.
+1. 퀘스트 종료 시 보상을 수령하려면 퀘스트 페이지에서 당첨 여부를 확인하세요. 당첨자는 상금 금액 아래에 "보상 수령" 버튼이 표시됩니다.
+2. "보상 수령"을 클릭하고 거래에 서명합니다.
+3. 지갑에서 토큰 보상을 확인합니다.

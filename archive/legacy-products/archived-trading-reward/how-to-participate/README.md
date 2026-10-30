@@ -1,26 +1,26 @@
-# How to Participate
+# 참여 방법
 
 {% hint style="danger" %}
-\[Archived] Trading Reward – As of 23rd August 2024
+\[보관됨] 트레이딩 리워드 – 2024년 8월 23일 기준
 {% endhint %}
 
-<figure><img src="../../../../.gitbook/assets/how-to-tradingreward.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-tradingreward.png" alt=""><figcaption></figcaption></figure>
 
-Currently there are two different campaigns:
+현재 두 가지 캠페인이 있습니다.
 
-### Top Traders
+### 탑 트레이더
 
-In Top traders campaigns, users who ranked within certain rankings across all the traders will be eligible to claim up to a 3% trading fee rebate in CAKE from trading eligible PancakeSwap V3 pairs on BNB Chain and Ethereum mainnet.
+탑 트레이더 캠페인에서는 전체 트레이더 중 일정 순위 이내에 든 사용자가 BNB 체인과 Ethereum 메인넷의 적격 PancakeSwap V3 페어를 거래하여 거래 수수료의 최대 3%를 CAKE로 리베이트 받을 수 있습니다.
 
-### CAKE Stakers
+### CAKE 스테이커
 
-In CAKE stakers campaigns, eligible users with active CAKE staking positions can claim up to a ~~5%~~ 10% trading fee rebate in CAKE from trading eligible PancakeSwap V3 pairs on BNB Chain and Ethereum mainnet.
+CAKE 스테이커 캠페인에서는 활성 CAKE 스테이킹 포지션을 가진 적격 사용자가 BNB 체인과 Ethereum 메인넷의 적격 PancakeSwap V3 페어를 거래하여 거래 수수료의 최대 ~~5%~~ 10%를 CAKE로 리베이트 받을 수 있습니다.
 
 {% hint style="warning" %}
-**Note:** The two types of campaigns mentioned above are usually run in parallel. Although your trading volume/fee generated will be shared across both. When the campaigns end, you can only claim rewards from **ONE** of the campaigns. Once you've claimed from one campaign, you can NOT claim from the other one.
+**참고:** 위에서 언급한 두 가지 유형의 캠페인은 보통 동시에 진행됩니다. 거래량/발생한 수수료는 두 캠페인에 모두 공유되지만, 캠페인이 종료되면 **한** 캠페인에서만 보상을 수령할 수 있습니다. 한 캠페인에서 수령하고 나면 다른 캠페인에서는 수령할 수 없습니다.
 {% endhint %}
 
-Check out the following tutorial to learn more about how to participate in:
+참여 방법에 대한 자세한 내용은 다음 튜토리얼을 확인하세요.
 
 {% content-ref url="top-traders-campaign.md" %}
 [top-traders-campaign.md](top-traders-campaign.md)

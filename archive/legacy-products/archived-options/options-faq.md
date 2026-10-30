@@ -1,44 +1,44 @@
-# FAQ
+# 옵션 자주 묻는 질문 (FAQ)
 
 {% hint style="danger" %}
-\[ARCHIVED] Options – As of March 11, 2025\
-If you still have liquidity to withdraw, please do so immediately by visiting https://www.stryke.xyz/en/trade.
+\[보관됨] 옵션 – 2025년 3월 11일 기준\
+아직 출금할 유동성이 있다면 https://www.stryke.xyz/en/trade 를 방문하여 즉시 출금하세요.
 {% endhint %}
 
-1. **What are CLAMM Options?**
+1. **CLAMM 옵션이란 무엇인가요?**
 
-CLAMM Options is a novel solution for on-chain options trading. It offers liquidity providers a platform to utilize v3 liquidity on PancakeSwap for selling options, enabling them to earn standard trading fees, premiums, and additional rewards. Traders can leverage this liquidity to trade American-style options on a variety of tokens.
+CLAMM 옵션은 온체인 옵션 거래를 위한 새로운 솔루션입니다. 유동성 공급자에게 PancakeSwap의 v3 유동성을 옵션 판매에 활용할 수 있는 플랫폼을 제공하여 일반 거래 수수료, 프리미엄 및 추가 보상을 얻을 수 있게 합니다. 트레이더는 이 유동성을 활용하여 다양한 토큰에 대한 아메리칸 스타일 옵션을 거래할 수 있습니다.
 
-2. **What markets are available at launch?**
+2. **출시 시 어떤 마켓을 이용할 수 있나요?**
 
-Initially, we will launch on Arbitrum and offer markets for ETH/USDC, wBTC/USDC, and ARB/USDC. Additional markets will be gradually introduced, to enable option trading for all tokens in the future.
+처음에는 Arbitrum에서 출시하며 ETH/USDC, wBTC/USDC, ARB/USDC 마켓을 제공합니다. 향후 모든 토큰에 대한 옵션 거래가 가능하도록 추가 마켓이 점진적으로 도입될 예정입니다.
 
-3. **How do CLAMM Options benefit liquidity providers (LPs)?**
+3. **CLAMM 옵션은 유동성 공급자(LP)에게 어떤 이점이 있나요?**
 
-CLAMM Options allow LPs to deposit v3 liquidity on PancakeSwap through Stryke (formerly Dopex), unlocking inactive capital while offering superior yield compared to standard DEX LPing. By becoming a CLAMM LP, you gain far more efficient utilization of your liquidity with minimal opportunity cost, as unutilized liquidity remains in its original AMM, eligible for standard trading fees. While the liquidity utilized for selling options earns high premiums with a similar payoff as a CLAMM v3 liquidity position.
+CLAMM 옵션을 사용하면 LP가 Stryke(구 Dopex)를 통해 PancakeSwap의 v3 유동성을 예치하여 비활성 자본을 활용하면서 일반 DEX LP보다 우수한 수익을 얻을 수 있습니다. CLAMM LP가 되면 사용되지 않는 유동성은 원래의 AMM에 남아 일반 거래 수수료를 받을 수 있으므로 기회비용을 최소화하면서 유동성을 훨씬 효율적으로 활용할 수 있습니다. 또한 옵션 판매에 사용된 유동성은 CLAMM v3 유동성 포지션과 유사한 손익 구조로 높은 프리미엄을 얻습니다.
 
-4. **What happens to unutilized liquidity as a CLAMM Options LP?**
+4. **CLAMM 옵션 LP로서 사용되지 않은 유동성은 어떻게 되나요?**
 
-If your liquidity remains unutilized, it stays in PancakeSwap v3 pools, ensuring no opportunity cost relative to normal v3 LPing. However, when options buyers utilize your liquidity, it is withdrawn from PancakeSwap, and reserved, and you earn a premium paid by options traders.
+유동성이 사용되지 않은 채로 남아 있으면 PancakeSwap v3 풀에 그대로 남아 일반 v3 LP와 비교해 기회비용이 발생하지 않습니다. 하지만 옵션 매수자가 내 유동성을 사용하면 PancakeSwap에서 인출되어 예약되며, 옵션 트레이더가 지불하는 프리미엄을 받게 됩니다.
 
-5. **What are the key benefits of CLAMM Options for LPs?**
+5. **LP에게 CLAMM 옵션의 주요 이점은 무엇인가요?**
 
-* Positions remain on the underlying AMM if unutilized, allowing continued earning of trading fees.
-* Options Premiums earned are significantly more lucrative than standard trading fees.
-* Out-of-range v3 liquidity that doesn't earn trading fees becomes eligible for premiums.
-* CLAMM LPs have identical exposure as standard LPing.
+* 사용되지 않는 포지션은 기초 AMM에 남아 있어 거래 수수료를 계속 얻을 수 있습니다.
+* 얻는 옵션 프리미엄은 일반 거래 수수료보다 훨씬 수익성이 높습니다.
+* 거래 수수료를 얻지 못하는 범위를 벗어난 v3 유동성도 프리미엄을 받을 수 있게 됩니다.
+* CLAMM LP는 일반 LP와 동일한 익스포저를 가집니다.
 
-6. **What features do CLAMM Options offer for traders?**
+6. **CLAMM 옵션은 트레이더에게 어떤 기능을 제공하나요?**
 
-* Instant fills for both long and short option positions through accessibility to deep on-chain liquidity.
-* Ability to close positions at any time (American-style options).
-* Portfolio margin for superior capital efficiency.
-* One-click option strategies for streamlined trading.
+* 깊은 온체인 유동성에 접근할 수 있어 롱 및 숏 옵션 포지션 모두 즉시 체결됩니다.
+* 언제든지 포지션을 종료할 수 있는 기능(아메리칸 스타일 옵션).
+* 뛰어난 자본 효율성을 위한 포트폴리오 마진.
+* 간소화된 거래를 위한 원클릭 옵션 전략.
 
-7. **What advantages do CLAMM Options provide in terms of strike prices and expiries?**
+7. **CLAMM 옵션은 행사 가격과 만기 측면에서 어떤 이점을 제공하나요?**
 
-CLAMM offers a significantly wider range of strikes, utilizing any tick as the strike price. This grants traders more flexibility in hedging or speculating on prices. Additionally, traders can enjoy expiries ranging from 1 hour to 24 hours.
+CLAMM은 모든 틱을 행사 가격으로 활용하여 훨씬 더 넓은 범위의 행사 가격을 제공합니다. 이를 통해 트레이더는 가격에 대한 헤징이나 투기에서 더 큰 유연성을 가집니다. 또한 트레이더는 1시간에서 24시간까지의 만기를 이용할 수 있습니다.
 
-8. **How do American-style options benefit traders?**
+8. **아메리칸 스타일 옵션은 트레이더에게 어떤 이점이 있나요?**
 
-American-style options allow traders to close their positions at any time before expiry. This flexibility empowers traders to manage their positions more effectively, enhancing their trading experience.
+아메리칸 스타일 옵션을 사용하면 트레이더가 만기 전에 언제든지 포지션을 종료할 수 있습니다. 이러한 유연성 덕분에 트레이더는 포지션을 더 효과적으로 관리할 수 있어 거래 경험이 향상됩니다.
