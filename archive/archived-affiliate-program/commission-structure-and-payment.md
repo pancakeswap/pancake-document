@@ -12,9 +12,9 @@
 * कम से कम **1 major token** शामिल करता है (यानी BNB, BTC, BUSD, ETH, USDT और/या USDC)
 * **केवल BNB Smart Chain और Ethereum chain पर** swap trades तक सीमित
 
-**\*\*** Perpetuals कुछ jurisdictions से प्रतिबंधित हैं, कृपया सुनिश्चित करें कि आप इस platform पर derivatives trade करने के लिए eligible हैं।
+**Perpetuals कुछ jurisdictions से प्रतिबंधित हैं।** कृपया सुनिश्चित करें कि आप इस platform पर derivatives trade करने के लिए eligible हैं।
 
-\*\*\*Perpetual trades पर ट्रेडिंग fees (या Referral की कोई भी position जिसमें liquidation fees लग सकती है) में आपके Referrals की position को liquidate करने के लिए कोई liquidation fees शामिल नहीं है। **केवल BNB Smart Chain और Ethereum chain पर** perpetual trades तक सीमित।
+Perpetual trades पर ट्रेडिंग fees (या Referral की कोई भी position जिसमें liquidation fees लग सकती है) में आपके Referrals की position को liquidate करने के लिए कोई liquidation fees शामिल नहीं है। **केवल BNB Smart Chain और Ethereum chain पर** perpetual trades तक सीमित।
 
 ### Payment
 

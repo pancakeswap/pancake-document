@@ -8,7 +8,7 @@ PancakeSwap X, PancakeSwap पर आपकी पसंदीदा संप�
 * Gas-free swaps
 
 {% hint style="success" %}
-**PancakeSwap X, Arbitrum, Ethereum, और Base पर लाइव है, जो crypto tokens का समर्थन करता है, और BNB Chain पर यह केवल real-world assets (RWAs) का समर्थन करता है।**
+**PancakeSwap X, Arbitrum, Ethereum, BNB Chain, Base और Robinhood Chain पर लाइव है, जो crypto token swaps का समर्थन करता है। Real-world assets (RWAs) का समर्थन इसके अतिरिक्त BNB Chain, Ethereum और Robinhood Chain पर भी उपलब्ध है।**
 {% endhint %}
 
 > **एकीकरण करना चाहते हैं? PancakeSwap X integration के लिए तकनीकी गाइड** [**यहाँ**](https://www.notion.so/PCSX-Tech-Integration-Guide-0eb33e93295644e9855ec2c34b58b0c4?source=copy_link) **देखें।**

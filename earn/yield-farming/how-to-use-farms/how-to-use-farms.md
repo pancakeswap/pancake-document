@@ -235,6 +235,6 @@ Farm V3 में, आप एक ही फार्म पर एकाधि�
 
 यह MetaMask वॉलेट में हार्वेस्टिंग शुल्क दिखाता है। अलग-अलग वॉलेट जानकारी थोड़े अलग तरीके से दिखाएंगे। कम बार शुल्क चुकाने के लिए अपने पुरस्कारों को कुछ समय के लिए बढ़ने दें।
 
-बस इतना ही है! आप [PancakeSwap सिरप पूल का उपयोग कैसे करें](https://docs.pancakeswap.finance/get-started/syrup-pool-guide) भी पढ़ना चाहेंगे।
+बस इतना ही है! आप [PancakeSwap सिरप पूल का उपयोग कैसे करें](https://docs.pancakeswap.finance/earn/cake-staking/syrup-pool/syrup-pool-guide) भी पढ़ना चाहेंगे।
 
 शुभ फार्मिंग!

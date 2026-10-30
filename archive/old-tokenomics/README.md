@@ -1,36 +1,32 @@
-# Old Tokenomics
+# पुराना टोकनोमिक्स
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/tokenomics-header.png)
 
-* **Ticker:** CAKE
-* **Contract Address:** [https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82)
-* **Chain:** BNB Smart Chain (BEP20)
+* **टिकर:** CAKE
+* **कॉन्ट्रैक्ट एड्रेस:** [https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82)
+* **चेन:** BNB Smart Chain (BEP20)
 
 ## बुनियादी बातें
 
-CAKE वह स्वादिष्ट token है जो PancakeSwap ecosystem को संचालित करता है।
+CAKE वह स्वादिष्ट टोकन है जो PancakeSwap इकोसिस्टम को शक्ति देता है।
 
-Farms और Syrup Pools से CAKE अर्जित करें, lottery में जीतें, या [exchange पर खरीदें](../../trade/pancakeswap-exchange/), फिर इसके use cases explore करें:
+Farms और Syrup Pools से CAKE कमाएँ, लॉटरी में जीतें, या [एक्सचेंज पर खरीदें](../../trade/pancakeswap-exchange/), और फिर इसके उपयोग देखें:
 
-* Free tokens अर्जित करने के लिए [Syrup Pools](../../earn/cake-staking/syrup-pool/) में Stake करें
-* अधिक CAKE अर्जित करने के लिए [Yield Farms](https://docs.pancakeswap.finance/products/yield-farming) में उपयोग करें
-* [PancakeSwap Lottery](../../play/lottery/) में Lottery tickets खरीदें
-* [IFO Token Sales](../../earn/cakepad/) में भाग लें
-* अपना [Pancake Profile](/broken/pages/-MYccH_bJjPXGyPCweA8) बनाएं और NFTs mint करें
-* PancakeSwap ecosystem से संबंधित [proposals पर Vote करें](../../protocol/voting/)
+* मुफ़्त टोकन कमाने के लिए इसे [Syrup Pools](../../earn/cake-staking/syrup-pool/) में स्टेक करें
+* और अधिक CAKE कमाने के लिए इसे [Yield Farms](https://docs.pancakeswap.finance/earn/yield-farming) में उपयोग करें
+* [PancakeSwap Lottery](../../play/lottery/) में लॉटरी टिकट खरीदें
+* [IFO टोकन सेल](../../earn/cakepad/) में भाग लें
+* अपनी Pancake Profile बनाएँ और NFT मिंट करें
+* PancakeSwap इकोसिस्टम से जुड़े [प्रस्तावों पर मतदान करें](../../protocol/voting/)
 
-लेकिन बस यही नहीं -- CAKE के लिए क्षितिज पर बहुत कुछ है!
+लेकिन बात यहीं खत्म नहीं होती -- CAKE के लिए आगे और भी बहुत कुछ आने वाला है!
 
 ## विस्तार से
 
-CAKE कैसे काम करता है इसके nuts and bolts discover करने के लिए नीचे check करें।
+CAKE कैसे काम करता है, इसकी बारीकियाँ जानने के लिए नीचे देखें।
 
 {% content-ref url="../../protocol/cake-tokenomics.md" %}
 [cake-tokenomics.md](../../protocol/cake-tokenomics.md)
-{% endcontent-ref %}
-
-{% content-ref url="/broken/pages/-MLAzz7i0mcBCSvWcZbU" %}
-[Broken link](/broken/pages/-MLAzz7i0mcBCSvWcZbU)
 {% endcontent-ref %}
 
 ### \*\*\*\*

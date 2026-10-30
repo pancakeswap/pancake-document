@@ -70,7 +70,7 @@ Dynamic fees अधिकतम लचीलापन प्रदान कर�
 | ---------------- | ---------------- |
 | 1%               | 0.33%            |
 | 2%               | 0.4% (सीमित)    |
-| Dynamic Fee Pool | 0%               |
+| Dynamic Fee Pool | 0.03% (current default) |
 
 #### 🛠️ Pool Creators के लिए Setup Notes
 

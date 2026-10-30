@@ -29,7 +29,7 @@ Bridge करने के कुछ कारण निम्नलिखित
 
 ## CAKE, एक मल्टीचेन टोकन
 
-हमारे मल्टीचेन विस्तार और तैनाती के साथ, CAKE अब एक मल्टीचेन टोकन है जो BNB Chain का नेटिव टोकन है, लेकिन Base, Arbitrum, Solana, Ethereum, ZKsync, Linea, opBNB और Aptos पर भी उपलब्ध है।
+हमारे मल्टीचेन विस्तार और तैनाती के साथ, CAKE अब एक मल्टीचेन टोकन है जो BNB Chain का नेटिव टोकन है, लेकिन Base, Arbitrum, Solana, Ethereum, ZKsync, Linea, opBNB, Monad और Aptos पर भी उपलब्ध है।
 
 किसी भी अन्य चेन पर CAKE, BNB Smart Chain के CAKE के बराबर है। इसे इन चेन के बीच हमेशा 1:1 अनुपात में और CAKE में बिना किसी शुल्क के Bridge किया जा सकता है।
 
@@ -67,6 +67,7 @@ Bridging नॉन-कस्टोडियल है — आपकी संप
 * LayerZero
 * Stargate
 * Meson
+* Mayan
 
 > नोट: प्रत्येक प्रदाता की अलग-अलग Bridging प्रणाली, समर्थित चेन, शुल्क और सीमाएं हैं।
 
@@ -83,6 +84,9 @@ Bridging नॉन-कस्टोडियल है — आपकी संप
 * opBNB
 * ZKsync
 * Linea
+* Monad
+* Robinhood
+* Solana
 * Aptos (V1 साइट)
 
 #### Bridging के लिए उपलब्ध टोकन
@@ -197,3 +201,7 @@ Bridge ट्रांसफर आमतौर पर कुछ **मिनट�
    * `cakeOFT`: `0x3055913c90Fcc1A6CE9a358911721eEb942013A1` ([link](https://basescan.org/address/0x3055913c90Fcc1A6CE9a358911721eEb942013A1#code))
 8. **opBNB**
    * `cakeOFT`: `0x2779106e4F4A8A28d77A24c18283651a2AE22D1C` ([link](https://opbnbscan.com/address/0x2779106e4F4A8A28d77A24c18283651a2AE22D1C?tab=Contract\&p=1))
+9. **Monad**
+   * `cakeOFT`: `0xF59D81cd43f620E722E07f9Cb3f6E41B031017a3`
+10. **Solana**
+    * `cakeOFT`: `4qQeZ5LwSz6HuupUu8jCtgXyW1mYQcNbFAW1sWZp89HL`

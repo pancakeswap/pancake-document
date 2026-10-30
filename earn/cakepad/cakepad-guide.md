@@ -110,5 +110,5 @@ CAKE.PAD पार्टनर टोकन की अंतिम मात्�
 
 अब जब आपके पास अपने चमकदार नए टोकन हैं, तो उन्हें अपने लिए काम में लगाएं! आप ट्रेडिंग शुल्क और फार्मिंग प्राप्त करने के लिए अपने टोकन के लिए तरलता जोड़ सकते हैं।
 
-* तरलता जोड़ने के बारे में [यहाँ](https://docs.pancakeswap.finance/get-started/liquidity-guide) पढ़ें।
+* तरलता जोड़ने के बारे में [यहाँ](https://docs.pancakeswap.finance/earn/pancakeswap-pools/liquidity-guide) पढ़ें।
 * फार्मिंग के बारे में [यहाँ](../yield-farming/) पढ़ें।

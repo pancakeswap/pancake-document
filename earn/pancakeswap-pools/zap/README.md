@@ -10,7 +10,7 @@ Zap एक ऐसी सुविधा है जो आपको आसान�
 
 ### समर्थित चेन
 
-* v3 - BNB Chain के सभी pool, Ethereum और Arbitrum नेटवर्क पर चुनिंदा pool
+* v3 - BNB Chain और Robinhood Chain के सभी pool, Ethereum और Arbitrum नेटवर्क पर चुनिंदा pool
 * Infinity - BNB Chain के सभी CLAMM pool (बिना hook के)
 
 ### उपयोग कैसे करें <a href="#id-438fff0f-f1da-4147-9fe3-6dc1dc2ef352" id="id-438fff0f-f1da-4147-9fe3-6dc1dc2ef352"></a>

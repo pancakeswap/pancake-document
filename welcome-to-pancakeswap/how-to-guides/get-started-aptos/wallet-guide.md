@@ -1,7 +1,5 @@
 # वॉलेट बनाएं
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-make-a-crypto-wallet-header.png)
-
 Aptos पर अपनी PancakeSwap यात्रा शुरू करने के लिए, सबसे पहले आपको एक ऐसा वॉलेट सेट अप करना होगा जो Aptos चेन को सपोर्ट करता हो। वॉलेट डेस्कटॉप कंप्यूटर और स्मार्टफोन डिवाइस दोनों पर उपलब्ध हैं। आपको वह वॉलेट चुनना होगा जो आपकी जरूरतों के लिए सबसे उपयुक्त हो।
 
 {% hint style="danger" %}

@@ -1,7 +1,5 @@
 # अपना वॉलेट PancakeSwap से कनेक्ट करें
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-connect-wallet-header.png)
-
 आपने वॉलेट बना लिया है और BEP20 टोकन प्राप्त कर लिए हैं, अब बस अपने वॉलेट को PancakeSwap से कनेक्ट करें और आप तैयार हैं!
 
 PancakeSwap से हमारे प्रत्येक अनुशंसित वॉलेट को कनेक्ट करने के तरीके के लिए नीचे दिए गए चरण देखें।

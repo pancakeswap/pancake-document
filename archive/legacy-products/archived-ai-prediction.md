@@ -54,6 +54,6 @@ Fees: प्रत्येक round के total pot का 3% treasury को,
 
 आप previous round price और AI decision जांचने के लिए history tab पर Round History देख सकते हैं। सभी rounds on-chain settle होते हैं; अधिक जानकारी के लिए [prediction contract](https://arbiscan.io/address/0x1cdc19B13729f16C5284a0ACE825F83fC9d799f4) देखें।
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-06-26%20at%208.02.17%20PM.png" alt=""><figcaption><p>दाईं ओर history tab देखें</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-06-26%20at%208.02.17%E2%80%AFPM.png" alt=""><figcaption><p>दाईं ओर history tab देखें</p></figcaption></figure>
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-06-26%20at%208.01.26%20PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-06-26%20at%208.01.26%E2%80%AFPM.png" alt=""><figcaption></figcaption></figure>

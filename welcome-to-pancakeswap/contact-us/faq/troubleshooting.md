@@ -305,7 +305,7 @@ CAKE-CAKE pool से unstake करने के लिए आपके वॉ�
 आप अपने stake किए हुए टोकनों को unstake करने के लिए कॉन्ट्रैक्ट से सीधे "emergencyWithdraw" कर सकते हैं।
 
 1. जिस Syrup Pool से आप unstake करने की कोशिश कर रहे हैं उसका कॉन्ट्रैक्ट पता खोजें। यह आपके वॉलेट के ट्रांजैक्शन लॉग में मिलेगा।
-2. [https://bscscan.com/](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract) पर जाएँ और खोज बार में कॉन्ट्रैक्ट पता दर्ज करें।
+2. [https://bscscan.com/](https://bscscan.com/) पर जाएँ और खोज बार में कॉन्ट्रैक्ट पता दर्ज करें।
 3. **Write Contract** चुनें।
 4. **"Connect to Web3"** पर क्लिक करें और अपना वॉलेट कनेक्ट करें।![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
 5. **"3. emergencyWithdraw"** अनुभाग में, "Write" पर क्लिक करें।
@@ -324,7 +324,7 @@ CAKE-CAKE pool से unstake करने के लिए आपके वॉ�
 
 ## **प्रेडिक्शन से जुड़ी समस्याएँ**
 
-[Broken link](/broken/pages/8zN9xzaYD1DvxZvzLzug "mention") देखें
+[Prediction FAQ](../../../play/prediction/prediction-faq.md "mention") देखें
 
 ## **अन्य समस्याएँ**
 

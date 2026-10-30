@@ -114,4 +114,4 @@ Multiplier की गणना कैसे होती है, इसके �
 
 bCAKE को internal और external दोनों auditors द्वारा audit किया गया है।
 
-Audit reports यहाँ देखें: [https://docs.pancakeswap.finance/readme/audits](https://docs.pancakeswap.finance/readme/audits)
+Audit reports यहाँ देखें: [https://docs.pancakeswap.finance/welcome-to-pancakeswap/audits](https://docs.pancakeswap.finance/welcome-to-pancakeswap/audits)

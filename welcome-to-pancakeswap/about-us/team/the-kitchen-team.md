@@ -1,85 +1,79 @@
-# किचन टीम
+# The Kitchen Team
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/the-kitchen-team-header.png)
 
-आप शेफ के नाम पर क्लिक करके किचन इंटरव्यू लेख पर जा सकते हैं।
+### The Chefs
 
-### शेफ्स
+🐰 Chef Kids - Head Chef ([X/Twitter](https://x.com/Headchef_pcs))
 
-🐰 Chef Kids - हेड शेफ ([Twitter](https://x.com/Headchef_pcs))
+🐰 Chef Miso - Product
 
-🐰 Chef Miso - प्रोडक्ट
+🐰 Chef Kocha - Product
 
-🐰 Chef Maroon - BD लीड ([Twitter](https://x.com/ChefMaroon))
+🐰 Chef Mustard - Ops ([X/Twitter](https://twitter.com/chef_mustard))
 
-🐰 Chef Doxie - बिज़नेस डेवलपमेंट ([Twitter](https://x.com/ChefDoxie))
+🐰 Chef Pau - Ops
 
-🐰 Chef Madeline - बिज़नेस डेवलपमेंट
+🐰 Chef Leo - Business Development Lead ([X/Twitter](https://x.com/DYOR_WAGMI))
 
-🐰 Chef Leo - बिज़नेस डेवलपमेंट
+🐰 Chef Olive - Business Development&#x20;
 
-🐰 Chef Mustard - ऑपरेशन्स ([Twitter](https://twitter.com/chef_mustard))
+🐰 Chef Cocoa - Marketing Lead ([X/Twitter](https://x.com/chef_cocoa_pcs))
 
-🐰 Chef Pau - ऑपरेशन्स
+🐰 Chef Alina - Partnership Marketing ([X/Twitter](https://x.com/0xalinatyng))
 
-🐰 Chef Cyrus - डेटा
+🐰 Chef Sake - Community ([X/Twitter](https://x.com/KayraMeow))
 
-🐰 Chef Jackson - डेव लीड ([Twitter](https://x.com/0xchefjackson))
+🐰 Chef Marcus - Social Media &#x20;
 
-🐰 Chef Ryan - फ्रंटएंड डेव लीड
+🐰 Chef Boba - Community &#x20;
 
-🐰 Chef Eric - फ्रंटएंड डेव
+🐰 Chef Salade - Design Lead
 
-🐰 Chef Jerry - फ्रंटएंड डेव
+🐰 Chef Waffles - Designer
 
-🐰 Chef Philip - फ्रंटएंड डेव
+🐰 Chef Noodles - Designer
 
-🐰 Chef Penguin - फ्रंटएंड डेव
+🐰 Chef Cyrus - Data
 
-🐰 Chef Taco - बैकएंड डेव लीड
+🐰 Chef Mist - Dev Lead&#x20;
 
-🐰 Chef Sanji - बैकएंड डेव
+🐰 Chef Ryan - Frontend Dev Lead
 
-🐰 Chef Curry - बैकएंड डेव
+🐰 Chef Philip - AI Dev
 
-🐰 Chef Kiwi - बैकएंड डेव
+🐰 Chef Eric - Frontend Dev
 
-🐰 Chef Bob - बैकएंड डेव
+🐰 Chef Jerry - Frontend Dev
 
-🐰 Chef Toast - बैकएंड डेव
+🐰 Chef Penguin - Frontend Dev
 
-🐕 Chef Snoopy - स्मार्ट कॉन्ट्रैक्ट डेव लीड
+🐰 Chef Taco - Backend Dev Lead
 
-🐰 Chef Omelette - स्मार्ट कॉन्ट्रैक्ट डेव
+🐰 Chef Sanji - Backend Dev
 
-🐰 Chef Shiba - स्मार्ट कॉन्ट्रैक्ट डेव
+🐰 Chef Curry - Backend Dev
 
-🐰 Chef Carb - स्मार्ट कॉन्ट्रैक्ट डेव
+🐰 Chef Kiwi - Backend Dev
 
-🐰 Chef Ramen - स्मार्ट कॉन्ट्रैक्ट डेव
+🐰 Chef Bob - Backend Dev
+
+🐰 Chef Toast - Backend Dev
+
+🐕 Chef Snoopy - Smart Contract Dev Lead
+
+🐰 Chef Omelette - Smart Contract Dev
+
+🐰 Chef Shiba - Smart Contract Dev
+
+🐰 Chef Carb - Smart Contract Dev
+
+🐰 Chef Ramen - Smart Contract Dev
 
 🐰 Chef Ruby - QA
 
 🐰 Chef Liam - QA
 
-🐰 Chef Rei - सुरक्षा
-
-🐰 Chef Salade - डिज़ाइन लीड
-
-🐰 [Chef Cecy](https://medium.com/pancakeswap/kitchen-interviews-chef-cecy-the-magical-3d-artist-making-fluffy-bunnies-e1eda53742f3) - 3D आर्टिस्ट ([Twitter](https://twitter.com/Cecymeade))
-
-🐰 Chef Waffles - डिज़ाइनर
-
-🐰 Chef Noodles - ब्रांड / मोशन डिज़ाइनर
+🐰 Chef Rei - Security
 
 🐰 Chef Cola - HR
-
-🐰 Chef Cocoa - मार्केटिंग लीड ([Twitter](https://x.com/chef_cocoa_pcs))
-
-🐰 Chef Pixie - प्रोडक्ट मार्केटिंग मैनेजर ([Twitter](https://x.com/chefpixiee))
-
-🐰 Chef Marcus - सोशल मीडिया ([Twitter](https://x.com/ChefMarcusPCS))
-
-🐰 Chef Boba - कम्युनिटी ([Twitter](https://x.com/chefboba_pcs))
-
-🐰 Chef Croissant - इवेंट्स और PR

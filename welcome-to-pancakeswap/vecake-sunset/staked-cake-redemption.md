@@ -27,7 +27,7 @@ Connect होने के बाद, आपको निम्नलिखि�
 4. **My Total Rewards**: वह कुल CAKE जिसे आप redeem और claim करने के पात्र हैं, जो इनसे बना है:
 
 * **Cake Pool Rewards**: Legacy CAKE Pool rewards
-* **Revenue Sharing Rewards**: CAKE stake करने से अर्जित ([अधिक जानकारी](https://docs.pancakeswap.finance/earn/cake-staking/revenue-sharing/earn-cake-weekly))
+* **Revenue Sharing Rewards**: CAKE stake करने से अर्जित ([अधिक जानकारी](https://docs.pancakeswap.finance/welcome-to-pancakeswap/vecake-sunset/archive-vecake/earn-cake-weekly))
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Connected%20view%20balance.png" alt=""><figcaption></figcaption></figure>
 

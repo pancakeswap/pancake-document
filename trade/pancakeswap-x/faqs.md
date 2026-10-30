@@ -2,7 +2,7 @@
 
 #### वर्तमान में कौन सा नेटवर्क समर्थित है?
 
-PancakeSwap X, Arbitrum और Ethereum पर लाइव है, जो crypto tokens का समर्थन करता है, और BNB Chain पर यह tokenised stocks, bonds, और ETFs जैसी real-world assets (RWAs) का समर्थन करता है।
+PancakeSwap X, Arbitrum, Ethereum, BNB Chain, Base और Robinhood Chain पर लाइव है, जो crypto token swaps का समर्थन करता है। tokenised stocks, bonds, और ETFs जैसी real-world assets (RWAs) का समर्थन अतिरिक्त रूप से BNB Chain, Ethereum और Robinhood Chain पर भी है।
 
 #### क्या PancakeSwap X डिफ़ॉल्ट रूप से चालू है?
 

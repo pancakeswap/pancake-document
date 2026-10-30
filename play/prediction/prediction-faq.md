@@ -147,7 +147,7 @@ BscScan पर अपना वॉलेट पता दर्ज करें,
 {% tab title="Check rounds you played" %}
 आपने जो राउंड खेले उनका इतिहास कैसे देखें
 
-1. [Prediction contract](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (जैसे BNBUSD) के BscScan पृष्ठ पर जाएं।
+1. [Prediction contract](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract) (जैसे BNBUSD) के BscScan पृष्ठ पर जाएं।
 2. "8. getUserRounds" तक स्क्रॉल करें।
 3. "user(address)" के अंतर्गत अपना वॉलेट पता टाइप करें।
 4. "cursor(uint256)" को 0 और "size(uint256)" को 1000 पर सेट करें।
@@ -158,7 +158,7 @@ BscScan पर अपना वॉलेट पता दर्ज करें,
 {% tab title="Check if you can claim" %}
 पहले, जाँचें कि आप वास्तव में उस राउंड से दावा कर सकते हैं जो आपने खेला।
 
-1. [Prediction contract](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (जैसे BNBUSD) के BscScan पृष्ठ पर जाएं और Read टैब पर जाएं
+1. [Prediction contract](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract) (जैसे BNBUSD) के BscScan पृष्ठ पर जाएं और Read टैब पर जाएं
 2. "4. claimable" तक स्क्रॉल करें।
 3. "epoch(uint256)" के अंतर्गत वह राउंड ID टाइप करें जिसे आप जाँचना चाहते हैं।
 4. "user(address)" के अंतर्गत अपना वॉलेट पता टाइप करें।
@@ -171,7 +171,7 @@ BscScan पर अपना वॉलेट पता दर्ज करें,
 {% tab title="Claim from a round" %}
 दावा कैसे करें
 
-1. [Prediction contract](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (जैसे BNBUSD) के BscScan पृष्ठ पर जाएं और Write टैब पर जाएं
+1. [Prediction contract](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract) (जैसे BNBUSD) के BscScan पृष्ठ पर जाएं और Write टैब पर जाएं
 2. "🔴 Connect to Web3" पर टैप करें
 3. MetaMask या WalletConnect का उपयोग करके कनेक्ट करें।
 4. "3. claim" तक स्क्रॉल करें

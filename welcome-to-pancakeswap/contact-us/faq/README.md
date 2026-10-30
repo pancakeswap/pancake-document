@@ -1,7 +1,5 @@
 # सामान्य FAQ
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/general-faq-header%20%281%29.png)
-
 यह FAQ पृष्ठ PancakeSwap समुदाय के अक्सर पूछे जाने वाले सवालों (FAQ) के उत्तर देता है।
 
 ## क्या PancakeSwap सुरक्षित है? क्या PancakeSwap का ऑडिट हुआ है?
@@ -11,7 +9,7 @@
 * [PancakeSwap के ये सुरक्षा ऑडिट देखें](../../../#is-pancakeswap-safe)
 * पारदर्शिता:
   * हम ओपन-सोर्स सॉफ़्टवेयर पर निर्मित हैं: हमारी साइट और सभी स्मार्ट कॉन्ट्रैक्ट अधिकतम पारदर्शिता के लिए सार्वजनिक रूप से उपलब्ध हैं।
-  * हमारे कॉन्ट्रैक्ट ब्लॉक एक्सप्लोरर पर सत्यापित हैं, ताकि आप जानें कि जो दिखता है वही मिलता है। इन्हें [यहाँ](/broken/pages/-MeTcIwNOfhTYrz1V3xJ) देखें।
+  * हमारे कॉन्ट्रैक्ट ब्लॉक एक्सप्लोरर पर सत्यापित हैं, ताकि आप जानें कि जो दिखता है वही मिलता है। इन्हें [यहाँ](https://developer.pancakeswap.finance/) देखें।
 * सुरक्षा की सर्वोत्तम प्रथाएँ:
   * हमारी टीम सभी कॉन्ट्रैक्ट के लिए multisig का उपयोग करती है।
   * हमारे कॉन्ट्रैक्ट का time-lock आपको मानसिक शांति देता है।
@@ -20,7 +18,7 @@
 
 आप PancakeSwap के Syrup Pools में अपने CAKE की स्टेकिंग कर सकते हैं। [Syrup Pools पृष्ठ](https://pancakeswap.finance/pools) पर जाएँ।
 
-यदि आप स्टेकिंग शुरू करने में सहायता चाहते हैं, तो हमारी [Syrup Pools में स्टेकिंग कैसे करें गाइड](https://docs.pancakeswap.finance/products/syrup-pool/syrup-pool-guide) पढ़ें।
+यदि आप स्टेकिंग शुरू करने में सहायता चाहते हैं, तो हमारी [Syrup Pools में स्टेकिंग कैसे करें गाइड](https://docs.pancakeswap.finance/earn/cake-staking/syrup-pool/syrup-pool-guide) पढ़ें।
 
 ## स्टेकिंग और फार्मिंग में क्या अंतर है?
 
@@ -30,19 +28,19 @@ Syrup Pools में स्टेकिंग और Yield Farming के स�
 [Syrup Pool स्टेकिंग के बारे में अधिक जानें।](https://docs.pancakeswap.finance/products/syrup-pool)
 
 फार्मिंग अधिक जटिल है और इसके लिए LP Tokens की आवश्यकता होती है।\
-[Yield Farming के बारे में अधिक जानें।](https://docs.pancakeswap.finance/products/yield-farming)
+[Yield Farming के बारे में अधिक जानें।](https://docs.pancakeswap.finance/earn/yield-farming)
 
 ## मैं फार्मिंग कैसे करूँ?
 
-यदि आप फार्मिंग सीखना चाहते हैं, तो हमारे पास एक [Yield Farming गाइड](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) उपलब्ध है।
+यदि आप फार्मिंग सीखना चाहते हैं, तो हमारे पास एक [Yield Farming गाइड](https://docs.pancakeswap.finance/earn/yield-farming/how-to-use-farms/how-to-use-farms) उपलब्ध है।
 
 ## PancakeSwap का रोडमैप कहाँ देख सकते हैं?
 
-आप [हमारी to-do सूची यहाँ देख सकते हैं, लेकिन इसे रोडमैप न कहें](https://docs.pancakeswap.finance/roadmap)।
+आप [हमारी to-do सूची यहाँ देख सकते हैं, लेकिन इसे रोडमैप न कहें](https://docs.pancakeswap.finance/welcome-to-pancakeswap/roadmap)।
 
 ## मैं अपना वॉलेट BNB Smart Chain और PancakeSwap से कैसे जोड़ूँ?
 
-हमारे पास [PancakeSwap से वॉलेट जोड़ने की गाइड](https://docs.pancakeswap.finance/get-started/connection-guide) है जो इसे विस्तार से बताती है।
+हमारे पास [PancakeSwap से वॉलेट जोड़ने की गाइड](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/connection-guide) है जो इसे विस्तार से बताती है।
 
 ## PancakeSwap के लिए सबसे अच्छा वॉलेट कौन सा है?
 
@@ -52,9 +50,9 @@ Syrup Pools में स्टेकिंग और Yield Farming के स�
 
 आप [https://bscscan.com/](https://bscscan.com) पर जाकर ट्रांजैक्शन की स्थिति जाँच सकते हैं।
 
-यदि आपको कोई समस्या आ रही है, तो हमारी [त्रुटि समाधान गाइड](https://docs.pancakeswap.finance/help/troubleshooting) में समाधान मिल सकता है।
+यदि आपको कोई समस्या आ रही है, तो हमारी [त्रुटि समाधान गाइड](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/faq/troubleshooting) में समाधान मिल सकता है।
 
-यदि आपका ट्रांजैक्शन अटका हुआ है, तो [अटके हुए ट्रांजैक्शन ठीक करने की गाइड](https://docs.pancakeswap.finance/help/unsticking-a-transaction-stuck-as-pending-with-metamask) देखें।
+यदि आपका ट्रांजैक्शन अटका हुआ है, तो [अटके हुए ट्रांजैक्शन ठीक करने की गाइड](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/faq/unsticking-a-transaction-stuck-as-pending-with-metamask) देखें।
 
 ## नए Pools कब खुलेंगे?
 
@@ -82,15 +80,15 @@ PancakeSwap पर नए Pools नियमित रूप से जोड़
 
 ## मेरे वॉलेट में BNB बैलेंस क्यों नहीं दिख रहा?
 
-यदि आपने [BNB Smart Chain-सक्षम वॉलेट में BNB ट्रांसफर](https://docs.pancakeswap.finance/get-started/bep20-guide) कर लिया है लेकिन फिर भी यह त्रुटि आ रही है, तो संभवतः आप अपने वॉलेट में [BNB Smart Chain से कनेक्ट](https://docs.pancakeswap.finance/get-started/connection-guide) नहीं हैं। अपने वॉलेट में चुने हुए नेटवर्क की जाँच करें और सुनिश्चित करें कि BNB Smart Chain (BSC) चुना हुआ है।
+यदि आपने [BNB Smart Chain-सक्षम वॉलेट में BNB ट्रांसफर](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/bep20-guide) कर लिया है लेकिन फिर भी यह त्रुटि आ रही है, तो संभवतः आप अपने वॉलेट में [BNB Smart Chain से कनेक्ट](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/connection-guide) नहीं हैं। अपने वॉलेट में चुने हुए नेटवर्क की जाँच करें और सुनिश्चित करें कि BNB Smart Chain (BSC) चुना हुआ है।
 
 ## मैं मतदान (Voting) कैसे करूँ?
 
-मतदान के बारे में अधिक जानने के लिए, हमारे [मतदान अनुभाग](https://docs.pancakeswap.finance/products/voting) को पढ़ें, जिसमें मतदान गाइड भी शामिल हैं।
+मतदान के बारे में अधिक जानने के लिए, हमारे [मतदान अनुभाग](https://docs.pancakeswap.finance/protocol/voting) को पढ़ें, जिसमें मतदान गाइड भी शामिल हैं।
 
 ## CAKE की अधिकतम आपूर्ति क्या है?
 
-हाँ, CAKE की अब 400M की हार्ड कैप है, जैसा [हमारे नवीनतम प्रस्ताव](https://pancakeswap.finance/voting/proposal/0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5?id=0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5\&chain=bsc) में बताया गया है।
+CAKE की अब 400M की हार्ड कैप है, जैसा [हमारे नवीनतम प्रस्ताव](https://pancakeswap.finance/voting/proposal/0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5?id=0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5\&chain=bsc) में बताया गया है।
 
 ## ट्रेजरी फंड का उपयोग किस लिए होता है?
 
@@ -112,7 +110,7 @@ PancakeSwap के अन्य स्मार्ट कॉन्ट्रै�
 
 खुली पदों की जानकारी के लिए [Become a Chef](https://docs.pancakeswap.finance/hiring/become-a-chef) अनुभाग देखें।
 
-हम नए पदों की जानकारी [आधिकारिक सोशल मीडिया चैनलों](https://docs.pancakeswap.finance/contact-us/telegram) पर देते हैं, इसलिए नवीनतम भर्ती जानकारी के लिए हमें फॉलो करें।
+हम नए पदों की जानकारी [Telegram और Discord समुदायों](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/telegram-and-discord-communities) पर देते हैं, इसलिए नवीनतम भर्ती जानकारी के लिए हमें फॉलो करें।
 
 ## SYRUP क्या था?
 
@@ -120,4 +118,4 @@ SYRUP PancakeSwap के शुरुआती दौर में स्टे�
 
 ## मुझे अपने प्रश्न का उत्तर नहीं मिल रहा। कहाँ देखूँ?
 
-यदि आपको PancakeSwap के दस्तावेज़ में अपनी बात नहीं मिलती, तो [PancakeSwap के आधिकारिक सोशल मीडिया प्लेटफॉर्म](https://docs.pancakeswap.finance/contact-us/telegram) पर अपना प्रश्न पूछें और कोई न कोई सहायता करने की पूरी कोशिश करेगा।
+यदि आपको PancakeSwap के दस्तावेज़ में अपनी बात नहीं मिलती, तो हमारे [Telegram और Discord समुदायों](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/telegram-and-discord-communities) पर अपना प्रश्न पूछें और कोई न कोई सहायता करने की पूरी कोशिश करेगा।

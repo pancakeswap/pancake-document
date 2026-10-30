@@ -13,7 +13,6 @@ PancakeSwap में हमारा लक्ष्य एक ऐसा वि
 * [Spot trading](https://docs.pancakeswap.finance/earn/pancakeswap-pools#trading-fees) (ट्रेडिंग fees का 15-23%)
 * Perpetual trading (सभी profits का 20%)
 * CAKE.PADs (सभी fees का 100%)
-* Prediction (प्रत्येक round का 3%)
 * Lottery (खेले गए सभी CAKE का 20%)
 
 **Emissions को सावधानी से manage किया जाता है ताकि liquidity सबसे productive pools और products में निर्देशित हो।** PancakeSwap का ध्यान liquidity incentives को optimize करके और CAKE खर्च किए जाने पर revenue को बढ़ाकर volume growth को scale करने पर है। हर निर्णय real revenue बनाने और पूरे समुदाय के लिए दीर्घकालिक सफलता में योगदान देने के लक्ष्य के इर्द-गिर्द घूमता है। CAKE emissions प्राप्त करने वाले उत्पादों में शामिल हैं:

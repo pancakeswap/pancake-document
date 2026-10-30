@@ -20,4 +20,4 @@ Chefs का लक्ष्य PancakeSwap के products में deflationa
 
 ### Deflationary mechanisms
 
-नियमित token burns ([burn address देखें](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82?a=0x000000000000000000000000000000000000dead)) PancakeSwap के कई products में built-in हैं (जैसे lottery tickets पर खर्च की गई CAKE का 10% burn), और अधिक आने वाले हैं। वर्तमान और upcoming deflationary mechanisms के details के लिए [**CAKE Tokenomics page**](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics) देखें।
+नियमित token burns ([burn address देखें](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82?a=0x000000000000000000000000000000000000dead)) PancakeSwap के कई products में built-in हैं (जैसे lottery tickets पर खर्च की गई CAKE का 10% burn), और अधिक आने वाले हैं। वर्तमान और upcoming deflationary mechanisms के details के लिए [**CAKE Tokenomics page**](https://docs.pancakeswap.finance/protocol/cake-tokenomics) देखें।

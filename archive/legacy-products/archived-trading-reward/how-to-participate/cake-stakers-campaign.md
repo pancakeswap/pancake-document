@@ -25,7 +25,7 @@ CAKE Stakers campaign अब veCAKE Stakers campaign है। Fixed-term stakin
 *   [Swap page](https://pancakeswap.finance/swap) पर "Hot Token" list से 💝 icon देखें। या trading rewards वाले pairs check करने के लिए filter उपयोग करें।
 
     <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28183%29.png" alt=""><figcaption></figcaption></figure>
-* हमारे [social media channels](/broken/pages/QqND39S2UhktBbu09Doj) check करें।
+* हमारे [social media channels](../../../../welcome-to-pancakeswap/contact-us/social-accounts.md) check करें।
 
 ## जाँचें कि आपका address eligible है या नहीं <a href="#ced8a6c5-803a-4a60-80d0-44e823571d84" id="ced8a6c5-803a-4a60-80d0-44e823571d84"></a>
 

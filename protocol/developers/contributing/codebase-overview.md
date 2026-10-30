@@ -11,7 +11,7 @@ description: Pancake Github पर अपना रास्ता खोजे�
 ## Github repositories
 
 * Frontend: मुख्य frontend। इसमें वे सभी features शामिल हैं जो नीचे सूचीबद्ध नहीं हैं।
-  * [sdk](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/swap-sdk) - Pancakeswap के ऊपर applications बनाने के लिए एक SDK
+  * [sdk](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/swap-sdk) - PancakeSwap के ऊपर applications बनाने के लिए एक SDK
   * [aptos-swap-sdk](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/aptos-swap-sdk) - Swap SDK का Aptos version
   * [swap-sdk-core](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/swap-sdk-core) - Swap SDK Shared code
   * [wagmi](https://github.com/pancakeswap/pancake-frontend/blob/develop/packages/wagmi) - [wagmi](https://github.com/wagmi-dev/wagmi) के लिए Extension, जिसमें bsc chain और binance wallet connector शामिल है

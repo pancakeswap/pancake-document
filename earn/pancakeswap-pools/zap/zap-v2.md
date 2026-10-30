@@ -29,7 +29,7 @@ Zap सरल तरलता प्रावधान को सक्षम �
 
 [Liquidity पृष्ठ](https://pancakeswap.finance/liquidity) पर जाएं और "Add Liquidity" चुनें।
 
-दो इनपुट टोकन चुनकर वह ट्रेडिंग जोड़ा चुनें जिसमें आप तरलता प्रदान करना चाहते हैं, अधिक जानने के लिए [Liquidity गाइड](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide) देखें।
+दो इनपुट टोकन चुनकर वह ट्रेडिंग जोड़ा चुनें जिसमें आप तरलता प्रदान करना चाहते हैं, अधिक जानने के लिए [Liquidity गाइड](https://docs.pancakeswap.finance/earn/pancakeswap-pools/liquidity-guide) देखें।
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-1.png)
 

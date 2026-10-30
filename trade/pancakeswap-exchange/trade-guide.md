@@ -6,9 +6,9 @@ PancakeSwap पर ट्रेडिंग अधिकांश एक्स�
 
 **ट्रेडिंग के लिए तैयारी**
 
-व्यापार शुरू करने से पहले, आपके पास BNB Chain या Ethereum के साथ संगत एक वॉलेट होना चाहिए। आप इसे प्राप्त करने का तरीका [यहाँ](https://docs.pancakeswap.finance/get-started/wallet-guide) सीख सकते हैं। आपके पास ट्रेड करने के लिए कुछ BEP-20 या ERC-20 टोकन भी होने चाहिए। आप उन्हें प्राप्त करने का तरीका [यहाँ](https://docs.pancakeswap.finance/get-started/bep20-guide) सीख सकते हैं।
+व्यापार शुरू करने से पहले, आपके पास BNB Chain या Ethereum के साथ संगत एक वॉलेट होना चाहिए। आप इसे प्राप्त करने का तरीका [यहाँ](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/wallet-guide) सीख सकते हैं। आपके पास ट्रेड करने के लिए कुछ BEP-20 या ERC-20 टोकन भी होने चाहिए। आप उन्हें प्राप्त करने का तरीका [यहाँ](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/bep20-guide) सीख सकते हैं।
 
-वैकल्पिक रूप से, आप Aptos के अनुकूल वॉलेट प्राप्त करने का तरीका [यहाँ](https://docs.pancakeswap.finance/get-started-aptos/wallet-guide) सीख सकते हैं, और स्वैप के लिए Aptos coins प्राप्त करने का तरीका [यहाँ](https://docs.pancakeswap.finance/get-started-aptos/aptos-coin-guide) सीख सकते हैं।
+वैकल्पिक रूप से, आप Aptos के अनुकूल वॉलेट प्राप्त करने का तरीका [यहाँ](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-aptos/wallet-guide) सीख सकते हैं, और स्वैप के लिए Aptos coins प्राप्त करने का तरीका [यहाँ](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-aptos/aptos-coin-guide) सीख सकते हैं।
 
 ## PancakeSwap Exchange पर ट्रेडिंग
 
@@ -64,7 +64,7 @@ Smart Router अब PancakeSwap Exchange V3 के लिए डिफ़ॉल�
 
 अपने ट्रेड रूट को अनुकूलित करने के तरीके के बारे में अधिक जानने के लिए, [यहाँ क्लिक करें](fees-and-routes.md)।&#x20;
 
-StableSwap के बारे में अधिक जानकारी के लिए, [यहाँ क्लिक करें](/broken/pages/nNPogTZMxocdyFIBYbkE), और Market Maker integration के बारे में, [यहाँ क्लिक करें](market-maker-integration.md)।
+StableSwap के बारे में अधिक जानकारी के लिए, [यहाँ क्लिक करें](../stableswap/classic-stableswap.md), और Market Maker integration के बारे में, [यहाँ क्लिक करें](market-maker-integration.md)।
 
 ## FAQ
 

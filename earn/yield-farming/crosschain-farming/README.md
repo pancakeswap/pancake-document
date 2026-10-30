@@ -11,7 +11,7 @@ hidden: true
 
 यील्ड फार्मिंग के बारे में अधिक जानने के लिए [मुख्य अनुभाग](../) देखें।
 
-फार्मिंग शुरू करने के लिए हमारी [फार्म का उपयोग कैसे करें गाइड](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) देखें।
+फार्मिंग शुरू करने के लिए हमारी [फार्म का उपयोग कैसे करें गाइड](https://docs.pancakeswap.finance/earn/yield-farming/how-to-use-farms/how-to-use-farms) देखें।
 
 {% hint style="warning" %}
 यील्ड फार्मिंग सिरप पूल की तुलना में बेहतर पुरस्कार दे सकती है, लेकिन इसमें **Impermanent Loss** का जोखिम होता है। यह सुनने में जितना डरावना लगता है, उतना है नहीं — लेकिन शुरू करने से पहले इस अवधारणा को समझना उचित होगा।

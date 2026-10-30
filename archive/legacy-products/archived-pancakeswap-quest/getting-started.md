@@ -19,7 +19,7 @@
        <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unnamed%20%287%29.png" alt=""><figcaption></figcaption></figure>
 
        <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unnamed%20%286%29.png" alt="" width="375"><figcaption></figcaption></figure>
-3.  Profile setup screen पर दिए गए steps follow करें या step 7 से यहाँ[Broken link](/broken/pages/-MYdfYNF3jEh_f1HFdcj "mention") make profile guide देखें। Setup free है, हालाँकि profiles setup करने के लिए BNB Chain पर थोड़ी gas की आवश्यकता होती है।
+3.  Profile setup screen पर दिए गए steps follow करें या step 7 से यहाँ make profile guide देखें। Setup free है, हालाँकि profiles setup करने के लिए BNB Chain पर थोड़ी gas की आवश्यकता होती है।
 
     <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unnamed%20%285%29.png" alt="" width="375"><figcaption><p>Bunny चुनें - आपकी quest journey के लिए एक generic starter bunny</p></figcaption></figure>
 
