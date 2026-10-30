@@ -22,7 +22,7 @@ Token launchpad tekliflerimiz ("[Initial Farm Offering veya IFO](https://pancake
    * Sorularını netleştirmek ve ✨olumlu bir atmosfer✨ oluşturmak için topluluğumuzla etkileşimli bir oturum
 5. IFO Lansmanı
    * IFO'yu başlatırız; topluluk yöneticisi ekibimiz aracılığıyla topluluk tarafından dile getirilen geri bildirimleri takip eder, derler ve iletiriz
-   * Aynı zamanda [Twitter](https://app.gitbook.com/o/-MHRKTpKSfYQBsO7YgOo/s/fxRem6Hv7x6dAU7rlR7a/) ve [Telegram](https://t.me/PancakeSwapAnn/6131) kanallarımızda bazı pazarlama materyalleri yayınlarız
+   * Aynı zamanda [Twitter](https://x.com/PancakeSwap) ve [Telegram](https://t.me/PancakeSwapAnn/6131) kanallarımızda bazı pazarlama materyalleri yayınlarız
 6. Lansman Sonrası
    * İletişimde kalmaya ve mümkün olan her yerde birlikte çalışmaya devam edeceğiz!&#x20;
 

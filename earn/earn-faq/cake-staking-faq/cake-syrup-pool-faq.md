@@ -8,7 +8,7 @@ hidden: true
 
 ### Hangi kilit süresini seçebiliriz?
 
-1-52 hafta arasından seçim yapabilirsin. Sen ne tercih edersin?
+1 haftadan 4 yıla kadar seçim yapabilirsin.
 
 ### Yeni CAKE Syrup Pool getiri yüzdelerini (Esnek ve Sabit Vadeli Staking seçenekleri) hangi değişkenler etkiler?
 

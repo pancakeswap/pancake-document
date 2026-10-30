@@ -7,7 +7,7 @@ description: EVM zincirleri ile Aptos arasında CAKE Bridge et
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28113%29.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Aşağıdaki kılavuzda örnek olarak BNB Chain kullanılmıştır. Aynı süreç Ethereum için de geçerlidir.
+Aşağıdaki kılavuzda örnek olarak BNB Chain kullanılmıştır. Aynı süreç Aptos'a **bridge ederken** Ethereum için de geçerlidir. Aptos'tan **dışarı bridge ederken** şu anda hedef olarak yalnızca BNB Smart Chain desteklenmektedir.
 {% endhint %}
 
 ## BNB Smart Chain'den Aptos'a CAKE Bridge Et

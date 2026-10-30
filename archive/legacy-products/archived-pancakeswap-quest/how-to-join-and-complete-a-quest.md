@@ -8,7 +8,7 @@
 
 1.  Kullanıcılar doğrudan bağlantı aracılığıyla bir göreve katılmayı seçebilir ya da yeni öğelere göz atmak için [görev ana sayfamıza](https://quest.pancakeswap.finance/quests) gidebilir. Daha fazla bilgi edinmek için herhangi bir göreve tıkla.
 
-    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%206.54.53%20PM.png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%206.54.53%E2%80%AFPM.png" alt="" width="563"><figcaption></figcaption></figure>
 2. Keşfet sayfasından farklı görev sayısı, kazanan sayısı, zincir ve zaman dilimine sahip görevlere göz atabilirsin.
 3. Görevi başlat
    1. Görev seçildikten sonra kullanıcılar görevlere katılmaya başlamak için "Göreve Katıl"a tıklayabilir.
@@ -17,7 +17,7 @@
 
 1.  Kullanıcılar her görevi tamamlamadan önce görev ve aksiyonları yerine getirmelidir. Görevleri seç ve meydan okumayı yerine getirmek için ekrandaki metni takip et. Aksiyonlar sosyal görevlerden zincir üzeri öğelere kadar uzanabilir.
 
-    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%207.18.31%20PM.png" alt="" width="368"><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%207.18.31%E2%80%AFPM.png" alt="" width="368"><figcaption></figcaption></figure>
 2.  Sosyal Görevler — Görevler şunları içerebilir:
 
     1. X'te bir gönderiyi beğen
@@ -42,7 +42,7 @@
     **Not: Veri alım hızları nedeniyle zincir üzeri görevlerin belirli zincirlerde doğrulanması 1 saate kadar sürebilir.**
 4.  Kalan görevleri üst kısımdaki durum çubuğundan görüntüleyebilirsin. Görev tamamlandığında sol üstte "Tamamlandı" yazması gerekir. Görevin token ödülü varsa ardından rastgele ödül çekilişine hak kazanırsın.
 
-    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%207.28.19%20PM.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%207.28.19%E2%80%AFPM.png" alt=""><figcaption></figcaption></figure>
 5. Kullanıcılar ayrıca görevin zorunlu tamamlama sürecine dahil edilmeyen isteğe bağlı görevleri tamamlamayı da seçebilir.
 
 ### Görev Durumunu Kontrol Etme

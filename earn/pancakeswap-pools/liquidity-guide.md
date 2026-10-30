@@ -10,7 +10,7 @@ Likidite eklemenin karşılığında o çift için işlem ücretleri alacak ve C
 
 Likidite sağlamak için istediğin token çiftinin belirli bir miktarını taahhüt etmen gerekecektir. İki token'ın daha düşük USD değeri, sağlayabileceğin likiditеnin sınırını belirler.
 
-İhtiyacın olan token'lar için kolayca ticaret yapabilirsin. Yardıma ihtiyacın olursa [PancakeSwap'ta Nasıl Ticaret Yapılır](https://docs.pancakeswap.finance/get-started/trade-guide) kılavuzumuza göz at.
+İhtiyacın olan token'lar için kolayca ticaret yapabilirsin. Yardıma ihtiyacın olursa [PancakeSwap'ta Nasıl Ticaret Yapılır](https://docs.pancakeswap.finance/trade/pancakeswap-exchange/trade-guide) kılavuzumuza göz at.
 
 Bu örnekte ETH ve USDC kullanarak V3 likiditesi ekleyeceğiz.
 

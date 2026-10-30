@@ -102,7 +102,7 @@ Hangi cüzdanı seçersen seç, süreç genel olarak benzerdir:
 * Merkezi bir borsada SOL satın al ve aktarımını yap
 * Ya da [pancakeswap.finance/bridge](https://pancakeswap.finance/bridge) adresindeki cross-chain bridge kullanarak Solana'ya varlık köprüle
 
-[SOL Nasıl Edinilir](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-sol/get-sol) sayfasına bakarak nasıl yapılacağını öğren
+[SOL Nasıl Edinilir](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-sol/get-sol-cake-on-sol) sayfasına bakarak nasıl yapılacağını öğren
 
 ***
 

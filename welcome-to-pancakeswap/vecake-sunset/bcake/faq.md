@@ -114,4 +114,4 @@ Bu nedenle ilk ürün yayın aşamasında pek çok parametre çok muhafazakârd�
 
 bCAKE hem dahili hem de harici denetçiler tarafından denetlenmiştir.
 
-Denetim raporlarına buradan göz at: [https://docs.pancakeswap.finance/readme/audits](https://docs.pancakeswap.finance/readme/audits)
+Denetim raporlarına buradan göz at: [https://docs.pancakeswap.finance/welcome-to-pancakeswap/audits](https://docs.pancakeswap.finance/welcome-to-pancakeswap/audits)

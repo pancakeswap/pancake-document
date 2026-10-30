@@ -2,7 +2,7 @@
 
 #### Şu anda hangi ağ desteklenmektedir?
 
-PancakeSwap X, Arbitrum ve Ethereum'da kripto token'larını destekleyerek, BNB Chain'de ise tokenize hisse senetleri, tahviller ve ETF'ler gibi gerçek dünya varlıklarını (RWA'lar) destekleyerek yayındadır.
+PancakeSwap X; Arbitrum, Ethereum, BNB Chain, Base ve Robinhood Chain üzerinde kripto token swap'larını destekleyerek yayındadır. Tokenize hisse senetleri, tahviller ve ETF'ler gibi gerçek dünya varlıkları (RWA'lar) ayrıca BNB Chain, Ethereum ve Robinhood Chain üzerinde desteklenmektedir.
 
 #### PancakeSwap X varsayılan olarak açık mı?
 

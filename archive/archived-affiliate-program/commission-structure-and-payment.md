@@ -12,9 +12,9 @@ Komisyon yapımız aşağıdaki gibidir:
 * en az **1 ana token** içermelidir (BNB, BTC, BUSD, ETH, USDT ve/veya USDC)
 * Yalnızca **BNB Smart Chain ve Ethereum zincirindeki** Swap işlemleriyle sınırlıdır
 
-**\*\*** Perpetuals belirli yargı bölgelerinde yasaktır; lütfen bu platformda türev araçlar işlemi yapmaya uygun olduğundan emin ol.
+**Perpetuals belirli yargı bölgelerinde yasaktır.** Lütfen bu platformda türev araçlar işlemi yapmaya uygun olduğundan emin ol.
 
-\*\*\*Perpetual işlemlerindeki işlem ücretleri (veya tasfiye ücretine tabi olabilecek herhangi bir Referans pozisyonu) Referanslarının pozisyonunu tasfiye etmek için herhangi bir tasfiye ücreti içermez. Yalnızca **BNB Smart Chain ve Ethereum zincirindeki** perpetual işlemleriyle sınırlıdır.
+Perpetual işlemlerindeki işlem ücretleri (veya tasfiye ücretine tabi olabilecek herhangi bir Referans pozisyonu) Referanslarının pozisyonunu tasfiye etmek için herhangi bir tasfiye ücreti içermez. Yalnızca **BNB Smart Chain ve Ethereum zincirindeki** perpetual işlemleriyle sınırlıdır.
 
 ### Ödeme
 

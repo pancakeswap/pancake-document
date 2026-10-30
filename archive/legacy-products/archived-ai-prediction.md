@@ -54,6 +54,6 @@ Desteklenen Tokenlar: ETH
 
 Önceki tur fiyatını ve yapay zeka kararını kontrol etmek için geçmiş sekmesindeki Tur Geçmişine başvurabilirsin. Tüm turlar zincir üzerinde çözüme kavuşur; daha fazla bilgi için [tahmin sözleşmesine](https://arbiscan.io/address/0x1cdc19B13729f16C5284a0ACE825F83fC9d799f4) bakabilirsin.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-06-26%20at%208.02.17%20PM.png" alt=""><figcaption><p>Sağdaki geçmiş sekmesine başvur</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-06-26%20at%208.02.17%E2%80%AFPM.png" alt=""><figcaption><p>Sağdaki geçmiş sekmesine başvur</p></figcaption></figure>
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-06-26%20at%208.01.26%20PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-06-26%20at%208.01.26%E2%80%AFPM.png" alt=""><figcaption></figcaption></figure>

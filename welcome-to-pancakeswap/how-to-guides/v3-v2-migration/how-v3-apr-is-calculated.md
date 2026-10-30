@@ -52,7 +52,7 @@ Global APR, toplam aktif ve stake edilmiş likidite miktarı ile Pool CAKE ödü
 Bireysel pozisyonların APR'leri, fiyat aralığı ayarlarına göre değişiklik gösterebilir.
 
 $$
-ARP_p = {\frac{USD_{r}}{USD_{p}}} {\frac{L_{p}}{L_{lm}}}
+APR_p = {\frac{USD_{r}}{USD_{p}}} {\frac{L_{p}}{L_{lm}}}
 $$
 
 * $$USD_r$$: Pool'da yıllık kazanılan CAKE ödülünün USD değeri

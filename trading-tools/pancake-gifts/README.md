@@ -92,4 +92,4 @@ Hediyeler duruma ve zamana göre tanımlanmış bir yaşam döngüsünü izler:
    * İlk başarısız talpete yeniden deneme yapılacaktır.
    * Hâlâ başarısız olursa:
      * Alıcı "Talep Edilemez" görür
-     * Gönderici fonları almak için hediyeyi manuel olarak iptal etmeli; alıcının yeni bir hediye kodu talep etmesi veya alması gerekecektir.
+     * Gönderici fonları almak için hediyeyi manuel olarak iptal etmeli; alıcının yeni bir hediye kodu talep etmesi gerekecektir.

@@ -1,6 +1,6 @@
 # RWA'lar
 
-PancakeSwap X, gerçek dünya varlıklarını büyük ölçekte BNB Chain'de zincir üstüne taşır. Kullanıcılar, Ondo Finance destekli olarak PancakeSwap üzerinde doğrudan 100'den fazla tokenize hisse senedi, tahvil ve ETF işlemi yapabilir.
+PancakeSwap, gerçek dünya varlıklarını büyük ölçekte BNB Chain, Ethereum ve Robinhood Chain üzerinde zincir üstüne taşır; RWA trading'i ayrıca Solana'da da mevcuttur. Kullanıcılar, Ondo Finance ve diğer ihraççılar tarafından desteklenen 100'den fazla tokenize hisse senedi, tahvil ve ETF'yi doğrudan PancakeSwap üzerinde işlem yapabilir.
 
 ### Ondo Finance Nedir?
 

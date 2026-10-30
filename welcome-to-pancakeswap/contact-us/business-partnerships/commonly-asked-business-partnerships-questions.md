@@ -12,7 +12,7 @@ Zaten devam eden bir Syrup Pool'un varsa, ek token salımıyla süreyi uzatabili
 
 #### Token'ımı borsada nasıl listeleyebilirim?
 
-PancakeSwap'te herhangi bir ERC-20 / BEP-20 ağ token'ını herkes "listeleyebilir". Bizimle iletişime geçmene veya izin almana gerek yok. Tek yapman gereken [bir likidite havuzuna likidite eklemek](https://docs.pancakeswap.finance/products/pancakeswap-exchange/pancakeswap-pools) — bu kadar. Sonrasında yatırımcılar, token'ının sözleşme adresini girerek işlem yapabilir.
+PancakeSwap'te herhangi bir ERC-20 / BEP-20 ağ token'ını herkes "listeleyebilir". Bizimle iletişime geçmene veya izin almana gerek yok. Tek yapman gereken [bir likidite havuzuna likidite eklemek](https://docs.pancakeswap.finance/earn/pancakeswap-pools) — bu kadar. Sonrasında yatırımcılar, token'ının sözleşme adresini girerek işlem yapabilir.
 
 #### Token'ımı varsayılan listeye nasıl ekletirim?
 
@@ -30,7 +30,7 @@ PancakeSwap'in AMM tabanlı DEX yapısı nedeniyle herhangi bir token'ın işlem
 
 #### Kullanıcılar token'ımı işlem yaparken hata alıyor. Ne yapabilirim?
 
-Exchange'deki yaygın hatalar ve çözümleri için [Hata Giderme sayfamıza](https://docs.pancakeswap.finance/readme/help/troubleshooting) bak.
+Exchange'deki yaygın hatalar ve çözümleri için [Hata Giderme sayfamıza](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/faq/troubleshooting) bak.
 
 #### Token'ımın bazı istatistikleri neden Bilgi sayfasında gösterilmiyor?
 

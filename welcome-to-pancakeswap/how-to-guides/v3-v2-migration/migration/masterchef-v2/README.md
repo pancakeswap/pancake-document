@@ -44,7 +44,7 @@ Yeni `PoolInfo` yapısının lp token adresi alanını **içermediğini** unutma
 
 Herhangi bir farm havuzunun toplam staking miktarını almak için `lpToken.balanceOf(MasterChef.address)` kullanabilirsin.
 
-Ancak MasterChef v2'de kullanıcıların payı artırılabilir (yakında). Bu nedenle ödüller, her havuzun toplam payları olarak `PoolInfo`'daki yeni `totalBoostedShare` alanı kullanılarak hesaplanır. Örneğin, havuz 0'da 2 kullanıcı varsa, kullanıcı1 100 LP stake ediyorsa (artırma olmadan), kullanıcı2 100 stake ediyorsa (`boostMultiplier` 1,05 ise), `totalBoostedShare` 205 olur. Sonuç olarak kullanıcı2 daha fazla ödül kazanır.
+Ancak MasterChef v2'de kullanıcıların payı artırılabilir. Bu nedenle ödüller, her havuzun toplam payları olarak `PoolInfo`'daki yeni `totalBoostedShare` alanı kullanılarak hesaplanır. Örneğin, havuz 0'da 2 kullanıcı varsa, kullanıcı1 100 LP stake ediyorsa (artırma olmadan), kullanıcı2 100 stake ediyorsa (`boostMultiplier` 1,05 ise), `totalBoostedShare` 205 olur. Sonuç olarak kullanıcı2 daha fazla ödül kazanır.
 
 #### CakePerBlock
 

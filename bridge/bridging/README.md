@@ -29,7 +29,7 @@ Bridge kullanmak isteyebileceğin bazı nedenler:
 
 ## CAKE, çok zincirli bir token
 
-Çok zincirli genişlememiz ve dağıtımımızla birlikte CAKE artık BNB Chain'e özgü, ancak Base, Arbitrum, Solana, Ethereum, ZKsync, Linea, opBNB ve Aptos'ta da kullanılabilen çok zincirli bir token haline geldi.
+Çok zincirli genişlememiz ve dağıtımımızla birlikte CAKE artık BNB Chain'e özgü, ancak Base, Arbitrum, Solana, Ethereum, ZKsync, Linea, opBNB, Monad ve Aptos'ta da kullanılabilen çok zincirli bir token haline geldi.
 
 Diğer zincirlerden herhangi birindeki CAKE, BNB Smart Chain'deki CAKE'e eşittir. Bu zincirler arasında her zaman 1:1 oranında ve CAKE üzerinden herhangi bir ücret alınmadan Bridge edilebilir.
 
@@ -67,6 +67,7 @@ Bridging, emanetsizdir (non-custodial) — varlıkların PancakeSwap'ın gözeti
 * LayerZero
 * Stargate
 * Meson
+* Mayan
 
 > Not: Her sağlayıcının farklı Bridge mekanizmaları, desteklenen zincirleri, ücretleri ve limitleri vardır.
 
@@ -83,6 +84,9 @@ Bridging, emanetsizdir (non-custodial) — varlıkların PancakeSwap'ın gözeti
 * opBNB
 * ZKsync
 * Linea
+* Monad
+* Robinhood
+* Solana
 * Aptos (V1 sitesi)
 
 #### Bridge İçin Mevcut Token'lar
@@ -197,3 +201,7 @@ Bir işlem uzun süre takılı kalırsa ilgili gezgini kontrol et ya da [yardım
    * `cakeOFT`: `0x3055913c90Fcc1A6CE9a358911721eEb942013A1` ([link](https://basescan.org/address/0x3055913c90Fcc1A6CE9a358911721eEb942013A1#code))
 8. **opBNB**
    * `cakeOFT`: `0x2779106e4F4A8A28d77A24c18283651a2AE22D1C` ([link](https://opbnbscan.com/address/0x2779106e4F4A8A28d77A24c18283651a2AE22D1C?tab=Contract\&p=1))
+9. **Monad**
+   * `cakeOFT`: `0xF59D81cd43f620E722E07f9Cb3f6E41B031017a3`
+10. **Solana**
+    * `cakeOFT`: `4qQeZ5LwSz6HuupUu8jCtgXyW1mYQcNbFAW1sWZp89HL`

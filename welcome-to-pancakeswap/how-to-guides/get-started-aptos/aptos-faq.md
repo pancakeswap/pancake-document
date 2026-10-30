@@ -1,7 +1,5 @@
 # Aptos SSS
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Aptos-faq-header.png" alt=""><figcaption></figcaption></figure>
-
 Bu SSS sayfası, PancakeSwap topluluğunun Aptos dağıtımımız hakkında en sık sorduğu soruları yanıtlamaktadır.
 
 ## Genel
@@ -29,8 +27,6 @@ Aptos Swap'taki varsayılan liste yalnızca yeterli likiditeye sahip, iyi biline
 Varsayılan listede yer almayan başka coinleri takas etmek istiyorsan, coin adresleriyle bunları içe aktarabilirsin.
 
 ### Aptos Swap'ta neden CAKE takas edemiyorum?
-
-_2022-12-13 tarihinde güncellendi_
 
 CAKE tokeni/coini artık Aptos'ta yayında. Aptos ile BNB Smart Chain arasında CAKE tokenlerini köprüleme hakkında daha fazla bilgi edinmek için [CAKE köprüleme rehberimize](cake-bridging-guide.md) bakabilirsin.
 

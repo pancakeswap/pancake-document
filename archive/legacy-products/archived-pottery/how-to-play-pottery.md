@@ -6,7 +6,7 @@
 
 PancakeSwap'ın Pottery'si, CAKE'i Staking havuzunda kilitleyip stake etmenin dışında CAKE biriktirmenin alternatif bir yoludur; bu rehber, PancakeSwap web arayüzünde nasıl gezineceğini ve katılacağını adım adım açıklayacak.
 
-Ürün yapısı, riskleri ve [PancakeSwap Pottery'nin ücretleri hakkında daha fazla bilgi edin](https://docs.pancakeswap.finance/products/pottery).
+Ürün yapısı, riskleri ve [PancakeSwap Pottery'nin ücretleri hakkında daha fazla bilgi edin](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery).
 
 ## Bir Pottery kohortuna girip girmemeye karar verme
 
@@ -24,7 +24,7 @@ Her Pottery kohortu için yatırım ayda bir kez açılır. Yatırım, her ayın
 
 ![](https://lh5.googleusercontent.com/_TqVUlNGtnGvGz_wysnq-KmewS_CjmUJ0jMHwzRMLx47Rmq-x868M0q-iBXCqynotDqz3mxnUZovExx4bUb8BBv3W6OXl4u4pJWFmOz__IYASvQ_hgmccB3GPaL1oz4TutJr3PTwdz_2NoVzmnpkcD0)
 
-— Bu durumda APR, kilitli toplam değer ve kazanma olasılığı sana uygunsa CAKE yatırarak Pottery'ye katılabilirsin. Yatırmadan önce katılımın risklerini tam olarak anladığından emin ol! Tüm yatırımlar hiçbir koşulda erken çekilme imkânı olmaksızın 10 hafta boyunca kilitlenecektir. [Riskler ve ücretler hakkında daha fazla bilgi edin](https://docs.pancakeswap.finance/products/pottery).
+— Bu durumda APR, kilitli toplam değer ve kazanma olasılığı sana uygunsa CAKE yatırarak Pottery'ye katılabilirsin. Yatırmadan önce katılımın risklerini tam olarak anladığından emin ol! Tüm yatırımlar hiçbir koşulda erken çekilme imkânı olmaksızın 10 hafta boyunca kilitlenecektir. [Riskler ve ücretler hakkında daha fazla bilgi edin](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery).
 
 ## **Yatırımını görüntüleme**
 
@@ -40,7 +40,7 @@ Her Cuma öğlen UTC civarındaki çekilişin ardından Tamamlanan Turlar paneli
 
 ![](https://lh3.googleusercontent.com/ClT6Dx6rJlfFmzmyxwCGwIUsDv-DuhzVAWN5Qt0sOulj2_zDrMJHDJvQqr6vI090pstOi0BJTKADDVj7C_kspWM_f-M83EGERNiEvON-GTl_nvXANGH5etDbnBmieRSZ66G8krr8GUWc2s5SDw)
 
-Çekiliş tarihine göre kontrol etmek istediğin kohortun ilgili turunu bul — her Cuma, farklı kohortlar için birden fazla çekiliş olabileceğinden aradığın kohort için doğru çekilişi kontrol ettiğinden emin ol. [Kohort yapısı hakkında daha fazla bilgi edin](https://docs.pancakeswap.finance/products/pottery#pottery-cohort).
+Çekiliş tarihine göre kontrol etmek istediğin kohortun ilgili turunu bul — her Cuma, farklı kohortlar için birden fazla çekiliş olabileceğinden aradığın kohort için doğru çekilişi kontrol ettiğinden emin ol. [Kohort yapısı hakkında daha fazla bilgi edin](https://docs.pancakeswap.finance/archive/legacy-products/archived-pottery#pottery-cohort).
 
 ## Ödülü talep etme
 

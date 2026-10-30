@@ -14,7 +14,7 @@
 
 ### Herkesin tercihi
 
-PancakeSwap, önde gelen bir merkeziyetsiz borsa. On farklı zincirde kullanılabilir: BNB Chain, Ethereum, Solana, Base, Arbitrum, Aptos, ZKsync, Linea, Monad ve opBNB; piyasadaki en yüksek işlem hacmine sahip (kaynaklar: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
+PancakeSwap, önde gelen bir merkeziyetsiz borsa. On bir farklı zincirde kullanılabilir: BNB Chain, Ethereum, Solana, Base, Arbitrum, Aptos, ZKsync, Linea, Monad, Robinhood ve opBNB; piyasadaki en yüksek işlem hacmine sahip (kaynaklar: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
 
 ### Düşük ücretler
 

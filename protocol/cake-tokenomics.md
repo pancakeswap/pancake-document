@@ -13,7 +13,6 @@ PancakeSwap olarak hedefimiz, CAKE topluluğunun, likidite sağlayıcıların ve
 * [Spot trading](https://docs.pancakeswap.finance/earn/pancakeswap-pools#trading-fees) (işlem ücretlerinin %15-23'ü)
 * Perpetual trading (tüm kârların %20'si)
 * CAKE.PAD'ler (tüm ücretlerin %100'ü)
-* Tahmin (her turun %3'ü)
 * Piyango (oynanan tüm CAKE'in %20'si)
 
 **Emisyonlar, likiditenin en verimli havuzlara ve ürünlere yönlendirilmesini sağlamak için dikkatli şekilde yönetilir.** PancakeSwap, likidite teşviklerini optimize ederek ve harcanan CAKE başına geliri artırarak hacim büyümesini ölçeklendirmeye odaklanır. Her karar, tüm topluluk için gerçek gelir yaratma ve uzun vadeli başarıya katkıda bulunma hedefi etrafında şekillenir. CAKE emisyonu alan ürünler şunlardır:

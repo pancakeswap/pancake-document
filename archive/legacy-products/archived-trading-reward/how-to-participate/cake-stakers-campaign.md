@@ -25,7 +25,7 @@ Devam eden bir kampanya olup olmadığını kontrol etmek için:
 *   [Swap sayfasındaki](https://pancakeswap.finance/swap) "Hot Token" listesinde 💝 simgesini ara. Ya da Trading Reward içeren çiftleri kontrol etmek için filtreyi kullan.
 
     <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28183%29.png" alt=""><figcaption></figcaption></figure>
-* [Sosyal medya kanallarımızı](/broken/pages/QqND39S2UhktBbu09Doj) kontrol et.
+* [Sosyal medya kanallarımızı](../../../../welcome-to-pancakeswap/contact-us/social-accounts.md) kontrol et.
 
 ## Adresinin uygun olup olmadığını kontrol et <a href="#ced8a6c5-803a-4a60-80d0-44e823571d84" id="ced8a6c5-803a-4a60-80d0-44e823571d84"></a>
 

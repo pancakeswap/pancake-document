@@ -4,7 +4,7 @@
 
 PancakeSwap (PCS), şu anda şu zincirlerde aktif olan lider çok zincirli merkeziyetsiz borsa (DEX):
 
-> BNB Chain, Solana, Base, Arbitrum One, Ethereum, ZKsync Era, Linea, opBNB ve Aptos
+> BNB Chain, Ethereum, Solana, Base, Arbitrum, Aptos, ZKsync, Linea, Monad, Robinhood ve opBNB
 
 Proje ekipleriyle görüşmekten ve sizi, 400.000'den fazla Günlük Aktif Kullanıcısıyla kripto alanının en büyük, en aktif ve en katılımcı DApp'lerinden birine tanıtmaktan mutluluk duyarız!
 
@@ -12,7 +12,7 @@ Kuruluşumuzdan bu yana PancakeSwap, Perakende DeFi alanında güçlü bir konum
 
 Bu sayfa proje ekiplerine hakkımızda biraz daha bilgi edinmeleri için hızlı bir SSS niteliği taşısa da, daha fazla sorun varsa bizimle iletişime geçmekten çekinme:
 
-* Telegram'daki BD Ekibi (https://t.me/PancakeSwapBD)
+* **Telegram'daki BD Ekibi: https://t.me/PancakeSwapBD (@PancakeSwapBD)**
 
 ### İş birliğiyle ilgileniyor musun? Birlikte inşa edelim
 
@@ -44,9 +44,7 @@ Sık sorulan iş birliği soruları için
 
 ### DeFi'nin her konusunda toplulukların tercihi
 
-Sadelik çekicidir ve güvenlik de öyle!&#x20;
-
-1,5 milyar doların üzerinde TVL ile hızlı hareket eder ve bunu sorumlu bir şekilde yaparız. Kripto piyasalarında boğadan ayıya dört yılı aşkın deneyimimizle topluluğumuza etkili biçimde DeFi sunmaya devam ediyoruz. Sadece bize güvenme, [doğrula](https://docs.pancakeswap.finance/audits).&#x20;
+1,5 milyar doların üzerinde TVL ile hızlı hareket eder ve bunu sorumlu bir şekilde yaparız. Kripto piyasalarında boğadan ayıya dört yılı aşkın deneyimimizle topluluğumuza etkili biçimde DeFi sunmaya devam ediyoruz. Sadece bize güvenme, [doğrula](https://docs.pancakeswap.finance/welcome-to-pancakeswap/audits).
 
 Projelerle kurduğumuz ortaklıklar, token dağıtım programlarının ("Syrup Pools") ve token lansman fırsatlarının ("Initial Farm Offerings") çok ötesine geçiyor. Kripto'da topluluğun etkisini gerçekten takdir ediyoruz — özel Elçi ekibimiz, hizmet verdiğimiz çeşitli topluluklara nabzımızı tutmamıza yardımcı oluyor ve ortaklarımızla yüksek katılımlı etkinlikler düzenliyoruz: podcast'ler, AMA'lar, meme yarışmaları ve çok daha fazlası!
 

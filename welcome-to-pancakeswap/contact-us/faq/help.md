@@ -12,7 +12,7 @@ Yardım konusunu aradığını daha kolay bulman için bölümlere ayırdık. A�
 
 ### Hata Giderme
 
-[Hata Giderme sayfası](https://docs.pancakeswap.finance/help/troubleshooting), PancakeSwap kullanırken karşılaşılabilecek hataların bir derlemesini içerir. Her sorun için hem çözüm hem de sorunun neden oluştuğuna dair bir açıklama sunar.
+[Hata Giderme sayfası](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/faq/troubleshooting), PancakeSwap kullanırken karşılaşılabilecek hataların bir derlemesini içerir. Her sorun için hem çözüm hem de sorunun neden oluştuğuna dair bir açıklama sunar.
 
 ### Genel SSS
 

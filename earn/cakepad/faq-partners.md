@@ -11,7 +11,7 @@ Daha fazla bilgi için: [https://pancakeswap.notion.site/cakepad](https://pancak
 Uygun projeler şunları sağlamalıdır:
 
 * Çalışan bir ürün veya MVP'ye sahip olmak.
-* PancakeSwap üzerinde token ve likidite başlatmaya hazır olmak (BNB, Base, ARB, ETH, ZKsync, Linea, opBNB).
+* PancakeSwap üzerinde token ve likidite başlatmaya hazır olmak (BNB Chain, Base, Monad).
 * TGE'den önce 3-4 haftalık hazırlık süresi tanımak.
 * Güçlü topluluk büyüme potansiyeli sergilemek.
 * PancakeSwap'ın durum tespiti incelemesinden geçmek.

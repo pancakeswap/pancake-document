@@ -1,11 +1,9 @@
 ---
-description: Aptos ile BNB Smart Chain arasında CAKE köprüle
+description: CAKE'i Aptos ile BNB Smart Chain arasında köprüle
 ---
 
-# CAKE Köprüleme Rehberi
-
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28113%29.png" alt=""><figcaption></figcaption></figure>
+# CAKE Bridging Guide
 
 {% hint style="info" %}
-Bu belge [buraya](../../../bridge/bridging/aptos.md) taşınmıştır.
+Bu belge [buraya](../../../bridge/bridging/aptos.md) taşındı
 {% endhint %}

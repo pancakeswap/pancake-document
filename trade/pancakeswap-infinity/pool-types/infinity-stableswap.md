@@ -1,13 +1,13 @@
 # Infinity StableSwap
 
-**Infinity StableSwap**, stablecoin'ler ve likit staking token'ları gibi birbiriyle ilişkili varlıklar için optimize edilmiş özel bir havuz türüdür.<br>
+**Infinity StableSwap**, stablecoin'ler ve likit staking tokenları gibi korele varlıklar için optimize edilmiş özel bir havuz türüdür.<br>
 
-Şu amaçlar için tasarlanmış bir StableSwap değişmezi kullanır:
+Şunları sağlamak üzere tasarlanmış bir StableSwap invariant'ı kullanır:
 
-* Yakın fiyatlı varlıklar arasındaki Kayma'yı en aza indirir
-* Stabil çiftler için gerçekleştirme verimliliğini artırır
-* Düşük oynaklıklı varlıklar için sermaye verimli işlem sağlar
+* Birbirine yakın fiyatlı varlıklar arasında kaymayı en aza indirmek
+* Stabil paritelerde işlem yürütme verimliliğini artırmak
+* Düşük oynaklıklı varlıklar için sermaye açısından verimli trading sunmak
 
 
 
-👉 Havuz mekaniği ve havuz oluşturma hakkında daha fazla bilgi için [buraya](https://docs.pancakeswap.finance/~/revisions/E5nc3XhgBcYotE6q89fB/trade/stableswap/infinity-stableswap) git.
+👉 Havuz mekanikleri ve havuz oluşturma hakkında daha fazlasını [burada](../../stableswap/infinity-stableswap.md) öğren.

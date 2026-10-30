@@ -19,7 +19,7 @@
        <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unnamed%20%287%29.png" alt=""><figcaption></figcaption></figure>
 
        <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unnamed%20%286%29.png" alt="" width="375"><figcaption></figcaption></figure>
-3.  Profil kurulum ekranındaki adımları izle veya 7. adımdan itibaren profil oluşturma rehberine başvur[Broken link](/broken/pages/-MYdfYNF3jEh_f1HFdcj "mention"). Kurulum ücretsizdir; ancak BNB Chain üzerinde profilleri kurmak için küçük miktarda gas gerekir.
+3.  Profil kurulum ekranındaki adımları izle veya 7. adımdan itibaren profil oluşturma rehberine başvur. Kurulum ücretsizdir; ancak BNB Chain üzerinde profilleri kurmak için küçük miktarda gas gerekir.
 
     <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unnamed%20%285%29.png" alt="" width="375"><figcaption><p>Tavşanı seç — Görev yolculuğun için genel bir başlangıç tavşanı</p></figcaption></figure>
 

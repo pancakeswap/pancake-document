@@ -1,4 +1,4 @@
-# Sosyal Medya Hesapları
+# Sosyal Hesaplar
 
 ## 🐦 X (Twitter)
 
@@ -8,20 +8,15 @@
 
 [https://blog.pancakeswap.finance/](https://blog.pancakeswap.finance/)
 
-## 🤳 Instagram
-
-[https://www.instagram.com/pancakeswap\_official](https://www.instagram.com/pancakeswap_official/)&#x20;
-
 ## [📺](https://emojipedia.org/es/televisi%C3%B3n) Youtube
 
-[https://www.youtube.com/@pancakeswap\_official](https://www.youtube.com/@pancakeswap_official)&#x20;
+[https://www.youtube.com/@pancakeswap\_official](https://www.youtube.com/@pancakeswap_official)
 
 {% hint style="danger" %}
-
-
-PancakeSwap adına sana HİÇBİR ZAMAN doğrudan mesaj gönderilmeyecektir. Telegram gibi platformlarda müşteri desteğini temsil ettiğini iddia ederek sana doğrudan ulaşan herkesi engelle ve spam olarak rapor et.
+PancakeSwap'ten hiç kimse sana ASLA doğrudan mesaj göndermez. Biri seni doğrudan, örneğin Telegram'da, müşteri desteğini temsil ediyormuş gibi yaklaşırsa, lütfen engelle ve spam olarak bildir.
 {% endhint %}
 
 {% hint style="danger" %}
-**HİÇBİR koşulda özel anahtarını veya kurtarma ifadelerini kimseyle paylaşma. Bunları talep eden herkesi hemen engelle ve şikayet et.**
+Hiçbir durumda özel anahtarını veya kurtarma ifadelerini kimseyle ASLA paylaşma. Bunları isteyen herkesi hemen engelle ve bildir.
 {% endhint %}
+

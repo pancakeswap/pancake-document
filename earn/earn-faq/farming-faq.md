@@ -71,7 +71,7 @@ Likidite pozisyonunun fiyat aralığı yapılandırmalarını ayarlamak istiyors
 Farm v3'te CAKE ödül APR'si likidite pozisyonları arasında değişebilir. Şu faktörlere bağlıdır:
 
 * Farm'lara CAKE emisyon oranı\
-  \- Daha fazla CAKE, tüm farm'lar için daha yüksek getiri sağlar. [Tokenomics sayfamızda](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics) daha fazlasını oku
+  \- Daha fazla CAKE, tüm farm'lar için daha yüksek getiri sağlar. [Tokenomics sayfamızda](https://docs.pancakeswap.finance/protocol/cake-tokenomics) daha fazlasını oku
 * Farm çarpanı\
   \- Daha yüksek çarpanlı farm'lar, tüm farm'lara oranla daha fazla CAKE alır. v3 ile v2 + StableSwap farm'larının iki ayrı çarpan seti kullandığını unutma. Ethereum ve BNB Chain'deki farm'lar da iki ayrı çarpan seti kullanır.
 * Pozisyona yatırılan token sayısı\
@@ -111,12 +111,10 @@ Bireysel bir farm, aşağıdakilere göre CAKE emisyonları alır:
 
 `Blok/saniye başına CAKE = C / B * A`
 
-Yukarıdaki sayıları her bir [MasterChef](/broken/pages/-MeTWzQOSmb1ej51HT0I) sözleşmesinde bulabilirsin.
+Yukarıdaki sayıları her bir [MasterChef](https://developer.pancakeswap.finance/contracts/masterchef/addresses) sözleşmesinde bulabilirsin.
 
 
 
 ### V3 Farm'larında bCAKE kullanabilir miyim?
 
-Evet
-
-V3 Farm'ları için bCAKE, PancakeSwap Farm V3'ün dağıtımından kısa süre sonra gelecek. Takipte kal.
+Evet.

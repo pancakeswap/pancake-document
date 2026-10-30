@@ -1,7 +1,5 @@
 # BEP20 Token'larını Edin
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-get-bep20-tokens-header.png)
-
 BNB Smart Chain'in (BSC) yerel token'ları **BEP20**'dir.
 
 BSC'de çoğu işlem yapabilmek için gas ödemen gerekecek; bu da BEP20 BNB biçiminde karşılanır.
@@ -22,7 +20,7 @@ Bu bridge, stabilcoinlerini sorunsuz şekilde BNB Chain'e taşımanı ve canlı 
 {% endtab %}
 
 {% tab title="💰 Binance" %}
-[**Binance.com**](https://github.com/pancakeswap/pancake-document/tree/255db0c7af28df2f9c1209daa5cdbd774490a666/get-started/www.binance.com)
+[**Binance.com**](https://www.binance.com)
 
 Binance hesabın varsa token'larını BEP20 olarak çekebilirsin. Bunu yapabilmek için hesabın olması gerektiğini unutma.
 

@@ -1,7 +1,5 @@
 # Cüzdan Oluştur
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-make-a-crypto-wallet-header.png)
-
 Aptos'ta PancakeSwap yolculuğuna başlamak için öncelikle Aptos Chain'i destekleyen bir cüzdan kurman gerekiyor. Cüzdanlar hem masaüstü bilgisayarlar hem de akıllı telefonlar için mevcuttur. İhtiyaçlarına en uygun cüzdanı seçmen gerekiyor.
 
 {% hint style="danger" %}

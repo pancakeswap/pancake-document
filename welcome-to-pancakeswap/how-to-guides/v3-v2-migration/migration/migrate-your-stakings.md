@@ -87,7 +87,7 @@ Artık yeni MasterChef'te stake ediyorsun ve CAKE ödüllerini kazanmaya devam e
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/en%20-%20migration%20timeline%20-%202.png)
 
-Detaylı zamanlama ve son güncellemeler için [Twitter](https://twitter.com/pancakeswap/) veya [Telegram](https://t.me/PancakeSwapAnn) duyuru kanalımızı takip etmeyi unutma! Yardıma mı ihtiyacın var? Nasıl yardım isteyeceğini [buradan](../../../contact-us/#help) öğrenebilirsin.
+Detaylı zamanlama ve son güncellemeler için [Twitter](https://twitter.com/pancakeswap/) veya [Telegram](https://t.me/PancakeSwapAnn) duyuru kanalımızı takip etmeyi unutma! Yardıma mı ihtiyacın var? Nasıl yardım isteyeceğini [buradan](../../../contact-us/faq/help.md) öğrenebilirsin.
 
 ## SSS
 

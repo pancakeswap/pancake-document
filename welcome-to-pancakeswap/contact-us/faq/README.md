@@ -1,7 +1,5 @@
 # Genel SSS
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/general-faq-header%20%281%29.png)
-
 Bu SSS sayfası, PancakeSwap topluluğundan en sık sorulan bazı sorulara yanıt vermektedir.
 
 ## PancakeSwap güvenli mi? Denetim yapıldı mı?
@@ -11,7 +9,7 @@ Kendin gör:
 * [Bu PancakeSwap güvenlik denetimlerine](../../../#is-pancakeswap-safe) göz at
 * Şeffaflık:
   * Açık kaynaklı yazılım üzerine inşa edildik: sitemiz ve tüm Akıllı Sözleşmelerimiz maksimum şeffaflık için herkese açık.
-  * Sözleşmelerimiz blok zinciri gezginlerinde doğrulanmıştır; gördüğünün gerçek olduğundan emin olabilirsin. [Buradan](/broken/pages/-MeTcIwNOfhTYrz1V3xJ) inceleyebilirsin.
+  * Sözleşmelerimiz blok zinciri gezginlerinde doğrulanmıştır; gördüğünün gerçek olduğundan emin olabilirsin. [Buradan](https://developer.pancakeswap.finance/) inceleyebilirsin.
 * Güvenlik en iyi uygulamaları:
   * Şefler tüm sözleşmeler için multisig kullanır.
   * Sözleşmelerimizin zaman kilidi sana gönül rahatlığı verir.
@@ -20,7 +18,7 @@ Kendin gör:
 
 CAKE'ini PancakeSwap Syrup Pool'larında stake edebilirsin. [Syrup Pool sayfasını](https://pancakeswap.finance/pools) ziyaret et.
 
-Staking'e başlamak için yardıma ihtiyacın varsa [Syrup Pool'da Nasıl Stake Edilir kılavuzumuzu](https://docs.pancakeswap.finance/products/syrup-pool/syrup-pool-guide) oku.
+Staking'e başlamak için yardıma ihtiyacın varsa [Syrup Pool'da Nasıl Stake Edilir kılavuzumuzu](https://docs.pancakeswap.finance/earn/cake-staking/syrup-pool/syrup-pool-guide) oku.
 
 ## Staking ile farming arasındaki fark nedir?
 
@@ -30,19 +28,19 @@ Staking için yalnızca bir Syrup Pool'a CAKE eklemen ve CAKE ya da başka token
 [Syrup Pool Staking hakkında daha fazla bilgi edin.](https://docs.pancakeswap.finance/products/syrup-pool)
 
 Farming daha karmaşıktır ve CAKE kazanmak için LP Token'ları gerektirir.\
-[Yield Farming hakkında daha fazla bilgi edin.](https://docs.pancakeswap.finance/products/yield-farming)
+[Yield Farming hakkında daha fazla bilgi edin.](https://docs.pancakeswap.finance/earn/yield-farming)
 
 ## Farming nasıl yapılır?
 
-Farming yapmayı öğrenmek istiyorsan bir [Yield Farming kılavuzumuz](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) mevcut.
+Farming yapmayı öğrenmek istiyorsan bir [Yield Farming kılavuzumuz](https://docs.pancakeswap.finance/earn/yield-farming/how-to-use-farms/how-to-use-farms) mevcut.
 
 ## PancakeSwap yol haritasını nerede görebilirim?
 
-[Yapılacaklar listemizi buradan görüntüleyebilirsin, ama ona yol haritası deme](https://docs.pancakeswap.finance/roadmap).
+[Yapılacaklar listemizi buradan görüntüleyebilirsin, ama ona yol haritası deme](https://docs.pancakeswap.finance/welcome-to-pancakeswap/roadmap).
 
 ## Cüzdanımı BNB Smart Chain ve PancakeSwap'e nasıl bağlarım?
 
-Bunu ayrıntılı olarak anlatan bir [Cüzdanını PancakeSwap'e Bağla kılavuzumuz](https://docs.pancakeswap.finance/get-started/connection-guide) var.
+Bunu ayrıntılı olarak anlatan bir [Cüzdanını PancakeSwap'e Bağla kılavuzumuz](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/connection-guide) var.
 
 ## PancakeSwap için en iyi Cüzdan hangisi?
 
@@ -52,9 +50,9 @@ Bunu ayrıntılı olarak anlatan bir [Cüzdanını PancakeSwap'e Bağla kılavuz
 
 Bir işlemin durumunu [https://bscscan.com/](https://bscscan.com) üzerinden kontrol edebilirsin.
 
-Sorun yaşıyorsan [Hata Giderme kılavuzumuzda](https://docs.pancakeswap.finance/help/troubleshooting) sorununa çözüm bulabilirsin.
+Sorun yaşıyorsan [Hata Giderme kılavuzumuzda](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/faq/troubleshooting) sorununa çözüm bulabilirsin.
 
-Takılı kalan bir işlemin varsa [Takılı Bekleyen İşlemleri Düzeltme kılavuzumuza](https://docs.pancakeswap.finance/help/unsticking-a-transaction-stuck-as-pending-with-metamask) da göz atabilirsin.
+Takılı kalan bir işlemin varsa [Takılı Bekleyen İşlemleri Düzeltme kılavuzumuza](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/faq/unsticking-a-transaction-stuck-as-pending-with-metamask) da göz atabilirsin.
 
 ## Yeni havuzlar ne zaman açılacak?
 
@@ -82,15 +80,15 @@ Her işlem BscScan üzerinde herkese açık olduğundan, herkesin PancakeSwap ku
 
 ## Neden BNB bakiyem yok diyor?
 
-[BNB'yi BNB Smart Chain özellikli Cüzdan'ına aktardıysan](https://docs.pancakeswap.finance/get-started/bep20-guide) ancak hâlâ bu hatayı alıyorsan, büyük ihtimalle Cüzdan'ın içinde [BNB Smart Chain'e bağlı değilsin](https://docs.pancakeswap.finance/get-started/connection-guide). Cüzdan'ının seçili ağını kontrol et ve BNB Smart Chain (BSC) seçili olduğundan emin ol.
+[BNB'yi BNB Smart Chain özellikli Cüzdan'ına aktardıysan](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/bep20-guide) ancak hâlâ bu hatayı alıyorsan, büyük ihtimalle Cüzdan'ın içinde [BNB Smart Chain'e bağlı değilsin](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/connection-guide). Cüzdan'ının seçili ağını kontrol et ve BNB Smart Chain (BSC) seçili olduğundan emin ol.
 
 ## Oylama nasıl yapılır?
 
-Oylama hakkında daha fazla bilgi edinmek için oylama kılavuzlarını da içeren [Oylama bölümümüzü](https://docs.pancakeswap.finance/products/voting) okuyabilirsin.
+Oylama hakkında daha fazla bilgi edinmek için oylama kılavuzlarını da içeren [Oylama bölümümüzü](https://docs.pancakeswap.finance/protocol/voting) okuyabilirsin.
 
 ## CAKE'in maksimum arzı nedir?
 
-Evet, CAKE artık [en son teklifimizde](https://pancakeswap.finance/voting/proposal/0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5?id=0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5\&chain=bsc) belirtildiği üzere 400 milyon sabit arz sınırına sahip.
+CAKE artık [en son teklifimizde](https://pancakeswap.finance/voting/proposal/0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5?id=0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5\&chain=bsc) belirtildiği üzere 400 milyon sabit arz sınırına sahip.
 
 ## Hazine fonları ne için kullanılıyor?
 
@@ -112,7 +110,7 @@ PancakeSwap'in IFO ve AutoPool gibi diğer akıllı sözleşmeleri de korumalıd
 
 Doldurmak istediğimiz açık pozisyonlar hakkında bilgi almak için [Şef Ol](https://docs.pancakeswap.finance/hiring/become-a-chef) alanına göz at.
 
-Doldurulmak üzere ilan ettiğimiz yeni pozisyonları [resmi sosyal medya kanallarımızda](https://docs.pancakeswap.finance/contact-us/telegram) duyuruyoruz, bu nedenle en güncel işe alım bilgilerine ulaşmak için bizi takip etmeyi unutma.
+Doldurulmak üzere ilan ettiğimiz yeni pozisyonları [Telegram ve Discord topluluklarımızda](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/telegram-and-discord-communities) duyuruyoruz, bu nedenle en güncel işe alım bilgilerine ulaşmak için bizi takip etmeyi unutma.
 
 ## SYRUP nedir?
 
@@ -120,4 +118,4 @@ SYRUP, PancakeSwap'in ilk dönemlerinde staking sürecinin bir parçasıydı. Bi
 
 ## Soruma yanıt bulamıyorum. Nerede cevap bulabilirim?
 
-PancakeSwap belgelerinde aradığını bulamazsan, sorunu [PancakeSwap'in resmi sosyal medya platformlarında](https://docs.pancakeswap.finance/contact-us/telegram) sor; biri elinden geldiğince sana yardımcı olmaya çalışacaktır.
+PancakeSwap belgelerinde aradığını bulamazsan, sorunu [Telegram ve Discord topluluklarımızda](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/telegram-and-discord-communities) sor; biri elinden geldiğince sana yardımcı olmaya çalışacaktır.

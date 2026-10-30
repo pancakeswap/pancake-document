@@ -1,13 +1,13 @@
-# How to Stake in Syrup Pools with BscScan
+# BscScan ile Syrup Pool'larda Nasıl Stake Edilir
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/docs-masthead-2-%20%282%29.png)
 
-Some users may want to take advantage of PancakeSwap's Syrup Pools using BscScan instead of the website UI.
+Bazı kullanıcılar PancakeSwap'in Syrup Pool'larından web sitesi arayüzü yerine BscScan kullanarak yararlanmak isteyebilir.
 
-You'll be interacting with one of two contracts, depending on if you want to use the Auto CAKE Syrup Pool, or one of the other available Syrup Pools. This guide will help you through interacting with the contracts and get you stacking those sweet, syrupy rewards.
+Auto CAKE Syrup Pool'u mu yoksa diğer mevcut Syrup Pool'lardan birini mi kullanmak istediğine bağlı olarak iki sözleşmeden biriyle etkileşime gireceksin. Bu rehber, sözleşmelerle etkileşime girmende sana yardımcı olacak ve o tatlı, şurup gibi ödülleri biriktirmeye başlamanı sağlayacak.
 
 {% hint style="warning" %}
-Please understand that using BscScan to interact with contracts is not recommended for beginners. If you're not feeling confident, we suggest using the [How to Stake in Syrup Pools guide](https://docs.pancakeswap.finance/products/syrup-pool/syrup-pool-guide) instead.
+BscScan üzerinden sözleşmelerle etkileşime girmenin yeni başlayanlar için önerilmediğini unutma. Kendine güvenmiyorsan bunun yerine [Syrup Pool'larda Nasıl Stake Edilir rehberini](https://docs.pancakeswap.finance/earn/cake-staking/syrup-pool/syrup-pool-guide) kullanmanı öneririz.
 {% endhint %}
 
 

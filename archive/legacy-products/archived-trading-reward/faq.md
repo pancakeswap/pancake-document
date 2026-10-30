@@ -15,7 +15,7 @@ description: Trading Reward SSS
 #### İşlem hacmim neden takip edilmedi?
 
 * Hacim rakamlarının güncellenmesi zaman alır ve SubGraph gecikmelerine tabidir. Lütfen daha sonra tekrar kontrol et
-* İşlemin, ücret kademesi dahil [Trading Reward sayfasında](https://pancakeswap.finance/trading-reward#rewards-breakdown) vurgulanan **tam** işlem çifti üzerinden yönlendirilmesi gerekir. İşlem rotalarını nasıl görüntüleyeceğine dair [bu rehbere](https://docs.pancakeswap.finance/products/pancakeswap-exchange/fees-and-routes#check-the-fee-rate-and-fee-amount-that-is-currently-applied) göz at
+* İşlemin, ücret kademesi dahil [Trading Reward sayfasında](https://pancakeswap.finance/trading-reward#rewards-breakdown) vurgulanan **tam** işlem çifti üzerinden yönlendirilmesi gerekir. İşlem rotalarını nasıl görüntüleyeceğine dair [bu rehbere](https://docs.pancakeswap.finance/trade/pancakeswap-exchange/fees-and-routes) göz at
 * Bu program için yalnızca V3 işlem çiftleri uygundur
 * Lütfen hem Ethereum hem de BNB Chain'de Trading Reward programına uygun aynı cüzdan adresini kullan
 * Bir çift içindeki işlem hacmin çok küçükse herhangi bir ödül talep etmeye uygun olmayabilirsin

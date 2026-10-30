@@ -20,4 +20,4 @@ Blok başına üretilen CAKE miktarını azaltarak enflasyonu yavaşlatıyoruz. 
 
 ### Deflasyonist mekanizmalar
 
-Düzenli token yakımları ([yakma adresini görüntüle](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82?a=0x000000000000000000000000000000000000dead)), piyango biletlerine harcanan CAKE'in %10'unun yakılması gibi PancakeSwap ürünlerinin çoğuna yerleştirilmiştir ve daha fazlası yolda. Mevcut ve yaklaşan deflasyonist mekanizmalar hakkında ayrıntılar için [**CAKE Tokenomics sayfasına**](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics) göz at.
+Düzenli token yakımları ([yakma adresini görüntüle](https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82?a=0x000000000000000000000000000000000000dead)), piyango biletlerine harcanan CAKE'in %10'unun yakılması gibi PancakeSwap ürünlerinin çoğuna yerleştirilmiştir ve daha fazlası yolda. Mevcut ve yaklaşan deflasyonist mekanizmalar hakkında ayrıntılar için [**CAKE Tokenomics sayfasına**](https://docs.pancakeswap.finance/protocol/cake-tokenomics) göz at.

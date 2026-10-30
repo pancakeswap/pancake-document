@@ -15,9 +15,9 @@ PancakeSwap Piyango'suna katılmak sana büyük CAKE ödülleri kazanma şansı 
 
 Piyango bilet fiyatları yeni Piyango turunun başında belirlenir ve 5 USD'yi hedefler (ani fiyat dalgalanmalarıyla biraz farklılık gösterebilir).
 
-Aynı anda birden fazla Piyango bileti almak toplu indirim sağlar. Bir seferde 100'e kadar bilet satın alabilirsin; indirim 2 biletten itibaren başlar ve 100 bilette %10'a kadar çıkar.
+Aynı anda birden fazla Piyango bileti almak toplu indirim sağlar. Bir seferde 100'e kadar bilet satın alabilirsin; indirim 2 biletten itibaren başlar ve 100 bilette neredeyse %5'e (%4,95) kadar çıkar.
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-22%20at%209.59.52%20PM.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-22%20at%209.59.52%E2%80%AFPM.png)
 
 ## **Nasıl kazanılır**
 

@@ -6,7 +6,7 @@ hidden: true
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Smart%20Router.png" alt=""><figcaption></figcaption></figure>
 
-PancakeSwap Smart Router, daha iyi likidite ve fiyatlandırma sunmak için AMM ve stableswap'ı (BNB Chain) ve AMM ile piyasa yapıcıları (Ethereum) birbirine bağlayan bir yönlendirme algoritmasıdır. Yatırımcılara en iyi fiyatı bulmak için birden fazla havuzda işlemleri gerçekleştiren akıllı bir emir yönlendirme algoritması kullanır. StableSwap hakkında daha fazla bilgi için [buraya tıkla](/broken/pages/nNPogTZMxocdyFIBYbkE) ve Piyasa Yapıcı entegrasyonu hakkında daha fazla bilgi için [buraya tıkla](../market-maker-integration.md).
+PancakeSwap Smart Router, daha iyi likidite ve fiyatlandırma sunmak için AMM ve stableswap'ı (BNB Chain) ve AMM ile piyasa yapıcıları (Ethereum) birbirine bağlayan bir yönlendirme algoritmasıdır. Yatırımcılara en iyi fiyatı bulmak için birden fazla havuzda işlemleri gerçekleştiren akıllı bir emir yönlendirme algoritması kullanır. StableSwap hakkında daha fazla bilgi için [buraya tıkla](../../stableswap/classic-stableswap.md) ve Piyasa Yapıcı entegrasyonu hakkında daha fazla bilgi için [buraya tıkla](../market-maker-integration.md).
 
 Kitchen, ürünü daha fazla test etmek ve geliştirmek için StableSwap çiftlerini kademeli olarak kullanıma sunacak.
 
