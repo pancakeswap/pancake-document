@@ -10,7 +10,7 @@ Truy cập [pancakeswap.finance/perps](https://pancakeswap.finance/perps) hoặc
 
 Nhấp Connect Wallet ở góc trên bên phải. Không cần tạo tài khoản hoặc KYC — ví của bạn là tài khoản của bạn.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28157%29.png" alt="" width="507"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%287%29.png" alt="" width="507"><figcaption></figcaption></figure>
 
 ### **Chọn cặp giao dịch**
 

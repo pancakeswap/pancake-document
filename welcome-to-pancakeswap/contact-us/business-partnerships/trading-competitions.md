@@ -4,7 +4,7 @@ Bạn có muốn tăng khối lượng giao dịch và nâng cao nhận thức v
 
 Chúng tôi sẽ xử lý việc cài đặt, theo dõi và thông báo - bạn cung cấp phần thưởng, chúng tôi điều hành chương trình.
 
-Điều này có sẵn trên BNB Chain, Solana, Base, Arbitrum, Ethereum, ZKsync, Linea, opBNB và Polygon zkEVM.
+Điều này có sẵn trên BNB Chain, Solana, Base, Arbitrum, Ethereum, ZKsync, Linea, và opBNB.
 
 _Một số dự án đã tham gia trước đây ghi nhận sự tăng khối lượng giao dịch từ 3-7 lần và số địa chỉ giao dịch tích cực_
 

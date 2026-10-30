@@ -11,7 +11,7 @@
 Các dự án đủ điều kiện phải:
 
 * Có sản phẩm hoặc MVP đang hoạt động.
-* Sẵn sàng ra mắt token và thanh khoản trên PancakeSwap (BNB, Base, ARB, ETH, ZKsync, Linea, opBNB).
+* Sẵn sàng ra mắt token và thanh khoản trên PancakeSwap (BNB Chain, Base, Monad).
 * Cho phép 3–4 tuần thời gian chuẩn bị trước TGE.
 * Thể hiện tiềm năng tăng trưởng cộng đồng mạnh mẽ.
 * Vượt qua quá trình thẩm định của PancakeSwap.

@@ -1,16 +1,9 @@
-# 🤙 Liên Hệ Chúng Tôi
+# 🤙 Liên hệ chúng tôi
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/contact-us-header.png)
+_Đối với các yêu cầu về hệ sinh thái & hợp tác, TG handle: @PancakeSwapBD_
 
-## Liên Hệ Kinh Doanh
+### [Niêm yết token](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/business-partnerships/commonly-asked-business-partnerships-questions)
 
-### [Niêm Yết Token](https://docs.pancakeswap.finance/ecosystem-and-partnerships/business-partnerships/commonly-asked-business-partnerships-questions#listing-on-the-exchange)
+### [Đăng ký Yield Farm hoặc Syrup Pool](business-partnerships/syrup-pools.md)
 
-### [Đăng Ký Yield Farm hoặc Syrup Pool](business-partnerships/syrup-pools.md)
-
-### [Đăng Ký IFO (Bán Token)](business-partnerships/initial-farm-offerings-ifos.md)
-
-### [Đăng Ký Thị Trường NFT](/broken/pages/DmdIaEZd9prcJiQqgZJU)
-
-
-
+### [Đăng ký IFO (Bán token)](business-partnerships/initial-farm-offerings-ifos.md)

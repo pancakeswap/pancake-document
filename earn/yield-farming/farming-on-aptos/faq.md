@@ -16,7 +16,7 @@ Nếu bạn đang cố bridge các tài sản khác, vui lòng xem hướng dẫ
 
 Có, nhưng chúng tôi sẽ triển khai theo từng bước để đảm bảo ưu tiên an toàn cho tiền của người dùng và lạm phát CAKE. Hãy cho chúng tôi biết trong các chat cộng đồng những gì bạn nghĩ nên được thêm vào PancakeSwap trên Aptos.&#x20;
 
-Nếu bạn là dự án đang xây dựng trên Aptos muốn khuyến khích thanh khoản của token, hãy xem [hướng dẫn này](/broken/pages/VB58XNVaU1vlrJ3RcHif) và liên hệ với chúng tôi!
+Nếu bạn là dự án đang xây dựng trên Aptos muốn khuyến khích thanh khoản của token, hãy liên hệ với chúng tôi!
 
 ### Tại sao không có nút "Enable"?
 
@@ -30,6 +30,6 @@ Với việc mở rộng multichain và triển khai trên Aptos. CAKE hiện l�
 
 CAKE trên Aptos tương đương với CAKE trên BNB Smart Chain và luôn có thể bridge giữa hai chuỗi với tỷ lệ 1:1.&#x20;
 
-Lưu ý rằng chỉ có một CAKE. Không có phiên bản CAKE khác nhau giữa các chuỗi. Và tổng nguồn cung CAKE trên tất cả blockchain sẽ được giới hạn ở 750M, theo litepaper tokenomics v2 của chúng tôi.
+Lưu ý rằng chỉ có một CAKE. Không có phiên bản CAKE khác nhau giữa các chuỗi. Và tổng nguồn cung CAKE trên tất cả blockchain được giới hạn ở 400M, như đã nêu trong [đề xuất bỏ phiếu này](https://pancakeswap.finance/voting/proposal/0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5).
 
 Để bridge CAKE sang BNB Smart Chain, xem [hướng dẫn bridge CAKE](../../../welcome-to-pancakeswap/how-to-guides/get-started-aptos/cake-bridging-guide.md).

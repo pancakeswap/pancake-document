@@ -102,7 +102,7 @@ Bạn có thể:
 * Mua SOL trên sàn giao dịch tập trung và chuyển vào
 * Hoặc kết nối chuỗi tài sản sang Solana bằng cầu nối xuyên chuỗi tại [pancakeswap.finance/bridge](https://pancakeswap.finance/bridge)
 
-Xem tại đây để biết cách [Nhận SOL](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-sol/get-sol)
+Xem tại đây để biết cách [Nhận SOL](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-sol/get-sol-cake-on-sol)
 
 ***
 

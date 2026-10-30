@@ -87,7 +87,7 @@ Bây giờ bạn đang staking trong MasterChef mới và tiếp tục kiếm ph
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/en%20-%20migration%20timeline%20-%202.png)
 
-Hãy đảm bảo theo dõi kênh thông báo [Twitter](https://twitter.com/pancakeswap/) hoặc [Telegram](https://t.me/PancakeSwapAnn) của chúng tôi để biết thời gian chi tiết và các cập nhật mới nhất! Cần trợ giúp? Tìm hiểu thêm về cách tìm kiếm trợ giúp [tại đây](../../../contact-us/#help).
+Hãy đảm bảo theo dõi kênh thông báo [Twitter](https://twitter.com/pancakeswap/) hoặc [Telegram](https://t.me/PancakeSwapAnn) của chúng tôi để biết thời gian chi tiết và các cập nhật mới nhất! Cần trợ giúp? Tìm hiểu thêm về cách tìm kiếm trợ giúp [tại đây](../../../contact-us/faq/help.md).
 
 ## FAQ
 

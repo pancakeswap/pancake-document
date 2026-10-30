@@ -71,7 +71,7 @@ Nếu bạn muốn điều chỉnh cấu hình phạm vi giá của vị thế t
 Trong Farm v3, APR phần thưởng CAKE có thể thay đổi giữa các vị thế thanh khoản. Nó dựa trên các yếu tố sau:
 
 * Tỷ lệ emission CAKE đến Farms\
-  \- nhiều CAKE sẽ tạo ra lợi suất cao hơn cho tất cả farms. Đọc thêm trên [trang tokenomics của chúng tôi](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics)
+  \- nhiều CAKE sẽ tạo ra lợi suất cao hơn cho tất cả farms. Đọc thêm trên [trang tokenomics của chúng tôi](https://docs.pancakeswap.finance/protocol/cake-tokenomics)
 * Số nhân Farm\
   \- farms với số nhân cao hơn sẽ nhận được nhiều CAKE tỷ lệ hơn so với tất cả farms. Lưu ý rằng v3 và v2 + stable swap farms đang sử dụng hai bộ số nhân riêng biệt. Và farms trên Ethereum và BNB Chain cũng đang sử dụng hai bộ số nhân riêng biệt.
 * Số lượng token được nạp vào vị thế\
@@ -111,12 +111,10 @@ Một farm riêng lẻ sẽ nhận emission CAKE dựa trên:
 
 `CAKE per block/second = C / B * A`
 
-Các con số trên có thể được tìm thấy trong mỗi hợp đồng [MasterChef](/broken/pages/-MeTWzQOSmb1ej51HT0I).
+Các con số trên có thể được tìm thấy trong mỗi hợp đồng [MasterChef](https://developer.pancakeswap.finance/contracts/masterchef/addresses).
 
 
 
 ### Tôi có thể sử dụng bCAKE trong v3 Farms không?
 
-Có
-
-bCAKE cho V3 Farms sẽ đến ngay sau khi triển khai PancakeSwap Farm V3. Hãy chờ đón.
+Có.

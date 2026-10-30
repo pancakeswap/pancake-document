@@ -235,6 +235,6 @@ Bạn có thể thấy khoản phí này trong ví của mình khi xác nhận s
 
 Điều này cho thấy phí thu hoạch khi xuất hiện trong ví MetaMask. Các ví khác nhau sẽ hiển thị thông tin hơi khác nhau. Hãy cân nhắc để phần thưởng của bạn tăng lên một thời gian để bạn trả phí ít thường xuyên hơn.
 
-Và đó là tất cả những gì cần làm! Bạn cũng có thể muốn xem [cách sử dụng PancakeSwap Syrup Pools](https://docs.pancakeswap.finance/get-started/syrup-pool-guide) để kiếm phần thưởng.
+Và đó là tất cả những gì cần làm! Bạn cũng có thể muốn xem [cách sử dụng PancakeSwap Syrup Pools](https://docs.pancakeswap.finance/earn/cake-staking/syrup-pool/syrup-pool-guide) để kiếm phần thưởng.
 
 Chúc farming vui vẻ!

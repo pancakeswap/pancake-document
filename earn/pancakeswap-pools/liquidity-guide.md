@@ -10,7 +10,7 @@
 
 Để cung cấp thanh khoản, bạn cần nạp một lượng bất kỳ cặp token nào bạn thích. Giá trị thấp nhất (tính bằng USD) của hai token sẽ là giới hạn cho thanh khoản bạn có thể cung cấp.
 
-Bạn có thể dễ dàng đổi bất kỳ token nào bạn cần. Hãy xem hướng dẫn [Cách giao dịch trên PancakeSwap](https://docs.pancakeswap.finance/get-started/trade-guide) nếu cần.
+Bạn có thể dễ dàng đổi bất kỳ token nào bạn cần. Hãy xem hướng dẫn [Cách giao dịch trên PancakeSwap](https://docs.pancakeswap.finance/trade/pancakeswap-exchange/trade-guide) nếu cần.
 
 Trong ví dụ này, chúng tôi sẽ thêm thanh khoản V3 bằng ETH và USDC.
 

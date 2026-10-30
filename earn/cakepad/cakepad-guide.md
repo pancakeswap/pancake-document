@@ -110,5 +110,5 @@ Trong suốt thời gian vesting, bạn có thể quay lại trang sự kiện C
 
 Bây giờ bạn đã có token mới bóng loáng, bạn có thể đưa chúng vào hoạt động! Bạn có thể thêm thanh khoản cho token để nhận phí giao dịch và farming.
 
-* Đọc về việc thêm thanh khoản [tại đây](https://docs.pancakeswap.finance/get-started/liquidity-guide).
+* Đọc về việc thêm thanh khoản [tại đây](https://docs.pancakeswap.finance/earn/pancakeswap-pools/liquidity-guide).
 * Đọc về farming [tại đây](../yield-farming/).

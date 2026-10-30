@@ -147,7 +147,7 @@ Bạn có thể nhận tiền thắng trực tiếp từ hợp đồng. Hãy là
 {% tab title="Kiểm tra các vòng bạn đã chơi" %}
 Cách kiểm tra lịch sử các vòng bạn đã chơi
 
-1. Truy cập trang BscScan của [hợp đồng Dự đoán](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (ví dụ: BNBUSD).
+1. Truy cập trang BscScan của [hợp đồng Dự đoán](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract) (ví dụ: BNBUSD).
 2. Kéo xuống "8. getUserRounds".
 3. Nhập địa chỉ ví của bạn vào "user(address)".
 4. Đặt "cursor(uint256)" là 0 và "size(uint256)" là 1000.
@@ -158,7 +158,7 @@ Cách kiểm tra lịch sử các vòng bạn đã chơi
 {% tab title="Kiểm tra xem bạn có thể nhận không" %}
 Đầu tiên, kiểm tra xem bạn có thực sự có thể nhận từ vòng bạn đã chơi không.
 
-1. Truy cập trang BscScan của [hợp đồng Dự đoán](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (ví dụ: BNBUSD) và vào tab Read
+1. Truy cập trang BscScan của [hợp đồng Dự đoán](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract) (ví dụ: BNBUSD) và vào tab Read
 2. Kéo xuống "4. claimable".
 3. Nhập id vòng bạn muốn kiểm tra vào "epoch(uint256)".
 4. Nhập địa chỉ ví của bạn vào "user(address)".
@@ -171,7 +171,7 @@ Cách kiểm tra lịch sử các vòng bạn đã chơi
 {% tab title="Nhận từ một vòng" %}
 Cách nhận
 
-1. Truy cập trang BscScan của [hợp đồng Dự đoán](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (ví dụ: BNBUSD) và vào tab Write
+1. Truy cập trang BscScan của [hợp đồng Dự đoán](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract) (ví dụ: BNBUSD) và vào tab Write
 2. Nhấn "🔴 Connect to Web3"
 3. Dùng MetaMask hoặc WalletConnect để kết nối.
 4. Kéo xuống "3. claim"

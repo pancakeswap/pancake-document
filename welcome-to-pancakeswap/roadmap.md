@@ -1,7 +1,3 @@
----
-description: '"Đừng gọi nó là lộ trình"'
----
-
 # 🗺️ Lộ Trình
 
 _Cập nhật ngày 1 tháng 6 năm 2026_

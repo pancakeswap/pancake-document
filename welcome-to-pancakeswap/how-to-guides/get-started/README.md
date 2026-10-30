@@ -1,31 +1,29 @@
-# Bắt Đầu (BSC)
+# Get Started (BSC)
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/get-started-header.png)
+Sử dụng bất cứ thứ gì mới cũng có thể hơi khó khăn. Nhưng đừng lo, chúng tôi đã tạo một loạt hướng dẫn để giúp bạn làm quen với PancakeSwap!
 
-Sử dụng bất kỳ thứ gì mới đều có thể là một thách thức. Tuy nhiên, đừng lo lắng, chúng tôi đã tạo ra nhiều hướng dẫn để giúp bạn làm quen với PancakeSwap!
+## Setting up PancakeSwap
 
-## Thiết Lập PancakeSwap
+Hãy làm theo các hướng dẫn này để chuẩn bị mọi thứ cần thiết cho việc sử dụng PancakeSwap, hoặc cứ chuyển thẳng đến hướng dẫn bạn cần nếu bạn đã làm khá ổn nhưng bị lạc đường.
 
-Hãy làm theo các hướng dẫn này để chuẩn bị mọi thứ nhằm sử dụng PancakeSwap, hoặc bạn có thể thoải mái chuyển đến hướng dẫn mà bạn cần nếu bạn đang ổn nhưng bị mất phương hướng.
+[Create a Wallet](https://docs.pancakeswap.finance/get-started/wallet-guide)\
+[Get BEP20 Tokens](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/bep20-guide)\
+[Connect Your Wallet to PancakeSwap](https://docs.pancakeswap.finance/get-started/connection-guide)
 
-[Tạo Ví](https://docs.pancakeswap.finance/get-started/wallet-guide)\
-[Nhận Token BEP20](https://docs.pancakeswap.finance/get-started/bep20-guide)\
-[Kết Nối Ví của Bạn với PancakeSwap](https://docs.pancakeswap.finance/get-started/connection-guide)
+## Guides for using PancakeSwap features
 
-## Hướng Dẫn Sử Dụng Các Tính Năng PancakeSwap
+Khi bạn đã thiết lập ví và kết nối với PancakeSwap, hãy xem các hướng dẫn khác của chúng tôi bên dưới.
 
-Sau khi thiết lập và kết nối ví với PancakeSwap, hãy thoải mái xem các hướng dẫn khác bên dưới.
+[How to Trade](https://docs.pancakeswap.finance/trade/pancakeswap-exchange/trade-guide)\
+[How to Add/Remove Liquidity](https://docs.pancakeswap.finance/earn/pancakeswap-pools/liquidity-guide)\
+[How to Use Farms](https://docs.pancakeswap.finance/earn/yield-farming/how-to-use-farms/how-to-use-farms)\
+[How to Stake in Syrup Pools](https://docs.pancakeswap.finance/earn/cake-staking/syrup-pool/syrup-pool-guide)\
+[How to Play the Lottery](https://docs.pancakeswap.finance/play/lottery/lottery-guide)\
+[How to Use Prediction](https://docs.pancakeswap.finance/play/prediction/prediction-guide)\
+[How to Participate in an IFO](https://docs.pancakeswap.finance/products/ifo-initial-farm-offering/ifo-guide)\
+[How to Set Up an NFT Profile](https://docs.pancakeswap.finance/products/nft-profile-system/profile-guide)\
+[How to Vote](https://docs.pancakeswap.finance/protocol/voting/voting-guide)
 
-[Cách Giao Dịch](https://docs.pancakeswap.finance/products/pancakeswap-exchange/trade-guide)\
-[Cách Thêm/Xóa Thanh Khoản](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide)\
-[Cách Sử Dụng Farms](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms)\
-[Cách Staking trong Syrup Pools](https://docs.pancakeswap.finance/products/syrup-pool/syrup-pool-guide)\
-[Cách Chơi Xổ Số](https://docs.pancakeswap.finance/products/lottery/lottery-guide)\
-[Cách Sử Dụng Dự Đoán](https://docs.pancakeswap.finance/products/prediction/prediction-guide)\
-[Cách Tham Gia IFO](https://docs.pancakeswap.finance/products/ifo-initial-farm-offering/ifo-guide)\
-[Cách Thiết Lập Hồ Sơ NFT](https://docs.pancakeswap.finance/products/nft-profile-system/profile-guide)\
-[Cách Bỏ Phiếu](https://docs.pancakeswap.finance/products/voting/voting-guide)
+Hãy xem menu để biết thêm tài liệu về các tính năng và dịch vụ của PancakeSwap, bao gồm cả các hướng dẫn nâng cao hơn.
 
-Kiểm tra menu để xem thêm tài liệu về các tính năng và dịch vụ của PancakeSwap, bao gồm các hướng dẫn nâng cao hơn.
-
-Nếu bạn không tìm thấy những gì cần, hãy ghé thăm [Telegram PancakeSwap](../../contact-us/social-accounts.md) và hỏi để được trợ giúp!
+Nếu bạn không tìm thấy nội dung mình cần, hãy truy cập [PancakeSwap Telegram](../../contact-us/social-accounts.md) và nhờ hỗ trợ tại đó!

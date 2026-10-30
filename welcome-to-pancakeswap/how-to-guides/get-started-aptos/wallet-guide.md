@@ -1,7 +1,5 @@
 # Tạo Ví
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-make-a-crypto-wallet-header.png)
-
 Để bắt đầu hành trình PancakeSwap trên Aptos, điều đầu tiên bạn cần là thiết lập một ví hỗ trợ Aptos Chain. Ví có sẵn trên cả máy tính để bàn và thiết bị điện thoại thông minh. Bạn sẽ cần chọn ví phù hợp nhất với nhu cầu của bạn.
 
 {% hint style="danger" %}

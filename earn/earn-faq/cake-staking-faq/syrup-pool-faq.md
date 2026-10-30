@@ -49,7 +49,7 @@ Có ba loại Syrup Pools chính.
 2. Stake CAKE, kiếm token khác.&#x20;
 3. Stake token khác, kiếm CAKE
 
-Phần thưởng cho các Syrup Pools "Stake CAKE, earn CAKE" đến từ [CAKE emissions](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics). Mỗi block, một số lượng token CAKE được phân bổ như phần thưởng cho các pool này.
+Phần thưởng cho các Syrup Pools "Stake CAKE, earn CAKE" đến từ [CAKE emissions](https://docs.pancakeswap.finance/protocol/cake-tokenomics). Mỗi block, một số lượng token CAKE được phân bổ như phần thưởng cho các pool này.
 
 Phần thưởng cho loại "Stake CAKE, earn other tokens" được cung cấp bởi các nhóm dự án tài trợ cho Syrup Pool.
 

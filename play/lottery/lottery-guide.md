@@ -5,7 +5,7 @@
 Xổ số của PancakeSwap không chỉ là cách tuyệt vời để kiếm thêm CAKE, mà còn rất thú vị! Hướng dẫn này sẽ giúp bạn tham gia vào Xổ số.
 
 {% hint style="info" %}
-Xổ số đã thay đổi một chút so với phiên bản đầu tiên. Lottery v2 cho phép bạn thắng thường xuyên hơn, kiểm soát được vé của mình và có tiềm năng jackpot CAKE khổng lồ khiến bạn thèm thuồng. Tìm hiểu thêm về [PancakeSwap Lottery v2 tại đây](https://docs.pancakeswap.finance/products/lottery).
+Xổ số đã thay đổi một chút so với phiên bản đầu tiên. Lottery v2 cho phép bạn thắng thường xuyên hơn, kiểm soát được vé của mình và có tiềm năng jackpot CAKE khổng lồ khiến bạn thèm thuồng. Tìm hiểu thêm về [PancakeSwap Lottery v2 tại đây](https://docs.pancakeswap.finance/play/lottery).
 {% endhint %}
 
 ## Quyết định có nên tham gia một vòng hay không

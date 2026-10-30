@@ -52,7 +52,7 @@ APR toàn cầu được tính bằng cách sử dụng tổng lượng thanh kh
 APR cho các vị thế riêng lẻ có thể thay đổi tùy thuộc vào cài đặt phạm vi giá của chúng.
 
 $$
-ARP_p = {\frac{USD_{r}}{USD_{p}}} {\frac{L_{p}}{L_{lm}}}
+APR_p = {\frac{USD_{r}}{USD_{p}}} {\frac{L_{p}}{L_{lm}}}
 $$
 
 * $$USD_r$$: Phần thưởng CAKE kiếm được USD mỗi năm trong pool

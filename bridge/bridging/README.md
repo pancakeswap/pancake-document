@@ -29,7 +29,7 @@ Dưới đây là một số lý do bạn có thể muốn kết nối chuỗi:
 
 ## CAKE, một token đa chuỗi
 
-Với việc mở rộng và triển khai đa chuỗi của chúng tôi, CAKE hiện là một token đa chuỗi có nguồn gốc từ BNB Chain, nhưng cũng có sẵn trên Base, Arbitrum, Solana, Ethereum, ZKsync, Linea, opBNB và Aptos.
+Với việc mở rộng và triển khai đa chuỗi của chúng tôi, CAKE hiện là một token đa chuỗi có nguồn gốc từ BNB Chain, nhưng cũng có sẵn trên Base, Arbitrum, Solana, Ethereum, ZKsync, Linea, opBNB, Monad và Aptos.
 
 CAKE trên bất kỳ chuỗi nào khác đều tương đương với CAKE trên BNB Smart Chain. Nó luôn có thể được kết nối chuỗi giữa các chuỗi này theo tỷ lệ 1:1 và không mất phí CAKE.
 
@@ -67,6 +67,7 @@ Hiện tại chúng tôi tích hợp với:
 * LayerZero
 * Stargate
 * Meson
+* Mayan
 
 > Lưu ý: Mỗi nhà cung cấp có cơ chế kết nối chuỗi, chuỗi được hỗ trợ, phí và giới hạn khác nhau.
 
@@ -83,6 +84,9 @@ Hiện tại chúng tôi tích hợp với:
 * opBNB
 * ZKsync
 * Linea
+* Monad
+* Robinhood
+* Solana
 * Aptos (Trang V1)
 
 #### Các Token Có Thể Kết Nối Chuỗi
@@ -197,3 +201,7 @@ Nếu một giao dịch bị kẹt trong thời gian dài, hãy kiểm tra trìn
    * `cakeOFT`: `0x3055913c90Fcc1A6CE9a358911721eEb942013A1` ([link](https://basescan.org/address/0x3055913c90Fcc1A6CE9a358911721eEb942013A1#code))
 8. **opBNB**
    * `cakeOFT`: `0x2779106e4F4A8A28d77A24c18283651a2AE22D1C` ([link](https://opbnbscan.com/address/0x2779106e4F4A8A28d77A24c18283651a2AE22D1C?tab=Contract\&p=1))
+9. **Monad**
+   * `cakeOFT`: `0xF59D81cd43f620E722E07f9Cb3f6E41B031017a3`
+10. **Solana**
+    * `cakeOFT`: `4qQeZ5LwSz6HuupUu8jCtgXyW1mYQcNbFAW1sWZp89HL`

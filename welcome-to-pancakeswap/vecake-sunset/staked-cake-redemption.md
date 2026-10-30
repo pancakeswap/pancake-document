@@ -27,7 +27,7 @@ Sau khi kết nối, bạn sẽ thấy các thông tin sau:
 4. **Tổng phần thưởng của tôi**: Tổng CAKE bạn đủ điều kiện đổi lại và nhận, bao gồm:
 
 * **Phần thưởng Cake Pool**: Phần thưởng CAKE Pool cũ
-* **Phần thưởng chia sẻ doanh thu**: Kiếm được từ việc Staking CAKE ([Thêm thông tin](https://docs.pancakeswap.finance/earn/cake-staking/revenue-sharing/earn-cake-weekly))
+* **Phần thưởng chia sẻ doanh thu**: Kiếm được từ việc Staking CAKE ([Thêm thông tin](https://docs.pancakeswap.finance/welcome-to-pancakeswap/vecake-sunset/archive-vecake/earn-cake-weekly))
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Connected%20view%20balance.png" alt=""><figcaption></figcaption></figure>
 

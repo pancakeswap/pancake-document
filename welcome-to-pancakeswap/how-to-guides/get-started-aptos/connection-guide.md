@@ -1,7 +1,5 @@
 # Kết Nối Ví của Bạn với PancakeSwap
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-connect-wallet-header.png)
-
 ## Kết nối ví của bạn
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/wallet-connection-aptos.png" alt=""><figcaption></figcaption></figure>
@@ -16,7 +14,7 @@
 
 ## **Kết Nối với Aptos Mainnet**
 
-Aptos có nhiều mạng khác nhau, bao gồm nhiều devnet và testnet. Nhưng để sử dụng PancakeSwap trên Aptos Chain, hãy đảm bảo ví của bạn được kết nối với **Aptos Mainnet**.&#x20;
+Aptos có nhiều mạng khác nhau, bao gồm nhiều devnet và testnet. Nhưng để sử dụng PancakeSwap trên Aptos Chain, hãy đảm bảo ví của bạn được kết nối với **Aptos Mainnet**.
 
 Đây là cách thực hiện:
 

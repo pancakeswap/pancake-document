@@ -7,7 +7,7 @@ description: Kết nối chuỗi CAKE giữa các chuỗi EVM và Aptos
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28113%29.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Hướng dẫn sau đây sử dụng BNB Chain làm ví dụ về chuỗi EVM. Quy trình tương tự có thể áp dụng cho Ethereum.
+Hướng dẫn sau đây sử dụng BNB Chain làm ví dụ về chuỗi EVM. Quy trình tương tự có thể áp dụng cho Ethereum khi kết nối chuỗi **vào** Aptos. Kết nối chuỗi **ra khỏi** Aptos hiện chỉ hỗ trợ BNB Smart Chain làm chuỗi đích.
 {% endhint %}
 
 ## Kết Nối Chuỗi CAKE từ BNB Smart Chain sang Aptos

@@ -1,7 +1,5 @@
 # Nhận Aptos Coin
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-get-aptos-coins-header.png)
-
 {% hint style="info" %}
 Hướng dẫn này đề cập đến các dịch vụ cầu nối Aptos chính cho các token phổ biến. Để kết nối chuỗi CAKE giữa Aptos và BNB Smart Chain, hãy sử dụng [PancakeSwap Aptos Bridge](https://bridge.pancakeswap.finance/aptos).
 {% endhint %}
@@ -49,7 +47,7 @@ Bạn cũng sẽ cần các token mà bạn muốn giao dịch hoặc staking tr
 {% tab title="💰 Binance.com" %}
 [**Binance.com**](https://www.binance.com/en/)
 
-* Bạn có thể rút Aptos Coin (APT) trên Aptos Chain qua tài khoản Binance của bạn.&#x20;
+* Bạn có thể rút Aptos Coin (APT) trên Aptos Chain qua tài khoản Binance của bạn.
 * **⚠️ Hiện tại chỉ hỗ trợ Aptos Coin (APT). Để kết nối chuỗi các tài sản khác, hãy xem các tùy chọn cầu nối khác ở trên.**
 * **⚠️ Bạn cần có tài khoản để thực hiện điều này.**
 

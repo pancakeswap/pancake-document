@@ -8,7 +8,7 @@ PancakeSwap X giới thiệu một cách hoàn toàn mới để giao dịch cá
 * Hoán đổi không tốn gas
 
 {% hint style="success" %}
-**PancakeSwap X đang hoạt động trên Arbitrum và Ethereum, hỗ trợ token tiền điện tử, và trên BNB Chain, nó chỉ hỗ trợ tài sản thực (RWA).**
+**PancakeSwap X đang hoạt động trên Arbitrum, Ethereum, BNB Chain, Base và Robinhood Chain, hỗ trợ hoán đổi token tiền điện tử. Tài sản thực (RWA) được hỗ trợ thêm trên BNB Chain, Ethereum và Robinhood Chain.**
 {% endhint %}
 
 > **Muốn tích hợp? Xem hướng dẫn kỹ thuật tích hợp PancakeSwap X** [**tại đây**](https://www.notion.so/PCSX-Tech-Integration-Guide-0eb33e93295644e9855ec2c34b58b0c4?source=copy_link)**.**

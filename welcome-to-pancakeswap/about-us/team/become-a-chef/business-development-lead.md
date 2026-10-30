@@ -1,63 +1,59 @@
-# Trưởng Phòng Phát Triển Kinh Doanh
+# Business Development Lead
 
-PancakeSwap đang chuyển đổi từ AMM DEX hàng đầu trên BNB Chain sang một Trung Tâm Thanh Khoản toàn diện — tổng hợp và quản lý thanh khoản từ các nhóm AMM bản địa, vốn tổ chức và các kênh phân phối bên ngoài. Vị trí này dẫn đầu một trong ba bộ phận BD chuyên biệt trong quá trình xây dựng đó.
+PancakeSwap đang chuyển mình từ AMM DEX hàng đầu trên BNB Chain thành một Liquidity Hub đầy đủ — tổng hợp và quản lý thanh khoản từ các pool AMM gốc, vốn tổ chức và các kênh phân phối bên ngoài. Vai trò này dẫn dắt một trong ba mảng BD chuyên biệt trong quá trình xây dựng đó.
 
-### Về vai trò
+### Về vị trí này
 
-Chúng tôi đang tái cơ cấu đội ngũ BD xung quanh ba nguồn thanh khoản, không phải các chuỗi. Với tư cách là Trưởng BD quản lý đầu cuối: AMM Truyền Thống, Thanh Khoản Tổ Chức + RWA, Phân Phối Sản Phẩm Mới. Bạn sẽ là chuyên gia nội bộ về lĩnh vực — sở hữu quan hệ đối tác, KPI và pipeline từ liên hệ đầu tiên đến tích hợp trực tiếp.
+Chúng tôi đang tái cấu trúc đội BD xoay quanh ba nguồn thanh khoản, thay vì theo từng chuỗi. Với tư cách BD Lead phụ trách trọn vẹn từ đầu đến cuối: Traditional AMM, Institutional Liquidity + RWA, New Product Distribution. Bạn sẽ là chuyên gia nội bộ — sở hữu các quan hệ đối tác, KPI và quy trình từ lần liên hệ đầu tiên đến khi tích hợp chính thức đi vào hoạt động.
 
-Đây là vai trò vận hành, không phải vai trò quan hệ. Chúng tôi đo lường kết quả: khối lượng được tạo ra trên mỗi CAKE phát thải, khối lượng giao dịch tổ chức, tích hợp API tổng hợp đã triển khai. Bạn được kỳ vọng sẽ hiển thị tiến độ hàng tuần so với danh sách ưu tiên Q2 2026 cụ thể ngay từ ngày đầu tiên.
+Đây là vai trò thực thi, không phải vai trò quan hệ. Chúng tôi đo lường kết quả: khối lượng giao dịch tạo ra trên mỗi CAKE phát hành, khối lượng giao dịch tổ chức, số tích hợp aggregator API được triển khai. Bạn sẽ được kỳ vọng báo cáo tiến độ hằng tuần so với danh sách ưu tiên cụ thể của Q2 2026 ngay từ ngày đầu tiên.
 
+#### 1. Traditional AMM
 
+* Chịu trách nhiệm hiệu quả phát hành CAKE, onboarding dự án (V2/V3/Infinity CLAMM) và quy trình launchpad xuyên chuỗi trên BNB Chain, Base và SOL.
+* **Chỉ số chính:** khối lượng giao dịch trên mỗi đơn vị CAKE phát hành.
+* **Chỉ số phụ:** số pool hoạt động mới mỗi quý, số dự án ra mắt lần đầu trên mỗi chuỗi.
+* **Cần gấp hiện nay:** Quan hệ với quỹ hệ sinh thái Base + SOL · Quy trình dự án Infinity CLAMM
 
-1. **AMM Truyền Thống**
+#### 2. Institutional Liquidity + RWA
 
-* Sở hữu hiệu quả phát thải CAKE, quy trình tiếp nhận dự án (V2/V3/Infinity CLAMM), và pipeline launchpad xuyên chuỗi trên BNB Chain, Base và SOL.&#x20;
-* Chỉ số chính: khối lượng trên mỗi đơn vị CAKE phát thải.&#x20;
-* Phụ: số nhóm hoạt động mới mỗi quý, dự án ra mắt lần đầu trên mỗi chuỗi.
-* **Ưu tiên hiện tại:** Quan hệ quỹ hệ sinh thái Base + SOL · Pipeline dự án Infinity CLAMM
+* Chịu trách nhiệm onboarding tổ chức phát hành cổ phiếu token hóa và RWA (xStocks/Backed Finance/Ondo/Robinhood), onboarding market maker (Wintermute, Jump, GSR), và phân phối PancakeSwap X RFQ vào Kraken, Bybit, OKX.
+* Xây dựng quy trình PropAMM cho tổ chức.
+* **Chỉ số chính:** khối lượng giao dịch hằng tháng của PancakeSwap X, số tổ chức phát hành RWA được onboard.
+* **Cần gấp hiện nay:** Các pool xStocks trên BNB + Base · Hợp tác Backed Finance / Kraken
 
+#### 3. New Product Distribution
 
+* Thay thế 1inch trở thành aggregator API mặc định cho các ví (OKX, Binance, MetaMask, Trust) và các giao thức DeFi (Aave, Venus, Morpho).
+* Chịu trách nhiệm thiết kế chương trình chia sẻ doanh thu, đóng gói API white-label và phân tích đối thủ chuyển đổi.
+* **Phụ:** onboarding tổ chức cho perps (\~20% vai trò).
+* **Chỉ số chính:** số tích hợp API được triển khai mỗi quý, khối lượng giao dịch được aggregator định tuyến hằng tháng.
+* **Cần gấp hiện nay:** Phân tích sâu đối thủ 1inch, LiFi, Liquid Mesh · lập danh sách mục tiêu
 
-2. **Thanh Khoản Tổ Chức + RWA**
+### Bạn sẽ làm gì
 
-* Sở hữu việc tiếp nhận cổ phiếu tokenized và nhà phát hành RWA (xStocks/Backed Finance/Ondo/Robinhood), tiếp nhận nhà tạo lập thị trường (Wintermute, Jump, GSR), và phân phối PancakeSwap X RFQ vào Kraken, Bybit, OKX.&#x20;
-* Xây dựng pipeline tổ chức PropAMM. Chỉ số chính: khối lượng giao dịch hàng tháng của PancakeSwap X, các nhà phát hành RWA được tiếp nhận.
-* **Ưu tiên hiện tại:** Nhóm xStocks trên BNB + Base · Quan hệ đối tác Backed Finance / Kraken
+* Sở hữu toàn bộ vòng đời quan hệ đối tác: tìm kiếm, đàm phán, tích hợp và các chỉ số sức khỏe liên tục.
+* Báo cáo hằng tuần cho CEO về tình trạng quy trình và KPI của mảng; nêu các vướng mắc kèm giải pháp đề xuất, chứ không chỉ nêu vấn đề.
+* Tham gia buổi đồng bộ BD liên mảng hằng tuần để phát hiện các điểm chồng chéo trong quy trình và phối hợp cách tiếp cận chung.
+* Thực hiện nghiên cứu đối thủ liên tục trong lĩnh vực của mảng bạn phụ trách; chuyển các phát hiện thành khác biệt hóa có thể hành động.
+* Khi mảng trưởng thành, xây dựng và dìu dắt một đội nhỏ các BD manager dưới quyền bạn.
 
+### Chúng tôi tìm kiếm ai
 
+#### Bắt buộc
 
-3. **Phân Phối Sản Phẩm Mới**
+* Hơn 3 năm kinh nghiệm BD, hợp tác hoặc tăng trưởng trong DeFi, crypto hoặc fintech — với thành tích có các thỏa thuận đã ký, không chỉ có pipeline
+* Tư duy định lượng: thoải mái đọc dữ liệu on-chain, dashboard TVL/khối lượng giao dịch và tự đặt mục tiêu KPI từ nguyên lý nền tảng
+* Mạng lưới quan hệ vững sẵn có trong lĩnh vực của mảng mục tiêu (dự án AMM / tổ chức phát hành tổ chức/RWA / đội ngũ hệ sinh thái ví hoặc giao thức)
+* Tự chủ và có tổ chức: có thể quản lý nhiều thỏa thuận song song mà không cần cầm tay chỉ việc, và báo cáo vướng mắc sớm
+* Tinh thần làm chủ
 
-* Thay thế 1inch như API tổng hợp mặc định cho ví (OKX, Binance, MetaMask, Trust) và các giao thức DeFi (Aave, Venus, Morpho).&#x20;
-* Sở hữu thiết kế chương trình chia sẻ doanh thu, đóng gói API white-label và phân tích chuyển đổi từ đối thủ. Phụ: tiếp nhận tổ chức perps (\~20% vai trò).&#x20;
-* Chỉ số chính: tích hợp API triển khai mỗi quý, khối lượng định tuyến tổng hợp hàng tháng.
-* **Ưu tiên hiện tại:** Phân tích sâu đối thủ 1inch, LiFi, Liquid Mesh · xây dựng danh sách mục tiêu
+#### Là một lợi thế
 
-### Những gì bạn sẽ làm
+* Từng có kinh nghiệm tại DEX, AMM, aggregator hoặc nền tảng RWA
+* Có khả năng tự đọc các tương tác smart contract hoặc diễn giải dashboard Dune
+* Có kinh nghiệm xây dựng hoặc quản lý đội BD từ con số không
 
-* Sở hữu toàn bộ vòng đời đối tác: tìm nguồn cung ứng, đàm phán, tích hợp và các chỉ số sức khỏe liên tục\
-  Báo cáo hàng tuần về trạng thái pipeline và KPI bộ phận cho CEO; nêu rõ các trở ngại với giải pháp đề xuất, không chỉ là vấn đề
-* Tham gia vào cuộc họp đồng bộ BD xuyên bộ phận hàng tuần để phát hiện sự chồng chéo trong pipeline và phối hợp các cách tiếp cận chung
-* Thực hiện tình báo cạnh tranh liên tục đặc thù cho lĩnh vực của bộ phận; chuyển đổi các phát hiện thành sự khác biệt có thể thực hiện được
-* Khi bộ phận trưởng thành, xây dựng và cố vấn cho một đội nhỏ các quản lý BD dưới quyền bạn
+### Cách ứng tuyển
 
-### Chúng tôi đang tìm kiếm gì
-
-**Bắt buộc**
-
-* 3+ năm kinh nghiệm BD, quan hệ đối tác hoặc tăng trưởng trong DeFi, crypto hoặc fintech — với hồ sơ theo dõi các thỏa thuận đã ký kết, không chỉ pipeline
-* Tư duy định lượng: thoải mái đọc dữ liệu on-chain, bảng điều khiển TVL/khối lượng và tự đặt mục tiêu KPI từ các nguyên tắc cơ bản
-* Mạng lưới hiện có mạnh mẽ trong lĩnh vực mục tiêu của bộ phận bạn (dự án AMM / tổ chức/nhà phát hành RWA / đội ví hoặc giao thức hệ sinh thái)
-* Tự chủ và có cấu trúc: có khả năng quản lý nhiều thỏa thuận song song mà không cần hỗ trợ tay, và thông báo sớm về các trở ngại
-* Tư duy chủ động
-
-**Điểm cộng**
-
-* Kinh nghiệm trước đây tại DEX, AMM, tổng hợp hoặc nền tảng RWA
-* Khả năng đọc các tương tác hợp đồng thông minh hoặc tự giải thích bảng điều khiển Dune
-* Kinh nghiệm xây dựng hoặc quản lý đội BD từ đầu
-
-
-
-**Cách Ứng Tuyển:** Gửi CV của bạn đến hiring@pancakeswap.com, chúng tôi rất muốn nghe từ bạn!
+Hãy gửi CV của bạn đến hiring@pancakeswap.com, chúng tôi rất mong nghe từ bạn!

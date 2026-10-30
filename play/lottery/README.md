@@ -15,9 +15,9 @@ Tham gia Xổ số PancakeSwap cho bạn cơ hội giành được phần thư�
 
 Giá vé Xổ số được đặt vào đầu mỗi vòng mới và nhắm mục tiêu ở mức $5 USD (có thể dao động nhẹ khi giá biến động đột ngột).
 
-Mua nhiều vé Xổ số cùng một lúc sẽ được chiết khấu theo số lượng. Bạn có thể mua tối đa 100 vé trong một lần mua, với mức chiết khấu bắt đầu nhỏ từ 2 vé và tăng dần lên đến 10% khi mua 100 vé.
+Mua nhiều vé Xổ số cùng một lúc sẽ được chiết khấu theo số lượng. Bạn có thể mua tối đa 100 vé trong một lần mua, với mức chiết khấu bắt đầu nhỏ từ 2 vé và tăng dần lên gần 5% (4,95%) khi mua 100 vé.
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-22%20at%209.59.52%20PM.png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-22%20at%209.59.52%E2%80%AFPM.png)
 
 ## **Cách giành chiến thắng**
 

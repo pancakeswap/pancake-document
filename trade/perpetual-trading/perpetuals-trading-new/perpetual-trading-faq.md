@@ -61,4 +61,4 @@ Phí cho PancakeSwap Perpetuals như sau:
 
 ### **Những khu vực pháp lý nào bị hạn chế sử dụng sản phẩm?** <a href="#whats-the-difference-between-a-maker-and-taker-order" id="whats-the-difference-between-a-maker-and-taker-order"></a>
 
-Người dùng ở hoặc truy cập dịch vụ từ Hoa Kỳ, Canada, Vương Quốc Anh, Trung Quốc, Bắc Triều Tiên, Nga, Ukraine, Cuba, Iran, Venezuela hoặc Syria không được phép sử dụng sản phẩm. Quyền truy cập có thể bị hạn chế hoặc chặn theo các yêu cầu tuân thủ và quy định hiện hành.
+Người dùng ở hoặc truy cập dịch vụ từ Hoa Kỳ, Canada, Vương Quốc Anh, Trung Quốc, Bắc Triều Tiên, Hàn Quốc, Nga, Ukraine, Cuba, Iran, Venezuela hoặc Syria không được phép sử dụng sản phẩm. Quyền truy cập có thể bị hạn chế hoặc chặn theo các yêu cầu tuân thủ và quy định hiện hành.

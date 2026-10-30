@@ -44,7 +44,7 @@ Lưu ý rằng cấu trúc `PoolInfo` mới **không** chứa trường địa c
 
 Sử dụng `lpToken.balanceOf(MasterChef.address)` để lấy tổng số tiền staking cho bất kỳ farm pool nào.
 
-Tuy nhiên, trong MasterChef v2, share của người dùng có thể được tăng cường (sắp ra). Do đó, phần thưởng được tính bằng trường `totalBoostedShare` mới trong `PoolInfo` làm tổng share của mỗi pool. Ví dụ: nếu pool 0 có 2 người dùng, user1 staking 100 LP (không boost), user2 staking 100 (với `boostMultiplier` là 1.05), thì `totalBoostedShare` sẽ trở thành 205. Dẫn đến user2 nhận được nhiều phần thưởng hơn.
+Tuy nhiên, trong MasterChef v2, share của người dùng có thể được tăng cường. Do đó, phần thưởng được tính bằng trường `totalBoostedShare` mới trong `PoolInfo` làm tổng share của mỗi pool. Ví dụ: nếu pool 0 có 2 người dùng, user1 staking 100 LP (không boost), user2 staking 100 (với `boostMultiplier` là 1.05), thì `totalBoostedShare` sẽ trở thành 205. Dẫn đến user2 nhận được nhiều phần thưởng hơn.
 
 #### CakePerBlock
 

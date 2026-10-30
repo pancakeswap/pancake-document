@@ -4,7 +4,7 @@
 
 Yield Farms cho phép người dùng kiếm CAKE trong khi hỗ trợ PancakeSwap bằng cách stake LP Tokens.
 
-Xem hướng dẫn [Cách Sử dụng Farms](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) để bắt đầu farming.
+Xem hướng dẫn [Cách Sử dụng Farms](https://docs.pancakeswap.finance/earn/yield-farming/how-to-use-farms/how-to-use-farms) để bắt đầu farming.
 
 Tìm hiểu [cách tìm hợp đồng thông minh Farm](../../archive/how-to-use-farms-with-bscscan.md)
 

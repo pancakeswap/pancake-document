@@ -29,7 +29,7 @@ Lưu ý: Hiện tại, tính năng Zap đang trong giai đoạn beta. Lưu ý r�
 
 Truy cập [trang Liquidity](https://pancakeswap.finance/liquidity) và chọn "Add Liquidity".
 
-Chọn cặp giao dịch bạn muốn cung cấp thanh khoản bằng cách chọn hai token đầu vào, xem [hướng dẫn Thanh khoản](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide) để tìm hiểu thêm.
+Chọn cặp giao dịch bạn muốn cung cấp thanh khoản bằng cách chọn hai token đầu vào, xem [hướng dẫn Thanh khoản](https://docs.pancakeswap.finance/earn/pancakeswap-pools/liquidity-guide) để tìm hiểu thêm.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-1.png)
 
