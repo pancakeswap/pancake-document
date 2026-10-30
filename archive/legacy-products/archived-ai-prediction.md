@@ -54,6 +54,6 @@ Frais : 3 % du pot total de chaque round pour le trésor, dont une partie des fr
 
 Vous pouvez consulter l'historique des rounds dans l'onglet historique pour vérifier le prix du round précédent et la décision de l'IA. Tous les rounds sont réglés on-chain ; consultez le [contrat de Prédiction](https://arbiscan.io/address/0x1cdc19B13729f16C5284a0ACE825F83fC9d799f4) pour plus d'informations.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-06-26%20at%208.02.17%20PM.png" alt=""><figcaption><p>Consultez l'onglet historique à droite</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-06-26%20at%208.02.17%E2%80%AFPM.png" alt=""><figcaption><p>Consultez l'onglet historique à droite</p></figcaption></figure>
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-06-26%20at%208.01.26%20PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-06-26%20at%208.01.26%E2%80%AFPM.png" alt=""><figcaption></figcaption></figure>

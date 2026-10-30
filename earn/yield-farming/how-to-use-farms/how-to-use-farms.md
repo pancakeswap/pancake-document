@@ -235,6 +235,6 @@ Vous pouvez voir ces frais dans votre portefeuille lors de la confirmation aprè
 
 Ceci montre les frais de récolte tels qu'ils apparaissent dans le portefeuille MetaMask. Les différents portefeuilles afficheront l'information de manière légèrement différente. Envisagez de laisser vos récompenses s'accumuler pendant un certain temps afin de payer des frais moins fréquemment.
 
-Et voilà, c'est tout ! Vous pouvez également consulter [comment utiliser les Syrup Pools PancakeSwap](https://docs.pancakeswap.finance/get-started/syrup-pool-guide) pour gagner des récompenses.
+Et voilà, c'est tout ! Vous pouvez également consulter [comment utiliser les Syrup Pools PancakeSwap](https://docs.pancakeswap.finance/earn/cake-staking/syrup-pool/syrup-pool-guide) pour gagner des récompenses.
 
 Bonne récolte !

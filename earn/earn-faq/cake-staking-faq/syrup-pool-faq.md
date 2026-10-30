@@ -49,7 +49,7 @@ Il existe trois types principaux de Syrup Pools.
 2. Staker du CAKE, gagner d'autres jetons.&#x20;
 3. Staker d'autres jetons, gagner du CAKE
 
-Les récompenses pour les Syrup Pools « Staker du CAKE, gagner du CAKE » proviennent des [émissions de CAKE](https://docs.pancakeswap.finance/tokenomics/cake/cake-tokenomics). À chaque bloc, un certain nombre de jetons CAKE sont alloués comme récompenses pour ces pools.
+Les récompenses pour les Syrup Pools « Staker du CAKE, gagner du CAKE » proviennent des [émissions de CAKE](https://docs.pancakeswap.finance/protocol/cake-tokenomics). À chaque bloc, un certain nombre de jetons CAKE sont alloués comme récompenses pour ces pools.
 
 Les récompenses pour le type « Staker du CAKE, gagner d'autres jetons » sont fournies par les équipes de projets qui sponsorisent un Syrup Pool.
 

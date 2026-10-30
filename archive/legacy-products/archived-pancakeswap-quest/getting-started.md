@@ -19,7 +19,7 @@
        <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unnamed%20%287%29.png" alt=""><figcaption></figcaption></figure>
 
        <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unnamed%20%286%29.png" alt="" width="375"><figcaption></figcaption></figure>
-3.  Suivez les étapes de l'écran de configuration du profil ou consultez le guide de création de profil [ici](/broken/pages/-MYdfYNF3jEh_f1HFdcj "mention"), à partir de l'étape 7. La configuration est gratuite, cependant une petite quantité de gaz sur BNB Chain est requise pour configurer les profils.
+3.  Suivez les étapes de l'écran de configuration du profil ou consultez le guide de création de profil ici, à partir de l'étape 7. La configuration est gratuite, cependant une petite quantité de gaz sur BNB Chain est requise pour configurer les profils.
 
     <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/unnamed%20%285%29.png" alt="" width="375"><figcaption><p>Choisissez le Bunny - Un bunny de départ générique pour votre aventure de quêtes</p></figcaption></figure>
 

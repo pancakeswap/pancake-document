@@ -10,7 +10,7 @@ En échange de l'ajout de Liquidité, vous recevrez des frais de Trading pour ce
 
 Pour fournir de la Liquidité, vous devrez engager un montant pour la paire de tokens de votre choix. La valeur la plus faible (en USD) des deux tokens déterminera la limite de la Liquidité que vous pouvez fournir.
 
-Vous pouvez facilement échanger les tokens dont vous avez besoin. Consultez notre guide [Comment échanger sur PancakeSwap](https://docs.pancakeswap.finance/get-started/trade-guide) si nécessaire.
+Vous pouvez facilement échanger les tokens dont vous avez besoin. Consultez notre guide [Comment échanger sur PancakeSwap](https://docs.pancakeswap.finance/trade/pancakeswap-exchange/trade-guide) si nécessaire.
 
 Dans cet exemple, nous allons ajouter de la Liquidité V3 en utilisant ETH et USDC.
 

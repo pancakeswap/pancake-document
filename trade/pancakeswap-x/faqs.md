@@ -2,7 +2,7 @@
 
 #### Quel réseau est actuellement pris en charge ?
 
-PancakeSwap X est disponible sur Arbitrum et Ethereum, avec prise en charge des tokens crypto, et sur BNB Chain, il prend en charge les actifs du monde réel (RWAs) tels que les actions, obligations et ETFs tokenisés.
+PancakeSwap X est disponible sur Arbitrum, Ethereum, BNB Chain, Base et Robinhood Chain, avec prise en charge des swaps de tokens crypto. Les actifs du monde réel (RWAs) tels que les actions, obligations et ETFs tokenisés sont également pris en charge sur BNB Chain, Ethereum et Robinhood Chain.
 
 #### PancakeSwap X est-il activé par défaut ?
 

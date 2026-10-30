@@ -1,7 +1,5 @@
 # Créer un Portefeuille
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-make-a-crypto-wallet-header.png)
-
 Pour commencer sur PancakeSwap, vous devez d'abord configurer un portefeuille compatible avec BNB Smart Chain (BSC). Les portefeuilles sont disponibles aussi bien sur ordinateur que sur smartphone. Choisissez celui qui correspond le mieux à vos besoins.
 
 {% hint style="danger" %}

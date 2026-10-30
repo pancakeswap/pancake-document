@@ -83,8 +83,6 @@ Ces frais ne sont prélevés qu'une seule fois, lors de la première transaction
 
 ### D'où proviennent les émissions ?&#x20;
 
-_mis à jour le 10 octobre 2022_
-
 Pour l'instant, les Chefs ont redirigé 0,0189 CAKE par bloc du CAKE pool vers toutes les Farms cross-chain.&#x20;
 
 Voici la répartition des émissions :

@@ -8,7 +8,7 @@
 
 1.  Les utilisateurs peuvent choisir de rejoindre une quête directement via un lien ou se rendre sur notre [page d'accueil des quêtes](https://quest.pancakeswap.finance/quests) pour en découvrir de nouvelles. Cliquez sur l'une des quêtes pour en savoir plus.&#x20;
 
-    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%206.54.53%20PM.png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%206.54.53%E2%80%AFPM.png" alt="" width="563"><figcaption></figcaption></figure>
 2. Depuis la page d'exploration, vous pouvez parcourir les quêtes selon différents critères : nombre de tâches, gagnants, chaînes et période.
 3. Démarrer une quête
    1. Une fois la quête sélectionnée, les utilisateurs peuvent cliquer sur « Join Quest » pour commencer à participer.
@@ -17,7 +17,7 @@
 
 1.  Les utilisateurs doivent remplir des tâches et des actions avant de compléter chaque quête. Sélectionnez les tâches et suivez le texte à l'écran pour relever le défi. Les actions peuvent aller des tâches sociales aux éléments on-chain.&#x20;
 
-    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%207.18.31%20PM.png" alt="" width="368"><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%207.18.31%E2%80%AFPM.png" alt="" width="368"><figcaption></figcaption></figure>
 2.  Tâches sociales - Les tâches peuvent inclure :
 
     1. Aimer un post sur X
@@ -42,7 +42,7 @@
     **Remarque : En raison des vitesses de récupération des données, les tâches on-chain peuvent prendre jusqu'à 1 heure pour être vérifiées sur certaines chaînes.**&#x20;
 4.  Vous pouvez voir les tâches restantes via la barre de statut en haut. Une fois la quête complétée, elle affichera « Completed » en haut à gauche. Si la quête offre une récompense en tokens, vous serez alors éligible à un tirage aléatoire des récompenses.&#x20;
 
-    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%207.28.19%20PM.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Screenshot%202024-08-06%20at%207.28.19%E2%80%AFPM.png" alt=""><figcaption></figcaption></figure>
 5. Les utilisateurs peuvent également choisir de compléter des tâches optionnelles, qui ne comptent pas pour l'achèvement requis des quêtes.
 
 ### Vérifier le statut de la quête

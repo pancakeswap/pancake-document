@@ -43,7 +43,7 @@ Retrouvez plus d'informations sur nos Syrup Pools [ici](../../../welcome-to-panc
 
 ### Contrats intelligents des Syrup Pools <a href="#docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86" id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
 
-[Syrup Pool CAKE](/broken/pages/cFidohif6VdJE7LuwvlB)
+[Syrup Pool CAKE](https://developer.pancakeswap.finance/contracts/syrup-pools)
 
 ### &#x20;<a href="#docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86" id="docs-internal-guid-c4c16237-7fff-3c33-3a56-18ccd8853f86"></a>
 

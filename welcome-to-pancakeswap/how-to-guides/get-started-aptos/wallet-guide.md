@@ -1,7 +1,5 @@
 # Créer un Portefeuille
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-make-a-crypto-wallet-header.png)
-
 Pour démarrer votre aventure PancakeSwap sur Aptos, vous devrez d'abord configurer un Portefeuille compatible avec la chaîne Aptos. Les Portefeuilles sont disponibles aussi bien sur ordinateur que sur smartphone. Choisissez celui qui correspond le mieux à vos besoins.
 
 {% hint style="danger" %}

@@ -13,7 +13,6 @@ L'objectif de PancakeSwap est de construire un écosystème décentralisé qui p
 * [Spot trading](https://docs.pancakeswap.finance/earn/pancakeswap-pools#trading-fees) (15–23 % des frais de trading)
 * Trading Perpétuel (20 % de tous les bénéfices)
 * CAKE.PADs (100 % de tous les frais)
-* Prédiction (3 % de chaque round)
 * Loterie (20 % de tout le CAKE joué)
 
 **Les émissions sont soigneusement gérées pour diriger la Liquidité vers les pools et produits les plus productifs.** PancakeSwap se concentre sur la croissance du volume en optimisant les incitations à la Liquidité et en augmentant les revenus par CAKE dépensé. Chaque décision tourne autour de l'objectif de créer des revenus réels et de contribuer au succès à long terme de toute la communauté. Les produits qui reçoivent des émissions de CAKE incluent :

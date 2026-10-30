@@ -147,7 +147,7 @@ Vous pourrez peut-être réclamer vos gains directement depuis le contrat. Suive
 {% tab title="Check rounds you played" %}
 Comment consulter l'historique des tours auxquels vous avez participé
 
-1. Accédez à la page BscScan du [contrat de Prédiction](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (par ex. BNBUSD).
+1. Accédez à la page BscScan du [contrat de Prédiction](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract) (par ex. BNBUSD).
 2. Faites défiler jusqu'à « 8. getUserRounds ».
 3. Saisissez l'adresse de votre portefeuille sous « user(address) ».
 4. Définissez « cursor(uint256) » sur 0 et « size(uint256) » sur 1000.
@@ -158,7 +158,7 @@ Comment consulter l'historique des tours auxquels vous avez participé
 {% tab title="Check if you can claim" %}
 Vérifiez d'abord si vous devriez réellement pouvoir réclamer pour le tour auquel vous avez participé.
 
-1. Accédez à la page BscScan du [contrat de Prédiction](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (par ex. BNBUSD), et accédez à l'onglet Read
+1. Accédez à la page BscScan du [contrat de Prédiction](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract) (par ex. BNBUSD), et accédez à l'onglet Read
 2. Faites défiler jusqu'à « 4. claimable ».
 3. Saisissez l'identifiant du tour que vous souhaitez vérifier sous « epoch(uint256) ».
 4. Saisissez l'adresse de votre portefeuille sous « user(address) ».
@@ -171,7 +171,7 @@ Vérifiez d'abord si vous devriez réellement pouvoir réclamer pour le tour auq
 {% tab title="Claim from a round" %}
 Comment réclamer
 
-1. Accédez à la page BscScan du [contrat de Prédiction](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (par ex. BNBUSD), et accédez à l'onglet Write
+1. Accédez à la page BscScan du [contrat de Prédiction](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract) (par ex. BNBUSD), et accédez à l'onglet Write
 2. Appuyez sur « 🔴 Connect to Web3 »
 3. Utilisez MetaMask ou WalletConnect pour vous connecter.
 4. Faites défiler jusqu'à « 3. claim »

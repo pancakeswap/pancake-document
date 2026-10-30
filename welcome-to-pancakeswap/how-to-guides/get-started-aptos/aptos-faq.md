@@ -1,7 +1,5 @@
 # FAQ Aptos
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Aptos-faq-header.png" alt=""><figcaption></figcaption></figure>
-
 Cette page FAQ répond aux questions les plus fréquemment posées par la communauté PancakeSwap au sujet de notre déploiement sur Aptos.
 
 ## Général
