@@ -1,4 +1,6 @@
-# 🤖 BNB AI Agent Studio
+# 🤖 Building Trading Agents on PancakeSwap V3
+
+Эта страница даёт общий обзор, а за дополнительной информацией заходи на [pancakeswap.ai](https://pancakeswap.ai)
 
 > Руководство для разработчиков, создающих автономных агентов — с помощью [BNB Agent Studio](https://www.bnbchain.org/en/bnb-agent-studio) или любого фреймворка — которые взаимодействуют с пулами ликвидности и фармами PancakeSwap V3 на BNB Smart Chain.
 >

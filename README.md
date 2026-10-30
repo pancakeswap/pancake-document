@@ -14,7 +14,7 @@
 
 ### Выбор пользователей
 
-PancakeSwap — ведущая децентрализованная биржа. Доступна в десяти сетях: BNB Chain, Ethereum, Solana, Base, Arbitrum, Aptos, ZKsync, Linea, Monad и opBNB, с наибольшими торговыми объёмами на рынке (источники: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
+PancakeSwap — ведущая децентрализованная биржа. Доступна в одиннадцати сетях: BNB Chain, Ethereum, Solana, Base, Arbitrum, Aptos, ZKsync, Linea, Monad, Robinhood и opBNB, с наибольшими торговыми объёмами на рынке (источники: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
 
 ### Низкие комиссии
 

@@ -10,7 +10,7 @@ Zap — это функция, позволяющая легко добавля�
 
 ### Поддерживаемые сети
 
-* v3 — все пулы на BNB Chain, выбранные пулы в сетях Ethereum и Arbitrum
+* v3 — все пулы на BNB Chain и Robinhood Chain, выбранные пулы в сетях Ethereum и Arbitrum
 * Infinity — все пулы CLAMM (без hook) на BNB Chain
 
 ### Как использовать <a href="#id-438fff0f-f1da-4147-9fe3-6dc1dc2ef352" id="id-438fff0f-f1da-4147-9fe3-6dc1dc2ef352"></a>

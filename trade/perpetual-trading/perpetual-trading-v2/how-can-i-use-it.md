@@ -4,7 +4,7 @@ description: Как использовать Бессрочную торговл
 
 # Как это использовать?
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-pancakeswap-without-cex-header%20(1).png)
+![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-pancakeswap-without-cex-header%20%281%29.png).png)
 
 Использовать этот функционал очень просто (сложнее — торговать хорошо). Нам нужно лишь выполнить ряд шагов для полноценной работы. Для получения дополнительной информации посети [Глоссарий V2](perpetuals-glossary.md).
 

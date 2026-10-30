@@ -114,8 +114,8 @@ IFO iCAKE обновлён для поддержки veCAKE. Подробнее:
 
 Все держатели veCAKE (нативные или перенесённые) будут автоматически включены в новый пул распределения дохода. Доли дохода распределяются согласно существующему графику. Старый пул распределения дохода будет прекращён; пользователи могут получить ожидающие награды, перейдя на карточку преимуществ. Подробнее:
 
-{% content-ref url="/broken/pages/wQegezs7c6A2HzQjPEjh" %}
-[Broken link](/broken/pages/wQegezs7c6A2HzQjPEjh)
+{% content-ref url="revenue-sharing-faq.md" %}
+[Revenue Sharing FAQ](revenue-sharing-faq.md)
 {% endcontent-ref %}
 
 #### Можно ли использовать мультисиг-кошельки для взаимодействия с veCAKE?
@@ -162,4 +162,4 @@ https://bscscan.com/address/0xe6cdC66A96458FbF11F632B50964153fBDa78548#writeCont
 
 Это поощрение из распределения дохода протокола, поступающего из торговых комиссий, собранных в продуктах DEX.
 
-Подробнее смотри [Revenue Sharing](/broken/pages/wQegezs7c6A2HzQjPEjh).
+Подробнее смотри [Revenue Sharing](revenue-sharing-faq.md).

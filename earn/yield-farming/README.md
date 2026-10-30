@@ -4,7 +4,7 @@
 
 Фермы позволяют пользователям зарабатывать CAKE, поддерживая PancakeSwap путём стейкинга LP-токенов.
 
-Ознакомься с нашим [руководством по использованию ферм](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms), чтобы начать фарминг.
+Ознакомься с нашим [руководством по использованию ферм](https://docs.pancakeswap.finance/earn/yield-farming/how-to-use-farms/how-to-use-farms), чтобы начать фарминг.
 
 Узнай [как найти смарт-контракты ферм](../../archive/how-to-use-farms-with-bscscan.md)
 

@@ -2,84 +2,78 @@
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/the-kitchen-team-header.png)
 
-Перейти к интервью с шеф-поваром можно, нажав на его имя.
+### Шефы
 
-### Шеф-повара
+🐰 Chef Kids - Head Chef ([X/Twitter](https://x.com/Headchef_pcs))
 
-🐰 Chef Kids — Главный шеф-повар ([Twitter](https://x.com/Headchef_pcs))
+🐰 Chef Miso - Продукт
 
-🐰 Chef Miso — Продукт
+🐰 Chef Kocha - Продукт
 
-🐰 Chef Maroon — Руководитель BD ([Twitter](https://x.com/ChefMaroon))
+🐰 Chef Mustard - Операции ([X/Twitter](https://twitter.com/chef_mustard))
 
-🐰 Chef Doxie — Развитие бизнеса ([Twitter](https://x.com/ChefDoxie))
+🐰 Chef Pau - Операции
 
-🐰 Chef Madeline — Развитие бизнеса
+🐰 Chef Leo - Руководитель по развитию бизнеса ([X/Twitter](https://x.com/DYOR_WAGMI))
 
-🐰 Chef Leo — Развитие бизнеса
+🐰 Chef Olive - Развитие бизнеса&#x20;
 
-🐰 Chef Mustard — Операции ([Twitter](https://twitter.com/chef_mustard))
+🐰 Chef Cocoa - Руководитель маркетинга ([X/Twitter](https://x.com/chef_cocoa_pcs))
 
-🐰 Chef Pau — Операции
+🐰 Chef Alina - Партнёрский маркетинг ([X/Twitter](https://x.com/0xalinatyng))
 
-🐰 Chef Cyrus — Данные
+🐰 Chef Sake - Сообщество ([X/Twitter](https://x.com/KayraMeow))
 
-🐰 Chef Jackson — Руководитель разработки ([Twitter](https://x.com/0xchefjackson))
+🐰 Chef Marcus - Социальные сети &#x20;
 
-🐰 Chef Ryan — Руководитель фронтенд-разработки
+🐰 Chef Boba - Сообщество &#x20;
 
-🐰 Chef Eric — Фронтенд-разработчик
+🐰 Chef Salade - Руководитель дизайна
 
-🐰 Chef Jerry — Фронтенд-разработчик
+🐰 Chef Waffles - Дизайнер
 
-🐰 Chef Philip — Фронтенд-разработчик
+🐰 Chef Noodles - Дизайнер
 
-🐰 Chef Penguin — Фронтенд-разработчик
+🐰 Chef Cyrus - Данные
 
-🐰 Chef Taco — Руководитель бэкенд-разработки
+🐰 Chef Mist - Руководитель разработки&#x20;
 
-🐰 Chef Sanji — Бэкенд-разработчик
+🐰 Chef Ryan - Руководитель фронтенд-разработки
 
-🐰 Chef Curry — Бэкенд-разработчик
+🐰 Chef Philip - ИИ-разработчик
 
-🐰 Chef Kiwi — Бэкенд-разработчик
+🐰 Chef Eric - Фронтенд-разработчик
 
-🐰 Chef Bob — Бэкенд-разработчик
+🐰 Chef Jerry - Фронтенд-разработчик
 
-🐰 Chef Toast — Бэкенд-разработчик
+🐰 Chef Penguin - Фронтенд-разработчик
 
-🐕 Chef Snoopy — Руководитель разработки смарт-контрактов
+🐰 Chef Taco - Руководитель бэкенд-разработки
 
-🐰 Chef Omelette — Разработчик смарт-контрактов
+🐰 Chef Sanji - Бэкенд-разработчик
 
-🐰 Chef Shiba — Разработчик смарт-контрактов
+🐰 Chef Curry - Бэкенд-разработчик
 
-🐰 Chef Carb — Разработчик смарт-контрактов
+🐰 Chef Kiwi - Бэкенд-разработчик
 
-🐰 Chef Ramen — Разработчик смарт-контрактов
+🐰 Chef Bob - Бэкенд-разработчик
 
-🐰 Chef Ruby — QA
+🐰 Chef Toast - Бэкенд-разработчик
 
-🐰 Chef Liam — QA
+🐕 Chef Snoopy - Руководитель разработки смарт-контрактов
 
-🐰 Chef Rei — Безопасность
+🐰 Chef Omelette - Разработчик смарт-контрактов
 
-🐰 Chef Salade — Руководитель дизайна
+🐰 Chef Shiba - Разработчик смарт-контрактов
 
-🐰 [Chef Cecy](https://medium.com/pancakeswap/kitchen-interviews-chef-cecy-the-magical-3d-artist-making-fluffy-bunnies-e1eda53742f3) — 3D-художник ([Twitter](https://twitter.com/Cecymeade))
+🐰 Chef Carb - Разработчик смарт-контрактов
 
-🐰 Chef Waffles — Дизайнер
+🐰 Chef Ramen - Разработчик смарт-контрактов
 
-🐰 Chef Noodles — Дизайнер бренда и моушн-дизайнер
+🐰 Chef Ruby - QA
 
-🐰 Chef Cola — HR
+🐰 Chef Liam - QA
 
-🐰 Chef Cocoa — Руководитель маркетинга ([Twitter](https://x.com/chef_cocoa_pcs))
+🐰 Chef Rei - Безопасность
 
-🐰 Chef Pixie — Менеджер по продуктовому маркетингу ([Twitter](https://x.com/chefpixiee))
-
-🐰 Chef Marcus — Социальные сети ([Twitter](https://x.com/ChefMarcusPCS))
-
-🐰 Chef Boba — Сообщество ([Twitter](https://x.com/chefboba_pcs))
-
-🐰 Chef Croissant — Мероприятия и PR
+🐰 Chef Cola - HR

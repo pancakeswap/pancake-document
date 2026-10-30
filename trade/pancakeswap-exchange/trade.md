@@ -4,7 +4,7 @@
 
 [**Обмен токенов**](https://pancakeswap.finance/swap) на PancakeSwap — это простой способ обменять один токен на другой через автоматизированные пулы ликвидности на BNB Smart Chain, Ethereum и Aptos, а также через маркет-мейкеров при торговле токенами на BNB Smart Chain и Ethereum.
 
-![](<https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(53).png>)
+![](<https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2853%29.png).png>)
 
 При обмене токенов на бирже PancakeSwap в сети [BNB Smart Chain](https://pancakeswap.finance/swap?chain=bsc) или [Ethereum](https://pancakeswap.finance/swap?chain=eth) с тебя будет взиматься торговая комиссия в зависимости от типа пула ликвидности, через который проходит сделка. Детали маршрута можно просмотреть, нажав на значок лупы в разделе «Маршрут».
 
@@ -18,6 +18,6 @@
 * **0,0225%** — отправляется в казначейство PancakeSwap.
 * **0,0575%** — идёт на обратный выкуп и сжигание CAKE.
 
-![](<https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(277).png>)
+![](<https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28277%29.png).png>)
 
 Обрати внимание: на [Aptos](https://aptos.pancakeswap.finance/swap) развёрнута только PancakeSwap Exchange V2, поэтому все обмены токенов на Aptos будут иметь фиксированную торговую комиссию 0,25% с тем же распределением, что указано выше.

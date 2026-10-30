@@ -10,25 +10,25 @@ Pro Mode даёт тебе полный контроль над сделками
 
 Нажми Connect Wallet в правом верхнем углу. Создание аккаунта и KYC не требуются — твой кошелёк и есть твой аккаунт.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(7).png" alt="" width="507"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%287%29.png).png" alt="" width="507"><figcaption></figcaption></figure>
 
 ### **Выбери режим**
 
 Выбери **Simple Mode** для быстрого лонга или шорта одним нажатием с предустановленными размерами. Переключись на **Pro Mode**, если хочешь устанавливать лимитные ордера, настраивать TP/SL или более детально управлять позициями.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(249).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28249%29.png).png" alt=""><figcaption></figcaption></figure>
 
 ### **Выбери торговую пару**
 
 Нажми на название пары в верхней части страницы, чтобы открыть селектор активов. Доступно огромное количество токен-пар.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(228).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28228%29.png).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### **Проанализируй график и определи стратегию**
 
 Используй встроенный график TradingView для анализа ценового движения перед размещением сделки. Доступны все стандартные инструменты построения графиков.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(264).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28264%29.png).png" alt=""><figcaption></figcaption></figure>
 
 ### **Задай параметры позиции**
 
@@ -49,12 +49,12 @@ Pro Mode даёт тебе полный контроль над сделками
 
 После настройки всех параметров нажми Buy / Long или Sell / Short, чтобы разместить ордер.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(284).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28284%29.png).png" alt=""><figcaption></figcaption></figure>
 
 ### **Проверь статус ордера**
 
 Твой ордер появится в разделе **Positions**, пока ожидает исполнения.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(287).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28287%29.png).png" alt=""><figcaption></figcaption></figure>
 
 Удачи в торговле!

@@ -2,7 +2,7 @@
 
 #### Какие сети в настоящее время поддерживаются?
 
-PancakeSwap X работает на Arbitrum и Ethereum, поддерживая криптотокены, а на BNB Chain — активы реального мира (RWA), такие как токенизированные акции, облигации и ETF.
+PancakeSwap X работает на Arbitrum, Ethereum, BNB Chain, Base и Robinhood Chain, поддерживая обмен криптотокенов. Активы реального мира (RWA), такие как токенизированные акции, облигации и ETF, дополнительно поддерживаются на BNB Chain, Ethereum и Robinhood Chain.
 
 #### Включён ли PancakeSwap X по умолчанию?
 

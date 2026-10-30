@@ -6,9 +6,9 @@
 
 **Подготовка к торговле**
 
-Прежде чем начать торговлю, тебе понадобится кошелёк, совместимый с BNB Chain или Ethereum. Как его получить, читай [здесь](https://docs.pancakeswap.finance/get-started/wallet-guide). Также потребуются токены BEP-20 или ERC-20 для торговли. Как их получить — [здесь](https://docs.pancakeswap.finance/get-started/bep20-guide).
+Прежде чем начать торговлю, тебе понадобится кошелёк, совместимый с BNB Chain или Ethereum. Как его получить, читай [здесь](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/wallet-guide). Также потребуются токены BEP-20 или ERC-20 для торговли. Как их получить — [здесь](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/bep20-guide).
 
-Как вариант, можно узнать, как получить кошелёк, совместимый с Aptos, [здесь](https://docs.pancakeswap.finance/get-started-aptos/wallet-guide), а также как пополнить счёт монетами Aptos для обмена — [здесь](https://docs.pancakeswap.finance/get-started-aptos/aptos-coin-guide).
+Как вариант, можно узнать, как получить кошелёк, совместимый с Aptos, [здесь](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-aptos/wallet-guide), а также как пополнить счёт монетами Aptos для обмена — [здесь](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started-aptos/aptos-coin-guide).
 
 ## Торговля на бирже PancakeSwap
 
@@ -18,13 +18,13 @@
 
 2 - Разблокируй свой кошелёк, нажав «Подключить **Кошелёк**» (также можно нажать **Connect** в правом верхнем углу). Если ты ещё не подключал кошелёк к PancakeSwap, ознакомься с руководством [здесь](https://docs.pancakeswap.finance/get-started/connection-guide).
 
-![](<https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(200).png>)
+![](<https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28200%29.png).png>)
 
 
 
 3 - Выбери токен для обмена в выпадающем меню в верхней части. Убедись, что у тебя достаточно выбранного токена в кошельке. Твой баланс отображается над выпадающим меню токенов.
 
-![](<https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(50).png>)
+![](<https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2850%29.png).png>)
 
 
 
@@ -42,19 +42,19 @@
 
 Если ты обмениваешь токен впервые, возможно, сначала потребуется нажать «Разрешить XXX (твой токен)» для подтверждения.
 
-![](<https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(272).png>)
+![](<https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28272%29.png).png>)
 
 
 
 7 - Появится окно с подробностями. Проверь правильность данных. Когда будешь готов, нажми кнопку **Подтвердить обмен**. Кошелёк попросит подтвердить действие.
 
-![](<https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(27).png>)
+![](<https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%2827%29.png).png>)
 
 
 
 8 - Готово! Ты можешь проверить транзакцию в обозревателе блоков, нажав на ссылку выше.
 
-![](<https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(209).png>)
+![](<https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28209%29.png).png>)
 
 ## **Что такое Smart Router V3 и как им пользоваться?**
 
@@ -64,7 +64,7 @@ Smart Router теперь является маршрутом по умолча�
 
 Чтобы узнать больше о настройке торговых маршрутов, [нажми здесь](fees-and-routes.md).&#x20;
 
-Подробнее о StableSwap — [здесь](/broken/pages/nNPogTZMxocdyFIBYbkE), об интеграции с маркет-мейкерами — [здесь](market-maker-integration.md).
+Подробнее о StableSwap — [здесь](../stableswap/classic-stableswap.md), об интеграции с маркет-мейкерами — [здесь](market-maker-integration.md).
 
 ## FAQ
 

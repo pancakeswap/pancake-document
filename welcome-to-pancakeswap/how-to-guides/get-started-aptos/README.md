@@ -1,17 +1,13 @@
 # Начало работы (Aptos)
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/get-started-header.png)
-
-Начинать работу с чем-то новым бывает непросто. Но не переживай — мы подготовили ряд руководств, которые помогут тебе освоиться с PancakeSwap!
+Пользоваться чем-то новым бывает непросто. Но не переживай: мы подготовили набор руководств, которые помогут тебе освоиться с PancakeSwap!
 
 ## Настройка PancakeSwap
 
-Следуй этим руководствам, чтобы всё настроить для работы с PancakeSwap, или сразу переходи к нужному разделу, если ты уже в процессе, но что-то пошло не так.
+Следуй этим руководствам, чтобы всё настроить для работы с PancakeSwap, или переходи сразу к нужному, если ты уже освоился, но запутался.
 
-[Создание кошелька на Aptos](wallet-guide.md)\
-[Получение Aptos Coin и перенос активов в сеть Aptos](aptos-coin-guide.md)\
+[Создание кошелька Aptos](wallet-guide.md)\
+[Как получить Aptos Coin и перевести активы в сеть Aptos](aptos-coin-guide.md)\
 [Подключение кошелька к PancakeSwap](connection-guide.md)
 
-
-
-Если ты не нашёл нужной информации, загляни в [Telegram PancakeSwap](../../contact-us/social-accounts.md) и задай вопрос там!
+Если не нашёл то, что нужно, заглядывай в [Telegram PancakeSwap](../../contact-us/social-accounts.md) и проси помощи там!

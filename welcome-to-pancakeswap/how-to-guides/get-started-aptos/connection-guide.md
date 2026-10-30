@@ -1,7 +1,5 @@
 # Подключение кошелька к PancakeSwap
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-connect-wallet-header.png)
-
 ## Подключи кошелёк
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/wallet-connection-aptos.png" alt=""><figcaption></figcaption></figure>
@@ -16,7 +14,7 @@
 
 ## **Подключение к Aptos Mainnet**
 
-У Aptos есть несколько сетей, включая несколько devnet и testnet. Но чтобы использовать PancakeSwap в сети Aptos Chain, убедись, что твой кошелёк подключён к **Aptos Mainnet**.&#x20;
+У Aptos есть несколько сетей, включая несколько devnet и testnet. Но чтобы использовать PancakeSwap в сети Aptos Chain, убедись, что твой кошелёк подключён к **Aptos Mainnet**.
 
 Вот как это сделать:
 

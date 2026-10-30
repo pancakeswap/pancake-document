@@ -305,7 +305,7 @@ description: Распространённые сообщения об ошибк
 Ты можешь выполнить «emergencyWithdraw» напрямую через контракт для вывода застейканных токенов.
 
 1. Найди адрес контракта Syrup Pool, из которого ты пытаешься вывести из Стейкинга. Ты можешь найти его в журнале транзакций кошелька.
-2. Перейди на [https://bscscan.com/](https://bscscan.com/address/0x73feaa1eE314F8c655E354234017bE2193C9E24E#writeContract) и в строке поиска введи адрес контракта.
+2. Перейди на [https://bscscan.com/](https://bscscan.com/) и в строке поиска введи адрес контракта.
 3. Выбери **Write Contract.**
 4. Нажми **«Connect to Web3»** и подключи кошелёк.![](https://lh6.googleusercontent.com/-_sNkO1gcOOJXkduDEUzbExKE2mNxBOR0f86Lpp3BBuPbIcmAHsfuvpF-hKqRn4oID5QzdGkk_1dTHkPuCmE50vpNNZxEqoM5nPmE_12k3-8Q8YYoRYqJ_VGjxJ03YPRuVQ1O5ME)
 5. В разделе **«3. emergencyWithdraw»** нажми «Write».
@@ -324,7 +324,7 @@ description: Распространённые сообщения об ошибк
 
 ## **Проблемы с Прогнозом**
 
-Проверь [Broken link](/broken/pages/8zN9xzaYD1DvxZvzLzug "mention")
+Проверь [Prediction FAQ](../../../play/prediction/prediction-faq.md "mention")
 
 ## **Другие проблемы**
 

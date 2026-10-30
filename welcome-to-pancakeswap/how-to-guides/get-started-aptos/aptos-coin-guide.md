@@ -1,7 +1,5 @@
 # Получение Aptos Coins
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-get-aptos-coins-header.png)
-
 {% hint style="info" %}
 Это руководство охватывает основные сервисы бриджинга на Aptos для популярных токенов. Чтобы перевести CAKE между Aptos и BNB Smart Chain, воспользуйся [PancakeSwap Aptos Bridge](https://bridge.pancakeswap.finance/aptos).
 {% endhint %}
@@ -49,7 +47,7 @@
 {% tab title="💰 Binance.com" %}
 [**Binance.com**](https://www.binance.com/en/)
 
-* Ты можешь вывести Aptos Coin (APT) в сеть Aptos через свой аккаунт Binance.&#x20;
+* Ты можешь вывести Aptos Coin (APT) в сеть Aptos через свой аккаунт Binance.
 * **⚠️ Сейчас поддерживается только Aptos Coin (APT). Для перевода других активов воспользуйся другими доступными вариантами бриджинга выше.**
 * **⚠️ Для этого потребуется аккаунт.**
 

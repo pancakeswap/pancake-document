@@ -8,7 +8,7 @@ PancakeSwap X открывает совершенно новый способ т
 * Безгазовые обмены
 
 {% hint style="success" %}
-**PancakeSwap X работает на Arbitrum, Ethereum и Base, поддерживая криптовалютные токены, а на BNB Chain — только реальные активы (RWA).**
+**PancakeSwap X работает на Arbitrum, Ethereum, BNB Chain, Base и Robinhood Chain, поддерживая обмен криптовалютных токенов. Реальные активы (RWA) дополнительно поддерживаются на BNB Chain, Ethereum и Robinhood Chain.**
 {% endhint %}
 
 > **Хочешь интегрироваться? Ознакомься с техническим руководством по интеграции PancakeSwap X** [**здесь**](https://www.notion.so/PCSX-Tech-Integration-Guide-0eb33e93295644e9855ec2c34b58b0c4?source=copy_link)**.**

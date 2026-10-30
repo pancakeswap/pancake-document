@@ -29,7 +29,7 @@ description: Бриджинг CAKE между Ethereum, BNB Chain, Aptos и мн
 
 ## CAKE — мультичейн-токен
 
-С расширением нашей мультичейн-инфраструктуры CAKE теперь является мультичейн-токеном, нативным для BNB Chain, но также доступным в сетях Base, Arbitrum, Solana, Ethereum, ZKsync, Linea, opBNB и Aptos.
+С расширением нашей мультичейн-инфраструктуры CAKE теперь является мультичейн-токеном, нативным для BNB Chain, но также доступным в сетях Base, Arbitrum, Solana, Ethereum, ZKsync, Linea, opBNB, Monad и Aptos.
 
 CAKE в любой другой сети равен CAKE в BNB Smart Chain. Его всегда можно переносить между этими сетями в соотношении 1:1 и без каких-либо комиссий в CAKE.
 
@@ -67,6 +67,7 @@ PancakeSwap Bridge выступает как умный слой поверх д
 * LayerZero
 * Stargate
 * Meson
+* Mayan
 
 > Примечание: каждый провайдер имеет различные механизмы бриджинга, поддерживаемые сети, комиссии и ограничения.
 
@@ -83,6 +84,9 @@ PancakeSwap Bridge выступает как умный слой поверх д
 * opBNB
 * ZKsync
 * Linea
+* Monad
+* Robinhood
+* Solana
 * Aptos (сайт V1)
 
 #### Токены, доступные для бриджинга
@@ -197,3 +201,7 @@ _Вышеперечисленное является примером. Факт�
    * `cakeOFT`: `0x3055913c90Fcc1A6CE9a358911721eEb942013A1` ([ссылка](https://basescan.org/address/0x3055913c90Fcc1A6CE9a358911721eEb942013A1#code))
 8. **opBNB**
    * `cakeOFT`: `0x2779106e4F4A8A28d77A24c18283651a2AE22D1C` ([ссылка](https://opbnbscan.com/address/0x2779106e4F4A8A28d77A24c18283651a2AE22D1C?tab=Contract\&p=1))
+9. **Monad**
+   * `cakeOFT`: `0xF59D81cd43f620E722E07f9Cb3f6E41B031017a3`
+10. **Solana**
+    * `cakeOFT`: `4qQeZ5LwSz6HuupUu8jCtgXyW1mYQcNbFAW1sWZp89HL`

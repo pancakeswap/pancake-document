@@ -114,4 +114,4 @@ bCAKE — farm booster работает путём оценки твоей по�
 
 bCAKE прошёл аудит как внутренними, так и внешними аудиторами.
 
-Отчёты об аудите доступны здесь: [https://docs.pancakeswap.finance/readme/audits](https://docs.pancakeswap.finance/readme/audits)
+Отчёты об аудите доступны здесь: [https://docs.pancakeswap.finance/welcome-to-pancakeswap/audits](https://docs.pancakeswap.finance/welcome-to-pancakeswap/audits)
