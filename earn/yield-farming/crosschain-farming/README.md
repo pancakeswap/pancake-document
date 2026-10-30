@@ -11,7 +11,7 @@ hidden: true
 
 Ознакомься с [основным разделом](../), чтобы узнать больше о yield farming.
 
-Ознакомься с нашим [руководством по использованию Ферм](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms), чтобы начать фарминг.
+Ознакомься с нашим [руководством по использованию Ферм](https://docs.pancakeswap.finance/earn/yield-farming/how-to-use-farms/how-to-use-farms), чтобы начать фарминг.
 
 {% hint style="warning" %}
 Yield Farming может приносить более высокие вознаграждения, чем Syrup Pools, но несёт в себе риск **непостоянных потерь**. Это звучит не так страшно, но стоит разобраться в концепции перед тем, как начать.

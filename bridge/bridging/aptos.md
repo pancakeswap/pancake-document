@@ -7,7 +7,7 @@ description: Бриджинг CAKE между EVM-сетями и Aptos
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28113%29.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-В следующем руководстве в качестве примера EVM-сети используется BNB Chain. Тот же процесс применим к Ethereum.
+В следующем руководстве в качестве примера EVM-сети используется BNB Chain. Тот же процесс применим к Ethereum для бриджинга **в** Aptos. Бриджинг **из** Aptos в настоящее время поддерживает только BNB Smart Chain в качестве сети назначения.
 {% endhint %}
 
 ## Бриджинг CAKE из BNB Smart Chain в Aptos

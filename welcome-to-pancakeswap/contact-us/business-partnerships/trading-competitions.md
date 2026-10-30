@@ -4,7 +4,7 @@
 
 Мы берём на себя настройку, отслеживание и объявление — ты предоставляешь награды, мы ведём шоу.
 
-Это доступно в BNB Chain, Solana, Base, Arbitrum, Ethereum, ZKsync, Linea, opBNB и Polygon zkEVM.
+Это доступно в BNB Chain, Solana, Base, Arbitrum, Ethereum, ZKsync, Linea и opBNB.
 
 _Некоторые проекты, принимавшие участие ранее, наблюдали увеличение объёма торгов в 3–7 раз и рост активных торговых адресов_
 

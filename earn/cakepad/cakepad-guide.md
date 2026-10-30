@@ -110,5 +110,5 @@
 
 Теперь, когда ты получил свои новые токены, можешь заставить их работать на тебя! Добавь ликвидность для своего токена, чтобы получать торговые комиссии и участвовать в Yield Farming.
 
-* Прочитай о добавлении ликвидности [здесь](https://docs.pancakeswap.finance/get-started/liquidity-guide).
+* Прочитай о добавлении ликвидности [здесь](https://docs.pancakeswap.finance/earn/pancakeswap-pools/liquidity-guide).
 * Прочитай о Yield Farming [здесь](../yield-farming/).

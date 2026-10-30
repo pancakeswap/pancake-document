@@ -87,7 +87,7 @@ description: Перенеси стейкинг ферм и пулов в нов�
 
 ![](<https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/en%20-%20migration%20timeline%20-%202.png>)
 
-Обязательно подпишись на наш [Twitter](https://twitter.com/pancakeswap/) или [Telegram](https://t.me/PancakeSwapAnn) для получения точных сроков и последних обновлений! Нужна помощь? Узнай, как её получить, [здесь](../../../contact-us/#help).
+Обязательно подпишись на наш [Twitter](https://twitter.com/pancakeswap/) или [Telegram](https://t.me/PancakeSwapAnn) для получения точных сроков и последних обновлений! Нужна помощь? Узнай, как её получить, [здесь](../../../contact-us/faq/help.md).
 
 ## FAQ
 

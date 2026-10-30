@@ -27,7 +27,7 @@
 4. **Мои общие вознаграждения**: Общее количество CAKE, доступного для погашения и клейма, включающего:
 
 * **Вознаграждения Cake Pool**: Устаревшие вознаграждения CAKE Pool
-* **Вознаграждения за распределение дохода**: Заработанные от стейкинга CAKE ([Подробнее](https://docs.pancakeswap.finance/earn/cake-staking/revenue-sharing/earn-cake-weekly))
+* **Вознаграждения за распределение дохода**: Заработанные от стейкинга CAKE ([Подробнее](https://docs.pancakeswap.finance/welcome-to-pancakeswap/vecake-sunset/archive-vecake/earn-cake-weekly))
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Connected%20view%20balance.png" alt=""><figcaption></figcaption></figure>
 

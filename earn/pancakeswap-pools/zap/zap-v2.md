@@ -29,7 +29,7 @@ Zap обеспечивает простое предоставление лик�
 
 Перейди на [страницу Ликвидность](https://pancakeswap.finance/liquidity) и выбери «Add Liquidity».
 
-Выбери торговую пару, для которой хочешь предоставить ликвидность, выбрав два входных токена; ознакомься с [руководством по ликвидности](https://docs.pancakeswap.finance/products/pancakeswap-exchange/liquidity-guide) для получения дополнительной информации.
+Выбери торговую пару, для которой хочешь предоставить ликвидность, выбрав два входных токена; ознакомься с [руководством по ликвидности](https://docs.pancakeswap.finance/earn/pancakeswap-pools/liquidity-guide) для получения дополнительной информации.
 
 ![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/zap-1.png)
 

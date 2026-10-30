@@ -1,7 +1,5 @@
 # Общий FAQ
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/general-faq-header%20%281%29.png)
-
 На этой странице FAQ даются ответы на наиболее часто задаваемые вопросы от сообщества PancakeSwap.
 
 ## Безопасен ли PancakeSwap? Проходил ли PancakeSwap аудит?
@@ -11,7 +9,7 @@
 * Ознакомься с [аудитами безопасности PancakeSwap](../../../#is-pancakeswap-safe)
 * Прозрачность:
   * Мы построены на программном обеспечении с открытым исходным кодом: наш сайт и все наши смарт-контракты публично видны для максимальной прозрачности.
-  * Наши контракты верифицированы на обозревателях блоков, так что ты получаешь именно то, что видишь. Проверь их [здесь](/broken/pages/-MeTcIwNOfhTYrz1V3xJ).
+  * Наши контракты верифицированы на обозревателях блоков, так что ты получаешь именно то, что видишь. Проверь их [здесь](https://developer.pancakeswap.finance/).
 * Лучшие практики безопасности:
   * Шеф-повара используют мультиподпись для всех контрактов.
   * Таймлок наших контрактов даёт тебе спокойствие.
@@ -20,7 +18,7 @@
 
 Ты можешь застейкать свои CAKE в Syrup Pools PancakeSwap. Посети [страницу Syrup Pools](https://pancakeswap.finance/pools).
 
-Прочитай наше [руководство по Стейкингу в Syrup Pools](https://docs.pancakeswap.finance/products/syrup-pool/syrup-pool-guide), если нужна помощь в начале работы со Стейкингом.
+Прочитай наше [руководство по Стейкингу в Syrup Pools](https://docs.pancakeswap.finance/earn/cake-staking/syrup-pool/syrup-pool-guide), если нужна помощь в начале работы со Стейкингом.
 
 ## В чём разница между Стейкингом и Фармингом?
 
@@ -30,19 +28,19 @@
 [Подробнее о Стейкинге в Syrup Pool.](https://docs.pancakeswap.finance/products/syrup-pool)
 
 Yield Farming более сложный и требует LP-токенов для получения CAKE.\
-[Подробнее о Yield Farming.](https://docs.pancakeswap.finance/products/yield-farming)
+[Подробнее о Yield Farming.](https://docs.pancakeswap.finance/earn/yield-farming)
 
 ## Как заниматься Фармингом?
 
-У нас есть [руководство по Yield Farming](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms), если тебе интересно узнать, как фармить.
+У нас есть [руководство по Yield Farming](https://docs.pancakeswap.finance/earn/yield-farming/how-to-use-farms/how-to-use-farms), если тебе интересно узнать, как фармить.
 
 ## Где можно посмотреть дорожную карту PancakeSwap?
 
-Ты можешь [посмотреть наш список задач здесь, но не называй это дорожной картой](https://docs.pancakeswap.finance/roadmap).
+Ты можешь [посмотреть наш список задач здесь, но не называй это дорожной картой](https://docs.pancakeswap.finance/welcome-to-pancakeswap/roadmap).
 
 ## Как подключить кошелёк к BNB Smart Chain и PancakeSwap?
 
-У нас есть [руководство по подключению кошелька к PancakeSwap](https://docs.pancakeswap.finance/get-started/connection-guide), подробно описывающее этот процесс.
+У нас есть [руководство по подключению кошелька к PancakeSwap](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/connection-guide), подробно описывающее этот процесс.
 
 ## Какой кошелёк лучше всего подходит для PancakeSwap?
 
@@ -52,9 +50,9 @@ Yield Farming более сложный и требует LP-токенов дл
 
 Ты можешь проверить статус транзакции на [https://bscscan.com/](https://bscscan.com).
 
-Наше [руководство по устранению ошибок](https://docs.pancakeswap.finance/help/troubleshooting) может содержать решение твоей проблемы, если у тебя возникли трудности.
+Наше [руководство по устранению ошибок](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/faq/troubleshooting) может содержать решение твоей проблемы, если у тебя возникли трудности.
 
-Ты также можешь воспользоваться [руководством по исправлению зависших ожидающих транзакций](https://docs.pancakeswap.finance/help/unsticking-a-transaction-stuck-as-pending-with-metamask), если транзакция зависла.
+Ты также можешь воспользоваться [руководством по исправлению зависших ожидающих транзакций](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/faq/unsticking-a-transaction-stuck-as-pending-with-metamask), если транзакция зависла.
 
 ## Когда откроются новые пулы?
 
@@ -82,15 +80,15 @@ Yield Farming более сложный и требует LP-токенов дл
 
 ## Почему отображается, что у меня нулевой баланс BNB?
 
-Если ты уже [перевёл BNB в кошелёк с поддержкой BNB Smart Chain](https://docs.pancakeswap.finance/get-started/bep20-guide), но всё равно видишь эту ошибку, скорее всего, ты не [подключён к BNB Smart Chain](https://docs.pancakeswap.finance/get-started/connection-guide) в своём кошельке. Проверь выбранную сеть в кошельке и убедись, что выбрана BNB Smart Chain (BSC).
+Если ты уже [перевёл BNB в кошелёк с поддержкой BNB Smart Chain](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/bep20-guide), но всё равно видишь эту ошибку, скорее всего, ты не [подключён к BNB Smart Chain](https://docs.pancakeswap.finance/welcome-to-pancakeswap/how-to-guides/get-started/connection-guide) в своём кошельке. Проверь выбранную сеть в кошельке и убедись, что выбрана BNB Smart Chain (BSC).
 
 ## Как голосовать?
 
-Чтобы узнать больше о голосовании, ты можешь [прочитать наш раздел о Голосовании](https://docs.pancakeswap.finance/products/voting), включая руководства по Голосованию.
+Чтобы узнать больше о голосовании, ты можешь [прочитать наш раздел о Голосовании](https://docs.pancakeswap.finance/protocol/voting), включая руководства по Голосованию.
 
 ## Каков максимальный объём предложения CAKE?
 
-Да, у CAKE теперь есть жёсткий лимит в 400 млн, как указано в [нашем последнем предложении](https://pancakeswap.finance/voting/proposal/0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5?id=0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5\&chain=bsc).
+У CAKE теперь есть жёсткий лимит в 400 млн, как указано в [нашем последнем предложении](https://pancakeswap.finance/voting/proposal/0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5?id=0xc988547f7b6c435764c840623685b0c2d13ebcc91d1672d39c51b6d14207f9a5\&chain=bsc).
 
 ## На что используются средства казначейства?
 
@@ -112,7 +110,7 @@ Yield Farming более сложный и требует LP-токенов дл
 
 Проверь раздел [«Стать шеф-поваром»](https://docs.pancakeswap.finance/hiring/become-a-chef) для получения информации об открытых вакансиях.
 
-Мы объявляем о новых вакансиях в наших [официальных социальных сетях](https://docs.pancakeswap.finance/contact-us/telegram), поэтому обязательно подпишись, чтобы получать актуальную информацию о найме.
+Мы объявляем о новых вакансиях в наших [сообществах в Telegram и Discord](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/telegram-and-discord-communities), поэтому обязательно подпишись, чтобы получать актуальную информацию о найме.
 
 ## Что такое SYRUP?
 
@@ -120,4 +118,4 @@ SYRUP ранее был частью процесса Стейкинга в на
 
 ## Я не нашёл ответа на свой вопрос. Где его найти?
 
-Если ты не можешь найти нужную информацию в документации PancakeSwap, задай свой вопрос на [официальных платформах социальных сетей PancakeSwap](https://docs.pancakeswap.finance/contact-us/telegram) — кто-нибудь постарается тебе помочь.
+Если ты не можешь найти нужную информацию в документации PancakeSwap, задай свой вопрос в наших [сообществах в Telegram и Discord](https://docs.pancakeswap.finance/welcome-to-pancakeswap/contact-us/telegram-and-discord-communities) — кто-нибудь постарается тебе помочь.

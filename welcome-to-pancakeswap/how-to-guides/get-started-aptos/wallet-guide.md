@@ -1,7 +1,5 @@
 # Создание кошелька
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-make-a-crypto-wallet-header.png)
-
 Чтобы начать работу с PancakeSwap на Aptos, первым делом нужно настроить кошелёк с поддержкой Aptos Chain. Кошельки доступны как для настольных компьютеров, так и для смартфонов. Тебе нужно выбрать тот, который лучше всего подходит именно тебе.
 
 {% hint style="danger" %}

@@ -6,7 +6,7 @@ hidden: true
 
 <figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Smart%20Router.png" alt=""><figcaption></figcaption></figure>
 
-Smart Router PancakeSwap — это алгоритм маршрутизации, связывающий AMM и StableSwap (BNB Chain), а также AMM и маркет-мейкеров (Ethereum), для обеспечения лучшей ликвидности и ценообразования. Он использует алгоритм умной маршрутизации заявок, исполняя сделки через несколько пулов для поиска лучшей цены для трейдеров. Подробнее о StableSwap [нажми здесь](/broken/pages/nNPogTZMxocdyFIBYbkE), а об интеграции маркет-мейкеров — [здесь](../market-maker-integration.md).
+Smart Router PancakeSwap — это алгоритм маршрутизации, связывающий AMM и StableSwap (BNB Chain), а также AMM и маркет-мейкеров (Ethereum), для обеспечения лучшей ликвидности и ценообразования. Он использует алгоритм умной маршрутизации заявок, исполняя сделки через несколько пулов для поиска лучшей цены для трейдеров. Подробнее о StableSwap [нажми здесь](../../stableswap/classic-stableswap.md), а об интеграции маркет-мейкеров — [здесь](../market-maker-integration.md).
 
 Kitchen постепенно будет добавлять пары StableSwap для дальнейшего тестирования и улучшения продукта.
 

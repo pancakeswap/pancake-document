@@ -147,7 +147,7 @@
 {% tab title="Check rounds you played" %}
 Как проверить историю сыгранных раундов
 
-1. Перейди на страницу BscScan [контракта Прогноза](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (например, BNBUSD).
+1. Перейди на страницу BscScan [контракта Прогноза](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract) (например, BNBUSD).
 2. Прокрути вниз до «8. getUserRounds».
 3. Введи адрес своего кошелька в поле «user(address)».
 4. Установи «cursor(uint256)» = 0 и «size(uint256)» = 1000.
@@ -158,7 +158,7 @@
 {% tab title="Check if you can claim" %}
 Сначала проверь, можешь ли ты фактически получить выигрыш за сыгранный раунд.
 
-1. Перейди на страницу BscScan [контракта Прогноза](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (например, BNBUSD) и открой вкладку Read.
+1. Перейди на страницу BscScan [контракта Прогноза](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract) (например, BNBUSD) и открой вкладку Read.
 2. Прокрути вниз до «4. claimable».
 3. Введи ID раунда, который хочешь проверить, в поле «epoch(uint256)».
 4. Введи адрес своего кошелька в поле «user(address)».
@@ -171,7 +171,7 @@
 {% tab title="Claim from a round" %}
 Как получить выигрыш
 
-1. Перейди на страницу BscScan [контракта Прогноза](https://bscscan.com/address/0x0E3A8078EDD2021dadcdE733C6b4a86E51EE8f07#readContract) (например, BNBUSD) и открой вкладку Write.
+1. Перейди на страницу BscScan [контракта Прогноза](https://bscscan.com/address/0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA#readContract) (например, BNBUSD) и открой вкладку Write.
 2. Нажми «🔴 Connect to Web3».
 3. Подключись через MetaMask или WalletConnect.
 4. Прокрути вниз до «3. claim».

@@ -10,19 +10,19 @@ Simple Mode создан для трейдеров, которым важна с
 
 Нажми Connect Wallet в правом верхнем углу. Создание аккаунта и KYC не требуются — твой кошелёк и есть твой аккаунт.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(7).png" alt="" width="507"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%287%29.png).png" alt="" width="507"><figcaption></figcaption></figure>
 
 ### **Выбери торговую пару**
 
 Нажми на название пары в верхней части страницы, чтобы открыть селектор активов. Доступно огромное количество токен-пар.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(300).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28300%29.png).png" alt=""><figcaption></figcaption></figure>
 
 ### **Моя ставка — размер позиции**
 
 Введи сумму, которую хочешь вложить, или нажми одну из предустановленных кнопок — **25%**, **50%** или **MAX** — чтобы задать размер позиции как долю от доступного баланса perp-фонда.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(337).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28337%29.png).png" alt=""><figcaption></figcaption></figure>
 
 ### **Кредитное плечо**
 
@@ -30,13 +30,13 @@ Simple Mode создан для трейдеров, которым важна с
 
 Когда кредитное плечо достаточно высокое и несёт значительный риск ликвидации, появляется индикатор **Amplified Risk** в качестве напоминания.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(319).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28319%29.png).png" alt=""><figcaption></figcaption></figure>
 
 ### **Одно нажатие — и позиция открыта**
 
 Нажми **UP**, чтобы открыть лонг, или **DOWN**, чтобы открыть шорт. Позиция немедленно открывается по лучшей доступной рыночной цене.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(341).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28341%29.png).png" alt=""><figcaption></figcaption></figure>
 
 ### **Повторные нажатия**
 
@@ -51,7 +51,7 @@ Simple Mode позволяет наращивать или уменьшать п
 
 Твой ордер появится в разделе **Positions**, пока ожидает исполнения.
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20(352).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/image%20%28352%29.png).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

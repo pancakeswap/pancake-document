@@ -1,7 +1,5 @@
 # FAQ по Aptos
 
-<figure><img src="https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/Aptos-faq-header.png" alt=""><figcaption></figcaption></figure>
-
 На этой странице FAQ собраны наиболее частые вопросы сообщества PancakeSwap о нашем развёртывании на Aptos.
 
 ## Общие вопросы
@@ -29,8 +27,6 @@
 Если ты хочешь обменять другие монеты, которых нет в списке по умолчанию, добавь их по адресу монеты.
 
 ### Почему я не могу торговать CAKE на Aptos Swap?
-
-_обновлено 13.12.2022_
 
 Токен/монета CAKE теперь доступна на Aptos. Ознакомься с нашим [руководством по бриджингу CAKE](cake-bridging-guide.md), чтобы узнать больше о переводе токенов CAKE между Aptos и BNB Smart Chain.
 

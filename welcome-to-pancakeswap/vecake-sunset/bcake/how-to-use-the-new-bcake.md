@@ -38,7 +38,7 @@ description: Стейкинг veCAKE и буст фарминга
 * Для V2 и StableSwap: застейкай токен LP, нажав «Add LP».
 * Для менеджеров позиций: добавь ликвидность, нажав «Add Liquidity».
 
-Чтобы узнать больше о Yield Farming, смотри [это](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) руководство.
+Чтобы узнать больше о Yield Farming, смотри [это](https://docs.pancakeswap.finance/earn/yield-farming/how-to-use-farms/how-to-use-farms) руководство.
 
 #### Активируй bCAKE <a href="#b3a80f22-5043-4e4b-afae-93b4abec504e" id="b3a80f22-5043-4e4b-afae-93b4abec504e"></a>
 

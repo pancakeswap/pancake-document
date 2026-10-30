@@ -1,7 +1,5 @@
 # Подключение кошелька к PancakeSwap
 
-![](https://raw.githubusercontent.com/pancakeswap/pancake-document/en/.gitbook/assets/how-to-connect-wallet-header.png)
-
 Ты создал кошелёк и получил BEP20 токены, теперь осталось только подключить кошелёк к PancakeSwap — и можно начинать!
 
 Ниже приведены шаги по подключению каждого из наших рекомендуемых кошельков к PancakeSwap.
